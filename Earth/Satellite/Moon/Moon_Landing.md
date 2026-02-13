@@ -94,7 +94,7 @@ dv_has_:
     am: ጨረቃ ላይ መውጣት
     ar: الهبوط على القمر
     ast: allunizaxe
-    be-tarask: высадка на Месяцы
+    be_tarask: высадка на Месяцы
     bg: Прилуняване
     blk: ထင်ႏလာမဲင်းလောင်း
     bn: চাঁদে অবতরণ
@@ -106,8 +106,8 @@ dv_has_:
     de: Mondlandung
     el: Προσελήνωση
     en: Moon landing
-    en-ca: Moon landing
-    en-gb: Moon landing
+    en_ca: Moon landing
+    en_gb: Moon landing
     eo: surluniĝo
     es: alunizaje
     et: Kuundumine
@@ -142,7 +142,7 @@ dv_has_:
     nv: Ooljééʼ yiikááʼ nandahí
     pl: lądowanie na Księżycu
     pt: alunissagem
-    pt-br: Alunissagem
+    pt_br: Alunissagem
     ro: Aselenizare
     ru: посадка на Луну
     sl: pristanek na Luni
@@ -158,14 +158,14 @@ dv_has_:
     wuu: 登陆月球
     yue: 登月
     zh: 登陸月球
-    zh-cn: 登陆月球
-    zh-hans: 登陆月球
-    zh-hant: 登陸月球
-    zh-hk: 登陸月球
-    zh-mo: 登陸月球
+    zh_cn: 登陆月球
+    zh_hans: 登陆月球
+    zh_hant: 登陸月球
+    zh_hk: 登陸月球
+    zh_mo: 登陸月球
     zh-my: 登陆月球
-    zh-sg: 登陆月球
-    zh-tw: 登陸月球
+    zh_sg: 登陆月球
+    zh_tw: 登陸月球
 ---
 # [[Moon_Landing]] 
 

@@ -166,7 +166,7 @@ dv_has_:
     ban: Hafnium
     bcl: Hapnyo
     be: гафній
-    be-tarask: гафн
+    be_tarask: гафн
     bg: хафний
     bho: हाफ्नियम
     bn: হ্যাফনিয়াম
@@ -262,7 +262,7 @@ dv_has_:
     pnb: ہافنیم
     ps: هافنيوم
     pt: háfnio
-    pt-br: háfnio
+    pt_br: háfnio
     qu: Hafniyu
     ro: hafniu
     ru: гафний
@@ -278,7 +278,7 @@ dv_has_:
     so: Haafniyaam
     sq: Hafniumi
     sr: хафнијум
-    sr-ec: Хафнијум
+    sr_ec: Хафнијум
     stq: Hafnium
     su: Hafnium
     sv: hafnium
@@ -303,11 +303,11 @@ dv_has_:
     yo: Hafnium
     yue: 鉿
     zh: 鉿
-    zh-cn: 铪
-    zh-hans: 铪
-    zh-hant: 鉿
-    zh-hk: 鉿
-    zh-tw: 鉿
+    zh_cn: 铪
+    zh_hans: 铪
+    zh_hant: 鉿
+    zh_hk: 鉿
+    zh_tw: 鉿
     zu: UmHlafantunge
   number_of_:
     period: 6

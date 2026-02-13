@@ -37,7 +37,7 @@ dv_has_:
     oc: Pinus remota
     pl: Pinus remota
     pt: Pinus remota
-    pt-br: Pinus remota
+    pt_br: Pinus remota
     ro: Pinus remota
     ru: Pinus remota
     sq: Pinus remota

@@ -100,7 +100,7 @@ dv_has_:
     az: Coul
     azb: ژول
     be: джоўль
-    be-tarask: джоўль
+    be_tarask: джоўль
     bg: Джаул
     bjn: joule
     bn: জুল
@@ -114,11 +114,11 @@ dv_has_:
     cy: joule
     da: Joule
     de: Joule
-    de-ch: Joule
+    de_ch: Joule
     el: Τζάουλ
     en: joule
-    en-ca: Joule
-    en-gb: joule
+    en_ca: Joule
+    en_gb: joule
     eo: ĵulo
     es: julio
     et: džaul
@@ -168,7 +168,7 @@ dv_has_:
     mn: Жоуль
     mr: ज्यूल
     ms: joule
-    ms-arab: جول
+    ms_arab: جول
     mt: joule
     my: ဂျိုး
     nb: joule
@@ -181,7 +181,7 @@ dv_has_:
     pms: Joule
     pnb: جاؤل
     pt: joule
-    pt-br: joule
+    pt_br: joule
     rm: J
     ro: Joule
     roa-tara: Joule
@@ -197,7 +197,7 @@ dv_has_:
     smn: joule
     sq: Xhaul
     sr: џул
-    sr-ec: Џул
+    sr_ec: Џул
     su: Joule
     sv: joule
     sw: Jouli
@@ -218,8 +218,8 @@ dv_has_:
     wuu: 焦耳
     yue: 焦耳
     zh: 焦耳
-    zh-hant: 焦耳
-    zh-hk: 焦耳
+    zh_hant: 焦耳
+    zh_hk: 焦耳
 ---
 # [[Joule]] 
 

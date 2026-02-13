@@ -148,7 +148,7 @@ dv_has_:
     bax: bushiri
     bbj: kukulú
     bdr: Bubur buas
-    be-tarask: каша
+    be_tarask: каша
     bg: каша
     bkc: sòsòkò nà mbómbò
     bkh: kukúru
@@ -166,8 +166,8 @@ dv_has_:
     ee: Dzogbo
     el: χύλωμα
     en: porridge
-    en-ca: Porridge
-    en-gb: porridge
+    en_ca: Porridge
+    en_gb: porridge
     eo: kaĉo
     es: gachas
     et: puder
@@ -203,11 +203,11 @@ dv_has_:
     kcg: a̱ta̱bwai
     ker: takra
     kk: Ботқа
-    kk-arab: بوتقا
+    kk_arab: بوتقا
     kk-cn: بوتقا
-    kk-cyrl: Ботқа
+    kk_cyrl: Ботқа
     kk-kz: Ботқа
-    kk-latn: Botqa
+    kk_latn: Botqa
     kk-tr: Botqa
     kn: ಗಂಜಿ
     ko: 포리지
@@ -236,7 +236,7 @@ dv_has_:
     pl: owsianka z kaszy
     pnb: دݪیا
     pt: mingau
-    pt-br: Mingau
+    pt_br: Mingau
     rmf: briija
     ro: Terci
     ru: каша
@@ -270,11 +270,11 @@ dv_has_:
     za: Haeuxcuk (Guekrog)
     zh: 餬
     zh-cn: 糊
-    zh-hans: 糊
-    zh-hant: 餬
-    zh-hk: 餬
-    zh-sg: 糊
-    zh-tw: 餬
+    zh_hans: 糊
+    zh_hant: 餬
+    zh_hk: 餬
+    zh_sg: 糊
+    zh_tw: 餬
 ---
 # [[Porridge]] 
 

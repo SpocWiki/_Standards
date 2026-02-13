@@ -104,7 +104,7 @@ dv_has_:
     bar: Led Zeppelin
     bcl: Led Zeppelin
     be: Led Zeppelin
-    be-tarask: Led Zeppelin
+    be_tarask: Led Zeppelin
     bg: Лед Зепелин
     bn: লেড জেপেলিন
     br: Led Zeppelin
@@ -118,8 +118,8 @@ dv_has_:
     diq: Led Zeppelin
     el: Led Zeppelin
     en: Led Zeppelin
-    en-ca: Led Zeppelin
-    en-gb: Led Zeppelin
+    en_ca: Led Zeppelin
+    en_gb: Led Zeppelin
     eo: Led Zeppelin
     es: Led Zeppelin
     et: Led Zeppelin
@@ -174,7 +174,7 @@ dv_has_:
     pms: Led Zeppelin
     pnb: لیڈ زیپلین
     pt: Led Zeppelin
-    pt-br: Led Zeppelin
+    pt_br: Led Zeppelin
     qu: Led Zeppelin
     ro: Led Zeppelin
     ru: Led Zeppelin
@@ -187,8 +187,8 @@ dv_has_:
     sl: Led Zeppelin
     sq: Led Zeppelin
     sr: Лед зепелин
-    sr-ec: Лед зепелин
-    sr-el: Led zepelin
+    sr_ec: Лед зепелин
+    sr_el: Led zepelin
     su: Led Zeppelin
     sv: Led Zeppelin
     sw: Led Zeppelin
@@ -200,7 +200,7 @@ dv_has_:
     tpi: Led Zeppelin
     tr: Led Zeppelin
     tt: Led Zeppelin
-    tt-cyrl: Led Zeppelin
+    tt_cyrl: Led Zeppelin
     uk: Led Zeppelin
     ur: لیڈ زیپلن
     uz: Led Zeppelin
@@ -213,7 +213,7 @@ dv_has_:
     yue: 齊柏林飛船
     zh: 齐柏林飞船
     zh-my: 齐柏林飞船
-    zh-sg: 齐柏林飞船
+    zh_sg: 齐柏林飞船
 ---
 # [[Led_Zeppelin]]
 

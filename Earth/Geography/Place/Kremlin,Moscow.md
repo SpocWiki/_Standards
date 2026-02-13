@@ -155,7 +155,7 @@ dv_has_:
     ba: Мәскәү Кремле
     bcl: Kremlin
     be: Маскоўскі Крэмль
-    be-tarask: Маскоўскі Крэмль
+    be_tarask: Маскоўскі Крэмль
     bg: Московски кремъл
     bn: ক্রেমলিন
     bs: Moskovski kremlj
@@ -166,10 +166,10 @@ dv_has_:
     cy: Kremlin Moscfa
     da: Kreml
     de: Kreml
-    de-ch: Moskauer Kreml
+    de_ch: Moskauer Kreml
     el: Κρεμλίνο
     en: Kremlin
-    en-ca: Moscow Kremlin
+    en_ca: Moscow Kremlin
     eo: Kremlo
     es: Kremlin
     et: Kreml
@@ -195,8 +195,8 @@ dv_has_:
     ka: მოსკოვის კრემლი
     ko: 크렘린
     ku: Kremlîn
-    ku-arab: کرەملین
-    ku-latn: Kremlîn
+    ku_arab: کرەملین
+    ku_latn: Kremlîn
     kv: Канкарса Кремль
     ky: Москва Кремли
     la: Cremlinus
@@ -220,7 +220,7 @@ dv_has_:
     pl: Kreml moskiewski
     ps: کرملین
     pt: Kremlin
-    pt-br: Kremlin de Moscovo
+    pt_br: Kremlin de Moscovo
     ro: Kremlinul
     ru: Московский Кремль
     sc: Kremlinu
@@ -229,12 +229,12 @@ dv_has_:
     sl: moskovski Kremelj
     sq: Kremlini
     sr: Московски Кремљ
-    sr-ec: Московски Кремљ
-    sr-el: Moskovski Kremlj
+    sr_ec: Московски Кремљ
+    sr_el: Moskovski Kremlj
     sv: Kreml
     ta: கிரெம்லின்
     tg: Кремли Москва
-    tg-latn: Kremli Moskva
+    tg_latn: Kremli Moskva
     th: เครมลิน
     tr: Kremlini
     tt: Мәскәү кремле
@@ -249,12 +249,12 @@ dv_has_:
     yue: 克里姆林宮
     zgh: ⴽⵔⵉⵎⵍⵉⵏ ⵏ ⵎⵓⵙⴽⵓ
     zh: 克里姆林宫
-    zh-cn: 克里姆林宫
-    zh-hans: 克里姆林宫
-    zh-hant: 克里姆林宮
-    zh-hk: 克里姆林宮
-    zh-sg: 克里姆林宫
-    zh-tw: 克里姆林宮
+    zh_cn: 克里姆林宫
+    zh_hans: 克里姆林宫
+    zh_hant: 克里姆林宮
+    zh_hk: 克里姆林宮
+    zh_sg: 克里姆林宫
+    zh_tw: 克里姆林宮
 ---
 # [[Kremlin,Moscow]] 
 

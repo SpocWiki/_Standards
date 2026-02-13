@@ -106,7 +106,7 @@ dv_has_:
   name_:
     ar: مرض مناعي ذاتي
     azb: اؤزگوونلیک مریضلیکلری
-    be-tarask: аўтаімуннае захворваньне
+    be_tarask: аўтаімуннае захворваньне
     bg: Автоимунно заболяване
     bn: স্বতঃঅনাক্রম্য রোগ
     bs: Autoimune bolesti
@@ -117,8 +117,8 @@ dv_has_:
     de: Autoimmunerkrankung
     el: αυτοάνοση νόσος
     en: autoimmune disease
-    en-ca: Autoimmune disease
-    en-gb: autoimmune disease
+    en_ca: Autoimmune disease
+    en_gb: autoimmune disease
     eo: memimuna malsano
     es: enfermedad autoinmune
     et: autoimmuunhaigus

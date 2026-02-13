@@ -155,7 +155,7 @@ dv_has_:
     ast: Médicos Ensin Fronteres
     az: Sərhədsiz Həkimlər
     be: Урачы без межаў
-    be-tarask: Лекары бязь межаў
+    be_tarask: Лекары бязь межаў
     bg: Лекари без граници
     bn: মেদসাঁ সঁ ফ্রোঁতিয়ের
     br: Médecins Sans Frontières
@@ -165,12 +165,12 @@ dv_has_:
     cy: Médecins Sans Frontières
     da: Læger uden Grænser
     de: Ärzte ohne Grenzen International
-    de-ch: Ärzte ohne Grenzen
+    de_ch: Ärzte ohne Grenzen
     din: Akut Akim Cinakëth
     el: Γιατροί Χωρίς Σύνορα
     en: Doctors Without Borders International
-    en-ca: Médecins Sans Frontières
-    en-gb: Médecins Sans Frontières
+    en_ca: Médecins Sans Frontières
+    en_gb: Médecins Sans Frontières
     eo: Kuracistoj sen landlimoj
     es: Médicos Sin Fronteras
     et: Piirideta Arstid
@@ -214,7 +214,7 @@ dv_has_:
     pnb: میڈیسن سانس فرنٹیرس
     ps: بی پولی ډاکتران
     pt: Médicos sem Fronteiras
-    pt-br: Médicos sem Fronteiras
+    pt_br: Médicos sem Fronteiras
     ro: Medicii fără frontiere
     ru: Врачи без границ
     rw: Abavuzi Batagira Umupaka
@@ -237,8 +237,8 @@ dv_has_:
     wuu: 无国界医生
     yue: 無國界醫生
     zh: 無國界醫生
-    zh-hans: 无国界医生
-    zh-hant: 無國界醫生
+    zh_hans: 无国界医生
+    zh_hant: 無國界醫生
 ---
 # [[Médecins_Sans_Frontières]] 
 

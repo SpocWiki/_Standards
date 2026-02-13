@@ -264,7 +264,7 @@ dv_has_:
     bar: Sprochwissnschoft
     bcl: linggwistika
     be: мовазнаўства
-    be-tarask: мовазнаўства
+    be_tarask: мовазнаўства
     bg: езикознание
     bho: भाषा बिज्ञान
     bjn: linguistik
@@ -298,7 +298,7 @@ dv_has_:
     dv: ބަހަވިއްޔާތު
     el: γλωσσολογία
     en: linguistics
-    en-gb: linguistics
+    en_gb: linguistics
     eo: lingvoscienco
     es: lingüística
     et: keeleteadus
@@ -358,7 +358,7 @@ dv_has_:
     krc: лингвистика
     ks: لسانيات
     ku: zimannasî
-    ku-latn: zimannasî
+    ku_latn: zimannasî
     kw: yethonieth
     ky: тил илими
     la: linguistica
@@ -385,7 +385,7 @@ dv_has_:
     mni: ꯂꯤꯉ꯭ꯒꯨꯏꯁ꯭ꯇꯤꯛ
     mr: भाषाशास्त्र
     ms: linguistik
-    ms-arab: ليڠݢوءيستيک
+    ms_arab: ليڠݢوءيستيک
     mt: lingwistika
     my: ဘာသာဗေဒ
     myv: кельсодамо
@@ -393,7 +393,7 @@ dv_has_:
     nan: gí-giân-ha̍k
     nb: lingvistikk
     nds: Spraakwetenschop
-    nds-nl: sproaklear
+    nds_nl: sproaklear
     ne: भाषाविज्ञान
     new: भाषा विज्ञान
     nl: taalkunde
@@ -415,7 +415,7 @@ dv_has_:
     pnt: γλωσσολογία
     ps: ژبپوهنه
     pt: linguística
-    pt-br: linguística
+    pt_br: linguística
     qu: simi yachay
     rmf: tšimbako džaaniba
     rmy: chhibavipen
@@ -445,7 +445,7 @@ dv_has_:
     sn: ururimi
     sq: gjuhësi
     sr: лингвистика
-    sr-ec: лингвистика
+    sr_ec: лингвистика
     stq: Sproakwietenskup
     su: linguistik
     sv: språkvetenskap
@@ -454,7 +454,7 @@ dv_has_:
     ta: மொழியியல்
     te: భాషాశాస్త్రం
     tg: забоншиносӣ
-    tg-cyrl: забоншиносӣ
+    tg_cyrl: забоншиносӣ
     th: ภาษาศาสตร์
     tl: lingguwistika
     tok: sona toki
@@ -481,11 +481,11 @@ dv_has_:
     zea: taelkunde
     zgh: ⵜⴰⵙⵏⵉⵍⵙⵜ
     zh: 语言学
-    zh-cn: 语言学
-    zh-hans: 语言学
-    zh-hant: 語言學
-    zh-hk: 語言學
-    zh-tw: 語言學
+    zh_cn: 语言学
+    zh_hans: 语言学
+    zh_hant: 語言學
+    zh_hk: 語言學
+    zh_tw: 語言學
 ---
 # [[Linguistics]] 
 

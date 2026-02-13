@@ -222,7 +222,7 @@ dv_has_:
     bar: Ostn
     bcl: sirangan
     be: усход
-    be-tarask: усход
+    be_tarask: усход
     bew: Wètan
     bg: Изток
     bho: पूर्व
@@ -248,15 +248,15 @@ dv_has_:
     dag: wulinpuhili
     de: Osten
     de-at: Osten
-    de-ch: Osten
+    de_ch: Osten
     diq: rocvetış
     dsb: pódzajtšo
     dtp: kosilahon
     el: ανατολή
     eml: Matèina
     en: east
-    en-ca: east
-    en-gb: east
+    en_ca: east
+    en_gb: east
     eo: oriento
     es: este
     et: ida
@@ -320,7 +320,7 @@ dv_has_:
     lv: austrumi
     lzh: 東
     mai: पूर्व
-    map-bms: Wetan
+    map_bms: Wetan
     mdf: Шинь стяма ширесь
     mg: Atsinanana
     mhr: Эрвел
@@ -331,7 +331,7 @@ dv_has_:
     mnc: ᡩᡝᡵᡤᡳ
     mr: पूर्व दिशा
     ms: timur
-    ms-arab: تيمور
+    ms_arab: تيمور
     mt: lvant
     my: အရှေ့အရပ်
     myv: Чилисема
@@ -355,7 +355,7 @@ dv_has_:
     pnb: چڑھدا
     ps: ختيځ
     pt: leste
-    pt-br: leste
+    pt_br: leste
     pwn: kacedas
     qu: Anti
     ro: est
@@ -377,7 +377,7 @@ dv_has_:
     so: Bari
     sq: Lindja
     sr: исток
-    sr-ec: Исток
+    sr_ec: Исток
     su: Wétan
     sv: öster
     sw: Mashariki
@@ -392,7 +392,7 @@ dv_has_:
     tok: open suno
     tr: doğu
     tt: көнчыгыш
-    tt-cyrl: көнчыгыш
+    tt_cyrl: көнчыгыш
     udm: шундыӝужан
     ug: شەرق
     uk: схід
@@ -412,14 +412,14 @@ dv_has_:
     za: Baihdoeng
     zgh: ⴰⴳⵎⵎⵓⴹ
     zh: 東
-    zh-cn: 东
-    zh-hans: 东
-    zh-hant: 東
-    zh-hk: 東
-    zh-mo: 東
+    zh_cn: 东
+    zh_hans: 东
+    zh_hant: 東
+    zh_hk: 東
+    zh_mo: 東
     zh-my: 东
-    zh-sg: 东
-    zh-tw: 東
+    zh_sg: 东
+    zh_tw: 東
 dv_is_:
   same_as:
   - '[[../../WikiData/WD~East,684|WD~East,684]]'

@@ -76,7 +76,7 @@ dv_has_:
     ar: والاس هيوم كاروثرز
     ast: Wallace Carothers
     azb: والاس کاروترز
-    be-tarask: Ўолес Каратэрз
+    be_tarask: Ўолес Каратэрз
     ca: Wallace Carothers
     cs: Wallace Carothers
     da: Wallace Carothers
@@ -106,7 +106,7 @@ dv_has_:
     pap: Wallace Carothers
     pl: Wallace Hume Carothers
     pt: Wallace Carothers
-    pt-br: Wallace Carothers
+    pt_br: Wallace Carothers
     ro: Wallace Carothers
     ru: Уоллес Хьюм Карозерс
     sl: Wallace Carothers
@@ -120,12 +120,12 @@ dv_has_:
     xmf: უოლეს კაროზერსი
     yue: 華萊士·卡羅瑟斯
     zh: 华莱士·卡罗瑟斯
-    zh-cn: 华莱士·卡罗瑟斯
-    zh-hans: 华莱士·卡罗瑟斯
-    zh-hant: 華萊士·卡羅瑟斯
-    zh-hk: 華萊士·卡羅瑟斯
-    zh-sg: 华莱士·卡罗瑟斯
-    zh-tw: 華萊士·卡羅瑟斯
+    zh_cn: 华莱士·卡罗瑟斯
+    zh_hans: 华莱士·卡罗瑟斯
+    zh_hant: 華萊士·卡羅瑟斯
+    zh_hk: 華萊士·卡羅瑟斯
+    zh_sg: 华莱士·卡罗瑟斯
+    zh_tw: 華萊士·卡羅瑟斯
 dv_is_same_as:
 - '[[../../WikiData/WD~Wallace_Carothers,333724|WD~Wallace_Carothers,333724]]'
 - '[[/_Standards/Chemistry/Chemist/Carothers,Wallace|Carothers,Wallace]]'

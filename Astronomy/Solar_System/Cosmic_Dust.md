@@ -113,7 +113,7 @@ dv_has_:
     az: Kosmik toz
     ba: Космос саңы
     be: Касмічны пыл
-    be-tarask: касьмічны пыл
+    be_tarask: касьмічны пыл
     bg: Космически прах
     bn: মহাজাগতিক ধূলিকণা
     bs: Svemirska prašina
@@ -166,25 +166,25 @@ dv_has_:
     sk: Medziplanetárny prach
     sl: kozmični prah
     sr: космичка прашина
-    sr-ec: космичка прашина
-    sr-el: kosmička prašina
+    sr_ec: космичка прашина
+    sr_el: kosmička prašina
     sv: rymdstoft
     th: ฝุ่นคอสมิก
     tr: Kozmik toz
     tt: космик тузан
-    tt-cyrl: космик тузан
+    tt_cyrl: космик тузан
     uk: Космічний пил
     ur: کائناتی غبار
     vi: Bụi vũ trụ
     xmf: კოსმოსური ნტვერი
     yue: 宇宙塵
     zh: 宇宙塵
-    zh-cn: 宇宙尘
-    zh-hans: 宇宙尘
-    zh-hant: 宇宙塵
-    zh-hk: 宇宙塵
-    zh-sg: 宇宙尘
-    zh-tw: 宇宙塵
+    zh_cn: 宇宙尘
+    zh_hans: 宇宙尘
+    zh_hant: 宇宙塵
+    zh_hk: 宇宙塵
+    zh_sg: 宇宙尘
+    zh_tw: 宇宙塵
 ---
 # [[Cosmic_Dust]] 
 

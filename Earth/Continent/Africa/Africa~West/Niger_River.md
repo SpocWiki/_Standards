@@ -194,7 +194,7 @@ dv_has_:
     ba: Нигер
     bar: Niger
     be: Нігер
-    be-tarask: Нігер
+    be_tarask: Нігер
     bg: Нигер
     bho: नाइजर नदी
     bm: Jeliba
@@ -215,8 +215,8 @@ dv_has_:
     dsb: Niger
     el: Νίγηρας ποταμός
     en: Niger River
-    en-ca: Niger River
-    en-gb: Niger River
+    en_ca: Niger River
+    en_gb: Niger River
     eo: Niĝero
     es: Níger
     et: Nigeri jõgi
@@ -294,7 +294,7 @@ dv_has_:
     pms: Nìger (fium)
     pnb: دریائے نائجر
     pt: Rio Níger
-    pt-br: Rio Níger
+    pt_br: Rio Níger
     qu: Niqir mayu
     ro: Niger
     roa-tara: Niger, jume
@@ -336,10 +336,10 @@ dv_has_:
     yo: Odò Niger
     yue: 尼日河
     zh: 尼日尔河
-    zh-cn: 尼日尔河
-    zh-hans: 尼日尔河
-    zh-hant: 尼日河
-    zh-tw: 尼日河
+    zh_cn: 尼日尔河
+    zh_hans: 尼日尔河
+    zh_hant: 尼日河
+    zh_tw: 尼日河
 ---
 # [[Niger_River]] 
 

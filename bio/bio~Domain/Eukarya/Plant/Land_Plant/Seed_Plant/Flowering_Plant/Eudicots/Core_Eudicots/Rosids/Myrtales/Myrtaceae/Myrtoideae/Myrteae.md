@@ -47,7 +47,7 @@ dv_has_:
     oc: Myrteae
     pl: Myrteae
     pt: Myrteae
-    pt-br: Myrteae
+    pt_br: Myrteae
     ro: Myrteae
     ru: Myrteae
     sl: Myrteae
@@ -58,8 +58,8 @@ dv_has_:
     vo: Myrteae
     war: Myrteae
     zh: 桃金娘族
-    zh-cn: 桃金娘族
-    zh-hans: 桃金娘族
+    zh_cn: 桃金娘族
+    zh_hans: 桃金娘族
 ---
 # [[Myrteae]] 
 

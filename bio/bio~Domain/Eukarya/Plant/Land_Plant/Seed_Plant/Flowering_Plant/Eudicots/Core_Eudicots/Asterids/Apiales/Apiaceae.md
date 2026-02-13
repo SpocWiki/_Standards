@@ -164,7 +164,7 @@ dv_has_:
     ast: Apiaceae
     az: çətirçiçəklilər
     be: парасонавыя
-    be-tarask: парасонавыя
+    be_tarask: парасонавыя
     bg: сенникови
     bs: Apiaceae
     ca: Apiaceae
@@ -174,12 +174,12 @@ dv_has_:
     cv: сунчăк йышшисем
     da: skærmplante-familien
     de: Doldenblütler
-    de-ch: Doldenblütler
+    de_ch: Doldenblütler
     dsb: wokołkowe rostliny
     el: Σκιαδιοφόρα
     en: Apiaceae
-    en-ca: Apiaceae
-    en-gb: Apiaceae
+    en_ca: Apiaceae
+    en_gb: Apiaceae
     eo: apiacoj
     es: Apiaceae
     et: sarikalised
@@ -207,16 +207,16 @@ dv_has_:
     ja: セリ科
     ka: ქოლგოსანნი
     kk: шатыршагүлділер тұқымдасы
-    kk-arab: شاتىرشاگۇلدىلەر تۇقىمداسى
+    kk_arab: شاتىرشاگۇلدىلەر تۇقىمداسى
     kk-cn: شاتىرشاگۇلدىلەر تۇقىمداسى
-    kk-cyrl: шатыршагүлділер тұқымдасы
+    kk_cyrl: шатыршагүлділер тұқымдасы
     kk-kz: шатыршагүлділер тұқымдасы
-    kk-latn: şatırşagüldiler tuqımdası
+    kk_latn: şatırşagüldiler tuqımdası
     kk-tr: şatırşagüldiler tuqımdası
     ko: 미나리과
     ku: famîleya bexdenûsan
-    ku-arab: فامیلەیا بەخدەنووسان
-    ku-latn: Famîleya bexdenûsan
+    ku_arab: فامیلەیا بەخدەنووسان
+    ku_latn: Famîleya bexdenûsan
     la: Apiaceae
     lij: Apiaceae
     lt: salieriniai
@@ -236,7 +236,7 @@ dv_has_:
     pl: selerowate
     pnb: چھتری ٹبر
     pt: Apiaceae
-    pt-br: Apiaceae
+    pt_br: Apiaceae
     qu: Raqacha yura rikch'aq ayllu
     ro: Apiaceae
     roa-tara: Apiaceae
@@ -248,8 +248,8 @@ dv_has_:
     smn: pocceerääsih
     sq: Apiaceae
     sr: Apiaceae
-    sr-ec: Апиацеае
-    sr-el: Apiaceae
+    sr_ec: Апиацеае
+    sr_el: Apiaceae
     su: Apiaceae
     sv: flockblommiga växter
     ta: ஏபியேசியே
@@ -269,12 +269,12 @@ dv_has_:
     xmf: ქორგამეფი
     yue: 傘形科
     zh: 伞形科
-    zh-cn: 伞形科
-    zh-hans: 伞形科
-    zh-hant: 傘形科
-    zh-hk: 傘形科
-    zh-sg: 伞形科
-    zh-tw: 傘形科
+    zh_cn: 伞形科
+    zh_hans: 伞形科
+    zh_hant: 傘形科
+    zh_hk: 傘形科
+    zh_sg: 伞形科
+    zh_tw: 傘形科
 ---
 # [[Apiaceae]] 
 

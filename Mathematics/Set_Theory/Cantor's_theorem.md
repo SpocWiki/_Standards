@@ -52,14 +52,14 @@ dv_has_:
   name_:
     ar: مبرهنة كانتور
     ast: Teorema de Cantor
-    be-tarask: Кантарава тэарэма
+    be_tarask: Кантарава тэарэма
     ca: teorema de Cantor
     cs: Cantorova věta
     de: Satz von Cantor
     el: Θεώρημα του Καντόρ
     en: Cantor's theorem
-    en-ca: Cantor's theorem
-    en-gb: Cantor's theorem
+    en_ca: Cantor's theorem
+    en_gb: Cantor's theorem
     eo: teoremo de Cantor
     es: teorema de Cantor
     eu: Cantorren teorema
@@ -84,7 +84,7 @@ dv_has_:
     oc: Teorèma de Cantor
     pl: twierdzenie Cantora
     pt: teorema de Cantor
-    pt-br: teorema de Cantor
+    pt_br: teorema de Cantor
     ro: teorema lui Cantor
     ru: теорема Кантора
     sl: Cantorjev izrek
@@ -96,12 +96,12 @@ dv_has_:
     vi: Định lý đường chéo Cantor
     yue: Cantor 定理
     zh: 康托尔定理
-    zh-cn: 康托尔定理
-    zh-hans: 康托尔定理
-    zh-hant: 康托爾定理
-    zh-hk: 康托爾定理
-    zh-sg: 康托尔定理
-    zh-tw: 康托爾定理
+    zh_cn: 康托尔定理
+    zh_hans: 康托尔定理
+    zh_hant: 康托爾定理
+    zh_hk: 康托爾定理
+    zh_sg: 康托尔定理
+    zh_tw: 康托爾定理
 ---
 # [[Cantor's_theorem]] 
 

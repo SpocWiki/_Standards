@@ -57,7 +57,7 @@ dv_has_:
     az: Kabare
     bar: Kabarett
     be: кабарэ
-    be-tarask: кабарэ
+    be_tarask: кабарэ
     bg: Кабаре
     bn: ক্যাবারে
     br: Kabarett
@@ -68,11 +68,11 @@ dv_has_:
     da: kabaret
     de: Cabaret
     de-at: Kleinkunstbühne
-    de-ch: Kabarett
+    de_ch: Kabarett
     el: Καμπαρέ
     en: cabaret
-    en-ca: Cabaret
-    en-gb: cabaret
+    en_ca: Cabaret
+    en_gb: cabaret
     eo: kabaredo
     es: cabaret
     et: Kabaree
@@ -111,7 +111,7 @@ dv_has_:
     pcd: Cabaret
     pl: kabaret
     pt: cabaré
-    pt-br: Cabaré
+    pt_br: Cabaré
     ro: cabaret
     ru: кабаре
     sc: Cabaret
@@ -120,8 +120,8 @@ dv_has_:
     sk: Kabaret
     sl: kabaret
     sr: кабаре
-    sr-ec: Кабаре
-    sr-el: Kabare
+    sr_ec: Кабаре
+    sr_el: Kabare
     sv: kabaré
     th: คาบาเรต์
     tr: Kabare
@@ -131,12 +131,12 @@ dv_has_:
     wuu: 卡巴莱
     yue: 歌舞表演
     zh: 卡巴萊
-    zh-cn: 卡巴莱
-    zh-hans: 卡巴莱
-    zh-hant: 卡巴萊
-    zh-hk: 卡巴萊
-    zh-sg: 卡巴莱
-    zh-tw: 卡巴萊
+    zh_cn: 卡巴莱
+    zh_hans: 卡巴莱
+    zh_hant: 卡巴萊
+    zh_hk: 卡巴萊
+    zh_sg: 卡巴莱
+    zh_tw: 卡巴萊
 ---
 # [[Cabaret]] 
 

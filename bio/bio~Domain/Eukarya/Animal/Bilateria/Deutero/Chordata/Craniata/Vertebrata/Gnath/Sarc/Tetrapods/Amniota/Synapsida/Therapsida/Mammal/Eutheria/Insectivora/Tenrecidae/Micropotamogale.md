@@ -48,7 +48,7 @@ dv_has_:
     oc: Micropotamogale
     pl: Wodniczek
     pt: Micropotamogale
-    pt-br: Micropotamogale
+    pt_br: Micropotamogale
     ro: Micropotamogale
     ru: Карликовые выдровые землеройки
     sq: Micropotamogale
@@ -58,8 +58,8 @@ dv_has_:
     vo: Micropotamogale
     war: Micropotamogale
     zh: 小獭鼩属
-    zh-cn: 小獭鼩属
-    zh-hans: 小獭鼩属
+    zh_cn: 小獭鼩属
+    zh_hans: 小獭鼩属
 ---
 # [[Micropotamogale]]
 

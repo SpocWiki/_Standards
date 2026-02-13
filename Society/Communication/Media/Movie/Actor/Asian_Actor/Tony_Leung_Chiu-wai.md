@@ -64,7 +64,7 @@ dv_has_:
     pap: Tony Leung Chiu Wai
     pl: Tony Leung Chiu Wai
     pt: Tony Leung Chiu-Wai
-    pt-br: Tony Leung Chiu-Wai
+    pt_br: Tony Leung Chiu-Wai
     ru: Тони Люн
     sl: Tony Leung
     sq: Tony Leung
@@ -78,14 +78,14 @@ dv_has_:
     wuu: 梁朝伟
     yue: 梁朝偉
     zh: 梁朝偉
-    zh-cn: 梁朝伟
-    zh-hans: 梁朝伟
-    zh-hant: 梁朝偉
-    zh-hk: 梁朝偉
-    zh-mo: 梁朝偉
+    zh_cn: 梁朝伟
+    zh_hans: 梁朝伟
+    zh_hant: 梁朝偉
+    zh_hk: 梁朝偉
+    zh_mo: 梁朝偉
     zh-my: 梁朝伟
-    zh-sg: 梁朝伟
-    zh-tw: 梁朝偉
+    zh_sg: 梁朝伟
+    zh_tw: 梁朝偉
 ---
 #is_/different_from :: [[Tony_Leung_Ka-fai]] 
 

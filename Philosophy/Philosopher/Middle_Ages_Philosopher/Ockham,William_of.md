@@ -165,7 +165,7 @@ dv_has_:
     az: Vilyam Okkam
     bar: Wilhelm vo Ockham
     be: Уільям Окам
-    be-tarask: Ўільям Окам
+    be_tarask: Ўільям Окам
     bg: Уилям Окам
     bjn: William matan Ockham
     bn: অকহামের উইলিয়াম
@@ -177,11 +177,11 @@ dv_has_:
     cy: William o Ockham
     da: William af Ockham
     de: Wilhelm von Ockham
-    de-ch: Wilhelm von Ockham
+    de_ch: Wilhelm von Ockham
     el: Γουλιέλμος του Όκαμ
     en: William of Ockham
-    en-ca: William of Ockham
-    en-gb: William of Ockham
+    en_ca: William of Ockham
+    en_gb: William of Ockham
     eo: Vilhelmo el Ockham
     es: Guillermo de Ockham
     et: William Ockham
@@ -223,7 +223,7 @@ dv_has_:
     pl: William Ockham
     pms: Vielm ëd Occam
     pt: Guilherme de Ockham
-    pt-br: Guilherme de Ockham
+    pt_br: Guilherme de Ockham
     ro: William de Ockham
     ru: Уильям Оккам
     scn: Gugghiermu di Ockham

@@ -121,7 +121,7 @@ dv_has_:
     ba: Кредит картаһы
     bar: Kreditkortn
     be: карта растэрміноўкі
-    be-tarask: картка растэрміноўкі
+    be_tarask: картка растэрміноўкі
     bg: Кредитна карта
     bn: ক্রেডিট কার্ড
     ca: targeta de crèdit
@@ -129,11 +129,11 @@ dv_has_:
     cs: kreditní karta
     da: kreditkort
     de: Kreditkarte
-    de-ch: Kreditkarte
+    de_ch: Kreditkarte
     el: πιστωτική κάρτα
     en: credit card
-    en-ca: credit card
-    en-gb: credit card
+    en_ca: credit card
+    en_gb: credit card
     en-us: credit card
     eo: kreditkarto
     es: tarjeta de crédito
@@ -171,7 +171,7 @@ dv_has_:
     mn: Кредит карт
     mr: क्रेडिट कार्ड
     ms: kad kredit
-    ms-arab: کد کريديت
+    ms_arab: کد کريديت
     mt: karta tal-kreditu
     my: Credit Card
     nan: Sìn-iōng-khah
@@ -187,7 +187,7 @@ dv_has_:
     pnb: کریڈٹ کارڈ
     ps: باور کارټ
     pt: cartão de crédito
-    pt-br: cartão de crédito
+    pt_br: cartão de crédito
     ro: card de credit
     ru: кредитная карта
     sah: Кредитнай карта
@@ -203,8 +203,8 @@ dv_has_:
     sms: kredittkortt
     sq: karta e Kreditit
     sr: кредитна картица
-    sr-ec: кредитна картица
-    sr-el: kreditna kartica
+    sr_ec: кредитна картица
+    sr_el: kreditna kartica
     su: kartu krédit
     sv: kreditkort
     sw: kadi karadha
@@ -223,14 +223,14 @@ dv_has_:
     yi: קרעדיט קארטל
     yue: 信用咭
     zh: 信用卡
-    zh-cn: 信用卡
-    zh-hans: 信用卡
-    zh-hant: 信用卡
-    zh-hk: 信用卡
-    zh-mo: 信用卡
+    zh_cn: 信用卡
+    zh_hans: 信用卡
+    zh_hant: 信用卡
+    zh_hk: 信用卡
+    zh_mo: 信用卡
     zh-my: 信用卡
-    zh-sg: 信用卡
-    zh-tw: 信用卡
+    zh_sg: 信用卡
+    zh_tw: 信用卡
 ---
 # [[Credit_Card]] 
 

@@ -207,7 +207,7 @@ dv_has_:
     bar: Elvis Presley
     bcl: Elvis Presley
     be: Элвіс Прэслі
-    be-tarask: Элвіс Прэсьлі
+    be_tarask: Элвіс Прэсьлі
     bg: Елвис Пресли
     bho: एल्विस प्रेस्ली
     bi: Elvis Presley
@@ -221,7 +221,7 @@ dv_has_:
     ce: Пресли, Элвис
     ckb: ئێلڤیس پریسلی
     crh: Elvis Presli
-    crh-latn: Elvis Presli
+    crh_latn: Elvis Presli
     cs: Elvis Presley
     cy: Elvis Presley
     da: Elvis Presley
@@ -230,8 +230,8 @@ dv_has_:
     el: Έλβις Πρίσλεϊ
     eml: Elvis Presley
     en: Elvis Presley
-    en-ca: Elvis Presley
-    en-gb: Elvis Presley
+    en_ca: Elvis Presley
+    en_gb: Elvis Presley
     eo: Elvis Presley
     es: Elvis Presley
     et: Elvis Presley
@@ -310,7 +310,7 @@ dv_has_:
     nah: Elvis Presley
     nan: Elvis Presley
     nb: Elvis Presley
-    nds-nl: Elvis Presley
+    nds_nl: Elvis Presley
     ne: एल्भिस प्रेस्ले
     new: एल्भिस प्रेस्ली
     nl: Elvis Presley
@@ -325,7 +325,7 @@ dv_has_:
     pms: Elvis Presley
     pnb: ایلوس پریسلے
     pt: Elvis Presley
-    pt-br: Elvis Presley
+    pt_br: Elvis Presley
     qu: Elvis Presley
     rmy: Elvis Presley
     ro: Elvis Presley
@@ -346,7 +346,7 @@ dv_has_:
     smn: Elvis Presley
     sq: Elvis Presley
     sr: Елвис Пресли
-    sr-ec: Елвис Пресли
+    sr_ec: Елвис Пресли
     st: Elvis Presley
     stq: Elvis Presley
     su: Elvis Presley
@@ -380,12 +380,12 @@ dv_has_:
     yue: 皮禮士利
     zea: Elvis Presley
     zh: 埃尔维斯·普雷斯利
-    zh-cn: 埃尔维斯·普雷斯利
-    zh-hans: 埃尔维斯·普雷斯利
-    zh-hant: 艾維斯·普利斯萊
-    zh-hk: 艾維斯·皮禮士利
+    zh_cn: 埃尔维斯·普雷斯利
+    zh_hans: 埃尔维斯·普雷斯利
+    zh_hant: 艾維斯·普利斯萊
+    zh_hk: 艾維斯·皮禮士利
     zh-my: 艾维斯·皮礼士利
-    zh-tw: 艾維斯·普里斯萊
+    zh_tw: 艾維斯·普里斯萊
 ---
 # [[Presley,Elvis]] 
 

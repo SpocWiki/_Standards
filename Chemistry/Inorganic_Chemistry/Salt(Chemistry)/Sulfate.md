@@ -146,7 +146,7 @@ dv_has_:
     az: Sulfatlar
     azb: سولفات
     be: Сульфаты
-    be-tarask: сульфат
+    be_tarask: сульфат
     bg: Сулфат
     bn: সালফেট আয়ন
     bs: Sulfat
@@ -156,7 +156,7 @@ dv_has_:
     de: Sulfat-Ion
     el: Θειικό ιόν
     en: sulfate ion
-    en-gb: sulphate ion
+    en_gb: sulphate ion
     eo: sulfata jono
     es: sulfato
     et: Sulfaadid
@@ -175,11 +175,11 @@ dv_has_:
     it: solfato
     ja: 硫酸イオン
     kk: Сульфаттар
-    kk-arab: سۋلفاتتار
+    kk_arab: سۋلفاتتار
     kk-cn: سۋلفاتتار
-    kk-cyrl: Сульфаттар
+    kk_cyrl: Сульфаттар
     kk-kz: Сульфаттар
-    kk-latn: Swlʹfattar
+    kk_latn: Swlʹfattar
     kk-tr: Swlʹfattar
     ko: 황산염
     lt: Sulfatai
@@ -199,8 +199,8 @@ dv_has_:
     sl: sulfatni ion
     sq: Sulfat
     sr: Сулфат
-    sr-ec: Сулфат
-    sr-el: Sulfat
+    sr_ec: Сулфат
+    sr_el: Sulfat
     sv: Sulfat
     ta: சல்பேற்று
     th: ซัลเฟต
@@ -213,12 +213,12 @@ dv_has_:
     wuu: 硫酸根离子
     yue: 硫酸根離子
     zh: 硫酸根離子
-    zh-cn: 硫酸根离子
-    zh-hans: 硫酸根离子
-    zh-hant: 硫酸根離子
-    zh-hk: 硫酸根離子
-    zh-sg: 硫酸根离子
-    zh-tw: 硫酸根離子
+    zh_cn: 硫酸根离子
+    zh_hans: 硫酸根离子
+    zh_hant: 硫酸根離子
+    zh_hk: 硫酸根離子
+    zh_sg: 硫酸根离子
+    zh_tw: 硫酸根離子
 ---
 # [[Sulfate]] 
 

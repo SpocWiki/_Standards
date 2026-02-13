@@ -220,7 +220,7 @@ dv_has_:
     ban: domba
     bar: Schof
     be: авечка свойская
-    be-tarask: авечка
+    be_tarask: авечка
     bg: овца
     bm: saga
     bn: ভেড়া
@@ -243,15 +243,15 @@ dv_has_:
     da: får
     dag: piɛɣu
     de: Hausschaf
-    de-ch: Hausschaf
+    de_ch: Hausschaf
     din: amɛ̈lbaai
     diq: kavır
     ee: alẽ
     el: πρόβατο
     eml: bric
     en: sheep
-    en-ca: sheep
-    en-gb: sheep
+    en_ca: sheep
+    en_gb: sheep
     en-us: sheep
     eo: ŝafo
     es: oveja
@@ -347,7 +347,7 @@ dv_has_:
     nan: mî-iûⁿ
     nb: tamsau
     nds: Schaap
-    nds-nl: skoap
+    nds_nl: skoap
     ne: भेडा
     new: फइ
     nl: schaap
@@ -367,7 +367,7 @@ dv_has_:
     pms: fèja
     pnb: بھیڈ
     pt: ovelha
-    pt-br: ovelha
+    pt_br: ovelha
     qu: uwiha
     rmf: bakro
     ro: oaie domestică
@@ -396,7 +396,7 @@ dv_has_:
     so: ido
     sq: dele
     sr: овца
-    sr-ec: овца
+    sr_ec: овца
     su: domba
     sv: tamfår
     sw: kondoo-kaya
@@ -434,10 +434,10 @@ dv_has_:
     yue: 羊
     zgh: ⵉⵀⵔⴰⵢ
     zh: 羊
-    zh-cn: 羊
-    zh-hans: 羊
-    zh-hant: 羊
-    zh-hk: 羊
+    zh_cn: 羊
+    zh_hans: 羊
+    zh_hant: 羊
+    zh_hk: 羊
     zu: imvu
 ---
 # *Ovis* 

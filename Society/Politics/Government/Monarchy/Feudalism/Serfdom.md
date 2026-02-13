@@ -93,7 +93,7 @@ dv_has_:
     ast: Siervu
     az: Təhkimçilik hüququ
     be: прыгоннае права
-    be-tarask: прыгоньніцтва
+    be_tarask: прыгоньніцтва
     bg: Крепостно право
     ca: serf
     ce: ГӀопалла
@@ -148,8 +148,8 @@ dv_has_:
     sk: Nevoľníctvo
     sl: tlačanstvo
     sr: Кметство
-    sr-ec: Кметство
-    sr-el: Kmetstvo
+    sr_ec: Кметство
+    sr_el: Kmetstvo
     sv: livegenskap
     sw: Hadimu
     ta: பண்ணையடிமை
@@ -161,12 +161,12 @@ dv_has_:
     wuu: 农奴制
     yue: 農奴制
     zh: 農奴制
-    zh-cn: 农奴制
-    zh-hans: 农奴制
-    zh-hant: 農奴制
-    zh-hk: 農奴制
-    zh-sg: 农奴制
-    zh-tw: 農奴制
+    zh_cn: 农奴制
+    zh_hans: 农奴制
+    zh_hant: 農奴制
+    zh_hk: 農奴制
+    zh_sg: 农奴制
+    zh_tw: 農奴制
 ---
 # [[Serfdom]] 
 

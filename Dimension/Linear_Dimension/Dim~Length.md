@@ -178,7 +178,7 @@ dv_has_:
     bar: Längan
     bcl: laba
     be: даўжыня
-    be-tarask: даўжыня
+    be_tarask: даўжыня
     bg: дължина
     bn: দৈর্ঘ্য
     br: hed
@@ -191,11 +191,11 @@ dv_has_:
     cy: hyd
     da: længde
     de: Länge
-    de-ch: Länge
+    de_ch: Länge
     el: μήκος
     en: length
-    en-ca: length
-    en-gb: length
+    en_ca: length
+    en_gb: length
     en-us: length
     eo: longo
     es: longitud
@@ -250,7 +250,7 @@ dv_has_:
     mn: урт
     mr: लांबी
     ms: panjang
-    ms-arab: ڤنجڠ
+    ms_arab: ڤنجڠ
     mt: tul
     my: အလျား
     nan: tn̂g-té
@@ -265,7 +265,7 @@ dv_has_:
     pms: longheur
     pnb: لمبائی
     pt: comprimento
-    pt-br: comprimento
+    pt_br: comprimento
     qu: karu kay
     rmf: langȟto
     ro: lungime
@@ -289,7 +289,7 @@ dv_has_:
     sn: hurefu
     sq: gjatësia
     sr: дужина
-    sr-ec: дужина
+    sr_ec: дужина
     stq: Laangte
     sv: längd
     sw: urefu
@@ -304,7 +304,7 @@ dv_has_:
     tr: uzunluk
     ts: kuleha
     tt: озынлык
-    tt-cyrl: озынлык
+    tt_cyrl: озынлык
     uk: довжина
     ur: لمبائی
     uz: uzunlik
@@ -317,9 +317,9 @@ dv_has_:
     yi: לענג
     yue: 長度
     zh: 长度
-    zh-hans: 长度
-    zh-hant: 長度
-    zh-tw: 長度
+    zh_hans: 长度
+    zh_hant: 長度
+    zh_tw: 長度
 ---
 # [[Dim~Length]] 
 

@@ -151,7 +151,7 @@ dv_has_:
     azb: یئر قابیغی
     ba: Ер ҡабығы
     be: Зямная кара
-    be-tarask: зямная кара
+    be_tarask: зямная кара
     bg: Земна кора
     bho: पृथ्वी के क्रस्ट
     bn: ভূত্বক
@@ -197,7 +197,7 @@ dv_has_:
     li: Aerdkoosj
     lt: Žemės pluta
     lv: Zemes garoza
-    map-bms: Kerak bumi
+    map_bms: Kerak bumi
     mg: Hoditry ny tany
     mk: Земјина кора
     ml: ഭൂവൽക്കം
@@ -206,7 +206,7 @@ dv_has_:
     nan: Tē-khak
     nb: jordskorpen
     nds: Eerdköst
-    nds-nl: eardkorst
+    nds_nl: eardkorst
     nl: aardkorst
     nn: jordskorpe
     oc: Escòrça terrèstra
@@ -229,8 +229,8 @@ dv_has_:
     so: Qolofta kore ee Dhulka
     sq: koreja e tokës
     sr: Земљина кора
-    sr-ec: Земљина кора
-    sr-el: Zemljina kora
+    sr_ec: Земљина кора
+    sr_el: Zemljina kora
     su: Intip bumi
     sv: jordskorpa
     sw: Ganda la dunia
@@ -240,7 +240,7 @@ dv_has_:
     th: เปลือกโลก
     tr: Dünya'nın yerkabuğu
     tt: Җир кабыгы
-    tt-cyrl: Җир кабыгы
+    tt_cyrl: Җир кабыгы
     udm: музъемкур
     uk: Земна кора
     ur: قشر
@@ -254,14 +254,14 @@ dv_has_:
     yi: ערד פלאך
     yue: 地殼
     zh: 地壳
-    zh-cn: 地壳
-    zh-hans: 地壳
-    zh-hant: 地殼
-    zh-hk: 地殼
-    zh-mo: 地殼
+    zh_cn: 地壳
+    zh_hans: 地壳
+    zh_hant: 地殼
+    zh_hk: 地殼
+    zh_mo: 地殼
     zh-my: 地壳
-    zh-sg: 地壳
-    zh-tw: 地殼
+    zh_sg: 地壳
+    zh_tw: 地殼
 ---
 # [[Earth's_crust]]
 

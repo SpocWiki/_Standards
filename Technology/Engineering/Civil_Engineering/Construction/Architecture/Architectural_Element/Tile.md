@@ -112,7 +112,7 @@ dv_has_:
     az: kaşı
     azb: کاشی
     be: кафля
-    be-tarask: кафля
+    be_tarask: кафля
     bew: Tèhel
     bg: плочка
     ca: rajola
@@ -143,7 +143,7 @@ dv_has_:
     ja: タイル
     jv: jobin
     kk: кафель
-    kk-cyrl: кафель
+    kk_cyrl: кафель
     ko: 타일
     la: Quadra fictilis
     lb: Plättchen
@@ -161,7 +161,7 @@ dv_has_:
     pl: fliza
     ps: کاشی
     pt: ladrilho
-    pt-br: ladrilho
+    pt_br: ladrilho
     ro: faianță
     ru: кафель
     scn: ciappa
@@ -170,7 +170,7 @@ dv_has_:
     sl: ploščica
     sq: Pllaka
     sr: керамичка плочица
-    sr-ec: Керамичке плочице
+    sr_ec: Керамичке плочице
     sv: kakel
     ta: ஓடு
     th: กระเบื้อง
@@ -184,12 +184,12 @@ dv_has_:
     yo: Àwo Àlẹ̀mọ́lẹ̀
     yue: 瓷磚
     zh: 磚片
-    zh-cn: 砖片
-    zh-hans: 砖片
-    zh-hant: 磚片
-    zh-hk: 磚片
-    zh-sg: 砖片
-    zh-tw: 磚片
+    zh_cn: 砖片
+    zh_hans: 砖片
+    zh_hant: 磚片
+    zh_hk: 磚片
+    zh_sg: 砖片
+    zh_tw: 磚片
 ---
 # [[Tile]] 
 

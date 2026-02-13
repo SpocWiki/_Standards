@@ -17,8 +17,8 @@ dv_has_:
     cs: Verrucomicrobiota
     de: Verrucomicrobiota
     en: Verrucomicrobiota
-    en-ca: Verrucomicrobiota
-    en-gb: Verrucomicrobiota
+    en_ca: Verrucomicrobiota
+    en_gb: Verrucomicrobiota
     eo: Verrucomicrobiota
     es: Verrucomicrobiota
     eu: Verrucomicrobiota
@@ -37,7 +37,7 @@ dv_has_:
     oc: Verrucomicrobiota
     pl: Verrucomicrobiota
     pt: Verrucomicrobiota
-    pt-br: Verrucomicrobiota
+    pt_br: Verrucomicrobiota
     ro: Verrucomicrobiota
     ru: Verrucomicrobiota
     sq: Verrucomicrobiota

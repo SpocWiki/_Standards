@@ -153,7 +153,7 @@ dv_has_:
     ba: Туҡыма
     bcl: Tisyu
     be: тканка
-    be-tarask: тканка
+    be_tarask: тканка
     bg: Тъкан
     bn: কলা
     bs: tkivo
@@ -167,7 +167,7 @@ dv_has_:
     da: væv
     de: Gewebe
     de-at: Gewebe
-    de-ch: Gewebe
+    de_ch: Gewebe
     el: ιστός
     en: tissue
     eo: histo
@@ -200,7 +200,7 @@ dv_has_:
     ko: 조직
     ks: ٹِشوٗ
     ku: şane
-    ku-latn: şane
+    ku_latn: şane
     ky: Ткандар
     la: Textum
     lb: Biologeschen Tissu
@@ -214,7 +214,7 @@ dv_has_:
     mn: Эд
     mr: उती
     ms: tisu
-    ms-arab: تيسو
+    ms_arab: تيسو
     my: တစ်ရှူး
     nah: Tzayanatl
     nan: Cho͘-chit
@@ -231,7 +231,7 @@ dv_has_:
     pl: tkanka
     ps: ووب
     pt: tecido
-    pt-br: tecido
+    pt_br: tecido
     qu: Kawsaykuq tantalli
     rki: တစ်ရှုး
     ro: Țesut
@@ -247,7 +247,7 @@ dv_has_:
     sms: koođõs
     sq: ind
     sr: ткиво
-    sr-ec: Ткиво (биологија)
+    sr_ec: Ткиво (биологија)
     sv: vävnad
     sw: Tishu
     ta: இழையம்
@@ -258,7 +258,7 @@ dv_has_:
     tl: Tisyu
     tr: doku
     tt: биологик тукыма
-    tt-cyrl: биологик тукыма
+    tt_cyrl: биологик тукыма
     uk: тканина
     ur: نسیج
     uz: Toʻqima
@@ -274,9 +274,9 @@ dv_has_:
     yo: ẹ̀ya-ara
     yue: 生物組織
     zh: 生物組織
-    zh-cn: 生物组织
-    zh-hans: 生物组织
-    zh-hant: 生物組織
+    zh_cn: 生物组织
+    zh_hans: 生物组织
+    zh_hant: 生物組織
 ---
 # [[Tissue(bio)]]  
 

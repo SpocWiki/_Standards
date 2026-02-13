@@ -39,7 +39,7 @@ dv_has_:
     ast: Black Mirror
     az: Qara güzgü
     be: Чорнае люстэрка
-    be-tarask: Чорнае люстэрка
+    be_tarask: Чорнае люстэрка
     bg: Черното огледало
     bn: ব্ল্যাক মিরর
     br: Black Mirror
@@ -49,11 +49,11 @@ dv_has_:
     cy: Black Mirror
     da: Black Mirror
     de: Black Mirror
-    de-ch: Black Mirror
+    de_ch: Black Mirror
     el: Black Mirror
     en: Black Mirror
-    en-ca: Black Mirror
-    en-gb: Black Mirror
+    en_ca: Black Mirror
+    en_gb: Black Mirror
     eo: Black Mirror
     es: Black Mirror
     et: Black Mirror
@@ -87,7 +87,7 @@ dv_has_:
     pa: ਬਲੈਕ ਮਿਰਰ
     pl: Czarne lustro
     pt: Black Mirror
-    pt-br: Black Mirror
+    pt_br: Black Mirror
     ro: Black Mirror
     ru: Чёрное зеркало
     sk: Black Mirror
@@ -103,11 +103,11 @@ dv_has_:
     wuu: 黑镜
     yue: 黑鏡
     zh: 黑鏡
-    zh-cn: 黑镜
-    zh-hans: 黑镜
-    zh-hant: 黑鏡
-    zh-hk: 黑鏡
-    zh-tw: 黑鏡
+    zh_cn: 黑镜
+    zh_hans: 黑镜
+    zh_hant: 黑鏡
+    zh_hk: 黑鏡
+    zh_tw: 黑鏡
 ---
 ## #has_/text_of_/abstract 
 

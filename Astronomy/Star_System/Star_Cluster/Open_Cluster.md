@@ -106,7 +106,7 @@ dv_has_:
     az: açıq ulduz topası
     ba: таралған йондоҙҙар тупланмаһы
     be: рассеянае зорнае скопішча
-    be-tarask: расьсеяная зорная скупнасьць
+    be_tarask: расьсеяная зорная скупнасьць
     bg: разсеян звезден куп
     bn: মুক্ত স্তবক
     bs: otvoreno zvjezdano jato
@@ -115,12 +115,12 @@ dv_has_:
     cy: clwstwr agored
     da: åben stjernehob
     de: offener Sternhaufen
-    de-ch: Offener Sternhaufen
+    de_ch: Offener Sternhaufen
     diq: akerde kumey esteran
     el: ανοικτό σμήνος
     en: open cluster
-    en-ca: open cluster
-    en-gb: open cluster
+    en_ca: open cluster
+    en_gb: open cluster
     eo: malfermita stelamaso
     es: cúmulo abierto
     et: hajusparv
@@ -156,7 +156,7 @@ dv_has_:
     pa: ਖੁੱਲੇ ਤਾਰਾਗੁੱਛੇ
     pl: gromada otwarta
     pt: aglomerado estelar aberto
-    pt-br: aglomerado estelar aberto
+    pt_br: aglomerado estelar aberto
     ro: roi deschis
     ru: рассеянное звёздное скопление
     scn: ammassu apertu
@@ -164,8 +164,8 @@ dv_has_:
     sk: otvorená hviezdokopa
     sl: odprta zvezdna kopica
     sr: расејано звездано јато
-    sr-ec: расејано звездано јато
-    sr-el: rasejano zvezdano jato
+    sr_ec: расејано звездано јато
+    sr_el: rasejano zvezdano jato
     sv: öppen stjärnhop
     th: กระจุกดาวเปิด
     tr: açık yıldız kümesi
@@ -176,7 +176,7 @@ dv_has_:
     wuu: 疏散星团
     yue: 疏散星團
     zh: 疏散星团
-    zh-hant: 疏散星團
+    zh_hant: 疏散星團
 ---
 # [[Open_Cluster]] 
 

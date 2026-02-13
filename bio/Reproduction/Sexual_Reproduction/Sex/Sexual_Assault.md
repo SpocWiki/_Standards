@@ -68,7 +68,7 @@ dv_has_:
     ast: Agresión sexual
     az: cinsi təcavüz
     be: Палавыя злачынствы
-    be-tarask: палавыя злачынствы
+    be_tarask: палавыя злачынствы
     bn: যৌন নিপীড়ন
     br: tagadenn reizhel
     ca: agressió sexual
@@ -107,7 +107,7 @@ dv_has_:
     sl: spolni napad
     sq: Sulmi seksual
     sr: сексуални напад
-    sr-ec: сексуални напад
+    sr_ec: сексуални напад
     szy: midebun
     th: การล่วงละเมิดทางเพศ
     tr: cinsel saldırı
@@ -118,14 +118,14 @@ dv_has_:
     yi: סעקסואלער אנפאל
     yue: 性侵犯
     zh: 性侵犯
-    zh-cn: 性侵犯
-    zh-hans: 性侵犯
-    zh-hant: 性侵犯
-    zh-hk: 性侵犯
-    zh-mo: 性侵犯
+    zh_cn: 性侵犯
+    zh_hans: 性侵犯
+    zh_hant: 性侵犯
+    zh_hk: 性侵犯
+    zh_mo: 性侵犯
     zh-my: 性侵犯
-    zh-sg: 性侵犯
-    zh-tw: 性侵犯
+    zh_sg: 性侵犯
+    zh_tw: 性侵犯
 ---
 # [[Sexual_Assault]] 
 

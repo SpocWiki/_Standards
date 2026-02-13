@@ -172,7 +172,7 @@ dv_has_:
     bar: Gortn
     bas: ɓaá-́ɖɛ̀-pà
     be: сад
-    be-tarask: сад
+    be_tarask: сад
     bg: градина
     bn: বাগান
     br: jardin
@@ -189,7 +189,7 @@ dv_has_:
     diq: hêga
     el: κήπος
     en: garden
-    en-gb: garden
+    en_gb: garden
     eo: ĝardeno
     es: jardín
     et: aed
@@ -231,7 +231,7 @@ dv_has_:
     ko: 정원
     ks: باغ
     ku: gulistan
-    ku-latn: gulistan
+    ku_latn: gulistan
     kw: lowarth
     la: hortus
     lb: Gaart
@@ -255,7 +255,7 @@ dv_has_:
     nap: ciardino
     nb: hage
     nds: Goorn
-    nds-nl: tune
+    nds_nl: tune
     ne: बगैँचा
     new: क्यबः
     nl: tuin
@@ -267,7 +267,7 @@ dv_has_:
     pl: ogród
     pnb: پھلواڑ
     pt: jardim
-    pt-br: jardim
+    pt_br: jardim
     qu: wayta pata
     ro: grădina
     ru: сад
@@ -292,7 +292,7 @@ dv_has_:
     tl: hardin
     tr: bahçe
     tt: бакча
-    tt-cyrl: бакча
+    tt_cyrl: бакча
     uk: сад
     ur: باغ
     uz: bogʻ
@@ -307,10 +307,10 @@ dv_has_:
     yi: גארטן
     yue: 花園
     zh: 园林
-    zh-hans: 园林
-    zh-hant: 庭園
-    zh-hk: 庭園
-    zh-tw: 庭園
+    zh_hans: 园林
+    zh_hant: 庭園
+    zh_hk: 庭園
+    zh_tw: 庭園
 ---
 # [[Garden]] 
 

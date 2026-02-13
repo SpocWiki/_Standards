@@ -61,7 +61,7 @@ dv_has_:
     ar: تاريخ اللغويات
     ast: historia de la llingüística
     az: dilçilik tarixi
-    be-tarask: гісторыя мовазнаўства
+    be_tarask: гісторыя мовазнаўства
     bn: ভাষাবিজ্ঞানের ইতিহাস
     ca: història de la lingüística
     cs: dějiny lingvistiky
@@ -84,9 +84,9 @@ dv_has_:
     it: storia della linguistica
     ja: 言語学の歴史
     kk: тіл білімінің тарихы
-    kk-arab: ٴتىل ٴبىلىمىنىڭ تارىيحى
-    kk-cyrl: тіл білімінің тарихы
-    kk-latn: til biliminiñ tarïxı
+    kk_arab: ٴتىل ٴبىلىمىنىڭ تارىيحى
+    kk_cyrl: тіл білімінің тарихы
+    kk_latn: til biliminiñ tarïxı
     kn: ಭಾಷಾಶಾಸ್ತ್ರ ಚಿಂತನೆಯ ಇತಿಹಾಸ
     ky: тил илиминин тарыхы
     la: historia linguisticae
@@ -108,9 +108,9 @@ dv_has_:
     ur: لسانیات کی تاریخ
     yue: 語言學史
     zh: 語言學史
-    zh-hans: 语言学史
-    zh-hant: 語言學史
-    zh-hk: 語言學史
+    zh_hans: 语言学史
+    zh_hant: 語言學史
+    zh_hk: 語言學史
 ---
 # [[History_of_Linguistics]] 
 

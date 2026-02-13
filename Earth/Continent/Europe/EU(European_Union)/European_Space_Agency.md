@@ -230,7 +230,7 @@ dv_has_:
     ban: Badan Antariksa Éropa
     bcl: ESA
     be: Еўрапейскае касмічнае агенцтва
-    be-tarask: Эўрапейская касьмічная агенцыя
+    be_tarask: Эўрапейская касьмічная агенцыя
     bg: Европейска космическа агенция
     bn: ইউরোপীয় মহাকাশ সংস্থা
     br: Ajañs European an Egor
@@ -241,12 +241,12 @@ dv_has_:
     cy: Asiantaeth Ofod Ewropeaidd
     da: Den Europæiske Rumorganisation
     de: Europäische Weltraumorganisation
-    de-ch: Europäische Weltraumorganisation
+    de_ch: Europäische Weltraumorganisation
     diq: Acansê asmêniê Ewropa
     el: Ευρωπαϊκός Οργανισμός Διαστήματος
     en: European Space Agency
-    en-ca: European Space Agency
-    en-gb: European Space Agency
+    en_ca: European Space Agency
+    en_gb: European Space Agency
     eo: Eŭropa Kosma Agentejo
     es: Agencia Espacial Europea
     et: Euroopa Kosmoseagentuur
@@ -301,7 +301,7 @@ dv_has_:
     pnb: یورپی خلائی ایجنسی
     ps: اروپا فضايي اداره
     pt: ESA
-    pt-br: Agência Espacial Europeia
+    pt_br: Agência Espacial Europeia
     ro: Agenția Spațială Europeană
     ru: Европейское космическое агентство
     sc: Agentzia Ispatziale Europea
@@ -313,7 +313,7 @@ dv_has_:
     smn: Euroop komovuotâornijdume
     sq: Agjencia Hapësinore Evropiane
     sr: Европска свемирска агенција
-    sr-ec: Европска свемирска агенција
+    sr_ec: Европска свемирска агенција
     stq: Europäiske Ruumtefoartorganisation
     sv: Europeiska rymdorganisationen
     sw: ESA
@@ -331,11 +331,11 @@ dv_has_:
     xmf: ევროპული კოსმოსური სააგენტო
     yue: 歐洲太空總署
     zh: 欧洲空间局
-    zh-cn: 欧洲空间局
-    zh-hans: 欧洲空间局
-    zh-hant: 歐洲太空總署
-    zh-hk: 歐洲太空總署
-    zh-tw: 歐洲太空總署
+    zh_cn: 欧洲空间局
+    zh_hans: 欧洲空间局
+    zh_hant: 歐洲太空總署
+    zh_hk: 歐洲太空總署
+    zh_tw: 歐洲太空總署
 ---
 # [[European_Space_Agency]] 
 

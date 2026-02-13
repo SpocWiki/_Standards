@@ -34,7 +34,7 @@ dv_has_:
     arz: جيمس مارسدن
     ast: James Marsden
     azb: جیمز مارسدن
-    be-tarask: Джэймз Марздэн
+    be_tarask: Джэймз Марздэн
     bg: Джеймс Марсдън
     ca: James Marsden
     ckb: جەیمز مارسدن
@@ -76,7 +76,7 @@ dv_has_:
     pap: James Marsden
     pl: James Marsden
     pt: James Marsden
-    pt-br: James Marsden
+    pt_br: James Marsden
     ro: James Marsden
     ru: Джеймс Марсден
     sco: James Marsden
@@ -99,10 +99,10 @@ dv_has_:
     yo: James Marsden
     yue: 占士馬史頓
     zh: 詹姆斯·馬斯登
-    zh-cn: 詹姆斯·马斯登
-    zh-hans: 詹姆斯·马斯登
-    zh-hant: 詹姆斯·馬斯登
-    zh-hk: 占士·馬史頓
+    zh_cn: 詹姆斯·马斯登
+    zh_hans: 詹姆斯·马斯登
+    zh_hant: 詹姆斯·馬斯登
+    zh_hk: 占士·馬史頓
 ---
 #has_/time_/started :: 1973-09-18 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

@@ -164,7 +164,7 @@ dv_has_:
     ban: Panak benua India
     bcl: Subkontinenteng Indio
     be: Індыйскі субкантынент
-    be-tarask: Індыйскі субкантынэнт
+    be_tarask: Індыйскі субкантынэнт
     bg: Индийски субконтинент
     bho: भारतीय उपमहाद्वीप
     bn: ভারতীয় উপমহাদেশ
@@ -181,8 +181,8 @@ dv_has_:
     dv: ބައްރެސަޣީރު
     el: Ινδική υποήπειρος
     en: Indian subcontinent
-    en-ca: Indian subcontinent
-    en-gb: Indian subcontinent
+    en_ca: Indian subcontinent
+    en_gb: Indian subcontinent
     eo: Hinda subkontinento
     es: subcontinente indio
     et: India subkontinent
@@ -239,7 +239,7 @@ dv_has_:
     pnb: برصغیر پاک و ہند
     ps: د هند نيمه لويه وچه
     pt: Subcontinente indiano
-    pt-br: Subcontinente indiano
+    pt_br: Subcontinente indiano
     ro: subcontinentul Indian
     ru: Индийский субконтинент
     sa: भारतीय उपमहाद्वीपः
@@ -272,7 +272,7 @@ dv_has_:
     yue: 印度次大陸
     zgh: ⴰⴽⵏⵎⵏⵥⴰⵡ ⴰⵀⵉⵏⴷⵉ
     zh: 印度次大陸
-    zh-hant: 南亞次大陸
+    zh_hant: 南亞次大陸
 ---
 # [[Indian_Subcontinent]] 
 

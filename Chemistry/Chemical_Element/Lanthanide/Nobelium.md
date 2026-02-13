@@ -137,7 +137,7 @@ dv_has_:
     ban: Nobélium
     bcl: Nobelyo
     be: Набелій
-    be-tarask: Набэль
+    be_tarask: Набэль
     bg: нобелий
     bho: नोबेलियम
     bn: নোবেলিয়াম
@@ -155,7 +155,7 @@ dv_has_:
     de: Nobelium
     el: νομπέλιο
     en: nobelium
-    en-gb: nobelium
+    en_gb: nobelium
     eo: nobeliumo
     es: nobelio
     et: nobeelium
@@ -209,7 +209,7 @@ dv_has_:
     mr: नोबेलियम
     mrj: Нобелий
     ms: nobelium
-    ms-arab: نوبيليوم
+    ms_arab: نوبيليوم
     mt: nobelju
     my: နိုဘယ်လီယမ်
     nan: Nobelium
@@ -228,7 +228,7 @@ dv_has_:
     pnb: نوبلئیم
     ps: نوبېليوم
     pt: nobélio
-    pt-br: nobélio
+    pt_br: nobélio
     qu: Nobelyu
     ro: nobeliu
     ru: нобелий
@@ -242,7 +242,7 @@ dv_has_:
     sl: nobelij
     sq: Nobeliumi
     sr: нобелијум
-    sr-ec: Нобелијум
+    sr_ec: Нобелијум
     stq: Nobelium
     sv: nobelium
     ta: நொபிலியம்
@@ -266,14 +266,14 @@ dv_has_:
     yo: Nobelium
     yue: 鍩
     zh: 锘
-    zh-cn: 锘
-    zh-hans: 锘
-    zh-hant: 鍩
-    zh-hk: 鍩
-    zh-mo: 鍩
+    zh_cn: 锘
+    zh_hans: 锘
+    zh_hant: 鍩
+    zh_hk: 鍩
+    zh_mo: 鍩
     zh-my: 锘
-    zh-sg: 锘
-    zh-tw: 鍩
+    zh_sg: 锘
+    zh_tw: 鍩
     zu: INombi
   number_of_:
     period: 7

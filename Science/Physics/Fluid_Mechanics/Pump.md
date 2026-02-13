@@ -94,7 +94,7 @@ dv_has_:
     az: Nasos
     azb: پومپ
     be: помпа
-    be-tarask: помпа
+    be_tarask: помпа
     bg: Помпа
     bjn: Kumpa
     bs: Pumpa
@@ -129,18 +129,18 @@ dv_has_:
     it: pompa
     ja: ポンプ
     kk: Сорғы
-    kk-arab: سورعى
+    kk_arab: سورعى
     kk-cn: سورعى
-    kk-cyrl: Сорғы
+    kk_cyrl: Сорғы
     kk-kz: Сорғы
-    kk-latn: Sorğı
+    kk_latn: Sorğı
     kk-tr: Sorğı
     ko: 펌프
     ko-kp: 뽐프
     ksh: Pomp
     ku: Avkêşk
-    ku-arab: ئاڤکێشک
-    ku-latn: Avkêşk
+    ku_arab: ئاڤکێشک
+    ku_latn: Avkêşk
     ky: Насос
     la: Antlia
     lt: siurblys
@@ -157,7 +157,7 @@ dv_has_:
     nn: pumpe
     pl: pompa
     pt: bomba hidráulica
-    pt-br: bomba hidráulica
+    pt_br: bomba hidráulica
     ro: pompă
     ru: насос
     sh: Pumpa
@@ -167,8 +167,8 @@ dv_has_:
     sn: Pombi
     sq: pompë
     sr: пумпа
-    sr-ec: пумпа
-    sr-el: pumpa
+    sr_ec: пумпа
+    sr_el: pumpa
     su: Kompa
     sv: pump
     sw: Pampu
@@ -185,12 +185,12 @@ dv_has_:
     wuu: 泵
     yue: 泵
     zh: 泵
-    zh-cn: 泵
-    zh-hans: 泵
-    zh-hant: 泵
-    zh-hk: 泵
-    zh-sg: 泵
-    zh-tw: 泵
+    zh_cn: 泵
+    zh_hans: 泵
+    zh_hant: 泵
+    zh_hk: 泵
+    zh_sg: 泵
+    zh_tw: 泵
 ---
 # [[Pump]] 
 

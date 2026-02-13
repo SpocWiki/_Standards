@@ -149,7 +149,7 @@ dv_has_:
     bbc: Nituna
     bcl: Gemini (constellation)
     be: Блізняты
-    be-tarask: Блізьняты
+    be_tarask: Блізьняты
     bg: Близнаци
     bn: মিথুন
     bo: འཁྲིག་པའི་སྐར་ཚོམ་
@@ -165,8 +165,8 @@ dv_has_:
     diq: Dıleti
     el: Δίδυμοι
     en: Gemini
-    en-ca: Gemini
-    en-gb: Gemini
+    en_ca: Gemini
+    en_gb: Gemini
     eo: Ĝemeloj
     es: Géminis
     et: Kaksikud
@@ -223,7 +223,7 @@ dv_has_:
     pl: Gwiazdozbiór Bliźniąt
     pnb: جوڑی تارہ چرمٹ
     pt: Gemini
-    pt-br: Gemini
+    pt_br: Gemini
     qu: Mirku
     ro: Gemenii
     ru: Близнецы

@@ -75,7 +75,7 @@ dv_has_:
     bar: Elektra
     bcl: Electra
     be: Электра
-    be-tarask: Электра
+    be_tarask: Электра
     bg: Електра
     bn: ইলেক্ট্রা
     br: Elektra
@@ -87,8 +87,8 @@ dv_has_:
     de: Elektra
     el: Ηλέκτρα
     en: Elektra
-    en-ca: Electra
-    en-gb: Electra
+    en_ca: Electra
+    en_gb: Electra
     en-us: Elektra
     eo: Elektro
     es: Electra
@@ -111,7 +111,7 @@ dv_has_:
     ka: ელექტრა
     ko: 엘렉트라
     ku: Êlektra
-    ku-latn: Êlektra
+    ku_latn: Êlektra
     la: Electra
     lt: Elektra
     lv: Elektra
@@ -123,7 +123,7 @@ dv_has_:
     pa: ਇਲੈਕਟ੍ਰਾ
     pl: Elektra
     pt: Electra
-    pt-br: Electra
+    pt_br: Electra
     ro: Electra
     ru: Электра
     sco: Elektra
@@ -132,8 +132,8 @@ dv_has_:
     sl: Elektra
     sq: Elektra
     sr: Електра
-    sr-ec: Електра
-    sr-el: Elektra
+    sr_ec: Електра
+    sr_el: Elektra
     sv: Elektra
     tl: Elektra
     tr: Elektra
@@ -143,12 +143,12 @@ dv_has_:
     wuu: 厄勒克特拉
     yue: 厄勒克特拉
     zh: 厄勒克特拉
-    zh-cn: 厄勒克特拉
-    zh-hans: 厄勒克特拉
-    zh-hant: 厄勒克特拉
-    zh-hk: 厄勒克特拉
-    zh-sg: 厄勒克特拉
-    zh-tw: 厄勒克特拉
+    zh_cn: 厄勒克特拉
+    zh_hans: 厄勒克特拉
+    zh_hant: 厄勒克特拉
+    zh_hk: 厄勒克特拉
+    zh_sg: 厄勒克特拉
+    zh_tw: 厄勒克特拉
 ---
 # [[Elektra]] 
 

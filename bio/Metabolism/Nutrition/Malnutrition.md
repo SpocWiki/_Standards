@@ -141,7 +141,7 @@ dv_has_:
     ba: ba
     bcl: Malnutrisyon
     be: недаяданне
-    be-tarask: недаяданьне
+    be_tarask: недаяданьне
     bg: Недохранване
     bn: অপুষ্টি
     br: gwallvagadurezh
@@ -159,8 +159,8 @@ dv_has_:
     ee: Nunyiamemademade
     el: υποσιτισμός
     en: malnutrition
-    en-ca: Malnutrition
-    en-gb: malnutrition
+    en_ca: Malnutrition
+    en_gb: malnutrition
     en-us: malnutrition
     eo: subnutrado
     es: malnutrición
@@ -220,7 +220,7 @@ dv_has_:
     pms: Malnutrission
     pnb: کمزوری
     pt: desnutrição
-    pt-br: desnutrição
+    pt_br: desnutrição
     ro: malnutriție
     ru: недоедание
     sa: कुपोषणम्
@@ -231,7 +231,7 @@ dv_has_:
     sl: podhranjenost
     so: Cunto xumida
     sr: неухрањеност
-    sr-ec: неухрањеност
+    sr_ec: неухрањеност
     su: Malnutrisi
     sv: näringsbrist
     sw: Utapiamlo
@@ -242,7 +242,7 @@ dv_has_:
     tl: Malnutrisyon
     tr: malnütrisyon
     tt: ашап җиткермәү
-    tt-cyrl: ашап җиткермәү
+    tt_cyrl: ашап җиткермәү
     udm: сютэм улон
     uk: недоїдання
     ur: ناقص غذائیت

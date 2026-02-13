@@ -162,7 +162,7 @@ dv_has_:
     ay: Laka k'ama
     az: Kariyes
     be: Карыес зубоў
-    be-tarask: Карыес зубоў
+    be_tarask: Карыес зубоў
     bg: Кариес
     bn: দন্তক্ষয়
     bs: Karijes
@@ -196,11 +196,11 @@ dv_has_:
     jv: Karies
     ka: კბილის კარიესი
     kk: Тіс шірігі, тісжегі
-    kk-arab: ٴتىس شىرىگى، تىسجەگى
+    kk_arab: ٴتىس شىرىگى، تىسجەگى
     kk-cn: ٴتىس شىرىگى، تىسجەگى
-    kk-cyrl: Тіс шірігі
+    kk_cyrl: Тіс шірігі
     kk-kz: Тіс шірігі
-    kk-latn: Tis şirigi
+    kk_latn: Tis şirigi
     kk-tr: Tis şirigi
     ko: 충치
     ky: Тиштин чириши
@@ -231,14 +231,14 @@ dv_has_:
     sl: zobni karies
     sq: Kariesi dentar
     sr: каријес
-    sr-ec: Каријес
-    sr-el: Karijes
+    sr_ec: Каријес
+    sr_el: Karijes
     sv: karies
     sw: Kuoza kwa meno
     ta: பற்சொத்தை
     te: దంత క్షయం
     tg: Кариеси дандон
-    tg-latn: Kariesi dandon
+    tg_latn: Kariesi dandon
     th: ฟันผุ
     tl: Bulok na ngipin
     tr: Çürük
@@ -253,12 +253,12 @@ dv_has_:
     xh: amazinyo enemingxunya
     yue: 爛牙
     zh: 龋齿
-    zh-cn: 龋齿
-    zh-hans: 龋齿
-    zh-hant: 齲齒
-    zh-hk: 齲齒
-    zh-sg: 龋齿
-    zh-tw: 齲齒
+    zh_cn: 龋齿
+    zh_hans: 龋齿
+    zh_hant: 齲齒
+    zh_hk: 齲齒
+    zh_sg: 龋齿
+    zh_tw: 齲齒
     zu: i-caries yamazinyo
 ---
 # [[Dental_Caries]] 

@@ -131,7 +131,7 @@ dv_has_:
     az: Georq Om
     azb: قئورق زیمون اهم
     be: Георг Ом
-    be-tarask: Георг Ом
+    be_tarask: Георг Ом
     bg: Георг Ом
     bn: গেয়র্গ সিমোন ওম
     br: Georg Ohm
@@ -142,11 +142,11 @@ dv_has_:
     da: Georg Ohm
     dag: Georg Simon Ohm
     de: Georg Simon Ohm
-    de-ch: Georg Simon Ohm
+    de_ch: Georg Simon Ohm
     el: Γκέοργκ Ωμ
     en: Georg Simon Ohm
-    en-ca: Georg Ohm
-    en-gb: Georg Ohm
+    en_ca: Georg Ohm
+    en_gb: Georg Ohm
     eo: Georg Ohm
     es: George Simon Ohm
     et: Georg Simon Ohm
@@ -199,7 +199,7 @@ dv_has_:
     pms: Georg Ohm
     pnb: جارج اوہم
     pt: Georg Simon Ohm
-    pt-br: Georg Simon Ohm
+    pt_br: Georg Simon Ohm
     ro: Georg Simon Ohm
     ru: Георг Симон Ом
     scn: Georg Ohm
@@ -210,7 +210,7 @@ dv_has_:
     sl: Georg Simon Ohm
     sq: Georg Ohm
     sr: Георг Ом
-    sr-ec: Георг Ом
+    sr_ec: Георг Ом
     su: Georg Simon Ohm
     sv: Georg Ohm
     sw: George Simon Ohm
@@ -228,14 +228,14 @@ dv_has_:
     yo: Georg Ohm
     yue: 格奧爾格歐姆
     zh: 格奥尔格·欧姆
-    zh-cn: 格奥尔格·欧姆
-    zh-hans: 格奥尔格·欧姆
-    zh-hant: 蓋歐格·歐姆
-    zh-hk: 格奧爾格·歐姆
-    zh-mo: 格奥尔格·欧姆
+    zh_cn: 格奥尔格·欧姆
+    zh_hans: 格奥尔格·欧姆
+    zh_hant: 蓋歐格·歐姆
+    zh_hk: 格奧爾格·歐姆
+    zh_mo: 格奥尔格·欧姆
     zh-my: 格奥尔格·欧姆
-    zh-sg: 格奥尔格·欧姆
-    zh-tw: 蓋歐格·歐姆
+    zh_sg: 格奥尔格·欧姆
+    zh_tw: 蓋歐格·歐姆
 ---
 # [[Ohm,Georg_Simon]] 
 

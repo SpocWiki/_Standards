@@ -64,7 +64,7 @@ dv_has_:
     az: Mohito
     ban: Mojito
     be: Махіта
-    be-tarask: Махіта
+    be_tarask: Махіта
     bg: Мохито
     bs: Mojito
     ca: mojito
@@ -108,8 +108,8 @@ dv_has_:
     sk: Mojito
     sl: Mojito
     sr: Мохито
-    sr-ec: Мохито
-    sr-el: Mohito
+    sr_ec: Мохито
+    sr_el: Mohito
     sv: mojito
     th: โมฮิโต
     tr: Mojito
@@ -121,10 +121,10 @@ dv_has_:
     wuu: 莫吉托
     yue: 摩哲圖
     zh: 莫希托
-    zh-hans: 莫吉托
-    zh-hant: 莫吉托
-    zh-hk: 莫希圖
-    zh-tw: 莫希托
+    zh_hans: 莫吉托
+    zh_hant: 莫吉托
+    zh_hk: 莫希圖
+    zh_tw: 莫希托
 ---
 # [[Mojito]] 
 

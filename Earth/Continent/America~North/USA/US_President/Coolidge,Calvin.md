@@ -83,7 +83,7 @@ dv_has_:
     ban: Calvin Coolidge
     bcl: Calvin Coolidge
     be: Кальвін Кулідж
-    be-tarask: Кальвін Кулідж
+    be_tarask: Кальвін Кулідж
     bg: Калвин Кулидж
     bi: Calvin Coolidge
     bn: ক্যালভিন কুলিজ
@@ -166,7 +166,7 @@ dv_has_:
     nan: Calvin Coolidge
     nb: Calvin Coolidge
     nds: Calvin Coolidge
-    nds-nl: Calvin Coolidge
+    nds_nl: Calvin Coolidge
     nl: Calvin Coolidge
     nn: Calvin Coolidge
     oc: Calvin Coolidge
@@ -177,7 +177,7 @@ dv_has_:
     pnb: کیلون کولج
     ps: کالوین کولیج
     pt: Calvin Coolidge
-    pt-br: Calvin Coolidge
+    pt_br: Calvin Coolidge
     qu: Calvin Coolidge
     rm: Calvin Coolidge
     rmf: Calvin Coolidge
@@ -222,7 +222,7 @@ dv_has_:
     yo: Calvin Coolidge
     yue: 柯立芝
     zh: 卡尔文·柯立芝
-    zh-hk: 卡雲·古列茲
+    zh_hk: 卡雲·古列茲
   time_:
     started: 1872-07-04T00:00:00.000+00:53
     stopped: 1933-01-05T00:00:00.000+01:00

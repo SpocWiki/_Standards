@@ -69,7 +69,7 @@ dv_has_:
     ar: انحدار خطي
     ast: regresión llinial
     be: Лінейная рэгрэсія
-    be-tarask: лінейная рэгрэсія
+    be_tarask: лінейная рэгрэсія
     ca: regressió lineal
     ckb: پاشۆچوونی ھێڵی
     cs: lineární regrese
@@ -101,7 +101,7 @@ dv_has_:
     oc: Regression lineara
     pl: regresja liniowa
     pt: regressão linear
-    pt-br: regressão linear
+    pt_br: regressão linear
     ro: regresie liniară
     ru: линейная регрессия
     se: lineára regrešuvdnaanalysa

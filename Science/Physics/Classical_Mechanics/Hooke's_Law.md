@@ -92,7 +92,7 @@ dv_has_:
     ast: llei d'elasticidá de Hooke
     az: Hük qanunu
     be: закон Гука
-    be-tarask: закон Гука
+    be_tarask: закон Гука
     bg: закон на Хук
     bn: হুকের সূত্র
     bs: Hookeov zakon
@@ -124,11 +124,11 @@ dv_has_:
     ja: フックの法則
     ka: პუასონის კოეფიციენტი
     kk: Гук заңы
-    kk-arab: گۋك زاڭى
+    kk_arab: گۋك زاڭى
     kk-cn: گۋك زاڭى
-    kk-cyrl: Гук заңы
+    kk_cyrl: Гук заңы
     kk-kz: Гук заңы
-    kk-latn: Gwk zañı
+    kk_latn: Gwk zañı
     kk-tr: Gwk zañı
     km: ច្បាប់ហ៊ូក
     kn: ಹುಕ್ನ ನಿಯಮ
@@ -154,8 +154,8 @@ dv_has_:
     sk: Hookov zákon
     sl: Hookov zakon
     sr: Хуков закон
-    sr-ec: Хуков закон
-    sr-el: Hukov zakon
+    sr_ec: Хуков закон
+    sr_el: Hukov zakon
     sv: Hookes lag
     ta: ஹூக்கின் விதி
     th: กฎของฮุก
@@ -167,12 +167,12 @@ dv_has_:
     wuu: 胡克定律
     yue: 胡克定律
     zh: 胡克定律
-    zh-cn: 胡克定律
-    zh-hans: 胡克定律
-    zh-hant: 胡克定律
-    zh-hk: 虎克定律
-    zh-sg: 胡克定律
-    zh-tw: 虎克定律
+    zh_cn: 胡克定律
+    zh_hans: 胡克定律
+    zh_hant: 胡克定律
+    zh_hk: 虎克定律
+    zh_sg: 胡克定律
+    zh_tw: 虎克定律
 ---
 # [[Hooke's_Law]] 
 

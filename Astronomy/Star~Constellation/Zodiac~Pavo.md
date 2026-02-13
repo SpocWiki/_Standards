@@ -102,7 +102,7 @@ dv_has_:
     az: Tovuz
     ba: Тауис
     be: Паўлін
-    be-tarask: Паўлін
+    be_tarask: Паўлін
     bg: Паун
     bn: ময়ূর মণ্ডল
     br: Paun

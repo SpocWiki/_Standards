@@ -183,7 +183,7 @@ dv_has_:
     az: Sidney Opera Teatrı
     ban: Sydney Opera House
     be: Сіднейскі оперны тэатр
-    be-tarask: Сыднэйская опэра
+    be_tarask: Сыднэйская опэра
     bg: Опера на Сидни
     bho: सिडनी ओपेरा हाउस
     bn: সিডনি অপেরা হাউস
@@ -270,7 +270,7 @@ dv_has_:
     xmf: სიდნეიშ ოპერაშ თეატრი
     yue: 雪梨歌劇院
     zh: 悉尼歌剧院
-    zh-cn: 悉尼歌剧院
+    zh_cn: 悉尼歌剧院
 ---
 # [[Sydney Opera]] 
 

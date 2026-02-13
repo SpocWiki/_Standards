@@ -84,7 +84,7 @@ dv_has_:
     ar: سيليكون
     ast: Silicona
     be: сілікон
-    be-tarask: сылікон
+    be_tarask: сылікон
     bg: Силикон
     bs: Silikon
     ca: silicona
@@ -92,11 +92,11 @@ dv_has_:
     cy: silicon
     da: Silikone
     de: Silikone
-    de-ch: Silikone
+    de_ch: Silikone
     el: Σιλικόνες
     en: silicone
-    en-ca: Silicone
-    en-gb: silicone
+    en_ca: Silicone
+    en_gb: silicone
     eo: silikono
     es: silicona
     et: Silikoonid
@@ -128,7 +128,7 @@ dv_has_:
     oc: Silicòna
     pl: Silikony
     pt: silicone
-    pt-br: Silicone
+    pt_br: Silicone
     ro: silicon
     ru: силикон
     sh: Silikon

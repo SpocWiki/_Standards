@@ -54,11 +54,11 @@ dv_has_:
     cs: Útok sarinem v tokijském metru
     da: Giftgasangrebet i Tokyos undergrundsbane 1995
     de: Tokio Sarin Anschlag
-    de-ch: Tokio Sarin Anschlag
+    de_ch: Tokio Sarin Anschlag
     el: Τρομοκρατική επίθεση στο μετρό του Τόκιο (1995)
     en: Tokyo subway sarin attack
-    en-ca: Tokyo subway sarin attack
-    en-gb: Tokyo subway sarin attack
+    en_ca: Tokyo subway sarin attack
+    en_gb: Tokyo subway sarin attack
     eo: venengasa atenco kontraŭ Tokia metroo en 1995
     es: Ataque de gas sarín en el metro de Tokio
     et: Tōkyō metroo sariinirünnak
@@ -82,7 +82,7 @@ dv_has_:
     nl: Sarin-gasaanval in de metro van Tokio
     pl: Atak w tokijskim metrze
     pt: Ataque com gás sarin ao Metrô de Tóquio
-    pt-br: Ataque com gás sarin ao Metrô de Tóquio
+    pt_br: Ataque com gás sarin ao Metrô de Tóquio
     ru: Зариновая атака в токийском метро
     sh: Napad sarinom na Tokijski metro
     sk: Útok sarínom v tokijskom metre
@@ -96,9 +96,9 @@ dv_has_:
     wuu: 东京地铁沙林毒气事件
     yue: 東京地下鐵沙林毒氣襲擊
     zh: 東京地鐵沙林毒氣事件
-    zh-hans: 东京地铁沙林毒气事件
-    zh-hant: 東京地鐵沙林毒氣事件
-    zh-hk: 東京地鐵沙林毒氣事件
+    zh_hans: 东京地铁沙林毒气事件
+    zh_hant: 東京地鐵沙林毒氣事件
+    zh_hk: 東京地鐵沙林毒氣事件
 ---
 # [[Tokyo_subway_sarin_attack]]
 

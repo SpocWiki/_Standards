@@ -153,7 +153,7 @@ dv_has_:
     az: gen
     ba: ген
     be: ген
-    be-tarask: ген
+    be_tarask: ген
     bg: ген
     blk: စွိုးခွိုꩻဗီဇ
     bn: বংশাণু
@@ -171,8 +171,8 @@ dv_has_:
     dty: जीन
     el: γονίδιο
     en: gene
-    en-ca: gene
-    en-gb: gene
+    en_ca: gene
+    en_gb: gene
     eo: geno
     es: gen
     et: geen
@@ -208,7 +208,7 @@ dv_has_:
     kn: ವಂಶವಾಹಿ
     ko: 유전자
     ku: gen
-    ku-latn: gen
+    ku_latn: gen
     ky: Ген
     la: genum
     lld: Gen
@@ -220,7 +220,7 @@ dv_has_:
     ml: ജീൻ
     mn: Ген
     ms: gen
-    ms-arab: ݢين
+    ms_arab: ݢين
     my: မျိုးရိုးဗီဇ
     nan: Ûi-thoân-chú
     nb: gen
@@ -238,7 +238,7 @@ dv_has_:
     pnb: جین
     ps: جين
     pt: gene
-    pt-br: gene
+    pt_br: gene
     qu: Yawar saphi
     rki: မျိုးရိုးဗီဇ
     ro: genă
@@ -257,7 +257,7 @@ dv_has_:
     so: Hidde
     sq: gjen
     sr: ген
-    sr-ec: ген
+    sr_ec: ген
     su: Gén
     sv: gen
     sw: Jeni
@@ -283,13 +283,13 @@ dv_has_:
     yue: 基因
     za: Gihyinh
     zh: 基因
-    zh-cn: 基因
-    zh-hans: 基因
-    zh-hant: 基因
-    zh-hk: 基因
-    zh-mo: 基因
-    zh-sg: 基因
-    zh-tw: 基因
+    zh_cn: 基因
+    zh_hans: 基因
+    zh_hant: 基因
+    zh_hk: 基因
+    zh_mo: 基因
+    zh_sg: 基因
+    zh_tw: 基因
     zu: Isifuzisi
 ---
 # [[Gene]] 

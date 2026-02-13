@@ -142,7 +142,7 @@ dv_has_:
     ba: һәйкәл
     bcl: Monumento
     be: помнік
-    be-tarask: помнік
+    be_tarask: помнік
     bg: паметник
     bn: স্মৃতিসৌধ
     br: monumant
@@ -155,11 +155,11 @@ dv_has_:
     da: monument
     de: Denkmal
     de-at: Monument
-    de-ch: monument
+    de_ch: monument
     el: μνημείο
     en: monument
-    en-ca: monument
-    en-gb: monument
+    en_ca: monument
+    en_gb: monument
     eo: monumento
     es: monumento
     et: mälestusmärk
@@ -194,7 +194,7 @@ dv_has_:
     kn: ಸ್ಮಾರಕ
     ko: 기념물
     ku: bîrdar
-    ku-latn: bîrdar
+    ku_latn: bîrdar
     ky: Эстелик
     la: monumentum
     lb: Monument
@@ -207,7 +207,7 @@ dv_has_:
     mr: स्मारक
     mrj: Ӓштемик
     ms: tugu
-    ms-arab: توݢو
+    ms_arab: توݢو
     mt: monument
     nb: monument
     nl: gedenkmonument
@@ -217,7 +217,7 @@ dv_has_:
     pap: monumento
     pl: pomnik
     pt: monumento
-    pt-br: monumento
+    pt_br: monumento
     ro: monument
     ru: памятник
     rw: Ubusobanuro bwa monument
@@ -226,8 +226,8 @@ dv_has_:
     sl: spomenik
     sq: monument
     sr: споменик
-    sr-ec: споменик
-    sr-el: spomenik
+    sr_ec: споменик
+    sr_el: spomenik
     sv: monument
     ta: நினைவுச் சின்னம்
     te: స్మారకచిహ్నం
@@ -235,7 +235,7 @@ dv_has_:
     th: อนุสรณ์สถาน
     tr: anıt
     tt: һәйкәл
-    tt-cyrl: һәйкәл
+    tt_cyrl: һәйкәл
     udm: синпелет
     uk: пам'ятник
     ur: یادگار
@@ -247,8 +247,8 @@ dv_has_:
     yi: מאנומענט
     yue: 紀念建築物
     zh: 紀念建築物
-    zh-hant: 紀念建築物
-    zh-tw: 紀念建築物
+    zh_hant: 紀念建築物
+    zh_tw: 紀念建築物
 ---
 # [[Monument]] 
 

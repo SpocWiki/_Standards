@@ -6,7 +6,7 @@ dv_has_:
     ast: Positivismu
     az: pozitivizm
     be: пазітывізм
-    be-tarask: пазытывізм
+    be_tarask: пазытывізм
     bg: позитивизъм
     br: soliadouriezh
     bs: pozitivizam
@@ -18,8 +18,8 @@ dv_has_:
     de: Positivismus
     el: Θετικισμός
     en: positivism
-    en-ca: Positivism
-    en-gb: Positivism
+    en_ca: Positivism
+    en_gb: Positivism
     eo: pozitivismo
     es: positivismo
     et: positivism
@@ -45,11 +45,11 @@ dv_has_:
     ja: 実証主義
     ka: პოზიტივიზმი
     kk: позитивизм
-    kk-arab: پوزىيتىيۆىيزم
+    kk_arab: پوزىيتىيۆىيزم
     kk-cn: پوزىيتىيۆىيزم
-    kk-cyrl: позитивизм
+    kk_cyrl: позитивизм
     kk-kz: позитивизм
-    kk-latn: pozïtïvïzm
+    kk_latn: pozïtïvïzm
     kk-tr: pozïtïvïzm
     ko: 실증주의
     ky: Позитивизм
@@ -70,7 +70,7 @@ dv_has_:
     pms: positivism
     ps: پوزیټویزم
     pt: positivismo
-    pt-br: Positivismo
+    pt_br: Positivismo
     ro: pozitivism
     ru: позитивизм
     sco: positivism
@@ -80,8 +80,8 @@ dv_has_:
     sl: pozitivizem
     sq: Pozitivizmi
     sr: позитивизам
-    sr-ec: позитивизам
-    sr-el: pozitivizam
+    sr_ec: позитивизам
+    sr_el: pozitivizam
     sv: positivism
     ta: நேர்க்காட்சியியம்
     tg: позитивизм
@@ -95,12 +95,12 @@ dv_has_:
     wuu: 实证主义
     yue: 實證主義
     zh: 实证主义
-    zh-cn: 实证主义
+    zh_cn: 实证主义
     zh-hans: 实证主义
-    zh-hant: 實證主義
-    zh-hk: 實證主義
-    zh-sg: 实证主义
-    zh-tw: 實證主義
+    zh_hant: 實證主義
+    zh_hk: 實證主義
+    zh_sg: 实证主义
+    zh_tw: 實證主義
 aliases:
 - Chủ nghĩa thực chứng
 - framhyggja

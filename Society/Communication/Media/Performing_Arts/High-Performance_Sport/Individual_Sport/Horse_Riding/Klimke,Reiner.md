@@ -71,7 +71,7 @@ dv_has_:
     ast: Reiner Klimke
     bar: Reiner Klimke
     be: Райнер Клімке
-    be-tarask: Райнэр Клімке
+    be_tarask: Райнэр Клімке
     bm: Reiner Klimke
     br: Reiner Klimke
     ca: Reiner Klimke
@@ -82,11 +82,11 @@ dv_has_:
     dag: Reiner Klimke
     de: Reiner Klimke
     de-at: Reiner Klimke
-    de-ch: Reiner Klimke
+    de_ch: Reiner Klimke
     dsb: Reiner Klimke
     en: Reiner Klimke
-    en-ca: Reiner Klimke
-    en-gb: Reiner Klimke
+    en_ca: Reiner Klimke
+    en_gb: Reiner Klimke
     eo: Reiner Klimke
     es: Reiner Klimke
     et: Reiner Klimke
@@ -130,7 +130,7 @@ dv_has_:
     nap: Reiner Klimke
     nb: Reiner Klimke
     nds: Reiner Klimke
-    nds-nl: Reiner Klimke
+    nds_nl: Reiner Klimke
     nl: Reiner Klimke
     nn: Reiner Klimke
     nrm: Reiner Klimke
@@ -143,7 +143,7 @@ dv_has_:
     pnb: رینر کلمکے
     prg: Reiner Klimke
     pt: Reiner Klimke
-    pt-br: Reiner Klimke
+    pt_br: Reiner Klimke
     rgn: Reiner Klimke
     rm: Reiner Klimke
     ro: Reiner Klimke

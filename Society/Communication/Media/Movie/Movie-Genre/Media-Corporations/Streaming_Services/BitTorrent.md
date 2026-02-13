@@ -39,8 +39,8 @@ dv_has_:
     ka: ტორენტი
     ko: 비트토렌트
     ku: BitTorrent
-    ku-arab: بتتۆررەنت
-    ku-latn: BitTorrent
+    ku_arab: بتتۆررەنت
+    ku_latn: BitTorrent
     lmo: BitTorrent
     lt: BitTorrent
     lv: BitTorrent
@@ -67,7 +67,7 @@ dv_has_:
     th: บิตทอร์เรนต์
     tr: BitTorrent
     tt: BitTorrent
-    tt-cyrl: BitTorrent
+    tt_cyrl: BitTorrent
     uk: BitTorrent
     ur: بٹ ٹورنٹ
     uz: BitTorrent
@@ -76,12 +76,12 @@ dv_has_:
     wuu: BitTorrent (协议)
     yue: BitTorrent
     zh: BitTorrent
-    zh-cn: BT下载
-    zh-hans: BitTorrent
-    zh-hant: BitTorrent
-    zh-hk: BitTorrent
-    zh-sg: BitTorrent
-    zh-tw: 比特洪流
+    zh_cn: BT下载
+    zh_hans: BitTorrent
+    zh_hant: BitTorrent
+    zh_hk: BitTorrent
+    zh_sg: BitTorrent
+    zh_tw: 比特洪流
 aliases:
 - BitTorento
 - BitTorrent

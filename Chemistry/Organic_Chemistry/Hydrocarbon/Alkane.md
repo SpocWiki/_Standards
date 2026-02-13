@@ -117,7 +117,7 @@ dv_has_:
     azb: آلکان
     bcl: Alkano
     be: алкан
-    be-tarask: альканы
+    be_tarask: альканы
     bg: Алкан
     bn: অ্যালকেন
     bs: Alkani
@@ -180,7 +180,7 @@ dv_has_:
     pms: Parafin-a
     ps: الکان
     pt: alcano
-    pt-br: alcano
+    pt_br: alcano
     ro: Alcan
     ru: алканы
     rue: Алканы
@@ -210,14 +210,14 @@ dv_has_:
     wuu: 烷烃
     yue: 烷烴
     zh: 烷烃
-    zh-cn: 烷烃
-    zh-hans: 烷烃
-    zh-hant: 烷烴
-    zh-hk: 烷烴
-    zh-mo: 烷烴
+    zh_cn: 烷烃
+    zh_hans: 烷烃
+    zh_hant: 烷烴
+    zh_hk: 烷烴
+    zh_mo: 烷烴
     zh-my: 烷烃
-    zh-sg: 烷烃
-    zh-tw: 烷烴
+    zh_sg: 烷烃
+    zh_tw: 烷烴
 ---
 # [[Alkane]] 
 

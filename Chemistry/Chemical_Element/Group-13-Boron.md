@@ -90,7 +90,7 @@ dv_has_:
     ast: Elementos del grupu 13
     az: Dövri sistemin 13-cü qrupu
     ban: Seka boron
-    be-tarask: падгрупа бору
+    be_tarask: падгрупа бору
     bg: Група 13 на периодичната система
     bn: বোরন শ্রেণী
     bs: 13. grupa hemijskih elemenata
@@ -139,8 +139,8 @@ dv_has_:
     so: Guruubka Boron
     sq: Grupi i trembëdhjetë i elementeve kimike
     sr: 13. група хемијских елемената
-    sr-ec: 13. група хемијских елемената
-    sr-el: 13. grupa hemijskih elemenata
+    sr_ec: 13. група хемијских елемената
+    sr_el: 13. grupa hemijskih elemenata
     sv: borgruppen
     ta: போரான் குழுமம்
     te: బోరాన్ గ్రూపు
@@ -151,12 +151,12 @@ dv_has_:
     wuu: 硼族元素
     yue: 硼族元素
     zh: 硼族元素
-    zh-cn: 硼族元素
-    zh-hans: 硼族元素
-    zh-hant: 硼族元素
-    zh-hk: 硼族元素
-    zh-sg: 硼族元素
-    zh-tw: 硼族元素
+    zh_cn: 硼族元素
+    zh_hans: 硼族元素
+    zh_hant: 硼族元素
+    zh_hk: 硼族元素
+    zh_sg: 硼族元素
+    zh_tw: 硼族元素
 ---
 # [[Group-13-Boron]] 
 

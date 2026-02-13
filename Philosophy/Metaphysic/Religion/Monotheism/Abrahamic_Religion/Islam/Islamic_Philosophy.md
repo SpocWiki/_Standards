@@ -101,7 +101,7 @@ dv_has_:
     az: islam fəlsəfəsi
     azb: ایسلام فلسفهسی
     ba: Ислам фәлсәфәһе
-    be-tarask: ісламская філязофія
+    be_tarask: ісламская філязофія
     bn: ইসলামি দর্শন
     br: Prederouriezh islamek
     btm: Filsafat Islam
@@ -134,15 +134,15 @@ dv_has_:
     jam: Izlamik filasafi
     ka: ისლამური ფილოსოფია
     kk: Ислам философиясы
-    kk-arab: ىيسلام فىيلوسوفىيياسى
+    kk_arab: ىيسلام فىيلوسوفىيياسى
     kk-cn: ىيسلام فىيلوسوفىيياسى
-    kk-cyrl: Ислам философиясы
+    kk_cyrl: Ислам философиясы
     kk-kz: Ислам философиясы
-    kk-latn: Ïslam fïlosofïyası
+    kk_latn: Ïslam fïlosofïyası
     kk-tr: Ïslam fïlosofïyası
     ko: 이슬람 철학
     ku: felsefeya îslamê
-    ku-latn: felsefeya îslamê
+    ku_latn: felsefeya îslamê
     ky: Ислам философиясы
     la: Philosophia Islamica
     lv: islāma filozofija
@@ -163,8 +163,8 @@ dv_has_:
     sl: islamska filozofija
     sq: Filozofia Islame
     sr: исламска филозофија
-    sr-ec: Исламска филозофија
-    sr-el: Islamska filozofija
+    sr_ec: Исламска филозофија
+    sr_el: Islamska filozofija
     sv: muslimsk filosofi
     ta: இசுலாமிய மெய்யியல்
     tg: фалсафаи исломӣ
@@ -179,12 +179,12 @@ dv_has_:
     yue: 伊斯蘭哲學
     zgh: ⵜⴰⴼⵍⵙⴰⴼⵜ ⵜⴰⵏⵙⵍⵎⵜ
     zh: 伊斯兰哲学
-    zh-cn: 伊斯兰哲学
-    zh-hans: 伊斯兰哲学
-    zh-hant: 伊斯蘭哲學
-    zh-hk: 伊斯蘭哲學
-    zh-sg: 伊斯兰哲学
-    zh-tw: 伊斯蘭哲學
+    zh_cn: 伊斯兰哲学
+    zh_hans: 伊斯兰哲学
+    zh_hant: 伊斯蘭哲學
+    zh_hk: 伊斯蘭哲學
+    zh_sg: 伊斯兰哲学
+    zh_tw: 伊斯蘭哲學
 ---
 # [[Islamic_Philosophy]] 
 

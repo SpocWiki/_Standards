@@ -51,7 +51,7 @@ dv_has_:
     nn: Tarsem Singh
     pa: ਤਰਸੇਮ ਸਿੰਘ
     pt: Tarsem Singh
-    pt-br: Tarsem Singh
+    pt_br: Tarsem Singh
     ru: Тарсем
     sk: Tarsem Singh
     sl: Tarsem Singh
@@ -59,8 +59,8 @@ dv_has_:
     sv: Tarsem Singh
     yue: 泰森·辛
     zh: 塔森·辛
-    zh-hant: 塔森·辛
-    zh-hk: 泰森·辛
+    zh_hant: 塔森·辛
+    zh_hk: 泰森·辛
 ---
 #has_/time_/started :: 1961-05-26  
 

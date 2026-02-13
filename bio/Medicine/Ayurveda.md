@@ -78,7 +78,7 @@ dv_has_:
     ba: Аюрведа
     ban: Ayurwéda
     bcl: Ayurveda
-    be-tarask: аюрвэда
+    be_tarask: аюрвэда
     bg: Аюрведа
     bho: आयुर्वेद
     bn: আয়ুর্বেদ
@@ -91,7 +91,7 @@ dv_has_:
     dty: आयुर्वेद
     el: Αγιούρ Βέντα
     en: Ayurveda
-    en-gb: Ayurveda
+    en_gb: Ayurveda
     eo: Ajurvedo
     es: ayurveda
     et: Ajurveeda
@@ -102,7 +102,7 @@ dv_has_:
     gl: Āyurveda
     gom: Ayurveda
     gom-deva: आयुर्वेद
-    gom-latn: Ayurveda
+    gom_latn: Ayurveda
     gu: આયુર્વેદ
     he: איור ודה
     hi: आयुर्वेद
@@ -149,8 +149,8 @@ dv_has_:
     sl: Ajurveda
     sq: Ajurveda
     sr: Ајурведа
-    sr-ec: Ајурведа
-    sr-el: Ajurveda
+    sr_ec: Ајурведа
+    sr_el: Ajurveda
     sv: Ayurveda
     ta: ஆயுள்வேதம்
     te: ఆయుర్వేదం
@@ -167,12 +167,12 @@ dv_has_:
     xmf: აიურვედა
     yue: 阿育吠陀
     zh: 阿育吠陀
-    zh-cn: 阿育吠陀
-    zh-hans: 阿育吠陀
-    zh-hant: 阿育吠陀
-    zh-hk: 阿育吠陀
-    zh-sg: 阿育吠陀
-    zh-tw: 阿育吠陀
+    zh_cn: 阿育吠陀
+    zh_hans: 阿育吠陀
+    zh_hant: 阿育吠陀
+    zh_hk: 阿育吠陀
+    zh_sg: 阿育吠陀
+    zh_tw: 阿育吠陀
 ---
 # [[Ayurveda]] 
 

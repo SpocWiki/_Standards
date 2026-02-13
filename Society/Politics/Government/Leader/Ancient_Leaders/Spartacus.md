@@ -85,7 +85,7 @@ dv_has_:
     azb: اسپارتاکوس
     ba: Спартак
     be: Спартак
-    be-tarask: Спартак
+    be_tarask: Спартак
     bg: Спартак
     bn: স্পার্টাকাস
     bs: Spartak
@@ -125,7 +125,7 @@ dv_has_:
     kn: ಸ್ಪಾರ್ಟಕಸ್
     ko: 스파르타쿠스
     ku: Spartakus
-    ku-latn: Spartakus
+    ku_latn: Spartakus
     la: Spartacus
     lmo: Spartacus
     lt: Spartakas
@@ -143,7 +143,7 @@ dv_has_:
     pa: ਸਪਾਰਟਾਕਸ
     pl: Spartakus
     pt: Espártaco
-    pt-br: Espártaco
+    pt_br: Espártaco
     ro: Spartacus
     ru: Спартак
     sco: Spartacus

@@ -100,7 +100,7 @@ dv_has_:
     af: Pantoteensuur
     ar: فيتامين بي5
     azb: پانتوتنیک اسید
-    be-tarask: пантатэнавая кісьля
+    be_tarask: пантатэнавая кісьля
     bg: Пантотенова киселина
     bs: Vitamin B5
     ca: àcid pantotènic
@@ -150,8 +150,8 @@ dv_has_:
     sk: Kyselina pantoténová
     sl: Pantonenska kislina
     sr: Пантотенска киселина
-    sr-ec: Пантотенска киселина
-    sr-el: Vitamin B5
+    sr_ec: Пантотенска киселина
+    sr_el: Vitamin B5
     sv: pantotensyra
     ta: பான்டோதெனிக் அமிலம்
     th: กรดแพนโทเทนิก
@@ -161,12 +161,12 @@ dv_has_:
     vi: Axit pantothenic
     yue: 維他命B5
     zh: 泛酸
-    zh-cn: 泛酸
-    zh-hans: 泛酸
-    zh-hant: 泛酸
-    zh-hk: 泛酸
-    zh-sg: 泛酸
-    zh-tw: 泛酸
+    zh_cn: 泛酸
+    zh_hans: 泛酸
+    zh_hant: 泛酸
+    zh_hk: 泛酸
+    zh_sg: 泛酸
+    zh_tw: 泛酸
 ---
 # [[Pantothenic_Acid]] 
 

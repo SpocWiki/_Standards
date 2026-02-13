@@ -74,7 +74,7 @@ dv_has_:
     ar: دوال مثلثية عكسية
     az: Tərs triqonometrik funksiyalar
     ba: Кире тригонометрик функциялар
-    be-tarask: адваротныя трыганамэтрычныя функцыі
+    be_tarask: адваротныя трыганамэтрычныя функцыі
     bg: Обратни тригонометрични функции
     bn: বিপরীত ত্রিকোণমিতিক ফাংশন
     ca: inverses de les funcions trigonomètriques
@@ -114,7 +114,7 @@ dv_has_:
     nn: arcus-funksjon
     pl: funkcje cyklometryczne
     pt: função trigonométrica inversa
-    pt-br: função trigonométrica inversa
+    pt_br: função trigonométrica inversa
     ro: funcție trigonometrică inversă
     ru: обратные тригонометрические функции
     sh: inverzne trigonometrijske funkcije
@@ -123,7 +123,7 @@ dv_has_:
     sl: krožna funkcija
     sq: funksionet inverse trigonometrike
     sr: инверзна тригонометријска функција
-    sr-ec: инверзна тригонометријска функција
+    sr_ec: инверзна тригонометријска функција
     sv: arcusfunktion
     ta: நேர்மாறு முக்கோணவியல் சார்புகள்
     th: ฟังก์ชันตรีโกณมิติผกผัน
@@ -132,7 +132,7 @@ dv_has_:
     vi: Các hàm lượng giác ngược
     yue: 反三角函數
     zh: 反三角函數
-    zh-hans: 反三角函数
+    zh_hans: 反三角函数
 ---
 # [[Inverse_trigonometric_Function]] 
 

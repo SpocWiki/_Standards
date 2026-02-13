@@ -92,7 +92,7 @@ dv_has_:
     az: Coğrafiya tarixi
     ba: география тарихы
     be: гісторыя геаграфіі
-    be-tarask: гісторыі геаграфіі
+    be_tarask: гісторыі геаграфіі
     bg: История на географията
     bho: भूगोल के इतिहास
     bn: ভূগোলের ইতিহাস
@@ -122,7 +122,7 @@ dv_has_:
     ml: ഭൂമിശാസ്ത്രത്തിന്റെ ചരിത്രം
     mn: Газар зүйн түүх
     ms: sejarah geografi
-    ms-arab: سجاره ݢيوݢرافي
+    ms_arab: سجاره ݢيوݢرافي
     nl: geschiedenis van de aardrijkskunde
     pl: historia geografii
     ps: د جغرافيې تاريخ
@@ -143,7 +143,7 @@ dv_has_:
     vec: istòria de ła zeografia
     yue: 地理史
     zh: 地理學歷史
-    zh-hans: 地理学史
+    zh_hans: 地理学史
 ---
 # [[History_of_Geography]] 
 

@@ -74,7 +74,7 @@ dv_has_:
     ast: filosofía contemporánea
     az: Müasir fəlsəfə
     ba: Хәҙерге заман фәлсәфәһе
-    be-tarask: сучасная філязофія
+    be_tarask: сучасная філязофія
     bg: Съвременна философия
     bs: Savremena filozofija
     ca: filosofia contemporània
@@ -120,7 +120,7 @@ dv_has_:
     pms: Filosofìa contemporania
     ps: معاصره فلسفې
     pt: Filosofia contemporânea
-    pt-br: filosofia contemporânea
+    pt_br: filosofia contemporânea
     rki: အနောက်တိုင်းဖီလိုဆိုဖီခေတ်တိ
     ro: filozofia contemporana
     ru: современная философия
@@ -136,8 +136,8 @@ dv_has_:
     vi: Triết học đương đại
     zgh: ⵜⴰⴼⵍⵙⴰⴼⵜ ⵜⴰⵎⵉⵔⴰⵏⵜ
     zh: 當代哲學
-    zh-hans: 当代哲学家
-    zh-hant: 當代哲學家
+    zh_hans: 当代哲学家
+    zh_hant: 當代哲學家
 ---
 #is_/same_as :: [[../WikiData/WD~Contemporary_philosophy,943303|WD~Contemporary_philosophy,943303]] 
 

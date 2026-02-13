@@ -100,7 +100,7 @@ dv_has_:
     ar: لوحة دارة مطبوعة
     ast: Circuitu impresu
     az: sxem lövhəsi
-    be-tarask: друкаваная плата
+    be_tarask: друкаваная плата
     bg: Печатна платка
     bn: প্রিন্টেড সার্কিট বোর্ড
     bs: Printana ploča
@@ -108,11 +108,11 @@ dv_has_:
     cs: Plošný spoj
     da: printplade
     de: Leiterplatte
-    de-ch: Leiterplatte
+    de_ch: Leiterplatte
     el: Πλακέτα τυπωμένου κυκλώματος
     en: printed circuit board
-    en-ca: printed circuit board
-    en-gb: printed circuit board
+    en_ca: printed circuit board
+    en_gb: printed circuit board
     eo: cirkvitkarto
     es: circuito impreso
     et: Trükkplaat
@@ -150,7 +150,7 @@ dv_has_:
     pl: obwód drukowany
     pms: Circuit stampà
     pt: circuito impresso
-    pt-br: Circuito impresso
+    pt_br: Circuito impresso
     ro: circuit imprimat
     ru: печатная плата
     sco: printit circuit buird
@@ -159,8 +159,8 @@ dv_has_:
     sk: Doska plošných spojov
     sl: plošča tiskanega vezja
     sr: штампана плоча
-    sr-ec: Штампана плоча
-    sr-el: Štampana ploča
+    sr_ec: Штампана плоча
+    sr_el: Štampana ploča
     sv: mönsterkort
     sw: Bodi ya sakiti iliyochapishwa
     ta: மின்சுற்றுப் பலகை
@@ -174,12 +174,12 @@ dv_has_:
     yi: געדרוקטער שטראמקרייז
     yue: 電路板
     zh: 印刷电路板
-    zh-cn: 印制电路板
-    zh-hans: 印制电路板
-    zh-hant: 印刷電路板
-    zh-hk: 印刷電路板
-    zh-sg: 印制电路板
-    zh-tw: 印刷電路板
+    zh_cn: 印制电路板
+    zh_hans: 印制电路板
+    zh_hant: 印刷電路板
+    zh_hk: 印刷電路板
+    zh_sg: 印制电路板
+    zh_tw: 印刷電路板
 ---
 # [[Printed_Circuit_Board]] 
 

@@ -167,7 +167,7 @@ dv_has_:
     az: Yurgen Habermas
     bar: Jürgen Habermas
     be: Юрген Хабермас
-    be-tarask: Юрген Габэрмас
+    be_tarask: Юрген Габэрмас
     bg: Юрген Хабермас
     br: Jürgen Habermas
     bs: Jürgen Habermas
@@ -180,14 +180,14 @@ dv_has_:
     dag: Jürgen Habermas
     de: Jürgen Habermas
     de-at: Jürgen Habermas
-    de-ch: Jürgen Habermas
+    de_ch: Jürgen Habermas
     diq: Jürgen Habermas
     dsb: Jürgen Habermas
     ee: Jürgen Habermas
     el: Γιούργκεν Χάμπερμας
     en: Jürgen Habermas
-    en-ca: Jürgen Habermas
-    en-gb: Jürgen Habermas
+    en_ca: Jürgen Habermas
+    en_gb: Jürgen Habermas
     eo: Jürgen Habermas
     es: Jürgen Habermas
     et: Jürgen Habermas
@@ -242,7 +242,7 @@ dv_has_:
     nap: Jürgen Habermas
     nb: Jürgen Habermas
     nds: Jürgen Habermas
-    nds-nl: Jürgen Habermas
+    nds_nl: Jürgen Habermas
     new: युर्गेन हाबरमास
     nl: Jürgen Habermas
     nn: Jürgen Habermas
@@ -254,7 +254,7 @@ dv_has_:
     pms: Jürgen Habermas
     ps: یورګن هابرماس
     pt: Jürgen Habermas
-    pt-br: Jürgen Habermas
+    pt_br: Jürgen Habermas
     rm: Jürgen Habermas
     ro: Jürgen Habermas
     ru: Юрген Хабермас
@@ -266,7 +266,7 @@ dv_has_:
     sl: Jürgen Habermas
     sq: Jürgen Habermas
     sr: Јирген Хабермас
-    sr-el: Jürgen Habermas
+    sr_el: Jürgen Habermas
     stq: Jürgen Habermas
     sv: Jürgen Habermas
     sw: Jürgen Habermas
@@ -286,8 +286,8 @@ dv_has_:
     yo: Jürgen Habermas
     yue: 哈伯瑪斯
     zh: 于尔根·哈贝马斯
-    zh-hant: 于爾根·哈伯瑪斯
-    zh-tw: 于爾根·哈伯瑪斯
+    zh_hant: 于爾根·哈伯瑪斯
+    zh_tw: 于爾根·哈伯瑪斯
     zu: Jürgen Habermas
 ---
 # [[Jürgen_Habermas]] 

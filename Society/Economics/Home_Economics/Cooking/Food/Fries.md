@@ -133,7 +133,7 @@ dv_has_:
     atj: sasipatakan
     bcl: French fries
     be: бульба фры
-    be-tarask: бульба-фры
+    be_tarask: бульба-фры
     bew: artapel gorèng
     bg: пържени картофи
     bn: ফ্রেঞ্চ ফ্রাই
@@ -146,7 +146,7 @@ dv_has_:
     de: Pommes frites
     el: τηγανιτές πατάτες
     en: fries
-    en-gb: chips
+    en_gb: chips
     eo: terpomfingroj
     es: papas fritas
     et: friikartulid
@@ -210,8 +210,8 @@ dv_has_:
     sm: tipi vevela
     sq: pomfrit
     sr: помфрит
-    sr-ec: помфрит
-    sr-el: pomfrit
+    sr_ec: помфрит
+    sr_el: pomfrit
     sv: pommes frites
     sw: vibanzi
     ta: பிரஞ்சு பொரியலாக
@@ -231,11 +231,11 @@ dv_has_:
     yue: 薯條
     zh: 馬鈴薯條
     zh-cn: 马铃薯条
-    zh-hans: 马铃薯条
-    zh-hant: 馬鈴薯條
-    zh-hk: 薯條
-    zh-sg: 马铃薯条
-    zh-tw: 馬鈴薯條
+    zh_hans: 马铃薯条
+    zh_hant: 馬鈴薯條
+    zh_hk: 薯條
+    zh_sg: 马铃薯条
+    zh_tw: 馬鈴薯條
 ---
 # [[Fries]] 🍟 
 

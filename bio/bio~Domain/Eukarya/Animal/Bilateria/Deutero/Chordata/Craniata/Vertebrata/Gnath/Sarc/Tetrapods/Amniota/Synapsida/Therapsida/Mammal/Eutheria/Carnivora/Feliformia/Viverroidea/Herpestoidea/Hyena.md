@@ -148,8 +148,8 @@ Commons_category: Hyaenidae
 taxon_name: Hyaenidae
 dv_has_:
   name_:
-    aeb-arab: ضبع
-    aeb-latn: 4ba3
+    aeb_arab: ضبع
+    aeb_latn: 4ba3
     af: Hiëna
     am: ዥብ
     an: Hyaenidae
@@ -162,7 +162,7 @@ dv_has_:
     ban: Hyena
     bcl: Hyena
     be: гіенавыя
-    be-tarask: гіенавыя
+    be_tarask: гіенавыя
     bg: хиенови
     bm: Suruku
     bn: হায়েনা
@@ -182,8 +182,8 @@ dv_has_:
     diq: Keftar
     el: Ύαινα
     en: Hyaenidae
-    en-ca: Hyena
-    en-gb: Hyena
+    en_ca: Hyena
+    en_gb: Hyena
     eo: Hienedoj
     es: Hyaenidae
     et: Hüäänlased
@@ -250,7 +250,7 @@ dv_has_:
     pl: Hienowate
     pnb: ہائینا
     pt: hiena
-    pt-br: Hiena
+    pt_br: Hiena
     ro: Hienă
     ru: гиены
     sat: ᱦᱩᱸᱰᱟᱹᱨᱵᱟᱜᱽ
@@ -265,7 +265,7 @@ dv_has_:
     so: Waraabe
     sq: Hiena
     sr: хијена
-    sr-ec: хијена
+    sr_ec: хијена
     st: Phiri
     sv: Hyenor
     sw: Fisi
@@ -292,9 +292,9 @@ dv_has_:
     yo: Ìkokò
     yue: 鬣狗科
     zh: 鬣狗科
-    zh-cn: 鬣狗科
-    zh-hans: 鬣狗科
-    zh-tw: 鬣狗科
+    zh_cn: 鬣狗科
+    zh_hans: 鬣狗科
+    zh_tw: 鬣狗科
     zu: Impisi
 ---
 # [[Hyena]] 

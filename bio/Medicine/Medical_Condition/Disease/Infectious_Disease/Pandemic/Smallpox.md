@@ -254,8 +254,8 @@ Krugosvet_article_archived_: medicina/OSPA_NATURALNAYA.html
 Commons_category: Smallpox
 dv_has_:
   name_:
-    aeb-arab: جدري
-    aeb-latn: jedri
+    aeb_arab: جدري
+    aeb_latn: jedri
     af: pokke
     an: Picueta
     anp: मसूरिका
@@ -268,7 +268,7 @@ dv_has_:
     azb: چیچک نوخوشلوغو
     ba: Ҡара сәсәк
     be: натуральная воспа
-    be-tarask: натуральная воспа
+    be_tarask: натуральная воспа
     bg: Едра шарка
     bn: গুটিবসন্ত
     br: Brec'h
@@ -288,8 +288,8 @@ dv_has_:
     el: ευλογιά
     eml: Varōl
     en: smallpox
-    en-ca: Smallpox
-    en-gb: smallpox
+    en_ca: Smallpox
+    en_gb: smallpox
     eo: variolo
     es: viruela
     et: rõuged
@@ -329,7 +329,7 @@ dv_has_:
     kn: ಸಿಡುಬು
     ko: 천연두
     ks: شُتٕلؠ
-    ku-latn: xurîk
+    ku_latn: xurîk
     ky: Чечек
     la: Variola
     lb: Pouken
@@ -362,7 +362,7 @@ dv_has_:
     pms: Vairòle
     pnb: چیچک
     pt: varíola
-    pt-br: varíola
+    pt_br: varíola
     qu: Muru unquy
     ro: variolă
     ru: натуральная оспа
@@ -402,10 +402,10 @@ dv_has_:
     yi: פאקן
     yue: 天花
     zh: 天花
-    zh-hans: 天花
-    zh-hant: 天花
-    zh-hk: 天花
-    zh-tw: 天花
+    zh_hans: 天花
+    zh_hant: 天花
+    zh_hk: 天花
+    zh_tw: 天花
 ---
 # [[Smallpox]] 
 

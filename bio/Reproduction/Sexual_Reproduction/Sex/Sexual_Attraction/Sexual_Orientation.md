@@ -138,7 +138,7 @@ dv_has_:
     ba: сексуаль йүнәлеш
     bcl: Sekswal na orientasyon
     be: сексуальная арыентацыя
-    be-tarask: сэксуальная арыентацыя
+    be_tarask: сэксуальная арыентацыя
     bg: Сексуална ориентация
     bn: যৌন অভিমুখিতা
     br: Tuadur reizhel
@@ -150,11 +150,11 @@ dv_has_:
     cy: Cyfeiriadedd rhywiol
     da: seksuel orientering
     de: sexuelle Orientierung
-    de-ch: Sexuelle Orientierung
+    de_ch: Sexuelle Orientierung
     el: σεξουαλικός προσανατολισμός
     en: sexual orientation
-    en-ca: sexual orientation
-    en-gb: sexual orientation
+    en_ca: sexual orientation
+    en_gb: sexual orientation
     eo: seksa orientiĝo
     es: orientación sexual
     et: seksuaalne orientatsioon
@@ -208,7 +208,7 @@ dv_has_:
     pnb: جنسی رجحان
     ps: جنسي تمايل
     pt: orientação sexual
-    pt-br: orientação sexual
+    pt_br: orientação sexual
     ro: orientare sexuală
     ru: сексуальная ориентация
     sc: Orientamentu sessuale
@@ -241,14 +241,14 @@ dv_has_:
     yi: סעקסואלער אריענטאציע
     yue: 性取向
     zh: 性取向
-    zh-cn: 性取向
-    zh-hans: 性取向
-    zh-hant: 性取向
-    zh-hk: 性取向
-    zh-mo: 性取向
+    zh_cn: 性取向
+    zh_hans: 性取向
+    zh_hant: 性取向
+    zh_hk: 性取向
+    zh_mo: 性取向
     zh-my: 性取向
-    zh-sg: 性取向
-    zh-tw: 性取向
+    zh_sg: 性取向
+    zh_tw: 性取向
 ---
 # [[Sexual_Orientation]] 
 

@@ -350,11 +350,11 @@ dv_has_:
     bag: samadíi
     ban: Saniscara
     bas: ngwa jon
-    bbc-latn: Ari Sabtu
+    bbc_latn: Ari Sabtu
     bbj: shyə̂ŋkǔʼ
     bcl: Sabado
     be: субота
-    be-tarask: субота
+    be_tarask: субота
     bew: Sabtu
     bg: Събота
     bho: शनिच्चर
@@ -370,7 +370,7 @@ dv_has_:
     bxr: Гарагай долоон
     byv: ntα̂nndʉb
     ca: dissabte
-    cbk-zam: Sabado
+    cbk_zam: Sabado
     cdo: Lā̤-bái-lĕ̤k
     ce: Шот
     ceb: Sabado
@@ -387,7 +387,7 @@ dv_has_:
     da: lørdag
     dag: Asibiri
     de: Samstag
-    de-ch: Samstag
+    de_ch: Samstag
     diq: Şeme
     dsb: Sobota
     dty: शनिवार
@@ -397,8 +397,8 @@ dv_has_:
     el: Σάββατο
     eml: sâbet
     en: Saturday
-    en-ca: Saturday
-    en-gb: Saturday
+    en_ca: Saturday
+    en_gb: Saturday
     en-us: Saturday
     eo: sabato
     es: sábado
@@ -510,7 +510,7 @@ dv_has_:
     mos: Saturday
     mr: शनिवार
     ms: Sabtu
-    ms-arab: سبت
+    ms_arab: سبت
     mua: comzyeɓsuu
     mwl: Sábado
     my: စနေ
@@ -525,7 +525,7 @@ dv_has_:
     nap: sàbbato
     nb: lørdag
     nds: Saterdag
-    nds-nl: zaoterdag
+    nds_nl: zaoterdag
     ne: शनिवार
     new: संन्हि
     nl: zaterdag
@@ -549,7 +549,7 @@ dv_has_:
     pnt: Σάββαν
     ps: ونۍ
     pt: sábado
-    pt-br: sábado
+    pt_br: sábado
     qu: K'uychichaw
     rmf: ȟouto diives
     ro: sâmbătă
@@ -580,7 +580,7 @@ dv_has_:
     so: Sabti
     sq: e shtunë
     sr: субота
-    sr-ec: субота
+    sr_ec: субота
     st: Moqebelo
     su: Saptu
     sv: lördag
@@ -597,7 +597,7 @@ dv_has_:
     tpi: Sarere
     tr: Cumartesi
     tt: шимбә
-    tt-cyrl: Шимбә
+    tt_cyrl: Шимбә
     tvu: ninúmbé
     tw: Memeneda
     tyv: Чартык улуг хүн
@@ -630,10 +630,10 @@ dv_has_:
     za: singhgiz roek
     zgh: ⴰⵙⵉⴹⵢⴰⵙ
     zh: 星期六
-    zh-hans: 星期六
-    zh-hant: 星期六
-    zh-hk: 星期六
-    zh-tw: 星期六
+    zh_hans: 星期六
+    zh_hant: 星期六
+    zh_hk: 星期六
+    zh_tw: 星期六
 ---
 # [[Saturday]] 
 

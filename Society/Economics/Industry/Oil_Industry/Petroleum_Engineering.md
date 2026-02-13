@@ -59,7 +59,7 @@ dv_has_:
     ast: Inxeniería del petróleu
     az: Neft və qaz mühəndisliyi
     be: Нафтапрамысловая справа
-    be-tarask: нафтапрамысловая справа
+    be_tarask: нафтапрамысловая справа
     bs: Naftno inženjerstvo
     ca: enginyeria del petroli
     ckb: ئەندازیاریی نەوت

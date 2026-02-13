@@ -86,7 +86,7 @@ dv_has_:
     ar: خريطة نجوم
     ast: Carta estelar
     ba: Йондоҙҙар картаһы
-    be-tarask: мапа зорнага неба
+    be_tarask: мапа зорнага неба
     bg: Звездна карта
     ca: carta celeste
     cs: hvězdná mapa
@@ -109,7 +109,7 @@ dv_has_:
     it: carta celeste
     ja: 星図
     kk: Жұлдыздық карталар
-    kk-cyrl: жұлдыз картасы
+    kk_cyrl: жұлдыз картасы
     ko: 성도
     lb: Stärekaart
     lt: žvaigždėlapis
@@ -139,9 +139,9 @@ dv_has_:
     wuu: 星图
     yue: 星圖
     zh: 星圖
-    zh-hans: 星图
-    zh-hant: 星圖
-    zh-hk: 星圖
+    zh_hans: 星图
+    zh_hant: 星圖
+    zh_hk: 星圖
 ---
 # [[Star_Chart]] 
 

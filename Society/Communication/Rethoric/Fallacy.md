@@ -4,7 +4,7 @@ dv_has_:
   name_:
     ar: مغالطة
     as: ভ্ৰান্তি
-    be-tarask: лягічная хіба
+    be_tarask: лягічная хіба
     bg: Логическа заблуда
     bn: যুক্তিদোষ
     bs: logička greška
@@ -15,8 +15,8 @@ dv_has_:
     de: Fehlschluss
     el: Λογική πλάνη
     en: fallacy
-    en-ca: fallacy
-    en-gb: fallacy
+    en_ca: fallacy
+    en_gb: fallacy
     eo: logika trompo
     es: falacia
     et: Arutlusviga
@@ -55,7 +55,7 @@ dv_has_:
     pl: błąd logiczny
     ps: تېروتنه یا غلط فهمي
     pt: falácia
-    pt-br: Falácia
+    pt_br: Falácia
     ro: eroare logică
     ru: логическая ошибка
     rue: Лоґічна хыба
@@ -77,7 +77,7 @@ dv_has_:
     wuu: 谬误
     yue: 謬論
     zh: 謬誤
-    zh-cn: 谬误
+    zh_cn: 谬误
 aliases:
 - argumentacijos klaida
 - argumentationsfel

@@ -129,7 +129,7 @@ dv_has_:
     az: Dövlət çevrilişi
     azb: داربه
     be: дзяржаўны пераварот
-    be-tarask: дзяржаўны пераварот
+    be_tarask: дзяржаўны пераварот
     bg: Държавен преврат
     bn: অভ্যুত্থান
     br: Taol-stad
@@ -143,12 +143,12 @@ dv_has_:
     cy: coup d'état
     da: statskup
     de: Putsch
-    de-ch: Putsch
+    de_ch: Putsch
     dv: ބަޣާވާތް
     el: πραξικόπημα
     en: coup d'état
-    en-ca: Coup d'état
-    en-gb: coup d'état
+    en_ca: Coup d'état
+    en_gb: coup d'état
     eo: puĉo
     es: golpe de estado
     et: Riigipööre
@@ -197,7 +197,7 @@ dv_has_:
     mzn: کودتا
     nan: Chèng-piàn
     nb: statskupp
-    nds-nl: ståtsgreyp
+    nds_nl: ståtsgreyp
     ne: राज्यविप्लव
     nl: staatsgreep
     nn: kupp
@@ -208,7 +208,7 @@ dv_has_:
     pnb: مسلح بغاوت
     ps: کودتا
     pt: golpe de Estado
-    pt-br: golpe de Estado
+    pt_br: golpe de Estado
     qu: Wamink'a maqay
     ro: lovitură de stat
     ru: государственный переворот
@@ -240,14 +240,14 @@ dv_has_:
     yi: איבערקערעניש
     yue: 政變
     zh: 政變
-    zh-cn: 政变
-    zh-hans: 政变
-    zh-hant: 政變
-    zh-hk: 政變
-    zh-mo: 政變
+    zh_cn: 政变
+    zh_hans: 政变
+    zh_hant: 政變
+    zh_hk: 政變
+    zh_mo: 政變
     zh-my: 政变
-    zh-sg: 政变
-    zh-tw: 政變
+    zh_sg: 政变
+    zh_tw: 政變
 ---
 # [[Coup_d'état]] 
 

@@ -113,7 +113,7 @@ dv_has_:
     ba: Пирамида
     bar: Pyramidn
     be: піраміда
-    be-tarask: піраміда
+    be_tarask: піраміда
     bg: Пирамида
     bn: পিরামিড
     br: Piramidenn
@@ -127,12 +127,12 @@ dv_has_:
     cy: Pyramid
     da: pyramide
     de: Pyramide
-    de-ch: Pyramide
+    de_ch: Pyramide
     diq: Piramid
     el: Πυραμίδα
     en: pyramid
-    en-ca: Pyramid
-    en-gb: pyramid
+    en_ca: Pyramid
+    en_gb: pyramid
     eo: piramido
     es: pirámide
     et: püramiid
@@ -190,7 +190,7 @@ dv_has_:
     nan: Kim-jī-thah
     nb: pyramide
     nds: Pyramid (Buwark)
-    nds-nl: piramide
+    nds_nl: piramide
     new: पिरामिड
     nl: piramide
     nn: pyramidar
@@ -202,7 +202,7 @@ dv_has_:
     pnb: ہرم
     ps: هرم
     pt: pirâmide
-    pt-br: Pirâmide
+    pt_br: Pirâmide
     qu: Chuntu wasi
     ro: Piramidă
     ru: пирамида
@@ -218,8 +218,8 @@ dv_has_:
     so: Gunbur
     sq: Piramida
     sr: пирамида
-    sr-ec: пирамида
-    sr-el: пирамида
+    sr_ec: пирамида
+    sr_el: пирамида
     sv: pyramid
     sw: Piramidi
     syl: ꠙꠤꠞꠣꠝꠤꠒ
@@ -244,8 +244,8 @@ dv_has_:
     yi: פיראמיד
     yue: 金字塔
     zh: 金字塔
-    zh-hans: 金字塔
-    zh-hant: 金字塔
+    zh_hans: 金字塔
+    zh_hant: 金字塔
     zu: Isitshopolonco
 ---
 #is_/similar_to :: [[../../../../../../Mathematics/Geometry/Geometry-3D/Polyhedron/Pyramid(Geometry)|Pyramid(Geometry)]] 

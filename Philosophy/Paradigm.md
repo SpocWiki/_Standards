@@ -44,7 +44,7 @@ dv_has_:
     ar: نموذج فكري
     ast: Paradigma
     az: paradiqma
-    be-tarask: парадыгма
+    be_tarask: парадыгма
     bg: Парадигма
     bn: তাত্ত্বিক পরিকাঠামো
     bs: paradigma
@@ -105,8 +105,8 @@ dv_has_:
     sms: paradigma
     sq: Paradigma
     sr: парадигма
-    sr-ec: парадигма
-    sr-el: paradigma
+    sr_ec: парадигма
+    sr_el: paradigma
     sv: paradigm
     ta: கருத்தோட்டம்
     th: กระบวนทัศน์
@@ -121,7 +121,7 @@ dv_has_:
     wuu: 范式
     yue: 範式
     zh: 范式
-    zh-tw: 典範
+    zh_tw: 典範
 ---
 # [[Paradigm]] 
 

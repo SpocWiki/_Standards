@@ -102,7 +102,7 @@ dv_has_:
     ast: San
     az: buşmenlər
     be: Сан
-    be-tarask: бушмэны
+    be_tarask: бушмэны
     bg: Бушмени
     bn: বুশম্যান
     ca: san
@@ -110,11 +110,11 @@ dv_has_:
     cy: San
     da: Buskmand
     de: San
-    de-ch: San
+    de_ch: San
     el: Βουσμάνοι
     en: San people
-    en-ca: Bushmen
-    en-gb: Bushmen
+    en_ca: Bushmen
+    en_gb: Bushmen
     eo: Boŝmanoj
     es: San
     et: Bušmanid
@@ -152,15 +152,15 @@ dv_has_:
     pa: ਬੁਸ਼ਮੈਨ
     pl: buszmeni
     pt: Povo San
-    pt-br: Povo San
+    pt_br: Povo San
     ro: San
     ru: бушмены
     sh: Bušmani
     sk: Krováci
     sl: Grmičarji
     sr: Бушмани
-    sr-ec: Бушмани
-    sr-el: Bušmani
+    sr_ec: Бушмани
+    sr_el: Bušmani
     sv: sanfolket
     ta: சான் மக்கள்
     tn: Basarwa
@@ -175,12 +175,12 @@ dv_has_:
     yo: Bushmen
     yue: 閃族
     zh: 萨恩人
-    zh-cn: 萨恩人
-    zh-hans: 布须曼人
-    zh-hant: 布希曼人
-    zh-hk: 布希曼人
-    zh-sg: 布须曼人
-    zh-tw: 布希曼人
+    zh_cn: 萨恩人
+    zh_hans: 布须曼人
+    zh_hant: 布希曼人
+    zh_hk: 布希曼人
+    zh_sg: 布须曼人
+    zh_tw: 布希曼人
 ---
 # [[San_People]] 
 

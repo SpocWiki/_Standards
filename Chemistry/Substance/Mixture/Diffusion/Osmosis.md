@@ -99,7 +99,7 @@ dv_has_:
     as: অভিস্ৰৱন
     ast: Ósmosis
     be: Осмас
-    be-tarask: осмас
+    be_tarask: осмас
     bg: Осмоза
     bn: অভিস্রবণ
     bs: Osmoza
@@ -109,11 +109,11 @@ dv_has_:
     cy: Osmosis
     da: Osmose
     de: Osmose
-    de-ch: Osmose
+    de_ch: Osmose
     el: Ώσμωση
     en: osmosis
-    en-ca: Osmosis
-    en-gb: Osmosis
+    en_ca: Osmosis
+    en_gb: Osmosis
     eo: osmozo
     es: ósmosis
     et: Osmoos
@@ -138,7 +138,7 @@ dv_has_:
     kn: ಆಸ್ಮಾಸಿಸ್
     ko: 삼투
     ku: osmoz
-    ku-latn: osmoz
+    ku_latn: osmoz
     ky: Осмос
     la: Osmosis
     lfn: Osmose
@@ -156,7 +156,7 @@ dv_has_:
     pl: Osmoza
     pms: Osmòsi
     pt: osmose
-    pt-br: Osmose
+    pt_br: Osmose
     ro: Osmoză
     ru: осмос
     sco: osmosis
@@ -167,7 +167,7 @@ dv_has_:
     so: Osmose
     sq: Osmoza
     sr: Осмоза
-    sr-ec: Осмоза
+    sr_ec: Осмоза
     su: Osmosis
     sv: osmos
     sw: Osimosisi

@@ -196,7 +196,7 @@ dv_has_:
     azb: رودیارد کیپلینق
     ba: Киплинг Редьярд
     be: Джозеф Рэдзьярд Кіплінг
-    be-tarask: Рэд’ярд Кіплінг
+    be_tarask: Рэд’ярд Кіплінг
     bg: Ръдиард Киплинг
     bho: रडयार्ड किपलिंग
     bn: রুডইয়ার্ড কিপলিং
@@ -210,12 +210,12 @@ dv_has_:
     da: Rudyard Kipling
     de: Rudyard Kipling
     de-at: Rudyard Kipling
-    de-ch: Rudyard Kipling
+    de_ch: Rudyard Kipling
     ee: Rudyard Kipling
     el: Ράντγιαρντ Κίπλινγκ
     en: Rudyard Kipling
-    en-ca: Rudyard Kipling
-    en-gb: Rudyard Kipling
+    en_ca: Rudyard Kipling
+    en_gb: Rudyard Kipling
     eo: Rudyard Kipling
     es: Rudyard Kipling
     et: Rudyard Kipling
@@ -283,7 +283,7 @@ dv_has_:
     pnb: رڈیارڈ کپلنگ
     ps: روډیارډ کیپلېنګ
     pt: Rudyard Kipling
-    pt-br: Rudyard Kipling
+    pt_br: Rudyard Kipling
     qu: Rudyard Kipling
     ro: Rudyard Kipling
     ru: Редьярд Киплинг
@@ -318,7 +318,7 @@ dv_has_:
     yo: Rudyard Kipling
     yue: 吉百齡
     zh: 魯德亞德·吉卜林
-    zh-hant: 魯德亞德·吉卜林
+    zh_hant: 魯德亞德·吉卜林
 ---
 # [[Kipling,Rudyard]] 
 

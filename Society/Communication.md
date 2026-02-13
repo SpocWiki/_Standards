@@ -207,7 +207,7 @@ dv_has_:
     bar: Kommunikation
     bcl: Komunikasyon
     be: камунікацыя
-    be-tarask: зносіны
+    be_tarask: зносіны
     bew: Ubung-ubungan
     bg: Общуване
     bho: संचार
@@ -224,13 +224,13 @@ dv_has_:
     cy: cyfathrebu
     da: kommunikation
     de: Kommunikation
-    de-ch: Kommunikation
+    de_ch: Kommunikation
     dtp: Komunikasi
     dty: सञ्चार
     el: επικοινωνία
     en: communication
-    en-ca: Communication
-    en-gb: communication
+    en_ca: Communication
+    en_gb: communication
     en-us: communication
     eo: komunikado
     es: comunicación
@@ -282,7 +282,7 @@ dv_has_:
     ko: 커뮤니케이션
     ks: رٲبطہٕ
     ku: pêragihandin
-    ku-latn: pêragihandin
+    ku_latn: pêragihandin
     kw: Keskomunyans
     ky: Байланыш-катыш
     la: communicatio
@@ -298,7 +298,7 @@ dv_has_:
     mn: Харилцаа
     mr: संप्रेषण
     ms: perhubungan
-    ms-arab: کومونيکاسي
+    ms_arab: کومونيکاسي
     mwl: Quemunicaçon
     my: ဆက်သွယ်မှု
     nan: Thoân-ta̍t
@@ -319,7 +319,7 @@ dv_has_:
     pnb: کمیونیکیشن
     ps: مفاهمه
     pt: comunicação
-    pt-br: comunicação
+    pt_br: comunicação
     qu: Willachikuy
     rm: Communicaziun
     ro: comunicare
@@ -341,7 +341,7 @@ dv_has_:
     sms: saaǥǥtummuš
     sq: komunikim
     sr: комуникација
-    sr-ec: комуникација
+    sr_ec: комуникација
     srn: Sabi fu prati
     su: Komunikasi
     sv: kommunikation
@@ -371,14 +371,14 @@ dv_has_:
     yue: 通訊
     zgh: ⴰⵎⵙⴰⵡⴰⴹ
     zh: 溝通
-    zh-cn: 沟通
-    zh-hans: 沟通
-    zh-hant: 溝通
-    zh-hk: 溝通
-    zh-mo: 溝通
+    zh_cn: 沟通
+    zh_hans: 沟通
+    zh_hant: 溝通
+    zh_hk: 溝通
+    zh_mo: 溝通
     zh-my: 沟通
-    zh-sg: 沟通
-    zh-tw: 溝通
+    zh_sg: 沟通
+    zh_tw: 溝通
     zu: Ukuxhumana
 ---
 # [[Communication]] 

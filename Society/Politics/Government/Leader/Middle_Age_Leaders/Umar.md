@@ -103,7 +103,7 @@ dv_has_:
     azb: عمرابن خطاب
     ba: Ғүмәр ибн Хәттаб
     be: Умар ібн аль-Хатаб
-    be-tarask: Умар ібн аль-Хатаб
+    be_tarask: Умар ібн аль-Хатаб
     bew: Umar bin Hatab
     bg: Омар
     bjn: Umar
@@ -125,8 +125,8 @@ dv_has_:
     dv: ޢުމަރުގެފާނު
     el: Ουμάρ ιμπν αλ-Χαττάμπ
     en: Umar ibn Al-Khattāb
-    en-ca: Umar
-    en-gb: Umar
+    en_ca: Umar
+    en_gb: Umar
     en-us: Umar ibn Al-Khattāb
     eo: Umar ibn al-Ĥattab
     es: Umar ibn al-Jattab
@@ -192,7 +192,7 @@ dv_has_:
     pnb: عمر فاروق اعظم رضی اللہ تعالٰی عنہ
     ps: عمر بن خطاب
     pt: Omar
-    pt-br: Omar
+    pt_br: Omar
     rki: အိုမရ်ဗင် အလ်ခတ္တာဗ်
     ro: Umar
     roa-tara: "'Omar ibn al-Khattāb"

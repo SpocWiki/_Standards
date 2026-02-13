@@ -69,7 +69,7 @@ dv_has_:
     ast: póquer
     az: Poker
     be: покер
-    be-tarask: покер
+    be_tarask: покер
     bg: Покер
     bn: পোকার
     bo: ཏག་སེ།
@@ -85,8 +85,8 @@ dv_has_:
     diq: Poker
     el: Πόκερ
     en: poker
-    en-ca: poker
-    en-gb: poker
+    en_ca: poker
+    en_gb: poker
     eo: pokero
     es: póquer
     et: Pokker
@@ -111,7 +111,7 @@ dv_has_:
     jv: Poker
     ko: 포커
     ku: poker
-    ku-latn: poker
+    ku_latn: poker
     la: Ludus pokerianus
     lb: Poker
     lfn: Pocer
@@ -131,7 +131,7 @@ dv_has_:
     pcd: Poker
     pl: poker
     pt: pôquer
-    pt-br: pôquer
+    pt_br: pôquer
     ro: poker
     ru: покер
     rw: Pokeri
@@ -157,9 +157,9 @@ dv_has_:
     yue: "\U00020D7F牌"
     za: Bej
     zh: 撲克
-    zh-hant: 撲克
-    zh-hk: 啤牌
-    zh-tw: 撲克
+    zh_hant: 撲克
+    zh_hk: 啤牌
+    zh_tw: 撲克
 ---
 # [[Poker]] 
 

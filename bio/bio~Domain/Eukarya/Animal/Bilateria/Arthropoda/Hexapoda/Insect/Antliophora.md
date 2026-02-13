@@ -30,11 +30,11 @@ dv_has_:
     da: Antliophora
     de: Antliophora
     de-at: Antliophora
-    de-ch: Antliophora
+    de_ch: Antliophora
     el: Antliophora
     en: Antliophora
-    en-ca: Antliophora
-    en-gb: Antliophora
+    en_ca: Antliophora
+    en_gb: Antliophora
     eo: Antliophora
     es: Antliophora
     et: Antliophora
@@ -67,7 +67,7 @@ dv_has_:
     nap: Antliophora
     nb: Antliophora
     nds: Antliophora
-    nds-nl: Antliophora
+    nds_nl: Antliophora
     nl: Antliophora
     nn: Antliophora
     nrm: Antliophora
@@ -77,7 +77,7 @@ dv_has_:
     pl: Antliophora
     pms: Antliophora
     pt: Antliophora
-    pt-br: Antliophora
+    pt_br: Antliophora
     rm: Antliophora
     ro: Antliophora
     ru: Antliophora
@@ -99,7 +99,7 @@ dv_has_:
     war: Antliophora
     wo: Antliophora
     zh: 吸吻类
-    zh-cn: 吸吻类
+    zh_cn: 吸吻类
     zu: Antliophora
 ---
 # [[Antliophora]] 

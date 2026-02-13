@@ -133,7 +133,7 @@ dv_has_:
     azb: دانیل دفو
     ba: Даниель Дефо
     be: Даніэль Дэфо
-    be-tarask: Даніель Дэфо
+    be_tarask: Даніель Дэфо
     bg: Даниел Дефо
     bn: ড্যানিয়েল ডিফো
     br: Daniel Defoe
@@ -145,12 +145,12 @@ dv_has_:
     da: Daniel Defoe
     de: Daniel Defoe
     de-at: Daniel Defoe
-    de-ch: Daniel Defoe
+    de_ch: Daniel Defoe
     diq: Daniel Defoe
     ee: Daniel Defoe
     el: Ντάνιελ Ντιφόου
     en: Daniel Defoe
-    en-gb: Daniel Defoe
+    en_gb: Daniel Defoe
     en-us: Daniel Defoe
     eo: Daniel Defoe
     es: Daniel Defoe
@@ -206,7 +206,7 @@ dv_has_:
     pms: Daniel Defoe
     pnb: ڈینیئل ڈیفو
     pt: Daniel Defoe
-    pt-br: Daniel Defoe
+    pt_br: Daniel Defoe
     qu: Daniel Defoe
     ro: Daniel Defoe
     ru: Даниель Дефо
@@ -220,8 +220,8 @@ dv_has_:
     sl: Daniel Defoe
     sq: Daniel Defoe
     sr: Данијел Дефо
-    sr-ec: Данијел Дефо
-    sr-el: Danijel Defo
+    sr_ec: Данијел Дефо
+    sr_el: Danijel Defo
     sv: Daniel Defoe
     ta: டானியல் டீஃபோ
     tg: Даниэл Дефо

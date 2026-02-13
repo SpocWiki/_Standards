@@ -61,7 +61,7 @@ dv_has_:
     ar: مجموعة مفتوحة
     ast: conxuntu abiertu
     ba: асыҡ күмәклек
-    be-tarask: адкрытае мноства
+    be_tarask: адкрытае мноства
     bg: отворено множество
     ca: conjunt obert
     cs: otevřená množina
@@ -70,8 +70,8 @@ dv_has_:
     de: offene Menge
     el: ανοικτό σύνολο
     en: open set
-    en-ca: open set
-    en-gb: open set
+    en_ca: open set
+    en_gb: open set
     eo: malfermita aro
     es: conjunto abierto
     et: kinnine hulk
@@ -98,25 +98,25 @@ dv_has_:
     nn: open mengd
     pl: zbiór otwarty
     pt: conjunto aberto
-    pt-br: conjunto aberto
+    pt_br: conjunto aberto
     ro: mulțime deschisă
     ru: открытое множество
     sk: otvorená množina
     sl: odprta množica
     sr: отворен скуп
-    sr-ec: отворен скуп
-    sr-el: otvoren skup
+    sr_ec: отворен скуп
+    sr_el: otvoren skup
     sv: öppen mängd
     uk: відкрита множина
     vi: tập mở
     yue: 開集
     zh: 开集
-    zh-cn: 开集
-    zh-hans: 开集
-    zh-hant: 開集
-    zh-hk: 開集
-    zh-sg: 开集
-    zh-tw: 開集
+    zh_cn: 开集
+    zh_hans: 开集
+    zh_hant: 開集
+    zh_hk: 開集
+    zh_sg: 开集
+    zh_tw: 開集
 ---
 # [[Open_Set]] 
 

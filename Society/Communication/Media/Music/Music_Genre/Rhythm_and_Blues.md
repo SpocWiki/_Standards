@@ -79,7 +79,7 @@ dv_has_:
     az: ritm-n-blyuz
     azb: ریتم اند بلوز
     be: рытм-н-блюз
-    be-tarask: рытм-н-блюз
+    be_tarask: рытм-н-блюз
     bg: ритъм и блус
     bn: রিদম অ্যান্ড ব্লুজ
     br: Rhythm and blues
@@ -148,8 +148,8 @@ dv_has_:
     sl: ritem in blues
     sq: Rhythm and blues
     sr: ритам и блуз
-    sr-ec: ритам и блуз
-    sr-el: ritam i bluz
+    sr_ec: ритам и блуз
+    sr_el: ritam i bluz
     sv: rhythm and blues
     sw: Rhythm na blues
     ta: ரிதம் அண்ட் புளூஸ்
@@ -166,11 +166,11 @@ dv_has_:
     yo: Orin Rhythm and blues
     yue: R&B
     zh: 节奏布鲁斯
-    zh-hant: 節奏布魯斯
-    zh-hk: 節奏怨曲
+    zh_hant: 節奏布魯斯
+    zh_hk: 節奏怨曲
     zh-my: 节奏蓝调
-    zh-sg: 节奏蓝调
-    zh-tw: 節奏藍調
+    zh_sg: 节奏蓝调
+    zh_tw: 節奏藍調
 ---
 # [[Rhythm_and_Blues]] 
 

@@ -101,7 +101,7 @@ dv_has_:
     azb: معمارلیق طرزی
     ba: архитектура стиле
     be: архітэктурны стыль
-    be-tarask: архітэктурны стыль
+    be_tarask: архітэктурны стыль
     bg: архитектурен стил
     bn: স্থাপত্য শৈলী
     bs: arhitektonski stil
@@ -111,11 +111,11 @@ dv_has_:
     cy: arddull pensaernïol
     da: arkitekturstil
     de: Baustil
-    de-ch: Architekturstil
+    de_ch: Architekturstil
     el: αρχιτεκτονικός ρυθμός
     en: architectural style
-    en-ca: Architectural style
-    en-gb: architectural style
+    en_ca: Architectural style
+    en_gb: architectural style
     eo: arkitektura stilo
     es: estilo arquitectónico
     et: arhitektuuristiil
@@ -144,7 +144,7 @@ dv_has_:
     lv: arhitektūras stils
     mk: архитектонски стил
     ms: gaya seni bina
-    ms-arab: ݢاي سني بينا
+    ms_arab: ݢاي سني بينا
     nb: byggestil
     nl: architectuurstijl
     nn: byggjestil
@@ -153,7 +153,7 @@ dv_has_:
     pap-aw: estilo arkitectonico
     pl: styl architektoniczny
     pt: estilo arquitetónico
-    pt-br: estilo arquitetônico
+    pt_br: estilo arquitetônico
     ro: stil arhitectural
     ru: архитектурный стиль
     sco: airchitectural style
@@ -177,11 +177,11 @@ dv_has_:
     wuu: 建筑风格
     yue: 建築風格
     zh: 建筑风格
-    zh-cn: 建筑风格
-    zh-hans: 建筑风格
-    zh-hant: 建築風格
-    zh-hk: 建築風格
-    zh-tw: 建築風格
+    zh_cn: 建筑风格
+    zh_hans: 建筑风格
+    zh_hant: 建築風格
+    zh_hk: 建築風格
+    zh_tw: 建築風格
 ---
 # [[Architectural_Style]] 
 

@@ -84,7 +84,7 @@ dv_has_:
     azb: ایکیتایلیلار
     ba: Ике ҡабырсаҡлы моллюскылар
     be: двухстворкавыя
-    be-tarask: двухстворкавыя
+    be_tarask: двухстворкавыя
     bg: миди
     bn: বাইভালভিয়া
     br: Daougleureged
@@ -148,7 +148,7 @@ dv_has_:
     pl: małże
     pnb: سپیاں
     pt: Bivalvia
-    pt-br: Bivalvia
+    pt_br: Bivalvia
     qu: Lakachu
     ro: bivalve
     ru: двустворчатые
@@ -175,9 +175,9 @@ dv_has_:
     wuu: 双壳纲
     yue: 雙殼綱
     zh: 双壳纲
-    zh-cn: 双壳纲
-    zh-hans: 双壳纲
-    zh-tw: 雙殼綱
+    zh_cn: 双壳纲
+    zh_hans: 双壳纲
+    zh_tw: 雙殼綱
 ---
 # [[Bivalvia]]
 

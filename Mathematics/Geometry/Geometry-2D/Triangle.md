@@ -212,7 +212,7 @@ dv_has_:
     bar: Dreieck
     bcl: triangulo
     be: трохвугольнік
-    be-tarask: трыкутнік
+    be_tarask: трыкутнік
     bg: триъгълник
     bho: त्रिभुज
     bn: ত্রিভুজ
@@ -231,13 +231,13 @@ dv_has_:
     da: trekant
     dag: yaɣ'ata
     de: Dreieck
-    de-ch: Dreieck
+    de_ch: Dreieck
     diq: hirêkınari
     dsb: tśirožk
     el: τρίγωνο
     en: triangle
-    en-ca: triangle
-    en-gb: triangle
+    en_ca: triangle
+    en_gb: triangle
     eo: triangulo
     es: triángulo
     et: kolmnurk
@@ -319,7 +319,7 @@ dv_has_:
     pnb: تکون
     ps: درېڅنډی
     pt: triângulo
-    pt-br: triângulo
+    pt_br: triângulo
     qu: kimsak'uchu
     ro: triunghi
     ru: треугольник
@@ -353,7 +353,7 @@ dv_has_:
     tok: selo pi poka tu wan
     tr: üçgen
     tt: өчпочмак
-    tt-cyrl: өчпочмак
+    tt_cyrl: өчпочмак
     udm: куиньсэрег
     uk: трикутник
     ur: مثلث
@@ -369,9 +369,9 @@ dv_has_:
     yue: 三角形
     zgh: ⴰⵎⴽⵕⴰⴹ
     zh: 三角形
-    zh-cn: 三角形
-    zh-hans: 三角形
-    zh-hant: 三角形
+    zh_cn: 三角形
+    zh_hans: 三角形
+    zh_hant: 三角形
 ---
 # [[Triangle]] 
 

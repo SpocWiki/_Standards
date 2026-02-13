@@ -74,14 +74,14 @@ dv_has_:
     ar: حلف عسكري
     ast: alianza militar
     az: hərbi saziş
-    be-tarask: вайсковы хаўрус
+    be_tarask: вайсковы хаўрус
     bg: Военен съюз
     br: aliañs vilourel
     ca: aliança militar
     cs: vojenský pakt
     cy: cynghrair milwrol
     de: Militärbündnis
-    de-ch: Militärbündnis
+    de_ch: Militärbündnis
     el: Συμμαχία
     en: military alliance
     eo: milita alianco
@@ -108,9 +108,9 @@ dv_has_:
     ja: 軍事同盟
     ka: სამხედრო ალიანსი
     kk: Әскери блок
-    kk-arab: اسكەرىي بلوك
-    kk-cyrl: Әскери блок
-    kk-latn: Äskerï blok
+    kk_arab: اسكەرىي بلوك
+    kk_cyrl: Әскери блок
+    kk_latn: Äskerï blok
     ko: 군사동맹
     lt: karinė sąjunga
     lv: militārā alianse
@@ -128,8 +128,8 @@ dv_has_:
     smn: suáldátlitto
     sq: Aleanca ushtarake
     sr: војни савез
-    sr-ec: војни савез
-    sr-el: vojni savez
+    sr_ec: војни савез
+    sr_el: vojni savez
     sv: militär allians
     th: พันธมิตรทางทหาร
     tr: askerî ittifak
@@ -139,9 +139,9 @@ dv_has_:
     vi: Liên minh quân sự
     yue: 軍事同盟
     zh: 军事同盟
-    zh-hans: 军事同盟
-    zh-hant: 軍事同盟
-    zh-hk: 軍事同盟
+    zh_hans: 军事同盟
+    zh_hant: 軍事同盟
+    zh_hk: 軍事同盟
 ---
 # [[Military_Alliance]] 
 

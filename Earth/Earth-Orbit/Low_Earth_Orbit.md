@@ -103,7 +103,7 @@ dv_has_:
     ar: مدار أرضي منخفض
     ast: Órbita baxa terrestre
     be: Нізкая апорная арбіта
-    be-tarask: нізкая калязямная арбіта
+    be_tarask: нізкая калязямная арбіта
     bg: Ниска околоземна орбита
     bn: নিম্ন ভূ-কক্ষপথ
     ca: òrbita terrestre baixa
@@ -166,8 +166,8 @@ dv_has_:
     vi: quỹ đạo Trái Đất tầm thấp
     yue: 低地球軌道
     zh: 近地轨道
-    zh-hant: 低軌道
-    zh-hk: 低地球軌道
+    zh_hant: 低軌道
+    zh_hk: 低地球軌道
 ---
 # [[Low_Earth_Orbit]] 
 

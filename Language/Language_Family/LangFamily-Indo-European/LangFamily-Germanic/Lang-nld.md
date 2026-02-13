@@ -349,7 +349,7 @@ short_name:
 - нідерландська
 dv_has_:
   name_:
-    aeb-arab: الهولندي
+    aeb_arab: الهولندي
     af: Nederlands
     am: ሆላንድኛ
     an: Idioma neerlandés
@@ -368,7 +368,7 @@ dv_has_:
     bar: holländische Sproch
     bbc: Hata Bolanda
     be: нідэрландская мова
-    be-tarask: нідэрляндзкая мова
+    be_tarask: нідэрляндзкая мова
     bew: Basa Welanda
     bg: нидерландски език
     bjn: Basa Walanda
@@ -384,7 +384,7 @@ dv_has_:
     ckb: زمانی ھۆڵەندی
     co: neerlandese
     crh: Felemenk tili
-    crh-latn: Felemenk tili
+    crh_latn: Felemenk tili
     cs: nizozemština
     cv: голланд чĕлхи
     cy: Iseldireg
@@ -455,7 +455,7 @@ dv_has_:
     ks: ڈَچ زَبان
     ksh: Neederländesch
     ku: holendî
-    ku-latn: holendî
+    ku_latn: holendî
     kv: Нидерланд кыв
     kw: Iseldiryek
     ky: Нидерланд тили
@@ -472,7 +472,7 @@ dv_has_:
     lt: olandų kalba
     lv: holandiešu valoda
     mad: Bhâsa Bâlândhâ
-    map-bms: Basa Landa
+    map_bms: Basa Landa
     mdf: Голандонь кяль
     mg: Fiteny nerlandey
     mhr: нидерланд йылме
@@ -484,7 +484,7 @@ dv_has_:
     mos: Dutch
     mr: डच भाषा
     ms: bahasa Belanda
-    ms-arab: بهاس بلندا
+    ms_arab: بهاس بلندا
     mt: Olandiż
     my: ဒတ်ချ်ဘာသာစကား
     mzn: هلندی
@@ -493,7 +493,7 @@ dv_has_:
     nan: Kē-tē-gí
     nb: nederlandsk
     nds: Nedderlandsche Spraak
-    nds-nl: Nederlaands
+    nds_nl: Nederlaands
     new: डच भाषा
     nl: Nederlands
     nn: nederlandsk
@@ -516,7 +516,7 @@ dv_has_:
     prg: ullandiskan
     ps: هالنډي ژبه
     pt: neerlandês
-    pt-br: neerlandês
+    pt_br: neerlandês
     qu: Urasuyu simi
     rm: lingua neerlandaisa
     ro: limba neerlandeză
@@ -538,7 +538,7 @@ dv_has_:
     so: Af-Holandees
     sq: holandisht
     sr: холандски језик
-    sr-ec: холандски
+    sr_ec: холандски
     srn: Bakratongo
     st: Se-dutch
     stq: Niederloundsk
@@ -559,7 +559,7 @@ dv_has_:
     tpi: Tok Holan
     tr: Felemenkçe
     tt: нидерланд теле
-    tt-cyrl: нидерланд теле
+    tt_cyrl: нидерланд теле
     ug: گوللاندىيە تىلى
     uk: нідерландська мова
     ur: ولندیزی زبان
@@ -581,11 +581,11 @@ dv_has_:
     zea: Nederlands
     zgh: ⵜⵓⵜⵍⴰⵢⵜ ⵜⴰⵀⵓⵍⴰⵏⴷⵉⵜ
     zh: 荷蘭語
-    zh-cn: 荷兰语
-    zh-hans: 荷兰语
-    zh-hant: 荷蘭語
-    zh-hk: 荷蘭語
-    zh-tw: 荷蘭語
+    zh_cn: 荷兰语
+    zh_hans: 荷兰语
+    zh_hant: 荷蘭語
+    zh_hk: 荷蘭語
+    zh_tw: 荷蘭語
     zu: IsiHolandi
 ---
 # [[Lang-nld]] 

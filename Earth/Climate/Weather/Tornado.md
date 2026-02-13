@@ -185,7 +185,7 @@ dv_has_:
     ba: ҡойон
     bar: Windhosn
     be: тарнада
-    be-tarask: віхраслуп
+    be_tarask: віхраслуп
     bg: торнадо
     bho: टॉरनैडो
     bjn: angin tutus
@@ -271,7 +271,7 @@ dv_has_:
     nan: kńg-lê-á-hong
     nb: tornado
     nds: Warvelwind
-    nds-nl: wervelstörm
+    nds_nl: wervelstörm
     ne: भूमरी
     new: तःफय्
     nl: tornado
@@ -287,7 +287,7 @@ dv_has_:
     pnb: ٹورنیڈو
     ps: بړبوکۍ
     pt: tornado
-    pt-br: tornado
+    pt_br: tornado
     qu: sinchi muyuq wayra
     ro: tornadă
     ru: смерч
@@ -304,8 +304,8 @@ dv_has_:
     smn: trombi
     sq: tornadoja
     sr: торнадо
-    sr-ec: торнадо
-    sr-el: tornado
+    sr_ec: торнадо
+    sr_el: tornado
     sv: tromb
     sw: tufani
     ta: சுழல் காற்று
@@ -315,7 +315,7 @@ dv_has_:
     tok: kon wawa lili pi tawa sike
     tr: hortum
     tt: өермә
-    tt-cyrl: өермә
+    tt_cyrl: өермә
     udm: тöлпери
     ug: قارا قۇيۇن
     uk: смерч
@@ -334,9 +334,9 @@ dv_has_:
     yi: טארנאדא
     yue: 龍捲風
     zh: 龍捲風
-    zh-hans: 龙卷风
-    zh-hant: 龍捲風
-    zh-hk: 龍捲風
+    zh_hans: 龙卷风
+    zh_hant: 龍捲風
+    zh_hk: 龍捲風
 ---
 # [[Tornado]] 🌪 
 

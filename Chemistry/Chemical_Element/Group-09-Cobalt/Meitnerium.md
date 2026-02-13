@@ -126,7 +126,7 @@ dv_has_:
     ba: Мейтнерий
     ban: Meitnérium
     be: Мейтнерый
-    be-tarask: Майтнэр
+    be_tarask: Майтнэр
     bg: майтнерий
     bho: मेइट्नेरियम
     bn: মাইটনেরিয়াম
@@ -144,7 +144,7 @@ dv_has_:
     de: Meitnerium
     el: μαϊτνέριο
     en: meitnerium
-    en-gb: meitnerium
+    en_gb: meitnerium
     eo: mejtneriumo
     es: meitnerio
     et: meitneerium
@@ -215,7 +215,7 @@ dv_has_:
     pnb: میٹرنیم
     ps: مېټېنېټريوم
     pt: meitnério
-    pt-br: meitnério
+    pt_br: meitnério
     qu: Meitneryu
     ro: meitneriu
     ru: мейтнерий
@@ -253,14 +253,14 @@ dv_has_:
     yo: Meitneriomu
     yue: 䥑
     zh: 鿏
-    zh-cn: 鿏
-    zh-hans: 鿏
-    zh-hant: 䥑
-    zh-hk: 䥑
-    zh-mo: 䥑
+    zh_cn: 鿏
+    zh_hans: 鿏
+    zh_hant: 䥑
+    zh_hk: 䥑
+    zh_mo: 䥑
     zh-my: 鿏
-    zh-sg: 鿏
-    zh-tw: 䥑
+    zh_sg: 鿏
+    zh_tw: 䥑
     zu: UMtshambi
 ---
 # [[Meitnerium]] 

@@ -83,7 +83,7 @@ dv_has_:
     ast: conveición
     az: Konveksiya
     be: Канвекцыя
-    be-tarask: канвэкцыя
+    be_tarask: канвэкцыя
     bg: Конвекция
     bs: Konvekcija
     ca: convecció
@@ -116,11 +116,11 @@ dv_has_:
     jv: Konveksi
     ka: კონვექცია
     kk: конвекция
-    kk-arab: جىلۋلىق تارتۋ
+    kk_arab: جىلۋلىق تارتۋ
     kk-cn: جىلۋلىق تارتۋ
-    kk-cyrl: Жылулық тарту
+    kk_cyrl: Жылулық тарту
     kk-kz: Жылулық тарту
-    kk-latn: Jılwlıq tartw
+    kk_latn: Jılwlıq tartw
     kk-tr: Jılwlıq tartw
     ko: 대류
     ky: конвекция
@@ -148,8 +148,8 @@ dv_has_:
     sl: konvekcija
     sn: Ruchichinuko
     sr: Konvekcija
-    sr-ec: Конвекција
-    sr-el: Konvekcija
+    sr_ec: Конвекција
+    sr_el: Konvekcija
     sv: konvektion
     ta: மேற்காவுகை
     th: การพาความร้อน
@@ -162,12 +162,12 @@ dv_has_:
     wuu: 对流
     yue: 對流
     zh: 對流
-    zh-cn: 对流
-    zh-hans: 对流
-    zh-hant: 對流
-    zh-hk: 對流
-    zh-sg: 对流
-    zh-tw: 對流
+    zh_cn: 对流
+    zh_hans: 对流
+    zh_hant: 對流
+    zh_hk: 對流
+    zh_sg: 对流
+    zh_tw: 對流
 ---
 # [[Convection]] 
 

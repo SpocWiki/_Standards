@@ -74,7 +74,7 @@ dv_has_:
     ar: ميكانيكا إلكترونية
     ast: mecatrónica
     az: Mexatronika
-    be-tarask: мэхатроніка
+    be_tarask: мэхатроніка
     bg: Мехатроника
     bn: তড়িৎযন্ত্র প্রকৌশল
     ca: mecatrònica
@@ -114,7 +114,7 @@ dv_has_:
     pl: mechatronika
     pms: Mecatrònica
     pt: mecatrônica
-    pt-br: mecatrônica
+    pt_br: mecatrônica
     ro: Mecatronică
     ru: мехатроника
     se: mekatronihkka
@@ -125,8 +125,8 @@ dv_has_:
     sms: mekatronikk
     sq: mekatronikë
     sr: мехатроника
-    sr-ec: Мехатроника
-    sr-el: Mehatronika
+    sr_ec: Мехатроника
+    sr_el: Mehatronika
     sv: mekatronik
     ta: எந்திர மின்னணுவியல்
     te: మెకెట్రోనిక్స్
@@ -141,12 +141,12 @@ dv_has_:
     wuu: 机械电子学
     yue: 機電工程
     zh: 机械电子学
-    zh-cn: 机械电子
-    zh-hans: 机械电子
-    zh-hant: 機械電子
-    zh-hk: 機械電子
-    zh-sg: 机械电子
-    zh-tw: 機械電子
+    zh_cn: 机械电子
+    zh_hans: 机械电子
+    zh_hant: 機械電子
+    zh_hk: 機械電子
+    zh_sg: 机械电子
+    zh_tw: 機械電子
 ---
 # [[Mechatronics]] 
 

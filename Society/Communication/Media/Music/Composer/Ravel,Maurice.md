@@ -131,7 +131,7 @@ dv_has_:
     ast: Maurice Ravel
     az: Moris Ravel
     be: Марыс Равель
-    be-tarask: Марыс Равэль
+    be_tarask: Марыс Равэль
     bg: Морис Равел
     br: Maurice Ravel
     bs: Maurice Ravel
@@ -145,8 +145,8 @@ dv_has_:
     ee: Maurice Ravel
     el: Μορίς Ραβέλ
     en: Maurice Ravel
-    en-ca: Maurice Ravel
-    en-gb: Maurice Ravel
+    en_ca: Maurice Ravel
+    en_gb: Maurice Ravel
     eo: Maurice Ravel
     es: Maurice Ravel
     et: Maurice Ravel
@@ -198,7 +198,7 @@ dv_has_:
     pl: Maurice Ravel
     pms: Maurice Ravel
     pt: Maurice Ravel
-    pt-br: Maurice Ravel
+    pt_br: Maurice Ravel
     qu: Maurice Ravel
     ro: Maurice Ravel
     ru: Морис Равель

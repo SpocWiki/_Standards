@@ -114,7 +114,7 @@ dv_has_:
     azb: رسمی دین
     ba: дәүләт дине
     be: Дзяржаўная рэлігія
-    be-tarask: Дзяржаўная рэлігія
+    be_tarask: Дзяржаўная рэлігія
     bg: Държавна религия
     bn: রাষ্ট্রধর্ম
     br: relijion stad
@@ -151,11 +151,11 @@ dv_has_:
     ja: 国教
     ka: სახელმწიფო რელიგია
     kk: Мемлекеттік дін
-    kk-arab: مەملەكەتتىك ٴدىن
+    kk_arab: مەملەكەتتىك ٴدىن
     kk-cn: مەملەكەتتىك ٴدىن
-    kk-cyrl: Мемлекеттік дін
+    kk_cyrl: Мемлекеттік дін
     kk-kz: Мемлекеттік дін
-    kk-latn: Memlekettik din
+    kk_latn: Memlekettik din
     kk-tr: Memlekettik din
     km: សាសនារដ្ឋ
     ko: 국교
@@ -168,7 +168,7 @@ dv_has_:
     mhr: кугыжаныш тын
     mk: државна религија
     ms: agama negara
-    ms-arab: اݢام نݢارا
+    ms_arab: اݢام نݢارا
     my: နိုင်ငံတော်ဘာသာ
     nb: statsreligion
     nl: staatsgodsdienst
@@ -190,8 +190,8 @@ dv_has_:
     sms: valdiaåskldõk
     sq: Feja shtetërore
     sr: државна религија
-    sr-ec: Државна религија
-    sr-el: državna religija
+    sr_ec: Државна религија
+    sr_el: državna religija
     sv: statsreligion
     sw: Dini rasmi
     tg: Дини давлатӣ
@@ -205,12 +205,12 @@ dv_has_:
     wuu: 国教
     yue: 國教
     zh: 國教
-    zh-cn: 国教
-    zh-hans: 国教
-    zh-hant: 國教
-    zh-hk: 國教
-    zh-sg: 国教
-    zh-tw: 國教
+    zh_cn: 国教
+    zh_hans: 国教
+    zh_hant: 國教
+    zh_hk: 國教
+    zh_sg: 国教
+    zh_tw: 國教
 ---
 # [[State_Religion]] 
 

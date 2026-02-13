@@ -32,7 +32,7 @@ dv_has_:
     oc: Chaerilidae
     pl: Chaerilidae
     pt: Chaerilidae
-    pt-br: Chaerilidae
+    pt_br: Chaerilidae
     ro: Chaerilidae
     ru: Chaerilidae
     sq: Chaerilidae
@@ -42,8 +42,8 @@ dv_has_:
     vo: Chaerilidae
     war: Chaerilidae
     zh: 寇里蝎科
-    zh-cn: 寇里蝎科
-    zh-hans: 寇里蝎科
+    zh_cn: 寇里蝎科
+    zh_hans: 寇里蝎科
 ---
 ## [[Chaerilidae]] 
 

@@ -106,7 +106,7 @@ dv_has_:
     ast: Internacional Socialista
     az: Sosialist İnternasionalı
     be: Сацыялістычны інтэрнацыянал
-    be-tarask: Сацыялістычны інтэрнацыянал
+    be_tarask: Сацыялістычны інтэрнацыянал
     bg: Социалистически интернационал
     ca: Internacional Socialista
     ckb: ئینتەرناسیۆنالی سۆشیالیستی
@@ -136,22 +136,22 @@ dv_has_:
     ja: 社会主義インターナショナル
     kab: Tagraɣlant Tanemlayt
     kk: Социалистік интернационал
-    kk-arab: سوتسىيالىيستىك ىينتەرناتسىيونال
+    kk_arab: سوتسىيالىيستىك ىينتەرناتسىيونال
     kk-cn: سوتسىيالىيستىك ىينتەرناتسىيونال
-    kk-cyrl: Социалистік интернационал
+    kk_cyrl: Социалистік интернационал
     kk-kz: Социалистік интернационал
-    kk-latn: Socïalïstik ïnternacïonal
+    kk_latn: Socïalïstik ïnternacïonal
     kk-tr: Socïalïstik ïnternacïonal
     ko: 사회주의 인터내셔널
     ku: Enternasyonala Sosyalîst
-    ku-latn: Enternasyonala Sosyalîst
+    ku_latn: Enternasyonala Sosyalîst
     la: Internationale socialista
     lt: Socialistų Internacionalas
     lv: Sociālistiskā Internacionāle
     mk: Социјалистичка интернационала
     mn: Социнтерн
     ms: Sosialis Antarabangsa
-    ms-arab: سوسياليس انتارابڠسا
+    ms_arab: سوسياليس انتارابڠسا
     mt: Internazzjonali Soċjalista
     nan: Siā-hoē-chú-gī Kok-chè
     nb: Sosialistinternasjonalen
@@ -170,8 +170,8 @@ dv_has_:
     sk: Socialistická internacionála
     sl: Socialistična internacionala
     sr: Социјалистичка интернационала
-    sr-ec: Социјалистичка интернационала
-    sr-el: Socijalistička internacionala
+    sr_ec: Социјалистичка интернационала
+    sr_el: Socijalistička internacionala
     sv: Socialistinternationalen
     th: องค์การสังคมนิยมระหว่างประเทศ
     tr: Sosyalist Enternasyonal
@@ -184,12 +184,12 @@ dv_has_:
     yo: Sósíálístì Káríayé
     yue: 社會黨國際
     zh: 社會黨國際
-    zh-cn: 社会党国际
-    zh-hans: 社会党国际
-    zh-hant: 社會黨國際
-    zh-hk: 社會黨國際
-    zh-sg: 社会党国际
-    zh-tw: 社會黨國際
+    zh_cn: 社会党国际
+    zh_hans: 社会党国际
+    zh_hant: 社會黨國際
+    zh_hk: 社會黨國際
+    zh_sg: 社会党国际
+    zh_tw: 社會黨國際
 ---
 # [[Socialist_International]] 
 

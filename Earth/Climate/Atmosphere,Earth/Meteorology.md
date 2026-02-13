@@ -173,7 +173,7 @@ dv_has_:
     bar: Meteorologie
     bcl: meteorolohiya
     be: метэаралогія
-    be-tarask: мэтэаралёгія
+    be_tarask: мэтэаралёгія
     bg: метеорология
     bho: मौसम बिज्ञान
     bn: আবহাওয়াবিজ্ঞান
@@ -249,13 +249,13 @@ dv_has_:
     ml: അന്തരീക്ഷവിജ്ഞാനം
     mr: हवामानशास्त्र
     ms: meteorologi
-    ms-arab: ميتيورولوݢي
+    ms_arab: ميتيورولوݢي
     mwl: meteorologie
     my: မိုးလေဝသပညာ
     nan: khì-siōng-ha̍k
     nb: meteorologi
     nds: Meteorologie
-    nds-nl: meteorologie
+    nds_nl: meteorologie
     ne: मौसम विज्ञान
     nl: meteorologie
     nn: meteorologi
@@ -266,7 +266,7 @@ dv_has_:
     pnb: موسمیات
     ps: هواپوهنه
     pt: meteorologia
-    pt-br: meteorologia
+    pt_br: meteorologia
     qu: mit'a yachay
     ro: meteorologie
     ru: метеорология
@@ -279,7 +279,7 @@ dv_has_:
     se: meteorologiija
     sgs: meteuoruoluogėjė
     sh: meteorologija
-    sh-cyrl: метеорологија
+    sh_cyrl: метеорологија
     si: කාලගුණ විද්යාව
     sk: meteorológia
     sl: meteorologija
@@ -289,7 +289,7 @@ dv_has_:
     sms: meteorologia
     sq: meteorologjia
     sr: метеорологија
-    sr-el: meteorologija
+    sr_el: meteorologija
     su: meteorologi
     sv: meteorologi
     sw: metorolojia
@@ -315,14 +315,14 @@ dv_has_:
     yi: מעטעאראלאגיע
     yue: 氣象學
     zh: 氣象學
-    zh-cn: 气象学
-    zh-hans: 气象学
-    zh-hant: 氣象學
-    zh-hk: 氣象學
-    zh-mo: 氣象學
+    zh_cn: 气象学
+    zh_hans: 气象学
+    zh_hant: 氣象學
+    zh_hk: 氣象學
+    zh_mo: 氣象學
     zh-my: 气象学
-    zh-sg: 气象学
-    zh-tw: 氣象學
+    zh_sg: 气象学
+    zh_tw: 氣象學
 ---
 # [[Meteorology]] 
 

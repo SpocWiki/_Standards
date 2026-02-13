@@ -100,7 +100,7 @@ dv_has_:
     ast: saltu d'altor
     ba: бейеклеккә һикереү
     be: скачкі ў вышыню
-    be-tarask: скокі ў вышыню
+    be_tarask: скокі ў вышыню
     bg: висок скок
     bn: উচ্চ লম্ফ
     bo: སྦུབས་མཆོངས།
@@ -162,8 +162,8 @@ dv_has_:
     sl: skok v višino
     smn: alodâhnjuškim
     sr: скок увис
-    sr-ec: скок увис
-    sr-el: skok uvis
+    sr_ec: скок увис
+    sr_el: skok uvis
     su: luncat tinggi
     sv: höjdhopp
     ta: உயரம் தாண்டுதல்
@@ -176,12 +176,12 @@ dv_has_:
     wuu: 跳高
     yue: 跳高
     zh: 跳高
-    zh-cn: 跳高
-    zh-hans: 跳高
-    zh-hant: 跳高
-    zh-hk: 跳高
-    zh-sg: 跳高
-    zh-tw: 跳高
+    zh_cn: 跳高
+    zh_hans: 跳高
+    zh_hant: 跳高
+    zh_hk: 跳高
+    zh_sg: 跳高
+    zh_tw: 跳高
 ---
 # [[High_Jump]] 
 

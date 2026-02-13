@@ -74,7 +74,7 @@ dv_has_:
     az: Bauhaus
     bar: Bauhaus
     be: Баўгауз
-    be-tarask: Баўгаўс
+    be_tarask: Баўгаўс
     bg: Баухаус
     bn: বাউহাউস
     br: Bauhaus
@@ -142,8 +142,8 @@ dv_has_:
     sk: Staatliches Bauhaus
     sl: Bauhaus
     sr: Баухаус
-    sr-ec: Баухаус
-    sr-el: Bauhaus
+    sr_ec: Баухаус
+    sr_el: Bauhaus
     sv: Bauhaus
     sw: Bauhaus
     th: เบาเฮาส์
@@ -155,12 +155,12 @@ dv_has_:
     wuu: 包豪斯
     yue: 包浩斯
     zh: 包豪斯
-    zh-cn: 包豪斯
-    zh-hans: 包豪斯
-    zh-hant: 包豪斯
-    zh-hk: 包浩斯
-    zh-sg: 包豪斯
-    zh-tw: 包浩斯
+    zh_cn: 包豪斯
+    zh_hans: 包豪斯
+    zh_hant: 包豪斯
+    zh_hk: 包浩斯
+    zh_sg: 包豪斯
+    zh_tw: 包浩斯
 ---
 # [[Bauhaus]] 
 

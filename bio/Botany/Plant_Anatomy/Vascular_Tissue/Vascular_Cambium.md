@@ -47,15 +47,15 @@ dv_has_:
     ar: كامبيوم وعائي
     ast: Cámbium
     be: Камбій
-    be-tarask: камбій
+    be_tarask: камбій
     bs: Kambij
     ca: càmbium
     cs: kambium
     da: Inderbark
     de: Kambium
     en: vascular cambium
-    en-ca: Vascular cambium
-    en-gb: Vascular cambium
+    en_ca: Vascular cambium
+    en_gb: Vascular cambium
     eo: Kambiumo
     es: Cámbium
     et: Kambium
@@ -72,11 +72,11 @@ dv_has_:
     ja: 維管束形成層
     jv: Kambium
     kk: Камбий
-    kk-arab: كامبىيي
+    kk_arab: كامبىيي
     kk-cn: كامبىيي
-    kk-cyrl: Камбий
+    kk_cyrl: Камбий
     kk-kz: Камбий
-    kk-latn: Kambïý
+    kk_latn: Kambïý
     kk-tr: Kambïý
     ky: Камбий
     la: Cambium vasculare
@@ -85,13 +85,13 @@ dv_has_:
     nl: cambium
     pl: Kambium
     pt: câmbio vascular
-    pt-br: Câmbio vascular
+    pt_br: Câmbio vascular
     ru: Камбий
     sk: Kambium
     sl: žilni kambij
     sr: Камбијум
-    sr-ec: Камбијум
-    sr-el: Kambijum
+    sr_ec: Камбијум
+    sr_el: Kambijum
     sv: Kambium
     ta: சாற்றுக்குழலிடைச் சோற்றுத்திசு
     th: วาสคิวลาร์แคมเบียม
@@ -101,12 +101,12 @@ dv_has_:
     wuu: 维管形成层
     yue: 維管形成層
     zh: 維管形成層
-    zh-cn: 形成层
-    zh-hans: 形成层
-    zh-hant: 形成層
-    zh-hk: 形成層
-    zh-sg: 形成层
-    zh-tw: 形成層
+    zh_cn: 形成层
+    zh_hans: 形成层
+    zh_hant: 形成層
+    zh_hk: 形成層
+    zh_sg: 形成层
+    zh_tw: 形成層
 ---
 # [[Vascular_Cambium]] 
 

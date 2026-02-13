@@ -113,7 +113,7 @@ dv_has_:
     az: Yırğalanma
     ba: Тирбәлеү
     be: ваганні
-    be-tarask: ваганьне
+    be_tarask: ваганьне
     bg: Трептене
     bn: স্পন্দন গতি
     bs: Oscilovanje
@@ -146,11 +146,11 @@ dv_has_:
     ja: 振動
     ka: რხევა
     kk: тербеліс
-    kk-arab: تەربەلىس
+    kk_arab: تەربەلىس
     kk-cn: تەربەلىس
-    kk-cyrl: Тербеліс
+    kk_cyrl: Тербеліс
     kk-kz: Тербеліс
-    kk-latn: Terbelis
+    kk_latn: Terbelis
     kk-tr: Terbelis
     kn: ತೂಗಾಟ
     ko: 진동
@@ -161,7 +161,7 @@ dv_has_:
     mk: колебање
     ml: ദോലനചലനം
     ms: ayunan
-    ms-arab: ايونن
+    ms_arab: ايونن
     nb: svingning
     nl: trilling
     nn: oscillasjon
@@ -184,19 +184,19 @@ dv_has_:
     th: การแกว่งกวัด
     tr: salınım
     tt: тибрәнү
-    tt-cyrl: тибрәнү
+    tt_cyrl: тибрәнү
     uk: коливання
     ur: ارتعاش
     vi: dao động
     wuu: 振荡
     yue: 振盪
     zh: 振动
-    zh-cn: 振动
-    zh-hans: 振动
-    zh-hant: 振動
-    zh-hk: 振動
-    zh-sg: 振动
-    zh-tw: 振動
+    zh_cn: 振动
+    zh_hans: 振动
+    zh_hant: 振動
+    zh_hk: 振動
+    zh_sg: 振动
+    zh_tw: 振動
     zu: Umcikazo
 ---
 # [[Oscillation]] 

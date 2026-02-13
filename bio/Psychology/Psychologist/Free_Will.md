@@ -142,7 +142,7 @@ dv_has_:
     ba: Ихтыяр азатлығы
     bar: Freia Wuin
     be: свабода волі
-    be-tarask: свабода волі
+    be_tarask: свабода волі
     bg: Свободна воля
     bn: স্বাধীন ইচ্ছাশক্তি
     br: Mennerezh
@@ -157,12 +157,12 @@ dv_has_:
     cy: ewyllys rydd
     da: fri vilje
     de: freier Wille
-    de-ch: Freier Wille
+    de_ch: Freier Wille
     diq: Paradoksê iradeyê serbesti
     el: Ελεύθερη θέληση
     en: free will
-    en-ca: Free will
-    en-gb: free will
+    en_ca: Free will
+    en_gb: free will
     eo: libera volo
     es: libre albedrío
     et: Vaba tahe
@@ -224,7 +224,7 @@ dv_has_:
     pms: Lìber volèj
     pnb: آپنی مرضی
     pt: livre-arbítrio
-    pt-br: Livre-arbítrio
+    pt_br: Livre-arbítrio
     ro: liber arbitru
     ru: свобода воли
     rue: Слободна воля
@@ -236,8 +236,8 @@ dv_has_:
     sl: svobodna volja
     sq: Dëshira e lirë
     sr: слободна воља
-    sr-ec: слободна воља
-    sr-el: slobodna volja
+    sr_ec: слободна воља
+    sr_el: slobodna volja
     sv: fri vilja
     sw: Uhuru wa nafsi
     ta: தன்விருப்புக் கொள்கை
@@ -257,8 +257,8 @@ dv_has_:
     yi: בחירה
     yue: 自由意志
     zh: 自由意志
-    zh-hant: 自由意志
-    zh-tw: 自由意志
+    zh_hant: 自由意志
+    zh_tw: 自由意志
 ---
 # [[Free_Will]] 
 

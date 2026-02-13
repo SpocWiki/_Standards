@@ -142,7 +142,7 @@ Dewey_Decimal_Classification:
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=28395
 dv_has_:
   name_:
-    aeb-arab: حبّة حلاوة
+    aeb_arab: حبّة حلاوة
     af: Anys
     an: Pimpinella anisum
     ar: يانسون
@@ -153,7 +153,7 @@ dv_has_:
     ba: Әнис үләне
     bcl: Anis
     be: Аніс
-    be-tarask: Аныж
+    be_tarask: Аныж
     bg: анасон
     bo: དྲི་ཞིམ་སོན་ཅན།
     bs: Anis
@@ -165,12 +165,12 @@ dv_has_:
     cy: Anis
     da: anis
     de: Anis
-    de-ch: Anis
+    de_ch: Anis
     dsb: Anis
     el: Γλυκάνισος
     en: Pimpinella anisum
-    en-ca: Anise
-    en-gb: Anise
+    en_ca: Anise
+    en_gb: Anise
     eo: Anizo
     es: pimpinella anisum
     et: harilik aniis
@@ -223,7 +223,7 @@ dv_has_:
     pcd: An·nisse
     pl: biedrzeniec anyż
     pt: Anis
-    pt-br: Pimpinella anisum
+    pt_br: Pimpinella anisum
     qu: Anis
     ro: Anason
     ru: анис обыкновенный
@@ -255,8 +255,8 @@ dv_has_:
     wuu: 茴芹
     yue: 大茴香
     zh: 茴芹
-    zh-cn: 茴芹
-    zh-hans: 茴芹
+    zh_cn: 茴芹
+    zh_hans: 茴芹
 ---
 # [[Anise]] 
 

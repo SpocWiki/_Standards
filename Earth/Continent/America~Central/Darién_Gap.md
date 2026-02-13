@@ -63,8 +63,8 @@ dv_has_:
     yue: 達連隘口
     zgh: ⵜⴰⵏⴱⴰⴹⵜ ⵏ ⴷⴰⵔⵢⵉⵏ
     zh: 达连隘口
-    zh-hant: 達連隘口
-    zh-tw: 達連隘口
+    zh_hant: 達連隘口
+    zh_tw: 達連隘口
 aliases:
 - Celah Darién
 - Darien Gap

@@ -200,7 +200,7 @@ dv_has_:
     ban: Hagia Sophia
     bar: Hagia Sophia
     be: Сафійскі сабор
-    be-tarask: Сафійскі сабор
+    be_tarask: Сафійскі сабор
     bg: „Света София“
     bn: আয়া সোফিয়া
     br: Santez-Sofia (Istanbul)
@@ -285,7 +285,7 @@ dv_has_:
     pnb: آیا صوفیا
     ps: اياصوفيه
     pt: Basílica de Santa Sofia
-    pt-br: Santa Sofia
+    pt_br: Santa Sofia
     qu: Aya Sophiya
     ro: Hagia Sofia din Istanbul
     rsk: Ая София
@@ -302,7 +302,7 @@ dv_has_:
     so: Ayaa sofiya
     sq: Aya Sofia
     sr: Аја Софија
-    sr-ec: Аја Софија
+    sr_ec: Аја Софија
     stq: Hagia Sophia
     su: Aya Sopia
     sv: Hagia Sofia
@@ -327,7 +327,7 @@ dv_has_:
     yi: האגיא סאפיא
     yue: 聖蘇菲亞大教堂
     zh: 阿亚索菲亚
-    zh-hk: 聖蘇菲亞大教堂
+    zh_hk: 聖蘇菲亞大教堂
 ---
 # [[Hagia_Sophia]] 
 

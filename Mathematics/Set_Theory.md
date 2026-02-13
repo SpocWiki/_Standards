@@ -164,7 +164,7 @@ dv_has_:
     ba: күмәклектәр теорияһы
     bcl: teorya nin set
     be: тэорыя мностваў
-    be-tarask: тэорыя мностваў
+    be_tarask: тэорыя мностваў
     bg: теория на множествата
     bn: সেট তত্ত্ব
     br: teorienn an teskadoù
@@ -226,7 +226,7 @@ dv_has_:
     mn: Олонлогийн онол
     mr: संचप्रवाद
     ms: teori set
-    ms-arab: تيوري سيت
+    ms_arab: تيوري سيت
     mt: teorija tas-settijiet
     my: အစုသီအိုရီ
     nan: chi̍p-ha̍p-lūn
@@ -245,7 +245,7 @@ dv_has_:
     pnb: سیٹ تھیوری
     ps: د سيټ نظريه
     pt: teoria de conjuntos
-    pt-br: teoria dos conjuntos
+    pt_br: teoria dos conjuntos
     rki: အစုသီအိုရီ
     ro: teoria mulțimilor
     ru: теория множеств
@@ -284,7 +284,7 @@ dv_has_:
     yi: סכומען טעאריע
     yue: 集合論
     zh: 集合论
-    zh-hans: 集合论
+    zh_hans: 集合论
 ---
 # [[Set_Theory]] 
 

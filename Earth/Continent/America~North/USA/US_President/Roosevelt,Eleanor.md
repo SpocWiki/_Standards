@@ -177,7 +177,7 @@ dv_has_:
     ba: Элеонора Рузвельт
     bcl: Eleanor Roosevelt
     be: Элеанора Рузвельт
-    be-tarask: Элеанора Рузвэльт
+    be_tarask: Элеанора Рузвэльт
     bg: Елинор Рузвелт
     bjn: Eleanor Roosevelt
     bn: এলিয়ানর রুজভেল্ট
@@ -190,13 +190,13 @@ dv_has_:
     da: Eleanor Roosevelt
     dag: Eleanor Roosevelt
     de: Eleanor Roosevelt
-    de-ch: Eleanor Roosevelt
+    de_ch: Eleanor Roosevelt
     dtp: Eleanor Roosevelt
     ee: Eleanor Roosevelt
     el: Έλινορ Ρούζβελτ
     en: Eleanor Roosevelt
-    en-ca: Eleanor Roosevelt
-    en-gb: Eleanor Roosevelt
+    en_ca: Eleanor Roosevelt
+    en_gb: Eleanor Roosevelt
     eo: Eleanor Roosevelt
     es: Eleanor Roosevelt
     et: Eleanor Roosevelt
@@ -251,7 +251,7 @@ dv_has_:
     pl: Eleanor Roosevelt
     pnb: الینر روزویلٹ
     pt: Eleanor Roosevelt
-    pt-br: Eleanor Roosevelt
+    pt_br: Eleanor Roosevelt
     ro: Eleanor Roosevelt
     ru: Элеонора Рузвельт
     sa: एलेनोर रोज़वेल्ट
@@ -263,7 +263,7 @@ dv_has_:
     sl: Eleanor Roosevelt
     sq: Eleanor Roosevelt
     sr: Еленор Рузвелт
-    sr-ec: Еленор Рузвелт
+    sr_ec: Еленор Рузвелт
     sv: Eleanor Roosevelt
     ta: எலினோர் ரூசுவெல்ட்
     te: ఎలియనోర్ రూజ్వెల్ట్
@@ -279,7 +279,7 @@ dv_has_:
     yo: Eleanor Roosevelt
     yue: 愛蓮娜羅斯福
     zh: 埃莉诺·罗斯福
-    zh-cn: 埃莉诺·罗斯福
+    zh_cn: 埃莉诺·罗斯福
   spouse: '[[Roosevelt,Franklin_Delano]]'
 dv_is_same_as:
 - '[[../../../../../_Standards/WikiData/WD~Eleanor_Roosevelt,83396]]]'

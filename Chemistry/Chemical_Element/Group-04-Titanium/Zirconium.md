@@ -197,7 +197,7 @@ dv_has_:
     ban: zirkonium
     bcl: sirkonyo
     be: цырконій
-    be-tarask: цыркон
+    be_tarask: цыркон
     bg: цирконий
     bho: जिरकोनियम
     bn: জিরকোনিয়াম
@@ -216,7 +216,7 @@ dv_has_:
     de: Zirconium
     el: ζιρκόνιο
     en: zirconium
-    en-gb: zirconium
+    en_gb: zirconium
     eo: zirkonio
     es: circonio
     et: tsirkoonium
@@ -293,7 +293,7 @@ dv_has_:
     pnb: زرکونیم
     ps: زرکونيوم
     pt: zircónio
-    pt-br: zircônio
+    pt_br: zircônio
     qu: sirkonyu
     ro: zirconiu
     ru: цирконий
@@ -309,7 +309,7 @@ dv_has_:
     so: sirkooniyaam
     sq: zirkoniumi
     sr: цирконијум
-    sr-ec: цирконијум
+    sr_ec: цирконијум
     stq: zirconium
     su: zirkonium
     sv: zirkonium
@@ -335,10 +335,10 @@ dv_has_:
     yo: sẹ̀kóníọ̀mù
     yue: 鋯
     zh: 鋯
-    zh-hans: 锆
-    zh-hant: 鋯
-    zh-hk: 鋯
-    zh-tw: 鋯
+    zh_hans: 锆
+    zh_hant: 鋯
+    zh_hk: 鋯
+    zh_tw: 鋯
     zu: IZambedu
   number_of_:
     period: 5

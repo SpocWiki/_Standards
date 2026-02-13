@@ -58,7 +58,7 @@ dv_has_:
     ast: Espaciu probabilísticu
     az: Ehtimal fəzası
     be: Імавернасная прастора
-    be-tarask: імавернасная прастора
+    be_tarask: імавернасная прастора
     bg: Вероятностно пространство
     ca: espai de probabilitat
     cs: Pravděpodobnostní prostor
@@ -97,10 +97,10 @@ dv_has_:
     vi: Không gian xác suất
     yue: 概率空間
     zh: 概率空間
-    zh-hans: 概率空间
-    zh-hant: 概率空間
-    zh-hk: 機率空間
-    zh-tw: 機率空間
+    zh_hans: 概率空间
+    zh_hant: 概率空間
+    zh_hk: 機率空間
+    zh_tw: 機率空間
 ---
 # [[Probability_Space]] 
 

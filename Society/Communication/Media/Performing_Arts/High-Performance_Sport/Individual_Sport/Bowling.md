@@ -84,7 +84,7 @@ dv_has_:
     az: Boulinq
     azb: بولینگ
     be: Боўлінг
-    be-tarask: боўлінг
+    be_tarask: боўлінг
     bn: বোলিং
     ca: bitlles
     ckb: بولينج

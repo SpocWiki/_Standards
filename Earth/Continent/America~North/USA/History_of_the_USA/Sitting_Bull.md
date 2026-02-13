@@ -149,7 +149,7 @@ dv_has_:
     az: Oturan Buğa
     bar: Sitting Bull
     be: Сядзячы Бык
-    be-tarask: Сядзячы Бык
+    be_tarask: Сядзячы Бык
     bg: Седящия бик
     br: Sitting Bull
     bs: Bik Koji Sjedi
@@ -210,7 +210,7 @@ dv_has_:
     os: Бадгæ Гал
     pl: Siedzący Byk
     pt: touro sentado
-    pt-br: Touro Sentado
+    pt_br: Touro Sentado
     ro: Taur Așezat
     ru: Сидящий Бык
     sa: बैठा बैल

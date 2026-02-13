@@ -151,7 +151,7 @@ dv_has_:
     ast: Funeral
     az: dəfn
     be: Інгумацыя
-    be-tarask: пахаваньне
+    be_tarask: пахаваньне
     bg: погребение
     bn: শেষকৃত্য
     br: Rummad:Lidoù-kañv
@@ -204,7 +204,7 @@ dv_has_:
     ml: അപരക്രിയ
     mos: Kuure
     ms: upacara pengebumian
-    ms-arab: اوڤاچارا ڤڠبومين
+    ms_arab: اوڤاچارا ڤڠبومين
     my: ဈာပန
     nb: bisettelse
     ne: अन्तिम संस्कार
@@ -227,8 +227,8 @@ dv_has_:
     sn: Rufu
     sq: Varrimi
     sr: сахрана
-    sr-ec: сахрана
-    sr-el: sahrana
+    sr_ec: сахрана
+    sr_el: sahrana
     sv: begravning
     sw: Mazishi
     ta: இறுதிச் சடங்கு
@@ -237,7 +237,7 @@ dv_has_:
     tr: cenaze töreni
     trv: Quri gaya mdkrang
     tt: җеназа
-    tt-cyrl: җеназа
+    tt_cyrl: җеназа
     uk: похорон
     ur: تجہیز و تکفین
     uz: Dafn marosimi
@@ -248,12 +248,12 @@ dv_has_:
     yo: ìsìnkú
     yue: 喪事
     zh: 葬礼
-    zh-cn: 葬礼
-    zh-hans: 葬礼
-    zh-hant: 葬禮
-    zh-hk: 葬禮
-    zh-sg: 葬礼
-    zh-tw: 葬禮
+    zh_cn: 葬礼
+    zh_hans: 葬礼
+    zh_hant: 葬禮
+    zh_hk: 葬禮
+    zh_sg: 葬礼
+    zh_tw: 葬禮
 ---
 # [[Funeral]] 
 

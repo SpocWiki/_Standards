@@ -51,7 +51,7 @@ dv_has_:
     ast: Torniellu ensin fin
     az: Sonsuzvint ötürməsi
     be: Чарвячная перадача
-    be-tarask: чарвячная перадача
+    be_tarask: чарвячная перадача
     bg: Червячна предавка
     bn: ওয়ার্ম ড্রাইভ
     bs: Pužni prijenos
@@ -83,16 +83,16 @@ dv_has_:
     ru: червячная передача
     sh: Pužni prijenos
     sr: пужни пар
-    sr-ec: пужни пар
+    sr_ec: пужни пар
     sv: snäckväxel
     ta: திருகு பற்சக்கர இயக்கி
     uk: Черв'ячна передача
     uz: Chervyakli uzatma
     yue: 蝸桿傳動
     zh: 蝸桿傳動
-    zh-cn: 蜗轮
-    zh-hans: 蜗轮
-    zh-hant: 蝸輪
+    zh_cn: 蜗轮
+    zh_hans: 蜗轮
+    zh_hant: 蝸輪
 ---
 # [[Worm_Drive]] 
 

@@ -65,17 +65,17 @@ dv_has_:
     an: chuego d'azar
     ar: لعبة الحظ
     ast: xuegu d'azar
-    be-tarask: гульня на ўдачу
+    be_tarask: гульня на ўдачу
     ca: joc d'atzar
     ckb: یاری چانس
     cs: hra s prvkem náhody
     cy: gêm siawns
     da: hasardspil
     de: Glücksspiel
-    de-ch: Glücksspiel
+    de_ch: Glücksspiel
     en: game of chance
-    en-ca: game of chance
-    en-gb: game of chance
+    en_ca: game of chance
+    en_gb: game of chance
     eo: hazardludo
     es: juego de azar
     et: hasartmäng
@@ -104,7 +104,7 @@ dv_has_:
     pap: wega di suerte
     pl: gra losowa
     pt: jogo de azar
-    pt-br: jogo de azar
+    pt_br: jogo de azar
     ro: joc de noroc
     ru: игра случая
     scn: jocu d'azzardu
@@ -112,8 +112,8 @@ dv_has_:
     sk: hazardná hra
     sl: igra naključnosti
     sr: игра на срећу
-    sr-ec: игра на срећу
-    sr-el: igra na sreću
+    sr_ec: игра на срећу
+    sr_el: igra na sreću
     sv: slumpmässiga spel
     tr: şans oyunu
     uk: гра випадку
@@ -121,8 +121,8 @@ dv_has_:
     vro: õnnõmängoq
     yue: 機率遊戲
     zh: 博弈遊戲
-    zh-hant: 博弈遊戲
-    zh-tw: 博弈遊戲
+    zh_hant: 博弈遊戲
+    zh_tw: 博弈遊戲
 ---
 # [[Game_of_Chance]] 
 

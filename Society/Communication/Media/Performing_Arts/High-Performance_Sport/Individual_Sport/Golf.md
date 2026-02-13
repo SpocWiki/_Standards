@@ -128,7 +128,7 @@ dv_has_:
     ba: Гольф
     bar: Goif
     be: гольф
-    be-tarask: гольф
+    be_tarask: гольф
     bew: Bola sontok
     bg: Голф
     bn: গল্ফ
@@ -143,12 +143,12 @@ dv_has_:
     cy: golff
     da: golf
     de: Golf
-    de-ch: Golf
+    de_ch: Golf
     dtp: Golf
     el: γκολφ
     en: golf
-    en-ca: Golf
-    en-gb: golf
+    en_ca: Golf
+    en_gb: golf
     eo: golfo
     es: golf
     et: golf
@@ -215,7 +215,7 @@ dv_has_:
     pms: Gòlf
     pnb: گالف
     pt: golfe
-    pt-br: golfe
+    pt_br: golfe
     ro: golf
     ru: гольф
     rue: Ґолф
@@ -233,8 +233,8 @@ dv_has_:
     smn: golf
     sq: Golfi
     sr: голф
-    sr-ec: голф
-    sr-el: golf
+    sr_ec: голф
+    sr_el: golf
     sv: golf
     sw: Golf
     szl: Golf
@@ -255,10 +255,10 @@ dv_has_:
     yi: גאלף
     yue: 哥爾夫球
     zh: 高爾夫球
-    zh-cn: 高尔夫球
-    zh-hans: 高尔夫球
-    zh-hant: 高爾夫球
-    zh-tw: 高爾夫球
+    zh_cn: 高尔夫球
+    zh_hans: 高尔夫球
+    zh_hant: 高爾夫球
+    zh_tw: 高爾夫球
 ---
 # [[Golf]] 🏌 
 

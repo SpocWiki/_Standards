@@ -67,7 +67,7 @@ dv_has_:
     cy: copepod
     da: Vandlopper
     de: Ruderfußkrebse
-    de-ch: Ruderfusskrebse
+    de_ch: Ruderfusskrebse
     el: Κωπήποδα
     en: copepod
     eo: Kopepodo
@@ -90,11 +90,11 @@ dv_has_:
     jv: Copepoda
     ka: ნიჩაბფეხიანები
     kk: Ескекаяқты шаянтәрізділер
-    kk-arab: ەسكەكاياقتى شايانتارىزدىلەر
+    kk_arab: ەسكەكاياقتى شايانتارىزدىلەر
     kk-cn: ەسكەكاياقتى شايانتارىزدىلەر
-    kk-cyrl: Ескекаяқты шаянтәрізділер
+    kk_cyrl: Ескекаяқты шаянтәрізділер
     kk-kz: Ескекаяқты шаянтәрізділер
-    kk-latn: Eskekayaqtı şayantärizdiler
+    kk_latn: Eskekayaqtı şayantärizdiler
     kk-tr: Eskekayaqtı şayantärizdiler
     ko: 요각류
     la: Copepoda
@@ -121,12 +121,12 @@ dv_has_:
     vi: Copepoda
     war: Copepoda
     zh: 桡足亚纲
-    zh-cn: 桡足亚纲
-    zh-hans: 桡脚类
-    zh-hant: 橈腳類
-    zh-hk: 橈腳類
-    zh-sg: 桡脚类
-    zh-tw: 橈足亞綱
+    zh_cn: 桡足亚纲
+    zh_hans: 桡脚类
+    zh_hant: 橈腳類
+    zh_hk: 橈腳類
+    zh_sg: 桡脚类
+    zh_tw: 橈足亞綱
 ---
 # [[Copepoda]] 
 

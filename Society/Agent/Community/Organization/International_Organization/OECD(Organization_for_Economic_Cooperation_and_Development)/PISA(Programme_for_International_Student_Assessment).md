@@ -60,7 +60,7 @@ dv_has_:
   name_:
     ar: البرنامج الدولي لتقييم الطلبة
     ast: informe PISA
-    be-tarask: Міжнародная праграма ацэнкі адукацыйных дасягненьняў навучэнцаў
+    be_tarask: Міжнародная праграма ацэнкі адукацыйных дасягненьняў навучэнцаў
     bg: Програма за международно оценяване на учениците
     ca: Programa PISA
     cs: PISA
@@ -98,7 +98,7 @@ dv_has_:
     nn: PISA
     pl: PISA
     pt: Programa Internacional de Avaliação de Alunos
-    pt-br: Programa Internacional de Avaliação de Alunos
+    pt_br: Programa Internacional de Avaliação de Alunos
     ro: Programul pentru evaluarea internațională a elevilor
     ru: Международная программа по оценке образовательных достижений учащихся
     sh: PISA
@@ -114,12 +114,12 @@ dv_has_:
     vi: Chương trình đánh giá học sinh quốc tế
     yue: 國際學生能力評估計劃
     zh: 国际学生能力评估计划
-    zh-cn: 国际学生能力评估项目
-    zh-hans: 国际学生能力评估计划
-    zh-hant: 國際學生能力評估計劃
-    zh-hk: 國際學生能力評估計劃
-    zh-sg: 国际学生能力评估计划
-    zh-tw: 國際學生能力評估計劃
+    zh_cn: 国际学生能力评估项目
+    zh_hans: 国际学生能力评估计划
+    zh_hant: 國際學生能力評估計劃
+    zh_hk: 國際學生能力評估計劃
+    zh_sg: 国际学生能力评估计划
+    zh_tw: 國際學生能力評估計劃
 ---
 # [[PISA(Programme_for_International_Student_Assessment)]] 
 

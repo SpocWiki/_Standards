@@ -136,7 +136,7 @@ dv_has_:
     azb: کۆب
     ba: куб
     be: куб
-    be-tarask: куб
+    be_tarask: куб
     bg: куб
     bs: kocka
     ca: cub
@@ -148,7 +148,7 @@ dv_has_:
     de: Würfel
     el: κύβος
     en: cube
-    en-gb: cube
+    en_gb: cube
     en-us: cube
     eo: kubo
     es: cubo
@@ -195,7 +195,7 @@ dv_has_:
     mn: Куб (геометрийн дүрс)
     mr: घन
     ms: kubus
-    ms-arab: کوبوس
+    ms_arab: کوبوس
     nan: chèng-lio̍k-bīn-thé
     nb: kube
     nds: Wörpel
@@ -210,7 +210,7 @@ dv_has_:
     pnb: مکعب
     ps: درېيځ
     pt: cubo
-    pt-br: cubo
+    pt_br: cubo
     qu: machina
     ro: cub
     ru: куб
@@ -225,8 +225,8 @@ dv_has_:
     so: sedjibeke
     sq: Kubi
     sr: коцка
-    sr-ec: коцка
-    sr-el: kocka
+    sr_ec: коцка
+    sr_el: kocka
     su: kubes
     sv: kub
     sw: mchemraba
@@ -236,7 +236,7 @@ dv_has_:
     tok: leko tomo pona
     tr: küp
     tt: куб
-    tt-cyrl: куб
+    tt_cyrl: куб
     udm: куб
     uk: куб
     ur: مکعب
@@ -246,9 +246,9 @@ dv_has_:
     wuu: 立方体
     yue: 立方
     zh: 立方體
-    zh-hans: 立方体
-    zh-hant: 立方體
-    zh-hk: 立方體
+    zh_hans: 立方体
+    zh_hant: 立方體
+    zh_hk: 立方體
     zu: IGcikiva
 ---
 # [[Cube]] 

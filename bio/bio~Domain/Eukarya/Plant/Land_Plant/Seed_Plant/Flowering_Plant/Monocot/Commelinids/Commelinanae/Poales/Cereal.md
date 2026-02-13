@@ -174,7 +174,7 @@ dv_has_:
     ba: иген культуралары
     bar: Droad
     be: збожжа
-    be-tarask: збожжа
+    be_tarask: збожжа
     bg: зърнено-житни култури
     bn: খাদ্যশস্য
     bo: འབྲུ་རིགས།
@@ -264,7 +264,7 @@ dv_has_:
     nan: Kok-bu̍t
     nb: korn
     nds: Koorn
-    nds-nl: graon
+    nds_nl: graon
     new: बुलि
     nl: graan
     nn: korn
@@ -290,8 +290,8 @@ dv_has_:
     sl: žito
     sq: drithi
     sr: житарица
-    sr-ec: житарица
-    sr-el: žitarica
+    sr_ec: житарица
+    sr_el: žitarica
     sv: sädesslag
     sw: nafaka
     ta: தானியம்
@@ -315,8 +315,8 @@ dv_has_:
     yi: תבואה
     yue: 穀物
     zh: 谷物
-    zh-hans: 谷物
-    zh-hant: 穀物
+    zh_hans: 谷物
+    zh_hant: 穀物
 ---
 # [[Cereal]] 
 

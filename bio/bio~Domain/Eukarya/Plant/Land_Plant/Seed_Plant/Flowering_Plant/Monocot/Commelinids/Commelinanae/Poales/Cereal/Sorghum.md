@@ -165,7 +165,7 @@ dv_has_:
     ast: Sorghum bicolor
     ba: Сорго ике сәскәле
     be: джансонава трава
-    be-tarask: сорга двухколернае
+    be_tarask: сорга двухколернае
     bg: Двуцветно сорго
     bn: জোয়ার
     br: sorgo
@@ -207,16 +207,16 @@ dv_has_:
     jv: Kaoliang
     kab: Lbecna
     kk: Қытай тарысы
-    kk-arab: قىتاي تارىسى
+    kk_arab: قىتاي تارىسى
     kk-cn: قىتاي تارىسى
-    kk-cyrl: Қытай тарысы
+    kk_cyrl: Қытай тарысы
     kk-kz: Қытай тарысы
-    kk-latn: Qıtaý tarısı
+    kk_latn: Qıtaý tarısı
     kk-tr: Qıtaý tarısı
     ko: 수수
     ku: Baçîk
-    ku-arab: باچیک
-    ku-latn: Baçîk
+    ku_arab: باچیک
+    ku_latn: Baçîk
     kw: Sorghomm dewliw
     la: Sorghum bicolor
     lij: Sorghum bicolor
@@ -240,7 +240,7 @@ dv_has_:
     pms: Surgo
     pnb: چرھی
     pt: milho dos bardeiros
-    pt-br: Sorghum bicolor
+    pt_br: Sorghum bicolor
     ro: Sorghum bicolor
     ru: сорго двуцветное
     sh: Obični sirak
@@ -248,8 +248,8 @@ dv_has_:
     sl: navadni sirek
     sq: Sorghum bicolor
     sr: Обични сирак
-    sr-ec: Обични сирак
-    sr-el: Obični sirak
+    sr_ec: Обични сирак
+    sr_el: Obični sirak
     sv: durra
     sw: Mtama
     szy: balaysan
@@ -267,12 +267,12 @@ dv_has_:
     yue: 雙色高粱
     za: Megmax
     zh: 高粱
-    zh-cn: 高粱
-    zh-hans: 高粱
-    zh-hant: 高粱
-    zh-hk: 高粱
-    zh-sg: 高粱
-    zh-tw: 蜀黍
+    zh_cn: 高粱
+    zh_hans: 高粱
+    zh_hant: 高粱
+    zh_hk: 高粱
+    zh_sg: 高粱
+    zh_tw: 蜀黍
 ---
 # [[Sorghum]] 
 

@@ -83,17 +83,17 @@ OpenStreetMap_tag: man_made=pier
 dv_has_:
   name_:
     ar: رصيف بحري
-    be-tarask: пірс
+    be_tarask: пірс
     bg: Кей
     ca: embarcador
     cs: molo
     cy: pier
     de: Anleger
-    de-ch: Seebrücke
+    de_ch: Seebrücke
     el: προβλήτα
     en: pier
-    en-ca: Pier
-    en-gb: pier
+    en_ca: Pier
+    en_gb: pier
     eo: marponto
     es: embarcadero
     et: randumissild
@@ -121,7 +121,7 @@ dv_has_:
     oc: Gitada
     pl: molo
     pt: ponte-cais ou pontão
-    pt-br: píer
+    pt_br: píer
     ro: Estacadă
     ru: пирс
     rue: Моло
@@ -143,9 +143,9 @@ dv_has_:
     vls: Piere
     yue: 碼頭
     zh: 突堤碼頭
-    zh-hans: 栈桥
-    zh-hant: 突堤碼頭
-    zh-hk: 碼頭
+    zh_hans: 栈桥
+    zh_hant: 突堤碼頭
+    zh_hk: 碼頭
 ---
 # [[Pier]]
 

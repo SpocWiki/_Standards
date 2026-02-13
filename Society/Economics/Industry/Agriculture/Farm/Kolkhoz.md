@@ -65,7 +65,7 @@ dv_has_:
     az: Kolxoz
     ba: Колхоз
     be: калгас
-    be-tarask: калгас
+    be_tarask: калгас
     bg: Колхоз
     bs: Kolhoz
     ca: kolkhoz
@@ -115,12 +115,12 @@ dv_has_:
     sk: Kolchoz
     sms: kolhoos
     sr: Колхоз
-    sr-ec: Колхоз
-    sr-el: Kolhoz
+    sr_ec: Колхоз
+    sr_el: Kolhoz
     sv: kolchos
     ta: கூட்டுப்பண்ணை
     tg: Колхоз
-    tg-latn: Kolxoz
+    tg_latn: Kolxoz
     tr: kolhoz
     tt: күмәк хуҗалык
     uk: колгосп
@@ -129,9 +129,9 @@ dv_has_:
     wuu: 苏联集体农庄
     yue: 集體農場
     zh: 苏联集体农庄
-    zh-hans: 苏联集体农庄
-    zh-hant: 蘇聯集體農莊
-    zh-hk: 蘇聯農業集體化
+    zh_hans: 苏联集体农庄
+    zh_hant: 蘇聯集體農莊
+    zh_hk: 蘇聯農業集體化
 ---
 # [[Kolkhoz]] 
 

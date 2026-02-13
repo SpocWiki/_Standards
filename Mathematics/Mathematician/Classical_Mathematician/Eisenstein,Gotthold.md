@@ -74,7 +74,7 @@ dv_has_:
     arz: جوتهولد ايزنشتاين
     ast: Ferdinand Eisenstein
     azb: فردیناند آیزنشتاین
-    be-tarask: Готгальд Айзэнштайн
+    be_tarask: Готгальд Айзэнштайн
     bg: Готхолд Айзенщайн
     ca: Ferdinand Eisenstein
     cs: Gotthold Eisenstein
@@ -105,7 +105,7 @@ dv_has_:
     pl: Gotthold Eisenstein
     pms: Ferdinand Gotthold Max Eisenstein
     pt: Gotthold Eisenstein
-    pt-br: Gotthold Eisenstein
+    pt_br: Gotthold Eisenstein
     ro: Gotthold Eisenstein
     ru: Фердинанд Эйзенштейн
     scn: Gotthold Eisenstein

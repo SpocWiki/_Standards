@@ -54,7 +54,7 @@ dv_has_:
     ar: مارتيني
     ast: Martini
     az: Martini
-    be-tarask: Мартыні
+    be_tarask: Мартыні
     bg: Мартини
     ca: Martini
     cs: Martini
@@ -90,8 +90,8 @@ dv_has_:
     ro: Martini
     ru: Мартини
     sr: Мартини
-    sr-ec: Мартини
-    sr-el: Martini
+    sr_ec: Мартини
+    sr_el: Martini
     sv: Dry martini
     th: มาร์ทีนี (ค็อกเทล)
     tr: Martini
@@ -102,11 +102,11 @@ dv_has_:
     yue: 馬天尼
     zh: 馬丁尼
     zh-cn: 马天尼
-    zh-hans: 马天尼
-    zh-hant: 馬丁尼
-    zh-hk: 馬天尼
-    zh-sg: 马天尼
-    zh-tw: 馬丁尼
+    zh_hans: 马天尼
+    zh_hant: 馬丁尼
+    zh_hk: 馬天尼
+    zh_sg: 马天尼
+    zh_tw: 馬丁尼
 ---
 # [[Martini]]
 

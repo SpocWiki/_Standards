@@ -71,7 +71,7 @@ dv_has_:
     bar: Lamiales
     bcl: Lamiales
     be: ясноткакветныя
-    be-tarask: Ясноткакветныя
+    be_tarask: Ясноткакветныя
     bg: устноцветни
     bn: লেমিয়ালেস
     br: Lamiales
@@ -83,11 +83,11 @@ dv_has_:
     cy: Lamiales
     da: Læbeblomst-ordenen
     de: Lippenblütlerartige
-    de-ch: Lamiales
+    de_ch: Lamiales
     el: Λαμιώδη
     en: Lamiales
-    en-ca: Lamiales
-    en-gb: Lamiales
+    en_ca: Lamiales
+    en_gb: Lamiales
     eo: Lamialoj
     es: Lamiales
     et: Iminõgeselaadsed
@@ -135,7 +135,7 @@ dv_has_:
     nap: Lamiales
     nb: Leppeblomstordenen
     nds: Lamiales
-    nds-nl: Lamiales
+    nds_nl: Lamiales
     nl: Lamiales
     nn: leppeblomordenen
     nrm: Lamiales
@@ -146,7 +146,7 @@ dv_has_:
     pms: Lamiales
     ps: نعنا ډوله بوټي
     pt: Lamiales
-    pt-br: Lamiales
+    pt_br: Lamiales
     rm: Lamiales
     ro: Lamiales
     ru: ясноткоцветные
@@ -176,10 +176,10 @@ dv_has_:
     wuu: 唇形目
     yue: 唇形目
     zh: 唇形目
-    zh-cn: 唇形目
-    zh-hans: 唇形目
-    zh-hant: 脣形目
-    zh-tw: 脣形目
+    zh_cn: 唇形目
+    zh_hans: 唇形目
+    zh_hant: 脣形目
+    zh_tw: 脣形目
     zu: Lamiales
 ---
 # [[Lamiales]] 

@@ -19,7 +19,7 @@ dv_has_:
     bbc: Maria
     bcl: Maria, Ina ni Hesus
     be: Марыя, маці Ісуса
-    be-tarask: Панна Марыя
+    be_tarask: Панна Марыя
     bew: Mariam, enya' Isa
     bg: Богородица
     bn: মেরি, যিশুর মাতা
@@ -36,14 +36,14 @@ dv_has_:
     cy: y Forwyn Fair
     da: Jomfru Maria
     de: Maria
-    de-ch: Maria
+    de_ch: Maria
     diq: Meryeme
     dsb: Kněžna Marija
     el: Παναγία
     eml: Maria
     en: Mary
-    en-ca: Mary
-    en-gb: Mary
+    en_ca: Mary
+    en_gb: Mary
     eo: Maria, patrino de Jesuo
     es: Virgen María
     et: Maarja
@@ -128,7 +128,7 @@ dv_has_:
     pl: Maria z Nazaretu
     pnb: مریم
     pt: Virgem Maria
-    pt-br: Maria
+    pt_br: Maria
     qu: Qullana Mariya
     rmy: Mary
     ro: Fecioara Maria
@@ -173,9 +173,9 @@ dv_has_:
     yue: 聖母瑪利亞
     zgh: ⵎⴰⵔⵢⴰⵎ
     zh: 圣母玛利亚
-    zh-cn: 圣母玛利亚
-    zh-hans: 圣母玛利亚
-    zh-hant: 聖母瑪利亞
+    zh_cn: 圣母玛利亚
+    zh_hans: 圣母玛利亚
+    zh_hant: 聖母瑪利亞
 aliases:
 - Bibi Maryam
 - Bikira Maria

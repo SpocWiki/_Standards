@@ -25,7 +25,7 @@ dv_has_:
     oc: Pseudomonadati
     pl: Pseudomonadati
     pt: Pseudomonadati
-    pt-br: Pseudomonadati
+    pt_br: Pseudomonadati
     ru: Pseudomonadati
     sl: Pseudomonadati
     sv: Pseudomonadati

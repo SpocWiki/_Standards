@@ -124,7 +124,7 @@ dv_has_:
     ast: John Hasbrouck van Vleck
     azb: جان هاسبورک وان ولک
     be: Джон Хазбрук Ван Флек
-    be-tarask: Джон Газбрук ван Флек
+    be_tarask: Джон Газбрук ван Флек
     bg: Джон ван Флек
     bn: জন হ্যাসব্রুক ভ্যান ভ্লেক
     ca: John Hasbrouck van Vleck
@@ -170,7 +170,7 @@ dv_has_:
     pl: John Hasbrouck van Vleck
     pnb: جان ھاسبرک فان فلیک
     pt: John Hasbrouck Van Vleck
-    pt-br: John Hasbrouck Van Vleck
+    pt_br: John Hasbrouck Van Vleck
     ro: John Hasbrouck van Vleck
     ru: Джон Хазбрук Ван Флек
     sco: John Hasbrouck Van Vleck
@@ -193,12 +193,12 @@ dv_has_:
     yo: John Hasbrouck Van Vleck
     yue: 約翰·凡扶累克
     zh: 約翰·凡扶累克
-    zh-cn: 约翰·凡扶累克
-    zh-hans: 约翰·凡扶累克
-    zh-hant: 約翰·凡扶累克
-    zh-hk: 約翰·凡扶累克
-    zh-sg: 约翰·凡扶累克
-    zh-tw: 約翰·凡扶累克
+    zh_cn: 约翰·凡扶累克
+    zh_hans: 约翰·凡扶累克
+    zh_hant: 約翰·凡扶累克
+    zh_hk: 約翰·凡扶累克
+    zh_sg: 约翰·凡扶累克
+    zh_tw: 約翰·凡扶累克
 ---
 # [[Vleck,John_Hasbrouck_van]] 
 

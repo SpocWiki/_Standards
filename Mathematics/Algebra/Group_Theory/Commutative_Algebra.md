@@ -60,7 +60,7 @@ dv_has_:
     ar: جبر تبادلي
     ast: álxebra conmutativa
     ba: коммутатив алгебра
-    be-tarask: камутатыўная альгебра
+    be_tarask: камутатыўная альгебра
     bg: комутативна алгебра
     ca: àlgebra commutativa
     cs: komutativní algebra
@@ -91,12 +91,12 @@ dv_has_:
     nn: kommutativ algebra
     pl: algebra przemienna
     pt: álgebra comutativa
-    pt-br: álgebra comutativa
+    pt_br: álgebra comutativa
     ro: algebră comutativă
     ru: коммутативная алгебра
     sl: komutativna algebra
     sr: комутативна алгебра
-    sr-el: komutativna algebra
+    sr_el: komutativna algebra
     sv: kommutativ algebra
     tr: Değişmeli cebir
     uk: комутативна алгебра

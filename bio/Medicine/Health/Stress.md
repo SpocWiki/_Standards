@@ -71,7 +71,7 @@ dv_has_:
     az: Stress
     azb: ایسترس
     be: стрэс
-    be-tarask: стрэс
+    be_tarask: стрэс
     bg: Стрес
     ca: estrès
     ckb: فشاری دەروونی
@@ -105,16 +105,16 @@ dv_has_:
     jam: Schres
     ka: სტრესი
     kk: Стресс
-    kk-arab: سترەسس
+    kk_arab: سترەسس
     kk-cn: سترەسس
-    kk-cyrl: Стресс
+    kk_cyrl: Стресс
     kk-kz: Стресс
-    kk-latn: Stress
+    kk_latn: Stress
     kk-tr: Stress
     ko: 스트레스
     ku: Stres
-    ku-arab: سترەس
-    ku-latn: Stres
+    ku_arab: سترەس
+    ku_latn: Stres
     ky: Стресс
     la: Contentio enervans (biologia)
     ln: Stress
@@ -123,14 +123,14 @@ dv_has_:
     mk: Стрес
     mr: तणाव
     ms: stres
-    ms-arab: ستريس
+    ms_arab: ستريس
     nb: stress
     nl: stress
     nn: stress
     oc: stress
     pl: stres
     pt: estresse
-    pt-br: estresse
+    pt_br: estresse
     ro: stres
     ru: стресс
     sco: stress
@@ -144,8 +144,8 @@ dv_has_:
     sms: streʹss
     sq: Stresi
     sr: стрес
-    sr-ec: стрес
-    sr-el: Stres
+    sr_ec: стрес
+    sr_el: Stres
     sv: stress
     ta: மன அழுத்தம்
     te: సకల సమస్యలకు మూలం ఒత్తిడి
@@ -162,12 +162,12 @@ dv_has_:
     wuu: 压力 (医学)
     yue: 壓力 (生物學)
     zh: 应激
-    zh-cn: 应激
-    zh-hans: 应激
-    zh-hant: 應激
-    zh-hk: 緊迫
-    zh-sg: 应激
-    zh-tw: 緊迫
+    zh_cn: 应激
+    zh_hans: 应激
+    zh_hant: 應激
+    zh_hk: 緊迫
+    zh_sg: 应激
+    zh_tw: 緊迫
 ---
 # [[Stress]] 
 

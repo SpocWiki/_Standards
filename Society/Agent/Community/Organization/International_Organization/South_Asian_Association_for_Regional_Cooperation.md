@@ -140,7 +140,7 @@ dv_has_:
     awa: सार्क
     ba: Көньяҡ Азия төбәк хеҙмәттәшлеге ассоциацияһы
     be: Паўднёваазіяцкае аб’яднанне рэгіянальнага супрацоўніцтва
-    be-tarask: Паўднёваазіяцкае аб’яднаньне рэгіянальнай супрацы
+    be_tarask: Паўднёваазіяцкае аб’яднаньне рэгіянальнай супрацы
     bg: Асоциация за регионално сътрудничество в Южна Азия
     bho: दक्खिन एशियाई क्षेत्रीय सहजोग संगठन
     bn: দক্ষিণ এশীয় আঞ্চলিক সহযোগিতা সংস্থা
@@ -195,7 +195,7 @@ dv_has_:
     pnb: سارک
     ps: سارک
     pt: Associação Sul-Asiática para a Cooperação Regional
-    pt-br: Associação Sul-Asiática para a Cooperação Regional
+    pt_br: Associação Sul-Asiática para a Cooperação Regional
     rmy: Khetanipen la Sudutne Asiyako vash o Perutno Somkerdipen
     ru: Ассоциация регионального сотрудничества Южной Азии
     sat: ᱮᱛᱚᱢ ᱮᱥᱤᱭᱟᱱ ᱴᱚᱴᱷᱟᱹᱠᱤᱭᱟᱹ ᱜᱚᱯᱚᱲᱚ ᱮᱥᱚᱥᱤᱭᱮᱥᱚᱱ
@@ -215,7 +215,7 @@ dv_has_:
     wuu: 南亚区域合作联盟
     yue: 南亞區域合作聯盟
     zh: 南亞區域合作聯盟
-    zh-hans: 南亚区域合作联盟
+    zh_hans: 南亚区域合作联盟
 ---
 # [[South_Asian_Association_for_Regional_Cooperation]] 
 

@@ -228,7 +228,7 @@ dv_has_:
     az: Martin Skorseze
     azb: مارتین اسکورسیزی
     be: Марцін Скарсэзэ
-    be-tarask: Мартын Скарсэзэ
+    be_tarask: Мартын Скарсэзэ
     bg: Мартин Скорсезе
     bn: মার্টিন স্কোরসেজি
     br: Martin Scorsese
@@ -241,8 +241,8 @@ dv_has_:
     de: Martin Scorsese
     el: Μάρτιν Σκορσέζε
     en: Martin Scorsese
-    en-ca: Martin Scorsese
-    en-gb: Martin Scorsese
+    en_ca: Martin Scorsese
+    en_gb: Martin Scorsese
     eo: Martin Scorsese
     es: Martin Scorsese
     et: Martin Scorsese
@@ -294,7 +294,7 @@ dv_has_:
     pms: Martin Scorsese
     ps: مارتین چارلس سکورسیزي
     pt: Martin Scorsese
-    pt-br: Martin Scorsese
+    pt_br: Martin Scorsese
     qu: Martin Scorsese
     ro: Martin Scorsese
     ru: Мартин Скорсезе
@@ -323,14 +323,14 @@ dv_has_:
     yo: Martin Scorsese
     yue: 馬田史高西斯
     zh: 马丁·斯科塞斯
-    zh-cn: 马丁·斯科塞斯
-    zh-hans: 马丁·斯科塞斯
-    zh-hant: 馬田·史高西斯
-    zh-hk: 馬田史高西斯
-    zh-mo: 馬田·史高西斯
+    zh_cn: 马丁·斯科塞斯
+    zh_hans: 马丁·斯科塞斯
+    zh_hant: 馬田·史高西斯
+    zh_hk: 馬田史高西斯
+    zh_mo: 馬田·史高西斯
     zh-my: 马田·史高西斯
-    zh-sg: 马丁·史柯西斯
-    zh-tw: 馬丁·史柯西斯
+    zh_sg: 马丁·史柯西斯
+    zh_tw: 馬丁·史柯西斯
 ---
 # [[Scorsese,Martin]] 
 

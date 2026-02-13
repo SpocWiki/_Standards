@@ -92,7 +92,7 @@ dv_has_:
     ast: Válvula termoiónica
     az: Vakuum borusu
     be: радыёлямпа
-    be-tarask: электравакуўмная лямпа
+    be_tarask: электравакуўмная лямпа
     bg: Електронна лампа
     bn: নির্বাত নল
     bs: Elektronska cijev
@@ -103,8 +103,8 @@ dv_has_:
     de: Elektronenröhre
     el: Ηλεκτρονική λυχνία
     en: vacuum tube
-    en-ca: Vacuum tube
-    en-gb: vacuum tube
+    en_ca: Vacuum tube
+    en_gb: vacuum tube
     eo: elektrona tubo
     es: válvula termoiónica
     et: Elektronlamp
@@ -144,7 +144,7 @@ dv_has_:
     pms: Tub a veuid
     pnb: خلائی نل
     pt: válvula termiónica
-    pt-br: válvula termiônica
+    pt_br: válvula termiônica
     ro: tub electronic
     ru: электронная лампа
     sh: Elektronska cev
@@ -152,8 +152,8 @@ dv_has_:
     sl: elektronka
     sq: Tuba e vakumit
     sr: електронска цијев
-    sr-ec: електронска цијев
-    sr-el: elektronska cijev
+    sr_ec: електронска цијев
+    sr_el: elektronska cijev
     stq: Elektrone-Röire
     sv: elektronrör
     ta: வெற்றிடக் குழாய்

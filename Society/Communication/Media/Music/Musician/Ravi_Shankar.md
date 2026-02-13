@@ -130,7 +130,7 @@ dv_has_:
     azb: راوی شانکار
     ba: Рави Шанкар
     be: Раві Шанкар
-    be-tarask: Раві Шанкар
+    be_tarask: Раві Шанкар
     bg: Рави Шанкар
     bho: रविशंकर
     bn: রবিশঙ্কর
@@ -142,8 +142,8 @@ dv_has_:
     dty: रवि शंकर
     el: Ραβί Σανκάρ
     en: Ravi Shankar
-    en-ca: Ravi Shankar
-    en-gb: Ravi Shankar
+    en_ca: Ravi Shankar
+    en_gb: Ravi Shankar
     eo: Ravi Shankar
     es: Ravi Shankar
     et: Ravi Shankar
@@ -194,7 +194,7 @@ dv_has_:
     pnb: روی شنکر
     ps: روي شنکر
     pt: Ravi Shankar
-    pt-br: Ravi Shankar
+    pt_br: Ravi Shankar
     ro: Ravi Shankar
     ru: Рави Шанкар
     sa: पण्डितः रविशङ्करः
@@ -217,12 +217,12 @@ dv_has_:
     yo: Ravi Shankar
     yue: 拉維香卡
     zh: 拉维·香卡
-    zh-cn: 拉维·香卡
-    zh-hans: 拉维·香卡
-    zh-hant: 拉維·香卡
-    zh-hk: 拉維·香卡
-    zh-sg: 拉维·香卡
-    zh-tw: 拉維·香卡
+    zh_cn: 拉维·香卡
+    zh_hans: 拉维·香卡
+    zh_hant: 拉維·香卡
+    zh_hk: 拉維·香卡
+    zh_sg: 拉维·香卡
+    zh_tw: 拉維·香卡
 ---
 # [[Ravi_Shankar]] 
 

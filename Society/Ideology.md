@@ -119,7 +119,7 @@ dv_has_:
     azb: ایدئولوژی
     ba: Идеология
     be: ідэалогія
-    be-tarask: ідэалёгія
+    be_tarask: ідэалёгія
     bg: Идеология
     bn: ভাবাদর্শ
     br: ideologiezh
@@ -134,12 +134,12 @@ dv_has_:
     cy: ideoleg
     da: ideologi
     de: Ideologie
-    de-ch: Ideologie
+    de_ch: Ideologie
     diq: İdeolociy
     el: ιδεολογία
     en: ideology
-    en-ca: ideology
-    en-gb: ideology
+    en_ca: ideology
+    en_gb: ideology
     eo: ideologio
     es: ideología
     et: ideoloogia
@@ -176,7 +176,7 @@ dv_has_:
     ko: 이데올로기
     krc: Идеология
     ku: îdeolojî
-    ku-latn: îdeolojî
+    ku_latn: îdeolojî
     kw: tybonieth
     ky: Идеология
     la: Ideologia
@@ -193,7 +193,7 @@ dv_has_:
     ml: പ്രത്യയശാസ്ത്രം
     mn: Идеологи
     ms: ideologi
-    ms-arab: ايديولوݢي
+    ms_arab: ايديولوݢي
     mt: ideoloġija
     my: ဒဿန
     mzn: ایدئولوژی
@@ -215,7 +215,7 @@ dv_has_:
     pnb: آئیڈیالوجی
     ps: ايډيالوژي
     pt: ideologia
-    pt-br: ideologia
+    pt_br: ideologia
     qu: Yuyay yachay
     ro: ideologie
     ru: идеология
@@ -257,14 +257,14 @@ dv_has_:
     yi: אידעאלאגיע
     yue: 意識形態
     zh: 意識形態
-    zh-cn: 意识形态
-    zh-hans: 意识形态
-    zh-hant: 意識形態
-    zh-hk: 意識形態
-    zh-mo: 意識形態
+    zh_cn: 意识形态
+    zh_hans: 意识形态
+    zh_hant: 意識形態
+    zh_hk: 意識形態
+    zh_mo: 意識形態
     zh-my: 意识形态
-    zh-sg: 意识形态
-    zh-tw: 意識形態
+    zh_sg: 意识形态
+    zh_tw: 意識形態
 ---
 # [[Ideology]] 
 

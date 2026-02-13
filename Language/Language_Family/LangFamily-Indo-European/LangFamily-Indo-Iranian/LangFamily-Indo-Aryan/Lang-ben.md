@@ -170,7 +170,7 @@ type: Lang
 dv_has_:
   name_:
     ace: Benggali Barat
-    aeb-arab: البنڨالي
+    aeb_arab: البنڨالي
     af: bengaals
     am: በንጋልኛ
     an: Idioma bengalí
@@ -189,7 +189,7 @@ dv_has_:
     ban: Basa Benggala
     bcl: Bangla
     be: бенгальская мова
-    be-tarask: бэнгальская мова
+    be_tarask: бэнгальская мова
     bg: Бенгалски език
     bho: बंगाली भाषा
     bn: বাংলা ভাষা
@@ -212,8 +212,8 @@ dv_has_:
     dv: ބެންގާލީ
     el: μπενγκάλι γλώσσα
     en: Bangla
-    en-ca: Bangla
-    en-gb: Bangla
+    en_ca: Bangla
+    en_gb: Bangla
     eo: bengala lingvo
     es: bengalí
     et: bangla keel
@@ -306,7 +306,7 @@ dv_has_:
     pnb: بنگالی
     ps: بنګالي ژبه
     pt: língua bangla
-    pt-br: língua bangla
+    pt_br: língua bangla
     qu: Banla simi
     rki: ဘင်္ဂါလီဘာသာ
     ro: limba bengaleză
@@ -348,7 +348,7 @@ dv_has_:
     tpi: Tok Bangal
     tr: Bengalce
     tt: бенгал теле
-    tt-cyrl: бенгаль теле
+    tt_cyrl: бенгаль теле
     tw: Bangla
     tyv: Бенгал дыл
     udm: бенгал кыл
@@ -371,10 +371,10 @@ dv_has_:
     za: Vahmanggyalah
     zgh: ⵜⵓⵜⵍⴰⵢⵜ ⵜⴰⴱⵏⴳⴰⵍⵉⵜ
     zh: 孟加拉语
-    zh-cn: 孟加拉语
-    zh-hans: 孟加拉语
-    zh-hant: 孟加拉語
-    zh-hk: 孟加拉語
+    zh_cn: 孟加拉语
+    zh_hans: 孟加拉语
+    zh_hant: 孟加拉語
+    zh_hk: 孟加拉語
     zu: Bengali
 ---
 # [[Lang-ben]] 

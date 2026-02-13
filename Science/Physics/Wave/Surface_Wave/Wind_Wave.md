@@ -107,7 +107,7 @@ dv_has_:
     ay: Uxi
     az: dalğa
     be: ветравая хваля
-    be-tarask: ветравая хваля
+    be_tarask: ветравая хваля
     bg: Вълнение
     br: Tonn
     ca: ona marina
@@ -116,12 +116,12 @@ dv_has_:
     csb: wała
     da: havbølge
     de: Wasserwelle
-    de-ch: Wasserwelle
+    de_ch: Wasserwelle
     dsb: wódna kuźera
     el: Κυματισμός
     en: wind wave
-    en-ca: Wind wave
-    en-gb: wind wave
+    en_ca: Wind wave
+    en_gb: wind wave
     eo: venta ondo
     es: ola
     et: Veelained
@@ -151,14 +151,14 @@ dv_has_:
     ln: Mbóngé
     lt: Jūros banga
     lv: ūdens viļņi
-    map-bms: Ombak
+    map_bms: Ombak
     mg: Onja
     mk: морски бран
     ml: തിര
     mn: Далайн гадаргуу дахь долгион
     mnc: ᠪᠣᠯᠵᠣᠨ
     ms: ombak
-    ms-arab: اومبق
+    ms_arab: اومبق
     nan: Éng
     nb: havbølger
     nl: vloeistofoppervlaktegolf
@@ -167,7 +167,7 @@ dv_has_:
     om: Wave
     pl: falowanie
     pt: ondas oceânicas de superfície
-    pt-br: Ondas oceânicas de superfície
+    pt_br: Ondas oceânicas de superfície
     qu: Machapu
     ro: Val
     ru: ветровые волны
@@ -179,8 +179,8 @@ dv_has_:
     sl: vodni val
     sq: Valët e detit
     sr: морски талас
-    sr-ec: морски талас
-    sr-el: morski talas
+    sr_ec: морски талас
+    sr_el: morski talas
     su: Lambak
     sv: vattenvåg
     szl: wela wodnŏ
@@ -189,7 +189,7 @@ dv_has_:
     te: waves
     tr: dalga
     tt: судагы дулкын
-    tt-cyrl: судагы дулкын
+    tt_cyrl: судагы дулкын
     uk: хвилі на поверхні води
     uz: mavj
     vi: sóng biển
@@ -197,12 +197,12 @@ dv_has_:
     xmf: რეღმეფი
     yue: 浪
     zh: 海浪
-    zh-cn: 海浪
-    zh-hans: 海浪
-    zh-hant: 海浪
-    zh-hk: 海浪
-    zh-sg: 海浪
-    zh-tw: 海浪
+    zh_cn: 海浪
+    zh_hans: 海浪
+    zh_hant: 海浪
+    zh_hk: 海浪
+    zh_sg: 海浪
+    zh_tw: 海浪
 ---
 # [[Wind_Wave]] 🌊 
 

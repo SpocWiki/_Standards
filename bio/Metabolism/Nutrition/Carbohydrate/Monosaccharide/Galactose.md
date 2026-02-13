@@ -6,7 +6,7 @@ dv_has_:
     az: Qalaktoza
     azb: قالاکتوز
     be: Галактоза
-    be-tarask: Галяктоза
+    be_tarask: Галяктоза
     bg: Галактоза
     bs: Galaktoza
     ca: galactosa

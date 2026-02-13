@@ -171,7 +171,7 @@ dv_has_:
     bar: Whoopi Goldberg
     bcl: Whoopi Goldberg
     be: Вупі Голдберг
-    be-tarask: Ўупі Голдбэрг
+    be_tarask: Ўупі Голдбэрг
     bg: Упи Голдбърг
     bi: Whoopi Goldberg
     bm: Whoopi Goldberg
@@ -185,11 +185,11 @@ dv_has_:
     da: Whoopi Goldberg
     de: Whoopi Goldberg
     de-at: Whoopi Goldberg
-    de-ch: Whoopi Goldberg
+    de_ch: Whoopi Goldberg
     el: Γούπι Γκόλντμπεργκ
     en: Whoopi Goldberg
-    en-ca: Whoopi Goldberg
-    en-gb: Whoopi Goldberg
+    en_ca: Whoopi Goldberg
+    en_gb: Whoopi Goldberg
     eo: Whoopi Goldberg
     es: Whoopi Goldberg
     et: Whoopi Goldberg
@@ -248,7 +248,7 @@ dv_has_:
     nap: Whoopi Goldberg
     nb: Whoopi Goldberg
     nds: Whoopi Goldberg
-    nds-nl: Whoopi Goldberg
+    nds_nl: Whoopi Goldberg
     nl: Whoopi Goldberg
     nn: Whoopi Goldberg
     nrm: Whoopi Goldberg
@@ -261,7 +261,7 @@ dv_has_:
     pnb: ووپی گولڈ برگ
     prg: Whoopi Goldberg
     pt: Whoopi Goldberg
-    pt-br: Whoopi Goldberg
+    pt_br: Whoopi Goldberg
     qu: Whoopi Goldberg
     rgn: Whoopi Goldberg
     rm: Whoopi Goldberg
@@ -276,7 +276,7 @@ dv_has_:
     sl: Whoopi Goldberg
     sq: Whoopi Goldberg
     sr: Вупи Голдберг
-    sr-el: Whoopi Goldberg
+    sr_el: Whoopi Goldberg
     sv: Whoopi Goldberg
     sw: Whoopi Goldberg
     te: వూపీ గోల్డ్బర్గ్
@@ -301,9 +301,9 @@ dv_has_:
     yo: Whoopi Goldberg
     yue: 胡比高拔
     zh: 琥碧·戈柏
-    zh-hant: 琥碧·戈柏
+    zh_hant: 琥碧·戈柏
     zh-my: 胡比·高拔
-    zh-sg: 胡比·高拔
+    zh_sg: 胡比·高拔
     zu: Whoopi Goldberg
 ---
 # [[Goldberg,Whoopi]] 

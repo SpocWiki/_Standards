@@ -104,7 +104,7 @@ dv_has_:
     ast: Agresión
     az: aqressiya
     be: агрэсія
-    be-tarask: агрэсіўныя паводзіны
+    be_tarask: агрэсіўныя паводзіны
     bg: агресия
     bo: དྲག་ཤུལ།
     bs: agresija
@@ -146,7 +146,7 @@ dv_has_:
     nn: Aggresjon
     pl: agresja
     pt: agressão
-    pt-br: agressão
+    pt_br: agressão
     qu: Ch'utiy
     ro: agresiune
     ru: агрессия
@@ -167,12 +167,12 @@ dv_has_:
     vi: gây hấn
     yue: 侵略
     zh: 侵略
-    zh-cn: 侵犯
-    zh-hans: 侵略
-    zh-hant: 侵略
-    zh-hk: 侵略
-    zh-sg: 侵略
-    zh-tw: 侵略
+    zh_cn: 侵犯
+    zh_hans: 侵略
+    zh_hant: 侵略
+    zh_hk: 侵略
+    zh_sg: 侵略
+    zh_tw: 侵略
 ---
 # [[Aggression]] 
 

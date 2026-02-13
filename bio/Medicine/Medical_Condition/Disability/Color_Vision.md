@@ -76,7 +76,7 @@ dv_has_:
   name_:
     ar: رؤية اللون
     ast: perceición del color
-    be-tarask: успрыняцьце колеру
+    be_tarask: успрыняцьце колеру
     bn: বর্ণ দর্শনশক্তি
     ca: percepció del color
     cs: barevné vidění
@@ -84,7 +84,7 @@ dv_has_:
     da: farvesyn
     de: Farbwahrnehmung
     en: color vision
-    en-gb: colour vision
+    en_gb: colour vision
     eo: kolora vidkapablo
     es: visión del color
     et: Värvitaju
@@ -122,8 +122,8 @@ dv_has_:
     wuu: 彩色视觉
     yue: 彩色視覺
     zh: 彩色视觉
-    zh-cn: 颜色视觉
-    zh-hans: 彩色视觉
+    zh_cn: 颜色视觉
+    zh_hans: 彩色视觉
 ---
 # [[Color_Vision]] 
 

@@ -290,7 +290,7 @@ dv_has_:
     ba: яҡтылыҡ тиҙлеге
     bcl: rikas nin liwanag
     be: скорасць святла
-    be-tarask: хуткасьць сьвятла
+    be_tarask: хуткасьць сьвятла
     bg: скорост на светлината
     bho: अँजोरिया के गतिवेग
     bn: আলোর দ্রুতি
@@ -365,7 +365,7 @@ dv_has_:
     mn: гэрлийн хурд
     mr: प्रकाशाचा वेग
     ms: kelajuan cahaya
-    ms-arab: کلاجوان چهاي
+    ms_arab: کلاجوان چهاي
     mul: c
     my: အလင်းအလျင်
     nan: kng-sok
@@ -382,7 +382,7 @@ dv_has_:
     pnb: چانن دی دوڑ
     ps: د لمر سرعت
     pt: velocidade da luz
-    pt-br: velocidade da luz
+    pt_br: velocidade da luz
     ro: viteza luminii
     ru: скорость света
     rue: швыдкость світла
@@ -408,7 +408,7 @@ dv_has_:
     tl: bilis ng liwanag
     tr: Işık hızı
     tt: яктылык тизлеге
-    tt-cyrl: яктылык тизлеге
+    tt_cyrl: яктылык тизлеге
     udm: югытлэн ӝоглыкез
     uk: швидкість світла
     ur: روشنی کی رفتار
@@ -421,7 +421,7 @@ dv_has_:
     yi: גיך פון ליכט
     yue: 光速
     zh: 光速
-    zh-hans: 光速
+    zh_hans: 光速
 ---
 # [[Speed_of_Light]] 
 

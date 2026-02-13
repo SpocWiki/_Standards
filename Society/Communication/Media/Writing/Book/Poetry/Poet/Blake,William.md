@@ -253,7 +253,7 @@ dv_has_:
     az: Vilyam Bleyk
     azb: ویلیام بلیک
     be: Уільям Блэйк
-    be-tarask: Ўільям Блэйк
+    be_tarask: Ўільям Блэйк
     bg: Уилям Блейк
     bn: উইলিয়াম ব্লেক
     br: William Blake
@@ -268,7 +268,7 @@ dv_has_:
     diq: William Blake
     el: Ουίλλιαμ Μπλέηκ
     en: William Blake
-    en-gb: William Blake
+    en_gb: William Blake
     eo: William Blake
     es: William Blake
     et: William Blake
@@ -324,7 +324,7 @@ dv_has_:
     pl: William Blake
     ps: ویلیام بلېک
     pt: William Blake
-    pt-br: William Blake
+    pt_br: William Blake
     ro: William Blake
     ru: Уильям Блейк
     sc: William Blake
@@ -335,7 +335,7 @@ dv_has_:
     sl: William Blake
     sq: William Blake
     sr: Вилијам Блејк
-    sr-ec: Вилијам Блејк
+    sr_ec: Вилијам Блејк
     sv: William Blake
     ta: வில்லியம் பிளேக்
     te: విలియం బ్లేక్
@@ -344,7 +344,7 @@ dv_has_:
     uk: Вільям Блейк
     ur: ولیم بلیک
     uz: William Blake
-    uz-cyrl: Уильям Блейк
+    uz_cyrl: Уильям Блейк
     vi: William Blake
     war: William Blake
     wuu: 威廉·布莱克

@@ -86,17 +86,17 @@ dv_has_:
     az: Qara Dəniz İqtisadi Əməkdaşlıq Təşkilatı
     ba: Ҡара диңгеҙ иҡтисади хеҙмәттәшлеге ойошмаһы
     be: Арганізацыя чарнаморскага эканамічнага супрацоўніцтва
-    be-tarask: Арганізацыя чарнаморскага эканамічнага супрацоўніцтва
+    be_tarask: Арганізацыя чарнаморскага эканамічнага супрацоўніцтва
     bg: Организация за черноморско икономическо сътрудничество
     ca: Cooperació Econòmica del Mar Negre
     ce: ӀаьржахӀордан экономикин цхьаьнагӀуллакхдаран кхоллам
     cs: Organizace černomořských ekonomických společenství
     de: Schwarzmeer-Wirtschaftskooperation
-    de-ch: Schwarzmeer-Wirtschaftskooperation
+    de_ch: Schwarzmeer-Wirtschaftskooperation
     el: Οργανισμός Οικονομικής Συνεργασίας Ευξείνου Πόντου
     en: Organization of the Black Sea Economic Cooperation
-    en-ca: Organization of the Black Sea Economic Cooperation
-    en-gb: Organization of the Black Sea Economic Cooperation
+    en_ca: Organization of the Black Sea Economic Cooperation
+    en_gb: Organization of the Black Sea Economic Cooperation
     en-us: Organization of the Black Sea Economic Cooperation
     eo: Organizaĵo por Ekonomia Kunlaboro ĉe la Nigra Maro
     es: Cooperación Económica del Mar Negro
@@ -125,7 +125,7 @@ dv_has_:
     oc: Organizacion de Cooperation Economica de la Mar Negra
     pl: Organizacja Współpracy Gospodarczej Państw Morza Czarnego
     pt: Organização de Cooperação Econômica do Mar Negro
-    pt-br: Organização de Cooperação Econômica do Mar Negro
+    pt_br: Organização de Cooperação Econômica do Mar Negro
     ro: Organizația de Cooperare Economică la Marea Neagră
     ru: Организация черноморского экономического сотрудничества
     sco: Organization o the Black Sea Economic Cooperation
@@ -133,8 +133,8 @@ dv_has_:
     so: Ururka Iskaashiga Dhaqaalaha Badda Madow
     sq: BSEC
     sr: Црноморска економска сарадња
-    sr-ec: Организација за црноморску економску сарадњу
-    sr-el: Crnomorska ekonomska saradnja
+    sr_ec: Организација за црноморску економску сарадњу
+    sr_el: Crnomorska ekonomska saradnja
     su: Organisasi Sabilulungan Ékonomi Laut Hideung
     sv: Black Sea Economic Cooperation
     tr: Karadeniz Ekonomik İşbirliği

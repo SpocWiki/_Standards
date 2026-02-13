@@ -88,7 +88,7 @@ dv_has_:
     cy: Glycyrrhiza
     da: Lakrids-slægten
     de: Süßhölzer
-    de-ch: Süsshölzer
+    de_ch: Süsshölzer
     en: Glycyrrhiza
     eo: Glicirizo
     es: Glycyrrhiza
@@ -114,11 +114,11 @@ dv_has_:
     it: Glycyrrhiza
     ja: カンゾウ属
     kk: Миятамыр
-    kk-arab: مىيياتامىر
+    kk_arab: مىيياتامىر
     kk-cn: مىيياتامىر
-    kk-cyrl: Миятамыр
+    kk_cyrl: Миятамыр
     kk-kz: Миятамыр
-    kk-latn: Mïyatamır
+    kk_latn: Mïyatamır
     kk-tr: Mïyatamır
     ky: Кызыл мыя
     la: Glycyrrhiza
@@ -131,7 +131,7 @@ dv_has_:
     myv: Тантей юр
     nb: Glycyrrhiza
     nds: Glycyrrhiza
-    nds-nl: Glycyrrhiza
+    nds_nl: Glycyrrhiza
     nl: Glycyrrhiza
     nn: Glycyrrhiza
     oc: Glycyrrhiza
@@ -140,7 +140,7 @@ dv_has_:
     pms: Glycyrrhiza
     ps: خوږه وله
     pt: Glycirrhiza
-    pt-br: Glycyrrhiza
+    pt_br: Glycyrrhiza
     ro: Glycyrrhiza
     ru: Солодка
     sk: Glycyrrhiza
@@ -159,9 +159,9 @@ dv_has_:
     wa: Glycyrrhiza
     war: Glycyrrhiza
     zh: 甘草属
-    zh-cn: 甘草属
-    zh-hans: 甘草属
-    zh-tw: 甘草屬
+    zh_cn: 甘草属
+    zh_hans: 甘草属
+    zh_tw: 甘草屬
 ---
 # [[Glycyrrhiza]] 
 

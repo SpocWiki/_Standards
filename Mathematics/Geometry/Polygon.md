@@ -130,7 +130,7 @@ dv_has_:
     ba: күпмөйөш
     bcl: poligono
     be: многавугольнік
-    be-tarask: шматкутнік
+    be_tarask: шматкутнік
     bg: многоъгълник
     bn: বহুভুজ
     br: lieskorneg
@@ -142,11 +142,11 @@ dv_has_:
     cy: polygon
     da: polygon
     de: Polygon
-    de-ch: Polygon
+    de_ch: Polygon
     el: πολύγωνο
     en: polygon
-    en-ca: polygon
-    en-gb: polygon
+    en_ca: polygon
+    en_gb: polygon
     en-us: polygon
     eo: plurlatero
     es: polígono
@@ -207,7 +207,7 @@ dv_has_:
     pl: wielokąt
     ps: څو ضلعي
     pt: polígono
-    pt-br: polígono
+    pt_br: polígono
     qu: ashkamanya
     ro: poligon
     ru: многоугольник
@@ -223,7 +223,7 @@ dv_has_:
     so: geesoole
     sq: shumëkëndëshi
     sr: многоугао
-    sr-ec: многоугао
+    sr_ec: многоугао
     sv: polygon
     sw: pembenyingi
     szl: wjeloek
@@ -234,7 +234,7 @@ dv_has_:
     tok: sijelo supa palisa
     tr: çokgen
     tt: күппочмак
-    tt-cyrl: күппочмак
+    tt_cyrl: күппочмак
     uk: многокутник
     ur: کثیرالاضلاع
     uz: koʻpburchak
@@ -248,8 +248,8 @@ dv_has_:
     yue: 多邊形
     zgh: ⴰⴳⵜⴷⵉⵙ
     zh: 多边形
-    zh-hant: 多邊形
-    zh-tw: 多邊形
+    zh_hant: 多邊形
+    zh_tw: 多邊形
 ---
 # [[Polygon]] 
 

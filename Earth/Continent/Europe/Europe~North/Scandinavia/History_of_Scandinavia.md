@@ -66,7 +66,7 @@ dv_has_:
     ar: تاريخ إسكندنافيا
     ast: Historia d'Escandinavia
     be: гісторыя Скандынавіі
-    be-tarask: гісторыя Скандынавіі
+    be_tarask: гісторыя Скандынавіі
     bn: স্ক্যান্ডিনেভিয়ার ইতিহাস
     br: istor Skandinavia
     ca: història d'Escandinàvia

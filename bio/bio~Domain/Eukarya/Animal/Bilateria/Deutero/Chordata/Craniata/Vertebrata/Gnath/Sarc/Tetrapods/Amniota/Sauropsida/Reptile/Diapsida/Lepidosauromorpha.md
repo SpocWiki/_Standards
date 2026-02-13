@@ -59,7 +59,7 @@ dv_has_:
     oc: Lepidosauromorpha
     pl: lepidozauromorfy
     pt: Lepidosauromorpha
-    pt-br: Lepidosauromorpha
+    pt_br: Lepidosauromorpha
     ro: Lepidosauromorpha
     ru: Lepidosauromorpha
     sl: Lepidosauromorpha
@@ -72,12 +72,12 @@ dv_has_:
     vo: Lepidosauromorpha
     war: Lepidosauromorpha
     zh: 鱗龍形下綱
-    zh-cn: 鳞龙形下纲
-    zh-hans: 鳞龙形下纲
-    zh-hant: 鱗龍形下綱
-    zh-hk: 鱗龍形下綱
-    zh-sg: 鳞龙形下纲
-    zh-tw: 鱗龍形下綱
+    zh_cn: 鳞龙形下纲
+    zh_hans: 鳞龙形下纲
+    zh_hant: 鱗龍形下綱
+    zh_hk: 鱗龍形下綱
+    zh_sg: 鳞龙形下纲
+    zh_tw: 鱗龍形下綱
 ---
 # [[Lepidosauromorpha]]
 

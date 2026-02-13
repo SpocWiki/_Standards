@@ -142,7 +142,7 @@ dv_has_:
     az: Fars körfəzi ölkələrinin əməkdaşlıq şurası
     ba: Фарсы ҡултығының ғәрәп дәүләттәре хеҙмәттәшлеге советы
     bar: Goif-Kooperationsrod
-    be-tarask: Рада супрацы арабскіх дзяржаваў Пэрсыдзкай затокі
+    be_tarask: Рада супрацы арабскіх дзяржаваў Пэрсыдзкай затокі
     ca: Consell de Cooperació per als Estats Àrabs del Golf
     ckb: ئەنجومەنی ھاریکاری وڵاتانی کەنداو
     cs: Rada pro spolupráci arabských států v Zálivu
@@ -150,8 +150,8 @@ dv_has_:
     de: Golf-Kooperationsrat
     el: Συμβούλιο Συνεργασίας του Κόλπου
     en: Cooperation Council for the Arab States of the Persian Gulf
-    en-ca: Cooperation Council for the Arab States of the Gulf
-    en-gb: Cooperation Council for the Arab States of the Gulf
+    en_ca: Cooperation Council for the Arab States of the Gulf
+    en_gb: Cooperation Council for the Arab States of the Gulf
     en-us: Cooperation Council for the Arab States of the Persian Gulf
     eo: Kunlabora Konsilio de Arabaj Ŝtatoj de la Golfo
     es: Consejo de Cooperación para los Estados Árabes del Golfo
@@ -190,7 +190,7 @@ dv_has_:
     pl: Rada Współpracy Zatoki Perskiej
     pnb: مجلس تعاون برائے خلیجی ملکاں
     pt: Conselho de Cooperação do Golfo
-    pt-br: Conselho de Cooperação do Golfo
+    pt_br: Conselho de Cooperação do Golfo
     ro: Consiliul de Cooperare al Golfului
     ru: Совет сотрудничества арабских государств Персидского залива
     sa: अरब देशानाम् सहयोगः
@@ -207,12 +207,12 @@ dv_has_:
     vi: Hội đồng Hợp tác vùng Vịnh
     yue: 海灣阿拉伯國家合作委員會
     zh: 海湾阿拉伯国家合作委员会
-    zh-cn: 海湾阿拉伯国家合作委员会
-    zh-hans: 海湾阿拉伯国家合作委员会
-    zh-hant: 海灣阿拉伯國家合作委員會
-    zh-hk: 海灣阿拉伯國家合作委員會
-    zh-sg: 海湾阿拉伯国家合作委员会
-    zh-tw: 海灣阿拉伯國家合作委員會
+    zh_cn: 海湾阿拉伯国家合作委员会
+    zh_hans: 海湾阿拉伯国家合作委员会
+    zh_hant: 海灣阿拉伯國家合作委員會
+    zh_hk: 海灣阿拉伯國家合作委員會
+    zh_sg: 海湾阿拉伯国家合作委员会
+    zh_tw: 海灣阿拉伯國家合作委員會
 ---
 # [[GCC(Cooperation_Council_for_the_Arab_States_of_the_Gulf)]] 
 

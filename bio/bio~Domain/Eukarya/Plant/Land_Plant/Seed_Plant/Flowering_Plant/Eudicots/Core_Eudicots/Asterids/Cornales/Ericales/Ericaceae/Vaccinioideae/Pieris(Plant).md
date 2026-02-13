@@ -88,14 +88,14 @@ dv_has_:
     mul: Pieris
     nb: Pieris
     nds: Pieris
-    nds-nl: Pieris
+    nds_nl: Pieris
     nl: Pieris
     nn: Kålsommarfuglar
     oc: Pieris
     pl: Pieris
     pms: Pieris
     pt: Pieris
-    pt-br: Pieris
+    pt_br: Pieris
     ro: Pieris
     ru: Огородные белянки
     sk: Pieris
@@ -110,9 +110,9 @@ dv_has_:
     wa: Pieris
     war: Pieris
     zh: 粉蝶屬
-    zh-cn: 粉蝶属
-    zh-hans: 粉蝶属
-    zh-tw: 粉蝶屬
+    zh_cn: 粉蝶属
+    zh_hans: 粉蝶属
+    zh_tw: 粉蝶屬
 ---
 # [[Pieris(Plant)]]  
 

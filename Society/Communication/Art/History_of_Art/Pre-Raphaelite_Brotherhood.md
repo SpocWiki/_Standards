@@ -89,7 +89,7 @@ dv_has_:
     ast: Hermandá Prerrafaelita
     avk: Dareraffaelloeva
     be: прэрафаэліты
-    be-tarask: Прэрафаэліты
+    be_tarask: Прэрафаэліты
     bg: Прерафаелити
     br: Rakrafaelouriezh
     bs: Prerafaeliti
@@ -137,8 +137,8 @@ dv_has_:
     sk: Preraffaelisti
     sl: prerafaeliti
     sr: Прерафаелити
-    sr-ec: Прерафаелити
-    sr-el: Prerafaeliti
+    sr_ec: Прерафаелити
+    sr_el: Prerafaeliti
     sv: Prerafaeliterna
     th: กลุ่มนิยมแบบก่อนราฟาเอล
     tr: Ön Raffaellocular
@@ -146,12 +146,12 @@ dv_has_:
     uz: Prerafaelitlar
     vi: Tiền Raphael
     zh: 前拉斐爾派
-    zh-cn: 前拉斐尔派
-    zh-hans: 前拉斐尔派
-    zh-hant: 前拉斐爾派
-    zh-hk: 前拉斐爾派
-    zh-sg: 前拉斐尔派
-    zh-tw: 前拉斐爾派
+    zh_cn: 前拉斐尔派
+    zh_hans: 前拉斐尔派
+    zh_hant: 前拉斐爾派
+    zh_hk: 前拉斐爾派
+    zh_sg: 前拉斐尔派
+    zh_tw: 前拉斐爾派
 ---
 # [[Pre-Raphaelite_Brotherhood]] 
 

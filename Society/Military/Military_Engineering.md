@@ -96,7 +96,7 @@ dv_has_:
     ast: inxeniería militar
     az: Mühəndis Qoşunları
     be: інжынерныя войскі
-    be-tarask: інжынэрнае войска
+    be_tarask: інжынэрнае войска
     bg: инженерни войски
     bn: সামরিক প্রকৌশল
     ca: enginyeria militar
@@ -142,8 +142,8 @@ dv_has_:
     sk: ženijné vojsko
     sl: vojaško inženirstvo
     sr: војна инжењерија
-    sr-ec: Инжењерија
-    sr-el: Inženjerija
+    sr_ec: Инжењерија
+    sr_el: Inženjerija
     sv: ingenjörstrupper
     sw: Uhandisi wa kijeshi
     ta: படைசார் பொறியியல்
@@ -156,12 +156,12 @@ dv_has_:
     war: Inhenyeriya panmilitar
     yue: 軍事工程
     zh: 軍事工程
-    zh-cn: 工兵
-    zh-hans: 工兵
-    zh-hant: 軍事工程
-    zh-hk: 工兵
-    zh-sg: 工兵
-    zh-tw: 軍事工程
+    zh_cn: 工兵
+    zh_hans: 工兵
+    zh_hant: 軍事工程
+    zh_hk: 工兵
+    zh_sg: 工兵
+    zh_tw: 軍事工程
     zu: Umngcikisho wezempi
 ---
 # [[Military_Engineering]] 

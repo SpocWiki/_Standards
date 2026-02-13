@@ -44,11 +44,11 @@ dv_has_:
     cs: axolotlovití
     cv: Амбистома йышшисем
     de: Querzahnmolche
-    de-ch: Eigentliche Querzahnmolche
+    de_ch: Eigentliche Querzahnmolche
     el: Αμβυστοματίδες
     en: Ambystomatidae
-    en-ca: Ambystomatidae
-    en-gb: Ambystomatidae
+    en_ca: Ambystomatidae
+    en_gb: Ambystomatidae
     eo: Ambystomatidae
     es: Ambystomatidae
     eu: Ambystomatidae
@@ -76,7 +76,7 @@ dv_has_:
     oc: Ambystomatidae
     pl: Ambystomowate
     pt: Ambystomatidae
-    pt-br: Ambystomatidae
+    pt_br: Ambystomatidae
     ro: Ambystomatidae
     ru: Амбистомовые
     sq: Ambystomatidae
@@ -88,9 +88,9 @@ dv_has_:
     vo: Ambystomatidae
     war: Ambystomatidae
     zh: 钝口螈科
-    zh-cn: 钝口螈科
-    zh-hans: 钝口螈科
-    zh-tw: 鈍口螈科
+    zh_cn: 钝口螈科
+    zh_hans: 钝口螈科
+    zh_tw: 鈍口螈科
 ---
 # [[Ambystomatidae]]
 

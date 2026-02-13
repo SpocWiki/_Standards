@@ -153,7 +153,7 @@ dv_has_:
     ba: Консерватизм
     bar: konservatismus
     be: кансерватызм
-    be-tarask: кансэрватызм
+    be_tarask: кансэрватызм
     bg: консерватизъм
     bn: রক্ষণশীলতাবাদ
     br: Mirouriezh
@@ -171,8 +171,8 @@ dv_has_:
     diq: Konservatizm
     el: συντηρητισμός
     en: conservatism
-    en-ca: conservatism
-    en-gb: conservatism
+    en_ca: conservatism
+    en_gb: conservatism
     eo: konservativismo
     es: conservadurismo
     et: konservatism
@@ -210,7 +210,7 @@ dv_has_:
     ko: 보수주의
     krc: Консерватизм
     ku: şopparêzî
-    ku-latn: şopparêzî
+    ku_latn: şopparêzî
     kw: Gwithyaseth
     ky: Консерватизм
     la: conservatismus
@@ -226,7 +226,7 @@ dv_has_:
     mn: Консерватизм
     mr: पुराणमतवाद
     ms: konservatisme
-    ms-arab: کونسرۏاتيسمى
+    ms_arab: کونسرۏاتيسمى
     mt: konservatiżmu
     my: ကွန်ဆာဗေးတစ် ဝါဒ
     mzn: کانسرواتیسم
@@ -244,7 +244,7 @@ dv_has_:
     pnb: کنزرویٹزم
     ps: محافظه کاري
     pt: conservadorismo
-    pt-br: conservadorismo
+    pt_br: conservadorismo
     rm: Conservatissem
     ro: conservatorism
     ru: консерватизм
@@ -263,7 +263,7 @@ dv_has_:
     so: Muxaafidnimo
     sq: Konservatizmi
     sr: конзервативизам
-    sr-ec: конзервативизам
+    sr_ec: конзервативизам
     sv: konservatism
     sw: ushikiliaji ukale
     ta: பழைமைவாதம்
@@ -286,14 +286,14 @@ dv_has_:
     yi: קאנסערוואטיזם
     yue: 保守主義
     zh: 保守主義
-    zh-cn: 保守主义
-    zh-hans: 保守主义
-    zh-hant: 保守主義
-    zh-hk: 保守主義
-    zh-mo: 保守主義
+    zh_cn: 保守主义
+    zh_hans: 保守主义
+    zh_hant: 保守主義
+    zh_hk: 保守主義
+    zh_mo: 保守主義
     zh-my: 保守主义
-    zh-sg: 保守主义
-    zh-tw: 保守主義
+    zh_sg: 保守主义
+    zh_tw: 保守主義
 ---
 # [[Conservatism]] 
 

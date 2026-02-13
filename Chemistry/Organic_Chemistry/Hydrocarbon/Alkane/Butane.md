@@ -133,7 +133,7 @@ dv_has_:
     az: Butan
     azb: بوتان
     be: Бутан
-    be-tarask: бутан
+    be_tarask: бутан
     bg: бутан
     bn: বিউটেন
     bs: Butan
@@ -166,8 +166,8 @@ dv_has_:
     kn: ಬುಟೇನ್
     ko: 뷰테인
     ku: Bûtan
-    ku-arab: بووتان
-    ku-latn: Bûtan
+    ku_arab: بووتان
+    ku_latn: Bûtan
     la: butanum
     lb: Butan
     lt: Butanas
@@ -194,8 +194,8 @@ dv_has_:
     smn: buutaan
     sms: butaan
     sr: бутан
-    sr-ec: Бутан
-    sr-el: Butan
+    sr_ec: Бутан
+    sr_el: Butan
     stq: Butan
     sv: butan
     ta: பியூட்டேன்
@@ -210,12 +210,12 @@ dv_has_:
     wuu: 丁烷
     yue: 丁烷
     zh: 丁烷
-    zh-cn: 丁烷
-    zh-hans: 丁烷
-    zh-hant: 丁烷
-    zh-hk: 丁烷
-    zh-sg: 丁烷
-    zh-tw: 丁烷
+    zh_cn: 丁烷
+    zh_hans: 丁烷
+    zh_hant: 丁烷
+    zh_hk: 丁烷
+    zh_sg: 丁烷
+    zh_tw: 丁烷
 dv_is_:
   same_as:
   - '[[../../../../WikiData/WD~Butane,134192|WD~Butane,134192]]'

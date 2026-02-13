@@ -8,7 +8,7 @@ dv_has_:
     az: Maastrixt sazişi
     ba: Маастрихт договоры
     be: Маастрыхцкая дамова
-    be-tarask: Маастрыхцкая дамова
+    be_tarask: Маастрыхцкая дамова
     bg: Договор от Маастрихт
     ca: Tractat de Maastricht
     co: Trattatu di Maastricht
@@ -18,8 +18,8 @@ dv_has_:
     de: Vertrag von Maastricht
     el: Συνθήκη του Μάαστριχτ
     en: Maastricht Treaty
-    en-ca: Maastricht Treaty
-    en-gb: Maastricht Treaty
+    en_ca: Maastricht Treaty
+    en_gb: Maastricht Treaty
     eo: Traktato de Mastriĥto
     es: Tratado de Maastricht
     et: Maastrichti leping
@@ -82,9 +82,9 @@ dv_has_:
     wuu: 马斯特里赫特条约
     yue: 歐洲聯盟條約
     zh: 马斯特里赫特条约
-    zh-cn: 马斯特里赫特条约
-    zh-hans: 马斯特里赫特条约
-    zh-hant: 马斯特里赫特条约
+    zh_cn: 马斯特里赫特条约
+    zh_hans: 马斯特里赫特条约
+    zh_hant: 马斯特里赫特条约
   time_:
     started: 1993-11-01T00:00:00.000+01:00
 dv_is_:

@@ -83,7 +83,7 @@ dv_has_:
     ast: Derechu públicu
     az: İctimai hüquq
     be: публічнае права
-    be-tarask: публічнае права
+    be_tarask: публічнае права
     bg: Публично право
     ca: dret públic
     cs: veřejné právo
@@ -117,7 +117,7 @@ dv_has_:
     lv: publiskās tiesības
     mk: јавно право
     ms: undang-undang awam
-    ms-arab: اوندڠ٢ عوام
+    ms_arab: اوندڠ٢ عوام
     mwl: Dreito público
     nb: offentlig rett
     nl: publiekrecht
@@ -142,14 +142,14 @@ dv_has_:
     yo: Ofin ti gbogbo eniyan
     yue: 公法
     zh: 公法
-    zh-cn: 公法
-    zh-hans: 公法
-    zh-hant: 公法
-    zh-hk: 公法
-    zh-mo: 公法
+    zh_cn: 公法
+    zh_hans: 公法
+    zh_hant: 公法
+    zh_hk: 公法
+    zh_mo: 公法
     zh-my: 公法
-    zh-sg: 公法
-    zh-tw: 公法
+    zh_sg: 公法
+    zh_tw: 公法
 ---
 # [[Public_Law]] 
 

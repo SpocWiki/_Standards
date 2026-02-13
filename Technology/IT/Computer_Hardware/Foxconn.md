@@ -6,7 +6,7 @@ dv_has_:
     az: Foxconn
     azb: فاکسکان
     be: Foxconn
-    be-tarask: Foxconn
+    be_tarask: Foxconn
     bg: Foxconn
     bn: ফক্সকন
     bs: Foxconn
@@ -15,11 +15,11 @@ dv_has_:
     cs: Foxconn
     da: Foxconn
     de: Foxconn
-    de-ch: Foxconn
+    de_ch: Foxconn
     el: Foxconn
     en: Foxconn
-    en-ca: Foxconn
-    en-gb: Foxconn
+    en_ca: Foxconn
+    en_gb: Foxconn
     eo: Foxconn
     es: Foxconn
     et: Foxconn
@@ -50,7 +50,7 @@ dv_has_:
     or: ଫକ୍ସକନ୍ନ
     pl: Foxconn
     pt: Foxconn
-    pt-br: Foxconn
+    pt_br: Foxconn
     ro: Foxconn
     ru: Foxconn
     sah: Foxconn
@@ -63,7 +63,7 @@ dv_has_:
     th: ฟ็อกซ์คอนน์
     tr: Foxconn
     tt: Foxconn
-    tt-cyrl: Foxconn
+    tt_cyrl: Foxconn
     uk: Foxconn
     ur: فاکسکن ٹیکنالوجی کمپنی
     uz: Foxconn kompaniyasi
@@ -72,12 +72,12 @@ dv_has_:
     wuu: 鸿海科技集团
     yue: 鴻海
     zh: 鴻海科技集團
-    zh-cn: 鸿海科技集团
-    zh-hans: 鸿海科技集团
-    zh-hant: 鴻海科技集團
-    zh-hk: 鴻海科技集團
-    zh-sg: 鸿海科技集团
-    zh-tw: 鴻海科技集團
+    zh_cn: 鸿海科技集团
+    zh_hans: 鸿海科技集团
+    zh_hant: 鴻海科技集團
+    zh_hk: 鴻海科技集團
+    zh_sg: 鸿海科技集团
+    zh_tw: 鴻海科技集團
 aliases:
 - Foxconn
 - Foxconn kompaniyasi

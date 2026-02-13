@@ -52,18 +52,18 @@ dv_has_:
     az: Mərhəmət kvantı
     azb: مرحمت کوانتومو
     be: Квант суцяшэння
-    be-tarask: Квант суцяшэньня
+    be_tarask: Квант суцяшэньня
     bg: Спектър на утехата
     ca: Quantum of Solace
     cs: Quantum of Solace
     cy: Quantum of Solace
     da: Quantum of Solace
     de: 'James Bond 007: Ein Quantum Trost'
-    de-ch: 'James Bond 007: Ein Quantum Trost'
+    de_ch: 'James Bond 007: Ein Quantum Trost'
     el: Quantum of Solace
     en: Quantum of Solace
-    en-ca: Quantum of Solace
-    en-gb: Quantum of Solace
+    en_ca: Quantum of Solace
+    en_gb: Quantum of Solace
     es: Quantum of Solace
     et: '007: Veidi lohutust'
     eu: Quantum of Solace
@@ -96,7 +96,7 @@ dv_has_:
     nn: Quantum of Solace
     pl: 007 Quantum of Solace
     pt: 007 - Quantum of Solace
-    pt-br: 007 - Quantum of Solace
+    pt_br: 007 - Quantum of Solace
     ro: '007: Partea lui de consolare'
     ru: Квант милосердия
     sh: Quantum of Solace
@@ -104,8 +104,8 @@ dv_has_:
     sl: Kvantum sočutja
     sq: Quantum of Solace
     sr: Зрно утехе
-    sr-ec: Зрно утехе
-    sr-el: Zrno utehe
+    sr_ec: Зрно утехе
+    sr_el: Zrno utehe
     sv: Quantum of Solace
     th: 007 พยัคฆ์ร้ายทวงแค้นระห่ำโลก
     tr: Quantum of Solace
@@ -117,12 +117,12 @@ dv_has_:
     xmf: მუთა მოლექინაფა
     yue: 新鐵金剛之量子殺機
     zh: 新鐵金剛之量子殺機
-    zh-cn: 007：大破量子危机
-    zh-hans: 007大破量子危机
-    zh-hant: 007量子危機
-    zh-hk: 新鐵金剛之量子殺機
-    zh-sg: 007量子危机
-    zh-tw: 007量子危機
+    zh_cn: 007：大破量子危机
+    zh_hans: 007大破量子危机
+    zh_hant: 007量子危機
+    zh_hk: 新鐵金剛之量子殺機
+    zh_sg: 007量子危机
+    zh_tw: 007量子危機
 ---
 #has_/time_/started :: 2008-10-29 
 

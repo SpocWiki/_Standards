@@ -26,7 +26,7 @@ dv_has_:
     azb: دوپامین
     ban: Dopamin
     be: дафамін
-    be-tarask: дафамін
+    be_tarask: дафамін
     bg: Допамин
     bn: ডোপামিন
     bs: Dopamin
@@ -80,15 +80,15 @@ dv_has_:
     pa: ਡੋਪਾਮਾਇਨ
     pl: dopamina
     pt: dopamina
-    pt-br: dopamina
+    pt_br: dopamina
     ro: dopamină
     ru: дофамин
     sh: Dopamin
     sk: Dopamín
     sl: dopamin
     sr: допамин
-    sr-ec: Допамин
-    sr-el: Dopamin
+    sr_ec: Допамин
+    sr_el: Dopamin
     su: Dopamin
     sv: dopamin
     sw: Dopamini
@@ -105,12 +105,12 @@ dv_has_:
     wuu: 多巴胺
     yue: 多巴胺
     zh: 多巴胺
-    zh-cn: 多巴胺
-    zh-hans: 多巴胺
-    zh-hant: 多巴胺
-    zh-hk: 多巴胺
-    zh-sg: 多巴胺
-    zh-tw: 多巴胺
+    zh_cn: 多巴胺
+    zh_hans: 多巴胺
+    zh_hant: 多巴胺
+    zh_hk: 多巴胺
+    zh_sg: 多巴胺
+    zh_tw: 多巴胺
 aliases:
 - dofamīns
 - dopaimín

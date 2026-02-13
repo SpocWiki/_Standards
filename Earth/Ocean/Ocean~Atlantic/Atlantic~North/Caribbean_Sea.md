@@ -365,7 +365,7 @@ dv_has_:
     bar: Karibischs Meer
     bcl: Dagat Karibe
     be: Карыбскае мора
-    be-tarask: Карыбскае мора
+    be_tarask: Карыбскае мора
     bg: Карибско море
     bho: कैरेबियन सागर
     bm: Karayibu Ji
@@ -374,7 +374,7 @@ dv_has_:
     bs: Karipsko more
     bxr: Кариб тэнгис
     ca: mar Carib
-    cbk-zam: Mar Caribe
+    cbk_zam: Mar Caribe
     cdo: Caribe Hāi
     ce: Карибан хӀорд
     ceb: Dagat Caribbean
@@ -389,8 +389,8 @@ dv_has_:
     dsb: Karibiske mórjo
     el: Καραϊβική Θάλασσα
     en: Caribbean Sea
-    en-ca: Caribbean Sea
-    en-gb: Caribbean Sea
+    en_ca: Caribbean Sea
+    en_gb: Caribbean Sea
     en-us: Caribbean Sea
     eo: Kariba Maro
     es: Mar Caribe
@@ -466,7 +466,7 @@ dv_has_:
     mr: कॅरिबियन समुद्र
     mrj: Кариб тангыж
     ms: Laut Kariba
-    ms-arab: لاءوت کاريبا
+    ms_arab: لاءوت کاريبا
     mul: Caribbean Sea
     my: ကာရစ်ဘီယံ ပင်လယ်
     mzn: کارائیب دریا
@@ -488,7 +488,7 @@ dv_has_:
     pms: Mar dij Caràib
     pnb: بحیرہ کیریبین
     pt: Mar das Caraíbas
-    pt-br: Mar do Caribe
+    pt_br: Mar do Caribe
     ro: Marea Caraibilor
     roa-tara: Mare Caraibeche
     ru: Карибское море
@@ -537,9 +537,9 @@ dv_has_:
     yue: 加勒比海
     zgh: ⵉⵍⵍ ⴰⴽⴰⵔⵉⴱⵉ
     zh: 加勒比海
-    zh-hant: 加勒比海
-    zh-hk: 加勒比海
-    zh-tw: 加勒比海
+    zh_hant: 加勒比海
+    zh_hk: 加勒比海
+    zh_tw: 加勒比海
 ---
 # [[Caribbean_Sea]] 
 

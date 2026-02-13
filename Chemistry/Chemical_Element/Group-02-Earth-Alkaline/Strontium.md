@@ -187,7 +187,7 @@ dv_has_:
     ban: strontium
     bcl: estronsiyo
     be: стронцый
-    be-tarask: стронц
+    be_tarask: стронц
     bg: стронций
     bho: स्ट्रॉन्सियम
     bn: স্ট্রনশিয়াম
@@ -206,7 +206,7 @@ dv_has_:
     de: Strontium
     el: στρόντιο
     en: strontium
-    en-gb: strontium
+    en_gb: strontium
     eo: stroncio
     es: estroncio
     et: strontsium
@@ -289,7 +289,7 @@ dv_has_:
     pnb: سٹرونٹیم
     ps: سټرونټيوم
     pt: estrôncio
-    pt-br: estrôncio
+    pt_br: estrôncio
     qu: istronsyu
     ro: stronțiu
     ru: стронций
@@ -308,7 +308,7 @@ dv_has_:
     so: istoroontiyaam
     sq: stronciumi
     sr: стронцијум
-    sr-ec: стронцијум
+    sr_ec: стронцијум
     stq: strontium
     su: stronsium
     sv: strontium
@@ -336,10 +336,10 @@ dv_has_:
     yo: stróńtíọ̀mù
     yue: 鍶
     zh: 锶
-    zh-hans: 锶
-    zh-hant: 鍶
-    zh-hk: 鍶
-    zh-tw: 鍶
+    zh_hans: 锶
+    zh_hant: 鍶
+    zh_hk: 鍶
+    zh_tw: 鍶
     zu: ISolombi
   number_of_:
     period: 5

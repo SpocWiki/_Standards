@@ -143,7 +143,7 @@ dv_has_:
     az: Rey Çarlz
     azb: ری چارلز
     be: Рэй Чарльз
-    be-tarask: Рэй Чарлз
+    be_tarask: Рэй Чарлз
     bg: Рей Чарлс
     br: Ray Charles
     ca: Ray Charles
@@ -198,7 +198,7 @@ dv_has_:
     pap: Ray Charles
     pl: Ray Charles
     pt: Ray Charles
-    pt-br: Ray Charles
+    pt_br: Ray Charles
     ro: Ray Charles
     ru: Рэй Чарлз
     scn: Ray Charles
@@ -208,7 +208,7 @@ dv_has_:
     sl: Ray Charles
     sq: Ray Charles
     sr: Реј Чарлс
-    sr-ec: Реј Чарлс
+    sr_ec: Реј Чарлс
     sv: Ray Charles
     ta: ரே சார்ல்ஸ்
     th: เรย์ ชาลส์
@@ -225,7 +225,7 @@ dv_has_:
     yo: Ray Charles
     yue: 雷·查理士
     zh: 雷·查尔斯
-    zh-hk: 雷·查理士
+    zh_hk: 雷·查理士
 ---
 # [[Ray_Charles]] 
 

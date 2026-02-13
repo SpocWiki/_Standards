@@ -31,7 +31,7 @@ dv_has_:
     nl: backroniem
     pl: akronim wtórny
     pt: retroacrónimo
-    pt-br: retroacrônimo
+    pt_br: retroacrônimo
     ru: бэкроним
     sr: Бекроним
     su: kirata

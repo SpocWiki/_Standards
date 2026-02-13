@@ -109,7 +109,7 @@ dv_has_:
     az: Fiziki antropologiya
     ba: Физик антропология
     be: Фізічная антрапалогія
-    be-tarask: біялягічная антрапалёгія
+    be_tarask: біялягічная антрапалёгія
     bg: Физическа антропология
     bjn: Antropologi fisik
     bn: জৈবিক নৃবিজ্ঞান
@@ -170,8 +170,8 @@ dv_has_:
     sms: fysikaalʼlaž antropologia
     sq: antropologjia fizike
     sr: физичка антропологија
-    sr-ec: физичка антропологија
-    sr-el: fizička antropologija
+    sr_ec: физичка антропологија
+    sr_el: fizička antropologija
     sv: fysisk antropologi
     ta: உடல்சார் மானிடவியல்
     th: มานุษยวิทยากายภาพ
@@ -184,8 +184,8 @@ dv_has_:
     vls: Biologische antropologie
     yue: 生物人類學
     zh: 体质人类学
-    zh-hant: 體質人類學
-    zh-tw: 體質人類學
+    zh_hant: 體質人類學
+    zh_tw: 體質人類學
 ---
 # [[Biological_Anthropology]] 
 

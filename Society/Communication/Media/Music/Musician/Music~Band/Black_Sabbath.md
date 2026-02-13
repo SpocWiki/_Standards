@@ -10,7 +10,7 @@ dv_has_:
     azb: بلک سبث
     ban: Black Sabbath
     be: Black Sabbath
-    be-tarask: Black Sabbath
+    be_tarask: Black Sabbath
     bg: Блек Сабат
     bn: ব্ল্যাক সাবাথ
     bs: Black Sabbath
@@ -22,8 +22,8 @@ dv_has_:
     el: Black Sabbath
     eml: Black Sabbath
     en: Black Sabbath
-    en-ca: Black Sabbath
-    en-gb: Black Sabbath
+    en_ca: Black Sabbath
+    en_gb: Black Sabbath
     eo: Black Sabbath
     es: Black Sabbath
     et: Black Sabbath
@@ -66,7 +66,7 @@ dv_has_:
     oc: Black Sabbath
     pl: Black Sabbath
     pt: Black Sabbath
-    pt-br: Black Sabbath
+    pt_br: Black Sabbath
     ro: Black Sabbath
     ru: Black Sabbath
     sc: Black Sabbath

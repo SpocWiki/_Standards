@@ -174,7 +174,7 @@ dv_has_:
     ban: rubidium
     bcl: rubidyo
     be: рубідый
-    be-tarask: рубід
+    be_tarask: рубід
     bg: рубидий
     bho: रुबिडियम
     bn: রুবিডিয়াম
@@ -193,7 +193,7 @@ dv_has_:
     de: Rubidium
     el: ρουβίδιο
     en: rubidium
-    en-gb: rubidium
+    en_gb: rubidium
     eo: rubidio
     es: rubidio
     et: rubiidium
@@ -274,7 +274,7 @@ dv_has_:
     pnb: روبیڈیم
     ps: روبيډيوم
     pt: rubídio
-    pt-br: rubídio
+    pt_br: rubídio
     qu: rubidyu
     ro: rubidiu
     ru: рубидий
@@ -320,10 +320,10 @@ dv_has_:
     yo: rúbídíọ̀mù
     yue: 銣
     zh: 銣
-    zh-hans: 铷
-    zh-hant: 銣
-    zh-hk: 銣
-    zh-tw: 銣
+    zh_hans: 铷
+    zh_hant: 銣
+    zh_hk: 銣
+    zh_tw: 銣
     zu: ILubimbo
   number_of_:
     period: 5

@@ -191,7 +191,7 @@ dv_has_:
     azb: جیمز استوارت
     ba: Джеймс Стюарт
     be: Джэймс Сцюарт
-    be-tarask: Джэймз Ст’юарт
+    be_tarask: Джэймз Ст’юарт
     bg: Джеймс Стюърт
     bi: James Stewart
     bn: জেমস স্টুয়ার্ট
@@ -203,13 +203,13 @@ dv_has_:
     cy: James Stewart
     da: James Stewart
     de: James Stewart
-    de-ch: James Stewart
+    de_ch: James Stewart
     diq: James Stewart
     el: Τζέιμς Στιούαρτ
     eml: James Stewart
     en: James Stewart
-    en-ca: James Stewart
-    en-gb: James Stewart
+    en_ca: James Stewart
+    en_gb: James Stewart
     eo: James Stewart
     es: James Stewart
     et: James Stewart
@@ -254,7 +254,7 @@ dv_has_:
     pap: James Stewart
     pl: James Stewart
     pt: James Stewart
-    pt-br: James Stewart
+    pt_br: James Stewart
     qu: James Stewart
     ro: James Stewart
     ru: Джеймс Стюарт
@@ -264,8 +264,8 @@ dv_has_:
     sl: James Stewart
     sq: James Stewart
     sr: Џејмс Стјуарт
-    sr-ec: Џејмс Стјуарт
-    sr-el: Džejms Stjuart
+    sr_ec: Џејмс Стјуарт
+    sr_el: Džejms Stjuart
     sv: James Stewart
     sw: James Stewart
     ta: ஜேம்ஸ் ஸ்டுவர்ட்
@@ -281,12 +281,12 @@ dv_has_:
     yo: James Stewart
     yue: 占士史超活
     zh: 詹姆斯·史都華
-    zh-cn: 詹姆斯·斯图尔特
-    zh-hans: 詹姆斯·斯图尔特
-    zh-hant: 詹姆斯·史都華
-    zh-hk: 占士·史超活
-    zh-sg: 詹士·史都华
-    zh-tw: 詹姆斯·史都華
+    zh_cn: 詹姆斯·斯图尔特
+    zh_hans: 詹姆斯·斯图尔特
+    zh_hant: 詹姆斯·史都華
+    zh_hk: 占士·史超活
+    zh_sg: 詹士·史都华
+    zh_tw: 詹姆斯·史都華
 ---
 # [[James_Stewart]] 
 

@@ -125,7 +125,7 @@ dv_has_:
     az: Milli Basketbol Assosiasiyası
     bcl: National Basketball Association
     be: Нацыянальная баскетбольная асацыяцыя
-    be-tarask: Нацыянальная баскетбольная асацыяцыя
+    be_tarask: Нацыянальная баскетбольная асацыяцыя
     bg: Национална баскетболна асоциация
     br: National Basketball Association
     bs: NBA
@@ -177,7 +177,7 @@ dv_has_:
     pa: ਨੈਸ਼ਨਲ ਬਾਸਕਟਬਾਲ ਐਸੋਸੀਏਸ਼ਨ
     pl: National Basketball Association
     pt: National Basketball Association
-    pt-br: National Basketball Association
+    pt_br: National Basketball Association
     ro: National Basketball Association
     ru: Национальная баскетбольная ассоциация
     scn: National Basketball Association

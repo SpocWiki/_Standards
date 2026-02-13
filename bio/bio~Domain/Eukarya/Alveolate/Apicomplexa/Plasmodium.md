@@ -67,8 +67,8 @@ dv_has_:
     da: Plasmodium
     de: Plasmodium
     el: Πλασμώδιο
-    en-ca: Plasmodium
-    en-gb: Plasmodium
+    en_ca: Plasmodium
+    en_gb: Plasmodium
     eo: Plasmodio
     es: Plasmodium
     es-419: Plasmodium
@@ -111,15 +111,15 @@ dv_has_:
     oc: Plasmodium
     pl: zarodziec
     pt: Plasmodium
-    pt-br: Plasmodium
+    pt_br: Plasmodium
     ro: Plasmodium
     ru: Плазмодии
     sco: Plasmodium
     sl: Plasmodium
     sq: Plasmodium
     sr: Plasmodium
-    sr-ec: Plasmodium
-    sr-el: Plasmodium
+    sr_ec: Plasmodium
+    sr_el: Plasmodium
     sv: Plasmodium
     ta: பிளாஸ்மோடியம்
     th: พลาสโมเดียม
@@ -129,12 +129,12 @@ dv_has_:
     war: Plasmodium
     yue: 瘧原蟲
     zh: 瘧原蟲屬
-    zh-cn: 疟原虫属
-    zh-hans: 疟原虫属
-    zh-hant: 瘧原蟲
-    zh-hk: 瘧原蟲
-    zh-sg: 疟原虫
-    zh-tw: 瘧原蟲屬
+    zh_cn: 疟原虫属
+    zh_hans: 疟原虫属
+    zh_hant: 瘧原蟲
+    zh_hk: 瘧原蟲
+    zh_sg: 疟原虫
+    zh_tw: 瘧原蟲屬
 ---
 # [[Plasmodium]] 
 

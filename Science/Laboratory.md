@@ -110,7 +110,7 @@ dv_has_:
     azb: لابراتور
     ba: Лаборатория
     be: Лабараторыя
-    be-tarask: лябараторыя
+    be_tarask: лябараторыя
     bew: Pangkèng gawé
     bg: Лаборатория
     bn: পরীক্ষাগার
@@ -149,9 +149,9 @@ dv_has_:
     ka: ლაბორატორია
     ki: Rĩakĩthiga
     kk: Зертхана
-    kk-arab: زەرتحانا
-    kk-cyrl: Зертхана
-    kk-latn: Zertxana
+    kk_arab: زەرتحانا
+    kk_cyrl: Зертхана
+    kk_latn: Zertxana
     ko: 연구실
     ku: Taqîgeh
     ky: Лаборатория
@@ -172,7 +172,7 @@ dv_has_:
     pnt: αργαστέρ'
     ps: ازمېښتون
     pt: laboratório
-    pt-br: laboratório
+    pt_br: laboratório
     qu: Hamut'ay wasi
     ro: laborator
     ru: лаборатория
@@ -187,8 +187,8 @@ dv_has_:
     sms: laboratorio
     sq: laborator
     sr: лабораторија
-    sr-ec: лабораторија
-    sr-el: laboratorija
+    sr_ec: лабораторија
+    sr_el: laboratorija
     su: Laboratorium
     sv: laboratorium
     sw: Maabara
@@ -207,10 +207,10 @@ dv_has_:
     za: fuengzsaedniemh
     zgh: ⴰⵙⴰⵔⵎ
     zh: 实验室
-    zh-hans: 实验室
-    zh-hant: 實驗室
-    zh-hk: 實驗室
-    zh-tw: 實驗室
+    zh_hans: 实验室
+    zh_hant: 實驗室
+    zh_hk: 實驗室
+    zh_tw: 實驗室
     zu: INgqalaba
 ---
 # [[Laboratory]] 

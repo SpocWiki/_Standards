@@ -75,7 +75,7 @@ dv_has_:
   name_:
     ar: بركان غائص
     ast: Volcán submarín
-    be-tarask: падводны вулькан
+    be_tarask: падводны вулькан
     bg: Подводен вулкан
     ca: volcà submarí
     cs: podmořská sopka
@@ -97,9 +97,9 @@ dv_has_:
     it: vulcano sottomarino
     ja: 海底火山
     kk: Су асты вулканизмі
-    kk-arab: سۋ استى ۆۋلكانىيزمى
-    kk-cyrl: Су асты вулканизмі
-    kk-latn: Sw astı vwlkanïzmi
+    kk_arab: سۋ استى ۆۋلكانىيزمى
+    kk_cyrl: Су асты вулканизмі
+    kk_latn: Sw astı vwlkanïzmi
     kn: ಜಲಾಂತಾರ್ಗಾಮಿ ಜ್ವಾಲಾಮುಖಿ
     ko: 해저화산
     mk: Подводен вулкан
@@ -125,10 +125,10 @@ dv_has_:
     wuu: 海底火山
     yue: 海底火山
     zh: 海底火山
-    zh-hans: 海底火山
-    zh-hant: 海底火山
-    zh-hk: 海底火山
-    zh-tw: 海底火山
+    zh_hans: 海底火山
+    zh_hant: 海底火山
+    zh_hk: 海底火山
+    zh_tw: 海底火山
 ---
 # [[Submarine_Volcano]] 
 

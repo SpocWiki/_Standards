@@ -23,7 +23,7 @@ dv_has_:
     az: Oksitosin
     azb: اوکسیتوسین
     be: аксітацын
-    be-tarask: Аксытацын
+    be_tarask: Аксытацын
     bg: Окситоцин
     bn: অক্সিটোসিন
     bs: Oksitocin
@@ -56,16 +56,16 @@ dv_has_:
     ja: オキシトシン
     ka: ოქსიტოცინი
     kk: Окситоцин
-    kk-arab: وكسىيتوتسىين
+    kk_arab: وكسىيتوتسىين
     kk-cn: وكسىيتوتسىين
-    kk-cyrl: Окситоцин
+    kk_cyrl: Окситоцин
     kk-kz: Окситоцин
-    kk-latn: Oksïtocïn
+    kk_latn: Oksïtocïn
     kk-tr: Oksïtocïn
     kn: ಆಕ್ಸಿಟೋಸಿನ್
     ko: 옥시토신
     ku: Oksîtosîn
-    ku-latn: oksîtosîn
+    ku_latn: oksîtosîn
     ky: Окситоцин
     la: Oxytocinum
     lt: Oksitocinas
@@ -89,8 +89,8 @@ dv_has_:
     so: Oksiitoosiin
     sq: Oksitocina
     sr: окситоцин
-    sr-ec: Окситоцин
-    sr-el: Oksitocin
+    sr_ec: Окситоцин
+    sr_el: Oksitocin
     su: Oksitosin
     sv: oxytocin
     ta: ஆக்சிடாசின்
@@ -102,12 +102,12 @@ dv_has_:
     wuu: 催产素
     yue: 催產素
     zh: 催产素
-    zh-cn: 催产素
-    zh-hans: 催产素
-    zh-hant: 催產素
-    zh-hk: 催產素
-    zh-sg: 催产素
-    zh-tw: 催產素
+    zh_cn: 催产素
+    zh_hans: 催产素
+    zh_hant: 催產素
+    zh_hk: 催產素
+    zh_sg: 催产素
+    zh_tw: 催產素
 aliases:
 - ocitocina
 - ocsaiteoisin

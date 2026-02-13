@@ -62,7 +62,7 @@ dv_has_:
     ar: إطار مرجعي عطالي
     az: Ətalət hesablama sistemi
     be: інерцыяльная сістэма адліку
-    be-tarask: інэрцыйная сыстэма адліку
+    be_tarask: інэрцыйная сыстэма адліку
     bho: जड़ परसंग परनालि
     bn: জড় প্রসঙ্গ কাঠামো
     bs: Inercijalni referentni okvir
@@ -113,12 +113,12 @@ dv_has_:
     vi: Hệ quy chiếu quán tính
     yue: 慣性參考系
     zh: 惯性参考系
-    zh-cn: 惯性参考系
-    zh-hans: 惯性参考系
-    zh-hant: 慣性參考系
-    zh-hk: 慣性參考系
-    zh-sg: 惯性参考系
-    zh-tw: 慣性參考系
+    zh_cn: 惯性参考系
+    zh_hans: 惯性参考系
+    zh_hant: 慣性參考系
+    zh_hk: 慣性參考系
+    zh_sg: 惯性参考系
+    zh_tw: 慣性參考系
 ---
 # [[Inertial_Reference_Frame]] 
 

@@ -18,9 +18,9 @@ dv_has_:
     ru: Ультиматум (игра)
     yue: 最後通牒博弈
     zh: 最後通牒賽局
-    zh-hans: 最后通牒赛局
-    zh-hant: 最後通牒賽局
-    zh-hk: 最後通牒賽局
+    zh_hans: 最后通牒赛局
+    zh_hant: 最後通牒賽局
+    zh_hk: 最後通牒賽局
 aliases:
 - gioco dell'ultimatum
 - jeu de l'ultimatum

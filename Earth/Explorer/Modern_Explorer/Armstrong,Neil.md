@@ -217,7 +217,7 @@ dv_has_:
     bar: Neil Armstrong
     bcl: Neil Armstrong
     be: Ніл Армстранг
-    be-tarask: Ніл Армстранг
+    be_tarask: Ніл Армстранг
     bg: Нийл Армстронг
     bho: नील आर्मस्ट्रांग
     bn: নিল আর্মস্ট্রং
@@ -237,13 +237,13 @@ dv_has_:
     dag: Neil Armstrong
     de: Neil Armstrong
     de-at: Neil Armstrong
-    de-ch: Neil Armstrong
+    de_ch: Neil Armstrong
     diq: Neil Armstrong
     el: Νιλ Άρμστρονγκ
     eml: Neil Armstrong
     en: Neil Armstrong
-    en-ca: Neil Armstrong
-    en-gb: Neil Armstrong
+    en_ca: Neil Armstrong
+    en_gb: Neil Armstrong
     eo: Neil Armstrong
     es: Neil Armstrong
     es-419: Neil Armstrong
@@ -322,7 +322,7 @@ dv_has_:
     nap: Neil Armstrong
     nb: Neil Armstrong
     nds: Neil Armstrong
-    nds-nl: Neil Armstrong
+    nds_nl: Neil Armstrong
     ne: नील आर्मस्ट्रङ
     new: नील आर्मस्ट्रंग
     nl: Neil Armstrong
@@ -339,7 +339,7 @@ dv_has_:
     pnb: نیل آرمسٹرانگ
     ps: نيل ارمسټرانگ
     pt: Neil Armstrong
-    pt-br: Neil Armstrong
+    pt_br: Neil Armstrong
     qu: Neil Armstrong
     rm: Neil Armstrong
     ro: Neil Armstrong
@@ -361,7 +361,7 @@ dv_has_:
     so: Nayl armistaroong
     sq: Neil Armstrong
     sr: Нил Армстронг
-    sr-el: Neil Armstrong
+    sr_el: Neil Armstrong
     sv: Neil Armstrong
     sw: Neil Armstrong
     szl: Neil Armstrong
@@ -392,11 +392,11 @@ dv_has_:
     yue: 杭思朗
     za: Neil Armstrong
     zh: 尼尔·阿姆斯特朗
-    zh-cn: 尼尔·阿姆斯特朗
-    zh-hans: 尼尔·阿姆斯特朗
-    zh-hant: 尼爾·阿姆斯壯
-    zh-hk: 尼爾岩士唐
-    zh-tw: 尼爾·阿姆斯壯
+    zh_cn: 尼尔·阿姆斯特朗
+    zh_hans: 尼尔·阿姆斯特朗
+    zh_hant: 尼爾·阿姆斯壯
+    zh_hk: 尼爾岩士唐
+    zh_tw: 尼爾·阿姆斯壯
     zu: Neil Armstrong
 ---
 # [[Armstrong,Neil]] 

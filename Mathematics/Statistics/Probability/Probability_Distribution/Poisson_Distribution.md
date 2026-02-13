@@ -101,18 +101,18 @@ dv_has_:
     ast: distribución de Poisson
     azb: پواسون داغیلیمی
     be: размеркаванне Пуасона
-    be-tarask: разьмеркаваньне Пуасона
+    be_tarask: разьмеркаваньне Пуасона
     bg: разпределение на Поасон
     bn: পয়সোঁ বিন্যাস
     ca: Distribució de Poisson
     cs: Poissonovo rozdělení
     da: Poissonfordeling
     de: Poisson-Verteilung
-    de-ch: Poisson-Verteilung
+    de_ch: Poisson-Verteilung
     el: Κατανομή Πουασσόν
     en: Poisson distribution
-    en-ca: Poisson distribution
-    en-gb: Poisson distribution
+    en_ca: Poisson distribution
+    en_gb: Poisson distribution
     eo: distribuo de Poisson
     es: distribución de Poisson
     et: Poissoni jaotus
@@ -141,7 +141,7 @@ dv_has_:
     nov: distributione de Poisson
     pl: rozkład Poissona
     pt: distribuição de Poisson
-    pt-br: distribuição de Poisson
+    pt_br: distribuição de Poisson
     ro: distribuție Poisson
     ru: распределение Пуассона
     sk: Poissonovo rozdelenie

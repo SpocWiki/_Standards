@@ -48,7 +48,7 @@ dv_has_:
     oc: Oryzorictes
     pl: Ryżorek
     pt: Oryzorictes
-    pt-br: Oryzorictes
+    pt_br: Oryzorictes
     ro: Oryzorictes
     ru: Oryzorictes
     sq: Oryzorictes

@@ -120,7 +120,7 @@ dv_has_:
     ast: alpinismu
     az: Alpinizm
     be: альпінізм
-    be-tarask: альпінізм
+    be_tarask: альпінізм
     bg: Алпинизъм
     bn: পর্বতারোহণ
     bs: alpinizam
@@ -192,8 +192,8 @@ dv_has_:
     sl: alpinizem
     sq: Alpinizmi
     sr: планинарење
-    sr-ec: планинарење
-    sr-el: planinarenje
+    sr_ec: планинарење
+    sr_el: planinarenje
     sv: bergsbestigning
     ta: மலையேற்றம்
     te: పర్వతారోహణం
@@ -210,8 +210,8 @@ dv_has_:
     xmf: ალპინიზმი
     yue: 爬山
     zh: 登山运动
-    zh-hans: 登山运动
-    zh-hant: 登山運動
+    zh_hans: 登山运动
+    zh_hant: 登山運動
 ---
 # [[Mountaineering]] 
 

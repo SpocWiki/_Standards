@@ -54,7 +54,7 @@ dv_has_:
     ar: موسيقى شلاغر
     ast: Schlager
     be: шлягер
-    be-tarask: шлягер
+    be_tarask: шлягер
     bg: шлагер
     br: Schlager
     bs: šlager
@@ -101,10 +101,10 @@ dv_has_:
     uk: шлягер
     yi: שלעגער
     zh: 施拉格音樂
-    zh-cn: 施拉格音乐
-    zh-hans: 施拉格音乐
-    zh-hant: 施拉格音樂
-    zh-tw: 施拉格音樂
+    zh_cn: 施拉格音乐
+    zh_hans: 施拉格音乐
+    zh_hant: 施拉格音樂
+    zh_tw: 施拉格音樂
 ---
 # [[Schlager_Music]] 
 

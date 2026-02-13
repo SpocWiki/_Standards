@@ -76,7 +76,7 @@ dv_has_:
     arz: ليجو
     az: Leqo
     be: Lego
-    be-tarask: Lego
+    be_tarask: Lego
     bg: Лего
     br: Lego
     bs: Lego
@@ -88,7 +88,7 @@ dv_has_:
     de: LEGO
     el: Lego
     en: Lego
-    en-gb: Lego
+    en_gb: Lego
     en-us: LEGO
     eo: Lego
     es: Lego
@@ -125,7 +125,7 @@ dv_has_:
     ml: ലെഗൗ
     mn: Лего компани
     ms: Lego
-    ms-arab: ليݢو
+    ms_arab: ليݢو
     mul: LEGO
     nan: LEGO
     nb: LEGO
@@ -142,8 +142,8 @@ dv_has_:
     sl: LEGO
     sq: Lego
     sr: Лего
-    sr-ec: Лего
-    sr-el: Lego
+    sr_ec: Лего
+    sr_el: Lego
     sv: Lego
     sw: Lego
     ta: லெகோ
@@ -161,12 +161,12 @@ dv_has_:
     yi: לעגא
     yue: 樂高
     zh: 樂高積木
-    zh-cn: 乐高积木
-    zh-hans: 乐高积木
-    zh-hant: 樂高積木
-    zh-hk: 樂高積木
-    zh-sg: 乐高积木
-    zh-tw: 樂高積木
+    zh_cn: 乐高积木
+    zh_hans: 乐高积木
+    zh_hant: 樂高積木
+    zh_hk: 樂高積木
+    zh_sg: 乐高积木
+    zh_tw: 樂高積木
 ---
 # [[Lego]] 
 

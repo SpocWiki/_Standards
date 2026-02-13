@@ -42,7 +42,7 @@ dv_has_:
     oc: Protoxerini
     pl: Olejówki
     pt: Protoxerini
-    pt-br: Protoxerini
+    pt_br: Protoxerini
     ro: Protoxerini
     ru: Protoxerini
     sq: Protoxerini

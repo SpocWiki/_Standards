@@ -114,7 +114,7 @@ dv_has_:
     az: Güllə
     ba: пуля
     be: куля
-    be-tarask: куля
+    be_tarask: куля
     bg: Куршум
     bjn: Piluru
     bn: গুলি
@@ -180,8 +180,8 @@ dv_has_:
     sn: Bara
     sq: plumbi
     sr: метак
-    sr-ec: Метак
-    sr-el: Metak
+    sr_ec: Метак
+    sr_el: Metak
     sv: kula
     sw: Risasi
     ta: தோட்டா
@@ -197,12 +197,12 @@ dv_has_:
     yo: ota
     yue: 彈
     zh: 子彈
-    zh-cn: 子弹
-    zh-hans: 子弹
-    zh-hant: 子彈
-    zh-hk: 子彈
-    zh-sg: 子弹
-    zh-tw: 子彈
+    zh_cn: 子弹
+    zh_hans: 子弹
+    zh_hant: 子彈
+    zh_hk: 子彈
+    zh_sg: 子弹
+    zh_tw: 子彈
 ---
 # [[Bullet]] 
 

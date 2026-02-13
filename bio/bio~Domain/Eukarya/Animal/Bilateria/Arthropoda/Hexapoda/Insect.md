@@ -307,7 +307,7 @@ dv_has_:
     ban: Serangga
     bcl: Insekto
     be: насякомыя
-    be-tarask: вусякі
+    be_tarask: вусякі
     bg: насекоми
     bi: Insek
     bjn: karangga
@@ -335,8 +335,8 @@ dv_has_:
     dtp: Songongi
     el: έντομο
     en: insect
-    en-ca: Insect
-    en-gb: insect
+    en_ca: Insect
+    en_gb: insect
     eo: insekto
     es: insecto
     et: putukad
@@ -393,7 +393,7 @@ dv_has_:
     ko: 곤충
     ks: کیوٚم
     ku: Mêş û mûr
-    ku-latn: kêz
+    ku_latn: kêz
     kw: Hweskeren
     ky: Курт-кумурскалар
     la: Insecta
@@ -407,7 +407,7 @@ dv_has_:
     ln: Nyama ekɛ́
     lt: Vabzdžiai
     lv: kukainis
-    map-bms: Srangga
+    map_bms: Srangga
     mcn: gòógínà
     mdf: Сукст-унжат
     mg: Insecta
@@ -429,7 +429,7 @@ dv_has_:
     nap: Inzetto
     nb: insekter
     nds: Insekten
-    nds-nl: insekt
+    nds_nl: insekt
     ne: कीरा
     new: की
     nl: insecten
@@ -448,7 +448,7 @@ dv_has_:
     pnb: کیڑے مکوڑے
     ps: خوځندکې
     pt: inseto
-    pt-br: insetos
+    pt_br: insetos
     qu: Palama
     ro: insectă
     ru: насекомые
@@ -509,14 +509,14 @@ dv_has_:
     yue: 昆蟲
     za: Non
     zh: 昆蟲綱
-    zh-cn: 昆虫纲
-    zh-hans: 昆虫纲
-    zh-hant: 昆虫
-    zh-hk: 昆蟲
-    zh-mo: 昆虫
+    zh_cn: 昆虫纲
+    zh_hans: 昆虫纲
+    zh_hant: 昆虫
+    zh_hk: 昆蟲
+    zh_mo: 昆虫
     zh-my: 昆虫
-    zh-sg: 昆虫
-    zh-tw: 昆蟲
+    zh_sg: 昆虫
+    zh_tw: 昆蟲
 ---
 # [[Insecta]] 
 

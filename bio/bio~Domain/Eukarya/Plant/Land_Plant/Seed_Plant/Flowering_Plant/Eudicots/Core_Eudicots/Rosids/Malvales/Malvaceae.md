@@ -171,7 +171,7 @@ dv_has_:
     az: Əməköməcikimilər
     bar: Malvaceae
     be: Мальвавыя
-    be-tarask: мальвавыя
+    be_tarask: мальвавыя
     bg: слезови
     bn: মালভেসি
     br: Malvaceae
@@ -185,12 +185,12 @@ dv_has_:
     da: Katost-familien
     de: Malvengewächse
     de-at: Malvaceae
-    de-ch: Malvaceae
+    de_ch: Malvaceae
     diq: Tolık
     el: Μαλαχοειδή
     en: Malvaceae
-    en-ca: Malvaceae
-    en-gb: Malvaceae
+    en_ca: Malvaceae
+    en_gb: Malvaceae
     eo: Malvacoj
     es: Malvaceae
     et: Kassinaerilised
@@ -225,18 +225,18 @@ dv_has_:
     kab: Timejjirt
     kg: Malvaceae
     kk: Құлқайыргүлділер тұқымдастары
-    kk-arab: قۇلقايىرگۇلدىلەر تۇقىمداستارى
+    kk_arab: قۇلقايىرگۇلدىلەر تۇقىمداستارى
     kk-cn: قۇلقايىرگۇلدىلەر تۇقىمداستارى
-    kk-cyrl: Құлқайыргүлділер тұқымдастары
+    kk_cyrl: Құлқайыргүлділер тұқымдастары
     kk-kz: Құлқайыргүлділер тұқымдастары
-    kk-latn: Qulqaýırgüldiler tuqımdastarı
+    kk_latn: Qulqaýırgüldiler tuqımdastarı
     kk-tr: Qulqaýırgüldiler tuqımdastarı
     kn: ಮಾಲ್ವೇಸೀ
     ko: 아욱과
     koi: Мальва котыр
     ku: Famîleya tolikê
-    ku-arab: فامیلەیا تۆلکێ
-    ku-latn: Famîleya tolikê
+    ku_arab: فامیلەیا تۆلکێ
+    ku_latn: Famîleya tolikê
     kv: Мальва котыр
     ky: Гүлкайырлар
     la: Malvaceae
@@ -258,7 +258,7 @@ dv_has_:
     nap: Malvaceae
     nb: Kattostfamilien
     nds: Malvaceae
-    nds-nl: Malvaceae
+    nds_nl: Malvaceae
     nl: kaasjeskruidfamilie
     nn: kattostfamilien
     nrm: Malvaceae
@@ -270,7 +270,7 @@ dv_has_:
     pms: Malvaceae
     pnb: کپآ ٹبر
     pt: Malvaceae
-    pt-br: Malvaceae
+    pt_br: Malvaceae
     qu: Malwa yura rikch'aq ayllu
     rm: Malvaceae
     ro: Malvaceae
@@ -303,12 +303,12 @@ dv_has_:
     wuu: 锦葵科
     yue: 錦葵科
     zh: 锦葵科
-    zh-cn: 锦葵科
-    zh-hans: 锦葵科
-    zh-hant: 錦葵科
-    zh-hk: 錦葵科
-    zh-sg: 锦葵科
-    zh-tw: 錦葵科
+    zh_cn: 锦葵科
+    zh_hans: 锦葵科
+    zh_hant: 錦葵科
+    zh_hk: 錦葵科
+    zh_sg: 锦葵科
+    zh_tw: 錦葵科
     zu: Malvaceae
 ---
 # [[Malvaceae]] 

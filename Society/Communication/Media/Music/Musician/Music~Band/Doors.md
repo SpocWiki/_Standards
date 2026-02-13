@@ -85,7 +85,7 @@ dv_has_:
     bar: The Doors
     bcl: The Doors
     be: The Doors
-    be-tarask: The Doors
+    be_tarask: The Doors
     bg: Дорс
     bho: द डोर्स
     bi: The Doors
@@ -95,7 +95,7 @@ dv_has_:
     bug: The Doors
     bxr: The Doors
     ca: The Doors
-    cbk-zam: The Doors
+    cbk_zam: The Doors
     ce: The Doors
     ceb: The Doors
     chr: The Doors
@@ -107,15 +107,15 @@ dv_has_:
     da: The Doors
     dag: The Doors
     de: The Doors
-    de-ch: The Doors
+    de_ch: The Doors
     diq: The Doors
     dsb: The Doors
     ee: The Doors
     el: The Doors
     eml: The Doors
     en: The Doors
-    en-ca: The Doors
-    en-gb: The Doors
+    en_ca: The Doors
+    en_gb: The Doors
     en-us: The Doors
     eo: The Doors
     es: The Doors
@@ -192,7 +192,7 @@ dv_has_:
     nap: The Doors
     nb: The Doors
     nds: The Doors
-    nds-nl: The Doors
+    nds_nl: The Doors
     ne: द डोर्स
     new: द डोर्स
     nl: The Doors
@@ -206,7 +206,7 @@ dv_has_:
     pl: The Doors
     pms: The Doors
     pt: The Doors
-    pt-br: The Doors
+    pt_br: The Doors
     qu: The Doors
     rmy: The Doors
     ro: The Doors
@@ -260,7 +260,7 @@ dv_has_:
     yue: The Doors
     zea: The Doors
     zh: 門戶樂團
-    zh-hant: 大門樂隊
+    zh_hant: 大門樂隊
     zu: The Doors
 ---
 # [[Doors]] 

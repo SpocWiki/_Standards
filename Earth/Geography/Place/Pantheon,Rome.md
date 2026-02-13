@@ -174,7 +174,7 @@ dv_has_:
     az: Panteon
     ba: Пантеон (Рим)
     be: Пантэон
-    be-tarask: Пантэон
+    be_tarask: Пантэон
     bg: Пантеон
     bs: Panteon
     ca: Panteó
@@ -182,12 +182,12 @@ dv_has_:
     cy: Pantheon
     da: Pantheon
     de: Pantheon
-    de-ch: Pantheon
+    de_ch: Pantheon
     el: Πάνθεον
     eml: Pantheon
     en: Pantheon
-    en-ca: Pantheon
-    en-gb: Pantheon
+    en_ca: Pantheon
+    en_gb: Pantheon
     eo: Panteono de Romo
     es: Panteón de Agripa
     et: Rooma Panteon
@@ -227,7 +227,7 @@ dv_has_:
     pl: Panteon w Rzymie
     pnb: پانتھیاں
     pt: Panteão
-    pt-br: Panteão
+    pt_br: Panteão
     ro: Panteonul din Roma
     ru: Пантеон
     sco: Pantheon

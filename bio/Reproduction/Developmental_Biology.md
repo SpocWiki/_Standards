@@ -91,7 +91,7 @@ dv_has_:
     az: Bioloji inkişaf
     ba: Үҫеш биологияһы
     be: біялогія развіцця
-    be-tarask: біялёгія разьвіцьця
+    be_tarask: біялёгія разьвіцьця
     bg: Биология на развитието
     bn: ক্রমবর্ধমান জীববিদ্যা
     ca: biologia del desenvolupament
@@ -100,7 +100,7 @@ dv_has_:
     da: Udviklingsbiologi
     de: Entwicklungsbiologie
     en: developmental biology
-    en-gb: developmental biology
+    en_gb: developmental biology
     eo: disvolviĝ-biologio
     es: biología del desarrollo
     et: arengubioloogia
@@ -138,7 +138,7 @@ dv_has_:
     pl: biologia rozwoju
     ps: وده ييزه بيالوژي
     pt: biologia do desenvolvimento
-    pt-br: biologia do desenvolvimento
+    pt_br: biologia do desenvolvimento
     ro: Biologia dezvoltării
     ru: биология развития
     sl: razvojna biologija
@@ -156,12 +156,12 @@ dv_has_:
     vi: sinh học phát triển
     yue: 發育生物學
     zh: 发育生物学
-    zh-cn: 发育生物学
-    zh-hans: 发育生物学
-    zh-hant: 發育生物學
-    zh-hk: 發育生物學
-    zh-sg: 发育生物学
-    zh-tw: 發育生物學
+    zh_cn: 发育生物学
+    zh_hans: 发育生物学
+    zh_hant: 發育生物學
+    zh_hk: 發育生物學
+    zh_sg: 发育生物学
+    zh_tw: 發育生物學
 ---
 # [[Developmental_Biology]] 
 

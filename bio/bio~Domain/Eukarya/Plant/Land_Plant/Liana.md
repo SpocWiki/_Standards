@@ -66,7 +66,7 @@ dv_has_:
     ar: عارشة
     ban: Liana
     be: Ліяна
-    be-tarask: ліяна
+    be_tarask: ліяна
     bg: лиана
     bs: Povijuša
     ca: Liana
@@ -75,8 +75,8 @@ dv_has_:
     de: Liane
     el: λιάνα
     en: liana
-    en-ca: Liana
-    en-gb: liana
+    en_ca: Liana
+    en_gb: liana
     eo: liano
     es: liana
     et: Ronitaim

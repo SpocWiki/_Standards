@@ -112,7 +112,7 @@ dv_has_:
     azb: گاستروانتریت
     ba: Гастроэнтерит
     be: гастраэнтэрыт
-    be-tarask: гастраэнтэрыт
+    be_tarask: гастраэнтэрыт
     bg: Гастроентерит
     bho: गैस्ट्रोएंटेराइटिस
     bn: পাকস্থলী ও অন্ত্রের প্রদাহ
@@ -126,8 +126,8 @@ dv_has_:
     de: Gastroenteritis
     el: γαστρεντερίτιδα
     en: gastroenteritis
-    en-ca: Gastroenteritis
-    en-gb: gastroenteritis
+    en_ca: Gastroenteritis
+    en_gb: gastroenteritis
     eo: gastroenterito
     es: gastroenteritis
     et: gastroenteriit
@@ -176,7 +176,7 @@ dv_has_:
     pl: wirusowe zakażenia przewodu pokarmowego
     pms: Mal dë stòmi
     pt: gastroenterite
-    pt-br: gastroenterite
+    pt_br: gastroenterite
     ro: Gastroenterită
     ru: гастроэнтерит
     se: gastroenterihtta
@@ -186,8 +186,8 @@ dv_has_:
     smn: gastroenteriit
     sms: gastroenteritt
     sr: гастроентеритис
-    sr-ec: гастроентеритис
-    sr-el: gastroenteritis
+    sr_ec: гастроентеритис
+    sr_el: gastroenteritis
     sv: mag-tarmkatarr
     sw: Gastroenteritis
     ta: இரையகக்குடலிய அழற்சி
@@ -207,12 +207,12 @@ dv_has_:
     yi: גאסטרא-ענטעריטיס
     yue: 腸胃炎
     zh: 腸胃炎
-    zh-cn: 肠胃炎
-    zh-hans: 肠胃炎
-    zh-hant: 腸胃炎
-    zh-hk: 腸胃炎
-    zh-sg: 肠胃炎
-    zh-tw: 腸胃炎
+    zh_cn: 肠胃炎
+    zh_hans: 肠胃炎
+    zh_hant: 腸胃炎
+    zh_hk: 腸胃炎
+    zh_sg: 肠胃炎
+    zh_tw: 腸胃炎
 ---
 # [[Gastroenteritis]] 
 

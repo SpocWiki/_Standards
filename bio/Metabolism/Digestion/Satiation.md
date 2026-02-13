@@ -34,7 +34,7 @@ has_id_wikidata: Q1562684
 dv_has_:
   name_:
     ar: تخمة
-    be-tarask: насычанасьць
+    be_tarask: насычанасьць
     bn: পরিতৃপ্তি
     de: Sättigung
     en: satiety
@@ -58,7 +58,7 @@ dv_has_:
     sl: sitost
     sv: mättnad
     tt: туклык
-    tt-cyrl: туклык
+    tt_cyrl: туклык
     uk: ситість
     uz: Toʻqlik
     vec: pienesa

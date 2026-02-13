@@ -7,7 +7,7 @@ dv_has_:
     as: অমৰত্ব
     az: Ölməzlik
     bcl: Imortalidad
-    be-tarask: несьмяротнасьць
+    be_tarask: несьмяротнасьць
     bg: Безсмъртие
     bn: অমরত্ব
     bo: རྒས་མེད་ཚེ་རིང་།
@@ -57,8 +57,8 @@ dv_has_:
     sl: nesmrtnost
     sq: Pavdekësia
     sr: бесмртност
-    sr-ec: Бесмртност
-    sr-el: Besmrtnost
+    sr_ec: Бесмртност
+    sr_el: Besmrtnost
     sv: odödlighet
     sw: Uzima wa milele
     ta: அமரத்துவம்
@@ -71,12 +71,12 @@ dv_has_:
     wuu: 长生弗老
     yue: 長生不老
     zh: 长生不老
-    zh-cn: 长生不老
-    zh-hans: 长生不老
-    zh-hant: 長生不老
-    zh-hk: 長生不老
-    zh-sg: 长生不老
-    zh-tw: 長生不老
+    zh_cn: 长生不老
+    zh_hans: 长生不老
+    zh_hant: 長生不老
+    zh_hk: 長生不老
+    zh_sg: 长生不老
+    zh_tw: 長生不老
 aliases:
 - Besmrtnost
 - Boqiylik

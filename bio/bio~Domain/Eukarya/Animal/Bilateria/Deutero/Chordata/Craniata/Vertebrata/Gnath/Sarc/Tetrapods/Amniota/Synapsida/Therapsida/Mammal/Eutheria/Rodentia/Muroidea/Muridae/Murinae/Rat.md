@@ -166,7 +166,7 @@ dv_has_:
     bar: Råtzn
     bcl: Kino
     be: Пацукі
-    be-tarask: пацук
+    be_tarask: пацук
     bg: плъхове
     bn: ধেড়ে ইঁদুর
     br: Razh
@@ -182,7 +182,7 @@ dv_has_:
     diq: Lûr
     el: Αρουραίος
     en: Rattus
-    en-gb: Rattus
+    en_gb: Rattus
     eo: Rato
     es: Rata
     et: Rott
@@ -286,8 +286,8 @@ dv_has_:
     yi: שטשור
     yue: 大家鼠
     zh: 鼠属
-    zh-cn: 鼠属
-    zh-tw: 鼠屬
+    zh_cn: 鼠属
+    zh_tw: 鼠屬
 ---
 # [[Rat]] 🐀 
 

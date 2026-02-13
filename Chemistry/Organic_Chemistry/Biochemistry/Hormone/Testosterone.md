@@ -173,7 +173,7 @@ dv_has_:
     azb: تستوسترون
     bcl: Testosterona
     be: тэстастэрон
-    be-tarask: тэстастэрон
+    be_tarask: тэстастэрон
     bg: Тестостерон
     bn: টেস্টোস্টেরন
     br: Testosteron
@@ -211,7 +211,7 @@ dv_has_:
     ja: テストステロン
     ko: 테스토스테론
     ku: Testostêron
-    ku-latn: testosteron
+    ku_latn: testosteron
     la: Testosteronum
     lo: ເທສໂທສເຕໂຣນ
     lt: Testosteronas
@@ -239,7 +239,7 @@ dv_has_:
     sms: testosteroon
     sq: Testosteroni
     sr: тестостерон
-    sr-ec: тестостерон
+    sr_ec: тестостерон
     ss: Itestateroni
     su: Téstostéron
     sv: testosteron

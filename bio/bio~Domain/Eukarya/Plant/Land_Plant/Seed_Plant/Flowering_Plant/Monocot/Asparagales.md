@@ -69,7 +69,7 @@ dv_has_:
     ast: Asparagales
     az: Qulançarkimilər
     be: Спаржакветныя
-    be-tarask: Спаржакветныя
+    be_tarask: Спаржакветныя
     bg: зайчесянкоцветни
     bs: Asparagales
     ca: Asparagals
@@ -121,7 +121,7 @@ dv_has_:
     pl: szparagowce
     pnb: ستاوری
     pt: Asparagales
-    pt-br: Asparagales
+    pt_br: Asparagales
     ro: Asparagales
     ru: Спаржецветные
     scn: Asparagales
@@ -143,9 +143,9 @@ dv_has_:
     yue: 天門冬目
     za: Moegdenhmwnzdungh
     zh: 天门冬目
-    zh-cn: 天门冬目
-    zh-hans: 天门冬目
-    zh-tw: 天門冬目
+    zh_cn: 天门冬目
+    zh_hans: 天门冬目
+    zh_tw: 天門冬目
 ---
 # [[Asparagales]] 
 

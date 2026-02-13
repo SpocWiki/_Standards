@@ -150,7 +150,7 @@ dv_has_:
     az: Semuel Teylor Kolric
     azb: ساموئل تیلور کولریج
     be: Сэмюэл Тэйлар Колрыдж
-    be-tarask: Сэм’юэл Тэйлар Колрыдж
+    be_tarask: Сэм’юэл Тэйлар Колрыдж
     bg: Самюъл Тейлър Колридж
     bho: सैमुएल टेलर कूलरिज
     bn: স্যামুয়েল টেইলর কোলরিজ
@@ -161,11 +161,11 @@ dv_has_:
     cy: Samuel Taylor Coleridge
     da: Samuel Taylor Coleridge
     de: Samuel Taylor Coleridge
-    de-ch: Samuel Taylor Coleridge
+    de_ch: Samuel Taylor Coleridge
     el: Σάμιουελ Τέιλορ Κόλεριτζ
     en: Samuel Taylor Coleridge
-    en-ca: Samuel Taylor Coleridge
-    en-gb: Samuel Taylor Coleridge
+    en_ca: Samuel Taylor Coleridge
+    en_gb: Samuel Taylor Coleridge
     eo: Samuel Taylor Coleridge
     es: Samuel Taylor Coleridge
     et: Samuel Taylor Coleridge
@@ -212,7 +212,7 @@ dv_has_:
     pnb: سیموئیل ٹیلر کالرج
     ps: سامويل تيلور کالريج
     pt: Samuel Taylor Coleridge
-    pt-br: Samuel Taylor Coleridge
+    pt_br: Samuel Taylor Coleridge
     qu: Samuel Taylor Coleridge
     ro: Samuel Taylor Coleridge
     ru: Сэмюэл Тейлор Кольридж

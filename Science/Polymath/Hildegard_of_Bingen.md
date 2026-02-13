@@ -155,7 +155,7 @@ dv_has_:
     azb: هیلدقارد بینقنی
     bar: Hildegard von Bingen
     be: Хільдэгарда Бінгенская
-    be-tarask: Гільдэгарда Бінгенская
+    be_tarask: Гільдэгарда Бінгенская
     bg: Хилдегард от Бинген
     bho: हिल्डेगार्ड ऑफ बिन्जेन
     bn: বিঙেনের হিলডেগার্ড
@@ -215,7 +215,7 @@ dv_has_:
     pl: Hildegarda z Bingen
     ps: د بنګن هلډګارډ
     pt: Hildegarda de Bingen
-    pt-br: Hildegarda de Bingen
+    pt_br: Hildegarda de Bingen
     qu: Hildegard von Bingen
     rm: Hildegard von Bingen
     ro: Hildegard de Bingen

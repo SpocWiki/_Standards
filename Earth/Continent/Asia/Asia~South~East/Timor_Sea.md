@@ -147,7 +147,7 @@ dv_has_:
     ban: Segara Timor
     bcl: Dagat Timor
     be: Тыморскае мора
-    be-tarask: Тыморскае мора
+    be_tarask: Тыморскае мора
     bg: Тиморско море
     bn: তিমুর সাগর
     br: Mor Timor
@@ -185,11 +185,11 @@ dv_has_:
     ja: ティモール海
     ka: ტიმორის ზღვა
     kk: Тимор теңізі
-    kk-arab: تىيمور تەڭىزى
+    kk_arab: تىيمور تەڭىزى
     kk-cn: تىيمور تەڭىزى
-    kk-cyrl: Тимор теңізі
+    kk_cyrl: Тимор теңізі
     kk-kz: Тимор теңізі
-    kk-latn: Tïmor teñizi
+    kk_latn: Tïmor teñizi
     kk-tr: Tïmor teñizi
     km: សមុទ្រទីម័រ
     ko: 티모르해
@@ -226,8 +226,8 @@ dv_has_:
     sl: Timorsko morje
     smn: Timormeerâ
     sr: Тиморско море
-    sr-ec: Тиморско море
-    sr-el: Timorsko more
+    sr_ec: Тиморско море
+    sr_el: Timorsko more
     sv: Timorsjön
     sw: Bahari ya Timor
     ta: திமோர் கடல்
@@ -245,12 +245,12 @@ dv_has_:
     xmf: ტიმორიშ ზუღა
     yue: 帝汶海
     zh: 帝汶海
-    zh-cn: 帝汶海
-    zh-hans: 帝汶海
-    zh-hant: 帝汶海
-    zh-hk: 帝汶海
-    zh-sg: 帝汶海
-    zh-tw: 帝汶海
+    zh_cn: 帝汶海
+    zh_hans: 帝汶海
+    zh_hant: 帝汶海
+    zh_hk: 帝汶海
+    zh_sg: 帝汶海
+    zh_tw: 帝汶海
 ---
 # [[Timor_Sea]] 
 

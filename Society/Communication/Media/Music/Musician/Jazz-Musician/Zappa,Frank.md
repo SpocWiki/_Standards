@@ -167,7 +167,7 @@ dv_has_:
     azb: فرانک زاپا
     bar: Frank Zappa
     be: Фрэнк Вінсент Запа
-    be-tarask: Фрэнк Запа
+    be_tarask: Фрэнк Запа
     bg: Франк Запа
     bn: ফ্র্যাংক জ্যাপা
     br: Frank Zappa
@@ -179,12 +179,12 @@ dv_has_:
     da: Frank Zappa
     dag: Frank Zappa
     de: Frank Zappa
-    de-ch: Frank Zappa
+    de_ch: Frank Zappa
     el: Φρανκ Ζάπα
     eml: Frank Zappa
     en: Frank Zappa
-    en-ca: Frank Zappa
-    en-gb: Frank Zappa
+    en_ca: Frank Zappa
+    en_gb: Frank Zappa
     en-us: Frank Zappa
     eo: Frank Zappa
     es: Frank Zappa
@@ -230,7 +230,7 @@ dv_has_:
     pnb: فرانک زاپا
     ps: فرانک زاپا
     pt: Frank Zappa
-    pt-br: Frank Zappa
+    pt_br: Frank Zappa
     ro: Frank Zappa
     ru: Фрэнк Заппа
     scn: Frank Zappa
@@ -253,8 +253,8 @@ dv_has_:
     yo: Frank Zappa
     yue: 法蘭克扎帕
     zh: 弗兰克·扎帕
-    zh-hant: 法蘭克·札帕
-    zh-tw: 法蘭克·札帕
+    zh_hant: 法蘭克·札帕
+    zh_tw: 法蘭克·札帕
 ---
 # [[Zappa,Frank]] 
 

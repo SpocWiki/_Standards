@@ -47,7 +47,7 @@ dv_has_:
   name_:
     ar: ننشاكو
     ast: nunchaku
-    be-tarask: нунчакі
+    be_tarask: нунчакі
     bg: нунчаку
     bn: নুনচাকু
     bs: nunčaku
@@ -88,8 +88,8 @@ dv_has_:
     sl: nunchaku
     sq: nunçaku
     sr: nunčake
-    sr-ec: нунчаке
-    sr-el: nunčake
+    sr_ec: нунчаке
+    sr_el: nunčake
     sv: nunchaku
     ta: நன்சாகூ
     tr: nunçaku
@@ -97,12 +97,12 @@ dv_has_:
     vi: côn nhị khúc
     yue: 雙節棍
     zh: 雙節棍
-    zh-cn: 双节棍
-    zh-hans: 双节棍
-    zh-hant: 雙節棍
-    zh-hk: 雙節棍
-    zh-sg: 双节棍
-    zh-tw: 雙節棍
+    zh_cn: 双节棍
+    zh_hans: 双节棍
+    zh_hant: 雙節棍
+    zh_hk: 雙節棍
+    zh_sg: 双节棍
+    zh_tw: 雙節棍
 ---
 # [[Nunchaku]] 
 

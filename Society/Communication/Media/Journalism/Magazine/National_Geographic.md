@@ -101,7 +101,7 @@ dv_has_:
   name_:
     ar: ناشونال جيوغرافيك
     arz: ناشونال جيوجرافيك (مجله)
-    be-tarask: National Geographic
+    be_tarask: National Geographic
     bg: Нешънъл Джиографик
     br: National Geographic
     ca: National Geographic
@@ -112,8 +112,8 @@ dv_has_:
     de: National Geographic
     el: National Geographic
     en: National Geographic
-    en-ca: National Geographic
-    en-gb: National Geographic
+    en_ca: National Geographic
+    en_gb: National Geographic
     en-us: National Geographic
     eo: National Geographic
     es: National Geographic
@@ -149,7 +149,7 @@ dv_has_:
     pa: ਨੈਸ਼ਨਲ ਜੀਓਗ੍ਰੈਫਿਕ ਮੈਗਜ਼ੀਨ
     pl: National Geographic
     pt: National Geographic
-    pt-br: National Geographic
+    pt_br: National Geographic
     ro: National Geographic
     ru: National Geographic
     sk: National Geographic
@@ -167,8 +167,8 @@ dv_has_:
     yi: נעשונאל זשיאגראפיק
     yue: 國家地理雜誌
     zh: 國家地理
-    zh-hans: 国家地理学会
-    zh-hant: 國家地理學會
+    zh_hans: 国家地理学会
+    zh_hant: 國家地理學會
 ---
 # [[National_Geographic]] 
 

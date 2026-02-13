@@ -49,7 +49,7 @@ dv_has_:
     ast: Polemoniaceae
     az: Göyümçiçəkkimilər
     be: Сінюхавыя
-    be-tarask: сінюхавыя
+    be_tarask: сінюхавыя
     bg: флоксови
     bs: Polemoniaceae
     ca: polemoniàcies
@@ -82,8 +82,8 @@ dv_has_:
     kk: Көкшегүлдер тұқымдасы
     ko: 꽃고비과
     ku: Famîleya şînzerkan
-    ku-arab: فامیلەیا شینزەرکان
-    ku-latn: Famîleya şînzerkan
+    ku_arab: فامیلەیا شینزەرکان
+    ku_latn: Famîleya şînzerkan
     la: Polemoniaceae
     lt: Palemoniniai
     lv: kāpnīšu dzimta
@@ -94,7 +94,7 @@ dv_has_:
     oc: Polemoniaceae
     pl: wielosiłowate
     pt: Polemoniaceae
-    pt-br: Polemoniaceae
+    pt_br: Polemoniaceae
     qu: Qantu yura rikch'aq ayllu
     ro: Polemoniaceae
     ru: Синюховые
@@ -108,12 +108,12 @@ dv_has_:
     war: Polemonium
     yue: 花荵科
     zh: 花荵科
-    zh-cn: 花荵科
-    zh-hans: 花荵科
-    zh-hant: 花荵科
-    zh-hk: 花荵科
-    zh-sg: 花荵科
-    zh-tw: 花荵科
+    zh_cn: 花荵科
+    zh_hans: 花荵科
+    zh_hant: 花荵科
+    zh_hk: 花荵科
+    zh_sg: 花荵科
+    zh_tw: 花荵科
 ---
 # [[Polemoniaceae]] 
 

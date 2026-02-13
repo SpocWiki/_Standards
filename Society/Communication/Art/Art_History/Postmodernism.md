@@ -94,7 +94,7 @@ dv_has_:
     az: Postmodernizm
     azb: پستمدرنیزم
     be: постмадэрнізм
-    be-tarask: постмадэрнізм
+    be_tarask: постмадэрнізм
     bg: Постмодернизъм
     bn: উত্তর আধুনিকতাবাদ
     bs: Postmodernizam
@@ -135,7 +135,7 @@ dv_has_:
     kk: Постмодернизм
     ko: 포스트모더니즘
     ku: postmodernîzm
-    ku-latn: postmodernîzm
+    ku_latn: postmodernîzm
     la: Postmodernismus
     li: Posmodernisme
     lt: Postmodernizmas
@@ -145,7 +145,7 @@ dv_has_:
     ms: Pascamodenisme
     nan: Āu-hiān-tāi-chú-gī
     nb: postmodernisme
-    nds-nl: postmodernisme
+    nds_nl: postmodernisme
     ne: उत्तरआधुनिकतावाद
     nl: postmodernisme
     nn: postmodernisme
@@ -155,7 +155,7 @@ dv_has_:
     pms: Postmodernism
     ps: وروستۍ نوواله
     pt: pós-modernismo
-    pt-br: pós-modernismo
+    pt_br: pós-modernismo
     ro: postmodernism
     ru: постмодернизм
     se: postmodernisma
@@ -166,8 +166,8 @@ dv_has_:
     sms: postmodernismm
     sq: Postmodernizmi
     sr: постмодернизам
-    sr-ec: постмодернизам
-    sr-el: postmodernizam
+    sr_ec: постмодернизам
+    sr_el: postmodernizam
     sv: postmodernism
     ta: பின்நவீனத்துவம்
     th: แนวคิดหลังยุคนวนิยม
@@ -181,11 +181,11 @@ dv_has_:
     wuu: 后现代
     yue: 後現代主義
     zh: 后现代主义
-    zh-cn: 后现代主义
-    zh-hans: 后现代主义
-    zh-hant: 後現代主義
-    zh-hk: 後現代主義
-    zh-tw: 後現代主義
+    zh_cn: 后现代主义
+    zh_hans: 后现代主义
+    zh_hant: 後現代主義
+    zh_hk: 後現代主義
+    zh_tw: 後現代主義
 ---
 # [[Postmodernism]] 
 

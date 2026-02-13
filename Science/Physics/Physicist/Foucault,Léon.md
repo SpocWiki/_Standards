@@ -116,7 +116,7 @@ dv_has_:
     az: Leon Fuko
     azb: لئون فوکو
     be: Жан Бернар Леон Фуко
-    be-tarask: Леон Фуко
+    be_tarask: Леон Фуко
     bg: Леон Фуко
     bn: জাঁ বার্নার্ড লিওঁ ফুকো
     ca: Léon Foucault
@@ -160,7 +160,7 @@ dv_has_:
     pl: Jean Bernard Léon Foucault
     pnb: لیو فوکو
     pt: Jean Bernard Léon Foucault
-    pt-br: Jean Bernard Léon Foucault
+    pt_br: Jean Bernard Léon Foucault
     ro: Léon Foucault
     ru: Жан Бернар Леон Фуко
     scn: Jean Bernard Léon Foucault
@@ -171,8 +171,8 @@ dv_has_:
     sl: Jean Bernard Léon Foucault
     sq: Leon Foucault
     sr: Леон Фуко
-    sr-ec: Леон Фуко
-    sr-el: Leon Fuko
+    sr_ec: Леон Фуко
+    sr_el: Leon Fuko
     sv: Léon Foucault
     te: లీయాన్ ఫోకాల్ట్
     tg: Леон Фуко
@@ -187,12 +187,12 @@ dv_has_:
     xmf: ლეონ ფუკო
     yue: 里容·傅科
     zh: 莱昂·傅科
-    zh-cn: 莱昂·傅科
-    zh-hans: 莱昂·傅科
-    zh-hant: 萊昂·傅科
-    zh-hk: 萊昂·傅科
-    zh-sg: 莱昂·傅科
-    zh-tw: 萊昂·傅科
+    zh_cn: 莱昂·傅科
+    zh_hans: 莱昂·傅科
+    zh_hant: 萊昂·傅科
+    zh_hk: 萊昂·傅科
+    zh_sg: 莱昂·傅科
+    zh_tw: 萊昂·傅科
 ---
 # [[Foucault,Léon]] 
 

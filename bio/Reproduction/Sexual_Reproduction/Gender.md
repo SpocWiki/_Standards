@@ -187,7 +187,7 @@ dv_has_:
     az: gender
     ba: енсиәт
     be: гендар
-    be-tarask: стаць
+    be_tarask: стаць
     bg: джендър
     bn: সামাজিক লিঙ্গ
     br: jener
@@ -204,8 +204,8 @@ dv_has_:
     diq: cınsiyeto sosyal
     el: φύλο
     en: gender
-    en-ca: gender
-    en-gb: gender
+    en_ca: gender
+    en_gb: gender
     eo: genro
     es: género
     et: sugupool
@@ -244,7 +244,7 @@ dv_has_:
     ko: 젠더
     krj: sarì
     ks: جِنٕس
-    ku-latn: zayend
+    ku_latn: zayend
     ky: гендер
     la: genus
     lb: Gender
@@ -282,7 +282,7 @@ dv_has_:
     pl: gender
     ps: جندر
     pt: género
-    pt-br: gênero
+    pt_br: gênero
     ro: sex
     ru: гендер
     sat: ᱡᱟᱱᱟᱝ
@@ -300,8 +300,8 @@ dv_has_:
     sn: chibare
     sq: gjinia
     sr: род
-    sr-ec: пол
-    sr-el: pol
+    sr_ec: пол
+    sr_el: pol
     sv: genus
     ta: பாலினம்
     te: లింగం
@@ -312,8 +312,8 @@ dv_has_:
     tr: cinsiyet
     ts: rimbewu
     tt: җенсият
-    tt-cyrl: җенсият
-    tt-latn: censiät
+    tt_cyrl: җенсият
+    tt_latn: censiät
     uk: гендер
     ur: جنس
     uz: gender
@@ -325,11 +325,11 @@ dv_has_:
     yue: 性 (社會學)
     za: singqbied
     zh: 社會性別
-    zh-cn: 性別
-    zh-hans: 性别
-    zh-hant: 性別
-    zh-hk: 性別
-    zh-tw: 性別
+    zh_cn: 性別
+    zh_hans: 性别
+    zh_hant: 性別
+    zh_hk: 性別
+    zh_tw: 性別
     zu: Ubulili
 ---
 # [[Gender]] 

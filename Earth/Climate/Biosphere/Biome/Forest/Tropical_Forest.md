@@ -23,7 +23,7 @@ dv_has_:
   name_:
     ar: غابة استوائية
     be: Трапічны лес
-    be-tarask: трапічны лес
+    be_tarask: трапічны лес
     bs: Tropske šume
     ca: bosc tropical
     cs: tropický les
@@ -46,16 +46,16 @@ dv_has_:
     it: foresta tropicale
     ka: ტროპიკული ტყე
     kk: Тропиктік орман
-    kk-arab: تروپىيكتىك ورمان
-    kk-cyrl: Тропиктік орман
-    kk-latn: Tropïktik orman
+    kk_arab: تروپىيكتىك ورمان
+    kk_cyrl: Тропиктік орман
+    kk_latn: Tropïktik orman
     ko: 열대림
     la: Silva tropica
     lt: Atogrąžų miškai
     mk: тропска шума
     ml: ഉഷ്ണമേഖലാ വനം
     ms: hutan tropika
-    ms-arab: هوتن تروڤيکا
+    ms_arab: هوتن تروڤيکا
     myv: тропикань вирь
     nl: tropisch bos
     nn: tropisk skog

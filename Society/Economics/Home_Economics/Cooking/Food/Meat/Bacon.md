@@ -93,7 +93,7 @@ dv_has_:
     ast: Panceta
     atj: Morasikan
     be: Бекон
-    be-tarask: бэкон
+    be_tarask: бэкон
     bg: Бекон
     bn: বেকন
     br: Kig-sall
@@ -105,7 +105,7 @@ dv_has_:
     de: Speck
     el: Μπέικον
     en: bacon
-    en-gb: bacon
+    en_gb: bacon
     eo: fumaĵita lardo
     es: panceta
     et: Peekon
@@ -152,7 +152,7 @@ dv_has_:
     sm: Bacon
     sq: Bejkon
     sr: сланина
-    sr-ec: сланина
+    sr_ec: сланина
     sv: bacon
     ta: பன்றி இறைச்சி
     th: เบคอน
@@ -168,8 +168,8 @@ dv_has_:
     yi: שפעק
     yue: 煙肉
     zh: 培根肉
-    zh-hant: 培根肉
-    zh-sg: 培根
+    zh_hant: 培根肉
+    zh_sg: 培根
 ---
 # [[Bacon]] 🥓 
 

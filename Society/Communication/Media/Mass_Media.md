@@ -174,7 +174,7 @@ dv_has_:
     ba: киң мәғлүмәт саралары
     bar: Massnmedia
     be: сродкі масавай інфармацыі
-    be-tarask: сродкі масавай інфармацыі
+    be_tarask: сродкі масавай інфармацыі
     bg: средство за масова информация
     bn: গণমাধ্যম
     br: mediaoù
@@ -183,18 +183,18 @@ dv_has_:
     ce: массин хаамийн гIирс
     ckb: میدیای بەکۆمەڵ
     crh: kütleviy haber vastaları
-    crh-latn: kütleviy haber vastaları
+    crh_latn: kütleviy haber vastaları
     cs: masové medium
     cv: массăллă информаци хатĕрĕсем
     cy: cyfryngau torfol
     da: massemedie
     de: Massenmedien
-    de-ch: Massenmedien
+    de_ch: Massenmedien
     diq: medya
     el: μέσα ενημέρωσης
     en: mass media
-    en-ca: mass media
-    en-gb: mass media
+    en_ca: mass media
+    en_gb: mass media
     eo: amaskomunikilo
     es: medio de comunicación de masas
     et: massimeedia
@@ -244,7 +244,7 @@ dv_has_:
     mn: олон нийтийн мэдээллийн хэрэгсэл
     mr: जनसंपर्क
     ms: media massa
-    ms-arab: ميديا مسسا
+    ms_arab: ميديا مسسا
     mt: xandir tal-massa
     mwl: mass média
     nan: tōa-chong mûi-thé
@@ -260,7 +260,7 @@ dv_has_:
     pms: Mojen ëd comunicassion ëd massa
     pnb: ماس میڈیا
     pt: meios de comunicação social
-    pt-br: meio de comunicação em massa
+    pt_br: meio de comunicação em massa
     ro: mass-media
     ru: средство массовой информации
     rue: медія
@@ -274,8 +274,8 @@ dv_has_:
     sl: množično občilo
     sq: masmedia
     sr: мас-медији
-    sr-ec: мас-медији
-    sr-el: mas-mediji
+    sr_ec: мас-медији
+    sr_el: mas-mediji
     su: pérs
     sv: massmedium
     sw: vyombo vya habari
@@ -289,7 +289,7 @@ dv_has_:
     tr: kitle iletişim aracı
     ts: ta mahungu
     tt: массакүләм мәгълүмат чаралары
-    tt-cyrl: массакүләм мәгълүмат чаралары
+    tt_cyrl: массакүләм мәгълүмат чаралары
     udm: ивор вӧлмытӥсь ёзъёс
     uk: засіб масової інформації
     ur: کبیرالوسیط
@@ -302,11 +302,11 @@ dv_has_:
     yi: מאסן מעדיע
     yue: 大眾傳媒
     zh: 大眾媒體
-    zh-cn: 大众媒体
-    zh-hans: 大众媒体
-    zh-hant: 大眾媒體
-    zh-hk: 大眾媒體
-    zh-tw: 大眾媒體
+    zh_cn: 大众媒体
+    zh_hans: 大众媒体
+    zh_hant: 大眾媒體
+    zh_hk: 大眾媒體
+    zh_tw: 大眾媒體
 ---
 # [[Mass_Media]]
 

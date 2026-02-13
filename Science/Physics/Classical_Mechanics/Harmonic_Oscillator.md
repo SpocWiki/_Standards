@@ -63,7 +63,7 @@ dv_has_:
   name_:
     ar: هزاز توافقي
     ast: oscilador harmónicu
-    be-tarask: гарманічны асцылятар
+    be_tarask: гарманічны асцылятар
     bg: хармоничен осцилатор
     bn: দোল গতি
     bs: harmonijsko oscilovanje
@@ -90,11 +90,11 @@ dv_has_:
     ja: 調和振動子
     ka: ჰარმონიული ოსცილატორი
     kk: гармониялық тербеліс
-    kk-arab: گارمونىييالىق تەربەلىس
+    kk_arab: گارمونىييالىق تەربەلىس
     kk-cn: گارمونىييالىق تەربەلىس
-    kk-cyrl: гармониялық тербеліс
+    kk_cyrl: гармониялық тербеліс
     kk-kz: гармониялық тербеліс
-    kk-latn: garmonïyalıq terbelis
+    kk_latn: garmonïyalıq terbelis
     kk-tr: garmonïyalıq terbelis
     ko: 조화 진동자
     la: oscillator harmonicus
@@ -105,15 +105,15 @@ dv_has_:
     nn: harmonisk oscillator
     pl: oscylator harmoniczny
     pt: oscilador harmónico
-    pt-br: oscilador harmônico
+    pt_br: oscilador harmônico
     ro: oscilator armonic
     ru: гармонический осциллятор
     sh: harmonijski oscilator
     si: අනුවර්තී දෝලකය
     sl: harmonični oscilator
     sr: harmonijski oscilatori
-    sr-ec: хармонијски осцилатори
-    sr-el: harmonijski oscilatori
+    sr_ec: хармонијски осцилатори
+    sr_el: harmonijski oscilatori
     sv: harmonisk oscillator
     tr: Harmonik osilatör
     tt: гармоник тирбәнүләр
@@ -121,12 +121,12 @@ dv_has_:
     vi: dao động điều hòa
     yue: 諧振子
     zh: 諧振子
-    zh-cn: 谐振子
-    zh-hans: 谐振子
-    zh-hant: 諧振子
-    zh-hk: 諧振子
-    zh-sg: 谐振子
-    zh-tw: 諧振子
+    zh_cn: 谐振子
+    zh_hans: 谐振子
+    zh_hant: 諧振子
+    zh_hk: 諧振子
+    zh_sg: 谐振子
+    zh_tw: 諧振子
 ---
 # [[Harmonic_Oscillator]] 
 

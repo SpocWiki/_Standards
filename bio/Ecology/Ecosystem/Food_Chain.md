@@ -116,7 +116,7 @@ dv_has_:
     az: qida zənciri
     bas: ǹsaŋ bìjɛk
     be: ланцуг харчавання
-    be-tarask: харчовы ланцужок
+    be_tarask: харчовы ланцужок
     bg: Хранителна верига
     bn: খাদ্য শৃঙ্খল
     ca: cadena alimentària
@@ -129,8 +129,8 @@ dv_has_:
     dv: ކާބޯތަކެތީގެ އަންބަލަން
     el: Τροφική αλυσίδα
     en: food chain
-    en-ca: Food chain
-    en-gb: food chain
+    en_ca: Food chain
+    en_gb: food chain
     eo: manĝoĉeno
     es: cadena trófica
     et: Toitumisahel
@@ -159,7 +159,7 @@ dv_has_:
     ko: 먹이 사슬
     ks: کھؠنہٕ ہانٛکل
     ku: zincîra xurekan
-    ku-latn: zincîra xurekan
+    ku_latn: zincîra xurekan
     ky: Трофикалык чынжырлар
     lt: Mitybos grandinė
     lv: barības ķēde
@@ -175,7 +175,7 @@ dv_has_:
     pa: ਖੁਰਾਕ ਲੜੀ
     pl: Łańcuch pokarmowy
     pt: cadeia alimentar
-    pt-br: Cadeia alimentar
+    pt_br: Cadeia alimentar
     ro: Lanț trofic
     ru: пищевая цепь
     scn: Catina alimintari
@@ -184,8 +184,8 @@ dv_has_:
     sl: prehranjevalna veriga
     sq: Zinxhiri ushqimor
     sr: Ланац исхране
-    sr-ec: Ланац исхране
-    sr-el: Lanac ishrane
+    sr_ec: Ланац исхране
+    sr_el: Lanac ishrane
     sv: näringskedja
     sw: Mtando chakula
     ta: உணவுச் சங்கிலி
@@ -199,12 +199,12 @@ dv_has_:
     wuu: 食物链
     yue: 食物鏈
     zh: 食物鏈
-    zh-cn: 食物链
-    zh-hans: 食物链
-    zh-hant: 食物鏈
-    zh-hk: 食物鏈
-    zh-sg: 食物链
-    zh-tw: 食物鏈
+    zh_cn: 食物链
+    zh_hans: 食物链
+    zh_hant: 食物鏈
+    zh_hk: 食物鏈
+    zh_sg: 食物链
+    zh_tw: 食物鏈
 ---
 # [[Food_Chain]] 
 

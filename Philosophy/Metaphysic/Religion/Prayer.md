@@ -161,7 +161,7 @@ dv_has_:
     bcl: Pamibi
     bdr: Sembiang
     be: малітва
-    be-tarask: малітва
+    be_tarask: малітва
     bg: Молитва
     bn: প্রার্থনা
     bo: སྨོན་ལམ།
@@ -232,7 +232,7 @@ dv_has_:
     mn: Залбирал
     mr: प्रार्थना
     ms: sembahyang
-    ms-arab: سمبهيڠ
+    ms_arab: سمبهيڠ
     mwl: Ouraçon
     nan: Kî-tó
     nb: bønn
@@ -266,7 +266,7 @@ dv_has_:
     sn: Munamato
     sq: Lutja
     sr: молитва
-    sr-ec: молитва
+    sr_ec: молитва
     sv: bön
     sw: sala
     szl: Rzykańy

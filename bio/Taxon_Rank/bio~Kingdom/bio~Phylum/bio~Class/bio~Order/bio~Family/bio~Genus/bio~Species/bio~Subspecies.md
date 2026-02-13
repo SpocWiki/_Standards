@@ -105,7 +105,7 @@ dv_has_:
     ast: subespecie
     az: Yarımnöv
     be: падвід
-    be-tarask: падвід
+    be_tarask: падвід
     bg: подвид
     bho: उपप्रजाति
     bn: উপপ্রজাতি
@@ -120,8 +120,8 @@ dv_has_:
     diq: Torobınên
     el: Υποείδος
     en: subspecies
-    en-ca: subspecies
-    en-gb: subspecies
+    en_ca: subspecies
+    en_gb: subspecies
     eo: subspecio
     es: subespecie
     et: alamliik
@@ -166,7 +166,7 @@ dv_has_:
     pap: Supespesie
     pl: podgatunek
     pt: subespécie
-    pt-br: subespécie
+    pt_br: subespécie
     ro: subspecie
     ru: подвид
     rue: Підвид
@@ -185,8 +185,8 @@ dv_has_:
     tly: žinə čur
     tr: alt tür
     tt: астөр
-    tt-cyrl: астөр
-    tt-latn: astör
+    tt_cyrl: астөр
+    tt_latn: astör
     uk: підвид
     ur: ذیلی نوع
     vec: Sotospece
@@ -194,9 +194,9 @@ dv_has_:
     wuu: 亚种
     yue: 亞種
     zh: 亞種
-    zh-hans: 亚种
-    zh-hant: 亞種
-    zh-hk: 亞種
+    zh_hans: 亚种
+    zh_hant: 亞種
+    zh_hk: 亞種
 ---
 # [[bio~Subspecies]] 
 

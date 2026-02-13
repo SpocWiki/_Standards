@@ -37,8 +37,8 @@ dv_has_:
     vi: Limnognathia
     war: Limnognathia
     zh: 颚虫属
-    zh-cn: 颚虫属
-    zh-tw: 顎蟲屬
+    zh_cn: 颚虫属
+    zh_tw: 顎蟲屬
 ---
 ## [[Micrognathozoa]] 
 

@@ -113,7 +113,7 @@ dv_has_:
     ast: Nicolas Léonard Sadi Carnot
     azb: نیکولا سعدی کارنو
     be: Нікала Леанар Садзі Карно
-    be-tarask: Нікаля Карно
+    be_tarask: Нікаля Карно
     bg: Сади Карно
     bn: সাদি কার্নো
     bs: Nicolas Léonard Sadi Carnot
@@ -162,7 +162,7 @@ dv_has_:
     pl: Nicolas Léonard Sadi Carnot
     pms: Sadi Carnot
     pt: Sadi Carnot
-    pt-br: Sadi Carnot
+    pt_br: Sadi Carnot
     ro: Nicolas Léonard Sadi Carnot
     ru: Сади Карно
     sco: Nicolas Léonard Sadi Carnot
@@ -183,12 +183,12 @@ dv_has_:
     xmf: ნიკოლა ლეონარ სადი კარნო
     yue: 尼古拉·萊昂納爾·薩迪·卡諾
     zh: 尼古拉·莱昂纳尔·萨迪·卡诺
-    zh-cn: 尼古拉·莱昂纳尔·萨迪·卡诺
-    zh-hans: 尼古拉·莱昂纳尔·萨迪·卡诺
-    zh-hant: 尼古拉·萊昂納爾·薩迪·卡諾
-    zh-hk: 尼古拉·萊昂納爾·薩迪·卡諾
-    zh-sg: 尼古拉·莱昂纳尔·萨迪·卡诺
-    zh-tw: 尼古拉·萊昂納爾·薩迪·卡諾
+    zh_cn: 尼古拉·莱昂纳尔·萨迪·卡诺
+    zh_hans: 尼古拉·莱昂纳尔·萨迪·卡诺
+    zh_hant: 尼古拉·萊昂納爾·薩迪·卡諾
+    zh_hk: 尼古拉·萊昂納爾·薩迪·卡諾
+    zh_sg: 尼古拉·莱昂纳尔·萨迪·卡诺
+    zh_tw: 尼古拉·萊昂納爾·薩迪·卡諾
 ---
 # [[Carnot,Nicolas_Léonard_Sadi]] 
 

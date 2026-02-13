@@ -109,7 +109,7 @@ dv_has_:
     az: parazitizm
     azb: انگل
     be: паразітызм
-    be-tarask: паразытызм
+    be_tarask: паразытызм
     bg: паразитизъм
     bn: পরজীবিতা
     bs: parazitizam
@@ -121,8 +121,8 @@ dv_has_:
     de: Parasitismus
     el: παρασιτισμός
     en: parasitism
-    en-ca: parasitism
-    en-gb: parasitism
+    en_ca: parasitism
+    en_gb: parasitism
     eo: parazitismo
     es: parasitismo
     et: parasitism
@@ -154,7 +154,7 @@ dv_has_:
     kn: ಪರಜೀವಿಕೆ
     ko: 기생
     ku: mişexwerî
-    ku-latn: mişexwerî
+    ku_latn: mişexwerî
     kw: arvil
     ky: мителер
     la: parasitismus
@@ -166,7 +166,7 @@ dv_has_:
     mn: Шимэгчлэл
     mr: परजीवीपणा
     ms: parasitisme
-    ms-arab: ڤاراسيتيسمى
+    ms_arab: ڤاراسيتيسمى
     nb: parasittisme
     nl: parasitisme
     nn: parasittisme
@@ -190,14 +190,14 @@ dv_has_:
     sn: chisvetasimba
     sq: parazitizmi
     sr: паразитизам
-    sr-ec: паразитизам
-    sr-el: parazitizam
+    sr_ec: паразитизам
+    sr_el: parazitizam
     sv: parasitism
     sw: kimelea
     ta: ஒட்டுண்ணி வாழ்வு
     te: పరాన్నజీవనం
     tg: муфтхӯр
-    tg-latn: muftxūr
+    tg_latn: muftxūr
     th: ปรสิต
     tl: parasitismo
     tr: asalaklık

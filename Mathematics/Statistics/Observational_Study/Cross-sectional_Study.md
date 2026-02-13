@@ -63,8 +63,8 @@ dv_has_:
     uk: поперечне дослідження
     yue: 橫切面研究
     zh: 橫斷面研究
-    zh-cn: 横向研究
-    zh-hant: 橫向研究
+    zh_cn: 横向研究
+    zh_hant: 橫向研究
 ---
 # [[Cross-sectional_Study]] 
 

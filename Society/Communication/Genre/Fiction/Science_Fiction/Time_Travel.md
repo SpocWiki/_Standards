@@ -107,7 +107,7 @@ dv_has_:
     ast: viaxe al traviés del tiempu
     az: Zamanda səyahət
     be: падарожжы ў часе
-    be-tarask: вандроўка ў часе
+    be_tarask: вандроўка ў часе
     bg: Пътешествие във времето
     bn: সময় ভ্রমণ
     ca: viatge en el temps
@@ -166,8 +166,8 @@ dv_has_:
     so: Safarka Wakhtiga
     sq: udhëtimi në kohë
     sr: путовање кроз време
-    sr-ec: Путовање кроз време
-    sr-el: Putovanje kroz vreme
+    sr_ec: Путовање кроз време
+    sr_el: Putovanje kroz vreme
     su: Lalampahan waktu
     sv: tidsresa
     ta: காலப் பயணம்
@@ -184,12 +184,12 @@ dv_has_:
     wuu: 辰光旅行
     yue: 時間旅行
     zh: 时间旅行
-    zh-cn: 时间旅行
-    zh-hans: 时间旅行
-    zh-hant: 時間旅行
-    zh-hk: 時間旅行
-    zh-sg: 时间旅行
-    zh-tw: 時間旅行
+    zh_cn: 时间旅行
+    zh_hans: 时间旅行
+    zh_hant: 時間旅行
+    zh_hk: 時間旅行
+    zh_sg: 时间旅行
+    zh_tw: 時間旅行
 ---
 # [[Time_Travel]] 
 

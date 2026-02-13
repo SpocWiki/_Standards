@@ -86,7 +86,7 @@ dv_has_:
     az: İran ədəbiyyatı
     ba: Фарсы әҙәбиәте
     be: персідская літаратура
-    be-tarask: пэрская літаратура
+    be_tarask: пэрская літаратура
     bn: ফার্সি সাহিত্য
     br: Lennegezh pers
     bs: Perzijska književnost
@@ -117,11 +117,11 @@ dv_has_:
     ja: ペルシア文学
     ka: სპარსული ლიტერატურა
     kk: Парсы әдебиеті
-    kk-arab: پارسى ادەبىييەتى
+    kk_arab: پارسى ادەبىييەتى
     kk-cn: پارسى ادەبىييەتى
-    kk-cyrl: Парсы әдебиеті
+    kk_cyrl: Парсы әдебиеті
     kk-kz: Парсы әдебиеті
-    kk-latn: Parsı ädebïyeti
+    kk_latn: Parsı ädebïyeti
     kk-tr: Parsı ädebïyeti
     ko: 페르시아 문학
     ks: فارسی اَدَب
@@ -153,9 +153,9 @@ dv_has_:
     yue: 波斯文文學
     zgh: ⵜⴰⵖⵏⵏⵉⵊⵜ ⵜⴰⵎⴰⵣⵉⵖⵜ
     zh: 波斯文学
-    zh-cn: 波斯文学
-    zh-hans: 波斯文学
-    zh-hant: 波斯文學
+    zh_cn: 波斯文学
+    zh_hans: 波斯文学
+    zh_hant: 波斯文學
 ---
 # [[Persian_Literature]] 
 

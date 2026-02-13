@@ -96,7 +96,7 @@ dv_has_:
     ba: биологик систематика
     bar: Systematik
     be: біялагічная сістэматыка
-    be-tarask: сыстэматыка
+    be_tarask: сыстэматыка
     bs: sistematika
     bxr: биологиин бүлэглэн хубаарилга
     ca: sistemàtica
@@ -106,11 +106,11 @@ dv_has_:
     cy: systemeg
     da: systematik
     de: Systematik
-    de-ch: Systematik
+    de_ch: Systematik
     el: συστηματική
     en: systematics
-    en-ca: systematics
-    en-gb: systematics
+    en_ca: systematics
+    en_gb: systematics
     eo: sistematiko
     es: sistemática
     eu: sistematika
@@ -143,7 +143,7 @@ dv_has_:
     mk: систематика
     ml: സിസ്റ്റമാറ്റിക്സ്
     ms: sistematik
-    ms-arab: سيستماتيک
+    ms_arab: سيستماتيک
     my: သိပ္ပံနည်းကျအမျိုးအစားခွဲခြားခြင်း
     nan: hē-thóng-ha̍k
     nap: sistemateca
@@ -156,7 +156,7 @@ dv_has_:
     pl: systematyka organizmów
     pms: sistemàtica
     pt: sistemática
-    pt-br: sistemática
+    pt_br: sistemática
     ru: биологическая систематика
     rue: біолоґічна класіфікація
     sco: seestematics
@@ -170,8 +170,8 @@ dv_has_:
     sms: systematikk
     sq: sistematika
     sr: систематика
-    sr-ec: систематика
-    sr-el: sistematika
+    sr_ec: систематика
+    sr_el: sistematika
     stq: Systematik
     sv: systematik
     szl: systymatyka ôrganizmōw
@@ -190,8 +190,8 @@ dv_has_:
     xmf: სისტემატიკა
     yue: 生物系統學
     zh: 系統分類學
-    zh-cn: 系统分类学
-    zh-hant: 系統分類學
+    zh_cn: 系统分类学
+    zh_hant: 系統分類學
 ---
 # [[Systematics]] 
 

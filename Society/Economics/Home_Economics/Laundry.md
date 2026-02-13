@@ -90,7 +90,7 @@ dv_has_:
     az: Camaşırxana
     ban: Manting
     be: пранне
-    be-tarask: мыцьцё
+    be_tarask: мыцьцё
     br: Kannañ
     ca: bugada
     cs: praní
@@ -142,9 +142,9 @@ dv_has_:
     wuu: 汏衣
     yue: 洗衫
     zh: 洗衣
-    zh-hans: 洗衣
-    zh-hant: 洗衣
-    zh-hk: 洗衣
+    zh_hans: 洗衣
+    zh_hant: 洗衣
+    zh_hk: 洗衣
 ---
 # [[Laundry]] 
 

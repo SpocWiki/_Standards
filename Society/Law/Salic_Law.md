@@ -87,7 +87,7 @@ dv_has_:
     ast: Llei Sálica
     az: Salik qanunu
     be: Салічная праўда
-    be-tarask: салічны закон
+    be_tarask: салічны закон
     bg: Салически закон
     br: Lezenn salek
     bs: Salijski zakonik
@@ -140,12 +140,12 @@ dv_has_:
     uk: Салічна правда
     vi: Luật Salic
     zh: 薩利克法
-    zh-cn: 萨利克法
-    zh-hans: 萨利克法
-    zh-hant: 薩利克法
-    zh-hk: 薩利克法
-    zh-sg: 萨利克法
-    zh-tw: 薩利克法
+    zh_cn: 萨利克法
+    zh_hans: 萨利克法
+    zh_hant: 薩利克法
+    zh_hk: 薩利克法
+    zh_sg: 萨利克法
+    zh_tw: 薩利克法
 ---
 # [[Salic_Law]] 
 

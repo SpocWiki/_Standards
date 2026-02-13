@@ -4,7 +4,7 @@ dv_has_:
     ab: Бенин
     ace: Benin
     ady: Бенин
-    aeb-arab: بنين
+    aeb_arab: بنين
     af: Benin
     am: ቤኒን
     ami: Benin
@@ -25,7 +25,7 @@ dv_has_:
     bar: Benin
     bcl: Benin
     be: Бенін
-    be-tarask: Бэнін
+    be_tarask: Бэнін
     bew: Bénin
     bg: Бенин
     bgn: بینین
@@ -40,7 +40,7 @@ dv_has_:
     bs: Benin
     bxr: Бенин
     ca: Benín
-    cbk-zam: Benín
+    cbk_zam: Benín
     cdo: Benin
     ce: Бенин
     ceb: Benin
@@ -48,14 +48,14 @@ dv_has_:
     ckb: بێنین
     co: Benin
     crh: Benin
-    crh-latn: Benin
+    crh_latn: Benin
     cs: Benin
     cv: Бенин
     cy: Benin
     da: Benin
     dag: Benin
     de: Benin
-    de-ch: Benin
+    de_ch: Benin
     dga: Benin
     diq: Benin
     dsb: Benin
@@ -65,8 +65,8 @@ dv_has_:
     ee: Benin
     el: Μπενίν
     en: Benin
-    en-ca: Benin
-    en-gb: Benin
+    en_ca: Benin
+    en_gb: Benin
     en-us: Benin
     eo: Benino
     es: Benín
@@ -173,7 +173,7 @@ dv_has_:
     nan: Benin
     nb: Benin
     nds: Benin
-    nds-nl: Benin
+    nds_nl: Benin
     ne: बेनिन
     new: बेनिन
     nl: Benin
@@ -200,7 +200,7 @@ dv_has_:
     pnb: بنین
     ps: بېنين
     pt: Benim
-    pt-br: Benim
+    pt_br: Benim
     qu: Binin
     rm: Benin
     rmy: Benin
@@ -233,8 +233,8 @@ dv_has_:
     so: Benin
     sq: Benini
     sr: Бенин
-    sr-ec: Бенин
-    sr-el: Benin
+    sr_ec: Бенин
+    sr_el: Benin
     ss: IBhenini
     st: Benin
     stq: Benin
@@ -281,14 +281,14 @@ dv_has_:
     zea: Benin
     zgh: ⴱⵉⵏⵉⵏ
     zh: 貝南
-    zh-cn: 贝宁
-    zh-hans: 贝宁
-    zh-hant: 貝南
-    zh-hk: 貝寧
-    zh-mo: 貝寧
+    zh_cn: 贝宁
+    zh_hans: 贝宁
+    zh_hant: 貝南
+    zh_hk: 貝寧
+    zh_mo: 貝寧
     zh-my: 贝宁
-    zh-sg: 贝宁
-    zh-tw: 貝南
+    zh_sg: 贝宁
+    zh_tw: 貝南
     zu: IBenini
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Benin

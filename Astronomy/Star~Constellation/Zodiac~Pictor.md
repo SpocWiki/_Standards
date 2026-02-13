@@ -106,7 +106,7 @@ dv_has_:
     az: Boyakar
     ba: Рәссам
     be: Жывапісец
-    be-tarask: Жывапісец
+    be_tarask: Жывапісец
     bg: Живописец
     bn: চিত্রপট মণ্ডল
     br: Livour

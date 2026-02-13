@@ -175,7 +175,7 @@ dv_has_:
     ba: Бекхэм Дэвид
     bar: David Beckham
     be: Дэвід Бекхэм
-    be-tarask: Дэйвід Бэкгэм
+    be_tarask: Дэйвід Бэкгэм
     bg: Дейвид Бекъм
     bn: ডেভিড বেকহ্যাম
     br: David Beckham
@@ -188,11 +188,11 @@ dv_has_:
     da: David Beckham
     de: David Beckham
     de-at: David Beckham
-    de-ch: David Beckham
+    de_ch: David Beckham
     el: Ντέιβιντ Μπέκαμ
     en: David Beckham
-    en-ca: David Beckham
-    en-gb: David Beckham
+    en_ca: David Beckham
+    en_gb: David Beckham
     eo: David Beckham
     es: David Beckham
     et: David Beckham
@@ -258,7 +258,7 @@ dv_has_:
     pnb: ڈیوڈ بیکہم
     ps: ډېوېډ بکهم
     pt: David Beckham
-    pt-br: David Beckham
+    pt_br: David Beckham
     qu: David Beckham
     ro: David Beckham
     ru: Дэвид Бекхэм
@@ -270,7 +270,7 @@ dv_has_:
     sl: David Beckham
     sq: David Beckham
     sr: Дејвид Бекам
-    sr-el: David Beckham
+    sr_el: David Beckham
     su: David Beckham
     sv: David Beckham
     sw: David Beckham
@@ -292,11 +292,11 @@ dv_has_:
     yo: David Beckham
     yue: 碧咸
     zh: 大卫·贝克汉姆
-    zh-cn: 大卫·贝克汉姆
-    zh-hans: 大卫·贝克汉姆
-    zh-hant: 大衛·貝克漢
-    zh-hk: 大衛·碧咸
-    zh-tw: 大衛·貝克漢
+    zh_cn: 大卫·贝克汉姆
+    zh_hans: 大卫·贝克汉姆
+    zh_hant: 大衛·貝克漢
+    zh_hk: 大衛·碧咸
+    zh_tw: 大衛·貝克漢
 ---
 # [[Beckham,David]]
 

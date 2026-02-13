@@ -193,28 +193,28 @@ dv_has_:
     azb: ریاضیچی
     ba: математик
     be: матэматык
-    be-tarask: матэматык
+    be_tarask: матэматык
     bg: математик
     bho: गणितज्ञ
     bn: গণিতবিদ
     br: matematikour
     bs: matematičar
     ca: matemàtic
-    cbk-zam: Matematico
+    cbk_zam: Matematico
     ce: математик
     ceb: matematiko
     ckb: ماتماتیکزان
-    crh-latn: riyaziyatçı (matematikacı)
+    crh_latn: riyaziyatçı (matematikacı)
     cs: matematik
     cy: mathemategydd
     da: matematiker
     de: Mathematiker
     de-at: Mathematiker
-    de-ch: Mathematiker
+    de_ch: Mathematiker
     diq: matematikwan
     el: μαθηματικός
     en: mathematician
-    en-gb: mathematician
+    en_gb: mathematician
     en-us: mathematician
     eo: matematikisto
     es: matemático
@@ -273,7 +273,7 @@ dv_has_:
     mn: математикч
     mr: गणितज्ञ
     ms: ahli matematik
-    ms-arab: اهلي ماتماتيک
+    ms_arab: اهلي ماتماتيک
     mt: matematiku
     my: သင်္ချာပညာရှင်
     mzn: رقمدون
@@ -306,8 +306,8 @@ dv_has_:
     smn: matematikkár
     sq: matematikan
     sr: математичар
-    sr-ec: математичар
-    sr-el: matematičar
+    sr_ec: математичар
+    sr_el: matematičar
     su: matematikawan
     sv: matematiker
     sw: mwanahisabati
@@ -315,7 +315,7 @@ dv_has_:
     ta: கணிதவியலாளர்
     te: గణితశాస్త్రజ్ఞుడు
     tg: риёзидон
-    tg-cyrl: риёзидон
+    tg_cyrl: риёзидон
     th: นักคณิตศาสตร์
     tl: matematiko
     tok: jan pi sona nanpa
@@ -334,12 +334,12 @@ dv_has_:
     yo: onímọ̀ ìsirò
     yue: 數學家
     zh: 數學家
-    zh-cn: 数学家
-    zh-hans: 数学家
-    zh-hant: 數學家
-    zh-hk: 數學家
-    zh-sg: 数学家
-    zh-tw: 數學家
+    zh_cn: 数学家
+    zh_hans: 数学家
+    zh_hant: 數學家
+    zh_hk: 數學家
+    zh_sg: 数学家
+    zh_tw: 數學家
 ---
 # [[Mathematician]] 
 

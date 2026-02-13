@@ -239,7 +239,7 @@ dv_has_:
     ba: хөкүмәт
     bcl: gobyerno
     be: урад
-    be-tarask: урад
+    be_tarask: урад
     bew: guwernemèn
     bg: правителство
     bn: সরকার
@@ -264,8 +264,8 @@ dv_has_:
     dsb: kněžaŕstwo
     el: κυβέρνηση
     en: government
-    en-ca: government
-    en-gb: government
+    en_ca: government
+    en_gb: government
     eo: registaro
     es: Gobierno
     et: valitsus
@@ -328,7 +328,7 @@ dv_has_:
     lzh: 政府
     mad: pemerentahan
     mai: सरकार
-    map-bms: pemerentahan
+    map_bms: pemerentahan
     mg: governemanta
     mi: kāwanatanga
     min: pamarentah
@@ -337,7 +337,7 @@ dv_has_:
     mn: засаглал
     mr: सरकार
     ms: kerajaan
-    ms-arab: کراجاءن
+    ms_arab: کراجاءن
     mt: gvern
     mwl: goberno
     my: အစိုးရ
@@ -364,7 +364,7 @@ dv_has_:
     pnb: سرکار
     ps: حکومت
     pt: governo
-    pt-br: governo
+    pt_br: governo
     pwn: sihu
     ro: guvern
     ru: правительство
@@ -386,7 +386,7 @@ dv_has_:
     sn: hurumende
     sq: qeveria
     sr: влада
-    sr-ec: влада
+    sr_ec: влада
     su: pamaréntah
     sv: regering
     sw: serikali
@@ -402,8 +402,8 @@ dv_has_:
     tr: hükumet
     ts: hulumendhe
     tt: хөкүмәт
-    tt-cyrl: хөкүмәт
-    tt-latn: xökümät
+    tt_cyrl: хөкүмәт
+    tt_latn: xökümät
     tw: ьansoafoɔ
     udm: кивалтэт
     uk: уряд
@@ -420,14 +420,14 @@ dv_has_:
     yue: 政府
     za: cwngfuj
     zh: 政府
-    zh-cn: 政府
-    zh-hans: 政府
-    zh-hant: 政府
-    zh-hk: 政府
-    zh-mo: 政府
+    zh_cn: 政府
+    zh_hans: 政府
+    zh_hant: 政府
+    zh_hk: 政府
+    zh_mo: 政府
     zh-my: 政府
-    zh-sg: 政府
-    zh-tw: 政府
+    zh_sg: 政府
+    zh_tw: 政府
     zu: uHulumeni
 ---
 # [[Government]] 

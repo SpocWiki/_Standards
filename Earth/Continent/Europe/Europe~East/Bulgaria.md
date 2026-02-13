@@ -5,7 +5,7 @@ dv_has_:
     ab: Болгариа
     ace: Bulgaria
     ady: Булгарие
-    aeb-arab: بلغاريا
+    aeb_arab: بلغاريا
     af: Bulgarye
     am: ቡልጋሪያ
     ami: Bulgaria
@@ -29,7 +29,7 @@ dv_has_:
     bar: Buigarien
     bcl: Bulgarya
     be: Балгарыя
-    be-tarask: Баўгарыя
+    be_tarask: Баўгарыя
     bew: Bulgari
     bg: България
     bgn: بلگاریا
@@ -44,7 +44,7 @@ dv_has_:
     bs: Bugarska
     bxr: Болгар
     ca: Bulgària
-    cbk-zam: Bulgaria
+    cbk_zam: Bulgaria
     cdo: Bulgaria
     ce: Болгари
     ceb: Bulgaria
@@ -53,7 +53,7 @@ dv_has_:
     ckb: بولگاریا
     co: Bulgaria
     crh: Bulğaristan
-    crh-latn: Bulğaristan
+    crh_latn: Bulğaristan
     crh-ro: Bulgariye
     cs: Bulharsko
     csb: Bùlgarskô
@@ -64,7 +64,7 @@ dv_has_:
     dag: Bulgaria
     de: Bulgarien
     de-at: Bulgarien
-    de-ch: Bulgarien
+    de_ch: Bulgarien
     din: Bulgaria
     diq: Bulğarıstan
     dsb: Bulgaŕska
@@ -75,8 +75,8 @@ dv_has_:
     el: Βουλγαρία
     eml: Bulgarî
     en: Bulgaria
-    en-ca: Bulgaria
-    en-gb: Bulgaria
+    en_ca: Bulgaria
+    en_gb: Bulgaria
     eo: Bulgario
     es: Bulgaria
     et: Bulgaaria
@@ -101,7 +101,7 @@ dv_has_:
     gn: Vugaria
     gom: बल्गेरिया
     gom-deva: बल्गेरिया
-    gom-latn: Bulgaria
+    gom_latn: Bulgaria
     got: "\U00010331\U0001033F\U0001033B\U00010332\U00010330\U00010342\U00010339\U00010330"
     gpe: Bulgaria
     gsw: Bulgarie
@@ -178,7 +178,7 @@ dv_has_:
     lzh: 保加利亞
     mad: Bulgaria
     mai: बुल्गेरिया
-    map-bms: Bulgaria
+    map_bms: Bulgaria
     mdf: Болгария
     mg: Biolgaria
     mhr: Болгарий
@@ -192,7 +192,7 @@ dv_has_:
     mr: बल्गेरिया
     mrj: Болгари
     ms: Bulgaria
-    ms-arab: بولݢاريا
+    ms_arab: بولݢاريا
     mt: Bulgarija
     mwl: Bulgária
     my: ဘူလ်ဂေးရီးယားနိုင်ငံ
@@ -204,7 +204,7 @@ dv_has_:
     nap: Bulgaria
     nb: Bulgaria
     nds: Bulgarien
-    nds-nl: Bulgarije
+    nds_nl: Bulgarije
     ne: बुल्गेरिया
     new: बुल्गेरिया
     nl: Bulgarije
@@ -233,7 +233,7 @@ dv_has_:
     pnt: Βουλγαρία
     ps: بلغاریا
     pt: Bulgária
-    pt-br: Bulgária
+    pt_br: Bulgária
     qu: Bulgarya
     rm: Bulgaria
     rmy: Bulgariya
@@ -269,8 +269,8 @@ dv_has_:
     so: Bulgaria
     sq: Bullgaria
     sr: Бугарска
-    sr-ec: Бугарска
-    sr-el: Bugarska
+    sr_ec: Бугарска
+    sr_el: Bugarska
     srn: Bulgarikondre
     ss: IBhulgariya
     st: Bulgaria
@@ -323,10 +323,10 @@ dv_has_:
     zea: Bulharije
     zgh: ⴱⵍⵖⴰⵔⵢⴰ
     zh: 保加利亚
-    zh-cn: 保加利亚
-    zh-hans: 保加利亚
-    zh-hant: 保加利亞
-    zh-tw: 保加利亞
+    zh_cn: 保加利亚
+    zh_hans: 保加利亚
+    zh_hant: 保加利亞
+    zh_tw: 保加利亞
     zu: IBulgariya
   number_of_:
     people: 6.795803e6

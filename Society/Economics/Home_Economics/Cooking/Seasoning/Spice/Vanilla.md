@@ -81,7 +81,7 @@ dv_has_:
     arz: ڤانيليا
     ast: vainilla
     az: Vanil
-    be-tarask: ваніль
+    be_tarask: ваніль
     bo: དྲི་ཞིམ་ལྡན་པའི་རྩྭ།
     br: vanilha
     ca: vainilla
@@ -93,8 +93,8 @@ dv_has_:
     de: Vanille
     el: Βανίλια
     en: vanilla
-    en-ca: Vanilla
-    en-gb: vanilla
+    en_ca: Vanilla
+    en_gb: vanilla
     en-us: vanilla
     eo: vanilo
     es: vainilla
@@ -130,7 +130,7 @@ dv_has_:
     min: Vanila
     mk: Ванила
     ms: vanila
-    ms-arab: ۏانيلا
+    ms_arab: ۏانيلا
     my: ဗနီလာပင်
     nb: vanilje
     nl: vanille
@@ -138,7 +138,7 @@ dv_has_:
     pl: laska wanilii
     pnb: ونیلا
     pt: baunilha
-    pt-br: Baunilha
+    pt_br: Baunilha
     rmy: Vanilla
     ro: vanilie
     ru: ваниль

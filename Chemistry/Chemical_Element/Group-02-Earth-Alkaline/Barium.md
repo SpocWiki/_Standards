@@ -171,7 +171,7 @@ dv_has_:
     ban: Barium
     bcl: Baryo (elemento)
     be: Барый
-    be-tarask: Бар
+    be_tarask: Бар
     bg: барий
     bho: बेरियम
     bn: বেরিয়াম
@@ -189,11 +189,11 @@ dv_has_:
     cy: bariwm
     da: barium
     de: Barium
-    de-ch: Barium
+    de_ch: Barium
     el: βάριο
     en: barium
-    en-ca: Barium
-    en-gb: barium
+    en_ca: Barium
+    en_gb: barium
     eo: bario
     es: bario
     et: baarium
@@ -280,7 +280,7 @@ dv_has_:
     pnb: بیریم
     ps: بېريوم
     pt: bário
-    pt-br: bário
+    pt_br: bário
     qu: Baryu
     ro: bariu
     ru: барий
@@ -297,7 +297,7 @@ dv_has_:
     so: Baariyaam
     sq: Bariumi
     sr: баријум
-    sr-ec: Баријум
+    sr_ec: Баријум
     stq: Barium
     sv: barium
     sw: Bari
@@ -323,10 +323,10 @@ dv_has_:
     yo: Barium
     yue: 鋇
     zh: 鋇
-    zh-hans: 钡
-    zh-hant: 鋇
-    zh-hk: 鋇
-    zh-tw: 鋇
+    zh_hans: 钡
+    zh_hant: 鋇
+    zh_hk: 鋇
+    zh_tw: 鋇
     zu: UmBhanya
   number_of_:
     electrons: 56

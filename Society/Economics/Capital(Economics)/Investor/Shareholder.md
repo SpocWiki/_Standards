@@ -83,7 +83,7 @@ dv_has_:
     ast: accionista
     az: səhmdar
     be: акцыянер
-    be-tarask: акцыянэр
+    be_tarask: акцыянэр
     bs: Dioničar
     bxr: акционер
     ca: accionista
@@ -145,12 +145,12 @@ dv_has_:
     yi: אקציאנער
     yue: 股東
     zh: 股东
-    zh-cn: 股东
-    zh-hans: 股东
-    zh-hant: 股東
-    zh-hk: 股東
-    zh-sg: 股东
-    zh-tw: 股東
+    zh_cn: 股东
+    zh_hans: 股东
+    zh_hant: 股東
+    zh_hk: 股東
+    zh_sg: 股东
+    zh_tw: 股東
 ---
 #is_/same_as :: [[_Standards/WikiData/WD~shareholder,381136]] 
 

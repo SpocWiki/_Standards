@@ -62,7 +62,7 @@ dv_has_:
     ar: فأس الحرب
     ast: Hachu de guerra
     az: Təbərzin
-    be-tarask: баявая сякера
+    be_tarask: баявая сякера
     bg: Бойна брадва
     bs: Bojna sjekira
     ca: destral de guerra
@@ -102,8 +102,8 @@ dv_has_:
     sh: ratna sjekira
     sl: bojna sekira
     sr: Бојна секира
-    sr-ec: бојна секира
-    sr-el: bojna sekira
+    sr_ec: бојна секира
+    sr_el: bojna sekira
     sv: stridsyxa
     tr: Savaş baltası
     uk: бойова сокира

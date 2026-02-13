@@ -89,7 +89,7 @@ dv_has_:
     ast: función gamma
     ba: гамма-функция
     be: гама-функцыя
-    be-tarask: гама-функцыя
+    be_tarask: гама-функцыя
     bg: гама-функция
     bn: গামা অপেক্ষক
     bs: gama funkcija
@@ -134,15 +134,15 @@ dv_has_:
     pl: funkcja Γ
     pms: fonsion Gama d'Euler
     pt: função gama
-    pt-br: função gama
+    pt_br: função gama
     ro: funcția gamma
     ru: гамма-функция
     sk: gama funkcia
     sl: funkcija gama
     sq: funksioni Gama
     sr: гама-функција
-    sr-ec: гама-функција
-    sr-el: gama-funkcija
+    sr_ec: гама-функција
+    sr_el: gama-funkcija
     su: fungsi gamma
     sv: gammafunktionen
     ta: காமா சார்பியம்
@@ -156,12 +156,12 @@ dv_has_:
     wuu: Γ函数
     yue: Γ函數
     zh: Γ函数
-    zh-cn: Γ函数
-    zh-hans: Γ函数
-    zh-hant: Γ函數
-    zh-hk: Γ函數
-    zh-sg: Γ函数
-    zh-tw: Γ函數
+    zh_cn: Γ函数
+    zh_hans: Γ函数
+    zh_hant: Γ函數
+    zh_hk: Γ函數
+    zh_sg: Γ函数
+    zh_tw: Γ函數
 ---
 # [[Gamma_Function]] 
 

@@ -235,7 +235,7 @@ dv_has_:
     azb: قیزیل بالیق
     ban: Ulam mas
     be: залатая рыбка
-    be-tarask: карась срэбраны
+    be_tarask: карась срэбраны
     bg: златна рибка
     bn: গোল্ডফিশ
     br: Pesk-aour
@@ -252,8 +252,8 @@ dv_has_:
     de: Goldfisch
     el: Χρυσόψαρο
     en: goldfish
-    en-ca: Goldfish
-    en-gb: goldfish
+    en_ca: Goldfish
+    en_gb: goldfish
     eo: orfiŝo
     es: Carassius auratus
     et: kuldkala
@@ -308,7 +308,7 @@ dv_has_:
     pms: Pess ross
     pnb: سنہری مچھی
     pt: Carassius auratus
-    pt-br: Carassius auratus
+    pt_br: Carassius auratus
     ro: caras auriu
     ru: золотая рыбка
     sco: gowdfish
@@ -319,14 +319,14 @@ dv_has_:
     sms: kåʹllkueʹll
     sq: Peshku i kuq
     sr: златни караш
-    sr-ec: златни караш
-    sr-el: zlatni karaš
+    sr_ec: златни караш
+    sr_el: zlatni karaš
     su: Koki
     sv: guldfisk
     ta: thanga meen
     te: గోల్డ్ ఫిష్
     tg: зармоҳӣ
-    tg-latn: Mohiji zarrin
+    tg_latn: Mohiji zarrin
     th: ปลาทอง
     tk: Altyn balyk
     tl: Carassius auratus auratus
@@ -340,12 +340,12 @@ dv_has_:
     yi: גאלדפיש
     yue: 鰂魚
     zh: 鲫鱼
-    zh-cn: 鲫鱼
-    zh-hans: 鲫鱼
-    zh-hant: 金魚
-    zh-hk: 金魚
-    zh-sg: 金鱼
-    zh-tw: 金魚
+    zh_cn: 鲫鱼
+    zh_hans: 鲫鱼
+    zh_hant: 金魚
+    zh_hk: 金魚
+    zh_sg: 金鱼
+    zh_tw: 金魚
 ---
 # [[Goldfish]]
 

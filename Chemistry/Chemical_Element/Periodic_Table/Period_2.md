@@ -95,7 +95,7 @@ dv_has_:
     ast: Elementos del periodu 2
     az: Dövri sistemin ikinci periodu
     ba: периодик системаның икенсе периоды
-    be-tarask: другі пэрыяд
+    be_tarask: другі пэрыяд
     bho: पीरियड २ तत्व
     bn: দ্বিতীয় পর্যায়ের মৌল
     ca: període 2
@@ -105,8 +105,8 @@ dv_has_:
     de: chemische Elemente der zweiten Periode
     el: 2η περίοδος χημικών στοιχείων
     en: period 2
-    en-ca: period 2 element
-    en-gb: period 2
+    en_ca: period 2 element
+    en_gb: period 2
     eo: elemento de periodo 2
     es: elementos del periodo 2
     eu: 2. periodoko elementu
@@ -132,7 +132,7 @@ dv_has_:
     lt: Antrojo periodo elementas
     mk: Период 2 на периодниот систем
     ms: kala 2
-    ms-arab: کالا 2
+    ms_arab: کالا 2
     nb: periode 2
     nl: periode-2-element
     nn: periode 2
@@ -147,8 +147,8 @@ dv_has_:
     sk: 2. perióda
     sl: 2. perioda
     sr: 2. периода хемијских елемената
-    sr-ec: 2. периода хемијских елемената
-    sr-el: 2. perioda hemijskih elemenata
+    sr_ec: 2. периода хемијских елемената
+    sr_el: 2. perioda hemijskih elemenata
     sv: period 2
     ta: கிடைக்குழு 2 தனிமங்கள்
     te: పీరియడ్ 2 మూలకం
@@ -159,12 +159,12 @@ dv_has_:
     vls: Periode-2-element
     yue: 第2週期元素
     zh: 第2周期元素
-    zh-cn: 第2周期元素
-    zh-hans: 第2周期元素
-    zh-hant: 第2周期元素
-    zh-hk: 第2周期元素
-    zh-sg: 第2周期元素
-    zh-tw: 第2周期元素
+    zh_cn: 第2周期元素
+    zh_hans: 第2周期元素
+    zh_hant: 第2周期元素
+    zh_hk: 第2周期元素
+    zh_sg: 第2周期元素
+    zh_tw: 第2周期元素
 ---
 # [[Period_2]] 
 

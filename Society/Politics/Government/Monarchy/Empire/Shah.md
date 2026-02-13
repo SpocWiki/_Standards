@@ -75,7 +75,7 @@ dv_has_:
     azb: شاه
     ba: Шаһ
     be: Шах
-    be-tarask: шаг
+    be_tarask: шаг
     bg: Шах
     bn: শাহ
     br: Chah
@@ -110,11 +110,11 @@ dv_has_:
     ja: シャー
     ka: შაჰი
     kk: Шаһ
-    kk-arab: شاح
+    kk_arab: شاح
     kk-cn: شاح
-    kk-cyrl: Шаһ
+    kk_cyrl: Шаһ
     kk-kz: Шаһ
-    kk-latn: Şah
+    kk_latn: Şah
     kk-tr: Şah
     ko: 샤
     ks: شاہ
@@ -127,7 +127,7 @@ dv_has_:
     mk: шах
     mn: Шах
     ms: Shah
-    ms-arab: شاه
+    ms_arab: شاه
     mzn: شاه
     nan: Shah
     nb: sjah
@@ -147,8 +147,8 @@ dv_has_:
     sl: šah
     sq: Shah
     sr: шах
-    sr-ec: шах
-    sr-el: šah
+    sr_ec: шах
+    sr_el: šah
     sv: shah
     sw: Shah
     ta: ஷா (பட்டம்)
@@ -163,12 +163,12 @@ dv_has_:
     wuu: 沙阿
     yue: 沙王
     zh: 沙阿
-    zh-cn: 沙阿
-    zh-hans: 沙阿
-    zh-hant: 沙阿
-    zh-hk: 沙阿
-    zh-sg: 沙阿
-    zh-tw: 沙阿
+    zh_cn: 沙阿
+    zh_hans: 沙阿
+    zh_hant: 沙阿
+    zh_hk: 沙阿
+    zh_sg: 沙阿
+    zh_tw: 沙阿
 ---
 # [[Shah]] 
 

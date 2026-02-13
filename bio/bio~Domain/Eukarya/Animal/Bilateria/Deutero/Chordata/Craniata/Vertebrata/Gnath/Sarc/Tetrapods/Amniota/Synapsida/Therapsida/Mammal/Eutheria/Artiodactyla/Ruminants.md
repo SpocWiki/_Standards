@@ -87,7 +87,7 @@ dv_has_:
     ba: Көйшәүселәр
     ban: Ruminantia
     be: жвачныя
-    be-tarask: Жуйкавыя
+    be_tarask: Жуйкавыя
     bg: преживни
     bjn: Ruminansia
     ca: Remugant
@@ -98,8 +98,8 @@ dv_has_:
     de: Wiederkäuer
     el: Μηρυκαστικά
     en: ruminants
-    en-ca: Ruminantia
-    en-gb: Ruminantia
+    en_ca: Ruminantia
+    en_gb: Ruminantia
     eo: Remaĉuloj
     es: Ruminantia
     et: mäletsejalised
@@ -130,11 +130,11 @@ dv_has_:
     ka: მცოხნელები
     kab: Timesluffaẓ
     kk: Күйіс қайыратындар
-    kk-arab: كۇيىس قايىراتىندار
+    kk_arab: كۇيىس قايىراتىندار
     kk-cn: كۇيىس قايىراتىندار
-    kk-cyrl: Күйіс қайыратындар
+    kk_cyrl: Күйіс қайыратындар
     kk-kz: Күйіс қайыратындар
-    kk-latn: Küýis qaýıratındar
+    kk_latn: Küýis qaýıratındar
     kk-tr: Küýis qaýıratındar
     ko: 반추류
     ky: Кепшөөчүлөр
@@ -153,7 +153,7 @@ dv_has_:
     oc: Ruminantia
     pl: przeżuwacze
     pt: Ruminantes
-    pt-br: Ruminantia
+    pt_br: Ruminantia
     ro: Rumegătoare
     ru: жвачные
     sco: Ruminantia
@@ -166,7 +166,7 @@ dv_has_:
     sr: Preživari
     sv: idisslare
     tg: Жовандаҳо
-    tg-latn: Ƶovandaho
+    tg_latn: Ƶovandaho
     th: อันดับย่อยสัตว์เคี้ยวเอื้อง
     tl: Ruminantia
     tr: Gevişgetirenler
@@ -181,12 +181,12 @@ dv_has_:
     wuu: 反刍亚目
     yue: 反芻動物
     zh: 反刍亚目
-    zh-cn: 反刍亚目
-    zh-hans: 反刍亚目
-    zh-hant: 反芻亞目
-    zh-hk: 反芻亞目
-    zh-sg: 反刍亚目
-    zh-tw: 反芻亞目
+    zh_cn: 反刍亚目
+    zh_hans: 反刍亚目
+    zh_hant: 反芻亞目
+    zh_hk: 反芻亞目
+    zh_sg: 反刍亚目
+    zh_tw: 反芻亞目
 ---
 # [[Ruminants]] 
 

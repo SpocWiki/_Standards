@@ -184,7 +184,7 @@ dv_has_:
     ban: Harry S. Truman
     bcl: Harry S. Truman
     be: Гары Трумэн
-    be-tarask: Гары С. Труман
+    be_tarask: Гары С. Труман
     bg: Хари Труман
     bi: Harry S. Truman
     bn: হ্যারি এস. ট্রুম্যান
@@ -203,13 +203,13 @@ dv_has_:
     da: Harry S. Truman
     dag: Harry S Truman
     de: Harry S. Truman
-    de-ch: Harry S. Truman
+    de_ch: Harry S. Truman
     diq: Harry S. Truman
     dv: ހެރީ އެސް ޓްރޫމަން
     el: Χάρι Τρούμαν
     en: Harry S. Truman
-    en-ca: Harry S. Truman
-    en-gb: Harry S. Truman
+    en_ca: Harry S. Truman
+    en_gb: Harry S. Truman
     eo: Harry S. Truman
     es: Harry S. Truman
     et: Harry Truman
@@ -293,7 +293,7 @@ dv_has_:
     pnb: ہیری ٹرومین
     ps: هري ایس ټرومن
     pt: Harry S. Truman
-    pt-br: Harry S. Truman
+    pt_br: Harry S. Truman
     qu: Harry Truman
     rm: Harry S. Truman
     rmf: Harry S. Truman
@@ -340,9 +340,9 @@ dv_has_:
     yue: 杜魯門
     zea: Harry S. Truman
     zh: 哈里·S·杜魯門
-    zh-cn: 哈里·S·杜鲁门
-    zh-hans: 哈里·S·杜鲁门
-    zh-hant: 哈里·S·杜魯門
+    zh_cn: 哈里·S·杜鲁门
+    zh_hans: 哈里·S·杜鲁门
+    zh_hant: 哈里·S·杜魯門
   time_:
     started: 1884-05-08T00:00:00.000+00:53
     stopped: 1972-12-26T00:00:00.000+01:00

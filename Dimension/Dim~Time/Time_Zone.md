@@ -224,7 +224,7 @@ dv_has_:
     bar: Zeitzone
     bcl: Sona kan oras
     be: часавы пояс
-    be-tarask: часавы пас
+    be_tarask: часавы пас
     bg: Часова зона
     bho: टाइम जोन
     bjn: Waktu banua
@@ -239,13 +239,13 @@ dv_has_:
     chr: ᎠᏟᏯᎵᏙᎲ
     ckb: ناوچەی کاتی
     crh: saat quşağı
-    crh-latn: Saat quşağı
+    crh_latn: Saat quşağı
     cs: časové pásmo
     cv: Вăхăт тăрăхĕ
     cy: cylchfa amser
     da: tidszone
     de: Zeitzone
-    de-ch: Zeitzone
+    de_ch: Zeitzone
     dsb: Casowa cona
     el: ζώνη ώρας
     eml: Fûş orâri
@@ -301,7 +301,7 @@ dv_has_:
     krc: Сагъат бёлге
     ks: کال مَنڈَل
     ku: beşa saetê
-    ku-latn: beşa saetê
+    ku_latn: beşa saetê
     kv: Час кытш
     kw: parth dermyn
     ky: Убакыт алкагы
@@ -318,7 +318,7 @@ dv_has_:
     lzh: 時區
     mag: समय मण्डल
     mai: समय क्षेत्र
-    map-bms: Zona waktu
+    map_bms: Zona waktu
     mdf: пингонь каркс
     mg: Faritr'ora
     mhr: шагат ӱштӧ
@@ -328,7 +328,7 @@ dv_has_:
     mn: Цагийн бүс
     mr: आंतरराष्ट्रीय कालविभाग
     ms: zon waktu
-    ms-arab: زون وقتو
+    ms_arab: زون وقتو
     mt: żona tal-ħin
     my: အချိန်ဇုန်
     nan: Sî-khu
@@ -352,7 +352,7 @@ dv_has_:
     pnb: ویلا تھاں
     ps: سیمه ییز وخت
     pt: fuso horário
-    pt-br: fuso horário
+    pt_br: fuso horário
     qu: Pacha suyu
     ro: Fus orar
     ru: часовой пояс
@@ -374,7 +374,7 @@ dv_has_:
     sms: äiʹǧǧvuʹvdd
     sq: zona kohore
     sr: временска зона
-    sr-ec: временска зона
+    sr_ec: временска зона
     stq: Tiedzone
     su: Zona wanci
     sv: tidszon
@@ -389,7 +389,7 @@ dv_has_:
     tok: ma tenpo
     tr: saat dilimi
     tt: сәгать поясы
-    tt-cyrl: сәгать поясы
+    tt_cyrl: сәгать поясы
     tyv: Үени хемчээри
     udm: дырлэн зонаез
     uk: часовий пояс
@@ -409,11 +409,11 @@ dv_has_:
     yue: 時區
     za: sizgiz
     zh: 时区
-    zh-cn: 时区
-    zh-hans: 时区
-    zh-hant: 時區
-    zh-hk: 時區
-    zh-tw: 時區
+    zh_cn: 时区
+    zh_hans: 时区
+    zh_hant: 時區
+    zh_hk: 時區
+    zh_tw: 時區
     zu: Indawo yesikhathi
 ---
 # [[Time_Zone]] 

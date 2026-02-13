@@ -104,7 +104,7 @@ dv_has_:
     az: knyazlıq
     ba: кенәзлек
     be: княства
-    be-tarask: княства
+    be_tarask: княства
     bg: Княжество
     bs: Kneževina
     ca: principat
@@ -116,7 +116,7 @@ dv_has_:
     dsb: wjerchojstwo
     el: Ηγεμονία
     en: principality
-    en-ca: Principality
+    en_ca: Principality
     eo: princlando
     es: principado
     et: vürstkond
@@ -144,7 +144,7 @@ dv_has_:
     kk: Кінәздік
     ko: 공국
     ku: mîrektî
-    ku-latn: mîrektî
+    ku_latn: mîrektî
     la: Principatus
     lad: Prinsipado
     lv: firstiste
@@ -159,7 +159,7 @@ dv_has_:
     os: кънйазад
     pl: księstwo
     pt: principado
-    pt-br: Principado
+    pt_br: Principado
     ro: principat
     roa-tara: Prengepáte
     ru: княжество
@@ -172,8 +172,8 @@ dv_has_:
     sms: fursttkåʹdd
     sq: Principata
     sr: кнежевина
-    sr-ec: кнежевина
-    sr-el: kneževina
+    sr_ec: кнежевина
+    sr_el: kneževina
     sv: furstendöme
     szl: ksiynstwo
     ta: வேள்பகுதி
@@ -189,7 +189,7 @@ dv_has_:
     xmf: სათარო
     yue: 親王國
     zh: 親王國
-    zh-tw: 親王國
+    zh_tw: 親王國
 ---
 # [[Principality]] 
 

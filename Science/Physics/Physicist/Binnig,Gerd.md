@@ -82,7 +82,7 @@ dv_has_:
     ast: Gerd Binnig
     azb: گرد بینینگ
     be: Герд Карл Бініг
-    be-tarask: Герд Бініх
+    be_tarask: Герд Бініх
     bg: Герд Биниг
     bn: গের্ড বিনিগ
     ca: Gerd Binnig
@@ -130,7 +130,7 @@ dv_has_:
     pl: Gerd Binnig
     pnb: گرڈ بینیگ
     pt: Gerd Binnig
-    pt-br: Gerd Binnig
+    pt_br: Gerd Binnig
     ro: Gerd Binnig
     ru: Герд Карл Бинниг
     sa: गेर्ड बिन्निग
@@ -154,7 +154,7 @@ dv_has_:
     yo: Gerd Binnig
     yue: 格爾德·賓寧
     zh: 格尔德·宾宁
-    zh-hant: 格爾德·賓寧
+    zh_hant: 格爾德·賓寧
 ---
 # [[Binnig,Gerd]] 
 

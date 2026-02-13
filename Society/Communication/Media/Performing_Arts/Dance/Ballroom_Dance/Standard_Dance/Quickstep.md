@@ -23,7 +23,7 @@ dv_has_:
     ar: كويك ستيب
     ast: Quickstep
     az: Kvikstep
-    be-tarask: кўікстэп
+    be_tarask: кўікстэп
     bg: Куикстеп
     ca: quickstep
     cs: quickstep
@@ -53,9 +53,9 @@ dv_has_:
     sv: quickstep
     uk: Квікстеп
     zh: 快步
-    zh-hans: 快步
-    zh-hant: 快步
-    zh-hk: 快步
+    zh_hans: 快步
+    zh_hant: 快步
+    zh_hk: 快步
 ---
 # [[Quickstep]] 
 

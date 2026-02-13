@@ -278,7 +278,7 @@ dv_has_:
     ban: Vitamin C
     bcl: Bitamina C
     be: аскарбінавая кіслата
-    be-tarask: вітамін C
+    be_tarask: вітамін C
     bg: витамин C
     bho: विटामिन सी
     bn: ভিটামিন সি
@@ -343,7 +343,7 @@ dv_has_:
     pl: kwas L-askorbinowy
     ps: ويټامن سي
     pt: Vitamina C
-    pt-br: vitamina C
+    pt_br: vitamina C
     ro: vitamina C
     ru: витамин C
     rw: vitamini C
@@ -355,8 +355,8 @@ dv_has_:
     sl: vitamin C
     sq: vitamina C
     sr: витамин Ц
-    sr-ec: витамин Ц
-    sr-el: vitamin C
+    sr_ec: витамин Ц
+    sr_el: vitamin C
     su: vitamin C
     sv: askorbinsyra
     sw: vitamini C
@@ -379,12 +379,12 @@ dv_has_:
     yi: וויטאמין C
     yue: 維他命C
     zh: 维生素C
-    zh-cn: 维生素C
-    zh-hans: 维生素C
-    zh-hant: 維生素C
-    zh-hk: 維生素C
-    zh-sg: 维生素C
-    zh-tw: 維生素C
+    zh_cn: 维生素C
+    zh_hans: 维生素C
+    zh_hant: 維生素C
+    zh_hk: 維生素C
+    zh_sg: 维生素C
+    zh_tw: 維生素C
 ---
 # [[Vitamin_C]] 
 

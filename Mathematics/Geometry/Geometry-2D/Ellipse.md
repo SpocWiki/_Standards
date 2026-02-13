@@ -109,7 +109,7 @@ dv_has_:
     ba: эллипс
     bar: Elipsn
     be: эліпс
-    be-tarask: эліпс
+    be_tarask: эліпс
     bg: елипса
     bn: উপবৃত্ত
     bs: elipsa
@@ -164,7 +164,7 @@ dv_has_:
     mk: елипса
     mr: लंबवर्तुळ
     ms: elips
-    ms-arab: ايليڤس
+    ms_arab: ايليڤس
     nan: tn̂g-ko-îⁿ
     nb: ellipse
     nl: ellips
@@ -174,7 +174,7 @@ dv_has_:
     pl: elipsa
     pms: eliss
     pt: elipse
-    pt-br: elipse
+    pt_br: elipse
     qu: lump'u
     ro: elipsă
     ru: эллипс
@@ -190,7 +190,7 @@ dv_has_:
     so: qabaal
     sq: elipsi
     sr: елипса
-    sr-ec: елипса
+    sr_ec: елипса
     sv: ellips
     sw: duaradufu
     ta: நீள்வட்டம்
@@ -207,8 +207,8 @@ dv_has_:
     wuu: 橢圓
     yue: 橢圓
     zh: 椭圆
-    zh-hant: 橢圓
-    zh-hk: 橢圓
+    zh_hant: 橢圓
+    zh_hk: 橢圓
 ---
 # [[Ellipse]] 
 

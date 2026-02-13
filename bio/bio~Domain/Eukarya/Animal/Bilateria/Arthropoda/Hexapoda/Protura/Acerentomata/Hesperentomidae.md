@@ -32,7 +32,7 @@ dv_has_:
     oc: Hesperentomidae
     pl: Hesperentomidae
     pt: Hesperentomidae
-    pt-br: Hesperentomidae
+    pt_br: Hesperentomidae
     ro: Hesperentomidae
     ru: Hesperentomidae
     sq: Hesperentomidae
@@ -45,8 +45,8 @@ dv_has_:
     war: Hesperentomidae
     yo: Hesperentomidae
     zh: 夕蚖科
-    zh-cn: 夕蚖科
-    zh-tw: 夕蚖科
+    zh_cn: 夕蚖科
+    zh_tw: 夕蚖科
 ---
 # [[Hesperentomidae]] 
 

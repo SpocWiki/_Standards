@@ -67,7 +67,7 @@ dv_has_:
   name_:
     ar: روي بلنكيت
     azb: روی جی. پلونکت
-    be-tarask: Рой Планкет
+    be_tarask: Рой Планкет
     bg: Рой Плънкет
     ca: Roy Plunkett
     cs: Roy J. Plunkett
@@ -94,7 +94,7 @@ dv_has_:
     pap: Roy J. Plunkett
     pl: Roy Plunkett
     pt: Roy J. Plunkett
-    pt-br: Roy J. Plunkett
+    pt_br: Roy J. Plunkett
     ru: Рой Планкетт
     sl: Roy J. Plunkett
     sq: Roy J. Plunkett
@@ -107,9 +107,9 @@ dv_has_:
     yo: Roy J. Plunkett
     yue: 羅伊·普朗克特
     zh: 羅伊·J·布朗克
-    zh-cn: 罗伊·普朗克特
-    zh-hans: 罗伊·普朗克特
-    zh-hant: 羅伊·普朗克特
+    zh_cn: 罗伊·普朗克特
+    zh_hans: 罗伊·普朗克特
+    zh_hant: 羅伊·普朗克特
 ---
 # [[Plunkett,Roy_J]] 
 

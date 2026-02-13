@@ -139,7 +139,7 @@ dv_has_:
     az: Ceyms Braun
     azb: جیمز براون
     be: Джэймс Браўн
-    be-tarask: Джэймз Браўн
+    be_tarask: Джэймз Браўн
     bg: Джеймс Браун
     bn: জেমস ব্রাউন
     ca: James Brown
@@ -150,12 +150,12 @@ dv_has_:
     da: James Brown
     dag: James Brown
     de: James Brown
-    de-ch: James Brown
+    de_ch: James Brown
     ee: James Brown
     el: Τζέιμς Μπράουν
     en: James Brown
-    en-ca: James Brown
-    en-gb: James Brown
+    en_ca: James Brown
+    en_gb: James Brown
     eo: James Brown
     es: James Brown
     et: James Brown
@@ -203,7 +203,7 @@ dv_has_:
     pms: James Brown
     ps: جېمز براون
     pt: James Brown
-    pt-br: James Brown
+    pt_br: James Brown
     ro: James Brown
     ru: Джеймс Браун
     scn: James Brown

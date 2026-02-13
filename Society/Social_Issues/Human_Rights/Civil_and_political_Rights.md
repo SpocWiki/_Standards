@@ -134,7 +134,7 @@ dv_has_:
     az: Mülki və siyasi hüquqlar
     azb: سیویل حقلر
     be: грамадзянскія і палітычныя правы
-    be-tarask: цывільныя і палітычныя правы
+    be_tarask: цывільныя і палітычныя правы
     bg: Граждански права
     bn: নাগরিক ও রাজনৈতিক অধিকার
     ca: drets civils i polítics
@@ -168,14 +168,14 @@ dv_has_:
     ka: სამოქალაქო და პოლიტიკური უფლებები
     ko: 시민권
     ku: mafên sivîl û siyasî
-    ku-latn: mafên sivîl û siyasî
+    ku_latn: mafên sivîl û siyasî
     la: Iura civilia et politica
     lt: pilietinės ir politinės teisės
     mk: граѓански и политички права
     mn: Иргэний болон улс төрийн эрх
     mr: नागरी अधिकार
     ms: hak awam dan politik
-    ms-arab: حق عوام دان ڤوليتيک
+    ms_arab: حق عوام دان ڤوليتيک
     my: နိုင်ငံသားနှင့် နိုင်ငံရေး အခွင့်အရေး
     nb: borgerrettigheter
     nl: burgerrecht
@@ -186,7 +186,7 @@ dv_has_:
     pl: prawa obywatelskie
     ps: مدني او سياسي حقونه
     pt: direitos civis
-    pt-br: direitos civis e políticos
+    pt_br: direitos civis e políticos
     ro: drepturi cetățenești
     ru: гражданские и политические права
     scn: Diritti civili
@@ -197,8 +197,8 @@ dv_has_:
     smn: aalmugjeessânvuoigâdvuođah já poolitlâš vuoigâdvuođah
     sms: meerlažvuõiggâdvuõđ da poliittlaž vuõiggâdvuõđ
     sr: грађанска права
-    sr-ec: грађанска права
-    sr-el: građansko pravo
+    sr_ec: грађанска права
+    sr_el: građansko pravo
     sv: medborgerliga rättigheter
     sw: Haki za kiraia na kisiasa
     ta: குடிசார் மற்றும் அரசியல் உரிமைகள்
@@ -213,14 +213,14 @@ dv_has_:
     vi: quyền dân sự và chính trị
     yue: 公民權利同政治權利
     zh: 公民權利和政治權利
-    zh-cn: 公民权利和政治权利
-    zh-hans: 公民权利和政治权利
-    zh-hant: 公民權利與政治權利
-    zh-hk: 公民權利與政治權利
-    zh-mo: 公民權利與政治權利
+    zh_cn: 公民权利和政治权利
+    zh_hans: 公民权利和政治权利
+    zh_hant: 公民權利與政治權利
+    zh_hk: 公民權利與政治權利
+    zh_mo: 公民權利與政治權利
     zh-my: 公民权利和政治权利
-    zh-sg: 公民权利和政治权利
-    zh-tw: 公民權利與政治權利
+    zh_sg: 公民权利和政治权利
+    zh_tw: 公民權利與政治權利
 ---
 # [[Civil_and_political_Rights]] 
 

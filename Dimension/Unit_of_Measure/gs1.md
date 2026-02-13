@@ -3,7 +3,7 @@ has_id_wikidata: Q731100
 dv_has_:
   name_:
     ar: جي إس 1
-    be-tarask: GS1
+    be_tarask: GS1
     bg: GS1
     bs: GS1
     ca: GS1
@@ -12,7 +12,7 @@ dv_has_:
     de: GS1
     el: GS1
     en: GS1
-    en-gb: GS1
+    en_gb: GS1
     es: GS1
     fa: جیاس۱
     fi: GS1
@@ -40,7 +40,7 @@ dv_has_:
     ur: جی ایس 1
     vi: GS1
     zh: GS1
-    zh-hans: GS1
+    zh_hans: GS1
 aliases:
 - GS1
 - GS1 Barkod

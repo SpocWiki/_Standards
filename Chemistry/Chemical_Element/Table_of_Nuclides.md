@@ -73,7 +73,7 @@ dv_is_same_as:
 dv_has_:
   name_:
     ar: قائمة رموز النظائر
-    be-tarask: табліца нуклідаў
+    be_tarask: табліца нуклідаў
     ca: taula de núclids
     cs: Tabulka nuklidů
     da: kernekort
@@ -97,7 +97,7 @@ dv_has_:
     ru: Таблица нуклидов
     sl: tabela nuklidov
     sr: Табела изотопа
-    sr-ec: табела изотопа
+    sr_ec: табела изотопа
     sv: Isotoptabell
     uk: Таблиця ізотопів
     ur: پائیداری عناصر

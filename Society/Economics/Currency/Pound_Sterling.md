@@ -152,7 +152,7 @@ dv_has_:
     az: funt sterlinq
     ba: фунт стерлинг
     be: фунт стэрлінгаў
-    be-tarask: фунт стэрлінгаў
+    be_tarask: фунт стэрлінгаў
     bg: британска лира
     bn: পাউন্ড স্টার্লিং
     bpy: পাউন্ড স্টার্লিং
@@ -170,8 +170,8 @@ dv_has_:
     diq: Sterlinê İngılızi
     el: Στερλίνα
     en: pound sterling
-    en-ca: pound sterling
-    en-gb: pound sterling
+    en_ca: pound sterling
+    en_gb: pound sterling
     eo: brita pundo
     es: libra esterlina
     et: Suurbritannia naelsterling
@@ -222,7 +222,7 @@ dv_has_:
     mn: фунт стерлинг
     mr: ब्रिटिश पाउंड
     ms: paun sterling
-    ms-arab: ڤاءون سترليڠ
+    ms_arab: ڤاءون سترليڠ
     mt: lira sterlina
     mwl: libra sterlina
     nan: Eng-pōng
@@ -237,7 +237,7 @@ dv_has_:
     pl: funt szterling
     pnb: پاؤنڈ
     pt: libra esterlina
-    pt-br: libra esterlina
+    pt_br: libra esterlina
     ro: liră sterlină
     ru: фунт стерлингов
     sah: фунт стерлинг
@@ -250,7 +250,7 @@ dv_has_:
     so: pound £
     sq: paund sterlina
     sr: британска фунта
-    sr-ec: британска фунта
+    sr_ec: британска фунта
     sv: Brittiskt pund
     sw: Pauni (sarafu)
     ta: பிரித்தானிய பவுண்டு
@@ -273,14 +273,14 @@ dv_has_:
     yo: ponun stelin
     yue: 英鎊
     zh: 英镑
-    zh-cn: 英镑
-    zh-hans: 英镑
-    zh-hant: 英鎊
-    zh-hk: 英鎊
-    zh-mo: 英鎊
+    zh_cn: 英镑
+    zh_hans: 英镑
+    zh_hant: 英鎊
+    zh_hk: 英鎊
+    zh_mo: 英鎊
     zh-my: 英镑
-    zh-sg: 英镑
-    zh-tw: 英鎊
+    zh_sg: 英镑
+    zh_tw: 英鎊
     zu: upondo
 ---
 # [[Pound_Sterling]] 

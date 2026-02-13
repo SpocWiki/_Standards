@@ -77,14 +77,14 @@ dv_has_:
   name_:
     ar: سلم المسافات الكونية
     ast: Escalera de distancies cósmiques
-    be-tarask: шкала касьмічных адлегласьцяў
+    be_tarask: шкала касьмічных адлегласьцяў
     ca: escala de distàncies còsmiques
     cs: Standardní svíčka
     da: Kosmisk afstandsstige
     de: Kosmische Entfernungsskala
     en: cosmic distance ladder
-    en-ca: Cosmic distance ladder
-    en-gb: Cosmic distance ladder
+    en_ca: Cosmic distance ladder
+    en_gb: Cosmic distance ladder
     eo: kosma distancoskalo
     es: Escalera de distancias cósmicas
     eu: Distantzia kosmikoen eskailera
@@ -103,7 +103,7 @@ dv_has_:
     nl: Astronomische afstandsmeting
     pl: Drabina odległości kosmicznych
     pt: escala de distâncias cósmicas
-    pt-br: Escala de distâncias cósmicas
+    pt_br: Escala de distâncias cósmicas
     ro: Măsurarea distanțelor în astronomie
     ru: шкала расстояний в астрономии
     sl: lestvica kozmičnih razdalj
@@ -114,9 +114,9 @@ dv_has_:
     wuu: 宇宙距离尺度
     yue: 宇宙距離階梯
     zh: 宇宙距離尺度
-    zh-hans: 宇宙距离尺度
-    zh-hant: 宇宙距離尺度
-    zh-hk: 宇宙距離尺度
+    zh_hans: 宇宙距离尺度
+    zh_hant: 宇宙距離尺度
+    zh_hk: 宇宙距離尺度
 ---
 # [[Cosmic_Distance_Ladder]] 
 

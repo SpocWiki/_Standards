@@ -152,7 +152,7 @@ dv_has_:
     ba: алыҫлыҡ
     bcl: distansya
     be: адлегласць
-    be-tarask: адлегласьць
+    be_tarask: адлегласьць
     bg: разстояние
     bho: दुरत्व
     bn: দূরত্ব
@@ -196,18 +196,18 @@ dv_has_:
     ka: მანძილი
     kab: ameccaq
     kk: арақашықтық
-    kk-arab: اراقاشىقتىق
+    kk_arab: اراقاشىقتىق
     kk-cn: اراقاشىقتىق
-    kk-cyrl: арақашықтық
+    kk_cyrl: арақашықтық
     kk-kz: арақашықтық
-    kk-latn: araqaşıqtıq
+    kk_latn: araqaşıqtıq
     kk-tr: araqaşıqtıq
     kn: ದೂರ
     ko: 거리
     krc: аралыкъ
     ku: dûrahî
-    ku-arab: دووراهی
-    ku-latn: dûrahî
+    ku_arab: دووراهی
+    ku_latn: dûrahî
     ky: аралык
     lb: Ofstand
     li: Aafstandj
@@ -220,7 +220,7 @@ dv_has_:
     mos: distance
     mr: अंतर
     ms: jarak
-    ms-arab: جارق
+    ms_arab: جارق
     my: အကွာအဝေး
     nan: kū-lî
     nb: avstand
@@ -230,7 +230,7 @@ dv_has_:
     pl: odległość
     ps: واټن
     pt: distância
-    pt-br: distância
+    pt_br: distância
     rki: အကွာအဝီး
     ro: distanță
     ru: расстояние
@@ -242,14 +242,14 @@ dv_has_:
     sn: nhambwe
     sq: distanca
     sr: растојање
-    sr-ec: растојање
-    sr-el: rastojanje
+    sr_ec: растојање
+    sr_el: rastojanje
     sv: avstånd
     sw: umbali
     ta: தூரம்
     te: దూరం
     tg: масофа
-    tg-latn: masofa
+    tg_latn: masofa
     th: ระยะทาง
     tl: layo
     tr: mesafe
@@ -266,12 +266,12 @@ dv_has_:
     yi: ווייטקייט
     yue: 距離
     zh: 距离
-    zh-cn: 距离
-    zh-hans: 距离
-    zh-hant: 距離
-    zh-hk: 距離
-    zh-sg: 距离
-    zh-tw: 距離
+    zh_cn: 距离
+    zh_hans: 距离
+    zh_hant: 距離
+    zh_hk: 距離
+    zh_sg: 距离
+    zh_tw: 距離
 ---
 # [[Distance]] 
 

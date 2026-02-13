@@ -47,7 +47,7 @@ dv_has_:
     arz: عناكب قافزه
     ast: Salticidae
     be: Павукі-скакуны
-    be-tarask: Павукі-скакуны
+    be_tarask: Павукі-скакуны
     bg: Скачащи паяци
     ca: Saltícid
     ceb: Salticidae
@@ -90,7 +90,7 @@ dv_has_:
     pl: skakunowate
     pnb: کدنی مکڑی
     pt: Salticidae
-    pt-br: Salticidae
+    pt_br: Salticidae
     ro: Salticidae
     ru: пауки-скакуны
     sl: Skakači (pajki)
@@ -106,9 +106,9 @@ dv_has_:
     war: Salticidae
     yue: 跳蛛科
     zh: 跳蛛科
-    zh-cn: 跳蛛科
-    zh-hans: 跳蛛科
-    zh-tw: 蠅虎科
+    zh_cn: 跳蛛科
+    zh_hans: 跳蛛科
+    zh_tw: 蠅虎科
 ---
 ## Phylogeny 
 

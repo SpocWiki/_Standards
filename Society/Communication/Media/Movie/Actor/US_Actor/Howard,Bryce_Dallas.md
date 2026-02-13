@@ -40,7 +40,7 @@ dv_has_:
     azb: برایس دالاس هاوارد
     bar: Bryce Dallas Howard
     be: Брайс Далас Ховард
-    be-tarask: Брайс Далас Гаўард
+    be_tarask: Брайс Далас Гаўард
     bm: Bryce Dallas Howard
     bn: ব্রাইস ডালাস হাওয়ার্ড
     br: Bryce Dallas Howard
@@ -52,11 +52,11 @@ dv_has_:
     da: Bryce Dallas Howard
     de: Bryce Dallas Howard
     de-at: Bryce Dallas Howard
-    de-ch: Bryce Dallas Howard
+    de_ch: Bryce Dallas Howard
     el: Μπράις Ντάλας Χάουαρντ
     en: Bryce Dallas Howard
-    en-ca: Bryce Dallas Howard
-    en-gb: Bryce Dallas Howard
+    en_ca: Bryce Dallas Howard
+    en_gb: Bryce Dallas Howard
     eo: Bryce Dallas Howard
     es: Bryce Dallas Howard
     et: Bryce Dallas Howard
@@ -101,7 +101,7 @@ dv_has_:
     nap: Bryce Dallas Howard
     nb: Bryce Dallas Howard
     nds: Bryce Dallas Howard
-    nds-nl: Bryce Dallas Howard
+    nds_nl: Bryce Dallas Howard
     nl: Bryce Dallas Howard
     nn: Bryce Dallas Howard
     nrm: Bryce Dallas Howard
@@ -112,7 +112,7 @@ dv_has_:
     pms: Bryce Dallas Howard
     prg: Bryce Dallas Howard
     pt: Bryce Dallas Howard
-    pt-br: Bryce Dallas Howard
+    pt_br: Bryce Dallas Howard
     rgn: Bryce Dallas Howard
     rm: Bryce Dallas Howard
     ro: Bryce Dallas Howard
@@ -126,7 +126,7 @@ dv_has_:
     sl: Bryce Dallas Howard
     sq: Bryce Dallas Howard
     sr: Брајс Далас Хауард
-    sr-el: Bryce Dallas Howard
+    sr_el: Bryce Dallas Howard
     sv: Bryce Dallas Howard
     sw: Bryce Dallas Howard
     ta: பிரைஸ் டல்லாஸ் ஹோவர்ட்
@@ -144,12 +144,12 @@ dv_has_:
     wuu: 布莱斯·达拉斯·霍华德
     yo: Bryce Dallas Howard
     zh: 布莱斯·达拉斯·霍华德
-    zh-cn: 布莱斯·达拉斯·霍华德
-    zh-hans: 布莱斯·达拉斯·霍华德
-    zh-hant: 布萊斯·達拉斯·霍華德
-    zh-hk: 拜絲·黛麗·侯活
-    zh-sg: 布莱丝·达拉丝·豪沃
-    zh-tw: 布萊斯·達拉斯·霍華德
+    zh_cn: 布莱斯·达拉斯·霍华德
+    zh_hans: 布莱斯·达拉斯·霍华德
+    zh_hant: 布萊斯·達拉斯·霍華德
+    zh_hk: 拜絲·黛麗·侯活
+    zh_sg: 布莱丝·达拉丝·豪沃
+    zh_tw: 布萊斯·達拉斯·霍華德
     zu: Bryce Dallas Howard
 ---
 #has_/parent :: [[../../Movie-Directors/Howard,Ron|Howard,Ron]] 

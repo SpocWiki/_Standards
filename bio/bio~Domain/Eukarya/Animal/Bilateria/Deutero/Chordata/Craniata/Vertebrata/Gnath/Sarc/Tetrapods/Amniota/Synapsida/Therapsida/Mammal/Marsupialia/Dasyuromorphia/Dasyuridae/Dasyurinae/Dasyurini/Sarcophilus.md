@@ -64,7 +64,7 @@ dv_has_:
     oc: Sarcophilus
     pl: Diabeł
     pt: Sarcophilus
-    pt-br: Sarcophilus
+    pt_br: Sarcophilus
     ro: Sarcophilus
     ru: Sarcophilus
     sk: diabol
@@ -74,9 +74,9 @@ dv_has_:
     vo: Sarcophilus
     war: Sarcophilus
     zh: 袋獾属
-    zh-cn: 袋獾属
-    zh-hans: 袋獾属
-    zh-tw: 袋獾屬
+    zh_cn: 袋獾属
+    zh_hans: 袋獾属
+    zh_tw: 袋獾屬
 ---
 # [[Sarcophilus]] 
 

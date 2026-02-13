@@ -47,7 +47,7 @@ dv_has_:
     da: Kate Bush
     dag: Kate Bush
     de: Kate Bush
-    de-ch: Kate Bush
+    de_ch: Kate Bush
     el: Κέιτ Μπους
     en: Kate Bush
     en-us: Kate Bush
@@ -87,7 +87,7 @@ dv_has_:
     mul: Kate Bush
     nb: Kate Bush
     nds: Kate Bush
-    nds-nl: Kate Bush
+    nds_nl: Kate Bush
     ne: केट बुस
     nl: Kate Bush
     nn: Kate Bush
@@ -96,7 +96,7 @@ dv_has_:
     pl: Kate Bush
     pms: Kate Bush
     pt: Kate Bush
-    pt-br: Kate Bush
+    pt_br: Kate Bush
     rmf: Kate Bush
     ro: Kate Bush
     ru: Кейт Буш
@@ -113,8 +113,8 @@ dv_has_:
     sms: Kate Bush
     sq: Kate Bush
     sr: Кејт Буш
-    sr-ec: Кејт Буш
-    sr-el: Kejt Buš
+    sr_ec: Кејт Буш
+    sr_el: Kejt Buš
     sv: Kate Bush
     ta: கேட் புஷ்
     th: เคต บุช
@@ -128,10 +128,10 @@ dv_has_:
     wa: Kate Bush
     wuu: 凯特·布什
     zh: 凱特·布希
-    zh-hans: 凯特·布什
-    zh-hant: 凱特·布希
-    zh-hk: 姬·布絲
-    zh-tw: 凱特·布希
+    zh_hans: 凯特·布什
+    zh_hant: 凱特·布希
+    zh_hk: 姬·布絲
+    zh_tw: 凱特·布希
 ---
 > Catherine Bush  (born 30 July 1958) is an English singer, songwriter, record producer and dancer. 
 > Bush began writing songs at age 11. 

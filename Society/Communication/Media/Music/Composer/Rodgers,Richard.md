@@ -98,7 +98,7 @@ dv_has_:
     ast: Richard Rodgers
     azb: ریچارد راجرز (موزیسین)
     bar: Richard Rodgers
-    be-tarask: Рычард Роджэрз
+    be_tarask: Рычард Роджэрз
     bm: Richard Rodgers
     br: Richard Rodgers
     ca: Richard Rodgers
@@ -108,11 +108,11 @@ dv_has_:
     da: Richard Rodgers
     de: Richard Rodgers
     de-at: Richard Rodgers
-    de-ch: Richard Rodgers
+    de_ch: Richard Rodgers
     el: Ρίτσαρντ Ρότζερς
     en: Richard Rodgers
-    en-ca: Richard Rodgers
-    en-gb: Richard Rodgers
+    en_ca: Richard Rodgers
+    en_gb: Richard Rodgers
     eo: Richard Rodgers
     es: Richard Rodgers
     et: Richard Rodgers
@@ -156,7 +156,7 @@ dv_has_:
     nap: Richard Rodgers
     nb: Richard Rodgers
     nds: Richard Rodgers
-    nds-nl: Richard Rodgers
+    nds_nl: Richard Rodgers
     nl: Richard Rodgers
     nn: Richard Rodgers
     nrm: Richard Rodgers
@@ -168,7 +168,7 @@ dv_has_:
     pms: Richard Rodgers
     prg: Richard Rodgers
     pt: Richard Rodgers
-    pt-br: Richard Rodgers
+    pt_br: Richard Rodgers
     qu: Richard Rodgers
     rgn: Richard Rodgers
     rm: Richard Rodgers
@@ -181,7 +181,7 @@ dv_has_:
     sl: Richard Rodgers
     sq: Richard Rodgers
     sr: Ričard Rodžers
-    sr-el: Richard Rodgers
+    sr_el: Richard Rodgers
     sv: Richard Rodgers
     sw: Richard Rodgers
     th: ริชาร์ด ร็อดเจอร์ส
@@ -197,7 +197,7 @@ dv_has_:
     wo: Richard Rodgers
     yue: 理查·羅傑斯
     zh: 理察·羅傑斯
-    zh-hant: 理查·羅傑斯
+    zh_hant: 理查·羅傑斯
     zu: Richard Rodgers
 ---
 # [[Rodgers,Richard]] 

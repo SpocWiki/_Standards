@@ -189,7 +189,7 @@ dv_has_:
     ba: Кешенең аш һеңдереү системаһы
     bcl: Sistemang panunaw
     be: стрававальная сістэма чалавека
-    be-tarask: страўнікава-кішачны тракт
+    be_tarask: страўнікава-кішачны тракт
     bg: Храносмилателна система
     bho: मानव पाचन तंत्र
     bn: মানব পরিপাকতন্ত্র
@@ -203,12 +203,12 @@ dv_has_:
     cy: system dreulio
     da: fordøjelsessystemet
     de: Verdauungstrakt
-    de-ch: Verdauungstrakt
+    de_ch: Verdauungstrakt
     dv: ހަޖަމުކުރާ ނިޒާމް
     el: Ανθρώπινο πεπτικό σύστημα
     en: human digestive system
-    en-ca: Human gastrointestinal tract
-    en-gb: human digestive system
+    en_ca: Human gastrointestinal tract
+    en_gb: human digestive system
     eo: digesta sistemo
     es: aparato digestivo
     et: inimese seedeelundkond
@@ -245,7 +245,7 @@ dv_has_:
     ko: 소화계통
     ks: شرٛٔپرَن تَگ
     ku: koendama herisê
-    ku-latn: koendama herisê
+    ku_latn: koendama herisê
     kw: system tretha
     la: Apparatus digestorius humanum
     lb: Verdauungsapparat
@@ -275,7 +275,7 @@ dv_has_:
     pl: układ pokarmowy człowieka
     pnb: ہاضمہ پربندھ
     pt: aparelho digestivo
-    pt-br: Aparelho digestivo
+    pt_br: Aparelho digestivo
     qu: Mikhuna yawri
     ro: aparat digestiv
     ru: пищеварительная система человека
@@ -312,7 +312,7 @@ dv_has_:
     yi: פארדייאונג סיסטעם
     yue: 消化系統
     zh: 排遺系统
-    zh-hant: 消化系統
+    zh_hant: 消化系統
 ---
 # [[Human_digestive_System]] 
 

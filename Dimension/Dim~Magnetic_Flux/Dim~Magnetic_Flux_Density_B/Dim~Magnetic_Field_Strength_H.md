@@ -78,7 +78,7 @@ dv_has_:
     ar: شدة المجال المغناطيسي
     bar: magnetische Föödstärkn
     be: напружанасць магнітнага поля
-    be-tarask: напружанасьць магнітнага поля
+    be_tarask: напружанасьць магнітнага поля
     bg: интензитет на магнитното поле
     ca: excitació magnètica
     cs: Intenzita magnetického pole
@@ -113,8 +113,8 @@ dv_has_:
     uk: напруженість магнітного поля
     uz: magnit maydon kuchi
     zh: 磁场强度
-    zh-cn: 励磁
-    zh-hant: 勵磁
+    zh_cn: 励磁
+    zh_hant: 勵磁
 ---
 # [[Dim~Magnetic_Field_Strength_H]] 
 

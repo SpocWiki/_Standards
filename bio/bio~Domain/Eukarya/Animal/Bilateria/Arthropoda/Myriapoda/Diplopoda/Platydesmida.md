@@ -37,7 +37,7 @@ dv_has_:
     oc: Platydesmida
     pl: Platydesmida
     pt: Platydesmida
-    pt-br: Platydesmida
+    pt_br: Platydesmida
     ro: Platydesmida
     ru: Platydesmida
     sq: Platydesmida
@@ -49,9 +49,9 @@ dv_has_:
     vo: Platydesmida
     war: Platydesmida
     zh: 扁带马陆目
-    zh-cn: 扁带马陆目
-    zh-hans: 扁带马陆目
-    zh-tw: 扁帶馬陸目
+    zh_cn: 扁带马陆目
+    zh_hans: 扁带马陆目
+    zh_tw: 扁帶馬陸目
 ---
 # [[Platydesmida]] 
 

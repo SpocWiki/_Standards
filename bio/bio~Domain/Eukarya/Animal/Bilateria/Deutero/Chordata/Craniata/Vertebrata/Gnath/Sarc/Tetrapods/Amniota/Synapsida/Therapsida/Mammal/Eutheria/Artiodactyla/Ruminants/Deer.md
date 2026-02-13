@@ -218,7 +218,7 @@ dv_has_:
     ban: Menjangan
     bcl: Usa
     be: алені
-    be-tarask: аленевыя
+    be_tarask: аленевыя
     bg: еленови
     bjn: Minjangan
     bn: হরিণ
@@ -241,8 +241,8 @@ dv_has_:
     diq: Kospes
     el: Ελάφι
     en: Cervidae
-    en-ca: Deer
-    en-gb: deer
+    en_ca: Deer
+    en_gb: deer
     eo: Cervedoj
     es: cérvidos
     et: Hirvlased
@@ -323,7 +323,7 @@ dv_has_:
     pl: jeleniowate
     pnb: ہرن
     pt: cervídeo
-    pt-br: cervídeo
+    pt_br: cervídeo
     qu: Luwichu
     ro: cerb
     ru: оленевые
@@ -357,7 +357,7 @@ dv_has_:
     tly: Gənz
     tr: geyik
     tt: боланнар
-    tt-cyrl: боланнар
+    tt_cyrl: боланнар
     udm: пужей
     uk: оленеві
     ur: ہرن
@@ -375,9 +375,9 @@ dv_has_:
     za: Duzloeg
     zgh: ⵓⴷⴰⴷ
     zh: 鹿科
-    zh-cn: 鹿科
-    zh-hans: 鹿科
-    zh-tw: 鹿科
+    zh_cn: 鹿科
+    zh_hans: 鹿科
+    zh_tw: 鹿科
     zu: Inyamazane
 ---
 # [[Deer]] 

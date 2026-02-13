@@ -94,7 +94,7 @@ aliases:
 has_id_wikidata: Q12372598
 dv_has_:
   name_:
-    aeb-latn: 5ou5
+    aeb_latn: 5ou5
     af: pruim
     ami: Minowad
     an: Cerolla
@@ -186,7 +186,7 @@ dv_has_:
     tr: erik
     trv: bnuwar
     tt: караҗимеш
-    tt-cyrl: караҗимеш
+    tt_cyrl: караҗимеш
     uk: слива
     ur: آلوچہ
     uz: Olxoʻri
@@ -195,10 +195,10 @@ dv_has_:
     yue: 布冧
     za: Makmaenj
     zh: 李子
-    zh-cn: 李子
-    zh-hans: 李子
-    zh-hant: 李子
-    zh-tw: 李子
+    zh_cn: 李子
+    zh_hans: 李子
+    zh_hant: 李子
+    zh_tw: 李子
 ---
 # [[Plum]] 
 

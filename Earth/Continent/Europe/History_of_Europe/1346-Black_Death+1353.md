@@ -10,7 +10,7 @@ dv_has_:
     azb: قارا اؤلوم
     ba: Ҡара үлем
     be: Чорная смерць
-    be-tarask: Чорная сьмерць
+    be_tarask: Чорная сьмерць
     bg: Черната смърт
     bjn: Maut Hitam
     bn: কালো মৃত্যু
@@ -23,12 +23,12 @@ dv_has_:
     cy: Pla Du
     da: Den sorte død
     de: Schwarzer Tod
-    de-ch: Schwarzer Tod
+    de_ch: Schwarzer Tod
     diq: Mergo Siya
     el: Μαύρη πανώλη
     en: Black Death
-    en-ca: Black Death
-    en-gb: Black Death
+    en_ca: Black Death
+    en_gb: Black Death
     eo: nigra morto
     es: peste negra
     et: Must surm
@@ -100,7 +100,7 @@ dv_has_:
     pl: czarna śmierć
     ps: تور مرګ
     pt: Peste Negra
-    pt-br: Peste negra
+    pt_br: Peste negra
     ro: moartea neagră
     ru: Чёрная смерть
     sc: Peste niedda
@@ -131,7 +131,7 @@ dv_has_:
     xmf: უჩა ჭირი
     yue: 黑死病
     zh: 黑死病
-    zh-hant: 黑死病
+    zh_hant: 黑死病
   time_:
     started: 1346-06-01T00:00:00.000+00:53
     stopped: 1353-06-01T00:00:00.000+00:53

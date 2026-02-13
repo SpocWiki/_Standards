@@ -110,7 +110,7 @@ dv_has_:
     ba: Милләт
     bcl: Nasyonalidad
     be: нацыянальнасць
-    be-tarask: нацыянальнасьць
+    be_tarask: нацыянальнасьць
     bg: националност
     bn: জাতীয়তা
     br: Folk
@@ -121,7 +121,7 @@ dv_has_:
     cy: Cenedligrwydd
     da: nationalitet
     de: Nationalität
-    de-ch: Nationalität
+    de_ch: Nationalität
     el: εθνικότητα
     en: nationality
     en-us: nationality
@@ -173,7 +173,7 @@ dv_has_:
     pl: narodowość
     ps: مليت
     pt: nacionalidade
-    pt-br: nacionalidade
+    pt_br: nacionalidade
     ro: naționalitate
     ru: национальность
     rue: народность
@@ -193,7 +193,7 @@ dv_has_:
     tl: Kabansaan
     tr: milliyet
     tt: милләт (ватандашлык)
-    tt-cyrl: милләт (ватандашлык)
+    tt_cyrl: милләт (ватандашлык)
     uk: національність
     ur: قومیت
     vec: nasionałità
@@ -201,12 +201,12 @@ dv_has_:
     wuu: 国籍
     yue: 國籍
     zh: 國籍
-    zh-cn: 国籍
-    zh-hans: 国籍
-    zh-hant: 國籍
-    zh-hk: 國籍
-    zh-sg: 国籍
-    zh-tw: 國籍
+    zh_cn: 国籍
+    zh_hans: 国籍
+    zh_hant: 國籍
+    zh_hk: 國籍
+    zh_sg: 国籍
+    zh_tw: 國籍
 ---
 # [[Nationality]] 
 

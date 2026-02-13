@@ -180,7 +180,7 @@ aliases:
 has_id_wikidata: Q7873
 dv_has_:
   name_:
-    aeb-arab: دمّ
+    aeb_arab: دمّ
     af: bloed
     am: ደም
     ami: Remes
@@ -202,7 +202,7 @@ dv_has_:
     bar: Bluad
     bcl: Dugo
     be: кроў
-    be-tarask: кроў
+    be_tarask: кроў
     bew: Dara
     bg: Кръв
     bho: खून
@@ -212,7 +212,7 @@ dv_has_:
     bs: Krv
     bxr: Шуһан
     ca: sang
-    cbk-zam: Sangre
+    cbk_zam: Sangre
     cdo: Háik
     ce: ЦӀий
     ceb: Dugo
@@ -226,14 +226,14 @@ dv_has_:
     da: blod
     dag: Ʒim
     de: Blut
-    de-ch: Blut
+    de_ch: Blut
     dga: Zẽẽ
     diq: Goni
     dv: ލޭ
     el: αίμα
     en: blood
-    en-ca: blood
-    en-gb: blood
+    en_ca: blood
+    en_gb: blood
     eo: sango
     es: sangre
     et: veri
@@ -291,7 +291,7 @@ dv_has_:
     ko: 혈액
     ks: رَتھ
     ku: Xwîn
-    ku-latn: xwîn
+    ku_latn: xwîn
     kus: Ziim
     kw: Goos
     ky: Кан
@@ -318,7 +318,7 @@ dv_has_:
     mnc: ᠰᡝᠩᡤᡳ
     mr: रक्त
     ms: darah
-    ms-arab: داره
+    ms_arab: داره
     mt: demm
     my: သွေး
     myv: верь
@@ -344,7 +344,7 @@ dv_has_:
     pnb: لہو
     ps: وينه
     pt: sangue
-    pt-br: Sangue
+    pt_br: Sangue
     qu: Yawar
     ro: sânge
     ru: кровь
@@ -374,7 +374,7 @@ dv_has_:
     so: Dhiig
     sq: Gjaku
     sr: крв
-    sr-ec: крв
+    sr_ec: крв
     su: Getih
     sv: blod
     sw: Damu
@@ -389,7 +389,7 @@ dv_has_:
     tok: telo loje
     tr: kan
     tt: кан
-    tt-cyrl: кан
+    tt_cyrl: кан
     tw: Mogya
     tyv: Хан
     udm: вир
@@ -413,8 +413,8 @@ dv_has_:
     yue: 血
     za: Lwed
     zh: 血液
-    zh-hans: 血液
-    zh-hant: 血液
+    zh_hans: 血液
+    zh_hant: 血液
     zu: Igazi
 ---
 # [[Blood]] 

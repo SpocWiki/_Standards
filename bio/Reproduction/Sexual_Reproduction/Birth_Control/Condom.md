@@ -127,7 +127,7 @@ dv_has_:
     bar: Kondom
     bcl: Kondom
     be: прэзерватыў
-    be-tarask: Прэзэрватыў
+    be_tarask: Прэзэрватыў
     bg: Презерватив
     bho: कौंडम
     bn: কনডম
@@ -144,8 +144,8 @@ dv_has_:
     el: προφυλακτικό
     eml: Guldòun
     en: condom
-    en-ca: Condom
-    en-gb: condom
+    en_ca: Condom
+    en_gb: condom
     eo: kondomo
     es: preservativo
     et: Kondoom
@@ -207,7 +207,7 @@ dv_has_:
     pl: prezerwatywa
     ps: کانډوم
     pt: preservativo
-    pt-br: Preservativo
+    pt_br: Preservativo
     qu: Ullu islampu
     ro: prezervativ
     ru: презерватив
@@ -245,7 +245,7 @@ dv_has_:
     yo: Kọ́ndọ̀mù
     yue: 避孕套
     zh: 避孕套
-    zh-cn: 避孕套
+    zh_cn: 避孕套
 ---
 # [[Condom]] 
 

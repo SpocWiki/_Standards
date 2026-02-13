@@ -130,7 +130,7 @@ dv_has_:
     ast: Nitratu de potasiu
     az: nitrokalit
     azb: پوتاسیوم نیترات
-    be-tarask: нітрат калю
+    be_tarask: нітрат калю
     bg: Калиев нитрат
     bn: পটাসিয়াম নাইট্রেট
     bs: Kalij-nitrat
@@ -142,8 +142,8 @@ dv_has_:
     de: Kaliumnitrat
     el: Νιτρικό κάλιο
     en: potassium nitrate
-    en-ca: Potassium nitrate
-    en-gb: potassium nitrate
+    en_ca: Potassium nitrate
+    en_gb: potassium nitrate
     eo: kalia nitrato
     es: nitrato de potasio
     et: Kaaliumnitraat
@@ -165,11 +165,11 @@ dv_has_:
     ja: 硝酸カリウム
     jv: Kalium nitrat
     kk: калий селитрасы
-    kk-arab: كالىيي سەلىيتراسى
+    kk_arab: كالىيي سەلىيتراسى
     kk-cn: كالىيي سەلىيتراسى
-    kk-cyrl: Калий селитрасы
+    kk_cyrl: Калий селитрасы
     kk-kz: Калий селитрасы
-    kk-latn: Kalïý selïtrası
+    kk_latn: Kalïý selïtrası
     kk-tr: Kalïý selïtrası
     kn: ಪೊಟ್ಯಾಶಿಯಮ್ ನೈಟ್ರೇಟ್
     ko: 질산 칼륨
@@ -190,7 +190,7 @@ dv_has_:
     pl: azotan potasu
     pnb: پوٹاشیم نائٹریٹ
     pt: nitrato de potássio
-    pt-br: Nitrato de potássio
+    pt_br: Nitrato de potássio
     qu: Kalyu qullpa
     ro: azotat de potasiu
     ru: нитрат калия
@@ -198,8 +198,8 @@ dv_has_:
     sk: Dusičnan draselný
     sl: kalijev nitrat
     sr: шалитра
-    sr-ec: Шалитра
-    sr-el: Šalitra
+    sr_ec: Шалитра
+    sr_el: Šalitra
     sv: kaliumnitrat
     ta: பொட்டாசியம் நைத்திரேட்டு
     th: ดินประสิว
@@ -213,12 +213,12 @@ dv_has_:
     wuu: 硝酸钾
     yue: 硝酸鉀
     zh: 硝酸钾
-    zh-cn: 硝酸钾
-    zh-hans: 硝酸钾
-    zh-hant: 硝酸鉀
-    zh-hk: 硝酸鉀
-    zh-sg: 硝酸钾
-    zh-tw: 硝酸鉀
+    zh_cn: 硝酸钾
+    zh_hans: 硝酸钾
+    zh_hant: 硝酸鉀
+    zh_hk: 硝酸鉀
+    zh_sg: 硝酸钾
+    zh_tw: 硝酸鉀
 dv_is_:
   same_as:
   - '[[../../../../WikiData/WD~Potassium_nitrate,177836|WD~Potassium_nitrate,177836]]'

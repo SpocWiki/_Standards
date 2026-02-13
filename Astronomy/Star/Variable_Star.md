@@ -113,7 +113,7 @@ dv_has_:
     ast: estrella variable
     az: dəyişən ulduz
     be: пераменная зорка
-    be-tarask: зьменная зорка
+    be_tarask: зьменная зорка
     bg: променлива звезда
     bn: বিষমতারা
     bs: promjenljiva zvijezda
@@ -127,8 +127,8 @@ dv_has_:
     diq: estareyo vurneyer
     el: μεταβλητος αστέρας
     en: variable star
-    en-ca: variable star
-    en-gb: variable star
+    en_ca: variable star
+    en_gb: variable star
     eo: varia stelo
     es: estrella variable
     et: muutlik täht
@@ -165,15 +165,15 @@ dv_has_:
     os: ивгæ стъалы
     pl: gwiazda zmienna
     pt: estrela variável
-    pt-br: estrela variável
+    pt_br: estrela variável
     ro: stea variabilă
     ru: переменная звезда
     sh: promenljiva zvezda
     sk: premenná hviezda
     sl: spremenljivka
     sr: променљива звезда
-    sr-ec: променљива звезда
-    sr-el: promenljiva zvezda
+    sr_ec: променљива звезда
+    sr_el: promenljiva zvezda
     sv: variabel stjärna
     sw: nyota geugeu
     ta: மாறுபடும் விண்மீன்
@@ -190,8 +190,8 @@ dv_has_:
     xmf: მათირუ მურიცხი
     yue: 變星
     zh: 變星
-    zh-hans: 后髮座FK型變星
-    zh-hant: 變星
+    zh_hans: 后髮座FK型變星
+    zh_hant: 變星
 ---
 # [[Variable_Star]] 
 

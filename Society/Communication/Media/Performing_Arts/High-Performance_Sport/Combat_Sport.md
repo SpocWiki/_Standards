@@ -82,7 +82,7 @@ dv_has_:
     ast: Deporte de combate
     az: təkbətək döyüş
     be: адзінаборства
-    be-tarask: адзінаборства
+    be_tarask: адзінаборства
     bg: Боен спорт
     bs: borilački sport
     ca: esport de combat
@@ -90,7 +90,7 @@ dv_has_:
     cs: úpolový sport
     da: kampsport
     de: Kampfsport
-    de-ch: Kampfsport
+    de_ch: Kampfsport
     el: μαχητικό άθλημα
     en: combat sport
     eo: batalsporto
@@ -123,7 +123,7 @@ dv_has_:
     pl: sport walki
     pms: Spòrt ëd combatiment
     pt: desporto de combate
-    pt-br: esporte de combate
+    pt_br: esporte de combate
     ro: sport de luptă
     ru: спортивное единоборство
     scn: sport di cumbattimentu
@@ -135,12 +135,12 @@ dv_has_:
     th: กีฬาต่อสู้
     tr: dövüş sporu
     tt: бергә-бер көрәш
-    tt-cyrl: бергә-бер көрәш
+    tt_cyrl: бергә-бер көрәш
     uk: єдиноборство
     vi: thể thao đối kháng
     yue: 搏擊運動
     zh: 技击运动
-    zh-hant: 技擊運動
+    zh_hant: 技擊運動
 ---
 # [[Combat_Sport]] 
 

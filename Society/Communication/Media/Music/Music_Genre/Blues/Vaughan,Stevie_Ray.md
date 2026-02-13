@@ -80,7 +80,7 @@ dv_has_:
     arz: ستيفى راى فوجن
     ast: Stevie Ray Vaughan
     azb: استیوی ری وان
-    be-tarask: Стыві Рэй Вон
+    be_tarask: Стыві Рэй Вон
     bg: Стиви Рей Вон
     br: Stevie Ray Vaughan
     ca: Stevie Ray Vaughan
@@ -91,7 +91,7 @@ dv_has_:
     de: Stevie Ray Vaughan
     el: Στίβι Ρέι Βον
     en: Stevie Ray Vaughan
-    en-ca: Stevie Ray Vaughan
+    en_ca: Stevie Ray Vaughan
     eo: Stevie Ray Vaughan
     es: Stevie Ray Vaughan
     eu: Stevie Ray Vaughan
@@ -120,7 +120,7 @@ dv_has_:
     pam: Stevie Ray Vaughn
     pl: Stevie Ray Vaughan
     pt: Stevie Ray Vaughan
-    pt-br: Stevie Ray Vaughan
+    pt_br: Stevie Ray Vaughan
     ro: Stevie Ray Vaughan
     ru: Стиви Рэй Вон
     sk: Stevie Ray Vaughan
@@ -136,12 +136,12 @@ dv_has_:
     war: Stevie Ray Vaughan
     yue: 史蒂維·雷·沃恩
     zh: 史蒂维·雷·沃恩
-    zh-cn: 史蒂维·雷·沃恩
-    zh-hans: 史蒂维·雷·沃恩
-    zh-hant: 史蒂維·雷·沃恩
-    zh-hk: 史蒂維·雷·沃恩
-    zh-sg: 史蒂维·雷·沃恩
-    zh-tw: 史蒂維·雷·沃恩
+    zh_cn: 史蒂维·雷·沃恩
+    zh_hans: 史蒂维·雷·沃恩
+    zh_hant: 史蒂維·雷·沃恩
+    zh_hk: 史蒂維·雷·沃恩
+    zh_sg: 史蒂维·雷·沃恩
+    zh_tw: 史蒂維·雷·沃恩
 ---
 # [[Vaughan,Stevie_Ray]] 
 

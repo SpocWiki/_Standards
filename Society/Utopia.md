@@ -87,14 +87,14 @@ dv_has_:
     az: utopiya
     bcl: utopiya
     be: утопія
-    be-tarask: утопія
+    be_tarask: утопія
     bg: Утопия
     bn: স্বপ্নলোক
     bo: ཡུལ་ཏོ་པི་ཡ།
     br: utopia
     bs: utopija
     ca: utopia
-    cbk-zam: utopía
+    cbk_zam: utopía
     ceb: utopiya
     ckb: یوتۆپیا
     cs: utopie
@@ -126,11 +126,11 @@ dv_has_:
     ja: ユートピア
     ka: უტოპია
     kk: Утопия
-    kk-arab: ۋتوپىييا
+    kk_arab: ۋتوپىييا
     kk-cn: ۋتوپىييا
-    kk-cyrl: Утопия
+    kk_cyrl: Утопия
     kk-kz: Утопия
-    kk-latn: wtopïya
+    kk_latn: wtopïya
     kk-tr: wtopïya
     kn: ಯುಟೊಪಿಯ
     ko: 유토피아
@@ -146,7 +146,7 @@ dv_has_:
     ms: utopia
     mul: utopia
     nb: utopi
-    nds-nl: utopie
+    nds_nl: utopie
     nl: utopie
     nn: utopi
     oc: utopia
@@ -171,8 +171,8 @@ dv_has_:
     sms: utopia
     sq: utopia
     sr: утопија
-    sr-ec: Утопија
-    sr-el: utopija
+    sr_ec: Утопија
+    sr_el: utopija
     sv: utopi
     ta: யுட்டோபியா
     te: ఆదర్శధామం
@@ -190,12 +190,12 @@ dv_has_:
     wuu: 乌托邦
     yue: 烏托邦
     zh: 乌托邦
-    zh-cn: 乌托邦
-    zh-hans: 乌托邦
-    zh-hant: 烏托邦
-    zh-hk: 烏托邦
-    zh-sg: 乌托邦
-    zh-tw: 烏托邦
+    zh_cn: 乌托邦
+    zh_hans: 乌托邦
+    zh_hant: 烏托邦
+    zh_hk: 烏托邦
+    zh_sg: 乌托邦
+    zh_tw: 烏托邦
     zu: Indwemozwe
 ---
 # [[Utopia]] 

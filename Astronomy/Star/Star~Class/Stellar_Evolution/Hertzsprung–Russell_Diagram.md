@@ -130,7 +130,7 @@ dv_has_:
     ast: Diagrama de Hertzsprung-Russell
     az: Hersşprunq-Ressel
     be: Дыяграма Герцшпрунга — Расела
-    be-tarask: дыяграма Гэрцспруна—Расэла
+    be_tarask: дыяграма Гэрцспруна—Расэла
     bg: Диаграма на Херцшпрунг-Ръсел
     bn: হের্ডসব্রং-রাসেল চিত্র
     bs: Hertzsprung–Russellov dijagram
@@ -139,11 +139,11 @@ dv_has_:
     cy: diagram Hertzsprung–Russell
     da: Hertzsprung-Russell-diagram
     de: Hertzsprung-Russell-Diagramm
-    de-ch: Hertzsprung-Russell-Diagramm
+    de_ch: Hertzsprung-Russell-Diagramm
     el: Διάγραμμα Χέρτζσπρουνγκ-Ράσελ
     en: Hertzsprung–Russell diagram
-    en-ca: Hertzsprung–Russell diagram
-    en-gb: Hertzsprung–Russell diagram
+    en_ca: Hertzsprung–Russell diagram
+    en_gb: Hertzsprung–Russell diagram
     eo: diagramo de Hertzsprung-Russell
     es: Diagrama de Hertzsprung-Russell
     et: Hertzsprungi-Russelli diagramm
@@ -181,7 +181,7 @@ dv_has_:
     oc: Diagrama de Hertzsprung-Russell
     pl: Diagram Hertzsprunga-Russella
     pt: Diagrama de Hertzsprung-Russell
-    pt-br: Diagrama de Hertzsprung-Russell
+    pt_br: Diagrama de Hertzsprung-Russell
     ro: diagrama Hertzsprung-Russell
     ru: Диаграмма Герцшпрунга — Рассела
     sco: Hertzsprung–Russell diagram
@@ -190,8 +190,8 @@ dv_has_:
     sl: Hertzsprung-Russllov diagram
     sq: Diagrami Hertzsprung-Rassell
     sr: Херцшпрунг-Раселов дијаграм
-    sr-ec: Херцшпрунг-Раселов дијаграм
-    sr-el: Hercšprung-Raselov dijagram
+    sr_ec: Херцшпрунг-Раселов дијаграм
+    sr_el: Hercšprung-Raselov dijagram
     sv: Hertzsprung-Russell-diagram
     ta: ஏர்ட்சுபிரங் – ரசல் விளக்கப்படம்
     th: ไดอะแกรมของแฮร์ทสชปรุง-รัสเซลล์

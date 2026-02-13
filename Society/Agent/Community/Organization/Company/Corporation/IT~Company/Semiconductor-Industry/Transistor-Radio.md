@@ -39,10 +39,10 @@ dv_has_:
     vi: Đài phát thanh bán dẫn
     yue: 原子粒收音機
     zh: 晶体管收音机
-    zh-hans: 晶体管收音机
-    zh-hant: 晶體管收音機
-    zh-hk: 電晶體收音機
-    zh-tw: 電晶體收音機
+    zh_hans: 晶体管收音机
+    zh_hant: 晶體管收音機
+    zh_hk: 電晶體收音機
+    zh_tw: 電晶體收音機
 aliases:
 - akasanoma
 - radio a transistor

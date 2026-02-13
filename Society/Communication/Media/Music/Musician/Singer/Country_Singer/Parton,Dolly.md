@@ -240,7 +240,7 @@ dv_has_:
     azb: دالی پارتن
     bcl: Dolly Parten
     be: Долі Партан
-    be-tarask: Долі Партан
+    be_tarask: Долі Партан
     bg: Доли Партън
     bn: ডলি পারটন
     br: Dolly Parton
@@ -303,7 +303,7 @@ dv_has_:
     pl: Dolly Parton
     pnb: ڈولی پارٹن
     pt: Dolly Parton
-    pt-br: Dolly Parton
+    pt_br: Dolly Parton
     rmf: Dolly Parton
     ro: Dolly Parton
     ru: Долли Партон
@@ -324,8 +324,8 @@ dv_has_:
     sms: Dolly Parton
     sq: Dolly Parton
     sr: Доли Партон
-    sr-ec: Доли Партон
-    sr-el: Doli Parton
+    sr_ec: Доли Партон
+    sr_el: Doli Parton
     sv: Dolly Parton
     te: డాలీ పార్టన్
     th: ดอลลี พาร์ตัน
@@ -343,13 +343,13 @@ dv_has_:
     yo: Dolly Parton
     yue: 多莉·帕頓
     zh: 桃莉·巴頓
-    zh-cn: 桃莉·巴顿
-    zh-hans: 桃莉·巴顿
-    zh-hant: 桃莉·巴頓
-    zh-hk: 桃莉·巴頓
+    zh_cn: 桃莉·巴顿
+    zh_hans: 桃莉·巴顿
+    zh_hant: 桃莉·巴頓
+    zh_hk: 桃莉·巴頓
     zh-my: 桃莉·巴顿
-    zh-sg: 桃莉·巴顿
-    zh-tw: 桃莉·巴頓
+    zh_sg: 桃莉·巴顿
+    zh_tw: 桃莉·巴頓
 ---
 # [[Parton,Dolly]] 
 

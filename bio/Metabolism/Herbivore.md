@@ -113,7 +113,7 @@ dv_has_:
     az: fitofaqlar
     azb: اؤتاران (جانلی لار)
     be: фітафагі
-    be-tarask: фітафаг
+    be_tarask: фітафаг
     bg: растителноядно животно
     bn: তৃণভোজী প্রাণী
     br: geotdebrer

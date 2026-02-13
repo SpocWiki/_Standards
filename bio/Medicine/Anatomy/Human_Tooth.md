@@ -164,7 +164,7 @@ dv_has_:
     az: Diş
     bcl: Ngipon nin tawo
     be: Зубы
-    be-tarask: зубы чалавека
+    be_tarask: зубы чалавека
     bew: Gigi
     bg: зъб
     bn: মানব দন্ত
@@ -180,13 +180,13 @@ dv_has_:
     da: Tand
     de: menschlicher Zahn
     de-at: menschlicher Zahn
-    de-ch: menschlicher Zahn
+    de_ch: menschlicher Zahn
     diq: Dından
     dv: ދަތް
     el: Δόντι
     en: human tooth
-    en-ca: human tooth
-    en-gb: human tooth
+    en_ca: human tooth
+    en_gb: human tooth
     en-us: human tooth
     eo: homa dento
     es: diente humano
@@ -239,7 +239,7 @@ dv_has_:
     nan: Lâng ê chhùi-khí
     nap: Diente
     nb: mennesketann
-    nds-nl: menseliken taand
+    nds_nl: menseliken taand
     ne: दाँत
     nl: menselijke tand
     nn: mennesketann
@@ -288,10 +288,10 @@ dv_has_:
     yi: צאן
     yue: 人牙
     zh: 人類牙齒
-    zh-cn: 人类牙齿
-    zh-hans: 牙齒
-    zh-hant: 牙齒
-    zh-hk: 人類牙齒
+    zh_cn: 人类牙齿
+    zh_hans: 牙齒
+    zh_hant: 牙齒
+    zh_hk: 人類牙齒
 ---
 # [[Human_Tooth]] 
 

@@ -111,7 +111,7 @@ dv_has_:
     az: Dovşankimilər
     azb: دوْوشانکیمیلر
     be: зайцападобныя
-    be-tarask: зайцападобныя
+    be_tarask: зайцападобныя
     bg: зайцевидни
     br: Lagomorfed
     ca: lagomorfs
@@ -178,7 +178,7 @@ dv_has_:
     pl: zajęczaki
     pnb: خرگوش
     pt: Lagomorfos
-    pt-br: Lagomorpha
+    pt_br: Lagomorpha
     qu: Rinrisapa khankiq
     ro: Lagomorfă
     ru: зайцеобразные
@@ -205,9 +205,9 @@ dv_has_:
     wuu: 兔形目
     yue: 兔形目
     zh: 兔形目
-    zh-cn: 兔形目
-    zh-hans: 兔形目
-    zh-tw: 兔形目
+    zh_cn: 兔形目
+    zh_hans: 兔形目
+    zh_tw: 兔形目
 ---
 # [[Lagomorpha]]
 

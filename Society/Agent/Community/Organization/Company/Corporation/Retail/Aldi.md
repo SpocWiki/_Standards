@@ -100,7 +100,7 @@ dv_has_:
     az: Aldi
     bar: ALDI
     bcl: Aldi
-    be-tarask: Aldi
+    be_tarask: Aldi
     ca: Aldi
     cs: Aldi
     cv: Aldi
@@ -109,8 +109,8 @@ dv_has_:
     de: Aldi
     el: Aldi
     en: Aldi
-    en-ca: Aldi
-    en-gb: Aldi
+    en_ca: Aldi
+    en_gb: Aldi
     eo: Aldi
     es: Aldi
     eu: Aldi
@@ -136,7 +136,7 @@ dv_has_:
     pl: Aldi
     pms: ALDI
     pt: Aldi
-    pt-br: Aldi
+    pt_br: Aldi
     ro: Aldi
     ru: Aldi
     sah: Aldi

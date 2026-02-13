@@ -124,7 +124,7 @@ dv_has_:
     az: Hansel və Qretel
     bcl: Hansel and Gretel
     be: Гензель і Грэтэль
-    be-tarask: Гэнзэль і Грэтэль
+    be_tarask: Гэнзэль і Грэтэль
     bg: Хензел и Гретел
     bn: হ্যানসেল ও গ্রেটেল
     br: Hänsel ha Gretel
@@ -134,8 +134,8 @@ dv_has_:
     de: Hänsel und Gretel
     el: Χαίνσελ και Γκρέτελ
     en: Hansel and Gretel
-    en-ca: Hansel and Gretel
-    en-gb: Hansel and Gretel
+    en_ca: Hansel and Gretel
+    en_gb: Hansel and Gretel
     eo: Haĉjo kaj Grenjo
     es: Hansel y Gretel
     eu: Hansel eta Gretel
@@ -176,7 +176,7 @@ dv_has_:
     sl: Janko in Metka
     sq: Hansel dhe Gretel
     sr: Ивица и Марица
-    sr-ec: Ивица и Марица
+    sr_ec: Ивица и Марица
     sv: Hans och Greta
     sw: Hansel na Gretel
     szy: piyang a luma'
@@ -192,9 +192,9 @@ dv_has_:
     wuu: 汉泽尔搭格莱特
     yue: 糖果屋
     zh: 糖果屋
-    zh-cn: 糖果屋
-    zh-hans: 糖果屋
-    zh-hant: 糖果屋
+    zh_cn: 糖果屋
+    zh_hans: 糖果屋
+    zh_hant: 糖果屋
 ---
 # [[Hansel_and_Gretel]] 
 

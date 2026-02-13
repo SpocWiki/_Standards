@@ -210,7 +210,7 @@ dv_has_:
     bar: Politik
     bcl: Politika
     be: палітыка
-    be-tarask: палітыка
+    be_tarask: палітыка
     bg: политика
     bho: राजनीति
     blk: ခမ်းထီရေꩻ
@@ -300,7 +300,7 @@ dv_has_:
     krc: Политика
     ks: سِیاسَتھ
     ku: siyaset
-    ku-latn: siyaset
+    ku_latn: siyaset
     kw: Politegieth
     ky: Саясат
     la: Civilitas
@@ -328,7 +328,7 @@ dv_has_:
     mnc: ᡩᠠᠰᠠᠨ
     mr: राजकारण
     ms: politik
-    ms-arab: ڤوليتيک
+    ms_arab: ڤوليتيک
     mt: politika
     mwl: Política
     my: နိုင်ငံရေး
@@ -338,7 +338,7 @@ dv_has_:
     nap: Politica
     nb: politikk
     nds: Politik
-    nds-nl: politiek
+    nds_nl: politiek
     ne: राजनीति
     new: अरचियल्
     nl: politiek
@@ -359,7 +359,7 @@ dv_has_:
     pnb: سیاست
     ps: سياست
     pt: política
-    pt-br: política
+    pt_br: política
     qu: Kawpay
     rm: Politica
     ro: politică
@@ -391,7 +391,7 @@ dv_has_:
     so: siyaasadda
     sq: politikë
     sr: политика
-    sr-ec: политика
+    sr_ec: политика
     stq: Politik
     su: pulitik
     sv: politik
@@ -410,7 +410,7 @@ dv_has_:
     tr: siyaset
     ts: Politiki
     tt: сәясәт
-    tt-cyrl: сәясәт
+    tt_cyrl: сәясәт
     tyv: Политика
     udm: политика
     uk: політика
@@ -434,14 +434,14 @@ dv_has_:
     zea: Politiek
     zgh: ⵜⴰⵙⵔⵜⵉⵜ
     zh: 政治
-    zh-cn: 政治
-    zh-hans: 政治
-    zh-hant: 政治
-    zh-hk: 政治
-    zh-mo: 政治
+    zh_cn: 政治
+    zh_hans: 政治
+    zh_hant: 政治
+    zh_hk: 政治
+    zh_mo: 政治
     zh-my: 政治
-    zh-sg: 政治
-    zh-tw: 政治
+    zh_sg: 政治
+    zh_tw: 政治
     zu: Ezombusazwe
 ---
 # [[Politics]] 

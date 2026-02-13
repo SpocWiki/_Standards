@@ -338,7 +338,7 @@ dv_has_:
     bar: Josef Stalin
     bcl: Josep Stalin
     be: Іосіф Вісарыёнавіч Сталін
-    be-tarask: Ёсіф Сталін
+    be_tarask: Ёсіф Сталін
     bg: Йосиф Сталин
     bho: जोसेफ स्टालिन
     bi: Joseph Stalin
@@ -348,7 +348,7 @@ dv_has_:
     btm: Joseph Stalin
     bxr: Иосиф Сталин
     ca: Ióssif Stalin
-    cbk-zam: Joseph Stalin
+    cbk_zam: Joseph Stalin
     cdo: Sṳ̆-dâi-lìng
     ce: Сталин, Иосиф Виссарионович
     ceb: Joseph Stalin
@@ -362,14 +362,14 @@ dv_has_:
     cy: Joseff Stalin
     da: Josef Stalin
     de: Josef Stalin
-    de-ch: Josef Stalin
+    de_ch: Josef Stalin
     diq: Joseph Stalin
     dsb: Jozef Stalin
     el: Ιωσήφ Στάλιν
     eml: Joseph Stalin
     en: Joseph Stalin
-    en-ca: Joseph Stalin
-    en-gb: Joseph Stalin
+    en_ca: Joseph Stalin
+    en_gb: Joseph Stalin
     en-us: Joseph Stalin
     eo: Josif Stalin
     es: Iósif Stalin
@@ -463,7 +463,7 @@ dv_has_:
     nap: Stalin
     nb: Josef Stalin
     nds: Josef Stalin
-    nds-nl: Josef Stalin
+    nds_nl: Josef Stalin
     ne: स्टालिन
     new: जोसेफ स्टालिन
     nl: Jozef Stalin
@@ -482,7 +482,7 @@ dv_has_:
     pnt: Ιωσήφ Στάλιν
     ps: جوزف سټالين
     pt: Josef Stalin
-    pt-br: Josef Stalin
+    pt_br: Josef Stalin
     qu: Yosif Stalin
     ro: Iosif Stalin
     ru: Иосиф Виссарионович Сталин
@@ -502,7 +502,7 @@ dv_has_:
     so: Joseph Stalin
     sq: Stalini
     sr: Јосиф Стаљин
-    sr-ec: Јосиф Стаљин
+    sr_ec: Јосиф Стаљин
     st: Iosif Stalin
     sv: Josef Stalin
     sw: Josef Stalin
@@ -517,7 +517,7 @@ dv_has_:
     tok: jan Jose Talin
     tr: Josef Stalin
     tt: Иосиф Сталин
-    tt-cyrl: Иосиф Сталин
+    tt_cyrl: Иосиф Сталин
     tyv: Сталин, Иосиф Виссарионович
     ug: ستالىن
     uk: Сталін Йосип Віссаріонович
@@ -537,11 +537,11 @@ dv_has_:
     yue: 史太林
     za: Joseph Stalin
     zh: 约瑟夫·斯大林
-    zh-cn: 约瑟夫·斯大林
-    zh-hans: 约瑟夫·斯大林
-    zh-hant: 約瑟夫·史達林
-    zh-hk: 史太林
-    zh-tw: 約瑟夫·史達林
+    zh_cn: 约瑟夫·斯大林
+    zh_hans: 约瑟夫·斯大林
+    zh_hant: 約瑟夫·史達林
+    zh_hk: 史太林
+    zh_tw: 約瑟夫·史達林
     zu: Joseph Stalin
 ---
 # [[Stalin,Joseph]] 

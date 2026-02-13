@@ -107,7 +107,7 @@ dv_has_:
     ast: interaición electromagnética
     ba: электромагнит тәьҫир итешеүе
     be: электрамагнітнае ўзаемадзеянне
-    be-tarask: электрамагнітнае ўзаемадзеяньне
+    be_tarask: электрамагнітнае ўзаемадзеяньне
     bg: електромагнитно взаимодействие
     bn: তড়িচ্চুম্বকীয় বল
     bs: elektromagnetna sila
@@ -150,7 +150,7 @@ dv_has_:
     ml: വൈദ്യുതകാന്തികബലം
     mn: цахилгаан соронзон харилцан үйлчлэл
     ms: daya elektromagnet
-    ms-arab: داي ايليکترومݢنيت
+    ms_arab: داي ايليکترومݢنيت
     nan: tiān-chû-la̍t
     nb: Elektromagnetisk kraft
     nds: elektromagneetsche Kraft
@@ -161,7 +161,7 @@ dv_has_:
     pl: oddziaływanie elektromagnetyczne
     pms: Eletromagnetism
     pt: interação electromagnética
-    pt-br: força eletromagnética
+    pt_br: força eletromagnética
     ro: forța electromagnetică
     ru: электромагнитное взаимодействие
     scn: intirazzioni elettrumagnètica
@@ -172,8 +172,8 @@ dv_has_:
     smn: šleđgâmagneetlâš vuáruvaikuttâs
     sq: forca elektromagnetike
     sr: електромагнетна интеракција
-    sr-ec: електромагнетна интеракција
-    sr-el: elektromagnetna interakcija
+    sr_ec: електромагнетна интеракција
+    sr_el: elektromagnetna interakcija
     sv: elektromagnetisk växelverkan
     sw: mtagusano sumakuumeme
     ta: மின்காந்த இடைவினை
@@ -191,9 +191,9 @@ dv_has_:
     yi: עלעקטראמאגנעטישע אינטעראקציע
     yue: 電磁力
     zh: 電磁力
-    zh-hans: 电磁力
-    zh-hant: 電磁力
-    zh-hk: 電磁力
+    zh_hans: 电磁力
+    zh_hant: 電磁力
+    zh_hk: 電磁力
 ---
 # [[Electromagnetic_Interaction]] 
 

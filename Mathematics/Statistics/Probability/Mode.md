@@ -65,7 +65,7 @@ dv_has_:
     an: Moda
     ar: منوال
     be: мода, статыстыка
-    be-tarask: мода
+    be_tarask: мода
     bg: Мода
     bn: প্রচুরক
     bs: Modus
@@ -113,8 +113,8 @@ dv_has_:
     sn: Chikuwo
     sq: Modi
     sr: Modus
-    sr-ec: Модус
-    sr-el: Modus
+    sr_ec: Модус
+    sr_el: Modus
     sv: typvärde
     sw: Modi (Takwimu)
     ta: முகடு
@@ -127,12 +127,12 @@ dv_has_:
     wuu: 众数 (数学)
     yue: 眾數
     zh: 眾數
-    zh-cn: 众数
-    zh-hans: 众数
-    zh-hant: 眾數
-    zh-hk: 眾數
-    zh-sg: 众数
-    zh-tw: 眾數
+    zh_cn: 众数
+    zh_hans: 众数
+    zh_hant: 眾數
+    zh_hk: 眾數
+    zh_sg: 众数
+    zh_tw: 眾數
 ---
 # [[Mode]] 
 

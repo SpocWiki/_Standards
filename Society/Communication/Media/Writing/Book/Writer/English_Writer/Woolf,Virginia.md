@@ -188,7 +188,7 @@ dv_has_:
     azb: ویرجینیا وولف
     bcl: Virginia Woolf
     be: Вірджынія Вульф
-    be-tarask: Вірджынія Ўулф
+    be_tarask: Вірджынія Ўулф
     bg: Вирджиния Улф
     bho: वर्जीनिया वुल्फ
     bn: ভার্জিনিয়া উল্ফ
@@ -200,12 +200,12 @@ dv_has_:
     cy: Virginia Woolf
     da: Virginia Woolf
     de: Virginia Woolf
-    de-ch: Virginia Woolf
+    de_ch: Virginia Woolf
     diq: Virginia Woolf
     el: Βιρτζίνια Γουλφ
     en: Virginia Woolf
-    en-ca: Virginia Woolf
-    en-gb: Virginia Woolf
+    en_ca: Virginia Woolf
+    en_gb: Virginia Woolf
     eo: Virginia Woolf
     es: Virginia Woolf
     et: Virginia Woolf
@@ -265,7 +265,7 @@ dv_has_:
     pnb: ورجینیا ولف
     ps: ویرجینیا وولف
     pt: Virginia Woolf
-    pt-br: Virginia Woolf
+    pt_br: Virginia Woolf
     pwn: verdjinia wuv
     qu: Virginia Woolf
     ro: Virginia Woolf
@@ -294,10 +294,10 @@ dv_has_:
     yo: Virginia Woolf
     yue: 伍爾芙
     zh: 弗吉尼亚·伍尔夫
-    zh-cn: 弗吉尼亚·伍尔夫
-    zh-hans: 弗吉尼亚·伍尔夫
-    zh-sg: 弗吉尼亚·伍尔芙
-    zh-tw: 維吉尼亞·吳爾芙
+    zh_cn: 弗吉尼亚·伍尔夫
+    zh_hans: 弗吉尼亚·伍尔夫
+    zh_sg: 弗吉尼亚·伍尔芙
+    zh_tw: 維吉尼亞·吳爾芙
 ---
 # [[Woolf,Virginia]] 
 

@@ -100,7 +100,7 @@ dv_has_:
     az: barokko
     ba: барокко дәүере музыкаһы
     be: музыка барока
-    be-tarask: барокавая музыка
+    be_tarask: барокавая музыка
     bs: Barokna muzika
     ca: música barroca
     ckb: مۆسیقای بۆرۆک
@@ -108,11 +108,11 @@ dv_has_:
     cy: cerddoriaeth faróc
     da: barokmusik
     de: Barockmusik
-    de-ch: Barockmusik
+    de_ch: Barockmusik
     el: μπαρόκ μουσική
     en: Baroque music
-    en-ca: Baroque music
-    en-gb: Baroque music
+    en_ca: Baroque music
+    en_gb: Baroque music
     eo: Baroka muziko
     es: música del Barroco
     et: barokkmuusika
@@ -135,7 +135,7 @@ dv_has_:
     ja: バロック音楽
     ko: 바로크 음악
     ku: muzîka barok
-    ku-latn: muzîka barok
+    ku_latn: muzîka barok
     kw: ilow baroque
     la: Aetas Baroca
     lb: Barokmusek
@@ -155,7 +155,7 @@ dv_has_:
     pl: muzyka barokowa
     ps: باروک موسيقي
     pt: música barroca
-    pt-br: Música barroca
+    pt_br: Música barroca
     ro: muzică barocă
     ru: музыка эпохи барокко
     scn: Mùsica barocca
@@ -177,9 +177,9 @@ dv_has_:
     yi: באראק מוזיק
     yue: 巴洛克音樂
     zh: 巴洛克音乐
-    zh-hant: 巴洛克音樂
-    zh-hk: 巴洛克音樂
-    zh-tw: 巴洛克音樂
+    zh_hant: 巴洛克音樂
+    zh_hk: 巴洛克音樂
+    zh_tw: 巴洛克音樂
 ---
 # [[Baroque_Music]] 
 

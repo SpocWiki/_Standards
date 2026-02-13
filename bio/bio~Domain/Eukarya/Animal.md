@@ -338,7 +338,7 @@ dv_has_:
     bbc: Binatang
     bcl: Hayop
     be: жывёлы
-    be-tarask: жывёлы
+    be_tarask: жывёлы
     bew: Héwan
     bg: животни
     bho: जानवर
@@ -365,7 +365,7 @@ dv_has_:
     da: dyr
     dag: binkɔbigu
     de: Tier
-    de-ch: Tier
+    de_ch: Tier
     diq: Heywan
     dtp: tayam
     dty: प्राणी
@@ -373,8 +373,8 @@ dv_has_:
     ee: Lã
     el: ζώο
     en: Animalia
-    en-ca: Animal
-    en-gb: animal
+    en_ca: Animal
+    en_gb: animal
     en-us: animal
     eo: animalo
     es: Animalia
@@ -445,7 +445,7 @@ dv_has_:
     ks: جانور
     ksh: Dier
     ku: ajal
-    ku-latn: ajal
+    ku_latn: ajal
     kus: Bʋnkɔnbid Yʋda
     kw: Enyval
     ky: Жаныбарлар
@@ -466,7 +466,7 @@ dv_has_:
     lv: dzīvnieki
     lzh: 動物
     mai: पशु
-    map-bms: Kewan
+    map_bms: Kewan
     mcn: mu᷆rnà
     mdf: жувата
     mg: Biby
@@ -478,7 +478,7 @@ dv_has_:
     mn: Амьтан
     mr: प्राणी
     ms: haiwan
-    ms-arab: حيوان
+    ms_arab: حيوان
     mt: annimal
     mul: Animalia
     mwl: Animal
@@ -490,7 +490,7 @@ dv_has_:
     nap: Animali
     nb: dyr
     nds: Deert
-    nds-nl: dieren
+    nds_nl: dieren
     ne: जनावर
     new: पशु
     nia: hewan
@@ -513,7 +513,7 @@ dv_has_:
     pnb: جانور
     ps: ژوي
     pt: animalia
-    pt-br: Animalia
+    pt_br: Animalia
     pwn: qemuzimuzip
     qu: Uywa
     rki: သတ္တဝါ
@@ -570,8 +570,8 @@ dv_has_:
     tr: hayvan
     ts: Swiharhi
     tt: хайваннар
-    tt-cyrl: хайваннар
-    tt-latn: xaywannar
+    tt_cyrl: хайваннар
+    tt_latn: xaywannar
     tum: Vinyama
     tw: Aboa
     udm: лулосъёс
@@ -601,11 +601,11 @@ dv_has_:
     zea: Beêsten
     zgh: ⴰⵎⵓⴷⵔ
     zh: 动物
-    zh-cn: 动物
-    zh-hans: 动物
-    zh-hant: 動物
-    zh-hk: 動物
-    zh-tw: 動物
+    zh_cn: 动物
+    zh_hans: 动物
+    zh_hant: 動物
+    zh_hk: 動物
+    zh_tw: 動物
     zu: isilwane
 ---
 # [[Animal]] 

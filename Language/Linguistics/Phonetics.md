@@ -123,7 +123,7 @@ dv_has_:
     az: fonetika
     ba: фонетика
     be: фанетыка
-    be-tarask: фанэтыка
+    be_tarask: фанэтыка
     bg: фонетика
     bn: ধ্বনিবিজ্ঞান
     br: fonetik
@@ -190,7 +190,7 @@ dv_has_:
     mk: фонетика
     ml: സ്വനവിജ്ഞാനം
     ms: fonetik
-    ms-arab: فونيتيک
+    ms_arab: فونيتيک
     mt: fonetika
     my: သဒ္ဒဗေဒ
     myv: фонетика
@@ -226,7 +226,7 @@ dv_has_:
     sms: fonetikk
     sq: fonetikë
     sr: фонетика
-    sr-ec: фонетика
+    sr_ec: фонетика
     stq: Phonetik
     sv: fonetik
     sw: fonetiki
@@ -255,8 +255,8 @@ dv_has_:
     yue: 語音學
     zgh: ⵜⴰⵎⵙⵉⵙⵍⵉⵜ
     zh: 语音学
-    zh-hant: 語音學
-    zh-tw: 語音學
+    zh_hant: 語音學
+    zh_tw: 語音學
     zu: ifonetiki
 ---
 # [[Phonetics]] 

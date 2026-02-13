@@ -128,7 +128,7 @@ dv_has_:
     ba: Мейес
     bas: bɛɖɛɛ̀-mú-pĩ̀iǹ-gbò
     be: печ
-    be-tarask: печ
+    be_tarask: печ
     bg: Фурна
     bho: अवन
     bn: ওভেন
@@ -143,7 +143,7 @@ dv_has_:
     de: Ofen
     el: Φούρνος
     en: oven
-    en-gb: oven
+    en_gb: oven
     eo: forno
     es: horno
     et: Ahi
@@ -182,7 +182,7 @@ dv_has_:
     mt: forn
     nan: Hang-lô͘
     nb: ovn
-    nds-nl: noven
+    nds_nl: noven
     ne: चुल्हो
     nl: oven
     nn: Omn
@@ -190,7 +190,7 @@ dv_has_:
     pms: Forn
     pnt: φουρνίν
     pt: forno
-    pt-br: forno
+    pt_br: forno
     qu: Q'uncha
     ro: cuptor
     ru: печь
@@ -204,7 +204,7 @@ dv_has_:
     sms: ǩiiuǥân
     sq: Furra
     sr: пећница
-    sr-ec: пећница
+    sr_ec: пећница
     sv: ugn
     szl: bratruła
     te: పొయ్యి

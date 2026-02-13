@@ -164,7 +164,7 @@ dv_has_:
     azb: عادی اولیک
     ba: Ҡуҙғалаҡ
     be: шчаўе кіслае
-    be-tarask: шчаўе праўдзівае
+    be_tarask: шчаўе праўдзівае
     bg: киселец
     ca: agrella
     ceb: Rumex acetosa
@@ -226,7 +226,7 @@ dv_has_:
     pl: Szczaw zwyczajny
     pms: Rumex acetosa
     pt: azeda
-    pt-br: Rumex acetosa
+    pt_br: Rumex acetosa
     ro: Măcriș
     ru: щавель кислый
     sco: Rumex acetosa
@@ -253,9 +253,9 @@ dv_has_:
     wuu: 酸模
     yue: 薞蕪
     zh: 酸模
-    zh-cn: 酸模
-    zh-hans: 酸模
-    zh-tw: 酸模
+    zh_cn: 酸模
+    zh_hans: 酸模
+    zh_tw: 酸模
 ---
 # [[Rumex_acetosa]] 
 

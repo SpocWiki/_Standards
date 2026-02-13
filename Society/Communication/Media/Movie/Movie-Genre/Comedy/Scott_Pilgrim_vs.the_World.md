@@ -79,11 +79,11 @@ dv_has_:
     vi: Scott Pilgrim vs. the world
     yue: 爆女大格鬥
     zh: 爆女大格鬥
-    zh-cn: 歪小子斯科特对抗全世界
-    zh-hans: 歪小子斯科特对抗全世界
-    zh-hant: 歪小子史考特
-    zh-hk: 爆女大格鬥
-    zh-tw: 歪小子史考特
+    zh_cn: 歪小子斯科特对抗全世界
+    zh_hans: 歪小子斯科特对抗全世界
+    zh_hant: 歪小子史考特
+    zh_hk: 爆女大格鬥
+    zh_tw: 歪小子史考特
 ---
 ## #has_/text_of_/abstract 
 

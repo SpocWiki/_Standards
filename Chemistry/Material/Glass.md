@@ -228,7 +228,7 @@ dv_has_:
     ba: быяла
     ban: gelas
     be: шкло
-    be-tarask: шкло
+    be_tarask: шкло
     bew: beling
     bg: стъкло
     bjn: kaca
@@ -246,7 +246,7 @@ dv_has_:
     da: glas
     dag: kalo
     de: Glas
-    de-ch: Glas
+    de_ch: Glas
     el: γυαλί
     eml: vēder
     en: glass
@@ -332,7 +332,7 @@ dv_has_:
     pnb: شیشہ
     ps: ښيښه
     pt: vidro
-    pt-br: vidro
+    pt_br: vidro
     qu: q'ispillu
     ro: sticlă
     ru: стекло
@@ -349,8 +349,8 @@ dv_has_:
     sl: steklo
     sq: xham
     sr: стакло
-    sr-ec: стакло
-    sr-el: staklo
+    sr_ec: стакло
+    sr_el: staklo
     su: kaca
     sv: glas
     sw: kioo
@@ -358,14 +358,14 @@ dv_has_:
     ta: கண்ணாடி
     te: గాజు
     tg: шиша
-    tg-latn: şişa
+    tg_latn: şişa
     th: แก้ว
     tl: salamin
     to: sioʻata
     tok: kiwen kon
     tr: cam
     tt: пыяла
-    tt-cyrl: пыяла
+    tt_cyrl: пыяла
     ug: ئەينەك
     uk: скло
     ur: شیشہ
@@ -380,14 +380,14 @@ dv_has_:
     yue: 玻璃
     za: bohliz
     zh: 玻璃
-    zh-cn: 玻璃
-    zh-hans: 玻璃
-    zh-hant: 玻璃
-    zh-hk: 玻璃
-    zh-mo: 玻璃
+    zh_cn: 玻璃
+    zh_hans: 玻璃
+    zh_hant: 玻璃
+    zh_hk: 玻璃
+    zh_mo: 玻璃
     zh-my: 玻璃
-    zh-sg: 玻璃
-    zh-tw: 玻璃
+    zh_sg: 玻璃
+    zh_tw: 玻璃
     zu: inhlaka
 ---
 # [[Glass]] 

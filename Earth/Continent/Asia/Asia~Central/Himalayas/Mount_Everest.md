@@ -276,7 +276,7 @@ dv_has_:
     bar: Mount Everest
     bcl: Bukid Everest
     be: Джамалунгма
-    be-tarask: Эвэрэст
+    be_tarask: Эвэрэст
     bg: Еверест
     bho: माउंट एवरेस्ट
     bjn: Gunung Everest
@@ -300,14 +300,14 @@ dv_has_:
     cy: Mynydd Chomolungma
     da: Mount Everest
     de: Mount Everest
-    de-ch: Mount Everest
+    de_ch: Mount Everest
     diq: Koyê Everesti
     dty: सगरमाथा
     dv: އެވަރެސްޓް ފަރުބަދަ
     el: Έβερεστ
     en: Mount Everest
-    en-ca: Mount Everest
-    en-gb: Mount Everest
+    en_ca: Mount Everest
+    en_gb: Mount Everest
     en-us: Mount Everest
     eo: Ĉomolungmo
     es: Everest
@@ -392,7 +392,7 @@ dv_has_:
     mn: Жомолунгма
     mr: एव्हरेस्ट
     ms: Gunung Everest
-    ms-arab: ݢونوڠ ايۏرسﺕ
+    ms_arab: ݢونوڠ ايۏرسﺕ
     mt: Muntanja Everest
     my: ဧဝရတ်တောင်
     mzn: اورست
@@ -425,7 +425,7 @@ dv_has_:
     pnb: ماؤنٹ ایورسٹ
     ps: د ایوریسټ غـر
     pt: Evereste
-    pt-br: Everest
+    pt_br: Everest
     qu: Apu everest
     rm: Mount Everest
     ro: Everest
@@ -466,7 +466,7 @@ dv_has_:
     tok: nena ma Somolama
     tr: Everest Dağı
     tt: Җомолуңма
-    tt-cyrl: Җомолуңма
+    tt_cyrl: Җомолуңма
     ug: ئېۋېرېست
     uk: Джомолунгма
     ur: ماؤنٹ ایورسٹ
@@ -484,11 +484,11 @@ dv_has_:
     zea: Mount Everest
     zgh: ⵉⴼⵔⵉⵙⵜ
     zh: 珠穆朗瑪峰
-    zh-cn: 珠穆朗玛峰
-    zh-hans: 珠穆朗玛峰
-    zh-hant: 聖母峰
-    zh-hk: 珠穆朗瑪峰
-    zh-tw: 聖母峰
+    zh_cn: 珠穆朗玛峰
+    zh_hans: 珠穆朗玛峰
+    zh_hant: 聖母峰
+    zh_hk: 珠穆朗瑪峰
+    zh_tw: 聖母峰
     zu: Mount Everest
 ---
 # [[Mount_Everest]] 

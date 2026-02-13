@@ -144,7 +144,7 @@ dv_has_:
     az: Epikür
     ba: Эпикур
     be: Эпікур
-    be-tarask: Эпікур
+    be_tarask: Эпікур
     bg: Епикур
     bn: এপিকুরোস
     br: Epikuros
@@ -210,7 +210,7 @@ dv_has_:
     pnb: ایپیکیورس
     ps: اپیکوروس
     pt: Epicuro
-    pt-br: Epicuro
+    pt_br: Epicuro
     ro: Epicur
     ru: Эпикур
     sc: Epicuro

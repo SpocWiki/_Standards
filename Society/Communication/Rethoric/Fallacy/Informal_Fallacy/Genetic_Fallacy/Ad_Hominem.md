@@ -87,8 +87,8 @@ dv_has_:
     sk: Argumentum ad hominem
     sl: ad hominem
     sr: Argumentum ad hominem
-    sr-ec: Аргументум ад хоминем
-    sr-el: Argumentum ad hominem
+    sr_ec: Аргументум ад хоминем
+    sr_el: Argumentum ad hominem
     sv: Ad hominem-argument
     th: Ad hominem
     tl: Ad hominem
@@ -99,12 +99,12 @@ dv_has_:
     wuu: 诉诸人身
     yue: 人身攻擊謬誤
     zh: 訴諸人身
-    zh-cn: 诉诸人身
-    zh-hans: 诉诸人身
-    zh-hant: 訴諸人身
-    zh-hk: 訴諸人身
-    zh-sg: 诉诸人身
-    zh-tw: 訴諸人身
+    zh_cn: 诉诸人身
+    zh_hans: 诉诸人身
+    zh_hant: 訴諸人身
+    zh_hk: 訴諸人身
+    zh_sg: 诉诸人身
+    zh_tw: 訴諸人身
 ---
 # [[Ad_Hominem]] 
 

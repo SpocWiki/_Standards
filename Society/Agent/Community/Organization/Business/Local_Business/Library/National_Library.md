@@ -90,7 +90,7 @@ dv_has_:
     az: milli kitabxana
     ba: милли китапхана
     be: Нацыянальная бібліятэка
-    be-tarask: нацыянальная бібліятэка
+    be_tarask: нацыянальная бібліятэка
     bg: Национална библиотека
     bn: জাতীয় গ্রন্থাগার
     bs: Nacionalna biblioteka
@@ -99,11 +99,11 @@ dv_has_:
     cy: llyfrgell genedlaethol
     da: nationalbibliotek
     de: Nationalbibliothek
-    de-ch: Nationalbibliothek
+    de_ch: Nationalbibliothek
     el: εθνική βιβλιοθήκη
     en: national library
-    en-ca: National library
-    en-gb: national library
+    en_ca: National library
+    en_gb: national library
     eo: nacia biblioteko
     es: biblioteca nacional
     et: rahvusraamatukogu
@@ -129,7 +129,7 @@ dv_has_:
     kk: Ұлттық Кітапхана
     ko: 국립도서관
     ku: pirtûkxaneya neteweyî
-    ku-latn: pirtûkxaneya neteweyî
+    ku_latn: pirtûkxaneya neteweyî
     la: Bibliotheca nationalis
     lb: Nationalbibliothéik
     lmo: biblioteca nazzional
@@ -138,7 +138,7 @@ dv_has_:
     mi: whare pukapuka matua
     mk: национална библиотека
     ms: perpustakaan negara
-    ms-arab: ڤرڤوستاکاءن نݢارا
+    ms_arab: ڤرڤوستاکاءن نݢارا
     nan: Kok-li̍p tô͘-su-koán
     nb: nasjonalbibliotek
     nds: Natschonalbibliotek
@@ -151,7 +151,7 @@ dv_has_:
     pnb: قومی کتب خانہ
     ps: ملي کتابتون
     pt: biblioteca nacional
-    pt-br: biblioteca nacional
+    pt_br: biblioteca nacional
     ro: biblioteca națională
     ru: национальная библиотека
     scn: bibbliuteca nazziunali
@@ -166,27 +166,27 @@ dv_has_:
     sms: meersažǩeʹrjjpõrtt
     sq: Biblioteka kombëtare
     sr: национална библиотека
-    sr-ec: национална библиотека
-    sr-el: nacionalna biblioteka
+    sr_ec: национална библиотека
+    sr_el: nacionalna biblioteka
     sv: nationalbibliotek
     ta: தேசிய நூலகம்
     tr: millî kütüphane
     tt: милли китапханә
-    tt-cyrl: милли китапханә
+    tt_cyrl: милли китапханә
     uk: національна бібліотека
     ur: قومی کتب خانہ
     uz: Milliy kutubxona
     vi: thư viện quốc gia
     yue: 國家圖書館
     zh: 國家圖書館
-    zh-cn: 国家图书馆
-    zh-hans: 国家图书馆
-    zh-hant: 國家圖書館
-    zh-hk: 國家圖書館
-    zh-mo: 國家圖書館
+    zh_cn: 国家图书馆
+    zh_hans: 国家图书馆
+    zh_hant: 國家圖書館
+    zh_hk: 國家圖書館
+    zh_mo: 國家圖書館
     zh-my: 国家图书馆
-    zh-sg: 国家图书馆
-    zh-tw: 國家圖書館
+    zh_sg: 国家图书馆
+    zh_tw: 國家圖書館
 ---
 # [[National_Library]] 
 

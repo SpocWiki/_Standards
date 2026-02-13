@@ -146,7 +146,7 @@ dv_has_:
     ba: Клод Дебюсси
     bar: Claude Debussy
     be: Клод Дэбюсі
-    be-tarask: Клёд Дэбюсі
+    be_tarask: Клёд Дэбюсі
     bg: Клод Дебюси
     bm: Claude Debussy
     br: Claude Debussy
@@ -161,12 +161,12 @@ dv_has_:
     da: Claude Debussy
     de: Claude Debussy
     de-at: Claude Debussy
-    de-ch: Claude Debussy
+    de_ch: Claude Debussy
     diq: Claude Debussy
     el: Κλοντ Ντεμπισί
     en: Claude Debussy
-    en-ca: Claude Debussy
-    en-gb: Claude Debussy
+    en_ca: Claude Debussy
+    en_gb: Claude Debussy
     eo: Claude Debussy
     es: Claude Debussy
     et: Claude Debussy
@@ -226,7 +226,7 @@ dv_has_:
     nap: Claude Debussy
     nb: Claude Debussy
     nds: Claude Debussy
-    nds-nl: Claude Debussy
+    nds_nl: Claude Debussy
     nl: Claude Debussy
     nn: Claude Debussy
     nrm: Claude Debussy
@@ -240,7 +240,7 @@ dv_has_:
     pms: Claude Debussy
     prg: Claude Debussy
     pt: Claude Debussy
-    pt-br: Claude Debussy
+    pt_br: Claude Debussy
     qu: Claude Debussy
     rgn: Claude Debussy
     rm: Claude Debussy
@@ -253,7 +253,7 @@ dv_has_:
     sl: Claude Debussy
     sq: Claude Debussy
     sr: Клод Дебиси
-    sr-el: Claude Debussy
+    sr_el: Claude Debussy
     sv: Claude Debussy
     sw: Claude Debussy
     tg: Клод Дебюсси
@@ -275,7 +275,7 @@ dv_has_:
     wuu: 阿希尔-克洛德·德彪西
     yue: 德布西
     zh: 阿希尔-克洛德·德彪西
-    zh-tw: 克勞德·德布西
+    zh_tw: 克勞德·德布西
     zu: Claude Debussy
 ---
 # [[Debussy,Claude]] 

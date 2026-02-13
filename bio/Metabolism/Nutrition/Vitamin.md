@@ -126,7 +126,7 @@ dv_has_:
     ba: витаминдар
     bcl: Bitamina
     be: вітаміны
-    be-tarask: вітамін
+    be_tarask: вітамін
     bg: витамин
     bho: विटामिन
     bjn: Vitamin
@@ -140,13 +140,13 @@ dv_has_:
     cy: fitamin
     da: vitamin
     de: Vitamin
-    de-ch: Vitamin
+    de_ch: Vitamin
     dty: भिटामिन
     dv: ވިޓަމިން
     el: βιταμίνη
     en: vitamin
-    en-ca: vitamin
-    en-gb: vitamin
+    en_ca: vitamin
+    en_gb: vitamin
     eo: vitamino
     es: vitamina
     et: vitamiin
@@ -209,7 +209,7 @@ dv_has_:
     pnb: وٹامن
     ps: ويټامين
     pt: vitamina
-    pt-br: vitamina
+    pt_br: vitamina
     ro: vitamină
     ru: витамины
     rue: витамин
@@ -227,8 +227,8 @@ dv_has_:
     so: fiitamiin
     sq: vitaminat
     sr: витамин
-    sr-ec: витамин
-    sr-el: vitamin
+    sr_ec: витамин
+    sr_el: vitamin
     su: vitamin
     sv: vitamin
     sw: vitamini

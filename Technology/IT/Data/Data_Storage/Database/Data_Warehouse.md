@@ -69,7 +69,7 @@ dv_has_:
     ast: Almacén de datos
     az: Verilənlər xəzinəsi
     be: сховішча даных
-    be-tarask: сховішча зьвестак
+    be_tarask: сховішча зьвестак
     bg: Склад данни
     ca: magatzem de dades
     ckb: عەمباری دراوەکان
@@ -119,12 +119,12 @@ dv_has_:
     vi: Kho dữ liệu
     yue: 數據倉
     zh: 資料倉儲
-    zh-cn: 数据仓库
-    zh-hans: 资料仓储
-    zh-hant: 資料倉儲
-    zh-hk: 資料倉儲
-    zh-sg: 数据仓库
-    zh-tw: 資料倉儲
+    zh_cn: 数据仓库
+    zh_hans: 资料仓储
+    zh_hant: 資料倉儲
+    zh_hk: 資料倉儲
+    zh_sg: 数据仓库
+    zh_tw: 資料倉儲
 ---
 # [[Data_Warehouse]] 
 

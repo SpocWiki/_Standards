@@ -97,7 +97,7 @@ dv_has_:
     ast: Ronnie James Dio
     az: Ronni Ceyms Dio
     azb: رانی جیمز دیو
-    be-tarask: Роні Джэймз Дыё
+    be_tarask: Роні Джэймз Дыё
     bg: Рони Джеймс Дио
     bs: Ronnie James Dio
     ca: Ronnie James Dio
@@ -108,7 +108,7 @@ dv_has_:
     el: Ρόνι Τζέιμς Ντίο
     eml: Ronnie James Dio
     en: Ronnie James Dio
-    en-gb: Ronnie James Dio
+    en_gb: Ronnie James Dio
     eo: Ronnie James Dio
     es: Ronnie James Dio
     et: Ronnie James Dio
@@ -142,7 +142,7 @@ dv_has_:
     pa: ਰੋਨੀ ਜੇਮਜ਼ ਡੀਓ
     pl: Ronnie James Dio
     pt: Ronnie James Dio
-    pt-br: Ronnie James Dio
+    pt_br: Ronnie James Dio
     ro: Ronnie James Dio
     ru: Ронни Джеймс Дио
     sco: Ronnie James Dio

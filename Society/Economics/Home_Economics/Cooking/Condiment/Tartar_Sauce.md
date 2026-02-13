@@ -67,7 +67,7 @@ dv_has_:
     ar: صلصة التارتار
     arz: صلصة التارتار
     ast: Mueyu tártaru
-    be-tarask: татарскі соўс
+    be_tarask: татарскі соўс
     bg: тартар
     ca: salsa tàrtara
     cs: tatarská omáčka
@@ -111,12 +111,12 @@ dv_has_:
     vi: xốt tartar
     yue: 他他醬
     zh: 塔塔醬
-    zh-cn: 塔塔酱
-    zh-hans: 塔塔酱
-    zh-hant: 塔塔醬
-    zh-hk: 塔塔醬
-    zh-sg: 塔塔酱
-    zh-tw: 塔塔醬
+    zh_cn: 塔塔酱
+    zh_hans: 塔塔酱
+    zh_hant: 塔塔醬
+    zh_hk: 塔塔醬
+    zh_sg: 塔塔酱
+    zh_tw: 塔塔醬
 ---
 # [[Tartar_Sauce]] 
 

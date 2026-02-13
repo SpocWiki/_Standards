@@ -175,7 +175,7 @@ dv_has_:
     azb: ری بردبری
     ba: Рэй Брэдбери
     be: Рэй Брэдберы
-    be-tarask: Рэй Брэдбэры
+    be_tarask: Рэй Брэдбэры
     bg: Рей Бредбъри
     bn: রে ব্র্যাডবেরি
     br: Ray Bradbury
@@ -188,12 +188,12 @@ dv_has_:
     cy: Ray Bradbury
     da: Ray Bradbury
     de: Ray Bradbury
-    de-ch: Ray Bradbury
+    de_ch: Ray Bradbury
     ee: Ray Bradbury
     el: Ρέι Μπράντμπερι
     en: Ray Bradbury
-    en-ca: Ray Bradbury
-    en-gb: Ray Bradbury
+    en_ca: Ray Bradbury
+    en_gb: Ray Bradbury
     en-us: Ray Bradbury
     eo: Ray Bradbury
     es: Ray Bradbury
@@ -243,7 +243,7 @@ dv_has_:
     pl: Ray Bradbury
     pms: Ray Bradbury
     pt: Ray Bradbury
-    pt-br: Ray Bradbury
+    pt_br: Ray Bradbury
     ro: Ray Bradbury
     ru: Рэй Брэдбери
     sah: Рэй Брэдбери
@@ -252,7 +252,7 @@ dv_has_:
     sk: Ray Bradbury
     sl: Ray Bradbury
     sr: Реј Бредбери
-    sr-ec: Реј Бредбери
+    sr_ec: Реј Бредбери
     sv: Ray Bradbury
     ta: ரே பிராட்பரி
     tg: Рэй Брэдбери
@@ -268,9 +268,9 @@ dv_has_:
     xmf: რეი ბრედბერი
     yue: 利白普理
     zh: 雷·布萊伯利
-    zh-cn: 雷·布拉德伯里
-    zh-hans: 雷·布拉德伯里
-    zh-hant: 雷·布拉德伯里
+    zh_cn: 雷·布拉德伯里
+    zh_hans: 雷·布拉德伯里
+    zh_hant: 雷·布拉德伯里
 ---
 # [[Bradbury,Ray]] 
 

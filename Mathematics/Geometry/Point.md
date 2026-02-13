@@ -118,7 +118,7 @@ dv_has_:
     ba: нөктә
     bcl: punto
     be: пункт
-    be-tarask: пункт
+    be_tarask: пункт
     bg: точка
     bn: বিন্দু
     br: poent
@@ -178,7 +178,7 @@ dv_has_:
     mni: ꯏꯂꯤꯛ
     mr: बिंदू
     ms: titik
-    ms-arab: تيتيق
+    ms_arab: تيتيق
     my: အမှတ်
     nb: punkt
     nds: Punkt
@@ -191,7 +191,7 @@ dv_has_:
     pa: ਬਿੰਦੀ
     pl: punkt
     pt: ponto
-    pt-br: ponto
+    pt_br: ponto
     ro: punct
     ru: точка
     sah: чоп
@@ -205,7 +205,7 @@ dv_has_:
     sn: Poyindi
     sq: pikë
     sr: тачка
-    sr-ec: тачка (\
+    sr_ec: тачка (\
     sv: punkt
     sw: nukta
     ta: புள்ளி
@@ -216,7 +216,7 @@ dv_has_:
     tok: lili ale pi sona selo
     tr: nokta
     tt: нокта
-    tt-cyrl: нокта
+    tt_cyrl: нокта
     uk: точка
     ur: نقطہ
     uz: nuqta
@@ -228,14 +228,14 @@ dv_has_:
     yo: ọ̀gangan
     yue: 點
     zh: 点
-    zh-cn: 点
-    zh-hans: 点
-    zh-hant: 點
-    zh-hk: 點
-    zh-mo: 點
+    zh_cn: 点
+    zh_hans: 点
+    zh_hant: 點
+    zh_hk: 點
+    zh_mo: 點
     zh-my: 点
-    zh-sg: 点
-    zh-tw: 點
+    zh_sg: 点
+    zh_tw: 點
 ---
 # [[Point]] 
 

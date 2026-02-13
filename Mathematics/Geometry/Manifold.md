@@ -72,7 +72,7 @@ dv_has_:
   name_:
     ar: متنوعة
     az: Çoxobrazlı
-    be-tarask: разнастайнасьць
+    be_tarask: разнастайнасьць
     bg: многообразие
     bn: বহুভাঁজ
     ca: varietat
@@ -82,8 +82,8 @@ dv_has_:
     de: Mannigfaltigkeit
     el: πολλαπλότητα
     en: manifold
-    en-ca: manifold
-    en-gb: manifold
+    en_ca: manifold
+    en_gb: manifold
     eo: sternaĵo
     es: variedad
     et: muutkond
@@ -115,7 +115,7 @@ dv_has_:
     pms: varietà topològica
     pnb: مینیفولڈ
     pt: variedade
-    pt-br: variedade
+    pt_br: variedade
     ro: varietate
     ru: многообразие
     sco: manifold
@@ -124,8 +124,8 @@ dv_has_:
     sl: mnogoterost
     sq: Durthi
     sr: Многострукост
-    sr-ec: Многострукост
-    sr-el: Mnogostrukost
+    sr_ec: Многострукост
+    sr_el: Mnogostrukost
     sv: mångfald
     th: แมนิโฟลด์
     tl: Manipoldo
@@ -136,12 +136,12 @@ dv_has_:
     yi: פלאכטע
     yue: 流形
     zh: 流形
-    zh-cn: 流形
-    zh-hans: 流形
-    zh-hant: 流形
-    zh-hk: 流形
-    zh-sg: 流形
-    zh-tw: 流形
+    zh_cn: 流形
+    zh_hans: 流形
+    zh_hant: 流形
+    zh_hk: 流形
+    zh_sg: 流形
+    zh_tw: 流形
 ---
 # [[Manifold]] 
 

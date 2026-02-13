@@ -259,7 +259,7 @@ dv_has_:
     ban: kapal terbang
     bcl: eroplano
     be: самалёт
-    be-tarask: паветранае судна
+    be_tarask: паветранае судна
     bew: kapal terbang
     bg: самолет
     bho: हवाई जहाज
@@ -282,14 +282,14 @@ dv_has_:
     da: fly
     dag: Matuuka yiɣirigu
     de: Flugzeug
-    de-ch: Flugzeug
+    de_ch: Flugzeug
     dga: Aloopelee
     dsb: lětadło
     dtp: kapal tulud
     el: αεροπλάνο
     en: airplane
-    en-ca: airplane
-    en-gb: aeroplane
+    en_ca: airplane
+    en_gb: aeroplane
     en-us: airplane
     eo: aviadilo
     es: avión
@@ -365,7 +365,7 @@ dv_has_:
     mos: sɩlga
     mr: विमान
     ms: kapal terbang
-    ms-arab: کاڤل تربڠ
+    ms_arab: کاڤل تربڠ
     mt: ajruplan
     my: လေယာဉ်ပျံ
     mzn: بالون
@@ -373,7 +373,7 @@ dv_has_:
     nan: hui-hêng-ki
     nap: arioplano
     nb: fly
-    nds-nl: vliegtuug
+    nds_nl: vliegtuug
     ne: हवाईजहाज
     nl: vliegtuig
     nn: fly
@@ -388,7 +388,7 @@ dv_has_:
     pms: avion
     ps: الوتکه
     pt: avião
-    pt-br: avião
+    pt_br: avião
     qu: antanka
     rmy: bolleri
     rn: Indege
@@ -454,14 +454,14 @@ dv_has_:
     za: feihgih
     zea: vliegtuug
     zh: 飛機
-    zh-cn: 飞机
-    zh-hans: 飞机
-    zh-hant: 飛機
-    zh-hk: 飛機
-    zh-mo: 飛機
+    zh_cn: 飞机
+    zh_hans: 飞机
+    zh_hant: 飛機
+    zh_hk: 飛機
+    zh_mo: 飛機
     zh-my: 飞机
-    zh-sg: 飞机
-    zh-tw: 飛機
+    zh_sg: 飞机
+    zh_tw: 飛機
     zu: inqabakundiza
 ---
 # [[Airplane]] ✈ 

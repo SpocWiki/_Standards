@@ -54,7 +54,7 @@ dv_has_:
     arz: اسطول
     az: Donanma
     be: Флот
-    be-tarask: флёт
+    be_tarask: флёт
     bg: Флот
     bn: নৌবহর
     br: Lestraz
@@ -83,11 +83,11 @@ dv_has_:
     it: flotta navale
     ja: 艦隊
     kk: Флот
-    kk-arab: فلوت
+    kk_arab: فلوت
     kk-cn: فلوت
-    kk-cyrl: Флот
+    kk_cyrl: Флот
     kk-kz: Флот
-    kk-latn: Flot
+    kk_latn: Flot
     kk-tr: Flot
     ko: 함대
     ky: Флот
@@ -100,7 +100,7 @@ dv_has_:
     nl: vloot
     pl: flota
     pt: frota
-    pt-br: frota (naval)
+    pt_br: frota (naval)
     ro: flotă
     ru: флот
     scn: Navigghiu
@@ -109,8 +109,8 @@ dv_has_:
     sl: flota
     sq: flota
     sr: флота
-    sr-ec: флота
-    sr-el: flota
+    sr_ec: флота
+    sr_el: flota
     sv: flotta
     th: ทัพเรือ
     tr: filo
@@ -119,12 +119,12 @@ dv_has_:
     vi: hạm đội
     yue: 艦隊
     zh: 海军舰队
-    zh-cn: 海军舰队
-    zh-hans: 海军舰队
-    zh-hant: 海軍艦隊
-    zh-hk: 海軍艦隊
-    zh-sg: 海军舰队
-    zh-tw: 海軍艦隊
+    zh_cn: 海军舰队
+    zh_hans: 海军舰队
+    zh_hant: 海軍艦隊
+    zh_hk: 海軍艦隊
+    zh_sg: 海军舰队
+    zh_tw: 海軍艦隊
 ---
 # [[Fleet,Naval]] 
 

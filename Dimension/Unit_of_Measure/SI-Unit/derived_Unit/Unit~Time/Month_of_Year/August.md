@@ -316,7 +316,7 @@ dv_has_:
     abr: Ɔsanaa
     acm: آب
     ady: ШышъхьэIу
-    aeb-arab: أوت
+    aeb_arab: أوت
     af: Augustus
     agq: Ndzɔŋ è kwîfɔ̀e
     alt: Куран ай
@@ -346,11 +346,11 @@ dv_has_:
     bas: hika≈Ñ
     bax: mùt Août
     bbc: Sipaha lima
-    bbc-latn: Sipaha Lima
+    bbc_latn: Sipaha Lima
     bbj: shwâgə̀fə̀
     bcl: Agosto
     be: жнівень
-    be-tarask: жнівень
+    be_tarask: жнівень
     bew: Agustus
     bg: Август
     bho: अगस्त
@@ -367,7 +367,7 @@ dv_has_:
     bxr: 8 һар
     byv: ncô'cu
     ca: agost
-    cbk-zam: Agosto
+    cbk_zam: Agosto
     cdo: 8 nguŏk
     ce: Эгиш бутт
     ceb: Agosto
@@ -376,7 +376,7 @@ dv_has_:
     ckb: ئاب
     co: Aostu
     crh: Avgust
-    crh-latn: Avgust
+    crh_latn: Avgust
     cs: srpen
     csb: Zélnik
     cv: Çурла уйăхĕ
@@ -384,7 +384,7 @@ dv_has_:
     da: august
     dag: August
     de: August
-    de-ch: August
+    de_ch: August
     diq: Tebaxe
     dsb: jacmjeński
     dtp: Magus
@@ -394,8 +394,8 @@ dv_has_:
     el: Αύγουστος
     eml: Agòst
     en: August
-    en-ca: August
-    en-gb: August
+    en_ca: August
+    en_gb: August
     en-us: August
     eo: aŭgusto
     es: agosto
@@ -476,7 +476,7 @@ dv_has_:
     ks: کارتِک
     ksh: Aujuss
     ku: tebax
-    ku-latn: tebax
+    ku_latn: tebax
     kv: Моз тӧлысь
     kw: Mis Est
     ky: Август
@@ -498,7 +498,7 @@ dv_has_:
     lv: augusts
     lzh: 建酉
     mai: अगस्त
-    map-bms: Agustus
+    map_bms: Agustus
     mcp: ”ŋwíí akǝ táaraa"
     mdf: марьков
     mg: Aogositra
@@ -513,7 +513,7 @@ dv_has_:
     mr: ऑगस्ट महिना
     mrj: Август
     ms: Ogos
-    ms-arab: اوݢوس
+    ms_arab: اوݢوس
     mt: Awwissu
     mua: madəmbii
     mwl: Agosto
@@ -525,7 +525,7 @@ dv_has_:
     nap: Aùsto
     nb: august
     nds: August
-    nds-nl: augustus
+    nds_nl: augustus
     ne: अगस्ट
     new: अगस्ट
     nl: augustus
@@ -552,7 +552,7 @@ dv_has_:
     pnt: Αλωνάρτς
     ps: اګست
     pt: agosto
-    pt-br: agosto
+    pt_br: agosto
     qu: Chakra yapuy killa
     ro: august
     roa-tara: Aguste
@@ -582,8 +582,8 @@ dv_has_:
     so: Agoosto
     sq: Gushti
     sr: август
-    sr-ec: август
-    sr-el: avgust
+    sr_ec: август
+    sr_el: avgust
     ss: ÍNgci
     su: Agustus
     sv: augusti
@@ -638,14 +638,14 @@ dv_has_:
     zea: Auhustus
     zgh: ⵖⵓⵛⵜ
     zh: 8月
-    zh-cn: 8月
-    zh-hans: 8月
-    zh-hant: 8月
-    zh-hk: 8月
-    zh-mo: 8月
+    zh_cn: 8月
+    zh_hans: 8月
+    zh_hant: 8月
+    zh_hk: 8月
+    zh_mo: 8月
     zh-my: 8月
-    zh-sg: 8月
-    zh-tw: 8月
+    zh_sg: 8月
+    zh_tw: 8月
     zu: UNcwaba (u-Agasti)
 ---
 # [[August]]

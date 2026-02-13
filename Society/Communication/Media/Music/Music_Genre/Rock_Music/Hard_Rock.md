@@ -61,7 +61,7 @@ dv_has_:
     ast: hard rock
     az: hard-rok
     be: хард-рок
-    be-tarask: гард-рок
+    be_tarask: гард-рок
     bg: хардрок
     bn: হার্ড রক
     br: Hard rock
@@ -73,12 +73,12 @@ dv_has_:
     da: hård rock
     de: Hard Rock
     de-at: Hard Rock
-    de-ch: Hard Rock
+    de_ch: Hard Rock
     el: χαρντ ροκ
     eml: Hard rock
     en: hard rock
-    en-ca: Hard rock
-    en-gb: hard rock
+    en_ca: Hard rock
+    en_gb: hard rock
     en-us: hard rock
     eo: ŝtonroko
     es: hard rock
@@ -105,7 +105,7 @@ dv_has_:
     ka: მძიმე როკი
     ko: 하드 록
     ku: hard rock
-    ku-latn: hard rock
+    ku_latn: hard rock
     lb: Hard Rock
     lmo: hard rock
     lt: sunkusis rokas
@@ -123,7 +123,7 @@ dv_has_:
     oc: Hard rock
     pl: hard rock
     pt: hard rock
-    pt-br: hard rock
+    pt_br: hard rock
     ro: hard rock
     ru: хард-рок
     scn: Hard rock
@@ -148,8 +148,8 @@ dv_has_:
     wuu: 硬式摇滚
     xmf: მონკა როკი
     zh: 硬式搖滾
-    zh-hant: 硬式滾樂
-    zh-tw: 硬式搖滾
+    zh_hant: 硬式滾樂
+    zh_tw: 硬式搖滾
 ---
 # [[Hard_Rock]]
 

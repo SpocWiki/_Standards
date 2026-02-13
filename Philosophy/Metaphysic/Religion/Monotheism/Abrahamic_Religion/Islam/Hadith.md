@@ -103,7 +103,7 @@ dv_has_:
     ba: Хәҙистәр
     bcl: Hadith
     be: Хадзіс
-    be-tarask: гадыс
+    be_tarask: гадыс
     bg: Хадис
     bn: হাদিস
     br: Hadith
@@ -178,7 +178,7 @@ dv_has_:
     pnb: حدیث
     ps: حديث
     pt: hadith
-    pt-br: hádice
+    pt_br: hádice
     rmy: Hadis
     ro: hadith
     ru: хадис
@@ -209,7 +209,7 @@ dv_has_:
     wuu: 圣训
     yue: 聖訓
     zh: 聖訓
-    zh-hant: 聖訓
+    zh_hant: 聖訓
 ---
 # [[Hadith]] 
 

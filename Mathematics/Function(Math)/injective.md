@@ -64,7 +64,7 @@ dv_has_:
   name_:
     ar: تباين
     be: ін'екцыя
-    be-tarask: ін’екцыя
+    be_tarask: ін’екцыя
     bg: Инекция
     bs: Injektivna funkcija
     ca: funció injectiva
@@ -106,14 +106,14 @@ dv_has_:
     oc: Injeccion
     pl: funkcja różnowartościowa
     pt: função injectiva
-    pt-br: função injetiva
+    pt_br: função injetiva
     ro: Funcție injectivă
     ru: инъекция
     sk: Prosté zobrazenie
     sl: injektivna preslikava
     sr: инјективно пресликавање
-    sr-ec: Инјективно пресликавање
-    sr-el: Injektivno preslikavanje
+    sr_ec: Инјективно пресликавање
+    sr_el: Injektivno preslikavanje
     sv: injektiv funktion
     szl: Roztomajtowertno fůnkcyjo
     ta: உள்ளிடுகோப்பு
@@ -123,12 +123,12 @@ dv_has_:
     vi: Đơn ánh
     yue: 單射函數
     zh: 单射
-    zh-cn: 单射
-    zh-hans: 单射
-    zh-hant: 單射
-    zh-hk: 單射
-    zh-sg: 单射
-    zh-tw: 單射
+    zh_cn: 单射
+    zh_hans: 单射
+    zh_hant: 單射
+    zh_hk: 單射
+    zh_sg: 单射
+    zh_tw: 單射
 ---
 #is_/same_as :: [[Monomorphism]] 
 

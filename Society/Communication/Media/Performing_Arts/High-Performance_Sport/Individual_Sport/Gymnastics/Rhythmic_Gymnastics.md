@@ -91,7 +91,7 @@ dv_has_:
     az: bədii gimnastika
     ba: нәфис гимнастика
     be: мастацкая гімнастыка
-    be-tarask: мастацкая гімнастыка
+    be_tarask: мастацкая гімнастыка
     bg: художествена гимнастика
     bs: ritmička gimnastika
     ca: gimnàstica rítmica
@@ -101,8 +101,8 @@ dv_has_:
     de: rhythmische Sportgymnastik
     el: ρυθμική γυμναστική
     en: rhythmic gymnastics
-    en-ca: rhythmic gymnastics
-    en-gb: rhythmic gymnastics
+    en_ca: rhythmic gymnastics
+    en_gb: rhythmic gymnastics
     eo: ritma gimnastiko
     es: gimnasia rítmica
     et: iluvõimlemine
@@ -137,7 +137,7 @@ dv_has_:
     nl: ritmische gymnastiek
     pl: gimnastyka artystyczna
     pt: ginástica rítmica
-    pt-br: ginástica rítmica
+    pt_br: ginástica rítmica
     ro: gimnastică ritmică
     ru: художественная гимнастика
     si: රිද්මයානුකූල ජිම්නාස්ටික්
@@ -155,9 +155,9 @@ dv_has_:
     wuu: 艺术体操
     yue: 韻律體操
     zh: 艺术体操
-    zh-cn: 艺术体操
-    zh-hant: 韻律體操
-    zh-tw: 韻律體操
+    zh_cn: 艺术体操
+    zh_hant: 韻律體操
+    zh_tw: 韻律體操
 ---
 # [[Rhythmic_Gymnastics]] 
 

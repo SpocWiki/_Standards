@@ -229,7 +229,7 @@ short_name: O. basilicum
 MeSH_tree_code: B01.875.800.575.912.250.583.520.647.500
 dv_has_:
   name_:
-    aeb-arab: حبق
+    aeb_arab: حبق
     af: Basilie
     an: Ocimum basilicum
     ang: Eorþmistel
@@ -242,7 +242,7 @@ dv_has_:
     ban: Sulasih
     bcl: Kamhotan
     be: Базілік
-    be-tarask: базылік
+    be_tarask: базылік
     bg: обикновен босилек
     bn: সাদা তুলসী
     bs: Bosiljak
@@ -259,8 +259,8 @@ dv_has_:
     el: Βασιλικός
     eml: Baśìlic
     en: basil
-    en-ca: Basil
-    en-gb: basil
+    en_ca: Basil
+    en_gb: basil
     en-us: basil
     eo: Bazilio
     es: Ocimum basilicum
@@ -326,7 +326,7 @@ dv_has_:
     pnb: نیازبو
     ps: ریحان
     pt: manjericão de folha-larga
-    pt-br: Manjericão de folha-larga
+    pt_br: Manjericão de folha-larga
     ro: busuioc
     rsk: Вашилєц
     ru: базилик душистый
@@ -339,8 +339,8 @@ dv_has_:
     so: Reexaan
     sq: Ocimum basilicum
     sr: босиљак
-    sr-ec: босиљак
-    sr-el: bosiljak
+    sr_ec: босиљак
+    sr_el: bosiljak
     sv: basilika
     ta: திருநீற்றுப்பச்சை
     tcy: ಕಾಮ ಕಸ್ತೂರಿ
@@ -359,8 +359,8 @@ dv_has_:
     yue: 九層塔
     za: Maengzbaegmbouj
     zh: 羅勒
-    zh-cn: 罗勒
-    zh-tw: 羅勒
+    zh_cn: 罗勒
+    zh_tw: 羅勒
 ---
 # [[Basil]] 
 

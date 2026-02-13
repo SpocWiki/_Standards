@@ -41,8 +41,8 @@ dv_has_:
     ur: کلولیس
     yue: 叻女掌門人
     zh: 獨領風騷
-    zh-hk: 叻女掌門人
-    zh-tw: 獨領風騷
+    zh_hk: 叻女掌門人
+    zh_tw: 獨領風騷
 aliases:
 - Bezmocná (film)
 - Bezpalīdzīgās

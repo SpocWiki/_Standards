@@ -104,7 +104,7 @@ dv_has_:
     ba: лейтенант
     bcl: Tenyente
     be: лейтэнант
-    be-tarask: лейтэнант
+    be_tarask: лейтэнант
     bg: лейтенант
     bn: লেফটেনেন্ট
     br: letanant
@@ -119,8 +119,8 @@ dv_has_:
     dv: ލެފްޓިނަންޓް
     el: Υπολοχαγός
     en: lieutenant
-    en-ca: lieutenant
-    en-gb: lieutenant
+    en_ca: lieutenant
+    en_gb: lieutenant
     en-us: lieutenant
     eo: leŭtenanto
     es: teniente
@@ -149,8 +149,8 @@ dv_has_:
     ja: 中尉
     ka: ლეიტენანტი
     kk: лейтенант
-    kk-arab: لەيتەنانت
-    kk-latn: leýtenant
+    kk_arab: لەيتەنانت
+    kk_latn: leýtenant
     ko: 중위
     ko-kp: 중위
     lb: Leitnant
@@ -182,14 +182,14 @@ dv_has_:
     sl: poročnik
     sq: Toger
     sr: поручник
-    sr-ec: поручник
-    sr-el: poručnik
+    sr_ec: поручник
+    sr_el: poručnik
     sv: löjtnant
     sw: Luteni
     szl: lojtnant
     ta: லெப்டினன்ட்
     tg: Таҳмдор
-    tg-latn: Tahmdor
+    tg_latn: Tahmdor
     th: ร้อยโท
     tl: tenyente
     tok: nanpa Lutenan
@@ -204,7 +204,7 @@ dv_has_:
     yi: לייטענאַנט
     yue: 中尉
     zh: 中尉
-    zh-hant: 中尉
+    zh_hant: 中尉
 ---
 # [[Lieutenant]] 
 

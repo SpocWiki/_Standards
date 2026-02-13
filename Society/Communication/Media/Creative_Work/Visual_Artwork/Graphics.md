@@ -85,7 +85,7 @@ dv_has_:
     azb: گرافیست
     bar: GFX
     be: графіка
-    be-tarask: графіка
+    be_tarask: графіка
     bg: Графика (изобразително изкуство)
     bn: গ্রাফিক্স
     bs: Grafika
@@ -98,8 +98,8 @@ dv_has_:
     diq: Grafik
     el: γραφικά
     en: graphics
-    en-ca: Graphics
-    en-gb: graphics
+    en_ca: Graphics
+    en_gb: graphics
     eo: grafiko
     es: gráficos
     et: graafika
@@ -138,7 +138,7 @@ dv_has_:
     os: графикæ
     pl: grafika
     pt: gráfico
-    pt-br: gráfico
+    pt_br: gráfico
     ro: grafică
     ru: графика
     sah: Графика
@@ -151,8 +151,8 @@ dv_has_:
     sms: grafikk
     sq: grafikë
     sr: уметничка графика
-    sr-ec: уметничка графика
-    sr-el: umetnička grafika
+    sr_ec: уметничка графика
+    sr_el: umetnička grafika
     sv: grafisk teknik
     ta: வரைகலை
     tg: нигоштор
@@ -168,7 +168,7 @@ dv_has_:
     wuu: 图形
     xmf: გრაფიკა
     zh: 图形
-    zh-hant: 圖形
+    zh_hant: 圖形
 ---
 # [[Graphics]] 
 

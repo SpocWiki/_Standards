@@ -84,7 +84,7 @@ dv_has_:
   name_:
     ar: رضة
     ast: Contusión
-    be-tarask: садно
+    be_tarask: садно
     ca: contusió
     cs: podlitina
     de: Prellung
@@ -113,9 +113,9 @@ dv_has_:
     it: contusione
     ja: 打ち身
     kk: Соғып алу
-    kk-arab: سوعىپ الۋ
-    kk-cyrl: Соғып алу
-    kk-latn: Soğıp alw
+    kk_arab: سوعىپ الۋ
+    kk_cyrl: Соғып алу
+    kk_latn: Soğıp alw
     kn: ಮೂಗೇಟು
     ko: 멍
     mcn: krókkà , ŋóròkkà
@@ -145,9 +145,9 @@ dv_has_:
     vi: Bầm tím
     yue: 瘀斑
     zh: 嚴重血腫
-    zh-hans: 瘀斑
-    zh-hant: 瘀斑
-    zh-hk: 瘀斑
+    zh_hans: 瘀斑
+    zh_hant: 瘀斑
+    zh_hk: 瘀斑
 ---
 #is_/same_as :: [[../../../../WikiData/WD~Bruise,574491|WD~Bruise,574491]] 
 

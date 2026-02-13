@@ -227,7 +227,7 @@ dv_has_:
     bar: Thomas Alva Edison
     bcl: Thomas Edison
     be: Томас Эдысан
-    be-tarask: Томас Эдысан
+    be_tarask: Томас Эдысан
     bg: Томас Едисън
     bi: Thomas Edison
     bjn: Thomas Alva Edison
@@ -237,7 +237,7 @@ dv_has_:
     btm: Thomas Alva Edison
     bxr: Томас Эдисон
     ca: Thomas Alva Edison
-    cbk-zam: Thomas Edison
+    cbk_zam: Thomas Edison
     cdo: Thomas Edison
     ce: Эдисон, Томас Алва
     ceb: Thomas Edison
@@ -254,8 +254,8 @@ dv_has_:
     dty: थोमस एल्वा एडिसन
     el: Τόμας Έντισον
     en: Thomas Edison
-    en-ca: Thomas Edison
-    en-gb: Thomas Edison
+    en_ca: Thomas Edison
+    en_gb: Thomas Edison
     eo: Thomas Alva Edison
     es: Thomas Alva Edison
     et: Thomas Alva Edison
@@ -320,7 +320,7 @@ dv_has_:
     lv: Tomass Edisons
     lzh: 愛迪生
     mai: थोमस एल्वा एडिसन
-    map-bms: Thomas Alva Edison
+    map_bms: Thomas Alva Edison
     mg: Thomas Edison
     min: Thomas Alva Edison
     mk: Томас Алва Едисон
@@ -376,8 +376,8 @@ dv_has_:
     so: Tomas Edison
     sq: Thomas Edison
     sr: Томас Алва Едисон
-    sr-ec: Томас Алва Едисон
-    sr-el: Tomas Alva Edison
+    sr_ec: Томас Алва Едисон
+    sr_el: Tomas Alva Edison
     su: Thomas Alfa Edison
     sv: Thomas Edison
     sw: Thomas Edison
@@ -408,11 +408,11 @@ dv_has_:
     zea: Thomas Edison
     zgh: ⵟⵓⵎⴰⵚ ⵉⴹⵉⵚⵓⵏ
     zh: 托马斯·爱迪生
-    zh-cn: 托马斯·爱迪生
-    zh-hans: 托马斯·爱迪生
-    zh-hant: 湯瑪斯·愛迪生
-    zh-hk: 愛迪生
-    zh-tw: 湯瑪斯·愛迪生
+    zh_cn: 托马斯·爱迪生
+    zh_hans: 托马斯·爱迪生
+    zh_hant: 湯瑪斯·愛迪生
+    zh_hk: 愛迪生
+    zh_tw: 湯瑪斯·愛迪生
 ---
 # [[Edison,Thomas_Alva]] 
 

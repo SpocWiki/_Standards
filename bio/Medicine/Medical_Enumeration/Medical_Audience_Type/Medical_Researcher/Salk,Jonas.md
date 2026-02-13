@@ -111,7 +111,7 @@ dv_has_:
     az: Conas Solk
     azb: جوناس سالک
     be: Джонас Солк
-    be-tarask: Джонас Солк
+    be_tarask: Джонас Солк
     bg: Джонас Солк
     bn: জোনাস এডওয়ার্ড সল্ক
     bs: Jonas Salk
@@ -161,7 +161,7 @@ dv_has_:
     pl: Jonas Salk
     pnb: جونس سالک
     pt: Jonas Salk
-    pt-br: Jonas Salk
+    pt_br: Jonas Salk
     ro: Jonas Salk
     ru: Джонас Солк
     sa: जोनास् एड्वर्ड् साक्
@@ -172,8 +172,8 @@ dv_has_:
     sl: Jonas Salk
     sq: Jonas Salk
     sr: Џонас Салк
-    sr-ec: Џонас Салк
-    sr-el: Džonas Salk
+    sr_ec: Џонас Салк
+    sr_el: Džonas Salk
     sv: Jonas Salk
     ta: யோனாசு சால்க்
     te: జోనస్ సాల్క్
@@ -190,12 +190,12 @@ dv_has_:
     yi: יונה סאלק
     yue: 祖納斯沙克
     zh: 乔纳斯·索尔克
-    zh-cn: 乔纳斯·索尔克
-    zh-hans: 乔纳斯·索尔克
-    zh-hant: 喬納斯·索爾克
-    zh-hk: 喬納斯·索爾克
-    zh-sg: 乔纳斯·索尔克
-    zh-tw: 喬納斯·索爾克
+    zh_cn: 乔纳斯·索尔克
+    zh_hans: 乔纳斯·索尔克
+    zh_hant: 喬納斯·索爾克
+    zh_hk: 喬納斯·索爾克
+    zh_sg: 乔纳斯·索尔克
+    zh_tw: 喬納斯·索爾克
 ---
 # [[Salk,Jonas]] 
 

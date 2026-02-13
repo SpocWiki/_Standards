@@ -195,7 +195,7 @@ dv_has_:
     ban: Antimoni
     bcl: Antimonyo
     be: Сурма
-    be-tarask: антымон
+    be_tarask: антымон
     bg: антимон
     bho: एंटिमनी
     bn: অ্যান্টিমনি
@@ -214,7 +214,7 @@ dv_has_:
     de: Antimon
     el: αντιμόνιο
     en: antimony
-    en-gb: antimony
+    en_gb: antimony
     en-us: antimony
     eo: antimono
     es: antimonio
@@ -300,7 +300,7 @@ dv_has_:
     pnb: اینٹیمونی
     ps: انټيموني
     pt: antimónio
-    pt-br: antimônio
+    pt_br: antimônio
     qu: Antimunyu
     rki: အန်တီမိုနီ
     ro: stibiu
@@ -317,7 +317,7 @@ dv_has_:
     so: Antimony
     sq: Antimoni
     sr: антимон
-    sr-ec: антимон
+    sr_ec: антимон
     stq: Antimon
     sv: antimon
     sw: Stibi
@@ -341,10 +341,10 @@ dv_has_:
     yo: Antimony
     yue: 銻
     zh: 銻
-    zh-hans: 锑
-    zh-hant: 銻
-    zh-hk: 銻
-    zh-tw: 銻
+    zh_hans: 锑
+    zh_hant: 銻
+    zh_hk: 銻
+    zh_tw: 銻
     zu: IsiBidani
   number_of_:
     period: 5

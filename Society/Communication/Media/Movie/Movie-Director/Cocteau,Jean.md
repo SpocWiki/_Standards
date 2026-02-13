@@ -174,7 +174,7 @@ dv_has_:
     ast: Jean Cocteau
     az: Jan Kokto
     be: Жан Както
-    be-tarask: Жан Както
+    be_tarask: Жан Както
     bg: Жан Кокто
     bi: Jean Cocteau
     bn: জঁ ককতো
@@ -190,8 +190,8 @@ dv_has_:
     ee: Jean Cocteau
     el: Ζαν Κοκτό
     en: Jean Cocteau
-    en-ca: Jean Cocteau
-    en-gb: Jean Cocteau
+    en_ca: Jean Cocteau
+    en_gb: Jean Cocteau
     eo: Jean Cocteau
     es: Jean Cocteau
     et: Jean Cocteau
@@ -237,7 +237,7 @@ dv_has_:
     pms: Jean Cocteau
     pnb: جین کوکٹو
     pt: Jean Cocteau
-    pt-br: Jean Cocteau
+    pt_br: Jean Cocteau
     qu: Jean Cocteau
     ro: Jean Cocteau
     ru: Жан Кокто
@@ -248,7 +248,7 @@ dv_has_:
     sl: Jean Cocteau
     sq: Jean Cocteau
     sr: Жан Кокто
-    sr-ec: Жан Кокто
+    sr_ec: Жан Кокто
     sv: Jean Cocteau
     sw: Jean Cocteau
     te: జీన్ కాక్టో
@@ -265,7 +265,7 @@ dv_has_:
     yo: Jean Cocteau
     yue: 尚高克
     zh: 让·谷克多
-    zh-cn: 让·谷克多
+    zh_cn: 让·谷克多
 ---
 # [[Cocteau,Jean]] 
 

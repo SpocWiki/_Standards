@@ -201,7 +201,7 @@ dv_has_:
     azb: لو لانداو
     ba: Ландау Лев Давидович
     be: Леў Давідавіч Ландау
-    be-tarask: Леў Ландаў
+    be_tarask: Леў Ландаў
     bg: Лев Ландау
     bn: ল্যেভ লান্দাউ
     bs: Lev Landau
@@ -234,17 +234,17 @@ dv_has_:
     ja: レフ・ランダウ
     ka: ლევ ლანდაუ
     kk: Ландау Лев Давыдович
-    kk-arab: لانداۋ لەۆ داۆىدوۆىيتش
+    kk_arab: لانداۋ لەۆ داۆىدوۆىيتش
     kk-cn: لانداۋ لەۆ داۆىدوۆىيتش
-    kk-cyrl: Ландау Лев Давыдович
+    kk_cyrl: Ландау Лев Давыдович
     kk-kz: Ландау Лев Давыдович
-    kk-latn: Landaw Lev Davıdovïç
+    kk_latn: Landaw Lev Davıdovïç
     kk-tr: Landaw Lev Davıdovïç
     kn: ಲೆವ್ ಲ್ಯಾಂಡೌ
     ko: 레프 란다우
     ku: Lev Landau
-    ku-arab: لەڤ لانداو
-    ku-latn: Lev Landau
+    ku_arab: لەڤ لانداو
+    ku_latn: Lev Landau
     ky: Лев Давидович Ландау
     la: Leo Landau
     lt: Lev Landau
@@ -266,7 +266,7 @@ dv_has_:
     pl: Lew Landau
     pnb: لیو لنداؤ
     pt: Lev Landau
-    pt-br: Lev Landau
+    pt_br: Lev Landau
     ro: Lev Landau
     ru: Лев Давидович Ландау
     sa: लेव लाण्डौ
@@ -275,8 +275,8 @@ dv_has_:
     sl: Lev Davidovič Landau
     sq: Lev Landau
     sr: Лав Ландау
-    sr-ec: Лав Ландау
-    sr-el: Lav Landau
+    sr_ec: Лав Ландау
+    sr_el: Lav Landau
     sv: Lev Landau
     sw: Lev Landau
     ta: லேவ் லந்தாவு
@@ -293,12 +293,12 @@ dv_has_:
     yo: Lev Landau
     yue: 列夫朗道
     zh: 列夫·朗道
-    zh-cn: 列夫·朗道
-    zh-hans: 列夫·朗道
-    zh-hant: 列夫·朗道
-    zh-hk: 列夫·蘭道
-    zh-sg: 列夫·朗道
-    zh-tw: 列夫·蘭道
+    zh_cn: 列夫·朗道
+    zh_hans: 列夫·朗道
+    zh_hant: 列夫·朗道
+    zh_hk: 列夫·蘭道
+    zh_sg: 列夫·朗道
+    zh_tw: 列夫·蘭道
 ---
 # [[Landau,Lev]] 
 

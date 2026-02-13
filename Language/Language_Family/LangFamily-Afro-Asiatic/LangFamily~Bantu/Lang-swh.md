@@ -176,7 +176,7 @@ IETF_language_tag: swh
 ISO_639_3_code: swh
 dv_has_:
   name_:
-    aeb-arab: السواحلي
+    aeb_arab: السواحلي
     af: Swahili
     am: ስዋሂሊ
     an: Idioma swahili
@@ -195,7 +195,7 @@ dv_has_:
     bar: Swahili
     bcl: Swahili
     be: суахілі
-    be-tarask: суахілі
+    be_tarask: суахілі
     bg: Суахили
     bn: সোয়াহিলি ভাষা
     br: swahileg
@@ -215,8 +215,8 @@ dv_has_:
     dsb: Swahilšćina
     el: Σουαχίλι γλώσσα
     en: Swahili
-    en-ca: Swahili
-    en-gb: Swahili
+    en_ca: Swahili
+    en_gb: Swahili
     eo: svahila lingvo
     es: suajili
     et: suahiili keel
@@ -302,7 +302,7 @@ dv_has_:
     nan: Swahili-gí
     nb: swahili
     nds: Swahili (Spraak)
-    nds-nl: Swahili
+    nds_nl: Swahili
     ne: स्वाहिली भाषा
     new: स्वाहिली भाषा
     nl: Swahili
@@ -320,7 +320,7 @@ dv_has_:
     pnb: سواحلی
     ps: سواهيلي ژبه
     pt: Língua suaíli
-    pt-br: língua suaíli
+    pt_br: língua suaíli
     qu: Swahili simi
     ro: limba swahili
     roa-tara: Lènga swahili
@@ -343,7 +343,7 @@ dv_has_:
     so: Sawaaxili
     sq: Gjuha suahile
     sr: свахили
-    sr-ec: свахили
+    sr_ec: свахили
     su: Basa Swahili
     sv: swahili
     sw: Kiswahili
@@ -375,9 +375,9 @@ dv_has_:
     yue: 斯華希里文
     za: Vah Swahili
     zh: 斯瓦希里語
-    zh-cn: 斯瓦希里语
-    zh-hans: 斯瓦希里语
-    zh-hant: 斯瓦希里語
+    zh_cn: 斯瓦希里语
+    zh_hans: 斯瓦希里语
+    zh_hant: 斯瓦希里語
     zu: isi-Swahili
 ---
 # [[Lang-swh]] 

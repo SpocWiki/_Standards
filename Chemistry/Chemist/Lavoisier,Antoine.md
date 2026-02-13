@@ -191,7 +191,7 @@ dv_has_:
     bar: Antoine Lavoisier
     bcl: Antoine Lavoisier
     be: Антуан Ларан Лавуазье
-    be-tarask: Антуан Лявуазье
+    be_tarask: Антуан Лявуазье
     bg: Антоан Лавоазие
     bm: Antoine Lavoisier
     bn: অঁতোয়ান লাভোয়াজিয়ে
@@ -205,11 +205,11 @@ dv_has_:
     da: Antoine Lavoisier
     de: Antoine Lavoisier
     de-at: Antoine Lavoisier
-    de-ch: Antoine Lavoisier
+    de_ch: Antoine Lavoisier
     el: Αντουάν Λωράν Λαβουαζιέ
     en: Antoine Lavoisier
-    en-ca: Antoine Lavoisier
-    en-gb: Antoine Lavoisier
+    en_ca: Antoine Lavoisier
+    en_gb: Antoine Lavoisier
     eo: Antoine Lavoisier
     es: Antoine Laurent de Lavoisier
     et: Antoine Lavoisier
@@ -271,7 +271,7 @@ dv_has_:
     nap: Antoine Lavoisier
     nb: Antoine Lavoisier
     nds: Antoine Lavoisier
-    nds-nl: Antoine Lavoisier
+    nds_nl: Antoine Lavoisier
     nl: Antoine Lavoisier
     nn: Antoine Lavoisier
     nov: Antoine-Laurent Lavoisier
@@ -285,7 +285,7 @@ dv_has_:
     pnb: لیوائزر
     prg: Antoine Lavoisier
     pt: Antoine Lavoisier
-    pt-br: Antoine Lavoisier
+    pt_br: Antoine Lavoisier
     qu: Antoine Lavoisier
     rgn: Antoine Lavoisier
     rm: Antoine Lavoisier
@@ -300,7 +300,7 @@ dv_has_:
     sl: Antoine Lavoisier
     sq: Antoine Laurent de Lavoisier
     sr: Antoan Lavoazje
-    sr-el: Antoine Lavoisier
+    sr_el: Antoine Lavoisier
     su: Antoine Laurent Lavoisier
     sv: Antoine Lavoisier
     sw: Antoine Lavoisier
@@ -326,8 +326,8 @@ dv_has_:
     yo: Antoine Lavoisier
     yue: 拉瓦節
     zh: 安托万·拉瓦锡
-    zh-hans: 安托万·拉瓦锡
-    zh-tw: 安托萬·拉瓦節
+    zh_hans: 安托万·拉瓦锡
+    zh_tw: 安托萬·拉瓦節
     zu: Antoine Lavoisier
 ---
 # [[Lavoisier,Antoine]] 

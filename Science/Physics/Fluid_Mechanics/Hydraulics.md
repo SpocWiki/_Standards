@@ -77,7 +77,7 @@ dv_has_:
     ast: hidráulica
     az: hidravlika
     be: гідраўліка
-    be-tarask: гідраўліка
+    be_tarask: гідраўліка
     bg: хидравлика
     bn: উদপ্রবাহবিজ্ঞান
     bs: hidraulika
@@ -89,8 +89,8 @@ dv_has_:
     de: Hydraulik
     el: υδραυλική
     en: hydraulics
-    en-ca: Hydraulics
-    en-gb: Hydraulics
+    en_ca: Hydraulics
+    en_gb: Hydraulics
     eo: hidraŭliko
     es: hidráulica
     et: hüdraulika
@@ -113,11 +113,11 @@ dv_has_:
     ka: ჰიდრავლიკა
     kbp: hydraulique
     kk: гидравлика
-    kk-arab: گىيدراۆلىيكا
+    kk_arab: گىيدراۆلىيكا
     kk-cn: گىيدراۆلىيكا
-    kk-cyrl: гидравлика
+    kk_cyrl: гидравлика
     kk-kz: гидравлика
-    kk-latn: gïdravlïka
+    kk_latn: gïdravlïka
     kk-tr: gïdravlïka
     ko: 수리학
     ky: гидравлика
@@ -136,15 +136,15 @@ dv_has_:
     pam: idrawliku
     pl: hydraulika
     pt: hidráulica
-    pt-br: Hidráulica
+    pt_br: Hidráulica
     ro: hidraulică
     ru: гидравлика
     sh: hidraulika
     sl: hidravlika
     sq: Hidraulika
     sr: хидраулика
-    sr-ec: хидраулика
-    sr-el: hidraulika
+    sr_ec: хидраулика
+    sr_el: hidraulika
     sv: hydraulik
     ta: நீர்ம இயக்கவியல்
     th: ชลศาสตร์
@@ -160,12 +160,12 @@ dv_has_:
     wuu: 水力学
     yue: 水力學
     zh: 水力学
-    zh-cn: 水力学
-    zh-hans: 水力学
-    zh-hant: 水力學
-    zh-hk: 水力學
-    zh-sg: 水力学
-    zh-tw: 水力學
+    zh_cn: 水力学
+    zh_hans: 水力学
+    zh_hant: 水力學
+    zh_hk: 水力學
+    zh_sg: 水力学
+    zh_tw: 水力學
 ---
 # [[Hydraulics]] 
 

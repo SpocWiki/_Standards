@@ -79,7 +79,7 @@ dv_has_:
     ar: بيانات
     arz: بيانات
     be: даныя
-    be-tarask: зьвесткі
+    be_tarask: зьвесткі
     bn: উপাত্ত (কম্পিউটিং)
     br: roadenn
     bs: Podaci (računarstvo)
@@ -113,7 +113,7 @@ dv_has_:
     kaa: maǵlıwmat (informatika)
     kn: ಡೇಟಾ
     ko: 데이터
-    ku-latn: dane
+    ku_latn: dane
     la: Data (computatio)
     lt: duomenys
     lv: dati
@@ -122,7 +122,7 @@ dv_has_:
     ml: ഡാറ്റ (കമ്പ്യൂട്ടിങ്ങ്)
     mn: Өгөгдөл
     ms: data
-    ms-arab: داتا
+    ms_arab: داتا
     mzn: اطلاعات
     nan: Chu-liāu
     nb: data
@@ -133,7 +133,7 @@ dv_has_:
     pl: dane
     pnb: ڈیٹا
     pt: dados
-    pt-br: dados
+    pt_br: dados
     ro: dată
     ru: данные
     sco: data
@@ -146,7 +146,7 @@ dv_has_:
     th: ข้อมูล
     tr: veri
     tt: мәгълүматлар
-    tt-cyrl: бирелмәләр
+    tt_cyrl: бирелмәләр
     uk: дані
     ur: برقی مواد
     vec: dati
@@ -154,10 +154,10 @@ dv_has_:
     wuu: 数据 (计算机)
     yue: 電腦數據
     zh: 数据
-    zh-cn: 数据
-    zh-hans: 数据
-    zh-hant: 數據
-    zh-hk: 數據
+    zh_cn: 数据
+    zh_hans: 数据
+    zh_hant: 數據
+    zh_hk: 數據
     zu: IMininingo (isayensi yesicikizi)
 ---
 # [[Data]] 

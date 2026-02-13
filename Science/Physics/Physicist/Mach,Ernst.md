@@ -182,7 +182,7 @@ dv_has_:
     azb: ارنست ماخ
     ba: Мах Эрнст
     be: Эрнст Мах
-    be-tarask: Эрнст Мах
+    be_tarask: Эрнст Мах
     bg: Ернст Мах
     br: Ernst Mach
     bs: Ernst Mach
@@ -234,7 +234,7 @@ dv_has_:
     pl: Ernst Mach
     pms: Ernst Mach
     pt: Ernst Mach
-    pt-br: Ernst Mach
+    pt_br: Ernst Mach
     ro: Ernst Mach
     ru: Эрнст Мах
     sco: Ernst Mach
@@ -242,8 +242,8 @@ dv_has_:
     sl: Ernst Mach
     sq: Ernst Mach
     sr: Ернст Мах
-    sr-ec: Ернст Мах
-    sr-el: Ernst Mah
+    sr_ec: Ернст Мах
+    sr_el: Ernst Mah
     su: Ernst Mach
     sv: Ernst Mach
     ta: எர்ன்ஸ்ட் மாக்
@@ -256,12 +256,12 @@ dv_has_:
     wuu: 恩斯特·马赫
     yue: 恩斯特·馬赫
     zh: 恩斯特·马赫
-    zh-cn: 恩斯特·马赫
-    zh-hans: 恩斯特·马赫
-    zh-hant: 恩斯特·馬赫
-    zh-hk: 恩斯特·馬赫
-    zh-sg: 恩斯特·马赫
-    zh-tw: 恩斯特·馬赫
+    zh_cn: 恩斯特·马赫
+    zh_hans: 恩斯特·马赫
+    zh_hant: 恩斯特·馬赫
+    zh_hk: 恩斯特·馬赫
+    zh_sg: 恩斯特·马赫
+    zh_tw: 恩斯特·馬赫
 ---
 # [[Mach,Ernst]] 
 

@@ -108,7 +108,7 @@ dv_has_:
     az: Ulus dövlət
     azb: میلی دؤولت
     be: нацыянальная дзяржава
-    be-tarask: нацыянальная дзяржава
+    be_tarask: нацыянальная дзяржава
     bg: Национална държава
     bn: জাতিরাষ্ট্র
     bs: nacionalna država
@@ -141,17 +141,17 @@ dv_has_:
     it: Stato-nazione
     ja: 国民国家
     kk: ұлттық мемлекет
-    kk-arab: ۇلتتىق مەملەكەت
+    kk_arab: ۇلتتىق مەملەكەت
     kk-cn: ۇلتتىق مەملەكەت
-    kk-cyrl: Ұлттық мемлекет
+    kk_cyrl: Ұлттық мемлекет
     kk-kz: Ұлттық мемлекет
-    kk-latn: Ulttıq memleket
+    kk_latn: Ulttıq memleket
     kk-tr: Ulttıq memleket
     ko: 국민 국가
     krj: estado pungsod
     ku: netewe-welat
-    ku-arab: نەتەوە-وەلات
-    ku-latn: netewe-welat
+    ku_arab: نەتەوە-وەلات
+    ku_latn: netewe-welat
     li: Natiestaot
     lmo: Stat Naziun
     lt: nacionalinė valstybė
@@ -180,25 +180,25 @@ dv_has_:
     sl: nacionalna država
     sq: Shteti kombëtar
     sr: национална држава
-    sr-ec: национална држава
-    sr-el: nacionalna država
+    sr_ec: национална држава
+    sr_el: nacionalna država
     sv: nationalstat
     th: รัฐชาติ
     tl: estadong bansâ
     tr: ulus devlet
     tt: милли дәүләт
-    tt-cyrl: милли дәүләт
+    tt_cyrl: милли дәүләт
     uk: Національна держава
     ur: قومی ریاست
     vi: quốc gia dân tộc
     yue: 民族國家
     zh: 民族國家
-    zh-cn: 民族国家
-    zh-hans: 民族国家
-    zh-hant: 民族國家
-    zh-hk: 民族國家
-    zh-sg: 民族国家
-    zh-tw: 民族國家
+    zh_cn: 民族国家
+    zh_hans: 民族国家
+    zh_hant: 民族國家
+    zh_hk: 民族國家
+    zh_sg: 民族国家
+    zh_tw: 民族國家
 ---
 # [[Nation_State]] 
 

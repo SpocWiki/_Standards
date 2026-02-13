@@ -130,7 +130,7 @@ dv_has_:
     az: Elie Kartan
     azb: الی کارتان
     be: Элі Картан
-    be-tarask: Элі Картан
+    be_tarask: Элі Картан
     bn: এলি কারতঁ
     bs: Élie Cartan
     ca: Élie Cartan
@@ -166,7 +166,7 @@ dv_has_:
     pap: Élie Cartan
     pl: Élie Cartan
     pt: Élie Cartan
-    pt-br: Élie Cartan
+    pt_br: Élie Cartan
     ro: Élie Cartan
     ru: Эли Картан
     sk: Élie Cartan

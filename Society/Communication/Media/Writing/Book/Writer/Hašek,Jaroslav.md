@@ -144,7 +144,7 @@ dv_has_:
     ba: Ярослав Гашек
     bar: Jaroslav Hašek
     be: Яраслаў Гашак
-    be-tarask: Яраслаў Гашак
+    be_tarask: Яраслаў Гашак
     bg: Ярослав Хашек
     br: Jaroslav Hašek
     bs: Jaroslav Hašek
@@ -152,11 +152,11 @@ dv_has_:
     cs: Jaroslav Hašek
     da: Jaroslav Hašek
     de: Jaroslav Hašek
-    de-ch: Jaroslav Hašek
+    de_ch: Jaroslav Hašek
     el: Γιάροσλαβ Χάσεκ
     en: Jaroslav Hašek
-    en-ca: Jaroslav Hašek
-    en-gb: Jaroslav Hašek
+    en_ca: Jaroslav Hašek
+    en_gb: Jaroslav Hašek
     eo: Jaroslav Hašek
     es: Jaroslav Hašek
     et: Jaroslav Hašek
@@ -192,7 +192,7 @@ dv_has_:
     oc: Jaroslav Hašek
     pl: Jaroslav Hašek
     pt: Jaroslav Hašek
-    pt-br: Jaroslav Hašek
+    pt_br: Jaroslav Hašek
     ro: Jaroslav Hašek
     ru: Ярослав Гашек
     rue: Ярослав Гашек
@@ -202,7 +202,7 @@ dv_has_:
     sl: Jaroslav Hašek
     sq: Jarosllav Hashek
     sr: Јарослав Хашек
-    sr-ec: Јарослав Хашек
+    sr_ec: Јарослав Хашек
     sv: Jaroslav Hašek
     ta: ஜரோஸ்லாவ் ஹாசெக்
     tg: Ярослав Ҳашек

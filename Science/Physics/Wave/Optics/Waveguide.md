@@ -56,7 +56,7 @@ dv_has_:
   name_:
     ar: دليل موجي
     az: Dalğaötürən
-    be-tarask: хвалявод
+    be_tarask: хвалявод
     ca: guia d'ones
     cs: vlnovod
     de: Wellenleiter
@@ -93,8 +93,8 @@ dv_has_:
     uk: хвилевід
     yue: 導波管
     zh: 波导管
-    zh-hant: 波導管
-    zh-tw: 導波管
+    zh_hant: 波導管
+    zh_tw: 導波管
 ---
 # [[Waveguide]] 
 

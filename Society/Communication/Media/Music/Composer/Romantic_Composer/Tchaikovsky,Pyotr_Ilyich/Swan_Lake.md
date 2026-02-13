@@ -93,7 +93,7 @@ dv_has_:
     ast: El llagu de los cisnes
     az: Qu gölü
     be: Лебядзінае возера
-    be-tarask: Лебядзінае возера
+    be_tarask: Лебядзінае возера
     bg: Лебедово езеро
     ca: El llac dels cignes
     cs: Labutí jezero
@@ -141,8 +141,8 @@ dv_has_:
     sk: Labutie jazero
     sl: Labodje jezero
     sr: Лабудово језеро
-    sr-ec: Лабудово језеро
-    sr-el: Labudovo jezero
+    sr_ec: Лабудово језеро
+    sr_el: Labudovo jezero
     sv: Svansjön
     th: สวอนเลก
     tr: Kuğu Gölü
@@ -152,12 +152,12 @@ dv_has_:
     xmf: ოლორეფიშ ტობა
     yue: 天鵝湖
     zh: 天鹅湖
-    zh-cn: 天鹅湖
-    zh-hans: 天鹅湖
-    zh-hant: 天鵝湖
-    zh-hk: 天鵝湖
-    zh-sg: 天鹅湖
-    zh-tw: 天鵝湖
+    zh_cn: 天鹅湖
+    zh_hans: 天鹅湖
+    zh_hant: 天鵝湖
+    zh_hk: 天鵝湖
+    zh_sg: 天鹅湖
+    zh_tw: 天鵝湖
 ---
 # [[Swan_Lake]] 
 

@@ -159,7 +159,7 @@ dv_has_:
     ba: Гилгәмеш эпосы
     bar: Gilgamesch-Epos
     be: Эпас пра Гільгамеша
-    be-tarask: Эпас пра Гільгамэша
+    be_tarask: Эпас пра Гільгамэша
     bg: Епос за Гилгамеш
     bn: গিলগামেশের মহাকাব্য
     br: Meurgan Gilgamech
@@ -179,8 +179,8 @@ dv_has_:
     diq: Destanê Gılgamışi
     el: Έπος του Γκιλγκαμές
     en: Epic of Gilgamesh
-    en-ca: Epic of Gilgamesh
-    en-gb: Epic of Gilgamesh
+    en_ca: Epic of Gilgamesh
+    en_gb: Epic of Gilgamesh
     eo: Eposo pri Gilgameŝ
     es: Poema de Gilgamesh
     et: Gilgameši eepos
@@ -207,7 +207,7 @@ dv_has_:
     ja: ギルガメシュ叙事詩
     ka: გილგამეშის ეპოსი
     kk: Гильгамеш жайлы эпос
-    kk-cyrl: гильгемаш дастаны
+    kk_cyrl: гильгемаш дастаны
     knc: Epic of Gilgamesh
     ko: 길가메시 서사시
     ku: Destana Gilgamêş
@@ -234,7 +234,7 @@ dv_has_:
     pms: Ël poema ëd Gilgamesh
     pnb: گلگامش
     pt: Epopeia de Gilgamesh
-    pt-br: Epopeia de Gilgamesh
+    pt_br: Epopeia de Gilgamesh
     ro: Epopeea lui Ghilgameș
     ru: Эпос о Гильгамеше
     rue: Епос о Гилгамешови
@@ -267,14 +267,14 @@ dv_has_:
     yue: 吉爾伽美什史詩
     zgh: ⵜⴰⴹⴰⵍⵓⵚⵜ ⵏ ⴳⵉⵍⴳⴰⵎⵉⵛ
     zh: 吉尔伽美什史诗
-    zh-cn: 吉尔伽美什史诗
-    zh-hans: 吉尔伽美什史诗
-    zh-hant: 吉尔伽美什史诗
-    zh-hk: 吉尔伽美什史诗
-    zh-mo: 吉尔伽美什史诗
+    zh_cn: 吉尔伽美什史诗
+    zh_hans: 吉尔伽美什史诗
+    zh_hant: 吉尔伽美什史诗
+    zh_hk: 吉尔伽美什史诗
+    zh_mo: 吉尔伽美什史诗
     zh-my: 吉尔伽美什史诗
-    zh-sg: 吉尔伽美什史诗
-    zh-tw: 吉爾伽美什史詩
+    zh_sg: 吉尔伽美什史诗
+    zh_tw: 吉爾伽美什史詩
 ---
 # [[Gilgamesh_Epic]] 
 

@@ -299,7 +299,7 @@ dv_has_:
     bbc: Geograpi
     bcl: Heograpiya
     be: геаграфія
-    be-tarask: геаграфія
+    be_tarask: геаграфія
     bg: география
     bho: भूगोल
     bi: Jiografi
@@ -314,7 +314,7 @@ dv_has_:
     btm: Geograpi
     bxr: Газар зүй
     ca: geografia
-    cbk-zam: Geografia
+    cbk_zam: Geografia
     cdo: Dê-lī
     ce: Географи
     ceb: Heyograpiya
@@ -322,7 +322,7 @@ dv_has_:
     ckb: جوگرافیا
     co: geografìa
     crh: coğrafiya
-    crh-latn: coğrafiya
+    crh_latn: coğrafiya
     crh-ro: ğeryúzíbílímí
     cs: geografie
     csb: geògrafijô
@@ -331,7 +331,7 @@ dv_has_:
     cy: daearyddiaeth
     da: geografi
     de: Geographie
-    de-ch: Geographie
+    de_ch: Geographie
     diq: Coğrafya
     dsb: Geografija
     dtp: Sidtana'
@@ -340,8 +340,8 @@ dv_has_:
     dz: ས་ཁམས་རིག་པ།
     el: γεωγραφία
     en: geography
-    en-ca: geography
-    en-gb: geography
+    en_ca: geography
+    en_gb: geography
     eo: geografio
     es: geografía
     et: geograafia
@@ -406,7 +406,7 @@ dv_has_:
     krc: География
     ks: جَغرٲفی
     ku: erdnîgarî
-    ku-latn: erdnîgarî
+    ku_latn: erdnîgarî
     kv: География
     kw: dororieth
     ky: География
@@ -428,7 +428,7 @@ dv_has_:
     mad: Geografi
     mag: भूगोल
     mai: भूगोल
-    map-bms: Geografi
+    map_bms: Geografi
     mdf: Географие
     mg: Jeografia
     mhr: географий
@@ -439,7 +439,7 @@ dv_has_:
     mnw: ပထဝဳဝင်
     mr: भूगोल
     ms: geografi
-    ms-arab: ݢيوݢرافي
+    ms_arab: ݢيوݢرافي
     mt: ġeografija
     mwl: Geografie
     my: ပထဝီဝင်
@@ -449,7 +449,7 @@ dv_has_:
     nap: Giugrafia
     nb: geografi
     nds: Geografie
-    nds-nl: geografie
+    nds_nl: geografie
     ne: भूगोल
     new: भूगोल
     ng: Geografi
@@ -477,7 +477,7 @@ dv_has_:
     pnt: Γεωγραφίαν
     ps: ځمکپوهنه
     pt: geografia
-    pt-br: geografia
+    pt_br: geografia
     qu: Allpa saywachi
     rki: Category:ပထဝီဝင်
     rm: Geografia
@@ -510,7 +510,7 @@ dv_has_:
     so: Juquraafi
     sq: gjeografi
     sr: географија
-    sr-ec: географија
+    sr_ec: географија
     ss: Temhlaba
     su: géografi
     sv: geografi
@@ -526,14 +526,14 @@ dv_has_:
     tk: Geografiýa
     tl: heograpiya
     tly: čoǧrafijə
-    tly-cyrl: ҹоғрафијә
+    tly_cyrl: ҹоғрафијә
     tok: sona ma
     tpi: Save long giraun
     tr: coğrafya
     ts: Ntivo-mbangu
     tt: география
-    tt-cyrl: география
-    tt-latn: geografiä
+    tt_cyrl: география
+    tt_latn: geografiä
     tum: Jiyoglafe
     tw: Gyeografi
     tyv: География
@@ -561,14 +561,14 @@ dv_has_:
     zea: Heografie
     zgh: ⵜⴰⵔⴰⴽⴰⵍⵜ
     zh: 地理學
-    zh-cn: 地理学
-    zh-hans: 地理学
-    zh-hant: 地理學
-    zh-hk: 地理學
-    zh-mo: 地理學
+    zh_cn: 地理学
+    zh_hans: 地理学
+    zh_hant: 地理學
+    zh_hk: 地理學
+    zh_mo: 地理學
     zh-my: 地理学
-    zh-sg: 地理学
-    zh-tw: 地理學
+    zh_sg: 地理学
+    zh_tw: 地理學
 ---
 # [[Geography]]
 

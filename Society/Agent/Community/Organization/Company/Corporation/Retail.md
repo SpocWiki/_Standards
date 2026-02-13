@@ -119,7 +119,7 @@ dv_has_:
     ba: Ваҡлап һатыу
     bcl: Tingi
     be: рознічны гандаль
-    be-tarask: раздробны гандаль
+    be_tarask: раздробны гандаль
     bg: Търговия на дребно
     bjn: Pancarékénan
     bn: খুচরা বিক্রয়
@@ -129,11 +129,11 @@ dv_has_:
     cy: manwerthu
     da: detailhandel
     de: Einzelhandel
-    de-ch: Einzelhandel
+    de_ch: Einzelhandel
     el: λιανική
     en: retail
-    en-ca: retail
-    en-gb: retail
+    en_ca: retail
+    en_gb: retail
     eo: podetala komerco
     es: minorista
     et: jaemüük
@@ -187,15 +187,15 @@ dv_has_:
     sl: maloprodaja
     sq: Magazina
     sr: малопродаја
-    sr-ec: малопродаја
-    sr-el: maloprodaja
+    sr_ec: малопродаја
+    sr_el: maloprodaja
     sv: detaljhandel
     sw: Duka
     tg: хурдафурӯшӣ
     th: การค้าปลีก
     tr: perakendecilik
     tt: ваклап сату
-    tt-cyrl: ваклап сату
+    tt_cyrl: ваклап сату
     uk: роздрібна торгівля
     uz: Chakana savdo
     vec: menorista
@@ -205,9 +205,9 @@ dv_has_:
     yue: 零沽
     za: Cekgai
     zh: 零售
-    zh-hans: 零售
-    zh-hant: 零售
-    zh-tw: 零售產業
+    zh_hans: 零售
+    zh_hant: 零售
+    zh_tw: 零售產業
 ---
 # [[Retail]] 
 

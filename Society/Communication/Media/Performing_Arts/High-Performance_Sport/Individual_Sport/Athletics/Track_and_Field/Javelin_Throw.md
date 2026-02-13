@@ -99,7 +99,7 @@ dv_has_:
     ar: رمي الرمح
     ast: llanzamientu de xavalina
     be: кіданне дзіды
-    be-tarask: кіданьне дзіды
+    be_tarask: кіданьне дзіды
     bg: Хвърляне на копие
     bn: বর্শা নিক্ষেপ
     br: bannañ ar goaf
@@ -132,11 +132,11 @@ dv_has_:
     ja: やり投
     ka: შუბის ტყორცნა
     kk: Найза лақтыру
-    kk-arab: نايزا لاقتىرۋ
+    kk_arab: نايزا لاقتىرۋ
     kk-cn: نايزا لاقتىرۋ
-    kk-cyrl: Найза лақтыру
+    kk_cyrl: Найза лақтыру
     kk-kz: Найза лақтыру
-    kk-latn: Naýza laqtırw
+    kk_latn: Naýza laqtırw
     kk-tr: Naýza laqtırw
     ko: 창던지기
     la: Iaculatio
@@ -169,8 +169,8 @@ dv_has_:
     smn: säittišlivgim
     sms: säiʹttsueʹbb laʹǧǧstummuš
     sr: бацање копља
-    sr-ec: Бацање копља
-    sr-el: Bacanje koplja
+    sr_ec: Бацање копља
+    sr_el: Bacanje koplja
     sv: spjutkastning
     ta: ஈட்டி எறிதல்
     te: జావెలిన్ త్రో
@@ -182,12 +182,12 @@ dv_has_:
     wuu: 掷标枪
     yue: 標槍
     zh: 擲標槍
-    zh-cn: 掷标枪
-    zh-hans: 掷标枪
-    zh-hant: 擲標槍
-    zh-hk: 擲標槍
-    zh-sg: 掷标枪
-    zh-tw: 擲標槍
+    zh_cn: 掷标枪
+    zh_hans: 掷标枪
+    zh_hant: 擲標槍
+    zh_hk: 擲標槍
+    zh_sg: 掷标枪
+    zh_tw: 擲標槍
 ---
 # [[Javelin_Throw]] 
 

@@ -139,7 +139,7 @@ dv_has_:
     az: Daun sindromu
     azb: داون سندرومو
     be: Сіндро Даўна
-    be-tarask: сындром Даўна
+    be_tarask: сындром Даўна
     bg: Синдром на Даун
     bn: ডাউন সিনড্রোম
     bs: Downov sindrom
@@ -149,14 +149,14 @@ dv_has_:
     cy: Syndrom Down
     da: Downs syndrom
     de: Down-Syndrom
-    de-ch: Down-Syndrom
+    de_ch: Down-Syndrom
     diq: Sendromê Down
     dtp: Toruol Sindrom Down
     dv: ޑައުން ސިންޑްރޯމް
     el: Σύνδρομο Down
     en: Down syndrome
-    en-ca: Down syndrome
-    en-gb: Down syndrome
+    en_ca: Down syndrome
+    en_gb: Down syndrome
     eo: Down-sindromo
     es: síndrome de Down
     et: Downi sündroom
@@ -187,7 +187,7 @@ dv_has_:
     kn: ಡೌನ್ ಸಿಂಡ್ರೋಮ್
     ko: 다운 증후군
     ku: Sendroma Down
-    ku-latn: sendroma Down
+    ku_latn: sendroma Down
     ky: Даун синдрому
     la: syndroma Down
     lt: Dauno sindromas
@@ -206,7 +206,7 @@ dv_has_:
     pa: ਡਾਊਨ ਸਿੰਡਰੋਮ
     pl: Zespół Downa
     pt: síndrome de Down
-    pt-br: Síndrome de Down
+    pt_br: Síndrome de Down
     ro: Sindrom Down
     ru: синдром Дауна
     sco: Down's syndrome
@@ -236,10 +236,10 @@ dv_has_:
     yo: Aisan Down
     yue: 唐氏綜合症
     zh: 唐氏综合症
-    zh-cn: 唐氏综合征
-    zh-hans: 唐氏综合征
-    zh-hant: 唐氏症候群
-    zh-tw: 唐氏症候群
+    zh_cn: 唐氏综合征
+    zh_hans: 唐氏综合征
+    zh_hant: 唐氏症候群
+    zh_tw: 唐氏症候群
 ---
 # [[Down_Syndrome]] 
 

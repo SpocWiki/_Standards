@@ -101,7 +101,7 @@ dv_has_:
     ar: المخروط الجنوبي
     ast: Conu Sur
     be: Паўднёвы Конус
-    be-tarask: Паўднёвы Конус
+    be_tarask: Паўднёвы Конус
     bg: Южен конус
     bs: Južna kupa
     ca: Con Sud
@@ -146,8 +146,8 @@ dv_has_:
     sh: Južna kupa
     sl: Južni stožec
     sr: Јужна купа
-    sr-ec: Јужна купа
-    sr-el: Južna kupa
+    sr_ec: Јужна купа
+    sr_el: Južna kupa
     ta: தெற்கு கூம்பு
     th: กรวยใต้
     tr: Güney Konisi
@@ -157,12 +157,12 @@ dv_has_:
     war: Salatan nga Cono
     yo: Apágúúsù Cone
     zh: 南錐體
-    zh-cn: 南锥体
-    zh-hans: 南锥体
-    zh-hant: 南錐體
-    zh-hk: 南錐體
-    zh-sg: 南锥体
-    zh-tw: 南錐體
+    zh_cn: 南锥体
+    zh_hans: 南锥体
+    zh_hant: 南錐體
+    zh_hk: 南錐體
+    zh_sg: 南锥体
+    zh_tw: 南錐體
 ---
 # [[Southern_Cone]] 
 

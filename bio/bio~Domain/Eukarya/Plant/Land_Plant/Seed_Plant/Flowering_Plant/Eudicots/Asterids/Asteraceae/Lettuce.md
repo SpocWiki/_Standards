@@ -192,7 +192,7 @@ dv_has_:
     bar: Salot
     bcl: Litsugas
     be: Латук
-    be-tarask: салата агародная
+    be_tarask: салата агародная
     bg: обикновена маруля
     bjn: Salada
     bn: লেটুস
@@ -208,8 +208,8 @@ dv_has_:
     de: Gartensalat
     el: Μαρούλι
     en: Lactuca sativa
-    en-ca: Lettuce
-    en-gb: lettuce
+    en_ca: Lettuce
+    en_gb: lettuce
     eo: Kultiva laktuko
     es: lechuga
     et: Aedsalat
@@ -268,7 +268,7 @@ dv_has_:
     pl: sałata siewna
     pnb: لیٹس
     pt: alface
-    pt-br: alface
+    pt_br: alface
     qu: Pilliyuyu
     ro: Lactuca sativa
     ru: салат латук
@@ -305,10 +305,10 @@ dv_has_:
     yue: 生菜
     za: byaekaengjgwx
     zh: 萵苣
-    zh-cn: 莴苣
-    zh-hans: 莴苣
-    zh-hant: 莴苣
-    zh-tw: 萵苣
+    zh_cn: 莴苣
+    zh_hans: 莴苣
+    zh_hant: 莴苣
+    zh_tw: 萵苣
 ---
 # [[Lettuce]] 
 

@@ -74,7 +74,7 @@ dv_has_:
   name_:
     ar: رباط
     az: Bağ (anatomiya)
-    be-tarask: вяз
+    be_tarask: вяз
     bg: лигамент
     bn: সন্ধিবন্ধনী
     br: Stirennoù
@@ -87,8 +87,8 @@ dv_has_:
     de: Bänder
     el: Σύνδεσμος
     en: ligament
-    en-ca: Ligament
-    en-gb: ligament
+    en_ca: Ligament
+    en_gb: ligament
     eo: ligamento
     es: ligamento
     eu: Lotailu
@@ -107,7 +107,7 @@ dv_has_:
     it: legamento
     ja: 靭帯
     ko: 인대
-    ku-latn: bester
+    ku_latn: bester
     kw: Skenna
     la: ligamentum
     lb: Band (Anatomie)
@@ -127,7 +127,7 @@ dv_has_:
     pl: więzadło
     ps: رباط (تشريح)
     pt: ligamento
-    pt-br: Ligamento
+    pt_br: Ligamento
     ro: Ligament
     ru: связка
     sk: Väz

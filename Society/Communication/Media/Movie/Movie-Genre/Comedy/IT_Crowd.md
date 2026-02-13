@@ -38,8 +38,8 @@ dv_has_:
     uz: The IT Crowd
     wuu: IT狂人
     zh: IT狂人
-    zh-hant: IT狂人
-    zh-tw: IT狂人
+    zh_hant: IT狂人
+    zh_tw: IT狂人
 aliases:
 - Ajťáci
 - IT Crowd

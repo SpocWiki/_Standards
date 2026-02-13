@@ -100,7 +100,7 @@ dv_has_:
     az: Sirenlər
     azb: دنیز اینکلری
     be: сірэны
-    be-tarask: сырэны
+    be_tarask: сырэны
     bg: сирени
     bn: জলগাভী
     br: Sirenia
@@ -161,7 +161,7 @@ dv_has_:
     oc: Sirenia
     pl: Brzegowce
     pt: Sirenia
-    pt-br: Sirenia
+    pt_br: Sirenia
     qu: Yaku waka
     ro: Sirenieni
     ru: сирены
@@ -186,9 +186,9 @@ dv_has_:
     wuu: 海牛目
     yue: 海牛目
     zh: 海牛目
-    zh-cn: 海牛目
-    zh-hans: 海牛目
-    zh-tw: 海牛目
+    zh_cn: 海牛目
+    zh_hans: 海牛目
+    zh_tw: 海牛目
     zu: Imvubu yolwandle
 ---
 # Sirenia

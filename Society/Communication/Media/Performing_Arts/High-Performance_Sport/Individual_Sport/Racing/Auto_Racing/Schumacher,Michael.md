@@ -143,7 +143,7 @@ dv_has_:
     bar: Michael Schumacher
     bcl: Michael Schumacher
     be: Міхаэль Шумахер
-    be-tarask: Міхаэль Шумахэр
+    be_tarask: Міхаэль Шумахэр
     bew: Michael Schumacher
     bg: Михаел Шумахер
     bi: Michael Schumacher
@@ -161,14 +161,14 @@ dv_has_:
     cy: Michael Schumacher
     da: Michael Schumacher
     de: Michael Schumacher
-    de-ch: Michael Schumacher
+    de_ch: Michael Schumacher
     diq: Michael Schumacher
     dv: މައިކަލް ޝޫމާކަރ
     el: Μίχαελ Σουμάχερ
     eml: Michael Schumacher
     en: Michael Schumacher
-    en-ca: Michael Schumacher
-    en-gb: Michael Schumacher
+    en_ca: Michael Schumacher
+    en_gb: Michael Schumacher
     en-us: Michael Schumacher
     eo: Michael Schumacher
     es: Michael Schumacher
@@ -214,7 +214,7 @@ dv_has_:
     lt: Michael Schumacher
     lv: Mihaels Šūmahers
     mad: Michael Schumacher
-    map-bms: Michael Schumacher
+    map_bms: Michael Schumacher
     mg: Michael Schumacher
     min: Michael Schumacher
     mk: Михаел Шумахер
@@ -241,7 +241,7 @@ dv_has_:
     pms: Michael Schumacher
     pnb: مائیکل شوماکر
     pt: Michael Schumacher
-    pt-br: Michael Schumacher
+    pt_br: Michael Schumacher
     qu: Michael Schumacher
     ro: Michael Schumacher
     ru: Михаэль Шумахер
@@ -284,9 +284,9 @@ dv_has_:
     zea: Michael Schumacher
     zgh: ⵎⴰⵢⴽⵍ ⵛⵓⵎⴰⵅⵔ
     zh: 迈克尔·舒马赫
-    zh-hant: 米高·舒麥加
-    zh-hk: 米高·舒麥加
-    zh-tw: 麥可·舒馬克
+    zh_hant: 米高·舒麥加
+    zh_hk: 米高·舒麥加
+    zh_tw: 麥可·舒馬克
     zu: Michael Schumacher
 ---
 # [[Schumacher,Michael]] 

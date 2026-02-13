@@ -170,7 +170,7 @@ dv_has_:
     azb: جان لاک
     ba: Джон Локк
     be: Джон Лок
-    be-tarask: Джон Лок
+    be_tarask: Джон Лок
     bg: Джон Лок
     bho: जॉन लॉक
     bn: জন লক
@@ -190,8 +190,8 @@ dv_has_:
     diq: John Locke
     el: Τζων Λοκ
     en: John Locke
-    en-ca: John Locke
-    en-gb: John Locke
+    en_ca: John Locke
+    en_gb: John Locke
     en-us: John Locke
     eo: John Locke
     es: John Locke
@@ -286,7 +286,7 @@ dv_has_:
     sn: John Locke
     sq: John Locke
     sr: Џон Лок
-    sr-ec: Џон Лок
+    sr_ec: Џон Лок
     sv: John Locke
     sw: John Locke
     szy: Ye-han.low-ke
@@ -313,7 +313,7 @@ dv_has_:
     yo: John Locke
     yue: 莊洛
     zh: 约翰·洛克
-    zh-hk: 約翰·洛克
+    zh_hk: 約翰·洛克
 ---
 # [[Locke,John]] 
 

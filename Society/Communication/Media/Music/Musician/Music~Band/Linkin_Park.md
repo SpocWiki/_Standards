@@ -54,7 +54,7 @@ dv_has_:
     bbc: Linkin Park
     bcl: Linkin Park
     be: Linkin Park
-    be-tarask: Linkin Park
+    be_tarask: Linkin Park
     bg: Линкин Парк
     bho: लिंकिन पार्क
     bi: Linkin Park
@@ -64,7 +64,7 @@ dv_has_:
     bs: Linkin Park
     bto: Linkin Park
     ca: Linkin Park
-    cbk-zam: Linkin Park
+    cbk_zam: Linkin Park
     ceb: Linkin Park
     ch: Linkin Park
     cho: Linkin Park
@@ -74,14 +74,14 @@ dv_has_:
     co: Linkin Park
     cps: Linkin Park
     crh: Linkin Park
-    crh-latn: Linkin Park
+    crh_latn: Linkin Park
     cs: Linkin Park
     csb: Linkin Park
     cy: Linkin Park
     da: Linkin Park
     de: Linkin Park
     de-at: Lingin Poak
-    de-ch: Länke Paak
+    de_ch: Länke Paak
     din: Linkin Park
     diq: Linkin Park
     dsb: Linkin Park
@@ -91,8 +91,8 @@ dv_has_:
     el: Linkin Park
     eml: Linkin Park
     en: Linkin Park
-    en-ca: Linkin Park
-    en-gb: Linkin Park
+    en_ca: Linkin Park
+    en_gb: Linkin Park
     en-us: Linkin Park
     eo: Linkin Park
     es: Linkin Park
@@ -156,7 +156,7 @@ dv_has_:
     ki: Linkin Park
     kj: Linkin Park
     kk: Linkin Park
-    kk-latn: Linkin Park
+    kk_latn: Linkin Park
     kl: Linkin Park
     km: លីងឃីន ផាក
     kn: ಲಿಂಕಿನ್ ಪಾರ್ಕ್
@@ -181,7 +181,7 @@ dv_has_:
     ltg: Linkin Park
     lv: Linkin Park
     mai: लिंकिन पार्क
-    map-bms: Linkin Park
+    map_bms: Linkin Park
     mg: Linkin Park
     mh: Linkin Park
     mi: Linkin Park
@@ -201,7 +201,7 @@ dv_has_:
     nap: Linkin Park
     nb: Linkin Park
     nds: Länkn Paak
-    nds-nl: Längen Paag
+    nds_nl: Längen Paag
     ne: लिंकिन पार्क
     ng: Linkin Park
     niu: Linkin Park
@@ -228,7 +228,7 @@ dv_has_:
     pms: Linkin Park
     prg: Linkin Park
     pt: Linkin Park
-    pt-br: Linkin Park
+    pt_br: Linkin Park
     qu: Linkin Park
     qug: Linkin Park
     rgn: Linkin Park
@@ -271,7 +271,7 @@ dv_has_:
     ta: லிங்கின் பார்க்
     te: లింకిన్ పార్క్
     tet: Linkin Park
-    tg-cyrl: Linkin Park
+    tg_cyrl: Linkin Park
     th: ลิงคินพาร์ก
     tk: Linkin Park
     tl: Linkin Park
@@ -304,10 +304,10 @@ dv_has_:
     yue: Linkin Park
     zea: Linkin Park
     zh: 聯合公園
-    zh-hans: 联合公园
-    zh-hant: 聯合公園
-    zh-sg: 联合公园
-    zh-tw: 聯合公園
+    zh_hans: 联合公园
+    zh_hant: 聯合公園
+    zh_sg: 联合公园
+    zh_tw: 聯合公園
     zu: Linkin Park
 ---
 Most famous Tracks: 

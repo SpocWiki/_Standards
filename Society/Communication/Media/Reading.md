@@ -133,7 +133,7 @@ dv_has_:
     ast: llectura
     az: mütaliə
     bcl: pagbasa
-    be-tarask: чытаньне
+    be_tarask: чытаньне
     bg: четене
     bn: পঠন
     bo: ཀློག་
@@ -147,7 +147,7 @@ dv_has_:
     de: Lesen
     el: ανάγνωση
     en: reading
-    en-gb: reading
+    en_gb: reading
     eo: legado
     es: lectura
     et: lugemine
@@ -210,13 +210,13 @@ dv_has_:
     sms: lookkmõš
     sq: leximi
     sr: читање
-    sr-ec: читање
-    sr-el: čitanje
+    sr_ec: читање
+    sr_el: čitanje
     sv: läsning
     sw: usomaji
     ta: வாசித்தல்
     te: చదవడం
-    tg-cyrl: хониш
+    tg_cyrl: хониш
     th: การอ่าน
     tl: pagbabasa
     tr: okumak
@@ -231,12 +231,12 @@ dv_has_:
     yi: לייענען
     yue: 睇書
     zh: 閱讀
-    zh-cn: 阅读
-    zh-hans: 阅读
-    zh-hant: 閱讀
-    zh-hk: 閱讀
-    zh-sg: 阅读
-    zh-tw: 閱讀
+    zh_cn: 阅读
+    zh_hans: 阅读
+    zh_hant: 閱讀
+    zh_hk: 閱讀
+    zh_sg: 阅读
+    zh_tw: 閱讀
 ---
 # [[Reading]] 
 

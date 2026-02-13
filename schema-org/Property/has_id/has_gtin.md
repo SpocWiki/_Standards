@@ -75,7 +75,7 @@ dv_has_:
     uk: GTIN
     vi: Global Trade Item Number
     zh: 全球贸易项目代码
-    zh-cn: 全球贸易项目代码
+    zh_cn: 全球贸易项目代码
   parent_:
     property: '[[../../Relation/has/has_identifier]]'
   range: Text, URL

@@ -90,7 +90,7 @@ dv_has_:
     af: Entropie (Inligtingsteorie)
     ar: اعتلاج المعلومات
     bar: Entropie
-    be-tarask: інфармацыйная энтрапія
+    be_tarask: інфармацыйная энтрапія
     bg: Ентропия на Шанън
     bs: Entropija
     ca: entropia de Shannon
@@ -124,15 +124,15 @@ dv_has_:
     pa: ਐਨਟ੍ਰੌਪੀ
     pl: entropia
     pt: entropia da informação
-    pt-br: entropia da informação
+    pt_br: entropia da informação
     ro: entropie informațională
     ru: информационная энтропия
     sk: Entropia
     sl: informacijska entropija
     sq: Entropia e informacionit
     sr: ентропија
-    sr-ec: ентропија
-    sr-el: entropija
+    sr_ec: ентропија
+    sr_el: entropija
     su: Éntropi informasi
     sv: entropi
     te: సమాచార సంకరత
@@ -143,12 +143,12 @@ dv_has_:
     vi: Entropy thông tin
     yue: 訊息熵
     zh: 信息熵
-    zh-cn: 熵
-    zh-hans: 信息熵
-    zh-hant: 資訊熵
-    zh-hk: 熵
-    zh-sg: 熵
-    zh-tw: 資訊熵
+    zh_cn: 熵
+    zh_hans: 信息熵
+    zh_hant: 資訊熵
+    zh_hk: 熵
+    zh_sg: 熵
+    zh_tw: 資訊熵
 ---
 # [[Information_Entropy]] 
 

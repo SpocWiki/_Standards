@@ -22,7 +22,7 @@ dv_has_:
     ast: Julida
     az: Sarı qırxayaqlar
     be: кіўсякі
-    be-tarask: кіўсякі
+    be_tarask: кіўсякі
     bg: Julida
     ca: Júlides
     ceb: Julida
@@ -52,7 +52,7 @@ dv_has_:
     pcd: Iule
     pl: Krocionogi właściwe
     pt: Julida
-    pt-br: Julida
+    pt_br: Julida
     ro: Julida
     ru: кивсяки
     sq: Julida
@@ -63,9 +63,9 @@ dv_has_:
     vo: Julida
     war: Julida
     zh: 蛩目
-    zh-cn: 蛩目
-    zh-hans: 蛩目
-    zh-tw: 姬馬陸目
+    zh_cn: 蛩目
+    zh_hans: 蛩目
+    zh_tw: 姬馬陸目
 ---
 # [[Julida]]  
 

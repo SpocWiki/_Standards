@@ -56,13 +56,13 @@ dv_has_:
   name_:
     af: sterkinematika
     ar: علم حركة النجوم
-    be-tarask: зорная кінэматыка
+    be_tarask: зорная кінэматыка
     ca: cinemàtica estel·lar
     de: Bewegungshaufen
-    de-ch: Bewegungshaufen
+    de_ch: Bewegungshaufen
     en: stellar kinematics
-    en-ca: Stellar kinematics
-    en-gb: stellar kinematics
+    en_ca: Stellar kinematics
+    en_gb: stellar kinematics
     eo: stela kinematiko
     es: cinemática estelar
     eu: Izar-zinematika
@@ -80,7 +80,7 @@ dv_has_:
     nb: stjernekinematikk
     nn: Stjerne-assosiasjon
     pt: Cinemática estelar
-    pt-br: Cinemática estelar
+    pt_br: Cinemática estelar
     ro: Cinematică stelară
     ru: звёздная кинематика
     sl: zvezdna knematika

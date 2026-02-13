@@ -283,7 +283,7 @@ dv_has_:
     ban: ittrium
     bcl: itriyo
     be: ітрый
-    be-tarask: ітар
+    be_tarask: ітар
     bg: итрий
     bho: यिट्रियम
     bn: ইট্রিয়াম
@@ -300,11 +300,11 @@ dv_has_:
     cy: ytriwm
     da: yttrium
     de: Yttrium
-    de-ch: Yttrium
+    de_ch: Yttrium
     el: ύττριο
     en: yttrium
-    en-ca: yttrium
-    en-gb: yttrium
+    en_ca: yttrium
+    en_gb: yttrium
     en-us: yttrium
     eo: itrio
     es: itrio
@@ -362,7 +362,7 @@ dv_has_:
     mr: इट्रियम
     mrj: иттрий
     ms: itrium
-    ms-arab: ايتريوم
+    ms_arab: ايتريوم
     mt: ittriju
     my: အိတ်တြီယမ်
     nan: yttrium
@@ -383,7 +383,7 @@ dv_has_:
     pnb: ایتریم
     ps: ايتريوم
     pt: ítrio
-    pt-br: ítrio
+    pt_br: ítrio
     qu: itriyu
     ro: ytriu
     ru: иттрий
@@ -399,7 +399,7 @@ dv_has_:
     so: itriyaam
     sq: itriumi
     sr: итријум
-    sr-ec: итријум
+    sr_ec: итријум
     stq: yttrium
     su: itrium
     sv: yttrium
@@ -425,10 +425,10 @@ dv_has_:
     yo: ítríọ̀mù
     yue: 釔
     zh: 釔
-    zh-hans: 钇
-    zh-hant: 釔
-    zh-hk: 釔
-    zh-tw: 釔
+    zh_hans: 钇
+    zh_hant: 釔
+    zh_hk: 釔
+    zh_tw: 釔
     zu: UmYambi
   number_of_:
     period: 5

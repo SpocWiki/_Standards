@@ -65,8 +65,8 @@ dv_has_:
     da: Hårorme
     de: Saitenwürmer
     en: Nematomorpha
-    en-ca: Nematomorpha
-    en-gb: Nematomorpha
+    en_ca: Nematomorpha
+    en_gb: Nematomorpha
     eo: nematodmorfoj
     es: Nematomorpha
     et: Jõhvussid
@@ -105,7 +105,7 @@ dv_has_:
     pl: nitnikowce
     pnb: سوتر ورگے
     pt: Nematomorpha
-    pt-br: Nematomorpha
+    pt_br: Nematomorpha
     ro: Nematomorpha
     ru: волосатики
     sco: Nematomorpha

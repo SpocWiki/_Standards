@@ -47,7 +47,7 @@ dv_has_:
     az: Ben Kinqsli
     azb: بن کینقزلی
     be: Бен Кінгслі
-    be-tarask: Бэн Кінгсьлі
+    be_tarask: Бэн Кінгсьлі
     bg: Бен Кингсли
     bn: বেন কিংসলি
     br: Ben Kingsley
@@ -56,11 +56,11 @@ dv_has_:
     cy: Ben Kingsley
     da: Ben Kingsley
     de: Ben Kingsley
-    de-ch: Ben Kingsley
+    de_ch: Ben Kingsley
     el: Μπεν Κίνγκσλεϊ
     en: Ben Kingsley
-    en-ca: Ben Kingsley
-    en-gb: Ben Kingsley
+    en_ca: Ben Kingsley
+    en_gb: Ben Kingsley
     en-us: Ben Kingsley
     eo: Ben Kingsley
     es: Ben Kingsley
@@ -102,7 +102,7 @@ dv_has_:
     or: ବେନ କିଙ୍ଗସ୍ଲେ
     pl: Ben Kingsley
     pt: Ben Kingsley
-    pt-br: Ben Kingsley
+    pt_br: Ben Kingsley
     ro: Ben Kingsley
     ru: Бен Кингсли
     sco: Ben Kingsley
@@ -112,8 +112,8 @@ dv_has_:
     sl: Ben Kingsley
     sq: Ben Kingsley
     sr: Бен Кингсли
-    sr-ec: Бен Кингсли
-    sr-el: Ben Kingsli
+    sr_ec: Бен Кингсли
+    sr_el: Ben Kingsli
     sv: Ben Kingsley
     ta: பென் கிங்ஸ்லி
     te: బెన్ కింగ్స్లే
@@ -121,7 +121,7 @@ dv_has_:
     tl: Ben Kingsley
     tr: Ben Kingsley
     tt: Бен Киңзли
-    tt-cyrl: Бен Киңзли
+    tt_cyrl: Бен Киңзли
     uk: Бен Кінґслі
     ur: بین کنگزلی
     uz: Ben Kingsley
@@ -132,13 +132,13 @@ dv_has_:
     yo: Ben Kingsley
     yue: 賓京士利
     zh: 本·金斯利
-    zh-cn: 本·金斯利
-    zh-hans: 本·金斯利
-    zh-hant: 本·金斯利
-    zh-hk: 賓京士利
+    zh_cn: 本·金斯利
+    zh_hans: 本·金斯利
+    zh_hant: 本·金斯利
+    zh_hk: 賓京士利
     zh-my: 宾·京士利
-    zh-sg: 班·金斯利
-    zh-tw: 班·金斯利
+    zh_sg: 班·金斯利
+    zh_tw: 班·金斯利
 ---
 #has_/time_/started :: 1943-12-31 
 #has_/time_/stopped  :: 

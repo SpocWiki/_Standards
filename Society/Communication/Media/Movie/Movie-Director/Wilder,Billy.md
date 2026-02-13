@@ -128,7 +128,7 @@ dv_has_:
     ast: Billy Wilder
     az: Billi Uaylder
     be: Білі Уайлдэр
-    be-tarask: Білі Ўайлдэр
+    be_tarask: Білі Ўайлдэр
     bg: Били Уайлдър
     bn: বিলি ওয়াইল্ডার
     ca: Billy Wilder
@@ -137,11 +137,11 @@ dv_has_:
     cy: Billy Wilder
     da: Billy Wilder
     de: Billy Wilder
-    de-ch: Billy Wilder
+    de_ch: Billy Wilder
     el: Μπίλι Γουάιλντερ
     en: Billy Wilder
-    en-ca: Billy Wilder
-    en-gb: Billy Wilder
+    en_ca: Billy Wilder
+    en_gb: Billy Wilder
     eo: Billy Wilder
     es: Billy Wilder
     et: Billy Wilder
@@ -183,7 +183,7 @@ dv_has_:
     pl: Billy Wilder
     pnb: بلی وائلڈر
     pt: Billy Wilder
-    pt-br: Billy Wilder
+    pt_br: Billy Wilder
     ro: Billy Wilder
     ru: Билли Уайлдер
     sco: Billy Wilder
@@ -203,9 +203,9 @@ dv_has_:
     xmf: ბილი უაილდერი
     yue: 比利懷特
     zh: 比利·懷德
-    zh-hans: 比利·怀尔德
+    zh_hans: 比利·怀尔德
     zh-my: 比利·怀德
-    zh-sg: 比利·怀德
+    zh_sg: 比利·怀德
 ---
 # [[Wilder,Billy]] 
 

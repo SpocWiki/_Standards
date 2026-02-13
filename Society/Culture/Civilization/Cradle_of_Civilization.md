@@ -59,7 +59,7 @@ dv_has_:
     ast: Trubiecu de la civilización
     az: Sivilizasiyanın beşiyi
     be: Калыска цывілізацыі
-    be-tarask: калыска цывілізацыі
+    be_tarask: калыска цывілізацыі
     bg: люлка на цивилизация
     bn: cradle df civilization
     ca: bressol de la civilització
@@ -68,8 +68,8 @@ dv_has_:
     de: Wiege der Zivilisation
     el: λίκνο του πολιτισμού
     en: cradle of civilization
-    en-ca: Cradle of civilization
-    en-gb: Cradle of civilization
+    en_ca: Cradle of civilization
+    en_gb: Cradle of civilization
     eo: Lulilo de Civilizacio
     es: Cuna de la civilización
     eu: Zibilizazioaren sorleku
@@ -106,9 +106,9 @@ dv_has_:
     vi: Cái nôi nền văn minh
     yue: 文明搖籃
     zh: 文明摇篮
-    zh-hans: 文明摇篮
-    zh-hant: 文明搖籃
-    zh-hk: 文明搖籃
+    zh_hans: 文明摇篮
+    zh_hant: 文明搖籃
+    zh_hk: 文明搖籃
 ---
 # [[Cradle_of_Civilization]] 
 

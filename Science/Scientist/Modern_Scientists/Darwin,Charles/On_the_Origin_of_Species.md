@@ -147,7 +147,7 @@ dv_has_:
     ast: On the Origin of Species
     az: '"Növlərin mənşəyi"'
     be: Паходжанне відаў
-    be-tarask: Паходжаньне відаў
+    be_tarask: Паходжаньне відаў
     bg: Произход на видовете
     bn: অন দ্য অরিজিন অব স্পিসিস
     ca: L'origen de les espècies
@@ -157,7 +157,7 @@ dv_has_:
     de: Über die Entstehung der Arten
     el: Η καταγωγή των ειδών
     en: On the Origin of Species
-    en-gb: On the Origin of Species
+    en_gb: On the Origin of Species
     eo: La origino de specioj
     es: El origen de las especies
     et: The Origin of Species
@@ -204,7 +204,7 @@ dv_has_:
     pnb: نسلاں دا مڈھ
     ps: د ډولونو اصل
     pt: A Origem das Espécies
-    pt-br: A Origem das Espécies
+    pt_br: A Origem das Espécies
     ro: Originea speciilor
     ru: Происхождение видов
     sh: O poreklu vrsta
@@ -224,10 +224,10 @@ dv_has_:
     wuu: 物种起源
     yue: 物種起源
     zh: 物种起源
-    zh-cn: 物种起源
-    zh-hans: 物种起源
-    zh-hant: 物种起源
-    zh-hk: 物種起源
+    zh_cn: 物种起源
+    zh_hans: 物种起源
+    zh_hant: 物种起源
+    zh_hk: 物種起源
 ---
 # [[On_the_Origin_of_Species]] 
 

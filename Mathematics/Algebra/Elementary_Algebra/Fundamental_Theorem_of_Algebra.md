@@ -88,7 +88,7 @@ dv_has_:
     ast: Teorema fundamental de la álxebra
     ba: алгебраның төп теоремаһы
     be: асноўная тэарэма алгебры
-    be-tarask: асноўная тэарэма альгебры
+    be_tarask: асноўная тэарэма альгебры
     bg: основна теорема на алгебрата
     bn: বীজগণিতের মৌলিক উপপাদ্য
     ca: teorema fonamental de l'àlgebra
@@ -128,7 +128,7 @@ dv_has_:
     nn: Fundamentalteoremet i algebra
     pl: zasadnicze twierdzenie algebry
     pt: teorema fundamental da álgebra
-    pt-br: teorema fundamental da álgebra
+    pt_br: teorema fundamental da álgebra
     ro: Teorema fundamentală a algebrei
     ru: основная теорема алгебры
     sk: Základná veta algebry
@@ -136,8 +136,8 @@ dv_has_:
     smn: algebra vuáđuceelhâ
     sq: Teorema themelore e algjebrës
     sr: Основна теорема алгебре
-    sr-ec: Основна теорема алгебре
-    sr-el: Osnovna teorema algebre
+    sr_ec: Основна теорема алгебре
+    sr_el: Osnovna teorema algebre
     sv: algebrans fundamentalsats
     ta: இயற்கணித அடிப்படைத் தேற்றம்
     th: ทฤษฎีบทมูลฐานของพีชคณิต
@@ -147,12 +147,12 @@ dv_has_:
     vi: Định lý cơ bản của đại số
     yue: 代數基本定理
     zh: 代數基本定理
-    zh-cn: 代数基本定理
-    zh-hans: 代数基本定理
-    zh-hant: 代數基本定理
-    zh-hk: 代數基本定理
-    zh-sg: 代数基本定理
-    zh-tw: 代數基本定理
+    zh_cn: 代数基本定理
+    zh_hans: 代数基本定理
+    zh_hant: 代數基本定理
+    zh_hk: 代數基本定理
+    zh_sg: 代数基本定理
+    zh_tw: 代數基本定理
 ---
 # [[Fundamental_Theorem_of_Algebra]] 
 

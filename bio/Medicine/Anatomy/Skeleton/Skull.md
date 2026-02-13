@@ -174,7 +174,7 @@ dv_has_:
     azb: جومجومه
     ba: баш һөйәге
     be: чэрап
-    be-tarask: чэрап
+    be_tarask: чэрап
     bg: Череп
     bn: করোটি
     br: klopenn
@@ -221,7 +221,7 @@ dv_has_:
     ko: 머리뼈
     ks: کھاپٕر
     ku: kilox
-    ku-latn: kilox
+    ku_latn: kilox
     kv: Юр лы
     la: Calva
     lb: Schiedel
@@ -269,8 +269,8 @@ dv_has_:
     sn: Dehenya
     sq: Kafka
     sr: лобања
-    sr-ec: лобања
-    sr-el: lobanja
+    sr_ec: лобања
+    sr_el: lobanja
     su: Tangkorak
     sv: kranium
     sw: Fuvu
@@ -291,14 +291,14 @@ dv_has_:
     wuu: 颅骨
     yue: 頭殼
     zh: 颅骨
-    zh-cn: 颅骨
-    zh-hans: 颅骨
-    zh-hant: 顱骨
-    zh-hk: 顱骨
-    zh-mo: 顱骨
+    zh_cn: 颅骨
+    zh_hans: 颅骨
+    zh_hant: 顱骨
+    zh_hk: 顱骨
+    zh_mo: 顱骨
     zh-my: 颅骨
-    zh-sg: 颅骨
-    zh-tw: 顱骨
+    zh_sg: 颅骨
+    zh_tw: 顱骨
 ---
 # [[Skull]] 
 

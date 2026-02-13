@@ -144,7 +144,7 @@ dv_has_:
     az: ürək dayanması
     azb: اۆرک دورماسی
     be: спыненне сэрца
-    be-tarask: спыненьне сэрца
+    be_tarask: спыненьне сэрца
     bg: Сърдечен арест
     bn: হৃৎযন্ত্রের ক্রিয়া বন্ধ হওয়া
     bs: Srčani zastoj
@@ -154,13 +154,13 @@ dv_has_:
     cy: ataliad y galon
     da: hjertestop
     de: Kreislaufstillstand
-    de-ch: Kreislaufstillstand
+    de_ch: Kreislaufstillstand
     diq: qelb tepıştış
     dv: ހިތް ހުއްޓުން
     el: καρδιακή ανακοπή
     en: cardiac arrest
-    en-ca: Cardiac arrest
-    en-gb: cardiac arrest
+    en_ca: Cardiac arrest
+    en_gb: cardiac arrest
     eo: korhalto
     es: paro cardiorrespiratorio
     eu: bihotz-biriketako geldialdi
@@ -189,7 +189,7 @@ dv_has_:
     kn: ಹೃದಯ ಸ್ತಂಭನ
     ko: 심정지
     ks: دِلُک دورٕ
-    ku-latn: rawesta dil
+    ku_latn: rawesta dil
     kw: astel konnar
     la: Institio cordis
     lb: Häerzkollaps
@@ -209,7 +209,7 @@ dv_has_:
     or: ହୃଦ୍ରୋଧ
     pl: nagłe zatrzymanie krążenia
     pt: parada cardíaca
-    pt-br: parada cardíaca
+    pt_br: parada cardíaca
     ro: stop cardio-respirator
     ru: остановка сердца
     sh: Srčani zastoj
@@ -217,8 +217,8 @@ dv_has_:
     sl: zastoj srca
     sq: Arresti kardiak
     sr: срчани застој
-    sr-ec: Срчани застој
-    sr-el: Srčani zastoj
+    sr_ec: Срчани застој
+    sr_el: Srčani zastoj
     sv: hjärtstillestånd
     ta: இதய நிறுத்தம்
     te: హృదయ స్తంభన
@@ -234,10 +234,10 @@ dv_has_:
     yo: Ìdádúró Lílùọkàn
     yue: 心臟驟停
     zh: 心停止
-    zh-cn: 心脏骤停
-    zh-hans: 心搏停止
-    zh-hant: 心臟驟停
-    zh-tw: 心臟驟停
+    zh_cn: 心脏骤停
+    zh_hans: 心搏停止
+    zh_hant: 心臟驟停
+    zh_tw: 心臟驟停
 ---
 # [[Cardiac_Arrest]] 
 

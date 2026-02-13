@@ -40,7 +40,7 @@ dv_has_:
     bar: Wiastn
     bcl: Desyerto
     be: пустыня
-    be-tarask: пустэльня
+    be_tarask: пустэльня
     bg: Пустиня
     bho: रेगिस्तान
     bn: মরুভূমি
@@ -52,19 +52,19 @@ dv_has_:
     chr: ᎤᎧᏲᏗ ᎡᎶᎯᏱ
     ckb: بیابان
     crh: sahra
-    crh-latn: sahra
+    crh_latn: sahra
     cs: poušť
     cv: Пушхир
     cy: anialwch
     da: ørken
     de: Wüste
-    de-ch: Wüste
+    de_ch: Wüste
     diq: Çole
     el: έρημος
     eml: desêrt
     en: desert
-    en-ca: Desert
-    en-gb: desert
+    en_ca: Desert
+    en_gb: desert
     eo: dezerto
     es: desierto
     et: kõrb
@@ -119,7 +119,7 @@ dv_has_:
     ko: 사막
     krc: Къуругъан тюз
     ku: beyaban
-    ku-latn: beyaban
+    ku_latn: beyaban
     kw: Difeyth
     ky: Чөл
     la: deserta
@@ -151,7 +151,7 @@ dv_has_:
     nan: Soa-bô͘
     nb: ørken
     nds: Wööst
-    nds-nl: weuste
+    nds_nl: weuste
     ne: मरुभूमि
     new: मरुभूमि
     nl: woestijn
@@ -168,7 +168,7 @@ dv_has_:
     pnb: صحرا
     ps: دښته
     pt: deserto
-    pt-br: deserto
+    pt_br: deserto
     qu: Ch'in pacha
     rmy: Sahgepte
     ro: deșert
@@ -193,7 +193,7 @@ dv_has_:
     so: Lamadegaan
     sq: shkretëtira
     sr: пустиња
-    sr-ec: пустиња
+    sr_ec: пустиња
     sv: öken
     sw: Jangwa
     szl: Půstyńijo
@@ -225,7 +225,7 @@ dv_has_:
     yue: 沙漠
     za: Diegsa
     zh: 荒漠
-    zh-hant: 荒漠
+    zh_hant: 荒漠
 aliases:
 - aavikko
 - Aginjù

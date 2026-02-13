@@ -117,7 +117,7 @@ dv_has_:
     azb: قالخان
     ba: Ҡалҡан
     be: шчыт
-    be-tarask: шчыт
+    be_tarask: шчыт
     bg: Щит
     br: Skoed
     ca: escut
@@ -153,18 +153,18 @@ dv_has_:
     ka: ფარი
     kcg: lyet
     kk: Қалқан
-    kk-arab: قالقان
+    kk_arab: قالقان
     kk-cn: قالقان
-    kk-cyrl: Қалқан
+    kk_cyrl: Қалқан
     kk-kz: Қалқан
-    kk-latn: Qalqan
+    kk_latn: Qalqan
     kk-tr: Qalqan
     km: ខែល
     kn: ಗುರಾಣಿ
     ko: 방패
     ku: Mertal
-    ku-arab: مەرتال
-    ku-latn: Mertal
+    ku_arab: مەرتال
+    ku_latn: Mertal
     ky: Калкан
     la: Scutum
     ln: Nguba
@@ -186,7 +186,7 @@ dv_has_:
     pms: Scu
     ps: ډال
     pt: escudo
-    pt-br: escudo
+    pt_br: escudo
     qu: Wallqanqa
     ro: Scut
     ru: щит
@@ -197,14 +197,14 @@ dv_has_:
     sn: Nhoo
     sq: Mburoja
     sr: штит
-    sr-ec: Штит
-    sr-el: Štit
+    sr_ec: Штит
+    sr_el: Štit
     su: Taméng
     sv: sköld
     sw: Ngao
     ta: கேடயம்
     tg: Сипар
-    tg-latn: Sipar
+    tg_latn: Sipar
     tl: Kalasag
     tr: Kalkan
     udm: щит
@@ -215,12 +215,12 @@ dv_has_:
     xal: Бамб
     yue: 盾
     zh: 盾
-    zh-cn: 盾
-    zh-hans: 盾
-    zh-hant: 盾
-    zh-hk: 盾
-    zh-sg: 盾
-    zh-tw: 盾
+    zh_cn: 盾
+    zh_hans: 盾
+    zh_hant: 盾
+    zh_hk: 盾
+    zh_sg: 盾
+    zh_tw: 盾
 ---
 # [[Shield]] 🛡 
 

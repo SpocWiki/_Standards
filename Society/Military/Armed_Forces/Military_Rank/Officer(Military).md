@@ -176,7 +176,7 @@ dv_has_:
     az: zabit
     ba: офицер
     be: афіцэр
-    be-tarask: афіцэр
+    be_tarask: афіцэр
     bg: офицер
     bn: সামরিক কর্মকর্তা
     br: ofiser
@@ -185,21 +185,21 @@ dv_has_:
     cho: afisa
     chr: ᎠᏰᎵᏧᎸᏫᏍᏓᏁᎯ
     ckb: ئەفسەری سەربازی
-    crh-latn: zabit
+    crh_latn: zabit
     cs: důstojník
     csb: oficéra
     cy: swyddog milwrol
     da: officer
     de: Offizier
     de-at: Offizier
-    de-ch: Offizier
+    de_ch: Offizier
     diq: zabit
     dsb: oficěr
     dv: އޮފިސަރ
     el: αξιωματικός
     en: military officer
-    en-ca: officer
-    en-gb: military officer
+    en_ca: officer
+    en_gb: military officer
     en-us: military officer
     eo: oficiro
     es: oficial militar
@@ -237,8 +237,8 @@ dv_has_:
     kk: офицер
     ko: 장교
     ku: efser
-    ku-arab: ئەفسەر
-    ku-latn: efser
+    ku_arab: ئەفسەر
+    ku_latn: efser
     kw: sodhek an lu
     ky: офицер
     lb: Offizéier
@@ -250,7 +250,7 @@ dv_has_:
     ml: സൈനിക ഉദ്യോഗസ്ഥൻ
     mr: सैन्याधिकारी
     ms: pegawai tentera
-    ms-arab: ڤݢاواي تنترا
+    ms_arab: ڤݢاواي تنترا
     mt: uffiċjal militari
     my: တပ်မတော်အရာရှိ
     nan: kun-koaⁿ
@@ -267,7 +267,7 @@ dv_has_:
     pnb: فوجی افسر
     ps: پوځي افسر
     pt: oficial militar
-    pt-br: oficial
+    pt_br: oficial
     qu: awqaq pusaq
     ro: ofițer militar
     ru: офицер
@@ -283,15 +283,15 @@ dv_has_:
     sms: upseeʹr
     sq: oficer ushtarak
     sr: официр
-    sr-ec: официр
-    sr-el: oficir
+    sr_ec: официр
+    sr_el: oficir
     sv: officer
     sw: afisa
     szl: ôficyr
     ta: அலுவலர்
     te: అధికారి
     tg: афсари низомӣ
-    tg-latn: afsar
+    tg_latn: afsar
     th: นายทหาร
     tl: opisyal
     tr: subay
@@ -307,12 +307,12 @@ dv_has_:
     yi: אפיציער
     yue: 軍官
     zh: 軍官
-    zh-cn: 军官
-    zh-hans: 军官
-    zh-hant: 軍官
-    zh-hk: 軍官
-    zh-sg: 军官
-    zh-tw: 軍官
+    zh_cn: 军官
+    zh_hans: 军官
+    zh_hant: 軍官
+    zh_hk: 軍官
+    zh_sg: 军官
+    zh_tw: 軍官
 ---
 # [[Officer(Military)]] 
 

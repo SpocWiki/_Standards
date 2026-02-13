@@ -227,7 +227,7 @@ dv_has_:
     ban: Karbon
     bcl: Karbon
     be: вуглярод
-    be-tarask: вуглярод
+    be_tarask: вуглярод
     bg: въглерод
     bho: कार्बन
     blk: ကာဗွန်
@@ -248,12 +248,12 @@ dv_has_:
     cy: carbon
     da: carbon
     de: Kohlenstoff
-    de-ch: Kohlenstoff
+    de_ch: Kohlenstoff
     dsb: wuglik
     el: άνθρακας
     en: carbon
-    en-ca: Carbon
-    en-gb: carbon
+    en_ca: Carbon
+    en_gb: carbon
     eo: karbono
     es: carbono
     et: süsinik
@@ -329,7 +329,7 @@ dv_has_:
     lt: anglis
     lv: ogleklis
     lzh: 碳
-    map-bms: Karbon
+    map_bms: Karbon
     mdf: Седель
     mg: Karbônina
     mhr: Шӱйдӱҥ
@@ -342,7 +342,7 @@ dv_has_:
     mr: कार्बन
     mrj: Углерод
     ms: karbon
-    ms-arab: کربون
+    ms_arab: کربون
     mt: karbonju
     my: ကာဗွန်
     myv: Седь
@@ -369,7 +369,7 @@ dv_has_:
     pnb: کاربن
     ps: کاربون
     pt: carbono
-    pt-br: carbono
+    pt_br: carbono
     qu: K'illimsayaq
     ro: carbon
     ru: углерод
@@ -395,7 +395,7 @@ dv_has_:
     so: Kaarboon
     sq: Karboni
     sr: угљеник
-    sr-ec: угљеник
+    sr_ec: угљеник
     stq: Koolestof
     su: Karbon
     sv: kol
@@ -409,7 +409,7 @@ dv_has_:
     tok: ijo lili nanpa 6
     tr: karbon
     tt: күмер
-    tt-cyrl: күмер
+    tt_cyrl: күмер
     tum: Kaboni (chisungunu)
     tyv: Углерод
     udm: углерод
@@ -433,14 +433,14 @@ dv_has_:
     za: Danq
     zgh: ⴰⵥⵓⵥⵉⵎ
     zh: 碳
-    zh-cn: 碳
-    zh-hans: 碳
-    zh-hant: 碳
-    zh-hk: 碳
-    zh-mo: 碳
+    zh_cn: 碳
+    zh_hans: 碳
+    zh_hant: 碳
+    zh_hk: 碳
+    zh_mo: 碳
     zh-my: 碳
-    zh-sg: 碳
-    zh-tw: 碳
+    zh_sg: 碳
+    zh_tw: 碳
     zu: Ikhaboni
   number_of_:
     period: 2

@@ -171,7 +171,7 @@ dv_has_:
     bar: Gaugau
     bcl: Kakaw
     be: Какава
-    be-tarask: Какава
+    be_tarask: Какава
     bg: какаово дърво
     bn: কোকোয়া
     bs: Kakaovac
@@ -239,7 +239,7 @@ dv_has_:
     nan: Chi-ku-la̍t-châng
     nap: Cacavo
     nb: Kakaotre
-    nds-nl: kakouboom
+    nds_nl: kakouboom
     nl: cacaoboom
     nn: kakaotre
     oc: Theobroma cacao
@@ -249,7 +249,7 @@ dv_has_:
     pl: kakaowiec właściwy
     pnb: کوکو رکھ
     pt: Cacau
-    pt-br: Cacau
+    pt_br: Cacau
     qu: Kakaw
     ro: Arborele de cacao
     ru: какао
@@ -281,9 +281,9 @@ dv_has_:
     yi: קאקאא בוים
     yue: 唂咕樹
     zh: 可可樹
-    zh-cn: 可可树
-    zh-hans: 可可树
-    zh-tw: 可可樹
+    zh_cn: 可可树
+    zh_hans: 可可树
+    zh_tw: 可可樹
 ---
 # [[Cacao_Tree]] 
 

@@ -11,7 +11,7 @@ dv_has_:
     azb: توفنگ
     ban: Bedil
     be: вінтоўка
-    be-tarask: вінтоўка
+    be_tarask: вінтоўка
     bg: Винтовка
     blk: ရုဲန်ဖယ် တနတ်
     bn: রাইফেল
@@ -23,11 +23,11 @@ dv_has_:
     cy: Reiffl
     da: riffel
     de: Gewehr
-    de-ch: Gewehr
+    de_ch: Gewehr
     el: τουφέκι
     eml: S'ciòp
     en: rifle
-    en-ca: Rifle
+    en_ca: Rifle
     eo: fusilo
     es: fusil
     et: Vintpüss
@@ -51,7 +51,7 @@ dv_has_:
     hy: դիպուկահար հրացան
     id: senapan
     ike-cans: ᒪᒃᐱᖅᑕᐅᑦ
-    ike-latn: makpiqtaut
+    ike_latn: makpiqtaut
     io: Fusilo
     is: Riffill
     it: fucile
@@ -82,7 +82,7 @@ dv_has_:
     pms: Fusil
     pnb: تفنگ
     pt: espingarda
-    pt-br: fuzil
+    pt_br: fuzil
     qu: Illapa
     ro: pușcă
     ru: винтовка
@@ -95,8 +95,8 @@ dv_has_:
     sl: puška
     sq: Pushka
     sr: пушка
-    sr-ec: пушка
-    sr-el: puška
+    sr_ec: пушка
+    sr_el: puška
     sv: gevär
     szl: Gywera
     ta: மரைகுழல் துப்பாக்கி
@@ -111,12 +111,12 @@ dv_has_:
     yi: ביקס
     yue: 步槍
     zh: 步枪
-    zh-cn: 步枪
-    zh-hans: 步枪
-    zh-hant: 步槍
-    zh-hk: 步槍
-    zh-sg: 步枪
-    zh-tw: 步槍
+    zh_cn: 步枪
+    zh_hans: 步枪
+    zh_hant: 步槍
+    zh_hk: 步槍
+    zh_sg: 步枪
+    zh_tw: 步槍
 aliases:
 - Basy
 - Bedil

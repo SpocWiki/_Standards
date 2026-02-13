@@ -115,7 +115,7 @@ dv_has_:
     atj: patikwemakan
     bcl: ribok
     be: шум
-    be-tarask: шум
+    be_tarask: шум
     bg: шум
     bn: কোলাহল
     br: trouz
@@ -153,11 +153,11 @@ dv_has_:
     it: rumore
     ja: ノイズ
     kk: шу, шуыл
-    kk-arab: شۋ، شۋىل
+    kk_arab: شۋ، شۋىل
     kk-cn: شۋ، شۋىل
-    kk-cyrl: шу
+    kk_cyrl: шу
     kk-kz: шу
-    kk-latn: şw
+    kk_latn: şw
     kk-tr: şw
     kn: ಸದ್ದು
     ko: 노이즈
@@ -172,7 +172,7 @@ dv_has_:
     nn: støy
     pl: szum akustyczny
     pt: ruído
-    pt-br: ruído
+    pt_br: ruído
     ro: zgomot
     ru: шум
     scn: scrusciu
@@ -184,8 +184,8 @@ dv_has_:
     sn: ruzha
     sq: zhurma
     sr: шум у електроници
-    sr-ec: шум у електроници
-    sr-el: šum u elektronici
+    sr_ec: шум у електроници
+    sr_el: šum u elektronici
     sv: brus
     sw: kelele
     ta: இரைச்சல்
@@ -202,12 +202,12 @@ dv_has_:
     wuu: 噪音
     yue: 噪音
     zh: 噪声
-    zh-cn: 噪声
-    zh-hans: 噪声
-    zh-hant: 噪音
-    zh-hk: 噪音
-    zh-sg: 噪声
-    zh-tw: 噪音
+    zh_cn: 噪声
+    zh_hans: 噪声
+    zh_hant: 噪音
+    zh_hk: 噪音
+    zh_sg: 噪声
+    zh_tw: 噪音
 ---
 # [[Noise]] 
 

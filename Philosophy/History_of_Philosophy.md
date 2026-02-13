@@ -102,7 +102,7 @@ dv_has_:
     ar: تاريخ الفلسفة
     az: Fəlsəfə tarixi
     be: гісторыя філасофіі
-    be-tarask: гісторыя філязофіі
+    be_tarask: гісторыя філязофіі
     bn: দর্শনের ইতিহাস
     br: Istor ar brederouriezh
     bs: Historija filozofije
@@ -136,7 +136,7 @@ dv_has_:
     kk: Философия тарихы
     ko: 철학사
     ku: dîroka felsefeyê
-    ku-arab: ميزوى فه لسه فه
+    ku_arab: ميزوى فه لسه فه
     ky: Философия тарыхы
     lb: Geschicht vun der Philosophie
     lfn: Istoria de filosofia
@@ -163,7 +163,7 @@ dv_has_:
     sl: zgodovina filozofije
     sq: histori e filozofisë
     sr: историја филозофије
-    sr-ec: историја филозофије
+    sr_ec: историја филозофије
     sv: filosofins historia
     tg: таърихи фалсафа
     tk: Filosofiýanyň taryhy
@@ -176,8 +176,8 @@ dv_has_:
     vi: Lịch sử triết học
     zgh: ⴰⵎⵣⵔⵓⵢ ⵏ ⵜⴼⵍⵙⴰⴼⵜ
     zh: 哲學史
-    zh-cn: 哲学史
-    zh-hans: 哲学史
+    zh_cn: 哲学史
+    zh_hans: 哲学史
 ---
 # [[History_of_Philosophy]] 
 

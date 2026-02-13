@@ -104,7 +104,7 @@ dv_has_:
     az: Sonqay
     azb: سونغای ایمپراتورلوغو
     be: Дзяржава Сангай
-    be-tarask: Сонгай
+    be_tarask: Сонгай
     bg: Сонгай
     bm: Songai Mansamara
     bn: সোনহাই সাম্রাজ্য
@@ -164,12 +164,12 @@ dv_has_:
     yo: Ilẹ̀ Ọbalúayé Sọ́ngháì
     yue: 桑海帝國
     zh: 桑海帝国
-    zh-cn: 桑海帝国
-    zh-hans: 桑海帝国
-    zh-hant: 桑海帝國
-    zh-hk: 桑海帝國
-    zh-sg: 桑海帝国
-    zh-tw: 桑海帝國
+    zh_cn: 桑海帝国
+    zh_hans: 桑海帝国
+    zh_hant: 桑海帝國
+    zh_hk: 桑海帝國
+    zh_sg: 桑海帝国
+    zh_tw: 桑海帝國
 ---
 # [[1464-Songhai_Empire+1591]] 
 

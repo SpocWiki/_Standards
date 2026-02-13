@@ -152,7 +152,7 @@ dv_has_:
     bar: Moos
     bas: bìtùŋgì bìtùŋgì
     be: лясное балота
-    be-tarask: балота
+    be_tarask: балота
     bg: мочурище
     bjn: baruh
     bn: জলা
@@ -166,12 +166,12 @@ dv_has_:
     cy: broek
     da: sump
     de: Bruch
-    de-ch: Sumpf
+    de_ch: Sumpf
     el: έλος
     eml: padóll
     en: swamp
-    en-ca: swamp
-    en-gb: swamp
+    en_ca: swamp
+    en_gb: swamp
     eo: marĉo
     es: pantano
     et: lodu
@@ -213,7 +213,7 @@ dv_has_:
     mzn: توققه
     nan: làm-tē
     nb: sump
-    nds-nl: moor
+    nds_nl: moor
     ne: दलदल
     new: झ्वास्या
     nl: zwamp
@@ -221,7 +221,7 @@ dv_has_:
     oc: palun
     pl: zadrzewione bagno
     pt: pântano
-    pt-br: pântano
+    pt_br: pântano
     ro: mlaștină
     ru: заболоченный лес
     sah: бадараан

@@ -5,7 +5,7 @@ dv_has_:
     ar: تفكير مزدوج
     ast: Doblepensar
     azb: جۇتدۇشونک
-    be-tarask: Двухдумства
+    be_tarask: Двухдумства
     ca: Doblepensament
     ckb: جووتبیری
     da: dobbelttænkning

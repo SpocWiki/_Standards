@@ -146,7 +146,7 @@ dv_has_:
     azb: جووانی بوکاچیو
     ba: Джованни Боккаччо
     be: Джавані Бакача
-    be-tarask: Джаваньні Бакачча
+    be_tarask: Джаваньні Бакачча
     bg: Джовани Бокачо
     bjn: Giovanni Boccaccio
     bn: জোভান্নি বোক্কাচ্চো
@@ -163,12 +163,12 @@ dv_has_:
     cy: Giovanni Boccaccio
     da: Giovanni Boccaccio
     de: Giovanni Boccaccio
-    de-ch: Giovanni Boccaccio
+    de_ch: Giovanni Boccaccio
     diq: Giovanni Boccaccio
     el: Βοκάκιος
     en: Giovanni Boccaccio
-    en-ca: Giovanni Boccaccio
-    en-gb: Giovanni Boccaccio
+    en_ca: Giovanni Boccaccio
+    en_gb: Giovanni Boccaccio
     eo: Giovanni Boccaccio
     es: Giovanni Boccaccio
     et: Giovanni Boccaccio
@@ -225,7 +225,7 @@ dv_has_:
     pl: Giovanni Boccaccio
     pms: Giovanni Boccaccio
     pt: Giovanni Boccaccio
-    pt-br: Giovanni Boccaccio
+    pt_br: Giovanni Boccaccio
     qu: Giovanni Boccaccio
     ro: Giovanni Boccaccio
     ru: Джованни Боккаччо
@@ -253,8 +253,8 @@ dv_has_:
     xmf: ჯოვანი ბოკაჩო
     yue: 薄伽丘
     zh: 乔万尼·薄伽丘
-    zh-hant: 喬凡尼·薄伽丘
-    zh-tw: 喬凡尼·薄伽丘
+    zh_hant: 喬凡尼·薄伽丘
+    zh_tw: 喬凡尼·薄伽丘
 ---
 # [[Boccaccio,Giovanni]] 
 

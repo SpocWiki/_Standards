@@ -16,7 +16,7 @@ dv_has_:
     bar: Internet Movie Database
     bcl: IMDb
     be: Internet Movie Database
-    be-tarask: IMDb
+    be_tarask: IMDb
     bg: Internet Movie Database
     bho: आइएमडीबी
     bn: আইএমডিবি
@@ -31,13 +31,13 @@ dv_has_:
     cy: Internet Movie Database
     da: Internet Movie Database
     de: IMDb
-    de-ch: Internet Movie Database
+    de_ch: Internet Movie Database
     diq: IMDb
     dty: इन्टरनेट चलचित्र डेटाबेस
     el: Internet Movie Database
     en: IMDb
-    en-ca: Internet Movie Database
-    en-gb: Internet Movie Database
+    en_ca: Internet Movie Database
+    en_gb: Internet Movie Database
     eo: Interreta filma datumbazo
     es: Internet Movie Database
     et: Internet Movie Database
@@ -106,7 +106,7 @@ dv_has_:
     pnb: انٹرنیٹ مووی ڈیٹابیس
     ps: انټرنیټ فلم ډیټابیس
     pt: Internet Movie Database
-    pt-br: Internet Movie Database
+    pt_br: Internet Movie Database
     ro: Internet Movie Database
     ru: Internet Movie Database
     sa: अन्तरजालचलचित्रसञ्चिका
@@ -121,18 +121,18 @@ dv_has_:
     so: Internet Movie Database
     sq: Internet Movie Database
     sr: IMDb
-    sr-ec: Internet Movie Database
+    sr_ec: Internet Movie Database
     sv: Internet Movie Database
     sw: Internet Movie Database
     ta: ஐ.எம்.டி.பி இணையத்தளம்
     te: ఇంటర్నెట్ మూవీ డేటాబేస్
     tg: Бонки Иттилоотии Интернетии Филмҳо
-    tg-cyrl: Internet Movie Database
+    tg_cyrl: Internet Movie Database
     th: อินเทอร์เน็ตมูวีเดตาเบส
     tl: Internet Movie Database
     tr: Internet Movie Database
     tt: Internet Movie Database
-    tt-cyrl: Internet Movie Database
+    tt_cyrl: Internet Movie Database
     uk: Internet Movie Database
     ur: انٹرنیٹ مووی ڈیٹابیس
     uz: Internet Movie Database
@@ -144,10 +144,10 @@ dv_has_:
     yue: 互聯網電影資料庫
     zgh: ⴰⵢ ⵉⵎ ⴷⵉ ⴱⵉ
     zh: 互联网电影数据库
-    zh-cn: 互联网电影数据库
-    zh-hans: 互联网电影数据库
-    zh-hant: 網路電影資料庫
-    zh-tw: 網路電影資料庫
+    zh_cn: 互联网电影数据库
+    zh_hans: 互联网电影数据库
+    zh_hant: 網路電影資料庫
+    zh_tw: 網路電影資料庫
     zu: Internet Movie Database
 aliases:
 - Bāng-lōo Tiān-iánn Tsu-liāu-khòo

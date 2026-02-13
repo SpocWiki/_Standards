@@ -185,7 +185,7 @@ dv_has_:
     bar: organische Chemie
     bcl: organikong kimika
     be: арганічная хімія
-    be-tarask: арганічная хімія
+    be_tarask: арганічная хімія
     bg: органична химия
     bn: জৈব রসায়ন
     bs: organska hemija
@@ -198,12 +198,12 @@ dv_has_:
     cy: cemeg organig
     da: organisk kemi
     de: organische Chemie
-    de-ch: organische Chemie
+    de_ch: organische Chemie
     dsb: organiska chemija
     el: οργανική χημεία
     en: organic chemistry
-    en-ca: organic chemistry
-    en-gb: organic chemistry
+    en_ca: organic chemistry
+    en_gb: organic chemistry
     eo: organika ĥemio
     es: química orgánica
     et: orgaaniline keemia
@@ -251,13 +251,13 @@ dv_has_:
     lt: organinė chemija
     lv: organiskā ķīmija
     lzh: 有機化學
-    map-bms: kimia organik
+    map_bms: kimia organik
     mk: органска хемија
     ml: ഓർഗാനിക് രസതന്ത്രം
     mn: органик хими
     mr: कार्बनी रसायनशास्त्र
     ms: kimia organik
-    ms-arab: کيميا اورݢانيک
+    ms_arab: کيميا اورݢانيک
     mt: kimika organika
     my: ဩဂဲနစ် ဓာတုဗေဒ
     mzn: اورگنیک کیمیا
@@ -273,7 +273,7 @@ dv_has_:
     pms: Chìmica orgànica
     pnb: آرگینک کیمسٹری
     pt: química orgânica
-    pt-br: química orgânica
+    pt_br: química orgânica
     ro: chimie organică
     ru: органическая химия
     rue: орґанічна хемія
@@ -291,7 +291,7 @@ dv_has_:
     sms: orgaanlaž kemia
     sq: kimia organike
     sr: органска хемија
-    sr-ec: органска хемија
+    sr_ec: органска хемија
     su: kimia organik
     sv: organisk kemi
     sw: kemia kaboni
@@ -316,9 +316,9 @@ dv_has_:
     yi: ארגאנישע כעמיע
     yue: 有機化學
     zh: 有机化学
-    zh-cn: 有机化学
-    zh-hans: 有机化学
-    zh-hant: 有機化學
+    zh_cn: 有机化学
+    zh_hans: 有机化学
+    zh_hant: 有機化學
 ---
 # [[Organic_Chemistry]] 
 

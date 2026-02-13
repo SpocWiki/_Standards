@@ -112,7 +112,7 @@ dv_has_:
     az: bu gün
     ba: хәҙерге заман
     be: цяперашні час
-    be-tarask: сучаснасьць
+    be_tarask: сучаснасьць
     bg: настояще
     bn: বর্তমান
     br: amzer a-vremañ
@@ -124,12 +124,12 @@ dv_has_:
     csb: terôzniészosc
     da: nutiden
     de: Gegenwart
-    de-ch: Gegenwart
+    de_ch: Gegenwart
     el: παρόν
     eml: incô
     en: present
-    en-ca: present
-    en-gb: present
+    en_ca: present
+    en_gb: present
     eo: estanteco
     es: presente
     et: olevik
@@ -171,7 +171,7 @@ dv_has_:
     pl: teraźniejszość
     pnb: حال
     pt: hoje
-    pt-br: presente
+    pt_br: presente
     pwn: tucu
     qu: kunan pacha
     ro: prezent
@@ -193,7 +193,7 @@ dv_has_:
     tok: tenpo ni
     tr: günümüz
     tt: хәзер
-    tt-cyrl: хәзер
+    tt_cyrl: хәзер
     uk: сьогодення
     ur: حال
     vec: prezente
@@ -203,12 +203,12 @@ dv_has_:
     yi: היינט
     yue: 而家
     zh: 現在
-    zh-cn: 今天
-    zh-hans: 今天
-    zh-hant: 現在
-    zh-hk: 現在
-    zh-sg: 今天
-    zh-tw: 現在
+    zh_cn: 今天
+    zh_hans: 今天
+    zh_hant: 現在
+    zh_hk: 現在
+    zh_sg: 今天
+    zh_tw: 現在
 ---
 # [[Now]]
 

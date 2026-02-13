@@ -114,7 +114,7 @@ dv_has_:
     avk: Akangoldunol (Monotremata)
     az: Birdəliklilər
     be: аднапраходныя
-    be-tarask: аднапраходныя
+    be_tarask: аднапраходныя
     bg: еднопроходни
     bn: অন্ডস্তনী
     br: Monotremata
@@ -128,8 +128,8 @@ dv_has_:
     de: Kloakentiere
     el: Μονοτρήματα
     en: monotreme
-    en-ca: Monotreme
-    en-gb: monotreme
+    en_ca: Monotreme
+    en_gb: monotreme
     eo: Monotremoj
     es: Monotremata
     et: Ainupilulised
@@ -175,7 +175,7 @@ dv_has_:
     my: မိုနိုထရင်းမ်
     nb: Kloakkdyr
     nds: Monotremata
-    nds-nl: Monotremata
+    nds_nl: Monotremata
     nl: cloacadieren
     nn: kloakkdyr
     nov: Monotremata
@@ -194,8 +194,8 @@ dv_has_:
     sl: stokovci
     sq: Monotremata
     sr: кљунари
-    sr-ec: кљунари
-    sr-el: kljunari
+    sr_ec: кљунари
+    sr_el: kljunari
     sv: kloakdjur
     ta: மோனோட்ரீம்கள்
     th: โมโนทรีม
@@ -214,10 +214,10 @@ dv_has_:
     yue: 單孔目
     zea: Snaevelbeêsten
     zh: 单孔目
-    zh-cn: 单孔目
-    zh-hans: 单孔目
-    zh-hant: 单孔目
-    zh-tw: 單孔目
+    zh_cn: 单孔目
+    zh_hans: 单孔目
+    zh_hant: 单孔目
+    zh_tw: 單孔目
 ---
 # [[Monotremata]]
 

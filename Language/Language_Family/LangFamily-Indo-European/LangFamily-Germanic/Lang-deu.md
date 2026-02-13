@@ -432,7 +432,7 @@ dv_has_:
     ab: анемец бызшәа
     ace: Bahsa Jeureuman
     ady: Германыбзэ
-    aeb-arab: الألماني
+    aeb_arab: الألماني
     af: Duits
     am: ጀርመንኛ
     an: idioma alemán
@@ -456,7 +456,7 @@ dv_has_:
     bbc: Jerman
     bcl: Aleman
     be: нямецкая мова
-    be-tarask: нямецкая мова
+    be_tarask: нямецкая мова
     bg: немски език
     bho: जर्मन भाषा
     bn: জার্মান ভাষা
@@ -484,15 +484,15 @@ dv_has_:
     da: tysk
     dag: Gaamani
     de: Deutsch
-    de-ch: Deutsch
+    de_ch: Deutsch
     diq: Almanki
     dsb: Nimšćina
     dv: އަލްމާނީ
     el: Γερμανικά
     eml: Tedèsch
     en: German
-    en-ca: German
-    en-gb: German
+    en_ca: German
+    en_gb: German
     en-us: German
     eo: germana lingvo
     es: alemán
@@ -566,7 +566,7 @@ dv_has_:
     ks: جَرمَن زَبان
     ksh: Dütsche Sprooch
     ku: almanî
-    ku-latn: zimanê almanî
+    ku_latn: zimanê almanî
     kv: Немеч кыв
     kw: Almaynek
     ky: немис тили
@@ -590,7 +590,7 @@ dv_has_:
     mad: Bhâsa Jèrman
     mag: जर्मन
     mai: जर्मन भाषा
-    map-bms: Basa Jerman
+    map_bms: Basa Jerman
     mdf: дойчень кяль
     mg: fiteny alemana
     mhr: Немыч йылме
@@ -602,7 +602,7 @@ dv_has_:
     mni: ꯖꯔꯃꯟ ꯂꯣꯟ
     mr: जर्मन भाषा
     ms: bahasa Jerman
-    ms-arab: بهاس جرمن
+    ms_arab: بهاس جرمن
     mt: Ġermaniż
     mwl: lhéngua almana
     my: ဂျာမန်ဘာသာစကား
@@ -614,7 +614,7 @@ dv_has_:
     nap: lengua germanese
     nb: tysk
     nds: Düütsch
-    nds-nl: Duuts
+    nds_nl: Duuts
     ne: जर्मन भाषा
     new: जर्मन भाषा
     nl: Duits
@@ -641,7 +641,7 @@ dv_has_:
     pnb: جرمن
     ps: جرمني ژبه
     pt: alemão
-    pt-br: alemão
+    pt_br: alemão
     qu: Aliman simi
     rm: lingua tudestga
     rmy: Jermanikani chib
@@ -675,7 +675,7 @@ dv_has_:
     so: Af-Jarmal
     sq: gjermanisht
     sr: немачки
-    sr-el: nemački jezik
+    sr_el: nemački jezik
     srn: Doysritongo
     ss: SíJalimáne
     st: Se-jeremane
@@ -689,7 +689,7 @@ dv_has_:
     te: జర్మన్ భాష
     tet: Lia-alemaun
     tg: забони олмонӣ
-    tg-latn: zaboni olmonī
+    tg_latn: zaboni olmonī
     th: ภาษาเยอรมัน
     tk: Nemes dili
     tl: Aleman
@@ -699,7 +699,7 @@ dv_has_:
     tpi: Tok Jeman
     tr: Almanca
     tt: алман теле
-    tt-cyrl: алман теле
+    tt_cyrl: алман теле
     tw: German
     ty: Reo Heremani
     tyv: Немец дыл
@@ -727,11 +727,11 @@ dv_has_:
     zea: Duuts
     zgh: ⵜⵓⵜⵍⴰⵢⵜ ⵜⴰⵍⵉⵎⴰⵏⵜ
     zh: 德语
-    zh-cn: 德语
-    zh-hans: 德语
-    zh-hant: 德語
-    zh-hk: 德語
-    zh-tw: 德語
+    zh_cn: 德语
+    zh_hans: 德语
+    zh_hant: 德語
+    zh_hk: 德語
+    zh_tw: 德語
     zu: IsiJalimani
 ---
 # [[Lang-deu]] 

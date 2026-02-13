@@ -80,7 +80,7 @@ dv_has_:
     ar: معالجة الإشارة
     ast: Procesamientu de señales
     be: апрацоўка сігналаў
-    be-tarask: апрацоўка сыгналаў
+    be_tarask: апрацоўка сыгналаў
     bg: Обработка на сигнали
     bn: সংকেত প্রক্রিয়াজাতকরণ
     ca: processament de senyals
@@ -120,8 +120,8 @@ dv_has_:
     sl: obdelava signalov
     smn: signaalprosessistem
     sr: Обрада сигнала
-    sr-ec: Обрада сигнала
-    sr-el: Obrada signala
+    sr_ec: Обрада сигнала
+    sr_el: Obrada signala
     su: Pamrosésan sinyal
     sv: signalbehandling
     ta: குறிகைச் செயலாக்கம்
@@ -133,12 +133,12 @@ dv_has_:
     wuu: 信号处理
     yue: 訊號處理
     zh: 信号处理
-    zh-cn: 信号处理
-    zh-hans: 信号处理
-    zh-hant: 訊號處理
-    zh-hk: 訊號處理
-    zh-sg: 信号处理
-    zh-tw: 訊號處理
+    zh_cn: 信号处理
+    zh_hans: 信号处理
+    zh_hant: 訊號處理
+    zh_hk: 訊號處理
+    zh_sg: 信号处理
+    zh_tw: 訊號處理
     zu: Ukudludlungwa kwesiyabizo
 ---
 # [[Signal_Processing]] 

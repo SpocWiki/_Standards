@@ -78,7 +78,7 @@ dv_has_:
     ast: Honor
     az: Şərəf
     be: Анорэ
-    be-tarask: гонар
+    be_tarask: гонар
     bg: Чест — Почитание — Почест
     bo: མཚན་སྙན།
     bs: Čast
@@ -91,7 +91,7 @@ dv_has_:
     de: Ehre
     el: τιμή
     en: honor
-    en-gb: honour
+    en_gb: honour
     en-us: honor
     eo: honoro
     es: honor
@@ -149,12 +149,12 @@ dv_has_:
     yi: כבוד
     yue: 名譽
     zh: 榮譽
-    zh-cn: 荣誉
-    zh-hans: 荣誉
-    zh-hant: 榮譽
-    zh-hk: 榮譽
-    zh-sg: 荣誉
-    zh-tw: 榮譽
+    zh_cn: 荣誉
+    zh_hans: 荣誉
+    zh_hant: 榮譽
+    zh_hk: 榮譽
+    zh_sg: 荣誉
+    zh_tw: 榮譽
 ---
 # [[Honor]] 
 

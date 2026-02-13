@@ -148,7 +148,7 @@ dv_has_:
     az: mədən
     ba: тау эше
     be: Шахта
-    be-tarask: горная справа
+    be_tarask: горная справа
     bg: Добивна промишленост
     bn: খনন
     br: Mengleuz
@@ -214,7 +214,7 @@ dv_has_:
     pl: górnictwo
     ps: د کانونو استخراج
     pt: mineração
-    pt-br: mineração
+    pt_br: mineração
     qu: Qhuya
     ro: minerit
     ru: горное дело
@@ -246,8 +246,8 @@ dv_has_:
     xh: IMayini
     yue: 礦業
     zh: 采矿业
-    zh-hant: 採礦業
-    zh-tw: 採礦業
+    zh_hant: 採礦業
+    zh_tw: 採礦業
 ---
 # [[Mining]]  
 

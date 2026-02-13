@@ -152,7 +152,7 @@ dv_has_:
     az: bioloji aktiv maddə
     azb: دواء
     bcl: droga
-    be-tarask: біялягічна актыўныя рэчывы
+    be_tarask: біялягічна актыўныя рэчывы
     bg: биологично активни вещества
     bn: ড্রাগ
     br: dramm
@@ -166,8 +166,8 @@ dv_has_:
     de: Droge
     el: ναρκωτικό
     en: drug
-    en-ca: drug
-    en-gb: drug
+    en_ca: drug
+    en_gb: drug
     eo: drogo
     es: droga
     et: droog
@@ -230,7 +230,7 @@ dv_has_:
     pcm: drug
     pl: używka
     pt: droga
-    pt-br: droga
+    pt_br: droga
     ro: drog
     ru: биологически активные вещества
     scn: droga
@@ -242,7 +242,7 @@ dv_has_:
     smn: uáivádâs
     sq: droga
     sr: дрога
-    sr-ec: дрога
+    sr_ec: дрога
     su: ubar
     sv: drog
     sw: madawa ya kulevya
@@ -261,9 +261,9 @@ dv_has_:
     yi: דראג
     yue: 藥
     zh: 药物
-    zh-cn: 药物
-    zh-hans: 药物
-    zh-hant: 藥物
+    zh_cn: 药物
+    zh_hans: 药物
+    zh_hant: 藥物
     zu: Isidakamizwa
 ---
 # [[Drug]] 

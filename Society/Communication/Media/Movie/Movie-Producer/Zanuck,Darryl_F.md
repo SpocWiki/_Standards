@@ -72,7 +72,7 @@ dv_has_:
     arz: داريل فرانسيس زانوك
     ast: Darryl F. Zanuck
     be: Дэрыл Занук
-    be-tarask: Дэрыл Занук
+    be_tarask: Дэрыл Занук
     ca: Darryl F. Zanuck
     ckb: داریل ئێف زانوک
     cs: Darryl F. Zanuck
@@ -108,27 +108,27 @@ dv_has_:
     pap: Darryl F. Zanuck
     pl: Darryl F. Zanuck
     pt: Darryl F. Zanuck
-    pt-br: Darryl F. Zanuck
+    pt_br: Darryl F. Zanuck
     ro: Darryl F. Zanuck
     ru: Дэррил Ф. Занук
     sh: Darryl F. Zanuck
     sl: Darryl F. Zanuck
     sq: Darryl F. Zanuck
     sr: Дарил Ф. Занук
-    sr-ec: Дарил Ф. Занук
-    sr-el: Daril F. Zanuk
+    sr_ec: Дарил Ф. Занук
+    sr_el: Daril F. Zanuk
     sv: Darryl F. Zanuck
     tg: Дэррил Ф. Занук
-    tg-cyrl: Дэррил Ф. Занук
+    tg_cyrl: Дэррил Ф. Занук
     tr: Darryl F. Zanuck
     uk: Дерріл Занук
     war: Darryl F. Zanuck
     yo: Darryl F. Zanuck
     yue: 大利·柴納克
     zh: 大利·柴納克
-    zh-cn: 达里尔·F·扎努克
-    zh-hans: 达里尔·F·扎努克
-    zh-hant: 大利·柴納克
+    zh_cn: 达里尔·F·扎努克
+    zh_hans: 达里尔·F·扎努克
+    zh_hant: 大利·柴納克
 ---
 # [[Zanuck,Darryl_F]] 
 

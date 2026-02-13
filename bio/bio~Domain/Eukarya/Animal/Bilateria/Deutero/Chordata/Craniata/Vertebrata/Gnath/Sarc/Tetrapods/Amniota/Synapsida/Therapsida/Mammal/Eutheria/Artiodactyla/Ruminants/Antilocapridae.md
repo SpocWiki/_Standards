@@ -36,7 +36,7 @@ dv_has_:
     ast: Antilocapridae
     avk: kinzoleem
     az: Haçabuynuzlar
-    be-tarask: Віларогавыя
+    be_tarask: Віларогавыя
     bg: вилорогови
     ca: antilocàprids
     ceb: Antilocapridae
@@ -72,7 +72,7 @@ dv_has_:
     oc: Antilocapridae
     pl: Widłorogowate
     pt: Antilocapridae
-    pt-br: Antilocapridae
+    pt_br: Antilocapridae
     ro: Antilocapridae
     ru: Вилороговые
     sk: Vidlorohovité
@@ -84,9 +84,9 @@ dv_has_:
     vo: Antilocapridae
     war: Antilocapridae
     zh: 叉角羚科
-    zh-cn: 叉角羚科
-    zh-hans: 叉角羚科
-    zh-tw: 叉角羚科
+    zh_cn: 叉角羚科
+    zh_hans: 叉角羚科
+    zh_tw: 叉角羚科
 ---
 # [[Antilocapridae]] 
 ![](Antilocapridae/Merycodus_necatus_skull.jpg) 

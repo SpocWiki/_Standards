@@ -113,7 +113,7 @@ dv_has_:
     ast: rellaciones públiques
     az: İctimaiyyətlə əlaqələr
     be: сувязі з грамадскасцю
-    be-tarask: сувязі з грамадзкасьцю
+    be_tarask: сувязі з грамадзкасьцю
     bg: Връзки с обществеността
     bn: জনসংযোগ
     ca: relacions públiques
@@ -144,11 +144,11 @@ dv_has_:
     it: pubbliche relazioni
     ja: パブリック・リレーションズ
     kk: Паблик рилейшнз
-    kk-arab: پابلىيك رىيلەيشنز
+    kk_arab: پابلىيك رىيلەيشنز
     kk-cn: پابلىيك رىيلەيشنز
-    kk-cyrl: Паблик рилейшнз
+    kk_cyrl: Паблик рилейшнз
     kk-kz: Паблик рилейшнз
-    kk-latn: Pablïk rïleýşnz
+    kk_latn: Pablïk rïleýşnz
     kk-tr: Pablïk rïleýşnz
     kn: ಸಾರ್ವಜನಿಕ ಬಾಂಧವ್ಯಗಳು
     ko: PR
@@ -160,7 +160,7 @@ dv_has_:
     mk: Односи со јавноста
     mn: PR
     ms: perhubungan awam
-    ms-arab: ڤرهوبوڠن عوام
+    ms_arab: ڤرهوبوڠن عوام
     my: ပေါင်းကူးဆက်ဆံရေး
     nb: informasjon og samfunnskontakt
     nl: public relations
@@ -176,8 +176,8 @@ dv_has_:
     sl: odnosi z javnostmi
     so: Janjeer siyaasadeed
     sr: односи са јавношћу
-    sr-ec: Односи са јавношћу
-    sr-el: Odnosi sa javnošću
+    sr_ec: Односи са јавношћу
+    sr_el: Odnosi sa javnošću
     sv: public relations
     ta: பொதுத் தொடர்புகள்
     tg: «Робита бо ҷомеа»
@@ -194,12 +194,12 @@ dv_has_:
     yi: פארהאנדלונג באציאונגען
     yue: 公關
     zh: 公共关系
-    zh-cn: 公共关系
-    zh-hans: 公共关系
-    zh-hant: 公共關係
-    zh-hk: 公共關係
-    zh-sg: 公共关系
-    zh-tw: 公共關係
+    zh_cn: 公共关系
+    zh_hans: 公共关系
+    zh_hant: 公共關係
+    zh_hk: 公共關係
+    zh_sg: 公共关系
+    zh_tw: 公共關係
 ---
 # [[Public_Relations]] 
 

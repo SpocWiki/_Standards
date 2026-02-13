@@ -71,7 +71,7 @@ dv_has_:
     ast: Electroimán
     az: Elektromaqnit
     be: электрамагніт
-    be-tarask: электрамагніт
+    be_tarask: электрамагніт
     bg: Електромагнит
     bn: বৈদ্যুতিক চুম্বক
     ca: electroimant
@@ -122,8 +122,8 @@ dv_has_:
     sl: elektromagnet
     sq: Elektromagnetët
     sr: електромагнет
-    sr-ec: електромагнет
-    sr-el: elektromagnet
+    sr_ec: електромагнет
+    sr_el: elektromagnet
     sv: elektromagnet
     ta: மின்காந்தம்
     te: విద్యుదయస్కాంతం
@@ -137,12 +137,12 @@ dv_has_:
     wuu: 电磁铁
     yue: 電攝石
     zh: 電磁鐵
-    zh-cn: 电磁铁
-    zh-hans: 电磁铁
-    zh-hant: 電磁鐵
-    zh-hk: 電磁鐵
-    zh-sg: 电磁铁
-    zh-tw: 電磁鐵
+    zh_cn: 电磁铁
+    zh_hans: 电磁铁
+    zh_hant: 電磁鐵
+    zh_hk: 電磁鐵
+    zh_sg: 电磁铁
+    zh_tw: 電磁鐵
 ---
 # [[Electromagnet]] 
 

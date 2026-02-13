@@ -230,7 +230,7 @@ dv_has_:
     bar: Konfödariade Stootn vo Amerika
     bcl: Confederadong mga Estado nin Amerika
     be: Канфедэратыўныя Штаты Амерыкі
-    be-tarask: Канфэдэрацыйныя Штаты Амэрыкі
+    be_tarask: Канфэдэрацыйныя Штаты Амэрыкі
     bg: Конфедеративни американски щати
     bn: কনফেডারেট স্টেটস অফ আমেরিকা
     br: Stadoù Kengevreet Amerika
@@ -245,7 +245,7 @@ dv_has_:
     diq: Dewletê Konfederasyonê Amerika
     el: Συνομόσπονδες Πολιτείες της Αμερικής
     en: Confederate States of America
-    en-gb: Confederate States of America
+    en_gb: Confederate States of America
     eo: Konfederaciitaj ŝtatoj de Usono
     es: Estados Confederados de América
     et: Ameerika Riikide Konföderatsioon
@@ -321,8 +321,8 @@ dv_has_:
     yue: 美利堅聯盟國
     zea: Geconfedereêrde Staeten van Amerika
     zh: 美利堅聯盟國
-    zh-hant: 美利堅邦聯
-    zh-tw: 美利堅邦聯
+    zh_hant: 美利堅邦聯
+    zh_tw: 美利堅邦聯
 ---
 # [[Confederate_States]] 
 

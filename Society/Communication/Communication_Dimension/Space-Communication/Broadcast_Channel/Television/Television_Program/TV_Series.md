@@ -196,7 +196,7 @@ dv_has_:
     ast: serie de televisión
     az: teleserial
     be: тэлесерыял
-    be-tarask: тэлесэрыял
+    be_tarask: тэлесэрыял
     bg: сериал
     bn: টেলিভিশন ধারাবাহিক
     br: stirad skinwel
@@ -208,12 +208,12 @@ dv_has_:
     cy: cyfres deledu
     da: tv-serie
     de: Fernsehserie
-    de-ch: Fernsehserie
+    de_ch: Fernsehserie
     diq: Serialê televizyoni
     el: τηλεοπτική σειρά
     en: television series
-    en-ca: serial
-    en-gb: television series
+    en_ca: serial
+    en_gb: television series
     en-us: serial
     eo: televida serio
     es: serie de televisión
@@ -246,7 +246,7 @@ dv_has_:
     km: ស៊េរីទូរទស្សន៍
     ko: 텔레비전 시리즈
     ku: rêzefîlma televîzyonê
-    ku-latn: rêzefîlma televîzyonê
+    ku_latn: rêzefîlma televîzyonê
     kw: kevres pellwolok
     la: series televisiva
     lb: Tëleesserie
@@ -258,13 +258,13 @@ dv_has_:
     mn: телевизийн цуврал
     mr: दूरचित्रवाणी मालिका
     ms: siri televisyen
-    ms-arab: سيري تيليۏيشن
+    ms_arab: سيري تيليۏيشن
     my: ရုပ်သံဇာတ်လမ်းတွဲ
     mzn: سریال
     nap: Serie 'e televisione
     nb: TV-serie
     nds: Feernsehreeg
-    nds-nl: televisieriege
+    nds_nl: televisieriege
     nl: televisieserie
     nn: fjernsynsserie
     oc: seria de television
@@ -274,7 +274,7 @@ dv_has_:
     pl: serial telewizyjny
     ps: ټلویزیون سلسله
     pt: série de televisão
-    pt-br: série de televisão
+    pt_br: série de televisão
     ro: serial TV
     ru: телесериал
     sah: Телесериал
@@ -288,17 +288,17 @@ dv_has_:
     sms: TV-räidd
     sq: serial
     sr: телевизијска серија
-    sr-ec: телевизијска серија
+    sr_ec: телевизијска серија
     su: séri televisi
     sv: TV-serie
     ta: தொலைக்காட்சி தொடர்
     tg: телесериал
-    tg-cyrl: сериал
+    tg_cyrl: сериал
     th: รายการ/ละครชุดทางโทรทัศน์
     tl: seryeng pantelebisyon
     tr: televizyon dizisi
     tt: телесериал
-    tt-cyrl: телесериал
+    tt_cyrl: телесериал
     uk: телесеріал
     ur: ٹیلی ویژن سلسلہ
     uz: teleserial
@@ -309,14 +309,14 @@ dv_has_:
     yi: טעלעוויזיע סעריע
     yue: 電視節目系列
     zh: 電視系列節目
-    zh-cn: 电视节目系列
-    zh-hans: 电视系列节目
-    zh-hant: 電視系列節目
-    zh-hk: 電視節目系列
-    zh-mo: 電視節目系列
+    zh_cn: 电视节目系列
+    zh_hans: 电视系列节目
+    zh_hant: 電視系列節目
+    zh_hk: 電視節目系列
+    zh_mo: 電視節目系列
     zh-my: 电视节目系列
-    zh-sg: 电视节目系列
-    zh-tw: 電視節目系列
+    zh_sg: 电视节目系列
+    zh_tw: 電視節目系列
     zu: uthotho lukamabonakude
 ---
 # [[TV_Series]] 

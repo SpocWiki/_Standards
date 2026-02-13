@@ -46,7 +46,7 @@ dv_has_:
   name_:
     ar: محلج القطن
     ast: desmotadora
-    be-tarask: котан-джын
+    be_tarask: котан-джын
     bg: машина за почистване на памука
     ca: desmotadora
     de: Egreniermaschine
@@ -80,7 +80,7 @@ dv_has_:
     war: makina hin pan-gapas
     yue: 軋棉機
     zh: 軋棉機
-    zh-hant: 軋棉機
+    zh_hant: 軋棉機
 ---
 # [[Cotton_Gin]] 
 

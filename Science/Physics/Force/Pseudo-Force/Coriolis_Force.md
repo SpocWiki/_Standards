@@ -107,7 +107,7 @@ dv_has_:
     ast: Efectu Coriolis
     az: Koriolis qüvvəsi
     be: сіла Карыёліса
-    be-tarask: сіла Карыяліса
+    be_tarask: сіла Карыяліса
     bg: Кориолисова сила
     bho: कोरिओलिस बल
     bn: কোরিওলিস প্রভাব
@@ -120,8 +120,8 @@ dv_has_:
     de: Corioliskraft
     el: Δύναμη Κοριόλις
     en: Coriolis force
-    en-ca: Coriolis effect
-    en-gb: Coriolis effect
+    en_ca: Coriolis effect
+    en_gb: Coriolis effect
     eo: Koriolisforto
     es: efecto Coriolis
     et: Coriolisi efekt
@@ -144,11 +144,11 @@ dv_has_:
     ja: コリオリの力
     ka: კორიოლისის ძალა
     kk: Кориолис күші
-    kk-arab: كورىيولىيس كۇشى
+    kk_arab: كورىيولىيس كۇشى
     kk-cn: كورىيولىيس كۇشى
-    kk-cyrl: Кориолис күші
+    kk_cyrl: Кориолис күші
     kk-kz: Кориолис күші
-    kk-latn: Korïolïs küşi
+    kk_latn: Korïolïs küşi
     kk-tr: Korïolïs küşi
     ko: 코리올리 효과
     la: Vis Coriolis
@@ -174,8 +174,8 @@ dv_has_:
     sl: Coriolisova sila
     sq: Fuqia e Koriolit
     sr: Кориолисов ефекат
-    sr-ec: Кориолисов ефекат
-    sr-el: Koriolisov efekat
+    sr_ec: Кориолисов ефекат
+    sr_el: Koriolisov efekat
     su: éfék Coriolis
     sv: Corioliseffekten
     szl: efekt Coriolisa
@@ -191,12 +191,12 @@ dv_has_:
     wuu: 科里奥利力
     yue: Coriolis力
     zh: 科里奥利力
-    zh-cn: 科里奥利力
-    zh-hans: 科里奥利力
-    zh-hant: 科里奧利力
-    zh-hk: 科里奧利力
-    zh-sg: 科里奥利力
-    zh-tw: 科里奧利力
+    zh_cn: 科里奥利力
+    zh_hans: 科里奥利力
+    zh_hant: 科里奧利力
+    zh_hk: 科里奧利力
+    zh_sg: 科里奥利力
+    zh_tw: 科里奧利力
 ---
 # [[Coriolis_Force]] 
 

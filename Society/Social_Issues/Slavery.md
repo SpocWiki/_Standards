@@ -222,7 +222,7 @@ dv_has_:
     bar: Sklaverei
     bcl: Pag-uripon
     be: рабства
-    be-tarask: рабства
+    be_tarask: рабства
     bg: робство
     bjn: Hulun
     bn: দাসত্ব
@@ -240,13 +240,13 @@ dv_has_:
     cy: caethwasiaeth
     da: slaveri
     de: Sklaverei
-    de-ch: Sklaverei
+    de_ch: Sklaverei
     din: Wërëkäŋ loony
     diq: Koleyiye
     el: δουλεία
     en: slavery
-    en-ca: Slavery
-    en-gb: slavery
+    en_ca: Slavery
+    en_gb: slavery
     eo: sklaveco
     es: esclavitud
     et: orjus
@@ -334,7 +334,7 @@ dv_has_:
     pnt: δουλόπον
     ps: غلامي
     pt: escravatura
-    pt-br: escravidão
+    pt_br: escravidão
     qu: punqu
     ro: sclavie
     ru: рабство
@@ -356,8 +356,8 @@ dv_has_:
     so: Adoon
     sq: skllavëri
     sr: ропство
-    sr-ec: ропство
-    sr-el: ropstvo
+    sr_ec: ропство
+    sr_el: ropstvo
     sv: slaveri
     sw: utumwa
     ta: அடிமை முறை
@@ -384,8 +384,8 @@ dv_has_:
     yo: Okoẹrú
     yue: 奴隸制
     zh: 奴隶制度
-    zh-hant: 奴隸制度
-    zh-tw: 奴隸制度
+    zh_hant: 奴隸制度
+    zh_tw: 奴隸制度
 ---
 # [[Slavery]] 
 

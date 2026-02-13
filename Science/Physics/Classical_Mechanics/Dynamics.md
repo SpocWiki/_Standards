@@ -76,7 +76,7 @@ dv_has_:
     az: dinamika
     azb: دینامیک (مکانیک)
     be: дынаміка
-    be-tarask: дынаміка
+    be_tarask: дынаміка
     bg: динамика
     bn: গতিবিদ্যা
     bs: dinamika
@@ -88,8 +88,8 @@ dv_has_:
     de: Dynamik
     el: δυναμική
     en: dynamics
-    en-ca: dynamics
-    en-gb: dynamics
+    en_ca: dynamics
+    en_gb: dynamics
     eo: dinamiko
     es: dinámica
     et: dünaamika
@@ -132,7 +132,7 @@ dv_has_:
     pl: dynamika
     pms: dinàmica
     pt: dinâmica
-    pt-br: dinâmica
+    pt_br: dinâmica
     ro: dinamică
     ru: динамика
     sa: गतिविज्ञानम्
@@ -147,8 +147,8 @@ dv_has_:
     sms: dynamikk
     sq: dinamika
     sr: динамика
-    sr-ec: динамика
-    sr-el: dinamika
+    sr_ec: динамика
+    sr_el: dinamika
     sv: dynamik
     ta: இயக்க விசையியல்
     th: พลศาสตร์
@@ -162,12 +162,12 @@ dv_has_:
     yi: דינאמיק
     yue: 動力學
     zh: 動力學
-    zh-cn: 动力学
-    zh-hans: 动力学
-    zh-hant: 動力學
-    zh-hk: 動力學
-    zh-sg: 动力学
-    zh-tw: 動力學
+    zh_cn: 动力学
+    zh_hans: 动力学
+    zh_hant: 動力學
+    zh_hk: 動力學
+    zh_sg: 动力学
+    zh_tw: 動力學
 ---
 # [[Dynamics]] 
 

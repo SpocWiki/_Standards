@@ -98,7 +98,7 @@ dv_has_:
     az: Upanişadlar
     bcl: Upanishad
     be: Упанішады
-    be-tarask: Упанішады
+    be_tarask: Упанішады
     bg: Упанишади
     bho: उपनिषद
     bjn: Upanisad
@@ -123,7 +123,7 @@ dv_has_:
     gl: Upanishads
     gom: उपनिषद्
     gom-deva: उपनिषद्
-    gom-latn: Upanishads
+    gom_latn: Upanishads
     gu: ઉપનિષદ
     he: אופנישדות
     hi: उपनिषद्
@@ -173,8 +173,8 @@ dv_has_:
     sl: Upinšade
     sq: Upanishadet
     sr: Упанишаде
-    sr-ec: Упанишаде
-    sr-el: Upanišade
+    sr_ec: Упанишаде
+    sr_el: Upanišade
     sv: Upanishaderna
     ta: உபநிடதம்
     te: ఉపనిషత్తు
@@ -190,9 +190,9 @@ dv_has_:
     xmf: უპანიშადეფი
     yue: 奧義書
     zh: 奥义书
-    zh-hans: 奥义书
-    zh-hant: 奧義書
-    zh-hk: 奧義書
+    zh_hans: 奥义书
+    zh_hant: 奧義書
+    zh_hk: 奧義書
 ---
 # [[Upanishads]] 
 

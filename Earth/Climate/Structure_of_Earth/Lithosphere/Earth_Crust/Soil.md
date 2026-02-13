@@ -240,7 +240,7 @@ dv_has_:
     bbc: tano
     bcl: daga
     be: глеба
-    be-tarask: глеба
+    be_tarask: глеба
     bew: Tana
     bg: почва
     bho: माटी
@@ -336,7 +336,7 @@ dv_has_:
     pnb: مٹی
     ps: خاوره
     pt: solo
-    pt-br: terra
+    pt_br: terra
     qu: allpa
     rm: terren
     ro: sol
@@ -372,7 +372,7 @@ dv_has_:
     tok: ko ma
     tr: toprak
     tt: туфрак
-    tt-cyrl: туфрак
+    tt_cyrl: туфрак
     udm: вылсюй
     ug: تۇپراق
     uk: ґрунт

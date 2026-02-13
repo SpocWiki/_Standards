@@ -130,7 +130,7 @@ dv_has_:
     bar: Design
     bcl: Desenyo
     be: дызайн
-    be-tarask: дызайн
+    be_tarask: дызайн
     bg: Дизайн
     bn: নকশা
     bs: dizajn
@@ -141,8 +141,8 @@ dv_has_:
     de: Design
     el: σχεδιασμός
     en: design
-    en-ca: Design
-    en-gb: design
+    en_ca: Design
+    en_gb: design
     eo: fasonado
     es: diseño
     et: disain
@@ -181,7 +181,7 @@ dv_has_:
     ml: രൂപകല്പന
     mn: Дизайн
     ms: reka bentuk
-    ms-arab: ريک بنتوق
+    ms_arab: ريک بنتوق
     mt: disinn
     my: ဒီဇိုင်း
     nan: Siat-kè
@@ -193,7 +193,7 @@ dv_has_:
     pl: design
     ps: جوړښت (ډیزاین)
     pt: design
-    pt-br: design
+    pt_br: design
     qu: Ch'anta
     rki: ဒီဇိုင်း
     ro: design
@@ -206,7 +206,7 @@ dv_has_:
     sn: Mutaru
     sq: Dizajni
     sr: дизајн
-    sr-ec: Дизајн
+    sr_ec: Дизајн
     sv: design
     sw: kubuni
     ta: வடிவமைப்பு
@@ -216,7 +216,7 @@ dv_has_:
     tl: Disenyo
     tr: tasarım
     tt: дизайн
-    tt-cyrl: дизайн
+    tt_cyrl: дизайн
     uk: дизайн
     ur: طرحبند
     uz: Dizayn
@@ -227,8 +227,8 @@ dv_has_:
     yi: דעזיין
     yue: 設計
     zh: 设计
-    zh-cn: 设计
-    zh-hant: 設計
+    zh_cn: 设计
+    zh_hant: 設計
 ---
 # [[Design]] 
 

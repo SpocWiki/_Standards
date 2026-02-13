@@ -67,7 +67,7 @@ dv_has_:
     ast: Ecuación de Laplace
     az: Laplas tənliyi
     be: Ураўненне Лапласа
-    be-tarask: раўнаньне Ляпляса
+    be_tarask: раўнаньне Ляпляса
     bg: Уравнение на Лаплас
     ca: Equació de Laplace
     cs: Laplaceova rovnice
@@ -99,15 +99,15 @@ dv_has_:
     nn: Laplaces differensiallikning
     pl: Równanie różniczkowe Laplace'a
     pt: equação de Laplace
-    pt-br: equação de Laplace
+    pt_br: equação de Laplace
     ro: Ecuația lui Laplace
     ru: Уравнение Лапласа
     sh: Laplaceova jednačina
     sl: Laplaceova enačba
     sq: Ekuacioni i Laplasit
     sr: Лапласова једначина
-    sr-ec: Лапласова једначина
-    sr-el: Laplasova jednačina
+    sr_ec: Лапласова једначина
+    sr_el: Laplasova jednačina
     sv: Laplaces ekvation
     te: లాప్లాస్ సమీకరణం
     tr: Laplace denklemi
@@ -116,12 +116,12 @@ dv_has_:
     vi: Phương trình Laplace
     yue: 拉普拉斯方程
     zh: 拉普拉斯方程
-    zh-cn: 拉普拉斯方程
-    zh-hans: 拉普拉斯方程
-    zh-hant: 拉普拉斯方程
-    zh-hk: 拉普拉斯方程
-    zh-sg: 拉普拉斯方程
-    zh-tw: 拉普拉斯方程
+    zh_cn: 拉普拉斯方程
+    zh_hans: 拉普拉斯方程
+    zh_hant: 拉普拉斯方程
+    zh_hk: 拉普拉斯方程
+    zh_sg: 拉普拉斯方程
+    zh_tw: 拉普拉斯方程
 ---
 # [[Laplace's_Equation]] 
 

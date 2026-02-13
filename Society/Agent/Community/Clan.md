@@ -89,7 +89,7 @@ dv_has_:
     azb: طایفا
     ba: Ара
     be: род
-    be-tarask: род
+    be_tarask: род
     bg: Клан
     bn: yaduvanshi ahir
     br: Klann
@@ -132,8 +132,8 @@ dv_has_:
     kk: тұқым
     ko: 씨족
     ku: eşîr
-    ku-arab: ئێلێن کوردان
-    ku-latn: Êlên kurdan
+    ku_arab: ئێلێن کوردان
+    ku_latn: Êlên kurdan
     ky: Клан
     lt: klanas
     lv: klans
@@ -150,7 +150,7 @@ dv_has_:
     pl: klan
     pnb: گوت
     pt: clã
-    pt-br: clã
+    pt_br: clã
     ro: clan
     ru: род
     sah: Аҕа ууһа
@@ -161,8 +161,8 @@ dv_has_:
     so: Beeldaaje
     sq: Klan
     sr: клан
-    sr-ec: Клан
-    sr-el: Klan
+    sr_ec: Клан
+    sr_el: Klan
     sv: klan
     sw: Ukoo
     ta: குலம்
@@ -177,12 +177,12 @@ dv_has_:
     wuu: 氏族
     yue: 氏族
     zh: 氏族
-    zh-cn: 氏族
-    zh-hans: 氏族
-    zh-hant: 氏族
-    zh-hk: 氏族
-    zh-sg: 氏族
-    zh-tw: 氏族
+    zh_cn: 氏族
+    zh_hans: 氏族
+    zh_hant: 氏族
+    zh_hk: 氏族
+    zh_sg: 氏族
+    zh_tw: 氏族
 ---
 # [[Clan]] 
 

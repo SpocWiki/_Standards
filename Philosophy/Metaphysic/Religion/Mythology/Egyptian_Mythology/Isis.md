@@ -103,7 +103,7 @@ dv_has_:
     ast: Isis
     az: İsida
     be: Ісіда
-    be-tarask: Ізыда
+    be_tarask: Ізыда
     bg: Изида
     bn: আইসিস
     bo: དབྱི་ཞི་སི།
@@ -119,7 +119,7 @@ dv_has_:
     de: Isis
     el: Ίσις
     en: Isis
-    en-gb: Isis
+    en_gb: Isis
     eo: Iziso
     es: Isis
     et: Isis

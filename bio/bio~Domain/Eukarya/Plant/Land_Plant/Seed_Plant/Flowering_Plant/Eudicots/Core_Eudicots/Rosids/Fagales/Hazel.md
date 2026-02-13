@@ -89,7 +89,7 @@ water_footprint:
 - 10515
 dv_has_:
   name_:
-    aeb-arab: بوفريوة
+    aeb_arab: بوفريوة
     af: Haselneut
     an: Avellana
     ar: بندق
@@ -98,7 +98,7 @@ dv_has_:
     azb: فیندیق
     ba: Урман сәтләүеге
     be: лясны арэх
-    be-tarask: лясны арэх
+    be_tarask: лясны арэх
     bn: হ্যাজেল বাদাম
     ca: avellana
     ceb: Abelyana
@@ -145,7 +145,7 @@ dv_has_:
     pms: Ninsòla
     pnt: λεφτοκάρ'
     pt: avelã
-    pt-br: avelã
+    pt_br: avelã
     ro: alună
     ru: лесной орех
     scn: Nucidda
@@ -163,9 +163,9 @@ dv_has_:
     vro: Sarapuupähkmäs
     yue: 榛果
     zh: 榛子
-    zh-hans: 榛子
-    zh-hant: 榛子
-    zh-hk: 榛子
+    zh_hans: 榛子
+    zh_hant: 榛子
+    zh_hk: 榛子
 ---
 #is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Hazelnut,578307|WD~Hazelnut,578307]]
 

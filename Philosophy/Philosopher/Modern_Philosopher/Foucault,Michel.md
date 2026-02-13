@@ -183,7 +183,7 @@ dv_has_:
     azb: میشل فوکو
     bar: Michel Foucault
     be: Мішэль Фуко
-    be-tarask: Мішэль Фуко
+    be_tarask: Мішэль Фуко
     bg: Мишел Фуко
     bm: Michel Foucault
     bn: মিশেল ফুকো
@@ -197,12 +197,12 @@ dv_has_:
     da: Michel Foucault
     de: Michel Foucault
     de-at: Michel Foucault
-    de-ch: Michel Foucault
+    de_ch: Michel Foucault
     diq: Michel Foucault
     el: Μισέλ Φουκώ
     en: Michel Foucault
-    en-ca: Michel Foucault
-    en-gb: Michel Foucault
+    en_ca: Michel Foucault
+    en_gb: Michel Foucault
     eo: Michel Foucault
     es: Michel Foucault
     et: Michel Foucault
@@ -261,7 +261,7 @@ dv_has_:
     nap: Michel Foucault
     nb: Michel Foucault
     nds: Michel Foucault
-    nds-nl: Michel Foucault
+    nds_nl: Michel Foucault
     ne: मिसेल फुको
     new: माइकल फोकल्ट
     nl: Michel Foucault
@@ -277,7 +277,7 @@ dv_has_:
     prg: Michel Foucault
     ps: میشل فوکو
     pt: Michel Foucault
-    pt-br: Michel Foucault
+    pt_br: Michel Foucault
     qu: Michel Foucault
     rgn: Michel Foucault
     rm: Michel Foucault
@@ -292,8 +292,8 @@ dv_has_:
     sl: Michel Foucault
     sq: Michel Foucault
     sr: Мишел Фуко
-    sr-ec: Мишел Фуко
-    sr-el: Michel Foucault
+    sr_ec: Мишел Фуко
+    sr_el: Michel Foucault
     sv: Michel Foucault
     sw: Michel Foucault
     syl: ꠝꠤꠡꠦꠟ ꠚꠥꠇꠧ
@@ -315,9 +315,9 @@ dv_has_:
     yo: Michel Foucault
     yue: 福柯
     zh: 米歇尔·福柯
-    zh-cn: 米歇尔·福柯
+    zh_cn: 米歇尔·福柯
     zh-hans: 米歇尔·福柯
-    zh-hk: 米舒·傅柯
+    zh_hk: 米舒·傅柯
     zu: Michel Foucault
 ---
 # [[Foucault,Michel]] 

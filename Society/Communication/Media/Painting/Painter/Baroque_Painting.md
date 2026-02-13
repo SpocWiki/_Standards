@@ -6,7 +6,7 @@ dv_has_:
     avk: Barocco lingereva
     az: Barokko rəssamlığı
     be: жывапіс барока
-    be-tarask: жывапіс барока
+    be_tarask: жывапіс барока
     bg: Барокова живопис
     ca: pintura barroca
     cs: barokní malířství
@@ -49,8 +49,8 @@ dv_has_:
     uk: живопис бароко
     vi: tranh Baroque
     zh: 巴洛克繪畫
-    zh-cn: 巴洛克油画
-    zh-hant: 巴洛克繪畫
+    zh_cn: 巴洛克油画
+    zh_hant: 巴洛克繪畫
 aliases:
 - Barocco lingereva
 - barocke Malerei

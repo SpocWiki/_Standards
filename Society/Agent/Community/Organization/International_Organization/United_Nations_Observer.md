@@ -58,8 +58,8 @@ dv_has_:
     sd: گڏيل قومن جي اداري جون مبصر رياستون
     sh: Promatrači Generalne skupštine Ujedinjenih naroda
     sr: Посматрачи Генералне скупштине Организације уједињених нација
-    sr-ec: Посматрачи Генералне скупштине Организације уједињених нација
-    sr-el: Posmatrači Generalne skupštine Organizacije ujedinjenih nacija
+    sr_ec: Посматрачи Генералне скупштине Организације уједињених нација
+    sr_el: Posmatrači Generalne skupštine Organizacije ujedinjenih nacija
     sv: Förenta nationernas observatörsstater
     sw: Watazamaji wa kudumu
     ta: ஐக்கிய நாடுகள் பொதுச் சபை பார்வையாளர்கள்
@@ -67,14 +67,14 @@ dv_has_:
     uk: Спостерігач в Генеральній Асамблеї ООН
     vi: Quan sát viên Đại Hội đồng Liên Hiệp Quốc
     zh: 聯合國大會觀察員列表
-    zh-cn: 联合国大会观察员列表
-    zh-hans: 联合国大会观察员列表
-    zh-hant: 聯合國大會觀察員列表
-    zh-hk: 聯合國大會觀察員列表
-    zh-mo: 聯合國大會觀察員列表
+    zh_cn: 联合国大会观察员列表
+    zh_hans: 联合国大会观察员列表
+    zh_hant: 聯合國大會觀察員列表
+    zh_hk: 聯合國大會觀察員列表
+    zh_mo: 聯合國大會觀察員列表
     zh-my: 联合国大会观察员列表
-    zh-sg: 联合国大会观察员列表
-    zh-tw: 聯合國大會觀察員列表
+    zh_sg: 联合国大会观察员列表
+    zh_tw: 聯合國大會觀察員列表
 ---
 ## #has_/text_of_/abstract  
 

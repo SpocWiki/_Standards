@@ -90,7 +90,7 @@ dv_has_:
     ast: Monopoliu
     az: İnhisar
     be: манаполія
-    be-tarask: манаполія
+    be_tarask: манаполія
     bg: Монопол
     bjn: Kuluh
     bn: একচেটিয়া বাজার
@@ -162,7 +162,7 @@ dv_has_:
     sms: monopol
     sq: Monopoli
     sr: монопол
-    sr-ec: монопол
+    sr_ec: монопол
     sv: monopol
     sw: Uhodhisoko
     ta: ஏகபோகம்
@@ -180,11 +180,11 @@ dv_has_:
     yue: 壟斷
     za: lungjdon
     zh: 垄断
-    zh-cn: 垄断
-    zh-hans: 垄断
-    zh-hant: 壟斷
-    zh-hk: 壟斷
-    zh-tw: 獨占
+    zh_cn: 垄断
+    zh_hans: 垄断
+    zh_hant: 壟斷
+    zh_hk: 壟斷
+    zh_tw: 獨占
 ---
 # [[Monopoly]] 
 

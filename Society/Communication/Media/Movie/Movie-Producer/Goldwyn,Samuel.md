@@ -80,7 +80,7 @@ dv_has_:
     ar: صمويل غولدوين
     arz: صمويل جولدوين
     ast: Samuel Goldwyn
-    be-tarask: Сэм’юэл Голдўін
+    be_tarask: Сэм’юэл Голдўін
     bg: Самюъл Голдуин
     bn: স্যামুয়েল গোল্ডউইন
     ca: Samuel Goldwyn
@@ -90,8 +90,8 @@ dv_has_:
     de: Samuel Goldwyn
     el: Σάμιουελ Γκόλντγουϊν
     en: Samuel Goldwyn
-    en-ca: Samuel Goldwyn
-    en-gb: Samuel Goldwyn
+    en_ca: Samuel Goldwyn
+    en_gb: Samuel Goldwyn
     eo: Samuel Goldwyn
     es: Samuel Goldwyn
     eu: Samuel Goldwyn
@@ -118,7 +118,7 @@ dv_has_:
     pap: Samuel Goldwyn
     pl: Samuel Goldwyn
     pt: Samuel Goldwyn
-    pt-br: Samuel Goldwyn
+    pt_br: Samuel Goldwyn
     ro: Samuel Goldwyn
     ru: Сэмюэл Голдвин
     sh: Samuel Goldwyn

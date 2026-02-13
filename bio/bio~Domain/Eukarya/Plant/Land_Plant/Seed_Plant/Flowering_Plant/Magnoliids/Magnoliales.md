@@ -52,7 +52,7 @@ dv_has_:
     az: Maqnoliyaçiçəklilər
     bcl: Magnoliales
     be: магноліяпсіды
-    be-tarask: Магноліякветныя
+    be_tarask: Магноліякветныя
     bg: магнолиецветни
     bs: Magnoliales
     ca: Magnolials
@@ -101,7 +101,7 @@ dv_has_:
     os: Магнолионтæ
     pl: Magnoliowce
     pt: Magnoliales
-    pt-br: Magnoliales
+    pt_br: Magnoliales
     ro: Magnoliales
     ru: магнолиецветные
     sco: Magnoliales

@@ -321,7 +321,7 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/December-banner-
 dv_has_:
   name_:
     ab: Ԥхынҷкәынмза
-    aeb-arab: ديسمبر
+    aeb_arab: ديسمبر
     af: Desember
     agq: Ndzɔŋ è Efwòo
     alt: Јаҥар ай
@@ -350,11 +350,11 @@ dv_has_:
     bas: libuy li nyee
     bax: mùt Décembre
     bbc: Sipaha sia
-    bbc-latn: Sipaha Sia
+    bbc_latn: Sipaha Sia
     bbj: fûʼ bvù
     bcl: Desyembre
     be: снежань
-    be-tarask: сьнежань
+    be_tarask: сьнежань
     bew: Désèmber
     bg: Декември
     bho: दिसंबर
@@ -371,7 +371,7 @@ dv_has_:
     bxr: 12 һар
     byv: ntòngǒdməsaŋə
     ca: desembre
-    cbk-zam: Diciembre
+    cbk_zam: Diciembre
     cdo: 12 nguŏk
     ce: Огой бутт
     ceb: Disyembre
@@ -380,7 +380,7 @@ dv_has_:
     ckb: کانوونی یەکەم
     co: Dicembre
     crh: Dekabr
-    crh-latn: Dekabr
+    crh_latn: Dekabr
     cs: prosinec
     csb: Gòdnik
     cv: Раштав уйăхĕ
@@ -388,7 +388,7 @@ dv_has_:
     da: december
     dag: December
     de: Dezember
-    de-ch: Dezember
+    de_ch: Dezember
     diq: Gağan
     dsb: zymski
     dtp: Momuhau
@@ -398,8 +398,8 @@ dv_has_:
     el: Δεκέμβριος
     eml: Dicèmber
     en: December
-    en-ca: December
-    en-gb: December
+    en_ca: December
+    en_gb: December
     en-us: December
     eo: decembro
     es: diciembre
@@ -480,7 +480,7 @@ dv_has_:
     ks: پھاگُن
     ksh: Dezemmber
     ku: kanûna pêşîn
-    ku-latn: kanûna pêşîn
+    ku_latn: kanûna pêşîn
     kv: Ӧшым тӧлысь
     kw: Mis Kevardhu
     ky: Декабрь
@@ -502,7 +502,7 @@ dv_has_:
     lv: decembris
     lzh: 建丑
     mai: दिसम्बर
-    map-bms: Desember
+    map_bms: Desember
     mcp: ”ŋwíí akǝ ntɛk di bɛ́ɛ"
     mdf: ацамков
     mg: Desambra
@@ -517,7 +517,7 @@ dv_has_:
     mr: डिसेंबर महिना
     mrj: Декабрь
     ms: Disember
-    ms-arab: ديسيمبر
+    ms_arab: ديسيمبر
     mt: Diċembru
     mua: fĩi yuru
     mwl: Dezembre
@@ -529,7 +529,7 @@ dv_has_:
     nap: Dicembre
     nb: desember
     nds: Dezember
-    nds-nl: december
+    nds_nl: december
     ne: डिसेम्बर
     new: डिसेम्बर
     nl: december
@@ -557,7 +557,7 @@ dv_has_:
     pnt: Χριστουγεννάρτς
     ps: ډېسمبر
     pt: dezembro
-    pt-br: dezembro
+    pt_br: dezembro
     qu: Qhapaq raymi killa
     ro: decembrie
     roa-tara: Decèmmre
@@ -587,7 +587,7 @@ dv_has_:
     so: Diseembar
     sq: Dhjetori
     sr: децембар
-    sr-ec: децембар
+    sr_ec: децембар
     ss: ÍNgongóni
     su: Désémber
     sv: december
@@ -608,7 +608,7 @@ dv_has_:
     tr: Aralık
     ts: N'wendzamhala
     tt: декабрь
-    tt-cyrl: декабрь
+    tt_cyrl: декабрь
     tum: Disembala
     tvu: ibíléníné
     tw: Ɔpɛnimaa
@@ -643,14 +643,14 @@ dv_has_:
     zea: December
     zgh: ⴷⵓⵊⴰⵏⴱⵉⵔ
     zh: 12月
-    zh-cn: 12月
-    zh-hans: 12月
-    zh-hant: 12月
-    zh-hk: 12月
-    zh-mo: 12月
+    zh_cn: 12月
+    zh_hans: 12月
+    zh_hant: 12月
+    zh_hk: 12月
+    zh_mo: 12月
     zh-my: 12月
-    zh-sg: 12月
-    zh-tw: 12月
+    zh_sg: 12月
+    zh_tw: 12月
     zu: UZibandlela
 ---
 # [[December]]

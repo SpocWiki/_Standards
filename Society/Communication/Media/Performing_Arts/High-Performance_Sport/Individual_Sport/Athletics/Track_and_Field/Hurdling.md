@@ -73,7 +73,7 @@ dv_has_:
     ar: سباق حواجز
     ast: Carreres de valles
     az: maneələrlə qaçış
-    be-tarask: бег зь перашкодамі
+    be_tarask: бег зь перашкодамі
     ca: cursa amb tanques
     cs: překážkový běh
     cy: ras clwydi
@@ -115,8 +115,8 @@ dv_has_:
     smn: äiđikaččâm
     sms: čuâllurččmõš
     sr: трка с препонама
-    sr-ec: трка с препонама
-    sr-el: trka s preponama
+    sr_ec: трка с препонама
+    sr_el: trka s preponama
     sv: häcklöpning
     ta: தடை தாண்டும் ஓட்டம்
     tr: Engelli koşuları

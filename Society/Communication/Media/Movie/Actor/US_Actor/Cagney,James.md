@@ -111,7 +111,7 @@ dv_has_:
     azb: جیمز کاقنی
     ba: Джеймс Кэгни
     be: Джэймс Кэгні
-    be-tarask: Джэймз Кэгні
+    be_tarask: Джэймз Кэгні
     bg: Джеймс Кагни
     bi: James Cagney
     bn: জেমস ক্যাগনি
@@ -166,7 +166,7 @@ dv_has_:
     pap: James Cagney
     pl: James Cagney
     pt: James Cagney
-    pt-br: James Cagney
+    pt_br: James Cagney
     qu: James Cagney
     ro: James Cagney
     ru: Джеймс Кэгни
@@ -191,10 +191,10 @@ dv_has_:
     yo: James Cagney
     yue: 占士格尼
     zh: 詹姆斯·卡格尼
-    zh-hans: 詹姆斯·卡格尼
-    zh-hant: 詹姆斯·賈格納
-    zh-sg: 占士·格尼
-    zh-tw: 詹姆斯·賈格納
+    zh_hans: 詹姆斯·卡格尼
+    zh_hant: 詹姆斯·賈格納
+    zh_sg: 占士·格尼
+    zh_tw: 詹姆斯·賈格納
 ---
 # [[Cagney,James]] 
 

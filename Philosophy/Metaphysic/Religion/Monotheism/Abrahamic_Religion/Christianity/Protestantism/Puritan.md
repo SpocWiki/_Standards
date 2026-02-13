@@ -79,7 +79,7 @@ dv_has_:
     ast: Puritanismu
     az: puritanlar
     be: пурытанства
-    be-tarask: пурытанства
+    be_tarask: пурытанства
     bg: Пуританство
     br: Puritanegezh
     ca: puritanisme
@@ -111,11 +111,11 @@ dv_has_:
     ja: ピューリタン
     ka: პურიტანები
     kk: пуританизм
-    kk-arab: پۋرىيتانىيزم
+    kk_arab: پۋرىيتانىيزم
     kk-cn: پۋرىيتانىيزم
-    kk-cyrl: Пуританизм
+    kk_cyrl: Пуританизм
     kk-kz: Пуританизм
-    kk-latn: Pwrïtanïzm
+    kk_latn: Pwrïtanïzm
     kk-tr: Pwrïtanïzm
     ko: 청교도
     la: Puritanus
@@ -132,7 +132,7 @@ dv_has_:
     oc: Puritanisme
     pl: Purytanizm
     pt: puritanismo
-    pt-br: puritanismo
+    pt_br: puritanismo
     ro: Puritanism
     ru: пуритане
     sh: Puritanci
@@ -140,8 +140,8 @@ dv_has_:
     sl: puritanci
     sq: Puritanët
     sr: Пуританци
-    sr-ec: Пуританци
-    sr-el: Puritanci
+    sr_ec: Пуританци
+    sr_el: Puritanci
     sv: puritanism
     th: พิวริตัน
     tr: Püritenler
@@ -152,12 +152,12 @@ dv_has_:
     wuu: 清教徒
     yue: 清教徒
     zh: 清教徒
-    zh-cn: 清教徒
-    zh-hans: 清教徒
-    zh-hant: 清教徒
-    zh-hk: 清教徒
-    zh-sg: 清教徒
-    zh-tw: 清教徒
+    zh_cn: 清教徒
+    zh_hans: 清教徒
+    zh_hant: 清教徒
+    zh_hk: 清教徒
+    zh_sg: 清教徒
+    zh_tw: 清教徒
 ---
 # [[Puritan]] 
 

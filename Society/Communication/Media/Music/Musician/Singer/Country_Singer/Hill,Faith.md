@@ -95,7 +95,7 @@ dv_has_:
     arz: فيث هيل
     ast: Faith Hill
     azb: فیث هیل
-    be-tarask: Фэйт Гіл
+    be_tarask: Фэйт Гіл
     bg: Фейт Хил
     ca: Faith Hill
     cs: Faith Hill
@@ -135,7 +135,7 @@ dv_has_:
     pdc: Faith Hill
     pl: Faith Hill
     pt: Faith Hill
-    pt-br: Faith Hill
+    pt_br: Faith Hill
     ro: Faith Hill
     ru: Фэйт Хилл
     sk: Faith Hill
@@ -151,12 +151,12 @@ dv_has_:
     war: Faith Hill
     yue: 菲絲·希爾
     zh: 菲丝·希尔
-    zh-cn: 菲丝·希尔
-    zh-hans: 菲丝·希尔
-    zh-hant: 菲絲·希爾
-    zh-hk: 菲絲·希爾
-    zh-sg: 费丝·希尔
-    zh-tw: 菲絲·希爾
+    zh_cn: 菲丝·希尔
+    zh_hans: 菲丝·希尔
+    zh_hant: 菲絲·希爾
+    zh_hk: 菲絲·希爾
+    zh_sg: 费丝·希尔
+    zh_tw: 菲絲·希爾
 ---
 # [[Hill,Faith]] 
 

@@ -67,7 +67,7 @@ dv_has_:
   name_:
     ar: تكامل عددي
     ast: Integración numbérica
-    be-tarask: лікавае інтэграваньне
+    be_tarask: лікавае інтэграваньне
     bn: সাংখ্যিক সমাকলন
     bs: numerička integracija
     ca: integració numèrica
@@ -89,9 +89,9 @@ dv_has_:
     it: integrazione numerica
     ja: 数値積分
     kk: сандық интегралдау
-    kk-arab: ساندىق ىينتەگرالداۋ
-    kk-cyrl: сандық интегралдау
-    kk-latn: sandıq ïntegraldaw
+    kk_arab: ساندىق ىينتەگرالداۋ
+    kk_cyrl: сандық интегралдау
+    kk_latn: sandıq ïntegraldaw
     ko: 수치적분
     la: quadratura
     mk: бројчена интеграција
@@ -105,17 +105,17 @@ dv_has_:
     sh: numerička integracija
     sl: numerična integracija
     sr: нумеричка интеграција
-    sr-ec: нумеричка интеграција
-    sr-el: numerička integracija
+    sr_ec: нумеричка интеграција
+    sr_el: numerička integracija
     sv: numerisk integrering
     tr: sayısal entegrasyon
     uk: чисельне інтегрування
     vec: quadradura numèrica
     yue: 數值積分
     zh: 數值積分
-    zh-hans: 数值积分
-    zh-hant: 數值積分
-    zh-hk: 數值積分
+    zh_hans: 数值积分
+    zh_hant: 數值積分
+    zh_hk: 數值積分
 ---
 # [[Numerical_Integration]] 
 

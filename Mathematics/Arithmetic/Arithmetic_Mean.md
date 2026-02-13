@@ -193,7 +193,7 @@ dv_has_:
     ast: Media aritmética
     az: Ədədi orta
     be: сярэдняе арыфметычнае
-    be-tarask: сярэдняе арытмэтычнае
+    be_tarask: сярэдняе арытмэтычнае
     bg: средно аритметично
     bs: Aritmetička sredina
     ca: mitjana aritmètica
@@ -248,8 +248,8 @@ dv_has_:
     sms: aritmeettlaž kõskkärvv
     sq: Mesi aritmetik
     sr: аритметичка средина
-    sr-ec: аритметичка средина
-    sr-el: aritmetička sredina
+    sr_ec: аритметичка средина
+    sr_el: aritmetička sredina
     su: Arithmetic mean
     sv: aritmetiskt medelvärde
     th: มัชฌิมเลขคณิต

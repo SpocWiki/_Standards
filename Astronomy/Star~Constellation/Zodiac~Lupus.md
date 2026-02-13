@@ -105,7 +105,7 @@ dv_has_:
     az: Canavar
     ba: Бүре
     be: Воўк
-    be-tarask: Воўк
+    be_tarask: Воўк
     bg: Вълк
     bn: শার্দূল মণ্ডল
     br: Bleiz
@@ -120,7 +120,7 @@ dv_has_:
     diq: Verg
     el: Λύκος
     en: Lupus
-    en-gb: Lupus
+    en_gb: Lupus
     eo: Lupo
     es: Lobo
     et: Hunt
@@ -181,7 +181,7 @@ dv_has_:
     th: กลุ่มดาวหมาป่า
     tr: Lupus
     tt: Бүре йолдызлыгы
-    tt-cyrl: Бүре
+    tt_cyrl: Бүре
     udm: Кион
     uk: Вовк
     ur: گرگ

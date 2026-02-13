@@ -100,7 +100,7 @@ dv_has_:
     ast: grau sesaxesimal
     az: dərəcə
     be: градус
-    be-tarask: градус
+    be_tarask: градус
     bg: градус
     bho: डिग्री
     bn: ডিগ্রী
@@ -113,11 +113,11 @@ dv_has_:
     cy: gradd
     da: grad
     de: Grad
-    de-ch: Grad
+    de_ch: Grad
     el: μοίρα
     en: degree
-    en-ca: degree
-    en-gb: degree
+    en_ca: degree
+    en_gb: degree
     eo: grado
     es: grado sexagesimal
     et: kraad
@@ -162,14 +162,14 @@ dv_has_:
     pa: ਡਿਗਰੀ
     pl: stopień
     pt: grau
-    pt-br: grau
+    pt_br: grau
     ro: grade sexagesimale
     ru: градус
     sh: stepen
     sk: stupeň
     sl: stopinja
     sr: лучни степен
-    sr-ec: лучни степен
+    sr_ec: лучни степен
     sv: grad
     sw: nyuzi
     ta: பாகை

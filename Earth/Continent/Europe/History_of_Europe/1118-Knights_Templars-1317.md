@@ -176,7 +176,7 @@ dv_has_:
     ast: Caballeros templarios
     az: Tampliyerlər
     be: Тампліеры
-    be-tarask: тампліеры
+    be_tarask: тампліеры
     bg: Тамплиери
     bn: নাইটস টেম্পলার
     br: Urzh an Templ
@@ -188,10 +188,10 @@ dv_has_:
     cy: Urdd y Deml
     da: Tempelridderne
     de: Templerorden
-    de-ch: Templerorden
+    de_ch: Templerorden
     el: Τάγμα του Ναού
     en: Knights Templar
-    en-ca: Knights Templar
+    en_ca: Knights Templar
     eo: Templanoj
     es: Orden del Temple
     et: Templiordu
@@ -224,7 +224,7 @@ dv_has_:
     mk: Темплари
     ms: Knight Templar
     nb: Tempelridderordenen
-    nds-nl: Tìmpelders
+    nds_nl: Tìmpelders
     nl: Tempeliers
     nn: Tempelriddarordenen
     nrm: Orde du Templle
@@ -232,7 +232,7 @@ dv_has_:
     pcd: Orde d'ech Timpe
     pl: templariusze
     pt: Ordem dos Templários
-    pt-br: Ordem dos Templários
+    pt_br: Ordem dos Templários
     ro: Ordinul Templierilor
     ru: Тамплиеры
     sc: Cuadderis templares
@@ -256,7 +256,7 @@ dv_has_:
     wuu: 圣殿骑士团
     yue: 聖殿騎士團
     zh: 聖殿騎士團
-    zh-hans: 圣殿骑士团
+    zh_hans: 圣殿骑士团
 ---
 # [[1118-Knights_Templars-1317]] 
 

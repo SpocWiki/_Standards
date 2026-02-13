@@ -145,7 +145,7 @@ dv_has_:
     azb: گئریلیم
     bar: elektrische Spaunnung
     be: электрычнае напружанне
-    be-tarask: напружаньне
+    be_tarask: напружаньне
     bew: spaneng
     bg: електрическо напрежение
     bn: বিভব
@@ -200,7 +200,7 @@ dv_has_:
     mn: хүчдэл
     mr: विद्युतदाब
     ms: voltan
-    ms-arab: ۏولتن
+    ms_arab: ۏولتن
     mt: voltaġġ
     my: ဗို့အား
     nan: tiān-ap
@@ -226,7 +226,7 @@ dv_has_:
     smn: keeldâ
     sq: tensioni elektrik
     sr: електрични напон
-    sr-ec: електрични напон
+    sr_ec: електрични напон
     su: voltase
     sv: elektrisk spänning
     sw: volteji
@@ -236,7 +236,7 @@ dv_has_:
     tl: boltahe
     tr: gerilim
     tt: электр көчәнеше
-    tt-cyrl: электр көчәнеше
+    tt_cyrl: электр көчәнеше
     udm: напряжение
     ug: توك بېسىمى
     uk: напруга

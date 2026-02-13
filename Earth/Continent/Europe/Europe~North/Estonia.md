@@ -4,7 +4,7 @@ dv_has_:
     ab: Естониа
     ace: Èstonia
     ady: Эстоние
-    aeb-arab: أستونيا
+    aeb_arab: أستونيا
     af: Estland
     alt: Эстония
     am: ኤስቶኒያ
@@ -30,7 +30,7 @@ dv_has_:
     bbc: Estonia
     bcl: Estonya
     be: Эстонія
-    be-tarask: Эстонія
+    be_tarask: Эстонія
     bew: Èstlan
     bg: Естония
     bgn: استونیا
@@ -44,7 +44,7 @@ dv_has_:
     bs: Estonija
     bxr: Эстон
     ca: Estònia
-    cbk-zam: Estonia
+    cbk_zam: Estonia
     cdo: Estonia
     ce: Эстони
     ceb: Estonia
@@ -53,7 +53,7 @@ dv_has_:
     ckb: ئیستۆنیا
     co: Estonia
     crh: Estoniya
-    crh-latn: Estoniya
+    crh_latn: Estoniya
     cs: Estonsko
     csb: Estóńskô
     cu: Єсть
@@ -63,7 +63,7 @@ dv_has_:
     dag: Estonia
     de: Estland
     de-at: Estland
-    de-ch: Estland
+    de_ch: Estland
     din: Estonia
     diq: Estonya
     dsb: Estniska
@@ -73,8 +73,8 @@ dv_has_:
     el: Εσθονία
     eml: Estògna
     en: Estonia
-    en-ca: Estonia
-    en-gb: Estonia
+    en_ca: Estonia
+    en_gb: Estonia
     eo: Estonio
     es: Estonia
     et: Eesti
@@ -99,7 +99,7 @@ dv_has_:
     gn: Etóña
     gom: एस्टोनिया
     gom-deva: एस्टोनिया
-    gom-latn: Estonia
+    gom_latn: Estonia
     got: "\U00010330\U00010339\U00010343\U00010344\U00010330\U0001033B\U00010330\U0001033D\U00010333"
     gpe: Estonia
     gsw: Estland
@@ -171,7 +171,7 @@ dv_has_:
     lzh: 愛沙尼亞
     mad: Estonia
     mai: इस्टोनिया
-    map-bms: Estonia
+    map_bms: Estonia
     mdf: Эсти мастор
     mg: Estonia
     mhr: Эстоний
@@ -195,7 +195,7 @@ dv_has_:
     nap: Estonia
     nb: Estland
     nds: Eestland
-    nds-nl: Estlaand
+    nds_nl: Estlaand
     ne: इस्टोनिया
     new: इस्टोनिया
     nl: Estland
@@ -225,7 +225,7 @@ dv_has_:
     pnt: Εσθονία
     ps: اېستونيا
     pt: Estónia
-    pt-br: Estônia
+    pt_br: Estônia
     qu: Istunya
     rm: Estonia
     rmy: Estoniya
@@ -260,8 +260,8 @@ dv_has_:
     so: Estoniya
     sq: Estonia
     sr: Естонија
-    sr-ec: Естонија
-    sr-el: Estonija
+    sr_ec: Естонија
+    sr_el: Estonija
     srn: Estlenikondre
     ss: IWestoniya
     st: Estonia
@@ -316,14 +316,14 @@ dv_has_:
     zea: Estland
     zgh: ⵉⵙⵜⵓⵏⵢⴰ
     zh: 愛沙尼亞
-    zh-cn: 爱沙尼亚
-    zh-hans: 爱沙尼亚
-    zh-hant: 愛沙尼亞
-    zh-hk: 愛沙尼亞
-    zh-mo: 愛沙尼亞
+    zh_cn: 爱沙尼亚
+    zh_hans: 爱沙尼亚
+    zh_hant: 愛沙尼亞
+    zh_hk: 愛沙尼亞
+    zh_mo: 愛沙尼亞
     zh-my: 爱沙尼亚
-    zh-sg: 爱沙尼亚
-    zh-tw: 愛沙尼亞
+    zh_sg: 爱沙尼亚
+    zh_tw: 愛沙尼亞
     zu: I-Estoniya
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Estonia

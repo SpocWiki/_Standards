@@ -73,7 +73,7 @@ dv_has_:
     ast: Mecánica de medios continuos
     az: Bütöv mühit mexanikası
     be: механіка суцэльных асяроддзяў
-    be-tarask: мэханіка суцэльных асяродзьдзяў
+    be_tarask: мэханіка суцэльных асяродзьдзяў
     bg: Механика на непрекъснатите среди
     bn: সন্তুতি বলবিদ্যা
     bs: Mehanika kontinuuma
@@ -84,8 +84,8 @@ dv_has_:
     de: Kontinuumsmechanik
     el: Μηχανική συνεχούς μέσου
     en: continuum mechanics
-    en-ca: Continuum mechanics
-    en-gb: continuum mechanics
+    en_ca: Continuum mechanics
+    en_gb: continuum mechanics
     eo: kontinuaĵa meĥaniko
     es: mecánica de medios continuos
     et: Pideva keskkonna mehaanika
@@ -103,11 +103,11 @@ dv_has_:
     it: meccanica del continuo
     ja: 連続体力学
     kk: Ағынша
-    kk-arab: اعىنشا
+    kk_arab: اعىنشا
     kk-cn: اعىنشا
-    kk-cyrl: Ағынша
+    kk_cyrl: Ағынша
     kk-kz: Ағынша
-    kk-latn: Ağınşa
+    kk_latn: Ağınşa
     kk-tr: Ağınşa
     ko: 연속체 역학
     lv: nepārtrauktas vides mehānika
@@ -115,13 +115,13 @@ dv_has_:
     ml: തുടർമാനബലതന്ത്രം
     mn: Тасралтгүй механик
     ms: mekanik kontinum
-    ms-arab: ميکانيک کونتينوم
+    ms_arab: ميکانيک کونتينوم
     nan: Liân-sio̍k-thé le̍k-ha̍k
     nb: kontinuumsmekanikk
     nl: continuümmechanica
     pl: mechanika ośrodków ciągłych
     pt: mecânica de meios contínuos
-    pt-br: Mecânica de meios contínuos
+    pt_br: Mecânica de meios contínuos
     ro: Mecanica mediilor continue
     ru: механика сплошных сред
     si: සන්තති යාන්ත්ර විද්යාව
@@ -139,12 +139,12 @@ dv_has_:
     wuu: 连续介质力学
     yue: 連續介質力學
     zh: 连续介质力学
-    zh-cn: 连续介质力学
-    zh-hans: 连续介质力学
-    zh-hant: 連續介質力學
-    zh-hk: 連續介質力學
-    zh-sg: 连续介质力学
-    zh-tw: 連續介質力學
+    zh_cn: 连续介质力学
+    zh_hans: 连续介质力学
+    zh_hant: 連續介質力學
+    zh_hk: 連續介質力學
+    zh_sg: 连续介质力学
+    zh_tw: 連續介質力學
 ---
 # [[Continuum_Mechanics]] 
 

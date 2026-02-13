@@ -61,7 +61,7 @@ dv_has_:
     az: GUAM
     ba: ГУАМ
     be: ГУАМ (арганізацыя)
-    be-tarask: ГУАМ
+    be_tarask: ГУАМ
     bg: ГУАМ
     ca: GUAM
     cs: GUAM
@@ -107,9 +107,9 @@ dv_has_:
     wuu: 古阿鱼组织
     yue: 古阿姆集團
     zh: 古阿姆民主和经济发展组织
-    zh-hans: 古阿姆民主和经济发展组织
-    zh-hant: 古阿姆民主和經濟發展組織
-    zh-hk: 古阿姆民主和經濟發展組織
+    zh_hans: 古阿姆民主和经济发展组织
+    zh_hant: 古阿姆民主和經濟發展組織
+    zh_hk: 古阿姆民主和經濟發展組織
 ---
 # [[GUAM_Organization_for_Democracy_and_Economic_Development]] 
 

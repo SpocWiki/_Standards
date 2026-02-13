@@ -67,7 +67,7 @@ dv_has_:
     ast: George Westinghouse
     az: Corc Vestinqauz
     azb: جرج وستینقهاوس
-    be-tarask: Джордж Ўэстынггаўз
+    be_tarask: Джордж Ўэстынггаўз
     bg: Джордж Уестингхаус
     bs: George Westinghouse
     ca: George Westinghouse
@@ -105,7 +105,7 @@ dv_has_:
     pam: George Westinghouse
     pl: George Westinghouse
     pt: George Westinghouse
-    pt-br: George Westinghouse
+    pt_br: George Westinghouse
     ru: Джордж Вестингауз
     sco: George Westinghouse
     sh: George Westinghouse

@@ -67,7 +67,7 @@ dv_has_:
     ar: تلفاز فضائي
     arz: تلفزيون ستالايت
     ast: Televisión per satélite
-    be-tarask: спадарожнікавае тэлебачаньне
+    be_tarask: спадарожнікавае тэлебачаньне
     bg: Сателитна телевизия
     bn: স্যাটেলাইট টেলিভিশন
     bs: satelitska televizija
@@ -78,8 +78,8 @@ dv_has_:
     de: Satellitenrundfunk
     el: Δορυφορική τηλεόραση
     en: satellite television
-    en-ca: satellite television
-    en-gb: satellite television
+    en_ca: satellite television
+    en_gb: satellite television
     en-us: satellite television
     eo: satelita televido
     es: televisión por satélite
@@ -115,8 +115,8 @@ dv_has_:
     sms: satellitt-televisio
     sq: Televizioni satelitor
     sr: Satelitska televizija
-    sr-ec: Сателитска телевизија
-    sr-el: Satelitska televizija
+    sr_ec: Сателитска телевизија
+    sr_el: Satelitska televizija
     sv: satellit-TV
     ta: செய்மதித் தொலைக்காட்சி
     tg: Телевизиони моҳвораӣ
@@ -129,12 +129,12 @@ dv_has_:
     wuu: 卫星电视
     yue: 衞星電視
     zh: 卫星电视
-    zh-cn: 卫星电视
-    zh-hans: 卫星电视
-    zh-hant: 衛星電視
-    zh-hk: 衛星電視
-    zh-sg: 卫星电视
-    zh-tw: 衛星電視
+    zh_cn: 卫星电视
+    zh_hans: 卫星电视
+    zh_hant: 衛星電視
+    zh_hk: 衛星電視
+    zh_sg: 卫星电视
+    zh_tw: 衛星電視
 ---
 # [[Satellite_TV]] 
 

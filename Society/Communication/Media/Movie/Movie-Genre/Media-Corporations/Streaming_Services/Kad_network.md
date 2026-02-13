@@ -17,11 +17,11 @@ dv_has_:
     ru: Kad Network
     uk: Kad Network
     zh: Kad網路
-    zh-cn: Kad网络
-    zh-hans: Kad网路
-    zh-hant: Kad網路
-    zh-hk: Kad網絡
-    zh-sg: Kad网络
+    zh_cn: Kad网络
+    zh_hans: Kad网路
+    zh_hant: Kad網路
+    zh_hk: Kad網絡
+    zh_sg: Kad网络
 ---
 ## #has_/text_of_/abstract 
 

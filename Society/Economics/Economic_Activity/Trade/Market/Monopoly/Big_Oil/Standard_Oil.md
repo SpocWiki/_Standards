@@ -123,12 +123,12 @@ dv_has_:
     vec: Standard Oil
     vi: Standard Oil
     zh: 标准石油
-    zh-cn: 标准石油
-    zh-hans: 标准石油
-    zh-hant: 標準石油
-    zh-hk: 標準石油
-    zh-sg: 标准石油
-    zh-tw: 標準石油
+    zh_cn: 标准石油
+    zh_hans: 标准石油
+    zh_hant: 標準石油
+    zh_hk: 標準石油
+    zh_sg: 标准石油
+    zh_tw: 標準石油
 ---
 # [[Standard_Oil]] 
 

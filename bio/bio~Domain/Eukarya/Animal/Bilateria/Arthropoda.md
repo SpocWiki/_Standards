@@ -228,7 +228,7 @@ dv_has_:
     ba: Быуынтығаяҡлылар
     bar: Arthropoda
     be: членістаногія
-    be-tarask: суставаногія
+    be_tarask: суставаногія
     bg: членестоноги
     bn: সন্ধিপদী
     br: Arthropoda
@@ -245,11 +245,11 @@ dv_has_:
     da: leddyr
     de: Gliederfüßer
     de-at: Arthropoda
-    de-ch: Gliederfüßer
+    de_ch: Gliederfüßer
     el: αρθρόποδο
     en: arthropod
-    en-ca: Arthropod
-    en-gb: arthropod
+    en_ca: Arthropod
+    en_gb: arthropod
     eo: Artropodoj
     es: artrópodos
     et: lülijalgsed
@@ -320,7 +320,7 @@ dv_has_:
     nap: Arthropoda
     nb: leddyr
     nds: Liddfööt
-    nds-nl: Arthropoda
+    nds_nl: Arthropoda
     ne: अर्थोपोडा
     new: आर्थ्रोपोदा
     nl: geleedpotigen
@@ -339,7 +339,7 @@ dv_has_:
     pnb: ارتھروپوڈ
     ps: بند پایان
     pt: artrópode
-    pt-br: artrópode
+    pt_br: artrópode
     qu: Sillwichaki
     rm: Arthropoda
     ro: artropode
@@ -369,7 +369,7 @@ dv_has_:
     tpi: Binatang
     tr: Eklem bacaklılar
     tt: буынтыкаяклылар
-    tt-cyrl: буынтыкаяклылар
+    tt_cyrl: буынтыкаяклылар
     udm: ёзмугороос
     uk: членистоногі
     ur: مفصلی پایہ
@@ -386,10 +386,10 @@ dv_has_:
     yi: ארטראפאד
     yue: 節肢動物
     zh: 节肢动物门
-    zh-cn: 节肢动物门
-    zh-hans: 节肢动物门
-    zh-hant: 節肢動物
-    zh-tw: 節肢動物
+    zh_cn: 节肢动物门
+    zh_hans: 节肢动物门
+    zh_hant: 節肢動物
+    zh_tw: 節肢動物
     zu: Arthropoda
 ---
 # [[Arthropoda]] 🐛 

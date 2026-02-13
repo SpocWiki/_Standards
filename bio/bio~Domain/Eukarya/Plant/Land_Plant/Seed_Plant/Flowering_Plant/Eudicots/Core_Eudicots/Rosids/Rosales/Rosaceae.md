@@ -111,7 +111,7 @@ dv_has_:
     az: Gülçiçəyikimilər
     ba: Роза һымаҡтар
     be: ружавыя
-    be-tarask: ружавыя
+    be_tarask: ружавыя
     bg: розови
     bn: গোলাপ গোত্র
     bs: Rosaceae
@@ -180,7 +180,7 @@ dv_has_:
     pl: różowate
     pnb: گلاب ٹبر
     pt: Rosaceae
-    pt-br: Rosaceae
+    pt_br: Rosaceae
     qu: Waysallpu yura rikch'aq ayllu
     ro: Rosaceae
     ru: розовые
@@ -200,7 +200,7 @@ dv_has_:
     tl: Rosaceae
     tr: Rosaceae
     tt: розасыманнар
-    tt-cyrl: розасыманнар
+    tt_cyrl: розасыманнар
     uk: трояндові
     uz: Raʼnodoshlar
     vep: Rozanvuiččed
@@ -213,10 +213,10 @@ dv_has_:
     xmf: ვარდიშობურეფი
     yue: 薔薇科
     zh: 蔷薇科
-    zh-cn: 蔷薇科
-    zh-hans: 蔷薇科
-    zh-hant: 薔薇科
-    zh-tw: 蔷薇科
+    zh_cn: 蔷薇科
+    zh_hans: 蔷薇科
+    zh_hant: 薔薇科
+    zh_tw: 蔷薇科
 ---
 # [[Rosaceae]] 
 

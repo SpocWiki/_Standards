@@ -38,7 +38,7 @@ dv_has_:
     ast: casus belli
     az: casus belli
     be: casus belli
-    be-tarask: casus belli
+    be_tarask: casus belli
     bg: casus belli
     bs: casus belli
     ca: casus belli

@@ -116,7 +116,7 @@ dv_has_:
     ast: plataforma continental
     az: şelf
     be: шэльф
-    be-tarask: шэльф
+    be_tarask: шэльф
     bg: континентален шелф
     bho: महाद्वीपीय शेल्फ
     bn: মহীসোপান
@@ -174,8 +174,8 @@ dv_has_:
     sk: šelf
     sl: kontinentalni šelf
     sr: Континентални праг
-    sr-ec: континентални праг
-    sr-el: kontinentalni prag
+    sr_ec: континентални праг
+    sr_el: kontinentalni prag
     sv: kontinentalsockel
     sw: tako la bara
     ta: கண்டத் திட்டு
@@ -191,12 +191,12 @@ dv_has_:
     wuu: 大陆架
     yue: 大陸架
     zh: 大陆架
-    zh-cn: 大陆架
-    zh-hans: 大陆架
-    zh-hant: 大陸棚
-    zh-hk: 大陸棚
-    zh-sg: 大陆架
-    zh-tw: 大陸棚
+    zh_cn: 大陆架
+    zh_hans: 大陆架
+    zh_hant: 大陸棚
+    zh_hk: 大陸棚
+    zh_sg: 大陆架
+    zh_tw: 大陸棚
 ---
 # [[Continental_Shelf]] 
 

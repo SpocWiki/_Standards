@@ -57,7 +57,7 @@ dv_has_:
     ar: إيوفونيوم
     ast: bombardín
     az: Eufonium
-    be-tarask: эўфаніюм
+    be_tarask: эўфаніюм
     ca: bombardí
     cs: eufonium
     cy: Ewffoniwm
@@ -93,7 +93,7 @@ dv_has_:
     nn: Eufonium
     pl: Eufonium
     pt: eufônio
-    pt-br: Bombardino
+    pt_br: Bombardino
     ru: эуфониум
     scn: Bummardinu
     sl: evfonij
@@ -105,11 +105,11 @@ dv_has_:
     uz: Eufonium
     yue: 上低音號
     zh: 粗管上低音號
-    zh-cn: 粗管上低音号
-    zh-hans: 粗管上低音号
-    zh-hant: 粗管上低音號
-    zh-hk: 粗管上低音號
-    zh-tw: 粗管上低音號
+    zh_cn: 粗管上低音号
+    zh_hans: 粗管上低音号
+    zh_hant: 粗管上低音號
+    zh_hk: 粗管上低音號
+    zh_tw: 粗管上低音號
 ---
 # [[Euphonium]] 
 

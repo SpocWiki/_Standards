@@ -152,7 +152,7 @@ dv_has_:
     az: İldırım
     ba: Күк күкрәү
     be: навальніца
-    be-tarask: навальніца
+    be_tarask: навальніца
     bg: гръмотевична буря
     bho: झंझावात
     bn: বজ্রঝড়
@@ -166,8 +166,8 @@ dv_has_:
     de: Gewitter
     el: Καταιγίδα
     en: thunderstorm
-    en-ca: Thunderstorm
-    en-gb: thunderstorm
+    en_ca: Thunderstorm
+    en_gb: thunderstorm
     eo: fulmotondro
     es: tormenta eléctrica
     et: Äike
@@ -213,7 +213,7 @@ dv_has_:
     pl: burza
     pnb: طوفان برق و باراں
     pt: trovoada
-    pt-br: Trovoada
+    pt_br: Trovoada
     qu: Tuyur
     ro: Furtună cu fulgere
     ru: гроза
@@ -237,7 +237,7 @@ dv_has_:
     xmf: ტყვაცი დო გურგინი
     yue: 行雷閃電
     zh: 雷暴
-    zh-hant: 雷暴
+    zh_hant: 雷暴
 ---
 # [[Thunderstorm]] 
 

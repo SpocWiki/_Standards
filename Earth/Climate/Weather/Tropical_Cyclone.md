@@ -190,7 +190,7 @@ dv_has_:
     bar: tropischa Wiabeschtuam
     bcl: bagyo
     be: трапічны цыклон
-    be-tarask: трапічны цыклён
+    be_tarask: трапічны цыклён
     bg: тропически циклон
     bho: उष्णकटिबंधी चक्रवात
     bi: bigwin
@@ -211,8 +211,8 @@ dv_has_:
     diq: siklono tropik
     el: τροπικός κυκλώνας
     en: tropical cyclone
-    en-ca: tropical cyclone
-    en-gb: tropical cyclone
+    en_ca: tropical cyclone
+    en_gb: tropical cyclone
     eo: tropika ciklono
     es: ciclón tropical
     et: troopiline tsüklon
@@ -267,7 +267,7 @@ dv_has_:
     mn: тропикийн циклон
     mr: हरिकेन
     ms: siklon tropika
-    ms-arab: سيکلون تروڤيکا
+    ms_arab: سيکلون تروڤيکا
     mwl: ciclone tropical
     my: အပူပိုင်း ဆိုင်ကလုန်း
     nan: hong-thai
@@ -286,7 +286,7 @@ dv_has_:
     pnb: چکھڑ
     ps: استوايي توپان (د ګردجنې بړبوکۍ توپان)
     pt: ciclone tropical
-    pt-br: ciclone tropical
+    pt_br: ciclone tropical
     qu: hatun pillunkuy
     ro: ciclon tropical
     ru: тропический циклон
@@ -325,14 +325,14 @@ dv_has_:
     yo: Ìjìláyípo Ilẹ̀-Olóoru
     yue: 熱帶氣旋
     zh: 熱帶氣旋
-    zh-cn: 热带气旋
-    zh-hans: 热带气旋
-    zh-hant: 熱帶氣旋
-    zh-hk: 熱帶氣旋
-    zh-mo: 熱帶氣旋
+    zh_cn: 热带气旋
+    zh_hans: 热带气旋
+    zh_hant: 熱帶氣旋
+    zh_hk: 熱帶氣旋
+    zh_mo: 熱帶氣旋
     zh-my: 热带气旋
-    zh-sg: 热带气旋
-    zh-tw: 熱帶氣旋
+    zh_sg: 热带气旋
+    zh_tw: 熱帶氣旋
 ---
 # [[Tropical_Cyclone]] 
 

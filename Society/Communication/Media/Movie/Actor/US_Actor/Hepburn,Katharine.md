@@ -133,7 +133,7 @@ dv_has_:
     ba: Кэтрин Хепбёрн
     bar: Katharine Hepburn
     be: Кэтрын Хепбёрн
-    be-tarask: Кэтрын Гэпбэрн
+    be_tarask: Кэтрын Гэпбэрн
     bg: Катрин Хепбърн
     bi: Katharine Hepburn
     bn: ক্যাথরিন হেপবার্ন
@@ -144,12 +144,12 @@ dv_has_:
     cy: Katharine Hepburn
     da: Katharine Hepburn
     de: Katharine Hepburn
-    de-ch: Katharine Hepburn
+    de_ch: Katharine Hepburn
     diq: Katharine Hepburn
     el: Κάθριν Χέπμπορν
     en: Katharine Hepburn
-    en-ca: Katharine Hepburn
-    en-gb: Katharine Hepburn
+    en_ca: Katharine Hepburn
+    en_gb: Katharine Hepburn
     eo: Katharine Hepburn
     es: Katharine Hepburn
     et: Katharine Hepburn
@@ -203,7 +203,7 @@ dv_has_:
     pap: Katharine Hepburn
     pl: Katharine Hepburn
     pt: Katharine Hepburn
-    pt-br: Katharine Hepburn
+    pt_br: Katharine Hepburn
     qu: Katharine Hepburn
     ro: Katharine Hepburn
     ru: Кэтрин Хепбёрн
@@ -214,7 +214,7 @@ dv_has_:
     smn: Katharine Hepburn
     sq: Katharine Hepburn
     sr: Кетрин Хепберн
-    sr-ec: Кетрин Хепберн
+    sr_ec: Кетрин Хепберн
     sv: Katharine Hepburn
     sw: Katharine Hepburn
     ta: கத்தரீன் ஹெப்பர்ன்

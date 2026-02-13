@@ -128,7 +128,7 @@ dv_has_:
     az: cinayət hüququ
     azb: کیفری حوقوق
     be: крымінальнае права
-    be-tarask: крымінальнае права
+    be_tarask: крымінальнае права
     bg: Наказателно право
     bn: ফৌজদারি আইন
     bs: Krivično pravo
@@ -163,11 +163,11 @@ dv_has_:
     ja: 刑法
     ka: სისხლის სამართალი
     kk: Қылмыстық құқық
-    kk-arab: قىلمىستىق قۇقىق
+    kk_arab: قىلمىستىق قۇقىق
     kk-cn: قىلمىستىق قۇقىق
-    kk-cyrl: Қылмыстық құқық
+    kk_cyrl: Қылмыстық құқық
     kk-kz: Қылмыстық құқық
-    kk-latn: Qılmıstıq quqıq
+    kk_latn: Qılmıstıq quqıq
     kk-tr: Qılmıstıq quqıq
     ko: 형법
     ky: Кылмыш-жаза укугу
@@ -178,16 +178,16 @@ dv_has_:
     min: Hukum pidana
     mk: кривично право
     ms: undang-undang jenayah
-    ms-arab: اوندڠ٢ جنايه
+    ms_arab: اوندڠ٢ جنايه
     nb: strafferett
-    nds-nl: strafrecht
+    nds_nl: strafrecht
     ne: आपराधिक कानुन
     nl: strafrecht
     oc: Drech penau
     pa: ਅਪਰਾਧਿਕ ਕਾਨੂੰਨ
     pl: prawo karne
     pt: direito penal
-    pt-br: Direito criminal
+    pt_br: Direito criminal
     ro: drept penal
     ru: уголовное право
     se: ráŋggáštusriekti
@@ -200,8 +200,8 @@ dv_has_:
     sms: kriminaalvuõiǥâs
     sq: E drejta penale
     sr: кривично право
-    sr-ec: кривично право
-    sr-el: krivično pravo
+    sr_ec: кривично право
+    sr_el: krivično pravo
     su: Hukum pidana
     sv: straffrätt
     ta: குற்றவியல் சட்டம்
@@ -219,14 +219,14 @@ dv_has_:
     yue: 刑法
     zgh: ⴰⵣⵔⴼ ⴰⵏⴱⴽⴰⴹ
     zh: 刑法
-    zh-cn: 刑法
-    zh-hans: 刑法
-    zh-hant: 刑法
-    zh-hk: 刑事法
-    zh-mo: 刑法
+    zh_cn: 刑法
+    zh_hans: 刑法
+    zh_hant: 刑法
+    zh_hk: 刑事法
+    zh_mo: 刑法
     zh-my: 刑法
-    zh-sg: 刑法
-    zh-tw: 刑法
+    zh_sg: 刑法
+    zh_tw: 刑法
 ---
 # [[Criminal_Law]] 
 

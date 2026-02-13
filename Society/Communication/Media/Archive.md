@@ -155,7 +155,7 @@ dv_has_:
     az: Arxiv
     ba: архив
     be: архіў
-    be-tarask: архіў
+    be_tarask: архіў
     bg: архив
     bn: সংরক্ষণাগার
     br: diell
@@ -169,8 +169,8 @@ dv_has_:
     de: Archiv
     el: αρχείο
     en: archives
-    en-ca: archive
-    en-gb: archive
+    en_ca: archive
+    en_gb: archive
     eo: arkivo
     es: archivo
     et: arhiiv
@@ -192,7 +192,7 @@ dv_has_:
     id: arsip
     ig: ọbá ndebe ihe
     ike-cans: ᓂᐱ
-    ike-latn: nipi
+    ike_latn: nipi
     io: Arkivo
     is: skjalasafn
     it: archivio
@@ -217,7 +217,7 @@ dv_has_:
     mn: Архив
     mr: पुराभिलेखागार
     ms: arkib
-    ms-arab: ارکيب
+    ms_arab: ارکيب
     my: မော်ကွန်းတိုက်
     nan: Tóng-àn-khò͘
     nb: arkiv
@@ -231,7 +231,7 @@ dv_has_:
     pl: archiwum
     pnb: آرکائیو
     pt: arquivo
-    pt-br: arquivo
+    pt_br: arquivo
     rmf: arkiivos
     ru: архив
     scn: Archiviu
@@ -248,8 +248,8 @@ dv_has_:
     sms: arkiiv
     sq: arkiv
     sr: архив
-    sr-ec: архив
-    sr-el: arhiv
+    sr_ec: архив
+    sr_el: arhiv
     sv: arkiv
     szl: archiwum
     ta: ஆவணக் காப்பகம்
@@ -258,7 +258,7 @@ dv_has_:
     th: จดหมายเหตุ
     tr: arşiv
     tt: архив
-    tt-cyrl: архив
+    tt_cyrl: архив
     uk: архів
     ur: وثق
     uz: Arxiv
@@ -267,12 +267,12 @@ dv_has_:
     wuu: 档案
     yue: 檔案館
     zh: 檔案館
-    zh-cn: 档案馆
-    zh-hans: 档案
-    zh-hant: 檔案館
-    zh-hk: 檔案館
-    zh-sg: 档案
-    zh-tw: 檔案館
+    zh_cn: 档案馆
+    zh_hans: 档案
+    zh_hant: 檔案館
+    zh_hk: 檔案館
+    zh_sg: 档案
+    zh_tw: 檔案館
     zu: Umqogelelo
 ---
 # [[Archive]] 

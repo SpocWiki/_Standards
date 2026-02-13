@@ -91,7 +91,7 @@ dv_has_:
     oc: Carcharhiniformes
     pl: żarłaczokształtne
     pt: Carcharhiniformes
-    pt-br: Carcharhiniformes
+    pt_br: Carcharhiniformes
     ro: Carcharhiniformes
     ru: кархаринообразные
     sk: Žralokotvaré
@@ -107,8 +107,8 @@ dv_has_:
     vo: Carcharhiniformes
     war: Carcharhiniformes
     zh: 真鲨目
-    zh-cn: 真鲨目
-    zh-tw: 真鯊目
+    zh_cn: 真鲨目
+    zh_tw: 真鯊目
 ---
 # [[Carcharhiniformes]] 
 

@@ -143,7 +143,7 @@ dv_has_:
     az: Naxırçı
     ba: Үгеҙкөтөүсө
     be: Валапас
-    be-tarask: Валапас
+    be_tarask: Валапас
     bg: Воловар
     bn: ভূতেশ মণ্ডল
     bo: ཕྱུགས་རྫིའི་སྐར་ཚོམ་
@@ -159,7 +159,7 @@ dv_has_:
     diq: Şıwane
     el: Βοώτης
     en: Boötes
-    en-gb: Boötes
+    en_gb: Boötes
     eo: Bovisto
     es: Boötes
     et: Karjane
@@ -231,9 +231,9 @@ dv_has_:
     wuu: 牧夫座
     yue: 牧夫座
     zh: 牧夫座
-    zh-hans: 牧夫座
-    zh-hant: 牧夫座
-    zh-tw: 牧夫座
+    zh_hans: 牧夫座
+    zh_hant: 牧夫座
+    zh_tw: 牧夫座
 dv_is_:
   same_as:
   - '[[../../WikiData/WD~Boötes,8667|WD~Boötes,8667]]'

@@ -202,7 +202,7 @@ dv_has_:
     ba: Эрнест Хемингуэй
     bcl: Ernest Hemingway
     be: Эрнэст Хемінгуэй
-    be-tarask: Эрнэст Гэмінгўэй
+    be_tarask: Эрнэст Гэмінгўэй
     bg: Ърнест Хемингуей
     bho: अर्नस्ट हेमिंग्वे
     bn: আর্নেস্ট হেমিংওয়ে
@@ -223,8 +223,8 @@ dv_has_:
     dv: އާނިސްޓް ހެމިންވޭ
     el: Έρνεστ Χέμινγουεϊ
     en: Ernest Hemingway
-    en-ca: Ernest Hemingway
-    en-gb: Ernest Hemingway
+    en_ca: Ernest Hemingway
+    en_gb: Ernest Hemingway
     eo: Ernest Hemingway
     es: Ernest Hemingway
     et: Ernest Hemingway
@@ -304,7 +304,7 @@ dv_has_:
     pnb: ارنسٹ ہیمنگو ے
     ps: ارنېست مېلر هېمېنگوې
     pt: Ernest Hemingway
-    pt-br: Ernest Hemingway
+    pt_br: Ernest Hemingway
     qu: Ernest Hemingway
     ro: Ernest Hemingway
     ru: Эрнест Хемингуэй
@@ -344,7 +344,7 @@ dv_has_:
     yue: 海明威
     zgh: ⵉⵔⵏⵉⵙⵜ ⵀⵉⵎⵉⵏⴳⵡⴰⵢ
     zh: 欧内斯特·海明威
-    zh-cn: 欧内斯特·海明威
+    zh_cn: 欧内斯特·海明威
 ---
 # [[Hemingway,Ernest]] 
 

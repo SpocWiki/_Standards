@@ -101,7 +101,7 @@ dv_has_:
     az: transplantasiya
     ba: трансплантация
     be: трансплантацыя
-    be-tarask: трансплянтацыя
+    be_tarask: трансплянтацыя
     bg: трансплантация
     bn: অঙ্গ প্রতিস্থাপন
     bs: transplantacija
@@ -111,11 +111,11 @@ dv_has_:
     cy: trawsblannu
     da: transplantation
     de: Transplantation
-    de-ch: Transplantation
+    de_ch: Transplantation
     el: μεταμόσχευση
     en: transplantation
-    en-ca: transplantation
-    en-gb: transplantation
+    en_ca: transplantation
+    en_gb: transplantation
     eo: transplantado
     es: trasplante
     et: siirdamine
@@ -140,11 +140,11 @@ dv_has_:
     ja: 移植
     ka: ტრანსპლანტოლოგია
     kk: ағзалар мен тіндерді ауыстыру
-    kk-arab: اعزالار مەن تىندەردى اۋىستىرۋ
+    kk_arab: اعزالار مەن تىندەردى اۋىستىرۋ
     kk-cn: اعزالار مەن تىندەردى اۋىستىرۋ
-    kk-cyrl: ағзалар мен тіндерді ауыстыру
+    kk_cyrl: ағзалар мен тіндерді ауыстыру
     kk-kz: ағзалар мен тіндерді ауыстыру
-    kk-latn: ağzalar men tinderdi awıstırw
+    kk_latn: ağzalar men tinderdi awıstırw
     kk-tr: ağzalar men tinderdi awıstırw
     ko: 이식
     ky: трансплантация
@@ -165,7 +165,7 @@ dv_has_:
     pi: अंग प्रत्यारोपण
     pl: transplantacja
     pt: transplantação
-    pt-br: transplantação
+    pt_br: transplantação
     ro: transplant
     ru: трансплантация
     sa: अङ्गप्रत्यारोपणम्
@@ -177,8 +177,8 @@ dv_has_:
     smn: orgaansirdem
     sq: transplantimi i organeve
     sr: трансплантација
-    sr-ec: трансплантација
-    sr-el: transplantacija
+    sr_ec: трансплантација
+    sr_el: transplantacija
     sv: transplantation
     ta: உறுப்பு மாற்று
     th: การปลูกถ่ายอวัยวะ
@@ -191,12 +191,12 @@ dv_has_:
     yi: גלידער איבערפלאנצונג
     yue: 器官移植
     zh: 器官移植
-    zh-cn: 器官移植
-    zh-hans: 器官移植
-    zh-hant: 器官移植
-    zh-hk: 器官移植
-    zh-sg: 器官移植
-    zh-tw: 器官移植
+    zh_cn: 器官移植
+    zh_hans: 器官移植
+    zh_hant: 器官移植
+    zh_hk: 器官移植
+    zh_sg: 器官移植
+    zh_tw: 器官移植
 ---
 # [[Organ_Transplantation]] 
 

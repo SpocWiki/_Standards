@@ -5,7 +5,7 @@ dv_has_:
     ang: eormennett þegnung foresēond
     ar: مزود خدمة الإنترنت
     az: İnternet xidmət provayderi
-    be-tarask: інтэрнэт-правайдэр
+    be_tarask: інтэрнэт-правайдэр
     bg: интернет доставчик
     bn: ইন্টারনেট সেবা প্রদানকারী
     bs: ISP
@@ -14,7 +14,7 @@ dv_has_:
     cs: poskytovatel internetového připojení
     da: internetudbyder
     de: Internetdienstanbieter
-    de-ch: Internetdienstanbieter
+    de_ch: Internetdienstanbieter
     el: πάροχος υπηρεσιών Διαδικτύου
     en: internet service provider
     eo: provizanto de retkonekto
@@ -41,7 +41,7 @@ dv_has_:
     kn: ಅಂತರ್ಜಾಲ ಸೇವಾ ಸಂಸ್ಥೆಗಳು
     ko: 인터넷 서비스 제공자
     ku: weşangerê înternetê
-    ku-latn: weşangerê înternetê
+    ku_latn: weşangerê înternetê
     ky: провайдер
     lb: Internet service provider
     li: Internet provider
@@ -50,7 +50,7 @@ dv_has_:
     min: panyalanggaro jaso internet
     mk: семрежен услужник
     ms: pembekal khidmat Internet
-    ms-arab: ڤمبکل خدمت اينترنيت
+    ms_arab: ڤمبکل خدمت اينترنيت
     my: အင်တာနက်ဝန်ဆောင်မှုပေးသူ
     nb: internettleverandør
     ne: इन्टरनेट सेवा प्रदायक
@@ -58,7 +58,7 @@ dv_has_:
     nn: internettleverandør
     pl: dostawca usług internetowych
     pt: fornecedor de acesso à Internet
-    pt-br: fornecedor de acesso à Internet
+    pt_br: fornecedor de acesso à Internet
     rki: အင်တာနက်ဝန်ဆောင်မှုပီးသူ
     ro: furnizor de servicii Internet
     ru: интернет-провайдер
@@ -67,8 +67,8 @@ dv_has_:
     sl: ponudnik spletnih storitev
     sq: ofruesi i shërbimit të Internetit
     sr: интернет провајдер
-    sr-ec: интернет провајдер
-    sr-el: internet provajder
+    sr_ec: интернет провајдер
+    sr_el: internet provajder
     sv: internetleverantör
     sw: mtoa huduma za tovuti
     ta: இணையச் சேவை வழங்கி
@@ -76,7 +76,7 @@ dv_has_:
     th: ผู้ให้บริการอินเทอร์เน็ต
     tr: İnternet servis sağlayıcısı
     tt: интернет-провайдер
-    tt-cyrl: интернет-провайдер
+    tt_cyrl: интернет-провайдер
     uk: надавач послуг інтернету
     ur: جالبینی خدمت مُنعِم
     uz: provayder
@@ -85,7 +85,7 @@ dv_has_:
     wuu: 互联网服务供应商
     yue: 互聯網服務供應商
     zh: 互联网服务供应商
-    zh-hant: 網路服務提供者
+    zh_hant: 網路服務提供者
 aliases:
 - dostawca usług internetowych
 - eormennett þegnung foresēond

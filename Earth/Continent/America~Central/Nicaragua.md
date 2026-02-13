@@ -472,7 +472,7 @@ dv_has_:
   name_:
     ace: Nikaragua
     ady: Никарагуа
-    aeb-arab: نيكاراڨوا
+    aeb_arab: نيكاراڨوا
     af: Nicaragua
     am: ኒካራጓ
     ami: Nicaragua
@@ -493,7 +493,7 @@ dv_has_:
     bbc: Nikaragua
     bcl: Nikaragua
     be: Нікарагуа
-    be-tarask: Нікарагуа
+    be_tarask: Нікарагуа
     bew: Nikaragua
     bg: Никарагуа
     bho: निकारागुआ
@@ -506,13 +506,13 @@ dv_has_:
     bs: Nikaragva
     bxr: Никарагуа
     ca: Nicaragua
-    cbk-zam: Nicaragua
+    cbk_zam: Nicaragua
     cdo: Nicaragua
     ce: Никарагуа
     ceb: Nicaragua
     ckb: نیکاراگوا
     crh: Nikaragua
-    crh-latn: Nikaragua
+    crh_latn: Nikaragua
     cs: Nikaragua
     cv: Никарагуа
     cy: Nicaragua
@@ -520,7 +520,7 @@ dv_has_:
     dag: Nicaragua
     de: Nicaragua
     de-at: Nicaragua
-    de-ch: Nicaragua
+    de_ch: Nicaragua
     diq: Nikaragua
     dsb: Nikaragua
     dty: निकाराग्वा
@@ -528,8 +528,8 @@ dv_has_:
     ee: Nicaragua
     el: Νικαράγουα
     en: Nicaragua
-    en-ca: Nicaragua
-    en-gb: Nicaragua
+    en_ca: Nicaragua
+    en_gb: Nicaragua
     eo: Nikaragvo
     es: Nicaragua
     et: Nicaragua
@@ -553,7 +553,7 @@ dv_has_:
     gn: Nikaragua
     gom: निकारागुआ
     gom-deva: निकारागुआ
-    gom-latn: Nicaragua
+    gom_latn: Nicaragua
     gpe: Nicaragua
     gsw: Nicaragua
     gu: નિકારાગુઆ
@@ -632,7 +632,7 @@ dv_has_:
     nan: Nicaragua
     nb: Nicaragua
     nds: Nicaragua
-    nds-nl: Nikaragua
+    nds_nl: Nikaragua
     ne: निकाराग्वा
     new: निकारागुआ
     nl: Nicaragua
@@ -656,7 +656,7 @@ dv_has_:
     pnb: نکاراگوا
     ps: نيکاراګوای
     pt: Nicarágua
-    pt-br: Nicarágua
+    pt_br: Nicarágua
     qu: Nikarawa
     rki: နီကာရာဂွာ သမ္မတနိုင်ငံ
     rmy: Nicaragua
@@ -686,8 +686,8 @@ dv_has_:
     so: Nikaragua
     sq: Nikaraguaja
     sr: Никарагва
-    sr-ec: Никарагва
-    sr-el: Nikaragva
+    sr_ec: Никарагва
+    sr_el: Nikaragva
     ss: INikhalaga
     stq: Nicaragua
     su: Nikaragua
@@ -731,11 +731,11 @@ dv_has_:
     zea: Nicaragua
     zgh: ⵏⵉⴽⴰⵔⴰⴳⵡⴰ
     zh: 尼加拉瓜
-    zh-cn: 尼加拉瓜
-    zh-hans: 尼加拉瓜
-    zh-hant: 尼加拉瓜
-    zh-hk: 尼加拉瓜
-    zh-tw: 尼加拉瓜
+    zh_cn: 尼加拉瓜
+    zh_hans: 尼加拉瓜
+    zh_hant: 尼加拉瓜
+    zh_hk: 尼加拉瓜
+    zh_tw: 尼加拉瓜
     zu: i-Nicaragua
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Nicaragua

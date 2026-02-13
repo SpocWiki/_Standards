@@ -28,7 +28,7 @@ dv_has_:
     az: Unicode
     bar: Unicode
     be: Юнікод
-    be-tarask: Юнікод
+    be_tarask: Юнікод
     bg: Уникод
     bho: युनिकोड
     blk: ယူနီကုဒ်ကရိုꩻနောဝ်ꩻ
@@ -46,8 +46,8 @@ dv_has_:
     de: Unicode
     el: Unicode
     en: Unicode
-    en-ca: Unicode
-    en-gb: Unicode
+    en_ca: Unicode
+    en_gb: Unicode
     eo: Unikodo
     es: Unicode
     et: Unicode
@@ -107,7 +107,7 @@ dv_has_:
     pnb: یونیکوڈ
     ps: يونيکوډ
     pt: Unicode
-    pt-br: Unicode
+    pt_br: Unicode
     ro: Unicode
     ru: Юникод
     sa: युनिकोड
@@ -122,8 +122,8 @@ dv_has_:
     sl: Unicode
     sq: Unicode
     sr: Уникод
-    sr-ec: Уникод
-    sr-el: Unikod
+    sr_ec: Уникод
+    sr_el: Unikod
     su: Unicode
     sv: Unicode
     sw: Unicode
@@ -136,7 +136,7 @@ dv_has_:
     tok: toki ilo Juniko
     tr: Unicode
     tt: Юникод
-    tt-cyrl: Юникод
+    tt_cyrl: Юникод
     tyv: Юникод
     ug: Unicode
     uk: Юнікод
@@ -151,13 +151,13 @@ dv_has_:
     yue: 統一碼
     zea: Unicode
     zh: Unicode
-    zh-cn: Unicode
-    zh-hans: Unicode
-    zh-hant: Unicode
-    zh-hk: Unicode
-    zh-mo: Unicode
-    zh-sg: Unicode
-    zh-tw: 統一碼
+    zh_cn: Unicode
+    zh_hans: Unicode
+    zh_hant: Unicode
+    zh_hk: Unicode
+    zh_mo: Unicode
+    zh_sg: Unicode
+    zh_tw: 統一碼
 aliases:
 - toki ilo Juniko
 - Unicode

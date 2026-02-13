@@ -81,7 +81,7 @@ dv_has_:
   name_:
     ar: أعمال نجارة
     be: дрэваапрацоўка
-    be-tarask: дрэваапрацоўка
+    be_tarask: дрэваапрацоўка
     bg: дървообработка
     bn: কাঠের কাজ
     ca: treball de la fusta
@@ -122,8 +122,8 @@ dv_has_:
     sh: Obrada drveta
     sl: obdelava lesa
     sr: обрада дрвета
-    sr-ec: обрада дрвета
-    sr-el: obrada drveta
+    sr_ec: обрада дрвета
+    sr_el: obrada drveta
     su: sugu
     sv: trähantverk
     tr: ahşap işçiliği
@@ -132,9 +132,9 @@ dv_has_:
     uz: duradgorlik
     yue: 木工
     zh: 木工
-    zh-hans: 木工
-    zh-hant: 木工
-    zh-hk: 木工
+    zh_hans: 木工
+    zh_hant: 木工
+    zh_hk: 木工
 ---
 # [[Woodworking]] 
 

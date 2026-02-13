@@ -94,7 +94,7 @@ dv_has_:
     pap: Ann Wilson
     pl: Ann Wilson
     pt: Ann Wilson
-    pt-br: Ann Wilson
+    pt_br: Ann Wilson
     ru: Энн Уилсон
     sk: Ann Wilson
     sl: Ann Wilson

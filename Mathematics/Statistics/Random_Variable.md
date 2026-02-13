@@ -87,7 +87,7 @@ dv_has_:
     az: təsadüfi Kəmiyyət
     ba: осраҡлы дәүмәл
     be: выпадковая велічыня
-    be-tarask: выпадковая велічыня
+    be_tarask: выпадковая велічыня
     bg: Случайна величина
     bn: দৈব চলক
     ca: variable aleatòria
@@ -129,7 +129,7 @@ dv_has_:
     nl: stochastische variabele
     pl: zmienna losowa
     pt: variável aleatória
-    pt-br: variável aleatória
+    pt_br: variável aleatória
     ro: variabilă aleatoare
     ru: случайная величина
     scn: variabbili aliatoria
@@ -137,8 +137,8 @@ dv_has_:
     sl: naključna spremenljivka
     sq: Ndryshorja e rastit
     sr: случајна променљива
-    sr-ec: случајна променљива
-    sr-el: slučajna promenljiva
+    sr_ec: случајна променљива
+    sr_el: slučajna promenljiva
     su: variabel acak
     sv: stokastisk variabel
     ta: சமவாய்ப்பு மாறி
@@ -151,7 +151,7 @@ dv_has_:
     vi: Biến ngẫu nhiên
     yue: 隨機變數
     zh: 随机变量
-    zh-tw: 隨機變數
+    zh_tw: 隨機變數
 ---
 # [[Random_Variable]] 
 

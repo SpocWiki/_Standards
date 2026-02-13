@@ -27,11 +27,11 @@ dv_has_:
     da: Die Welt
     de: Die Welt
     de-at: Die Welt
-    de-ch: Die Welt
+    de_ch: Die Welt
     el: Die Welt
     en: Die Welt
-    en-ca: Die Welt
-    en-gb: Die Welt
+    en_ca: Die Welt
+    en_gb: Die Welt
     eo: Die Welt
     es: Die Welt
     et: Die Welt
@@ -70,9 +70,9 @@ dv_has_:
     ur: ڈائی ولٹ
     vi: Die Welt
     zh: 世界报
-    zh-cn: 世界报
-    zh-hans: 世界报
-    zh-hant: 世界報
+    zh_cn: 世界报
+    zh_hans: 世界报
+    zh_hant: 世界報
 ---
 ## #has_/text_of_/abstract 
 

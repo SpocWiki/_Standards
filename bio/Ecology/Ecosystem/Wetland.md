@@ -116,7 +116,7 @@ dv_has_:
     az: Sulaq
     bas: pɛ̀s mbɔk i ŋgì num
     be: водна-балотныя ўгоддзі
-    be-tarask: водна-балотныя ўгодзьдзі
+    be_tarask: водна-балотныя ўгодзьдзі
     bg: влажна зона
     bjn: Lahan basah
     bn: জলাভূমি
@@ -175,7 +175,7 @@ dv_has_:
     pnb: جلگاہ
     ps: لنده بل ځمکې
     pt: zona húmida
-    pt-br: zona úmida
+    pt_br: zona úmida
     ro: zonă umedă
     ru: водно-болотные угодья
     sco: wetland
@@ -201,12 +201,12 @@ dv_has_:
     wuu: 湿地
     yue: 濕地
     zh: 湿地
-    zh-cn: 湿地
-    zh-hans: 湿地
-    zh-hant: 濕地
-    zh-hk: 濕地
-    zh-sg: 湿地
-    zh-tw: 濕地
+    zh_cn: 湿地
+    zh_hans: 湿地
+    zh_hant: 濕地
+    zh_hk: 濕地
+    zh_sg: 湿地
+    zh_tw: 濕地
 ---
 # [[Wetland]] 
 

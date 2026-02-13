@@ -188,7 +188,7 @@ dv_has_:
     ba: Афразия телдәре
     bar: Afroasiatische Sprochn
     be: афразійскія мовы
-    be-tarask: афразійскія мовы
+    be_tarask: афразійскія мовы
     bg: Aфро-азиатски езици
     bn: আফ্রো-এশীয় ভাষাসমূহ
     br: yezhoù afrikat-hag-aziat
@@ -204,8 +204,8 @@ dv_has_:
     dsb: afroaziske rěcy
     el: αφροασιατικές γλώσσες
     en: Afroasiatic
-    en-ca: Afroasiatic
-    en-gb: Afroasiatic
+    en_ca: Afroasiatic
+    en_gb: Afroasiatic
     eo: afrikazia lingvaro
     es: lenguas afroasiáticas
     et: afroaasia keeled
@@ -274,7 +274,7 @@ dv_has_:
     pnb: افرو ایشیائی بولیاں
     ps: افرواسيايي ژبې
     pt: línguas afro-asiáticas
-    pt-br: línguas afro-asiáticas
+    pt_br: línguas afro-asiáticas
     qu: Aphruasyatiku rimaykuna
     ro: limbi afro-asiatice
     ru: афразийские языки
@@ -314,13 +314,13 @@ dv_has_:
     zea: Afro-Aziatische taelen
     zgh: ⵜⵓⵜⵍⴰⵢⵉⵏ ⵜⵉⴼⵔⵓⵙⵢⴰⵡⵉⵢⵉⵏ
     zh: 亚非语系
-    zh-cn: 亚非语系
-    zh-hans: 亚非语系
-    zh-hant: 亞非語系
-    zh-hk: 亞非語系
-    zh-mo: 亞非語系
-    zh-sg: 亚非语系
-    zh-tw: 亞非語系
+    zh_cn: 亚非语系
+    zh_hans: 亚非语系
+    zh_hant: 亞非語系
+    zh_hk: 亞非語系
+    zh_mo: 亞非語系
+    zh_sg: 亚非语系
+    zh_tw: 亞非語系
 ---
 # [[LangFamily-Afro-Asiatic]] 
 

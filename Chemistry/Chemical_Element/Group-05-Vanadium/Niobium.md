@@ -167,7 +167,7 @@ dv_has_:
     ban: Niobium
     bcl: Niobyo
     be: ніобій
-    be-tarask: ніоб
+    be_tarask: ніоб
     bg: ниобий
     bho: नियोबियम
     bn: নাইওবিয়াম
@@ -265,7 +265,7 @@ dv_has_:
     pnb: نیوبیم
     ps: نايوبيوم
     pt: nióbio
-    pt-br: nióbio
+    pt_br: nióbio
     qu: Niyobyu
     ro: niobiu
     ru: ниобий
@@ -281,7 +281,7 @@ dv_has_:
     so: Niyobiyaam
     sq: Niobiumi
     sr: ниобијум
-    sr-ec: Ниобијум
+    sr_ec: Ниобијум
     stq: Niobium
     su: Niobium
     sv: niob
@@ -307,9 +307,9 @@ dv_has_:
     yo: Niobium
     yue: 鈮
     zh: 铌
-    zh-hans: 铌
-    zh-hant: 鈮
-    zh-tw: 鈮
+    zh_hans: 铌
+    zh_hant: 鈮
+    zh_tw: 鈮
     zu: INobo
   number_of_:
     period: 5

@@ -120,7 +120,7 @@ dv_has_:
     az: Leyf Eriksson
     ban: Leif Erikson
     be: Лейф Эрыксан
-    be-tarask: Лейф Эрыксан
+    be_tarask: Лейф Эрыксан
     bg: Лейф Ериксон
     bn: লিফ এরিকসন
     br: Leifr Eiríksson
@@ -133,8 +133,8 @@ dv_has_:
     de: Leif Eriksson
     el: Λέιφ Έρικσον
     en: Leif Erikson
-    en-ca: Leif Erikson
-    en-gb: Leif Erikson
+    en_ca: Leif Erikson
+    en_gb: Leif Erikson
     eo: Leifr Eiríksson
     es: Leif Erikson
     et: Leifr Eiríksson
@@ -188,7 +188,7 @@ dv_has_:
     pap: Leif Eriksson
     pl: Leif Eriksson
     pt: Leif Eriksson
-    pt-br: Leif Eriksson
+    pt_br: Leif Eriksson
     rm: Leif Eriksson
     ro: Leif Eriksson
     ru: Лейф Эрикссон
@@ -199,7 +199,7 @@ dv_has_:
     sl: Leif Erikson
     sq: Leif Erikson
     sr: Лејф Ериксон
-    sr-ec: Лејф Ериксон
+    sr_ec: Лејф Ериксон
     su: Leif Eriksson
     sv: Leif Eriksson
     sw: Leif Erikson
@@ -215,7 +215,7 @@ dv_has_:
     xal: Эриксон
     yue: 萊夫艾瑞克森
     zh: 萊夫·埃里克松
-    zh-hant: 萊夫·艾瑞克森
+    zh_hant: 萊夫·艾瑞克森
 ---
 # [[Erikson,Leif]] 
 

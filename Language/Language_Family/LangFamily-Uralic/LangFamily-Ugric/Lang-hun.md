@@ -318,7 +318,7 @@ entry_in_abbreviations_table: венг.
 dv_has_:
   name_:
     ab: амаџьар бызшәа
-    aeb-arab: المجري
+    aeb_arab: المجري
     af: Hongaars
     am: ሀንጋርኛ
     an: Idioma hongaro
@@ -333,7 +333,7 @@ dv_has_:
     ba: Венгр теле
     bar: Ungarisch
     be: венгерская мова
-    be-tarask: вугорская мова
+    be_tarask: вугорская мова
     bg: унгарски език
     bn: হাঙ্গেরীয় ভাষা
     br: hungareg
@@ -346,7 +346,7 @@ dv_has_:
     ckb: زمانی مەجاری
     co: Lingua ungrese
     crh: Macar tili
-    crh-latn: Macar tili
+    crh_latn: Macar tili
     cs: maďarština
     cu: Ѫгрьскъ ѩꙁꙑкъ
     cv: Венгр чĕлхи
@@ -404,7 +404,7 @@ dv_has_:
     ko-kp: 마쟈르어
     krc: Маджар тил
     ku: zimanê mecarî
-    ku-latn: zimanê mecarî
+    ku_latn: zimanê mecarî
     kv: Мадьяр кыв
     kw: Hungarek
     ky: Венгр тили
@@ -429,13 +429,13 @@ dv_has_:
     mni: ꯍꯪꯒꯦꯔꯤꯌꯥꯟ ꯂꯣꯟ
     mr: हंगेरियन भाषा
     ms: bahasa Hungary
-    ms-arab: بهاس هڠݢري
+    ms_arab: بهاس هڠݢري
     mt: Ungeriż
     myv: Мадьяронь кель
     mzn: مجاری
     nan: Hông-gâ-lī-gí
     nb: ungarsk
-    nds-nl: Hongaarsk
+    nds_nl: Hongaarsk
     new: हङ्गेरियन भाषा
     nl: Hongaars
     nn: ungarsk
@@ -450,7 +450,7 @@ dv_has_:
     pnb: مگیار
     ps: هنګري ژبه
     pt: húngaro
-    pt-br: língua húngara
+    pt_br: língua húngara
     qu: Unriya simi
     rm: Lingua ungaraisa
     rmy: Ungarikani chib
@@ -474,7 +474,7 @@ dv_has_:
     sms: unkarǩiõll
     sq: hungarisht
     sr: мађарски
-    sr-ec: мађарски
+    sr_ec: мађарски
     stq: Ungarisk
     sv: ungerska
     sw: Kihungaria
@@ -489,7 +489,7 @@ dv_has_:
     tpi: Tok Hangari
     tr: Macarca
     tt: маҗар теле
-    tt-cyrl: маҗар теле
+    tt_cyrl: маҗар теле
     udm: Венгер кыл
     ug: ماجار تىلى
     uk: угорська мова
@@ -508,12 +508,12 @@ dv_has_:
     yo: Èdè Húngárì
     yue: 匈牙利文
     zh: 匈牙利語
-    zh-cn: 匈牙利语
-    zh-hans: 匈牙利语
-    zh-hant: 匈牙利語
-    zh-hk: 匈牙利語
-    zh-sg: 匈牙利語
-    zh-tw: 匈牙利語
+    zh_cn: 匈牙利语
+    zh_hans: 匈牙利语
+    zh_hant: 匈牙利語
+    zh_hk: 匈牙利語
+    zh_sg: 匈牙利語
+    zh_tw: 匈牙利語
     zu: isi-Hungarian
 ---
 # [[Lang-hun]] 

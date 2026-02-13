@@ -112,7 +112,7 @@ dv_has_:
     ar: توتر سطحي
     ast: tensión superficial
     be: паверхневае нацяжэнне
-    be-tarask: паверхневае нацягненьне
+    be_tarask: паверхневае нацягненьне
     bg: повърхностно напрежение
     bn: পৃষ্ঠটান
     bs: površinski napon
@@ -142,11 +142,11 @@ dv_has_:
     it: tensione superficiale
     ja: 表面張力
     kk: беттік керіліс
-    kk-arab: بەتتىك كەرىلىس
+    kk_arab: بەتتىك كەرىلىس
     kk-cn: بەتتىك كەرىلىس
-    kk-cyrl: беттік керіліс
+    kk_cyrl: беттік керіліс
     kk-kz: беттік керіліс
-    kk-latn: bettik kerilis
+    kk_latn: bettik kerilis
     kk-tr: bettik kerilis
     kn: ಮೇಲ್ಮೈ ಎಳೆತ
     ko: 표면장력
@@ -172,8 +172,8 @@ dv_has_:
     sl: površinska napetost
     sq: tensioni sipërfaqësor
     sr: површински напон
-    sr-ec: површински напон
-    sr-el: površinski napon
+    sr_ec: површински напон
+    sr_el: površinski napon
     sv: ytspänning
     ta: பரப்பு இழுவிசை
     te: తలతన్యత
@@ -185,12 +185,12 @@ dv_has_:
     wuu: 表面张力
     yue: 表面張力
     zh: 表面张力
-    zh-cn: 表面张力系数
-    zh-hans: 表面张力系数
-    zh-hant: 表面張力係數
-    zh-hk: 表面張力係數
-    zh-sg: 表面张力系数
-    zh-tw: 表面張力係數
+    zh_cn: 表面张力系数
+    zh_hans: 表面张力系数
+    zh_hant: 表面張力係數
+    zh_hk: 表面張力係數
+    zh_sg: 表面张力系数
+    zh_tw: 表面張力係數
 ---
 # [[Surface_Tension]] 
 

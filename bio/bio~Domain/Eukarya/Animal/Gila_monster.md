@@ -88,7 +88,7 @@ dv_has_:
     arz: وحش جيلا
     ast: Heloderma suspectum
     ban: Rakasa Gila
-    be-tarask: ядазуб арызонскі
+    be_tarask: ядазуб арызонскі
     bg: аризонски отровен гущер
     ca: monstre de Gila
     ceb: Heloderma suspectum
@@ -137,8 +137,8 @@ dv_has_:
     sl: strupeni bradavičar
     sq: Heloderma suspectum
     sr: Heloderma suspectum
-    sr-ec: Heloderma suspectum
-    sr-el: Heloderma suspectum
+    sr_ec: Heloderma suspectum
+    sr_el: Heloderma suspectum
     sv: Gilaödla
     sw: Dubwana-Gila
     ta: கிலா அரக்கப் பல்லி
@@ -149,12 +149,12 @@ dv_has_:
     war: Heloderma suspectum
     yue: 大毒蜥
     zh: 美國毒蜥
-    zh-cn: 美国毒蜥
-    zh-hans: 美国毒蜥
-    zh-hant: 美國毒蜥
-    zh-hk: 美國毒蜥
-    zh-sg: 美国毒蜥
-    zh-tw: 美國毒蜥
+    zh_cn: 美国毒蜥
+    zh_hans: 美国毒蜥
+    zh_hant: 美國毒蜥
+    zh_hk: 美國毒蜥
+    zh_sg: 美国毒蜥
+    zh_tw: 美國毒蜥
 ---
 # [[Gila_monster]]
 

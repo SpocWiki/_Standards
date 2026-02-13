@@ -141,7 +141,7 @@ dv_has_:
     ba: Крикет
     bar: Cricket
     be: крыкет
-    be-tarask: крыкет
+    be_tarask: крыкет
     bg: Крикет
     bho: क्रिकेट
     bn: ক্রিকেট
@@ -156,7 +156,7 @@ dv_has_:
     cy: criced
     da: cricket
     de: Cricket
-    de-ch: Cricket
+    de_ch: Cricket
     dty: क्रिकेट
     el: Κρίκετ
     en: cricket
@@ -235,7 +235,7 @@ dv_has_:
     pnb: کرکٹ
     ps: کرېکټ
     pt: críquete
-    pt-br: críquete
+    pt_br: críquete
     qu: Sirp'i pukllay
     ro: Crichet
     ru: крикет
@@ -254,7 +254,7 @@ dv_has_:
     sm: Kirikiti
     sq: Kriketi
     sr: крикет
-    sr-ec: крикет
+    sr_ec: крикет
     su: Krikét
     sv: cricket
     sw: Kriketi
@@ -279,10 +279,10 @@ dv_has_:
     yi: קריקעט
     yue: 木球
     zh: 板球
-    zh-cn: 板球
-    zh-hans: 板球
-    zh-hant: 板球
-    zh-tw: 板球
+    zh_cn: 板球
+    zh_hans: 板球
+    zh_hant: 板球
+    zh_tw: 板球
     zu: Ikhilikithi
 ---
 # [[Cricket]] 

@@ -80,7 +80,7 @@ dv_has_:
     arz: جون لويجى بيرد
     ast: John Logie Baird
     be: Джон Лоўгі Бэрд
-    be-tarask: Джон Логі Бэрд
+    be_tarask: Джон Логі Бэрд
     bg: Джон Логи Беърд
     bn: জন লগি বেয়ার্ড
     ca: John Logie Baird
@@ -89,11 +89,11 @@ dv_has_:
     cy: John Logie Baird
     da: John Logie Baird
     de: John Logie Baird
-    de-ch: John Logie Baird
+    de_ch: John Logie Baird
     el: Τζον Λόγκι Μπερντ
     en: John Logie Baird
-    en-ca: John Logie Baird
-    en-gb: John Logie Baird
+    en_ca: John Logie Baird
+    en_gb: John Logie Baird
     eo: John Logie Baird
     es: John Logie Baird
     et: John Logie Baird
@@ -136,7 +136,7 @@ dv_has_:
     pl: John Logie Baird
     pnb: جان لوئی بیارڈ
     pt: John Logie Baird
-    pt-br: John Logie Baird
+    pt_br: John Logie Baird
     ro: John Logie Baird
     ru: Джон Лоуги Бэрд
     sa: जोन लोगी बेर्ड
@@ -147,8 +147,8 @@ dv_has_:
     sl: John Logie Baird
     sq: John Logie Baird
     sr: Џон Логи Берд
-    sr-ec: Џон Логи Берд
-    sr-el: Džon Logi Berd
+    sr_ec: Џон Логи Берд
+    sr_el: Džon Logi Berd
     sv: John Logie Baird
     sw: John Logie Baird
     ta: ஜான் லோகி பைர்டு
@@ -162,12 +162,12 @@ dv_has_:
     wuu: 约翰·罗杰·贝尔德
     yue: 約翰·羅傑·貝爾德
     zh: 約翰·羅傑·貝爾德
-    zh-cn: 约翰·罗杰·贝尔德
-    zh-hans: 约翰·罗杰·贝尔德
-    zh-hant: 約翰·羅傑·貝爾德
-    zh-hk: 約翰·羅傑·貝爾德
-    zh-sg: 约翰·罗杰·贝尔德
-    zh-tw: 約翰·羅傑·貝爾德
+    zh_cn: 约翰·罗杰·贝尔德
+    zh_hans: 约翰·罗杰·贝尔德
+    zh_hant: 約翰·羅傑·貝爾德
+    zh_hk: 約翰·羅傑·貝爾德
+    zh_sg: 约翰·罗杰·贝尔德
+    zh_tw: 約翰·羅傑·貝爾德
 ---
 # [[Baird,John_Logie]] 
 

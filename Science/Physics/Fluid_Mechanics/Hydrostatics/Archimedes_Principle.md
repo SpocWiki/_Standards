@@ -103,7 +103,7 @@ dv_has_:
     ast: principiu de Arquímedes
     az: Arximed qanunu
     be: закон Архімеда
-    be-tarask: закон Архімэда
+    be_tarask: закон Архімэда
     bg: Закон на Архимед
     bn: আর্কিমিডিসের নীতি
     ca: principi d'Arquimedes
@@ -134,11 +134,11 @@ dv_has_:
     ja: アルキメデスの原理
     ka: არქიმედეს კანონი
     kk: Архимед заңы
-    kk-arab: ارحىيمەد زاڭى
+    kk_arab: ارحىيمەد زاڭى
     kk-cn: ارحىيمەد زاڭى
-    kk-cyrl: Архимед заңы
+    kk_cyrl: Архимед заңы
     kk-kz: Архимед заңы
-    kk-latn: Arxïmed zañı
+    kk_latn: Arxïmed zañı
     kk-tr: Arxïmed zañı
     kn: ಆರ್ಕಿಮಿಡೀಸನ ತತ್ತ್ವ
     ko: 아르키메데스의 원리
@@ -167,8 +167,8 @@ dv_has_:
     sl: Arhimedov zakon
     sq: ligji i Arkimedit
     sr: Архимедов закон
-    sr-ec: Архимедов закон
-    sr-el: Arhimedov zakon
+    sr_ec: Архимедов закон
+    sr_el: Arhimedov zakon
     sv: Arkimedes princip
     sw: Kanuni ya Archimedes
     ta: ஆர்க்கிமிடீசு தத்துவம்
@@ -185,12 +185,12 @@ dv_has_:
     wuu: 阿基米德浮体原理
     yue: 阿基米德原理
     zh: 阿基米德浮體原理
-    zh-cn: 阿基米德浮体原理
-    zh-hans: 阿基米德浮体原理
-    zh-hant: 阿基米德浮體原理
-    zh-hk: 阿基米德浮體原理
-    zh-sg: 阿基米德浮体原理
-    zh-tw: 阿基米德浮體原理
+    zh_cn: 阿基米德浮体原理
+    zh_hans: 阿基米德浮体原理
+    zh_hant: 阿基米德浮體原理
+    zh_hk: 阿基米德浮體原理
+    zh_sg: 阿基米德浮体原理
+    zh_tw: 阿基米德浮體原理
 ---
 # [[Archimedes_Principle]] 
 

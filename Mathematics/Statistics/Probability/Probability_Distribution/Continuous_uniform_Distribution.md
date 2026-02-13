@@ -71,7 +71,7 @@ dv_has_:
     ar: توزيع منتظم
     ast: Distribución uniforme continua
     be: Раўнамернае непарыўнае размеркаванне
-    be-tarask: неперарыўнае раўнамернае разьмеркаваньне
+    be_tarask: неперарыўнае раўнамернае разьмеркаваньне
     bn: সম-বিন্যাস
     ca: distribució uniforme contínua
     cs: rovnoměrné rozdělení
@@ -114,12 +114,12 @@ dv_has_:
     vi: Phân phối đều liên tục
     yue: 均勻分佈
     zh: 連續型均勻分布
-    zh-cn: 连续型均匀分布
-    zh-hans: 连续型均匀分布
-    zh-hant: 連續型均勻分布
-    zh-hk: 連續型均勻分佈
-    zh-sg: 连续型均匀分布
-    zh-tw: 連續型均勻分布
+    zh_cn: 连续型均匀分布
+    zh_hans: 连续型均匀分布
+    zh_hant: 連續型均勻分布
+    zh_hk: 連續型均勻分佈
+    zh_sg: 连续型均匀分布
+    zh_tw: 連續型均勻分布
 ---
 # [[Continuous_uniform_Distribution]] 
 

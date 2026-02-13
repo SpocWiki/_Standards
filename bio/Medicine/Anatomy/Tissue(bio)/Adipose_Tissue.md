@@ -73,7 +73,7 @@ dv_has_:
     arz: نسيج دهنى
     az: yağ mübadiləsi
     be: тлушчавая тканка
-    be-tarask: тлушчавая тканка
+    be_tarask: тлушчавая тканка
     bg: мастна тъкан
     bo: ཚིལ་བཟུང་ཕུང་གྲུབ།
     bs: masno tkivo
@@ -102,14 +102,14 @@ dv_has_:
     it: tessuto adiposo
     ja: 脂肪組織
     kk: май ұлпасы
-    kk-arab: ماي ۇلپاسى
+    kk_arab: ماي ۇلپاسى
     kk-cn: ماي ۇلپاسى
-    kk-cyrl: май ұлпасы
+    kk_cyrl: май ұлпасы
     kk-kz: май ұлпасы
-    kk-latn: maý ulpası
+    kk_latn: maý ulpası
     kk-tr: maý ulpası
     ko: 지방 조직
-    ku-latn: çewriyeşane
+    ku_latn: çewriyeşane
     lt: riebalinis audinys
     lv: taukaudi
     mk: масно ткиво
@@ -121,7 +121,7 @@ dv_has_:
     pag: taba
     pl: tkanka tłuszczowa
     pt: tecido adiposo
-    pt-br: tecido adiposo
+    pt_br: tecido adiposo
     ro: țesut adipos
     ru: жировая ткань
     sh: adipozno tkivo
@@ -139,12 +139,12 @@ dv_has_:
     vi: mô mỡ
     yue: 脂肪組織
     zh: 脂肪組織
-    zh-cn: 脂肪组织
-    zh-hans: 脂肪组织
-    zh-hant: 脂肪組織
-    zh-hk: 脂肪組織
-    zh-sg: 脂肪组织
-    zh-tw: 脂肪組織
+    zh_cn: 脂肪组织
+    zh_hans: 脂肪组织
+    zh_hant: 脂肪組織
+    zh_hk: 脂肪組織
+    zh_sg: 脂肪组织
+    zh_tw: 脂肪組織
 ---
 ## #has_/text_of_/abstract 
 

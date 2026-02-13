@@ -50,7 +50,7 @@ dv_has_:
     oc: Viverroidea
     pl: Viverroidea
     pt: Viverroidea
-    pt-br: Viverroidea
+    pt_br: Viverroidea
     ro: Viverroidea
     ru: Viverroidea
     sq: Viverroidea
@@ -63,8 +63,8 @@ dv_has_:
     vo: Viverroidea
     war: Viverroidea
     zh: 靈貓下目
-    zh-cn: 灵猫下目
-    zh-hans: 灵猫下目
+    zh_cn: 灵猫下目
+    zh_hans: 灵猫下目
 ---
 # [[Viverroidea]] 
 

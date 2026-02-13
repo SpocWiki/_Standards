@@ -147,8 +147,8 @@ dv_has_:
     sl: najlon
     sq: Najlloni - Poliamidi
     sr: најлон
-    sr-ec: најлон
-    sr-el: najlon
+    sr_ec: најлон
+    sr_el: najlon
     su: Nilon
     sv: nylon
     te: నైలాన్
@@ -162,12 +162,12 @@ dv_has_:
     wuu: 尼龙
     yue: 尼龍
     zh: 尼龙
-    zh-cn: 尼龙
-    zh-hans: 尼龙
-    zh-hant: 尼龍
-    zh-hk: 尼龍
-    zh-sg: 尼龙
-    zh-tw: 尼龍
+    zh_cn: 尼龙
+    zh_hans: 尼龙
+    zh_hant: 尼龍
+    zh_hk: 尼龍
+    zh_sg: 尼龙
+    zh_tw: 尼龍
 ---
 # [[Nylon]]  
 

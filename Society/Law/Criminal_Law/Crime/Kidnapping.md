@@ -117,7 +117,7 @@ dv_has_:
     ast: secuestru
     az: Adam oğurluğu
     be: выкраданне чалавека
-    be-tarask: выкраданьне чалавека
+    be_tarask: выкраданьне чалавека
     bg: Отвличане
     bn: অপহরণ
     ca: segrest
@@ -126,11 +126,11 @@ dv_has_:
     cy: herwgipio
     da: kidnapning
     de: Entführung
-    de-ch: Entführung
+    de_ch: Entführung
     el: απαγωγή
     en: kidnapping
-    en-ca: Kidnapping
-    en-gb: kidnapping
+    en_ca: Kidnapping
+    en_gb: kidnapping
     eo: homforkapto
     es: secuestro
     et: Inimrööv
@@ -152,11 +152,11 @@ dv_has_:
     it: sequestro di persona
     ja: 誘拐
     kk: Адамды ұрлау
-    kk-arab: ادامدى ۇرلاۋ
+    kk_arab: ادامدى ۇرلاۋ
     kk-cn: ادامدى ۇرلاۋ
-    kk-cyrl: Адамды ұрлау
+    kk_cyrl: Адамды ұрлау
     kk-kz: Адамды ұрлау
-    kk-latn: Adamdı urlaw
+    kk_latn: Adamdı urlaw
     kk-tr: Adamdı urlaw
     ko: 유괴
     ks: اغوا
@@ -174,7 +174,7 @@ dv_has_:
     pa: ਅਗਵਾ
     pl: porwanie
     pt: sequestro
-    pt-br: Sequestro
+    pt_br: Sequestro
     ro: răpire
     ru: похищение человека
     scn: Rattu
@@ -184,8 +184,8 @@ dv_has_:
     so: Qafaal
     sq: Rrëmbimi
     sr: киднаповање
-    sr-ec: Киднаповање
-    sr-el: Kidnapovanje
+    sr_ec: Киднаповање
+    sr_el: Kidnapovanje
     sv: kidnappning
     te: అపహృత
     tr: insan kaçırma
@@ -194,9 +194,9 @@ dv_has_:
     vi: bắt cóc
     yue: 標參
     zh: 綁票
-    zh-hans: 绑架
-    zh-hant: 綁票
-    zh-tw: 綁票
+    zh_hans: 绑架
+    zh_hant: 綁票
+    zh_tw: 綁票
 ---
 # [[Kidnapping]] 
 

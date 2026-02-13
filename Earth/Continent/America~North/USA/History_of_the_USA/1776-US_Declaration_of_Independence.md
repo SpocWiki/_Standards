@@ -226,7 +226,7 @@ dv_has_:
     ast: Declaración d'Independencia de los Estaos Xuníos
     az: ABŞ İstiqlal Bəyannaməsi
     be: Дэкларацыя незалежнасці ЗША
-    be-tarask: Дэклярацыя незалежнасьці ЗША
+    be_tarask: Дэклярацыя незалежнасьці ЗША
     bg: Декларация за независимост на САЩ
     bn: মার্কিন যুক্তরাষ্ট্রের স্বাধীনতার ঘোষণাপত্র
     br: Disklêriadur dieubidigezh Stadoù Unanet Amerika
@@ -237,11 +237,11 @@ dv_has_:
     cy: Datganiad Annibyniaeth yr Unol Daleithiau
     da: USA's uafhængighedserklæring
     de: Unabhängigkeitserklärung der Vereinigten Staaten
-    de-ch: Unabhängigkeitserklärung der Vereinigten Staaten
+    de_ch: Unabhängigkeitserklärung der Vereinigten Staaten
     el: Διακήρυξη της Ανεξαρτησίας των ΗΠΑ
     en: United States Declaration of Independence
-    en-ca: United States Declaration of Independence
-    en-gb: United States Declaration of Independence
+    en_ca: United States Declaration of Independence
+    en_gb: United States Declaration of Independence
     eo: Usona Deklaro de Sendependeco
     es: Declaración de Independencia de los Estados Unidos
     et: Ameerika Ühendriikide Iseseisvusdeklaratsioon
@@ -293,7 +293,7 @@ dv_has_:
     pnb: امریکی آزادی اعلان
     ps: د متحده ایالاتو د خپلواکۍ اعلامیه
     pt: Declaração da Independência dos Estados Unidos
-    pt-br: Declaração da Independência dos Estados Unidos
+    pt_br: Declaração da Independência dos Estados Unidos
     ro: Declarația de independență a Statelor Unite ale Americii
     ru: Декларация независимости США
     sco: Unitit States Declaration o Unthirldom
@@ -302,8 +302,8 @@ dv_has_:
     sl: Deklaracija o neodvisnosti Združenih držav Amerike
     sq: Deklarata e Pavarësisë në SHBA
     sr: Декларација независности САД
-    sr-ec: Декларација независности САД
-    sr-el: Deklaracija nezavisnosti SAD
+    sr_ec: Декларација независности САД
+    sr_el: Deklaracija nezavisnosti SAD
     sv: USA:s självständighetsförklaring
     sw: Azimio la Uhuru la Marekani
     ta: அமெரிக்க விடுதலைச் சாற்றுரை
@@ -319,12 +319,12 @@ dv_has_:
     xmf: ააშ-იშ დუდიშალაშ დეკლარაცია
     yue: 美國獨立宣言
     zh: 美國獨立宣言
-    zh-cn: 美国独立宣言
-    zh-hans: 美国独立宣言
-    zh-hant: 美國獨立宣言
-    zh-hk: 美國獨立宣言
-    zh-sg: 美国独立宣言
-    zh-tw: 美國獨立宣言
+    zh_cn: 美国独立宣言
+    zh_hans: 美国独立宣言
+    zh_hant: 美國獨立宣言
+    zh_hk: 美國獨立宣言
+    zh_sg: 美国独立宣言
+    zh_tw: 美國獨立宣言
 ---
 # [[1776-US_Declaration_of_Independence]] 
 

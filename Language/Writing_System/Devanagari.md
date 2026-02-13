@@ -154,7 +154,7 @@ dv_has_:
     bar: Devanagari
     bcl: Dewënagëri
     be: дэванагары
-    be-tarask: дэванагары
+    be_tarask: дэванагары
     bg: деванагари
     bho: देवनागरी
     bjn: Dewanagari
@@ -257,7 +257,7 @@ dv_has_:
     sl: devanagari
     sq: Devanagari
     sr: деванагари
-    sr-ec: Деванагари
+    sr_ec: Деванагари
     sv: devanāgarī
     sw: Devanagari
     syl: ꠖꠦꠛ ꠘꠣꠉꠞꠤ ꠟꠤꠙꠤ
@@ -280,8 +280,8 @@ dv_has_:
     yi: דעוואנאגארי
     yue: 天城字
     zh: 天城文
-    zh-hant: 天城文
-    zh-tw: 天城文
+    zh_hant: 天城文
+    zh_tw: 天城文
 ---
 # [[Devanagari]] 
 

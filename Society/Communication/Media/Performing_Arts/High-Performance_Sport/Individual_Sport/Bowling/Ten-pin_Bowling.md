@@ -69,7 +69,7 @@ dv_has_:
     ast: Bowling
     az: Boulinq
     be: боўлінг
-    be-tarask: боўлінг
+    be_tarask: боўлінг
     bg: боулинг
     ca: bowling de deu
     ckb: بۆڵینگ
@@ -131,12 +131,12 @@ dv_has_:
     wa: djeu d' beyes
     yue: 十樽保齡
     zh: 10瓶制保齡球
-    zh-cn: 保龄球
-    zh-hans: 保龄球
-    zh-hant: 10瓶制保齡球
-    zh-hk: 保齡球
-    zh-sg: 保龄球
-    zh-tw: 保齡球
+    zh_cn: 保龄球
+    zh_hans: 保龄球
+    zh_hant: 10瓶制保齡球
+    zh_hk: 保齡球
+    zh_sg: 保龄球
+    zh_tw: 保齡球
 ---
 # [[Ten-pin_Bowling]] 
 

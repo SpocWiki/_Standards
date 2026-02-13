@@ -106,7 +106,7 @@ dv_has_:
     ba: пәрҙә
     bcl: Kurtina
     be: шторы
-    be-tarask: фіранка
+    be_tarask: фіранка
     bew: Hordèng
     bg: Перде
     ca: cortina
@@ -115,11 +115,11 @@ dv_has_:
     cv: Чаршав
     da: gardin
     de: Vorhang
-    de-ch: Fensterdekoration
+    de_ch: Fensterdekoration
     el: κουρτίνα
     en: curtain
-    en-ca: Curtain
-    en-gb: curtain
+    en_ca: Curtain
+    en_gb: curtain
     eo: kurteno
     es: cortina
     et: kardin
@@ -146,7 +146,7 @@ dv_has_:
     jv: Gordén
     kcg: a̱teap
     kk: перде
-    kk-latn: perde
+    kk_latn: perde
     kn: ಪರದೆ
     ko: 커튼
     ksh: Jadinnge
@@ -161,7 +161,7 @@ dv_has_:
     my: ခန်းဆီး
     nan: Kha-tián
     nb: gardin
-    nds-nl: gedien
+    nds_nl: gedien
     ne: पर्दा
     nl: gordijn
     nn: gardin
@@ -170,15 +170,15 @@ dv_has_:
     pa: ਪਰਦਾ
     pl: zasłona
     pt: cortina
-    pt-br: Cortina
+    pt_br: Cortina
     ro: Perdea
     ru: штора
     shn: ၽႃႈၵင်ႈ
     sl: zavesa
     sq: Perde
     sr: завеса
-    sr-ec: завеса
-    sr-el: zavesa
+    sr_ec: завеса
+    sr_el: zavesa
     sv: gardin
     sw: Mapazia
     szy: celing
@@ -195,9 +195,9 @@ dv_has_:
     wuu: 帘
     yue: 窗簾
     zh: 簾
-    zh-cn: 簾
-    zh-hans: 簾
-    zh-hant: 簾
+    zh_cn: 簾
+    zh_hans: 簾
+    zh_hant: 簾
 ---
 # [[Curtain]] 
 

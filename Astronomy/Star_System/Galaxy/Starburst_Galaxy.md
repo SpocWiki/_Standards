@@ -68,14 +68,14 @@ dv_has_:
     af: steruitbarsting-sterrestelsel
     ar: مجرة انفجار نجمي
     ast: Galaxa con biltu estelar
-    be-tarask: галяктыка з зоркаўтварэньнем
+    be_tarask: галяктыка з зоркаўтварэньнем
     ca: galàxia amb brot estel·lar
     cs: hvězdotvorná galaxie
     de: Starburstgalaxie
     el: Αστρογόνος γαλαξίας
     en: starburst galaxy
-    en-ca: Starburst galaxy
-    en-gb: starburst galaxy
+    en_ca: Starburst galaxy
+    en_gb: starburst galaxy
     eo: starpleniĝa galaksio
     es: Galaxia con brote estelar
     et: Tähepurske galaktika
@@ -96,7 +96,7 @@ dv_has_:
     nl: starburststelsel
     pl: Galaktyka burzy gwiazdowej
     pt: galáxia starburst
-    pt-br: Galáxia starburst
+    pt_br: Galáxia starburst
     ru: галактика со вспышкой звездообразования
     sl: starburst galaksija
     sr: Zvezdorodna galaksija
@@ -108,9 +108,9 @@ dv_has_:
     wuu: 星暴星系
     yue: 星暴星系
     zh: 星暴星系
-    zh-hans: 星暴星系
-    zh-hant: 星暴星系
-    zh-hk: 星暴星系
+    zh_hans: 星暴星系
+    zh_hant: 星暴星系
+    zh_hk: 星暴星系
 ---
 # [[Starburst_Galaxy]] 
 

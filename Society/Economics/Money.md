@@ -252,7 +252,7 @@ dv_has_:
     bar: Gejd
     bcl: kwarta
     be: грошы
-    be-tarask: грошы
+    be_tarask: грошы
     bew: duit
     bg: пари
     bho: मनी
@@ -264,7 +264,7 @@ dv_has_:
     btm: epeng
     bxr: мүнгэн
     ca: diner
-    cbk-zam: cen
+    cbk_zam: cen
     cdo: cièng
     ce: ахча
     ceb: kwarta
@@ -279,14 +279,14 @@ dv_has_:
     dag: laɣari
     de: Geld
     de-at: Geld
-    de-ch: Geld
+    de_ch: Geld
     diq: pere
     ee: ega
     el: χρήμα
     eml: bèsi
     en: money
-    en-ca: money
-    en-gb: money
+    en_ca: money
+    en_gb: money
     eo: mono
     es: dinero
     et: raha
@@ -374,7 +374,7 @@ dv_has_:
     nan: chîⁿ
     nb: penger
     nds: Geld
-    nds-nl: gèld
+    nds_nl: gèld
     ne: मुद्रा
     new: ध्यबा
     nia: kefe
@@ -393,7 +393,7 @@ dv_has_:
     pnb: پیسے
     ps: پيسې
     pt: dinheiro
-    pt-br: dinheiro
+    pt_br: dinheiro
     qu: rantina qullqi
     rmy: lovi
     ro: ban
@@ -419,7 +419,7 @@ dv_has_:
     so: lacagta
     sq: paraja
     sr: новац
-    sr-ec: новац
+    sr_ec: новац
     su: duit
     sv: pengar
     sw: pesa
@@ -437,7 +437,7 @@ dv_has_:
     tr: para
     ts: mali
     tt: акча
-    tt-cyrl: акча
+    tt_cyrl: акча
     tw: sika
     tyv: акша
     udm: коньдон
@@ -460,14 +460,14 @@ dv_has_:
     za: cienz
     zgh: ⴰⵇⵇⴰⵔⵉⴹ
     zh: 貨幣
-    zh-cn: 货币
-    zh-hans: 货币
-    zh-hant: 貨幣
-    zh-hk: 貨幣
-    zh-mo: 貨幣
+    zh_cn: 货币
+    zh_hans: 货币
+    zh_hant: 貨幣
+    zh_hk: 貨幣
+    zh_mo: 貨幣
     zh-my: 货币
-    zh-sg: 货币
-    zh-tw: 貨幣
+    zh_sg: 货币
+    zh_tw: 貨幣
     zu: imali
 ---
 # [[Money]] 

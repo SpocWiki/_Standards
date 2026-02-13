@@ -8,7 +8,7 @@ dv_has_:
     ast: microprocesador
     az: mikroprosessor
     be: мікрапрацэсар
-    be-tarask: мікрапрацэсар
+    be_tarask: мікрапрацэсар
     bg: Микропроцесор
     bn: মাইক্রোপ্রসেসর
     br: mikroprosesor
@@ -20,8 +20,8 @@ dv_has_:
     de: Mikroprozessor
     el: Μικροεπεξεργαστής
     en: microprocessor
-    en-ca: Microprocessor
-    en-gb: microprocessor
+    en_ca: Microprocessor
+    en_gb: microprocessor
     eo: mikroprocesoro
     es: microprocesador
     et: mikroprotsessor
@@ -65,7 +65,7 @@ dv_has_:
     pa: ਮਾਇਕਰੋਪ੍ਰੋਸੇਸਰ
     pl: mikroprocesor
     pt: microprocessador
-    pt-br: Microprocessador
+    pt_br: Microprocessador
     qu: T'unathatkichiq
     ro: microprocesor
     ru: микропроцессор
@@ -77,8 +77,8 @@ dv_has_:
     sl: mikroprocesor
     sms: mikroprosessor
     sr: микропроцесор
-    sr-ec: микропроцесор
-    sr-el: mikroprocesor
+    sr_ec: микропроцесор
+    sr_el: mikroprocesor
     sv: mikroprocessor
     sw: Microprocessor
     ta: நுண்செயலி
@@ -94,8 +94,8 @@ dv_has_:
     wuu: 微处理器
     xmf: მიკროპროცესორი
     zh: 微处理器
-    zh-hant: 微處理器
-    zh-tw: 微處理器
+    zh_hant: 微處理器
+    zh_tw: 微處理器
     zu: Isidludlungincinci
 aliases:
 - Isidludlungincinci

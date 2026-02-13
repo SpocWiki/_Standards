@@ -54,18 +54,18 @@ dv_has_:
     azb: نسکار
     ban: NASCAR
     be: NASCAR
-    be-tarask: NASCAR
+    be_tarask: NASCAR
     bg: НАСКАР
     br: NASCAR
     ca: NASCAR
     cs: NASCAR
     da: NASCAR
     de: NASCAR
-    de-ch: NASCAR
+    de_ch: NASCAR
     el: NASCAR
     en: NASCAR
-    en-ca: NASCAR
-    en-gb: NASCAR
+    en_ca: NASCAR
+    en_gb: NASCAR
     eo: NASCAR
     es: Nascar
     et: NASCAR
@@ -91,7 +91,7 @@ dv_has_:
     nl: NASCAR
     pl: NASCAR
     pt: National Association for Stock Car Auto Racing
-    pt-br: National Association for Stock Car Auto Racing
+    pt_br: National Association for Stock Car Auto Racing
     ro: NASCAR
     ru: NASCAR
     sco: NASCAR
@@ -111,12 +111,12 @@ dv_has_:
     wuu: 全国运动汽车竞赛协会
     yue: NASCAR
     zh: 全國運動汽車競賽協會
-    zh-cn: 全国运动汽车竞赛协会
-    zh-hans: 全国运动汽车竞赛协会
-    zh-hant: 全國運動汽車競賽協會
-    zh-hk: 全國運動汽車競賽協會
-    zh-sg: 全国运动汽车竞赛协会
-    zh-tw: 全國運動汽車競賽協會
+    zh_cn: 全国运动汽车竞赛协会
+    zh_hans: 全国运动汽车竞赛协会
+    zh_hant: 全國運動汽車競賽協會
+    zh_hk: 全國運動汽車競賽協會
+    zh_sg: 全国运动汽车竞赛协会
+    zh_tw: 全國運動汽車競賽協會
 ---
 # [[NASCAR]] 
 

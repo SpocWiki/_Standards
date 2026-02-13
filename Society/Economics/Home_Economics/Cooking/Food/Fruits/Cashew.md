@@ -223,7 +223,7 @@ P8189: 987007284722005171
 EPPO_Code: ANAOC
 dv_has_:
   name_:
-    aeb-arab: أكاجو
+    aeb_arab: أكاجو
     af: Kasjoeneut
     an: Anacardium occidentale
     ar: كاجو
@@ -234,7 +234,7 @@ dv_has_:
     ban: Jambu Mente
     bcl: Kasoy
     be: Кеш’ю
-    be-tarask: кеш’ю
+    be_tarask: кеш’ю
     bg: кашу
     bho: काजू
     bn: কাজু বাদাম
@@ -313,7 +313,7 @@ dv_has_:
     pl: nanercz zachodni
     pnb: کاجو
     pt: cajueiro
-    pt-br: Anacardium occidentale
+    pt_br: Anacardium occidentale
     qu: Marañun sach'a
     ro: Caju
     ru: Кешью
@@ -350,8 +350,8 @@ dv_has_:
     yue: 腰果
     zh: 腰果
     zh-cn: 腰果
-    zh-hans: 腰果
-    zh-tw: 腰果
+    zh_hans: 腰果
+    zh_tw: 腰果
 ---
 # [[Cashew]] 
 

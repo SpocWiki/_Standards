@@ -155,7 +155,7 @@ dv_has_:
     ast: industria del automóvil
     az: avtomobil sənayesi
     be: аўтамабільная прамысловасць
-    be-tarask: аўтамабільная прамысловасьць
+    be_tarask: аўтамабільная прамысловасьць
     bg: автомобилна промишленост
     bn: মোটরগাড়ি শিল্প
     br: sevel kirri
@@ -166,7 +166,7 @@ dv_has_:
     de: Automobilindustrie
     el: βιομηχανία αυτοκίνησης
     en: automotive industry
-    en-gb: automotive industry
+    en_gb: automotive industry
     en-us: automotive industry
     eo: aŭtomobila industrio
     es: industria automotriz
@@ -188,11 +188,11 @@ dv_has_:
     ja: 自動車産業
     jv: indhustri otomotif
     kk: автомобиль жасау
-    kk-arab: اۆتوموبىيل جاساۋ
+    kk_arab: اۆتوموبىيل جاساۋ
     kk-cn: اۆتوموبىيل جاساۋ
-    kk-cyrl: атомобиль жасау
+    kk_cyrl: атомобиль жасау
     kk-kz: автомобиль жасау
-    kk-latn: avtomobïlʹ jasaw
+    kk_latn: avtomobïlʹ jasaw
     kk-tr: avtomobïlʹ jasaw
     km: យន្តសាស្រ្តរថយន្ត
     ko: 자동차 산업
@@ -225,8 +225,8 @@ dv_has_:
     sms: auttindustria
     sq: Industria e automobilave
     sr: аутомобилска индустрија
-    sr-ec: аутомобилска индустрија
-    sr-el: automobilska industrija
+    sr_ec: аутомобилска индустрија
+    sr_el: automobilska industrija
     sv: fordonsindustri
     ta: ஊர்தித் தொழில்துறை
     tg: санъати худравсозӣ
@@ -242,9 +242,9 @@ dv_has_:
     wuu: 汽车产业
     yue: 汽車產業
     zh: 汽車工業
-    zh-cn: 汽车工业
-    zh-hans: 汽车业
-    zh-hant: 汽車產業
+    zh_cn: 汽车工业
+    zh_hans: 汽车业
+    zh_hant: 汽車產業
 ---
 # [[Automotive]] 
 

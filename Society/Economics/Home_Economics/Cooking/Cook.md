@@ -174,7 +174,7 @@ dv_has_:
     azb: آشپاز
     ba: ашнаҡсы
     be: кухар
-    be-tarask: кухар
+    be_tarask: кухар
     bg: Готвач
     bjn: Tukang masak
     br: keginer
@@ -227,7 +227,7 @@ dv_has_:
     mnc: ᠮᡠᠴᡝᠰᡳ
     mr: आचारी
     ms: tukang masak
-    ms-arab: توکڠ ماسق
+    ms_arab: توکڠ ماسق
     mt: kok
     my: စားဖိုမှူး
     nan: Chóng-phò͘-sai
@@ -257,8 +257,8 @@ dv_has_:
     sms: pävvar
     sq: Kuzhinieri
     sr: професионални кувар
-    sr-ec: професионални кувар
-    sr-el: profesionalni kuvar
+    sr_ec: професионални кувар
+    sr_el: profesionalni kuvar
     sv: kock
     sw: mpishi
     syl: ꠞꠣꠘ꠆ꠗ꠆ꠞꠣ
@@ -278,12 +278,12 @@ dv_has_:
     yi: קוכער
     yue: 廚師
     zh: 廚師
-    zh-cn: 厨师
-    zh-hans: 厨师
-    zh-hant: 廚師
-    zh-hk: 廚師
-    zh-sg: 厨师
-    zh-tw: 廚師
+    zh_cn: 厨师
+    zh_hans: 厨师
+    zh_hant: 廚師
+    zh_hk: 廚師
+    zh_sg: 厨师
+    zh_tw: 廚師
 ---
 # [[Cook]] 
 

@@ -66,7 +66,7 @@ dv_has_:
     az: Kampus
     ba: Кампус
     be: Кампус
-    be-tarask: кампус
+    be_tarask: кампус
     bg: Кампус
     bn: ক্যাম্পাস
     ca: campus
@@ -77,7 +77,7 @@ dv_has_:
     diq: Kampus
     el: πανεπιστημιούπολη
     en: campus
-    en-gb: campus
+    en_gb: campus
     en-us: university campus
     eo: kampuso
     es: campus
@@ -105,7 +105,7 @@ dv_has_:
     mk: кампус
     mn: Оюутны хотхон
     ms: kampus
-    ms-arab: کمڤوس
+    ms_arab: کمڤوس
     my: တက္ကသိုလ်ဝင်း
     nan: Tāi-ha̍k hāu-hn̂g
     nb: campus
@@ -113,7 +113,7 @@ dv_has_:
     nn: campus
     pl: kampus
     pt: câmpus
-    pt-br: campus universtário
+    pt_br: campus universtário
     qu: Campus
     ru: кампус
     sh: kampus
@@ -123,8 +123,8 @@ dv_has_:
     sl: kampus
     so: Xerada waxbarashada
     sr: кампус
-    sr-ec: кампус
-    sr-el: kampus
+    sr_ec: кампус
+    sr_el: kampus
     sv: campus
     te: క్యాంపస్
     th: วิทยาเขต
@@ -136,12 +136,12 @@ dv_has_:
     vi: khuôn viên trường
     yue: 校園
     zh: 校园
-    zh-cn: 校园
-    zh-hans: 校园
-    zh-hant: 校園
-    zh-hk: 校園
-    zh-sg: 校园
-    zh-tw: 校園
+    zh_cn: 校园
+    zh_hans: 校园
+    zh_hant: 校園
+    zh_hk: 校園
+    zh_sg: 校园
+    zh_tw: 校園
 ---
 # [[University_Campus]] 
 

@@ -72,13 +72,13 @@ Commons_category: Sampling (statistics)
 dv_has_:
   name_:
     ar: اختيار العينات
-    be-tarask: адбор выбаркі
+    be_tarask: адбор выбаркі
     bew: Comot moster (statistik)
     ca: mostra aleatòria
     cs: výběr
     da: stikprøvetagning
     de: Stichprobennahme
-    de-ch: Zufallsstichprobe
+    de_ch: Zufallsstichprobe
     el: τυχαίο δείγμα
     en: sampling
     eo: muestrado
@@ -108,7 +108,7 @@ dv_has_:
     nl: aselecte steekproef
     pl: dobór próby
     pt: amostra aleatória
-    pt-br: amostra aleatória
+    pt_br: amostra aleatória
     ro: luare de probe
     ru: семплирование
     sa: प्रांशग्रहण
@@ -126,10 +126,10 @@ dv_has_:
     wuu: 抽样
     yue: 抽樣
     zh: 抽樣
-    zh-cn: 抽样调查
-    zh-hans: 抽样
-    zh-hant: 抽樣
-    zh-tw: 抽樣
+    zh_cn: 抽样调查
+    zh_hans: 抽样
+    zh_hant: 抽樣
+    zh_tw: 抽樣
 ---
 # [[Sampling]] 
 

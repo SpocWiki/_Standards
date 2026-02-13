@@ -67,7 +67,7 @@ dv_has_:
     ast: Hans Morgenthau
     az: Hans Morgentau
     azb: هانس مورقنتا
-    be-tarask: Ганс Моргентаў
+    be_tarask: Ганс Моргентаў
     bs: Hans Morgenthau
     ca: Hans Morgenthau
     cs: Hans Morgenthau
@@ -108,7 +108,7 @@ dv_has_:
     pa: ਹੈਂਜ ਮੌਰਗਨਥੂ
     pl: Hans Morgenthau
     pt: Hans Morgenthau
-    pt-br: Hans Morgenthau
+    pt_br: Hans Morgenthau
     ro: Hans Morgenthau
     ru: Ганс Моргентау
     sco: Hans Morgenthau

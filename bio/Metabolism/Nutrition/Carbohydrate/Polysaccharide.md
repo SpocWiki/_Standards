@@ -98,7 +98,7 @@ dv_has_:
     az: heteropolisaxaridlər
     azb: پولی ساکارید
     be: поліцукрыды
-    be-tarask: поліцукрыды
+    be_tarask: поліцукрыды
     bg: Полизахарид
     bn: পলিস্যাকারাইড
     bs: Polisaharidi
@@ -132,11 +132,11 @@ dv_has_:
     jv: Polisakarida
     ka: პოლისაქარიდები
     kk: Полисахаридтер
-    kk-arab: پولىيساحارىيدتەر
+    kk_arab: پولىيساحارىيدتەر
     kk-cn: پولىيساحارىيدتەر
-    kk-cyrl: Полисахаридтер
+    kk_cyrl: Полисахаридтер
     kk-kz: Полисахаридтер
-    kk-latn: Polïsaxarïdter
+    kk_latn: Polïsaxarïdter
     kk-tr: polïsaxarïdter
     ko: 다당류
     ky: Полисахариддер
@@ -163,7 +163,7 @@ dv_has_:
     sms: polysakkariid
     sq: Polisakaridet
     sr: полисахарид
-    sr-ec: полисахарид
+    sr_ec: полисахарид
     su: Polisakarida
     sv: polysackarid
     ta: கூட்டுச்சர்க்கரை

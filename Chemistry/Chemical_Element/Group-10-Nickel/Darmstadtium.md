@@ -130,7 +130,7 @@ dv_has_:
     ba: Дармштадтий
     ban: Darmstadtium
     be: Дармштатый
-    be-tarask: Дармштат
+    be_tarask: Дармштат
     bg: дармщатий
     bho: डार्मश्टाटियम
     bn: ডার্মস্টাটিয়াম
@@ -148,7 +148,7 @@ dv_has_:
     de: Darmstadtium
     el: νταρμστάντιο
     en: darmstadtium
-    en-gb: darmstadtium
+    en_gb: darmstadtium
     eo: darmŝtatiumo
     es: darmstatio
     et: darmstadtium
@@ -218,7 +218,7 @@ dv_has_:
     pnb: ڈارمسٹیڈیم
     ps: دارمسټادتيوم
     pt: darmstácio
-    pt-br: darmstácio
+    pt_br: darmstácio
     qu: Darmstadtiyu
     ro: darmstadtiu
     ru: дармштадтий
@@ -232,7 +232,7 @@ dv_has_:
     so: Darmstadtiyaam
     sq: darmstadtiumi
     sr: дармштатијум
-    sr-ec: Дармштатијум
+    sr_ec: Дармштатијум
     sv: darmstadtium
     sw: darmstadti
     ta: டார்ம்சிட்டாட்டியம்
@@ -255,14 +255,14 @@ dv_has_:
     yo: Darmstadtium
     yue: 鐽
     zh: "\U0002B7FC"
-    zh-cn: "\U0002B7FC"
-    zh-hans: "\U0002B7FC"
-    zh-hant: 鐽
-    zh-hk: 鐽
-    zh-mo: 鐽
+    zh_cn: "\U0002B7FC"
+    zh_hans: "\U0002B7FC"
+    zh_hant: 鐽
+    zh_hk: 鐽
+    zh_mo: 鐽
     zh-my: "\U0002B7FC"
-    zh-sg: "\U0002B7FC"
-    zh-tw: 鐽
+    zh_sg: "\U0002B7FC"
+    zh_tw: 鐽
     zu: IDamasimbi
 ---
 # [[Darmstadtium]] 

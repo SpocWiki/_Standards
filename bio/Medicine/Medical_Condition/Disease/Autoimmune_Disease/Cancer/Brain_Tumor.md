@@ -108,7 +108,7 @@ dv_has_:
     ast: Tumor cerebral
     az: beyin şişi
     be: пухліна галаўнога мозгу
-    be-tarask: пухліна мозгу
+    be_tarask: пухліна мозгу
     bg: мозъчен тумор
     bn: মস্তিষ্কের টিউমার
     bo: ཀླད་སྐྲན་
@@ -120,8 +120,8 @@ dv_has_:
     diq: Tumorê mezgi
     el: Εγκεφαλικός όγκος
     en: brain tumor
-    en-ca: brain tumour
-    en-gb: brain tumour
+    en_ca: brain tumour
+    en_gb: brain tumour
     en-us: brain tumor
     eo: cerba tumoro
     es: tumor cerebral
@@ -169,8 +169,8 @@ dv_has_:
     sl: možganski tumor
     sq: Tumori i trurit
     sr: интракранијални тумор
-    sr-ec: Интракранијални тумори
-    sr-el: Intrakranijalni tumori
+    sr_ec: Интракранијални тумори
+    sr_el: Intrakranijalni tumori
     su: Tumor otak
     sv: hjärntumör
     szy: punu’ a pucu’
@@ -190,12 +190,12 @@ dv_has_:
     wuu: 脑肿瘤
     yue: 腦癌
     zh: 脑肿瘤
-    zh-cn: 脑肿瘤
-    zh-hans: 脑肿瘤
-    zh-hant: 腦腫瘤
-    zh-hk: 腦腫瘤
-    zh-sg: 脑肿瘤
-    zh-tw: 腦腫瘤
+    zh_cn: 脑肿瘤
+    zh_hans: 脑肿瘤
+    zh_hant: 腦腫瘤
+    zh_hk: 腦腫瘤
+    zh_sg: 脑肿瘤
+    zh_tw: 腦腫瘤
 ---
 # [[Brain_Tumor]] 
 

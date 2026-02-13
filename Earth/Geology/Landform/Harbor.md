@@ -119,7 +119,7 @@ dv_has_:
     ar: مرفأ
     az: havan
     be: гавань
-    be-tarask: гавань
+    be_tarask: гавань
     bg: естествено пристанище
     bn: পোতাশ্রয়
     ca: refugi marítim
@@ -130,8 +130,8 @@ dv_has_:
     dsb: pśistaw
     el: λιμάνι
     en: harbor
-    en-ca: harbour
-    en-gb: harbour
+    en_ca: harbour
+    en_gb: harbour
     eo: haveno
     es: refugio marítimo
     et: looduslik sadam
@@ -155,7 +155,7 @@ dv_has_:
     kk: гавань
     ko: 항만
     ku: lengergeh
-    ku-latn: lengergeh
+    ku_latn: lengergeh
     ky: гавань
     la: statio navalis
     li: natuurleke have
@@ -179,7 +179,7 @@ dv_has_:
     sl: pristan
     sq: limani
     sr: пристаниште
-    sr-ec: пристаниште
+    sr_ec: пристаниште
     sv: hamn
     sw: bandari asilia
     ta: துறைமுகம்
@@ -194,8 +194,8 @@ dv_has_:
     war: darangpan
     yue: 海港
     zh: 港灣
-    zh-hans: 港湾
-    zh-hant: 港灣
+    zh_hans: 港湾
+    zh_hant: 港灣
 ---
 # [[Harbor]] 
 

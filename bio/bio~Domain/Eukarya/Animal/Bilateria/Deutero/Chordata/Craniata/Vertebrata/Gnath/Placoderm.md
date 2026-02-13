@@ -68,7 +68,7 @@ dv_has_:
     ast: Placodermi
     az: Zirehli balıqlar
     be: Панцырныя рыбы
-    be-tarask: Панцырныя рыбы
+    be_tarask: Панцырныя рыбы
     bg: Панцерни риби
     ca: placoderm
     ceb: Placodermi
@@ -120,12 +120,12 @@ dv_has_:
     wuu: 盾皮鱼纲
     yue: 盾皮魚
     zh: 盾皮魚綱
-    zh-cn: 盾皮鱼纲
-    zh-hans: 盾皮鱼纲
-    zh-hant: 盾皮魚綱
-    zh-hk: 盾皮魚綱
-    zh-sg: 盾皮鱼纲
-    zh-tw: 盾皮魚綱
+    zh_cn: 盾皮鱼纲
+    zh_hans: 盾皮鱼纲
+    zh_hant: 盾皮魚綱
+    zh_hk: 盾皮魚綱
+    zh_sg: 盾皮鱼纲
+    zh_tw: 盾皮魚綱
 ---
 # [[Placoderm]] 
 

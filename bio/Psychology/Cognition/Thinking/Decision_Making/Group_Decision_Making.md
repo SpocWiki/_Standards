@@ -38,7 +38,7 @@ partially_coincident_with: '[[_Standards/WikiData/WD~social_choice_theory,197146
 Library_of_Congress_Classification: HM746-HM751
 dv_has_:
   name_:
-    be-tarask: калектыўнае ўхваленьне рашэньняў
+    be_tarask: калектыўнае ўхваленьне рашэньняў
     ca: presa de decisió en grup
     da: beslutningstagning i grupper
     de: Entscheidungsverfahren
@@ -64,9 +64,9 @@ dv_has_:
     uk: групове ухвалення рішень
     yue: 集體決策
     zh: 集体决策
-    zh-cn: 集体决策
-    zh-hans: 集体决策
-    zh-hant: 集體決策
+    zh_cn: 集体决策
+    zh_hans: 集体决策
+    zh_hant: 集體決策
 ---
 # [[Group_Decision_Making]] 
 

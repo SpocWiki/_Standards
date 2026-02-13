@@ -98,7 +98,7 @@ dv_has_:
     as: ক্ৰা-ডাই ভাষা
     ast: Llingües tai-kadai
     azb: تای-کادای دیللری
-    be-tarask: тай-кадайскія мовы
+    be_tarask: тай-кадайскія мовы
     bg: таи-кадайски езици
     bn: তাই-কাদাই ভাষাসমূহ
     br: yezhoù taiek-kadaiek
@@ -153,7 +153,7 @@ dv_has_:
     sh: Tai-kadai jezici
     sl: kra-dajski jeziki
     sr: таи-кадаи језици
-    sr-ec: таи-кадаи језици
+    sr_ec: таи-кадаи језици
     sv: tai-kadaispråk
     sw: Lugha za Kitai-Kadai
     th: ตระกูลภาษาขร้า-ไท
@@ -166,9 +166,9 @@ dv_has_:
     yue: 壯侗語系
     za: Vahhaeh Cuengh-Gaemj
     zh: 壯侗語系
-    zh-hans: 壮侗语系
-    zh-hant: 壯侗語系
-    zh-tw: 壯侗語系
+    zh_hans: 壮侗语系
+    zh_hant: 壯侗語系
+    zh_tw: 壯侗語系
 ---
 # [[LangFamily-Kra-Dai]] 
 

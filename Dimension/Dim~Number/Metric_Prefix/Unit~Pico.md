@@ -64,8 +64,8 @@ dv_has_:
     de: Piko
     el: πικο
     en: pico-
-    en-ca: pico-
-    en-gb: pico-
+    en_ca: pico-
+    en_gb: pico-
     eo: piko
     es: pico
     et: piko-
@@ -99,7 +99,7 @@ dv_has_:
     mk: пико
     ml: പീക്കോ-
     ms: piko
-    ms-arab: ڤيکو
+    ms_arab: ڤيکو
     nb: pico
     nds: Pico
     nl: pico
@@ -107,7 +107,7 @@ dv_has_:
     oc: pico-
     pl: piko
     pt: pico
-    pt-br: pico
+    pt_br: pico
     ro: pico
     ru: пико-
     rue: Пико-
@@ -118,26 +118,26 @@ dv_has_:
     sl: piko
     sq: piko
     sr: пико
-    sr-ec: пико
-    sr-el: piko
+    sr_ec: пико
+    sr_el: piko
     sv: piko
     ta: பிக்கோ
     te: పీకో
     th: พิโก
     tr: piko-
     tt: пико-
-    tt-cyrl: пико-
+    tt_cyrl: пико-
     uk: піко-
     ur: پیکو
     vi: picô
     yue: 皮
     zh: 皮
-    zh-cn: 皮
-    zh-hans: 皮
-    zh-hant: 皮
-    zh-hk: 皮
-    zh-sg: 皮
-    zh-tw: 皮
+    zh_cn: 皮
+    zh_hans: 皮
+    zh_hant: 皮
+    zh_hk: 皮
+    zh_sg: 皮
+    zh_tw: 皮
 ---
 #is_/same_as :: [[_Standards/WikiData/WD~pico_,154341]] 
 

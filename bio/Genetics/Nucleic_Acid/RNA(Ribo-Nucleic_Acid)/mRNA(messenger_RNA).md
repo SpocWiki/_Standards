@@ -6,7 +6,7 @@ dv_has_:
     ar: حمض نووي ريبوزي رسول
     arz: مرسال الحمض النووى الريبوزى
     az: MRNT
-    be-tarask: інфармацыйная РНК
+    be_tarask: інфармацыйная РНК
     bg: Информационна РНК
     bn: বার্তাবাহী আরএনএ
     bs: Informacijska RNK
@@ -37,7 +37,7 @@ dv_has_:
     kk: Мəліметтік РНҚ
     ko: 전령 RNA
     ku: Messenger RNA
-    ku-latn: ARN-peyamber
+    ku_latn: ARN-peyamber
     la: MRNA
     lo: Messenger RNA
     lt: iRNR
@@ -60,8 +60,8 @@ dv_has_:
     sk: Mediátorová ribonukleová kyselina
     sl: informacijska RNK
     sr: информациона РНК
-    sr-ec: информациона РНК
-    sr-el: informaciona RNK
+    sr_ec: информациона РНК
+    sr_el: informaciona RNK
     sv: budbärar-RNA
     ta: தூதாறனை
     th: เอ็มอาร์เอ็นเอ
@@ -72,12 +72,12 @@ dv_has_:
     wuu: 信使核糖核酸
     xmf: ინფორმაციული რიბონუკლეინიშ ბჟე
     zh: 信使核糖核酸
-    zh-cn: mRNA
-    zh-hans: mRNA
-    zh-hant: mRNA
-    zh-hk: mRNA
-    zh-sg: mRNA
-    zh-tw: mRNA
+    zh_cn: mRNA
+    zh_hans: mRNA
+    zh_hant: mRNA
+    zh_hk: mRNA
+    zh_sg: mRNA
+    zh_tw: mRNA
 aliases:
 - Acid ribonucleïc messatgèr
 - acide ribonucléique messager

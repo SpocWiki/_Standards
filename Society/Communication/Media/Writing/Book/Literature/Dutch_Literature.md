@@ -56,7 +56,7 @@ dv_has_:
     af: Nederlandse letterkunde
     ar: أدب اللغة الهولندية
     be: нідэрландская літаратура
-    be-tarask: нідэрляндзкая літаратура
+    be_tarask: нідэрляндзкая літаратура
     ca: literatura en neerlandès
     cs: nizozemská literatura
     da: Nederlandsk litteratur
@@ -90,7 +90,7 @@ dv_has_:
     uk: нідерландська література
     yue: 荷蘭文文學
     zh: 荷蘭文學
-    zh-hant: 荷蘭文學
+    zh_hant: 荷蘭文學
 ---
 # [[Dutch_Literature]] 
 

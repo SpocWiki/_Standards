@@ -118,7 +118,7 @@ dv_has_:
     ast: astrobioloxía
     az: astrobiologiya
     be: астрабіялогія
-    be-tarask: астрабіялёгія
+    be_tarask: астрабіялёгія
     bg: астробиология
     bn: জ্যোতির্জীববিজ্ঞান
     bs: astrobiologija
@@ -129,11 +129,11 @@ dv_has_:
     cy: astrofioleg
     da: astrobiologi
     de: Astrobiologie
-    de-ch: Astrobiologie
+    de_ch: Astrobiologie
     el: βιοαστρονομία
     en: astrobiology
-    en-ca: astrobiology
-    en-gb: astrobiology
+    en_ca: astrobiology
+    en_gb: astrobiology
     eo: astrobiologio
     es: astrobiología
     et: astrobioloogia
@@ -180,7 +180,7 @@ dv_has_:
     pl: astrobiologia
     ps: ستورو ژونپوهنه
     pt: exobiologia
-    pt-br: exobiologia
+    pt_br: exobiologia
     ro: exobiologie
     ru: астробиология
     sco: astrobiology
@@ -194,8 +194,8 @@ dv_has_:
     sms: astrobiologia
     sq: Astrobiologjia
     sr: космичка биологија
-    sr-ec: космичка биологија
-    sr-el: kosmička biologija
+    sr_ec: космичка биологија
+    sr_el: kosmička biologija
     sv: astrobiologi
     ta: விண்வெளி உயிரியல்
     tg: астробиология

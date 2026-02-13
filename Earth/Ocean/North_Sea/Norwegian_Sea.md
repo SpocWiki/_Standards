@@ -166,7 +166,7 @@ dv_has_:
     azb: نوروژ دنیزی
     ba: Норвег диңгеҙе
     be: Нарвежскае мора
-    be-tarask: Нарвэскае мора
+    be_tarask: Нарвэскае мора
     bew: Laot Norwèhen
     bg: Норвежко море
     bn: নরওয়েজীয় সাগর
@@ -214,7 +214,7 @@ dv_has_:
     ko: 노르웨이해
     krc: Норвег тенгиз
     ku: Deryaya Norwêcî
-    ku-latn: Deryaya Norwêcî
+    ku_latn: Deryaya Norwêcî
     ky: Норвег деңизи
     la: Mare Norvegicum
     lb: Norwegescht Mier
@@ -251,7 +251,7 @@ dv_has_:
     smn: Taažâmeerâ
     sq: Deti Norvegjez
     sr: Норвешко море
-    sr-ec: Норвешко море
+    sr_ec: Норвешко море
     sv: Norska havet
     sw: Bahari ya Norwei
     ta: நோர்வீயக் கடல்

@@ -301,8 +301,8 @@ U_S_National_Archives_Identifier: 10640291
 Wikidata_property: FoodData Central ID
 dv_has_:
   name_:
-    aeb-arab: ماكلة
-    aeb-latn: mèkla
+    aeb_arab: ماكلة
+    aeb_latn: mèkla
     af: voedsel
     am: ምግብ
     an: alimento
@@ -323,7 +323,7 @@ dv_has_:
     bar: Viktualien
     bcl: kakanon
     be: ежа
-    be-tarask: ежа
+    be_tarask: ежа
     bg: храна
     bho: भोजन
     bi: kakae
@@ -332,7 +332,7 @@ dv_has_:
     br: boued
     bs: hrana
     ca: aliment
-    cbk-zam: comida
+    cbk_zam: comida
     cdo: siăh gì nó̤h
     ce: кхача
     ceb: pagkaon
@@ -345,15 +345,15 @@ dv_has_:
     da: mad
     dag: bindirigu
     de: Nahrung
-    de-ch: Lebensmittel
+    de_ch: Lebensmittel
     diq: werd
     dtp: Taakanon
     dty: खाद्यपदार्थ
     ee: nududu
     el: τροφή
     en: food
-    en-ca: food
-    en-gb: food
+    en_ca: food
+    en_gb: food
     en-us: food
     eo: manĝaĵo
     es: alimento
@@ -439,7 +439,7 @@ dv_has_:
     mos: food
     mr: अन्न
     ms: makanan
-    ms-arab: ماكنن
+    ms_arab: ماكنن
     mt: ikel
     mwl: quemido
     my: အစားအစာ
@@ -469,7 +469,7 @@ dv_has_:
     pnb: کھاݨا
     ps: خواړه
     pt: alimento
-    pt-br: alimento
+    pt_br: alimento
     pwn: lami
     qu: mikhuna
     rmy: xapen
@@ -499,7 +499,7 @@ dv_has_:
     so: cunto
     sq: ushqim
     sr: храна
-    sr-ec: храна
+    sr_ec: храна
     st: dijo
     su: pangan
     sv: mat
@@ -515,7 +515,7 @@ dv_has_:
     tr: yiyecek
     ts: swakudya
     tt: ризык
-    tt-cyrl: ризык
+    tt_cyrl: ризык
     tw: aduane
     udm: сиён
     uk: їжа
@@ -537,14 +537,14 @@ dv_has_:
     za: gijgwn
     zea: voedienge
     zh: 食物
-    zh-cn: 食物
-    zh-hans: 食物
-    zh-hant: 食物
-    zh-hk: 食物
-    zh-mo: 食物
+    zh_cn: 食物
+    zh_hans: 食物
+    zh_hant: 食物
+    zh_hk: 食物
+    zh_mo: 食物
     zh-my: 食物
-    zh-sg: 食物
-    zh-tw: 食物
+    zh_sg: 食物
+    zh_tw: 食物
     zu: Ukudla
 ---
 # [[Food]] 🍲  

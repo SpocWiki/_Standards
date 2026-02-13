@@ -198,7 +198,7 @@ dv_has_:
     ban: Kuda nil
     bcl: Hipopotamo
     be: Бегемот
-    be-tarask: бэгемот
+    be_tarask: бэгемот
     bg: хипопотам
     bm: Mali
     bn: জলহস্তী
@@ -221,8 +221,8 @@ dv_has_:
     ee: Tɔmenyi
     el: Ιπποπόταμος
     en: Hippopotamus amphibius
-    en-ca: hippopotamus
-    en-gb: Hippopotamus amphibius
+    en_ca: hippopotamus
+    en_gb: Hippopotamus amphibius
     eo: Amfibia hipopotamo
     es: Hippopotamus amphibius
     et: jõehobu
@@ -300,7 +300,7 @@ dv_has_:
     pnb: دریائی گھوڑا
     ps: د اوبو آس
     pt: hipopótamo-comum
-    pt-br: hipopótamo-comum
+    pt_br: hipopótamo-comum
     qu: Hatun mayu khuchi
     rn: Invubu
     ro: Hipopotam
@@ -318,7 +318,7 @@ dv_has_:
     so: Jeer
     sq: Kali i Nilit
     sr: нилски коњ
-    sr-ec: нилски коњ
+    sr_ec: нилски коњ
     su: Kuda nil
     sv: flodhäst
     sw: Kiboko
@@ -346,9 +346,9 @@ dv_has_:
     yo: Erinmilókun
     yue: 河馬
     zh: 河马
-    zh-cn: 河马
-    zh-hans: 河马
-    zh-hant: 河馬
+    zh_cn: 河马
+    zh_hans: 河马
+    zh_hant: 河馬
     zu: Imvubu
 ---
 # [[Hippopotamus]] 

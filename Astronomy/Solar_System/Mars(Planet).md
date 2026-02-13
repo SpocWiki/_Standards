@@ -312,7 +312,7 @@ dv_has_:
     bar: Mars
     bcl: Marte
     be: Марс
-    be-tarask: Марс
+    be_tarask: Марс
     bew: Marih
     bg: Марс
     bho: मंगल ग्रह
@@ -340,7 +340,7 @@ dv_has_:
     da: Mars
     dag: Mars
     de: Mars
-    de-ch: Mars
+    de_ch: Mars
     dga: Mars
     diq: Mars
     dsb: Mars
@@ -350,8 +350,8 @@ dv_has_:
     el: Άρης
     eml: Mèrt
     en: Mars
-    en-ca: Mars
-    en-gb: Mars
+    en_ca: Mars
+    en_gb: Mars
     eo: Marso
     es: Marte
     et: Marss
@@ -414,7 +414,7 @@ dv_has_:
     kg: Mars
     ki: Maasi
     kk: Марс
-    kk-cyrl: малимет марс туралы
+    kk_cyrl: малимет марс туралы
     km: ភពអង្គារ
     kn: ಮಂಗಳ
     ko: 화성
@@ -452,7 +452,7 @@ dv_has_:
     mnw: မာရ်သ်
     mr: मंगळ ग्रह
     ms: Marikh
-    ms-arab: مريخ
+    ms_arab: مريخ
     mt: Marte
     mul: Mars
     mwl: Marte
@@ -465,7 +465,7 @@ dv_has_:
     nap: Marte
     nb: Mars
     nds: Mars
-    nds-nl: Mars
+    nds_nl: Mars
     ne: मंगलग्रह
     new: मंगल ग्रह
     nia: Mars
@@ -489,7 +489,7 @@ dv_has_:
     pnb: مریخ
     ps: مريخ
     pt: Marte
-    pt-br: Marte
+    pt_br: Marte
     qu: Awqakuq
     rm: Mars
     rmy: Manjor
@@ -537,7 +537,7 @@ dv_has_:
     tok: mun loje Masi
     tr: Mars
     tt: Марс
-    tt-cyrl: Марс
+    tt_cyrl: Марс
     tum: Chanya la Chivuvuzi
     ty: Fetià ùra
     tyv: Марс
@@ -566,13 +566,13 @@ dv_has_:
     zea: Mars
     zgh: ⵉⵎⵣⵡⵉⵖ
     zh: 火星
-    zh-cn: 火星
-    zh-hans: 火星
-    zh-hant: 火星
-    zh-hk: 火星
-    zh-mo: 火星
-    zh-sg: 火星
-    zh-tw: 火星
+    zh_cn: 火星
+    zh_hans: 火星
+    zh_hant: 火星
+    zh_hk: 火星
+    zh_mo: 火星
+    zh_sg: 火星
+    zh_tw: 火星
     zu: UMarzi
 ---
 # [[Mars(Planet)]] 

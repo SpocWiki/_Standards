@@ -69,11 +69,11 @@ dv_has_:
     cy: Ocapi
     da: okapi
     de: Okapi
-    de-ch: Okapi
+    de_ch: Okapi
     el: Οκάπι
     en: Okapia johnstoni
-    en-ca: Okapi
-    en-gb: Okapi
+    en_ca: Okapi
+    en_gb: Okapi
     eo: Okapio
     es: Okapia johnstoni
     et: Okaapi
@@ -126,7 +126,7 @@ dv_has_:
     pl: okapi leśne
     pnb: اوکاپی
     pt: Okapia johnstoni
-    pt-br: Okapia johnstoni
+    pt_br: Okapia johnstoni
     ro: Okapi
     ru: Окапи
     sco: okapi
@@ -154,8 +154,8 @@ dv_has_:
     xmf: ოკაპი
     yue: 㺢㹢狓屬
     zh: 㺢㹢狓
-    zh-cn: 霍加狓
-    zh-tw: 㺢㹢狓
+    zh_cn: 霍加狓
+    zh_tw: 㺢㹢狓
     zu: I-Okapi
 ---
 ## Phylogeny 

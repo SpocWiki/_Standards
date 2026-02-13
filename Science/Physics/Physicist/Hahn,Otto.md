@@ -180,7 +180,7 @@ dv_has_:
     az: Otto Han
     azb: اتو هان
     be: Ота Ган
-    be-tarask: Ота Ган
+    be_tarask: Ота Ган
     bg: Ото Хан
     bn: অটো হান
     br: Otto Hahn
@@ -192,8 +192,8 @@ dv_has_:
     de: Otto Hahn
     el: Ότο Χαν
     en: Otto Hahn
-    en-ca: Otto Hahn
-    en-gb: Otto Hahn
+    en_ca: Otto Hahn
+    en_gb: Otto Hahn
     eo: Otto Hahn
     es: Otto Hahn
     et: Otto Hahn
@@ -240,7 +240,7 @@ dv_has_:
     pnb: اٹو ہاہن
     ps: اتو هان
     pt: Otto Hahn
-    pt-br: Otto Hahn
+    pt_br: Otto Hahn
     ro: Otto Hahn
     ru: Отто Ган
     sco: Otto Hahn
@@ -265,7 +265,7 @@ dv_has_:
     yo: Otto Hahn
     yue: 奧濤哈恩
     zh: 奥托·哈恩
-    zh-hant: 奧托·哈恩
+    zh_hant: 奧托·哈恩
 ---
 # [[Hahn,Otto]] 
 

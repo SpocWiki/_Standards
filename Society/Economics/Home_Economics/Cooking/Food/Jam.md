@@ -90,7 +90,7 @@ dv_has_:
     atj: cikominan
     az: cem
     be: джэм
-    be-tarask: джэм
+    be_tarask: джэм
     bg: конфитюр
     bn: জ্যাম
     br: kaotigell
@@ -101,7 +101,7 @@ dv_has_:
     cy: jam
     da: syltetøj
     de: Konfitüre
-    de-ch: Konfitüre
+    de_ch: Konfitüre
     el: μαρμελάδα
     en: jam
     eo: konfitaĵo
@@ -135,7 +135,7 @@ dv_has_:
     my: ယို
     nan: kóe-chí-chiùⁿ
     nb: syltetøy
-    nds-nl: schem
+    nds_nl: schem
     ne: जाम
     nl: jam
     nn: syltetøy
@@ -144,7 +144,7 @@ dv_has_:
     pl: dżem
     pnb: جیم
     pt: doce
-    pt-br: doce
+    pt_br: doce
     rki: ယို
     ro: gem
     ru: джем
@@ -154,7 +154,7 @@ dv_has_:
     sl: džem
     sq: reçel
     sr: džem
-    sr-ec: џем
+    sr_ec: џем
     sv: sylt
     ta: பழப்பாகு
     tg: джем
@@ -168,8 +168,8 @@ dv_has_:
     wuu: 果酱
     yue: 果占
     zh: 果醬
-    zh-hans: 果酱
-    zh-hant: 果醬
+    zh_hans: 果酱
+    zh_hant: 果醬
 ---
 # [[Jam]] 
 

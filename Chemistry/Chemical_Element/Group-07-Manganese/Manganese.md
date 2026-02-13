@@ -221,7 +221,7 @@ dv_has_:
     ban: Mangan (datu)
     bcl: Mangganeso
     be: Марганец
-    be-tarask: манган
+    be_tarask: манган
     bg: манган
     bho: मैंगनीज
     blk: မဲန်ဂနီ့သ်
@@ -329,7 +329,7 @@ dv_has_:
     pnb: مینگانیز
     ps: منگنيز
     pt: manganês
-    pt-br: manganês
+    pt_br: manganês
     qu: Manganisu
     ro: mangan
     ru: марганец
@@ -349,7 +349,7 @@ dv_has_:
     so: Manganiis
     sq: Mangani
     sr: манган
-    sr-ec: Манган
+    sr_ec: Манган
     stq: Mangan
     su: Mangan
     sv: mangan
@@ -374,11 +374,11 @@ dv_has_:
     yo: Manganisi
     yue: 錳
     zh: 錳
-    zh-cn: 锰
-    zh-hans: 锰
-    zh-hant: 錳
-    zh-hk: 錳
-    zh-tw: 錳
+    zh_cn: 锰
+    zh_hans: 锰
+    zh_hant: 錳
+    zh_hk: 錳
+    zh_tw: 錳
     zu: UManyazini
   number_of_:
     period: 4

@@ -141,7 +141,7 @@ dv_has_:
     ba: Гадолиний
     ban: Gadolinium
     be: Гадаліній
-    be-tarask: Гадалін
+    be_tarask: Гадалін
     bg: гадолиний
     bho: गैडोलिनियम
     bn: গ্যাডালিনিয়াম
@@ -159,7 +159,7 @@ dv_has_:
     de: Gadolinium
     el: γαδολίνιο
     en: gadolinium
-    en-gb: gadolinium
+    en_gb: gadolinium
     eo: gadolinio
     es: gadolinio
     et: gadoliinium
@@ -236,7 +236,7 @@ dv_has_:
     pnb: گاڈولینیم
     ps: گاډولينيوم
     pt: gadolínio
-    pt-br: gadolínio
+    pt_br: gadolínio
     qu: Gadolinyu
     ro: gadoliniu
     ru: гадолиний
@@ -250,7 +250,7 @@ dv_has_:
     sl: gadolinij
     sq: gadolini
     sr: гадолинијум
-    sr-ec: Гадолинијум
+    sr_ec: Гадолинијум
     stq: Gadolinium
     sv: gadolinium
     sw: Gadolini
@@ -273,8 +273,8 @@ dv_has_:
     yo: Gadolinium
     yue: 釓
     zh: 钆
-    zh-hant: 釓
-    zh-tw: 釓
+    zh_hant: 釓
+    zh_tw: 釓
     zu: UmGedembulu
   number_of_:
     period: 6

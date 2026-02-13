@@ -158,7 +158,7 @@ dv_has_:
     ba: ирек
     bcl: katalingkasan
     be: свабода
-    be-tarask: свабода
+    be_tarask: свабода
     bg: Свобода
     bm: hɔrɔnya
     bn: আজাদী
@@ -172,7 +172,7 @@ dv_has_:
     cy: rhyddid
     da: frihed
     de: Freiheit
-    de-ch: Freiheit
+    de_ch: Freiheit
     diq: xoseriye
     ee: ablode
     el: ελευθερία
@@ -217,7 +217,7 @@ dv_has_:
     mk: слобода
     ml: സ്വാതന്ത്ര്യം
     ms: kebebasan
-    ms-arab: کبيبسن
+    ms_arab: کبيبسن
     mt: libertà
     mwl: lhibardade
     myv: аоре
@@ -235,7 +235,7 @@ dv_has_:
     pms: Libertà
     ps: آزادي
     pt: liberdade
-    pt-br: liberdade
+    pt_br: liberdade
     qu: qispi kay
     ro: libertate
     ru: свобода
@@ -255,7 +255,7 @@ dv_has_:
     so: xoriyad
     sq: liria
     sr: слобода
-    sr-ec: слобода
+    sr_ec: слобода
     sv: frihet
     ta: விடுதலை
     tg: озодӣ
@@ -275,9 +275,9 @@ dv_has_:
     yue: 自由
     zgh: ⵜⵉⵍⴻⵍⵍⵉ
     zh: 自由
-    zh-cn: 自由
-    zh-hans: 自由
-    zh-hant: 自由
+    zh_cn: 自由
+    zh_hans: 自由
+    zh_hant: 自由
 ---
 # [[Liberty]] 
 

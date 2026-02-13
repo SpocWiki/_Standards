@@ -190,7 +190,7 @@ dv_has_:
     ba: Һунар
     bar: Jagd
     be: паляванне
-    be-tarask: паляваньне
+    be_tarask: паляваньне
     bg: лов
     bjn: bagarit
     bn: শিকার
@@ -210,7 +210,7 @@ dv_has_:
     dga: naŋkpaanti
     el: κυνήγι
     en: hunting
-    en-gb: hunting
+    en_gb: hunting
     en-us: Hunting
     eo: ĉasado
     es: caza
@@ -280,7 +280,7 @@ dv_has_:
     pl: polowanie
     pnb: شکار
     pt: caça
-    pt-br: caça
+    pt_br: caça
     qu: chaku
     ro: vânătoare
     ru: охота
@@ -311,7 +311,7 @@ dv_has_:
     tr: avcılık
     trv: Tmsamat
     tt: ау
-    tt-cyrl: ау
+    tt_cyrl: ау
     uk: полювання
     ur: شکار
     uz: Ov
@@ -322,10 +322,10 @@ dv_has_:
     wuu: 狩猎
     yue: 打獵
     zh: 狩獵
-    zh-hans: 狩猎
-    zh-hant: 狩獵
-    zh-hk: 狩獵
-    zh-tw: 狩獵
+    zh_hans: 狩猎
+    zh_hant: 狩獵
+    zh_hk: 狩獵
+    zh_tw: 狩獵
 ---
 # [[Hunting]] 
 

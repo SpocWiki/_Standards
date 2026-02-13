@@ -292,7 +292,7 @@ dv_has_:
     ban: Mikhail Gorbachev
     bcl: Mikhail Gorbachev
     be: Міхаіл Сяргеевіч Гарбачоў
-    be-tarask: Міхаіл Гарбачоў
+    be_tarask: Міхаіл Гарбачоў
     bg: Михаил Горбачов
     bho: मिखाइल गोर्बाचोव
     bn: মিখাইল গর্বাচেভ
@@ -310,8 +310,8 @@ dv_has_:
     de: Michail Sergejewitsch Gorbatschow
     el: Μιχαήλ Γκορμπατσώφ
     en: Mikhail Gorbachev
-    en-ca: Mikhail Gorbachev
-    en-gb: Mikhail Gorbachev
+    en_ca: Mikhail Gorbachev
+    en_gb: Mikhail Gorbachev
     eo: Miĥail Gorbaĉov
     es: Mijaíl Gorbachov
     et: Mihhail Gorbatšov
@@ -351,7 +351,7 @@ dv_has_:
     kn: ಮಿಖಾಯಿಲ್ ಗೊರ್ಬಚೆವ್
     ko: 미하일 고르바초프
     ku: Mîxaîl Gorbaçov
-    ku-latn: Mîxaîl Gorbaçov
+    ku_latn: Mîxaîl Gorbaçov
     kw: Mikhail Gorbachev
     ky: Михаил Горбачёв
     la: Michael Gorbačëv
@@ -396,7 +396,7 @@ dv_has_:
     pnb: میخائل گورباچوف
     ps: میخایل ګورباچف
     pt: Mikhail Gorbachev
-    pt-br: Mikhail Gorbatchov
+    pt_br: Mikhail Gorbatchov
     qu: Mikhail Gorbachov
     ro: Mihail Gorbaciov
     ru: Михаил Сергеевич Горбачёв
@@ -443,10 +443,10 @@ dv_has_:
     yo: Mikaẹli Gọrbatsẹf
     yue: 戈巴卓夫
     zh: 米哈伊尔·戈尔巴乔夫
-    zh-cn: 米哈伊尔·谢尔盖耶维奇·戈尔巴乔夫
-    zh-hans: 米哈伊尔·戈尔巴乔夫
-    zh-hant: 米哈伊爾·戈爾巴喬夫
-    zh-hk: 米凱·戈巴卓夫
+    zh_cn: 米哈伊尔·谢尔盖耶维奇·戈尔巴乔夫
+    zh_hans: 米哈伊尔·戈尔巴乔夫
+    zh_hant: 米哈伊爾·戈爾巴喬夫
+    zh_hk: 米凱·戈巴卓夫
 ---
 # [[Gorbachev,Mikhail]] 
 

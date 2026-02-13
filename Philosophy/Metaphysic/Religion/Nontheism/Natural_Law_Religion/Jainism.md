@@ -122,7 +122,7 @@ dv_has_:
     ban: Agama Jain
     bcl: Hainismo
     be: джайнізм
-    be-tarask: Джайнізм
+    be_tarask: Джайнізм
     bg: джайнизъм
     bho: जैन धर्म
     bi: Jeinisim
@@ -144,8 +144,8 @@ dv_has_:
     dv: ޖައިނިޒަމް
     el: Τζαϊνισμός
     en: Jainism
-    en-ca: Jainism
-    en-gb: Jainism
+    en_ca: Jainism
+    en_gb: Jainism
     eo: ĝainismo
     es: jainismo
     et: Džainism
@@ -226,7 +226,7 @@ dv_has_:
     pnb: جین مت
     ps: جاينيزم
     pt: jainismo
-    pt-br: Jainismo
+    pt_br: Jainismo
     rki: ဂျိန်းဘာသာ
     rmy: Jajinipen
     ro: Jainism
@@ -248,8 +248,8 @@ dv_has_:
     so: Jainism
     sq: Jainism
     sr: ђаинизам
-    sr-ec: ђаинизам
-    sr-el: đainizam
+    sr_ec: ђаинизам
+    sr_el: đainizam
     sv: Jainism
     sw: Ujain
     ta: ஜைனம்
@@ -271,14 +271,14 @@ dv_has_:
     yi: דזשייניזם
     yue: 耆那教
     zh: 耆那教
-    zh-cn: 耆那教
-    zh-hans: 耆那教
-    zh-hant: 耆那教
-    zh-hk: 耆那教
-    zh-mo: 耆那教
+    zh_cn: 耆那教
+    zh_hans: 耆那教
+    zh_hant: 耆那教
+    zh_hk: 耆那教
+    zh_mo: 耆那教
     zh-my: 耆那教
-    zh-sg: 耆那教
-    zh-tw: 耆那教
+    zh_sg: 耆那教
+    zh_tw: 耆那教
 ---
 # [[Jainism]] 
 

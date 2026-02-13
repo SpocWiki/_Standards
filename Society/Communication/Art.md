@@ -266,7 +266,7 @@ dv_has_:
     bar: Kunst
     bcl: arte
     be: мастацтва
-    be-tarask: мастацтва
+    be_tarask: мастацтва
     bew: Seni
     bg: изкуство
     bho: कला
@@ -291,14 +291,14 @@ dv_has_:
     cy: celf
     da: kunst
     de: Kunst
-    de-ch: Kunst
+    de_ch: Kunst
     diq: huner
     dtp: Inus
     dz: སྒྱུ་རྩལ
     el: τέχνη
     en: art
-    en-ca: art
-    en-gb: art
+    en_ca: art
+    en_gb: art
     eo: arto
     es: arte
     et: kunst
@@ -359,7 +359,7 @@ dv_has_:
     ko: 예술
     ks: فَن
     ku: huner
-    ku-latn: huner
+    ku_latn: huner
     kw: art
     ky: көркөм өнөр
     la: ars
@@ -387,7 +387,7 @@ dv_has_:
     mnw: ပါန်ကွတ်
     mr: कला
     ms: seni
-    ms-arab: سني
+    ms_arab: سني
     mt: arti
     mwl: arte
     my: အနုပညာ
@@ -398,7 +398,7 @@ dv_has_:
     nap: arte
     nb: kunst
     nds: Kunst
-    nds-nl: keunst
+    nds_nl: keunst
     ne: कला
     nl: kunst
     nn: kunst
@@ -415,7 +415,7 @@ dv_has_:
     pnb: آرٹ
     ps: هونر
     pt: arte
-    pt-br: arte
+    pt_br: arte
     qu: kapchiy
     rki: အနုပညာ
     ro: artă
@@ -443,8 +443,8 @@ dv_has_:
     so: fan
     sq: art
     sr: уметност
-    sr-ec: уметност
-    sr-el: umetnost
+    sr_ec: уметност
+    sr_el: umetnost
     ss: buciko
     stq: Kunst
     su: seni
@@ -463,8 +463,8 @@ dv_has_:
     tr: sanat
     ts: vuqambhi
     tt: сәнгать
-    tt-cyrl: сәнгать
-    tt-latn: sänğät
+    tt_cyrl: сәнгать
+    tt_latn: sänğät
     udm: устолык
     uk: мистецтво
     ur: فن
@@ -487,14 +487,14 @@ dv_has_:
     zea: kunst
     zgh: ⵜⴰⵥⵓⵕⵉ
     zh: 藝術
-    zh-cn: 艺术
-    zh-hans: 艺术
-    zh-hant: 藝術
-    zh-hk: 藝術
-    zh-mo: 藝術
+    zh_cn: 艺术
+    zh_hans: 艺术
+    zh_hant: 藝術
+    zh_hk: 藝術
+    zh_mo: 藝術
     zh-my: 艺术
-    zh-sg: 艺术
-    zh-tw: 藝術
+    zh_sg: 艺术
+    zh_tw: 藝術
     zu: ubuciko
 ---
 # [[Art]] 

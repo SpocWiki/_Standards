@@ -220,7 +220,7 @@ dv_has_:
     ba: Байрон Джордж Гордон
     bar: George Gordon Byron
     be: Джордж Байран
-    be-tarask: Джордж Байран
+    be_tarask: Джордж Байран
     bg: Джордж Байрон
     bho: लार्ड बायरन
     bi: Lord Byron
@@ -240,12 +240,12 @@ dv_has_:
     cy: George Gordon Byron
     da: Lord Byron
     de: George Gordon Byron
-    de-ch: George Gordon Byron
+    de_ch: George Gordon Byron
     diq: George Byron, 6th Baron Byron
     el: Λόρδος Βύρων
     en: Lord Byron
-    en-ca: Lord Byron
-    en-gb: Lord Byron
+    en_ca: Lord Byron
+    en_gb: Lord Byron
     eo: George Byron
     es: George Gordon Byron
     et: George Gordon Byron
@@ -325,7 +325,7 @@ dv_has_:
     pms: George Byron
     pnb: بائرن
     pt: Lord Byron
-    pt-br: Lord Byron
+    pt_br: Lord Byron
     qu: Lord Byron
     ro: George Gordon Byron
     ru: Джордж Гордон Байрон
@@ -337,7 +337,7 @@ dv_has_:
     sd: جارج گورڊن بائرن
     sgs: Džuordžos Nuoelės Guorduons Bairuons
     sh: George Gordon Byron
-    sh-cyrl: Џорџ Гордон Бајрон
+    sh_cyrl: Џорџ Гордон Бајрон
     sk: George Gordon Byron
     sl: George Gordon Byron
     sq: George Gordon Byron

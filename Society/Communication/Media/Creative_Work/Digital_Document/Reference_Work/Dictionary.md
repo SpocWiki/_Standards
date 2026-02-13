@@ -213,7 +213,7 @@ Commons_category: Dictionaries
 Krugosvet_article_archived_: gumanitarnye_nauki/lingvistika/SLOVAR.html
 dv_has_:
   name_:
-    aeb-arab: منجد
+    aeb_arab: منجد
     af: woordeboek
     an: diccionario
     ar: معجم
@@ -227,7 +227,7 @@ dv_has_:
     azb: سؤزلوک
     ba: һүҙлек
     be: слоўнік
-    be-tarask: слоўнік
+    be_tarask: слоўнік
     bew: kamus
     bg: речник
     bho: डिक्शेनरी
@@ -296,7 +296,7 @@ dv_has_:
     ko: 사전
     ks: ڈِکشَنری
     ku: ferheng
-    ku-latn: ferheng
+    ku_latn: ferheng
     kw: gerlyver
     ky: сөздүк
     la: lexicon
@@ -309,7 +309,7 @@ dv_has_:
     lo: ວັດຈະນານຸກົມ
     lt: žodynas
     lv: vārdnīca
-    map-bms: bausastra
+    map_bms: bausastra
     mdf: валкс
     mg: rakibolana
     mhr: мутер
@@ -320,7 +320,7 @@ dv_has_:
     mni: ꯄꯨꯀꯩꯂꯣꯜ
     mr: शब्दकोश
     ms: kamus
-    ms-arab: قاموس
+    ms_arab: قاموس
     mt: dizzjunarju
     my: အဘိဓာန်
     myv: валкс
@@ -372,7 +372,7 @@ dv_has_:
     so: qaamuus
     sq: fjalori
     sr: речник
-    sr-ec: речник
+    sr_ec: речник
     srn: wortubuku
     stq: Woudebouk
     su: kamus
@@ -387,7 +387,7 @@ dv_has_:
     tok: lipu nimi
     tr: sözlük
     tt: сүзлек
-    tt-cyrl: сүзлек
+    tt_cyrl: сүзлек
     tum: Mung'anamulira mazgo
     uk: словник
     ur: لغت
@@ -404,11 +404,11 @@ dv_has_:
     yue: 字典
     za: swzdenj
     zh: 詞典
-    zh-cn: 词典
-    zh-hans: 词典
-    zh-hant: 詞典
-    zh-hk: 詞典
-    zh-tw: 詞典
+    zh_cn: 词典
+    zh_hans: 词典
+    zh_hant: 詞典
+    zh_hk: 詞典
+    zh_tw: 詞典
     zu: isichazamazwi
 ---
 # [[Dictionary]] 

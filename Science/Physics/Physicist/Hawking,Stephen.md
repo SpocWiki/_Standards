@@ -297,7 +297,7 @@ dv_has_:
     bar: Stephen Hawking
     bcl: Stephen Hawking
     be: Стывен Уільям Хокінг
-    be-tarask: Стывэн Гокінг
+    be_tarask: Стывэн Гокінг
     bg: Стивън Хокинг
     bho: स्टीफन हॉकिंग
     bm: Stephen Hawking
@@ -317,15 +317,15 @@ dv_has_:
     dag: Stephen Hawking
     de: Stephen Hawking
     de-at: Stephen Hawking
-    de-ch: Stephen Hawking
+    de_ch: Stephen Hawking
     din: Stephen Hawkiŋ
     diq: Stephen Hawking
     dty: स्टिफन हकिङ
     el: Στίβεν Χόκινγκ
     eml: Stephen Hawking
     en: Stephen Hawking
-    en-ca: Stephen Hawking
-    en-gb: Stephen Hawking
+    en_ca: Stephen Hawking
+    en_gb: Stephen Hawking
     eo: Stephen Hawking
     es: Stephen Hawking
     es-419: Stephen Hawking
@@ -409,7 +409,7 @@ dv_has_:
     nap: Stephen Hawking
     nb: Stephen Hawking
     nds: Stephen Hawking
-    nds-nl: Stephen Hawking
+    nds_nl: Stephen Hawking
     ne: स्टीफन हकिंग
     nl: Stephen Hawking
     nn: Stephen Hawking
@@ -426,7 +426,7 @@ dv_has_:
     prg: Stephen Hawking
     ps: استیون هاوکینگ
     pt: Stephen Hawking
-    pt-br: Stephen Hawking
+    pt_br: Stephen Hawking
     qu: estiven hoquin
     rgn: Stephen Hawking
     rm: Stephen Hawking
@@ -455,8 +455,8 @@ dv_has_:
     sms: Stephen Hawking
     sq: Stephen Hawking
     sr: Стивен Хокинг
-    sr-ec: Стивен Хокинг
-    sr-el: Stephen Hawking
+    sr_ec: Стивен Хокинг
+    sr_el: Stephen Hawking
     stq: Stephen Hawking
     sv: Stephen Hawking
     sw: Stephen Hawking
@@ -470,7 +470,7 @@ dv_has_:
     tok: jan Sewen Akin
     tr: Stephen Hawking
     tt: Стивен Һокиң
-    tt-cyrl: Стивен Һокиң
+    tt_cyrl: Стивен Һокиң
     udm: Хокинг, Стивен
     ug: ستىفېن ۋىليام خاۋكىڭ
     uk: Стівен Гокінг
@@ -493,8 +493,8 @@ dv_has_:
     zea: Stephen Hawking
     zgh: ⵙⵜⵉⴼⵏ ⵀⵓⴽⵉⵏⴳ
     zh: 史蒂芬·霍金
-    zh-hant: 史蒂芬·霍金
-    zh-tw: 史蒂芬·霍金
+    zh_hant: 史蒂芬·霍金
+    zh_tw: 史蒂芬·霍金
     zu: Stephen Hawking
 ---
 # [[Hawking,Stephen]] 

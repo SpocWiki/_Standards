@@ -230,7 +230,7 @@ dv_has_:
     ba: Кацусика Хокусай
     bar: Hokusai
     be: Кацусіка Хакусай
-    be-tarask: Кацусіка Хакусай
+    be_tarask: Кацусіка Хакусай
     bg: Кацушика Хокусай
     bho: होकुसाइ
     bi: Hokusai
@@ -252,8 +252,8 @@ dv_has_:
     diq: Hokusai
     el: Κατσουσίκα Χοκουσάι
     en: Katsushika Hokusai
-    en-ca: Hokusai
-    en-gb: Hokusai
+    en_ca: Hokusai
+    en_gb: Hokusai
     eo: Kacuŝika Hokusaj
     es: Katsushika Hokusai
     et: Katsushika Hokusai
@@ -300,7 +300,7 @@ dv_has_:
     ko: 가쓰시카 호쿠사이
     ksh: Hokusai
     ku: Hokusai
-    ku-latn: Hokusai
+    ku_latn: Hokusai
     kw: Hokusai
     la: Katsushika Hokusai
     lb: Katsushika Hokusai
@@ -341,7 +341,7 @@ dv_has_:
     pms: Hokusai
     pnb: ہوکوسائی
     pt: Katsushika Hokusai
-    pt-br: Katsushika Hokusai
+    pt_br: Katsushika Hokusai
     ro: Katsushika Hokusai
     roa-tara: Katsushika Hokusai
     ru: Кацусика Хокусай
@@ -356,7 +356,7 @@ dv_has_:
     so: Hokusai
     sq: Hokusai
     sr: Кацушика Хокусај
-    sr-ec: Кацушика Хокусај
+    sr_ec: Кацушика Хокусај
     stq: Hokusai
     su: Katsushika Hokusai
     sv: Katsushika Hokusai
@@ -384,8 +384,8 @@ dv_has_:
     yo: Hokusai
     yue: 葛飾北齋
     zh: 葛饰北斋
-    zh-cn: 葛饰北斋
-    zh-hans: 葛饰北斋
+    zh_cn: 葛饰北斋
+    zh_hans: 葛饰北斋
     zu: Katsushika Hokusai
 ---
 # [[Hokusai]] 

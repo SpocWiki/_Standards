@@ -129,7 +129,7 @@ dv_has_:
     ba: тәм
     bcl: pangnamit
     be: смак
-    be-tarask: смак
+    be_tarask: смак
     bg: вкус
     bn: স্বাদ
     bs: okus
@@ -141,11 +141,11 @@ dv_has_:
     da: smagssans
     dag: lama
     de: Geschmack
-    de-ch: gustatorische Wahrnehmung
+    de_ch: gustatorische Wahrnehmung
     el: γεύση
     en: taste
-    en-ca: taste
-    en-gb: taste
+    en_ca: taste
+    en_gb: taste
     eo: gusto
     es: gusto
     et: maitsmine
@@ -176,7 +176,7 @@ dv_has_:
     kn: ರುಚಿ
     ko: 맛
     ku: çêjtin
-    ku-latn: çêjtin
+    ku_latn: çêjtin
     ky: даам
     la: gustatus
     lb: Geschmaach
@@ -214,8 +214,8 @@ dv_has_:
     so: dhadhan
     sq: shqisa e shijes
     sr: укус
-    sr-ec: укус
-    sr-el: ukus
+    sr_ec: укус
+    sr_el: ukus
     sv: smaksinne
     sw: ladha
     szy: sanek nu mukan
@@ -226,7 +226,7 @@ dv_has_:
     tly: təm
     tr: tat
     tt: тәм
-    tt-cyrl: тәм
+    tt_cyrl: тәм
     udm: шӧм
     uk: смак
     ur: ذائقہ
@@ -239,12 +239,12 @@ dv_has_:
     yi: טעם
     yue: 味
     zh: 味觉
-    zh-cn: 味觉
-    zh-hans: 味觉
-    zh-hant: 味覺
-    zh-hk: 味覺
-    zh-sg: 味觉
-    zh-tw: 味覺
+    zh_cn: 味觉
+    zh_hans: 味觉
+    zh_hant: 味覺
+    zh_hk: 味覺
+    zh_sg: 味觉
+    zh_tw: 味覺
     zu: isinambitho
 ---
 # [[Taste]] 

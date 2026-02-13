@@ -178,7 +178,7 @@ dv_has_:
     ban: Gérmanium
     bcl: Hermaniyo
     be: Германій
-    be-tarask: герман
+    be_tarask: герман
     bg: германий
     bho: जर्मेनियम
     blk: ဇျာမေနီယမ်
@@ -276,7 +276,7 @@ dv_has_:
     pnb: جرمینیم
     ps: جرمانيوم
     pt: germânio
-    pt-br: germânio
+    pt_br: germânio
     qu: Germanyu
     rki: ဂျာမေနီယမ်
     ro: germaniu
@@ -318,11 +318,11 @@ dv_has_:
     yo: Germanium
     yue: 鍺
     zh: 锗
-    zh-cn: 锗
-    zh-hans: 锗
-    zh-hant: 鍺
-    zh-hk: 鍺
-    zh-tw: 鍺
+    zh_cn: 锗
+    zh_hans: 锗
+    zh_hant: 鍺
+    zh_hk: 鍺
+    zh_tw: 鍺
     zu: UmGwangaza
   number_of_:
     period: 4

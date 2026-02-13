@@ -207,7 +207,7 @@ dv_has_:
     bcl: dahon
     bdr: dun
     be: ліст
-    be-tarask: лісьце
+    be_tarask: лісьце
     bg: лист
     bn: পাতা
     bo: ལོ་མ།
@@ -314,7 +314,7 @@ dv_has_:
     pnb: پتا
     ps: پاڼه
     pt: folha
-    pt-br: folha
+    pt_br: folha
     qu: raphi
     ro: frunză
     ru: лист
@@ -334,8 +334,8 @@ dv_has_:
     so: caleen
     sq: gjethi
     sr: лист
-    sr-ec: лист
-    sr-el: list
+    sr_ec: лист
+    sr_el: list
     su: daun
     sv: blad
     sw: jani
@@ -365,9 +365,9 @@ dv_has_:
     yue: 葉
     za: mbaw
     zh: 葉
-    zh-hans: 叶
-    zh-hant: 葉
-    zh-tw: 葉
+    zh_hans: 叶
+    zh_hant: 葉
+    zh_tw: 葉
 ---
 # [[Leaf]] 🍃 
 

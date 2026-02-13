@@ -61,7 +61,7 @@ dv_has_:
     az: Robert Milliken
     azb: روبرت میلیکن
     be: Роберт Эндрус Мілікен
-    be-tarask: Робэрт Эндрус Мілікен
+    be_tarask: Робэрт Эндрус Мілікен
     bg: Робърт Миликан
     bn: রবার্ট মিলিকান
     bs: Robert Millikan
@@ -102,8 +102,8 @@ dv_has_:
     kn: ರಾಬರ್ಟ್ ಮಿಲಿಕನ್
     ko: 로버트 앤드루스 밀리컨
     ku: Robert Andrews Millikan
-    ku-arab: رۆبەرتئا ندرەوس مللکان
-    ku-latn: Robert Andrews Millikan
+    ku_arab: رۆبەرتئا ندرەوس مللکان
+    ku_latn: Robert Andrews Millikan
     la: Robertus A. Millikan
     lt: Robert Andrews Millikan
     lv: Roberts Milikens
@@ -125,7 +125,7 @@ dv_has_:
     pms: Robert Andrews Millikan
     pnb: رابرٹ اے ملیکنز
     pt: Robert Andrews Millikan
-    pt-br: Robert Andrews Millikan
+    pt_br: Robert Andrews Millikan
     qu: Robert Millikan
     ro: Robert A. Millikan
     ru: Роберт Милликен
@@ -137,8 +137,8 @@ dv_has_:
     sl: Robert Andrews Millikan
     sq: Robert A. Millikan
     sr: Роберт Миликен
-    sr-ec: Роберт Миликен
-    sr-el: Robert Miliken
+    sr_ec: Роберт Миликен
+    sr_el: Robert Miliken
     sv: Robert A. Millikan
     sw: Robert Millikan
     ta: இராபர்ட் ஆண்ட்ரூஸ் மில்லிகன்
@@ -158,12 +158,12 @@ dv_has_:
     yo: Robert Andrews Millikan
     yue: 密立根
     zh: 罗伯特·密立根
-    zh-cn: 罗伯特·安德鲁·密立根
-    zh-hans: 罗伯特·安德鲁·密立根
-    zh-hant: 羅伯特·安德魯·密立根
-    zh-hk: 羅伯特·安德魯·密立根
-    zh-sg: 罗伯特·安德鲁·密立根
-    zh-tw: 羅伯特·安德魯·密立根
+    zh_cn: 罗伯特·安德鲁·密立根
+    zh_hans: 罗伯特·安德鲁·密立根
+    zh_hant: 羅伯特·安德魯·密立根
+    zh_hk: 羅伯特·安德魯·密立根
+    zh_sg: 罗伯特·安德鲁·密立根
+    zh_tw: 羅伯特·安德魯·密立根
 ---
 # [[Millikan,Robert_A]] 
 

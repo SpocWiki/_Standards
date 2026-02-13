@@ -145,7 +145,7 @@ dv_has_:
     ast: métodu anticonceutivu
     az: Kontrasepsiya
     be: кантрацэпцыя
-    be-tarask: кантрацэпцыя
+    be_tarask: кантрацэпцыя
     bg: контрацепция
     bn: জন্ম নিয়ন্ত্রণ
     bo: འཆར་ལྡན་བུ་བཙའ།
@@ -192,7 +192,7 @@ dv_has_:
     kn: ಜನನ ನಿಯಂತ್ರಣ
     ko: 피임
     ku: Kontrola zayînê
-    ku-latn: rêgirtina ducaniyê
+    ku_latn: rêgirtina ducaniyê
     ky: контрацепция
     lb: Kontrazeptioun
     li: Anticonceptie
@@ -233,8 +233,8 @@ dv_has_:
     sn: nzira dzekudzivirira nadzo kubata pamuviri
     sq: Kontrolli i lindjeve
     sr: контрола рађања
-    sr-ec: kонтрола рађања
-    sr-el: kontrola rađanja
+    sr_ec: kонтрола рађања
+    sr_el: kontrola rađanja
     ss: kukhipha sisu
     st: taolo ya pelehi
     sv: preventivmedel
@@ -254,12 +254,12 @@ dv_has_:
     yi: געבורט קאנטראל
     yue: 避孕
     zh: 生育控制
-    zh-cn: 生育控制
-    zh-hans: 生育控制
-    zh-hant: 生育控制
-    zh-hk: 生育控制
-    zh-sg: 生育控制
-    zh-tw: 生育控制
+    zh_cn: 生育控制
+    zh_hans: 生育控制
+    zh_hant: 生育控制
+    zh_hk: 生育控制
+    zh_sg: 生育控制
+    zh_tw: 生育控制
 ---
 # [[Birth_Control]] 
 

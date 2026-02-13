@@ -135,7 +135,7 @@ dv_has_:
     azb: یوسون
     ba: Ылымыҡтар
     be: водарасці
-    be-tarask: водарасьці
+    be_tarask: водарасьці
     bg: водорасли
     bn: শৈবাল
     bo: ཆུ་བལ།
@@ -239,7 +239,7 @@ dv_has_:
     sl: alge
     sq: Algae
     sr: Алге
-    sr-ec: Алге
+    sr_ec: Алге
     su: Alga
     sv: alger
     sw: Algae
@@ -248,8 +248,8 @@ dv_has_:
     th: สาหร่าย
     tr: su yosunları
     tt: суүсемнәр
-    tt-cyrl: суүсемнәр
-    tt-latn: süüsemnär
+    tt_cyrl: суүсемнәр
+    tt_latn: süüsemnär
     udm: Вубуртчин
     uk: водорості
     ur: طحالب
@@ -261,9 +261,9 @@ dv_has_:
     ybb: Tepɔŋ pɔ́
     yue: 藻
     zh: 藻類
-    zh-hans: 藻類
-    zh-hant: 藻類
-    zh-tw: 藻類
+    zh_hans: 藻類
+    zh_hant: 藻類
+    zh_tw: 藻類
 ---
 # [[Algae]] 
 

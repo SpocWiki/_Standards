@@ -199,7 +199,7 @@ dv_has_:
     az: Sesame Street
     ban: Sesame Street
     be: Вуліца Сэзам
-    be-tarask: Вуліца Сэзам
+    be_tarask: Вуліца Сэзам
     bg: Улица Сезам
     bho: सीस्मी स्ट्रीट
     bo: Sesame Street
@@ -214,13 +214,13 @@ dv_has_:
     cy: Sesame Street
     da: Sesame Street
     de: Sesamstraße
-    de-ch: Sesamstrasse
+    de_ch: Sesamstrasse
     dv: Sesame Street
     el: Σουσάμι Άνοιξε
     eml: Sesame Street
     en: Sesame Street
-    en-ca: Sesame Street
-    en-gb: Sesame Street
+    en_ca: Sesame Street
+    en_gb: Sesame Street
     eo: Sesame Street
     es: Sesame Street
     et: Seesami tänav
@@ -279,7 +279,7 @@ dv_has_:
     pl: Ulica Sezamkowa
     ps: باغچهٔ سم سم
     pt: Sesame Street
-    pt-br: Sesame Street
+    pt_br: Sesame Street
     qu: Sesame Street
     ro: Strada Sesam
     ru: Улица Сезам
@@ -310,12 +310,12 @@ dv_has_:
     yue: 芝麻街
     zgh: ⴰⵙⵓⴽ ⵏ ⵙⵉⵎⵙⵉⵎ
     zh: 芝麻街
-    zh-cn: 芝麻街
-    zh-hans: 芝麻街
-    zh-hant: 芝麻街
-    zh-hk: 芝麻街
-    zh-sg: 芝麻街
-    zh-tw: 芝麻街
+    zh_cn: 芝麻街
+    zh_hans: 芝麻街
+    zh_hant: 芝麻街
+    zh_hk: 芝麻街
+    zh_sg: 芝麻街
+    zh_tw: 芝麻街
 ---
 # [[Sesame_Street]] 
 

@@ -22,7 +22,7 @@ dv_has_:
     da: Brad Delp
     de: Brad Delp
     en: Brad Delp
-    en-gb: Brad Delp
+    en_gb: Brad Delp
     eo: Brad Delp
     es: Brad Delp
     et: Brad Delp
@@ -44,7 +44,7 @@ dv_has_:
     pap: Brad Delp
     pl: Brad Delp
     pt: Brad Delp
-    pt-br: Brad Delp
+    pt_br: Brad Delp
     ro: Brad Delp
     ru: Брэд Делп
     sl: Brad Delp

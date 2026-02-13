@@ -7,7 +7,7 @@ dv_has_:
     az: Opeth
     azb: اپث
     be: Opeth
-    be-tarask: Opeth
+    be_tarask: Opeth
     bg: Opeth
     bn: ওপেথ
     ca: Opeth
@@ -15,11 +15,11 @@ dv_has_:
     cy: Opeth
     da: Opeth
     de: Opeth
-    de-ch: Opeth
+    de_ch: Opeth
     el: Opeth
     en: Opeth
-    en-ca: Opeth
-    en-gb: Opeth
+    en_ca: Opeth
+    en_gb: Opeth
     es: Opeth
     fa: اپث
     fi: Opeth
@@ -47,7 +47,7 @@ dv_has_:
     oc: Opeth
     pl: Opeth
     pt: Opeth
-    pt-br: Opeth
+    pt_br: Opeth
     ro: Opeth
     ru: Opeth
     sco: Opeth
@@ -59,8 +59,8 @@ dv_has_:
     uk: Opeth
     uz: Opeth
     zh: 残月魔都
-    zh-hant: 殘月魔都
-    zh-tw: 殘月魔都樂團
+    zh_hant: 殘月魔都
+    zh_tw: 殘月魔都樂團
 aliases:
 - Opeth
 - אופת'

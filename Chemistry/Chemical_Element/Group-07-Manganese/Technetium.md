@@ -192,7 +192,7 @@ dv_has_:
     ban: Téknésium
     bcl: Teknesyo
     be: Тэхнецый
-    be-tarask: тэхнэц
+    be_tarask: тэхнэц
     bg: технеций
     bho: टेक्नेसियम
     bn: টেকনেশিয়াম
@@ -287,7 +287,7 @@ dv_has_:
     pnb: ٹیکنیٹیم
     ps: ټېکنېټيوم
     pt: tecnécio
-    pt-br: tecnécio
+    pt_br: tecnécio
     qu: Teknesyu
     ro: technețiu
     ru: технеций
@@ -328,14 +328,14 @@ dv_has_:
     yo: Technetium
     yue: 鎝
     zh: 鎝
-    zh-cn: 锝
-    zh-hans: 锝
-    zh-hant: 鎝
-    zh-hk: 鍀
-    zh-mo: 鍀
+    zh_cn: 锝
+    zh_hans: 锝
+    zh_hant: 鎝
+    zh_hk: 鍀
+    zh_mo: 鍀
     zh-my: 锝
-    zh-sg: 锝
-    zh-tw: 鎝
+    zh_sg: 锝
+    zh_tw: 鎝
     zu: UmThanyambi
   number_of_:
     period: 5

@@ -63,7 +63,7 @@ dv_has_:
   name_:
     ab: Монако
     ace: Monakô
-    aeb-arab: موناكو
+    aeb_arab: موناكو
     af: Monaco
     am: ሞናኮ
     ami: Monaco
@@ -86,7 +86,7 @@ dv_has_:
     bar: Monaco
     bcl: Monako
     be: Манака
-    be-tarask: Манака
+    be_tarask: Манака
     bew: Monako
     bg: Монако
     bho: मोनाको
@@ -98,7 +98,7 @@ dv_has_:
     bs: Monako
     bxr: Монако
     ca: Mònaco
-    cbk-zam: Mónaco
+    cbk_zam: Mónaco
     cdo: Monaco
     ce: Монако
     ceb: Monako
@@ -107,7 +107,7 @@ dv_has_:
     ckb: مۆناکۆ
     co: Monacu
     crh: Monako
-    crh-latn: Monako
+    crh_latn: Monako
     cs: Monako
     csb: Mònakò
     cu: Монако
@@ -117,7 +117,7 @@ dv_has_:
     dag: Monaco
     de: Monaco
     de-at: Monaco
-    de-ch: Monaco
+    de_ch: Monaco
     diq: Monako
     dsb: Monaco
     dty: मोनाको
@@ -125,8 +125,8 @@ dv_has_:
     ee: Monaco
     el: Μονακό
     en: Monaco
-    en-ca: Monaco
-    en-gb: Monaco
+    en_ca: Monaco
+    en_gb: Monaco
     en-us: Monaco
     eo: Monako
     es: Mónaco
@@ -151,7 +151,7 @@ dv_has_:
     gn: Mónako
     gom: मोनॅको
     gom-deva: मोनॅको
-    gom-latn: Monaco
+    gom_latn: Monaco
     got: "\U0001033C\U0001033F\U0001033D\U00010330\U0001033A\U00010349"
     gpe: Monaco
     grc: Μόνοικος
@@ -220,7 +220,7 @@ dv_has_:
     lv: Monako
     lzh: 摩納哥
     mad: Monako
-    map-bms: Monako
+    map_bms: Monako
     mdf: Монако
     mg: Monakô
     mhr: Монако онлык
@@ -242,7 +242,7 @@ dv_has_:
     nap: Prencepato 'e Mònaco
     nb: Monaco
     nds: Monaco
-    nds-nl: Monaco
+    nds_nl: Monaco
     ne: मोनाको
     new: मोनाको
     nl: Monaco
@@ -267,7 +267,7 @@ dv_has_:
     pnt: Μονακό
     ps: موناکو
     pt: Mónaco
-    pt-br: Mônaco
+    pt_br: Mônaco
     qu: Munaku
     rm: Monaco
     rmy: Monaco
@@ -299,8 +299,8 @@ dv_has_:
     so: Monako
     sq: Monako
     sr: Монако
-    sr-ec: Монако
-    sr-el: Monako
+    sr_ec: Монако
+    sr_el: Monako
     srn: Monakokondre
     ss: IMonakho
     stq: Monaco
@@ -348,11 +348,11 @@ dv_has_:
     za: Monaco
     zea: Monaco
     zh: 摩納哥
-    zh-cn: 摩纳哥
-    zh-hans: 摩纳哥
-    zh-hant: 摩納哥
-    zh-hk: 摩納哥
-    zh-tw: 摩納哥
+    zh_cn: 摩纳哥
+    zh_hans: 摩纳哥
+    zh_hant: 摩納哥
+    zh_hk: 摩納哥
+    zh_tw: 摩納哥
     zu: i-Monaco
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Monaco

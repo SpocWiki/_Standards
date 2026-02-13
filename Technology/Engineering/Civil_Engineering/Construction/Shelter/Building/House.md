@@ -285,8 +285,8 @@ Wikidata_property: number of houses
 dv_has_:
   name_:
     ace: rumoh
-    aeb-arab: دار
-    aeb-latn: dàr
+    aeb_arab: دار
+    aeb_latn: dàr
     af: huis
     am: መኖርያ ቤት
     ami: loma'
@@ -307,7 +307,7 @@ dv_has_:
     ba: торлаҡ
     bcl: harong
     be: жыллё
-    be-tarask: жытло
+    be_tarask: жытло
     bew: ruma
     bg: къща
     bho: मकान
@@ -320,7 +320,7 @@ dv_has_:
     bs: kuća
     bug: ᨅᨚᨒ
     ca: casa
-    cbk-zam: casa
+    cbk_zam: casa
     cdo: chió
     ce: хӏусам
     ceb: balay
@@ -335,7 +335,7 @@ dv_has_:
     da: hus
     dag: yili
     de: Haus
-    de-ch: Haus
+    de_ch: Haus
     dga: die
     diq: keye
     dtp: lamin
@@ -343,8 +343,8 @@ dv_has_:
     el: οικία
     eml: cà
     en: house
-    en-ca: house
-    en-gb: house
+    en_ca: house
+    en_gb: house
     en-us: house
     eo: domo
     es: casa
@@ -410,7 +410,7 @@ dv_has_:
     knc: fato
     ko: 집
     ks: مکان
-    ku-latn: xanî
+    ku_latn: xanî
     kw: chy
     ky: турак жай
     la: domus
@@ -435,7 +435,7 @@ dv_has_:
     mos: zaka
     mrj: пӧрт
     ms: rumah
-    ms-arab: رومه
+    ms_arab: رومه
     mt: dar
     my: အိမ်
     myv: кудо
@@ -444,7 +444,7 @@ dv_has_:
     nan: chhù
     nb: hus
     nds: Huus
-    nds-nl: huus
+    nds_nl: huus
     ne: घर
     new: छेँ
     nia: omo
@@ -467,7 +467,7 @@ dv_has_:
     pnt: ένοικον
     ps: کور
     pt: casa
-    pt-br: casa
+    pt_br: casa
     qu: wasi
     rmy: kher
     rn: inzu
@@ -490,8 +490,8 @@ dv_has_:
     so: guri
     sq: shtëpi
     sr: кућа
-    sr-ec: кућа
-    sr-el: kuća
+    sr_ec: кућа
+    sr_el: kuća
     su: imah
     sv: hus
     sw: nyumba
@@ -508,7 +508,7 @@ dv_has_:
     tr: ev
     trv: sapah
     tt: йорт
-    tt-cyrl: йорт
+    tt_cyrl: йорт
     tw: ɛdan
     udm: корка
     uk: житло
@@ -531,14 +531,14 @@ dv_has_:
     yue: 住宅
     za: ranz
     zh: 住宅
-    zh-cn: 住宅
-    zh-hans: 住宅
-    zh-hant: 住宅
-    zh-hk: 住宅
-    zh-mo: 住宅
+    zh_cn: 住宅
+    zh_hans: 住宅
+    zh_hant: 住宅
+    zh_hk: 住宅
+    zh_mo: 住宅
     zh-my: 住宅
-    zh-sg: 住宅
-    zh-tw: 住宅
+    zh_sg: 住宅
+    zh_tw: 住宅
     zu: indlu
 ---
 # [[House]] 🏡 

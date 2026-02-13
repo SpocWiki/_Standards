@@ -26,7 +26,7 @@ dv_has_:
     ast: Historia del pueblu xudíu
     az: yəhudi xalqının tarixi
     be: гісторыя яўрэйскага народа
-    be-tarask: жыдоўская гісторыя
+    be_tarask: жыдоўская гісторыя
     bn: ইহুদি ইতিহাস
     ca: història dels jueus
     cs: židovské dějiny
@@ -78,9 +78,9 @@ dv_has_:
     vi: Lịch sử Do Thái
     yi: יידישע היסטאריע
     zh: 犹太人历史
-    zh-hans: 犹太人历史
-    zh-hant: 猶太人歷史
-    zh-hk: 猶太人歷史
+    zh_hans: 犹太人历史
+    zh_hant: 猶太人歷史
+    zh_hk: 猶太人歷史
 aliases:
 - a zsidóság történelme
 - ebreju vēsture

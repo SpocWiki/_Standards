@@ -174,7 +174,7 @@ dv_has_:
     ba: йөрәк-ҡан тамырҙары системаһы
     bcl: sistemang sirkulatoryo
     be: сістэма кровазвароту
-    be-tarask: крывяносная сыстэма
+    be_tarask: крывяносная сыстэма
     bg: кръвообращение
     bn: সংবহন তন্ত্র
     bo: འཁོར་སྐྱོད་མ་ལག་
@@ -241,7 +241,7 @@ dv_has_:
     mni: ꯁꯔꯀꯨꯂꯦꯇꯔꯤ ꯁꯤꯁ꯭ꯇꯦꯝ
     mr: रक्तवहसंस्था
     ms: sistem peredaran
-    ms-arab: سيستم ڤرايدرن
+    ms_arab: سيستم ڤرايدرن
     my: နှလုံး သွေးကြောစနစ်
     nan: sûn-khoân hē-thóng
     nb: sirkulasjonssystem
@@ -273,7 +273,7 @@ dv_has_:
     so: habdhiska wareega dhiiga
     sq: sistemi i qarkullimit të gjakut
     sr: крвни систем
-    sr-ec: крвни систем
+    sr_ec: крвни систем
     sv: hjärt-kärlsystemet
     sw: mfumo wa mzunguko wa damu
     ta: சுற்றோட்டத் தொகுதி
@@ -295,9 +295,9 @@ dv_has_:
     yue: 循環系統
     za: Sinzvanz hidungj
     zh: 循环系统
-    zh-cn: 循环系统
-    zh-hans: 循环系统
-    zh-hant: 循環系統
+    zh_cn: 循环系统
+    zh_hans: 循环系统
+    zh_hant: 循環系統
 ---
 # [[Circulatory_System]] 
 

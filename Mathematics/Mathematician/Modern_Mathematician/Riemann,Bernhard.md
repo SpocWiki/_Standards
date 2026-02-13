@@ -149,7 +149,7 @@ dv_has_:
     az: Bernhard Riman
     azb: برنهارت ریمان
     be: Бернхард Рыман
-    be-tarask: Бэрнгард Рыман
+    be_tarask: Бэрнгард Рыман
     bg: Бернхард Риман
     bn: বের্নহার্ট রিমান
     bs: Bernhard Riemann
@@ -217,7 +217,7 @@ dv_has_:
     pl: Bernhard Riemann
     pms: Bernhard Riemann
     pt: Bernhard Riemann
-    pt-br: Bernhard Riemann
+    pt_br: Bernhard Riemann
     ro: Bernhard Riemann
     ru: Бернхард Риман
     sa: बर्न्हार्ड रीमन

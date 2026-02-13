@@ -81,7 +81,7 @@ dv_has_:
     ar: بوزونات دبليو وزد
     ast: bosones W y Z
     be: W- і Z-базоны
-    be-tarask: W- і Z-базоны
+    be_tarask: W- і Z-базоны
     bg: W и Z бозони
     bs: W i Z bozoni
     ca: bosons W i Z
@@ -116,7 +116,7 @@ dv_has_:
     nn: W- eller Z-boson
     oc: bosons W e Z
     pt: bosões W e Z
-    pt-br: bósons W e Z
+    pt_br: bósons W e Z
     ro: bosonii W și Z
     ru: W- и Z-бозоны
     sd: زيڊ پارٽيڪل
@@ -124,8 +124,8 @@ dv_has_:
     sk: bozón W a Z
     sl: bozoni W in Z
     sr: W и Z бозони
-    sr-ec: W и З бозони
-    sr-el: W i Z bozoni
+    sr_ec: W и З бозони
+    sr_el: W i Z bozoni
     sv: W- och Z-bosoner
     tl: mga boson na W at Z
     tr: W ve Z bozonları
@@ -135,12 +135,12 @@ dv_has_:
     war: mga boson nga W ngan Z
     yue: W同Z玻色子
     zh: W及Z玻色子
-    zh-cn: W及Z玻色子
-    zh-hans: W及Z玻色子
-    zh-hant: W及Z玻色子
-    zh-hk: W及Z玻色子
-    zh-sg: W及Z玻色子
-    zh-tw: W及Z玻色子
+    zh_cn: W及Z玻色子
+    zh_hans: W及Z玻色子
+    zh_hant: W及Z玻色子
+    zh_hk: W及Z玻色子
+    zh_sg: W及Z玻色子
+    zh_tw: W及Z玻色子
 ---
 # [[W_or_Z_Boson]] 
 

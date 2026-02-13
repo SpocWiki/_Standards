@@ -19,7 +19,7 @@ dv_has_:
     ast: King Crimson
     az: King Crimson
     azb: کینق کریمسون
-    be-tarask: King Crimson
+    be_tarask: King Crimson
     bg: Кинг Кримсън
     bs: King Crimson
     ca: King Crimson
@@ -76,8 +76,8 @@ dv_has_:
     uz: King Crimson
     vi: King Crimson
     zh: 深紅之王
-    zh-hant: 深紅之王
-    zh-tw: 深紅之王
+    zh_hant: 深紅之王
+    zh_tw: 深紅之王
 ---
 ## #has_/text_of_/abstract 
 

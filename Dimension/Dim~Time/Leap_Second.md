@@ -84,7 +84,7 @@ dv_has_:
     af: skrikkelsekonde
     ar: ثانية كبيسة
     be: секунда каардынацыі
-    be-tarask: высакосная сэкунда
+    be_tarask: высакосная сэкунда
     bg: високосна секунда
     bn: লিপ সেকেন্ড
     ca: segon intercalar
@@ -92,7 +92,7 @@ dv_has_:
     cy: eiliad naid
     da: skudsekund
     de: Schaltsekunde
-    de-ch: Schaltsekunde
+    de_ch: Schaltsekunde
     el: εμβόλιμο δευτερόλεπτο
     en: leap second
     eo: supersekundo
@@ -125,7 +125,7 @@ dv_has_:
     or: ଅଧିସେକେଣ୍ଡ
     pl: sekunda przestępna
     pt: segundo bissexto
-    pt-br: segundo bissexto
+    pt_br: segundo bissexto
     ro: secundă intercalată
     ru: секунда координации
     sh: prijestupna sekunda
@@ -143,12 +143,12 @@ dv_has_:
     yue: 閏秒
     zgh: ⵜⴰⵙⵉⵏⵜ ⵜⴰⵎⴰⵏⴰⵥⵜ
     zh: 闰秒
-    zh-cn: 闰秒
-    zh-hans: 闰秒
-    zh-hant: 閏秒
-    zh-hk: 閏秒
-    zh-sg: 闰秒
-    zh-tw: 閏秒
+    zh_cn: 闰秒
+    zh_hans: 闰秒
+    zh_hant: 閏秒
+    zh_hk: 閏秒
+    zh_sg: 闰秒
+    zh_tw: 閏秒
 ---
 # [[Leap_Second]] 
 

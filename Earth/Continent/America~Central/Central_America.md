@@ -259,7 +259,7 @@ dv_has_:
     ban: Amérika Tengah
     bbc: Amerika Tonga
     be: Цэнтральная Амерыка
-    be-tarask: Цэнтральная Амэрыка
+    be_tarask: Цэнтральная Амэрыка
     bg: Централна Америка
     bho: मध्य अमेरिका
     bi: Sentrol Amerika
@@ -267,7 +267,7 @@ dv_has_:
     bn: মধ্য আমেরিকা
     br: Kreizamerika
     ca: Amèrica Central
-    cbk-zam: Centroamerica
+    cbk_zam: Centroamerica
     cdo: Dṳ̆ng Mī-ciŭ
     ceb: Amerika Sentral
     ckb: ئەمریکای ناوەندی
@@ -276,14 +276,14 @@ dv_has_:
     cy: Canolbarth America
     da: Mellemamerika
     de: Zentralamerika
-    de-ch: Zentralamerika
+    de_ch: Zentralamerika
     diq: Amerika Miyanên
     dsb: Srjejźna Amerika
     dtp: Amirika Hongkod
     el: Κεντρική Αμερική
     en: Central America
-    en-ca: Central America
-    en-gb: Central America
+    en_ca: Central America
+    en_gb: Central America
     eo: Centra Ameriko
     es: América Central
     et: Kesk-Ameerika
@@ -342,7 +342,7 @@ dv_has_:
     lo: ອາເມລິກາກາງ
     lt: Centrinė Amerika
     lv: Centrālamerika
-    map-bms: Amerika Tengah
+    map_bms: Amerika Tengah
     mg: Amerika Afovoany
     min: Amerika Tangah
     mk: Средна Америка
@@ -369,7 +369,7 @@ dv_has_:
     pl: Ameryka Centralna
     pnb: گبھلا امریکا
     pt: América Central
-    pt-br: América Central
+    pt_br: América Central
     qu: Chawpi Awya Yala
     ro: America Centrală
     ru: Центральная Америка
@@ -423,8 +423,8 @@ dv_has_:
     zea: Centraol-Amerika
     zgh: ⵜⴰⵎⵔⵉⴽⵜ ⵜⴰⵏⴰⵎⵎⴰⵙⵜ
     zh: 中美洲
-    zh-hant: 中美洲
-    zh-hk: 中美洲
+    zh_hant: 中美洲
+    zh_hk: 中美洲
     zu: IMelika Wenkaba
 ---
 # [[Central_America]] 

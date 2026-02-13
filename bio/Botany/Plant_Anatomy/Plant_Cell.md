@@ -74,7 +74,7 @@ dv_has_:
     ar: خلية نباتية
     ast: Célula vexetal
     az: Bitki hüceyrəsi
-    be-tarask: расьлінная вуза
+    be_tarask: расьлінная вуза
     bn: উদ্ভিদকোষ
     ca: cèl·lula vegetal
     cs: rostlinná buňka
@@ -98,7 +98,7 @@ dv_has_:
     kn: ಸಸ್ಯ ಜೀವಕೋಶ
     ko: 식물 세포
     ku: xaneya riwekan
-    ku-latn: xaneya riwekan
+    ku_latn: xaneya riwekan
     la: Cellula plantarum
     lt: Augalinė ląstelė
     lv: Augu šūna
@@ -117,8 +117,8 @@ dv_has_:
     sk: Rastlinná bunka
     sl: rastlinska celica
     sr: биљна ћелија
-    sr-ec: Биљна ћелија
-    sr-el: Biljna ćelija
+    sr_ec: Биљна ћелија
+    sr_el: Biljna ćelija
     sv: växtcell
     ta: தாவர உயிரணு
     te: మొక్కకణం
@@ -130,9 +130,9 @@ dv_has_:
     wuu: 植物细胞
     yue: 植物細胞
     zh: 植物細胞
-    zh-cn: 植物细胞
-    zh-hk: 植物細胞
-    zh-tw: 植物細胞
+    zh_cn: 植物细胞
+    zh_hk: 植物細胞
+    zh_tw: 植物細胞
 ---
 # [[Plant_Cell]] 
 

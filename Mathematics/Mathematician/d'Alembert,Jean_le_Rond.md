@@ -170,7 +170,7 @@ dv_has_:
     az: Jan Leron Dalamber
     azb: ژان لو رون دالامبر
     be: Жан ля Рон д'Аламбер
-    be-tarask: Жан ля Рон д’Алямбэр
+    be_tarask: Жан ля Рон д’Алямбэр
     bg: Жан льо Рон д'Аламбер
     br: Jean Le Rond d'Alembert
     bs: Jean Le Rond d'Alembert
@@ -180,12 +180,12 @@ dv_has_:
     cy: Jean Le Rond d'Alembert
     da: Jean Le Rond d'Alembert
     de: Jean-Baptiste Le Rond d’Alembert
-    de-ch: Jean-Baptiste Le Rond d’Alembert
+    de_ch: Jean-Baptiste Le Rond d’Alembert
     diq: Jean Le Rond d'Alembert
     el: Ζαν λε Ροντ ντ' Αλαμπέρ
     en: Jean Le Rond d'Alembert
-    en-ca: Jean Le Rond d'Alembert
-    en-gb: Jean Le Rond d'Alembert
+    en_ca: Jean Le Rond d'Alembert
+    en_gb: Jean Le Rond d'Alembert
     eo: Jean Le Rond d'Alembert
     es: Jean Le Rond d'Alembert
     et: Jean Le Rond d'Alembert
@@ -211,8 +211,8 @@ dv_has_:
     kk: Жан Лорен Д'Аламбер
     ko: 장 르 롱 달랑베르
     ku: Jean Baptiste Le Rond d'Alembert
-    ku-arab: ژەان باپتستە لە رۆند د'ئالەمبەرت
-    ku-latn: Jean Baptiste Le Rond d'Alembert
+    ku_arab: ژەان باپتستە لە رۆند د'ئالەمبەرت
+    ku_latn: Jean Baptiste Le Rond d'Alembert
     ky: Д’аламбер Жан Лерон
     la: Ioannes Baptista Le Rond d'Alembert
     lb: Jean Baptiste Le Rond d'Alembert
@@ -235,7 +235,7 @@ dv_has_:
     pms: Jean Le Rond d'Alembert
     pnb: ژاں غوں دےلامبیغ
     pt: Jean Le Rond d’Alembert
-    pt-br: Jean Le Rond d’Alembert
+    pt_br: Jean Le Rond d’Alembert
     qu: Jean Le Rond d'Alembert
     ro: Jean Le Rond d'Alembert
     ru: Жан Лерон д’Аламбер
@@ -247,8 +247,8 @@ dv_has_:
     sl: Jean Le Rond d'Alembert
     sq: Jean Le Rond d'Alembert
     sr: Жан ле Рон д'Аламбер
-    sr-ec: Жан ле Рон д'Аламбер
-    sr-el: Žan le Ron d'Alamber
+    sr_ec: Жан ле Рон д'Аламбер
+    sr_el: Žan le Ron d'Alamber
     sv: Jean Le Rond d'Alembert
     ta: ழான் லி ராண்ட் டெ'ஆலம்பர்ட்
     th: ฌ็อง เลอ รง ดาล็องแบร์
@@ -262,12 +262,12 @@ dv_has_:
     xmf: ჟან ლერონ დ’ალამბერი
     yue: 尚·達林伯特
     zh: 让·勒朗·达朗贝尔
-    zh-cn: 让·勒朗·达朗贝尔
-    zh-hans: 让·勒朗·达朗贝尔
-    zh-hant: 讓·勒朗·達朗貝爾
-    zh-hk: 讓·勒朗·達朗伯特
-    zh-sg: 让·勒朗·达朗贝尔
-    zh-tw: 讓·勒朗·達朗伯特
+    zh_cn: 让·勒朗·达朗贝尔
+    zh_hans: 让·勒朗·达朗贝尔
+    zh_hant: 讓·勒朗·達朗貝爾
+    zh_hk: 讓·勒朗·達朗伯特
+    zh_sg: 让·勒朗·达朗贝尔
+    zh_tw: 讓·勒朗·達朗伯特
 ---
 # [[d'Alembert,Jean_le_Rond]] 
 

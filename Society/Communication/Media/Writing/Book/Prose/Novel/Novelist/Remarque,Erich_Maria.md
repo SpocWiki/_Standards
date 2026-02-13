@@ -121,7 +121,7 @@ dv_has_:
     azb: اریش ماریا رمارک
     ba: Ремарк Эрих Мария
     be: Эрых Марыя Рэмарк
-    be-tarask: Эрых Марыя Рэмарк
+    be_tarask: Эрых Марыя Рэмарк
     bg: Ерих Мария Ремарк
     bn: এরিখ মারিয়া রেমার্ক
     br: Erich Maria Remarque
@@ -136,8 +136,8 @@ dv_has_:
     diq: Erich Maria Remarque
     el: Έριχ Μαρία Ρεμάρκ
     en: Erich Maria Remarque
-    en-ca: Erich Maria Remarque
-    en-gb: Erich Maria Remarque
+    en_ca: Erich Maria Remarque
+    en_gb: Erich Maria Remarque
     eo: Erich Maria Remarque
     es: Erich Maria Remarque
     et: Erich Maria Remarque
@@ -185,7 +185,7 @@ dv_has_:
     pl: Erich Maria Remarque
     pms: Erich Maria Remarque
     pt: Erich Maria Remarque
-    pt-br: Erich Maria Remarque
+    pt_br: Erich Maria Remarque
     qu: Erich Maria Remarque
     rm: Erich Maria Remarque
     ro: Erich Maria Remarque

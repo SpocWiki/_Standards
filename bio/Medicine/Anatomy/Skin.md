@@ -203,7 +203,7 @@ dv_has_:
     bcl: kublit
     bdr: Kulit
     be: скура
-    be-tarask: скура
+    be_tarask: скура
     bew: Kulit
     bg: кожа
     bjn: kulimbit
@@ -222,13 +222,13 @@ dv_has_:
     da: hud
     dag: gbaŋ
     de: Haut
-    de-ch: Haut
+    de_ch: Haut
     diq: postık
     dv: ހަން
     el: δέρμα
     en: skin
-    en-ca: skin
-    en-gb: skin
+    en_ca: skin
+    en_gb: skin
     eo: haŭto
     es: piel
     et: nahk
@@ -318,7 +318,7 @@ dv_has_:
     pnb: کھل
     ps: پوستکی
     pt: pele
-    pt-br: pele
+    pt_br: pele
     qu: qara
     rki: အရီပြား
     rm: pel
@@ -343,7 +343,7 @@ dv_has_:
     so: maqaar
     sq: lëkura
     sr: кожни систем
-    sr-ec: кожни систем
+    sr_ec: кожни систем
     su: kulit
     sv: hud
     sw: ngozi
@@ -356,7 +356,7 @@ dv_has_:
     tok: selo
     tr: deri
     tt: тире
-    tt-cyrl: тире
+    tt_cyrl: тире
     udm: ку
     ug: تېرە
     uk: шкіра
@@ -375,9 +375,9 @@ dv_has_:
     yue: 皮
     za: naeng
     zh: 皮膚
-    zh-hans: 皮肤
-    zh-hant: 皮膚
-    zh-tw: 皮膚
+    zh_hans: 皮肤
+    zh_hant: 皮膚
+    zh_tw: 皮膚
 ---
 # [[Skin]] 
 

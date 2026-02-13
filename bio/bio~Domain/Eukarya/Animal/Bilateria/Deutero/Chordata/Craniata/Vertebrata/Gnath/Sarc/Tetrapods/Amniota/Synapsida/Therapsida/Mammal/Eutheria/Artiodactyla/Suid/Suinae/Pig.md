@@ -175,7 +175,7 @@ dv_has_:
     ban: céléng
     bcl: orig
     be: дзікі
-    be-tarask: дзікі
+    be_tarask: дзікі
     bg: свине
     bi: Sus
     bn: শূকর
@@ -192,8 +192,8 @@ dv_has_:
     de: Schwein
     el: Sus
     en: Sus
-    en-ca: Sus
-    en-gb: Sus
+    en_ca: Sus
+    en_gb: Sus
     eo: suo
     es: Sus
     et: siga
@@ -252,7 +252,7 @@ dv_has_:
     os: хуытæ
     pl: świnia
     pt: Sus
-    pt-br: Sus
+    pt_br: Sus
     ro: Sus
     ru: кабаны
     sat: ᱥᱩᱠᱨᱤ
@@ -265,7 +265,7 @@ dv_has_:
     sl: Sus
     sq: Sus
     sr: свиња
-    sr-ec: свиња
+    sr_ec: свиња
     sv: svin
     sw: nguruwe
     szy: kiwma
@@ -283,10 +283,10 @@ dv_has_:
     xh: ihagu
     yue: 豬屬
     zh: 猪属
-    zh-cn: 猪属
-    zh-hans: 猪属
-    zh-hant: 豬屬
-    zh-tw: 豬屬
+    zh_cn: 猪属
+    zh_hans: 猪属
+    zh_hant: 豬屬
+    zh_tw: 豬屬
 ---
 # [[Pig]] 
 

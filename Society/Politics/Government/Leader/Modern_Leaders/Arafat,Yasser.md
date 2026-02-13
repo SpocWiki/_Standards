@@ -167,7 +167,7 @@ dv_has_:
     ban: Yasser Arafat
     bcl: Yasser Arafat
     be: Ясір Арафат
-    be-tarask: Ясір Арафат
+    be_tarask: Ясір Арафат
     bg: Ясер Арафат
     bn: ইয়াসির আরাফাত
     br: Yasser Arafat
@@ -243,7 +243,7 @@ dv_has_:
     pl: Jaser Arafat
     pnb: یاسر عرفات
     pt: Yasser Arafat
-    pt-br: Yasser Arafat
+    pt_br: Yasser Arafat
     qu: Yasser Arafat
     ro: Yasser Arafat
     ru: Ясир Арафат
@@ -257,8 +257,8 @@ dv_has_:
     so: Yaasir Carafaat
     sq: Jaser Arafat
     sr: Јасер Арафат
-    sr-ec: Јасер Арафат
-    sr-el: Jaser Arafat
+    sr_ec: Јасер Арафат
+    sr_el: Jaser Arafat
     su: Yasser Arafat
     sv: Yassir Arafat
     ta: யாசிர் அரஃபாத்
@@ -280,14 +280,14 @@ dv_has_:
     yue: 阿拉法特
     zea: Yasser Arafat
     zh: 亚西尔·阿拉法特
-    zh-cn: 亚西尔·阿拉法特
-    zh-hans: 亚西尔·阿拉法特
-    zh-hant: 亞西爾·阿拉法特
-    zh-hk: 亞西爾·阿拉法特
-    zh-mo: 亞西爾·阿拉法特
+    zh_cn: 亚西尔·阿拉法特
+    zh_hans: 亚西尔·阿拉法特
+    zh_hant: 亞西爾·阿拉法特
+    zh_hk: 亞西爾·阿拉法特
+    zh_mo: 亞西爾·阿拉法特
     zh-my: 亚西尔·阿拉法特
-    zh-sg: 亚西尔·阿拉法特
-    zh-tw: 亞西爾·阿拉法特
+    zh_sg: 亚西尔·阿拉法特
+    zh_tw: 亞西爾·阿拉法特
 ---
 # [[Arafat,Yasser]]  
 

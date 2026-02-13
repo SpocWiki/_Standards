@@ -104,7 +104,7 @@ dv_has_:
     ast: Jerry Goldsmith
     az: Cerri Qoldsmit
     azb: جری قلدسمیت
-    be-tarask: Джэры Голдсьміт
+    be_tarask: Джэры Голдсьміт
     bg: Джери Голдсмит
     br: Jerry Goldsmith
     ca: Jerry Goldsmith
@@ -144,7 +144,7 @@ dv_has_:
     pap: Jerry Goldsmith
     pl: Jerry Goldsmith
     pt: Jerry Goldsmith
-    pt-br: Jerry Goldsmith
+    pt_br: Jerry Goldsmith
     ro: Jerry Goldsmith
     ru: Джерри Голдсмит
     sh: Jerry Goldsmith
@@ -161,12 +161,12 @@ dv_has_:
     xmf: ჯერი გოლდსმითი
     yue: 傑瑞·高史密斯
     zh: 杰里·戈德史密斯
-    zh-cn: 杰里·戈德史密斯
-    zh-hans: 杰里·戈德史密斯
-    zh-hant: 傑瑞·高史密斯
-    zh-hk: 傑瑞·高史密斯
-    zh-sg: 杰里·戈德史密斯
-    zh-tw: 傑瑞·高史密斯
+    zh_cn: 杰里·戈德史密斯
+    zh_hans: 杰里·戈德史密斯
+    zh_hant: 傑瑞·高史密斯
+    zh_hk: 傑瑞·高史密斯
+    zh_sg: 杰里·戈德史密斯
+    zh_tw: 傑瑞·高史密斯
 ---
 # [[Goldsmith,Jerry]] 
 

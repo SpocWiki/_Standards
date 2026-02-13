@@ -46,7 +46,7 @@ dv_has_:
     ar: هندسة حضرية
     ast: Inxeniería urbana
     be: жыллёва-камунальная гаспадарка
-    be-tarask: камунальная гаспадарка
+    be_tarask: камунальная гаспадарка
     bs: Komunalna privreda
     ca: enginyeria urbana
     en: municipal or urban engineering
@@ -76,9 +76,9 @@ dv_has_:
     vi: Ngành kỹ thuật cơ sở hạ tầng
     yue: 市政工程
     zh: 都市工程學
-    zh-hans: 都市工程学
-    zh-hant: 都市工程學
-    zh-hk: 都市工程學
+    zh_hans: 都市工程学
+    zh_hant: 都市工程學
+    zh_hk: 都市工程學
 ---
 # [[Municipal_or_Urban_Engineering]] 
 

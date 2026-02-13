@@ -81,7 +81,7 @@ dv_has_:
     az: Biatlon
     ba: Биатлон
     be: біятлон
-    be-tarask: біятлён
+    be_tarask: біятлён
     bg: Биатлон
     br: Biatlon
     bs: biatlon
@@ -143,8 +143,8 @@ dv_has_:
     smn: pääččimčuoigâm
     sms: pessčuõiggmõš
     sr: биатлон
-    sr-ec: Биатлон
-    sr-el: Biatlon
+    sr_ec: Биатлон
+    sr_el: Biatlon
     sv: skidskytte
     tg: Биатлон
     th: ไบแอธลอน
@@ -160,12 +160,12 @@ dv_has_:
     xmf: ბიატლონი
     yue: 冬季兩項
     zh: 冬季兩項
-    zh-cn: 冬季两项
-    zh-hans: 冬季两项
-    zh-hant: 冬季兩項
-    zh-hk: 冬季兩項
-    zh-sg: 冬季两项
-    zh-tw: 冬季兩項
+    zh_cn: 冬季两项
+    zh_hans: 冬季两项
+    zh_hant: 冬季兩項
+    zh_hk: 冬季兩項
+    zh_sg: 冬季两项
+    zh_tw: 冬季兩項
 ---
 # [[Biathlon]] 
 

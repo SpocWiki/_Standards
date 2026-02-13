@@ -86,7 +86,7 @@ dv_has_:
     az: Talk
     ba: Тальк
     be: Тальк
-    be-tarask: тальк
+    be_tarask: тальк
     bg: Талк
     bs: Talk
     ca: talc
@@ -96,7 +96,7 @@ dv_has_:
     de: Talk
     el: Τάλκης
     en: talc
-    en-gb: talc
+    en_gb: talc
     eo: talko
     es: talco
     et: talk
@@ -144,8 +144,8 @@ dv_has_:
     sk: Talk
     sl: lojevec
     sr: талк
-    sr-ec: Талк
-    sr-el: Talk
+    sr_ec: Талк
+    sr_el: Talk
     sv: talk
     ta: டால்க்
     th: ทัลก์
@@ -160,12 +160,12 @@ dv_has_:
     yo: Talc
     yue: 滑石
     zh: 滑石
-    zh-cn: 滑石
-    zh-hans: 滑石
-    zh-hant: 滑石
-    zh-hk: 滑石
-    zh-sg: 滑石
-    zh-tw: 滑石
+    zh_cn: 滑石
+    zh_hans: 滑石
+    zh_hant: 滑石
+    zh_hk: 滑石
+    zh_sg: 滑石
+    zh_tw: 滑石
 ---
 # [[Talc]]  
 

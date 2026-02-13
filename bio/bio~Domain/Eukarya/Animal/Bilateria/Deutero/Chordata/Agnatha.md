@@ -108,7 +108,7 @@ dv_has_:
     az: Çənəsizlər
     azb: چنهسیزلر
     be: Бяссківічныя
-    be-tarask: Бяссківічныя
+    be_tarask: Бяссківічныя
     bg: безчелюстни
     ca: Àgnats
     ceb: Agnatha
@@ -142,11 +142,11 @@ dv_has_:
     jv: Agnatha
     ka: უყბოები
     kk: Агнаттар
-    kk-arab: اگناتتار
+    kk_arab: اگناتتار
     kk-cn: اگناتتار
-    kk-cyrl: Агнаттар
+    kk_cyrl: Агнаттар
     kk-kz: Агнаттар
-    kk-latn: Agnattar
+    kk_latn: Agnattar
     kk-tr: Agnattar
     kn: ಅಗ್ನಾಥ
     ko: 무악류
@@ -164,7 +164,7 @@ dv_has_:
     oc: Agnatha
     pl: bezżuchwowce
     pt: Agnatha
-    pt-br: Agnatha
+    pt_br: Agnatha
     ro: Agnatha
     ru: бесчелюстные
     sh: Besčeljusnjače
@@ -172,8 +172,8 @@ dv_has_:
     sl: Brezčeljustnice
     sq: Agnatha
     sr: кичмењаци без вилица
-    sr-ec: Кичмењаци без вилица
-    sr-el: Kičmenjaci bez vilica
+    sr_ec: Кичмењаци без вилица
+    sr_el: Kičmenjaci bez vilica
     sv: Käklösa fiskar
     ta: அனேதா
     tg: Беҷоғҳо
@@ -188,12 +188,12 @@ dv_has_:
     wuu: 无颌总纲
     yue: 無頜總綱
     zh: 無頷總綱
-    zh-cn: 无颔总纲
-    zh-hans: 无颔总纲
-    zh-hant: 無頷總綱
-    zh-hk: 無頷總綱
-    zh-sg: 无颔总纲
-    zh-tw: 無頷總綱
+    zh_cn: 无颔总纲
+    zh_hans: 无颔总纲
+    zh_hant: 無頷總綱
+    zh_hk: 無頷總綱
+    zh_sg: 无颔总纲
+    zh_tw: 無頷總綱
 ---
 # [[Agnatha]] 
 

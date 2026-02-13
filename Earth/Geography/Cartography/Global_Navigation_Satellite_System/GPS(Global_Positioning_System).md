@@ -121,7 +121,7 @@ dv_has_:
     ba: GPS
     bar: GPS
     be: GPS
-    be-tarask: GPS
+    be_tarask: GPS
     bg: Глобална система за позициониране
     bn: বিশ্বজনীন অবস্থান-নির্ণায়ক ব্যবস্থা
     br: Global Positioning System
@@ -131,11 +131,11 @@ dv_has_:
     cs: Global Positioning System
     da: Global Positioning System
     de: Global Positioning System
-    de-ch: Global Positioning System
+    de_ch: Global Positioning System
     el: Global Positioning System
     en: Global Positioning System
-    en-ca: Global Positioning System
-    en-gb: Global Positioning System
+    en_ca: Global Positioning System
+    en_gb: Global Positioning System
     eo: Tutmonda loktrova sistemo
     es: geoposicionador satelital
     et: GPS
@@ -203,7 +203,7 @@ dv_has_:
     pnb: جی پی ایس
     ps: د لور موندنې نړيوال غونډال
     pt: sistema de posicionamento global
-    pt-br: Sistema de posicionamento global
+    pt_br: Sistema de posicionamento global
     ro: Global Positioning System
     ru: GPS
     rue: GPS
@@ -215,8 +215,8 @@ dv_has_:
     sl: globalni pozicijski sistem
     sq: GPS
     sr: глобални позициони систем
-    sr-ec: глобални позициони систем
-    sr-el: globalni pozicioni sistem
+    sr_ec: глобални позициони систем
+    sr_el: globalni pozicioni sistem
     sv: Global Positioning System
     sw: Global Positioning System
     ta: புவியிடங்காட்டி
@@ -237,9 +237,9 @@ dv_has_:
     yo: Global Positioning System
     yue: 全球定位系統
     zh: 全球定位系统
-    zh-hans: 全球定位系统
-    zh-hant: 全球定位系統
-    zh-tw: 全球定位系統
+    zh_hans: 全球定位系统
+    zh_hant: 全球定位系統
+    zh_tw: 全球定位系統
 ---
 # [[GPS(Global_Positioning_System)]] 
 

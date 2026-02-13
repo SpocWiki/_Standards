@@ -34,7 +34,7 @@ dv_has_:
     ar: فوكستروت
     az: Fokstrot
     be: Факстрот
-    be-tarask: факстрот
+    be_tarask: факстрот
     bg: Слоу фокстрот
     ca: fox lent
     cs: foxtrot
@@ -71,20 +71,20 @@ dv_has_:
     ru: фокстрот
     sk: foxtrot
     sr: Фокстрот
-    sr-ec: Фокстрот
-    sr-el: Fokstrot
+    sr_ec: Фокстрот
+    sr_el: Fokstrot
     sv: foxtrot
     uk: Фокстрот
     uz: Fokstrot
     vi: Foxtrot
     yue: 狐步
     zh: 狐步
-    zh-cn: 狐步
-    zh-hans: 狐步
-    zh-hant: 狐步
-    zh-hk: 狐步
-    zh-sg: 狐步
-    zh-tw: 狐步
+    zh_cn: 狐步
+    zh_hans: 狐步
+    zh_hant: 狐步
+    zh_hk: 狐步
+    zh_sg: 狐步
+    zh_tw: 狐步
 ---
 # [[Foxtrot]] 
 

@@ -54,7 +54,7 @@ dv_has_:
     pap: Robert Eggers
     pl: Robert Eggers
     pt: Robert Eggers
-    pt-br: Robert Eggers
+    pt_br: Robert Eggers
     ru: Роберт Эггерс
     sk: Robert Eggers
     sl: Robert Eggers
@@ -65,10 +65,10 @@ dv_has_:
     uk: Роберт Еггерс
     yue: 羅拔·艾格斯
     zh: 羅柏·艾格斯
-    zh-cn: 罗伯特·埃格斯
-    zh-hant: 羅柏·艾格斯
-    zh-hk: 羅拔·艾格斯
-    zh-sg: 罗伯·爱格斯
+    zh_cn: 罗伯特·埃格斯
+    zh_hant: 羅柏·艾格斯
+    zh_hk: 羅拔·艾格斯
+    zh_sg: 罗伯·爱格斯
 ---
 ## #has_/text_of_/abstract 
 

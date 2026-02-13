@@ -91,7 +91,7 @@ dv_has_:
     arz: طبيخ
     ast: estofáu
     az: sulu yemək
-    be-tarask: патраўка
+    be_tarask: патраўка
     bew: godogan
     bn: স্ট্যু
     bs: dinstanje
@@ -140,7 +140,7 @@ dv_has_:
     pl: potrawka
     pnt: γιαχνίν
     pt: estufado
-    pt-br: ensopado
+    pt_br: ensopado
     ro: tocană
     ru: стью
     sh: dinstanje
@@ -159,10 +159,10 @@ dv_has_:
     xmf: სტიუ
     yue: 燴
     zh: 燉煮
-    zh-hans: 燉煮
-    zh-hant: 燉煮
-    zh-hk: 燉煮
-    zh-tw: 燉煮
+    zh_hans: 燉煮
+    zh_hant: 燉煮
+    zh_hk: 燉煮
+    zh_tw: 燉煮
 ---
 # [[Stew]] 
 

@@ -113,7 +113,7 @@ dv_has_:
     ast: Lythraceae
     az: Lythraceae
     be: Плакуновыя
-    be-tarask: Плакуновыя
+    be_tarask: Плакуновыя
     bg: блатиеви
     bs: Lythraceae
     ca: litràcies
@@ -150,8 +150,8 @@ dv_has_:
     ka: ცოცხმაგარასებრნი
     ko: 부처꽃과
     ku: Famîleya hine û hinaran
-    ku-arab: فامیلەیا هنەئوو هناران
-    ku-latn: Famîleya hine û hinaran
+    ku_arab: فامیلەیا هنەئوو هناران
+    ku_latn: Famîleya hine û hinaran
     la: Lythraceae
     lt: Raudokliniai
     lv: Vējmietiņu dzimta
@@ -166,14 +166,14 @@ dv_has_:
     os: Хъæддыхцъылынхуызтæ
     pl: Krwawnicowate
     pt: Lythraceae
-    pt-br: Lythraceae
+    pt_br: Lythraceae
     ro: Lythraceae
     ru: Дербенниковые
     sk: vrbicovité
     sq: Lythraceae
     sr: Lythraceae
-    sr-ec: Lythraceae
-    sr-el: Lythraceae
+    sr_ec: Lythraceae
+    sr_el: Lythraceae
     sv: fackelblomsväxter
     te: లైత్రేసి
     th: วงศ์ตะแบก
@@ -186,12 +186,12 @@ dv_has_:
     war: Lythraceae
     yue: 千屈菜科
     zh: 千屈菜科
-    zh-cn: 千屈菜科
-    zh-hans: 千屈菜科
-    zh-hant: 千屈菜科
-    zh-hk: 千屈菜科
-    zh-sg: 千屈菜科
-    zh-tw: 千屈菜科
+    zh_cn: 千屈菜科
+    zh_hans: 千屈菜科
+    zh_hant: 千屈菜科
+    zh_hk: 千屈菜科
+    zh_sg: 千屈菜科
+    zh_tw: 千屈菜科
 ---
 # [[Lythraceae]] 
 

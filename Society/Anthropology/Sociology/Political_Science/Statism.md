@@ -58,17 +58,17 @@ dv_has_:
     az: dövlətçilik
     azb: دؤولتچیلیک
     be: этатызм
-    be-tarask: этатызм
+    be_tarask: этатызм
     bg: Етатизъм
     ca: estatisme
     cs: etatismus
     da: etatisme
     de: Etatismus
-    de-ch: Etatismus
+    de_ch: Etatismus
     el: κρατισμός
     en: statism
-    en-ca: statism
-    en-gb: statism
+    en_ca: statism
+    en_gb: statism
     eo: ŝtatismo
     es: estatismo
     et: Etatism
@@ -100,7 +100,7 @@ dv_has_:
     nl: Etatisme
     pl: etatyzm
     pt: estadismo
-    pt-br: Estadismo
+    pt_br: Estadismo
     ro: etatism
     ru: этатизм
     sa: स्ततिस्म्
@@ -109,8 +109,8 @@ dv_has_:
     sk: Etatizmus
     sl: etatizem
     sr: етатизам
-    sr-ec: Етатизам
-    sr-el: Etatizam
+    sr_ec: Етатизам
+    sr_el: Etatizam
     sv: etatism
     tg: давлатгароӣ
     tr: devletçilik
@@ -120,12 +120,12 @@ dv_has_:
     vec: statismo
     yue: 國家主義
     zh: 國家主義
-    zh-cn: 国家主义
-    zh-hans: 国家主义
-    zh-hant: 國家主義
-    zh-hk: 國家主義
-    zh-sg: 国家主义
-    zh-tw: 國家主義
+    zh_cn: 国家主义
+    zh_hans: 国家主义
+    zh_hant: 國家主義
+    zh_hk: 國家主義
+    zh_sg: 国家主义
+    zh_tw: 國家主義
 ---
 # [[Statism]] 
 

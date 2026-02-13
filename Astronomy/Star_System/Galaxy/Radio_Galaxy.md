@@ -88,15 +88,15 @@ dv_has_:
     ast: radiogalaxa
     az: radioqalaktikalar
     be: радыёгалактыка
-    be-tarask: радыёгаляктыка
+    be_tarask: радыёгаляктыка
     bs: radiogalaksija
     ca: radiogalàxia
     cs: rádiová galaxie
     de: Radiogalaxie
     el: ραδιογαλαξίας
     en: radio galaxy
-    en-ca: radio galaxy
-    en-gb: radio galaxy
+    en_ca: radio galaxy
+    en_gb: radio galaxy
     eo: radiogalaksio
     es: radiogalaxia
     eu: irrati-galaxia
@@ -127,15 +127,15 @@ dv_has_:
     oc: radiogalaxia
     pl: radiogalaktyka
     pt: radiogaláxia
-    pt-br: radiogaláxia
+    pt_br: radiogaláxia
     rki: ဂလက်ဆီ
     ro: radiogalaxie
     ru: радиогалактика
     sk: Rádiová galaxia
     sl: radijska galaksija
     sr: радио галаксија
-    sr-ec: радио галаксија
-    sr-el: radio galaksija
+    sr_ec: радио галаксија
+    sr_el: radio galaksija
     sv: radiogalax
     ta: ரேடியா விண்மீன் மண்டலம்
     th: ดาราจักรวิทยุ
@@ -148,12 +148,12 @@ dv_has_:
     wuu: 电波星系
     yue: 電波星系
     zh: 電波星系
-    zh-cn: 电波星系
-    zh-hans: 电波星系
-    zh-hant: 電波星系
-    zh-hk: 電波星系
-    zh-sg: 电波星系
-    zh-tw: 電波星系
+    zh_cn: 电波星系
+    zh_hans: 电波星系
+    zh_hant: 電波星系
+    zh_hk: 電波星系
+    zh_sg: 电波星系
+    zh_tw: 電波星系
 ---
 # [[Radio_Galaxy]] 
 

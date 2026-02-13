@@ -107,7 +107,7 @@ dv_has_:
     azb: ایسلامچیلیق
     ba: Исламсылыҡ
     be: ісламізм
-    be-tarask: ісламізм
+    be_tarask: ісламізм
     bg: Ислямизъм
     bn: ইসলামবাদ
     br: Islamouriezh
@@ -118,11 +118,11 @@ dv_has_:
     cy: Islamiaeth
     da: Islamisme
     de: Islamismus
-    de-ch: Islamismus
+    de_ch: Islamismus
     el: Ισλαμισμός
     en: Islamism
-    en-ca: Islamism
-    en-gb: Islamism
+    en_ca: Islamism
+    en_gb: Islamism
     en-us: Islamism
     eo: islamismo
     es: islamismo
@@ -151,7 +151,7 @@ dv_has_:
     ko: 이슬람주의
     ks: اِسلامِیَتھ
     ku: îslamîzm
-    ku-latn: îslamîzm
+    ku_latn: îslamîzm
     ky: Исламизм
     la: Islamismus
     lb: Islamismus
@@ -169,7 +169,7 @@ dv_has_:
     pl: Islamizm
     ps: اسلامپال
     pt: islamismo
-    pt-br: Islamismo
+    pt_br: Islamismo
     ro: islamism
     ru: исламизм
     se: islamisma
@@ -179,8 +179,8 @@ dv_has_:
     sms: islamismm
     sq: Islamizmi
     sr: исламизам
-    sr-ec: Исламизам
-    sr-el: Islamizam
+    sr_ec: Исламизам
+    sr_el: Islamizam
     sv: islamism
     syl: ꠁꠍꠟꠣꠝꠤꠔꠣ
     tg: исломгароӣ
@@ -196,12 +196,12 @@ dv_has_:
     yi: איסלאַמיסטיש
     yue: 伊斯蘭主義
     zh: 伊斯兰主义
-    zh-cn: 伊斯兰主义
-    zh-hans: 伊斯兰主义
-    zh-hant: 伊斯蘭主義
-    zh-hk: 伊斯蘭主義
-    zh-sg: 伊斯兰主义
-    zh-tw: 伊斯蘭主義
+    zh_cn: 伊斯兰主义
+    zh_hans: 伊斯兰主义
+    zh_hant: 伊斯蘭主義
+    zh_hk: 伊斯蘭主義
+    zh_sg: 伊斯兰主义
+    zh_tw: 伊斯蘭主義
 ---
 # [[Islamism]] 
 

@@ -133,7 +133,7 @@ dv_has_:
     az: Burres Frederik Skinner
     azb: بیاف اسکینر
     be: Берэс Фрэдэрык Скінер
-    be-tarask: Бэрэс Фрэдэрык Скінэр
+    be_tarask: Бэрэс Фрэдэрык Скінэр
     bg: Бъръс Фредерик Скинър
     bn: বি. এফ. স্কিনার
     ca: Burrhus Frederic Skinner
@@ -183,7 +183,7 @@ dv_has_:
     pl: B.F. Skinner
     ps: بوروس فردریک سکینر
     pt: B. F. Skinner
-    pt-br: B. F. Skinner
+    pt_br: B. F. Skinner
     ru: Беррес Фредерик Скиннер
     sco: B. F. Skinner
     sk: Burrhus Frederic Skinner
@@ -202,12 +202,12 @@ dv_has_:
     xmf: ბერეს ფრედერიკ სკინერი
     yue: 伯赫斯·費德歷·斯金納
     zh: 伯尔赫斯·弗雷德里克·斯金纳
-    zh-cn: 伯尔赫斯·弗雷德里克·斯金纳
-    zh-hans: 伯尔赫斯·弗雷德里克·斯金纳
-    zh-hant: 伯爾赫斯·弗雷德里克·斯金納
-    zh-hk: 巴域士·費德烈·史堅拿
-    zh-sg: 伯尔赫斯·弗雷德里克·斯金纳
-    zh-tw: 伯爾赫斯·弗雷德里克·史金納
+    zh_cn: 伯尔赫斯·弗雷德里克·斯金纳
+    zh_hans: 伯尔赫斯·弗雷德里克·斯金纳
+    zh_hant: 伯爾赫斯·弗雷德里克·斯金納
+    zh_hk: 巴域士·費德烈·史堅拿
+    zh_sg: 伯尔赫斯·弗雷德里克·斯金纳
+    zh_tw: 伯爾赫斯·弗雷德里克·史金納
 ---
 # [[Skinner,B.F.]] 
 

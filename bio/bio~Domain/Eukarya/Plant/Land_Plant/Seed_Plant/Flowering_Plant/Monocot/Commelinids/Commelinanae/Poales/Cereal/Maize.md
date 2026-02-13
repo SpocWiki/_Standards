@@ -437,7 +437,7 @@ water_footprint:
 dv_has_:
   name_:
     ace: Jagong
-    aeb-arab: قطانية
+    aeb_arab: قطانية
     af: mielie
     ak: aburo
     am: በቆሎ
@@ -458,7 +458,7 @@ dv_has_:
     bar: Gugaruz
     bcl: mais
     be: Кукуруза
-    be-tarask: кукуруза
+    be_tarask: кукуруза
     bg: захарна царевица
     bi: Corn
     bjn: Jagung
@@ -485,7 +485,7 @@ dv_has_:
     da: majs
     dag: kariwana
     de: Mais
-    de-ch: Mais
+    de_ch: Mais
     dga: Kamaane
     din: Anyuɔl
     diq: Lazut
@@ -498,8 +498,8 @@ dv_has_:
     el: καλαμπόκι
     eml: Furmintòun
     en: maize
-    en-ca: Maize
-    en-gb: maize
+    en_ca: Maize
+    en_gb: maize
     en-us: corn
     eo: maizo
     es: maíz
@@ -584,7 +584,7 @@ dv_has_:
     lzh: 秫
     mad: Jhâghung
     mai: मकै
-    map-bms: Jagung
+    map_bms: Jagung
     mcn: ca᷆yt cígɔ᷆rdà
     mg: Katsaka
     mi: kānga
@@ -607,7 +607,7 @@ dv_has_:
     nap: Granone
     nb: mais
     nds: Zea mays
-    nds-nl: Zea mays
+    nds_nl: Zea mays
     ne: मकै
     new: कःनि
     nia: Rigi
@@ -696,11 +696,11 @@ dv_has_:
     yue: 粟米
     za: Haeuxyangz
     zh: 玉米
-    zh-cn: 玉米
-    zh-hans: 玉米
-    zh-hant: 玉米
-    zh-hk: 粟米
-    zh-tw: 玉蜀黍
+    zh_cn: 玉米
+    zh_hans: 玉米
+    zh_hant: 玉米
+    zh_hk: 粟米
+    zh_tw: 玉蜀黍
 ---
 # [[Maize]] 🌽 
 

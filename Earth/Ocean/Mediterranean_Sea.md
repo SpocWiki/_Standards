@@ -26,7 +26,7 @@ dv_has_:
     bar: Middlmeea
     bcl: Dagat Mediterraneo
     be: Міжземнае мора
-    be-tarask: Міжземнае мора
+    be_tarask: Міжземнае мора
     bg: Средиземно море
     bho: भूमध्य सागर
     bjn: Laut Tangah
@@ -37,14 +37,14 @@ dv_has_:
     bs: Sredozemno more
     bxr: Газарай дундада тэнгис
     ca: mar Mediterrània
-    cbk-zam: Mar Mediteraneo
+    cbk_zam: Mar Mediteraneo
     cdo: Dê-dṳ̆ng-hāi
     ce: Лаьттайуккъера хӀорд
     ceb: Dagat Mediteraneo
     ckb: دەریای ناوین
     co: Mari Tarraniu
     crh: Aq deñiz
-    crh-latn: Aq deñiz
+    crh_latn: Aq deñiz
     cs: Středozemní moře
     csb: Westrzódzemné Mòrzé
     cv: Вăтаçĕр тинĕсĕ
@@ -150,7 +150,7 @@ dv_has_:
     mr: भूमध्य समुद्र
     mrj: Муландыпокшалныш тангыж
     ms: Laut Tengah
-    ms-arab: لاءوت ميديترينيئن
+    ms_arab: لاءوت ميديترينيئن
     mt: Baħar Mediterran
     mwl: Mar Mediterráneo
     my: မြေထဲပင်လယ်
@@ -159,7 +159,7 @@ dv_has_:
     nap: Mar Mediterraneo
     nb: Middelhavet
     nds: Middellannsche See
-    nds-nl: Middellaanse Zee
+    nds_nl: Middellaanse Zee
     ne: भूमध्य सागर
     new: मेडिटेरेनियन सागर
     nl: Middellandse Zee
@@ -182,7 +182,7 @@ dv_has_:
     pnt: Μεσόγειον Θάλασσα
     ps: مدیترانې سمندرګی
     pt: Mar Mediterrâneo
-    pt-br: Mar Mediterrâneo
+    pt_br: Mar Mediterrâneo
     qu: Allpapura hatun qucha
     rm: Mar Mediterrana
     ro: Marea Mediterană
@@ -209,7 +209,7 @@ dv_has_:
     so: Bada Dhexe
     sq: Deti Mesdhe
     sr: Средоземно море
-    sr-ec: Средоземно море
+    sr_ec: Средоземно море
     st: Mediterranean Sea
     stq: Middelmeer
     su: Laut Tengah
@@ -226,7 +226,7 @@ dv_has_:
     tr: Akdeniz
     ts: Lwandle ra Meditera
     tt: Урта диңгез
-    tt-cyrl: Урта диңгез
+    tt_cyrl: Урта диңгез
     udm: Средиземной зарезь
     ug: يەر ئوتتۇرا دېڭىزى
     uk: Середземне море
@@ -249,10 +249,10 @@ dv_has_:
     zea: Middellanse Zeê
     zgh: ⵉⵍⵍ ⴰⴳⵔⴰⴽⴰⵍ
     zh: 地中海
-    zh-cn: 地中海
-    zh-hans: 地中海
-    zh-hant: 地中海
-    zh-tw: 地中海
+    zh_cn: 地中海
+    zh_hans: 地中海
+    zh_hant: 地中海
+    zh_tw: 地中海
   time_:
     destroyed:
       Ma: -5.9

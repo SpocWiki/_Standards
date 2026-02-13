@@ -84,7 +84,7 @@ dv_has_:
     ast: Econometría
     az: Ekonometrika
     be: эканаметрыка
-    be-tarask: эканамэтрыка
+    be_tarask: эканамэтрыка
     bg: Иконометрия
     bn: অর্থমিতি
     ca: econometria
@@ -114,11 +114,11 @@ dv_has_:
     jv: Ékonomètrika
     ka: ეკონომეტრიკა
     kk: Эконометрика
-    kk-arab: ەكونومەترىيكا
+    kk_arab: ەكونومەترىيكا
     kk-cn: ەكونومەترىيكا
-    kk-cyrl: Эконометрика
+    kk_cyrl: Эконометрика
     kk-kz: Эконометрика
-    kk-latn: Ékonometrïka
+    kk_latn: Ékonometrïka
     kk-tr: Ékonometrïka
     kn: ಅರ್ಥಮಾಪನಶಾಸ್ತ್ರ
     ko: 계량경제학
@@ -147,7 +147,7 @@ dv_has_:
     sms: ekonometria
     sq: ekonometria
     sr: економетрија
-    sr-ec: економетрија
+    sr_ec: економетрија
     su: Ékonométri
     sv: ekonometri
     th: เศรษฐมิติ
@@ -161,12 +161,12 @@ dv_has_:
     wuu: 计量经济学
     yue: 計量經濟學
     zh: 计量经济学
-    zh-cn: 计量经济学
-    zh-hans: 计量经济学
-    zh-hant: 計量經濟學
-    zh-hk: 計量經濟學
-    zh-sg: 计量经济学
-    zh-tw: 計量經濟學
+    zh_cn: 计量经济学
+    zh_hans: 计量经济学
+    zh_hant: 計量經濟學
+    zh_hk: 計量經濟學
+    zh_sg: 计量经济学
+    zh_tw: 計量經濟學
 ---
 # [[Econometrics]] 
 

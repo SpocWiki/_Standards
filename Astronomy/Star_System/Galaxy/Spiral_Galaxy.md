@@ -108,7 +108,7 @@ dv_has_:
     az: Spiral qalaktikalar
     azb: بوروشوق قالاکسی
     be: Спіральная галактыка
-    be-tarask: сьпіральная галяктыка
+    be_tarask: сьпіральная галяктыка
     bg: Спирална галактика
     bjn: Galaksi spiral
     bn: সর্পিল ছায়াপথ
@@ -171,8 +171,8 @@ dv_has_:
     sk: špirálová galaxia
     sl: spiralna galaksija
     sr: спирална галаксија
-    sr-ec: spiralna galaksija
-    sr-el: spiralna galaksija
+    sr_ec: spiralna galaksija
+    sr_el: spiralna galaksija
     sv: spiralgalax
     ta: சுருள் விண்மீன் மண்டலம்
     te: సర్పిల నక్షత్ర మండలం

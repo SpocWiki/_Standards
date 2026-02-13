@@ -59,7 +59,7 @@ dv_has_:
   name_:
     ar: جهاز الشم
     ast: Sistema olfativu
-    be-tarask: нюхавая сыстэма
+    be_tarask: нюхавая сыстэма
     bs: Čulo mirisa
     ca: sistema olfactiu
     cy: system arogleuol
@@ -101,9 +101,9 @@ dv_has_:
     vi: hệ khứu giác
     yue: 嗅覺系統
     zh: 嗅覺系統
-    zh-hans: 嗅觉系统
-    zh-hant: 嗅覺系統
-    zh-hk: 嗅覺系統
+    zh_hans: 嗅觉系统
+    zh_hant: 嗅覺系統
+    zh_hk: 嗅覺系統
 ---
 # [[Olfactory_System]] 
 

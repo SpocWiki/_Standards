@@ -199,7 +199,7 @@ dv_has_:
     ba: живопись
     bcl: pagpinta
     be: жывапіс
-    be-tarask: малярства
+    be_tarask: малярства
     bg: живопис
     blk: ပကီႏ
     bn: চিত্রাঙ্কন
@@ -224,8 +224,8 @@ dv_has_:
     el: ζωγραφική
     eml: pitûra
     en: art of painting
-    en-ca: painting
-    en-gb: painting
+    en_ca: painting
+    en_gb: painting
     en-us: art of painting
     eo: pentrado
     es: pintura
@@ -304,7 +304,7 @@ dv_has_:
     nap: pittura
     nb: malerkunst
     nds: Billers
-    nds-nl: skeelderskeunst
+    nds_nl: skeelderskeunst
     ne: चित्रकला
     new: चित्तिरम्
     nl: schilderkunst
@@ -319,7 +319,7 @@ dv_has_:
     pnb: مصوری
     ps: انځورکښنه
     pt: pintura
-    pt-br: pintura
+    pt_br: pintura
     pwn: zuga
     qu: llimphiy
     rki: ပန်းချီ
@@ -371,14 +371,14 @@ dv_has_:
     za: veh veh
     zea: schilderkunst
     zh: 绘画
-    zh-cn: 绘画
-    zh-hans: 绘画
-    zh-hant: 繪畫
-    zh-hk: 繪畫
-    zh-mo: 繪畫
+    zh_cn: 绘画
+    zh_hans: 绘画
+    zh_hant: 繪畫
+    zh_hk: 繪畫
+    zh_mo: 繪畫
     zh-my: 绘画
-    zh-sg: 绘画
-    zh-tw: 繪畫
+    zh_sg: 绘画
+    zh_tw: 繪畫
 ---
 # [[Painting]] 
 

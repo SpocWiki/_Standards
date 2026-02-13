@@ -117,7 +117,7 @@ dv_has_:
     ban: Lingkehan Antartika
     bcl: Sirkulong Antartiko
     be: Паўднёвы палярны круг
-    be-tarask: Паўднёвы палярны круг
+    be_tarask: Паўднёвы палярны круг
     bg: Южен полярен кръг
     bn: কুমেরু বৃত্ত
     bs: Antarktički krug
@@ -127,8 +127,8 @@ dv_has_:
     de: südlicher Polarkreis
     el: Ανταρκτικός κύκλος
     en: Antarctic Circle
-    en-ca: Antarctic Circle
-    en-gb: Antarctic Circle
+    en_ca: Antarctic Circle
+    en_gb: Antarctic Circle
     eo: antarkta cirklo
     es: círculo polar antártico
     et: lõunapolaarjoon
@@ -172,7 +172,7 @@ dv_has_:
     pl: koło podbiegunowe południowe
     pnb: دائرہ قطب جنوبی
     pt: Círculo Polar Antártico
-    pt-br: Círculo Polar Antártico
+    pt_br: Círculo Polar Antártico
     ro: Cerc polar antarctic
     ru: южный полярный круг
     sah: Соҕуруу полюс эргимтэтэ
@@ -181,8 +181,8 @@ dv_has_:
     sl: južni tečajnik
     smn: máddáápiälááš näpikiärdu
     sr: Антарктички поларни круг
-    sr-ec: Антарктички поларни круг
-    sr-el: Antarktički polarni krug
+    sr_ec: Антарктички поларни круг
+    sr_el: Antarktički polarni krug
     sv: södra polcirkeln
     sw: Mzingo antaktiki
     ta: அந்தாட்டிக்க வட்டம்
@@ -198,12 +198,12 @@ dv_has_:
     wuu: 南極圈
     yue: 南極圈
     zh: 南極圈
-    zh-cn: 南极圈
-    zh-hans: 南极圈
-    zh-hant: 南極圈
-    zh-hk: 南極圈
-    zh-sg: 南极圈
-    zh-tw: 南極圈
+    zh_cn: 南极圈
+    zh_hans: 南极圈
+    zh_hant: 南極圈
+    zh_hk: 南極圈
+    zh_sg: 南极圈
+    zh_tw: 南極圈
 ---
 # [[Antarctic_Circle]]
 

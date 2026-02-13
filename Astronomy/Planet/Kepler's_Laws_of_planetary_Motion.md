@@ -123,7 +123,7 @@ dv_has_:
     ast: Lleis de Kepler
     az: Kepler qanunları
     be: Законы Кеплера
-    be-tarask: Законы Кеплера
+    be_tarask: Законы Кеплера
     bg: Закони на Кеплер
     bn: কেপলারের গ্রহীয় গতিসূত্র
     bs: Keplerovi zakoni
@@ -133,11 +133,11 @@ dv_has_:
     cy: Deddfau mudiant planedau Kepler
     da: Keplers love
     de: Keplersche Gesetze
-    de-ch: Keplersche Gesetze
+    de_ch: Keplersche Gesetze
     el: Νόμος αστρικών περιφορών
     en: Kepler's laws of planetary motion
-    en-ca: Kepler's laws of planetary motion
-    en-gb: Kepler's laws of planetary motion
+    en_ca: Kepler's laws of planetary motion
+    en_gb: Kepler's laws of planetary motion
     eo: leĝoj de Kepler
     es: Leyes de Kepler
     et: Kepleri seadused
@@ -181,7 +181,7 @@ dv_has_:
     pl: prawa Keplera
     pms: Laj ëd Kepler
     pt: Leis de Kepler
-    pt-br: Leis de Kepler
+    pt_br: Leis de Kepler
     ro: Legile lui Kepler
     ru: Законы Кеплера
     rue: Кеплеровы законы

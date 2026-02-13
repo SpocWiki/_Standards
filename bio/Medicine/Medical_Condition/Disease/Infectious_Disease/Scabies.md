@@ -148,7 +148,7 @@ dv_has_:
     ba: Ҡорсаңғы
     bcl: Doldol
     be: кароста
-    be-tarask: кароста
+    be_tarask: кароста
     bg: Краста
     bn: স্ক্যাবিস
     ca: sarna
@@ -186,11 +186,11 @@ dv_has_:
     ka: მუნი
     kcg: za̱wai
     kk: Қотыр
-    kk-arab: قوتىر
+    kk_arab: قوتىر
     kk-cn: قوتىر
-    kk-cyrl: Қотыр
+    kk_cyrl: Қотыр
     kk-kz: Қотыр
-    kk-latn: Qotır
+    kk_latn: Qotır
     kk-tr: Qotır
     kn: ಕಜ್ಜಿ
     ko: 옴
@@ -240,12 +240,12 @@ dv_has_:
     yue: 疥瘡
     za: Nyan
     zh: 疥疮
-    zh-cn: 疥疮
-    zh-hans: 疥疮
-    zh-hant: 疥瘡
-    zh-hk: 疥瘡
-    zh-sg: 疥疮
-    zh-tw: 疥瘡
+    zh_cn: 疥疮
+    zh_hans: 疥疮
+    zh_hant: 疥瘡
+    zh_hk: 疥瘡
+    zh_sg: 疥疮
+    zh_tw: 疥瘡
 ---
 # [[Scabies]] 
 

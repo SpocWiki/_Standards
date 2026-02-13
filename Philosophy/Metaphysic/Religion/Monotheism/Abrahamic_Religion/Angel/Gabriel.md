@@ -128,7 +128,7 @@ dv_has_:
     ba: Гавриил Архангел (Ябраил фәрештә)
     bcl: Arkanghel Gabriel
     be: Гаўрыіл
-    be-tarask: Гаўрыіл
+    be_tarask: Гаўрыіл
     bg: Гавриил
     bn: জিবরাঈল
     bo: གེབ་རི་ཨེལ།
@@ -144,7 +144,7 @@ dv_has_:
     diq: Cebrail
     el: Αρχάγγελος Γαβριήλ
     en: Gabriel
-    en-gb: Gabriel
+    en_gb: Gabriel
     eo: Gabrielo
     es: Arcángel Gabriel
     et: Gabriel
@@ -210,7 +210,7 @@ dv_has_:
     so: Jibriil
     sq: Gabrijeli
     sr: Гаврило
-    sr-ec: Гаврило
+    sr_ec: Гаврило
     sv: Ärkeängeln Gabriel
     sw: Malaika Gabrieli
     ta: கபிரியேல் தேவதூதர்

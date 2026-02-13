@@ -215,7 +215,7 @@ dv_has_:
     bar: Cristiano Ronaldo
     bcl: Cristiano Ronaldo
     be: Крыштыяну Раналду
-    be-tarask: Крыштыяну Раналду
+    be_tarask: Крыштыяну Раналду
     bew: Cristiano Ronaldo
     bg: Кристиано Роналдо
     bho: क्रिस्टियानो रोनाल्डो
@@ -243,8 +243,8 @@ dv_has_:
     dty: क्रिष्टियानो रोनाल्डो
     el: Κριστιάνο Ρονάλντο
     en: Cristiano Ronaldo
-    en-ca: Cristiano Ronaldo
-    en-gb: Cristiano Ronaldo
+    en_ca: Cristiano Ronaldo
+    en_gb: Cristiano Ronaldo
     en-us: Cristiano Ronaldo
     eo: Cristiano Ronaldo
     es: Cristiano Ronaldo
@@ -320,7 +320,7 @@ dv_has_:
     nan: Cristiano Ronaldo
     nap: Cristiano Ronaldo
     nb: Cristiano Ronaldo
-    nds-nl: Christiano Ronaldo
+    nds_nl: Christiano Ronaldo
     ne: क्रिस्टियानो रोनाल्डो
     nl: Cristiano Ronaldo
     nn: Cristiano Ronaldo
@@ -337,7 +337,7 @@ dv_has_:
     pnb: کرسٹیانو رونالڈو
     ps: کرېسټيانو رونالډو
     pt: Cristiano Ronaldo
-    pt-br: Cristiano Ronaldo
+    pt_br: Cristiano Ronaldo
     qu: Cristiano Ronaldo
     ro: Cristiano Ronaldo
     ru: Криштиану Роналду
@@ -382,12 +382,12 @@ dv_has_:
     yue: 基斯坦奴朗拿度
     zgh: ⴽⵔⵉⵙⵜⵢⴰⵏⵓ ⵔⵓⵏⴰⵍⴷⵓ
     zh: 克里斯蒂亚诺·罗纳尔多
-    zh-cn: 克里斯蒂亚诺·罗纳尔多
-    zh-hans: 克里斯蒂亚诺·罗纳尔多
-    zh-hant: 克里斯蒂亞諾·羅納度
-    zh-hk: 基斯坦奴·朗拿度
-    zh-sg: 克里斯蒂亚诺·罗纳尔多
-    zh-tw: 克里斯蒂亞諾·羅納度
+    zh_cn: 克里斯蒂亚诺·罗纳尔多
+    zh_hans: 克里斯蒂亚诺·罗纳尔多
+    zh_hant: 克里斯蒂亞諾·羅納度
+    zh_hk: 基斯坦奴·朗拿度
+    zh_sg: 克里斯蒂亚诺·罗纳尔多
+    zh_tw: 克里斯蒂亞諾·羅納度
 ---
 # [[Ronaldo,Cristiano]] 
 

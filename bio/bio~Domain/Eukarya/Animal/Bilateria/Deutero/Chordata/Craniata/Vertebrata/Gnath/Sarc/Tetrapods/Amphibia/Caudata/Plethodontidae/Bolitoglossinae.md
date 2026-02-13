@@ -52,7 +52,7 @@ dv_has_:
     oc: Bolitoglossinae
     pl: Bolitoglossinae
     pt: Bolitoglossinae
-    pt-br: Bolitoglossinae
+    pt_br: Bolitoglossinae
     ro: Bolitoglossinae
     ru: Bolitoglossinae
     sq: Bolitoglossinae

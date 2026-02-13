@@ -136,7 +136,7 @@ dv_has_:
     ba: биотехнология
     bar: Biotechnologie
     be: біятэхналогія
-    be-tarask: біятэхналёгія
+    be_tarask: біятэхналёгія
     bg: биотехнология
     blk: ဇီဝအနယ်ꩻပညာႏ
     bn: জৈবপ্রযুক্তি
@@ -152,8 +152,8 @@ dv_has_:
     de: Biotechnologie
     el: βιοτεχνολογία
     en: biotechnology
-    en-ca: biotechnology
-    en-gb: biotechnology
+    en_ca: biotechnology
+    en_gb: biotechnology
     eo: biotekniko
     es: biotecnología
     et: biotehnoloogia
@@ -216,7 +216,7 @@ dv_has_:
     pnb: بائیو ٹیکنالوجی
     ps: بیوټکنالوژي
     pt: biotecnologia
-    pt-br: biotecnologia
+    pt_br: biotecnologia
     rki: ဇီဝနည်းပညာ
     ro: biotehnologie
     ru: биотехнология
@@ -258,8 +258,8 @@ dv_has_:
     yi: ביאטעכנאלאגיע
     yue: 生物科技
     zh: 生物技术
-    zh-hans: 生物技术
-    zh-hant: 生物技術
+    zh_hans: 生物技术
+    zh_hant: 生物技術
 ---
 # [[Biotechnology]] 
 

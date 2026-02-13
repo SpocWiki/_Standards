@@ -75,7 +75,7 @@ dv_has_:
     ar: كرنب أجعد
     arz: كرنب اجعد
     ast: Brassica oleracea var. sabellica
-    be-tarask: Brassica oleracea var. acephala
+    be_tarask: Brassica oleracea var. acephala
     bg: кейл
     bn: পাতা কপি
     ca: col verda
@@ -121,7 +121,7 @@ dv_has_:
     ms: kale
     nb: grønnkål
     nds: Gröönkohl
-    nds-nl: Mous
+    nds_nl: Mous
     nl: boerenkool
     or: ଗୋଟେ ପ୍ରକାରର କୋବି
     pa: ਕਾਲੀ

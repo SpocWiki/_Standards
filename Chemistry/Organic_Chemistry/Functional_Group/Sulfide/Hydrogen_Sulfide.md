@@ -165,7 +165,7 @@ dv_has_:
     az: Hidrogen-sulfid qazı
     azb: سولفید هیدروژن
     be: серавадарод
-    be-tarask: серкавадародная кісьля
+    be_tarask: серкавадародная кісьля
     bg: Сероводород
     bn: হাইড্রোজেন সালফাইড
     bs: Vodonik sulfid
@@ -176,7 +176,7 @@ dv_has_:
     de: Schwefelwasserstoff
     el: Υδρόθειο
     en: hydrogen sulfide
-    en-gb: hydrogen sulphide
+    en_gb: hydrogen sulphide
     eo: hidrogena sulfido
     es: sulfuro de hidrógeno
     et: Vesiniksulfiid
@@ -213,7 +213,7 @@ dv_has_:
     oc: Sulfur d'idrogèn
     pl: siarkowodór
     pt: sulfeto de hidrogénio
-    pt-br: sulfeto de hidrogênio
+    pt_br: sulfeto de hidrogênio
     ro: Hidrogen sulfurat
     ru: сероводород
     sat: ᱦᱟᱭᱤᱰᱨᱚᱡᱟᱱ ᱥᱟᱞᱯᱷᱟᱭᱤᱰ
@@ -222,8 +222,8 @@ dv_has_:
     sl: vodikov sulfid
     sq: Acidi Sulfhidrik
     sr: водоник-сулфид
-    sr-ec: Водоник-сулфид
-    sr-el: Vodonik-sulfid
+    sr_ec: Водоник-сулфид
+    sr_el: Vodonik-sulfid
     sv: svavelväte
     ta: ஐதரசன் சல்பைடு
     te: హైడ్రోజన్ సల్ఫైడ్
@@ -237,12 +237,12 @@ dv_has_:
     wuu: 硫化氢
     yue: 硫化氫
     zh: 硫化氫
-    zh-cn: 硫化氢
-    zh-hans: 硫化氢
-    zh-hant: 硫化氫
-    zh-hk: 硫化氫
-    zh-sg: 硫化氢
-    zh-tw: 硫化氫
+    zh_cn: 硫化氢
+    zh_hans: 硫化氢
+    zh_hant: 硫化氫
+    zh_hk: 硫化氫
+    zh_sg: 硫化氢
+    zh_tw: 硫化氫
 dv_is_same_as: '[[WD~hydrogen_sulphide,170591]]'
 dv_has_formula_structural: H-S-H
 ---

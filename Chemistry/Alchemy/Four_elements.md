@@ -122,7 +122,7 @@ dv_has_:
     az: Klassik elementlər
     bcl: Mga klasikong elemento
     be: Стыхія, элемент
-    be-tarask: элемэнт
+    be_tarask: элемэнт
     bn: শাস্ত্রীয় উপাদান
     ca: Quatre elements clàssics
     ckb: توخمە کلاسیکییەکان
@@ -132,7 +132,7 @@ dv_has_:
     de: Vier Elemente
     el: Τέσσερα στοιχεία
     en: classical elements
-    en-gb: classical element
+    en_gb: classical element
     eo: kvar klasikaj elementoj
     es: elementos de la naturaleza
     et: Neli elementi
@@ -173,26 +173,26 @@ dv_has_:
     sl: štirje elementi
     sq: Katër elementet
     sr: основни елемент
-    sr-ec: Основни елементи
-    sr-el: Osnovni elementi
+    sr_ec: Основни елементи
+    sr_el: Osnovni elementi
     sv: Klassiska element
     ta: ஐம்பூதங்கள்
     th: ธาตุหลัก
     tok: ijo lawa ale
     tr: dört element
     tt: классик элемент
-    tt-cyrl: классик элемент
+    tt_cyrl: классик элемент
     uk: Стихія
     ur: عناصر
     vi: Nguyên tố cổ điển
     yue: 四元素
     zh: 四元素
-    zh-cn: 四元素
-    zh-hans: 四元素
-    zh-hant: 四元素
-    zh-hk: 四元素
-    zh-sg: 四元素
-    zh-tw: 四元素
+    zh_cn: 四元素
+    zh_hans: 四元素
+    zh_hant: 四元素
+    zh_hk: 四元素
+    zh_sg: 四元素
+    zh_tw: 四元素
 ---
 # [[Four_elements]] 
 

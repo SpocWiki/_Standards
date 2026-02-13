@@ -126,7 +126,7 @@ dv_has_:
     ba: морфология
     bcl: morpolohiya
     be: марфалогія мовы
-    be-tarask: марфалёгія
+    be_tarask: марфалёгія
     bew: èlmu sarap
     bg: морфология
     bho: मॉर्फोलजी
@@ -142,12 +142,12 @@ dv_has_:
     da: morfologi
     dag: mɔfoloji
     de: Morphologie
-    de-ch: Morphologie
+    de_ch: Morphologie
     dtp: morfologi
     el: μορφολογία
     en: morphology
-    en-ca: morphology
-    en-gb: morphology
+    en_ca: morphology
+    en_gb: morphology
     eo: morfologio
     es: morfología lingüística
     et: morfoloogia
@@ -191,7 +191,7 @@ dv_has_:
     ml: രൂപവിജ്ഞാനം
     mr: पदरचनाशास्त्र
     ms: morfologi
-    ms-arab: مورفولوݢي
+    ms_arab: مورفولوݢي
     nb: morfologi
     nl: morfologie
     nn: morfologi
@@ -202,7 +202,7 @@ dv_has_:
     pnt: μορφολογία
     ps: ګړپوهنه
     pt: morfologia
-    pt-br: morfologia
+    pt_br: morfologia
     qu: rimana yachay
     rm: morfologia
     rmf: morfologia
@@ -239,8 +239,8 @@ dv_has_:
     yo: mọfọ́lọ́jì
     yue: 構詞學
     zh: 構詞學
-    zh-hant: 構詞學
-    zh-tw: 構詞學
+    zh_hant: 構詞學
+    zh_tw: 構詞學
 ---
 # [[Morphology]] 
 

@@ -42,7 +42,7 @@ dv_has_:
     azb: رابرت ردفورد
     bar: Robert Redford
     be: Роберт Рэдфард
-    be-tarask: Робэрт Рэдфард
+    be_tarask: Робэрт Рэдфард
     bg: Робърт Редфорд
     bm: Robert Redford
     bn: রবার্ট রেডফোর্ড
@@ -55,12 +55,12 @@ dv_has_:
     cy: Robert Redford
     de: Robert Redford
     de-at: Robert Redford
-    de-ch: Robert Redford
+    de_ch: Robert Redford
     ee: Robert Redford
     el: Ρόμπερτ Ρέντφορντ
     en: Robert Redford
-    en-ca: Robert Redford
-    en-gb: Robert Redford
+    en_ca: Robert Redford
+    en_gb: Robert Redford
     eo: Robert Redford
     es: Robert Redford
     et: Robert Redford
@@ -112,7 +112,7 @@ dv_has_:
     nap: Robert Redford
     nb: Robert Redford
     nds: Robert Redford
-    nds-nl: Robert Redford
+    nds_nl: Robert Redford
     nl: Robert Redford
     nn: Robert Redford
     nrm: Robert Redford
@@ -123,7 +123,7 @@ dv_has_:
     pms: Robert Redford
     prg: Robert Redford
     pt: Robert Redford
-    pt-br: Robert Redford
+    pt_br: Robert Redford
     qu: Robert Redford
     rgn: Robert Redford
     rm: Robert Redford
@@ -138,7 +138,7 @@ dv_has_:
     sl: Robert Redford
     sq: Robert Redford
     sr: Robert Redford
-    sr-el: Robert Redford
+    sr_el: Robert Redford
     sv: Robert Redford
     sw: Robert Redford
     te: రాబర్ట్ రెడ్ఫోర్డ్
@@ -146,7 +146,7 @@ dv_has_:
     tl: Robert Redford
     tr: Robert Redford
     tt: Роберт Редфорд
-    tt-cyrl: Роберт Редфорд
+    tt_cyrl: Роберт Редфорд
     uk: Роберт Редфорд
     ur: رابرٹ ریڈفورڈ
     vec: Robert Redford
@@ -162,12 +162,12 @@ dv_has_:
     yo: Robert Redford
     yue: 羅拔烈福
     zh: 勞勃·瑞福
-    zh-cn: 罗伯特·雷德福
-    zh-hans: 罗伯特·雷德福
-    zh-hant: 勞勃·瑞福
-    zh-hk: 羅拔烈福
+    zh_cn: 罗伯特·雷德福
+    zh_hans: 罗伯特·雷德福
+    zh_hant: 勞勃·瑞福
+    zh_hk: 羅拔烈福
     zh-my: 罗拔·烈福
-    zh-sg: 罗拔·烈福
+    zh_sg: 罗拔·烈福
     zu: Robert Redford
 ---
 #has_/time_/started :: 1936-08-18 

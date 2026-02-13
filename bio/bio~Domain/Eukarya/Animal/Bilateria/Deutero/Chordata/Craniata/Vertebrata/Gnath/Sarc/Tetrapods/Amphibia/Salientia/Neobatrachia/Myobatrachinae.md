@@ -37,10 +37,10 @@ dv_has_:
     ca: Miobatràquid
     ceb: Limnodynastidae
     de: Australische Südfrösche
-    de-ch: Australische Südfrösche
+    de_ch: Australische Südfrösche
     en: Myobatrachidae
-    en-ca: Myobatrachidae
-    en-gb: Myobatrachidae
+    en_ca: Myobatrachidae
+    en_gb: Myobatrachidae
     eo: Mjobatraĥedoj
     es: Myobatrachidae
     eu: Myobatrachidae
@@ -68,7 +68,7 @@ dv_has_:
     oc: Myobatrachidae
     pl: Żółwinkowate
     pt: Myobatrachidae
-    pt-br: Myobatrachidae
+    pt_br: Myobatrachidae
     ro: Myobatrachidae
     ru: Австралийские жабы
     sq: Myobatrachidae
@@ -79,9 +79,9 @@ dv_has_:
     vo: Myobatrachidae
     war: Limnodynastidae
     zh: 龟蟾科
-    zh-cn: 龟蟾科
-    zh-hans: 龟蟾科
-    zh-tw: 龜蟾科
+    zh_cn: 龟蟾科
+    zh_hans: 龟蟾科
+    zh_tw: 龜蟾科
 ---
 # [[Myobatrachinae]]
 

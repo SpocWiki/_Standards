@@ -103,7 +103,7 @@ dv_has_:
     ast: Luchino Visconti
     az: Lukino Viskonti
     be: Лукіна Вісконці
-    be-tarask: Люкіна Вісконці
+    be_tarask: Люкіна Вісконці
     bg: Лукино Висконти
     bn: লুকিনো ভিস্কন্তি
     br: Luchino Visconti
@@ -152,7 +152,7 @@ dv_has_:
     pap: Luchino Visconti
     pl: Luchino Visconti
     pt: Luchino Visconti
-    pt-br: Luchino Visconti
+    pt_br: Luchino Visconti
     qu: Luchino Visconti
     ro: Luchino Visconti
     ru: Лукино Висконти
@@ -165,7 +165,7 @@ dv_has_:
     sl: Luchino Visconti
     sq: Luchino Visconti
     sr: Лукино Висконти
-    sr-ec: Лукино Висконти
+    sr_ec: Лукино Висконти
     sv: Luchino Visconti
     tg: Лукино Висконти
     th: ลูกีโน วิสกอนตี
@@ -178,9 +178,9 @@ dv_has_:
     wuu: 卢奇诺·维斯孔蒂
     yue: 盧契諾・維斯康堤
     zh: 卢奇诺·维斯孔蒂
-    zh-hant: 盧契諾・維斯康堤
+    zh_hant: 盧契諾・維斯康堤
     zh-my: 卢契诺·维斯康堤
-    zh-sg: 卢契诺·维斯康堤
+    zh_sg: 卢契诺·维斯康堤
 ---
 # [[Luchino_Visconti]] 
 

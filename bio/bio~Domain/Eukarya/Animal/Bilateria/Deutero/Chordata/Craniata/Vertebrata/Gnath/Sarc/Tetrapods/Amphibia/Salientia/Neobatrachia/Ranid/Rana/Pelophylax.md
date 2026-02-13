@@ -66,8 +66,8 @@ dv_has_:
     cv: Симĕс шапа
     de: Wasserfrösche
     en: Pelophylax
-    en-ca: Pelophylax
-    en-gb: Pelophylax
+    en_ca: Pelophylax
+    en_gb: Pelophylax
     eo: Pelophylax
     es: Pelophylax
     eu: Pelophylax
@@ -96,7 +96,7 @@ dv_has_:
     oc: Pelophylax
     pl: Pelophylax
     pt: Pelophylax
-    pt-br: Pelophylax
+    pt_br: Pelophylax
     ro: Pelophylax
     ru: зелёные лягушки
     sl: zelena žaba
@@ -110,9 +110,9 @@ dv_has_:
     vo: Pelophylax
     war: Pelophylax
     zh: 侧褶蛙属
-    zh-cn: 侧褶蛙属
-    zh-hans: 侧褶蛙属
-    zh-tw: 側褶蛙屬
+    zh_cn: 侧褶蛙属
+    zh_hans: 侧褶蛙属
+    zh_tw: 側褶蛙屬
 ---
 # Rana (Pelophylax)
 

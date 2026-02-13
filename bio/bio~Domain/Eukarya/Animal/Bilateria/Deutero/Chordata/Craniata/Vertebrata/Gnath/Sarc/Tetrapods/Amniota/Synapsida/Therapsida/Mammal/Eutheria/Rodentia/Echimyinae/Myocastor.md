@@ -30,7 +30,7 @@ dv_has_:
     oc: Myocastor
     pl: Nutria
     pt: Myocastor
-    pt-br: Myocastor
+    pt_br: Myocastor
     ro: Myocastor
     ru: Myocastor
     sl: Myocastor
@@ -41,8 +41,8 @@ dv_has_:
     vo: Myocastor
     war: Myocastor
     zh: 海狸鼠属
-    zh-cn: 海狸鼠属
-    zh-tw: 海貍鼠屬
+    zh_cn: 海狸鼠属
+    zh_tw: 海貍鼠屬
 aliases:
 - Myocastor
 - Nutria

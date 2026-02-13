@@ -116,7 +116,7 @@ dv_has_:
     ast: Metaloide
     az: Metalloidlər
     be: паўметалы
-    be-tarask: паўмэтал
+    be_tarask: паўмэтал
     bg: Металоид
     bn: ধাতুকল্প
     bs: Polumetali
@@ -128,11 +128,11 @@ dv_has_:
     cy: Metaloid
     da: halvmetal
     de: Halbmetalle
-    de-ch: Halbmetalle
+    de_ch: Halbmetalle
     el: μεταλλοειδή
     en: metalloid
-    en-ca: Metalloid
-    en-gb: metalloid
+    en_ca: Metalloid
+    en_gb: metalloid
     eo: metaloido
     es: semimetal
     et: poolmetall
@@ -177,7 +177,7 @@ dv_has_:
     mk: металоид
     ml: ഉപലോഹങ്ങൾ
     ms: metaloid
-    ms-arab: ميتالوءيد
+    ms_arab: ميتالوءيد
     my: Metalloid
     nan: Lūi-kim-sio̍k
     nb: halvmetall
@@ -190,7 +190,7 @@ dv_has_:
     pa: ਉੱਪਧਾਤ
     pl: półmetal
     pt: semimetal
-    pt-br: Semimetal
+    pt_br: Semimetal
     qu: Yaqa q'illay
     ro: metaloid
     ru: полуметаллы
@@ -203,7 +203,7 @@ dv_has_:
     so: Bir la Mood
     sq: Metaloidi
     sr: металоид
-    sr-ec: металоид
+    sr_ec: металоид
     sv: halvmetall
     ta: உலோகப்போலி
     tcy: ಲೋಹಾಬೊ
@@ -217,7 +217,7 @@ dv_has_:
     yo: Mẹ́tálọ́ìdì
     yue: 類金屬
     zh: 類金屬
-    zh-hk: 類金屬
+    zh_hk: 類金屬
 ---
 # [[Metalloid]] 
 

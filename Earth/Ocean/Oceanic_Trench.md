@@ -101,7 +101,7 @@ dv_has_:
     ast: fuexa oceánica
     az: okean çökəkliyi
     be: жолаб
-    be-tarask: жолаб
+    be_tarask: жолаб
     bg: океанска падина
     bn: সমুদ্র খাত
     br: Foz danvorel
@@ -133,11 +133,11 @@ dv_has_:
     jv: Palung
     ka: ღრმა ზღვის ღარი
     kk: Шұңғыма
-    kk-arab: شۇڭعىما
+    kk_arab: شۇڭعىما
     kk-cn: شۇڭعىما
-    kk-cyrl: Шұңғыма
+    kk_cyrl: Шұңғыма
     kk-kz: Шұңғыма
-    kk-latn: Şuñğıma
+    kk_latn: Şuñğıma
     kk-tr: Şuñğıma
     ko: 해구
     ky: Кобул
@@ -168,12 +168,12 @@ dv_has_:
     vi: rãnh đại dương
     yue: 海溝
     zh: 海沟
-    zh-cn: 海沟
-    zh-hans: 海沟
-    zh-hant: 海溝
-    zh-hk: 海溝
-    zh-sg: 海沟
-    zh-tw: 海溝
+    zh_cn: 海沟
+    zh_hans: 海沟
+    zh_hant: 海溝
+    zh_hk: 海溝
+    zh_sg: 海沟
+    zh_tw: 海溝
 ---
 # [[Oceanic_Trench]] 
 

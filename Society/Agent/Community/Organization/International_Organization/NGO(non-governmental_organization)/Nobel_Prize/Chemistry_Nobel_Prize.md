@@ -69,7 +69,7 @@ dv_has_:
     az: Kimya üzrə Nobel mükafatçılarının siyahısı
     azb: نوبل کیمیا اؤدولو صاحیبلری لیستی
     be: спіс лаўрэатаў Нобелеўскай прэміі па хіміі
-    be-tarask: сьпіс нобэлеўскіх ляўрэатаў па хіміі
+    be_tarask: сьпіс нобэлеўскіх ляўрэатаў па хіміі
     bn: রসায়নে নোবেল বিজয়ীদের তালিকা
     bs: Spisak dobitnika Nobelove nagrade za hemiju
     ca: llista de guardonats amb el Premi Nobel de Química
@@ -77,11 +77,11 @@ dv_has_:
     cs: Seznam nositelů Nobelovy ceny za chemii
     da: liste over modtagere af Nobelprisen i kemi
     de: Liste der Nobelpreisträger für Chemie
-    de-ch: Liste der Nobelpreisträger für Chemie
+    de_ch: Liste der Nobelpreisträger für Chemie
     el: Κατάλογος βραβευθέντων με Νόμπελ Χημείας
     en: list of Nobel laureates in Chemistry
-    en-ca: List of Nobel laureates in Chemistry
-    en-gb: List of Nobel laureates in Chemistry
+    en_ca: List of Nobel laureates in Chemistry
+    en_gb: List of Nobel laureates in Chemistry
     es: Ganadores del Premio Nobel de Química
     fa: فهرست برندگان جایزه نوبل شیمی
     fi: luettelo Nobelin kemianpalkinnon saaneista
@@ -108,7 +108,7 @@ dv_has_:
     pl: lista laureatów Nagrody Nobla w dziedzinie chemii
     pnb: نوبل انعام برائے کیمیا وصول کنندگان دی لسٹ
     pt: Laureados com o Nobel de Química
-    pt-br: Laureados com o Nobel de Química
+    pt_br: Laureados com o Nobel de Química
     ro: lista laureaților Premiului Nobel pentru Chimie
     ru: список лауреатов Нобелевской премии по химии
     scn: Vincitura dû Nobel pâ chìmica

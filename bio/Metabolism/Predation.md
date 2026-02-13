@@ -94,7 +94,7 @@ dv_has_:
     ast: Depredación
     az: Yırtıcılıq
     be: драпежніцтва
-    be-tarask: драпежніцтва
+    be_tarask: драпежніцтва
     bg: Хищно животно
     bs: Predacija
     ca: depredació
@@ -160,7 +160,7 @@ dv_has_:
     tl: Predasyon
     tr: yırtıcılık
     tt: ерткычлык
-    tt-cyrl: ерткычлык
+    tt_cyrl: ерткычлык
     tyv: Шүүргедекчи
     uk: хижацтво
     uz: Yirtqichlik
@@ -170,12 +170,12 @@ dv_has_:
     xh: I-Predator
     yue: 捕食
     zh: 捕食
-    zh-cn: 捕食
-    zh-hans: 捕食
-    zh-hant: 捕食
-    zh-hk: 捕食
-    zh-sg: 捕食
-    zh-tw: 捕食
+    zh_cn: 捕食
+    zh_hans: 捕食
+    zh_hant: 捕食
+    zh_hk: 捕食
+    zh_sg: 捕食
+    zh_tw: 捕食
 ---
 # [[Predation]] 
 

@@ -195,7 +195,7 @@ dv_has_:
     ban: Maria Theresia
     bar: Maria Theresia
     be: Марыя Тэрэзія
-    be-tarask: Марыя Тэрэзія
+    be_tarask: Марыя Тэрэзія
     bg: Мария Терезия
     bn: মারিয়া থেরেসা
     br: Maria Theresia
@@ -206,11 +206,11 @@ dv_has_:
     cy: Maria Theresia
     da: Maria Theresia af Østrig
     de: Maria Theresia
-    de-ch: Maria Theresia
+    de_ch: Maria Theresia
     el: Μαρία Θηρεσία
     en: Maria Theresa of Austria
-    en-ca: Maria Theresa
-    en-gb: Maria Theresa
+    en_ca: Maria Theresa
+    en_gb: Maria Theresa
     eo: Maria Tereza de Aŭstrio
     es: María Teresa I de Austria
     et: Maria Theresia
@@ -260,7 +260,7 @@ dv_has_:
     pnb: ماریہ تھیریسا
     ps: ماریا ترزا
     pt: Maria Teresa da Áustria
-    pt-br: Maria Teresa da Áustria
+    pt_br: Maria Teresa da Áustria
     ro: Maria Terezia a Austriei
     ru: Мария Терезия
     rue: Мария Терезия
@@ -272,8 +272,8 @@ dv_has_:
     sl: Marija Terezija
     sq: Maria Theresa of Austria
     sr: Марија Терезија
-    sr-ec: Марија Терезија
-    sr-el: Marija Terezija
+    sr_ec: Марија Терезија
+    sr_el: Marija Terezija
     su: Maria Theresa ti Austria
     sv: Maria Teresia av Österrike
     th: จักรพรรดินีมาเรีย เทเรซา
@@ -289,12 +289,12 @@ dv_has_:
     xmf: მარია ტერეზია
     yue: 瑪利亞杜麗莎
     zh: 玛丽亚·特蕾西亚
-    zh-cn: 玛丽亚·特蕾西亚
-    zh-hans: 玛丽亚·特蕾西亚
-    zh-hant: 瑪麗亞·泰瑞莎
-    zh-hk: 瑪麗亞·泰瑞莎
-    zh-sg: 玛丽亚·特蕾西亚
-    zh-tw: 瑪麗亞·泰瑞莎
+    zh_cn: 玛丽亚·特蕾西亚
+    zh_hans: 玛丽亚·特蕾西亚
+    zh_hant: 瑪麗亞·泰瑞莎
+    zh_hk: 瑪麗亞·泰瑞莎
+    zh_sg: 玛丽亚·特蕾西亚
+    zh_tw: 瑪麗亞·泰瑞莎
 ---
 # [[Maria_Theresa_of_Austria]] 
 

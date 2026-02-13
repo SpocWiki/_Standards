@@ -89,7 +89,7 @@ dv_has_:
     az: Niklas Luman
     azb: نیکلاس لومان
     bar: Niklas Luhmann
-    be-tarask: Нікляс Люман
+    be_tarask: Нікляс Люман
     bs: Niklas Luhmann
     ca: Niklas Luhmann
     cs: Niklas Luhmann
@@ -125,7 +125,7 @@ dv_has_:
     pa: ਨਿਕਲਸ ਲੁਹਮੰਨ
     pl: Niklas Luhmann
     pt: Niklas Luhmann
-    pt-br: Niklas Luhmann
+    pt_br: Niklas Luhmann
     ro: Niklas Luhmann
     ru: Никлас Луман
     sk: Niklas Luhmann

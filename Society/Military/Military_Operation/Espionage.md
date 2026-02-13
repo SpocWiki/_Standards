@@ -114,7 +114,7 @@ dv_has_:
     az: Casusluq
     ba: шпионаж
     be: шпіянаж
-    be-tarask: шпіянаж
+    be_tarask: шпіянаж
     bg: шпионаж
     bn: গুপ্তচরবৃত্তি
     bo: ཉུལ་ཞིབ་པ།
@@ -127,12 +127,12 @@ dv_has_:
     cy: ysbïwriaeth
     da: spionage
     de: Spionage
-    de-ch: Spionage
+    de_ch: Spionage
     dsb: špionaža
     el: κατασκοπεία
     en: espionage
-    en-ca: espionage
-    en-gb: espionage
+    en_ca: espionage
+    en_gb: espionage
     eo: spionado
     es: espionaje
     et: Luure
@@ -155,11 +155,11 @@ dv_has_:
     jv: Telik sandhi
     ka: შპიონაჟი
     kk: тыңчылык
-    kk-arab: تىڭشىلىق
+    kk_arab: تىڭشىلىق
     kk-cn: تىڭشىلىق
-    kk-cyrl: Тыңшылық
+    kk_cyrl: Тыңшылық
     kk-kz: Тыңшылық
-    kk-latn: tıñşılıq
+    kk_latn: tıñşılıq
     kk-tr: Tıñşılıq
     kn: ಗೂಢಚರ್ಯೆ
     ko: 간첩 행위
@@ -175,14 +175,14 @@ dv_has_:
     ms: pengintipan
     nan: Kàn-tia̍p
     nb: spionasje
-    nds-nl: spionage
+    nds_nl: spionage
     nl: spionage
     nn: spionasje
     nv: naalchiʼ
     pl: szpiegostwo
     pnb: جسوسی
     pt: espionagem
-    pt-br: espionagem
+    pt_br: espionagem
     ro: spionaj
     ru: шпионаж
     sah: Үспүйүөннээһин
@@ -194,8 +194,8 @@ dv_has_:
     sl: vohunstvo
     sq: Spiunazhi
     sr: шпијунажа
-    sr-ec: Шпијунажа
-    sr-el: Špijunaža
+    sr_ec: Шпијунажа
+    sr_el: Špijunaža
     sv: spioneri
     ta: உளவு பார்த்தல்
     te: గూఢచర్యం
@@ -213,12 +213,12 @@ dv_has_:
     yi: שפיאנאזש
     yue: 間諜
     zh: 間諜
-    zh-cn: 间谍
-    zh-hans: 间谍
-    zh-hant: 間諜
-    zh-hk: 間諜
-    zh-sg: 间谍
-    zh-tw: 間諜
+    zh_cn: 间谍
+    zh_hans: 间谍
+    zh_hant: 間諜
+    zh_hk: 間諜
+    zh_sg: 间谍
+    zh_tw: 間諜
     zu: Ubunhloli
 ---
 # [[Espionage]]

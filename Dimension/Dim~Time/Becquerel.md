@@ -73,7 +73,7 @@ dv_has_:
     ar: بيكريل
     ast: Becquerel
     be: бекерэль
-    be-tarask: бэкерэль
+    be_tarask: бэкерэль
     bg: Бекерел
     bn: বেকেরেল
     bo: པེ་ཁེར།
@@ -85,11 +85,11 @@ dv_has_:
     cy: becquerel
     da: becquerel
     de: Becquerel
-    de-ch: Becquerel
+    de_ch: Becquerel
     el: μπεκερέλ
     en: becquerel
-    en-ca: Becquerel
-    en-gb: becquerel
+    en_ca: Becquerel
+    en_gb: becquerel
     eo: bekerelo
     es: becquerel
     et: Bekrell
@@ -110,11 +110,11 @@ dv_has_:
     ja: ベクレル
     ka: ბეკერელი
     kk: Беккерель
-    kk-arab: بەككەرەل
+    kk_arab: بەككەرەل
     kk-cn: بەككەرەل
-    kk-cyrl: Беккерель
+    kk_cyrl: Беккерель
     kk-kz: Беккерель
-    kk-latn: Bekkerelʹ
+    kk_latn: Bekkerelʹ
     kk-tr: Bekkerelʹ
     ko: 베크렐
     ky: Беккерель
@@ -134,7 +134,7 @@ dv_has_:
     oc: becquerel
     pl: bekerel
     pt: becquerel
-    pt-br: becquerel(éis)
+    pt_br: becquerel(éis)
     ro: becquerel
     ru: беккерель
     scn: becquerel
@@ -143,8 +143,8 @@ dv_has_:
     sl: Bekerel
     sq: Becquerel
     sr: бекерел
-    sr-ec: Бекерел
-    sr-el: Bekerel
+    sr_ec: Бекерел
+    sr_el: Bekerel
     sv: becquerel
     sw: Becquerel
     szl: Bekerel
@@ -159,14 +159,14 @@ dv_has_:
     xmf: ბეკერელი
     yue: 貝可
     zh: 贝克勒尔
-    zh-cn: 贝克勒尔
-    zh-hans: 贝克勒尔
-    zh-hant: 貝克勒
-    zh-hk: 貝可勒爾
-    zh-mo: 貝可勒爾
+    zh_cn: 贝克勒尔
+    zh_hans: 贝克勒尔
+    zh_hant: 貝克勒
+    zh_hk: 貝可勒爾
+    zh_mo: 貝可勒爾
     zh-my: 贝克勒尔
-    zh-sg: 贝克勒尔
-    zh-tw: 貝克勒
+    zh_sg: 贝克勒尔
+    zh_tw: 貝克勒
 ---
 # [[Becquerel]] 
 

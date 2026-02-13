@@ -101,7 +101,7 @@ dv_has_:
     azb: ماد ایمپراتورلوغو
     ba: мидиялылар
     be: Мідыя
-    be-tarask: мідыйцы
+    be_tarask: мідыйцы
     bg: Мидийци
     bn: মেডিস
     br: Meded
@@ -111,11 +111,11 @@ dv_has_:
     cs: Médové
     da: Mederne
     de: Meder
-    de-ch: Medien
+    de_ch: Medien
     el: Μήδοι
     en: Medes
-    en-ca: Medes
-    en-gb: Medes
+    en_ca: Medes
+    en_gb: Medes
     eo: Medoj
     es: medos
     et: Meedia riik
@@ -155,7 +155,7 @@ dv_has_:
     pnb: ماد
     ps: د ماد واکمني
     pt: Medos
-    pt-br: Medos
+    pt_br: Medos
     ro: Mezi
     ru: мидийцы
     sco: Medes

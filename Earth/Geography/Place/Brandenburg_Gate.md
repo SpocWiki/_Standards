@@ -173,7 +173,7 @@ dv_has_:
     ba: Бранденбург ҡапҡаһы
     ban: Kori Brandenburg
     be: Брандэнбургскія вароты
-    be-tarask: Брандэнбурская брама
+    be_tarask: Брандэнбурская брама
     bg: Бранденбургска врата
     bn: ব্র্যান্ডেনবার্গ গেট
     br: Brandenburger Tor

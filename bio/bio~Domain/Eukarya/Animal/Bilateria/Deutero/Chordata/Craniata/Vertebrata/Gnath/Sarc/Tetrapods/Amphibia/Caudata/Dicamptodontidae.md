@@ -46,7 +46,7 @@ dv_has_:
     oc: Dicamptodon
     pl: Dicamptodon
     pt: Dicamptodon
-    pt-br: Dicamptodon
+    pt_br: Dicamptodon
     ro: Dicamptodon
     ru: Гигантские амбистомы
     sq: Dicamptodon
@@ -56,8 +56,8 @@ dv_has_:
     vo: Dicamptodon
     war: Dicamptodon
     zh: 陆巨螈属
-    zh-cn: 陆巨螈属
-    zh-hans: 陆巨螈属
+    zh_cn: 陆巨螈属
+    zh_hans: 陆巨螈属
 ---
 # [[Dicamptodontidae]]
 

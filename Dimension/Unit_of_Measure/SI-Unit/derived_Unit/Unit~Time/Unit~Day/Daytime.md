@@ -104,7 +104,7 @@ dv_has_:
     ary: نهار
     av: къо
     be: дзень
-    be-tarask: дзень
+    be_tarask: дзень
     bg: ден
     bs: dan
     ca: dia
@@ -116,8 +116,8 @@ dv_has_:
     da: dag
     de: lichter Tag
     en: daytime
-    en-ca: daytime
-    en-gb: daytime
+    en_ca: daytime
+    en_gb: daytime
     eo: tago
     es: día
     et: päev
@@ -159,7 +159,7 @@ dv_has_:
     pnb: دن ویلا
     ps: ورځ
     pt: dia
-    pt-br: dia
+    pt_br: dia
     rsk: дзень
     ru: день
     rue: день
@@ -177,7 +177,7 @@ dv_has_:
     tok: sike suno
     tr: gündüz
     tt: көн
-    tt-cyrl: көн
+    tt_cyrl: көн
     udm: нунал
     ug: كۈندۈز
     uk: день
@@ -190,7 +190,7 @@ dv_has_:
     za: doengxngoenz
     zgh: ⴰⵣⴰⵍ
     zh: 白天
-    zh-hant: 白天
+    zh_hant: 白天
 ---
 #is_/part_of :: [[../Unit~Day|Unit~Day]] 
 #is_/same_as :: [[../../../../../../WikiData/WD~Daytime,52643|WD~Daytime,52643]] 

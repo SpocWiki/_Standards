@@ -94,7 +94,7 @@ dv_has_:
     ast: Clavecín
     az: klavesin
     be: клавесін
-    be-tarask: клявэсын
+    be_tarask: клявэсын
     bg: клавесин
     br: Klav-kerdin
     bs: Čembalo
@@ -107,7 +107,7 @@ dv_has_:
     de: Cembalo
     el: τσέμπαλο
     en: harpsichord
-    en-gb: harpsichord
+    en_gb: harpsichord
     eo: klaviceno
     es: clavecín
     et: klavessiin
@@ -148,7 +148,7 @@ dv_has_:
     my: ဟာ့ပ်ဆီကော့ဒ်
     nan: Cembalo
     nb: cembalo
-    nds-nl: klavecimbel
+    nds_nl: klavecimbel
     new: हार्पसिकर्द
     nl: klavecimbel
     nn: cembalo
@@ -156,7 +156,7 @@ dv_has_:
     os: клавесин
     pl: klawesyn
     pt: cravo
-    pt-br: cravo
+    pt_br: cravo
     ro: clavecin
     ru: клавесин
     rue: чембало
@@ -167,7 +167,7 @@ dv_has_:
     smn: cembalo
     sq: Klasveni
     sr: чембало
-    sr-ec: Чембало
+    sr_ec: Чембало
     stq: Cembalo
     su: Harpsichord
     sv: cembalo
@@ -183,9 +183,9 @@ dv_has_:
     wuu: 大键琴
     yue: 古鍵琴
     zh: 大鍵琴
-    zh-cn: 羽管键琴
-    zh-hk: 古鍵琴
-    zh-tw: 大鍵琴
+    zh_cn: 羽管键琴
+    zh_hk: 古鍵琴
+    zh_tw: 大鍵琴
 ---
 # [[Harpsichord]] 
 

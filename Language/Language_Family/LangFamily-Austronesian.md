@@ -164,7 +164,7 @@ dv_has_:
     ban: Soroh Basa Austronésia
     bcl: Mga tataramon na Austronesyo
     be: аўстранезійскія мовы
-    be-tarask: аўстранэзійскія мовы
+    be_tarask: аўстранэзійскія мовы
     bew: Rungkun basa Ostronési
     bg: австронезийски езици
     bn: অস্ট্রোনেশীয় ভাষাসমূহ
@@ -175,7 +175,7 @@ dv_has_:
     cy: Ieithoedd Awstronesaidd
     da: austronesiske sprog
     de: Austronesisch
-    de-ch: Austronesische Sprachen
+    de_ch: Austronesische Sprachen
     diq: Zıwanê Austronesya
     el: Αυστρονησιακές γλώσσες
     en: Austronesian
@@ -244,7 +244,7 @@ dv_has_:
     pnb: آسٹرونیشیائی بولیاں
     ps: استرونزیایي ژبې
     pt: línguas austronésias
-    pt-br: Línguas austronésias
+    pt_br: Línguas austronésias
     qu: Awstrunisyu rimaykuna
     ro: limbi austroneziene
     ru: австронезийские языки
@@ -276,14 +276,14 @@ dv_has_:
     yue: 南島語系
     za: Vahhaeh Nanzdauj
     zh: 南島語系
-    zh-cn: 南岛语系
-    zh-hans: 南岛语系
-    zh-hant: 南島語系
-    zh-hk: 南島語系
-    zh-mo: 南島語系
+    zh_cn: 南岛语系
+    zh_hans: 南岛语系
+    zh_hant: 南島語系
+    zh_hk: 南島語系
+    zh_mo: 南島語系
     zh-my: 南島語系
-    zh-sg: 南岛语系
-    zh-tw: 南島語系
+    zh_sg: 南岛语系
+    zh_tw: 南島語系
 ---
 [SpocWebEntityId:: 237 ]
 

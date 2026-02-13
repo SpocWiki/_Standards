@@ -118,7 +118,7 @@ dv_has_:
     av: Инуитал
     bar: Inuit
     be: інуіты
-    be-tarask: інуіты
+    be_tarask: інуіты
     bg: Инуити
     bo: ཨི་ནུའི་ཏི་མི།
     br: Inuit
@@ -131,7 +131,7 @@ dv_has_:
     dtp: Inuit
     el: Ινουίτ
     en: Inuit
-    en-ca: Inuit
+    en_ca: Inuit
     eo: Inuitoj
     es: inuit
     et: inuitid
@@ -150,7 +150,7 @@ dv_has_:
     id: Inuit
     ig: Inuit
     ike-cans: ᐃᓄᐃᑦ
-    ike-latn: inuit
+    ike_latn: inuit
     is: Inuítar
     it: Inuit
     iu: ᐃᓄᐃᑦ
@@ -202,12 +202,12 @@ dv_has_:
     xmf: ინუიტეფი
     yue: 因紐特人
     zh: 因纽特人
-    zh-cn: 因纽特人
-    zh-hans: 因纽特人
-    zh-hant: 因紐特人
-    zh-hk: 因紐特人
-    zh-sg: 因纽特人
-    zh-tw: 因紐特人
+    zh_cn: 因纽特人
+    zh_hans: 因纽特人
+    zh_hant: 因紐特人
+    zh_hk: 因紐特人
+    zh_sg: 因纽特人
+    zh_tw: 因紐特人
 ---
 # [[Inuit]] 
 

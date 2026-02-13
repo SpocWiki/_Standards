@@ -27,7 +27,7 @@ dv_has_:
     az: orbit
     azb: اوربیت
     be: арбіта
-    be-tarask: арбіта
+    be_tarask: арбіта
     bg: Орбита
     bho: कक्षा (खगोल)
     bn: কক্ষপথ
@@ -38,12 +38,12 @@ dv_has_:
     cs: oběžná dráha
     da: satellitbane
     de: Umlaufbahn
-    de-ch: Umlaufbahn
+    de_ch: Umlaufbahn
     diq: Deleme
     el: τροχιά
     en: orbit
-    en-ca: Orbit
-    en-gb: orbit
+    en_ca: Orbit
+    en_gb: orbit
     eo: orbito
     es: órbita
     et: orbiit
@@ -91,7 +91,7 @@ dv_has_:
     mn: Тойрог зам
     mr: कक्षा
     ms: orbit
-    ms-arab: اوربيت
+    ms_arab: اوربيت
     my: ပတ်လမ်းကြောင်း
     nb: bane
     nds: Ümloopbahn
@@ -104,7 +104,7 @@ dv_has_:
     pl: orbita
     pnb: مدار
     pt: órbita
-    pt-br: Órbita
+    pt_br: Órbita
     ro: orbită
     ru: орбита
     rue: Орбита
@@ -137,7 +137,7 @@ dv_has_:
     wuu: 轨道 (力学)
     yue: 軌道
     zh: 轨道
-    zh-hant: 軌道 (力學)
+    zh_hant: 軌道 (力學)
     zu: Uzungezo
 aliases:
 - Aabit

@@ -77,7 +77,7 @@ dv_has_:
   name_:
     ar: مبرهنات عدم الاكتمال لغودل
     ast: teoremes d'incompletitú de Gödel
-    be-tarask: тэарэмы Гёдэля аб няпоўнасьці
+    be_tarask: тэарэмы Гёдэля аб няпоўнасьці
     bg: Теорема на Гьодел за непълнота
     bs: Gödelove teoreme nepotpunosti
     ca: teorema d'incompletesa de Gödel
@@ -119,15 +119,15 @@ dv_has_:
     pa: ਗੋਇਡਲ ਦੀਆਂ ਅਪੂਰਨਤਾ ਦੀਆਂ ਥਿਊਰਮਾਂ
     pl: Twierdzenie Gödla
     pt: teoremas da incompletude de Gödel
-    pt-br: teoremas da incompletude de Gödel
+    pt_br: teoremas da incompletude de Gödel
     ro: teoremele de incompletitudine ale lui Gödel
     ru: Теорема Гёделя о неполноте
     scn: Tiurema d'incumplitizza di Gödel
     sk: Gödelova veta o neúplnosti
     sl: Gödlova izreka o nepopolnosti
     sr: Геделове теореме о непотпуности
-    sr-ec: Геделове теореме о непотпуности
-    sr-el: Gedelove teoreme o nepotpunosti
+    sr_ec: Геделове теореме о непотпуности
+    sr_el: Gedelove teoreme o nepotpunosti
     sv: Gödels ofullständighetssats
     ta: கோடெலின் முழுமையற்ற தேற்றங்கள்
     te: గాడెల్ అసంపూర్ణత సిద్ధాంతం
@@ -138,12 +138,12 @@ dv_has_:
     vi: Các định lý bất toàn của Gödel
     yue: 哥德唔完備定理
     zh: 哥德尔不完备定理
-    zh-cn: 哥德尔不完备定理
-    zh-hans: 哥德尔不完备定理
-    zh-hant: 哥德爾不完備定理
-    zh-hk: 哥德爾不完備定理
-    zh-sg: 哥德尔不完备定理
-    zh-tw: 哥德爾不完備定理
+    zh_cn: 哥德尔不完备定理
+    zh_hans: 哥德尔不完备定理
+    zh_hant: 哥德爾不完備定理
+    zh_hk: 哥德爾不完備定理
+    zh_sg: 哥德尔不完备定理
+    zh_tw: 哥德爾不完備定理
 ---
 # [[Gödel's_Incompleteness_Theorems]] 
 

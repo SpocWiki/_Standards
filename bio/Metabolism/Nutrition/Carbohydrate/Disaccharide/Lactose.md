@@ -140,7 +140,7 @@ dv_has_:
     azb: لاکتوز
     ba: Лактоза
     be: Лактоза
-    be-tarask: Ляктоза
+    be_tarask: Ляктоза
     bg: Лактоза
     bn: ল্যাকটোজ
     br: laktoz
@@ -153,7 +153,7 @@ dv_has_:
     de: Lactose
     el: λακτόζη
     en: β-lactose
-    en-gb: lactose
+    en_gb: lactose
     eo: β-laktozo
     es: lactosa
     et: laktoos
@@ -203,7 +203,7 @@ dv_has_:
     pa: ਲੈਕਟੋਸ
     pl: laktoza
     pt: lactose
-    pt-br: lactose
+    pt_br: lactose
     rmf: thundesko gullo
     ro: Lactoză
     ru: лактоза
@@ -216,8 +216,8 @@ dv_has_:
     sms: laktoos
     sq: laktoza
     sr: лактоза
-    sr-ec: Лактоза
-    sr-el: Laktoza
+    sr_ec: Лактоза
+    sr_el: Laktoza
     su: Laktosa
     sv: laktos
     ta: லாக்டோசு
@@ -232,12 +232,12 @@ dv_has_:
     wuu: 乳糖
     yue: 乳糖
     zh: 乳糖
-    zh-cn: 乳糖
-    zh-hans: 乳糖
-    zh-hant: 乳糖
-    zh-hk: 乳糖
-    zh-sg: 乳糖
-    zh-tw: 乳糖
+    zh_cn: 乳糖
+    zh_hans: 乳糖
+    zh_hant: 乳糖
+    zh_hk: 乳糖
+    zh_sg: 乳糖
+    zh_tw: 乳糖
 ---
 #is_/instance_of :: [[../Disaccharide]] 
 #has_/parent_class :: [[../Disaccharide]] 

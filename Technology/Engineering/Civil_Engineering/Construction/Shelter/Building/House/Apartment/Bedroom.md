@@ -118,7 +118,7 @@ dv_has_:
     ast: Cuartu
     atj: aricap
     be: спальня
-    be-tarask: спальня
+    be_tarask: спальня
     bew: Pangkèng
     bg: Спалня
     bjn: Kamar guring
@@ -156,17 +156,17 @@ dv_has_:
     ja: 寝室
     kcg: a̱swang
     kk: Жатын бөлме
-    kk-arab: جاتىن بولمە
+    kk_arab: جاتىن بولمە
     kk-cn: جاتىن بولمە
-    kk-cyrl: Жатын бөлме
+    kk_cyrl: Жатын бөлме
     kk-kz: Жатын бөлме
-    kk-latn: Jatın bölme
+    kk_latn: Jatın bölme
     kk-tr: Jatın bölme
     kn: ಮಲಗುವ ಕೋಣೆ
     ko: 침실
     ku: Odeya nivînê
-    ku-arab: ئۆدەیا نڤینێ
-    ku-latn: Odeya nivînê
+    ku_arab: ئۆدەیا نڤینێ
+    ku_latn: Odeya nivînê
     la: cubiculum
     lb: Schlofzëmmer
     lt: Miegamasis
@@ -186,7 +186,7 @@ dv_has_:
     pl: sypialnia
     pnb: خلوت
     pt: quarto
-    pt-br: cômodo
+    pt_br: cômodo
     ro: dormitor
     ru: спальня
     sat: ᱜᱤᱛᱤᱡ ᱚᱲᱟᱜ
@@ -200,8 +200,8 @@ dv_has_:
     so: Qolka jiifka
     sq: Dhomë gjumi
     sr: спаваћа соба
-    sr-ec: спаваћа соба
-    sr-el: spavaća soba
+    sr_ec: спаваћа соба
+    sr_el: spavaća soba
     sv: sovrum
     ta: படுக்கையறை
     tg: утоқи хоб
@@ -209,15 +209,15 @@ dv_has_:
     tl: Silid-tulugan
     tr: yatak odası
     tt: йокы бүлмәсе
-    tt-cyrl: йокы бүлмәсе
+    tt_cyrl: йокы бүлмәсе
     uk: спальня
     vi: phòng ngủ
     wuu: 眠床间
     yue: 睏覺房
     zh: 卧室
-    zh-hans: 卧室
-    zh-hant: 臥室
-    zh-tw: 卧室
+    zh_hans: 卧室
+    zh_hant: 臥室
+    zh_tw: 卧室
     zu: ILawu
 ---
 # [[Bedroom]] 

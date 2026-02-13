@@ -107,7 +107,7 @@ dv_has_:
     bar: Lamiaceae
     bcl: Lamiaceae
     be: ясноткавыя
-    be-tarask: Ясноткавыя
+    be_tarask: Ясноткавыя
     bg: Lamiaceae
     br: Lamiaceae
     bs: Lamiaceae
@@ -120,12 +120,12 @@ dv_has_:
     da: Læbeblomst-familien
     de: Lippenblütler
     de-at: Lamiaceae
-    de-ch: Lamiaceae
+    de_ch: Lamiaceae
     dv: ކުދީނާ
     el: Χειλανθή
     en: Lamiaceae
-    en-ca: Lamiaceae
-    en-gb: Lamiaceae
+    en_ca: Lamiaceae
+    en_gb: Lamiaceae
     eo: Lamiacoj
     es: Lamiaceae
     et: Huulõielised
@@ -180,7 +180,7 @@ dv_has_:
     nap: Lamiaceae
     nb: Leppeblomstfamilien
     nds: Lamiaceae
-    nds-nl: Lamiaceae
+    nds_nl: Lamiaceae
     nl: lipbloemenfamilie
     nn: leppeblomfamilien
     nrm: Lamiaceae
@@ -194,7 +194,7 @@ dv_has_:
     pnb: تلسی ٹبر
     ps: د نعنا بوټي
     pt: Lamiaceae
-    pt-br: Lamiaceae
+    pt_br: Lamiaceae
     qu: Muña yura rikch'aq ayllu
     rm: Lamiaceae
     ro: Lamiaceae
@@ -229,9 +229,9 @@ dv_has_:
     wuu: 唇形科
     yue: 唇形科
     zh: 唇形科
-    zh-cn: 唇形科
-    zh-hans: 唇形科
-    zh-tw: 脣形科
+    zh_cn: 唇形科
+    zh_hans: 唇形科
+    zh_tw: 脣形科
     zu: Lamiaceae
 ---
 # [[Lamiaceae]]  

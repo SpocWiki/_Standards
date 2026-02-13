@@ -213,7 +213,7 @@ dv_has_:
     avk: Hannah Arendt
     az: Hanna Arendt
     be: Ганна Арэнт
-    be-tarask: Ганна Арэнт
+    be_tarask: Ганна Арэнт
     bg: Хана Аренд
     bn: হানা আরেন্ট
     br: Hannah Arendt
@@ -230,7 +230,7 @@ dv_has_:
     ee: Hannah Arendt
     el: Χάνα Άρεντ
     en: Hannah Arendt
-    en-gb: Hannah Arendt
+    en_gb: Hannah Arendt
     eo: Hannah Arendt
     es: Hannah Arendt
     et: Hannah Arendt
@@ -277,7 +277,7 @@ dv_has_:
     nan: Hannah Arendt
     nb: Hannah Arendt
     nds: Hannah Arendt
-    nds-nl: Hannah Arendt
+    nds_nl: Hannah Arendt
     new: ह्याना अरेन्ड्ट
     nl: Hannah Arendt
     nn: Hannah Arendt
@@ -288,7 +288,7 @@ dv_has_:
     pms: Hannah Arendt
     ps: هانا ارينډ
     pt: Hannah Arendt
-    pt-br: Hannah Arendt
+    pt_br: Hannah Arendt
     qu: Hannah Arendt
     ro: Hannah Arendt
     ru: Ханна Арендт
@@ -311,8 +311,8 @@ dv_has_:
     wuu: 汉娜·阿伦特
     yue: 漢娜萼蘭
     zh: 汉娜·阿伦特
-    zh-cn: 汉娜·阿伦特
-    zh-hant: 漢娜·鄂蘭
+    zh_cn: 汉娜·阿伦特
+    zh_hant: 漢娜·鄂蘭
 ---
 # [[Arendt,Hannah]] 
 

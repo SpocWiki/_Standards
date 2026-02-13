@@ -110,7 +110,7 @@ dv_has_:
     bar: Knoin
     bcl: Duma
     be: клубень
-    be-tarask: бульбіна
+    be_tarask: бульбіна
     bg: грудка
     bs: Gomolj
     ca: tubercle
@@ -147,11 +147,11 @@ dv_has_:
     kcg: swang
     kg: Mbala
     kk: Түйнек
-    kk-arab: تۇينەك
+    kk_arab: تۇينەك
     kk-cn: تۇينەك
-    kk-cyrl: Түйнек
+    kk_cyrl: Түйнек
     kk-kz: Түйнек
-    kk-latn: Tüýnek
+    kk_latn: Tüýnek
     kk-tr: Tüýnek
     kn: ಗೆಡ್ಡೆ
     ko: 알뿌리
@@ -175,8 +175,8 @@ dv_has_:
     si: අල
     sl: gomolj
     sr: Кртола
-    sr-ec: Кртола
-    sr-el: Krtola
+    sr_ec: Кртола
+    sr_el: Krtola
     stq: Plontenknulle
     su: Beuti
     sv: stamknöl
@@ -187,7 +187,7 @@ dv_has_:
     tl: Bukol
     tr: Yumru
     tt: бүлбе
-    tt-cyrl: бүлбегә
+    tt_cyrl: бүлбегә
     udm: выжы емыш
     uk: бульба
     uz: Tuganak

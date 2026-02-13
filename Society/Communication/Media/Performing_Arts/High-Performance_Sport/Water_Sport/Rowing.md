@@ -121,7 +121,7 @@ dv_has_:
     azb: آوارچکمه
     ba: Академик ишеү
     be: акадэмічнае веславанне
-    be-tarask: акадэмічнае веславаньне
+    be_tarask: акадэмічнае веславаньне
     bg: академично гребане
     br: Roeñverezh
     ca: rem
@@ -152,11 +152,11 @@ dv_has_:
     it: canottaggio
     ja: ローイング競技
     kk: Академиялық есу
-    kk-arab: اكادەمىييالىق ەسۋ
+    kk_arab: اكادەمىييالىق ەسۋ
     kk-cn: اكادەمىييالىق ەسۋ
-    kk-cyrl: Академиялық есу
+    kk_cyrl: Академиялық есу
     kk-kz: Академиялық есу
-    kk-latn: Akademïyalıq esw
+    kk_latn: Akademïyalıq esw
     kk-tr: Akademïyalıq esw
     kn: ರೋಯಿಂಗ್ (ಆಟ)
     ko: 조정
@@ -168,7 +168,7 @@ dv_has_:
     lzh: 競渡
     mk: веслање
     ms: lumba dayung
-    ms-arab: لومبا دايوڠ
+    ms_arab: لومبا دايوڠ
     mt: qdif
     nb: roing
     nl: roeien
@@ -176,7 +176,7 @@ dv_has_:
     pl: wioślarstwo
     pnb: روئینگ (کھیڈ)
     pt: remo
-    pt-br: remo
+    pt_br: remo
     qu: T'uyuy
     ro: canotaj
     ru: академическая гребля
@@ -187,8 +187,8 @@ dv_has_:
     sm: Alo
     sq: Kanotazhi
     sr: веслање
-    sr-ec: веслање
-    sr-el: veslanje
+    sr_ec: веслање
+    sr_el: veslanje
     sv: rodd
     ta: துடுப்பு படகோட்டம்
     th: กีฬาเรือพาย
@@ -202,12 +202,12 @@ dv_has_:
     wuu: 赛艇
     yue: 划艇
     zh: 赛艇
-    zh-cn: 赛艇
-    zh-hans: 赛艇
-    zh-hant: 划船
-    zh-hk: 賽艇
-    zh-sg: 赛艇
-    zh-tw: 划船
+    zh_cn: 赛艇
+    zh_hans: 赛艇
+    zh_hant: 划船
+    zh_hk: 賽艇
+    zh_sg: 赛艇
+    zh_tw: 划船
 ---
 # [[Rowing]] 
 

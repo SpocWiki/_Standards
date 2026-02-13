@@ -125,7 +125,7 @@ dv_has_:
     az: paleontologiya
     ba: Палеонтология
     be: палеанталогія
-    be-tarask: палеанталёгія
+    be_tarask: палеанталёгія
     bg: Палеонтология
     blk: နိခါတကဗေဒ
     bn: জীবাশ্মবিজ্ঞান
@@ -142,8 +142,8 @@ dv_has_:
     de: Paläontologie
     el: παλαιοντολογία
     en: paleontology
-    en-ca: paleontology
-    en-gb: palaeontology
+    en_ca: paleontology
+    en_gb: palaeontology
     eo: paleontologio
     es: paleontología
     et: paleontoloogia
@@ -201,7 +201,7 @@ dv_has_:
     pnb: پیلیاونٹالوجی
     ps: لرغونې ژوند پوهنه
     pt: paleontologia
-    pt-br: paleontologia
+    pt_br: paleontologia
     rki: နိခါတကဗေဒ
     ro: paleontologie
     ru: палеонтология
@@ -219,8 +219,8 @@ dv_has_:
     so: Hograadka Guud
     sq: Paleontologjia
     sr: палеонтологија
-    sr-ec: палеонтологија
-    sr-el: paleontologija
+    sr_ec: палеонтологија
+    sr_el: paleontologija
     su: Paléontologi
     sv: paleontologi
     sw: Palantolojia
@@ -241,14 +241,14 @@ dv_has_:
     yi: פאלעאנטאלאגיע
     yue: 古生物學
     zh: 古生物學
-    zh-cn: 古生物学
-    zh-hans: 古生物学
-    zh-hant: 古生物學
-    zh-hk: 古生物學
-    zh-mo: 古生物學
+    zh_cn: 古生物学
+    zh_hans: 古生物学
+    zh_hant: 古生物學
+    zh_hk: 古生物學
+    zh_mo: 古生物學
     zh-my: 古生物学
-    zh-sg: 古生物学
-    zh-tw: 古生物學
+    zh_sg: 古生物学
+    zh_tw: 古生物學
 ---
 # [[Paleontology]] 
 

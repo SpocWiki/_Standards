@@ -108,7 +108,7 @@ dv_has_:
     af: Aardmagnetisme
     ar: مغناطيسية أرضية
     be: магнітнае поле Зямлі
-    be-tarask: магнітнае поле Зямлі
+    be_tarask: магнітнае поле Зямлі
     bg: Земно магнитно поле
     bn: ভূচৌম্বকত্ব
     bs: Zemljino magnetno polje
@@ -116,11 +116,11 @@ dv_has_:
     cs: magnetické pole Země
     da: Jordens magnetfelt
     de: Erdmagnetfeld
-    de-ch: Erdmagnetfeld
+    de_ch: Erdmagnetfeld
     el: Γήινος μαγνητισμός
     en: Earth's magnetic field
-    en-ca: Earth's magnetic field
-    en-gb: Earth's magnetic field
+    en_ca: Earth's magnetic field
+    en_gb: Earth's magnetic field
     eo: magneta kampo de Tero
     es: campo magnético terrestre
     et: Maa magnetväli
@@ -159,7 +159,7 @@ dv_has_:
     pa: ਧਰਤੀ ਦਾ ਚੁੰਬਕੀ ਖੇਤਰ
     pl: ziemskie pole magnetyczne
     pt: campo magnético terrestre
-    pt-br: campo magnético terrestre
+    pt_br: campo magnético terrestre
     ro: câmpul magnetic al Pământului
     ru: магнитное поле Земли
     sh: magnetsko polje Zemlje

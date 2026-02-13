@@ -223,7 +223,7 @@ dv_has_:
     bar: Hans Christian Andersen
     bcl: Hans Christian Andersen
     be: Ханс Крысціян Андэрсен
-    be-tarask: Ганс Крыстыян Андэрсэн
+    be_tarask: Ганс Крыстыян Андэрсэн
     bew: Hans Christian Andersen
     bg: Ханс Кристиан Андерсен
     bho: हैंस क्रिश्चियन एंडर्सन
@@ -246,13 +246,13 @@ dv_has_:
     da: H.C. Andersen
     de: Hans Christian Andersen
     de-at: Hans Christian Andersen
-    de-ch: Hans Christian Andersen
+    de_ch: Hans Christian Andersen
     diq: Hans Christian Andersen
     el: Χανς Κρίστιαν Άντερσεν
     eml: Hans Christian Andersen
     en: Hans Christian Andersen
-    en-ca: Hans Christian Andersen
-    en-gb: Hans Christian Andersen
+    en_ca: Hans Christian Andersen
+    en_gb: Hans Christian Andersen
     en-us: Hans Christian Andersen
     eo: Hans Christian Andersen
     es: Hans Christian Andersen
@@ -342,7 +342,7 @@ dv_has_:
     nap: Hans Christian Andersen
     nb: H.C. Andersen
     nds: Hans Christian Andersen
-    nds-nl: Hans Christian Andersen
+    nds_nl: Hans Christian Andersen
     new: हान्स् क्रीस्टियन एन्डर्सेन
     nl: Hans Christian Andersen
     nn: H.C. Andersen
@@ -358,7 +358,7 @@ dv_has_:
     pms: Hans Christian Andersen
     pnb: ہانز کرسچن اینڈرسن
     pt: Hans Christian Andersen
-    pt-br: Hans Christian Andersen
+    pt_br: Hans Christian Andersen
     qu: Hans Christian Andersen
     rm: Hans Christian Andersen
     ro: Hans Christian Andersen
@@ -379,7 +379,7 @@ dv_has_:
     smn: Hans Christian Andersen
     sq: Andersen
     sr: Ханс Кристијан Андерсен
-    sr-el: Hans Christian Andersen
+    sr_el: Hans Christian Andersen
     stq: Hans Christian Andersen
     sv: H.C. Andersen
     sw: Hans Christian Andersen

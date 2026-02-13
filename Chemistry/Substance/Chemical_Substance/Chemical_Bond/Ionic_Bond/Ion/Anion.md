@@ -89,7 +89,7 @@ dv_has_:
     ar: شاردة صاعدة
     az: anion
     be: аніён
-    be-tarask: аніён
+    be_tarask: аніён
     bg: анион
     bn: অ্যানায়ন
     bs: anion
@@ -125,11 +125,11 @@ dv_has_:
     ja: 陰イオン
     ka: ანიონი
     kk: анион
-    kk-arab: انىيون
+    kk_arab: انىيون
     kk-cn: انىيون
-    kk-cyrl: анион
+    kk_cyrl: анион
     kk-kz: анион
-    kk-latn: anïon
+    kk_latn: anïon
     kk-tr: anïon
     ko: 음이온
     la: anion
@@ -148,7 +148,7 @@ dv_has_:
     os: анион
     pl: anion
     pt: anião
-    pt-br: ânion
+    pt_br: ânion
     qu: aniyun
     ro: anion
     ru: анион
@@ -164,15 +164,15 @@ dv_has_:
     sw: anioni
     ta: எதிரயனி
     tt: анион
-    tt-cyrl: анион
+    tt_cyrl: анион
     udm: анион
     uk: аніон
     uz: anion
     vep: anion
     vi: anion
     zh: 阴离子
-    zh-hans: 阴离子
-    zh-hant: 陰離子
+    zh_hans: 阴离子
+    zh_hant: 陰離子
 ---
 # [[Anion]] 
 

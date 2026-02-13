@@ -161,7 +161,7 @@ dv_has_:
     az: kiçik planet
     bar: Zweagplanet
     be: карлікавая планета
-    be-tarask: карлікавая плянэта
+    be_tarask: карлікавая плянэта
     bg: планета джудже
     bho: बौना ग्रह
     bjn: planet kihit
@@ -178,8 +178,8 @@ dv_has_:
     diq: geyrenıko qıckeke
     el: πλανήτης νάνος
     en: dwarf planet
-    en-ca: dwarf planet
-    en-gb: dwarf planet
+    en_ca: dwarf planet
+    en_gb: dwarf planet
     eo: nanplanedo
     es: planeta enano
     et: kääbusplaneet
@@ -225,13 +225,13 @@ dv_has_:
     lt: nykštukinė planeta
     lv: pundurplanēta
     lzh: 矮行星
-    map-bms: planet cilik
+    map_bms: planet cilik
     mk: џуџеста планета
     ml: കുള്ളൻഗ്രഹം
     mn: одой гараг
     mr: बटुग्रह
     ms: planet kerdil
-    ms-arab: ڤلانيت کرديل
+    ms_arab: ڤلانيت کرديل
     mwl: planeta nano
     my: ဂြိုဟ်သိမ်ဂြိုဟ်မွှားများ
     nan: é-he̍k-chheⁿ
@@ -248,7 +248,7 @@ dv_has_:
     pnb: بونا سیارہ
     ps: سیارهګۍ
     pt: planeta-anão
-    pt-br: planeta anão
+    pt_br: planeta anão
     qu: tuna puriq quyllur
     ro: planetă pitică
     ru: карликовая планета
@@ -260,7 +260,7 @@ dv_has_:
     smn: snorâplaaneet
     sq: planeti xhuxh
     sr: патуљаста планета
-    sr-ec: патуљаста планета
+    sr_ec: патуљаста планета
     su: planét katé
     sv: dvärgplanet
     sw: sayari kibete

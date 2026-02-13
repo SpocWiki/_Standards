@@ -103,7 +103,7 @@ dv_has_:
     az: Məmlüklər
     azb: مملوک
     ba: Мәмлүктәр
-    be-tarask: мамлюкі
+    be_tarask: мамлюкі
     bg: Мамелюци
     bn: মামলুক
     br: Mamlouked

@@ -121,7 +121,7 @@ dv_has_:
     ast: asociatividá
     ba: ассоциатив операция
     be: асацыятыўная аперацыя
-    be-tarask: асацыятыўнасьць
+    be_tarask: асацыятыўнасьць
     bg: Асоциативност
     bn: সহযোজী ধর্ম
     bs: Asocijativnost
@@ -153,11 +153,11 @@ dv_has_:
     it: associatività
     ja: 結合法則
     kk: Ассоциативтік операция
-    kk-arab: اسسوتسىياتىيۆتىك وپەراتسىييا
+    kk_arab: اسسوتسىياتىيۆتىك وپەراتسىييا
     kk-cn: اسسوتسىياتىيۆتىك وپەراتسىييا
-    kk-cyrl: Ассоциативтік операция
+    kk_cyrl: Ассоциативтік операция
     kk-kz: Ассоциативтік операция
-    kk-latn: Assocïatïvtik operacïya
+    kk_latn: Assocïatïvtik operacïya
     kk-tr: Assocïatïvtik operacïya
     ko: 결합법칙
     la: Associativitas
@@ -174,7 +174,7 @@ dv_has_:
     oc: Associativitat
     pl: łączność
     pt: associatividade
-    pt-br: associatividade
+    pt_br: associatividade
     ro: Asociativitate
     ru: ассоциативность
     sh: Asocijativnost
@@ -182,8 +182,8 @@ dv_has_:
     sl: asociativnost
     sq: Vetia e shoqërimit
     sr: aсоцијативност
-    sr-ec: асоцијативност
-    sr-el: asocijativnost
+    sr_ec: асоцијативност
+    sr_el: asocijativnost
     sv: associativitet
     ta: சேர்ப்புப் பண்பு
     th: สมบัติการเปลี่ยนหมู่
@@ -198,12 +198,12 @@ dv_has_:
     yi: אסאציאטיוויטעט
     yue: 結合律
     zh: 结合律
-    zh-cn: 结合律
-    zh-hans: 结合律
-    zh-hant: 結合律
-    zh-hk: 結合律
-    zh-sg: 结合律
-    zh-tw: 結合律
+    zh_cn: 结合律
+    zh_hans: 结合律
+    zh_hant: 結合律
+    zh_hk: 結合律
+    zh_sg: 结合律
+    zh_tw: 結合律
 ---
 # [[associative]] 
 

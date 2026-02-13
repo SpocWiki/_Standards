@@ -74,7 +74,7 @@ dv_has_:
     ast: teoría de la complexidá computacional
     az: Hesablama mürəkkəbliyi nəzəriyyəsi
     be: тэорыя складанасці вылічэнняў
-    be-tarask: тэорыя складанасьці вылічэньняў
+    be_tarask: тэорыя складанасьці вылічэньняў
     bg: теория на изчислителната сложност
     bn: পরিগণনামূলক জটিলতা তত্ত্ব
     ca: teoria de la complexitat computacional
@@ -110,8 +110,8 @@ dv_has_:
     sk: teória zložitosti
     sl: teorija računske kompleksnosti
     sr: теорија комплексности
-    sr-ec: теорија комплексности
-    sr-el: teorija kompleksnosti
+    sr_ec: теорија комплексности
+    sr_el: teorija kompleksnosti
     sv: komplexitetsteori
     th: ทฤษฎีความซับซ้อนในการคำนวณ
     tl: teoriya ng komputasyonal na kompleksidad
@@ -121,12 +121,12 @@ dv_has_:
     vi: lý thuyết độ phức tạp tính toán
     yue: 運算複雜性理論
     zh: 計算複雜性理論
-    zh-cn: 计算复杂性理论
-    zh-hans: 计算复杂性理论
-    zh-hant: 計算複雜性理論
-    zh-hk: 計算複雜性理論
-    zh-sg: 计算复杂性理论
-    zh-tw: 計算複雜性理論
+    zh_cn: 计算复杂性理论
+    zh_hans: 计算复杂性理论
+    zh_hant: 計算複雜性理論
+    zh_hk: 計算複雜性理論
+    zh_sg: 计算复杂性理论
+    zh_tw: 計算複雜性理論
 ---
 # [[Computational_Complexity_Theory]] 
 

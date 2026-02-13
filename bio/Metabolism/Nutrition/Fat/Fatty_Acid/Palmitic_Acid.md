@@ -1057,8 +1057,8 @@ dv_has_:
     sl: palmitinska kislina
     sq: acidi palmitik
     sr: палмитинска киселина
-    sr-ec: палмитинска киселина
-    sr-el: palmitinska kiselina
+    sr_ec: палмитинска киселина
+    sr_el: palmitinska kiselina
     sv: palmitinsyra
     te: పామిటిక్ ఆమ్లం
     th: กรดปาลมิติก
@@ -1068,12 +1068,12 @@ dv_has_:
     vi: axit palmitic
     wuu: 棕榈酸
     zh: 棕櫚酸
-    zh-cn: 棕榈酸
-    zh-hans: 棕榈酸
-    zh-hant: 棕櫚酸
-    zh-hk: 棕櫚酸
-    zh-sg: 棕榈酸
-    zh-tw: 棕櫚酸
+    zh_cn: 棕榈酸
+    zh_hans: 棕榈酸
+    zh_hant: 棕櫚酸
+    zh_hk: 棕櫚酸
+    zh_sg: 棕榈酸
+    zh_tw: 棕櫚酸
 dv_has_formula_structural: CH3(CH2)14COOH
 ---
 # [[Palmitic_Acid]] 

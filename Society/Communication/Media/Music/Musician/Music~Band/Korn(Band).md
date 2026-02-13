@@ -32,7 +32,7 @@ dv_has_:
     azb: کورن
     bar: Korn
     be: Korn
-    be-tarask: Korn
+    be_tarask: Korn
     bg: Корн
     br: Korn
     bs: Korn

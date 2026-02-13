@@ -93,7 +93,7 @@ dv_has_:
     ar: حزام فان آلن الإشعاعي
     ast: Cinchos de Van Allen
     az: Van Allen Qurşaqları
-    be-tarask: радыяцыйны пояс
+    be_tarask: радыяцыйны пояс
     bg: Радиационен пояс на Ван Алън
     bn: ভ্যান অ্যালেন বিকিরণ বেষ্টনী
     ca: Cinturó de Van Allen
@@ -151,12 +151,12 @@ dv_has_:
     wuu: 范艾伦辐射带
     yue: 范艾倫輻射帶
     zh: 范艾伦辐射带
-    zh-cn: 范艾伦辐射带
-    zh-hans: 范艾伦辐射带
-    zh-hant: 范艾倫輻射帶
-    zh-hk: 范艾倫輻射帶
-    zh-sg: 范艾伦辐射带
-    zh-tw: 范艾倫輻射帶
+    zh_cn: 范艾伦辐射带
+    zh_hans: 范艾伦辐射带
+    zh_hant: 范艾倫輻射帶
+    zh_hk: 范艾倫輻射帶
+    zh_sg: 范艾伦辐射带
+    zh_tw: 范艾倫輻射帶
 ---
 # [[Van_Allen_Radiation_Belt]] 
 

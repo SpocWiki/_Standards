@@ -107,7 +107,7 @@ dv_has_:
     ban: papirus
     bar: Papyrus
     be: Папірус
-    be-tarask: Папірус
+    be_tarask: Папірус
     bg: Папирус
     bn: প্যাপিরাস
     br: Papiruz
@@ -121,8 +121,8 @@ dv_has_:
     din: Aguot
     el: Πάπυρος
     en: papyrus
-    en-ca: papyrus
-    en-gb: papyrus
+    en_ca: papyrus
+    en_gb: papyrus
     eo: papiruso
     es: papiro
     et: Papüürus
@@ -153,8 +153,8 @@ dv_has_:
     kab: Udid
     ko: 파피루스
     ku: Papîrus
-    ku-arab: پاپیروس
-    ku-latn: Papîrus
+    ku_arab: پاپیروس
+    ku_latn: Papîrus
     la: papyrus
     lb: Papyrus
     lg: Buli avaayo Kabaka
@@ -173,7 +173,7 @@ dv_has_:
     pl: papirus
     pnb: پیپرس
     pt: papiro
-    pt-br: Papiro
+    pt_br: Papiro
     ro: papirus
     ru: папирус
     scn: Papiru
@@ -184,8 +184,8 @@ dv_has_:
     sl: papirus
     sq: Papirusi
     sr: папирус
-    sr-ec: Папирус
-    sr-el: Papirus
+    sr_ec: Папирус
+    sr_el: Papirus
     sv: papyrus
     ta: பாபிரஸ்
     tg: Папирус
@@ -200,12 +200,12 @@ dv_has_:
     wuu: 莎草纸
     yue: 紙草
     zh: 莎草纸
-    zh-cn: 莎草纸
-    zh-hans: 莎草纸
-    zh-hant: 莎草紙
-    zh-hk: 莎草紙
-    zh-sg: 莎草纸
-    zh-tw: 莎草紙
+    zh_cn: 莎草纸
+    zh_hans: 莎草纸
+    zh_hant: 莎草紙
+    zh_hk: 莎草紙
+    zh_sg: 莎草纸
+    zh_tw: 莎草紙
 ---
 # [[Papyrus]] 
 

@@ -19,10 +19,10 @@ dv_has_:
     cy: Bucholion
     da: Bovinae
     de: Bovinae
-    de-ch: Bovinae
+    de_ch: Bovinae
     en: Bovinae
-    en-ca: Bovinae
-    en-gb: Bovinae
+    en_ca: Bovinae
+    en_gb: Bovinae
     eo: bovenoj
     es: Bovinae
     eu: Bovinae
@@ -64,7 +64,7 @@ dv_has_:
     oc: Bovinae
     pl: Bovinae
     pt: Bovinos
-    pt-br: Bovinos
+    pt_br: Bovinos
     ro: Bovinae
     ru: бычьи
     sa: बोविनए
@@ -90,9 +90,9 @@ dv_has_:
     wuu: 牛亚科
     yue: 牛亞科
     zh: 牛亚科
-    zh-cn: 牛亚科
-    zh-hans: 牛亚科
-    zh-tw: 牛亞科
+    zh_cn: 牛亚科
+    zh_hans: 牛亚科
+    zh_tw: 牛亞科
 aliases:
 - Beesagtiges
 - bovenoj

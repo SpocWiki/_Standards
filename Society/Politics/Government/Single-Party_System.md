@@ -101,7 +101,7 @@ dv_has_:
     ast: unipartidismu
     az: təkpartiyalı sistem
     be: аднапартыйная сістэма
-    be-tarask: аднапартыйная сыстэма
+    be_tarask: аднапартыйная сыстэма
     bg: еднопартийна система
     bn: একদলীয় রাষ্ট্র
     bs: jednopartijska država
@@ -112,8 +112,8 @@ dv_has_:
     de: Einparteiensystem
     el: μονοκομματικό πολιτικό σύστημα
     en: one-party state
-    en-ca: single-party state
-    en-gb: single-party state
+    en_ca: single-party state
+    en_gb: single-party state
     eo: unupartiismo
     es: unipartidismo
     et: üheparteisüsteem
@@ -160,7 +160,7 @@ dv_has_:
     pl: system jednopartyjny
     ps: يو گونديز حکومت
     pt: unipartidarismo
-    pt-br: unipartidarismo
+    pt_br: unipartidarismo
     ro: partid unic
     ru: однопартийная система
     sd: ھڪ جماعتي رياست
@@ -185,7 +185,7 @@ dv_has_:
     xmf: ართპარტიული სახენწჷფო
     yue: 一黨專政
     zh: 一党制
-    zh-hk: 一黨制
+    zh_hk: 一黨制
 ---
 # [[Single-Party_System]] 
 

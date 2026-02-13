@@ -118,7 +118,7 @@ dv_has_:
     ast: Cantil
     ban: Pangkung
     be: Кліф
-    be-tarask: кліф
+    be_tarask: кліф
     bew: Tubir
     bg: клиф
     bho: क्लिफ
@@ -130,12 +130,12 @@ dv_has_:
     cy: clogwyn
     da: klippe
     de: Klippe
-    de-ch: Kliff
+    de_ch: Kliff
     diq: Hir
     el: γκρεμός
     en: cliff
-    en-ca: Cliff
-    en-gb: cliff
+    en_ca: Cliff
+    en_gb: cliff
     en-us: cliff
     eo: klifo
     es: acantilado
@@ -165,11 +165,11 @@ dv_has_:
     kaa: Jartas
     ki: Rũgĩra
     kk: Клиф
-    kk-arab: كلىيف
+    kk_arab: كلىيف
     kk-cn: كلىيف
-    kk-cyrl: Клиф
+    kk_cyrl: Клиф
     kk-kz: Клиф
-    kk-latn: Klïf
+    kk_latn: Klïf
     kk-tr: Klïf
     kn: ಕಡಿಬಂಡೆ
     ko: 절벽
@@ -189,7 +189,7 @@ dv_has_:
     oc: Bauç
     pl: klif
     pt: falésia
-    pt-br: falésia
+    pt_br: falésia
     ro: Faleză
     ru: клиф
     se: bákti
@@ -200,8 +200,8 @@ dv_has_:
     sl: klif
     so: Qaw (buur)
     sr: клиф
-    sr-ec: литица
-    sr-el: Klif
+    sr_ec: литица
+    sr_el: Klif
     su: Gawir
     sv: klint
     ta: செங்குத்துப் பாறை
@@ -217,12 +217,12 @@ dv_has_:
     xmf: კლიფი
     yue: 懸崖
     zh: 悬崖
-    zh-cn: 悬崖
-    zh-hans: 悬崖
-    zh-hant: 懸崖
-    zh-hk: 懸崖
-    zh-sg: 悬崖
-    zh-tw: 懸崖
+    zh_cn: 悬崖
+    zh_hans: 悬崖
+    zh_hant: 懸崖
+    zh_hk: 懸崖
+    zh_sg: 悬崖
+    zh_tw: 懸崖
 ---
 # [[Cliff]] 
 

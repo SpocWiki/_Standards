@@ -208,7 +208,7 @@ dv_has_:
     azb: آقاتا کریستی
     ba: Агата Кристи
     be: Агата Крысці
-    be-tarask: Агата Крысьці
+    be_tarask: Агата Крысьці
     bg: Агата Кристи
     bho: अगाथा क्रिस्टी
     bn: আগাথা ক্রিস্টি
@@ -269,10 +269,10 @@ dv_has_:
     yo: Agatha Christie
     yue: 阿嘉莎姬絲蒂
     zh: 阿加莎·克里斯蒂
-    zh-hans: 阿加莎·克里斯蒂
-    zh-hant: 阿加莎·克里斯蒂
-    zh-hk: 阿嘉莎·姬絲蒂
-    zh-tw: 阿嘉莎·克莉絲蒂
+    zh_hans: 阿加莎·克里斯蒂
+    zh_hant: 阿加莎·克里斯蒂
+    zh_hk: 阿嘉莎·姬絲蒂
+    zh_tw: 阿嘉莎·克莉絲蒂
 ---
 # [[Christie,Agatha]] 
 

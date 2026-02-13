@@ -58,7 +58,7 @@ dv_has_:
     ar: دولة بوليسية
     arz: دولة بوليسية
     ast: estáu policial
-    be-tarask: паліцэйская дзяржава
+    be_tarask: паліцэйская дзяржава
     bg: Полицейска държава
     bn: পুলিশি রাষ্ট্র
     ca: estat policia
@@ -105,12 +105,12 @@ dv_has_:
     vi: Nhà nước cảnh sát
     yue: 警察國家
     zh: 警察國家
-    zh-cn: 警察国家
-    zh-hans: 警察国家
-    zh-hant: 警察國家
-    zh-hk: 警察國家
-    zh-sg: 警察国家
-    zh-tw: 警察國家
+    zh_cn: 警察国家
+    zh_hans: 警察国家
+    zh_hant: 警察國家
+    zh_hk: 警察國家
+    zh_sg: 警察国家
+    zh_tw: 警察國家
 ---
 # [[Police_State]] 
 

@@ -257,7 +257,7 @@ dv_has_:
     ba: китапхана
     bcl: librerya
     be: бібліятэка
-    be-tarask: бібліятэка
+    be_tarask: бібліятэка
     bew: pangkèng buku
     bg: библиотека
     bho: लाइब्रेरी
@@ -276,13 +276,13 @@ dv_has_:
     cy: llyfrgell
     da: bibliotek
     de: Bibliothek
-    de-ch: Bibliothek
+    de_ch: Bibliothek
     diq: kutıbxane
     ee: agbalexlefe
     el: βιβλιοθήκη
     en: library
-    en-ca: library
-    en-gb: library
+    en_ca: library
+    en_gb: library
     eo: biblioteko
     es: biblioteca
     et: raamatukogu
@@ -330,7 +330,7 @@ dv_has_:
     ko: 도서관
     ks: لایِبریری
     ku: pirtûkxane
-    ku-latn: pirtûkxane
+    ku_latn: pirtûkxane
     kv: лыддьысянін
     kw: lyverva
     ky: китепкана
@@ -351,14 +351,14 @@ dv_has_:
     mn: номын сан
     mr: ग्रंथालय
     ms: perpustakaan
-    ms-arab: ڤرڤوستاکاءن
+    ms_arab: ڤرڤوستاکاءن
     my: စာကြည့်တိုက်
     myv: ловномакудо
     mzn: نومه سره
     nan: tô͘-su-koán
     nb: bibliotek
     nds: bökeree
-    nds-nl: bibliotheek
+    nds_nl: bibliotheek
     ne: पुस्तकालय
     new: सफूधुकू
     nl: bibliotheek
@@ -375,7 +375,7 @@ dv_has_:
     pnb: لائبریری
     ps: کتابتون
     pt: biblioteca
-    pt-br: biblioteca
+    pt_br: biblioteca
     qu: ñawiriy wasi
     rmf: liineskotšeer
     ro: bibliotecă
@@ -400,8 +400,8 @@ dv_has_:
     so: maktabad
     sq: biblioteka
     sr: библиотека
-    sr-ec: библиотека
-    sr-el: biblioteka
+    sr_ec: библиотека
+    sr_el: biblioteka
     su: perpustakaan
     sv: bibliotek
     sw: maktaba
@@ -415,7 +415,7 @@ dv_has_:
     tn: motlobo wa dibuka
     tr: kütüphane
     tt: китапханә
-    tt-cyrl: китапханә
+    tt_cyrl: китапханә
     uk: бібліотека
     ur: کتب خانہ
     uz: kutubxona
@@ -433,11 +433,11 @@ dv_has_:
     yue: 圖書舘
     za: duzsuhgvanj
     zh: 圖書館
-    zh-cn: 图书馆
-    zh-hans: 图书馆
-    zh-hant: 圖書館
-    zh-hk: 圖書館
-    zh-tw: 圖書館
+    zh_cn: 图书馆
+    zh_hans: 图书馆
+    zh_hant: 圖書館
+    zh_hk: 圖書館
+    zh_tw: 圖書館
     zu: umtapowolwazi
 ---
 # [[Library]] 

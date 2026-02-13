@@ -150,7 +150,7 @@ dv_has_:
     ban: dadu
     bcl: rosas
     be: ружовы колер
-    be-tarask: ружовы колер
+    be_tarask: ружовы колер
     bg: розов цвят
     bjn: habang anum
     bn: পিঙ্ক
@@ -167,8 +167,8 @@ dv_has_:
     de: Rosa
     el: ροζ
     en: pink
-    en-ca: pink
-    en-gb: pink
+    en_ca: pink
+    en_gb: pink
     eo: rozkoloro
     es: rosa
     et: roosa
@@ -218,7 +218,7 @@ dv_has_:
     ml: പിങ്ക്
     mnc: ᡤᡝᠯᡶᡳᠶᠨ ᡶᡠᠯᠠᡥᡡᠨ
     ms: merah jambu
-    ms-arab: ميره جمبو
+    ms_arab: ميره جمبو
     my: ပန်းရောင်
     mzn: دیمی
     nah: achichiltik
@@ -237,7 +237,7 @@ dv_has_:
     pl: barwa różowa
     ps: گلابي
     pt: cor-de-rosa
-    pt-br: cor-de-rosa
+    pt_br: cor-de-rosa
     qu: llanqha
     ro: roz
     ru: розовый
@@ -256,8 +256,8 @@ dv_has_:
     sn: kiwani
     so: basali
     sr: ружичаста
-    sr-ec: ружичаста
-    sr-el: ružičasta
+    sr_ec: ружичаста
+    sr_el: ružičasta
     su: kayas
     sv: rosa
     sw: rangi ya waridi
@@ -268,7 +268,7 @@ dv_has_:
     tl: rosas
     tr: pembe
     tt: ал
-    tt-cyrl: ал
+    tt_cyrl: ал
     ty: tārona
     udm: лемлет
     ug: ھلا رەڭ
@@ -284,14 +284,14 @@ dv_has_:
     yue: 粉紅
     za: saekmaeq
     zh: 粉红色
-    zh-cn: 粉红色
-    zh-hans: 粉红色
-    zh-hant: 粉紅色
-    zh-hk: 粉紅色
-    zh-mo: 粉紅色
+    zh_cn: 粉红色
+    zh_hans: 粉红色
+    zh_hant: 粉紅色
+    zh_hk: 粉紅色
+    zh_mo: 粉紅色
     zh-my: 粉红色
-    zh-sg: 粉红色
-    zh-tw: 粉紅色
+    zh_sg: 粉红色
+    zh_tw: 粉紅色
 ---
 # [[Pink]] 
 

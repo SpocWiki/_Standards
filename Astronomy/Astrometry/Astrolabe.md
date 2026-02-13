@@ -113,7 +113,7 @@ dv_has_:
     az: astrolab
     azb: اوسطورلاب
     be: астралябія
-    be-tarask: астралябія
+    be_tarask: астралябія
     bg: астролабия
     bn: অ্যাস্ট্রোল্যাব
     bs: astrolab
@@ -164,15 +164,15 @@ dv_has_:
     pl: astrolabium
     pnb: اسطرلاب
     pt: astrolábio
-    pt-br: astrolábio
+    pt_br: astrolábio
     ro: astrolab
     ru: астролябия
     sh: astrolab
     sk: astroláb
     sl: astrolab
     sr: астролаб
-    sr-ec: астролаб
-    sr-el: astrolab
+    sr_ec: астролаб
+    sr_el: astrolab
     sv: astrolabium
     tg: устурлоб
     th: แอสโตรเลบ
@@ -186,12 +186,12 @@ dv_has_:
     xh: I-astrolabe
     yue: 星盤
     zh: 星盘
-    zh-cn: 星盘
-    zh-hans: 星盘
-    zh-hant: 星盤
-    zh-hk: 星盤
-    zh-sg: 星盘
-    zh-tw: 星盤
+    zh_cn: 星盘
+    zh_hans: 星盘
+    zh_hant: 星盤
+    zh_hk: 星盤
+    zh_sg: 星盘
+    zh_tw: 星盤
 ---
 #is_/same_as :: [[../../WikiData/WD~Astrolabe,164992|WD~Astrolabe,164992]] 
 ## #has_/text_of_/abstract 

@@ -133,7 +133,7 @@ dv_has_:
     az: lif
     ba: Сүстәр
     be: валакно
-    be-tarask: валакно
+    be_tarask: валакно
     bew: Jarot
     bg: влакно
     bho: फाइबर
@@ -148,8 +148,8 @@ dv_has_:
     de: Faser
     el: ίνα
     en: fiber
-    en-ca: fibre
-    en-gb: fibre
+    en_ca: fibre
+    en_gb: fibre
     eo: fibro
     es: fibra
     et: Kiud
@@ -200,7 +200,7 @@ dv_has_:
     pnb: تار
     ps: تار
     pt: fibra
-    pt-br: fibra
+    pt_br: fibra
     qu: Q'aytucha
     ro: fibră
     ru: волокна
@@ -211,8 +211,8 @@ dv_has_:
     sl: vlakno
     sq: Fibrat
     sr: влакно
-    sr-ec: влакно
-    sr-el: vlakno
+    sr_ec: влакно
+    sr_el: vlakno
     sv: fiber
     ta: இழை
     te: fiber
@@ -220,7 +220,7 @@ dv_has_:
     tl: Hibla
     tr: Lif
     tt: сүс
-    tt-cyrl: сүс
+    tt_cyrl: сүс
     udm: нюжаос
     uk: волокно
     ur: ریشہ
@@ -230,9 +230,9 @@ dv_has_:
     wuu: 纤维
     yue: 纖維
     zh: 纤维
-    zh-cn: 纤维
-    zh-hans: 纤维
-    zh-hant: 纤维
+    zh_cn: 纤维
+    zh_hans: 纤维
+    zh_hant: 纤维
     zu: Inxoza
 ---
 # [[Fiber]] 

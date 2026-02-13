@@ -16,7 +16,7 @@ dv_has_:
     ab: Судан
     ace: Sudan
     ady: Судан
-    aeb-arab: السودان
+    aeb_arab: السودان
     af: Soedan
     am: ሱዳን
     ami: Sudan
@@ -40,7 +40,7 @@ dv_has_:
     bar: Sudan
     bcl: Sudan
     be: Судан
-    be-tarask: Судан
+    be_tarask: Судан
     bew: Sudan
     bg: Судан
     bgn: سوڈان
@@ -56,14 +56,14 @@ dv_has_:
     btm: Sudan
     bxr: Судан
     ca: Sudan
-    cbk-zam: Sudán
+    cbk_zam: Sudán
     cdo: Sudan
     ce: Судан
     ceb: Sudan
     ckb: سوودان
     co: Sudan
     crh: Sudan
-    crh-latn: Sudan
+    crh_latn: Sudan
     cs: Súdán
     csb: Sùdan
     cv: Судан
@@ -71,7 +71,7 @@ dv_has_:
     da: Sudan
     dag: Sudan
     de: Sudan
-    de-ch: Sudan
+    de_ch: Sudan
     din: Thudän
     diq: Sudan
     dsb: Sudan
@@ -80,8 +80,8 @@ dv_has_:
     ee: Sudan
     el: Σουδάν
     en: Sudan
-    en-ca: Sudan
-    en-gb: Sudan
+    en_ca: Sudan
+    en_gb: Sudan
     en-us: Sudan
     eo: Sudano
     es: Sudán
@@ -192,7 +192,7 @@ dv_has_:
     nan: Sudan
     nb: Sudan
     nds: Sudan
-    nds-nl: Soedan
+    nds_nl: Soedan
     ne: सुडान
     new: सुदान
     nl: Soedan
@@ -218,7 +218,7 @@ dv_has_:
     pnb: سودان
     ps: سوډان
     pt: Sudão
-    pt-br: Sudão
+    pt_br: Sudão
     qu: Sudan
     rki: ဆူဒန်သမ္မတနိုင်ငံ
     rm: Sudan
@@ -252,8 +252,8 @@ dv_has_:
     so: Suudaan
     sq: Sudani
     sr: Судан
-    sr-ec: Судан
-    sr-el: Sudan
+    sr_ec: Судан
+    sr_el: Sudan
     ss: ISudani
     st: Sudan
     stq: Sudan
@@ -302,14 +302,14 @@ dv_has_:
     zea: Soedan
     zgh: ⵙⵓⴷⴰⵏ
     zh: 苏丹
-    zh-cn: 苏丹
-    zh-hans: 苏丹
-    zh-hant: 蘇丹
-    zh-hk: 蘇丹
-    zh-mo: 苏丹共和国
+    zh_cn: 苏丹
+    zh_hans: 苏丹
+    zh_hant: 蘇丹
+    zh_hk: 蘇丹
+    zh_mo: 苏丹共和国
     zh-my: 苏丹共和国
-    zh-sg: 苏丹共和国
-    zh-tw: 蘇丹
+    zh_sg: 苏丹共和国
+    zh_tw: 蘇丹
     zu: ISudan
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Sudan-North

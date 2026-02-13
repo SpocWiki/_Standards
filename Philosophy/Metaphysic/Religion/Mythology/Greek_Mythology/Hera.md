@@ -116,7 +116,7 @@ dv_has_:
     bar: Hera
     bcl: Hera
     be: Гера
-    be-tarask: Гэра
+    be_tarask: Гэра
     bg: Хера
     bn: হেরা
     br: Hera
@@ -158,7 +158,7 @@ dv_has_:
     kk: Гера
     ko: 헤라
     ku: Hêra
-    ku-latn: Hêra
+    ku_latn: Hêra
     la: Hera
     lb: Hera
     lt: Hera
@@ -211,9 +211,9 @@ dv_has_:
     wuu: 赫拉
     yue: 赫拉
     zh: 赫拉
-    zh-hans: 赫拉
-    zh-hk: 希拉
-    zh-tw: 赫拉
+    zh_hans: 赫拉
+    zh_hk: 希拉
+    zh_tw: 赫拉
 ---
 # [[Hera]] 
 

@@ -4,7 +4,7 @@ dv_has_:
     ab: Џьибути
     ace: Djibouti
     ady: Джибути
-    aeb-arab: جيبوتي
+    aeb_arab: جيبوتي
     af: Djiboeti
     am: ጅቡቲ
     an: Chibuti
@@ -23,7 +23,7 @@ dv_has_:
     bar: Dschibuti
     bcl: Dibouti
     be: Джыбуці
-    be-tarask: Джыбуці
+    be_tarask: Джыбуці
     bew: Jibuti
     bg: Джибути
     bho: जिबूती
@@ -37,7 +37,7 @@ dv_has_:
     bs: Džibuti
     bxr: Джибути
     ca: Djibouti
-    cbk-zam: Djibouti
+    cbk_zam: Djibouti
     cdo: Djibouti
     ce: Джибути
     ceb: Djibouti
@@ -45,7 +45,7 @@ dv_has_:
     ckb: جیبووتی
     co: Díbuti
     crh: Cibuti
-    crh-latn: Cibuti
+    crh_latn: Cibuti
     cs: Džibutsko
     cv: Джибути
     cy: Jibwti
@@ -53,7 +53,7 @@ dv_has_:
     dag: Djibouti
     de: Dschibuti
     de-at: Dschibuti
-    de-ch: Dschibuti
+    de_ch: Dschibuti
     din: Djibouti
     diq: Cibuti
     dsb: Džibuti
@@ -62,8 +62,8 @@ dv_has_:
     ee: Djibouti
     el: Τζιμπουτί
     en: Djibouti
-    en-ca: Djibouti
-    en-gb: Djibouti
+    en_ca: Djibouti
+    en_gb: Djibouti
     eo: Ĝibutio
     es: Yibuti
     et: Djibouti
@@ -147,7 +147,7 @@ dv_has_:
     lzh: 吉布地
     mad: Djibouti
     mai: जिबूती
-    map-bms: Djibouti
+    map_bms: Djibouti
     mdf: Джибути
     mg: Jibotia
     mhr: Джибути
@@ -168,7 +168,7 @@ dv_has_:
     nan: Djibouti
     nb: Djibouti
     nds: Dschibuti
-    nds-nl: Djibuti
+    nds_nl: Djibuti
     ne: जिबुटी
     new: जिबुटी
     nl: Djibouti
@@ -192,7 +192,7 @@ dv_has_:
     pnb: جبوتی
     ps: جيبوتي
     pt: Djibouti
-    pt-br: Djibuti
+    pt_br: Djibuti
     qu: Yiwuti
     rki: ဂျီဘူတီ သမ္မတနိုင်ငံ
     rmy: Jibuti
@@ -224,8 +224,8 @@ dv_has_:
     so: Jabuuti
     sq: Xhibuti
     sr: Џибути
-    sr-ec: Џибути
-    sr-el: Džibuti
+    sr_ec: Џибути
+    sr_el: Džibuti
     ss: IJibhuthi
     st: Djibouti
     stq: Dschibuti
@@ -269,14 +269,14 @@ dv_has_:
     zea: Djibouti
     zgh: ⵊⵉⴱⵓⵜⵉ
     zh: 吉布提
-    zh-cn: 吉布提
-    zh-hans: 吉布提
-    zh-hant: 吉布地
-    zh-hk: 吉布提
-    zh-mo: 吉布提
+    zh_cn: 吉布提
+    zh_hans: 吉布提
+    zh_hant: 吉布地
+    zh_hk: 吉布提
+    zh_mo: 吉布提
     zh-my: 吉布提
-    zh-sg: 吉布提
-    zh-tw: 吉布地
+    zh_sg: 吉布提
+    zh_tw: 吉布地
     zu: IJibuthi
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Djibouti

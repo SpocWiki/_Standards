@@ -114,7 +114,7 @@ dv_has_:
     azb: چادیر
     bcl: Tolda
     be: намёт
-    be-tarask: намёт
+    be_tarask: намёт
     bg: Палатка
     br: Teltenn
     bs: Šator
@@ -151,11 +151,11 @@ dv_has_:
     it: tenda
     ja: テント
     kk: Шатыр
-    kk-arab: شاتىر
+    kk_arab: شاتىر
     kk-cn: شاتىر
-    kk-cyrl: Шатыр
+    kk_cyrl: Шатыр
     kk-kz: Шатыр
-    kk-latn: Şatır
+    kk_latn: Şatır
     kk-tr: Şatır
     kn: ಗುಡಾರ
     ko: 천막
@@ -173,7 +173,7 @@ dv_has_:
     pl: namiot
     pnb: تمبو
     pt: barraca
-    pt-br: barraca
+    pt_br: barraca
     qu: Karpa
     ro: cort
     ru: палатка
@@ -184,8 +184,8 @@ dv_has_:
     sl: šotor
     sq: Çadra
     sr: шатор
-    sr-ec: шатор
-    sr-el: šator
+    sr_ec: шатор
+    sr_el: šator
     su: Ténda
     sv: tält
     sw: Hema
@@ -202,12 +202,12 @@ dv_has_:
     wuu: 帐篷
     yue: 帳幕
     zh: 帳篷
-    zh-cn: 帐篷
-    zh-hans: 帐篷
-    zh-hant: 帳篷
-    zh-hk: 帳篷
-    zh-sg: 帐篷
-    zh-tw: 帳篷
+    zh_cn: 帐篷
+    zh_hans: 帐篷
+    zh_hant: 帳篷
+    zh_hk: 帳篷
+    zh_sg: 帐篷
+    zh_tw: 帳篷
 ---
 # [[Tent]] 
 

@@ -206,7 +206,7 @@ dv_has_:
     ban: Kadal
     bbc: Ilik
     be: яшчаркі
-    be-tarask: яшчаркі
+    be_tarask: яшчаркі
     bg: гущери
     bho: बिसतुइया
     bn: টিকটিকি
@@ -229,8 +229,8 @@ dv_has_:
     el: Σαύρα
     eml: Arzintèla
     en: Lacertilia
-    en-ca: Lizard
-    en-gb: Lacertilia
+    en_ca: Lizard
+    en_gb: Lacertilia
     eo: Lacertuloj
     es: Lacertilia
     et: Sisalikulised
@@ -297,7 +297,7 @@ dv_has_:
     nan: Tō͘-tēng
     nap: Icèrta
     nb: øgle
-    nds-nl: evertaske
+    nds_nl: evertaske
     ne: छेपारो
     new: माय्बिलि
     nl: hagedissen
@@ -311,7 +311,7 @@ dv_has_:
     pnt: κωλισάφρα
     ps: مارمولک
     pt: lagartos
-    pt-br: Lagartos
+    pt_br: Lagartos
     qu: Qaraywa
     ro: Șopârlă
     ru: ящерицы
@@ -327,7 +327,7 @@ dv_has_:
     so: Cashir
     sq: Hardhucat
     sr: гуштер
-    sr-ec: гуштер
+    sr_ec: гуштер
     su: Kadal
     sv: ödlor
     sw: Mjusi
@@ -352,8 +352,8 @@ dv_has_:
     yo: Alángbá
     yue: 蜥蜴
     zh: 蜥蜴
-    zh-cn: 蜥蜴
-    zh-tw: 蜥蜴
+    zh_cn: 蜥蜴
+    zh_tw: 蜥蜴
 ---
 #is_/same_as :: [[WD~Lacertilia,15879]] 
 

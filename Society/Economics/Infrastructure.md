@@ -108,7 +108,7 @@ dv_has_:
     az: İnfrastruktur
     bcl: Impraestruktura
     be: інфраструктура
-    be-tarask: інфраструктура
+    be_tarask: інфраструктура
     bg: инфраструктура
     bho: इंफ्रास्ट्रक्चर
     bn: অবকাঠামো
@@ -121,7 +121,7 @@ dv_has_:
     de: Infrastruktur
     el: υποδομή
     en: infrastructure
-    en-gb: infrastructure
+    en_gb: infrastructure
     eo: infrastrukturo
     es: infraestructura
     et: infrastruktuur
@@ -146,17 +146,17 @@ dv_has_:
     ka: ინფრასტრუქტურა
     kaa: infrastruktura
     kk: Инфрақұрылым
-    kk-arab: ىينفراقۇرىلىم
+    kk_arab: ىينفراقۇرىلىم
     kk-cn: ىينفراقۇرىلىم
-    kk-cyrl: Инфрақұрылым
+    kk_cyrl: Инфрақұрылым
     kk-kz: Инфрақұрылым
-    kk-latn: Ïnfraqurılım
+    kk_latn: Ïnfraqurılım
     kk-tr: Ïnfraqurılım
     km: ហេដ្ឋារចនាសម្ព័ន្ធ
     kn: ಮೂಲಸೌಕರ್ಯ
     ko: 기반 시설
     ku: binesazî
-    ku-latn: binesazî
+    ku_latn: binesazî
     ky: инфратүзүм
     la: Infrastructura
     lb: Infrastruktur
@@ -169,7 +169,7 @@ dv_has_:
     mn: Дэд бүтэц
     mr: आधारभूत संरचना
     ms: prasarana
-    ms-arab: ڤراساران
+    ms_arab: ڤراساران
     nan: Ki-té kiàn-siat
     nb: infrastruktur
     ne: पूर्वाधार
@@ -182,7 +182,7 @@ dv_has_:
     pl: infrastruktura
     pnb: بنیادی ڈھانچہ
     pt: infraestrutura
-    pt-br: infraestrutura
+    pt_br: infraestrutura
     ro: infrastructură
     ru: инфраструктура
     sah: Алын тутул
@@ -197,8 +197,8 @@ dv_has_:
     so: Kaabayaal
     sq: infrastrukturë
     sr: инфраструктура
-    sr-ec: инфраструктура
-    sr-el: infrastruktura
+    sr_ec: инфраструктура
+    sr_el: infrastruktura
     su: Infrastruktur
     sv: infrastruktur
     sw: Miundombinu
@@ -219,12 +219,12 @@ dv_has_:
     yo: amáyéderùn
     yue: 基建
     zh: 基础设施
-    zh-cn: 基础设施
-    zh-hans: 基础设施
-    zh-hant: 基礎建設
-    zh-hk: 基礎設施
-    zh-sg: 基础设施
-    zh-tw: 基礎建設
+    zh_cn: 基础设施
+    zh_hans: 基础设施
+    zh_hant: 基礎建設
+    zh_hk: 基礎設施
+    zh_sg: 基础设施
+    zh_tw: 基礎建設
     zu: Ingqalasizinda
 ---
 # [[Infrastructure]] 

@@ -137,7 +137,7 @@ dv_has_:
     bcl: Laboy
     bdr: Lebo
     be: шлам
-    be-tarask: шлам
+    be_tarask: шлам
     bg: Кал
     bn: কাদা
     br: Bouilhenn
@@ -152,7 +152,7 @@ dv_has_:
     el: λάσπη
     eml: Smèlta
     en: mud
-    en-gb: mud
+    en_gb: mud
     eo: ŝlimo
     es: barro
     et: muda
@@ -229,12 +229,12 @@ dv_has_:
     yi: מאראסט
     yue: 泥
     zh: 泥
-    zh-cn: 泥
-    zh-hans: 泥
-    zh-hant: 泥
-    zh-hk: 泥
-    zh-sg: 泥
-    zh-tw: 泥
+    zh_cn: 泥
+    zh_hans: 泥
+    zh_hant: 泥
+    zh_hk: 泥
+    zh_sg: 泥
+    zh_tw: 泥
 ---
 # [[Mud]] 
 

@@ -115,7 +115,7 @@ dv_has_:
     ast: Norman Borlaug
     azb: نورمن بورلاق
     be: Норман Эрнэст Барлоўг
-    be-tarask: Норман Эрнэст Барлоўг
+    be_tarask: Норман Эрнэст Барлоўг
     bg: Норман Борлауг
     bho: नार्मन बोरलाग
     bn: নরম্যান বোরলাউগ
@@ -150,8 +150,8 @@ dv_has_:
     kn: ನಾರ್ಮನ್ ಬೊರ್ಲಾಗ್
     ko: 노먼 볼로그
     ku: Norman Ernest Borlaug
-    ku-arab: نۆرمانئە رنەست بۆرلاوگ
-    ku-latn: Norman Ernest Borlaug
+    ku_arab: نۆرمانئە رنەست بۆرلاوگ
+    ku_latn: Norman Ernest Borlaug
     la: Norman Ernestus Borlaug
     lb: Norman Ernest Borlaug
     lt: Norman Borlaug
@@ -172,7 +172,7 @@ dv_has_:
     pl: Norman Borlaug
     pnb: نارمن بورلاگ
     pt: Norman Borlaug
-    pt-br: Norman Borlaug
+    pt_br: Norman Borlaug
     ro: Norman Borlaug
     ru: Норман Эрнест Борлоуг
     sa: नार्मन् बोर्लाग्
@@ -195,12 +195,12 @@ dv_has_:
     yo: Norman Borlaug
     yue: 諾曼·布勞格
     zh: 诺曼·布劳格
-    zh-cn: 诺曼·布劳格
-    zh-hans: 诺曼·布劳格
-    zh-hant: 諾曼·布勞格
-    zh-hk: 諾曼·布勞格
-    zh-sg: 诺曼·布劳格
-    zh-tw: 諾曼·布勞格
+    zh_cn: 诺曼·布劳格
+    zh_hans: 诺曼·布劳格
+    zh_hant: 諾曼·布勞格
+    zh_hk: 諾曼·布勞格
+    zh_sg: 诺曼·布劳格
+    zh_tw: 諾曼·布勞格
 ---
 # [[Borlaug,Norman]] 
 

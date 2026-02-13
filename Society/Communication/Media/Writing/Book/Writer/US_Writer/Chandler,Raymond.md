@@ -92,7 +92,7 @@ dv_has_:
     ast: Raymond Chandler
     az: Reymond Çandler
     azb: ریموند چندلر
-    be-tarask: Рэйманд Чэндлер
+    be_tarask: Рэйманд Чэндлер
     bg: Реймънд Чандлър
     bn: রেমন্ড চ্যান্ডলার
     br: Raymond Chandler
@@ -139,7 +139,7 @@ dv_has_:
     pap: Raymond Chandler
     pl: Raymond Chandler
     pt: Raymond Chandler
-    pt-br: Raymond Chandler
+    pt_br: Raymond Chandler
     ro: Raymond Chandler
     ru: Рэймонд Чандлер
     sgs: Raimonds Čandleris
@@ -148,8 +148,8 @@ dv_has_:
     sl: Raymond Chandler
     sq: Raymond Chandler
     sr: Рејмонд Чандлер
-    sr-ec: Рејмонд Чандлер
-    sr-el: Rejmond Čandler
+    sr_ec: Рејмонд Чандлер
+    sr_el: Rejmond Čandler
     sv: Raymond Chandler
     tg: Рэймонд Чандлер
     tr: Raymond Chandler
@@ -160,12 +160,12 @@ dv_has_:
     xmf: რაიმონდ ჩანდლერი
     yue: 雷蒙·錢德勒
     zh: 雷蒙·錢德勒
-    zh-cn: 雷蒙德·钱德勒
-    zh-hans: 雷蒙·钱德勒
-    zh-hant: 雷蒙·錢德勒
-    zh-hk: 雷蒙·錢德勒
-    zh-sg: 雷蒙德·钱德勒
-    zh-tw: 雷蒙·錢德勒
+    zh_cn: 雷蒙德·钱德勒
+    zh_hans: 雷蒙·钱德勒
+    zh_hant: 雷蒙·錢德勒
+    zh_hk: 雷蒙·錢德勒
+    zh_sg: 雷蒙德·钱德勒
+    zh_tw: 雷蒙·錢德勒
 ---
 # [[Chandler,Raymond]] 
 

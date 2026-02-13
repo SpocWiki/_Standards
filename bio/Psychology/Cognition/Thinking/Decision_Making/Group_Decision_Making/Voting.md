@@ -133,7 +133,7 @@ dv_has_:
     az: Səsvermə
     bcl: Pagboto
     be: галасаванне
-    be-tarask: галасаваньне
+    be_tarask: галасаваньне
     bg: Гласуване
     bn: ভোট
     ca: vot
@@ -146,7 +146,7 @@ dv_has_:
     de: Abstimmung
     el: ψηφοφορία
     en: voting
-    en-gb: voting
+    en_gb: voting
     eo: voĉdonado
     es: voto
     et: hääletus
@@ -167,11 +167,11 @@ dv_has_:
     it: voto
     ja: 投票
     kk: Униноминалды дауыс беру
-    kk-arab: ۋنىينومىينالدى داۋىس بەرۋ
+    kk_arab: ۋنىينومىينالدى داۋىس بەرۋ
     kk-cn: ۋنىينومىينالدى داۋىس بەرۋ
-    kk-cyrl: Униноминалды дауыс беру
+    kk_cyrl: Униноминалды дауыс беру
     kk-kz: Униноминалды дауыс беру
-    kk-latn: Wnïnomïnaldı dawıs berw
+    kk_latn: Wnïnomïnaldı dawıs berw
     kk-tr: Wnïnomïnaldı dawıs berw
     kn: ಮತದಾನ
     ko: 투표
@@ -206,8 +206,8 @@ dv_has_:
     so: Codbixin
     sq: Votimi
     sr: гласање
-    sr-ec: гласање
-    sr-el: glasanje
+    sr_ec: гласање
+    sr_el: glasanje
     sv: votering
     ta: வாக்களிப்பு
     te: ఓటు
@@ -215,7 +215,7 @@ dv_has_:
     tok: jan li pana e wile pi jan lawa
     tr: oylama
     tt: тавыш бирү
-    tt-cyrl: тавыш бирү
+    tt_cyrl: тавыш бирү
     udm: куарасётон
     uk: голосування
     ur: رائے دہندگی
@@ -225,14 +225,14 @@ dv_has_:
     yo: Ìbò
     yue: 投票
     zh: 投票
-    zh-cn: 投票
-    zh-hans: 投票
-    zh-hant: 投票
-    zh-hk: 投票
-    zh-mo: 投票
+    zh_cn: 投票
+    zh_hans: 投票
+    zh_hant: 投票
+    zh_hk: 投票
+    zh_mo: 投票
     zh-my: 投票
-    zh-sg: 投票
-    zh-tw: 投票
+    zh_sg: 投票
+    zh_tw: 投票
     zu: Ukuvota
 ---
 # [[Voting]] 

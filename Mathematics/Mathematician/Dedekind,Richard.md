@@ -131,7 +131,7 @@ dv_has_:
     az: Riçard Dedekind
     azb: ریچارد ددکیند
     be: Юліус Вільгельм Рыхард Дэдэкінд
-    be-tarask: Рыхард Дэдэкінд
+    be_tarask: Рыхард Дэдэкінд
     bg: Рихард Дедекинд
     bn: রিচার্ড ডেডেকিন্ড
     ca: Julius Wilhelm Richard Dedekind
@@ -142,8 +142,8 @@ dv_has_:
     de: Richard Dedekind
     el: Ρίχαρντ Ντέντεκιντ
     en: Richard Dedekind
-    en-ca: Richard Dedekind
-    en-gb: Richard Dedekind
+    en_ca: Richard Dedekind
+    en_gb: Richard Dedekind
     eo: Julius Wilhelm Richard Dedekind
     es: Julius Wilhelm Richard Dedekind
     et: Richard Dedekind
@@ -183,7 +183,7 @@ dv_has_:
     pl: Richard Dedekind
     pms: Richard Dedekind
     pt: Richard Dedekind
-    pt-br: Richard Dedekind
+    pt_br: Richard Dedekind
     ro: Richard Dedekind
     ru: Рихард Дедекинд
     sc: Richard Dedekind
@@ -193,7 +193,7 @@ dv_has_:
     sl: Julius Wilhelm Richard Dedekind
     sq: Richard Dedekind
     sr: Јулијус Вилхелм Рихард Дедекинд
-    sr-ec: Јулијус Вилхелм Рихард Дедекинд
+    sr_ec: Јулијус Вилхелм Рихард Дедекинд
     sv: Richard Dedekind
     ta: ரிச்சர்டு டீடிகைண்டு
     tr: Richard Dedekind

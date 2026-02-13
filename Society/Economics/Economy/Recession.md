@@ -81,7 +81,7 @@ dv_has_:
     ast: Recesión
     az: Resessiya
     be: рэцэсія
-    be-tarask: рэцэсія
+    be_tarask: рэцэсія
     bg: Рецесия
     bn: অর্থনৈতিক মন্দা
     bs: Recesija
@@ -93,8 +93,8 @@ dv_has_:
     diq: Resesyon
     el: ύφεση
     en: recession
-    en-ca: Recession
-    en-gb: recession
+    en_ca: Recession
+    en_gb: recession
     en-us: Recession
     eo: recesio
     es: recesión
@@ -131,7 +131,7 @@ dv_has_:
     pl: recesja gospodarcza
     pnb: کساد بازاری
     pt: recessão
-    pt-br: Recessão
+    pt_br: Recessão
     ro: recesiune
     ru: рецессия
     sah: Рецессия
@@ -141,8 +141,8 @@ dv_has_:
     sl: recesija
     sq: recesion
     sr: рецесија
-    sr-ec: Рецесија
-    sr-el: Recesija
+    sr_ec: Рецесија
+    sr_el: Recesija
     sv: recession
     ta: பொருளியல் பின்னடைவு
     te: తిరోగమనం
@@ -158,12 +158,12 @@ dv_has_:
     yi: רעסעסיע
     yue: 經濟衰退
     zh: 经济衰退
-    zh-cn: 经济衰退
-    zh-hans: 经济衰退
-    zh-hant: 經濟衰退
-    zh-hk: 經濟衰退
-    zh-sg: 经济衰退
-    zh-tw: 經濟衰退
+    zh_cn: 经济衰退
+    zh_hans: 经济衰退
+    zh_hant: 經濟衰退
+    zh_hk: 經濟衰退
+    zh_sg: 经济衰退
+    zh_tw: 經濟衰退
 ---
 # [[Recession]] 
 

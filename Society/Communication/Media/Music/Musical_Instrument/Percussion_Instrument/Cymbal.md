@@ -91,7 +91,7 @@ dv_has_:
     ast: platillos
     az: Simball
     be: талерка
-    be-tarask: талерка
+    be_tarask: талерка
     bg: чинел
     bn: সিম্বাল
     ca: plat
@@ -129,7 +129,7 @@ dv_has_:
     my: ခွက်ခွင်း
     mzn: سنچ
     nb: cymbal
-    nds-nl: bekn
+    nds_nl: bekn
     nl: bekken
     nn: cymbal
     pl: talerze perkusyjne
@@ -146,8 +146,8 @@ dv_has_:
     so: shanbal
     sq: çapare
     sr: чинеле
-    sr-ec: чинеле
-    sr-el: činele
+    sr_ec: чинеле
+    sr_el: činele
     sv: cymbal
     th: ฉาบ
     tl: pompyang
@@ -158,9 +158,9 @@ dv_has_:
     wuu: 铜钹
     yue: 鈸
     zh: 銅鈸
-    zh-cn: 铜钹
-    zh-hans: 铜钹
-    zh-hant: 銅鈸
+    zh_cn: 铜钹
+    zh_hans: 铜钹
+    zh_hant: 銅鈸
 ---
 # [[Cymbal]] 
 

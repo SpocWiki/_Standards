@@ -14,8 +14,8 @@ dv_has_:
     de: Amazon Mechanical Turk
     el: Amazon Mechanical Turk
     en: Amazon Mechanical Turk
-    en-ca: Amazon Mechanical Turk
-    en-gb: Amazon Mechanical Turk
+    en_ca: Amazon Mechanical Turk
+    en_gb: Amazon Mechanical Turk
     es: Amazon Mechanical Turk
     fa: ترک مکانیکی آمازون
     fr: Amazon Mechanical Turk
@@ -27,7 +27,7 @@ dv_has_:
     nl: Amazon Mechanical Turk
     pl: Amazon Mechanical Turk
     pt: Amazon Mechanical Turk
-    pt-br: Amazon Mechanical Turk
+    pt_br: Amazon Mechanical Turk
     ru: Amazon Mechanical Turk
     sr: Mechanical Turk
     tr: Amazon Mechanical Turk

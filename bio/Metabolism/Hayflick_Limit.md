@@ -47,7 +47,7 @@ dv_has_:
     hu: Hayflick limit
     it: Limite di Hayflick
     ja: ヘイフリック限界
-    kk-cyrl: Хейфлик шегі(лимиты)
+    kk_cyrl: Хейфлик шегі(лимиты)
     nl: hayflicklimiet
     nn: Hayflick-grensa
     pl: Limit Hayflicka
@@ -59,9 +59,9 @@ dv_has_:
     uk: межа Гейфліка
     vi: Giới hạn Hayflick
     zh: 海佛烈克極限
-    zh-hans: 海佛烈克极限
-    zh-hant: 海佛烈克極限
-    zh-hk: 海佛烈克極限
+    zh_hans: 海佛烈克极限
+    zh_hant: 海佛烈克極限
+    zh_hk: 海佛烈克極限
 ---
 # [[Hayflick_Limit]] 
 

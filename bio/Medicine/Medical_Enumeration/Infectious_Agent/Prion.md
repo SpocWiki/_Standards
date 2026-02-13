@@ -66,7 +66,7 @@ dv_has_:
     ast: prión
     az: prion
     be: прыёны
-    be-tarask: прыёны
+    be_tarask: прыёны
     bg: прион
     bn: প্রিয়ন
     br: prion
@@ -122,7 +122,7 @@ dv_has_:
     sk: prión
     sl: prion
     sr: прион
-    sr-ec: прион
+    sr_ec: прион
     sv: prion
     ta: புரதப்பீழை
     th: พรีออน
@@ -133,8 +133,8 @@ dv_has_:
     wuu: 朊毒体
     yue: 朊毒體
     zh: 朊毒體
-    zh-hans: 朊毒体
-    zh-hant: 朊毒體
+    zh_hans: 朊毒体
+    zh_hant: 朊毒體
 ---
 # [[Prion]] 
 

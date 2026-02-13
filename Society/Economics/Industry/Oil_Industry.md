@@ -99,7 +99,7 @@ dv_has_:
     as: পেট্ৰ’লিয়াম উদ্যোগ
     az: neft sənayesi
     be: нафтавая прамысловасць
-    be-tarask: нафтавая прамысловасьць
+    be_tarask: нафтавая прамысловасьць
     bg: нефтопреработвателна промишленост
     ca: indústria del petroli
     cs: petrochemický průmysl
@@ -107,8 +107,8 @@ dv_has_:
     de: Ölindustrie
     el: βιομηχανία πετρελαίου
     en: petroleum industry
-    en-ca: petroleum industry
-    en-gb: petroleum industry
+    en_ca: petroleum industry
+    en_gb: petroleum industry
     eo: petrolindustrio
     es: industria petrolera
     et: naftatööstus
@@ -141,7 +141,7 @@ dv_has_:
     pap: industria di petroli
     pl: przemysł petrochemiczny
     pt: indústria do petróleo
-    pt-br: indústria do petróleo
+    pt_br: indústria do petróleo
     ro: industria petrolieră
     ru: нефтяная промышленность
     sco: petroleum industry
@@ -151,8 +151,8 @@ dv_has_:
     smn: oljoráhtulâšvuotâ
     sq: Industria e naftës së papërpunuar
     sr: нафтна индустрија
-    sr-ec: нафтна индустрија
-    sr-el: naftna industrija
+    sr_ec: нафтна индустрија
+    sr_el: naftna industrija
     sv: oljeindustri
     ta: நில எண்ணெய் தொழிற்சாலை
     te: petrolium
@@ -165,9 +165,9 @@ dv_has_:
     vi: công nghiệp dầu khí
     yue: 石油產業
     zh: 石油产业
-    zh-cn: 石油工业
-    zh-hans: 石油业
-    zh-hant: 石油業
+    zh_cn: 石油工业
+    zh_hans: 石油业
+    zh_hant: 石油業
 ---
 # [[Oil_Industry]]
 

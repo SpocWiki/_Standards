@@ -4,7 +4,7 @@ dv_has_:
     ab: Баҳреин
     ace: Bahrain
     ady: Бахрейн
-    aeb-arab: البحرين
+    aeb_arab: البحرين
     af: Bahrein
     am: ባሕሬን
     ami: Bahrain
@@ -26,7 +26,7 @@ dv_has_:
     bar: Bahrain
     bcl: Bahrein
     be: Бахрэйн
-    be-tarask: Бахрэйн
+    be_tarask: Бахрэйн
     bew: Bahrén
     bg: Бахрейн
     bgn: بهرین
@@ -40,7 +40,7 @@ dv_has_:
     bug: Bahrain
     bxr: Бахрейн
     ca: Bahrain
-    cbk-zam: Bahréin
+    cbk_zam: Bahréin
     cdo: Bahrain
     ce: Бахрейн
     ceb: Bahrayn
@@ -48,7 +48,7 @@ dv_has_:
     ckb: بەحرەین
     co: Bareine
     crh: Bahreyn
-    crh-latn: Bahreyn
+    crh_latn: Bahreyn
     cs: Bahrajn
     csb: Bahrajn
     cv: Бахрейн
@@ -57,7 +57,7 @@ dv_has_:
     dag: Bahrain
     de: Bahrain
     de-at: Bahrain
-    de-ch: Bahrain
+    de_ch: Bahrain
     diq: Behreyn
     dsb: Bahrajn
     dtp: Bahrain
@@ -66,8 +66,8 @@ dv_has_:
     dz: བཧ་རེན་
     el: Μπαχρέιν
     en: Bahrain
-    en-ca: Bahrain
-    en-gb: Bahrain
+    en_ca: Bahrain
+    en_gb: Bahrain
     en-us: Bahrain
     eo: Barejno
     es: Baréin
@@ -90,7 +90,7 @@ dv_has_:
     gn: Varéĩ
     gom: बहरैन
     gom-deva: बहरैन
-    gom-latn: Bahrain
+    gom_latn: Bahrain
     gor: Bahrain
     gpe: Bahrain
     gsw: Bahrain
@@ -155,7 +155,7 @@ dv_has_:
     lzh: 巴林
     mad: Bahrain
     mai: बहाराइन
-    map-bms: Bahrain
+    map_bms: Bahrain
     mdf: Бахрэйн
     mg: Baharainy
     mhr: Бахрейн
@@ -177,7 +177,7 @@ dv_has_:
     nan: Bahrain
     nb: Bahrain
     nds: Bahrain
-    nds-nl: Bagraain
+    nds_nl: Bagraain
     ne: बहराइन
     new: बहरिन
     nl: Bahrein
@@ -199,7 +199,7 @@ dv_has_:
     pnb: بحرین
     ps: بحرین
     pt: Bahrein
-    pt-br: Barém
+    pt_br: Barém
     qu: Bahrayn
     rm: Bahrain
     rmy: Bahrain
@@ -231,8 +231,8 @@ dv_has_:
     so: Baxrayn
     sq: Bahraini
     sr: Бахреин
-    sr-ec: Бахреин
-    sr-el: Bahrein
+    sr_ec: Бахреин
+    sr_el: Bahrein
     ss: IBhaharayi
     stq: Bahrain
     su: Bahrain
@@ -282,12 +282,12 @@ dv_has_:
     zea: Bahrein
     zgh: ⴱⴰⵃⵔⵉⵏ
     zh: 巴林
-    zh-cn: 巴林
-    zh-hans: 巴林
-    zh-hant: 巴林
-    zh-hk: 巴林
+    zh_cn: 巴林
+    zh_hans: 巴林
+    zh_hant: 巴林
+    zh_hk: 巴林
     zh-my: 巴林
-    zh-tw: 巴林
+    zh_tw: 巴林
     zu: i-Bahrain
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Bahrain

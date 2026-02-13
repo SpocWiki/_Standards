@@ -29,7 +29,7 @@ publication_date: 2001-11-06T00:00:00Z
 dv_has_:
   name_:
     ast: Chop Suey!
-    be-tarask: Чоп Суі!
+    be_tarask: Чоп Суі!
     bg: Chop Suey!
     cs: Chop Suey!
     da: Chop Suey!
@@ -55,7 +55,7 @@ dv_has_:
     nl: Chop Suey!
     pl: Chop Suey!
     pt: Chop Suey!
-    pt-br: Chop Suey!
+    pt_br: Chop Suey!
     ru: Chop Suey!
     sk: Chop Suey!
     sl: Chop Suey!

@@ -98,7 +98,7 @@ dv_has_:
     ast: Macaca
     avk: lilkoleem
     be: Макакі
-    be-tarask: макак
+    be_tarask: макак
     bg: макаци
     br: Makak
     ca: Macaco
@@ -138,11 +138,11 @@ dv_has_:
     ka: მაკაკი
     kab: Iddew
     kk: Макактар
-    kk-arab: ماكاكتار
+    kk_arab: ماكاكتار
     kk-cn: ماكاكتار
-    kk-cyrl: Макактар
+    kk_cyrl: Макактар
     kk-kz: Макактар
-    kk-latn: Makaktar
+    kk_latn: Makaktar
     kk-tr: Makaktar
     kn: ಮಕಾಕ್ ಕೋತಿ
     ko: 마카크
@@ -169,7 +169,7 @@ dv_has_:
     pl: makak
     pnb: مکاک
     pt: Macaca
-    pt-br: Macaca
+    pt_br: Macaca
     qu: Makaka
     ro: Macac
     ru: Макаки
@@ -180,8 +180,8 @@ dv_has_:
     sl: makak
     sq: Macaca
     sr: макакији
-    sr-ec: Макакији
-    sr-el: Makakiji
+    sr_ec: Макакији
+    sr_el: Makakiji
     su: Beruk
     sv: Makaker
     sw: Kaku
@@ -196,12 +196,12 @@ dv_has_:
     wuu: 猕猴
     yue: 獼猴
     zh: 猕猴属
-    zh-cn: 猕猴属
-    zh-hans: 猕猴属
-    zh-hant: 獼猴
-    zh-hk: 獼猴
-    zh-sg: 猕猴
-    zh-tw: 獼猴屬
+    zh_cn: 猕猴属
+    zh_hans: 猕猴属
+    zh_hant: 獼猴
+    zh_hk: 獼猴
+    zh_sg: 猕猴
+    zh_tw: 獼猴屬
 ---
 # [[Macaca]] 
 

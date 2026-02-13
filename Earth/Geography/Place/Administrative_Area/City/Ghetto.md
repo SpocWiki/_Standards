@@ -74,7 +74,7 @@ dv_has_:
     az: Getto
     ba: Гетто
     be: гета
-    be-tarask: гета
+    be_tarask: гета
     bg: Гето
     br: Ghetto
     bs: Geto
@@ -108,11 +108,11 @@ dv_has_:
     ja: ゲットー
     ka: გეტო
     kk: Гетто
-    kk-arab: گەتتو
+    kk_arab: گەتتو
     kk-cn: گەتتو
-    kk-cyrl: Гетто
+    kk_cyrl: Гетто
     kk-kz: Гетто
-    kk-latn: Getto
+    kk_latn: Getto
     kk-tr: Getto
     ko: 게토
     ku: Getto
@@ -141,8 +141,8 @@ dv_has_:
     sn: Gheto
     sq: Geto
     sr: Гето
-    sr-ec: Гето
-    sr-el: Geto
+    sr_ec: Гето
+    sr_el: Geto
     sv: getto
     ta: கெட்டோ
     th: เกตโต
@@ -156,12 +156,12 @@ dv_has_:
     yi: געטא
     yue: 隔都
     zh: 隔都
-    zh-cn: 隔都
-    zh-hans: 隔都
-    zh-hant: 隔都
-    zh-hk: 隔都
-    zh-sg: 隔都
-    zh-tw: 隔都
+    zh_cn: 隔都
+    zh_hans: 隔都
+    zh_hant: 隔都
+    zh_hk: 隔都
+    zh_sg: 隔都
+    zh_tw: 隔都
 ---
 # [[Ghetto]] 
 

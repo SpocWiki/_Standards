@@ -109,7 +109,7 @@ dv_has_:
     az: partizan müharibəsi
     bar: Guerillakriag
     be: Партызанская вайна
-    be-tarask: партызанская вайна
+    be_tarask: партызанская вайна
     bg: Партизанска война
     bn: গেরিলা যুদ্ধ তৎপরতা
     br: Gouvrezel
@@ -120,12 +120,12 @@ dv_has_:
     cy: Rhyfela herwfilwrol
     da: guerillakrig
     de: Guerilla
-    de-ch: Guerilla
+    de_ch: Guerilla
     dsb: partizańska wójna
     el: Ανταρτοπόλεμος
     en: guerrilla warfare
-    en-ca: guerrilla warfare
-    en-gb: guerrilla warfare
+    en_ca: guerrilla warfare
+    en_gb: guerrilla warfare
     eo: gerilo
     es: guerra de guerrillas
     et: Sissisõda
@@ -170,7 +170,7 @@ dv_has_:
     pl: wojna partyzancka
     pnb: گوریلا جنگ
     pt: guerrilha
-    pt-br: Guerrilha
+    pt_br: Guerrilha
     ro: gherilă
     ru: Партизанская война
     sco: guerrilla warfare

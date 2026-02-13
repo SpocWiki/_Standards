@@ -49,7 +49,7 @@ dv_has_:
     oc: Siphonostomatoida
     pl: Siphonostomatoida
     pt: Siphonostomatoida
-    pt-br: Siphonostomatoida
+    pt_br: Siphonostomatoida
     rm: Siphonostomatoida
     ro: Siphonostomatoida
     ru: Siphonostomatoida
@@ -62,9 +62,9 @@ dv_has_:
     vo: Siphonostomatoida
     war: Siphonostomatoida
     zh: 管口水蚤目
-    zh-cn: 管口水蚤目
-    zh-hans: 管口水蚤目
-    zh-tw: 管口水蚤目
+    zh_cn: 管口水蚤目
+    zh_hans: 管口水蚤目
+    zh_tw: 管口水蚤目
 ---
 # [[Siphonostomatoida]] 
 

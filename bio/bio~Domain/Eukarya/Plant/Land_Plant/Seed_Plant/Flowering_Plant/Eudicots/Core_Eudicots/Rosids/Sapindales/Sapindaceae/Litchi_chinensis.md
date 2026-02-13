@@ -153,7 +153,7 @@ dv_has_:
     az: Liçi
     bcl: Litsiyas
     be: Лічы
-    be-tarask: лічы
+    be_tarask: лічы
     bg: китайско личи
     bho: लीची
     bi: Leji
@@ -169,8 +169,8 @@ dv_has_:
     de: Litschibaum
     el: λίτσι
     en: Litchi chinensis
-    en-ca: Lychee
-    en-gb: lychee
+    en_ca: Lychee
+    en_gb: lychee
     eo: Liĉio
     es: Litchi chinensis
     et: litši
@@ -231,7 +231,7 @@ dv_has_:
     pl: Liczi chińskie
     pnb: لِچی
     pt: Litchi chinensis
-    pt-br: Litchi chinensis
+    pt_br: Litchi chinensis
     qu: Litchi
     ro: Lici
     roa-tara: lici
@@ -266,11 +266,11 @@ dv_has_:
     yue: 荔枝
     za: Laehcei
     zh: 荔枝
-    zh-cn: 荔枝
-    zh-hans: 荔枝
-    zh-hant: 荔枝
-    zh-hk: 荔枝
-    zh-tw: 荔枝
+    zh_cn: 荔枝
+    zh_hans: 荔枝
+    zh_hant: 荔枝
+    zh_hk: 荔枝
+    zh_tw: 荔枝
 ---
 # [[Litchi_chinensis]] 
 

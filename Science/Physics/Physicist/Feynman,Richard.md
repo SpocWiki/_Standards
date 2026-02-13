@@ -203,7 +203,7 @@ dv_has_:
     az: Riçard Feynman
     azb: ریچارد فاینمن
     be: Рычард Філіпс Фейнман
-    be-tarask: Рычард Фэйнман
+    be_tarask: Рычард Фэйнман
     bg: Ричард Файнман
     bho: रिचर्ड फेयनमन
     bn: রিচার্ড ফাইনম্যান
@@ -215,11 +215,11 @@ dv_has_:
     da: Richard Feynman
     dag: Richard Feynman
     de: Richard Feynman
-    de-ch: Richard Feynman
+    de_ch: Richard Feynman
     el: Ρίτσαρντ Φίλλιπς Φάινμαν
     en: Richard Feynman
-    en-ca: Richard Feynman
-    en-gb: Richard Feynman
+    en_ca: Richard Feynman
+    en_gb: Richard Feynman
     eo: Richard Feynman
     es: Richard Feynman
     et: Richard Feynman
@@ -282,7 +282,7 @@ dv_has_:
     pnb: رچرڈ فائنمین
     ps: ريچارډ فاينمن
     pt: Richard Feynman
-    pt-br: Richard Feynman
+    pt_br: Richard Feynman
     qu: Richard Feynman
     ro: Richard Feynman
     ru: Ричард Филлипс Фейнман
@@ -315,9 +315,9 @@ dv_has_:
     yo: Richard Feynman
     yue: 理察費曼
     zh: 理查德·菲利普斯·費曼
-    zh-cn: 理查德·费曼
-    zh-hans: 理查德·费曼
-    zh-hk: 李察·費曼
+    zh_cn: 理查德·费曼
+    zh_hans: 理查德·费曼
+    zh_hk: 李察·費曼
 ---
 # [[Feynman,Richard]] 
 

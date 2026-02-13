@@ -121,7 +121,7 @@ dv_has_:
     pl: Ignaz Semmelweis
     ps: اېګناز زېملوایس
     pt: Ignaz Semmelweis
-    pt-br: Ignaz Semmelweis
+    pt_br: Ignaz Semmelweis
     ro: Ignaz Semmelweis
     ru: Игнац Филипп Земмельвейс
     rue: Игнац Семмелвейс
@@ -145,8 +145,8 @@ dv_has_:
     wuu: 伊格纳兹·塞麦尔维斯
     xmf: იგნაც სემელვეისი
     zh: 伊格纳兹·塞麦尔维斯
-    zh-cn: 伊格纳兹·塞麦尔维斯
-    zh-hant: 伊格納茲·菲利普·塞麥爾維斯
+    zh_cn: 伊格纳兹·塞麦尔维斯
+    zh_hant: 伊格納茲·菲利普·塞麥爾維斯
 ---
 # [[Semmelweis,Ignaz]] 
 

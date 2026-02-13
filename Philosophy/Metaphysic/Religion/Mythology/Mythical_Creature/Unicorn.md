@@ -121,7 +121,7 @@ dv_has_:
     ast: unicorniu
     az: Təkbuynuz
     be: Аднарог
-    be-tarask: аднарог
+    be_tarask: аднарог
     bg: Еднорог
     bn: ইউনিকর্ন
     br: Unkorneg
@@ -132,11 +132,11 @@ dv_has_:
     cy: uncorn
     da: enhjørning
     de: Einhorn
-    de-ch: Einhorn
+    de_ch: Einhorn
     el: Μονόκερως
     en: unicorn
-    en-ca: Unicorn
-    en-gb: unicorn
+    en_ca: Unicorn
+    en_gb: unicorn
     eo: unukornulo
     es: unicornio
     et: Ükssarvik
@@ -186,7 +186,7 @@ dv_has_:
     pa: ਇਕਸਿੰਗਾ
     pl: jednorożec
     pt: unicórnio
-    pt-br: Unicórnio
+    pt_br: Unicórnio
     qu: Inku
     ro: inorog
     ru: единорог
@@ -215,8 +215,8 @@ dv_has_:
     wuu: 独角兽
     yue: 獨角獸
     zh: 独角兽
-    zh-hans: 独角兽
-    zh-hant: 獨角獸
+    zh_hans: 独角兽
+    zh_hant: 獨角獸
 ---
 # [[Unicorn]] 
 

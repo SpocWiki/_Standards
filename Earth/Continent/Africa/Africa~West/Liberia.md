@@ -502,7 +502,7 @@ dv_has_:
     ab: Либериа
     ace: Liberia
     ady: Либерие
-    aeb-arab: ليبيريا
+    aeb_arab: ليبيريا
     af: Liberië
     am: ላይቤሪያ
     ami: Liberia
@@ -522,7 +522,7 @@ dv_has_:
     bar: Liberia
     bcl: Libirya
     be: Ліберыя
-    be-tarask: Лібэрыя
+    be_tarask: Лібэрыя
     bew: Libéria
     bg: Либерия
     bho: लाइबेरिया
@@ -536,7 +536,7 @@ dv_has_:
     bs: Liberija
     bxr: Либери
     ca: Libèria
-    cbk-zam: Liberia
+    cbk_zam: Liberia
     cdo: Liberia
     ce: Либери
     ceb: Liberia
@@ -544,7 +544,7 @@ dv_has_:
     ckb: لیبێریا
     co: Liberia
     crh: Liberiya
-    crh-latn: Liberiya
+    crh_latn: Liberiya
     cs: Libérie
     csb: Liberiô
     cv: Либери
@@ -559,8 +559,8 @@ dv_has_:
     ee: Liberia
     el: Λιβερία
     en: Liberia
-    en-ca: Liberia
-    en-gb: Liberia
+    en_ca: Liberia
+    en_gb: Liberia
     en-us: Liberia
     eo: Liberio
     es: Liberia
@@ -662,7 +662,7 @@ dv_has_:
     nan: Liberia
     nb: Liberia
     nds: Liberia
-    nds-nl: Liberië
+    nds_nl: Liberië
     ne: लाईबेरिया
     new: लाइबेरिया
     nl: Liberia
@@ -687,7 +687,7 @@ dv_has_:
     pnb: لائیبیریا
     ps: لايبېريا
     pt: Libéria
-    pt-br: Libéria
+    pt_br: Libéria
     qu: Libirya
     rm: Liberia
     rmy: Liberiya
@@ -717,8 +717,8 @@ dv_has_:
     so: Liberia
     sq: Liberia
     sr: Либерија
-    sr-ec: Либерија
-    sr-el: Liberija
+    sr_ec: Либерија
+    sr_el: Liberija
     ss: ILibheriya
     st: Liberia
     stq: Liberia
@@ -764,13 +764,13 @@ dv_has_:
     zea: Liberia
     zgh: ⵍⵉⴱⵉⵔⵢⴰ
     zh: 利比里亞
-    zh-cn: 利比里亚
-    zh-hans: 利比里亚
-    zh-hant: 賴比瑞亞
-    zh-hk: 利比里亞
-    zh-mo: 利比里亞
-    zh-sg: 利比里亚
-    zh-tw: 賴比瑞亞
+    zh_cn: 利比里亚
+    zh_hans: 利比里亚
+    zh_hant: 賴比瑞亞
+    zh_hk: 利比里亞
+    zh_mo: 利比里亞
+    zh_sg: 利比里亚
+    zh_tw: 賴比瑞亞
     zu: ILiberia
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Liberia

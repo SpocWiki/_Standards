@@ -139,7 +139,7 @@ dv_has_:
     az: Skandinaviya yarımadası
     ba: Скандинавия ярымутрауы
     be: Скандынаўскі паўвостраў
-    be-tarask: Скандынаўскі паўвостраў
+    be_tarask: Скандынаўскі паўвостраў
     bg: Скандинавски полуостров
     bs: Skandinavsko poluostrvo
     ca: Península Escandinava
@@ -188,7 +188,7 @@ dv_has_:
     my: စကင်ဒီနေးဗီးယားကျွန်းဆွယ်
     nan: Skandinavia Poàn-tó
     nb: Den skandinaviske halvøy
-    nds-nl: Skandinavisk skyreiland
+    nds_nl: Skandinavisk skyreiland
     ne: स्क्यान्डिनेभियाली प्रायद्वीप
     nl: Scandinavisch Schiereiland
     nn: Den skandinaviske halvøya

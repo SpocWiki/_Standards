@@ -228,7 +228,7 @@ dv_has_:
     ba: Кимереүселәр
     bar: Nogeviecha
     be: грызуны
-    be-tarask: грызуны
+    be_tarask: грызуны
     bew: Héwan kerat-kerit
     bg: гризачи
     bn: তীক্ষ্ণদন্তী
@@ -247,8 +247,8 @@ dv_has_:
     dsb: Gryzarje
     el: Τρωκτικά
     en: Rodentia
-    en-ca: Rodent
-    en-gb: rodent
+    en_ca: Rodent
+    en_gb: rodent
     en-us: rodents
     eo: Ronĝuloj
     es: Rodentia
@@ -316,7 +316,7 @@ dv_has_:
     nap: Rescecature
     nb: gnagere
     nds: Gnaagdeerter
-    nds-nl: Rodentia
+    nds_nl: Rodentia
     ne: लोखर्के
     new: छुँ (रोदेन्त)
     nl: knaagdieren
@@ -332,7 +332,7 @@ dv_has_:
     pms: Rodentia
     pnb: کترے میمل
     pt: Roedores
-    pt-br: Roedores
+    pt_br: Roedores
     qu: Khankiq
     ro: Rozătoare
     ru: грызуны
@@ -370,10 +370,10 @@ dv_has_:
     yi: נאגער
     yue: 嚙齒目
     zh: 啮齿目
-    zh-cn: 啮齿目
-    zh-hans: 啮齿目
-    zh-hk: 嚙齒目
-    zh-tw: 嚙齒目
+    zh_cn: 啮齿目
+    zh_hans: 啮齿目
+    zh_hk: 嚙齒目
+    zh_tw: 嚙齒目
     zu: Iziququdi
 ---
 # Rodentia

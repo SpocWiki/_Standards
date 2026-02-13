@@ -38,11 +38,11 @@ dv_has_:
     da: Mike Oldfield
     dag: Mike Oldfield
     de: Mike Oldfield
-    de-ch: Mike Oldfield
+    de_ch: Mike Oldfield
     el: Μάικ Όλντφιλντ
     en: Mike Oldfield
-    en-ca: Mike Oldfield
-    en-gb: Mike Oldfield
+    en_ca: Mike Oldfield
+    en_gb: Mike Oldfield
     eo: Mike Oldfield
     es: Mike Oldfield
     et: Mike Oldfield
@@ -76,7 +76,7 @@ dv_has_:
     oc: Mike Oldfield
     pl: Mike Oldfield
     pt: Mike Oldfield
-    pt-br: Mike Oldfield
+    pt_br: Mike Oldfield
     ro: Mike Oldfield
     ru: Майк Олдфилд
     sh: Mike Oldfield
@@ -89,7 +89,7 @@ dv_has_:
     tr: Mike Oldfield
     uk: Майк Олдфілд
     zh: 麦克·欧菲尔德
-    zh-hant: 麥克·歐菲爾德
+    zh_hant: 麥克·歐菲爾德
 ---
 # [[Oldfield,Mike]] 
 

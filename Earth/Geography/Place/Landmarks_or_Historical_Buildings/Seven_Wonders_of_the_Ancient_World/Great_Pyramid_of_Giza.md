@@ -190,7 +190,7 @@ dv_has_:
     azb: جیزه هرمی
     ba: Хеопс пирамидаһы
     be: Піраміда Хеопса
-    be-tarask: Піраміда Хеопса
+    be_tarask: Піраміда Хеопса
     bg: Хеопсова пирамида
     bn: গিজার মহা পিরামিড
     br: Piramidenn vras Gizah
@@ -203,12 +203,12 @@ dv_has_:
     cy: Pyramid Mawr Giza
     da: Den store pyramide i Giza
     de: Cheops-Pyramide
-    de-ch: Cheops-Pyramide
+    de_ch: Cheops-Pyramide
     dv: ޚޫފޫ ޕިރަމިޑް
     el: Πυραμίδα του Χέοπα
     en: Great Pyramid of Giza
-    en-ca: Great Pyramid of Giza
-    en-gb: Great Pyramid of Giza
+    en_ca: Great Pyramid of Giza
+    en_gb: Great Pyramid of Giza
     en-us: Great Pyramid of Giza
     eo: Piramido de Keopso
     es: Gran pirámide de Giza
@@ -259,7 +259,7 @@ dv_has_:
     nan: Giza ê Tōa Kim-jī-thah
     nap: Piramide 'e Cheope
     nb: Kheopspyramiden
-    nds-nl: Piramide van Kheops
+    nds_nl: Piramide van Kheops
     ne: मिश्रको पिरामिड
     new: गिजायागु पिरामिड
     nl: Piramide van Cheops
@@ -271,7 +271,7 @@ dv_has_:
     pnb: خوفو دا ہرم
     ps: د جیزه لوی هرم
     pt: Pirâmide de Quéops
-    pt-br: Pirâmide de Quéops
+    pt_br: Pirâmide de Quéops
     qu: Giza hatun chuntu
     ro: Marea Piramidă din Giza
     ru: Пирамида Хеопса
@@ -283,7 +283,7 @@ dv_has_:
     sl: Keopsova piramida
     sq: Piramida e Keopsit
     sr: Кеопсова пирамида
-    sr-ec: Кеопсова пирамида
+    sr_ec: Кеопсова пирамида
     sv: Cheopspyramiden
     szl: Wielgŏ Piyramida we Gizie
     ta: கிசாவின் பெரிய பிரமிட்
@@ -305,8 +305,8 @@ dv_has_:
     yue: 胡夫金字塔
     zea: Piramide van Cheops
     zh: 胡夫金字塔
-    zh-hant: 古夫金字塔
-    zh-tw: 古夫金字塔
+    zh_hant: 古夫金字塔
+    zh_tw: 古夫金字塔
 ---
 # [[Great_Pyramid_of_Giza]] 
 

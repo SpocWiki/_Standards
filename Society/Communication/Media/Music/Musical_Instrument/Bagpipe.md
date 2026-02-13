@@ -115,7 +115,7 @@ dv_has_:
     arz: مزمار القرب
     ast: gaita
     be: валынка
-    be-tarask: дуда
+    be_tarask: дуда
     bg: гайда
     br: binioù
     ca: cornamusa
@@ -127,8 +127,8 @@ dv_has_:
     de: Sackpfeife
     el: άσκαυλος
     en: bagpipe
-    en-ca: bagpipes
-    en-gb: bagpipes
+    en_ca: bagpipes
+    en_gb: bagpipes
     eo: sakŝalmo
     es: gaita
     et: torupill
@@ -173,7 +173,7 @@ dv_has_:
     os: лалым уадындз
     pl: dudy
     pt: gaita de foles
-    pt-br: gaita de fole
+    pt_br: gaita de fole
     ro: cimpoi
     ru: волынка
     sco: bagpipe
@@ -183,8 +183,8 @@ dv_has_:
     sl: dude
     smn: siâkknjurggnjõs
     sr: гајде
-    sr-ec: гајде
-    sr-el: gajde
+    sr_ec: гајде
+    sr_el: gajde
     sv: säckpipa
     tg: волинка
     th: แบ็กไพป์
@@ -198,8 +198,8 @@ dv_has_:
     wuu: 风笛
     yue: 風笛
     zh: 风笛
-    zh-hant: 風笛
-    zh-tw: 風笛
+    zh_hant: 風笛
+    zh_tw: 風笛
 ---
 # [[Bagpipe]] 
 

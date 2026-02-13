@@ -105,7 +105,7 @@ dv_has_:
     ban: Llama
     bcl: Llama
     be: лама
-    be-tarask: ляма
+    be_tarask: ляма
     bg: лама
     bn: লামা
     br: Lama
@@ -117,7 +117,7 @@ dv_has_:
     de: Lama
     el: Λάμα
     en: Lama glama
-    en-gb: llama
+    en_gb: llama
     eo: Lamo
     es: llama
     et: laama
@@ -173,7 +173,7 @@ dv_has_:
     pnb: لاما
     ps: لاما
     pt: Lhama
-    pt-br: lhama
+    pt_br: lhama
     qu: llama
     ro: Lamă
     ru: лама
@@ -185,7 +185,7 @@ dv_has_:
     sl: Lama
     sq: Lama glama
     sr: лама
-    sr-ec: лама
+    sr_ec: лама
     stq: Lama (Kamäil)
     sv: Lama
     sw: Lama
@@ -205,8 +205,8 @@ dv_has_:
     wuu: 大羊驼
     yue: 大羊駝
     zh: 大羊駝
-    zh-cn: 大羊驼
-    zh-hans: 大羊驼
+    zh_cn: 大羊驼
+    zh_hans: 大羊驼
 ---
 # [[Llama]] 🦙 
 

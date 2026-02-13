@@ -109,7 +109,7 @@ dv_has_:
     az: triqonometrik funksiyalar
     ba: тригонометрик функциялар
     be: трыганаметрычныя функцыі
-    be-tarask: трыганамэтрычная функцыя
+    be_tarask: трыганамэтрычная функцыя
     bg: тригонометрична функция
     bn: ত্রিকোণমিতিক অপেক্ষক
     bs: trigonometrijske funkcije
@@ -161,7 +161,7 @@ dv_has_:
     pl: funkcje trygonometryczne
     pms: fonsion trigonométrica
     pt: função trigonométrica
-    pt-br: função trigonométrica
+    pt_br: função trigonométrica
     ro: funcție trigonometrică
     ru: тригонометрическая функция
     sco: trigonometric function
@@ -174,12 +174,12 @@ dv_has_:
     sms: trigonomeetrlaž funktio
     sq: funksionet trigonometrike
     sr: тригонометријска функција
-    sr-ec: тригонометријске функције
-    sr-el: trigonometrijske funkcije
+    sr_ec: тригонометријске функције
+    sr_el: trigonometrijske funkcije
     sv: trigonometrisk funktion
     ta: முக்கோணவியல் சார்புகள்
     tg: функсияҳои тригонометрӣ
-    tg-latn: funksijahoi trigonometrī
+    tg_latn: funksijahoi trigonometrī
     th: ฟังก์ชันตรีโกณมิติ
     tok: ante nanpa kiki
     tr: trigonometrik fonksiyonlar
@@ -190,13 +190,13 @@ dv_has_:
     wuu: 三角函数
     yue: 三角函數
     zh: 三角函數
-    zh-cn: 三角函数
-    zh-hans: 三角函数
-    zh-hant: 三角函數
-    zh-hk: 三角函數
-    zh-mo: 三角函數
-    zh-sg: 三角函数
-    zh-tw: 三角函數
+    zh_cn: 三角函数
+    zh_hans: 三角函数
+    zh_hant: 三角函數
+    zh_hk: 三角函數
+    zh_mo: 三角函數
+    zh_sg: 三角函数
+    zh_tw: 三角函數
 ---
 # [[Trigonometric_Function]]  
 

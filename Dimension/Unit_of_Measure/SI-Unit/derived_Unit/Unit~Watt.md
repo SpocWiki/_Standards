@@ -52,7 +52,7 @@ dv_has_:
     az: vatt
     ba: ватт
     be: ват
-    be-tarask: ват
+    be_tarask: ват
     bg: ват
     bn: ওয়াট
     bo: ཝ་ཐི།
@@ -114,7 +114,7 @@ dv_has_:
     mn: ватт
     mr: वॅट
     ms: watt
-    ms-arab: وات
+    ms_arab: وات
     mt: watt
     mul: watt
     my: ဝပ်
@@ -131,7 +131,7 @@ dv_has_:
     pms: watt
     pnb: واٹ
     pt: watt
-    pt-br: watt
+    pt_br: watt
     ro: watt
     roa-tara: watt
     rsk: Ват (мера за моц)
@@ -147,7 +147,7 @@ dv_has_:
     smn: watti
     sq: watt
     sr: ват
-    sr-ec: Ват
+    sr_ec: Ват
     sv: watt
     sw: wati
     ta: வாட்
@@ -157,7 +157,7 @@ dv_has_:
     tl: watt
     tr: watt
     tt: ватт
-    tt-cyrl: ватт
+    tt_cyrl: ватт
     tyv: ватт
     udm: ватт
     uk: ват
@@ -171,11 +171,11 @@ dv_has_:
     wuu: 瓦特
     yue: 瓦
     zh: 瓦特
-    zh-cn: 瓦特
-    zh-hans: 瓦特
-    zh-hant: 瓦特
-    zh-hk: 瓦特
-    zh-tw: 瓦特
+    zh_cn: 瓦特
+    zh_hans: 瓦特
+    zh_hant: 瓦特
+    zh_hk: 瓦特
+    zh_tw: 瓦特
 ---
 # [[Unit~Watt]] 
 

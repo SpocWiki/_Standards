@@ -39,7 +39,7 @@ dv_has_:
     az: Aton
     azb: آتون
     be: Атон
-    be-tarask: Атон
+    be_tarask: Атон
     bg: Атон
     bho: अतेन
     bn: আতেন
@@ -97,8 +97,8 @@ dv_has_:
     skr: آتون
     sl: Aton
     sr: Атон
-    sr-ec: Атон
-    sr-el: Aton
+    sr_ec: Атон
+    sr_el: Aton
     sv: Aton
     sw: Aten
     ta: அதின்
@@ -115,12 +115,12 @@ dv_has_:
     xmf: ატონი
     yue: 阿頓
     zh: 阿頓
-    zh-cn: 阿吞
-    zh-hans: 阿顿
-    zh-hant: 阿頓
-    zh-hk: 阿頓
-    zh-sg: 阿顿
-    zh-tw: 阿頓
+    zh_cn: 阿吞
+    zh_hans: 阿顿
+    zh_hant: 阿頓
+    zh_hk: 阿頓
+    zh_sg: 阿顿
+    zh_tw: 阿頓
 ---
 # [[Aten]] 
 

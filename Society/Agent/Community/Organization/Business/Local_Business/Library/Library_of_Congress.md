@@ -429,7 +429,7 @@ dv_has_:
     az: ABŞ Konqres Kitabxanası
     ba: Конгресс китапханаһы
     be: Бібліятэка Кангрэса
-    be-tarask: Бібліятэка Кангрэсу
+    be_tarask: Бібліятэка Кангрэсу
     bg: Библиотека на Конгреса
     bn: লাইব্রেরি অব কংগ্রেস
     br: Library of Congress
@@ -445,7 +445,7 @@ dv_has_:
     diq: Kutıbxaney Kongrey
     el: Βιβλιοθήκη του Κογκρέσου
     en: Library of Congress
-    en-gb: Library of Congress
+    en_gb: Library of Congress
     eo: Kongresa Biblioteko
     es: Biblioteca del Congreso de Estados Unidos
     et: USA Kongressi raamatukogu
@@ -496,7 +496,7 @@ dv_has_:
     pnb: کانگرس لائیبریری
     ps: کانګرس کتابتون
     pt: Biblioteca do Congresso
-    pt-br: Biblioteca do Congresso
+    pt_br: Biblioteca do Congresso
     ro: Biblioteca Congresului Statelor Unite ale Americii
     ru: Библиотека Конгресса
     sh: Kongresna biblioteka
@@ -504,8 +504,8 @@ dv_has_:
     sk: Library of Congress
     sl: Kongresna knjižnica
     sr: Конгресна библиотека
-    sr-ec: Конгресна библиотека
-    sr-el: Kongresna biblioteka
+    sr_ec: Конгресна библиотека
+    sr_el: Kongresna biblioteka
     sv: USA:s kongressbibliotek
     ta: அமெரிக்கக் காங்கிரசு நூலகம்
     te: యునైటెడ్ స్టేట్స్ లైబ్రరీ ఆఫ్ కాంగ్రెస్
@@ -523,14 +523,14 @@ dv_has_:
     xmf: კონგრესიშ ბიბლიოთეკა
     yue: 國會圖書館
     zh: 美國國會圖書館
-    zh-cn: 美国国会图书馆
-    zh-hans: 美国国会图书馆
-    zh-hant: 美國國會圖書館
-    zh-hk: 美國國會圖書館
-    zh-mo: 美國國會圖書館
+    zh_cn: 美国国会图书馆
+    zh_hans: 美国国会图书馆
+    zh_hant: 美國國會圖書館
+    zh_hk: 美國國會圖書館
+    zh_mo: 美國國會圖書館
     zh-my: 美国国会图书馆
-    zh-sg: 美国国会图书馆
-    zh-tw: 美國國會圖書館
+    zh_sg: 美国国会图书馆
+    zh_tw: 美國國會圖書館
 ---
 # [[Library_of_Congress]] 
 

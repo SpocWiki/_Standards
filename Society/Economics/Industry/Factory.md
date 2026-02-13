@@ -135,13 +135,13 @@ dv_has_:
     ba: фабрика, завод
     bcl: Pabrika
     be: фабрыка
-    be-tarask: фабрыка
+    be_tarask: фабрыка
     bg: Завод
     bn: কারখানা
     br: uzin
     bs: fabrika
     ca: fàbrica
-    cbk-zam: fábrica
+    cbk_zam: fábrica
     ceb: fabrika
     ckb: کارخانە
     cs: továrna
@@ -150,12 +150,12 @@ dv_has_:
     da: fabrik
     dag: feela duu
     de: Fabrik
-    de-ch: Fabrik
+    de_ch: Fabrik
     el: εργοστάσιο
     eml: Fàbrica
     en: factory
-    en-ca: Factory
-    en-gb: factory
+    en_ca: Factory
+    en_gb: factory
     eo: fabriko
     es: fábrica
     et: vabrik
@@ -205,7 +205,7 @@ dv_has_:
     mni: ꯄꯣꯠꯁꯥꯁꯪ
     mr: कारखाना
     ms: kilang
-    ms-arab: کيلڠ
+    ms_arab: کيلڠ
     my: စက်ရုံ
     myv: Тевдаз
     mzn: کارخنه
@@ -217,7 +217,7 @@ dv_has_:
     pa: ਕਾਰਖ਼ਾਨਾ
     pl: fabryka
     pt: fábrica
-    pt-br: fábrica
+    pt_br: fábrica
     qu: Phawrika
     ro: fabrică
     ru: фабрика
@@ -233,8 +233,8 @@ dv_has_:
     sms: fabrikk
     sq: fabrikë
     sr: фабрика
-    sr-ec: фабрика
-    sr-el: fabrika
+    sr_ec: фабрика
+    sr_el: fabrika
     sv: fabrik
     sw: Kiwanda
     ta: தொழிற்சாலை
@@ -254,8 +254,8 @@ dv_has_:
     wuu: 工厂
     yue: 工廠
     zh: 工廠
-    zh-hans: 工厂
-    zh-hant: 工廠
+    zh_hans: 工厂
+    zh_hant: 工廠
     zu: Umkhando
 ---
 # [[Factory]] 🏭 

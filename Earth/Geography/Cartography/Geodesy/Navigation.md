@@ -116,7 +116,7 @@ dv_has_:
     ba: навигация
     bcl: Nabigasyon
     be: навігацыя
-    be-tarask: навігацыя
+    be_tarask: навігацыя
     bg: навигация
     bn: দিক নির্ণয়
     br: merdeadurezh
@@ -126,11 +126,11 @@ dv_has_:
     cy: mordwyo
     da: navigation
     de: Navigation
-    de-ch: Navigation
+    de_ch: Navigation
     el: ναυσιπλοΐα
     en: navigation
-    en-ca: navigation
-    en-gb: navigation
+    en_ca: navigation
+    en_gb: navigation
     en-us: navigation
     eo: navigado
     es: navegación
@@ -153,11 +153,11 @@ dv_has_:
     ja: 航法
     ka: ნავიგაცია
     kk: навигация
-    kk-arab: ناۆىيگاتسىييا
+    kk_arab: ناۆىيگاتسىييا
     kk-cn: ناۆىيگاتسىييا
-    kk-cyrl: навигация
+    kk_cyrl: навигация
     kk-kz: навигация
-    kk-latn: navïgacïya
+    kk_latn: navïgacïya
     kk-tr: navïgacïya
     kn: ನೌಕಾಯಾನ ಶಾಸ್ತ್ರ
     ko: 항법
@@ -179,7 +179,7 @@ dv_has_:
     pa: ਨੇਵੀਗੇਸ਼ਨ
     pl: nawigacja
     pt: navegação
-    pt-br: navegação
+    pt_br: navegação
     ro: orientare
     ru: навигация
     sah: навигация
@@ -189,8 +189,8 @@ dv_has_:
     sl: navigacija
     sq: lundrimi
     sr: навигација
-    sr-ec: навигација
-    sr-el: navigacija
+    sr_ec: навигација
+    sr_el: navigacija
     sv: navigering
     te: నావిగేషన్
     tg: новбарӣ
@@ -204,12 +204,12 @@ dv_has_:
     yi: נאוויגאציע
     yue: 導航
     zh: 導航
-    zh-cn: 导航
-    zh-hans: 航海
-    zh-hant: 航海
-    zh-hk: 航海
-    zh-sg: 航海
-    zh-tw: 航海
+    zh_cn: 导航
+    zh_hans: 航海
+    zh_hant: 航海
+    zh_hk: 航海
+    zh_sg: 航海
+    zh_tw: 航海
 ---
 # [[Navigation]] 
 

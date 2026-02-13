@@ -102,7 +102,7 @@ dv_has_:
     ast: ecuación de Schrödinger
     az: Şrödinger tənliyi
     be: ураўненне Шродзінгера
-    be-tarask: раўнаньне Шрэдынгера
+    be_tarask: раўнаньне Шрэдынгера
     bg: Уравнение на Шрьодингер
     bn: শ্রোডিঙার সমীকরণ
     bs: Schrödingerova jednačina
@@ -176,12 +176,12 @@ dv_has_:
     yi: שרעדינגער גלייכונג
     yue: 薛定諤方程式
     zh: 薛定谔方程
-    zh-cn: 薛定谔方程
-    zh-hans: 薛定谔方程
-    zh-hant: 薛定諤方程
-    zh-hk: 薛定諤方程式
-    zh-sg: 薛定谔方程
-    zh-tw: 薛丁格方程式
+    zh_cn: 薛定谔方程
+    zh_hans: 薛定谔方程
+    zh_hant: 薛定諤方程
+    zh_hk: 薛定諤方程式
+    zh_sg: 薛定谔方程
+    zh_tw: 薛丁格方程式
 ---
 # [[Schrödinger_Equation]] 
 

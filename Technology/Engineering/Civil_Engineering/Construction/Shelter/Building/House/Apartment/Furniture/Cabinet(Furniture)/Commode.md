@@ -6,7 +6,7 @@ dv_has_:
     ast: cómoda
     ba: комод
     be: камод
-    be-tarask: камода
+    be_tarask: камода
     ca: calaixera
     csb: kòmóda
     da: kommode
@@ -29,11 +29,11 @@ dv_has_:
     lb: kommoud
     nap: culunnetta
     nb: kommode
-    nds-nl: ankleedtafel
+    nds_nl: ankleedtafel
     nl: commode
     pl: komoda
     pt: cômoda
-    pt-br: cômoda
+    pt_br: cômoda
     ru: комод
     scn: cantaranu
     sl: komoda

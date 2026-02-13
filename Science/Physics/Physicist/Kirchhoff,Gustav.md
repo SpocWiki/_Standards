@@ -169,7 +169,7 @@ dv_has_:
     az: Qustav Kirxhof
     azb: قوستاو کیرشهف
     be: Густаў Кірхгоф
-    be-tarask: Густаў Кірхгоф
+    be_tarask: Густаў Кірхгоф
     bg: Густав Кирхоф
     bn: গুস্টাফ কিরশফ
     bs: Gustav Kirchhoff
@@ -223,7 +223,7 @@ dv_has_:
     pl: Gustav Kirchhoff
     pnb: گستاف کرخہوف
     pt: Gustav Kirchhoff
-    pt-br: Gustav Kirchhoff
+    pt_br: Gustav Kirchhoff
     ro: Gustav Robert Kirchhoff
     ru: Густав Роберт Кирхгоф
     sco: Gustav Kirchhoff
@@ -233,7 +233,7 @@ dv_has_:
     sl: Gustav Robert Kirchhoff
     sq: Gustav Robert Kirchhoff
     sr: Густаф Кирхоф
-    sr-ec: Густаф Кирхоф
+    sr_ec: Густаф Кирхоф
     su: Gustav Kirchhoff
     sv: Gustav Kirchhoff
     sw: Gustav Kirchhoff
@@ -251,7 +251,7 @@ dv_has_:
     xmf: გუსტავ კირხჰოფი
     yue: 克希荷夫
     zh: 古斯塔夫·基爾霍夫
-    zh-hant: 基爾霍夫
+    zh_hant: 基爾霍夫
 ---
 # [[Kirchhoff,Gustav]] 
 

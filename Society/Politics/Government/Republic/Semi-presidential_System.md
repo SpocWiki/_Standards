@@ -103,7 +103,7 @@ dv_has_:
     az: Yarı prezident respublikası
     ba: ҡатнаш республика
     be: змяшаная рэспубліка
-    be-tarask: зьмяшаная рэспубліка
+    be_tarask: зьмяшаная рэспубліка
     bg: Полупрезидентска република
     bn: অর্ধ-রাষ্ট্রপতিশাসিত ব্যবস্থা
     bs: polupredsjednički sistem
@@ -111,13 +111,13 @@ dv_has_:
     cs: poloprezidentská republika
     da: semipræsidentialisme
     de: Semipräsidentielles Regierungssystem
-    de-ch: Semipräsidentielles Regierungssystem
+    de_ch: Semipräsidentielles Regierungssystem
     diq: Sistemê serdareya nimeyın
     dv: ނިޞްފު-ރިޔާސީ ނިޒާމު
     el: Ημιπροεδρικό σύστημα
     en: semi-presidential system
-    en-ca: Semi-presidential system
-    en-gb: semi-presidential system
+    en_ca: Semi-presidential system
+    en_gb: semi-presidential system
     en-us: semi-presidential system
     eo: duonprezidenta sistemo
     es: semipresidencialismo
@@ -161,7 +161,7 @@ dv_has_:
     os: Æрдæгпрезидентон системæ
     pl: system semiprezydencki
     pt: semipresidencialismo
-    pt-br: semipresidencialismo
+    pt_br: semipresidencialismo
     ro: sistem semi-prezidențial
     ru: смешанная республика
     sco: semi-presidential seestem
@@ -175,8 +175,8 @@ dv_has_:
     sms: semipresidentialismm
     sq: Republika gjysmë presidenciale
     sr: полупредседнички систем
-    sr-ec: полупредседнички систем
-    sr-el: polupredsednički sistem
+    sr_ec: полупредседнички систем
+    sr_el: polupredsednički sistem
     sv: semipresidentialism
     tg: Низоми нимараёсатӣ
     th: ระบบกึ่งประธานาธิบดี
@@ -192,10 +192,10 @@ dv_has_:
     xmf: გვერდო საპრეზიდენტო სისტემა
     yue: 半總統制
     zh: 半总统制
-    zh-cn: 半总统制
-    zh-hans: 半总统制
-    zh-hant: 半總統制
-    zh-tw: 半總統制
+    zh_cn: 半总统制
+    zh_hans: 半总统制
+    zh_hant: 半總統制
+    zh_tw: 半總統制
 ---
 # [[Semi-presidential_System]] 
 

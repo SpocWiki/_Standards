@@ -147,7 +147,7 @@ dv_has_:
     bar: Joseph Goebbels
     bcl: Joseph Goebbels
     be: Паўль Ёзэф Гебельс
-    be-tarask: Ёзэф Гёбэльс
+    be_tarask: Ёзэф Гёбэльс
     bg: Йозеф Гьобелс
     bi: Joseph Goebbels
     bn: জোসেফ গোয়েবলস
@@ -217,7 +217,7 @@ dv_has_:
     pnb: جوزف گوئیبلز
     ps: یوزف ګوبلز
     pt: Joseph Goebbels
-    pt-br: Joseph Goebbels
+    pt_br: Joseph Goebbels
     ro: Joseph Goebbels
     ru: Йозеф Геббельс
     rue: Йозеф Ґебелс

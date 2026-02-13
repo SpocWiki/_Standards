@@ -91,7 +91,7 @@ dv_has_:
     ar: نقل الكهرباء
     ast: tresmisión d'enerxía llétrico
     az: elektrik veriliş xətti
-    be-tarask: перадача электрычнай энэргіі
+    be_tarask: перадача электрычнай энэргіі
     bg: пренос на електрическа енергия
     bn: বিদ্যুৎশক্তি সঞ্চালন
     ca: transport d'energia elèctrica
@@ -145,12 +145,12 @@ dv_has_:
     wuu: 输电系统
     yue: 輸電
     zh: 輸電系統
-    zh-cn: 输电系统
-    zh-hans: 输电系统
-    zh-hant: 輸電系統
-    zh-hk: 輸電系統
-    zh-sg: 输电系统
-    zh-tw: 輸電系統
+    zh_cn: 输电系统
+    zh_hans: 输电系统
+    zh_hant: 輸電系統
+    zh_hk: 輸電系統
+    zh_sg: 输电系统
+    zh_tw: 輸電系統
     zu: ukufufukiswa kwamazuba
 ---
 # [[Electric_Power_Transmission]] 

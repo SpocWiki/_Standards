@@ -193,7 +193,7 @@ dv_has_:
   name_:
     ab: Мадагаскар
     ace: Madagaskar
-    aeb-arab: مدغشقر
+    aeb_arab: مدغشقر
     af: Madagaskar
     am: ማዳጋስካር
     ami: Madagascar
@@ -215,7 +215,7 @@ dv_has_:
     bbc: Madagaskar
     bcl: Madagaskar
     be: Мадагаскар
-    be-tarask: Мадагаскар
+    be_tarask: Мадагаскар
     bew: Madagaskar
     bg: Мадагаскар
     bho: मेडागास्कर
@@ -229,7 +229,7 @@ dv_has_:
     bs: Madagaskar
     bxr: Мадагаскар
     ca: Madagascar
-    cbk-zam: Madagascar
+    cbk_zam: Madagascar
     cdo: Madagascar
     ce: Мадагаскар
     ceb: Madagascar
@@ -237,7 +237,7 @@ dv_has_:
     ckb: ماداگاسکار
     co: Madagascara
     crh: Madagaskar
-    crh-latn: Madagaskar
+    crh_latn: Madagaskar
     cs: Madagaskar
     csb: Madagaskar
     cv: Мадагаскар Республики
@@ -246,7 +246,7 @@ dv_has_:
     dag: Madagascar
     de: Madagaskar
     de-at: Madagaskar
-    de-ch: Madagaskar
+    de_ch: Madagaskar
     din: Madagathkar
     diq: Madagaskar
     dsb: Madagaskar
@@ -360,7 +360,7 @@ dv_has_:
     nan: Madagascar
     nb: Madagaskar
     nds: Madagaskar
-    nds-nl: Madagaskar
+    nds_nl: Madagaskar
     ne: माडागास्कर
     new: माडागास्कर
     nl: Madagaskar
@@ -390,7 +390,7 @@ dv_has_:
     pnt: Μαδαγασκάρην
     ps: مادغاسکر
     pt: Madagáscar
-    pt-br: Madagascar
+    pt_br: Madagascar
     qu: Madagaskar
     rmy: Madagascar
     ro: Madagascar
@@ -420,8 +420,8 @@ dv_has_:
     so: Madagaskar
     sq: Madagaskari
     sr: Мадагаскар
-    sr-ec: Мадагаскар
-    sr-el: Madagaskar
+    sr_ec: Мадагаскар
+    sr_el: Madagaskar
     ss: IMadagasikha
     st: Madagascar
     stq: Madagaskar
@@ -472,14 +472,14 @@ dv_has_:
     zea: Madahaskar
     zgh: ⵎⴰⴷⴰⴳⴰⵙⴽⴰⵔ
     zh: 馬達加斯加
-    zh-cn: 马达加斯加
-    zh-hans: 马达加斯加
-    zh-hant: 馬達加斯加
-    zh-hk: 馬達加斯加
-    zh-mo: 马达加斯加
+    zh_cn: 马达加斯加
+    zh_hans: 马达加斯加
+    zh_hant: 馬達加斯加
+    zh_hk: 馬達加斯加
+    zh_mo: 马达加斯加
     zh-my: 马达加斯加
-    zh-sg: 马达加斯加
-    zh-tw: 馬達加斯加
+    zh_sg: 马达加斯加
+    zh_tw: 馬達加斯加
     zu: IMadagasika
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Madagascar

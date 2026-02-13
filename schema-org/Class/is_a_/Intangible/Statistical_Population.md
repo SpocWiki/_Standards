@@ -104,7 +104,7 @@ dv_has_:
     ar: مجتمع إحصائي
     ast: Población estadística
     be: генеральная сукупнасць
-    be-tarask: генэральная сукупнасьць
+    be_tarask: генэральная сукупнасьць
     bew: Kabèhan
     bs: Subpopulacija
     ca: població estadística
@@ -112,11 +112,11 @@ dv_has_:
     cy: poblogaeth ystadegol
     da: Population
     de: Grundgesamtheit
-    de-ch: Grundgesamtheit
+    de_ch: Grundgesamtheit
     el: Στατιστικός πληθυσμός
     en: statistical population
-    en-ca: Statistical population
-    en-gb: statistical population
+    en_ca: Statistical population
+    en_gb: statistical population
     es: población estadística
     et: Üldkogum
     eu: Populazio
@@ -144,7 +144,7 @@ dv_has_:
     nl: populatie
     pl: populacja statystyczna
     pt: população
-    pt-br: população
+    pt_br: população
     ro: populație statistică
     ru: генеральная совокупность
     sh: Subpopulacija
@@ -163,7 +163,7 @@ dv_has_:
     wuu: 总体
     yue: 總體
     zh: 总体
-    zh-hans: 总体
+    zh_hans: 总体
   properties:
   - '[[../../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]'
   - '[[../../../../Property/has_name/has_name_alternate|has_name_alternate]]'

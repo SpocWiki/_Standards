@@ -238,7 +238,7 @@ dv_has_:
     azb: قیزیل آی
     ba: Ҡыҙыл Тәре һәм Ҡыҙыл Ярым Ай халыҡ-ара ойошмаһы
     be: Міжнародны рух Чырвонага Крыжа і Чырвонага Паўмесяца
-    be-tarask: Міжнародны рух Чырвонага Крыжа і Чырвонага Паўмесяца
+    be_tarask: Міжнародны рух Чырвонага Крыжа і Чырвонага Паўмесяца
     bg: Международно движение на Червения кръст и Червения полумесец
     bn: আন্তর্জাতিক রেড ক্রস ও রেড ক্রিসেন্ট আন্দোলন
     br: Luskad Etrebroadel ar Groaz Ruz hag ar C'hreskloar Ruz
@@ -254,8 +254,8 @@ dv_has_:
     de: Internationale Rotkreuz- und Rothalbmond-Bewegung
     el: Διεθνές Κίνημα Ερυθρού Σταυρού και Ερυθράς Ημισελήνου
     en: International Red Cross and Red Crescent Movement
-    en-ca: International Red Cross and Red Crescent Movement
-    en-gb: International Red Cross and Red Crescent Movement
+    en_ca: International Red Cross and Red Crescent Movement
+    en_gb: International Red Cross and Red Crescent Movement
     eo: Ruĝa Kruco
     es: Movimiento Internacional de la Cruz Roja y de la Media Luna Roja
     et: Rahvusvaheline Punane Rist
@@ -305,7 +305,7 @@ dv_has_:
     mn: Олон Улсын Улаан Загалмай
     mr: आंतरराष्ट्रीय रेड क्रॉस व रेड क्रिसेंट चळवळ
     ms: Gerakan Palang Merah dan Bulan Sabit Merah Antarabangsa
-    ms-arab: ݢرقن ڤالڠ ميره دان بولن سابيت ميره انتارابڠسا
+    ms_arab: ݢرقن ڤالڠ ميره دان بولن سابيت ميره انتارابڠسا
     my: ကမ္ဘာ့ကြက်ခြေနီနေ့
     mzn: هلال احمر
     nan: Kok-chè Âng Si̍p-jī kap Âng Goe̍h-bâi Ūn-tōng
@@ -323,7 +323,7 @@ dv_has_:
     pnb: رتہ کراس
     ps: د سره صليب او سرې مياشتې نړيوال غورځنګ
     pt: Movimento Internacional da Cruz Vermelha e do Crescente Vermelho
-    pt-br: Movimento Internacional da Cruz Vermelha e do Crescente Vermelho
+    pt_br: Movimento Internacional da Cruz Vermelha e do Crescente Vermelho
     ro: Mișcarea Internațională de Cruce Roșie și Semilună Roșie
     ru: Международное движение Красного Креста и Красного Полумесяца
     rue: Міджінародный рух Червеного Хреста і Червеного Півмісяця
@@ -360,8 +360,8 @@ dv_has_:
     yi: רויטער קרייץ
     yue: 紅十字會
     zh: 國際紅十字與紅新月運動
-    zh-hant: 國際紅十字與紅新月運動
-    zh-hk: 國際紅十字與紅新月運動
+    zh_hant: 國際紅十字與紅新月運動
+    zh_hk: 國際紅十字與紅新月運動
 ---
 # [[Red_Cross_and_Red_Crescent]] 
 

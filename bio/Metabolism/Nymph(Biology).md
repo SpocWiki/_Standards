@@ -54,17 +54,17 @@ dv_has_:
     ast: ninfa
     bar: Nymphm
     be: німфа
-    be-tarask: німфа
+    be_tarask: німфа
     bg: нимфа
     bs: lutka
     ca: nimfa
     cs: nymfa
     da: nymfe
     de: Nymphe
-    de-ch: Nymphe
+    de_ch: Nymphe
     en: nymph
-    en-ca: Nymph
-    en-gb: nymph
+    en_ca: Nymph
+    en_gb: nymph
     eo: nimfo
     es: ninfa
     eu: ninfa
@@ -91,7 +91,7 @@ dv_has_:
     nn: nymfestadiet
     pl: nimfa
     pt: ninfa
-    pt-br: ninfa
+    pt_br: ninfa
     ro: nimfă
     ru: нимфа
     rue: нимфа

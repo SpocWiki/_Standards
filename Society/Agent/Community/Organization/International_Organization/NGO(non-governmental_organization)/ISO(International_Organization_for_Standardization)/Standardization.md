@@ -84,7 +84,7 @@ dv_has_:
     az: standartlaşdırma
     ba: стандартлаштырыу
     be: стандартызацыя
-    be-tarask: стандартызацыя
+    be_tarask: стандартызацыя
     ca: estandardització
     cs: standardizace
     cy: safoni
@@ -92,8 +92,8 @@ dv_has_:
     de: Standardisierung
     el: προτυποποίηση
     en: standardization
-    en-ca: standardization
-    en-gb: standardisation
+    en_ca: standardization
+    en_gb: standardisation
     eo: normigo
     es: normalización técnica
     et: standardimine
@@ -112,11 +112,11 @@ dv_has_:
     jv: standarisasi
     ka: საერთაშორისო სტანდარტი
     kk: стандарттау
-    kk-arab: ستاندارتتاۋ
+    kk_arab: ستاندارتتاۋ
     kk-cn: ستاندارتتاۋ
-    kk-cyrl: стандарттау
+    kk_cyrl: стандарттау
     kk-kz: стандарттау
-    kk-latn: standarttaw
+    kk_latn: standarttaw
     kk-tr: standarttaw
     ko: 표준화
     la: normalizatio
@@ -132,15 +132,15 @@ dv_has_:
     pl: normalizacja
     pms: Standardisassion
     pt: padronização
-    pt-br: padronização
+    pt_br: padronização
     ro: standardizare
     ru: стандартизация
     sl: standardizacija
     sn: kuchepa
     sq: Standardizimi
     sr: стандардизација
-    sr-ec: стандардизација
-    sr-el: standardizacija
+    sr_ec: стандардизација
+    sr_el: standardizacija
     su: standardisasi
     sv: standardisering
     ta: செந்தரமாக்கம்
@@ -155,12 +155,12 @@ dv_has_:
     yue: 標準化
     za: biucinjvaq
     zh: 标准化
-    zh-cn: 标准化
-    zh-hans: 标准化
-    zh-hant: 標準化
-    zh-hk: 標準化
-    zh-sg: 标准化
-    zh-tw: 標準化
+    zh_cn: 标准化
+    zh_hans: 标准化
+    zh_hant: 標準化
+    zh_hk: 標準化
+    zh_sg: 标准化
+    zh_tw: 標準化
 ---
 # [[Standardization]] 
 

@@ -95,7 +95,7 @@ dv_has_:
     avk: yaburoleem ke Delphinidae yasa
     az: delfinkimilər
     be: дэльфінавыя
-    be-tarask: дэльфінавыя
+    be_tarask: дэльфінавыя
     bg: делфинови
     bn: শুশুক
     br: Delphinidae
@@ -147,7 +147,7 @@ dv_has_:
     nah: Chichimichin
     nan: Hái-ti-kho
     nb: delfinfamilien
-    nds-nl: dolfienen
+    nds_nl: dolfienen
     nl: dolfijnen
     nn: delfinfamilien
     nv: tééh hóyáanii íiyisígíí dóó bikʼéí
@@ -156,7 +156,7 @@ dv_has_:
     pcd: Dofin
     pl: Delfinowate
     pt: Delphinidae
-    pt-br: Delphinidae
+    pt_br: Delphinidae
     ro: Delphinidae
     ru: дельфиновые
     scn: Delphinidae
@@ -180,12 +180,12 @@ dv_has_:
     wuu: 海豚科
     yue: 海豚科
     zh: 海豚科
-    zh-cn: 海豚科
-    zh-hans: 海豚科
-    zh-hant: 海豚科
-    zh-hk: 海豚科
-    zh-sg: 海豚科
-    zh-tw: 海豚科
+    zh_cn: 海豚科
+    zh_hans: 海豚科
+    zh_hant: 海豚科
+    zh_hk: 海豚科
+    zh_sg: 海豚科
+    zh_tw: 海豚科
 ---
 # [[Delphinidae]] 
 

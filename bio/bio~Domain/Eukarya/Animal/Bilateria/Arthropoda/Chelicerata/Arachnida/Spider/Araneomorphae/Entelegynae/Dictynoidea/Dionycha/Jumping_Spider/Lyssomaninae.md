@@ -34,7 +34,7 @@ dv_has_:
     oc: Lyssomaninae
     pl: Lyssomaninae
     pt: Lyssomaninae
-    pt-br: Lyssomaninae
+    pt_br: Lyssomaninae
     ro: Lyssomaninae
     ru: Lyssomaninae
     sq: Lyssomaninae

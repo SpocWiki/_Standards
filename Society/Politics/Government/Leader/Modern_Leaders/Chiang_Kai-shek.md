@@ -227,7 +227,7 @@ dv_has_:
     ban: Chiang Kai-shek
     bcl: Chiang Kai-shek
     be: Чан Кайшы
-    be-tarask: Чан Кайшы
+    be_tarask: Чан Кайшы
     bg: Чан Кайшъ
     bn: চিয়াং কাই-শেক
     br: Tchang Kai-chek
@@ -241,11 +241,11 @@ dv_has_:
     cy: Chiang Kai-shek
     da: Chiang Kai-shek
     de: Chiang Kai-shek
-    de-ch: Chiang Kai-shek
+    de_ch: Chiang Kai-shek
     el: Τσιανγκ Κάι Σεκ
     en: Chiang Kai-shek
-    en-ca: Chiang Kai-shek
-    en-gb: Chiang Kai-shek
+    en_ca: Chiang Kai-shek
+    en_gb: Chiang Kai-shek
     eo: Ĉiang Kai-ŝek
     es: Chiang Kai-shek
     et: Jiang Jieshi
@@ -305,7 +305,7 @@ dv_has_:
     pnb: چیانگ کائی شیک
     ps: چیانګ کای شیک
     pt: Chiang Kai-shek
-    pt-br: Chiang Kai-shek
+    pt_br: Chiang Kai-shek
     qu: Chiang Kai-shek
     ro: Chiang Kai-Shek
     ru: Чан Кайши
@@ -343,14 +343,14 @@ dv_has_:
     yue: 蔣介石
     za: Ciengj Gaisig
     zh: 蔣中正
-    zh-cn: 蒋介石
-    zh-hans: 蒋介石
-    zh-hant: 蔣中正
-    zh-hk: 蔣介石
-    zh-mo: 蔣介石
+    zh_cn: 蒋介石
+    zh_hans: 蒋介石
+    zh_hant: 蔣中正
+    zh_hk: 蔣介石
+    zh_mo: 蔣介石
     zh-my: 蒋中正
-    zh-sg: 蒋中正
-    zh-tw: 蔣中正
+    zh_sg: 蒋中正
+    zh_tw: 蔣中正
 ---
 # [[Chiang_Kai-shek]] 
 

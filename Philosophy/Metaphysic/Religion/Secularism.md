@@ -105,7 +105,7 @@ dv_has_:
     az: dünyəvilik
     azb: سکولاریسم
     be: свецкасць
-    be-tarask: сьвецкасьць
+    be_tarask: сьвецкасьць
     bg: Секуларизъм
     bho: धम्मनिरपेखता
     bn: ধর্মনিরপেক্ষতাবাদ
@@ -117,12 +117,12 @@ dv_has_:
     cy: Seciwlariaeth
     da: sekularisme
     de: Säkularismus
-    de-ch: Säkularismus
+    de_ch: Säkularismus
     diq: Sekulerizm
     el: κοσμικισμός
     en: secularism
-    en-ca: secularism
-    en-gb: secularism
+    en_ca: secularism
+    en_gb: secularism
     eo: sekulareco
     es: secularismo
     et: sekularism
@@ -148,7 +148,7 @@ dv_has_:
     ko: 세속주의
     ks: غٲر مَذہَبِیَت
     ku: sekulerîzm
-    ku-latn: sekulerîzm
+    ku_latn: sekulerîzm
     la: Saecularismus
     lad: sekularizmo
     lfn: Secularisme
@@ -161,7 +161,7 @@ dv_has_:
     ml: മതേതരത്വം
     mr: धर्मनिरपेक्षता
     ms: sekularisme
-    ms-arab: سيکولاريسمى
+    ms_arab: سيکولاريسمى
     mzn: سکولاریسم
     nb: sekularisme
     ne: धर्मनिरपेक्षता
@@ -173,7 +173,7 @@ dv_has_:
     pnb: سیکولرزم
     ps: سيکولريزم - Secularism
     pt: secularismo
-    pt-br: secularismo
+    pt_br: secularismo
     ro: secularism
     ru: секуляризм
     sd: سيڪيولرازم
@@ -206,8 +206,8 @@ dv_has_:
     yue: 世俗主義
     zgh: ⵜⴰⵍⴰⵢⴽⵉⵜ
     zh: 世俗主义
-    zh-hant: 世俗主義
-    zh-tw: 世俗主義
+    zh_hant: 世俗主義
+    zh_tw: 世俗主義
 ---
 # [[Secularism]] 
 

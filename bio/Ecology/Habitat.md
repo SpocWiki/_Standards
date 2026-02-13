@@ -9,7 +9,7 @@ dv_has_:
     az: Areal
     bas: lìyèènɛ́/hɔ̀ma
     be: месцапражыванне
-    be-tarask: пражываньне
+    be_tarask: пражываньне
     bg: Местообитание
     bho: आवास
     bjn: Habitat
@@ -21,8 +21,8 @@ dv_has_:
     diq: Habitat
     el: ενδιαίτημα
     en: habitat
-    en-ca: Habitat
-    en-gb: habitat
+    en_ca: Habitat
+    en_gb: habitat
     eo: habitato
     es: hábitat
     et: elupaik
@@ -49,7 +49,7 @@ dv_has_:
     kk: Ареал
     kn: ಆವಾಸಸ್ಥಾನ
     ko: 서식지
-    ku-latn: habîtat
+    ku_latn: habîtat
     kw: bewva
     la: Habitatio
     lt: buveinė
@@ -71,7 +71,7 @@ dv_has_:
     pl: siedlisko
     ps: مېشتځای (هبیتات)
     pt: habitat
-    pt-br: habitat
+    pt_br: habitat
     ro: habitat
     ru: местообитание
     sah: Ареал
@@ -84,7 +84,7 @@ dv_has_:
     sms: jieʹllempirrõs
     sq: habitat
     sr: ареал
-    sr-ec: станиште
+    sr_ec: станиште
     su: Habitat
     sv: habitat
     sw: Makazi
@@ -105,9 +105,9 @@ dv_has_:
     xh: I-Habitat
     yue: 棲息地
     zh: 棲息地
-    zh-cn: 棲息地
-    zh-hant: 棲息地
-    zh-tw: 棲息地
+    zh_cn: 棲息地
+    zh_hant: 棲息地
+    zh_tw: 棲息地
 aliases:
 - Abitant
 - Abitat

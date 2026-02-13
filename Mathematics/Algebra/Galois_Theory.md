@@ -70,7 +70,7 @@ dv_has_:
     ast: Teoría de Galois
     ba: Галуа теорияһы
     be: Тэорыя Галуа
-    be-tarask: тэорыя Галюа
+    be_tarask: тэорыя Галюа
     bn: গ্যালোয়ার তত্ত্ব
     bo: གྷ་ལོ་ཡི་གྲུབ་མཐའ།
     ca: teoria de Galois
@@ -81,8 +81,8 @@ dv_has_:
     de: Galoistheorie
     el: Θεωρία Γκαλουά
     en: Galois theory
-    en-ca: Galois theory
-    en-gb: Galois theory
+    en_ca: Galois theory
+    en_gb: Galois theory
     eo: galoja teorio
     es: teoría de Galois
     eu: Galoisen teoria
@@ -106,7 +106,7 @@ dv_has_:
     nl: Galoistheorie
     pl: teoria Galois
     pt: teoria de Galois
-    pt-br: teoria de Galois
+    pt_br: teoria de Galois
     ro: Teoria lui Galois
     ru: теория Галуа
     sk: Galoisova teória
@@ -121,7 +121,7 @@ dv_has_:
     vi: Lý thuyết Galois
     yue: 伽羅華理論
     zh: 伽羅瓦理論
-    zh-hant: 伽羅瓦理論
+    zh_hant: 伽羅瓦理論
 ---
 # [[Galois_Theory]] 
 

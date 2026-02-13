@@ -83,14 +83,14 @@ dv_has_:
     oc: Dugongidae
     pl: Diugoniowate
     pt: Dugongidae
-    pt-br: Dugongidae
+    pt_br: Dugongidae
     ro: Dugongidae
     ru: дюгоневые
     sk: Dugongovité
     sq: Dugongidae
     sr: Дугонзи
-    sr-ec: Дугонзи
-    sr-el: Dugonzi
+    sr_ec: Дугонзи
+    sr_el: Dugonzi
     ta: துகாங்கிடே
     tr: Dugonggiller
     uk: Dugongidae
@@ -98,11 +98,11 @@ dv_has_:
     vo: Dugongidae
     war: Dugongidae
     zh: 儒艮科
-    zh-cn: 儒艮科
-    zh-hans: 儒艮科
-    zh-hant: 儒艮科
-    zh-hk: 儒艮科
-    zh-tw: 儒艮科
+    zh_cn: 儒艮科
+    zh_hans: 儒艮科
+    zh_hant: 儒艮科
+    zh_hk: 儒艮科
+    zh_tw: 儒艮科
 ---
 # [[Dugongidae]] 
 

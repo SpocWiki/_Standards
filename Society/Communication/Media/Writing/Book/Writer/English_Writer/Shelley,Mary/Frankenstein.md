@@ -154,7 +154,7 @@ dv_has_:
     ast: Frankenstein. El Prometeo modernu
     avk: Frankenstein (suterot)
     az: Frankenşteyn
-    be-tarask: Франкенштайн, або сучаны Прамэтэй
+    be_tarask: Франкенштайн, або сучаны Прамэтэй
     bg: Франкенщайн
     bn: ফ্রাঙ্কেনস্টাইন
     br: Frankenstein
@@ -164,11 +164,11 @@ dv_has_:
     cy: Frankenstein, or The Modern Prometheus
     da: Frankenstein
     de: Frankenstein
-    de-ch: Frankenstein
+    de_ch: Frankenstein
     el: Φρανκενστάιν ή ο Σύγχρονος Προμηθέας
     en: Frankenstein; or, The Modern Prometheus
-    en-ca: Frankenstein
-    en-gb: Frankenstein
+    en_ca: Frankenstein
+    en_gb: Frankenstein
     eo: Frankenŝtejno
     es: Frankenstein o El moderno Prometeo
     et: Frankenstein
@@ -209,7 +209,7 @@ dv_has_:
     pfl: Frankenstein
     pl: Frankenstein
     pt: Frankenstein
-    pt-br: Frankenstein
+    pt_br: Frankenstein
     ro: Frankenstein
     ru: Франкенштейн, или Современный Прометей
     scn: Frankenstein
@@ -232,12 +232,12 @@ dv_has_:
     wuu: 科学怪人
     yue: 科學怪人
     zh: 弗兰肯斯坦
-    zh-cn: 弗兰肯斯坦
-    zh-hans: 弗兰肯斯坦
-    zh-hant: 科學怪人
-    zh-hk: 科學怪人
-    zh-sg: 科学怪人
-    zh-tw: 科學怪人
+    zh_cn: 弗兰肯斯坦
+    zh_hans: 弗兰肯斯坦
+    zh_hant: 科學怪人
+    zh_hk: 科學怪人
+    zh_sg: 科学怪人
+    zh_tw: 科學怪人
 ---
 # [[Frankenstein]] 
 

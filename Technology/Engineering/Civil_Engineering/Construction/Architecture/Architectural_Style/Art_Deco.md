@@ -85,7 +85,7 @@ dv_has_:
     ast: Art Decó
     az: Ar-deko
     be: ар-дэко
-    be-tarask: ар-дэко
+    be_tarask: ар-дэко
     bg: Ар деко
     bn: আর দেকো
     bs: Art Deco
@@ -95,11 +95,11 @@ dv_has_:
     cy: Art Deco
     da: Art deco
     de: Art déco
-    de-ch: Art déco
+    de_ch: Art déco
     el: Αρ Ντεκό
     en: Art Deco
-    en-ca: Art Deco
-    en-gb: Art Deco
+    en_ca: Art Deco
+    en_gb: Art Deco
     eo: artdekora stilo
     es: art déco
     et: Art déco
@@ -123,7 +123,7 @@ dv_has_:
     kk: Арт деко
     ko: 아르데코
     ku: Art Deco
-    ku-latn: Art Deco
+    ku_latn: Art Deco
     lb: Art Deco
     lfn: Arte deco
     li: Art deco
@@ -141,15 +141,15 @@ dv_has_:
     pl: art déco
     pnb: آرٹ ڈیکو
     pt: art déco
-    pt-br: art déco
+    pt_br: art déco
     ro: Art Déco
     ru: ар-деко
     sh: Art Deco
     sk: art deco
     sl: art déco
     sr: арт деко
-    sr-ec: арт деко
-    sr-el: art deko
+    sr_ec: арт деко
+    sr_el: art deko
     sv: art déco
     ta: எழில்படுக் கலை
     tg: ҳунари деку
@@ -163,12 +163,12 @@ dv_has_:
     yue: 飾藝風
     zea: Art Deco
     zh: 装饰风艺术
-    zh-cn: 装饰风艺术
-    zh-hans: 装饰风艺术
-    zh-hant: 裝飾風藝術
-    zh-hk: 裝飾藝術風格
-    zh-sg: 装饰风艺术
-    zh-tw: 裝飾風藝術
+    zh_cn: 装饰风艺术
+    zh_hans: 装饰风艺术
+    zh_hant: 裝飾風藝術
+    zh_hk: 裝飾藝術風格
+    zh_sg: 装饰风艺术
+    zh_tw: 裝飾風藝術
 ---
 # [[Art_Deco]] 
 

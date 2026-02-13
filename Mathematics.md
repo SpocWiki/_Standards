@@ -278,7 +278,7 @@ dv_has_:
     bar: Mathematik
     bcl: Matematika
     be: матэматыка
-    be-tarask: матэматыка
+    be_tarask: матэматыка
     bg: математика
     bho: गणित
     bi: Matematikis
@@ -293,7 +293,7 @@ dv_has_:
     bug: matematika
     bxr: Тоогой ухаан
     ca: matemàtiques
-    cbk-zam: Matematica
+    cbk_zam: Matematica
     cdo: Só-hŏk
     ce: Математика
     ceb: matematika
@@ -301,7 +301,7 @@ dv_has_:
     ckb: ماتماتیک
     co: matematica
     crh: riyaziyat
-    crh-latn: Riyaziyat
+    crh_latn: Riyaziyat
     crh-ro: riyaziyet
     cs: matematika
     csb: matematika
@@ -319,8 +319,8 @@ dv_has_:
     el: μαθηματικά
     eml: matemâtica
     en: mathematics
-    en-ca: mathematics
-    en-gb: mathematics
+    en_ca: mathematics
+    en_gb: mathematics
     eo: matematiko
     es: matemáticas
     et: matemaatika
@@ -408,7 +408,7 @@ dv_has_:
     mad: Matematika
     mag: गणित
     mai: गणित
-    map-bms: matematika
+    map_bms: matematika
     mdf: математиксь
     mg: fanisana
     mhr: математике
@@ -421,7 +421,7 @@ dv_has_:
     mnw: သၚ်္ချာ
     mr: गणित
     ms: matematik
-    ms-arab: ماتماتيک
+    ms_arab: ماتماتيک
     mt: matematika
     mwl: matemática
     my: သင်္ချာ
@@ -431,7 +431,7 @@ dv_has_:
     nan: Sò͘-ha̍k
     nb: matematikk
     nds: Mathematik
-    nds-nl: wiskunde
+    nds_nl: wiskunde
     ne: गणित
     new: गणित
     nia: Matematika
@@ -458,7 +458,7 @@ dv_has_:
     pnb: ریاضی
     ps: شمېرپوهنه
     pt: matemática
-    pt-br: matemática
+    pt_br: matemática
     qu: Yupay yachay
     rki: သင်္ချာ
     ro: matematică
@@ -492,8 +492,8 @@ dv_has_:
     so: xisaab
     sq: matematikë
     sr: математика
-    sr-ec: математика
-    sr-el: matematika
+    sr_ec: математика
+    sr_el: matematika
     srn: Sabi fu Teri
     ss: tekubala
     stq: mathematik
@@ -507,7 +507,7 @@ dv_has_:
     te: గణితం
     tet: matemátika
     tg: риёзиёт
-    tg-cyrl: риёзиёт
+    tg_cyrl: риёзиёт
     th: คณิตศาสตร์
     tk: matematika
     tl: matematika
@@ -518,8 +518,8 @@ dv_has_:
     tr: matematik
     ts: tinhlayo
     tt: математика
-    tt-cyrl: математика
-    tt-latn: matematika
+    tt_cyrl: математика
+    tt_latn: matematika
     tw: akontabuo
     udm: математика
     uk: математика
@@ -545,14 +545,14 @@ dv_has_:
     zea: Wiskunde
     zgh: ⵜⵓⵙⵏⴰⴽⵜ
     zh: 數學
-    zh-cn: 数学
-    zh-hans: 数学
-    zh-hant: 數學
-    zh-hk: 數學
-    zh-mo: 數學
+    zh_cn: 数学
+    zh_hans: 数学
+    zh_hant: 數學
+    zh_hk: 數學
+    zh_mo: 數學
     zh-my: 数学
-    zh-sg: 数学
-    zh-tw: 數學
+    zh_sg: 数学
+    zh_tw: 數學
     zu: imathemathiki
 ---
 # [[Mathematics]] 

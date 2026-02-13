@@ -252,7 +252,7 @@ dv_has_:
   name_:
     ab: Аӡын
     ady: КӀымаф
-    aeb-arab: شتا
+    aeb_arab: شتا
     af: winter
     am: በረድ ወቅት
     an: Hibierno
@@ -271,7 +271,7 @@ dv_has_:
     bar: Winta
     bcl: Taglipot
     be: зіма
-    be-tarask: зіма
+    be_tarask: зіма
     bg: Зима
     bho: जाड़ा
     bn: শীত
@@ -291,15 +291,15 @@ dv_has_:
     cy: Gaeaf
     da: vinter
     de: Winter
-    de-ch: Winter
+    de_ch: Winter
     diq: Zımıstan
     dsb: zyma
     dty: शिशिर ऋतु
     el: χειμώνας
     eml: Invêren
     en: winter
-    en-ca: Winter
-    en-gb: winter
+    en_ca: Winter
+    en_gb: winter
     eo: vintro
     es: invierno
     et: talv
@@ -351,7 +351,7 @@ dv_has_:
     ks: وَنٛدٕ
     ksh: Wengkter
     ku: zivistan
-    ku-latn: zivistan
+    ku_latn: zivistan
     kv: тӧв
     kw: gwav
     ky: Кыш
@@ -376,7 +376,7 @@ dv_has_:
     mr: हिवाळा
     mrj: Тел
     ms: musim sejuk
-    ms-arab: موسيم سجوق
+    ms_arab: موسيم سجوق
     my: ဆောင်းရာသီ
     myv: теле
     mzn: زمستون
@@ -385,7 +385,7 @@ dv_has_:
     nap: Vierno
     nb: vinter
     nds: Winter
-    nds-nl: wienter
+    nds_nl: wienter
     ne: शिशिर ऋतु
     new: चिकुला
     nl: winter
@@ -404,7 +404,7 @@ dv_has_:
     pnt: σειμουγκόν
     ps: ژمی
     pt: inverno
-    pt-br: Inverno
+    pt_br: Inverno
     pwn: kaljaljaljeqelan
     qu: Chiri mit'a
     rmf: ven
@@ -437,7 +437,7 @@ dv_has_:
     so: Jiilaal
     sq: dimri
     sr: зима
-    sr-ec: Зима
+    sr_ec: Зима
     su: Usum tiris
     sv: vinter
     sw: majira ya baridi
@@ -477,7 +477,7 @@ dv_has_:
     za: Cawzdoeng
     zgh: ⵜⴰⴳⵔⵙⵜ
     zh: 冬季
-    zh-hant: 冬季
+    zh_hant: 冬季
     zu: Ubusika
 ---
 # [[Winter]]

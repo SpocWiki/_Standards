@@ -112,7 +112,7 @@ dv_has_:
     azb: چروکیلر
     ba: Чероки
     be: чэрокі
-    be-tarask: чэрокі
+    be_tarask: чэрокі
     bg: Чероки
     br: Cherokee
     ca: cherokees
@@ -125,8 +125,8 @@ dv_has_:
     de: Cherokee
     el: Τσερόκι
     en: Cherokee
-    en-ca: Cherokee
-    en-gb: Cherokee
+    en_ca: Cherokee
+    en_gb: Cherokee
     eo: Ĉerokoj
     es: cheroqui
     et: Tšerokiid
@@ -177,8 +177,8 @@ dv_has_:
     sk: Čerokíovia
     sl: Cherokee
     sr: Чироки индијанци
-    sr-ec: Чироки индијанци
-    sr-el: Čiroki indijanci
+    sr_ec: Чироки индијанци
+    sr_el: Čiroki indijanci
     sv: Cherokeser
     ta: செரோக்கீ
     th: เชอโรคี
@@ -191,12 +191,12 @@ dv_has_:
     wuu: 切罗基人
     yue: 柴羅基人
     zh: 切羅基人
-    zh-cn: 切罗基人
-    zh-hans: 切罗基人
-    zh-hant: 切羅基人
-    zh-hk: 切羅基人
-    zh-sg: 切罗基人
-    zh-tw: 切羅基人
+    zh_cn: 切罗基人
+    zh_hans: 切罗基人
+    zh_hant: 切羅基人
+    zh_hk: 切羅基人
+    zh_sg: 切罗基人
+    zh_tw: 切羅基人
 ---
 # [[Cherokee]] 
 

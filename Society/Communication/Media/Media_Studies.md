@@ -74,7 +74,7 @@ dv_has_:
   name_:
     ar: دراسات الإعلام
     be: медыязнаўства
-    be-tarask: мэдыязнаўства
+    be_tarask: мэдыязнаўства
     bn: প্রচার মাধ্যম বিদ্যা
     ca: estudis dels mitjans de comunicació de massa
     cs: mediální studia
@@ -82,8 +82,8 @@ dv_has_:
     da: medievidenskab
     de: Medienwissenschaft
     en: media studies
-    en-ca: Media studies
-    en-gb: media studies
+    en_ca: Media studies
+    en_gb: media studies
     eo: amaskomunikila scienco
     es: estudios de medios
     et: meediauuringud
@@ -125,8 +125,8 @@ dv_has_:
     uz: Media tadqiqotlari
     vi: Truyền thông học
     zh: 媒體研究
-    zh-hant: 媒體研究
-    zh-tw: 媒體研究
+    zh_hant: 媒體研究
+    zh_tw: 媒體研究
 ---
 # [[Media_Studies]] 
 

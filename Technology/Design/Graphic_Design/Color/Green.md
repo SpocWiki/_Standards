@@ -213,7 +213,7 @@ Wolfram_Language_entity_code:
 OpenStreetMap_tag_or_key: Tag:colour=green
 dv_has_:
   name_:
-    aeb-arab: أخضر
+    aeb_arab: أخضر
     af: groen
     am: አረንጓዴ
     an: verde
@@ -235,7 +235,7 @@ dv_has_:
     bar: Grea
     bcl: berde
     be: зялёны колер
-    be-tarask: зялёны колер
+    be_tarask: зялёны колер
     bg: зелено
     bjn: hijau
     bn: সবুজ
@@ -260,8 +260,8 @@ dv_has_:
     dty: हरियो
     el: πράσινο
     en: green
-    en-ca: green
-    en-gb: green
+    en_ca: green
+    en_gb: green
     en-us: green
     eo: verdo
     es: verde
@@ -325,7 +325,7 @@ dv_has_:
     lv: zaļā krāsa
     lzh: 綠
     mag: हरियर
-    map-bms: ijo
+    map_bms: ijo
     mdf: сянгяря
     mhr: ужар тӱс
     mk: зелена
@@ -334,7 +334,7 @@ dv_has_:
     mni: ꯑꯁꯪꯕ
     mr: हिरवा
     ms: hijau
-    ms-arab: هيجاو
+    ms_arab: هيجاو
     mt: aħdar
     mwl: berde
     my: အစိမ်းရောင်
@@ -366,7 +366,7 @@ dv_has_:
     pnb: ہرا
     ps: زرغون
     pt: verde
-    pt-br: verde
+    pt_br: verde
     qu: q'umir
     ro: verde
     ru: зелёный
@@ -393,8 +393,8 @@ dv_has_:
     so: cagaar
     sq: ngjyra e gjelbër
     sr: зелена
-    sr-ec: зелена
-    sr-el: zelena
+    sr_ec: зелена
+    sr_el: zelena
     su: héjo
     sv: grön
     sw: kijani
@@ -411,7 +411,7 @@ dv_has_:
     tr: yeşil
     ts: rihlaza
     tt: яшел
-    tt-cyrl: яшел
+    tt_cyrl: яшел
     ty: matie
     udm: вож
     ug: يېشىل رەڭ
@@ -431,14 +431,14 @@ dv_has_:
     yue: 綠
     za: saekloeg
     zh: 綠色
-    zh-cn: 绿色
-    zh-hans: 绿色
-    zh-hant: 綠色
-    zh-hk: 綠色
-    zh-mo: 綠色
+    zh_cn: 绿色
+    zh_hans: 绿色
+    zh_hant: 綠色
+    zh_hk: 綠色
+    zh_mo: 綠色
     zh-my: 绿色
-    zh-sg: 绿色
-    zh-tw: 綠色
+    zh_sg: 绿色
+    zh_tw: 綠色
     zu: eluhlaza
 ---
 # [[Green]] 

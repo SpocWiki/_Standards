@@ -13,7 +13,7 @@ has_id_wikidata: Q2529830
 dv_has_:
   name_:
     ar: فودافون ألمانيا
-    be-tarask: Vodafone Germany
+    be_tarask: Vodafone Germany
     de: Vodafone Deutschland
     en: Vodafone Germany
     es: Vodafone Germany

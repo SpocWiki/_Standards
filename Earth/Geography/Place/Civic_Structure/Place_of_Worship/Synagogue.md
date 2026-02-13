@@ -154,7 +154,7 @@ dv_has_:
     bar: Synagogn
     bcl: sinagoga
     be: сінагога
-    be-tarask: сынагога
+    be_tarask: сынагога
     bew: Loji
     bg: Синагога
     bho: सिनेगॉग
@@ -236,7 +236,7 @@ dv_has_:
     pl: synagoga
     pnb: شول
     pt: sinagoga
-    pt-br: Sinagoga
+    pt_br: Sinagoga
     ro: sinagogă
     ru: синагога
     rue: синаґоґа
@@ -253,7 +253,7 @@ dv_has_:
     sms: synagoga
     sq: Sinagoga
     sr: синагога
-    sr-ec: синагога
+    sr_ec: синагога
     sv: synagoga
     sw: sinagogi
     ta: தொழுகைக் கூடம்
@@ -274,8 +274,8 @@ dv_has_:
     yue: 猶太聚會所
     zea: Synagoge
     zh: 猶太會堂
-    zh-hant: 猶太會堂
-    zh-tw: 猶太會堂
+    zh_hant: 猶太會堂
+    zh_tw: 猶太會堂
   parent_class: '[[../PlaceOfWorship]]'
   properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'
 dv_is_same_as:

@@ -103,7 +103,7 @@ dv_has_:
     ast: Microondes
     az: Mikrodalğalar
     ban: Gelombang mikro
-    be-tarask: мікрахваля
+    be_tarask: мікрахваля
     bg: Микровълни
     bn: অণুতরঙ্গ
     bs: Mikrovalno zračenje
@@ -138,11 +138,11 @@ dv_has_:
     jv: Gelombang mikro
     ka: მიკროტალღა
     kk: Микротолқындар
-    kk-arab: مىيكروتولقىندار
+    kk_arab: مىيكروتولقىندار
     kk-cn: مىيكروتولقىندار
-    kk-cyrl: Микротолқындар
+    kk_cyrl: Микротолқындар
     kk-kz: Микротолқындар
-    kk-latn: Mïkrotolqındar
+    kk_latn: Mïkrotolqındar
     kk-tr: Mïkrotolqındar
     ko: 마이크로파
     ko-kp: 미크로파
@@ -178,8 +178,8 @@ dv_has_:
     sms: mikropäärr
     sq: Mikrovalët
     sr: микроталаси
-    sr-ec: Микроталаси
-    sr-el: Mikrotalasi
+    sr_ec: Микроталаси
+    sr_el: Mikrotalasi
     su: Gelombang mikro
     sv: mikrovågor
     sw: Mikrowevu
@@ -196,12 +196,12 @@ dv_has_:
     yi: מיקראכוואליע
     yue: 微波
     zh: 微波
-    zh-cn: 微波
-    zh-hans: 微波
-    zh-hant: 微波
-    zh-hk: 微波
-    zh-sg: 微波
-    zh-tw: 微波
+    zh_cn: 微波
+    zh_hans: 微波
+    zh_hant: 微波
+    zh_hk: 微波
+    zh_sg: 微波
+    zh_tw: 微波
     zu: IChadaza
 ---
 # [[Microwave]] 

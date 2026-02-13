@@ -51,7 +51,7 @@ dv_has_:
     mul: Joseph Campbell
     nb: Joseph Campbell
     nds: Joseph Campbell
-    nds-nl: Joseph Campbell
+    nds_nl: Joseph Campbell
     nl: Joseph Campbell
     nn: Joseph Campbell
     pap: Joseph Campbell
@@ -59,7 +59,7 @@ dv_has_:
     pms: Joseph Campbell
     ps: جوزف کمبل
     pt: Joseph Campbell
-    pt-br: Joseph Campbell
+    pt_br: Joseph Campbell
     ro: Joseph Campbell
     ru: Джозеф Кэмпбелл
     sh: Joseph Campbell
@@ -75,8 +75,8 @@ dv_has_:
     wa: Joseph Campbell
     yue: 約瑟夫·坎伯
     zh: 喬瑟夫·坎貝爾
-    zh-cn: 约瑟夫·坎贝尔
-    zh-hant: 約瑟夫·坎貝爾
+    zh_cn: 约瑟夫·坎贝尔
+    zh_hant: 約瑟夫·坎貝爾
 aliases:
 - Džozef Kembel
 - Joseph Campbell

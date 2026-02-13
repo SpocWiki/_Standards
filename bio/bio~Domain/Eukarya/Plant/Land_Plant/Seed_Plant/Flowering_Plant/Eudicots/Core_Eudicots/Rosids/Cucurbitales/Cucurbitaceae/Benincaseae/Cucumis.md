@@ -98,7 +98,7 @@ dv_has_:
     bar: Gurken
     bcl: Cucumis
     be: Агурок
-    be-tarask: агурок
+    be_tarask: агурок
     bg: Cucumis
     ca: Cucumis
     ceb: Cucumis
@@ -143,7 +143,7 @@ dv_has_:
     os: Джитъри (мыггаг)
     pl: Ogórek
     pt: Cucumis
-    pt-br: Cucumis
+    pt_br: Cucumis
     ro: Cucumis
     ru: Огурец
     sco: Cucumis
@@ -155,7 +155,7 @@ dv_has_:
     te: కుకుమిస్
     tr: Cucumis
     tt: кыяр
-    tt-cyrl: кыяр
+    tt_cyrl: кыяр
     uk: Огірок
     vec: Cucumis
     vi: Dưa gang
@@ -164,12 +164,12 @@ dv_has_:
     xmf: შინკა
     yue: 蜜瓜屬
     zh: 黄瓜属
-    zh-cn: 黄瓜属
-    zh-hans: 黄瓜属
-    zh-hant: 黃瓜屬
-    zh-hk: 黃瓜屬
-    zh-sg: 黄瓜属
-    zh-tw: 黃瓜屬
+    zh_cn: 黄瓜属
+    zh_hans: 黄瓜属
+    zh_hant: 黃瓜屬
+    zh_hk: 黃瓜屬
+    zh_sg: 黄瓜属
+    zh_tw: 黃瓜屬
 ---
 # [[Cucumis]] 
 

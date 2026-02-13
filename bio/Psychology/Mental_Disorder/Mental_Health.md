@@ -130,7 +130,7 @@ dv_has_:
     az: Psixi sağlamlıq
     bcl: Salud sa pag-iisip
     be: Псіхічнае здароўе
-    be-tarask: псыхічнае здароўе
+    be_tarask: псыхічнае здароўе
     bg: Психично здраве
     bjn: Kawigasan jiwa
     bn: মানসিক স্বাস্থ্য
@@ -143,7 +143,7 @@ dv_has_:
     de: psychische Gesundheit
     el: Ψυχική υγεία
     en: mental health
-    en-gb: mental health
+    en_gb: mental health
     eo: mensa sano
     es: salud mental
     et: vaimne tervis
@@ -173,7 +173,7 @@ dv_has_:
     mi: Hauora hinengaro
     mk: душевно здравје
     ms: kesihatan mental
-    ms-arab: کصيحتن مينتل
+    ms_arab: کصيحتن مينتل
     mul: saúde mental, importância
     nb: psykisk helse
     nl: geestelijke gezondheid
@@ -182,7 +182,7 @@ dv_has_:
     pa: ਮਾਨਸਿਕ ਸਿਹਤ
     pl: zdrowie psychiczne
     pt: saúde mental
-    pt-br: saúde mental
+    pt_br: saúde mental
     rn: Akomeye mu mutwe
     ro: sănătate mintală
     ru: психическое здоровье
@@ -197,8 +197,8 @@ dv_has_:
     sms: miõltiõrvâsvuõtt
     sq: shëndeti mendor
     sr: душевно здравље
-    sr-ec: душевно здравље
-    sr-el: duševno zdravlje
+    sr_ec: душевно здравље
+    sr_el: duševno zdravlje
     sv: psykisk hälsa
     sw: Afya ya akili
     ta: உளச்சுகாதாரம்
@@ -214,7 +214,7 @@ dv_has_:
     war: Kaupayan han panhunahuna
     yue: 精神健康
     zh: 精神健康
-    zh-hant: 精神健康
+    zh_hant: 精神健康
 ---
 # [[Mental_Health]] 
 

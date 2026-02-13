@@ -104,7 +104,7 @@ dv_has_:
     ar: ذخيرة
     ast: Munición
     be: боепрыпас
-    be-tarask: боепрыпас
+    be_tarask: боепрыпас
     bg: Боеприпаси
     bn: গোলা
     br: Munision
@@ -142,11 +142,11 @@ dv_has_:
     it: munizione
     ja: 弾薬
     kk: Оқ-дәрілер
-    kk-arab: وق-دارىلەر
+    kk_arab: وق-دارىلەر
     kk-cn: وق-دارىلەر
-    kk-cyrl: Оқ-дәрілер
+    kk_cyrl: Оқ-дәрілер
     kk-kz: Оқ-дәрілер
-    kk-latn: Oq-däriler
+    kk_latn: Oq-däriler
     kk-tr: Oq-däriler
     kn: ಯುದ್ಧಸಾಮಗ್ರಿ
     ko: 탄약
@@ -167,7 +167,7 @@ dv_has_:
     pl: amunicja
     pms: Munission
     pt: munição
-    pt-br: munição
+    pt_br: munição
     ro: muniție
     ru: боевые припасы
     scn: munizzioni
@@ -178,8 +178,8 @@ dv_has_:
     sl: strelivo
     sq: municion
     sr: муниција
-    sr-ec: муниција
-    sr-el: municija
+    sr_ec: муниција
+    sr_el: municija
     sv: ammunition
     tl: Amunisyon
     tr: Mühimmat
@@ -189,12 +189,12 @@ dv_has_:
     wuu: 弹药
     yue: 彈藥
     zh: 彈藥
-    zh-cn: 弹药
-    zh-hans: 弹药
-    zh-hant: 彈藥
-    zh-hk: 彈藥
-    zh-sg: 弹药
-    zh-tw: 彈藥
+    zh_cn: 弹药
+    zh_hans: 弹药
+    zh_hant: 彈藥
+    zh_hk: 彈藥
+    zh_sg: 弹药
+    zh_tw: 彈藥
 ---
 # [[Ammunition]] 
 

@@ -601,7 +601,7 @@ dv_has_:
     ab: Кот-д’Ивуар
     ace: Panté Gadéng
     ady: Кот-д-Ивуар
-    aeb-arab: الكوت ديڥوار
+    aeb_arab: الكوت ديڥوار
     af: Ivoorkus
     am: ኮት ዲቯር
     ami: Cote d'ivoirie
@@ -622,7 +622,7 @@ dv_has_:
     bar: Helfnboagstodn
     bcl: Ivory Coast
     be: Кот-д’Івуар
-    be-tarask: Кот д’Івуар
+    be_tarask: Кот д’Івуар
     bew: Panté Gading
     bg: Кот д'Ивоар
     bgn: ساهیل ئاج
@@ -637,7 +637,7 @@ dv_has_:
     bs: Obala Slonovače
     bxr: Кот д'Ивуар
     ca: Costa d'Ivori
-    cbk-zam: Costa de Marfil
+    cbk_zam: Costa de Marfil
     cdo: Côte d'Ivoire
     ce: Кот-д’Ивуар
     ceb: Baybayon sa Marfil
@@ -645,7 +645,7 @@ dv_has_:
     ckb: کۆتدیڤوار
     co: Costa d'Avoriu
     crh: Filtiş Yalısı
-    crh-latn: Filtiş Yalısı
+    crh_latn: Filtiş Yalısı
     cs: Pobřeží slonoviny
     csb: Ùbrzég Słoniowëch Kłów
     cv: Кот-д'Ивуар
@@ -654,7 +654,7 @@ dv_has_:
     dag: Ivory Coast
     de: Elfenbeinküste
     de-at: Elfenbeinküste
-    de-ch: Elfenbeinküste
+    de_ch: Elfenbeinküste
     diq: Sahilê Dındanê Fili
     dsb: Słonowinowy pśibrjog
     dty: आइभोरी कोस्ट
@@ -766,7 +766,7 @@ dv_has_:
     nan: Côte d'Ivoire
     nb: Elfenbenskysten
     nds: Elfenbeenküst
-    nds-nl: Ivoorkuste
+    nds_nl: Ivoorkuste
     ne: आइभरी कोस्ट
     new: आइभोरी कोस्ट
     nl: Ivoorkust
@@ -793,7 +793,7 @@ dv_has_:
     pnb: کوٹے ڈی آئیور
     ps: عاج ساحل
     pt: Costa do Marfim
-    pt-br: Costa do Marfim
+    pt_br: Costa do Marfim
     qu: Marphil Chala
     rm: Costa d'Ivur
     ro: Coasta de Fildeș
@@ -825,8 +825,8 @@ dv_has_:
     so: Xeebta Foolmaroodi
     sq: Bregu i Fildishtë
     sr: Обала Слоноваче
-    sr-ec: Обала Слоноваче
-    sr-el: Obala Slonovače
+    sr_ec: Обала Слоноваче
+    sr_el: Obala Slonovače
     ss: Lugu Lwempondvondlovu
     st: Côte d'Ivoire
     stq: Älfenbeenkuste
@@ -873,12 +873,12 @@ dv_has_:
     zea: Ivoôrkust
     zgh: ⴰⴼⵜⴰⵙ ⵏ ⵡⵓⵥⵔ
     zh: 科特迪瓦
-    zh-cn: 科特迪瓦
-    zh-hans: 科特迪瓦
-    zh-hant: 象牙海岸
-    zh-hk: 科特迪瓦
-    zh-sg: 象牙海岸
-    zh-tw: 象牙海岸
+    zh_cn: 科特迪瓦
+    zh_hans: 科特迪瓦
+    zh_hant: 象牙海岸
+    zh_hk: 科特迪瓦
+    zh_sg: 象牙海岸
+    zh_tw: 象牙海岸
     zu: Ugu Emhlophe
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Cote_d-ivoire

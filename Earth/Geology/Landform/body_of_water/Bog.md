@@ -128,7 +128,7 @@ dv_has_:
     ast: Turbera
     ba: Һаҙлыҡ
     be: тарфянік
-    be-tarask: тарфянік
+    be_tarask: тарфянік
     bg: Тресавище
     br: Taouarc'heg
     ca: torbera
@@ -136,11 +136,11 @@ dv_has_:
     cy: cors
     da: mose
     de: Moor
-    de-ch: Moor
+    de_ch: Moor
     el: τυρφώνας
     en: bog
-    en-ca: Mire
-    en-gb: mire
+    en_ca: Mire
+    en_gb: mire
     eo: torfejo
     es: turbera
     et: soo
@@ -174,14 +174,14 @@ dv_has_:
     ms: Paya gambut
     nb: myr
     nds: Moor
-    nds-nl: vene
+    nds_nl: vene
     nl: veen
     nn: myr
     oc: Torbièra
     pl: torfowisko otwarte
     pnb: دلدل
     pt: paul
-    pt-br: Paul
+    pt_br: Paul
     ro: mlaștină
     ru: торфяное болото
     se: jeaggi
@@ -206,8 +206,8 @@ dv_has_:
     wuu: 酸性泥炭沼泽
     yue: 酸沼
     zh: 酸性泥炭沼泽
-    zh-hant: 酸性泥炭沼澤
-    zh-tw: 酸性泥炭沼澤
+    zh_hant: 酸性泥炭沼澤
+    zh_tw: 酸性泥炭沼澤
 ---
 # [[Bog]] 
 

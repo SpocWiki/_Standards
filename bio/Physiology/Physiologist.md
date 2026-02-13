@@ -103,7 +103,7 @@ dv_has_:
     ast: fisiólogu
     az: fizioloq
     be: фізіёлаг
-    be-tarask: фізыёляг
+    be_tarask: фізыёляг
     bg: физиолог
     ca: fisiòleg
     ckb: فیزیۆلۆجیناس
@@ -141,14 +141,14 @@ dv_has_:
     lv: fiziologs
     mk: физиолог
     ms: ahli fisiologi
-    ms-arab: اهلي فيسولوݢي
+    ms_arab: اهلي فيسولوݢي
     mt: fiżjologu
     nb: fysiolog
     nl: fysioloog
     oc: fisiologista
     pl: fizjolog
     pt: fisiólogo
-    pt-br: fisiologista
+    pt_br: fisiologista
     ro: fiziolog
     ru: физиолог
     se: fysiologa
@@ -158,8 +158,8 @@ dv_has_:
     sms: fysioloog
     sq: fiziolog
     sr: физиолог
-    sr-ec: физиолог
-    sr-el: fiziolog
+    sr_ec: физиолог
+    sr_el: fiziolog
     sv: fysiolog
     tg: корандомшинос
     tt: физиолог

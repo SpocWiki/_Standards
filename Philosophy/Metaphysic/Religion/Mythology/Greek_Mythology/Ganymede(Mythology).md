@@ -87,7 +87,7 @@ dv_has_:
     ba: Ганимед
     bar: Ganymed
     be: Ганімед
-    be-tarask: Ганімэд
+    be_tarask: Ганімэд
     bg: Ганимед
     br: Ganimedes
     bs: Ganimed
@@ -98,8 +98,8 @@ dv_has_:
     de: Ganymed
     el: Γανυμήδης
     en: Ganymede
-    en-ca: Ganymede
-    en-gb: Ganymede
+    en_ca: Ganymede
+    en_gb: Ganymede
     eo: Ganimedo (mitologio)
     es: Ganimedes
     et: Ganymedes
@@ -138,7 +138,7 @@ dv_has_:
     nl: Ganymedes
     pl: Ganimedes
     pt: Ganímedes
-    pt-br: Ganímedes
+    pt_br: Ganímedes
     ro: Ganymede
     ru: Ганимед
     scn: Ganimedi
@@ -147,8 +147,8 @@ dv_has_:
     sk: Ganymédes
     sl: Ganimed
     sr: Ганимед
-    sr-ec: Ганимед
-    sr-el: Ganimed
+    sr_ec: Ганимед
+    sr_el: Ganimed
     sv: Ganymedes
     th: แกนิมีด
     tl: Ganymede
@@ -159,12 +159,12 @@ dv_has_:
     wuu: 伽倪墨得斯
     yue: 伽尼米德
     zh: 伽倪墨得斯
-    zh-cn: 伽倪墨得斯
-    zh-hans: 伽倪墨得斯
-    zh-hant: 伽倪墨得斯
-    zh-hk: 伽尼米德
-    zh-sg: 伽倪墨得斯
-    zh-tw: 伽倪墨得斯
+    zh_cn: 伽倪墨得斯
+    zh_hans: 伽倪墨得斯
+    zh_hant: 伽倪墨得斯
+    zh_hk: 伽尼米德
+    zh_sg: 伽倪墨得斯
+    zh_tw: 伽倪墨得斯
 ---
 # [[Ganymede(Mythology)]] 
 

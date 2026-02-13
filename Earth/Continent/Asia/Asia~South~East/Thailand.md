@@ -64,7 +64,7 @@ dv_has_:
   name_:
     ace: Muang Thai
     ady: Тайланд
-    aeb-arab: تايلاندا
+    aeb_arab: تايلاندا
     af: Thailand
     am: ታይላንድ
     ami: Thailand
@@ -87,7 +87,7 @@ dv_has_:
     bcl: Tailandya
     bdr: Thailand
     be: Тайланд
-    be-tarask: Тайлянд
+    be_tarask: Тайлянд
     bew: Muang-Tay
     bg: Тайланд
     bho: थाइलैंड
@@ -104,7 +104,7 @@ dv_has_:
     bug: Tai
     bxr: Таиланд
     ca: Tailàndia
-    cbk-zam: Tailandia
+    cbk_zam: Tailandia
     cdo: Tái-guók
     ce: Таиланд
     ceb: Taylandiya
@@ -113,7 +113,7 @@ dv_has_:
     ckb: تایلەند
     co: Thailandia
     crh: Tayland
-    crh-latn: Tayland
+    crh_latn: Tayland
     cs: Thajsko
     csb: Tajlandiô
     cv: Таиланд
@@ -122,7 +122,7 @@ dv_has_:
     dag: Thailand
     de: Thailand
     de-at: Thailand
-    de-ch: Thailand
+    de_ch: Thailand
     diq: Tayland
     dsb: Thailandska
     dtp: Thailand
@@ -157,7 +157,7 @@ dv_has_:
     gn: Tailandia
     gom: थायलंड
     gom-deva: थायलंड
-    gom-latn: Thailand
+    gom_latn: Thailand
     gor: Thailand
     gpe: Thailand
     gsw: Thailand
@@ -210,7 +210,7 @@ dv_has_:
     krj: Banwatay
     ks: تھائی لینٛڈ
     ku: Taylenda
-    ku-latn: Taylenda
+    ku_latn: Taylenda
     kv: Таиланд
     kw: Pow Tay
     ky: Таиланд
@@ -232,7 +232,7 @@ dv_has_:
     mad: Thailand
     mag: थाइलेण्ड्
     mai: थाइल्याण्ड
-    map-bms: Thailand
+    map_bms: Thailand
     mdf: Таймастор
     mg: Tailandy
     mhr: Таиланд
@@ -246,7 +246,7 @@ dv_has_:
     mos: Thailand
     mr: थायलंड
     ms: Thailand
-    ms-arab: تهايلند
+    ms_arab: تهايلند
     mt: Tajlandja
     mwl: Tailándia
     my: ထိုင်းနိုင်ငံ
@@ -257,7 +257,7 @@ dv_has_:
     nan: Thài-kok
     nb: Thailand
     nds: Thailand
-    nds-nl: Thailaand
+    nds_nl: Thailaand
     ne: थाइल्याण्ड
     new: थाइल्याण्ड
     nia: Thailand
@@ -283,7 +283,7 @@ dv_has_:
     pnb: تھائی لینڈ
     ps: تايلنډ
     pt: Tailândia
-    pt-br: Tailândia
+    pt_br: Tailândia
     qu: Thaysuyu
     rki: ထိုင်းဘုရင့်နိုင်ငံ
     rmy: Thailand
@@ -314,8 +314,8 @@ dv_has_:
     so: Tayland
     sq: Tajlanda
     sr: Тајланд
-    sr-ec: Тајланд
-    sr-el: Tajland
+    sr_ec: Тајланд
+    sr_el: Tajland
     srn: Taikondre
     ss: IThayilandi
     stq: Thailound
@@ -370,12 +370,12 @@ dv_has_:
     zea: Thailand
     zgh: ⵜⴰⵢⵍⴰⵏⴷ
     zh: 泰國
-    zh-cn: 泰国
-    zh-hans: 泰国
-    zh-hant: 泰國
-    zh-hk: 泰國
+    zh_cn: 泰国
+    zh_hans: 泰国
+    zh_hant: 泰國
+    zh_hk: 泰國
     zh-my: 泰国
-    zh-tw: 泰國
+    zh_tw: 泰國
     zu: IThailande
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Thailand

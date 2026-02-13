@@ -109,7 +109,7 @@ dv_has_:
     ast: Cráter d'impautu
     az: Zərbə krateri
     be: астраблема
-    be-tarask: ударны кратэр
+    be_tarask: ударны кратэр
     bg: Ударен кратер
     bn: অভিঘাত খাদ
     br: Krater
@@ -121,8 +121,8 @@ dv_has_:
     de: Einschlagkrater
     el: κρατήρας πρόσκρουσης
     en: impact crater
-    en-ca: Impact crater
-    en-gb: impact crater
+    en_ca: Impact crater
+    en_gb: impact crater
     eo: alfrapa kratero
     es: cráter de impacto
     et: impaktkraater
@@ -161,7 +161,7 @@ dv_has_:
     oc: Cratèr d'impacte
     pl: krater uderzeniowy
     pt: Cratera de impacto
-    pt-br: cratera de impacto
+    pt_br: cratera de impacto
     qu: Pachakawri luq'u
     ro: Crater
     ru: ударный кратер
@@ -181,7 +181,7 @@ dv_has_:
     wuu: 撞击坑
     yue: 隕石坑
     zh: 撞擊坑
-    zh-hant: 撞擊坑
+    zh_hant: 撞擊坑
     zu: Isigqabhozi sokugadlazeka
 ---
 # [[Impact_Crater]] 

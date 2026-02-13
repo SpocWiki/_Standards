@@ -241,7 +241,7 @@ dv_has_:
     bar: Rechtsanwoit
     bcl: abogado
     be: адвакат
-    be-tarask: адвакат
+    be_tarask: адвакат
     bew: pokrol
     bg: адвокат
     bn: আইনজীবী
@@ -254,7 +254,7 @@ dv_has_:
     ceb: manlalaban
     ckb: پارێزەر
     crh: advokat
-    crh-latn: advokat
+    crh_latn: advokat
     cs: advokát
     csb: adwòkat
     cv: ваккат
@@ -262,13 +262,13 @@ dv_has_:
     da: advokat
     dag: sariya dira
     de: Rechtsanwalt
-    de-ch: Rechtsanwalt
+    de_ch: Rechtsanwalt
     dga: lɔɔyɛ
     diq: avoqat
     el: δικηγόρος
     en: lawyer
-    en-ca: lawyer
-    en-gb: lawyer
+    en_ca: lawyer
+    en_gb: lawyer
     en-us: lawyer
     eo: advokato
     es: abogado
@@ -321,7 +321,7 @@ dv_has_:
     krj: abogado
     ks: ؤکیٖل
     ku: parêzer
-    ku-latn: parêzer
+    ku_latn: parêzer
     kw: laghyas
     ky: жактоочу
     la: Causidicus
@@ -342,13 +342,13 @@ dv_has_:
     mn: Өмгөөлөгч
     mr: वकील
     ms: peguam
-    ms-arab: ڤݢوام
+    ms_arab: ڤݢوام
     mt: avukat
     mwl: abogado
     my: ရှေ့နေ
     nb: advokat
     nds: Avkaat
-    nds-nl: avvekaot
+    nds_nl: avvekaot
     ne: अधिवक्ता
     nl: advocaat
     nn: advokat
@@ -362,7 +362,7 @@ dv_has_:
     pl: adwokat
     ps: قانونپوه
     pt: advogado
-    pt-br: advogado(a)
+    pt_br: advogado(a)
     qu: taripay amachaq
     rmy: remaskro
     ro: avocat
@@ -390,12 +390,12 @@ dv_has_:
     ta: வழக்கறிஞர்
     te: న్యాయవాది
     tg: вакил
-    tg-cyrl: адвокат
+    tg_cyrl: адвокат
     th: นักกฎหมาย
     tl: abogado
     tr: avukat
     tt: адвокат
-    tt-cyrl: адвокат
+    tt_cyrl: адвокат
     tw: mmaranimfoɔ
     tyv: болчукчу
     uk: адвокат
@@ -414,14 +414,14 @@ dv_has_:
     za: lwdsae
     zgh: ⴰⵎⵙⵜⴰⵏ
     zh: 律師
-    zh-cn: 律师
-    zh-hans: 律师
-    zh-hant: 律師
-    zh-hk: 律師
-    zh-mo: 律師
+    zh_cn: 律师
+    zh_hans: 律师
+    zh_hant: 律師
+    zh_hk: 律師
+    zh_mo: 律師
     zh-my: 律师
-    zh-sg: 律师
-    zh-tw: 律師
+    zh_sg: 律师
+    zh_tw: 律師
     zu: ummeli
 ---
 # [[Lawyer]] 

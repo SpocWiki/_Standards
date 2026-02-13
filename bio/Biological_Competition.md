@@ -53,7 +53,7 @@ dv_has_:
   name_:
     af: Kompetisie
     ar: تنافس
-    be-tarask: канкурэнцыя
+    be_tarask: канкурэнцыя
     bg: Конкуренция (екология)
     ca: competència
     cs: kompetice

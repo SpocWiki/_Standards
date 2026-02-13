@@ -35,14 +35,14 @@ dv_has_:
     ar: تيفاترون
     ast: Tevatrón
     be: Тэватрон
-    be-tarask: тэватрон
+    be_tarask: тэватрон
     ca: Tevatró
     cs: Tevatron
     da: Tevatron
     de: Tevatron
     en: Tevatron
-    en-ca: Tevatron
-    en-gb: Tevatron
+    en_ca: Tevatron
+    en_gb: Tevatron
     eo: Tevatrono
     es: Tevatrón
     et: Tevatron
@@ -63,7 +63,7 @@ dv_has_:
     nn: Tevatron
     pl: Tevatron
     pt: Tevatron
-    pt-br: Tevatron
+    pt_br: Tevatron
     ru: Тэватрон
     sr: Tevatron
     sv: Tevatron
@@ -72,9 +72,9 @@ dv_has_:
     uz: Tevatron
     yue: Tevatron
     zh: 兆電子伏特加速器
-    zh-hans: 兆电子伏特加速器
-    zh-hant: 兆電子伏特加速器
-    zh-hk: 兆電子伏特加速器
+    zh_hans: 兆电子伏特加速器
+    zh_hant: 兆電子伏特加速器
+    zh_hk: 兆電子伏特加速器
 ---
 # [[Tevatron]] 
 

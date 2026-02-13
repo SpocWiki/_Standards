@@ -192,7 +192,7 @@ dv_has_:
     bar: Photographie
     bcl: potograpiya
     be: фатаграфія
-    be-tarask: фатаграфія
+    be_tarask: фатаграфія
     bg: фотография
     bho: फोटोग्राफी
     bm: kɔtɛba
@@ -211,11 +211,11 @@ dv_has_:
     cy: ffotograffiaeth
     da: fotografi
     de: Fotografie
-    de-ch: Fotografie
+    de_ch: Fotografie
     el: φωτογραφία
     en: photography
-    en-ca: photography
-    en-gb: photography
+    en_ca: photography
+    en_gb: photography
     eo: fotografio
     es: fotografía
     et: fotograafia
@@ -282,12 +282,12 @@ dv_has_:
     mn: гэрэл зураг авалт
     mr: छायाचित्रण
     ms: fotografi
-    ms-arab: فوتوݢرافي
+    ms_arab: فوتوݢرافي
     nan: hip-siōng
     nap: fotografia
     nb: fotografi
     nds: Fotografie
-    nds-nl: fotografie
+    nds_nl: fotografie
     ne: फोटोग्राफी
     nl: fotografie
     nn: fotografi
@@ -304,7 +304,7 @@ dv_has_:
     pnb: فوٹوگرافی
     ps: انځوراخيستنه
     pt: fotografia
-    pt-br: fotografia
+    pt_br: fotografia
     qu: rikch'aqillqay
     ro: fotografie
     ru: фотография
@@ -358,11 +358,11 @@ dv_has_:
     yo: fọ́tòyíyà
     yue: 影相
     zh: 攝影
-    zh-cn: 摄影
-    zh-hans: 摄影
-    zh-hant: 攝影
-    zh-hk: 攝影
-    zh-tw: 攝影
+    zh_cn: 摄影
+    zh_hans: 摄影
+    zh_hant: 攝影
+    zh_hk: 攝影
+    zh_tw: 攝影
 ---
 # [[Photography]] 
 

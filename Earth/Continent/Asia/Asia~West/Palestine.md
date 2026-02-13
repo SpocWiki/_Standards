@@ -261,7 +261,7 @@ dv_has_:
     ba: Фәләстин
     bar: Palästina
     be: Палесціна
-    be-tarask: Палестына
+    be_tarask: Палестына
     bg: Палестина
     bn: ফিলিস্তিন অঞ্চল
     bpy: পালেসটিনা
@@ -285,8 +285,8 @@ dv_has_:
     dty: प्यालेस्टाइन
     el: Παλαιστίνη
     en: Palestine
-    en-ca: Palestine
-    en-gb: Palestine
+    en_ca: Palestine
+    en_gb: Palestine
     eo: Palestino
     es: Palestina
     et: Palestiina
@@ -329,7 +329,7 @@ dv_has_:
     krc: Палестина
     ks: فلسطیٖن (علاقہٕ)
     ku: Filistîn
-    ku-arab: فلستین
+    ku_arab: فلستین
     kw: Palestayn
     ky: Палестина
     la: Palaestina
@@ -346,7 +346,7 @@ dv_has_:
     mn: Палестин
     mr: पॅलेस्टाईन
     ms: Palestin
-    ms-arab: فلسطين
+    ms_arab: فلسطين
     mzn: فلسطین
     nah: Palestina
     nan: Palestine
@@ -362,7 +362,7 @@ dv_has_:
     pnb: فلسطین
     ps: فلسطين
     pt: Palestina
-    pt-br: Palestina
+    pt_br: Palestina
     qu: Palistina
     rmy: Palestina
     ro: Palestina
@@ -405,7 +405,7 @@ dv_has_:
     zea: Palestina (streek)
     zgh: ⴼⴰⵍⵉⵙⵟⵉⵏ
     zh: 巴勒斯坦
-    zh-hant: 巴勒斯坦地區
+    zh_hant: 巴勒斯坦地區
 ---
 # [[Palestine]] 
 

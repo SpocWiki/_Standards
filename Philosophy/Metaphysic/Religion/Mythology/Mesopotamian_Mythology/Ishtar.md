@@ -67,8 +67,8 @@ dv_has_:
     ko: 이슈타르
     ks: اِنانا
     ku: Înanna
-    ku-arab: ئیناننا
-    ku-latn: Înanna
+    ku_arab: ئیناننا
+    ku_latn: Înanna
     la: Inanna
     lt: Inana
     mg: Inanna
@@ -81,7 +81,7 @@ dv_has_:
     nl: Inanna
     oc: Inanna
     pt: Inana
-    pt-br: Inana
+    pt_br: Inana
     ro: Inanna
     ru: Инанна
     sah: Истэр иэйэхсит
@@ -97,12 +97,12 @@ dv_has_:
     ur: اننا
     vi: Inanna
     zh: 伊南娜
-    zh-cn: 伊南娜
-    zh-hans: 伊南娜
-    zh-hant: 伊南娜
-    zh-hk: 伊南娜
-    zh-sg: 伊南娜
-    zh-tw: 伊南娜
+    zh_cn: 伊南娜
+    zh_hans: 伊南娜
+    zh_hant: 伊南娜
+    zh_hk: 伊南娜
+    zh_sg: 伊南娜
+    zh_tw: 伊南娜
 ---
 # [[Ishtar]]
 

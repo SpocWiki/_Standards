@@ -54,7 +54,7 @@ dv_has_:
     ar: حزمة
     ba: Көлтә
     be: пучок
-    be-tarask: сноп
+    be_tarask: сноп
     ca: garba
     cs: snop
     cv: Кĕлте

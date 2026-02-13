@@ -187,7 +187,7 @@ dv_has_:
     ba: Сәлмән Рөшд
     bcl: Salman Rushdie
     be: Салман Рушдзі
-    be-tarask: Салман Рушдзі
+    be_tarask: Салман Рушдзі
     bg: Салман Рушди
     bho: सलमान रुश्दी
     bn: সালমান রুশদি
@@ -254,7 +254,7 @@ dv_has_:
     pl: Salman Rushdie
     ps: احمد سلمان رشدي
     pt: Salman Rushdie
-    pt-br: Salman Rushdie
+    pt_br: Salman Rushdie
     ro: Salman Rushdie
     ru: Салман Рушди
     sa: सलमान रश्दी
@@ -281,8 +281,8 @@ dv_has_:
     yo: Salman Rushdie
     yue: 薩爾曼魯西迪
     zh: 薩爾曼·魯西迪
-    zh-hans: 萨尔曼·拉什迪
-    zh-hk: 沙曼·魯殊迪
+    zh_hans: 萨尔曼·拉什迪
+    zh_hk: 沙曼·魯殊迪
 ---
 # [[Salman_Rushdie]] 
 

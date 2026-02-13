@@ -118,7 +118,7 @@ dv_has_:
     ast: Monitor d'ordenador
     az: monitor
     be: манітор
-    be-tarask: манітор
+    be_tarask: манітор
     bew: Layar kumputer
     bg: Монитор
     bn: কম্পিউটার মনিটর
@@ -132,8 +132,8 @@ dv_has_:
     diq: monitor
     el: οθόνη υπολογιστή
     en: computer monitor
-    en-ca: computer monitor
-    en-gb: computer monitor
+    en_ca: computer monitor
+    en_gb: computer monitor
     eo: komputila ekrano
     es: monitor de computadora
     et: kuvar
@@ -191,7 +191,7 @@ dv_has_:
     pl: monitor komputera
     pms: Vìdeo dël calcolator
     pt: ecrã do computador
-    pt-br: monitor de vídeo
+    pt_br: monitor de vídeo
     qu: Qhawana pampa
     ro: Monitor
     ru: монитор
@@ -206,8 +206,8 @@ dv_has_:
     sl: računalniški monitor
     sq: Ekrani
     sr: рачунарски монитор
-    sr-ec: рачунарски монитор
-    sr-el: računarski monitor
+    sr_ec: рачунарски монитор
+    sr_el: računarski monitor
     su: monitor komputer
     sv: bildskärm
     sw: Kiwambo
@@ -218,7 +218,7 @@ dv_has_:
     tl: Monitor ng kompyuter
     tr: bilgisayar monitörü
     tt: монитор
-    tt-cyrl: монитор
+    tt_cyrl: монитор
     uk: монітор
     ur: شمارندی تظاہرہ
     vec: Monitor

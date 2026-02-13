@@ -115,7 +115,7 @@ dv_has_:
     azb: لری پیج
     ban: Larry Page
     be: Лары Пейдж
-    be-tarask: Лэры Пэйдж
+    be_tarask: Лэры Пэйдж
     bg: Лари Пейдж
     bn: ল্যারি পেইজ
     bs: Larry Page
@@ -125,12 +125,12 @@ dv_has_:
     cy: Larry Page
     da: Larry Page
     de: Larry Page
-    de-ch: Larry Page
+    de_ch: Larry Page
     dty: ल्यारी पेज
     el: Λάρρυ Πέιτζ
     en: Larry Page
-    en-ca: Larry Page
-    en-gb: Larry Page
+    en_ca: Larry Page
+    en_gb: Larry Page
     eo: Larry Page
     es: Larry Page
     et: Larry Page
@@ -186,7 +186,7 @@ dv_has_:
     pl: Larry Page
     ps: لاري پيج
     pt: Larry Page
-    pt-br: Larry Page
+    pt_br: Larry Page
     qu: Larry Page
     ro: Larry Page
     ru: Ларри Пейдж
@@ -215,9 +215,9 @@ dv_has_:
     wuu: 拉里·佩奇
     yue: 拉利比治
     zh: 拉里·佩奇
-    zh-hans: 拉里·佩奇
-    zh-hant: 賴利·佩吉
-    zh-hk: 拉利·比治
+    zh_hans: 拉里·佩奇
+    zh_hant: 賴利·佩吉
+    zh_hk: 拉利·比治
 ---
 # [[Page,Larry]] 
 

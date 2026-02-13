@@ -167,7 +167,7 @@ dv_has_:
     bar: Zwinling
     bcl: kambal
     be: блізня
-    be-tarask: блізьнюк
+    be_tarask: блізьнюк
     bg: близнак
     bn: যমজ
     br: gevell
@@ -180,12 +180,12 @@ dv_has_:
     da: tvilling
     de: Zwilling
     de-at: Zwilling
-    de-ch: Zwilling
+    de_ch: Zwilling
     diq: dıgan
     el: δίδυμος
     en: twin
-    en-ca: twin
-    en-gb: twin
+    en_ca: twin
+    en_gb: twin
     eo: ĝemelo
     es: gemelo
     et: kaksikud
@@ -244,7 +244,7 @@ dv_has_:
     pl: bliźniak
     ps: غبرګوني
     pt: gémeos
-    pt-br: gêmeos
+    pt_br: gêmeos
     qu: t'ira
     rn: ihasa
     ro: geamăn
@@ -260,8 +260,8 @@ dv_has_:
     sn: mapatya
     sq: binjakët
     sr: близанац
-    sr-ec: близанац
-    sr-el: blizanac
+    sr_ec: близанац
+    sr_el: blizanac
     sv: tvilling
     sw: mapacha
     ta: இரட்டையர்
@@ -281,12 +281,12 @@ dv_has_:
     yo: ìbejì
     yue: 孖生
     zh: 雙胞胎
-    zh-cn: 双胞胎
-    zh-hans: 双胞胎之一
-    zh-hant: 雙胞胎
-    zh-hk: 雙胞胎
-    zh-sg: 双胞胎
-    zh-tw: 雙胞胎
+    zh_cn: 双胞胎
+    zh_hans: 双胞胎之一
+    zh_hant: 雙胞胎
+    zh_hk: 雙胞胎
+    zh_sg: 双胞胎
+    zh_tw: 雙胞胎
 ---
 # [[Twin]] 
 

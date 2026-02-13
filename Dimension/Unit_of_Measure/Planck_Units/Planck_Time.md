@@ -73,7 +73,7 @@ dv_has_:
     ast: Tiempu de Planck
     az: Plank zamanı
     be: Планкаўскі час
-    be-tarask: плянкаўскі час
+    be_tarask: плянкаўскі час
     bg: Време на Планк
     bn: প্লাংকের সময়
     bs: Planckovo vrijeme
@@ -81,10 +81,10 @@ dv_has_:
     cs: Planckův čas
     da: Planck-tid
     de: Planck-Zeit
-    de-ch: Planck-Zeit
+    de_ch: Planck-Zeit
     en: Planck time
-    en-ca: Planck time
-    en-gb: Planck time
+    en_ca: Planck time
+    en_gb: Planck time
     eo: tempo de Planck
     es: tiempo de Planck
     et: Plancki aeg
@@ -109,7 +109,7 @@ dv_has_:
     pl: czas Plancka
     pnb: پلانک ویلہ
     pt: Tempo de Planck
-    pt-br: Tempo de Planck
+    pt_br: Tempo de Planck
     ro: Timp zero
     ru: планковское время
     scn: Tempu di Planck
@@ -127,12 +127,12 @@ dv_has_:
     vi: Thời gian Planck
     yue: 普朗克時間
     zh: 普朗克時間
-    zh-cn: 普朗克时间
-    zh-hans: 普朗克时间
-    zh-hant: 普朗克時間
-    zh-hk: 普朗克時間
-    zh-sg: 普朗克时间
-    zh-tw: 普朗克時間
+    zh_cn: 普朗克时间
+    zh_hans: 普朗克时间
+    zh_hant: 普朗克時間
+    zh_hk: 普朗克時間
+    zh_sg: 普朗克时间
+    zh_tw: 普朗克時間
 ---
 # [[Planck_Time]] 
 

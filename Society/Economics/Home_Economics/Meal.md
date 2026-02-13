@@ -105,7 +105,7 @@ dv_has_:
     az: Qidalanma
     ba: Туҡланыу
     be: харчаванне
-    be-tarask: яда
+    be_tarask: яда
     bg: Трапеза
     bho: खएका
     bn: ভোজন
@@ -117,11 +117,11 @@ dv_has_:
     cy: pryd o fwyd
     da: måltid
     de: Mahlzeit
-    de-ch: Mahlzeit
+    de_ch: Mahlzeit
     el: γεύμα
     en: meal
-    en-ca: Meal
-    en-gb: meal
+    en_ca: Meal
+    en_gb: meal
     eo: manĝo
     es: comida
     et: Eine
@@ -160,7 +160,7 @@ dv_has_:
     nn: måltid
     pl: posiłek
     pt: refeição
-    pt-br: Refeição
+    pt_br: Refeição
     ro: masă (mâncare)
     ru: приём пищи
     shi: Tirmt
@@ -168,14 +168,14 @@ dv_has_:
     sl: obrok
     sq: Vakti
     sr: оброк
-    sr-ec: оброк
-    sr-el: obrok
+    sr_ec: оброк
+    sr_el: obrok
     sv: måltid
     te: భోజనం
     th: มื้ออาหาร
     tr: öğün
     tt: ашау
-    tt-cyrl: ашау
+    tt_cyrl: ашау
     uk: їда
     ur: طعام
     vec: pacio
@@ -186,9 +186,9 @@ dv_has_:
     yo: oúnjẹ jíjẹ
     yue: 餐
     zh: 餐
-    zh-hans: 餐
-    zh-hant: 餐
-    zh-tw: 餐
+    zh_hans: 餐
+    zh_hant: 餐
+    zh_tw: 餐
 ---
 # [[Meal]] 
 

@@ -31,15 +31,15 @@ has_id_wikidata: Q36248530
 dv_has_:
   name_:
     ar: احتجاجات شارلوتسفيل 2017
-    be-tarask: марш „Яднайма правых“
+    be_tarask: марш „Яднайма правых“
     bn: ২০১৭ ইউনাইট দ্য রাইট সমাবেশ
     br: Manifestadeg Unite the Right 2017
     ca: Manifestació Unite the Right
     de: Rechtsextreme Demonstrationen und Terroranschlag in Charlottesville 2017
     eml: Manifestasiòṅ Unìr la Dèstra dal 2017
     en: Unite the Right rally
-    en-ca: 2017 Unite the Right rally
-    en-gb: Unite the Right rally
+    en_ca: 2017 Unite the Right rally
+    en_gb: Unite the Right rally
     eo: Manifestacio Unuigu la Dekstron
     es: Manifestación Unite the Right
     fa: گردهمایی اتحاد راستگرایان ۲۰۱۷

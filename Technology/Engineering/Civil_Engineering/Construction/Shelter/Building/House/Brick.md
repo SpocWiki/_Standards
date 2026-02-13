@@ -177,7 +177,7 @@ dv_has_:
     azb: کرپیج
     ba: кирбес
     be: цэгла
-    be-tarask: цэгла
+    be_tarask: цэгла
     bg: Тухла
     bn: ইট
     br: Brikenn
@@ -191,13 +191,13 @@ dv_has_:
     cy: bricsen
     da: mursten
     de: Mauerziegel
-    de-ch: Mauerziegel
+    de_ch: Mauerziegel
     diq: Tuxlaci
     el: τούβλο
     eml: Préda
     en: brick
-    en-ca: brick
-    en-gb: brick
+    en_ca: brick
+    en_gb: brick
     eo: briko
     es: ladrillo
     et: tellis
@@ -248,7 +248,7 @@ dv_has_:
     nan: Chng-á
     nb: murstein
     nds: Baacksteen
-    nds-nl: Keie
+    nds_nl: Keie
     ne: ईटा
     new: अपा
     nl: baksteen
@@ -262,7 +262,7 @@ dv_has_:
     pnb: اِٹ
     ps: خښته
     pt: tijolo
-    pt-br: Tijolo
+    pt_br: Tijolo
     qu: Kusasqa tika
     ro: cărămidă
     ru: кирпич
@@ -283,8 +283,8 @@ dv_has_:
     sn: Zvidhinha
     sq: Tullë
     sr: опека
-    sr-ec: опека
-    sr-el: opeka
+    sr_ec: опека
+    sr_el: opeka
     su: Batako
     sv: murtegel
     sw: Tofali
@@ -309,9 +309,9 @@ dv_has_:
     yue: 磚
     za: Cien
     zh: 磚
-    zh-cn: 砖
-    zh-hans: 砖
-    zh-hant: 磚
+    zh_cn: 砖
+    zh_hans: 砖
+    zh_hant: 磚
 ---
 # [[Brick]] 🧱 
 

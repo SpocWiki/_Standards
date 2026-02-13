@@ -165,7 +165,7 @@ dv_has_:
     bar: Kuche
     bcl: Kusina
     be: кухня
-    be-tarask: кухня
+    be_tarask: кухня
     bg: Кухня
     bjn: padu
     bn: রান্নাঘর
@@ -214,7 +214,7 @@ dv_has_:
     kab: Tanwalt
     kcg: tutuweang
     kk: ас үй
-    kk-latn: as üy
+    kk_latn: as üy
     ko: 부엌
     ksh: Kösch
     ku: Mitbex
@@ -230,7 +230,7 @@ dv_has_:
     lzh: 爨室
     mad: Dâpor
     mai: भन्सा घर
-    map-bms: Pawon
+    map_bms: Pawon
     min: Dapua
     mk: кујна
     ml: അടുക്കള
@@ -239,7 +239,7 @@ dv_has_:
     nan: chàu-kha
     nb: kjøkken
     nds: Köök
-    nds-nl: kökken
+    nds_nl: kökken
     ne: भान्सा
     new: भुतू
     nia: nahanawu
@@ -281,7 +281,7 @@ dv_has_:
     tl: kusina
     tr: mutfak
     tt: күхнә
-    tt-cyrl: күхнә
+    tt_cyrl: күхнә
     tw: mukaase
     uk: кухня
     ur: باورچی خانہ
@@ -296,14 +296,14 @@ dv_has_:
     yo: ilé ìdáná
     yue: 廚房
     zh: 廚房
-    zh-cn: 厨房
-    zh-hans: 厨房
-    zh-hant: 廚房
-    zh-hk: 廚房
-    zh-mo: 廚房
+    zh_cn: 厨房
+    zh_hans: 厨房
+    zh_hant: 廚房
+    zh_hk: 廚房
+    zh_mo: 廚房
     zh-my: 厨房
-    zh-sg: 厨房
-    zh-tw: 廚房
+    zh_sg: 厨房
+    zh_tw: 廚房
 ---
 # [[Kitchen]] 
 

@@ -237,7 +237,7 @@ dv_has_:
     ban: Chordata
     bcl: Chordate
     be: хордавыя
-    be-tarask: хордавыя
+    be_tarask: хордавыя
     bg: Хордови
     bho: कार्डेट
     bn: কর্ডাটা
@@ -257,8 +257,8 @@ dv_has_:
     de: Chordatiere
     el: Χορδωτά
     en: Chordata
-    en-ca: Chordata
-    en-gb: Chordata
+    en_ca: Chordata
+    en_gb: Chordata
     eo: ĥorduloj
     es: cordados
     et: keelikloomad
@@ -341,7 +341,7 @@ dv_has_:
     pms: Chordata
     pnb: کورڈیٹ
     pt: cordados
-    pt-br: chordata
+    pt_br: chordata
     qu: Wasa tiwlliyuq
     ro: chordata
     ru: хордовые
@@ -370,8 +370,8 @@ dv_has_:
     tok: soweli pi palisa insa monsi
     tr: Kordalılar
     tt: хордалылар
-    tt-cyrl: хордалылар
-    tt-latn: xordalılar
+    tt_cyrl: хордалылар
+    tt_latn: xordalılar
     uk: хордові
     ur: حبلیات
     uz: Xordalilar
@@ -387,11 +387,11 @@ dv_has_:
     zea: Chordabeêsten
     zgh: ⵜⵉⵎⵙⴳⴰⵜⵓⵜⵉⵏ
     zh: 脊索动物门
-    zh-cn: 脊索动物门
-    zh-hans: 脊索动物门
-    zh-hant: 脊索動物門
-    zh-hk: 脊索動物門
-    zh-tw: 脊索動物門
+    zh_cn: 脊索动物门
+    zh_hans: 脊索动物门
+    zh_hant: 脊索動物門
+    zh_hk: 脊索動物門
+    zh_tw: 脊索動物門
 ---
 # [[Chordata]] 
 

@@ -103,7 +103,7 @@ dv_has_:
     az: Ox
     ba: Уҡ
     be: Страла
-    be-tarask: Страла
+    be_tarask: Страла
     bg: Стрела
     bn: বাণ ণ্ডল
     br: Saezh

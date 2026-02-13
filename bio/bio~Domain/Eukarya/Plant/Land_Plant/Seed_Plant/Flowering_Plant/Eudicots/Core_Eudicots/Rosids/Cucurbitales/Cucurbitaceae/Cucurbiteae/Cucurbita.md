@@ -97,7 +97,7 @@ dv_has_:
     azb: کدو
     bcl: Kalabasa
     be: гарбуз
-    be-tarask: гарбуз
+    be_tarask: гарбуз
     bg: тиква
     bn: কুমড়া
     bs: Cucurbita
@@ -108,12 +108,12 @@ dv_has_:
     cv: Кавӑн
     da: græskar
     de: Kürbisse
-    de-ch: Kürbisse
+    de_ch: Kürbisse
     dsb: Banja
     el: Κολοκύνθη
     en: Cucurbita
-    en-ca: Cucurbita
-    en-gb: Cucurbita
+    en_ca: Cucurbita
+    en_gb: Cucurbita
     eo: Kukurbo
     es: Cucurbita
     et: Kõrvits
@@ -161,7 +161,7 @@ dv_has_:
     pl: dynia
     pnb: کدو
     pt: Cucurbita
-    pt-br: Cucurbita
+    pt_br: Cucurbita
     qu: Kalawasa
     ro: Cucurbita
     ru: тыква
@@ -175,7 +175,7 @@ dv_has_:
     sv: pumpasläktet
     tr: Kabak
     tt: кабак
-    tt-cyrl: кабак
+    tt_cyrl: кабак
     tyv: Тыква
     uk: гарбуз
     vi: Chi Bí
@@ -185,9 +185,9 @@ dv_has_:
     xmf: კოპეშია
     yue: 南瓜屬
     zh: 南瓜属
-    zh-cn: 南瓜属
-    zh-hans: 南瓜属
-    zh-tw: 南瓜屬
+    zh_cn: 南瓜属
+    zh_hans: 南瓜属
+    zh_tw: 南瓜屬
 ---
 # [[Cucurbita]] 
 

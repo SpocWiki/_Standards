@@ -87,14 +87,14 @@ dv_has_:
     vec: amigałità
     yue: 親和度
     zh: 親和性
-    zh-cn: 亲和性
-    zh-hans: 亲和性
-    zh-hant: 親和性
-    zh-hk: 親和性
-    zh-mo: 親和性
+    zh_cn: 亲和性
+    zh_hans: 亲和性
+    zh_hant: 親和性
+    zh_hk: 親和性
+    zh_mo: 親和性
     zh-my: 亲和性
-    zh-sg: 亲和性
-    zh-tw: 親和性
+    zh_sg: 亲和性
+    zh_tw: 親和性
 ---
 # [[Big5~A-Agreeableness]] 
 

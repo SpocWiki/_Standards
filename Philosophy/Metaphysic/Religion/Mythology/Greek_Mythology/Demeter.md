@@ -53,7 +53,7 @@ dv_has_:
     bar: Demeter
     bcl: Demeter
     be: Дэметра
-    be-tarask: Дэмэтра
+    be_tarask: Дэмэтра
     bg: Деметра
     bn: দেমেতের
     br: Demeter
@@ -92,7 +92,7 @@ dv_has_:
     kk: Деметра
     ko: 데메테르
     ku: Dêmêtra
-    ku-latn: Dêmêtra
+    ku_latn: Dêmêtra
     la: Demeter
     lb: Demeter
     lt: Demetra
@@ -140,8 +140,8 @@ dv_has_:
     wuu: 得墨忒耳
     yue: 得茉忒薾
     zh: 得墨忒耳
-    zh-cn: 得墨忒耳
-    zh-tw: 狄蜜特
+    zh_cn: 得墨忒耳
+    zh_tw: 狄蜜特
 ---
 # [[Demeter]] 
 

@@ -31,10 +31,10 @@ dv_has_:
     da: Scorpionidae
     de: Scorpionidae
     de-at: Scorpionidae
-    de-ch: Scorpionidae
+    de_ch: Scorpionidae
     en: Scorpionidae
-    en-ca: Scorpionidae
-    en-gb: Scorpionidae
+    en_ca: Scorpionidae
+    en_gb: Scorpionidae
     eo: Scorpionidae
     es: Scorpionidae
     et: Scorpionidae
@@ -72,7 +72,7 @@ dv_has_:
     nap: Scorpionidae
     nb: Scorpionidae
     nds: Scorpionidae
-    nds-nl: Scorpionidae
+    nds_nl: Scorpionidae
     nl: Scorpionidae
     nn: Scorpionidae
     nrm: Scorpionidae
@@ -82,7 +82,7 @@ dv_has_:
     pl: Scorpionidae
     pms: Scorpionidae
     pt: Scorpionidae
-    pt-br: Scorpionidae
+    pt_br: Scorpionidae
     rm: Scorpionidae
     ro: Scorpionidae
     ru: Scorpionidae
@@ -104,9 +104,9 @@ dv_has_:
     war: Scorpionidae
     wo: Scorpionidae
     zh: 蝎科
-    zh-cn: 蝎科
-    zh-hans: 蝎科
-    zh-tw: 蠍科
+    zh_cn: 蝎科
+    zh_hans: 蝎科
+    zh_tw: 蠍科
     zu: Scorpionidae
 ---
 # Scorpionidae 

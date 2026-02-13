@@ -91,7 +91,7 @@ dv_has_:
     ast: estáu d'emerxencia
     az: Fövqəladə hallar
     be: Надзвычайнае становішча
-    be-tarask: надзвычайнае становішча
+    be_tarask: надзвычайнае становішча
     bg: Извънредно положение
     bn: জরুরি অবস্থা
     br: stad a reuziad
@@ -139,7 +139,7 @@ dv_has_:
     oc: Estat d'urgéncia
     pl: stan wyjątkowy
     pt: estado de exceção
-    pt-br: estado de emergência
+    pt_br: estado de emergência
     ro: stare de urgență
     ru: чрезвычайное положение
     se: spiehkastatdilli
@@ -159,12 +159,12 @@ dv_has_:
     wuu: 紧急状态
     yue: 緊急狀態
     zh: 紧急状态
-    zh-cn: 紧急状态
-    zh-hans: 紧急状态
-    zh-hant: 緊急狀態
-    zh-hk: 緊急狀態
-    zh-sg: 紧急状态
-    zh-tw: 緊急狀態
+    zh_cn: 紧急状态
+    zh_hans: 紧急状态
+    zh_hant: 緊急狀態
+    zh_hk: 緊急狀態
+    zh_sg: 紧急状态
+    zh_tw: 緊急狀態
 ---
 # [[State_of_Emergency]] 
 

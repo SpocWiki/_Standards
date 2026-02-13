@@ -160,7 +160,7 @@ dv_has_:
     az: Sofi Loren
     ba: Софи Лорен
     be: Сафі Ларэн
-    be-tarask: Сафі Лярэн
+    be_tarask: Сафі Лярэн
     bg: София Лорен
     bi: Sophia Loren
     bn: সোফিয়া লরেন
@@ -229,7 +229,7 @@ dv_has_:
     pl: Sophia Loren
     pms: Sophia Loren
     pt: Sophia Loren
-    pt-br: Sophia Loren
+    pt_br: Sophia Loren
     qu: Sophia Loren
     ro: Sophia Loren
     ru: Софи Лорен
@@ -241,7 +241,7 @@ dv_has_:
     sl: Sophia Loren
     sq: Sophia Loren
     sr: Софија Лорен
-    sr-ec: Софија Лорен
+    sr_ec: Софија Лорен
     sv: Sophia Loren
     tg: Софиа Лорен
     th: โซเฟีย ลอเรน
@@ -259,12 +259,12 @@ dv_has_:
     yo: Sophia Loren
     yue: 蘇菲亞羅蘭
     zh: 索菲娅·罗兰
-    zh-cn: 索菲娅·罗兰
-    zh-hans: 索菲娅·罗兰
-    zh-hant: 蘇菲亞·羅蘭
+    zh_cn: 索菲娅·罗兰
+    zh_hans: 索菲娅·罗兰
+    zh_hant: 蘇菲亞·羅蘭
     zh-my: 苏菲亚·罗兰
-    zh-sg: 苏菲亚·罗兰
-    zh-tw: 蘇菲亞·羅蘭
+    zh_sg: 苏菲亚·罗兰
+    zh_tw: 蘇菲亞·羅蘭
 ---
 # [[Loren,Sophia]] 
 

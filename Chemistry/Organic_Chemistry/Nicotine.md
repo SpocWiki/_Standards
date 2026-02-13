@@ -285,7 +285,7 @@ dv_has_:
     ba: Никотин
     bcl: Nikotina
     be: нікацін
-    be-tarask: нікатын
+    be_tarask: нікатын
     bg: Никотин
     bn: নিকোটিন
     br: nikotin

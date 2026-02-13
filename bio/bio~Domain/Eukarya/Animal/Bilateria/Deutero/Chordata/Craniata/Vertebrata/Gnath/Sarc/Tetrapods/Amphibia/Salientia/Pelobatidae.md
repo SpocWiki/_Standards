@@ -46,8 +46,8 @@ dv_has_:
     cs: blatnicovití
     de: Pelobatidae
     en: Pelobatidae
-    en-ca: European spadefoot toad
-    en-gb: European spadefoot toad
+    en_ca: European spadefoot toad
+    en_gb: European spadefoot toad
     eo: Eŭropaj ŝpatokruraj ranoj
     es: Pelobatidae
     eu: Pelobates
@@ -79,14 +79,14 @@ dv_has_:
     pl: Grzebiuszkowate
     pnb: یورپی بیلچہ پیر کھورا ڈڈو
     pt: Pelobatidae
-    pt-br: Pelobatidae
+    pt_br: Pelobatidae
     ro: Pelobatidae
     ru: чесночницы
     sl: česnovke
     sq: Pelobatidae
     sr: Чешњаче
-    sr-ec: Чешњаче
-    sr-el: Češnjače
+    sr_ec: Чешњаче
+    sr_el: Češnjače
     sv: Lökgrodor
     tr: Pelobatidae
     tt: Җир бакалары
@@ -95,9 +95,9 @@ dv_has_:
     vo: Pelobatidae
     war: Pelobatidae
     zh: 锄足蟾科
-    zh-cn: 锄足蟾科
-    zh-hans: 锄足蟾科
-    zh-tw: 鋤足蟾科
+    zh_cn: 锄足蟾科
+    zh_hans: 锄足蟾科
+    zh_tw: 鋤足蟾科
 ---
 # [[Pelobatidae]]
 

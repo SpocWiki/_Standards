@@ -63,7 +63,7 @@ dv_has_:
     az: Riman həndəsəsi
     ba: Риман геометрияһы
     be: рыманава геаметрыя
-    be-tarask: рыманава геамэтрыя
+    be_tarask: рыманава геамэтрыя
     bg: Риманова геометрия
     ca: Geometria riemanniana
     cs: Riemannova geometrie
@@ -96,7 +96,7 @@ dv_has_:
     pa: ਰੀਮਾਨੀਅਨ ਜੀਓਮੈਟ੍ਰੀ
     pl: geometria riemannowska
     pt: geometria de Riemann
-    pt-br: geometria Riemanniana
+    pt_br: geometria Riemanniana
     ro: geometrie riemanniană
     ru: риманова геометрия
     sh: Riemannova geometrija
@@ -112,9 +112,9 @@ dv_has_:
     vi: hình học Riemann
     yue: 黎曼幾何
     zh: 黎曼几何
-    zh-hans: 黎曼几何
-    zh-hant: 黎曼幾何
-    zh-hk: 黎曼幾何
+    zh_hans: 黎曼几何
+    zh_hant: 黎曼幾何
+    zh_hk: 黎曼幾何
 ---
 # [[Riemannian_Geometry]] 
 

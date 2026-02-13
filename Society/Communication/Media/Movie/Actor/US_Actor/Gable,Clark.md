@@ -120,7 +120,7 @@ dv_has_:
     ba: Кларк Гейбл
     bar: Clark Gable
     be: Кларк Гейбл
-    be-tarask: Кларк Гэйбл
+    be_tarask: Кларк Гэйбл
     bg: Кларк Гейбъл
     bi: Clark Gable
     bn: ক্লার্ক গেবল
@@ -183,7 +183,7 @@ dv_has_:
     pa: ਕਲਾਰਕ ਗੇਬਲ
     pl: Clark Gable
     pt: Clark Gable
-    pt-br: Clark Gable
+    pt_br: Clark Gable
     qu: Clark Gable
     ro: Clark Gable
     ru: Кларк Гейбл
@@ -208,9 +208,9 @@ dv_has_:
     yo: Clark Gable
     yue: 奇勒基寶
     zh: 克拉克·盖博
-    zh-cn: 克拉克·盖博
-    zh-hans: 克拉克·盖博
-    zh-hk: 奇勒·基寶
+    zh_cn: 克拉克·盖博
+    zh_hans: 克拉克·盖博
+    zh_hk: 奇勒·基寶
     zh-my: 奇勒·基宝
 ---
 # [[Gable,Clark]]

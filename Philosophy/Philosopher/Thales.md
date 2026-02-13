@@ -139,7 +139,7 @@ dv_has_:
     ban: Thales
     bcl: Thales
     be: Фалес Мілецкі
-    be-tarask: Талес зь Мілету
+    be_tarask: Талес зь Мілету
     bg: Талес
     bjn: Thales
     bn: থেলিস
@@ -151,12 +151,12 @@ dv_has_:
     cy: Thales
     da: Thales
     de: Thales
-    de-ch: Thales
+    de_ch: Thales
     diq: Thales
     el: Θαλής
     en: Thales
-    en-ca: Thales
-    en-gb: Thales
+    en_ca: Thales
+    en_gb: Thales
     eo: Taleso
     es: Tales de Mileto
     et: Thales
@@ -192,7 +192,7 @@ dv_has_:
     kn: ಥೇಲ್ಸ್ ಆಫ್ ಮಿಲೆಟಸ್
     ko: 탈레스
     ku: Talês
-    ku-latn: Talês
+    ku_latn: Talês
     ky: Фалес Милеттик
     la: Thales Milesius
     lfn: Tale
@@ -220,7 +220,7 @@ dv_has_:
     pnb: تھالیز
     ps: د میلېتوس تالیس
     pt: Tales de Mileto
-    pt-br: Tales de Mileto
+    pt_br: Tales de Mileto
     qu: Tales de Mileto
     ro: Thales din Milet
     ru: Фалес Милетский
@@ -234,7 +234,7 @@ dv_has_:
     sl: Tales
     sq: Talesi i Miletit
     sr: Талес из Милета
-    sr-ec: Талес из Милета
+    sr_ec: Талес из Милета
     sv: Thales från Miletos
     sw: Thales
     ta: தேலேஸ்

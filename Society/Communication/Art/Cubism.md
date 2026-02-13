@@ -91,7 +91,7 @@ dv_has_:
     az: kubizm
     bcl: Kubismo
     be: кубізм
-    be-tarask: кубізм
+    be_tarask: кубізм
     bg: кубизъм
     bs: Kubizam
     ca: cubisme
@@ -171,8 +171,8 @@ dv_has_:
     sms: kubismm
     sq: kubizmi
     sr: кубизам
-    sr-ec: кубизам
-    sr-el: kubizam
+    sr_ec: кубизам
+    sr_el: kubizam
     stq: Kubismus
     sv: kubism
     ta: கியூபிசம்

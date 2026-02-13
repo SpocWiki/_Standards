@@ -77,7 +77,7 @@ dv_has_:
     bar: Millard Fillmore
     bcl: Millard Fillmore
     be: Мілард Філмар
-    be-tarask: Мілард Філмар
+    be_tarask: Мілард Філмар
     bg: Милърд Филмор
     bi: Millard Fillmore
     bn: মিলার্ড ফিলমোর
@@ -99,8 +99,8 @@ dv_has_:
     dv: މިލާރޑް ފިލްމޯރ
     el: Μίλαρντ Φίλμορ
     en: Millard Fillmore
-    en-ca: Millard Fillmore
-    en-gb: Millard Fillmore
+    en_ca: Millard Fillmore
+    en_gb: Millard Fillmore
     eo: Millard Fillmore
     es: Millard Fillmore
     et: Millard Fillmore
@@ -172,7 +172,7 @@ dv_has_:
     pnb: میلارڈ فلمور
     ps: میلارد فیلمور
     pt: Millard Fillmore
-    pt-br: Millard Fillmore
+    pt_br: Millard Fillmore
     rm: Millard Fillmore
     rmf: Millard Fillmore
     ro: Millard Fillmore

@@ -88,7 +88,7 @@ dv_has_:
     ast: Imperiu de la llei
     az: Hüququn aliliyi
     be: вяршэнства права
-    be-tarask: вяршэнства закону
+    be_tarask: вяршэнства закону
     bg: Правова държава
     bn: আইনের শাসন
     br: rule of law
@@ -100,8 +100,8 @@ dv_has_:
     de: Rule of Law
     el: κράτος δικαίου
     en: rule of law
-    en-ca: Rule of law
-    en-gb: rule of law
+    en_ca: Rule of law
+    en_gb: rule of law
     eo: regado de la leĝo
     es: imperio de la ley
     et: õigusriik

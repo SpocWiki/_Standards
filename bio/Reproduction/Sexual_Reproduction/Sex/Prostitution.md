@@ -188,7 +188,7 @@ dv_has_:
     bar: Schnoin
     bcl: prostitusyon
     be: прастытуцыя
-    be-tarask: прастытуцыя
+    be_tarask: прастытуцыя
     bg: Проституция
     bn: পতিতাবৃত্তি
     bo: སྨད་འཚོང་མ།
@@ -205,8 +205,8 @@ dv_has_:
     el: πορνεία
     eml: putàna
     en: prostitution
-    en-ca: prostitution
-    en-gb: prostitution
+    en_ca: prostitution
+    en_gb: prostitution
     eo: prostituo
     es: prostitución
     et: prostitutsioon
@@ -239,7 +239,7 @@ dv_has_:
     kn: ವೇಶ್ಯಾವೃತ್ತಿ
     ko: 성매매
     ku: laşfiroşî
-    ku-latn: laşfiroşî
+    ku_latn: laşfiroşî
     la: meretricium
     lb: Prostitutioun
     lmo: prustitüsiun
@@ -264,7 +264,7 @@ dv_has_:
     pl: prostytucja
     ps: ځانپلورنه
     pt: prostituição
-    pt-br: prostituição
+    pt_br: prostituição
     qu: Q'itayay
     ro: prostituție
     ru: проституция
@@ -279,8 +279,8 @@ dv_has_:
     so: Dhillaysigu
     sq: prostitucion
     sr: проституција
-    sr-ec: проституција
-    sr-el: prostitucija
+    sr_ec: проституција
+    sr_el: prostitucija
     sv: prostitution
     sw: ukahaba
     ta: பால்வினைத் தொழில்
@@ -289,7 +289,7 @@ dv_has_:
     tl: patutot
     tr: fahişelik
     tt: фахишәлек
-    tt-cyrl: фахишәлек
+    tt_cyrl: фахишәлек
     uk: проституція
     ur: عصمت فروشی
     uz: Fohishalik
@@ -301,8 +301,8 @@ dv_has_:
     yue: 妓
     za: Gaindang
     zh: 性交易
-    zh-hant: 性交易
-    zh-hk: 性交易
+    zh_hant: 性交易
+    zh_hk: 性交易
 ---
 # [[Prostitution]] 
 

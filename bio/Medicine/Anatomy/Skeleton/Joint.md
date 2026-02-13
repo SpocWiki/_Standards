@@ -152,7 +152,7 @@ dv_has_:
     av: Рищи
     az: Oynaq
     be: сустаў
-    be-tarask: сустава
+    be_tarask: сустава
     bg: Става
     bn: অস্থিসন্ধি
     br: Mell
@@ -167,8 +167,8 @@ dv_has_:
     diq: Sak
     el: Άρθρωση
     en: joint
-    en-ca: Joint
-    en-gb: joint
+    en_ca: Joint
+    en_gb: joint
     eo: artiko
     es: articulación
     et: liiges
@@ -222,7 +222,7 @@ dv_has_:
     pa: ਜੋੜ
     pl: staw
     pt: articulação
-    pt-br: Articulação
+    pt_br: Articulação
     qu: Tullu muqu
     ro: articulație
     ru: сустав
@@ -247,7 +247,7 @@ dv_has_:
     tl: Kasu-kasuan
     tr: Eklem
     tt: буын
-    tt-cyrl: буын
+    tt_cyrl: буын
     udm: ёзви
     uk: суглоб
     ur: مفصل

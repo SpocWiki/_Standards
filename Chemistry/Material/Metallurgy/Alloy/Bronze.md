@@ -146,7 +146,7 @@ dv_has_:
     ban: prunggu
     bcl: bronse
     be: бронза
-    be-tarask: бронза
+    be_tarask: бронза
     bg: бронз
     bn: ব্রোঞ্জ
     br: arem
@@ -162,7 +162,7 @@ dv_has_:
     de: Bronze
     el: μπρούντζος
     en: bronze
-    en-gb: bronze
+    en_gb: bronze
     en-us: bronze
     eo: bronzo
     es: bronce
@@ -239,7 +239,7 @@ dv_has_:
     pl: brąz
     pnb: کانسی
     pt: bronze
-    pt-br: bronze
+    pt_br: bronze
     qu: champi
     ro: bronz
     ru: бронза
@@ -259,8 +259,8 @@ dv_has_:
     sn: ndarira
     sq: bronzi
     sr: бронза
-    sr-ec: бронза
-    sr-el: bronza
+    sr_ec: бронза
+    sr_el: bronza
     su: perunggu
     sv: brons
     sw: shaba
@@ -284,9 +284,9 @@ dv_has_:
     yi: בראנדז
     yue: 青銅
     zh: 青铜
-    zh-cn: 青铜
-    zh-hans: 青铜
-    zh-hant: 青銅
+    zh_cn: 青铜
+    zh_hans: 青铜
+    zh_hant: 青銅
     zu: Ibhulonze
   parts:
   - '[[../../../Chemical_Element/Group-11-Copper/Copper|Copper]]'

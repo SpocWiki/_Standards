@@ -132,7 +132,7 @@ dv_has_:
     ba: гормондар
     bcl: Hormona
     be: гармон
-    be-tarask: гармон
+    be_tarask: гармон
     bg: хормон
     bn: হরমোন
     bs: hormon
@@ -196,7 +196,7 @@ dv_has_:
     ml: അന്തർഗ്രന്ഥിസ്രാവം
     mr: संप्रेरक
     ms: hormon
-    ms-arab: هورمون
+    ms_arab: هورمون
     mt: Ormon
     my: ဟော်မုန်း
     nan: ho͘-lú-bóng
@@ -215,7 +215,7 @@ dv_has_:
     pnb: ہارمون
     ps: هورمون
     pt: hormona
-    pt-br: hormônio
+    pt_br: hormônio
     ro: hormon
     ru: гормон
     rue: гормон
@@ -258,8 +258,8 @@ dv_has_:
     yi: הארמאן
     yue: 賀爾蒙
     zh: 激素
-    zh-cn: 激素
-    zh-hans: 激素
+    zh_cn: 激素
+    zh_hans: 激素
 ---
 # [[Hormone]] 
 

@@ -93,7 +93,7 @@ dv_has_:
     ast: Efeutu Compton
     az: Kompton effekti
     be: Эфект Комптана
-    be-tarask: эфэкт Комптана
+    be_tarask: эфэкт Комптана
     bg: Ефект на Комптън
     bn: কম্পটন ক্রিয়া
     ca: efecte Compton
@@ -122,11 +122,11 @@ dv_has_:
     ja: コンプトン効果
     ka: კომპტონის ეფექტი
     kk: Комптон эффектісі
-    kk-arab: كومپتون ەففەكتىسى
+    kk_arab: كومپتون ەففەكتىسى
     kk-cn: كومپتون ەففەكتىسى
-    kk-cyrl: Комптон эффектісі
+    kk_cyrl: Комптон эффектісі
     kk-kz: Комптон эффектісі
-    kk-latn: Kompton éffektisi
+    kk_latn: Kompton éffektisi
     kk-tr: Kompton éffektisi
     ko: 콤프턴 효과
     ks: کامٹَن اَثر
@@ -149,8 +149,8 @@ dv_has_:
     sl: Comptonov pojav
     sq: Efekti i Komptonit
     sr: Комптонов ефекат
-    sr-ec: Комптонов ефекат
-    sr-el: Komptonov efekat
+    sr_ec: Комптонов ефекат
+    sr_el: Komptonov efekat
     sv: Comptonspridning
     ta: காம்டன் சிதறல்
     th: ปรากฏการณ์คอมป์ตัน
@@ -163,12 +163,12 @@ dv_has_:
     wuu: 康普顿散射
     yue: 康普頓效應
     zh: 康普頓散射
-    zh-cn: 康普顿散射
-    zh-hans: 康普顿散射
-    zh-hant: 康普頓散射
-    zh-hk: 康普頓散射
-    zh-sg: 康普顿散射
-    zh-tw: 康普頓散射
+    zh_cn: 康普顿散射
+    zh_hans: 康普顿散射
+    zh_hant: 康普頓散射
+    zh_hk: 康普頓散射
+    zh_sg: 康普顿散射
+    zh_tw: 康普頓散射
 ---
 # [[Compton_Effect]] 
 

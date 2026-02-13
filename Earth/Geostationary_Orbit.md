@@ -97,7 +97,7 @@ dv_has_:
     ast: Órbita xeoestacionaria
     az: Geostasionar orbit
     be: Геастацыянарная арбіта
-    be-tarask: Геастацыянарная арбіта
+    be_tarask: Геастацыянарная арбіта
     bg: Геостационарна орбита
     bn: ভূস্থির কক্ষপথ
     br: Orbitenn geoarsavel
@@ -108,8 +108,8 @@ dv_has_:
     de: geostationäre Umlaufbahn
     el: Γεωστατική τροχιά
     en: geostationary orbit
-    en-ca: Geostationary orbit
-    en-gb: geostationary orbit
+    en_ca: Geostationary orbit
+    en_gb: geostationary orbit
     eo: terfiksa orbito
     es: órbita geoestacionaria
     et: Geostatsionaarne orbiit
@@ -141,7 +141,7 @@ dv_has_:
     pl: orbita geostacjonarna
     pnb: جیوسٹیشنری آربٹ
     pt: órbita geoestacionária
-    pt-br: Órbita geoestacionária
+    pt_br: Órbita geoestacionária
     ro: orbită geostaționară
     ru: геостационарная орбита
     sh: Geostacionarna orbita
@@ -149,8 +149,8 @@ dv_has_:
     sk: geostacionárna dráha
     sl: geostacionarna orbita
     sr: Геостационарна орбита
-    sr-ec: Геостационарна орбита
-    sr-el: Geostacionarna orbita
+    sr_ec: Геостационарна орбита
+    sr_el: Geostacionarna orbita
     su: Orbit Géosetasionér
     sv: geostationär omloppsbana
     ta: புவிநிலைச் சுற்றுப்பாதை
@@ -164,12 +164,12 @@ dv_has_:
     wuu: 地球静止轨道
     yue: 地球靜止軌道
     zh: 地球靜止軌道
-    zh-cn: 地球静止轨道
-    zh-hans: 地球静止轨道
-    zh-hant: 地球靜止軌道
-    zh-hk: 地球靜止軌道
-    zh-sg: 地球静止轨道
-    zh-tw: 地球靜止軌道
+    zh_cn: 地球静止轨道
+    zh_hans: 地球静止轨道
+    zh_hant: 地球靜止軌道
+    zh_hk: 地球靜止軌道
+    zh_sg: 地球静止轨道
+    zh_tw: 地球靜止軌道
 ---
 # [[Geostationary_Orbit]] 
 

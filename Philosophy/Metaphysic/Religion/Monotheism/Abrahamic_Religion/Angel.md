@@ -199,7 +199,7 @@ dv_has_:
     bbc: Suruan
     bcl: Anghel
     be: анёл
-    be-tarask: анёл
+    be_tarask: анёл
     bg: Ангел
     bn: দেব-দূত
     br: Ael
@@ -216,7 +216,7 @@ dv_has_:
     de: Engel
     el: Άγγελος
     en: angel
-    en-gb: angel
+    en_gb: angel
     eo: anĝelo
     es: ángel
     et: ingel
@@ -282,7 +282,7 @@ dv_has_:
     pl: anioł
     pnb: فرشتہ
     pt: anjo
-    pt-br: anjo
+    pt_br: anjo
     qu: Killki
     rmy: Devabi
     ro: Înger
@@ -306,7 +306,7 @@ dv_has_:
     so: Malag
     sq: Engjëlli
     sr: анђео
-    sr-ec: анђео
+    sr_ec: анђео
     su: Malaékat
     sv: ängel
     sw: Malaika
@@ -330,8 +330,8 @@ dv_has_:
     yue: 天使
     zgh: ⴰⵏⴳⵍⵓⵙ
     zh: 天使
-    zh-hant: 天使
-    zh-tw: 天使
+    zh_hant: 天使
+    zh_tw: 天使
     zu: Ingelosi
 ---
 # [[Angel]] 

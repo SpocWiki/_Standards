@@ -127,7 +127,7 @@ dv_has_:
     ast: organismu modificáu xenéticamente
     az: GMO
     ba: Генетик модификацияланған организм
-    be-tarask: трансгенны арганізм
+    be_tarask: трансгенны арганізм
     bg: Генетично модифициран организъм
     bn: বংশাণুগতভাবে পরিবর্তিত জীব
     br: Organeg daskemmet he genoù
@@ -177,7 +177,7 @@ dv_has_:
     pms: Organism geneticament modificà
     ps: په جنيټيکي ډول اصلاح شوی ژوندی جسم
     pt: OGM
-    pt-br: Transgênicos
+    pt_br: Transgênicos
     ro: Organism modificat genetic
     ru: Генетически модифицированный организм
     scn: ciao
@@ -187,8 +187,8 @@ dv_has_:
     sl: gensko spremenjeni organizem
     sq: Organizmat e modifikuar gjenetikisht
     sr: Генетички модификован организам
-    sr-ec: Генетички модификован организам
-    sr-el: Genetički modifikovan organizam
+    sr_ec: Генетички модификован организам
+    sr_el: Genetički modifikovan organizam
     sv: genetiskt modifierad organism
     ta: மரபணு மாற்றப்பட்ட உயிரினம்
     tg: Ҷондорони дасткоришудаи женетикӣ
@@ -201,12 +201,12 @@ dv_has_:
     wuu: 转基因生物
     yue: 基因改造生物
     zh: 轉基因生物
-    zh-cn: 转基因生物
-    zh-hans: 转基因生物
-    zh-hant: 轉基因生物
-    zh-hk: 轉基因生物
-    zh-sg: 转基因生物
-    zh-tw: 轉基因生物
+    zh_cn: 转基因生物
+    zh_hans: 转基因生物
+    zh_hant: 轉基因生物
+    zh_hk: 轉基因生物
+    zh_sg: 转基因生物
+    zh_tw: 轉基因生物
     zu: IsiPhili esiguqulwe isiFuzisi
 ---
 # [[GMO(genetically_modified_Organism)]] 

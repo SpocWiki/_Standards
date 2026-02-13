@@ -195,7 +195,7 @@ dv_has_:
     ba: Жан-Поль Сартр
     bar: Jean-Paul Sartre
     be: Жан-Поль Сартр
-    be-tarask: Жан-Поль Сартр
+    be_tarask: Жан-Поль Сартр
     bg: Жан-Пол Сартр
     bjn: Jean-Paul Sartre
     bn: জঁ-পল সার্ত্র
@@ -214,12 +214,12 @@ dv_has_:
     da: Jean-Paul Sartre
     de: Jean-Paul Sartre
     de-at: Jean-Paul Sartre
-    de-ch: Jean-Paul Sartre
+    de_ch: Jean-Paul Sartre
     diq: Jean-Paul Sartre
     el: Ζαν-Πολ Σαρτρ
     en: Jean-Paul Sartre
-    en-ca: Jean-Paul Sartre
-    en-gb: Jean-Paul Sartre
+    en_ca: Jean-Paul Sartre
+    en_gb: Jean-Paul Sartre
     en-us: Jean-Paul Sartre
     eo: Jean-Paul Sartre
     es: Jean-Paul Sartre
@@ -293,7 +293,7 @@ dv_has_:
     nap: Jean-Paul Sartre
     nb: Jean-Paul Sartre
     nds: Jean-Paul Sartre
-    nds-nl: Jean-Paul Sartre
+    nds_nl: Jean-Paul Sartre
     ne: जँ पल सार्त्र
     new: जां-पल सारत्रे
     nl: Jean-Paul Sartre
@@ -327,7 +327,7 @@ dv_has_:
     sl: Jean-Paul Sartre
     sq: Jean-Paul Sartre
     sr: Жан Пол Сартр
-    sr-el: Jean-Paul Sartre
+    sr_el: Jean-Paul Sartre
     sv: Jean-Paul Sartre
     sw: Jean-Paul Sartre
     ta: ஜான் பவுல் சாட்டர்
@@ -357,10 +357,10 @@ dv_has_:
     yue: 薩特
     za: Jean-Paul Sartre
     zh: 让-保罗·萨特
-    zh-cn: 让-保罗·萨特
+    zh_cn: 让-保罗·萨特
     zh-hans: 让-保罗·萨特
-    zh-hant: 尚-保羅·沙特
-    zh-tw: 尚-保羅·沙特
+    zh_hant: 尚-保羅·沙特
+    zh_tw: 尚-保羅·沙特
     zu: Jean-Paul Sartre
 ---
 # [[Sartre,Jean-Paul]] 

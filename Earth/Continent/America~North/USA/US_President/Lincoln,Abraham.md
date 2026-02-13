@@ -248,7 +248,7 @@ dv_has_:
     bar: Abraham Lincoln
     bcl: Abraham Lincoln
     be: Аўраам Лінкальн
-    be-tarask: Абрагам Лінкальн
+    be_tarask: Абрагам Лінкальн
     bew: Ibraham Lingkolen
     bg: Ейбрахам Линкълн
     bho: अब्राहम लिंकन
@@ -273,7 +273,7 @@ dv_has_:
     dag: Abraham Lincoln
     de: Abraham Lincoln
     de-at: Abraham Lincoln
-    de-ch: Abraham Lincoln
+    de_ch: Abraham Lincoln
     diq: Abraham Lincoln
     dsb: Abraham Lincoln
     dty: अब्राहम लिङ्कन
@@ -281,8 +281,8 @@ dv_has_:
     ee: Abraham Lincoln
     el: Αβραάμ Λίνκολν
     en: Abraham Lincoln
-    en-ca: Abraham Lincoln
-    en-gb: Abraham Lincoln
+    en_ca: Abraham Lincoln
+    en_gb: Abraham Lincoln
     en-us: Abraham Lincoln
     eo: Abraham Lincoln
     es: Abraham Lincoln
@@ -380,7 +380,7 @@ dv_has_:
     nap: Abraham Lincoln
     nb: Abraham Lincoln
     nds: Abraham Lincoln
-    nds-nl: Abraham Lincoln
+    nds_nl: Abraham Lincoln
     ne: अब्राहम लिंकन
     new: अब्राहम लिन्कन
     nl: Abraham Lincoln
@@ -405,7 +405,7 @@ dv_has_:
     pnb: ابراہام لنکن
     ps: ابراهم لینکولن
     pt: Abraham Lincoln
-    pt-br: Abraham Lincoln
+    pt_br: Abraham Lincoln
     qu: Abraham Lincoln
     rm: Abraham Lincoln
     rmf: Abraham Lincoln
@@ -437,7 +437,7 @@ dv_has_:
     sms: Abraham Lincoln
     sq: Abraham Lincoln
     sr: Абрахам Линколн
-    sr-el: Abraham Lincoln
+    sr_el: Abraham Lincoln
     stq: Abraham Lincoln
     sv: Abraham Lincoln
     sw: Abraham Lincoln
@@ -473,14 +473,14 @@ dv_has_:
     za: Linzgenj
     zea: Abraham Lincoln
     zh: 亞伯拉罕·林肯
-    zh-cn: 亚伯拉罕·林肯
-    zh-hans: 亚伯拉罕·林肯
-    zh-hant: 亞伯拉罕·林肯
-    zh-hk: 亞伯拉罕·林肯
-    zh-mo: 亞伯拉罕·林肯
+    zh_cn: 亚伯拉罕·林肯
+    zh_hans: 亚伯拉罕·林肯
+    zh_hant: 亞伯拉罕·林肯
+    zh_hk: 亞伯拉罕·林肯
+    zh_mo: 亞伯拉罕·林肯
     zh-my: 亚伯拉罕·林肯
-    zh-sg: 亚伯拉罕·林肯
-    zh-tw: 亞伯拉罕·林肯
+    zh_sg: 亚伯拉罕·林肯
+    zh_tw: 亞伯拉罕·林肯
     zu: Abraham Lincoln
   time_:
     started: 1809-02-12T00:00:00.000+00:53

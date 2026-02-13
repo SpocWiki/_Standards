@@ -31,7 +31,7 @@ dv_has_:
     oc: Louteridium
     pl: Louteridium
     pt: Louteridium
-    pt-br: Louteridium
+    pt_br: Louteridium
     ro: Louteridium
     ru: Louteridium
     sq: Louteridium

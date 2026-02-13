@@ -91,7 +91,7 @@ dv_has_:
     ast: Historia d'América del Norte
     az: Şimali Amerika tarixi
     ba: Төньяҡ Америка тарихы
-    be-tarask: гісторыя Паўночнай Амэрыкі
+    be_tarask: гісторыя Паўночнай Амэрыкі
     bn: উত্তর আমেরিকার ইতিহাস
     ca: Història d'Amèrica del Nord
     cs: dějiny Severní Ameriky
@@ -136,7 +136,7 @@ dv_has_:
     tl: Kasaysayan ng Hilagang Amerika
     tr: Kuzey Amerika tarihi
     tt: Төньяк Америка тарихы
-    tt-cyrl: Төньяк Америка тарихы
+    tt_cyrl: Төньяк Америка тарихы
     uk: історія Північної Америки
     vi: lịch sử Bắc Mỹ
     wuu: 北美洲历史

@@ -68,18 +68,18 @@ dv_has_:
     az: Qauss üsulu
     ba: Гаусс ысулы
     be: Метад Гауса
-    be-tarask: мэтад Гаўса
+    be_tarask: мэтад Гаўса
     bg: метод на Гаус
     ca: Mètode de reducció de Gauss
     cs: Gaussova eliminační metoda
     cv: Гаусс меслечĕ
     da: Gauss-elimination
     de: Gaußsches Eliminationsverfahren
-    de-ch: Gaußsches Eliminationsverfahren
+    de_ch: Gaußsches Eliminationsverfahren
     el: Γκαουσιανή απαλοιφή
     en: Gaussian elimination
-    en-ca: Gaussian elimination
-    en-gb: Gaussian elimination
+    en_ca: Gaussian elimination
+    en_gb: Gaussian elimination
     eo: Gaŭsa eliminado
     es: eliminación de Gauss-Jordan
     eu: Gauss-Jordan algoritmo
@@ -104,7 +104,7 @@ dv_has_:
     nl: Gauss-eliminatie
     pl: metoda eliminacji Gaussa
     pt: eliminação de Gauss
-    pt-br: eliminação de Gauss
+    pt_br: eliminação de Gauss
     ro: eliminare gaussiană
     ru: метод Гаусса
     sah: Метод гаусса

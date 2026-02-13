@@ -140,7 +140,7 @@ dv_has_:
     azb: یایلا
     ba: Яйла
     be: плато
-    be-tarask: плято
+    be_tarask: плято
     bg: плато
     bho: पठार
     bn: মালভূমি
@@ -187,7 +187,7 @@ dv_has_:
     kn: ಪ್ರಸ್ಥಭೂಮಿ
     ko: 고원
     ku: plato
-    ku-latn: plato
+    ku_latn: plato
     ky: Плато
     la: Alta planities
     lmo: Altipian
@@ -222,8 +222,8 @@ dv_has_:
     so: Dul
     sq: Pllaja
     sr: висораван
-    sr-ec: висораван
-    sr-el: visoravan
+    sr_ec: висораван
+    sr_el: visoravan
     sv: platå
     ta: பீடபூமி
     te: పీఠభూమి
@@ -243,7 +243,7 @@ dv_has_:
     yi: פלאטא
     yue: 高原
     zh: 高原
-    zh-hant: 高原
+    zh_hant: 高原
 ---
 # [[Plateau]] 
 

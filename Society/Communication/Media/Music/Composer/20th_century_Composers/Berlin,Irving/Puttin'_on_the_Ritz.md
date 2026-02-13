@@ -52,8 +52,8 @@ dv_has_:
     sv: Puttin' on the Ritz
     uk: Puttin' on the Ritz
     zh: 追求时尚
-    zh-hans: 追求时尚
-    zh-hant: 追求時尚
+    zh_hans: 追求时尚
+    zh_hant: 追求時尚
 ---
 #is_/same_as :: [[Puttin'_on_the_Ritz,943316]]
 

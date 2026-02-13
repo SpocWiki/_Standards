@@ -150,7 +150,7 @@ dv_has_:
     az: ali təhsil müəssisəsi
     ba: юғары уҡыу йорто
     be: установа вышэйшай адукацыі
-    be-tarask: вышэйшая навучальная ўстанова
+    be_tarask: вышэйшая навучальная ўстанова
     bg: Висше училище
     bn: উচ্চশিক্ষা প্রতিষ্ঠান
     ca: institució educativa universitària
@@ -160,8 +160,8 @@ dv_has_:
     de: Hochschule
     el: ανώτατο εκπαιδευτικό ίδρυμα
     en: higher education institution
-    en-ca: higher education institution
-    en-gb: higher education institution
+    en_ca: higher education institution
+    en_gb: higher education institution
     eo: altlernejo
     es: institución educativa universitaria
     et: kõrgkool
@@ -194,7 +194,7 @@ dv_has_:
     ml: ഉന്നത വിദ്യാഭ്യാസ സ്ഥാപനം
     mn: Дээд сургуулийн газар
     ms: institusi pendidikan tinggi
-    ms-arab: اينستيتوسي ڤنديديقن تيڠݢي
+    ms_arab: اينستيتوسي ڤنديديقن تيڠݢي
     nb: høyere utdanningsinstitusjon
     nia: Perguruan Tinggi
     nl: instelling voor hoger onderwijs
@@ -203,7 +203,7 @@ dv_has_:
     os: уæлдæр ахуыргæнæндон
     pl: uczelnia
     pt: instituição de ensino superior
-    pt-br: instituição de ensino superior
+    pt_br: instituição de ensino superior
     ro: instituție de învățământ superior
     ru: высшее учебное заведение
     sco: heicher eddication organization
@@ -211,8 +211,8 @@ dv_has_:
     sl: visokošolska ustanova
     sq: institucion arsimi i lartë
     sr: организација високог образовања
-    sr-ec: организација високог образовања
-    sr-el: organizacija visokog obrazovanja
+    sr_ec: организација високог образовања
+    sr_el: organizacija visokog obrazovanja
     su: Paguron luhur
     sv: högskola
     ta: உயர் கல்வி நிறுவனம்
@@ -220,7 +220,7 @@ dv_has_:
     th: สถาบันอุดมศึกษา
     tr: yükseköğretim kurumu
     tt: югары уку йорты
-    tt-cyrl: югары уку йорты
+    tt_cyrl: югары уку йорты
     uk: заклад вищої освіти
     ur: اعلی تعلیمی ادارہ
     uz: Oliy taʼlim muassasasi
@@ -228,11 +228,11 @@ dv_has_:
     vi: tổ chức giáo dục đại học
     yo: ilé-ẹ̀kọ́ gíga
     zh: 高等教育机构
-    zh-cn: 高等教育机构
-    zh-hans: 高等教育机构
-    zh-hant: 高等教育機構
-    zh-hk: 高等教育機構
-    zh-tw: 高等教育機構
+    zh_cn: 高等教育机构
+    zh_hans: 高等教育机构
+    zh_hant: 高等教育機構
+    zh_hk: 高等教育機構
+    zh_tw: 高等教育機構
 ---
 # [[College_or_University]] 
 

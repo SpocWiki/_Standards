@@ -90,7 +90,7 @@ dv_has_:
     af: AGN-sterrestelsel
     ar: نواة مجرة نشطة
     az: fəal nüvəli qalaktikalar
-    be-tarask: актыўнае галяктычнае ядро
+    be_tarask: актыўнае галяктычнае ядро
     bg: активно галактично ядро
     bn: সক্রিয় ছায়াপথ কেন্দ্রীণ
     bo: ལས་ཞུགས་དགུ་ཚིགས་ལྟེ་ཉིང་།
@@ -98,11 +98,11 @@ dv_has_:
     ca: nucli galàctic actiu
     cs: aktivní galaktické jádro
     de: aktiver Galaxienkern
-    de-ch: aktiver galaktischer Kern
+    de_ch: aktiver galaktischer Kern
     el: ενεργός γαλαξιακός πυρήνας
     en: active galactic nucleus
-    en-ca: active galactic nucleus
-    en-gb: active galactic nucleus
+    en_ca: active galactic nucleus
+    en_gb: active galactic nucleus
     eo: aktiva galaksia nukleo
     es: núcleo galáctico activo
     eu: Galaxia-nukleo aktibo
@@ -128,14 +128,14 @@ dv_has_:
     nl: actief sterrenstelsel
     nn: aktiv galaksekjerne
     pt: núcleo galáctico ativo
-    pt-br: núcleo galáctico ativo
+    pt_br: núcleo galáctico ativo
     ru: активное ядро галактики
     sh: aktivno galaktičko jezgro
     sk: Aktívne jadro galaxie
     sl: aktivno galaktično jedro
     sr: активни галактички нуклеус
-    sr-ec: активни галактички нуклеус
-    sr-el: aktivni galaktički nukleus
+    sr_ec: активни галактички нуклеус
+    sr_el: aktivni galaktički nukleus
     sv: aktiv galaxkärna
     sw: Kiini cha majarra hai
     th: นิวเคลียสดาราจักรกัมมันต์
@@ -146,7 +146,7 @@ dv_has_:
     wuu: 活动星系核
     yue: 活躍星系核
     zh: 活动星系核
-    zh-tw: 活躍星系核
+    zh_tw: 活躍星系核
 ---
 # [[Active_galactic_Nucleus]] 
 

@@ -73,9 +73,9 @@ dv_has_:
     ja: 地形学
     ka: ოროგრაფია
     kk: орография
-    kk-arab: وروگرافىييا
-    kk-cyrl: Орография
-    kk-latn: Orografïya
+    kk_arab: وروگرافىييا
+    kk_cyrl: Орография
+    kk_latn: Orografïya
     ky: орография
     lv: orogrāfija
     nb: orografi

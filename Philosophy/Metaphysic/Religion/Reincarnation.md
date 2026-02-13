@@ -118,7 +118,7 @@ dv_has_:
     az: reinkarnasiya
     ba: реинкарнация
     be: рэінкарнацыя
-    be-tarask: рэінкарнацыя
+    be_tarask: рэінкарнацыя
     bg: прераждане
     bn: পুনর্জন্ম
     bo: སྐྱེ་བ་སྔ་ཕྱི་
@@ -195,8 +195,8 @@ dv_has_:
     sl: reinkarnacija
     sq: rimishërimi
     sr: реинкарнација
-    sr-ec: реинкарнација
-    sr-el: reinkarnacija
+    sr_ec: реинкарнација
+    sr_el: reinkarnacija
     sv: själavandring
     ta: மறுபிறப்பு
     te: పునర్జన్మ
@@ -215,12 +215,12 @@ dv_has_:
     yo: Àkúdàáyá
     yue: 投胎轉世
     zh: 轉世
-    zh-cn: 转世
-    zh-hans: 转世
-    zh-hant: 轉世
-    zh-hk: 轉世
-    zh-sg: 转世
-    zh-tw: 轉世
+    zh_cn: 转世
+    zh_hans: 转世
+    zh_hant: 轉世
+    zh_hk: 轉世
+    zh_sg: 转世
+    zh_tw: 轉世
 ---
 # [[Reincarnation]] 
 

@@ -84,7 +84,7 @@ dv_has_:
     arz: نبيت احمر
     ast: vinu tinto
     ba: ҡыҙыл шарап
-    be-tarask: чырвонае віно
+    be_tarask: чырвонае віно
     bg: червено вино
     br: gwin ruz
     ca: vi negre
@@ -93,11 +93,11 @@ dv_has_:
     cy: gwin coch
     da: rødvin
     de: Rotwein
-    de-ch: Rotwein
+    de_ch: Rotwein
     el: κόκκινο κρασί
     en: red wine
-    en-ca: red wine
-    en-gb: red wine
+    en_ca: red wine
+    en_gb: red wine
     eo: ruĝa vino
     es: vino tinto
     eu: ardo beltz
@@ -135,7 +135,7 @@ dv_has_:
     pl: wino czerwone
     pms: vin nèir
     pt: vinho tinto
-    pt-br: vinho tinto
+    pt_br: vinho tinto
     ro: vin roșu
     ru: красное вино
     sh: crno vino
@@ -151,13 +151,13 @@ dv_has_:
     za: Laeuj Nding
     zh: 紅葡萄酒
     zh-cn: 红葡萄酒
-    zh-hans: 红葡萄酒
-    zh-hant: 紅葡萄酒
-    zh-hk: 紅葡萄酒
-    zh-mo: 紅葡萄酒
+    zh_hans: 红葡萄酒
+    zh_hant: 紅葡萄酒
+    zh_hk: 紅葡萄酒
+    zh_mo: 紅葡萄酒
     zh-my: 红葡萄酒
-    zh-sg: 红葡萄酒
-    zh-tw: 紅葡萄酒
+    zh_sg: 红葡萄酒
+    zh_tw: 紅葡萄酒
 ---
 # [[Red_Wine]] 🍷 
 

@@ -47,13 +47,13 @@ dv_has_:
   name_:
     ar: تجربة قطرة الزيت
     ast: Esperimentu de Millikan
-    be-tarask: экспэрымэнт Мілікена
+    be_tarask: экспэрымэнт Мілікена
     ca: experiment de Millikan
     de: Millikan-Versuch
     el: Πείραμα των σταγονιδίων λαδιού
     en: oil drop experiment
-    en-ca: Oil drop experiment
-    en-gb: Oil drop experiment
+    en_ca: Oil drop experiment
+    en_gb: Oil drop experiment
     eo: eksperimento de oleguto
     es: experimento de Millikan
     eu: Millikanen esperimentu
@@ -74,7 +74,7 @@ dv_has_:
     nl: proef van Millikan
     pl: eksperyment Millikana
     pt: experiência da gota de óleo
-    pt-br: Experiência da gota de óleo
+    pt_br: Experiência da gota de óleo
     ru: Опыт Милликена
     sh: Milikanov eksperiment
     sq: eksperimenti i Millikan

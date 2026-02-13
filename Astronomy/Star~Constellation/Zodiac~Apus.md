@@ -109,7 +109,7 @@ dv_has_:
     az: Cənnət Quşu
     ba: Ожмах ҡошо
     be: Райскі Птах
-    be-tarask: Райская Птушка
+    be_tarask: Райская Птушка
     bg: Райска птица
     bn: ধূম্রাট মণ্ডল
     br: Evn Baradoz
@@ -190,7 +190,7 @@ dv_has_:
     wuu: 天燕座
     yue: 天燕座
     zh: 天燕座
-    zh-tw: 天燕座
+    zh_tw: 天燕座
 dv_is_:
   same_as:
   - '[[_Standards/WikiData/WD~Apus,10506]]'

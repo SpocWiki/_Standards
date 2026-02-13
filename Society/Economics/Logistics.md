@@ -7,7 +7,7 @@ dv_has_:
     ast: loxística
     az: logistika
     be: лагістыка
-    be-tarask: лягістыка
+    be_tarask: лягістыка
     bg: Логистика
     bn: পণ্য স্থানান্তর বিদ্যা
     ca: logística
@@ -17,8 +17,8 @@ dv_has_:
     de: Logistik
     el: επιμελητεία
     en: logistics
-    en-ca: Logistics
-    en-gb: logistics
+    en_ca: Logistics
+    en_gb: logistics
     en-us: logistics
     eo: loĝistiko
     es: logística
@@ -41,11 +41,11 @@ dv_has_:
     ka: საბაზრო ლოგისტიკა
     kaa: logistika
     kk: логистика
-    kk-arab: لوگىيستىيكا
+    kk_arab: لوگىيستىيكا
     kk-cn: لوگىيستىيكا
-    kk-cyrl: логистика
+    kk_cyrl: логистика
     kk-kz: логистика
-    kk-latn: Logïstïka
+    kk_latn: Logïstïka
     kk-tr: Logïstïka
     ko: 물류
     lb: Logistik
@@ -55,7 +55,7 @@ dv_has_:
     ml: ലോജിസ്റ്റിക്സ്
     mn: Ложистик
     ms: logistik
-    ms-arab: لوݢيستيک
+    ms_arab: لوݢيستيک
     mul: logistics
     nb: logistikk
     ne: बन्दोबस्ती
@@ -67,7 +67,7 @@ dv_has_:
     pl: logistyka
     pms: Logìstica
     pt: logística
-    pt-br: Logística
+    pt_br: Logística
     ro: logistică
     ru: логистика
     sah: Логистика
@@ -80,8 +80,8 @@ dv_has_:
     sms: logistikk
     sq: Logjistika
     sr: логистика
-    sr-ec: логистика
-    sr-el: logistika
+    sr_ec: логистика
+    sr_el: logistika
     sv: logistik
     ta: பெயர்ச்சியியல்
     tg: Логистика
@@ -97,12 +97,12 @@ dv_has_:
     wuu: 物流
     yue: 物流
     zh: 物流
-    zh-cn: 物流
-    zh-hans: 物流
-    zh-hant: 物流
-    zh-hk: 物流
-    zh-sg: 物流
-    zh-tw: 物流
+    zh_cn: 物流
+    zh_hans: 物流
+    zh_hant: 物流
+    zh_hk: 物流
+    zh_sg: 物流
+    zh_tw: 物流
 aliases:
 - hậu cần
 - logisteg

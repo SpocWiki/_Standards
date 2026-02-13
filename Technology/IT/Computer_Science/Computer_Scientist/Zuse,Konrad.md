@@ -116,7 +116,7 @@ dv_has_:
     ast: Konrad Zuse
     az: Konrad Tsuze
     azb: کنراد تسوزه
-    be-tarask: Конрад Цузэ
+    be_tarask: Конрад Цузэ
     bg: Конрад Цузе
     bn: কনরাড ৎসুজে
     bs: Konrad Zuse
@@ -125,11 +125,11 @@ dv_has_:
     cv: Цузе Конрад
     da: Konrad Zuse
     de: Konrad Zuse
-    de-ch: Konrad Zuse
+    de_ch: Konrad Zuse
     el: Κόνραντ Τσούζε
     en: Konrad Zuse
-    en-ca: Konrad Zuse
-    en-gb: Konrad Zuse
+    en_ca: Konrad Zuse
+    en_gb: Konrad Zuse
     eo: Konrad Zuse
     es: Konrad Zuse
     et: Konrad Zuse
@@ -168,7 +168,7 @@ dv_has_:
     oc: Konrad Zuse
     pl: Konrad Zuse
     pt: Konrad Zuse
-    pt-br: Konrad Zuse
+    pt_br: Konrad Zuse
     ro: Konrad Zuse
     ru: Конрад Цузе
     sk: Konrad Zuse

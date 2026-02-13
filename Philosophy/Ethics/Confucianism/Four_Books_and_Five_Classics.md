@@ -49,7 +49,7 @@ depicts: '[[_Standards/WikiData/WD~Confucianism,9581]]'
 dv_has_:
   name_:
     ar: الكتب الأربعة والكلاسيكيات الخمسة
-    be-tarask: чатыры кнігі і пяць канонаў
+    be_tarask: чатыры кнігі і пяць канонаў
     br: Pevar Levr ha Pemp Klaselour
     ca: Quatre Llibres i Cinc Clàssics
     ckb: چوار کتێب و پێنج کلاسیکەکە
@@ -86,9 +86,9 @@ dv_has_:
     yue: 四書五經
     za: Seiqsaw Nguxging
     zh: 四書五經
-    zh-hans: 四书五经
-    zh-hant: 四書五經
-    zh-hk: 四書五經
+    zh_hans: 四书五经
+    zh_hant: 四書五經
+    zh_hk: 四書五經
 ---
 # [[Four_Books_and_Five_Classics]] 
 

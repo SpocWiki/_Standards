@@ -72,7 +72,7 @@ dv_has_:
     ast: Militarismu
     az: Militarizm
     be: мілітарызм
-    be-tarask: мілітарызм
+    be_tarask: мілітарызм
     bg: милитаризъм
     ca: militarisme
     ckb: سەربازیخوازی
@@ -102,11 +102,11 @@ dv_has_:
     ja: 軍国主義
     ka: მილიტარიზმი
     kk: Милитаризм
-    kk-arab: مىيلىيتارىيزم
+    kk_arab: مىيلىيتارىيزم
     kk-cn: مىيلىيتارىيزم
-    kk-cyrl: Милитаризм
+    kk_cyrl: Милитаризм
     kk-kz: Милитаризм
-    kk-latn: Mïlïtarïzm
+    kk_latn: Mïlïtarïzm
     kk-tr: Mïlïtarïzm
     ko: 군국주의
     ky: Милитаризм
@@ -123,7 +123,7 @@ dv_has_:
     oc: Militarisme
     pl: militaryzm
     pt: militarismo
-    pt-br: militarismo
+    pt_br: militarismo
     ro: militarism
     ru: милитаризм
     se: militarisma
@@ -134,8 +134,8 @@ dv_has_:
     sms: militarismm
     sq: Militarizmi
     sr: Милитаризам
-    sr-ec: Милитаризам
-    sr-el: Militarizam
+    sr_ec: Милитаризам
+    sr_el: Militarizam
     sv: militarism
     th: แสนยนิยม
     tok: nasin pi kulupu utala
@@ -145,12 +145,12 @@ dv_has_:
     vi: Chủ nghĩa quân phiệt
     yue: 軍國主義
     zh: 军国主义
-    zh-cn: 军国主义
-    zh-hans: 军国主义
-    zh-hant: 軍國主義
-    zh-hk: 軍國主義
-    zh-sg: 军国主义
-    zh-tw: 軍國主義
+    zh_cn: 军国主义
+    zh_hans: 军国主义
+    zh_hant: 軍國主義
+    zh_hk: 軍國主義
+    zh_sg: 军国主义
+    zh_tw: 軍國主義
 ---
 # [[Militarism]] 
 

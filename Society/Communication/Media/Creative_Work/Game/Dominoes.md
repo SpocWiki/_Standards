@@ -74,7 +74,7 @@ dv_has_:
     az: Domino
     azb: دومینو
     be: даміно
-    be-tarask: даміно
+    be_tarask: даміно
     bew: Gaplè'
     bg: Домино (игра)
     br: Domino
@@ -85,8 +85,8 @@ dv_has_:
     de: Domino
     el: Ντόμινο
     en: dominoes
-    en-ca: Dominoes
-    en-gb: dominoes
+    en_ca: Dominoes
+    en_gb: dominoes
     eo: domeno
     es: Dominó
     et: Doomino
@@ -124,7 +124,7 @@ dv_has_:
     pap: domino
     pl: domino
     pt: dominó
-    pt-br: Dominó
+    pt_br: Dominó
     ro: domino
     ru: домино
     sah: Домино
@@ -133,7 +133,7 @@ dv_has_:
     so: Dumnad
     sq: Dominoja
     sr: Домине
-    sr-ec: Домине
+    sr_ec: Домине
     su: Gapléh
     sv: Domino
     th: โดมิโน
@@ -147,9 +147,9 @@ dv_has_:
     wuu: 西洋骨牌
     yue: 骨牌
     zh: 多米诺骨牌
-    zh-cn: 多米诺骨牌
-    zh-hans: 多米诺骨牌
-    zh-hant: 多米諾骨牌
+    zh_cn: 多米诺骨牌
+    zh_hans: 多米诺骨牌
+    zh_hant: 多米諾骨牌
 ---
 # [[Dominoes]] 
 

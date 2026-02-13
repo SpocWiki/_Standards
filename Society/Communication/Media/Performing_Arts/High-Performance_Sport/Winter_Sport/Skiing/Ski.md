@@ -91,7 +91,7 @@ dv_has_:
     az: xizək
     ba: саңғы
     be: лыжы
-    be-tarask: лыжы
+    be_tarask: лыжы
     bg: ски
     br: Ski
     ca: esquí
@@ -125,11 +125,11 @@ dv_has_:
     ja: スキー板
     ka: თხილამურები
     kk: шаңғы
-    kk-arab: شاڭعى
+    kk_arab: شاڭعى
     kk-cn: شاڭعى
-    kk-cyrl: шаңғы
+    kk_cyrl: шаңғы
     kk-kz: Шаңғы
-    kk-latn: şañğı
+    kk_latn: şañğı
     kk-tr: Şañğı
     ko: 스키판
     la: Ski
@@ -146,7 +146,7 @@ dv_has_:
     nn: ski
     pl: narty
     pt: esqui
-    pt-br: esqui
+    pt_br: esqui
     qu: Chaki lluchk'ana
     rm: Ski
     ro: schi
@@ -158,14 +158,14 @@ dv_has_:
     sk: Lyže
     sl: smučka
     sr: скије
-    sr-ec: скије
-    sr-el: skije
+    sr_ec: скије
+    sr_el: skije
     sv: skida
     sw: skii
     tg: лағжа
     th: skidor
     tt: чаңгы
-    tt-cyrl: чаңгы
+    tt_cyrl: чаңгы
     uk: лижі
     uz: Changʻi
     vep: Suksed
@@ -174,12 +174,12 @@ dv_has_:
     wuu: 滑雪板
     yue: 滑雪板
     zh: 滑雪板
-    zh-cn: 滑雪板
-    zh-hans: 滑雪板
-    zh-hant: 滑雪板
-    zh-hk: 滑雪板
-    zh-sg: 滑雪板
-    zh-tw: 滑雪板
+    zh_cn: 滑雪板
+    zh_hans: 滑雪板
+    zh_hant: 滑雪板
+    zh_hk: 滑雪板
+    zh_sg: 滑雪板
+    zh_tw: 滑雪板
 ---
 # [[Ski]] 
 

@@ -109,7 +109,7 @@ dv_has_:
     az: Estrogen
     bcl: Estroheno
     be: эстраген
-    be-tarask: эстрагены
+    be_tarask: эстрагены
     bg: Естроген
     bn: ইস্ট্রোজেন
     bs: Estrogen
@@ -121,7 +121,7 @@ dv_has_:
     dv: އެސްޓްރަޖަން
     el: οιστρογόνο
     en: estrogen
-    en-gb: oestrogen
+    en_gb: oestrogen
     eo: estrogeno
     es: estrógeno
     et: östrogeenid
@@ -147,7 +147,7 @@ dv_has_:
     kk: Эстроген
     ko: 에스트로겐
     ku: Êstrocen
-    ku-latn: êstrocen
+    ku_latn: êstrocen
     ky: Эстроген
     la: œstrogenum
     lo: ເອສໂຕຣເຈນ
@@ -165,7 +165,7 @@ dv_has_:
     pnb: ایسٹروجن
     ps: اېسټروجن
     pt: estrogénio
-    pt-br: estrogênio
+    pt_br: estrogênio
     ro: estrogen
     ru: эстрогены
     sah: Эстрогеннар
@@ -177,7 +177,7 @@ dv_has_:
     smn: estrogeen
     sms: estrogeeʹn
     sr: естроген
-    sr-ec: естроген
+    sr_ec: естроген
     su: Éstrogén
     sv: östrogen
     sw: Estrojeni

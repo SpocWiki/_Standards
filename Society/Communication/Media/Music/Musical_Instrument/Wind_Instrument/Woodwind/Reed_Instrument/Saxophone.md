@@ -110,7 +110,7 @@ dv_has_:
     az: saksofon
     azb: ساکسیفون
     be: саксафон
-    be-tarask: саксафон
+    be_tarask: саксафон
     bg: саксофон
     br: saksofon
     bs: saksofon
@@ -125,8 +125,8 @@ dv_has_:
     diq: saksafon
     el: σαξόφωνο
     en: saxophone
-    en-ca: saxophone
-    en-gb: saxophone
+    en_ca: saxophone
+    en_gb: saxophone
     en-us: saxophone
     eo: saksofono
     es: saxofón
@@ -176,14 +176,14 @@ dv_has_:
     mzn: ساکسیفون
     nan: saxophone
     nb: saksofon
-    nds-nl: saxofoon
+    nds_nl: saxofoon
     nl: saxofoon
     nn: saksofon
     oc: saxofòn
     pcd: saxofone
     pl: saksofon
     pt: saxofone
-    pt-br: saxofone
+    pt_br: saxofone
     qu: saksuphun
     rm: saxofon
     ro: saxofon
@@ -198,8 +198,8 @@ dv_has_:
     sms: saksofoon
     sq: saksafoni
     sr: саксофон
-    sr-ec: саксофон
-    sr-el: saksofon
+    sr_ec: саксофон
+    sr_el: saksofon
     sv: saxofon
     ta: சாக்சபோன்
     tg: саксофон
@@ -216,13 +216,13 @@ dv_has_:
     wuu: 萨克斯
     yue: 色士風
     zh: 薩克斯風
-    zh-cn: 萨克斯管
-    zh-hant: 薩氏管
-    zh-hk: 色士風
-    zh-mo: 色士風
+    zh_cn: 萨克斯管
+    zh_hant: 薩氏管
+    zh_hk: 色士風
+    zh_mo: 色士風
     zh-my: 萨克斯风
-    zh-sg: 萨克斯风
-    zh-tw: 薩氏管
+    zh_sg: 萨克斯风
+    zh_tw: 薩氏管
 ---
 # [[Saxophone]] 🎷 
 

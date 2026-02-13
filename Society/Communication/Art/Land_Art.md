@@ -59,7 +59,7 @@ dv_has_:
     ast: Land Art
     az: lend-art
     be: Лэнд-арт
-    be-tarask: лэнд-арт
+    be_tarask: лэнд-арт
     bg: Лендарт
     br: Land Art
     bs: Land art
@@ -101,8 +101,8 @@ dv_has_:
     sh: Land art
     sl: krajinska umetnost
     sr: Ленд-арт
-    sr-ec: Ленд-арт
-    sr-el: Lend-art
+    sr_ec: Ленд-арт
+    sr_el: Lend-art
     sv: jordkonst
     th: ภูมิศิลป์
     tr: yeryüzü sanatı
@@ -110,12 +110,12 @@ dv_has_:
     vi: Nghệ thuật Trái Đất
     yue: 地景藝術
     zh: 大地艺术
-    zh-cn: 大地艺术
-    zh-hans: 大地艺术
-    zh-hant: 大地藝術
-    zh-hk: 大地藝術
-    zh-sg: 大地艺术
-    zh-tw: 大地藝術
+    zh_cn: 大地艺术
+    zh_hans: 大地艺术
+    zh_hant: 大地藝術
+    zh_hk: 大地藝術
+    zh_sg: 大地艺术
+    zh_tw: 大地藝術
 ---
 # [[Land_Art]] 
 

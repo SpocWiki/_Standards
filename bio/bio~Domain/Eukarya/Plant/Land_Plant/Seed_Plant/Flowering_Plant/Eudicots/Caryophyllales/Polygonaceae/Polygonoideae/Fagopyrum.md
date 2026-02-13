@@ -82,10 +82,10 @@ dv_has_:
     cv: Хура тул
     da: boghvede
     de: Fagopyrum
-    de-ch: Buchweizen
+    de_ch: Buchweizen
     en: Fagopyrum
-    en-ca: Fagopyrum
-    en-gb: Fagopyrum
+    en_ca: Fagopyrum
+    en_gb: Fagopyrum
     eo: Fagopiro
     es: Fagopyrum
     et: Tatar
@@ -120,7 +120,7 @@ dv_has_:
     oc: Fagopyrum
     pl: Gryka
     pt: Fagopyrum
-    pt-br: Fagopyrum
+    pt_br: Fagopyrum
     ro: Fagopyrum
     ru: гречиха
     sl: ajda
@@ -136,9 +136,9 @@ dv_has_:
     wa: Fagopyrum
     war: Fagopyrum
     zh: 荞麦属
-    zh-cn: 荞麦属
-    zh-hans: 荞麦属
-    zh-tw: 蕎麥屬
+    zh_cn: 荞麦属
+    zh_hans: 荞麦属
+    zh_tw: 蕎麥屬
 ---
 # [[Fagopyrum]] 
 

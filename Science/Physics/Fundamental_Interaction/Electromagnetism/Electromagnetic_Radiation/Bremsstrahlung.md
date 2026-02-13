@@ -45,7 +45,7 @@ dv_has_:
     ar: أشعة انكباح
     ast: Radiación de frenáu
     be: Тармазное выпрамяненне
-    be-tarask: тармазное выпраменьваньне
+    be_tarask: тармазное выпраменьваньне
     bs: Zakočno zračenje
     ca: radiació de frenada
     cs: Brzdné záření
@@ -78,8 +78,8 @@ dv_has_:
     sk: Brzdné žiarenie
     sl: zavorno sevanje
     sr: Закочно зрачење
-    sr-ec: Закочно зрачење
-    sr-el: Zakočno zračenje
+    sr_ec: Закочно зрачење
+    sr_el: Zakočno zračenje
     sv: bromsstrålning
     th: เบรมส์ชตราลุง
     tl: Bremsstrahlung
@@ -87,9 +87,9 @@ dv_has_:
     uk: Гальмівне випромінювання
     ur: Bremsstrahlung
     zh: 轫致辐射
-    zh-hans: 轫致辐射
-    zh-hant: 軔致輻射
-    zh-hk: 軔致輻射
+    zh_hans: 轫致辐射
+    zh_hant: 軔致輻射
+    zh_hk: 軔致輻射
 ---
 # [[Bremsstrahlung]] 
 

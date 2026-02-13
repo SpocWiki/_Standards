@@ -67,7 +67,7 @@ dv_has_:
     ast: Turbina
     az: Turbin
     be: турбіна
-    be-tarask: турбіна
+    be_tarask: турбіна
     bg: Турбина
     ca: turbina
     cs: turbína
@@ -96,11 +96,11 @@ dv_has_:
     it: turbina
     ja: タービン
     kk: Турбина
-    kk-arab: تۋربىينا
+    kk_arab: تۋربىينا
     kk-cn: تۋربىينا
-    kk-cyrl: Турбина
+    kk_cyrl: Турбина
     kk-kz: Турбина
-    kk-latn: Twrbïna
+    kk_latn: Twrbïna
     kk-tr: Twrbïna
     ko: 터빈
     ku: Turbîn
@@ -132,8 +132,8 @@ dv_has_:
     sk: turbína
     sl: turbina
     sr: турбина
-    sr-ec: турбина
-    sr-el: turbina
+    sr_ec: турбина
+    sr_el: turbina
     sv: turbin
     ta: விசையாழி
     th: กังหัน
@@ -147,12 +147,12 @@ dv_has_:
     wuu: 涡轮发动机
     yue: 渦輪
     zh: 涡轮发动机
-    zh-cn: 涡轮发动机
-    zh-hans: 涡轮发动机
-    zh-hant: 渦輪發動機
-    zh-hk: 渦輪發動機
-    zh-sg: 涡轮发动机
-    zh-tw: 渦輪發動機
+    zh_cn: 涡轮发动机
+    zh_hans: 涡轮发动机
+    zh_hant: 渦輪發動機
+    zh_hk: 渦輪發動機
+    zh_sg: 涡轮发动机
+    zh_tw: 渦輪發動機
     zu: Isindiyane
 ---
 # [[Turbine]] 

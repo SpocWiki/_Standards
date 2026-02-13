@@ -173,7 +173,7 @@ dv_has_:
     ban: klorin
     bcl: klorina
     be: хлор
-    be-tarask: хлёр
+    be_tarask: хлёр
     bg: хлор
     bho: क्लोरीन
     blk: ကလိုရဉ်း
@@ -285,7 +285,7 @@ dv_has_:
     pnb: کلورین
     ps: کلورين
     pt: cloro
-    pt-br: cloro
+    pt_br: cloro
     qu: kuluru
     ro: clor
     ru: хлор
@@ -318,7 +318,7 @@ dv_has_:
     tok: ijo lili nanpa 17
     tr: klor
     tt: хлор
-    tt-cyrl: хлор
+    tt_cyrl: хлор
     ug: خلور گازى
     uk: хлор
     ur: کلورین
@@ -336,11 +336,11 @@ dv_has_:
     za: luz
     zgh: ⴰⴽⵍⵓⵔ
     zh: 氯
-    zh-cn: 氯
-    zh-hans: 氯
-    zh-hant: 氯
-    zh-hk: 氯
-    zh-tw: 氯
+    zh_cn: 氯
+    zh_hans: 氯
+    zh_hant: 氯
+    zh_hk: 氯
+    zh_tw: 氯
     zu: IChwenzi
   number_of_:
     period: 3

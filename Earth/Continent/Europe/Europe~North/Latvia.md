@@ -4,7 +4,7 @@ dv_has_:
     ab: Латвиа
     ace: Latvia
     ady: Латвие
-    aeb-arab: لاتڥيا
+    aeb_arab: لاتڥيا
     af: Letland
     am: ላትቪያ
     ami: Latvia
@@ -27,7 +27,7 @@ dv_has_:
     bar: Lettland
     bcl: Latbya
     be: Латвія
-    be-tarask: Латвія
+    be_tarask: Латвія
     bew: Lètlan
     bg: Латвия
     bgn: لاتویا
@@ -41,7 +41,7 @@ dv_has_:
     bs: Latvija
     bxr: Латви
     ca: Letònia
-    cbk-zam: Letonia
+    cbk_zam: Letonia
     cdo: Latvia
     ce: Латви
     ceb: Latvia
@@ -50,7 +50,7 @@ dv_has_:
     ckb: لاتڤیا
     co: Lettonia
     crh: Latviya
-    crh-latn: Latviya
+    crh_latn: Latviya
     cs: Lotyšsko
     csb: Łotewskô
     cu: Латвїꙗ
@@ -60,7 +60,7 @@ dv_has_:
     dag: Latvia
     de: Lettland
     de-at: Lettland
-    de-ch: Lettland
+    de_ch: Lettland
     diq: Letonya
     dsb: Letiska
     dty: लात्भिया
@@ -70,8 +70,8 @@ dv_has_:
     el: Λετονία
     eml: Lettògna
     en: Latvia
-    en-ca: Latvia
-    en-gb: Latvia
+    en_ca: Latvia
+    en_gb: Latvia
     eo: Latvio
     es: Letonia
     et: Läti
@@ -95,7 +95,7 @@ dv_has_:
     gn: Letóña
     gom: लाटविया
     gom-deva: लाटविया
-    gom-latn: Latvia
+    gom_latn: Latvia
     got: "\U0001033B\U00010330\U00010339\U00010344\U00010330\U0001033B\U00010330\U0001033D\U00010333"
     gpe: Latvia
     gsw: Lettland
@@ -163,7 +163,7 @@ dv_has_:
     lzh: 拉脫維亞
     mad: Latvia
     mai: लैटविया
-    map-bms: Latvia
+    map_bms: Latvia
     mdf: Латвия
     mg: Latvia
     mhr: Латвий
@@ -177,7 +177,7 @@ dv_has_:
     mr: लात्व्हिया
     mrj: Латви
     ms: Latvia
-    ms-arab: لتۏيا
+    ms_arab: لتۏيا
     mt: Latvja
     mwl: Lhetónia
     my: လတ်ဗီယာနိုင်ငံ
@@ -188,7 +188,7 @@ dv_has_:
     nan: Latvia
     nb: Latvia
     nds: Lettland
-    nds-nl: Letlaand
+    nds_nl: Letlaand
     ne: लात्भिया
     new: लात्भिया
     nl: Letland
@@ -217,7 +217,7 @@ dv_has_:
     prg: Lattawa
     ps: لاتويا
     pt: Letónia
-    pt-br: Letônia
+    pt_br: Letônia
     qu: Litunya
     rm: Lettonia
     rmy: Latviya
@@ -250,8 +250,8 @@ dv_has_:
     so: Latfiya
     sq: Letonia
     sr: Летонија
-    sr-ec: Летонија
-    sr-el: Letonija
+    sr_ec: Летонија
+    sr_el: Letonija
     srn: Letlenikondre
     ss: ILathiviya
     st: Latvia
@@ -303,11 +303,11 @@ dv_has_:
     zea: Letland
     zgh: ⵍⴰⵜⴼⵢⴰ
     zh: 拉脫維亞
-    zh-cn: 拉脱维亚
-    zh-hans: 拉脱维亚
-    zh-hant: 拉脫維亞
-    zh-hk: 拉脫維亞
-    zh-tw: 拉脫維亞
+    zh_cn: 拉脱维亚
+    zh_hans: 拉脱维亚
+    zh_hant: 拉脫維亞
+    zh_hk: 拉脫維亞
+    zh_tw: 拉脫維亞
     zu: ILatviya
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Latvia

@@ -102,7 +102,7 @@ dv_has_:
     az: Yenotlar
     azb: یئنوتلار
     be: янотавыя
-    be-tarask: Янотавыя
+    be_tarask: Янотавыя
     bg: енотови
     br: Prokionideged
     ca: prociònids
@@ -139,11 +139,11 @@ dv_has_:
     ja: アライグマ科
     ka: ენოტისებრნი
     kk: Жанат тұқымдасы
-    kk-arab: جانات تۇقىمداسى
+    kk_arab: جانات تۇقىمداسى
     kk-cn: جانات تۇقىمداسى
-    kk-cyrl: Жанат тұқымдасы
+    kk_cyrl: Жанат тұқымдасы
     kk-kz: Жанат тұқымдасы
-    kk-latn: Janat tuqımdası
+    kk_latn: Janat tuqımdası
     kk-tr: Janat tuqımdası
     ko: 아메리카너구리과
     ky: Жанат сымалдуулар
@@ -162,7 +162,7 @@ dv_has_:
     pl: szopowate
     pnb: نکے رچھ
     pt: Procionídeos
-    pt-br: Procyonidae
+    pt_br: Procyonidae
     ro: Procyonidae
     ru: енотовые
     sco: Procyonidae
@@ -184,12 +184,12 @@ dv_has_:
     wuu: 浣熊科
     yue: 浣熊科
     zh: 浣熊科
-    zh-cn: 浣熊科
-    zh-hans: 浣熊科
-    zh-hant: 浣熊科
-    zh-hk: 浣熊科
-    zh-sg: 浣熊科
-    zh-tw: 浣熊科
+    zh_cn: 浣熊科
+    zh_hans: 浣熊科
+    zh_hant: 浣熊科
+    zh_hk: 浣熊科
+    zh_sg: 浣熊科
+    zh_tw: 浣熊科
 ---
 # [[Procyonidae]] 
 

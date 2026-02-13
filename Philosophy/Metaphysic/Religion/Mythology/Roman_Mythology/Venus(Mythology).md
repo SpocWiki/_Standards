@@ -144,7 +144,7 @@ dv_has_:
     ba: Венера
     bcl: Venus (mytolohiya)
     be: Венера
-    be-tarask: Вэнэра
+    be_tarask: Вэнэра
     bg: Венера
     bn: ভেনাস
     bo: ལྷ་མོ་ཝེ་ནུ་སི།
@@ -162,7 +162,7 @@ dv_has_:
     de: Venus
     el: Βένους
     en: Venus
-    en-gb: Venus
+    en_gb: Venus
     eo: Venuso
     es: Venus
     et: Venus
@@ -190,7 +190,7 @@ dv_has_:
     kk: Венера
     ko: 베누스
     ku: Venus
-    ku-latn: Venus
+    ku_latn: Venus
     la: Venus
     lb: Venus
     li: Venus
@@ -219,7 +219,7 @@ dv_has_:
     pl: Wenus
     pnb: وینس (خرافات)
     pt: Vénus
-    pt-br: Vênus
+    pt_br: Vênus
     ro: Venus
     ru: Венера
     rue: Венера (богыня)
@@ -230,7 +230,7 @@ dv_has_:
     sk: Venuša
     sl: Venera
     sr: Венера
-    sr-ec: Венера
+    sr_ec: Венера
     sv: Venus
     ta: வீனஸ்
     tg: Венера (асотир)
@@ -247,7 +247,7 @@ dv_has_:
     wuu: 维纳斯
     yue: 維納斯
     zh: 维纳斯
-    zh-hant: 維納斯
+    zh_hant: 維納斯
 ---
 # [[Venus(Mythology)]] 
 

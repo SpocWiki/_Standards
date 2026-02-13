@@ -98,7 +98,7 @@ dv_has_:
     az: HTTP
     azb: اچتیتیپی
     be: HTTP
-    be-tarask: HTTP
+    be_tarask: HTTP
     bg: HTTP
     bn: হাইপার টেক্সট ট্রান্সফার প্রোটোকল
     bs: Hypertext Transfer Protocol
@@ -107,12 +107,12 @@ dv_has_:
     cy: HTTP
     da: HTTP
     de: Hypertext Transfer Protocol
-    de-ch: Hypertext Transfer Protocol
+    de_ch: Hypertext Transfer Protocol
     diq: HTTP
     el: Πρωτόκολλο Μεταφοράς Υπερκειμένου
     en: HTTP
-    en-ca: HTTP
-    en-gb: HTTP
+    en_ca: HTTP
+    en_gb: HTTP
     eo: Hiperteksto-Transiga Protokolo
     es: protocolo de transferencia de hipertexto
     et: Hüperteksti edastusprotokoll
@@ -148,7 +148,7 @@ dv_has_:
     mn: Hypertext Transfer Protocol
     mr: हाइपर टेक्स्ट ट्रांसफर प्रोटोकॉल
     ms: Protokol Pemindahan Hiperteks
-    ms-arab: ڤروتوكول ڤمينداهن هايڤرتيکس
+    ms_arab: ڤروتوكول ڤمينداهن هايڤرتيکس
     nan: HTTP
     nb: HTTP
     new: एच टी टी पी
@@ -159,7 +159,7 @@ dv_has_:
     pl: HTTP
     pms: Protocòl ëd trasferiment ipertestual
     pt: Hypertext Transfer Protocol
-    pt-br: Hypertext Transfer Protocol
+    pt_br: Hypertext Transfer Protocol
     ro: HTTP
     ru: HTTP
     sh: HTTP
@@ -176,7 +176,7 @@ dv_has_:
     tl: HTTP
     tr: HTTP
     tt: HTTP
-    tt-cyrl: HTTP
+    tt_cyrl: HTTP
     uk: HTTP
     uz: HTTP
     vec: HTTP
@@ -187,8 +187,8 @@ dv_has_:
     yo: Hypertext Transfer Protocol
     yue: HTTP
     zh: 超文本传输协议
-    zh-hant: 超文件傳輸協定
-    zh-tw: 超文本傳輸協定
+    zh_hant: 超文件傳輸協定
+    zh_tw: 超文本傳輸協定
 ---
 # [[HTTP]] 
 

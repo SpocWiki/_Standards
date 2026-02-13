@@ -126,7 +126,7 @@ dv_has_:
     ba: Аддикция
     bcl: Adiksyon
     be: аддыкцыя
-    be-tarask: залежнасьць
+    be_tarask: залежнасьць
     bew: Kenyadikan
     bg: Пристрастяване
     bn: আসক্তি
@@ -191,7 +191,7 @@ dv_has_:
     pms: Dipendensa
     pnb: نشے دی لت
     pt: dependência
-    pt-br: vício
+    pt_br: vício
     ro: dependență
     ru: аддикция
     sah: Аддикция
@@ -205,7 +205,7 @@ dv_has_:
     sms: addiktio
     sq: varësia
     sr: зависност
-    sr-ec: зависност
+    sr_ec: зависност
     sv: beroende
     sw: Uraibu
     ta: பழக்க அடிமைத்தனம்
@@ -225,8 +225,8 @@ dv_has_:
     yi: אדיקציע
     yue: 癮
     zh: 成瘾
-    zh-hant: 成癮
-    zh-tw: 成癮
+    zh_hant: 成癮
+    zh_tw: 成癮
 ---
 # [[Addiction]] 
 

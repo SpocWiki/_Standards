@@ -40,7 +40,7 @@ dv_has_:
     oc: Caviomorpha
     pl: Caviomorpha
     pt: Caviomorpha
-    pt-br: Caviomorpha
+    pt_br: Caviomorpha
     ro: Caviomorpha
     ru: Caviomorpha
     smn: marsulágáneh jursseeh
@@ -51,9 +51,9 @@ dv_has_:
     vo: Caviomorpha
     war: Caviomorpha
     zh: 豚鼠小目
-    zh-cn: 豚鼠小目
-    zh-hans: 豚鼠小目
-    zh-tw: 豚鼠小目
+    zh_cn: 豚鼠小目
+    zh_hans: 豚鼠小目
+    zh_tw: 豚鼠小目
 aliases:
 - caviomorfs
 - Caviomorpha

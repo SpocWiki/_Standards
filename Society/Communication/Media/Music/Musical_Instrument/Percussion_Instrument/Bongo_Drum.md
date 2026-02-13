@@ -44,7 +44,7 @@ dv_has_:
     ar: طبلة بونجو
     ast: Bongó
     az: Bonqo (musiqi aləti)
-    be-tarask: банго
+    be_tarask: банго
     bg: Бонгос
     bm: Bongo
     ca: bongo
@@ -75,7 +75,7 @@ dv_has_:
     nn: bongo
     pl: Bongosy
     pt: bongô
-    pt-br: Bongô
+    pt_br: Bongô
     ru: бонго
     sk: Bongo
     sl: Bongi
@@ -87,12 +87,12 @@ dv_has_:
     uz: Bongo
     yue: 邦哥鼓
     zh: 邦哥鼓
-    zh-cn: 邦哥鼓
-    zh-hans: 邦哥鼓
-    zh-hant: 邦哥鼓
-    zh-hk: 邦哥鼓
-    zh-sg: 邦哥鼓
-    zh-tw: 邦哥鼓
+    zh_cn: 邦哥鼓
+    zh_hans: 邦哥鼓
+    zh_hant: 邦哥鼓
+    zh_hk: 邦哥鼓
+    zh_sg: 邦哥鼓
+    zh_tw: 邦哥鼓
 ---
 # [[Bongo_Drum]] 
 

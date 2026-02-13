@@ -54,8 +54,8 @@ dv_has_:
     de: Kiefermündchen
     el: Γναθοστοματυλίδες
     en: Gnathostomulida
-    en-ca: Gnathostomulid
-    en-gb: Gnathostomulid
+    en_ca: Gnathostomulid
+    en_gb: Gnathostomulid
     eo: Gnathostomulida
     es: Gnathostomulida
     et: Lõugsuud
@@ -87,14 +87,14 @@ dv_has_:
     oc: Gnathostomulida
     pl: Szczękogębe
     pt: Gnathostomulida
-    pt-br: Gnathostomulida
+    pt_br: Gnathostomulida
     ro: Gnathostomulida
     ru: гнатостомулиды
     sk: Čeľusťoústky
     sq: Gnathostomulida
     sr: Gnathostomulida
-    sr-ec: Gnathostomulida
-    sr-el: Gnathostomulida
+    sr_ec: Gnathostomulida
+    sr_el: Gnathostomulida
     sv: käkmaskar
     sw: Mnyoo-taya
     th: นาโธสโทมูลิดา
@@ -105,12 +105,12 @@ dv_has_:
     vo: Gnathostomulida
     war: Gnathostomulida
     zh: 颚胃动物门
-    zh-cn: 颚胃动物门
-    zh-hans: 颚胃动物门
-    zh-hant: 顎胃動物門
-    zh-hk: 顎胃動物門
-    zh-sg: 颚胃动物门
-    zh-tw: 顎胃動物門
+    zh_cn: 颚胃动物门
+    zh_hans: 颚胃动物门
+    zh_hant: 顎胃動物門
+    zh_hk: 顎胃動物門
+    zh_sg: 颚胃动物门
+    zh_tw: 顎胃動物門
 ---
 # [[Gnathostomulida]] 
 

@@ -24,8 +24,8 @@ dv_has_:
     de: Wombats
     el: Βομβατίδες
     en: Vombatidae
-    en-ca: Wombat
-    en-gb: wombat
+    en_ca: Wombat
+    en_gb: wombat
     eo: Vombato
     es: Vombatidae
     et: Vombatlased
@@ -71,7 +71,7 @@ dv_has_:
     pl: wombatowate
     pnb: ومباٹ
     pt: Vombate
-    pt-br: Vombatidae
+    pt_br: Vombatidae
     ro: Vombatidae
     ru: вомбатовые
     sco: wombat
@@ -96,10 +96,10 @@ dv_has_:
     wuu: 袋熊
     yue: 袋熊
     zh: 袋熊科
-    zh-cn: 袋熊科
-    zh-hans: 袋熊科
-    zh-hant: 袋熊
-    zh-tw: Vombatidae
+    zh_cn: 袋熊科
+    zh_hans: 袋熊科
+    zh_hant: 袋熊
+    zh_tw: Vombatidae
 aliases:
 - Shash naʼazísí
 - stundoleem

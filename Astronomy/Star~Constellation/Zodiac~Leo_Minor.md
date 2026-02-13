@@ -122,7 +122,7 @@ dv_has_:
     az: Kiçik Şir
     ba: Бәләкәй Арыҫлан
     be: Малы Леў
-    be-tarask: Малы Леў
+    be_tarask: Малы Леў
     bg: Малък лъв
     bn: লঘু সিংহ মণ্ডল
     br: Leon Bihan

@@ -42,7 +42,7 @@ dv_has_:
     bbc: Aprika
     bcl: Aprika
     be: Афрыка
-    be-tarask: Афрыка
+    be_tarask: Афрыка
     bew: Aprika
     bg: Африка
     bho: अफिरका
@@ -59,7 +59,7 @@ dv_has_:
     btm: Afrika
     bxr: Африка
     ca: Àfrica
-    cbk-zam: Africa
+    cbk_zam: Africa
     cdo: Hĭ-ciŭ
     ce: Африка
     ceb: Aprika
@@ -69,7 +69,7 @@ dv_has_:
     ckb: ئەفریقا
     co: Africa
     crh: Afrika
-    crh-latn: Afrika
+    crh_latn: Afrika
     crh-ro: Afrika
     cs: Afrika
     csb: Afrika
@@ -79,7 +79,7 @@ dv_has_:
     da: Afrika
     dag: Africa
     de: Afrika
-    de-ch: Afrika
+    de_ch: Afrika
     dga: Africa
     din: Apirïka
     diq: Afrika
@@ -198,7 +198,7 @@ dv_has_:
     lv: Āfrika
     lzh: 阿非利加洲
     mai: अफ्रिका
-    map-bms: Afrika
+    map_bms: Afrika
     mdf: Африкань
     mg: Afrika
     mhr: Африка
@@ -213,7 +213,7 @@ dv_has_:
     mr: आफ्रिका
     mrj: Африка
     ms: Afrika
-    ms-arab: افريکا
+    ms_arab: افريکا
     mt: Afrika
     mwl: África
     my: အာဖရိက
@@ -225,7 +225,7 @@ dv_has_:
     nap: Africa
     nb: Afrika
     nds: Afrika
-    nds-nl: Afrika
+    nds_nl: Afrika
     ne: अफ्रिका
     new: अफ्रिका
     nl: Afrika
@@ -257,7 +257,7 @@ dv_has_:
     pnt: Αφρικήν
     ps: افريقا
     pt: África
-    pt-br: África
+    pt_br: África
     qu: Aprika
     rm: Africa
     rmy: Afrika
@@ -293,7 +293,7 @@ dv_has_:
     so: Afrika
     sq: Afrika
     sr: Африка
-    sr-ec: Африка
+    sr_ec: Африка
     srn: Afrka
     ss: Í-Afríka
     st: Afrika
@@ -322,8 +322,8 @@ dv_has_:
     tr: Afrika
     ts: Afrika
     tt: Африка
-    tt-cyrl: Африка
-    tt-latn: Afrika
+    tt_cyrl: Африка
+    tt_latn: Afrika
     tum: Afrika
     tw: Abibiman
     ty: ’Āfirita
@@ -356,14 +356,14 @@ dv_has_:
     zea: Afrika
     zgh: ⵜⴰⴼⵔⵉⵇⵜ
     zh: 非洲
-    zh-cn: 非洲
-    zh-hans: 非洲
-    zh-hant: 非洲
-    zh-hk: 非洲
-    zh-mo: 非洲
+    zh_cn: 非洲
+    zh_hans: 非洲
+    zh_hant: 非洲
+    zh_hk: 非洲
+    zh_mo: 非洲
     zh-my: 非洲
-    zh-sg: 非洲
-    zh-tw: 非洲
+    zh_sg: 非洲
+    zh_tw: 非洲
     zu: IAfrika
 dv_is_same_as:
 - '[[../../WikiData/WD~Africa,15]]'

@@ -197,8 +197,8 @@ dv_has_:
     sl: dietileter
     sq: Eteri dietilik
     sr: диетил етер
-    sr-ec: Диетил етар
-    sr-el: Dietil etar
+    sr_ec: Диетил етар
+    sr_el: Dietil etar
     sv: dietyleter
     ta: டை எத்தில் ஈதர்
     te: డై ఇథైల్ ఈథర్
@@ -209,12 +209,12 @@ dv_has_:
     vi: diethyl ether
     yue: 乙醚
     zh: 乙醚
-    zh-cn: 乙醚
-    zh-hans: 乙醚
-    zh-hant: 乙醚
-    zh-hk: 乙醚
-    zh-sg: 乙醚
-    zh-tw: 乙醚
+    zh_cn: 乙醚
+    zh_hans: 乙醚
+    zh_hant: 乙醚
+    zh_hk: 乙醚
+    zh_sg: 乙醚
+    zh_tw: 乙醚
 dv_is_:
   same_as:
   - '[[_Standards/WikiData/WD~diethyl_ether,202218]]'

@@ -259,7 +259,7 @@ U_S_National_Archives_Identifier: 10642341
 Wikidata_property: conflict
 dv_has_:
   name_:
-    aeb-arab: حرب
+    aeb_arab: حرب
     af: oorlog
     am: ጦርነት
     an: Guerra
@@ -277,7 +277,7 @@ dv_has_:
     azb: ساواش
     ba: Һуғыш
     be: вайна
-    be-tarask: вайна
+    be_tarask: вайна
     bg: война
     bho: जुद्ध
     bn: যুদ্ধ
@@ -368,7 +368,7 @@ dv_has_:
     ks: جَنٛگ
     ksh: Kreech
     ku: şer
-    ku-latn: şer
+    ku_latn: şer
     kv: Тыш
     kw: bresel
     ky: Согуш
@@ -383,7 +383,7 @@ dv_has_:
     lt: karas
     lv: karš
     mad: Perrang
-    map-bms: Perang
+    map_bms: Perang
     mcn: du᷆rnà
     mdf: торпинге
     mhr: сар
@@ -401,7 +401,7 @@ dv_has_:
     nan: Chiàn-cheng
     nb: krig
     nds: Krieg
-    nds-nl: kraig
+    nds_nl: kraig
     ne: युद्ध
     new: हताः
     nl: oorlog
@@ -423,7 +423,7 @@ dv_has_:
     pnb: جنگ
     ps: جګړه
     pt: guerra
-    pt-br: guerra
+    pt_br: guerra
     qu: Maqanakuy
     rmf: kurriba
     ro: război
@@ -452,8 +452,8 @@ dv_has_:
     so: Dagaalada
     sq: Lufta
     sr: рат
-    sr-ec: рат
-    sr-el: rat
+    sr_ec: рат
+    sr_el: rat
     su: Perang
     sv: krig
     sw: Vita
@@ -468,7 +468,7 @@ dv_has_:
     tr: savaş
     ts: Nyimpi
     tt: сугыш
-    tt-cyrl: сугыш
+    tt_cyrl: сугыш
     tw: ɔko
     udm: ожгар
     uk: війна
@@ -489,14 +489,14 @@ dv_has_:
     yue: 打仗
     za: Cancwngh
     zh: 戰爭
-    zh-cn: 战争
-    zh-hans: 战争
-    zh-hant: 戰爭
-    zh-hk: 戰爭
-    zh-mo: 戰爭
+    zh_cn: 战争
+    zh_hans: 战争
+    zh_hant: 戰爭
+    zh_hk: 戰爭
+    zh_mo: 戰爭
     zh-my: 战争
-    zh-sg: 战争
-    zh-tw: 戰爭
+    zh_sg: 战争
+    zh_tw: 戰爭
     zu: impi
 ---
 # [[War]] 

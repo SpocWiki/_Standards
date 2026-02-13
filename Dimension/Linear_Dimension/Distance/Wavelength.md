@@ -158,7 +158,7 @@ dv_has_:
     azb: دالغابؤیو
     bar: Wellenlänge
     be: даўжыня хвалі
-    be-tarask: даўжыня хвалі
+    be_tarask: даўжыня хвалі
     bg: дължина на вълната
     bn: তরঙ্গ দৈর্ঘ্য
     br: hirder gwagenn
@@ -169,11 +169,11 @@ dv_has_:
     cy: Tonfedd
     da: bølgelængde
     de: Wellenlänge
-    de-ch: Wellenlänge
+    de_ch: Wellenlänge
     el: Μήκος κύματος
     en: wavelength
-    en-ca: Wavelength
-    en-gb: wavelength
+    en_ca: Wavelength
+    en_gb: wavelength
     en-us: wavelength
     eo: ondolongo
     es: longitud de onda
@@ -230,7 +230,7 @@ dv_has_:
     pnb: لہر لمبائی
     ps: څپواټن
     pt: comprimento de onda
-    pt-br: comprimento de onda
+    pt_br: comprimento de onda
     ro: lungime de undă
     ru: длина волны
     rue: вовнова довжка
@@ -245,8 +245,8 @@ dv_has_:
     so: dhererka mowjadda
     sq: gjatësia e valës
     sr: таласна дужина
-    sr-ec: таласна дужина
-    sr-el: talasna dužina
+    sr_ec: таласна дужина
+    sr_el: talasna dužina
     sv: våglängd
     sw: lukoka
     ta: அலைநீளம்
@@ -264,8 +264,8 @@ dv_has_:
     wuu: 波长
     yue: 波長
     zh: 波长
-    zh-hans: 波长
-    zh-hant: 波長
+    zh_hans: 波长
+    zh_hant: 波長
     zu: IBangacuphi
 ---
 # [[Wavelength]] 

@@ -92,7 +92,7 @@ dv_has_:
     ba: ромб
     bcl: rombus
     be: ромб
-    be-tarask: ромб
+    be_tarask: ромб
     bg: ромб
     bn: রম্বস
     br: lankell
@@ -159,7 +159,7 @@ dv_has_:
     pms: romb
     pnb: معین
     pt: losango
-    pt-br: losango
+    pt_br: losango
     qu: puytu
     ro: romb
     ru: ромб
@@ -190,8 +190,8 @@ dv_has_:
     xmf: რომბი
     yue: 菱形
     zh: 菱形
-    zh-hant: 菱形
-    zh-hk: 菱形
+    zh_hant: 菱形
+    zh_hk: 菱形
 ---
 # [[Rhombus]] 
 

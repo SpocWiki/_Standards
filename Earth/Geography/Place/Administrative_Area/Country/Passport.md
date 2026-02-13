@@ -148,7 +148,7 @@ dv_has_:
     ba: Паспорт
     bcl: Pasaporte
     be: пашпарт
-    be-tarask: пашпарт
+    be_tarask: пашпарт
     bg: паспорт
     bn: পাসপোর্ট
     br: paseporzh
@@ -165,8 +165,8 @@ dv_has_:
     diq: Pasaport
     el: διαβατήριο
     en: passport
-    en-ca: passport
-    en-gb: passport
+    en_ca: passport
+    en_gb: passport
     en-us: passport
     eo: pasporto
     es: pasaporte
@@ -215,13 +215,13 @@ dv_has_:
     mn: паспорт
     mr: पारपत्र
     ms: pasport
-    ms-arab: ڤسڤورت
+    ms_arab: ڤسڤورت
     mt: passaport
     my: နိုင်ငံကူးလက်မှတ်
     mzn: پاس
     nan: hō͘-chiàu
     nb: pass
-    nds-nl: paspoort
+    nds_nl: paspoort
     ne: राहदानी
     nl: paspoort
     nn: pass
@@ -247,7 +247,7 @@ dv_has_:
     so: Baasaboor
     sq: pasaportë
     sr: пасош
-    sr-ec: Пасош
+    sr_ec: Пасош
     sv: pass
     sw: Pasipoti
     ta: கடவுச் சீட்டு
@@ -257,7 +257,7 @@ dv_has_:
     tok: lipu open ma
     tr: pasaport
     tt: пашпурт
-    tt-cyrl: паспорт
+    tt_cyrl: паспорт
     ug: پاسپورت
     uk: паспорт
     ur: پاسپورٹ
@@ -270,8 +270,8 @@ dv_has_:
     yue: 護照
     za: Hucau
     zh: 护照
-    zh-cn: 护照
-    zh-hant: 護照
+    zh_cn: 护照
+    zh_hant: 護照
 ---
 # [[Passport]] 
 

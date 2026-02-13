@@ -32,14 +32,14 @@ dv_has_:
     ar: جرندل
     ast: Grendel
     bcl: Grendel
-    be-tarask: Грэндэль
+    be_tarask: Грэндэль
     ca: Grendel
     cs: Grendel
     de: Grendel
     el: Γκρέντελ
     en: Grendel
-    en-ca: Grendel
-    en-gb: Grendel
+    en_ca: Grendel
+    en_gb: Grendel
     es: Grendel
     eu: Grendel
     fa: گرندل
@@ -65,7 +65,7 @@ dv_has_:
     oc: Grendel
     pl: Grendel
     pt: Grendel
-    pt-br: Grendel
+    pt_br: Grendel
     ru: Грендель
     sh: Grendel
     sl: Grendel

@@ -173,7 +173,7 @@ dv_has_:
     ba: протестантлыҡ
     bar: Protestantismus
     be: пратэстанцтва
-    be-tarask: пратэстанцтва
+    be_tarask: пратэстанцтва
     bg: протестантство
     bho: प्रोटेस्टेंटिस़्म
     bn: প্রোটেস্ট্যান্টবাদ
@@ -186,7 +186,7 @@ dv_has_:
     ceb: Protestantismo
     ckb: پرۆتێستانت
     crh: Protestantlıq
-    crh-latn: Protestantlıq
+    crh_latn: Protestantlıq
     cs: protestantismus
     csb: protestancëzna
     cu: Папоборьчьска Вѣра
@@ -197,7 +197,7 @@ dv_has_:
     dsb: protestantizm
     el: Προτεσταντισμός
     en: Protestantism
-    en-gb: Protestantism
+    en_gb: Protestantism
     eo: protestantismo
     es: protestantismo
     et: protestantism
@@ -243,7 +243,7 @@ dv_has_:
     ko: 개신교
     ks: پروٹسٹنٹ عیسٲیَتھ
     ku: protestanî
-    ku-latn: protestanî
+    ku_latn: protestanî
     ky: Протестантизм
     la: Protestantes
     lad: Movimyento Protestante
@@ -258,7 +258,7 @@ dv_has_:
     lt: Protestantizmas
     lv: protestantisms
     lzh: 新教
-    map-bms: Protestan
+    map_bms: Protestan
     mg: Fiangonana ohatra
     min: Protestanisme
     mk: протестантство
@@ -274,7 +274,7 @@ dv_has_:
     nan: Sin-kàu
     nb: protestantisme
     nds: Protestantismus
-    nds-nl: protestantisme
+    nds_nl: protestantisme
     nl: protestantisme
     nn: protestantisme
     nqo: ߔߙߏߕߍߛߑߕߊ߲ߦߊ
@@ -291,7 +291,7 @@ dv_has_:
     pms: Protestantésim
     pnb: پروٹسٹنٹ مسیحیت
     pt: protestantismo
-    pt-br: protestantismo
+    pt_br: protestantismo
     qu: Protestantismu
     rm: Protestantissem
     ro: protestantism
@@ -312,8 +312,8 @@ dv_has_:
     sms: protestantismm
     sq: protestantizëm
     sr: протестантизам
-    sr-ec: протестантизам
-    sr-el: protestantizam
+    sr_ec: протестантизам
+    sr_el: protestantizam
     sv: protestantism
     sw: Uprotestanti
     szl: protestantyzm
@@ -326,7 +326,7 @@ dv_has_:
     tpi: Protestan
     tr: Protestanlık
     tt: протестантлык
-    tt-cyrl: протестантлык
+    tt_cyrl: протестантлык
     ug: پروتېستانت دىنى
     uk: протестантизм
     ur: پروٹسٹنٹ
@@ -342,9 +342,9 @@ dv_has_:
     yue: 基督新教
     zea: Protestantisme
     zh: 新教
-    zh-hant: 新教
-    zh-hk: 新教
-    zh-tw: 新教
+    zh_hant: 新教
+    zh_hk: 新教
+    zh_tw: 新教
 ---
 # [[Protestantism]] 
 

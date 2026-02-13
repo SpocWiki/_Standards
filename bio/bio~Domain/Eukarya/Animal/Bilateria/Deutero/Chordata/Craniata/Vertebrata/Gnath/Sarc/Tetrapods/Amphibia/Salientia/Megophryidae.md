@@ -33,10 +33,10 @@ dv_has_:
     ceb: Megophryidae
     cs: pablatnicovití
     de: Asiatische Krötenfrösche
-    de-ch: Asiatische Krötenfrösche
+    de_ch: Asiatische Krötenfrösche
     en: Megophryidae
-    en-ca: Megophryidae
-    en-gb: Megophryidae
+    en_ca: Megophryidae
+    en_gb: Megophryidae
     eo: Megofriedoj
     es: Megophryidae
     eu: Megophryidae
@@ -62,7 +62,7 @@ dv_has_:
     pl: Megophryidae
     pnb: ایشیائی کھورا ڈڈو
     pt: Megophryidae
-    pt-br: Megophryidae
+    pt_br: Megophryidae
     ro: Megophryidae
     ru: Рогатые чесночницы
     sl: Megophryidae
@@ -75,9 +75,9 @@ dv_has_:
     vo: Megophryidae
     war: Megophryidae
     zh: 角蟾科
-    zh-cn: 角蟾科
-    zh-hans: 角蟾科
-    zh-tw: 角蟾科
+    zh_cn: 角蟾科
+    zh_hans: 角蟾科
+    zh_tw: 角蟾科
 ---
 # [[Megophryidae]]  
 

@@ -39,7 +39,7 @@ dv_has_:
   name_:
     ar: سباق الزمن
     ast: Competición contrarreló
-    be-tarask: разьнесены старт
+    be_tarask: разьнесены старт
     ca: contrarellotge
     cs: časovka
     cy: Treial Amser

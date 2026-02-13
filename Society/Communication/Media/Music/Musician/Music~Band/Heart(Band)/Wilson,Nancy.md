@@ -69,7 +69,7 @@ dv_has_:
     arz: نانسى ويلسون (ملحن)
     ast: Nancy Wilson
     azb: نانسی ویلسون (موزیسین)
-    be-tarask: Нэнсі Ўілсан
+    be_tarask: Нэнсі Ўілсан
     bg: Нанси Уилсън
     bn: ন্যান্সি উইলসন
     ca: Nancy Wilson
@@ -78,8 +78,8 @@ dv_has_:
     da: Nancy Wilson
     de: Nancy Wilson
     en: Nancy Wilson
-    en-ca: Nancy Wilson
-    en-gb: Nancy Wilson
+    en_ca: Nancy Wilson
+    en_gb: Nancy Wilson
     es: Nancy Lamoureux Wilson
     eu: Nancy Wilson
     fa: نانسی ویلسون (نوازنده گیتار)
@@ -100,7 +100,7 @@ dv_has_:
     pap: Nancy Lamoureux Wilson
     pl: Nancy Wilson
     pt: Nancy Wilson
-    pt-br: Nancy Wilson
+    pt_br: Nancy Wilson
     ru: Нэнси Уилсон
     sl: Nancy Wilson
     sq: Nancy Wilson

@@ -91,7 +91,7 @@ dv_has_:
     azb: هولندین دوغو هیندوستان شیرکتی
     bbc: Vereenigde Oostindische Compagnie
     be: Галандская Ост-Індская кампанія
-    be-tarask: Галяндзкая Ост-Індзкая кампанія
+    be_tarask: Галяндзкая Ост-Індзкая кампанія
     bew: Kumpeni Welanda Hindia Wètan
     bg: Нидерландска източноиндийска компания
     bjn: Vereenigde Oostindische Compagnie
@@ -137,11 +137,11 @@ dv_has_:
     ml: ഡച്ച് ഈസ്റ്റ് ഇന്ത്യാ കമ്പനി
     mr: डच ईस्ट इंडिया कंपनी
     ms: Syarikat Hindia Timur Belanda
-    ms-arab: شريکت هينديا تيمور بلندا
+    ms_arab: شريکت هينديا تيمور بلندا
     my: ဒတ်ချ် အရှေ့အိန္ဒိယ ကုမ္ပဏီ
     nan: Hô-lân Liân-ha̍p Tang Ìn-tō͘ Kong-si
     nb: Det nederlandske Ostindiske kompani
-    nds-nl: Verainde Oostindiese Komnij
+    nds_nl: Verainde Oostindiese Komnij
     nl: Vereenigde Oostindische Compagnie
     nn: Det nederlandske austindiakompaniet
     oc: Companha neerlandesa deis Índias orientalas
@@ -169,12 +169,12 @@ dv_has_:
     wuu: 荷兰东印度公司
     yue: 荷蘭東印度公司
     zh: 荷兰东印度公司
-    zh-cn: 荷兰东印度公司
-    zh-hans: 荷兰东印度公司
-    zh-hant: 荷蘭東印度公司
-    zh-hk: 荷蘭東印度公司
-    zh-sg: 荷兰东印度公司
-    zh-tw: 荷蘭東印度公司
+    zh_cn: 荷兰东印度公司
+    zh_hans: 荷兰东印度公司
+    zh_hant: 荷蘭東印度公司
+    zh_hk: 荷蘭東印度公司
+    zh_sg: 荷兰东印度公司
+    zh_tw: 荷蘭東印度公司
 ---
 # [[Dutch_East_India_Company]] 
 

@@ -55,7 +55,7 @@ dv_has_:
     ar: أدب البرتغال
     ast: Lliteratura de Portugal
     be: літаратура Партугаліі
-    be-tarask: партугальская літаратура
+    be_tarask: партугальская літаратура
     bn: পর্তুগিজ সাহিত্য
     ca: literatura portuguesa
     cs: literatura Portugalska

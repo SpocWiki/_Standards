@@ -197,7 +197,7 @@ dv_has_:
   name_:
     ab: Сан Марино
     ace: San Marino
-    aeb-arab: سان مارينو
+    aeb_arab: سان مارينو
     af: San Marino
     am: ሳን ማሪኖ
     ami: San marino
@@ -221,7 +221,7 @@ dv_has_:
     bar: San Marino
     bcl: San Marino
     be: Сан-Марына
-    be-tarask: Сан-Марына
+    be_tarask: Сан-Марына
     bew: San Marino
     bg: Сан Марино
     bho: सैन मरीनो
@@ -233,7 +233,7 @@ dv_has_:
     bs: San Marino
     bxr: Сан-Марино
     ca: San Marino
-    cbk-zam: San Marino
+    cbk_zam: San Marino
     cdo: San Marino
     ce: Сан-Марино
     ceb: San Marino
@@ -241,7 +241,7 @@ dv_has_:
     ckb: سان مارینۆ
     co: San Marinu
     crh: San Marino
-    crh-latn: San Marino
+    crh_latn: San Marino
     cs: San Marino
     csb: San Marino
     cu: Санъ Марино
@@ -251,7 +251,7 @@ dv_has_:
     dag: San Marino
     de: San Marino
     de-at: San Marino
-    de-ch: San Marino
+    de_ch: San Marino
     diq: San Marino
     dsb: San Marino
     dty: सान मारिनो
@@ -260,8 +260,8 @@ dv_has_:
     el: Άγιος Μαρίνος
     eml: San Marein
     en: San Marino
-    en-ca: San Marino
-    en-gb: San Marino
+    en_ca: San Marino
+    en_gb: San Marino
     en-us: San Marino
     eo: San-Marino
     es: San Marino
@@ -286,7 +286,7 @@ dv_has_:
     gn: San Marino
     gom: सॅन मरिनो
     gom-deva: सॅन मरिनो
-    gom-latn: San Marino
+    gom_latn: San Marino
     got: "\U00010345\U00010334\U00010339\U00010337\U00010330 \U0001033C\U00010330\U00010342\U00010334\U00010339\U0001033D\U0001033F\U00010343"
     gpe: San Marino
     gsw: San Marino
@@ -322,7 +322,7 @@ dv_has_:
     kge: San Marino
     ki: San Marino
     kk: Сан-Марино
-    kk-cyrl: Сан-Марино
+    kk_cyrl: Сан-Марино
     kl: San Marino
     km: សាន់ម៉ារីណូ
     kn: ಸಾನ್ ಮರಿನೊ
@@ -354,7 +354,7 @@ dv_has_:
     lzh: 聖馬利諾
     mad: San Marino
     mai: सैन मरीनो
-    map-bms: San Marino
+    map_bms: San Marino
     mdf: Сан-Марино
     mg: San Marino
     mhr: Сан-Марино
@@ -377,7 +377,7 @@ dv_has_:
     nap: San Marino
     nb: San Marino
     nds: San Marino
-    nds-nl: San Marino
+    nds_nl: San Marino
     ne: सान मारिनो
     new: सान मरिनो
     nl: San Marino
@@ -404,7 +404,7 @@ dv_has_:
     pnt: Άι Μαρίνος
     ps: سان مارینو
     pt: San Marino
-    pt-br: San Marino
+    pt_br: San Marino
     qu: San Marino
     rki: ဆန်မာရီနို သမ္မတနိုင်ငံ
     rm: San Marino
@@ -440,8 +440,8 @@ dv_has_:
     so: San Marino
     sq: San Marino
     sr: Сан Марино
-    sr-ec: Сан Марино
-    sr-el: San Marino
+    sr_ec: Сан Марино
+    sr_el: San Marino
     srn: San Marinokondre
     stq: San Marino
     su: San Marino
@@ -453,7 +453,7 @@ dv_has_:
     te: శాన్ మారినో
     tet: Saun Mariñu
     tg: Сан-Марино
-    tg-cyrl: Сан-Марино
+    tg_cyrl: Сан-Марино
     th: ประเทศซานมารีโน
     ti: ሳን ማሪዮ
     tk: San-Marino
@@ -491,14 +491,14 @@ dv_has_:
     zea: San Marino
     zgh: ⵙⴰⵏ ⵎⴰⵔⵉⵏⵓ
     zh: 圣马力诺
-    zh-cn: 圣马力诺
-    zh-hans: 圣马力诺
-    zh-hant: 聖馬利諾
-    zh-hk: 聖馬力諾
-    zh-mo: 聖馬力諾
+    zh_cn: 圣马力诺
+    zh_hans: 圣马力诺
+    zh_hant: 聖馬利諾
+    zh_hk: 聖馬力諾
+    zh_mo: 聖馬力諾
     zh-my: 圣马力诺
-    zh-sg: 圣马力诺
-    zh-tw: 聖馬利諾
+    zh_sg: 圣马力诺
+    zh_tw: 聖馬利諾
     zu: USanti Marino
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-San_Marino

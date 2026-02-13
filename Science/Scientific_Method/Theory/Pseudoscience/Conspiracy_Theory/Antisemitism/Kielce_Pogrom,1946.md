@@ -29,8 +29,8 @@ dv_has_:
     uk: Погром у Кельце
     yi: קעלצער פאגראם
     zh: 凯尔采反犹骚乱
-    zh-hans: 凯尔采反犹暴乱
-    zh-hant: 凱爾採反猶暴亂
+    zh_hans: 凯尔采反犹暴乱
+    zh_hant: 凱爾採反猶暴亂
 aliases:
 - Kielce pogrom
 - Kielcen pogromi

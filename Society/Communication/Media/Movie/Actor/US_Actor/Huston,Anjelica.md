@@ -103,7 +103,7 @@ dv_has_:
     ast: Anjelica Huston
     az: Ancelika Hyuston
     azb: آنجلیکا هیوستون
-    be-tarask: Анджэліка Г’юстан
+    be_tarask: Анджэліка Г’юстан
     bg: Анжелика Хюстън
     bn: অ্যাঞ্জেলিকা হিউস্টন
     ca: Anjelica Huston
@@ -147,7 +147,7 @@ dv_has_:
     pap: Anjelica Huston
     pl: Anjelica Huston
     pt: Anjelica Huston
-    pt-br: Anjelica Huston
+    pt_br: Anjelica Huston
     ro: Anjelica Huston
     ru: Анжелика Хьюстон
     sco: Anjelica Huston
@@ -156,8 +156,8 @@ dv_has_:
     sl: Anjelica Huston
     sq: Anjelica Huston
     sr: Анџелика Хјустон
-    sr-ec: Анџелика Хјустон
-    sr-el: Andželika Hjuston
+    sr_ec: Анџелика Хјустон
+    sr_el: Andželika Hjuston
     sv: Anjelica Huston
     th: อันเจลิกา ฮัสตัน
     tl: Anjelica Huston
@@ -171,10 +171,10 @@ dv_has_:
     yo: Anjelica Huston
     yue: 安芝莉嘉侯絲頓
     zh: 安杰丽卡·休斯顿
-    zh-hans: 安杰丽卡·休斯顿
-    zh-hant: 安潔莉卡·休斯頓
-    zh-sg: 安洁莉卡·休斯顿
-    zh-tw: 安潔莉卡·休斯頓
+    zh_hans: 安杰丽卡·休斯顿
+    zh_hant: 安潔莉卡·休斯頓
+    zh_sg: 安洁莉卡·休斯顿
+    zh_tw: 安潔莉卡·休斯頓
 ---
 # [[Huston,Anjelica]] 
 

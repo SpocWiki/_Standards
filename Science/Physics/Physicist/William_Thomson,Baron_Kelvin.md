@@ -199,7 +199,7 @@ dv_has_:
     azb: ویلیام تامسون
     bcl: Lord Kelvin
     be: Уільям Томсан, лорд Кельвін
-    be-tarask: Ўільям Томсан
+    be_tarask: Ўільям Томсан
     bg: Уилям Томсън
     bn: উইলিয়াম থমসন, ১ম ব্যারন কেলভিন
     bs: William Thomson
@@ -209,11 +209,11 @@ dv_has_:
     cy: William Thomson, Barwn Kelvin 1af
     da: William Thomson
     de: William Thomson, 1. Baron Kelvin
-    de-ch: William Thomson, 1. Baron Kelvin
+    de_ch: William Thomson, 1. Baron Kelvin
     el: Ουίλιαμ Τόμσον
     en: William Thomson, 1st Baron Kelvin
-    en-ca: William Thomson, 1st Baron Kelvin
-    en-gb: William Thomson, 1st Baron Kelvin
+    en_ca: William Thomson, 1st Baron Kelvin
+    en_gb: William Thomson, 1st Baron Kelvin
     eo: William Thomson
     es: William Thomson
     et: William Thomson
@@ -235,11 +235,11 @@ dv_has_:
     ja: ウィリアム・トムソン
     ka: უილიამ ტომსონი
     kk: Томсон Уильям
-    kk-arab: تومسون ۋىيليام
+    kk_arab: تومسون ۋىيليام
     kk-cn: تومسون ۋىيليام
-    kk-cyrl: Томсон Уильям
+    kk_cyrl: Томсон Уильям
     kk-kz: Томсон Уильям
-    kk-latn: Tomson Wïlʹyam
+    kk_latn: Tomson Wïlʹyam
     kk-tr: Tomson Wïlʹyam
     km: William Thomson, 1st Baron Kelvin
     kn: ವಿಲಿಯಂ ಥಾಮ್ಸನ್
@@ -266,7 +266,7 @@ dv_has_:
     pnb: ولیم تھامسن کیلون
     ps: ویلیام ټامسون، د کلوین لومړی بارون
     pt: William Thomson, 1.º Barão Kelvin
-    pt-br: William Thomson, 1.º Barão Kelvin
+    pt_br: William Thomson, 1.º Barão Kelvin
     ro: William Thomson
     ru: Уильям Томсон, 1-й барон Кельвин
     sa: केल्विन् विलियं थाम्सन् लार्ड्
@@ -276,8 +276,8 @@ dv_has_:
     sl: William Thomson
     sq: William Thomson, 1st Baron Kelvin
     sr: Вилијам Келвин
-    sr-ec: Вилијам Келвин
-    sr-el: Vilijam Kelvin
+    sr_ec: Вилијам Келвин
+    sr_el: Vilijam Kelvin
     sv: William Thomson Kelvin
     ta: வில்லியம் தாம்சன்
     th: วิลเลียม ทอมสัน บารอนเคลวินที่ 1
@@ -290,14 +290,14 @@ dv_has_:
     xmf: უილიამ ტომსონი
     yue: 開爾文男爵
     zh: 第一代开尔文男爵威廉·汤姆森
-    zh-cn: 第一代开尔文男爵威廉·汤姆森
-    zh-hans: 第一代开尔文男爵威廉·汤姆森
-    zh-hant: 第一代克耳文男爵威廉·湯姆森
-    zh-hk: 第一代開爾文男爵威廉·湯遜
-    zh-mo: 第一代開爾文男爵威廉·湯遜
+    zh_cn: 第一代开尔文男爵威廉·汤姆森
+    zh_hans: 第一代开尔文男爵威廉·汤姆森
+    zh_hant: 第一代克耳文男爵威廉·湯姆森
+    zh_hk: 第一代開爾文男爵威廉·湯遜
+    zh_mo: 第一代開爾文男爵威廉·湯遜
     zh-my: 第一代开尔文男爵威廉·汤姆森
-    zh-sg: 第一代开尔文男爵威廉·汤姆森
-    zh-tw: 第一代克耳文男爵威廉·湯姆森
+    zh_sg: 第一代开尔文男爵威廉·汤姆森
+    zh_tw: 第一代克耳文男爵威廉·湯姆森
 ---
 # [[William_Thomson,Baron_Kelvin]] 
 

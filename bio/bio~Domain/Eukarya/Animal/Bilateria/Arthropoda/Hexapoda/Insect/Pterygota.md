@@ -92,7 +92,7 @@ dv_has_:
     az: Qanadlılar
     bar: Pterygota
     be: Крылатыя насякомыя
-    be-tarask: крылатыя
+    be_tarask: крылатыя
     bg: крилати насекоми
     br: Pterygota
     bs: Krilati insekti
@@ -105,11 +105,11 @@ dv_has_:
     da: Pterygota
     de: Fluginsekten
     de-at: Pterygota
-    de-ch: Pterygota
+    de_ch: Pterygota
     el: Πτερυγωτά
     en: Pterygota
-    en-ca: Pterygota
-    en-gb: Pterygota
+    en_ca: Pterygota
+    en_gb: Pterygota
     eo: Flugilaj insektoj
     es: Pterygota
     et: Pterygota
@@ -154,7 +154,7 @@ dv_has_:
     nap: Pterygota
     nb: vingede insekter
     nds: Fleeginsekten
-    nds-nl: Pterygota
+    nds_nl: Pterygota
     nl: Pterygota
     nn: Flygande insekt
     nov: Pterygota
@@ -168,7 +168,7 @@ dv_has_:
     pms: Pterygota
     ps: وزر لرونکی خوځندکې
     pt: Pterygota
-    pt-br: Pterygota
+    pt_br: Pterygota
     rm: Pterygota
     ro: Pterygota
     ru: крылатые насекомые
@@ -198,10 +198,10 @@ dv_has_:
     wuu: 有翅亚纲
     yue: 有翅亞綱
     zh: 有翅亞綱
-    zh-cn: 有翅亚纲
-    zh-hans: 有翅亚纲
-    zh-hant: 有翅亞綱
-    zh-tw: 有翅亞綱
+    zh_cn: 有翅亚纲
+    zh_hans: 有翅亚纲
+    zh_hant: 有翅亞綱
+    zh_tw: 有翅亞綱
     zu: Pterygota
 ---
 # [[Pterygota]] 

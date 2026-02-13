@@ -174,7 +174,7 @@ dv_has_:
     az: Oldos Haksli
     azb: آلدوس هاکسلی
     be: Олдас Хакслі
-    be-tarask: Олдас Гаксьлі
+    be_tarask: Олдас Гаксьлі
     bg: Олдъс Хъксли
     bjn: Aldous Huxley
     bn: অ্যালডাস হাক্সলি
@@ -237,7 +237,7 @@ dv_has_:
     pl: Aldous Huxley
     ps: الدوس هاکسلي
     pt: Aldous Huxley
-    pt-br: Aldous Huxley
+    pt_br: Aldous Huxley
     ro: Aldous Huxley
     ru: Олдос Хаксли
     sco: Aldous Huxley
@@ -248,7 +248,7 @@ dv_has_:
     smn: Aldous Huxley
     sq: Aldous Huxley
     sr: Олдус Хаксли
-    sr-ec: Олдус Хаксли
+    sr_ec: Олдус Хаксли
     sv: Aldous Huxley
     ta: ஆல்டசு அக்சுலி
     tg: Олдос Ҳакслӣ

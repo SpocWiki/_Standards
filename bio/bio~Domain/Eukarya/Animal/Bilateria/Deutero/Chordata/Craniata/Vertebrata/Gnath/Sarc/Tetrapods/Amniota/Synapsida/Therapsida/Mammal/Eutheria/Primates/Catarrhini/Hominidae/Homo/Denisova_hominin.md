@@ -72,7 +72,7 @@ dv_has_:
     ast: Homínidu de Denísova
     azb: دنیسووا اینسانی
     be: Дзянісаўскі чалавек
-    be-tarask: дзянісавец
+    be_tarask: дзянісавец
     bg: Денисов човек
     bn: দেনিসোভা মানব
     bs: Denisovski hominin
@@ -85,8 +85,8 @@ dv_has_:
     de: Denisova-Mensch
     el: Ντενίσοβαν
     en: denisovan
-    en-ca: Denisovan
-    en-gb: Denisovan
+    en_ca: Denisovan
+    en_gb: Denisovan
     eo: Denisova hominido
     es: Homínido de Denisova
     et: Denissi inimene
@@ -119,7 +119,7 @@ dv_has_:
     pl: Denisowianin
     ps: ډینیسووان
     pt: Hominídeo de Denisova
-    pt-br: Hominídeo de Denisova
+    pt_br: Hominídeo de Denisova
     ro: Omul de Denisovan
     ru: денисовский человек
     sh: Denisovski čovjek
@@ -136,12 +136,12 @@ dv_has_:
     war: Denisovanon
     yue: 丹尼索瓦人
     zh: 丹尼索瓦人
-    zh-cn: 丹尼索瓦人
-    zh-hans: 丹尼索瓦人
-    zh-hant: 丹尼索瓦人
-    zh-hk: 丹尼索瓦人
-    zh-sg: 丹尼索瓦人
-    zh-tw: 丹尼索瓦人
+    zh_cn: 丹尼索瓦人
+    zh_hans: 丹尼索瓦人
+    zh_hant: 丹尼索瓦人
+    zh_hk: 丹尼索瓦人
+    zh_sg: 丹尼索瓦人
+    zh_tw: 丹尼索瓦人
 ---
 # [[Denisova_hominin]] 
 

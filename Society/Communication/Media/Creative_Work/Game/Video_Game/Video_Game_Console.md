@@ -131,7 +131,7 @@ dv_has_:
     az: video oyun konsolu
     ban: Konsol gim
     be: гульнявая прыстаўка
-    be-tarask: гульнявая прыстаўка
+    be_tarask: гульнявая прыстаўка
     bg: игрална конзола
     bn: ভিডিও গেইম কনসোল
     br: letrin c'hoari
@@ -145,8 +145,8 @@ dv_has_:
     de: Spielkonsole
     el: кονσόλα βιντεοπαιχνιδιού
     en: video game console
-    en-ca: video game console
-    en-gb: video game console
+    en_ca: video game console
+    en_gb: video game console
     eo: videoludilo
     es: videoconsola
     et: mängukonsool
@@ -179,7 +179,7 @@ dv_has_:
     mk: играчка конзола
     ml: വീഡിയോ ഗെയിം കൺസോൾ
     ms: konsol permainan video
-    ms-arab: کونسول ڤرماءينن ۏيديو
+    ms_arab: کونسول ڤرماءينن ۏيديو
     nan: Iû-hì-ki
     nb: spillkonsoll
     nl: spelcomputer
@@ -187,7 +187,7 @@ dv_has_:
     oc: consòla de videojòc
     pl: konsola gier wideo
     pt: consola de jogos
-    pt-br: console de jogo eletrônico
+    pt_br: console de jogo eletrônico
     qu: widyu kunsula
     ro: consolă de jocuri
     ru: игровая приставка
@@ -216,8 +216,8 @@ dv_has_:
     yi: ווידעא שפיל קאנסאל
     yue: 電子遊戲機
     zh: 電子遊戲機
-    zh-hans: 游戏机
-    zh-hant: 電子遊戲機
+    zh_hans: 游戏机
+    zh_hant: 電子遊戲機
 ---
 # [[Video_Game_Console]] 
 

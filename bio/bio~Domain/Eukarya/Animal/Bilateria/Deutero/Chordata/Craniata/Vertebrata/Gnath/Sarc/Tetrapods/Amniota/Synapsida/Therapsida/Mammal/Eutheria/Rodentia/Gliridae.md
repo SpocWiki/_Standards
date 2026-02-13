@@ -119,7 +119,7 @@ dv_has_:
     az: Süleysinlər
     ba: Йоҡластар
     be: соневыя
-    be-tarask: Соневыя
+    be_tarask: Соневыя
     bg: сънливцови
     br: Glirideged
     ca: Lirons
@@ -154,11 +154,11 @@ dv_has_:
     ka: ძილგუდასებრნი
     kab: Acebcal
     kk: Қарақас тұқымдасы
-    kk-arab: قاراقاس تۇقىمداسى
+    kk_arab: قاراقاس تۇقىمداسى
     kk-cn: قاراقاس تۇقىمداسى
-    kk-cyrl: Қарақас тұқымдасы
+    kk_cyrl: Қарақас тұқымдасы
     kk-kz: Қарақас тұқымдасы
-    kk-latn: Qaraqas tuqımdası
+    kk_latn: Qaraqas tuqımdası
     kk-tr: Qaraqas tuqımdası
     ko: 겨울잠쥐류
     la: Gliridae
@@ -177,14 +177,14 @@ dv_has_:
     oc: Myoxidae
     pl: popielicowate
     pt: Gliridae
-    pt-br: Gliridae
+    pt_br: Gliridae
     ro: Pârș
     ru: соневые
     sl: polhi
     sq: Gliridae
     sr: Gliridae
-    sr-ec: Gliridae
-    sr-el: Gliridae
+    sr_ec: Gliridae
+    sr_el: Gliridae
     sv: Sovmöss
     sw: Panya-miti
     tl: Gliridae
@@ -200,12 +200,12 @@ dv_has_:
     wuu: 睡鼠科
     yue: 睡鼠科
     zh: 睡鼠科
-    zh-cn: 睡鼠科
-    zh-hans: 睡鼠科
-    zh-hant: 睡鼠
-    zh-hk: 睡鼠
-    zh-sg: 睡鼠
-    zh-tw: 睡鼠科
+    zh_cn: 睡鼠科
+    zh_hans: 睡鼠科
+    zh_hant: 睡鼠
+    zh_hk: 睡鼠
+    zh_sg: 睡鼠
+    zh_tw: 睡鼠科
 ---
 # [[Gliridae]] 
 

@@ -221,7 +221,7 @@ dv_has_:
     ba: Расизм
     bar: Rassismus
     be: расізм
-    be-tarask: расізм
+    be_tarask: расізм
     bg: расизъм
     bn: বর্ণবাদ
     br: gouennelouriezh
@@ -239,13 +239,13 @@ dv_has_:
     cy: hiliaeth
     da: racisme
     de: Rassismus
-    de-ch: Rassismus
+    de_ch: Rassismus
     din: Nyɛrëkuat
     dtp: Rinanzat
     el: ρατσισμός
     en: racism
-    en-ca: Racism
-    en-gb: racism
+    en_ca: Racism
+    en_gb: racism
     eo: rasismo
     es: racismo
     et: rassism
@@ -325,7 +325,7 @@ dv_has_:
     pnb: نسل پرستی
     ps: توکمپالنه
     pt: racismo
-    pt-br: racismo
+    pt_br: racismo
     qu: Chawchuri rikuri
     rm: Rassissem
     ro: rasism
@@ -361,7 +361,7 @@ dv_has_:
     tly: Rasizm
     tr: ırkçılık
     tt: ырыкчылык
-    tt-cyrl: ырыкчылык
+    tt_cyrl: ырыкчылык
     tyv: Расизм
     udm: расизм
     uk: расизм
@@ -378,9 +378,9 @@ dv_has_:
     yo: Ìṣẹlẹ́yàmẹ̀yà
     yue: 種族歧視
     zh: 種族主義
-    zh-cn: 种族主义
-    zh-hant: 種族主義
-    zh-hk: 種族主義
+    zh_cn: 种族主义
+    zh_hant: 種族主義
+    zh_hk: 種族主義
     zu: Ukucwasa ngokwebala
 ---
 # [[Racism]] 

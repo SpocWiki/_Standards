@@ -179,7 +179,7 @@ dv_has_:
     ba: Тәбиғи газ
     bcl: natural gas
     be: прыродны газ
-    be-tarask: прыродны газ
+    be_tarask: прыродны газ
     bg: природен газ
     bn: প্রাকৃতিক গ্যাস
     bs: zemni plin
@@ -192,7 +192,7 @@ dv_has_:
     de: Erdgas
     el: φυσικό αέριο
     en: natural gas
-    en-gb: natural gas
+    en_gb: natural gas
     eo: tergaso
     es: gas natural
     et: maagaas
@@ -240,7 +240,7 @@ dv_has_:
     nan: thian-jiân-khì
     nan-hant: 天然氣
     nb: naturgass
-    nds-nl: eerdgas
+    nds_nl: eerdgas
     ne: प्राकृतिक ग्यास
     nl: aardgas
     nn: naturgass
@@ -250,7 +250,7 @@ dv_has_:
     pnb: قدرتی گیس
     ps: طبیعي ګاز
     pt: gás natural
-    pt-br: gás natural
+    pt_br: gás natural
     qu: allpa wapsi
     ro: gaz natural
     ru: природный газ
@@ -275,7 +275,7 @@ dv_has_:
     th: แก๊สธรรมชาติ
     tr: doğalgaz
     tt: табигый газ
-    tt-cyrl: табигый газ
+    tt_cyrl: табигый газ
     uk: природний газ
     ur: قدرتی گیس
     uz: tabiiy gazlar

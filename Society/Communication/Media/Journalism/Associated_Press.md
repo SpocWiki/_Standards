@@ -118,7 +118,7 @@ dv_has_:
     azb: آسوشیتد پرس
     ba: Ассошиэйтед Пресс
     be: Associated Press
-    be-tarask: Associated Press
+    be_tarask: Associated Press
     bg: Асошиейтед Прес
     bn: অ্যাসোসিয়েটেড প্রেস
     ca: Associated Press
@@ -131,7 +131,7 @@ dv_has_:
     dv: އެސޯސިއޭޓެޑް ޕްރެސް
     el: Ασοσιέιτεντ Πρες
     en: Associated Press
-    en-gb: Associated Press
+    en_gb: Associated Press
     eo: Associated Press
     es: Associated Press
     et: Associated Press
@@ -194,10 +194,10 @@ dv_has_:
     yi: AP
     yue: 美聯社
     zh: 美联社
-    zh-cn: 美联社
-    zh-hans: 美联社
-    zh-hk: 美聯社
-    zh-tw: 美聯社
+    zh_cn: 美联社
+    zh_hans: 美联社
+    zh_hk: 美聯社
+    zh_tw: 美聯社
 ---
 # [[Associated_Press]] 
 

@@ -89,7 +89,7 @@ dv_has_:
     ast: Historia de la medicina
     az: Tibb tarixi
     be: гісторыя медыцыны
-    be-tarask: гісторыя мэдыцыны
+    be_tarask: гісторыя мэдыцыны
     bg: История на медицината
     bn: চিকিৎসা বিজ্ঞানের ইতিহাস
     br: istor ar vezegiezh
@@ -101,8 +101,8 @@ dv_has_:
     diq: Tarixê tıbi
     el: Ιστορία της ιατρικής
     en: history of medicine
-    en-ca: history of medicine
-    en-gb: history of medicine
+    en_ca: history of medicine
+    en_gb: history of medicine
     eo: historio de medicino
     es: historia de la medicina
     eu: medikuntzaren historia
@@ -130,7 +130,7 @@ dv_has_:
     pl: historia medycyny
     ps: د طبابت تاریخچه
     pt: história da medicina
-    pt-br: história da medicina
+    pt_br: história da medicina
     ro: istoria medicinii
     ru: история медицины
     se: dálkkasdiehtaga historjá
@@ -141,8 +141,8 @@ dv_has_:
     sms: taalkâstiõtti historia
     sq: Historia e mjekësisë
     sr: историја медицине
-    sr-ec: Историја медицине
-    sr-el: Istorija medicine
+    sr_ec: Историја медицине
+    sr_el: Istorija medicine
     sv: medicinhistoria
     ta: மருத்துவத்துறையின் வரலாறு
     tg: таърихи пизишкӣ
@@ -153,12 +153,12 @@ dv_has_:
     vi: Lịch sử y học
     yue: 醫學史
     zh: 医学史
-    zh-cn: 医学史
-    zh-hans: 医学史
-    zh-hant: 醫學史
-    zh-hk: 醫學史
-    zh-sg: 医学史
-    zh-tw: 醫學史
+    zh_cn: 医学史
+    zh_hans: 医学史
+    zh_hant: 醫學史
+    zh_hk: 醫學史
+    zh_sg: 医学史
+    zh_tw: 醫學史
 ---
 # [[History_of_Medicine]] 
 

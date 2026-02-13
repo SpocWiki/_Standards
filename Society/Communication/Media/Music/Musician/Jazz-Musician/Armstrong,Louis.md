@@ -186,7 +186,7 @@ dv_has_:
     ba: Армстронг, Луи
     bar: Louis Armstrong
     be: Луі Армстранг
-    be-tarask: Луіс Армстранг
+    be_tarask: Луіс Армстранг
     bg: Луис Армстронг
     bho: लुई आर्मस्ट्रांग
     bi: Louis Armstrong
@@ -203,12 +203,12 @@ dv_has_:
     cy: Louis Armstrong
     dag: Louis Armstrong
     de: Louis Armstrong
-    de-ch: Louis Armstrong
+    de_ch: Louis Armstrong
     diq: Louis Armstrong
     el: Λούις Άρμστρονγκ
     en: Louis Armstrong
-    en-ca: Louis Armstrong
-    en-gb: Louis Armstrong
+    en_ca: Louis Armstrong
+    en_gb: Louis Armstrong
     eo: Louis Armstrong
     es: Louis Armstrong
     et: Louis Armstrong
@@ -295,7 +295,7 @@ dv_has_:
     sl: Louis Armstrong
     sq: Louis Armstrong
     sr: Луј Армстронг
-    sr-ec: Луј Армстронг
+    sr_ec: Луј Армстронг
     stq: Louis Armstrong
     sv: Louis Armstrong
     sw: Louis Armstrong
@@ -322,7 +322,7 @@ dv_has_:
     yo: Louis Armstrong
     yue: 路易斯岩士唐
     zh: 路易斯·阿姆斯特朗
-    zh-hant: 猴子阿姆斯特朗
+    zh_hant: 猴子阿姆斯特朗
 ---
 # [[Armstrong,Louis]] 
 

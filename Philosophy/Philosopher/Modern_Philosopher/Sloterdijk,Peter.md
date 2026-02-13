@@ -51,7 +51,7 @@ dv_has_:
     oc: Peter Sloterdijk
     pl: Peter Sloterdijk
     pt: Peter Sloterdijk
-    pt-br: Peter Sloterdijk
+    pt_br: Peter Sloterdijk
     ro: Peter Sloterdijk
     ru: Петер Слотердайк
     sk: Peter Sloterdijk

@@ -136,7 +136,7 @@ dv_has_:
     az: materialşünaslıq
     ba: материалдар өйрәнеү
     be: матэрыялазнаўства
-    be-tarask: матэрыялазнаўства
+    be_tarask: матэрыялазнаўства
     bg: материалознание
     bn: উপাদান বিজ্ঞান
     bs: nauka o materijalima
@@ -178,7 +178,7 @@ dv_has_:
     mn: материалын шинжлэх ухаан
     mr: पदार्थविज्ञान
     ms: sains bahan
-    ms-arab: ساءينس باهن
+    ms_arab: ساءينس باهن
     mt: xjenza tal-materjali
     nb: materialvitenskap
     ne: पदार्थ विज्ञान
@@ -187,7 +187,7 @@ dv_has_:
     pl: badania materiałowe
     ps: موادپوهنه
     pt: ciência dos materiais
-    pt-br: ciência dos materiais
+    pt_br: ciência dos materiais
     ro: știința materialelor
     ru: материаловедение
     sa: पदार्थ विज्ञानं
@@ -215,12 +215,12 @@ dv_has_:
     wuu: 材料科学
     yue: 材料科學
     zh: 材料科学
-    zh-cn: 材料科学
-    zh-hans: 材料科学
-    zh-hant: 材料科學
-    zh-hk: 材料科學
-    zh-sg: 材料科学
-    zh-tw: 材料科學
+    zh_cn: 材料科学
+    zh_hans: 材料科学
+    zh_hant: 材料科學
+    zh_hk: 材料科學
+    zh_sg: 材料科学
+    zh_tw: 材料科學
 ---
 # [[Materials_Science]] 
 

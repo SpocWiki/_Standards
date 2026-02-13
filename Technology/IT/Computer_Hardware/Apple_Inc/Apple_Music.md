@@ -10,7 +10,7 @@ dv_has_:
     ba: Apple Music
     bar: Apple Music
     be: Apple Music
-    be-tarask: Эпл Музыка
+    be_tarask: Эпл Музыка
     bn: অ্যাপল মিউজিক
     bs: Apple Music
     ca: Apple Music
@@ -20,12 +20,12 @@ dv_has_:
     da: Apple Music
     de: Apple Music
     de-at: Apple Music
-    de-ch: Apple Music
+    de_ch: Apple Music
     el: Apple Music
     eml: Apple Music
     en: Apple Music
-    en-ca: Apple Music
-    en-gb: Apple Music
+    en_ca: Apple Music
+    en_gb: Apple Music
     es: Apple Music
     es-419: Apple Music
     et: Apple Music
@@ -57,7 +57,7 @@ dv_has_:
     nap: Apple Music
     nb: Apple Music
     nds: Apple Music
-    nds-nl: Apple Music
+    nds_nl: Apple Music
     ne: एप्पल म्युजिक
     nl: Apple Music
     nn: Apple Music
@@ -66,7 +66,7 @@ dv_has_:
     pl: Apple Music
     pms: Apple Music
     pt: Apple Music
-    pt-br: Apple Music
+    pt_br: Apple Music
     ro: Apple Music
     ru: Apple Music
     sah: Apple Music
@@ -90,14 +90,14 @@ dv_has_:
     yue: Apple Music
     zea: Apple Music
     zh: Apple Music
-    zh-cn: Apple Music
-    zh-hans: Apple Music
-    zh-hant: Apple Music
-    zh-hk: Apple Music
-    zh-mo: Apple Music
+    zh_cn: Apple Music
+    zh_hans: Apple Music
+    zh_hant: Apple Music
+    zh_hk: Apple Music
+    zh_mo: Apple Music
     zh-my: Apple Music
-    zh-sg: Apple Music
-    zh-tw: Apple Music
+    zh_sg: Apple Music
+    zh_tw: Apple Music
 aliases:
 - Apple Music
 - Apple Müzik

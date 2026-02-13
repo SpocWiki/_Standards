@@ -70,7 +70,7 @@ dv_has_:
     an: Orbital molecular
     ar: مدار جزيئي
     ast: Orbital molecular
-    be-tarask: малекулярная арбіталь
+    be_tarask: малекулярная арбіталь
     bn: আণবিক কক্ষপথ
     bs: Molekulska orbitala
     ca: orbital molecular
@@ -105,8 +105,8 @@ dv_has_:
     sh: Molekulske orbitale
     sk: Molekulový orbitál
     sr: молекулска орбитала
-    sr-ec: молекулска орбитала
-    sr-el: Molekulska orbitala
+    sr_ec: молекулска орбитала
+    sr_el: Molekulska orbitala
     sv: Molekylorbital
     th: ออร์บิทัลเชิงโมเลกุล
     tr: Moleküler orbital
@@ -114,9 +114,9 @@ dv_has_:
     vi: Quỹ đạo phân tử
     wuu: 分子轨道
     zh: 分子轨道
-    zh-hans: 分子轨道
-    zh-hant: 分子軌道
-    zh-hk: 分子軌道
+    zh_hans: 分子轨道
+    zh_hant: 分子軌道
+    zh_hk: 分子軌道
 ---
 # [[Molecular_Orbital]] 
 

@@ -66,7 +66,7 @@ dv_has_:
     arz: لايف (مجله)
     az: Life
     be: Life
-    be-tarask: Life
+    be_tarask: Life
     bn: লাইফ (সাময়িকী)
     ca: Life
     cs: Life
@@ -108,12 +108,12 @@ dv_has_:
     uk: Лайф
     vi: Life (tạp chí)
     zh: 生活
-    zh-cn: 生活
-    zh-hans: 生活
-    zh-hant: 生活
-    zh-hk: 生活
-    zh-sg: 生活
-    zh-tw: 生活
+    zh_cn: 生活
+    zh_hans: 生活
+    zh_hant: 生活
+    zh_hk: 生活
+    zh_sg: 生活
+    zh_tw: 生活
 ---
 # [[Life_Magazine]] 
 

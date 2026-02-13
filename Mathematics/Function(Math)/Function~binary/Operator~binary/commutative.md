@@ -90,7 +90,7 @@ dv_has_:
     az: Kommutativlik xassəsi
     ba: коммутатив операция
     be: камутатыўная аперацыя
-    be-tarask: камутатыўнасьць
+    be_tarask: камутатыўнасьць
     bg: Комутативност
     bn: বিনিময় বৈশিষ্ট্য
     bs: Komutativnost
@@ -124,11 +124,11 @@ dv_has_:
     it: commutatività
     ja: 交換法則
     kk: Ауыстырымдылық
-    kk-arab: اۋىستىرىمدىلىق
+    kk_arab: اۋىستىرىمدىلىق
     kk-cn: اۋىستىرىمدىلىق
-    kk-cyrl: Ауыстырымдылық
+    kk_cyrl: Ауыстырымдылық
     kk-kz: Ауыстырымдылық
-    kk-latn: Awıstırımdılıq
+    kk_latn: Awıstırımdılıq
     kk-tr: Awıstırımdılıq
     ko: 교환법칙
     la: Commutativitas
@@ -144,7 +144,7 @@ dv_has_:
     nn: kommutativitet
     pl: przemienność
     pt: comutatividade
-    pt-br: comutatividade
+    pt_br: comutatividade
     ro: Comutativitate
     ru: коммутативность
     sco: commutative property
@@ -154,8 +154,8 @@ dv_has_:
     sl: komutativnost
     sq: Vetia e ndërrimit
     sr: комутативност
-    sr-ec: комутативност
-    sr-el: komutativnost
+    sr_ec: комутативност
+    sr_el: komutativnost
     sv: kommutativitet
     ta: பரிமாற்றுத்தன்மை
     th: สมบัติการสลับที่
@@ -168,12 +168,12 @@ dv_has_:
     wuu: 交换律
     yue: 交換律
     zh: 交換律
-    zh-cn: 交换律
-    zh-hans: 交换律
-    zh-hant: 交換律
-    zh-hk: 交換律
-    zh-sg: 交换律
-    zh-tw: 交換律
+    zh_cn: 交换律
+    zh_hans: 交换律
+    zh_hant: 交換律
+    zh_hk: 交換律
+    zh_sg: 交换律
+    zh_tw: 交換律
 ---
 # [[commutative]] 
 

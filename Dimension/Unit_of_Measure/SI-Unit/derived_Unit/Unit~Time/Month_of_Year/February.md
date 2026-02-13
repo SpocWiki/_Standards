@@ -336,7 +336,7 @@ dv_has_:
   name_:
     ab: Жәабранмза
     ady: Мэзае
-    aeb-arab: فيڥري
+    aeb_arab: فيڥري
     af: Februarie
     agq: Ndzɔŋ è Kə̀zūʼ
     alt: Кочкор ай
@@ -364,11 +364,11 @@ dv_has_:
     bar: Fewer
     bas: mac√®l
     bax: mùt Février
-    bbc-latn: Li
+    bbc_latn: Li
     bbj: sɔ̂gwǐŋ
     bcl: Pebrero
     be: люты
-    be-tarask: люты
+    be_tarask: люты
     bew: Pèbruari
     bg: Февруари
     bho: फरवरी
@@ -386,7 +386,7 @@ dv_has_:
     bxr: 2 һар
     byv: nkàgnὰ
     ca: febrer
-    cbk-zam: Febrero
+    cbk_zam: Febrero
     cdo: 2 nguŏk
     ce: Мархи бутт
     ceb: Pebrero
@@ -395,7 +395,7 @@ dv_has_:
     ckb: شوبات
     co: Ferraghju
     crh: Fevral
-    crh-latn: Fevral
+    crh_latn: Fevral
     cs: únor
     csb: Gromicznik
     cv: Нарăс
@@ -404,7 +404,7 @@ dv_has_:
     dag: February
     de: Februar
     de-at: Februar
-    de-ch: Februar
+    de_ch: Februar
     diq: Şıbate
     dsb: Swěckowny
     dtp: Mansak
@@ -414,8 +414,8 @@ dv_has_:
     el: Φεβρουάριος
     eml: Fervêr
     en: February
-    en-ca: February
-    en-gb: February
+    en_ca: February
+    en_gb: February
     en-us: February
     eo: februaro
     es: febrero
@@ -498,7 +498,7 @@ dv_has_:
     ks: وہؠک
     ksh: Febrowaa
     ku: sibat
-    ku-latn: sibat
+    ku_latn: sibat
     kv: Урасьӧм тӧлысь
     kw: Mis Whevrer
     ky: Февраль
@@ -520,7 +520,7 @@ dv_has_:
     lv: februāris
     lzh: 建卯
     mai: फरबरी
-    map-bms: Februari
+    map_bms: Februari
     mcp: ”ŋwíí akǝ bɛ́ɛ"
     mdf: даволков
     mg: Febroary
@@ -535,7 +535,7 @@ dv_has_:
     mr: फेब्रुवारी महिना
     mrj: Февраль
     ms: Februari
-    ms-arab: فيبرواري
+    ms_arab: فيبرواري
     mt: Frar
     mua: cokcwaklaŋne
     mwl: Febreiro
@@ -547,7 +547,7 @@ dv_has_:
     nap: Frevaro
     nb: februar
     nds: Februar
-    nds-nl: febrewaori
+    nds_nl: febrewaori
     ne: फेब्रुअरी
     new: फेब्रुवरी
     nl: februari
@@ -574,7 +574,7 @@ dv_has_:
     pnt: Κούντουρος
     ps: فبروري
     pt: fevereiro
-    pt-br: fevereiro
+    pt_br: fevereiro
     qu: Hatun puquy killa
     ro: februarie
     roa-tara: Febbrare
@@ -605,8 +605,8 @@ dv_has_:
     so: Febraayo
     sq: Shkurti
     sr: Фебруар
-    sr-ec: Фебруар
-    sr-el: februar
+    sr_ec: Фебруар
+    sr_el: februar
     ss: INdlóvana
     su: Pébruari
     sv: februari
@@ -626,7 +626,7 @@ dv_has_:
     tr: Şubat
     ts: Nyenyenyani
     tt: февраль
-    tt-cyrl: февраль
+    tt_cyrl: февраль
     tum: Feburuwar
     tvu: mɔkɔ́lɔ
     tw: Ɔgyefuo
@@ -662,14 +662,14 @@ dv_has_:
     zea: Feberwari
     zgh: ⴱⵕⴰⵢⵕ
     zh: 2月
-    zh-cn: 2月
-    zh-hans: 2月
-    zh-hant: 2月
-    zh-hk: 2月
-    zh-mo: 2月
+    zh_cn: 2月
+    zh_hans: 2月
+    zh_hant: 2月
+    zh_hk: 2月
+    zh_mo: 2月
     zh-my: 2月
-    zh-sg: 2月
-    zh-tw: 2月
+    zh_sg: 2月
+    zh_tw: 2月
     zu: UNhlolanja (uFebhuwari)
 ---
 # [[February]]

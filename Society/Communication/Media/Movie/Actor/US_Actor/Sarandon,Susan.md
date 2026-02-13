@@ -47,7 +47,7 @@ dv_has_:
     ast: Susan Sarandon
     azb: سوزان ساراندون
     be: С'юзан Сарандан
-    be-tarask: Сьюзан Сарэндан
+    be_tarask: Сьюзан Сарэндан
     bg: Сюзън Сарандън
     bi: Susan Sarandon
     bn: সুজান সার্যান্ডন
@@ -60,12 +60,12 @@ dv_has_:
     cy: Susan Sarandon
     da: Susan Sarandon
     de: Susan Sarandon
-    de-ch: Susan Sarandon
+    de_ch: Susan Sarandon
     el: Σούζαν Σαράντον
     eml: Susan Sarandon
     en: Susan Sarandon
-    en-ca: Susan Sarandon
-    en-gb: Susan Sarandon
+    en_ca: Susan Sarandon
+    en_gb: Susan Sarandon
     eo: Susan Sarandon
     es: Susan Sarandon
     et: Susan Sarandon
@@ -113,7 +113,7 @@ dv_has_:
     pms: Susan Sarandon
     pnb: سوزن سیرینڈن
     pt: Susan Sarandon
-    pt-br: Susan Sarandon
+    pt_br: Susan Sarandon
     qu: Susan Sarandon
     ro: Susan Sarandon
     ru: Сьюзан Сарандон
@@ -126,12 +126,12 @@ dv_has_:
     sl: Susan Sarandon
     sq: Susan Sarandon
     sr: Сузан Сарандон
-    sr-ec: Сузан Сарандон
-    sr-el: Suzan Sarandon
+    sr_ec: Сузан Сарандон
+    sr_el: Suzan Sarandon
     su: Susan Sarandon
     sv: Susan Sarandon
     tg: Сусан Сарандон
-    tg-latn: Susan Sarandon
+    tg_latn: Susan Sarandon
     th: ซูเซิน ซาแรนดอน
     tl: Susan Sarandon
     tr: Susan Sarandon
@@ -145,13 +145,13 @@ dv_has_:
     yo: Susan Sarandon
     yue: 蘇珊莎朗頓
     zh: 蘇珊·莎蘭登
-    zh-cn: 苏珊·莎兰登
-    zh-hans: 苏珊·莎兰登
-    zh-hant: 蘇珊·莎蘭登
-    zh-hk: 蘇珊·莎朗頓
+    zh_cn: 苏珊·莎兰登
+    zh_hans: 苏珊·莎兰登
+    zh_hant: 蘇珊·莎蘭登
+    zh_hk: 蘇珊·莎朗頓
     zh-my: 苏珊·莎兰顿
-    zh-sg: 苏珊·萨兰登
-    zh-tw: 蘇珊·莎蘭登
+    zh_sg: 苏珊·萨兰登
+    zh_tw: 蘇珊·莎蘭登
 ---
 # [[Sarandon,Susan]] 
 

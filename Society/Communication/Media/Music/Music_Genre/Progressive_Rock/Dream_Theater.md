@@ -6,7 +6,7 @@ dv_has_:
     ast: Dream Theater
     azb: دریم تیتر
     ban: Dream Theater
-    be-tarask: Dream Theater
+    be_tarask: Dream Theater
     bg: Дрийм Тиътър
     bn: ড্রিম থিয়েটার
     bs: Dream Theater
@@ -17,8 +17,8 @@ dv_has_:
     de: Dream Theater
     el: Dream Theater
     en: Dream Theater
-    en-ca: Dream Theater
-    en-gb: Dream Theater
+    en_ca: Dream Theater
+    en_gb: Dream Theater
     eo: Dream Theater
     es: Dream Theater
     et: Dream Theater
@@ -52,7 +52,7 @@ dv_has_:
     pl: Dream Theater
     pms: Dream Theater
     pt: Dream Theater
-    pt-br: Dream Theater
+    pt_br: Dream Theater
     ro: Dream Theater
     ru: Dream Theater
     scn: Dream Theater
@@ -62,8 +62,8 @@ dv_has_:
     sl: Dream Theater
     sq: Dream Theater
     sr: Дрим тијатер
-    sr-ec: Дрим тијатер
-    sr-el: Дрим тијатер
+    sr_ec: Дрим тијатер
+    sr_el: Дрим тијатер
     sv: Dream Theater
     ta: டிரீம் தியேட்டர்
     te: డ్రీం థియేటర్
@@ -75,12 +75,12 @@ dv_has_:
     wuu: 梦剧场 (美国)
     yue: 夢劇場
     zh: 梦剧院
-    zh-cn: 梦剧院
-    zh-hans: 梦剧院
-    zh-hant: 夢劇院
-    zh-hk: 夢劇院
-    zh-sg: 梦剧院
-    zh-tw: 夢劇院
+    zh_cn: 梦剧院
+    zh_hans: 梦剧院
+    zh_hant: 夢劇院
+    zh_hk: 夢劇院
+    zh_sg: 梦剧院
+    zh_tw: 夢劇院
 aliases:
 - Dream Theater
 - Дрийм Тиътър

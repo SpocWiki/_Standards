@@ -80,7 +80,7 @@ dv_has_:
     ast: Hexemonía
     az: Hegemoniya
     be: гегемонія
-    be-tarask: гегемонія
+    be_tarask: гегемонія
     bg: Хегемония
     bn: আধিপত্যবাদ
     bs: Hegemonija
@@ -95,8 +95,8 @@ dv_has_:
     diq: Hegemonya
     el: ηγεμονία
     en: hegemony
-    en-ca: hegemony
-    en-gb: hegemony
+    en_ca: hegemony
+    en_gb: hegemony
     eo: hegemonio
     es: hegemonía
     et: hegemoonia
@@ -120,11 +120,11 @@ dv_has_:
     ja: 覇権
     ka: ჰეგემონია
     kk: Гегемонизм
-    kk-arab: گەگەمونىيزم
+    kk_arab: گەگەمونىيزم
     kk-cn: گەگەمونىيزم
-    kk-cyrl: Гегемонизм
+    kk_cyrl: Гегемонизм
     kk-kz: Гегемонизм
-    kk-latn: Gegemonïzm
+    kk_latn: Gegemonïzm
     kk-tr: Gegemonïzm
     ko: 패권
     krj: ehemoniya
@@ -158,8 +158,8 @@ dv_has_:
     sms: hegemonia
     sq: Hegjemonia
     sr: хегемонија
-    sr-ec: Хегемонија
-    sr-el: Hegemonija
+    sr_ec: Хегемонија
+    sr_el: Hegemonija
     sv: hegemoni
     ta: ஆதிக்க அரசியல்
     th: การใช้อำนาจครอบงำ
@@ -175,12 +175,12 @@ dv_has_:
     xmf: ჰეგემონია
     yue: 霸權
     zh: 霸权
-    zh-cn: 霸权
-    zh-hans: 霸权
-    zh-hant: 霸權
-    zh-hk: 霸權
-    zh-sg: 霸权
-    zh-tw: 霸權
+    zh_cn: 霸权
+    zh_hans: 霸权
+    zh_hant: 霸權
+    zh_hk: 霸權
+    zh_sg: 霸权
+    zh_tw: 霸權
 ---
 # [[Hegemony]] 
 

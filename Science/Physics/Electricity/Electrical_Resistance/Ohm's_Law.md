@@ -116,7 +116,7 @@ dv_has_:
     ast: Llei d'Ohm
     az: Om qanunu
     be: Закон Ома
-    be-tarask: закон Ома
+    be_tarask: закон Ома
     bg: Закон на Ом
     bho: ओम के नियम
     bn: ও’মের সূত্র
@@ -132,8 +132,8 @@ dv_has_:
     el: Νόμος του Ωμ
     eml: Legg d'Ohm
     en: Ohm's law
-    en-ca: Ohm's law
-    en-gb: Ohm's law
+    en_ca: Ohm's law
+    en_gb: Ohm's law
     eo: leĝo de Omo
     es: ley de Ohm
     et: Ohmi seadus

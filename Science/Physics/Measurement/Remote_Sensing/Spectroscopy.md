@@ -102,7 +102,7 @@ dv_has_:
     ast: espectroscopia
     az: Spektroskopiya
     be: спектраскапія
-    be-tarask: спэктраскопія
+    be_tarask: спэктраскопія
     bg: Спектроскопия
     bn: বর্ণালীবীক্ষণ
     bs: Spektroskopija
@@ -134,9 +134,9 @@ dv_has_:
     ja: 分光法
     ka: სტერეოსკოპია
     kk: Спектроскопия
-    kk-arab: سپەكتروسكوپىييا
-    kk-cyrl: Спектроскопия
-    kk-latn: Spektroskopïya
+    kk_arab: سپەكتروسكوپىييا
+    kk_cyrl: Спектроскопия
+    kk_latn: Spektroskopïya
     kn: ರೋಹಿತ ವಿಜ್ಞಾನ
     ko: 분광학
     ky: Спектроскопия
@@ -168,8 +168,8 @@ dv_has_:
     smn: spektroskopia
     sms: spektroskopia
     sr: Спектроскопија
-    sr-ec: Спектроскопија
-    sr-el: Spektroskopija
+    sr_ec: Спектроскопија
+    sr_el: Spektroskopija
     su: Spéktroskopi
     sv: spektroskopi
     ta: நிறமாலையியல்
@@ -187,9 +187,9 @@ dv_has_:
     yo: Spẹ́ktróskópì
     yue: 光譜學
     zh: 光谱学
-    zh-hans: 光谱学
-    zh-hant: 光譜學
-    zh-hk: 光譜學
+    zh_hans: 光谱学
+    zh_hant: 光譜學
+    zh_hk: 光譜學
 ---
 # [[Spectroscopy]] 
 

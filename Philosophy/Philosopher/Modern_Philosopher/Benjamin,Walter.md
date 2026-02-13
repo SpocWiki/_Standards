@@ -135,7 +135,7 @@ dv_has_:
     arz: والتر بنيامين
     ast: Walter Benjamin
     az: Valter Benyamin
-    be-tarask: Вальтэр Бэньямін
+    be_tarask: Вальтэр Бэньямін
     bg: Валтер Бенямин
     bn: ভাল্টার বেনিয়ামিন
     bs: Walter Benjamin
@@ -189,7 +189,7 @@ dv_has_:
     pms: Walter Benjamin
     ps: والټر بنیامین
     pt: Walter Benjamin
-    pt-br: Walter Benjamin
+    pt_br: Walter Benjamin
     ro: Walter Benjamin
     ru: Вальтер Беньямин
     sc: Walter Benjamin

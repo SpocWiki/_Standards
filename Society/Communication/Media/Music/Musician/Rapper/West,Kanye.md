@@ -48,7 +48,7 @@ dv_has_:
     az: Kanye Vest
     azb: کانیه وست
     be: Канье Уэст
-    be-tarask: Канье Ўэст
+    be_tarask: Канье Ўэст
     bg: Кание Уест
     bjn: Kanye West
     bn: কানইয়ে ওয়েস্ট
@@ -59,13 +59,13 @@ dv_has_:
     da: Kanye West
     dag: Kanye West
     de: Kanye West
-    de-ch: Kanye West
+    de_ch: Kanye West
     din: Kanye West
     el: Κάνιε Γουέστ
     eml: Kanye West
     en: Kanye West
-    en-ca: Kanye West
-    en-gb: Kanye West
+    en_ca: Kanye West
+    en_gb: Kanye West
     en-us: Kanye West
     eo: Kanye West
     es: Kanye West
@@ -119,7 +119,7 @@ dv_has_:
     pl: Kanye West
     pnb: کانیے وَیسٹ
     pt: Kanye West
-    pt-br: Kanye West
+    pt_br: Kanye West
     rmy: Kanye West
     ro: Kanye West
     ru: Канье Уэст
@@ -149,8 +149,8 @@ dv_has_:
     yo: Kanye West
     yue: 勤耶韋斯特
     zh: 肯伊·威斯特
-    zh-hans: 肯伊·威斯特
-    zh-hk: 簡耶·韋士
+    zh_hans: 肯伊·威斯特
+    zh_hk: 簡耶·韋士
 ---
 # [[West,Kanye]] 
 

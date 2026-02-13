@@ -60,7 +60,7 @@ dv_has_:
     az: vayanq
     ban: wayang
     bcl: Wayang
-    be-tarask: ваянг
+    be_tarask: ваянг
     bn: ওয়ায়াং
     bo: ཝ་ཡང་ཟློས་གར་ཁང་།
     ca: wayang
@@ -82,7 +82,7 @@ dv_has_:
     jv: wayang
     ko: 와양
     lt: vajangas
-    map-bms: wayang
+    map_bms: wayang
     ml: വയാങ്ങ്
     ms: wayang
     nl: wajang

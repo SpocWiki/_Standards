@@ -200,7 +200,7 @@ dv_has_:
     bar: Steanbuid
     bcl: konstelasyon
     be: сузор’е
-    be-tarask: сузор’е
+    be_tarask: сузор’е
     bg: съзвездие
     bn: তারামণ্ডল
     br: steredeg
@@ -220,8 +220,8 @@ dv_has_:
     dsb: gwězdno
     el: αστερισμός
     en: constellation
-    en-ca: constellation
-    en-gb: constellation
+    en_ca: constellation
+    en_gb: constellation
     en-us: constellation
     eo: konstelacio
     es: constelación
@@ -278,7 +278,7 @@ dv_has_:
     ml: നക്ഷത്രരാശി
     mr: तारकासमूह
     ms: buruj
-    ms-arab: بروج
+    ms_arab: بروج
     mt: kostellazzjoni
     my: ကြယ်စုတန်း
     mzn: فلکی صورتون
@@ -286,7 +286,7 @@ dv_has_:
     nan: seng-chō
     nb: stjernebilde
     nds: Steernbild
-    nds-nl: konstelloatsie
+    nds_nl: konstelloatsie
     ne: तारामण्डल
     new: नगु पुचः
     nl: sterrenbeeld
@@ -302,7 +302,7 @@ dv_has_:
     pnb: تارہ جھرمٹ
     ps: اسماني صورت/ د ستورو ټولګه
     pt: constelação
-    pt-br: constelação
+    pt_br: constelação
     qu: warani
     ro: constelație
     ru: созвездие
@@ -323,8 +323,8 @@ dv_has_:
     sn: unganyeredzi
     sq: Yjësia
     sr: сазвежђе
-    sr-ec: сазвежђе
-    sr-el: sazvežđe
+    sr_ec: сазвежђе
+    sr_el: sazvežđe
     su: rasi béntang
     sv: stjärnbild
     sw: kundinyota
@@ -336,7 +336,7 @@ dv_has_:
     tl: konstelasyon
     tr: takımyıldız
     tt: йолдызлык
-    tt-cyrl: йолдызлык
+    tt_cyrl: йолдызлык
     udm: кизилисузьет
     ug: 12 بۇرج
     uk: сузір'я
@@ -352,8 +352,8 @@ dv_has_:
     xmf: მურიცხეჭაჭილი
     yue: 星座
     zh: 星座
-    zh-cn: 星座
-    zh-hant: 星座
+    zh_cn: 星座
+    zh_hant: 星座
     zu: IsiShomo
 ---
 # [[Star~Constellation]] 

@@ -131,7 +131,7 @@ dv_has_:
     ban: Déwa Siwa
     bcl: Shiva
     be: Шыва
-    be-tarask: Шыва
+    be_tarask: Шыва
     bg: Шива
     bho: शिव
     bn: শিব
@@ -151,8 +151,8 @@ dv_has_:
     dty: शिव
     el: Σίβα
     en: Shiva
-    en-ca: Shiva
-    en-gb: Shiva
+    en_ca: Shiva
+    en_gb: Shiva
     eo: Ŝivo
     es: Shiva
     et: Šiva
@@ -165,7 +165,7 @@ dv_has_:
     gn: Shiva
     gom: शिव
     gom-deva: शिव
-    gom-latn: Shiva
+    gom_latn: Shiva
     gsw: Shiva
     gu: શિવ
     he: שיווה
@@ -223,7 +223,7 @@ dv_has_:
     pms: Shiva
     pnb: شیوا
     pt: Xiva
-    pt-br: Shiva
+    pt_br: Shiva
     ro: Shiva
     ru: Шива
     rue: Шіва
@@ -238,7 +238,7 @@ dv_has_:
     sl: Šiva
     sq: Shiva
     sr: Шива
-    sr-ec: Шива
+    sr_ec: Шива
     su: Shiva
     sv: Shiva
     sw: Shiva
@@ -261,8 +261,8 @@ dv_has_:
     xmf: შივა
     yue: 濕婆
     zh: 湿婆
-    zh-hant: 濕婆
-    zh-tw: 濕婆
+    zh_hant: 濕婆
+    zh_tw: 濕婆
 ---
 # [[Shiva]] 
 

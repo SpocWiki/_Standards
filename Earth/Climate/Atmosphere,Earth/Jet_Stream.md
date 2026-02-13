@@ -89,7 +89,7 @@ dv_has_:
   name_:
     ar: تيار نفاث قطبي
     ast: Corriente en remexu
-    be-tarask: вышынная струменная плынь
+    be_tarask: вышынная струменная плынь
     bg: Струйно течение
     bho: जेट स्ट्रीम
     bn: জেট স্ট্রিম
@@ -146,12 +146,12 @@ dv_has_:
     wuu: 高速气流
     yue: 噴射氣流
     zh: 高速氣流
-    zh-cn: 高速气流
-    zh-hans: 高速气流
-    zh-hant: 高速氣流
-    zh-hk: 高速氣流
-    zh-sg: 高速气流
-    zh-tw: 高速氣流
+    zh_cn: 高速气流
+    zh_hans: 高速气流
+    zh_hant: 高速氣流
+    zh_hk: 高速氣流
+    zh_sg: 高速气流
+    zh_tw: 高速氣流
 ---
 # [[Jet_Stream]] 
 

@@ -540,7 +540,7 @@ dv_is_:
 dv_has_:
   name_:
     ab: Ареспублика Конго
-    aeb-arab: جمهورية الكونغو
+    aeb_arab: جمهورية الكونغو
     af: Republiek van die Kongo
     am: ኮንጎ ሪፐብሊክ
     ami: Congo, the republic of the
@@ -562,7 +562,7 @@ dv_has_:
     bar: Republik Kongo
     bcl: Republika kan Kongo
     be: Рэспубліка Конга
-    be-tarask: Рэспубліка Конга
+    be_tarask: Рэспубліка Конга
     bew: Kiblik Kongo
     bg: Република Конго
     bgn: کانگو ئی جمهوریت
@@ -576,7 +576,7 @@ dv_has_:
     bs: Republika Kongo
     bxr: Конго
     ca: República del Congo
-    cbk-zam: República del Congo
+    cbk_zam: República del Congo
     cdo: Congo Gê̤ṳng-huò-guók
     ce: Конго Пачхьалкх
     ceb: Republika sa Congo
@@ -585,7 +585,7 @@ dv_has_:
     ckb: کۆماری کۆنگۆ
     co: Republica di Congo
     crh: Kongo
-    crh-latn: Kongo
+    crh_latn: Kongo
     cs: Konžská republika
     cv: Конго Республики
     cy: Gweriniaeth y Congo
@@ -593,7 +593,7 @@ dv_has_:
     dag: Republic of the Congo
     de: Republik Kongo
     de-at: Republik Kongo
-    de-ch: Republik Kongo
+    de_ch: Republik Kongo
     din: Paankɔc de Koŋgo
     diq: Kongo
     dsb: Republika Kongo
@@ -602,8 +602,8 @@ dv_has_:
     ee: Republic of the Congo
     el: Δημοκρατία του Κονγκό
     en: Republic of the Congo
-    en-ca: Republic of the Congo
-    en-gb: Republic of the Congo
+    en_ca: Republic of the Congo
+    en_gb: Republic of the Congo
     en-us: Republic of the Congo
     eo: Respubliko Kongo
     es: República del Congo
@@ -688,7 +688,7 @@ dv_has_:
     lv: Kongo Republika
     lzh: 剛果共和國
     mad: Rèpublik Kongo
-    map-bms: Republik Kongo
+    map_bms: Republik Kongo
     mdf: Республикась Конго
     mg: Repoblikan'i Kongo
     mhr: Коҥго
@@ -710,7 +710,7 @@ dv_has_:
     nan: Congo Kiōng-hô-kok
     nb: Republikken Kongo
     nds: Republiek Kongo
-    nds-nl: Kongo-Brazzaville
+    nds_nl: Kongo-Brazzaville
     ne: गणतन्त्र कङ्गो
     new: गणतन्त्र कङ्गो
     nl: Congo-Brazzaville
@@ -761,8 +761,8 @@ dv_has_:
     so: Jamhuuriyadda Kongo
     sq: Republika e Kongos
     sr: Република Конго
-    sr-ec: Република Конго
-    sr-el: Republika Kongo
+    sr_ec: Република Конго
+    sr_el: Republika Kongo
     ss: Tibuse weKhongo
     st: Rephabliki ya Kongo
     stq: Republik Kongo
@@ -809,14 +809,14 @@ dv_has_:
     zea: Konho-Brazzaville
     zgh: ⵜⴰⴳⴷⵓⴷⴰ ⵏ ⴽⵓⵏⴳⵓ
     zh: 剛果共和國
-    zh-cn: 刚果共和国
-    zh-hans: 刚果共和国
-    zh-hant: 剛果共和國
-    zh-hk: 剛果共和國
-    zh-mo: 剛果共和國
+    zh_cn: 刚果共和国
+    zh_hans: 刚果共和国
+    zh_hant: 剛果共和國
+    zh_hk: 剛果共和國
+    zh_mo: 剛果共和國
     zh-my: 刚果共和国
-    zh-sg: 刚果共和国
-    zh-tw: 剛果共和國
+    zh_sg: 刚果共和国
+    zh_tw: 剛果共和國
     zu: IRiphabliki weKongo
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Congo-Brazzaville

@@ -25,7 +25,7 @@ dv_has_:
     ang: Sǣbeorg
     ar: جبل بحري
     ast: Monte submarín
-    be-tarask: падводная гара
+    be_tarask: падводная гара
     bs: Podmorska planina
     ca: mont submarí
     ckb: چیای دەریایی
@@ -73,9 +73,9 @@ dv_has_:
     wuu: 海底山
     yue: 海底山
     zh: 海底山
-    zh-hans: 海底山
-    zh-hant: 海底山
-    zh-hk: 海底山
+    zh_hans: 海底山
+    zh_hant: 海底山
+    zh_hk: 海底山
 aliases:
 - Deniz dağı
 - djuphavsberg

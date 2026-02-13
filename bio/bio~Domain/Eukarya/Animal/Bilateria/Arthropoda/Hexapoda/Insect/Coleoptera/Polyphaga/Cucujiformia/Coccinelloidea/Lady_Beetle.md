@@ -161,7 +161,7 @@ dv_has_:
     az: Parabüzənlər
     ba: Ҡамҡалар
     be: Божыя кароўкі
-    be-tarask: багоўкі
+    be_tarask: багоўкі
     bg: калинки
     br: Buoc'hig-Doue
     ca: marieta
@@ -231,7 +231,7 @@ dv_has_:
     nan: Pû-á-thâng
     nb: marihøner
     nds: Sünnenküken
-    nds-nl: kukeluusjen
+    nds_nl: kukeluusjen
     ne: पाँचथोप्ले खपटे कीरा
     nl: lieveheersbeestjes
     nn: Marihøne
@@ -241,7 +241,7 @@ dv_has_:
     pl: biedronkowate
     pnb: بیر بہوٹی
     pt: Joaninha
-    pt-br: Joaninha
+    pt_br: Joaninha
     qu: K'uslulu
     ro: Coccinellidae
     ru: божьи коровки
@@ -253,7 +253,7 @@ dv_has_:
     sl: polonice
     sq: Mollëkuqja
     sr: бубамара
-    sr-ec: Бубамара
+    sr_ec: Бубамара
     stq: Goddeshankene
     su: Kukuyaan
     sv: Nyckelpigor
@@ -274,9 +274,9 @@ dv_has_:
     wuu: 瓢虫
     yue: 瓢蟲
     zh: 瓢虫科
-    zh-cn: 瓢虫科
-    zh-hans: 瓢虫科
-    zh-tw: 瓢蟲科
+    zh_cn: 瓢虫科
+    zh_hans: 瓢虫科
+    zh_tw: 瓢蟲科
 ---
 # [[Lady_Beetle]]  🐞 
 

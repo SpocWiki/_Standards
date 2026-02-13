@@ -41,7 +41,7 @@ dv_has_:
     ast: Faboideae
     az: Paxlakimilər
     be: Матыльковыя
-    be-tarask: Faboideae
+    be_tarask: Faboideae
     bg: Faboideae
     ca: Faboideae
     ceb: Faboideae
@@ -85,7 +85,7 @@ dv_has_:
     oc: Faboideae
     pl: bobowate właściwe
     pt: Faboideae
-    pt-br: Faboideae
+    pt_br: Faboideae
     qu: Pillpintu tuktuyuq urin rikch'aq ayllu
     ro: Faboideae
     ru: мотыльковые
@@ -104,12 +104,12 @@ dv_has_:
     war: Faboideae
     yue: 蝶形花亞科
     zh: 蝶形花亚科
-    zh-cn: 蝶形花亚科
-    zh-hans: 蝶形花亚科
-    zh-hant: 蝶形花亞科
-    zh-hk: 蝶形花亞科
-    zh-sg: 蝶形花亚科
-    zh-tw: 蝶形花亞科
+    zh_cn: 蝶形花亚科
+    zh_hans: 蝶形花亚科
+    zh_hant: 蝶形花亞科
+    zh_hk: 蝶形花亞科
+    zh_sg: 蝶形花亚科
+    zh_tw: 蝶形花亞科
 ---
 # [[Faboideae]] 
 

@@ -104,7 +104,7 @@ dv_has_:
     az: Çanaq
     azb: اومبا
     be: таз
-    be-tarask: лагво
+    be_tarask: лагво
     bg: Таз
     bn: শ্রোণিচক্র
     br: Lestr
@@ -116,11 +116,11 @@ dv_has_:
     cy: pelfis
     da: bækken
     de: Becken
-    de-ch: Becken
+    de_ch: Becken
     el: Λεκάνη
     en: pelvis
-    en-ca: Pelvis
-    en-gb: pelvis
+    en_ca: Pelvis
+    en_gb: pelvis
     eo: pelvo
     es: pelvis
     et: Vaagen
@@ -157,7 +157,7 @@ dv_has_:
     nn: bekken
     pl: kość miedniczna
     pt: bacia
-    pt-br: Pelve
+    pt_br: Pelve
     ro: pelvis
     ru: таз
     sh: Zdjelica
@@ -184,10 +184,10 @@ dv_has_:
     xmf: კინჭიხე
     yue: 躉
     zh: 骨盆
-    zh-cn: 人类骨盆
-    zh-hans: 骨盆
-    zh-hant: 骨盆
-    zh-hk: 骨盆
+    zh_cn: 人类骨盆
+    zh_hans: 骨盆
+    zh_hant: 骨盆
+    zh_hk: 骨盆
 ---
 # [[Pelvis]] 
 

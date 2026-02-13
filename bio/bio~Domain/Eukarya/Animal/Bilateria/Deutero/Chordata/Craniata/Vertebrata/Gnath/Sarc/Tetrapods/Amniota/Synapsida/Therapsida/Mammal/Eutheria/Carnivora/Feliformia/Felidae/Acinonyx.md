@@ -10,7 +10,7 @@ dv_has_:
     avk: cuskoleem
     az: Hepard (cins)
     azb: ثابیتپنجهلیلر
-    be-tarask: Гепарды
+    be_tarask: Гепарды
     bg: гепарди
     ca: Acinonyx
     ceb: Acinonyx
@@ -45,7 +45,7 @@ dv_has_:
     oc: Acinonyx
     pl: gepard
     pt: Acinonyx
-    pt-br: Acinonyx
+    pt_br: Acinonyx
     ro: Acinonyx
     ru: Гепарды
     sco: Acinonyx
@@ -60,8 +60,8 @@ dv_has_:
     vo: Acinonyx
     war: Acinonyx
     zh: 獵豹屬
-    zh-cn: 猎豹属
-    zh-tw: 獵豹屬
+    zh_cn: 猎豹属
+    zh_tw: 獵豹屬
 aliases:
 - Acinonyx
 - cuskoleem

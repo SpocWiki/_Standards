@@ -93,7 +93,7 @@ dv_has_:
     ban: Dialektika
     bar: Dialektik
     be: Дыялектыка
-    be-tarask: Дыялектыка
+    be_tarask: Дыялектыка
     bg: Диалектика
     bn: দ্বন্দ্ববাদ
     br: Daelerezh
@@ -109,8 +109,8 @@ dv_has_:
     de: Dialektik
     el: Διαλεκτική
     en: dialectic
-    en-ca: Dialectic
-    en-gb: dialectic
+    en_ca: Dialectic
+    en_gb: dialectic
     eo: dialektiko
     es: dialéctica
     es-419: Dialéctica
@@ -168,7 +168,7 @@ dv_has_:
     pnb: ڈایالیکٹک
     ps: ډيالېکتيک (مناظره)
     pt: dialética
-    pt-br: Dialética
+    pt_br: Dialética
     ro: Dialectică
     ru: диалектика
     rue: Діалектіка
@@ -199,9 +199,9 @@ dv_has_:
     yue: 辯證法
     za: Bienhcingqfap
     zh: 辩证法
-    zh-cn: 辩证法
-    zh-hans: 辩证法
-    zh-hant: 辯證法
+    zh_cn: 辩证法
+    zh_hans: 辩证法
+    zh_hant: 辯證法
 ---
 # [[Dialectic]] 
 

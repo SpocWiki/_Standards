@@ -127,7 +127,7 @@ dv_has_:
     ban: Mogbogin
     bcl: Kaputikan
     be: хлусня
-    be-tarask: хлусьня
+    be_tarask: хлусьня
     bg: лъжа
     bo: ཧམ་བཤད་
     br: gaou
@@ -207,7 +207,7 @@ dv_has_:
     tl: kasinungalingan
     tr: yalan
     tt: ялган
-    tt-cyrl: ялган
+    tt_cyrl: ялган
     tw: Torɔ
     tyv: Меге
     uk: обман

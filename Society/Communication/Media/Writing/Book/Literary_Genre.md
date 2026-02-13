@@ -133,7 +133,7 @@ dv_has_:
     az: ədəbiyyat janrı
     ba: әҙәби жанрҙар
     be: літаратурны жанр
-    be-tarask: літаратурныя жанры
+    be_tarask: літаратурныя жанры
     bg: литературен род
     bn: সাহিত্যের ধারা
     br: rumm lennegel
@@ -145,11 +145,11 @@ dv_has_:
     cy: genre llenyddol
     da: litteraturgenre
     de: Literaturgenre
-    de-ch: Gattung
+    de_ch: Gattung
     el: λογοτεχνικό είδος
     en: literary genre
-    en-ca: literary genre
-    en-gb: literary genre
+    en_ca: literary genre
+    en_gb: literary genre
     eo: literatura ĝenro
     es: género literario
     et: kirjandusžanr
@@ -190,7 +190,7 @@ dv_has_:
     mk: книжевен род
     ml: സാഹിത്യ ശാഖ
     ms: genre sastera
-    ms-arab: ݢينري سسترا
+    ms_arab: ݢينري سسترا
     nb: litterær sjanger
     nl: literair genre
     nn: litterær sjanger
@@ -199,7 +199,7 @@ dv_has_:
     pap: género literario
     pl: gatunek literacki
     pt: género literário
-    pt-br: gênero literário
+    pt_br: gênero literário
     ro: gen literar
     ru: литературный жанр
     se: girjjálašvuođa šáŋŋer
@@ -210,7 +210,7 @@ dv_has_:
     sms: ǩeerjlažvuõđ šlaajj
     sq: gjini letrare
     sr: књижевни род
-    sr-el: književni rod
+    sr_el: književni rod
     sv: litterär genre
     ta: இலக்கிய வகைமை
     tg: жанри бадеӣ
@@ -226,12 +226,12 @@ dv_has_:
     yi: ליטערארישע זשאנער
     yue: 文類
     zh: 文類
-    zh-cn: 文类
-    zh-hans: 文类
-    zh-hant: 文類
-    zh-hk: 文類
-    zh-sg: 文类
-    zh-tw: 文類
+    zh_cn: 文类
+    zh_hans: 文类
+    zh_hant: 文類
+    zh_hk: 文類
+    zh_sg: 文类
+    zh_tw: 文類
 ---
 # [[Literary_Genre]] 
 

@@ -66,7 +66,7 @@ dv_has_:
     ba: соната
     bar: Sonatn
     be: саната
-    be-tarask: саната
+    be_tarask: саната
     bg: соната
     bs: sonata
     ca: sonata
@@ -96,11 +96,11 @@ dv_has_:
     ja: ソナタ
     ka: სონატა
     kk: соната
-    kk-arab: سوناتا
+    kk_arab: سوناتا
     kk-cn: سوناتا
-    kk-cyrl: соната
+    kk_cyrl: соната
     kk-kz: соната
-    kk-latn: sonata
+    kk_latn: sonata
     kk-tr: sonata
     ko: 소나타
     ko-kp: 쏘나타
@@ -124,8 +124,8 @@ dv_has_:
     sk: sonáta
     sl: sonata
     sr: соната
-    sr-ec: соната
-    sr-el: sonata
+    sr_ec: соната
+    sr_el: sonata
     sv: sonat
     tg: соната
     tr: sonat
@@ -136,12 +136,12 @@ dv_has_:
     wuu: 奏鸣曲
     yue: 奏鳴曲
     zh: 奏鸣曲
-    zh-cn: 奏鸣曲
-    zh-hans: 奏鸣曲
-    zh-hant: 奏鳴曲
-    zh-hk: 奏鳴曲
-    zh-sg: 奏鸣曲
-    zh-tw: 奏鳴曲
+    zh_cn: 奏鸣曲
+    zh_hans: 奏鸣曲
+    zh_hant: 奏鳴曲
+    zh_hk: 奏鳴曲
+    zh_sg: 奏鸣曲
+    zh_tw: 奏鳴曲
 ---
 # [[Sonata]] 
 

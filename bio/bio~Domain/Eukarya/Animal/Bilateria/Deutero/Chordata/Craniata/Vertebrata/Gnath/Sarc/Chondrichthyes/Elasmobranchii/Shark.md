@@ -196,7 +196,7 @@ dv_has_:
     ban: Kakya
     bcl: Pating
     be: акулы
-    be-tarask: акулы
+    be_tarask: акулы
     bew: Cucut
     bg: акулообразни
     bho: शार्क
@@ -220,8 +220,8 @@ dv_has_:
     el: Καρχαρίας
     eml: Squâl
     en: shark
-    en-ca: shark
-    en-gb: shark
+    en_ca: shark
+    en_gb: shark
     eo: ŝarko
     es: Selachii
     et: Hailaadsed
@@ -306,7 +306,7 @@ dv_has_:
     pnb: شارک
     ps: منو
     pt: tubarão
-    pt-br: tubarão
+    pt_br: tubarão
     qu: Tiwrun
     ro: Rechin
     ru: акулы
@@ -345,10 +345,10 @@ dv_has_:
     yue: 鯊魚
     zgh: ⴰⵡⵇⵇⴰⵙ
     zh: 鲨总目
-    zh-cn: 鲨总目
-    zh-hans: 鲨总目
-    zh-hant: 鯊魚
-    zh-hk: 鯊魚
+    zh_cn: 鲨总目
+    zh_hans: 鲨总目
+    zh_hant: 鯊魚
+    zh_hk: 鯊魚
 ---
 # [[Shark]] 🦈 
  

@@ -97,7 +97,7 @@ dv_has_:
     ast: Clase obrera
     az: İşçi təbəqə
     be: рабочы клас
-    be-tarask: працоўная кляса
+    be_tarask: працоўная кляса
     bs: radnička klasa
     ca: classe treballadora
     cs: dělnická třída
@@ -105,12 +105,12 @@ dv_has_:
     cy: dosbarth gweithiol
     da: arbejderklasse
     de: Arbeiterklasse
-    de-ch: Arbeiterklasse
+    de_ch: Arbeiterklasse
     dsb: źěłaśeŕska klasa
     el: εργατική τάξη
     en: working class
-    en-ca: working class
-    en-gb: working class
+    en_ca: working class
+    en_gb: working class
     en-us: working class
     eo: laborista klaso
     es: clase obrera
@@ -133,11 +133,11 @@ dv_has_:
     jv: Buruh
     kaa: jumısshılar qatlamı
     kk: жұмысшылар
-    kk-arab: جۇمىسشىلار
+    kk_arab: جۇمىسشىلار
     kk-cn: جۇمىسشىلار
-    kk-cyrl: Жұмысшылар
+    kk_cyrl: Жұмысшылар
     kk-kz: Жұмысшылар
-    kk-latn: jumısşılar
+    kk_latn: jumısşılar
     kk-tr: Jumısşılar
     ko: 노동계급
     ko-kp: 로동계급
@@ -149,7 +149,7 @@ dv_has_:
     mn: Ажилчин анги
     mr: कामगारवर्ग
     ms: kelas pekerja
-    ms-arab: کلس ڤکرجا
+    ms_arab: کلس ڤکرجا
     nan: Kang-lâng kai-kip
     nb: arbeiderklasse
     nl: arbeidersklasse
@@ -158,7 +158,7 @@ dv_has_:
     pl: klasa pracownicza
     pnb: مزدور طبقہ
     pt: classe trabalhadora
-    pt-br: Classe trabalhadora
+    pt_br: Classe trabalhadora
     qu: Llamk'aq
     ro: clasa muncitoare
     ru: рабочий класс
@@ -167,8 +167,8 @@ dv_has_:
     sl: delavski razred
     sq: Klasa punëtore
     sr: радничка класа
-    sr-ec: радничка класа
-    sr-el: radnička klasa
+    sr_ec: радничка класа
+    sr_el: radnička klasa
     sv: arbetarklass
     te: శ్రామిక వర్గం
     th: ชนชั้นแรงงาน
@@ -181,12 +181,12 @@ dv_has_:
     vi: giai cấp công nhân
     yue: 勞動階層
     zh: 工人阶级
-    zh-cn: 工人阶级
-    zh-hans: 工人阶级
-    zh-hant: 工人階級
-    zh-hk: 工人階級
-    zh-sg: 工人阶级
-    zh-tw: 工人階級
+    zh_cn: 工人阶级
+    zh_hans: 工人阶级
+    zh_hant: 工人階級
+    zh_hk: 工人階級
+    zh_sg: 工人阶级
+    zh_tw: 工人階級
 ---
 # [[Working_Class]] 
 

@@ -204,7 +204,7 @@ dv_has_:
     ast: Fiebre mariello
     az: Sarı qızdırma
     be: Жоўтая ліхаманка
-    be-tarask: жоўтая ліхаманка
+    be_tarask: жоўтая ліхаманка
     bg: Жълта треска
     bn: পীতজ্বর
     bs: Žuta groznica
@@ -268,8 +268,8 @@ dv_has_:
     si: යෙලෝ ෆීවර්
     sl: rumena mrzlica
     sr: жута грозница
-    sr-ec: Жута грозница
-    sr-el: Žuta groznica
+    sr_ec: Жута грозница
+    sr_el: Žuta groznica
     sv: gula febern
     sw: Homa ya manjano
     ta: மஞ்சள் காய்ச்சல்
@@ -284,12 +284,12 @@ dv_has_:
     yo: Ìbà pọ́njú-pọ́ntọ̀
     yue: 黃熱病
     zh: 黄热病
-    zh-cn: 黄热病
-    zh-hans: 黄热病
-    zh-hant: 黃熱病
-    zh-hk: 黃熱病
-    zh-sg: 黄热病
-    zh-tw: 黃熱病
+    zh_cn: 黄热病
+    zh_hans: 黄热病
+    zh_hant: 黃熱病
+    zh_hk: 黃熱病
+    zh_sg: 黄热病
+    zh_tw: 黃熱病
 ---
 # [[Yellow_Fever]] 
 

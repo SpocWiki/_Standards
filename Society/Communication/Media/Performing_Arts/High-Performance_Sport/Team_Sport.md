@@ -119,7 +119,7 @@ dv_has_:
     ast: temporada deportiva
     az: idman mövsümü
     be: спартыўны сезон
-    be-tarask: сэзон
+    be_tarask: сэзон
     bg: спортен сезон
     bn: ক্রীড়ার মৌসুম
     bs: sportska sezona
@@ -150,13 +150,13 @@ dv_has_:
     ja: スポーツシーズン
     ko: 시즌
     ku: demsala werzişî
-    ku-latn: demsala werzişî
+    ku_latn: demsala werzişî
     lb: Sportssaison
     lt: sporto sezonas
     lv: sezona
     mk: сезона
     ms: musim
-    ms-arab: موسيم
+    ms_arab: موسيم
     nb: sesong
     nl: sportseizoen
     nn: sesong
@@ -176,10 +176,10 @@ dv_has_:
     vi: mùa giải thể thao
     yue: 賽季
     zh: 賽季
-    zh-hans: 赛季
-    zh-hant: 賽季
-    zh-hk: 賽季
-    zh-tw: 賽季
+    zh_hans: 赛季
+    zh_hant: 賽季
+    zh_hk: 賽季
+    zh_tw: 賽季
 ---
 ## #has_/text_of_/abstract 
 

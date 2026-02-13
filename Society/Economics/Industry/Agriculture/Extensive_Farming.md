@@ -51,14 +51,14 @@ dv_has_:
     ast: Agricultura estensiva
     az: Ekstensiv kənd təsərrüfatı
     be: Экстэнсіўная сельская гаспадарка
-    be-tarask: экстэнсіўная сельская гаспадарка
+    be_tarask: экстэнсіўная сельская гаспадарка
     ca: agricultura extensiva
     cs: Extenzivní zemědělství
     da: Ekstensivt landbrug
     de: extensive Landwirtschaft
     en: extensive farming
-    en-ca: Extensive farming
-    en-gb: Extensive farming
+    en_ca: Extensive farming
+    en_gb: Extensive farming
     es: agricultura extensiva
     et: Ekstensiivpõllundus
     eu: Nekazaritza estentsibo
@@ -76,13 +76,13 @@ dv_has_:
     nl: extensieve landbouw
     pl: Rolnictwo ekstensywne
     pt: agricultura extensiva
-    pt-br: Agricultura extensiva
+    pt_br: Agricultura extensiva
     ro: Agricultură extensivă
     ru: экстенсивное сельское хозяйство
     si: විස්තෘත ගොවිපොල
     sr: Екстензиван тип пољопривреде
-    sr-ec: Екстезиван тип пољопривреде
-    sr-el: Ekstezivan tip poljoprivrede
+    sr_ec: Екстезиван тип пољопривреде
+    sr_el: Ekstezivan tip poljoprivrede
     sv: Extensivt jordbruk
     ta: விரிநிலை வேளாண்மை
     tg: Кишоварзии густарда
@@ -92,9 +92,9 @@ dv_has_:
     wuu: 粗放农业
     yue: 粗放式農業
     zh: 粗放農業
-    zh-hans: 粗放农业
-    zh-hant: 粗放農業
-    zh-hk: 粗放農業
+    zh_hans: 粗放农业
+    zh_hant: 粗放農業
+    zh_hk: 粗放農業
 ---
 # [[Extensive_Farming]] 
 

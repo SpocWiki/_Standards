@@ -172,7 +172,7 @@ dv_has_:
     az: uydurma hekayə
     ba: нәфис әҙәбиәт
     be: мастацкі вымысел
-    be-tarask: мастацкая выдумка
+    be_tarask: мастацкая выдумка
     bg: художествено произведение
     bn: কল্পকাহিনী
     br: faltazi
@@ -229,7 +229,7 @@ dv_has_:
     ko: 허구
     krc: суратлау адабият
     ku: honak
-    ku-latn: honak
+    ku_latn: honak
     kw: fugieth
     la: fictio
     lb: Fiktioun
@@ -240,11 +240,11 @@ dv_has_:
     mk: фикција
     ml: ഫിക്ഷൻ
     ms: cereka
-    ms-arab: چريک
+    ms_arab: چريک
     nan: hi-kò͘-lūi
     nb: fiksjon
     nds: Fiktion
-    nds-nl: fictie
+    nds_nl: fictie
     new: फिक्सन
     nl: fictie
     nn: fiksjon
@@ -273,7 +273,7 @@ dv_has_:
     so: male awaal
     sq: trillim
     sr: фикција
-    sr-ec: фикција
+    sr_ec: фикција
     su: fiksi
     sv: fiktion
     sw: bunilizi
@@ -295,11 +295,11 @@ dv_has_:
     yi: בעלעטריסטיק
     yue: 虛構故仔
     zh: 虚构
-    zh-cn: 虚构作品
-    zh-hans: 虚构作品
-    zh-hant: 虛構作品
-    zh-hk: 虛構作品
-    zh-tw: 虛構作品
+    zh_cn: 虚构作品
+    zh_hans: 虚构作品
+    zh_hant: 虛構作品
+    zh_hk: 虛構作品
+    zh_tw: 虛構作品
 ---
 # [[Fiction]] 
 

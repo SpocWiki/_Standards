@@ -57,7 +57,7 @@ dv_has_:
     ary: موسيقى عصرية ديال لقرن لعشرين
     ast: música académica contemporánea
     az: müasir klassik musiqi
-    be-tarask: сучасная клясычная музыка
+    be_tarask: сучасная клясычная музыка
     ca: música contemporània
     cs: soudobá vážná hudba
     cy: cerddoriaeth glasurol gyfoes
@@ -95,7 +95,7 @@ dv_has_:
     uk: сучасна класична музика
     vi: Nhạc đương đại
     zh: 当代古典音乐
-    zh-hant: 當代古典音樂
+    zh_hant: 當代古典音樂
 ---
 # [[Contemporary_classical_Music]] 
 

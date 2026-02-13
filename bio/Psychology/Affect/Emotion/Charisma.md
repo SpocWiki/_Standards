@@ -43,7 +43,7 @@ dv_has_:
     ar: كاريزما
     ast: Carisma
     az: Xarizma
-    be-tarask: харызма
+    be_tarask: харызма
     bg: Харизма
     ca: carisma
     ckb: کارێزما
@@ -90,7 +90,7 @@ dv_has_:
     sl: karizma
     sq: Karizma
     sr: харизма
-    sr-ec: Харизма
+    sr_ec: Харизма
     sv: karisma
     sw: Karama
     th: เสน่ห์
@@ -99,7 +99,7 @@ dv_has_:
     uz: Xarizma
     yue: 魅力
     zh: 神化領袖魅力
-    zh-tw: 天賦群眾魅力
+    zh_tw: 天賦群眾魅力
 ---
 # [[Charisma]] 
 

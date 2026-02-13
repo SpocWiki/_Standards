@@ -370,7 +370,7 @@ dv_has_:
     ab: Белиз
     ace: Belize
     ady: Белиз
-    aeb-arab: بليز
+    aeb_arab: بليز
     af: Belize
     am: ቤሊዝ
     ami: Belize
@@ -390,7 +390,7 @@ dv_has_:
     bar: Belize
     bcl: Belisa
     be: Беліз
-    be-tarask: Бэліз
+    be_tarask: Бэліз
     bew: Bélis
     bg: Белиз
     bgn: بلیز
@@ -404,7 +404,7 @@ dv_has_:
     bs: Beliz
     bxr: Белиз
     ca: Belize
-    cbk-zam: Belice
+    cbk_zam: Belice
     cdo: Belize
     ce: Белиз
     ceb: Belize
@@ -413,7 +413,7 @@ dv_has_:
     ckb: بەلیز
     co: Belise
     crh: Beliz
-    crh-latn: Beliz
+    crh_latn: Beliz
     cs: Belize
     csb: Belize
     cv: Белиз
@@ -422,7 +422,7 @@ dv_has_:
     dag: Belize
     de: Belize
     de-at: Belize
-    de-ch: Belize
+    de_ch: Belize
     diq: Beliz
     dsb: Belize
     dty: बेलिज
@@ -431,8 +431,8 @@ dv_has_:
     ee: Belize
     el: Μπελίζ
     en: Belize
-    en-ca: Belize
-    en-gb: Belize
+    en_ca: Belize
+    en_gb: Belize
     en-us: Belize
     eo: Belizo
     es: Belice
@@ -455,7 +455,7 @@ dv_has_:
     gn: Mbelise
     gom: बेलिझ
     gom-deva: बेलिझ
-    gom-latn: Belize
+    gom_latn: Belize
     gpe: Belize
     gsw: Belize
     gu: બેલીઝ
@@ -487,7 +487,7 @@ dv_has_:
     kab: Belize
     kbp: Peliizi
     kk: Белиз
-    kk-cyrl: Белиз
+    kk_cyrl: Белиз
     kn: ಬೆಲೀಜ್
     ko: 벨리즈
     krc: Белиз
@@ -509,7 +509,7 @@ dv_has_:
     lzh: 伯利茲
     mad: Belize
     mai: बेलिज
-    map-bms: Belize
+    map_bms: Belize
     mdf: Бэлиз
     mg: Belizy
     mhr: Белиз
@@ -533,7 +533,7 @@ dv_has_:
     nap: Belize
     nb: Belize
     nds: Belize
-    nds-nl: Belise
+    nds_nl: Belise
     ne: बेलिज
     new: बेलिज
     nl: Belize
@@ -555,7 +555,7 @@ dv_has_:
     pnb: بیلیز
     ps: بېليز
     pt: Belize
-    pt-br: Belize
+    pt_br: Belize
     qu: Bilisi
     rm: Belize
     rmy: Belize
@@ -587,8 +587,8 @@ dv_has_:
     so: Belise
     sq: Beliza
     sr: Белизе
-    sr-ec: Белизе
-    sr-el: Belize
+    sr_ec: Белизе
+    sr_el: Belize
     ss: IBhelizi
     stq: Belize
     su: Bélis
@@ -601,7 +601,7 @@ dv_has_:
     te: బెలిజ్
     tet: Belize
     tg: Белиз
-    tg-cyrl: Белиз
+    tg_cyrl: Белиз
     th: ประเทศเบลีซ
     tk: Belize
     tl: Belize
@@ -633,13 +633,13 @@ dv_has_:
     zea: Belize
     zgh: ⴱⵉⵍⵉⵣ
     zh: 伯利兹
-    zh-cn: 伯利兹
-    zh-hans: 伯利兹
-    zh-hant: 貝里斯
-    zh-hk: 伯利茲
-    zh-mo: 伯利茲
-    zh-sg: 伯利兹
-    zh-tw: 貝里斯
+    zh_cn: 伯利兹
+    zh_hans: 伯利兹
+    zh_hant: 貝里斯
+    zh_hk: 伯利茲
+    zh_mo: 伯利茲
+    zh_sg: 伯利兹
+    zh_tw: 貝里斯
     zu: i-Belize
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Belize

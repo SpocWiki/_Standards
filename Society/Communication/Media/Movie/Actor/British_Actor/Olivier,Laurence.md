@@ -169,7 +169,7 @@ dv_has_:
     ba: Оливье Лоренс
     bcl: Laurence Olivier
     be: Лорэнс Аліўе
-    be-tarask: Лоўрэнс Аліўе
+    be_tarask: Лоўрэнс Аліўе
     bg: Лорънс Оливие
     bn: লরন্স অলিভিয়ে
     br: Laurence Olivier
@@ -179,11 +179,11 @@ dv_has_:
     cs: Laurence Olivier
     cy: Laurence Olivier
     de: Laurence Olivier
-    de-ch: Laurence Olivier
+    de_ch: Laurence Olivier
     el: Λόρενς Ολίβιε
     en: Laurence Olivier
-    en-ca: Laurence Olivier
-    en-gb: Laurence Olivier
+    en_ca: Laurence Olivier
+    en_gb: Laurence Olivier
     en-us: Laurence Olivier
     eo: Laurence Olivier
     es: Laurence Olivier
@@ -225,7 +225,7 @@ dv_has_:
     pa: ਲਾਰੈਂਸ ਓਲੀਵੀਅਰ
     pl: Laurence Olivier
     pt: Laurence Olivier
-    pt-br: Laurence Olivier
+    pt_br: Laurence Olivier
     qu: Laurence Olivier
     ro: Laurence Olivier
     ru: Лоренс Оливье
@@ -249,10 +249,10 @@ dv_has_:
     yo: Laurence Olivier
     yue: 羅蘭士奧利花
     zh: 劳伦斯·奥利维尔
-    zh-hant: 勞倫斯·奧立佛
+    zh_hant: 勞倫斯·奧立佛
     zh-my: 罗兰士·奥利花
-    zh-sg: 劳伦斯·奥利弗
-    zh-tw: 勞倫斯·奧立佛
+    zh_sg: 劳伦斯·奥利弗
+    zh_tw: 勞倫斯·奧立佛
 ---
 # [[Olivier,Laurence]] 
 

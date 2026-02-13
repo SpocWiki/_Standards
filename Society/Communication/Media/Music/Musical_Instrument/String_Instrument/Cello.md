@@ -71,7 +71,7 @@ dv_has_:
     az: violonçel
     bar: Violoncello
     be: віяланчэль
-    be-tarask: віялянчэль
+    be_tarask: віялянчэль
     bg: виолончело
     bn: চেলো
     br: violoñsell
@@ -117,7 +117,7 @@ dv_has_:
     kk: виолончель
     ko: 첼로
     ku: viyolonsel
-    ku-latn: viyolonsel
+    ku_latn: viyolonsel
     ky: виолончель
     la: Violoncellum
     lb: Cello
@@ -132,7 +132,7 @@ dv_has_:
     nan: Tōa-thê-khîm
     nb: cello
     nds: Violoncello
-    nds-nl: cello
+    nds_nl: cello
     nl: cello
     nn: cello
     oc: violoncèl
@@ -150,8 +150,8 @@ dv_has_:
     smn: sello
     sms: sello
     sr: виолончело
-    sr-ec: виолончело
-    sr-el: violončelo
+    sr_ec: виолончело
+    sr_el: violončelo
     stq: Violoncello
     sv: cello
     sw: Selo
@@ -171,8 +171,8 @@ dv_has_:
     yi: טשעלא
     yue: 大提琴
     zh: 大提琴
-    zh-hant: 大提琴
-    zh-tw: 大提琴
+    zh_hant: 大提琴
+    zh_tw: 大提琴
 ---
 # [[Cello]] 
 

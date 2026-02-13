@@ -57,7 +57,7 @@ dv_has_:
     ast: tónica
     az: tonik
     ba: тоник
-    be-tarask: тонік
+    be_tarask: тонік
     bg: тоник
     bs: tonik
     ca: aigua tònica
@@ -94,14 +94,14 @@ dv_has_:
     pa: ਸ਼ਕਤੀਦਾਇਕ ਪਾਣੀ
     pl: tonik
     pt: água tónica
-    pt-br: tônica
+    pt_br: tônica
     ro: apă tonică
     ru: тоник
     sl: tonična voda
     sq: uji tonik
     sr: тоник
-    sr-ec: тоник
-    sr-el: tonik
+    sr_ec: тоник
+    sr_el: tonik
     sv: tonic
     tn: Tonic water
     tr: tonik
@@ -111,11 +111,11 @@ dv_has_:
     yue: 湯匿水
     zh: 通寧水
     zh-cn: 通宁水
-    zh-hans: 通宁水
-    zh-hant: 通寧水
-    zh-hk: 湯力水
-    zh-sg: 通宁水
-    zh-tw: 通寧水
+    zh_hans: 通宁水
+    zh_hant: 通寧水
+    zh_hk: 湯力水
+    zh_sg: 通宁水
+    zh_tw: 通寧水
 ---
 # [[Tonic_Water]] 
 

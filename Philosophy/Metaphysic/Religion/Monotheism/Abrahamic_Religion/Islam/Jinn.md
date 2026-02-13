@@ -143,7 +143,7 @@ dv_has_:
     ast: Xeniu
     az: Cin
     ba: ен
-    be-tarask: джын
+    be_tarask: джын
     bg: Джин
     bn: জ্বীন জাতি
     br: djinn
@@ -157,8 +157,8 @@ dv_has_:
     de: Dschinn
     el: Τζίνι
     en: jinn
-    en-ca: Jinn
-    en-gb: jinn
+    en_ca: Jinn
+    en_gb: jinn
     eo: ĝino
     es: genio
     et: Džinn
@@ -204,7 +204,7 @@ dv_has_:
     pnb: جن
     ps: پېرى
     pt: génio
-    pt-br: gênio
+    pt_br: gênio
     ro: djinn
     ru: джинн
     sc: jinn
@@ -236,7 +236,7 @@ dv_has_:
     yi: דזשיני
     yue: 鎮尼
     zh: 鎮尼
-    zh-hant: 鎮尼
+    zh_hant: 鎮尼
 ---
 # [[Jinn]] 🧞  
 

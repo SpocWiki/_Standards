@@ -55,15 +55,15 @@ name_in_kana: かいにじょうけんてい
 dv_has_:
   name_:
     ar: اختبار مربع كاي
-    be-tarask: хі-квадрат крытэр
+    be_tarask: хі-квадрат крытэр
     ca: prova khi quadrat
     cs: Chí-kvadrát test
     da: Chi i anden-test
     de: Chi-Quadrat-Test
     el: Δοκιμασία X2
     en: chi-square test
-    en-ca: Chi-squared test
-    en-gb: Chi-squared test
+    en_ca: Chi-squared test
+    en_gb: Chi-squared test
     eo: testo de kvadrata ĥi
     es: prueba de la ji al cuadrado
     eu: Doikuntzaren egokitasunerako khi-karratu froga
@@ -86,7 +86,7 @@ dv_has_:
     nl: chi-kwadraattoets
     pl: Test chi-kwadrat
     pt: teste qui-quadrado
-    pt-br: Teste Qui-Quadrado
+    pt_br: Teste Qui-Quadrado
     ru: Тест хи-квадрат
     sl: hi-kvadrat test
     sq: Testi hi-katror
@@ -99,9 +99,9 @@ dv_has_:
     vi: Kiểm định chi bình phương
     yue: 卡方檢定
     zh: 卡方检验
-    zh-hans: 卡方检验
-    zh-hant: 卡方檢驗
-    zh-hk: 卡方檢驗
+    zh_hans: 卡方检验
+    zh_hant: 卡方檢驗
+    zh_hk: 卡方檢驗
 ---
 # [[Chi-square_test]] 
 

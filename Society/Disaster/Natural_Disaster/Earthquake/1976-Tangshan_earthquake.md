@@ -76,7 +76,7 @@ dv_has_:
     az: Tanşan zəlzələsi
     ba: Таншандә ер тетрәүе
     be: Таншанскае землетрасенне
-    be-tarask: Таншанскі землятрус 1976 году
+    be_tarask: Таншанскі землятрус 1976 году
     bg: Таншанско земетресение
     bn: ১৯৭৬-এর থাংশান ভূমিকম্প
     bs: Zemljotres u Tangshanu 1976.
@@ -125,12 +125,12 @@ dv_has_:
     wuu: 1976年河北唐山大地震
     yue: 唐山地震
     zh: 唐山大地震
-    zh-cn: 唐山大地震
-    zh-hans: 唐山大地震
-    zh-hant: 唐山大地震
-    zh-hk: 唐山大地震
-    zh-sg: 唐山大地震
-    zh-tw: 唐山大地震
+    zh_cn: 唐山大地震
+    zh_hans: 唐山大地震
+    zh_hant: 唐山大地震
+    zh_hk: 唐山大地震
+    zh_sg: 唐山大地震
+    zh_tw: 唐山大地震
 ---
 # [[1976-Tangshan_earthquake]] 
 

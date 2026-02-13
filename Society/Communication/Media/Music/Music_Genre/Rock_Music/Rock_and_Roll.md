@@ -74,7 +74,7 @@ dv_has_:
     az: rok-n-roll
     bar: Rock and Roll
     be: рок-н-рол
-    be-tarask: рок-н-рол
+    be_tarask: рок-н-рол
     bg: рокендрол
     bn: রক অ্যান্ড রোল
     br: rock 'n' roll
@@ -140,7 +140,7 @@ dv_has_:
     pcd: Rock'n'roll
     pl: rock and roll
     pt: rock and roll
-    pt-br: rock and roll
+    pt_br: rock and roll
     pwn: rak in rul
     ro: muzică rock and roll
     ru: рок-н-ролл
@@ -170,7 +170,7 @@ dv_has_:
     yo: rock and roll
     yue: Rock and roll
     zh: 搖滾
-    zh-hant: 搖滾
+    zh_hant: 搖滾
 ---
 # [[Rock_and_Roll]] 
 

@@ -188,7 +188,7 @@ dv_has_:
     ban: situs web
     bcl: Websityo
     be: сайт
-    be-tarask: вэб-сайт
+    be_tarask: вэб-сайт
     bew: Pelampang jala
     bg: Уебсайт
     bho: वेबसाइट
@@ -208,8 +208,8 @@ dv_has_:
     diq: Website
     el: ιστότοπος
     en: website
-    en-ca: website
-    en-gb: website
+    en_ca: website
+    en_gb: website
     en-us: website
     eo: retejo
     es: sitio web
@@ -275,14 +275,14 @@ dv_has_:
     mni: ꯋꯦꯕꯁꯥꯏꯠ
     mr: संकेतस्थळ
     ms: tapak web
-    ms-arab: تاڤق ويب
+    ms_arab: تاڤق ويب
     mt: sit elettroniku
     my: ဝက်ဘ်ဆိုဒ်
     mzn: وبسایت
     nan: Bāng-chām
     nb: nettsted
     nds: Websteed
-    nds-nl: websteade
+    nds_nl: websteade
     ne: वेबसाईट
     nl: website
     nn: nettstad
@@ -302,7 +302,7 @@ dv_has_:
     pnb: ویب سائیٹ
     ps: ويبځاى
     pt: sítio
-    pt-br: site
+    pt_br: site
     qu: Web k'iti
     rki: ဝက်ဘ်ဆိုဒ်(Website)
     ro: site web
@@ -328,7 +328,7 @@ dv_has_:
     so: Website
     sq: vëndi i rrjetës
     sr: веб-сајт
-    sr-ec: веб-сајт
+    sr_ec: веб-сајт
     su: Ramatloka
     sv: webbplats
     sw: Tovuti
@@ -336,15 +336,15 @@ dv_has_:
     te: వెబ్సైటు
     tet: Web site
     tg: вебгоҳ
-    tg-cyrl: веб-сайт
+    tg_cyrl: веб-сайт
     th: เว็บไซต์
     ti: መርበብ ሓበሬታ
     tl: website
     tok: lipu ilo
     tr: internet sitesi
     tt: сайт
-    tt-cyrl: сайт
-    tt-latn: sayt
+    tt_cyrl: сайт
+    tt_latn: sayt
     tum: Mahamba gha Lutatavi
     uk: вебсайт
     ur: ویب سائٹ
@@ -362,11 +362,11 @@ dv_has_:
     za: Vangjcan
     zgh: ⴰⵙⵎⵍ ⵓⵎⴹⵉⵏ
     zh: 網站
-    zh-cn: 网站
-    zh-hans: 网站
-    zh-hant: 網站
-    zh-hk: 網站
-    zh-tw: 網站
+    zh_cn: 网站
+    zh_hans: 网站
+    zh_hant: 網站
+    zh_hk: 網站
+    zh_tw: 網站
     zu: Isizindalwebu
 ---
 # [[Web_Site]] 

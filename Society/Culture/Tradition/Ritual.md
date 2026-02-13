@@ -79,7 +79,7 @@ dv_has_:
     ba: Ритуал
     ban: Ritual
     be: абрад
-    be-tarask: рытуал
+    be_tarask: рытуал
     bg: Ритуал
     bn: আচার
     ca: ritual
@@ -114,11 +114,11 @@ dv_has_:
     it: rituale
     ja: 儀式
     kk: Ритуал
-    kk-arab: رىيتۋال
+    kk_arab: رىيتۋال
     kk-cn: رىيتۋال
-    kk-cyrl: Ритуал
+    kk_cyrl: Ритуал
     kk-kz: Ритуал
-    kk-latn: Rïtwal
+    kk_latn: Rïtwal
     kk-tr: Rïtwal
     kn: ಆಚರಣೆ
     ko: 의식
@@ -139,7 +139,7 @@ dv_has_:
     pa: ਰਸਮ
     pl: rytuał
     pt: ritual
-    pt-br: ritual
+    pt_br: ritual
     ro: ritual
     ru: ритуал
     sa: कर्म
@@ -150,8 +150,8 @@ dv_has_:
     sl: ritual
     sq: ritual
     sr: ритуал
-    sr-ec: ритуал
-    sr-el: ritual
+    sr_ec: ритуал
+    sr_el: ritual
     su: ritual
     sv: ritual
     ta: சடங்கு
@@ -165,12 +165,12 @@ dv_has_:
     wuu: 仪式
     yue: 儀式
     zh: 仪式
-    zh-cn: 仪式
-    zh-hans: 仪式
-    zh-hant: 儀式
-    zh-hk: 儀式
-    zh-sg: 仪式
-    zh-tw: 儀式
+    zh_cn: 仪式
+    zh_hans: 仪式
+    zh_hant: 儀式
+    zh_hk: 儀式
+    zh_sg: 仪式
+    zh_tw: 儀式
 ---
 # [[Ritual]] 
 

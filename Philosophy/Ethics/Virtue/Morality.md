@@ -100,7 +100,7 @@ dv_has_:
     az: mənəviyyat
     bcl: moralidad
     be: мараль
-    be-tarask: мараль
+    be_tarask: мараль
     bg: mорал
     bn: নৈতিকতা
     br: moral
@@ -114,12 +114,12 @@ dv_has_:
     cy: moesoldeb
     da: moral
     de: Moral
-    de-ch: Moral
+    de_ch: Moral
     el: ηθικότητα
     eml: morèl
     en: morality
-    en-ca: morality
-    en-gb: morality
+    en_ca: morality
+    en_gb: morality
     eo: moralo
     es: moral
     et: moraal
@@ -163,7 +163,7 @@ dv_has_:
     ml: സദാചാരം
     mn: ёс суртахуун
     ms: moral
-    ms-arab: مورل
+    ms_arab: مورل
     my: ကိုယ်ကျင့်တရား
     mzn: اخلاق
     nan: tō-tek
@@ -181,7 +181,7 @@ dv_has_:
     pms: Moralità
     ps: ښه اخلاق
     pt: moral
-    pt-br: moral
+    pt_br: moral
     ro: moralitate
     ru: мораль
     rue: моралность
@@ -193,8 +193,8 @@ dv_has_:
     sl: morala
     sq: moral
     sr: морал
-    sr-ec: морал
-    sr-el: moral
+    sr_ec: морал
+    sr_el: moral
     sv: moral
     sw: maadili
     ta: ஒழுக்கநெறி
@@ -204,7 +204,7 @@ dv_has_:
     tl: moralidad
     tr: ahlak
     tt: әхлак
-    tt-cyrl: әхлак
+    tt_cyrl: әхлак
     uk: мораль
     ur: فانی
     vec: morałe
@@ -213,10 +213,10 @@ dv_has_:
     yi: מוסר
     yue: 道德
     zh: 道德
-    zh-cn: 道德
-    zh-hant: 道德
-    zh-hk: 道德
-    zh-tw: 道德
+    zh_cn: 道德
+    zh_hant: 道德
+    zh_hk: 道德
+    zh_tw: 道德
 ---
 # [[Morality]] 
 

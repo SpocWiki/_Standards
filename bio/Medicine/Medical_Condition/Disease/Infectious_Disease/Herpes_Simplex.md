@@ -124,7 +124,7 @@ dv_has_:
     as: হাৰ্পিছ ছিম্প্লেক্স
     ast: Herpes simple
     azb: اوچوق
-    be-tarask: герпэс
+    be_tarask: герпэс
     bew: Dampa
     bg: Herpes simplex
     bjn: Kayap
@@ -138,8 +138,8 @@ dv_has_:
     de: Herpes simplex
     el: απλός έρπης
     en: herpes simplex
-    en-ca: Herpes simplex
-    en-gb: Herpes simplex
+    en_ca: Herpes simplex
+    en_gb: Herpes simplex
     eo: herpeto
     es: herpes simple
     et: Herpes
@@ -178,13 +178,13 @@ dv_has_:
     or: ହର୍ପିସ୍ ସିମ୍ପ୍ଲେକ୍ସ୍
     pl: zakażenia opryszczkowe
     pt: herpes
-    pt-br: Herpes
+    pt_br: Herpes
     ru: герпес
     sh: Herpes simplex
     sk: Jednoduchý opar
     sl: herpes simplex
     sr: херпес
-    sr-ec: Херпес
+    sr_ec: Херпес
     sv: herpes simplex
     sw: Ugonjwa wa hepesi simpleksi
     ta: அக்கி

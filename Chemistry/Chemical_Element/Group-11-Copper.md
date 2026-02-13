@@ -106,7 +106,7 @@ dv_has_:
     ast: Elementos del grupu 11
     az: Dövri sistemin 11-ci qrupu
     ban: Datu golongan 11
-    be-tarask: падгрупа медзі
+    be_tarask: падгрупа медзі
     bg: група 11 на периодичната система
     bn: একাদশ শ্রেণীর মৌল
     bs: 11. grupa hemijskih elemenata
@@ -162,18 +162,18 @@ dv_has_:
     te: గ్రూప్ 11 మూలకం
     th: ธาตุหมู่ 11
     tt: бакыр астөркеме
-    tt-cyrl: бакыр астөркеме
+    tt_cyrl: бакыр астөркеме
     uk: Група 11 періодичної системи елементів
     vi: nhóm nguyên tố 11
     wuu: 11族元素
     yue: 11族元素
     zh: 11族元素
-    zh-cn: 11族元素
-    zh-hans: 11族元素
-    zh-hant: 11族元素
-    zh-hk: 11族元素
-    zh-sg: 11族元素
-    zh-tw: 11族元素
+    zh_cn: 11族元素
+    zh_hans: 11族元素
+    zh_hant: 11族元素
+    zh_hk: 11族元素
+    zh_sg: 11族元素
+    zh_tw: 11族元素
 ---
 # [[Group-11-Copper]] 
 

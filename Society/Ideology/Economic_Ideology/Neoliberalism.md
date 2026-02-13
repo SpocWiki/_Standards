@@ -81,7 +81,7 @@ dv_has_:
     ast: Neolliberalismu
     az: neoliberalizm
     azb: نئولیبرالیزم
-    be-tarask: нэалібэралізм
+    be_tarask: нэалібэралізм
     bg: Неолиберализъм
     bn: নব্যউদারনীতিবাদ
     ca: neoliberalisme
@@ -115,11 +115,11 @@ dv_has_:
     jv: Néoliberalisme
     ka: ნეოლიბერალიზმი
     kk: Неолиберализм
-    kk-arab: نەولىيبەرالىيزم
+    kk_arab: نەولىيبەرالىيزم
     kk-cn: نەولىيبەرالىيزم
-    kk-cyrl: Неолиберализм
+    kk_cyrl: Неолиберализм
     kk-kz: Неолиберализм
-    kk-latn: Neolïberalïzm
+    kk_latn: Neolïberalïzm
     kk-tr: Neolïberalïzm
     ko: 신자유주의
     lmo: Neoliberism
@@ -130,7 +130,7 @@ dv_has_:
     ml: നവ ഉദാരവത്കരണം
     mn: Неолиберализм
     ms: neoliberalisme
-    ms-arab: نيوليبراليسمى
+    ms_arab: نيوليبراليسمى
     nb: nyliberalisme
     ne: नवउदारवाद
     nl: neoliberalisme
@@ -150,8 +150,8 @@ dv_has_:
     sms: ođđliberalismm
     sq: Neoliberalizmi
     sr: неолиберализам
-    sr-ec: Неолиберализам
-    sr-el: Neoliberalizam
+    sr_ec: Неолиберализам
+    sr_el: Neoliberalizam
     sv: nyliberalism
     te: నయా ఉదారవాదం
     th: เสรีนิยมใหม่
@@ -163,12 +163,12 @@ dv_has_:
     vi: Chủ nghĩa tự do mới
     wuu: 新自由主义
     zh: 新自由主義
-    zh-cn: 新自由主义
-    zh-hans: 新自由主义
-    zh-hant: 新自由主義
-    zh-hk: 新自由主義
-    zh-sg: 新自由主义
-    zh-tw: 新自由主義
+    zh_cn: 新自由主义
+    zh_hans: 新自由主义
+    zh_hant: 新自由主義
+    zh_hk: 新自由主義
+    zh_sg: 新自由主义
+    zh_tw: 新自由主義
 ---
 # [[Neoliberalism]] 
 

@@ -122,7 +122,7 @@ dv_has_:
     ast: allucinación
     az: halusunasiya
     be: галюцынацыя
-    be-tarask: галюцынацыя
+    be_tarask: галюцынацыя
     bg: халюцинация
     bjn: Kasubalahan
     bn: অমূলক প্রত্যক্ষণ বিভ্রম
@@ -158,17 +158,17 @@ dv_has_:
     ka: ჰალუცინაცია
     kab: tamunnawt
     kk: елестеушілік
-    kk-arab: ەلەستەۋشىلىك
+    kk_arab: ەلەستەۋشىلىك
     kk-cn: ەلەستەۋشىلىك
-    kk-cyrl: елестеушілік
+    kk_cyrl: елестеушілік
     kk-kz: елестеушілік
-    kk-latn: elestewşilik
+    kk_latn: elestewşilik
     kk-tr: elestewşilik
     kn: ಭ್ರಮೆ
     ko: 환각
     ku: halûsînasyon
-    ku-arab: حالووسیناسیۆن
-    ku-latn: halûsînasyon
+    ku_arab: حالووسیناسیۆن
+    ku_latn: halûsînasyon
     ky: галлюцинация
     la: Halucinatio
     lb: halluzinatioun
@@ -195,8 +195,8 @@ dv_has_:
     so: jidbo
     sq: halucinacioni
     sr: халуцинација
-    sr-ec: халуцинација
-    sr-el: halucinacija
+    sr_ec: халуцинација
+    sr_el: halucinacija
     su: Halusinasi
     sv: hallucination
     ta: மாயத்தோற்றம்
@@ -213,12 +213,12 @@ dv_has_:
     wuu: 幻觉
     yue: 幻覺
     zh: 幻覺
-    zh-cn: 幻觉
-    zh-hans: 幻觉
-    zh-hant: 幻覺
-    zh-hk: 幻覺
-    zh-sg: 幻觉
-    zh-tw: 幻覺
+    zh_cn: 幻觉
+    zh_hans: 幻觉
+    zh_hant: 幻覺
+    zh_hk: 幻覺
+    zh_sg: 幻觉
+    zh_tw: 幻覺
 ---
 # [[Hallucination]] 
 

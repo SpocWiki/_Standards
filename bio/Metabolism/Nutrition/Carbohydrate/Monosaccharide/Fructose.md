@@ -60,7 +60,7 @@ dv_has_:
     ast: Fructosa
     azb: فروکتوز
     be: фруктоза
-    be-tarask: фруктоза
+    be_tarask: фруктоза
     bg: Фруктоза
     bn: ফ্রুক্টোজ
     bs: fruktoza
@@ -91,16 +91,16 @@ dv_has_:
     ja: フルクトース
     jv: Fruktosa
     kk: Фруктоза
-    kk-arab: فرۋكتوزا
+    kk_arab: فرۋكتوزا
     kk-cn: فرۋكتوزا
-    kk-cyrl: Фруктоза
+    kk_cyrl: Фруктоза
     kk-kz: Фруктоза
-    kk-latn: Frwktoza
+    kk_latn: Frwktoza
     kk-tr: Frwktoza
     ko: 프럭토스
     ku: Fruktoz
-    ku-arab: فروکتۆز
-    ku-latn: Fruktoz
+    ku_arab: فروکتۆز
+    ku_latn: Fruktoz
     kw: fruktos
     ky: фруктоза
     la: Fructosum
@@ -118,7 +118,7 @@ dv_has_:
     oc: Fructòsa
     pl: fruktoza
     pt: Frutose
-    pt-br: frutose
+    pt_br: frutose
     qu: Wayu misk'i
     ro: Fructoză
     ru: фруктоза
@@ -131,8 +131,8 @@ dv_has_:
     sms: fruktoos
     sq: Fruktoza
     sr: фруктоза
-    sr-ec: фруктоза
-    sr-el: fruktoza
+    sr_ec: фруктоза
+    sr_el: fruktoza
     su: Fruktosa
     sv: fruktos
     ta: புருக்டோசு
@@ -149,12 +149,12 @@ dv_has_:
     wuu: 果糖
     yue: 菓醣
     zh: 果糖
-    zh-cn: 果糖
-    zh-hans: 果糖
-    zh-hant: 果糖
-    zh-hk: 果糖
-    zh-sg: 果糖
-    zh-tw: 果糖
+    zh_cn: 果糖
+    zh_hans: 果糖
+    zh_hant: 果糖
+    zh_hk: 果糖
+    zh_sg: 果糖
+    zh_tw: 果糖
     zu: I-Fructose
 ---
 ## #has_/text_of_/abstract 

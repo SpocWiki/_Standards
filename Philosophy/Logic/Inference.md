@@ -86,7 +86,7 @@ dv_has_:
     ar: استدلال
     ast: Inferencia
     az: Nəticəçıxarma
-    be-tarask: выснова
+    be_tarask: выснова
     bg: разсъждение
     bn: অনুমিতি
     br: poellata
@@ -99,8 +99,8 @@ dv_has_:
     de: Schlussfolgerung
     el: συμπέρασμα
     en: inference
-    en-ca: inference
-    en-gb: inference
+    en_ca: inference
+    en_gb: inference
     eo: inferenco
     es: inferencia
     et: järeldus
@@ -136,14 +136,14 @@ dv_has_:
     pms: Anferensa
     pnb: استدلال
     pt: inferência
-    pt-br: inferência
+    pt_br: inferência
     ro: Inferență
     ru: логический вывод
     sh: zaključivanje
     sk: dôsledok
     sl: sklepanje
     sr: закључак
-    sr-ec: закључивање
+    sr_ec: закључивање
     sv: slutledning
     ta: அனுமானம்
     th: การอนุมาน
@@ -157,7 +157,7 @@ dv_has_:
     wuu: 推理
     yue: 推理
     zh: 推论
-    zh-cn: 推理
+    zh_cn: 推理
 ---
 # [[Inference]] 
 

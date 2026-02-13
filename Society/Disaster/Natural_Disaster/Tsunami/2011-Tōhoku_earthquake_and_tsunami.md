@@ -141,7 +141,7 @@ dv_has_:
     az: Senday zəlzələsi və sunami
     bcl: Linog asin Dolnop sa Tōhuko
     be: Землетрасенне ў Японіі
-    be-tarask: Землятрус у Японіі
+    be_tarask: Землятрус у Японіі
     bg: Земетресение в регион Тохоку
     bjn: Lindu wan tsunami Sendai 2011
     bn: ২০১১ টোহুকু ভূমিকম্প ও সুনামি
@@ -226,7 +226,7 @@ dv_has_:
     yi: סענדיי ערדציטערניש
     yue: 日本三一一大地震
     zh: 2011年日本东北地方太平洋近海地震
-    zh-hant: 2011年日本東北地方太平洋近海地震
+    zh_hant: 2011年日本東北地方太平洋近海地震
 ---
 #[[2011-Tōhoku_earthquake_and_tsunami]]] 
 

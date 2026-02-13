@@ -48,7 +48,7 @@ dv_has_:
     ar: قنابة
     ast: Bráctea
     be: Прыкветак
-    be-tarask: прыкветак
+    be_tarask: прыкветак
     bs: Brakteja
     ca: bràctea
     cs: listen

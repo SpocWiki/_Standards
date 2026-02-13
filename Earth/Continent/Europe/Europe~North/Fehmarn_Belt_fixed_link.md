@@ -88,16 +88,16 @@ dv_has_:
   name_:
     ar: نفق فيهمارنبيلت
     ast: Enllaz fixu de Fehmarn
-    be-tarask: Фэмарнбэльцкі тунэль
+    be_tarask: Фэмарнбэльцкі тунэль
     bg: Подводен тунел Фемарнбелт
     ca: túnel de Fehmarn Belt
     cs: Fehmarnské pevné spojení
     da: Femern Bælt-forbindelsen
     de: Feste Fehmarnbeltquerung
-    de-ch: Feste Fehmarnbeltquerung
+    de_ch: Feste Fehmarnbeltquerung
     en: Fehmarn Belt fixed link
-    en-ca: Fehmarn Belt fixed link
-    en-gb: Fehmarn Belt fixed link
+    en_ca: Fehmarn Belt fixed link
+    en_gb: Fehmarn Belt fixed link
     es: línea fija de Fehmarn Belt
     et: Fehmarni väina tunnel
     eu: Fehmarn Belt lotura finkoa

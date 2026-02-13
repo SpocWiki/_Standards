@@ -118,7 +118,7 @@ dv_has_:
     az: aktyorluq
     ba: актёрлыҡ оҫталығы
     be: акцёрскае мастацтва
-    be-tarask: акторства
+    be_tarask: акторства
     bg: актьорско майсторство
     bn: অভিনয়
     bs: gluma
@@ -129,11 +129,11 @@ dv_has_:
     cy: Actio
     da: skuespilkunst
     de: Schauspiel
-    de-ch: Schauspiel
+    de_ch: Schauspiel
     el: υποκριτική
     en: acting
-    en-ca: Acting
-    en-gb: acting
+    en_ca: Acting
+    en_gb: acting
     eo: aktorado
     es: actuación
     et: näitlemine
@@ -160,17 +160,17 @@ dv_has_:
     jbo: keinritli
     ka: სამსახიობო ხელოვნება
     kk: Актерлік өнер
-    kk-arab: اكتەرلىك ونەر
+    kk_arab: اكتەرلىك ونەر
     kk-cn: اكتەرلىك ونەر
-    kk-cyrl: Актерлік өнер
+    kk_cyrl: Актерлік өнер
     kk-kz: Актерлік өнер
-    kk-latn: Akterlik öner
+    kk_latn: Akterlik öner
     kk-tr: Akterlik öner
     kn: ನಟನೆ
     ko: 연기
     ks: اداکٲری
     ku: şanogerî
-    ku-latn: şanogerî
+    ku_latn: şanogerî
     ky: Актёрдук искусство
     la: Actio
     lb: Schauspill
@@ -190,7 +190,7 @@ dv_has_:
     pnb: اداکاری
     ps: لوبگري
     pt: atuação
-    pt-br: Atuação
+    pt_br: Atuação
     ro: actorie
     ru: актёрское искусство
     sco: actin
@@ -200,8 +200,8 @@ dv_has_:
     sms: čuäjtõõllmõš
     sq: Aktrimi
     sr: глума
-    sr-ec: глума
-    sr-el: gluma
+    sr_ec: глума
+    sr_el: gluma
     sv: skådespelarkonst
     sw: Maigizo
     te: నటన
@@ -216,7 +216,7 @@ dv_has_:
     yo: eré ṣíṣé
     yue: 做戲
     zh: 演技
-    zh-hant: 演技
+    zh_hant: 演技
 ---
 # [[Acting]] 
 

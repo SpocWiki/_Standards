@@ -3525,7 +3525,7 @@ dv_has_:
     mk: Јутјуб
     ml: യൂട്യൂബ്
     mr: यूट्यूब
-    ms-arab: يوتيوب
+    ms_arab: يوتيوب
     mul: YouTube
     my: ယူကျူ့ဘ်
     mzn: یوتیوب
@@ -3564,7 +3564,7 @@ dv_has_:
     yi: יוטוב
     zgh: ⵢⵓⵜⵢⵓⴱ
     zh: YouTube
-    zh-hant: YouTube
+    zh_hant: YouTube
     zu: I-YouTube
 ---
 # [[YouTube]] 

@@ -38,7 +38,7 @@ inception: 1945-01-01T00:00:00Z
 dv_has_:
   name_:
     ar: سلانكي
-    be-tarask: сьлінкі
+    be_tarask: сьлінкі
     ca: slinky
     cv: Слинккă
     da: Slinky

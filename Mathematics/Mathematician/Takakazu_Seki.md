@@ -58,9 +58,9 @@ dv_has_:
     arz: سيكى تاكاكازو
     az: Seki Takakazu
     ba: Сэки Такакадзу
-    be-tarask: Такакадзу Сэкі
+    be_tarask: Такакадзу Сэкі
     ca: Takakazu Seki
-    cbk-zam: Seki Takakazu
+    cbk_zam: Seki Takakazu
     cs: Takakazu Seki
     de: Takakazu Seki
     el: Σέκι Τακακάζου
@@ -86,7 +86,7 @@ dv_has_:
     pl: Takakazu Seki
     pms: Kowa Seki
     pt: Seki Takakazu
-    pt-br: Seki Takakazu
+    pt_br: Seki Takakazu
     ru: Такакадзу Сэки
     sgs: Takakazu Seki
     sq: Takakazu Seki
@@ -99,12 +99,12 @@ dv_has_:
     wuu: 关孝和
     yue: 關孝和
     zh: 関孝和
-    zh-cn: 关孝和
-    zh-hans: 关孝和
-    zh-hant: 關孝和
-    zh-hk: 關孝和
-    zh-sg: 关孝和
-    zh-tw: 關孝和
+    zh_cn: 关孝和
+    zh_hans: 关孝和
+    zh_hant: 關孝和
+    zh_hk: 關孝和
+    zh_sg: 关孝和
+    zh_tw: 關孝和
 ---
 # [[Takakazu_Seki]] 
 

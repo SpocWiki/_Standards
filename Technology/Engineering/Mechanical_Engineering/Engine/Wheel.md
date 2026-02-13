@@ -191,7 +191,7 @@ dv_has_:
     bar: Radl
     bcl: ruweda
     be: кола
-    be-tarask: кола
+    be_tarask: кола
     bew: kiping
     bg: колело
     bho: पहिया
@@ -212,12 +212,12 @@ dv_has_:
     cy: olwyn
     da: hjul
     de: Rad
-    de-ch: Rad
+    de_ch: Rad
     el: τροχός
     eml: róda
     en: wheel
-    en-ca: wheel
-    en-gb: wheel
+    en_ca: wheel
+    en_gb: wheel
     eo: rado
     es: rueda
     et: ratas
@@ -289,7 +289,7 @@ dv_has_:
     nan: chhia-lián
     nb: hjul
     nds: Rad
-    nds-nl: rad
+    nds_nl: rad
     ne: पाङ्ग्रा
     new: घःचा
     nl: wiel
@@ -305,7 +305,7 @@ dv_has_:
     pms: Roa
     pnb: پہیا
     pt: roda
-    pt-br: roda
+    pt_br: roda
     qu: qalla
     ro: roată
     rsk: Колєсо
@@ -329,7 +329,7 @@ dv_has_:
     so: shaag
     sq: rrota
     sr: точак
-    sr-ec: точак
+    sr_ec: точак
     sv: hjul
     sw: gurudumu
     ta: சில்லு
@@ -339,7 +339,7 @@ dv_has_:
     tok: sike
     tr: tekerlek
     tt: тәгәрмәч
-    tt-cyrl: тәгәрмәч
+    tt_cyrl: тәгәрмәч
     tw: ntwahonan
     udm: питран
     uk: колесо

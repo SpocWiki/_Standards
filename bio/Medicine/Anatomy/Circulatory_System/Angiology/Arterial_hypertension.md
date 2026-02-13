@@ -283,7 +283,7 @@ dv_has_:
     ba: Гипертония
     bar: Bluadhochdruck
     be: артэрыяльная гіпертэнзія
-    be-tarask: артэрыяльная гіпэртэнзія
+    be_tarask: артэрыяльная гіпэртэнзія
     bew: Bludrek
     bg: Артериална хипертония
     bho: हाई ब्लड प्रेशर
@@ -387,10 +387,10 @@ dv_has_:
     yue: 高血壓
     za: Hezyazsang
     zh: 高血壓
-    zh-cn: 高血压
-    zh-hans: 高血压
-    zh-hant: 高血壓
-    zh-tw: 高血壓
+    zh_cn: 高血压
+    zh_hans: 高血压
+    zh_hant: 高血壓
+    zh_tw: 高血壓
 ---
 # [[Arterial_hypertension]] 
 

@@ -70,7 +70,7 @@ dv_has_:
     azb: بی
     ba: Бей
     be: бей
-    be-tarask: Бэй
+    be_tarask: Бэй
     bg: Бей
     bn: বেগ
     bs: Beg
@@ -100,11 +100,11 @@ dv_has_:
     ja: ベグ
     ka: ბაი
     kk: Би
-    kk-arab: بىي
+    kk_arab: بىي
     kk-cn: بىي
-    kk-cyrl: Би
+    kk_cyrl: Би
     kk-kz: Би
-    kk-latn: Bï
+    kk_latn: Bï
     kk-tr: Bï
     ko: 베이
     ky: Бек
@@ -130,8 +130,8 @@ dv_has_:
     sl: beg
     sq: Bej
     sr: бег
-    sr-ec: Бег
-    sr-el: Beg
+    sr_ec: Бег
+    sr_el: Beg
     sv: bej
     tg: Бек
     th: เบย์
@@ -144,12 +144,12 @@ dv_has_:
     wuu: 贝伊
     yue: 貝伊
     zh: 贝伊
-    zh-cn: 贝伊
-    zh-hans: 贝伊
-    zh-hant: 貝伊
-    zh-hk: 貝伊
-    zh-sg: 贝伊
-    zh-tw: 貝伊
+    zh_cn: 贝伊
+    zh_hans: 贝伊
+    zh_hant: 貝伊
+    zh_hk: 貝伊
+    zh_sg: 贝伊
+    zh_tw: 貝伊
 ---
 # [[Bey]] 
 

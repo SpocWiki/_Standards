@@ -36,7 +36,7 @@ dv_has_:
     az: Kazimierz Funk
     azb: کاسیمیر فونک
     be: Казімір Функ
-    be-tarask: Казімер Функ
+    be_tarask: Казімер Функ
     bg: Кажимеж Функ
     bn: কাসিমির ফুনক
     ca: Casimir Funk
@@ -44,11 +44,11 @@ dv_has_:
     cy: Kazimierz Funk
     da: Casimir Funk
     de: Casimir Funk
-    de-ch: Casimir Funk
+    de_ch: Casimir Funk
     el: Κάζιμιρ Φουνκ
     en: Casimir Funk
-    en-ca: Casimir Funk
-    en-gb: Casimir Funk
+    en_ca: Casimir Funk
+    en_gb: Casimir Funk
     eo: Kazimierz Funk
     es: Casimir Funk
     et: Kazimierz Funk
@@ -81,7 +81,7 @@ dv_has_:
     oc: Casimir Funk
     pl: Kazimierz Funk
     pt: Casimir Funk
-    pt-br: Casimir Funk
+    pt_br: Casimir Funk
     ro: Kazimierz Funk
     ru: Казимеж Функ
     sa: कासिमिर फन्क

@@ -142,7 +142,7 @@ dv_has_:
     az: Bioloji müxtəliflik
     bas: mìnten ndi minten li ŋkɔ̀ŋ
     be: біялагічная разнастайнасць
-    be-tarask: білягічная разнастайнасьць
+    be_tarask: білягічная разнастайнасьць
     bg: Биоразнообразие
     bho: बायोडायवर्सिटी
     bn: জীববৈচিত্র্য
@@ -214,7 +214,7 @@ dv_has_:
     pnb: حیاتی تنوع
     ps: دژوندبڼو ډولونه
     pt: biodiversidade
-    pt-br: biodiversidade
+    pt_br: biodiversidade
     rm: Biodiversitad
     ro: Biodiversitate
     ru: биоразнообразие
@@ -248,7 +248,7 @@ dv_has_:
     wuu: 生物多样性
     yue: 生物多樣性
     zh: 生物多樣性
-    zh-hant: 生物多樣性
+    zh_hant: 生物多樣性
 ---
 # [[Biodiversity]] 
 

@@ -215,7 +215,7 @@ dv_has_:
     bar: Zoi
     bcl: bilang
     be: лік
-    be-tarask: лік
+    be_tarask: лік
     bg: число
     bho: नंबर
     bjn: wilangan
@@ -225,7 +225,7 @@ dv_has_:
     bs: broj
     bxr: тоо
     ca: nombre
-    cbk-zam: numero
+    cbk_zam: numero
     cho: hohltina
     chy: Hoéstonestȯtse
     ckb: ژمارە
@@ -244,8 +244,8 @@ dv_has_:
     el: αριθμός
     eml: nómmer
     en: number
-    en-ca: number
-    en-gb: number
+    en_ca: number
+    en_gb: number
     eo: nombro
     es: número
     et: arv
@@ -324,7 +324,7 @@ dv_has_:
     mnc: ᡨᠣᠨ
     mr: संख्या
     ms: nombor
-    ms-arab: نومبور
+    ms_arab: نومبور
     mwl: númaro
     my: ကိန်း
     mzn: اشمارک
@@ -349,7 +349,7 @@ dv_has_:
     pnb: نمبر
     ps: عدد
     pt: número
-    pt-br: número
+    pt_br: número
     qu: yupay
     rki: ကိန်း
     ro: număr
@@ -375,7 +375,7 @@ dv_has_:
     so: lambar
     sq: numër
     sr: број
-    sr-ec: број
+    sr_ec: број
     su: wilangan
     sv: tal
     sw: namba
@@ -392,7 +392,7 @@ dv_has_:
     tr: sayı
     ts: nomboro
     tt: сан
-    tt-cyrl: сан
+    tt_cyrl: сан
     tum: chipendero
     udm: лыд
     uk: число
@@ -413,13 +413,13 @@ dv_has_:
     yue: 數
     zgh: ⴰⵎⴹⴰⵏ
     zh: 數
-    zh-cn: 数
-    zh-hans: 数
-    zh-hant: 數
-    zh-hk: 數
-    zh-mo: 數
-    zh-sg: 数
-    zh-tw: 數
+    zh_cn: 数
+    zh_hans: 数
+    zh_hant: 數
+    zh_hk: 數
+    zh_mo: 數
+    zh_sg: 数
+    zh_tw: 數
     zu: inombolo
 ---
 ## #has_/text_of_/abstract 

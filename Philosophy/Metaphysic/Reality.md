@@ -150,7 +150,7 @@ dv_has_:
     ba: Ысынбарлыҡ
     bar: Realitet
     be: рэальнасць
-    be-tarask: рэальнасьць
+    be_tarask: рэальнасьць
     bg: Реалност
     bn: বাস্তবতা
     br: gwirvoud
@@ -165,11 +165,11 @@ dv_has_:
     cy: realiti
     da: virkelighed
     de: Realität
-    de-ch: Realität
+    de_ch: Realität
     el: πραγματικότητα
     en: reality
-    en-ca: Reality
-    en-gb: reality
+    en_ca: Reality
+    en_gb: reality
     eo: realo
     es: realidad
     et: reaalsus
@@ -236,7 +236,7 @@ dv_has_:
     pms: Realtà
     pnb: اصلیت
     pt: realidade
-    pt-br: realidade
+    pt_br: realidade
     qu: Sullull kay
     ro: realitate
     ru: действительность
@@ -260,7 +260,7 @@ dv_has_:
     tly: realəti
     tr: gerçeklik
     tt: чынбарлык
-    tt-cyrl: чынбарлык
+    tt_cyrl: чынбарлык
     udm: зэмзэлык
     uk: реальність
     ur: حقیقت

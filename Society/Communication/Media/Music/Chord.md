@@ -74,7 +74,7 @@ dv_has_:
     ast: Acorde
     az: Akkord
     be: Акорд
-    be-tarask: акорд
+    be_tarask: акорд
     bg: Акорд
     bn: স্বরসমষ্টি
     ca: acord
@@ -85,7 +85,7 @@ dv_has_:
     de: Akkord
     el: συγχορδία
     en: chord
-    en-gb: chord
+    en_gb: chord
     en-us: chord
     eo: akordo
     es: acorde
@@ -105,11 +105,11 @@ dv_has_:
     ja: 和音
     ka: აკორდი
     kk: Аккорд
-    kk-arab: اككورد
+    kk_arab: اككورد
     kk-cn: اككورد
-    kk-cyrl: Аккорд
+    kk_cyrl: Аккорд
     kk-kz: Аккорд
-    kk-latn: Akkord
+    kk_latn: Akkord
     kk-tr: Akkord
     ko: 화음
     ky: Аккорд
@@ -135,8 +135,8 @@ dv_has_:
     sms: čuâjas
     sq: Akordi
     sr: акорд
-    sr-ec: акорд
-    sr-el: akord
+    sr_ec: акорд
+    sr_el: akord
     su: Kord
     sv: ackord
     tg: Аккорд
@@ -150,12 +150,12 @@ dv_has_:
     xmf: აკორდი
     yue: 和弦
     zh: 和弦
-    zh-cn: 和弦
-    zh-hans: 和弦
-    zh-hant: 和弦
-    zh-hk: 和弦
-    zh-sg: 和弦
-    zh-tw: 和弦
+    zh_cn: 和弦
+    zh_hans: 和弦
+    zh_hant: 和弦
+    zh_hk: 和弦
+    zh_sg: 和弦
+    zh_tw: 和弦
 ---
 # [[Chord]] 
 

@@ -124,23 +124,23 @@ dv_has_:
     ast: Elia Kazan
     azb: الیا کازان
     be: Элія Казан
-    be-tarask: Элія Казан
+    be_tarask: Элія Казан
     bg: Елия Казан
     bn: এলিয়া কাজান
     bs: Elia Kazan
     ca: Elia Kazan
     ckb: ئیلیا کازان
     crh: Elia Kazan
-    crh-latn: Elia Kazan
+    crh_latn: Elia Kazan
     cs: Elia Kazan
     cy: Elia Kazan
     da: Elia Kazan
     de: Elia Kazan
-    de-ch: Elia Kazan
+    de_ch: Elia Kazan
     el: Ελία Καζάν
     en: Elia Kazan
-    en-ca: Elia Kazan
-    en-gb: Elia Kazan
+    en_ca: Elia Kazan
+    en_gb: Elia Kazan
     en-us: Elia Kazan
     eo: Elia Kazan
     es: Elia Kazan
@@ -181,7 +181,7 @@ dv_has_:
     pap: Elia Kazan
     pl: Elia Kazan
     pt: Elia Kazan
-    pt-br: Elia Kazan
+    pt_br: Elia Kazan
     qu: Elia Kazan
     ro: Elia Kazan
     ru: Элиа Казан
@@ -205,11 +205,11 @@ dv_has_:
     yo: Elia Kazan
     yue: 伊力·卡山
     zh: 伊利亚·卡赞
-    zh-hant: 伊力·卡山
-    zh-hk: 伊力·卡山
+    zh_hant: 伊力·卡山
+    zh_hk: 伊力·卡山
     zh-my: 伊力·卡山
-    zh-sg: 伊力·卡山
-    zh-tw: 伊力·卡山
+    zh_sg: 伊力·卡山
+    zh_tw: 伊力·卡山
 ---
 # [[Kazan,Elia]] 
 

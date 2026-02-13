@@ -45,14 +45,14 @@ dv_has_:
     ar: مستوى غذائي
     ast: Nivel tróficu
     be: трафічны ўзровень
-    be-tarask: трафічны ўзровень
+    be_tarask: трафічны ўзровень
     ca: nivell tròfic
     da: trofisk niveau
     de: Trophieniveau
     el: τροφικό επίπεδο
     en: trophic level
-    en-ca: Trophic level
-    en-gb: Trophic level
+    en_ca: Trophic level
+    en_gb: Trophic level
     eo: Trofa nivelo
     es: nivel trófico
     et: Troofiline tase
@@ -73,21 +73,21 @@ dv_has_:
     nn: trofisk nivå
     pl: Poziom troficzny
     pt: nível trófico
-    pt-br: Nível trófico
+    pt_br: Nível trófico
     ru: трофический уровень
     sh: Trofički nivo
     sl: trofična raven
     sr: трофички ниво
-    sr-ec: трофички ниво
+    sr_ec: трофички ниво
     sv: trofisk nivå
     uk: трофічний рівень
     vi: bậc dinh dưỡng
     wuu: 营养级
     yue: 營養級
     zh: 營養級
-    zh-hans: 营养级
-    zh-hant: 營養級
-    zh-hk: 營養級
+    zh_hans: 营养级
+    zh_hant: 營養級
+    zh_hk: 營養級
 ---
 # [[Trophic_Level]] 
 

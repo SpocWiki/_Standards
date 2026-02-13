@@ -131,7 +131,7 @@ taxon_name: Hominoidea
 Krugosvet_article_archived_: nauka_i_tehnika/biologiya/CHELOVEKOOBRAZNIE_OBEZYANI.html
 dv_has_:
   name_:
-    aeb-arab: قرد
+    aeb_arab: قرد
     af: Mensaap
     am: ጦጣ
     an: Hominoidea
@@ -140,7 +140,7 @@ dv_has_:
     ast: Hominoidea
     az: Antropomorfidlər
     be: Чалавекападобныя малпы
-    be-tarask: чалавекападобныя малпы
+    be_tarask: чалавекападобныя малпы
     bg: Човекоподобни маймуни
     bn: নরবানর
     br: Hominoidae
@@ -209,7 +209,7 @@ dv_has_:
     pl: małpy człekokształtne
     ps: ايپ (يو ډول بیزو)
     pt: Hominoidea
-    pt-br: Hominoidea
+    pt_br: Hominoidea
     ro: Hominoidea
     ru: человекообразные обезьяны
     scn: Ominoidi
@@ -238,12 +238,12 @@ dv_has_:
     yo: Àwọn Irúọmọnìyàn
     yue: 猿
     zh: 人猿总科
-    zh-cn: 人猿总科
-    zh-hans: 人猿总科
-    zh-hant: 猿
-    zh-hk: 猿
-    zh-sg: 猿
-    zh-tw: 人猿超科
+    zh_cn: 人猿总科
+    zh_hans: 人猿总科
+    zh_hant: 猿
+    zh_hk: 猿
+    zh_sg: 猿
+    zh_tw: 人猿超科
 ---
 # [[Hominidae]]
 

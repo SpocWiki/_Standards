@@ -132,7 +132,7 @@ dv_has_:
     az: Robert Börns Vudvord
     azb: رابرت وودوارد
     be: Роберт Бёрнс Вудвард
-    be-tarask: Робэрт Бэрнз Ўудўард
+    be_tarask: Робэрт Бэрнз Ўудўард
     bg: Робърт Бърнс Удуърд
     bn: রবার্ট বার্নস উডওয়ার্ড
     ca: Robert Burns Woodward
@@ -177,7 +177,7 @@ dv_has_:
     pl: Robert Woodward
     pnb: رابرٹ وڈورڈ
     pt: Robert Burns Woodward
-    pt-br: Robert Burns Woodward
+    pt_br: Robert Burns Woodward
     ro: Robert Burns Woodward
     ru: Роберт Бёрнс Вудворд
     sco: Robert Burns Woodward
@@ -199,12 +199,12 @@ dv_has_:
     yo: Robert Burns Woodward
     yue: 羅伯特·伯恩斯·伍德沃德
     zh: 罗伯特·伯恩斯·伍德沃德
-    zh-cn: 罗伯特·伯恩斯·伍德沃德
-    zh-hans: 罗伯特·伯恩斯·伍德沃德
-    zh-hant: 羅伯特·伯恩斯·伍德沃德
-    zh-hk: 羅伯特·伯恩斯·伍德沃德
-    zh-sg: 罗伯特·伯恩斯·伍德沃德
-    zh-tw: 羅伯特·伯恩斯·伍德沃德
+    zh_cn: 罗伯特·伯恩斯·伍德沃德
+    zh_hans: 罗伯特·伯恩斯·伍德沃德
+    zh_hant: 羅伯特·伯恩斯·伍德沃德
+    zh_hk: 羅伯特·伯恩斯·伍德沃德
+    zh_sg: 罗伯特·伯恩斯·伍德沃德
+    zh_tw: 羅伯特·伯恩斯·伍德沃德
 ---
 # [[Burns_Woodward,Robert]] 
 

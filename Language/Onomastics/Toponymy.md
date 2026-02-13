@@ -75,7 +75,7 @@ dv_has_:
     azb: توپونیمیکا
     ba: топонимика
     be: тапаніміка
-    be-tarask: тапаніміка
+    be_tarask: тапаніміка
     bg: Топонимия
     bho: टोपोनिमी
     bn: স্থান-নাম তত্ত্ব
@@ -87,11 +87,11 @@ dv_has_:
     cy: toponymeg
     da: toponymi
     de: Toponomastik
-    de-ch: Toponomastik
+    de_ch: Toponomastik
     el: τοπονυμία
     en: toponymy
-    en-ca: Toponymy
-    en-gb: toponymy
+    en_ca: Toponymy
+    en_gb: toponymy
     eo: loknomscienco
     es: toponimia
     et: Toponüüm
@@ -140,7 +140,7 @@ dv_has_:
     os: топонимикæ
     pl: toponimia
     pt: toponímia
-    pt-br: Toponímia
+    pt_br: Toponímia
     ro: toponimie
     ru: топонимика
     sh: Toponim
@@ -148,8 +148,8 @@ dv_has_:
     sl: toponomastika
     sq: Toponimia
     sr: Топоним
-    sr-ec: Топоним
-    sr-el: Toponim
+    sr_ec: Топоним
+    sr_el: Toponim
     su: Toponimi
     sv: ortnamnsforskning
     ta: இடப்பெயர் ஆய்வு

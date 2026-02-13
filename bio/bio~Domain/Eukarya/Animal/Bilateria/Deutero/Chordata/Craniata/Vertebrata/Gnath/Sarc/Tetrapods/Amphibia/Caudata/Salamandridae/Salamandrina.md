@@ -38,7 +38,7 @@ dv_has_:
     oc: Salamandrina
     pl: Salamandrina
     pt: Salamandrina
-    pt-br: Salamandrina
+    pt_br: Salamandrina
     ro: Salamandrina
     ru: Salamandrina
     sq: Salamandrina
@@ -48,8 +48,8 @@ dv_has_:
     vo: Salamandrina
     war: Salamandrina
     zh: 四趾螈属
-    zh-cn: 四趾螈属
-    zh-hans: 四趾螈属
+    zh_cn: 四趾螈属
+    zh_hans: 四趾螈属
 ---
 # [[Salamandrina]] 
 

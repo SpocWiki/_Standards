@@ -41,7 +41,7 @@ dv_has_:
     oc: Chactidae
     pl: Chactidae
     pt: Chactidae
-    pt-br: Chactidae
+    pt_br: Chactidae
     ro: Chactidae
     ru: Chactidae
     sq: Chactidae
@@ -51,9 +51,9 @@ dv_has_:
     vo: Chactidae
     war: Chactidae
     zh: 湿地蝎科
-    zh-cn: 湿地蝎科
-    zh-hans: 湿地蝎科
-    zh-tw: 濕地蠍科
+    zh_cn: 湿地蝎科
+    zh_hans: 湿地蝎科
+    zh_tw: 濕地蠍科
 ---
 ## Phylogeny 
 

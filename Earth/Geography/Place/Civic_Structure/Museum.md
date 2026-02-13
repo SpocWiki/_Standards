@@ -232,7 +232,7 @@ dv_has_:
     bar: Museen
     bcl: museo
     be: музей
-    be-tarask: музэй
+    be_tarask: музэй
     bew: musium
     bg: музей
     bho: म्यूजियम
@@ -257,8 +257,8 @@ dv_has_:
     el: μουσείο
     eml: muśèo
     en: museum
-    en-ca: museum
-    en-gb: museum
+    en_ca: museum
+    en_gb: museum
     en-us: museum
     eo: muzeo
     es: museo
@@ -309,7 +309,7 @@ dv_has_:
     ko: 박물관
     ks: عَجٲیِب گَر
     ku: muze
-    ku-latn: muze
+    ku_latn: muze
     kw: gwithti
     ky: музей
     la: museum
@@ -321,7 +321,7 @@ dv_has_:
     lt: muziejus
     lv: muzejs
     mai: सङ्ग्रहालय
-    map-bms: museum
+    map_bms: museum
     mg: donia
     mhr: тоштер
     mi: whare taonga
@@ -331,14 +331,14 @@ dv_has_:
     mn: музей
     mr: संग्रहालय
     ms: muzium
-    ms-arab: موزيوم
+    ms_arab: موزيوم
     mt: mużew
     my: ပြတိုက်
     mzn: موزه
     nan: phok-bu̍t-koán
     nb: museum
     nds: Museum
-    nds-nl: muzijom
+    nds_nl: muzijom
     ne: संग्रहालय
     new: मुनाछेँ
     nl: museum
@@ -356,7 +356,7 @@ dv_has_:
     pl: muzeum
     pnb: عجائب گھر
     pt: museu
-    pt-br: museu
+    pt_br: museu
     qu: musiyu
     ro: muzeu
     rsk: Музей
@@ -378,7 +378,7 @@ dv_has_:
     sms: muʹzei
     sq: muze
     sr: музеј
-    sr-ec: музеј
+    sr_ec: музеј
     su: musium
     sv: museum
     sw: makumbusho
@@ -402,14 +402,14 @@ dv_has_:
     yue: 博物館
     za: bozvuzgvanj
     zh: 博物館
-    zh-cn: 博物馆
-    zh-hans: 博物馆
-    zh-hant: 博物館
-    zh-hk: 博物館
-    zh-mo: 博物館
+    zh_cn: 博物馆
+    zh_hans: 博物馆
+    zh_hant: 博物館
+    zh_hk: 博物館
+    zh_mo: 博物館
     zh-my: 博物馆
-    zh-sg: 博物馆
-    zh-tw: 博物館
+    zh_sg: 博物馆
+    zh_tw: 博物館
   parent_class: '[[../CivicStructure]]'
   properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'
 dv_is_:

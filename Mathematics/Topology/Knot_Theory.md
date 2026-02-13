@@ -67,7 +67,7 @@ dv_has_:
   name_:
     ar: نظرية العقد
     ast: Teoría de nuedos
-    be-tarask: тэорыя вузлоў
+    be_tarask: тэорыя вузлоў
     ca: Teoria de nusos
     cs: teorie uzlů
     da: knudeteori
@@ -108,9 +108,9 @@ dv_has_:
     wuu: 纽结理论
     yue: 結理論
     zh: 紐結理論
-    zh-hans: 纽结理论
-    zh-hant: 紐結理論
-    zh-hk: 紐結理論
+    zh_hans: 纽结理论
+    zh_hant: 紐結理論
+    zh_hk: 紐結理論
 ---
 # [[Knot_Theory]] 
 

@@ -96,7 +96,7 @@ dv_has_:
     az: Rus ədəbiyyatı
     ba: Рус әҙәбиәте
     be: руская літаратура
-    be-tarask: расейская літаратура
+    be_tarask: расейская літаратура
     bg: Руска литература
     bjn: Sastra Rusia
     bn: রুশ সাহিত্য
@@ -110,7 +110,7 @@ dv_has_:
     de: russische Literatur
     el: Ρωσική λογοτεχνία
     en: Russian literature
-    en-gb: Russian literature
+    en_gb: Russian literature
     eo: ruslingva literaturo
     es: literatura rusa
     et: Vene kirjandus
@@ -152,12 +152,12 @@ dv_has_:
     sk: Ruská literatúra
     sl: ruska literatura
     sr: руска књижевност
-    sr-ec: Руска књижевност
-    sr-el: Ruska književnost
+    sr_ec: Руска књижевност
+    sr_el: Ruska književnost
     sv: ryskspråkig litteratur
     ta: உருசிய இலக்கியம்
     tg: Адабиёти русӣ
-    tg-latn: Adabijoti rusī
+    tg_latn: Adabijoti rusī
     tl: Panitikang Ruso
     tr: Rus edebiyatı
     tt: рус әдәбияты
@@ -169,12 +169,12 @@ dv_has_:
     wuu: 俄国文学
     yue: 俄文文學
     zh: 俄國文學
-    zh-cn: 俄国文学
-    zh-hans: 俄国文学
-    zh-hant: 俄國文學
-    zh-hk: 俄國文學
-    zh-sg: 俄国文学
-    zh-tw: 俄國文學
+    zh_cn: 俄国文学
+    zh_hans: 俄国文学
+    zh_hant: 俄國文學
+    zh_hk: 俄國文學
+    zh_sg: 俄国文学
+    zh_tw: 俄國文學
 ---
 # [[Russian_Literature]] 
 

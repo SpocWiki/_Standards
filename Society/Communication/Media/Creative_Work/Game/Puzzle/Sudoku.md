@@ -62,7 +62,7 @@ dv_has_:
     ast: Sudoku
     az: Sudoku
     ba: Судоку
-    be-tarask: судоку
+    be_tarask: судоку
     bg: Судоку
     br: Sudoku
     bs: Sudoku
@@ -122,7 +122,7 @@ dv_has_:
     pa: ਸੁਡੋਕੂ
     pl: Sudoku
     pt: sudoku
-    pt-br: Sudoku
+    pt_br: Sudoku
     ro: sudoku
     ru: Судоку
     sco: Sudoku
@@ -149,9 +149,9 @@ dv_has_:
     yi: סודאקו
     yue: 數獨
     zh: 數獨
-    zh-hans: 数独
-    zh-hant: 數獨
-    zh-hk: 數獨
+    zh_hans: 数独
+    zh_hant: 數獨
+    zh_hk: 數獨
 ---
 # [[Sudoku]] 
 

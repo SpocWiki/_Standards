@@ -169,7 +169,7 @@ dv_has_:
     ast: informáticu teóricu
     az: informatik
     be: спецыяліст у галіне інфарматыкі
-    be-tarask: спэцыяліст у галіне інфарматыкі
+    be_tarask: спэцыяліст у галіне інфарматыкі
     bg: Информатик
     bn: কম্পিউটার বিজ্ঞানী
     br: stlennegour
@@ -177,7 +177,7 @@ dv_has_:
     ca: informàtic
     ckb: زانای کۆمپیوتەر
     crh: kompyuter alimi
-    crh-latn: kompyuter alimi
+    crh_latn: kompyuter alimi
     cs: počítačový vědec
     cy: gwyddonydd cyfrifiadurol
     da: datalog
@@ -186,8 +186,8 @@ dv_has_:
     dsb: informatikaŕ
     el: επιστήμονας υπολογιστών
     en: computer scientist
-    en-ca: computer scientist
-    en-gb: computer scientist
+    en_ca: computer scientist
+    en_gb: computer scientist
     eo: komputosciencisto
     es: informático teórico
     et: informaatik
@@ -219,7 +219,7 @@ dv_has_:
     ko: 컴퓨터 과학자
     ks: کَمپیوٗٹَر ساینَس دان
     ku: kompûternas
-    ku-latn: kompûternas
+    ku_latn: kompûternas
     kw: amontyoriether
     lb: Informatiker
     lij: informàtico
@@ -230,7 +230,7 @@ dv_has_:
     ml: കമ്പ്യൂട്ടര് ഗവേഷകന്
     mr: संगणक-विज्ञानी
     ms: ahli sains komputer
-    ms-arab: اهلي ساءينس کومڤوتر
+    ms_arab: اهلي ساءينس کومڤوتر
     mt: xjenzat informatiku
     nb: informatiker
     nl: informaticus
@@ -240,7 +240,7 @@ dv_has_:
     os: информатикæйы специалист
     pl: informatyk
     pt: cientista de computação
-    pt-br: cientista da computação
+    pt_br: cientista da computação
     ro: informatician
     ru: специалист в области информатики
     sco: computer scientist
@@ -248,8 +248,8 @@ dv_has_:
     sl: računalnikar
     sq: shkencëtar i kompjuterit
     sr: информатичар
-    sr-ec: информатичар
-    sr-el: informatičar
+    sr_ec: информатичар
+    sr_el: informatičar
     sv: datavetare
     ta: கணினி விஞ்ஞானி
     te: కంప్యూటర్ శాస్త్రవేత్త
@@ -257,7 +257,7 @@ dv_has_:
     tl: computer scientist
     tr: bilgisayar bilimci
     tt: информатика өлкәсендә белгеч
-    tt-cyrl: информатика өлкәсендә белгеч
+    tt_cyrl: информатика өлкәсендә белгеч
     uk: інформатик
     ur: کمپیوٹر سائنس دان
     uz: Kompyuter olimi
@@ -268,14 +268,14 @@ dv_has_:
     yi: אינפארמאטיקער
     yue: 電腦科學家
     zh: 電腦科學家
-    zh-cn: 计算机科学家
-    zh-hans: 计算机科学家
-    zh-hant: 電腦科學家
-    zh-hk: 計算機科學家
-    zh-mo: 電腦科學家
+    zh_cn: 计算机科学家
+    zh_hans: 计算机科学家
+    zh_hant: 電腦科學家
+    zh_hk: 計算機科學家
+    zh_mo: 電腦科學家
     zh-my: 电脑科学家
-    zh-sg: 电脑科学家
-    zh-tw: 電腦科學家
+    zh_sg: 电脑科学家
+    zh_tw: 電腦科學家
 ---
 # [[Computer_Scientist]] 
 

@@ -103,8 +103,8 @@ dv_has_:
     ee: Sɔveda
     el: καμηλοπάρδαλη
     en: Giraffa
-    en-ca: Giraffe
-    en-gb: giraffe
+    en_ca: Giraffe
+    en_gb: giraffe
     en-us: giraffe
     eo: ĝirafo
     es: giraffa
@@ -162,7 +162,7 @@ dv_has_:
     pa: ਜਿਰਾਫ਼
     pl: żyrafa
     pt: girafa
-    pt-br: girafa
+    pt_br: girafa
     ro: girafă
     ru: жирафы
     sa: चित्रोष्ट्रः
@@ -173,7 +173,7 @@ dv_has_:
     sl: žirafa
     sq: Giraffa
     sr: жирафа
-    sr-ec: Жирафа
+    sr_ec: Жирафа
     sv: Giraffer
     sw: Twiga
     te: జిరాఫీ
@@ -188,8 +188,8 @@ dv_has_:
     wuu: 长颈鹿
     yue: 長頸鹿屬
     zh: 长颈鹿属
-    zh-cn: 长颈鹿属
-    zh-tw: 長頸鹿屬
+    zh_cn: 长颈鹿属
+    zh_tw: 長頸鹿屬
 ---
 # Giraffa
 

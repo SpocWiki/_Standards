@@ -172,7 +172,7 @@ dv_has_:
     ba: Галогендар
     ban: Halogén
     be: Галагены
-    be-tarask: галягены
+    be_tarask: галягены
     bg: Халоген
     bn: হ্যালোজেন
     bo: ཚྭ་རྒྱུ།
@@ -185,11 +185,11 @@ dv_has_:
     cy: Halogen
     da: halogener
     de: 17. Hauptgruppe des Periodensystems
-    de-ch: Halogene
+    de_ch: Halogene
     el: αλογόνα
     en: halogens
-    en-ca: Halogen
-    en-gb: group 17
+    en_ca: Halogen
+    en_gb: group 17
     eo: halogeno
     es: halógeno
     et: halogeenid
@@ -237,7 +237,7 @@ dv_has_:
     ml: ഹാലൊജനുകൾ
     mn: Галоген
     ms: kumpulan 17
-    ms-arab: کومڤولن 17
+    ms_arab: کومڤولن 17
     my: ဟေလိုဂျင်
     myv: Галогентне
     nan: Ló͘-sò͘
@@ -255,7 +255,7 @@ dv_has_:
     pl: fluorowce
     pnb: ہالوجن
     pt: halogénio
-    pt-br: halogênio
+    pt_br: halogênio
     qu: Kachichaq
     ro: halogen
     ru: галоген
@@ -271,7 +271,7 @@ dv_has_:
     so: Guruubka 17
     sq: Grupi i shtatëmbëdhjetë i elementeve kimike
     sr: халогени елемент
-    sr-ec: халогени елемент
+    sr_ec: халогени елемент
     sv: halogen
     sw: Halogeni
     ta: ஆலசன்
@@ -281,7 +281,7 @@ dv_has_:
     tl: Haloheno
     tr: halojen
     tt: галогеннар
-    tt-cyrl: галогеннар
+    tt_cyrl: галогеннар
     udm: галоген
     uk: галогени
     ur: ہیلوجن

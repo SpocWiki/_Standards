@@ -286,7 +286,7 @@ dv_has_:
     bar: Judndum
     bcl: Hudaismo
     be: іўдаізм
-    be-tarask: юдаізм
+    be_tarask: юдаізм
     bew: Yahudi (agama)
     bg: юдаизъм
     bho: यहूदी धर्म
@@ -305,7 +305,7 @@ dv_has_:
     ckb: جوویەتی
     co: Ghjudaisimu
     crh: Yeudilik
-    crh-latn: Yeudilik
+    crh_latn: Yeudilik
     cs: judaismus
     cv: Иудейсем
     cy: Iddewiaeth
@@ -315,8 +315,8 @@ dv_has_:
     dv: ޔަހޫދީދީން
     el: Ιουδαϊσμός
     en: Judaism
-    en-ca: Judaism
-    en-gb: Judaism
+    en_ca: Judaism
+    en_gb: Judaism
     en-us: Judaism
     eo: judaismo
     es: judaísmo
@@ -381,7 +381,7 @@ dv_has_:
     ks: یہوٗدیت
     ksh: Jüddedom
     ku: cihûtî
-    ku-latn: cihûtî
+    ku_latn: cihûtî
     kw: Yedhoweth
     ky: Иудаизм
     la: Religio Iudaica
@@ -420,7 +420,7 @@ dv_has_:
     nap: Ebraismò
     nb: jødedom
     nds: Jodendom
-    nds-nl: jöädendom
+    nds_nl: jöädendom
     ne: यहुदी धर्म
     new: यहुद धर्म
     nl: jodendom
@@ -442,7 +442,7 @@ dv_has_:
     pnb: یہودیت
     ps: يهوديت
     pt: Judaísmo
-    pt-br: Judaísmo
+    pt_br: Judaísmo
     qu: Hudyu iñiy
     rm: Giudaissem
     rmy: Judea
@@ -471,8 +471,8 @@ dv_has_:
     so: Yuhuuda
     sq: Judaizëm
     sr: јудаизам
-    sr-ec: јудаизам
-    sr-el: judaizam
+    sr_ec: јудаизам
+    sr_el: judaizam
     stq: Juudendum
     su: Yudaisme
     sv: judendom
@@ -490,7 +490,7 @@ dv_has_:
     tr: Yahudilik
     ts: Vuyuda
     tt: яһүд дине
-    tt-cyrl: яһүд дине
+    tt_cyrl: яһүд дине
     udm: иудаизм
     ug: يەھۇدى دىنى
     uk: юдаїзм
@@ -511,14 +511,14 @@ dv_has_:
     zea: Jood'ndom
     zgh: ⵜⵓⴷⴰⵢⵜ
     zh: 猶太教
-    zh-cn: 犹太教
-    zh-hans: 犹太教
-    zh-hant: 猶太教
-    zh-hk: 猶太教
-    zh-mo: 犹太教
+    zh_cn: 犹太教
+    zh_hans: 犹太教
+    zh_hant: 猶太教
+    zh_hk: 猶太教
+    zh_mo: 犹太教
     zh-my: 犹太教
-    zh-sg: 犹太教
-    zh-tw: 猶太教
+    zh_sg: 犹太教
+    zh_tw: 猶太教
     zu: UbuJuda
 ---
 # [[Judaism]] 

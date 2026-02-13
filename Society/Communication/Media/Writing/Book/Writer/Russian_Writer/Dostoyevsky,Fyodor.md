@@ -268,7 +268,7 @@ dv_has_:
     bar: Fjodor Michailowitsch Dostojewski
     bcl: Fëdor Dostoevskij
     be: Фёдар Міхайлавіч Дастаеўскі
-    be-tarask: Фёдар Дастаеўскі
+    be_tarask: Фёдар Дастаеўскі
     bg: Фьодор Достоевски
     bho: फिदूर दोस्तोवस्की
     bi: Fyodor Dostoyevsky
@@ -278,7 +278,7 @@ dv_has_:
     btm: Fyodor Dostoyevsky
     bxr: Фёдор Достоевский
     ca: Fiódor Dostoievski
-    cbk-zam: Fëdor Dostoevskij
+    cbk_zam: Fëdor Dostoevskij
     cdo: Fyodor Mikhaylovich Dostoyevsky
     ce: Достоевский, Фёдор Михайлович
     ceb: Fëdor Dostoevskij
@@ -290,13 +290,13 @@ dv_has_:
     cy: Fyodor Dostoievski
     da: Fjodor Dostojevskij
     de: Fjodor Michailowitsch Dostojewski
-    de-ch: Fjodor Michailowitsch Dostojewski
+    de_ch: Fjodor Michailowitsch Dostojewski
     diq: Fjodor Dostojevskij
     dsb: Fjodor Michajlowič Dostojewskij
     el: Φιόντορ Ντοστογιέφσκι
     en: Fyodor Dostoyevsky
-    en-ca: Fyodor Dostoyevsky
-    en-gb: Fyodor Dostoyevsky
+    en_ca: Fyodor Dostoyevsky
+    en_gb: Fyodor Dostoyevsky
     eo: Fjodor Dostojevskij
     es: Fiódor Dostoyevski
     et: Fjodor Dostojevski
@@ -394,7 +394,7 @@ dv_has_:
     pnb: دوستوفسکی
     ps: فيودور ميخايلوويچ داستاېفسکي
     pt: Fiódor Dostoiévski
-    pt-br: Fiódor Dostoiévski
+    pt_br: Fiódor Dostoiévski
     qu: Fedor Dostoievski
     ro: Feodor Dostoievski
     rsk: Фйодор Михайлович Достоєвски
@@ -424,7 +424,7 @@ dv_has_:
     tl: Fëdor Dostoevskij
     tr: Fyodor Dostoyevski
     tt: Федор Достоевский
-    tt-cyrl: Федор Достоевский
+    tt_cyrl: Федор Достоевский
     tum: Fyodor Dostoevsky
     tyv: Достоевский, Федор Михайлович
     uk: Достоєвський Федір Михайлович
@@ -443,9 +443,9 @@ dv_has_:
     yo: Fyodor Dostoyevsky
     yue: 杜斯托也夫斯基
     zh: 費奧多爾·米哈伊洛維奇·陀思妥耶夫斯基
-    zh-cn: 费奥多尔·米哈伊洛维奇·陀思妥耶夫斯基
-    zh-hans: 费奥多尔·米哈伊洛维奇·陀思妥耶夫斯基
-    zh-hant: 費奧多爾·米哈伊洛維奇·陀思妥耶夫斯基
+    zh_cn: 费奥多尔·米哈伊洛维奇·陀思妥耶夫斯基
+    zh_hans: 费奥多尔·米哈伊洛维奇·陀思妥耶夫斯基
+    zh_hant: 費奧多爾·米哈伊洛維奇·陀思妥耶夫斯基
 ---
 # [[Dostoyevsky,Fyodor]] 
 

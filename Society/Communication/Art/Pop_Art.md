@@ -64,7 +64,7 @@ dv_has_:
     ast: Arte pop
     az: pop-art
     be: поп-арт
-    be-tarask: поп-арт
+    be_tarask: поп-арт
     bg: Попарт
     bn: পপ শিল্প
     br: Pop Art
@@ -97,11 +97,11 @@ dv_has_:
     ja: ポップ・アート
     ka: პოპ-არტი
     kk: Поп-арт
-    kk-arab: پوپ-ارت
+    kk_arab: پوپ-ارت
     kk-cn: پوپ-ارت
-    kk-cyrl: Поп-арт
+    kk_cyrl: Поп-арт
     kk-kz: Поп-арт
-    kk-latn: Pop-art
+    kk_latn: Pop-art
     kk-tr: Pop-art
     ko: 팝 아트
     kw: Pop Art
@@ -128,8 +128,8 @@ dv_has_:
     sk: Popart
     sl: popart
     sr: поп-арт
-    sr-ec: поп-арт
-    sr-el: pop-art
+    sr_ec: поп-арт
+    sr_el: pop-art
     srn: Pop art
     stq: Pop Art
     sv: popkonst
@@ -141,12 +141,12 @@ dv_has_:
     wuu: 波普艺术
     yue: 普普藝術
     zh: 波普藝術
-    zh-cn: 波普艺术
-    zh-hans: 波普艺术
-    zh-hant: 普普藝術
-    zh-hk: 普普藝術
-    zh-sg: 波普艺术
-    zh-tw: 普普藝術
+    zh_cn: 波普艺术
+    zh_hans: 波普艺术
+    zh_hant: 普普藝術
+    zh_hk: 普普藝術
+    zh_sg: 波普艺术
+    zh_tw: 普普藝術
 ---
 # [[Pop_Art]] 
 

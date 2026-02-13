@@ -64,7 +64,7 @@ dv_has_:
     nb: endorelasjon
     nn: endorelasjon
     pt: endorrelação
-    pt-br: endorrelação
+    pt_br: endorrelação
     ru: внутреннее отношение
     sl: endorelacija
     sr: ендорелација

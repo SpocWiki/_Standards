@@ -150,7 +150,7 @@ dv_has_:
     azb: آسترید لیندقرن
     ba: Астрид Линдгрен
     be: Астрыд Ліндгрэн
-    be-tarask: Астрыд Ліндгрэн
+    be_tarask: Астрыд Ліндгрэн
     bg: Астрид Линдгрен
     bn: অস্ট্রিড লিনগ্রেন
     br: Astrid Lindgren
@@ -162,10 +162,10 @@ dv_has_:
     da: Astrid Lindgren
     de: Astrid Lindgren
     de-at: Astrid Lindgren
-    de-ch: Astrid Lindgren
+    de_ch: Astrid Lindgren
     el: Άστριντ Λίντγκρεν
-    en-ca: Astrid Lindgren
-    en-gb: Astrid Lindgren
+    en_ca: Astrid Lindgren
+    en_gb: Astrid Lindgren
     eo: Astrid Lindgren
     es: Astrid Lindgren
     et: Astrid Lindgren
@@ -223,7 +223,7 @@ dv_has_:
     pap: Astrid Lindgren
     pms: Astrid Lindgren
     pt: Astrid Lindgren
-    pt-br: Astrid Lindgren
+    pt_br: Astrid Lindgren
     rmf: Astrid Lindgren
     ro: Astrid Lindgren
     ru: Астрид Линдгрен
@@ -244,7 +244,7 @@ dv_has_:
     so: Astrid Lindgren
     sq: Astrid Lindgren
     sr: Астрид Линдгрен
-    sr-ec: Астрид Линдгрен
+    sr_ec: Астрид Линдгрен
     sv: Astrid Lindgren
     sw: Astrid Lindgren
     ta: ஆஸ்ட்ரிட் லிண்ட்கிரென்
@@ -264,7 +264,7 @@ dv_has_:
     xmf: ასტრიდ ლინდგრენი
     yue: 林格倫
     zh: 阿斯特麗德·林格倫
-    zh-hant: 阿斯特麗德·林格倫
+    zh_hant: 阿斯特麗德·林格倫
 ---
 # [[Lindgren,Astrid]] 
 

@@ -278,7 +278,7 @@ dv_has_:
     bar: Landwiatschoft
     bcl: pag-ooma
     be: сельская гаспадарка
-    be-tarask: сельская гаспадарка
+    be_tarask: сельская гаспадарка
     bew: Langbow
     bg: селско стопанство
     bho: खेती
@@ -302,7 +302,7 @@ dv_has_:
     cy: amaeth
     da: landbrug
     de: Landwirtschaft
-    de-ch: Landwirtschaft
+    de_ch: Landwirtschaft
     dga: Koɔbo
     diq: ziraet
     el: Καλλιέργεια
@@ -365,7 +365,7 @@ dv_has_:
     ko: 농업
     ks: کاشت کٲری
     ku: çandinî
-    ku-latn: kiştûkal
+    ku_latn: kiştûkal
     kw: ammeth
     ky: айыл чарба
     la: agricultura
@@ -383,7 +383,7 @@ dv_has_:
     lv: lauksaimniecība
     lzh: 農
     mai: कृषि
-    map-bms: Pertanian
+    map_bms: Pertanian
     mg: fambolena
     min: Partanian
     mk: земјоделство
@@ -392,7 +392,7 @@ dv_has_:
     mnw: ပရေင်တဵုလွဳ
     mr: शेती
     ms: pertanian
-    ms-arab: ڤرتانين
+    ms_arab: ڤرتانين
     mwl: agricultura
     my: စိုက်ပျိုးရေး
     mzn: کشاورزی
@@ -400,7 +400,7 @@ dv_has_:
     nan: lông-gia̍p
     nb: jordbruk
     nds: Bueree
-    nds-nl: laandbouw
+    nds_nl: laandbouw
     ne: खेती
     new: बुँज्या
     nia: molaza
@@ -419,7 +419,7 @@ dv_has_:
     pnb: کھیتی باڑی
     ps: کرهڼه
     pt: agricultura
-    pt-br: agricultura
+    pt_br: agricultura
     qu: allpa llamk'ay
     rki: စိုက်ပျိုးရီး
     rm: agricultura
@@ -448,7 +448,7 @@ dv_has_:
     so: beeraha
     sq: agrikulturë
     sr: пољопривреда
-    sr-ec: пољопривреда
+    sr_ec: пољопривреда
     stq: Loundwirtskaft
     su: agrikultur
     sv: jordbruk
@@ -468,7 +468,7 @@ dv_has_:
     tr: tarım
     ts: vurimi
     tt: авыл хуҗалыгы
-    tt-cyrl: авыл хуҗалыгы
+    tt_cyrl: авыл хуҗалыгы
     udm: гурт возёс
     uk: сільське господарство
     ur: زراعت
@@ -488,11 +488,11 @@ dv_has_:
     yue: 農業
     za: nungzyez
     zh: 农业
-    zh-cn: 农业
-    zh-hans: 农业
-    zh-hant: 農業
-    zh-hk: 農業
-    zh-tw: 農業
+    zh_cn: 农业
+    zh_hans: 农业
+    zh_hant: 農業
+    zh_hk: 農業
+    zh_tw: 農業
     zu: ezolimo
 ---
 # [[Agriculture]] 

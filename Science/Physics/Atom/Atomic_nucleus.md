@@ -166,7 +166,7 @@ dv_has_:
     azb: اتوم چکیردکی
     bcl: Atomikong nukleyus
     be: атамнае ядро
-    be-tarask: атамнае ядро
+    be_tarask: атамнае ядро
     bg: Атомно ядро
     bho: परमाणविक पदर्थबिद्या
     blk: နျူးကလီးယပ်
@@ -227,14 +227,14 @@ dv_has_:
     lv: atoma kodols
     lzh: 原子核
     mag: परमाणु नाभिक
-    map-bms: Nukleus
+    map_bms: Nukleus
     mhr: атом том
     mk: атомско јадро
     ml: അണുകേന്ദ്രം
     mn: Атомын цөм
     mr: अणुकेंद्र
     ms: nukleus atom
-    ms-arab: نوکليوس اتوم
+    ms_arab: نوکليوس اتوم
     my: နျူကလိယ
     nan: Goân-chú-hu̍t
     nb: atomkjerne
@@ -248,7 +248,7 @@ dv_has_:
     pl: jądro atomowe
     pnb: ایٹمی نیوکلیس
     pt: núcleo atómico
-    pt-br: núcleo atômico
+    pt_br: núcleo atômico
     qu: Iñuku huk'i
     ro: nucleu atomic
     ru: атомное ядро
@@ -262,8 +262,8 @@ dv_has_:
     sl: atomsko jedro
     sq: Bërthama e atomit
     sr: атомско језгро
-    sr-ec: атомско језгро
-    sr-el: atomsko jezgro
+    sr_ec: атомско језгро
+    sr_el: atomsko jezgro
     stq: Atomkääden
     su: Inti atom
     sv: atomkärna
@@ -274,7 +274,7 @@ dv_has_:
     tl: Atomikong nukleyus
     tr: Atom Çekirdeği
     tt: атом төше
-    tt-cyrl: атом төше
+    tt_cyrl: атом төше
     udm: атом мульы
     uk: ядро атома
     ur: جوہری نویہ

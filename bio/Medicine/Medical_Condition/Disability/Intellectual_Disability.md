@@ -142,7 +142,7 @@ dv_has_:
     az: Əqli gerilik
     ban: Cacat intelektual
     be: алігафрэнія
-    be-tarask: алігафрэнія
+    be_tarask: алігафрэнія
     bg: Интелектуална недостатъчност
     bn: বৌদ্ধিক অক্ষমতা
     bs: mentalna retardacija
@@ -152,11 +152,11 @@ dv_has_:
     cy: anabledd deallusol
     da: udviklingshæmning
     de: Geistige Behinderung
-    de-ch: Geistige Behinderung
+    de_ch: Geistige Behinderung
     el: Διανοητική αναπηρία
     en: intellectual disability
-    en-ca: intellectual disability
-    en-gb: intellectual disability
+    en_ca: intellectual disability
+    en_gb: intellectual disability
     eo: intelekta malkapablo
     es: discapacidad cognitiva
     et: vaimupuue
@@ -195,7 +195,7 @@ dv_has_:
     or: ବୌଦ୍ଧିକ ଅକ୍ଷମତା
     pl: niepełnosprawność intelektualna
     pt: deficiência intelectual
-    pt-br: retardo mental
+    pt_br: retardo mental
     ro: dizabilitate intelectuală
     ru: умственная отсталость
     rue: Інтелектуална інвалідность
@@ -208,8 +208,8 @@ dv_has_:
     so: Daaldhahe
     sq: Aftësia e kufizuar intelektuale
     sr: ментална заосталост
-    sr-ec: Ментална заосталост
-    sr-el: mentalna zaostalost
+    sr_ec: Ментална заосталост
+    sr_el: mentalna zaostalost
     sv: intellektuell funktionsnedsättning
     ta: மனவளர்ச்சிக் குறை
     te: మెంటల్ రిటార్డేషన్
@@ -221,12 +221,12 @@ dv_has_:
     wuu: 智力障碍
     yue: 弱智
     zh: 智能障礙
-    zh-cn: 智能障碍
-    zh-hans: 智能障碍
-    zh-hant: 智能障礙
-    zh-hk: 智能障礙
-    zh-sg: 智能障碍
-    zh-tw: 智能障礙
+    zh_cn: 智能障碍
+    zh_hans: 智能障碍
+    zh_hant: 智能障礙
+    zh_hk: 智能障礙
+    zh_sg: 智能障碍
+    zh_tw: 智能障礙
 ---
 # [[Intellectual_Disability]] 
 

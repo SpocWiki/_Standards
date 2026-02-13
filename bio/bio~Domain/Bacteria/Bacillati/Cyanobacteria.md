@@ -115,11 +115,11 @@ dv_has_:
     jv: Cyanobacteria
     ka: ლურჯ-მწვანე წყალმცენარეები
     kk: Цианобактериялар
-    kk-arab: تسىيانوباكتەرىييالار
+    kk_arab: تسىيانوباكتەرىييالار
     kk-cn: تسىيانوباكتەرىييالار
-    kk-cyrl: Цианобактериялар
+    kk_cyrl: Цианобактериялар
     kk-kz: Цианобактериялар
-    kk-latn: Cïanobakterïyalar
+    kk_latn: Cïanobakterïyalar
     kk-tr: Cïanobakterïyalar
     ko: 남조류
     ky: Көкжашыл балырлар
@@ -139,7 +139,7 @@ dv_has_:
     pl: sinice
     ps: ساينوباکتريا (د باکتريا يو ډول دی چې شين اسماني رنګ لري)
     pt: Cyanobacteria
-    pt-br: Cyanobacteria
+    pt_br: Cyanobacteria
     qu: Anqas añaki
     ro: algă albastră-verde
     ru: цианобактерии
@@ -153,8 +153,8 @@ dv_has_:
     so: Siyanobakteriya
     sq: Algat jeshile-blu
     sr: модрозелене бактерије
-    sr-ec: Модрозелене бактерије
-    sr-el: Modrozelene bakterije
+    sr_ec: Модрозелене бактерије
+    sr_el: Modrozelene bakterije
     sv: Cyanobakterier
     ta: நீலப்பச்சைப்பாசி
     th: สาหร่ายสีเขียวแกมน้ำเงิน
@@ -168,12 +168,12 @@ dv_has_:
     wuu: 蓝菌门
     yue: 藍菌門
     zh: 藍菌門
-    zh-cn: 蓝菌门
-    zh-hans: 蓝菌门
-    zh-hant: 藍菌門
-    zh-hk: 藍菌門
-    zh-sg: 蓝菌门
-    zh-tw: 藍菌門
+    zh_cn: 蓝菌门
+    zh_hans: 蓝菌门
+    zh_hant: 藍菌門
+    zh_hk: 藍菌門
+    zh_sg: 蓝菌门
+    zh_tw: 藍菌門
 ---
 # [[Cyanobacteria]] 
 

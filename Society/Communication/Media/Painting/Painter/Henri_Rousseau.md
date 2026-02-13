@@ -188,7 +188,7 @@ dv_has_:
     az: Anri Russo
     ba: Анри Руссо
     be: Анры Русо
-    be-tarask: Анры Русо
+    be_tarask: Анры Русо
     bg: Анри Русо
     br: Henri Rousseau
     ca: Henri Rousseau
@@ -196,11 +196,11 @@ dv_has_:
     cy: Henri Rousseau
     da: Henri Rousseau
     de: Henri Rousseau
-    de-ch: Henri Rousseau
+    de_ch: Henri Rousseau
     el: Ανρί Ρουσσώ
     en: Henri Rousseau
-    en-ca: Henri Rousseau
-    en-gb: Henri Rousseau
+    en_ca: Henri Rousseau
+    en_gb: Henri Rousseau
     eo: Henri Rousseau
     es: Henri Rousseau
     et: Henri Rousseau
@@ -237,7 +237,7 @@ dv_has_:
     pl: Henri Rousseau
     pnb: ہنری روسو
     pt: Henri Rousseau
-    pt-br: Henri Rousseau
+    pt_br: Henri Rousseau
     ro: Henri Rousseau le Douanier
     ru: Анри Руссо
     sh: Henri Rousseau
@@ -245,8 +245,8 @@ dv_has_:
     sl: Henri Rousseau
     sq: Henri Rousseau
     sr: Анри Русо
-    sr-ec: Анри Русо
-    sr-el: Anri Ruso
+    sr_ec: Анри Русо
+    sr_el: Anri Ruso
     stq: Henri Rousseau
     sv: Henri Rousseau
     th: อ็องรี รูโซ
@@ -259,12 +259,12 @@ dv_has_:
     wuu: 亨利·卢梭
     yue: 亨利·盧梭
     zh: 亨利·盧梭
-    zh-cn: 亨利·卢梭
-    zh-hans: 亨利·卢梭
-    zh-hant: 亨利·盧梭
-    zh-hk: 亨利·盧梭
-    zh-sg: 亨利·卢梭
-    zh-tw: 亨利·盧梭
+    zh_cn: 亨利·卢梭
+    zh_hans: 亨利·卢梭
+    zh_hant: 亨利·盧梭
+    zh_hk: 亨利·盧梭
+    zh_sg: 亨利·卢梭
+    zh_tw: 亨利·盧梭
     zu: Henri Rousseau
 ---
 # [[Henri_Rousseau]] 

@@ -139,7 +139,7 @@ dv_has_:
     ast: apóstol
     az: Həvarilər
     be: апостал
-    be-tarask: апостал
+    be_tarask: апостал
     bg: Апостол
     bn: প্রেরিতগণ
     br: Abostol
@@ -153,11 +153,11 @@ dv_has_:
     cy: apostol
     da: Jesu disciple
     de: Apostel
-    de-ch: Apostel
+    de_ch: Apostel
     el: Απόστολοι
     en: apostle
-    en-ca: Apostle
-    en-gb: apostle
+    en_ca: Apostle
+    en_gb: apostle
     eo: apostolo
     es: apóstol
     et: Apostel
@@ -188,7 +188,7 @@ dv_has_:
     kk: Апостол
     ko: 사도
     ku: hewarî
-    ku-latn: hewarî
+    ku_latn: hewarî
     kw: abostel
     ky: Апостолдор
     la: apostolus
@@ -216,7 +216,7 @@ dv_has_:
     pl: apostoł
     pnb: بارہ رُسُل
     pt: apóstolo
-    pt-br: Apóstolo
+    pt_br: Apóstolo
     ro: apostol
     ru: апостол
     rup: Apostol
@@ -231,8 +231,8 @@ dv_has_:
     sms: mätt’tõspäärna
     sq: Apostulli
     sr: апостол
-    sr-ec: апостол
-    sr-el: apostol
+    sr_ec: апостол
+    sr_el: apostol
     sv: kristendomens apostlar
     sw: Mitume wa Yesu
     szl: apostōł
@@ -251,8 +251,8 @@ dv_has_:
     wuu: 使徒 (基督教)
     yue: 門徒
     zh: 使徒
-    zh-hant: 使徒
-    zh-tw: 使徒 (基督教)
+    zh_hant: 使徒
+    zh_tw: 使徒 (基督教)
 ---
 # [[Apostle]] 
 

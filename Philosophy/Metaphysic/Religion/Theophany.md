@@ -43,7 +43,7 @@ dv_has_:
   name_:
     ar: ظهور إلهي
     ast: teofanía
-    be-tarask: тэафанія
+    be_tarask: тэафанія
     bg: теофания
     ca: teofania
     cs: teofanie
@@ -86,7 +86,7 @@ dv_has_:
     vi: Hiển linh
     yue: 神靈顯現
     zh: 顯靈
-    zh-tw: 顯靈
+    zh_tw: 顯靈
 ---
 # [[Theophany]] 
 

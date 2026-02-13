@@ -88,7 +88,7 @@ dv_has_:
     ka: კეფევსი
     ko: 케페우스
     ku: Kêfeus
-    ku-latn: Kêfeus
+    ku_latn: Kêfeus
     la: Cepheus
     lb: Kepheus
     nb: Kefevs

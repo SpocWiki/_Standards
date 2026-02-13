@@ -8,7 +8,7 @@ dv_has_:
     az: Kredit
     ba: Кредит
     be: крэдыт
-    be-tarask: крэдыт
+    be_tarask: крэдыт
     bg: кредит
     bjn: Karidit
     bn: ঋণ ব্যবস্থা
@@ -37,11 +37,11 @@ dv_has_:
     ja: 販売信用
     kaa: kredit
     kk: Несие
-    kk-arab: نەسىييە
+    kk_arab: نەسىييە
     kk-cn: نەسىييە
-    kk-cyrl: Несие
+    kk_cyrl: Несие
     kk-kz: Несие
-    kk-latn: Nesïye
+    kk_latn: Nesïye
     kk-tr: Nesïye
     kn: ಉದ್ದರಿ
     ko: 신용판매
@@ -81,12 +81,12 @@ dv_has_:
     yi: קרעדיט
     yue: 信用
     zh: 金融信用
-    zh-cn: 金融信用
-    zh-hans: 金融信用
-    zh-hant: 金融信用
-    zh-hk: 金融信用
-    zh-sg: 金融信用
-    zh-tw: 金融信用
+    zh_cn: 金融信用
+    zh_hans: 金融信用
+    zh_hant: 金融信用
+    zh_hk: 金融信用
+    zh_sg: 金融信用
+    zh_tw: 金融信用
 aliases:
 - credit
 - credito

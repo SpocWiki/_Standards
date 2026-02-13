@@ -161,7 +161,7 @@ dv_has_:
     bar: Sarah Bernhardt
     bcl: Sarah Bernhardt
     be: Сара Бернар
-    be-tarask: Сара Бэрнар
+    be_tarask: Сара Бэрнар
     bew: Sarah Bernhardt
     bg: Сара Бернар
     bi: Sarah Bernhardt
@@ -180,13 +180,13 @@ dv_has_:
     cy: Sarah Bernhardt
     da: Sarah Bernhardt
     de: Sarah Bernhardt
-    de-ch: Sarah Bernhardt
+    de_ch: Sarah Bernhardt
     diq: Sarah Bernhardt
     ee: Sarah Bernhardt
     el: Σάρα Μπερνάρ
     en: Sarah Bernhardt
-    en-ca: Sarah Bernhardt
-    en-gb: Sarah Bernhardt
+    en_ca: Sarah Bernhardt
+    en_gb: Sarah Bernhardt
     eo: Sarah Bernhardt
     es: Sarah Bernhardt
     et: Sarah Bernhardt
@@ -276,7 +276,7 @@ dv_has_:
     pms: Sarah Bernhardt
     pnb: سارا برنہارٹ
     pt: Sarah Bernhardt
-    pt-br: Sarah Bernhardt
+    pt_br: Sarah Bernhardt
     qu: Sarah Bernhardt
     ro: Sarah Bernhardt
     roa-tara: Sarah Bernhardt
@@ -290,7 +290,7 @@ dv_has_:
     sl: Sarah Bernhardt
     sq: Sarah Bernhardt
     sr: Сара Бернар
-    sr-ec: Сара Бернар
+    sr_ec: Сара Бернар
     srn: Sarah Bernhardt
     sv: Sarah Bernhardt
     sw: Sarah Bernhardt
@@ -320,14 +320,14 @@ dv_has_:
     yi: שרה בערנאר
     yue: 莎拉伯恩哈特
     zh: 莎拉·伯恩哈特
-    zh-cn: 莎拉·伯恩哈特
-    zh-hans: 莎拉·伯恩哈特
-    zh-hant: 莎拉·伯恩哈特
-    zh-hk: 莎拉伯恩哈特
-    zh-mo: 莎拉·伯恩哈特
+    zh_cn: 莎拉·伯恩哈特
+    zh_hans: 莎拉·伯恩哈特
+    zh_hant: 莎拉·伯恩哈特
+    zh_hk: 莎拉伯恩哈特
+    zh_mo: 莎拉·伯恩哈特
     zh-my: 莎拉·伯恩哈特
-    zh-sg: 莎拉·伯恩哈特
-    zh-tw: 莎拉·伯恩哈特
+    zh_sg: 莎拉·伯恩哈特
+    zh_tw: 莎拉·伯恩哈特
 ---
 # [[Bernhardt,Sarah]] 
 

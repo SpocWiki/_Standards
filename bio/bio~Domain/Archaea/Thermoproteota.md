@@ -29,7 +29,7 @@ dv_has_:
     oc: Thermoproteota
     pl: Thermoproteota
     pt: Thermoproteota
-    pt-br: Thermoproteota
+    pt_br: Thermoproteota
     ru: Thermoproteota
     sl: Thermoproteota
     vo: Thermoproteota

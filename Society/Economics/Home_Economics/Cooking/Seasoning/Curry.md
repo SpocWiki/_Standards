@@ -94,7 +94,7 @@ dv_has_:
     az: Karri
     ba: Карри (ризыҡ)
     be: Кары
-    be-tarask: кары
+    be_tarask: кары
     bg: Къри
     bn: তরকারি
     br: Kari
@@ -143,7 +143,7 @@ dv_has_:
     mk: кари
     ml: കൂട്ടാൻ
     ms: kari
-    ms-arab: کاري
+    ms_arab: کاري
     my: ဟင်း
     nan: Ka-lí
     nb: curry
@@ -170,7 +170,7 @@ dv_has_:
     ta: கறி
     te: కూర
     tg: Curry
-    tg-latn: Curry
+    tg_latn: Curry
     th: แกง
     tl: Kari
     tr: köri
@@ -186,12 +186,12 @@ dv_has_:
     yue: 咖喱
     za: Gahleij
     zh: 咖哩
-    zh-cn: 咖哩
-    zh-hans: 咖哩
-    zh-hant: 咖哩
-    zh-hk: 咖喱
-    zh-sg: 咖哩
-    zh-tw: 咖哩
+    zh_cn: 咖哩
+    zh_hans: 咖哩
+    zh_hant: 咖哩
+    zh_hk: 咖喱
+    zh_sg: 咖哩
+    zh_tw: 咖哩
     zu: UCurry
 ---
 # [[Curry]] 

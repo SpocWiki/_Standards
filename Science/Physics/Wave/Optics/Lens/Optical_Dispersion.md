@@ -81,7 +81,7 @@ dv_has_:
     ast: Dispersión refractiva
     az: İşığın dispersiyası
     be: Дысперсія святла
-    be-tarask: дыспэрсія сьвятла
+    be_tarask: дыспэрсія сьвятла
     bg: Дисперсия
     bn: বিচ্ছুরণ (আলোকবিজ্ঞান)
     ca: Dispersió òptica
@@ -92,8 +92,8 @@ dv_has_:
     de: Dispersion
     el: Διασκεδασμός
     en: optical dispersion
-    en-ca: Dispersion
-    en-gb: Dispersion
+    en_ca: Dispersion
+    en_gb: Dispersion
     eo: varianco
     es: dispersión refractiva
     et: Dispersioon
@@ -113,11 +113,11 @@ dv_has_:
     ja: 分散
     ka: სინათლის დისპერსია
     kk: Жарық дисперсиясы
-    kk-arab: جارىق دىيسپەرسىيياسى
+    kk_arab: جارىق دىيسپەرسىيياسى
     kk-cn: جارىق دىيسپەرسىيياسى
-    kk-cyrl: Жарық дисперсиясы
+    kk_cyrl: Жарық дисперсиясы
     kk-kz: Жарық дисперсиясы
-    kk-latn: Jarıq dïspersïyası
+    kk_latn: Jarıq dïspersïyası
     kk-tr: Jarıq dïspersïyası
     ko: 분산
     lt: Šviesos dispersija
@@ -131,7 +131,7 @@ dv_has_:
     pa: ਖਿੰਡਾਅ
     pl: rozszczepienie światła
     pt: dispersão
-    pt-br: Dispersão
+    pt_br: Dispersão
     ro: dispersie optică
     ru: дисперсия света
     sh: Disperzija (optika)
@@ -139,8 +139,8 @@ dv_has_:
     sl: disperzija
     sq: Dispersion
     sr: дисперзија
-    sr-ec: Дисперзија
-    sr-el: Disperzija
+    sr_ec: Дисперзија
+    sr_el: Disperzija
     sv: dispersion
     ta: நிறப்பிரிகை
     th: การกระจาย (ทัศนศาสตร์)
@@ -151,12 +151,12 @@ dv_has_:
     wuu: 色散 (光学)
     yue: 色散
     zh: 光的色散
-    zh-cn: 光的色散
-    zh-hans: 光的色散
-    zh-hant: 光的色散
-    zh-hk: 光的色散
-    zh-sg: 光的色散
-    zh-tw: 光的色散
+    zh_cn: 光的色散
+    zh_hans: 光的色散
+    zh_hant: 光的色散
+    zh_hk: 光的色散
+    zh_sg: 光的色散
+    zh_tw: 光的色散
 ---
 # [[Optical_Dispersion]] 
 

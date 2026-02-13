@@ -85,7 +85,7 @@ dv_has_:
     az: Steqozavrlar
     ban: Stegosaurus
     be: Стэгазаўры
-    be-tarask: стэгазаўр
+    be_tarask: стэгазаўр
     bg: стегозаври
     bn: স্টেগোসরাস
     br: Stegosaor
@@ -99,8 +99,8 @@ dv_has_:
     de: Stegosaurus
     el: Στεγόσαυρος
     en: Stegosaurus
-    en-ca: Stegosaurus
-    en-gb: Stegosaurus
+    en_ca: Stegosaurus
+    en_gb: Stegosaurus
     en-us: Stegosaurus
     eo: Stegosaŭro
     es: Stegosaurus
@@ -142,7 +142,7 @@ dv_has_:
     pl: Stegozaur
     ps: ستګوسور
     pt: Estegossauro
-    pt-br: Estegossauro
+    pt_br: Estegossauro
     ro: Stegosaurus
     ru: Стегозавры
     sco: Stegosaurus
@@ -163,9 +163,9 @@ dv_has_:
     wuu: 剑龙属
     yue: 劍龍
     zh: 剑龙属
-    zh-cn: 剑龙属
-    zh-hans: 剑龙属
-    zh-tw: 劍龍屬
+    zh_cn: 剑龙属
+    zh_hans: 剑龙属
+    zh_tw: 劍龍屬
 ---
 # [[Stegosaurus]] 
 

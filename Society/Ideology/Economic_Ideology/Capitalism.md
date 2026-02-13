@@ -186,7 +186,7 @@ dv_has_:
     ba: Капитализм
     bcl: Kapitalismo
     be: капіталізм
-    be-tarask: капіталізм
+    be_tarask: капіталізм
     bew: Kepercukongan
     bg: Капитализъм
     bho: पूँजीवाद
@@ -209,8 +209,8 @@ dv_has_:
     diq: Kapitalizm
     el: Καπιταλισμός
     en: capitalism
-    en-ca: capitalism
-    en-gb: capitalism
+    en_ca: capitalism
+    en_gb: capitalism
     en-us: capitalism
     eo: kapitalismo
     es: capitalismo
@@ -279,7 +279,7 @@ dv_has_:
     nan: Chu-pún-chú-gī
     nb: kapitalisme
     nds: Kapitalismus
-    nds-nl: kapitalisme
+    nds_nl: kapitalisme
     ne: पूँजीवाद
     new: पूंजीवाद
     nl: kapitalisme
@@ -294,7 +294,7 @@ dv_has_:
     pnb: کیپیٹلزم
     ps: پانګولي
     pt: capitalismo
-    pt-br: Capitalismo
+    pt_br: Capitalismo
     qu: Kapitalismu
     ro: capitalism
     ru: капитализм
@@ -341,14 +341,14 @@ dv_has_:
     yue: 資本主義
     za: swhbwnj cujyi
     zh: 资本主义
-    zh-cn: 资本主义
-    zh-hans: 资本主义
-    zh-hant: 資本主義
-    zh-hk: 資本主義
-    zh-mo: 資本主義
+    zh_cn: 资本主义
+    zh_hans: 资本主义
+    zh_hant: 資本主義
+    zh_hk: 資本主義
+    zh_mo: 資本主義
     zh-my: 资本主义
-    zh-sg: 资本主义
-    zh-tw: 資本主義
+    zh_sg: 资本主义
+    zh_tw: 資本主義
     zu: UbuGombelakwesakhe
 ---
 # [[Capitalism]] 

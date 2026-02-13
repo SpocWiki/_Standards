@@ -123,7 +123,7 @@ dv_has_:
     az: Pyer de Kuberten
     ba: Пьер де Кубертен
     be: П'ер дэ Кубертэн
-    be-tarask: П’ер дэ Кубэртэн
+    be_tarask: П’ер дэ Кубэртэн
     bg: Пиер дьо Кубертен
     bn: পিয়ের দ্য কুবেরত্যাঁ
     br: Pierre de Coubertin
@@ -137,8 +137,8 @@ dv_has_:
     diq: Pierre de Coubertin
     el: Πιερ ντε Κουμπερτέν
     en: Pierre de Coubertin
-    en-ca: Pierre de Coubertin
-    en-gb: Pierre de Coubertin
+    en_ca: Pierre de Coubertin
+    en_gb: Pierre de Coubertin
     eo: Pierre de Coubertin
     es: Pierre de Coubertin
     et: Pierre de Coubertin
@@ -190,7 +190,7 @@ dv_has_:
     pl: Pierre de Coubertin
     ps: د کوبیرته پیر بارو
     pt: Pierre de Coubertin
-    pt-br: Pierre de Coubertin
+    pt_br: Pierre de Coubertin
     ro: Pierre de Coubertin
     ru: Пьер де Кубертен
     sah: Пьер де Кубертен
@@ -200,7 +200,7 @@ dv_has_:
     sl: Pierre de Coubertin
     sq: Pierre de Coubertin
     sr: Пјер де Кубертен
-    sr-ec: Пјер де Кубертен
+    sr_ec: Пјер де Кубертен
     sv: Pierre de Coubertin
     ta: பியர் தெ குபர்த்தென்
     te: పియర్ డి కూబెర్టిన్

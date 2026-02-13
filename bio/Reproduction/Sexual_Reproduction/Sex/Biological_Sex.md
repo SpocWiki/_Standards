@@ -179,7 +179,7 @@ dv_has_:
     ba: енес
     bar: Gschlecht
     be: пол
-    be-tarask: плоць
+    be_tarask: плоць
     bg: пол
     bn: জৈবিক লিঙ্গ
     bo: ཆགས།
@@ -198,8 +198,8 @@ dv_has_:
     din: ŋuɔ̈tkathɔn
     el: φύλο
     en: sex
-    en-ca: sex
-    en-gb: sex
+    en_ca: sex
+    en_gb: sex
     en-us: sex
     eo: sekso
     es: sexo
@@ -242,7 +242,7 @@ dv_has_:
     kn: ಲಿಂಗ
     ko: 생물학적 성별
     ku: zayend
-    ku-latn: zayend
+    ku_latn: zayend
     kw: reydh
     ky: жыныс
     la: sexus
@@ -275,7 +275,7 @@ dv_has_:
     pnb: جنس
     ps: جنس
     pt: sexo
-    pt-br: sexo
+    pt_br: sexo
     ro: sex
     ru: пол особи
     sa: मैथुनम्
@@ -292,8 +292,8 @@ dv_has_:
     so: galmo
     sq: gjinia
     sr: пол
-    sr-ec: пол
-    sr-el: pol
+    sr_ec: пол
+    sr_el: pol
     srn: fistisani
     st: Ho kopanela diphate
     sv: kön
@@ -305,7 +305,7 @@ dv_has_:
     tl: biyolohikal na kasarian
     tr: biyolojik cinsiyet
     tt: җенес
-    tt-cyrl: җенес
+    tt_cyrl: җенес
     tw: Ɔbarima ne ɔbea nna
     udm: выжы
     uk: стать організмів
@@ -320,11 +320,11 @@ dv_has_:
     yi: מין
     yue: 性
     zh: 生理性別
-    zh-cn: 性别
-    zh-hans: 性别
-    zh-hant: 生理性別
-    zh-hk: 性別
-    zh-tw: 性別
+    zh_cn: 性别
+    zh_hans: 性别
+    zh_hant: 生理性別
+    zh_hk: 性別
+    zh_tw: 性別
     zu: ucansi
 ---
 # [[Biological_Sex]] 

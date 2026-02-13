@@ -151,7 +151,7 @@ dv_has_:
     ba: ферменттар
     bcl: ensima
     be: ферменты
-    be-tarask: фэрмэнты
+    be_tarask: фэрмэнты
     bg: ензим
     bho: एंजाइम
     blk: အဲဉ်းသုဲင်
@@ -168,11 +168,11 @@ dv_has_:
     cy: ensym
     da: enzym
     de: Enzym
-    de-ch: Enzym
+    de_ch: Enzym
     el: ένζυμο
     en: enzyme
-    en-ca: enzyme
-    en-gb: enzyme
+    en_ca: enzyme
+    en_gb: enzyme
     eo: enzimo
     es: enzima
     et: ensüüm
@@ -249,7 +249,7 @@ dv_has_:
     pnb: انزائم
     ps: انزايم
     pt: enzima
-    pt-br: enzima
+    pt_br: enzima
     qu: huptana
     rki: အင်ဇိုင်း
     ro: enzimă
@@ -291,7 +291,7 @@ dv_has_:
     yi: ענזים
     yue: 酵素
     zh: 酶
-    zh-hans: 酵素
+    zh_hans: 酵素
     zu: INzwayiza
 ---
 # [[Enzyme]] 

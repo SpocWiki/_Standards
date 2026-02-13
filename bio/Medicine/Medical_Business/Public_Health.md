@@ -156,7 +156,7 @@ dv_has_:
     ast: Salú pública
     az: sosial gigiyena və səhiyyənin təşkili
     be: сацыяльная гігіена і арганізацыя аховы здароўя
-    be-tarask: грамадзкае здароўе
+    be_tarask: грамадзкае здароўе
     bg: Обществено здраве
     bjn: Kawigasan awam
     bn: জনস্বাস্থ্য
@@ -199,7 +199,7 @@ dv_has_:
     mi: hauora tūmatanui
     mk: здравство
     ms: kesihatan awam
-    ms-arab: کصيحتن عوام
+    ms_arab: کصيحتن عوام
     my: ပြည်သူ့ကျန်းမာရေး
     nan: Kong-kiōng ōe-seng
     nb: folkehelse
@@ -210,7 +210,7 @@ dv_has_:
     pnb: عوامی صحت
     ps: عامه روغتیا
     pt: saúde pública
-    pt-br: saúde pública
+    pt_br: saúde pública
     rki: ပြည်သူ့ကျန်းမာရီး
     ro: sănătate publică
     ru: социальная гигиена и организация здравоохранения
@@ -224,8 +224,8 @@ dv_has_:
     sms: meertiõrvâsvuõtt
     sq: Shëndeti publik
     sr: јавно здравље
-    sr-ec: Здравство
-    sr-el: Zdravstvo
+    sr_ec: Здравство
+    sr_el: Zdravstvo
     sv: folkhälsa
     ta: பொது நலம்
     te: ప్రజారోగ్యం
@@ -243,12 +243,12 @@ dv_has_:
     yue: 公共衞生
     za: goenggungh veiswngh
     zh: 公共衛生
-    zh-cn: 公共卫生
-    zh-hans: 公共卫生
-    zh-hant: 公共衛生
-    zh-hk: 公共衛生
-    zh-sg: 公共卫生
-    zh-tw: 公共衛生
+    zh_cn: 公共卫生
+    zh_hans: 公共卫生
+    zh_hant: 公共衛生
+    zh_hk: 公共衛生
+    zh_sg: 公共卫生
+    zh_tw: 公共衛生
 ---
 # [[Public_Health]] 
 

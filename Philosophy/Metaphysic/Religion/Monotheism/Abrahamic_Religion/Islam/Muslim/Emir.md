@@ -81,7 +81,7 @@ dv_has_:
     ba: Әмир (титул)
     bcl: Emir
     be: эмір
-    be-tarask: эмір
+    be_tarask: эмір
     bg: Емир
     bn: আমির
     bs: Emir
@@ -93,8 +93,8 @@ dv_has_:
     de: Emir
     el: εμίρης
     en: Amir
-    en-ca: Emir
-    en-gb: Emir
+    en_ca: Emir
+    en_gb: Emir
     eo: emiro
     es: emir
     et: emiir
@@ -118,11 +118,11 @@ dv_has_:
     ja: アミール
     ka: ამირა
     kk: Әмір
-    kk-arab: ٴامىر
+    kk_arab: ٴامىر
     kk-cn: ٴامىر
-    kk-cyrl: Әмір
+    kk_cyrl: Әмір
     kk-kz: Әмір
-    kk-latn: Ämir
+    kk_latn: Ämir
     kk-tr: Ämir
     ko: 아미르
     ku: mîr
@@ -147,7 +147,7 @@ dv_has_:
     pnb: امیر
     ps: امير
     pt: emir
-    pt-br: Emir
+    pt_br: Emir
     ro: emir
     ru: эмир
     sd: امير
@@ -159,8 +159,8 @@ dv_has_:
     sn: Amire
     sq: Emiri
     sr: емир
-    sr-ec: емир
-    sr-el: emir
+    sr_ec: емир
+    sr_el: emir
     sv: emir
     sw: Amiri
     tg: Амир
@@ -175,12 +175,12 @@ dv_has_:
     yue: 埃米爾
     zgh: ⴰⴳⵍⴷⵓⵏ
     zh: 埃米爾
-    zh-cn: 埃米尔
-    zh-hans: 埃米尔
-    zh-hant: 埃米爾
-    zh-hk: 埃米爾
-    zh-sg: 埃米尔
-    zh-tw: 埃米爾
+    zh_cn: 埃米尔
+    zh_hans: 埃米尔
+    zh_hant: 埃米爾
+    zh_hk: 埃米爾
+    zh_sg: 埃米尔
+    zh_tw: 埃米爾
 ---
 # [[Emir]] 
 

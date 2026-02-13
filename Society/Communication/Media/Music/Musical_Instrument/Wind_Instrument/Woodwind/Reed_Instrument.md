@@ -26,7 +26,7 @@ has_id_wikidata: Q3152896
 dv_has_:
   name_:
     ar: آلة هوائية لسانية
-    be-tarask: язычковы аэрафон
+    be_tarask: язычковы аэрафон
     ca: instrument de vent amb llengüeta
     de: Rohrblattinstrument
     en: reed aerophone
@@ -43,7 +43,7 @@ dv_has_:
     sl: aerofon z jezičkom
     uk: Язичковий аерофон
     zh: 簧振气鸣乐器
-    zh-hant: 簧振氣鳴樂器
+    zh_hant: 簧振氣鳴樂器
 ---
 ## #has_/text_of_/abstract 
 

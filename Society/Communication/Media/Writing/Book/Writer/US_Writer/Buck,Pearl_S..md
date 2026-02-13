@@ -167,7 +167,7 @@ dv_has_:
     azb: پرل باک
     ba: Перл Бак
     be: Перл Бак
-    be-tarask: Пэрл Бак
+    be_tarask: Пэрл Бак
     bg: Пърл Бък
     bn: পার্ল এস. বাক
     br: Pearl Buck
@@ -182,8 +182,8 @@ dv_has_:
     ee: Pearl Buck
     el: Περλ Μπακ
     en: Pearl S. Buck
-    en-ca: Pearl S. Buck
-    en-gb: Pearl S. Buck
+    en_ca: Pearl S. Buck
+    en_gb: Pearl S. Buck
     eo: Pearl S. Buck
     es: Pearl S. Buck
     et: Pearl S. Buck
@@ -245,7 +245,7 @@ dv_has_:
     pl: Pearl Buck
     pnb: پرل ایس بک
     pt: Pearl S. Buck
-    pt-br: Pearl S. Buck
+    pt_br: Pearl S. Buck
     qu: Pearl S. Buck
     ro: Pearl S. Buck
     ru: Перл Бак
@@ -256,8 +256,8 @@ dv_has_:
     sl: Pearl S. Buck
     sq: Pearl S. Buck
     sr: Перл Бак
-    sr-ec: Перл Бак
-    sr-el: Perl Bak
+    sr_ec: Перл Бак
+    sr_el: Perl Bak
     sv: Pearl Buck
     sw: Pearl S. Buck
     ta: பெர்ல் பக்

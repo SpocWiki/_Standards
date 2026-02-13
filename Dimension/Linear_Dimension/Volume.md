@@ -154,7 +154,7 @@ dv_has_:
     ba: күләм
     bcl: bolyum
     be: аб'ём
-    be-tarask: аб’ём
+    be_tarask: аб’ём
     bg: обем
     bho: आयतन
     bn: আয়তন
@@ -224,7 +224,7 @@ dv_has_:
     mn: эзлэхүүн
     mr: आकारमान
     ms: isi padu
-    ms-arab: ايسي ڤادو
+    ms_arab: ايسي ڤادو
     mt: volum
     my: ထုထည်
     nan: thé-chek
@@ -238,7 +238,7 @@ dv_has_:
     pl: objętość
     pnb: حجم
     pt: volume
-    pt-br: volume
+    pt_br: volume
     qu: p'ulin
     ro: volum
     rsk: волумен
@@ -267,7 +267,7 @@ dv_has_:
     tr: hacim
     trv: ti-ci
     tt: күләм
-    tt-cyrl: күләм
+    tt_cyrl: күләм
     udm: объём
     uk: об'єм
     ur: حجم
@@ -278,11 +278,11 @@ dv_has_:
     wuu: 体积
     yue: 體積
     zh: 体积
-    zh-cn: 体积
-    zh-hans: 体积
-    zh-hant: 體積
-    zh-hk: 體積
-    zh-tw: 體積
+    zh_cn: 体积
+    zh_hans: 体积
+    zh_hant: 體積
+    zh_hk: 體積
+    zh_tw: 體積
 ---
 # [[Volume]] 
 

@@ -167,7 +167,7 @@ dv_has_:
     ban: Khatulistiwa
     bcl: Ekwador (heograpiya)
     be: экватар
-    be-tarask: экватар
+    be_tarask: экватар
     bew: Katulistiwa
     bg: Екватор
     bho: बिसुवत रेखा
@@ -190,8 +190,8 @@ dv_has_:
     dtp: Khatulistiwa
     el: Ισημερινός
     en: equator
-    en-ca: Equator
-    en-gb: equator
+    en_ca: Equator
+    en_gb: equator
     eo: ekvatoro
     es: ecuador terrestre
     et: ekvaator
@@ -245,7 +245,7 @@ dv_has_:
     lv: ekvators
     lzh: 赤道
     mai: भूमध्य रेखा
-    map-bms: Khatulistiwa
+    map_bms: Khatulistiwa
     mdf: Экваторсь
     mg: Fehibe
     min: Khatulistiwa
@@ -254,7 +254,7 @@ dv_has_:
     mn: Экватор
     mr: विषुववृत्त
     ms: Khatulistiwa
-    ms-arab: خط الاستواء
+    ms_arab: خط الاستواء
     my: အီကွေတာ
     nan: Chhiah-tō
     nb: ekvator
@@ -293,7 +293,7 @@ dv_has_:
     so: Dhulbare
     sq: Ekuatori
     sr: екватор
-    sr-ec: екватор
+    sr_ec: екватор
     stq: Äquator
     su: Hatulistiwa
     sv: ekvator
@@ -322,9 +322,9 @@ dv_has_:
     yi: עקוואטאר
     yue: 赤道
     zh: 赤道
-    zh-cn: 赤道
-    zh-hans: 赤道
-    zh-hant: 赤道
+    zh_cn: 赤道
+    zh_hans: 赤道
+    zh_hant: 赤道
 ---
 # [[Equator]] 
 

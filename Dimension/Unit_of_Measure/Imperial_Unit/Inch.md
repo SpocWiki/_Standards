@@ -160,7 +160,7 @@ dv_has_:
     azb: دۆیم (اؤلچو بیریمی)
     ba: дюйм
     be: цаля
-    be-tarask: цаля
+    be_tarask: цаля
     bg: инч
     bn: ইঞ্চি
     br: meutad
@@ -214,7 +214,7 @@ dv_has_:
     mn: инч
     mr: इंच
     ms: inci
-    ms-arab: اينچي
+    ms_arab: اينچي
     mt: pulzier
     my: လက်မ
     nb: tomme
@@ -227,7 +227,7 @@ dv_has_:
     pnb: انچ
     ps: اينچ
     pt: polegada
-    pt-br: polegada
+    pt_br: polegada
     ro: țol
     rsk: Цол
     ru: дюйм
@@ -257,14 +257,14 @@ dv_has_:
     xmf: დუიმი
     yue: 吋
     zh: 英寸
-    zh-cn: 英寸
-    zh-hans: 英寸
-    zh-hant: 英吋
-    zh-hk: 吋
-    zh-mo: 吋
+    zh_cn: 英寸
+    zh_hans: 英寸
+    zh_hant: 英吋
+    zh_hk: 吋
+    zh_mo: 吋
     zh-my: 吋
-    zh-sg: 吋
-    zh-tw: 英吋
+    zh_sg: 吋
+    zh_tw: 英吋
 ---
 # [[Inch]] 
 

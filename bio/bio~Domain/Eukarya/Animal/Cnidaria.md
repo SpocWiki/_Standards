@@ -104,7 +104,7 @@ dv_has_:
     az: Dalayıcılar
     ba: Сағыусылар
     be: Жыгучыя
-    be-tarask: кнідарыі
+    be_tarask: кнідарыі
     bg: мешести
     bn: নিডারিয়া
     br: Knidaried
@@ -119,8 +119,8 @@ dv_has_:
     diq: Knidıni
     el: Κνιδόζωα
     en: Cnidaria
-    en-ca: Cnidaria
-    en-gb: Cnidaria
+    en_ca: Cnidaria
+    en_gb: Cnidaria
     eo: Knidulo
     es: Cnidaria
     et: Ainuõõssed
@@ -170,7 +170,7 @@ dv_has_:
     pl: parzydełkowce
     pnb: ڈنگنے
     pt: cnidários
-    pt-br: Cnidários
+    pt_br: Cnidários
     qu: K'arachiq
     ro: Cnidaria
     ru: стрекающие
@@ -201,9 +201,9 @@ dv_has_:
     yue: 刺胞動物
     zea: Cnidaria
     zh: 刺胞動物門
-    zh-cn: 刺胞动物门
-    zh-hans: 刺胞动物门
-    zh-tw: 刺胞動物門
+    zh_cn: 刺胞动物门
+    zh_hans: 刺胞动物门
+    zh_tw: 刺胞動物門
 ---
 # [[Cnidaria]]
 

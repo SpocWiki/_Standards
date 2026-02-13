@@ -186,7 +186,7 @@ dv_has_:
     ban: Menit
     bcl: Minuto
     be: хвіліна
-    be-tarask: хвіліна
+    be_tarask: хвіліна
     bew: Menit
     bg: минута
     bn: মিনিট
@@ -202,13 +202,13 @@ dv_has_:
     cy: munud
     da: minut
     de: Minute
-    de-ch: Minute
+    de_ch: Minute
     diq: Deqiqe
     el: λεπτό
     eml: Minùt
     en: minute
-    en-ca: Minute
-    en-gb: minute
+    en_ca: Minute
+    en_gb: minute
     eo: minuto
     es: minuto
     et: minut
@@ -252,7 +252,7 @@ dv_has_:
     ks: مِنَٹ
     ksh: Menutt
     ku: deqîqe
-    ku-latn: deqîqe
+    ku_latn: deqîqe
     kw: mynysen
     ky: мүнөт
     la: minutum
@@ -271,7 +271,7 @@ dv_has_:
     mnc: ᡶᡠᠸᡝᠨ
     mr: मिनिट
     ms: minit
-    ms-arab: مينيت
+    ms_arab: مينيت
     mt: minuta
     my: မိနစ်
     mzn: دَقه
@@ -295,7 +295,7 @@ dv_has_:
     pnb: منٹ
     ps: دقیقه
     pt: minuto
-    pt-br: minuto(s)
+    pt_br: minuto(s)
     qu: Minutu
     ro: minut
     rsk: Минута
@@ -316,7 +316,7 @@ dv_has_:
     so: Daqiiqad
     sq: minuta
     sr: минут
-    sr-ec: минут
+    sr_ec: минут
     stq: Minute
     su: Menit
     sv: minut
@@ -330,7 +330,7 @@ dv_has_:
     tok: tenpo Minu
     tr: dakika
     tt: минут
-    tt-cyrl: минут
+    tt_cyrl: минут
     ug: مىنۇت
     uk: хвилина
     ur: منٹ
@@ -346,11 +346,11 @@ dv_has_:
     yue: 分鐘
     za: faencung
     zh: 分钟
-    zh-cn: 分钟
-    zh-hans: 分钟
-    zh-hant: 分鐘
-    zh-hk: 分鐘
-    zh-tw: 分鐘
+    zh_cn: 分钟
+    zh_hans: 分钟
+    zh_hant: 分鐘
+    zh_hk: 分鐘
+    zh_tw: 分鐘
 ---
 # [[Unit~Minute]] 
 

@@ -6,8 +6,8 @@ dv_has_:
     ace: Tunisia
     ady: Тунис
     aeb: تونس
-    aeb-arab: تونس
-    aeb-latn: tounes
+    aeb_arab: تونس
+    aeb_latn: tounes
     af: Tunisië
     am: ቱኒዚያ
     ami: Tunisia
@@ -30,7 +30,7 @@ dv_has_:
     bar: Tunesien
     bcl: Tunisya
     be: Туніс
-    be-tarask: Туніс
+    be_tarask: Туніс
     bew: Tunis
     bg: Тунис
     bho: ट्यूनीशिया
@@ -45,14 +45,14 @@ dv_has_:
     bug: Tounes
     bxr: Тунис
     ca: Tunísia
-    cbk-zam: Túnez
+    cbk_zam: Túnez
     cdo: Tunisia
     ce: Тунис
     ceb: Tunisia
     ckb: توونس
     co: Tunisia
     crh: Tunis
-    crh-latn: Tunis
+    crh_latn: Tunis
     cs: Tunisko
     csb: Tunicia
     cv: Тунис
@@ -61,7 +61,7 @@ dv_has_:
     dag: Tunisia
     de: Tunesien
     de-at: Tunesien
-    de-ch: Tunesien
+    de_ch: Tunesien
     diq: Tunıs
     dsb: Tuneziska
     dtp: Tunisia
@@ -71,8 +71,8 @@ dv_has_:
     el: Τυνησία
     eml: Tünisia
     en: Tunisia
-    en-ca: Tunisia
-    en-gb: Tunisia
+    en_ca: Tunisia
+    en_gb: Tunisia
     en-us: Tunisia
     eo: Tunizio
     es: Túnez
@@ -184,7 +184,7 @@ dv_has_:
     nan: Tunisia
     nb: Tunisia
     nds: Tunesien
-    nds-nl: Tunesie
+    nds_nl: Tunesie
     ne: ट्युनिसिया
     new: ट्युनिसिया
     nl: Tunesië
@@ -211,7 +211,7 @@ dv_has_:
     pnt: Τυνησίαν
     ps: تونس
     pt: Tunísia
-    pt-br: Tunísia
+    pt_br: Tunísia
     qu: Tunisya
     rm: Tunesia
     rmy: Tunisiya
@@ -242,8 +242,8 @@ dv_has_:
     so: Tunisiya
     sq: Tunizia
     sr: Тунис
-    sr-ec: Тунис
-    sr-el: Tunis
+    sr_ec: Тунис
+    sr_el: Tunis
     ss: IThunisiya
     st: Tunisia
     stq: Tunesien
@@ -291,11 +291,11 @@ dv_has_:
     zea: Tunesië
     zgh: ⵜⵓⵏⵙ
     zh: 突尼西亞
-    zh-cn: 突尼斯
-    zh-hans: 突尼斯
-    zh-hant: 突尼西亞
-    zh-hk: 突尼西亞
-    zh-tw: 突尼西亞
+    zh_cn: 突尼斯
+    zh_hans: 突尼斯
+    zh_hant: 突尼西亞
+    zh_hk: 突尼西亞
+    zh_tw: 突尼西亞
     zu: ITunisia
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Tunisia

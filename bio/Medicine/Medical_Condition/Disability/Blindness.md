@@ -172,7 +172,7 @@ U_S_National_Archives_Identifier: 10637723
 dv_has_:
   name_:
     ady: нэшъуныгъ
-    aeb-arab: عمى
+    aeb_arab: عمى
     af: blindheid
     ak: onifrani
     an: ceguera
@@ -185,7 +185,7 @@ dv_has_:
     azb: کورلوق
     ba: Һуҡырлыҡ
     be: слепата
-    be-tarask: сьлепата
+    be_tarask: сьлепата
     bg: слепота
     bjn: picak
     bn: অন্ধত্ব
@@ -202,8 +202,8 @@ dv_has_:
     de: Blindheit
     el: τύφλωση
     en: blindness
-    en-ca: blindness
-    en-gb: blindness
+    en_ca: blindness
+    en_gb: blindness
     eo: blindeco
     es: ceguera
     et: pimesus
@@ -286,7 +286,7 @@ dv_has_:
     so: indho la'aanta
     sq: verbëria
     sr: слепило
-    sr-ec: слепило
+    sr_ec: слепило
     su: lolong
     sv: blindhet
     sw: upofu
@@ -296,7 +296,7 @@ dv_has_:
     tl: pagkabulag
     tr: körlük
     tt: сукырлык
-    tt-cyrl: сукырлык
+    tt_cyrl: сукырлык
     udm: синтэм луон
     uk: сліпота
     ur: اندھا پن
@@ -312,9 +312,9 @@ dv_has_:
     yue: 盲
     za: da'fangz
     zh: 失明
-    zh-cn: 失明
-    zh-hans: 失明
-    zh-hant: 失明
+    zh_cn: 失明
+    zh_hans: 失明
+    zh_hant: 失明
 ---
 # [[Blindness]] 
 

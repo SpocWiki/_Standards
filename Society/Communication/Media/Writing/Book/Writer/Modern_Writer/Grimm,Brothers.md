@@ -127,7 +127,7 @@ dv_has_:
     az: Qrimm qardaşları
     ba: Бер туған Гриммдар
     be: Браты Грым
-    be-tarask: Браты Грым
+    be_tarask: Браты Грым
     bg: Братя Грим
     bn: গ্রিম ভ্রাতৃদ্বয়
     bo: ཡཱ་ཁོ་དང་ཝེ་ལེམ་.ཀོ་ལིམ།
@@ -138,12 +138,12 @@ dv_has_:
     cy: y brodyr Grimm
     da: Brødrene Grimm
     de: Brüder Grimm
-    de-ch: Brüder Grimm
+    de_ch: Brüder Grimm
     diq: Bray Grimm
     el: Αδελφοί Γκριμ
     en: Brothers Grimm
-    en-ca: Brothers Grimm
-    en-gb: Brothers Grimm
+    en_ca: Brothers Grimm
+    en_gb: Brothers Grimm
     eo: Fratoj Grimm
     es: Hermanos Grimm
     et: Vennad Grimmid
@@ -200,7 +200,7 @@ dv_has_:
     pl: Bracia Grimmowie
     pnb: گرم پعرا
     pt: Irmãos Grimm
-    pt-br: Irmãos Grimm
+    pt_br: Irmãos Grimm
     qu: Grimm wawqikuna
     rm: Frars Grimm
     ro: Frații Grimm
@@ -227,14 +227,14 @@ dv_has_:
     wuu: 格林兄弟
     yue: 格林兄弟
     zh: 格林兄弟
-    zh-cn: 格林兄弟
-    zh-hans: 格林兄弟
-    zh-hant: 格林兄弟
-    zh-hk: 格林兄弟
-    zh-mo: 格林兄弟
+    zh_cn: 格林兄弟
+    zh_hans: 格林兄弟
+    zh_hant: 格林兄弟
+    zh_hk: 格林兄弟
+    zh_mo: 格林兄弟
     zh-my: 格林兄弟
-    zh-sg: 格林兄弟
-    zh-tw: 格林兄弟
+    zh_sg: 格林兄弟
+    zh_tw: 格林兄弟
 ---
 # [[Grimm,Brothers]] 
 

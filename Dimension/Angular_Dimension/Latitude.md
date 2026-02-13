@@ -142,7 +142,7 @@ dv_has_:
     azb: ائنلم
     ba: географик киңлек
     be: шырата
-    be-tarask: шырата
+    be_tarask: шырата
     bg: Географска ширина
     bho: अक्षांश
     blk: လတ္တီစျု
@@ -214,7 +214,7 @@ dv_has_:
     my: လတ္တီတွဒ်
     nan: Hūi-tō͘
     nb: breddegrad
-    nds-nl: breedtegraod
+    nds_nl: breedtegraod
     ne: अक्षांश
     nl: breedtegraad
     nn: breiddegrad
@@ -244,7 +244,7 @@ dv_has_:
     so: Lool
     sq: Gjerësia gjeografike
     sr: географска ширина
-    sr-ec: географска ширина
+    sr_ec: географска ширина
     su: Garis Datar
     sv: latitud
     sw: Latitudo
@@ -270,9 +270,9 @@ dv_has_:
     yi: גארטל ליניע
     yue: 緯
     zh: 纬度
-    zh-hant: 緯度
-    zh-hk: 緯度
-    zh-tw: 緯度
+    zh_hant: 緯度
+    zh_hk: 緯度
+    zh_tw: 緯度
 ---
 # [[Latitude]] 
 

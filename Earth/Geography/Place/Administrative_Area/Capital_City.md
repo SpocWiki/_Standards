@@ -263,7 +263,7 @@ dv_is_same_as:
 dv_has_:
   name_:
     ab: аҳҭнықалақь
-    aeb-arab: عاصمة
+    aeb_arab: عاصمة
     af: hoofstad
     am: ዋና ከተማ
     an: capital
@@ -284,7 +284,7 @@ dv_has_:
     bar: Haptstod
     bcl: kapitolyo
     be: сталіца
-    be-tarask: сталіца
+    be_tarask: сталіца
     bew: ibu negeri
     bg: столица
     bho: "\U000110A9\U000110B0\U00011094\U000110A1\U000110B0\U000110A2\U000110B2"
@@ -303,7 +303,7 @@ dv_has_:
     chr: ᎠᏰᎵ ᏗᎦᎳᏫᎢᏍᏗ
     ckb: پایتەخت
     crh: paytaht
-    crh-latn: paytaht
+    crh_latn: paytaht
     cs: hlavní město
     csb: stolëca
     cu: стольнъ градъ
@@ -312,14 +312,14 @@ dv_has_:
     da: hovedstad
     dag: tinzuɣu
     de: Hauptstadt
-    de-ch: Hauptstadt
+    de_ch: Hauptstadt
     diq: paytext
     dsb: stolica
     dv: ވެރިރަށް
     el: πρωτεύουσα
     en: capital city
-    en-ca: capital city
-    en-gb: capital city
+    en_ca: capital city
+    en_gb: capital city
     eo: ĉefurbo
     es: capital
     et: pealinn
@@ -382,7 +382,7 @@ dv_has_:
     krc: ара шахар
     ks: راز دٲنؠ
     ku: paytext
-    ku-latn: paytext
+    ku_latn: paytext
     kv: юркар
     kw: penncita
     ky: борбор шаар
@@ -400,7 +400,7 @@ dv_has_:
     lzh: 京
     mag: राजधानी
     mai: राजधानी
-    map-bms: ibukota
+    map_bms: ibukota
     mdf: пряошец
     mg: renivohitra
     mhr: рӱдола
@@ -425,7 +425,7 @@ dv_has_:
     nap: capitale
     nb: hovedstad
     nds: Hööftstadt
-    nds-nl: heufdstad
+    nds_nl: heufdstad
     ne: राजधानी
     new: तलैनकरम्
     nl: hoofdstad
@@ -450,7 +450,7 @@ dv_has_:
     pnt: πρωτεύουσα
     ps: پلازمېنه
     pt: capital
-    pt-br: capital
+    pt_br: capital
     qu: uma llaqta
     rgn: capitèla
     rm: chapitala
@@ -484,7 +484,7 @@ dv_has_:
     so: magaalo madax
     sq: kryeqytet
     sr: главни град
-    sr-ec: главни град
+    sr_ec: главни град
     srn: mamafoto
     stq: Haudstääd
     su: ibu kota
@@ -495,7 +495,7 @@ dv_has_:
     ta: தலைநகரம்
     te: రాజధాని
     tg: пойтахт
-    tg-cyrl: пойтахт
+    tg_cyrl: пойтахт
     th: เมืองหลวง
     ti: ርእሰ ከተማ
     tk: paýtagt
@@ -505,8 +505,8 @@ dv_has_:
     tpi: kapitol
     tr: başkent
     tt: башкала
-    tt-cyrl: башкала
-    tt-latn: başqala
+    tt_cyrl: башкала
+    tt_latn: başqala
     tw: ahenkuro
     udm: шоркар
     uk: столиця
@@ -532,14 +532,14 @@ dv_has_:
     zea: oôdstad
     zgh: ⵜⴰⵎⴰⵥⵓⵏⵜ
     zh: 首都
-    zh-cn: 首都
-    zh-hans: 首都
-    zh-hant: 首都
-    zh-hk: 首都
-    zh-mo: 首都
+    zh_cn: 首都
+    zh_hans: 首都
+    zh_hant: 首都
+    zh_hk: 首都
+    zh_mo: 首都
     zh-my: 首都
-    zh-sg: 首都
-    zh-tw: 首都
+    zh_sg: 首都
+    zh_tw: 首都
     zu: IsiQongo
 ---
 # [[Capital_City]] 

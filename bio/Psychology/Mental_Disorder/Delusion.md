@@ -85,7 +85,7 @@ dv_has_:
     ar: وهام
     ast: Deliriu
     be: трызненне
-    be-tarask: трызьненьне
+    be_tarask: трызьненьне
     bg: Налудност
     bs: Blud
     ca: deliri
@@ -137,8 +137,8 @@ dv_has_:
     sl: blodnja
     sq: Deliri
     sr: делузија
-    sr-ec: Делузија
-    sr-el: Deluzija
+    sr_ec: Делузија
+    sr_el: Deluzija
     su: Délusi
     sv: vanföreställning
     ta: மருட்சி
@@ -151,12 +151,12 @@ dv_has_:
     wuu: 妄想
     yue: 妄想
     zh: 妄想
-    zh-cn: 妄想
-    zh-hans: 妄想
-    zh-hant: 妄想
-    zh-hk: 妄想
-    zh-sg: 妄想
-    zh-tw: 妄想
+    zh_cn: 妄想
+    zh_hans: 妄想
+    zh_hant: 妄想
+    zh_hk: 妄想
+    zh_sg: 妄想
+    zh_tw: 妄想
 ---
 # [[Delusion]] 
 

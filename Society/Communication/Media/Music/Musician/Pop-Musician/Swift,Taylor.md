@@ -64,7 +64,7 @@ dv_has_:
     bar: Taylor Swift
     bcl: Taylor Swift
     be: Тэйлар Свіфт
-    be-tarask: Тэйлар Сўіфт
+    be_tarask: Тэйлар Сўіфт
     bg: Тейлър Суифт
     bho: टेलर स्विफ्ट
     bi: Taylor Swift
@@ -83,8 +83,8 @@ dv_has_:
     dty: टेलर स्विफ्ट
     el: Τέιλορ Σουίφτ
     en: Taylor Swift
-    en-ca: Taylor Swift
-    en-gb: Taylor Swift
+    en_ca: Taylor Swift
+    en_gb: Taylor Swift
     en-us: Taylor Swift
     eo: Taylor Swift
     es: Taylor Swift
@@ -152,7 +152,7 @@ dv_has_:
     nan: Taylor Swift
     nap: Taylor Swift
     nb: Taylor Swift
-    nds-nl: Taylor Swift
+    nds_nl: Taylor Swift
     ne: टेलर स्विफ्ट
     nl: Taylor Swift
     nn: Taylor Swift
@@ -164,7 +164,7 @@ dv_has_:
     pl: Taylor Swift
     pnb: ٹیلر سوئفٹ
     pt: Taylor Swift
-    pt-br: Taylor Swift
+    pt_br: Taylor Swift
     rmy: Taylor Swift
     ro: Taylor Swift
     ru: Тейлор Свифт
@@ -210,13 +210,13 @@ dv_has_:
     za: Taylor Swift
     zea: Taylor Swift
     zh: 泰勒·斯威夫特
-    zh-cn: 泰勒·斯威夫特
-    zh-hans: 泰勒·斯威夫特
-    zh-hant: 泰勒絲
-    zh-hk: 泰勒絲
+    zh_cn: 泰勒·斯威夫特
+    zh_hans: 泰勒·斯威夫特
+    zh_hant: 泰勒絲
+    zh_hk: 泰勒絲
     zh-my: 泰勒丝
-    zh-sg: 泰勒丝
-    zh-tw: 泰勒絲
+    zh_sg: 泰勒丝
+    zh_tw: 泰勒絲
 ---
 ## #has_/text_of_/abstract 
 

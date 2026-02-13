@@ -79,7 +79,7 @@ dv_has_:
     az: izomorfluq
     ba: изоморфизм
     be: ізамарфізм
-    be-tarask: ізамарфізм
+    be_tarask: ізамарфізм
     bg: изоморфизъм
     bs: izomorfizam
     ca: isomorfisme
@@ -89,8 +89,8 @@ dv_has_:
     de: Isomorphismus
     el: ισομορφισμός
     en: isomorphism
-    en-ca: isomorphism
-    en-gb: isomorphism
+    en_ca: isomorphism
+    en_gb: isomorphism
     eo: izomorfio
     es: isomorfismo
     et: isomorfism
@@ -110,11 +110,11 @@ dv_has_:
     it: isomorfismo
     ja: 同型写像
     kk: изоморфизм
-    kk-arab: ىيزومورفىيزم
+    kk_arab: ىيزومورفىيزم
     kk-cn: ىيزومورفىيزم
-    kk-cyrl: изоморфизм
+    kk_cyrl: изоморфизм
     kk-kz: изоморфизм
-    kk-latn: ïzomorfïzm
+    kk_latn: ïzomorfïzm
     kk-tr: ïzomorfïzm
     ko: 동형 사상
     ky: изоморфизм
@@ -130,15 +130,15 @@ dv_has_:
     pl: izomorfizm
     pms: Isomorfism
     pt: isomorfismo
-    pt-br: isomorfismo
+    pt_br: isomorfismo
     ro: izomorfism
     ru: изоморфизм
     sh: izomorfizam
     sk: izomorfizmus
     sl: izomorfizem
     sr: изоморфизам
-    sr-ec: изоморфизам
-    sr-el: izomorfizam
+    sr_ec: изоморфизам
+    sr_el: izomorfizam
     sv: isomorfi
     ta: ஐசோமார்பிஸம்
     th: ฟังก์ชันสมสัณฐาน
@@ -151,12 +151,12 @@ dv_has_:
     wuu: 同构
     yue: 同構
     zh: 同构
-    zh-cn: 同构
-    zh-hans: 同构
-    zh-hant: 同構
-    zh-hk: 同構
-    zh-sg: 同构
-    zh-tw: 同構
+    zh_cn: 同构
+    zh_hans: 同构
+    zh_hant: 同構
+    zh_hk: 同構
+    zh_sg: 同构
+    zh_tw: 同構
 ---
 # [[Isomorphism]] 
 

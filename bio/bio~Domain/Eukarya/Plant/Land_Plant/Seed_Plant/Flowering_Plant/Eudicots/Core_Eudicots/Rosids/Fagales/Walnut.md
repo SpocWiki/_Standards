@@ -130,7 +130,7 @@ dv_has_:
     ast: nuez
     azb: گیردهکان
     be: грэцкі арэх
-    be-tarask: валоскі арэх
+    be_tarask: валоскі арэх
     bg: орех
     bn: আখরোট
     br: kraoñenn
@@ -142,12 +142,12 @@ dv_has_:
     cs: vlašský ořech
     da: valnød
     de: Walnuss
-    de-ch: Baumnuss
+    de_ch: Baumnuss
     dty: ओखण
     el: καρύδι
     en: walnut
-    en-ca: walnut
-    en-gb: walnut
+    en_ca: walnut
+    en_gb: walnut
     eo: juglandonukso
     es: nuez
     et: kreeka pähklid
@@ -159,7 +159,7 @@ dv_has_:
     gl: noz
     gom: akrutt
     gom-deva: अक्रोड
-    gom-latn: akrutt
+    gom_latn: akrutt
     he: אגוזי מלך
     hi: अखरोट
     hsb: worjech
@@ -196,7 +196,7 @@ dv_has_:
     pnb: اخروٹ دی گری
     ps: غوز
     pt: noz
-    pt-br: noz
+    pt_br: noz
     ru: грецкий орех
     sd: اکروٽ
     sk: vlašský orech
@@ -217,8 +217,8 @@ dv_has_:
     yo: àsálà
     yue: 合桃仁
     zh: 胡桃
-    zh-cn: 胡桃
-    zh-tw: 胡桃
+    zh_cn: 胡桃
+    zh_tw: 胡桃
 ---
 # [[Walnut]] 
 

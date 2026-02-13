@@ -54,7 +54,7 @@ dv_has_:
     oc: Harpacticoida
     pl: Harpacticoida
     pt: Harpacticoida
-    pt-br: Harpacticoida
+    pt_br: Harpacticoida
     ro: Harpacticoida
     ru: гарпактициды
     sq: Harpacticoida
@@ -65,9 +65,9 @@ dv_has_:
     vo: Harpacticoida
     war: Harpacticoida
     zh: 猛水蚤目
-    zh-cn: 猛水蚤目
-    zh-hans: 猛水蚤目
-    zh-tw: 猛水蚤目
+    zh_cn: 猛水蚤目
+    zh_hans: 猛水蚤目
+    zh_tw: 猛水蚤目
 ---
 # [[Harpacticoida]] 
 ![Clytemnestra_scutellata](Harpacticoida/Clytemnestra_scutellata.jpg) 

@@ -69,7 +69,7 @@ dv_has_:
     ast: Diplodocus
     az: Seysmozavr
     be: Дыпладок
-    be-tarask: дыплядок
+    be_tarask: дыплядок
     bg: диплодоци
     bn: ডিপলোডোকাস
     br: Diplodokus
@@ -82,8 +82,8 @@ dv_has_:
     de: Diplodocus
     el: Διπλόδοκος
     en: Diplodocus
-    en-ca: Diplodocus
-    en-gb: Diplodocus
+    en_ca: Diplodocus
+    en_gb: Diplodocus
     en-us: Diplodocus
     eo: Diplodocus
     es: Diplodocus
@@ -145,10 +145,10 @@ dv_has_:
     wuu: 梁龙属
     yue: 梁龍
     zh: 梁龙属
-    zh-cn: 梁龙属
-    zh-hans: 梁龍
-    zh-hant: 梁龍
-    zh-tw: 梁龍屬
+    zh_cn: 梁龙属
+    zh_hans: 梁龍
+    zh_hant: 梁龍
+    zh_tw: 梁龍屬
 ---
 # [[Diplodocus]] 
 

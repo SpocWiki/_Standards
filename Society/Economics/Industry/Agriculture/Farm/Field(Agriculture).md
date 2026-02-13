@@ -121,7 +121,7 @@ dv_has_:
     ay: Yapu
     az: Tarla
     be: поле
-    be-tarask: поле
+    be_tarask: поле
     bew: Tegalan (langbow)
     bg: Нива
     bn: মাঠ
@@ -136,7 +136,7 @@ dv_has_:
     dsb: pólo
     el: αγρός
     en: field
-    en-gb: field
+    en_gb: field
     eo: kampo
     es: campo
     et: põld
@@ -190,7 +190,7 @@ dv_has_:
     pdc: Feld
     pl: pole
     pt: campo agrícola
-    pt-br: campo agrícola
+    pt_br: campo agrícola
     qu: Chakra
     ro: Câmp
     ru: поле
@@ -202,8 +202,8 @@ dv_has_:
     sl: polje
     sn: Munda
     sr: њива
-    sr-ec: њива
-    sr-el: njiva
+    sr_ec: њива
+    sr_el: njiva
     sv: åker
     szl: pole
     szy: umah
@@ -222,12 +222,12 @@ dv_has_:
     yi: פעלד
     yue: 田
     zh: 旱田
-    zh-cn: 旱田
-    zh-hans: 旱田
-    zh-hant: 旱田
-    zh-hk: 旱田
-    zh-sg: 旱田
-    zh-tw: 旱田
+    zh_cn: 旱田
+    zh_hans: 旱田
+    zh_hant: 旱田
+    zh_hk: 旱田
+    zh_sg: 旱田
+    zh_tw: 旱田
 ---
 # [[Field(Agriculture)]] 
 

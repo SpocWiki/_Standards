@@ -184,13 +184,13 @@ dv_has_:
     ban: Segara Cina Kangin
     bcl: Dagat Subangan na Tsina
     be: Усходне-Кітайскае мора
-    be-tarask: Усходне-Кітайскае мора
+    be_tarask: Усходне-Кітайскае мора
     bg: Източнокитайско море
     bn: পূর্ব চীন সাগর
     br: Mor Reter Sina
     bs: Istočno kinesko more
     ca: mar de la Xina Oriental
-    cbk-zam: Mar de China oriental
+    cbk_zam: Mar de China oriental
     cdo: Dĕ̤ng-hāi
     ceb: East China Sea
     crh: Şarqiy Çin deñizi
@@ -244,7 +244,7 @@ dv_has_:
     mn: Дорнод Хятадын тэнгис
     mr: पूर्व चीन समुद्र
     ms: Laut China Timur
-    ms-arab: لاءوت چينا سلاتن
+    ms_arab: لاءوت چينا سلاتن
     mzn: چین شرقی دریا
     nan: Tang Tiong-kok Hái
     nb: Øst-Kina-havet
@@ -284,14 +284,14 @@ dv_has_:
     yi: מזרח כינע ים
     yue: 東海
     zh: 东海
-    zh-cn: 东海
-    zh-hans: 东海
-    zh-hant: 東海
-    zh-hk: 東海
-    zh-mo: 東海
+    zh_cn: 东海
+    zh_hans: 东海
+    zh_hant: 東海
+    zh_hk: 東海
+    zh_mo: 東海
     zh-my: 东海
-    zh-sg: 东海
-    zh-tw: 東海
+    zh_sg: 东海
+    zh_tw: 東海
 ---
 # [[East_China_Sea]]
 

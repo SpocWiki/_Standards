@@ -116,7 +116,7 @@ dv_has_:
     az: ekspedisiya
     ba: территориаль тикшеренеү
     be: тэрытарыяльнае даследаванне
-    be-tarask: тэрытарыяльнае дасьледаваньне
+    be_tarask: тэрытарыяльнае дасьледаваньне
     bg: изследование
     bn: অভিযান
     br: ergerzhadenn
@@ -173,8 +173,8 @@ dv_has_:
     sl: raziskovanje
     sq: eksplorimi
     sr: истраживање
-    sr-ec: истраживање
-    sr-el: istraživanje
+    sr_ec: истраживање
+    sr_el: istraživanje
     sv: upptäcktsresa
     sw: upelelezi
     th: การสำรวจ
@@ -189,11 +189,11 @@ dv_has_:
     yi: אויספארשונג
     yue: 探險
     zh: 探险
-    zh-cn: 探险
-    zh-hans: 探险
-    zh-hant: 探險
-    zh-hk: 探險
-    zh-tw: 探險
+    zh_cn: 探险
+    zh_hans: 探险
+    zh_hant: 探險
+    zh_hk: 探險
+    zh_tw: 探險
 ---
 # [[Exploration]] 
 

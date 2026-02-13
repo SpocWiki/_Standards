@@ -213,7 +213,7 @@ dv_has_:
     ba: Стравинский Игорь Фёдорович
     bar: Igor Fjodorowitsch Strawinski
     be: Ігар Фёдаравіч Стравінскі
-    be-tarask: Ігар Стравінскі
+    be_tarask: Ігар Стравінскі
     bg: Игор Стравински
     bho: इगोर स्त्रविन्सकी
     bi: Igor Stravinsky
@@ -236,8 +236,8 @@ dv_has_:
     ee: Igor Stravinsky
     el: Ίγκορ Στραβίνσκι
     en: Igor Stravinsky
-    en-ca: Igor Stravinsky
-    en-gb: Igor Stravinsky
+    en_ca: Igor Stravinsky
+    en_gb: Igor Stravinsky
     eo: Igor Stravinski
     es: Ígor Stravinsky
     et: Igor Stravinski
@@ -307,7 +307,7 @@ dv_has_:
     pms: Igor' Stravinskij
     pnb: آیگور سٹراونسکی
     pt: Ígor Stravinski
-    pt-br: Ígor Stravinski
+    pt_br: Ígor Stravinski
     qu: Ígor Stravinski
     ro: Igor Stravinski
     ru: Игорь Стравинский
@@ -344,11 +344,11 @@ dv_has_:
     yo: Igor Stravinsky
     yue: 史達拉汶斯基
     zh: 伊戈尔·斯特拉文斯基
-    zh-cn: 伊戈尔·斯特拉文斯基
-    zh-hans: 伊戈尔·斯特拉文斯基
-    zh-hant: 伊果·史特拉汶斯基
-    zh-hk: 史達拉汶斯基
-    zh-tw: 伊果·史特拉汶斯基
+    zh_cn: 伊戈尔·斯特拉文斯基
+    zh_hans: 伊戈尔·斯特拉文斯基
+    zh_hant: 伊果·史特拉汶斯基
+    zh_hk: 史達拉汶斯基
+    zh_tw: 伊果·史特拉汶斯基
 ---
 #has_/time_/started :: 1882-06-17 
 #has_/time_/stopped :: 1971-04-06 

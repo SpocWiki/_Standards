@@ -34,7 +34,7 @@ dv_has_:
     pl: Gregorio Ricci-Curbastro
     pms: Gregorio Ricci-Curbastro
     pt: Gregorio Ricci-Curbastro
-    pt-br: Gregorio Ricci-Curbastro
+    pt_br: Gregorio Ricci-Curbastro
     ro: Gregorio Ricci-Curbastro
     ru: Грегорио Риччи-Курбастро
     sl: Gregorio Ricci Curbastro

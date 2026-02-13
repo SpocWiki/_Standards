@@ -53,7 +53,7 @@ dv_has_:
     arz: مينو سيمونز
     ast: Menno Simons
     be: Менна Сіманс
-    be-tarask: Мэна Сыманс
+    be_tarask: Мэна Сыманс
     br: Menno Simons
     ca: Menno Simons
     cs: Menno Simons
@@ -84,7 +84,7 @@ dv_has_:
     pdc: Menno Simons
     pl: Menno Simmons
     pt: Menno Simons
-    pt-br: Menno Simons
+    pt_br: Menno Simons
     ru: Менно Симонс
     sq: Menno Simons
     sr: Meno Simons
@@ -94,12 +94,12 @@ dv_has_:
     war: Menno Simons
     yue: 門諾·西蒙斯
     zh: 门诺·西蒙斯
-    zh-cn: 门诺·西蒙斯
-    zh-hans: 门诺·西蒙斯
-    zh-hant: 門諾·西蒙斯
-    zh-hk: 門諾·西蒙斯
-    zh-sg: 门诺·西蒙斯
-    zh-tw: 門諾·西蒙斯
+    zh_cn: 门诺·西蒙斯
+    zh_hans: 门诺·西蒙斯
+    zh_hant: 門諾·西蒙斯
+    zh_hk: 門諾·西蒙斯
+    zh_sg: 门诺·西蒙斯
+    zh_tw: 門諾·西蒙斯
 ---
 # [[Menno_Simons]] 
 

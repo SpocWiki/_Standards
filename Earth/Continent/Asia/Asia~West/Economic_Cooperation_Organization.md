@@ -122,7 +122,7 @@ dv_has_:
     azb: ایقتیصادی ایشبیرلیگی تشکیلاتی
     ba: Иҡтисади хеҙмәттәшлек ойошмаһы
     be: Арганізацыя эканамічнай супрацы
-    be-tarask: Арганізацыя эканамічнай супрацы
+    be_tarask: Арганізацыя эканамічнай супрацы
     ca: Organització de Cooperació Econòmica
     ckb: ڕێکخراوەی ھاوکاریی ئابووری
     cs: Organizace ekonomické spolupráce

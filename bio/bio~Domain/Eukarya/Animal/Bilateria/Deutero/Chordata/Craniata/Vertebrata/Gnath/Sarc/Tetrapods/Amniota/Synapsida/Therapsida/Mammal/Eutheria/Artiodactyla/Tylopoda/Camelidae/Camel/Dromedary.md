@@ -135,7 +135,7 @@ dv_has_:
     ba: бер үркәсле дөйә
     ban: Unta dromedary
     be: вярблюд аднагорбы
-    be-tarask: аднагорбы вярблюд
+    be_tarask: аднагорбы вярблюд
     bg: едногърба камила
     bm: Ɲɔgɔmɛ
     br: Dremedal
@@ -147,14 +147,14 @@ dv_has_:
     cy: Dromedari
     da: Dromedar
     de: Dromedar
-    de-ch: Dromedar
+    de_ch: Dromedar
     din: Thɔrɔl
     ee: Kposɔ
     el: αραβική καμήλα
     eml: Drumedàri
     en: Camelus dromedarius
-    en-ca: Dromedary
-    en-gb: dromedary
+    en_ca: Dromedary
+    en_gb: dromedary
     eo: Dromedaro
     es: dromedario
     et: üksküürkaamel
@@ -199,7 +199,7 @@ dv_has_:
     mul: Camelus dromedarius
     mzn: ات کولدار شتر
     nb: dromedar
-    nds-nl: dromedaris
+    nds_nl: dromedaris
     nl: dromedaris
     nn: dromedar
     nv: Ásáí Dineʼé Bikéyahdę́ę́ʼ ghą́ą́ʼaskʼidii
@@ -207,7 +207,7 @@ dv_has_:
     pl: wielbłąd jednogarbny
     ps: عربي اوښ
     pt: dromedário
-    pt-br: Dromedário
+    pt_br: Dromedário
     ro: Dromader
     ru: одногорбый верблюд
     scn: drumidariu
@@ -229,8 +229,8 @@ dv_has_:
     wuu: 单峰骆驼
     yue: 單峰駱駝
     zh: 單峰駱駝
-    zh-cn: 单峰骆驼
-    zh-hans: 单峰骆驼
+    zh_cn: 单峰骆驼
+    zh_hans: 单峰骆驼
 ---
 # [[Dromedary]] 🐪 
 

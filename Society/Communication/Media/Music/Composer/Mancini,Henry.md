@@ -125,7 +125,7 @@ dv_has_:
     az: Henri Mançini
     azb: هنری مانچینی
     be: Генры Манчыні
-    be-tarask: Гэнры Манчыні
+    be_tarask: Гэнры Манчыні
     bg: Хенри Манчини
     ca: Henry Mancini
     cs: Henry Mancini
@@ -156,11 +156,11 @@ dv_has_:
     it: Henry Mancini
     ja: ヘンリー・マンシーニ
     kk: Манчини Генри
-    kk-arab: مانتشىينىي گەنرىي
+    kk_arab: مانتشىينىي گەنرىي
     kk-cn: مانتشىينىي گەنرىي
-    kk-cyrl: Манчини Генри
+    kk_cyrl: Манчини Генри
     kk-kz: Манчини Генри
-    kk-latn: Mançïnï Genrï
+    kk_latn: Mançïnï Genrï
     kk-tr: Mançïnï Genrï
     ko: 헨리 맨시니
     ky: Генри Манчини
@@ -175,7 +175,7 @@ dv_has_:
     pa: ਹੈਨਰੀ ਮੈਨਸਿਨੀ
     pl: Henry Mancini
     pt: Henry Mancini
-    pt-br: Henry Mancini
+    pt_br: Henry Mancini
     ro: Henry Mancini
     ru: Генри Манчини
     sco: Henry Mancini
@@ -193,12 +193,12 @@ dv_has_:
     war: Henry Mancini
     yue: 亨利·曼仙尼
     zh: 亨利·曼西尼
-    zh-cn: 亨利·曼西尼
-    zh-hans: 亨利·曼西尼
-    zh-hant: 亨利·曼西尼
-    zh-hk: 亨利·曼仙尼
-    zh-sg: 亨利·曼西尼
-    zh-tw: 亨利·曼西尼
+    zh_cn: 亨利·曼西尼
+    zh_hans: 亨利·曼西尼
+    zh_hant: 亨利·曼西尼
+    zh_hk: 亨利·曼仙尼
+    zh_sg: 亨利·曼西尼
+    zh_tw: 亨利·曼西尼
 ---
 # [[Mancini,Henry]] 
 

@@ -146,7 +146,7 @@ dv_has_:
     ban: Walrus
     bcl: Walrus
     be: Морж
-    be-tarask: морж
+    be_tarask: морж
     bg: морж
     bn: সিন্ধুঘোটক
     bo: མཚོ་གླང་།
@@ -246,10 +246,10 @@ dv_has_:
     yi: וואלראס
     yue: 海象
     zh: 海象
-    zh-cn: 海象
-    zh-hans: 海象
-    zh-hant: 海象
-    zh-tw: 海象
+    zh_cn: 海象
+    zh_hans: 海象
+    zh_hant: 海象
+    zh_tw: 海象
     zu: Iwalerosi
 ---
 # [[Walrus]] 

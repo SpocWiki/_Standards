@@ -167,7 +167,7 @@ dv_has_:
     az: Con Apdayk
     azb: جان آپدایک
     be: Джон Апдайк
-    be-tarask: Джон Апдайк
+    be_tarask: Джон Апдайк
     bg: Джон Ъпдайк
     bn: জন আপডাইক
     bs: John Updike
@@ -223,7 +223,7 @@ dv_has_:
     pms: John Updike
     pnb: جان اپڈائیک
     pt: John Updike
-    pt-br: John Updike
+    pt_br: John Updike
     ro: John Updike
     ru: Джон Хойер Апдайк
     sco: John Updike
@@ -232,8 +232,8 @@ dv_has_:
     sl: John Updike
     sq: John Updike
     sr: Џон Апдајк
-    sr-ec: Џон Апдајк
-    sr-el: Džon Apdajk
+    sr_ec: Џон Апдајк
+    sr_el: Džon Apdajk
     sv: John Updike
     sw: John Updike
     tr: John Updike
@@ -245,12 +245,12 @@ dv_has_:
     xmf: ჯონ აპდაიკი
     yue: 約翰·厄普代克
     zh: 約翰·厄普代克
-    zh-cn: 约翰·厄普代克
-    zh-hans: 约翰·厄普代克
-    zh-hant: 約翰·厄普代克
-    zh-hk: 約翰·邑戴克
-    zh-sg: 约翰·厄普代克
-    zh-tw: 約翰·厄普代克
+    zh_cn: 约翰·厄普代克
+    zh_hans: 约翰·厄普代克
+    zh_hant: 約翰·厄普代克
+    zh_hk: 約翰·邑戴克
+    zh_sg: 约翰·厄普代克
+    zh_tw: 約翰·厄普代克
 ---
 # [[Updike,John]] 
 

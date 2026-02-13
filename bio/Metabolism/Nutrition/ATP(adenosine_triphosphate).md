@@ -71,7 +71,7 @@ dv_has_:
     azb: آدنوزین تریفوسفات
     ba: Аденозинтрифосфор кислотаһы — АТФ
     be: Адэназінтрыфосфарная кіслата
-    be-tarask: адэназынтрыфасфат
+    be_tarask: адэназынтрыфасфат
     bg: Аденозинтрифосфат
     bn: অ্যাডিনোসিন ট্রাইফসফেট
     bo: ཨེ་ཊི་པི་འདུས་རྡུལ།
@@ -83,7 +83,7 @@ dv_has_:
     de: Adenosintriphosphat
     el: Τριφωσφορική αδενοσίνη
     en: adenosine triphosphate
-    en-gb: adenosine triphosphate
+    en_gb: adenosine triphosphate
     eo: adenozina trifosfato
     es: adenosín trifosfato
     et: Adenosiintrifosfaat
@@ -110,7 +110,7 @@ dv_has_:
     kn: ಅಡೆನೋಸೀನ್ ಟ್ರೈಫಾಸ್ಫೇಟ್ (ಎ ಟಿ ಪಿ)
     ko: 아데노신 삼인산
     ku: Adenozîna trîfosfat
-    ku-latn: adenosîna trîfosfat
+    ku_latn: adenosîna trîfosfat
     ky: Аденозинтрифосфат
     la: Adenosini triphosphatum
     lb: Adenosintriphosphat
@@ -150,7 +150,7 @@ dv_has_:
     wuu: 三磷酸腺苷
     yue: 三磷酸腺苷
     zh: 三磷酸腺苷
-    zh-hans: 三磷酸腺苷
+    zh_hans: 三磷酸腺苷
 ---
 # [[ATP(adenosine_triphosphate)]] 
 

@@ -105,7 +105,7 @@ dv_has_:
     ast: Ricky Gervais
     azb: ریکی جرویز
     be: Рыкі Джэрвейз
-    be-tarask: Рыкі Джэрвэйс
+    be_tarask: Рыкі Джэрвэйс
     bg: Рики Джървейз
     bjn: Ricky Gervais
     bn: রিকি জারভেজ
@@ -117,8 +117,8 @@ dv_has_:
     diq: Ricky Gervais
     el: Ρίκι Τζερβέιζ
     en: Ricky Gervais
-    en-ca: Ricky Gervais
-    en-gb: Ricky Gervais
+    en_ca: Ricky Gervais
+    en_gb: Ricky Gervais
     eo: Ricky Gervais
     es: Ricky Gervais
     et: Ricky Gervais
@@ -154,7 +154,7 @@ dv_has_:
     pa: ਰਿਕੀ ਗਰਵੇਸ
     pl: Ricky Gervais
     pt: Ricky Gervais
-    pt-br: Ricky Gervais
+    pt_br: Ricky Gervais
     ro: Ricky Gervais
     ru: Рики Джервейс
     sco: Ricky Gervais
@@ -174,9 +174,9 @@ dv_has_:
     vi: Ricky Gervais
     yi: ריקי דזשארוועיס
     zh: 瑞吉·葛文
-    zh-cn: 力奇·佐维斯
-    zh-hans: 力奇·佐维斯
-    zh-hk: 域奇·佐華斯
+    zh_cn: 力奇·佐维斯
+    zh_hans: 力奇·佐维斯
+    zh_hk: 域奇·佐華斯
 ---
 # [[Gervais,Ricky]] 
 

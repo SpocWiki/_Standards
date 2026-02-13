@@ -58,7 +58,7 @@ dv_has_:
     ar: عيار
     az: Çap
     be: калібр
-    be-tarask: калібр
+    be_tarask: калібр
     bg: Калибър
     bn: ক্যালিবার
     br: Kalibr (armoù-tan)
@@ -70,7 +70,7 @@ dv_has_:
     de: Kaliber
     el: διαμέτρημα
     en: calibre
-    en-gb: calibre
+    en_gb: calibre
     en-us: caliber
     eo: kalibro
     es: calibre
@@ -91,7 +91,7 @@ dv_has_:
     ja: 口径
     ka: კალიბრი
     kk: Калибр
-    kk-cyrl: Калибр
+    kk_cyrl: Калибр
     kk-kz: Калибр
     ko: 구경
     la: Calibra
@@ -113,8 +113,8 @@ dv_has_:
     so: Kaliber
     sq: Kalibër
     sr: калибар
-    sr-ec: калибар
-    sr-el: Kalibar
+    sr_ec: калибар
+    sr_el: Kalibar
     sv: kaliber
     ta: கேலிபர்
     tr: Kalibre
@@ -122,12 +122,12 @@ dv_has_:
     ur: کیلیبر
     yue: 口徑
     zh: 口徑
-    zh-cn: 口径
-    zh-hans: 口径
-    zh-hant: 口徑
-    zh-hk: 口徑
-    zh-sg: 口径
-    zh-tw: 口徑
+    zh_cn: 口径
+    zh_hans: 口径
+    zh_hant: 口徑
+    zh_hk: 口徑
+    zh_sg: 口径
+    zh_tw: 口徑
 ---
 # [[Caliber]] 
 

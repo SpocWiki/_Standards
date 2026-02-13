@@ -59,7 +59,7 @@ dv_has_:
     ar: سيف ضالع
     ast: sable
     be: Шабля
-    be-tarask: Шабля
+    be_tarask: Шабля
     bg: Сабя
     br: Sabrenn
     bs: Sablja
@@ -70,7 +70,7 @@ dv_has_:
     de: Säbel
     el: σπάθη
     en: saber
-    en-gb: sabre
+    en_gb: sabre
     eo: sabro
     es: sable
     et: saabel
@@ -90,8 +90,8 @@ dv_has_:
     ja: サーベル
     ko: 사브르
     ku: Şûrbel
-    ku-arab: شووربەل
-    ku-latn: Şûrbel
+    ku_arab: شووربەل
+    ku_latn: Şûrbel
     lt: Kardas
     mg: Sabatra
     mk: сабја
@@ -102,7 +102,7 @@ dv_has_:
     pl: szabla
     pms: Sàber
     pt: sabre
-    pt-br: sabre
+    pt_br: sabre
     ro: sabie
     ru: сабля
     sgs: Šuoblė
@@ -111,8 +111,8 @@ dv_has_:
     sl: sablja
     sq: Sabre
     sr: сабља
-    sr-ec: сабља
-    sr-el: sablja
+    sr_ec: сабља
+    sr_el: sablja
     stq: Soabel
     sv: sabel
     sw: Kitara (silaha)
@@ -120,12 +120,12 @@ dv_has_:
     uk: шабля
     yue: 佩劍
     zh: 佩劍
-    zh-cn: 佩剑
-    zh-hans: 佩剑
-    zh-hant: 佩劍
-    zh-hk: 佩劍
-    zh-sg: 佩剑
-    zh-tw: 佩劍
+    zh_cn: 佩剑
+    zh_hans: 佩剑
+    zh_hant: 佩劍
+    zh_hk: 佩劍
+    zh_sg: 佩剑
+    zh_tw: 佩劍
 ---
 # [[Saber]] 
 

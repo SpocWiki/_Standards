@@ -89,7 +89,7 @@ dv_has_:
     ar: حالة
     ast: estáu d'ánimu
     az: əhvali-ruhiyyə
-    be-tarask: настрой
+    be_tarask: настрой
     bg: настроение
     bn: মেজাজ (মনোবিজ্ঞান)
     ca: estat d'ànim
@@ -122,11 +122,11 @@ dv_has_:
     ja: 気分
     kaa: keypiyat
     kk: көңіл
-    kk-arab: كوڭىل
+    kk_arab: كوڭىل
     kk-cn: كوڭىل
-    kk-cyrl: көңіл
+    kk_cyrl: көңіл
     kk-kz: көңіл
-    kk-latn: köñil
+    kk_latn: köñil
     kk-tr: köñil
     ko: 기분
     ky: көңүл-кейп
@@ -149,13 +149,13 @@ dv_has_:
     sl: razpoloženje
     sq: humori (psikologji)
     sr: расположење
-    sr-ec: расположење
-    sr-el: raspoloženje
+    sr_ec: расположење
+    sr_el: raspoloženje
     sv: humör
     tg: хулқ
     tr: duygudurum
     tt: кәеф
-    tt-cyrl: кәеф
+    tt_cyrl: кәеф
     uk: настрій
     ur: مزاج (نفسیات)
     uz: kayfiyat
@@ -164,12 +164,12 @@ dv_has_:
     yi: געמיט
     yue: 心情
     zh: 心情
-    zh-cn: 心情
-    zh-hans: 心情
-    zh-hant: 心情
-    zh-hk: 心情
-    zh-sg: 心情
-    zh-tw: 心情
+    zh_cn: 心情
+    zh_hans: 心情
+    zh_hant: 心情
+    zh_hk: 心情
+    zh_sg: 心情
+    zh_tw: 心情
 ---
 # [[Mood]] 
 

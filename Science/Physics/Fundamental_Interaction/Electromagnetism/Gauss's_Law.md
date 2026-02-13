@@ -87,7 +87,7 @@ dv_has_:
     ast: Llei de Gauss
     az: gauss
     be: Тэарэма Астраградскага-Гауса
-    be-tarask: Тэарэма Гаўса
+    be_tarask: Тэарэма Гаўса
     bg: Теорема на Гаус
     bn: গাউসের সূত্র
     bs: Gaussov zakon
@@ -95,7 +95,7 @@ dv_has_:
     cs: Gaussův zákon elektrostatiky
     da: Gauss' lov
     de: Gaußsches Gesetz
-    de-ch: Gausssches Gesetz
+    de_ch: Gausssches Gesetz
     el: Νόμος του Γκάους
     en: Gauss's law
     eo: Gaŭsa leĝo
@@ -118,11 +118,11 @@ dv_has_:
     ka: გაუსის კანონი
     kaa: Gauss teoreması
     kk: Гаусс теоремасы
-    kk-arab: گاۋسس تەورەماسى
+    kk_arab: گاۋسس تەورەماسى
     kk-cn: گاۋسس تەورەماسى
-    kk-cyrl: Гаусс теоремасы
+    kk_cyrl: Гаусс теоремасы
     kk-kz: Гаусс теоремасы
-    kk-latn: Gawss teoreması
+    kk_latn: Gawss teoreması
     kk-tr: Gawss teoreması
     ko: 가우스 법칙
     kw: lagha Gauss
@@ -146,8 +146,8 @@ dv_has_:
     sl: Gaussov zakon
     sq: Ligji i Gausit
     sr: Гаусов закон
-    sr-ec: Гаусов закон
-    sr-el: Gausov zakon
+    sr_ec: Гаусов закон
+    sr_el: Gausov zakon
     sv: Gauss lag
     ta: காஸ் விதி
     te: గాస్ యొక్క నియమం
@@ -161,12 +161,12 @@ dv_has_:
     wuu: 高斯定律
     yue: 高斯定律
     zh: 高斯定律
-    zh-cn: 高斯定律
-    zh-hans: 高斯定律
-    zh-hant: 高斯定律
-    zh-hk: 高斯定律
-    zh-sg: 高斯定律
-    zh-tw: 高斯定律
+    zh_cn: 高斯定律
+    zh_hans: 高斯定律
+    zh_hant: 高斯定律
+    zh_hk: 高斯定律
+    zh_sg: 高斯定律
+    zh_tw: 高斯定律
 ---
 # [[Gauss's_Law]] 
 

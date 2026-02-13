@@ -208,7 +208,7 @@ dv_has_:
     ba: Борхес, Хорхе Луис
     bar: Jorge Luis Borges
     be: Хорхе Луіс Борхес
-    be-tarask: Хорхэ Люіс Борхэс
+    be_tarask: Хорхэ Люіс Борхэс
     bg: Хорхе Луис Борхес
     bi: Jorge Luis Borges
     bn: হোর্হে লুইস বোর্হেস
@@ -225,12 +225,12 @@ dv_has_:
     cy: Jorge Luis Borges
     da: Jorge Luis Borges
     de: Jorge Luis Borges
-    de-ch: Jorge Luis Borges
+    de_ch: Jorge Luis Borges
     diq: Jorge Luis Borges
     el: Χόρχε Λουίς Μπόρχες
     en: Jorge Luis Borges
-    en-ca: Jorge Luis Borges
-    en-gb: Jorge Luis Borges
+    en_ca: Jorge Luis Borges
+    en_gb: Jorge Luis Borges
     en-us: Jorge Luis Borges
     eo: Jorge Luis Borges
     es: Jorge Luis Borges
@@ -308,7 +308,7 @@ dv_has_:
     pnb: جارج لوئی بورخیس
     ps: جورج لیوس بورګېس
     pt: Jorge Luis Borges
-    pt-br: Jorge Luis Borges
+    pt_br: Jorge Luis Borges
     qu: Jorge Luis Borges
     ro: Jorge Luis Borges
     roa-tara: Jorge Luis Borges

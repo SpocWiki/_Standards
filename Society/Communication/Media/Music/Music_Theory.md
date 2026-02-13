@@ -98,7 +98,7 @@ dv_has_:
     az: Musiqi nəzəriyyəsi
     ba: музыка теорияһы
     be: тэорыя музыкі
-    be-tarask: тэорыя музыкі
+    be_tarask: тэорыя музыкі
     bg: Теория на музиката
     bn: সঙ্গীত তত্ত্ব
     bs: teorija muzike
@@ -153,8 +153,8 @@ dv_has_:
     smn: muusikteoria
     sms: musikkteoria
     sr: теорија музике
-    sr-ec: теорија музике
-    sr-el: teorija muzike
+    sr_ec: теорија музике
+    sr_el: teorija muzike
     sv: musikteori
     te: సంగీత సిద్ధాంతం
     tg: назарияи мусиқӣ
@@ -168,12 +168,12 @@ dv_has_:
     vi: lý thuyết âm nhạc
     yue: 樂理
     zh: 音樂理論
-    zh-cn: 音乐理论
-    zh-hans: 音乐理论
-    zh-hant: 音樂理論
-    zh-hk: 音樂理論
-    zh-sg: 音乐理论
-    zh-tw: 音樂理論
+    zh_cn: 音乐理论
+    zh_hans: 音乐理论
+    zh_hant: 音樂理論
+    zh_hk: 音樂理論
+    zh_sg: 音乐理论
+    zh_tw: 音樂理論
 ---
 # [[Music_Theory]] 
 

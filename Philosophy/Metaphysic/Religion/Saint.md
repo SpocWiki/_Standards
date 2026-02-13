@@ -159,7 +159,7 @@ dv_has_:
     ba: изге
     bcl: Santo
     be: святы
-    be-tarask: сьвяты
+    be_tarask: сьвяты
     bg: Светец
     bn: সন্ত
     br: sant
@@ -176,8 +176,8 @@ dv_has_:
     dsb: swěty
     el: Άγιος
     en: saint
-    en-ca: Saint
-    en-gb: saint
+    en_ca: Saint
+    en_gb: saint
     eo: sanktulo
     es: santo
     et: Pühak
@@ -221,7 +221,7 @@ dv_has_:
     mk: светец
     mr: संत
     ms: santo
-    ms-arab: سنتو
+    ms_arab: سنتو
     nb: helgen
     nl: heilige
     nn: helgen
@@ -232,7 +232,7 @@ dv_has_:
     pl: święty
     pnb: سینٹ
     pt: santo
-    pt-br: Santo
+    pt_br: Santo
     qu: Santu
     ro: sfânt
     ru: святой
@@ -262,8 +262,8 @@ dv_has_:
     xal: Бодь
     yue: 聖人
     zh: 圣人
-    zh-hant: 聖人
-    zh-hk: 聖人
+    zh_hant: 聖人
+    zh_hk: 聖人
 ---
 # [[Saint]] 
 

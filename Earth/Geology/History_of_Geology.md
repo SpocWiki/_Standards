@@ -73,7 +73,7 @@ dv_has_:
   name_:
     ar: تاريخ الجيولوجيا
     az: geologiya tarixi
-    be-tarask: гісторыя геалёгіі
+    be_tarask: гісторыя геалёгіі
     bn: ভূতত্ত্বের ইতিহাস
     ca: història de la geologia
     cs: historie geologie
@@ -95,7 +95,7 @@ dv_has_:
     ka: გეოლოგიის ისტორია
     ko: 지질학의 역사
     ku: dîroka erdnasiyê
-    ku-latn: dîroka erdnasiyê
+    ku_latn: dîroka erdnasiyê
     la: historia geologiae
     lv: ģeoloģijas vēsture
     nb: geologiens historie
@@ -112,9 +112,9 @@ dv_has_:
     vi: lịch sử địa chất học
     yue: 地質史
     zh: 地质学史
-    zh-hans: 地质学史
-    zh-hant: 地質學史
-    zh-hk: 地質學史
+    zh_hans: 地质学史
+    zh_hant: 地質學史
+    zh_hk: 地質學史
 ---
 # [[History_of_Geology]] 
 

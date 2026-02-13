@@ -155,7 +155,7 @@ dv_has_:
     ast: ponte d'Øresund
     az: Öresund körpüsü
     be: Эрэсунскі мост
-    be-tarask: Эрэсундзкі мост
+    be_tarask: Эрэсундзкі мост
     bg: Йоресунд
     bs: Eresundski most
     ca: Pont de l'Øresund
@@ -163,11 +163,11 @@ dv_has_:
     cy: Pont Øresund
     da: Øresundsbroen
     de: Öresundbrücke
-    de-ch: Öresundbrücke
+    de_ch: Öresundbrücke
     el: Γέφυρα Έρεσουντ
     en: Øresund Bridge
-    en-ca: Øresund Bridge
-    en-gb: Øresund Bridge
+    en_ca: Øresund Bridge
+    en_gb: Øresund Bridge
     eo: Sundoponto
     es: puente de Oresund
     et: Sundi sild
@@ -202,7 +202,7 @@ dv_has_:
     nn: Øresundbrua
     pl: Most nad Sundem
     pt: Ponte do Øresund
-    pt-br: Ponte do Øresund
+    pt_br: Ponte do Øresund
     ro: podul Øresund
     ru: Эресуннский мост
     sh: Eresundski most
@@ -220,9 +220,9 @@ dv_has_:
     xmf: ერესუნიშ ხინჯი
     yue: 松德海峽大橋
     zh: 厄勒海峽大橋
-    zh-cn: 厄勒海峡大桥
-    zh-hans: 厄勒海峡大桥
-    zh-hant: 厄勒海峽大橋
+    zh_cn: 厄勒海峡大桥
+    zh_hans: 厄勒海峡大桥
+    zh_hant: 厄勒海峽大橋
 ---
 # [[Øresund_Bridge]] 
 

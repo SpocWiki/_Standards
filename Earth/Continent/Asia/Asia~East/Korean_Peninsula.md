@@ -143,7 +143,7 @@ dv_has_:
     az: Koreya yarımadası
     ba: Корея ярымутрауы
     be: Карэйскі паўвостраў
-    be-tarask: Карэйскі паўвостраў
+    be_tarask: Карэйскі паўвостраў
     bg: Корейски полуостров
     bn: কোরীয় উপদ্বীপ
     br: Ledenez Korea
@@ -184,9 +184,9 @@ dv_has_:
     jv: Semenanjung Koréa
     ka: კორეის ნახევარკუნძული
     kk: Корей түбегі
-    kk-arab: كورەي تۇبەگى
-    kk-cyrl: Корей түбегі
-    kk-latn: Koreý tübegi
+    kk_arab: كورەي تۇبەگى
+    kk_cyrl: Корей түбегі
+    kk_latn: Koreý tübegi
     km: ឧបទ្វីបកូរ៉េ
     ko: 한반도
     ko-kp: 조선반도
@@ -213,7 +213,7 @@ dv_has_:
     pnb: جزیرہ نما کوریا
     ps: کوریا ټاپووزمه
     pt: Península da Coreia
-    pt-br: Península da Coreia
+    pt_br: Península da Coreia
     ro: Peninsula Coreeană
     ru: Корейский полуостров
     sah: Кэриэй тумул арыыта
@@ -222,8 +222,8 @@ dv_has_:
     sk: Kórejský polostrov
     sl: Korejski polotok
     sr: Корејско полуострво
-    sr-ec: Корејско полуострво
-    sr-el: Korejsko poluostrvo
+    sr_ec: Корејско полуострво
+    sr_el: Korejsko poluostrvo
     sv: Koreahalvön
     sw: Peninsula ya Korea
     ta: கொரியத் தீபகற்பம்
@@ -241,10 +241,10 @@ dv_has_:
     xmf: კორეაშ ჩქონი
     yue: 朝鮮半島
     zh: 朝鮮半島
-    zh-cn: 朝鲜半岛
-    zh-hans: 朝鲜半岛
-    zh-hant: 朝鮮半島
-    zh-hk: 朝鮮半島
+    zh_cn: 朝鲜半岛
+    zh_hans: 朝鲜半岛
+    zh_hant: 朝鮮半島
+    zh_hk: 朝鮮半島
 ---
 # [[Korean_Peninsula]] 
 

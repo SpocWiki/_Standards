@@ -37,7 +37,7 @@ dv_has_:
   name_:
     ar: جاز حر
     ast: Free jazz
-    be-tarask: вольны джаз
+    be_tarask: вольны джаз
     bs: Free džez
     ca: free-jazz
     cs: free jazz
@@ -63,7 +63,7 @@ dv_has_:
     ja: フリー・ジャズ
     ko: 프리 재즈
     ku: azadcaz
-    ku-latn: azadcaz
+    ku_latn: azadcaz
     la: Jazz liberum
     lt: laisvasis džiazas
     lv: brīvais džezs

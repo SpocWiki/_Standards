@@ -130,7 +130,7 @@ dv_has_:
     bbc: Harahata
     bcl: Cancer (konstelasyon)
     be: Рак
-    be-tarask: Рак
+    be_tarask: Рак
     bg: Рак
     bn: কর্কট
     bo: ཀརྐ་ཊ་སྐར་ཚོམ་

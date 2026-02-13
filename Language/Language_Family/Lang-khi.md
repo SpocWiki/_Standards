@@ -97,7 +97,7 @@ dv_has_:
     ar: لغات خويسان
     ast: Llingües de la familia khoisan
     azb: خویسان دیللری
-    be-tarask: кайсанскія мовы
+    be_tarask: кайсанскія мовы
     bg: Койсански езици
     bn: খোইসীয় ভাষাসমূহ
     br: yezhoù koiek-sanek
@@ -154,8 +154,8 @@ dv_has_:
     sk: khoisanské jazyky
     sl: kojsanski jeziki
     sr: којсански језици
-    sr-ec: којсански језици
-    sr-el: kojsanski jezici
+    sr_ec: којсански језици
+    sr_el: kojsanski jezici
     sv: Khoisanspråk
     sw: Lugha za Khoisan
     ta: கோய்சான் மொழிகள்
@@ -169,8 +169,8 @@ dv_has_:
     wuu: 科伊桑语系
     yue: 科伊桑語系
     zh: 科伊桑语系
-    zh-cn: 科伊桑语系
-    zh-hans: 科伊桑语系
+    zh_cn: 科伊桑语系
+    zh_hans: 科伊桑语系
 ---
 # [[Lang-khi]] 
 

@@ -66,7 +66,7 @@ dv_has_:
     ast: Tutsi
     az: Tutsilər
     be: Тутсі
-    be-tarask: тутсі
+    be_tarask: тутсі
     bg: Тутси
     bn: টুট্সি
     ca: Tutsis
@@ -77,7 +77,7 @@ dv_has_:
     diq: Tutsi
     el: Τούτσι
     en: Tutsi
-    en-gb: Tutsi
+    en_gb: Tutsi
     en-us: Tutsi
     eo: Tutsioj
     es: Tutsi
@@ -119,8 +119,8 @@ dv_has_:
     sl: Tutsiji
     so: Tutsi
     sr: Тутси
-    sr-ec: Тутси
-    sr-el: Tutsi
+    sr_ec: Тутси
+    sr_el: Tutsi
     sv: Tutsier
     sw: Watutsi
     ta: துட்சி இனக்குழு
@@ -132,12 +132,12 @@ dv_has_:
     yo: Tutsi
     yue: 圖西族
     zh: 图西族
-    zh-cn: 图西族
-    zh-hans: 图西族
-    zh-hant: 圖西族
-    zh-hk: 圖西族
-    zh-sg: 图西族
-    zh-tw: 圖西族
+    zh_cn: 图西族
+    zh_hans: 图西族
+    zh_hant: 圖西族
+    zh_hk: 圖西族
+    zh_sg: 图西族
+    zh_tw: 圖西族
 ---
 # [[Tutsi]] 
 

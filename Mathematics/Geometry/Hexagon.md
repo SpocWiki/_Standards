@@ -111,7 +111,7 @@ dv_has_:
     az: altıbucaqlı
     ba: алтымөйөш
     bcl: heksagono
-    be-tarask: шасьцікутнік
+    be_tarask: шасьцікутнік
     bg: шестоъгълник
     bn: ষড়ভুজ
     br: c'hwec'hkorneg
@@ -125,8 +125,8 @@ dv_has_:
     el: εξάγωνο
     eml: eśàgon
     en: hexagon
-    en-ca: hexagon
-    en-gb: hexagon
+    en_ca: hexagon
+    en_gb: hexagon
     eo: seslatero
     es: hexágono
     et: kuusnurk
@@ -171,7 +171,7 @@ dv_has_:
     pl: sześciokąt
     ps: شپږڅنډی
     pt: hexágono
-    pt-br: hexágono
+    pt_br: hexágono
     ro: hexagon
     ru: шестиугольник
     rue: шостокутник
@@ -182,7 +182,7 @@ dv_has_:
     sn: gonyonhanhatu
     so: hegsagoon
     sr: шестоугао
-    sr-ec: шестоугао
+    sr_ec: шестоугао
     su: sisi genep
     sv: sexhörning
     ta: அறுகோணம்
@@ -191,7 +191,7 @@ dv_has_:
     tl: heksagon
     tr: altıgen
     tt: алтыпочмак
-    tt-cyrl: алтыпочмак
+    tt_cyrl: алтыпочмак
     uk: шестикутник
     ur: مسدس (ہندسہ)
     vi: lục giác
@@ -200,7 +200,7 @@ dv_has_:
     yi: זעקסעק
     yue: 六邊形
     zh: 六边形
-    zh-hant: 六邊形
+    zh_hant: 六邊形
 ---
 # [[Hexagon]] 
 

@@ -458,7 +458,7 @@ dv_has_:
   name_:
     ab: Аурыс бызшәа
     ady: урысыбзэ
-    aeb-arab: الروسي
+    aeb_arab: الروسي
     af: Russies
     alt: орус тил
     am: መስኮብኛ
@@ -485,7 +485,7 @@ dv_has_:
     bbc: Hata Rusia
     bcl: Ruso
     be: руская мова
-    be-tarask: расейская мова
+    be_tarask: расейская мова
     bew: Basa Rus
     bg: руски език
     bho: रूसी भाषा
@@ -505,7 +505,7 @@ dv_has_:
     ckb: زمانی ڕووسی
     co: russu
     crh: Rus tili
-    crh-latn: Rus tili
+    crh_latn: Rus tili
     crh-ro: urusşa
     cs: ruština
     csb: Rusczi jãzëk
@@ -514,7 +514,7 @@ dv_has_:
     cy: Rwseg
     da: russisk
     de: Russisch
-    de-ch: Russisch
+    de_ch: Russisch
     diq: Ruski
     dsb: rusojska rěc
     dtp: Boros Rusia
@@ -522,8 +522,8 @@ dv_has_:
     el: Ρωσικά
     eml: Róss
     en: Russian
-    en-ca: Russian
-    en-gb: Russian
+    en_ca: Russian
+    en_gb: Russian
     eo: rusa lingvo
     es: ruso
     et: vene keel
@@ -596,7 +596,7 @@ dv_has_:
     krc: Орус тил
     ks: روٗسی زَبان
     ku: zimanê rûsî
-    ku-latn: zimanê rûsî
+    ku_latn: zimanê rûsî
     kv: роч кыв
     kw: Russek
     ky: орус тили
@@ -633,7 +633,7 @@ dv_has_:
     mr: रशियन भाषा
     mrj: Руш йӹлмӹ
     ms: bahasa Rusia
-    ms-arab: بهاس روسيا
+    ms_arab: بهاس روسيا
     mt: Russu
     my: ရုရှားဘာသာ
     myv: Рузонь кель
@@ -644,7 +644,7 @@ dv_has_:
     nap: Russo
     nb: russisk
     nds: russ’sche Spraak
-    nds-nl: Russisch
+    nds_nl: Russisch
     ne: रूसी
     new: रूसी भाषा
     nl: Russisch
@@ -669,7 +669,7 @@ dv_has_:
     prg: maskōwitiskan
     ps: روسي ژبه
     pt: russo
-    pt-br: russo
+    pt_br: russo
     qu: Rusu simi
     rki: ရုရှားဘာသာ
     rm: lingua russa
@@ -702,7 +702,7 @@ dv_has_:
     so: Af-Ruush
     sq: rusisht
     sr: руски
-    sr-ec: руски
+    sr_ec: руски
     srn: Rusitongo
     su: Rusia
     sv: ryska
@@ -712,7 +712,7 @@ dv_has_:
     te: రష్యన్ భాష
     tet: Rusu
     tg: русӣ
-    tg-cyrl: забони русӣ
+    tg_cyrl: забони русӣ
     th: ภาษารัสเซีย
     ti: ራሽኛ ፊደል
     tk: Rus dili
@@ -722,8 +722,8 @@ dv_has_:
     tpi: Tok Rasia
     tr: Rusça
     tt: рус теле
-    tt-cyrl: рус теле
-    tt-latn: rus tele
+    tt_cyrl: рус теле
+    tt_latn: rus tele
     tw: Rɔhyea kasa
     ty: Reo Rūtia
     tyv: Орус дыл
@@ -750,11 +750,11 @@ dv_has_:
     zea: Russisch
     zgh: ⵜⵓⵜⵍⴰⵢⵜ ⵜⴰⵔⵓⵙⵉⵜ
     zh: 俄語
-    zh-cn: 俄语
-    zh-hans: 俄语
-    zh-hant: 俄語
-    zh-hk: 俄語
-    zh-tw: 俄語
+    zh_cn: 俄语
+    zh_hans: 俄语
+    zh_hant: 俄語
+    zh_hk: 俄語
+    zh_tw: 俄語
     zu: IsiRashiya
 ---
 # [[Lang-rus]] 

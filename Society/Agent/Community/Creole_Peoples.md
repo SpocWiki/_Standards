@@ -71,7 +71,7 @@ dv_has_:
     az: Kreollar
     ba: Креолдар
     be: Крэолы
-    be-tarask: крэолы
+    be_tarask: крэолы
     bg: Креоли
     ca: crioll
     ceb: Mga insular
@@ -111,8 +111,8 @@ dv_has_:
     sh: Kreoli
     sk: Kreoli
     sr: Креоли
-    sr-ec: Креоли
-    sr-el: Kreoli
+    sr_ec: Креоли
+    sr_el: Kreoli
     sv: kreol
     ta: கிரியோல் மக்கள்
     tl: Mga insular
@@ -124,9 +124,9 @@ dv_has_:
     xmf: კრეოლეფი
     yue: 克里奧爾人
     zh: 克里奧尔人
-    zh-hans: 克里奥尔人
-    zh-hant: 克里奧爾人
-    zh-hk: 克里奧爾人
+    zh_hans: 克里奥尔人
+    zh_hant: 克里奧爾人
+    zh_hk: 克里奧爾人
 ---
 # [[Creole_Peoples]] 
 

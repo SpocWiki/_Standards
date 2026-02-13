@@ -86,7 +86,7 @@ dv_has_:
     ar: ستراديان
     ast: estereorradián
     be: стэрадыян
-    be-tarask: стэрадыян
+    be_tarask: стэрадыян
     bg: стерадиан
     bn: স্টেরেডিয়ান
     bo: ཟླུམ་ངོས་ཚད།
@@ -121,11 +121,11 @@ dv_has_:
     jbo: stero
     ka: სტერადიანი
     kk: стерадиан
-    kk-arab: ستەرادىيان
+    kk_arab: ستەرادىيان
     kk-cn: ستەرادىيان
-    kk-cyrl: стерадиан
+    kk_cyrl: стерадиан
     kk-kz: стерадиан
-    kk-latn: steradïan
+    kk_latn: steradïan
     kk-tr: steradïan
     ko: 스테라디안
     lb: Steradiant
@@ -152,8 +152,8 @@ dv_has_:
     sk: steradián
     sl: steradian
     sr: стерадијан
-    sr-ec: стерадијан
-    sr-el: steradijan
+    sr_ec: стерадијан
+    sr_el: steradijan
     sv: steradian
     ta: ஸ்டீரேடியன்
     th: สเตอเรเดียน
@@ -165,12 +165,12 @@ dv_has_:
     wuu: 球面度
     yue: 球面度
     zh: 球面度
-    zh-cn: 球面度
-    zh-hans: 球面度
-    zh-hant: 球面度
-    zh-hk: 球面度
-    zh-sg: 球面度
-    zh-tw: 球面度
+    zh_cn: 球面度
+    zh_hans: 球面度
+    zh_hant: 球面度
+    zh_hk: 球面度
+    zh_sg: 球面度
+    zh_tw: 球面度
 ---
 # [[Steradian]]
 

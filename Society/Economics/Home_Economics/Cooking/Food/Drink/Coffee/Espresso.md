@@ -70,7 +70,7 @@ dv_has_:
     ast: café espreso
     az: espresso
     be: эспрэса
-    be-tarask: эспрэса
+    be_tarask: эспрэса
     bg: еспресо
     bs: espresso
     ca: cafè exprés
@@ -78,11 +78,11 @@ dv_has_:
     cy: espresso
     da: espresso
     de: Espresso
-    de-ch: Espresso
+    de_ch: Espresso
     el: εσπρέσο
     en: espresso
-    en-ca: espresso
-    en-gb: espresso
+    en_ca: espresso
+    en_gb: espresso
     eo: espreso
     es: café expreso
     et: espresso
@@ -104,11 +104,11 @@ dv_has_:
     jv: espreso
     ka: ესპრესო
     kk: эспрессо
-    kk-arab: ەسپرەسسو
+    kk_arab: ەسپرەسسو
     kk-cn: ەسپرەسسو
-    kk-cyrl: эспрессо
+    kk_cyrl: эспрессо
     kk-kz: эспрессо
-    kk-latn: espresso
+    kk_latn: espresso
     kk-tr: espresso
     ko: 에스프레소
     ko-kp: 에스프렛쏘
@@ -129,7 +129,7 @@ dv_has_:
     pap: espresso
     pl: espresso
     pt: café expresso
-    pt-br: café expresso
+    pt_br: café expresso
     ro: espresso
     ru: эспрессо
     sk: espreso
@@ -148,11 +148,11 @@ dv_has_:
     yue: 特濃咖啡
     zh: 濃縮咖啡
     zh-cn: 浓缩咖啡
-    zh-hans: 浓缩咖啡
-    zh-hant: 濃縮咖啡
-    zh-hk: 特濃咖啡
-    zh-sg: 浓缩咖啡
-    zh-tw: 濃縮咖啡
+    zh_hans: 浓缩咖啡
+    zh_hant: 濃縮咖啡
+    zh_hk: 特濃咖啡
+    zh_sg: 浓缩咖啡
+    zh_tw: 濃縮咖啡
 ---
 # [[Espresso]] 
 

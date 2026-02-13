@@ -76,7 +76,7 @@ dv_has_:
     azb: نظری ریاضیات
     ba: Саф математика
     be: чыстая матэматыка
-    be-tarask: чыстая матэматыка
+    be_tarask: чыстая матэматыка
     bn: বিশুদ্ধ গণিত
     ca: matemàtica pura
     cs: čistá matematika
@@ -86,8 +86,8 @@ dv_has_:
     de: reine Mathematik
     el: Καθαρά μαθηματικά
     en: pure mathematics
-    en-ca: pure mathematics
-    en-gb: pure mathematics
+    en_ca: pure mathematics
+    en_gb: pure mathematics
     eo: pura matematiko
     es: matemáticas puras
     et: Puhas matemaatika
@@ -114,7 +114,7 @@ dv_has_:
     mk: чиста математика
     mn: Цэвэр математик
     ms: matematik tulen
-    ms-arab: ماتماتيک تولين
+    ms_arab: ماتماتيک تولين
     my: သင်္ချာသန့်သန့်
     nb: ren matematikk
     nl: zuivere wiskunde
@@ -123,14 +123,14 @@ dv_has_:
     pl: czysta matematyka
     pnb: خالص ریاضی
     pt: matemática pura
-    pt-br: matemática pura
+    pt_br: matemática pura
     ro: matematică pură
     ru: чистая математика
     shi: Tusnakt taḥuṛṛit
     sl: čista matematika
     sr: чиста математика
-    sr-ec: чиста математика
-    sr-el: čista matematika
+    sr_ec: чиста математика
+    sr_el: čista matematika
     th: คณิตศาสตร์บริสุทธิ์
     tl: Purong matematika
     tr: soyut matematik
@@ -142,9 +142,9 @@ dv_has_:
     wuu: 纯粹数学
     yue: 純粹數學
     zh: 純粹數學
-    zh-hans: 纯粹数学
-    zh-hant: 純粹數學
-    zh-hk: 純粹數學
+    zh_hans: 纯粹数学
+    zh_hant: 純粹數學
+    zh_hk: 純粹數學
 ---
 # [[Pure_Mathematics]] 
 

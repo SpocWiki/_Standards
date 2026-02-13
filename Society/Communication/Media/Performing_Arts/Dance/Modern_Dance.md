@@ -61,7 +61,7 @@ dv_has_:
   name_:
     af: modern dans
     ar: رقص حديث
-    be-tarask: мадэрновы танец
+    be_tarask: мадэрновы танец
     bg: Модерен танц
     ca: Dansa Moderna
     cs: moderní tanec
@@ -104,9 +104,9 @@ dv_has_:
     vi: Nhảy hiện đại
     yue: 現代舞
     zh: 現代舞
-    zh-hans: 现代舞
-    zh-hant: 現代舞
-    zh-hk: 現代舞
+    zh_hans: 现代舞
+    zh_hant: 現代舞
+    zh_hk: 現代舞
 ---
 # [[Modern_Dance]] 
 

@@ -138,7 +138,7 @@ dv_has_:
     bar: E-Gitarren
     bcl: Gitarang de-kuryente
     be: электрагітара
-    be-tarask: электрагітара
+    be_tarask: электрагітара
     bg: електрическа китара
     bn: ইলেকট্রিক গিটার
     bo: གློག་དཀྲོལ་རྒྱུད་མང་།
@@ -178,7 +178,7 @@ dv_has_:
     ka: ელექტრო გიტარა
     ko: 전기 기타
     ku: gîtara elektrîk
-    ku-latn: gîtara elektrîk
+    ku_latn: gîtara elektrîk
     la: cithara electrica
     lb: elektresch Gittar
     lfn: Gitar eletrical
@@ -214,7 +214,7 @@ dv_has_:
     sv: elgitarr
     szl: Elektryczno gitara
     ta: மின் கிதார்
-    tg-cyrl: гитори барқӣ
+    tg_cyrl: гитори барқӣ
     th: กีตาร์ไฟฟ้า
     tl: Gitarang de-kuryente
     tr: elektro gitar
@@ -227,9 +227,9 @@ dv_has_:
     wuu: 电吉他
     yue: 電結他
     zh: 电吉他
-    zh-hant: 電吉他
-    zh-hk: 電結他
-    zh-tw: 電吉他
+    zh_hant: 電吉他
+    zh_hk: 電結他
+    zh_tw: 電吉他
 ---
 # [[Electric_Guitar]] 
 

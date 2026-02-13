@@ -96,7 +96,7 @@ dv_has_:
     az: energetik içki
     ba: энергетик эсемлек
     be: энергетычны напой
-    be-tarask: энэргетычны напой
+    be_tarask: энэргетычны напой
     bg: енергийна напитка
     bn: এনার্জি ড্রিঙ্ক
     bs: energetski napitak
@@ -106,8 +106,8 @@ dv_has_:
     de: Energydrink
     el: ενεργειακό ποτό
     en: energy drink
-    en-ca: energy drink
-    en-gb: energy drink
+    en_ca: energy drink
+    en_gb: energy drink
     eo: energitrinkaĵo
     es: bebida energizante
     et: energiajook
@@ -140,7 +140,7 @@ dv_has_:
     oc: beure energizant
     pl: napój energetyzujący
     pt: bebida energética
-    pt-br: bebida energética
+    pt_br: bebida energética
     ro: băutură energizantă
     ru: энергетический напиток
     rue: енерґетичні напиткы
@@ -165,11 +165,11 @@ dv_has_:
     yue: 能量飲品
     zh: 能量饮料
     zh-cn: 能量饮料
-    zh-hans: 能量饮料
-    zh-hant: 能量飲料
-    zh-hk: 能量飲料
-    zh-sg: 能量饮料
-    zh-tw: 能量飲料
+    zh_hans: 能量饮料
+    zh_hant: 能量飲料
+    zh_hk: 能量飲料
+    zh_sg: 能量饮料
+    zh_tw: 能量飲料
 ---
 # [[Energy_Drink]] 
 

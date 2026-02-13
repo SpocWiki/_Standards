@@ -97,7 +97,7 @@ dv_has_:
     arz: ديتريش بونهوفر
     ast: Dietrich Bonhoeffer
     be: Дзітрых Банхёфер
-    be-tarask: Дытрых Бонгёфэр
+    be_tarask: Дытрых Бонгёфэр
     bg: Дитрих Бонхьофер
     ca: Dietrich Bonhoeffer
     cs: Dietrich Bonhoeffer
@@ -141,7 +141,7 @@ dv_has_:
     pl: Dietrich Bonhoeffer
     ps: ډيټريک بونهوفر
     pt: Dietrich Bonhoeffer
-    pt-br: Dietrich Bonhoeffer
+    pt_br: Dietrich Bonhoeffer
     rm: Dietrich Bonhoeffer
     ro: Dietrich Bonhoeffer
     ru: Дитрих Бонхёффер
@@ -162,7 +162,7 @@ dv_has_:
     wuu: 迪特里希·潘霍华
     yue: 潘霍華
     zh: 迪特里希·潘霍華
-    zh-cn: 迪特里希·朋霍费尔
+    zh_cn: 迪特里希·朋霍费尔
 ---
 # [[Bonhoeffer,Dietrich]] 
 

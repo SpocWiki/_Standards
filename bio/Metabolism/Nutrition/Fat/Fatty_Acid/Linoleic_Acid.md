@@ -709,8 +709,8 @@ dv_has_:
     de: Linolsäure
     el: Λινελαϊκό οξύ
     en: linoleic acid
-    en-ca: Linoleic acid
-    en-gb: Linoleic acid
+    en_ca: Linoleic acid
+    en_gb: Linoleic acid
     eo: linoleata acido
     es: Ácido linoleico
     et: linoolhape
@@ -736,15 +736,15 @@ dv_has_:
     nn: linolsyre
     pl: kwas linolowy
     pt: ácido linoleico
-    pt-br: Ácido linoleico
+    pt_br: Ácido linoleico
     ro: Acid linoleic
     ru: линолевая кислота
     sh: Linolna kiselina
     sk: kyselina linolová
     sl: linolna kislina
     sr: линолна киселина
-    sr-ec: Линолна киселина
-    sr-el: Linolna kiselina
+    sr_ec: Линолна киселина
+    sr_el: Linolna kiselina
     sv: Linolsyra
     ta: லினோலெயிக் அமிலம்
     te: లినొలిక్ ఆమ్లం
@@ -755,12 +755,12 @@ dv_has_:
     vi: Acid linoleic
     yue: 亞油酸
     zh: 亚油酸
-    zh-cn: 亚油酸
-    zh-hans: 亚油酸
-    zh-hant: 亞油酸
-    zh-hk: 亞油酸
-    zh-sg: 亚油酸
-    zh-tw: 亞油酸
+    zh_cn: 亚油酸
+    zh_hans: 亚油酸
+    zh_hant: 亞油酸
+    zh_hk: 亞油酸
+    zh_sg: 亚油酸
+    zh_tw: 亞油酸
 dv_is_:
   same_as:
   - '[[WD~Linoleic_Acid,407426]]'

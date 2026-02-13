@@ -221,7 +221,7 @@ dv_has_:
     ba: Георг Фридрих Һендель
     bar: Georg Friedrich Händel
     be: Георг Фрыдрых Гендэль
-    be-tarask: Георг Фрыдрых Гэндэль
+    be_tarask: Георг Фрыдрых Гэндэль
     bg: Георг Фридрих Хендел
     bi: Georg Frideric Handel
     bn: জর্জ ফ্রিডেরিক হ্যান্ডেল
@@ -240,8 +240,8 @@ dv_has_:
     de: Georg Friedrich Händel
     el: Γκέοργκ Φρίντριχ Χέντελ
     en: George Frideric Handel
-    en-ca: George Frideric Handel
-    en-gb: George Frideric Handel
+    en_ca: George Frideric Handel
+    en_gb: George Frideric Handel
     eo: Georg Friedrich Händel
     es: Georg Friedrich Händel
     et: Georg Friedrich Händel
@@ -299,7 +299,7 @@ dv_has_:
     nan: Georg Friedrich Händel
     nb: Georg Friedrich Händel
     nds: Georg Friedrich Händel
-    nds-nl: Georg Friedrich Händel
+    nds_nl: Georg Friedrich Händel
     nl: George Frideric Handel
     nn: Georg Friedrich Händel
     oc: Georg Friedrich Händel
@@ -312,7 +312,7 @@ dv_has_:
     pms: Georg Friedrich Händel
     pnb: جارج فریڈریک ہانڈل
     pt: Georg Friedrich Händel
-    pt-br: Georg Friedrich Händel
+    pt_br: Georg Friedrich Händel
     qu: Georg Friedrich Händel
     ro: Georg Friedrich Händel
     ru: Георг Фридрих Гендель
@@ -348,8 +348,8 @@ dv_has_:
     yi: געארג פרידריך הענדל
     yue: 韓德爾
     zh: 格奥尔格·弗里德里希·亨德尔
-    zh-hk: 紀岳·費德里希·韓德爾
-    zh-tw: 蓋歐格·弗里德里希·韓德爾
+    zh_hk: 紀岳·費德里希·韓德爾
+    zh_tw: 蓋歐格·弗里德里希·韓德爾
 ---
 # [[Handel,George_Frideric]] 
 

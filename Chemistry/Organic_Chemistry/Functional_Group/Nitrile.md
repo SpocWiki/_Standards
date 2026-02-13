@@ -57,7 +57,7 @@ dv_has_:
     ar: نتريل
     az: nitril
     be: нітрыл
-    be-tarask: нітрыл
+    be_tarask: нітрыл
     ca: Nitril
     cs: nitril
     da: Nitril
@@ -96,8 +96,8 @@ dv_has_:
     sk: Nitril
     sl: nitril
     sr: Nitril
-    sr-ec: Нитрил
-    sr-el: Nitril
+    sr_ec: Нитрил
+    sr_el: Nitril
     sv: Nitril
     tr: Nitril
     uk: нітрил
@@ -105,12 +105,12 @@ dv_has_:
     wuu: 腈
     yue: 腈
     zh: 腈
-    zh-cn: 腈
-    zh-hans: 腈
-    zh-hant: 腈
-    zh-hk: 腈
-    zh-sg: 腈
-    zh-tw: 腈
+    zh_cn: 腈
+    zh_hans: 腈
+    zh_hant: 腈
+    zh_hk: 腈
+    zh_sg: 腈
+    zh_tw: 腈
 ---
 # [[Nitrile]] 
 

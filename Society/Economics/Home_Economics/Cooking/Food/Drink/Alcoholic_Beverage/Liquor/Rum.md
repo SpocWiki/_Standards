@@ -72,7 +72,7 @@ dv_has_:
     az: Rom
     ban: Rum
     be: Ром
-    be-tarask: Ром
+    be_tarask: Ром
     bg: Ром
     bn: রাম (পানীয়)
     br: Rom
@@ -154,13 +154,13 @@ dv_has_:
     yue: 冧酒
     zh: 兰姆酒
     zh-cn: 朗姆酒
-    zh-hans: 朗姆酒
-    zh-hant: 蘭姆酒
-    zh-hk: 冧酒
-    zh-mo: 蘭姆酒
+    zh_hans: 朗姆酒
+    zh_hant: 蘭姆酒
+    zh_hk: 冧酒
+    zh_mo: 蘭姆酒
     zh-my: 兰姆酒
-    zh-sg: 兰姆酒
-    zh-tw: 蘭姆酒
+    zh_sg: 兰姆酒
+    zh_tw: 蘭姆酒
 ---
 # [[Rum]] 
 

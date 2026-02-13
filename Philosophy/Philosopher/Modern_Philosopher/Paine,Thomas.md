@@ -131,7 +131,7 @@ dv_has_:
     bar: Thomas Paine
     bcl: Thomas Paine
     be: Томас Пейн
-    be-tarask: Томас Пэйн
+    be_tarask: Томас Пэйн
     bg: Томас Пейн
     bho: थॉमस पेन
     bn: টমাস পেইন
@@ -187,7 +187,7 @@ dv_has_:
     nan: Tom Paine
     nb: Thomas Paine
     nds: Thomas Paine
-    nds-nl: Thomas Paine
+    nds_nl: Thomas Paine
     ne: थोमस पेन
     nl: Thomas Paine
     nn: Thomas Paine
@@ -198,7 +198,7 @@ dv_has_:
     pnb: تھامس پین
     ps: توماس پېن
     pt: Thomas Paine
-    pt-br: Thomas Paine
+    pt_br: Thomas Paine
     ro: Thomas Paine
     ru: Томас Пейн
     sco: Thomas Paine
@@ -208,13 +208,13 @@ dv_has_:
     sl: Thomas Paine
     sq: Thomas Paine
     sr: Томас Пејн
-    sr-ec: Томас Пејн
-    sr-el: Tomas Pejn
+    sr_ec: Томас Пејн
+    sr_el: Tomas Pejn
     sv: Thomas Paine
     ta: தாமஸ் பெய்ன்
     te: థామస్ పేన్
     tg: Томас Пейн
-    tg-latn: Tomas Pejn
+    tg_latn: Tomas Pejn
     th: โทมัส เพน
     tl: Thomas Paine
     tok: jan Toma Pin
@@ -231,12 +231,12 @@ dv_has_:
     yo: Thomas Paine
     yue: 湯瑪斯·潘恩
     zh: 托马斯·潘恩
-    zh-cn: 托马斯·潘恩
+    zh_cn: 托马斯·潘恩
     zh-hans: 托马斯·潘恩
-    zh-hant: 托馬斯·潘恩
-    zh-hk: 湯瑪士·比恩
-    zh-sg: 托马斯·潘恩
-    zh-tw: 湯瑪斯·潘恩
+    zh_hant: 托馬斯·潘恩
+    zh_hk: 湯瑪士·比恩
+    zh_sg: 托马斯·潘恩
+    zh_tw: 湯瑪斯·潘恩
 ---
 # [[Paine,Thomas]] 
 

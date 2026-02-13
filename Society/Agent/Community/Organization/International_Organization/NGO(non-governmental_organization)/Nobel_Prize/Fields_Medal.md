@@ -94,8 +94,8 @@ dv_has_:
     de: Fields-Medaille
     el: μετάλλιο Φιλντς
     en: Fields medal
-    en-ca: Fields Medal
-    en-gb: Fields Medal
+    en_ca: Fields Medal
+    en_gb: Fields Medal
     eo: Medalo Fields
     es: Medalla Fields
     et: Fieldsi medal
@@ -138,7 +138,7 @@ dv_has_:
     pl: Medal Fieldsa
     pnb: فیلڈز میڈل
     pt: Medalha Fields
-    pt-br: Medalha Fields
+    pt_br: Medalha Fields
     ro: Medalia Fields
     ru: Филдсовская премия
     sa: फील्ड्स् पदकप्रशस्तिः
@@ -160,9 +160,9 @@ dv_has_:
     xmf: ფილდსიშ მენდალი
     yue: 菲爾茲獎
     zh: 菲尔兹奖
-    zh-cn: 菲尔兹奖
-    zh-hans: 菲尔兹奖
-    zh-hant: 菲爾茲獎
+    zh_cn: 菲尔兹奖
+    zh_hans: 菲尔兹奖
+    zh_hant: 菲爾茲獎
 ---
 #is_/similar_to :: [[Abel_Prize]] 
 

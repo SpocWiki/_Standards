@@ -191,7 +191,7 @@ dv_has_:
     ba: электрон почта
     bar: E-Post
     be: электронная пошта
-    be-tarask: электронная пошта
+    be_tarask: электронная пошта
     bew: Surat lèstrik
     bg: Електронна поща
     bho: ई मेल
@@ -211,13 +211,13 @@ dv_has_:
     cy: e-bost
     da: e-mail
     de: E-Mail
-    de-ch: E-Mail
+    de_ch: E-Mail
     diq: E-mail
     el: ηλεκτρονικό ταχυδρομείο
     eml: pòsta eletrônica
     en: email
-    en-ca: email
-    en-gb: e-mail
+    en_ca: email
+    en_gb: e-mail
     eo: retpoŝto
     es: correo electrónico
     et: e-kiri
@@ -280,14 +280,14 @@ dv_has_:
     mn: Цахим шуудан
     mr: ईमेल
     ms: e-mel
-    ms-arab: إي-ميل
+    ms_arab: إي-ميل
     my: အီးမေးလ်
     nah: e-mail
     nan: Tiān-chú-phoe
     nan-hant: 電子批
     nb: e-post
     nds: Nettbreef
-    nds-nl: lienpost
+    nds_nl: lienpost
     ne: इमेल
     nl: e-mail
     nn: e-post
@@ -300,7 +300,7 @@ dv_has_:
     pnb: ای میل
     ps: برېښليک
     pt: e-mail
-    pt-br: e-mail
+    pt_br: e-mail
     pwn: makawanglu a tigami
     qu: E-chaski
     rki: အီးမေးလ်
@@ -338,7 +338,7 @@ dv_has_:
     tpi: imel
     tr: elektronik posta
     tt: e-mail
-    tt-cyrl: e-mail
+    tt_cyrl: e-mail
     udm: электрон почта
     ug: ئىلخەت
     uk: електронна пошта
@@ -354,10 +354,10 @@ dv_has_:
     yi: בליצפאסט
     yue: 電郵
     zh: 電子郵件
-    zh-cn: 电子邮件
-    zh-hans: 电子邮件
-    zh-hk: 電子郵件
-    zh-tw: 電子郵件
+    zh_cn: 电子邮件
+    zh_hans: 电子邮件
+    zh_hk: 電子郵件
+    zh_tw: 電子郵件
     zu: Incwazuba
 ---
 # [[Email]] 📧 

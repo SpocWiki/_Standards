@@ -199,7 +199,7 @@ dv_has_:
     az: Marsel Düşan
     ba: Марсель Дюшан
     be: Марсель Дзюшан
-    be-tarask: Марсэль Душам
+    be_tarask: Марсэль Душам
     bg: Марсел Дюшан
     br: Marcel Duchamp
     bs: Marcel Duchamp
@@ -210,12 +210,12 @@ dv_has_:
     da: Marcel Duchamp
     dag: Marcel Duchamp
     de: Marcel Duchamp
-    de-ch: Marcel Duchamp
+    de_ch: Marcel Duchamp
     ee: Marcel Duchamp
     el: Μαρσέλ Ντυσάν
     en: Marcel Duchamp
-    en-ca: Marcel Duchamp
-    en-gb: Marcel Duchamp
+    en_ca: Marcel Duchamp
+    en_gb: Marcel Duchamp
     eo: Marcel Duchamp
     es: Marcel Duchamp
     et: Marcel Duchamp
@@ -259,7 +259,7 @@ dv_has_:
     pms: Marcel Duchamp
     ps: مارسل ډوشمپ
     pt: Marcel Duchamp
-    pt-br: Marcel Duchamp
+    pt_br: Marcel Duchamp
     ro: Marcel Duchamp
     ru: Марсель Дюшан
     sc: Marcel Duchamp
@@ -269,7 +269,7 @@ dv_has_:
     sl: Marcel Duchamp
     sq: Marcel Duchamp
     sr: Марсел Дишан
-    sr-ec: Марсел Дишан
+    sr_ec: Марсел Дишан
     sv: Marcel Duchamp
     th: มาร์แซล ดูว์ช็อง
     tr: Marcel Duchamp
@@ -280,7 +280,7 @@ dv_has_:
     yo: Marcel Duchamp
     yue: 馬些·杜桑
     zh: 馬塞爾·杜象
-    zh-hk: 馬些·杜桑
+    zh_hk: 馬些·杜桑
 ---
 # [[Duchamp,Marcel]] 
 

@@ -159,7 +159,7 @@ dv_has_:
     azb: قولاقدیبی خستهلیگی
     bcl: Bayoko
     be: Эпідэмічны паратыт
-    be-tarask: сьвінка
+    be_tarask: сьвінка
     bg: Епидемичен паротит
     bjn: Bilawa
     bn: মাম্প্স
@@ -218,7 +218,7 @@ dv_has_:
     or: ଗାଲୁଆ
     pl: Nagminne zapalenie przyusznic
     pt: parotidite infecciosa
-    pt-br: Caxumba
+    pt_br: Caxumba
     ro: oreion
     ru: Эпидемический паротит
     sco: Buffits
@@ -245,12 +245,12 @@ dv_has_:
     wuu: 流行性腮腺炎
     yue: 痄腮
     zh: 流行性腮腺炎
-    zh-cn: 腮腺炎
-    zh-hans: 腮腺炎
-    zh-hant: 流行性腮腺炎
-    zh-hk: 腮腺炎
-    zh-sg: 腮腺炎
-    zh-tw: 流行性腮腺炎
+    zh_cn: 腮腺炎
+    zh_hans: 腮腺炎
+    zh_hant: 流行性腮腺炎
+    zh_hk: 腮腺炎
+    zh_sg: 腮腺炎
+    zh_tw: 流行性腮腺炎
 ---
 # [[Mumps]] 
 

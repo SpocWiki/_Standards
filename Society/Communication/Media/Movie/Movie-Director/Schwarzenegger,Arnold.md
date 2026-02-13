@@ -69,7 +69,7 @@ dv_has_:
     bar: Arnold Schwarzenegger
     bcl: Arnold Schwarzenegger
     be: Арнольд Шварцэнэгер
-    be-tarask: Арнольд Шварцэнэгер
+    be_tarask: Арнольд Шварцэнэгер
     bg: Арнолд Шварценегер
     bn: আর্নল্ড শোয়ার্জনেগার
     br: Arnold Schwarzenegger
@@ -84,14 +84,14 @@ dv_has_:
     da: Arnold Schwarzenegger
     de: Arnold Schwarzenegger
     de-at: Arnold Schwarzenegger
-    de-ch: Arnold Schwarzenegger
+    de_ch: Arnold Schwarzenegger
     diq: Arnold Schwarzenegger
     dty: अर्नोल्ड स्वार्जनेगर
     ee: Arnold Schwarzenegger
     el: Άρνολντ Σβαρτσενέγκερ
     en: Arnold Schwarzenegger
-    en-ca: Arnold Schwarzenegger
-    en-gb: Arnold Schwarzenegger
+    en_ca: Arnold Schwarzenegger
+    en_gb: Arnold Schwarzenegger
     eo: Arnold Schwarzenegger
     es: Arnold Schwarzenegger
     et: Arnold Schwarzenegger
@@ -160,7 +160,7 @@ dv_has_:
     pl: Arnold Schwarzenegger
     ps: آرنولد شوارڅنېګر
     pt: Arnold Schwarzenegger
-    pt-br: Arnold Schwarzenegger
+    pt_br: Arnold Schwarzenegger
     ro: Arnold Schwarzenegger
     ru: Арнольд Шварцнеггер
     sco: Arnold Schwarzenegger
@@ -169,7 +169,7 @@ dv_has_:
     sl: Arnold Schwarzenegger
     sq: Arnold Schwarzenegger
     sr: Арнолд Шварценегер
-    sr-ec: Арнолд Шварценегер
+    sr_ec: Арнолд Шварценегер
     srn: Arnold Schwarzenegger
     ss: Arnold Schwarzenegger
     sv: Arnold Schwarzenegger
@@ -195,13 +195,13 @@ dv_has_:
     yo: Arnold Schwarzenegger
     yue: 阿諾舒華辛力加
     zh: 阿诺·施瓦辛格
-    zh-cn: 阿诺德·施瓦辛格
-    zh-hans: 阿诺·施瓦辛格
-    zh-hant: 阿諾·史瓦辛格
-    zh-hk: 阿諾·舒華辛力加
+    zh_cn: 阿诺德·施瓦辛格
+    zh_hans: 阿诺·施瓦辛格
+    zh_hant: 阿諾·史瓦辛格
+    zh_hk: 阿諾·舒華辛力加
     zh-my: 舒华辛力加
-    zh-sg: 舒华辛力加
-    zh-tw: 阿諾·史瓦辛格
+    zh_sg: 舒华辛力加
+    zh_tw: 阿諾·史瓦辛格
 ---
 #has_/time_/started :: 1947-07-30 
 #has_/time_/stopped  :: 

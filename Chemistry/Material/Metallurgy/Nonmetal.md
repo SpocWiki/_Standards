@@ -32,7 +32,7 @@ dv_has_:
     ast: Non metal
     az: qeyri-metallar
     be: неметалы
-    be-tarask: немэтал
+    be_tarask: немэтал
     bg: Неметал
     blk: Nonmetal (ဓာတုဗေဒ)
     bn: অধাতু
@@ -44,12 +44,12 @@ dv_has_:
     cy: Anfetel
     da: ikkemetal
     de: Nichtmetalle
-    de-ch: Nichtmetalle
+    de_ch: Nichtmetalle
     diq: Ametal
     el: αμέταλλα
     en: nonmetal
-    en-ca: Nonmetal
-    en-gb: non-metal
+    en_ca: Nonmetal
+    en_gb: non-metal
     eo: nemetalo
     es: no metal
     et: mittemetallid
@@ -80,7 +80,7 @@ dv_has_:
     ka: არალითონები
     kab: Arasin
     kk: бейметалдар
-    kk-latn: beymetaldar
+    kk_latn: beymetaldar
     kn: ಅಲೋಹಗಳು
     ko: 비금속
     ks: غٲر داتھ
@@ -97,7 +97,7 @@ dv_has_:
     mn: Металл биш элемент
     mr: अधातु
     ms: bukan logam
-    ms-arab: بوکن لوݢم
+    ms_arab: بوکن لوݢم
     my: Nonmetal
     nan: Hui-kim-sio̍k
     nb: ikke-metall
@@ -110,7 +110,7 @@ dv_has_:
     pa: ਅਧਾਤ
     pl: niemetal
     pt: não metal
-    pt-br: não metal
+    pt_br: não metal
     qu: Mana q'illay
     ro: nemetal
     ru: неметаллы
@@ -130,8 +130,8 @@ dv_has_:
     ta: அலோகம்
     te: అలోహం
     tg: нофилиззҳо
-    tg-cyrl: нофилиззҳо
-    tg-latn: nofilizzho
+    tg_cyrl: нофилиззҳо
+    tg_latn: nofilizzho
     th: อโลหะ
     tr: ametal
     udm: металл луисьтэмъёс

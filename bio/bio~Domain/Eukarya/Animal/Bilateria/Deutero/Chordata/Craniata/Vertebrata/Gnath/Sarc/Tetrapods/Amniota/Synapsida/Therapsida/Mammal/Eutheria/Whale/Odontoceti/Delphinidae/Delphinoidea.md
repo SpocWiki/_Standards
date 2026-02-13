@@ -30,7 +30,7 @@ dv_has_:
     ar: دلفينيات وأشباهها
     arz: دلافين
     ast: Delphinoidea
-    be-tarask: Delphinoidea
+    be_tarask: Delphinoidea
     bg: Delphinoidea
     ca: delfinoïdeus
     ceb: Delphinoidea
@@ -65,7 +65,7 @@ dv_has_:
     oc: Delphinoidea
     pl: Delphinoidea
     pt: Delphinoidea
-    pt-br: Delphinoidea
+    pt_br: Delphinoidea
     ro: Delphinoidea
     ru: Delphinoidea
     sco: Delphinoidea
@@ -78,9 +78,9 @@ dv_has_:
     vo: Delphinoidea
     war: Delphinoidea
     zh: 海豚总科
-    zh-cn: 海豚总科
-    zh-hans: 海豚总科
-    zh-tw: 海豚總科
+    zh_cn: 海豚总科
+    zh_hans: 海豚总科
+    zh_tw: 海豚總科
 ---
 # [[Delphinoidea]] 
 

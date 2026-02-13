@@ -114,7 +114,7 @@ dv_has_:
     ast: operación militar
     az: hərbi əməliyyat
     be: ваенная аперацыя
-    be-tarask: вайсковая апэрацыя
+    be_tarask: вайсковая апэрацыя
     bg: Военна операция
     bn: সামরিক অভিযান
     br: oberiadur brezel
@@ -127,11 +127,11 @@ dv_has_:
     cy: gweithrediad milwrol
     da: militæroperation
     de: militärische Operation
-    de-ch: Operation
+    de_ch: Operation
     diq: Operasyonê Aspariye
     el: στρατιωτική επιχείρηση
     en: military operation
-    en-ca: military operation
+    en_ca: military operation
     eo: operaco
     es: operación militar
     et: sõjaväeline operatsioon
@@ -168,7 +168,7 @@ dv_has_:
     os: хæстон операци
     pl: operacja wojskowa
     pt: operação militar
-    pt-br: operação militar
+    pt_br: operação militar
     ro: operațiune militară
     ru: военная операция
     sco: militar operation
@@ -176,8 +176,8 @@ dv_has_:
     sl: vojaška operacija
     sq: Operacioni ushtarak
     sr: војна операција
-    sr-ec: војна операција
-    sr-el: vojna operacija
+    sr_ec: војна операција
+    sr_el: vojna operacija
     sv: militär operation
     te: సైనిక చర్య
     tg: Амалиёти Ҳарбӣ
@@ -191,11 +191,11 @@ dv_has_:
     vi: hoạt động quân sự
     xmf: ოურდუმე ოპერაცია
     zh: 军事作战
-    zh-cn: 军事作战
-    zh-hans: 军事作战
-    zh-hant: 軍事作戰
-    zh-hk: 軍事作戰
-    zh-tw: 軍事作戰
+    zh_cn: 军事作战
+    zh_hans: 军事作战
+    zh_hant: 軍事作戰
+    zh_hk: 軍事作戰
+    zh_tw: 軍事作戰
 ---
 # [[Military_Operation]] 
 

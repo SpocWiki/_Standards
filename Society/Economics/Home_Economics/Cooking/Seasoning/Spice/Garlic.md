@@ -129,7 +129,7 @@ Unicode_character: "\U0001F9C4"
 Wikidata_usage_instructions: Untuk bawang putih sebagai spesies, gunakan Q23400
 dv_has_:
   name_:
-    aeb-arab: راس ثوم
+    aeb_arab: راس ثوم
     an: allo
     ar: ثوم
     arz: توم
@@ -138,7 +138,7 @@ dv_has_:
     az: sarımsaq
     ba: һарымһаҡ
     be: часнок
-    be-tarask: часнык
+    be_tarask: часнык
     bn: রসুন
     br: penn-kignen
     ca: all
@@ -149,7 +149,7 @@ dv_has_:
     el: σκόρδο
     eml: ai
     en: garlic
-    en-gb: garlic
+    en_gb: garlic
     eo: ajlo
     es: ajo
     et: küüslauk
@@ -173,7 +173,7 @@ dv_has_:
     ka: ნიორი
     ko: 마늘
     ku: sîr
-    ku-latn: sîr
+    ku_latn: sîr
     ky: чеснок
     la: Allii sativi bulbus
     lad: ajo
@@ -215,7 +215,7 @@ dv_has_:
     uk: часник
     yi: קנאָבל
     zh: 大蒜
-    zh-hant: 大蒜
+    zh_hant: 大蒜
 ---
 # [[Garlic]] 🧄 
 

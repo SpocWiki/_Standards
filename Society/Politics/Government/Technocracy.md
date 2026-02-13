@@ -81,7 +81,7 @@ dv_has_:
     ast: teunocracia
     az: Texnokratiya
     azb: تکنوکراسی
-    be-tarask: тэхнакратыя
+    be_tarask: тэхнакратыя
     bg: технокрация
     bn: টেকনোক্রেসি
     ca: tecnocràcia
@@ -132,8 +132,8 @@ dv_has_:
     smn: teknokratia
     sms: teknokratia
     sr: технократија
-    sr-ec: технократија
-    sr-el: tehnokratija
+    sr_ec: технократија
+    sr_el: tehnokratija
     sv: teknokrati
     sw: Teknokrasia
     th: คตินิยมนักวิชาการ
@@ -146,12 +146,12 @@ dv_has_:
     xmf: ტექნოკრატია
     yue: 專家統治
     zh: 專家統治
-    zh-cn: 专家统治
-    zh-hans: 专家统治
-    zh-hant: 專家統治
-    zh-hk: 專家統治
-    zh-sg: 专家统治
-    zh-tw: 專家統治
+    zh_cn: 专家统治
+    zh_hans: 专家统治
+    zh_hant: 專家統治
+    zh_hk: 專家統治
+    zh_sg: 专家统治
+    zh_tw: 專家統治
 ---
 # [[Technocracy]]  
 

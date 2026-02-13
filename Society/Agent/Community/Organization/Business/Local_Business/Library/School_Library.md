@@ -64,7 +64,7 @@ Commons_category: School libraries
 dv_has_:
   name_:
     ar: مكتبة مدرسية
-    be-tarask: школьная бібліятэка
+    be_tarask: школьная бібліятэка
     bs: Školska biblioteka
     ca: biblioteca escolar
     cs: školní knihovna
@@ -108,7 +108,7 @@ dv_has_:
     sms: škooulǩeʹrjjpõrtt
     sq: Biblioteka e shkollës
     sr: школска библиотека
-    sr-ec: школска библиотека
+    sr_ec: школска библиотека
     sty: māktāp kitaphanāse
     sv: skolbibliotek
     ta: பள்ளி நூலகம்
@@ -118,9 +118,9 @@ dv_has_:
     uz: Maktab kutubxonasi
     yue: 學校圖書館
     zh: 學校圖書館
-    zh-hans: 学校图书馆
-    zh-hant: 學校圖書館
-    zh-hk: 學校圖書館
+    zh_hans: 学校图书馆
+    zh_hant: 學校圖書館
+    zh_hk: 學校圖書館
     zu: Umtapolwazi wesikole
 ---
 # [[School_Library]] 

@@ -215,7 +215,7 @@ dv_has_:
     azb: اوردوجا
     ba: Урду теле
     be: урду
-    be-tarask: урду
+    be_tarask: урду
     bg: урду
     bho: उर्दू
     bn: উর্দু ভাষা
@@ -227,7 +227,7 @@ dv_has_:
     bug: Lingua urdu
     bxr: Урду хэлэн
     ca: urdú
-    cbk-zam: Urdu
+    cbk_zam: Urdu
     cdo: Ŭ-ī-dŭ-ngṳ̄
     ce: Урду
     ceb: Inurdu
@@ -239,15 +239,15 @@ dv_has_:
     cy: Wrdw
     da: urdu
     de: Urdu
-    de-ch: Urdu
+    de_ch: Urdu
     diq: Urduki
     dsb: Urdušćina
     dv: އުރުދޫ
     ee: Urdu
     el: ουρντού
     en: Urdu
-    en-ca: Urdu
-    en-gb: Urdu
+    en_ca: Urdu
+    en_gb: Urdu
     eo: urduo
     es: urdu
     et: urdu keel
@@ -266,7 +266,7 @@ dv_has_:
     gn: Urdu ñe'ẽ
     gom: उर्दू भाशा
     gom-deva: उर्दू भाशा
-    gom-latn: Urdu
+    gom_latn: Urdu
     gu: ઉર્દૂ
     gv: Oordooish
     ha: Urdu
@@ -349,7 +349,7 @@ dv_has_:
     pnb: اردو
     ps: اوردو ژبه
     pt: Língua urdu
-    pt-br: Língua urdu
+    pt_br: Língua urdu
     qu: Urdu simi
     ro: limba urdu
     ru: урду
@@ -394,7 +394,7 @@ dv_has_:
     tpi: Tok Urdu
     tr: Urduca
     tt: урду теле
-    tt-cyrl: урду
+    tt_cyrl: урду
     udm: Урду
     ug: ئوردو تىلى
     uk: урду
@@ -413,10 +413,10 @@ dv_has_:
     za: Vah Vuhwjduh
     zgh: ⵜⵓⵜⵍⴰⵢⵜ ⵏ ⵓⵔⴷⵓ
     zh: 乌尔都语
-    zh-cn: 乌尔都语
-    zh-hans: 乌尔都语
-    zh-hant: 烏爾都語
-    zh-hk: 烏爾都語
+    zh_cn: 乌尔都语
+    zh_hans: 乌尔都语
+    zh_hant: 烏爾都語
+    zh_hk: 烏爾都語
     zu: Isi-Urdu
 ---
 # [[Lang-urd]]  

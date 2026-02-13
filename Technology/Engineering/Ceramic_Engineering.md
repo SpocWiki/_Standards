@@ -47,7 +47,7 @@ dv_has_:
   name_:
     ar: هندسة الخزف
     ast: Cerámica técnica
-    be-tarask: керамічная інжынэрыя
+    be_tarask: керамічная інжынэрыя
     ca: Ceràmica tècnica
     da: teknisk keramik
     de: Technische Keramik
@@ -80,9 +80,9 @@ dv_has_:
     war: Inhenyeriya Seramika
     yue: 陶瓷工程
     zh: 陶瓷工程
-    zh-hans: 陶瓷工程
-    zh-hant: 陶瓷工程
-    zh-hk: 陶瓷工程
+    zh_hans: 陶瓷工程
+    zh_hant: 陶瓷工程
+    zh_hk: 陶瓷工程
 ---
 # [[Ceramic_Engineering]] 
 

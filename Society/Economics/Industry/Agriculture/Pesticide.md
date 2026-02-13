@@ -113,7 +113,7 @@ dv_has_:
     ast: plaguicida
     az: Pestisidlər
     be: пестыцыд
-    be-tarask: пэстыцыд
+    be_tarask: пэстыцыд
     bg: Пестицид
     bn: আপদনাশক
     br: Dilastezer
@@ -125,8 +125,8 @@ dv_has_:
     de: Pestizid
     el: Φυτοφάρμακο
     en: pesticide
-    en-ca: Pesticide
-    en-gb: pesticide
+    en_ca: Pesticide
+    en_gb: pesticide
     eo: pesticido
     es: pesticida
     et: Pestitsiid
@@ -154,11 +154,11 @@ dv_has_:
     jv: Pestisida
     ka: პესტიციდები
     kk: Пестицидтер
-    kk-arab: پەستىيتسىيدتەر
+    kk_arab: پەستىيتسىيدتەر
     kk-cn: پەستىيتسىيدتەر
-    kk-cyrl: Пестицидтер
+    kk_cyrl: Пестицидтер
     kk-kz: Пестицидтер
-    kk-latn: Pestïcïdter
+    kk_latn: Pestïcïdter
     kk-tr: Pestïcïdter
     ko: 농약
     ky: Пестициддер
@@ -181,7 +181,7 @@ dv_has_:
     pl: pestycyd
     ps: زغوپرواژی
     pt: pesticida
-    pt-br: pesticida
+    pt_br: pesticida
     qu: Kuru qulluna
     rki: ပိုးသတ်ဆီး
     ro: pesticid
@@ -194,8 +194,8 @@ dv_has_:
     sl: pesticid
     sq: Pesticidet
     sr: пестицид
-    sr-ec: пестицид
-    sr-el: pesticid
+    sr_ec: пестицид
+    sr_el: pesticid
     su: Péstisida
     sv: bekämpningsmedel
     ta: உயிர்கொல்லி மருந்து
@@ -212,12 +212,12 @@ dv_has_:
     yue: 農藥
     za: nungzyoz
     zh: 农药
-    zh-cn: 农药
-    zh-hans: 农药
-    zh-hant: 農藥
-    zh-hk: 農藥
-    zh-sg: 农药
-    zh-tw: 農藥
+    zh_cn: 农药
+    zh_hans: 农药
+    zh_hant: 農藥
+    zh_hk: 農藥
+    zh_sg: 农药
+    zh_tw: 農藥
 ---
 # [[Pesticide]] 
 

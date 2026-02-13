@@ -145,7 +145,7 @@ dv_has_:
     ba: Аналитик химия
     bcl: Kimikang analitikal
     be: аналітычная хімія
-    be-tarask: аналітычная хімія
+    be_tarask: аналітычная хімія
     bg: Аналитична химия
     bn: বিশ্লেষণী রসায়ন
     bs: Analitička hemija
@@ -198,7 +198,7 @@ dv_has_:
     ml: വിശ്ലേഷകരസതന്ത്രം
     mn: Химийн шинжлэл
     ms: kimia analisis
-    ms-arab: کيميا اناليسيس
+    ms_arab: کيميا اناليسيس
     nan: Hun-sek hòa-ha̍k
     nb: analytisk kjemi
     nds: Analytsche Chemie
@@ -226,7 +226,7 @@ dv_has_:
     sms: analyyttlaž kemia
     sq: Kimia analitike
     sr: аналитичка хемија
-    sr-ec: аналитичка хемија
+    sr_ec: аналитичка хемија
     su: Kimia analitik
     sv: analytisk kemi
     sw: Kemia kichambuzi
@@ -247,9 +247,9 @@ dv_has_:
     yi: אנאליטישע כעמיע
     yue: 分析化學
     zh: 分析化学
-    zh-cn: 分析化学
-    zh-hant: 分析化學
-    zh-tw: 分析化學
+    zh_cn: 分析化学
+    zh_hant: 分析化學
+    zh_tw: 分析化學
 ---
 ## #has_/text_of_/abstract 
 

@@ -26,8 +26,8 @@ dv_has_:
     cs: Hemisus
     de: Hemisus
     en: Shovelnose frog
-    en-ca: Shovelnose frog
-    en-gb: Shovelnose frog
+    en_ca: Shovelnose frog
+    en_gb: Shovelnose frog
     eo: Hemisotedoj
     es: Hemisus
     et: Hemisus
@@ -51,7 +51,7 @@ dv_has_:
     nv: Chʼał bizéétʼą́hí
     pl: Prosiakowate
     pt: Hemisus
-    pt-br: Hemisus
+    pt_br: Hemisus
     ro: Hemisus
     ru: Лягушки-поросята
     sq: Hemisus
@@ -61,8 +61,8 @@ dv_has_:
     vi: Hemisus
     war: Hemisus
     zh: 肩蛙属
-    zh-cn: 肩蛙属
-    zh-hans: 肩蛙属
+    zh_cn: 肩蛙属
+    zh_hans: 肩蛙属
 ---
 # [[Hemisus]]
 

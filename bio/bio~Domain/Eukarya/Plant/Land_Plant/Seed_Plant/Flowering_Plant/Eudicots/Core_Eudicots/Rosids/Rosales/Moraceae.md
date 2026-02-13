@@ -104,7 +104,7 @@ dv_has_:
     azb: توت کیمیلر
     bcl: Moraceae
     be: Тутавыя
-    be-tarask: тутавыя
+    be_tarask: тутавыя
     bg: черничеви
     bn: মোরাসি
     bs: Moraceae
@@ -158,7 +158,7 @@ dv_has_:
     pl: Morwowate
     pnb: پھگواڑی
     pt: Moraceae
-    pt-br: Moraceae
+    pt_br: Moraceae
     qu: paparawa yura rikch'aq ayllu
     ro: Moraceae
     ru: тутовые
@@ -180,12 +180,12 @@ dv_has_:
     wuu: 桑科
     yue: 桑科
     zh: 桑科
-    zh-cn: 桑科
-    zh-hans: 桑科
-    zh-hant: 桑科
-    zh-hk: 桑科
-    zh-sg: 桑科
-    zh-tw: 桑科
+    zh_cn: 桑科
+    zh_hans: 桑科
+    zh_hant: 桑科
+    zh_hk: 桑科
+    zh_sg: 桑科
+    zh_tw: 桑科
 ---
 # [[Moraceae]] 
 

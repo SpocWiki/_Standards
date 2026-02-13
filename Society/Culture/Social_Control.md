@@ -61,18 +61,18 @@ dv_has_:
     ar: ضبط اجتماعي
     ast: Control social
     be: грамадскі кантроль
-    be-tarask: грамадзкі кантроль
+    be_tarask: грамадзкі кантроль
     bn: সামাজিক নিয়ন্ত্রণ
     ca: control social
     ckb: ڕێککاری کۆمەڵایەتی
     cs: Sociální kontrola
     da: social kontrol
     de: soziale Kontrolle
-    de-ch: Soziale Kontrolle
+    de_ch: Soziale Kontrolle
     el: Κοινωνικός έλεγχος
     en: social control
-    en-ca: Social control
-    en-gb: Social control
+    en_ca: Social control
+    en_gb: Social control
     eo: socia regado
     es: control social
     et: Sotsiaalne kontroll
@@ -94,12 +94,12 @@ dv_has_:
     oc: contraròtle social
     pl: kontrola społeczna
     pt: controlo social
-    pt-br: Controlo social
+    pt_br: Controlo social
     ru: общественный контроль
     sl: družbeni nadzor
     sr: Друштвена контрола
-    sr-ec: Друштвена контрола
-    sr-el: Društvena kontrola
+    sr_ec: Друштвена контрола
+    sr_el: Društvena kontrola
     sv: social kontroll
     ta: சமுக கட்டுப்பாடு
     tr: Sosyal kontrol
@@ -107,9 +107,9 @@ dv_has_:
     vec: controło sociałe
     vi: Kiểm soát xã hội
     zh: 社会控制
-    zh-hans: 社会控制
-    zh-hant: 社會控制
-    zh-hk: 社會控制
+    zh_hans: 社会控制
+    zh_hant: 社會控制
+    zh_hk: 社會控制
 ---
 # [[Social_Control]] 
 

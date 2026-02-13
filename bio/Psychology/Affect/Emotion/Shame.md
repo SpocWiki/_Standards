@@ -97,7 +97,7 @@ dv_has_:
     ay: Phinq'a
     az: Utanma
     bcl: Supog
-    be-tarask: сорам
+    be_tarask: сорам
     bg: Срам
     bn: লজ্জা
     bo: ངོ་ཚ་བ།
@@ -163,8 +163,8 @@ dv_has_:
     so: Ceeb
     sq: Turpi
     sr: стид
-    sr-ec: стид
-    sr-el: stid
+    sr_ec: стид
+    sr_el: stid
     sv: skamkänsla
     tr: utanç
     uk: Сором
@@ -176,12 +176,12 @@ dv_has_:
     yi: שאנדע
     yue: 恥
     zh: 羞耻
-    zh-cn: 羞耻
-    zh-hans: 羞耻
-    zh-hant: 羞恥
-    zh-hk: 羞恥
-    zh-sg: 羞耻
-    zh-tw: 羞恥
+    zh_cn: 羞耻
+    zh_hans: 羞耻
+    zh_hant: 羞恥
+    zh_hk: 羞恥
+    zh_sg: 羞耻
+    zh_tw: 羞恥
 ---
 # [[Shame]] 
 

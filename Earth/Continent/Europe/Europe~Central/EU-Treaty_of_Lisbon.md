@@ -13,11 +13,11 @@ dv_has_:
     cy: Cytundeb Lisbon
     da: Lissabontraktaten
     de: Vertrag von Lissabon
-    de-ch: Vertrag von Lissabon
+    de_ch: Vertrag von Lissabon
     el: Συνθήκη της Λισαβόνας
     en: Treaty of Lisbon
-    en-ca: Treaty of Lisbon
-    en-gb: Treaty of Lisbon
+    en_ca: Treaty of Lisbon
+    en_gb: Treaty of Lisbon
     eo: Traktato de Lisbono
     es: Tratado de Lisboa
     et: Lissaboni leping
@@ -56,7 +56,7 @@ dv_has_:
     oc: Tractat de Lisbona
     pl: Traktat lizboński
     pt: Tratado de Lisboa
-    pt-br: Tratado de Lisboa
+    pt_br: Tratado de Lisboa
     ro: Tratatul de la Lisabona
     ru: Лиссабонский договор
     scn: Trattatu di Lisbona
@@ -66,7 +66,7 @@ dv_has_:
     sl: Lizbonska pogodba
     sq: Traktati i Lisbonës
     sr: Lisabonski sporazum
-    sr-ec: Лисабонски споразум
+    sr_ec: Лисабонски споразум
     sv: Lissabonfördraget
     th: สนธิสัญญาลิสบอน
     tl: Tratado ng Lisboa
@@ -77,7 +77,7 @@ dv_has_:
     wuu: 里斯本条约
     yue: 里斯本條約
     zh: 里斯本条约
-    zh-tw: 里斯本條約
+    zh_tw: 里斯本條約
   time_:
     started: 2009-12-01T00:00:00.000+01:00
     incepted: 2007-01-01T00:00:00.000+01:00

@@ -93,7 +93,7 @@ dv_has_:
     ar: مقلع
     ast: cantera
     be: кар’ер
-    be-tarask: кар’ер
+    be_tarask: кар’ер
     bg: кариера
     bpy: পেড্রেইরা
     ca: pedrera
@@ -142,7 +142,7 @@ dv_has_:
     pfl: Schdaanbruch
     pl: kamieniołom
     pt: pedreira
-    pt-br: pedreira
+    pt_br: pedreira
     ro: carieră
     ru: карьер
     scn: pirrera
@@ -161,12 +161,12 @@ dv_has_:
     wuu: 石宕
     yue: 石塘
     zh: 沙石场
-    zh-cn: 沙石场
-    zh-hans: 沙石场
-    zh-hant: 沙石場
-    zh-hk: 沙石場
-    zh-sg: 沙石场
-    zh-tw: 沙石場
+    zh_cn: 沙石场
+    zh_hans: 沙石场
+    zh_hant: 沙石場
+    zh_hk: 沙石場
+    zh_sg: 沙石场
+    zh_tw: 沙石場
 ---
 # [[Quarry]] 
 

@@ -106,7 +106,7 @@ dv_has_:
     az: Devid Uork Qriffit
     bar: David Wark Griffith
     be: Дэвід Уорк Грыфіт
-    be-tarask: Дэйвід Ўорк Грыфіт
+    be_tarask: Дэйвід Ўорк Грыфіт
     bg: Дейвид Уорк Грифит
     bho: डी. डब्ल्यू. ग्रिफ़िथ
     bn: ডি ডব্লিউ গ্রিফিথ
@@ -117,11 +117,11 @@ dv_has_:
     da: D.W. Griffith
     de: David Wark Griffith
     de-at: David Wark Griffith
-    de-ch: David Wark Griffith
+    de_ch: David Wark Griffith
     el: Ντ. Γ. Γκρίφιθ
     en: D. W. Griffith
-    en-ca: D. W. Griffith
-    en-gb: D. W. Griffith
+    en_ca: D. W. Griffith
+    en_gb: D. W. Griffith
     eo: David Wark Griffith
     es: David Wark Griffith
     eu: David Wark Griffith
@@ -168,7 +168,7 @@ dv_has_:
     pap: D. W. Griffith
     pl: David Wark Griffith
     pt: D. W. Griffith
-    pt-br: D. W. Griffith
+    pt_br: D. W. Griffith
     ro: D. W. Griffith
     ru: Дэвид Уорк Гриффит
     sc: D. W. Griffith
@@ -194,8 +194,8 @@ dv_has_:
     yo: D. W. Griffith
     yue: 葛萊夫
     zh: 大衛·格里菲斯
-    zh-hk: 葛萊夫
-    zh-sg: 大卫·格里菲斯
+    zh_hk: 葛萊夫
+    zh_sg: 大卫·格里菲斯
 ---
 # [[D.W.Griffith]] 
 

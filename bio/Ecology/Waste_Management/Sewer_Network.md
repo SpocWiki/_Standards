@@ -110,7 +110,7 @@ dv_has_:
     ast: alcantarelláu
     az: kanalizasiya
     be: каналізацыя
-    be-tarask: каналізацыя
+    be_tarask: каналізацыя
     bg: канализация
     ca: clavegueram
     cs: kanalizace
@@ -139,11 +139,11 @@ dv_has_:
     ka: კანალიზაცია
     ki: Mũtaratara wa Kĩamaikũ
     kk: су әкету
-    kk-arab: سۋ اكەتۋ
+    kk_arab: سۋ اكەتۋ
     kk-cn: سۋ اكەتۋ
-    kk-cyrl: су әкету
+    kk_cyrl: су әкету
     kk-kz: су әкету
-    kk-latn: sw äketw
+    kk_latn: sw äketw
     kk-tr: sw äketw
     kn: ಚರಂಡಿ ವ್ಯವಸ್ಥೆ
     ko: 하수도
@@ -157,7 +157,7 @@ dv_has_:
     nl: riool
     pl: kanalizacja
     pt: efluente
-    pt-br: sistema de esgoto
+    pt_br: sistema de esgoto
     qu: q'upa yaku kachaykuna
     ro: rețea de canalizare
     ru: канализация
@@ -176,12 +176,12 @@ dv_has_:
     vi: hệ thống thoát nước
     yue: 污水渠
     zh: 下水道
-    zh-cn: 下水道
-    zh-hans: 下水道
-    zh-hant: 下水道
-    zh-hk: 下水道
-    zh-sg: 下水道
-    zh-tw: 下水道
+    zh_cn: 下水道
+    zh_hans: 下水道
+    zh_hant: 下水道
+    zh_hk: 下水道
+    zh_sg: 下水道
+    zh_tw: 下水道
 ---
 # [[Sewer_Network]] 
 

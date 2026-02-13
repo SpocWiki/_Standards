@@ -117,7 +117,7 @@ dv_has_:
     ar: مطاط
     ast: Cauchu
     az: Kauçuk
-    be-tarask: каўчук
+    be_tarask: каўчук
     bg: Каучук
     bjn: gatah
     ca: cautxú
@@ -174,7 +174,7 @@ dv_has_:
     oc: Cauchó
     pl: kauczuk
     pt: borracha
-    pt-br: borracha
+    pt_br: borracha
     qu: K'awchu
     ro: cauciuc
     ru: каучуки

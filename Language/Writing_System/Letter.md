@@ -160,7 +160,7 @@ dv_has_:
     ba: хәреф
     bar: Buachstob
     be: літара
-    be-tarask: літара
+    be_tarask: літара
     bg: буква
     bho: अक्षर
     bn: বর্ণ
@@ -170,20 +170,20 @@ dv_has_:
     cdo: cê-mō̤
     ckb: پیت
     crh: arif
-    crh-latn: arif
+    crh_latn: arif
     cs: písmeno
     cu: боукꙑ
     cv: саспалли
     cy: llythyren
     da: bogstav
     de: Buchstabe
-    de-ch: Buchstabe
+    de_ch: Buchstabe
     diq: herfe
     dtp: pimato
     el: γράμμα
     en: letter
-    en-ca: letter
-    en-gb: letter
+    en_ca: letter
+    en_gb: letter
     eo: litero
     es: letra
     et: täht
@@ -232,7 +232,7 @@ dv_has_:
     krj: tigbato
     ks: اَچھَر
     ku: tîp
-    ku-latn: tîp
+    ku_latn: tîp
     kw: lythyren
     ky: тамга
     la: littera
@@ -246,7 +246,7 @@ dv_has_:
     mn: үсэг
     mr: अक्षर
     ms: huruf
-    ms-arab: حروف
+    ms_arab: حروف
     mwl: letra
     myv: тешке
     nah: machiyōtlahtōliztli
@@ -262,7 +262,7 @@ dv_has_:
     pl: litera
     pnb: اکھر
     pt: letra
-    pt-br: letra
+    pt_br: letra
     qu: sanampa
     ro: literă
     ru: буква
@@ -295,7 +295,7 @@ dv_has_:
     tl: titik
     tr: harf
     tt: хәреф
-    tt-cyrl: хәреф
+    tt_cyrl: хәреф
     uk: буква
     ur: حرف
     uz: harf
@@ -309,11 +309,11 @@ dv_has_:
     yue: 單隻字母
     zgh: ⴰⵙⴽⴽⵉⵍ
     zh: 字母
-    zh-cn: 字母
-    zh-hans: 字母
-    zh-hant: 字母
-    zh-hk: 字母
-    zh-tw: 字母
+    zh_cn: 字母
+    zh_hans: 字母
+    zh_hant: 字母
+    zh_hk: 字母
+    zh_tw: 字母
     zu: izinhlamvu zamagama
 ---
 # [[Letter]] 

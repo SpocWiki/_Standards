@@ -96,7 +96,7 @@ dv_has_:
     az: Xaron
     azb: شارون
     be: Харон
-    be-tarask: Харон
+    be_tarask: Харон
     bg: Харон
     bn: ক্যারন
     br: C'haron
@@ -108,11 +108,11 @@ dv_has_:
     cy: Charon
     da: Charon
     de: Charon
-    de-ch: Charon
+    de_ch: Charon
     el: Χάρων
     en: Charon
-    en-ca: Charon
-    en-gb: Charon
+    en_ca: Charon
+    en_gb: Charon
     eo: Karono
     es: Caronte
     et: Charon
@@ -160,7 +160,7 @@ dv_has_:
     pam: Charon
     pl: Charon
     pt: Caronte
-    pt-br: Caronte
+    pt_br: Caronte
     ro: Charon
     ru: Харон
     scn: Caronti
@@ -170,8 +170,8 @@ dv_has_:
     sl: Haron
     so: Dayaxa bluto
     sr: Харон
-    sr-ec: Харон
-    sr-el: Haron
+    sr_ec: Харон
+    sr_el: Haron
     sv: Charon
     ta: சரோன்
     th: แครอน

@@ -160,7 +160,7 @@ dv_has_:
     az: Düzənlik
     ba: Тигеҙлектәр
     be: раўніна
-    be-tarask: раўніна
+    be_tarask: раўніна
     bg: Равнина
     bho: मैदान
     bn: সমভূমি
@@ -203,11 +203,11 @@ dv_has_:
     ka: ვაკე
     kab: Azaɣar
     kk: Жазық
-    kk-arab: جازىق
+    kk_arab: جازىق
     kk-cn: جازىق
-    kk-cyrl: Жазық
+    kk_cyrl: Жазық
     kk-kz: Жазық
-    kk-latn: Jazıq
+    kk_latn: Jazıq
     kk-tr: Jazıq
     kn: ಬಯಲು
     ko: 평야
@@ -238,7 +238,7 @@ dv_has_:
     pl: równina
     pnb: میدان
     pt: planície
-    pt-br: planície
+    pt_br: planície
     ro: câmpie
     ru: равнина
     scn: chianu
@@ -254,8 +254,8 @@ dv_has_:
     sn: Mhene
     so: Bannaan
     sr: равница
-    sr-ec: Равница
-    sr-el: Ravnica
+    sr_ec: Равница
+    sr_el: Ravnica
     sv: slätt
     sw: Tambarare
     szl: rōwnia
@@ -267,7 +267,7 @@ dv_has_:
     tl: Kapatagan
     tr: ova
     tt: тигезлек (геология)
-    tt-cyrl: тигезлек
+    tt_cyrl: тигезлек
     udm: ӵошал
     uk: рівнина
     ur: میدانی علاقہ
@@ -280,12 +280,12 @@ dv_has_:
     yi: פלוין
     yue: 平原
     zh: 平原
-    zh-cn: 平原
-    zh-hans: 平原
-    zh-hant: 平原
-    zh-hk: 平原
-    zh-sg: 平原
-    zh-tw: 平原
+    zh_cn: 平原
+    zh_hans: 平原
+    zh_hant: 平原
+    zh_hk: 平原
+    zh_sg: 平原
+    zh_tw: 平原
 ---
 # [[Plain]] 
 

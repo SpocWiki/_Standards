@@ -121,7 +121,7 @@ dv_has_:
     az: Qalaktika topası
     ba: Галактикалар тупланмаһы
     be: скопішча галактык
-    be-tarask: галяктычнае скопішча
+    be_tarask: галяктычнае скопішча
     bg: Галактическо струпване
     bn: ছায়াপথ স্তবক
     bs: Galaktičko jato
@@ -132,12 +132,12 @@ dv_has_:
     cy: clwstwr o alaethau
     da: galaksehob
     de: Galaxienhaufen
-    de-ch: Galaxienhaufen
+    de_ch: Galaxienhaufen
     diq: Kumey galaksi
     el: σμήνος γαλαξιών
     en: galaxy cluster
-    en-ca: Galaxy groups and clusters
-    en-gb: galaxy cluster
+    en_ca: Galaxy groups and clusters
+    en_gb: galaxy cluster
     eo: galaksiamaso
     es: agrupación galáctica
     et: Galaktikaparv
@@ -175,15 +175,15 @@ dv_has_:
     pl: gromada galaktyk
     ps: د کهکشان کلستر
     pt: aglomerado de galáxias
-    pt-br: aglomerado de galáxias
+    pt_br: aglomerado de galáxias
     ro: Roi de galaxii
     ru: скопление галактик
     scn: ammassu di galassî
     sk: Skupina galaxií
     sl: jata galaksij
     sr: галактичко јато
-    sr-ec: галактичко јато
-    sr-el: galaktičko jato
+    sr_ec: галактичко јато
+    sr_el: galaktičko jato
     sv: galaxhop
     th: กลุ่มและกระจุกดาราจักร
     tr: galaksi grubu
@@ -196,12 +196,12 @@ dv_has_:
     xmf: გალაქტიკეფიშ გვართა
     yue: 星系團
     zh: 星系团
-    zh-cn: 星系团
-    zh-hans: 星系团
-    zh-hant: 星系團
-    zh-hk: 星系團
-    zh-sg: 星系团
-    zh-tw: 星系團
+    zh_cn: 星系团
+    zh_hans: 星系团
+    zh_hant: 星系團
+    zh_hk: 星系團
+    zh_sg: 星系团
+    zh_tw: 星系團
 ---
 # [[Galaxy_Cluster]] 
 

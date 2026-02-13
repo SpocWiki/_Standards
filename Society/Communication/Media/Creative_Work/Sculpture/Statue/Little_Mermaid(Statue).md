@@ -97,7 +97,7 @@ dv_has_:
     arz: تمثال الحوريه الصغيره
     az: Kiçik su pərisi (heykəl)
     be: Русалачка, статуя
-    be-tarask: Русалачка
+    be_tarask: Русалачка
     bg: Малката русалка (статуя)
     br: Ar vorganez vihan
     ca: La Sireneta
@@ -148,12 +148,12 @@ dv_has_:
     wuu: 美人鱼雕像
     yue: 美人魚像
     zh: 美人魚雕像
-    zh-cn: 美人鱼雕像
-    zh-hans: 美人鱼雕像
-    zh-hant: 美人魚雕像
-    zh-hk: 美人魚雕像
-    zh-sg: 美人鱼雕像
-    zh-tw: 美人魚雕像
+    zh_cn: 美人鱼雕像
+    zh_hans: 美人鱼雕像
+    zh_hant: 美人魚雕像
+    zh_hk: 美人魚雕像
+    zh_sg: 美人鱼雕像
+    zh_tw: 美人魚雕像
 ---
 # [[Little_Mermaid(Statue)]] 
 

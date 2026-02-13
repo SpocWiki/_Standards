@@ -89,7 +89,7 @@ dv_has_:
     ast: animación per ordenador
     az: kompyuter animasiyası
     be: камп’ютарная анімацыя
-    be-tarask: кампутарная анімацыя
+    be_tarask: кампутарная анімацыя
     bg: компютърна анимация
     bn: কম্পিউটার অ্যানিমেশন
     bs: računarska animacija
@@ -99,10 +99,10 @@ dv_has_:
     cy: animeiddiad cyfrifiadurol
     da: computeranimation
     de: Computeranimation
-    de-ch: Computeranimation
+    de_ch: Computeranimation
     en: computer animation
-    en-ca: Computer animation
-    en-gb: computer animation
+    en_ca: Computer animation
+    en_gb: computer animation
     eo: perkomputila movbildofarado
     es: animación por computadora
     et: arvutianimatsioon
@@ -131,7 +131,7 @@ dv_has_:
     os: компьютерон анимаци
     pl: animacja komputerowa
     pt: animação digital
-    pt-br: animação digital
+    pt_br: animação digital
     ru: компьютерная анимация
     sh: kompjuterska animacija
     si: ත්රිමාණ සජීවීකරණය
@@ -150,14 +150,14 @@ dv_has_:
     yi: קאמפיוטער-אנימאציע
     yue: 電腦動畫
     zh: 计算机动画
-    zh-cn: 计算机动画
-    zh-hans: 计算机动画
-    zh-hant: 電腦動畫
-    zh-hk: 電腦動畫
-    zh-mo: 電腦動畫
+    zh_cn: 计算机动画
+    zh_hans: 计算机动画
+    zh_hant: 電腦動畫
+    zh_hk: 電腦動畫
+    zh_mo: 電腦動畫
     zh-my: 计算机动画
-    zh-sg: 计算机动画
-    zh-tw: 電腦動畫
+    zh_sg: 计算机动画
+    zh_tw: 電腦動畫
 ---
 # [[Computer_Animation]] 
 

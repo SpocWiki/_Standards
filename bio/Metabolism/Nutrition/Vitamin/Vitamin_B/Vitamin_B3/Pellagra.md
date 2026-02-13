@@ -56,12 +56,12 @@ dv_has_:
     vec: Pelagra
     vi: Pellagra
     zh: 糙皮病
-    zh-cn: 糙皮病
-    zh-hans: 糙皮病
-    zh-hant: 糙皮病
-    zh-hk: 糙皮病
-    zh-sg: 糙皮病
-    zh-tw: 糙皮病
+    zh_cn: 糙皮病
+    zh_hans: 糙皮病
+    zh_hant: 糙皮病
+    zh_hk: 糙皮病
+    zh_sg: 糙皮病
+    zh_tw: 糙皮病
 aliases:
 - Mâl de spelaie
 - peallagra

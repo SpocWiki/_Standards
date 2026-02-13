@@ -88,7 +88,7 @@ dv_has_:
     bar: Tofu
     bcl: Tokwa
     be: Тофу
-    be-tarask: тофу
+    be_tarask: тофу
     bg: Тофу
     bjn: Tahu
     bn: তফু
@@ -142,7 +142,7 @@ dv_has_:
     lv: tofu
     lzh: 豆腐
     mad: Tahu
-    map-bms: Tahu
+    map_bms: Tahu
     mk: тофу
     ml: ടോഫു
     mnc: ᡨᡠᡵᡳ ᠮᡳᠶᡝᡥᡠ
@@ -165,8 +165,8 @@ dv_has_:
     sl: tofu
     sq: tofu
     sr: Тофу
-    sr-ec: Тофу
-    sr-el: Tofu
+    sr_ec: Тофу
+    sr_el: Tofu
     su: Tahu
     sv: tofu
     sw: Tofu
@@ -185,13 +185,13 @@ dv_has_:
     za: Daeuhfouh
     zh: 豆腐
     zh-cn: 豆腐
-    zh-hans: 豆腐
-    zh-hant: 豆腐
-    zh-hk: 豆腐
-    zh-mo: 豆腐
+    zh_hans: 豆腐
+    zh_hant: 豆腐
+    zh_hk: 豆腐
+    zh_mo: 豆腐
     zh-my: 豆腐
-    zh-sg: 豆腐
-    zh-tw: 豆腐
+    zh_sg: 豆腐
+    zh_tw: 豆腐
 ---
 # [[Tofu]] 
 

@@ -211,7 +211,7 @@ dv_has_:
     az: sahibkar
     ba: эшҡыуар
     be: прадпрымальнік
-    be-tarask: прадпрымальнік
+    be_tarask: прадпрымальнік
     bg: предприемач
     bn: উদ্যোক্তা
     br: embreger
@@ -220,19 +220,19 @@ dv_has_:
     ckb: پێشەنگکار
     co: imprenditore
     crh: kirişimci
-    crh-latn: kirişimci
+    crh_latn: kirişimci
     cs: podnikatel
     cv: Усламçă
     cy: entrepreneur
     da: iværksætter
     de: Unternehmer
     de-at: Unternehmer
-    de-ch: Unternehmer
+    de_ch: Unternehmer
     diq: Dekewter
     el: καινοτόμος επιχειρηματίας
     en: entrepreneur
-    en-ca: Entrepreneur
-    en-gb: entrepreneur
+    en_ca: Entrepreneur
+    en_gb: entrepreneur
     en-us: entrepreneur
     eo: entreprenisto
     es: emprendedor
@@ -271,16 +271,16 @@ dv_has_:
     ka: მეწარმე
     kaa: isbilermen
     kk: кәсіпкер
-    kk-arab: تابىسكەر
+    kk_arab: تابىسكەر
     kk-cn: تابىسكەر
-    kk-cyrl: Табыскер
+    kk_cyrl: Табыскер
     kk-kz: Табыскер
-    kk-latn: Tabısker
+    kk_latn: Tabısker
     kk-tr: Tabısker
     kn: ವಾಣಿಜ್ಯೋದ್ಯಮಿ
     ko: 기업가
     ks: تَنظیٖمی کاربٲرؠ
-    ku-latn: peyaner
+    ku_latn: peyaner
     kw: omgemeryer
     ky: Ишкер
     la: conductor
@@ -296,7 +296,7 @@ dv_has_:
     mn: энтрепренер
     mr: उद्योजक
     ms: usahawan
-    ms-arab: اوسهاون
+    ms_arab: اوسهاون
     mt: imprenditur
     my: စွန့်ဦးတီထွင်သူ
     nb: gründer
@@ -310,7 +310,7 @@ dv_has_:
     pa: ਉੱਧਮੀ
     pl: przedsiębiorca
     pt: empreendedor
-    pt-br: empreendedor
+    pt_br: empreendedor
     qu: Ruruchiq
     ro: antreprenor
     ru: предприниматель
@@ -326,8 +326,8 @@ dv_has_:
     sms: põõrǥâsneǩ
     sq: ndërmarrës
     sr: предузетник
-    sr-ec: Предузетник
-    sr-el: Preduzetnik
+    sr_ec: Предузетник
+    sr_el: Preduzetnik
     sv: entreprenör
     sw: Ujasiriamali
     ta: தொழில் முனைவர்
@@ -337,7 +337,7 @@ dv_has_:
     tl: entrepreneur
     tr: girişimci
     tt: эшкуар
-    tt-cyrl: эшкуар
+    tt_cyrl: эшкуар
     uk: підприємець
     ur: کارجو
     uz: Sohibkor
@@ -350,12 +350,12 @@ dv_has_:
     yi: איניציאטאר
     yue: 創業家
     zh: 企业家
-    zh-cn: 企业家
-    zh-hans: 企业家
-    zh-hant: 企業家
-    zh-hk: 企業家
-    zh-sg: 企业家
-    zh-tw: 企業家
+    zh_cn: 企业家
+    zh_hans: 企业家
+    zh_hant: 企業家
+    zh_hk: 企業家
+    zh_sg: 企业家
+    zh_tw: 企業家
     zu: umninibhizinisi
 ---
 # [[Entrepreneur]] 

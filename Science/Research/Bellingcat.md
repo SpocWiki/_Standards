@@ -65,14 +65,14 @@ inception: 2014-07-15T00:00:00Z
 dv_has_:
   name_:
     ar: بيلنجكات
-    be-tarask: Бэлінгкат
+    be_tarask: Бэлінгкат
     bg: Белингкат
     ca: Bellingcat
     cs: Bellingcat
     da: Bellingcat
     de: Bellingcat
     en: Bellingcat
-    en-gb: Bellingcat
+    en_gb: Bellingcat
     eo: Bellingcat
     es: Bellingcat
     fi: Bellingcat
@@ -96,7 +96,7 @@ dv_has_:
     tr: Bellingcat
     uk: Bellingcat
     zh: 啤令貓
-    zh-hk: 啤令貓
+    zh_hk: 啤令貓
 ---
 # [[Bellingcat]] 
 

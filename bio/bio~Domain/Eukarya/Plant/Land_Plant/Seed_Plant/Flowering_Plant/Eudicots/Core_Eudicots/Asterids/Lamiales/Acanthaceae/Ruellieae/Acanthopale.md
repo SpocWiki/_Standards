@@ -35,7 +35,7 @@ dv_has_:
     oc: Acanthopale
     pl: Acanthopale
     pt: Acanthopale
-    pt-br: Acanthopale
+    pt_br: Acanthopale
     ro: Acanthopale
     ru: Акантопале
     sk: akantopala
@@ -45,9 +45,9 @@ dv_has_:
     vo: Acanthopale
     war: Acanthopale
     zh: 鹃芦莉属
-    zh-cn: 鹃芦莉属
-    zh-hans: 鹃芦莉属
-    zh-tw: 鵑蘆莉屬
+    zh_cn: 鹃芦莉属
+    zh_hans: 鹃芦莉属
+    zh_tw: 鵑蘆莉屬
 ---
 # [[Acanthopale]] 
 

@@ -143,7 +143,7 @@ dv_has_:
     ast: Polygonaceae
     az: Qırxbuğumkimilər
     be: драсёнавыя
-    be-tarask: драсёнавыя
+    be_tarask: драсёнавыя
     bg: лападови
     bs: Polygonaceae
     ca: poligonàcies
@@ -181,8 +181,8 @@ dv_has_:
     kk: Тарандар тұқымдасы
     ko: 마디풀과
     ku: Famîleya tirşoyan
-    ku-arab: فامیلەیا ترشۆیان
-    ku-latn: Famîleya tirşoyan
+    ku_arab: فامیلەیا ترشۆیان
+    ku_latn: Famîleya tirşoyan
     la: Polygonaceae
     lb: Knuetkraider
     lt: Rūgtiniai
@@ -197,7 +197,7 @@ dv_has_:
     os: Сауфагæтæ
     pl: rdestowate
     pt: Polygonaceae
-    pt-br: Polygonaceae
+    pt_br: Polygonaceae
     qu: Pika-pika yura rikch'aq ayllu
     ro: Polygonaceae
     ru: гречишные
@@ -208,8 +208,8 @@ dv_has_:
     sl: dresnovke
     sq: Polygonaceae
     sr: Polygonaceae
-    sr-ec: Polygonaceae
-    sr-el: Polygonaceae
+    sr_ec: Polygonaceae
+    sr_el: Polygonaceae
     sv: Slideväxter
     tg: торониҳо
     th: วงศ์ผักไผ่
@@ -223,12 +223,12 @@ dv_has_:
     wuu: 蓼科
     yue: 蓼科
     zh: 蓼科
-    zh-cn: 蓼科
-    zh-hans: 蓼科
-    zh-hant: 蓼科
-    zh-hk: 蓼科
-    zh-sg: 蓼科
-    zh-tw: 蓼科
+    zh_cn: 蓼科
+    zh_hans: 蓼科
+    zh_hant: 蓼科
+    zh_hk: 蓼科
+    zh_sg: 蓼科
+    zh_tw: 蓼科
 ---
 # [[Polygonaceae]] 
 

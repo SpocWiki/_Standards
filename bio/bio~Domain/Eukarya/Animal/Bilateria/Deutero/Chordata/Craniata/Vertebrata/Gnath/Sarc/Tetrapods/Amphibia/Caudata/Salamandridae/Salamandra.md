@@ -73,15 +73,15 @@ dv_has_:
     os: Саламандрæтæ
     pl: Salamandra
     pt: Salamandra
-    pt-br: Salamandra
+    pt_br: Salamandra
     ro: Salamandra
     ru: Salamandra
     sco: Salamandra
     sl: močerad
     sq: Salamandra
     sr: даждевњак
-    sr-ec: даждевњак
-    sr-el: daždevnjak
+    sr_ec: даждевњак
+    sr_el: daždevnjak
     sv: Salamandra
     ta: சலமாண்டிரா
     tr: Salamandra
@@ -91,9 +91,9 @@ dv_has_:
     vo: Salamandra
     war: Salamandra
     zh: 真螈属
-    zh-cn: 真螈属
-    zh-hans: 真螈属
-    zh-tw: 真螈屬
+    zh_cn: 真螈属
+    zh_hans: 真螈属
+    zh_tw: 真螈屬
 ---
 # [[Salamandra]] 
 

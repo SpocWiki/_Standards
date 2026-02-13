@@ -52,17 +52,17 @@ dv_has_:
     ar: كلودو
     ast: Cluedo
     bar: Cluedo
-    be-tarask: Клуэда
+    be_tarask: Клуэда
     bg: Клюдо
     ca: Cluedo
     cy: Cluedo
     da: Cluedo
     de: Cluedo
     de-at: Cluedo
-    de-ch: Cluedo
+    de_ch: Cluedo
     en: Cluedo
-    en-ca: Clue
-    en-gb: Cluedo
+    en_ca: Clue
+    en_gb: Cluedo
     eo: Clue
     es: Cluedo
     eu: Cluedo

@@ -105,7 +105,7 @@ dv_has_:
     an: Legumbre
     ar: بقل
     ast: Llegume
-    be-tarask: бабовая культура
+    be_tarask: бабовая культура
     bg: бобово растение
     bjn: Kacang-kacangan
     bs: Mahuna
@@ -170,8 +170,8 @@ dv_has_:
     sk: strukovina
     sl: stročnica
     sr: махуна
-    sr-ec: махуна
-    sr-el: mahuna
+    sr_ec: махуна
+    sr_el: mahuna
     sv: baljfrukt
     sw: Jamii kunde
     ta: அவரை
@@ -190,12 +190,12 @@ dv_has_:
     yi: שױטפֿרוכט
     yue: 豆類
     zh: 荚果
-    zh-cn: 荚果
-    zh-hans: 荚果
-    zh-hant: 莢果
-    zh-hk: 莢果
-    zh-sg: 荚果
-    zh-tw: 莢果
+    zh_cn: 荚果
+    zh_hans: 荚果
+    zh_hant: 莢果
+    zh_hk: 莢果
+    zh_sg: 荚果
+    zh_tw: 莢果
 ---
 # [[Legume]] 
 

@@ -211,7 +211,7 @@ dv_has_:
     ba: Протистар
     bar: Protist
     be: пратысты
-    be-tarask: пратысты
+    be_tarask: пратысты
     bg: протисти
     bn: প্রোটিস্ট
     br: protist
@@ -303,7 +303,7 @@ dv_has_:
     so: Brotist
     sq: Protista
     sr: протисти
-    sr-ec: протисти
+    sr_ec: протисти
     su: protista
     sv: protister
     sw: Protista
@@ -326,14 +326,14 @@ dv_has_:
     yi: פראטיסטן
     yue: 原生生物
     zh: 原生生物
-    zh-cn: 原生生物
-    zh-hans: 原生生物
-    zh-hant: 原生生物
-    zh-hk: 原生生物
-    zh-mo: 原生生物
+    zh_cn: 原生生物
+    zh_hans: 原生生物
+    zh_hant: 原生生物
+    zh_hk: 原生生物
+    zh_mo: 原生生物
     zh-my: 原生生物
-    zh-sg: 原生生物
-    zh-tw: 原生生物
+    zh_sg: 原生生物
+    zh_tw: 原生生物
 ---
 # [[Protist]] 
 

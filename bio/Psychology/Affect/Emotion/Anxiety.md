@@ -205,7 +205,7 @@ dv_has_:
     az: آنکسییئته
     azb: آنکسییئته
     be: трывога
-    be-tarask: трывога
+    be_tarask: трывога
     bg: тревожност
     bn: উদ্বেগ
     bs: anksioznost
@@ -216,12 +216,12 @@ dv_has_:
     cy: gordyndra
     da: angst
     de: Ängstlichkeit
-    de-ch: Angst
+    de_ch: Angst
     el: άγχος
     eml: Ànsia
     en: anxiety
-    en-ca: anxiety
-    en-gb: anxiety
+    en_ca: anxiety
+    en_gb: anxiety
     eo: anksieco
     es: ansiedad
     et: ärevus
@@ -249,8 +249,8 @@ dv_has_:
     kn: ಆತಂಕ
     ko: 불안
     ku: anksiyete
-    ku-arab: ئانکسیەتە
-    ku-latn: anksiyete
+    ku_arab: ئانکسیەتە
+    ku_latn: anksiyete
     la: anxietas
     lb: Ängschtlechkeet
     lg: okweralikirira ennyo
@@ -273,7 +273,7 @@ dv_has_:
     pnb: پریشانی
     ps: اضطراب
     pt: ansiedade
-    pt-br: ansiedade
+    pt_br: ansiedade
     qu: Phutikuy
     ro: anxietate
     ru: тревога
@@ -287,8 +287,8 @@ dv_has_:
     so: Guhaad
     sq: frika
     sr: стрепња
-    sr-ec: Стрепња
-    sr-el: Strepnja
+    sr_ec: Стрепња
+    sr_el: Strepnja
     sv: ångest
     ta: பதகளிப்பு
     te: ఆందోళన
@@ -305,12 +305,12 @@ dv_has_:
     wuu: 焦虑
     yue: 囉囉攣
     zh: 焦慮
-    zh-cn: 焦虑
-    zh-hans: 焦虑
-    zh-hant: 焦慮
-    zh-hk: 焦慮
-    zh-sg: 焦虑
-    zh-tw: 焦慮
+    zh_cn: 焦虑
+    zh_hans: 焦虑
+    zh_hant: 焦慮
+    zh_hk: 焦慮
+    zh_sg: 焦虑
+    zh_tw: 焦慮
 ---
 # [[Anxiety]] 
 

@@ -39,7 +39,7 @@ dv_has_:
     oc: Vitreledonella
     pl: Vitreledonella
     pt: Vitreledonella
-    pt-br: Vitreledonella
+    pt_br: Vitreledonella
     ro: Vitreledonella
     ru: Vitreledonella
     sq: Vitreledonella

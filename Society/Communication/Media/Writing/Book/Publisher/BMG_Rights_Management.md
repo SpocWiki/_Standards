@@ -5,16 +5,16 @@ dv_has_:
     an: BMG Rights Management
     ar: بي أم جي رايتس مانجيمنت
     ast: BMG Rights Management
-    be-tarask: BMG Rights Management
+    be_tarask: BMG Rights Management
     ca: BMG Rights Management
     cs: BMG Rights Management
     cy: BMG Rights Management
     da: BMG Rights Management
     de: BMG Rights Management
-    de-ch: BMG Rights Management
+    de_ch: BMG Rights Management
     en: BMG Rights Management
-    en-ca: BMG Rights Management
-    en-gb: BMG Rights Management
+    en_ca: BMG Rights Management
+    en_gb: BMG Rights Management
     es: BMG Rights Management
     eu: BMG Rights Management
     fa: بیامجی رایت منیجمنت
@@ -34,7 +34,7 @@ dv_has_:
     nn: BMG Rights Management
     pl: BMG Rights Management
     pt: BMG Rights Management
-    pt-br: BMG Rights Management
+    pt_br: BMG Rights Management
     ru: BMG Rights Management
     sk: BMG Rights Management
     sl: BMG Rights Management
@@ -43,9 +43,9 @@ dv_has_:
     tr: BMG Rights Management
     uk: BMG Rights Management
     zh: 貝塔斯曼唱片
-    zh-cn: 贝塔斯曼唱片
-    zh-hans: 贝塔斯曼唱片
-    zh-hant: 貝塔斯曼唱片
+    zh_cn: 贝塔斯曼唱片
+    zh_hans: 贝塔斯曼唱片
+    zh_hant: 貝塔斯曼唱片
 aliases:
 - BMG Rights Management
 - BMG իրավունքների կառավարում

@@ -115,7 +115,7 @@ dv_has_:
     az: Koka-Kola
     azb: کوکا کولا
     be: Кока-Кола
-    be-tarask: Кока-Кола
+    be_tarask: Кока-Кола
     bg: Кока-Кола
     bn: কোকা-কোলা
     bo: ཁོལ་ཁོལ་ཁུ་ནག
@@ -123,7 +123,7 @@ dv_has_:
     dty: कोका कोला
     dv: ކޮކާ ކޯލާ
     en: Coca-Cola
-    en-gb: Coca-Cola
+    en_gb: Coca-Cola
     eo: Koka-kolao
     fa: کوکاکولا
     gu: કોકા કોલા
@@ -162,14 +162,14 @@ dv_has_:
     si: කොකා කෝලා
     so: Koka-Kola
     sr: Кока-кола
-    sr-ec: Кока-кола
+    sr_ec: Кока-кола
     ta: கொக்கக் கோலா
     te: కోకా కోలా
     tg: Кока-Кола
     th: โคคา-โคล่า
     tok: telo Koka Kola
     tt: Кока-Кола
-    tt-cyrl: Кока-Кола
+    tt_cyrl: Кока-Кола
     uk: Кока-кола
     ur: کوکا کولا
     wuu: 可口可乐
@@ -180,10 +180,10 @@ dv_has_:
     za: Gojgouj Gojloz
     zh: 可口可樂
     zh-cn: 可口可乐
-    zh-hans: 可口可乐
-    zh-hant: 可口可樂
-    zh-sg: 可口可乐
-    zh-tw: 可口可樂
+    zh_hans: 可口可乐
+    zh_hant: 可口可樂
+    zh_sg: 可口可乐
+    zh_tw: 可口可樂
 ---
 # [[Coca-Cola]] 
 

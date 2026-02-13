@@ -154,7 +154,7 @@ dv_has_:
     azb: جیمز کامرون
     ban: James Cameron
     be: Джэймс Кэмеран
-    be-tarask: Джэймз Кэмэран
+    be_tarask: Джэймз Кэмэран
     bg: Джеймс Камерън
     bn: জেমস ক্যামেরন
     br: James Cameron
@@ -166,12 +166,12 @@ dv_has_:
     cy: James Cameron
     da: James Cameron
     de: James Cameron
-    de-ch: James Cameron
+    de_ch: James Cameron
     diq: James Cameron
     el: Τζέιμς Κάμερον
     en: James Cameron
-    en-ca: James Cameron
-    en-gb: James Cameron
+    en_ca: James Cameron
+    en_gb: James Cameron
     eo: James Cameron
     es: James Cameron
     et: James Cameron
@@ -227,7 +227,7 @@ dv_has_:
     pl: James Cameron
     ps: جېمز کامرون
     pt: James Cameron
-    pt-br: James Cameron
+    pt_br: James Cameron
     qu: James Cameron
     rmf: James Cameron
     ro: James Cameron
@@ -244,7 +244,7 @@ dv_has_:
     sms: James Cameron
     sq: James Cameron
     sr: Џејмс Камерон
-    sr-ec: Џејмс Камерон
+    sr_ec: Џејмс Камерон
     sv: James Cameron
     sw: James Cameron
     ta: ஜேம்ஸ் கேமரன்
@@ -265,13 +265,13 @@ dv_has_:
     yi: דזשיימס קאמעראן
     yue: 占士金馬倫
     zh: 詹姆斯·卡梅伦
-    zh-cn: 詹姆斯·卡梅伦
-    zh-hans: 詹姆斯·卡梅伦
-    zh-hant: 詹姆斯·卡麥隆
-    zh-hk: 占士金馬倫
+    zh_cn: 詹姆斯·卡梅伦
+    zh_hans: 詹姆斯·卡梅伦
+    zh_hant: 詹姆斯·卡麥隆
+    zh_hk: 占士金馬倫
     zh-my: 占士·金马伦
-    zh-sg: 詹姆斯·卡梅伦
-    zh-tw: 詹姆斯·卡麥隆
+    zh_sg: 詹姆斯·卡梅伦
+    zh_tw: 詹姆斯·卡麥隆
 ---
 # [[Cameron,James]] 
 

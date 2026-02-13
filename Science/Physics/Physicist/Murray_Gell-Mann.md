@@ -152,7 +152,7 @@ dv_has_:
     az: Marri Gell-Man
     azb: ماری گل-من
     be: Мюрэй Гел-Ман
-    be-tarask: Мюрэй Гел-Ман
+    be_tarask: Мюрэй Гел-Ман
     bg: Мъри Гел-Ман
     bn: মারি গেল-ম্যান
     ca: Murray Gell-Mann
@@ -189,8 +189,8 @@ dv_has_:
     ko: 머리 겔만
     ko-kp: 뮤레이 겔만
     ku: Murray Gell-Mann
-    ku-arab: موررای گەلل-مانن
-    ku-latn: Murray Gell-Mann
+    ku_arab: موررای گەلل-مانن
+    ku_latn: Murray Gell-Mann
     ky: Марри Гелл-Ман
     la: Murray Gell-Mann
     lb: Murray Gell-Mann
@@ -212,7 +212,7 @@ dv_has_:
     pl: Murray Gell-Mann
     pnb: مرے گل-مان
     pt: Murray Gell-Mann
-    pt-br: Murray Gell-Mann
+    pt_br: Murray Gell-Mann
     ro: Murray Gell-Mann
     ru: Марри Гелл-Манн
     sa: मरे गेलमन
@@ -242,12 +242,12 @@ dv_has_:
     yo: Murray Gell-Mann
     yue: 蓋爾曼
     zh: 默里·盖尔曼
-    zh-cn: 默里·盖尔曼
-    zh-hans: 默里·盖尔曼
-    zh-hant: 默里·蓋爾曼
-    zh-hk: 默里·蓋爾曼
-    zh-sg: 默里·盖尔曼
-    zh-tw: 默里·蓋爾曼
+    zh_cn: 默里·盖尔曼
+    zh_hans: 默里·盖尔曼
+    zh_hant: 默里·蓋爾曼
+    zh_hk: 默里·蓋爾曼
+    zh_sg: 默里·盖尔曼
+    zh_tw: 默里·蓋爾曼
 ---
 # [[Murray_Gell-Mann]] 
 

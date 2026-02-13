@@ -59,7 +59,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Jean%20Fouquet%20-%20S
 dv_has_:
   name_:
     ar: منمنمة
-    be-tarask: мініятура
+    be_tarask: мініятура
     bg: Портретна миниатюра
     ca: retrat miniatura
     cs: miniatura
@@ -68,7 +68,7 @@ dv_has_:
     de: Miniaturmalerei
     el: Μινιατούρα πρωσοπογραφίας
     en: miniature
-    en-gb: miniature
+    en_gb: miniature
     eo: miniaturo
     es: miniatura
     et: Miniatuur (maalikunst)
@@ -90,15 +90,15 @@ dv_has_:
     nn: miniatyrmåleri
     pl: miniatura
     pt: pintura em miniatura
-    pt-br: pintura em miniatura
+    pt_br: pintura em miniatura
     ro: Portret în miniatură
     ru: миниатюра
     sh: Minijatura
     sk: Miniatúra
     sl: miniatura
     sr: минијатура
-    sr-ec: минијатура
-    sr-el: minijatura
+    sr_ec: минијатура
+    sr_el: minijatura
     sv: miniatyrmåleri
     sw: Mchoro mdogo
     ta: மார்பளவுத் தோற்றச் சிற்றோவியம்
@@ -106,8 +106,8 @@ dv_has_:
     tr: minyatür
     uk: портретна мініатюра
     zh: 微型画像
-    zh-hans: 微型画像
-    zh-hant: 微型畫像
+    zh_hans: 微型画像
+    zh_hant: 微型畫像
 ---
 # [[Portrait_miniature]] 
 

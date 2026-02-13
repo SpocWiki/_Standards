@@ -274,7 +274,7 @@ dv_has_:
     bcl: Kalayo
     bdr: Api
     be: агонь
-    be-tarask: агонь
+    be_tarask: агонь
     bew: Api
     bg: Огън
     bjn: Api
@@ -308,7 +308,7 @@ dv_has_:
     el: φωτιά
     eml: Fûg
     en: fire
-    en-gb: fire
+    en_gb: fire
     eo: fajro
     es: fuego
     et: Tuli
@@ -362,7 +362,7 @@ dv_has_:
     kcg: long
     kge: Apuy
     kk: от
-    kk-latn: ot
+    kk_latn: ot
     km: ភ្លើង
     kn: ಬೆಂಕಿ
     ko: 불
@@ -390,7 +390,7 @@ dv_has_:
     mnc: ᡨᡠᠸᠠ
     mni: ꯃꯩ
     ms: api
-    ms-arab: اڤي
+    ms_arab: اڤي
     mwl: Fuogo
     my: မီး
     myv: тол
@@ -400,7 +400,7 @@ dv_has_:
     nap: Ffuoco
     nb: ild
     nds: Füer
-    nds-nl: vüür
+    nds_nl: vüür
     ne: आगो
     nia: Alitö
     nl: vuur
@@ -419,7 +419,7 @@ dv_has_:
     pnb: اگ
     ps: اور
     pt: fogo
-    pt-br: fogo
+    pt_br: fogo
     pwn: sapuy
     qu: Nina
     ro: foc
@@ -461,7 +461,7 @@ dv_has_:
     tr: ateş
     trv: Puniq
     tt: ут
-    tt-cyrl: ут
+    tt_cyrl: ут
     udm: тыл
     ug: ئوت
     uk: вогонь
@@ -482,8 +482,8 @@ dv_has_:
     yue: 火
     za: Feiz
     zh: 火
-    zh-hans: 火
-    zh-hant: 火
+    zh_hans: 火
+    zh_hant: 火
 ---
 # [[Fire]] 🔥 
 

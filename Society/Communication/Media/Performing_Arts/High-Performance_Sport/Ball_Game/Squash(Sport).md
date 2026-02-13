@@ -76,7 +76,7 @@ dv_has_:
     az: Skvoş
     ba: Сквош
     be: сквош
-    be-tarask: сквош
+    be_tarask: сквош
     bg: Скуош
     bn: স্কোয়াশ
     bo: རྫོང་གྲུག
@@ -137,8 +137,8 @@ dv_has_:
     sk: squash
     sl: skvoš
     sr: Skvoš
-    sr-ec: Сквош
-    sr-el: Skvoš
+    sr_ec: Сквош
+    sr_el: Skvoš
     sv: squash
     ta: ஸ்குவாஷ்
     th: สควอช (กีฬา)
@@ -150,12 +150,12 @@ dv_has_:
     wuu: 壁球
     yue: 壁球
     zh: 壁球
-    zh-cn: 壁球
-    zh-hans: 壁球
-    zh-hant: 壁球
-    zh-hk: 壁球
-    zh-sg: 壁球
-    zh-tw: 壁球
+    zh_cn: 壁球
+    zh_hans: 壁球
+    zh_hant: 壁球
+    zh_hk: 壁球
+    zh_sg: 壁球
+    zh_tw: 壁球
 ---
 # [[Squash(Sport)]] 
 

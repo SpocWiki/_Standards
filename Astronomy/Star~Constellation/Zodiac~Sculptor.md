@@ -105,7 +105,7 @@ dv_has_:
     az: Heykəltəraş
     ba: Һынсы
     be: Скульптар
-    be-tarask: Скульптар
+    be_tarask: Скульптар
     bg: Скулптор
     bn: ভাস্কর মণ্ডল
     br: Kizeller
@@ -163,7 +163,7 @@ dv_has_:
     nn: Bilethoggaren
     pl: Gwiazdozbiór Rzeźbiarza
     pt: Sculptor
-    pt-br: Escultor
+    pt_br: Escultor
     ro: Sculptorul
     ru: Скульптор
     sah: Скульптор
@@ -186,7 +186,7 @@ dv_has_:
     wuu: 玉夫座
     yue: 玉夫座
     zh: 玉夫座
-    zh-tw: 玉夫座
+    zh_tw: 玉夫座
 dv_is_:
   same_as:
   - '[[_Standards/WikiData/WD~Sculptor,9286]]'

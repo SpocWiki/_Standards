@@ -200,7 +200,7 @@ dv_has_:
     ast: Caspar David Friedrich
     avk: Caspar David Friedrich
     be: Каспар Давід Фрыдрых
-    be-tarask: Каспар Давід Фрыдрых
+    be_tarask: Каспар Давід Фрыдрых
     bg: Каспар Давид Фридрих
     bn: কাসপার ডাভিড ফ্রিডরিখ
     br: Caspar David Friedrich
@@ -252,7 +252,7 @@ dv_has_:
     nan: Caspar David Friedrich
     nb: Caspar David Friedrich
     nds: Caspar David Friedrich
-    nds-nl: Caspar David Friedrich
+    nds_nl: Caspar David Friedrich
     new: क्यास्पर डेभिड फ्रेडरिक
     nl: Caspar David Friedrich
     nn: Caspar David Friedrich
@@ -262,7 +262,7 @@ dv_has_:
     pl: Caspar David Friedrich
     pms: Caspar David Friedrich
     pt: Caspar David Friedrich
-    pt-br: Caspar David Friedrich
+    pt_br: Caspar David Friedrich
     qu: Caspar David Friedrich
     ro: Caspar David Friedrich
     ru: Каспар Давид Фридрих
@@ -273,7 +273,7 @@ dv_has_:
     sl: Caspar David Friedrich
     sq: Kasper David Fredriç
     sr: Kaspar David Fridrih
-    sr-ec: Каспар Давид Фридрих
+    sr_ec: Каспар Давид Фридрих
     stq: Caspar David Friedrich
     sv: Caspar David Friedrich
     ta: காஸ்பர் டேவிட் பிரடெரிக்
@@ -286,12 +286,12 @@ dv_has_:
     yo: Caspar David Friedrich
     yue: 卡斯巴·費德里希
     zh: 卡斯帕·弗里德里希
-    zh-cn: 卡斯帕·弗里德里希
-    zh-hans: 卡斯帕·弗里德里希
-    zh-hant: 卡斯巴·佛烈德利赫
-    zh-hk: 卡斯巴·費德里希
-    zh-sg: 卡斯帕·弗里德里希
-    zh-tw: 卡斯巴·佛烈德利赫
+    zh_cn: 卡斯帕·弗里德里希
+    zh_hans: 卡斯帕·弗里德里希
+    zh_hant: 卡斯巴·佛烈德利赫
+    zh_hk: 卡斯巴·費德里希
+    zh_sg: 卡斯帕·弗里德里希
+    zh_tw: 卡斯巴·佛烈德利赫
 ---
 # [[Friedrich,Caspar_David]] 
 

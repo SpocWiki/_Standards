@@ -73,7 +73,7 @@ dv_has_:
     ar: الأعراف الهندية الجنوبية الغربية
     az: Qərbi-Hind silsiləsi
     be: Заходне-Індыйскі хрыбет
-    be-tarask: Заходнеіндыйскі сьцяг
+    be_tarask: Заходнеіндыйскі сьцяг
     ca: Cresta del sud-oest de l'Índia
     cs: Západoindický hřbet
     de: Südwestindischer Rücken
@@ -87,9 +87,9 @@ dv_has_:
     it: Dorsale indiana sudoccidentale
     ja: 南西インド洋海嶺
     kk: Батыс Үнді су асты жотасы
-    kk-arab: باتىس ٴۇندى سۋ استى جوتاسى
-    kk-cyrl: Батыс Үнді су асты жотасы
-    kk-latn: Batıs Ündi sw astı jotası
+    kk_arab: باتىس ٴۇندى سۋ استى جوتاسى
+    kk_cyrl: Батыс Үнді су асты жотасы
+    kk_latn: Batıs Ündi sw astı jotası
     ksh: Södwessindische Rögge
     la: Iugum Indicum austroccidentale
     lt: Vakarų Indijos kalnagūbris

@@ -88,7 +88,7 @@ dv_has_:
     ar: غناء جريجوري
     ast: cantu gregorianu
     be: грыгарыянскі спеў
-    be-tarask: грыгарыянскі сьпеў
+    be_tarask: грыгарыянскі сьпеў
     bg: Грегорианско песнопение
     ca: cant gregorià
     ckb: چانتی گریگۆری
@@ -127,7 +127,7 @@ dv_has_:
     pcd: Cant grégorien
     pl: Chorał gregoriański
     pt: canto gregoriano
-    pt-br: canto gregoriano
+    pt_br: canto gregoriano
     ro: muzică gregoriană
     ru: григорианское пение
     sh: Gregorijanski koral
@@ -144,7 +144,7 @@ dv_has_:
     wuu: 格雷高利圣咏
     yue: 額我略聖歌
     zh: 额我略圣歌
-    zh-tw: 葛利果聖歌
+    zh_tw: 葛利果聖歌
 ---
 # [[Gregorian_Chant]] 
 

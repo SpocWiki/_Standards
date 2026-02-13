@@ -126,7 +126,7 @@ dv_has_:
     az: Ulduzlu gecə
     ba: Йондоҙло төн
     be: Зорная ноч
-    be-tarask: Зорная ноч
+    be_tarask: Зорная ноч
     bg: Звездна нощ
     bn: তারাময় রাত
     br: An Noz stergannek
@@ -140,7 +140,7 @@ dv_has_:
     de: Sternennacht
     el: Η έναστρη νύχτα
     en: The Starry Night
-    en-gb: The Starry Night
+    en_gb: The Starry Night
     eo: Stela nokto
     es: La noche estrellada
     et: Tähistaevas
@@ -180,7 +180,7 @@ dv_has_:
     sh: Zvjezdana noć
     sl: Zvezdna noč
     sr: Звездана ноћ
-    sr-ec: Звездана ноћ
+    sr_ec: Звездана ноћ
     sv: De sterrennacht
     ta: விண்மீன்கள் நிறைந்த இரவு
     te: ది స్టార్రీ నైట్
@@ -195,9 +195,9 @@ dv_has_:
     wuu: 星夜
     yue: 星夜
     zh: 星夜
-    zh-cn: 星夜
-    zh-hk: 星夜
-    zh-tw: 星夜
+    zh_cn: 星夜
+    zh_hk: 星夜
+    zh_tw: 星夜
 ---
 # [[Starry_Night(Painting)]] 
 

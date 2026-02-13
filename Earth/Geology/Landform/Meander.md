@@ -89,7 +89,7 @@ dv_has_:
     ar: تيار متعرج
     ast: Meandro
     az: Meandr
-    be-tarask: зьвiлiна
+    be_tarask: зьвiлiна
     bg: Меандър
     bho: मियांडर
     br: Maiandros
@@ -99,11 +99,11 @@ dv_has_:
     cy: Ymddoleniad
     da: mæander
     de: Mäander
-    de-ch: Mäander
+    de_ch: Mäander
     el: μαίανδρος
     en: meander
-    en-ca: Meander
-    en-gb: meander
+    en_ca: Meander
+    en_gb: meander
     eo: Meandro
     es: meandro
     et: meander
@@ -125,11 +125,11 @@ dv_has_:
     ja: 蛇行
     ka: მეანდრი
     kk: Меандр
-    kk-arab: مەاندر
+    kk_arab: مەاندر
     kk-cn: مەاندر
-    kk-cyrl: Меандр
+    kk_cyrl: Меандр
     kk-kz: Меандр
-    kk-latn: Meandr
+    kk_latn: Meandr
     kk-tr: Meandr
     ko: 사행천
     ky: Имерилиш
@@ -149,7 +149,7 @@ dv_has_:
     pl: meander
     pnb: مینڈر
     pt: meandro
-    pt-br: Meandro
+    pt_br: Meandro
     ro: meandră
     ru: меандр
     sco: whimple
@@ -159,8 +159,8 @@ dv_has_:
     sl: meander
     sq: Meandra lumore
     sr: Меандар
-    sr-ec: Меандар
-    sr-el: Meandar
+    sr_ec: Меандар
+    sr_el: Meandar
     sv: meander
     sw: Mipindopindo (mto)
     ta: நெளியாறு
@@ -174,12 +174,12 @@ dv_has_:
     xmf: მეანდრი
     yue: 河套
     zh: 曲流
-    zh-cn: 曲流
-    zh-hans: 曲流
-    zh-hant: 曲流
-    zh-hk: 曲流
-    zh-sg: 曲流
-    zh-tw: 曲流
+    zh_cn: 曲流
+    zh_hans: 曲流
+    zh_hant: 曲流
+    zh_hk: 曲流
+    zh_sg: 曲流
+    zh_tw: 曲流
 ---
 # [[Meander]] 
 

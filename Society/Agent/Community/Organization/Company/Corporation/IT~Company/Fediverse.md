@@ -12,8 +12,8 @@ dv_has_:
     da: fediverse
     de: Fediversum
     en: Fediverse
-    en-ca: fediverse
-    en-gb: fediverse
+    en_ca: fediverse
+    en_gb: fediverse
     en-us: fediverse
     eo: Fediverso
     es: fediverso
@@ -45,7 +45,7 @@ dv_has_:
     oc: fedivèrs
     pl: fediwersum
     pt: Fediverso
-    pt-br: Fediverso
+    pt_br: Fediverso
     ro: Fediverse
     ru: Fediverse
     sc: fediversu
@@ -60,8 +60,8 @@ dv_has_:
     vi: Fediverse
     wa: fediviers
     zh: 联邦宇宙
-    zh-hant: 聯邦宇宙
-    zh-tw: Fediverse
+    zh_hant: 聯邦宇宙
+    zh_tw: Fediverse
 aliases:
 - allheimen
 - cruinne chónaidhmeach

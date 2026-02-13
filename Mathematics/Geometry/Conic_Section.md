@@ -165,7 +165,7 @@ dv_has_:
     arz: القطوع المخروطيه
     ast: Sección cónica
     be: канічнае сячэнне
-    be-tarask: канічнае сечыва
+    be_tarask: канічнае сечыва
     bg: Конично сечение
     bn: কনিক
     bs: Konusni presjek
@@ -199,11 +199,11 @@ dv_has_:
     ja: 円錐曲線
     kab: Uzmig
     kk: Коника
-    kk-arab: كونىيكا
+    kk_arab: كونىيكا
     kk-cn: كونىيكا
-    kk-cyrl: Коника
+    kk_cyrl: Коника
     kk-kz: Коника
-    kk-latn: Konïka
+    kk_latn: Konïka
     kk-tr: Konïka
     km: កោនិច
     kn: ಶಂಕುಜಗಳು
@@ -224,7 +224,7 @@ dv_has_:
     pl: krzywa stożkowa
     pms: Cònica
     pt: cónica
-    pt-br: cônica
+    pt_br: cônica
     ro: conică
     ru: коническое сечение
     rue: Коничны перерѣзы
@@ -234,8 +234,8 @@ dv_has_:
     sl: stožnica
     sq: Prerjet konike
     sr: Конусни пресек
-    sr-ec: Конусни пресек
-    sr-el: Konusni presek
+    sr_ec: Конусни пресек
+    sr_el: Konusni presek
     su: Siksikan congcot
     sv: kägelsnitt
     ta: கூம்பு வெட்டு
@@ -249,12 +249,12 @@ dv_has_:
     wuu: 圆锥曲线
     yue: 圓錐曲綫
     zh: 圆锥曲线
-    zh-cn: 圆锥曲线
-    zh-hans: 圆锥曲线
-    zh-hant: 圓錐曲線
-    zh-hk: 圓錐曲線
-    zh-sg: 圆锥曲线
-    zh-tw: 圓錐曲線
+    zh_cn: 圆锥曲线
+    zh_hans: 圆锥曲线
+    zh_hant: 圓錐曲線
+    zh_hk: 圓錐曲線
+    zh_sg: 圆锥曲线
+    zh_tw: 圓錐曲線
 ---
 # [[Conic_Section]] 
 

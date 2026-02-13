@@ -147,7 +147,7 @@ dv_has_:
     az: Erik Klapton
     azb: اریک کلپتون
     be: Эрык Клэптан
-    be-tarask: Эрык Клэптан
+    be_tarask: Эрык Клэптан
     bg: Ерик Клептън
     bho: एरिक क्ल्यप्तोन
     bn: এরিক ক্ল্যাপটন
@@ -161,13 +161,13 @@ dv_has_:
     da: Eric Clapton
     dag: Eric Clapton
     de: Eric Clapton
-    de-ch: Eric Clapton
+    de_ch: Eric Clapton
     din: Eric Clapton
     ee: Eric Clapton
     el: Έρικ Κλάπτον
     en: Eric Clapton
-    en-ca: Eric Clapton
-    en-gb: Eric Clapton
+    en_ca: Eric Clapton
+    en_gb: Eric Clapton
     en-us: Eric Clapton
     eo: Eric Clapton
     es: Eric Clapton
@@ -216,7 +216,7 @@ dv_has_:
     pap: Eric Clapton
     pl: Eric Clapton
     pt: Eric Clapton
-    pt-br: Eric Clapton
+    pt_br: Eric Clapton
     qu: Eric Clapton
     ro: Eric Clapton
     ru: Эрик Клэптон
@@ -242,9 +242,9 @@ dv_has_:
     wuu: 埃里克·克莱普顿
     yue: 艾力卡納頓
     zh: 埃里克·克莱普顿
-    zh-hant: 艾力·克萊普頓
-    zh-hk: 艾力·卡立頓
-    zh-tw: 艾力·克萊普頓
+    zh_hant: 艾力·克萊普頓
+    zh_hk: 艾力·卡立頓
+    zh_tw: 艾力·克萊普頓
 ---
 # [[Clapton,Eric]] 
 

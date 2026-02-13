@@ -7,7 +7,7 @@ dv_has_:
     ar: ديزني+
     ast: Disney+
     az: Disney+
-    be-tarask: Дыснэй+
+    be_tarask: Дыснэй+
     bg: Дисни+
     bn: ডিজনি+
     ca: Disney+
@@ -18,8 +18,8 @@ dv_has_:
     de: Disney+
     el: Disney+
     en: Disney+
-    en-ca: Disney+
-    en-gb: Disney+
+    en_ca: Disney+
+    en_gb: Disney+
     eo: Disney+
     es: Disney+
     et: Disney+
@@ -44,7 +44,7 @@ dv_has_:
     ka: Disney+
     kn: Disney+
     ko: 디즈니+
-    ku-latn: Disney+
+    ku_latn: Disney+
     lb: Disney+
     ln: Disney Plus
     lo: ດິສນີ+
@@ -57,7 +57,7 @@ dv_has_:
     pa: ਡਿਜ਼ਨੀ+
     pl: Disney+
     pt: Disney+
-    pt-br: Disney+
+    pt_br: Disney+
     ro: Disney+
     ru: Disney+
     sah: Disney+
@@ -77,9 +77,9 @@ dv_has_:
     vi: Disney+
     yue: Disney+
     zh: 迪士尼+
-    zh-hans: 迪士尼+
-    zh-hant: 迪士尼+
-    zh-tw: 迪士尼+
+    zh_hans: 迪士尼+
+    zh_hant: 迪士尼+
+    zh_tw: 迪士尼+
 aliases:
 - Disney Plus
 - Disney+

@@ -91,7 +91,7 @@ dv_has_:
     az: Təmsil Olunmayan Millətlər və Xalqlar Təşkilatı
     azb: رسمی اولونمایان میلتلر و خالقلار تشکیلاتی
     ba: Вәкиллектәре булмаған милләттәр һәм халыҡтар ойошмаһы
-    be-tarask: Арганізацыя непрадстаўленых нацыяў і народаў
+    be_tarask: Арганізацыя непрадстаўленых нацыяў і народаў
     ca: UNPO
     cs: Organizace nezastoupených států a národů
     da: UNPO
@@ -147,14 +147,14 @@ dv_has_:
     vi: Tổ chức các quốc gia và dân tộc không có đại diện
     yue: 冇代表國家同民族組織
     zh: 無代表國家和民族組織
-    zh-cn: 无代表国家和民族组织
-    zh-hans: 无代表国家和民族组织
-    zh-hant: 無代表國家和民族組織
-    zh-hk: 無代表國家和民族組織
-    zh-mo: 無代表國家和民族組織
+    zh_cn: 无代表国家和民族组织
+    zh_hans: 无代表国家和民族组织
+    zh_hant: 無代表國家和民族組織
+    zh_hk: 無代表國家和民族組織
+    zh_mo: 無代表國家和民族組織
     zh-my: 无代表国家和民族组织
-    zh-sg: 无代表国家和民族组织
-    zh-tw: 無代表國家和民族組織
+    zh_sg: 无代表国家和民族组织
+    zh_tw: 無代表國家和民族組織
 ---
 # [[Unrepresented_Nations_and_Peoples_Organization]] 
 

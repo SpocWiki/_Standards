@@ -109,7 +109,7 @@ dv_has_:
     azb: یاتیریمجیلیک
     ba: Инвестициялар
     be: інвестыцыя
-    be-tarask: інвэстыцыя
+    be_tarask: інвэстыцыя
     bew: Penyukongan
     bg: Инвестиция
     br: Posterezh
@@ -122,7 +122,7 @@ dv_has_:
     de: Investition
     el: επένδυση
     en: investment
-    en-gb: investing
+    en_gb: investing
     eo: investado
     es: inversión
     et: Investeering
@@ -157,7 +157,7 @@ dv_has_:
     mn: Хөрөнгө оруулалт
     mr: भांडवली गुंतवणूक
     ms: pelaburan
-    ms-arab: ڤلابورن
+    ms_arab: ڤلابورن
     nan: Tâu-chu
     nb: investering
     ne: लगानी
@@ -169,7 +169,7 @@ dv_has_:
     pnb: سرمایہ کاری
     ps: پانګونه
     pt: investimento
-    pt-br: investimento
+    pt_br: investimento
     ro: investiție
     ru: инвестиция
     sa: निवेशः
@@ -184,7 +184,7 @@ dv_has_:
     ta: முதலீடு
     te: పెట్టుబడి
     tg: сармоягузорӣ
-    tg-cyrl: Сармоягузорӣ (инвеститсия)
+    tg_cyrl: Сармоягузорӣ (инвеститсия)
     th: การลงทุน
     tl: Pamumuhunan
     tr: Yatırım

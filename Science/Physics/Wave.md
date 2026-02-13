@@ -128,7 +128,7 @@ dv_has_:
     ast: Onda
     az: dalğa
     be: хваля
-    be-tarask: хваля
+    be_tarask: хваля
     bg: вълна
     bho: तरंग
     bn: তরঙ্গ
@@ -142,8 +142,8 @@ dv_has_:
     de: Welle
     el: κύμα
     en: wave
-    en-ca: wave
-    en-gb: wave
+    en_ca: wave
+    en_gb: wave
     eo: ondo
     es: onda
     et: laine
@@ -183,7 +183,7 @@ dv_has_:
     ml: തരംഗം
     mr: तरंग
     ms: gelombang
-    ms-arab: ݢلومبڠ
+    ms_arab: ݢلومبڠ
     my: လှိုင်း
     myv: толкун
     nan: pho-tōng
@@ -199,7 +199,7 @@ dv_has_:
     pnb: لہر
     ps: څپه
     pt: onda
-    pt-br: onda
+    pt_br: onda
     qu: pillunya
     rki: လှိုင်း
     ro: undă
@@ -216,7 +216,7 @@ dv_has_:
     so: Mowjad
     sq: Dallga
     sr: талас
-    sr-ec: талас
+    sr_ec: талас
     su: Gelombang
     sv: mekanisk vågrörelse
     sw: Wimbi
@@ -237,7 +237,7 @@ dv_has_:
     yi: כוואליע
     yue: 波
     zh: 波
-    zh-hans: 波
+    zh_hans: 波
 ---
 # [[Wave]] 
 

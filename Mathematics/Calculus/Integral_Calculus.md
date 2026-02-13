@@ -96,7 +96,7 @@ dv_has_:
     oc: calcul integral
     pl: rachunek całkowy
     pt: cálculo integral
-    pt-br: cálculo integral
+    pt_br: cálculo integral
     ru: интегральное исчисление
     sk: Integrálny počet
     sl: integralni račun

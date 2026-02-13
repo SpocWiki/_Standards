@@ -351,7 +351,7 @@ dv_has_:
     ace: Bahsa Jeupun
     acm: ياباني
     ady: Японыбзэ
-    aeb-arab: الياباني
+    aeb_arab: الياباني
     af: Japannees
     am: ጃፓንኛ
     ami: Sowal no dipong
@@ -372,7 +372,7 @@ dv_has_:
     bar: Japanische Språch
     bcl: Hapones
     be: японская мова
-    be-tarask: японская мова
+    be_tarask: японская мова
     bew: Basa Jepang
     bg: японски език
     bho: जापानी भाषा
@@ -403,8 +403,8 @@ dv_has_:
     dv: ޖަޕާނީ
     el: Ιαπωνικά
     en: Japanese
-    en-ca: Japanese
-    en-gb: Japanese
+    en_ca: Japanese
+    en_gb: Japanese
     eo: japana lingvo
     es: japonés
     et: jaapani keel
@@ -490,7 +490,7 @@ dv_has_:
     lzh: 日語
     mad: Bhâsa Jeppang
     mai: जापानी भाषा
-    map-bms: Basa Jepang
+    map_bms: Basa Jepang
     mdf: Япунонь кяль
     mg: Japonezy
     mhr: Япон йылме
@@ -502,7 +502,7 @@ dv_has_:
     mni: ꯖꯄꯥꯅꯤꯁ ꯂꯣꯟ
     mr: जपानी भाषा
     ms: bahasa Jepun
-    ms-arab: بهاس جڤون
+    ms_arab: بهاس جڤون
     mt: Ġappuniż
     mwl: lhéngua japonesa
     my: ဂျပန်ဘာသာ
@@ -513,7 +513,7 @@ dv_has_:
     nan: Ji̍t-pún-oē
     nb: japansk
     nds: Japaansch
-    nds-nl: Japans
+    nds_nl: Japans
     ne: जापानी भाषा
     new: जापानी भाषा
     nl: Japans
@@ -534,7 +534,7 @@ dv_has_:
     pnb: جاپانی
     ps: جاپاني ژبه
     pt: japonês
-    pt-br: língua japonesa
+    pt_br: língua japonesa
     pwn: rinipungan
     qu: Nihun simi
     ro: limba japoneză
@@ -553,7 +553,7 @@ dv_has_:
     se: japánagiella
     sgs: Japuonu kalba
     sh: japanski
-    sh-cyrl: јапански
+    sh_cyrl: јапански
     shi: Tutlayt Tajapunit
     si: ජපන් භාෂාව
     sje: jáhpángiella
@@ -567,7 +567,7 @@ dv_has_:
     so: Af-Jabaaniis
     sq: japonisht
     sr: јапански језик
-    sr-ec: јапански
+    sr_ec: јапански
     su: Basa Jepang
     sv: japanska
     sw: Kijapani
@@ -585,12 +585,12 @@ dv_has_:
     tr: Japonca
     trv: Kari Tanah Tunux
     tt: япон теле
-    tt-cyrl: япон теле
+    tt_cyrl: япон теле
     ty: Reo Tāpōnē
     tyv: Япон дыл
     udm: япон кыл
     ug: ياپون تىلى
-    ug-latn: Yapon tili
+    ug_latn: Yapon tili
     uk: японська мова
     ur: جاپانی
     uz: Yapon tili
@@ -610,14 +610,14 @@ dv_has_:
     za: Vah Nditbonj
     zgh: ⵜⵓⵜⵍⴰⵢⵜ ⵜⴰⵏⵉⴱⵓⵏⵜ
     zh: 日語
-    zh-cn: 日语
-    zh-hans: 日语
-    zh-hant: 日語
-    zh-hk: 日語
-    zh-mo: 日語
+    zh_cn: 日语
+    zh_hans: 日语
+    zh_hant: 日語
+    zh_hk: 日語
+    zh_mo: 日語
     zh-my: 日语
-    zh-sg: 日语
-    zh-tw: 日語
+    zh_sg: 日语
+    zh_tw: 日語
     zu: IsiJapani
 ---
 # [[Lang-jpn]] 

@@ -137,7 +137,7 @@ dv_has_:
     ar: مدع
     az: prokuror
     be: пракурор
-    be-tarask: пракурор
+    be_tarask: пракурор
     bg: прокурор
     bn: অভিশংসক
     br: prokulor
@@ -181,7 +181,7 @@ dv_has_:
     lv: prokurors
     mk: обвинител
     ms: pendakwa
-    ms-arab: ڤندعوا
+    ms_arab: ڤندعوا
     mt: prosekutur
     nan: Kiám-chhat-koaⁿ
     nb: aktor
@@ -193,15 +193,15 @@ dv_has_:
     pl: prokurator
     ps: څارنوال
     pt: promotor de justiça
-    pt-br: promotor de justiça
+    pt_br: promotor de justiça
     ro: procuror
     ru: прокурор
     sk: prokurátor
     sl: državni tožilec
     sq: Prokurori
     sr: јавни тужилац
-    sr-ec: јавни тужилац
-    sr-el: javni tužilac
+    sr_ec: јавни тужилац
+    sr_el: javni tužilac
     sv: åklagare
     tg: прокурор
     th: พนักงานอัยการ
@@ -215,11 +215,11 @@ dv_has_:
     yi: פראקוראר
     yue: 主控官
     zh: 檢察官
-    zh-cn: 检察官
-    zh-hans: 检察官
-    zh-hant: 檢察官
-    zh-hk: 主控官
-    zh-tw: 檢察官
+    zh_cn: 检察官
+    zh_hans: 检察官
+    zh_hant: 檢察官
+    zh_hk: 主控官
+    zh_tw: 檢察官
 ---
 # [[Prosecutor]] 
 

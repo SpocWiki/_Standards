@@ -143,7 +143,7 @@ dv_has_:
     ba: материя
     bcl: materya
     be: матэрыя
-    be-tarask: матэрыя
+    be_tarask: матэрыя
     bg: материя
     bho: पदार्थ
     blk: ဒြပ်
@@ -208,7 +208,7 @@ dv_has_:
     lv: matērija
     lzh: 物質
     mag: पदार्थ
-    map-bms: materi
+    map_bms: materi
     mg: zaka
     min: Materi
     mk: материја
@@ -216,7 +216,7 @@ dv_has_:
     mn: Бодис
     mr: पदार्थ
     ms: jirim
-    ms-arab: جيريم
+    ms_arab: جيريم
     mt: materja
     mwl: matéria
     my: ဒြပ်
@@ -239,7 +239,7 @@ dv_has_:
     pnb: مادہ
     ps: ماده
     pt: matéria
-    pt-br: matéria
+    pt_br: matéria
     qu: Imayay
     rm: Materia
     ro: materie
@@ -258,8 +258,8 @@ dv_has_:
     so: maatar
     sq: lënda
     sr: материја
-    sr-ec: материја
-    sr-el: materija
+    sr_ec: материја
+    sr_el: materija
     su: matéri
     sv: materia
     sw: mata
@@ -289,14 +289,14 @@ dv_has_:
     yue: 物質
     zgh: ⵜⴰⵏⴳⴰ
     zh: 物質
-    zh-cn: 物质
-    zh-hans: 物质
-    zh-hant: 物質
-    zh-hk: 物質
-    zh-mo: 物質
+    zh_cn: 物质
+    zh_hans: 物质
+    zh_hant: 物質
+    zh_hk: 物質
+    zh_mo: 物質
     zh-my: 物质
-    zh-sg: 物质
-    zh-tw: 物質
+    zh_sg: 物质
+    zh_tw: 物質
     zu: Matter
   properties: '[ activeIngredient, additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, maximumIntake, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ]'
 dv_has_parent_class: '[[../MedicalEntity]]'

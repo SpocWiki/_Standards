@@ -43,7 +43,7 @@ dv_has_:
     ast: Politburó
     az: Politbüro
     be: палітбюро
-    be-tarask: палітбюро
+    be_tarask: палітбюро
     bg: Политбюро
     ca: politburó
     cs: politbyro
@@ -78,8 +78,8 @@ dv_has_:
     sl: politični biro
     sq: Byro politike
     sr: Политбиро
-    sr-ec: Политбиро
-    sr-el: Politbiro
+    sr_ec: Политбиро
+    sr_el: Politbiro
     sv: Politbyrå
     te: పోలిట్బ్యూరో
     th: โปลิตบูโร
@@ -89,12 +89,12 @@ dv_has_:
     vi: Bộ Chính trị
     yue: 政治局
     zh: 政治局
-    zh-cn: 政治局
-    zh-hans: 政治局
-    zh-hant: 政治局
-    zh-hk: 政治局
-    zh-sg: 政治局
-    zh-tw: 政治局
+    zh_cn: 政治局
+    zh_hans: 政治局
+    zh_hant: 政治局
+    zh_hk: 政治局
+    zh_sg: 政治局
+    zh_tw: 政治局
 ---
 # [[Political_Bureau]] 
 

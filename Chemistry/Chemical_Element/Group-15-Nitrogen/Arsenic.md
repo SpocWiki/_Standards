@@ -221,7 +221,7 @@ dv_has_:
     ban: Arsenik
     bcl: Arseniko
     be: Мыш'як
-    be-tarask: аршэньнік
+    be_tarask: аршэньнік
     bg: арсен
     bho: आर्सेनिक
     blk: အာသဲန်းနေက်
@@ -241,8 +241,8 @@ dv_has_:
     de: Arsen
     el: αρσενικό
     en: arsenic
-    en-ca: Arsenic
-    en-gb: arsenic
+    en_ca: Arsenic
+    en_gb: arsenic
     eo: arseno
     es: arsénico
     et: Arseen
@@ -307,7 +307,7 @@ dv_has_:
     mr: आर्सेनिक
     mrj: Мышьяк
     ms: arsenik
-    ms-arab: ارسينوک
+    ms_arab: ارسينوک
     mt: arseniku
     my: စိန်ဖြူ
     myv: Мышьяк
@@ -331,7 +331,7 @@ dv_has_:
     pnb: آرسینک
     ps: ارسینک
     pt: arsénio
-    pt-br: arsênio
+    pt_br: arsênio
     qu: Arsiniku
     ro: arsen
     ru: мышьяк
@@ -373,11 +373,11 @@ dv_has_:
     yo: Arsenic
     yue: 砷
     zh: 砷
-    zh-cn: 砷
-    zh-hans: 砷
-    zh-hant: 砷
-    zh-hk: 砷
-    zh-tw: 砷
+    zh_cn: 砷
+    zh_hans: 砷
+    zh_hant: 砷
+    zh_hk: 砷
+    zh_tw: 砷
     zu: IsAsumu
   number_of_:
     period: 4

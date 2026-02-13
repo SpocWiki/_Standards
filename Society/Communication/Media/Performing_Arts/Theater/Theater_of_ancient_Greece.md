@@ -80,7 +80,7 @@ dv_has_:
     af: Griekse teater
     ar: مسرح إغريقي
     ast: Teatru de l'Antigua Grecia
-    be-tarask: Старажытнагрэцкі тэатар
+    be_tarask: Старажытнагрэцкі тэатар
     bg: Старогръцки театър
     ca: teatre a l'antiga Grècia
     ckb: سورانى
@@ -105,11 +105,11 @@ dv_has_:
     it: teatro greco
     ja: 古代ギリシアの演劇
     kk: Ежелгі Грекия театры
-    kk-arab: ەجەلگى گرەكىييا تەاترى
+    kk_arab: ەجەلگى گرەكىييا تەاترى
     kk-cn: ەجەلگى گرەكىييا تەاترى
-    kk-cyrl: Ежелгі Грекия театры
+    kk_cyrl: Ежелгі Грекия театры
     kk-kz: Ежелгі Грекия театры
-    kk-latn: Ejelgi Grekïya teatrı
+    kk_latn: Ejelgi Grekïya teatrı
     kk-tr: Ejelgi Grekïya teatrı
     kn: ಪ್ರಾಚೀನ ಗ್ರೀಸ್ನ ರಂಗಭೂಮಿ
     ko: 고대 그리스 연극
@@ -141,12 +141,12 @@ dv_has_:
     wuu: 古希腊戏剧
     yue: 古希臘戲劇
     zh: 古希腊戏剧
-    zh-cn: 古希腊戏剧
-    zh-hans: 古希腊戏剧
-    zh-hant: 古希臘戲劇
-    zh-hk: 古希臘戲劇
-    zh-sg: 古希腊戏剧
-    zh-tw: 古希臘戲劇
+    zh_cn: 古希腊戏剧
+    zh_hans: 古希腊戏剧
+    zh_hant: 古希臘戲劇
+    zh_hk: 古希臘戲劇
+    zh_sg: 古希腊戏剧
+    zh_tw: 古希臘戲劇
 ---
 # [[Theater_of_ancient_Greece]] 
 

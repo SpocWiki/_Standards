@@ -137,7 +137,7 @@ dv_has_:
     ban: Damuh
     bcl: Tunog
     be: раса
-    be-tarask: раса
+    be_tarask: раса
     bg: роса
     bho: ओस
     bjn: Ambun
@@ -182,7 +182,7 @@ dv_has_:
     ko: 이슬
     ks: شبنَم
     ku: şevnem
-    ku-latn: şevnem
+    ku_latn: şevnem
     ky: Шүүдүрүм
     la: Ros
     lb: Da
@@ -197,7 +197,7 @@ dv_has_:
     mnc: ᠰᡳᠯᡝᠩᡤᡳ
     mr: दवबिंदु
     ms: embun
-    ms-arab: امبون
+    ms_arab: امبون
     nap: Acquare
     nb: dugg
     nl: dauw
@@ -222,7 +222,7 @@ dv_has_:
     sn: Dova
     sq: Vesa
     sr: роса
-    sr-ec: роса
+    sr_ec: роса
     su: Ibun
     sv: dagg
     sw: Umande

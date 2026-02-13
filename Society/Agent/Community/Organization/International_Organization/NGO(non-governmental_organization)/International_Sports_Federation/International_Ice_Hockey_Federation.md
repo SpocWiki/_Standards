@@ -88,18 +88,18 @@ dv_has_:
     ast: Federación Internacional de Ḥoquei sobre Xelu
     ba: Халыҡ-ара хоккей федерацияһы
     be: Міжнародная федэрацыя хакея на лёдзе
-    be-tarask: Міжнародная фэдэрацыя хакею на лёдзе
+    be_tarask: Міжнародная фэдэрацыя хакею на лёдзе
     bg: Международна федерация по хокей на лед
     bn: আন্তর্জাতিক আইস হকি ফেডারেশন
     ca: Federació Internacional d'Hoquei sobre Gel
     cs: Mezinárodní federace ledního hokeje
     da: International Ice Hockey Federation
     de: Internationale Eishockey-Föderation
-    de-ch: Internationale Eishockey-Föderation
+    de_ch: Internationale Eishockey-Föderation
     el: Διεθνής Ομοσπονδία Χόκεϊ επί Πάγου
     en: International Ice Hockey Federation
-    en-ca: International Ice Hockey Federation
-    en-gb: International Ice Hockey Federation
+    en_ca: International Ice Hockey Federation
+    en_gb: International Ice Hockey Federation
     eo: Internacia Glacihokea Federacio
     es: Federación Internacional de Hockey sobre Hielo
     et: Rahvusvaheline Jäähokiföderatsioon
@@ -117,11 +117,11 @@ dv_has_:
     ja: 国際アイスホッケー連盟
     ka: ყინულის ჰოკეის საერთაშორისო ფედერაცია
     kk: Халықаралық шайбалы хоккей федерациясы
-    kk-arab: حالىقارالىق شايبالى حوككەي فەدەراتسىيياسى
+    kk_arab: حالىقارالىق شايبالى حوككەي فەدەراتسىيياسى
     kk-cn: حالىقارالىق شايبالى حوككەي فەدەراتسىيياسى
-    kk-cyrl: Халықаралық шайбалы хоккей федерациясы
+    kk_cyrl: Халықаралық шайбалы хоккей федерациясы
     kk-kz: Халықаралық шайбалы хоккей федерациясы
-    kk-latn: Xalıqaralıq şaýbalı xokkeý federacïyası
+    kk_latn: Xalıqaralıq şaýbalı xokkeý federacïyası
     kk-tr: Xalıqaralıq şaýbalı xokkeý federacïyası
     ko: 국제 아이스하키 연맹
     lt: Tarptautinė ledo ritulio federacija
@@ -132,7 +132,7 @@ dv_has_:
     nl: Internationale IJshockeyfederatie
     pl: IIHF
     pt: Federação Internacional de Hóquei no Gelo
-    pt-br: Federação Internacional de Hóquei no Gelo
+    pt_br: Federação Internacional de Hóquei no Gelo
     ro: Federația Internațională de Hochei pe Gheață
     ru: Международная федерация хоккея на льду
     se: Riikkaidgaskasaš jiekŋaskearrolihttu
@@ -141,8 +141,8 @@ dv_has_:
     smn: Aalmugijkoskâšâš jieŋâskiärrulitto
     sms: Meeraikõskksaž jiõŋŋhokkilett
     sr: Међународна хокејашка федерација
-    sr-ec: Међународна хокејашка федерација
-    sr-el: Međunarodna hokejaška federacija
+    sr_ec: Међународна хокејашка федерација
+    sr_el: Međunarodna hokejaška federacija
     sv: International Ice Hockey Federation
     ta: பன்னாட்டு பனி ஆக்கி கூட்டமைப்பு
     th: สหพันธ์ฮอกกี้น้ำแข็งนานาชาติ
@@ -151,12 +151,12 @@ dv_has_:
     uz: Xalqaro Xokkey Federatsiyasi
     vi: Liên đoàn Khúc côn cầu trên băng Quốc tế
     zh: 国际冰球联合会
-    zh-cn: 国际冰球联合会
-    zh-hans: 国际冰球联合会
-    zh-hant: 國際冰球總會
-    zh-hk: 國際冰球總會
-    zh-sg: 国际冰球联合会
-    zh-tw: 國際冰球總會
+    zh_cn: 国际冰球联合会
+    zh_hans: 国际冰球联合会
+    zh_hant: 國際冰球總會
+    zh_hk: 國際冰球總會
+    zh_sg: 国际冰球联合会
+    zh_tw: 國際冰球總會
 ---
 # [[International_Ice_Hockey_Federation]] 
 

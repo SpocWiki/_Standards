@@ -29,13 +29,13 @@ dv_has_:
     nl: Vadim Krasikov
     pl: Wadim Krasikow
     pt: Vadim Krasikov
-    pt-br: Vadim Krasikov
+    pt_br: Vadim Krasikov
     ru: Красиков, Вадим Николаевич
     sk: Vadim Nikolajevič Krasikov
     uk: Красіков Вадим Миколайович
     zh: 瓦迪姆·柯拉希可夫
-    zh-hant: 瓦迪姆·柯拉希可夫
-    zh-tw: 瓦迪姆·柯拉希可夫
+    zh_hant: 瓦迪姆·柯拉希可夫
+    zh_tw: 瓦迪姆·柯拉希可夫
   time_:
     started: 1965-08-10T00:00:00.000+01:00
 dv_is_:

@@ -136,7 +136,7 @@ dv_has_:
     az: söz söhbət
     bcl: pagdangog
     be: слых
-    be-tarask: слых
+    be_tarask: слых
     bg: слух
     bn: শ্রবণশক্তি
     bs: sluh
@@ -176,11 +176,11 @@ dv_has_:
     ka: სმენა
     kab: timesliwt
     kk: есту
-    kk-arab: ەستۋ
+    kk_arab: ەستۋ
     kk-cn: ەستۋ
-    kk-cyrl: есту
+    kk_cyrl: есту
     kk-kz: есту
-    kk-latn: estw
+    kk_latn: estw
     kk-tr: estw
     ko: 청각
     ku: bihîstin
@@ -203,7 +203,7 @@ dv_has_:
     pl: słuch
     ps: اورېدل
     pt: audição
-    pt-br: audição
+    pt_br: audição
     qu: uyariy
     ro: auz
     ru: слух
@@ -213,7 +213,7 @@ dv_has_:
     so: maqal
     sq: dëgjimi
     sr: слух
-    sr-ec: слух
+    sr_ec: слух
     sv: hörsel
     sw: perception
     ta: கேட்டல்
@@ -223,7 +223,7 @@ dv_has_:
     tl: pandinig
     tr: işitme
     tt: ишетү
-    tt-cyrl: ишетү
+    tt_cyrl: ишетү
     uk: слух
     ur: سُننا
     uz: eshitish
@@ -234,12 +234,12 @@ dv_has_:
     wuu: 听觉
     yue: 聽覺
     zh: 听觉
-    zh-cn: 听觉
-    zh-hans: 听觉
-    zh-hant: 聽覺
-    zh-hk: 聽覺
-    zh-sg: 听觉
-    zh-tw: 聽覺
+    zh_cn: 听觉
+    zh_hans: 听觉
+    zh_hant: 聽覺
+    zh_hk: 聽覺
+    zh_sg: 听觉
+    zh_tw: 聽覺
     zu: ukuzwa
 ---
 # [[Hearing]] 

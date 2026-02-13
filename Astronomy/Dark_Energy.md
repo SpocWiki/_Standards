@@ -130,7 +130,7 @@ dv_has_:
     ast: enerxía escuro
     az: qaranlıq enerji
     be: цёмная энергія
-    be-tarask: цёмная энэргія
+    be_tarask: цёмная энэргія
     bg: тъмна енергия
     bn: তমোশক্তি
     bs: tamna energija
@@ -142,8 +142,8 @@ dv_has_:
     de: dunkle Energie
     el: σκοτεινή ενέργεια
     en: dark energy
-    en-ca: dark energy
-    en-gb: dark energy
+    en_ca: dark energy
+    en_gb: dark energy
     eo: malluma energio
     es: energía oscura
     et: tumeenergia
@@ -186,7 +186,7 @@ dv_has_:
     pnb: تاریک توانائی
     ps: ډارک انرژي
     pt: energia escura
-    pt-br: energia escura
+    pt_br: energia escura
     ro: energie întunecată
     ru: тёмная энергия
     sco: dark energy
@@ -197,8 +197,8 @@ dv_has_:
     sl: temna energija
     smn: sevŋis energia
     sr: тамна енергија
-    sr-ec: тамна енергија
-    sr-el: tamna energija
+    sr_ec: тамна енергија
+    sr_el: tamna energija
     sv: mörk energi
     sw: nguvu nyeusi
     ta: கருப்பு ஆற்றல்

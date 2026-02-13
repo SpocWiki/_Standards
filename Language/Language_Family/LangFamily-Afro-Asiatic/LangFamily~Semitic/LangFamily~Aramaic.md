@@ -148,7 +148,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Aramaic%20written%20us
 Dewey_Decimal_Classification: 492.29
 dv_has_:
   name_:
-    aeb-arab: الآرامي
+    aeb_arab: الآرامي
     af: Aramees
     am: አረማይክ
     an: Idioma arameu
@@ -161,7 +161,7 @@ dv_has_:
     ba: Арамей телдәре
     bcl: Arameo
     be: арамейскія мовы
-    be-tarask: арамэйскія мовы
+    be_tarask: арамэйскія мовы
     bg: Арамейски езици
     bn: আরামীয় ভাষা
     br: arameeg
@@ -178,8 +178,8 @@ dv_has_:
     diq: Aramki
     el: Αραμαϊκή γλώσσα
     en: Aramaic
-    en-ca: Aramaic
-    en-gb: Aramaic
+    en_ca: Aramaic
+    en_gb: Aramaic
     en-us: Aramaic
     eo: aramea lingvo
     es: arameo
@@ -213,7 +213,7 @@ dv_has_:
     km: ភាសាអារ៉ាម
     ko: 아람어
     ku: zimanê aramî
-    ku-latn: zimanê aramî
+    ku_latn: zimanê aramî
     la: lingua Aramaica
     lad: Lingua aramea
     lb: Araméiesch
@@ -233,7 +233,7 @@ dv_has_:
     ms: Bahasa Aramia
     mt: Aramajk
     nb: arameisk
-    nds-nl: Aramees
+    nds_nl: Aramees
     ne: आरामी भाषा
     nia: li Aram
     nl: Aramees
@@ -247,7 +247,7 @@ dv_has_:
     pnb: آرامی
     ps: ارامي ژبه
     pt: aramaico
-    pt-br: Aramaico
+    pt_br: Aramaico
     ro: limba aramaică
     ru: арамейские языки
     sat: ᱟᱨᱟᱢᱟᱭᱤᱠ
@@ -281,8 +281,8 @@ dv_has_:
     yo: Èdè Árámáìkì
     yue: 亞拉姆文
     zh: 亞拉姆語
-    zh-hant: 亞拉姆語
-    zh-tw: 亞蘭語
+    zh_hant: 亞拉姆語
+    zh_tw: 亞蘭語
 ---
 # [[LangFamily~Aramaic]] 
 

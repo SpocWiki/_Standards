@@ -157,7 +157,7 @@ dv_has_:
     azb: رابرت بویل
     ban: Robert Boyle
     be: Роберт Бойль
-    be-tarask: Робэрт Бойль
+    be_tarask: Робэрт Бойль
     bg: Робърт Бойл
     bn: রবার্ট বয়েল
     bs: Robert Boyle
@@ -220,7 +220,7 @@ dv_has_:
     pms: Robert Boyle
     pnb: رابرٹ بوائل
     pt: Robert Boyle
-    pt-br: Robert Boyle
+    pt_br: Robert Boyle
     qu: Robert Boyle
     ro: Robert Boyle
     ru: Роберт Бойль
@@ -231,7 +231,7 @@ dv_has_:
     sl: Robert Boyle
     sq: Robert Boyle
     sr: Роберт Бојл
-    sr-ec: Роберт Бојл
+    sr_ec: Роберт Бојл
     sv: Robert Boyle
     sw: Robert Boyle
     ta: இராபர்ட் பாயில்

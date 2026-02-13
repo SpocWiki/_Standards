@@ -158,7 +158,7 @@ dv_has_:
     azb: فاطمی خلافتی
     ba: Фатимиҙар хәлифәлеге
     be: Фацімідскі халіфат
-    be-tarask: Фатымідзкі халіфат
+    be_tarask: Фатымідзкі халіфат
     bg: Фатимиди
     bn: ফাতিমীয় খিলাফত
     bs: Fatimidski halifat
@@ -192,17 +192,17 @@ dv_has_:
     jv: Kakalifahan Fatimiyah
     ka: ფატიმიდების სახალიფო
     kk: Фатима әулеті
-    kk-arab: فاتىيما اۋلەتى
+    kk_arab: فاتىيما اۋلەتى
     kk-cn: فاتىيما اۋلەتى
-    kk-cyrl: Фатима әулеті
+    kk_cyrl: Фатима әулеті
     kk-kz: Фатима әулеті
-    kk-latn: Fatïma äwleti
+    kk_latn: Fatïma äwleti
     kk-tr: Fatïma äwleti
     kn: ಫ್ಯಾಥಿಮಿಡ್ ಕ್ಯಾಲಿಫೇಟ್
     ko: 파티마 왕조
     ku: Fatimî
-    ku-arab: فاتمی
-    ku-latn: Fatimî
+    ku_arab: فاتمی
+    ku_latn: Fatimî
     ky: Фатимилер
     lt: Fatimidų kalifatas
     lv: Fātimiju kalifāts
@@ -220,7 +220,7 @@ dv_has_:
     pnb: سلطنت فاطمیہ
     ps: فاطمي واکمني
     pt: Califado Fatímida
-    pt-br: Califado Fatímida
+    pt_br: Califado Fatímida
     ro: Califatul Fatimid
     ru: Фатимидский халифат
     sa: फ़तिमीड कलीफते
@@ -234,8 +234,8 @@ dv_has_:
     so: Dawladii faadumiyiinta
     sq: Fatimidët
     sr: Фатимиди
-    sr-ec: Фатимидски калифат
-    sr-el: Fatimidi
+    sr_ec: Фатимидски калифат
+    sr_el: Fatimidi
     sv: Fatimider
     sw: Ukhalifa wa Fatimid
     ta: பாத்திம கலீபகம்
@@ -250,12 +250,12 @@ dv_has_:
     wuu: 法蒂玛王朝
     yue: 法蒂瑪王朝
     zh: 法蒂玛王朝
-    zh-cn: 法蒂玛王朝
-    zh-hans: 法蒂玛王朝
-    zh-hant: 法蒂瑪王朝
-    zh-hk: 法蒂瑪王朝
-    zh-sg: 法蒂玛王朝
-    zh-tw: 法提瑪王朝
+    zh_cn: 法蒂玛王朝
+    zh_hans: 法蒂玛王朝
+    zh_hant: 法蒂瑪王朝
+    zh_hk: 法蒂瑪王朝
+    zh_sg: 法蒂玛王朝
+    zh_tw: 法提瑪王朝
     zu: i-Fatimid Caliphate
 ---
 # [[Fatimid_Caliphate]] 

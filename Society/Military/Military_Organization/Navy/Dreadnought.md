@@ -33,7 +33,7 @@ dv_has_:
     ar: مدرعة بحرية
     ast: Dreadnought
     be: дрэдноўт
-    be-tarask: дрэдноўт
+    be_tarask: дрэдноўт
     bg: Дреднаут
     br: Dreadnought
     bxr: Дредноут
@@ -44,7 +44,7 @@ dv_has_:
     de: Großlinienschiff
     el: Θωρηκτό Ντρέντνωτ
     en: dreadnought
-    en-gb: dreadnought
+    en_gb: dreadnought
     es: dreadnought
     et: Drednoot
     eu: Dreadnought
@@ -66,7 +66,7 @@ dv_has_:
     pl: Drednot
     pms: Dreadnought
     pt: dreadnought
-    pt-br: dreadnought
+    pt_br: dreadnought
     ro: dreadnought
     ru: дредноут
     sh: Drednot
@@ -79,10 +79,10 @@ dv_has_:
     vi: Dreadnought
     yue: 無畏艦
     zh: 无畏舰
-    zh-hans: 无畏舰
-    zh-hant: 無畏艦
-    zh-hk: 無畏艦
-    zh-tw: 無畏艦
+    zh_hans: 无畏舰
+    zh_hant: 無畏艦
+    zh_hk: 無畏艦
+    zh_tw: 無畏艦
 ---
 # [[Dreadnought]] 
 

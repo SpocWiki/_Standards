@@ -186,13 +186,13 @@ dv_has_:
     ba: Клавдий Птолемей
     bcl: Ptolemy
     be: Клаўдзій Пталемей
-    be-tarask: Кляўдыюс Пталемэй
+    be_tarask: Кляўдыюс Пталемэй
     bg: Клавдий Птолемей
     bn: টলেমি
     br: Klaudios Ptolemaios
     bs: Ptolomej
     ca: Claudi Ptolemeu
-    cbk-zam: Claudio Ptolomeo
+    cbk_zam: Claudio Ptolomeo
     ce: Птоломей Клавдий
     ckb: بەتڵیمۆس
     co: Claudiu Tolomeu
@@ -203,8 +203,8 @@ dv_has_:
     diq: Batlamyus
     el: Κλαύδιος Πτολεμαίος
     en: Ptolemy
-    en-ca: Ptolemy
-    en-gb: Ptolemy
+    en_ca: Ptolemy
+    en_gb: Ptolemy
     eo: Ptolemeo
     es: Claudio Ptolomeo
     et: Ptolemaios
@@ -258,7 +258,7 @@ dv_has_:
     mt: Tolomew
     my: တော်လမီ
     nb: Klaudios Ptolemaios
-    nds-nl: Ptolemaeus
+    nds_nl: Ptolemaeus
     nl: Claudius Ptolemaeus
     nn: Klaudios Ptolemaios
     oc: Claudi Ptolemèu
@@ -270,7 +270,7 @@ dv_has_:
     pnb: بطلیموس
     ps: بطلمیوس
     pt: Ptolemeu
-    pt-br: Ptolemeu
+    pt_br: Ptolemeu
     rki: တော်လမီ(Ptolemaeus)
     ro: Ptolemeu
     ru: Клавдий Птолемей
@@ -285,7 +285,7 @@ dv_has_:
     sl: Ptolemaj
     sq: Klaudio Ptolomeu
     sr: Клаудије Птолемеј
-    sr-ec: Клаудије Птолемеј
+    sr_ec: Клаудије Птолемеј
     sv: Klaudios Ptolemaios
     sw: Klaudio Ptolemaio
     ta: தொலெமி

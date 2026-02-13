@@ -167,7 +167,7 @@ dv_has_:
     bcl: Pulis
     bdr: Pulis
     be: паліцыя
-    be-tarask: паліцыя
+    be_tarask: паліцыя
     bg: Полиция
     bjn: Pulisi
     bn: পুলিশ
@@ -176,7 +176,7 @@ dv_has_:
     bs: policija
     bxr: Сагдаа
     ca: policia
-    cbk-zam: policía
+    cbk_zam: policía
     cdo: Gīng-chák
     ckb: پۆلیس
     cs: policie
@@ -187,7 +187,7 @@ dv_has_:
     diq: Polis
     el: αστυνομία
     en: police
-    en-gb: police
+    en_gb: police
     eo: polico
     es: policía
     et: politsei
@@ -245,7 +245,7 @@ dv_has_:
     ml: പോലീസ്
     mr: पोलीस
     ms: polis
-    ms-arab: ڤوليس
+    ms_arab: ڤوليس
     mt: pulizija
     my: ရဲ
     mzn: آجون
@@ -266,7 +266,7 @@ dv_has_:
     pnb: پولیس
     ps: ساتونکی
     pt: polícia
-    pt-br: polícia
+    pt_br: polícia
     qu: Chapaq
     rmy: Shagede
     ro: poliție
@@ -308,14 +308,14 @@ dv_has_:
     yue: 警察機構
     zgh: ⵍⴱⵓⵍⵉⵙ
     zh: 警察機構
-    zh-cn: 警察机构
-    zh-hans: 警察机构
-    zh-hant: 警察機構
-    zh-hk: 警察機構
-    zh-mo: 警察機構
+    zh_cn: 警察机构
+    zh_hans: 警察机构
+    zh_hant: 警察機構
+    zh_hk: 警察機構
+    zh_mo: 警察機構
     zh-my: 警察机构
-    zh-sg: 警察机构
-    zh-tw: 警察機構
+    zh_sg: 警察机构
+    zh_tw: 警察機構
     zu: Amaphoyisa
 ---
 # [[Police]] 

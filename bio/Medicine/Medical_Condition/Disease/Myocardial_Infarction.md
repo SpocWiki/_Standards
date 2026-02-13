@@ -224,7 +224,7 @@ dv_has_:
     azb: اۆرک حمله سی
     ba: Миокард инфаркты
     be: інфаркт міякарда
-    be-tarask: інфаркт міякарда
+    be_tarask: інфаркт міякарда
     bg: Инфаркт на миокарда
     blk: သꩻရာႏရောႏဂါႏ
     bn: হৃৎপেশীর রক্তাভাবজনিত মৃত্যু
@@ -239,13 +239,13 @@ dv_has_:
     cy: trawiad ar y galon
     da: hjerteanfald
     de: Herzinfarkt
-    de-ch: Myokardinfarkt
+    de_ch: Myokardinfarkt
     diq: krizê qelbi
     dv: ހާރޓް އެޓޭކް ޖެހުން
     el: έμφραγμα του μυοκαρδίου
     en: myocardial infarction
-    en-ca: Myocardial infarction
-    en-gb: myocardial infarction
+    en_ca: Myocardial infarction
+    en_gb: myocardial infarction
     en-us: myocardial infarction
     eo: korinfarkto
     es: infarto agudo de miocardio
@@ -322,7 +322,7 @@ dv_has_:
     pnb: دل دا دورہ
     ps: د زړه حمله (ناروغي)
     pt: enfarte do miocárdio
-    pt-br: infarto agudo do miocárdio
+    pt_br: infarto agudo do miocárdio
     qu: Sunqu p'itiy
     ro: infarct miocardic
     ru: инфаркт миокарда
@@ -341,7 +341,7 @@ dv_has_:
     sms: čââʹđinfarktt
     sq: Infarkti miokardial
     sr: срчани удар
-    sr-ec: срчани удар
+    sr_ec: срчани удар
     sv: hjärtinfarkt
     sw: Shtuko la moyo
     szl: Hercszlag
@@ -363,12 +363,12 @@ dv_has_:
     yi: הארץ אטאקע
     yue: 心肌梗塞
     zh: 心肌梗死
-    zh-cn: 心肌梗死
-    zh-hans: 心肌梗死
-    zh-hant: 心臟病
-    zh-hk: 心肌梗塞
-    zh-sg: 心肌梗死
-    zh-tw: 心臟病
+    zh_cn: 心肌梗死
+    zh_hans: 心肌梗死
+    zh_hant: 心臟病
+    zh_hk: 心肌梗塞
+    zh_sg: 心肌梗死
+    zh_tw: 心臟病
 ---
 # [[Myocardial_Infarction]] 
 

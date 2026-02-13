@@ -165,7 +165,7 @@ dv_has_:
     ba: Һормуз боғаҙы
     ban: Selat Hormuz
     be: Армузскі праліў
-    be-tarask: Армуская пратока
+    be_tarask: Армуская пратока
     bg: Ормузки проток
     bn: হরমুজ প্রণালি
     br: Strizh-mor Hormuz
@@ -179,11 +179,11 @@ dv_has_:
     cy: Culfor Hormuz
     da: Hormuzstrædet
     de: Straße von Hormus
-    de-ch: Strasse von Hormus
+    de_ch: Strasse von Hormus
     el: Στενά του Ορμούζ
     en: Strait of Hormuz
-    en-ca: Strait of Hormuz
-    en-gb: Strait of Hormuz
+    en_ca: Strait of Hormuz
+    en_gb: Strait of Hormuz
     eo: Hormuza Markolo
     es: Estrecho de Ormuz
     et: Hormuze väin
@@ -235,7 +235,7 @@ dv_has_:
     pnb: آبنائے ہرمز
     ps: د هرمز تنګئ
     pt: Estreito de Ormuz
-    pt-br: Estreito de Ormuz
+    pt_br: Estreito de Ormuz
     ro: Strâmtoarea Ormuz
     ru: Ормузский пролив
     sah: Һормуз силбэһиитэ
@@ -264,14 +264,14 @@ dv_has_:
     xmf: ჰორმუზიშ საროტი
     yue: 荷莫茲海峽
     zh: 霍爾木茲海峽
-    zh-cn: 霍尔木兹海峡
-    zh-hans: 霍尔木兹海峡
-    zh-hant: 荷莫茲海峽
-    zh-hk: 霍爾木茲海峽
-    zh-mo: 霍爾木茲海峽
+    zh_cn: 霍尔木兹海峡
+    zh_hans: 霍尔木兹海峡
+    zh_hant: 荷莫茲海峽
+    zh_hk: 霍爾木茲海峽
+    zh_mo: 霍爾木茲海峽
     zh-my: 霍尔木兹海峡
-    zh-sg: 霍尔木兹海峡
-    zh-tw: 荷莫茲海峽
+    zh_sg: 霍尔木兹海峡
+    zh_tw: 荷莫茲海峽
 ---
 # [[Strait_of_Hormuz]] 
 

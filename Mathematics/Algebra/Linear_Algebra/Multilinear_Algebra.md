@@ -45,15 +45,15 @@ dv_has_:
     ar: جبر متعدد الخطية
     ast: álxebra multilineal
     ba: күп һыҙыҡлы а́лгебра
-    be-tarask: полілінейная альгебра
+    be_tarask: полілінейная альгебра
     bg: Полилинейна алгебра
     ca: Àlgebra multilineal
     cv: Полилинилле алгебра
     de: multilineare Algebra
     el: Πολυγραμμική άλγεβρα
     en: multilinear algebra
-    en-ca: Multilinear algebra
-    en-gb: Multilinear algebra
+    en_ca: Multilinear algebra
+    en_gb: Multilinear algebra
     eo: plurlineara algebro
     es: álgebra multilineal
     eu: Aljebra multilineal
@@ -67,7 +67,7 @@ dv_has_:
     nl: multilineair
     pl: algebra wieloliniowa
     pt: álgebra multilinear
-    pt-br: álgebra multilinear
+    pt_br: álgebra multilinear
     ro: algebră multiliniară
     ru: полилинейная алгебра
     sl: multilinearna algebra
@@ -78,9 +78,9 @@ dv_has_:
     vi: Đại số đa tuyến tính
     yue: 多重線性代數
     zh: 多重线性代数
-    zh-hans: 多重线性代数
-    zh-hant: 多重線性代數
-    zh-hk: 多重線性代數
+    zh_hans: 多重线性代数
+    zh_hant: 多重線性代數
+    zh_hk: 多重線性代數
 ---
 # [[Multilinear_Algebra]] 
 

@@ -94,7 +94,7 @@ dv_has_:
     az: sosial struktur
     ba: социаль структура
     be: сацыяльная структура
-    be-tarask: сацыяльная структура
+    be_tarask: сацыяльная структура
     bg: Социална структура
     bn: সামাজিক কাঠামো
     ca: estructura social
@@ -104,8 +104,8 @@ dv_has_:
     de: Sozialstruktur
     el: κοινωνική δομή
     en: social structure
-    en-ca: social structure
-    en-gb: social structure
+    en_ca: social structure
+    en_gb: social structure
     eo: socia strukturo
     es: estructura social
     et: sotsiaalne struktuur
@@ -127,11 +127,11 @@ dv_has_:
     ka: სოციალური სტრუქტურა
     kaa: Jámiyetlik qurılıs
     kk: әлеуметтік құрылым
-    kk-arab: الەۋمەتتىك قۇرىلىم
+    kk_arab: الەۋمەتتىك قۇرىلىم
     kk-cn: الەۋمەتتىك قۇرىلىم
-    kk-cyrl: Әлеуметтік құрылым
+    kk_cyrl: Әлеуметтік құрылым
     kk-kz: Әлеуметтік құрылым
-    kk-latn: älewmettik qurılım
+    kk_latn: älewmettik qurılım
     kk-tr: Älewmettik qurılım
     kn: ಸಾಮಾಜಿಕ ರಚನೆ
     ko: 사회구성체
@@ -143,7 +143,7 @@ dv_has_:
     mk: општествена структура
     mn: Нийгмийн бүтэц
     ms: struktur sosial
-    ms-arab: ستروکتور سوسيال
+    ms_arab: ستروکتور سوسيال
     nb: sosialt system og sosial struktur
     nl: sociale structuur
     nn: sosial struktur
@@ -160,8 +160,8 @@ dv_has_:
     sl: družbena struktura
     sq: Struktura shoqërore
     sr: друштвена структура
-    sr-ec: Друштвена структура
-    sr-el: Društvena struktura
+    sr_ec: Друштвена структура
+    sr_el: Društvena struktura
     sv: social struktur
     tr: toplumsal yapı
     uk: структура соціальна
@@ -171,12 +171,12 @@ dv_has_:
     wuu: 社会结构
     yue: 社會結構
     zh: 社会结构
-    zh-cn: 社会结构
-    zh-hans: 社会结构
-    zh-hant: 社會結構
-    zh-hk: 社會結構
-    zh-sg: 社会结构
-    zh-tw: 社會結構
+    zh_cn: 社会结构
+    zh_hans: 社会结构
+    zh_hant: 社會結構
+    zh_hk: 社會結構
+    zh_sg: 社会结构
+    zh_tw: 社會結構
 ---
 # [[Social_Structure]] 
 

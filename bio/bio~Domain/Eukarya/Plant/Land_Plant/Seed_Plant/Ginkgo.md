@@ -55,7 +55,7 @@ dv_has_:
     os: гинкго
     pl: Miłorząb
     pt: Ginkgo
-    pt-br: Ginkgo
+    pt_br: Ginkgo
     ro: Ginkgo
     ru: гинкго
     sq: Ginkgo
@@ -65,12 +65,12 @@ dv_has_:
     war: Ginkgo
     yue: 銀杏屬
     zh: 银杏属
-    zh-cn: 银杏属
-    zh-hans: 银杏属
-    zh-hant: 銀杏屬
-    zh-hk: 銀杏屬
-    zh-sg: 银杏属
-    zh-tw: 銀杏屬
+    zh_cn: 银杏属
+    zh_hans: 银杏属
+    zh_hant: 銀杏屬
+    zh_hk: 銀杏屬
+    zh_sg: 银杏属
+    zh_tw: 銀杏屬
 aliases:
 - ginceo
 - Ginkgo

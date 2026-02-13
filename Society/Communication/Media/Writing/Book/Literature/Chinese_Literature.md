@@ -8,7 +8,7 @@ dv_has_:
     az: Çin ədəbiyyatı
     ba: Ҡытай әҙәбиәте
     be: Кітайская літаратура
-    be-tarask: кітайская літаратура
+    be_tarask: кітайская літаратура
     bjn: Sastra Tiongkok
     bn: চীনা সাহিত্য
     bs: Kineska književnost
@@ -64,12 +64,12 @@ dv_has_:
     war: Literatura Tsinino
     yue: 中文文學
     zh: 中國文學
-    zh-cn: 中国文学
-    zh-hans: 中国文学
-    zh-hant: 中國文學
-    zh-hk: 中國文學
-    zh-sg: 中国文学
-    zh-tw: 中國文學
+    zh_cn: 中国文学
+    zh_hans: 中国文学
+    zh_hant: 中國文學
+    zh_hk: 中國文學
+    zh_sg: 中国文学
+    zh_tw: 中國文學
 aliases:
 - Chineesesch Literatur
 - Chinese literature

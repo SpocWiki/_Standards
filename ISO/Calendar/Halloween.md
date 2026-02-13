@@ -156,7 +156,7 @@ dv_has_:
     bar: Halloween
     bcl: Halloween
     be: Хэлоўін
-    be-tarask: Гэлаўін
+    be_tarask: Гэлаўін
     bg: Хелоуин
     bn: হ্যালোইন
     br: Halloween
@@ -169,12 +169,12 @@ dv_has_:
     cy: Gŵyl Calan Gaeaf
     da: Allehelgensaften
     de: Halloween
-    de-ch: Halloween
+    de_ch: Halloween
     diq: Halloween
     el: Χάλοουϊν
     en: Halloween
-    en-ca: Halloween
-    en-gb: Halloween
+    en_ca: Halloween
+    en_gb: Halloween
     en-us: Halloween
     eo: Halloween
     es: Halloween
@@ -238,7 +238,7 @@ dv_has_:
     mzn: هالووین
     nah: Halloween
     nb: halloween
-    nds-nl: Halloween
+    nds_nl: Halloween
     ne: हलोविन
     nl: Halloween
     nn: Halloween
@@ -250,7 +250,7 @@ dv_has_:
     pl: Halloween
     pnb: ہالووین
     pt: Dia das Bruxas
-    pt-br: Dia das bruxas
+    pt_br: Dia das bruxas
     pwn: Halloween
     qu: Halloween
     rmy: Halloween
@@ -292,8 +292,8 @@ dv_has_:
     yue: 萬聖夜
     zgh: ⴰⵀⴰⵍⵓⵡⵉⵏ
     zh: 万圣夜
-    zh-hans: 万圣节
-    zh-hant: 萬聖夜
+    zh_hans: 万圣节
+    zh_hant: 萬聖夜
 ---
 # [[Halloween]] 
 

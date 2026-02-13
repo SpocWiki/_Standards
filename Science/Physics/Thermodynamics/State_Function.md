@@ -58,7 +58,7 @@ dv_has_:
     ar: دالة حالة
     ast: Función d'estáu
     az: Termodinamik hal funksiyası
-    be-tarask: функцыя стану
+    be_tarask: функцыя стану
     ca: funció d'estat
     cs: stavová veličina
     de: Zustandsgröße
@@ -79,7 +79,7 @@ dv_has_:
     la: functio stati
     mk: состојбена функција
     ms: fungsi keadaan
-    ms-arab: فوڠسي کأداءن
+    ms_arab: فوڠسي کأداءن
     nan: Chōng-thài hâm-sò͘
     nb: tilstandsfunksjon
     nl: toestandsfunctie

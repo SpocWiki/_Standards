@@ -25,7 +25,7 @@ dv_has_:
     nl: Richard Hickey
     pl: Rich Hickey
     pt: Richard Hickey
-    pt-br: Richard Hickey
+    pt_br: Richard Hickey
     ru: Ричард Хикки
     sl: Richard Hickey
     uk: Річард Хіккі

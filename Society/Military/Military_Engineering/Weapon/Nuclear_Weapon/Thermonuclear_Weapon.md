@@ -90,7 +90,7 @@ dv_has_:
     ast: arma termonuclear
     az: hidrogen bombası
     be: тэрмаядзерная зброя
-    be-tarask: тэрмаядзерная зброя
+    be_tarask: тэрмаядзерная зброя
     bg: водородна бомба
     blk: ဟုဲက်ဒရိုစိဉ်ဗွုံး
     bn: তাপ-পারমাণবিক অস্ত্র
@@ -103,7 +103,7 @@ dv_has_:
     de: Wasserstoffbombe
     el: βόμβα υδρογόνου
     en: thermonuclear weapon
-    en-ca: thermonuclear weapon
+    en_ca: thermonuclear weapon
     eo: termonuklea armilo
     es: arma termonuclear
     et: vesinikupomm
@@ -139,15 +139,15 @@ dv_has_:
     pnb: ہائیڈروجن بمب
     ps: هايدروجن بم
     pt: bomba de hidrogénio
-    pt-br: bomba de hidrogénio
+    pt_br: bomba de hidrogénio
     ro: armă termonucleară
     ru: термоядерное оружие
     sh: hidrogenska bomba
     sk: termonukleárna zbraň
     sl: vodikova bomba
     sr: хидрогенска бомба
-    sr-ec: хидрогенска бомба
-    sr-el: hidrogenska bomba
+    sr_ec: хидрогенска бомба
+    sr_el: hidrogenska bomba
     ta: ஐதரசன் குண்டு
     te: హైడ్రోజన్ బాంబు
     th: อาวุธเทอร์โมนิวเคลียร์
@@ -160,9 +160,9 @@ dv_has_:
     wuu: 氢弹
     yue: 氫彈
     zh: 氢弹
-    zh-cn: 氢弹
-    zh-hans: 氢弹
-    zh-hant: 氫彈
+    zh_cn: 氢弹
+    zh_hans: 氢弹
+    zh_hant: 氫彈
 ---
 # [[Thermonuclear_Weapon]] 
 

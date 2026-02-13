@@ -147,7 +147,7 @@ dv_has_:
     az: Laym xəstəliyi
     azb: لایم مریضلیگی
     be: барэліёз
-    be-tarask: барэліёз
+    be_tarask: барэліёз
     bg: Лаймска болест
     bn: লাইম রোগ
     bs: Lajmska bolest
@@ -156,11 +156,11 @@ dv_has_:
     cy: clefyd Lyme
     da: borreliose
     de: Lyme-Borreliose
-    de-ch: Lyme-Borreliose
+    de_ch: Lyme-Borreliose
     el: Βορρελίωση
     en: Lyme disease
-    en-ca: Lyme disease
-    en-gb: Lyme disease
+    en_ca: Lyme disease
+    en_gb: Lyme disease
     eo: boreliozo Lyme
     es: enfermedad de Lyme
     et: Lyme'i tõbi
@@ -196,7 +196,7 @@ dv_has_:
     pl: borelioza
     ps: لايم ناروغي
     pt: doença de Lyme
-    pt-br: doença de Lyme
+    pt_br: doença de Lyme
     ro: boala Lyme
     rsk: Лаймска хорота
     ru: болезнь Лайма
@@ -206,8 +206,8 @@ dv_has_:
     sk: Lymská borelióza
     sl: lymska borelioza
     sr: Лајмска болест
-    sr-ec: Лајмска болест
-    sr-el: Lajmska bolest
+    sr_ec: Лајмска болест
+    sr_el: Lajmska bolest
     sv: borrelia
     th: โรคไลม์
     tr: Lyme hastalığı
@@ -220,12 +220,12 @@ dv_has_:
     yi: ליים קרענק
     yue: 萊姆病
     zh: 莱姆病
-    zh-cn: 莱姆病
-    zh-hans: 莱姆病
-    zh-hant: 萊姆病
-    zh-hk: 萊姆病
-    zh-sg: 莱姆病
-    zh-tw: 萊姆病
+    zh_cn: 莱姆病
+    zh_hans: 莱姆病
+    zh_hant: 萊姆病
+    zh_hk: 萊姆病
+    zh_sg: 莱姆病
+    zh_tw: 萊姆病
 ---
 # [[Lyme_Disease]] 
 

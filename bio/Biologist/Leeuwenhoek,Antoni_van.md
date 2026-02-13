@@ -149,7 +149,7 @@ dv_has_:
     az: Anton van Levenhuk
     azb: آنتونی فان لیوونهوک
     be: Антані ван Левенгук
-    be-tarask: Антоні ван Леэўвэнгук
+    be_tarask: Антоні ван Леэўвэнгук
     bg: Антони ван Льовенхук
     bn: অ্যান্থনি ভন লিউয়েনহুক
     bs: Anton van Leeuwenhoek
@@ -213,7 +213,7 @@ dv_has_:
     pl: Antoni van Leeuwenhoek
     pnb: انٹونی وین لیونہوک
     pt: Anton van Leeuwenhoek
-    pt-br: Anton van Leeuwenhoek
+    pt_br: Anton van Leeuwenhoek
     ro: Antoni van Leeuwenhoek
     ru: Антони ван Левенгук
     rue: Антони ван Левенгук
@@ -244,8 +244,8 @@ dv_has_:
     yo: Antonie van Leeuwenhoek
     yue: 列文虎克
     zh: 安東尼·范·列文虎克
-    zh-hans: 安東尼‧范‧雷文霍克
-    zh-hant: 安東尼‧範‧雷文霍克
+    zh_hans: 安東尼‧范‧雷文霍克
+    zh_hant: 安東尼‧範‧雷文霍克
 ---
 # [[Leeuwenhoek,Antoni_van]] 
 

@@ -11,11 +11,11 @@ dv_has_:
     cs: Watchmen – Strážci
     da: Vogterne
     de: Watchmen
-    de-ch: Watchmen
+    de_ch: Watchmen
     el: Watchmen
     en: Watchmen
-    en-ca: Watchmen
-    en-gb: Watchmen
+    en_ca: Watchmen
+    en_gb: Watchmen
     en-us: Watchmen
     eo: Watchmen
     es: Watchmen
@@ -47,7 +47,7 @@ dv_has_:
     nn: Watchmen
     pl: Strażnicy
     pt: Watchmen
-    pt-br: Watchmen
+    pt_br: Watchmen
     ru: Хранители
     sh: Watchmen
     sr: Надзирачи
@@ -59,7 +59,7 @@ dv_has_:
     vi: Watchmen
     zh: 守護者
     zh-my: 守护者
-    zh-sg: 守护者
+    zh_sg: 守护者
 aliases:
 - Custodes
 - Gözcüler

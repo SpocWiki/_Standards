@@ -106,7 +106,7 @@ dv_has_:
     bar: Gerd Müller
     bcl: Gerd Müller
     be: Герд Мюлер
-    be-tarask: Герд Мюлер
+    be_tarask: Герд Мюлер
     bg: Герд Мюлер
     bi: Gerd Müller
     bjn: Gerd Müller
@@ -115,7 +115,7 @@ dv_has_:
     br: Gerd Müller
     bs: Gerd Müller
     ca: Gerhard Müller
-    cbk-zam: Gerd Müller
+    cbk_zam: Gerd Müller
     cdo: Gerd Müller
     ceb: Gerd Müller
     ch: Gerd Müller
@@ -124,14 +124,14 @@ dv_has_:
     ckb: گێرد مۆلەر
     co: Gerd Müller
     cr: Gerd Müller
-    crh-latn: Gerd Müller
+    crh_latn: Gerd Müller
     cs: Gerd Müller
     csb: Gerd Müller
     cy: Gerd Müller
     da: Gerd Müller
     de: Gerd Müller
     de-at: Gerd Müller
-    de-ch: Gerd Müller
+    de_ch: Gerd Müller
     diq: Gerd Müller
     dsb: Gerd Müller
     dtp: Gerd Müller
@@ -140,8 +140,8 @@ dv_has_:
     el: Γκερντ Μίλερ
     eml: Gerd Müller
     en: Gerd Müller
-    en-ca: Gerd Müller
-    en-gb: Gerd Müller
+    en_ca: Gerd Müller
+    en_gb: Gerd Müller
     eo: Gerd Müller
     es: Gerd Müller
     et: Gerd Müller
@@ -169,7 +169,7 @@ dv_has_:
     ha: Gerd Müller
     hak: Gerd Müller
     he: גרד מילר
-    hif-latn: Gerd Müller
+    hif_latn: Gerd Müller
     hil: Gerd Müller
     ho: Gerd Müller
     hr: Gerd Müller
@@ -183,7 +183,7 @@ dv_has_:
     ie: Gerd Müller
     ig: Gerd Müller
     ik: Gerd Müller
-    ike-latn: Gerd Müller
+    ike_latn: Gerd Müller
     ilo: Gerd Müller
     io: Gerd Müller
     is: Gerd Müller
@@ -198,11 +198,11 @@ dv_has_:
     kg: Gerd Müller
     ki: Gerd Müller
     kk: Герд Мюллер
-    kk-latn: Gerd Müller
+    kk_latn: Gerd Müller
     kk-tr: Gerd Müller
     ko: 게르트 뮐러
     ksh: Gerd Müller
-    ku-latn: Gerd Müller
+    ku_latn: Gerd Müller
     kw: Gerd Müller
     la: Gerd Müller
     lad: Gerd Müller
@@ -213,7 +213,7 @@ dv_has_:
     lmo: Gerd Müller
     lt: Gerd Müller
     lv: Gerds Millers
-    map-bms: Gerd Müller
+    map_bms: Gerd Müller
     mg: Gerd Müller
     min: Gerd Müller
     mk: Герд Милер
@@ -229,7 +229,7 @@ dv_has_:
     nap: Gerd Müller
     nb: Gerd Müller
     nds: Gerd Müller
-    nds-nl: Gerd Müller
+    nds_nl: Gerd Müller
     ne: गर्ड मुलर
     nl: Gerd Müller
     nn: Gerd Müller
@@ -246,7 +246,7 @@ dv_has_:
     pl: Gerd Müller
     pms: Gerd Müller
     pt: Gerd Müller
-    pt-br: Gerd Müller
+    pt_br: Gerd Müller
     qu: Gerd Müller
     rm: Gerd Müller
     rmy: Gerd Müller
@@ -268,7 +268,7 @@ dv_has_:
     sn: Gerd Müller
     sq: Gerd Müller
     sr: Герд Милер
-    sr-el: Gerd Müller
+    sr_el: Gerd Müller
     stq: Gerd Müller
     su: Gerd Müller
     sv: Gerd Müller

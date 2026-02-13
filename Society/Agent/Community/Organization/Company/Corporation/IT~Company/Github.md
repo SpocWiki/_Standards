@@ -11,7 +11,7 @@ dv_has_:
     hi: गिटहब
     ko: 깃허브
     ml: ഗിറ്റ്ഹബ്ബ്
-    ms-arab: ݢيت هب
+    ms_arab: ݢيت هب
     mul: GitHub
     my: ဂစ်တ်ဟပ်ဘ်
     ne: गिटहब

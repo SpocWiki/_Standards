@@ -19,8 +19,8 @@ dv_has_:
     ca: Question!
     de: Question!
     en: Question!
-    en-ca: Question!
-    en-gb: Question!
+    en_ca: Question!
+    en_gb: Question!
     es: Question!
     eu: Question!
     fa: سوال!
@@ -35,7 +35,7 @@ dv_has_:
     nl: Question!
     oc: Question!
     pt: Question!
-    pt-br: Question!
+    pt_br: Question!
     ru: Question!
     sq: Question!
     sv: Question!

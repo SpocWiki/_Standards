@@ -121,7 +121,7 @@ dv_has_:
     az: Britannika Ensiklopediyası
     ba: Британ энциклопедияһы
     be: Энцыклапедыя Брытаніка
-    be-tarask: Энцыкляпэдыя Брытаніка
+    be_tarask: Энцыкляпэдыя Брытаніка
     bg: Енциклопедия Британика
     bho: एन्साइक्लोपीडिया ब्रिटैनिका
     bn: এনসাইক্লোপিডিয়া ব্রিটানিকা
@@ -135,11 +135,11 @@ dv_has_:
     cy: Encyclopædia Britannica
     da: Encyclopædia Britannica
     de: Encyclopædia Britannica
-    de-ch: Encyclopædia Britannica
+    de_ch: Encyclopædia Britannica
     el: Εγκυκλοπαίδεια Μπριτάνικα
     en: Encyclopædia Britannica
-    en-ca: Encyclopædia Britannica
-    en-gb: Encyclopædia Britannica
+    en_ca: Encyclopædia Britannica
+    en_gb: Encyclopædia Britannica
     eo: Encyclopaedia Britannica
     es: Encyclopædia Britannica
     et: Encyclopædia Britannica
@@ -195,7 +195,7 @@ dv_has_:
     pl: Encyklopedia Britannica
     ps: برېتانيکا دائرة المعارف
     pt: Encyclopædia Britannica
-    pt-br: Encyclopædia Britannica
+    pt_br: Encyclopædia Britannica
     ro: Encyclopædia Britannica
     ru: Британская энциклопедия
     sah: Британника энциклопедия
@@ -210,7 +210,7 @@ dv_has_:
     so: Encyclopædia Britannica
     sq: Encyclopædia Britannica
     sr: Encyclopædia Britannica
-    sr-ec: Encyclopædia Britannica
+    sr_ec: Encyclopædia Britannica
     su: Énsiklopédi Britannica
     sv: Encyclopædia Britannica
     sw: Encyclopedia Britannica
@@ -223,7 +223,7 @@ dv_has_:
     tok: lipu sona Pitanika
     tr: Encyclopædia Britannica
     tt: «Британника» энциклопедиясе
-    tt-cyrl: «Британника» энциклопедиясе
+    tt_cyrl: «Британника» энциклопедиясе
     uk: Encyclopædia Britannica
     ur: دائرۃ المعارف بریطانیکا
     uz: Encyclopædia Britannica
@@ -235,14 +235,14 @@ dv_has_:
     xmf: ბრიტანიკა
     yue: 不列顛百科全書
     zh: 大英百科全書
-    zh-cn: 大英百科全书
-    zh-hans: 大英百科全书
-    zh-hant: 大英百科全書
-    zh-hk: 大英百科全書
-    zh-mo: 大英百科全書
+    zh_cn: 大英百科全书
+    zh_hans: 大英百科全书
+    zh_hant: 大英百科全書
+    zh_hk: 大英百科全書
+    zh_mo: 大英百科全書
     zh-my: 大英百科全书
-    zh-sg: 大英百科全书
-    zh-tw: 大英百科全書
+    zh_sg: 大英百科全书
+    zh_tw: 大英百科全書
 ---
 # [[Encyclopædia_Britannica]] 
 

@@ -103,7 +103,7 @@ dv_has_:
     az: qrup nəzəriyyəsi
     ba: төркөмдәр теорияһы
     be: тэорыя груп
-    be-tarask: тэорыя групаў
+    be_tarask: тэорыя групаў
     bg: теория на групите
     bn: গ্রুপ তত্ত্ব
     br: damkaniezh ar strolloù
@@ -155,7 +155,7 @@ dv_has_:
     pms: teorìa dij grup
     pnb: ٹولی سوچ
     pt: teoria dos grupos
-    pt-br: teoria dos grupos
+    pt_br: teoria dos grupos
     ro: teoria grupurilor
     ru: теория групп
     rue: теорія ґруп
@@ -182,8 +182,8 @@ dv_has_:
     yi: גרופע טעאריע
     yue: 羣論
     zh: 群论
-    zh-hant: 群論
-    zh-tw: 群論
+    zh_hant: 群論
+    zh_tw: 群論
 ---
 # [[Group_Theory]] 
 

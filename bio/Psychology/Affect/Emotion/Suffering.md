@@ -94,7 +94,7 @@ dv_has_:
     bar: Load
     bcl: pagsakit
     be: пакута
-    be-tarask: пакута
+    be_tarask: пакута
     bg: страдание
     ca: patiment
     ckb: ئازارچەشتن
@@ -103,10 +103,10 @@ dv_has_:
     cy: dioddefaint
     da: lidelse
     de: Leid
-    de-ch: Leid
+    de_ch: Leid
     en: suffering
-    en-ca: suffering
-    en-gb: suffering
+    en_ca: suffering
+    en_gb: suffering
     eo: sufero
     es: sufrimiento
     et: kannatused
@@ -143,7 +143,7 @@ dv_has_:
     pl: cierpienie
     pnb: درد
     pt: sofrimento
-    pt-br: sofrimento
+    pt_br: sofrimento
     ro: suferință
     ru: страдание
     scn: patimentu
@@ -160,7 +160,7 @@ dv_has_:
     vi: khổ sở
     yue: 痛苦
     zh: 痛苦
-    zh-tw: 痛苦
+    zh_tw: 痛苦
 ---
 # [[Suffering]] 
 

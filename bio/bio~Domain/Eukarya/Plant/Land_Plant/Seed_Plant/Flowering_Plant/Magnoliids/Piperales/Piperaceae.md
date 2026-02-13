@@ -120,8 +120,8 @@ dv_has_:
     kcg: Shita
     ko: 후추과
     ku: Famîleya bîberên reş
-    ku-arab: فامیلەیا بیبەرێن رەش
-    ku-latn: Famîleya bîberên reş
+    ku_arab: فامیلەیا بیبەرێن رەش
+    ku_latn: Famîleya bîberên reş
     la: Piperaceae
     lt: Pipiriniai
     mad: Piperaceae
@@ -130,21 +130,21 @@ dv_has_:
     ms: Piperaceae
     mul: Piperaceae
     nb: Pepperfamilien
-    nds-nl: Piperaceae
+    nds_nl: Piperaceae
     nl: Piperaceae
     nn: Peparfamilien
     oc: Piperaceae
     pl: Pieprzowate
     pt: Piperaceae
-    pt-br: Piperaceae
+    pt_br: Piperaceae
     ro: Piperaceae
     ru: Перечные
     sco: Piperaceae
     sl: poprovke
     sq: Piperaceae
     sr: Piperaceae
-    sr-ec: Piperaceae
-    sr-el: Piperaceae
+    sr_ec: Piperaceae
+    sr_el: Piperaceae
     su: Cabé jawa
     sv: Pepparväxter
     te: పైపరేసి
@@ -157,8 +157,8 @@ dv_has_:
     war: Piperaceae
     yue: 胡椒科
     zh: 胡椒科
-    zh-cn: 胡椒科
-    zh-tw: 胡椒科
+    zh_cn: 胡椒科
+    zh_tw: 胡椒科
 ---
 # [[Piperaceae]] 
 

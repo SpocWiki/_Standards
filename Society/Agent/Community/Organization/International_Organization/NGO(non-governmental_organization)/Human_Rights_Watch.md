@@ -110,7 +110,7 @@ dv_has_:
     az: Human Rights Watch
     bar: Human Rights Watch
     be: Human Rights Watch
-    be-tarask: Г'юман Райтс Ўотч
+    be_tarask: Г'юман Райтс Ўотч
     bg: Хюман Райтс Уоч
     bn: হিউম্যান রাইটস ওয়াচ
     bs: Human Rights Watch
@@ -122,8 +122,8 @@ dv_has_:
     de: Human Rights Watch
     el: Παρατηρητήριο Ανθρωπίνων Δικαιωμάτων
     en: Human Rights Watch
-    en-ca: Human Rights Watch
-    en-gb: Human Rights Watch
+    en_ca: Human Rights Watch
+    en_gb: Human Rights Watch
     en-us: Human Rights Watch
     eo: Human Rights Watch
     es: Human Rights Watch
@@ -165,7 +165,7 @@ dv_has_:
     pnb: ہیومین راٹس واچ
     ps: د بشري حقونو څار
     pt: Human Rights Watch
-    pt-br: Human Rights Watch
+    pt_br: Human Rights Watch
     ro: Human Rights Watch
     ru: Хьюман Райтс Вотч
     sah: Human Rights Watch
@@ -174,8 +174,8 @@ dv_has_:
     sl: Human Rights Watch
     sq: Human Rights Watch
     sr: Хјуман рајтс воч
-    sr-ec: Хјуман рајтс воч
-    sr-el: Hjuman rajts voč
+    sr_ec: Хјуман рајтс воч
+    sr_el: Hjuman rajts voč
     sv: Human Rights Watch
     sw: Waangalizi wa haki za binadamu
     ta: மனித உரிமைகள் கண்காணிப்பகம்
@@ -190,12 +190,12 @@ dv_has_:
     yo: Human Rights Watch
     yue: 人權觀察
     zh: 人权观察
-    zh-cn: 人权观察
-    zh-hans: 人权观察
-    zh-hant: 人權觀察
-    zh-hk: 人權觀察
-    zh-sg: 人权观察
-    zh-tw: 人權觀察
+    zh_cn: 人权观察
+    zh_hans: 人权观察
+    zh_hant: 人權觀察
+    zh_hk: 人權觀察
+    zh_sg: 人权观察
+    zh_tw: 人權觀察
 ---
 # [[Human_Rights_Watch]] 
 

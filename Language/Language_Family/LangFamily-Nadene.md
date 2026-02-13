@@ -85,7 +85,7 @@ dv_has_:
     az: Na-Dene dilləri
     azb: نا-دنه دیللری
     be: На-дэне
-    be-tarask: на-дэнэ
+    be_tarask: на-дэнэ
     bg: на-дене
     br: yezhoù na-dene
     ca: llengües na-dené
@@ -125,7 +125,7 @@ dv_has_:
     mrj: На-дене йӹлмӹвлӓ
     ms: Na-Dene
     nb: na-dené-språk
-    nds-nl: Na-Denétalen
+    nds_nl: Na-Denétalen
     nl: Na-Denétalen
     nn: na-dené-språk
     oc: Lengas na-dené
@@ -138,8 +138,8 @@ dv_has_:
     ru: языки на-дене
     sl: nadenski jeziki
     sr: на-дене језици
-    sr-ec: на-дене језици
-    sr-el: na-dene jezici
+    sr_ec: на-дене језици
+    sr_el: na-dene jezici
     sv: na-dené
     tr: Na-Dene dilleri
     uk: мови на-дене
@@ -148,10 +148,10 @@ dv_has_:
     vi: Hệ ngôn ngữ Na-Dené
     zea: Na-Denétaelen
     zh: 納－德內語系
-    zh-hans: 纳－德内语系
-    zh-hant: 納－德內語系
-    zh-hk: 納－德內語系
-    zh-tw: 納－德內語系
+    zh_hans: 纳－德内语系
+    zh_hant: 納－德內語系
+    zh_hk: 納－德內語系
+    zh_tw: 納－德內語系
 ---
 # [[LangFamily-Nadene]] 
 

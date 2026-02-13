@@ -114,7 +114,7 @@ dv_has_:
     az: Jorj Melyes
     azb: ژورژ مئلیئس
     be: Жорж Мельес
-    be-tarask: Жорж Мэльес
+    be_tarask: Жорж Мэльес
     bg: Жорж Мелиес
     bn: জর্জ মেলিয়েস
     bs: Georges Méliès
@@ -123,11 +123,11 @@ dv_has_:
     cy: Georges Méliès
     da: Georges Méliès
     de: Georges Méliès
-    de-ch: Georges Méliès
+    de_ch: Georges Méliès
     el: Ζωρζ Μελιές
     en: Georges Méliès
-    en-ca: Georges Méliès
-    en-gb: Georges Méliès
+    en_ca: Georges Méliès
+    en_gb: Georges Méliès
     eo: Georges Méliès
     es: Georges Méliès
     et: Georges Méliès
@@ -171,7 +171,7 @@ dv_has_:
     pap: Georges Méliès
     pl: Georges Méliès
     pt: Georges Méliès
-    pt-br: Georges Méliès
+    pt_br: Georges Méliès
     ro: Georges Méliès
     ru: Жорж Мельес
     sh: Georges Méliès
@@ -179,8 +179,8 @@ dv_has_:
     sl: Georges Méliès
     sq: Georges Melies
     sr: Жорж Мелијес
-    sr-ec: Жорж Мелијес
-    sr-el: Žorž Melijes
+    sr_ec: Жорж Мелијес
+    sr_el: Žorž Melijes
     sv: Georges Méliès
     te: జార్జ్ మేల్యెస్
     th: ฌอร์ฌ เมเลียส
@@ -193,12 +193,12 @@ dv_has_:
     wuu: 乔治·梅里爱
     yue: 佐治·梅里耶斯
     zh: 乔治·梅里爱
-    zh-cn: 乔治·梅里爱
-    zh-hans: 乔治·梅里爱
-    zh-hant: 喬治·梅里葉
-    zh-hk: 佐治·梅里耶斯
-    zh-sg: 乔治·梅里爱
-    zh-tw: 喬治·梅里葉
+    zh_cn: 乔治·梅里爱
+    zh_hans: 乔治·梅里爱
+    zh_hant: 喬治·梅里葉
+    zh_hk: 佐治·梅里耶斯
+    zh_sg: 乔治·梅里爱
+    zh_tw: 喬治·梅里葉
 ---
 # [[Méliès,Georges]] 
 

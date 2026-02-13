@@ -119,7 +119,7 @@ has_id_wikidata: Q33549
 dv_has_:
   name_:
     ace: Jawa
-    aeb-arab: الجاوي
+    aeb_arab: الجاوي
     af: Javaans
     anp: जावानीस भाषा
     ar: الجاوية
@@ -131,7 +131,7 @@ dv_has_:
     ban: Jawa
     bcl: Habanes
     be: яванская мова
-    be-tarask: яванская мова
+    be_tarask: яванская мова
     bew: Basa Jawa
     bg: Явански език
     bjn: Jawa
@@ -146,13 +146,13 @@ dv_has_:
     cy: Jafaneg
     da: javanesisk
     de: Javanisch
-    de-ch: Javanisch
+    de_ch: Javanisch
     diq: Cawki
     dtp: Boros Jawa
     el: Ιαβαϊκή γλώσσα
     en: Javanese
-    en-ca: Javanese
-    en-gb: Javanese
+    en_ca: Javanese
+    en_gb: Javanese
     eo: java lingvo
     es: javanés
     et: Jaava keel
@@ -193,7 +193,7 @@ dv_has_:
     lv: javiešu valoda
     lzh: 爪哇語
     mad: Bhâsa Jhâbâ
-    map-bms: Jawa
+    map_bms: Jawa
     mg: Fiteny javaney
     min: Bahaso Jawa
     mk: јавански јазик
@@ -251,10 +251,10 @@ dv_has_:
     yo: Èdè Java
     yue: 爪哇文
     zh: 爪哇語
-    zh-cn: 爪哇语
-    zh-hans: 爪哇语
-    zh-hant: 爪哇語
-    zh-tw: 爪哇語
+    zh_cn: 爪哇语
+    zh_hans: 爪哇语
+    zh_hant: 爪哇語
+    zh_tw: 爪哇語
     zu: isi-Javanese
 ---
 # [[Lang-jav]] 

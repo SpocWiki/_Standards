@@ -219,7 +219,7 @@ dv_has_:
     bar: Kyrillischs Oiphabet
     bbc: Surat Kiril
     be: кірыліца
-    be-tarask: кірыліца
+    be_tarask: кірыліца
     bg: Кирилица
     bjn: Abjad Sirilik
     bn: সিরিলীয় লিপি
@@ -241,13 +241,13 @@ dv_has_:
     cy: Yr wyddor Gyrilig
     da: kyrilliske alfabet
     de: kyrillisches Alphabet
-    de-ch: Kyrillisches Alphabet
+    de_ch: Kyrillisches Alphabet
     diq: Alfabey Kiril
     dsb: Kyriliski alfabet
     el: κυριλλικό αλφάβητο
     en: Cyrillic script
-    en-ca: Cyrillic script
-    en-gb: Cyrillic
+    en_ca: Cyrillic script
+    en_gb: Cyrillic
     eo: cirila alfabeto
     es: alfabeto cirílico
     et: kirillitsa
@@ -294,7 +294,7 @@ dv_has_:
     krc: Кириллица
     krj: alfabeto Sinirilikanhën
     ku: alfabeya kîrîlî
-    ku-latn: alfabeya kîrîlî
+    ku_latn: alfabeya kîrîlî
     kw: Skrypt kyrillek
     ky: Кириллица
     la: abecedarium Cyrillicum
@@ -337,7 +337,7 @@ dv_has_:
     pnt: Κυριλλικόν γράψιμον
     ps: سيريليک ليکدود
     pt: Alfabeto cirílico
-    pt-br: alfabeto cirílico
+    pt_br: alfabeto cirílico
     qu: Kirilitsa
     ro: alfabetul chirilic
     roa-tara: Alfabbète cirilleche
@@ -359,21 +359,21 @@ dv_has_:
     so: Alifbeetada Kiriiliga
     sq: Alfabeti cirilik
     sr: ћирилично писмо
-    sr-ec: ћирилично писмо
+    sr_ec: ћирилично писмо
     su: Alfabét Kirilik
     sv: kyrilliska alfabetet
     sw: kikyrili
     szl: Cyrylica
     ta: சிரில்லிக் எழுத்துக்கள்
     tg: алифбои сирилик
-    tg-cyrl: кириллитса
+    tg_cyrl: кириллитса
     th: อักษรซีริลลิก
     tk: Kiril
     tl: alpabetong Siriliko
     tok: sitelen Kililisa
     tr: Kiril alfabesi
     tt: кирилл язуы
-    tt-cyrl: кирилл язуы
+    tt_cyrl: кирилл язуы
     tyv: Кириллица
     udm: кириллица
     uk: кирилиця
@@ -392,14 +392,14 @@ dv_has_:
     yue: 基里爾字母
     zgh: ⴰⴳⵯⵎⵎⴰⵢ ⴰⴽⵉⵔⵉⵍ
     zh: 西里爾字母
-    zh-cn: 西里尔字母
-    zh-hans: 西里尔字母
-    zh-hant: 西里爾字母
-    zh-hk: 西里爾字母
-    zh-mo: 西里尔字母
+    zh_cn: 西里尔字母
+    zh_hans: 西里尔字母
+    zh_hant: 西里爾字母
+    zh_hk: 西里爾字母
+    zh_mo: 西里尔字母
     zh-my: 西里尔字母
-    zh-sg: 西里尔字母
-    zh-tw: 西里爾字母
+    zh_sg: 西里尔字母
+    zh_tw: 西里爾字母
 ---
 # [[Cyrillic_Script]] 
 

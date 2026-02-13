@@ -66,7 +66,7 @@ dv_has_:
     ab: Ҭаџьыкисҭан
     ace: Tajikistan
     ady: Таджикистан
-    aeb-arab: طاجيكستان
+    aeb_arab: طاجيكستان
     af: Tadjikistan
     am: ታጂኪስታን
     ami: Tajikistan
@@ -89,7 +89,7 @@ dv_has_:
     bar: Tadschikistan
     bcl: Tayikistan
     be: Таджыкістан
-    be-tarask: Таджыкістан
+    be_tarask: Таджыкістан
     bew: Tajikistan
     bg: Таджикистан
     bgn: تاجیکستان
@@ -104,7 +104,7 @@ dv_has_:
     bug: Tajikistan
     bxr: Тажикистан
     ca: Tadjikistan
-    cbk-zam: Tayikistan
+    cbk_zam: Tayikistan
     cdo: Tajikistan
     ce: Таджикистан
     ceb: Tajikistan
@@ -112,7 +112,7 @@ dv_has_:
     ckb: تاجیکستان
     co: Tagicchistanu
     crh: Tacikistan
-    crh-latn: Tacikistan
+    crh_latn: Tacikistan
     crh-ro: Tajikístan
     cs: Tádžikistán
     csb: Tadżikistan
@@ -123,7 +123,7 @@ dv_has_:
     dag: Tajikistan
     de: Tadschikistan
     de-at: Tadschikistan
-    de-ch: Tadschikistan
+    de_ch: Tadschikistan
     diq: Tacikıstan
     dsb: Tadžikistan
     dtp: Tajikistan
@@ -133,8 +133,8 @@ dv_has_:
     ee: Tajikistan
     el: Τατζικιστάν
     en: Tajikistan
-    en-ca: Tajikistan
-    en-gb: Tajikistan
+    en_ca: Tajikistan
+    en_gb: Tajikistan
     eo: Taĝikio
     es: Tayikistán
     et: Tadžikistan
@@ -157,7 +157,7 @@ dv_has_:
     gn: Tajikitã
     gom: ताजिकिस्तान
     gom-deva: ताजिकिस्तान
-    gom-latn: Tajikistan
+    gom_latn: Tajikistan
     gpe: Tajikistan
     gsw: Tadschikistan
     gu: તાજિકિસ્તાન
@@ -265,7 +265,7 @@ dv_has_:
     pnb: تاجکستان
     ps: تاجيکستان
     pt: Tajiquistão
-    pt-br: Tajiquistão
+    pt_br: Tajiquistão
     qu: Tayiksuyu
     rmy: Tajikistan
     ro: Tadjikistan
@@ -294,8 +294,8 @@ dv_has_:
     so: Tadsjikistan
     sq: Taxhikistani
     sr: Таџикистан
-    sr-ec: Таџикистан
-    sr-el: Tadžikistan
+    sr_ec: Таџикистан
+    sr_el: Tadžikistan
     ss: IThajiki
     su: Tajikistan
     sv: Tadzjikistan
@@ -308,8 +308,8 @@ dv_has_:
     te: తజికిస్తాన్
     tet: Tajikistaun
     tg: Тоҷикистон
-    tg-cyrl: Тоҷикистон
-    tg-latn: Toçikiston
+    tg_cyrl: Тоҷикистон
+    tg_latn: Toçikiston
     th: ประเทศทาจิกิสถาน
     tk: Täjigistan
     tl: Tayikistan
@@ -319,7 +319,7 @@ dv_has_:
     tr: Tacikistan
     trv: Tajikistan
     tt: Таҗикстан
-    tt-cyrl: Таҗикстан
+    tt_cyrl: Таҗикстан
     tum: Tajikistan
     udm: Таджикистан
     ug: تاجىكىستان
@@ -344,14 +344,14 @@ dv_has_:
     zea: Tadzjikistan
     zgh: ⵟⴰⵊⵉⴽⵉⵙⵜⴰⵏ
     zh: 塔吉克斯坦
-    zh-cn: 塔吉克斯坦
-    zh-hans: 塔吉克斯坦
-    zh-hant: 塔吉克斯坦
-    zh-hk: 塔吉克
-    zh-mo: 塔吉克斯坦
+    zh_cn: 塔吉克斯坦
+    zh_hans: 塔吉克斯坦
+    zh_hant: 塔吉克斯坦
+    zh_hk: 塔吉克
+    zh_mo: 塔吉克斯坦
     zh-my: 塔吉克斯坦
-    zh-sg: 塔吉克斯坦
-    zh-tw: 塔吉克
+    zh_sg: 塔吉克斯坦
+    zh_tw: 塔吉克
     zu: i-Tajikistan
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Tajikistan

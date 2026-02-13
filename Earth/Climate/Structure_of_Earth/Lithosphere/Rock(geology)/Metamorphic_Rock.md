@@ -129,7 +129,7 @@ dv_has_:
     az: Metamorfik süxurlar
     ba: Метаморфик тау тоҡомдары
     be: метамарфічныя горныя пароды
-    be-tarask: мэтамарфічная горная парода
+    be_tarask: мэтамарфічная горная парода
     bg: метаморфни скали
     bho: मेटामार्फिक चट्टान
     bn: রূপান্তরিত শিলা
@@ -139,11 +139,11 @@ dv_has_:
     cy: craig fetamorffig
     da: Metamorfe bjergarter
     de: metamorphes Gestein
-    de-ch: Metamorphes Gestein
+    de_ch: Metamorphes Gestein
     el: Μεταμορφωσιγενές πέτρωμα
     en: metamorphic rock
-    en-ca: Metamorphic rock
-    en-gb: metamorphic rock
+    en_ca: Metamorphic rock
+    en_gb: metamorphic rock
     eo: metamorfa petro
     es: roca metamórfica
     et: moondekivim
@@ -190,14 +190,14 @@ dv_has_:
     pl: skały metamorficzne
     pnb: تبدیل شدہ چٹان
     pt: rocha metamórfica
-    pt-br: rocha metamórfica
+    pt_br: rocha metamórfica
     ro: Rocă metamorfică
     ru: метаморфическая горная порода
     sh: Metamorfne stene
     sk: premenená hornina
     sl: metamorfna kamnina
     sr: метаморфна стена
-    sr-ec: метаморфне стене
+    sr_ec: метаморфне стене
     su: Batu métamorfosis
     sv: Metamorf bergart
     sw: Mwamba metamofia

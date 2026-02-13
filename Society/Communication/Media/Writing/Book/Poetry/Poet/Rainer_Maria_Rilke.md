@@ -160,7 +160,7 @@ dv_has_:
     ba: Райнер Мария Рильке
     bar: Rainer Maria Rilke
     be: Райнер Марыя Рыльке
-    be-tarask: Райнэр Марыя Рыльке
+    be_tarask: Райнэр Марыя Рыльке
     bg: Райнер Мария Рилке
     bn: রাইনার মারিয়া রিলকে
     bpy: রিলকে
@@ -171,11 +171,11 @@ dv_has_:
     cy: Rainer Maria Rilke
     da: Rainer Maria Rilke
     de: Rainer Maria Rilke
-    de-ch: Rainer Maria Rilke
+    de_ch: Rainer Maria Rilke
     el: Ράινερ Μαρία Ρίλκε
     en: Rainer Maria Rilke
-    en-ca: Rainer Maria Rilke
-    en-gb: Rainer Maria Rilke
+    en_ca: Rainer Maria Rilke
+    en_gb: Rainer Maria Rilke
     eo: Rainer Maria Rilke
     es: Rainer Maria Rilke
     et: Rainer Maria Rilke
@@ -227,7 +227,7 @@ dv_has_:
     pl: Rainer Maria Rilke
     pnb: رینر ماریا رلکے
     pt: Rainer Maria Rilke
-    pt-br: Rainer Maria Rilke
+    pt_br: Rainer Maria Rilke
     ro: Rainer Maria Rilke
     ru: Райнер Мария Рильке
     sco: Rainer Maria Rilke
@@ -236,7 +236,7 @@ dv_has_:
     sl: Rainer Maria Rilke
     sq: Rainer Maria Rilke
     sr: Рајнер Марија Рилке
-    sr-ec: Рајнер Марија Рилке
+    sr_ec: Рајнер Марија Рилке
     sv: Rainer Maria Rilke
     sw: Rainer Maria Rilke
     ta: ரெய்னர் மரியா ரில்கே

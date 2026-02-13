@@ -45,7 +45,7 @@ dv_has_:
     az: Bedrix Smetana
     ba: Бедржих Сметана
     be: Бедржых Сметана
-    be-tarask: Бэдржых Смэтана
+    be_tarask: Бэдржых Смэтана
     bg: Бедржих Сметана
     bn: বেদ্রিখ স্মেতানা
     br: Bedřich Smetana
@@ -101,7 +101,7 @@ dv_has_:
     pa: ਬੈਡਰਿਚ ਸਮੇਟਾਨਾ
     pl: Bedřich Smetana
     pt: Bedřich Smetana
-    pt-br: Bedřich Smetana
+    pt_br: Bedřich Smetana
     qu: Bedřich Smetana
     ro: Bedřich Smetana
     ru: Бедржих Сметана
@@ -112,7 +112,7 @@ dv_has_:
     sl: Bedřich Smetana
     sq: Bedrich Smetana
     sr: Беджих Сметана
-    sr-ec: Беджих Сметана
+    sr_ec: Беджих Сметана
     sv: Bedřich Smetana
     sw: Bedřich Smetana
     ta: பெட்ரிக் சிமேத்தானா

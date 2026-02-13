@@ -87,7 +87,7 @@ dv_has_:
     ast: fuercies especiales
     az: Xüsusi Təyinatlı Dəstə - XTD
     be: спецпрызн
-    be-tarask: падразьдзяленьне спэцыяльнага прызначэньня
+    be_tarask: падразьдзяленьне спэцыяльнага прызначэньня
     bg: Специални части
     bn: বিশেষ বাহিনী
     br: Nerzhioù ispisial
@@ -99,7 +99,7 @@ dv_has_:
     de: Spezialeinheit
     el: Ειδικές δυνάμεις
     en: special forces
-    en-gb: special forces
+    en_gb: special forces
     eo: specialcelaj fortoj
     es: fuerza especial
     et: Spetsnaz
@@ -135,8 +135,8 @@ dv_has_:
     sl: specialne sile
     sq: Forcat speciale
     sr: специјална јединица
-    sr-ec: специјална јединица
-    sr-el: specijalna jedinica
+    sr_ec: специјална јединица
+    sr_el: specijalna jedinica
     sv: specialförband
     ta: சிறப்புப்படைகள்
     th: หน่วยรบพิเศษ
@@ -147,8 +147,8 @@ dv_has_:
     vi: Binh chủng Đặc công
     yue: 特種部隊
     zh: 特种部队
-    zh-hant: 特種部隊
-    zh-tw: 特種部隊
+    zh_hant: 特種部隊
+    zh_tw: 特種部隊
 ---
 # [[Special_Forces]] 
 

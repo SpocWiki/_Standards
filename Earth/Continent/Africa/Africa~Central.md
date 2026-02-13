@@ -214,7 +214,7 @@ dv_has_:
     ba: Үҙәк Африка
     bar: Zentroiafrika
     be: Цэнтральная Афрыка
-    be-tarask: Цэнтральная Афрыка
+    be_tarask: Цэнтральная Афрыка
     bg: Централна Африка
     bn: মধ্য আফ্রিকা
     br: Afrika ar C'hreiz
@@ -229,8 +229,8 @@ dv_has_:
     diq: Afrika Miyanên
     el: Κεντρική Αφρική
     en: Central Africa
-    en-ca: Central Africa
-    en-gb: Central Africa
+    en_ca: Central Africa
+    en_gb: Central Africa
     eo: Centra Afriko
     es: África Central
     et: Kesk-Aafrika
@@ -282,7 +282,7 @@ dv_has_:
     mn: Төв Африк
     mr: मध्य आफ्रिका
     ms: Afrika Tengah
-    ms-arab: افريکا تڠه
+    ms_arab: افريکا تڠه
     nan: Tiong Hui-chiu
     nb: Sentral-Afrika
     ne: मध्य अफ्रिका
@@ -297,7 +297,7 @@ dv_has_:
     pnb: وسطی افریقہ
     ps: مرکزي افريقا
     pt: África Central
-    pt-br: África Central
+    pt_br: África Central
     qu: Chawpi Aphrika
     ro: Africa Centrală
     ru: Центральная Африка
@@ -345,9 +345,9 @@ dv_has_:
     yue: 非洲中部
     zgh: ⵜⴰⴼⵔⵉⵇⵜ ⵜⴰⵏⴰⵎⵎⴰⵙⵜ
     zh: 中部非洲
-    zh-hans: 中部非洲
-    zh-hant: 中部非洲
-    zh-hk: 非洲中部
+    zh_hans: 中部非洲
+    zh_hant: 中部非洲
+    zh_hk: 非洲中部
 ---
 # [[Africa~Central]] 
 

@@ -217,7 +217,7 @@ dv_has_:
     bar: Jesuitnordn
     bcl: Heswita
     be: езуіты
-    be-tarask: езуіты
+    be_tarask: езуіты
     bg: Йезуитски орден
     bn: জেসুইট
     bpy: জেসুইটাস
@@ -288,7 +288,7 @@ dv_has_:
     pl: jezuici
     pms: Companìa ëd Gesù
     pt: Companhia de Jesus
-    pt-br: Companhia de Jesus
+    pt_br: Companhia de Jesus
     ro: Societatea lui Isus
     ru: иезуиты
     rue: Товаришство Исусово
@@ -320,7 +320,7 @@ dv_has_:
     yi: געזעלשאַפֿט פֿון ישו
     yue: 耶穌會
     zh: 耶稣会
-    zh-hant: 耶穌會
+    zh_hant: 耶穌會
 ---
 # [[Jesuit]] 
 

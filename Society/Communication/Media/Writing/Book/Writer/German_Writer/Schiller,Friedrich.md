@@ -204,7 +204,7 @@ dv_has_:
     azb: فریدریش شیلر
     bar: Friedrich Schiller
     be: Фрыдрых Шылер
-    be-tarask: Фрыдрых Шылер
+    be_tarask: Фрыдрых Шылер
     bg: Фридрих Шилер
     bi: Friedrich Schiller
     bn: ফ্রেডরিখ শিলার
@@ -219,7 +219,7 @@ dv_has_:
     da: Friedrich Schiller
     de: Friedrich Schiller
     de-at: Friedrich Schiller
-    de-ch: Friedrich Schiller
+    de_ch: Friedrich Schiller
     diq: Friedrich Schiller
     dsb: Friedrich Schiller
     ee: Friedrich Schiller
@@ -227,8 +227,8 @@ dv_has_:
     el: Φρίντριχ Σίλερ
     eml: Friedrich Schiller
     en: Friedrich Schiller
-    en-ca: Friedrich Schiller
-    en-gb: Friedrich Schiller
+    en_ca: Friedrich Schiller
+    en_gb: Friedrich Schiller
     eo: Friedrich Schiller
     es: Friedrich Schiller
     et: Friedrich Schiller
@@ -286,7 +286,7 @@ dv_has_:
     lij: Friedrich Schiller
     lt: Frydrichas Šileris
     lv: Frīdrihs Šillers
-    map-bms: Friedrich Schiller
+    map_bms: Friedrich Schiller
     mg: Friedrich von Schiller
     min: Friedrich Schiller
     mk: Фридрих Шилер
@@ -302,7 +302,7 @@ dv_has_:
     nap: Friedrich Schiller
     nb: Friedrich Schiller
     nds: Friedrich von Schiller
-    nds-nl: Friedrich Schiller
+    nds_nl: Friedrich Schiller
     nl: Friedrich Schiller
     nn: Friedrich Schiller
     nov: Friedrich Schiller
@@ -322,7 +322,7 @@ dv_has_:
     pms: Friedrich Schiller
     pnt: Φρίντριχ Σίλερ
     pt: Friedrich Schiller
-    pt-br: Friedrich Schiller
+    pt_br: Friedrich Schiller
     qu: Friedrich Schiller
     rm: Friedrich Schiller
     rmy: Friedrich Schiller
@@ -344,7 +344,7 @@ dv_has_:
     sm: Friedrich Schiller
     sq: Friedrich Schiller
     sr: Фридрих Шилер
-    sr-el: Friedrich Schiller
+    sr_el: Friedrich Schiller
     stq: Friedrich Schiller
     su: Friedrich Schiller
     sv: Friedrich Schiller
@@ -377,9 +377,9 @@ dv_has_:
     yue: 腓特烈蕭勒
     zea: Friedrich Schiller
     zh: 弗里德里希·席勒
-    zh-cn: 弗里德里希·席勒
-    zh-hans: 弗里德里希·席勒
-    zh-hant: 弗里德里希·席勒
+    zh_cn: 弗里德里希·席勒
+    zh_hans: 弗里德里希·席勒
+    zh_hant: 弗里德里希·席勒
     zu: Friedrich Schiller
 ---
 # [[Schiller,Friedrich]] 

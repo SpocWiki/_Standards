@@ -157,7 +157,7 @@ dv_has_:
     ba: Джон Мильтон
     bar: John Milton
     be: Джон Мільтан
-    be-tarask: Джон Мілтан
+    be_tarask: Джон Мілтан
     bg: Джон Милтън
     bho: जॉन मिल्टन
     bn: জন মিলটন
@@ -172,12 +172,12 @@ dv_has_:
     da: John Milton
     de: John Milton
     de-at: John Milton
-    de-ch: John Milton
+    de_ch: John Milton
     diq: John Milton
     el: Τζον Μίλτον
     en: John Milton
-    en-ca: John Milton
-    en-gb: John Milton
+    en_ca: John Milton
+    en_gb: John Milton
     eo: John Milton
     es: John Milton
     et: John Milton
@@ -234,7 +234,7 @@ dv_has_:
     nap: John Milton
     nb: John Milton
     nds: John Milton
-    nds-nl: John Milton
+    nds_nl: John Milton
     ne: जोन मिल्टन
     nl: John Milton
     nn: John Milton
@@ -248,7 +248,7 @@ dv_has_:
     pnb: جان ملٹن
     ps: جان مېلټن
     pt: John Milton
-    pt-br: John Milton
+    pt_br: John Milton
     qu: John Milton
     rm: John Milton
     ro: John Milton
@@ -262,7 +262,7 @@ dv_has_:
     sl: John Milton
     sq: John Milton
     sr: Џон Милтон
-    sr-el: John Milton
+    sr_el: John Milton
     sv: John Milton
     sw: John Milton
     ta: ஜான் மில்டன்
@@ -285,7 +285,7 @@ dv_has_:
     yo: John Milton
     yue: 米頓
     zh: 约翰·弥尔顿
-    zh-hk: 莊·美頓
+    zh_hk: 莊·美頓
     zu: John Milton
 ---
 # [[Milton,John]] 

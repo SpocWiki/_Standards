@@ -99,7 +99,7 @@ dv_has_:
     az: Viktor Hess
     azb: ویکتور فرانتس هس
     be: Віктар Франц Гес
-    be-tarask: Віктар Франц Гэс
+    be_tarask: Віктар Франц Гэс
     bg: Виктор Франц Хес
     bn: ভিক্টর ফ্রান্সিস হেস
     bs: Victor Francis Hess
@@ -158,7 +158,7 @@ dv_has_:
     pms: Victor Hess
     pnb: وکٹر ہیس
     pt: Victor Franz Hess
-    pt-br: Victor Franz Hess
+    pt_br: Victor Franz Hess
     ro: Victor Franz Hess
     ru: Виктор Франц Гесс
     sco: Victor Francis Hess

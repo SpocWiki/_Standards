@@ -28,7 +28,7 @@ dv_has_:
     ast: William Goldman
     azb: ویلیام قلدمن
     bar: William Goldman
-    be-tarask: Ўільям Голдман
+    be_tarask: Ўільям Голдман
     bg: Уилям Голдман
     bm: William Goldman
     br: William Goldman
@@ -39,11 +39,11 @@ dv_has_:
     da: William Goldman
     de: William Goldman
     de-at: William Goldman
-    de-ch: William Goldman
+    de_ch: William Goldman
     el: Γουίλιαμ Γκόλντμαν
     en: William Goldman
-    en-ca: William Goldman
-    en-gb: William Goldman
+    en_ca: William Goldman
+    en_gb: William Goldman
     eo: William Goldman
     es: William Goldman
     et: William Goldman
@@ -86,7 +86,7 @@ dv_has_:
     nap: William Goldman
     nb: William Goldman
     nds: William Goldman
-    nds-nl: William Goldman
+    nds_nl: William Goldman
     nl: William Goldman
     nn: William Goldman
     nrm: William Goldman
@@ -98,7 +98,7 @@ dv_has_:
     pms: William Goldman
     prg: William Goldman
     pt: William Goldman
-    pt-br: William Goldman
+    pt_br: William Goldman
     rgn: William Goldman
     rm: William Goldman
     ro: William Goldman

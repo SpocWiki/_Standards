@@ -107,7 +107,7 @@ dv_has_:
     ast: baga
     bcl: baligang
     be: ягада
-    be-tarask: ягада
+    be_tarask: ягада
     bg: ягодов плод
     br: hugenn
     ca: baia
@@ -119,8 +119,8 @@ dv_has_:
     dsb: jagoda
     el: ράγα
     en: berry
-    en-ca: berry
-    en-gb: berry
+    en_ca: berry
+    en_gb: berry
     eo: bero
     es: baya
     et: mari
@@ -170,7 +170,7 @@ dv_has_:
     pam: berry
     pl: jagoda
     pt: baga
-    pt-br: baga
+    pt_br: baga
     ro: bacă
     ru: ягода
     sgs: ouga
@@ -189,7 +189,7 @@ dv_has_:
     tly: gyləmivə
     tr: bakka
     tt: җиләк
-    tt-cyrl: җиләк
+    tt_cyrl: җиләк
     udm: узы-боры
     uk: ягода
     ur: توت
@@ -201,7 +201,7 @@ dv_has_:
     xmf: კანკარი
     yue: 漿菓
     zh: 浆果
-    zh-hant: 漿果
+    zh_hant: 漿果
 ---
 # [[Berry]] 
 

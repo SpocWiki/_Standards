@@ -126,7 +126,7 @@ dv_has_:
     ba: рун яҙмаһы
     bar: Runen
     be: руны
-    be-tarask: руны
+    be_tarask: руны
     bg: Руни
     br: Runoù
     bs: rune
@@ -138,8 +138,8 @@ dv_has_:
     diq: Alfabey Runiki
     el: Ρούνοι
     en: runic script
-    en-ca: Runes
-    en-gb: runes
+    en_ca: Runes
+    en_gb: runes
     eo: runaj alfabetoj
     es: alfabeto rúnico
     et: ruunid
@@ -176,7 +176,7 @@ dv_has_:
     ms: Rune
     my: သစ်ထွင်းစာ
     nb: runer
-    nds-nl: runes
+    nds_nl: runes
     nl: runenschrift
     nn: runer
     oc: Alfabet runic
@@ -184,7 +184,7 @@ dv_has_:
     pl: runy
     pnb: رونی لپی
     pt: runas
-    pt-br: Runas
+    pt_br: Runas
     ro: rună
     ru: руны
     sah: Руналар
@@ -193,13 +193,13 @@ dv_has_:
     sl: runa
     sq: Alfabeti runik
     sr: руне
-    sr-ec: руне
+    sr_ec: руне
     stq: Runen
     sv: runor
     th: อักษรรูน
     tr: Runik yazı
     tt: руннар
-    tt-cyrl: руннар
+    tt_cyrl: руннар
     uk: руни
     ur: رونی حروف تہجی
     uz: Runik yozuv
@@ -208,8 +208,8 @@ dv_has_:
     wuu: 虏匿字母
     yue: 盧恩字母
     zh: 盧恩字母
-    zh-hant: 盧恩字母
-    zh-tw: 盧恩字母
+    zh_hant: 盧恩字母
+    zh_tw: 盧恩字母
 ---
 # [[Rune]] 
 

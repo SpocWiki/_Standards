@@ -57,11 +57,11 @@ dv_has_:
     it: Hutchinsoniellidae
     ja: カシラエビ綱
     kk: Цефалокаридалар
-    kk-arab: تسەفالوكارىيدالار
+    kk_arab: تسەفالوكارىيدالار
     kk-cn: تسەفالوكارىيدالار
-    kk-cyrl: Цефалокаридалар
+    kk_cyrl: Цефалокаридалар
     kk-kz: Цефалокаридалар
-    kk-latn: Cefalokarïdalar
+    kk_latn: Cefalokarïdalar
     kk-tr: Cefalokarïdalar
     ko: 두판강
     la: Cephalocarida
@@ -74,7 +74,7 @@ dv_has_:
     oc: Cephalocarida
     pl: Podkowiastogłowe
     pt: Cephalocarida
-    pt-br: Cephalocarida
+    pt_br: Cephalocarida
     ro: Cephalocarida
     ru: Цефалокариды
     sq: Cephalocarida
@@ -85,12 +85,12 @@ dv_has_:
     vo: Cephalocarida
     war: Cephalocarida
     zh: 頭蝦綱
-    zh-cn: 头虾纲
-    zh-hans: 头虾纲
-    zh-hant: 頭蝦綱
-    zh-hk: 頭蝦綱
-    zh-sg: 头虾纲
-    zh-tw: 頭蝦綱
+    zh_cn: 头虾纲
+    zh_hans: 头虾纲
+    zh_hant: 頭蝦綱
+    zh_hk: 頭蝦綱
+    zh_sg: 头虾纲
+    zh_tw: 頭蝦綱
 ---
 # [[Cephalocarida]] 
 ![](Cephalocarida/HutchinsoniellaBIODIDAC.gif) 

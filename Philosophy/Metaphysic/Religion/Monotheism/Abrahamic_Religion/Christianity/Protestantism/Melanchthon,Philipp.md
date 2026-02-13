@@ -169,7 +169,7 @@ dv_has_:
     az: Filipp Melanxton
     azb: فیلیپ ملانشتن
     be: Філіп Меланхтан
-    be-tarask: Філіп Мэлянхтон
+    be_tarask: Філіп Мэлянхтон
     bg: Филип Меланхтон
     br: Philipp Melanchthon
     bs: Philipp Melanchthon
@@ -218,7 +218,7 @@ dv_has_:
     pl: Filip Melanchton
     ps: پيليپ مېلانشتون
     pt: Filipe Melâncton
-    pt-br: Filipe Melâncton
+    pt_br: Filipe Melâncton
     rm: Philipp Melanchthon
     ro: Philipp Melanchthon
     ru: Филипп Меланхтон
@@ -236,8 +236,8 @@ dv_has_:
     wuu: 腓力·墨兰顿
     yue: 米郎克孫
     zh: 菲利普·梅兰希通
-    zh-cn: 米郎克孙
-    zh-hant: 米郎克孫
+    zh_cn: 米郎克孙
+    zh_hant: 米郎克孫
 ---
 # [[Melanchthon,Philipp]] 
 

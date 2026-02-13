@@ -79,7 +79,7 @@ dv_has_:
     az: Qneys
     ba: Гнейс
     be: Гнейс
-    be-tarask: Гнэйс
+    be_tarask: Гнэйс
     bg: Гнайс
     bs: Gnajs
     ca: gneis
@@ -87,11 +87,11 @@ dv_has_:
     csb: Gnejs
     da: gnejs
     de: Gneis
-    de-ch: Gneis
+    de_ch: Gneis
     el: γνεύσιος
     en: gneiss
-    en-ca: Gneiss
-    en-gb: gneiss
+    en_ca: Gneiss
+    en_gb: gneiss
     en-us: gneiss
     eo: gnejso
     es: gneis
@@ -115,11 +115,11 @@ dv_has_:
     ja: 片麻岩
     ka: გნაისი
     kk: гнейс
-    kk-arab: گنەيس
+    kk_arab: گنەيس
     kk-cn: گنەيس
-    kk-cyrl: Гнейс
+    kk_cyrl: Гнейс
     kk-kz: Гнейс
-    kk-latn: Gneýs
+    kk_latn: Gneýs
     kk-tr: Gneýs
     ko: 편마암
     kw: Labolven
@@ -137,7 +137,7 @@ dv_has_:
     os: гнейс
     pl: gnejs
     pt: gnaisse
-    pt-br: gnaisse
+    pt_br: gnaisse
     ro: Gnais
     ru: гнейс
     rue: гнайс
@@ -148,8 +148,8 @@ dv_has_:
     smn: gneissi
     sms: gneiss
     sr: гнајс
-    sr-ec: Гнајс
-    sr-el: Gnajs
+    sr_ec: Гнајс
+    sr_el: Gnajs
     sv: gnejs
     sw: Gneiss
     tcy: ನೈಸ್ ಶಿಲೆ
@@ -162,12 +162,12 @@ dv_has_:
     wuu: 片麻岩
     yue: 片麻岩
     zh: 片麻岩
-    zh-cn: 片麻岩
-    zh-hans: 片麻岩
-    zh-hant: 片麻岩
-    zh-hk: 片麻岩
-    zh-sg: 片麻岩
-    zh-tw: 片麻岩
+    zh_cn: 片麻岩
+    zh_hans: 片麻岩
+    zh_hant: 片麻岩
+    zh_hk: 片麻岩
+    zh_sg: 片麻岩
+    zh_tw: 片麻岩
 ---
 # [[Gneiss]]
 

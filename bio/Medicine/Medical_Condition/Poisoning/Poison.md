@@ -146,7 +146,7 @@ dv_has_:
     bar: Gift
     bcl: hilo
     be: яд
-    be-tarask: атрута
+    be_tarask: атрута
     bg: отрова
     blk: အစွူႏ
     bn: বিষ
@@ -231,8 +231,8 @@ dv_has_:
     sl: strup
     sq: helmi
     sr: отров
-    sr-ec: отров
-    sr-el: otrov
+    sr_ec: отров
+    sr_el: otrov
     srn: venom
     su: racun
     sv: gift
@@ -245,7 +245,7 @@ dv_has_:
     tok: ijo moli ike
     tr: zehir
     tt: агу
-    tt-cyrl: агу
+    tt_cyrl: агу
     uk: отрути
     ur: زہر
     uz: zaharlar
@@ -256,8 +256,8 @@ dv_has_:
     yi: גיפט
     yue: 毒
     zh: 毒物
-    zh-hant: 毒物
-    zh-tw: 毒物
+    zh_hant: 毒物
+    zh_tw: 毒物
 ---
 # [[Poison]] 
 

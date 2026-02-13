@@ -54,7 +54,7 @@ dv_has_:
     ar: أدب روماني
     ast: lliteratura de Rumanía
     ba: Румын әҙәбиәте
-    be-tarask: румынская літаратура
+    be_tarask: румынская літаратура
     ca: literatura romanesa
     cs: Rumunská literatura
     de: rumänische Literatur

@@ -154,7 +154,7 @@ dv_has_:
     arz: الملك لير
     ast: El rei Lear
     be: Кароль Лір
-    be-tarask: Кароль Лір
+    be_tarask: Кароль Лір
     bg: Крал Лир
     bn: কিং লিয়ার
     bo: ༄༅།། རྒྱལ་པོ་ལེར།
@@ -164,11 +164,11 @@ dv_has_:
     cy: King Lear
     da: Kong Lear
     de: König Lear
-    de-ch: König Lear
+    de_ch: König Lear
     el: Βασιλιάς Ληρ
     en: King Lear
-    en-ca: King Lear
-    en-gb: King Lear
+    en_ca: King Lear
+    en_gb: King Lear
     eo: La Tragedio de Reĝo Lear
     es: El rey Lear
     et: Kuningas Lear
@@ -207,7 +207,7 @@ dv_has_:
     pa: ਕਿੰਗ ਲੀਅਰ
     pl: Król Lear
     pt: Rei Lear
-    pt-br: Rei Lear
+    pt_br: Rei Lear
     ro: Regele Lear
     ru: Король Лир
     sco: Keeng Lear
@@ -217,8 +217,8 @@ dv_has_:
     sl: Kralj Lear
     sq: Mbreti Lir
     sr: Kralj Lir
-    sr-ec: Краљ Лир
-    sr-el: Kralj Lir
+    sr_ec: Краљ Лир
+    sr_el: Kralj Lir
     sv: Kung Lear
     szy: Li-el wang
     tr: Kral Lear
@@ -229,12 +229,12 @@ dv_has_:
     wuu: 李尔王
     yue: 李爾王
     zh: 李爾王
-    zh-cn: 李尔王
-    zh-hans: 李尔王
-    zh-hant: 李爾王
-    zh-hk: 李爾王
-    zh-sg: 李尔王
-    zh-tw: 李爾王
+    zh_cn: 李尔王
+    zh_hans: 李尔王
+    zh_hant: 李爾王
+    zh_hk: 李爾王
+    zh_sg: 李尔王
+    zh_tw: 李爾王
 ---
 # [[King_Lear]] 
 

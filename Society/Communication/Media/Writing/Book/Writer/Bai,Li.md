@@ -132,7 +132,7 @@ dv_has_:
     ba: Ли Бай
     bar: Li Bai
     be: Лі Бо
-    be-tarask: Лі Бо
+    be_tarask: Лі Бо
     bg: Ли Бо
     bho: ली बाइ
     bi: Li Bae
@@ -143,7 +143,7 @@ dv_has_:
     btm: Li Bai
     bxr: Ли Бай
     ca: Li Bai
-    cbk-zam: Li Bai
+    cbk_zam: Li Bai
     cdo: Lī Bĕk
     ce: Ли Бо
     ckb: لی بای
@@ -155,8 +155,8 @@ dv_has_:
     diq: Li Bai
     el: Λι Μπάι
     en: Li Bai
-    en-ca: Li Bai
-    en-gb: Li Bai
+    en_ca: Li Bai
+    en_gb: Li Bai
     eo: Li Bai
     es: Li Bai
     et: Li Bo
@@ -237,7 +237,7 @@ dv_has_:
     pms: Li Bai
     pnb: لی بائی
     pt: Li Bai
-    pt-br: Li Bai
+    pt_br: Li Bai
     ro: Li Po
     ru: Ли Бо
     rue: Лі Бо
@@ -279,14 +279,14 @@ dv_has_:
     yue: 李白
     za: Lij Beg
     zh: 李白
-    zh-cn: 李白
-    zh-hans: 李白
-    zh-hant: 李白
-    zh-hk: 李白
-    zh-mo: 李白
+    zh_cn: 李白
+    zh_hans: 李白
+    zh_hant: 李白
+    zh_hk: 李白
+    zh_mo: 李白
     zh-my: 李白
-    zh-sg: 李白
-    zh-tw: 李白
+    zh_sg: 李白
+    zh_tw: 李白
 ---
 #has_/time_/started :: 0701–06 
 #has_/time_/stopped :: 0762-06 

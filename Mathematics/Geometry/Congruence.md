@@ -68,7 +68,7 @@ dv_has_:
     ar: تطابق
     ast: Ángulos congruentes
     ba: конгруэнтлыҡ
-    be-tarask: кангруэнтнасьць
+    be_tarask: кангруэнтнасьць
     bg: Еднаквост на триъгълници
     bn: সর্বসমতা
     bs: Podudarnost

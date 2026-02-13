@@ -338,7 +338,7 @@ dv_has_:
   name_:
     ab: Абырзен бызшәа
     ady: Урымыбзэ
-    aeb-arab: اليوناني
+    aeb_arab: اليوناني
     af: Grieks
     am: ግሪክ
     an: Idioma griego
@@ -358,7 +358,7 @@ dv_has_:
     bar: Griachische Sproch
     bcl: Tataramon na Griego
     be: грэчаская мова
-    be-tarask: грэцкая мова
+    be_tarask: грэцкая мова
     bg: гръцки език
     bho: यूनानी भाषा
     bn: গ্রিক ভাষা
@@ -374,7 +374,7 @@ dv_has_:
     ceb: Pinulongang Griyego
     ckb: زمانی یۆنانی
     crh: Yunan tili
-    crh-latn: Yunan tili
+    crh_latn: Yunan tili
     crh-ro: yunanğa
     cs: řečtina
     csb: grecczi jãzëk
@@ -383,14 +383,14 @@ dv_has_:
     cy: Groeg
     da: græsk
     de: Griechisch
-    de-ch: Griechisch
+    de_ch: Griechisch
     diq: Yunanki
     dsb: grichišćina
     el: Ελληνικά
     eml: Grîg
     en: Greek
-    en-ca: Greek
-    en-gb: Greek
+    en_ca: Greek
+    en_gb: Greek
     eo: greka lingvo
     es: griego
     et: kreeka keel
@@ -453,7 +453,7 @@ dv_has_:
     krj: Griniyego
     ks: یونٲنی زَبان
     ku: zimanê yewnanî
-    ku-latn: zimanê yewnanî
+    ku_latn: zimanê yewnanî
     kv: Эллин кыв
     kw: Grew
     ky: Грек тили
@@ -493,7 +493,7 @@ dv_has_:
     nan: Hi-lia̍p-gú
     nb: gresk
     nds: Greeksche Spraak
-    nds-nl: Grieks
+    nds_nl: Grieks
     ne: ग्रिक भाषा
     new: यवन भाषा
     nl: Grieks
@@ -544,7 +544,7 @@ dv_has_:
     so: Af Giriig
     sq: greqisht
     sr: грчки
-    sr-ec: грчки
+    sr_ec: грчки
     st: Segerike
     stq: Griechisk
     su: Basa Yunani
@@ -564,7 +564,7 @@ dv_has_:
     tpi: Tok Gris
     tr: Yunanca
     tt: грек теле
-    tt-cyrl: юнан теле
+    tt_cyrl: юнан теле
     udm: грек кыл
     ug: گرېك تىلى
     uk: грецька мова
@@ -585,11 +585,11 @@ dv_has_:
     yue: 希臘文
     zgh: ⵜⵓⵜⵍⴰⵢⵜ ⵜⴰⴳⵔⵉⴽⵜ
     zh: 希腊语
-    zh-cn: 希腊语
-    zh-hans: 希腊语
-    zh-hant: 希臘語
-    zh-hk: 希臘語
-    zh-tw: 希臘語
+    zh_cn: 希腊语
+    zh_hans: 希腊语
+    zh_hant: 希臘語
+    zh_hk: 希臘語
+    zh_tw: 希臘語
     zu: IsiGreki
 ---
 # [[Lang-grk]] 

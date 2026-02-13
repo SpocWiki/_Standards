@@ -44,8 +44,8 @@ dv_has_:
     da: John Backus
     de: John W. Backus
     en: John Backus
-    en-ca: John Backus
-    en-gb: John Backus
+    en_ca: John Backus
+    en_gb: John Backus
     eo: John Backus
     es: John Backus
     et: John Backus
@@ -74,7 +74,7 @@ dv_has_:
     oc: John Backus
     pl: John Backus
     pt: John Backus
-    pt-br: John Backus
+    pt_br: John Backus
     ro: John Backus
     ru: Джон Бэкус
     sh: John Backus
@@ -82,8 +82,8 @@ dv_has_:
     sl: John Backus
     sq: John Backus
     sr: Џон Бекус
-    sr-ec: Џон Бекус
-    sr-el: Džon Bekus
+    sr_ec: Џон Бекус
+    sr_el: Džon Bekus
     sv: John Backus
     th: จอห์น แบกคัส
     tr: John Backus
@@ -93,12 +93,12 @@ dv_has_:
     xmf: ჯონ ბეკუსი
     yue: 莊·巴吉斯
     zh: 約翰·巴科斯
-    zh-cn: 约翰·巴科斯
-    zh-hans: 约翰·巴科斯
-    zh-hant: 約翰·巴科斯
-    zh-hk: 約翰·巴科斯
-    zh-sg: 约翰·巴科斯
-    zh-tw: 約翰·巴科斯
+    zh_cn: 约翰·巴科斯
+    zh_hans: 约翰·巴科斯
+    zh_hant: 約翰·巴科斯
+    zh_hk: 約翰·巴科斯
+    zh_sg: 约翰·巴科斯
+    zh_tw: 約翰·巴科斯
 ---
 #has_/time_/started :: 1924-12-03 
 #has_/time_/stopped :: 2007-03-17 

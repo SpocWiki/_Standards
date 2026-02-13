@@ -42,7 +42,7 @@ dv_has_:
     azb: توکاماک
     ba: Токамак
     be: такамак
-    be-tarask: такамак
+    be_tarask: такамак
     bg: Токамак
     bs: Tokamak
     ca: Tokamak
@@ -51,8 +51,8 @@ dv_has_:
     de: Tokamak
     el: Τόκαμακ
     en: tokamak
-    en-ca: Tokamak
-    en-gb: Tokamak
+    en_ca: Tokamak
+    en_gb: Tokamak
     eo: Tokamako
     es: Tokamak
     et: Tokamak
@@ -71,11 +71,11 @@ dv_has_:
     ja: トカマク型
     ka: ტოკამაკი
     kk: Токамак
-    kk-arab: توكاماك
+    kk_arab: توكاماك
     kk-cn: توكاماك
-    kk-cyrl: Токамак
+    kk_cyrl: Токамак
     kk-kz: Токамак
-    kk-latn: Tokamak
+    kk_latn: Tokamak
     kk-tr: Tokamak
     ko: 토카막
     ky: токамак
@@ -87,7 +87,7 @@ dv_has_:
     oc: Tokamak
     pl: Tokamak
     pt: tokamak
-    pt-br: Tokamak
+    pt_br: Tokamak
     ru: токамак
     scn: Tokamak
     sh: Tokamak
@@ -105,12 +105,12 @@ dv_has_:
     war: Tokamak
     yue: 拓卡馬克
     zh: 托卡马克
-    zh-cn: 托卡马克
-    zh-hans: 托卡马克
-    zh-hant: 托卡馬克
-    zh-hk: 托卡馬克
-    zh-sg: 托卡马克
-    zh-tw: 托卡馬克
+    zh_cn: 托卡马克
+    zh_hans: 托卡马克
+    zh_hant: 托卡馬克
+    zh_hk: 托卡馬克
+    zh_sg: 托卡马克
+    zh_tw: 托卡馬克
 ---
 # [[Tokamak]] 
 

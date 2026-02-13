@@ -67,7 +67,7 @@ dv_has_:
     ast: Oclocracia
     az: Oxlokratiya
     be: Ахлакратыя
-    be-tarask: ахлякратыя
+    be_tarask: ахлякратыя
     bg: Охлокрация
     bn: উচ্ছৃঙ্খল গণবিচার
     br: Oc'hlokratiezh
@@ -94,11 +94,11 @@ dv_has_:
     ja: 衆愚政治
     ka: ოხლოკრატია
     kk: Охлократия
-    kk-arab: وحلوكراتىييا
+    kk_arab: وحلوكراتىييا
     kk-cn: وحلوكراتىييا
-    kk-cyrl: Охлократия
+    kk_cyrl: Охлократия
     kk-kz: Охлократия
-    kk-latn: Oxlokratïya
+    kk_latn: Oxlokratïya
     kk-tr: Oxlokratïya
     ko: 중우정치
     ky: Охлократия
@@ -117,8 +117,8 @@ dv_has_:
     sk: genokraticka gerontokracia
     sl: Ohlokracija
     sr: Охлократија
-    sr-ec: Охлократија
-    sr-el: Ohlokratija
+    sr_ec: Охлократија
+    sr_el: Ohlokratija
     sv: Pöbel
     th: กฎหมู่
     tl: Oklokrasya

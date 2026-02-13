@@ -50,11 +50,11 @@ dv_has_:
     da: Rex Harrison
     de: Rex Harrison
     de-at: Rex Harrison
-    de-ch: Rex Harrison
+    de_ch: Rex Harrison
     el: Ρεξ Χάρισον
     en: Rex Harrison
-    en-ca: Rex Harrison
-    en-gb: Rex Harrison
+    en_ca: Rex Harrison
+    en_gb: Rex Harrison
     eo: Rex Harrison
     es: Rex Harrison
     et: Rex Harrison
@@ -101,7 +101,7 @@ dv_has_:
     nap: Rex Harrison
     nb: Rex Harrison
     nds: Rex Harrison
-    nds-nl: Rex Harrison
+    nds_nl: Rex Harrison
     nl: Rex Harrison
     nn: Rex Harrison
     nrm: Rex Harrison
@@ -112,7 +112,7 @@ dv_has_:
     pms: Rex Harrison
     prg: Rex Harrison
     pt: Rex Harrison
-    pt-br: Rex Harrison
+    pt_br: Rex Harrison
     qu: Rex Harrison
     rgn: Rex Harrison
     rm: Rex Harrison
@@ -125,8 +125,8 @@ dv_has_:
     sl: Rex Harrison
     sq: Rex Harrison
     sr: Рекс Харисон
-    sr-ec: Рекс Харисон
-    sr-el: Reks Harison
+    sr_ec: Рекс Харисон
+    sr_el: Reks Harison
     sv: Rex Harrison
     sw: Rex Harrison
     th: เรกซ์ แฮร์ริสัน
@@ -145,13 +145,13 @@ dv_has_:
     xmf: რექს ჰარისონი
     yo: Rex Harrison
     zh: 雷克斯·哈里遜
-    zh-cn: 雷克斯·哈里森
-    zh-hans: 雷克斯·哈里逊
-    zh-hant: 雷克斯·哈里遜
-    zh-hk: 力士·夏里遜
+    zh_cn: 雷克斯·哈里森
+    zh_hans: 雷克斯·哈里逊
+    zh_hant: 雷克斯·哈里遜
+    zh_hk: 力士·夏里遜
     zh-my: 力士·夏里逊
-    zh-sg: 力士·夏里逊
-    zh-tw: 雷克斯·哈里遜
+    zh_sg: 力士·夏里逊
+    zh_tw: 雷克斯·哈里遜
     zu: Rex Harrison
 ---
 ## #has_/text_of_/abstract 

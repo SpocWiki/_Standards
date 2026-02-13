@@ -48,7 +48,7 @@ dv_has_:
   name_:
     ar: سوسافون
     ast: Sousafón
-    be-tarask: сузафон
+    be_tarask: сузафон
     ca: Sousafó
     cs: suzafon
     da: Sousafon
@@ -75,7 +75,7 @@ dv_has_:
     lb: Sousaphon
     mk: Сузафон
     nb: sousafon
-    nds-nl: reenkbas
+    nds_nl: reenkbas
     nl: sousafoon
     oc: Sousafòn
     pl: Suzafon
@@ -84,8 +84,8 @@ dv_has_:
     ru: Сузафон
     sl: suzafon
     sr: сузафон
-    sr-ec: сузафон
-    sr-el: suzafon
+    sr_ec: сузафон
+    sr_el: suzafon
     sv: sousafon
     th: ซูซาโฟน
     tr: Suzafon

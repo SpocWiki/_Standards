@@ -97,7 +97,7 @@ dv_has_:
     ast: psicoloxía cognitiva
     az: İdraki psixologiya
     be: кагнітыўная псіхалогія
-    be-tarask: пазнавальная псыхалёгія
+    be_tarask: пазнавальная псыхалёгія
     bg: когнитивна психология
     bn: সংজ্ঞানাত্মক মনোবিজ্ঞান
     bs: kognitivna psihologija
@@ -108,8 +108,8 @@ dv_has_:
     de: Kognitionspsychologie
     el: γνωστική ψυχολογία
     en: cognitive psychology
-    en-ca: cognitive psychology
-    en-gb: cognitive psychology
+    en_ca: cognitive psychology
+    en_gb: cognitive psychology
     eo: kogna psikologio
     es: psicología cognitiva
     et: kognitiivne psühholoogia
@@ -138,7 +138,7 @@ dv_has_:
     lv: kognitīvā psiholoģija
     mk: когнитивна психологија
     ms: psikologi kognitif
-    ms-arab: ڤسيکولوݢي کوݢنيتيف
+    ms_arab: ڤسيکولوݢي کوݢنيتيف
     nb: kognitiv psykologi
     nl: cognitieve psychologie
     pa: ਬੋਧ ਮਨੋਵਿਗਿਆਨ
@@ -157,8 +157,8 @@ dv_has_:
     sms: kognitiivlaž psykologia
     sq: psikologjia kognitive
     sr: когнитивна психологија
-    sr-ec: когнитивна психологија
-    sr-el: kognitivna psihologija
+    sr_ec: когнитивна психологија
+    sr_el: kognitivna psihologija
     sv: kognitiv psykologi
     ta: அறிவாற்றல் உளவியல்
     th: จิตวิทยาการรู้คิด
@@ -173,9 +173,9 @@ dv_has_:
     wuu: 认知心理学
     yue: 認知心理學
     zh: 認知心理學
-    zh-cn: 認知心理學
-    zh-hans: 认知心理学
-    zh-hant: 認知心理學
+    zh_cn: 認知心理學
+    zh_hans: 认知心理学
+    zh_hant: 認知心理學
 ---
 # [[Cognitive_Psychology]] 
 

@@ -131,7 +131,7 @@ dv_has_:
     ban: ordo
     bar: Ordnung
     be: атрад/парадак
-    be-tarask: атрад/парадак
+    be_tarask: атрад/парадак
     bew: wangsa
     bg: разред
     bho: कुल
@@ -148,8 +148,8 @@ dv_has_:
     diq: taxım
     el: τάξη
     en: order
-    en-ca: order
-    en-gb: order
+    en_ca: order
+    en_gb: order
     eo: ordo
     es: orden
     et: selts
@@ -183,7 +183,7 @@ dv_has_:
     kk: авиациялық жасақ
     ko: 목
     ks: وۄٹٕچؠ
-    ku-latn: kom
+    ku_latn: kom
     ky: түркүм
     la: ordo
     lb: Uerdnung
@@ -209,7 +209,7 @@ dv_has_:
     pam: orden
     pl: rząd
     pt: ordem
-    pt-br: ordem
+    pt_br: ordem
     qu: rikch'aq ñiqi
     ro: ordin
     ru: отряд / порядок
@@ -235,8 +235,8 @@ dv_has_:
     tl: orden
     tr: takım
     tt: тәртип
-    tt-cyrl: тәртип
-    tt-latn: tärtip
+    tt_cyrl: тәртип
+    tt_latn: tärtip
     uk: ряд/порядок
     ur: طبقہ
     uz: turkum
@@ -250,11 +250,11 @@ dv_has_:
     yue: 目
     zea: orde
     zh: 目
-    zh-cn: 目
-    zh-hans: 目
-    zh-hant: 目
-    zh-hk: 目
-    zh-tw: 目
+    zh_cn: 目
+    zh_hans: 目
+    zh_hant: 目
+    zh_hk: 目
+    zh_tw: 目
     zu: Uhlelo (kumchazampilo)
 ---
 # [[bio~Order]] 

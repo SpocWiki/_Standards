@@ -59,9 +59,9 @@ dv_has_:
     sv: Vicke Viking
     tr: Vikingler
     zh: 北海小英雄
-    zh-hans: 北海小英雄
-    zh-hant: 北海小英雄
-    zh-hk: 北海小英雄
+    zh_hans: 北海小英雄
+    zh_hant: 北海小英雄
+    zh_hk: 北海小英雄
 ---
 This was the first [[../../../../../../../Earth/Continent/Asia/Asia~East/Japan|Japan]]ese Production that [[ZDF]] commissioned
 and was followed by . 

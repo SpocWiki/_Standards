@@ -11,11 +11,11 @@ dv_has_:
     cy: Bertelsmann
     da: Bertelsmann
     de: Bertelsmann
-    de-ch: Bertelsmann
+    de_ch: Bertelsmann
     diq: Bertelsmann
     en: Bertelsmann
-    en-ca: Bertelsmann
-    en-gb: Bertelsmann
+    en_ca: Bertelsmann
+    en_gb: Bertelsmann
     eo: Bertelsmann
     es: Bertelsmann
     fa: برتلزمان
@@ -35,7 +35,7 @@ dv_has_:
     nl: Bertelsmann
     pl: Bertelsmann
     pt: Bertelsmann
-    pt-br: Bertelsmann
+    pt_br: Bertelsmann
     ro: Bertelsmann
     ru: Bertelsmann
     sl: Bertelsmann
@@ -47,12 +47,12 @@ dv_has_:
     ur: بیرتسمان
     wuu: 贝塔斯曼
     zh: 贝塔斯曼
-    zh-cn: 贝塔斯曼
-    zh-hans: 贝塔斯曼
-    zh-hant: 貝塔斯曼
-    zh-hk: 貝塔斯曼
-    zh-sg: 贝塔斯曼
-    zh-tw: 博德曼
+    zh_cn: 贝塔斯曼
+    zh_hans: 贝塔斯曼
+    zh_hant: 貝塔斯曼
+    zh_hk: 貝塔斯曼
+    zh_sg: 贝塔斯曼
+    zh_tw: 博德曼
 aliases:
 - Bertelsmann
 - Bertelsmann AG

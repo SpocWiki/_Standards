@@ -39,7 +39,7 @@ dv_has_:
   name_:
     af: alleenspraak
     ar: مناجاة فردية
-    be-tarask: салілёквіюм
+    be_tarask: салілёквіюм
     bg: солилоквия
     ca: soliloqui
     chr: ᎣᏩᏌ ᏨᏓᎵᏃᏗᏍᎪᎢ

@@ -183,7 +183,7 @@ dv_has_:
     bar: Gmiak
     bcl: Memorya
     be: памяць
-    be-tarask: памяць
+    be_tarask: памяць
     bg: Памет
     bn: স্মৃতি
     bo: ཁྱིམ་དྲན་སེམས་ནད།
@@ -197,11 +197,11 @@ dv_has_:
     cy: Cof
     da: hukommelse
     de: Gedächtnis
-    de-ch: Gedächtnis
+    de_ch: Gedächtnis
     el: Μνήμη
     en: memory
-    en-ca: Memory
-    en-gb: memory
+    en_ca: Memory
+    en_gb: memory
     eo: memoro
     es: memoria
     et: Mälu
@@ -244,7 +244,7 @@ dv_has_:
     mn: Ой тогтоолт
     mr: मेमरी
     ms: ingatan
-    ms-arab: ايڠتن
+    ms_arab: ايڠتن
     mwl: Mimória
     my: မှတ်ဉာဏ်
     mzn: حافظه
@@ -280,7 +280,7 @@ dv_has_:
     tl: Alaala
     tr: bellek
     tt: хәтер
-    tt-cyrl: хәтер
+    tt_cyrl: хәтер
     uk: пам'ять
     ur: hafiza
     uz: Xotira
@@ -291,8 +291,8 @@ dv_has_:
     yi: זכרון
     yue: 記憶
     zh: 記憶
-    zh-hans: 记忆
-    zh-hk: 記憶
+    zh_hans: 记忆
+    zh_hk: 記憶
 ---
 # [[Memory]] 
 

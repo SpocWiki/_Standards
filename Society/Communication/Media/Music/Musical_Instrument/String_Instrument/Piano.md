@@ -139,7 +139,7 @@ dv_has_:
     ba: фортепиано
     bar: Klavia (Begriffsklearung)
     be: фартэпіяна
-    be-tarask: фартэпіяна
+    be_tarask: фартэпіяна
     bg: пиано
     bn: পিয়ানো
     bo: རྣོ་སྦྲེང་།
@@ -221,7 +221,7 @@ dv_has_:
     mn: Төгөлдөр хуур
     mr: पियानो
     ms: piano
-    ms-arab: ڤيانو
+    ms_arab: ڤيانو
     mt: pjanu
     my: စန္ဒရား
     mzn: پیانو
@@ -229,7 +229,7 @@ dv_has_:
     nan: Kǹg-khîm
     nb: piano
     nds: Klaveer
-    nds-nl: piano
+    nds_nl: piano
     new: पियानो
     nl: piano
     nn: piano
@@ -242,7 +242,7 @@ dv_has_:
     pms: Pianofòrt
     pnb: پیانو
     pt: piano
-    pt-br: piano
+    pt_br: piano
     qu: Yatana qallwa
     rm: Clavazin
     ro: pian
@@ -264,7 +264,7 @@ dv_has_:
     so: Biyaano
     sq: Pianoja
     sr: клавир
-    sr-ec: клавир
+    sr_ec: клавир
     stq: Klavier
     su: Piano
     sv: piano
@@ -291,11 +291,11 @@ dv_has_:
     yi: פיאנע
     yue: 鋼琴
     zh: 钢琴
-    zh-cn: 钢琴
-    zh-hans: 钢琴
-    zh-hant: 鋼琴
-    zh-hk: 鋼琴
-    zh-tw: 鋼琴
+    zh_cn: 钢琴
+    zh_hans: 钢琴
+    zh_hant: 鋼琴
+    zh_hk: 鋼琴
+    zh_tw: 鋼琴
     zu: Ipiyano
 ---
 # [[Piano]] 

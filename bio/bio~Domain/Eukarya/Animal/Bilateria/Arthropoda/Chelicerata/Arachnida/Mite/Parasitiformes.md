@@ -56,7 +56,7 @@ dv_has_:
     oc: Parasitiformes
     pl: Parasitiformes
     pt: Parasitiformes
-    pt-br: Parasitiformes
+    pt_br: Parasitiformes
     ro: Parasitiformes
     ru: паразитиформные клещи
     sq: Parasitiformes
@@ -67,12 +67,12 @@ dv_has_:
     vo: Parasitiformes
     war: Parasitiformes
     zh: 寄蟎總目
-    zh-cn: 寄螨总目
-    zh-hans: 寄螨总目
-    zh-hant: 寄蟎總目
-    zh-hk: 寄蟎總目
-    zh-sg: 寄螨总目
-    zh-tw: 寄蟎總目
+    zh_cn: 寄螨总目
+    zh_hans: 寄螨总目
+    zh_hant: 寄蟎總目
+    zh_hk: 寄蟎總目
+    zh_sg: 寄螨总目
+    zh_tw: 寄蟎總目
 ---
 ## Phylogeny 
 

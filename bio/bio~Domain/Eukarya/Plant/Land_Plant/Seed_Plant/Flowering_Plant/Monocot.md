@@ -96,7 +96,7 @@ dv_has_:
     az: Birləpəlilər
     ba: Бер өлөшлөләр
     be: аднадольныя
-    be-tarask: аднадольныя
+    be_tarask: аднадольныя
     bg: едносемеделни
     bn: একবীজপত্রী
     bs: Monokotiledone biljke

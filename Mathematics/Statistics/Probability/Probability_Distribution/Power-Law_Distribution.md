@@ -63,9 +63,9 @@ dv_has_:
     ur: طاقت کا قانون
     yue: 冪定律
     zh: 冪定律
-    zh-hans: 幂定律
-    zh-hant: 冪定律
-    zh-hk: 冪定律
+    zh_hans: 幂定律
+    zh_hant: 冪定律
+    zh_hk: 冪定律
 ---
 # [[Power-Law_Distribution]] 
 

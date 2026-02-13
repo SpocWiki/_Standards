@@ -112,7 +112,7 @@ dv_has_:
     az: Yelkən (bürc)
     ba: Елкәндәр
     be: Ветразі
-    be-tarask: Ветразі
+    be_tarask: Ветразі
     bg: Корабни платна
     bn: ভেলা মণ্ডল
     br: Gouelioù
@@ -127,8 +127,8 @@ dv_has_:
     diq: Yelken
     el: Ιστία
     en: Vela
-    en-ca: Vela
-    en-gb: Vela
+    en_ca: Vela
+    en_gb: Vela
     eo: Velaro
     es: Vela
     et: Purjed
@@ -172,7 +172,7 @@ dv_has_:
     pl: Gwiazdozbiór Żagla
     pnb: بادبان (مجمع النجوم)
     pt: Vela
-    pt-br: Vela
+    pt_br: Vela
     rki: ဗီလာ
     ro: Velele
     ru: Паруса

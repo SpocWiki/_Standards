@@ -141,7 +141,7 @@ dv_has_:
     az: Holmium
     ban: Holmium
     be: гольмій
-    be-tarask: Гольм
+    be_tarask: Гольм
     bg: холмий
     bho: होल्मियम
     bn: হোলমিয়াম
@@ -159,7 +159,7 @@ dv_has_:
     de: Holmium
     el: όλμιο
     en: holmium
-    en-gb: holmium
+    en_gb: holmium
     eo: holmio
     es: holmio
     et: holmium
@@ -215,7 +215,7 @@ dv_has_:
     mr: होल्मियम
     mrj: гольмий
     ms: holmium
-    ms-arab: هولميوم
+    ms_arab: هولميوم
     mt: olmju
     mul: Ho
     my: ဟိုမီယမ်
@@ -237,7 +237,7 @@ dv_has_:
     pnb: ہولمیم
     ps: هولميوم
     pt: hólmio
-    pt-br: hôlmio
+    pt_br: hôlmio
     qu: Holmyu
     ro: holmiu
     ru: гольмий
@@ -251,7 +251,7 @@ dv_has_:
     sl: holmij
     sq: Holmiumi
     sr: холмијум
-    sr-ec: холмијум
+    sr_ec: холмијум
     stq: Holmium
     sv: holmium
     sw: Holmi
@@ -274,9 +274,9 @@ dv_has_:
     yo: Holmium
     yue: 鈥
     zh: 鈥
-    zh-hans: 钬
-    zh-hant: 鈥
-    zh-tw: 鈥
+    zh_hans: 钬
+    zh_hant: 鈥
+    zh_tw: 鈥
     zu: UmHomambi
   number_of_:
     period: 6

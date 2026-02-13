@@ -94,7 +94,7 @@ dv_has_:
     az: Afrika Birliyi Təşkilatı
     azb: آفریقا بیرلیگی اؤرگوتو
     be: Арганізацыя афрыканскага адзінства
-    be-tarask: Арганізацыя афрыканскага адзінства
+    be_tarask: Арганізацыя афрыканскага адзінства
     bg: Организация за африканско единство
     bs: Organizacija afričkog jedinstva
     ca: Organització per a la Unitat Africana
@@ -123,11 +123,11 @@ dv_has_:
     ja: アフリカ統一機構
     ka: აფრიკის ერთობის ორგანიზაცია
     kk: Африкалық Бірлік Ұйымы
-    kk-arab: افرىيكالىق بىرلىك ۇيىمى
+    kk_arab: افرىيكالىق بىرلىك ۇيىمى
     kk-cn: افرىيكالىق بىرلىك ۇيىمى
-    kk-cyrl: Африкалық Бірлік Ұйымы
+    kk_cyrl: Африкалық Бірлік Ұйымы
     kk-kz: Африкалық Бірлік Ұйымы
-    kk-latn: Afrïkalıq Birlik Uýımı
+    kk_latn: Afrïkalıq Birlik Uýımı
     kk-tr: Afrïkalıq Birlik Uýımı
     ko: 아프리카 통일 기구
     ky: Африка Биримдиги Уюму
@@ -144,8 +144,8 @@ dv_has_:
     ru: Организация африканского единства
     sl: Organizacija afriške enotnosti
     sr: Организација афричког јединства
-    sr-ec: Организација афричког јединства
-    sr-el: Organizacija afričkog jedinstva
+    sr_ec: Организација афричког јединства
+    sr_el: Organizacija afričkog jedinstva
     sv: Organisationen för afrikansk enhet
     sw: Umoja wa Muungano wa Afrika
     tn: Mokgatlho wa Kutlwano ya Aforika
@@ -159,12 +159,12 @@ dv_has_:
     xmf: აფრიკაშ ართობაშ ორგანიზაცია
     yue: 非洲統一組織
     zh: 非洲统一组织
-    zh-cn: 非洲统一组织
-    zh-hans: 非洲统一组织
-    zh-hant: 非洲統一組織
-    zh-hk: 非洲統一組織
-    zh-sg: 非洲统一组织
-    zh-tw: 非洲統一組織
+    zh_cn: 非洲统一组织
+    zh_hans: 非洲统一组织
+    zh_hant: 非洲統一組織
+    zh_hk: 非洲統一組織
+    zh_sg: 非洲统一组织
+    zh_tw: 非洲統一組織
 ---
 # [[Organisation_of_African_Unity]] 
 

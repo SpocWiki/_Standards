@@ -156,7 +156,7 @@ dv_has_:
     azb: آرتور سی. کلارک
     ba: Кларк Артур Чарльз
     be: Артур Кларк
-    be-tarask: Артур Кларк
+    be_tarask: Артур Кларк
     bg: Артър Кларк
     bn: আর্থার সি ক্লার্ক
     bs: Arthur C. Clarke
@@ -166,11 +166,11 @@ dv_has_:
     cy: Arthur C. Clarke
     da: Arthur C. Clarke
     de: Arthur C. Clarke
-    de-ch: Arthur C. Clarke
+    de_ch: Arthur C. Clarke
     el: Άρθουρ Κλαρκ
     en: Arthur C. Clarke
-    en-ca: Arthur C. Clarke
-    en-gb: Arthur C. Clarke
+    en_ca: Arthur C. Clarke
+    en_gb: Arthur C. Clarke
     eo: Arthur C. Clarke
     es: Arthur C. Clarke
     et: Arthur C. Clarke
@@ -218,7 +218,7 @@ dv_has_:
     pl: Arthur C. Clarke
     pms: Arthur C. Clarke
     pt: Arthur C. Clarke
-    pt-br: Arthur C. Clarke
+    pt_br: Arthur C. Clarke
     ro: Arthur C. Clarke
     ru: Артур Чарльз Кларк
     sco: Arthur C. Clarke
@@ -228,7 +228,7 @@ dv_has_:
     sl: Arthur Charles Clarke
     sq: arthur c. clarke
     sr: Артур Ч. Кларк
-    sr-ec: Артур Ч. Кларк
+    sr_ec: Артур Ч. Кларк
     sv: Arthur C. Clarke
     ta: ஆர்தர் சி. கிளார்க்
     te: ఆర్థర్ సి. క్లార్క్
@@ -242,7 +242,7 @@ dv_has_:
     xmf: ართურ ჩარლზ კლარკი
     yue: Arthur C. Clarke
     zh: 亞瑟·查理斯·克拉克
-    zh-hant: 亞瑟·查理斯·克拉克
+    zh_hant: 亞瑟·查理斯·克拉克
 ---
 # [[Clarke,Arthur_C]] 
 

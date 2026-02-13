@@ -233,7 +233,7 @@ dv_has_:
     az: Covanni Bellini
     ba: Джованни Беллини
     be: Джавані Беліні
-    be-tarask: Джаваньні Бэліні
+    be_tarask: Джаваньні Бэліні
     bg: Джовани Белини
     bo: ཇི་ཡོ་ཝ་ནི་བེལ་ལི་ནི།
     br: Giovanni Bellini
@@ -242,11 +242,11 @@ dv_has_:
     cy: Giovanni Bellini
     da: Giovanni Bellini
     de: Giovanni Bellini
-    de-ch: Giovanni Bellini
+    de_ch: Giovanni Bellini
     el: Τζοβάνι Μπελλίνι
     en: Giovanni Bellini
-    en-ca: Giovanni Bellini
-    en-gb: Giovanni Bellini
+    en_ca: Giovanni Bellini
+    en_gb: Giovanni Bellini
     eo: Giovanni Bellini
     es: Giovanni Bellini
     et: Giovanni Bellini
@@ -283,7 +283,7 @@ dv_has_:
     pa: ਜਿਓਵਾਨੀ ਬੇਲੀਨੀ
     pl: Giovanni Bellini
     pt: Giovanni Bellini
-    pt-br: Giovanni Bellini
+    pt_br: Giovanni Bellini
     qu: Giovanni Bellini
     ro: Giovanni Bellini
     ru: Джованни Беллини
@@ -294,7 +294,7 @@ dv_has_:
     sl: Giovanni Bellini
     sq: Giovanni Bellini
     sr: Ђовани Белини
-    sr-ec: Ђовани Белини
+    sr_ec: Ђовани Белини
     sv: Giovanni Bellini
     tg: Гиованни Беллини
     th: โจวันนี เบลลีนี
@@ -306,7 +306,7 @@ dv_has_:
     wuu: 乔瓦尼·贝利尼
     yue: 喬瓦尼·貝利尼
     zh: 乔瓦尼·贝利尼
-    zh-hant: 喬瓦尼·貝利尼
+    zh_hant: 喬瓦尼·貝利尼
 ---
 # [[Bellini,Giovanni]] 
 

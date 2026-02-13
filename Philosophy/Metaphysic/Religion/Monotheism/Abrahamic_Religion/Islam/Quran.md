@@ -408,7 +408,7 @@ dv_has_:
     bcl: Kur·an
     bdr: Al-quran
     be: Каран
-    be-tarask: Каран
+    be_tarask: Каран
     bew: Kur'an
     bg: Коран
     bho: कुरान
@@ -422,7 +422,7 @@ dv_has_:
     btm: Al-Qur'an
     bxr: Коран
     ca: Alcorà
-    cbk-zam: Corán
+    cbk_zam: Corán
     cdo: Kŭ-làng-gĭng
     ce: Къуръан
     ceb: Kur·an
@@ -430,7 +430,7 @@ dv_has_:
     co: Curanu
     cps: Kur·an
     crh: Quran
-    crh-latn: Quran
+    crh_latn: Quran
     cs: Korán
     cv: Коран
     cy: Coran
@@ -442,8 +442,8 @@ dv_has_:
     dv: ކީރިތި ޤުރުއާން
     el: Κοράνιο
     en: Qur’an
-    en-ca: Quran
-    en-gb: Quran
+    en_ca: Quran
+    en_gb: Quran
     eo: Korano
     es: Corán
     et: Koraan
@@ -518,7 +518,7 @@ dv_has_:
     lzh: 古蘭經
     mad: Al-Qur'an
     mai: कुरान
-    map-bms: Al-Qur'an
+    map_bms: Al-Qur'an
     mg: Korana
     mhr: Коран
     min: Al-Qur'an
@@ -530,7 +530,7 @@ dv_has_:
     mr: कुराण
     mrj: Коран
     ms: al-Quran
-    ms-arab: القرءان
+    ms_arab: القرءان
     mt: Koran
     mul: Qurʾān
     mwl: Alcoron
@@ -557,7 +557,7 @@ dv_has_:
     pnb: قرآن
     ps: قرآن
     pt: Alcorão
-    pt-br: Alcorão
+    pt_br: Alcorão
     qu: Quran
     ro: Coran
     ru: Коран
@@ -582,7 +582,7 @@ dv_has_:
     so: Quraan
     sq: Kurani
     sr: Куран
-    sr-ec: Куран
+    sr_ec: Куран
     su: Qur'an
     sv: Koranen
     sw: Qurani
@@ -597,8 +597,8 @@ dv_has_:
     tok: lipu sewi Kulan
     tr: Kur'an
     tt: Коръән
-    tt-cyrl: Коръән
-    tt-latn: Qor'än
+    tt_cyrl: Коръән
+    tt_latn: Qor'än
     tw: Qur’an
     ug: قۇرئان كەرىم
     uk: Коран
@@ -617,10 +617,10 @@ dv_has_:
     za: Gujlanzging
     zgh: ⴰⵇⵓⵕⴰⵏ
     zh: 古蘭經
-    zh-cn: 古兰经
-    zh-hans: 古兰经
-    zh-hant: 可蘭經
-    zh-tw: 可蘭經
+    zh_cn: 古兰经
+    zh_hans: 古兰经
+    zh_hant: 可蘭經
+    zh_tw: 可蘭經
     zu: Quran
 ---
 # [[Quran]] 

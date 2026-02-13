@@ -166,7 +166,7 @@ dv_has_:
     ba: Шиғыйҙар
     bar: Schia
     be: шыіты
-    be-tarask: шыізм
+    be_tarask: шыізм
     bg: Шиитски ислям
     bn: শিয়া ইসলাম
     br: Islam chiit
@@ -186,8 +186,8 @@ dv_has_:
     dv: ޝީޢީ މަޛްހަބު
     el: Σιιτισμός
     en: Shia Islam
-    en-ca: Shia Islam
-    en-gb: Shia Islam
+    en_ca: Shia Islam
+    en_gb: Shia Islam
     en-us: Shia Islam
     eo: Ŝijaismo
     es: chiismo
@@ -229,7 +229,7 @@ dv_has_:
     ko: 시아파 이슬람교
     ks: شیعہ
     ku: şiîtî
-    ku-latn: şiîtî
+    ku_latn: şiîtî
     kw: Islam Shia
     ky: Шиизм
     la: secta Siitica
@@ -265,7 +265,7 @@ dv_has_:
     pnb: شیعہ
     ps: شيعه
     pt: xiismo
-    pt-br: Xiismo
+    pt_br: Xiismo
     ro: șiism
     ru: шиитский ислам
     rue: Шіїты
@@ -305,10 +305,10 @@ dv_has_:
     yi: שיא איסלאם
     yue: 什葉派
     zh: 什叶派
-    zh-cn: 什叶派
-    zh-hans: 什叶派
-    zh-hant: 什葉派
-    zh-tw: 什葉派
+    zh_cn: 什叶派
+    zh_hans: 什叶派
+    zh_hant: 什葉派
+    zh_tw: 什葉派
 ---
 # [[Shia_Islam]] 
 

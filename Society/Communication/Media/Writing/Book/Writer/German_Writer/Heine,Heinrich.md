@@ -172,7 +172,7 @@ dv_has_:
     ba: Генрих Гейне
     bar: Heinrich Heine
     be: Генрых Гейнэ
-    be-tarask: Гайнрых Гайнэ
+    be_tarask: Гайнрых Гайнэ
     bg: Хайнрих Хайне
     bn: হাইনরিখ হাইনে
     br: Heinrich Heine
@@ -187,8 +187,8 @@ dv_has_:
     diq: Heinrich Heine
     el: Χάινριχ Χάινε
     en: Heinrich Heine
-    en-ca: Heinrich Heine
-    en-gb: Heinrich Heine
+    en_ca: Heinrich Heine
+    en_gb: Heinrich Heine
     eo: Heinrich Heine
     es: Heinrich Heine
     et: Heinrich Heine
@@ -239,7 +239,7 @@ dv_has_:
     pdc: Heinrich Heine
     pl: Heinrich Heine
     pt: Heinrich Heine
-    pt-br: Heinrich Heine
+    pt_br: Heinrich Heine
     qu: Heinrich Heine
     ro: Heinrich Heine
     ru: Генрих Гейне
@@ -250,7 +250,7 @@ dv_has_:
     sl: Heinrich Heine
     sq: Heinrich Heine
     sr: Хајнрих Хајне
-    sr-ec: Хајнрих Хајне
+    sr_ec: Хајнрих Хајне
     sv: Heinrich Heine
     ta: ஹென்ரிச் ஹீன்
     th: ไฮน์ริช ไฮเนอ
@@ -266,9 +266,9 @@ dv_has_:
     yi: היינריך היינע
     yue: 海涅
     zh: 克里斯蒂安·約翰·海因里希·海涅
-    zh-cn: 克里斯蒂安·约翰·海因里希·海涅
-    zh-hant: 海因里希·海涅
-    zh-tw: 克里斯蒂安·約翰·海因里希·海涅
+    zh_cn: 克里斯蒂安·约翰·海因里希·海涅
+    zh_hant: 海因里希·海涅
+    zh_tw: 克里斯蒂安·約翰·海因里希·海涅
 ---
 # [[Heine,Heinrich]] 
 

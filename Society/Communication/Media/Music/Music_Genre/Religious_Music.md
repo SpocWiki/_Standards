@@ -81,7 +81,7 @@ dv_has_:
     ar: موسيقى دينية
     az: dini musiqi
     be: рэлігійная музыка
-    be-tarask: рэлігійная музыка
+    be_tarask: рэлігійная музыка
     bn: ভক্তিগীতি
     ca: música religiosa
     ckb: مۆسیقای دینی
@@ -130,8 +130,8 @@ dv_has_:
     sk: náboženská hudba
     sl: sakralna glasba
     sr: духовна музика
-    sr-ec: хришћанска музика
-    sr-el: hrišćanska muzika
+    sr_ec: хришћанска музика
+    sr_el: hrišćanska muzika
     sv: andlig musik
     tr: dinsel müzik
     uk: релігійна музика
@@ -141,7 +141,7 @@ dv_has_:
     yo: orin ẹ̀sìn
     yue: 聖樂
     zh: 宗教音乐
-    zh-hant: 宗教音樂
+    zh_hant: 宗教音樂
 ---
 # [[Religious_Music]] 
 

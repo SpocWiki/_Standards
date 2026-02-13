@@ -81,7 +81,7 @@ dv_has_:
     ba: Альтиплано
     bcl: Altiplano
     be: Альтыплана
-    be-tarask: Альтыпляна
+    be_tarask: Альтыпляна
     bg: Алтиплано
     bn: আলতিপ্লানো
     ca: Altiplà andí
@@ -108,11 +108,11 @@ dv_has_:
     ja: アルティプラーノ
     ka: ალტიპლანო
     kk: Альтипланация
-    kk-arab: التىيپلاناتسىييا
+    kk_arab: التىيپلاناتسىييا
     kk-cn: التىيپلاناتسىييا
-    kk-cyrl: Альтипланация
+    kk_cyrl: Альтипланация
     kk-kz: Альтипланация
-    kk-latn: Alʹtïplanacïya
+    kk_latn: Alʹtïplanacïya
     kk-tr: Alʹtïplanacïya
     ko: 알티플라노고원
     la: Altiplanum
@@ -149,12 +149,12 @@ dv_has_:
     wuu: 阿尔蒂普拉诺高原
     yue: 玻利維亞高原
     zh: 阿尔蒂普拉诺高原
-    zh-cn: 阿尔蒂普拉诺高原
-    zh-hans: 阿尔蒂普拉诺高原
-    zh-hant: 阿爾蒂普拉諾高原
-    zh-hk: 阿爾蒂普拉諾高原
-    zh-sg: 阿尔蒂普拉诺高原
-    zh-tw: 阿爾蒂普拉諾高原
+    zh_cn: 阿尔蒂普拉诺高原
+    zh_hans: 阿尔蒂普拉诺高原
+    zh_hant: 阿爾蒂普拉諾高原
+    zh_hk: 阿爾蒂普拉諾高原
+    zh_sg: 阿尔蒂普拉诺高原
+    zh_tw: 阿爾蒂普拉諾高原
 ---
 # [[Altiplano]] 
 

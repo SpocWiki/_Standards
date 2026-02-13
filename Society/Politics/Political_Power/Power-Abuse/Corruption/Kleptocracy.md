@@ -67,7 +67,7 @@ dv_has_:
     ast: Cleptocracia
     az: Kleptokratiya
     be: Клептакратыя
-    be-tarask: клептакратыя
+    be_tarask: клептакратыя
     bg: Клептокрация
     bn: চৌর্যতন্ত্র
     ca: cleptocràcia
@@ -121,8 +121,8 @@ dv_has_:
     smn: kleptokratia
     sms: kleptokratia
     sr: Клептократија
-    sr-ec: Клептократија
-    sr-el: Kleptokratija
+    sr_ec: Клептократија
+    sr_el: Kleptokratija
     sv: kleptokrati
     th: โจราธิปไตย
     tr: Kleptokrasi
@@ -132,12 +132,12 @@ dv_has_:
     vi: Chế độ đạo tặc
     xmf: კლეპტოკრატია
     zh: 竊盜統治
-    zh-cn: 窃盗统治
-    zh-hans: 窃盗统治
-    zh-hant: 竊盜統治
-    zh-hk: 竊盜統治
-    zh-sg: 窃盗统治
-    zh-tw: 竊盜統治
+    zh_cn: 窃盗统治
+    zh_hans: 窃盗统治
+    zh_hant: 竊盜統治
+    zh_hk: 竊盜統治
+    zh_sg: 窃盗统治
+    zh_tw: 竊盜統治
 ---
 # [[Kleptocracy]] 
 

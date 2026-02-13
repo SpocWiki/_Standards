@@ -113,7 +113,7 @@ dv_has_:
     ba: Терпеләр
     bar: Igl
     be: Вожыкавыя
-    be-tarask: Вожыкавыя
+    be_tarask: Вожыкавыя
     bg: таралежови
     br: Heureuchin
     bxr: Заряа
@@ -125,8 +125,8 @@ dv_has_:
     de: Igel
     el: Erinaceidae
     en: Erinaceidae
-    en-ca: Erinaceidae
-    en-gb: Erinaceidae
+    en_ca: Erinaceidae
+    en_gb: Erinaceidae
     eo: Erinacedoj
     es: Erinaceidae
     et: siillased
@@ -177,7 +177,7 @@ dv_has_:
     oc: Erinaceidae
     pl: jeżowate
     pt: Erinaceidae
-    pt-br: Erinaceidae
+    pt_br: Erinaceidae
     qu: Askanku
     ro: Erinaceide
     ru: ежовые
@@ -204,9 +204,9 @@ dv_has_:
     xmf: ძღაბქურცამიშობურეფი
     yue: 蝟科
     zh: 猬科
-    zh-cn: 猬科
-    zh-hans: 猬科
-    zh-tw: 猬科
+    zh_cn: 猬科
+    zh_hans: 猬科
+    zh_tw: 猬科
 ---
 # [[Erinaceidae]] 
 

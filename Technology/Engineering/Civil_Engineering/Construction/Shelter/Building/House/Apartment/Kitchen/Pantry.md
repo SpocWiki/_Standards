@@ -67,7 +67,7 @@ dv_has_:
     ar: مخزن الأطعمة وأدواتها
     ast: Despensa
     bar: Speis
-    be-tarask: камора
+    be_tarask: камора
     bg: Килер
     ca: rebost
     cs: spíž
@@ -98,14 +98,14 @@ dv_has_:
     pl: spiżarnia
     pnt: αμπάρ'
     pt: despensa
-    pt-br: despensa
+    pt_br: despensa
     rsk: Комора
     ru: чулан
     sgs: Špėžarnė
     sl: shramba
     sr: Остава
-    sr-ec: остава
-    sr-el: ostava
+    sr_ec: остава
+    sr_el: ostava
     sv: skafferi
     tr: kiler
     tt: чолан

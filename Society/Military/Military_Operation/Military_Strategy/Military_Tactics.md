@@ -77,7 +77,7 @@ dv_has_:
     ast: táutica militar
     az: Hərbi taktika
     be: тактыка
-    be-tarask: тактыка
+    be_tarask: тактыка
     bg: Военна тактика
     bn: রণচাতুরি
     br: kadoniezhoù brezel
@@ -89,7 +89,7 @@ dv_has_:
     de: Taktik
     el: στρατιωτική τακτική
     en: military tactics
-    en-gb: military tactics
+    en_gb: military tactics
     eo: milita taktiko
     es: táctica militar
     et: Taktika
@@ -127,8 +127,8 @@ dv_has_:
     sl: vojaška taktika
     sq: Taktikat ushtarake
     sr: војна тактика
-    sr-ec: војна тактика
-    sr-el: vojna taktika
+    sr_ec: војна тактика
+    sr_el: vojna taktika
     sv: taktik
     ta: போர் உத்தி
     th: ยุทธวิธีทางทหาร
@@ -141,12 +141,12 @@ dv_has_:
     vi: chiến thuật quân sự
     yue: 軍事戰術
     zh: 軍事戰術
-    zh-cn: 军事战术
-    zh-hans: 军事战术
-    zh-hant: 軍事戰術
-    zh-hk: 軍事戰術
-    zh-sg: 军事战术
-    zh-tw: 軍事戰術
+    zh_cn: 军事战术
+    zh_hans: 军事战术
+    zh_hant: 軍事戰術
+    zh_hk: 軍事戰術
+    zh_sg: 军事战术
+    zh_tw: 軍事戰術
 ---
 # [[Military_Tactics]] 
 

@@ -224,7 +224,7 @@ dv_has_:
     az: coğrafi xəritə
     ba: географик карта
     be: геаграфічная карта
-    be-tarask: мапа
+    be_tarask: мапа
     bg: географска карта
     bho: नक्शा
     bjn: kar
@@ -242,12 +242,12 @@ dv_has_:
     da: kort
     de: Karte
     de-at: Karte
-    de-ch: Karte
+    de_ch: Karte
     dsb: kórta
     el: χάρτης
     en: map
-    en-ca: map
-    en-gb: map
+    en_ca: map
+    en_gb: map
     eo: mapo
     es: mapa
     et: kaart
@@ -306,13 +306,13 @@ dv_has_:
     mni: ꯃꯦꯞ
     mr: नकाशा
     ms: peta
-    ms-arab: ڤتا
+    ms_arab: ڤتا
     mt: mappa
     my: မြေပုံ
     nan: tē-tô͘
     nb: kart
     nds: Koort
-    nds-nl: kaorte
+    nds_nl: kaorte
     ne: नक्शा
     new: मानकिपा
     nl: kaart
@@ -325,7 +325,7 @@ dv_has_:
     pnb: نقشہ
     ps: نقشه
     pt: mapa
-    pt-br: mapa
+    pt_br: mapa
     qu: saywiti
     ro: hartă
     ru: географическая карта
@@ -344,7 +344,7 @@ dv_has_:
     sms: kartt
     sq: hartë
     sr: географска карта
-    sr-ec: географска карта
+    sr_ec: географска карта
     su: atlas
     sv: karta
     sw: ramani
@@ -358,7 +358,7 @@ dv_has_:
     tok: lipu ma
     tr: harita
     tt: харита
-    tt-cyrl: харита
+    tt_cyrl: харита
     udm: мутус
     uk: географічна карта
     ur: نقشہ
@@ -375,14 +375,14 @@ dv_has_:
     yue: 地圖
     za: diduz
     zh: 地圖
-    zh-cn: 地图
-    zh-hans: 地图
-    zh-hant: 地圖
-    zh-hk: 地圖
-    zh-mo: 地圖
+    zh_cn: 地图
+    zh_hans: 地图
+    zh_hant: 地圖
+    zh_hk: 地圖
+    zh_mo: 地圖
     zh-my: 地图
-    zh-sg: 地图
-    zh-tw: 地圖
+    zh_sg: 地图
+    zh_tw: 地圖
     zu: imephu yezwe
 ---
 # [[Map]] 

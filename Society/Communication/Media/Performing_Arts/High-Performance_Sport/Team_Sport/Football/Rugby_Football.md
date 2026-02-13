@@ -160,7 +160,7 @@ dv_has_:
     ba: регби-футбол
     bar: Rugby
     be: рэгбі
-    be-tarask: рэгбі
+    be_tarask: рэгбі
     bg: Ръгби
     bn: রাগবি
     br: Rugbi
@@ -174,12 +174,12 @@ dv_has_:
     cy: Rygbi
     da: rugby
     de: Rugby
-    de-ch: Rugby
+    de_ch: Rugby
     dz: རག་བི
     el: ράγκμπι
     en: rugby
-    en-ca: Rugby football
-    en-gb: rugby
+    en_ca: Rugby football
+    en_gb: rugby
     eo: rugbeo
     es: rugby
     et: Ragbi
@@ -235,7 +235,7 @@ dv_has_:
     nan: La-gú-bih
     nb: rugby
     nds: Rugby
-    nds-nl: rugbie
+    nds_nl: rugbie
     new: रग्बी फूटबल
     nl: rugby
     nn: rugby
@@ -248,7 +248,7 @@ dv_has_:
     pms: Rugby
     pnb: رگبی
     pt: râguebi
-    pt-br: rúgbi
+    pt_br: rúgbi
     rm: Rugby
     ro: rugby
     ru: регби
@@ -262,7 +262,7 @@ dv_has_:
     sm: Lakapi
     sq: Futbolli regbi
     sr: рагби
-    sr-ec: рагби
+    sr_ec: рагби
     sv: rugby
     sw: kiwiki
     ta: ரக்பி கால்பந்து
@@ -283,14 +283,14 @@ dv_has_:
     yi: ראגבי פוטבאל
     yue: 欖球
     zh: 橄欖球類運動
-    zh-cn: 橄榄球类运动
-    zh-hans: 橄榄球类运动
-    zh-hant: 橄欖球類運動
-    zh-hk: 欖球類運動
-    zh-mo: 欖球類運動
+    zh_cn: 橄榄球类运动
+    zh_hans: 橄榄球类运动
+    zh_hant: 橄欖球類運動
+    zh_hk: 欖球類運動
+    zh_mo: 欖球類運動
     zh-my: 橄榄球类运动
-    zh-sg: 橄榄球类运动
-    zh-tw: 橄欖球類運動
+    zh_sg: 橄榄球类运动
+    zh_tw: 橄欖球類運動
     zu: Umbhoxo
 ---
 # [[Rugby_Football]] 🏉 

@@ -94,7 +94,7 @@ dv_has_:
     ast: Ultrasoníu
     az: ultrasəs
     be: ультрагук
-    be-tarask: ультрагук
+    be_tarask: ультрагук
     bg: Ултразвук
     bn: শ্রবণাতীত শব্দ
     bs: Ultrazvuk
@@ -126,11 +126,11 @@ dv_has_:
     ja: 超音波
     ka: ულტრაბგერა
     kk: Ультрадыбыс
-    kk-arab: ۋلترادىبىس
+    kk_arab: ۋلترادىبىس
     kk-cn: ۋلترادىبىس
-    kk-cyrl: Ультрадыбыс
+    kk_cyrl: Ультрадыбыс
     kk-kz: Ультрадыбыс
-    kk-latn: Wlʹtradıbıs
+    kk_latn: Wlʹtradıbıs
     kk-tr: Wlʹtradıbıs
     kn: ಶ್ರವಣಾತೀತ
     ko: 초음파
@@ -179,14 +179,14 @@ dv_has_:
     yi: אולטראשאל
     yue: 超聲波
     zh: 超聲波
-    zh-cn: 超声波
-    zh-hans: 超声波
-    zh-hant: 超音波
-    zh-hk: 超聲波
-    zh-mo: 超聲波
+    zh_cn: 超声波
+    zh_hans: 超声波
+    zh_hant: 超音波
+    zh_hk: 超聲波
+    zh_mo: 超聲波
     zh-my: 超声波
-    zh-sg: 超声波
-    zh-tw: 超音波
+    zh_sg: 超声波
+    zh_tw: 超音波
 ---
 # [[Ultrasound]] 
 

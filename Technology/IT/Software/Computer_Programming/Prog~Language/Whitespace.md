@@ -3,7 +3,7 @@ has_id_wikidata: Q591615
 dv_has_:
   name_:
     ar: محرف فراغ
-    be-tarask: сымбаль пропусту
+    be_tarask: сымбаль пропусту
     ca: espai blanc
     cs: bílý znak
     de: Leerraum
@@ -30,9 +30,9 @@ dv_has_:
     vi: khoảng trắng
     yue: 空格
     zh: 空白字元
-    zh-cn: 空白字符
-    zh-hans: 空白字符
-    zh-hant: 空白字元
+    zh_cn: 空白字符
+    zh_hans: 空白字符
+    zh_hant: 空白字元
 aliases:
 - aksara ruang putih
 - Beyaz boşluk karakteri

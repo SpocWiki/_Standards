@@ -107,7 +107,7 @@ dv_has_:
     ba: полковник
     ban: Kolonel
     be: палкоўнік
-    be-tarask: палкоўнік
+    be_tarask: палкоўнік
     bg: полковник
     bn: কর্নেল
     br: Koronal
@@ -120,13 +120,13 @@ dv_has_:
     cy: Cyrnol
     da: oberst
     de: Oberst
-    de-ch: Oberst
+    de_ch: Oberst
     dsb: oberst
     dv: ކާނަލް
     el: συνταγματάρχης
     en: colonel
-    en-ca: Colonel
-    en-gb: colonel
+    en_ca: Colonel
+    en_gb: colonel
     eo: kolonelo
     es: coronel
     et: Kolonel
@@ -157,8 +157,8 @@ dv_has_:
     ko: 대령
     ko-kp: 상좌
     ku: serheng
-    ku-arab: سەرهەنگ
-    ku-latn: serheng
+    ku_arab: سەرهەنگ
+    ku_latn: serheng
     lb: Colonel
     lfn: coronel
     lo: ພັນເອກ
@@ -182,7 +182,7 @@ dv_has_:
     pl: pułkownik
     ps: ډګروال
     pt: coronel
-    pt-br: coronel
+    pt_br: coronel
     ro: colonel
     ru: полковник
     sco: cornel
@@ -191,8 +191,8 @@ dv_has_:
     sl: polkovnik
     sq: Kolonel
     sr: пуковник
-    sr-ec: пуковник
-    sr-el: pukovnik
+    sr_ec: пуковник
+    sr_el: pukovnik
     sv: överste
     sw: Kanali
     szl: oberst
@@ -209,12 +209,12 @@ dv_has_:
     yi: פאלקאווניק
     yue: 上校
     zh: 上校
-    zh-cn: 上校
-    zh-hans: 上校
-    zh-hant: 上校
-    zh-hk: 上校
-    zh-sg: 上校
-    zh-tw: 上校
+    zh_cn: 上校
+    zh_hans: 上校
+    zh_hant: 上校
+    zh_hk: 上校
+    zh_sg: 上校
+    zh_tw: 上校
 ---
 # [[Colonel]] 
 

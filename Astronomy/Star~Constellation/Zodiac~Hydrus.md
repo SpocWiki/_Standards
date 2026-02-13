@@ -112,7 +112,7 @@ dv_has_:
     az: Cənub Hidrası
     ba: Көньяҡ Гидра
     be: Паўднёвая Гідра
-    be-tarask: Паўднёвая Гідра
+    be_tarask: Паўднёвая Гідра
     bg: Водна змия
     bn: হ্রদ মণ্ডল
     br: Par Aerouant

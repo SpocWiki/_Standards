@@ -106,7 +106,7 @@ dv_has_:
     ar: طبيب عام
     ast: médicu de cabecera
     be: урач агульнай практыкі
-    be-tarask: лекар агульнай практыкі
+    be_tarask: лекар агульнай практыкі
     bg: Обща медицина
     bn: সাধারণ চিকিৎসক
     ca: especialista en medicina  familiar i comunitària
@@ -116,10 +116,10 @@ dv_has_:
     da: almenpraktiserende læge
     dag: daŋ dɔɣitɛ
     de: Hausarzt
-    de-ch: Hausarzt
+    de_ch: Hausarzt
     en: general practitioner
-    en-ca: general practitioner
-    en-gb: general practitioner
+    en_ca: general practitioner
+    en_gb: general practitioner
     eo: ĝenerala kuracisto
     es: médico de cabecera
     et: Perearst
@@ -151,7 +151,7 @@ dv_has_:
     pi: साधारण चिकित्सक
     pl: lekarz rodzinny
     pt: médico de família
-    pt-br: médico de família
+    pt_br: médico de família
     ru: врач общей практики
     sa: साधारण चिकित्सक
     sl: družinski zdravnik
@@ -164,8 +164,8 @@ dv_has_:
     vi: bác sĩ đa khoa
     yue: 普通科醫生
     zh: 普通科醫生
-    zh-hans: 普通科医生
-    zh-hant: 普通科醫生
+    zh_hans: 普通科医生
+    zh_hant: 普通科醫生
 ---
 # [[General_Practitioner]] 
 

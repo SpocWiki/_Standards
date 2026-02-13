@@ -183,7 +183,7 @@ dv_has_:
     bar: Indus
     bcl: Salog Indus
     be: Інд
-    be-tarask: Інд
+    be_tarask: Інд
     bg: Инд
     bho: सिंधु नदी
     bn: সিন্ধু নদ
@@ -204,8 +204,8 @@ dv_has_:
     dv: ސިންދު ކޯރު
     el: Ινδός ποταμός
     en: Indus River
-    en-ca: Indus River
-    en-gb: Indus River
+    en_ca: Indus River
+    en_gb: Indus River
     eo: Induso
     es: Indo
     et: Indus
@@ -246,7 +246,7 @@ dv_has_:
     krc: Инд
     ks: سِنٛدھ دٔرؠ یاو
     ku: Îndûs
-    ku-latn: çemê Sindê
+    ku_latn: çemê Sindê
     kw: Eyndus
     ky: Инд
     la: Indus
@@ -321,10 +321,10 @@ dv_has_:
     yi: אינדוס
     yue: 印度河
     zh: 印度河
-    zh-cn: 印度河
-    zh-hans: 印度河
-    zh-hant: 印度河
-    zh-hk: 印度河
+    zh_cn: 印度河
+    zh_hans: 印度河
+    zh_hant: 印度河
+    zh_hk: 印度河
 ---
 # [[Indus_River]] 
 

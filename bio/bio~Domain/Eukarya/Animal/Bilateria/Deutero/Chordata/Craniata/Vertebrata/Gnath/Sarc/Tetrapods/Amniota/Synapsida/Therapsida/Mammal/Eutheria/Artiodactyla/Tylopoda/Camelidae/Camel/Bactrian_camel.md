@@ -215,7 +215,7 @@ dv_has_:
     azb: ایکیهورگوجلو دوه
     ban: Unta Baktria
     be: вярблюд двухгорбы
-    be-tarask: вярблюд двухгорбы
+    be_tarask: вярблюд двухгорбы
     bg: двугърба камила
     br: kañval Baktria
     ca: camell bactrià
@@ -253,11 +253,11 @@ dv_has_:
     ka: ორკუზიანი აქლემი
     kab: Amaynag
     kk: айыр өркешті түйе
-    kk-arab: ايىر وركەشتى تۇيە
+    kk_arab: ايىر وركەشتى تۇيە
     kk-cn: ايىر وركەشتى تۇيە
-    kk-cyrl: айыр өркешті түйе
+    kk_cyrl: айыр өркешті түйе
     kk-kz: айыр өркешті түйе
-    kk-latn: aýır örkeşti tüýe
+    kk_latn: aýır örkeşti tüýe
     kk-tr: aýır örkeşti tüýe
     ko: 쌍봉낙타
     ky: төө, эки өркөчтүү
@@ -274,7 +274,7 @@ dv_has_:
     mul: Camelus bactrianus
     mzn: د کولدار شتر
     nb: baktriakamel
-    nds-nl: kameel
+    nds_nl: kameel
     nl: kameel
     nn: baktriakamel
     nv: ghą́ą́ʼnaakiskʼidii
@@ -292,8 +292,8 @@ dv_has_:
     sl: dvogrba kamela
     sq: Camelus bactrianus
     sr: двогрба камила
-    sr-ec: двогрба камила
-    sr-el: dvogrba kamila
+    sr_ec: двогрба камила
+    sr_el: dvogrba kamila
     sv: baktrisk kamel
     szl: dwupuklato kamela
     ta: இரட்டைத்திமில் ஒட்டகம்
@@ -309,12 +309,12 @@ dv_has_:
     wuu: 双峰骆驼
     yue: 雙峰駱駝
     zh: 双峰驼
-    zh-cn: 双峰驼
-    zh-hans: 双峰驼
-    zh-hant: 雙峰駱駝
-    zh-hk: 雙峰駱駝
-    zh-sg: 双峰骆驼
-    zh-tw: 雙峰駱駝
+    zh_cn: 双峰驼
+    zh_hans: 双峰驼
+    zh_hant: 雙峰駱駝
+    zh_hk: 雙峰駱駝
+    zh_sg: 双峰骆驼
+    zh_tw: 雙峰駱駝
 ---
 # [[Bactrian_camel]] 🐫 
 

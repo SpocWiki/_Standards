@@ -8,7 +8,7 @@ dv_has_:
     az: müstəvi
     ba: яҫылыҡ
     be: плоскасць
-    be-tarask: роўніца
+    be_tarask: роўніца
     bg: равнина
     bn: সমতল
     bs: ravan
@@ -58,7 +58,7 @@ dv_has_:
     mg: lemaka
     mk: рамнина
     ms: satah
-    ms-arab: سطح
+    ms_arab: سطح
     nan: pîⁿ-bīn
     nb: plan
     nds: Flach
@@ -68,7 +68,7 @@ dv_has_:
     os: фæзой
     pl: płaszczyzna
     pt: plano
-    pt-br: plano
+    pt_br: plano
     qu: p'allta
     ro: plan
     ru: плоскость
@@ -80,14 +80,14 @@ dv_has_:
     sn: mutsendo
     sq: Rrafshi Euklidian
     sr: раван
-    sr-ec: раван
+    sr_ec: раван
     sv: plan
     ta: தளம்
     th: ระนาบ
     tl: plano
     tr: düzlem
     tt: яссылык
-    tt-cyrl: яссылык
+    tt_cyrl: яссылык
     uk: площина
     ur: مستوی
     uz: tekislik

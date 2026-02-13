@@ -95,7 +95,7 @@ dv_has_:
     az: simmetriya
     ba: симметрия
     be: сіметрыя
-    be-tarask: сымэтрыя
+    be_tarask: сымэтрыя
     bg: симетрия
     bn: প্রতিসাম্য
     br: simetriezh
@@ -160,7 +160,7 @@ dv_has_:
     pms: Simetrìa
     pnb: سوہنی پدھر
     pt: simetria
-    pt-br: simetria
+    pt_br: simetria
     qu: sanayway
     ro: simetrie
     ru: симметрия
@@ -190,7 +190,7 @@ dv_has_:
     yi: סימעטריע
     yue: 對稱
     zh: 對稱
-    zh-hant: 對稱
+    zh_hant: 對稱
 ---
 # [[Symmetry]] 
 

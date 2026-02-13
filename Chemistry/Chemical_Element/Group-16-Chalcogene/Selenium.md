@@ -164,7 +164,7 @@ dv_has_:
     ban: Sélénium
     bcl: Selenyo
     be: селен
-    be-tarask: сэлен
+    be_tarask: сэлен
     bg: селен
     bho: सेलीनियम
     blk: သီလီနီယမ်
@@ -182,12 +182,12 @@ dv_has_:
     cy: seleniwm
     da: selen
     de: Selen
-    de-ch: Selen
+    de_ch: Selen
     dv: ސެލެނިއަމް
     el: σελήνιο
     en: selenium
-    en-ca: Selenium
-    en-gb: selenium
+    en_ca: Selenium
+    en_gb: selenium
     eo: seleno
     es: selenio
     et: seleen
@@ -269,7 +269,7 @@ dv_has_:
     pnb: سلینیم
     ps: selenium
     pt: selénio
-    pt-br: selênio
+    pt_br: selênio
     qu: Silinyu
     ro: seleniu
     ru: селен
@@ -313,11 +313,11 @@ dv_has_:
     yo: Selenium
     yue: 硒
     zh: 硒
-    zh-cn: 硒
-    zh-hans: 硒
-    zh-hant: 硒
-    zh-hk: 硒
-    zh-tw: 硒
+    zh_cn: 硒
+    zh_hans: 硒
+    zh_hant: 硒
+    zh_hk: 硒
+    zh_tw: 硒
     zu: ISewezi
   number_of_:
     period: 4

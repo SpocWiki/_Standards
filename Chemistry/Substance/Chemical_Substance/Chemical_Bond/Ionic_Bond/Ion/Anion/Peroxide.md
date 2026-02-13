@@ -87,7 +87,7 @@ dv_has_:
     ast: peróxidu
     az: Peroksidlər
     be: Пераксіды
-    be-tarask: пэраксыд
+    be_tarask: пэраксыд
     bg: Пероксид
     bn: পারক্সাইড
     bs: Peroksidi
@@ -138,8 +138,8 @@ dv_has_:
     sk: Peroxid
     sl: peroksid
     sr: Пероксид
-    sr-ec: Пероксид
-    sr-el: Peroksid
+    sr_ec: Пероксид
+    sr_el: Peroksid
     sv: Peroxid
     ta: பெராக்சைடு
     tr: Peroksit
@@ -149,12 +149,12 @@ dv_has_:
     vi: Peroxide
     yue: 過氧化物
     zh: 过氧化物
-    zh-cn: 过氧化物
-    zh-hans: 过氧化物
-    zh-hant: 過氧化物
-    zh-hk: 過氧化物
-    zh-sg: 过氧化物
-    zh-tw: 過氧化物
+    zh_cn: 过氧化物
+    zh_hans: 过氧化物
+    zh_hant: 過氧化物
+    zh_hk: 過氧化物
+    zh_sg: 过氧化物
+    zh_tw: 過氧化物
 ---
 # [[Peroxide]] 
 

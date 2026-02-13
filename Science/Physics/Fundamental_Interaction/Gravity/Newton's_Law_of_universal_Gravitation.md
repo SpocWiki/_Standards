@@ -11,7 +11,7 @@ dv_has_:
     azb: جاذبه یاساسی
     ba: Ньютондың классик тартылыу теорияһы
     be: закон сусветнага прыцягнення
-    be-tarask: клясычная тэорыя прыцягненьня Ньютана
+    be_tarask: клясычная тэорыя прыцягненьня Ньютана
     bg: закон за всеобщото привличане
     bn: নিউটনের মহাকর্ষ সূত্র
     bs: Newtonov zakon gravitacije
@@ -45,11 +45,11 @@ dv_has_:
     ja: ニュートンの万有引力の法則
     ka: მსოფლიო მიზიდულობის კანონი
     kk: бүкіл әлемдік тартылыс заңы
-    kk-arab: بۇكىل الەمدىك تارتىلىس زاڭى
+    kk_arab: بۇكىل الەمدىك تارتىلىس زاڭى
     kk-cn: بۇكىل الەمدىك تارتىلىس زاڭى
-    kk-cyrl: Бүкіл әлемдік тартылыс заңы
+    kk_cyrl: Бүкіл әлемдік тартылыс заңы
     kk-kz: Бүкіл әлемдік тартылыс заңы
-    kk-latn: Bükil älemdik tartılıs zañı
+    kk_latn: Bükil älemdik tartılıs zañı
     kk-tr: Bükil älemdik tartılıs zañı
     ko: 만유인력의 법칙
     la: lex universalis gravitationis Newtoniana
@@ -84,8 +84,8 @@ dv_has_:
     sl: splošni gravitacijski zakon
     sq: ligji gravitacional universal i Njutonit
     sr: Њутнов закон гравитације
-    sr-ec: Њутнов закон гравитације
-    sr-el: Njutnov zakon gravitacije
+    sr_ec: Њутнов закон гравитације
+    sr_el: Njutnov zakon gravitacije
     sv: Newtons gravitationslag
     ta: நியூட்டனின் ஈர்ப்பு விதி
     te: న్యూటన్ విశ్వగురుత్వాకర్షణ సిద్ధాంతం
@@ -102,12 +102,12 @@ dv_has_:
     yo: òfin ìfàmọ́ra àgbáláayé Newton
     yue: 萬有引力定律
     zh: 牛顿万有引力定律
-    zh-cn: 万有引力定律
-    zh-hans: 牛顿万有引力定律
-    zh-hant: 牛頓萬有引力定律
-    zh-hk: 牛頓萬有引力定律
-    zh-sg: 牛顿万有引力定律
-    zh-tw: 牛頓萬有引力定律
+    zh_cn: 万有引力定律
+    zh_hans: 牛顿万有引力定律
+    zh_hant: 牛頓萬有引力定律
+    zh_hk: 牛頓萬有引力定律
+    zh_sg: 牛顿万有引力定律
+    zh_tw: 牛頓萬有引力定律
 aliases:
 - batas ng unibersal na grabitasyon ni Newton
 - Bükil älemdik tartılıs zañı

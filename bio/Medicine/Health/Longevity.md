@@ -71,7 +71,7 @@ dv_has_:
     ast: llonxevidá
     az: uzunömürlü
     ban: Dirga yusa
-    be-tarask: даўгалецьце
+    be_tarask: даўгалецьце
     bs: dugovječnost
     ca: longevitat
     cs: dlouhověkost
@@ -79,8 +79,8 @@ dv_has_:
     de: Langlebigkeit
     el: μακροζωία
     en: longevity
-    en-ca: longevity
-    en-gb: longevity
+    en_ca: longevity
+    en_gb: longevity
     eo: longviveco
     es: longevidad
     et: pikaealisus
@@ -117,9 +117,9 @@ dv_has_:
     vi: tuổi thọ
     yue: 長命
     zh: 壽命
-    zh-hans: 寿命
-    zh-hant: 壽命
-    zh-hk: 壽命
+    zh_hans: 寿命
+    zh_hant: 壽命
+    zh_hk: 壽命
 ---
 # [[Longevity]] 
 

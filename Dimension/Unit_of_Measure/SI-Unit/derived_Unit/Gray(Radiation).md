@@ -65,7 +65,7 @@ dv_has_:
   name_:
     ar: غراي
     be: грэй
-    be-tarask: грэй
+    be_tarask: грэй
     bg: грей
     bn: গ্রে (একক)
     bs: Grej
@@ -117,8 +117,8 @@ dv_has_:
     sk: gray
     sl: grej
     sr: греј
-    sr-ec: греј
-    sr-el: grej
+    sr_ec: греј
+    sr_el: grej
     sv: gray
     ta: கிரே
     tg: Грэй
@@ -129,14 +129,14 @@ dv_has_:
     wuu: 戈瑞
     yue: 格雷
     zh: 戈瑞
-    zh-cn: 戈瑞
-    zh-hans: 戈瑞
-    zh-hant: 戈雷
-    zh-hk: 戈瑞
-    zh-mo: 戈瑞
+    zh_cn: 戈瑞
+    zh_hans: 戈瑞
+    zh_hant: 戈雷
+    zh_hk: 戈瑞
+    zh_mo: 戈瑞
     zh-my: 戈瑞
-    zh-sg: 戈瑞
-    zh-tw: 戈雷
+    zh_sg: 戈瑞
+    zh_tw: 戈雷
 ---
 # [[Gray(Radiation)]] 
 

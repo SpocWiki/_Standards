@@ -4,7 +4,7 @@ dv_has_:
     ab: Бангладеш
     ace: Bangladesh
     ady: Бангладеш
-    aeb-arab: بنڨلاديش
+    aeb_arab: بنڨلاديش
     af: Bangladesj
     am: ባንግላዴሽ
     ami: Bangladesh
@@ -27,7 +27,7 @@ dv_has_:
     bar: Bangladesch
     bcl: Banglades
     be: Бангладэш
-    be-tarask: Банглядэш
+    be_tarask: Банглядэш
     bew: Benggaladésa
     bg: Бангладеш
     bgn: بنگلادیش
@@ -45,7 +45,7 @@ dv_has_:
     btm: Bangladesh
     bxr: Бангладеш
     ca: Bangladesh
-    cbk-zam: Bangladesh
+    cbk_zam: Bangladesh
     cdo: Bangladesh
     ce: Бангладеш
     ceb: Bangladesh
@@ -54,7 +54,7 @@ dv_has_:
     ckb: بەنگلادێش
     co: Bangladesh
     crh: Bangladeş
-    crh-latn: Bangladeş
+    crh_latn: Bangladeş
     cs: Bangladéš
     csb: Bangladesz
     cv: Бангладеш
@@ -63,7 +63,7 @@ dv_has_:
     dag: Bangladesh
     de: Bangladesch
     de-at: Bangladesch
-    de-ch: Bangladesch
+    de_ch: Bangladesch
     diq: Bengladeş
     dsb: Bangladeš
     dtp: Bangladesh
@@ -72,8 +72,8 @@ dv_has_:
     dz: བངྒ་ལ་དེཤ
     el: Μπανγκλαντές
     en: Bangladesh
-    en-ca: Bangladesh
-    en-gb: Bangladesh
+    en_ca: Bangladesh
+    en_gb: Bangladesh
     en-us: Bangladesh
     eo: Bangladeŝo
     es: Bangladés
@@ -100,7 +100,7 @@ dv_has_:
     gn: Vangyladẽ
     gom: बांगलादेश
     gom-deva: बांगलादेश
-    gom-latn: Bangladesh
+    gom_latn: Bangladesh
     gor: Bangladesh
     gpe: Bangladesh
     gsw: Bangladesch
@@ -170,7 +170,7 @@ dv_has_:
     lzh: 孟加拉國
     mad: Bangladesh
     mai: बंगलादेश
-    map-bms: Bangladesh
+    map_bms: Bangladesh
     mdf: Бангладэш
     mg: Bangladesy
     mhr: Бангладеш
@@ -192,7 +192,7 @@ dv_has_:
     nan: Bangladesh
     nb: Bangladesh
     nds: Bangladesch
-    nds-nl: Bangladesh
+    nds_nl: Bangladesh
     ne: बंगलादेश
     new: बंगलादेश
     nia: Bangladesh
@@ -217,7 +217,7 @@ dv_has_:
     pnb: بنگلا دیش
     ps: بنګله دېش
     pt: Bangladesh
-    pt-br: Bangladesh
+    pt_br: Bangladesh
     qu: Banladish
     rki: ဘင်္ဂလားဒေ့ရှ်နိုင်ငံ
     rm: Bangladesch
@@ -251,8 +251,8 @@ dv_has_:
     so: Bangaladhesh
     sq: Bangladeshi
     sr: Бангладеш
-    sr-ec: Бангладеш
-    sr-el: Bangladeš
+    sr_ec: Бангладеш
+    sr_el: Bangladeš
     ss: IBhangladeshi
     st: Bangladesh
     stq: Bangladesch
@@ -268,7 +268,7 @@ dv_has_:
     te: బంగ్లాదేశ్
     tet: Bangladexe
     tg: Банглодеш
-    tg-latn: Banglodeş
+    tg_latn: Banglodeş
     th: ประเทศบังกลาเทศ
     ti: ባንግላደሽ
     tk: Bangladeş
@@ -308,14 +308,14 @@ dv_has_:
     zea: Bangladesh
     zgh: ⴱⴰⵏⴳⵍⴰⴷⵉⵛ
     zh: 孟加拉國
-    zh-cn: 孟加拉国
-    zh-hans: 孟加拉国
-    zh-hant: 孟加拉國
-    zh-hk: 孟加拉國
-    zh-mo: 孟加拉國
+    zh_cn: 孟加拉国
+    zh_hans: 孟加拉国
+    zh_hant: 孟加拉國
+    zh_hk: 孟加拉國
+    zh_mo: 孟加拉國
     zh-my: 孟加拉国
-    zh-sg: 孟加拉国
-    zh-tw: 孟加拉
+    zh_sg: 孟加拉国
+    zh_tw: 孟加拉
     zu: i-Bangladesh
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Bangladesh

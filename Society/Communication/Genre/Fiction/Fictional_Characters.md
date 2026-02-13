@@ -167,7 +167,7 @@ dv_has_:
     az: personaj
     ba: персонаж
     be: персанаж
-    be-tarask: пэрсанаж
+    be_tarask: пэрсанаж
     bn: কাল্পনিক চরিত্র
     br: tudenn faltazi
     bs: lik
@@ -179,7 +179,7 @@ dv_has_:
     cy: cymeriad ffuglennol
     da: fiktiv figur
     de: fiktiver Charakter
-    de-ch: literarische Figur
+    de_ch: literarische Figur
     el: φανταστικός χαρακτήρας
     en: character
     eo: fikciulo
@@ -220,7 +220,7 @@ dv_has_:
     mk: измислен лик
     ml: കഥാപാത്രം
     ms: watak cereka
-    ms-arab: واتق چريک
+    ms_arab: واتق چريک
     my: ကာတွန်းဇာတ်ကောင်
     nb: rollefigur
     nds: fiktive Figur
@@ -232,7 +232,7 @@ dv_has_:
     pa: ਪਾਤਰ
     pl: postać fikcyjna
     pt: personagem fictício
-    pt-br: personagem fictício
+    pt_br: personagem fictício
     ro: personaj fictiv
     ru: персонаж в искусстве
     scn: pirsunaggiu di fantasìa
@@ -253,7 +253,7 @@ dv_has_:
     tok: ijo li lon musi taso
     tr: kurgusal karakter
     tt: персонаж
-    tt-cyrl: персонаж
+    tt_cyrl: персонаж
     uk: вигаданий персонаж
     ur: افسانوی کردار
     uz: personaj
@@ -263,9 +263,9 @@ dv_has_:
     yi: פיקטיווער כאראקטער
     yue: 角色
     zh: 虚构角色
-    zh-hant: 虛構角色
-    zh-hk: 虛構角色
-    zh-tw: 虛構角色
+    zh_hant: 虛構角色
+    zh_hk: 虛構角色
+    zh_tw: 虛構角色
 ---
 # [[Fictional_Characters]] 
 

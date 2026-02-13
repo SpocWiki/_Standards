@@ -9,7 +9,7 @@ dv_has_:
     ast: antropólogu
     az: antropoloq
     be: антраполаг
-    be-tarask: антраполяг
+    be_tarask: антраполяг
     bg: антрополог
     bn: নৃতত্ত্ববিদ
     br: antropologour
@@ -17,17 +17,17 @@ dv_has_:
     ceb: antropologo
     ckb: مرۆڤناس
     crh: beşeriyatçı (antropolog)
-    crh-latn: beşeriyatçı (antropolog)
+    crh_latn: beşeriyatçı (antropolog)
     cs: antropolog
     cy: anthropolegydd
     da: antropolog
     de: Anthropologe
     de-at: Anthropologe
-    de-ch: Anthropologe
+    de_ch: Anthropologe
     el: ανθρωπολόγος
     en: anthropologist
-    en-ca: anthropologist
-    en-gb: anthropologist
+    en_ca: anthropologist
+    en_gb: anthropologist
     en-us: anthropologist
     eo: antropologo
     es: antropólogo
@@ -58,7 +58,7 @@ dv_has_:
     kn: ಮಾನವ ಶಾಸ್ತ್ರತಜ್ಞ
     ko: 인류학자
     ku: mirovnas
-    ku-latn: mirovnas
+    ku_latn: mirovnas
     kw: anthropologydh
     la: anthropologus
     lb: Anthropolog
@@ -68,7 +68,7 @@ dv_has_:
     mi: tohunga tikanga tangata
     mk: антрополог
     ms: ahli antropologi
-    ms-arab: اهلي انتروڤولوݢي
+    ms_arab: اهلي انتروڤولوݢي
     mt: antropologu
     nb: antropolog
     nl: antropoloog
@@ -81,7 +81,7 @@ dv_has_:
     pap: antropólogo
     pl: antropolog
     pt: antropólogo
-    pt-br: antropólogo
+    pt_br: antropólogo
     ro: antropolog
     ru: антрополог
     sah: антрополог
@@ -95,8 +95,8 @@ dv_has_:
     sms: antropoloog
     so: Anthrobologist
     sr: антрополог
-    sr-ec: антрополог
-    sr-el: antropolog
+    sr_ec: антрополог
+    sr_el: antropolog
     sv: antropolog
     ta: மானிடவியலர்
     tg: инсоншинос
@@ -111,11 +111,11 @@ dv_has_:
     yi: אנטראפאלאג
     yue: 人類學家
     zh: 人类学家
-    zh-cn: 人类学家
-    zh-hans: 人类学家
-    zh-hant: 人類學家
-    zh-hk: 人類學家
-    zh-tw: 人類學家
+    zh_cn: 人类学家
+    zh_hans: 人类学家
+    zh_hant: 人類學家
+    zh_hk: 人類學家
+    zh_tw: 人類學家
 aliases:
 - ahli antropologi
 - amusnaw n leɛbad

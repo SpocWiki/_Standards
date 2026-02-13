@@ -300,7 +300,7 @@ dv_has_:
     ban: Macan tutul
     bcl: Leopardo
     be: леапард
-    be-tarask: леапард
+    be_tarask: леапард
     bg: леопард
     bm: Waraninkalan
     bn: চিতাবাঘ
@@ -328,7 +328,7 @@ dv_has_:
     el: Γατόπαρδος
     eml: Leupàrd
     en: leopard
-    en-gb: leopard
+    en_gb: leopard
     eo: Leopardo
     es: leopardo
     et: leopard
@@ -476,10 +476,10 @@ dv_has_:
     za: Duzbeuq
     zgh: ⴰⵎⴰⵢⴰⵙ
     zh: 豹
-    zh-cn: 豹
-    zh-hans: 豹
-    zh-hant: 豹
-    zh-tw: 豹
+    zh_cn: 豹
+    zh_hans: 豹
+    zh_hant: 豹
+    zh_tw: 豹
 ---
 # [[Leopard]] 🐆 
 

@@ -107,7 +107,7 @@ dv_has_:
     azb: آمپر
     bar: Ampere
     be: ампер
-    be-tarask: ампэр
+    be_tarask: ампэр
     bg: Ампер
     bn: অ্যাম্পিয়ার
     bo: ཨམ་ཕེར།
@@ -125,7 +125,7 @@ dv_has_:
     diq: amper
     el: αμπέρ
     en: ampere
-    en-gb: ampere
+    en_gb: ampere
     eo: ampero
     es: amperio
     et: amper
@@ -176,7 +176,7 @@ dv_has_:
     mn: ампер
     mr: अँपियर
     ms: ampere
-    ms-arab: امڤيئر
+    ms_arab: امڤيئر
     mt: ampere
     mul: ampère
     my: အမ်ပီယာ
@@ -207,7 +207,7 @@ dv_has_:
     so: ambeer
     sq: amperi
     sr: ампер
-    sr-ec: Ампер
+    sr_ec: Ампер
     sv: ampere
     sw: ampea
     ta: ஆம்பியர்
@@ -217,7 +217,7 @@ dv_has_:
     tl: amperyo
     tr: amper
     tt: ампер
-    tt-cyrl: ампер
+    tt_cyrl: ампер
     tyv: Ампер
     udm: ампер
     uk: ампер
@@ -231,14 +231,14 @@ dv_has_:
     yue: 安培
     za: anhbeiz
     zh: 安培
-    zh-cn: 安培
-    zh-hans: 安培
-    zh-hant: 安培
-    zh-hk: 安培
-    zh-mo: 安培
+    zh_cn: 安培
+    zh_hans: 安培
+    zh_hant: 安培
+    zh_hk: 安培
+    zh_mo: 安培
     zh-my: 安培
-    zh-sg: 安培
-    zh-tw: 安培
+    zh_sg: 安培
+    zh_tw: 安培
 ---
 # [[Unit~Ampere]] 
 

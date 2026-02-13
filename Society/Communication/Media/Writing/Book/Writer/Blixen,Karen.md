@@ -126,7 +126,7 @@ dv_has_:
     azb: کارن بلیکسن
     ba: Карен Бликсен
     be: Карэн Бліксен
-    be-tarask: Карэн Бліксэн
+    be_tarask: Карэн Бліксэн
     bg: Карен Бликсен
     bn: কারেন ব্লিক্সেন
     br: Karen Blixen
@@ -135,12 +135,12 @@ dv_has_:
     cy: Karen Blixen
     da: Karen Blixen
     de: Karen Blixen
-    de-ch: Karen Blixen
+    de_ch: Karen Blixen
     ee: Karen Blixen
     el: Κάρεν Μπλίξεν
     en: Karen Blixen
-    en-ca: Karen Blixen
-    en-gb: Karen Blixen
+    en_ca: Karen Blixen
+    en_gb: Karen Blixen
     eo: Karen Blixen
     es: Karen Blixen
     et: Karen Blixen
@@ -181,7 +181,7 @@ dv_has_:
     pl: Karen Blixen
     pms: Karen Blixen
     pt: Karen Blixen
-    pt-br: Karen Blixen
+    pt_br: Karen Blixen
     ro: Karen Blixen
     ru: Карен Бликсен
     sco: Karen Blixen
@@ -191,8 +191,8 @@ dv_has_:
     sl: Karen Blixen
     sq: Karen Blixen
     sr: Карен Бликсен
-    sr-ec: Карен Бликсен
-    sr-el: Karen Bliksen
+    sr_ec: Карен Бликсен
+    sr_el: Karen Bliksen
     sv: Karen Blixen
     sw: Karen Blixen
     tr: Karen Blixen
@@ -204,12 +204,12 @@ dv_has_:
     xmf: კარენ ბლიქსენი
     yue: 凱倫·白列森
     zh: 凯伦·布里克森
-    zh-cn: 凯伦·布里克森
-    zh-hans: 凯伦·布里克森
-    zh-hant: 凱倫·白列森
-    zh-hk: 凱倫·白列森
-    zh-sg: 凯伦·布里克森
-    zh-tw: 凱倫·白列森
+    zh_cn: 凯伦·布里克森
+    zh_hans: 凯伦·布里克森
+    zh_hant: 凱倫·白列森
+    zh_hk: 凱倫·白列森
+    zh_sg: 凯伦·布里克森
+    zh_tw: 凱倫·白列森
 ---
 # [[Blixen,Karen]] 
 

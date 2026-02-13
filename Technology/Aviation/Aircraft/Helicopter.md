@@ -148,7 +148,7 @@ dv_has_:
     azb: هلیکوپتر
     bcl: Helikopter
     be: верталёт
-    be-tarask: верталёт
+    be_tarask: верталёт
     bew: hèlikupter
     bg: хеликоптер
     bn: হেলিকপ্টার
@@ -165,8 +165,8 @@ dv_has_:
     de: Hubschrauber
     el: ελικόπτερο
     en: helicopter
-    en-ca: helicopter
-    en-gb: helicopter
+    en_ca: helicopter
+    en_gb: helicopter
     eo: helikoptero
     es: helicóptero
     et: kopter
@@ -264,7 +264,7 @@ dv_has_:
     tl: Helikopter
     tr: helikopter
     tt: боралак
-    tt-cyrl: боралак
+    tt_cyrl: боралак
     tyv: Вертолёт
     udm: вертолёт
     uk: гелікоптер
@@ -279,10 +279,10 @@ dv_has_:
     yue: 直升機
     za: Rokmbin hwnj raez
     zh: 直升機
-    zh-cn: 直升机
-    zh-hans: 直升机
-    zh-hant: 直升機
-    zh-tw: 直升機
+    zh_cn: 直升机
+    zh_hans: 直升机
+    zh_hant: 直升機
+    zh_tw: 直升機
 ---
 # [[Helicopter]] 🚁 
 

@@ -94,7 +94,7 @@ dv_has_:
     ba: Ванна
     bar: Bodwann
     be: ванна
-    be-tarask: ванна
+    be_tarask: ванна
     bg: Вана
     br: Kibell
     ca: banyera
@@ -102,11 +102,11 @@ dv_has_:
     cs: vana
     da: badekar
     de: Badewanne
-    de-ch: Badewanne
+    de_ch: Badewanne
     el: μπανιέρα
     en: bathtub
-    en-ca: Bathtub
-    en-gb: bathtub
+    en_ca: Bathtub
+    en_gb: bathtub
     eo: banujo
     es: bañera
     et: vann
@@ -130,11 +130,11 @@ dv_has_:
     jv: Jedhing
     ka: აბაზანა
     kk: Ванна
-    kk-arab: ۆاننا
+    kk_arab: ۆاننا
     kk-cn: ۆاننا
-    kk-cyrl: Ванна
+    kk_cyrl: Ванна
     kk-kz: Ванна
-    kk-latn: Vanna
+    kk_latn: Vanna
     kk-tr: Vanna
     ko: 욕조
     ksh: Büdd
@@ -146,12 +146,12 @@ dv_has_:
     mk: када
     nan: E̍k-tháng
     nb: badekar
-    nds-nl: badkupe
+    nds_nl: badkupe
     nl: badkuip
     nn: badekar
     pl: Wanna kąpielowa
     pt: banheira
-    pt-br: Banheira
+    pt_br: Banheira
     qu: Ch'illami
     ro: Cadă
     ru: ванна
@@ -175,12 +175,12 @@ dv_has_:
     yi: וואנע
     yue: 沖涼缸
     zh: 浴缸
-    zh-cn: 浴缸
-    zh-hans: 浴缸
-    zh-hant: 浴缸
-    zh-hk: 浴缸
-    zh-sg: 浴缸
-    zh-tw: 浴缸
+    zh_cn: 浴缸
+    zh_hans: 浴缸
+    zh_hant: 浴缸
+    zh_hk: 浴缸
+    zh_sg: 浴缸
+    zh_tw: 浴缸
 ---
 # [[Bathtub]] 🛁 
 

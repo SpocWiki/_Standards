@@ -7,7 +7,7 @@ dv_has_:
     az: Koma (yaşayış yeri)
     bar: Hittn
     bcl: Payag
-    be-tarask: хаціна
+    be_tarask: хаціна
     bg: Колиба
     bjn: Rarompok
     bxr: Обоохой
@@ -16,10 +16,10 @@ dv_has_:
     cv: Хӳшĕ
     cy: cut
     de: Hütte
-    de-ch: Hütte
+    de_ch: Hütte
     en: hut
-    en-ca: Hut
-    en-gb: hut
+    en_ca: Hut
+    en_gb: hut
     eo: kabano
     es: choza
     et: Onn
@@ -52,7 +52,7 @@ dv_has_:
     os: Къæс
     pl: szałas
     pt: cabana
-    pt-br: Mucambo
+    pt_br: Mucambo
     ru: лачуга
     scn: Pagghiaru
     sh: koliba

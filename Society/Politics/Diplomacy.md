@@ -147,7 +147,7 @@ dv_has_:
     ba: Дипломатия
     bcl: diplomasya
     be: дыпламатыя
-    be-tarask: дыпляматыя
+    be_tarask: дыпляматыя
     bg: Дипломация
     bn: কূটনীতি
     bo: ཕྱི་འབྲིལ།
@@ -165,8 +165,8 @@ dv_has_:
     de: Diplomatie
     el: διπλωματία
     en: diplomacy
-    en-ca: diplomacy
-    en-gb: diplomacy
+    en_ca: diplomacy
+    en_gb: diplomacy
     eo: diplomatio
     es: diplomacia
     et: diplomaatia
@@ -207,7 +207,7 @@ dv_has_:
     ko: 외교
     krc: Дипломатия
     ku: dîplomasî
-    ku-latn: dîplomasî
+    ku_latn: dîplomasî
     kw: Lyskanasedh
     ky: Дипломатия
     la: diplomatia
@@ -223,7 +223,7 @@ dv_has_:
     mn: Дипломат ёс
     mr: राजनय
     ms: diplomasi
-    ms-arab: ديڤلوماسي
+    ms_arab: ديڤلوماسي
     mwl: diplomacie
     nan: Goā-kau
     nap: dipromazzia
@@ -244,7 +244,7 @@ dv_has_:
     pnb: ڈپلومیسی
     ps: ديپلوماسي
     pt: diplomacia
-    pt-br: diplomacia
+    pt_br: diplomacia
     ro: diplomație
     ru: дипломатия
     rue: Діпломація
@@ -285,11 +285,11 @@ dv_has_:
     yi: דיפלאמאטיע
     yue: 外交
     zh: 外交
-    zh-cn: 外交
-    zh-hans: 外交
-    zh-hant: 外交
-    zh-hk: 外交
-    zh-tw: 外交
+    zh_cn: 外交
+    zh_hans: 外交
+    zh_hant: 外交
+    zh_hk: 外交
+    zh_tw: 外交
     zu: Ucebediso
 ---
 # [[Diplomacy]] 

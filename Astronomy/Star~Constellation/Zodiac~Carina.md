@@ -109,7 +109,7 @@ dv_has_:
     az: Kil
     ba: Киль
     be: Кіль
-    be-tarask: Кіль
+    be_tarask: Кіль
     bg: Кил
     bn: ক্যারিনা মণ্ডল
     br: Karenn

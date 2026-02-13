@@ -49,9 +49,9 @@ dv_has_:
     uk: Toei Animation
     vi: Toei Animation
     zh: 东映动画
-    zh-hans: 东映动画
-    zh-hant: 東映動畫
-    zh-hk: 東映動畫
+    zh_hans: 东映动画
+    zh_hant: 東映動畫
+    zh_hk: 東映動畫
 aliases:
 - Toei
 - Toei Animation

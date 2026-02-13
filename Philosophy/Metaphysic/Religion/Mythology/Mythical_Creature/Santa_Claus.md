@@ -213,7 +213,7 @@ dv_has_:
     az: Şaxta Baba
     bcl: Santa Claus
     be: Санта-Клаус
-    be-tarask: Санта-Кляўс
+    be_tarask: Санта-Кляўс
     bew: Sinyokolas
     bg: Дядо Коледа
     bho: सैंटा क्लॉज
@@ -282,7 +282,7 @@ dv_has_:
     nan: Sèng-tàn Lāu-lâng
     nb: Julenissen
     nds: Wiehnachtsmann
-    nds-nl: Kìrstman
+    nds_nl: Kìrstman
     nl: Kerstman
     nn: Julenissen
     nrm: Papa Noué
@@ -292,7 +292,7 @@ dv_has_:
     pfl: Belseniggel
     pl: Święty Mikołaj
     pt: Pai Natal
-    pt-br: Papai Noel
+    pt_br: Papai Noel
     ro: Moș Crăciun
     ru: Санта-Клаус
     sc: Santa Claus
@@ -328,9 +328,9 @@ dv_has_:
     yi: סאנטא קלאס
     yue: 聖誕老人
     zh: 聖誕老人
-    zh-hant: 聖誕老人
-    zh-hk: 聖誕老人
-    zh-tw: 聖誕老人
+    zh_hant: 聖誕老人
+    zh_hk: 聖誕老人
+    zh_tw: 聖誕老人
 ---
 # [[Santa_Claus]] 
 

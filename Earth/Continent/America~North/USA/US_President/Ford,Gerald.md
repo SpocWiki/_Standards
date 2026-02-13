@@ -86,7 +86,7 @@ dv_has_:
     bar: Gerald Ford
     bcl: Gerald Ford
     be: Джэральд Рудальф Форд
-    be-tarask: Джэралд Рудалф Форд
+    be_tarask: Джэралд Рудалф Форд
     bg: Джералд Форд
     bi: Gerald Ford
     bn: জেরাল্ড ফোর্ড
@@ -105,13 +105,13 @@ dv_has_:
     da: Gerald Ford
     dag: Gerald Ford
     de: Gerald Ford
-    de-ch: Gerald Ford
+    de_ch: Gerald Ford
     diq: Gerald Ford
     dtp: Gerald Ford
     el: Τζέραλντ Φορντ
     en: Gerald Ford
-    en-ca: Gerald Ford
-    en-gb: Gerald Ford
+    en_ca: Gerald Ford
+    en_gb: Gerald Ford
     eo: Gerald Ford
     es: Gerald Ford
     et: Gerald Ford
@@ -189,7 +189,7 @@ dv_has_:
     pnb: جیرالڈ فورڈ
     ps: جیرالد رودولف فورډ
     pt: Gerald Ford
-    pt-br: Gerald Ford
+    pt_br: Gerald Ford
     qu: Gerald Ford
     rm: Gerald Ford
     rmf: Gerald Ford
@@ -213,8 +213,8 @@ dv_has_:
     so: Gerald Ford
     sq: Gerald Ford
     sr: Џералд Форд
-    sr-ec: Џералд Форд
-    sr-el: Džerald Ford
+    sr_ec: Џералд Форд
+    sr_el: Džerald Ford
     sv: Gerald Ford
     sw: Gerald Ford
     ta: ஜெரால்ட் ஃபோர்ட்

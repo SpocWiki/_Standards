@@ -126,7 +126,7 @@ dv_has_:
     ba: Маджуро
     ban: Majuro
     be: Маджура
-    be-tarask: Маджура
+    be_tarask: Маджура
     bg: Маджуро
     bn: মাজুরো
     bo: མ་ཇུ་རོ།
@@ -141,8 +141,8 @@ dv_has_:
     de: Majuro
     el: Ματζούρο
     en: Majuro
-    en-ca: Majuro
-    en-gb: Majuro
+    en_ca: Majuro
+    en_gb: Majuro
     eo: Majuro
     es: Majuro
     et: Majuro atoll
@@ -237,9 +237,9 @@ dv_has_:
     xmf: მაჯურო
     yue: 馬祖盧
     zh: 馬久羅
-    zh-cn: 马朱罗
-    zh-hans: 马朱罗
-    zh-hant: 馬久羅
+    zh_cn: 马朱罗
+    zh_hans: 马朱罗
+    zh_hant: 馬久羅
     zu: i-Majuro
 ---
 # [[Majuro]] 

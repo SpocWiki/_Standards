@@ -112,7 +112,7 @@ dv_has_:
     ast: Llibertá de cultu
     azb: دین اؤزگورلوغو
     be: свабода веравызнання
-    be-tarask: свабода вераваньняў
+    be_tarask: свабода вераваньняў
     bg: Свобода на вероизповеданието
     bn: ধর্মীয় স্বাধীনতা
     bo: ཆོས་དད་རང་མོས།
@@ -148,11 +148,11 @@ dv_has_:
     ja: 信教の自由
     ka: რელიგიის თავისუფლება
     kk: Діни сенім бостандығы құқығы
-    kk-arab: ٴدىنىي سەنىم بوستاندىعى قۇقىعى
+    kk_arab: ٴدىنىي سەنىم بوستاندىعى قۇقىعى
     kk-cn: ٴدىنىي سەنىم بوستاندىعى قۇقىعى
-    kk-cyrl: Діни сенім бостандығы құқығы
+    kk_cyrl: Діни сенім бостандығы құқығы
     kk-kz: Діни сенім бостандығы құқығы
-    kk-latn: Dinï senim bostandığı quqığı
+    kk_latn: Dinï senim bostandığı quqığı
     kk-tr: Dinï senim bostandığı quqığı
     ko: 종교의 자유
     la: Libertas religionis
@@ -183,8 +183,8 @@ dv_has_:
     sms: åskldõkluõvâsvuõtt
     sq: Liria e fesë
     sr: Sloboda vjeroispovjesti
-    sr-ec: Слобода вјероисповјести
-    sr-el: Sloboda vjeroispovjesti
+    sr_ec: Слобода вјероисповјести
+    sr_el: Sloboda vjeroispovjesti
     sv: religionsfrihet
     sw: Uhuru wa dini
     ta: சமயச் சுதந்திரம்
@@ -197,14 +197,14 @@ dv_has_:
     wuu: 宗教自由
     yue: 宗教自由
     zh: 宗教自由
-    zh-cn: 宗教自由
-    zh-hans: 宗教自由
-    zh-hant: 宗教自由
-    zh-hk: 宗教自由
-    zh-mo: 宗教自由
+    zh_cn: 宗教自由
+    zh_hans: 宗教自由
+    zh_hant: 宗教自由
+    zh_hk: 宗教自由
+    zh_mo: 宗教自由
     zh-my: 宗教自由
-    zh-sg: 宗教自由
-    zh-tw: 宗教自由
+    zh_sg: 宗教自由
+    zh_tw: 宗教自由
 ---
 # [[Freedom_of_Religion]] 
 

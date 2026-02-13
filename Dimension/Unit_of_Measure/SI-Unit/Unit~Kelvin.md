@@ -104,7 +104,7 @@ dv_has_:
     ban: Kelvin
     bcl: Kelvin
     be: Кельвін
-    be-tarask: Кельвін
+    be_tarask: Кельвін
     bg: Келвин
     bn: কেলভিন
     bo: ཁེལ།
@@ -121,8 +121,8 @@ dv_has_:
     de: Kelvin
     el: Κλίμακα Κέλβιν
     en: kelvin
-    en-ca: Kelvin
-    en-gb: kelvin
+    en_ca: Kelvin
+    en_gb: kelvin
     eo: kelvino
     es: kelvin
     et: kelvin
@@ -176,7 +176,7 @@ dv_has_:
     mn: Кельвин
     mr: केल्व्हिन
     ms: kelvin
-    ms-arab: کيلۏين
+    ms_arab: کيلۏين
     mt: kelvin
     mwl: kelvin
     my: ကယ်လ်ဗင်
@@ -193,7 +193,7 @@ dv_has_:
     pms: Kelvin
     pnb: کیلون
     pt: Kelvin
-    pt-br: Kelvin
+    pt_br: Kelvin
     ro: kelvin
     ru: кельвин
     rue: Келвин
@@ -228,14 +228,14 @@ dv_has_:
     wuu: 开尔文
     yue: 開氏
     zh: 开尔文
-    zh-cn: 开尔文
-    zh-hans: 开尔文
-    zh-hant: 克耳文
-    zh-hk: 開爾文
-    zh-mo: 開爾文
+    zh_cn: 开尔文
+    zh_hans: 开尔文
+    zh_hant: 克耳文
+    zh_hk: 開爾文
+    zh_mo: 開爾文
     zh-my: 开尔文
-    zh-sg: 开尔文
-    zh-tw: 克耳文
+    zh_sg: 开尔文
+    zh_tw: 克耳文
 ---
 # [[Unit~Kelvin]] 
 

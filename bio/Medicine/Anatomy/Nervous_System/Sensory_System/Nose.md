@@ -203,8 +203,8 @@ MeSH_tree_code:
 UMLS_CUI: C0028429
 dv_has_:
   name_:
-    aeb-arab: خشم
-    aeb-latn: 5ch'am
+    aeb_arab: خشم
+    aeb_latn: 5ch'am
     af: neus
     ak: ewini
     am: አፍንጫ
@@ -227,7 +227,7 @@ dv_has_:
     ban: Irung
     bcl: dungo
     be: нос
-    be-tarask: нос
+    be_tarask: нос
     bew: idung
     bg: нос
     bjn: hidung
@@ -250,15 +250,15 @@ dv_has_:
     da: næse
     dag: nyee
     de: Nase
-    de-ch: Nase
+    de_ch: Nase
     diq: pırnıke
     dtp: todung
     dv: ނޭފަތް
     ee: mnotee
     el: μύτη
     en: nose
-    en-ca: nose
-    en-gb: nose
+    en_ca: nose
+    en_gb: nose
     eo: nazo
     es: nariz
     et: nina
@@ -340,7 +340,7 @@ dv_has_:
     nan: phīⁿ
     nb: nese
     nds: Nees
-    nds-nl: neuze
+    nds_nl: neuze
     ne: नाक
     new: न्हाय्
     nia: Ikhu
@@ -357,7 +357,7 @@ dv_has_:
     pnt: μυτίν
     ps: پوزه
     pt: nariz
-    pt-br: nariz
+    pt_br: nariz
     pwn: ngudjus
     qu: sinqa
     rki: နှာခေါင်း
@@ -400,7 +400,7 @@ dv_has_:
     tok: nena
     tr: burun
     tt: борын
-    tt-cyrl: борын
+    tt_cyrl: борын
     udm: ныр
     ug: بۇرۇن
     uk: ніс
@@ -418,11 +418,11 @@ dv_has_:
     yue: 鼻
     za: ndaeng
     zh: 鼻
-    zh-cn: 鼻
-    zh-hans: 鼻
-    zh-hant: 鼻
-    zh-hk: 鼻
-    zh-tw: 鼻
+    zh_cn: 鼻
+    zh_hans: 鼻
+    zh_hant: 鼻
+    zh_hk: 鼻
+    zh_tw: 鼻
 ---
 # [[Nose]] 👃 
 

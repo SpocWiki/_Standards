@@ -139,7 +139,7 @@ dv_has_:
     az: Koronavirus xəstəliyi
     azb: کرونا ویروس خستهلیغی ۲۰۱۹
     be: каранавірусная хвароба COVID-19
-    be-tarask: каранавірусная інфэкцыя (2019)
+    be_tarask: каранавірусная інфэкцыя (2019)
     bg: Коронавирусна болест 2019
     bho: कोविड-19
     bjn: Panyakit koronavirus 2019
@@ -209,7 +209,7 @@ dv_has_:
     mnw: ယဲကဝ်ရဝ်နာဝဳရုသ် ၂၀၁၉
     mr: कोरोना व्हायरस रोग २०१९
     ms: Penyakit koronavirus 2019
-    ms-arab: کوۏيد-19
+    ms_arab: کوۏيد-19
     mul: COVID-19
     my: ကိုရိုနာဗိုင်းရပ်စ် ရောဂါ ၂၀၁၉
     mzn: کرونا
@@ -265,14 +265,14 @@ dv_has_:
     za: Bwtbingh binghdoeg gvanhcang yienghmoq
     zgh: ⴰⵟⵟⴰⵏ ⵏ ⴽⵓⵔⵓⵏⴰⴼⵉⵔⵓⵙ 2019
     zh: 2019冠状病毒病
-    zh-cn: 2019冠状病毒病
-    zh-hans: 2019冠状病毒病
-    zh-hant: 2019冠狀病毒病
-    zh-hk: 2019冠狀病毒病
-    zh-mo: 2019冠狀病毒病
+    zh_cn: 2019冠状病毒病
+    zh_hans: 2019冠状病毒病
+    zh_hant: 2019冠狀病毒病
+    zh_hk: 2019冠狀病毒病
+    zh_mo: 2019冠狀病毒病
     zh-my: 2019冠状病毒病
-    zh-sg: 2019冠状病毒疾病
-    zh-tw: 嚴重特殊傳染性肺炎
+    zh_sg: 2019冠状病毒疾病
+    zh_tw: 嚴重特殊傳染性肺炎
     zu: Coronavirus disease 2019
 ---
 #has_/time_/started :: 2019-12 

@@ -87,7 +87,7 @@ dv_has_:
     as: সেউজ বিপ্লব
     ast: Revolución verde
     az: Yaşıl İnqilab
-    be-tarask: Зялёная рэвалюцыя
+    be_tarask: Зялёная рэвалюцыя
     bg: Зелена революция
     bho: हरित क्रांति
     ca: Revolució Verda
@@ -95,8 +95,8 @@ dv_has_:
     de: Grüne Revolution
     el: Πράσινη επανάσταση
     en: Green Revolution
-    en-ca: Green Revolution
-    en-gb: Green Revolution
+    en_ca: Green Revolution
+    en_gb: Green Revolution
     eo: Verda revolucio
     es: Revolución verde
     et: Roheline revolutsioon
@@ -114,11 +114,11 @@ dv_has_:
     ja: 緑の革命
     ka: მწვანე რევოლუცია
     kk: Жасыл революция
-    kk-arab: جاسىل رەۆوليۋتسىييا
+    kk_arab: جاسىل رەۆوليۋتسىييا
     kk-cn: جاسىل رەۆوليۋتسىييا
-    kk-cyrl: Жасыл революция
+    kk_cyrl: Жасыл революция
     kk-kz: Жасыл революция
-    kk-latn: Jasıl revolyucïya
+    kk_latn: Jasıl revolyucïya
     kk-tr: Jasıl revolyucïya
     km: បដិវត្តន៍បៃតង
     ko: 녹색 혁명
@@ -137,7 +137,7 @@ dv_has_:
     pnb: ہرا انقلاب
     ps: شین انقلاب
     pt: Revolução verde
-    pt-br: Revolução verde
+    pt_br: Revolução verde
     ro: Revoluția verde
     ru: Зелёная революция
     sh: Zelena revolucija
@@ -157,12 +157,12 @@ dv_has_:
     vi: Cách mạng xanh
     yue: 綠色革命
     zh: 绿色革命
-    zh-cn: 绿色革命
-    zh-hans: 绿色革命
-    zh-hant: 綠色革命
-    zh-hk: 綠色革命
-    zh-sg: 绿色革命
-    zh-tw: 綠色革命
+    zh_cn: 绿色革命
+    zh_hans: 绿色革命
+    zh_hant: 綠色革命
+    zh_hk: 綠色革命
+    zh_sg: 绿色革命
+    zh_tw: 綠色革命
 ---
 # [[1940-Green_Revolution+1960]] 
 

@@ -58,8 +58,8 @@ dv_has_:
     de: Schwertschwänze
     el: Ξιφόσουρα
     en: Xiphosura
-    en-ca: Xiphosura
-    en-gb: Xiphosura
+    en_ca: Xiphosura
+    en_gb: Xiphosura
     eo: Xiphosura
     es: Xiphosura
     eu: Xiphosura
@@ -93,7 +93,7 @@ dv_has_:
     pl: ostrogony
     ps: څوکه ور لکۍ لرونکې ژوې
     pt: Xiphosura
-    pt-br: Xiphosura
+    pt_br: Xiphosura
     ro: Xiphosura
     ru: мечехвосты
     sco: Xiphosura
@@ -109,10 +109,10 @@ dv_has_:
     vo: Xiphosura
     war: Xiphosura
     zh: 剑尾目
-    zh-cn: 剑尾目
-    zh-hans: 剑尾目
-    zh-hant: 劍尾目
-    zh-tw: 劍尾目
+    zh_cn: 剑尾目
+    zh_hans: 剑尾目
+    zh_hant: 劍尾目
+    zh_tw: 劍尾目
 ---
 # [[Horseshoe_Crab]]
 

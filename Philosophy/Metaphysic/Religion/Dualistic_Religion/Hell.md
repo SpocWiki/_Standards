@@ -140,7 +140,7 @@ dv_has_:
     bar: Höi
     bcl: Impiyerno
     be: Пекла
-    be-tarask: пекла
+    be_tarask: пекла
     bg: Ад
     bn: নরক
     br: Ifern
@@ -153,13 +153,13 @@ dv_has_:
     cy: Uffern
     da: Helvede
     de: Hölle
-    de-ch: Hölle
+    de_ch: Hölle
     diq: Canem
     dv: ނަރަކަ
     el: Κόλαση
     en: hell
-    en-ca: Hell
-    en-gb: hell
+    en_ca: Hell
+    en_gb: hell
     eo: infero
     es: infierno
     et: Põrgu
@@ -197,7 +197,7 @@ dv_has_:
     ko: 지옥
     ks: نَرٛک
     ku: dojeh
-    ku-latn: dojeh
+    ku_latn: dojeh
     ky: Тозок
     la: Infernus
     lb: Häll
@@ -224,7 +224,7 @@ dv_has_:
     pl: piekło
     ps: دوږخ
     pt: inferno
-    pt-br: Inferno
+    pt_br: Inferno
     qu: Ukhu pacha
     ro: Iad
     ru: ад
@@ -239,7 +239,7 @@ dv_has_:
     so: Cadaab
     sq: Ferri
     sr: пакао
-    sr-ec: пакао
+    sr_ec: пакао
     sv: helvete
     ta: நரகம்
     te: నరకం
@@ -249,7 +249,7 @@ dv_has_:
     tok: ma anpa ike
     tr: cehennem
     tt: җәһәннәм
-    tt-cyrl: җәһәннәм
+    tt_cyrl: җәһәннәм
     uk: пекло
     ur: دوزخ
     vi: địa ngục

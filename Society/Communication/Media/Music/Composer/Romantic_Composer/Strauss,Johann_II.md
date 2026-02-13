@@ -174,7 +174,7 @@ dv_has_:
     azb: ایکینجی یوهان اشتراوس
     ba: Иоганн Штраус
     be: Іаган Штраус
-    be-tarask: Ёган Штраўс-малодшы
+    be_tarask: Ёган Штраўс-малодшы
     bg: Йохан Щраус
     bs: Johann Strauss mlađi
     ca: Johann Strauss II
@@ -186,8 +186,8 @@ dv_has_:
     de: Johann Strauss
     el: Γιόχαν Στράους ο νεότερος
     en: Johann Strauss II
-    en-ca: Johann Strauss II
-    en-gb: Johann Strauss II
+    en_ca: Johann Strauss II
+    en_gb: Johann Strauss II
     en-us: Johann Strauss II
     eo: Johann Strauß la filo
     es: Johann Strauss II
@@ -233,7 +233,7 @@ dv_has_:
     pa: ਜੋਹਾਨ ਸਟਰਾਸ II
     pl: Johann Strauss
     pt: Johann Strauss
-    pt-br: Johann Strauss
+    pt_br: Johann Strauss
     qu: Johann Strauss II
     ro: Johann Strauss
     ru: Иоганн Штраус
@@ -242,8 +242,8 @@ dv_has_:
     sl: Johann Strauss mlajši
     sq: johann strauss
     sr: Јохан Штраус Млађи
-    sr-ec: Јохан Штраус Млађи
-    sr-el: Johan Štraus Mlađi
+    sr_ec: Јохан Штраус Млађи
+    sr_el: Johan Štraus Mlađi
     sv: Johann Strauss d.y.
     th: โยฮันน์ ชเตราสส์ ที่สอง
     tl: Johan Strauss II
@@ -257,8 +257,8 @@ dv_has_:
     yi: יאהאן שטראוס דער זון
     yue: 約翰施特勞斯二世
     zh: 小约翰·施特劳斯
-    zh-hant: 小約翰·史特勞斯
-    zh-tw: 小約翰·史特勞斯
+    zh_hant: 小約翰·史特勞斯
+    zh_tw: 小約翰·史特勞斯
 ---
 # [[Strauss,Johann_II]] 
 

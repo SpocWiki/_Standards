@@ -95,7 +95,7 @@ dv_has_:
     ast: Texíu conxuntivo
     az: Birləşdirici toxuma
     be: злучальная тканка
-    be-tarask: злучальная тканка
+    be_tarask: злучальная тканка
     bg: Съединителна тъкан
     bn: যোজক কলা
     bs: Vezivno tkivo
@@ -167,7 +167,7 @@ dv_has_:
     wuu: 结缔组织
     yue: 結締組織
     zh: 结缔组织
-    zh-hant: 結締組織
+    zh_hant: 結締組織
 ---
 # [[Connective_Tissue]] 
 

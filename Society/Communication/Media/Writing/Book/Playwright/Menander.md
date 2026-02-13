@@ -101,7 +101,7 @@ dv_has_:
     ast: Menandru d'Atenes
     az: Menandr
     be: Менандр
-    be-tarask: Мэнандр
+    be_tarask: Мэнандр
     bg: Менандър
     br: Menandros
     bs: Menandar
@@ -150,7 +150,7 @@ dv_has_:
     pam: Menander
     pl: Menander
     pt: Menandro
-    pt-br: Menandro
+    pt_br: Menandro
     ro: Menandru
     ru: Менандр
     sa: मेनांदर
@@ -171,12 +171,12 @@ dv_has_:
     wuu: 米南德
     yue: 米南德
     zh: 米南德
-    zh-cn: 米南德
-    zh-hans: 米南德
-    zh-hant: 米南德
-    zh-hk: 米南德
-    zh-sg: 米南德
-    zh-tw: 米南德
+    zh_cn: 米南德
+    zh_hans: 米南德
+    zh_hant: 米南德
+    zh_hk: 米南德
+    zh_sg: 米南德
+    zh_tw: 米南德
 ---
 # [[Menander]] 
 

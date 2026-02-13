@@ -7,7 +7,7 @@ dv_has_:
     ast: Teoría del control
     az: idarəetmə nəzəriyyəsi
     be: тэорыя кіравання
-    be-tarask: тэорыя кіраваньня
+    be_tarask: тэорыя кіраваньня
     bn: নিয়ন্ত্রণ তত্ত্ব
     ca: teoria de control
     cs: teorie řízení
@@ -39,7 +39,7 @@ dv_has_:
     os: фæтк дæттыны теори
     pl: teoria sterowania
     pt: teoria de controle
-    pt-br: teoria de controle
+    pt_br: teoria de controle
     ro: control automat
     ru: теория управления
     scn: Tiurìa dû cuntrollu
@@ -58,8 +58,8 @@ dv_has_:
     war: Teyorya hin kontrol
     yue: 控制理論
     zh: 控制理论
-    zh-hans: 控制理论
-    zh-hant: 控制理論
+    zh_hans: 控制理论
+    zh_hant: 控制理論
 aliases:
 - Automaatika
 - automatika

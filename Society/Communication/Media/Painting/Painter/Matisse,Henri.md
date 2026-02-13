@@ -337,7 +337,7 @@ dv_has_:
     bar: Henri Matisse
     bcl: Henri Matisse
     be: Анры Маціс
-    be-tarask: Анры Матыс
+    be_tarask: Анры Матыс
     bg: Анри Матис
     bi: Henri Matisse
     bn: অঁরি মাতিস
@@ -359,11 +359,11 @@ dv_has_:
     da: Henri Matisse
     de: Henri Matisse
     de-at: Henri Matisse
-    de-ch: Henri Matisse
+    de_ch: Henri Matisse
     el: Ανρί Ματίς
     en: Henri Matisse
-    en-ca: Henri Matisse
-    en-gb: Henri Matisse
+    en_ca: Henri Matisse
+    en_gb: Henri Matisse
     eo: Henri Matisse
     es: Henri Matisse
     et: Henri Matisse
@@ -392,7 +392,7 @@ dv_has_:
     ia: Henri Matisse
     id: Henri Matisse
     ie: Henri Matisse
-    ike-latn: Henri Matisse
+    ike_latn: Henri Matisse
     ilo: Henri Matisse
     io: Henri Matisse
     is: Henri Matisse
@@ -432,7 +432,7 @@ dv_has_:
     nan: Henri Matisse
     nb: Henri Matisse
     nds: Henri Matisse
-    nds-nl: Henri Matisse
+    nds_nl: Henri Matisse
     ne: अन्री मटिस
     new: हेन्री मतिसे
     nl: Henri Matisse
@@ -452,7 +452,7 @@ dv_has_:
     pms: Henri Matisse
     pnb: ہنری ماٹس
     pt: Henri Matisse
-    pt-br: Henri Matisse
+    pt_br: Henri Matisse
     ro: Henri Matisse
     ru: Анри Матисс
     rue: Анрі Матісс
@@ -466,7 +466,7 @@ dv_has_:
     sl: Henri Matisse
     sq: Henri Matisse
     sr: Анри Матис
-    sr-ec: Анри Матис
+    sr_ec: Анри Матис
     stq: Henri Matisse
     sv: Henri Matisse
     sw: Henri Matisse
@@ -497,9 +497,9 @@ dv_has_:
     yue: 馬蒂斯
     zea: Henri Matisse
     zh: 亨利·马蒂斯
-    zh-cn: 亨利·马蒂西
-    zh-hant: 亨利·馬蒂西
-    zh-tw: 亨利·馬諦斯
+    zh_cn: 亨利·马蒂西
+    zh_hant: 亨利·馬蒂西
+    zh_tw: 亨利·馬諦斯
 ---
 # [[Matisse,Henri]] 
 

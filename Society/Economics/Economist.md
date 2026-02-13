@@ -171,7 +171,7 @@ dv_has_:
     ba: иҡтисадсы
     bar: Wiatschoftswissnschoftla
     be: эканаміст
-    be-tarask: эканаміст
+    be_tarask: эканаміст
     bg: икономист
     bn: অর্থনীতিবিদ
     br: ekonomour
@@ -179,18 +179,18 @@ dv_has_:
     ca: economista
     ckb: ئابووریناس
     crh: iqtisadiyatçı (ekonomist)
-    crh-latn: iqtisadiyatçı (ekonomist)
+    crh_latn: iqtisadiyatçı (ekonomist)
     cs: ekonom
     cy: economegydd
     da: økonom
     de: Wirtschaftswissenschaftler
     de-at: Wirtschaftswissenschaftler
-    de-ch: Wirtschaftswissenschaftler
+    de_ch: Wirtschaftswissenschaftler
     diq: Ekonomist
     el: οικονομολόγος
     en: economist
-    en-ca: Economist
-    en-gb: economist
+    en_ca: Economist
+    en_gb: economist
     en-us: economist
     eo: ekonomikisto
     es: economista
@@ -228,7 +228,7 @@ dv_has_:
     kk: экономист
     ko: 경제학자
     ks: مٲہِرِ معیٖشَت
-    ku-latn: aborînas
+    ku_latn: aborînas
     kw: erbysydh
     la: oeconomus
     lb: Ekonomist
@@ -242,7 +242,7 @@ dv_has_:
     ml: സാമ്പത്തികവിദഗ്ധൻ
     mr: अर्थतज्ज्ञ
     ms: ahli ekonomi
-    ms-arab: اهلي ايکونومي
+    ms_arab: اهلي ايکونومي
     mt: ekonomista
     nb: samfunnsøkonom
     nds: Ökonoom
@@ -259,7 +259,7 @@ dv_has_:
     pl: ekonomista
     pnb: معیشت دان
     pt: economista
-    pt-br: economista
+    pt_br: economista
     ro: economist
     ru: экономист
     sah: экэнэмиис
@@ -275,8 +275,8 @@ dv_has_:
     sms: ekonoom
     sq: ekonomist
     sr: економиста
-    sr-ec: економиста
-    sr-el: ekonomista
+    sr_ec: економиста
+    sr_el: ekonomista
     sv: nationalekonom
     ta: பொருளியலாளர்கள்
     te: ఆర్థికవేత్త
@@ -285,7 +285,7 @@ dv_has_:
     tl: ekonomista
     tr: ekonomist
     tt: икътисадчы
-    tt-cyrl: икътисадчы
+    tt_cyrl: икътисадчы
     ug: ئىقتىسادچىلار (ئىقتىسادشۇناسلار)
     uk: економіст
     ur: ماہر معاشیات
@@ -297,12 +297,12 @@ dv_has_:
     yi: עקאנאמיסט
     yue: 經濟學家
     zh: 经济学家
-    zh-cn: 经济学家
-    zh-hans: 经济学家
-    zh-hant: 經濟學家
-    zh-hk: 經濟學家
-    zh-sg: 经济学家
-    zh-tw: 經濟學家
+    zh_cn: 经济学家
+    zh_hans: 经济学家
+    zh_hant: 經濟學家
+    zh_hk: 經濟學家
+    zh_sg: 经济学家
+    zh_tw: 經濟學家
 ---
 # [[Economist]] 
 

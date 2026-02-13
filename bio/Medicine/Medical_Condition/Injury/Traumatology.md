@@ -61,7 +61,7 @@ dv_has_:
     ast: Traumatoloxía y ortopedia
     az: travmatologiya
     be: траўматалогія
-    be-tarask: траўматалёгія
+    be_tarask: траўматалёгія
     ca: traumatologia
     cs: traumatologie
     cy: trawmatoleg
@@ -85,11 +85,11 @@ dv_has_:
     ja: 外傷学
     ka: ტრავმატოლოგია
     kk: травматология
-    kk-arab: تراۆماتولوگىييا
+    kk_arab: تراۆماتولوگىييا
     kk-cn: تراۆماتولوگىييا
-    kk-cyrl: травматология
+    kk_cyrl: травматология
     kk-kz: травматология
-    kk-latn: travmatologïya
+    kk_latn: travmatologïya
     kk-tr: travmatologïya
     ko: 외상외과학
     ky: травматология
@@ -118,7 +118,7 @@ dv_has_:
     tly: Travmatologijə
     tr: travmatoloji
     tt: җәрәхәтбелем
-    tt-cyrl: җәрәхәтбелем
+    tt_cyrl: җәрәхәтбелем
     uk: травматологія
     uz: Travmatologiya
     war: traumatolohiya

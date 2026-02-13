@@ -78,7 +78,7 @@ dv_has_:
     ar: نسبة ألفية
     az: promil
     be: праміле
-    be-tarask: праміле
+    be_tarask: праміле
     bg: ‰
     bs: promil
     ca: per mil
@@ -89,7 +89,7 @@ dv_has_:
     de: Promille
     el: ‰
     en: per mille
-    en-gb: per mille
+    en_gb: per mille
     eo: elmilo
     es: por mil
     et: Promill
@@ -107,11 +107,11 @@ dv_has_:
     ja: パーミル
     ka: პრომილე
     kk: Промилле
-    kk-arab: پرومىيللە
+    kk_arab: پرومىيللە
     kk-cn: پرومىيللە
-    kk-cyrl: Промилле
+    kk_cyrl: Промилле
     kk-kz: Промилле
-    kk-latn: Promïlle
+    kk_latn: Promïlle
     kk-tr: Promïlle
     ko: 천분율
     lb: ‰
@@ -129,7 +129,7 @@ dv_has_:
     pa: ਪ੍ਰਤੀ ਹਜ਼ਾਰ
     pl: promil
     pt: por mil
-    pt-br: por mil
+    pt_br: por mil
     ro: Promilă
     ru: промилле
     rue: Промиле
@@ -138,8 +138,8 @@ dv_has_:
     sk: promile
     sl: odtisoček
     sr: Промил
-    sr-ec: Промил
-    sr-el: Promil
+    sr_ec: Промил
+    sr_el: Promil
     sv: promille
     tr: ‰
     uk: проміле
@@ -150,12 +150,12 @@ dv_has_:
     xmf: პრომილე
     yue: 千分率
     zh: 千分比
-    zh-cn: 千分比
-    zh-hans: 千分比
-    zh-hant: 千分比
-    zh-hk: 千分比
-    zh-sg: 千分比
-    zh-tw: 千分比
+    zh_cn: 千分比
+    zh_hans: 千分比
+    zh_hant: 千分比
+    zh_hk: 千分比
+    zh_sg: 千分比
+    zh_tw: 千分比
 ---
 # [[Unit~Permille]] 
 

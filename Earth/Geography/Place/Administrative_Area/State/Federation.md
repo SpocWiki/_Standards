@@ -174,7 +174,7 @@ dv_has_:
     ba: федератив дәүләт
     bar: Bundesstoot
     be: федэрацыя
-    be-tarask: фэдэрацыя
+    be_tarask: фэдэрацыя
     bew: Serèkat
     bg: Федерация
     bi: federesen
@@ -191,7 +191,7 @@ dv_has_:
     diq: Federasyon
     el: ομοσπονδιακό κράτος
     en: federation
-    en-ca: federation
+    en_ca: federation
     eo: federacio
     es: federación
     et: föderatsioon
@@ -228,7 +228,7 @@ dv_has_:
     krj: federasyon
     ks: سَنٛگھ
     ku: federasyon
-    ku-latn: federasyon
+    ku_latn: federasyon
     la: Foederatio
     lb: Bundesstaat
     lez: федератив гьукумат
@@ -244,7 +244,7 @@ dv_has_:
     mk: федерација
     mn: Холбооны улс
     ms: persekutuan
-    ms-arab: ڤرسکوتوان
+    ms_arab: ڤرسکوتوان
     my: ဖက်ဒရေးရှင်း
     mzn: فدراتیو
     nan: Liân-pang
@@ -261,7 +261,7 @@ dv_has_:
     pnb: وفاق
     ps: فدراسيون
     pt: federação
-    pt-br: federação
+    pt_br: federação
     ro: federație
     ru: федеративное государство
     sat: ᱥᱚᱝᱜᱷᱚ
@@ -288,7 +288,7 @@ dv_has_:
     tl: Pederasyon
     tr: federasyon
     tt: федератив дәүләт
-    tt-cyrl: федератив дәүләт
+    tt_cyrl: федератив дәүләт
     udm: федерация
     uk: федеративна держава
     ur: وفاق
@@ -304,10 +304,10 @@ dv_has_:
     yue: 聯邦
     za: Cidu Lienzbangh
     zh: 聯邦制
-    zh-cn: 联邦制
-    zh-hans: 联邦制
-    zh-hant: 聯邦制
-    zh-hk: 聯邦制
+    zh_cn: 联邦制
+    zh_hans: 联邦制
+    zh_hant: 聯邦制
+    zh_hk: 聯邦制
 ---
 # [[Federation]] 
 

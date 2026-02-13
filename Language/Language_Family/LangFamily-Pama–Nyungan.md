@@ -59,7 +59,7 @@ dv_has_:
   name_:
     ar: باما نيونغان
     ast: Llingües pama-ñunganas
-    be-tarask: пама-ньюнгаўскія мовы
+    be_tarask: пама-ньюнгаўскія мовы
     ca: llengües pama-nyunga
     cs: Pama-nyunganské jazyky
     de: Pama-Nyunganisch
@@ -100,9 +100,9 @@ dv_has_:
     vec: łéngue pama-nyungane
     vi: Hệ ngôn ngữ Pama–Nyungar
     zh: 帕马-尼永甘语系
-    zh-cn: 帕马-尼永甘语系
-    zh-hans: 帕马-尼永甘语系
-    zh-hant: 帕馬-尼永甘語系
+    zh_cn: 帕马-尼永甘语系
+    zh_hans: 帕马-尼永甘语系
+    zh_hant: 帕馬-尼永甘語系
 ---
 # [[LangFamily-Pama–Nyungan]] 
 

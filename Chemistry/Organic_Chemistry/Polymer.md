@@ -117,7 +117,7 @@ dv_has_:
     azb: پولیمر
     bcl: polimero
     be: палімер
-    be-tarask: палімэр
+    be_tarask: палімэр
     bg: полимер
     bn: পলিমার
     bs: polimer
@@ -129,7 +129,7 @@ dv_has_:
     de: Polymer
     el: πολυμερές
     en: polymer
-    en-gb: polymer
+    en_gb: polymer
     eo: polimero
     es: polímero
     et: polümeer
@@ -178,7 +178,7 @@ dv_has_:
     pnb: پولیمر
     ps: پولیمر
     pt: polímero
-    pt-br: polímero
+    pt_br: polímero
     qu: tawqa iñuwa
     ro: polimer
     ru: полимер
@@ -210,8 +210,8 @@ dv_has_:
     wuu: 聚合物
     yue: 聚合物
     zh: 聚合物
-    zh-cn: 聚合物
-    zh-hans: 聚合物
+    zh_cn: 聚合物
+    zh_hans: 聚合物
     zu: Umgcezitho
 ---
 # [[Polymer]] 

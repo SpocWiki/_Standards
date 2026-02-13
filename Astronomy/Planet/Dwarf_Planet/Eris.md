@@ -149,7 +149,7 @@ dv_has_:
     az: Erida
     bar: Eris
     be: Эрыс
-    be-tarask: Эрыс
+    be_tarask: Эрыс
     bg: Ерида
     bjn: Eris (planet katai)
     bn: এরিস
@@ -162,13 +162,13 @@ dv_has_:
     cy: Eris
     da: Eris
     de: (136199) Eris
-    de-ch: Eris
+    de_ch: Eris
     diq: Eris
     el: Έρις
     eml: Eris
     en: Eris
-    en-ca: Eris
-    en-gb: Eris
+    en_ca: Eris
+    en_gb: Eris
     eo: Eriso
     es: Eris
     et: 136199 Eris
@@ -211,7 +211,7 @@ dv_has_:
     lt: Eridė
     lv: Erīda
     lzh: 鬩神星
-    map-bms: 2003 UB313
+    map_bms: 2003 UB313
     mk: Ерида
     ml: ഈറിസ്
     mn: Эрида
@@ -233,7 +233,7 @@ dv_has_:
     pl: Eris
     pnb: ایرس
     pt: Éris
-    pt-br: Éris
+    pt_br: Éris
     qu: Eris
     rm: Eris
     ro: Eris
@@ -268,9 +268,9 @@ dv_has_:
     yi: עריס
     yue: 鬩神星
     zh: 阋神星
-    zh-cn: 阋神星
-    zh-hans: 阋神星
-    zh-hant: 阋神星
+    zh_cn: 阋神星
+    zh_hans: 阋神星
+    zh_hant: 阋神星
     zu: UNogxada
 ---
 # [[Eris]] 

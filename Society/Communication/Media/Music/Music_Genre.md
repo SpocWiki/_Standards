@@ -138,7 +138,7 @@ dv_has_:
     azb: موسیقی ژانری
     ba: музыкаль жанр
     be: музычны жанр
-    be-tarask: музычны жанр
+    be_tarask: музычны жанр
     bg: музикален жанр
     bn: সঙ্গীত ধারা
     br: seurt sonerezh
@@ -152,8 +152,8 @@ dv_has_:
     de: Musikgenre
     el: μουσικό είδος
     en: music genre
-    en-ca: music genre
-    en-gb: music genre
+    en_ca: music genre
+    en_gb: music genre
     en-us: music genre
     eo: muzikĝenro
     es: género musical
@@ -186,14 +186,14 @@ dv_has_:
     kn: ಸಂಗೀತ ಶೈಲಿ
     ko: 음악 장르
     ku: cureyê muzîkê
-    ku-latn: cureyê muzîkê
+    ku_latn: cureyê muzîkê
     kw: eghen a ilewydh
     lb: Museksgenre
     lt: muzikos žanras
     lv: mūzikas žanrs
     mk: музички правец
     ms: genre muzik
-    ms-arab: ݢينري موزيک
+    ms_arab: ݢينري موزيک
     nah: cuīcayōtl neneuhcāyōtl
     nb: musikksjanger
     ne: सङ्गीत विधा
@@ -208,7 +208,7 @@ dv_has_:
     pcd: ginre musical
     pl: gatunek muzyczny
     pt: género musical
-    pt-br: gênero musical
+    pt_br: gênero musical
     ro: gen muzical
     ru: музыкальный жанр
     scn: gènira musicali
@@ -221,8 +221,8 @@ dv_has_:
     smn: muusikšlaajâ
     sms: musikkšlaajj
     sr: музички правац
-    sr-ec: музички правац
-    sr-el: muzički pravac
+    sr_ec: музички правац
+    sr_el: muzički pravac
     sv: musikgenre
     sw: Aina ya muziki
     ta: இசை வகை
@@ -231,7 +231,7 @@ dv_has_:
     tl: uri ng musika
     tr: müzik türü
     tt: музыка жанры
-    tt-cyrl: музыка жанры
+    tt_cyrl: музыка жанры
     uk: жанр музики
     ur: اصناف موسیقی
     uz: musiqa janri
@@ -243,12 +243,12 @@ dv_has_:
     yo: irú orin
     yue: 曲種
     zh: 音乐类型
-    zh-cn: 音乐类型
-    zh-hans: 音乐类型
-    zh-hant: 音樂類型
-    zh-hk: 音樂類型
-    zh-sg: 音乐类型
-    zh-tw: 音樂類型
+    zh_cn: 音乐类型
+    zh_hans: 音乐类型
+    zh_hant: 音樂類型
+    zh_hk: 音樂類型
+    zh_sg: 音乐类型
+    zh_tw: 音樂類型
 ---
 ## #has_/text_of_/abstract 
 

@@ -158,7 +158,7 @@ dv_has_:
     ba: Ел тирмәне
     bar: Windmühle
     be: вятрак
-    be-tarask: вятрак
+    be_tarask: вятрак
     bg: Вятърна мелница
     bho: पवनचक्की
     br: milin-avel
@@ -172,12 +172,12 @@ dv_has_:
     cy: melin wynt
     da: vindmølle
     de: Windmühle
-    de-ch: Windmühle
+    de_ch: Windmühle
     dsb: Wětšnik
     el: ανεμόμυλος
     en: windmill
-    en-ca: windmill
-    en-gb: windmill
+    en_ca: windmill
+    en_gb: windmill
     eo: ventmuelejo
     es: molino de viento
     et: tuuleveski
@@ -217,7 +217,7 @@ dv_has_:
     my: လေရဟက်စက်
     nb: vindmølle
     nds: Windmöhl
-    nds-nl: windmölle
+    nds_nl: windmölle
     nl: windmolen
     nn: vindmølle
     oc: molin de vent
@@ -230,7 +230,7 @@ dv_has_:
     pnb: ہوا آلی چکی
     ps: بادي ژرنده
     pt: moinho de vento
-    pt-br: moinho de vento
+    pt_br: moinho de vento
     ro: moară de vânt
     ru: ветряная мельница
     sco: windmill
@@ -263,7 +263,7 @@ dv_has_:
     yi: ווינטמיל
     yue: 風車
     zh: 风车
-    zh-hans: 风车
+    zh_hans: 风车
 ---
 # [[Windmill]] 
 

@@ -128,7 +128,7 @@ dv_has_:
     bar: Windenergie
     bcl: Kusog nin duros
     be: энергія ветру
-    be-tarask: энэргія ветру
+    be_tarask: энэргія ветру
     bg: Вятърна енергия
     bn: বায়ুশক্তি
     bs: Energija vjetra

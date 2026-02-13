@@ -260,7 +260,7 @@ dv_has_:
     ba: Никах килешеүе
     bar: Eh
     be: шлюб
-    be-tarask: шлюб
+    be_tarask: шлюб
     bg: брак
     bho: बियाह
     bn: বিবাহ
@@ -284,8 +284,8 @@ dv_has_:
     ee: Srɔ̃ɖeɖe
     el: γάμος
     en: marriage
-    en-ca: Marriage
-    en-gb: marriage
+    en_ca: Marriage
+    en_gb: marriage
     eo: geedzeco
     es: matrimonio
     et: abielu
@@ -340,7 +340,7 @@ dv_has_:
     krc: Юйдегилениу
     ks: خانٛدَر
     ku: Jin û mêr
-    ku-latn: zewac
+    ku_latn: zewac
     kw: Demedhyans
     ky: Нике курагы
     la: matrimonium
@@ -366,7 +366,7 @@ dv_has_:
     nan: Hun-in
     nb: ekteskap
     nds: Eh
-    nds-nl: brulfte
+    nds_nl: brulfte
     ne: विवाह
     new: इहिपा
     nl: huwelijk
@@ -384,7 +384,7 @@ dv_has_:
     pnt: υπαντρία
     ps: واده
     pt: matrimónio
-    pt-br: casamento
+    pt_br: casamento
     qu: Kasarakuy
     rmy: Marriaj
     rn: Ubugeni bw'aho hambere
@@ -411,7 +411,7 @@ dv_has_:
     so: Guur
     sq: Martesa
     sr: брак
-    sr-ec: брак
+    sr_ec: брак
     srn: Trow
     sv: äktenskap
     sw: Ndoa
@@ -428,7 +428,7 @@ dv_has_:
     trv: Pstrung
     ts: Vukati
     tt: өйләнү
-    tt-cyrl: өйләнү
+    tt_cyrl: өйләнү
     tw: Awareɛ
     udm: кузпалъяськон
     uk: шлюб
@@ -443,13 +443,13 @@ dv_has_:
     yue: 結婚
     za: Baenzgya
     zh: 婚姻
-    zh-hans: 婚姻
-    zh-hant: 婚姻
-    zh-hk: 婚姻
-    zh-mo: 婚姻
+    zh_hans: 婚姻
+    zh_hant: 婚姻
+    zh_hk: 婚姻
+    zh_mo: 婚姻
     zh-my: 婚姻
-    zh-sg: 婚姻
-    zh-tw: 婚姻
+    zh_sg: 婚姻
+    zh_tw: 婚姻
     zu: Umshado
 ---
 # [[Marriage]] 

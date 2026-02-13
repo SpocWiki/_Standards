@@ -135,7 +135,7 @@ dv_has_:
     az: Müşk öküzü
     ban: Lembu kesturi
     be: Аўцабык
-    be-tarask: баранабык
+    be_tarask: баранабык
     bg: овцебик
     br: Ejen-musk
     ca: bou mesquer
@@ -170,7 +170,7 @@ dv_has_:
     ie: Ovibos moschatus
     ik: Umiŋmak
     ike-cans: ᐅᒥᒻᒪᖅ
-    ike-latn: umimmaq
+    ike_latn: umimmaq
     io: Ovibos moschatus
     is: Sauðnaut
     it: Ovibos moschatus
@@ -197,7 +197,7 @@ dv_has_:
     pl: piżmowół arktyczny
     pnb: مشکی ٹگا
     pt: Boi-almiscarado
-    pt-br: Ovibos moschatus
+    pt_br: Ovibos moschatus
     ro: Bou moscat
     ru: овцебык
     rue: Овцебык
@@ -208,8 +208,8 @@ dv_has_:
     smn: myskivuáksá
     sq: Ovibos moschatus
     sr: мошусно говече
-    sr-ec: Мошусно говече
-    sr-el: Mošusno goveče
+    sr_ec: Мошусно говече
+    sr_el: Mošusno goveče
     sv: myskoxe
     sw: Maksai aktiki
     ta: கத்தூரி எருமை
@@ -226,12 +226,12 @@ dv_has_:
     wuu: 麝牛
     yue: 麝牛
     zh: 麝牛
-    zh-cn: 麝牛
-    zh-hans: 麝牛
-    zh-hant: 麝牛
-    zh-hk: 麝牛
-    zh-sg: 麝牛
-    zh-tw: 麝牛
+    zh_cn: 麝牛
+    zh_hans: 麝牛
+    zh_hant: 麝牛
+    zh_hk: 麝牛
+    zh_sg: 麝牛
+    zh_tw: 麝牛
 ---
 # [[Muskox]] 
 

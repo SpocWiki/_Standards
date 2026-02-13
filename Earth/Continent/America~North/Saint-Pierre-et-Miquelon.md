@@ -12,7 +12,7 @@ dv_has_:
     az: Sent Pyer və Mikelon
     azb: سن-پیئر و میکلون
     be: Сен-П'ер і Мікелон
-    be-tarask: Сэн-П’ер і Мікелён
+    be_tarask: Сэн-П’ер і Мікелён
     bg: Сен Пиер и Микелон
     bn: সাঁ পিয়ের ও মিকলোঁ
     bpy: সেন্ট পিয়েরে বারো মিকুয়েলোন
@@ -30,7 +30,7 @@ dv_has_:
     dv: ސަންތި ޕިއޭރޭ އާއި މިކުއެލޯން
     el: Σαιν-Πιερ και Μικελόν
     en: Saint Pierre and Miquelon
-    en-ca: Saint Pierre and Miquelon
+    en_ca: Saint Pierre and Miquelon
     eo: Sankta-Piero kaj Mikelono
     es: San Pedro y Miquelón
     et: Saint-Pierre ja Miquelon
@@ -62,7 +62,7 @@ dv_has_:
     ka: სენ-პიერი და მიკელონი
     kaa: Sen-Per ha'm Mikelon
     kk: Сен-Пьер және Микелон
-    kk-cyrl: Сен-Пьер және Микелон
+    kk_cyrl: Сен-Пьер және Микелон
     kn: ಸೇಂಟ್ ಪಿಯರೆ ಮತ್ತು ಮಿಕೆಲನ್
     ko: 생피에르 미클롱
     ku: Saint-Pierre û Miquelon
@@ -95,7 +95,7 @@ dv_has_:
     pms: Saint Pierre e Miquelon
     pnb: سینٹ پیرے تے مائکلیون
     pt: Saint-Pierre e Miquelon
-    pt-br: Saint-Pierre e Miquelon
+    pt_br: Saint-Pierre e Miquelon
     ro: Saint Pierre și Miquelon
     ru: Сен-Пьер и Микелон
     rw: Mutagatifu Petero na Mikeloni
@@ -115,7 +115,7 @@ dv_has_:
     sw: Saint-Pierre na Miquelon
     ta: செயிண்ட் ப்யேர் அண்ட் மீகேலோன்
     te: సెయింట్ పియర్ అండ్ మికెలాన్
-    tg-cyrl: Сен-Пиер ва Микелон
+    tg_cyrl: Сен-Пиер ва Микелон
     th: แซงปีแยร์และมีเกอลง
     tk: Sen-Pýer we Mikelon
     tl: Saint-Pierre at Miquelon
@@ -135,11 +135,11 @@ dv_has_:
     yo: Saint Pierre àti Mìkẹ́lọ̀n
     yue: 聖皮埃爾及密克隆群島
     zh: 圣皮埃尔和密克隆
-    zh-cn: 圣皮埃尔和密克隆
-    zh-hans: 圣皮埃尔和密克隆
-    zh-hant: 聖皮埃與密克隆群島
-    zh-hk: 聖皮埃爾和密克隆
-    zh-tw: 聖皮埃與密克隆群島
+    zh_cn: 圣皮埃尔和密克隆
+    zh_hans: 圣皮埃尔和密克隆
+    zh_hant: 聖皮埃與密克隆群島
+    zh_hk: 聖皮埃爾和密克隆
+    zh_tw: 聖皮埃與密克隆群島
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Saint-Pierre-et-Miquelon
 dv_ISO2: PM

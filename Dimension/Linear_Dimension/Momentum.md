@@ -206,7 +206,7 @@ dv_has_:
     az: impuls
     bcl: momentum
     be: імпульс
-    be-tarask: імпульс
+    be_tarask: імпульс
     bg: импулс
     bho: वेगमान
     bn: ভরবেগ
@@ -284,7 +284,7 @@ dv_has_:
     sn: runhanhira
     sq: vrulli
     sr: импулс
-    sr-ec: импулс
+    sr_ec: импулс
     su: moméntum
     sv: rörelsemängd
     ta: உந்தம்
@@ -293,7 +293,7 @@ dv_has_:
     tl: momentum
     tr: momentum
     tt: импульс
-    tt-latn: impuls
+    tt_latn: impuls
     uk: імпульс
     ur: معیار حرکت
     uz: impuls

@@ -81,7 +81,7 @@ dv_has_:
     ar: التباس
     azb: ايبهام
     be: неадназначнасць
-    be-tarask: неадназначнасьць
+    be_tarask: неадназначнасьць
     bn: দ্ব্যর্থতা
     ca: ambigüitat
     cs: dvojznačnost
@@ -136,9 +136,9 @@ dv_has_:
     yo: Pọ́nna
     yue: 歧義
     zh: 模棱两可
-    zh-hans: 歧义
-    zh-hant: 歧義
-    zh-hk: 歧義
+    zh_hans: 歧义
+    zh_hant: 歧義
+    zh_hk: 歧義
 ---
 # [[Ambiguity]] 
 

@@ -36,7 +36,7 @@ Commons_category: Twist (dance)
 dv_has_:
   name_:
     ar: تويست
-    be-tarask: тўіст
+    be_tarask: тўіст
     ca: twist
     cs: Twist
     cy: Y twist

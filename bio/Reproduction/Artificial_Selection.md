@@ -93,7 +93,7 @@ dv_has_:
     az: Süni seçmə
     ba: селекция
     be: штучны адбор
-    be-tarask: сэлекцыя
+    be_tarask: сэлекцыя
     bg: Изкуствен отбор
     bn: কৃত্রিম নির্বাচন
     ca: selecció artificial
@@ -103,8 +103,8 @@ dv_has_:
     de: Zucht
     el: Τεχνητή επιλογή
     en: artificial selection
-    en-ca: Artificial selection
-    en-gb: artificial selection
+    en_ca: Artificial selection
+    en_gb: artificial selection
     eo: selekta bredado
     es: selección artificial
     et: Aretus
@@ -127,9 +127,9 @@ dv_has_:
     jv: Sèlèksi gawéan
     ka: ხელოვნური გადარჩევა
     kk: Селекция ғылымы
-    kk-arab: سەلەكتسىييا عىلىمى
-    kk-cyrl: Селекция ғылымы
-    kk-latn: Selekcïya ğılımı
+    kk_arab: سەلەكتسىييا عىلىمى
+    kk_cyrl: Селекция ғылымы
+    kk_latn: Selekcïya ğılımı
     ko: 품종개량
     ky: Селекция
     lv: selekcija
@@ -144,7 +144,7 @@ dv_has_:
     pa: ਚੋਣਵੀਂ ਨਸਲਕਸ਼ੀ
     pl: sztuczna selekcja
     pt: seleção artificial
-    pt-br: seleção artificial
+    pt_br: seleção artificial
     qu: Akllaspa mirachiy
     ru: селекция
     sd: مصنوعي انتخاب
@@ -164,9 +164,9 @@ dv_has_:
     wuu: 人工选择
     yue: 人工選擇
     zh: 人工選擇
-    zh-hans: 人工选择
-    zh-hant: 人工選擇
-    zh-hk: 人工選擇
+    zh_hans: 人工选择
+    zh_hant: 人工選擇
+    zh_hk: 人工選擇
 ---
 # [[Artificial_Selection]] 
 

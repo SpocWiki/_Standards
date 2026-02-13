@@ -9,7 +9,7 @@ dv_has_:
     az: Qlüon
     azb: قلئؤون
     be: Глюон
-    be-tarask: глюон
+    be_tarask: глюон
     bg: Глуон
     bn: গ্লুয়ন
     bs: Gluon
@@ -65,7 +65,7 @@ dv_has_:
     pl: gluon
     pnb: گلؤن
     pt: gluão
-    pt-br: glúon
+    pt_br: glúon
     ro: Gluon
     ru: глюон
     scn: gluoni
@@ -76,8 +76,8 @@ dv_has_:
     smn: gluoon
     sms: gluoon
     sr: глуон
-    sr-ec: глуон
-    sr-el: gluon
+    sr_ec: глуон
+    sr_el: gluon
     sv: gluon
     ta: ஒட்டுமின்னி
     tg: Глюонҳо

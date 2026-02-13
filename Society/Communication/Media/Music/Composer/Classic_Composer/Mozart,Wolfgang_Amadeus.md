@@ -260,7 +260,7 @@ dv_has_:
     bar: Mozart Wolfgang Amadeus
     bcl: Wolfgang Amadeus Mozart
     be: Вольфганг Амадэй Моцарт
-    be-tarask: Вольфганг Амадэй Моцарт
+    be_tarask: Вольфганг Амадэй Моцарт
     bew: Wolpgang Amadéus Mosar
     bg: Волфганг Амадеус Моцарт
     bho: वोल्फगान्क आमडेयुस मोजार्ट
@@ -272,7 +272,7 @@ dv_has_:
     btm: Wolfgang Amadeus Mozart
     bxr: Вольфганг Амадей Моцарт
     ca: Wolfgang Amadeus Mozart
-    cbk-zam: Mozart
+    cbk_zam: Mozart
     cdo: Wolfgang Amadeus Mozart
     ce: Моцарт, Вольфганг Амадей
     ceb: Wolfgang Amadeus Mozart
@@ -281,21 +281,21 @@ dv_has_:
     ckb: ڤۆڵفگانگ ئامادیوس مۆتسارت
     co: Mozart
     crh: Volfgang Amadey Motsart
-    crh-latn: Volfgang Amadey Motsart
+    crh_latn: Volfgang Amadey Motsart
     cs: Wolfgang Amadeus Mozart
     csb: Wolfgang Amadeus Mozart
     cv: Моцарт Вольфганг Амадей
     cy: Wolfgang Amadeus Mozart
     da: Wolfgang Amadeus Mozart
     de: Wolfgang Amadeus Mozart
-    de-ch: Wolfgang Amadeus Mozart
+    de_ch: Wolfgang Amadeus Mozart
     diq: Wolfgang Amadeus Mozart
     dsb: Wolfgang Amadeus Mozart
     el: Βόλφγκανγκ Αμαντέους Μότσαρτ
     eml: Wolfgang Amadeus Mozart
     en: Wolfgang Amadeus Mozart
-    en-ca: Wolfgang Amadeus Mozart
-    en-gb: Wolfgang Amadeus Mozart
+    en_ca: Wolfgang Amadeus Mozart
+    en_gb: Wolfgang Amadeus Mozart
     eo: Wolfgang Amadeus Mozart
     es: Wolfgang Amadeus Mozart
     et: Wolfgang Amadeus Mozart
@@ -369,7 +369,7 @@ dv_has_:
     lv: Volfgangs Amadejs Mocarts
     lzh: 莫扎特
     mai: वोल्फगान्क आमडेयुस मोजार्ट
-    map-bms: Wolfgang Amadeus Mozart
+    map_bms: Wolfgang Amadeus Mozart
     mg: Wolfgang Amadeus Mozart
     mhr: Моцарт, Вольфганг Амадей
     min: Wolfgang Amadeus Mozart
@@ -388,7 +388,7 @@ dv_has_:
     nan: Wolfgang Amadeus Mozart
     nb: Wolfgang Amadeus Mozart
     nds: Wolfgang Amadeus Mozart
-    nds-nl: Wolfgang Amadeus Mozart
+    nds_nl: Wolfgang Amadeus Mozart
     ne: वोल्फगान्क आमडेयुस मोजार्ट
     new: वुल्फग्याङ्ग आमाद्युस मोत्सार्त
     nl: Wolfgang Amadeus Mozart
@@ -407,7 +407,7 @@ dv_has_:
     pnb: ولفگانگ موزرت
     ps: ولفګانګ امادیوس موزارت
     pt: Wolfgang Amadeus Mozart
-    pt-br: Wolfgang Amadeus Mozart
+    pt_br: Wolfgang Amadeus Mozart
     qu: Wolfgang Amadeus Mozart
     rm: Wolfgang Amadeus Mozart
     ro: Wolfgang Amadeus Mozart
@@ -469,11 +469,11 @@ dv_has_:
     za: Wolfgang Amadeus Mozart
     zea: Wolfgang Amadeus Mozart
     zh: 沃爾夫岡·阿馬德烏斯·莫扎特
-    zh-cn: 沃尔夫冈·阿马德乌斯·莫扎特
-    zh-hans: 沃尔夫冈·阿马德乌斯·莫扎特
-    zh-hant: 沃夫岡·阿瑪迪斯·莫札特
-    zh-hk: 胡夫岡·阿瑪迪奧斯·莫札特
-    zh-tw: 沃夫岡·阿瑪迪斯·莫札特
+    zh_cn: 沃尔夫冈·阿马德乌斯·莫扎特
+    zh_hans: 沃尔夫冈·阿马德乌斯·莫扎特
+    zh_hant: 沃夫岡·阿瑪迪斯·莫札特
+    zh_hk: 胡夫岡·阿瑪迪奧斯·莫札特
+    zh_tw: 沃夫岡·阿瑪迪斯·莫札特
     zu: Wolfgang Amadeus Mozart
 ---
 # [[Mozart,Wolfgang_Amadeus]] 

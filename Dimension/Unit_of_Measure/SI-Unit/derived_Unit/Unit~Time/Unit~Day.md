@@ -264,7 +264,7 @@ Wolfram_Language_unit_code: '"Days"'
 dv_has_:
   name_:
     acm: يوم
-    aeb-arab: نهار
+    aeb_arab: نهار
     af: dag
     ak: ɛda
     am: ቀን
@@ -288,7 +288,7 @@ dv_has_:
     bas: kèl
     bcl: aldaw
     be: суткі
-    be-tarask: содні
+    be_tarask: содні
     bg: ден
     bho: दिन
     bn: দিন
@@ -298,7 +298,7 @@ dv_has_:
     bug: ᨕᨛᨔᨚ
     bxr: хоног
     ca: dia
-    cbk-zam: dia
+    cbk_zam: dia
     cdo: nĭk
     ce: де-буьйса
     chr: ᎢᎦ
@@ -313,7 +313,7 @@ dv_has_:
     da: dag
     dag: dabisili
     de: Tag
-    de-ch: Tag
+    de_ch: Tag
     diq: roce
     dsb: źeń
     dtp: tadau
@@ -322,8 +322,8 @@ dv_has_:
     el: ημέρα
     eml: giōren
     en: day
-    en-ca: day
-    en-gb: day
+    en_ca: day
+    en_gb: day
     en-us: day
     eo: tago
     es: día
@@ -389,7 +389,7 @@ dv_has_:
     krc: сутка
     ks: دۄہ
     ku: roj
-    ku-latn: roj
+    ku_latn: roj
     kw: dydh
     ky: сутка
     la: dies
@@ -406,7 +406,7 @@ dv_has_:
     lzh: 日 (曆法)
     mag: दिन
     mai: दिन
-    map-bms: dina
+    map_bms: dina
     mdf: ши
     mg: andro
     mhr: сутка
@@ -419,7 +419,7 @@ dv_has_:
     mr: दिवस
     mrj: кечӹ
     ms: hari
-    ms-arab: هاري
+    ms_arab: هاري
     mt: ġurnata
     my: နေ့
     myv: чи-ве
@@ -429,7 +429,7 @@ dv_has_:
     nap: juorn
     nb: dag
     nds: Dag
-    nds-nl: dag
+    nds_nl: dag
     ne: दिन
     new: दिं
     nl: dag
@@ -452,7 +452,7 @@ dv_has_:
     pnb: دن
     ps: ورځ
     pt: dia
-    pt-br: dia
+    pt_br: dia
     pwn: qadaw
     qu: p'unchaw
     ro: zi
@@ -479,7 +479,7 @@ dv_has_:
     so: maalin
     sq: dita
     sr: дан
-    sr-ec: дан
+    sr_ec: дан
     su: poé
     sv: dygn
     sw: siku
@@ -495,7 +495,7 @@ dv_has_:
     tr: gün
     ts: siku
     tt: тәүлек
-    tt-cyrl: тәүлек
+    tt_cyrl: тәүлек
     tum: dazi
     ty: mahana
     udm: уй-нунал
@@ -520,13 +520,13 @@ dv_has_:
     za: ngoenz
     zgh: ⴰⵙⵙ
     zh: 日
-    zh-cn: 日
-    zh-hans: 日
-    zh-hant: 日
-    zh-hk: 日
-    zh-mo: 日
-    zh-sg: 日
-    zh-tw: 日
+    zh_cn: 日
+    zh_hans: 日
+    zh_hant: 日
+    zh_hk: 日
+    zh_mo: 日
+    zh_sg: 日
+    zh_tw: 日
     zu: usuku
 ---
 # [[Unit~Day]] 

@@ -114,7 +114,7 @@ dv_has_:
     pl: wrotki
     pms: Rotìfer
     pt: Rotifera
-    pt-br: Rotifera
+    pt_br: Rotifera
     ro: Rotifera
     ru: коловратки
     sco: rotifer
@@ -123,8 +123,8 @@ dv_has_:
     sl: kotačniki
     sq: Rotifera
     sr: ротаторија
-    sr-ec: Ротаторија
-    sr-el: Rotatorija
+    sr_ec: Ротаторија
+    sr_el: Rotatorija
     sv: Hjuldjur
     sw: kidudu-gurudumu
     th: โรติเฟอร์
@@ -137,12 +137,12 @@ dv_has_:
     wuu: 轮形动物门
     yue: 輪蟲動物
     zh: 轮形动物门
-    zh-cn: 轮形动物门
-    zh-hans: 轮形动物门
-    zh-hant: 輪形動物門
-    zh-hk: 輪形動物門
-    zh-sg: 轮形动物门
-    zh-tw: 輪形動物門
+    zh_cn: 轮形动物门
+    zh_hans: 轮形动物门
+    zh_hant: 輪形動物門
+    zh_hk: 輪形動物門
+    zh_sg: 轮形动物门
+    zh_tw: 輪形動物門
 ---
 # [[Rotifera]] 
 

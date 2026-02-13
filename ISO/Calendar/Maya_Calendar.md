@@ -74,7 +74,7 @@ Commons_category: Maya calendars
 dv_has_:
   name_:
     ar: تقويم المايا
-    be-tarask: майскі каляндар
+    be_tarask: майскі каляндар
     bg: Календар на маите
     bn: মায়া পঞ্জিকা
     bs: kalendar Maja
@@ -85,7 +85,7 @@ dv_has_:
     dsb: Kalendaŕ Maya
     el: Ημερολόγιο των Μάγιας
     en: Maya calendar
-    en-gb: Mayan calendar
+    en_gb: Mayan calendar
     eo: Majaa kalendaro
     es: calendario maya
     eu: maia egutegia
@@ -121,8 +121,8 @@ dv_has_:
     sl: majevski koledar
     sq: Kalendari maja
     sr: мајански календар
-    sr-ec: мајански календар
-    sr-el: majanski kalendar
+    sr_ec: мајански календар
+    sr_el: majanski kalendar
     sv: Mayakalendern
     ta: மாயா காலக்கணக்கு முறை
     tr: Maya takvimi
@@ -133,11 +133,11 @@ dv_has_:
     xmf: მაიაშ კალენდარი
     yue: 瑪雅曆法
     zh: 瑪雅曆
-    zh-cn: 玛雅历
-    zh-hans: 玛雅历
-    zh-hant: 瑪雅曆
-    zh-hk: 瑪雅曆
-    zh-tw: 瑪雅曆
+    zh_cn: 玛雅历
+    zh_hans: 玛雅历
+    zh_hant: 瑪雅曆
+    zh_hk: 瑪雅曆
+    zh_tw: 瑪雅曆
 ---
 # [[Maya_Calendar]] 
 

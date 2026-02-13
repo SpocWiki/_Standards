@@ -70,7 +70,7 @@ dv_has_:
   name_:
     af: Holstein Fries
     ar: هولستين
-    be-tarask: гайльштайн-фрыская карова
+    be_tarask: гайльштайн-фрыская карова
     ca: Vaca Frisona-Holstein
     ckb: مانگای فریزی
     cs: Holštýnský skot
@@ -125,8 +125,8 @@ dv_has_:
     wuu: 荷尔斯泰因牛
     yue: 菲士蘭牛
     zh: 荷尔斯泰因牛
-    zh-hans: 荷斯坦—弗里生协会
-    zh-hant: 荷斯坦—弗里生協會
+    zh_hans: 荷斯坦—弗里生协会
+    zh_hant: 荷斯坦—弗里生協會
 ---
 # [[Holstein_Cattle]] 
 

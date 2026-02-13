@@ -90,8 +90,8 @@ dv_has_:
     sl: Oribi
     sq: Ourebia ourebi
     sr: Ourebia ourebi ssp. haggardi
-    sr-ec: Ourebia ourebi ssp. haggardi
-    sr-el: Ourebia ourebi ssp. haggardi
+    sr_ec: Ourebia ourebi ssp. haggardi
+    sr_el: Ourebia ourebi ssp. haggardi
     sv: Oribi
     sw: Taya
     ta: ஒர்ரிபி
@@ -101,9 +101,9 @@ dv_has_:
     vi: Ourebia ourebi
     war: Ourebia ourebi
     zh: 侏羚
-    zh-cn: 肯尼亚侏羚
-    zh-hant: 肯亞侏羚
-    zh-tw: 侏羚
+    zh_cn: 肯尼亚侏羚
+    zh_hant: 肯亞侏羚
+    zh_tw: 侏羚
 ---
 # Ourebia ourebi 
 ![Ourebia](Ourebia/Ourebia.jpg) 

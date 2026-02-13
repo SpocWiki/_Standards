@@ -290,7 +290,7 @@ dv_has_:
     bar: Sänga
     bcl: Parakanta
     be: спявак
-    be-tarask: сьпявак
+    be_tarask: сьпявак
     bew: Biduan
     bg: певец/певица
     bn: সঙ্গীতশিল্পী
@@ -304,7 +304,7 @@ dv_has_:
     ckb: گۆرانیبێژ
     co: cantadore
     crh: yırcı
-    crh-latn: yırcı
+    crh_latn: yırcı
     cs: zpěvák
     csb: spiéwôk
     cv: Юрăçă (вокалист)
@@ -313,14 +313,14 @@ dv_has_:
     dag: baaŋa
     de: Sänger
     de-at: Sänger
-    de-ch: Sänger
+    de_ch: Sänger
     din: raankët
     diq: muzisyen
     dsb: spiwaŕ
     dtp: susuminḏing
     el: τραγουδιστής
     en: singer
-    en-gb: singer
+    en_gb: singer
     en-us: singer
     eo: kantisto
     es: cantante
@@ -368,11 +368,11 @@ dv_has_:
     kaa: qosıqshı
     kab: acennay
     kk: әнші
-    kk-latn: änşi
+    kk_latn: änşi
     ko: 가수
     ks: گُلو کار
     ku: stranbêj
-    ku-latn: stranbêj
+    ku_latn: stranbêj
     kv: сьылысь
     kw: kaner
     ky: Ырчы
@@ -387,7 +387,7 @@ dv_has_:
     ln: Moyémbi
     lt: dainininkas
     lv: dziedātājs
-    map-bms: Penyanyi
+    map_bms: Penyanyi
     mdf: морайсь
     mhr: мурызо
     min: Panyanyi
@@ -398,7 +398,7 @@ dv_has_:
     mr: गायक
     mrj: мырызы
     ms: penyanyi
-    ms-arab: ڤڽاڽي
+    ms_arab: ڤڽاڽي
     mt: kantant
     my: အဆိုတော်
     myv: морыця
@@ -426,7 +426,7 @@ dv_has_:
     pnb: گلوکار
     ps: سندرغاړي
     pt: cantor
-    pt-br: cantor
+    pt_br: cantor
     pwn: rusenasenay
     qu: Takiq
     rmf: džambiboskiero
@@ -451,8 +451,8 @@ dv_has_:
     so: Fanaan
     sq: këngëtar
     sr: певач
-    sr-ec: Певач
-    sr-el: Pevač
+    sr_ec: Певач
+    sr_el: Pevač
     su: Penyanyi
     sv: sångare
     sw: Mwimbaji
@@ -460,14 +460,14 @@ dv_has_:
     ta: பாடகர்
     te: గాయకులు
     tg: овозхон
-    tg-cyrl: сароянда
+    tg_cyrl: сароянда
     th: นักร้อง
     tl: mang-aawit
     tly: əhand
     tok: jan pi kalama uta
     tr: şarkıcı
     tt: җырчы
-    tt-cyrl: җырчы
+    tt_cyrl: җырчы
     udm: кырӟась
     uk: співак
     ur: گلو کار
@@ -486,14 +486,14 @@ dv_has_:
     za: Canghfwen
     zgh: ⴰⵎⴰⵔⵉⵔ
     zh: 歌手
-    zh-cn: 歌手
-    zh-hans: 歌手
-    zh-hant: 歌手
-    zh-hk: 歌手
-    zh-mo: 歌手
+    zh_cn: 歌手
+    zh_hans: 歌手
+    zh_hant: 歌手
+    zh_hk: 歌手
+    zh_mo: 歌手
     zh-my: 歌手
-    zh-sg: 歌手
-    zh-tw: 歌手
+    zh_sg: 歌手
+    zh_tw: 歌手
     zu: umculi
 ---
 # [[Singer]] 

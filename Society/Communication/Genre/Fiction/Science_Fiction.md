@@ -147,7 +147,7 @@ dv_has_:
     az: elmi fantastika
     ba: фәнни фантастика
     be: навуковая фантастыка
-    be-tarask: навуковая фантастыка
+    be_tarask: навуковая фантастыка
     bg: научна фантастика
     bho: साइंस फिक्शन
     bn: কল্পবিজ্ঞান
@@ -159,11 +159,11 @@ dv_has_:
     cy: ffuglen wyddonol
     da: science fiction
     de: Science-Fiction
-    de-ch: Science-Fiction
+    de_ch: Science-Fiction
     el: επιστημονική φαντασία
     en: science fiction
-    en-ca: Science fiction
-    en-gb: science fiction
+    en_ca: Science fiction
+    en_gb: science fiction
     eo: sciencfikcio
     es: ciencia ficción
     et: teadusulme
@@ -223,7 +223,7 @@ dv_has_:
     pnb: سائنس فِکشن
     ps: علمي تخیلي ژانر
     pt: ficção científica
-    pt-br: ficção científica
+    pt_br: ficção científica
     ro: științifico-fantastic
     ru: научная фантастика
     sah: Билимнээх ыра
@@ -242,13 +242,13 @@ dv_has_:
     ta: அறிவியல் புனைவு
     te: వైజ్ఞానిక కల్పన
     tg: илмӣ-тахайюлӣ
-    tg-cyrl: фантастикаи илмӣ
+    tg_cyrl: фантастикаи илмӣ
     th: บันเทิงคดีแนววิทยาศาสตร์
     tl: science fiction
     tly: elmijə fantastikə
     tr: bilimkurgu
     tt: фәнни фантастик
-    tt-cyrl: фәнни фантастик
+    tt_cyrl: фәнни фантастик
     uk: наукова фантастика
     ur: سائنسی قصص
     uz: Ilmiy fantastika
@@ -258,9 +258,9 @@ dv_has_:
     xmf: ომენცარე ფანტასტიკა
     yue: 科學幻想
     zh: 科學幻想
-    zh-hans: 科学幻想
-    zh-hant: 科學幻想
-    zh-hk: 科學幻想
+    zh_hans: 科学幻想
+    zh_hant: 科學幻想
+    zh_hk: 科學幻想
 ---
 # [[Science_Fiction]] 
 

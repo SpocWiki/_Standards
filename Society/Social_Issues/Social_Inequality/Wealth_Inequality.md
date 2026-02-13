@@ -28,15 +28,15 @@ dv_has_:
     sl: porazdelitev bogastva
     sq: Shpërndarja e pasurisë
     sr: расподела богатства
-    sr-ec: расподела богатства
-    sr-el: raspodela bogatstva
+    sr_ec: расподела богатства
+    sr_el: raspodela bogatstva
     tr: Gelir dağılımı
     ur: تقسیم دولت
     vi: Phân phối của cải
     yue: 財富分配
     zh: 財富分配
-    zh-cn: 财富分配
-    zh-hant: 財富分配
+    zh_cn: 财富分配
+    zh_hant: 財富分配
 aliases:
 - Agihan kekayaan
 - distribució de la riquesa

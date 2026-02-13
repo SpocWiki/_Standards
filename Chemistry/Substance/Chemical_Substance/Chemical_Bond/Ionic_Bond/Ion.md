@@ -126,7 +126,7 @@ dv_has_:
     azb: یون
     bcl: iyono
     be: іон
-    be-tarask: іён
+    be_tarask: іён
     bg: йон
     bn: আয়ন
     br: ion
@@ -142,7 +142,7 @@ dv_has_:
     de: Ion
     el: ιόν
     en: ion
-    en-gb: ion
+    en_gb: ion
     eo: jono
     es: ion
     et: ioon
@@ -190,7 +190,7 @@ dv_has_:
     mn: ион
     mr: आयन
     ms: ion
-    ms-arab: اييون
+    ms_arab: اييون
     my: အိုင်ယွန်
     nan: lī-chú
     nb: ion
@@ -206,7 +206,7 @@ dv_has_:
     pl: jon
     pnb: آئن
     pt: ião
-    pt-br: íon
+    pt_br: íon
     qu: iyun
     ro: ion
     ru: ион
@@ -223,7 +223,7 @@ dv_has_:
     sn: nhenda
     sq: joni
     sr: јон
-    sr-ec: јон
+    sr_ec: јон
     su: ion
     sv: jon
     sw: ioni
@@ -235,7 +235,7 @@ dv_has_:
     tl: iono
     tr: iyon
     tt: ион
-    tt-cyrl: ион
+    tt_cyrl: ион
     udm: ион
     uk: іон
     ur: آئون
@@ -250,7 +250,7 @@ dv_has_:
     yo: íónì
     yue: 離子
     zh: 离子
-    zh-hant: 離子
+    zh_hant: 離子
     zu: isihonyo
 ---
 # [[Ion]] 

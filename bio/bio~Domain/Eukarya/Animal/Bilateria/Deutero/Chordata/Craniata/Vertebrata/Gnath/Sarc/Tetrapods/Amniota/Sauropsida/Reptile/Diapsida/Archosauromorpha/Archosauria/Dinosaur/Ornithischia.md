@@ -112,12 +112,12 @@ dv_has_:
     war: Ornithischia
     yue: 鳥臀目
     zh: 鳥臀目
-    zh-cn: 鸟臀目
-    zh-hans: 鸟臀目
-    zh-hant: 鳥臀目
-    zh-hk: 鳥臀目
-    zh-sg: 鸟臀目
-    zh-tw: 鳥臀目
+    zh_cn: 鸟臀目
+    zh_hans: 鸟臀目
+    zh_hant: 鳥臀目
+    zh_hk: 鳥臀目
+    zh_sg: 鸟臀目
+    zh_tw: 鳥臀目
 ---
 # [[Ornithischia]]
 

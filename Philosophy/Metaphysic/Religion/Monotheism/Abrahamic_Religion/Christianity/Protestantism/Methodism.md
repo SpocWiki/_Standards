@@ -96,7 +96,7 @@ dv_has_:
     ast: metodismu
     az: metodizm
     be: метадызм
-    be-tarask: мэтадызм
+    be_tarask: мэтадызм
     bg: методизъм
     bs: Metodisti
     ca: metodisme
@@ -141,7 +141,7 @@ dv_has_:
     kk: Методизм
     km: មេតូឌីស្ទ
     ko: 감리교
-    ku-latn: metodîzm
+    ku_latn: metodîzm
     la: Ecclesiae Methodistae
     lrc: متدیسم
     lt: Metodistai
@@ -183,8 +183,8 @@ dv_has_:
     xmf: მეთოდიზმი
     yue: 循道衛理公會
     zh: 循道宗
-    zh-hk: 循道宗
-    zh-sg: 循道宗
+    zh_hk: 循道宗
+    zh_sg: 循道宗
 ---
 # [[Methodism]] 
 

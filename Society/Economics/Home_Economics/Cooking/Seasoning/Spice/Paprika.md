@@ -68,7 +68,7 @@ dv_has_:
     ast: pimentón
     az: paprika
     be: папрыка
-    be-tarask: папрыка
+    be_tarask: папрыка
     bg: червен пипер
     bn: পাপরিকা
     br: paprika
@@ -80,8 +80,8 @@ dv_has_:
     de: Paprika
     el: πάπρικα
     en: paprika
-    en-ca: paprika
-    en-gb: paprika
+    en_ca: paprika
+    en_gb: paprika
     eo: papriko
     es: pimentón
     eu: piperrauts
@@ -102,7 +102,7 @@ dv_has_:
     ka: პაპრიკა
     kn: ಪಪ್ರಿಕಾ
     ko: 파프리카 가루
-    ku-latn: îsot
+    ku_latn: îsot
     la: Paprica
     lad: paprika
     lv: paprika
@@ -117,7 +117,7 @@ dv_has_:
     pam: paprika
     pl: papryka
     pt: páprica
-    pt-br: páprica
+    pt_br: páprica
     ro: boia
     ru: паприка
     sco: paprika
@@ -125,7 +125,7 @@ dv_has_:
     sl: paprika
     sq: piper i kuq
     sr: паприка
-    sr-ec: паприка
+    sr_ec: паприка
     sv: paprikapulver
     tg: паприка
     th: ปาปริก้า
@@ -137,9 +137,9 @@ dv_has_:
     war: Paprika
     yue: 紅甜椒粉
     zh: 辣椒粉
-    zh-cn: 烟熏红椒
-    zh-hans: 烟熏红椒
-    zh-hant: 煙燻紅椒
+    zh_cn: 烟熏红椒
+    zh_hans: 烟熏红椒
+    zh_hant: 煙燻紅椒
 ---
 # [[Paprika]] 
 

@@ -15,8 +15,8 @@ dv_has_:
     de: James Bond 007 – Stirb an einem anderen Tag
     el: Πέθανε μια Άλλη Μέρα
     en: Die Another Day
-    en-ca: Die Another Day
-    en-gb: Die Another Day
+    en_ca: Die Another Day
+    en_gb: Die Another Day
     eo: Die Another Day
     es: Die Another Day
     et: Surra veel üks päev
@@ -49,7 +49,7 @@ dv_has_:
     nn: Die Another Day
     pl: Śmierć nadejdzie jutro
     pt: Die Another Day
-    pt-br: Die Another Day
+    pt_br: Die Another Day
     ru: Умри, но не сейчас
     sco: Die Another Day
     sh: Die Another Day
@@ -66,10 +66,10 @@ dv_has_:
     xmf: დოღური შხვა დღას
     yue: 新鐵金剛之不日殺機
     zh: 新鐵金剛之不日殺機
-    zh-cn: 007之择日而亡
-    zh-hans: 007之择日而亡
-    zh-hk: 新鐵金剛之不日殺機
-    zh-sg: 谁与争锋
+    zh_cn: 007之择日而亡
+    zh_hans: 007之择日而亡
+    zh_hk: 新鐵金剛之不日殺機
+    zh_sg: 谁与争锋
 aliases:
 - 007 ダイ・アナザー・デイ
 - 007 어나더데이

@@ -72,7 +72,7 @@ dv_has_:
     avk: yaksyatoleem
     az: Qalaqolar
     be: Галагавыя
-    be-tarask: галагавыя
+    be_tarask: галагавыя
     bg: галагови
     br: Galago
     ca: gàlags
@@ -84,8 +84,8 @@ dv_has_:
     din: Dimakok
     el: Γαλάγος
     en: Galagidae
-    en-ca: Galago
-    en-gb: Galago
+    en_ca: Galago
+    en_gb: Galago
     eo: Galagedoj
     es: Galagidae
     et: Galaagolased
@@ -111,11 +111,11 @@ dv_has_:
     ka: გალაგო
     kcg: Ka̱tyi̱ri̱ng gbi̱ri̱nyai
     kk: Галаго
-    kk-arab: گالاگو
+    kk_arab: گالاگو
     kk-cn: گالاگو
-    kk-cyrl: Галаго
+    kk_cyrl: Галаго
     kk-kz: Галаго
-    kk-latn: Galagidae
+    kk_latn: Galagidae
     kk-tr: Galagidae
     ko: 갈라고
     ky: Галаго
@@ -131,7 +131,7 @@ dv_has_:
     pl: Galagowate
     pnb: گالاگو
     pt: Galagidae
-    pt-br: Galagidae
+    pt_br: Galagidae
     ro: Galagidae
     ru: Галаговые
     sh: Galagiji
@@ -152,12 +152,12 @@ dv_has_:
     wuu: 婴猴科
     yue: 嬰猴科
     zh: 婴猴科
-    zh-cn: 婴猴科
-    zh-hans: 婴猴科
-    zh-hant: 嬰猴科
-    zh-hk: 嬰猴科
-    zh-sg: 婴猴科
-    zh-tw: 嬰猴科
+    zh_cn: 婴猴科
+    zh_hans: 婴猴科
+    zh_hant: 嬰猴科
+    zh_hk: 嬰猴科
+    zh_sg: 婴猴科
+    zh_tw: 嬰猴科
 ---
 # [[Galago]] 
 

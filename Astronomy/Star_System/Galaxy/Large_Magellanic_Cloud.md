@@ -162,7 +162,7 @@ dv_has_:
     ast: Gran Nube de Magallanes
     ba: Оло Магеллан Болото
     be: Вялікае Магеланава Воблака
-    be-tarask: Вялікае Магеланава Воблака
+    be_tarask: Вялікае Магеланава Воблака
     bg: Голям Магеланов облак
     bn: বৃহৎ ম্যাগেলানিক মেঘ
     br: Koumoulennad Vras Magalhaes
@@ -218,7 +218,7 @@ dv_has_:
     sk: Veľký Magellanov mrak
     sl: Veliki Magellanov oblak
     sr: Велики Магеланов облак
-    sr-ec: Велики Магеланов облак
+    sr_ec: Велики Магеланов облак
     sv: Stora magellanska molnet
     sw: Wingu Kubwa la Magellan
     th: เมฆแมเจลแลนใหญ่
@@ -231,9 +231,9 @@ dv_has_:
     wuu: 大麦哲伦星系
     yue: 大麥哲倫星系
     zh: 大麦哲伦星系
-    zh-cn: 大麦哲伦星系
-    zh-hk: 大麥哲倫星系
-    zh-tw: 大麥哲倫星系
+    zh_cn: 大麦哲伦星系
+    zh_hk: 大麥哲倫星系
+    zh_tw: 大麥哲倫星系
 ---
 # [[Large_Magellanic_Cloud]] 
 

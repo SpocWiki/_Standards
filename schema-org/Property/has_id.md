@@ -106,7 +106,7 @@ dv_has_:
     az: identifikator
     ba: идентификатор
     be: ідэнтыфікатар
-    be-tarask: ідэнтыфікатар
+    be_tarask: ідэнтыфікатар
     bg: идентификатор
     bn: শনাক্তকারী
     br: anaouder
@@ -118,7 +118,7 @@ dv_has_:
     de: Identifikator
     el: κωδικός αναφοράς
     en: identifier
-    en-gb: identifier
+    en_gb: identifier
     eo: identigilo
     es: identificador
     et: identifikaator
@@ -159,7 +159,7 @@ dv_has_:
     pl: identyfikator
     pnb: شناختی
     pt: identificador
-    pt-br: identificador
+    pt_br: identificador
     ro: identificator
     ru: идентификатор
     ryu: 識別子
@@ -171,8 +171,8 @@ dv_has_:
     sms: tobdstõk
     sq: identifikues
     sr: идентификатор
-    sr-ec: идентификатор
-    sr-el: identifikator
+    sr_ec: идентификатор
+    sr_el: identifikator
     sv: identifikator
     sw: kitambulishi
     szl: idyntyfikatōr
@@ -181,7 +181,7 @@ dv_has_:
     th: ตัวระบุ
     tr: tanımlayıcı
     tt: идентификатор
-    tt-cyrl: идентификатор
+    tt_cyrl: идентификатор
     uk: ідентифікатор
     ur: شناخت گر
     uz: Identifikator
@@ -189,11 +189,11 @@ dv_has_:
     vi: định danh
     yue: 識別碼
     zh: 標識符
-    zh-cn: 标识符
-    zh-hans: 标识符
-    zh-hant: 識別碼
-    zh-hk: 識別碼
-    zh-tw: 識別碼
+    zh_cn: 标识符
+    zh_hans: 标识符
+    zh_hant: 識別碼
+    zh_hk: 識別碼
+    zh_tw: 識別碼
 ---
 # [[has_id]] 🆔 
 

@@ -35,7 +35,7 @@ dv_has_:
     ast: Michael Mann
     az: Maykl Mann
     be: Майкл Ман
-    be-tarask: Майкл Ман
+    be_tarask: Майкл Ман
     bg: Майкъл Ман
     bn: মাইকেল মান
     ca: Michael Mann
@@ -77,7 +77,7 @@ dv_has_:
     pap: Michael Mann
     pl: Michael Mann
     pt: Michael Mann
-    pt-br: Michael Mann
+    pt_br: Michael Mann
     ro: Michael Mann
     ru: Майкл Манн
     sl: Michael Mann
@@ -91,9 +91,9 @@ dv_has_:
     xmf: მაიკლ მენი
     yue: 米高曼
     zh: 麥可·曼恩
-    zh-hk: 米高·曼
+    zh_hk: 米高·曼
     zh-my: 麦可·曼
-    zh-sg: 麦克·曼
+    zh_sg: 麦克·曼
 ---
 #is_/different_from :: [[Bay,Michael]] 
 #has_/time_/started :: 1943-02-05 

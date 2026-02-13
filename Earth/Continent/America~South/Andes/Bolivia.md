@@ -581,7 +581,7 @@ dv_has_:
     ab: Боливиа
     ace: Bolivia
     ady: Боливие
-    aeb-arab: بوليڥيا
+    aeb_arab: بوليڥيا
     af: Bolivië
     am: ቦሊቪያ
     ami: Bolivia
@@ -603,7 +603,7 @@ dv_has_:
     bbc: Bolivia
     bcl: Bolibya
     be: Балівія
-    be-tarask: Балівія
+    be_tarask: Балівія
     bew: Boliwi
     bg: Боливия
     bgn: بولی ویا
@@ -617,7 +617,7 @@ dv_has_:
     bs: Bolivija
     bxr: Боливи
     ca: Bolívia
-    cbk-zam: Bolivia
+    cbk_zam: Bolivia
     cdo: Bolivia
     ce: Боливи
     ceb: Bolivia
@@ -626,7 +626,7 @@ dv_has_:
     ckb: بۆلیڤیا
     co: Bolivia
     crh: Boliviya
-    crh-latn: Boliviya
+    crh_latn: Boliviya
     cs: Bolívie
     csb: Bòliwiô
     cv: Боливи
@@ -635,7 +635,7 @@ dv_has_:
     dag: Bolivia
     de: Bolivien
     de-at: Bolivien
-    de-ch: Bolivien
+    de_ch: Bolivien
     diq: Bolivya
     dsb: Boliwiska
     dty: बोलिभिया
@@ -644,8 +644,8 @@ dv_has_:
     ee: Bolivia
     el: Βολιβία
     en: Bolivia
-    en-ca: Bolivia
-    en-gb: Bolivia
+    en_ca: Bolivia
+    en_gb: Bolivia
     en-us: Bolivia
     eo: Bolivio
     es: Bolivia
@@ -671,7 +671,7 @@ dv_has_:
     gn: Volívia
     gom: बोलिव्हिया
     gom-deva: बोलिव्हिया
-    gom-latn: Bolivia
+    gom_latn: Bolivia
     got: "\U00010331\U00010330\U0001033F\U0001033B\U00010339\U00010331\U0001033E\U00010330"
     gpe: Bolivia
     gsw: Bolivien
@@ -738,7 +738,7 @@ dv_has_:
     lv: Bolīvija
     lzh: 玻利維亞
     mad: Bolivia
-    map-bms: Bolivia
+    map_bms: Bolivia
     mdf: Боливия
     mg: Bolivia
     mhr: Боливий
@@ -762,7 +762,7 @@ dv_has_:
     nap: Bolivia
     nb: Bolivia
     nds: Bolivien
-    nds-nl: Bolivia
+    nds_nl: Bolivia
     ne: बोलिभिया
     new: बोलिभिया
     nl: Bolivia
@@ -787,7 +787,7 @@ dv_has_:
     pnb: بولیویا
     ps: بوليويا
     pt: Bolívia
-    pt-br: Bolívia
+    pt_br: Bolívia
     qu: Wuliwya
     rm: Bolivia
     rmy: Boliviya
@@ -820,8 +820,8 @@ dv_has_:
     so: Boliifia
     sq: Bolivia
     sr: Боливија
-    sr-ec: Боливија
-    sr-el: Bolivija
+    sr_ec: Боливија
+    sr_el: Bolivija
     ss: IBholiviya
     stq: Bolivien
     su: Bolivia
@@ -873,11 +873,11 @@ dv_has_:
     zea: Bolivia
     zgh: ⴱⵓⵍⵉⴼⵢⴰ
     zh: 玻利維亞
-    zh-cn: 玻利维亚
-    zh-hans: 玻利维亚
-    zh-hant: 玻利維亞
-    zh-hk: 玻利維亞
-    zh-tw: 玻利維亞
+    zh_cn: 玻利维亚
+    zh_hans: 玻利维亚
+    zh_hant: 玻利維亞
+    zh_hk: 玻利維亞
+    zh_tw: 玻利維亞
     zu: i-Bolivia
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Bolivia

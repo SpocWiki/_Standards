@@ -113,7 +113,7 @@ dv_has_:
     ast: Encefalitis
     az: Ensefalit
     be: энцэфаліт
-    be-tarask: энцэфаліт
+    be_tarask: энцэфаліт
     bg: Енцефалит
     bn: মস্তিস্ক জর
     bo: ཀླད་ཚད་
@@ -169,8 +169,8 @@ dv_has_:
     sk: Encefalitída
     sl: encefalitis
     sr: енцефалитис
-    sr-ec: eнцефалитис
-    sr-el: encefalitis
+    sr_ec: eнцефалитис
+    sr_el: encefalitis
     sv: hjärninflammation
     sw: Uvimbe wa ubongo
     ta: மூளையழற்சி
@@ -186,12 +186,12 @@ dv_has_:
     wuu: 脑炎
     yue: 腦炎
     zh: 脑炎
-    zh-cn: 脑炎
-    zh-hans: 脑炎
-    zh-hant: 腦炎
-    zh-hk: 腦炎
-    zh-sg: 脑炎
-    zh-tw: 腦炎
+    zh_cn: 脑炎
+    zh_hans: 脑炎
+    zh_hant: 腦炎
+    zh_hk: 腦炎
+    zh_sg: 脑炎
+    zh_tw: 腦炎
 ---
 # [[Encephalitis]] 
 

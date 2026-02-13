@@ -66,7 +66,7 @@ dv_has_:
     ab: Кыргызсҭан
     ace: Kyrgyzstan
     ady: Кыргызстан
-    aeb-arab: قيرغيزستان
+    aeb_arab: قيرغيزستان
     af: Kirgisië
     alt: Кыргызстан
     am: ኪርጊዝስታን
@@ -89,7 +89,7 @@ dv_has_:
     bar: Kirgisistan
     bcl: Kirgistan
     be: Кыргызстан
-    be-tarask: Кыргыстан
+    be_tarask: Кыргыстан
     bew: Kirgistan
     bg: Киргизстан
     bgn: قرگیزستان
@@ -104,7 +104,7 @@ dv_has_:
     bs: Kirgistan
     bxr: Кыргызстан
     ca: Kirguizstan
-    cbk-zam: Kirguizistán
+    cbk_zam: Kirguizistán
     cdo: Kyrgyzstan
     ce: ГӀиргӀазойчоь
     ceb: Kyrgyzstan
@@ -112,7 +112,7 @@ dv_has_:
     ckb: قرغیزستان
     co: Chirghizistanu
     crh: Qırğızistan
-    crh-latn: Qırğızistan
+    crh_latn: Qırğızistan
     crh-ro: Kîrgîzîstan
     cs: Kyrgyzstán
     csb: Kirgistan
@@ -123,7 +123,7 @@ dv_has_:
     dag: Kyrgyzstan
     de: Kirgisistan
     de-at: Kirgisistan
-    de-ch: Kirgisistan
+    de_ch: Kirgisistan
     diq: Qırğızıstan
     dsb: Kirgiziska
     dtp: Kyrgyzstan
@@ -132,8 +132,8 @@ dv_has_:
     ee: Kyrgyzstan
     el: Κιργιζία
     en: Kyrgyzstan
-    en-ca: Kyrgyzstan
-    en-gb: Kyrgyzstan
+    en_ca: Kyrgyzstan
+    en_gb: Kyrgyzstan
     eo: Kirgizio
     es: Kirguistán
     et: Kõrgõzstan
@@ -191,8 +191,8 @@ dv_has_:
     kge: Kirgizstan
     ki: Kyrgyzstan
     kk: Қырғызстан
-    kk-cyrl: Қырғызстан
-    kk-latn: Qyrǵyzstan
+    kk_cyrl: Қырғызстан
+    kk_latn: Qyrǵyzstan
     km: កៀហ៊្សីស៊ីស្ថាន
     kn: ಕಿರ್ಗಿಸ್ಥಾನ್
     ko: 키르기스스탄
@@ -221,7 +221,7 @@ dv_has_:
     lzh: 吉爾吉斯
     mad: Kirgizstan
     mai: किर्गिजस्तान
-    map-bms: Kirgizstan
+    map_bms: Kirgizstan
     mdf: Кыргызстан
     mg: Kirgizistana
     mhr: Кыргызстан
@@ -244,7 +244,7 @@ dv_has_:
     nan-hani: Kyrgyz
     nb: Kirgisistan
     nds: Kirgisien
-    nds-nl: Kyrgysie
+    nds_nl: Kyrgysie
     ne: किर्गिजस्तान
     new: कीर्गीस्तान
     nl: Kirgizië
@@ -267,7 +267,7 @@ dv_has_:
     pnb: کرغیزستان
     ps: قرغزستان
     pt: Quirguistão
-    pt-br: Quirguistão
+    pt_br: Quirguistão
     qu: Kirkisuyu
     rmy: Kirgizstan
     ro: Kârgâzstan
@@ -297,8 +297,8 @@ dv_has_:
     so: Qargistan
     sq: Kirgistani
     sr: Киргистан
-    sr-ec: Киргистан
-    sr-el: Kirgistan
+    sr_ec: Киргистан
+    sr_el: Kirgistan
     srn: Kirgisikondre
     ss: IKhirigi
     su: Kirgistan
@@ -312,7 +312,7 @@ dv_has_:
     te: కిర్గిజిస్తాన్
     tet: Kirgizistaun
     tg: Қирғизистон
-    tg-cyrl: Қирғизистон
+    tg_cyrl: Қирғизистон
     th: ประเทศคีร์กีซสถาน
     tk: Gyrgyzystan
     tl: Kyrgyzstan
@@ -348,14 +348,14 @@ dv_has_:
     zea: Kirhizië
     zgh: ⴽⵉⵔⴳⵉⵣⵉⵙⵜⴰⵏ
     zh: 吉尔吉斯斯坦
-    zh-cn: 吉尔吉斯斯坦
-    zh-hans: 吉尔吉斯斯坦
-    zh-hant: 吉爾吉斯
-    zh-hk: 吉爾吉斯
-    zh-mo: 吉爾吉斯斯坦
+    zh_cn: 吉尔吉斯斯坦
+    zh_hans: 吉尔吉斯斯坦
+    zh_hant: 吉爾吉斯
+    zh_hk: 吉爾吉斯
+    zh_mo: 吉爾吉斯斯坦
     zh-my: 吉尔吉斯斯坦
-    zh-sg: 吉尔吉斯斯坦
-    zh-tw: 吉爾吉斯
+    zh_sg: 吉尔吉斯斯坦
+    zh_tw: 吉爾吉斯
     zu: i-Kyrgyzstan
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Kyrgyzstan

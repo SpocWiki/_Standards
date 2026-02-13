@@ -85,7 +85,7 @@ dv_has_:
     ast: Tresmisión de datos
     az: verilənlərin ötürülməsi
     be: перадача даных
-    be-tarask: перадача зьвестак
+    be_tarask: перадача зьвестак
     bg: Предаване на данни
     bs: prenos podataka
     ca: transmissió de dades
@@ -114,7 +114,7 @@ dv_has_:
     ka: მონაცემთა გადაცემა
     kaa: Maǵlıwmatlar baylanısı
     kk: цифрлық байланыс хаттамасы
-    kk-latn: cïfrlıq baylanıs xattaması
+    kk_latn: cïfrlıq baylanıs xattaması
     ko: 데이터 전송
     ky: маалыматтарды берүү
     la: transmissio datorum
@@ -141,16 +141,16 @@ dv_has_:
     te: డేటా ట్రాన్స్మిషన్
     tr: veri akışı
     tt: мәгълүмат тапшыру
-    tt-latn: mägʺlümat tapšyru
+    tt_latn: mägʺlümat tapšyru
     uk: передавання даних
     uz: ma’lumotlarni uzatish
     vi: Truyền dữ liệu
     wuu: 数据传输
     yue: 數據傳輸
     zh: 数据传输
-    zh-hans: 发出数据
-    zh-hant: 發出資料
-    zh-tw: 資料傳輸
+    zh_hans: 发出数据
+    zh_hant: 發出資料
+    zh_tw: 資料傳輸
 ---
 # [[Data_Transmission]] 
 

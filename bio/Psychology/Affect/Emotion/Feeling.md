@@ -113,7 +113,7 @@ dv_has_:
     azb: دویغو
     ba: хиссиәт
     be: пачуццё
-    be-tarask: пачуцьцё
+    be_tarask: пачуцьцё
     bg: чувство
     bn: অনুভূতি
     br: santimant
@@ -161,7 +161,7 @@ dv_has_:
     ml: തോന്നൽ
     mr: भावना
     ms: perasaan
-    ms-arab: ڤراساءن
+    ms_arab: ڤراساءن
     my: ထိကြုံခံစားချက်
     nb: følelser
     nl: gevoel
@@ -172,7 +172,7 @@ dv_has_:
     pap: sentimento
     pl: uczucia
     pt: sentimento
-    pt-br: sentimento
+    pt_br: sentimento
     qu: kawllay
     ro: sentiment
     ru: чувство
@@ -185,15 +185,15 @@ dv_has_:
     sms: tobddõš
     sq: ndjenjat
     sr: осећај
-    sr-ec: oсећај
-    sr-el: osećaj
+    sr_ec: oсећај
+    sr_el: osećaj
     sv: känsla
     te: మానవ అంతర్గత లక్షణాలు
     tg: эҳсос
     th: ความรู้สึก
     tr: his
     tt: хис
-    tt-cyrl: хис
+    tt_cyrl: хис
     uk: почуття
     uz: hissiyot
     vec: sentimento
@@ -203,12 +203,12 @@ dv_has_:
     yi: געפילן
     yue: 感覺
     zh: 感覺
-    zh-cn: 感觉
-    zh-hans: 感觉
-    zh-hant: 感覺
-    zh-hk: 感覺
-    zh-sg: 感觉
-    zh-tw: 感覺
+    zh_cn: 感觉
+    zh_hans: 感觉
+    zh_hant: 感覺
+    zh_hk: 感覺
+    zh_sg: 感觉
+    zh_tw: 感覺
     zu: imizwa
 ---
 # [[Feeling]] 

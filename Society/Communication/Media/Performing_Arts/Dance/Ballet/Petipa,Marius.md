@@ -100,7 +100,7 @@ dv_has_:
     ba: Петипа Мариус Иванович
     bar: Marius Petipa
     be: Марыус Іванавіч Петыпа
-    be-tarask: Марыюс Пэтыпа
+    be_tarask: Марыюс Пэтыпа
     bg: Мариус Петипа
     br: Marius Petipa
     ca: Marius Petipa
@@ -110,10 +110,10 @@ dv_has_:
     da: Marius Petipa
     de: Marius Petipa
     de-at: Marius Petipa
-    de-ch: Marius Petipa
+    de_ch: Marius Petipa
     en: Marius Petipa
-    en-ca: Marius Petipa
-    en-gb: Marius Petipa
+    en_ca: Marius Petipa
+    en_gb: Marius Petipa
     eo: Marius Petipa
     es: Marius Petipa
     et: Marius Petipa
@@ -141,11 +141,11 @@ dv_has_:
     ja: マリウス・プティパ
     kg: Marius Petipa
     kk: Мариус Иванович Петипа
-    kk-arab: مارىيۋس ىيۆانوۆىيتش پەتىيپا
+    kk_arab: مارىيۋس ىيۆانوۆىيتش پەتىيپا
     kk-cn: مارىيۋس ىيۆانوۆىيتش پەتىيپا
-    kk-cyrl: Мариус Иванович Петипа
+    kk_cyrl: Мариус Иванович Петипа
     kk-kz: Мариус Иванович Петипа
-    kk-latn: Marïws Ïvanovïç Petïpa
+    kk_latn: Marïws Ïvanovïç Petïpa
     kk-tr: Marïws Ïvanovïç Petïpa
     ko: 마리우스 프티파
     la: Marius Petipa
@@ -159,7 +159,7 @@ dv_has_:
     nap: Marius Petipa
     nb: Marius Petipa
     nds: Marius Petipa
-    nds-nl: Marius Petipa
+    nds_nl: Marius Petipa
     nl: Marius Petipa
     nn: Marius Petipa
     nrm: Marius Petipa
@@ -169,7 +169,7 @@ dv_has_:
     pl: Marius Petipa
     pms: Marius Petipa
     pt: Marius Petipa
-    pt-br: Marius Petipa
+    pt_br: Marius Petipa
     rm: Marius Petipa
     ro: Marius Petipa
     ru: Мариус Иванович Петипа
@@ -180,8 +180,8 @@ dv_has_:
     sl: Marius Petipa
     sq: Marius Petipa
     sr: Маријус Петипа
-    sr-ec: Маријус Петипа
-    sr-el: Marijus Petipa
+    sr_ec: Маријус Петипа
+    sr_el: Marijus Petipa
     sv: Marius Petipa
     sw: Marius Petipa
     tr: Marius Petipa
@@ -196,7 +196,7 @@ dv_has_:
     wuu: 马里于斯·珀蒂帕
     yue: 馬里于斯·珀蒂帕
     zh: 马里于斯·珀蒂帕
-    zh-cn: 马里于斯·珀蒂帕
+    zh_cn: 马里于斯·珀蒂帕
     zu: Marius Petipa
 ---
 # [[Petipa,Marius]] 

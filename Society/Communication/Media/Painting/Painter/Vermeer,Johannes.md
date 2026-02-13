@@ -174,7 +174,7 @@ dv_has_:
     az: Yan Vermeer
     ba: Ян Вермеер
     be: Ян Вермер
-    be-tarask: Ян Вэрмээр
+    be_tarask: Ян Вэрмээр
     bg: Йоханес Вермер
     bn: জোহানস্ ভারমির
     br: Johannes Vermeer
@@ -186,12 +186,12 @@ dv_has_:
     cy: Johannes Vermeer
     da: Johannes Vermeer
     de: Jan Vermeer
-    de-ch: Jan Vermeer
+    de_ch: Jan Vermeer
     diq: Johannes Vermeer
     el: Γιοχάνες Βερμέερ
     en: Johannes Vermeer
-    en-ca: Johannes Vermeer
-    en-gb: Johannes Vermeer
+    en_ca: Johannes Vermeer
+    en_gb: Johannes Vermeer
     eo: Johannes Vermeer
     es: Johannes Vermeer
     et: Johannes Vermeer
@@ -252,7 +252,7 @@ dv_has_:
     pnb: جان ورمیر
     ps: یوهانس ورمیر
     pt: Johannes Vermeer
-    pt-br: Johannes Vermeer
+    pt_br: Johannes Vermeer
     ro: Johannes Vermeer
     ru: Ян Вермеер
     sc: Jan Vermeer
@@ -263,7 +263,7 @@ dv_has_:
     sl: Jan Vermeer van Delft
     sq: Johannes Vermeer
     sr: Јоханес Вермер
-    sr-ec: Јоханес Вермер
+    sr_ec: Јоханес Вермер
     stq: Johannes Vermeer
     sv: Jan Vermeer
     ta: யொஹான்னெஸ் வெர்மீர்
@@ -280,8 +280,8 @@ dv_has_:
     xmf: იან ვერმეერი
     yue: 維梅爾
     zh: 约翰尼斯·弗美尔
-    zh-hant: 约翰尼斯·維梅爾
-    zh-tw: 约翰尼斯·維梅爾
+    zh_hant: 约翰尼斯·維梅爾
+    zh_tw: 约翰尼斯·維梅爾
 ---
 # [[Vermeer,Johannes]]
 

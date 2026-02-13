@@ -57,7 +57,7 @@ dv_has_:
     ast: Bigamia
     az: İkiarvadlılıq
     be: Бігамія
-    be-tarask: дваяжэнства
+    be_tarask: дваяжэнства
     br: Divwregiezh
     bs: Bigamija
     ca: bigàmia
@@ -65,8 +65,8 @@ dv_has_:
     de: Bigamie
     el: Διγαμία
     en: bigamy
-    en-ca: Bigamy
-    en-gb: Bigamy
+    en_ca: Bigamy
+    en_gb: Bigamy
     en-us: bigamy
     eo: bigamio
     es: bigamia
@@ -93,7 +93,7 @@ dv_has_:
     pa: ਦੋ-ਪਤਨੀ ਵਿਆਹ
     pl: Bigamia
     pt: bigamia
-    pt-br: Bigamia
+    pt_br: Bigamia
     ro: Bigamie
     ru: двоежёнство
     se: guvttiinnáitaleapmi
@@ -104,12 +104,12 @@ dv_has_:
     smn: kuohtiinaaijâm
     sms: bigamia
     sr: Бигамија
-    sr-ec: бигамија
-    sr-el: bigamija
+    sr_ec: бигамија
+    sr_el: bigamija
     sv: bigami
     ta: இருதுணை மணம்
     tg: Дузанагӣ ё серзанагӣ
-    tg-cyrl: Дузанагӣ ё серзанагӣ
+    tg_cyrl: Дузанагӣ ё серзанагӣ
     th: การสมรสซ้อน
     tl: Bigamya
     tr: İki eşlilik
@@ -117,10 +117,10 @@ dv_has_:
     ur: دو شریک حیات
     yue: 重婚
     zh: 重婚
-    zh-cn: 重婚
-    zh-hans: 重婚
-    zh-hant: 重婚
-    zh-hk: 重婚
+    zh_cn: 重婚
+    zh_hans: 重婚
+    zh_hant: 重婚
+    zh_hk: 重婚
 ---
 # [[Bigamy]] 
 

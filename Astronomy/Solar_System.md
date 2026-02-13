@@ -311,7 +311,7 @@ dv_has_:
     bar: Sunsystem
     bcl: Sistemang Solar
     be: Сонечная сістэма
-    be-tarask: Сонечная сыстэма
+    be_tarask: Сонечная сыстэма
     bew: Tata Kemataarian
     bg: Слънчева система
     bho: सौर मंडल
@@ -344,8 +344,8 @@ dv_has_:
     el: Ηλιακό σύστημα
     eml: Sistéma sulàr
     en: Solar System
-    en-ca: Solar System
-    en-gb: Solar System
+    en_ca: Solar System
+    en_gb: Solar System
     eo: sunsistemo
     es: sistema solar
     et: päikesesüsteem
@@ -430,7 +430,7 @@ dv_has_:
     mad: Tata surya
     mag: सौरमण्डल
     mai: सौर्य परिवार
-    map-bms: Tata Surya
+    map_bms: Tata Surya
     mg: Rafitry ny masoandro
     mi: whānau a Tamanuiterā
     min: Tata Surya
@@ -439,7 +439,7 @@ dv_has_:
     mn: Нарны аймаг
     mr: सूर्यमाला
     ms: Sistem Suria
-    ms-arab: سيستم سوريا
+    ms_arab: سيستم سوريا
     mt: Sistema Solari
     mwl: Sistema Solar
     my: နေအဖွဲ့အစည်း
@@ -450,7 +450,7 @@ dv_has_:
     nap: Sistema solare
     nb: solsystemet
     nds: Sünnsystem
-    nds-nl: Zunnesysteem
+    nds_nl: Zunnesysteem
     ne: सौर्यमण्डल
     new: सौर्यमण्डल
     nl: Zonnestelsel
@@ -471,7 +471,7 @@ dv_has_:
     pnb: سورجی نظام
     ps: لمريز غونډال
     pt: Sistema Solar
-    pt-br: Sistema Solar
+    pt_br: Sistema Solar
     qu: Inti Llika
     rm: Sistem solar
     rmy: Kham-Sestemi
@@ -543,14 +543,14 @@ dv_has_:
     yue: 太陽系
     zgh: ⴰⵏⴳⵔⴰⵡ ⴰⴼⵓⴽⴰⵏ
     zh: 太陽系
-    zh-cn: 太阳系
-    zh-hans: 太阳系
-    zh-hant: 太陽系
-    zh-hk: 太陽系
-    zh-mo: 太陽系
+    zh_cn: 太阳系
+    zh_hans: 太阳系
+    zh_hant: 太陽系
+    zh_hk: 太陽系
+    zh_mo: 太陽系
     zh-my: 太阳系
-    zh-sg: 太阳系
-    zh-tw: 太陽系
+    zh_sg: 太阳系
+    zh_tw: 太陽系
     zu: Uhlelo Lemihlaba YeLanga
 ---
 # [[Solar_System]]

@@ -176,7 +176,7 @@ dv_has_:
     ba: Том Хэнкс
     bar: Tom Hanks
     be: Том Хэнкс
-    be-tarask: Том Гэнкс
+    be_tarask: Том Гэнкс
     bg: Том Ханкс
     bho: टॉम हैंक्स
     bi: Tom Hanks
@@ -194,15 +194,15 @@ dv_has_:
     da: Tom Hanks
     de: Tom Hanks
     de-at: Tom Hanks
-    de-ch: Tom Hanks
+    de_ch: Tom Hanks
     diq: Tom Hanks
     dsb: Tom Hanks
     dtp: Tom Hanks
     el: Τομ Χανκς
     eml: Tom Hanks
     en: Tom Hanks
-    en-ca: Tom Hanks
-    en-gb: Tom Hanks
+    en_ca: Tom Hanks
+    en_gb: Tom Hanks
     eo: Tom Hanks
     es: Tom Hanks
     et: Tom Hanks
@@ -278,7 +278,7 @@ dv_has_:
     nap: Tom Hanks
     nb: Tom Hanks
     nds: Tom Hanks
-    nds-nl: Tom Hanks
+    nds_nl: Tom Hanks
     ne: टम ह्याङ्क्स
     nl: Tom Hanks
     nn: Tom Hanks
@@ -293,7 +293,7 @@ dv_has_:
     pms: Tom Hanks
     prg: Tom Hanks
     pt: Tom Hanks
-    pt-br: Tom Hanks
+    pt_br: Tom Hanks
     qu: Tom Hanks
     rgn: Tom Hanks
     rm: Tom Hanks
@@ -316,8 +316,8 @@ dv_has_:
     sms: Tom Hanks
     sq: Tom Hanks
     sr: Том Хенкс
-    sr-ec: Том Хенкс
-    sr-el: Tom Hanks
+    sr_ec: Том Хенкс
+    sr_el: Tom Hanks
     sv: Tom Hanks
     sw: Tom Hanks
     szl: Tom Hanks
@@ -328,7 +328,7 @@ dv_has_:
     tl: Tom Hanks
     tr: Tom Hanks
     tt: Том Һәңкс
-    tt-cyrl: Том Һәңкс
+    tt_cyrl: Том Һәңкс
     uk: Том Генкс
     ur: ٹام ہینکس
     uz: Tom Hanks
@@ -346,12 +346,12 @@ dv_has_:
     yue: 湯漢斯
     zea: Tom Hanks
     zh: 汤姆·汉克斯
-    zh-cn: 汤姆·汉克斯
-    zh-hans: 汤姆·汉克斯
-    zh-hant: 湯姆·漢克斯
-    zh-hk: 湯漢斯
+    zh_cn: 汤姆·汉克斯
+    zh_hans: 汤姆·汉克斯
+    zh_hant: 湯姆·漢克斯
+    zh_hk: 湯漢斯
     zh-my: 汤·汉斯
-    zh-sg: 汤姆·汉克斯
+    zh_sg: 汤姆·汉克斯
     zu: Tom Hanks
 ---
 # [[Hanks,Tom]] 

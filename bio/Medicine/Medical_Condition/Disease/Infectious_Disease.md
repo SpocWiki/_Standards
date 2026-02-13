@@ -210,7 +210,7 @@ dv_has_:
     ast: enfermedá infecciosa
     az: Yoluxucu xəstəliklər
     be: інфекцыйнае захворванне
-    be-tarask: інфэкцыйнае захворваньне
+    be_tarask: інфэкцыйнае захворваньне
     bg: Инфекциозна болест
     bn: সংক্রামক রোগ
     bo: ནད་ཡམས།
@@ -221,7 +221,7 @@ dv_has_:
     cy: clefyd heintus
     da: infektionssygdom
     de: Infektionskrankheit
-    de-ch: Infektionskrankheit
+    de_ch: Infektionskrankheit
     diq: nêweşiya cenge
     dty: सरुवा रोग
     el: μολυσματική ασθένεια
@@ -256,11 +256,11 @@ dv_has_:
     kab: Aṭṭan amanṭaṭ
     kbp: Kʊdɔŋ kɩɖɛzʊʊ
     kk: Жұқпалы аурулар
-    kk-arab: جۇقپالى اۋرۋلار
+    kk_arab: جۇقپالى اۋرۋلار
     kk-cn: جۇقپالى اۋرۋلار
-    kk-cyrl: Жұқпалы аурулар
+    kk_cyrl: Жұқпалы аурулар
     kk-kz: Жұқпалы аурулар
-    kk-latn: Juqpalı awrwlar
+    kk_latn: Juqpalı awrwlar
     kk-tr: Juqpalı awrwlar
     ko: 감염병
     kw: dises klevesus
@@ -273,7 +273,7 @@ dv_has_:
     mk: заразна болест
     mr: संसर्गजन्य रोग
     ms: penyakit berjangkit
-    ms-arab: ڤڽاکيت برجڠکيت
+    ms_arab: ڤڽاکيت برجڠکيت
     my: ကူးစက်တတ်သည့် ရောဂါများ
     nan: Thoân-jiám-pīⁿ
     nb: infeksjonssykdom
@@ -287,7 +287,7 @@ dv_has_:
     pl: choroba zakaźna
     ps: ساري ناروغۍ
     pt: doença infeciosa
-    pt-br: doença infecciosa
+    pt_br: doença infecciosa
     rmf: smittibosko duk
     ro: boală infecțioasă
     ru: инфекционное заболевание
@@ -305,8 +305,8 @@ dv_has_:
     sms: pâššnemkõpp
     sq: Sëmundja infektive
     sr: заразна болест
-    sr-ec: инфективна болест
-    sr-el: infektivna bolest
+    sr_ec: инфективна болест
+    sr_el: infektivna bolest
     srn: dyomposiki
     sv: infektionssjukdom
     sw: Ugonjwa wa kuambukiza
@@ -318,7 +318,7 @@ dv_has_:
     tl: nakahahawang sakit
     tr: bulaşıcı hastalık
     tt: инфекцион авырулар
-    tt-cyrl: инфекцион авырулар
+    tt_cyrl: инфекцион авырулар
     udm: паласькись висёнъёс
     uk: інфекційне захворювання
     ur: متعدی امراض
@@ -331,12 +331,12 @@ dv_has_:
     yue: 傳染病
     za: Binghlah
     zh: 傳染病
-    zh-cn: 传染病
-    zh-hans: 传染病
-    zh-hant: 傳染病
-    zh-hk: 傳染病
-    zh-sg: 传染病
-    zh-tw: 傳染病
+    zh_cn: 传染病
+    zh_hans: 传染病
+    zh_hant: 傳染病
+    zh_hk: 傳染病
+    zh_sg: 传染病
+    zh_tw: 傳染病
 ---
 # [[Infectious_Disease]] 
 

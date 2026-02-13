@@ -251,7 +251,7 @@ dv_has_:
     ban: Kedelé
     bar: Sojaboanl
     be: соя культурная
-    be-tarask: соевыя бабы
+    be_tarask: соевыя бабы
     bg: соя
     bho: सोआबीन
     blk: ဗေ
@@ -272,7 +272,7 @@ dv_has_:
     dty: भटमास
     el: Σόγια
     en: soybean
-    en-gb: soybean
+    en_gb: soybean
     eo: sojfabo
     es: soya
     et: karvane sojauba
@@ -345,7 +345,7 @@ dv_has_:
     pms: Sòja
     pnb: سویا بین
     pt: soja
-    pt-br: Glycine max
+    pt_br: Glycine max
     qu: Suya
     ro: Soia
     ru: соя культурная
@@ -387,7 +387,7 @@ dv_has_:
     za: Duhhenj
     zh: 大豆
     zh-cn: 大豆
-    zh-tw: 大豆
+    zh_tw: 大豆
 ---
 # [[Soybean]]
 

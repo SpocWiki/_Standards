@@ -255,7 +255,7 @@ dv_has_:
     bbc: Pulo
     bcl: Isla
     be: востраў
-    be-tarask: востраў
+    be_tarask: востраў
     bg: остров
     bho: द्वीप
     bjn: pulau
@@ -273,14 +273,14 @@ dv_has_:
     cy: ynys
     da: ø
     de: Insel
-    de-ch: Insel
+    de_ch: Insel
     diq: Ade
     dtp: Pulau
     el: νησί
     eml: Îsla
     en: island
-    en-ca: island
-    en-gb: island
+    en_ca: island
+    en_gb: island
     eo: insulo
     es: isla
     et: saar
@@ -338,7 +338,7 @@ dv_has_:
     krc: Айрымкан
     ks: لانٛکھ
     ku: girav
-    ku-latn: girav
+    ku_latn: girav
     kv: Ді
     kw: Enys
     ky: Арал
@@ -353,7 +353,7 @@ dv_has_:
     lo: កោះ
     lt: Sala
     lv: sala
-    map-bms: pulo
+    map_bms: pulo
     mdf: Цёнга
     mg: Nosy
     mhr: отро
@@ -367,7 +367,7 @@ dv_has_:
     mr: बेट
     mrj: Ошмаоты
     ms: pulau
-    ms-arab: ڤولاو
+    ms_arab: ڤولاو
     mt: gżira
     mwl: Ilha
     my: ကျွန်း(ကုန်းမြေ)
@@ -378,7 +378,7 @@ dv_has_:
     nap: Isula
     nb: øy
     nds: Insel
-    nds-nl: Eilaand
+    nds_nl: Eilaand
     ne: द्वीप
     new: न्हसिभु
     nl: eiland
@@ -397,7 +397,7 @@ dv_has_:
     pnb: جزیرہ
     ps: ټاپو
     pt: ilha
-    pt-br: ilha
+    pt_br: ilha
     qu: Wat'a
     rmy: Dvip
     ro: insulă
@@ -428,7 +428,7 @@ dv_has_:
     so: Jasiirad
     sq: Ishulli
     sr: острво
-    sr-ec: острво
+    sr_ec: острво
     stq: Ailound
     su: pulo
     sv: ö
@@ -446,7 +446,7 @@ dv_has_:
     tpi: Ailan
     tr: ada
     tt: утрау
-    tt-cyrl: утрау
+    tt_cyrl: утрау
     tum: Nkhoska
     udm: шормуӵ
     uk: острів
@@ -468,14 +468,14 @@ dv_has_:
     zea: Eiland
     zgh: ⵜⴰⴳⵣⵉⵔⵜ
     zh: 島嶼
-    zh-cn: 岛屿
-    zh-hans: 岛屿
-    zh-hant: 島嶼
-    zh-hk: 島嶼
-    zh-mo: 島嶼
+    zh_cn: 岛屿
+    zh_hans: 岛屿
+    zh_hant: 島嶼
+    zh_hk: 島嶼
+    zh_mo: 島嶼
     zh-my: 岛屿
-    zh-sg: 岛屿
-    zh-tw: 島嶼
+    zh_sg: 岛屿
+    zh_tw: 島嶼
 ---
 # [[Island]] 
 

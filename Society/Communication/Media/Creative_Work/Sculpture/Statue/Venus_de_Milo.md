@@ -114,7 +114,7 @@ dv_has_:
     ast: Venus de Milo
     az: Miloslu Venera heykəli
     be: Венера Мілоская
-    be-tarask: Вэнэра Мілёская
+    be_tarask: Вэнэра Мілёская
     bg: Венера Милоска
     br: Afrodite Melos
     bs: Miloska Venera
@@ -165,8 +165,8 @@ dv_has_:
     sk: Méloská Venuša
     sl: Miloška Venera
     sr: Милоска Венера
-    sr-ec: Милоска Венера
-    sr-el: Miloska Venera
+    sr_ec: Милоска Венера
+    sr_el: Miloska Venera
     sv: Venus från Milo
     ta: மிலோவின் வீனசு
     tr: Venus de Milo
@@ -177,12 +177,12 @@ dv_has_:
     wuu: 米洛个维纳斯
     yue: 維納斯像
     zh: 米洛的维纳斯
-    zh-cn: 米洛的维纳斯
-    zh-hans: 米洛的维纳斯
-    zh-hant: 米洛的維納斯
-    zh-hk: 米洛的維納斯
-    zh-sg: 米洛的维纳斯
-    zh-tw: 米洛的維納斯
+    zh_cn: 米洛的维纳斯
+    zh_hans: 米洛的维纳斯
+    zh_hant: 米洛的維納斯
+    zh_hk: 米洛的維納斯
+    zh_sg: 米洛的维纳斯
+    zh_tw: 米洛的維納斯
 ---
 # [[Venus_de_Milo]] 
 

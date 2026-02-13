@@ -131,7 +131,7 @@ dv_has_:
     ast: Conseyu Nórdicu
     az: Skandinav Şurası
     be: Паўночны савет
-    be-tarask: Паўночная рада
+    be_tarask: Паўночная рада
     bg: Северен съвет
     br: Kuzul an Norzh
     bs: Nordijsko vijeće
@@ -167,7 +167,7 @@ dv_has_:
     kl: Nunat Avannarliit Siunnersuisoqatigiit
     ko: 북유럽 이사회
     ku: Konseya Welatên Bakur
-    ku-latn: Konseya Welatên Bakur
+    ku_latn: Konseya Welatên Bakur
     la: Consilium Septentrionale
     lb: Nordesche Rot
     lfn: Consilio Nordica
@@ -196,8 +196,8 @@ dv_has_:
     sms: Tâʹvvjânnmi suåvtõs
     sq: Këshilli Nordik
     sr: Нордијски савет
-    sr-ec: Нордијски савет
-    sr-el: Nordijski savet
+    sr_ec: Нордијски савет
+    sr_el: Nordijski savet
     sv: Nordiska rådet
     sw: Baraza la watu wa Kinodiki
     th: คณะมนตรีนอร์ดิก
@@ -211,12 +211,12 @@ dv_has_:
     wuu: 北欧理事会
     yue: 北歐理事會
     zh: 北歐理事會
-    zh-cn: 北欧理事会
-    zh-hans: 北欧理事会
-    zh-hant: 北歐理事會
-    zh-hk: 北歐理事會
-    zh-sg: 北欧理事会
-    zh-tw: 北歐理事會
+    zh_cn: 北欧理事会
+    zh_hans: 北欧理事会
+    zh_hant: 北歐理事會
+    zh_hk: 北歐理事會
+    zh_sg: 北欧理事会
+    zh_tw: 北歐理事會
 ---
 # [[Nordic_Council]] 
 

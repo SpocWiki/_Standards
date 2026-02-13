@@ -107,7 +107,7 @@ dv_has_:
     az: atmosfer cəbhəsi
     ba: атмосфера фронттары
     be: атмасферны фронт
-    be-tarask: атмасфэрны фронт
+    be_tarask: атмасфэрны фронт
     bg: атмосферен фронт
     bho: मौसमी फ्रंट
     ca: front
@@ -136,11 +136,11 @@ dv_has_:
     it: fronte meteorologico
     ja: 前線
     kk: атмосфера шебі
-    kk-arab: اتموسفەرا شەبى
+    kk_arab: اتموسفەرا شەبى
     kk-cn: اتموسفەرا شەبى
-    kk-cyrl: атмосфера шебі
+    kk_cyrl: атмосфера шебі
     kk-kz: атмосфера шебі
-    kk-latn: atmosfera şebi
+    kk_latn: atmosfera şebi
     kk-tr: atmosfera şebi
     ko: 전선
     kw: Tal (kewer)
@@ -161,8 +161,8 @@ dv_has_:
     sk: front
     sl: vremenska fronta
     sr: атмосферски фронт
-    sr-ec: aтмосферски фронт
-    sr-el: atmosferski front
+    sr_ec: aтмосферски фронт
+    sr_el: atmosferski front
     sv: väderfront
     tr: Cephe
     udm: атмосфераысь фронт
@@ -172,12 +172,12 @@ dv_has_:
     wuu: 鋒面
     yue: 鋒面
     zh: 鋒
-    zh-cn: 锋
-    zh-hans: 锋
-    zh-hant: 鋒
-    zh-hk: 鋒
-    zh-sg: 锋
-    zh-tw: 鋒 (氣象)
+    zh_cn: 锋
+    zh_hans: 锋
+    zh_hant: 鋒
+    zh_hk: 鋒
+    zh_sg: 锋
+    zh_tw: 鋒 (氣象)
 ---
 # [[Weather_Front]] 
 

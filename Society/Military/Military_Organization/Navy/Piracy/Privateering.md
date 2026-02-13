@@ -134,7 +134,7 @@ dv_has_:
     oc: Corsari
     pl: korsarz
     pt: corsário
-    pt-br: corsário
+    pt_br: corsário
     ro: corsar
     ru: капер
     sh: Gusari
@@ -142,8 +142,8 @@ dv_has_:
     sl: gusar
     sq: Privateer
     sr: корсари
-    sr-ec: корсари
-    sr-el: korsari
+    sr_ec: корсари
+    sr_el: korsari
     sv: kapare
     th: สลัดหลวง
     tr: korsan gemisi
@@ -153,12 +153,12 @@ dv_has_:
     vec: corsaro
     vi: tàu lùng
     zh: 私掠
-    zh-cn: 私掠
-    zh-hans: 私掠
-    zh-hant: 私掠
-    zh-hk: 私掠
-    zh-sg: 私掠
-    zh-tw: 私掠
+    zh_cn: 私掠
+    zh_hans: 私掠
+    zh_hant: 私掠
+    zh_hk: 私掠
+    zh_sg: 私掠
+    zh_tw: 私掠
 ---
 # [[Privateering]] 
 

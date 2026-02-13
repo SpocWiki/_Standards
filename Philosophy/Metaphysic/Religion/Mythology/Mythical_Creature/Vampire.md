@@ -119,7 +119,7 @@ dv_has_:
     ba: Вампир
     bcl: Bampira
     be: вампір
-    be-tarask: вампір
+    be_tarask: вампір
     bew: Kalong wéwé
     bg: Вампир
     bn: ভ্যাম্পায়ার
@@ -136,8 +136,8 @@ dv_has_:
     de: Vampir
     el: βαμπίρ
     en: vampire
-    en-ca: Vampire
-    en-gb: vampire
+    en_ca: Vampire
+    en_gb: vampire
     eo: vampiro
     es: vampiro
     et: Vampiir
@@ -188,7 +188,7 @@ dv_has_:
     pnb: خون آشام
     pnt: βαμπίρ'
     pt: vampiro
-    pt-br: vampiro
+    pt_br: vampiro
     rmy: Vampire
     ro: vampir
     ru: вампир
@@ -201,8 +201,8 @@ dv_has_:
     sl: vampir
     sq: Vampir
     sr: вампир
-    sr-ec: вампир
-    sr-el: vampir
+    sr_ec: вампир
+    sr_el: vampir
     sv: vampyr
     sw: Vampiri
     ta: வாம்பைர்
@@ -211,7 +211,7 @@ dv_has_:
     tl: Bampira
     tr: Vampir
     tt: убыр
-    tt-cyrl: убыр
+    tt_cyrl: убыр
     uk: вампір
     ur: الغل
     uz: Vampirlar

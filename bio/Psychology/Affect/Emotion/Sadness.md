@@ -119,7 +119,7 @@ dv_has_:
     azb: کدر
     bcl: Kamunduan
     be: Смутак
-    be-tarask: смутак
+    be_tarask: смутак
     bg: Тъга
     bn: দুঃখ
     bo: སེམས་སྐྱོ་བ།
@@ -160,8 +160,8 @@ dv_has_:
     jv: Nelangsa
     ko: 슬픔
     ku: xemgînî
-    ku-arab: خەمگینی
-    ku-latn: xemgînî
+    ku_arab: خەمگینی
+    ku_latn: xemgînî
     la: tristitia
     lg: wali olabye
     lmo: Malinconia
@@ -187,8 +187,8 @@ dv_has_:
     sl: žalost
     sq: trishtim
     sr: туга
-    sr-ec: туга
-    sr-el: tuga
+    sr_ec: туга
+    sr_el: tuga
     sv: sorgsenhet
     sw: Huzuni
     ta: கவலை
@@ -204,12 +204,12 @@ dv_has_:
     yi: אומעט
     yue: 愁
     zh: 悲傷
-    zh-cn: 悲伤
-    zh-hans: 悲伤
-    zh-hant: 悲傷
-    zh-hk: 悲傷
-    zh-sg: 悲伤
-    zh-tw: 悲傷
+    zh_cn: 悲伤
+    zh_hans: 悲伤
+    zh_hant: 悲傷
+    zh_hk: 悲傷
+    zh_sg: 悲伤
+    zh_tw: 悲傷
 ---
 # [[Sadness]] 
 

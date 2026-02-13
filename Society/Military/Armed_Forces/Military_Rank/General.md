@@ -121,7 +121,7 @@ dv_has_:
     bar: General
     bcl: Heneral
     be: генерал
-    be-tarask: генэрал
+    be_tarask: генэрал
     bg: генерал
     bn: জেনারেল অফিসার
     br: jeneral
@@ -197,7 +197,7 @@ dv_has_:
     pnb: منصبِ جامع
     ps: جنرال
     pt: general
-    pt-br: general
+    pt_br: general
     qu: Wamink'a
     ro: general
     ru: генерал
@@ -215,8 +215,8 @@ dv_has_:
     sms: kenraal
     sq: Gjenerali
     sr: генерал
-    sr-ec: генерал
-    sr-el: general
+    sr_ec: генерал
+    sr_el: general
     sv: general
     sw: Jenerali
     tg: генерал
@@ -234,11 +234,11 @@ dv_has_:
     yi: גענעראל
     yue: 將軍
     zh: 將軍
-    zh-cn: 将军
-    zh-hans: 将军
-    zh-hant: 將軍
-    zh-hk: 將軍
-    zh-tw: 將軍
+    zh_cn: 将军
+    zh_hans: 将军
+    zh_hant: 將軍
+    zh_hk: 將軍
+    zh_tw: 將軍
 ---
 # [[General]] 
 

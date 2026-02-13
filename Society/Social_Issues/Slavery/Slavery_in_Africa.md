@@ -52,7 +52,7 @@ Commons_category: Slavery in Africa
 dv_has_:
   name_:
     ar: تجارة العبيد الأفارقة
-    be-tarask: рабства ў Афрыцы
+    be_tarask: рабства ў Афрыцы
     ca: esclavatge a Àfrica
     dag: Slavery in Africa
     de: Sklaverei innerhalb von Subsahara-Afrika

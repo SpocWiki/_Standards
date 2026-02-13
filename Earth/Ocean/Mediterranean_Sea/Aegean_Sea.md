@@ -219,7 +219,7 @@ dv_has_:
     ban: Segara Aégéa
     bcl: Dagat Egeo
     be: Эгейскае мора
-    be-tarask: Эгейскае мора
+    be_tarask: Эгейскае мора
     bg: Бяло море
     bho: एजियन सागर
     bn: এজিয়ান সাগর
@@ -231,7 +231,7 @@ dv_has_:
     ckb: دەریای ئێژە
     co: Mari Egeu
     crh: Ege deñizi
-    crh-latn: Ege deñizi
+    crh_latn: Ege deñizi
     cs: Egejské moře
     cv: Эгей тинĕсĕ
     cy: Môr Aegeaidd
@@ -325,7 +325,7 @@ dv_has_:
     so: Badda Iija
     sq: Deti Egje
     sr: Егејско море
-    sr-ec: Егејско море
+    sr_ec: Егејско море
     sv: Egeiska havet
     sw: Bahari ya Aegean
     ta: ஏஜியன் கடல்
@@ -336,7 +336,7 @@ dv_has_:
     tl: Dagat Egeo
     tr: Ege Denizi
     tt: Эгей диңгезе
-    tt-cyrl: Эгей диңгезе
+    tt_cyrl: Эгей диңгезе
     udm: Эгей зарезь
     ug: ئېگىي دېڭىزى
     uk: Егейське море
@@ -351,9 +351,9 @@ dv_has_:
     yi: אגאישער ים
     yue: 愛琴海
     zh: 爱琴海
-    zh-cn: 爱琴海
-    zh-hans: 爱琴海
-    zh-hant: 愛琴海
+    zh_cn: 爱琴海
+    zh_hans: 爱琴海
+    zh_hant: 愛琴海
 ---
 # [[Aegean_Sea]] 
 

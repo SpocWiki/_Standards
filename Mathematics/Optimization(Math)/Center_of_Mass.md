@@ -96,7 +96,7 @@ dv_has_:
     af: massamiddelpunt
     ar: مركز الكتلة
     be: цэнтр мас
-    be-tarask: цэнтар масы
+    be_tarask: цэнтар масы
     bg: център на масите
     bn: বস্তুর ভরকেন্দ্র
     ca: centre de massa
@@ -106,8 +106,8 @@ dv_has_:
     da: massemidtpunkt
     de: Massenmittelpunkt
     en: center of mass
-    en-ca: centre of mass
-    en-gb: centre of mass
+    en_ca: centre of mass
+    en_gb: centre of mass
     eo: masocentro
     es: centro de masas
     et: massikese
@@ -161,8 +161,8 @@ dv_has_:
     wuu: 质心
     yue: 重心
     zh: 質心
-    zh-hans: 质量中心
-    zh-hant: 質量中心
+    zh_hans: 质量中心
+    zh_hant: 質量中心
 ---
 # [[Center_of_Mass]] 
 

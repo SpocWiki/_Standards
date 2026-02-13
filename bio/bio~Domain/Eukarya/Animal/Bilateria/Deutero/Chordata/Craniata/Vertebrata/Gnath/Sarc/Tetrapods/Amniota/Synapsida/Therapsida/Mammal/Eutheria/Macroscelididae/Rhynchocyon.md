@@ -52,7 +52,7 @@ dv_has_:
     oc: Rhynchocyon
     pl: Sorkonos
     pt: Rhynchocyon
-    pt-br: Rhynchocyon
+    pt_br: Rhynchocyon
     ro: Rhynchocyon
     ru: Rhynchocyon
     sq: Rhynchocyon
@@ -62,8 +62,8 @@ dv_has_:
     vo: Rhynchocyon
     war: Rhynchocyon
     zh: 东非象鼩属
-    zh-cn: 东非象鼩属
-    zh-tw: 東非象鼩屬
+    zh_cn: 东非象鼩属
+    zh_tw: 東非象鼩屬
 ---
 # [[Rhynchocyon]] 
 

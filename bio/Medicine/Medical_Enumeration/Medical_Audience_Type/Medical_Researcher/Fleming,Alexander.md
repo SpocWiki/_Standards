@@ -147,7 +147,7 @@ dv_has_:
     azb: آلکساندر فلمینق
     ba: Александр Флеминг
     be: Аляксандр Флемінг
-    be-tarask: Аляксандар Флемінг
+    be_tarask: Аляксандар Флемінг
     bg: Александър Флеминг
     bn: অ্যালেকজান্ডার ফ্লেমিং
     br: Alexander Fleming
@@ -158,12 +158,12 @@ dv_has_:
     cy: Alexander Fleming
     da: Alexander Fleming
     de: Alexander Fleming
-    de-ch: Alexander Fleming
+    de_ch: Alexander Fleming
     diq: Alexander Fleming
     el: Αλεξάντερ Φλέμινγκ
     en: Alexander Fleming
-    en-ca: Alexander Fleming
-    en-gb: Alexander Fleming
+    en_ca: Alexander Fleming
+    en_gb: Alexander Fleming
     eo: Alexander Fleming
     es: Alexander Fleming
     et: Alexander Fleming
@@ -222,7 +222,7 @@ dv_has_:
     pnb: الیگزنڈر فلیمنگ
     ps: الکساندر فلمېنګ
     pt: Alexander Fleming
-    pt-br: Alexander Fleming
+    pt_br: Alexander Fleming
     qu: Alexander Fleming
     ro: Alexander Fleming
     ru: Александр Флеминг

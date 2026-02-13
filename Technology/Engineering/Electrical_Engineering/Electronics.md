@@ -143,7 +143,7 @@ dv_has_:
     ba: Электроника
     bar: Elektronik
     be: электроніка
-    be-tarask: электроніка
+    be_tarask: электроніка
     bg: Електроника
     bho: इलेक्ट्रॉन बिज्ञान
     blk: အီလက်ထရွန်းနစ်
@@ -218,7 +218,7 @@ dv_has_:
     mn: Электроник
     mr: इलेक्ट्रॉनिकी
     ms: elektronik
-    ms-arab: ايليکترونيک
+    ms_arab: ايليکترونيک
     mt: elettronika
     mwl: Eiletrónica
     my: အီလက်ထရွန်းနစ်
@@ -239,7 +239,7 @@ dv_has_:
     pnb: الیکٹرونکس
     ps: برېښنايي ټېکنالوژي
     pt: eletrónica
-    pt-br: eletrônica
+    pt_br: eletrônica
     qu: Illari yachay
     ro: electronică
     ru: электроника
@@ -292,8 +292,8 @@ dv_has_:
     yo: Ìṣiṣẹ́oníná
     yue: 電子學
     zh: 电子学
-    zh-hant: 電子學
-    zh-hk: 電子學
+    zh_hant: 電子學
+    zh_hk: 電子學
     zu: Izizubisi
 ---
 # [[Electronics]] 

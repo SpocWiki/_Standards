@@ -392,7 +392,7 @@ dv_has_:
     bbc: Eropa
     bcl: Europa
     be: Еўропа
-    be-tarask: Эўропа
+    be_tarask: Эўропа
     bew: Èropa
     bg: Европа
     bho: यूरोप
@@ -409,7 +409,7 @@ dv_has_:
     bug: ᨕᨙᨑᨚᨄ
     bxr: Европо
     ca: Europa
-    cbk-zam: Europa
+    cbk_zam: Europa
     cdo: Ĕu-ciŭ
     ce: Европа
     ceb: Ewropa
@@ -419,7 +419,7 @@ dv_has_:
     ckb: ئەورووپا
     co: Europa
     crh: Avropa
-    crh-latn: Avropa
+    crh_latn: Avropa
     crh-ro: Awrupa
     cs: Evropa
     csb: Eùropa
@@ -438,8 +438,8 @@ dv_has_:
     el: Ευρώπη
     eml: Európa
     en: Europe
-    en-ca: Europe
-    en-gb: Europe
+    en_ca: Europe
+    en_gb: Europe
     en-us: Europe
     eo: Eŭropo
     es: Europa
@@ -543,7 +543,7 @@ dv_has_:
     lzh: 歐羅巴洲
     mad: Èropa
     mai: यूरोप
-    map-bms: Eropah
+    map_bms: Eropah
     mg: Eoropa
     mhr: Европо
     mi: Ūropi
@@ -557,7 +557,7 @@ dv_has_:
     mr: युरोप
     mrj: Европа
     ms: Eropah
-    ms-arab: ايروڤه
+    ms_arab: ايروڤه
     mt: Ewropa
     mwl: Ouropa
     my: ဥရောပ
@@ -569,7 +569,7 @@ dv_has_:
     nap: Europa
     nb: Europa
     nds: Europa
-    nds-nl: Europa
+    nds_nl: Europa
     ne: युरोप
     new: युरोप
     nia: Eropa
@@ -600,7 +600,7 @@ dv_has_:
     pnt: Ευρώπην
     ps: اروپا
     pt: Europa
-    pt-br: Europa
+    pt_br: Europa
     pwn: iyurupu
     qu: Iwrupa
     rm: Europa
@@ -637,8 +637,8 @@ dv_has_:
     so: Yurub
     sq: Evropë
     sr: Европа
-    sr-ec: Европа
-    sr-el: Evropa
+    sr_ec: Европа
+    sr_el: Evropa
     srn: Ropa
     ss: IYurophu
     st: Uropa
@@ -667,16 +667,16 @@ dv_has_:
     tr: Avrupa
     ts: Yuropa
     tt: Европа
-    tt-cyrl: Аурупа
-    tt-latn: Awrupa
+    tt_cyrl: Аурупа
+    tt_latn: Awrupa
     tum: Europe
     tw: Yurop
     ty: ’Europa
     tyv: Европа
     udm: Европа
     ug: ياۋروپا
-    ug-arab: ياۋروپا
-    ug-latn: Yawropa
+    ug_arab: ياۋروپا
+    ug_latn: Yawropa
     uk: Європа
     ur: یورپ
     uz: Yevropa
@@ -701,14 +701,14 @@ dv_has_:
     zea: Europa
     zgh: ⵜⵓⵕⵓⴱⵜ
     zh: 欧洲
-    zh-cn: 欧洲
-    zh-hans: 欧洲
-    zh-hant: 歐洲
-    zh-hk: 歐洲
-    zh-mo: 歐洲
+    zh_cn: 欧洲
+    zh_hans: 欧洲
+    zh_hant: 歐洲
+    zh_hk: 歐洲
+    zh_mo: 歐洲
     zh-my: 欧洲
-    zh-sg: 欧洲
-    zh-tw: 歐洲
+    zh_sg: 欧洲
+    zh_tw: 歐洲
     zu: IYurophu
 dv_is_same_as:
 - '[[../../WikiData/WD~Europe,46|WD~Europe,46]]'

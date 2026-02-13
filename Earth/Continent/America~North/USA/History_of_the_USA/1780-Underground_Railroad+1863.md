@@ -58,11 +58,11 @@ dv_has_:
     da: The Underground Railroad
     dag: Underground Railroad
     de: Underground Railroad
-    de-ch: Underground Railroad
+    de_ch: Underground Railroad
     el: Υπόγειος σιδηρόδρομος
     en: Underground Railroad
-    en-ca: Underground Railroad
-    en-gb: Underground Railroad
+    en_ca: Underground Railroad
+    en_gb: Underground Railroad
     eo: Subtera fervojo
     es: ferrocarril subterráneo
     eu: Lurpeko burdinbidea
@@ -89,7 +89,7 @@ dv_has_:
     nl: Underground Railroad
     pl: Underground Railroad
     pt: Underground railroad
-    pt-br: Underground railroad
+    pt_br: Underground railroad
     ro: Underground Railroad
     ru: Подпольная железная дорога
     sv: Underjordiska järnvägen
@@ -100,9 +100,9 @@ dv_has_:
     yo: Underground Railroad
     yue: 地下鐵路
     zh: 地下鐵路
-    zh-hans: 地下铁路
-    zh-hant: 地下鐵路
-    zh-hk: 地下鐵路
+    zh_hans: 地下铁路
+    zh_hant: 地下鐵路
+    zh_hk: 地下鐵路
 ---
 # [[1780-Underground_Railroad+1863]] 
 

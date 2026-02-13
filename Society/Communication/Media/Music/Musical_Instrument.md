@@ -207,7 +207,7 @@ dv_has_:
     ba: музыка ҡоралы
     bar: musiginschtrument
     be: музычны інструмент
-    be-tarask: музычны інструмэнт
+    be_tarask: музычны інструмэнт
     bg: музикален инструмент
     bm: fɔlifɛn
     bn: বাদ্যযন্ত্র
@@ -224,7 +224,7 @@ dv_has_:
     de: Musikinstrument
     el: μουσικό όργανο
     en: musical instrument
-    en-gb: musical instrument
+    en_gb: musical instrument
     en-us: musical instrument
     eo: muzika instrumento
     es: instrumento musical
@@ -284,7 +284,7 @@ dv_has_:
     mn: хөгжмийн зэмсэг
     mnw: ကွိင်ကွိုက်
     ms: alat muzik
-    ms-arab: الت موزيک
+    ms_arab: الت موزيک
     my: တူရိယာ
     myv: седямопель
     mzn: ساز
@@ -306,7 +306,7 @@ dv_has_:
     pnb: ساز
     ps: ساز
     pt: instrumento musical
-    pt-br: instrumento musical
+    pt_br: instrumento musical
     qu: waqachina
     rmf: baȟiba
     ro: instrument muzical
@@ -328,8 +328,8 @@ dv_has_:
     so: qalab muusig
     sq: instrument muzikor
     sr: музички инструмент
-    sr-ec: музички инструмент
-    sr-el: muzički instrument
+    sr_ec: музички инструмент
+    sr_el: muzički instrument
     stq: Musikinstrumente
     sv: musikinstrument
     sw: ala ya muziki
@@ -337,7 +337,7 @@ dv_has_:
     ta: இசைக்கருவி
     te: సంగీత వాయిద్యం
     tg: асбоби мусиқӣ
-    tg-cyrl: созҳои мусиқӣ
+    tg_cyrl: созҳои мусиқӣ
     th: เครื่องดนตรี
     tl: kasangkapang pangtugtog
     tok: ilo pi kalama musi
@@ -356,8 +356,8 @@ dv_has_:
     yue: 樂器
     zgh: ⵉⵎⵉⵙ ⴰⵎⵥⴰⵡⴰⵏ
     zh: 乐器
-    zh-hant: 樂器
-    zh-hk: 樂器
+    zh_hant: 樂器
+    zh_hk: 樂器
     zu: ama-instrument
 ---
 # [[Musical_Instrument]] 

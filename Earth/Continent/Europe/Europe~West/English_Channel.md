@@ -292,7 +292,7 @@ dv_has_:
     ba: Ла-Манш
     bar: Ärmekanei
     be: Ла-Манш
-    be-tarask: Ля-Манш
+    be_tarask: Ля-Манш
     bg: Ла Манш
     bho: इंग्लिश चैनल
     bn: ইংলিশ চ্যানেল
@@ -310,8 +310,8 @@ dv_has_:
     diq: Qanalê Manşi
     el: Μάγχη
     en: English Channel
-    en-ca: English Channel
-    en-gb: English Channel
+    en_ca: English Channel
+    en_gb: English Channel
     eo: Manika Markolo
     es: canal de la Mancha
     et: La Manche
@@ -365,7 +365,7 @@ dv_has_:
     mzn: مانش کانال
     nb: Den engelske kanal
     nds: Engelschen Kanal
-    nds-nl: Engelske kanål
+    nds_nl: Engelske kanål
     nl: Het Kanaal
     nn: Den engelske kanalen
     nrm: Maunche
@@ -378,7 +378,7 @@ dv_has_:
     pnb: رودباد انگلستان
     ps: انګلیسي چینل
     pt: Canal da Mancha
-    pt-br: Canal da Mancha
+    pt_br: Canal da Mancha
     ro: Canalul Mânecii
     ru: Ла-Манш
     scn: Canali dâ Mànica
@@ -411,14 +411,14 @@ dv_has_:
     yi: ענגלישער קאנאל
     yue: 英倫海峽
     zh: 英吉利海峡
-    zh-cn: 英吉利海峡
-    zh-hans: 英吉利海峡
-    zh-hant: 英吉利海峽
-    zh-hk: 英倫海峽
-    zh-mo: 英倫海峽
+    zh_cn: 英吉利海峡
+    zh_hans: 英吉利海峡
+    zh_hant: 英吉利海峽
+    zh_hk: 英倫海峽
+    zh_mo: 英倫海峽
     zh-my: 英吉利海峡
-    zh-sg: 英吉利海峡
-    zh-tw: 英吉利海峽
+    zh_sg: 英吉利海峡
+    zh_tw: 英吉利海峽
 ---
 # [[English_Channel]] 
 

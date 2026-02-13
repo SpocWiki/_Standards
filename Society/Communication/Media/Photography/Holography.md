@@ -75,7 +75,7 @@ dv_has_:
     ast: holografía
     az: holoqrafiya
     be: галаграфія
-    be-tarask: галяграфія
+    be_tarask: галяграфія
     bg: холография
     bs: holografija
     ca: holografia
@@ -84,8 +84,8 @@ dv_has_:
     de: Holografie
     el: ολογραφία
     en: holography
-    en-ca: holography
-    en-gb: holography
+    en_ca: holography
+    en_gb: holography
     eo: holografio
     es: holografía
     et: holograafia
@@ -124,7 +124,7 @@ dv_has_:
     pl: holografia
     pnb: ہولوگرافی
     pt: holografia
-    pt-br: Holografia
+    pt_br: Holografia
     ro: Holografie
     ru: голография
     sd: هولو گرام ٽيڪنالوجي
@@ -138,7 +138,7 @@ dv_has_:
     sms: holografia
     sq: Holografia
     sr: холографија
-    sr-ec: холографија
+    sr_ec: холографија
     sv: holografi
     ta: முப்பரிமாண ஒளிப்படவியல்
     te: హోలోగ్రాఫి
@@ -152,7 +152,7 @@ dv_has_:
     wuu: 全息摄影
     yue: 全息影相
     zh: 全息攝影
-    zh-tw: 全像攝影
+    zh_tw: 全像攝影
     zu: Ukumomonyaliza
 ---
 # [[Holography]] 

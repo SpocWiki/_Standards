@@ -165,7 +165,7 @@ used_by:
 - '[[_Standards/WikiData/WD~information_curation,65770360]]'
 dv_has_:
   name_:
-    aeb-arab: معلومة
+    aeb_arab: معلومة
     af: inligting
     an: información
     ar: معلومة
@@ -178,7 +178,7 @@ dv_has_:
     bar: Information
     bcl: impormasyon
     be: інфармацыя
-    be-tarask: інфармацыя
+    be_tarask: інфармацыя
     bg: информация
     bho: जानकारी
     bn: তথ্য
@@ -201,7 +201,7 @@ dv_has_:
     dty: जानकारि
     el: πληροφορία
     en: information
-    en-gb: information
+    en_gb: information
     eo: informo
     es: información
     et: informatsioon
@@ -242,7 +242,7 @@ dv_has_:
     ko: 정보
     krc: информация
     ku: agahî
-    ku-latn: agahî
+    ku_latn: agahî
     kw: kedhlow
     ky: информация
     la: informatio
@@ -263,7 +263,7 @@ dv_has_:
     mni: ꯑꯀꯨꯞꯄ ꯋꯥꯔꯣꯜ
     mr: माहिती
     ms: maklumat
-    ms-arab: معلومت
+    ms_arab: معلومت
     mt: tagħrif
     mwl: anformaçon
     my: သတင်းအချက်အလက်
@@ -285,7 +285,7 @@ dv_has_:
     pnb: اطلاعات
     ps: مالومات
     pt: informação
-    pt-br: informação
+    pt_br: informação
     qu: willa
     ro: informație
     ru: информация
@@ -303,8 +303,8 @@ dv_has_:
     sl: informacija
     sq: informacion
     sr: информација
-    sr-ec: информација
-    sr-el: informacija
+    sr_ec: информација
+    sr_el: informacija
     su: informasi
     sv: information
     sw: taarifa
@@ -312,14 +312,14 @@ dv_has_:
     ta: தகவல்
     te: సమాచారం
     tg: иттиолоот
-    tg-cyrl: контент
+    tg_cyrl: контент
     th: สารสนเทศ
     tl: impormasyon
     tly: informasijə
     tr: bilgi
     tt: мәгълүмат
-    tt-cyrl: мәгълүмат
-    tt-latn: mäğlümat
+    tt_cyrl: мәгълүмат
+    tt_latn: mäğlümat
     udm: ивортодэт
     ug: ئۇچۇر
     uk: інформація
@@ -337,14 +337,14 @@ dv_has_:
     yue: 資訊
     za: saenqsik
     zh: 資訊
-    zh-cn: 信息
-    zh-hans: 信息
-    zh-hant: 資訊
-    zh-hk: 資訊
-    zh-mo: 資訊
+    zh_cn: 信息
+    zh_hans: 信息
+    zh_hant: 資訊
+    zh_hk: 資訊
+    zh_mo: 資訊
     zh-my: 资讯
-    zh-sg: 信息
-    zh-tw: 資訊
+    zh_sg: 信息
+    zh_tw: 資訊
     zu: uKwaziswa
 ---
 # [[Information]] 

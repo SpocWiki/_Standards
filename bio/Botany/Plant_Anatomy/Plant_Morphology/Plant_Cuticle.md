@@ -42,7 +42,7 @@ dv_has_:
   name_:
     ar: إهاب النبات
     az: kutikula
-    be-tarask: надскурка
+    be_tarask: надскурка
     bg: Кутикула
     bn: উদ্ভিদ কিউটিকল
     bs: Biljna kutikula
@@ -50,8 +50,8 @@ dv_has_:
     da: Kutikula
     de: Cuticula
     en: plant cuticle
-    en-ca: Plant cuticle
-    en-gb: Plant cuticle
+    en_ca: Plant cuticle
+    en_gb: Plant cuticle
     es: cutícula (botánica)
     et: Kutiikula (botaanika)
     eu: Kutikula (botanika)
@@ -69,7 +69,7 @@ dv_has_:
     nl: cuticula
     pl: kutykula
     pt: Cutícula vegetal
-    pt-br: Cutícula vegetal
+    pt_br: Cutícula vegetal
     ru: кутикула растений
     sl: Kutikula (rastlina)
     sq: Cuticle bimore

@@ -32,10 +32,10 @@ dv_has_:
     da: Trombidiformes
     de: Trombidiformes
     de-at: Trombidiformes
-    de-ch: Trombidiformes
+    de_ch: Trombidiformes
     en: Trombidiformes
-    en-ca: Trombidiformes
-    en-gb: Trombidiformes
+    en_ca: Trombidiformes
+    en_gb: Trombidiformes
     eo: Trombidiformes
     es: Trombidiformes
     et: imilestalised
@@ -73,7 +73,7 @@ dv_has_:
     nap: Trombidiformes
     nb: Trombidiformes
     nds: Trombidiformes
-    nds-nl: Trombidiformes
+    nds_nl: Trombidiformes
     nl: Trombidiformes
     nn: Trombidiformes
     nrm: Trombidiformes
@@ -83,7 +83,7 @@ dv_has_:
     pl: Trombidiformes
     pms: Trombidiformes
     pt: Trombidiformes
-    pt-br: Trombidiformes
+    pt_br: Trombidiformes
     rm: Trombidiformes
     ro: Trombidiformes
     ru: тромбидиформные клещи
@@ -105,9 +105,9 @@ dv_has_:
     war: Trombidiformes
     wo: Trombidiformes
     zh: 绒螨目
-    zh-cn: 绒螨目
-    zh-hans: 绒螨目
-    zh-tw: 絨蟎目
+    zh_cn: 绒螨目
+    zh_hans: 绒螨目
+    zh_tw: 絨蟎目
     zu: Trombidiformes
 ---
 # [[Trombidiformes]] 

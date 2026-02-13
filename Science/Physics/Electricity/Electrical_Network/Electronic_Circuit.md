@@ -81,7 +81,7 @@ dv_has_:
     ar: دارة إلكترونية
     azb: الکترونیک مداری
     be: электронная схема
-    be-tarask: электронная схема
+    be_tarask: электронная схема
     bg: Електронна схема
     bn: ইলেকট্রনিক বর্তনী
     ca: circuit electrònic
@@ -91,8 +91,8 @@ dv_has_:
     de: elektronische Schaltung
     el: ηλεκτρονικό κύκλωμα
     en: electronic circuit
-    en-ca: Electronic circuit
-    en-gb: electronic circuit
+    en_ca: Electronic circuit
+    en_gb: electronic circuit
     eo: elektronika cirkvito
     es: circuito electrónico
     et: elektroonikalülitus
@@ -123,7 +123,7 @@ dv_has_:
     oc: circuit electronica
     pl: układ elektroniczny
     pt: circuito eletrónico
-    pt-br: circuito eletrônico
+    pt_br: circuito eletrônico
     ro: Circuit electronic
     ru: электронная схема
     scn: circuitu elittrònicu
@@ -133,8 +133,8 @@ dv_has_:
     sl: elektronsko vezje
     sq: qark elektronik
     sr: електронско коло
-    sr-ec: електронско коло
-    sr-el: elektronsko kolo
+    sr_ec: електронско коло
+    sr_el: elektronsko kolo
     sv: elektronisk krets
     te: electronic circuit
     tl: Sirkito
@@ -146,8 +146,8 @@ dv_has_:
     yi: עלעקטראנישער קרייז
     yue: 電子電路
     zh: 電子電路
-    zh-hant: 電子電路
-    zh-tw: 電子電路
+    zh_hant: 電子電路
+    zh_tw: 電子電路
 ---
 # [[Electronic_Circuit]] 
 

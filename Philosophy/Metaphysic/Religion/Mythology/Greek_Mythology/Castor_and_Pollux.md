@@ -110,7 +110,7 @@ dv_has_:
     az: Dioskurlar
     bcl: Castor asin Pollux
     be: Дзіаскуры
-    be-tarask: Дыёскуры
+    be_tarask: Дыёскуры
     bg: Диоскури
     br: Dioskured
     bs: Kastor i Polideuk
@@ -120,8 +120,8 @@ dv_has_:
     de: Dioskuren
     el: Διόσκουροι
     en: Castor and Pollux
-    en-ca: Castor and Pollux
-    en-gb: Castor and Pollux
+    en_ca: Castor and Pollux
+    en_gb: Castor and Pollux
     eo: Kastoro kaj Polukso
     es: Dioscuros
     et: Kastor ja Polydeukes
@@ -145,7 +145,7 @@ dv_has_:
     ka: დიოსკურები
     ko: 카스토르와 폴룩스
     ku: Kastor û Polûks
-    ku-latn: Kastor û Polûks
+    ku_latn: Kastor û Polûks
     la: Castor et Pollux
     lb: Dioskuren
     lt: Dioskūrai
@@ -159,7 +159,7 @@ dv_has_:
     pa: ਕੈਸਟਰ ਅਤੇ ਪੋਲਕਸ
     pl: Dioskurowie
     pt: Castor e Pólux
-    pt-br: Castor e Pólux
+    pt_br: Castor e Pólux
     ro: Castor și Polux
     ru: Диоскуры
     scn: Dioscuri
@@ -169,8 +169,8 @@ dv_has_:
     sl: Kastor in Polidevk
     sq: Dioskurët
     sr: Кастор и Полидеук
-    sr-ec: Кастор и Полидеук
-    sr-el: Kastor i Polideuk
+    sr_ec: Кастор и Полидеук
+    sr_el: Kastor i Polideuk
     sv: Castor och Pollux
     sw: Castor na Pollux
     tl: Castor at Pollux
@@ -181,12 +181,12 @@ dv_has_:
     wuu: 卡斯托耳搭波鲁克斯
     yue: 卡斯托同波路克斯
     zh: 卡斯托耳和波鲁克斯
-    zh-cn: 卡斯托耳和波鲁克斯
-    zh-hans: 卡斯托耳和波鲁克斯
-    zh-hant: 卡斯托耳和波魯克斯
-    zh-hk: 卡斯托耳和波魯克斯
-    zh-sg: 卡斯托耳和波鲁克斯
-    zh-tw: 卡斯托耳和波魯克斯
+    zh_cn: 卡斯托耳和波鲁克斯
+    zh_hans: 卡斯托耳和波鲁克斯
+    zh_hant: 卡斯托耳和波魯克斯
+    zh_hk: 卡斯托耳和波魯克斯
+    zh_sg: 卡斯托耳和波鲁克斯
+    zh_tw: 卡斯托耳和波魯克斯
 ---
 # [[Castor_and_Pollux]] 
 

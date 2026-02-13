@@ -80,7 +80,7 @@ dv_has_:
     arz: فن بدائى
     az: İbtidai incəsənət
     be: Першабытнае мастацтва
-    be-tarask: першабытнае мастацтва
+    be_tarask: першабытнае мастацтва
     bn: প্রাগৈতিহাসিক শিল্পকলা
     bs: paleolitska umjetnost
     ca: art prehistòric
@@ -129,8 +129,8 @@ dv_has_:
     sms: ouddhistoriaalʼlaž čeäppõs
     sq: Arti në parahistori
     sr: уметност праисторије
-    sr-ec: уметност праисторије
-    sr-el: umetnost praistorije
+    sr_ec: уметност праисторије
+    sr_el: umetnost praistorije
     sv: förhistorisk konst
     ta: வரலாற்றுக்கு முந்திய காலக் கலை
     th: ศิลปะก่อนประวัติศาสตร์
@@ -138,9 +138,9 @@ dv_has_:
     uk: первісне мистецтво
     uz: Ibtidoiy sanʼat
     zh: 原始藝術
-    zh-hans: 原始艺术
-    zh-hant: 原始藝術
-    zh-hk: 原始藝術
+    zh_hans: 原始艺术
+    zh_hant: 原始藝術
+    zh_hk: 原始藝術
 ---
 # [[Prehistoric_Art]] 
 

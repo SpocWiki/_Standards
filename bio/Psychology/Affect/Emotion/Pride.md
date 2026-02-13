@@ -53,7 +53,7 @@ dv_has_:
   name_:
     ar: فخر
     be: Гонар
-    be-tarask: Гонар
+    be_tarask: Гонар
     bg: гордост
     bo: ཁེངས་
     br: ourgouilh
@@ -62,11 +62,11 @@ dv_has_:
     cv: Мăнаçлăх
     da: stolthed
     de: Stolz
-    de-ch: Stolz
+    de_ch: Stolz
     el: Υπερηφάνεια
     en: pride
-    en-ca: pride
-    en-gb: pride
+    en_ca: pride
+    en_gb: pride
     eo: orgojlo
     es: orgullo
     fa: غرور
@@ -89,7 +89,7 @@ dv_has_:
     nl: trots
     pl: duma
     pt: orgulho
-    pt-br: orgulho
+    pt_br: orgulho
     ro: mândrie
     ru: гордость
     sco: pride

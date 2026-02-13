@@ -118,7 +118,7 @@ dv_has_:
     az: qraf nəzəriyyəsi
     ba: графтар теорияһы
     be: тэорыя графаў
-    be-tarask: тэорыя графаў
+    be_tarask: тэорыя графаў
     bg: теория на графите
     bn: গ্রাফ তত্ত্ব
     bs: teorija grafikona
@@ -152,9 +152,9 @@ dv_has_:
     ja: グラフ理論
     ka: გრაფთა თეორია
     kk: графтар теориясы
-    kk-arab: گراف
+    kk_arab: گراف
     kk-cn: گراف
-    kk-cyrl: графтар теориясы
+    kk_cyrl: графтар теориясы
     kk-kz: графтар теориясы
     kn: ಗ್ರಾಫ್ ಸಿದ್ಧಾಂತ
     ko: 그래프 이론
@@ -166,7 +166,7 @@ dv_has_:
     mk: теорија на графовите
     mn: графын онол
     ms: teori graf
-    ms-arab: تيوري ݢرف
+    ms_arab: تيوري ݢرف
     mt: teorija tal-grafi
     nb: grafteori
     nl: grafentheorie
@@ -174,7 +174,7 @@ dv_has_:
     os: графты теори
     pl: teoria grafów
     pt: teoria de grafos
-    pt-br: teoria dos grafos
+    pt_br: teoria dos grafos
     ro: teoria grafurilor
     ru: теория графов
     scn: tiuria dî grafi
@@ -183,12 +183,12 @@ dv_has_:
     sl: teorija grafov
     sq: teoria e grafeve
     sr: теорија графова
-    sr-ec: теорија графова
-    sr-el: teorija grafova
+    sr_ec: теорија графова
+    sr_el: teorija grafova
     sv: grafteori
     ta: கோட்டுருவியல்
     tg: назарияи графҳо
-    tg-latn: nazarijai grafho
+    tg_latn: nazarijai grafho
     th: ทฤษฎีกราฟ
     tl: teoriya ng grapo
     tr: grafik teorisi
@@ -200,12 +200,12 @@ dv_has_:
     wuu: 图论
     yue: 圖論
     zh: 圖論
-    zh-cn: 图论
-    zh-hans: 图论
-    zh-hant: 圖論
-    zh-hk: 圖論
-    zh-sg: 图论
-    zh-tw: 圖論
+    zh_cn: 图论
+    zh_hans: 图论
+    zh_hant: 圖論
+    zh_hk: 圖論
+    zh_sg: 图论
+    zh_tw: 圖論
 ---
 # [[Graph_Theory]] 
 

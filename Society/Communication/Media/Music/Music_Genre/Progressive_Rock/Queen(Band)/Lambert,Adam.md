@@ -30,7 +30,7 @@ dv_has_:
     ast: Adam Lambert
     az: Adam Lambert
     azb: ادام لمبرت
-    be-tarask: Адам Ламбэрт
+    be_tarask: Адам Ламбэрт
     bg: Адам Ламбърт
     ca: Adam Lambert
     ckb: ئادەم لامبێرت
@@ -75,7 +75,7 @@ dv_has_:
     pap: Adam Lambert
     pl: Adam Lambert
     pt: Adam Lambert
-    pt-br: Adam Lambert
+    pt_br: Adam Lambert
     ro: Adam Lambert
     ru: Адам Ламберт
     sco: Adam Lambert
@@ -92,12 +92,12 @@ dv_has_:
     yo: Adam Lambert
     yue: Adam Lambert
     zh: 亚当·兰伯特
-    zh-cn: 亚当·兰伯特
-    zh-hans: 亚当·兰伯特
-    zh-hant: 亞當·藍伯特
-    zh-hk: 亞當·藍伯特
-    zh-sg: 亚当·兰伯特
-    zh-tw: 亞當·藍伯特
+    zh_cn: 亚当·兰伯特
+    zh_hans: 亚当·兰伯特
+    zh_hant: 亞當·藍伯特
+    zh_hk: 亞當·藍伯特
+    zh_sg: 亚当·兰伯特
+    zh_tw: 亞當·藍伯特
 ---
 > Adam Mitchel Lambert (born January 29, 1982) is an American singer. 
 > He is known for his dynamic vocal performances that combine his theatrical training 

@@ -63,7 +63,7 @@ dv_has_:
     ar: قناة ديزني
     ast: Disney Channel
     az: Disney Channel
-    be-tarask: Disney Channel
+    be_tarask: Disney Channel
     bg: Дисни Ченъл
     bn: ডিজনি চ্যানেল
     ca: Disney Channel
@@ -75,8 +75,8 @@ dv_has_:
     de: Disney Channel
     el: Disney Channel
     en: Disney Channel
-    en-ca: Disney Channel
-    en-gb: Disney Channel
+    en_ca: Disney Channel
+    en_gb: Disney Channel
     eo: Disney Channel
     es: Disney Channel
     et: Disney Channel
@@ -101,16 +101,16 @@ dv_has_:
     jv: Disney Channel
     ka: Disney Channel
     kk: Disney Channel
-    kk-arab: Disney Channel
+    kk_arab: Disney Channel
     kk-cn: Disney Channel
-    kk-cyrl: Діснеy Цһаннел
+    kk_cyrl: Діснеy Цһаннел
     kk-kz: Діснеy Цһаннел
-    kk-latn: Disney Channel
+    kk_latn: Disney Channel
     kk-tr: Disney Channel
     km: ប៉ុស្តិ៍ឌីសនីយ៍
     ko: 디즈니 채널
     ku: Disney Channel
-    ku-latn: Disney Channel
+    ku_latn: Disney Channel
     la: Canalis Disney
     lo: ດິສນີ ຈັນເນລ
     lt: Disney Channel
@@ -126,7 +126,7 @@ dv_has_:
     pa: ਡਿਜ਼ਨੀ ਚੈਨਲ
     pl: Disney Channel
     pt: Disney Channel
-    pt-br: Disney Channel
+    pt_br: Disney Channel
     ro: Disney Channel
     ru: Disney Channel
     sco: Disney Channel
@@ -154,12 +154,12 @@ dv_has_:
     yue: 迪士尼頻道
     zgh: ⴷⵉⵣⵏⵉ ⵛⴰⵏⵏⵉⵍ
     zh: 迪士尼频道
-    zh-cn: 迪士尼频道
-    zh-hans: 迪士尼频道
-    zh-hant: 迪士尼頻道
-    zh-hk: 迪士尼頻道
-    zh-sg: 迪士尼频道
-    zh-tw: 迪士尼頻道
+    zh_cn: 迪士尼频道
+    zh_hans: 迪士尼频道
+    zh_hant: 迪士尼頻道
+    zh_hk: 迪士尼頻道
+    zh_sg: 迪士尼频道
+    zh_tw: 迪士尼頻道
 ---
 # [[Disney_Channel]] 
 

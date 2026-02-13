@@ -221,7 +221,7 @@ dv_has_:
     bar: Odyssee
     bcl: Odisea
     be: Адысея
-    be-tarask: Адысэя
+    be_tarask: Адысэя
     bg: Одисея
     bn: ওডিসি
     bo: ཨ་ངྷི་སེའུ།
@@ -272,7 +272,7 @@ dv_has_:
     koi: Одиссея
     ks: اوڈیسی
     ku: Odîseya
-    ku-latn: Odîseya
+    ku_latn: Odîseya
     ky: Одиссей
     la: Odyssea
     lb: Odyssee

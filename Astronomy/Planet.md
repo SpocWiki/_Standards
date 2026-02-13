@@ -241,7 +241,7 @@ dv_has_:
     bar: Planet
     bcl: planeta
     be: планета
-    be-tarask: плянэта
+    be_tarask: плянэта
     bew: bintang ider
     bg: планета
     bho: ग्रह
@@ -260,7 +260,7 @@ dv_has_:
     ckb: ھەسارە
     co: Pianeta
     crh: seyyare
-    crh-latn: seyyare
+    crh_latn: seyyare
     cs: planeta
     cu: планита
     cv: планета
@@ -355,7 +355,7 @@ dv_has_:
     lzh: 行星
     mad: planèt
     mag: ग्रह
-    map-bms: planet
+    map_bms: planet
     mg: fajiry
     mhr: планет
     mi: aorangi
@@ -366,7 +366,7 @@ dv_has_:
     mni: ꯑꯄꯛꯉꯥ
     mr: ग्रह
     ms: planet
-    ms-arab: ڤلانيت
+    ms_arab: ڤلانيت
     mt: pjaneta
     mwl: planeta
     my: ဂြိုဟ်
@@ -377,7 +377,7 @@ dv_has_:
     nap: chianeta
     nb: planet
     nds: Planet
-    nds-nl: planeet
+    nds_nl: planeet
     ne: ग्रह
     new: ग्रह
     nl: planeet
@@ -400,7 +400,7 @@ dv_has_:
     pnb: سیارہ
     ps: سياره
     pt: planeta
-    pt-br: planeta
+    pt_br: planeta
     qu: puriq quyllur
     rki: ဂြိုဟ်
     rm: planet
@@ -434,8 +434,8 @@ dv_has_:
     so: meere
     sq: planet
     sr: планета
-    sr-ec: планета
-    sr-el: planeta
+    sr_ec: планета
+    sr_el: planeta
     st: polanete
     stq: Planet
     su: planét
@@ -453,8 +453,8 @@ dv_has_:
     tpi: planet
     tr: gezegen
     tt: планета
-    tt-cyrl: планета
-    tt-latn: planeta
+    tt_cyrl: планета
+    tt_latn: planeta
     tum: chibwe
     udm: планета
     ug: سەييارە
@@ -479,10 +479,10 @@ dv_has_:
     zea: planete
     zgh: ⴰⵎⵜⵉⵡⴳ
     zh: 行星
-    zh-hans: 行星
-    zh-hant: 行星
-    zh-hk: 行星
-    zh-tw: 行星
+    zh_hans: 行星
+    zh_hant: 行星
+    zh_hk: 行星
+    zh_tw: 行星
     zu: iplanethi
 ---
 # [[Planet]] 🪐 

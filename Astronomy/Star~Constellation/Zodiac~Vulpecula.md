@@ -112,7 +112,7 @@ dv_has_:
     az: Kiçik Tülkü
     ba: Бала төлкө
     be: Лісічка
-    be-tarask: Лісічка
+    be_tarask: Лісічка
     bg: Малка лисица
     bn: শৃগাল মণ্ডল
     br: Louarnig

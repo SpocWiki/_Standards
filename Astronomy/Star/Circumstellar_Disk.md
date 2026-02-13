@@ -78,7 +78,7 @@ dv_has_:
     af: Sirkumstellêre skyf
     ar: قرص نجمي دوار
     ast: discu circunestelar
-    be-tarask: калязорны дыск
+    be_tarask: калязорны дыск
     ca: disc circumestel·lar
     cs: cirkumstelární disk
     cy: disg amserennol
@@ -110,8 +110,8 @@ dv_has_:
     ru: околозвёздный диск
     sl: cirkumstelarni disk
     sr: околозвездани диск
-    sr-ec: околозвездани диск
-    sr-el: okolozvezdani disk
+    sr_ec: околозвездани диск
+    sr_el: okolozvezdani disk
     sv: cirkumstellär skiva
     th: จานรอบดาวฤกษ์
     tr: Çöküntü çemberi
@@ -119,9 +119,9 @@ dv_has_:
     uk: Навколозоряний диск
     vi: Đĩa vũ trụ tròn
     zh: 星周盤
-    zh-hans: 星周盘
-    zh-hant: 星周盤
-    zh-hk: 星周盤
+    zh_hans: 星周盘
+    zh_hant: 星周盤
+    zh_hk: 星周盤
 ---
 # [[Circumstellar_Disk]] 
 

@@ -138,7 +138,7 @@ dv_has_:
     azb: نیجر-کونقو دیللری
     bcl: mga tataramon na Niger-Congo
     be: нігера-кангалезскія мовы
-    be-tarask: нігера-кангійскія мовы
+    be_tarask: нігера-кангійскія мовы
     bg: Нигер-конгоански езици
     bn: নাইজার-কঙ্গো ভাষাসমূহ
     br: yezhoù nigerek-kongoek
@@ -152,8 +152,8 @@ dv_has_:
     dsb: Nigerokongoske rěcy
     el: Νιγηροκονγκολεζικές γλώσσες
     en: Niger–Congo
-    en-ca: Niger–Congo
-    en-gb: Niger–Congo
+    en_ca: Niger–Congo
+    en_gb: Niger–Congo
     en-us: Niger–Congo
     eo: niĝerkonga lingvaro
     es: lenguas nigerocongolesas
@@ -212,7 +212,7 @@ dv_has_:
     pl: języki nigero-kongijskie
     ps: نايجېر کانګويي ژبې
     pt: línguas nigero-congolesas
-    pt-br: Línguas nigero-congolesas
+    pt_br: Línguas nigero-congolesas
     qu: Niqir Kungu rimaykuna
     ro: Limbi nigero-congoleze
     ru: нигеро-конголезские языки
@@ -223,8 +223,8 @@ dv_has_:
     sl: nigrsko-kongovski jeziki
     sn: Mitauro ye Naija-Kongo
     sr: нигер-конгоански језици
-    sr-ec: Нигер-конгоански језици
-    sr-el: Niger-kongoanski jezici
+    sr_ec: Нигер-конгоански језици
+    sr_el: Niger-kongoanski jezici
     stq: Niger-Kongo Sproaken
     sv: Niger-Kongospråk
     sw: Lugha za Kiniger-Kongo
@@ -242,10 +242,10 @@ dv_has_:
     yo: Àwọn èdè Niger-Kóngò
     yue: 尼日爾-剛果語系
     zh: 尼日尔-刚果语系
-    zh-hans: 尼日尔-刚果语系
-    zh-hant: 尼日-剛果語系
-    zh-hk: 尼日-剛果語系
-    zh-tw: 尼日-剛果語系
+    zh_hans: 尼日尔-刚果语系
+    zh_hant: 尼日-剛果語系
+    zh_hk: 尼日-剛果語系
+    zh_tw: 尼日-剛果語系
 ---
 # [[LangFamily-Niger–Congo]] 
 

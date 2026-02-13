@@ -161,7 +161,7 @@ dv_has_:
     ba: банкнота
     bar: Papiagöd
     be: банкнота
-    be-tarask: банкнота
+    be_tarask: банкнота
     bg: банкнота
     bn: ব্যাংকনোট
     br: bilhed-bank
@@ -177,7 +177,7 @@ dv_has_:
     diq: banknot
     el: χαρτονόμισμα
     en: banknote
-    en-gb: banknote
+    en_gb: banknote
     eo: monbileto
     es: papel moneda
     et: paberraha
@@ -225,7 +225,7 @@ dv_has_:
     pnt: παγκανότα
     ps: بانکنوټ
     pt: papel-moeda
-    pt-br: papel-moeda
+    pt_br: papel-moeda
     qu: p'anqa kañina
     ro: bancnotă
     ru: банкнота
@@ -239,8 +239,8 @@ dv_has_:
     sms: põʹmmaiteäʹǧǧ
     sq: kartëmonedha
     sr: новчаница
-    sr-ec: новчаница
-    sr-el: novčanica
+    sr_ec: новчаница
+    sr_el: novčanica
     su: duit kertas
     sv: sedel
     sw: benknoti
@@ -253,7 +253,7 @@ dv_has_:
     tok: lipu mani
     tr: banknot
     tt: банкнотлар
-    tt-cyrl: банкнотлар
+    tt_cyrl: банкнотлар
     uk: банкнота
     ur: زرکاغذ
     uz: banknotlar
@@ -264,7 +264,7 @@ dv_has_:
     xmf: ბანკნოტი
     yue: 銀紙
     zh: 紙幣
-    zh-hans: 纸币
+    zh_hans: 纸币
 ---
 # [[Banknote]] 
 

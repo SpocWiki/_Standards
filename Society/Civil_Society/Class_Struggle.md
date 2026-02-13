@@ -97,7 +97,7 @@ dv_has_:
     ast: Llucha de clases
     az: Sinfi mübarizə
     be: класавая барацьба
-    be-tarask: клясавая барацьба
+    be_tarask: клясавая барацьба
     bg: Класова борба
     br: Emgann ar renkadoù
     ca: lluita de classes
@@ -156,7 +156,7 @@ dv_has_:
     sl: razredni boj
     sq: Lufta e klasave
     sr: Класни сукоб
-    sr-ec: Класни сукоб
+    sr_ec: Класни сукоб
     sv: klasskamp
     th: การต่อสู้ระหว่างชนชั้น
     tl: Tunggalian ng uri

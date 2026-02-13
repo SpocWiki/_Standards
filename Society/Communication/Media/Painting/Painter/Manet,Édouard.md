@@ -299,7 +299,7 @@ dv_has_:
     az: Eduard Mane
     ba: Эдуард Мане
     be: Эдуар Манэ
-    be-tarask: Эдуард Манэ
+    be_tarask: Эдуард Манэ
     bg: Едуар Мане
     bn: এদুয়ার মানে
     bpy: এডৱার মানে
@@ -310,12 +310,12 @@ dv_has_:
     cy: Édouard Manet
     da: Édouard Manet
     de: Édouard Manet
-    de-ch: Édouard Manet
+    de_ch: Édouard Manet
     ee: Édouard Manet
     el: Εντουάρ Μανέ
     en: Édouard Manet
-    en-ca: Édouard Manet
-    en-gb: Édouard Manet
+    en_ca: Édouard Manet
+    en_gb: Édouard Manet
     eo: Édouard Manet
     es: Édouard Manet
     et: Édouard Manet
@@ -372,7 +372,7 @@ dv_has_:
     pms: Édouard Manet
     pnb: ایڈورڈ مانی
     pt: Édouard Manet
-    pt-br: Édouard Manet
+    pt_br: Édouard Manet
     qu: Édouard Manet
     ro: Édouard Manet
     ru: Эдуард Мане
@@ -384,7 +384,7 @@ dv_has_:
     sl: Édouard Manet
     sq: Édouard Manet
     sr: Едуар Мане
-    sr-ec: Едуар Мане
+    sr_ec: Едуар Мане
     stq: Édouard Manet
     sv: Édouard Manet
     sw: Édouard Manet
@@ -400,7 +400,7 @@ dv_has_:
     xmf: ედუარ მანე
     yue: 愛德華·馬內
     zh: 愛德華·馬奈
-    zh-hant: 愛德華·馬奈
+    zh_hant: 愛德華·馬奈
 ---
 # [[Manet,Édouard]] 
 

@@ -78,7 +78,7 @@ dv_has_:
     ar: خداع بصري
     ast: Ilusión óptica
     be: аптычная ілюзія
-    be-tarask: аптычная ілюзія
+    be_tarask: аптычная ілюзія
     bg: Оптична илюзия
     bn: দৃষ্টিভ্রম
     ca: il·lusió òptica
@@ -87,7 +87,7 @@ dv_has_:
     da: synsbedrag
     de: optische Täuschung
     en: optical illusion
-    en-gb: optical illusion
+    en_gb: optical illusion
     en-us: optical illusion
     eo: optika iluzio
     es: ilusión óptica
@@ -126,8 +126,8 @@ dv_has_:
     sl: optična iluzija
     sq: Iluzioni optik
     sr: оптичка варка
-    sr-ec: оптичка варка
-    sr-el: optička varka
+    sr_ec: оптичка варка
+    sr_el: optička varka
     sv: optisk illusion
     ta: ஒளியியற்கண் மாயம்
     th: ภาพลวงตา
@@ -140,12 +140,12 @@ dv_has_:
     xmf: ოპტიკური ილუზია
     yue: 視覺錯覺
     zh: 错视
-    zh-cn: 错视
-    zh-hans: 错视
-    zh-hant: 錯視
-    zh-hk: 錯視
-    zh-sg: 错视
-    zh-tw: 錯視
+    zh_cn: 错视
+    zh_hans: 错视
+    zh_hant: 錯視
+    zh_hk: 錯視
+    zh_sg: 错视
+    zh_tw: 錯視
 ---
 # [[Optical_Illusion]] 
 

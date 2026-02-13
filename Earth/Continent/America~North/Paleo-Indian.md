@@ -66,7 +66,7 @@ dv_has_:
     ast: Paleoamericanu
     bar: Paläoindiana
     be: Палеаіндзейцы
-    be-tarask: палеаіндзейцы
+    be_tarask: палеаіндзейцы
     bg: Палеоиндианци
     ca: paleoamericans
     cs: Paleoindiáni
@@ -106,9 +106,9 @@ dv_has_:
     vec: pàleo-americani
     wuu: 古印地安人
     zh: 古印地安人
-    zh-hant: 古印地安人
-    zh-hk: 古印地安人
-    zh-tw: 古印地安人
+    zh_hant: 古印地安人
+    zh_hk: 古印地安人
+    zh_tw: 古印地安人
 ---
 # [[Paleo-Indian]] 
 

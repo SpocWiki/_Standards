@@ -96,7 +96,7 @@ dv_has_:
     ast: Patriarcáu
     az: Patriarxat
     be: патрыярхат
-    be-tarask: патрыярхат
+    be_tarask: патрыярхат
     bg: Патриархат
     bn: পিতৃতন্ত্র
     bs: Patrijarhat (sociologija)
@@ -126,11 +126,11 @@ dv_has_:
     ja: 家父長制
     ka: პატრიარქატი
     kk: Патриархат
-    kk-arab: پاترىيارحات
+    kk_arab: پاترىيارحات
     kk-cn: پاترىيارحات
-    kk-cyrl: Патриархат
+    kk_cyrl: Патриархат
     kk-kz: Патриархат
-    kk-latn: Patrïarxat
+    kk_latn: Patrïarxat
     kk-tr: Patrïarxat
     ko: 가부장제
     ku: Baviksalarî
@@ -158,8 +158,8 @@ dv_has_:
     so: Abtooyo
     sq: Patriarkati
     sr: Патријархат
-    sr-ec: Патријархат
-    sr-el: Patrijarhat
+    sr_ec: Патријархат
+    sr_el: Patrijarhat
     sv: patriarkat
     sw: Taasubi ya kiume
     ta: தந்தை மரபாட்சி
@@ -175,12 +175,12 @@ dv_has_:
     wuu: 父权
     yue: 父權
     zh: 父權
-    zh-cn: 父权
-    zh-hans: 父权
-    zh-hant: 父權
-    zh-hk: 父權
-    zh-sg: 父权
-    zh-tw: 父權
+    zh_cn: 父权
+    zh_hans: 父权
+    zh_hant: 父權
+    zh_hk: 父權
+    zh_sg: 父权
+    zh_tw: 父權
 ---
 # [[Patriarchy]] 
 

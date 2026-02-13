@@ -14,8 +14,8 @@ dv_has_:
     cs: Fibrobacterota
     de: Fibrobacterota
     en: Fibrobacterota
-    en-ca: Fibrobacterota
-    en-gb: Fibrobacterota
+    en_ca: Fibrobacterota
+    en_gb: Fibrobacterota
     eo: Fibrobacterota
     es: Fibrobacterota
     eu: Fibrobacterota
@@ -34,7 +34,7 @@ dv_has_:
     oc: Fibrobacterota
     pl: Fibrobacterota
     pt: Fibrobacterota
-    pt-br: Fibrobacterota
+    pt_br: Fibrobacterota
     ro: Fibrobacterota
     ru: Fibrobacterota
     sq: Fibrobacterota

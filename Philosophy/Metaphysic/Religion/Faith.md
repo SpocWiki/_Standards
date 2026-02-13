@@ -121,7 +121,7 @@ dv_has_:
     az: İnam
     bcl: pagtubod
     be: вера
-    be-tarask: вера
+    be_tarask: вера
     bg: Вяра
     bn: আধ্যাত্মিক বিশ্বাস
     bo: དད་པ།
@@ -134,11 +134,11 @@ dv_has_:
     cy: ffydd
     da: tro
     de: Glaube
-    de-ch: Glaube
+    de_ch: Glaube
     el: πίστη
     en: faith
-    en-ca: Faith
-    en-gb: faith
+    en_ca: Faith
+    en_gb: faith
     eo: fido
     es: fe
     et: usk
@@ -169,7 +169,7 @@ dv_has_:
     ka: რწმენა
     kk: Вера
     ko: 신앙
-    ku-latn: bawerî
+    ku_latn: bawerî
     ky: Ишеним
     la: fides
     lij: Fè
@@ -180,7 +180,7 @@ dv_has_:
     mk: вера
     ml: മതവിശ്വാസം
     ms: iman
-    ms-arab: ايمان
+    ms_arab: ايمان
     nan: Sìn-gióng
     nb: tro
     new: आस्था
@@ -191,7 +191,7 @@ dv_has_:
     pl: wiara religijna
     ps: ايمان
     pt: fé
-    pt-br: fé
+    pt_br: fé
     rm: cretta
     ro: credință
     ru: религиозная вера
@@ -211,7 +211,7 @@ dv_has_:
     tl: Pananampalataya
     tr: iman
     tt: иман
-    tt-cyrl: иман
+    tt_cyrl: иман
     tyv: Сүзүк
     uk: віра
     ur: ایمان
@@ -222,14 +222,14 @@ dv_has_:
     yi: אמונה
     yue: 信仰
     zh: 信仰
-    zh-cn: 信仰
-    zh-hans: 信仰
-    zh-hant: 信仰
-    zh-hk: 信仰
-    zh-mo: 信仰
+    zh_cn: 信仰
+    zh_hans: 信仰
+    zh_hant: 信仰
+    zh_hk: 信仰
+    zh_mo: 信仰
     zh-my: 信仰
-    zh-sg: 信仰
-    zh-tw: 信仰
+    zh_sg: 信仰
+    zh_tw: 信仰
 ---
 # [[Faith]] 
 

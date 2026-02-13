@@ -131,7 +131,7 @@ dv_has_:
     ba: Пьер Ферма
     bcl: Pierre de Fermat
     be: П'ер дэ Ферма
-    be-tarask: П’ер дэ Фэрма
+    be_tarask: П’ер дэ Фэрма
     bg: Пиер дьо Ферма
     bn: পিয়ের দ্য ফের্মা
     br: Pierre de Fermat
@@ -146,8 +146,8 @@ dv_has_:
     diq: Pierre de Fermat
     el: Πιέρ ντε Φερμά
     en: Pierre de Fermat
-    en-ca: Pierre de Fermat
-    en-gb: Pierre de Fermat
+    en_ca: Pierre de Fermat
+    en_gb: Pierre de Fermat
     eo: Pierre de Fermat
     es: Pierre de Fermat
     et: Pierre de Fermat
@@ -195,7 +195,7 @@ dv_has_:
     pl: Pierre de Fermat
     pms: Pierre de Fermat
     pt: Pierre de Fermat
-    pt-br: Pierre de Fermat
+    pt_br: Pierre de Fermat
     ro: Pierre de Fermat
     ru: Пьер Ферма
     scn: Pierre de Fermat
@@ -205,7 +205,7 @@ dv_has_:
     sl: Pierre de Fermat
     sq: Pierre de Fermat
     sr: Пјер де Ферма
-    sr-ec: Пјер де Ферма
+    sr_ec: Пјер де Ферма
     sv: Pierre de Fermat
     sw: Pierre de Fermat
     ta: பியரே டி பேர்மட்
@@ -224,7 +224,7 @@ dv_has_:
     yi: פיער דע פערמאט
     yue: 費馬
     zh: 皮埃爾·德·費馬
-    zh-hans: 皮埃尔·德·费马
+    zh_hans: 皮埃尔·德·费马
 ---
 # [[Fermat,Pierre_de]] 
 

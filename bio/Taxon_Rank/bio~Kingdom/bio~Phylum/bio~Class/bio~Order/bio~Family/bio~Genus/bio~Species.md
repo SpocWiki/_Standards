@@ -180,7 +180,7 @@ dv_has_:
     bas: ǹten
     bcl: species
     be: біялагічны від
-    be-tarask: від
+    be_tarask: від
     bg: вид
     bho: प्रजाति
     bn: প্রজাতি
@@ -200,14 +200,14 @@ dv_has_:
     da: art
     dag: species
     de: Art
-    de-ch: Art
+    de_ch: Art
     diq: tewro biyolocik
     dsb: družyna
     dty: प्रजाति
     el: είδος
     en: species
-    en-ca: species
-    en-gb: species
+    en_ca: species
+    en_gb: species
     eo: specio
     es: especie
     et: liik
@@ -252,7 +252,7 @@ dv_has_:
     krc: биология тюрлю
     ks: زٲژ
     ku: cure
-    ku-latn: cure
+    ku_latn: cure
     kw: eghen
     ky: түр
     la: species
@@ -267,7 +267,7 @@ dv_has_:
     ml: ജീവജാതി
     mn: зүйл
     ms: spesies
-    ms-arab: سڤيسيس
+    ms_arab: سڤيسيس
     mt: speċi
     my: မျိုးစိတ်
     mzn: تی
@@ -275,7 +275,7 @@ dv_has_:
     nap: specia
     nb: art
     nds: Oort
-    nds-nl: soort
+    nds_nl: soort
     ne: प्रजाति
     new: प्रजाति
     nia: spesies
@@ -294,7 +294,7 @@ dv_has_:
     pnb: نوع
     ps: توکمونه
     pt: espécie
-    pt-br: espécie
+    pt_br: espécie
     qu: rikch'aq
     ro: specie
     ru: вид
@@ -323,8 +323,8 @@ dv_has_:
     ta: இனம்
     te: జాతి
     tg: гуна
-    tg-cyrl: намуд
-    tg-latn: namud
+    tg_cyrl: намуд
+    tg_latn: namud
     th: ชนิด
     tk: biologik görnüş
     tl: espesye
@@ -332,8 +332,8 @@ dv_has_:
     tok: kulupu pisi
     tr: tür
     tt: төр
-    tt-cyrl: төр
-    tt-latn: tör
+    tt_cyrl: төр
+    tt_latn: tör
     udm: вид
     uk: вид
     ur: نوع
@@ -349,11 +349,11 @@ dv_has_:
     yi: זגאל
     yue: 物種
     zh: 种
-    zh-cn: 物种
-    zh-hans: 种
-    zh-hant: 種
-    zh-hk: 物種
-    zh-tw: 物種
+    zh_cn: 物种
+    zh_hans: 种
+    zh_hant: 種
+    zh_hk: 物種
+    zh_tw: 物種
 ---
 # [[bio~Species]] 
 

@@ -175,7 +175,7 @@ dv_has_:
     bar: Eiskostn
     bdr: ais buk
     be: лядоўня
-    be-tarask: лядоўня
+    be_tarask: лядоўня
     bg: хладилник
     bho: फ्रिज
     bn: হিমায়কযন্ত্র
@@ -194,7 +194,7 @@ dv_has_:
     de: Kühlschrank
     el: ψυγείο
     en: refrigerator
-    en-gb: refrigerator
+    en_gb: refrigerator
     eo: frostujo
     es: refrigerador
     et: külmutuskapp
@@ -252,7 +252,7 @@ dv_has_:
     nan: peng-siuⁿ
     nb: kjøleskap
     nds: Köhlschapp
-    nds-nl: koelkaste
+    nds_nl: koelkaste
     ne: शीत-दराज
     nl: koelkast
     nn: kjøleskap
@@ -266,7 +266,7 @@ dv_has_:
     pl: chłodziarka
     pnb: فریج
     pt: frigorífico
-    pt-br: geladeira
+    pt_br: geladeira
     qu: khutuchiq
     ro: frigider
     ru: холодильник
@@ -282,7 +282,7 @@ dv_has_:
     sn: firiji
     sq: frigoriferi
     sr: хладњак
-    sr-ec: хладњак
+    sr_ec: хладњак
     stq: Keelskap
     su: kulkas
     sv: kylskåp
@@ -306,14 +306,14 @@ dv_has_:
     yi: פרידזשידער
     yue: 雪櫃
     zh: 冰箱
-    zh-cn: 冰箱
-    zh-hans: 冰箱
-    zh-hant: 冰箱
-    zh-hk: 雪櫃
-    zh-mo: 冰箱
+    zh_cn: 冰箱
+    zh_hans: 冰箱
+    zh_hant: 冰箱
+    zh_hk: 雪櫃
+    zh_mo: 冰箱
     zh-my: 冰箱
-    zh-sg: 冰箱
-    zh-tw: 冰箱
+    zh_sg: 冰箱
+    zh_tw: 冰箱
 ---
 # [[Refrigerator]] 
 

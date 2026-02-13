@@ -9,7 +9,7 @@ dv_has_:
     az: Bozon
     azb: بوزون
     be: Базон
-    be-tarask: базон
+    be_tarask: базон
     bg: Бозон
     bn: বোসন
     bs: Bozon
@@ -71,7 +71,7 @@ dv_has_:
     pl: bozon
     pnb: بوسون
     pt: bosão
-    pt-br: bóson
+    pt_br: bóson
     ro: boson
     ru: бозон
     scn: busoni
@@ -84,8 +84,8 @@ dv_has_:
     sms: bosoon
     sq: bozoni
     sr: бозон
-    sr-ec: бозон
-    sr-el: bozon
+    sr_ec: бозон
+    sr_el: bozon
     su: Boson
     sv: boson
     szl: Bozůn

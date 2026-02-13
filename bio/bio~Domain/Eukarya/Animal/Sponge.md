@@ -101,7 +101,7 @@ dv_has_:
     az: süngərlər
     ba: болоттар
     be: губкі
-    be-tarask: губкі
+    be_tarask: губкі
     bew: didi laot
     bg: водни гъби
     bn: পরিফেরা
@@ -187,11 +187,11 @@ dv_has_:
     wuu: 多孔动物门
     yue: 海綿動物
     zh: 多孔动物门
-    zh-cn: 多孔动物门
-    zh-hans: 多孔动物门
-    zh-hant: 海綿動物門
-    zh-hk: 多孔動物門
-    zh-tw: 海綿動物門
+    zh_cn: 多孔动物门
+    zh_hans: 多孔动物门
+    zh_hant: 海綿動物門
+    zh_hk: 多孔動物門
+    zh_tw: 海綿動物門
 ---
 # [[Sponge]] 
 

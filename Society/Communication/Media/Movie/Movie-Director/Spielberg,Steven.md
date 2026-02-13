@@ -231,7 +231,7 @@ dv_has_:
     bar: Steven Spielberg
     bcl: Steven Spielberg
     be: Стывен Спілберг
-    be-tarask: Стывэн Сьпілбэрг
+    be_tarask: Стывэн Сьпілбэрг
     bew: Steven Spielberg
     bg: Стивън Спилбърг
     bho: स्टीवन स्पीलबर्ग
@@ -250,12 +250,12 @@ dv_has_:
     cy: Steven Spielberg
     da: Steven Spielberg
     de: Steven Spielberg
-    de-ch: Steven Spielberg
+    de_ch: Steven Spielberg
     diq: Steven Spielberg
     el: Στίβεν Σπίλμπεργκ
     en: Steven Spielberg
-    en-ca: Steven Spielberg
-    en-gb: Steven Spielberg
+    en_ca: Steven Spielberg
+    en_gb: Steven Spielberg
     eo: Steven Spielberg
     es: Steven Spielberg
     et: Steven Spielberg
@@ -325,7 +325,7 @@ dv_has_:
     pnb: سٹیون شپیلبرگ
     ps: سټیون سپیلبرګ
     pt: Steven Spielberg
-    pt-br: Steven Spielberg
+    pt_br: Steven Spielberg
     qu: Steven Spielberg
     ro: Steven Spielberg
     ru: Стивен Спилберг
@@ -353,7 +353,7 @@ dv_has_:
     tly: Stiven Spilberq
     tr: Steven Spielberg
     tt: Стивен Спилберг
-    tt-cyrl: Стивен Спилберг
+    tt_cyrl: Стивен Спилберг
     tyv: Спилберг, Стивен
     uk: Стівен Спілберґ
     ur: سٹیفن سپلبرگ
@@ -369,13 +369,13 @@ dv_has_:
     yo: Steven Spielberg
     yue: 史匹堡
     zh: 斯蒂芬·斯皮爾伯格
-    zh-cn: 斯蒂芬·斯皮尔伯格
-    zh-hans: 斯蒂芬·斯皮尔伯格
-    zh-hant: 史蒂芬·史匹柏
-    zh-hk: 史提芬史匹堡
+    zh_cn: 斯蒂芬·斯皮尔伯格
+    zh_hans: 斯蒂芬·斯皮尔伯格
+    zh_hant: 史蒂芬·史匹柏
+    zh_hk: 史提芬史匹堡
     zh-my: 史提芬·史匹堡
-    zh-sg: 史提芬·司匹堡
-    zh-tw: 史蒂芬·史匹柏
+    zh_sg: 史提芬·司匹堡
+    zh_tw: 史蒂芬·史匹柏
 ---
 # [[Spielberg,Steven]] 
 

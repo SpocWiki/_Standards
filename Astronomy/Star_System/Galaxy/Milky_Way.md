@@ -386,7 +386,7 @@ dv_has_:
     bar: Muichstrossn
     bcl: Milky Way
     be: Млечны Шлях
-    be-tarask: Млечны Шлях
+    be_tarask: Млечны Шлях
     bew: Jalan Raya Puti
     bg: Млечен път
     bho: आकाशगंगा
@@ -406,13 +406,13 @@ dv_has_:
     cy: Llwybr Llaethog
     da: Mælkevejen
     de: Milchstraße
-    de-ch: Milchstrasse
+    de_ch: Milchstrasse
     din: Akeu
     diq: Kahkeşan
     el: Γαλαξίας
     en: Milky Way
-    en-ca: Milky Way
-    en-gb: Milky Way
+    en_ca: Milky Way
+    en_gb: Milky Way
     eo: Lakta vojo
     es: Vía Láctea
     et: Linnutee
@@ -495,7 +495,7 @@ dv_has_:
     nan: Gîn-hô-hē
     nb: Melkeveien
     nds: Melkstraat
-    nds-nl: melkweg
+    nds_nl: melkweg
     ne: आकाशगङ्गा
     new: मिल्की वे
     nl: melkweg
@@ -515,7 +515,7 @@ dv_has_:
     pnb: چٹا راہ
     ps: د شیدو لار
     pt: Via Láctea
-    pt-br: Via Láctea
+    pt_br: Via Láctea
     qu: Qullqaquyllur
     rmy: Pharnovon
     ro: Calea Lactee
@@ -541,8 +541,8 @@ dv_has_:
     sn: Gwara raKurumbi
     sq: Rruga e Qumështit
     sr: Млечни пут
-    sr-ec: Млечни пут
-    sr-el: Mlečni put
+    sr_ec: Млечни пут
+    sr_el: Mlečni put
     stq: Molksträite
     su: Bima Sakti
     sv: Vintergatan
@@ -577,14 +577,14 @@ dv_has_:
     za: Dahmbwn
     zgh: ⴰⵙⵉⴼ ⵏ ⵉⴳⵏⵡⴰⵏ
     zh: 银河系
-    zh-cn: 银河系
-    zh-hans: 银河系
-    zh-hant: 银河系
-    zh-hk: 銀河系
-    zh-mo: 銀河系
+    zh_cn: 银河系
+    zh_hans: 银河系
+    zh_hant: 银河系
+    zh_hk: 銀河系
+    zh_mo: 銀河系
     zh-my: 银河系
-    zh-sg: 银河系
-    zh-tw: 銀河系
+    zh_sg: 银河系
+    zh_tw: 銀河系
     zu: UmZilafasimbe
 ---
 # [[Milky_Way]] 🌌 

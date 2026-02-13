@@ -68,7 +68,7 @@ dv_has_:
     ab: Нигер
     ace: Niger
     ady: Нигер
-    aeb-arab: النيجر
+    aeb_arab: النيجر
     af: Niger
     am: ኒጄር
     ami: Niger
@@ -89,7 +89,7 @@ dv_has_:
     bar: Niger
     bcl: Niger
     be: Нігер
-    be-tarask: Нігер
+    be_tarask: Нігер
     bew: Nigèr
     bg: Нигер
     bho: नाइजर
@@ -103,7 +103,7 @@ dv_has_:
     bs: Niger
     bxr: Нигер
     ca: Níger
-    cbk-zam: Níger
+    cbk_zam: Níger
     cdo: Niger
     ce: Нигер
     ceb: Niher
@@ -111,14 +111,14 @@ dv_has_:
     ckb: نیجەر
     co: Nìger
     crh: Niger
-    crh-latn: Niger
+    crh_latn: Niger
     cs: Niger
     cy: Niger
     da: Niger
     dag: Niger
     de: Niger
     de-at: Niger
-    de-ch: Niger
+    de_ch: Niger
     din: Nijer
     diq: Nicer
     dsb: Niger
@@ -127,8 +127,8 @@ dv_has_:
     ee: Nidzɛ
     el: Νίγηρας
     en: Niger
-    en-ca: Niger
-    en-gb: Niger
+    en_ca: Niger
+    en_gb: Niger
     eo: Niĝero
     es: Níger
     et: Niger
@@ -232,7 +232,7 @@ dv_has_:
     nan: Niger
     nb: Niger
     nds: Republiek Niger
-    nds-nl: Niger
+    nds_nl: Niger
     ne: नाईजर
     new: नाइजर
     nl: Niger
@@ -256,7 +256,7 @@ dv_has_:
     pnb: نائجر
     ps: نایجېر
     pt: Níger
-    pt-br: Níger
+    pt_br: Níger
     qu: Niqir
     rki: နိုင်ဂျာ သမ္မတနိုင်ငံ
     ro: Niger
@@ -286,8 +286,8 @@ dv_has_:
     so: Nayjar
     sq: Nigeri
     sr: Нигер
-    sr-ec: Нигер
-    sr-el: Niger
+    sr_ec: Нигер
+    sr_el: Niger
     ss: INayijari
     st: Niger
     stq: Niger
@@ -336,14 +336,14 @@ dv_has_:
     zea: Niher
     zgh: ⵏⵉⵊⵉⵔ
     zh: 尼日尔
-    zh-cn: 尼日尔
-    zh-hans: 尼日尔
-    zh-hant: 尼日
-    zh-hk: 尼日爾
-    zh-mo: 尼日爾
+    zh_cn: 尼日尔
+    zh_hans: 尼日尔
+    zh_hant: 尼日
+    zh_hk: 尼日爾
+    zh_mo: 尼日爾
     zh-my: 尼日尔
-    zh-sg: 尼日尔
-    zh-tw: 尼日
+    zh_sg: 尼日尔
+    zh_tw: 尼日
     zu: INayighe
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Niger

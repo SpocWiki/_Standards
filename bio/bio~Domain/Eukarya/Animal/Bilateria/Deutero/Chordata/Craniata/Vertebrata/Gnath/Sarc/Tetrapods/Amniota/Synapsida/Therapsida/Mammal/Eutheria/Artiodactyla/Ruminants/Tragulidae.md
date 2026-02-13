@@ -59,7 +59,7 @@ dv_has_:
     az: Maralçalar
     ban: Kancil
     be: Tragulidae
-    be-tarask: Аленьчыкавыя
+    be_tarask: Аленьчыкавыя
     bg: Мишевидни елени
     br: Tragulidae
     ca: Tragúlid
@@ -67,10 +67,10 @@ dv_has_:
     cs: kančilovití
     da: Dværghjorte
     de: Hirschferkel
-    de-ch: Hirschferkel
+    de_ch: Hirschferkel
     en: Tragulidae
-    en-ca: Chevrotain
-    en-gb: Chevrotain
+    en_ca: Chevrotain
+    en_gb: Chevrotain
     eo: Tragoledoj
     es: Tragulidae
     et: Hirviklased
@@ -109,7 +109,7 @@ dv_has_:
     oc: Tragulidae
     pl: Kanczylowate
     pt: Trágulo
-    pt-br: Trágulo
+    pt_br: Trágulo
     ro: Tragulide
     ru: Оленьковые
     sq: Tragulidae
@@ -128,8 +128,8 @@ dv_has_:
     war: Tragulidae
     yue: 鼷鹿科
     zh: 鼷鹿科
-    zh-cn: 鼷鹿科
-    zh-hans: 鼷鹿科
+    zh_cn: 鼷鹿科
+    zh_hans: 鼷鹿科
 ---
 ## Phylogeny 
 

@@ -214,7 +214,7 @@ dv_has_:
     ba: Ҙур шартлау
     bar: Urknoi
     be: Вялікі выбух
-    be-tarask: Вялікі выбух
+    be_tarask: Вялікі выбух
     bew: Ledugan Gedé
     bg: Теория на Големия взрив
     bho: बिग बैंग
@@ -238,8 +238,8 @@ dv_has_:
     el: Μεγάλη έκρηξη
     eml: Big Bang
     en: Big Bang
-    en-ca: Big Bang
-    en-gb: Big Bang
+    en_ca: Big Bang
+    en_gb: Big Bang
     eo: praeksplodo
     es: Big Bang
     et: Suur Pauk
@@ -279,7 +279,7 @@ dv_has_:
     kaa: U'lken partlanıw
     kbp: Big Bang
     kk: Үлкен жарылыс
-    kk-cyrl: Жойқын жарылыс
+    kk_cyrl: Жойқын жарылыс
     kn: ಮಹಾ ಸ್ಪೋಟ
     knc: Big Bang
     ko: 빅뱅
@@ -326,7 +326,7 @@ dv_has_:
     pnb: بگ بینگ
     ps: بېګ بېنګ
     pt: Big Bang
-    pt-br: Big Bang
+    pt_br: Big Bang
     qu: Hatun t'uqyay
     ro: Big Bang
     ru: Большой взрыв
@@ -347,8 +347,8 @@ dv_has_:
     sms: alggpaccmõš
     sq: Big Bang
     sr: Велики прасак
-    sr-ec: Велики прасак
-    sr-el: Veliki prasak
+    sr_ec: Велики прасак
+    sr_el: Veliki prasak
     stq: Uurknal
     su: Big Bang
     sv: stora smällen
@@ -363,8 +363,8 @@ dv_has_:
     tpi: Bigpela bang
     tr: Büyük Patlama
     tt: Зур шартлау
-    tt-cyrl: Зур шартлау
-    tt-latn: Zur şartlaw
+    tt_cyrl: Зур шартлау
+    tt_latn: Zur şartlaw
     udm: Бадӟым пуштон
     uk: Великий вибух
     ur: انفجار عظیم
@@ -379,14 +379,14 @@ dv_has_:
     yi: ביג בענג
     yue: 宇宙大爆炸
     zh: 大爆炸
-    zh-cn: 大爆炸
-    zh-hans: 大爆炸
-    zh-hant: 大爆炸
-    zh-hk: 大爆炸
-    zh-mo: 大爆炸
+    zh_cn: 大爆炸
+    zh_hans: 大爆炸
+    zh_hant: 大爆炸
+    zh_hk: 大爆炸
+    zh_mo: 大爆炸
     zh-my: 大爆炸
-    zh-sg: 大爆炸
-    zh-tw: 大爆炸
+    zh_sg: 大爆炸
+    zh_tw: 大爆炸
 ---
 # [[Big_Bang]] 
 

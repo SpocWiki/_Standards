@@ -80,7 +80,7 @@ dv_has_:
     atj: Alan Parker
     bar: Alan Parker
     be: Алан Паркер
-    be-tarask: Алан Паркер
+    be_tarask: Алан Паркер
     bg: Алън Паркър
     bn: অ্যালান পার্কার
     br: Alan Parker
@@ -93,15 +93,15 @@ dv_has_:
     da: Alan Parker
     de: Alan Parker
     de-at: Alan Parker
-    de-ch: Alan Parker
+    de_ch: Alan Parker
     dsb: Alan Parker
     ee: Alan Parker
     egl: Alan Parker
     el: Άλαν Πάρκερ
     eml: Alan Parker
     en: Alan Parker
-    en-ca: Alan Parker
-    en-gb: Alan Parker
+    en_ca: Alan Parker
+    en_gb: Alan Parker
     eo: Alan Parker
     es: Alan Parker
     et: Alan Parker
@@ -151,7 +151,7 @@ dv_has_:
     lij: Alan Parker
     lt: Alan Parker
     lv: Alans Pārkers
-    map-bms: Alan Parker
+    map_bms: Alan Parker
     mg: Alan Parker
     min: Alan Parker
     ms: Alan Parker
@@ -162,7 +162,7 @@ dv_has_:
     nap: Alan Parker
     nb: Alan Parker
     nds: Alan Parker
-    nds-nl: Alan Parker
+    nds_nl: Alan Parker
     nl: Alan Parker
     nn: Alan Parker
     nrm: Alan Parker
@@ -178,7 +178,7 @@ dv_has_:
     pl: Alan Parker
     pms: Alan Parker
     pt: Alan Parker
-    pt-br: Alan Parker
+    pt_br: Alan Parker
     qu: Alan Parker
     rm: Alan Parker
     rmy: Alan Parker
@@ -199,7 +199,7 @@ dv_has_:
     sli: Alan Parker
     sq: Alan Parker
     sr: Alan Parker
-    sr-el: Alan Parker
+    sr_el: Alan Parker
     stq: Alan Parker
     su: Alan Parker
     sv: Alan Parker
@@ -226,12 +226,12 @@ dv_has_:
     yue: 阿倫柏加
     zea: Alan Parker
     zh: 亞倫·帕克
-    zh-cn: 亚伦·帕克
-    zh-hans: 亚伦·帕克
-    zh-hant: 亞倫·帕克
-    zh-hk: 亞倫·帕克
-    zh-sg: 阿伦·柏加
-    zh-tw: 亞倫·帕克
+    zh_cn: 亚伦·帕克
+    zh_hans: 亚伦·帕克
+    zh_hant: 亞倫·帕克
+    zh_hk: 亞倫·帕克
+    zh_sg: 阿伦·柏加
+    zh_tw: 亞倫·帕克
     zu: Alan Parker
 ---
 # [[Parker,Alan]] 

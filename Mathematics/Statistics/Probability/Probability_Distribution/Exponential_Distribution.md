@@ -75,7 +75,7 @@ dv_has_:
     ar: توزيع أسي
     ast: Distribución esponencial
     be: Паказнікавае размеркаванне
-    be-tarask: паказьнікавае разьмеркаваньне
+    be_tarask: паказьнікавае разьмеркаваньне
     bn: সূচকীয় বিন্যাস
     ca: distribució exponencial
     cs: exponenciální rozdělení
@@ -102,7 +102,7 @@ dv_has_:
     nov: Exponential distributione
     pl: Rozkład wykładniczy
     pt: distribuição exponencial
-    pt-br: Distribuição Exponencial
+    pt_br: Distribuição Exponencial
     ru: экспоненциальное распределение
     sk: Exponenciálne rozdelenie
     sl: eksponentna porazdelitev
@@ -116,12 +116,12 @@ dv_has_:
     vi: Phân phối mũ
     yue: 指數分佈
     zh: 指数分布
-    zh-cn: 指数分布
-    zh-hans: 指数分布
-    zh-hant: 指數分布
-    zh-hk: 指數分佈
-    zh-sg: 指数分布
-    zh-tw: 指數分布
+    zh_cn: 指数分布
+    zh_hans: 指数分布
+    zh_hant: 指數分布
+    zh_hk: 指數分佈
+    zh_sg: 指数分布
+    zh_tw: 指數分布
 ---
 # [[Exponential_Distribution]] 
 

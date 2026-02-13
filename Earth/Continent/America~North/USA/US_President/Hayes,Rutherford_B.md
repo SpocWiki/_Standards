@@ -83,7 +83,7 @@ dv_has_:
     azb: رادرفورد بیرچارد هیز
     bcl: Rutherford B. Hayes
     be: Рэзерфард Бэрчард Хейс
-    be-tarask: Рутэрфорд Бэрчард Гэес
+    be_tarask: Рутэрфорд Бэрчард Гэес
     bg: Ръдърфорд Хейс
     bi: Rutherford B. Hayes
     bn: রাদারফোর্ড বি. হেইজ
@@ -101,13 +101,13 @@ dv_has_:
     da: Rutherford B. Hayes
     dag: Rutherford B. Hayes
     de: Rutherford B. Hayes
-    de-ch: Rutherford B. Hayes
+    de_ch: Rutherford B. Hayes
     diq: Rutherford B. Hayes
     dv: ރުތަފޯލްޑް ބިކާޑް ހޭއިސް
     el: Ράδερφορντ Χαίηζ
     en: Rutherford B. Hayes
-    en-ca: Rutherford B. Hayes
-    en-gb: Rutherford B. Hayes
+    en_ca: Rutherford B. Hayes
+    en_gb: Rutherford B. Hayes
     eo: Rutherford B. Hayes
     es: Rutherford B. Hayes
     et: Rutherford Hayes
@@ -175,7 +175,7 @@ dv_has_:
     pnb: ردرفورڈ بی ہیز
     ps: رادرفورد بیرچارد هېز
     pt: Rutherford B. Hayes
-    pt-br: Rutherford B. Hayes
+    pt_br: Rutherford B. Hayes
     rm: Rutherford Birchard Hayes
     rmf: Rutherford B. Hayes
     ro: Rutherford Birchard Hayes

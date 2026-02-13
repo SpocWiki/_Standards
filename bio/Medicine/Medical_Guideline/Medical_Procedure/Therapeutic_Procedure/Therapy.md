@@ -102,7 +102,7 @@ dv_has_:
     ar: علاج طبي
     az: Terapiya
     be: тэрапія
-    be-tarask: тэрапія
+    be_tarask: тэрапія
     bg: Терапия
     bho: इलाज
     bn: চিকিৎসা
@@ -114,7 +114,7 @@ dv_has_:
     de: Therapie
     el: θεραπεία
     en: medical treatment
-    en-gb: therapy
+    en_gb: therapy
     eo: terapio
     es: terapia
     et: ravi
@@ -138,11 +138,11 @@ dv_has_:
     ja: 治療
     kab: assesfer
     kk: Емдеу
-    kk-arab: ەمدەۋ
+    kk_arab: ەمدەۋ
     kk-cn: ەمدەۋ
-    kk-cyrl: Емдеу
+    kk_cyrl: Емдеу
     kk-kz: Емдеу
-    kk-latn: Emdew
+    kk_latn: Emdew
     kk-tr: Emdew
     kn: ಚಿಕಿತ್ಸೆ
     ko: 치료
@@ -155,7 +155,7 @@ dv_has_:
     ml: ചികിത്സ
     mn: Эмчилгээ
     ms: rawatan
-    ms-arab: راوتن
+    ms_arab: راوتن
     nb: terapi
     ne: उपचार
     nl: therapie
@@ -174,8 +174,8 @@ dv_has_:
     smn: terapia
     sms: terapia
     sr: терапија
-    sr-ec: Терапија
-    sr-el: Terapija
+    sr_ec: Терапија
+    sr_el: Terapija
     sv: terapi
     ta: மருத்துவ சிகிச்சை
     th: การบำบัด
@@ -191,12 +191,12 @@ dv_has_:
     yue: 醫治
     zgh: ⴰⵙⴰⵙⴼⵔ ⴰⵎⵙⵏⵉⵊⵊⵉ
     zh: 疗法
-    zh-cn: 疗法
-    zh-hans: 疗法
-    zh-hant: 療法
-    zh-hk: 療法
-    zh-sg: 疗法
-    zh-tw: 療法
+    zh_cn: 疗法
+    zh_hans: 疗法
+    zh_hant: 療法
+    zh_hk: 療法
+    zh_sg: 疗法
+    zh_tw: 療法
 ---
 # [[Therapy]] 
 

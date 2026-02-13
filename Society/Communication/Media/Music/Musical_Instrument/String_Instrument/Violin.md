@@ -182,7 +182,7 @@ dv_has_:
     ba: скрипка
     bdr: biula
     be: скрыпка
-    be-tarask: скрыпка
+    be_tarask: скрыпка
     bew: piul
     bg: цигулка
     bn: বেহালা
@@ -200,11 +200,11 @@ dv_has_:
     cy: ffidil
     da: violin
     de: Violine
-    de-ch: Violine
+    de_ch: Violine
     el: βιολί
     en: violin
-    en-ca: violin
-    en-gb: violin
+    en_ca: violin
+    en_gb: violin
     en-us: violin
     eo: violono
     es: violín
@@ -272,7 +272,7 @@ dv_has_:
     nan: chhiú-khîm
     nb: fiolin
     nds: Vigelien
-    nds-nl: fioul
+    nds_nl: fioul
     new: बेला
     nl: viool
     nn: fiolin
@@ -285,7 +285,7 @@ dv_has_:
     pms: Violin
     pnb: وائلن
     pt: violino
-    pt-br: violino
+    pt_br: violino
     qu: wiyulin
     rm: violina
     ro: vioară
@@ -306,8 +306,8 @@ dv_has_:
     sms: viulu
     sq: violina
     sr: виолина
-    sr-ec: виолина
-    sr-el: violina
+    sr_ec: виолина
+    sr_el: violina
     stq: Fjoole
     su: biola
     sv: fiol
@@ -337,10 +337,10 @@ dv_has_:
     yi: פידל
     yue: 小提琴
     zh: 小提琴
-    zh-cn: 小提琴
-    zh-hans: 小提琴
-    zh-hant: 小提琴
-    zh-tw: 小提琴
+    zh_cn: 小提琴
+    zh_hans: 小提琴
+    zh_hant: 小提琴
+    zh_tw: 小提琴
 ---
 # [[Violin]] 🎻 
 

@@ -119,7 +119,7 @@ dv_has_:
     ar: الكون المرصود
     ast: Universu observable
     az: Metaqalaktika
-    be-tarask: бачны сусьвет
+    be_tarask: бачны сусьвет
     bg: Наблюдаема вселена
     blk: ကလွူꩻထွာႏနွောင်ꩻဒါႏ စဲက္ကျာႏဝဠာႏ
     bn: পর্যবেক্ষণযোগ্য মহাবিশ্ব
@@ -133,8 +133,8 @@ dv_has_:
     de: beobachtbares Universum
     el: Παρατηρήσιμο σύμπαν
     en: observable universe
-    en-ca: observable universe
-    en-gb: observable universe
+    en_ca: observable universe
+    en_gb: observable universe
     eo: observebla universo
     es: universo observable
     et: Metagalaktika
@@ -177,8 +177,8 @@ dv_has_:
     sl: opazljivo vesolje
     sq: Universi i vëzhgueshëm
     sr: видљиви универзум
-    sr-ec: видљиви универзум
-    sr-el: vidljivi univerzum
+    sr_ec: видљиви универзум
+    sr_el: vidljivi univerzum
     stq: Beooboachtboar Al
     sv: observerbara universum
     ta: காட்சிக்குட்பட்ட பேரண்டம்
@@ -191,12 +191,12 @@ dv_has_:
     vi: vũ trụ quan sát được
     yue: 可觀測宇宙
     zh: 可觀測宇宙
-    zh-cn: 可观测宇宙
-    zh-hans: 可观测宇宙
-    zh-hant: 可觀測宇宙
-    zh-hk: 可觀測宇宙
-    zh-sg: 可观测宇宙
-    zh-tw: 可觀測宇宙
+    zh_cn: 可观测宇宙
+    zh_hans: 可观测宇宙
+    zh_hant: 可觀測宇宙
+    zh_hk: 可觀測宇宙
+    zh_sg: 可观测宇宙
+    zh_tw: 可觀測宇宙
 ---
 # [[Observable_Universe]] 
 

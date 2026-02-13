@@ -138,7 +138,7 @@ dv_has_:
     azb: ژان-پل بلموندو
     ba: Жан-Поль Бельмондо
     be: Жан-Поль Бельмандо
-    be-tarask: Жан-Поль Бэльмандо
+    be_tarask: Жан-Поль Бэльмандо
     bg: Жан-Пол Белмондо
     cs: Jean Belmondo
     el: Ζαν Πολ Μπελμοντό
@@ -162,7 +162,7 @@ dv_has_:
     mn: Жан-Поль Бельмондо
     mul: Jean-Paul Belmondo
     nds: Jean-Paul Belmondo
-    nds-nl: Jean-Paul Belmondo
+    nds_nl: Jean-Paul Belmondo
     nl: Jean-Paul Belmondo
     nn: Jean-Paul Belmondo
     nrm: Jean-Paul Belmondo
@@ -174,7 +174,7 @@ dv_has_:
     pms: Jean-Paul Belmondo
     prg: Jean-Paul Belmondo
     pt: Jean-Paul Belmondo
-    pt-br: Jean-Paul Belmondo
+    pt_br: Jean-Paul Belmondo
     qu: Jean-Paul Belmondo
     rgn: Jean-Paul Belmondo
     rm: Jean-Paul Belmondo
@@ -191,7 +191,7 @@ dv_has_:
     sl: Jean-Paul Belmondo
     sq: Jean-Paul Belmondo
     sr: Жан-Пол Белмондо
-    sr-el: Žan-Pol Belmondo
+    sr_el: Žan-Pol Belmondo
     sv: Jean-Paul Belmondo
     sw: Jean-Paul Belmondo
     ta: ஜீன்-பால் பெல்மொண்டோ
@@ -212,10 +212,10 @@ dv_has_:
     xmf: ჟან-პოლ ბელმონდო
     yue: 尚保羅貝蒙多
     zh: 让-保罗·贝尔蒙多
-    zh-hant: 尚保羅貝蒙多
+    zh_hant: 尚保羅貝蒙多
     zh-my: 尚-保罗·贝蒙多
-    zh-sg: 尚-保罗·贝蒙多
-    zh-tw: 楊波·貝蒙
+    zh_sg: 尚-保罗·贝蒙多
+    zh_tw: 楊波·貝蒙
     zu: Jean-Paul Belmondo
 ---
 # [[Belmondo,Jean-Paul]] 

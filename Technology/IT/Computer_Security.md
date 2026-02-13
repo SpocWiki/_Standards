@@ -140,7 +140,7 @@ dv_has_:
     ast: Seguridá informática
     az: Kompüter təhlükəsizliyi
     be: Кібербяспека
-    be-tarask: кампутарная бясьпека
+    be_tarask: кампутарная бясьпека
     bg: Компютърна сигурност
     bn: কম্পিউটার নিরাপত্তা
     bs: Sigurnost računara
@@ -194,7 +194,7 @@ dv_has_:
     pl: bezpieczeństwo teleinformatyczne
     ps: د کمپيوټر امنيت
     pt: segurança de computadores
-    pt-br: segurança de computadores
+    pt_br: segurança de computadores
     ro: securitate informatică
     ru: компьютерная безопасность
     sh: Računarska sigurnost
@@ -217,8 +217,8 @@ dv_has_:
     wuu: 计算机安全
     yue: 電腦保安
     zh: 计算机安全
-    zh-hant: 計算機安全
-    zh-tw: 電腦安全
+    zh_hant: 計算機安全
+    zh_tw: 電腦安全
     zu: Ukuphepha kwesicikizi
 ---
 # [[Computer_Security]] 

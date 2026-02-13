@@ -98,7 +98,7 @@ dv_has_:
     az: Totalitarizm
     azb: توتالیتاریزیم
     be: таталітарызм
-    be-tarask: таталітарызм
+    be_tarask: таталітарызм
     bg: Тоталитаризъм
     bn: একচ্ছত্রবাদ
     br: Hollveliouriezh
@@ -137,11 +137,11 @@ dv_has_:
     ja: 全体主義
     ka: ტოტალიტარიზმი
     kk: Тоталитаризм
-    kk-arab: توتالىيتارىيزم
+    kk_arab: توتالىيتارىيزم
     kk-cn: توتالىيتارىيزم
-    kk-cyrl: Тоталитаризм
+    kk_cyrl: Тоталитаризм
     kk-kz: Тоталитаризм
-    kk-latn: Totalïtarïzm
+    kk_latn: Totalïtarïzm
     kk-tr: Totalïtarïzm
     ko: 전체주의
     kv: Тоталитаризм
@@ -179,8 +179,8 @@ dv_has_:
     sms: totalitarismm
     sq: Totalitarizmi
     sr: тоталитаризам
-    sr-ec: Тоталитаризам
-    sr-el: Totalitarizam
+    sr_ec: Тоталитаризам
+    sr_el: Totalitarizam
     sv: totalitarism
     szl: Totalitarysm
     tg: тамомиятхоҳӣ
@@ -197,12 +197,12 @@ dv_has_:
     xmf: ტოტალიტარიზმი
     yue: 極權
     zh: 極權主義
-    zh-cn: 极权主义
-    zh-hans: 极权主义
-    zh-hant: 極權主義
-    zh-hk: 極權主義
-    zh-sg: 极权主义
-    zh-tw: 極權主義
+    zh_cn: 极权主义
+    zh_hans: 极权主义
+    zh_hant: 極權主義
+    zh_hk: 極權主義
+    zh_sg: 极权主义
+    zh_tw: 極權主義
 ---
 # [[Totalitarianism]] 
 

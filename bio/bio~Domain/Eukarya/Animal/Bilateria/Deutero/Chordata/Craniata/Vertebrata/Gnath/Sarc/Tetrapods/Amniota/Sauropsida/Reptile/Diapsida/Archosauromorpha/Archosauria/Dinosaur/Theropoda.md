@@ -106,12 +106,12 @@ dv_has_:
     war: Theropoda
     yue: 獸腳亞目
     zh: 獸腳亞目
-    zh-cn: 兽脚亚目
-    zh-hans: 兽脚亚目
-    zh-hant: 獸腳亞目
-    zh-hk: 獸腳亞目
-    zh-sg: 兽脚亚目
-    zh-tw: 獸腳亞目
+    zh_cn: 兽脚亚目
+    zh_hans: 兽脚亚目
+    zh_hant: 獸腳亞目
+    zh_hk: 獸腳亞目
+    zh_sg: 兽脚亚目
+    zh_tw: 獸腳亞目
 ---
 # [[Theropoda]] 
 

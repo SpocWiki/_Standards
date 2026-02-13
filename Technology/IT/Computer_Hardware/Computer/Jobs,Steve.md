@@ -194,7 +194,7 @@ dv_has_:
     bar: Steve Jobs
     bcl: Steve Jobs
     be: Стыў Джобс
-    be-tarask: Стыў Джобс
+    be_tarask: Стыў Джобс
     bg: Стив Джобс
     bi: Steve Jobs
     bjn: Steve Jobs
@@ -214,8 +214,8 @@ dv_has_:
     dsb: Steve Jobs
     el: Στιβ Τζομπς
     en: Steve Jobs
-    en-ca: Steve Jobs
-    en-gb: Steve Jobs
+    en_ca: Steve Jobs
+    en_gb: Steve Jobs
     en-us: Steve Jobs
     eo: Steve Jobs
     es: Steve Jobs
@@ -278,7 +278,7 @@ dv_has_:
     lv: Stīvs Džobss
     lzh: 喬布斯
     mai: स्टिभ जब्स
-    map-bms: Steve Jobs
+    map_bms: Steve Jobs
     mg: Steve Jobs
     mk: Стив Џобс
     ml: സ്റ്റീവ് ജോബ്സ്
@@ -309,7 +309,7 @@ dv_has_:
     pnb: سٹیو جابز
     ps: سټيف جوبز
     pt: Steve Jobs
-    pt-br: Steve Jobs
+    pt_br: Steve Jobs
     qu: Steve Jobs
     ro: Steve Jobs
     ru: Стив Джобс
@@ -329,7 +329,7 @@ dv_has_:
     sl: Steve Jobs
     sq: Steve Jobs
     sr: Стив Џобс
-    sr-ec: Стив Џобс
+    sr_ec: Стив Џобс
     su: Steve Jobs
     sv: Steve Jobs
     sw: Steve Jobs
@@ -359,11 +359,11 @@ dv_has_:
     yo: Steve Jobs
     yue: 喬布斯
     zh: 史提夫·喬布斯
-    zh-cn: 史蒂夫·乔布斯
-    zh-hans: 史蒂夫·乔布斯
-    zh-hant: 史提夫·喬布斯
-    zh-hk: 史提夫·喬布斯
-    zh-tw: 史蒂夫·賈伯斯
+    zh_cn: 史蒂夫·乔布斯
+    zh_hans: 史蒂夫·乔布斯
+    zh_hant: 史提夫·喬布斯
+    zh_hk: 史提夫·喬布斯
+    zh_tw: 史蒂夫·賈伯斯
 ---
 # [[Jobs,Steve]] 
 

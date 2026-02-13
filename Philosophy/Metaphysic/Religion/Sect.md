@@ -8,7 +8,7 @@ dv_has_:
     ast: Secta
     az: sekta
     be: секта
-    be-tarask: сэкта
+    be_tarask: сэкта
     bg: Секта
     bn: ফেরকা
     br: Ranngredenn
@@ -21,7 +21,7 @@ dv_has_:
     dv: މަޒުހަބު
     el: Σέκτα
     en: sect
-    en-gb: sect
+    en_gb: sect
     eo: sekto
     es: secta
     et: Sekt
@@ -47,7 +47,7 @@ dv_has_:
     kk: Секта
     ko: 종파
     ku: taqim
-    ku-latn: taqim
+    ku_latn: taqim
     ky: диний секта
     la: Cultus
     lb: Sekt
@@ -57,7 +57,7 @@ dv_has_:
     mk: секта
     mo: Sectă
     ms: taifah
-    ms-arab: طائفة
+    ms_arab: طائفة
     nb: sekt
     nl: sekte
     nn: Sekt
@@ -84,8 +84,8 @@ dv_has_:
     wuu: 派系
     yue: 派
     zh: 派系
-    zh-hans: 派系
-    zh-hant: 派系
+    zh_hans: 派系
+    zh_hant: 派系
 aliases:
 - Cultus
 - dariƙa

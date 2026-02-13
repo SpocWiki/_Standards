@@ -135,7 +135,7 @@ dv_has_:
     az: İlandaşıyan
     ba: Змееносец
     be: Змеяносец
-    be-tarask: Зьмеядзержнік
+    be_tarask: Зьмеядзержнік
     bg: Змиеносец
     bn: সর্পধারী মণ্ডল
     bo: སྦྲུལ་འཛིན་སྐར་ཚོམ་
@@ -200,7 +200,7 @@ dv_has_:
     pcd: Ofiukousse
     pl: Gwiazdozbiór Wężownika
     pt: Ophiuchus
-    pt-br: Serpentário
+    pt_br: Serpentário
     ro: Ophiuchus
     ru: Змееносец
     sah: Үөнү Сүгээччи

@@ -123,7 +123,7 @@ dv_has_:
     bar: Usain Bolt
     bcl: Usain Bolt
     be: Усэйн Болт
-    be-tarask: Усэйн Болт
+    be_tarask: Усэйн Болт
     bg: Юсейн Болт
     bn: উসেইন বোল্ট
     br: Usain Bolt
@@ -136,13 +136,13 @@ dv_has_:
     da: Usain Bolt
     de: Usain Bolt
     de-at: Usain Bolt
-    de-ch: Usain Bolt
+    de_ch: Usain Bolt
     diq: Usain Bolt
     dtp: Usain Bolt
     el: Γιουσέιν Μπολτ
     en: Usain Bolt
-    en-ca: Usain Bolt
-    en-gb: Usain Bolt
+    en_ca: Usain Bolt
+    en_gb: Usain Bolt
     eo: Usain Bolt
     es: Usain Bolt
     et: Usain Bolt
@@ -206,7 +206,7 @@ dv_has_:
     nap: Usain Bolt
     nb: Usain Bolt
     nds: Usain Bolt
-    nds-nl: Usain Bolt
+    nds_nl: Usain Bolt
     ne: युसेन बोल्ट
     nl: Usain Bolt
     nn: Usain Bolt
@@ -221,7 +221,7 @@ dv_has_:
     pms: Usain Bolt
     pnb: اسین بولٹ
     pt: Usain Bolt
-    pt-br: Usain Bolt
+    pt_br: Usain Bolt
     qu: Usain Bolt
     rm: Usain Bolt
     ro: Usain Bolt
@@ -237,7 +237,7 @@ dv_has_:
     sl: Usain Bolt
     sq: Usain Bolt
     sr: Јусејн Болт
-    sr-el: Usain Bolt
+    sr_el: Usain Bolt
     sv: Usain Bolt
     sw: Usain Bolt
     szl: Usain Bolt
@@ -260,14 +260,14 @@ dv_has_:
     yue: 保特
     zea: Usain Bolt
     zh: 尤塞恩·博尔特
-    zh-cn: 尤塞恩·博尔特
-    zh-hans: 尤塞恩·博尔特
-    zh-hant: 尤塞恩·保特
-    zh-hk: 尤塞恩·保特
-    zh-mo: 尤塞恩·保特
+    zh_cn: 尤塞恩·博尔特
+    zh_hans: 尤塞恩·博尔特
+    zh_hant: 尤塞恩·保特
+    zh_hk: 尤塞恩·保特
+    zh_mo: 尤塞恩·保特
     zh-my: 尤塞恩·博尔特
-    zh-sg: 尤塞恩·博尔特
-    zh-tw: 尤塞恩·博爾特
+    zh_sg: 尤塞恩·博尔特
+    zh_tw: 尤塞恩·博爾特
     zu: Usain Bolt
 ---
 # [[Usain_Bolt]] 

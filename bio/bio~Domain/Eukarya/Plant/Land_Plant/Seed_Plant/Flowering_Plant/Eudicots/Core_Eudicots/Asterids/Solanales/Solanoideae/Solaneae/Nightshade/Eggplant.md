@@ -259,7 +259,7 @@ dv_has_:
     ban: Tuung
     bcl: Talong
     be: Баклажан
-    be-tarask: баклажан
+    be_tarask: баклажан
     bg: патладжан
     bho: बैगन
     bi: Obesin
@@ -280,13 +280,13 @@ dv_has_:
     dag: Kamli
     de: Aubergine
     de-at: Melanzani
-    de-ch: Aubergine
+    de_ch: Aubergine
     dga: Bɔlɔ
     dsb: Oberžina
     dv: ބަށި
     el: Μελιτζάνα
-    en-ca: Eggplant
-    en-gb: aubergine
+    en_ca: Eggplant
+    en_gb: aubergine
     eo: melongeno
     es: berenjena
     et: Baklažaan
@@ -301,7 +301,7 @@ dv_has_:
     gl: Berenxena
     gom: Vaingim
     gom-deva: वायंगें
-    gom-latn: Vaingim
+    gom_latn: Vaingim
     gor: Ihu
     got: "\U00010330\U00010333\U00010333\U0001033E\U00010330\U0001033A\U00010342\U00010330\U0001033D"
     gu: રીંગણ
@@ -373,7 +373,7 @@ dv_has_:
     pnt: μαντζάνα
     ps: بانجان
     pt: beringela
-    pt-br: berinjela
+    pt_br: berinjela
     ro: vânătă
     ru: баклажан
     rup: Vinitâ
@@ -403,7 +403,7 @@ dv_has_:
     to: Paingani
     tr: Patlıcan
     tt: битенгән
-    tt-cyrl: битенгән
+    tt_cyrl: битенгән
     ug: Çeyze
     uk: баклажан
     ur: بینگن
@@ -418,10 +418,10 @@ dv_has_:
     yue: 矮瓜
     za: lwggwz
     zh: 茄
-    zh-cn: 茄
-    zh-hans: 茄
-    zh-hant: 茄
-    zh-tw: 茄
+    zh_cn: 茄
+    zh_hans: 茄
+    zh_hant: 茄
+    zh_tw: 茄
 ---
 # [[Eggplant]] 🍆 
 

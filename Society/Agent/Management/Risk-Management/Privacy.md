@@ -116,7 +116,7 @@ dv_has_:
     az: Gizlilik
     ban: Indik sané pribadi
     be: прыватнасць
-    be-tarask: прыватнасьць
+    be_tarask: прыватнасьць
     bg: Уединение
     bn: গোপনীয়তা
     ca: privadesa
@@ -149,11 +149,11 @@ dv_has_:
     it: privacy
     ja: プライバシー
     kk: Приваттылық
-    kk-arab: پرىيۆاتتىلىق
+    kk_arab: پرىيۆاتتىلىق
     kk-cn: پرىيۆاتتىلىق
-    kk-cyrl: Приваттылық
+    kk_cyrl: Приваттылық
     kk-kz: Приваттылық
-    kk-latn: Prïvattılıq
+    kk_latn: Prïvattılıq
     kk-tr: Prïvattılıq
     ko: 프라이버시
     ku: Qada taybet
@@ -196,12 +196,12 @@ dv_has_:
     yi: פריוואטקייט
     yue: 私隱
     zh: 隐私权
-    zh-cn: 隐私权
-    zh-hans: 隐私权
-    zh-hant: 隱私權
-    zh-hk: 私隱權
-    zh-sg: 隐私权
-    zh-tw: 隱私權
+    zh_cn: 隐私权
+    zh_hans: 隐私权
+    zh_hant: 隱私權
+    zh_hk: 私隱權
+    zh_sg: 隐私权
+    zh_tw: 隱私權
 ---
 # [[Privacy]] 
 

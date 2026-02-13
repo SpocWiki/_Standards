@@ -145,7 +145,7 @@ dv_has_:
     azb: سونسوز
     ba: Сикһеҙлек
     be: Бясконцасць
-    be-tarask: бясконцасьць
+    be_tarask: бясконцасьць
     bg: Безкрайност
     bho: अनंत
     bjn: Infinity
@@ -162,8 +162,8 @@ dv_has_:
     de: unendlich
     el: άπειρο
     en: infinity
-    en-ca: Infinity
-    en-gb: infinity
+    en_ca: Infinity
+    en_gb: infinity
     eo: senfineco
     es: infinito
     et: iõpmatus
@@ -226,7 +226,7 @@ dv_has_:
     pms: Infinì
     pnb: انانتی
     pt: infinito
-    pt-br: infinito
+    pt_br: infinito
     ro: Infinit
     ru: бесконечность
     rue: Бесконечность
@@ -248,7 +248,7 @@ dv_has_:
     ta: முடிவிலி
     te: అనంతం
     tg: Беинтиҳоӣ
-    tg-cyrl: беинтиҳоӣ
+    tg_cyrl: беинтиҳоӣ
     th: อนันต์
     tl: Kawalang hangganan
     tok: pini ala
@@ -266,9 +266,9 @@ dv_has_:
     yi: אומענדלעכקייט
     yue: 冇窮盡
     zh: 無窮
-    zh-hans: 无穷
-    zh-hant: 無窮
-    zh-tw: 無窮
+    zh_hans: 无穷
+    zh_hant: 無窮
+    zh_tw: 無窮
 ---
 # [[Infinity]] 
 

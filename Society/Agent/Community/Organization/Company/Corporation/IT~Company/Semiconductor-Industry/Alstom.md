@@ -50,12 +50,12 @@ dv_has_:
     vi: Alstom
     wuu: 阿尔斯通
     zh: 阿尔斯通公司
-    zh-cn: 阿尔斯通公司
-    zh-hans: 阿尔斯通公司
-    zh-hant: 阿爾斯通公司
-    zh-hk: 阿爾斯通公司
-    zh-sg: 阿尔斯通公司
-    zh-tw: 阿爾斯通公司
+    zh_cn: 阿尔斯通公司
+    zh_hans: 阿尔斯通公司
+    zh_hant: 阿爾斯通公司
+    zh_hk: 阿爾斯通公司
+    zh_sg: 阿尔斯通公司
+    zh_tw: 阿爾斯通公司
 aliases:
 - Alstom
 - Aлстом

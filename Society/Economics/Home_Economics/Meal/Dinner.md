@@ -95,7 +95,7 @@ dv_has_:
     bar: Dinner
     bcl: Pamanggi
     be: вячэра
-    be-tarask: абед
+    be_tarask: абед
     bg: Обяд
     bn: নৈশভোজ
     ca: àpat principal
@@ -108,8 +108,8 @@ dv_has_:
     de: Dinner
     el: Δείπνο
     en: dinner
-    en-ca: Dinner
-    en-gb: dinner
+    en_ca: Dinner
+    en_gb: dinner
     eo: vespermanĝo
     es: comida
     eu: afari
@@ -146,7 +146,7 @@ dv_has_:
     pa: ਡਿਨਰ
     pl: obiad
     pt: jantar
-    pt-br: Ceia
+    pt_br: Ceia
     ru: обед
     sah: Күнүскү аһылык
     sgs: Pėitā
@@ -169,9 +169,9 @@ dv_has_:
     yi: מיטאג
     yue: 大餐
     zh: 主餐
-    zh-cn: 正餐
-    zh-hans: 主餐
-    zh-hant: 主餐
+    zh_cn: 正餐
+    zh_hans: 主餐
+    zh_hant: 主餐
 ---
 # [[Dinner]] 
 

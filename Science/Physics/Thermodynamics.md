@@ -135,7 +135,7 @@ dv_has_:
     bar: Thermodynamik
     bcl: termodinamika
     be: тэрмадынаміка
-    be-tarask: тэрмадынаміка
+    be_tarask: тэрмадынаміка
     bg: термодинамика
     bn: তাপগতিবিজ্ঞান
     bs: termodinamika
@@ -186,7 +186,7 @@ dv_has_:
     ko: 열역학
     ko-kp: 열력학
     ku: termodînamîk
-    ku-latn: termodînamîk
+    ku_latn: termodînamîk
     kw: thermodynamek
     ky: термодинамика
     la: thermodynamica
@@ -216,7 +216,7 @@ dv_has_:
     pnb: تھرموڈائینامکس
     ps: ترمودینامیک
     pt: termodinâmica
-    pt-br: termodinâmica
+    pt_br: termodinâmica
     rki: သာမိုဒိုင်းနမစ်
     ro: termodinamică
     ru: термодинамика
@@ -237,7 +237,7 @@ dv_has_:
     sms: termodynamikk
     sq: termodinamika
     sr: термодинамика
-    sr-ec: термодинамика
+    sr_ec: термодинамика
     sv: termodynamik
     sw: mwendojoto
     ta: வெப்ப இயக்கவியல்
@@ -262,9 +262,9 @@ dv_has_:
     yue: 熱力學
     zgh: ⵜⴰⵣⵖⵍⵎⵓⵙⵙⵓⵜ
     zh: 热力学
-    zh-cn: 热力学
-    zh-hans: 热力学
-    zh-hant: 熱力學
+    zh_cn: 热力学
+    zh_hans: 热力学
+    zh_hant: 熱力學
 ---
 # [[Thermodynamics]] 
 

@@ -122,7 +122,7 @@ dv_has_:
     az: meydan
     ba: ҡала майҙаны
     be: плошча
-    be-tarask: пляц
+    be_tarask: пляц
     bg: площад
     bn: চত্বর
     br: leurgêr
@@ -134,12 +134,12 @@ dv_has_:
     cy: sgwâr
     da: torv
     de: Platz
-    de-ch: Platz
+    de_ch: Platz
     dsb: naměstno
     el: πλατεία
     en: square
-    en-ca: town square
-    en-gb: square
+    en_ca: town square
+    en_gb: square
     eo: placo
     es: plaza
     et: väljak
@@ -166,7 +166,7 @@ dv_has_:
     kk: алаң
     ko: 광장
     ks: مُرَبَع
-    ku-latn: qad
+    ku_latn: qad
     kv: изэрд
     kw: plen
     la: forum
@@ -190,7 +190,7 @@ dv_has_:
     os: фæз
     pl: plac
     pt: praça
-    pt-br: praça
+    pt_br: praça
     ro: piață urbană
     ru: площадь
     scn: chiazza
@@ -202,8 +202,8 @@ dv_has_:
     sms: torr
     sq: shesh
     sr: трг
-    sr-ec: трг
-    sr-el: trg
+    sr_ec: трг
+    sr_el: trg
     sv: torg
     th: จัตุรัสของเมือง
     tl: plaza
@@ -219,12 +219,12 @@ dv_has_:
     wuu: 城市广场
     yue: 廣場
     zh: 廣場
-    zh-cn: 广场
-    zh-hans: 广场
-    zh-hant: 廣場
-    zh-hk: 廣場
-    zh-sg: 广场
-    zh-tw: 廣場
+    zh_cn: 广场
+    zh_hans: 广场
+    zh_hant: 廣場
+    zh_hk: 廣場
+    zh_sg: 广场
+    zh_tw: 廣場
 ---
 # [[Town_Square]] 
 

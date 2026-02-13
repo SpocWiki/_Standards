@@ -313,7 +313,7 @@ dv_has_:
     az: Pol Sezann
     ba: Поль Сезанн
     be: Поль Сезан
-    be-tarask: Поль Сэзан
+    be_tarask: Поль Сэзан
     bg: Пол Сезан
     bn: পল সেজান
     br: Paul Cézanne
@@ -328,8 +328,8 @@ dv_has_:
     diq: Paul Cézanne
     el: Πωλ Σεζάν
     en: Paul Cézanne
-    en-ca: Paul Cézanne
-    en-gb: Paul Cézanne
+    en_ca: Paul Cézanne
+    en_gb: Paul Cézanne
     eo: Paul Cézanne
     es: Paul Cézanne
     et: Paul Cézanne
@@ -392,7 +392,7 @@ dv_has_:
     pms: Paul Cézanne
     pnb: پال سیزان
     pt: Paul Cézanne
-    pt-br: Paul Cézanne
+    pt_br: Paul Cézanne
     qu: Paul Cézanne
     ro: Paul Cézanne
     ru: Поль Сезанн
@@ -403,7 +403,7 @@ dv_has_:
     sl: Paul Cézanne
     sq: Paul Cézanne
     sr: Пол Сезан
-    sr-ec: Пол Сезан
+    sr_ec: Пол Сезан
     stq: Paul Cézanne
     sv: Paul Cézanne
     ta: பால் செசான்
@@ -421,8 +421,8 @@ dv_has_:
     xmf: პოლ სეზანი
     yue: 保羅塞尚
     zh: 保罗·塞尚
-    zh-cn: 保罗·塞尚
-    zh-hk: 保羅·施傘
+    zh_cn: 保罗·塞尚
+    zh_hk: 保羅·施傘
 ---
 # [[Cézanne,Paul]] 
 

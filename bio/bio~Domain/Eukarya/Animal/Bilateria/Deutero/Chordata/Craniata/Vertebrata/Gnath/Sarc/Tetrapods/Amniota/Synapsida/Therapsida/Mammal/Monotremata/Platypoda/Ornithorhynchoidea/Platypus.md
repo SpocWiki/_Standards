@@ -195,7 +195,7 @@ dv_has_:
     ban: Platypus
     bcl: Platypus
     be: качканос
-    be-tarask: качканос
+    be_tarask: качканос
     bg: птицечовка
     bn: প্লাটিপাস
     bo: སྲམ་ངང་མཆུ་ཅན།
@@ -213,8 +213,8 @@ dv_has_:
     de: Schnabeltier
     el: Πλατύποδας
     en: platypus
-    en-ca: Platypus
-    en-gb: platypus
+    en_ca: Platypus
+    en_gb: platypus
     eo: Ornitorinko
     es: Ornithorhynchus anatinus
     es-419: ornitorrinchus
@@ -266,7 +266,7 @@ dv_has_:
     pl: Dziobak australijski
     pnb: پلے ٹیپس
     pt: Ornitorrinco
-    pt-br: Ornitorrinco
+    pt_br: Ornitorrinco
     qu: P'alltachaki
     ro: Ornitorinc
     ru: утконос
@@ -298,9 +298,9 @@ dv_has_:
     wuu: 鸭嘴兽
     yue: 鴨嘴獸
     zh: 鸭嘴兽
-    zh-cn: 鸭嘴兽
-    zh-hant: 鴨嘴獸
-    zh-tw: 鴨嘴獸
+    zh_cn: 鸭嘴兽
+    zh_hant: 鴨嘴獸
+    zh_tw: 鴨嘴獸
 ---
 # [[Platypus]] 
 

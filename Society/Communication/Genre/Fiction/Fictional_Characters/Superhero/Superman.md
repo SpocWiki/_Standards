@@ -342,7 +342,7 @@ dv_has_:
     bar: Superman
     bcl: Superman
     be: krypto the runt
-    be-tarask: Супэрмэн
+    be_tarask: Супэрмэн
     bew: Superman
     bg: Супермен
     bn: সুপারম্যান
@@ -359,8 +359,8 @@ dv_has_:
     diq: Superman
     el: Σούπερμαν
     en: Superman
-    en-ca: Superman
-    en-gb: Superman
+    en_ca: Superman
+    en_gb: Superman
     en-us: Superman
     eo: Superman
     es: Superman
@@ -412,7 +412,7 @@ dv_has_:
     pl: Superman
     pms: Superman
     pt: Superman
-    pt-br: Superman
+    pt_br: Superman
     ro: Superman
     ru: Супермен
     sc: Superman
@@ -431,7 +431,7 @@ dv_has_:
     tl: Superman
     tr: Superman
     tt: Супермен
-    tt-cyrl: Супермен
+    tt_cyrl: Супермен
     uk: Супермен
     ur: سپر مین
     uz: Superman
@@ -443,7 +443,7 @@ dv_has_:
     yue: 超人
     zgh: ⵙⵓⴱⴱⵉⵔⵎⴰⵏ
     zh: 超人
-    zh-hant: 超人
+    zh_hant: 超人
 ---
 # [[Superman]] 
 

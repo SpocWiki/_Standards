@@ -78,7 +78,7 @@ dv_has_:
     ar: لسانيات مقارنة
     az: Müqayisəli dilçilik
     be: параўнальнае мовазнаўства
-    be-tarask: параўнальнае мовазнаўства
+    be_tarask: параўнальнае мовазнаўства
     bg: сравнителна лингвистика
     bn: তুলনামূলক ভাষাবিজ্ঞান
     ca: lingüística comparativa
@@ -115,7 +115,7 @@ dv_has_:
     ml: താരതമ്യ ഭാഷാശാസ്ത്രപഠനം
     mr: तौलनिक भाषाशास्त्र
     ms: linguistik perbandingan
-    ms-arab: ليڠݢوءيستيک ڤربنديڠن
+    ms_arab: ليڠݢوءيستيک ڤربنديڠن
     nb: komparativ lingvistikk
     nl: vergelijkende taalkunde
     pa: ਤੁਲਨਾਤਮਕ ਭਾਸ਼ਾ ਵਿਗਿਆਨ
@@ -137,7 +137,7 @@ dv_has_:
     vec: lenguìstega conparativa
     yue: 比較語言學
     zh: 比较语言学
-    zh-hant: 比較語言學
+    zh_hant: 比較語言學
 ---
 # [[Comparative_Linguistics]] 
 

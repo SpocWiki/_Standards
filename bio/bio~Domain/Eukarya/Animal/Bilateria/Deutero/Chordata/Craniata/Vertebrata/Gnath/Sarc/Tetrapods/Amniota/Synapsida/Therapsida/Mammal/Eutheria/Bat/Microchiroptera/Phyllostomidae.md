@@ -99,7 +99,7 @@ dv_has_:
     pl: liścionosowate
     pnb: پتہ نک چمگادڑ
     pt: Phyllostomidae
-    pt-br: Phyllostomidae
+    pt_br: Phyllostomidae
     ro: Phyllostomidae
     ru: листоносые
     sl: listonosi netopirji
@@ -111,9 +111,9 @@ dv_has_:
     vo: Phyllostomidae
     war: Phyllostomidae
     zh: 叶口蝠科
-    zh-cn: 叶口蝠科
-    zh-hans: 叶口蝠科
-    zh-tw: 葉口蝠科
+    zh_cn: 叶口蝠科
+    zh_hans: 叶口蝠科
+    zh_tw: 葉口蝠科
 ---
 # [[Phyllostomidae]] 
 

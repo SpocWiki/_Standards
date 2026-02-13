@@ -329,7 +329,7 @@ dv_is_:
 dv_has_:
   name_:
     ace: Sahara Barat
-    aeb-arab: الصحرا الغربية
+    aeb_arab: الصحرا الغربية
     af: Wes-Sahara
     am: ምዕራባዊ ሣህራ
     ami: West sahara
@@ -348,7 +348,7 @@ dv_has_:
     bar: Westsahara
     bcl: Sulnupan na Sahara
     be: Заходняя Сахара
-    be-tarask: Заходняя Сахара
+    be_tarask: Заходняя Сахара
     bg: Западна Сахара
     bho: पच्छिमी सहारा
     bn: পশ্চিম সাহারা
@@ -362,13 +362,13 @@ dv_has_:
     ckb: سەحرای ڕۆژاوا
     co: Sahara Occidentale
     crh: Ğarbiy Sahara
-    crh-latn: Ğarbiy Sahara
+    crh_latn: Ğarbiy Sahara
     cs: Západní Sahara
     csb: Zôpadnô Sahara
     cy: Gorllewin Sahara
     da: Vestsahara
     de: Westsahara
-    de-ch: Westsahara
+    de_ch: Westsahara
     diq: Sehraya Rocawani
     dsb: Pódwjacorna Sahara
     dty: पश्चिमी सहारा
@@ -376,8 +376,8 @@ dv_has_:
     ee: Yetoɖoƒe Sahara
     el: Δυτική Σαχάρα
     en: Western Sahara
-    en-ca: Western Sahara
-    en-gb: Western Sahara
+    en_ca: Western Sahara
+    en_gb: Western Sahara
     en-us: Western Sahara
     eo: Okcidenta Saharo
     es: Sahara Occidental
@@ -470,7 +470,7 @@ dv_has_:
     pnb: لہندا صحرا
     ps: لوېديځه سحارا
     pt: Sara Ocidental
-    pt-br: Saara Ocidental
+    pt_br: Saara Ocidental
     qu: Kunti Sahara
     ro: Sahara Occidentală
     ru: Западная Сахара
@@ -488,7 +488,7 @@ dv_has_:
     sl: Zahodna Sahara
     sq: Sahara Perëndimore
     sr: Западна Сахара
-    sr-ec: Западна Сахара
+    sr_ec: Западна Сахара
     st: Western Sahara
     su: Sahara Kulon
     sv: Västsahara
@@ -522,8 +522,8 @@ dv_has_:
     zea: Westelijke Sahara
     zgh: ⵜⴰⵏⵣⵔⵓⴼⵜ ⵜⵓⵜⵔⵉⵎⵜ
     zh: 西撒哈拉
-    zh-hans: 西撒哈拉
-    zh-hant: 西撒哈拉
+    zh_hans: 西撒哈拉
+    zh_hant: 西撒哈拉
     zu: ISahara lasentshonalanga
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Western_Sahara

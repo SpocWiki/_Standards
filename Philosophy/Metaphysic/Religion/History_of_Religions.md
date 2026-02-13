@@ -72,7 +72,7 @@ dv_has_:
     ast: Historia de les relixones
     az: Dinlər tarixi
     be: гісторыя рэлігіі
-    be-tarask: гісторыя рэлігіі
+    be_tarask: гісторыя рэлігіі
     bn: ধর্মের ইতিহাস
     ca: història de les religions
     ckb: مێژووی دینەکان
@@ -117,8 +117,8 @@ dv_has_:
     sl: zgodovina religij
     sq: Historia e fesë
     sr: историја религија
-    sr-ec: историја религија
-    sr-el: istorija religija
+    sr_ec: историја религија
+    sr_el: istorija religija
     sv: religionshistoria
     tg: таърихи дин
     tr: dinler tarihi
@@ -127,8 +127,8 @@ dv_has_:
     ur: تاریخ مذاہب
     vi: lịch sử tôn giáo
     zh: 宗教史
-    zh-hant: 宗教史
-    zh-tw: 宗教史
+    zh_hant: 宗教史
+    zh_tw: 宗教史
 ---
 # [[History_of_Religions]] 
 

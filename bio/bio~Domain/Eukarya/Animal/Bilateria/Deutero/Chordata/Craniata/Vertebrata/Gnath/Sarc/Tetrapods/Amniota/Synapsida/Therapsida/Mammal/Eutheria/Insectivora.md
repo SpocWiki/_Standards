@@ -69,7 +69,7 @@ dv_has_:
     ast: Insectivora
     az: Cücüyeyənlər
     be: насякомаедныя
-    be-tarask: мошкаедныя
+    be_tarask: мошкаедныя
     bg: Insectivora
     br: Insectivora
     bs: Bubojedi
@@ -128,7 +128,7 @@ dv_has_:
     pl: owadożerne
     pnb: کیڑے کھانے
     pt: Insectívoros
-    pt-br: Insectivora
+    pt_br: Insectivora
     qu: Palama uquq ñuñuq
     ro: Insectivore
     ru: насекомоядные

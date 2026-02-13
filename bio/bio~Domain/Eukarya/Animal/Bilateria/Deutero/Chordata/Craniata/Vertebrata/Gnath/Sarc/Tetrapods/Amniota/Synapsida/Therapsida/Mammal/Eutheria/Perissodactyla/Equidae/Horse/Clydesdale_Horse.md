@@ -39,7 +39,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/3%20Clydesdale%20horse
 dv_has_:
   name_:
     ar: خيول كلايدزديل
-    be-tarask: клайдэсдэйл
+    be_tarask: клайдэсдэйл
     ca: Clydesdale
     cs: Clydesdalský kůň
     da: Clydesdale

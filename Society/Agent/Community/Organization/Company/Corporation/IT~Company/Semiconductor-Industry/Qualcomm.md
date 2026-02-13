@@ -12,11 +12,11 @@ dv_has_:
     cs: Qualcomm
     da: Qualcomm
     de: Qualcomm
-    de-ch: Qualcomm
+    de_ch: Qualcomm
     el: Qualcomm
     en: Qualcomm
-    en-ca: Qualcomm
-    en-gb: Qualcomm
+    en_ca: Qualcomm
+    en_gb: Qualcomm
     en-us: Qualcomm
     eo: Qualcomm
     es: Qualcomm
@@ -43,7 +43,7 @@ dv_has_:
     pl: Qualcomm
     pnb: کوالکوم
     pt: Qualcomm
-    pt-br: Qualcomm
+    pt_br: Qualcomm
     qu: Qualcomm
     ro: Qualcomm
     ru: Qualcomm
@@ -62,10 +62,10 @@ dv_has_:
     vi: Qualcomm
     yue: 高通
     zh: 高通
-    zh-cn: 高通
-    zh-hans: 高通
-    zh-hant: 高通
-    zh-tw: 高通公司
+    zh_cn: 高通
+    zh_hans: 高通
+    zh_hant: 高通
+    zh_tw: 高通公司
 aliases:
 - Qualcomm
 - Qualcomm Inc.

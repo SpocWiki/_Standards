@@ -221,7 +221,7 @@ dv_has_:
     bar: Schogglad
     bcl: tsokolate
     be: шакалад
-    be-tarask: шакаляд
+    be_tarask: шакаляд
     bg: шоколад
     bho: चॉकलेट
     bjn: suklat
@@ -240,13 +240,13 @@ dv_has_:
     cy: siocled
     da: chokolade
     de: Schokolade
-    de-ch: Schokolade
+    de_ch: Schokolade
     dsb: šokolada
     el: σοκολάτα
     eml: cicoleta
     en: chocolate
-    en-ca: chocolate
-    en-gb: chocolate
+    en_ca: chocolate
+    en_gb: chocolate
     eo: ĉokolado
     es: chocolate
     et: šokolaad
@@ -310,7 +310,7 @@ dv_has_:
     lt: šokoladas
     lv: šokolāde
     mad: Sokklat
-    map-bms: coklat
+    map_bms: coklat
     mg: sokola
     mi: tiakarete
     min: cokelat
@@ -327,7 +327,7 @@ dv_has_:
     nap: ciucculato
     nb: sjokolade
     nds: Schokolaad
-    nds-nl: sokkeloa
+    nds_nl: sokkeloa
     ne: चकलेट
     new: चकलेट
     nl: chocolade
@@ -344,7 +344,7 @@ dv_has_:
     pms: cicolata
     pnb: چاکلیٹ
     pt: chocolate
-    pt-br: chocolate
+    pt_br: chocolate
     qu: chukulati
     ro: ciocolată
     roa-tara: ciucculate
@@ -365,8 +365,8 @@ dv_has_:
     so: chocolate
     sq: çokollatë
     sr: чоколада
-    sr-ec: чоколада
-    sr-el: čokolada
+    sr_ec: чоколада
+    sr_el: čokolada
     srn: sukruskrati
     st: tshokolete
     su: coklat
@@ -383,7 +383,7 @@ dv_has_:
     tok: suwi pimeja
     tr: çikolata
     tt: шоколад
-    tt-cyrl: шоколад
+    tt_cyrl: шоколад
     tyv: Шоколад
     udm: шоколад
     ug: شاكىلات
@@ -401,13 +401,13 @@ dv_has_:
     za: Giujhaeklig
     zh: 巧克力
     zh-cn: 巧克力
-    zh-hans: 巧克力
-    zh-hant: 巧克力
-    zh-hk: 朱古力
-    zh-mo: 朱古力
+    zh_hans: 巧克力
+    zh_hant: 巧克力
+    zh_hk: 朱古力
+    zh_mo: 朱古力
     zh-my: 巧克力
-    zh-sg: 巧克力
-    zh-tw: 巧克力
+    zh_sg: 巧克力
+    zh_tw: 巧克力
     zu: shokoledi
 ---
 # [[Chocolate]] 🍫 

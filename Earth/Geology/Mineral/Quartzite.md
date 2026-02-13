@@ -83,7 +83,7 @@ dv_has_:
     ast: Cuarcita
     az: kvarsit
     be: кварцыт
-    be-tarask: кварцыт
+    be_tarask: кварцыт
     bg: Кварцит
     bn: কোয়ার্টজাইট
     ca: quarsita
@@ -132,8 +132,8 @@ dv_has_:
     sl: kvarctit
     sms: kvartsitt
     sr: кварцит
-    sr-ec: Кварцит
-    sr-el: Kvarcit
+    sr_ec: Кварцит
+    sr_el: Kvarcit
     sv: kvartsit
     tr: kuvarsit
     uk: кварцит
@@ -141,12 +141,12 @@ dv_has_:
     vi: Quartzit
     yue: 石英岩
     zh: 石英岩
-    zh-cn: 石英岩
-    zh-hans: 石英岩
-    zh-hant: 石英岩
-    zh-hk: 石英岩
-    zh-sg: 石英岩
-    zh-tw: 石英岩
+    zh_cn: 石英岩
+    zh_hans: 石英岩
+    zh_hant: 石英岩
+    zh_hk: 石英岩
+    zh_sg: 石英岩
+    zh_tw: 石英岩
 ---
 # [[Quartzite]] 
 

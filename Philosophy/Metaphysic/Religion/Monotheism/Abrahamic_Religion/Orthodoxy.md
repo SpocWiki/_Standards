@@ -63,7 +63,7 @@ dv_has_:
     az: ortodoksiya
     azb: اورتودوکس
     be: артадоксія
-    be-tarask: артадоксія
+    be_tarask: артадоксія
     bg: ортодоксия
     bjn: Ortodoksi
     bn: সনাতনপন্থা
@@ -115,7 +115,7 @@ dv_has_:
     sl: ortodoksija
     sq: ortodoksia
     sr: ортодоксија
-    sr-ec: ортодоксија
+    sr_ec: ортодоксија
     su: Gereja Ortodoks
     sv: ortodoxi
     sw: waorthodoksi

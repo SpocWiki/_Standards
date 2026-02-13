@@ -104,7 +104,7 @@ dv_has_:
     ast: Física teórica
     az: nəzəri fizika
     be: тэарэтычная фізіка
-    be-tarask: тэарэтычная фізыка
+    be_tarask: тэарэтычная фізыка
     bg: Теоретична физика
     bho: सैद्धांतिक भौतिकी
     bn: তাত্ত্বিক পদার্থবিদ্যা
@@ -150,11 +150,11 @@ dv_has_:
     lez: теоретик физика
     lt: teorinė fizika
     lv: teorētiskā fizika
-    map-bms: Teori-teori fisika
+    map_bms: Teori-teori fisika
     mk: теориска физика
     mn: Онолын физик
     ms: fizik teori
-    ms-arab: فيزيک تيوري
+    ms_arab: فيزيک تيوري
     nb: teoretisk fysikk
     nl: theoretische natuurkunde
     nn: teoretisk fysikk
@@ -165,7 +165,7 @@ dv_has_:
     pnb: تھیورٹیکل فزکس
     ps: نظري فزیک
     pt: física teórica
-    pt-br: física teórica
+    pt_br: física teórica
     ro: fizică teoretică
     ru: теоретическая физика
     sco: theoretical pheesics
@@ -194,8 +194,8 @@ dv_has_:
     yi: טעארעטישע פיזיק
     yue: 理論物理學
     zh: 理论物理学
-    zh-hans: 理论物理学
-    zh-hant: 理論物理學
+    zh_hans: 理论物理学
+    zh_hant: 理論物理學
 ---
 # [[Theoretical_Physics]] 
 

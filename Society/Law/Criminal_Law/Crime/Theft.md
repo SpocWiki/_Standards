@@ -138,7 +138,7 @@ dv_has_:
     azb: اوغرو
     ba: Урлау
     be: крадзеж
-    be-tarask: крадзеж
+    be_tarask: крадзеж
     bg: Кражба
     bn: চৌর্যবৃত্তি
     br: Laeroñsi
@@ -150,13 +150,13 @@ dv_has_:
     cy: lladrad
     da: tyveri
     de: Diebstahl
-    de-ch: Diebstahl
+    de_ch: Diebstahl
     diq: Dızd
     dv: ވައްކަން
     el: κλοπή
     en: theft
-    en-ca: theft
-    en-gb: theft
+    en_ca: theft
+    en_gb: theft
     en-us: theft
     eo: ŝtelo
     es: hurto
@@ -203,7 +203,7 @@ dv_has_:
     pl: kradzież
     ps: غلا
     pt: furto
-    pt-br: roubo
+    pt_br: roubo
     qu: Suway
     ro: furt
     ru: кража
@@ -216,7 +216,7 @@ dv_has_:
     sn: Kuba
     sq: Vjedhja
     sr: крађа
-    sr-ec: крађа
+    sr_ec: крађа
     sv: stöld
     sw: Wizi
     ta: திருட்டு
@@ -227,7 +227,7 @@ dv_has_:
     tok: lanpan
     tr: hırsızlık
     tt: урлау
-    tt-cyrl: урлау
+    tt_cyrl: урлау
     uk: крадіжка
     ur: چوری
     uz: Oʻgʻrilik
@@ -238,14 +238,14 @@ dv_has_:
     yo: Ole
     yue: 偷嘢
     zh: 偷竊
-    zh-cn: 偷窃
-    zh-hans: 偷窃
-    zh-hant: 偷竊
-    zh-hk: 偷竊
-    zh-mo: 偷竊
+    zh_cn: 偷窃
+    zh_hans: 偷窃
+    zh_hant: 偷竊
+    zh_hk: 偷竊
+    zh_mo: 偷竊
     zh-my: 偷窃
-    zh-sg: 偷窃
-    zh-tw: 偷竊
+    zh_sg: 偷窃
+    zh_tw: 偷竊
 ---
 # [[Theft]] 
 

@@ -32,8 +32,8 @@ dv_has_:
     de: John Carmack
     el: Τζον Κάρμακ
     en: John Carmack
-    en-ca: John Carmack
-    en-gb: John Carmack
+    en_ca: John Carmack
+    en_gb: John Carmack
     es: John Carmack
     et: John Carmack
     fa: جان کارمک
@@ -60,7 +60,7 @@ dv_has_:
     pam: John D. Carmack
     pl: John Carmack
     pt: John Carmack
-    pt-br: John Carmack
+    pt_br: John Carmack
     ru: Джон Кармак
     sk: John D. Carmack
     sl: John Carmack
@@ -69,12 +69,12 @@ dv_has_:
     tr: John Carmack
     uk: Джон Кармак
     zh: 約翰·卡馬克
-    zh-cn: 约翰·卡马克
-    zh-hans: 约翰·卡马克
-    zh-hant: 約翰·卡馬克
-    zh-hk: 約翰·卡馬克
-    zh-sg: 约翰·卡马克
-    zh-tw: 約翰·卡馬克
+    zh_cn: 约翰·卡马克
+    zh_hans: 约翰·卡马克
+    zh_hant: 約翰·卡馬克
+    zh_hk: 約翰·卡馬克
+    zh_sg: 约翰·卡马克
+    zh_tw: 約翰·卡馬克
 ---
 #has_/time_/started :: 1970-08-21 
 #has_/created ::[[../id_Software]]] 

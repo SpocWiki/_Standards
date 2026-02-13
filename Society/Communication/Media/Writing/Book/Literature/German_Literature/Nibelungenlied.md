@@ -8,7 +8,7 @@ dv_has_:
     ba: Нибелунгтар тураһында йыр
     bar: Nibelungenliad
     be: Песня пра Нібелунгаў
-    be-tarask: Песьня пра Нібэлюнгаў
+    be_tarask: Песьня пра Нібэлюнгаў
     bg: Песен за Нибелунгите
     br: Kan an Nibelunged
     ca: Cant dels Nibelungs
@@ -19,8 +19,8 @@ dv_has_:
     de: Nibelungenlied
     el: Τραγούδι των Νιμπελούνγκεν
     en: Nibelungenlied
-    en-ca: Nibelungenlied
-    en-gb: Nibelunglied
+    en_ca: Nibelungenlied
+    en_gb: Nibelunglied
     eo: La Kanto de la Nibelungoj
     es: Cantar de los nibelungos
     et: Nibelungide laul
@@ -53,7 +53,7 @@ dv_has_:
     nn: Nibelungenlied
     pl: Pieśń o Nibelungach
     pt: Canção dos Nibelungos
-    pt-br: Canção dos Nibelungos
+    pt_br: Canção dos Nibelungos
     ro: Cântecul Nibelungilor
     ru: Песнь о Нибелунгах
     sh: Nibelungenlied
@@ -68,12 +68,12 @@ dv_has_:
     vi: Nibelungenlied
     wuu: 尼伯龙根之歌
     zh: 尼伯龍根之歌
-    zh-cn: 尼伯龙根之歌
-    zh-hans: 尼伯龙根之歌
-    zh-hant: 尼伯龍根之歌
-    zh-hk: 尼伯龍根之歌
-    zh-sg: 尼伯龙根之歌
-    zh-tw: 尼伯龍根之歌
+    zh_cn: 尼伯龙根之歌
+    zh_hans: 尼伯龙根之歌
+    zh_hant: 尼伯龍根之歌
+    zh_hk: 尼伯龍根之歌
+    zh_sg: 尼伯龙根之歌
+    zh_tw: 尼伯龍根之歌
 aliases:
 - Canción dos Nibelungos
 - Cant dels Nibelungs

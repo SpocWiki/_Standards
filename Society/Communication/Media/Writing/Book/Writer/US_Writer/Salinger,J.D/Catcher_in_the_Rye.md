@@ -97,7 +97,7 @@ dv_has_:
     az: Çovdarlıqda uçurumdan qoruyan
     bcl: The Catcher in the Rye
     be: Лавец у жыце
-    be-tarask: Лавец у жыце
+    be_tarask: Лавец у жыце
     bg: Спасителят в ръжта
     bn: দ্য ক্যাচার ইন দ্য রাই
     br: An diwaller er segaleg
@@ -151,8 +151,8 @@ dv_has_:
     sk: Kto chytá v žite
     sl: Varuh v rži
     sr: Ловац у житу
-    sr-ec: Ловац у житу
-    sr-el: Lovac u žitu
+    sr_ec: Ловац у житу
+    sr_el: Lovac u žitu
     sv: Räddaren i nöden
     tr: Gönülçelen
     uk: Ловець у житі
@@ -163,12 +163,12 @@ dv_has_:
     wuu: 麦田里个守望者
     yue: 麥田捕手
     zh: 麥田捕手
-    zh-cn: 麦田里的守望者
-    zh-hans: 麦田里的守望者
-    zh-hant: 麥田捕手
-    zh-hk: 麥田捕手
-    zh-sg: 麦田里的守望者
-    zh-tw: 麥田捕手
+    zh_cn: 麦田里的守望者
+    zh_hans: 麦田里的守望者
+    zh_hant: 麥田捕手
+    zh_hk: 麥田捕手
+    zh_sg: 麦田里的守望者
+    zh_tw: 麥田捕手
 ---
 # [[Catcher_in_the_Rye]] 
 

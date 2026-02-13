@@ -90,7 +90,7 @@ dv_has_:
     az: dialoq
     bar: Dialog
     be: дыялог
-    be-tarask: дыялёг
+    be_tarask: дыялёг
     bg: Диалог
     bn: সংলাপ
     bs: dijalog
@@ -100,11 +100,11 @@ dv_has_:
     cy: dialog
     da: dialog
     de: Dialog
-    de-ch: Dialog
+    de_ch: Dialog
     el: διάλογος
     en: dialogue
-    en-ca: Dialogue
-    en-gb: dialogue
+    en_ca: Dialogue
+    en_gb: dialogue
     eo: dialogo
     es: diálogo
     et: Dialoog
@@ -130,11 +130,11 @@ dv_has_:
     ja: 対話
     ka: დიალოგი
     kk: Диалог
-    kk-arab: دىيالوگ
+    kk_arab: دىيالوگ
     kk-cn: دىيالوگ
-    kk-cyrl: Диалог
+    kk_cyrl: Диалог
     kk-kz: Диалог
-    kk-latn: Dïalog
+    kk_latn: Dïalog
     kk-tr: Dïalog
     ko: 대화
     ks: کَتھ باتھ
@@ -154,7 +154,7 @@ dv_has_:
     pl: dialog
     ps: ادبي خبري اتري
     pt: diálogo
-    pt-br: Diálogo
+    pt_br: Diálogo
     ro: dialog
     ru: диалог
     scn: Dialugu
@@ -165,15 +165,15 @@ dv_has_:
     sl: dialog
     sq: Dialogu
     sr: дијалог
-    sr-ec: Дијалог
-    sr-el: Dijalog
+    sr_ec: Дијалог
+    sr_el: Dijalog
     su: dialog
     sv: dialog
     sw: Mazungumzo
     ta: உரையாடல்
     te: సంభాషణ
     tg: Муколама
-    tg-latn: Mukolama
+    tg_latn: Mukolama
     th: บทสนทนา
     tr: diyalog
     uk: діалог
@@ -185,12 +185,12 @@ dv_has_:
     xmf: დიალოგი
     yue: 對白
     zh: 对话
-    zh-cn: 对话
-    zh-hans: 对话
-    zh-hant: 對話
-    zh-hk: 對話
-    zh-sg: 对话
-    zh-tw: 對話
+    zh_cn: 对话
+    zh_hans: 对话
+    zh_hant: 對話
+    zh_hk: 對話
+    zh_sg: 对话
+    zh_tw: 對話
 ---
 # [[Dialogue]] 
 

@@ -55,7 +55,7 @@ dv_has_:
   name_:
     ar: ارتجال موسيقي
     ast: Improvisación musical
-    be-tarask: музычная імправізацыя
+    be_tarask: музычная імправізацыя
     ca: improvisació musical
     cs: hudební improvizace
     da: musikimprovisation
@@ -94,9 +94,9 @@ dv_has_:
     vec: inprovizasion
     yue: 即興音樂
     zh: 音樂即興
-    zh-hans: 音乐即兴
-    zh-hant: 音樂即興
-    zh-hk: 音樂即興
+    zh_hans: 音乐即兴
+    zh_hant: 音樂即興
+    zh_hk: 音樂即興
 ---
 # [[Musical_Improvisation]] 
 

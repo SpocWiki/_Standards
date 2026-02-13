@@ -81,7 +81,7 @@ dv_has_:
     ast: comedia de situación
     az: sitkom
     be: сітуацыйная камедыя
-    be-tarask: сытуацыйная камэдыя
+    be_tarask: сытуацыйная камэдыя
     bg: Ситуационна комедия
     bn: সিটকম
     br: Sitkom
@@ -94,7 +94,7 @@ dv_has_:
     de: Sitcom
     el: κωμωδία καταστάσεων
     en: sitcom
-    en-gb: situation comedy
+    en_gb: situation comedy
     eo: situacia komedio
     es: comedia de situación
     et: Situatsioonikomöödia
@@ -122,8 +122,8 @@ dv_has_:
     km: ស៊ីតខម
     ko: 시트콤
     ku: Sitcom
-    ku-arab: ستجۆم
-    ku-latn: Sitcom
+    ku_arab: ستجۆم
+    ku_latn: Sitcom
     kw: komedi desedhans
     lb: Sitcom
     li: Sitcom
@@ -133,7 +133,7 @@ dv_has_:
     mk: Ситуациска комедија
     mr: परिस्थितीजन्य विनोद
     ms: komedia situasi
-    ms-arab: کوميدي سيتواسي
+    ms_arab: کوميدي سيتواسي
     nan: Sitcom
     nb: situasjonskomedie
     nl: sitcom
@@ -142,7 +142,7 @@ dv_has_:
     pl: Sitcom
     pnb: سٹکام
     pt: sitcom
-    pt-br: sitcom
+    pt_br: sitcom
     ro: sitcom
     ru: ситком
     sah: Ситком
@@ -153,8 +153,8 @@ dv_has_:
     sl: situacijska komedija
     sq: Sitcom
     sr: комедија ситуације
-    sr-ec: Комедија ситуације
-    sr-el: Komedija situacije
+    sr_ec: Комедија ситуације
+    sr_el: Komedija situacije
     sv: situationskomedi
     sw: Ucheshi
     ta: சூழ்நிலை நகைச்சுவை
@@ -171,12 +171,12 @@ dv_has_:
     yi: סיטואציע קאמעדיע
     yue: 處境喜劇
     zh: 情景喜剧
-    zh-cn: 情景喜剧
-    zh-hans: 情景喜剧
-    zh-hant: 情境喜劇
-    zh-hk: 處境喜劇
-    zh-sg: 情景喜剧
-    zh-tw: 情境喜劇
+    zh_cn: 情景喜剧
+    zh_hans: 情景喜剧
+    zh_hant: 情境喜劇
+    zh_hk: 處境喜劇
+    zh_sg: 情景喜剧
+    zh_tw: 情境喜劇
 ---
 # [[Sitcom]] 
 

@@ -86,7 +86,7 @@ dv_has_:
     azb: بول جبری
     ba: Логика алгебраһы
     be: булева алгебра
-    be-tarask: булева альгебра
+    be_tarask: булева альгебра
     bg: Булева алгебра
     bn: বুলিয়ান বীজগণিত
     bs: Booleova algebra
@@ -95,11 +95,11 @@ dv_has_:
     cv: Каларăшсен алгебри
     da: Boolsk algebra
     de: boolesche Algebra
-    de-ch: Boolesche Algebra
+    de_ch: Boolesche Algebra
     el: Άλγεβρα Μπουλ
     en: Boolean algebra
-    en-ca: Boolean algebra
-    en-gb: Boolean algebra
+    en_ca: Boolean algebra
+    en_gb: Boolean algebra
     eo: Bulea algebro
     es: álgebra de Boole
     et: Boole'i algebra
@@ -135,7 +135,7 @@ dv_has_:
     pl: algebra Boole'a
     pms: Àlgebra ëd Boole
     pt: álgebra booliana
-    pt-br: álgebra booliana
+    pt_br: álgebra booliana
     ro: algebră booleană
     ru: алгебра логики
     sh: Bulova algebra
@@ -154,9 +154,9 @@ dv_has_:
     wuu: 逻辑代数
     yue: 邏輯代數
     zh: 逻辑代数
-    zh-cn: 布尔逻辑
-    zh-hans: 逻辑代数
-    zh-hant: 布林邏輯
+    zh_cn: 布尔逻辑
+    zh_hans: 逻辑代数
+    zh_hant: 布林邏輯
 ---
 # [[Boolean_Algebra]] 
 

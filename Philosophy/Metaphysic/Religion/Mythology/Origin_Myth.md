@@ -65,7 +65,7 @@ dv_has_:
     ary: ؤسطورة د لأصل
     arz: اسطورة البدء
     ast: Mitu fundacional
-    be-tarask: міт пра паходжаньне
+    be_tarask: міт пра паходжаньне
     bg: Мит за произход
     bn: আদিম পুরাণ
     ca: mite fundacional
@@ -106,8 +106,8 @@ dv_has_:
     vi: huyền thoại cội nguồn
     yue: 創建神話
     zh: 起源神話
-    zh-cn: 起源神话
-    zh-hans: 起源神话
+    zh_cn: 起源神话
+    zh_hans: 起源神话
 ---
 # [[Origin_Myth]] 
 

@@ -294,7 +294,7 @@ dv_has_:
     azb: جرج واشنگتن
     ba: Джордж Вашингтон
     be: Джордж Вашынгтон
-    be-tarask: Джордж Вашынгтон
+    be_tarask: Джордж Вашынгтон
     bew: Jos Wasingten
     bg: Джордж Вашингтон
     bho: जॉर्ज वाशिंगटन
@@ -368,7 +368,7 @@ dv_has_:
     si: ජෝර්ජ් වොෂිංටන්
     sk: George Washington
     sr: Џорџ Вашингтон
-    sr-ec: Џорџ Вашингтон
+    sr_ec: Џорџ Вашингтон
     sv: George Washington
     szy: Ciyawce.huwasentun
     ta: சியார்ச் வாசிங்டன்
@@ -379,8 +379,8 @@ dv_has_:
     tly: Corc Vaşinqton
     tok: jan Sosi Wasinton
     tt: Джордж Вашингтон
-    tt-cyrl: Джордж Вашингтон
-    tt-latn: Corc Vaşington
+    tt_cyrl: Джордж Вашингтон
+    tt_latn: Corc Vaşington
     tyv: Вашингтон, Джордж
     udm: Вашингтон, Джордж
     ug: گېئورگى ۋاشىنگتون
@@ -392,8 +392,8 @@ dv_has_:
     yi: דזשארזש וואשינגטאן
     yue: 佐治華盛頓
     zh: 乔治·华盛顿
-    zh-hans: 乔治·华盛顿
-    zh-hant: 喬治·華盛頓
+    zh_hans: 乔治·华盛顿
+    zh_hant: 喬治·華盛頓
   time_:
     started: 1732-02-22T00:00:00.000+00:53
     stopped: 1799-12-14T00:00:00.000+00:53

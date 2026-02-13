@@ -228,7 +228,7 @@ dv_has_:
     ba: яман шеш
     bcl: kanser
     be: злаякасная пухліна
-    be-tarask: рак
+    be_tarask: рак
     bg: рак
     bho: कैंसर
     bn: ক্যান্সার
@@ -246,14 +246,14 @@ dv_has_:
     da: kræft
     dag: lɔɣu
     de: Krebs
-    de-ch: Krebs
+    de_ch: Krebs
     diq: qanser
     dty: कर्कट रोग
     dv: ކެންސަރު
     el: καρκίνος
     en: cancer
-    en-ca: cancer
-    en-gb: cancer
+    en_ca: cancer
+    en_gb: cancer
     en-us: cancer
     eo: kancero
     es: cáncer
@@ -325,14 +325,14 @@ dv_has_:
     mnw: ကေန်သာ၊ ယဲ
     mr: कर्करोग
     ms: barah
-    ms-arab: باره
+    ms_arab: باره
     mt: kanċer
     my: ကင်ဆာရောဂါ
     mzn: سرطان
     nan: gâm
     nb: kreft
     nds: Kreevt (Medizin)
-    nds-nl: kaanker
+    nds_nl: kaanker
     ne: क्यान्सर
     new: क्यान्सर
     nl: kanker
@@ -351,7 +351,7 @@ dv_has_:
     pnb: سرطان
     ps: سرطان
     pt: cancro
-    pt-br: câncer
+    pt_br: câncer
     qu: apanqara unquy
     rki: ကင်ဆာရောဂါ
     ro: cancer
@@ -392,7 +392,7 @@ dv_has_:
     tr: kanser
     ts: fukuzana
     tt: яман шеш
-    tt-cyrl: яман шеш
+    tt_cyrl: яман шеш
     tw: kukuram
     udm: лекпыктос
     uk: злоякісна пухлина
@@ -411,11 +411,11 @@ dv_has_:
     yue: 癌
     za: bingh'aizcwng
     zh: 癌症
-    zh-cn: 癌症
-    zh-hans: 癌症
-    zh-hant: 癌症
-    zh-hk: 癌症
-    zh-tw: 癌症
+    zh_cn: 癌症
+    zh_hans: 癌症
+    zh_hant: 癌症
+    zh_hk: 癌症
+    zh_tw: 癌症
     zu: umdlavuza
 ---
 # [[Cancer]] 

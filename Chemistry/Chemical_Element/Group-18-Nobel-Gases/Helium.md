@@ -215,7 +215,7 @@ dv_has_:
     ban: Hélium
     bcl: Elyo
     be: гелій
-    be-tarask: гель
+    be_tarask: гель
     bg: хелий
     bho: हीलियम
     blk: ဟီလီယမ်
@@ -236,13 +236,13 @@ dv_has_:
     cy: heliwm
     da: helium
     de: Helium
-    de-ch: Helium
+    de_ch: Helium
     diq: Helyum
     el: ήλιο
     eml: Êli
     en: helium
-    en-ca: Helium
-    en-gb: helium
+    en_ca: Helium
+    en_gb: helium
     eo: heliumo
     es: helio
     et: heelium
@@ -322,7 +322,7 @@ dv_has_:
     mr: हेलियम
     mrj: Гелий
     ms: helium
-    ms-arab: هيليوم
+    ms_arab: هيليوم
     mt: elju
     mul: He
     my: ဟီလီယမ်
@@ -351,7 +351,7 @@ dv_has_:
     pnt: Ήλιον
     ps: هېليوم
     pt: hélio
-    pt-br: hélio
+    pt_br: hélio
     qu: Ilyu
     ro: heliu
     ru: гелий
@@ -388,7 +388,7 @@ dv_has_:
     tok: ijo lili nanpa 2
     tr: Helyum
     tt: гелий
-    tt-cyrl: гелий
+    tt_cyrl: гелий
     tum: Hiliyamu
     tyv: Гелий
     ug: گېلىي
@@ -409,14 +409,14 @@ dv_has_:
     yue: 氦
     zgh: ⴰⵀⵉⵍⵢⵓⵎ
     zh: 氦
-    zh-cn: 氦
-    zh-hans: 氦
-    zh-hant: 氦
-    zh-hk: 氦
-    zh-mo: 氦
+    zh_cn: 氦
+    zh_hans: 氦
+    zh_hant: 氦
+    zh_hk: 氦
+    zh_mo: 氦
     zh-my: 氦
-    zh-sg: 氦
-    zh-tw: 氦
+    zh_sg: 氦
+    zh_tw: 氦
     zu: IHwelanga
   number_of_:
     period: 1

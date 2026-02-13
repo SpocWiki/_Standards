@@ -109,7 +109,7 @@ dv_has_:
     az: nəcib metallar
     ba: затлы металдар
     be: высакародныя металы
-    be-tarask: шляхетны мэтал
+    be_tarask: шляхетны мэтал
     bg: благороден метал
     bn: নোবেল ধাতু
     ca: metall noble
@@ -169,8 +169,8 @@ dv_has_:
     sl: plemenita kovina
     sq: metalet fisnike
     sr: племенити метал
-    sr-ec: племенити метал
-    sr-el: plemeniti metal
+    sr_ec: племенити метал
+    sr_el: plemeniti metal
     sv: ädelmetall
     sw: metali adimu
     ta: உயர் உலோகம்

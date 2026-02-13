@@ -132,7 +132,7 @@ dv_has_:
     ast: grupu 16
     az: xalkogenlər
     ban: kalkogén
-    be-tarask: халькагены
+    be_tarask: халькагены
     bg: халкоген
     bn: চ্যালকোজেন
     bs: halkogeni elementi
@@ -185,7 +185,7 @@ dv_has_:
     pam: anfíhenu
     pl: tlenowce
     pt: calcogénio
-    pt-br: calcogênio
+    pt_br: calcogênio
     qu: ch'uqichaq
     ro: calcogen
     ru: халькогены
@@ -197,8 +197,8 @@ dv_has_:
     so: chalcogen
     sq: grupi i gjashtëmbëdhjetë i elementeve kimike
     sr: 16. група хемијских елемената
-    sr-ec: 16. група хемијских елемената
-    sr-el: 16. grupa hemijskih elemenata
+    sr_ec: 16. група хемијских елемената
+    sr_el: 16. grupa hemijskih elemenata
     sv: syregruppen
     sw: kundi la halkojeni
     ta: நெடுங்குழு 16 தனிமங்கள்
@@ -206,19 +206,19 @@ dv_has_:
     th: แชลโคเจน
     tr: kalkojen
     tt: һалкогеннар
-    tt-cyrl: һалкогеннар
+    tt_cyrl: һалкогеннар
     udm: халькогенъёс
     uk: халькогени
     vi: nhóm nguyên tố 16
     wuu: 氧族元素
     yue: 氧族元素
     zh: 氧族元素
-    zh-cn: 氧族元素
-    zh-hans: 氧族元素
-    zh-hant: 氧族元素
-    zh-hk: 氧族元素
-    zh-sg: 氧族元素
-    zh-tw: 氧族元素
+    zh_cn: 氧族元素
+    zh_hans: 氧族元素
+    zh_hant: 氧族元素
+    zh_hk: 氧族元素
+    zh_sg: 氧族元素
+    zh_tw: 氧族元素
 ---
 # [[Group-16-Chalcogene]]
 

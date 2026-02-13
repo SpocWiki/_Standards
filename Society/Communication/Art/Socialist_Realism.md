@@ -95,7 +95,7 @@ dv_has_:
     az: sosialist realizmi
     ba: социалистик реализм
     be: сацыялістычны рэалізм
-    be-tarask: сацыялістычны рэалізм
+    be_tarask: сацыялістычны рэалізм
     bg: социалистически реализъм
     ca: realisme socialista
     ce: социалистийн реализм
@@ -150,8 +150,8 @@ dv_has_:
     sl: socialistični realizem
     sq: Realizmi socialist
     sr: социјалистички реализам
-    sr-ec: Социјалистички реализам
-    sr-el: Socijalistički realizam
+    sr_ec: Социјалистички реализам
+    sr_el: Socijalistički realizam
     sv: Socialistisk realism
     tg: воқеъанигори сусиёлисм
     th: สัจนิยมสังคมนิยม
@@ -161,12 +161,12 @@ dv_has_:
     wuu: 社会主义现实主义
     yue: 社會主義現實主義
     zh: 社会主义的现实主义
-    zh-cn: 社会主义的现实主义
-    zh-hans: 社会主义的现实主义
-    zh-hant: 社會主義的現實主義
-    zh-hk: 社會主義的現實主義
-    zh-sg: 社会主义的现实主义
-    zh-tw: 社會主義的現實主義
+    zh_cn: 社会主义的现实主义
+    zh_hans: 社会主义的现实主义
+    zh_hant: 社會主義的現實主義
+    zh_hk: 社會主義的現實主義
+    zh_sg: 社会主义的现实主义
+    zh_tw: 社會主義的現實主義
 ---
 # [[Socialist_Realism]] 
 

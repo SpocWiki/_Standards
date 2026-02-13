@@ -114,7 +114,7 @@ dv_has_:
     ar: تعاطي المخدرات
     ast: abusu de sustancies
     az: həddindən artıq dozada dərman
-    be-tarask: злоўжываньне рэчывамі
+    be_tarask: злоўжываньне рэчывамі
     bn: মাদকের অপব্যবহার
     ca: abús de substàncies
     cs: zneužívání návykových látek
@@ -123,8 +123,8 @@ dv_has_:
     de: Drogenmissbrauch
     el: κατάχρηση ουσιών
     en: substance abuse
-    en-ca: substance abuse
-    en-gb: substance abuse
+    en_ca: substance abuse
+    en_gb: substance abuse
     eo: droga misuzado
     es: abuso de sustancias
     et: ainete kuritarvitamine
@@ -171,9 +171,9 @@ dv_has_:
     xh: Ukuhlukunyezwa kwesiyobisi
     yue: 物質濫用
     zh: 藥物濫用
-    zh-cn: 药物滥用
-    zh-hant: 物質濫用
-    zh-tw: 物質濫用
+    zh_cn: 药物滥用
+    zh_hant: 物質濫用
+    zh_tw: 物質濫用
 ---
 # [[Substance_Abuse]] 
 

@@ -63,7 +63,7 @@ dv_has_:
     cs: optik
     de: Optiker
     de-at: Optiker
-    de-ch: Optiker
+    de_ch: Optiker
     en: optician
     eo: optikisto
     fr: opticien
@@ -78,8 +78,8 @@ dv_has_:
     sv: optikvetenskapare
     uk: оптик
     vec: òtego
-    zh-hant: 光學家
-    zh-tw: 光學家
+    zh_hant: 光學家
+    zh_tw: 光學家
 ---
 # [[Optician]] 
 

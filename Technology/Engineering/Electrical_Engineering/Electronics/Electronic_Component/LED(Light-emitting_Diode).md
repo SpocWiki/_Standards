@@ -102,7 +102,7 @@ dv_has_:
     ast: Led
     az: İşıq diodu
     be: святлодыёд
-    be-tarask: сьвятлодыёд
+    be_tarask: сьвятлодыёд
     bg: Светодиод
     bn: আলোক নিঃসারী ডায়োড
     bs: Svjetleća dioda
@@ -111,11 +111,11 @@ dv_has_:
     cy: Deuod allyrru golau
     da: Lysdiode
     de: Leuchtdiode
-    de-ch: Leuchtdiode
+    de_ch: Leuchtdiode
     el: Δίοδος Εκπομπής Φωτός
     en: light-emitting diode
-    en-ca: Light-emitting diode
-    en-gb: light-emitting diode
+    en_ca: Light-emitting diode
+    en_gb: light-emitting diode
     eo: lum-eliganta diodo
     es: diodo emisor de luz
     es-419: LED - Diodo luminoso
@@ -151,7 +151,7 @@ dv_has_:
     pms: Dìod a emission luminosa
     pnb: چانن والا ڈائیوڈ
     pt: diodo emissor de luz
-    pt-br: diodo emissor de luz
+    pt_br: diodo emissor de luz
     ru: светодиод
     sco: licht-emittin diode
     sh: Svetleća dioda
@@ -160,8 +160,8 @@ dv_has_:
     sl: svetleča dioda
     sq: led
     sr: светлећа диода
-    sr-ec: светлећа диода
-    sr-el: svetleća dioda
+    sr_ec: светлећа диода
+    sr_el: svetleća dioda
     stq: Ljoachtdiode
     sv: lysdiod
     ta: ஒளிகாலும் இருமுனையம்
@@ -177,8 +177,8 @@ dv_has_:
     yi: ליכט-ימיטינג דייאוד
     yue: 發光二極管
     zh: 發光二極管
-    zh-cn: 发光二极管
-    zh-hans: 发光二极管
+    zh_cn: 发光二极管
+    zh_hans: 发光二极管
 ---
 # [[LED(Light-emitting_Diode)]] 
 

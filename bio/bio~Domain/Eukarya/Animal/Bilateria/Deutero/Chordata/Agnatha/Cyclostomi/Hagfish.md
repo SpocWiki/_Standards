@@ -87,7 +87,7 @@ dv_has_:
     az: Miksinlər
     azb: میکسینلر
     be: Міксіны
-    be-tarask: Міксіны
+    be_tarask: Міксіны
     bg: миксинови
     br: Myxinidae
     ca: Mixinoïdeu
@@ -97,8 +97,8 @@ dv_has_:
     de: Schleimaale
     el: Μυξινίδες
     en: hagfish
-    en-ca: Hagfish
-    en-gb: Hagfish
+    en_ca: Hagfish
+    en_gb: Hagfish
     en-us: hagfish
     eo: Mukofiŝoj
     es: Myxini
@@ -134,14 +134,14 @@ dv_has_:
     oc: Myxinidae
     pl: Śluzice
     pt: Peixe-bruxa
-    pt-br: Myxini
+    pt_br: Myxini
     ro: Mixine
     ru: Миксиновые
     sh: Sljepulje
     sk: Sliznatky
     sq: Myxinidae
     sr: слепуље
-    sr-ec: слепуље
+    sr_ec: слепуље
     sv: Pirålar
     sw: Mkunga-ute
     te: హాగ్ చేప
@@ -153,9 +153,9 @@ dv_has_:
     wuu: 盲鳗
     yue: 盲鰻
     zh: 盲鳗科
-    zh-cn: 盲鳗科
-    zh-hans: 盲鳗科
-    zh-tw: 盲鰻科
+    zh_cn: 盲鳗科
+    zh_hans: 盲鳗科
+    zh_tw: 盲鰻科
 ---
 # [[Hagfish]] 
 

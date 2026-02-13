@@ -276,7 +276,7 @@ dv_has_:
     ast: Doctor Who
     az: Doktor Kim
     be: Доктар Хто
-    be-tarask: Доктар Хто
+    be_tarask: Доктар Хто
     bg: Доктор Кой
     bn: ডক্টর হু
     bs: Doctor Who
@@ -287,12 +287,12 @@ dv_has_:
     cy: Doctor Who
     da: Doctor Who
     de: Doctor Who
-    de-ch: Doctor Who
+    de_ch: Doctor Who
     diq: Doctor Who
     el: Doctor Who
     en: Doctor Who
-    en-ca: Doctor Who
-    en-gb: Doctor Who
+    en_ca: Doctor Who
+    en_gb: Doctor Who
     en-us: Doctor Who
     eo: Doctor Who
     es: Doctor Who
@@ -337,7 +337,7 @@ dv_has_:
     pa: ਡਾਕਟਰ ਹੂ
     pl: Doktor Who
     pt: Doctor Who
-    pt-br: Doctor Who
+    pt_br: Doctor Who
     ro: Doctor Who
     ru: Доктор Кто
     sc: Doctor Who
@@ -348,8 +348,8 @@ dv_has_:
     skr: دكتور هو
     sl: Doctor Who
     sr: Доктор Ху
-    sr-ec: Доктор Ху
-    sr-el: Doktor Hu
+    sr_ec: Доктор Ху
+    sr_el: Doktor Hu
     sv: Doctor Who
     th: ดอกเตอร์ฮู
     tok: sitelen tawa pi jan sona Seme
@@ -363,13 +363,13 @@ dv_has_:
     yi: דאקטאר הו
     yue: 超時空奇俠
     zh: 異世奇人
-    zh-cn: 神秘博士
-    zh-hans: 神秘博士
-    zh-hant: 異世奇人
-    zh-hk: 異世奇人
+    zh_cn: 神秘博士
+    zh_hans: 神秘博士
+    zh_hant: 異世奇人
+    zh_hk: 異世奇人
     zh-my: 超时空奇侠
-    zh-sg: 超时空奇侠
-    zh-tw: 超時空奇俠
+    zh_sg: 超时空奇侠
+    zh_tw: 超時空奇俠
 ---
 # [[Doctor_Who]] 
 

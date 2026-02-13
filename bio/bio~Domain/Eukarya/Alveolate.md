@@ -80,8 +80,8 @@ dv_has_:
     vi: Alveolata
     war: Alveolata
     zh: 囊泡虫类
-    zh-cn: 囊泡虫类
-    zh-hans: 囊泡虫类
+    zh_cn: 囊泡虫类
+    zh_hans: 囊泡虫类
 ---
 # [[Alveolate]] 
 

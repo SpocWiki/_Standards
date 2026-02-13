@@ -103,9 +103,9 @@ dv_has_:
     vi: Khiêu vũ
     yue: 社交舞
     zh: 社交舞
-    zh-hans: 社交舞
-    zh-hant: 社交舞
-    zh-hk: 社交舞
+    zh_hans: 社交舞
+    zh_hant: 社交舞
+    zh_hk: 社交舞
 ---
 # [[Ballroom_Dance]] 
 

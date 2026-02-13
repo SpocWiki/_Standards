@@ -71,15 +71,15 @@ dv_has_:
     ast: cortexu
     bcl: pag-ilusyonan
     be: заляцанне
-    be-tarask: заляцаньне
+    be_tarask: заляцаньне
     bg: ухажване
     ca: festeig
     cs: námluvy
     de: Brautwerbung
-    de-ch: Balz
+    de_ch: Balz
     en: courtship
-    en-ca: courtship
-    en-gb: courtship
+    en_ca: courtship
+    en_gb: courtship
     eo: pariĝada memmontrado
     es: cortejo
     eu: gorteatze
@@ -105,7 +105,7 @@ dv_has_:
     nb: frieri
     ps: جوړه يي ملګرتيا
     pt: cortejo sexual
-    pt-br: cortejo sexual
+    pt_br: cortejo sexual
     ro: curtare
     ru: ухаживание
     sh: svadbeni ples
@@ -120,9 +120,9 @@ dv_has_:
     uk: залицяння
     yue: 求偶
     zh: 求偶
-    zh-hans: 求偶
-    zh-hant: 求偶
-    zh-hk: 求偶
+    zh_hans: 求偶
+    zh_hant: 求偶
+    zh_hk: 求偶
 ---
 # [[Courtship]] 
 

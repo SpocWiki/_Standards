@@ -183,7 +183,7 @@ dv_has_:
     ar: حمض الفوليك
     ast: Ácidu fólicu
     be: Фоліевая кіслата
-    be-tarask: фоліевая кісьля
+    be_tarask: фоліевая кісьля
     bg: Фолиева киселина
     bn: ফলিক অ্যাসিড
     bs: Folna kiselina
@@ -195,8 +195,8 @@ dv_has_:
     dv: ވިޓަމިން ބީ9
     el: φυλλικό οξύ
     en: folic acid
-    en-ca: Folic acid
-    en-gb: folic acid
+    en_ca: Folic acid
+    en_gb: folic acid
     eo: foliata acido
     es: ácido fólico
     et: Foolhape
@@ -235,7 +235,7 @@ dv_has_:
     or: ଫୋଲିକ ଏସିଡ
     pl: kwas foliowy
     pt: ácido fólico
-    pt-br: Ácido fólico
+    pt_br: Ácido fólico
     ro: Acid folic
     ru: фолиевая кислота
     scn: Àcitu fòlicu
@@ -257,7 +257,7 @@ dv_has_:
     wuu: 叶酸
     yue: 葉酸
     zh: 叶酸
-    zh-hant: 葉酸
+    zh_hant: 葉酸
 ---
 # [[Folate]] 
 

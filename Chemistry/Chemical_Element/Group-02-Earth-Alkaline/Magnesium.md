@@ -232,7 +232,7 @@ dv_has_:
     ban: magnésium
     bcl: magnesyo
     be: магній
-    be-tarask: магн
+    be_tarask: магн
     bg: магнезий
     bho: मैग्नीशियम
     blk: မဲဂ္ဂနီသီယမ်
@@ -251,12 +251,12 @@ dv_has_:
     cy: magnesiwm
     da: magnesium
     de: Magnesium
-    de-ch: Magnesium
+    de_ch: Magnesium
     dv: މެގްނީޒިއަމް
     el: μαγνήσιο
     en: magnesium
-    en-ca: magnesium
-    en-gb: magnesium
+    en_ca: magnesium
+    en_gb: magnesium
     eo: magnezio
     es: magnesio
     et: magneesium
@@ -327,7 +327,7 @@ dv_has_:
     mr: मॅग्नेशियम
     mrj: магний
     ms: magnesium
-    ms-arab: مݢنيسيوم
+    ms_arab: مݢنيسيوم
     mt: manjesju
     mul: Mg
     my: မဂ္ဂနီစီယမ်
@@ -354,7 +354,7 @@ dv_has_:
     pnb: میگنیشیم
     ps: مگنېزيوم
     pt: magnésio
-    pt-br: magnésio
+    pt_br: magnésio
     qu: qunta q'illay
     ro: magneziu
     ru: магний
@@ -405,14 +405,14 @@ dv_has_:
     yue: 鎂
     zgh: ⴰⵎⴰⴳⵏⵉⵣⵢⵓⵎ
     zh: 鎂
-    zh-cn: 镁
-    zh-hans: 镁
-    zh-hant: 鎂
-    zh-hk: 鎂
-    zh-mo: 鎂
+    zh_cn: 镁
+    zh_hans: 镁
+    zh_hant: 鎂
+    zh_hk: 鎂
+    zh_mo: 鎂
     zh-my: 镁
-    zh-sg: 镁
-    zh-tw: 鎂
+    zh_sg: 镁
+    zh_tw: 鎂
     zu: UmGethe
   number_of_:
     period: 3

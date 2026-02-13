@@ -96,7 +96,7 @@ dv_has_:
     ba: Халыҡ-ара волейбол федерацияһы
     ban: Fédérasi Bola Voli Internasional
     bcl: Pankinaban na Pederasyon kan Volleyball
-    be-tarask: Міжнародная фэдэрацыя валейболу
+    be_tarask: Міжнародная фэдэрацыя валейболу
     bg: Международна федерация по волейбол
     bjn: Pasabaatan Bal Tapak Antarabangsa
     bn: আন্তর্জাতিক ভলিবল সংস্থা
@@ -105,8 +105,8 @@ dv_has_:
     de: Fédération Internationale de Volleyball
     el: Διεθνής Ομοσπονδία Πετοσφαίρισης
     en: Fédération Internationale de Volleyball
-    en-ca: Fédération Internationale de Volleyball
-    en-gb: Fédération Internationale de Volleyball
+    en_ca: Fédération Internationale de Volleyball
+    en_gb: Fédération Internationale de Volleyball
     eo: Federacio Internacia de Volejbalo
     es: Federación Internacional de Voleibol
     et: Rahvusvaheline Võrkpalliföderatsioon
@@ -130,7 +130,7 @@ dv_has_:
     nl: Fédération Internationale de Volleyball
     pl: Międzynarodowa Federacja Piłki Siatkowej
     pt: Federação Internacional de Voleibol
-    pt-br: Federação Internacional de Voleibol
+    pt_br: Federação Internacional de Voleibol
     rm: FIVB
     ro: Federația Internațională de Volei
     ru: Международная федерация волейбола
@@ -149,14 +149,14 @@ dv_has_:
     vi: Liên đoàn bóng chuyền quốc tế
     wuu: 国际排球联合会
     zh: 国际排球联合会
-    zh-cn: 国际排球联合会
-    zh-hans: 国际排球联合会
-    zh-hant: 國際排球總會
-    zh-hk: 國際排球聯會
-    zh-mo: 國際排球聯會
+    zh_cn: 国际排球联合会
+    zh_hans: 国际排球联合会
+    zh_hant: 國際排球總會
+    zh_hk: 國際排球聯會
+    zh_mo: 國際排球聯會
     zh-my: 国际排球联合会
-    zh-sg: 国际排球联合会
-    zh-tw: 國際排球總會
+    zh_sg: 国际排球联合会
+    zh_tw: 國際排球總會
 ---
 # [[Fédération_Internationale_de_Volleyball]]
 

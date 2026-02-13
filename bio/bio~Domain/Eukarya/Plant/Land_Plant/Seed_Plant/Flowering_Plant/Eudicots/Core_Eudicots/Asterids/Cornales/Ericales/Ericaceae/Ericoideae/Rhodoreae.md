@@ -44,7 +44,7 @@ dv_has_:
     oc: Rhodoreae
     pl: Rhodoreae
     pt: Rhodoreae
-    pt-br: Rhodoreae
+    pt_br: Rhodoreae
     ro: Rhodoreae
     ru: Rhodoreae
     sl: Rhodoreae
@@ -54,7 +54,7 @@ dv_has_:
     vo: Rhodoreae
     war: Rhodoreae
     zh: 杜鹃花族
-    zh-cn: 杜鹃花族
+    zh_cn: 杜鹃花族
 ---
 # [[Rhodoreae]] 
 

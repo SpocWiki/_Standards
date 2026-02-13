@@ -128,7 +128,7 @@ dv_has_:
     awa: वुव भाषा
     ba: У
     be: у
-    be-tarask: ву
+    be_tarask: ву
     bn: উ চীনা ভাষা
     br: woueg
     btm: Saro Wu
@@ -139,7 +139,7 @@ dv_has_:
     de: Wu
     el: Κινεζικά Γου
     en: Wu Chinese
-    en-gb: Wu Chinese
+    en_gb: Wu Chinese
     eo: vua lingvo
     es: Chino wu
     et: uu keel
@@ -209,8 +209,8 @@ dv_has_:
     wuu: 吴语
     yue: 吳語
     zh: 吳語
-    zh-hant: 吳語
-    zh-tw: 吳語
+    zh_hant: 吳語
+    zh_tw: 吳語
     zu: isi-Wu Chinese
 ---
 # [[Lang-zh-wuu]] 

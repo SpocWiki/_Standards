@@ -91,7 +91,7 @@ dv_has_:
     ar: مكتبة عامة
     az: İctimai kitabxana
     be: грамадская бібліятэка
-    be-tarask: грамадзкая бібліятэка
+    be_tarask: грамадзкая бібліятэка
     bn: গণগ্রন্থাগার
     br: levraoueg foran
     bs: javna biblioteka
@@ -102,7 +102,7 @@ dv_has_:
     de: öffentliche Bibliothek
     el: δημόσια βιβλιοθήκη
     en: public library
-    en-gb: public library
+    en_gb: public library
     eo: publika biblioteko
     es: biblioteca pública
     et: rahvaraamatukogu
@@ -124,13 +124,13 @@ dv_has_:
     km: បណ្ណាល័យជាតិ
     ko: 공공 도서관
     ku: pirtûkxaneya gel
-    ku-latn: pirtûkxaneya gel
+    ku_latn: pirtûkxaneya gel
     la: Bibliotheca publica
     lt: viešoji biblioteka
     mk: јавна библиотека
     mn: Нийтийн номын сан
     ms: perpustakaan awam
-    ms-arab: ڤرڤوستاکاءن عوام
+    ms_arab: ڤرڤوستاکاءن عوام
     nan: Kong-kiōng tô͘-su-koán
     nb: folkebibliotek
     nl: openbare bibliotheek
@@ -138,7 +138,7 @@ dv_has_:
     pa: ਪਬਲਿਕ ਲਾਇਬ੍ਰੇਰੀ
     pl: biblioteka publiczna
     pt: biblioteca pública
-    pt-br: biblioteca pública
+    pt_br: biblioteca pública
     ro: biblioteca publică
     ru: общественная библиотека
     se: álbmotgirjerájus
@@ -149,8 +149,8 @@ dv_has_:
     sms: almmjallaš ǩeʹrjjpõrtt
     sq: bibliotekë publike
     sr: јавна библиотека
-    sr-ec: јавна библиотека
-    sr-el: javna biblioteka
+    sr_ec: јавна библиотека
+    sr_el: javna biblioteka
     sv: folkbibliotek
     sw: Maktaba ya Umma
     ta: பொது நூலகம்
@@ -163,14 +163,14 @@ dv_has_:
     wuu: 公共图书馆
     yue: 公共圖書館
     zh: 公共图书馆
-    zh-cn: 公共图书馆
-    zh-hans: 公共图书馆
-    zh-hant: 公共圖書館
-    zh-hk: 公共圖書館
-    zh-mo: 公共圖書館
+    zh_cn: 公共图书馆
+    zh_hans: 公共图书馆
+    zh_hant: 公共圖書館
+    zh_hk: 公共圖書館
+    zh_mo: 公共圖書館
     zh-my: 公共图书馆
-    zh-sg: 公共图书馆
-    zh-tw: 公共圖書館
+    zh_sg: 公共图书馆
+    zh_tw: 公共圖書館
     zu: Umtapolwazi womphakathi
 ---
 # [[Public_Library]] 

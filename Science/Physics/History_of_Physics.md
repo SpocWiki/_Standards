@@ -82,7 +82,7 @@ dv_has_:
     as: পদাৰ্থ বিজ্ঞানৰ ইতিহাস
     ast: Historia de la física
     be: гісторыя фізікі
-    be-tarask: гісторыя фізыкі
+    be_tarask: гісторыя фізыкі
     bg: История на физиката
     bn: পদার্থবিজ্ঞানের ইতিহাস
     bs: historija fizike
@@ -140,12 +140,12 @@ dv_has_:
     vi: Lịch sử vật lý học
     yue: 物理學史
     zh: 物理学史
-    zh-cn: 物理学史
-    zh-hans: 物理学史
-    zh-hant: 物理學史
-    zh-hk: 物理學史
-    zh-sg: 物理学史
-    zh-tw: 物理學史
+    zh_cn: 物理学史
+    zh_hans: 物理学史
+    zh_hant: 物理學史
+    zh_hk: 物理學史
+    zh_sg: 物理学史
+    zh_tw: 物理學史
 ---
 # [[History_of_Physics]] 
 

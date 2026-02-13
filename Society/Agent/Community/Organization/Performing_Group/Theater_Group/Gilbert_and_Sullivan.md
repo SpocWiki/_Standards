@@ -52,7 +52,7 @@ dv_has_:
   name_:
     ar: جيلبرت وسوليفان
     ast: Gilbert y Sullivan
-    be-tarask: Гілбэрт і Саліван
+    be_tarask: Гілбэрт і Саліван
     ca: Gilbert i Sullivan
     cs: Gilbert a Sullivan
     da: Gilbert og Sullivan
@@ -88,9 +88,9 @@ dv_has_:
     war: Gilbert ngan Sullivan
     wuu: 吉尔伯特搭萨利文
     zh: 吉爾伯特與薩利文
-    zh-hans: 吉尔伯特与萨利文
-    zh-hant: 吉爾伯特與薩利文
-    zh-hk: 吉爾伯特與薩利文
+    zh_hans: 吉尔伯特与萨利文
+    zh_hant: 吉爾伯特與薩利文
+    zh_hk: 吉爾伯特與薩利文
 ---
 # [[Gilbert_and_Sullivan]] 
 

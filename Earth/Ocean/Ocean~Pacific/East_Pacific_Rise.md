@@ -71,7 +71,7 @@ dv_has_:
     ast: Dorsal del Pacíficu Oriental
     az: Şərqi Sakit okean silsiləsi
     be: Усходне-Ціхаакіянскае падняцце
-    be-tarask: Усходнеціхаакіянскае падняцьце
+    be_tarask: Усходнеціхаакіянскае падняцьце
     ca: Dorsal del Pacífic Oriental
     cs: Východotichomořský práh
     de: Ostpazifischer Rücken
@@ -105,9 +105,9 @@ dv_has_:
     wuu: 东太平洋海隆
     yue: 東太平洋海嶺
     zh: 東太平洋海隆
-    zh-hans: 东太平洋海隆
-    zh-hant: 東太平洋海隆
-    zh-hk: 東太平洋海隆
+    zh_hans: 东太平洋海隆
+    zh_hant: 東太平洋海隆
+    zh_hk: 東太平洋海隆
 ---
 # [[East_Pacific_Rise]]
 

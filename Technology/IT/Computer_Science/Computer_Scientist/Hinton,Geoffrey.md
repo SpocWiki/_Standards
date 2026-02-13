@@ -53,7 +53,7 @@ dv_has_:
     azb: جفری اورست هینتون
     bar: Geoffrey Hinton
     be: Джэфры Хінтан
-    be-tarask: Джэфры Гінтан
+    be_tarask: Джэфры Гінтан
     bg: Джефри Хинтън
     bi: Geoffrey Hinton
     bm: Geoffrey Hinton
@@ -68,13 +68,13 @@ dv_has_:
     da: Geoffrey Hinton
     de: Geoffrey Hinton
     de-at: Geoffrey Hinton
-    de-ch: Geoffrey Hinton
+    de_ch: Geoffrey Hinton
     dsb: Geoffrey Hinton
     el: Τζέφρι Χίντον
     eml: Geoffrey Hinton
     en: Geoffrey Hinton
-    en-ca: Geoffrey Hinton
-    en-gb: Geoffrey Hinton
+    en_ca: Geoffrey Hinton
+    en_gb: Geoffrey Hinton
     eo: Geoffrey Hinton
     es: Geoffrey Hinton
     et: Geoffrey Hinton
@@ -138,7 +138,7 @@ dv_has_:
     nap: Geoffrey Hinton
     nb: Geoffrey Hinton
     nds: Geoffrey Hinton
-    nds-nl: Geoffrey Hinton
+    nds_nl: Geoffrey Hinton
     niu: Geoffrey Hinton
     nl: Geoffrey Hinton
     nn: Geoffrey E. Hinton
@@ -154,7 +154,7 @@ dv_has_:
     pms: Geoffrey Hinton
     prg: Geoffrey Hinton
     pt: Geoffrey Hinton
-    pt-br: Geoffrey Hinton
+    pt_br: Geoffrey Hinton
     rgn: Geoffrey Hinton
     rm: Geoffrey Hinton
     ro: Geoffrey Hinton
@@ -170,7 +170,7 @@ dv_has_:
     sli: Geoffrey Hinton
     sq: Geoffrey Hinton
     sr: Džefri Hinton
-    sr-el: Geoffrey Hinton
+    sr_el: Geoffrey Hinton
     stq: Geoffrey Hinton
     sv: Geoffrey Hinton
     sw: Geoffrey Hinton
@@ -189,11 +189,11 @@ dv_has_:
     wo: Geoffrey Hinton
     zea: Geoffrey Hinton
     zh: 杰弗里·欣顿
-    zh-cn: 杰弗里·欣顿
-    zh-hans: 杰弗里·欣顿
-    zh-hant: 傑弗里·欣頓
-    zh-hk: 謝菲·軒頓
-    zh-tw: 傑佛瑞·辛頓
+    zh_cn: 杰弗里·欣顿
+    zh_hans: 杰弗里·欣顿
+    zh_hant: 傑弗里·欣頓
+    zh_hk: 謝菲·軒頓
+    zh_tw: 傑佛瑞·辛頓
     zu: Geoffrey Hinton
 ---
 ## #has_/text_of_/abstract 

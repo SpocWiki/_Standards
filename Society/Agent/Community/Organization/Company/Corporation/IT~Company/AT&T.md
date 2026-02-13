@@ -192,7 +192,7 @@ dv_has_:
     ar: إيه تي آند تي
     ast: AT&T
     az: AT&T
-    be-tarask: AT&T
+    be_tarask: AT&T
     bg: AT&T
     bs: AT&T
     ca: AT&T
@@ -201,12 +201,12 @@ dv_has_:
     cy: AT&T
     da: AT&T
     de: AT&T
-    de-ch: AT&T
+    de_ch: AT&T
     dty: एटी एन्ड टी
     el: AT&T
     en: AT&T
-    en-ca: AT&T
-    en-gb: AT&T
+    en_ca: AT&T
+    en_gb: AT&T
     eo: AT&T
     es: AT&T
     et: AT&T
@@ -245,7 +245,7 @@ dv_has_:
     oc: AT&T
     pl: AT&T
     pt: AT&T
-    pt-br: AT&T
+    pt_br: AT&T
     ro: AT&T
     ru: AT&T
     sah: ATT
@@ -270,9 +270,9 @@ dv_has_:
     wuu: AT&T
     yue: AT&T
     zh: AT&T
-    zh-cn: AT&T
-    zh-hans: AT&T
-    zh-hant: AT&T
+    zh_cn: AT&T
+    zh_hans: AT&T
+    zh_hant: AT&T
 ---
 # [[AT&T]] 
 

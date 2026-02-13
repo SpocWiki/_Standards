@@ -46,7 +46,7 @@ dv_has_:
     ar: لعبة الباتشيسي
     ast: Pachisi
     ba: Пачиси
-    be-tarask: пачысі
+    be_tarask: пачысі
     bn: পচ্চিসি
     ca: pachisi
     cs: Pačísí
@@ -81,9 +81,9 @@ dv_has_:
     wuu: 印度十字戏
     yue: 印度十字棋
     zh: 印度十字戲
-    zh-hans: 印度十字戏
-    zh-hant: 印度十字戲
-    zh-hk: 印度十字戲
+    zh_hans: 印度十字戏
+    zh_hant: 印度十字戲
+    zh_hk: 印度十字戲
 ---
 # [[Pachisi]] 
 

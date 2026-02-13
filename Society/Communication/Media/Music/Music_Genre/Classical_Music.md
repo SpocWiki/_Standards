@@ -176,7 +176,7 @@ dv_has_:
     ba: классик музыка
     bar: klassische Musi
     be: класічная музыка
-    be-tarask: клясычная музыка
+    be_tarask: клясычная музыка
     bg: класическа музика
     bn: পাশ্চাত্য ধ্রুপদী সঙ্গীত
     bo: གནའ་གཞུང་རོལ་དབྱངས།
@@ -197,8 +197,8 @@ dv_has_:
     diq: muziko klasik
     el: κλασική μουσική
     en: classical music
-    en-ca: classical music
-    en-gb: classical music
+    en_ca: classical music
+    en_gb: classical music
     en-us: western classical music
     eo: klasika muziko
     es: música clásica
@@ -261,7 +261,7 @@ dv_has_:
     nan: se-iûⁿ kó͘-tián im-ga̍k
     nb: klassisk musikk
     nds: Klassische Musik
-    nds-nl: klassike musik
+    nds_nl: klassike musik
     ne: भारतीय शास्त्रीय संगीत
     new: युरोपेली शास्त्रीय संगीत
     nl: klassieke muziek
@@ -274,7 +274,7 @@ dv_has_:
     pnb: کلاسیکی موسیقی
     ps: پخوانۍ موسيقي
     pt: música clássica
-    pt-br: música clássica
+    pt_br: música clássica
     qu: klasiku musika
     ro: muzică clasică
     ru: классическая музыка
@@ -292,8 +292,8 @@ dv_has_:
     sl: klasična glasba
     sq: muzika klasike
     sr: класична музика
-    sr-ec: класична музика
-    sr-el: klasična muzika
+    sr_ec: класична музика
+    sr_el: klasična muzika
     su: Musik klasik
     sv: klassisk musik
     sw: muziki wa klasiki
@@ -317,10 +317,10 @@ dv_has_:
     yi: קלאסישע מוזיק
     yue: 古典樂
     zh: 古典音樂
-    zh-cn: 古典音乐
-    zh-hans: 古典音乐
-    zh-hant: 古典音樂
-    zh-tw: 古典音樂
+    zh_cn: 古典音乐
+    zh_hans: 古典音乐
+    zh_hant: 古典音樂
+    zh_tw: 古典音樂
 ---
 [[Classical_Music]] 
 

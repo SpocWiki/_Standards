@@ -101,7 +101,7 @@ dv_has_:
     az: Cesse Ouens
     bcl: Jesse Owens
     be: Джэсі Оўэнс
-    be-tarask: Джэсі Оўэнз
+    be_tarask: Джэсі Оўэнз
     bg: Джеси Оуенс
     bn: জেসি ওয়েন্স
     br: Jesse Owens
@@ -112,8 +112,8 @@ dv_has_:
     de: Jesse Owens
     el: Τζέσε Όουενς
     en: Jesse Owens
-    en-ca: Jesse Owens
-    en-gb: Jesse Owens
+    en_ca: Jesse Owens
+    en_gb: Jesse Owens
     eo: Jesse Owens
     es: Jesse Owens
     et: Jesse Owens
@@ -155,7 +155,7 @@ dv_has_:
     pl: Jesse Owens
     pnb: جیسی اوونز
     pt: Jesse Owens
-    pt-br: Jesse Owens
+    pt_br: Jesse Owens
     qu: Jesse Owens
     ro: Jesse Owens
     ru: Джесси Оуэнс
@@ -166,7 +166,7 @@ dv_has_:
     sl: Jesse Owens
     sq: Jesse Owens
     sr: Џеси Овенс
-    sr-ec: Џеси Овенс
+    sr_ec: Џеси Овенс
     sv: Jesse Owens
     sw: Jesse Owens
     ta: ஜெசி ஓவென்ஸ்
@@ -182,10 +182,10 @@ dv_has_:
     yo: Jesse Owens
     yue: 謝斯奧雲斯
     zh: 杰西·欧文斯
-    zh-cn: 杰西·欧文斯
-    zh-hans: 杰西·欧文斯
-    zh-hant: 傑西·歐文斯
-    zh-tw: 傑西·歐文斯
+    zh_cn: 杰西·欧文斯
+    zh_hans: 杰西·欧文斯
+    zh_hant: 傑西·歐文斯
+    zh_tw: 傑西·歐文斯
 ---
 # [[Jesse_Owens]] 
 

@@ -141,7 +141,7 @@ water_footprint:
 - 5053
 dv_has_:
   name_:
-    aeb-arab: كعبة لوبيا
+    aeb_arab: كعبة لوبيا
     af: boontjie
     ann: ngọti
     ar: فاصولياء
@@ -151,7 +151,7 @@ dv_has_:
     bar: Fisel
     bdr: batung
     be: бабы
-    be-tarask: струк
+    be_tarask: струк
     bg: зърнено-бобови култури
     bn: শিম
     bs: grah
@@ -159,18 +159,18 @@ dv_has_:
     chy: monêškeho
     ckb: فاسۆلیا
     crh: baqla
-    crh-latn: baqla
+    crh_latn: baqla
     cs: fazole
     cv: пăрçа
     cy: ffeuen
     da: bønne
     dag: waakye
     de: Bohne
-    de-ch: Bohne
+    de_ch: Bohne
     el: φασόλι
     en: bean
-    en-ca: bean
-    en-gb: bean
+    en_ca: bean
+    en_gb: bean
     eo: fazeolo
     es: legumbre
     et: uba
@@ -220,7 +220,7 @@ dv_has_:
     pdc: Buhn
     pl: fasola
     pt: feijão
-    pt-br: feijão
+    pt_br: feijão
     rki: ပဲ
     ru: бобы
     sat: ᱢᱟᱞᱦᱟᱱ
@@ -248,12 +248,12 @@ dv_has_:
     yo: ẹ̀wà
     yue: 豆類
     zh: 豆类
-    zh-cn: 豆类
-    zh-hans: 豆类
-    zh-hant: 豆類
-    zh-hk: 豆類
-    zh-sg: 豆类
-    zh-tw: 豆類
+    zh_cn: 豆类
+    zh_hans: 豆类
+    zh_hant: 豆類
+    zh_hk: 豆類
+    zh_sg: 豆类
+    zh_tw: 豆類
     zu: ubhontshisi
 ---
 # [[Bean]] 🫘 

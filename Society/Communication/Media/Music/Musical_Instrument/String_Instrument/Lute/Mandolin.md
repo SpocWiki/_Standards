@@ -89,7 +89,7 @@ dv_has_:
     az: Mandolina
     ba: Мандолина
     be: мандаліна
-    be-tarask: мандаліна
+    be_tarask: мандаліна
     bg: мандолина
     bn: ম্যান্ডোলিন
     br: Mandolinenn
@@ -170,7 +170,7 @@ dv_has_:
     wuu: 曼陀林
     yue: 曼陀鈴
     zh: 曼陀林
-    zh-hant: 曼陀林
+    zh_hant: 曼陀林
 ---
 # [[Mandolin]] 
 

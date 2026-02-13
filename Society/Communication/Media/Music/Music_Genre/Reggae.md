@@ -90,7 +90,7 @@ dv_has_:
     ba: регги
     bar: Reggae
     be: рэгі
-    be-tarask: рэгі
+    be_tarask: рэгі
     bg: реге
     bho: रेगे
     bn: রেগে
@@ -156,7 +156,7 @@ dv_has_:
     nan: Reggae
     nb: reggae
     nds: Reggae
-    nds-nl: reggae
+    nds_nl: reggae
     new: रेगे
     nl: reggae
     nn: reggae
@@ -204,7 +204,7 @@ dv_has_:
     yo: Reggae
     yue: 雷鬼樂
     zh: 雷鬼音樂
-    zh-hant: 雷鬼音樂
+    zh_hant: 雷鬼音樂
 ---
 # [[Reggae]] 
 

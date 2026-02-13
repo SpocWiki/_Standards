@@ -76,7 +76,7 @@ dv_has_:
     az: Rezonans
     ba: Резонанс
     be: рэзананс
-    be-tarask: рэзананс
+    be_tarask: рэзананс
     bg: Резонанс
     bn: অনুনাদ
     bs: Rezonanca
@@ -89,8 +89,8 @@ dv_has_:
     de: Resonanz
     el: συντονισμός
     en: resonance
-    en-ca: Resonance
-    en-gb: Resonance
+    en_ca: Resonance
+    en_gb: Resonance
     eo: resonanco
     es: resonancia
     et: resonants
@@ -111,11 +111,11 @@ dv_has_:
     ja: 共鳴
     ka: რეზონანსი
     kk: Резонанс
-    kk-arab: رەزونانس
+    kk_arab: رەزونانس
     kk-cn: رەزونانس
-    kk-cyrl: Резонанс
+    kk_cyrl: Резонанс
     kk-kz: Резонанс
-    kk-latn: Rezonans
+    kk_latn: Rezonans
     kk-tr: Rezonans
     kn: ಅನುರಣನೆ
     ko: 공명
@@ -132,7 +132,7 @@ dv_has_:
     nn: resonans
     pl: rezonans
     pt: ressonância
-    pt-br: Ressonância
+    pt_br: Ressonância
     ro: Rezonanță
     ru: резонанс
     se: resonánsa
@@ -144,8 +144,8 @@ dv_has_:
     sms: resonanss
     sq: Rezonanca
     sr: резонанција
-    sr-ec: Резонанција
-    sr-el: Rezonancija
+    sr_ec: Резонанција
+    sr_el: Rezonancija
     sv: resonans
     ta: ஒத்திசைவு
     te: అనునాదం
@@ -159,12 +159,12 @@ dv_has_:
     wuu: 共振
     yue: 共振
     zh: 共振
-    zh-cn: 共振
-    zh-hans: 共振
-    zh-hant: 共振
-    zh-hk: 共振
-    zh-sg: 共振
-    zh-tw: 共振
+    zh_cn: 共振
+    zh_hans: 共振
+    zh_hant: 共振
+    zh_hk: 共振
+    zh_sg: 共振
+    zh_tw: 共振
 ---
 # [[Resonance]] 
 

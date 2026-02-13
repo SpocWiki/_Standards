@@ -117,7 +117,7 @@ dv_has_:
     ast: Mica
     az: Mikalar
     be: слюды
-    be-tarask: Лушчак
+    be_tarask: Лушчак
     bg: Слюди
     bn: অভ্র
     ca: mica
@@ -126,11 +126,11 @@ dv_has_:
     cy: mica
     da: glimmer
     de: Glimmergruppe
-    de-ch: Glimmergruppe
+    de_ch: Glimmergruppe
     el: Μαρμαρυγίες
     en: mica
-    en-ca: mica
-    en-gb: mica
+    en_ca: mica
+    en_gb: mica
     eo: glimo
     es: mica
     et: vilgud
@@ -176,7 +176,7 @@ dv_has_:
     pl: miki
     pnb: ابرق
     pt: mica
-    pt-br: mica
+    pt_br: mica
     ro: Mică
     ru: слюды
     sah: Сүлүүдэ

@@ -451,7 +451,7 @@ dv_has_:
     ab: Гвинеиа
     ace: Guinea
     ady: Гвинейе
-    aeb-arab: غينيا
+    aeb_arab: غينيا
     af: Guinee
     am: ጊኔ
     ami: Guinea
@@ -471,7 +471,7 @@ dv_has_:
     bar: Guinea
     bcl: Guineya
     be: Гвінея
-    be-tarask: Гвінэя
+    be_tarask: Гвінэя
     bew: Giné
     bg: Гвинея
     bho: गिनी
@@ -485,14 +485,14 @@ dv_has_:
     bs: Gvineja
     bxr: Гвиней
     ca: Guinea
-    cbk-zam: Guinea
+    cbk_zam: Guinea
     cdo: Guinea
     ce: Гвине
     ceb: Guinea
     ckb: گینێ
     co: Republica di Guinea
     crh: Gvineya
-    crh-latn: Gvineya
+    crh_latn: Gvineya
     cs: Guinea
     csb: Gwineja
     cv: Гвиней
@@ -501,7 +501,7 @@ dv_has_:
     dag: Guinea
     de: Guinea
     de-at: Guinea
-    de-ch: Guinea
+    de_ch: Guinea
     dga: Guinea
     diq: Gine
     dsb: Guineja
@@ -510,8 +510,8 @@ dv_has_:
     ee: Guinea
     el: Γουινέα
     en: Guinea
-    en-ca: Guinea
-    en-gb: Guinea
+    en_ca: Guinea
+    en_gb: Guinea
     eo: Gvineo
     es: Guinea
     et: Guinea
@@ -590,7 +590,7 @@ dv_has_:
     lt: Gvinėja
     lv: Gvineja
     lzh: 幾內亞
-    map-bms: Guinea
+    map_bms: Guinea
     mdf: Гвинэя
     mg: Ginea
     mhr: Гвиней
@@ -612,7 +612,7 @@ dv_has_:
     nan: Guinea
     nb: Guinea
     nds: Guinea
-    nds-nl: Guinea
+    nds_nl: Guinea
     ne: गिनी
     new: गिनी
     nl: Guinee
@@ -636,7 +636,7 @@ dv_has_:
     pnb: گنی
     ps: ګينه
     pt: Guiné
-    pt-br: Guiné
+    pt_br: Guiné
     qu: Khiniya
     rmy: Guineya
     ro: Guineea
@@ -667,8 +667,8 @@ dv_has_:
     so: Guinea
     sq: Guinea
     sr: Гвинеја
-    sr-ec: Гвинеја
-    sr-el: Gvineja
+    sr_ec: Гвинеја
+    sr_el: Gvineja
     ss: IGiniya
     st: Guinea
     stq: Guinea
@@ -715,13 +715,13 @@ dv_has_:
     zea: Guinee
     zgh: ⴳⵉⵏⵢⴰ
     zh: 几内亚
-    zh-cn: 几内亚
-    zh-hans: 几内亚
-    zh-hant: 幾內亞
-    zh-hk: 畿內亞
-    zh-mo: 畿內亞
-    zh-sg: 几内亚
-    zh-tw: 幾內亞
+    zh_cn: 几内亚
+    zh_hans: 几内亚
+    zh_hant: 幾內亞
+    zh_hk: 畿內亞
+    zh_mo: 畿內亞
+    zh_sg: 几内亚
+    zh_tw: 幾內亞
     zu: IGini
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Guinea

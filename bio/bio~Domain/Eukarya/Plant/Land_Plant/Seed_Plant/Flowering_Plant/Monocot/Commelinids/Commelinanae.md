@@ -41,7 +41,7 @@ dv_has_:
     ast: Commelinales
     az: Kommelinaçiçəklilər
     be: Камелінакветныя
-    be-tarask: Камэлінакветныя
+    be_tarask: Камэлінакветныя
     bg: комелиноцветни
     bs: Commelinales
     ca: Commelinals
@@ -84,7 +84,7 @@ dv_has_:
     oc: Commelinales
     pl: Komelinowce
     pt: Commelinales
-    pt-br: Commelinales
+    pt_br: Commelinales
     ro: Commelinales
     ru: коммелиноцветные
     sl: komelinovci
@@ -98,8 +98,8 @@ dv_has_:
     war: Commelinales
     yue: 鴨蹠草目
     zh: 鸭跖草目
-    zh-cn: 鸭跖草目
-    zh-tw: 鴨跖草目
+    zh_cn: 鸭跖草目
+    zh_tw: 鴨跖草目
 ---
 # [[Commelinanae]] 
 

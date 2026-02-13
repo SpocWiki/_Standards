@@ -181,8 +181,8 @@ USDA_NDB_number:
 dv_has_:
   name_:
     ab: аҷарам
-    aeb-arab: كعبة مشماش
-    aeb-latn: mech'mèch'
+    aeb_arab: كعبة مشماش
+    aeb_latn: mech'mèch'
     af: appelkoos
     an: alberje
     ar: مشمش
@@ -194,7 +194,7 @@ dv_has_:
     az: ərik
     ba: Өрөк (емеш)
     be: абрыкос
-    be-tarask: марэля
+    be_tarask: марэля
     bg: кайсия
     bn: খুবানি
     br: abriko
@@ -204,7 +204,7 @@ dv_has_:
     chr: ᏓᎶᏂᎨ ᎠᏓᏛᏍᎩ
     chy: Ová'kemene
     co: Baracuccu
-    crh-latn: qaysı
+    crh_latn: qaysı
     cs: meruňka
     cy: bricyllen
     da: abrikos
@@ -311,7 +311,7 @@ dv_has_:
     tk: erik
     tr: kayısı
     tt: өрек
-    tt-cyrl: өрек
+    tt_cyrl: өрек
     uk: абрикос
     ur: خوبانی
     vec: armełin

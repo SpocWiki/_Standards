@@ -129,7 +129,7 @@ dv_has_:
     az: Köstəbəklər
     ba: Һуҡыр сысҡан
     be: Кратовыя
-    be-tarask: Кратовыя
+    be_tarask: Кратовыя
     bg: къртицови
     br: Gozeged
     ca: tàlpids
@@ -167,16 +167,16 @@ dv_has_:
     ja: モグラ
     ka: თხუნელასებრნი
     kk: Көртышқан
-    kk-arab: كورتىشقان
+    kk_arab: كورتىشقان
     kk-cn: كورتىشقان
-    kk-cyrl: Көртышқан
+    kk_cyrl: Көртышқан
     kk-kz: Көртышқан
-    kk-latn: Körtışqan
+    kk_latn: Körtışqan
     kk-tr: Körtışqan
     ko: 두더지
     ku: Koremişk
-    ku-arab: کۆرەمشک
-    ku-latn: Koremişk
+    ku_arab: کۆرەمشک
+    ku_latn: Koremişk
     kv: Муош
     ky: Көрчычкандар
     la: Talpidae
@@ -198,7 +198,7 @@ dv_has_:
     os: Куырм мыст
     pl: Kretowate
     pt: Talpidae
-    pt-br: Talpidae
+    pt_br: Talpidae
     ro: Cârtiță
     rsk: Кертица
     ru: Кротовые
@@ -207,12 +207,12 @@ dv_has_:
     sl: krti
     sq: Urithi
     sr: Кртице
-    sr-ec: Talpidae
-    sr-el: Talpidae
+    sr_ec: Talpidae
+    sr_el: Talpidae
     sv: Talpidae
     szy: mamuemu
     tg: Кӯрмуш
-    tg-latn: Kūrmuş
+    tg_latn: Kūrmuş
     th: ตุ่น
     tl: Talpidae
     tr: Köstebekgiller
@@ -228,12 +228,12 @@ dv_has_:
     yue: 鼴鼠
     za: Duzhaet
     zh: 鼴科
-    zh-cn: 鼹科
-    zh-hans: 鼹科
-    zh-hant: 鼴科
-    zh-hk: 鼴科
-    zh-sg: 鼹科
-    zh-tw: 鼴科
+    zh_cn: 鼹科
+    zh_hans: 鼹科
+    zh_hant: 鼴科
+    zh_hk: 鼴科
+    zh_sg: 鼹科
+    zh_tw: 鼴科
 ---
 # [[Talpidae]] 
 

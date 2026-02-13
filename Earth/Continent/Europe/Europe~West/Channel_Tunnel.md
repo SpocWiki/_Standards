@@ -165,7 +165,7 @@ dv_has_:
     ast: Eurotúnel
     az: La-Manş tuneli
     be: Еўратунэль
-    be-tarask: Эўратунэль
+    be_tarask: Эўратунэль
     bg: Тунел под Ла Манш
     bn: চ্যানেল টানেল
     ca: Eurotúnel
@@ -174,13 +174,13 @@ dv_has_:
     cy: Twnnel y Sianel
     da: Eurotunnelen
     de: Eurotunnel
-    de-ch: Eurotunnel
+    de_ch: Eurotunnel
     diq: Tunelê Manşi
     dv: ޗެނަލް ޓަނެލް
     el: Σήραγγα της Μάγχης
     en: Channel Tunnel
-    en-ca: Channel Tunnel
-    en-gb: Channel Tunnel
+    en_ca: Channel Tunnel
+    en_gb: Channel Tunnel
     eo: Manika Tunelo
     es: Eurotúnel
     et: Eurotunnel
@@ -225,7 +225,7 @@ dv_has_:
     pl: Eurotunel
     pnb: چینل سرنگ
     pt: Eurotúnel
-    pt-br: Eurotúnel
+    pt_br: Eurotúnel
     ro: Tunelul Canalului Mânecii
     ru: Евротоннель
     sah: Евротоннель
@@ -235,8 +235,8 @@ dv_has_:
     sl: predor pod Rokavskim prelivom
     sq: Eurotuneli
     sr: Евротунел
-    sr-ec: Евротунел
-    sr-el: Evrotunel
+    sr_ec: Евротунел
+    sr_el: Evrotunel
     sv: Kanaltunneln
     ta: கால்வாய் சுரங்கம்
     th: อุโมงค์ช่องแคบอังกฤษ
@@ -251,14 +251,14 @@ dv_has_:
     yi: קאנאל טונעל
     yue: 英法海底隧道
     zh: 英法海底隧道
-    zh-cn: 英法海底隧道
-    zh-hans: 英法海底隧道
-    zh-hant: 英法海底隧道
-    zh-hk: 英法海底隧道
-    zh-mo: 英法海底隧道
+    zh_cn: 英法海底隧道
+    zh_hans: 英法海底隧道
+    zh_hant: 英法海底隧道
+    zh_hk: 英法海底隧道
+    zh_mo: 英法海底隧道
     zh-my: 英法海底隧道
-    zh-sg: 英法海底隧道
-    zh-tw: 英法海底隧道
+    zh_sg: 英法海底隧道
+    zh_tw: 英法海底隧道
 ---
 # [[Channel_Tunnel]] 
 

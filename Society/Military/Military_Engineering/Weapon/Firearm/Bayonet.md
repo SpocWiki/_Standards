@@ -79,7 +79,7 @@ dv_has_:
     az: Süngü
     ba: штык
     be: Багнет
-    be-tarask: багнет
+    be_tarask: багнет
     bg: щик
     bn: বায়োনেট
     br: baionetez
@@ -110,11 +110,11 @@ dv_has_:
     it: baionetta
     ja: 銃剣
     jv: bayonèt
-    kk-arab: نايزا
+    kk_arab: نايزا
     kk-cn: نايزا
-    kk-cyrl: найза
+    kk_cyrl: найза
     kk-kz: найза
-    kk-latn: naýza
+    kk_latn: naýza
     kk-tr: naýza
     ko: 총검
     lmo: bajonetta
@@ -137,8 +137,8 @@ dv_has_:
     sl: bajonet
     sq: bajoneta
     sr: бајонет
-    sr-ec: бајонет
-    sr-el: bajonet
+    sr_ec: бајонет
+    sr_el: bajonet
     sv: bajonett
     szl: Bajōnet
     ta: சுரிகை
@@ -150,12 +150,12 @@ dv_has_:
     wuu: 刺刀
     yue: 刺刀
     zh: 刺刀
-    zh-cn: 刺刀
-    zh-hans: 刺刀
-    zh-hant: 刺刀
-    zh-hk: 刺刀
-    zh-sg: 刺刀
-    zh-tw: 刺刀
+    zh_cn: 刺刀
+    zh_hans: 刺刀
+    zh_hant: 刺刀
+    zh_hk: 刺刀
+    zh_sg: 刺刀
+    zh_tw: 刺刀
 ---
 # [[Bayonet]] 
 

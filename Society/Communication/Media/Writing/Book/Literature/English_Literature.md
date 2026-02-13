@@ -117,7 +117,7 @@ dv_has_:
     az: İngilis ədəbiyyatı
     azb: اینگیلیس ادبیاتی
     be: англійская літаратура
-    be-tarask: ангельская літаратура
+    be_tarask: ангельская літаратура
     bg: Английска литература
     bho: अंग्रेजी साहित्य
     bn: ইংরেজি সাহিত্য
@@ -130,7 +130,7 @@ dv_has_:
     de: englischsprachige Literatur
     el: Αγγλική λογοτεχνία
     en: English-language literature
-    en-gb: English literature
+    en_gb: English literature
     en-us: English literature
     eo: anglalingva literaturo
     es: literatura en inglés
@@ -175,7 +175,7 @@ dv_has_:
     pnb: انگریزی ادب
     ps: انګلیسي ادبیات
     pt: literatura em inglês
-    pt-br: literatura em inglês
+    pt_br: literatura em inglês
     ro: literatură engleză
     ru: английская литература
     sco: Inglis leeteratur
@@ -199,12 +199,12 @@ dv_has_:
     wuu: 英语文学
     yue: 英文文學
     zh: 英語文學
-    zh-cn: 英语文学
-    zh-hans: 英语文学
-    zh-hant: 英語文學
-    zh-hk: 英語文學
-    zh-sg: 英语文学
-    zh-tw: 英語文學
+    zh_cn: 英语文学
+    zh_hans: 英语文学
+    zh_hant: 英語文學
+    zh_hk: 英語文學
+    zh_sg: 英语文学
+    zh_tw: 英語文學
 ---
 # [[English_Literature]] 
 

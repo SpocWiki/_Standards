@@ -147,7 +147,7 @@ dv_has_:
     az: Virtual reallıq
     azb: مجازی واقعیت
     be: віртуальная рэальнасць
-    be-tarask: віртуальная рэальнасьць
+    be_tarask: віртуальная рэальнасьць
     bg: Виртуална реалност
     bn: অপ্রকৃত বাস্তবতা
     bo: རྟོག་བཟོས་དངོས་ཡོད་ཁོར་ཡུག་ཅེས་པ་
@@ -160,7 +160,7 @@ dv_has_:
     de: virtuelle Realität
     el: Εικονική πραγματικότητα
     en: virtual reality
-    en-gb: virtual reality
+    en_gb: virtual reality
     eo: virtuala realeco
     es: realidad virtual
     et: virtuaalreaalsus
@@ -185,11 +185,11 @@ dv_has_:
     jv: Kasunyatan amurta
     ka: ვირტუალური რეალობა
     kk: Виртуалды шындық
-    kk-arab: ۆىيرتۋالدى شىندىق
+    kk_arab: ۆىيرتۋالدى شىندىق
     kk-cn: ۆىيرتۋالدى شىندىق
-    kk-cyrl: Виртуалды шындық
+    kk_cyrl: Виртуалды шындық
     kk-kz: Виртуалды шындық
-    kk-latn: Vïrtwaldı şındıq
+    kk_latn: Vïrtwaldı şındıq
     kk-tr: Vïrtwaldı şındıq
     kn: ವರ್ಚುಯಲ್ ರಿಯಾಲಿಟಿ
     ko: 가상 현실
@@ -201,11 +201,11 @@ dv_has_:
     ml: വെർച്വൽ റിയാലിറ്റി
     mn: Виртуал бодит байдал
     ms: realiti maya
-    ms-arab: رياليتي ماي
+    ms_arab: رياليتي ماي
     my: အသွင်ယောင် ပကတိ
     nan: Hi-gí si̍t-kéng
     nb: virtuell virkelighet
-    nds-nl: virtuele warkelikheid
+    nds_nl: virtuele warkelikheid
     nl: virtual reality
     oc: Realitat virtuala
     pa: ਆਭਾਸੀ ਅਸਲੀਅਤ
@@ -224,8 +224,8 @@ dv_has_:
     sms: virtuaalʼlaž tuõttvuõtt
     sq: Realiteti virtual
     sr: виртуелна стварност
-    sr-ec: Виртуелна стварност
-    sr-el: Virtuelna stvarnost
+    sr_ec: Виртуелна стварност
+    sr_el: Virtuelna stvarnost
     sv: virtuell verklighet
     ta: தோற்ற மெய்மை
     te: వర్చువల్ రియాలిటీ
@@ -240,13 +240,13 @@ dv_has_:
     wuu: 虚拟现实
     yue: 虛擬實境
     zh: 虚拟现实
-    zh-cn: 虚拟现实
-    zh-hans: 虚拟现实
-    zh-hant: 虛擬實境
-    zh-hk: 虛擬實境
+    zh_cn: 虚拟现实
+    zh_hans: 虚拟现实
+    zh_hant: 虛擬實境
+    zh_hk: 虛擬實境
     zh-my: 虚拟实境
-    zh-sg: 虚拟实境
-    zh-tw: 虛擬實境
+    zh_sg: 虚拟实境
+    zh_tw: 虛擬實境
     zu: Indwalazo
 ---
 # [[Virtual_Reality]] 

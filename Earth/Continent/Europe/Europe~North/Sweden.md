@@ -18,7 +18,7 @@ dv_has_:
     ab: Швециа
     ace: Swèdia
     ady: Швецие
-    aeb-arab: السويد
+    aeb_arab: السويد
     af: Swede
     am: ስዊድን
     ami: Sweden
@@ -44,7 +44,7 @@ dv_has_:
     bar: Schwedn
     bcl: Suesya
     be: Швецыя
-    be-tarask: Швэцыя
+    be_tarask: Швэцыя
     bew: Swèden
     bg: Швеция
     bgn: سویڈن
@@ -58,7 +58,7 @@ dv_has_:
     bs: Švedska
     bxr: Швед
     ca: Suècia
-    cbk-zam: Suecia
+    cbk_zam: Suecia
     cdo: Sôi-diēng
     ce: Швеци
     ceb: Suwesya
@@ -68,7 +68,7 @@ dv_has_:
     ckb: سوێد
     co: Svezia
     crh: İsveçiya
-    crh-latn: İsveçiya
+    crh_latn: İsveçiya
     cs: Švédsko
     csb: Szwedzkô
     cu: Свєньско
@@ -78,7 +78,7 @@ dv_has_:
     dag: Sweden
     de: Schweden
     de-at: Schweden
-    de-ch: Schweden
+    de_ch: Schweden
     diq: İswec
     dsb: Šwedska
     dty: स्वीडेन
@@ -88,8 +88,8 @@ dv_has_:
     el: Σουηδία
     eml: Śvèsia
     en: Sweden
-    en-ca: Sweden
-    en-gb: Sweden
+    en_ca: Sweden
+    en_gb: Sweden
     eo: Svedio
     es: Suecia
     et: Rootsi
@@ -116,7 +116,7 @@ dv_has_:
     gn: Suésia
     gom: स्विडन
     gom-deva: स्विडन
-    gom-latn: Sweden
+    gom_latn: Sweden
     gor: Swedia
     got: "\U00010343\U00010345\U00010334\U00010330\U00010342\U00010334\U00010339\U0001033A\U00010339"
     gpe: Sweden
@@ -172,7 +172,7 @@ dv_has_:
     ks: سِوڈَن
     ksh: Shvede
     ku: Swêd
-    ku-latn: Swêd
+    ku_latn: Swêd
     kv: Швеция
     kw: Swedherwyk
     ky: Швеция
@@ -196,7 +196,7 @@ dv_has_:
     lzh: 瑞典
     mad: Swedia
     mai: स्वीडेन
-    map-bms: Swedia
+    map_bms: Swedia
     mdf: Шведмастор
     mg: Soeda
     mhr: Швеций
@@ -209,7 +209,7 @@ dv_has_:
     mos: Sweden
     mr: स्वीडन
     ms: Sweden
-    ms-arab: سويدن
+    ms_arab: سويدن
     mt: Żvezja
     mwl: Suécia
     my: ဆွီဒင်နိုင်ငံ
@@ -221,7 +221,7 @@ dv_has_:
     nap: Sguezia
     nb: Sverige
     nds: Sweden
-    nds-nl: Sveden
+    nds_nl: Sveden
     ne: स्विडेन
     new: स्वीडेन
     nl: Zweden
@@ -249,7 +249,7 @@ dv_has_:
     prg: Šwēdija
     ps: سويډن
     pt: Suécia
-    pt-br: Suécia
+    pt_br: Suécia
     qu: Suwidsuyu
     rm: Svezia
     rmf: Sveediko them
@@ -287,8 +287,8 @@ dv_has_:
     so: Iswiidhan
     sq: Suedia
     sr: Шведска
-    sr-ec: Шведска
-    sr-el: Švedska
+    sr_ec: Шведска
+    sr_el: Švedska
     srn: Swerigekondre
     ss: ISwideni
     st: Sweden
@@ -303,7 +303,7 @@ dv_has_:
     te: స్వీడన్
     tet: Suésia
     tg: Суэд
-    tg-cyrl: Шведсия
+    tg_cyrl: Шведсия
     th: ประเทศสวีเดน
     ti: ሽወደን
     tk: Şwesiýa
@@ -344,14 +344,14 @@ dv_has_:
     zea: Zweden
     zgh: ⵙⵡⵉⴷ
     zh: 瑞典
-    zh-cn: 瑞典
-    zh-hans: 瑞典
-    zh-hant: 瑞典
-    zh-hk: 瑞典
-    zh-mo: 瑞典
+    zh_cn: 瑞典
+    zh_hans: 瑞典
+    zh_hant: 瑞典
+    zh_hk: 瑞典
+    zh_mo: 瑞典
     zh-my: 瑞典
-    zh-sg: 瑞典
-    zh-tw: 瑞典
+    zh_sg: 瑞典
+    zh_tw: 瑞典
     zu: ISwidi
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Sweden

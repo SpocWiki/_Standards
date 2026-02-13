@@ -78,7 +78,7 @@ dv_has_:
     ast: Futurismu
     az: futurizm
     be: футурызм
-    be-tarask: футурызм
+    be_tarask: футурызм
     bg: Футуризъм
     bs: Futurizam
     ca: futurisme
@@ -118,7 +118,7 @@ dv_has_:
     mk: футуризам
     mn: Футуризм
     ms: futurisme
-    ms-arab: فوتوريسمى
+    ms_arab: فوتوريسمى
     mt: futuriżmu
     my: အနာဂတ္ထိဝါဒ
     nan: Bī-lâi-phài
@@ -149,8 +149,8 @@ dv_has_:
     smn: futurism
     sms: futurismm
     sr: футуризам
-    sr-ec: футуризам
-    sr-el: futurizam
+    sr_ec: футуризам
+    sr_el: futurizam
     stq: Futurismus
     sv: futurism
     te: ఫ్యూచరిజం
@@ -166,12 +166,12 @@ dv_has_:
     wuu: 未来主义
     yue: 未來主義
     zh: 未来主义
-    zh-cn: 未来主义
-    zh-hans: 未来主义
-    zh-hant: 未來主義
-    zh-hk: 未來主義
-    zh-sg: 未来主义
-    zh-tw: 未來主義
+    zh_cn: 未来主义
+    zh_hans: 未来主义
+    zh_hant: 未來主義
+    zh_hk: 未來主義
+    zh_sg: 未来主义
+    zh_tw: 未來主義
 ---
 # [[Futurism]] 
 

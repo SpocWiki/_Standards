@@ -194,7 +194,7 @@ dv_has_:
     az: Kommunist Partiyasının Manifesti
     azb: کومونیست مانیفستی
     be: Маніфест камуністычнай партыі
-    be-tarask: Маніфэст камуністычнай партыі
+    be_tarask: Маніфэст камуністычнай партыі
     bg: Комунистически манифест
     bjn: Manifesto Komunis
     bn: কমিউনিস্ট ইস্তেহার
@@ -207,13 +207,13 @@ dv_has_:
     cy: Y Maniffesto Comiwnyddol
     da: Det Kommunistiske Manifest
     de: Manifest der Kommunistischen Partei
-    de-ch: Manifest der Kommunistischen Partei
+    de_ch: Manifest der Kommunistischen Partei
     diq: Manifestoyo Komunist
     el: Το Κομμουνιστικό Μανιφέστο
     eml: Manifèst dal Partî Comunìsta
     en: The Communist Manifesto
-    en-ca: The Communist Manifesto
-    en-gb: The Communist Manifesto
+    en_ca: The Communist Manifesto
+    en_gb: The Communist Manifesto
     eo: Manifesto de la Komunista Partio
     es: Manifiesto del Partido Comunista
     et: Kommunistliku partei manifest
@@ -264,7 +264,7 @@ dv_has_:
     pa: ਕਮਿਉਨਿਸਟ ਪਾਰਟੀ ਦਾ ਮੈਨੀਫੈਸਟੋ
     pl: Manifest komunistyczny
     pt: Manifesto Comunista
-    pt-br: Manifesto Comunista
+    pt_br: Manifesto Comunista
     qu: Kumunista Maniphistu
     rm: Manifest da la Partida communistica
     ro: Manifestul comunist
@@ -277,7 +277,7 @@ dv_has_:
     sl: Komunistični manifest
     sq: Manifesti Komunist
     sr: Комунистички манифест
-    sr-ec: Комунистички манифест
+    sr_ec: Комунистички манифест
     sv: Kommunistiska manifestet
     ta: பொதுவுடமை அறிக்கை
     te: కమ్యూనిస్టు ప్రణాళిక

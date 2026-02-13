@@ -93,7 +93,7 @@ dv_has_:
     av: Амун
     az: Amon
     be: Амон
-    be-tarask: Амон
+    be_tarask: Амон
     bg: Амон
     bn: আমুন
     bo: ཨ་མོན།
@@ -109,7 +109,7 @@ dv_has_:
     diq: Amon
     el: Άμων
     en: Amun
-    en-gb: Amun
+    en_gb: Amun
     eo: Amon-Reo
     es: Amón
     et: Amon
@@ -132,7 +132,7 @@ dv_has_:
     ka: ამონი
     ko: 아문
     ku: Amon
-    ku-latn: Amon
+    ku_latn: Amon
     la: Ammon
     lt: Amonas
     lv: Amons

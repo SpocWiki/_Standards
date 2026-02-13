@@ -391,7 +391,7 @@ dv_has_:
     ab: Гаиана
     ace: Guyana
     ady: Гайанэ
-    aeb-arab: ڨيانا
+    aeb_arab: ڨيانا
     af: Guyana
     am: ጋያና
     ami: Guyana
@@ -412,7 +412,7 @@ dv_has_:
     bbc: Guyana
     bcl: Guyana
     be: Гаяна
-    be-tarask: Гаяна
+    be_tarask: Гаяна
     bew: Guyana
     bg: Гаяна
     bho: गयाना
@@ -424,7 +424,7 @@ dv_has_:
     bs: Gvajana
     bxr: Гайана
     ca: Guyana
-    cbk-zam: Guyana
+    cbk_zam: Guyana
     cdo: Guyana
     ce: Гайана
     ceb: Guyana
@@ -432,7 +432,7 @@ dv_has_:
     ckb: گویانا
     co: Guyana
     crh: Gayana
-    crh-latn: Gayana
+    crh_latn: Gayana
     cs: Guyana
     cv: Гайана
     cy: Gaiana
@@ -440,7 +440,7 @@ dv_has_:
     dag: Guyana
     de: Guyana
     de-at: Guyana
-    de-ch: Guyana
+    de_ch: Guyana
     diq: Guyana
     dsb: Guyana
     dty: गुयना
@@ -448,8 +448,8 @@ dv_has_:
     ee: Guyana
     el: Γουιάνα
     en: Guyana
-    en-ca: Guyana
-    en-gb: Guyana
+    en_ca: Guyana
+    en_gb: Guyana
     en-us: Guyana
     eo: Gujano
     es: Guyana
@@ -474,7 +474,7 @@ dv_has_:
     gn: Gujána
     gom: गयाना
     gom-deva: गयाना
-    gom-latn: Guyana
+    gom_latn: Guyana
     got: "\U00010335\U00010330\U0001033E\U00010330\U0001033D\U00010330"
     gpe: Guyana
     gsw: Guyana
@@ -532,7 +532,7 @@ dv_has_:
     lv: Gajāna
     lzh: 圭亞那
     mad: Guyana
-    map-bms: Guyana
+    map_bms: Guyana
     mdf: Гайана
     mg: Goiana
     mhr: Гайана
@@ -553,7 +553,7 @@ dv_has_:
     nan: Guyana
     nb: Guyana
     nds: Guyana
-    nds-nl: Guyana
+    nds_nl: Guyana
     ne: गुयना
     new: गायना
     nl: Guyana
@@ -575,7 +575,7 @@ dv_has_:
     pnb: گویانا
     ps: ګويانا
     pt: Guiana
-    pt-br: Guiana
+    pt_br: Guiana
     qu: Wayana
     rki: ဂိုင်ယာနာသမ္မတနိုင်ငံ
     rmy: Guyana
@@ -605,8 +605,8 @@ dv_has_:
     so: Guyana
     sq: Guajana
     sr: Гвајана
-    sr-ec: Гвајана
-    sr-el: Gvajana
+    sr_ec: Гвајана
+    sr_el: Gvajana
     srn: Kayanakondre
     stq: Guyana
     su: Guyana
@@ -652,12 +652,12 @@ dv_has_:
     za: Gveihyanaz
     zea: Huyana
     zh: 圭亚那
-    zh-cn: 圭亚那
-    zh-hans: 圭亚那
-    zh-hant: 圭亞那
-    zh-hk: 圭亞那
-    zh-mo: 圭亞那
-    zh-tw: 蓋亞那
+    zh_cn: 圭亚那
+    zh_hans: 圭亚那
+    zh_hant: 圭亞那
+    zh_hk: 圭亞那
+    zh_mo: 圭亞那
+    zh_tw: 蓋亞那
     zu: i-Guyana
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Guyana

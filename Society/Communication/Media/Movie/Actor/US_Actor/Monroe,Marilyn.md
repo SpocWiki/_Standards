@@ -191,7 +191,7 @@ dv_has_:
     bar: Marilyn Monroe
     bcl: Marilyn Monroe
     be: Мэрылін Манро
-    be-tarask: Мэрылін Манро
+    be_tarask: Мэрылін Манро
     bew: Marilyn Monroe
     bg: Мерилин Монро
     bi: Marilyn Monroe
@@ -214,15 +214,15 @@ dv_has_:
     da: Marilyn Monroe
     de: Marilyn Monroe
     de-at: Marilyn Monroe
-    de-ch: Marilyn Monroe
+    de_ch: Marilyn Monroe
     diq: Marilyn Monroe
     dtp: Marilyn Monroe
     dty: मर्लिन मुनरो
     el: Μέριλιν Μονρόε
     eml: Marilyn Monroe
     en: Marilyn Monroe
-    en-ca: Marilyn Monroe
-    en-gb: Marilyn Monroe
+    en_ca: Marilyn Monroe
+    en_gb: Marilyn Monroe
     en-us: Marilyn Monroe
     eo: Marilyn Monroe
     es: Marilyn Monroe
@@ -312,7 +312,7 @@ dv_has_:
     nap: Marilyn Monroe
     nb: Marilyn Monroe
     nds: Marilyn Monroe
-    nds-nl: Marilyn Monroe
+    nds_nl: Marilyn Monroe
     ne: मर्लिन मुनरो
     new: म्यारिलीन मुन्रो
     nl: Marilyn Monroe
@@ -333,7 +333,7 @@ dv_has_:
     pnb: مرلن منرو
     ps: ماریلین مونرو
     pt: Marilyn Monroe
-    pt-br: Marilyn Monroe
+    pt_br: Marilyn Monroe
     qu: Marilyn Monroe
     ro: Marilyn Monroe
     ru: Мэрилин Монро
@@ -369,7 +369,7 @@ dv_has_:
     tt: Мэрилин Монро
     tyv: Мэрилин Монро
     ug: مارلىن مونرو
-    ug-arab: مارلىن مونرو
+    ug_arab: مارلىن مونرو
     uk: Мерилін Монро
     ur: مارلن منرو
     uz: Marilyn Monroe
@@ -386,14 +386,14 @@ dv_has_:
     yue: 瑪莉蓮夢露
     za: Marilyn Monroe
     zh: 玛丽莲·梦露
-    zh-cn: 玛丽莲·梦露
-    zh-hans: 玛丽莲·梦露
-    zh-hant: 瑪麗蓮·夢露
-    zh-hk: 瑪麗蓮·夢露
-    zh-mo: 瑪麗蓮·夢露
+    zh_cn: 玛丽莲·梦露
+    zh_hans: 玛丽莲·梦露
+    zh_hant: 瑪麗蓮·夢露
+    zh_hk: 瑪麗蓮·夢露
+    zh_mo: 瑪麗蓮·夢露
     zh-my: 玛丽莲·梦露
-    zh-sg: 玛丽莲·梦露
-    zh-tw: 瑪麗蓮·夢露
+    zh_sg: 玛丽莲·梦露
+    zh_tw: 瑪麗蓮·夢露
 ---
 # [[Monroe,Marilyn]] 
 

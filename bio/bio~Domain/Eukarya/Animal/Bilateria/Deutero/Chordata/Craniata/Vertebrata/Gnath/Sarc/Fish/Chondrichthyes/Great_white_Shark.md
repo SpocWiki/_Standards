@@ -226,7 +226,7 @@ dv_has_:
     azb: بؤیوک آغ کؤپک بالیغی
     ban: kakia putih
     bcl: Dakulang puting pating
-    be-tarask: белая акула
+    be_tarask: белая акула
     bg: голяма бяла акула
     bho: बिसाल सफेद शार्क
     bn: সাদা হাঙ্গর
@@ -239,12 +239,12 @@ dv_has_:
     cy: Morgi mawr gwyn
     da: hvid haj
     de: Weißer Hai
-    de-ch: Weisser Hai
+    de_ch: Weisser Hai
     dv: ފެމުނު މިޔަރު
     el: Λευκός καρχαρίας
     en: great white shark
-    en-ca: Great white shark
-    en-gb: Great white shark
+    en_ca: Great white shark
+    en_gb: Great white shark
     eo: Blanka ŝarko
     es: Carcharodon carcharias
     et: mõrtsukhai
@@ -300,7 +300,7 @@ dv_has_:
     pnb: چٹی وڈی شارک
     ps: لوي سپين شارک
     pt: Tubarão-branco
-    pt-br: Tubarão-branco
+    pt_br: Tubarão-branco
     ro: marele rechin alb
     ru: белая акула
     sco: Great white shairk
@@ -309,8 +309,8 @@ dv_has_:
     sl: beli morski volk
     sq: Carcharodon carcharias
     sr: велика бела ајкула
-    sr-ec: Велика бела ајкула
-    sr-el: Velika bela ajkula
+    sr_ec: Велика бела ајкула
+    sr_el: Velika bela ajkula
     su: Hiu bodas raksasa
     sv: vithaj
     ta: பெருஞ்சுறா
@@ -327,12 +327,12 @@ dv_has_:
     wuu: 大白鲨
     yue: 大白鯊
     zh: 大白鲨
-    zh-cn: 大白鲨
-    zh-hans: 大白鲨
-    zh-hant: 大白鯊
-    zh-hk: 大白鯊
-    zh-sg: 大白鲨
-    zh-tw: 食人鯊
+    zh_cn: 大白鲨
+    zh_hans: 大白鲨
+    zh_hant: 大白鯊
+    zh_hk: 大白鯊
+    zh_sg: 大白鲨
+    zh_tw: 食人鯊
 ---
 # [[Great_white_Shark]]
 

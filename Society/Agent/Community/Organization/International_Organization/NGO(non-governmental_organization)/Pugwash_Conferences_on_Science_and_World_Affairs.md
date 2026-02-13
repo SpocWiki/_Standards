@@ -69,7 +69,7 @@ dv_has_:
     ast: Conferencia Pugwash
     az: Elm və dünya əlaqələri üzrə Paquoş konfransı
     be: Пагуошскі рух навукоўцаў
-    be-tarask: Пагуоскі рух навукоўцаў
+    be_tarask: Пагуоскі рух навукоўцаў
     bg: Пъгуошки конференции за наука и световни проблеми
     ca: Conferències Pugwash de Ciència i Afers Mundials
     cs: Pugwashské konference o vědě a světových záležitostech
@@ -95,11 +95,11 @@ dv_has_:
     ja: パグウォッシュ会議
     ka: პაგუოშის კონფერენციები
     kk: Пагуош қозғалысы
-    kk-arab: پاگۋوش قوزعالىسى
+    kk_arab: پاگۋوش قوزعالىسى
     kk-cn: پاگۋوش قوزعالىسى
-    kk-cyrl: Пагуош қозғалысы
+    kk_cyrl: Пагуош қозғалысы
     kk-kz: Пагуош қозғалысы
-    kk-latn: Pagwoş qozğalısı
+    kk_latn: Pagwoş qozğalısı
     kk-tr: Pagwoş qozğalısı
     ko: 퍼그워시 회의
     ku: Konferansa Pugwash
@@ -122,12 +122,12 @@ dv_has_:
     uk: Пагвоський рух учених
     ur: سائنس اور دنیا وی معاملات پر پگواش کانفرنس
     zh: 帕格沃什科学和世界事务会议
-    zh-cn: 帕格沃什科学和世界事务会议
-    zh-hans: 帕格沃什科学和世界事务会议
-    zh-hant: 帕格沃什科學和世界事務會議
-    zh-hk: 帕格沃什科學和世界事務會議
-    zh-sg: 帕格沃什科学和世界事务会议
-    zh-tw: 帕格沃什科學和世界事務會議
+    zh_cn: 帕格沃什科学和世界事务会议
+    zh_hans: 帕格沃什科学和世界事务会议
+    zh_hant: 帕格沃什科學和世界事務會議
+    zh_hk: 帕格沃什科學和世界事務會議
+    zh_sg: 帕格沃什科学和世界事务会议
+    zh_tw: 帕格沃什科學和世界事務會議
 ---
 # [[Pugwash_Conferences_on_Science_and_World_Affairs]] 
 

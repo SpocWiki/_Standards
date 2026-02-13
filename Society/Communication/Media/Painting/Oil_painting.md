@@ -107,7 +107,7 @@ dv_has_:
     ast: pintar al oleu
     az: yağlı boya rəssamlığı
     be: алейны жывапіс
-    be-tarask: алейны жывапіс
+    be_tarask: алейны жывапіс
     bg: маслена живопис
     bn: তেলরঙ
     br: Eoulliverezh
@@ -119,8 +119,8 @@ dv_has_:
     de: Ölmalerei
     el: ελαιογραφία
     en: oil painting
-    en-ca: Oil painting
-    en-gb: oil painting
+    en_ca: Oil painting
+    en_gb: oil painting
     en-us: oil painting
     eo: oleo-pentrado
     es: pintura al óleo
@@ -164,14 +164,14 @@ dv_has_:
     oc: Pintura a l'òli
     pl: malarstwo olejne
     pt: óleo sobre tela
-    pt-br: Pintura a óleo
+    pt_br: Pintura a óleo
     ro: pictură în ulei
     ru: масляная живопись
     sh: Ulje
     sl: oljno slikarstvo
     sr: уље
-    sr-ec: Уље
-    sr-el: Ulje
+    sr_ec: Уље
+    sr_el: Ulje
     stq: Oulje-Moaleräi
     sv: oljemåleri
     ta: நெய்யோவியம்
@@ -185,12 +185,12 @@ dv_has_:
     wuu: 油画
     yue: 油畫
     zh: 油画
-    zh-cn: 油画
-    zh-hans: 油画
-    zh-hant: 油畫
-    zh-hk: 油畫
-    zh-sg: 油画
-    zh-tw: 油畫
+    zh_cn: 油画
+    zh_hans: 油画
+    zh_hant: 油畫
+    zh_hk: 油畫
+    zh_sg: 油画
+    zh_tw: 油畫
 ---
 # [[Oil_painting]]
 

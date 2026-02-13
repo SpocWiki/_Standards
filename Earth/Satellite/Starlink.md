@@ -90,11 +90,11 @@ dv_has_:
     cs: Starlink
     cy: Starlink
     de: Starlink
-    de-ch: Starlink
+    de_ch: Starlink
     el: Starlink
     en: Starlink
-    en-ca: Starlink
-    en-gb: Starlink
+    en_ca: Starlink
+    en_gb: Starlink
     eo: Starlink
     es: Starlink
     et: Starlink
@@ -126,7 +126,7 @@ dv_has_:
     pl: Starlink
     ps: اسټارلینک
     pt: Starlink
-    pt-br: Starlink
+    pt_br: Starlink
     qu: Starlink
     ro: Starlink
     ru: Starlink
@@ -147,7 +147,7 @@ dv_has_:
     wuu: 星链
     yue: 星鏈
     zh: 星链
-    zh-tw: 星鏈
+    zh_tw: 星鏈
 ---
 # [[Starlink]] 
 

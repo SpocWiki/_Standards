@@ -185,7 +185,7 @@ dv_has_:
     bar: Bob Marley
     bcl: Bob Marley
     be: Боб Марлі
-    be-tarask: Боб Марлі
+    be_tarask: Боб Марлі
     bg: Боб Марли
     bi: Bob Marley
     bjn: Bob Marley
@@ -200,13 +200,13 @@ dv_has_:
     cy: Bob Marley
     da: Bob Marley
     de: Bob Marley
-    de-ch: Bob Marley
+    de_ch: Bob Marley
     diq: Bob Marley
     dtp: Bob Marley
     el: Μπομπ Μάρλεϊ
     en: Bob Marley
-    en-ca: Bob Marley
-    en-gb: Bob Marley
+    en_ca: Bob Marley
+    en_gb: Bob Marley
     eo: Bob Marley
     es: Bob Marley
     et: Bob Marley
@@ -264,7 +264,7 @@ dv_has_:
     mul: Bob Marley
     nb: Bob Marley
     nds: Bob Marley
-    nds-nl: Bob Marley
+    nds_nl: Bob Marley
     ne: बब मार्ली
     nl: Bob Marley
     nn: Bob Marley
@@ -276,7 +276,7 @@ dv_has_:
     pms: Bob Marley
     pnb: باب مارلی
     pt: Bob Marley
-    pt-br: Bob Marley
+    pt_br: Bob Marley
     qu: Bob Marley
     ro: Bob Marley
     ru: Боб Марли

@@ -159,7 +159,7 @@ dv_has_:
     bar: Bisexualität
     bcl: Bisekswalidad
     be: бісексуальнасць
-    be-tarask: бісэксуальнасьць
+    be_tarask: бісэксуальнасьць
     bg: Бисексуалност
     bn: উভকামিতা
     br: Divrevelezh
@@ -174,7 +174,7 @@ dv_has_:
     diq: Biseksuel
     el: αμφιφυλοφιλία
     en: bisexuality
-    en-gb: bisexuality
+    en_gb: bisexuality
     en-us: Bisexual
     eo: ambaŭseksemo
     es: bisexualidad
@@ -206,7 +206,7 @@ dv_has_:
     km: អ្នកស្រឡាញ់ទាំងពីរភេទ
     ko: 양성애
     ku: bîseksuelî
-    ku-latn: bîseksuelî
+    ku_latn: bîseksuelî
     ky: Бисексуалдар
     la: diphylophilia
     lb: Bisexualitéit
@@ -223,7 +223,7 @@ dv_has_:
     mzn: بایسکشوال
     nan: Siang-sèng-loân
     nb: bifili
-    nds-nl: biseksualiteait
+    nds_nl: biseksualiteait
     ne: द्वीलैङ्गिकता
     new: निगू लिङ्ग
     nl: biseksualiteit
@@ -232,7 +232,7 @@ dv_has_:
     pa: ਦੁਲਿੰਗਕਤਾ
     pl: biseksualność
     pt: bissexualidade
-    pt-br: bissexualidade
+    pt_br: bissexualidade
     ro: bisexualitate
     ru: бисексуальность
     sc: Bisessualidade
@@ -247,7 +247,7 @@ dv_has_:
     sms: biseksuaal’lažvuõtt
     sq: Biseksualiteti
     sr: бисексуалност
-    sr-ec: бисексуалност
+    sr_ec: бисексуалност
     sv: bisexualitet
     sw: Mapenzi ya jinsia mbili
     ta: இருபால்சேர்க்கை
@@ -268,14 +268,14 @@ dv_has_:
     yi: בייסעקסואלוטעט
     yue: 雙性戀
     zh: 双性恋向
-    zh-cn: 双性恋向
-    zh-hans: 双性恋向
-    zh-hant: 雙性戀向
-    zh-hk: 雙性戀向
-    zh-mo: 雙性戀向
+    zh_cn: 双性恋向
+    zh_hans: 双性恋向
+    zh_hant: 雙性戀向
+    zh_hk: 雙性戀向
+    zh_mo: 雙性戀向
     zh-my: 双性恋向
-    zh-sg: 双性恋向
-    zh-tw: 雙性戀
+    zh_sg: 双性恋向
+    zh_tw: 雙性戀
 ---
 # [[Bisexuality]] 
 

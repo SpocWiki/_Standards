@@ -57,7 +57,7 @@ dv_has_:
     ast: Cantata
     az: kantata
     be: кантата
-    be-tarask: кантата
+    be_tarask: кантата
     bg: кантата
     bs: Kantata
     ca: cantata
@@ -86,11 +86,11 @@ dv_has_:
     ja: カンタータ
     ka: კანტატა
     kk: Кантата
-    kk-arab: كانتاتا
+    kk_arab: كانتاتا
     kk-cn: كانتاتا
-    kk-cyrl: Кантата
+    kk_cyrl: Кантата
     kk-kz: Кантата
-    kk-latn: Kantata
+    kk_latn: Kantata
     kk-tr: Kantata
     ko: 칸타타
     ky: Кантата
@@ -107,7 +107,7 @@ dv_has_:
     os: кантатæ
     pl: kantata
     pt: cantata
-    pt-br: cantata
+    pt_br: cantata
     ro: Cantată
     ru: кантата
     scn: Cantata
@@ -116,8 +116,8 @@ dv_has_:
     sl: kantata
     sq: Kantata
     sr: Кантата
-    sr-ec: Кантата
-    sr-el: Kantata
+    sr_ec: Кантата
+    sr_el: Kantata
     sv: kantat
     tg: Кантата
     th: คันตาตา
@@ -128,12 +128,12 @@ dv_has_:
     wuu: 康塔塔
     yue: Cantata
     zh: 康塔塔
-    zh-cn: 康塔塔
-    zh-hans: 康塔塔
-    zh-hant: 清唱劇
-    zh-hk: 清唱劇
-    zh-sg: 康塔塔
-    zh-tw: 清唱劇
+    zh_cn: 康塔塔
+    zh_hans: 康塔塔
+    zh_hant: 清唱劇
+    zh_hk: 清唱劇
+    zh_sg: 康塔塔
+    zh_tw: 清唱劇
 ---
 # [[Cantata]] 
 

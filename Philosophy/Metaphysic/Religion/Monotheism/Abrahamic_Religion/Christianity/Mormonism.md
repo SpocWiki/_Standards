@@ -99,7 +99,7 @@ dv_has_:
     bar: Mormonendum
     bcl: Mormonismo
     be: Мармоны
-    be-tarask: Марманізм
+    be_tarask: Марманізм
     bg: Мормонизъм
     br: Mormonegezh
     ca: mormonisme
@@ -110,8 +110,8 @@ dv_has_:
     de: Mormonentum
     el: Μορμονισμός
     en: Mormonism
-    en-ca: Mormonism
-    en-gb: Mormonism
+    en_ca: Mormonism
+    en_gb: Mormonism
     eo: Mormonismo
     es: La iglesia de Jesucristo de los santos de los ultimos dias
     et: Mormoonid
@@ -174,9 +174,9 @@ dv_has_:
     xmf: მორმონიზმი
     yue: 摩門教
     zh: 摩爾門教
-    zh-hans: 摩尔门教
-    zh-hant: 摩爾門教
-    zh-hk: 摩爾門教
+    zh_hans: 摩尔门教
+    zh_hant: 摩爾門教
+    zh_hk: 摩爾門教
     zu: Ubumormoni
 ---
 # [[Mormonism]] 

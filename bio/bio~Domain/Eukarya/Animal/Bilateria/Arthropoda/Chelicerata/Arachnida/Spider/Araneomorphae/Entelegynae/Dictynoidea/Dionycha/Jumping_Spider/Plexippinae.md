@@ -34,7 +34,7 @@ dv_has_:
     oc: Plexippini
     pl: Plexippini
     pt: Plexippini
-    pt-br: Plexippini
+    pt_br: Plexippini
     ro: Plexippini
     ru: Plexippini
     sq: Plexippini
@@ -43,8 +43,8 @@ dv_has_:
     vo: Plexippini
     war: Plexippini
     zh: 蝇虎族
-    zh-cn: 蝇虎族
-    zh-hans: 蝇虎族
+    zh_cn: 蝇虎族
+    zh_hans: 蝇虎族
 ---
 # [[Plexippinae]] 
 

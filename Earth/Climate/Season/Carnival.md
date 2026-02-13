@@ -122,7 +122,7 @@ dv_has_:
     bar: Fasching
     bcl: Karnabal
     be: Карнавал
-    be-tarask: карнавал
+    be_tarask: карнавал
     bg: Карнавал
     bn: কার্নিভাল
     bs: karneval
@@ -133,11 +133,11 @@ dv_has_:
     cy: carnifal
     da: karneval
     de: Karneval
-    de-ch: Karneval
+    de_ch: Karneval
     el: Απόκριες
     en: Carnival
-    en-ca: carnival
-    en-gb: carnival
+    en_ca: carnival
+    en_gb: carnival
     eo: karnavalo
     es: carnaval
     et: Karneval
@@ -185,7 +185,7 @@ dv_has_:
     mt: karnival
     mwl: Antruido
     nb: karneval
-    nds-nl: karnevaal
+    nds_nl: karnevaal
     nl: carnaval
     nn: karneval
     nrm: Carnava
@@ -195,7 +195,7 @@ dv_has_:
     pfl: Fasnacht
     pl: karnawał
     pt: carnaval
-    pt-br: carnaval
+    pt_br: carnaval
     qu: karnawal
     ro: carnaval
     ru: карнавал
@@ -205,8 +205,8 @@ dv_has_:
     sl: pust
     sq: Karnavalet
     sr: карневал
-    sr-ec: карневал
-    sr-el: karneval
+    sr_ec: карневал
+    sr_el: karneval
     sv: karneval
     tl: Karnabal
     tr: Karnaval
@@ -221,9 +221,9 @@ dv_has_:
     wuu: 狂欢节
     yue: 嘉年華
     zh: 狂歡節
-    zh-cn: 嘉年华油轮公司
-    zh-hant: 嘉年華
-    zh-tw: 狂歡節
+    zh_cn: 嘉年华油轮公司
+    zh_hant: 嘉年華
+    zh_tw: 狂歡節
 ---
 # [[Carnival]] 
 

@@ -96,7 +96,7 @@ dv_has_:
     ast: Hidróxidu
     azb: هیدروکسید
     be: Гідраксіды
-    be-tarask: гідраксыды
+    be_tarask: гідраксыды
     bg: Хидроксид
     bn: হাইড্রোক্সাইড লবণ
     bs: Hidroksid
@@ -138,7 +138,7 @@ dv_has_:
     nn: hydroksidsalt
     pl: wodorotlenek
     pt: hidróxido
-    pt-br: sais de hidróxido
+    pt_br: sais de hidróxido
     qu: Yakumuksi
     ro: Hidroxid
     ru: гидроксидная соль
@@ -148,7 +148,7 @@ dv_has_:
     sl: hidroksidna sol
     so: Haaydarogsaydh
     sr: хидроксид
-    sr-ec: хидроксид
+    sr_ec: хидроксид
     ta: ஐதராக்சைடு
     th: ไฮดรอกไซด์
     tl: Idroksido

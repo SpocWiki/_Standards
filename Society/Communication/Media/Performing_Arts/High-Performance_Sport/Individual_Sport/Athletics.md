@@ -187,7 +187,7 @@ dv_has_:
     ba: Еңел атлетика
     bar: Leichtathletik
     be: лёгкая атлетыка
-    be-tarask: лёгкая атлетыка
+    be_tarask: лёгкая атлетыка
     bg: лека атлетика
     bjn: Atlitik
     bn: মল্লক্রীড়া
@@ -202,11 +202,11 @@ dv_has_:
     cy: Athletau
     da: atletik
     de: Leichtathletik
-    de-ch: Leichtathletik
+    de_ch: Leichtathletik
     el: στίβος
     en: athletics
-    en-ca: Athletics
-    en-gb: athletics
+    en_ca: Athletics
+    en_gb: athletics
     en-us: athletics
     eo: atletiko
     es: atletismo
@@ -260,7 +260,7 @@ dv_has_:
     mn: Хөнгөн атлетик
     mr: अॅथलेटिक्स
     ms: olahraga
-    ms-arab: اولهراݢ
+    ms_arab: اولهراݢ
     mwl: Atletismo
     my: ပြေးခုံပစ်
     nah: Tonacayōhuapāhualiztli
@@ -278,7 +278,7 @@ dv_has_:
     pms: Atlética an pista e an camp
     pnb: اتھلیٹکس
     pt: atletismo
-    pt-br: atletismo
+    pt_br: atletismo
     qu: Kallpanakuy
     rm: Atletica
     ro: atletism
@@ -299,7 +299,7 @@ dv_has_:
     smn: almosvalastâllâm
     sq: Atletika
     sr: атлетика
-    sr-ec: атлетика
+    sr_ec: атлетика
     su: atlétik
     sv: friidrott
     sw: Riadha
@@ -326,11 +326,11 @@ dv_has_:
     yi: אטלעטיק
     yue: 田徑
     zh: 田径
-    zh-cn: 田径
-    zh-hans: 田径
-    zh-hant: 田徑
-    zh-hk: 田徑
-    zh-tw: 田徑
+    zh_cn: 田径
+    zh_hans: 田径
+    zh_hant: 田徑
+    zh_hk: 田徑
+    zh_tw: 田徑
 ---
 # [[Athletics]] 
 

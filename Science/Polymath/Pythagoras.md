@@ -202,7 +202,7 @@ dv_has_:
     ban: Pythagoras
     bcl: Pythagoras
     be: Піфагор
-    be-tarask: Пітагор
+    be_tarask: Пітагор
     bg: Питагор
     bho: पाइथागोरस
     bi: Pythagoras
@@ -219,12 +219,12 @@ dv_has_:
     cy: Pythagoras
     da: Pythagoras
     de: Pythagoras
-    de-ch: Pythagoras
+    de_ch: Pythagoras
     diq: Pythagoras
     el: Πυθαγόρας
     en: Pythagoras
-    en-ca: Pythagoras
-    en-gb: Pythagoras
+    en_ca: Pythagoras
+    en_gb: Pythagoras
     eo: Pitagoro
     es: Pitágoras
     et: Pythagoras
@@ -266,7 +266,7 @@ dv_has_:
     kn: ಪೈಥಾಗರಸ್
     ko: 피타고라스
     ku: Pîtagoras
-    ku-latn: Pîtagoras
+    ku_latn: Pîtagoras
     kw: Pythagoras
     ky: Пифагор
     la: Pythagoras
@@ -286,7 +286,7 @@ dv_has_:
     mr: पायथागोरस
     mrj: Пифагор
     ms: Pythagoras
-    ms-arab: ڤيثاݢورس
+    ms_arab: ڤيثاݢورس
     mt: Pitagora
     mwl: Pitágoras
     my: ပိုက်သာဂိုးရပ်စ်
@@ -308,7 +308,7 @@ dv_has_:
     pnb: فيثاغورث
     ps: پيتاګورس
     pt: Pitágoras
-    pt-br: Pitágoras
+    pt_br: Pitágoras
     qu: Pithagoras
     rki: ပိုက်သဂိုးရပ်(Pythagoras)
     ro: Pitagora
@@ -328,7 +328,7 @@ dv_has_:
     smn: Pythagoras
     sq: Pitagora
     sr: Питагора
-    sr-ec: Питагора
+    sr_ec: Питагора
     su: Pythagoras
     sv: Pythagoras
     sw: Pythagoras
@@ -357,11 +357,11 @@ dv_has_:
     yue: 畢達哥拉斯
     zgh: ⴱⵉⵜⴰⴳⵓⵔⴰⵙ
     zh: 畢達哥拉斯
-    zh-cn: 毕达哥拉斯
-    zh-hans: 毕达哥拉斯
-    zh-hant: 畢達哥拉斯
-    zh-hk: 畢達哥拉斯
-    zh-tw: 畢達哥拉斯
+    zh_cn: 毕达哥拉斯
+    zh_hans: 毕达哥拉斯
+    zh_hant: 畢達哥拉斯
+    zh_hk: 畢達哥拉斯
+    zh_tw: 畢達哥拉斯
 ---
 # [[Pythagoras]] 
 

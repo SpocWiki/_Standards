@@ -65,10 +65,10 @@ dv_has_:
     ceb: Mananap nga kuyamas
     cs: drápkovci
     de: Stummelfüßer
-    de-ch: Stummelfüsser
+    de_ch: Stummelfüsser
     en: Onychophora
-    en-ca: Onychophora
-    en-gb: Onychophora
+    en_ca: Onychophora
+    en_gb: Onychophora
     eo: Onikoforoj
     es: Onychophora
     et: küüsikloomad
@@ -107,7 +107,7 @@ dv_has_:
     oc: Onychophora
     pl: pazurnice
     pt: Onychophora
-    pt-br: Onychophora
+    pt_br: Onychophora
     ro: Onychophora
     ru: онихофоры
     sco: Onychophora

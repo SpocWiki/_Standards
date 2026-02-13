@@ -335,7 +335,7 @@ dv_has_:
     ban: Pangwedar Paigum Dharmaning Swadikara Krama Internasional
     bcl: Pangkinaban na Deklarasyon kan mga Katanosan na Pantawo
     be: Усеагульная дэкларацыя правоў чалавека
-    be-tarask: Усеагульная дэклярацыя правоў чалавека
+    be_tarask: Усеагульная дэклярацыя правоў чалавека
     bg: Всеобща декларация за правата на човека
     bm: Hadamaden josiraw dantigɛkan
     bn: মানবাধিকারের সার্বজনীন ঘোষণাপত্র
@@ -353,14 +353,14 @@ dv_has_:
     cy: Datganiad Cyffredinol o Hawliau Dynol
     da: FN's Verdenserklæring om Menneskerettighederne
     de: Allgemeine Erklärung der Menschenrechte
-    de-ch: Allgemeine Erklärung der Menschenrechte
+    de_ch: Allgemeine Erklärung der Menschenrechte
     diq: Beyannameyê heqanê insananê erd u asmêni
     ee: Amegbetɔ ƒe Ablɔɖevinyenye ŋu Kpeɖoɖodzinya
     el: Οικουμενική Διακήρυξη για τα Ανθρώπινα Δικαιώματα
     eml: Dichiarasiòun Universèla di Dirìt edl Òm
     en: Universal Declaration of Human Rights
-    en-ca: Universal Declaration of Human Rights
-    en-gb: Universal Declaration of Human Rights
+    en_ca: Universal Declaration of Human Rights
+    en_gb: Universal Declaration of Human Rights
     eo: Universala Deklaracio de Homaj Rajtoj
     es: Declaración Universal de los Derechos universales
     et: Inimõiguste ülddeklaratsioon
@@ -449,7 +449,7 @@ dv_has_:
     pnb: انسانی حقاں دا عالمی اعلان
     ps: د بشري حقونو نړېواله اعلاميه
     pt: Declaração Universal dos Direitos Humanos
-    pt-br: Declaração Universal dos Direitos Humanos
+    pt_br: Declaração Universal dos Direitos Humanos
     qu: Pachantin llaqtakunapi runap allin kananpaq hatun kamachikuy
     ro: Declarația Universală a Drepturilor Omului
     ru: Всеобщая декларация прав человека
@@ -503,11 +503,11 @@ dv_has_:
     za: Seiqgyaiq Yinzgenz Senhyenz
     zgh: ⴰⵍⵖⵓ ⴰⵎⴰⴹⵍⴰⵏ ⵏ ⵉⵣⵔⴼⴰⵏ ⵏ ⵓⴼⴳⴰⵏ
     zh: 世界人权宣言
-    zh-cn: 世界人权宣言
-    zh-hans: 世界人权宣言
-    zh-hant: 世界人權宣言
-    zh-hk: 世界人權宣言
-    zh-tw: 世界人權宣言
+    zh_cn: 世界人权宣言
+    zh_hans: 世界人权宣言
+    zh_hant: 世界人權宣言
+    zh_hk: 世界人權宣言
+    zh_tw: 世界人權宣言
 ---
 #has_/next_/item :: [[International_Bill_of_Human_Rights]] 
 #has_/time_/started :: 1948-12-10 

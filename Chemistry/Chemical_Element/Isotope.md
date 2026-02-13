@@ -133,7 +133,7 @@ dv_has_:
     ban: Isotop
     bcl: Isotopo
     be: ізатоп
-    be-tarask: ізатоп
+    be_tarask: ізатоп
     bg: Изотоп
     bho: आइसोटोप
     bn: আইসোটোপ
@@ -210,7 +210,7 @@ dv_has_:
     pl: izotop
     pnb: سمان بݨتراں
     pt: isótopo
-    pt-br: isótopo
+    pt_br: isótopo
     ro: izotop
     ru: изотоп
     rue: Изотоп
@@ -230,7 +230,7 @@ dv_has_:
     so: Isotope
     sq: Izotopi
     sr: изотоп
-    sr-ec: изотоп
+    sr_ec: изотоп
     stq: Isotop
     su: Isotop
     sv: isotop
@@ -254,8 +254,8 @@ dv_has_:
     yue: 同位素
     za: Doengzvihsuq
     zh: 同位素
-    zh-hant: 同位素
-    zh-tw: 同位素
+    zh_hant: 同位素
+    zh_tw: 同位素
     zu: IChembe
 ---
 #is_/same_as :: [[WD~Isotope,25276]] 

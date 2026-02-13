@@ -67,7 +67,7 @@ dv_has_:
     ar: مرمدة
     az: Krematoriya
     be: крэматорый
-    be-tarask: крэматорый
+    be_tarask: крэматорый
     bg: Крематориум
     ca: crematori
     ceb: krematoryo
@@ -112,8 +112,8 @@ dv_has_:
     smn: krematorio
     sms: krematorio
     sr: крематоријум
-    sr-ec: Крематоријум
-    sr-el: Krematorijum
+    sr_ec: Крематоријум
+    sr_el: Krematorijum
     sv: krematorium
     te: శ్మశానం
     th: ฌาปนสถาน
@@ -123,9 +123,9 @@ dv_has_:
     vi: lò hỏa táng
     yue: 火葬場
     zh: 火葬場
-    zh-hans: 火葬场
-    zh-hant: 火葬場
-    zh-tw: 火葬場
+    zh_hans: 火葬场
+    zh_hant: 火葬場
+    zh_tw: 火葬場
   parent_class: '[[../CivicStructure]]'
   properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'
 dv_is_:

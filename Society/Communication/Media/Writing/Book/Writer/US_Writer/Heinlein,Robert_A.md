@@ -131,7 +131,7 @@ dv_has_:
     az: Robert Haynlayn
     azb: رابرت آنسون هاینلاین
     be: Роберт Хайнлайн
-    be-tarask: Робэрт Гайнлайн
+    be_tarask: Робэрт Гайнлайн
     bg: Робърт Хайнлайн
     bn: রবার্ট এ. হাইনলাইন
     br: Robert Heinlein
@@ -143,7 +143,7 @@ dv_has_:
     de: Robert A. Heinlein
     el: Ρόμπερτ Χαϊνλάιν
     en: Robert A. Heinlein
-    en-gb: Robert A. Heinlein
+    en_gb: Robert A. Heinlein
     en-us: Robert A. Heinlein
     eo: Robert A. Heinlein
     es: Robert A. Heinlein
@@ -181,7 +181,7 @@ dv_has_:
     pms: Robert A. Heinlein
     ps: رابرټ اې. هاینلاین
     pt: Robert A. Heinlein
-    pt-br: Robert A. Heinlein
+    pt_br: Robert A. Heinlein
     ro: Robert A. Heinlein
     ru: Роберт Хайнлайн
     sco: Robert A. Heinlein
@@ -203,7 +203,7 @@ dv_has_:
     xmf: რობერტ ჰაინლაინი
     yue: 羅拔海萊因
     zh: 羅伯特·海萊因
-    zh-hant: 羅伯特·海因萊因
+    zh_hant: 羅伯特·海因萊因
 ---
 # [[Heinlein,Robert_A]] 
 

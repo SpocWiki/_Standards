@@ -87,7 +87,7 @@ dv_has_:
     bbc: Billboard
     bcl: Billboard
     be: Billboard
-    be-tarask: Billboard
+    be_tarask: Billboard
     bg: Билборд
     bi: Billboard
     bm: Billboard
@@ -96,7 +96,7 @@ dv_has_:
     bs: Billboard
     bto: Billboard
     ca: Billboard
-    cbk-zam: Billboard
+    cbk_zam: Billboard
     ceb: Billboard
     ch: Billboard
     cho: Billboard
@@ -104,14 +104,14 @@ dv_has_:
     ckb: بیلبۆرد
     co: Billboard
     cps: Billboard
-    crh-latn: Billboard
+    crh_latn: Billboard
     cs: Billboard
     csb: Billboard
     cy: Billboard
     da: Billboard
     de: Billboard
     de-at: Billboard
-    de-ch: Billboard
+    de_ch: Billboard
     din: Billboard
     dsb: Billboard
     dtp: Billboard
@@ -120,8 +120,8 @@ dv_has_:
     el: Billboard
     eml: Billboard
     en: Billboard
-    en-ca: Billboard
-    en-gb: Billboard
+    en_ca: Billboard
+    en_gb: Billboard
     eo: Billboard
     es: Billboard
     et: Billboard
@@ -182,9 +182,9 @@ dv_has_:
     ki: Billboard
     kj: Billboard
     kk: Billboard
-    kk-arab: Billboard
-    kk-cyrl: Біллбоард
-    kk-latn: Billboard
+    kk_arab: Billboard
+    kk_cyrl: Біллбоард
+    kk_latn: Billboard
     kl: Billboard
     knc: Billboard
     ko: 빌보드
@@ -205,7 +205,7 @@ dv_has_:
     lt: Billboard
     lv: Billboard
     mai: बिलबोर्ड
-    map-bms: Billboard
+    map_bms: Billboard
     mg: Billboard
     mh: Billboard
     mi: Billboard
@@ -222,7 +222,7 @@ dv_has_:
     nap: Billboard
     nb: Billboard
     nds: Billboard
-    nds-nl: Billboard
+    nds_nl: Billboard
     ne: बिलबोर्ड
     ng: Billboard
     niu: Billboard
@@ -249,7 +249,7 @@ dv_has_:
     pms: Billboard
     prg: Billboard
     pt: Billboard
-    pt-br: Billboard
+    pt_br: Billboard
     qu: Billboard
     qug: Billboard
     rgn: Billboard
@@ -320,11 +320,11 @@ dv_has_:
     yue: 告示牌 (雜誌)
     zea: Billboard
     zh: 告示牌
-    zh-cn: 告示板杂志
-    zh-hans: 公告牌
-    zh-hant: 告示牌
-    zh-hk: 告示牌
-    zh-tw: 告示牌
+    zh_cn: 告示板杂志
+    zh_hans: 公告牌
+    zh_hant: 告示牌
+    zh_hk: 告示牌
+    zh_tw: 告示牌
     zu: Billboard
 ---
 # [[Billboard(magazine)]] 

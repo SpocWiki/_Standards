@@ -137,7 +137,7 @@ dv_has_:
     az: Ardıc
     bcl: Enebro
     be: Ядловец
-    be-tarask: Ядловец
+    be_tarask: Ядловец
     bg: хвойна
     bs: Kleka
     bxr: Арса
@@ -211,7 +211,7 @@ dv_has_:
     pl: jałowiec
     pnb: صنوبر
     pt: Juniperus
-    pt-br: Juniperus
+    pt_br: Juniperus
     ro: Juniperus
     ru: Можжевельник
     sah: Кытыан
@@ -222,7 +222,7 @@ dv_has_:
     sl: brin
     sq: Juniperus
     sr: клека
-    sr-ec: клека
+    sr_ec: клека
     su: Juniperus
     sv: ensläktet
     sw: Mreteni
@@ -242,10 +242,10 @@ dv_has_:
     wuu: 刺柏属
     yue: 刺柏屬
     zh: 刺柏属
-    zh-cn: 刺柏属
-    zh-hans: 刺柏属
-    zh-hant: 杜鬆
-    zh-tw: 刺柏屬
+    zh_cn: 刺柏属
+    zh_hans: 刺柏属
+    zh_hant: 杜鬆
+    zh_tw: 刺柏屬
 ---
 # [[Juniper]] 
 

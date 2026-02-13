@@ -113,7 +113,7 @@ dv_has_:
     ast: Jack l'Estripador
     az: İçalatçı Cek
     bar: Jack the Ripper
-    be-tarask: Джэк-Трыбушыльнік
+    be_tarask: Джэк-Трыбушыльнік
     bg: Джак Изкормвача
     bn: জ্যাক দ্য রিপার
     br: Yann an Toullgofer
@@ -124,11 +124,11 @@ dv_has_:
     cy: Jack the Ripper
     da: Jack the Ripper
     de: Jack the Ripper
-    de-ch: Jack the Ripper
+    de_ch: Jack the Ripper
     el: Τζακ ο Αντεροβγάλτης
     en: Jack the Ripper
-    en-ca: Jack the Ripper
-    en-gb: Jack the Ripper
+    en_ca: Jack the Ripper
+    en_gb: Jack the Ripper
     eo: Joĉjo la Buĉisto
     es: Jack el Destripador
     et: Rappija Jack
@@ -172,7 +172,7 @@ dv_has_:
     pa: ਜੈਕ ਦਾ ਰਿਪਰ
     pl: Kuba Rozpruwacz
     pt: Jack, o Estripador
-    pt-br: Jack, o Estripador
+    pt_br: Jack, o Estripador
     ro: Jack Spintecătorul
     ru: Джек-потрошитель
     sd: جيڪ دي رپر

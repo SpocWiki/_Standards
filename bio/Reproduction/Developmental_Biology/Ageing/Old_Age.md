@@ -125,7 +125,7 @@ dv_has_:
     az: qocalıq
     bcl: Kagurangan
     be: старасць
-    be-tarask: старасьць
+    be_tarask: старасьць
     bg: старост
     bjn: masa tuha
     bn: বার্ধক্য
@@ -180,7 +180,7 @@ dv_has_:
     pl: starość
     pnb: بڈھے وار
     pt: idoso
-    pt-br: idoso
+    pt_br: idoso
     rm: Vegliadetgna
     rn: Umutama
     ro: bătrânețe
@@ -193,8 +193,8 @@ dv_has_:
     sl: starost
     sq: pleqëria
     sr: старост
-    sr-ec: старост
-    sr-el: starost
+    sr_ec: старост
+    sr_el: starost
     sv: ålderdom
     ta: முதுமை
     te: వృద్దాప్యము
@@ -212,12 +212,12 @@ dv_has_:
     yi: אלטקייט
     yue: 老人家
     zh: 老年
-    zh-cn: 老年
-    zh-hans: 老年
-    zh-hant: 老年
-    zh-hk: 老年
-    zh-sg: 老年
-    zh-tw: 老年
+    zh_cn: 老年
+    zh_hans: 老年
+    zh_hant: 老年
+    zh_hk: 老年
+    zh_sg: 老年
+    zh_tw: 老年
 ---
 # [[Old_Age]] 
 

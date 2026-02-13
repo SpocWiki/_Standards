@@ -74,7 +74,7 @@ dv_has_:
     ar: حاجز أمواج
     ast: Rompeolas
     az: Dalğaqıran
-    be-tarask: хвалялом
+    be_tarask: хвалялом
     bg: Вълнолом
     ca: escullera
     cs: vlnolam

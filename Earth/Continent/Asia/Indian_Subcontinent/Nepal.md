@@ -67,7 +67,7 @@ dv_has_:
     ab: Непал
     ace: Nepal
     ady: Непал
-    aeb-arab: نيپال
+    aeb_arab: نيپال
     af: Nepal
     am: ኔፓል
     ami: Nepal
@@ -87,7 +87,7 @@ dv_has_:
     bar: Nepal
     bcl: Nepal
     be: Непал
-    be-tarask: Нэпал
+    be_tarask: Нэпал
     bew: Népal
     bg: Непал
     bgn: نیپال
@@ -101,13 +101,13 @@ dv_has_:
     bs: Nepal
     bxr: Балба
     ca: Nepal
-    cbk-zam: Nepal
+    cbk_zam: Nepal
     cdo: Nepal
     ce: Непал
     ceb: Nepal
     ckb: نیپال
     crh: Nepal
-    crh-latn: Nepal
+    crh_latn: Nepal
     crh-ro: Nepal
     cs: Nepál
     csb: Nepal
@@ -116,7 +116,7 @@ dv_has_:
     da: Nepal
     dag: Nepal
     de: Nepal
-    de-ch: Nepal
+    de_ch: Nepal
     diq: Nepal
     dsb: Nepal
     dtp: Nepal
@@ -125,8 +125,8 @@ dv_has_:
     dz: བལ་ཡུལ་
     el: Νεπάλ
     en: Nepal
-    en-ca: Nepal
-    en-gb: Nepal
+    en_ca: Nepal
+    en_gb: Nepal
     eo: Nepalo
     es: Nepal
     et: Nepal
@@ -150,7 +150,7 @@ dv_has_:
     gn: Nepal
     gom: नेपाळ
     gom-deva: नेपाळ
-    gom-latn: Nepal
+    gom_latn: Nepal
     gpe: Nepal
     gsw: Nepal
     gu: નેપાળ
@@ -215,7 +215,7 @@ dv_has_:
     lzh: 尼泊爾
     mad: Nepal
     mai: नेपाल
-    map-bms: Nepal
+    map_bms: Nepal
     mdf: Нэпал
     mg: Nepal
     mhr: Непал
@@ -227,7 +227,7 @@ dv_has_:
     mni: ꯅꯦꯄꯥꯜ
     mr: नेपाळ
     ms: Nepal
-    ms-arab: نيڤل
+    ms_arab: نيڤل
     mt: Nepal
     mwl: Nepal
     my: နီပေါနိုင်ငံ
@@ -238,7 +238,7 @@ dv_has_:
     nan: Nepal
     nb: Nepal
     nds: Nepal
-    nds-nl: Nepal
+    nds_nl: Nepal
     ne: नेपाल
     new: नेपाः
     nl: Nepal
@@ -290,8 +290,8 @@ dv_has_:
     so: Nebal
     sq: Nepali
     sr: Непал
-    sr-ec: Непал
-    sr-el: Nepal
+    sr_ec: Непал
+    sr_el: Nepal
     srn: Nepal
     ss: INephali
     su: Nepal
@@ -342,12 +342,12 @@ dv_has_:
     za: Nepal
     zea: Nepal
     zh: 尼泊爾
-    zh-cn: 尼泊尔
-    zh-hans: 尼泊尔
-    zh-hant: 尼泊爾
-    zh-hk: 尼泊爾
+    zh_cn: 尼泊尔
+    zh_hans: 尼泊尔
+    zh_hant: 尼泊爾
+    zh_hk: 尼泊爾
     zh-my: 尼泊尔
-    zh-tw: 尼泊爾
+    zh_tw: 尼泊爾
     zu: i-Nepal
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Nepal

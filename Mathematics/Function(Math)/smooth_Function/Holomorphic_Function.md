@@ -63,10 +63,10 @@ dv_has_:
     ar: دالة تحليلية تامة التشكل
     ast: función holomorfa
     ba: голоморфлы функция
-    be-tarask: галяморфная функцыя
+    be_tarask: галяморфная функцыя
     bg: холоморфна функция
     ca: funció holomorfa
-    cbk-zam: Holomorfo funcion
+    cbk_zam: Holomorfo funcion
     cs: holomorfní funkce
     da: holomorf funktion
     de: holomorphe Funktion
@@ -99,7 +99,7 @@ dv_has_:
     oc: foncion olomòrfa
     pl: funkcja holomorficzna
     pt: função holomorfa
-    pt-br: função holomorfa
+    pt_br: função holomorfa
     ro: funcție olomorfă
     ru: голоморфная функция
     scn: funzioni olomorfa
@@ -107,8 +107,8 @@ dv_has_:
     sl: holomorfna funkcija
     sq: funksioni holomorfik
     sr: холоморфна функција
-    sr-ec: холоморфна функција
-    sr-el: holomorfna funkcija
+    sr_ec: холоморфна функција
+    sr_el: holomorfna funkcija
     sv: analytisk funktion
     ta: முற்றுருவச் சார்பியம்
     tr: holomorf fonksiyon
@@ -116,12 +116,12 @@ dv_has_:
     vi: hàm chỉnh hình
     yue: 全純函數
     zh: 全纯函数
-    zh-cn: 全纯函数
-    zh-hans: 全纯函数
-    zh-hant: 全純函數
-    zh-hk: 全純函數
-    zh-sg: 全纯函数
-    zh-tw: 全純函數
+    zh_cn: 全纯函数
+    zh_hans: 全纯函数
+    zh_hant: 全純函數
+    zh_hk: 全純函數
+    zh_sg: 全纯函数
+    zh_tw: 全純函數
 ---
 # [[Holomorphic_Function]] 
 

@@ -138,7 +138,7 @@ dv_has_:
     ast: Los viaxes de Gulliver
     az: Qulliverin səyahəti
     be: Падарожжы Гулівера
-    be-tarask: Падарожжы Гулівэра
+    be_tarask: Падарожжы Гулівэра
     bg: Пътешествията на Гъливер
     bn: গালিভার’স ট্রাভেলস
     ca: Els viatges de Gulliver
@@ -147,11 +147,11 @@ dv_has_:
     cy: Gulliver's Travels
     da: Gullivers rejser
     de: Gullivers Reisen
-    de-ch: Gullivers Reisen
+    de_ch: Gullivers Reisen
     el: Τα ταξίδια του Γκιούλιβερ
     en: Gulliver's Travels
-    en-ca: Gulliver's Travels
-    en-gb: Gulliver's Travels
+    en_ca: Gulliver's Travels
+    en_gb: Gulliver's Travels
     eo: La vojaĝoj de Gulivero
     es: Los viajes de Gulliver
     et: Gulliveri reisid
@@ -191,7 +191,7 @@ dv_has_:
     pa: ਗੁਲੀਵਰਸ ਟਰੈਵਲਜ਼
     pl: Podróże Guliwera
     pt: As Viagens de Gulliver
-    pt-br: As Viagens de Gulliver
+    pt_br: As Viagens de Gulliver
     rm: Ils viadis da Gulliver
     ro: Călătoriile lui Gulliver
     ru: Путешествия Гулливера
@@ -201,8 +201,8 @@ dv_has_:
     sl: Guliverjeva potovanja
     sq: Udhëtimet e Gulliverit
     sr: Guliverova putovanja
-    sr-ec: Гуливерова путовања
-    sr-el: Guliverova putovanja
+    sr_ec: Гуливерова путовања
+    sr_el: Guliverova putovanja
     sv: Gullivers resor
     ta: கல்லிவரின் பயணங்கள்
     th: การเดินทางของกัลลิเวอร์
@@ -214,12 +214,12 @@ dv_has_:
     wuu: 格列佛游记
     yue: 格列佛遊記
     zh: 格列佛遊記
-    zh-cn: 格列佛游记
-    zh-hans: 格列佛游记
-    zh-hant: 格列佛遊記
-    zh-hk: 格列佛遊記
-    zh-sg: 格列佛游记
-    zh-tw: 格列佛遊記
+    zh_cn: 格列佛游记
+    zh_hans: 格列佛游记
+    zh_hant: 格列佛遊記
+    zh_hk: 格列佛遊記
+    zh_sg: 格列佛游记
+    zh_tw: 格列佛遊記
 ---
 # [[Gulliver's_Travels]] 
 

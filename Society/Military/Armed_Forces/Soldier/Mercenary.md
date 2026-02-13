@@ -112,13 +112,13 @@ dv_has_:
     az: muzdlu döyüşçü
     bcl: mersenaryo
     be: найміт
-    be-tarask: найміт
+    be_tarask: найміт
     bg: Наемник
     bn: ভাড়াটে সৈনিক
     br: Goprsoudard
     bs: Najamnik
     ca: mercenari
-    cbk-zam: mercenario
+    cbk_zam: mercenario
     ceb: mersenaryo
     ckb: بەکرێگیراو
     cs: žoldnéř
@@ -171,7 +171,7 @@ dv_has_:
     pam: mersenariu
     pl: najemnik
     pt: mercenário
-    pt-br: Mercenário
+    pt_br: Mercenário
     ro: mercenar
     ru: наёмник
     sco: Mercenary
@@ -180,8 +180,8 @@ dv_has_:
     sl: najemnik
     sq: Mercenari
     sr: плаћеник
-    sr-ec: плаћеник
-    sr-el: plaćenik
+    sr_ec: плаћеник
+    sr_el: plaćenik
     sv: legosoldat
     sw: Mamluki
     ta: கூலிப்படை
@@ -197,12 +197,12 @@ dv_has_:
     yi: שכיר חרב
     yue: 僱傭兵
     zh: 僱傭兵
-    zh-cn: 雇佣兵
-    zh-hans: 雇佣兵
-    zh-hant: 僱傭兵
-    zh-hk: 僱傭兵
-    zh-sg: 雇佣兵
-    zh-tw: 僱傭兵
+    zh_cn: 雇佣兵
+    zh_hans: 雇佣兵
+    zh_hant: 僱傭兵
+    zh_hk: 僱傭兵
+    zh_sg: 雇佣兵
+    zh_tw: 僱傭兵
 ---
 # [[Mercenary]] 
 

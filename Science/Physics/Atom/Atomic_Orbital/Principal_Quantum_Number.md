@@ -52,7 +52,7 @@ dv_has_:
   name_:
     ar: عدد كم رئيسي
     az: Baş kvant ədədi
-    be-tarask: галоўны квантавы лік
+    be_tarask: галоўны квантавы лік
     bg: Главно квантово число
     bn: মুখ্য কোয়ান্টাম সংখ্যা
     ca: nombre quàntic principal
@@ -91,9 +91,9 @@ dv_has_:
     vi: Số lượng tử chính
     wuu: 主量子数
     zh: 主量子數
-    zh-hans: 主量子数
-    zh-hant: 主量子數
-    zh-hk: 主量子數
+    zh_hans: 主量子数
+    zh_hant: 主量子數
+    zh_hk: 主量子數
 ---
 # [[Principal_Quantum_Number]] 
 

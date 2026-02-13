@@ -251,7 +251,7 @@ dv_has_:
     ban: natrium
     bcl: sodyo
     be: натрый
-    be-tarask: натар
+    be_tarask: натар
     bg: натрий
     bho: सोडियम
     blk: သိုဒီယမ်
@@ -269,12 +269,12 @@ dv_has_:
     cy: sodiwm
     da: natrium
     de: Natrium
-    de-ch: Natrium
+    de_ch: Natrium
     dv: ސޯޑިއަމް
     el: νάτριο
     en: sodium
-    en-ca: sodium
-    en-gb: sodium
+    en_ca: sodium
+    en_gb: sodium
     eo: natrio
     es: sodio
     et: naatrium
@@ -347,7 +347,7 @@ dv_has_:
     mr: सोडियम
     mrj: натрий
     ms: natrium
-    ms-arab: نتريوم
+    ms_arab: نتريوم
     mt: sodju
     mul: Na
     my: ဆိုဒီယမ်
@@ -376,7 +376,7 @@ dv_has_:
     pnt: νάτριον
     ps: سوډيوم
     pt: sódio
-    pt-br: sódio
+    pt_br: sódio
     qu: natriyu
     ro: sodiu
     ru: натрий
@@ -428,14 +428,14 @@ dv_has_:
     yue: 鈉
     zgh: ⴰⵚⵓⴹⵢⵓⵎ
     zh: 鈉
-    zh-cn: 钠
-    zh-hans: 钠
-    zh-hant: 鈉
-    zh-hk: 鈉
-    zh-mo: 鈉
+    zh_cn: 钠
+    zh_hans: 钠
+    zh_hant: 鈉
+    zh_hk: 鈉
+    zh_mo: 鈉
     zh-my: 钠
-    zh-sg: 钠
-    zh-tw: 鈉
+    zh_sg: 钠
+    zh_tw: 鈉
     zu: INaside
   number_of_:
     period: 3

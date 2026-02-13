@@ -83,7 +83,7 @@ dv_has_:
     ban: William McKinley
     bcl: William McKinley
     be: Уільям Мак-Кінлі
-    be-tarask: Ўільям МакКінлі
+    be_tarask: Ўільям МакКінлі
     bg: Уилям Маккинли
     bi: William McKinley
     bn: উইলিয়াম ম্যাকিনলি
@@ -171,7 +171,7 @@ dv_has_:
     pnb: ولیم میک کنلے
     ps: ویلیم مک کینلي
     pt: William McKinley
-    pt-br: William McKinley
+    pt_br: William McKinley
     rm: William McKinley
     rmf: William McKinley
     ro: William McKinley
@@ -214,7 +214,7 @@ dv_has_:
     yo: William McKinley
     yue: 麥金利
     zh: 威廉·麦金莱
-    zh-hk: 威廉·麥堅利
+    zh_hk: 威廉·麥堅利
   time_:
     started: 1843-01-29T00:00:00.000+00:53
     stopped: 1901-09-14T00:00:00.000+01:00

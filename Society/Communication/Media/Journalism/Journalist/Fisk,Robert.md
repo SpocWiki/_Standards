@@ -82,7 +82,7 @@ dv_has_:
     ar: روبرت فيسك
     arz: روبرت فيسك
     ast: Robert Fisk
-    be-tarask: Робэрт Фіск
+    be_tarask: Робэрт Фіск
     bg: Робърт Фиск
     bn: রবার্ট ফিস্ক
     ca: Robert Fisk
@@ -92,8 +92,8 @@ dv_has_:
     de: Robert Fisk
     el: Ρόμπερτ Φισκ
     en: Robert Fisk
-    en-ca: Robert Fisk
-    en-gb: Robert Fisk
+    en_ca: Robert Fisk
+    en_gb: Robert Fisk
     eo: Robert Fisk
     es: Robert Fisk
     eu: Robert Fisk
@@ -123,7 +123,7 @@ dv_has_:
     pa: ਰਾਬਰਟ ਫਿਸਕ
     pl: Robert Fisk
     pt: Robert Fisk
-    pt-br: Robert Fisk
+    pt_br: Robert Fisk
     ru: Роберт Фиск
     sh: Robert Fisk
     sl: Robert Fisk
@@ -138,12 +138,12 @@ dv_has_:
     war: Robert Fisk
     yue: 員羅柏·費斯克
     zh: 員羅柏·費斯克
-    zh-cn: 员罗柏·费斯克
-    zh-hans: 员罗柏·费斯克
-    zh-hant: 員羅柏·費斯克
-    zh-hk: 員羅柏·費斯克
-    zh-sg: 员罗柏·费斯克
-    zh-tw: 員羅柏·費斯克
+    zh_cn: 员罗柏·费斯克
+    zh_hans: 员罗柏·费斯克
+    zh_hant: 員羅柏·費斯克
+    zh_hk: 員羅柏·費斯克
+    zh_sg: 员罗柏·费斯克
+    zh_tw: 員羅柏·費斯克
 ---
 # [[Fisk,Robert]] 
 

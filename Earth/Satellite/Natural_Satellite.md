@@ -175,7 +175,7 @@ dv_has_:
     azb: اویدو، پئیک
     bar: Natialicha Satellit
     be: спадарожнікі планет
-    be-tarask: спадарожнік
+    be_tarask: спадарожнік
     bg: естествен спътник
     bho: प्राकृतिक उपग्रह
     bjn: satelit alami
@@ -191,12 +191,12 @@ dv_has_:
     cv: çулташ
     da: måne
     de: Mond
-    de-ch: Satellit
+    de_ch: Satellit
     diq: vangin
     el: φυσικός δορυφόρος
     en: natural satellite
-    en-ca: natural satellite
-    en-gb: natural satellite
+    en_ca: natural satellite
+    en_gb: natural satellite
     eo: natura satelito
     es: satélite natural
     et: planeedi kaaslane
@@ -271,7 +271,7 @@ dv_has_:
     pms: satélit natural
     ps: طبیعي سپوږمکۍ
     pt: satélite natural
-    pt-br: satélite natural
+    pt_br: satélite natural
     qu: killa satiliti
     ro: satelit natural
     ru: естественный спутник
@@ -285,8 +285,8 @@ dv_has_:
     so: dayax
     sq: sateliti natyror
     sr: природни сателит
-    sr-ec: природни сателит
-    sr-el: prirodni satelit
+    sr_ec: природни сателит
+    sr_el: prirodni satelit
     stq: satellit
     sv: måne
     ta: இயற்கைத் துணைக்கோள்
@@ -307,11 +307,11 @@ dv_has_:
     yi: נאטירלעכער סאטעליט
     yue: 衞星
     zh: 衛星
-    zh-cn: 卫星
-    zh-hans: 行星
-    zh-hant: 衛星
-    zh-hk: 衛星
-    zh-tw: 衛星
+    zh_cn: 卫星
+    zh_hans: 行星
+    zh_hant: 衛星
+    zh_hk: 衛星
+    zh_tw: 衛星
     zu: Iduna
 ---
 # [[Natural_Satellite]] 

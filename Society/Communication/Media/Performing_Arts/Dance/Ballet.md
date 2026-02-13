@@ -102,13 +102,13 @@ dv_has_:
     az: balet
     ba: балет
     be: балет
-    be-tarask: балет
+    be_tarask: балет
     bg: балет
     bn: ব্যালে
     br: barrez
     bs: balet
     ca: ballet
-    cbk-zam: ballet
+    cbk_zam: ballet
     ckb: سەمای بالێ
     cs: balet
     cv: балет
@@ -172,7 +172,7 @@ dv_has_:
     pa: ਬੈਲੇ
     pl: balet
     pt: ballet
-    pt-br: balé
+    pt_br: balé
     ro: balet
     rsk: балет
     ru: балет
@@ -197,7 +197,7 @@ dv_has_:
     tl: ballet
     tr: bale
     tt: балет
-    tt-latn: balet
+    tt_latn: balet
     uk: балет
     ur: رقص بالیہ
     uz: balet
@@ -208,10 +208,10 @@ dv_has_:
     yue: 芭蕾
     za: foux bahleiz
     zh: 芭蕾舞
-    zh-cn: 芭蕾舞
-    zh-hant: 芭蕾舞
-    zh-hk: 芭蕾舞
-    zh-tw: 芭蕾舞
+    zh_cn: 芭蕾舞
+    zh_hant: 芭蕾舞
+    zh_hk: 芭蕾舞
+    zh_tw: 芭蕾舞
     zu: ibhalethi
 ---
 # [[Ballet]] 🩰 

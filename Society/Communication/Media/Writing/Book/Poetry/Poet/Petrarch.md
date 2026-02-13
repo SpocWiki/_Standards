@@ -170,7 +170,7 @@ dv_has_:
     azb: فرانچسکو پترارک
     ba: Франческо Петрарка
     be: Франчэска Петрарка
-    be-tarask: Франчэска Пэтрарка
+    be_tarask: Франчэска Пэтрарка
     bg: Франческо Петрарка
     bjn: Petrarca
     bn: ফ্রাঞ্চেস্কো পেত্রার্ক
@@ -185,12 +185,12 @@ dv_has_:
     cy: Francesco Petrarca
     da: Francesco Petrarca
     de: Francesco Petrarca
-    de-ch: Francesco Petrarca
+    de_ch: Francesco Petrarca
     diq: Francesco Petrarca
     el: Πετράρχης
     en: Petrarch
-    en-ca: Petrarch
-    en-gb: Petrarch
+    en_ca: Petrarch
+    en_gb: Petrarch
     eo: Francesco Petrarca
     es: Petrarca
     et: Francesco Petrarca
@@ -244,7 +244,7 @@ dv_has_:
     pms: Francesco Petrarca
     pnb: پیٹرارک
     pt: Francesco Petrarca
-    pt-br: Francesco Petrarca
+    pt_br: Francesco Petrarca
     qu: Petrarca
     ro: Francesco Petrarca
     ru: Франческо Петрарка

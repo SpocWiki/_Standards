@@ -38,7 +38,7 @@ dv_has_:
     oc: Ammotrechidae
     pl: Ammotrechidae
     pt: Ammotrechidae
-    pt-br: Ammotrechidae
+    pt_br: Ammotrechidae
     ro: Ammotrechidae
     ru: Ammotrechidae
     sq: Ammotrechidae
@@ -49,9 +49,9 @@ dv_has_:
     vo: Ammotrechidae
     war: Ammotrechidae
     zh: 沙风蝎科
-    zh-cn: 沙风蝎科
-    zh-hans: 沙风蝎科
-    zh-tw: 砂風蝎科
+    zh_cn: 沙风蝎科
+    zh_hans: 沙风蝎科
+    zh_tw: 砂風蝎科
 ---
 # [[Ammotrechidae]] 
 

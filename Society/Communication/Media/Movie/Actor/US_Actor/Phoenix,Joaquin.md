@@ -46,7 +46,7 @@ dv_has_:
     az: Xoakin Feniks
     azb: واکین فینیکس
     be: Хаакін Фенікс
-    be-tarask: Хаакін Фэнікс
+    be_tarask: Хаакін Фэнікс
     bg: Хоакин Финикс
     bn: হোয়াকিন ফিনিক্স
     ca: Joaquin Phoenix
@@ -108,7 +108,7 @@ dv_has_:
     pl: Joaquin Phoenix
     pms: Joaquin Phoenix
     pt: Joaquin Phoenix
-    pt-br: Joaquin Phoenix
+    pt_br: Joaquin Phoenix
     ro: Joaquin Phoenix
     ru: Хоакин Феникс
     sco: Joaquin Phoenix
@@ -117,8 +117,8 @@ dv_has_:
     sl: Joaquin Phoenix
     sq: Joaquin Phoenix
     sr: Хоакин Финикс
-    sr-ec: Хоакин Финикс
-    sr-el: Hoakin Finiks
+    sr_ec: Хоакин Финикс
+    sr_el: Hoakin Finiks
     sv: Joaquin Phoenix
     tg: Хоакин Феникс
     th: วาคีน ฟีนิกซ์
@@ -136,13 +136,13 @@ dv_has_:
     yo: Joaquin Phoenix
     yue: 華堅馮力士
     zh: 華堅·馮力士
-    zh-cn: 华金·菲尼克斯
-    zh-hans: 华金·菲尼克斯
-    zh-hant: 瓦昆·費尼克斯
-    zh-hk: 華堅馮力士
+    zh_cn: 华金·菲尼克斯
+    zh_hans: 华金·菲尼克斯
+    zh_hant: 瓦昆·費尼克斯
+    zh_hk: 華堅馮力士
     zh-my: 祖昆·冯力士
-    zh-sg: 华坚·冯力士
-    zh-tw: 瓦昆·費尼克斯
+    zh_sg: 华坚·冯力士
+    zh_tw: 瓦昆·費尼克斯
 ---
 #has_/time_/started :: 1974-10-28 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

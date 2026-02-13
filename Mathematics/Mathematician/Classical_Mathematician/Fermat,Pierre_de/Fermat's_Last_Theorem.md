@@ -110,7 +110,7 @@ dv_has_:
     az: Böyük Ferma teoremi
     ba: Ферманың бөйөк теоремаһы
     be: Вялікая тэарэма Ферма
-    be-tarask: Вялікая тэарэма Фэрма
+    be_tarask: Вялікая тэарэма Фэрма
     bg: Последна теорема на Ферма
     bn: ফার্মার শেষ উপপাদ্য
     bs: Fermatov posljednji teorem
@@ -121,7 +121,7 @@ dv_has_:
     cy: Theorem Olaf Fermat
     da: Fermats sidste sætning
     de: Großer Fermatscher Satz
-    de-ch: grosser fermatscher Satz
+    de_ch: grosser fermatscher Satz
     el: Τελευταίο θεώρημα του Φερμά
     en: Fermat's Last Theorem
     eo: lasta teoremo de Fermat
@@ -144,11 +144,11 @@ dv_has_:
     jv: Teoréma Pungkasan Fermat
     ka: ფერმას დიდი თეორემა
     kk: Ферманың Ұлы теоремасы
-    kk-arab: فەرمانىڭ ۇلى تەورەماسى
+    kk_arab: فەرمانىڭ ۇلى تەورەماسى
     kk-cn: فەرمانىڭ ۇلى تەورەماسى
-    kk-cyrl: Ферманың Ұлы теоремасы
+    kk_cyrl: Ферманың Ұлы теоремасы
     kk-kz: Ферманың Ұлы теоремасы
-    kk-latn: Fermanıñ Ulı teoreması
+    kk_latn: Fermanıñ Ulı teoreması
     kk-tr: Fermanıñ Ulı teoreması
     kn: ಫರ್ಮನ ಅಂತಿಮ ಪ್ರಮೇಯ
     ko: 페르마의 마지막 정리
@@ -167,7 +167,7 @@ dv_has_:
     pl: Wielkie twierdzenie Fermata
     pms: Grand teorema ëd Fermat
     pt: último teorema de Fermat
-    pt-br: último teorema de Fermat
+    pt_br: último teorema de Fermat
     ro: Marea teoremă a lui Fermat
     ru: Великая теорема Ферма
     scn: Ùrtimu tiurema di Fermat
@@ -177,8 +177,8 @@ dv_has_:
     sl: Fermatov veliki izrek
     sq: Teorema e fundit e Fermatit
     sr: Последња Фермаова теорема
-    sr-ec: Последња Фермаова теорема
-    sr-el: Poslednja Fermaova teorema
+    sr_ec: Последња Фермаова теорема
+    sr_el: Poslednja Fermaova teorema
     sv: Fermats stora sats
     ta: பெர்மாவின் கடைசித் தேற்றம்
     th: ทฤษฎีบทสุดท้ายของแฟร์มา
@@ -191,12 +191,12 @@ dv_has_:
     yi: פערמאט'ס לעצטער טעארעם
     yue: 費馬最後定理
     zh: 费马大定理
-    zh-cn: 费马大定理
-    zh-hans: 费马大定理
-    zh-hant: 費馬大定理
-    zh-hk: 費馬大定理
-    zh-sg: 费马大定理
-    zh-tw: 費馬大定理
+    zh_cn: 费马大定理
+    zh_hans: 费马大定理
+    zh_hant: 費馬大定理
+    zh_hk: 費馬大定理
+    zh_sg: 费马大定理
+    zh_tw: 費馬大定理
 ---
 # [[Fermat's_Last_Theorem]] 
 

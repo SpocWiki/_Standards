@@ -86,7 +86,7 @@ dv_has_:
     ast: espeleoloxía
     az: speleologiya
     be: спелеалогія
-    be-tarask: спэлеалёгія
+    be_tarask: спэлеалёгія
     bg: Спелеология
     bs: Speleologija
     ca: espeleologia
@@ -118,11 +118,11 @@ dv_has_:
     jv: Spéléologi
     ka: სპელეოლოგია
     kk: Спелеология
-    kk-arab: سپەلەولوگىييا
+    kk_arab: سپەلەولوگىييا
     kk-cn: سپەلەولوگىييا
-    kk-cyrl: Спелеология
+    kk_cyrl: Спелеология
     kk-kz: Спелеология
-    kk-latn: Speleologïya
+    kk_latn: Speleologïya
     kk-tr: Speleologïya
     kn: ಆಟಶಾಸ್ತ್ರ
     ko: 동굴학
@@ -145,8 +145,8 @@ dv_has_:
     sl: speleologija
     sq: Speleologjia
     sr: спелеологија
-    sr-ec: спелеологија
-    sr-el: speleologija
+    sr_ec: спелеологија
+    sr_el: speleologija
     sv: speleologi
     tg: Ғоршиносӣ
     th: ถ้ำวิทยา
@@ -157,12 +157,12 @@ dv_has_:
     war: Speleolohoiya
     yue: 山竉學
     zh: 洞穴學
-    zh-cn: 洞穴学
-    zh-hans: 洞穴学
-    zh-hant: 洞穴學
-    zh-hk: 洞穴學
-    zh-sg: 洞穴学
-    zh-tw: 洞穴學
+    zh_cn: 洞穴学
+    zh_hans: 洞穴学
+    zh_hant: 洞穴學
+    zh_hk: 洞穴學
+    zh_sg: 洞穴学
+    zh_tw: 洞穴學
 ---
 # [[Speleology]] 
 

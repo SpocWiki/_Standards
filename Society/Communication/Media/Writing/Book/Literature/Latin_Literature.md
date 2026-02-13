@@ -89,7 +89,7 @@ dv_has_:
     ar: أدب لاتيني
     ast: Lliteratura en llatín
     be: Рымская літаратура
-    be-tarask: лацінская літаратура
+    be_tarask: лацінская літаратура
     bg: Латинска литература
     bjn: Sastra Latin
     br: Lennegezh latin
@@ -149,8 +149,8 @@ dv_has_:
     sl: literatura v latinščini
     sq: Letërsia latine
     sr: Латинска књижевност
-    sr-ec: Римска књижевност
-    sr-el: Rimska književnost
+    sr_ec: Римска књижевност
+    sr_el: Rimska književnost
     sv: latinsk litteratur
     tr: Latin edebiyatı
     tt: латин телле әдәбияты
@@ -161,12 +161,12 @@ dv_has_:
     wuu: 古罗马文学
     yue: 拉丁文文學
     zh: 拉丁文学
-    zh-cn: 拉丁文学
-    zh-hans: 拉丁文学
-    zh-hant: 拉丁文學
-    zh-hk: 古羅馬文學
-    zh-sg: 古罗马文学
-    zh-tw: 古羅馬文學
+    zh_cn: 拉丁文学
+    zh_hans: 拉丁文学
+    zh_hant: 拉丁文學
+    zh_hk: 古羅馬文學
+    zh_sg: 古罗马文学
+    zh_tw: 古羅馬文學
 ---
 # [[Latin_Literature]] 
 

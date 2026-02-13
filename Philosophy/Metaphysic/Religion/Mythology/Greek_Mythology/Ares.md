@@ -180,7 +180,7 @@ dv_has_:
     azb: آرئس
     bar: Ares
     be: Арэс
-    be-tarask: Арэс
+    be_tarask: Арэс
     bg: Арес
     bn: আরেস
     bpy: আরেস
@@ -194,8 +194,8 @@ dv_has_:
     diq: Ares
     el: Άρης
     en: Ares
-    en-ca: Ares
-    en-gb: Ares
+    en_ca: Ares
+    en_gb: Ares
     eo: Areso
     es: Ares
     et: Ares
@@ -246,7 +246,7 @@ dv_has_:
     pa: ਏਰੀਸ
     pl: Ares
     pt: Ares
-    pt-br: Ares
+    pt_br: Ares
     ro: Ares
     ru: Арес
     scn: Ares
@@ -275,7 +275,7 @@ dv_has_:
     wuu: 阿瑞斯
     yue: 阿雷斯
     zh: 阿瑞斯
-    zh-tw: 阿瑞斯
+    zh_tw: 阿瑞斯
 ---
 # [[Ares]] 
 

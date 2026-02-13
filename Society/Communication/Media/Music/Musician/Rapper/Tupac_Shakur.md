@@ -161,7 +161,7 @@ dv_has_:
     az: Tupak Şakur
     azb: توپاک شکور
     be: Тупак Шакур
-    be-tarask: Тупак Шакур
+    be_tarask: Тупак Шакур
     bg: Тупак Шакур
     bn: টুপাক শাকুর
     bs: Tupac Shakur
@@ -172,12 +172,12 @@ dv_has_:
     cy: 2Pac
     da: Tupac Shakur
     de: Tupac Shakur
-    de-ch: Tupac Shakur
+    de_ch: Tupac Shakur
     diq: Tupac Shakur
     el: Τούπακ Σακούρ
     en: Tupac Shakur
-    en-ca: Tupac Shakur
-    en-gb: Tupac Shakur
+    en_ca: Tupac Shakur
+    en_gb: Tupac Shakur
     eo: Tupac Shakur
     es: Tupac Shakur
     et: Tupac Shakur
@@ -217,7 +217,7 @@ dv_has_:
     lmo: Tupac Shakur
     lt: Tupac Shakur
     lv: Tupaks Šakurs
-    map-bms: Tupac Shakur
+    map_bms: Tupac Shakur
     mg: Tupac Shakur
     mk: Тупак Шакур
     ml: റ്റുപാക് ഷക്കൂർ
@@ -235,7 +235,7 @@ dv_has_:
     pl: Tupac Shakur
     pnb: ٹوپاک شکور
     pt: Tupac Shakur
-    pt-br: Tupac Shakur
+    pt_br: Tupac Shakur
     qu: Tupaq Shakur
     ro: Tupac Shakur
     ru: Тупак Шакур
@@ -261,7 +261,7 @@ dv_has_:
     tn: Tupac Shakur
     tr: Tupac Shakur
     tt: Тупак Шәкүр
-    tt-cyrl: Тупак Шәкүр
+    tt_cyrl: Тупак Шәкүр
     tw: Tupac Shakur
     uk: Тупак Шакур
     ur: ٹوپاک شکور
@@ -274,8 +274,8 @@ dv_has_:
     yo: Tupac Shakur
     yue: 2Pac
     zh: 吐派克·夏庫爾
-    zh-hant: 吐派克·夏庫爾
-    zh-tw: 吐派克·夏庫爾
+    zh_hant: 吐派克·夏庫爾
+    zh_tw: 吐派克·夏庫爾
 ---
 # [[Tupac_Shakur]] 
 

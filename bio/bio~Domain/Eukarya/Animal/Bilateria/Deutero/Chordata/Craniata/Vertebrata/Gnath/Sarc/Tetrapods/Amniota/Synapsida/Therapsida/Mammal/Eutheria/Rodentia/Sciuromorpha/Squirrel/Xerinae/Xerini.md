@@ -52,7 +52,7 @@ dv_has_:
     oc: Xerini
     pl: afrowiórki
     pt: Xerini
-    pt-br: Xerini
+    pt_br: Xerini
     ro: Xerini
     ru: Xerini
     sq: Xerini
@@ -62,9 +62,9 @@ dv_has_:
     vo: Xerini
     war: Xerini
     zh: 非洲地松鼠族
-    zh-cn: 非洲地松鼠族
-    zh-hans: 非洲地松鼠族
-    zh-tw: 非洲地松鼠族
+    zh_cn: 非洲地松鼠族
+    zh_hans: 非洲地松鼠族
+    zh_tw: 非洲地松鼠族
 ---
 # [[Xerini]]
 

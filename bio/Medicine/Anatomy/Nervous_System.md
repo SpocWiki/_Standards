@@ -179,7 +179,7 @@ dv_has_:
     ba: нервы системаһы
     bcl: Sistemang nerbyos
     be: нервовая сістэма
-    be-tarask: нэрвовая сыстэма
+    be_tarask: нэрвовая сыстэма
     bg: Нервна система
     bn: স্নায়ুতন্ত্র
     br: Sistem nervennel
@@ -235,7 +235,7 @@ dv_has_:
     knc: Nerve system
     ko: 신경계통
     ku: koendama demarê
-    ku-latn: Koendam demarê
+    ku_latn: Koendam demarê
     kw: Kevreyth nervus
     ky: нерв тутуму
     la: systema nervosum
@@ -252,7 +252,7 @@ dv_has_:
     mn: Мэдрэлийн систем
     mr: चेतासंस्था
     ms: Sistem saraf
-    ms-arab: سيستم سارف
+    ms_arab: سيستم سارف
     my: အာရုံကြောစနစ်
     nan: Sîn-keng hē-thóng
     nb: nervesystem
@@ -288,8 +288,8 @@ dv_has_:
     smn: niärvádâh
     sq: Sistemi nervor
     sr: нервни систем
-    sr-ec: нервни систем
-    sr-el: nervni sistem
+    sr_ec: нервни систем
+    sr_el: nervni sistem
     sv: nervsystemet
     sw: Mfumo wa neva
     ta: நரம்புத் தொகுதி
@@ -298,7 +298,7 @@ dv_has_:
     tl: Sistemang nerbiyos
     tr: sinir sistemi
     tt: нерв системасы
-    tt-cyrl: нерв системы
+    tt_cyrl: нерв системы
     udm: лулсэр сӧзнэт
     ug: نېرۋا سىستىمېسى
     uk: нервова система
@@ -313,9 +313,9 @@ dv_has_:
     yue: 神經系統
     zgh: ⴰⵍⵍⴰⵍ ⴰⵏⵣⵍⵓⵎ
     zh: 神经系统
-    zh-cn: 神经系统
-    zh-hk: 神經系統
-    zh-tw: 神經系統
+    zh_cn: 神经系统
+    zh_hk: 神經系統
+    zh_tw: 神經系統
 ---
 # [[Nervous_System]] 
 

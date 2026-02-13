@@ -137,7 +137,7 @@ dv_is_same_as:
 - '[[/_secret/Earth/Geography/Place/Administrative_Area/Municipality/Rural_Area.secret|Rural_Area.secret]]'
 dv_has_:
   name_:
-    aeb-arab: ريف
+    aeb_arab: ريف
     ar: ريف
     arc: ܕܒܪܐ
     ast: mediu rural
@@ -145,7 +145,7 @@ dv_has_:
     ba: Ауыл ере
     bcl: Ronang rural
     be: сельская мясцовасць
-    be-tarask: сельская мясцовасьць
+    be_tarask: сельская мясцовасьць
     bg: Селски район
     bho: देहात
     bn: পল্লী অঞ্চল
@@ -195,7 +195,7 @@ dv_has_:
     mk: село
     mnc: ᡤᠠᡧᠠᠨ
     ms: kawasan luar bandar
-    ms-arab: کاوسن لوار باندر
+    ms_arab: کاوسن لوار باندر
     nan: Chng-kha
     nb: bygd
     nl: platteland
@@ -205,7 +205,7 @@ dv_has_:
     pl: obszar wiejski
     ps: کليوالي سيمه
     pt: zona rural
-    pt-br: zona rural
+    pt_br: zona rural
     ro: zonă rurală
     ru: сельская местность
     sah: тыа сирэ
@@ -218,8 +218,8 @@ dv_has_:
     so: Baadiye
     sq: Zona rurale
     sr: сеоско подручје
-    sr-ec: сеоско подручје
-    sr-el: seosko područje
+    sr_ec: сеоско подручје
+    sr_el: seosko područje
     sv: landsbygd
     sw: Eneo la vijijini
     ta: நாட்டுப்புறம்
@@ -237,12 +237,12 @@ dv_has_:
     yi: קאנטרי
     yue: 郊區
     zh: 农村
-    zh-cn: 农村
-    zh-hans: 农村
-    zh-hant: 農村
-    zh-hk: 農村
-    zh-sg: 农村
-    zh-tw: 農村
+    zh_cn: 农村
+    zh_hans: 农村
+    zh_hant: 農村
+    zh_hk: 農村
+    zh_sg: 农村
+    zh_tw: 農村
 ---
 # [[Rural_Area]] 
 

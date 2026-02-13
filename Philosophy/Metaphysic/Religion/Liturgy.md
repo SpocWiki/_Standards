@@ -69,7 +69,7 @@ dv_has_:
     ast: lliturxa
     bcl: Liturhiya
     be: Літургія
-    be-tarask: літургія
+    be_tarask: літургія
     bg: Литургия
     bn: লিটার্জি
     bs: Bogoslužje
@@ -135,8 +135,8 @@ dv_has_:
     sms: liturgia
     sq: liturgjia
     sr: литургија
-    sr-ec: литургија
-    sr-el: liturgija
+    sr_ec: литургија
+    sr_el: liturgija
     sv: liturgi
     sw: liturgia
     tr: litürji
@@ -146,12 +146,12 @@ dv_has_:
     wuu: 礼拜仪式
     yue: 禮儀
     zh: 基督教禮拜儀式
-    zh-cn: 基督教礼拜仪式
-    zh-hans: 基督教礼拜仪式
-    zh-hant: 基督教禮拜儀式
-    zh-hk: 基督教禮拜儀式
-    zh-sg: 基督教礼拜仪式
-    zh-tw: 基督教禮拜儀式
+    zh_cn: 基督教礼拜仪式
+    zh_hans: 基督教礼拜仪式
+    zh_hant: 基督教禮拜儀式
+    zh_hk: 基督教禮拜儀式
+    zh_sg: 基督教礼拜仪式
+    zh_tw: 基督教禮拜儀式
 ---
 # [[Liturgy]] 
 

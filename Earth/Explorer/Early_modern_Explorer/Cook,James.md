@@ -159,7 +159,7 @@ dv_has_:
     ba: Джеймс Кук
     bcl: James Cook
     be: Джэймс Кук
-    be-tarask: Джэймз Кук
+    be_tarask: Джэймз Кук
     bg: Джеймс Кук
     bn: জেমস কুক
     br: James Cook
@@ -178,8 +178,8 @@ dv_has_:
     ee: James Cook
     el: Τζέιμς Κουκ
     en: James Cook
-    en-ca: James Cook
-    en-gb: James Cook
+    en_ca: James Cook
+    en_gb: James Cook
     eo: James Cook
     es: James Cook
     et: James Cook
@@ -268,7 +268,7 @@ dv_has_:
     pnb: جیمز کک
     ps: جېمز کوک
     pt: James Cook
-    pt-br: James Cook
+    pt_br: James Cook
     qu: James Cook
     rki: ဂျိမ်းစ် ကွတ်
     ro: James Cook
@@ -286,7 +286,7 @@ dv_has_:
     sl: James Cook
     sq: Xhejms Kuk
     sr: Џејмс Кук
-    sr-ec: Џејмс Кук
+    sr_ec: Џејмс Кук
     su: James Cook
     sv: James Cook
     sw: James Cook
@@ -317,8 +317,8 @@ dv_has_:
     yue: 曲船長
     za: James Cook
     zh: 詹姆斯·库克
-    zh-hant: 詹姆斯·庫克
-    zh-hk: 占士曲
+    zh_hant: 詹姆斯·庫克
+    zh_hk: 占士曲
   time_:
     started: 1728-10-27T00:00:00.000+00:53
     stopped: 1779-02-14T00:00:00.000+00:53

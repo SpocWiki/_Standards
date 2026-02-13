@@ -131,7 +131,7 @@ dv_has_:
     ba: Яҙыу машинкаһы
     bcl: Makinilya
     be: Пішучая машынка
-    be-tarask: друкавальная машынка
+    be_tarask: друкавальная машынка
     bg: пишеща машина
     bho: टाइपराइटर
     bn: টাইপরাইটার
@@ -146,8 +146,8 @@ dv_has_:
     diq: daktilo
     el: γραφομηχανή
     en: typewriter
-    en-ca: typewriter
-    en-gb: typewriter
+    en_ca: typewriter
+    en_gb: typewriter
     eo: tajpilo
     es: máquina de escribir
     et: kirjutusmasin
@@ -176,7 +176,7 @@ dv_has_:
     ka: საბეჭდი მანქანა
     kcg: keke mbwak
     kk: жазатын машина
-    kk-latn: jazatın maşina
+    kk_latn: jazatın maşina
     kn: ಬೆರಳಚ್ಚು ಯಂತ್ರ
     ko: 타자기
     la: dactylographium
@@ -200,7 +200,7 @@ dv_has_:
     pl: maszyna do pisania
     pnb: ٹائپ رائٹر
     pt: máquina de escrever
-    pt-br: máquina de escrever
+    pt_br: máquina de escrever
     ro: mașină de scris
     ru: пишущая машинка
     sa: टङ्कनयन्त्रम्
@@ -211,8 +211,8 @@ dv_has_:
     sl: pisalni stroj
     sq: makina shkrimit
     sr: писаћа машина
-    sr-ec: писаћа машина
-    sr-el: pisaća mašina
+    sr_ec: писаћа машина
+    sr_el: pisaća mašina
     su: mesin ketik
     sv: skrivmaskin
     sw: taipureta

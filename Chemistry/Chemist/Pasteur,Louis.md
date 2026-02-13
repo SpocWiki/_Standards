@@ -268,7 +268,7 @@ dv_has_:
     bar: Louis Pasteur
     bcl: Louis Pasteur
     be: Луі Пастэр
-    be-tarask: Люі Пастэр
+    be_tarask: Люі Пастэр
     bg: Луи Пастьор
     bn: লুই পাস্তুর
     br: Louis Pasteur
@@ -287,12 +287,12 @@ dv_has_:
     da: Louis Pasteur
     de: Louis Pasteur
     de-at: Louis Pasteur
-    de-ch: Louis Pasteur
+    de_ch: Louis Pasteur
     dty: लुई पास्चर
     el: Λουί Παστέρ
     en: Louis Pasteur
-    en-ca: Louis Pasteur
-    en-gb: Louis Pasteur
+    en_ca: Louis Pasteur
+    en_gb: Louis Pasteur
     en-us: Louis Pasteur
     eo: Louis Pasteur
     es: Louis Pasteur
@@ -368,7 +368,7 @@ dv_has_:
     nap: Louis Pasteur
     nb: Louis Pasteur
     nds: Louis Pasteur
-    nds-nl: Louis Pasteur
+    nds_nl: Louis Pasteur
     ne: लोइस पास्चर
     new: लुई पास्चर
     nl: Louis Pasteur
@@ -387,7 +387,7 @@ dv_has_:
     pnb: لوئی پاسچر
     ps: لوی پاسټر
     pt: Louis Pasteur
-    pt-br: Louis Pasteur
+    pt_br: Louis Pasteur
     qu: Louis Pasteur
     rki: လူးဝစ် ပါစချာ
     rm: Louis Pasteur
@@ -408,8 +408,8 @@ dv_has_:
     sl: Louis Pasteur
     sq: Louis Pasteur
     sr: Луј Пастер
-    sr-ec: Луј Пастер
-    sr-el: Louis Pasteur
+    sr_ec: Луј Пастер
+    sr_el: Louis Pasteur
     su: Louis Pasteur
     sv: Louis Pasteur
     sw: Louis Pasteur
@@ -441,10 +441,10 @@ dv_has_:
     yue: 巴士德
     za: Louis Pasteur
     zh: 路易·巴斯德
-    zh-cn: 路易·巴斯德
-    zh-hans: 路易·巴斯德
-    zh-hant: 路易·巴斯德
-    zh-hk: 路易·巴士德
+    zh_cn: 路易·巴斯德
+    zh_hans: 路易·巴斯德
+    zh_hant: 路易·巴斯德
+    zh_hk: 路易·巴士德
     zu: Louis Pasteur
 ---
 # [[Pasteur,Louis]] 

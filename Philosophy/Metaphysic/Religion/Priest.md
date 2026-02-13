@@ -218,7 +218,7 @@ dv_has_:
     bar: Priesta
     bcl: Padi
     be: святар
-    be-tarask: сьвятар
+    be_tarask: сьвятар
     bg: свещеник
     bn: ধর্মযাজক
     bo: ཆོས་དཔོན།
@@ -233,13 +233,13 @@ dv_has_:
     cy: offeiriad
     da: præst
     de: Priester
-    de-ch: Priester
+    de_ch: Priester
     diq: Papaz
     el: ιερέας
     eml: Prèt
     en: priest
-    en-ca: Priest
-    en-gb: priest
+    en_ca: Priest
+    en_gb: priest
     en-us: priest
     eo: pastro
     es: sacerdote
@@ -278,7 +278,7 @@ dv_has_:
     km: បូជាចារ្យ
     ko: 사제
     ku: qeşe
-    ku-latn: qeşe
+    ku_latn: qeşe
     kw: pronter
     la: sacerdos
     lb: Priister
@@ -311,7 +311,7 @@ dv_has_:
     pnb: قسیس
     ps: پادري
     pt: sacerdote
-    pt-br: sacerdote
+    pt_br: sacerdote
     pwn: pulingaw
     qu: Taytakura
     rmf: raȟȟal
@@ -332,7 +332,7 @@ dv_has_:
     sms: papp
     sq: prift
     sr: свештеник
-    sr-ec: свештеник
+    sr_ec: свештеник
     sv: präst
     sw: Kuhani
     szy: kakawsan
@@ -343,7 +343,7 @@ dv_has_:
     tr: papaz
     ts: Mufundhisi
     tt: рухани
-    tt-cyrl: рухани
+    tt_cyrl: рухани
     uk: священник
     ur: قس
     uz: Ruhoniy
@@ -355,7 +355,7 @@ dv_has_:
     wuu: 神父
     yue: 祭司
     zh: 祭司
-    zh-hant: 祭司
+    zh_hant: 祭司
 ---
 # [[Priest]] 
 

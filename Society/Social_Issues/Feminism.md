@@ -187,7 +187,7 @@ dv_has_:
     bar: Feminismus
     bcl: Feminismo
     be: фемінізм
-    be-tarask: фэмінізм
+    be_tarask: фэмінізм
     bew: Kewadonan
     bg: Феминизъм
     bho: नारीवाद
@@ -206,12 +206,12 @@ dv_has_:
     cy: ffeministiaeth
     da: feminisme
     de: Feminismus
-    de-ch: Feminismus
+    de_ch: Feminismus
     diq: Feminizm
     el: φεμινισμός
     en: feminism
-    en-ca: Feminism
-    en-gb: feminism
+    en_ca: Feminism
+    en_gb: feminism
     eo: feminismo
     es: feminismo
     et: feminism
@@ -284,7 +284,7 @@ dv_has_:
     nan: Lú-sèng-chú-gī
     nb: feminisme
     nds: Feminismus
-    nds-nl: feminisme
+    nds_nl: feminisme
     ne: नारीवाद
     new: मिसावाद
     nl: feminisme
@@ -301,7 +301,7 @@ dv_has_:
     pnb: فیمینزم
     ps: فیمینزم
     pt: feminismo
-    pt-br: feminismo
+    pt_br: feminismo
     ro: feminism
     ru: феминизм
     rue: фемінізм
@@ -326,7 +326,7 @@ dv_has_:
     so: Eexasho haweeneed
     sq: Feminizmi
     sr: феминизам
-    sr-ec: феминизам
+    sr_ec: феминизам
     su: Féminisme
     sv: feminism
     sw: Ufeministi
@@ -356,8 +356,8 @@ dv_has_:
     yo: Iṣegbefabo
     yue: 女性主義
     zh: 女權主義
-    zh-hans: 女权论者
-    zh-hant: 女權論者
+    zh_hans: 女权论者
+    zh_hant: 女權論者
 ---
 # [[Feminism]] 
 

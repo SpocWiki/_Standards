@@ -153,7 +153,7 @@ dv_has_:
     azb: الکولیزم
     ba: алкоголизм
     be: алкагалізм
-    be-tarask: алькагалізм
+    be_tarask: алькагалізм
     bg: Алкохолизъм
     bn: মদ্যাসক্তি
     br: alkoolegezh
@@ -209,7 +209,7 @@ dv_has_:
     mn: Архидалт
     mr: मद्यपाश
     ms: alkoholisme
-    ms-arab: الکوهوليسمى
+    ms_arab: الکوهوليسمى
     mt: alkoħoliżmu
     nan: Chiú-cheng tiòng-to̍k
     nb: alkoholisme
@@ -224,7 +224,7 @@ dv_has_:
     pl: alkoholizm
     ps: الکوليزم
     pt: alcoolismo
-    pt-br: alcoolismo
+    pt_br: alcoolismo
     qu: T'iyu unquy
     rn: Ibiyayura umutwe
     ro: alcoolism
@@ -242,7 +242,7 @@ dv_has_:
     sms: alkoholismm
     sq: Alkoolizmi
     sr: алкохолизам
-    sr-ec: алкохолизам
+    sr_ec: алкохолизам
     sv: alkoholism
     sw: Ulevi
     ta: குடிப்பழக்கம்
@@ -264,7 +264,7 @@ dv_has_:
     yue: 酗酒
     za: Lanh laeuj
     zh: 酗酒
-    zh-hant: 酗酒
+    zh_hant: 酗酒
 ---
 # [[Alcoholism]] 
 

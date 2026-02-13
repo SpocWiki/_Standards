@@ -191,8 +191,8 @@ dv_has_:
     ko: 운향과
     koi: Рута котыр
     ku: Famîleya sipindan
-    ku-arab: فامیلەیا سپندان
-    ku-latn: Famîleya sipindan
+    ku_arab: فامیلەیا سپندان
+    ku_latn: Famîleya sipindan
     kv: Рута котыр
     ky: Руталар
     la: Rutaceae
@@ -214,7 +214,7 @@ dv_has_:
     pam: Rutaceae
     pl: rutowate
     pt: Rutáceas
-    pt-br: Rutaceae
+    pt_br: Rutaceae
     rm: Rutaceae
     ro: Rutaceae
     ru: рутовые
@@ -241,12 +241,12 @@ dv_has_:
     yo: Rutaceae
     yue: 芸香科
     zh: 芸香科
-    zh-cn: 芸香科
-    zh-hans: 芸香科
-    zh-hant: 芸香科
-    zh-hk: 芸香科
-    zh-sg: 芸香科
-    zh-tw: 芸香科
+    zh_cn: 芸香科
+    zh_hans: 芸香科
+    zh_hant: 芸香科
+    zh_hk: 芸香科
+    zh_sg: 芸香科
+    zh_tw: 芸香科
 ---
 # [[Rutaceae]]  
 

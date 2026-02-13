@@ -87,7 +87,7 @@ dv_has_:
     af: traporrel
     ar: القدمية
     ast: harmoniu
-    be-tarask: язычковы арган
+    be_tarask: язычковы арган
     bg: езичков орган
     bho: हरमुनिया
     bn: হারমোনিয়াম
@@ -98,7 +98,7 @@ dv_has_:
     de: Harmonium
     el: αρμόνιο
     en: reed organ
-    en-gb: reed organ
+    en_gb: reed organ
     en-us: pump organ
     eo: harmoniumo
     es: armonio
@@ -144,7 +144,7 @@ dv_has_:
     sk: harmónium
     sl: harmonij
     sr: хармонијум
-    sr-ec: хармонијум
+    sr_ec: хармонијум
     sv: harmonium
     ta: ஆர்மோனியம்
     te: హార్మోనియం

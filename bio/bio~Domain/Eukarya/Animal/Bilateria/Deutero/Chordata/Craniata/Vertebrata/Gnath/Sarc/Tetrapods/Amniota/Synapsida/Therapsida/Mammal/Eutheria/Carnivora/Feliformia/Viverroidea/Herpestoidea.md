@@ -47,7 +47,7 @@ dv_has_:
     oc: Herpestoidea
     pl: Herpestoidea
     pt: Herpestoidea
-    pt-br: Herpestoidea
+    pt_br: Herpestoidea
     ro: Herpestoidea
     ru: Herpestoidea
     sl: Herpestoidea
@@ -59,8 +59,8 @@ dv_has_:
     vo: Herpestoidea
     war: Herpestoidea
     zh: 獴總科
-    zh-cn: 獴总科
-    zh-hans: 獴总科
+    zh_cn: 獴总科
+    zh_hans: 獴总科
 ---
 # [[Herpestoidea]] 
 

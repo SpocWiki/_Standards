@@ -274,7 +274,7 @@ dv_has_:
     azb: رونالد ریگان
     ba: Рональд Рейган
     be: Рональд Уілсан Рэйган
-    be-tarask: Роналд Рэйган
+    be_tarask: Роналд Рэйган
     bg: Роналд Рейгън
     bho: रोनाल्ड विल्सन रीगन
     bn: রোনাল্ড রেগন
@@ -284,7 +284,7 @@ dv_has_:
     chr: ᏬᎾᎵᏗ ᏪᎦᏂ
     ckb: ڕۆناڵد ڕەیگن
     crh: Ronald Reygan
-    crh-latn: Ronald Reygan
+    crh_latn: Ronald Reygan
     cs: Ronald Reagan
     cu: Роналдъ Рєиганъ
     cv: Рональд Рейган
@@ -363,11 +363,11 @@ dv_has_:
     yi: ראנאלד רייגען
     yue: 朗奴列根
     zh: 罗纳德·里根
-    zh-cn: 罗纳德·里根
-    zh-hans: 罗纳德·里根
-    zh-hant: 隆納德·列根
-    zh-hk: 朗奴·列根
-    zh-tw: 隆納·雷根
+    zh_cn: 罗纳德·里根
+    zh_hans: 罗纳德·里根
+    zh_hant: 隆納德·列根
+    zh_hk: 朗奴·列根
+    zh_tw: 隆納·雷根
   time_:
     started: 1911-02-06T00:00:00.000+01:00
     stopped: 2004-06-05T00:00:00.000+02:00

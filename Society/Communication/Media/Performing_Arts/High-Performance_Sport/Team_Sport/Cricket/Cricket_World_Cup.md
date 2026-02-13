@@ -90,7 +90,7 @@ dv_has_:
     ar: كأس العالم للكريكت
     ast: Copa Mundial de Críquet
     ba: Крикет буйынса донъя чемпионаты
-    be-tarask: чэмпіянат сьвету па крыкеце
+    be_tarask: чэмпіянат сьвету па крыкеце
     bn: ক্রিকেট বিশ্বকাপ
     ca: Campionat del Món de criquet masculí
     cs: Mistrovství světa v kriketu
@@ -136,8 +136,8 @@ dv_has_:
     si: ක්රිකට් ලෝක කුසලාන
     sk: Majstrovstvá sveta v krikete
     sr: Светски куп у крикету
-    sr-ec: Светски куп у крикету
-    sr-el: Svetski kup u kriketu
+    sr_ec: Светски куп у крикету
+    sr_el: Svetski kup u kriketu
     sv: Världsmästerskapet i cricket för herrar
     ta: துடுப்பாட்ட உலகக்கிண்ணம்
     te: ఐసిసి క్రికెట్ ప్రపంచ కప్
@@ -150,12 +150,12 @@ dv_has_:
     wuu: 板球世界杯
     yue: 木球世界盃
     zh: 板球世界杯
-    zh-cn: 板球世界杯
-    zh-hans: 板球世界杯
-    zh-hant: 板球世界盃
-    zh-hk: 木球世界盃
-    zh-sg: 板球世界杯
-    zh-tw: 板球世界盃
+    zh_cn: 板球世界杯
+    zh_hans: 板球世界杯
+    zh_hant: 板球世界盃
+    zh_hk: 木球世界盃
+    zh_sg: 板球世界杯
+    zh_tw: 板球世界盃
 ---
 # [[Cricket_World_Cup]] 
 

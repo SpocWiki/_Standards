@@ -45,10 +45,10 @@ dv_has_:
     cs: mločíci
     da: lungeløse salamandre
     de: Lungenlose Salamander
-    de-ch: Lungenlose Salamander
+    de_ch: Lungenlose Salamander
     en: Plethodontidae
-    en-ca: Lungless salamander
-    en-gb: Lungless salamander
+    en_ca: Lungless salamander
+    en_gb: Lungless salamander
     eo: Pletodontedoj
     es: Plethodontidae
     eu: Plethodontidae
@@ -77,7 +77,7 @@ dv_has_:
     oc: Plethodontidae
     pl: Bezpłucnikowate
     pt: Plethodontidae
-    pt-br: Plethodontidae
+    pt_br: Plethodontidae
     ro: Plethodontidae
     ru: Безлёгочные саламандры
     sq: Plethodontidae
@@ -89,8 +89,8 @@ dv_has_:
     vo: Plethodontidae
     war: Plethodontidae
     zh: 无肺螈科
-    zh-cn: 无肺螈科
-    zh-hans: 无肺螈科
+    zh_cn: 无肺螈科
+    zh_hans: 无肺螈科
 ---
 # [[Plethodontinae]] 
 

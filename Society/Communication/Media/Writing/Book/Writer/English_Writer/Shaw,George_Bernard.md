@@ -188,7 +188,7 @@ dv_has_:
     ba: Джордж Бернард Шоу
     bar: George Bernard Shaw
     be: Джордж Бернард Шоу
-    be-tarask: Джордж Бэрнард Шоў
+    be_tarask: Джордж Бэрнард Шоў
     bg: Джордж Бърнард Шоу
     bm: George Bernard Shaw
     bn: জর্জ বার্নার্ড শ'
@@ -204,12 +204,12 @@ dv_has_:
     da: George Bernard Shaw
     de: George Bernard Shaw
     de-at: George Bernard Shaw
-    de-ch: George Bernard Shaw
+    de_ch: George Bernard Shaw
     diq: George Bernard Shaw
     el: Τζορτζ Μπέρναρντ Σω
     en: George Bernard Shaw
-    en-ca: George Bernard Shaw
-    en-gb: George Bernard Shaw
+    en_ca: George Bernard Shaw
+    en_gb: George Bernard Shaw
     eo: George Bernard Shaw
     es: George Bernard Shaw
     et: George Bernard Shaw
@@ -275,7 +275,7 @@ dv_has_:
     nap: George Bernard Shaw
     nb: George Bernard Shaw
     nds: George Bernard Shaw
-    nds-nl: George Bernard Shaw
+    nds_nl: George Bernard Shaw
     ne: जर्ज बर्नाड शा
     new: जोर्ज बर्नार्ड शा
     nl: George Bernard Shaw
@@ -292,7 +292,7 @@ dv_has_:
     prg: George Bernard Shaw
     ps: جورج برنارد شاو
     pt: George Bernard Shaw
-    pt-br: George Bernard Shaw
+    pt_br: George Bernard Shaw
     qu: George Bernard Shaw
     rgn: George Bernard Shaw
     rm: George Bernard Shaw
@@ -307,7 +307,7 @@ dv_has_:
     sl: George Bernard Shaw
     sq: George Bernard Shaw
     sr: Џорџ Бернард Шо
-    sr-el: George Bernard Shaw
+    sr_el: George Bernard Shaw
     sv: George Bernard Shaw
     sw: George Bernard Shaw
     ta: ஜார்ஜ் பெர்னாட் ஷா
@@ -319,7 +319,7 @@ dv_has_:
     uk: Бернард Шоу
     ur: جارج برنارڈ شا
     uz: George Bernard Shaw
-    uz-cyrl: Жорж Бернард Шоу
+    uz_cyrl: Жорж Бернард Шоу
     vec: George Bernard Shaw
     vi: George Bernard Shaw
     vls: George Bernard Shaw

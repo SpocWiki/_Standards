@@ -387,7 +387,7 @@ dv_has_:
     ban: Pandemi koronavirus 2019-2020
     bcl: Coronavirus- Pagbungkaras 2019-20
     be: Успышка каронавіруса 2019-nCoV
-    be-tarask: успышка каранавіруснай інфэкцыі 2019—2020
+    be_tarask: успышка каранавіруснай інфэкцыі 2019—2020
     bg: Пандемия от COVID-19
     bho: 2019–20 कोरोना वाइरस प्रकोप
     bjn: Pandemi COVID-19
@@ -409,7 +409,7 @@ dv_has_:
     dag: COVID-19
     de: COVID-19-Pandemie
     de-at: COVID-19-Pandemie
-    de-ch: Coronavirus-Epidemie 2019/2020
+    de_ch: Coronavirus-Epidemie 2019/2020
     diq: Pandemia COVID-19y
     dsb: Pandemija koronawirusa
     dty: २०१९-२० कोरोनाभाइरस महामारी
@@ -476,7 +476,7 @@ dv_has_:
     mos: COVID-19 pandemic
     mr: २०१९-२०२० वुहान कोरोना व्हायरसचा उद्रेक
     ms: pandemik COVID-19
-    ms-arab: ڤندميک کوۏيد-19
+    ms_arab: ڤندميک کوۏيد-19
     mt: Pandemija tal-COVID-19 tal-2019–20
     mwl: Pandemie de coronabírus
     my: ၂၀၁၉-၂၀ ဝူဟန်ကိုရိုနာဗိုင်းရပ်စ် ဖြစ်ပွားမှု
@@ -495,7 +495,7 @@ dv_has_:
     pnb: کورونا وائرس دی عالمی وبا، 2019ء - 2020ء
     ps: کوويډ-۱۹ وبا
     pt: pandemia de COVID-19
-    pt-br: pandemia de COVID-19
+    pt_br: pandemia de COVID-19
     qu: 2019-2020 Kurunawirus lliw unqurichiq
     ro: pandemia de coronaviroză COVID-19
     ru: пандемия COVID-19
@@ -549,14 +549,14 @@ dv_has_:
     yo: Àjákálẹ̀-àrùn kòkòrò àìlèfojúrí afàìsàn kòrónà
     yue: 武漢肺炎大爆發
     zh: 2019冠狀病毒病疫情
-    zh-cn: 2019冠状病毒病疫情
-    zh-hans: 2019冠状病毒病疫情
-    zh-hant: 2019冠狀病毒病疫情
-    zh-hk: 2019冠狀病毒病疫情
-    zh-mo: 2019冠狀病毒病疫情
+    zh_cn: 2019冠状病毒病疫情
+    zh_hans: 2019冠状病毒病疫情
+    zh_hant: 2019冠狀病毒病疫情
+    zh_hk: 2019冠狀病毒病疫情
+    zh_mo: 2019冠狀病毒病疫情
     zh-my: 2019冠状病毒病疫情
-    zh-sg: 2019冠状病毒病疫情
-    zh-tw: 2019冠狀病毒病疫情
+    zh_sg: 2019冠状病毒病疫情
+    zh_tw: 2019冠狀病毒病疫情
     zu: Isifo seCoronavirus 2019
 ---
 # [[COVID-19_pandemic]] 

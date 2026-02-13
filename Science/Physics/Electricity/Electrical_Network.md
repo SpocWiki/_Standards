@@ -104,7 +104,7 @@ dv_has_:
     ar: دارة كهربائية
     ast: circuitu
     be: электрычны ланцуг
-    be-tarask: электрычны ланцуг
+    be_tarask: электрычны ланцуг
     bg: електрическа верига
     bn: তড়িৎ বর্তনী
     bs: električne mreže
@@ -116,8 +116,8 @@ dv_has_:
     de: elektrische Schaltung
     el: ηλεκτρικό κύκλωμα
     en: electrical circuit
-    en-ca: electrical network
-    en-gb: electrical network
+    en_ca: electrical network
+    en_gb: electrical network
     en-us: electrical network
     eo: elektra cirkvito
     es: circuito eléctrico
@@ -159,7 +159,7 @@ dv_has_:
     or: ବୈଦୁତିକ ପରିପଥ
     pl: obwód elektryczny
     pt: circuito elétrico
-    pt-br: circuito elétrico
+    pt_br: circuito elétrico
     qu: pinchikilla muyu
     ro: circuit electric
     ru: электроцепь
@@ -171,8 +171,8 @@ dv_has_:
     smn: virdepirrâdâh
     sq: qark elektrik
     sr: електрично коло
-    sr-ec: електрично коло
-    sr-el: električno kolo
+    sr_ec: електрично коло
+    sr_el: električno kolo
     sv: elektrisk krets
     ta: மின்சுற்று
     tg: Занҷири электрӣ
@@ -190,12 +190,12 @@ dv_has_:
     wuu: 电路
     yue: 電路
     zh: 电路
-    zh-cn: 电路
-    zh-hans: 电路
-    zh-hant: 電路
-    zh-hk: 電路
-    zh-sg: 电路
-    zh-tw: 電路
+    zh_cn: 电路
+    zh_hans: 电路
+    zh_hant: 電路
+    zh_hk: 電路
+    zh_sg: 电路
+    zh_tw: 電路
 ---
 # [[Electrical_Network]] 
 

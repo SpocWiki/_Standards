@@ -183,7 +183,7 @@ Commons_category: Nepali language
 GOST_7_75_97_code: неп 485
 dv_has_:
   name_:
-    aeb-arab: النيپالي
+    aeb_arab: النيپالي
     af: nepali
     am: ኔፓልኛ
     anp: नेपाली भाषा
@@ -198,7 +198,7 @@ dv_has_:
     ba: Непал теле
     bar: Nepali
     be: непальская мова
-    be-tarask: нэпальская мова
+    be_tarask: нэпальская мова
     bg: Непалски език
     bho: नेपाली भाषा
     bn: নেপালি ভাষা
@@ -325,8 +325,8 @@ dv_has_:
     yue: 尼泊爾文
     za: Vahnizbozwj
     zh: 尼泊尔语
-    zh-hant: 尼泊爾語
-    zh-hk: 尼泊爾語
+    zh_hant: 尼泊爾語
+    zh_hk: 尼泊爾語
     zu: isi-Nepali
 ---
 # [[Nepali]] 

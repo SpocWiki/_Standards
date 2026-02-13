@@ -175,7 +175,7 @@ dv_has_:
     ba: тоҙ
     bcl: Asin (kimika)
     be: солі
-    be-tarask: соль
+    be_tarask: соль
     bew: Garem
     bg: Сол
     bjn: Uyah
@@ -236,7 +236,7 @@ dv_has_:
     ml: ലവണം
     mrj: Санзалвлӓ
     ms: garam
-    ms-arab: ݢارم
+    ms_arab: ݢارم
     my: ဆား
     myv: сал
     nan: Iâm
@@ -254,7 +254,7 @@ dv_has_:
     pnt: Άλας
     ps: مالګه (کېميا)
     pt: sal
-    pt-br: sal
+    pt_br: sal
     qu: Kachi
     ro: Sare
     ru: соль
@@ -270,8 +270,8 @@ dv_has_:
     sms: säʹltt
     sq: Kripërat
     sr: со
-    sr-ec: со
-    sr-el: so
+    sr_ec: со
+    sr_el: so
     su: Uyah
     sv: salter
     sw: Chumvi
@@ -294,14 +294,14 @@ dv_has_:
     yi: זאלץ
     yue: 鹽
     zh: 盐
-    zh-cn: 盐
-    zh-hans: 盐
-    zh-hant: 鹽
-    zh-hk: 鹽
-    zh-mo: 鹽
+    zh_cn: 盐
+    zh_hans: 盐
+    zh_hant: 鹽
+    zh_hk: 鹽
+    zh_mo: 鹽
     zh-my: 盐
-    zh-sg: 盐
-    zh-tw: 鹽
+    zh_sg: 盐
+    zh_tw: 鹽
 ---
 # [[Salt(Chemistry)]] 
 

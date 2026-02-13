@@ -139,7 +139,7 @@ dv_has_:
     ban: Johannes Diderik van der Waals
     bar: Johannes Diderik van der Waals
     be: Ян Дыдэрык Ван-дэр-Ваальс
-    be-tarask: Ян Дыдэрык Ван-дэр-Ваальс
+    be_tarask: Ян Дыдэрык Ван-дэр-Ваальс
     bg: Йоханес ван дер Ваалс
     bn: ইয়োহানেস ডিডেরিক ফান ডার ভাল্স
     bs: Johannes Diderik van der Waals
@@ -150,12 +150,12 @@ dv_has_:
     da: Johannes Diderik van der Waals
     de: Johannes Diderik van der Waals
     de-at: Johannes Diderik van der Waals
-    de-ch: Johannes Diderik van der Waals
+    de_ch: Johannes Diderik van der Waals
     el: Γιοχάννες φαν ντερ Βάαλς
     eml: Johannes Diderik van der Waals
     en: Johannes Diderik van der Waals
-    en-ca: Johannes Diderik van der Waals
-    en-gb: Johannes Diderik van der Waals
+    en_ca: Johannes Diderik van der Waals
+    en_gb: Johannes Diderik van der Waals
     en-us: Johannes Diderik van der Waals
     eo: Johannes Diderik van der Waals
     es: Johannes van der Waals
@@ -190,8 +190,8 @@ dv_has_:
     kn: ವ್ಯಾನ್ ಡರ್ ವಾಲ್ಸ್
     ko: 요하너스 디데릭 판데르발스
     ku: Johannes Diderik van der Waals
-    ku-arab: ژۆهاننەس ددەرک ڤان دەر واالس
-    ku-latn: Johannes Diderik van der Waals
+    ku_arab: ژۆهاننەس ددەرک ڤان دەر واالس
+    ku_latn: Johannes Diderik van der Waals
     ky: Ваальс
     la: Iohannes Diderik van der Waals
     lb: Johannes Diderik van der Waals
@@ -218,7 +218,7 @@ dv_has_:
     pms: Johannes Diderik van der Waals
     pnb: یوہانس دائیڈیرک فان ڈی والز
     pt: Johannes Diderik van der Waals
-    pt-br: Johannes Diderik van der Waals
+    pt_br: Johannes Diderik van der Waals
     rm: Johannes Diderik van der Waals
     rmf: Johannes Diderik van der Waals
     ro: Johannes Diderik van der Waals
@@ -238,8 +238,8 @@ dv_has_:
     sms: Johannes Diderik van der Waals
     sq: Johannes Diderik van der Waals
     sr: Јоханес ван дер Валс
-    sr-ec: Јоханес ван дер Валс
-    sr-el: Johanes van der Vals
+    sr_ec: Јоханес ван дер Валс
+    sr_el: Johanes van der Vals
     su: Johannes Diderik van der Waals
     sv: Johannes Diderik van der Waals
     sw: Johannes Diderik van der Waals
@@ -259,12 +259,12 @@ dv_has_:
     yo: Johannes Diderik van der Waals
     yue: 范德華
     zh: 约翰内斯·迪德里克·范德瓦耳斯
-    zh-cn: 约翰内斯·迪德里克·范德瓦耳斯
-    zh-hans: 约翰内斯·迪德里克·范德瓦耳斯
-    zh-hant: 約翰內斯·迪德里克·凡得瓦
-    zh-hk: 約翰內斯·迪德里克·范德華
-    zh-sg: 约翰内斯·迪德里克·范德瓦耳斯
-    zh-tw: 約翰尼斯·迪德里克·凡得瓦
+    zh_cn: 约翰内斯·迪德里克·范德瓦耳斯
+    zh_hans: 约翰内斯·迪德里克·范德瓦耳斯
+    zh_hant: 約翰內斯·迪德里克·凡得瓦
+    zh_hk: 約翰內斯·迪德里克·范德華
+    zh_sg: 约翰内斯·迪德里克·范德瓦耳斯
+    zh_tw: 約翰尼斯·迪德里克·凡得瓦
 ---
 # [[van_der_Waals,Johannes_Diderik]] 
 

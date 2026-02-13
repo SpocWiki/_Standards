@@ -174,7 +174,7 @@ dv_has_:
     bar: Grammatik
     bcl: gramatika
     be: граматыка
-    be-tarask: граматыка
+    be_tarask: граматыка
     bg: граматика
     bho: व्याकरण
     bn: ব্যাকরণ
@@ -188,18 +188,18 @@ dv_has_:
     ceb: gramatika
     ckb: ڕێزمان
     crh: sarf
-    crh-latn: Sarf
+    crh_latn: Sarf
     cs: gramatika
     cv: грамматика
     cy: gramadeg
     da: grammatik
     de: Grammatik
-    de-ch: Grammatik
+    de_ch: Grammatik
     diq: gramer
     el: γραμματική
     en: grammar
-    en-ca: grammar
-    en-gb: grammar
+    en_ca: grammar
+    en_gb: grammar
     eo: gramatiko
     es: gramática
     et: grammatika
@@ -254,7 +254,7 @@ dv_has_:
     krc: грамматика
     krj: lantipulong
     ku: rêziman
-    ku-latn: rêziman
+    ku_latn: rêziman
     kw: yethador
     ky: грамматика
     la: grammatica
@@ -280,7 +280,7 @@ dv_has_:
     mnw: သဒ္ဒါမန်
     mr: व्याकरण
     ms: tatabahasa
-    ms-arab: تاتابهاس
+    ms_arab: تاتابهاس
     mwl: gramática
     my: သဒ္ဒါ
     myv: грамматика
@@ -307,7 +307,7 @@ dv_has_:
     pnt: γραμματική
     ps: ژبتګلار
     pt: gramática
-    pt-br: gramática
+    pt_br: gramática
     qu: simi kamachiy
     ro: gramatică
     ru: грамматика
@@ -360,14 +360,14 @@ dv_has_:
     yue: 文法
     zea: grammaotica
     zh: 语法
-    zh-cn: 语法
-    zh-hans: 语法
-    zh-hant: 文法
-    zh-hk: 文法
-    zh-mo: 語法
+    zh_cn: 语法
+    zh_hans: 语法
+    zh_hant: 文法
+    zh_hk: 文法
+    zh_mo: 語法
     zh-my: 语法
-    zh-sg: 语法
-    zh-tw: 文法
+    zh_sg: 语法
+    zh_tw: 文法
 ---
 # [[Grammar]] 
 

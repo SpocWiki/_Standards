@@ -54,7 +54,7 @@ Commons_category: Military education and training
 dv_has_:
   name_:
     ar: تعليم وتدريب عسكري
-    be-tarask: вайсковая падрыхтоўка
+    be_tarask: вайсковая падрыхтоўка
     bg: Военна подготовка
     bn: সামরিক শিক্ষা এবং প্রশিক্ষণ
     ca: instrucció militar
@@ -85,18 +85,18 @@ dv_has_:
     sl: vojaško izobraževanje in usposabljanje
     sq: arsimi ushtarak
     sr: војно образовања и обука
-    sr-ec: војно образовања и обука
-    sr-el: vojno obrazovanja i obuka
+    sr_ec: војно образовања и обука
+    sr_el: vojno obrazovanja i obuka
     sv: militär utbildning
     tr: askerî öğretim ve eğitim
     uk: бойова підготовка
     ur: military training
     yue: 軍事教育
     zh: 军事教育
-    zh-hans: 军事教育
-    zh-hant: 軍事教育
-    zh-hk: 軍事教育
-    zh-tw: 軍事教育
+    zh_hans: 军事教育
+    zh_hant: 軍事教育
+    zh_hk: 軍事教育
+    zh_tw: 軍事教育
 ---
 # [[Military_Education_and_Training]] 
 

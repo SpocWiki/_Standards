@@ -125,7 +125,7 @@ dv_has_:
     ast: Torre CN
     az: CN teleqülləsi
     be: Сі-Эн Таўэр
-    be-tarask: Сі-Эн Таўэр
+    be_tarask: Сі-Эн Таўэр
     bg: Си Ен Тауър
     bn: সিএন টাওয়ার
     ca: Torre CN
@@ -197,12 +197,12 @@ dv_has_:
     wuu: 加拿大国家电视塔
     yue: CN塔
     zh: 加拿大國家電視塔
-    zh-cn: 加拿大国家电视塔
-    zh-hans: 加拿大国家电视塔
-    zh-hant: 加拿大國家電視塔
-    zh-hk: 加拿大國家電視塔
-    zh-sg: 加拿大国家电视塔
-    zh-tw: 加拿大國家電視塔
+    zh_cn: 加拿大国家电视塔
+    zh_hans: 加拿大国家电视塔
+    zh_hant: 加拿大國家電視塔
+    zh_hk: 加拿大國家電視塔
+    zh_sg: 加拿大国家电视塔
+    zh_tw: 加拿大國家電視塔
 ---
 # [[CN_Tower]] 
 

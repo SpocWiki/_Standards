@@ -101,7 +101,7 @@ dv_has_:
     az: işığın tam daxili qayıtması
     ba: һыныусанлыҡ күрһәткесе
     be: паказчык праламлення
-    be-tarask: паказальнік пераламленьня
+    be_tarask: паказальнік пераламленьня
     bg: показател на пречупване
     bn: প্রতিসরাঙ্ক
     bs: Indeks prelamanja
@@ -157,8 +157,8 @@ dv_has_:
     sk: index lomu
     sl: lomni količnik
     sr: индекс преламања
-    sr-ec: индекс преламања
-    sr-el: indeks prelamanja
+    sr_ec: индекс преламања
+    sr_el: indeks prelamanja
     stq: Breektaal
     sv: brytningsindex
     ta: ஒளிவிலகல் குறிப்பெண்
@@ -171,12 +171,12 @@ dv_has_:
     wuu: 折射率
     yue: 折射率
     zh: 折射率
-    zh-cn: 折射率
-    zh-hans: 折射率
-    zh-hant: 折射率
-    zh-hk: 折射率
-    zh-sg: 折射率
-    zh-tw: 折射率
+    zh_cn: 折射率
+    zh_hans: 折射率
+    zh_hant: 折射率
+    zh_hk: 折射率
+    zh_sg: 折射率
+    zh_tw: 折射率
 ---
 # [[Refractive_Index]] 
 

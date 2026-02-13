@@ -27,7 +27,7 @@ dv_has_:
     ab: Италиа
     ace: Itali
     ady: Италие
-    aeb-arab: إيطاليا
+    aeb_arab: إيطاليا
     af: Italië
     alt: Италия
     am: ጣልያን
@@ -56,7 +56,7 @@ dv_has_:
     bbc: Italia
     bcl: Italya
     be: Італія
-    be-tarask: Італія
+    be_tarask: Італія
     bew: Itali
     bg: Италия
     bgn: ایتالیا
@@ -73,7 +73,7 @@ dv_has_:
     bug: ᨕᨗᨈᨒᨗᨐ
     bxr: Итаали
     ca: Itàlia
-    cbk-zam: Italia
+    cbk_zam: Italia
     cdo: É-dâi-lé
     ce: Итали
     ceb: Italya
@@ -84,7 +84,7 @@ dv_has_:
     co: Italia
     cr: ᐃᑕᓖ
     crh: İtaliya
-    crh-latn: İtaliya
+    crh_latn: İtaliya
     crh-ro: Italiye
     cs: Itálie
     csb: Italskô
@@ -95,7 +95,7 @@ dv_has_:
     dag: Italia
     de: Italien
     de-at: Italien
-    de-ch: Italien
+    de_ch: Italien
     din: Italia
     diq: İtalya
     dsb: Italska
@@ -106,8 +106,8 @@ dv_has_:
     el: Ιταλία
     eml: Itâglia
     en: Italy
-    en-ca: Italy
-    en-gb: Italy
+    en_ca: Italy
+    en_gb: Italy
     en-us: Italy
     eo: Italio
     es: Italia
@@ -135,7 +135,7 @@ dv_has_:
     gn: Itália
     gom: इटली
     gom-deva: इटली
-    gom-latn: Italy
+    gom_latn: Italy
     gor: Italia
     got: "\U00010339\U00010344\U00010330\U0001033B\U00010339\U00010330"
     gpe: Italy
@@ -217,7 +217,7 @@ dv_has_:
     lzh: 義大利
     mad: Italia
     mai: इटली
-    map-bms: Italia
+    map_bms: Italia
     mdf: Италия
     mg: Italia
     mhr: Италий
@@ -231,7 +231,7 @@ dv_has_:
     mr: इटली
     mrj: Италия
     ms: Itali
-    ms-arab: ايتالي
+    ms_arab: ايتالي
     mt: Italja
     mwl: Eitália
     my: အီတလီနိုင်ငံ
@@ -243,7 +243,7 @@ dv_has_:
     nap: Italia
     nb: Italia
     nds: Italien
-    nds-nl: Italiën
+    nds_nl: Italiën
     ne: इटाली
     new: इटाली
     nia: Italia
@@ -277,7 +277,7 @@ dv_has_:
     pnt: Ιταλία
     ps: اېټاليا
     pt: Itália
-    pt-br: Itália
+    pt_br: Itália
     qu: Italya
     rgn: Itaglia
     rm: Italia
@@ -316,8 +316,8 @@ dv_has_:
     so: Talyaaniga
     sq: Italia
     sr: Италија
-    sr-ec: Италија
-    sr-el: Italija
+    sr_ec: Италија
+    sr_el: Italija
     srn: Italiyanikondre
     ss: INtaliyane
     st: Ithali
@@ -334,7 +334,7 @@ dv_has_:
     te: ఇటలీ
     tet: Itália
     tg: Итолиё
-    tg-cyrl: Италия
+    tg_cyrl: Италия
     th: ประเทศอิตาลี
     ti: ኢጣልያ
     tk: Italiýa
@@ -348,7 +348,7 @@ dv_has_:
     trv: Italy
     ts: Ithali
     tt: Италия
-    tt-cyrl: Италия
+    tt_cyrl: Италия
     tum: Italy
     tw: Italy
     ty: ’Itāria
@@ -379,14 +379,14 @@ dv_has_:
     zea: Itâlië
     zgh: ⵟⴰⵍⵢⴰⵏ
     zh: 意大利
-    zh-cn: 意大利
-    zh-hans: 意大利
-    zh-hant: 義大利
-    zh-hk: 意大利
-    zh-mo: 意大利
+    zh_cn: 意大利
+    zh_hans: 意大利
+    zh_hant: 義大利
+    zh_hk: 意大利
+    zh_mo: 意大利
     zh-my: 意大利
-    zh-sg: 意大利
-    zh-tw: 義大利
+    zh_sg: 意大利
+    zh_tw: 義大利
     zu: ITaliya
   sound_of_:
     anthem: '[[../../../../../_public/xLarge.public/National-Anthem/Anthem-Italy.mp3|Anthem-Italy.mp3]]'

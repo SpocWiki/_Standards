@@ -74,7 +74,7 @@ dv_has_:
     as: টপ কোৱাৰ্ক
     ast: quark visu
     be: t-кварк
-    be-tarask: t-кварк
+    be_tarask: t-кварк
     bg: топ кварк
     ca: quark t
     cs: kvark t
@@ -82,8 +82,8 @@ dv_has_:
     de: Top-Quark
     el: τοπ κουάρκ
     en: top quark
-    en-ca: Top quark
-    en-gb: Top quark
+    en_ca: Top quark
+    en_gb: Top quark
     eo: t-kvarko
     es: cuark cima
     et: t-kvark
@@ -117,7 +117,7 @@ dv_has_:
     pl: kwark t
     pnb: اتلا کوارک
     pt: quark top
-    pt-br: quark top
+    pt_br: quark top
     ro: quarcul top
     ru: t-кварк
     sh: vršni kvark

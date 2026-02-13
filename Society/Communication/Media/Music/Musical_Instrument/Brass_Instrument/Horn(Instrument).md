@@ -96,7 +96,7 @@ dv_has_:
     ar: بوق فرنسي
     az: Valtorn
     be: валторна
-    be-tarask: валторна
+    be_tarask: валторна
     bg: Валдхорна
     bo: འཁྱིལ་དུང་།
     bs: Rog
@@ -154,8 +154,8 @@ dv_has_:
     sk: Lesný roh
     sl: rog
     sr: рог
-    sr-ec: хорна
-    sr-el: horna
+    sr_ec: хорна
+    sr_el: horna
     sv: valthorn
     th: ฮอร์น
     tl: Tambuling Pranses
@@ -168,12 +168,12 @@ dv_has_:
     wuu: 法国号
     yue: 圓號
     zh: 法國號
-    zh-cn: 圆号
-    zh-hans: 圆号
-    zh-hant: 圓號
-    zh-hk: 圓號
-    zh-sg: 圆号
-    zh-tw: 法國號
+    zh_cn: 圆号
+    zh_hans: 圆号
+    zh_hant: 圓號
+    zh_hk: 圓號
+    zh_sg: 圆号
+    zh_tw: 法國號
 ---
 # [[Horn(Instrument)]] 
 

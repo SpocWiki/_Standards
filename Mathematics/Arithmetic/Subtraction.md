@@ -124,7 +124,7 @@ dv_has_:
     ba: алыу
     bcl: pagbabawas
     be: адніманне
-    be-tarask: адыманьне
+    be_tarask: адыманьне
     bg: изваждане
     bn: বিয়োগ
     bo: འཕྲི་རྩིས།
@@ -187,7 +187,7 @@ dv_has_:
     ml: വ്യവകലനം
     mr: वजाबाकी
     ms: penolakan
-    ms-arab: ڤنولقن
+    ms_arab: ڤنولقن
     mt: Tnaqqis
     nan: kiám-hoat
     nb: subtraksjon
@@ -201,7 +201,7 @@ dv_has_:
     pms: sotrassion
     ps: تفريق
     pt: subtração
-    pt-br: subtração
+    pt_br: subtração
     qu: qichuy
     ro: scădere
     ru: вычитание
@@ -239,8 +239,8 @@ dv_has_:
     yue: 減
     za: gemjfap
     zh: 減法
-    zh-hans: 减法
-    zh-hk: 減法
+    zh_hans: 减法
+    zh_hk: 減法
 ---
 # [[Subtraction]] 
 

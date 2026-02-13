@@ -90,7 +90,7 @@ dv_has_:
     ast: Quimioterapia
     az: Kimyaterapiya
     be: хіміятэрапія
-    be-tarask: хіміятэрапія
+    be_tarask: хіміятэрапія
     bg: Химиотерапия
     bn: কেমোথেরাপি
     bs: Hemoterapija

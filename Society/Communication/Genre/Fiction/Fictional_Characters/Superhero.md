@@ -133,7 +133,7 @@ dv_has_:
     ast: superhéroe
     bcl: Superhero
     be: супергерой
-    be-tarask: супэргерой
+    be_tarask: супэргерой
     bew: Jagoan hébat
     bg: Супергерой
     bn: সুপারহিরো
@@ -148,8 +148,8 @@ dv_has_:
     de: Superheld
     el: υπερήρωας
     en: superhero
-    en-ca: Superhero
-    en-gb: superhero
+    en_ca: Superhero
+    en_gb: superhero
     eo: superheroo
     es: superhéroe
     et: superkangelane
@@ -192,7 +192,7 @@ dv_has_:
     or: ସୁପର ହୀରୋ
     pl: superbohater
     pt: super-herói
-    pt-br: super-herói
+    pt_br: super-herói
     ro: supererou
     ru: супергерой
     sco: superhero
@@ -203,17 +203,17 @@ dv_has_:
     smn: supersáŋgár
     sq: Superhero
     sr: суперхерој
-    sr-ec: Суперхерој
-    sr-el: Superheroj
+    sr_ec: Суперхерој
+    sr_el: Superheroj
     sv: superhjälte
     ta: சூப்பர்ஹீரோ
     tg: абарқаҳрамон
-    tg-latn: superqahramon
+    tg_latn: superqahramon
     th: ซูเปอร์ฮีโร
     tr: Süper kahraman
     tt: супербатыр
-    tt-cyrl: супербатыр
-    tt-latn: superbatır
+    tt_cyrl: супербатыр
+    tt_latn: superbatır
     uk: супергерой
     ur: سپر ہیرو
     uz: Superqahramon
@@ -222,12 +222,12 @@ dv_has_:
     yi: סופערהעלד
     yue: 超級英雄
     zh: 超级英雄
-    zh-cn: 超级英雄
-    zh-hans: 超级英雄
-    zh-hant: 超級英雄
-    zh-hk: 超級英雄
-    zh-sg: 超级英雄
-    zh-tw: 超級英雄
+    zh_cn: 超级英雄
+    zh_hans: 超级英雄
+    zh_hant: 超級英雄
+    zh_hk: 超級英雄
+    zh_sg: 超级英雄
+    zh_tw: 超級英雄
     zu: IMbudle
 ---
 # [[Superhero]] 🦸 

@@ -97,7 +97,7 @@ dv_has_:
     ar: كاروتينات
     ast: Carotenoide
     be: каратыноід
-    be-tarask: каратыноід
+    be_tarask: каратыноід
     bg: Каротиноид
     bn: ক্যারোটিনয়েড
     ca: Carotenoide
@@ -122,11 +122,11 @@ dv_has_:
     ja: カロテノイド
     ka: კაროტინოიდები
     kk: Каратиноидтар
-    kk-arab: كاراتىينوىيدتار
+    kk_arab: كاراتىينوىيدتار
     kk-cn: كاراتىينوىيدتار
-    kk-cyrl: Каратиноидтар
+    kk_cyrl: Каратиноидтар
     kk-kz: Каратиноидтар
-    kk-latn: Karatïnoïdtar
+    kk_latn: Karatïnoïdtar
     kk-tr: Karatïnoïdtar
     ko: 카로티노이드
     ku: Karotenoîd
@@ -144,8 +144,8 @@ dv_has_:
     sh: Karotenoid
     sl: karotenoid
     sr: Каротеноид
-    sr-ec: Каротеноид
-    sr-el: Karotenoid
+    sr_ec: Каротеноид
+    sr_el: Karotenoid
     sv: Karotenoid
     th: แคโรทีนอยด์
     tr: Karotenoid
@@ -154,12 +154,12 @@ dv_has_:
     vi: Carotenoid
     yue: 類胡蘿蔔素
     zh: 類胡蘿蔔素
-    zh-cn: 类胡萝蔔素
-    zh-hans: 类胡萝蔔素
-    zh-hant: 類胡蘿蔔素
-    zh-hk: 類胡蘿蔔素
-    zh-sg: 类胡萝蔔素
-    zh-tw: 類胡蘿蔔素
+    zh_cn: 类胡萝蔔素
+    zh_hans: 类胡萝蔔素
+    zh_hant: 類胡蘿蔔素
+    zh_hk: 類胡蘿蔔素
+    zh_sg: 类胡萝蔔素
+    zh_tw: 類胡蘿蔔素
 ---
 # [[Carotenoid]] 
 

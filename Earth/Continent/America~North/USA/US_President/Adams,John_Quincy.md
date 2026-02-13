@@ -95,7 +95,7 @@ dv_has_:
     bar: John Quincy Adams
     bcl: John Quincy Adams
     be: Джон Квінсі Адамс
-    be-tarask: Джон Куінсі Адамз
+    be_tarask: Джон Куінсі Адамз
     bg: Джон Куинси Адамс
     bi: John Quincy Adams
     bn: জন কুইন্সি অ্যাডামস
@@ -114,14 +114,14 @@ dv_has_:
     da: John Quincy Adams
     dag: John Quincy Adams
     de: John Quincy Adams
-    de-ch: John Quincy Adams
+    de_ch: John Quincy Adams
     diq: John Quincy Adams
     dv: ޖޯން ކުއިންސީ އެޑަމްސް
     ee: John Quincy Adams
     el: Τζον Κουίνσι Άνταμς
     en: John Quincy Adams
-    en-ca: John Quincy Adams
-    en-gb: John Quincy Adams
+    en_ca: John Quincy Adams
+    en_gb: John Quincy Adams
     en-us: John Quincy Adams
     eo: John Quincy Adams
     es: John Quincy Adams
@@ -197,7 +197,7 @@ dv_has_:
     pnb: جان کوئنسی ایڈمز
     ps: جان کوینسي آډمز
     pt: John Quincy Adams
-    pt-br: John Quincy Adams
+    pt_br: John Quincy Adams
     qu: John Quincy Adams
     rmf: John Quincy Adams
     ro: John Quincy Adams

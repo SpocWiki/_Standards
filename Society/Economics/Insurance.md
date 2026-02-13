@@ -144,7 +144,7 @@ dv_has_:
     az: sığorta
     azb: سیغورتا
     be: страхаванне
-    be-tarask: страхаваньне
+    be_tarask: страхаваньне
     bg: застраховане
     bn: বীমা
     bs: osiguranje
@@ -158,7 +158,7 @@ dv_has_:
     de: Versicherung
     el: ασφάλεια
     en: insurance
-    en-gb: insurance
+    en_gb: insurance
     eo: asekuro
     es: seguro
     et: kindlustus
@@ -198,7 +198,7 @@ dv_has_:
     mn: даатгал
     mr: विमा
     ms: insurans
-    ms-arab: اينسورنس
+    ms_arab: اينسورنس
     my: အာမခံလုပ်ငန်း
     nan: pó-hiám
     nb: forsikring
@@ -237,9 +237,9 @@ dv_has_:
     yue: 保險
     za: baujyiemj
     zh: 保險
-    zh-hans: 保险
-    zh-hant: 保險
-    zh-tw: 保險
+    zh_hans: 保险
+    zh_hant: 保險
+    zh_tw: 保險
 ---
 # [[Insurance]] 
 

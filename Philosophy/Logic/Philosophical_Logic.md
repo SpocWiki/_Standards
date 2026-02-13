@@ -60,7 +60,7 @@ dv_has_:
     ar: منطق فلسفي
     ast: Lóxica filosófica
     az: Fəlsəfi məntiq
-    be-tarask: філязофская лёгіка
+    be_tarask: філязофская лёгіка
     bg: Философска логика
     ca: lògica filosòfica
     cs: filozofická logika
@@ -104,9 +104,9 @@ dv_has_:
     vi: Logic triết học
     yue: 哲學邏輯
     zh: 哲学逻辑
-    zh-hans: 哲学逻辑
-    zh-hant: 哲學邏輯
-    zh-hk: 哲學邏輯
+    zh_hans: 哲学逻辑
+    zh_hant: 哲學邏輯
+    zh_hk: 哲學邏輯
 ---
 # [[Philosophical_Logic]] 
 

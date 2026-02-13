@@ -48,15 +48,15 @@ dv_has_:
     ar: رهاب التقانة
     ast: Teunofobia
     az: Texnofobiya
-    be-tarask: тэхнафобія
+    be_tarask: тэхнафобія
     bg: Технофобия
     ca: tecnofòbia
     cs: Technofobie
     de: Technophobie
     el: τεχνοφοβία
     en: technophobia
-    en-ca: Technophobia
-    en-gb: Technophobia
+    en_ca: Technophobia
+    en_gb: Technophobia
     eo: teĥnofobio
     es: tecnofobia
     eu: Teknofobia
@@ -71,9 +71,9 @@ dv_has_:
     ja: 科学技術恐怖症
     ka: კიბერფობია
     kk: Технофобия
-    kk-arab: تەحنوفوبىييا
-    kk-cyrl: Технофобия
-    kk-latn: Texnofobïya
+    kk_arab: تەحنوفوبىييا
+    kk_cyrl: Технофобия
+    kk_latn: Texnofobïya
     ko: 테크노포비아
     la: timor technologiae
     lt: technofobija
@@ -81,7 +81,7 @@ dv_has_:
     nl: technofobie
     pms: Tecnofobìa
     pt: tecnofobia
-    pt-br: Tecnofobia
+    pt_br: Tecnofobia
     ru: технофобия
     sl: tehnofobija
     sr: Технофобија
@@ -94,9 +94,9 @@ dv_has_:
     vi: Hội chứng sợ công nghệ hiện đại
     yue: 科技恐懼
     zh: 恐科技者
-    zh-cn: 科技恐惧症
-    zh-hans: 科技恐惧症
-    zh-hant: 科技恐懼症
+    zh_cn: 科技恐惧症
+    zh_hans: 科技恐惧症
+    zh_hant: 科技恐懼症
 ---
 # [[Technophobia]] 
 

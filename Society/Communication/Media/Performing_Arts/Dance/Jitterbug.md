@@ -19,7 +19,7 @@ instance_of: '[[_Standards/WikiData/WD~type_of_dance,107357104]]'
 dv_has_:
   name_:
     ar: جيتير بج
-    be-tarask: джытэрбаг
+    be_tarask: джытэрбаг
     ca: jitterbug
     cs: Jitterbug
     de: Jitterbug

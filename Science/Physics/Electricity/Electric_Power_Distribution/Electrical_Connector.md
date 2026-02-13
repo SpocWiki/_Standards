@@ -91,14 +91,14 @@ dv_has_:
     ast: coneutor llétricu
     az: Elektrik konnektoru
     be: электрычны злучальнік
-    be-tarask: электрычны злучальнік
+    be_tarask: электрычны злучальнік
     bg: Електрически съединител
     ca: connector elèctric
     cs: konektor
     da: elektrisk stik
     de: Steckverbinder
     en: electrical connector
-    en-gb: electrical connector
+    en_gb: electrical connector
     eo: konektilo
     es: conector eléctrico
     et: Pistikühendus
@@ -121,14 +121,14 @@ dv_has_:
     lv: kontaktdakša
     mk: електричен приклучок
     ms: penyambung elektrik
-    ms-arab: ڤڽامبوڠ ايليکتريک
+    ms_arab: ڤڽامبوڠ ايليکتريک
     nb: støpsel
     nl: connector
     nn: støpsel
     pl: złącze elektroniczne
     pms: Conetor elétrich
     pt: conector elétrico
-    pt-br: conector elétrico
+    pt_br: conector elétrico
     ro: Conector electric
     ru: электрический соединитель
     sh: Konektor
@@ -143,9 +143,9 @@ dv_has_:
     wuu: 电子连接器
     yue: 電子連接器
     zh: 電子連接器
-    zh-cn: 電子連接器
-    zh-hant: 電子連接器
-    zh-tw: 電子連接器
+    zh_cn: 電子連接器
+    zh_hant: 電子連接器
+    zh_tw: 電子連接器
 ---
 # [[Electrical_Connector]] 🔌 
 

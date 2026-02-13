@@ -145,7 +145,7 @@ dv_has_:
     az: Atmosfer yağıntıları
     bcl: Presipitasyon
     be: атмасферныя ападкі
-    be-tarask: атмасфэрныя ападкі
+    be_tarask: атмасфэрныя ападкі
     bg: Валеж
     blk: လော့လင်ꩻ
     bn: বারিপাত
@@ -206,12 +206,12 @@ dv_has_:
     mn: Хур тунадас
     mr: वर्षाव
     ms: kerpasan
-    ms-arab: کرڤاسن
+    ms_arab: کرڤاسن
     my: ရွာကျခြင်း
     myv: Вердень прыть
     nb: nedbør
     nds: Nedderslag
-    nds-nl: neerslag
+    nds_nl: neerslag
     nl: neerslag
     nn: nedbør
     oc: Precipitacion
@@ -243,7 +243,7 @@ dv_has_:
     th: หยาดน้ำฟ้า
     tr: yağış
     tt: явым-төшем
-    tt-cyrl: явым-төшем
+    tt_cyrl: явым-төшем
     udm: атмосфераысь зор-кот
     uk: атмосферні опади
     ur: بارندگی
@@ -253,7 +253,7 @@ dv_has_:
     xmf: ატმოსფერული ნოლექეფი
     yue: 降水
     zh: 降水
-    zh-hant: 降水
+    zh_hant: 降水
     zu: Ukuna
 ---
 # [[Precipitation]] 

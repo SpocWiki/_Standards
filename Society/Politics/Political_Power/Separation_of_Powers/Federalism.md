@@ -96,7 +96,7 @@ dv_has_:
     azb: فدرالیسم
     ba: Федерализм
     be: федэралізм
-    be-tarask: фэдэралізм
+    be_tarask: фэдэралізм
     bew: Keserèkatan
     bg: Федерализъм
     bho: संघवाद
@@ -113,8 +113,8 @@ dv_has_:
     din: Miiriwatwuɔt
     el: φεντεραλισμός
     en: federalism
-    en-ca: federalism
-    en-gb: federalism
+    en_ca: federalism
+    en_gb: federalism
     eo: federaciismo
     es: federalismo
     et: föderalism
@@ -166,7 +166,7 @@ dv_has_:
     pl: federalizm
     ps: فدراليزم
     pt: Federalismo
-    pt-br: Federalismo
+    pt_br: Federalismo
     rm: Federalissem
     ro: Federalism
     ru: федерализм
@@ -192,12 +192,12 @@ dv_has_:
     yo: Federalism
     yue: 聯邦主義
     zh: 联邦主义
-    zh-cn: 联邦主义
-    zh-hans: 联邦主义
-    zh-hant: 聯邦主義
-    zh-hk: 聯邦主義
-    zh-sg: 联邦主义
-    zh-tw: 聯邦主義
+    zh_cn: 联邦主义
+    zh_hans: 联邦主义
+    zh_hant: 聯邦主義
+    zh_hk: 聯邦主義
+    zh_sg: 联邦主义
+    zh_tw: 聯邦主義
 ---
 # [[Federalism]] 
 

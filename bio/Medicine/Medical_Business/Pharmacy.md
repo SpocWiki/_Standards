@@ -140,7 +140,7 @@ dv_has_:
     ast: Farmacia
     az: Aptek
     be: фармацыя
-    be-tarask: фармацыя
+    be_tarask: фармацыя
     bg: фармация
     bn: ঔষধ প্রস্তুতি ও ব্যবহার বিজ্ঞান
     br: Rummad:Apotikerezh
@@ -155,8 +155,8 @@ dv_has_:
     diq: Dermanci
     el: φαρμακευτική
     en: pharmacy
-    en-ca: Pharmacy
-    en-gb: pharmacy
+    en_ca: Pharmacy
+    en_gb: pharmacy
     eo: farmacio
     es: farmacia
     et: farmaatsia
@@ -207,7 +207,7 @@ dv_has_:
     pl: farmacja
     ps: درمل جوړونه
     pt: farmácia
-    pt-br: farmácia
+    pt_br: farmácia
     qu: Hampiy yachay
     ro: farmacie
     ru: фармация
@@ -223,8 +223,8 @@ dv_has_:
     sms: farmasia
     sq: Farmacia
     sr: фармација
-    sr-ec: фармација
-    sr-el: farmacija
+    sr_ec: фармација
+    sr_el: farmacija
     su: Farmasi
     sv: farmaci
     te: ఫార్మసీ
@@ -243,10 +243,10 @@ dv_has_:
     yi: אַפטייקעריי
     yue: 藥學
     zh: 药学
-    zh-cn: 药学
-    zh-hans: 药学
-    zh-hant: 藥學
-    zh-tw: 藥學
+    zh_cn: 药学
+    zh_hans: 药学
+    zh_hant: 藥學
+    zh_tw: 藥學
 ---
 # [[Pharmacy]] 
 

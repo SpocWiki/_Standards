@@ -185,7 +185,7 @@ dv_has_:
     ba: үлем язаһы
     ban: Danda pati
     be: смяротная кара
-    be-tarask: сьмяротная кара
+    be_tarask: сьмяротная кара
     bg: смъртно наказание
     bn: মৃত্যুদণ্ড
     br: kastiz ar marv
@@ -207,8 +207,8 @@ dv_has_:
     dsb: smjertny wusud
     el: θανατική ποινή
     en: capital punishment
-    en-ca: capital punishment
-    en-gb: capital punishment
+    en_ca: capital punishment
+    en_gb: capital punishment
     eo: mortpuno
     es: pena de muerte
     et: surmanuhtlus
@@ -252,7 +252,7 @@ dv_has_:
     ko-kp: 사형
     krc: асмакъ
     ku: cezayê mirinê
-    ku-latn: cezayê mirinê
+    ku_latn: cezayê mirinê
     ky: өлүм жазасы
     la: poena capitalis
     lb: Doudesstrof
@@ -272,7 +272,7 @@ dv_has_:
     nan: sí-hêng
     nb: dødsstraff
     nds: Doodsstrafe
-    nds-nl: doodstraf
+    nds_nl: doodstraf
     ne: मृत्युदण्ड
     nl: doodstraf
     nn: dødsstraff
@@ -287,7 +287,7 @@ dv_has_:
     pnb: سزائے موت
     ps: د مرګ سزا
     pt: pena de morte
-    pt-br: pena de morte
+    pt_br: pena de morte
     qu: wañuy wanay
     ro: pedeapsa capitală
     ru: смертная казнь
@@ -319,7 +319,7 @@ dv_has_:
     tok: moli tan lipu lawa
     tr: ölüm cezası
     tt: үлем җәзасы
-    tt-cyrl: үлем җәзасы
+    tt_cyrl: үлем җәзасы
     udm: кужмысь виён
     uk: смертна кара
     ur: سزائے موت
@@ -336,14 +336,14 @@ dv_has_:
     yi: טויטשטראף
     yue: 死刑
     zh: 死刑
-    zh-cn: 死刑
-    zh-hans: 死刑
-    zh-hant: 死刑
-    zh-hk: 死刑
-    zh-mo: 死刑
+    zh_cn: 死刑
+    zh_hans: 死刑
+    zh_hant: 死刑
+    zh_hk: 死刑
+    zh_mo: 死刑
     zh-my: 死刑
-    zh-sg: 死刑
-    zh-tw: 死刑
+    zh_sg: 死刑
+    zh_tw: 死刑
 ---
 # [[Capital_Punishment]] 
 

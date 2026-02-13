@@ -231,7 +231,7 @@ dv_has_:
     bar: Franz vo Assisi
     bcl: Francisco de Assisi
     be: Францыск Асізскі
-    be-tarask: Францішак з Асізі
+    be_tarask: Францішак з Асізі
     bg: Франциск от Асизи
     bi: Francesco d'Assisi
     br: Frañsez a Asiz
@@ -244,7 +244,7 @@ dv_has_:
     cy: Ffransis o Assisi
     da: Frans af Assisi
     de: Franz von Assisi
-    de-ch: Franz von Assisi
+    de_ch: Franz von Assisi
     el: Φραγκίσκος της Ασίζης
     en: Francis of Assisi
     en-us: Francis of Assisi
@@ -275,7 +275,7 @@ dv_has_:
     kbp: François d'Assise
     ko: 아시시의 프란치스코
     ku: Fransîsê Asîzî
-    ku-latn: Fransîsê Asîzî
+    ku_latn: Fransîsê Asîzî
     kw: Francis a Assisi
     la: Franciscus Assisiensis
     lij: San Françesco
@@ -303,7 +303,7 @@ dv_has_:
     pl: Franciszek z Asyżu
     pms: Fransesch d'Assisi
     pt: Francisco de Assis
-    pt-br: Francisco de Assis
+    pt_br: Francisco de Assis
     qu: Francesco d'Assisi
     ro: Francisc de Assisi
     ru: Франциск Ассизский
@@ -331,7 +331,7 @@ dv_has_:
     wuu: 亚西西个方济各
     yue: 聖方濟各亞西西
     zh: 亞西西的方濟各
-    zh-hk: 亞西西的方濟各
+    zh_hk: 亞西西的方濟各
 ---
 # [[Francis_of_Assisi]] 
 

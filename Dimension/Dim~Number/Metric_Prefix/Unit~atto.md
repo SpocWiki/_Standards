@@ -61,8 +61,8 @@ dv_has_:
     de: Atto
     el: αττο
     en: atto-
-    en-ca: atto-
-    en-gb: atto
+    en_ca: atto-
+    en_gb: atto
     eo: ato
     es: atto
     et: ato-
@@ -102,7 +102,7 @@ dv_has_:
     oc: atto-
     pl: atto
     pt: atto
-    pt-br: atto
+    pt_br: atto
     ro: atto
     ru: атто-
     scn: atto
@@ -112,8 +112,8 @@ dv_has_:
     sl: ato
     sq: ato
     sr: ато
-    sr-ec: ато
-    sr-el: ato
+    sr_ec: ато
+    sr_el: ato
     sv: atto
     ta: அட்டோ
     te: అట్టో
@@ -121,18 +121,18 @@ dv_has_:
     th: อัตโต
     tr: atto-
     tt: атто-
-    tt-cyrl: атто-
+    tt_cyrl: атто-
     uk: ато-
     ur: اٹو
     vi: atô
     yue: 阿
     zh: 阿
-    zh-cn: 阿
-    zh-hans: 阿
-    zh-hant: 阿
-    zh-hk: 阿
-    zh-sg: 阿
-    zh-tw: 阿
+    zh_cn: 阿
+    zh_hans: 阿
+    zh_hant: 阿
+    zh_hk: 阿
+    zh_sg: 阿
+    zh_tw: 阿
 ---
 ## Confidential Links & Embeds: 
 

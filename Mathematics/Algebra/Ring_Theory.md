@@ -61,7 +61,7 @@ dv_has_:
     ar: نظرية الحلقات
     ast: teoría d'aníos
     ba: ҡулсалар теорияһы
-    be-tarask: тэорыя колцаў
+    be_tarask: тэорыя колцаў
     bg: теория на пръстените
     bn: রিং তত্ত্ব
     ca: teoria d'anells
@@ -70,8 +70,8 @@ dv_has_:
     de: Ringtheorie
     el: Θεωρία δακτυλίων
     en: ring theory
-    en-ca: ring theory
-    en-gb: ring theory
+    en_ca: ring theory
+    en_gb: ring theory
     eo: ringo-teorio
     es: teoría de anillos
     eu: eraztunen teoria
@@ -91,7 +91,7 @@ dv_has_:
     nl: ringtheorie
     pl: teoria pierścieni
     pt: teoria dos anéis
-    pt-br: teoria dos anéis
+    pt_br: teoria dos anéis
     ro: teoria inelelor
     ru: теория колец
     sl: teorija kolobarjev
@@ -104,8 +104,8 @@ dv_has_:
     yi: רינג-טעאריע
     yue: 環論
     zh: 环论
-    zh-hans: 环论
-    zh-hant: 環論
+    zh_hans: 环论
+    zh_hant: 環論
 ---
 # [[Ring_Theory]] 
 

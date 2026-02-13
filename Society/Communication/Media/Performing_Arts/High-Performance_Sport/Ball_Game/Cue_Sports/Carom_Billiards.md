@@ -34,7 +34,7 @@ has_id_wikidata: Q917562
 dv_has_:
   name_:
     ar: بليارد كاروم
-    be-tarask: карамболь
+    be_tarask: карамболь
     bg: 3-спонтов карамбол
     ca: Billar francès
     cs: karambol
@@ -67,9 +67,9 @@ dv_has_:
     tr: Üç-Bant Bilardo
     uk: Карамболь
     zh: 開侖
-    zh-hans: 开仑
-    zh-hant: 開侖
-    zh-hk: 開侖
+    zh_hans: 开仑
+    zh_hant: 開侖
+    zh_hk: 開侖
 ---
 ## #has_/text_of_/abstract 
 

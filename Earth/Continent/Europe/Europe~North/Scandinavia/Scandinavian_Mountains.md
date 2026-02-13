@@ -26,7 +26,7 @@ dv_has_:
     ast: Alpes escandinavos
     ba: Скандинавия тауҙары
     be: Скандынаўскія горы
-    be-tarask: Скандынаўскія горы
+    be_tarask: Скандынаўскія горы
     bg: Скандинавски планини
     ca: Alps Escandinaus
     ceb: Kölen
@@ -57,11 +57,11 @@ dv_has_:
     ja: スカンディナヴィア山脈
     ka: სკანდინავიის მთები
     kk: Скандинавия таулары
-    kk-arab: سكاندىيناۆىييا تاۋلارى
+    kk_arab: سكاندىيناۆىييا تاۋلارى
     kk-cn: سكاندىيناۆىييا تاۋلارى
-    kk-cyrl: Скандинавия таулары
+    kk_cyrl: Скандинавия таулары
     kk-kz: Скандинавия таулары
-    kk-latn: Skandïnavïya tawları
+    kk_latn: Skandïnavïya tawları
     kk-tr: Skandïnavïya tawları
     ko: 스칸디나비아산맥
     la: Montes Scandinaviae
@@ -101,12 +101,12 @@ dv_has_:
     wuu: 斯堪的纳维亚山脉
     yue: 斯堪的納維亞山脈
     zh: 斯堪的纳维亚山脉
-    zh-cn: 斯堪的纳维亚山脉
-    zh-hans: 斯堪的纳维亚山脉
-    zh-hant: 斯堪的納維亞山脈
-    zh-hk: 斯堪的納維亞山脈
-    zh-sg: 斯堪的纳维亚山脉
-    zh-tw: 斯堪的納維亞山脈
+    zh_cn: 斯堪的纳维亚山脉
+    zh_hans: 斯堪的纳维亚山脉
+    zh_hant: 斯堪的納維亞山脈
+    zh_hk: 斯堪的納維亞山脈
+    zh_sg: 斯堪的纳维亚山脉
+    zh_tw: 斯堪的納維亞山脈
 aliases:
 - Alpes escandinavos
 - Alpes scandinaves

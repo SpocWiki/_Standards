@@ -108,7 +108,7 @@ dv_has_:
     ast: patriotismu
     az: Vətənpərvərlik
     be: патрыятызм
-    be-tarask: патрыятызм
+    be_tarask: патрыятызм
     bew: Cinta negeri
     bg: Патриотизъм
     bm: Patriotismo
@@ -125,8 +125,8 @@ dv_has_:
     dsb: patriotizm
     el: πατριωτισμός
     en: patriotism
-    en-ca: Patriotism
-    en-gb: patriotism
+    en_ca: Patriotism
+    en_gb: patriotism
     en-us: patriotism
     eo: patriotismo
     es: patriotismo
@@ -160,7 +160,7 @@ dv_has_:
     mk: родољубивост
     mn: Эх оронч үзэл
     ms: patriotisme
-    ms-arab: ڤاتريوتيسمى
+    ms_arab: ڤاتريوتيسمى
     nan: Ài-kok-chú-gī
     nb: patriotisme
     ne: देशभक्ति
@@ -171,7 +171,7 @@ dv_has_:
     pnb: حب الوطنی
     ps: هېوادپالنه
     pt: patriotismo
-    pt-br: patriotismo
+    pt_br: patriotismo
     ro: patriotism
     ru: патриотизм
     rue: Патріотізм
@@ -183,8 +183,8 @@ dv_has_:
     so: Adeec qaran
     sq: Patriotizmi
     sr: патриотизам
-    sr-ec: патриотизам
-    sr-el: patriotizam
+    sr_ec: патриотизам
+    sr_el: patriotizam
     sv: patriotism
     sw: Uzalendo
     szl: Patrjotyzm
@@ -205,7 +205,7 @@ dv_has_:
     yue: 愛國主義
     za: aigoz cujyi
     zh: 愛國主義
-    zh-tw: 愛國主義
+    zh_tw: 愛國主義
 ---
 # [[Patriotism]] 
 

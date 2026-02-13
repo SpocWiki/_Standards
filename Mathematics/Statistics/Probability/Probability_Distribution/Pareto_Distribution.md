@@ -44,7 +44,7 @@ dv_has_:
   name_:
     ar: توزيع باريتو
     ast: Distribución de Pareto
-    be-tarask: разьмеркаваньне Парэта
+    be_tarask: разьмеркаваньне Парэта
     ca: Distribució de Pareto
     cs: Paretovo rozdělení
     da: Pareto-fordeling
@@ -75,9 +75,9 @@ dv_has_:
     uk: Розподіл Парето
     yue: 柏里圖分佈
     zh: 帕累托分布
-    zh-hans: 帕累托分布
-    zh-hant: 帕累托分布
-    zh-hk: 帕累托分佈
+    zh_hans: 帕累托分布
+    zh_hant: 帕累托分布
+    zh_hk: 帕累托分佈
 ---
 # [[Pareto_Distribution]] 
 

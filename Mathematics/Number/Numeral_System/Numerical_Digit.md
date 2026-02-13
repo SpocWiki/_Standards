@@ -126,7 +126,7 @@ dv_has_:
     az: rəqəm
     ba: цифрҙар
     be: лічба
-    be-tarask: лічбы
+    be_tarask: лічбы
     bg: Цифра
     bho: अंक
     bn: সংখ্যাসূচক অঙ্ক
@@ -141,8 +141,8 @@ dv_has_:
     de: Zahlzeichen
     el: αριθμητικό ψηφίο
     en: digit
-    en-ca: Numerical digit
-    en-gb: numerical digit
+    en_ca: Numerical digit
+    en_gb: numerical digit
     eo: cifero
     es: cifra
     et: Number
@@ -190,7 +190,7 @@ dv_has_:
     ml: അക്കം
     mnw: ဂနန်(သၚ်္ချာ)
     ms: digit berangka
-    ms-arab: ديݢيت براڠک
+    ms_arab: ديݢيت براڠک
     mwl: Algarismo
     my: ဂဏန်း
     nan: sò͘-jī
@@ -203,7 +203,7 @@ dv_has_:
     pa: ਹਿੰਦਸੇ
     pl: cyfra
     pt: algarismo
-    pt-br: Algarismo
+    pt_br: Algarismo
     ro: Cifră
     ru: цифра
     sah: Сыыппара
@@ -213,7 +213,7 @@ dv_has_:
     sl: števka
     so: Lambar
     sr: цифра
-    sr-ec: цифра
+    sr_ec: цифра
     sv: siffra
     sw: Tarakimu
     ta: தானம்
@@ -233,9 +233,9 @@ dv_has_:
     yue: 數字
     zgh: ⴰⵣⵡⵉⵍ
     zh: 數字
-    zh-hant: 數字
-    zh-hk: 數字
-    zh-tw: 數字
+    zh_hant: 數字
+    zh_hk: 數字
+    zh_tw: 數字
 ---
 # [[Numerical_Digit]] 
 

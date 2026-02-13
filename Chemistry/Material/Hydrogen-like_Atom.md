@@ -53,7 +53,7 @@ dv_has_:
   name_:
     ar: ذرة شبيهة بالهيدروجين
     ast: átomu hidroxenoide
-    be-tarask: вадародападобны атам
+    be_tarask: вадародападобны атам
     bn: হাইড্রোজেন সদৃশ পরমাণু
     ca: àtom semblant a l'hidrogen
     cs: Vodíku podobný atom
@@ -77,9 +77,9 @@ dv_has_:
     uk: Водневоподібний атом
     yue: 類氫原子
     zh: 類氫原子
-    zh-hans: 类氢原子
-    zh-hant: 類氫原子
-    zh-hk: 類氫原子
+    zh_hans: 类氢原子
+    zh_hant: 類氫原子
+    zh_hk: 類氫原子
 ---
 # [[Hydrogen-like_Atom]] 
 

@@ -192,7 +192,7 @@ dv_has_:
     az: hadisə
     ba: асыҡ сара
     be: мерапрыемства
-    be-tarask: падзея
+    be_tarask: падзея
     br: darvoud
     bs: događaj
     ca: esdeveniment planificat
@@ -202,12 +202,12 @@ dv_has_:
     cy: digwyddiad
     da: begivenhed
     de: Veranstaltung
-    de-ch: Veranstaltung
+    de_ch: Veranstaltung
     dsb: zarědowanje
     el: γεγονός
     en: event
-    en-ca: event
-    en-gb: event
+    en_ca: event
+    en_gb: event
     eo: evento
     es: evento
     et: üritus
@@ -236,7 +236,7 @@ dv_has_:
     kn: ಘಟನೆ
     ko: 사건
     ku: bûyer
-    ku-latn: bûyer
+    ku_latn: bûyer
     la: Evenimentum
     lb: Evenement
     lt: renginys
@@ -245,11 +245,11 @@ dv_has_:
     ml: പരിപാടി
     mr: क्रीडा स्पर्धा
     ms: acara
-    ms-arab: اچارا
+    ms_arab: اچارا
     mzn: اتفاق
     nb: arrangement
     nds: Event
-    nds-nl: evenement
+    nds_nl: evenement
     ne: कार्यक्रम
     nl: evenement
     nn: hending
@@ -258,7 +258,7 @@ dv_has_:
     pag: Agawa
     pl: impreza
     pt: evento
-    pt-br: evento
+    pt_br: evento
     ro: eveniment
     ru: мероприятие
     scn: manifistazzioni
@@ -271,8 +271,8 @@ dv_has_:
     sms: šõddmõš
     sq: ngjarje
     sr: догађај
-    sr-ec: догађај
-    sr-el: događaj
+    sr_ec: догађај
+    sr_el: događaj
     sv: evenemang
     te: ఘటన
     tg: рӯйдод
@@ -286,11 +286,11 @@ dv_has_:
     vi: sự kiện
     yo: ìnáwó
     zh: 活動
-    zh-cn: 活动
+    zh_cn: 活动
     zh-hans: 活动
-    zh-hant: 活動
-    zh-hk: 活動
-    zh-tw: 活動
+    zh_hant: 活動
+    zh_hk: 活動
+    zh_tw: 活動
   parent_class:
   - '[[../Thing|Thing]]'
   properties:

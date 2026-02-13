@@ -107,7 +107,7 @@ dv_has_:
     az: sensor ekran
     ba: сенсорлы экран
     be: сэнсарны экран
-    be-tarask: дотыкавы экран
+    be_tarask: дотыкавы экран
     bew: Layar tunyuk
     bg: сензорен екран
     bho: छुअंतुआ स्क्रीन
@@ -168,7 +168,7 @@ dv_has_:
     pms: Touchscreen
     pnb: ٹچسکرین
     pt: ecrã tátil
-    pt-br: tela sensível ao toque
+    pt_br: tela sensível ao toque
     ro: touchscreen
     ru: сенсорный экран
     sc: Schermu a tocu
@@ -178,8 +178,8 @@ dv_has_:
     sl: zaslon na dotik
     sq: touchscreen
     sr: ekran osjetljiv na dodir
-    sr-ec: екран осјетљив на додир
-    sr-el: ekran osjetljiv na dodir
+    sr_ec: екран осјетљив на додир
+    sr_el: ekran osjetljiv na dodir
     sv: pekskärm
     sw: skrinikugusa
     ta: தொடுதிரை
@@ -196,12 +196,12 @@ dv_has_:
     xmf: სენსორული ეკრანი
     yue: 輕觸式熒幕
     zh: 觸控式螢幕
-    zh-cn: 触摸屏
-    zh-hans: 触摸屏
-    zh-hant: 觸控式螢幕
-    zh-hk: 輕觸式螢幕
-    zh-sg: 触摸屏
-    zh-tw: 觸控式螢幕
+    zh_cn: 触摸屏
+    zh_hans: 触摸屏
+    zh_hant: 觸控式螢幕
+    zh_hk: 輕觸式螢幕
+    zh_sg: 触摸屏
+    zh_tw: 觸控式螢幕
 ---
 # [[Touchscreen]] 
 

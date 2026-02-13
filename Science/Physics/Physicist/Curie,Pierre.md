@@ -162,7 +162,7 @@ dv_has_:
     ban: Pierre Curie
     bar: Pierre Curie
     be: П’ер Кюры
-    be-tarask: П’ер Кюры
+    be_tarask: П’ер Кюры
     bg: Пиер Кюри
     bm: Pierre Curie
     bn: পিয়ের ক্যুরি
@@ -172,17 +172,17 @@ dv_has_:
     ckb: پیەر کووری
     co: Pierre Curie
     crh: Pyer Küri
-    crh-cyrl: Пьер Кюри
+    crh_cyrl: Пьер Кюри
     cs: Pierre Curie
     cy: Pierre Curie
     da: Pierre Curie
     de: Pierre Curie
     de-at: Pierre Curie
-    de-ch: Pierre Curie
+    de_ch: Pierre Curie
     el: Πιερ Κιουρί
     en: Pierre Curie
-    en-ca: Pierre Curie
-    en-gb: Pierre Curie
+    en_ca: Pierre Curie
+    en_gb: Pierre Curie
     eo: Pierre Curie
     es: Pierre Curie
     et: Pierre Curie
@@ -251,7 +251,7 @@ dv_has_:
     nap: Pierre Curie
     nb: Pierre Curie
     nds: Pierre Curie
-    nds-nl: Pierre Curie
+    nds_nl: Pierre Curie
     new: पिएरे क्युरी
     nl: Pierre Curie
     nn: Pierre Curie
@@ -267,7 +267,7 @@ dv_has_:
     prg: Pierre Curie
     ps: پییر کیوري
     pt: Pierre Curie
-    pt-br: Pierre Curie
+    pt_br: Pierre Curie
     rgn: Pierre Curie
     rm: Pierre Curie
     ro: Pierre Curie
@@ -282,7 +282,7 @@ dv_has_:
     sl: Pierre Curie
     sq: Pierre Curie
     sr: Пјер Кири
-    sr-el: Pierre Curie
+    sr_el: Pierre Curie
     sv: Pierre Curie
     sw: Pierre Curie
     ta: பியேர் கியூரி
@@ -308,8 +308,8 @@ dv_has_:
     yo: Pierre Curie
     yue: 居里
     zh: 皮埃尔·居里
-    zh-hans: 皮埃尔·居里
-    zh-tw: 皮耶·居禮
+    zh_hans: 皮埃尔·居里
+    zh_tw: 皮耶·居禮
     zu: Pierre Curie
 ---
 # [[Curie,Pierre]] 

@@ -103,7 +103,7 @@ dv_has_:
     az: Topaz
     bcl: Topasyo
     be: Тапаз
-    be-tarask: тапаз
+    be_tarask: тапаз
     bg: Топаз
     bn: পোখরাজ
     bs: Topaz
@@ -136,11 +136,11 @@ dv_has_:
     ka: ტოპაზი
     kbp: Topaazɩ
     kk: Топаз
-    kk-arab: توپاز
+    kk_arab: توپاز
     kk-cn: توپاز
-    kk-cyrl: Топаз
+    kk_cyrl: Топаз
     kk-kz: Топаз
-    kk-latn: Topaz
+    kk_latn: Topaz
     kk-tr: Topaz
     km: ផុស្សរាគ
     kn: ಪುಷ್ಯರಾಗ
@@ -163,7 +163,7 @@ dv_has_:
     pnb: پکھراج
     ps: توپاز
     pt: topázio
-    pt-br: topázio
+    pt_br: topázio
     qu: Q'illu umiña
     ro: topaz
     ru: топаз
@@ -191,12 +191,12 @@ dv_has_:
     wuu: 黄玉
     yue: 黃玉
     zh: 黄玉
-    zh-cn: 黄玉
-    zh-hans: 黄玉
-    zh-hant: 黃玉
-    zh-hk: 黃玉
-    zh-sg: 黄玉
-    zh-tw: 黃玉
+    zh_cn: 黄玉
+    zh_hans: 黄玉
+    zh_hant: 黃玉
+    zh_hk: 黃玉
+    zh_sg: 黄玉
+    zh_tw: 黃玉
 dv_is_same_as:
 - '[[../../../../WikiData/WD~Topaz,134985|WD~Topaz,134985]]'
 - '[[/_Standards/Earth/Geology/Mineral/Gemstone/Topaz|Topaz]]'

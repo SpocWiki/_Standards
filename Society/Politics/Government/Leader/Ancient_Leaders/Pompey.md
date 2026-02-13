@@ -146,7 +146,7 @@ dv_has_:
     ast: Cneu Pompeyu Magnu
     az: Qney Pompey
     be: Гней Пампей Вялікі
-    be-tarask: Гнэй Пампэй
+    be_tarask: Гнэй Пампэй
     bg: Помпей Велики
     bn: পম্পে
     bo: ཕང་ཕེ་
@@ -160,8 +160,8 @@ dv_has_:
     de: Gnaeus Pompeius Magnus
     el: Πομπήιος
     en: Pompey
-    en-ca: Pompey
-    en-gb: Pompey
+    en_ca: Pompey
+    en_gb: Pompey
     en-us: Pompey
     eo: Pompeo
     es: Pompeyo
@@ -206,7 +206,7 @@ dv_has_:
     pa: ਪੋਂਪੀ
     pl: Pompejusz
     pt: Pompeu
-    pt-br: Pompeu
+    pt_br: Pompeu
     ro: Pompei
     ru: Гней Помпей Великий
     sco: Pompey
@@ -215,8 +215,8 @@ dv_has_:
     sl: Pompej Veliki
     sq: Pompei
     sr: Гнеј Помпеј Велики
-    sr-ec: Гнеј Помпеј Велики
-    sr-el: Gnej Pompej Veliki
+    sr_ec: Гнеј Помпеј Велики
+    sr_el: Gnej Pompej Veliki
     stq: Gnaeus Pompeius Magnus
     sv: Pompejus
     ta: பாம்பே (உரோம்)
@@ -232,12 +232,12 @@ dv_has_:
     xmf: გნეუს პომპეუსი
     yue: 龐培
     zh: 格奈乌斯·庞培
-    zh-cn: 庞培
-    zh-hans: 格奈乌斯·庞培
-    zh-hant: 格奈烏斯·龐培
-    zh-hk: 格奈烏斯·龐培
-    zh-sg: 庞培
-    zh-tw: 龐培
+    zh_cn: 庞培
+    zh_hans: 格奈乌斯·庞培
+    zh_hant: 格奈烏斯·龐培
+    zh_hk: 格奈烏斯·龐培
+    zh_sg: 庞培
+    zh_tw: 龐培
 ---
 # [[Pompey]] 
 

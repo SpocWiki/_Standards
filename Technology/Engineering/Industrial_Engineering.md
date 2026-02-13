@@ -77,7 +77,7 @@ dv_has_:
     az: sənaye mühəndisliyi
     azb: صنایع موهندیسلیگی
     be: прамысловая інжынэрыя
-    be-tarask: прамысловая інжынэрыя
+    be_tarask: прамысловая інжынэрыя
     bn: শিল্পসংক্রান্ত প্রকৌশল
     ca: enginyeria industrial
     ckb: ئەندازیاریی پیشەسازی
@@ -129,9 +129,9 @@ dv_has_:
     wuu: 工业工程
     yue: 工業工程
     zh: 工业工程学
-    zh-hans: 工业工程
-    zh-hant: 工業工程學
-    zh-hk: 工業工程學
+    zh_hans: 工业工程
+    zh_hant: 工業工程學
+    zh_hk: 工業工程學
 ---
 # [[Industrial_Engineering]] 
 

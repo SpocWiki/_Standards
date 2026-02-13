@@ -149,7 +149,7 @@ dv_has_:
     az: Time
     bcl: Time
     be: Time
-    be-tarask: Time
+    be_tarask: Time
     bg: Тайм
     bho: टाइम पत्रिका
     bn: টাইম
@@ -163,7 +163,7 @@ dv_has_:
     de: Time
     el: Τάιμ
     en: Time
-    en-gb: Time
+    en_gb: Time
     eo: Time
     es: Time
     et: Time
@@ -213,7 +213,7 @@ dv_has_:
     pnb: ٹائم میگزین
     ps: ټایم
     pt: Time
-    pt-br: Time
+    pt_br: Time
     ro: Time
     ru: Тайм
     rue: Time (журнал)
@@ -239,8 +239,8 @@ dv_has_:
     xmf: ტაიმი
     yue: 時代雜誌
     zh: 時代雜誌
-    zh-hans: 时代
-    zh-hk: 時代雜誌
+    zh_hans: 时代
+    zh_hk: 時代雜誌
 ---
 # [[Time_Magazine]] 
 

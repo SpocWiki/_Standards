@@ -89,7 +89,7 @@ dv_has_:
     ar: بزاق
     ast: Llimiagu
     be: Смоўж
-    be-tarask: смоўж
+    be_tarask: смоўж
     bg: гол охлюв
     bn: মন্থর
     br: Melc'hwed
@@ -129,7 +129,7 @@ dv_has_:
     lt: Šliužas
     mk: голич
     ms: lintah bulan
-    ms-arab: لينته بولن
+    ms_arab: لينته بولن
     my: ပက်ကျိ
     mzn: لیسه
     nah: Tlalconetl
@@ -160,10 +160,10 @@ dv_has_:
     wuu: 蛞蝓
     yue: 鼻涕蟲
     zh: 蛞蝓
-    zh-cn: 蛞蝓
-    zh-hans: 蛞蝓
-    zh-hant: 蛞蝓
-    zh-tw: 蛞蝓
+    zh_cn: 蛞蝓
+    zh_hans: 蛞蝓
+    zh_hant: 蛞蝓
+    zh_tw: 蛞蝓
 ---
 # [[Slug]] 
 

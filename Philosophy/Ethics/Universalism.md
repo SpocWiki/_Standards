@@ -74,7 +74,7 @@ dv_has_:
     nl: universalisme
     pl: Uniwersalizm
     pt: universalismo
-    pt-br: universalismo
+    pt_br: universalismo
     ru: универсализм
     sd: آفاقيت
     sl: univerzalizem

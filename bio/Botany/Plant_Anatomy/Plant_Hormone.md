@@ -68,7 +68,7 @@ dv_has_:
     ar: هرمون نباتي
     ast: Fitohormona
     be: фітагармон
-    be-tarask: фітагармон
+    be_tarask: фітагармон
     bg: фитохормон
     bn: উদ্ভিদ হরমোন
     bs: Biljni hormon
@@ -94,11 +94,11 @@ dv_has_:
     it: fitormone
     ja: 植物ホルモン
     kk: Өсімдіктер гормондары
-    kk-arab: وسىمدىكتەر گورموندارى
+    kk_arab: وسىمدىكتەر گورموندارى
     kk-cn: وسىمدىكتەر گورموندارى
-    kk-cyrl: Өсімдіктер гормондары
+    kk_cyrl: Өсімдіктер гормондары
     kk-kz: Өсімдіктер гормондары
-    kk-latn: Ösimdikter gormondarı
+    kk_latn: Ösimdikter gormondarı
     kk-tr: Ösimdikter gormondarı
     ko: 식물 호르몬
     lt: augalų hormonas
@@ -116,8 +116,8 @@ dv_has_:
     sh: Biljni hormon
     sk: Rastlinný hormón
     sr: Биљни хормон
-    sr-ec: Биљни хормон
-    sr-el: Biljni hormon
+    sr_ec: Биљни хормон
+    sr_el: Biljni hormon
     sv: Fytohormoner
     ta: தாவர வளரூக்கி
     tg: Ангезаҳои рушди растанӣ
@@ -129,12 +129,12 @@ dv_has_:
     wuu: 植物激素
     yue: 植物激素
     zh: 植物激素
-    zh-cn: 植物激素
-    zh-hans: 植物激素
-    zh-hant: 植物激素
-    zh-hk: 植物激素
-    zh-sg: 植物激素
-    zh-tw: 植物激素
+    zh_cn: 植物激素
+    zh_hans: 植物激素
+    zh_hant: 植物激素
+    zh_hk: 植物激素
+    zh_sg: 植物激素
+    zh_tw: 植物激素
 ---
 # [[Plant_Hormone]] 
 

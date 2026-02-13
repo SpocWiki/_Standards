@@ -121,7 +121,7 @@ dv_has_:
     ast: Aceite de palma
     azb: پالم یاغی
     be: Пальмавы алей
-    be-tarask: пальмавы алей
+    be_tarask: пальмавы алей
     bg: Палмово масло
     bn: পাম তেল
     ca: oli de palma
@@ -131,8 +131,8 @@ dv_has_:
     de: Palmöl
     el: Φοινικέλαιο
     en: palm oil
-    en-ca: Palm oil
-    en-gb: palm oil
+    en_ca: Palm oil
+    en_gb: palm oil
     eo: palmoleo
     es: aceite de palma
     et: Palmiõli
@@ -176,7 +176,7 @@ dv_has_:
     pl: olej palmowy
     ps: د خرما (نخل) غوړي
     pt: azeite de dendê
-    pt-br: Azeite de dendê
+    pt_br: Azeite de dendê
     rn: Amamesa
     ro: ulei de palmier
     ru: пальмовое масло
@@ -201,11 +201,11 @@ dv_has_:
     yue: 棕櫚油
     zh: 棕櫚油
     zh-cn: 棕榈油
-    zh-hans: 棕榈油
-    zh-hant: 棕櫚油
-    zh-hk: 棕櫚油
-    zh-sg: 棕榈油
-    zh-tw: 棕櫚油
+    zh_hans: 棕榈油
+    zh_hant: 棕櫚油
+    zh_hk: 棕櫚油
+    zh_sg: 棕榈油
+    zh_tw: 棕櫚油
 ---
 # [[Palm_Oil]] 
 

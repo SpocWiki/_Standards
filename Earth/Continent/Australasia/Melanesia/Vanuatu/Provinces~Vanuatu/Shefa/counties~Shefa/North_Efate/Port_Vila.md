@@ -136,7 +136,7 @@ dv_has_:
     ba: Порт-Вила
     ban: Port Vila
     be: Порт-Віла
-    be-tarask: Порт Віла
+    be_tarask: Порт Віла
     bg: Порт Вила
     bi: Port Vila
     bn: পোর্ট ভিলা
@@ -251,9 +251,9 @@ dv_has_:
     yue: 維拉港
     zea: Port Vila
     zh: 维拉港
-    zh-hans: 维拉港
-    zh-hant: 維拉港
-    zh-tw: 維拉港
+    zh_hans: 维拉港
+    zh_hant: 維拉港
+    zh_tw: 維拉港
     zu: i-Port Vila
 ---
 # [[Port_Vila]] 

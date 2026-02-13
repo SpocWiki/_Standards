@@ -116,7 +116,7 @@ dv_has_:
     ast: Narcissus
     az: Nərgizgülü
     be: Нарцыс
-    be-tarask: нарцыс
+    be_tarask: нарцыс
     bg: нарцис
     bn: নার্গিস
     bo: ཆུ་ལྷ།
@@ -178,7 +178,7 @@ dv_has_:
     mul: Narcissus
     nb: Narsiss
     nds: Narcissus
-    nds-nl: tieloze
+    nds_nl: tieloze
     ne: गुणकेशरी
     new: गुनकेरा
     nl: Narcissus
@@ -191,7 +191,7 @@ dv_has_:
     pnb: نرگس
     ps: نرګس
     pt: Narcissus
-    pt-br: Narcissus
+    pt_br: Narcissus
     ro: Narcisă
     ru: Нарцисс
     sco: Lily
@@ -220,9 +220,9 @@ dv_has_:
     xmf: კორთხონჯი
     yue: 水仙屬
     zh: 水仙属
-    zh-cn: 水仙属
-    zh-hans: 水仙属
-    zh-tw: 水仙屬
+    zh_cn: 水仙属
+    zh_hans: 水仙属
+    zh_tw: 水仙屬
 ---
 # [[Narcissus(Plant)]] 
 

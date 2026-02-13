@@ -245,7 +245,7 @@ dv_has_:
     ba: Веласкес, Диего
     bar: Diego Velázquez
     be: Дыега Веласкес
-    be-tarask: Дыега Вэляскес
+    be_tarask: Дыега Вэляскес
     bg: Диего Веласкес
     bi: Diego Velázquez
     bn: দিয়েগো বেলাসকেস
@@ -262,12 +262,12 @@ dv_has_:
     cy: Diego Velázquez
     da: Diego Velázquez
     de: Diego Velázquez
-    de-ch: Diego Rodríguez de Silva y Velázquez
+    de_ch: Diego Rodríguez de Silva y Velázquez
     el: Ντιέγο Βελάθκεθ
     eml: Diego Velázquez
     en: Diego Velázquez
-    en-ca: Diego Velázquez
-    en-gb: Diego Velázquez
+    en_ca: Diego Velázquez
+    en_gb: Diego Velázquez
     eo: Diego Velázquez
     es: Diego Velázquez
     et: Diego Velázquez
@@ -337,7 +337,7 @@ dv_has_:
     nan: Diego Velázquez
     nb: Diego Velázquez
     nds: Diego Vélasquez
-    nds-nl: Diego Vélasquez
+    nds_nl: Diego Vélasquez
     ne: डिएगो भेलाज्केज
     nl: Diego Velázquez
     nn: Diego Velázquez
@@ -350,7 +350,7 @@ dv_has_:
     pms: Diego Velázquez
     pnb: ڈیاگو ویلاسکوئز
     pt: Diego Velázquez
-    pt-br: Diego Velázquez
+    pt_br: Diego Velázquez
     qu: Diego Velázquez
     ro: Diego Velázquez
     roa-tara: Diego Velázquez
@@ -365,7 +365,7 @@ dv_has_:
     so: Diego Velázquez
     sq: Diego Vélasquez
     sr: Дијего Веласкез
-    sr-ec: Дијего Веласкез
+    sr_ec: Дијего Веласкез
     stq: Diego Rodríguez de Silva y Velázquez
     sv: Diego Velázquez
     sw: Diego Velázquez
@@ -394,9 +394,9 @@ dv_has_:
     yo: Diego Velázquez
     yue: 委拉斯蓋茲
     zh: 委拉斯開茲
-    zh-hans: 委拉斯开兹
-    zh-hant: 委拉斯開茲
-    zh-tw: 迪亞哥·維拉斯奎茲
+    zh_hans: 委拉斯开兹
+    zh_hant: 委拉斯開茲
+    zh_tw: 迪亞哥·維拉斯奎茲
 ---
 # [[Velázquez,Diego]] 
 

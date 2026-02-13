@@ -209,7 +209,7 @@ dv_has_:
     ba: фәлсәфәсе
     bar: Philosoph
     be: філосаф
-    be-tarask: філёзаф
+    be_tarask: філёзаф
     bg: философ
     bho: दार्शनिक
     bn: দার্শনিক
@@ -219,19 +219,19 @@ dv_has_:
     ceb: pilosopo
     ckb: فەیلەسووف
     crh: felsefeci
-    crh-latn: felsefeci
+    crh_latn: felsefeci
     cs: filozof
     cv: философ
     cy: athronydd
     da: filosof
     de: Philosoph
     de-at: Philosoph
-    de-ch: Philosoph
+    de_ch: Philosoph
     diq: Filozof
     el: φιλόσοφος
     en: philosopher
-    en-ca: Philosopher
-    en-gb: philosopher
+    en_ca: Philosopher
+    en_gb: philosopher
     en-us: philosopher
     eo: filozofo
     es: filósofo
@@ -275,7 +275,7 @@ dv_has_:
     ko: 철학자
     ks: فَلاسفَر
     ku: fîlozof
-    ku-latn: fîlozof
+    ku_latn: fîlozof
     kw: filosofer
     la: philosophus
     lb: Philosoph
@@ -291,7 +291,7 @@ dv_has_:
     mni: ꯋꯥꯡꯎꯂꯣꯢ
     mr: तत्वज्ञानी
     ms: ahli falsafah
-    ms-arab: اهلي فلسفه
+    ms_arab: اهلي فلسفه
     mt: filosofu
     nah: Tlazohmatiliztlācatl
     nb: filosof
@@ -312,7 +312,7 @@ dv_has_:
     pnb: فلسفی
     ps: فیلسوف
     pt: filósofo
-    pt-br: filósofo
+    pt_br: filósofo
     qu: Yachay wayllukuq
     ro: filozof
     ru: философ
@@ -332,8 +332,8 @@ dv_has_:
     sms: filosoof
     sq: fiolzof
     sr: филозоф
-    sr-ec: филозоф
-    sr-el: filozof
+    sr_ec: филозоф
+    sr_el: filozof
     stq: Philosoph
     su: Filsuf
     sv: filosof
@@ -341,12 +341,12 @@ dv_has_:
     ta: மெய்யியலாளர்
     te: తత్వవేత్త
     tg: файласуф
-    tg-cyrl: файласуф
+    tg_cyrl: файласуф
     th: นักปรัชญา
     tl: pilosopo
     tr: filozof
     tt: фәлсәфәче
-    tt-cyrl: фәлсәфәче
+    tt_cyrl: фәлсәфәче
     uk: філософ
     ur: فلسفی
     vec: fiłòzofo
@@ -359,14 +359,14 @@ dv_has_:
     yue: 哲學家
     zgh: ⴰⴼⵍⵙⴰⴼ
     zh: 哲學家
-    zh-cn: 哲学家
+    zh_cn: 哲学家
     zh-hans: 哲学家
-    zh-hant: 哲學家
-    zh-hk: 哲學家
-    zh-mo: 哲學家
+    zh_hant: 哲學家
+    zh_hk: 哲學家
+    zh_mo: 哲學家
     zh-my: 哲学家
-    zh-sg: 哲学家
-    zh-tw: 哲學家
+    zh_sg: 哲学家
+    zh_tw: 哲學家
 ---
 # [[Philosopher]] 
 

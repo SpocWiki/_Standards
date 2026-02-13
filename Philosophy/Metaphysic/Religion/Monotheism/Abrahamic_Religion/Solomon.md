@@ -176,7 +176,7 @@ dv_has_:
     ba: Сөләймән
     bar: Salomon
     be: Саламон
-    be-tarask: Саламон
+    be_tarask: Саламон
     bg: Соломон
     bn: সলোমন
     bo: ཤ་ལོ་མོ།
@@ -191,12 +191,12 @@ dv_has_:
     cy: Solomon
     da: Salomon
     de: Salomo
-    de-ch: Salomo
+    de_ch: Salomo
     diq: Sılêman
     el: Σολομών
     en: Solomon
-    en-ca: Solomon
-    en-gb: Solomon
+    en_ca: Solomon
+    en_gb: Solomon
     eo: Salomono
     es: Salomón
     et: Saalomon
@@ -249,7 +249,7 @@ dv_has_:
     pnb: سلیمان (بادشاہ)
     ps: سليمان
     pt: Salomão
-    pt-br: Salomão
+    pt_br: Salomão
     ro: Solomon
     ru: Соломон
     sco: Solomon
@@ -261,7 +261,7 @@ dv_has_:
     so: Nabi Suleymaan C.S.
     sq: Salomon
     sr: Соломон
-    sr-ec: Соломон
+    sr_ec: Соломон
     sv: Salomo
     sw: Solomoni
     ta: சாலொமோன்
@@ -271,7 +271,7 @@ dv_has_:
     tok: jan Salomon
     tr: Süleyman
     tt: Сөләйман пәйгамбәр
-    tt-cyrl: Сөләйман пәйгамбәр
+    tt_cyrl: Сөләйман пәйгамбәр
     ug: سۇلايمان ئەلەيھىسسالام
     uk: Соломон
     ur: شاہ سلیمان
@@ -282,7 +282,7 @@ dv_has_:
     yi: שלמה המלך
     yue: 所羅門王
     zh: 所羅門
-    zh-hant: 所羅門王
+    zh_hant: 所羅門王
 ---
 # [[Solomon]] 
 

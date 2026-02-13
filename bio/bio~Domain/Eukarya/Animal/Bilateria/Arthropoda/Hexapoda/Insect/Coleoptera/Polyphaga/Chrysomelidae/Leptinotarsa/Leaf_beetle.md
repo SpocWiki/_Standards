@@ -93,7 +93,7 @@ dv_has_:
     ba: Япраҡ ҡуңыҙы
     bar: Chrysomelidae
     be: лістаеды
-    be-tarask: лістаеды
+    be_tarask: лістаеды
     bg: листояди
     br: Chrysomelidae
     bs: Zlatice
@@ -105,11 +105,11 @@ dv_has_:
     da: Chrysomelidae
     de: Blattkäfer
     de-at: Chrysomelidae
-    de-ch: Chrysomelidae
+    de_ch: Chrysomelidae
     el: χρυσομηλίδες
     en: Chrysomelidae
-    en-ca: Chrysomelidae
-    en-gb: Chrysomelidae
+    en_ca: Chrysomelidae
+    en_gb: Chrysomelidae
     eo: Foliskaraboj
     es: Chrysomelidae
     et: Poilased
@@ -137,11 +137,11 @@ dv_has_:
     ka: ფოთლიჭამიასებრნი
     kg: Chrysomelidae
     kk: Жапырақ жемірі
-    kk-arab: جاپىراق جەمىرى
+    kk_arab: جاپىراق جەمىرى
     kk-cn: جاپىراق جەمىرى
-    kk-cyrl: Жапырақ жемірі
+    kk_cyrl: Жапырақ жемірі
     kk-kz: Жапырақ жемірі
-    kk-latn: Japıraq jemiri
+    kk_latn: Japıraq jemiri
     kk-tr: Japıraq jemiri
     ko: 잎벌레과
     ky: Жалбырак кемиргичтер
@@ -159,7 +159,7 @@ dv_has_:
     nap: Chrysomelidae
     nb: bladbiller
     nds: Blattkävers
-    nds-nl: Chrysomelidae
+    nds_nl: Chrysomelidae
     nl: bladkevers
     nn: bladbiller
     nrm: Chrysomelidae
@@ -171,7 +171,7 @@ dv_has_:
     pl: stonkowate
     pms: Chrysomelidae
     pt: Chrysomelidae
-    pt-br: Chrysomelidae
+    pt_br: Chrysomelidae
     rm: Chrysomelidae
     ro: Chrysomelidae
     ru: листоеды
@@ -198,12 +198,12 @@ dv_has_:
     wuu: 金花虫科
     yue: 金花蟲科
     zh: 叶甲科
-    zh-cn: 叶甲科
-    zh-hans: 叶甲科
-    zh-hant: 金花蟲科
-    zh-hk: 金花蟲科
-    zh-sg: 金花虫科
-    zh-tw: 金花蟲科
+    zh_cn: 叶甲科
+    zh_hans: 叶甲科
+    zh_hant: 金花蟲科
+    zh_hk: 金花蟲科
+    zh_sg: 金花虫科
+    zh_tw: 金花蟲科
     zu: Chrysomelidae
 ---
 # [[Leaf_beetle]]

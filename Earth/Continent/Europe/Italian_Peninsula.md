@@ -162,7 +162,7 @@ dv_has_:
     az: Appenin yarımadası
     ba: Аппенин ярымутрауы
     be: Апенінскі паўвостраў
-    be-tarask: Апэнінскі паўвостраў
+    be_tarask: Апэнінскі паўвостраў
     bg: Апенински полуостров
     br: Ledenez Italia
     bs: Apeninsko poluostrvo
@@ -173,12 +173,12 @@ dv_has_:
     cy: Gorynys yr Eidal
     da: Apenniniske halvø
     de: Apenninhalbinsel
-    de-ch: Apenninhalbinsel
+    de_ch: Apenninhalbinsel
     dsb: Apenninska połkupa
     el: Ιταλική χερσόνησος
     en: Italian Peninsula
-    en-ca: Italian Peninsula
-    en-gb: Italian Peninsula
+    en_ca: Italian Peninsula
+    en_gb: Italian Peninsula
     eo: Itala duoninsulo
     es: península itálica
     et: Apenniini poolsaar
@@ -205,16 +205,16 @@ dv_has_:
     ja: イタリア半島
     ka: აპენინის ნახევარკუნძული
     kk: Апеннин түбегі
-    kk-arab: اپەننىين تۇبەگى
+    kk_arab: اپەننىين تۇبەگى
     kk-cn: اپەننىين تۇبەگى
-    kk-cyrl: Апеннин түбегі
+    kk_cyrl: Апеннин түбегі
     kk-kz: Апеннин түбегі
-    kk-latn: Apennïn tübegi
+    kk_latn: Apennïn tübegi
     kk-tr: Apennïn tübegi
     ko: 이탈리아반도
     ku: Nîvgirava Apennîn
-    ku-arab: نیڤگراڤائا پەننین
-    ku-latn: Nîvgirava Apennîn
+    ku_arab: نیڤگراڤائا پەننین
+    ku_latn: Nîvgirava Apennîn
     ky: Апеннин жарым аралы
     la: Paeninsula Italiana
     lmo: Penisula italica
@@ -238,7 +238,7 @@ dv_has_:
     pl: Półwysep Apeniński
     pnb: اطالوی جزیرہ نما
     pt: Península apenina
-    pt-br: Península Itálica
+    pt_br: Península Itálica
     ro: Peninsula Italică
     ru: Апеннинский полуостров
     rue: Италийскый полуостров
@@ -250,8 +250,8 @@ dv_has_:
     sl: Apeninski polotok
     sq: Gadishulli Apenin
     sr: Апенинско полуострво
-    sr-ec: Апенинско полуострво
-    sr-el: Apeninsko poluostrvo
+    sr_ec: Апенинско полуострво
+    sr_el: Apeninsko poluostrvo
     sv: Apenninska halvön
     sw: Rasi ya Italia
     szl: Apyńiński Půłwysep
@@ -271,12 +271,12 @@ dv_has_:
     xmf: აპენინიშ ჩქონი
     yue: 意大利半島
     zh: 意大利半島
-    zh-cn: 意大利半岛
-    zh-hans: 意大利半岛
-    zh-hant: 意大利半島
-    zh-hk: 意大利半島
-    zh-sg: 意大利半岛
-    zh-tw: 義大利半島
+    zh_cn: 意大利半岛
+    zh_hans: 意大利半岛
+    zh_hant: 意大利半島
+    zh_hk: 意大利半島
+    zh_sg: 意大利半岛
+    zh_tw: 義大利半島
 ---
 # [[Italian_Peninsula]] 
 

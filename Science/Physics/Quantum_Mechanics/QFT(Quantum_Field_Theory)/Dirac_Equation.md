@@ -74,11 +74,11 @@ dv_has_:
     cs: Diracova rovnice
     da: Dirac-ligningen
     de: Dirac-Gleichung
-    de-ch: Dirac-Gleichung
+    de_ch: Dirac-Gleichung
     el: εξίσωση Ντιράκ
     en: Dirac equation
-    en-ca: Dirac equation
-    en-gb: Dirac equation
+    en_ca: Dirac equation
+    en_gb: Dirac equation
     eo: Diraka ekvacio
     es: ecuación de Dirac
     et: Diraci võrrand
@@ -108,7 +108,7 @@ dv_has_:
     pa: ਡੀਰਾਕ ਇਕੁਏਸ਼ਨ
     pl: równanie Diraca
     pt: equação de Dirac
-    pt-br: equação de Dirac
+    pt_br: equação de Dirac
     ro: ecuația lui Dirac
     ru: уравнение Дирака
     sl: Diracova enačba
@@ -121,12 +121,12 @@ dv_has_:
     vi: phương trình Dirac
     yue: Dirac 方程
     zh: 狄拉克方程式
-    zh-cn: 狄拉克方程
-    zh-hans: 狄拉克方程式
-    zh-hant: 狄拉克方程式
-    zh-hk: 狄拉克方程式
-    zh-sg: 狄拉克方程
-    zh-tw: 狄拉克方程式
+    zh_cn: 狄拉克方程
+    zh_hans: 狄拉克方程式
+    zh_hant: 狄拉克方程式
+    zh_hk: 狄拉克方程式
+    zh_sg: 狄拉克方程
+    zh_tw: 狄拉克方程式
 ---
 # [[Dirac_Equation]] 
 

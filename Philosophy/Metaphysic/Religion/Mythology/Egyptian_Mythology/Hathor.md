@@ -73,7 +73,7 @@ dv_has_:
     ast: Hathor
     az: Hathor
     be: Хатхор
-    be-tarask: Гатор
+    be_tarask: Гатор
     bg: Хатор
     bn: হাথোর
     bo: ཧ་ཐུའོ་ཨེར།
@@ -86,7 +86,7 @@ dv_has_:
     de: Hathor
     el: Άθωρ
     en: Hathor
-    en-gb: Hathor
+    en_gb: Hathor
     eo: Hatoro
     es: Hathor
     et: Hathor
@@ -121,7 +121,7 @@ dv_has_:
     oc: Hot Her
     pl: Hathor
     pt: Hator
-    pt-br: Hator
+    pt_br: Hator
     ro: Hathor
     ru: Хатхор
     scn: Hathor
@@ -131,8 +131,8 @@ dv_has_:
     sk: Hathor
     sl: Hator
     sr: Хатор
-    sr-ec: Хатор
-    sr-el: Hator
+    sr_ec: Хатор
+    sr_el: Hator
     sv: Hathor
     sw: Hathor
     ta: ஆத்தோர்
@@ -147,12 +147,12 @@ dv_has_:
     xmf: ჰატჰორი
     yue: 哈化
     zh: 哈索尔
-    zh-cn: 哈索尔
-    zh-hans: 哈索尔
-    zh-hant: 哈索爾
-    zh-hk: 哈索爾
-    zh-sg: 哈索尔
-    zh-tw: 哈索爾
+    zh_cn: 哈索尔
+    zh_hans: 哈索尔
+    zh_hant: 哈索爾
+    zh_hk: 哈索爾
+    zh_sg: 哈索尔
+    zh_tw: 哈索爾
 ---
 # [[Hathor]] 
 

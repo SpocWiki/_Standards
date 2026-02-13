@@ -285,7 +285,7 @@ dv_has_:
     bar: Victor Hugo
     bcl: Victor Hugo
     be: Віктор Гюго
-    be-tarask: Віктор Юго
+    be_tarask: Віктор Юго
     bg: Виктор Юго
     bho: विक्टर ह्यूगो
     bi: Victor Hugo
@@ -305,12 +305,12 @@ dv_has_:
     cy: Victor Hugo
     da: Victor Hugo
     de: Victor Hugo
-    de-ch: Victor Hugo
+    de_ch: Victor Hugo
     diq: Victor Hugo
     el: Βίκτωρ Ουγκώ
     en: Victor Hugo
-    en-ca: Victor Hugo
-    en-gb: Victor Hugo
+    en_ca: Victor Hugo
+    en_gb: Victor Hugo
     eo: Victor Hugo
     es: Victor Hugo
     et: Victor Hugo
@@ -389,7 +389,7 @@ dv_has_:
     nan: Victor Hugo
     nb: Victor Hugo
     nds: Victor Hugo
-    nds-nl: Victor Hugo
+    nds_nl: Victor Hugo
     ne: भिक्टर हुगो
     new: भिक्तर ह्युगो
     nl: Victor Hugo
@@ -408,7 +408,7 @@ dv_has_:
     pnb: وکٹر ہیوگو
     ps: وېکټور هوګو
     pt: Victor Hugo
-    pt-br: Victor Hugo
+    pt_br: Victor Hugo
     qu: Victor Hugo
     ro: Victor Hugo
     ru: Виктор Гюго
@@ -462,10 +462,10 @@ dv_has_:
     yue: 雨果
     zgh: ⴼⵉⴽⵟⵓⵕ ⵀⵓⴳⵓ
     zh: 维克多·雨果
-    zh-hans: 维克多·雨果
-    zh-hant: 維克多·雨果
-    zh-hk: 域多·雨果
-    zh-tw: 維克多·雨果
+    zh_hans: 维克多·雨果
+    zh_hant: 維克多·雨果
+    zh_hk: 域多·雨果
+    zh_tw: 維克多·雨果
 ---
 # [[Hugo,Victor]] 
 

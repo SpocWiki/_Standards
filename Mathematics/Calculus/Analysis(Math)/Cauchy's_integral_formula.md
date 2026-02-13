@@ -60,7 +60,7 @@ dv_has_:
     ar: صيغة كوشي التكاملية
     ast: Fórmula integral de Cauchy
     ba: Кошиҙың интеграль формулаһы
-    be-tarask: інтэгральная формула Кашы
+    be_tarask: інтэгральная формула Кашы
     ca: fórmula de la integral de Cauchy
     ckb: فورمووڵی تەواوکاریی کۆشی
     cs: Cauchyův vzorec
@@ -93,8 +93,8 @@ dv_has_:
     sl: Cauchyjeva integralska formula
     sq: Formula integrale e Cauchy
     sr: Кошијева интегрална формула
-    sr-ec: Кошијева интегрална формула
-    sr-el: Košijeva integralna formula
+    sr_ec: Кошијева интегрална формула
+    sr_el: Košijeva integralna formula
     sv: Cauchys integralformel
     tr: Cauchy integral formülü
     uk: Інтегральна формула Коші
@@ -102,9 +102,9 @@ dv_has_:
     wuu: 柯西积分公式
     yue: 柯西積分公式
     zh: 柯西積分公式
-    zh-hans: 柯西积分公式
-    zh-hant: 柯西積分公式
-    zh-hk: 柯西積分公式
+    zh_hans: 柯西积分公式
+    zh_hant: 柯西積分公式
+    zh_hk: 柯西積分公式
 ---
 # [[Cauchy's_integral_formula]] 
 

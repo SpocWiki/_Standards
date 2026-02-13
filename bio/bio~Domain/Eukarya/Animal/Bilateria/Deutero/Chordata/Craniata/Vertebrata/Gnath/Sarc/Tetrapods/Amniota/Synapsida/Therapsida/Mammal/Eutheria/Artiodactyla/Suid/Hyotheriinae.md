@@ -32,7 +32,7 @@ dv_has_:
     oc: Hyotheriinae
     pl: Hyotheriinae
     pt: Hyotheriinae
-    pt-br: Hyotheriinae
+    pt_br: Hyotheriinae
     ro: Hyotheriinae
     ru: Hyotheriinae
     sq: Hyotheriinae

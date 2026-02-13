@@ -127,7 +127,7 @@ dv_has_:
     ar: حملة لويس وكلارك
     ast: Espedición de Lewis y Clark
     be: Экспедыцыя Льюіса і Кларка
-    be-tarask: экпэдыцыя Льюіса і Кларка
+    be_tarask: экпэдыцыя Льюіса і Кларка
     bg: Експедиция на Луис и Кларк
     bn: লুইস ও ক্লার্কের অভিযান
     bs: Ekspedicija Lewisa i Clarka
@@ -172,9 +172,9 @@ dv_has_:
     vi: Cuộc thám hiểm của Lewis và Clark
     wuu: 刘易斯搭克拉克远征
     zh: 刘易斯与克拉克远征
-    zh-hans: 刘易斯与克拉克远征
-    zh-hant: 劉易斯與克拉克遠征
-    zh-hk: 劉易斯與克拉克遠征
+    zh_hans: 刘易斯与克拉克远征
+    zh_hant: 劉易斯與克拉克遠征
+    zh_hk: 劉易斯與克拉克遠征
 ---
 # [[1804-Lewis_and_Clark_Expedition-1806]] 
 

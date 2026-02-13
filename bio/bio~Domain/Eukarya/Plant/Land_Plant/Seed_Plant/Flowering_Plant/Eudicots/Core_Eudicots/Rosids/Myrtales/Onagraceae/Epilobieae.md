@@ -61,7 +61,7 @@ dv_has_:
     az: Yağıotu
     azb: یاغی اوتو
     be: Скрыпень
-    be-tarask: Epilobium
+    be_tarask: Epilobium
     bg: Върбовка
     ca: Epilobi
     ceb: Epilobium
@@ -70,10 +70,10 @@ dv_has_:
     cy: helyglys
     da: Dueurt
     de: Weidenröschen
-    de-ch: Weidenröschen
+    de_ch: Weidenröschen
     en: Epilobium
-    en-ca: Epilobium
-    en-gb: Epilobium
+    en_ca: Epilobium
+    en_gb: Epilobium
     eo: epilobio
     es: epilobium
     et: Pajulill
@@ -113,7 +113,7 @@ dv_has_:
     oc: Epilobium
     pl: Wierzbownica
     pt: epilobium
-    pt-br: Epilobium
+    pt_br: Epilobium
     ro: Epilobium
     ru: Кипрей
     se: Horbmášattut
@@ -127,12 +127,12 @@ dv_has_:
     vo: Epilobium
     war: Epilobium
     zh: 柳叶菜属
-    zh-cn: 柳叶菜属
-    zh-hans: 柳叶菜属
-    zh-hant: 柳葉菜屬
-    zh-hk: 柳葉菜屬
-    zh-sg: 柳叶菜属
-    zh-tw: 柳葉菜屬
+    zh_cn: 柳叶菜属
+    zh_hans: 柳叶菜属
+    zh_hant: 柳葉菜屬
+    zh_hk: 柳葉菜屬
+    zh_sg: 柳叶菜属
+    zh_tw: 柳葉菜屬
 ---
 # [[Epilobieae]] 
 

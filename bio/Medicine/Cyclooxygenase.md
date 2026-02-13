@@ -59,19 +59,19 @@ dv_has_:
     sh: Ciklooksigenaza
     sl: Ciklooksigenaza
     sr: Ciklooksigenaza
-    sr-ec: Циклооксигеназа
-    sr-el: Ciklooksigenaza
+    sr_ec: Циклооксигеназа
+    sr_el: Ciklooksigenaza
     sv: Cyklooxygenas
     tr: siklooksijenaz
     uk: Циклооксигеназа
     uz: Siklooksigenazalar
     zh: 環氧合酶
-    zh-cn: 环氧合酶
-    zh-hans: 环氧合酶
-    zh-hant: 環氧合酶
-    zh-hk: 環氧合酶
-    zh-sg: 环氧合酶
-    zh-tw: 環氧合酶
+    zh_cn: 环氧合酶
+    zh_hans: 环氧合酶
+    zh_hant: 環氧合酶
+    zh_hk: 環氧合酶
+    zh_sg: 环氧合酶
+    zh_tw: 環氧合酶
 ---
 Cyclooxygenase generates Prostaglandine which is detected by Pain Receptors. 
 

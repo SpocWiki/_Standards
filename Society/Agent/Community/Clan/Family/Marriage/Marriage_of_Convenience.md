@@ -48,7 +48,7 @@ dv_has_:
   name_:
     ar: زواج صوري
     ba: Иҫәп-хисап буйынса никах
-    be-tarask: фіктыўны шлюб
+    be_tarask: фіктыўны шлюб
     ca: matrimoni de conveniència
     cs: manželství z rozumu
     de: Konvenienzehe
@@ -80,8 +80,8 @@ dv_has_:
     vi: Kết hôn giả
     yue: 政治婚姻
     zh: 权宜婚姻
-    zh-hant: 政治婚姻
-    zh-tw: 政治婚姻
+    zh_hant: 政治婚姻
+    zh_tw: 政治婚姻
 ---
 # [[Marriage_of_Convenience]] 
 

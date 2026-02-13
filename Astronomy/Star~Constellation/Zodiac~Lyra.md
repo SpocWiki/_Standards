@@ -95,7 +95,7 @@ dv_has_:
     az: Lira
     ba: Лира
     be: Ліра
-    be-tarask: Ліра
+    be_tarask: Ліра
     bg: Лира
     bn: বীণা মণ্ডল
     bo: པི་ཝང་སྐར་ཚོམ་
@@ -111,8 +111,8 @@ dv_has_:
     diq: Lira
     el: Λύρα
     en: Lyra
-    en-ca: Lyra
-    en-gb: Lyra
+    en_ca: Lyra
+    en_gb: Lyra
     eo: Liro
     es: Lyra
     et: Lüüra
@@ -159,7 +159,7 @@ dv_has_:
     os: Лирæ
     pl: Gwiazdozbiór Lutni
     pt: Lyra
-    pt-br: Lyra
+    pt_br: Lyra
     ro: Lira
     ru: Лира
     sah: Лира
@@ -168,7 +168,7 @@ dv_has_:
     sk: Lýra
     sl: Lira
     sr: Лира
-    sr-ec: Лира
+    sr_ec: Лира
     sv: Lyran
     sw: Kinubi
     th: กลุ่มดาวพิณ

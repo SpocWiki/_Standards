@@ -141,7 +141,7 @@ dv_has_:
     azb: ماریانا چوخورو
     ba: Мариан улағы
     be: Марыянскі жолаб
-    be-tarask: Марыянскі жолаб
+    be_tarask: Марыянскі жолаб
     bg: Марианска падина
     bi: Mariana Trench
     bn: মারিয়ানা খাত
@@ -153,12 +153,12 @@ dv_has_:
     cs: Marianský příkop
     da: Marianergraven
     de: Marianengraben
-    de-ch: Marianengraben
+    de_ch: Marianengraben
     dtp: Jurang Mariana
     el: Τάφρος των Μαριανών
     en: Mariana Trench
-    en-ca: Mariana Trench
-    en-gb: Mariana Trench
+    en_ca: Mariana Trench
+    en_gb: Mariana Trench
     eo: Mariana Fosego
     es: fosa de las Marianas
     et: Mariaani süvik
@@ -210,7 +210,7 @@ dv_has_:
     pl: Rów Mariański
     pnb: ماریانہ
     pt: Fossa das Marianas
-    pt-br: Fossa das Marianas
+    pt_br: Fossa das Marianas
     ro: Groapa Marianelor
     ru: Марианский жёлоб
     scn: Fossa dî Marianni
@@ -241,9 +241,9 @@ dv_has_:
     xmf: მარიანაშ რღამილი
     yue: 馬里亞納海溝
     zh: 马里亚纳海沟
-    zh-cn: 马里亚纳海沟
-    zh-hant: 馬里亞納海溝
-    zh-tw: 馬里亞納海溝
+    zh_cn: 马里亚纳海沟
+    zh_hant: 馬里亞納海溝
+    zh_tw: 馬里亞納海溝
 ---
 # [[Mariana_Trench]] 
 

@@ -282,7 +282,7 @@ dv_has_:
     bar: Isaac Newton
     bcl: Isaac Newton
     be: Ісаак Ньютан
-    be-tarask: Ісак Ньютан
+    be_tarask: Ісак Ньютан
     bew: Ishak Niuton
     bg: Исак Нютон
     bho: आइजक न्युटन
@@ -294,29 +294,29 @@ dv_has_:
     btm: Isaac Newton
     bxr: Исаак Ньютон
     ca: Isaac Newton
-    cbk-zam: Isaac Newton
+    cbk_zam: Isaac Newton
     cdo: Isaac Newton
     ce: Исхьакъ Ньютон
     ceb: Isaac Newton
     ckb: ئایزک نیوتن
     co: Isaac Newton
     crh: Ayzek Nyuton
-    crh-latn: Ayzek Nyuton
+    crh_latn: Ayzek Nyuton
     cs: Isaac Newton
     cu: Їсаакъ Нютонъ
     cv: Исаак Ньютон
     cy: Isaac Newton
     da: Isaac Newton
     de: Isaac Newton
-    de-ch: Isaac Newton
+    de_ch: Isaac Newton
     diq: Isaac Newton
     dsb: Isaac Newton
     dty: आइज्याक न्यूटन
     dv: އިސާކް ނިއުޓަން
     el: Ισαάκ Νεύτων
     en: Isaac Newton
-    en-ca: Isaac Newton
-    en-gb: Isaac Newton
+    en_ca: Isaac Newton
+    en_gb: Isaac Newton
     eo: Isaac Newton
     es: Isaac Newton
     et: Isaac Newton
@@ -398,7 +398,7 @@ dv_has_:
     lzh: 牛頓
     mad: Isaac Newton
     mai: आइज्याक न्यूटन
-    map-bms: Isaac Newton
+    map_bms: Isaac Newton
     mdf: Нютон, Исаак
     mg: Isaac Newton
     mhr: Ньютон Исаак
@@ -417,7 +417,7 @@ dv_has_:
     nan: Isaac Newton
     nb: Isaac Newton
     nds: Isaac Newton
-    nds-nl: Isaac Newton
+    nds_nl: Isaac Newton
     ne: अइज्याक न्युटन
     new: आईज्याक न्युटन
     nl: Isaac Newton
@@ -441,7 +441,7 @@ dv_has_:
     pnt: Ισαάκ Νιούτον
     ps: آيزاک نيوټن
     pt: Isaac Newton
-    pt-br: Isaac Newton
+    pt_br: Isaac Newton
     qu: Isaac Newton
     rki: ဆာအိုက်ဆက် နယူတန်
     rm: Isaac Newton
@@ -469,8 +469,8 @@ dv_has_:
     so: Isxaaq Newton
     sq: Isaac Newton
     sr: Исак Њутн
-    sr-ec: Исак Њутн
-    sr-el: Isak Njutn
+    sr_ec: Исак Њутн
+    sr_el: Isak Njutn
     stq: Isaac Newton
     su: Sir Isaac Newton
     sv: Isaac Newton
@@ -487,7 +487,7 @@ dv_has_:
     tok: jan Isa Nuton
     tr: Isaac Newton
     tt: Исаак Ньютон
-    tt-cyrl: Исаак Ньютон
+    tt_cyrl: Исаак Ньютон
     tw: Isaac Newton
     tyv: Ньютон
     ug: ئىسساك نيوتۇن
@@ -511,10 +511,10 @@ dv_has_:
     zea: Sir Isaac Newton
     zgh: ⵙⵃⴰⵇ ⵏⵢⵓⵟⵏ
     zh: 艾薩克·牛頓
-    zh-cn: 艾萨克·牛顿
-    zh-hans: 艾萨克·牛顿
-    zh-hk: 艾碩·牛頓
-    zh-tw: 艾薩克·牛頓
+    zh_cn: 艾萨克·牛顿
+    zh_hans: 艾萨克·牛顿
+    zh_hk: 艾碩·牛頓
+    zh_tw: 艾薩克·牛頓
 ---
 # [[Newton,Isaac]] 
 

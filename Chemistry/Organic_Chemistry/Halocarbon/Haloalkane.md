@@ -74,7 +74,7 @@ dv_has_:
     ar: هيدروكربونات هالوجينية
     ast: Haloalcano
     bar: Fluorkoinwossastoffe
-    be-tarask: галягенаалькан
+    be_tarask: галягенаалькан
     bg: Халоалкан
     ca: haloalcà
     cs: halogenalkan
@@ -110,7 +110,7 @@ dv_has_:
     pl: halogenki alkilowe
     pnb: ہیلوالکین
     pt: halogenetos de alquilo
-    pt-br: haloalcano
+    pt_br: haloalcano
     ro: Compuși halogenați
     ru: галогеноалканы
     sh: Haloalkan
@@ -126,12 +126,12 @@ dv_has_:
     war: Haloalkane
     yue: 鹵烷
     zh: 卤代烷烃
-    zh-cn: 卤代烷烃
-    zh-hans: 卤代烷烃
-    zh-hant: 鹵代烷烴
-    zh-hk: 鹵代烷烴
-    zh-sg: 卤代烷烃
-    zh-tw: 鹵代烷烴
+    zh_cn: 卤代烷烃
+    zh_hans: 卤代烷烃
+    zh_hant: 鹵代烷烴
+    zh_hk: 鹵代烷烴
+    zh_sg: 卤代烷烃
+    zh_tw: 鹵代烷烴
 ---
 # [[Haloalkane]] 
 

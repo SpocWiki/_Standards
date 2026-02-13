@@ -200,7 +200,7 @@ Wolfram_Language_entity_code:
 OpenStreetMap_tag_or_key: Tag:colour=blue
 dv_has_:
   name_:
-    aeb-arab: أزرق
+    aeb_arab: أزرق
     af: blou
     am: ሰማያዊ
     an: azul
@@ -222,7 +222,7 @@ dv_has_:
     bar: Blau
     bcl: Asul
     be: сіні колер
-    be-tarask: сіні
+    be_tarask: сіні
     bg: синьо
     bn: নীল
     bo: སྔོན་པོ།
@@ -241,12 +241,12 @@ dv_has_:
     da: blå
     dag: nuɣiso
     de: Blau
-    de-ch: Blau
+    de_ch: Blau
     dty: निलो
     el: μπλε
     en: blue
-    en-ca: blue
-    en-gb: blue
+    en_ca: blue
+    en_gb: blue
     en-us: blue
     eo: bluo
     es: azul
@@ -309,14 +309,14 @@ dv_has_:
     lv: zils
     lzh: 藍
     mag: नील
-    map-bms: biru
+    map_bms: biru
     mdf: сенем
     mk: сина
     ml: നീല
     mnc: ᠯᠠᠮᡠᠨ
     mr: निळा
     ms: biru
-    ms-arab: بيرو
+    ms_arab: بيرو
     mt: ikħal
     my: အပြာရောင်
     myv: сэнь
@@ -345,7 +345,7 @@ dv_has_:
     pnb: نیلا
     ps: شين
     pt: azul
-    pt-br: azul
+    pt_br: azul
     qu: anqas
     ro: albastru
     ru: синий
@@ -372,8 +372,8 @@ dv_has_:
     so: baluug
     sq: ngjyra vjollcë e kaltër
     sr: плава
-    sr-ec: плава
-    sr-el: plava
+    sr_ec: плава
+    sr_el: plava
     stq: Blau
     su: paul
     sv: blå
@@ -388,7 +388,7 @@ dv_has_:
     tr: mavi
     ts: wasi
     tt: зәңгәр
-    tt-cyrl: зәңгәр
+    tt_cyrl: зәңгәр
     ty: nīnamu
     udm: лыз
     ug: كۆك رەڭ
@@ -410,14 +410,14 @@ dv_has_:
     yue: 藍
     za: saeklamz
     zh: 藍色
-    zh-cn: 蓝色
-    zh-hans: 蓝色
-    zh-hant: 藍色
-    zh-hk: 藍色
-    zh-mo: 藍色
+    zh_cn: 蓝色
+    zh_hans: 蓝色
+    zh_hant: 藍色
+    zh_hk: 藍色
+    zh_mo: 藍色
     zh-my: 蓝色
-    zh-sg: 蓝色
-    zh-tw: 藍色
+    zh_sg: 蓝色
+    zh_tw: 藍色
     zu: okulundwa
 ---
 # [[Blue]] 

@@ -203,7 +203,7 @@ dv_has_:
     ba: Артур Конан Дойл
     bcl: Arthur Conan Doyle
     be: Артур Конан Дойл
-    be-tarask: Артур Конан Дойл
+    be_tarask: Артур Конан Дойл
     bg: Артър Конан Дойл
     bn: আর্থার কোনান ডয়েল
     br: Arthur Conan Doyle
@@ -217,12 +217,12 @@ dv_has_:
     da: Arthur Conan Doyle
     de: Arthur Conan Doyle
     de-at: Arthur Conan Doyle
-    de-ch: Arthur Conan Doyle
+    de_ch: Arthur Conan Doyle
     diq: Arthur Conan Doyle
     el: Άρθουρ Κόναν Ντόιλ
     en: Arthur Conan Doyle
-    en-ca: Arthur Conan Doyle
-    en-gb: Arthur Conan Doyle
+    en_ca: Arthur Conan Doyle
+    en_gb: Arthur Conan Doyle
     eo: Arthur Conan Doyle
     es: Arthur Conan Doyle
     et: Arthur Conan Doyle
@@ -286,7 +286,7 @@ dv_has_:
     pnb: آرتھر کونن ڈویل
     ps: ارتر کانن ډويل
     pt: Arthur Conan Doyle
-    pt-br: Arthur Conan Doyle
+    pt_br: Arthur Conan Doyle
     qu: Arthur Conan Doyle
     rm: Arthur Conan Doyle
     ro: Arthur Conan Doyle
@@ -309,7 +309,7 @@ dv_has_:
     tl: Arthur Conan Doyle
     tr: Arthur Conan Doyle
     tt: Артур Конан Дойл
-    tt-cyrl: Артур Конан Дойл
+    tt_cyrl: Артур Конан Дойл
     uk: Артур Конан Дойл
     ur: آرتھر کانن ڈائل
     uz: Arthur Conan Doyle
@@ -321,9 +321,9 @@ dv_has_:
     yi: ארטור קאנאן דויל
     yue: 柯南道爾
     zh: 阿瑟·柯南·道尔
-    zh-hans: 阿瑟·柯南·道尔
-    zh-hant: 柯南·道爾
-    zh-tw: 亞瑟·柯南·道爾
+    zh_hans: 阿瑟·柯南·道尔
+    zh_hant: 柯南·道爾
+    zh_tw: 亞瑟·柯南·道爾
 ---
 # [[Doyle,Arthur_Conan]] 
 

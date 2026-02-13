@@ -169,7 +169,7 @@ dv_has_:
     ba: Йозеф Гайдн
     bar: Joseph Haydn
     be: Франц Іозеф Гайдн
-    be-tarask: Ёзэф Гайдн
+    be_tarask: Ёзэф Гайдн
     bg: Йозеф Хайдн
     bi: Joseph Haydn
     bn: ইওসেফ হাইডেন
@@ -183,18 +183,18 @@ dv_has_:
     ckb: یۆسێف ھایدن
     co: Joseph Haydn
     crh: Yozef Haydn
-    crh-cyrl: Йозеф Хайдн
+    crh_cyrl: Йозеф Хайдн
     cs: Joseph Haydn
     cy: Josef Haydn
     da: Joseph Haydn
     de: Joseph Haydn
-    de-ch: Joseph Haydn
+    de_ch: Joseph Haydn
     diq: Joseph Haydn
     ee: Joseph Haydn
     el: Γιόζεφ Χάιντν
     en: Joseph Haydn
-    en-ca: Joseph Haydn
-    en-gb: Joseph Haydn
+    en_ca: Joseph Haydn
+    en_gb: Joseph Haydn
     eo: Joseph Haydn
     es: Joseph Haydn
     et: Joseph Haydn
@@ -229,7 +229,7 @@ dv_has_:
     ka: იოზეფ ჰაიდნი
     kab: Joseph Haydn
     kk: Йозеф Гайдн
-    kk-cyrl: Йозеф Гайдн
+    kk_cyrl: Йозеф Гайдн
     ko: 요제프 하이든
     kw: Joseph Haydn
     ky: Гайдн
@@ -265,7 +265,7 @@ dv_has_:
     pnb: جوزف ہائیڈن
     ps: فرانز جوزیف هایدن
     pt: Joseph Haydn
-    pt-br: Joseph Haydn
+    pt_br: Joseph Haydn
     qu: Joseph Haydn
     rm: Joseph Haydn
     ro: Joseph Haydn
@@ -300,8 +300,8 @@ dv_has_:
     yi: יאזעף היידן
     yue: 海頓
     zh: 约瑟夫·海顿
-    zh-hans: 约瑟夫·海顿
-    zh-hant: 約瑟夫·海頓
+    zh_hans: 约瑟夫·海顿
+    zh_hant: 約瑟夫·海頓
 ---
 # [[Haydn,Joseph]] 
 

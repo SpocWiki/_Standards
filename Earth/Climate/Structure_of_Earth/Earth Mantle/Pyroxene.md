@@ -83,7 +83,7 @@ dv_has_:
     ast: Piroxeno
     az: Piroksenlər
     be: піраксены
-    be-tarask: піраксэн
+    be_tarask: піраксэн
     ca: piroxè
     cs: pyroxeny
     cy: Pyrocsen
@@ -127,8 +127,8 @@ dv_has_:
     sl: piroksenska skupina
     sms: pyrokseeʹn
     sr: пироксени
-    sr-ec: пироксени
-    sr-el: Pirokseni
+    sr_ec: пироксени
+    sr_el: Pirokseni
     sv: Pyroxen
     tr: Piroksen
     uk: піроксени
@@ -137,12 +137,12 @@ dv_has_:
     wuu: 辉石
     yue: 輝石
     zh: 辉石
-    zh-cn: 辉石
-    zh-hans: 辉石
-    zh-hant: 輝石
-    zh-hk: 輝石
-    zh-sg: 辉石
-    zh-tw: 輝石
+    zh_cn: 辉石
+    zh_hans: 辉石
+    zh_hant: 輝石
+    zh_hk: 輝石
+    zh_sg: 辉石
+    zh_tw: 輝石
 ---
 # [[Pyroxene]] 
 

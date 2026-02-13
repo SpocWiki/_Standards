@@ -75,16 +75,16 @@ dv_has_:
   name_:
     ar: جهاز سمعي
     ast: Sistema auditivu
-    be-tarask: слыхавая сыстэма
+    be_tarask: слыхавая сыстэма
     bn: শ্রবণেন্দ্রিয়
     ca: sistema auditiu
     cy: system glywedol
     de: Hörorgan
-    de-ch: Hörbahn
+    de_ch: Hörbahn
     el: ακουστικό σύστημα
     en: auditory system
-    en-ca: Auditory system
-    en-gb: Auditory system
+    en_ca: Auditory system
+    en_gb: Auditory system
     eo: aŭda sistemo
     es: sistema auditivo
     eu: Entzumen-sistema
@@ -106,7 +106,7 @@ dv_has_:
     pam: Auditory system
     pl: Układ słuchowy
     pt: sistema auditivo
-    pt-br: sistema auditivo
+    pt_br: sistema auditivo
     ro: Sistem auditiv
     ru: слуховая сенсорная система
     sh: Auditorni sistem
@@ -122,8 +122,8 @@ dv_has_:
     vi: hệ thống thính giác
     yue: 聽覺系統
     zh: 聽覺系統
-    zh-hans: 听觉系统
-    zh-hk: 聽覺系統
+    zh_hans: 听觉系统
+    zh_hk: 聽覺系統
 ---
 # [[Auditory_system]] 
 

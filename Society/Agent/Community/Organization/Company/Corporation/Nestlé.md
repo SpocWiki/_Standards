@@ -158,7 +158,7 @@ dv_has_:
     bar: Nestlé
     bcl: Nestlé
     be: Nestlé
-    be-tarask: Nestlé
+    be_tarask: Nestlé
     bew: Néslé
     bg: Нестле
     bn: নেসলে
@@ -170,11 +170,11 @@ dv_has_:
     cv: Nestle
     da: Nestlé
     de: Nestlé
-    de-ch: Nestlé
+    de_ch: Nestlé
     el: Νεστλέ
     en: Nestlé
-    en-ca: Nestlé
-    en-gb: Nestlé
+    en_ca: Nestlé
+    en_gb: Nestlé
     en-us: Nestlé
     eo: Nestlé
     es: Nestlé
@@ -200,11 +200,11 @@ dv_has_:
     jv: Nestle
     ka: Nestlé
     kk: Nestlé
-    kk-arab: Nestlé
+    kk_arab: Nestlé
     kk-cn: Nestlé
-    kk-cyrl: Нестлэ
+    kk_cyrl: Нестлэ
     kk-kz: Нестлэ
-    kk-latn: Nestlé
+    kk_latn: Nestlé
     kk-tr: Nestlé
     kn: ನೆಸ್ಲೆ
     ko: 네슬레
@@ -225,7 +225,7 @@ dv_has_:
     pl: Nestlé
     pnb: نیسلے
     pt: Nestlé
-    pt-br: Nestlé
+    pt_br: Nestlé
     ro: Nestlé
     ru: Nestlé
     sah: Nestlé
@@ -252,12 +252,12 @@ dv_has_:
     yo: Nestlé
     yue: 雀巢
     zh: 雀巢
-    zh-cn: 雀巢
-    zh-hans: 雀巢
-    zh-hant: 雀巢
-    zh-hk: 雀巢
-    zh-sg: 雀巢
-    zh-tw: 雀巢
+    zh_cn: 雀巢
+    zh_hans: 雀巢
+    zh_hant: 雀巢
+    zh_hk: 雀巢
+    zh_sg: 雀巢
+    zh_tw: 雀巢
 ---
 # [[Nestlé]] 
 

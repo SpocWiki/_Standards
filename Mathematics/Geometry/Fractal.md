@@ -75,7 +75,7 @@ dv_has_:
     az: Fraktal
     ba: Фрактал
     be: Фрактал
-    be-tarask: фрактал
+    be_tarask: фрактал
     bg: Фрактал
     bn: ফ্রাক্টাল
     bs: Fraktal
@@ -131,7 +131,7 @@ dv_has_:
     pa: ਫ੍ਰੈਕਟਲ
     pl: fraktal
     pt: fractal
-    pt-br: fractal
+    pt_br: fractal
     ro: fractal
     ru: фрактал
     sah: Фрактал

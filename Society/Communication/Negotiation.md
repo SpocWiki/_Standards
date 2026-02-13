@@ -89,18 +89,18 @@ dv_has_:
     ar: تفاوض
     az: Danışıqlar
     be: перамовы
-    be-tarask: перамовы
+    be_tarask: перамовы
     ca: negociació
     ckb: دانوستان
     cs: vyjednávání
     cy: trafodaeth
     da: forhandling
     de: Verhandlung
-    de-ch: Verhandlung
+    de_ch: Verhandlung
     el: διαπραγμάτευση
     en: negotiation
-    en-ca: Negotiation
-    en-gb: negotiation
+    en_ca: Negotiation
+    en_gb: negotiation
     eo: traktado
     es: negociación
     et: Läbirääkimised
@@ -130,13 +130,13 @@ dv_has_:
     ml: negotiation
     mn: Хэлэлцээ
     ms: perundingan
-    ms-arab: ڤرونديڠن
+    ms_arab: ڤرونديڠن
     nb: forhandling
     nl: onderhandeling
     nn: forhandling
     pl: negocjacje
     pt: negociação
-    pt-br: Negociação
+    pt_br: Negociação
     ro: negociere
     ru: переговоры
     sh: Diplomatsko pregovaranje
@@ -144,8 +144,8 @@ dv_has_:
     sl: pogajanje
     sq: Negocimi
     sr: преговарање
-    sr-ec: Преговарање
-    sr-el: Pregovaranje
+    sr_ec: Преговарање
+    sr_el: Pregovaranje
     sv: förhandling
     ta: பேரப் பேச்சு
     te: సంధి చేయుట
@@ -155,12 +155,12 @@ dv_has_:
     vi: Đàm phán
     yue: 談判
     zh: 谈判
-    zh-cn: 谈判
-    zh-hans: 谈判
-    zh-hant: 談判
-    zh-hk: 談判
-    zh-sg: 谈判
-    zh-tw: 談判
+    zh_cn: 谈判
+    zh_hans: 谈判
+    zh_hant: 談判
+    zh_hk: 談判
+    zh_sg: 谈判
+    zh_tw: 談判
     zu: Ukucebezisana
 ---
 # [[Negotiation]] 

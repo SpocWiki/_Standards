@@ -9,7 +9,7 @@ dv_has_:
     ast: Amaryllidaceae
     az: Amarilliskimilər
     be: Амарылісавыя
-    be-tarask: амарылісавыя
+    be_tarask: амарылісавыя
     bg: кокичеви
     bs: Amaryllidaceae
     ca: amaril·lidàcies
@@ -46,11 +46,11 @@ dv_has_:
     ja: ヒガンバナ科
     ka: ამარილისისებრნი
     kk: Амариллистер тұқымдасы
-    kk-arab: امارىيللىيستەر تۇقىمداسى
+    kk_arab: امارىيللىيستەر تۇقىمداسى
     kk-cn: امارىيللىيستەر تۇقىمداسى
-    kk-cyrl: Амариллистер тұқымдасы
+    kk_cyrl: Амариллистер тұқымдасы
     kk-kz: Амариллистер тұқымдасы
-    kk-latn: Amarïllïster tuqımdası
+    kk_latn: Amarïllïster tuqımdası
     kk-tr: Amarïllïster tuqımdası
     kn: ಅಗೇವಿ
     ko: 수선화과
@@ -69,7 +69,7 @@ dv_has_:
     pl: amarylkowate
     pnb: نرگس ٹبر
     pt: Amaryllidaceae
-    pt-br: Amaryllidaceae
+    pt_br: Amaryllidaceae
     qu: Hamanq'ay yura rikch'aq ayllu
     ro: Amaryllidaceae
     ru: амариллисовые
@@ -91,12 +91,12 @@ dv_has_:
     wuu: 石蒜科
     yue: 石蒜科
     zh: 石蒜科
-    zh-cn: 石蒜科
-    zh-hans: 石蒜科
-    zh-hant: 石蒜科
-    zh-hk: 石蒜科
-    zh-sg: 石蒜科
-    zh-tw: 石蒜科
+    zh_cn: 石蒜科
+    zh_hans: 石蒜科
+    zh_hant: 石蒜科
+    zh_hk: 石蒜科
+    zh_sg: 石蒜科
+    zh_tw: 石蒜科
 aliases:
 - Amarilidacoj
 - amarilidáceas

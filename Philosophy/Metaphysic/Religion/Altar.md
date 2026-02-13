@@ -100,7 +100,7 @@ dv_has_:
     ast: altar
     az: Qurbangah
     be: алтар
-    be-tarask: Алтар
+    be_tarask: Алтар
     bg: Олтар
     br: Aoter
     bs: Oltar
@@ -137,11 +137,11 @@ dv_has_:
     ja: 祭壇
     ka: საკურთხეველი
     kk: Алтарь
-    kk-arab: التار
+    kk_arab: التار
     kk-cn: التار
-    kk-cyrl: Алтарь
+    kk_cyrl: Алтарь
     kk-kz: Алтарь
-    kk-latn: Altarʹ
+    kk_latn: Altarʹ
     kk-tr: Altarʹ
     km: អាសនា
     ko: 제단
@@ -177,8 +177,8 @@ dv_has_:
     smn: alttar
     sms: alttâr
     sr: олтар
-    sr-ec: олтар
-    sr-el: oltar
+    sr_ec: олтар
+    sr_el: oltar
     sv: altare
     sw: Altare
     ta: பலிபீடம்
@@ -195,12 +195,12 @@ dv_has_:
     yi: מזבח
     yue: 祭壇
     zh: 祭壇
-    zh-cn: 祭坛
-    zh-hans: 祭坛
-    zh-hant: 祭壇
-    zh-hk: 祭壇
-    zh-sg: 祭坛
-    zh-tw: 祭壇
+    zh_cn: 祭坛
+    zh_hans: 祭坛
+    zh_hant: 祭壇
+    zh_hk: 祭壇
+    zh_sg: 祭坛
+    zh_tw: 祭壇
 ---
 # [[Altar]] 
 

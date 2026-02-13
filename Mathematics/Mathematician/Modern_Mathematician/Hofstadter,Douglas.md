@@ -34,7 +34,7 @@ dv_has_:
     pap: Douglas Hofstadter
     pl: Douglas Hofstadtesr
     pt: Douglas Hofstadter
-    pt-br: Douglas Hofstadter
+    pt_br: Douglas Hofstadter
     ro: Douglas Hofstadter
     ru: Дуглас Хофштадтер
     sl: Douglas R. Hofstadter
@@ -43,12 +43,12 @@ dv_has_:
     tr: Douglas Hofstadter
     uk: Дуглас Гофстедтер
     zh: 侯世達
-    zh-cn: 侯世达
-    zh-hans: 侯世达
-    zh-hant: 侯世達
-    zh-hk: 侯世達
-    zh-sg: 侯世达
-    zh-tw: 侯世達
+    zh_cn: 侯世达
+    zh_hans: 侯世达
+    zh_hant: 侯世達
+    zh_hk: 侯世達
+    zh_sg: 侯世达
+    zh_tw: 侯世達
 aliases:
 - Douglas Hofstadter
 - Douglas Hofstadtesr

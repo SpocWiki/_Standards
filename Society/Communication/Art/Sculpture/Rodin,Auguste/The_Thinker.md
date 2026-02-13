@@ -103,7 +103,7 @@ dv_has_:
     ast: El pensador
     az: Düşünən Adam
     be: Мысліцель, скульптура
-    be-tarask: Мысьляр
+    be_tarask: Мысьляр
     bg: Мислителят
     bs: Mislilac
     ca: El pensador
@@ -113,8 +113,8 @@ dv_has_:
     de: Der Denker
     el: Ο σκεπτόμενος
     en: The Thinker
-    en-ca: The Thinker
-    en-gb: The Thinker
+    en_ca: The Thinker
+    en_gb: The Thinker
     eo: La Pensanto
     es: El pensador
     eu: Pentsalaria
@@ -141,7 +141,7 @@ dv_has_:
     nl: De Denker
     pl: Myśliciel
     pt: O pensador
-    pt-br: O pensador
+    pt_br: O pensador
     ro: Gânditorul
     ru: Мыслитель
     sl: Mislec

@@ -131,7 +131,7 @@ dv_has_:
     bbc: Morsoba
     bcl: Taurus (konstelasyon)
     be: Цялец
-    be-tarask: Цялец
+    be_tarask: Цялец
     bg: Бик
     bn: বৃষ
     br: Tarv
@@ -146,8 +146,8 @@ dv_has_:
     diq: Ga
     el: Ταύρος
     en: Taurus
-    en-ca: Taurus
-    en-gb: Taurus
+    en_ca: Taurus
+    en_gb: Taurus
     eo: Taŭro
     es: Tauro
     et: Sõnn
@@ -206,7 +206,7 @@ dv_has_:
     pcd: Toér
     pl: gwiazdozbiór Byka
     pt: Taurus
-    pt-br: Taurus
+    pt_br: Taurus
     ro: Taurul
     ru: Телец
     sah: Оҕус

@@ -141,7 +141,7 @@ dv_has_:
     az: Protaktinium
     ban: Protaktinium
     be: Пратактыній
-    be-tarask: Пратактын
+    be_tarask: Пратактын
     bg: протактиний
     bho: प्रोटैक्टिनियम
     bn: প্রোটেক্টিনিয়াম
@@ -160,7 +160,7 @@ dv_has_:
     de: Protactinium
     el: πρωτακτίνιο
     en: protactinium
-    en-gb: protactinium
+    en_gb: protactinium
     eo: protaktinio
     es: protactinio
     et: protaktiinium
@@ -233,7 +233,7 @@ dv_has_:
     pnb: پروٹیکٹینیم
     ps: پروټېکټېنيوم
     pt: protactínio
-    pt-br: protactínio
+    pt_br: protactínio
     qu: Protaktinyu
     ro: protactiniu
     ru: протактиний
@@ -249,7 +249,7 @@ dv_has_:
     sl: protaktinij
     sq: Protaktini
     sr: протактинијум
-    sr-ec: Протактинијум
+    sr_ec: Протактинијум
     stq: Protaktinium
     sv: protaktinium
     sw: Protaktini
@@ -273,14 +273,14 @@ dv_has_:
     yo: Protaktiníọ̀m
     yue: 鏷
     zh: 镤
-    zh-cn: 镤
-    zh-hans: 镤
-    zh-hant: 鏷
-    zh-hk: 鏷
-    zh-mo: 鏷
+    zh_cn: 镤
+    zh_hans: 镤
+    zh_hant: 鏷
+    zh_hk: 鏷
+    zh_mo: 鏷
     zh-my: 镤
-    zh-sg: 镤
-    zh-tw: 鏷
+    zh_sg: 镤
+    zh_tw: 鏷
     zu: UmPhacagu
   number_of_:
     period: 7

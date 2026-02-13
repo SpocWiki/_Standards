@@ -144,7 +144,7 @@ dv_has_:
     azb: نوترون
     bcl: neutron
     be: нейтрон
-    be-tarask: нэўтрон
+    be_tarask: нэўтрон
     bg: неутрон
     bn: নিউট্রন
     br: neutron
@@ -159,11 +159,11 @@ dv_has_:
     cy: niwtron
     da: neutron
     de: Neutron
-    de-ch: Neutron
+    de_ch: Neutron
     el: νετρόνιο
     en: neutron
-    en-ca: neutron
-    en-gb: neutron
+    en_ca: neutron
+    en_gb: neutron
     eo: neŭtrono
     es: neutrón
     et: neutron
@@ -223,7 +223,7 @@ dv_has_:
     mn: нейтрон
     mr: न्यूट्रॉन
     ms: neutron
-    ms-arab: نيوترون
+    ms_arab: نيوترون
     my: နျူထရွန်
     nan: Tiong-chú
     nb: nøytron
@@ -241,7 +241,7 @@ dv_has_:
     pnb: نیوٹران
     ps: نيوټرون
     pt: neutrão
-    pt-br: nêutron
+    pt_br: nêutron
     qu: niwtrun
     ro: neutron
     ru: нейтрон
@@ -261,8 +261,8 @@ dv_has_:
     so: niyutaroon
     sq: neutroni
     sr: неутрон
-    sr-ec: неутрон
-    sr-el: neutron
+    sr_ec: неутрон
+    sr_el: neutron
     stq: Neutron
     su: neutron
     sv: neutron
@@ -273,7 +273,7 @@ dv_has_:
     tl: neutron
     tr: nötron
     tt: нейтрон
-    tt-cyrl: нейтрон
+    tt_cyrl: нейтрон
     uk: нейтрон
     ur: تعدیلہ
     uz: neytron
@@ -288,14 +288,14 @@ dv_has_:
     yi: נייטראן
     yue: 中子
     zh: 中子
-    zh-cn: 中子
-    zh-hans: 中子
-    zh-hant: 中子
-    zh-hk: 中子
-    zh-mo: 中子
+    zh_cn: 中子
+    zh_hans: 中子
+    zh_hant: 中子
+    zh_hk: 中子
+    zh_mo: 中子
     zh-my: 中子
-    zh-sg: 中子
-    zh-tw: 中子
+    zh_sg: 中子
+    zh_tw: 中子
     zu: intunge
 ---
 # [[Neutron]] 

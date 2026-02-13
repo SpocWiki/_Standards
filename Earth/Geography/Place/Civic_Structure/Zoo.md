@@ -160,7 +160,7 @@ dv_has_:
     az: Zoologiya parkı
     ba: Зоопарк
     be: Заалагічны парк
-    be-tarask: заапарк
+    be_tarask: заапарк
     bew: Drèntin
     bg: Зоопарк
     bjn: Kabun binatang
@@ -177,7 +177,7 @@ dv_has_:
     de: Zoo
     el: ζωολογικός κήπος
     en: zoo
-    en-gb: zoo
+    en_gb: zoo
     eo: bestoĝardeno
     es: zoológico
     et: loomaaed
@@ -214,12 +214,12 @@ dv_has_:
     lt: Zoologijos sodas
     lv: zooloģiskais dārzs
     lzh: 動物園
-    map-bms: Kebon Kewan
+    map_bms: Kebon Kewan
     mk: зоолошка градина
     ml: മൃഗശാല
     mn: Амьтны хүрээлэн
     ms: zoo
-    ms-arab: زو
+    ms_arab: زو
     my: တိရိစ္ဆာန်ဥယျာဉ်
     nan: Tōng-bu̍t-hn̂g
     nb: dyrehage
@@ -251,7 +251,7 @@ dv_has_:
     smn: elleikärdi
     sq: Kopshti zoologjik
     sr: зоолошки врт
-    sr-ec: зоолошки врт
+    sr_ec: зоолошки врт
     sv: djurpark
     sw: Bustani ya wanyama
     ta: விலங்குக் காட்சிச்சாலை
@@ -272,14 +272,14 @@ dv_has_:
     yi: זאא-גארטן
     yue: 動物園
     zh: 動物園
-    zh-cn: 动物园
-    zh-hans: 动物园
-    zh-hant: 動物園
-    zh-hk: 動物園
-    zh-mo: 動物園
+    zh_cn: 动物园
+    zh_hans: 动物园
+    zh_hant: 動物園
+    zh_hk: 動物園
+    zh_mo: 動物園
     zh-my: 动物园
-    zh-sg: 动物园
-    zh-tw: 動物園
+    zh_sg: 动物园
+    zh_tw: 動物園
   parent_class: '[[../CivicStructure]]'
   properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'
 dv_is_:

@@ -68,18 +68,18 @@ dv_has_:
     ar: تسويق هرمي
     az: Maliyyə piramidası
     be: фінансавая піраміда
-    be-tarask: фінансавая піраміда
+    be_tarask: фінансавая піраміда
     bg: Финансова пирамида
     bn: পনজি স্কিম
     ca: Cèl·lules de l'abundància
     cs: pyramidové schéma
     da: pyramideforetagende
     de: Schneeballsystem
-    de-ch: Schneeballsystem
+    de_ch: Schneeballsystem
     el: Επιχειρηματικό σχήμα πυραμίδας
     en: pyramid scheme
-    en-ca: pyramid scheme
-    en-gb: pyramid scheme
+    en_ca: pyramid scheme
+    en_gb: pyramid scheme
     eo: financa piramido
     es: esquema de pirámide
     et: Püramiidskeem
@@ -104,7 +104,7 @@ dv_has_:
     nn: pyramidespel
     pl: sprzedaż lawinowa
     pt: esquema em pirâmide
-    pt-br: Esquema em pirâmide
+    pt_br: Esquema em pirâmide
     ro: Schema piramidală
     ru: пирамидальная схема
     sh: Financijska piramida
@@ -118,12 +118,12 @@ dv_has_:
     uz: Piramida sxemasi
     yue: 層壓式推銷
     zh: 層壓式推銷
-    zh-cn: 层压式推销
-    zh-hans: 层压式推销
-    zh-hant: 層壓式推銷
-    zh-hk: 層壓式推銷
-    zh-sg: 层压式推销
-    zh-tw: 層壓式推銷
+    zh_cn: 层压式推销
+    zh_hans: 层压式推销
+    zh_hant: 層壓式推銷
+    zh_hk: 層壓式推銷
+    zh_sg: 层压式推销
+    zh_tw: 層壓式推銷
 ---
 # [[Pyramid_Scheme]] 
 

@@ -175,7 +175,7 @@ dv_has_:
     bar: Burj Khalifa
     bcl: Burj Khalifa
     be: Бурдж-Халіфа
-    be-tarask: Бурдж Халіфа
+    be_tarask: Бурдж Халіфа
     bg: Бурдж Халифа
     bho: बुर्ज खलीफा
     bn: বুর্জ খ়লিফ়া
@@ -190,11 +190,11 @@ dv_has_:
     da: Burj Khalifa
     de: Burj Khalifa
     de-at: Burj Khalifa
-    de-ch: Burj Khalifa
+    de_ch: Burj Khalifa
     el: Μπουρτζ Χαλίφα
     en: Burj Khalifa
-    en-ca: Burj Khalifa
-    en-gb: Burj Khalifa
+    en_ca: Burj Khalifa
+    en_gb: Burj Khalifa
     eo: Burĝ Ĥalifa
     es: Burj Khalifa
     et: Burj Khalīfah
@@ -241,7 +241,7 @@ dv_has_:
     ko: 부르즈 할리파
     ks: بُرٛج خلیفہ
     ku: Birca Xelîfe
-    ku-latn: Birca Xalîfe
+    ku_latn: Birca Xalîfe
     kw: Burj Khalifa
     ky: Бурж Халифа
     la: Turris Khalifa
@@ -268,7 +268,7 @@ dv_has_:
     nap: Burj Khalifa
     nb: Burj Khalifa
     nds: Burj Khalifa
-    nds-nl: Burj Khalifa
+    nds_nl: Burj Khalifa
     ne: बुर्ज खलिफा
     nl: Burj Khalifa
     nn: Burj Khalifa
@@ -283,7 +283,7 @@ dv_has_:
     pnb: برج خلیفہ
     ps: برج خلیفه
     pt: Burj Khalifa
-    pt-br: Burj Khalifa
+    pt_br: Burj Khalifa
     rm: Burj Khalifa
     ro: Burj Khalifa
     roa-tara: Burj Khalifa
@@ -302,7 +302,7 @@ dv_has_:
     so: Burj Khalifa
     sq: Burj Khalifa
     sr: Burdž Kalifa
-    sr-el: Burj Khalifa
+    sr_el: Burj Khalifa
     sv: Burj Khalifa
     sw: Burj Khalifa
     syl: ꠛꠥꠞ꠆ꠎ ꠈꠟꠤꠚꠣ
@@ -331,11 +331,11 @@ dv_has_:
     yi: בורדזש כאליפא
     yue: 哈利法塔
     zh: 哈利法塔
-    zh-cn: 哈利法塔
-    zh-hans: 哈利法塔
-    zh-hant: 哈里發塔
-    zh-hk: 哈里發塔
-    zh-tw: 哈里發塔
+    zh_cn: 哈利法塔
+    zh_hans: 哈利法塔
+    zh_hant: 哈里發塔
+    zh_hk: 哈里發塔
+    zh_tw: 哈里發塔
     zu: Burj Khalifa
 ---
 # [[Burj_Khalifa]] 

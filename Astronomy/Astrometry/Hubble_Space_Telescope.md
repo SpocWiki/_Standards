@@ -221,7 +221,7 @@ dv_has_:
     ba: Хаббл (телескоп)
     ban: Téléskop Antariksa Hubble
     be: касмічны тэлескоп «Хабл»
-    be-tarask: Габл
+    be_tarask: Габл
     bg: Хъбъл
     bho: हबल अंतरिक्ष दूरबीन
     bn: হাবল মহাকাশ দূরবীক্ষণ যন্ত্র
@@ -235,8 +235,8 @@ dv_has_:
     de: Hubble-Weltraumteleskop
     el: Διαστημικό τηλεσκόπιο Χαμπλ
     en: Hubble Space Telescope
-    en-ca: Hubble Space Telescope
-    en-gb: Hubble Space Telescope
+    en_ca: Hubble Space Telescope
+    en_gb: Hubble Space Telescope
     eo: Kosmoteleskopo Hubble
     es: telescopio espacial Hubble
     et: Hubble'i kosmoseteleskoop
@@ -292,7 +292,7 @@ dv_has_:
     pnb: ہبل
     ps: هبل تشیال لروین
     pt: telescópio espacial Hubble
-    pt-br: Telescópio espacial Hubble
+    pt_br: Telescópio espacial Hubble
     ro: telescopul spațial Hubble
     ru: Хаббл
     scn: Telescopiu Spazziali Hubble
@@ -304,15 +304,15 @@ dv_has_:
     sl: vesoljski teleskop Hubble
     sq: Teleskopi Hapësinor Hubble
     sr: Хабл
-    sr-ec: Хабл
-    sr-el: Habl
+    sr_ec: Хабл
+    sr_el: Habl
     stq: Hubble Waareldruumte-Teleskoop
     sv: Rymdteleskopet Hubble
     sw: Hubble (darubini)
     ta: ஹபிள் விண்வெளித் தொலைநோக்கி
     te: హబుల్ టెలీస్కోపు
     tg: телескопи Ҳаббл
-    tg-latn: teleskopi Hubble
+    tg_latn: teleskopi Hubble
     th: กล้องโทรทรรศน์อวกาศฮับเบิล
     tl: Teleskopyong Pangkalawakang Hubble
     tr: Hubble Uzay Teleskobu
@@ -327,11 +327,11 @@ dv_has_:
     yo: Tẹ́lískópù Òfurufú Hubble
     yue: 哈勃太空望遠鏡
     zh: 哈勃空间望远镜
-    zh-cn: 哈勃空间望远镜
-    zh-hans: 哈勃空间望远镜
-    zh-hant: 哈勃太空望遠鏡
-    zh-hk: 哈勃太空望遠鏡
-    zh-tw: 哈伯太空望遠鏡
+    zh_cn: 哈勃空间望远镜
+    zh_hans: 哈勃空间望远镜
+    zh_hant: 哈勃太空望遠鏡
+    zh_hk: 哈勃太空望遠鏡
+    zh_tw: 哈伯太空望遠鏡
 ---
 # [[Hubble_Space_Telescope]] 
 

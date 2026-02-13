@@ -238,7 +238,7 @@ dv_has_:
     bar: Carl Friedrich Gauß
     bcl: Carl Friedrich Gauss
     be: Карл Фрыдрых Гаус
-    be-tarask: Карл Фрыдрых Гаўс
+    be_tarask: Карл Фрыдрых Гаўс
     bg: Карл Фридрих Гаус
     bho: कार्ल फ्रेडरिक गॉस
     bi: Carl Friedrich Gauss
@@ -258,13 +258,13 @@ dv_has_:
     da: Carl Friedrich Gauss
     de: Carl Friedrich Gauß
     de-at: Carl Friedrich Gauß
-    de-ch: Carl Friedrich Gauss
+    de_ch: Carl Friedrich Gauss
     diq: Carl Friedrich Gauss
     dv: ކާލް ފްރީދްރީޝް ގައުސް
     el: Καρλ Φρίντριχ Γκάους
     en: Carl Friedrich Gauss
-    en-ca: Carl Friedrich Gauss
-    en-gb: Carl Friedrich Gauss
+    en_ca: Carl Friedrich Gauss
+    en_gb: Carl Friedrich Gauss
     eo: Carl Friedrich Gauss
     es: Carl Friedrich Gauss
     et: Carl Friedrich Gauss
@@ -347,7 +347,7 @@ dv_has_:
     pnb: کارل فریڈریس گاس
     ps: کارل فریدریش ګاوس
     pt: Carl Friedrich Gauss
-    pt-br: Carl Friedrich Gauss
+    pt_br: Carl Friedrich Gauss
     qu: Carl Friedrich Gauss
     ro: Carl Friedrich Gauss
     ru: Карл Фридрих Гаусс
@@ -364,7 +364,7 @@ dv_has_:
     sl: Carl Friedrich Gauss
     sq: Carl Friedrich Gauss
     sr: Карл Фридрих Гаус
-    sr-ec: Карл Фридрих Гаус
+    sr_ec: Карл Фридрих Гаус
     su: Carl Friedrich Gauss
     sv: Carl Friedrich Gauss
     sw: Carl Friedrich Gauss
@@ -393,9 +393,9 @@ dv_has_:
     yo: Carl Friedrich Gauss
     yue: 高斯
     zh: 卡爾·弗里德里希·高斯
-    zh-cn: 卡尔·弗里德里希·高斯
-    zh-hans: 卡尔·弗里德里希·高斯
-    zh-hant: 卡爾·弗里德里希·高斯
+    zh_cn: 卡尔·弗里德里希·高斯
+    zh_hans: 卡尔·弗里德里希·高斯
+    zh_hant: 卡爾·弗里德里希·高斯
 ---
 # [[Gauss,Carl_Friedrich]] 
 

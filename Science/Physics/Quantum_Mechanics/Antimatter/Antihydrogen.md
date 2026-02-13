@@ -60,7 +60,7 @@ dv_has_:
   name_:
     ar: نقيض الهيدروجين
     ast: Antihidróxenu
-    be-tarask: антывадарод
+    be_tarask: антывадарод
     bg: Антиводород
     ca: antihidrogen
     co: Antiidrugenu
@@ -69,8 +69,8 @@ dv_has_:
     de: Antiwasserstoff
     el: Αντιυδρογόνο
     en: antihydrogen
-    en-ca: Antihydrogen
-    en-gb: antihydrogen
+    en_ca: Antihydrogen
+    en_gb: antihydrogen
     eo: antihidrogeno
     es: antihidrógeno
     eu: Antihidrogeno
@@ -94,7 +94,7 @@ dv_has_:
     oc: Antiidrogèn
     pl: antywodór
     pt: anti-hidrogénio
-    pt-br: anti-hidrogênio
+    pt_br: anti-hidrogênio
     ro: Antihidrogen
     ru: антиводород
     si: ප්රතිහයිඩ්රජන්
@@ -108,12 +108,12 @@ dv_has_:
     vi: phản hiđrô
     yue: 反氫
     zh: 反氫
-    zh-cn: 反氢
-    zh-hans: 反氢
-    zh-hant: 反氫
-    zh-hk: 反氫
-    zh-sg: 反氢
-    zh-tw: 反氫
+    zh_cn: 反氢
+    zh_hans: 反氢
+    zh_hant: 反氫
+    zh_hk: 反氫
+    zh_sg: 反氢
+    zh_tw: 反氫
 ---
 # [[Antihydrogen]] 
 

@@ -297,7 +297,7 @@ dv_has_:
     az: Limon turşusu
     azb: سیتریک اسید
     be: Лімонная кіслата
-    be-tarask: лімонная кісьля
+    be_tarask: лімонная кісьля
     bg: Лимонена киселина
     bn: সাইট্রিক অ্যাসিড
     bs: Limunska kiselina
@@ -329,11 +329,11 @@ dv_has_:
     jv: Asem sitrat
     ka: ლიმონმჟავა
     kk: Лимон қышқылы
-    kk-arab: لىيمون قىشقىلى
+    kk_arab: لىيمون قىشقىلى
     kk-cn: لىيمون قىشقىلى
-    kk-cyrl: Лимон қышқылы
+    kk_cyrl: Лимон қышқылы
     kk-kz: Лимон қышқылы
-    kk-latn: Lïmon qışqılı
+    kk_latn: Lïmon qışqılı
     kk-tr: Lïmon qışqılı
     kn: ಸಿಟ್ರಿಕ್ ಆಮ್ಲ
     ko: 시트르산
@@ -364,8 +364,8 @@ dv_has_:
     sk: Kyselina citrónová
     sl: citronska kislina
     sr: лимунска киселина
-    sr-ec: Лимунска киселина
-    sr-el: Limunska kiselina
+    sr_ec: Лимунска киселина
+    sr_el: Limunska kiselina
     sv: citronsyra
     ta: சிட்ரிக் அமிலம்
     te: సిట్రిక్ ఆమ్లం
@@ -380,12 +380,12 @@ dv_has_:
     wuu: 柠檬酸
     yue: 檸檬酸
     zh: 檸檬酸
-    zh-cn: 柠檬酸
-    zh-hans: 柠檬酸
-    zh-hant: 檸檬酸
-    zh-hk: 檸檬酸
-    zh-sg: 柠檬酸
-    zh-tw: 檸檬酸
+    zh_cn: 柠檬酸
+    zh_hans: 柠檬酸
+    zh_hant: 檸檬酸
+    zh_hk: 檸檬酸
+    zh_sg: 柠檬酸
+    zh_tw: 檸檬酸
 dv_is_same_as:
 - '[[../../../../WikiData/WD~Citric_acid,159683|WD~Citric_acid,159683]]'
 - '[[/_Standards/Chemistry/Organic_Chemistry/Carboxylic_Acid/Citric_Acid|Citric_Acid]]'

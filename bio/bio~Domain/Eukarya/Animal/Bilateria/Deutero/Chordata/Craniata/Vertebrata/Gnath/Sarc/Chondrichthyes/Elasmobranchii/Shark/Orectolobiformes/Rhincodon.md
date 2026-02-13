@@ -46,9 +46,9 @@ dv_has_:
     vi: Rhincodon
     war: Rhincodon
     zh: 鲸鲨属
-    zh-cn: 鯨鯊屬
-    zh-hans: 鲸鲨属
-    zh-tw: 鯨鯊屬
+    zh_cn: 鯨鯊屬
+    zh_hans: 鲸鲨属
+    zh_tw: 鯨鯊屬
 ---
 # [[Rhincodon]] 
 

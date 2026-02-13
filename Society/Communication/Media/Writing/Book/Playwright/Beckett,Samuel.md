@@ -170,7 +170,7 @@ dv_has_:
     azb: ساموئل بکت
     ba: Сэмюэл Беккет
     be: Семюэл Бекет
-    be-tarask: Сэм’юэл Бэкет
+    be_tarask: Сэм’юэл Бэкет
     bg: Самюъл Бекет
     bjn: Samuel Beckett
     bn: স্যামুয়েল বেকিট
@@ -241,7 +241,7 @@ dv_has_:
     pl: Samuel Beckett
     pnb: سیمیول بیکٹ
     pt: Samuel Beckett
-    pt-br: Samuel Beckett
+    pt_br: Samuel Beckett
     qu: Samuel Beckett
     ro: Samuel Beckett
     ru: Сэмюэл Беккет
@@ -268,7 +268,7 @@ dv_has_:
     yo: Samuel Beckett
     yue: 沙繆奧碧結
     zh: 萨缪尔·贝克特
-    zh-hant: 薩繆爾·貝克特
+    zh_hant: 薩繆爾·貝克特
 ---
 # [[Beckett,Samuel]] 
 

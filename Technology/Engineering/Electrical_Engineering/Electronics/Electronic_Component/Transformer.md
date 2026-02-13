@@ -108,7 +108,7 @@ dv_has_:
     ba: трансформатор
     bar: traunsfoamatoa
     be: трансфарматар
-    be-tarask: трансфарматар
+    be_tarask: трансфарматар
     bg: трансформатор
     bn: রূপান্তরক
     bs: transformator
@@ -181,7 +181,7 @@ dv_has_:
     pms: trasformator
     pnb: ٹرانسفارمر
     pt: transformador
-    pt-br: transformador
+    pt_br: transformador
     ro: transformator
     ru: трансформатор
     rue: Трансформатор

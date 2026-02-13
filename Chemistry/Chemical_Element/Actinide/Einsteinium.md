@@ -148,7 +148,7 @@ dv_has_:
     ban: Éinsteinium
     bcl: Einsteinyo
     be: Эйнштэйній
-    be-tarask: Айнштайн
+    be_tarask: Айнштайн
     bg: айнщайний
     bho: आइंस्टाइनियम
     bn: আইনস্টাইনিয়াম
@@ -166,7 +166,7 @@ dv_has_:
     de: Einsteinium
     el: αϊνστάνιο
     en: einsteinium
-    en-gb: einsteinium
+    en_gb: einsteinium
     eo: ejnŝtejniumo
     es: einstenio
     et: einsteinium
@@ -240,7 +240,7 @@ dv_has_:
     pnb: آئنسٹائنیئم
     ps: آينسټېنيوم
     pt: einsténio
-    pt-br: einstênio
+    pt_br: einstênio
     qu: Einsteinyu
     ro: einsteiniu
     ru: эйнштейний
@@ -254,7 +254,7 @@ dv_has_:
     sl: ajnštajnij
     sq: einsteiniumi
     sr: ајнштајнијум
-    sr-ec: Ајнштајнијум
+    sr_ec: Ајнштајнијум
     stq: Einsteinium
     sv: einsteinium
     sw: Einsteini
@@ -280,14 +280,14 @@ dv_has_:
     yue: 鑀
     za: aih
     zh: 鑀
-    zh-cn: 锿
-    zh-hans: 锿
-    zh-hant: 鑀
-    zh-hk: 鑀
-    zh-mo: 鑀
+    zh_cn: 锿
+    zh_hans: 锿
+    zh_hant: 鑀
+    zh_hk: 鑀
+    zh_mo: 鑀
     zh-my: 锿
-    zh-sg: 锿
-    zh-tw: 鑀
+    zh_sg: 锿
+    zh_tw: 鑀
     zu: IsEntshenye
   number_of_:
     period: 7

@@ -131,7 +131,7 @@ Commons_category: Plates
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Plate.stl
 dv_has_:
   name_:
-    aeb-arab: صحن
+    aeb_arab: صحن
     an: Plato
     ar: صحن
     arq: طبسي
@@ -143,7 +143,7 @@ dv_has_:
     azb: بوشقاب
     bcl: plato
     be: талерка
-    be-tarask: талерка
+    be_tarask: талерка
     bg: чиния
     bn: থালা
     bo: སྡེར་མ།
@@ -158,13 +158,13 @@ dv_has_:
     da: tallerken
     dag: ŋmani
     de: Teller
-    de-ch: Plate
+    de_ch: Plate
     ee: agba
     el: πιάτο
     eml: piàt
     en: plate
-    en-ca: plate
-    en-gb: plate
+    en_ca: plate
+    en_gb: plate
     en-us: plate
     eo: telero
     es: plato
@@ -205,7 +205,7 @@ dv_has_:
     lv: šķīvis
     lzh: 盤
     mad: pèrèng
-    map-bms: piring
+    map_bms: piring
     mcn: ŋíláynà
     mg: lovia
     mk: чинија
@@ -217,7 +217,7 @@ dv_has_:
     my: ပန်းကန်
     mzn: دوری
     nb: tallerken
-    nds-nl: bred
+    nds_nl: bred
     ne: प्लेट
     nl: bord
     nn: tallerken
@@ -227,7 +227,7 @@ dv_has_:
     pl: talerz
     pnb: تھاݪی
     pt: prato
-    pt-br: prato
+    pt_br: prato
     qu: p'uku
     rn: isahani
     ro: farfurie
@@ -264,8 +264,8 @@ dv_has_:
     wuu: 碟
     yue: 碟
     zh: 碟
-    zh-hans: 碟
-    zh-hant: 碟
+    zh_hans: 碟
+    zh_hant: 碟
 ---
 # [[Plate]] 
 

@@ -125,7 +125,7 @@ dv_has_:
     ast: Meteorización
     az: Aşınma
     be: выветрыванне
-    be-tarask: выпятрэньне
+    be_tarask: выпятрэньне
     bew: Penepokan
     bg: Изветряне
     bn: মৃত্তিকা আবহবিকার
@@ -158,11 +158,11 @@ dv_has_:
     ja: 風化
     ka: გამოფიტვა
     kk: Үгілу
-    kk-arab: ۇگىلۋ
+    kk_arab: ۇگىلۋ
     kk-cn: ۇگىلۋ
-    kk-cyrl: Үгілу
+    kk_cyrl: Үгілу
     kk-kz: Үгілу
-    kk-latn: Ügilw
+    kk_latn: Ügilw
     kk-tr: Ügilw
     ko: 풍화
     lt: dūlėjimas
@@ -185,8 +185,8 @@ dv_has_:
     sk: Zvetrávanie
     sl: preperevanje
     sr: елувијални процес
-    sr-ec: елувијални процес
-    sr-el: eluvijalni proces
+    sr_ec: елувијални процес
+    sr_el: eluvijalni proces
     sv: Vittring
     sw: Ustahimilivu wa hali ya hewa
     ta: வானிலையாலழிதல்
@@ -198,12 +198,12 @@ dv_has_:
     wuu: 风化作用
     yue: 風化作用
     zh: 風化作用
-    zh-cn: 风化作用
-    zh-hans: 风化作用
-    zh-hant: 風化作用
-    zh-hk: 風化作用
-    zh-sg: 风化作用
-    zh-tw: 風化作用
+    zh_cn: 风化作用
+    zh_hans: 风化作用
+    zh_hant: 風化作用
+    zh_hk: 風化作用
+    zh_sg: 风化作用
+    zh_tw: 風化作用
 ---
 # [[Weathering]] 
 

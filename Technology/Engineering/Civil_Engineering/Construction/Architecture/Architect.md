@@ -114,7 +114,7 @@ dv_has_:
     ba: архитектор
     bcl: Arkitekto
     be: архітэктар
-    be-tarask: архітэктар
+    be_tarask: архітэктар
     bg: архитект
     bn: স্থপতি
     br: arkitektour
@@ -122,18 +122,18 @@ dv_has_:
     bxr: уран барилгаша
     ca: arquitecte
     ckb: نژیاروان
-    crh-latn: mimar
+    crh_latn: mimar
     cs: architekt
     cv: Архитектор
     cy: pensaer
     da: arkitekt
     de: Architekt
-    de-ch: Architekt
+    de_ch: Architekt
     diq: Mimar
     el: αρχιτέκτονας
     en: architect
-    en-ca: Architect
-    en-gb: architect
+    en_ca: Architect
+    en_gb: architect
     en-us: architect
     eo: arkitekto
     es: arquitecto
@@ -172,7 +172,7 @@ dv_has_:
     kn: ವಾಸ್ತುಶಿಲ್ಪಿ
     ko: 건축가
     ku: mîmar
-    ku-latn: avahîsaz
+    ku_latn: avahîsaz
     kw: pennser
     la: architectus
     lb: Architekt
@@ -190,7 +190,7 @@ dv_has_:
     mn: Архитектор
     mr: वास्तुविशारद
     ms: arkitek
-    ms-arab: ارکيتيک
+    ms_arab: ارکيتيک
     mt: arkitett
     mzn: معماری
     nah: Calmanani
@@ -206,7 +206,7 @@ dv_has_:
     pl: architekt
     pnb: راج
     pt: arquiteto
-    pt-br: arquiteto(a)
+    pt_br: arquiteto(a)
     ro: arhitect
     ru: архитектор
     rup: Arhitectu
@@ -245,14 +245,14 @@ dv_has_:
     yi: ארכיטעקט
     yue: 畫則師
     zh: 建筑师
-    zh-cn: 建筑师
-    zh-hans: 建筑师
-    zh-hant: 建築師
-    zh-hk: 建築師
-    zh-mo: 建築師
+    zh_cn: 建筑师
+    zh_hans: 建筑师
+    zh_hant: 建築師
+    zh_hk: 建築師
+    zh_mo: 建築師
     zh-my: 建筑师
-    zh-sg: 建筑师
-    zh-tw: 建築師
+    zh_sg: 建筑师
+    zh_tw: 建築師
 ---
 ## #has_/text_of_/abstract 
 

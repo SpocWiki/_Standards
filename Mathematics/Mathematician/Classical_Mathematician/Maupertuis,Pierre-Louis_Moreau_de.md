@@ -113,17 +113,17 @@ dv_has_:
     ast: Pierre Louis Maupertuis
     az: Pyer Lui Mopertyui
     azb: پیئر لوئی موپئرتوئی
-    be-tarask: П’ер-Люі Мапэрцюі
+    be_tarask: П’ер-Люі Мапэрцюі
     bg: Пиер Луи Моро дьо Мопертюи
     br: Pierre Louis Moreau de Maupertuis
     ca: Pierre Louis Moreau de Maupertuis
     cs: Pierre Louis Maupertuis
     da: Pierre Louis Moreau de Maupertuis
     de: Pierre Louis Moreau de Maupertuis
-    de-ch: Pierre-Louis Moreau de Maupertuis
+    de_ch: Pierre-Louis Moreau de Maupertuis
     en: Pierre-Louis Moreau de Maupertuis
-    en-ca: Pierre Louis Maupertuis
-    en-gb: Pierre Louis Maupertuis
+    en_ca: Pierre Louis Maupertuis
+    en_gb: Pierre Louis Maupertuis
     eo: Pierre Louis Moreau de Maupertuis
     es: Pierre Louis Maupertuis
     eu: Pierre-Louis Moreau de Maupertuis
@@ -150,15 +150,15 @@ dv_has_:
     pap: Pierre Louis Moreau de Maupertuis
     pl: Pierre Louis Maupertuis
     pt: Pierre Louis Maupertuis
-    pt-br: Pierre Louis Moreau de Maupertuis
+    pt_br: Pierre Louis Moreau de Maupertuis
     ro: Pierre Louis Maupertuis
     ru: Пьер Луи де Мопертюи
     sk: Pierre Louis Maupertuis
     sl: Pierre-Louis Moreau de Maupertuis
     sq: Pierre Louis Moreau de Maupertuis
     sr: Пјер Луј де Моперти
-    sr-ec: Пјер Луј де Моперти
-    sr-el: Pjer Luj de Moperti
+    sr_ec: Пјер Луј де Моперти
+    sr_el: Pjer Luj de Moperti
     sv: Pierre de Maupertuis
     ta: பியேர் உலூயிசு மவுபெர்திசு
     tr: Pierre-Louis Moreau de Maupertuis
@@ -166,12 +166,12 @@ dv_has_:
     vi: Pierre Louis Maupertuis
     yue: 皮埃爾·莫佩爾蒂
     zh: 皮埃爾·莫佩爾蒂
-    zh-cn: 皮埃尔·莫佩尔蒂
-    zh-hans: 皮埃尔·莫佩尔蒂
-    zh-hant: 皮埃爾·莫佩爾蒂
-    zh-hk: 皮埃爾·莫佩爾蒂
-    zh-sg: 皮埃尔·莫佩尔蒂
-    zh-tw: 皮埃爾·莫佩爾蒂
+    zh_cn: 皮埃尔·莫佩尔蒂
+    zh_hans: 皮埃尔·莫佩尔蒂
+    zh_hant: 皮埃爾·莫佩爾蒂
+    zh_hk: 皮埃爾·莫佩爾蒂
+    zh_sg: 皮埃尔·莫佩尔蒂
+    zh_tw: 皮埃爾·莫佩爾蒂
 ---
 # [[Maupertuis,Pierre-Louis_Moreau_de]] 
 

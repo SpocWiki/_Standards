@@ -58,7 +58,7 @@ dv_has_:
   name_:
     ar: منفس مائي حراري
     ast: Fonte hidrotermal
-    be-tarask: гідратэрмальная крыніца
+    be_tarask: гідратэрмальная крыніца
     bg: Хидротермални комини
     bn: জলতাপীয় রন্ধ্র
     bs: Hidrotermalni otvori
@@ -102,8 +102,8 @@ dv_has_:
     sh: Hidrotermalni izvor
     sl: hidrotermalni vrelec
     sr: Hidrotermalni izvori
-    sr-ec: Хидротермални извори
-    sr-el: Hidrotermalni izvori
+    sr_ec: Хидротермални извори
+    sr_el: Hidrotermalni izvori
     sv: Hydrotermal öppning
     th: ปล่องไฮโดรเทอร์มอล
     tr: Hidrotermal bacalar

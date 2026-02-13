@@ -121,7 +121,7 @@ dv_has_:
     az: Dələkimilər
     azb: دلهکیمیلر
     be: куніцавыя
-    be-tarask: куніцавыя
+    be_tarask: куніцавыя
     bg: порови
     br: Mustelideged
     bs: Mustelidae
@@ -135,8 +135,8 @@ dv_has_:
     de: Marder
     el: Μουστελίδες
     en: Mustelidae
-    en-ca: Mustelidae
-    en-gb: Mustelidae
+    en_ca: Mustelidae
+    en_gb: Mustelidae
     eo: Musteledoj
     es: Mustelidae
     et: kärplased
@@ -188,7 +188,7 @@ dv_has_:
     nan: Tiau-kho
     nb: mårfamilien
     nds: Mustelidae
-    nds-nl: Mustelidae
+    nds_nl: Mustelidae
     nl: marterachtigen
     nn: Mårfamilien
     nv: Dlǫ́ʼii Ndahalinígíí
@@ -198,7 +198,7 @@ dv_has_:
     pms: Mustelidae
     pnb: نیولے
     pt: Mustelídeos
-    pt-br: Mustelidae
+    pt_br: Mustelidae
     ro: Mustelide
     ru: куньи
     sah: Солоҥдотуҥулар кэргэннэрэ
@@ -230,9 +230,9 @@ dv_has_:
     wuu: 鼬科
     yue: 鼬
     zh: 鼬科
-    zh-cn: 鼬科
-    zh-hans: 鼬科
-    zh-tw: 鼬科
+    zh_cn: 鼬科
+    zh_hans: 鼬科
+    zh_tw: 鼬科
 ---
 # [[Mustelidae]] 
 

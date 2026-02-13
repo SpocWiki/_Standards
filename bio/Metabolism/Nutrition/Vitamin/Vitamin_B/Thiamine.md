@@ -185,12 +185,12 @@ dv_has_:
     cy: thiamin
     da: tiamin
     de: Thiamin
-    de-ch: Thiamin
+    de_ch: Thiamin
     dv: ވިޓަމިން ބީ1
     el: θιαμίνη
     en: thiamine(1+) ion
-    en-ca: Thiamine
-    en-gb: Thiamine
+    en_ca: Thiamine
+    en_gb: Thiamine
     eo: tiamino
     es: Vitamina B1
     et: Vitamiin B1
@@ -230,7 +230,7 @@ dv_has_:
     or: ଥାୟାମିନ
     pl: witamina B1
     pt: tiamina
-    pt-br: Tiamina
+    pt_br: Tiamina
     ro: Tiamină
     ru: тиамин
     rw: Vitamini B1
@@ -254,7 +254,7 @@ dv_has_:
     wuu: 硫胺
     yue: 維他命B1
     zh: 硫胺
-    zh-hant: 硫胺
+    zh_hant: 硫胺
 ---
 # [[Thiamine]] 
 

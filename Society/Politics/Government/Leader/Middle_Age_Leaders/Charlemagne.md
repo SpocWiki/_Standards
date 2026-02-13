@@ -252,7 +252,7 @@ dv_has_:
     ba: Бөйөк Карл
     bcl: Charlemagne
     be: Карл Вялікі
-    be-tarask: Карл Вялікі
+    be_tarask: Карл Вялікі
     bew: Karèl Agung
     bg: Карл Велики
     bn: শার্লমাইন
@@ -271,12 +271,12 @@ dv_has_:
     cy: Siarlymaen
     da: Karl den Store
     de: Karl der Große
-    de-ch: Karl der Grosse
+    de_ch: Karl der Grosse
     diq: Charlemagne
     el: Καρλομάγνος
     en: Charlemagne
-    en-ca: Charlemagne
-    en-gb: Charlemagne
+    en_ca: Charlemagne
+    en_gb: Charlemagne
     en-us: Charlemagne
     eo: Karolo la Granda
     es: Carlomagno
@@ -349,7 +349,7 @@ dv_has_:
     nan: Charlemagne
     nb: Karl den store
     nds: Karl de Grote
-    nds-nl: Karel de Grote
+    nds_nl: Karel de Grote
     new: चार्लेम्याग्न
     nl: Karel de Grote
     nn: Karl den store
@@ -367,7 +367,7 @@ dv_has_:
     pnb: شارلمین
     ps: چارليماګني
     pt: Carlos Magno
-    pt-br: Carlos Magno
+    pt_br: Carlos Magno
     qu: Carolus Magnus
     rm: Carl il Grond
     ro: Carol cel Mare
@@ -410,9 +410,9 @@ dv_has_:
     yo: Charlemagne
     yue: 查理曼大帝
     zh: 查理大帝
-    zh-hans: 查理大帝
-    zh-hant: 查理曼
-    zh-tw: 查理曼
+    zh_hans: 查理大帝
+    zh_hant: 查理曼
+    zh_tw: 查理曼
 ---
 # [[Charlemagne]] 
 

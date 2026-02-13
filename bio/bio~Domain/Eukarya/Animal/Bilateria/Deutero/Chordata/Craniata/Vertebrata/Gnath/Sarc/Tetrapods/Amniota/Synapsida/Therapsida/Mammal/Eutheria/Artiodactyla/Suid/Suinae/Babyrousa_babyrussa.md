@@ -78,7 +78,7 @@ dv_has_:
     oc: Babyrousa babyrussa
     pl: Babirussa wąsata
     pt: Babyrousa babyrussa
-    pt-br: Babyrousa babyrussa
+    pt_br: Babyrousa babyrussa
     ro: Babirusa
     ru: Бабирусса
     sq: Babyrousa babyrussa
@@ -91,8 +91,8 @@ dv_has_:
     vo: Babyrousa babyrussa
     war: Babyrousa babyrussa
     zh: 马鲁古鹿豚
-    zh-cn: 马鲁古鹿豚
-    zh-hans: 马鲁古鹿豚
+    zh_cn: 马鲁古鹿豚
+    zh_hans: 马鲁古鹿豚
 ---
 # Babyrousa babyrussa 
 

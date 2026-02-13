@@ -84,7 +84,7 @@ dv_has_:
     oc: Estúdio Ghibli
     pl: Studio Ghibli
     pt: Studio Ghibli
-    pt-br: Studio Ghibli
+    pt_br: Studio Ghibli
     ro: Studio Ghibli
     ru: Studio Ghibli
     sah: Studio Ghibli
@@ -94,8 +94,8 @@ dv_has_:
     sl: Studio Ghibli
     sq: Studio Ghibli
     sr: Џибли студио
-    sr-ec: Џибли студио
-    sr-el: Džibli studio
+    sr_ec: Џибли студио
+    sr_el: Džibli studio
     sv: Studio Ghibli
     ta: இசுடுடியோ கிப்ளி
     te: స్టూడియో గిబ్లి
@@ -111,12 +111,12 @@ dv_has_:
     wuu: 吉卜力工作室
     yue: 知步里工作室
     zh: 吉卜力工作室
-    zh-cn: 吉卜力工作室
-    zh-hans: 吉卜力工作室
-    zh-hant: 吉卜力工作室
-    zh-hk: 吉卜力工作室
-    zh-sg: 吉卜力工作室
-    zh-tw: 吉卜力工作室
+    zh_cn: 吉卜力工作室
+    zh_hans: 吉卜力工作室
+    zh_hant: 吉卜力工作室
+    zh_hk: 吉卜力工作室
+    zh_sg: 吉卜力工作室
+    zh_tw: 吉卜力工作室
 ---
 > Studio Ghibli, Inc. 
 > (Japanese: 株式会社スタジオジブリ, Hepburn: Kabushiki-gaisha Sutajio Jiburi) 

@@ -65,7 +65,7 @@ dv_has_:
   name_:
     ar: سيف المبارزة
     be: шпага
-    be-tarask: спартовая шпага
+    be_tarask: спартовая шпага
     bg: Шпага
     ca: espasa
     cs: kord
@@ -91,8 +91,8 @@ dv_has_:
     ka: დაშნა
     ko: 에페
     ku: Debanmertal
-    ku-arab: دەبانمەرتال
-    ku-latn: Debanmertal
+    ku_arab: دەبانمەرتال
+    ku_latn: Debanmertal
     lb: Deegen
     lt: sportinė špaga
     mk: меч
@@ -105,16 +105,16 @@ dv_has_:
     ro: spadă
     ru: спортивная шпага
     sr: Мач (спортски)
-    sr-ec: мач
+    sr_ec: мач
     tr: Epe
     tt: Шпага
     uk: спортивна шпага
     yue: 重劍
     zh: 重劍
-    zh-hans: 重剑
-    zh-hant: 銳劍
-    zh-hk: 重劍
-    zh-tw: 銳劍
+    zh_hans: 重剑
+    zh_hant: 銳劍
+    zh_hk: 重劍
+    zh_tw: 銳劍
 ---
 # [[Épée]] 
 

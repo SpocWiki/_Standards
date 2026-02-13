@@ -77,7 +77,7 @@ dv_has_:
     az: Günəşdənqaçanlar
     azb: بؤولر
     be: сальпугі
-    be-tarask: сальпугі
+    be_tarask: сальпугі
     bg: солпуги
     bs: Lažni pauci
     ca: solífugs
@@ -123,7 +123,7 @@ dv_has_:
     pl: Solfugi
     ps: اوښ ډوله غڼه
     pt: Solifugae
-    pt-br: Solifugae
+    pt_br: Solifugae
     ro: Solifugae
     ru: сольпуги
     sco: Solifugae
@@ -144,9 +144,9 @@ dv_has_:
     wuu: 避日目
     yue: 避日目
     zh: 避日蛛目
-    zh-cn: 避日蛛目
-    zh-hans: 避日蛛目
-    zh-tw: 避日目
+    zh_cn: 避日蛛目
+    zh_hans: 避日蛛目
+    zh_tw: 避日目
 ---
 # [[Solifugae]] 
 

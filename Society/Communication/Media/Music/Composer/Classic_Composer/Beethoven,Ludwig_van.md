@@ -252,7 +252,7 @@ dv_has_:
     bar: Ludwig van Beethoven
     bcl: Ludwig Van Beethoven
     be: Людвіг ван Бетховен
-    be-tarask: Людвіг ван Бэтговэн
+    be_tarask: Людвіг ван Бэтговэн
     bew: Lodewèk pan Bèthopen
     bg: Лудвиг ван Бетховен
     bho: लुड्विग भान बिथोभेन
@@ -264,7 +264,7 @@ dv_has_:
     btm: Ludwig van Beethoven
     bxr: Людвиг ван Бетховен
     ca: Ludwig van Beethoven
-    cbk-zam: Ludwig van Beethoven
+    cbk_zam: Ludwig van Beethoven
     cdo: Ludwig van Beethoven
     ce: Людвиг ван Бетховен
     ceb: Ludwig van Beethoven
@@ -279,12 +279,12 @@ dv_has_:
     dag: Ludwig van Beethoven
     de: Ludwig van Beethoven
     de-at: Ludwig van Beethoven
-    de-ch: Ludwig van Beethoven
+    de_ch: Ludwig van Beethoven
     diq: Ludwig van Beethoven
     el: Λούντβιχ βαν Μπετόβεν
     en: Ludwig van Beethoven
-    en-ca: Ludwig van Beethoven
-    en-gb: Ludwig van Beethoven
+    en_ca: Ludwig van Beethoven
+    en_gb: Ludwig van Beethoven
     eo: Ludwig van Beethoven
     es: Ludwig van Beethoven
     et: Ludwig van Beethoven
@@ -361,7 +361,7 @@ dv_has_:
     lv: Ludvigs van Bēthovens
     lzh: 貝多芬
     mai: लुड्विग भान बिथोभेन
-    map-bms: Ludwig van Beethoven
+    map_bms: Ludwig van Beethoven
     mg: Ludwig van Beethoven
     mhr: Людвиг ван Бетховен
     min: Ludwig van Beethoven
@@ -380,7 +380,7 @@ dv_has_:
     nap: Ludwig van Beethoven
     nb: Ludwig van Beethoven
     nds: Ludwig van Beethoven
-    nds-nl: Ludwig van Beethoven
+    nds_nl: Ludwig van Beethoven
     ne: लुड्विग भान बिथोभेन
     new: लूट्विश् फ़ान् बेट्होफ़न्
     nl: Ludwig van Beethoven
@@ -421,7 +421,7 @@ dv_has_:
     so: Ludwig van Beethoven
     sq: Ludwig van Beethoven
     sr: Лудвиг ван Бетовен
-    sr-el: Ludwig van Beethoven
+    sr_el: Ludwig van Beethoven
     stq: Ludwig van Beethoven
     su: Ludwig van Beethoven
     sv: Ludwig van Beethoven
@@ -462,9 +462,9 @@ dv_has_:
     zea: Ludwig van Beethoven
     zgh: ⴱⵉⵜⵀⵓⴼⵏ
     zh: 路德维希·范·贝多芬
-    zh-cn: 路德维希·范·贝多芬
-    zh-hans: 路德维希·范·贝多芬
-    zh-hant: 路德維希·范·貝多芬
+    zh_cn: 路德维希·范·贝多芬
+    zh_hans: 路德维希·范·贝多芬
+    zh_hant: 路德維希·范·貝多芬
     zu: Ludwig van Beethoven
 ---
 # [[Beethoven,Ludwig_van]] 

@@ -240,7 +240,7 @@ dv_has_:
     az: moment
     bar: Drehmaument
     be: момант сілы
-    be-tarask: момант сілы
+    be_tarask: момант сілы
     bg: момент на сила
     bn: টর্ক
     bs: moment
@@ -304,7 +304,7 @@ dv_has_:
     smn: vyeimi moomeent
     sq: çasti
     sr: момент силе
-    sr-ec: момент силе
+    sr_ec: момент силе
     sv: vridmoment
     ta: முறுக்கு விசை
     te: టార్క్
@@ -317,8 +317,8 @@ dv_has_:
     yi: טוירק
     yue: 力臂
     zh: 力矩
-    zh-hans: 力矩
-    zh-hant: 力矩
+    zh_hans: 力矩
+    zh_hant: 力矩
 ---
 # [[Dim~Torque]] 
 

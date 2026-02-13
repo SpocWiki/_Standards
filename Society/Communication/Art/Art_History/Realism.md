@@ -67,7 +67,7 @@ dv_has_:
     arz: الواقعيه
     az: realizm
     be: рэалізм
-    be-tarask: рэалізм
+    be_tarask: рэалізм
     bg: реализъм
     bn: reaiism
     ca: realisme
@@ -76,12 +76,12 @@ dv_has_:
     cy: realaeth
     da: realisme
     de: Realismus
-    de-ch: Realismus
+    de_ch: Realismus
     dtp: Realisme (inus kopokitanan)
     el: Ρεαλισμός
     en: realism
-    en-ca: Realism
-    en-gb: realism
+    en_ca: Realism
+    en_gb: realism
     eo: realismo
     es: realismo
     et: realism
@@ -125,7 +125,7 @@ dv_has_:
     pl: realizm (sztuka)
     ps: رېښتينيزم (هنر)
     pt: realismo
-    pt-br: Realismo
+    pt_br: Realismo
     ro: realism
     ru: реализм
     sd: فطرت نگاري
@@ -136,8 +136,8 @@ dv_has_:
     smn: realism
     sms: realismm
     sr: реализам
-    sr-ec: реализам
-    sr-el: realizam
+    sr_ec: реализам
+    sr_el: realizam
     sv: realism
     ta: இயல்பியம்
     th: ศิลปะสัจนิยม
@@ -148,8 +148,8 @@ dv_has_:
     wuu: 现实主义
     yue: 寫實主義
     zh: 現實主義
-    zh-hant: 現實主義
-    zh-tw: 現實主義
+    zh_hant: 現實主義
+    zh_tw: 現實主義
 ---
 # [[Realism]] 
 

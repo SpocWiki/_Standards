@@ -136,7 +136,7 @@ Wolfram_Language_entity_code: Entity["Concept", "Monarchy::44v86"]
 dv_has_:
   name_:
     ace: monarki
-    aeb-arab: ملكيّة
+    aeb_arab: ملكيّة
     af: monargie
     an: monarquía
     ang: Sunderanweald
@@ -155,7 +155,7 @@ dv_has_:
     bar: Monarchie
     bcl: monarkiya
     be: манархія
-    be-tarask: манархія
+    be_tarask: манархія
     bg: монархия
     bho: राजशाही
     bn: রাজতন্ত্র
@@ -170,7 +170,7 @@ dv_has_:
     ceb: monarkiya
     ckb: پاشایەتی
     crh: monarhiya
-    crh-latn: monarhiya
+    crh_latn: monarhiya
     cs: monarchie
     csb: Mònarchiô
     cu: монархїꙗ
@@ -181,8 +181,8 @@ dv_has_:
     diq: monarşiye
     el: μοναρχία
     en: monarchy
-    en-ca: monarchy
-    en-gb: monarchy
+    en_ca: monarchy
+    en_gb: monarchy
     en-us: monarchy
     eo: monarĥio
     es: monarquía
@@ -233,7 +233,7 @@ dv_has_:
     ko: 군주제
     krc: монархия
     ku: keyîtî
-    ku-latn: keyîtî
+    ku_latn: keyîtî
     kv: монархия
     kw: myghternses
     ky: монархия
@@ -266,7 +266,7 @@ dv_has_:
     nan: kun-ông-chè-tō͘
     nb: monarki
     nds: Monarkie
-    nds-nl: monaarchie
+    nds_nl: monaarchie
     ne: राजतन्त्र
     new: राजतन्त्र
     nl: monarchie
@@ -283,7 +283,7 @@ dv_has_:
     pnb: بادشاہی
     ps: پاچاهي
     pt: monarquia
-    pt-br: monarquia
+    pt_br: monarquia
     qu: qhapaq suyu
     rm: monarchia
     ro: monarhie
@@ -303,7 +303,7 @@ dv_has_:
     sn: umambo
     sq: monarkia
     sr: монархија
-    sr-ec: монархија
+    sr_ec: монархија
     ss: bukhosi
     sv: monarki
     sw: ufalme
@@ -334,14 +334,14 @@ dv_has_:
     yue: 君主制
     zgh: ⵜⴰⴳⵍⴷⵉⵜ
     zh: 君主制
-    zh-cn: 君主制
-    zh-hans: 君主制
-    zh-hant: 君主制
-    zh-hk: 君主制
-    zh-mo: 君主制
+    zh_cn: 君主制
+    zh_hans: 君主制
+    zh_hant: 君主制
+    zh_hk: 君主制
+    zh_mo: 君主制
     zh-my: 君主制
-    zh-sg: 君主制
-    zh-tw: 君主制
+    zh_sg: 君主制
+    zh_tw: 君主制
     zu: Ubukhosi
 ---
 # [[Monarchy]] 

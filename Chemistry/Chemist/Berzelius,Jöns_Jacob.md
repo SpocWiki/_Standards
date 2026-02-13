@@ -179,7 +179,7 @@ dv_has_:
     az: Yens Yakov Bertselius
     azb: یاکوب برسلیوس
     be: Ёнс Якаб Берцэліус
-    be-tarask: Ёнс Якаб Бэрцэліюс
+    be_tarask: Ёнс Якаб Бэрцэліюс
     bg: Йонс Берцелиус
     bn: ইয়োনস ইয়াকব ব্যার্শেলিয়ুস
     bs: Jöns Jakob Berzelius
@@ -188,11 +188,11 @@ dv_has_:
     cy: Jöns Jacob Berzelius
     da: Jacob Berzelius
     de: Jöns Jakob Berzelius
-    de-ch: Jöns Jakob Berzelius
+    de_ch: Jöns Jakob Berzelius
     el: Γιονς Γιάκομπ Μπερτσέλιους
     en: Jöns Jacob Berzelius
-    en-ca: Jöns Jacob Berzelius
-    en-gb: Jöns Jacob Berzelius
+    en_ca: Jöns Jacob Berzelius
+    en_gb: Jöns Jacob Berzelius
     eo: Jöns Jacob Berzelius
     es: Jöns Jacob Berzelius
     et: Jöns Jacob Berzelius
@@ -236,7 +236,7 @@ dv_has_:
     pap: Jöns Jacob Berzelius
     pl: Jöns Jacob Berzelius
     pt: Jöns Jacob Berzelius
-    pt-br: Jöns Jacob Berzelius
+    pt_br: Jöns Jacob Berzelius
     qu: Jöns Jacob Berzelius
     ro: Jöns Jakob Berzelius
     ru: Йёнс Якоб Берцелиус
@@ -260,12 +260,12 @@ dv_has_:
     xmf: იენს იაკობ ბერცელიუსი
     yue: 白則里
     zh: 永斯·贝采利乌斯
-    zh-cn: 永斯·贝采利乌斯
-    zh-hans: 永斯·贝采利乌斯
-    zh-hant: 永斯·貝采利烏斯
-    zh-hk: 永斯·貝采利烏斯
-    zh-sg: 永斯·贝采利乌斯
-    zh-tw: 永斯·貝采利烏斯
+    zh_cn: 永斯·贝采利乌斯
+    zh_hans: 永斯·贝采利乌斯
+    zh_hant: 永斯·貝采利烏斯
+    zh_hk: 永斯·貝采利烏斯
+    zh_sg: 永斯·贝采利乌斯
+    zh_tw: 永斯·貝采利烏斯
 ---
 # [[Berzelius,Jöns_Jacob]] 
 

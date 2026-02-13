@@ -109,7 +109,7 @@ dv_has_:
     azb: نصفالنهار
     ba: Меридиан
     be: мерыдыян
-    be-tarask: мэрыдыян
+    be_tarask: мэрыдыян
     bg: Меридиан
     bn: দ্রাঘিমারেখা
     ca: meridià
@@ -120,8 +120,8 @@ dv_has_:
     dsb: Meridian
     el: Μεσημβρινός
     en: meridian
-    en-ca: meridian
-    en-gb: meridian
+    en_ca: meridian
+    en_gb: meridian
     eo: meridiano
     es: meridiano
     et: meridiaan
@@ -144,7 +144,7 @@ dv_has_:
     it: meridiano
     ja: 子午線
     kk: меридиан
-    kk-latn: meridian
+    kk_latn: meridian
     km: ខ្សែបណ្ដោយ
     ko: 경선
     ku: Merîdyen

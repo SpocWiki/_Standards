@@ -132,7 +132,7 @@ dv_has_:
     ba: Жак Картье
     bar: Jacques Cartier
     be: Жак Карцье
-    be-tarask: Жак Карт’е
+    be_tarask: Жак Карт’е
     bg: Жак Картие
     bn: জাক কার্তিয়ে
     br: Jakez Karter
@@ -151,8 +151,8 @@ dv_has_:
     diq: Jacques Cartier
     el: Ζακ Καρτιέ
     en: Jacques Cartier
-    en-ca: Jacques Cartier
-    en-gb: Jacques Cartier
+    en_ca: Jacques Cartier
+    en_gb: Jacques Cartier
     eo: Jacques Cartier
     es: Jacques Cartier
     et: Jacques Cartier
@@ -231,7 +231,7 @@ dv_has_:
     pms: Jacques Cartier
     pnb: جیکوئی کارٹیر
     pt: Jacques Cartier
-    pt-br: Jacques Cartier
+    pt_br: Jacques Cartier
     qu: Jacques Cartier
     rki: ဂျေ ကာတီယေး
     ro: Jacques Cartier

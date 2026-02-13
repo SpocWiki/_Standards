@@ -116,7 +116,7 @@ dv_has_:
     avk: Vitus Bering
     az: Vitus Berinq
     be: Вітус Берынг
-    be-tarask: Вітус Бэрынг
+    be_tarask: Вітус Бэрынг
     bg: Витус Беринг
     br: Vitus Bering
     bs: Vitus Bering
@@ -151,11 +151,11 @@ dv_has_:
     ja: ヴィトゥス・ベーリング
     ka: ვიტუს ბერინგი
     kk: Беринг Витус Ионассен
-    kk-arab: بەرىينگ ۆىيتۋس ىيوناسسەن
+    kk_arab: بەرىينگ ۆىيتۋس ىيوناسسەن
     kk-cn: بەرىينگ ۆىيتۋس ىيوناسسەن
-    kk-cyrl: Беринг Витус Ионассен
+    kk_cyrl: Беринг Витус Ионассен
     kk-kz: Беринг Витус Ионассен
-    kk-latn: Berïng Vïtws Ïonassen
+    kk_latn: Berïng Vïtws Ïonassen
     kk-tr: Berïng Vïtws Ïonassen
     ko: 비투스 베링
     ky: Беринг Витус Ионассен
@@ -175,7 +175,7 @@ dv_has_:
     pl: Vitus Bering
     pnb: وائی ٹیس بیرنگ
     pt: Vitus Bering
-    pt-br: Vitus Bering
+    pt_br: Vitus Bering
     ro: Vitus Bering
     ru: Витус Ионассен Беринг
     sah: Витус Беринг
@@ -186,8 +186,8 @@ dv_has_:
     sl: Vitus Bering
     sq: Vitus Bering
     sr: Витус Беринг
-    sr-ec: Витус Беринг
-    sr-el: Vitus Bering
+    sr_ec: Витус Беринг
+    sr_el: Vitus Bering
     sv: Vitus Bering
     sw: Vitus Bering
     ta: விட்டஸ் பெரிங்
@@ -204,12 +204,12 @@ dv_has_:
     wuu: 维图斯·白令
     yue: 白令
     zh: 维他斯·白令
-    zh-cn: 维他斯·白令
-    zh-hans: 维图斯·白令
-    zh-hant: 維他斯·白令
-    zh-hk: 維他斯·白令
-    zh-sg: 维他斯·白令
-    zh-tw: 維他斯·白令
+    zh_cn: 维他斯·白令
+    zh_hans: 维图斯·白令
+    zh_hant: 維他斯·白令
+    zh_hk: 維他斯·白令
+    zh_sg: 维他斯·白令
+    zh_tw: 維他斯·白令
 ---
 # [[Bering,Vitus]] 
 

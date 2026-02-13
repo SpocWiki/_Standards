@@ -114,7 +114,7 @@ dv_has_:
     ast: superconductividad
     az: ifratkeçiricilik
     be: звышправоднасць
-    be-tarask: звышправоднасьць
+    be_tarask: звышправоднасьць
     bg: свръхпроводимост
     bn: অতিপরিবাহিতা
     bs: superprovodljivost
@@ -126,8 +126,8 @@ dv_has_:
     de: Supraleitung
     el: υπεραγωγιμότητα
     en: superconductivity
-    en-ca: superconductivity
-    en-gb: superconductivity
+    en_ca: superconductivity
+    en_gb: superconductivity
     eo: superkonduktiveco
     es: superconductividad
     et: ülijuhtivus
@@ -148,11 +148,11 @@ dv_has_:
     ja: 超伝導
     ka: ზეგამტარობა
     kk: асқын өткізгіштік
-    kk-arab: اسقىن وتكىزگىشتىك
+    kk_arab: اسقىن وتكىزگىشتىك
     kk-cn: اسقىن وتكىزگىشتىك
-    kk-cyrl: асқын өткізгіштік
+    kk_cyrl: асқын өткізгіштік
     kk-kz: асқын өткізгіштік
-    kk-latn: asqın ötkizgiştik
+    kk_latn: asqın ötkizgiştik
     kk-tr: Asqın ötkizgiştik
     ko: 초전도 현상
     la: superconductivitas
@@ -172,7 +172,7 @@ dv_has_:
     pms: dzor-condutività
     ps: د برېښنا فوق العاده لېږد
     pt: supercondutividade
-    pt-br: supercondutividade
+    pt_br: supercondutividade
     ro: supraconductibilitate
     ru: сверхпроводимость
     sco: superconductivity
@@ -183,8 +183,8 @@ dv_has_:
     sl: superprevodnost
     sq: superpërcjellshmëria
     sr: суперпроводност
-    sr-ec: суперпроводност
-    sr-el: superprovodnost
+    sr_ec: суперпроводност
+    sr_el: superprovodnost
     sv: supraledare
     ta: மீக்கடத்துத்திறன்
     te: అతివాహకత్వము
@@ -200,12 +200,12 @@ dv_has_:
     wuu: 超导现象
     yue: 超導現象
     zh: 超导现象
-    zh-cn: 超导现象
-    zh-hans: 超导现象
-    zh-hant: 超導現象
-    zh-hk: 超導現象
-    zh-sg: 超导现象
-    zh-tw: 超導現象
+    zh_cn: 超导现象
+    zh_hans: 超导现象
+    zh_hant: 超導現象
+    zh_hk: 超導現象
+    zh_sg: 超导现象
+    zh_tw: 超導現象
 ---
 # [[Superconductivity]] 
 

@@ -61,7 +61,7 @@ dv_has_:
     anp: बौद्ध धर्म केरऽ इतिहास
     ar: تاريخ البوذية
     ast: Historia del budismu
-    be-tarask: гісторыя будызму
+    be_tarask: гісторыя будызму
     bg: История на будизма
     bho: बौद्ध धर्म के इतिहास
     bn: বৌদ্ধধর্মের ইতিহাস
@@ -109,7 +109,7 @@ dv_has_:
     uz: Buddizm tarixi
     vi: Lịch sử Phật giáo
     zh: 佛教历史
-    zh-hant: 佛教歷史
+    zh_hant: 佛教歷史
 ---
 # [[History_of_Buddhism]] 
 

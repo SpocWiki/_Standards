@@ -59,10 +59,10 @@ dv_has_:
     cs: pralesničkovití
     da: Giftfrø
     de: Baumsteigerfrösche
-    de-ch: Baumsteigerfrösche
+    de_ch: Baumsteigerfrösche
     en: Dendrobatidae
-    en-ca: Poison dart frog
-    en-gb: Poison dart frog
+    en_ca: Poison dart frog
+    en_gb: Poison dart frog
     eo: Dendrobatedoj
     es: Dendrobatidae
     eu: Dendrobatidae
@@ -98,7 +98,7 @@ dv_has_:
     oc: Dendrobatidae
     pl: drzewołazowate
     pt: Dendrobatidae
-    pt-br: Dendrobatidae
+    pt_br: Dendrobatidae
     ro: Dendrobatidae
     ru: Древолазы
     si: Poison Arrow Frog
@@ -115,8 +115,8 @@ dv_has_:
     vo: Dendrobatidae
     war: Dendrobatidae
     zh: 箭毒蛙科
-    zh-cn: 箭毒蛙科
-    zh-tw: 箭毒蛙科
+    zh_cn: 箭毒蛙科
+    zh_tw: 箭毒蛙科
 ---
 # [[Dendrobatidae]]
 

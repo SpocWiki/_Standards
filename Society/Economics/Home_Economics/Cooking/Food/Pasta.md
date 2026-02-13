@@ -113,7 +113,7 @@ dv_has_:
     az: makaron
     azb: پاستا
     be: макаронныя вырабы
-    be-tarask: паста
+    be_tarask: паста
     bg: паста
     bho: पास्ता
     bn: পাস্তা
@@ -127,11 +127,11 @@ dv_has_:
     cy: pasta
     da: pasta
     de: Pasta
-    de-ch: pasta
+    de_ch: pasta
     el: ζυμαρικό
     en: pasta
-    en-ca: pasta
-    en-gb: pasta
+    en_ca: pasta
+    en_gb: pasta
     en-us: pasta
     eo: pastaĵo
     es: pasta
@@ -174,11 +174,11 @@ dv_has_:
     ml: പാസ്ത
     mr: पास्ता
     ms: pasta
-    ms-arab: ڤستا
+    ms_arab: ڤستا
     my: ပါစတာ
     nan: pasta
     nb: pasta
-    nds-nl: pasta
+    nds_nl: pasta
     ne: पास्ता
     nl: pasta
     nn: pasta
@@ -188,7 +188,7 @@ dv_has_:
     pl: makaron
     pnb: پاستا
     pt: massa alimentícia
-    pt-br: massa alimentícia
+    pt_br: massa alimentícia
     ro: paste
     roa-tara: paste
     ru: макаронные изделия
@@ -201,8 +201,8 @@ dv_has_:
     so: baasto
     sq: pasta
     sr: паста
-    sr-ec: паста
-    sr-el: pasta
+    sr_ec: паста
+    sr_el: pasta
     sv: pasta
     sw: pasta
     szl: nudle
@@ -223,9 +223,9 @@ dv_has_:
     yue: 意式麪
     zh: 意式面食
     zh-cn: 意式麵食
-    zh-hans: 意式面食
-    zh-hant: 意式麵食
-    zh-tw: 義大利麵食
+    zh_hans: 意式面食
+    zh_hant: 意式麵食
+    zh_tw: 義大利麵食
 ---
 # [[Pasta]] 
 

@@ -100,7 +100,7 @@ dv_has_:
     az: fantaziya
     bcl: Pantasya
     be: фэнтэзі
-    be-tarask: фэнтэзі
+    be_tarask: фэнтэзі
     bg: фентъзи
     bn: অলীক কল্পকাহিনী
     br: fantazi
@@ -113,8 +113,8 @@ dv_has_:
     de: Fantasy
     el: φαντασία
     en: fantasy
-    en-ca: Fantasy
-    en-gb: fantasy
+    en_ca: Fantasy
+    en_gb: fantasy
     eo: fantasto
     es: fantasía
     et: imeulme
@@ -155,7 +155,7 @@ dv_has_:
     lv: fantāzijas literatūra
     mk: фантастика
     ms: fantasi
-    ms-arab: فنتاسي
+    ms_arab: فنتاسي
     mzn: فانتزی
     nan: Kî-hoàn
     nb: fantasy
@@ -168,7 +168,7 @@ dv_has_:
     pl: fantasy
     ps: خايالي
     pt: fantasia
-    pt-br: fantasia
+    pt_br: fantasia
     ro: fantezie
     ru: фэнтези
     sco: fantasie
@@ -179,8 +179,8 @@ dv_has_:
     sl: fantazija
     sq: Fantazia
     sr: фантастика
-    sr-ec: фантастика
-    sr-el: fantastika
+    sr_ec: фантастика
+    sr_el: fantastika
     sv: fantasy
     sw: Bunilizi ya kinjozi
     ta: கனவுருப்புனைவு
@@ -189,7 +189,7 @@ dv_has_:
     tl: Pantasya
     tr: fantastik edebiyat
     tt: фэнтези
-    tt-cyrl: фәнтәзи
+    tt_cyrl: фәнтәзи
     uk: фентезі
     ur: فنطاسیہ
     uz: Fentezi
@@ -201,12 +201,12 @@ dv_has_:
     yi: פאנטאזיע
     yue: 奇幻
     zh: 奇幻
-    zh-cn: 奇幻
-    zh-hans: 奇幻
-    zh-hant: 奇幻
-    zh-hk: 奇幻小說
-    zh-sg: 奇幻小说
-    zh-tw: 奇幻小說
+    zh_cn: 奇幻
+    zh_hans: 奇幻
+    zh_hant: 奇幻
+    zh_hk: 奇幻小說
+    zh_sg: 奇幻小说
+    zh_tw: 奇幻小說
 ---
 # [[Fantasy]] 
 

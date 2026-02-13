@@ -74,7 +74,7 @@ dv_has_:
     af: Kompakte ster
     ar: بقايا نجمية متراصة
     ast: Estrella compauta
-    be-tarask: кампактная зорка
+    be_tarask: кампактная зорка
     ca: estrella compacta
     cs: kompaktní objekt
     cv: Компактлă çăлтăр
@@ -82,8 +82,8 @@ dv_has_:
     de: Kompakter Stern
     el: συμπαγής αστέρας
     en: compact object
-    en-ca: Compact object
-    en-gb: Compact object
+    en_ca: Compact object
+    en_gb: Compact object
     eo: kompakta stelo
     es: estrella compacta
     et: Tähe jäänuk
@@ -106,15 +106,15 @@ dv_has_:
     nb: kompakt objekt
     pl: gwiazda zdegenerowana
     pt: estrela compacta
-    pt-br: Estrela compacta
+    pt_br: Estrela compacta
     ro: Stea compactă
     ru: компактная звезда
     si: Compact star
     sk: kompaktná hviezda
     sl: kompaktna zvezda
     sr: компактна звезда
-    sr-ec: компактна звезда
-    sr-el: kompaktna zvezda
+    sr_ec: компактна звезда
+    sr_el: kompaktna zvezda
     sv: kompakt objekt
     th: ดาวมวลอัดแน่น
     tr: Sıkışık yıldız

@@ -56,7 +56,7 @@ dv_has_:
     oc: Sigmodontinae
     pl: bawełniaki
     pt: Sigmodontinae
-    pt-br: Sigmodontinae
+    pt_br: Sigmodontinae
     ro: Sigmodontinae
     ru: Sigmodontinae
     sl: Sigmodontinae
@@ -69,9 +69,9 @@ dv_has_:
     vo: Sigmodontinae
     war: Sigmodontinae
     zh: 棉鼠亚科
-    zh-cn: 棉鼠亚科
-    zh-hans: 棉鼠亚科
-    zh-tw: 棉鼠亞科
+    zh_cn: 棉鼠亚科
+    zh_hans: 棉鼠亚科
+    zh_tw: 棉鼠亞科
 ---
 # Wiedomyini 
 

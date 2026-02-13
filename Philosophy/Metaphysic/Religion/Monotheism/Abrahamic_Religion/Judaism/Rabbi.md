@@ -107,7 +107,7 @@ dv_has_:
     az: ravvin
     bcl: Rabino
     be: рабін
-    be-tarask: рабін
+    be_tarask: рабін
     bg: Равин
     bn: রব্বি
     br: Rabin
@@ -118,11 +118,11 @@ dv_has_:
     cy: rabi
     da: rabbiner
     de: Rabbiner
-    de-ch: Rabbiner
+    de_ch: Rabbiner
     el: ραββίνος
     en: rabbi
-    en-ca: Rabbi
-    en-gb: rabbi
+    en_ca: Rabbi
+    en_gb: rabbi
     eo: rabeno
     es: rabino
     et: rabi
@@ -152,8 +152,8 @@ dv_has_:
     km: រ៉ាប៊ី
     ko: 랍비
     ku: xaxam
-    ku-arab: خاخام
-    ku-latn: xaxam
+    ku_arab: خاخام
+    ku_latn: xaxam
     la: Rabbinus
     lad: Rabino
     lb: Rabbiner
@@ -176,7 +176,7 @@ dv_has_:
     pl: rabin
     pnb: ربی
     pt: rabino
-    pt-br: rabino
+    pt_br: rabino
     ro: rabin
     ru: раввин
     sh: Rabin
@@ -184,8 +184,8 @@ dv_has_:
     sl: rabin
     sq: Rabini
     sr: рабин
-    sr-ec: Рабин
-    sr-el: Rabin
+    sr_ec: Рабин
+    sr_el: Rabin
     sv: rabbin
     sw: Rabi
     ta: யூத மதகுரு
@@ -204,12 +204,12 @@ dv_has_:
     yi: רב
     yue: 拉比 (猶太教)
     zh: 拉比
-    zh-cn: 拉比
-    zh-hans: 拉比
-    zh-hant: 拉比
-    zh-hk: 拉比
-    zh-sg: 拉比
-    zh-tw: 拉比
+    zh_cn: 拉比
+    zh_hans: 拉比
+    zh_hant: 拉比
+    zh_hk: 拉比
+    zh_sg: 拉比
+    zh_tw: 拉比
 ---
 # [[Rabbi]] 
 

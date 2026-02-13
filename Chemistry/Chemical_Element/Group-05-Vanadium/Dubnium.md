@@ -123,7 +123,7 @@ dv_has_:
     ban: Dubnium
     bcl: Dubnyo
     be: дубній
-    be-tarask: Дубн
+    be_tarask: Дубн
     bg: дубний
     bho: डब्नियम
     bn: ডুবনিয়াম
@@ -140,11 +140,11 @@ dv_has_:
     cy: Dubniwm
     da: dubnium
     de: Dubnium
-    de-ch: Dubnium
+    de_ch: Dubnium
     el: ντούμπνιο
     en: dubnium
-    en-ca: Dubnium
-    en-gb: dubnium
+    en_ca: Dubnium
+    en_gb: dubnium
     eo: dubniumo
     es: dubnio
     et: dubnium
@@ -217,7 +217,7 @@ dv_has_:
     pnb: ڈبنئیم
     ps: ډوبنيوم
     pt: dúbnio
-    pt-br: dúbnio
+    pt_br: dúbnio
     qu: Dubniyu
     ro: dubniu
     ru: дубний
@@ -254,14 +254,14 @@ dv_has_:
     yo: Dubnium
     yue: "\U000289C0"
     zh: "\U000289C0"
-    zh-cn: "\U0002CB4A"
-    zh-hans: "\U0002CB4A"
-    zh-hant: "\U000289C0"
-    zh-hk: "\U000289C0"
-    zh-mo: "\U000289C0"
+    zh_cn: "\U0002CB4A"
+    zh_hans: "\U0002CB4A"
+    zh_hant: "\U000289C0"
+    zh_hk: "\U000289C0"
+    zh_mo: "\U000289C0"
     zh-my: "\U0002CB4A"
-    zh-sg: "\U0002CB4A"
-    zh-tw: "\U000289C0"
+    zh_sg: "\U0002CB4A"
+    zh_tw: "\U000289C0"
     zu: UmDubumbi
   number_of_:
     period: 7

@@ -177,7 +177,7 @@ dv_has_:
     azb: اومویلر خیلافتی
     ba: Өмәүиҙәр хәлифәлеге
     be: Амеядскі халіфат
-    be-tarask: Амэядзкі халіфат
+    be_tarask: Амэядзкі халіфат
     bg: Умаяди
     bn: উমাইয়া খিলাফত
     br: Omeyad
@@ -216,7 +216,7 @@ dv_has_:
     ko: 우마이야 칼리파조
     ks: اَموی خٕلافَت
     ku: Xelîfetiya Emewiyan
-    ku-latn: Xelîfetiya Emewiyan
+    ku_latn: Xelîfetiya Emewiyan
     la: Caliphatus Omayadarum
     lfn: Califia Umaian
     lt: Omejadų kalifatas
@@ -265,10 +265,10 @@ dv_has_:
     yue: 倭馬亞哈里發國
     zgh: ⵜⴰⵅⴰⵍⴰⴼⵉⵜ ⵏ ⴰⵢⵜ ⵓⵎⴰⵢⵢⴰ
     zh: 倭马亚哈里发国
-    zh-cn: 倭马亚哈里发国
-    zh-hans: 倭马亚哈里发国
-    zh-hant: 倭馬亞哈里發國
-    zh-tw: 伍麥亞王朝
+    zh_cn: 倭马亚哈里发国
+    zh_hans: 倭马亚哈里发国
+    zh_hant: 倭馬亞哈里發國
+    zh_tw: 伍麥亞王朝
 ---
 # [[0661-Umayyad Caliphate+0750]] 
 

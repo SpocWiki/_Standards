@@ -105,7 +105,7 @@ dv_has_:
     ast: mecánica de fluyíos
     az: hidroaeromexanika
     be: гідрааэрамеханіка
-    be-tarask: гідрааэрамэханіка
+    be_tarask: гідрааэрамэханіка
     bg: механика на флуидите
     bn: প্রবাহী বলবিজ্ঞান
     bs: mehanika fluida
@@ -114,11 +114,11 @@ dv_has_:
     cy: mecaneg hylif
     da: fluidmekanik
     de: Strömungsmechanik
-    de-ch: Strömungsmechanik
+    de_ch: Strömungsmechanik
     el: μηχανική των ρευστών
     en: fluid mechanics
-    en-ca: fluid mechanics
-    en-gb: fluid mechanics
+    en_ca: fluid mechanics
+    en_gb: fluid mechanics
     eo: meĥaniko de fluidaĵoj
     es: mecánica de fluidos
     et: hüdromehaanika
@@ -141,7 +141,7 @@ dv_has_:
     jv: mekanika fluida
     ka: ჰიდროაერომექანიკა
     kk: гидроаэромеханика
-    kk-arab: گىيدرومەحانىيكا
+    kk_arab: گىيدرومەحانىيكا
     kk-cn: گىيدرومەحانىيكا
     ko: 유체역학
     ko-kp: 류체력학
@@ -161,7 +161,7 @@ dv_has_:
     pl: mechanika płynów
     ps: د مایعاتو میخانیک
     pt: mecânica dos fluidos
-    pt-br: mecânica dos fluidos
+    pt_br: mecânica dos fluidos
     ro: mecanica fluidelor
     ru: гидроаэромеханика
     sh: mehanika fluida
@@ -182,12 +182,12 @@ dv_has_:
     wuu: 流体力学
     yue: 流體力學
     zh: 流体力学
-    zh-cn: 流体力学
-    zh-hans: 流体力学
-    zh-hant: 流體力學
-    zh-hk: 流體力學
-    zh-sg: 流体力学
-    zh-tw: 流體力學
+    zh_cn: 流体力学
+    zh_hans: 流体力学
+    zh_hant: 流體力學
+    zh_hk: 流體力學
+    zh_sg: 流体力学
+    zh_tw: 流體力學
 ---
 # [[Fluid_Mechanics]] 
 

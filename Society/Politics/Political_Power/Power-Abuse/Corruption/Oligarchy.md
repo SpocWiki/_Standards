@@ -90,7 +90,7 @@ dv_has_:
     az: Oliqarxiya
     azb: اولیقارشی
     be: алігархія
-    be-tarask: алігархія
+    be_tarask: алігархія
     bg: Олигархия
     bn: গোষ্ঠীশাসনতন্ত্র
     br: Oligarkiezh
@@ -164,7 +164,7 @@ dv_has_:
     sms: oligarkia
     sq: Oligarkia
     sr: олигархија
-    sr-ec: Олигархија
+    sr_ec: Олигархија
     su: Oligarki
     sv: oligarki
     ta: சிலவர் ஆட்சி
@@ -182,8 +182,8 @@ dv_has_:
     yi: אליגאראכיע
     yue: 寡頭制
     zh: 寡头政治
-    zh-hans: 寡头政治
-    zh-hant: 寡頭政治
+    zh_hans: 寡头政治
+    zh_hant: 寡頭政治
 ---
 # [[Oligarchy]] 
 

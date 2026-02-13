@@ -227,7 +227,7 @@ dv_has_:
     azb: اوپک
     ba: ОПЕК
     be: АПЕК
-    be-tarask: Арганізацыя краін-экспартэраў нафты
+    be_tarask: Арганізацыя краін-экспартэраў нафты
     bg: Организация на страните износителки на петрол
     bn: ওপেক
     br: Aozadur ar Broioù a Ezporzh Petrol
@@ -239,7 +239,7 @@ dv_has_:
     de: Organisation erdölexportierender Länder
     el: Οργανισμός εξαγωγών πετρελαιοπαραγωγών χωρών
     en: Organization of the Petroleum Exporting Countries
-    en-gb: Organisation of the Petroleum Exporting Countries
+    en_gb: Organisation of the Petroleum Exporting Countries
     eo: OPEL
     es: Organización de Países Exportadores de Petróleo
     eu: LPEE
@@ -319,8 +319,8 @@ dv_has_:
     yi: אפעק
     yue: 石油輸出國組織
     zh: 石油输出国组织
-    zh-cn: 石油输出国组织
-    zh-hans: 石油输出国组织
+    zh_cn: 石油输出国组织
+    zh_hans: 石油输出国组织
 ---
 # [[OPEC(Organization_of_the_Petroleum_Exporting_Countries)]] 
 

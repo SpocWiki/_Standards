@@ -87,7 +87,7 @@ dv_has_:
     az: Traviata
     ba: Травиата
     be: Травіята
-    be-tarask: Травіята
+    be_tarask: Травіята
     bg: Травиата
     ca: La traviata
     cs: La traviata
@@ -137,8 +137,8 @@ dv_has_:
     sl: Traviata
     sq: La traviata
     sr: Травијата
-    sr-ec: Травијата
-    sr-el: Travijata
+    sr_ec: Травијата
+    sr_el: Travijata
     sv: La traviata
     th: ลา ทราวิอาทา
     tr: La traviata
@@ -147,12 +147,12 @@ dv_has_:
     vi: La Traviata
     yue: 茶花女 (歌劇)
     zh: 茶花女
-    zh-cn: 茶花女
-    zh-hans: 茶花女
-    zh-hant: 茶花女
-    zh-hk: 茶花女
-    zh-sg: 茶花女
-    zh-tw: 茶花女
+    zh_cn: 茶花女
+    zh_hans: 茶花女
+    zh_hant: 茶花女
+    zh_hk: 茶花女
+    zh_sg: 茶花女
+    zh_tw: 茶花女
 ---
 # [[La_Traviata]] 
 

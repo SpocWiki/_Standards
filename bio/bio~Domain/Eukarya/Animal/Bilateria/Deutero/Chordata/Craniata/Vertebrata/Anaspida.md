@@ -53,16 +53,16 @@ dv_has_:
     sk: Anaspida
     sq: Anaspida
     sr: Анаспида
-    sr-ec: Анаспида
-    sr-el: Anaspida
+    sr_ec: Анаспида
+    sr_el: Anaspida
     sv: Anaspida
     uk: Anaspida
     vec: Anaspida
     vi: Lớp Cá không giáp
     war: Anaspida
     zh: 缺甲魚亞綱
-    zh-cn: 缺甲鱼亚纲
-    zh-hans: 缺甲鱼亚纲
+    zh_cn: 缺甲鱼亚纲
+    zh_hans: 缺甲鱼亚纲
 ---
 # [[Anaspida]] 
 

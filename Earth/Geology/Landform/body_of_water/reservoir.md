@@ -177,7 +177,7 @@ dv_has_:
     az: su anbarı
     ba: һыуһаҡлағыс
     be: вадасховішча
-    be-tarask: вадасховішча
+    be_tarask: вадасховішча
     bg: язовир
     bn: জলাধার
     bo: ཆུ་མཛོད།
@@ -217,11 +217,11 @@ dv_has_:
     ka: წყალსაცავი
     kaa: suw qoyması
     kk: су қоймасы
-    kk-arab: بوگەن تۇرلەرى
+    kk_arab: بوگەن تۇرلەرى
     kk-cn: بوگەن تۇرلەرى
-    kk-cyrl: бөген түрлері
+    kk_cyrl: бөген түрлері
     kk-kz: бгген түрлері
-    kk-latn: bögen türleri
+    kk_latn: bögen türleri
     kk-tr: bögen türleri
     kn: ಜಲಾಶಯ
     ko: 저수지
@@ -237,7 +237,7 @@ dv_has_:
     mk: вештачко езеро
     ml: ജലസംഭരണി
     ms: takungan
-    ms-arab: تاکوڠن
+    ms_arab: تاکوڠن
     my: ရေလှောင်တမံ
     nan: Chúi-khò͘
     nb: vannmagasin
@@ -249,7 +249,7 @@ dv_has_:
     os: донæвæрæн
     pl: zbiornik zaporowy
     pt: reservatório
-    pt-br: reservatório
+    pt_br: reservatório
     qu: hark'a qucha
     ro: lac de acumulare
     ru: водохранилище
@@ -262,8 +262,8 @@ dv_has_:
     so: galroobaad
     sq: Rezervuari
     sr: вештачко језеро
-    sr-ec: вештачко језеро
-    sr-el: veštačko jezero
+    sr_ec: вештачко језеро
+    sr_el: veštačko jezero
     sv: vattenmagasin
     ta: பல்நோக்கு நீர்தேக்கம்
     te: జలాశయము
@@ -271,7 +271,7 @@ dv_has_:
     th: อ่างเก็บน้ำ
     tr: baraj gölü
     tt: сусаклагыч
-    tt-cyrl: сусаклагыч
+    tt_cyrl: сусаклагыч
     udm: вувозённи
     uk: водосховище
     uz: suv ombori
@@ -281,12 +281,12 @@ dv_has_:
     yi: רעזערווואר
     yue: 水塘
     zh: 水庫
-    zh-cn: 水库
-    zh-hans: 水库
-    zh-hant: 水庫
-    zh-hk: 水庫
-    zh-sg: 水库
-    zh-tw: 水庫
+    zh_cn: 水库
+    zh_hans: 水库
+    zh_hant: 水庫
+    zh_hk: 水庫
+    zh_sg: 水库
+    zh_tw: 水庫
   parent_class: '[[../BodyOfWater]]'
   properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'
 dv_is_same_as:

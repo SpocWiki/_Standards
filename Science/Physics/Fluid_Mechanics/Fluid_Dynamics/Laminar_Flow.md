@@ -89,11 +89,11 @@ dv_has_:
     ja: 層流
     ka: ლამინარული დინება
     kk: ламинарлы ағын
-    kk-arab: لامىينارلى اعىن
+    kk_arab: لامىينارلى اعىن
     kk-cn: لامىينارلى اعىن
-    kk-cyrl: ламинарлы ағын
+    kk_cyrl: ламинарлы ағын
     kk-kz: ламинарлы ағын
-    kk-latn: lamïnarlı ağın
+    kk_latn: lamïnarlı ağın
     kk-tr: lamïnarlı ağın
     ko: 층류
     ky: ламинардык агым
@@ -120,12 +120,12 @@ dv_has_:
     vec: rezime lamenar
     vi: dòng chảy tầng
     zh: 层流
-    zh-cn: 层流
-    zh-hans: 层流
-    zh-hant: 層流
-    zh-hk: 層流
-    zh-sg: 层流
-    zh-tw: 層流
+    zh_cn: 层流
+    zh_hans: 层流
+    zh_hant: 層流
+    zh_hk: 層流
+    zh_sg: 层流
+    zh_tw: 層流
 ---
 # [[Laminar_Flow]] 
 

@@ -92,8 +92,8 @@ dv_has_:
     de: Haber-Bosch-Verfahren
     el: Μέθοδος Χάμπερ-Μπος
     en: Haber-Bosch process
-    en-ca: Haber process
-    en-gb: Haber process
+    en_ca: Haber process
+    en_gb: Haber process
     eo: Procezo Haber
     es: proceso de Haber
     eu: Haber-Bosch prozesu
@@ -115,7 +115,7 @@ dv_has_:
     io: Haber-procedo
     it: Processo Haber-Bosch
     ja: ハーバー・ボッシュ法
-    kk-cyrl: Габер процессі
+    kk_cyrl: Габер процессі
     ko: 하버법
     lzh: 哈柏反應
     ml: ഹേബർ പ്രക്രിയ
@@ -131,14 +131,14 @@ dv_has_:
     pnb: ہیبر دا طریقہ
     ps: د هابر پروسه
     pt: Síntese de Haber-Bosch
-    pt-br: Síntese de Haber-Bosch
+    pt_br: Síntese de Haber-Bosch
     ro: Proces Haber-Bosch
     ru: Процесс Габера
     sh: Haber-Boschov proces
     sl: Haber-Bosch proces
     sr: Хабер-Бошов процес
-    sr-ec: Хабер-Бошов процес
-    sr-el: Haber-Bošov proces
+    sr_ec: Хабер-Бошов процес
+    sr_el: Haber-Bošov proces
     sv: Haber-Boschmetoden
     ta: ஹேபர் செயல்முறை
     th: กระบวนการฮาเบอร์
@@ -147,12 +147,12 @@ dv_has_:
     ur: ہیبر کا طریقہ
     vi: Phương pháp Haber
     zh: 哈柏法
-    zh-cn: 哈柏法
-    zh-hans: 哈柏法
-    zh-hant: 哈柏法
-    zh-hk: 哈柏法
-    zh-sg: 哈柏法
-    zh-tw: 哈柏法
+    zh_cn: 哈柏法
+    zh_hans: 哈柏法
+    zh_hant: 哈柏法
+    zh_hk: 哈柏法
+    zh_sg: 哈柏法
+    zh_tw: 哈柏法
 ---
 This is the most important chemical Process. 2% of Energy is being invested to that. 
 Every 2nd Nitrogen in our body was created by this Process. 

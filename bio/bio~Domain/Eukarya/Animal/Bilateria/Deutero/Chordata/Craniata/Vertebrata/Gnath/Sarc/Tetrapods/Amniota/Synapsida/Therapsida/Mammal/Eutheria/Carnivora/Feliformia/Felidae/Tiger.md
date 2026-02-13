@@ -252,7 +252,7 @@ dv_has_:
     bbc: Babiat
     bcl: Tigre
     be: тыгр
-    be-tarask: тыгр
+    be_tarask: тыгр
     bg: тигър
     bho: बाघ
     bn: বাঘ
@@ -300,7 +300,7 @@ dv_has_:
     gn: Jaguareterusu
     gom: Vag
     gom-deva: वाग
-    gom-latn: Vag
+    gom_latn: Vag
     got: "\U00010344\U00010339\U00010332\U00010342\U00010343"
     gsw: Tiger
     gu: વાઘ
@@ -363,7 +363,7 @@ dv_has_:
     mni: ꯀꯩ
     mr: वाघ
     ms: harimau
-    ms-arab: هريماو
+    ms_arab: هريماو
     mul: Panthera tigris
     my: ကျား
     mzn: دورگ
@@ -386,7 +386,7 @@ dv_has_:
     pnb: شیر
     ps: پړانګ
     pt: tigre
-    pt-br: tigre
+    pt_br: tigre
     qu: Tigri
     ro: tigru
     ru: тигр
@@ -428,7 +428,7 @@ dv_has_:
     tpi: Taiga
     tr: Kaplan
     tt: юлбарыс
-    tt-cyrl: юлбарыс
+    tt_cyrl: юлбарыс
     tw: Sebɔ
     ug: بارس
     uk: тигр
@@ -447,10 +447,10 @@ dv_has_:
     yue: 老虎
     za: Guk
     zh: 虎
-    zh-cn: 虎
-    zh-hans: 虎
-    zh-hant: 虎
-    zh-tw: 虎
+    zh_cn: 虎
+    zh_hans: 虎
+    zh_hant: 虎
+    zh_tw: 虎
     zu: Ithayiga
 ---
 # [[Tiger]] 🐯 

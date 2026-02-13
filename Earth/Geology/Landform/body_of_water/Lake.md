@@ -272,7 +272,7 @@ dv_has_:
     ban: danu
     bcl: danaw
     be: возера
-    be-tarask: возера
+    be_tarask: возера
     bew: sètu
     bg: езеро
     bho: झील
@@ -295,14 +295,14 @@ dv_has_:
     da: sø
     de: See
     de-at: See
-    de-ch: See
+    de_ch: See
     diq: gol
     dsb: jazor
     el: λίμνη
     eml: lèg
     en: lake
-    en-ca: lake
-    en-gb: lake
+    en_ca: lake
+    en_gb: lake
     eo: lago
     es: lago
     et: järv
@@ -383,7 +383,7 @@ dv_has_:
     mr: सरोवर
     mrj: йӓр
     ms: tasik
-    ms-arab: تاسيق
+    ms_arab: تاسيق
     mt: lag
     mwl: lago
     my: ရေကန်
@@ -394,7 +394,7 @@ dv_has_:
     nap: laco
     nb: innsjø
     nds: Binnensee
-    nds-nl: meer
+    nds_nl: meer
     ne: तलाउ
     new: पुखु
     nl: meer
@@ -412,7 +412,7 @@ dv_has_:
     pnb: جھیل
     ps: ډنډ
     pt: lago
-    pt-br: lago
+    pt_br: lago
     qu: qucha
     rm: lai
     ro: lac
@@ -438,8 +438,8 @@ dv_has_:
     sn: nyanza
     sq: liqen
     sr: језеро
-    sr-ec: језеро
-    sr-el: jezero
+    sr_ec: језеро
+    sr_el: jezero
     su: situ
     sv: insjö
     sw: ziwa
@@ -451,7 +451,7 @@ dv_has_:
     tl: lawa
     tr: göl
     tt: күл
-    tt-cyrl: күл
+    tt_cyrl: күл
     tw: ɔtadeɛ
     udm: ты
     uk: озеро
@@ -470,11 +470,11 @@ dv_has_:
     yue: 湖
     za: huz
     zh: 湖泊
-    zh-cn: 湖泊
-    zh-hans: 湖泊
-    zh-hant: 湖泊
-    zh-hk: 湖泊
-    zh-tw: 湖泊
+    zh_cn: 湖泊
+    zh_hans: 湖泊
+    zh_hant: 湖泊
+    zh_hk: 湖泊
+    zh_tw: 湖泊
     zu: ichibi
   parent_class: '[[../BodyOfWater]]'
   properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'

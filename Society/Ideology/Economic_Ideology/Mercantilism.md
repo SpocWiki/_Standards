@@ -69,7 +69,7 @@ dv_has_:
     azb: مرکانتلیزم
     ba: меркантилизм
     be: меркантылізм
-    be-tarask: мэркантылізм
+    be_tarask: мэркантылізм
     bg: меркантилизъм
     bs: Merkantilizam
     ca: mercantilisme
@@ -101,11 +101,11 @@ dv_has_:
     ja: 重商主義
     ka: მერკანტილიზმი
     kk: меркантилизм
-    kk-arab: مەركانتىيلىيزم
+    kk_arab: مەركانتىيلىيزم
     kk-cn: مەركانتىيلىيزم
-    kk-cyrl: меркантилизм
+    kk_cyrl: меркантилизм
     kk-kz: меркантилизм
-    kk-latn: Merkantïlïzm
+    kk_latn: Merkantïlïzm
     kk-tr: Merkantïlïzm
     ko: 중상주의
     ky: меркантилизм
@@ -130,12 +130,12 @@ dv_has_:
     sl: merkantilizem
     sq: Merkantilizmi
     sr: меркантилизам
-    sr-ec: меркантилизам
-    sr-el: Merkantilizam
+    sr_ec: меркантилизам
+    sr_el: Merkantilizam
     sv: Merkantilism
     ta: வணிகவாதம்
     tg: меркантилизм
-    tg-cyrl: меркантализм
+    tg_cyrl: меркантализм
     th: ลัทธิพาณิชยนิยม
     tk: Merkantalizm
     tl: merkantilismo
@@ -147,12 +147,12 @@ dv_has_:
     wuu: 重商主义
     yue: 重商主義
     zh: 重商主義
-    zh-cn: 重商主义
-    zh-hans: 重商主义
-    zh-hant: 重商主義
-    zh-hk: 重商主義
-    zh-sg: 重商主义
-    zh-tw: 重商主義
+    zh_cn: 重商主义
+    zh_hans: 重商主义
+    zh_hant: 重商主義
+    zh_hk: 重商主義
+    zh_sg: 重商主义
+    zh_tw: 重商主義
 ---
 # [[Mercantilism]] 
 

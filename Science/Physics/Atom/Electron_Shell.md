@@ -81,7 +81,7 @@ dv_has_:
     ar: غلاف تكافؤ
     ast: Capa electrónica
     az: Elektron qabığı
-    be-tarask: электронная абалонка
+    be_tarask: электронная абалонка
     bg: Електронен слой
     bn: ইলেকট্রনের শক্তিস্তর
     ca: capa d'electrons
@@ -90,11 +90,11 @@ dv_has_:
     cy: plisgyn yr electron
     da: elektronskal
     de: Atomhülle
-    de-ch: Atomhülle
+    de_ch: Atomhülle
     el: Ηλεκτρονική στιβάδα
     en: electron shell
-    en-ca: Electron shell
-    en-gb: electron shell
+    en_ca: Electron shell
+    en_gb: electron shell
     eo: elektronkovraĵo
     es: capa electrónica
     et: elektronkiht
@@ -125,7 +125,7 @@ dv_has_:
     oc: Capa electronica
     pl: powłoka elektronowa
     pt: nível eletrônico
-    pt-br: Nível eletrônico
+    pt_br: Nível eletrônico
     qu: Iñuku hawa
     ro: înveliș electronic
     ru: электронная оболочка
@@ -138,7 +138,7 @@ dv_has_:
     sr: Elektronska ljuska
     sw: Mzingo elektroni
     tg: Абри электронӣ
-    tg-latn: Abri elektronī
+    tg_latn: Abri elektronī
     th: ชั้นพลังงานของอิเล็กตรอน
     tr: Elektron kabuğu
     tt: Электрон сүрү
@@ -150,12 +150,12 @@ dv_has_:
     wuu: 电子层
     yue: 電子殼
     zh: 電子層
-    zh-cn: 电子层
-    zh-hans: 电子层
-    zh-hant: 電子層
-    zh-hk: 電子層
-    zh-sg: 电子层
-    zh-tw: 電子層
+    zh_cn: 电子层
+    zh_hans: 电子层
+    zh_hant: 電子層
+    zh_hk: 電子層
+    zh_sg: 电子层
+    zh_tw: 電子層
 ---
 # [[Electron_Shell]] 
 

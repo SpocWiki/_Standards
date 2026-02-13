@@ -7,7 +7,7 @@ dv_has_:
     arz: عصويه جمريه
     ast: Bacillus anthracis
     az: Qarayara çöpü
-    be-tarask: Bacillus anthracis
+    be_tarask: Bacillus anthracis
     bg: Bacillus anthracis
     bn: ব্যাসিলাস অ্যানথ্রাসিস
     ca: Bacillus anthracis
@@ -51,7 +51,7 @@ dv_has_:
     pl: Laseczka wąglika
     pnb: بیکلس اینتھراکس
     pt: Bacillus anthracis
-    pt-br: Bacillus anthracis
+    pt_br: Bacillus anthracis
     ro: Bacillus anthracis
     ru: Bacillus anthracis
     sco: Bacillus anthracis

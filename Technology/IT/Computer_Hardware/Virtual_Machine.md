@@ -6,7 +6,7 @@ dv_has_:
     ar: آلة افتراضية
     az: virtual maşın
     be: Віртуальная машына
-    be-tarask: віртуальная машына
+    be_tarask: віртуальная машына
     bg: Виртуална машина
     bn: ভার্চুয়াল মেশিন
     bs: virtualna mašina
@@ -62,12 +62,12 @@ dv_has_:
     yi: ווירטועל מאשין
     yue: 虛擬機
     zh: 虛擬機器
-    zh-cn: 虚拟机
-    zh-hans: 虚拟机器
-    zh-hant: 虛擬機器
-    zh-hk: 虛擬機器
-    zh-sg: 虚拟机
-    zh-tw: 虛擬機器
+    zh_cn: 虚拟机
+    zh_hans: 虚拟机器
+    zh_hant: 虛擬機器
+    zh_hk: 虛擬機器
+    zh_sg: 虚拟机
+    zh_tw: 虛擬機器
 aliases:
 - macchina virtuale
 - machine virtuelle

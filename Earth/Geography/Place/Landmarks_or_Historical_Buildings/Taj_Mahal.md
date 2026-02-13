@@ -166,7 +166,7 @@ dv_has_:
     ban: Taj Mahal
     bcl: Taj Mahal
     be: Тадж-Махал
-    be-tarask: Тадж Махал
+    be_tarask: Тадж Махал
     bg: Тадж Махал
     bho: ताजमहल
     bn: তাজমহল
@@ -184,13 +184,13 @@ dv_has_:
     cy: Taj Mahal
     da: Taj Mahal
     de: Taj Mahal
-    de-ch: Taj Mahal
+    de_ch: Taj Mahal
     diq: Tac Mehel
     dv: ތާޖް މަޙަލް
     el: Τατζ Μαχάλ
     en: Taj Mahal
-    en-ca: Taj Mahal
-    en-gb: Taj Mahal
+    en_ca: Taj Mahal
+    en_gb: Taj Mahal
     eo: Taĝ-Mahalo
     es: Taj Mahal
     et: Tāj Mahal
@@ -207,7 +207,7 @@ dv_has_:
     gn: Taj Mahal
     gom: Taj Mahal
     gom-deva: ताजमहाल
-    gom-latn: Taj Mahal
+    gom_latn: Taj Mahal
     gpe: Taj Mahal
     gsw: Taj Mahal
     gu: તાજ મહેલ
@@ -279,7 +279,7 @@ dv_has_:
     pnb: تاج محل
     ps: تاج محل
     pt: Taj Mahal
-    pt-br: Taj Mahal
+    pt_br: Taj Mahal
     qu: Taj Mahal
     ro: Taj Mahal
     ru: Тадж-Махал

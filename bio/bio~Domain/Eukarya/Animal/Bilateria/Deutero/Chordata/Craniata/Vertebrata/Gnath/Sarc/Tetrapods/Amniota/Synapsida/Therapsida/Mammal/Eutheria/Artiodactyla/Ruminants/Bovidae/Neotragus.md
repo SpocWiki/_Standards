@@ -59,8 +59,8 @@ dv_has_:
     vi: Neotragus
     war: Neotragus
     zh: 新小羚属
-    zh-cn: 新小羚属
-    zh-tw: 新小羚屬
+    zh_cn: 新小羚属
+    zh_tw: 新小羚屬
 ---
 # [[Neotragus]] 
 

@@ -116,7 +116,7 @@ dv_has_:
     az: Alaq
     ba: Ҡый үләндәре
     be: пустазелле
-    be-tarask: пустазельле
+    be_tarask: пустазельле
     bg: Плевел
     bn: আগাছা
     bs: Korov
@@ -168,7 +168,7 @@ dv_has_:
     mzn: واش
     nb: ugress
     nds: Unkruut
-    nds-nl: krödde
+    nds_nl: krödde
     ne: झार
     nl: onkruid
     nn: Ugras
@@ -193,8 +193,8 @@ dv_has_:
     sms: iilâsǩ
     sq: Barërat e këqija
     sr: коров
-    sr-ec: Коров
-    sr-el: Korov
+    sr_ec: Коров
+    sr_el: Korov
     su: Gulma
     sv: ogräs
     ta: களை
@@ -214,12 +214,12 @@ dv_has_:
     yue: 雜草
     zea: Vuulte
     zh: 野草
-    zh-cn: 野草
-    zh-hans: 野草
-    zh-hant: 野草
-    zh-hk: 野草
-    zh-sg: 野草
-    zh-tw: 野草
+    zh_cn: 野草
+    zh_hans: 野草
+    zh_hant: 野草
+    zh_hk: 野草
+    zh_sg: 野草
+    zh_tw: 野草
 ---
 # [[Weed]] 
 

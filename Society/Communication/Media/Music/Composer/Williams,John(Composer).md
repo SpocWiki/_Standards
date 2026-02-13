@@ -187,7 +187,7 @@ dv_has_:
     azb: جان ویلیامز
     bar: John Williams
     be: Джон Уільямс
-    be-tarask: Джон Ўільямз
+    be_tarask: Джон Ўільямз
     bg: Джон Уилямс
     bn: জন উইলিয়ামস
     bs: John Williams
@@ -199,8 +199,8 @@ dv_has_:
     de: John Williams
     el: Τζον Γουίλιαμς
     en: John Williams
-    en-ca: John Williams
-    en-gb: John Williams
+    en_ca: John Williams
+    en_gb: John Williams
     eo: John Williams
     es: John Williams
     et: John Williams
@@ -242,7 +242,7 @@ dv_has_:
     pag: John Williams
     pl: John Williams
     pt: John Williams
-    pt-br: John Williams
+    pt_br: John Williams
     ro: John Williams
     ru: Джон Уильямс
     sco: John Williams
@@ -265,12 +265,12 @@ dv_has_:
     xmf: ჯონ უილიამსი
     yue: 約翰·威廉士
     zh: 約翰·威廉斯
-    zh-cn: 约翰·威廉姆斯
-    zh-hans: 约翰·威廉姆斯
-    zh-hant: 約翰·威廉斯
-    zh-hk: 約翰·威廉士
-    zh-sg: 约翰·威廉姆斯
-    zh-tw: 約翰·威廉斯
+    zh_cn: 约翰·威廉姆斯
+    zh_hans: 约翰·威廉姆斯
+    zh_hant: 約翰·威廉斯
+    zh_hk: 約翰·威廉士
+    zh_sg: 约翰·威廉姆斯
+    zh_tw: 約翰·威廉斯
 ---
 # [[Williams,John(Composer)]] 
 

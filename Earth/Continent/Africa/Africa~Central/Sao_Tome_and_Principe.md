@@ -219,7 +219,7 @@ dv_is_:
 dv_has_:
   name_:
     ab: Сан-Томеи Принсипии
-    aeb-arab: ساو تومي و پرينسيپ
+    aeb_arab: ساو تومي و پرينسيپ
     af: São Tomé en Príncipe
     am: ሳን ቶሜ እና ፕሪንሲፔ
     ami: Sao tome and principe
@@ -238,7 +238,7 @@ dv_has_:
     bar: São Tomé u Príncipe
     bcl: Santo Tome asin Prinsipe
     be: Сан-Тамэ і Прынсіпі
-    be-tarask: Сан-Тамэ і Прынсыпі
+    be_tarask: Сан-Тамэ і Прынсыпі
     bew: Sint-Tomas èn Prins
     bg: Сао Томе и Принсипи
     bho: साओ टोम अउरी प्रिंसेप
@@ -250,14 +250,14 @@ dv_has_:
     bs: Sao Tome i Principe
     bxr: Сан-Томе ба Принсип
     ca: São Tomé i Príncipe
-    cbk-zam: Santo Tomé y Príncipe
+    cbk_zam: Santo Tomé y Príncipe
     cdo: São Tomé gâe̤ng Príncipe
     ce: Сан-Томе а Принсипи
     ceb: Sao Tome ug Principe
     ckb: ساوتۆمێ و پرینسیپی
     co: São Tomé è Príncipe
     crh: San Tome ve Prinsipi
-    crh-latn: San Tome ve Prinsipi
+    crh_latn: San Tome ve Prinsipi
     cs: Svatý Tomáš a Princův ostrov
     csb: Òstrowë Swiãtégò Tomasza i Ksążãcô
     cy: São Tomé a Príncipe
@@ -265,7 +265,7 @@ dv_has_:
     dag: Democratic Republic of São Tomé and Príncipe
     de: São Tomé und Príncipe
     de-at: São Tomé und Príncipe
-    de-ch: São Tomé und Príncipe
+    de_ch: São Tomé und Príncipe
     diq: São Tomé u Principe
     dsb: São Tomé a Príncipe
     dty: साओ टोम एन्ड प्रिन्सिपी
@@ -273,8 +273,8 @@ dv_has_:
     ee: São Tomé and Príncipe
     el: Σάο Τομέ και Πρίνσιπε
     en: São Tomé and Príncipe
-    en-ca: São Tomé and Príncipe
-    en-gb: São Tomé and Príncipe
+    en_ca: São Tomé and Príncipe
+    en_gb: São Tomé and Príncipe
     eo: Santomeo kaj Principeo
     es: Santo Tomé y Príncipe
     et: São Tomé ja Príncipe
@@ -369,7 +369,7 @@ dv_has_:
     nan: São Tomé kap Príncipe
     nb: São Tomé og Príncipe
     nds: São Tomé un Príncipe
-    nds-nl: São Tomé un Príncipe
+    nds_nl: São Tomé un Príncipe
     ne: साओ तोमे र प्रिन्सिपी
     new: साओ टोमे व प्रिन्सिप
     nl: Sao Tomé en Principe
@@ -390,7 +390,7 @@ dv_has_:
     pnb: ساو ٹومی تے برنسپی
     ps: سایوتومه او پرنسیپ
     pt: São Tomé e Príncipe
-    pt-br: São Tomé e Príncipe
+    pt_br: São Tomé e Príncipe
     qu: Santu Tumiy Prinsipipas
     rmy: São Tomé thai Príncipe
     ro: São Tomé și Príncipe
@@ -417,7 +417,7 @@ dv_has_:
     so: Sao Tome iyo Prinsipe
     sq: Sao Tome dhe Principe
     sr: Сао Томе и Принсипе
-    sr-ec: Сао Томе и Принсипе
+    sr_ec: Сао Томе и Принсипе
     ss: IThome ne Phrinsiphe
     st: São Tomé and Príncipe
     stq: Sao Tome un Principe
@@ -463,14 +463,14 @@ dv_has_:
     zea: São Tomé e Príncipe
     zgh: ⵙⴰⵡⵟⵓⵎⵉ ⴷ ⴱⵔⴰⵏⵙⵉⴱ
     zh: 圣多美和普林西比
-    zh-cn: 圣多美和普林西比
-    zh-hans: 圣多美和普林西比
-    zh-hant: 聖多美普林西比
-    zh-hk: 聖多美和普林西比
-    zh-mo: 聖多美和普林西比
+    zh_cn: 圣多美和普林西比
+    zh_hans: 圣多美和普林西比
+    zh_hant: 聖多美普林西比
+    zh_hk: 聖多美和普林西比
+    zh_mo: 聖多美和普林西比
     zh-my: 圣多美和普林西比
-    zh-sg: 圣多美和普林西比
-    zh-tw: 聖多美普林西比
+    zh_sg: 圣多美和普林西比
+    zh_tw: 聖多美普林西比
     zu: ISawu Tome noPhrinitshipeyi
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Sao_Tome_and_Principe

@@ -35,10 +35,10 @@ dv_has_:
     da: Linkeroever
     de: Left Bank
     de-at: Linkeroever
-    de-ch: Linkeroever
+    de_ch: Linkeroever
     en: Left Bank
-    en-ca: Linkeroever
-    en-gb: Linkeroever
+    en_ca: Linkeroever
+    en_gb: Linkeroever
     eo: Linkeroever
     es: Linkeroever
     et: Linkeroever
@@ -68,7 +68,7 @@ dv_has_:
     nap: Linkeroever
     nb: Linkeroever
     nds: Linkeroever
-    nds-nl: Linkeroever
+    nds_nl: Linkeroever
     nl: Left Bank
     nn: Linkeroever
     nrm: Linkeroever
@@ -77,7 +77,7 @@ dv_has_:
     pl: Linkeroever
     pms: Linkeroever
     pt: Linkeroever
-    pt-br: Linkeroever
+    pt_br: Linkeroever
     rm: Linkeroever
     ro: Linkeroever
     ru: Левый берег
@@ -86,7 +86,7 @@ dv_has_:
     sco: Linkeroever
     sk: Linkeroever
     sl: Linkeroever
-    sr-el: Linkeroever
+    sr_el: Linkeroever
     sv: Linkeroever
     sw: Linkeroever
     uk: Лівий берег (значення)

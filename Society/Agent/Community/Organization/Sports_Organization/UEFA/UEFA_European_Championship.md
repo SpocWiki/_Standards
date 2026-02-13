@@ -144,7 +144,7 @@ dv_has_:
     ban: Wimbakara Éropa UEFA
     bar: Fuaßboi-Europamoastaschaft
     be: Чэмпіянат Еўропы па футболе
-    be-tarask: Чэмпіянат Эўропы па футболе
+    be_tarask: Чэмпіянат Эўропы па футболе
     bg: Европейско първенство по футбол
     bn: উয়েফা ইউরোপীয় চ্যাম্পিয়নশিপ
     bs: Evropsko prvenstvo u nogometu
@@ -228,8 +228,8 @@ dv_has_:
     xmf: ევროპაშ ოკუჩხბურთე ჩემპიონატი
     yue: 歐洲國家盃
     zh: 歐洲足球錦標賽
-    zh-hant: 歐洲足球錦標賽
-    zh-tw: 歐洲足球錦標賽
+    zh_hant: 歐洲足球錦標賽
+    zh_tw: 歐洲足球錦標賽
 ---
 # [[UEFA_European_Championship]] 
 

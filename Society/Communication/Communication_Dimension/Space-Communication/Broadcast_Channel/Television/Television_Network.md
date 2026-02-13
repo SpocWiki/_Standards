@@ -65,7 +65,7 @@ dv_has_:
     ar: شبكة تلفزيون
     ast: cadena de televisión
     be: Тэлевізійны канал
-    be-tarask: тэлевізійная сетка
+    be_tarask: тэлевізійная сетка
     bg: Телевизионен оператор (компания)
     bn: টেলিভিশন নেটওয়ার্ক
     br: Rouedad skinwel
@@ -105,7 +105,7 @@ dv_has_:
     oc: cadena de television
     pl: sieć telewizyjna
     pt: rede de televisão
-    pt-br: rede de televisão
+    pt_br: rede de televisão
     ro: Rețea de canale de televiziune
     ru: телевизионная сеть
     sco: televeesion network
@@ -116,14 +116,14 @@ dv_has_:
     tl: network sa telebisyon
     tr: Televizyon ağı
     tt: телевизия челтәре
-    tt-cyrl: телевизион челтәр
+    tt_cyrl: телевизион челтәр
     uk: телевізійна мережа
     vec: cadena de tełevizion
     vi: mạng truyền hình
     zh: 電視聯播網
-    zh-hans: 电视联播网
-    zh-hant: 電視聯播網
-    zh-hk: 電視聯播網
+    zh_hans: 电视联播网
+    zh_hant: 電視聯播網
+    zh_hk: 電視聯播網
 ---
 # [[Television_Network]]
 

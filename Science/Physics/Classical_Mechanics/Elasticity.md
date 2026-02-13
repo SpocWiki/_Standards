@@ -91,7 +91,7 @@ dv_has_:
     ar: مرونة
     az: Elastiklik
     be: пругкасць
-    be-tarask: пругкасьць
+    be_tarask: пругкасьць
     bg: Еластична деформация
     bn: স্থিতিস্থাপকতা
     bs: Elastičnost (fizika)
@@ -130,7 +130,7 @@ dv_has_:
     ml: ഇലാസ്തികത
     mn: Уян налархай шинж чанар
     ms: keanjalan
-    ms-arab: کأنجلن
+    ms_arab: کأنجلن
     nan: Tân-sèng
     nb: elastisitet
     nl: elasticiteit
@@ -160,7 +160,7 @@ dv_has_:
     wuu: 弹性 (物理学)
     yue: 彈性
     zh: 弹性
-    zh-hant: 彈性
+    zh_hant: 彈性
 ---
 # [[Elasticity]] 
 

@@ -69,7 +69,7 @@ dv_has_:
     af: Omega Centauri
     ar: أوميجا قنطورس
     ast: Omega Centauri
-    be-tarask: Амэга Цэнтаўра
+    be_tarask: Амэга Цэнтаўра
     bs: Omega Centauri
     ca: Omega del Centaure
     cs: Omega Centauri
@@ -77,8 +77,8 @@ dv_has_:
     de: Omega Centauri
     el: Ωμέγα Κενταύρου
     en: Omega Centauri
-    en-ca: Omega Centauri
-    en-gb: Omega Centauri
+    en_ca: Omega Centauri
+    en_gb: Omega Centauri
     es: Omega Centauri
     et: Omega Centauri
     eu: Omega Centauri
@@ -107,7 +107,7 @@ dv_has_:
     oc: Omega Centauri
     pl: omega Centauri
     pt: Omega Centauri
-    pt-br: Omega Centauri
+    pt_br: Omega Centauri
     ro: Omega Centauri
     ru: омега Центавра
     sk: Omega Centauri

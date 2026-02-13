@@ -137,7 +137,7 @@ dv_has_:
     ban: Satua
     bcl: Osipon
     be: фальклор
-    be-tarask: фальклёр
+    be_tarask: фальклёр
     bg: народно творчество
     bn: লোকজ্ঞান
     br: folklor
@@ -151,12 +151,12 @@ dv_has_:
     cy: llên gwerin
     da: folkeminde
     de: Folklore
-    de-ch: Folklore
+    de_ch: Folklore
     dv: ނާޑުކަތާ
     el: λαογραφία
     en: folklore
-    en-ca: folklore
-    en-gb: folklore
+    en_ca: folklore
+    en_gb: folklore
     eo: folkloro
     es: folclore
     et: rahvaluule
@@ -194,7 +194,7 @@ dv_has_:
     ko: 민속
     ks: لوٗکہٕ اَدَب
     ku: folklor
-    ku-latn: folklor
+    ku_latn: folklor
     kv: Фольклор
     kw: Lien gwerin
     ky: Фольклор
@@ -232,7 +232,7 @@ dv_has_:
     pnb: لوک ریت
     ps: فوکلور پېژندنه
     pt: folclore
-    pt-br: Folclore
+    pt_br: Folclore
     ro: folclor
     ru: фольклор
     rue: фолклор
@@ -249,8 +249,8 @@ dv_has_:
     sn: Ngano
     sq: folklor
     sr: фолклор
-    sr-ec: фолклор
-    sr-el: folklor
+    sr_ec: фолклор
+    sr_el: folklor
     su: Folklor
     sv: folklore
     szl: folklor
@@ -276,9 +276,9 @@ dv_has_:
     yi: פאלקלאר
     yue: 民俗學
     zh: 民俗學
-    zh-hans: 民俗
-    zh-hant: 民俗
-    zh-tw: 民俗
+    zh_hans: 民俗
+    zh_hant: 民俗
+    zh_tw: 民俗
 ---
 # [[Folklore]] 
 

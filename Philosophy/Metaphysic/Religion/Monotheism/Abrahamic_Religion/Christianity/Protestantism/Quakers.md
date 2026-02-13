@@ -119,7 +119,7 @@ dv_has_:
     ast: Sociedá Relixosa de los Amigos
     az: Kvakerlər
     be: квакеры
-    be-tarask: квакеры
+    be_tarask: квакеры
     bg: Квакери
     br: Kevredigezh relijius ar Vignoned
     bs: Kvekeri
@@ -194,12 +194,12 @@ dv_has_:
     yi: געזעלשאפט פון פריינט
     yue: 公誼會
     zh: 貴格會
-    zh-cn: 贵格会
-    zh-hans: 贵格会
-    zh-hant: 貴格會
-    zh-hk: 貴格會
-    zh-sg: 贵格会
-    zh-tw: 貴格會
+    zh_cn: 贵格会
+    zh_hans: 贵格会
+    zh_hant: 貴格會
+    zh_hk: 貴格會
+    zh_sg: 贵格会
+    zh_tw: 貴格會
 ---
 # [[Quakers]] 
 

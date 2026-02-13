@@ -114,7 +114,7 @@ dv_has_:
     bar: Reechn
     bcl: Kagkag
     be: граблі
-    be-tarask: граблі
+    be_tarask: граблі
     bg: Гребло
     bn: রেক (সরঞ্জাম)
     br: Rastell
@@ -127,8 +127,8 @@ dv_has_:
     de: Rechen
     el: Τσουγκράνα
     en: rake
-    en-ca: Rake
-    en-gb: rake
+    en_ca: Rake
+    en_gb: rake
     en-us: rake
     eo: rastilo
     es: rastrillo
@@ -150,7 +150,7 @@ dv_has_:
     it: rastrello
     ja: 熊手
     kk: тырнауыш
-    kk-latn: tırnawş
+    kk_latn: tırnawş
     ko: 갈퀴
     ks: پَنٛجہٕ
     kv: Нарман
@@ -171,7 +171,7 @@ dv_has_:
     pam: Piruya
     pl: grabie
     pt: ancinho
-    pt-br: Ancinho
+    pt_br: Ancinho
     ro: greblă
     rsk: Граблї
     ru: грабли
@@ -183,8 +183,8 @@ dv_has_:
     sl: grablje
     sq: Rashqela
     sr: Грабуље
-    sr-ec: грабуље
-    sr-el: grabulje
+    sr_ec: грабуље
+    sr_el: grabulje
     sv: kratta
     szy: kelup
     th: คราด
@@ -199,12 +199,12 @@ dv_has_:
     yue: 耙
     zea: Rieve
     zh: 耙
-    zh-cn: 耙
-    zh-hans: 耙
-    zh-hant: 耙
-    zh-hk: 耙
-    zh-sg: 耙
-    zh-tw: 耙
+    zh_cn: 耙
+    zh_hans: 耙
+    zh_hant: 耙
+    zh_hk: 耙
+    zh_sg: 耙
+    zh_tw: 耙
 ---
 # [[Rake]] 
 

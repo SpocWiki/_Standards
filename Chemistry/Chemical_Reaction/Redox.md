@@ -126,7 +126,7 @@ dv_has_:
     az: oksidləşmə-reduksiya reaksiyaları
     ba: окисланыу-ҡайтарылыу реакциялары
     be: акісленне
-    be-tarask: затляняльна-аднаўленчая рэакцыя
+    be_tarask: затляняльна-аднаўленчая рэакцыя
     bg: окислително-редукционни процеси
     bn: জারণ-বিজারণ
     bs: redoks reakcija
@@ -137,11 +137,11 @@ dv_has_:
     cy: rhydocs
     da: redoxreaktion
     de: Redoxreaktion
-    de-ch: Redoxreaktion
+    de_ch: Redoxreaktion
     el: οξειδοαναγωγή
     en: redox
-    en-ca: redox
-    en-gb: redox
+    en_ca: redox
+    en_gb: redox
     eo: redoksa reakcio
     es: reducción-oxidación
     et: redoksreaktsioon
@@ -185,7 +185,7 @@ dv_has_:
     pl: reakcja redoks
     pnb: رڈاکس
     pt: oxirredução
-    pt-br: reação redox
+    pt_br: reação redox
     qu: uksiday
     ro: redox
     ru: окислительно-восстановительные реакции
@@ -208,8 +208,8 @@ dv_has_:
     wuu: 氧化还原反应
     yue: 氧化
     zh: 氧化还原反应
-    zh-hans: 氧化还原反应
-    zh-hant: 氧化還原反應
+    zh_hans: 氧化还原反应
+    zh_hant: 氧化還原反應
 ---
 # [[Redox]] 
 

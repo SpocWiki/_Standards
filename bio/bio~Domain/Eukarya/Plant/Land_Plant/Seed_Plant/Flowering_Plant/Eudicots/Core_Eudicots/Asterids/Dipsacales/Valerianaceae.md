@@ -71,8 +71,8 @@ dv_has_:
     ka: კატაბალახასებრნი
     ko: 마타리과
     ku: Famîleya giyakitikan
-    ku-arab: فامیلەیا گیاکتکان
-    ku-latn: Famîleya giyakitikan
+    ku_arab: فامیلەیا گیاکتکان
+    ku_latn: Famîleya giyakitikan
     ky: Валерианалар
     la: Valerianaceae
     lij: Valerianaceae
@@ -85,7 +85,7 @@ dv_has_:
     oc: Valerianaceae
     pl: Kozłkowate
     pt: Valerianaceae
-    pt-br: Valerianaceae
+    pt_br: Valerianaceae
     ro: Valerianaceae
     ru: Валериановые
     sh: Valerianaceae
@@ -99,12 +99,12 @@ dv_has_:
     vo: Valerianaceae
     war: Valerianaceae
     zh: 败酱科
-    zh-cn: 败酱科
-    zh-hans: 败酱科
-    zh-hant: 敗醬科
-    zh-hk: 敗醬科
-    zh-sg: 败酱科
-    zh-tw: 敗醬科
+    zh_cn: 败酱科
+    zh_hans: 败酱科
+    zh_hant: 敗醬科
+    zh_hk: 敗醬科
+    zh_sg: 败酱科
+    zh_tw: 敗醬科
 ---
 # [[Valerianaceae]] 
 

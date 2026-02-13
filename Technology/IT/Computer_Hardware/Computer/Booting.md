@@ -95,7 +95,7 @@ dv_has_:
     ar: إقلاع
     az: Başlatmaq
     be: загрузка аперацыйнай сістэмы
-    be-tarask: загрузчык апэрацыйнай сыстэмы
+    be_tarask: загрузчык апэрацыйнай сыстэмы
     bg: Стартиране (компютри)
     bn: বুটিং
     bs: Pokretanje (računarstvo)
@@ -103,10 +103,10 @@ dv_has_:
     cs: bootování
     da: Boot
     de: Booten
-    de-ch: Booten
+    de_ch: Booten
     en: booting
-    en-ca: booting
-    en-gb: booting
+    en_ca: booting
+    en_gb: booting
     eo: startigo
     es: arranque
     et: Alglaadimine
@@ -141,14 +141,14 @@ dv_has_:
     pl: bootowanie
     pms: Partensa
     pt: boot
-    pt-br: Boot
+    pt_br: Boot
     ru: загрузка операционной системы
     sk: Bootovanie
     sl: zagon
     sq: Booting
     sr: Pokretač operativnog sistema
-    sr-ec: Покретач оперативног система
-    sr-el: Pokretač operativnog sistema
+    sr_ec: Покретач оперативног система
+    sr_el: Pokretač operativnog sistema
     sv: Bootning
     sw: Zinduo
     ta: தொடக்க ஏற்றி
@@ -162,12 +162,12 @@ dv_has_:
     wuu: 引导程序
     yue: 起動程式
     zh: 啟動程式
-    zh-cn: 启动程序
-    zh-hans: 启动程式
-    zh-hant: 啟動程式
-    zh-hk: 啟動程式
-    zh-sg: 启动程序
-    zh-tw: 啟動程式
+    zh_cn: 启动程序
+    zh_hans: 启动程式
+    zh_hant: 啟動程式
+    zh_hk: 啟動程式
+    zh_sg: 启动程序
+    zh_tw: 啟動程式
 ---
 # [[Booting]] 
 

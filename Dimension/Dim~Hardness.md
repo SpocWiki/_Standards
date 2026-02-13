@@ -92,7 +92,7 @@ dv_has_:
     ar: صلادة
     ast: Durez
     az: Bərklik
-    be-tarask: цьвёрдасьць
+    be_tarask: цьвёрдасьць
     bg: Твърдост
     bs: Tvrdoća
     ca: duresa
@@ -102,8 +102,8 @@ dv_has_:
     de: Härte
     el: Σκληρότητα υλικών
     en: hardness
-    en-ca: Hardness
-    en-gb: hardness
+    en_ca: Hardness
+    en_gb: hardness
     eo: dureco
     es: dureza
     et: kõvadus
@@ -127,9 +127,9 @@ dv_has_:
     ja: 硬さ
     ka: სიმტკიცე
     kk: Қаттылық
-    kk-arab: قاتتىلىق
-    kk-cyrl: Қаттылық
-    kk-latn: Qattılıq
+    kk_arab: قاتتىلىق
+    kk_cyrl: Қаттылық
+    kk_latn: Qattılıq
     kn: ಕಾಠಿನ್ಯ
     ko: 굳기
     lt: kietis
@@ -145,7 +145,7 @@ dv_has_:
     os: хъæбæрдзинад
     pl: twardość
     pt: dureza
-    pt-br: dureza
+    pt_br: dureza
     ro: Duritate
     ru: твёрдость
     se: garasvuohta
@@ -156,8 +156,8 @@ dv_has_:
     sms: kõrrvuõtt
     sn: Hukukutu
     sr: тврдоћа
-    sr-ec: тврдоћа
-    sr-el: Tvrdina
+    sr_ec: тврдоћа
+    sr_el: Tvrdina
     sv: hårdhet
     tr: Sertlik
     uk: твердість
@@ -168,9 +168,9 @@ dv_has_:
     yi: הארטקייט
     yue: 硬度
     zh: 硬度
-    zh-hans: 硬度
-    zh-hant: 硬度
-    zh-hk: 硬度
+    zh_hans: 硬度
+    zh_hant: 硬度
+    zh_hk: 硬度
 ---
 # [[Dim~Hardness]] 
 

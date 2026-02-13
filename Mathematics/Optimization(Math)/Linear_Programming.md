@@ -80,7 +80,7 @@ dv_has_:
     ast: programación llinial
     az: Xətti proqramlaşdırma
     be: лінейнае праграмаванне
-    be-tarask: лінейнае праграмаваньне
+    be_tarask: лінейнае праграмаваньне
     bn: রৈখিক কাম্যতমকরণ
     bs: Linearno programiranje
     ca: programació lineal
@@ -108,7 +108,7 @@ dv_has_:
     it: programmazione lineare
     ja: 線型計画法
     kk: сызықтық бағдарламау
-    kk-latn: sızıqtıq bağdarlamaw
+    kk_latn: sızıqtıq bağdarlamaw
     ko: 선형 계획법
     ml: രേഖീയ ഉത്തമീകരണം
     nb: lineær programmering
@@ -126,8 +126,8 @@ dv_has_:
     sms: lineaarlaž programmʼmõš
     sq: Programimi linear
     sr: линеарно програмирање
-    sr-ec: линеарно програмирање
-    sr-el: linearno programiranje
+    sr_ec: линеарно програмирање
+    sr_el: linearno programiranje
     sv: linjärprogrammering
     th: กำหนดการเชิงเส้น
     tr: Doğrusal programlama
@@ -136,12 +136,12 @@ dv_has_:
     vi: Quy hoạch tuyến tính
     yue: 線性規劃
     zh: 线性规划
-    zh-cn: 线性规划
-    zh-hans: 线性规划
-    zh-hant: 線性規劃
-    zh-hk: 線性規劃
-    zh-sg: 线性规划
-    zh-tw: 線性規劃
+    zh_cn: 线性规划
+    zh_hans: 线性规划
+    zh_hant: 線性規劃
+    zh_hk: 線性規劃
+    zh_sg: 线性规划
+    zh_tw: 線性規劃
 ---
 # [[Linear_Programming]] 
 

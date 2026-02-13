@@ -112,7 +112,7 @@ dv_has_:
     ast: cubertería
     az: süfrə aksesuarları
     bar: Bschdegg
-    be-tarask: сталовыя прыборы
+    be_tarask: сталовыя прыборы
     bn: বাসনকোসন
     ca: coberteria
     ckb: قاپوقاچاغ
@@ -120,10 +120,10 @@ dv_has_:
     cy: cyllyll a ffyrc
     da: bestik
     de: Essbesteck
-    de-ch: Essbesteck
+    de_ch: Essbesteck
     el: μαχαιροπίρουνα
     en: cutlery
-    en-gb: cutlery
+    en_gb: cutlery
     eo: manĝilo
     es: cubertería
     et: söögiriist
@@ -159,7 +159,7 @@ dv_has_:
     nn: bestikk
     pl: sztućce
     pt: talher
-    pt-br: talher
+    pt_br: talher
     ro: cuțitar
     ru: столовые приборы
     shn: ၸေႃႉၸေႃႉမိတ်ႈမိတ်ႈ
@@ -176,7 +176,7 @@ dv_has_:
     yi: באשטעק
     yue: 刀具
     zh: 西方餐具
-    zh-hant: 西方餐具
+    zh_hant: 西方餐具
 ---
 # [[Cutlery]] 🍴 
 

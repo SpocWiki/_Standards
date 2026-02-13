@@ -146,7 +146,7 @@ dv_has_:
     bar: Gattung
     bbc: Genus
     be: род
-    be-tarask: род
+    be_tarask: род
     bg: род
     bho: जाति
     bjn: Genus
@@ -162,13 +162,13 @@ dv_has_:
     cy: genws
     da: slægt
     de: Gattung
-    de-ch: Gattung
+    de_ch: Gattung
     diq: Cıns
     dsb: Rod
     el: γένος
     en: genus
-    en-ca: Genus
-    en-gb: genus
+    en_ca: Genus
+    en_gb: genus
     eo: genro
     es: género
     et: perekond
@@ -208,7 +208,7 @@ dv_has_:
     ko: 속
     ks: جٲتؠ
     ku: cins
-    ku-latn: tuxm
+    ku_latn: tuxm
     ky: Түр жана түрлөр
     la: genus
     lb: Gattung
@@ -221,7 +221,7 @@ dv_has_:
     ml: ജീനസ്
     mn: Төрөл
     ms: genus
-    ms-arab: ݢينوس
+    ms_arab: ݢينوس
     mt: ġeneru
     my: မျိုးစု
     mzn: جنس
@@ -242,7 +242,7 @@ dv_has_:
     pms: Géner
     pnb: جنس
     pt: género
-    pt-br: gênero
+    pt_br: gênero
     qu: Rikch'ana
     ro: gen
     ru: род
@@ -271,8 +271,8 @@ dv_has_:
     tl: Sari
     tr: cins
     tt: ыру
-    tt-cyrl: ыру
-    tt-latn: ıru
+    tt_cyrl: ыру
+    tt_latn: ıru
     udm: род
     uk: рід
     ur: جنس
@@ -288,11 +288,11 @@ dv_has_:
     yi: מין
     yue: 屬
     zh: 属
-    zh-cn: 属
-    zh-hans: 属
-    zh-hant: 屬
-    zh-hk: 屬
-    zh-tw: 屬
+    zh_cn: 属
+    zh_hans: 属
+    zh_hant: 屬
+    zh_hk: 屬
+    zh_tw: 屬
 ---
 # [[bio~Genus]] 
 

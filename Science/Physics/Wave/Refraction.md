@@ -106,7 +106,7 @@ dv_has_:
     ast: Refraición
     az: İşığın sınması
     be: праламленне
-    be-tarask: пераламленьне
+    be_tarask: пераламленьне
     bew: Pemlèngsongan
     bg: Пречупване
     bn: আলোর প্রতিসরণ
@@ -193,9 +193,9 @@ dv_has_:
     yi: ברעכונג
     yue: 折射
     zh: 折射
-    zh-cn: 折射
-    zh-hans: 折射
-    zh-tw: 折射
+    zh_cn: 折射
+    zh_hans: 折射
+    zh_tw: 折射
 ---
 # [[Refraction]] 
 

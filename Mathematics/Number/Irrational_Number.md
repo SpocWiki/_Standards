@@ -112,7 +112,7 @@ dv_has_:
     az: İrrasional ədədlər
     ba: иррациональ һан
     be: ірацыянальны лік
-    be-tarask: ірацыянальны лік
+    be_tarask: ірацыянальны лік
     bg: Ирационално число
     bn: অমূলদ সংখ্যা
     bs: iracionalan broj
@@ -125,8 +125,8 @@ dv_has_:
     de: irrationale Zahl
     el: άρρητος αριθμός
     en: irrational number
-    en-ca: irrational number
-    en-gb: irrational number
+    en_ca: irrational number
+    en_gb: irrational number
     eo: neracionala nombro
     es: número irracional
     et: irratsionaalarvud
@@ -175,7 +175,7 @@ dv_has_:
     pa: ਅਪਰਿਮੇਯ ਸੰਖਿਆ
     pl: liczba niewymierna
     pt: número irracional
-    pt-br: número irracional
+    pt_br: número irracional
     ro: număr irațional
     ru: иррациональное число
     scn: nùmmuru irrazziunali
@@ -186,7 +186,7 @@ dv_has_:
     smn: irrationaalloho
     sq: numër irracional
     sr: ирационалан број
-    sr-ec: Ирационалан број
+    sr_ec: Ирационалан број
     sv: irrationellt tal
     sw: Namba isiyowiana
     ta: விகிதமுறா எண்
@@ -205,14 +205,14 @@ dv_has_:
     yo: Nọ́mbà aláìníìpín
     yue: 無理數
     zh: 無理數
-    zh-cn: 无理数
-    zh-hans: 无理数
-    zh-hant: 無理數
-    zh-hk: 無理數
-    zh-mo: 無理數
+    zh_cn: 无理数
+    zh_hans: 无理数
+    zh_hant: 無理數
+    zh_hk: 無理數
+    zh_mo: 無理數
     zh-my: 无理数
-    zh-sg: 无理数
-    zh-tw: 無理數
+    zh_sg: 无理数
+    zh_tw: 無理數
 ---
 # [[Irrational_Number]] 
 

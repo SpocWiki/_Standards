@@ -29,8 +29,8 @@ dv_has_:
     de: Paul Stanley
     eml: Paul Stanley
     en: Paul Stanley
-    en-ca: Paul Stanley
-    en-gb: Paul Stanley
+    en_ca: Paul Stanley
+    en_gb: Paul Stanley
     es: Paul Stanley
     eu: Paul Stanley
     fa: پال استنلی
@@ -54,7 +54,7 @@ dv_has_:
     pap: Paul Stanley
     pl: Paul Stanley
     pt: Paul Stanley
-    pt-br: Paul Stanley
+    pt_br: Paul Stanley
     ru: Пол Стэнли
     sh: Paul Stanley
     sk: Paul Stanley

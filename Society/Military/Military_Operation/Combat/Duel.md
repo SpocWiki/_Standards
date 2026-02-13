@@ -81,7 +81,7 @@ dv_has_:
     az: Duel
     bcl: Duelo
     be: дуэль
-    be-tarask: дуэль
+    be_tarask: дуэль
     bew: Jejabanan
     bg: Дуел
     br: Duvell
@@ -126,7 +126,7 @@ dv_has_:
     ms: perang tanding
     mt: dwell
     nb: duell
-    nds-nl: tweekamp
+    nds_nl: tweekamp
     nl: tweegevecht
     nn: duell
     oc: Duèl
@@ -138,8 +138,8 @@ dv_has_:
     sl: dvoboj
     sq: Dyluftimi
     sr: двобој
-    sr-ec: двобој
-    sr-el: dvoboj
+    sr_ec: двобој
+    sr_el: dvoboj
     sv: duell
     tr: Düello
     uk: дуель
@@ -147,12 +147,12 @@ dv_has_:
     yi: דועל
     yue: 決鬥
     zh: 決鬥
-    zh-cn: 决斗
-    zh-hans: 决斗
-    zh-hant: 決鬥
-    zh-hk: 決鬥
-    zh-sg: 决斗
-    zh-tw: 決鬥
+    zh_cn: 决斗
+    zh_hans: 决斗
+    zh_hant: 決鬥
+    zh_hk: 決鬥
+    zh_sg: 决斗
+    zh_tw: 決鬥
 ---
 # [[Duel]] 
 

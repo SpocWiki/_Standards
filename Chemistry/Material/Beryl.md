@@ -90,7 +90,7 @@ dv_has_:
     ast: berilu
     az: Beril
     be: Берыл
-    be-tarask: Бэрыль
+    be_tarask: Бэрыль
     bg: Берил
     bs: Beril
     ca: beril
@@ -101,8 +101,8 @@ dv_has_:
     de: Beryll
     el: βήρυλλος
     en: beryl
-    en-ca: Beryl
-    en-gb: beryl
+    en_ca: Beryl
+    en_gb: beryl
     eo: Berilo
     es: berilo
     et: berüll
@@ -123,11 +123,11 @@ dv_has_:
     ja: 緑柱石
     ka: ბივრილი
     kk: Берилл
-    kk-arab: بەرىيلل
+    kk_arab: بەرىيلل
     kk-cn: بەرىيلل
-    kk-cyrl: Берилл
+    kk_cyrl: Берилл
     kk-kz: Берилл
-    kk-latn: Berïll
+    kk_latn: Berïll
     kk-tr: Berïll
     ko: 녹주석
     kw: beryl
@@ -146,7 +146,7 @@ dv_has_:
     nn: beryll
     pl: beryl
     pt: berilo
-    pt-br: Berilo
+    pt_br: Berilo
     rki: မျက်ရွဲ
     ro: beril
     ru: берилл
@@ -158,8 +158,8 @@ dv_has_:
     sk: Beryl
     sl: beril
     sr: берил
-    sr-ec: Берил
-    sr-el: Beril
+    sr_ec: Берил
+    sr_el: Beril
     sv: beryll
     ta: பெரில்
     tcy: ಪಚ್ಚೆ
@@ -175,12 +175,12 @@ dv_has_:
     wuu: 绿柱石
     yue: 綠柱石
     zh: 綠柱石
-    zh-cn: 绿柱石
-    zh-hans: 绿柱石
-    zh-hant: 綠柱石
-    zh-hk: 綠柱石
-    zh-sg: 绿柱石
-    zh-tw: 綠柱石
+    zh_cn: 绿柱石
+    zh_hans: 绿柱石
+    zh_hant: 綠柱石
+    zh_hk: 綠柱石
+    zh_sg: 绿柱石
+    zh_tw: 綠柱石
 dv_is_:
   same_as:
   - '[[../../WikiData/WD~Beryl,103480|WD~Beryl,103480]]'

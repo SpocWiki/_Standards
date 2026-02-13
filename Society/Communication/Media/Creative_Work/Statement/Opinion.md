@@ -92,7 +92,7 @@ dv_has_:
     ar: رأي
     az: Rəy
     be: меркаванне
-    be-tarask: меркаваньне
+    be_tarask: меркаваньне
     bg: Мнение
     bn: মতামত
     br: Ali (soñj)
@@ -105,8 +105,8 @@ dv_has_:
     de: Meinung
     el: γνώμη
     en: opinion
-    en-ca: opinion
-    en-gb: opinion
+    en_ca: opinion
+    en_gb: opinion
     eo: opinio
     es: opinión
     et: arvamus
@@ -133,7 +133,7 @@ dv_has_:
     lv: viedoklis
     mk: мислење
     ms: pendapat
-    ms-arab: ڤنداڤت
+    ms_arab: ڤنداڤت
     mt: fehma
     my: ပြည်သူ့သဘောထား
     nb: mening
@@ -142,7 +142,7 @@ dv_has_:
     pl: opinia
     pms: Opinion
     pt: opinião
-    pt-br: opinião
+    pt_br: opinião
     ro: opinie
     ru: мнение
     scn: Upinioni
@@ -153,7 +153,7 @@ dv_has_:
     sl: mnenje
     sq: opinioni
     sr: мишљење
-    sr-ec: opinion
+    sr_ec: opinion
     sv: åsikt
     ta: கருத்து
     te: అభిప్రాయం
@@ -168,8 +168,8 @@ dv_has_:
     yo: èrò
     yue: 意見
     zh: 意見
-    zh-hant: 意見
-    zh-tw: 意見
+    zh_hant: 意見
+    zh_tw: 意見
     zu: Uvo
 ---
 # [[Opinion]] 

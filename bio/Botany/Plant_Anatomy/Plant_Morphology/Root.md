@@ -17,7 +17,7 @@ dv_has_:
     bcl: gamot
     bdr: gamut
     be: корань
-    be-tarask: корань
+    be_tarask: корань
     bg: корен
     bn: মূল
     bo: རྩ་བ།
@@ -71,7 +71,7 @@ dv_has_:
     ko: 뿌리
     ks: موٗل
     ku: reh
-    ku-latn: reg
+    ku_latn: reg
     ky: тамыр
     la: radix
     li: Root
@@ -128,7 +128,7 @@ dv_has_:
     tl: ugat
     tr: kök
     tt: тамыр
-    tt-cyrl: тамыр
+    tt_cyrl: тамыр
     udm: выжы
     ug: يىلتىز
     uk: корінь
@@ -143,8 +143,8 @@ dv_has_:
     yue: 根
     za: rag
     zh: 根
-    zh-hans: 根
-    zh-hant: 根
+    zh_hans: 根
+    zh_hant: 根
 aliases:
 - Akah
 - akar

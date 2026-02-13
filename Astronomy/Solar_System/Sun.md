@@ -868,7 +868,7 @@ dv_has_:
     ace: Mata uroe
     acm: شمس
     ady: Тыгъэ
-    aeb-arab: الشمس
+    aeb_arab: الشمس
     af: Son
     am: ፀሐይ
     ami: Cidal
@@ -894,7 +894,7 @@ dv_has_:
     bar: Sun
     bcl: Saldang
     be: Сонца
-    be-tarask: Сонца
+    be_tarask: Сонца
     bew: Mataari
     bg: Слънце
     bho: सूर्य
@@ -910,7 +910,7 @@ dv_has_:
     bug: ᨆᨈᨕᨛᨔᨚ
     bxr: Наран
     ca: Sol
-    cbk-zam: Sol
+    cbk_zam: Sol
     cdo: Nĭk-tàu
     ce: Малх
     ceb: Adlaw
@@ -921,7 +921,7 @@ dv_has_:
     co: Soli
     cr: ᒌᔑᑳᐅᐲᓯᒻ
     crh: Küneş
-    crh-latn: Küneş
+    crh_latn: Küneş
     cs: Slunce
     csb: Słuńce
     cu: Слъньцє
@@ -930,7 +930,7 @@ dv_has_:
     da: Solen
     dag: Wuntaŋa
     de: Sonne
-    de-ch: Sonne
+    de_ch: Sonne
     dga: Ŋmenaa
     din: Akɔ̈l
     diq: Roc
@@ -943,8 +943,8 @@ dv_has_:
     el: Ήλιος
     eml: Såul
     en: Sun
-    en-ca: Sun
-    en-gb: Sun
+    en_ca: Sun
+    en_gb: Sun
     en-us: Sun
     eo: Suno
     es: Sol
@@ -1047,7 +1047,7 @@ dv_has_:
     mad: Are
     mag: सूरुज
     mai: सूर्य
-    map-bms: Srengenge
+    map_bms: Srengenge
     mdf: Шись
     mg: Masoandro
     mhr: Кече
@@ -1062,7 +1062,7 @@ dv_has_:
     mr: सूर्य
     mrj: Кечӹ (астрономи)
     ms: Matahari
-    ms-arab: ماتاهاري
+    ms_arab: ماتاهاري
     mt: Xemx
     mwl: Sol
     my: နေ
@@ -1074,7 +1074,7 @@ dv_has_:
     nap: Sole
     nb: solen
     nds: Sünn
-    nds-nl: zunne
+    nds_nl: zunne
     ne: सूर्य
     new: सूर्द्य
     nia: Luo
@@ -1105,7 +1105,7 @@ dv_has_:
     pnt: Ήλος
     ps: لمر
     pt: Sol
-    pt-br: Sol
+    pt_br: Sol
     pwn: qadaw
     qu: Inti
     rm: Sulegl
@@ -1141,8 +1141,8 @@ dv_has_:
     so: Qorax
     sq: Diell
     sr: Сунце
-    sr-ec: Сунце
-    sr-el: Sunce
+    sr_ec: Сунце
+    sr_el: Sunce
     srn: Son
     stq: Sunne
     su: Panonpoé
@@ -1167,7 +1167,7 @@ dv_has_:
     tr: Güneş
     trv: Hido
     tt: Кояш
-    tt-cyrl: Кояш
+    tt_cyrl: Кояш
     tum: Zuwa
     tw: Ewia
     tyv: Хүн
@@ -1196,14 +1196,14 @@ dv_has_:
     zea: Zunne
     zgh: ⵜⴰⴼⵓⴽⵜ
     zh: 太阳
-    zh-cn: 太阳
-    zh-hans: 太阳
-    zh-hant: 太阳
-    zh-hk: 太陽
-    zh-mo: 太陽
+    zh_cn: 太阳
+    zh_hans: 太阳
+    zh_hant: 太阳
+    zh_hk: 太陽
+    zh_mo: 太陽
     zh-my: 太阳
-    zh-sg: 太阳
-    zh-tw: 太陽
+    zh_sg: 太阳
+    zh_tw: 太陽
     zu: Ilanga
 ---
 # [[Sun]] 

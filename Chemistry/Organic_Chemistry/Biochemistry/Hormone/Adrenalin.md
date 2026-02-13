@@ -218,7 +218,7 @@ dv_has_:
     az: Adrenalin
     azb: اپینفرین
     be: адрэналін
-    be-tarask: адрэналін
+    be_tarask: адрэналін
     bg: Адреналин
     bho: एड्रेनेलिन
     bn: অ্যাড্রেনালিন
@@ -253,16 +253,16 @@ dv_has_:
     ja: アドレナリン
     ka: ადრენალინი
     kk: Адреналин
-    kk-arab: ادرەنالىين
+    kk_arab: ادرەنالىين
     kk-cn: ادرەنالىين
-    kk-cyrl: Адреналин
+    kk_cyrl: Адреналин
     kk-kz: Адреналин
-    kk-latn: Adrenalïn
+    kk_latn: Adrenalïn
     kk-tr: Adrenalïn
     ko: 아드레날린
     ku: Adrênalîn
-    ku-arab: ئادرێنالین
-    ku-latn: Adrênalîn
+    ku_arab: ئادرێنالین
+    ku_latn: Adrênalîn
     ky: Адреналин
     la: adrenalinum
     lo: ອາດຣີນາລີນ
@@ -291,8 +291,8 @@ dv_has_:
     sms: adrenaliin
     sq: Adrenalina
     sr: адреналин
-    sr-ec: адреналин
-    sr-el: Adrenalin
+    sr_ec: адреналин
+    sr_el: Adrenalin
     su: Adrénalin
     sv: adrenalin
     ta: எபிநெப்ரின்
@@ -308,12 +308,12 @@ dv_has_:
     wuu: 肾上腺素
     yue: 腎上腺素
     zh: 肾上腺素
-    zh-cn: 肾上腺素
-    zh-hans: 肾上腺素
-    zh-hant: 腎上腺素
-    zh-hk: 腎上腺素
-    zh-sg: 肾上腺素
-    zh-tw: 腎上腺素
+    zh_cn: 肾上腺素
+    zh_hans: 肾上腺素
+    zh_hant: 腎上腺素
+    zh_hk: 腎上腺素
+    zh_sg: 肾上腺素
+    zh_tw: 腎上腺素
 ---
 # [[Adrenalin]] 
 

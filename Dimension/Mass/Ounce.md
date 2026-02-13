@@ -103,7 +103,7 @@ dv_has_:
     az: Unsiya
     ba: унция
     be: унцыя
-    be-tarask: унцыя
+    be_tarask: унцыя
     bg: oz
     bn: আউন্স
     br: oñs
@@ -158,11 +158,11 @@ dv_has_:
     sl: unča
     sq: dërhemi
     sr: унца
-    sr-ec: унца
+    sr_ec: унца
     sv: uns
     sw: wakia
     ta: அவுன்சு
-    tg-cyrl: унсия
+    tg_cyrl: унсия
     th: ออนซ์
     tr: ons
     tt: унция

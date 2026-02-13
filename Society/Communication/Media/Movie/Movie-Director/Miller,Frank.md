@@ -71,7 +71,7 @@ dv_has_:
     pap: Frank Miller
     pl: Frank Miller
     pt: Frank Miller
-    pt-br: Frank Miller
+    pt_br: Frank Miller
     ro: Frank Miller
     ru: Фрэнк Миллер
     sco: Frank Miller
@@ -79,8 +79,8 @@ dv_has_:
     sl: Frank Miller
     sq: Frank Miller
     sr: Френк Милер
-    sr-ec: Френк Милер
-    sr-el: Frenk Miler
+    sr_ec: Френк Милер
+    sr_el: Frenk Miler
     sv: Frank Miller
     tr: Frank Miller
     uk: Френк Міллер
@@ -88,12 +88,12 @@ dv_has_:
     yo: Frank Miller
     yue: 法蘭米拿
     zh: 弗兰克·米勒
-    zh-cn: 弗兰克·米勒
-    zh-hans: 弗兰克·米勒
-    zh-hant: 法蘭克·米勒
-    zh-hk: 法蘭·米拿
-    zh-sg: 弗兰克·米勒
-    zh-tw: 法蘭克·米勒
+    zh_cn: 弗兰克·米勒
+    zh_hans: 弗兰克·米勒
+    zh_hant: 法蘭克·米勒
+    zh_hk: 法蘭·米拿
+    zh_sg: 弗兰克·米勒
+    zh_tw: 法蘭克·米勒
 ---
 #has_/time_/started :: 1957-01-27
 

@@ -73,7 +73,7 @@ dv_has_:
     ast: Rocky Marciano
     az: Rokki Marsiano
     be: Рокі Марчыяна
-    be-tarask: Рокі Марчыяна
+    be_tarask: Рокі Марчыяна
     bg: Роки Марчиано
     ca: Rocky Marciano
     ce: Рокки Марчиано
@@ -103,11 +103,11 @@ dv_has_:
     ja: ロッキー・マルシアノ
     ka: როკი მარჩიანო
     kk: Рокки Марчиано
-    kk-arab: روككىي مارتشىيانو
+    kk_arab: روككىي مارتشىيانو
     kk-cn: روككىي مارتشىيانو
-    kk-cyrl: Рокки Марчиано
+    kk_cyrl: Рокки Марчиано
     kk-kz: Рокки Марчиано
-    kk-latn: Rokkï Marçïano
+    kk_latn: Rokkï Marçïano
     kk-tr: Rokkï Marçïano
     ko: 로키 마르시아노
     lt: Rocky Marciano
@@ -118,15 +118,15 @@ dv_has_:
     nn: Rocky Marciano
     pl: Rocky Marciano
     pt: Rocky Marciano
-    pt-br: Rocky Marciano
+    pt_br: Rocky Marciano
     qu: Rocky Marciano
     ro: Rocky Marciano
     ru: Рокки Марчиано
     sk: Rocky Marciano
     sq: Rocky Marciano
     sr: Roki Marčano
-    sr-ec: Роки Марчано
-    sr-el: Roki Marčano
+    sr_ec: Роки Марчано
+    sr_el: Roki Marčano
     sv: Rocky Marciano
     th: รอคกี มาร์ซีอาโน
     tr: Rocky Marciano
@@ -137,12 +137,12 @@ dv_has_:
     xmf: როკი მარჩიანო
     yue: 洛奇·馬西安諾
     zh: 洛基·馬西安諾
-    zh-cn: 洛奇·马西安诺
-    zh-hans: 洛基·马西安诺
-    zh-hant: 洛基·馬西安諾
-    zh-hk: 洛奇·馬西安諾
-    zh-sg: 洛奇·马西安诺
-    zh-tw: 洛基·馬西安諾
+    zh_cn: 洛奇·马西安诺
+    zh_hans: 洛基·马西安诺
+    zh_hant: 洛基·馬西安諾
+    zh_hk: 洛奇·馬西安諾
+    zh_sg: 洛奇·马西安诺
+    zh_tw: 洛基·馬西安諾
 ---
 # [[Marciano,Rocky]] 
 

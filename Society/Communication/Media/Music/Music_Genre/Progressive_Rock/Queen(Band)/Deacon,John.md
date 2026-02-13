@@ -118,7 +118,7 @@ dv_has_:
     pl: John Deacon
     pms: John Deacon
     pt: John Deacon
-    pt-br: John Deacon
+    pt_br: John Deacon
     ro: John Deacon
     ru: Джон Дикон
     scn: John Deacon
@@ -126,8 +126,8 @@ dv_has_:
     sl: John Deacon
     sq: John Deacon
     sr: Џон Дикон
-    sr-ec: Џон Дикон
-    sr-el: Džon Dikon
+    sr_ec: Џон Дикон
+    sr_el: Džon Dikon
     su: John Deacon
     sv: John Deacon
     tr: John Deacon
@@ -136,12 +136,12 @@ dv_has_:
     vi: John Deacon
     yue: 約翰·迪肯
     zh: 约翰·迪肯
-    zh-cn: 约翰·迪肯
-    zh-hans: 约翰·迪肯
-    zh-hant: 約翰·迪肯
-    zh-hk: 約翰·迪肯
-    zh-sg: 约翰·迪肯
-    zh-tw: 約翰·迪肯
+    zh_cn: 约翰·迪肯
+    zh_hans: 约翰·迪肯
+    zh_hant: 約翰·迪肯
+    zh_hk: 約翰·迪肯
+    zh_sg: 约翰·迪肯
+    zh_tw: 約翰·迪肯
 ---
 ﻿
 # [[Deacon,John]] 

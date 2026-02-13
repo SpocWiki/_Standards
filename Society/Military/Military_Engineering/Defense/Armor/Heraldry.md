@@ -95,7 +95,7 @@ dv_has_:
     az: Heraldika
     ba: Геральдика
     be: геральдыка
-    be-tarask: геральдыка
+    be_tarask: геральдыка
     bg: Хералдика
     br: ardamezouriezh
     bs: heraldika
@@ -107,8 +107,8 @@ dv_has_:
     de: Heraldik
     el: Εραλδική
     en: heraldry
-    en-ca: Heraldry
-    en-gb: heraldry
+    en_ca: Heraldry
+    en_gb: heraldry
     eo: heraldiko
     es: heráldica
     et: heraldika
@@ -153,7 +153,7 @@ dv_has_:
     os: геральдикæ
     pl: heraldyka
     pt: heráldica
-    pt-br: heráldica
+    pt_br: heráldica
     ro: heraldică
     ru: геральдика
     scn: Aràldica
@@ -185,9 +185,9 @@ dv_has_:
     xmf: ჰერალდიკა
     yue: 紋章學
     zh: 纹章学
-    zh-cn: 纹章学
-    zh-hans: 纹章学
-    zh-hant: 纹章学
+    zh_cn: 纹章学
+    zh_hans: 纹章学
+    zh_hant: 纹章学
 ---
 # [[Heraldry]] 
 

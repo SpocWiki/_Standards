@@ -119,7 +119,7 @@ dv_has_:
     az: Hammurapi qanunları
     ba: Хаммурапи ҡанундары
     be: Звод законаў Хамурапі
-    be-tarask: звод законаў Хамурапі
+    be_tarask: звод законаў Хамурапі
     bg: Законник на Хамурапи
     bn: হাম্মুরাবির আইন
     bs: Hamurabijev zakonik
@@ -153,16 +153,16 @@ dv_has_:
     ka: ხამურაბის კანონები
     kaa: Xammurapi nızamları
     kk: Хаммурапи заңдары
-    kk-arab: حاممۋراپىي زاڭدارى
+    kk_arab: حاممۋراپىي زاڭدارى
     kk-cn: حاممۋراپىي زاڭدارى
-    kk-cyrl: Хаммурапи заңдары
+    kk_cyrl: Хаммурапи заңдары
     kk-kz: Хаммурапи заңдары
-    kk-latn: Xammwrapï zañdarı
+    kk_latn: Xammwrapï zañdarı
     kk-tr: Xammwrapï zañdarı
     ko: 함무라비 법전
     ku: Zagonên Hamurabî
-    ku-arab: زاگۆنێن حامورابی
-    ku-latn: Zagonên Hamurabî
+    ku_arab: زاگۆنێن حامورابی
+    ku_latn: Zagonên Hamurabî
     ky: Хаммурапинин мыйзамдары
     la: Codex Hammurabi
     lb: Codex vum Hammurabi
@@ -191,8 +191,8 @@ dv_has_:
     sk: Chammu-rabiho zákonník
     sl: Hamurabijev zakonik
     sr: Хамурабијев законик
-    sr-ec: Хамурабијев законик
-    sr-el: Hamurabijev zakonik
+    sr_ec: Хамурабијев законик
+    sr_el: Hamurabijev zakonik
     sv: Hammurabis lagar
     th: ประมวลกฎหมายฮัมมูราบี
     tl: Kodigo ni Hammurabi
@@ -205,12 +205,12 @@ dv_has_:
     yi: קאדעקס כאמוראבי
     yue: 漢摩拉比法典
     zh: 汉谟拉比法典
-    zh-cn: 汉谟拉比法典
-    zh-hans: 汉谟拉比法典
-    zh-hant: 漢謨拉比法典
-    zh-hk: 漢謨拉比法典
-    zh-sg: 汉谟拉比法典
-    zh-tw: 漢謨拉比法典
+    zh_cn: 汉谟拉比法典
+    zh_hans: 汉谟拉比法典
+    zh_hant: 漢謨拉比法典
+    zh_hk: 漢謨拉比法典
+    zh_sg: 汉谟拉比法典
+    zh_tw: 漢謨拉比法典
 ---
 # [[Code_of_Hammurabi]] 
 

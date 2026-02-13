@@ -80,7 +80,7 @@ dv_has_:
     az: Vurma cədvəli
     ba: ҡабатлау таблицаһы
     be: табліца памнажэння
-    be-tarask: табліца множаньня
+    be_tarask: табліца множаньня
     bo: བོད་རྩིས་ཀྱི་སྒྱུར་སྡོམ་གྱི་མན་ངག་ཅིག
     ca: taula de multiplicar
     cs: násobilka
@@ -136,7 +136,7 @@ dv_has_:
     sv: multiplikationstabell
     ta: பெருக்கல் வாய்ப்பாடு
     tg: Ҷадвали Пифагор
-    tg-latn: Çadvali Pifagor
+    tg_latn: Çadvali Pifagor
     th: สูตรคูณ
     tr: Çarpım tablosu
     uk: таблиця множення
@@ -146,12 +146,12 @@ dv_has_:
     wuu: 乘法表
     yue: 乘數表
     zh: 乘法表
-    zh-cn: 乘法表
-    zh-hans: 乘法表
-    zh-hant: 乘法表
-    zh-hk: 乘法表
-    zh-sg: 乘法表
-    zh-tw: 乘法表
+    zh_cn: 乘法表
+    zh_hans: 乘法表
+    zh_hant: 乘法表
+    zh_hk: 乘法表
+    zh_sg: 乘法表
+    zh_tw: 乘法表
 ---
 # [[Multiplication_Table]] 
 

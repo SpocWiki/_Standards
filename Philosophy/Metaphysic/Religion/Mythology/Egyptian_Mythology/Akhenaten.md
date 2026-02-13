@@ -61,7 +61,7 @@ dv_has_:
     az: Exnaton
     azb: آخن آتون
     be: Эхнатон
-    be-tarask: Эхнатон
+    be_tarask: Эхнатон
     bg: Ехнатон
     bn: আখেনাতেন
     br: Ac'henaton
@@ -75,8 +75,8 @@ dv_has_:
     de: Echnaton
     el: Ακενατόν
     en: Akhenaten
-    en-ca: Akhenaten
-    en-gb: Akhenaten
+    en_ca: Akhenaten
+    en_gb: Akhenaten
     eo: Aĥnaton
     es: Akenatón
     et: Ehnaton
@@ -113,7 +113,7 @@ dv_has_:
     nan: Akhenaten
     nb: Akhnaton
     nds: Echnaton
-    nds-nl: Akhenaten
+    nds_nl: Akhenaten
     new: अखेनातेन
     nl: Achnaton
     nn: Akhnaton
@@ -122,7 +122,7 @@ dv_has_:
     pl: Echnaton
     pnb: ریان بن الولید
     pt: Akhenaton
-    pt-br: Aquenáton
+    pt_br: Aquenáton
     ro: Akhenaten
     ru: Эхнатон
     sat: ᱟᱠᱷᱮᱱᱟᱛᱮᱱ
@@ -152,7 +152,7 @@ dv_has_:
     yo: Akhenaten
     yue: 阿肯那頓
     zh: 阿肯那顿
-    zh-cn: 埃赫那吞
+    zh_cn: 埃赫那吞
 ---
 # [[Akhenaten]] 
 

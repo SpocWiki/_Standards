@@ -333,7 +333,7 @@ dv_has_:
     bar: Guam
     bcl: Guwahan
     be: Гуам
-    be-tarask: Гуам
+    be_tarask: Гуам
     bg: Гуам
     bn: গুয়াম
     bpy: গুৱাম
@@ -341,7 +341,7 @@ dv_has_:
     bs: Guam
     bto: Guwahan
     ca: Guam
-    cbk-zam: Guaján
+    cbk_zam: Guaján
     cdo: Guam
     ce: Гуам
     ceb: Guwahan
@@ -401,7 +401,7 @@ dv_has_:
     kaa: Guam
     kge: Guam
     kk: Гуам
-    kk-cyrl: Гуам
+    kk_cyrl: Гуам
     km: កោះហ្គាំ
     kn: ಗುವಾಮ್
     ko: 괌
@@ -470,7 +470,7 @@ dv_has_:
     so: Guam
     sq: Guam
     sr: Гвам
-    sr-ec: Гвам
+    sr_ec: Гвам
     su: Guam
     sv: Guam
     sw: Guam
@@ -478,7 +478,7 @@ dv_has_:
     ta: குவாம்
     te: గువామ్
     tg: Гуам
-    tg-cyrl: Гуам
+    tg_cyrl: Гуам
     th: กวม
     tk: Guam
     tl: Guwahan
@@ -499,10 +499,10 @@ dv_has_:
     yo: Guam
     yue: 關島
     zh: 關島
-    zh-hans: 关岛
-    zh-hant: 關島
-    zh-hk: 關島
-    zh-tw: 關島
+    zh_hans: 关岛
+    zh_hant: 關島
+    zh_hk: 關島
+    zh_tw: 關島
 ---
 # [[Guam]] 
 

@@ -132,7 +132,7 @@ dv_has_:
     az: Nasos
     ba: Насос
     be: Насос
-    be-tarask: Помпа
+    be_tarask: Помпа
     bg: Помпа
     bn: বায়ুযন্ত্র মণ্ডল
     br: Pomp Aer

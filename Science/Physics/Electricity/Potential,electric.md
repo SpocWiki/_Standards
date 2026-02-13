@@ -108,7 +108,7 @@ dv_has_:
     azb: الکتریک پوتانسیئلی
     bar: elektrisches Potenziäu
     be: электрычны патэнцыял
-    be-tarask: электрычны патэнцыял
+    be_tarask: электрычны патэнцыял
     bg: електричен потенциал
     bn: তড়িৎ বিভব
     bs: električni potencijal
@@ -118,11 +118,11 @@ dv_has_:
     cv: электростатикăлла потенциал
     da: elektrisk potential
     de: elektrisches Potential
-    de-ch: elektrostatik Potential
+    de_ch: elektrostatik Potential
     el: ηλεκτρικό δυναμικό
     en: electric potential
-    en-ca: electric potential
-    en-gb: electric potential
+    en_ca: electric potential
+    en_gb: electric potential
     eo: elektra potencialo
     es: potencial eléctrico
     et: elektrivälja potentsiaal
@@ -148,14 +148,14 @@ dv_has_:
     mn: цахилгаан потенциал
     mr: विद्युत विभव
     ms: keupayaan elektrik
-    ms-arab: کأوڤاياءن ايليکتريک
+    ms_arab: کأوڤاياءن ايليکتريک
     nb: elektrisk potensial
     nl: elektrische potentiaal
     nn: elektrisk potensial
     or: ବିଦ୍ୟୁତ୍ ବିଭବ
     pl: potencjał elektryczny
     pt: potencial elétrico
-    pt-br: potencial elétrico
+    pt_br: potencial elétrico
     ro: potențial electric
     ru: электростатический потенциал
     sco: electric potential
@@ -164,8 +164,8 @@ dv_has_:
     sl: električni potencial
     sq: potenciali elektrik
     sr: електрични потенцијал
-    sr-ec: електрични потенцијал
-    sr-el: električni potencijal
+    sr_ec: електрични потенцијал
+    sr_el: električni potencijal
     sv: elektrisk potential
     th: ศักย์ไฟฟ้า
     tl: electric potential

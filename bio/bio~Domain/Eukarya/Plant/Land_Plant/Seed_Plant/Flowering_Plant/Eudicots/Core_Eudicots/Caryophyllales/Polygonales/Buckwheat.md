@@ -213,7 +213,7 @@ dv_has_:
     azb: اکین قاراباشاغی
     ba: Ҡарабойҙай
     be: грэчка пасяўная
-    be-tarask: грэчка
+    be_tarask: грэчка
     bg: обикновена елда
     bn: ঢেমশি
     bo: བྲ་བོ།
@@ -227,13 +227,13 @@ dv_has_:
     cy: Gwenith yr hydd
     da: Almindelig Boghvede
     de: echter Buchweizen
-    de-ch: Echter Buchweizen
+    de_ch: Echter Buchweizen
     dsb: Hejduša
     dty: फापर
     el: Φαγόπυρον το εδώδιμον
     en: Fagopyrum esculentum
-    en-ca: Buckwheat
-    en-gb: Buckwheat
+    en_ca: Buckwheat
+    en_gb: Buckwheat
     eo: Fagopiro
     es: Fagopyrum esculentum
     et: harilik tatar
@@ -278,7 +278,7 @@ dv_has_:
     myv: Ликша
     nan: Kiô-be̍h
     nb: bokhvete
-    nds-nl: boeked
+    nds_nl: boeked
     ne: फापर
     nl: boekweit
     nn: bokkveite
@@ -288,7 +288,7 @@ dv_has_:
     pl: gryka zwyczajna
     pms: Fagopyrum esculentum
     pt: Trigo sarraceno
-    pt-br: Trigo sarraceno
+    pt_br: Trigo sarraceno
     ro: Hrișcă
     ru: гречиха посевная
     sah: Гречиха
@@ -298,8 +298,8 @@ dv_has_:
     sl: navadna ajda
     sq: Fagopyrum esculentum
     sr: хељда
-    sr-ec: Хељда
-    sr-el: Heljda
+    sr_ec: Хељда
+    sr_el: Heljda
     sv: bovete
     ta: நெளிகோதுமை
     th: บักวีต
@@ -318,12 +318,12 @@ dv_has_:
     wuu: 荞麦
     yue: 蕎麥
     zh: 蕎麥
-    zh-cn: 荞麦
-    zh-hans: 荞麦
-    zh-hant: 蕎麥
-    zh-hk: 蕎麥
-    zh-sg: 荞麦
-    zh-tw: 蕎麥
+    zh_cn: 荞麦
+    zh_hans: 荞麦
+    zh_hant: 蕎麥
+    zh_hk: 蕎麥
+    zh_sg: 荞麦
+    zh_tw: 蕎麥
 ---
 ## #has_/text_of_/abstract 
 

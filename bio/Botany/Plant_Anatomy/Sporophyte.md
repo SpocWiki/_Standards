@@ -47,7 +47,7 @@ dv_has_:
     ar: نباتات بوغية
     ast: Esporófito
     be: спарафіт
-    be-tarask: спарафіт
+    be_tarask: спарафіт
     bg: Спорофит
     bn: স্পোরোফাইট
     bs: Sporofit

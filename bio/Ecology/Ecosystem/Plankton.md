@@ -78,7 +78,7 @@ dv_has_:
     ban: Plankton
     bcl: Plankton
     be: планктон
-    be-tarask: плянктон
+    be_tarask: плянктон
     bg: планктон
     bn: প্ল্যাঙ্কটন
     br: plankton
@@ -88,11 +88,11 @@ dv_has_:
     cy: plancton
     da: plankton
     de: Plankton
-    de-ch: Plankton
+    de_ch: Plankton
     el: Πλαγκτόν
     en: plankton
-    en-ca: plankton
-    en-gb: plankton
+    en_ca: plankton
+    en_gb: plankton
     eo: planktono
     es: plancton
     et: plankton
@@ -143,7 +143,7 @@ dv_has_:
     pnb: پلانکٹن
     ps: پلانکټون
     pt: plâncton
-    pt-br: plâncton
+    pt_br: plâncton
     ro: plancton
     ru: планктон
     sco: plankton
@@ -172,8 +172,8 @@ dv_has_:
     xh: I-plankton
     yue: 浮游生物
     zh: 浮游生物
-    zh-cn: 浮游生物
-    zh-tw: 浮游生物
+    zh_cn: 浮游生物
+    zh_tw: 浮游生物
 ---
 # [[Plankton]] 
 

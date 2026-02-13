@@ -105,7 +105,7 @@ dv_has_:
     ar: لغات نيلية صحراوية
     ast: Llingües nilo-saḥarianes
     azb: نیلصحرا دیللری
-    be-tarask: ніла-сахарскія мовы
+    be_tarask: ніла-сахарскія мовы
     br: yezhoù nilez-saharek
     ca: llengües niloticosaharianes
     cs: nilosaharské jazyky
@@ -168,7 +168,7 @@ dv_has_:
     smn: nilosaharaliih ǩiõl
     sms: nilosaharalaž ǩiõl
     sr: нило-сахарски језици
-    sr-ec: нило-сахарски језици
+    sr_ec: нило-сахарски језици
     sv: Nilo-sahariska språk
     sw: Lugha za Kinilo-Sahara
     ta: நிலோ-சகாரா மொழிகள்
@@ -183,7 +183,7 @@ dv_has_:
     yue: 尼羅-撒哈拉語系
     zea: Nilo-Saharaonse taelen
     zh: 尼罗-撒哈拉语系
-    zh-hant: 尼羅-撒哈拉語系
+    zh_hant: 尼羅-撒哈拉語系
 ---
 # [[LangFamily-Nilo-Saharan]] 
 

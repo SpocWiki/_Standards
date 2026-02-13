@@ -75,7 +75,7 @@ dv_has_:
     ar: اختبار فرضية إحصائية
     ast: Contraste d'hipótesis
     az: Statistik hipotez testi
-    be-tarask: праверка статыстычных гіпотэзаў
+    be_tarask: праверка статыстычных гіпотэзаў
     bg: Проверка на статистическа хипотеза
     ca: contrast d'hipòtesi
     cs: testování statistických hypotéz
@@ -124,12 +124,12 @@ dv_has_:
     vi: Kiểm định giả thiết thống kê
     yue: 假說檢定
     zh: 假說檢定
-    zh-cn: 假设检验
-    zh-hans: 假设检验
-    zh-hant: 假說檢定
-    zh-hk: 假說檢定
-    zh-sg: 假设检验
-    zh-tw: 假說檢定
+    zh_cn: 假设检验
+    zh_hans: 假设检验
+    zh_hant: 假說檢定
+    zh_hk: 假說檢定
+    zh_sg: 假设检验
+    zh_tw: 假說檢定
 ---
 # [[Statistical_Test]] 
 

@@ -150,7 +150,7 @@ dv_has_:
     azb: مرکزیایشلمبیریمی
     ba: үҙәк процессор
     be: цэнтральны працэсар
-    be-tarask: цэнтральны працэсар
+    be_tarask: цэнтральны працэсар
     bg: централен процесор
     bm: Cpu
     bn: কেন্দ্রীয় প্রক্রিয়াজাতকরণ ইউনিট
@@ -164,12 +164,12 @@ dv_has_:
     cv: процессор
     cy: Uned Brosesu Ganolog
     de: Hauptprozessor
-    de-ch: Hauptprozessor
+    de_ch: Hauptprozessor
     diq: processor
     el: Κεντρική Μονάδα Επεξεργασίας
     en: central processing unit
-    en-ca: central processing unit
-    en-gb: central processing unit
+    en_ca: central processing unit
+    en_gb: central processing unit
     eo: ĉefprocesoro
     es: unidad central de procesamiento
     et: keskprotsessor
@@ -197,7 +197,7 @@ dv_has_:
     kaa: oraylıq processor
     ki: Cipiyu
     kk: орталық процессор
-    kk-cyrl: орталық процессор
+    kk_cyrl: орталық процессор
     km: central processing unit
     kn: ಕೇಂದ್ರ ಸಂಸ್ಕರಣ ಘಟಕ
     ko: 중앙 처리 장치
@@ -227,7 +227,7 @@ dv_has_:
     pnt: κεντρικόν μονάδα επεξεργασίας
     ps: ګرافیکي پروسس واحد
     pt: unidade central de processamento
-    pt-br: unidade central de processamento
+    pt_br: unidade central de processamento
     qu: qullana ruwachiq kaq
     ro: CPU
     ru: центральный процессор
@@ -239,8 +239,8 @@ dv_has_:
     sl: centralni procesor
     sq: njësia qendrore e përpunimit
     sr: процесор
-    sr-ec: процесор
-    sr-el: procesor
+    sr_ec: процесор
+    sr_el: procesor
     sv: processor
     sw: kichakato kikuu
     ta: மையச் செயற்பகுதி
@@ -250,7 +250,7 @@ dv_has_:
     tl: sentral na nagpoprosesong unit
     tr: merkezi işlem birimi
     tt: үзәк эшкәрткеч җайланма
-    tt-cyrl: үзәк эшкәрткеч җайланма
+    tt_cyrl: үзәк эшкәрткеч җайланма
     udm: центральной процессор
     uk: центральний процесор
     ur: خرد عملیہ
@@ -262,14 +262,14 @@ dv_has_:
     yue: 處理器
     zgh: ⴰⵙⵖⴰⵍ ⵏ ⵓⵙⵎⴽⵍ ⴰⵏⴰⵎⵎⴰⵙ
     zh: 中央處理器
-    zh-cn: 中央处理器
-    zh-hans: 中央处理器
-    zh-hant: 中央處理器
-    zh-hk: 中央處理器
-    zh-mo: 中央處理器
+    zh_cn: 中央处理器
+    zh_hans: 中央处理器
+    zh_hant: 中央處理器
+    zh_hk: 中央處理器
+    zh_mo: 中央處理器
     zh-my: 中央处理器
-    zh-sg: 中央处理器
-    zh-tw: 中央處理器
+    zh_sg: 中央处理器
+    zh_tw: 中央處理器
     zu: isidludlungi esimqoka
 ---
 # [[Central_Processing_Unit]] 

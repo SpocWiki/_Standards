@@ -97,7 +97,7 @@ dv_has_:
     ar: قيمة متوقعة
     ast: Esperanza matemática
     be: матэматычнае чаканне
-    be-tarask: матэматычнае спадзяваньне
+    be_tarask: матэматычнае спадзяваньне
     bg: Математическо очакване
     ca: esperança matemàtica
     cs: Střední hodnota
@@ -140,8 +140,8 @@ dv_has_:
     sl: matematično pričakovanje
     sq: Pritja matematike
     sr: Очекивана вредност
-    sr-ec: Очекивана вредност
-    sr-el: Očekivana vrednost
+    sr_ec: Очекивана вредност
+    sr_el: Očekivana vrednost
     su: Nilai ekspektasi
     sv: väntevärde
     ta: எதிர்வுப் பெறுமதி
@@ -155,12 +155,12 @@ dv_has_:
     xal: Күләлһнә Берк
     yue: 期望值
     zh: 期望值
-    zh-cn: 期望值
-    zh-hans: 期望值
-    zh-hant: 期望值
-    zh-hk: 期望值
-    zh-sg: 期望值
-    zh-tw: 期望值
+    zh_cn: 期望值
+    zh_hans: 期望值
+    zh_hant: 期望值
+    zh_hk: 期望值
+    zh_sg: 期望值
+    zh_tw: 期望值
 ---
 #is_/same_as :: [[../../WikiData/WD~Expectation,200125|WD~Expectation,200125]] 
 

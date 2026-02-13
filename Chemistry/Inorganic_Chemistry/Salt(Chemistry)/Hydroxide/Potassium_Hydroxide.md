@@ -127,7 +127,7 @@ dv_has_:
     ast: Hidróxidu de potasiu
     azb: پوتاسیوم هیدروکسید
     be: гідрат вокісу калю
-    be-tarask: гідраксыд калю
+    be_tarask: гідраксыд калю
     bg: Калиев хидроксид
     bn: পটাসিয়াম হাইড্রোক্সাইড
     bs: Kalij hidroksid
@@ -138,8 +138,8 @@ dv_has_:
     de: Kaliumhydroxid
     el: υδροξείδιο του καλίου
     en: potassium hydroxide
-    en-ca: potassium hydroxide
-    en-gb: potassium hydroxide
+    en_ca: potassium hydroxide
+    en_gb: potassium hydroxide
     eo: kalia hidroksido
     es: hidróxido de potasio
     et: Kaaliumhüdroksiid
@@ -180,7 +180,7 @@ dv_has_:
     sk: Hydroxid draselný
     sl: Kalijev hidroksid
     sr: калијум-хидроксид
-    sr-ec: Калијум-хидроксид
+    sr_ec: Калијум-хидроксид
     sv: kaliumhydroxid
     ta: பொட்டாசியம் ஐதராக்சைடு
     th: โพแทสเซียมไฮดรอกไซด์
@@ -192,7 +192,7 @@ dv_has_:
     wuu: 氢氧化钾
     yue: 氫氧化鉀
     zh: 氢氧化钾
-    zh-hans: 氢氧化钾
+    zh_hans: 氢氧化钾
 dv_is_:
   same_as:
   - '[[../../../../WikiData/WD~Potassium_hydroxide,132298|WD~Potassium_hydroxide,132298]]'

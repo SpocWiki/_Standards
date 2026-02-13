@@ -101,7 +101,7 @@ dv_has_:
     ba: трапеция
     bcl: trapesoyd
     be: трапецыя
-    be-tarask: трапэцыя
+    be_tarask: трапэцыя
     bg: трапец
     bn: ট্রাপিজিয়াম
     bo: སྐས་དབྱིབས་
@@ -116,7 +116,7 @@ dv_has_:
     de: Trapez
     el: τραπέζιο
     en: trapezoid
-    en-gb: trapezium
+    en_gb: trapezium
     en-us: trapezoid
     eo: trapezo
     es: trapecio
@@ -166,7 +166,7 @@ dv_has_:
     pl: trapez
     pms: trapessi
     pt: trapézio
-    pt-br: trapézio
+    pt_br: trapézio
     qu: putuq
     ro: trapez
     ru: трапеция в широком смысле
@@ -177,7 +177,7 @@ dv_has_:
     sn: gonyoina sambambiri
     so: koor
     sr: трапез
-    sr-el: trapez
+    sr_el: trapez
     su: trapésium
     sv: parallelltrapets
     szl: trapez
@@ -198,8 +198,8 @@ dv_has_:
     yi: טראפעז
     yue: 梯形
     zh: 梯形
-    zh-hans: 梯形
-    zh-hant: 梯形
+    zh_hans: 梯形
+    zh_hant: 梯形
 ---
 # [[Trapezoid]] 
 

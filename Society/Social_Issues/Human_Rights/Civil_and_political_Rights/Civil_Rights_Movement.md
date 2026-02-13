@@ -5,7 +5,7 @@ dv_has_:
     ar: حركة الحقوق المدنية
     ast: Movimientu polos derechos civiles n'Estaos Xuníos
     be: Рух за правы афраамерыканцаў
-    be-tarask: рух за правы афраамэрыканцаў
+    be_tarask: рух за правы афраамэрыканцаў
     ca: moviment afroamericà pels drets civils
     cs: Afroamerické hnutí za občanská práva
     cy: y Mudiad Hawliau Sifil
@@ -13,8 +13,8 @@ dv_has_:
     de: Bürgerrechtsbewegung der Afroamerikaner
     el: κίνημα πολιτικών δικαιωμάτων
     en: civil rights movement
-    en-ca: Civil Rights Movement
-    en-gb: Civil Rights Movement
+    en_ca: Civil Rights Movement
+    en_gb: Civil Rights Movement
     eo: Afrikusona Civilrajta Movado
     es: Movimiento por los derechos civiles en Estados Unidos
     eu: Afroamerikarren eskubide zibilen aldeko mugimendua
@@ -40,7 +40,7 @@ dv_has_:
     kn: ಆಫ್ರಿಕನ್-ಅಮೆರಿಕನ್ ನಾಗರಿಕ ಹಕ್ಕುಗಳ ಚಳವಳಿ
     ko: 미국의 흑인 민권 운동
     ku: tevgera mafên sivîl li DYAyê
-    ku-latn: tevgera mafên sivîl li DYAyê
+    ku_latn: tevgera mafên sivîl li DYAyê
     la: Motus iurum civilium
     lv: Afroamerikāņu pilsonisko tiesību kustība
     mk: Движење за граѓански права на Црнците во САД
@@ -70,9 +70,9 @@ dv_has_:
     yo: Ìrìnkánkán àwọn Ẹ̀tọ́ Aráàlú ọmọ Áfríkà Amẹ́ríkà
     yue: 民權運動
     zh: 美國黑人民權運動
-    zh-cn: 非裔美國人民權運動
-    zh-hans: 非裔美国人民权运动
-    zh-hant: 非裔美國人民權運動
+    zh_cn: 非裔美國人民權運動
+    zh_hans: 非裔美国人民权运动
+    zh_hant: 非裔美國人民權運動
 aliases:
 - African-American Civil Rights Movement
 - Afrikan-usana Movemento por Civila Yuri

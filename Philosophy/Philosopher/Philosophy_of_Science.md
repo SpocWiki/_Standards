@@ -126,7 +126,7 @@ dv_has_:
     az: elmin fəlsəfəsi
     ba: фән фәлсәфәһе
     be: філасофія навукі
-    be-tarask: філязофія навукі
+    be_tarask: філязофія навукі
     bg: Философия на науката
     bho: बिज्ञान के दर्शन
     bn: বিজ্ঞানের দর্শন
@@ -140,8 +140,8 @@ dv_has_:
     de: Wissenschaftstheorie
     el: Φιλοσοφία της επιστήμης
     en: philosophy of science
-    en-ca: philosophy of science
-    en-gb: philosophy of science
+    en_ca: philosophy of science
+    en_gb: philosophy of science
     eo: filozofio de scienco
     es: filosofía de la ciencia
     et: teadusfilosoofia
@@ -184,7 +184,7 @@ dv_has_:
     pms: Filosofìa dla siensa
     ps: د ساینس فلسفه
     pt: filosofia da ciência
-    pt-br: filosofia da ciência
+    pt_br: filosofia da ciência
     ro: filozofia științei
     ru: философия науки
     sco: filosofie o science
@@ -215,8 +215,8 @@ dv_has_:
     yue: 科學哲學
     zh: 科學哲學
     zh-hans: 科学哲学
-    zh-hant: 科學哲學
-    zh-tw: 科學哲學
+    zh_hant: 科學哲學
+    zh_tw: 科學哲學
 ---
 # [[Philosophy_of_Science]] 
 

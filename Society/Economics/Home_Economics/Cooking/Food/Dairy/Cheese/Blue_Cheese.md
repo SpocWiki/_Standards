@@ -69,7 +69,7 @@ dv_has_:
     ar: جبنة زرقاء
     ast: quesu azul
     be: Блакітныя сыры
-    be-tarask: блакітны сыр
+    be_tarask: блакітны сыр
     ca: formatge blau
     ckb: پەنیری شین
     cs: sýr s modrou plísní
@@ -117,9 +117,9 @@ dv_has_:
     wuu: 蓝干酪
     yue: 藍芝士
     zh: 藍乾酪
-    zh-hans: 蓝干酪
-    zh-hant: 藍乾酪
-    zh-hk: 藍乾酪
+    zh_hans: 蓝干酪
+    zh_hant: 藍乾酪
+    zh_hk: 藍乾酪
 ---
 # [[Blue_Cheese]] 
 

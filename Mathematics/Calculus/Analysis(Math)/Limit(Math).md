@@ -91,7 +91,7 @@ dv_has_:
     az: Limit
     ba: Сикләмә (математика)
     be: ліміт
-    be-tarask: ліміт
+    be_tarask: ліміт
     bg: Граница
     bho: सीमा (गणित)
     bn: সীমা (গণিত)
@@ -150,7 +150,7 @@ dv_has_:
     nn: Grense i matematikk
     pl: granica
     pt: limite
-    pt-br: limite
+    pt_br: limite
     ro: Limită
     ru: предел
     scn: Lìmiti
@@ -159,8 +159,8 @@ dv_has_:
     sl: limita
     sq: Limiti
     sr: гранична вредност
-    sr-ec: Гранична вредност
-    sr-el: Granična vrednost
+    sr_ec: Гранична вредност
+    sr_el: Granična vrednost
     sv: gränsvärde
     ta: எல்லை (கணிதம்)
     tr: Limit
@@ -173,12 +173,12 @@ dv_has_:
     wuu: 极限 (数学)
     yue: 極限
     zh: 極限
-    zh-cn: 极限
-    zh-hans: 极限
-    zh-hant: 極限
-    zh-hk: 極限
-    zh-sg: 极限
-    zh-tw: 極限
+    zh_cn: 极限
+    zh_hans: 极限
+    zh_hant: 極限
+    zh_hk: 極限
+    zh_sg: 极限
+    zh_tw: 極限
 ---
 # [[Limit(Math)]] 
 

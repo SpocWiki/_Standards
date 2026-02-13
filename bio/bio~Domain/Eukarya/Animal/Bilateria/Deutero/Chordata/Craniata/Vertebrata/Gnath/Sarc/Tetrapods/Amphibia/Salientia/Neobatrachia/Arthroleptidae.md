@@ -30,11 +30,11 @@ dv_has_:
     ceb: Arthroleptidae
     cs: Kvikuňkovití
     de: Langfingerfrösche
-    de-ch: Langfingerfrösche
+    de_ch: Langfingerfrösche
     el: αρθρολεπτίδες
     en: Arthroleptidae
-    en-ca: Arthroleptidae
-    en-gb: Arthroleptidae
+    en_ca: Arthroleptidae
+    en_gb: Arthroleptidae
     eo: Artroleptedoj
     es: Arthroleptidae
     eu: Arthroleptidae
@@ -59,7 +59,7 @@ dv_has_:
     oc: Arthroleptidae
     pl: Artroleptowate
     pt: Arthroleptidae
-    pt-br: Arthroleptidae
+    pt_br: Arthroleptidae
     ro: Arthroleptidae
     ru: пискуньи
     sq: Arthroleptidae

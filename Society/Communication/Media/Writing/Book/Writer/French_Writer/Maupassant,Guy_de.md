@@ -140,7 +140,7 @@ dv_has_:
     azb: قی دو موپاسان
     ba: Ги де Мопассан
     be: Гі дэ Мапасан
-    be-tarask: Гі дэ Мапасан
+    be_tarask: Гі дэ Мапасан
     bg: Ги дьо Мопасан
     bn: গী দ্য মোপাসঁ
     br: Guy de Maupassant
@@ -152,12 +152,12 @@ dv_has_:
     cy: Guy de Maupassant
     da: Guy de Maupassant
     de: Guy de Maupassant
-    de-ch: Guy de Maupassant
+    de_ch: Guy de Maupassant
     diq: Guy de Maupassant
     el: Γκι ντε Μοπασάν
     en: Guy de Maupassant
-    en-ca: Guy de Maupassant
-    en-gb: Guy de Maupassant
+    en_ca: Guy de Maupassant
+    en_gb: Guy de Maupassant
     eo: Guy de Maupassant
     es: Guy de Maupassant
     et: Guy de Maupassant
@@ -215,7 +215,7 @@ dv_has_:
     pms: Guy de Maupassant
     pnb: گائی ڈی موپساں
     pt: Guy de Maupassant
-    pt-br: Guy de Maupassant
+    pt_br: Guy de Maupassant
     ro: Guy de Maupassant
     ru: Ги де Мопассан
     scn: Guy de Maupassant
@@ -240,9 +240,9 @@ dv_has_:
     xmf: გი დე მოპასანი
     yue: 莫泊桑
     zh: 居伊·德·莫泊桑
-    zh-cn: 居伊·德·莫泊桑
-    zh-hans: 居伊·德·莫泊桑
-    zh-hant: 居伊·德·莫泊桑
+    zh_cn: 居伊·德·莫泊桑
+    zh_hans: 居伊·德·莫泊桑
+    zh_hant: 居伊·德·莫泊桑
 ---
 # [[Maupassant,Guy_de]] 
 

@@ -139,7 +139,7 @@ dv_has_:
     ast: combustión
     az: yanma
     be: гарэнне
-    be-tarask: гарэньне
+    be_tarask: гарэньне
     bew: Penambusan (kimia)
     bg: горене
     bn: দহন
@@ -211,8 +211,8 @@ dv_has_:
     sl: gorenje
     sq: djegia
     sr: сагоревање
-    sr-ec: сагоревање
-    sr-el: sagorevanje
+    sr_ec: сагоревање
+    sr_el: sagorevanje
     sv: förbränning
     ta: தகனம்
     tay: pcyana puniq
@@ -220,7 +220,7 @@ dv_has_:
     tl: pagdiringas
     tr: yanma reaksiyonları
     tt: яну
-    tt-cyrl: яну
+    tt_cyrl: яну
     udm: ӝуан
     uk: горіння
     ur: احتراق
@@ -233,12 +233,12 @@ dv_has_:
     yo: ìgbaná
     yue: 燃燒
     zh: 燃烧
-    zh-cn: 燃烧
-    zh-hans: 燃烧
-    zh-hant: 燃燒
-    zh-hk: 燃燒
-    zh-sg: 燃烧
-    zh-tw: 燃燒
+    zh_cn: 燃烧
+    zh_hans: 燃烧
+    zh_hant: 燃燒
+    zh_hk: 燃燒
+    zh_sg: 燃烧
+    zh_tw: 燃燒
     zu: ukushisa
 ---
 # [[Combustion]] 🔥 

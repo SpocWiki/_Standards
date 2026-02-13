@@ -186,7 +186,7 @@ dv_has_:
     azb: بیولوژیک بولونمه
     ba: Органик донъя системаһы
     be: біялагічная класіфікацыя
-    be-tarask: біялягічная клясыфікацыя
+    be_tarask: біялягічная клясыфікацыя
     bg: Класификация на организмите
     bn: জীববৈজ্ঞানিক শ্রেণিবিন্যাস
     bs: naučna klasifikacija
@@ -203,8 +203,8 @@ dv_has_:
     de: biologische Einteilung
     el: Συστηματική ταξινόμηση
     en: biological classification
-    en-ca: Biological classification
-    en-gb: biological classification
+    en_ca: Biological classification
+    en_gb: biological classification
     eo: biologia klasado
     es: clasificación biológica
     eu: sailkapen zientifiko
@@ -246,7 +246,7 @@ dv_has_:
     lmo: Clasificasiù scentìfica
     lt: mokslinė klasifikacija
     lv: organismu klasifikācija
-    map-bms: Klasifikasi Ilmiah
+    map_bms: Klasifikasi Ilmiah
     mg: Fanasokajiana ara-tsiansa ny zavamananaina
     mhr: Биологий классификаций
     min: Klasifikasi ilmiah
@@ -255,7 +255,7 @@ dv_has_:
     mn: Биологийн ангилал
     mr: जैविक वर्गीकरण
     ms: pengelasan biologi
-    ms-arab: ڤڠلسن بيولوݢي
+    ms_arab: ڤڠلسن بيولوݢي
     mt: klassifikazzjoni bijoloġika
     my: ဇီဝဆိုင်ရာ အမျိုးအစား ခွဲခြားခြင်း
     nan: Seng-bu̍t-ha̍k hun-lūi
@@ -274,7 +274,7 @@ dv_has_:
     pms: Classificassion biològica
     pnb: حیاتیاتی درجہ بندی
     pt: classificação científica
-    pt-br: classificação científica
+    pt_br: classificação científica
     qu: Mitan kamay katiguriya
     rki: ဇီဝဆိုင်ရာ အမျိုးအစား ခွဲခြားခြင်း
     ro: clasificare științifică a speciilor
@@ -314,14 +314,14 @@ dv_has_:
     yi: ביאלאגישע קלאסיפיקאציע
     yue: 物種分類
     zh: 生物分類法
-    zh-cn: 生物分类法
-    zh-hans: 生物分类法
-    zh-hant: 生物分類法
-    zh-hk: 生物分類法
-    zh-mo: 生物分類法
+    zh_cn: 生物分类法
+    zh_hans: 生物分类法
+    zh_hant: 生物分類法
+    zh_hk: 生物分類法
+    zh_mo: 生物分類法
     zh-my: 生物分类法
-    zh-sg: 生物分类法
-    zh-tw: 生物分類法
+    zh_sg: 生物分类法
+    zh_tw: 生物分類法
 ---
 # [[Biological_Classification]] 
 

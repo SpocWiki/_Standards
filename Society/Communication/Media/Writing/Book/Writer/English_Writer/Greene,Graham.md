@@ -167,7 +167,7 @@ dv_has_:
     az: Qrem Qrin
     azb: قراهام قرین
     be: Грэм Грын
-    be-tarask: Грэм Грын
+    be_tarask: Грэм Грын
     bg: Греъм Грийн
     bn: গ্রাহাম গ্রিন
     ckb: گراھام گریین
@@ -187,15 +187,15 @@ dv_has_:
     ja: グレアム・グリーン
     ka: გრაამ გრინი
     kk: Грэм Грин
-    kk-arab: گرەم گرىين
+    kk_arab: گرەم گرىين
     kk-cn: گرەم گرىين
-    kk-cyrl: Грэм Грин
+    kk_cyrl: Грэм Грин
     kk-kz: Грэм Грин
-    kk-latn: Grém Grïn
+    kk_latn: Grém Grïn
     kk-tr: Grém Grïn
     kn: ಹೆನ್ರಿ ಗ್ರಹಾಮ್ ಗ್ರೀನ್
     ko: 그레이엄 그린
-    ku-arab: گراهام گرەەنە
+    ku_arab: گراهام گرەەنە
     lt: Greihamas Grinas
     lv: Greiems Grīns
     mk: Грејам Грин
@@ -219,12 +219,12 @@ dv_has_:
     xmf: გრაამ გრინი
     yue: 格拉咸格連
     zh: 格雷厄姆·格林
-    zh-cn: 格雷厄姆·格林
-    zh-hans: 格雷厄姆·格林
-    zh-hant: 格雷厄姆·格林
-    zh-hk: 格雷厄姆·格林
-    zh-sg: 格雷厄姆·格林
-    zh-tw: 格雷厄姆·格林
+    zh_cn: 格雷厄姆·格林
+    zh_hans: 格雷厄姆·格林
+    zh_hant: 格雷厄姆·格林
+    zh_hk: 格雷厄姆·格林
+    zh_sg: 格雷厄姆·格林
+    zh_tw: 格雷厄姆·格林
 ---
 # [[Greene,Graham]] 
 

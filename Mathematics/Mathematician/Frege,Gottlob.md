@@ -99,7 +99,7 @@ dv_has_:
     az: Gottlob Frege
     azb: قوتلوب فرقه
     be: Готлаб Фреге
-    be-tarask: Готліб Фрэге
+    be_tarask: Готліб Фрэге
     bew: Gottlob Frege
     bg: Готлоб Фреге
     bn: গট্লব ফ্রেগে
@@ -110,11 +110,11 @@ dv_has_:
     da: Gottlob Frege
     dag: Gottlob Frege
     de: Gottlob Frege
-    de-ch: Gottlob Frege
+    de_ch: Gottlob Frege
     el: Γκότλομπ Φρέγκε
     en: Gottlob Frege
-    en-ca: Gottlob Frege
-    en-gb: Gottlob Frege
+    en_ca: Gottlob Frege
+    en_gb: Gottlob Frege
     eo: Gottlob Frege
     es: Gottlob Frege
     et: Gottlob Frege
@@ -161,7 +161,7 @@ dv_has_:
     pms: Friedrich Ludwig Gottlob Frege
     ps: ګوتلوب فريج
     pt: Gottlob Frege
-    pt-br: Gottlob Frege
+    pt_br: Gottlob Frege
     ro: Gottlob Frege
     ru: Готлоб Фреге
     sah: Фридрих Людвиг Готлоб Фреге үс муннуга
@@ -171,7 +171,7 @@ dv_has_:
     sl: Friedrich Ludwig Gottlob Frege
     sq: Gottlob Frege
     sr: Готлоб Фреге
-    sr-ec: Готлоб Фреге
+    sr_ec: Готлоб Фреге
     sv: Gottlob Frege
     th: ก็อทโลพ เฟรเกอ
     tl: Gottlob Frege

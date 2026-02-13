@@ -113,7 +113,7 @@ dv_has_:
     ast: química cuántica
     az: kvant kimyası
     be: квантавая хімія
-    be-tarask: квантавая хімія
+    be_tarask: квантавая хімія
     bg: Квантова химия
     bn: কোয়ান্টাম রসায়ন
     bs: Kvantna hemija
@@ -143,11 +143,11 @@ dv_has_:
     jv: kimia kuantum
     ka: კვანტური ქიმია
     kk: кванттық химия
-    kk-arab: كۆانتتىق حىيمىييا
+    kk_arab: كۆانتتىق حىيمىييا
     kk-cn: كۆانتتىق حىيمىييا
-    kk-cyrl: кванттық химия
+    kk_cyrl: кванттық химия
     kk-kz: кванттық химия
-    kk-latn: kvanttıq xïmïya
+    kk_latn: kvanttıq xïmïya
     kk-tr: kvanttıq xïmïya
     ko: 양자화학
     ko-kp: 량자화학
@@ -191,12 +191,12 @@ dv_has_:
     yi: קוואנטן-כעמיע
     yue: 量子化學
     zh: 量子化学
-    zh-cn: 量子化学
-    zh-hans: 量子化学
-    zh-hant: 量子化學
-    zh-hk: 量子化學
-    zh-sg: 量子化学
-    zh-tw: 量子化學
+    zh_cn: 量子化学
+    zh_hans: 量子化学
+    zh_hant: 量子化學
+    zh_hk: 量子化學
+    zh_sg: 量子化学
+    zh_tw: 量子化學
 ---
 # [[Quantum_Chemistry]] 
 

@@ -36,7 +36,7 @@ dv_has_:
     oc: Dionycha
     pl: Dionycha
     pt: Dionycha
-    pt-br: Dionycha
+    pt_br: Dionycha
     ro: Dionycha
     ru: Dionycha
     sq: Dionycha
@@ -45,8 +45,8 @@ dv_has_:
     vo: Dionycha
     war: Dionycha
     zh: 两爪类
-    zh-cn: 两爪类
-    zh-hans: 两爪类
+    zh_cn: 两爪类
+    zh_hans: 两爪类
 ---
 # Dionycha 
 ![Trachelas_tranquillus.](Dionycha/Trachelas_tranquillus.jpg)) ![Misumenoides_formosipes](Dionycha/Misumenoides_formosipes.jpg))  ![Herpyllus_ecclesiasticus](Dionycha/Herpyllus_ecclesiasticus.jpg) 

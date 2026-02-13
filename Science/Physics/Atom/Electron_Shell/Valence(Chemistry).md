@@ -98,7 +98,7 @@ dv_has_:
     az: valentlik
     ba: валентлыҡ
     be: валентнасць
-    be-tarask: валентнасьць
+    be_tarask: валентнасьць
     bg: валентност
     bn: যোজনী
     bs: valencija
@@ -133,11 +133,11 @@ dv_has_:
     ka: ვალენტობა
     kab: tugdut
     kk: валенттілік
-    kk-arab: ۆالەنتتىلىك
+    kk_arab: ۆالەنتتىلىك
     kk-cn: ۆالەنتتىلىك
-    kk-cyrl: валенттілік
+    kk_cyrl: валенттілік
     kk-kz: валенттілік
-    kk-latn: valenttilik
+    kk_latn: valenttilik
     kk-tr: valenttilik
     ko: 원자가
     lg: ekiyaayaano ky'obusannyalazo
@@ -154,7 +154,7 @@ dv_has_:
     pa: ਸੰਯੋਜਕਤਾ
     pl: wartościowość
     pt: valência
-    pt-br: valência
+    pt_br: valência
     ro: valență
     ru: валентность
     rue: валентность
@@ -168,8 +168,8 @@ dv_has_:
     sn: hukombe hwenhangande
     sq: valenca
     sr: валенца
-    sr-ec: валенца
-    sr-el: valenca
+    sr_ec: валенца
+    sr_el: valenca
     sv: valens
     sw: valensi
     ta: இணைதிறன்
@@ -186,12 +186,12 @@ dv_has_:
     wuu: 化合价
     yue: 化合價
     zh: 化合价
-    zh-cn: 化合价
-    zh-hans: 化合价
-    zh-hant: 化合價
-    zh-hk: 化合價
-    zh-sg: 化合价
-    zh-tw: 化合價
+    zh_cn: 化合价
+    zh_hans: 化合价
+    zh_hant: 化合價
+    zh_hk: 化合價
+    zh_sg: 化合价
+    zh_tw: 化合價
 ---
 # [[Valence(Chemistry)]] 
 

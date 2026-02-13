@@ -40,20 +40,20 @@ dv_has_:
     sh: kategorički imperativ
     sk: kategorický imperatív
     sr: kategorički imperativ
-    sr-ec: категорички императив
-    sr-el: kategorički imperativ
+    sr_ec: категорички императив
+    sr_el: kategorički imperativ
     sv: kategoriska imperativet
     tl: Imperatibong kategorikal
     tr: kategorik buyruk
     tt: категорик императив
     uk: категоричний імператив
     zh: 定言令式
-    zh-cn: 定言令式
-    zh-hans: 定言令式
-    zh-hant: 定言令式
-    zh-hk: 絕對律令
-    zh-sg: 定言令式
-    zh-tw: 絕對律令
+    zh_cn: 定言令式
+    zh_hans: 定言令式
+    zh_hant: 定言令式
+    zh_hk: 絕對律令
+    zh_sg: 定言令式
+    zh_tw: 絕對律令
 aliases:
 - categorical imperative
 - categorische imperatief

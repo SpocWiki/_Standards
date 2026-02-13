@@ -103,7 +103,7 @@ dv_has_:
     ba: гидрография
     bcl: Hidrograpiya
     be: гідраграфія
-    be-tarask: гідраграфія
+    be_tarask: гідраграфія
     bg: хидрография
     bho: हाइड्रोग्राफी
     bn: জললেখবিজ্ঞান
@@ -116,8 +116,8 @@ dv_has_:
     de: Hydrographie
     el: υδρογραφία
     en: hydrography
-    en-ca: hydrography
-    en-gb: hydrography
+    en_ca: hydrography
+    en_gb: hydrography
     eo: hidrografio
     es: hidrografía
     et: hüdrograafia
@@ -141,11 +141,11 @@ dv_has_:
     ka: ჰიდროგრაფია
     kab: tahidrugrafit
     kk: гидрография
-    kk-arab: گىيدروگرافىييا
+    kk_arab: گىيدروگرافىييا
     kk-cn: گىيدروگرافىييا
-    kk-cyrl: гидрография
+    kk_cyrl: гидрография
     kk-kz: гидрография
-    kk-latn: gïdrografïya
+    kk_latn: gïdrografïya
     kk-tr: gïdrografïya
     ko: 수로학
     ky: гидрография
@@ -164,7 +164,7 @@ dv_has_:
     os: гидрографи
     pl: hydrografia
     pt: hidrografia
-    pt-br: hidrografia
+    pt_br: hidrografia
     ro: hidrografie
     ru: гидрография
     se: hydrografiija
@@ -175,8 +175,8 @@ dv_has_:
     sms: hydrografia
     sq: hidrografia
     sr: хидрографија
-    sr-ec: хидрографија
-    sr-el: hidrografija
+    sr_ec: хидрографија
+    sr_el: hidrografija
     sv: hydrografi
     sw: hidrografia
     ta: நீராய்வியல்
@@ -184,7 +184,7 @@ dv_has_:
     th: อุทกศาสตร์
     tr: su bilgisi
     tt: гидрография
-    tt-cyrl: һидрография
+    tt_cyrl: һидрография
     uk: гідрографія
     uz: gidrografiya
     vec: idrografia
@@ -193,12 +193,12 @@ dv_has_:
     wuu: 水文地理学
     yue: 水文地理學
     zh: 水文地理学
-    zh-cn: 水文地理学
-    zh-hans: 水文地理学
-    zh-hant: 水文地理學
-    zh-hk: 水文地理學
-    zh-sg: 水文地理学
-    zh-tw: 水文地理學
+    zh_cn: 水文地理学
+    zh_hans: 水文地理学
+    zh_hant: 水文地理學
+    zh_hk: 水文地理學
+    zh_sg: 水文地理学
+    zh_tw: 水文地理學
 ---
 # [[Hydrography]] 
 

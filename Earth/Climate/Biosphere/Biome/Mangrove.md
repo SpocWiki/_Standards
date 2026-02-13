@@ -124,7 +124,7 @@ dv_has_:
     az: Manqrov
     bcl: Bakawan
     be: мангры
-    be-tarask: мангравы лес
+    be_tarask: мангравы лес
     bg: Мангрови гори
     bho: मैंग्रोव
     bn: ম্যানগ্রোভ
@@ -138,8 +138,8 @@ dv_has_:
     dv: ކަނޑޫ
     el: Μαγκρόβιο δάσος
     en: mangrove
-    en-ca: Mangrove
-    en-gb: mangrove
+    en_ca: Mangrove
+    en_gb: mangrove
     eo: mangrovo
     es: manglar
     et: Mangroov
@@ -190,7 +190,7 @@ dv_has_:
     pnb: مینگروو
     ps: مانګرو
     pt: manguezal
-    pt-br: manguezal
+    pt_br: manguezal
     ro: mangrove
     ru: мангры
     sa: कच्छवनस्पतियुक्तभूमिः
@@ -216,9 +216,9 @@ dv_has_:
     yue: 紅樹林
     za: Faexhoengz henzhaij
     zh: 红树林
-    zh-cn: 红树林
-    zh-hans: 红树林
-    zh-hant: 紅樹林
+    zh_cn: 红树林
+    zh_hans: 红树林
+    zh_hant: 紅樹林
 ---
 # [[Mangrove]] 
 

@@ -160,7 +160,7 @@ dv_has_:
     azb: وارنر موسیقی سی (شیرکت)
     bar: Warner Music Group
     be: Warner Music Group
-    be-tarask: Warner Music Group
+    be_tarask: Warner Music Group
     bg: Warner Music Group
     bho: वार्नर म्यूजिक ग्रुप
     bn: ওয়ার্নার মিউজিক গ্রুপ
@@ -171,11 +171,11 @@ dv_has_:
     da: Warner Music Group
     de: Warner Music Group
     de-at: Warner Music Group
-    de-ch: Warner Music Group
+    de_ch: Warner Music Group
     el: Warner Music Group
     en: Warner Music Group
-    en-ca: Warner Music Group
-    en-gb: Warner Music Group
+    en_ca: Warner Music Group
+    en_gb: Warner Music Group
     eo: Warner Music
     es: Warner Music Group
     es-419: Warner Music Group
@@ -206,13 +206,13 @@ dv_has_:
     mul: Warner Music Group
     nb: Warner Music Group
     nds: Warner Music Group
-    nds-nl: Warner Music Group
+    nds_nl: Warner Music Group
     nl: Warner Music Group
     nn: Warner Music Group
     oc: Warner Music Group
     pl: Warner Music Group
     pt: Warner Music Group
-    pt-br: Warner Music Group
+    pt_br: Warner Music Group
     ro: Warner Music Group
     ru: Warner Music Group
     rue: Warner Music Group
@@ -224,7 +224,7 @@ dv_has_:
     sr: Warner Music Group
     sv: Warner Music Group
     tg: Warner Music Group
-    tg-cyrl: Warner Music Group
+    tg_cyrl: Warner Music Group
     th: วอร์เนอร์มิวสิกกรุ๊ป
     tr: Warner Music Group
     uk: Warner Music Group
@@ -233,10 +233,10 @@ dv_has_:
     vi: Warner Music Group
     yue: 華納音樂集團
     zh: 華納音樂集團
-    zh-cn: 华纳音乐集团
-    zh-hans: 華納音樂集團
-    zh-hant: 華納音樂集團
-    zh-hk: 華納音樂集團
+    zh_cn: 华纳音乐集团
+    zh_hans: 華納音樂集團
+    zh_hant: 華納音樂集團
+    zh_hk: 華納音樂集團
 ---
 # [[Warner_Music]]
 

@@ -151,7 +151,7 @@ dv_has_:
     az: Onillik
     ban: dasawarsa
     be: дзесяцігоддзе
-    be-tarask: дзесяцігодзьдзе
+    be_tarask: дзесяцігодзьдзе
     bg: десетилетие
     bn: দশক
     br: dekvloaziad
@@ -206,25 +206,25 @@ dv_has_:
     kn: ದಶಕ
     ko: 십년
     ks: دہائ
-    ku-latn: dehsal
+    ku_latn: dehsal
     ky: Декада
     la: decennium
     lb: Joerzéngt
     lt: dešimtmetis
     lv: desmitgade
-    map-bms: Dasawarsa
+    map_bms: Dasawarsa
     mg: Taompolo
     mi: tekau tau
     mk: десетлетие
     mni: ꯆꯩꯍꯤ ꯱꯰
     mr: दशक
     ms: dekad
-    ms-arab: ديکد
+    ms_arab: ديکد
     nah: Mahtlācxihuitl
     nan: Nî-tāi
     nb: tiår
     nds: Johrteihnt
-    nds-nl: decennia
+    nds_nl: decennia
     ne: दशक
     nl: decennium
     nn: tiår
@@ -236,7 +236,7 @@ dv_has_:
     pnb: دہاکا
     ps: لسيزه
     pt: década
-    pt-br: década(s)
+    pt_br: década(s)
     qu: Chunkawata
     ro: deceniu
     ru: десятилетие
@@ -265,7 +265,7 @@ dv_has_:
     tl: Dekada
     tr: onyıl
     tt: унъеллык
-    tt-cyrl: унъеллык
+    tt_cyrl: унъеллык
     udm: дас ар
     uk: десятиліття
     ur: عشرہ
@@ -280,10 +280,10 @@ dv_has_:
     za: Nienzdaih
     zea: Decennium
     zh: 年代
-    zh-cn: 年代
-    zh-hant: 年代
-    zh-hk: 年代
-    zh-tw: 年代
+    zh_cn: 年代
+    zh_hant: 年代
+    zh_hk: 年代
+    zh_tw: 年代
 ---
 # [[Decade]]
 

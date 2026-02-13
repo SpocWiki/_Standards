@@ -125,7 +125,7 @@ dv_has_:
     azb: میخاییل باریشنیکوف
     ba: Барышников Михаил Николаевич
     be: Міхаіл Мікалаевіч Барышнікаў
-    be-tarask: Міхаіл Барышнікаў
+    be_tarask: Міхаіл Барышнікаў
     bg: Михаил Баришников
     bn: মিখাইল বারিশ্নিকভ
     ca: Mikhaïl Baríxnikov
@@ -135,12 +135,12 @@ dv_has_:
     da: Mikhail Barysjnikov
     dag: Mikhaïl Barychnikov
     de: Mikhail Baryshnikov
-    de-ch: Mikhail Baryshnikov
+    de_ch: Mikhail Baryshnikov
     diq: Mikhail Baryshnikov
     el: Μιχαήλ Μπαρίσνικοφ
     en: Mikhail Baryshnikov
-    en-ca: Mikhail Baryshnikov
-    en-gb: Mikhail Baryshnikov
+    en_ca: Mikhail Baryshnikov
+    en_gb: Mikhail Baryshnikov
     eo: Miĥail Bariŝnikov
     es: Mijaíl Barýshnikov
     et: Mihhail Barõšnikov
@@ -172,15 +172,15 @@ dv_has_:
     pap: Mikhaïl Barychnikov
     pl: Michaił Barysznikow
     pt: Mikhail Baryshnikov
-    pt-br: Mikhail Baryshnikov
+    pt_br: Mikhail Baryshnikov
     ro: Mihail Barîșnikov
     ru: Михаил Николаевич Барышников
     sco: Mikhail Baryshnikov
     sl: Mikhail Baryshnikov
     sq: Mikhail Baryshnikov
     sr: Михаил Баришњиков
-    sr-ec: Михаил Баришњиков
-    sr-el: Mihail Barišnjikov
+    sr_ec: Михаил Баришњиков
+    sr_el: Mihail Barišnjikov
     sv: Michail Barysjnikov
     tl: Mikhail Baryshnikov
     tr: Mikhail Baryshnikov
@@ -191,10 +191,10 @@ dv_has_:
     yo: Mikhail Baryshnikov
     yue: 米高巴里殊尼哥夫
     zh: 米哈伊尔·巴里什尼科夫
-    zh-cn: 米哈伊尔·巴里什尼科夫
-    zh-hans: 米哈伊尔·巴里什尼科夫
-    zh-hant: 米夏·巴瑞辛尼可夫
-    zh-tw: 米夏·巴瑞辛尼可夫
+    zh_cn: 米哈伊尔·巴里什尼科夫
+    zh_hans: 米哈伊尔·巴里什尼科夫
+    zh_hant: 米夏·巴瑞辛尼可夫
+    zh_tw: 米夏·巴瑞辛尼可夫
 ---
 # [[Baryshnikov,Mikhail]] 
 

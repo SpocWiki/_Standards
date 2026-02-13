@@ -92,11 +92,11 @@ dv_has_:
     ja: 輪作
     ka: თესლბრუნვა
     kk: өнім айналымы
-    kk-arab: ٴونىم اينالىمى
+    kk_arab: ٴونىم اينالىمى
     kk-cn: ٴونىم اينالىمى
-    kk-cyrl: Өнім айналымы
+    kk_cyrl: Өнім айналымы
     kk-kz: Өнім айналымы
-    kk-latn: Önim aýnalımı
+    kk_latn: Önim aýnalımı
     kk-tr: Önim aýnalımı
     ko: 돌려짓기
     lt: Sėjomaina

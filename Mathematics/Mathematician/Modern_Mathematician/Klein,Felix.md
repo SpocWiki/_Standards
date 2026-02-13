@@ -219,7 +219,7 @@ dv_has_:
     ast: Felix Klein
     azb: فلیکس کلاین
     be: Фелікс Клейн
-    be-tarask: Фэлікс Кляйн
+    be_tarask: Фэлікс Кляйн
     bg: Феликс Клайн
     bn: ফেলিক্স ক্লেইন
     ca: Felix Klein
@@ -263,7 +263,7 @@ dv_has_:
     pl: Felix Klein
     pms: Felix Klein
     pt: Felix Klein
-    pt-br: Felix Klein
+    pt_br: Felix Klein
     ro: Felix Klein
     ru: Феликс Клейн
     sco: Felix Klein
@@ -279,7 +279,7 @@ dv_has_:
     wuu: 费利克斯·克莱因
     yue: 費利克斯祈因
     zh: 菲利克斯·克莱因
-    zh-tw: 費利克斯·克萊因
+    zh_tw: 費利克斯·克萊因
 ---
 # [[Klein,Felix]] 
 

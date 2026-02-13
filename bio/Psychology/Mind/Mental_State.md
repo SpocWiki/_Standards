@@ -67,7 +67,7 @@ dv_has_:
     ar: حالة عقلية
     as: মানসিক অৱস্থা
     be: псіхічны стан
-    be-tarask: псыхічны стан
+    be_tarask: псыхічны стан
     bs: mentalno stanje
     ca: estat mental
     ckb: دۆخی زەینی
@@ -96,7 +96,7 @@ dv_has_:
     mk: умствена состојба
     mn: Сэтгэцийн байдал
     ms: keadaan mental
-    ms-arab: کأداءن مينتل
+    ms_arab: کأداءن مينتل
     my: စိတ်ပိုင်းဆိုင်ရာ အခြေအနေ
     nb: mental tilstand
     nl: mentale staat
@@ -119,7 +119,7 @@ dv_has_:
     uz: Ruhiy holat
     vec: stato mentałe
     zh: 心理狀態
-    zh-hant: 心智狀態
+    zh_hant: 心智狀態
 ---
 # [[Mental_State]] 
 

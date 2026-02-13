@@ -89,7 +89,7 @@ dv_has_:
     ast: Tertuliano
     az: Tertullian
     ba: Тертуллиан
-    be-tarask: Тэртуліян
+    be_tarask: Тэртуліян
     bg: Тертулиан
     br: Tertullianus
     ca: Tertuŀlià
@@ -137,7 +137,7 @@ dv_has_:
     pl: Tertulian
     ps: ترتولیان
     pt: Tertuliano
-    pt-br: Tertuliano
+    pt_br: Tertuliano
     ro: Tertulian
     ru: Тертуллиан
     rw: Tertullien
@@ -147,8 +147,8 @@ dv_has_:
     sl: Tertulijan
     sq: Tertuliani
     sr: Тертулијан
-    sr-ec: Тертулијан
-    sr-el: Tertulijan
+    sr_ec: Тертулијан
+    sr_el: Tertulijan
     sv: Tertullianus
     sw: Tertuliani
     tr: Tertullianus
@@ -159,12 +159,12 @@ dv_has_:
     wuu: 特土良
     yue: 特土良
     zh: 特土良
-    zh-cn: 特土良
-    zh-hans: 特土良
-    zh-hant: 特土良
-    zh-hk: 特土良
-    zh-sg: 特土良
-    zh-tw: 特土良
+    zh_cn: 特土良
+    zh_hans: 特土良
+    zh_hant: 特土良
+    zh_hk: 特土良
+    zh_sg: 特土良
+    zh_tw: 特土良
 ---
 # [[Tertullian]]  
 

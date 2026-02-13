@@ -162,7 +162,7 @@ dv_has_:
     ba: Зороастризм
     bcl: Zoroastrianismo
     be: зараастрызм
-    be-tarask: зараастрызм
+    be_tarask: зараастрызм
     bg: Зороастризъм
     bn: জরাথুস্ট্রবাদ
     bo: ཛོ་ར་སིའི་ཆོས་ལུགས།
@@ -184,8 +184,8 @@ dv_has_:
     dv: ފާރިސީދީން
     el: Ζωροαστρισμός
     en: Zoroastrianism
-    en-ca: Zoroastrianism
-    en-gb: Zoroastrianism
+    en_ca: Zoroastrianism
+    en_gb: Zoroastrianism
     eo: Zaratuŝtrismo
     es: zoroastrismo
     et: Zoroastrism
@@ -227,7 +227,7 @@ dv_has_:
     ko: 조로아스터교
     ks: زرتشیت
     ku: zerdeştîtî
-    ku-latn: zerdeştîtî
+    ku_latn: zerdeştîtî
     ky: Зороастризм
     la: Zoroastrismus
     lad: Zoroastrizmo
@@ -264,7 +264,7 @@ dv_has_:
     pnb: زرتشتیت
     ps: زرتشتيت
     pt: zoroastrismo
-    pt-br: Zoroastrismo
+    pt_br: Zoroastrismo
     ro: Zoroastrism
     ru: зороастризм
     rue: Зороастрізм
@@ -280,15 +280,15 @@ dv_has_:
     sn: Uzoroasti
     sq: Zarathustrizmi
     sr: зороастризам
-    sr-ec: зороастризам
-    sr-el: zoroastrizam
+    sr_ec: зороастризам
+    sr_el: zoroastrizam
     su: Zoroastrianisme
     sv: zoroastrism
     sw: Uzoroastro
     ta: சரத்துஸ்திர சமயம்
     te: జొరాస్ట్రియన్ మతం
     tg: маздаясно
-    tg-cyrl: Маздаясна
+    tg_cyrl: Маздаясна
     th: ศาสนาโซโรอัสเตอร์
     tk: Zaratuştra dini
     tl: Soroastrismo
@@ -309,7 +309,7 @@ dv_has_:
     yue: 瑣羅亞斯德教
     za: baihojgyau
     zh: 琐罗亚斯德教
-    zh-cn: 祆教
+    zh_cn: 祆教
 ---
 # [[Zoroastrianism]] 
 

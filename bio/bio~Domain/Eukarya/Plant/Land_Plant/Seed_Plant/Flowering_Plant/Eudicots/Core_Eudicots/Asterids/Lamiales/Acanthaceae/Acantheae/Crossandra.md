@@ -48,7 +48,7 @@ dv_has_:
     pa: ਅਬੋਲੀ
     pl: Crossandra
     pt: Crossandra
-    pt-br: Crossandra
+    pt_br: Crossandra
     ro: Crossandra
     ru: Кроссандра
     sk: krosandra
@@ -61,12 +61,12 @@ dv_has_:
     vo: Crossandra
     war: Crossandra
     zh: 十字爵床属
-    zh-cn: 十字爵床属
-    zh-hans: 十字爵床属
-    zh-hant: 十字爵床屬
-    zh-hk: 十字爵床屬
-    zh-sg: 十字爵床属
-    zh-tw: 十字爵床屬
+    zh_cn: 十字爵床属
+    zh_hans: 十字爵床属
+    zh_hant: 十字爵床屬
+    zh_hk: 十字爵床屬
+    zh_sg: 十字爵床属
+    zh_tw: 十字爵床屬
 ---
 # [[Crossandra]] 
 

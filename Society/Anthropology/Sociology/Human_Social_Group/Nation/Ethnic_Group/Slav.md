@@ -146,7 +146,7 @@ dv_has_:
     az: Slavyanlar
     bar: Slawn
     be: славяне
-    be-tarask: славяне
+    be_tarask: славяне
     bg: Славяни
     bs: Slaveni
     ca: eslaus
@@ -204,7 +204,7 @@ dv_has_:
     my: ဆလဗလူမျိုး
     nan: Slav Lâng
     nb: slavere
-    nds-nl: Slaviske völker
+    nds_nl: Slaviske völker
     nl: Slavische volkeren
     nn: Slaviske folk
     oc: Eslaus
@@ -232,7 +232,7 @@ dv_has_:
     tl: Mga Eslabo
     tr: Slavlar
     tt: славяннар
-    tt-cyrl: славяннар
+    tt_cyrl: славяннар
     uk: слов’яни
     ur: سلاو
     uz: Slavyanlar

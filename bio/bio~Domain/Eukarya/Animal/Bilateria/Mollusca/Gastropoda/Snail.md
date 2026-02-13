@@ -155,7 +155,7 @@ dv_has_:
     ban: kakul
     bcl: atol
     be: слімак
-    be-tarask: сьлімак
+    be_tarask: сьлімак
     bg: градински охлюв
     bn: শামুক
     br: melc'hwed-krogennek
@@ -267,12 +267,12 @@ dv_has_:
     yue: 蝸牛
     za: saehaexma
     zh: 蜗牛
-    zh-cn: 蜗牛
-    zh-hans: 蜗牛
-    zh-hant: 蝸牛
-    zh-hk: 蝸牛
-    zh-sg: 蜗牛
-    zh-tw: 蝸牛
+    zh_cn: 蜗牛
+    zh_hans: 蜗牛
+    zh_hant: 蝸牛
+    zh_hk: 蝸牛
+    zh_sg: 蜗牛
+    zh_tw: 蝸牛
 ---
 # [[Snail]] 🐌 
 

@@ -78,7 +78,7 @@ dv_has_:
     az: Buzlu çay
     ba: Һалҡын сәй
     be: халодная гарбата
-    be-tarask: халодная гарбата
+    be_tarask: халодная гарбата
     bew: Ès té
     bg: студен чай
     ca: te amb gel
@@ -130,11 +130,11 @@ dv_has_:
     yue: 凍茶
     zh: 冰茶
     zh-cn: 冰茶
-    zh-hans: 冰茶
-    zh-hant: 冰茶
-    zh-hk: 冰茶
-    zh-sg: 冰茶
-    zh-tw: 冰茶
+    zh_hans: 冰茶
+    zh_hant: 冰茶
+    zh_hk: 冰茶
+    zh_sg: 冰茶
+    zh_tw: 冰茶
 ---
 # [[Iced_Tea]] 
 

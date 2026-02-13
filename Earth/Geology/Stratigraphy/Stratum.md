@@ -76,7 +76,7 @@ dv_has_:
     ast: Estratu
     az: Lay
     be: Пласт
-    be-tarask: пласт
+    be_tarask: пласт
     bg: Пласт
     ca: estrat
     ckb: چین
@@ -117,8 +117,8 @@ dv_has_:
     sl: plast
     so: Lakab dhul
     sr: геолошки слој
-    sr-ec: геолошки слој
-    sr-el: geološki sloj
+    sr_ec: геолошки слој
+    sr_el: geološki sloj
     sv: Stratum
     tl: Stratum
     tr: Katman

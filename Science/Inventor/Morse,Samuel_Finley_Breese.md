@@ -200,7 +200,7 @@ dv_has_:
     az: Samuel Morze
     ba: Морзе Сэмюэл
     be: Самуэль Морзэ
-    be-tarask: Сэм’юэл Морзэ
+    be_tarask: Сэм’юэл Морзэ
     bg: Самюъл Морз
     bn: স্যামুয়েল মোর্স
     bs: Samuel Finley Breese Morse
@@ -212,12 +212,12 @@ dv_has_:
     da: Samuel Morse
     dag: Samuel Finley Breese Morse
     de: Samuel F. B. Morse
-    de-ch: Samuel F. B. Morse
+    de_ch: Samuel F. B. Morse
     diq: Samuel Morse
     el: Σάμιουελ Μορς
     en: Samuel Finley Breese Morse
-    en-ca: Samuel Morse
-    en-gb: Samuel Morse
+    en_ca: Samuel Morse
+    en_gb: Samuel Morse
     eo: Samuel Morse
     es: Samuel Morse
     et: Samuel Morse
@@ -264,7 +264,7 @@ dv_has_:
     pl: Samuel Morse
     pnb: سیموئل مورس
     pt: Samuel Morse
-    pt-br: Samuel Morse
+    pt_br: Samuel Morse
     ro: Samuel Morse
     ru: Сэмюэл Морзе
     rw: Samuel Morse
@@ -292,7 +292,7 @@ dv_has_:
     xmf: სამუელ მორზე
     yue: 摩斯
     zh: 萨缪尔·摩尔斯
-    zh-hk: 森姆·摩斯
+    zh_hk: 森姆·摩斯
 ---
 # [[Morse,Samuel_Finley_Breese]] 
 

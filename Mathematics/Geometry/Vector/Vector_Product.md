@@ -95,7 +95,7 @@ dv_has_:
     ar: ضرب اتجاهي
     ast: productu vectorial
     ba: векторлы ҡабатландыҡ
-    be-tarask: вэктарнае множаньне
+    be_tarask: вэктарнае множаньне
     bg: векторно произведение
     bn: ক্রস ভেক্টর
     bs: vektorski proizvod
@@ -161,12 +161,12 @@ dv_has_:
     wuu: 叉积
     yue: 外積
     zh: 向量积
-    zh-cn: 向量积
-    zh-hans: 向量积
-    zh-hant: 向量積
-    zh-hk: 向量積
-    zh-sg: 向量积
-    zh-tw: 向量積
+    zh_cn: 向量积
+    zh_hans: 向量积
+    zh_hant: 向量積
+    zh_hk: 向量積
+    zh_sg: 向量积
+    zh_tw: 向量積
 ---
 # [[Vector_Product]] 
 

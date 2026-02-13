@@ -77,7 +77,7 @@ dv_has_:
     ast: Pólder
     az: Polder
     be: Польдар
-    be-tarask: польдэр
+    be_tarask: польдэр
     bg: Полдер
     br: Polder
     bs: Polder
@@ -107,11 +107,11 @@ dv_has_:
     ja: 干拓
     ka: პოლდერი
     kk: Польдерлер
-    kk-arab: پولدەرلەر
+    kk_arab: پولدەرلەر
     kk-cn: پولدەرلەر
-    kk-cyrl: Польдерлер
+    kk_cyrl: Польдерлер
     kk-kz: Польдерлер
-    kk-latn: Polʹderler
+    kk_latn: Polʹderler
     kk-tr: Polʹderler
     ko: 폴더
     ky: Польдер
@@ -123,7 +123,7 @@ dv_has_:
     mk: полдер
     nb: polder
     nds: Groden
-    nds-nl: polder
+    nds_nl: polder
     nl: polder
     nn: polder
     oc: Poldèr
@@ -131,7 +131,7 @@ dv_has_:
     pap: Polder
     pl: polder
     pt: pólder
-    pt-br: pôlder
+    pt_br: pôlder
     ro: polder
     ru: Польдер
     sh: Polder
@@ -147,12 +147,12 @@ dv_has_:
     wuu: 围垦
     yue: 圩田
     zh: 圩
-    zh-cn: 围垦
-    zh-hans: 干拓
-    zh-hant: 圩
-    zh-hk: 干拓
-    zh-sg: 干拓
-    zh-tw: 圩
+    zh_cn: 围垦
+    zh_hans: 干拓
+    zh_hant: 圩
+    zh_hk: 干拓
+    zh_sg: 干拓
+    zh_tw: 圩
 ---
 # [[Polder]] 
 

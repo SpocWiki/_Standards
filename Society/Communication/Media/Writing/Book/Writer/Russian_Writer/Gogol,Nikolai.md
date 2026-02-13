@@ -198,7 +198,7 @@ dv_has_:
     azb: نیکلای قوقول
     ba: Гоголь Николай Васильевич
     be: Мікалай Васільевіч Гогаль
-    be-tarask: Мікалай Гогаль
+    be_tarask: Мікалай Гогаль
     bew: Kolas Gogol
     bg: Николай Гогол
     bn: নিকোলাই গোগোল
@@ -217,7 +217,7 @@ dv_has_:
     diq: Nikolaj Vasiljevitj Gogol
     el: Νικολάι Γκόγκολ
     en: Nikolai Gogol
-    en-ca: Nikolai Gogol
+    en_ca: Nikolai Gogol
     eo: Nikolaj Gogol
     es: Nikolái Gógol
     et: Nikolai Gogol
@@ -274,7 +274,7 @@ dv_has_:
     pa: ਨਿਕੋਲਾਈ ਗੋਗੋਲ
     pl: Nikołaj Gogol
     pt: Nikolai Gogol
-    pt-br: Nikolai Gogol
+    pt_br: Nikolai Gogol
     ro: Nikolai Gogol
     ru: Николай Васильевич Гоголь
     sah: Гоголь Николай Васильевич
@@ -283,7 +283,7 @@ dv_has_:
     sl: Nikolaj Vasiljevič Gogolj
     sq: Nikolai Gogol
     sr: Николај Гогољ
-    sr-ec: Николај Гогољ
+    sr_ec: Николај Гогољ
     sv: Nikolaj Gogol
     tg: Николай Василевич Гогол
     tr: Nikolay Vasilyeviç Gogol
@@ -297,9 +297,9 @@ dv_has_:
     xmf: ნიკოლაი გოგოლი
     yue: 果戈里
     zh: 尼古拉·果戈理
-    zh-cn: 尼古拉·果戈理
-    zh-hans: 尼古拉·果戈理
-    zh-hant: 尼古拉·果戈理
+    zh_cn: 尼古拉·果戈理
+    zh_hans: 尼古拉·果戈理
+    zh_hant: 尼古拉·果戈理
 ---
 # [[Gogol,Nikolai]] 
 

@@ -250,7 +250,7 @@ dv_has_:
     ban: Max Planck
     bar: Max Planck
     be: Макс Планк
-    be-tarask: Макс Плянк
+    be_tarask: Макс Плянк
     bg: Макс Планк
     bho: मैक्स प्लैंक
     bn: ম্যাক্স প্লাংক
@@ -267,12 +267,12 @@ dv_has_:
     cy: Max Planck
     da: Max Planck
     de: Max Planck
-    de-ch: Max Planck
+    de_ch: Max Planck
     diq: Max Planck
     el: Μαξ Πλανκ
     en: Max Planck
-    en-ca: Max Planck
-    en-gb: Max Planck
+    en_ca: Max Planck
+    en_gb: Max Planck
     eo: Max Planck
     es: Max Planck
     et: Max Planck
@@ -349,7 +349,7 @@ dv_has_:
     pnb: میکس پلانک
     ps: ماکس پلانک
     pt: Max Planck
-    pt-br: Max Planck
+    pt_br: Max Planck
     qu: Max Planck
     ro: Max Planck
     ru: Макс Планк
@@ -365,7 +365,7 @@ dv_has_:
     sl: Max Planck
     sq: Max Planck
     sr: Макс Планк
-    sr-ec: Макс Планк
+    sr_ec: Макс Планк
     su: Max Planck
     sv: Max Planck
     sw: Max Planck
@@ -390,9 +390,9 @@ dv_has_:
     yo: Max Planck
     yue: 普朗克
     zh: 馬克斯·普朗克
-    zh-cn: 马克斯·普朗克
-    zh-hant: 馬克斯·普朗克
-    zh-tw: 馬克斯·普朗克
+    zh_cn: 马克斯·普朗克
+    zh_hant: 馬克斯·普朗克
+    zh_tw: 馬克斯·普朗克
 ---
 # [[Planck,Max]] 
 

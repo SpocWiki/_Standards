@@ -115,7 +115,7 @@ dv_has_:
     ast: Armariu
     atj: Actasoniwoc
     be: гардэроб
-    be-tarask: гардэроб
+    be_tarask: гардэроб
     bg: Гардероб
     bho: आलमारी
     bn: আলমারি
@@ -163,18 +163,18 @@ dv_has_:
     ml: അലമാരി
     mn: Шүүгээ
     ms: almari pakaian
-    ms-arab: الماري ڤاکاين
+    ms_arab: الماري ڤاکاين
     mwl: Almairo
     nb: skap
     nds: Schapp
-    nds-nl: kaste
+    nds_nl: kaste
     nl: kast
     nn: skåp
     nrm: armouère
     oc: Armari
     pl: szafa
     pt: armário
-    pt-br: armário
+    pt_br: armário
     qu: Churana
     rsk: Орман
     ru: платяной шкаф
@@ -186,8 +186,8 @@ dv_has_:
     sl: omara
     sq: Gardëroba
     sr: Ормар
-    sr-ec: Ормар
-    sr-el: Ormar
+    sr_ec: Ормар
+    sr_el: Ormar
     su: Lomari
     sv: skåp
     sw: Kabati

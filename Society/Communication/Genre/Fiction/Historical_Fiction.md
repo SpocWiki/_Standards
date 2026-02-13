@@ -5,7 +5,7 @@ dv_has_:
     ar: خيال تاريخي
     arz: خيال تاريخى
     be: гістарычны фікшн
-    be-tarask: гістарычная выдумка
+    be_tarask: гістарычная выдумка
     bn: ঐতিহাসিক কল্পকাহিনী
     ca: ficció històrica
     ckb: خەیاڵی مێژوویی
@@ -15,7 +15,7 @@ dv_has_:
     de: historische Fiktion
     el: ιστορική μυθοπλασία
     en: historical fiction
-    en-gb: historical fiction
+    en_gb: historical fiction
     eo: historia fikcio
     es: ficción histórica
     eu: fikzioa historiko
@@ -46,8 +46,8 @@ dv_has_:
     ru: художественное произведение об истории
     sl: zgodovinska fikcija
     sr: историјска фикција
-    sr-ec: историјска фикција
-    sr-el: istorijska fikcija
+    sr_ec: историјска фикција
+    sr_el: istorijska fikcija
     sv: historisk fiktion
     tr: tarihi kurgu
     tt: тарихи нәфис әдәбият
@@ -57,9 +57,9 @@ dv_has_:
     vi: tiểu thuyết lịch sử
     yue: 歷史演義
     zh: 時代劇
-    zh-hans: 时代剧
-    zh-hant: 時代劇
-    zh-hk: 時代劇
+    zh_hans: 时代剧
+    zh_hant: 時代劇
+    zh_hk: 時代劇
 aliases:
 - ffuglen hanesyddol
 - ficció històrica

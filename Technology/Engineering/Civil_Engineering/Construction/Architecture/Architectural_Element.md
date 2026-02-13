@@ -64,7 +64,7 @@ dv_has_:
     ar: عنصر معماري
     ast: elementu arquiteutónicu
     be: будаўнічы элемент
-    be-tarask: архітэктурны элемэнт
+    be_tarask: архітэктурны элемэнт
     br: elfenn savouriezh
     ca: element arquitectònic
     cs: architektonický prvek
@@ -93,20 +93,20 @@ dv_has_:
     mk: архитектонски елемент
     mn: Барилгын хэсэглэл
     ms: unsur seni bina
-    ms-arab: عنصور سني بينا
+    ms_arab: عنصور سني بينا
     nb: arkitektonisk element
     nl: architecturaal element
     nn: bygningsdel
     pl: element architektoniczny
     pt: elemento arquitetónico
-    pt-br: elemento arquitetónico
+    pt_br: elemento arquitetónico
     ro: element arhitectural
     ru: строительный блок
     sh: arhitektonski element
     sk: architektonický článok
     sl: arhitekturni element
     sr: архитектонски елемент
-    sr-ec: архитектонски елемент
+    sr_ec: архитектонски елемент
     sv: byggnadsdetalj
     tg: Блок (сохтмон)
     tr: mimari öge
@@ -115,14 +115,14 @@ dv_has_:
     vec: ełemento architetònego
     yue: 土木元素
     zh: 建築元素
-    zh-cn: 建筑元素
-    zh-hans: 建筑元素
-    zh-hant: 建築元素
-    zh-hk: 建築元素
-    zh-mo: 建築元素
+    zh_cn: 建筑元素
+    zh_hans: 建筑元素
+    zh_hant: 建築元素
+    zh_hk: 建築元素
+    zh_mo: 建築元素
     zh-my: 建筑元素
-    zh-sg: 建筑元素
-    zh-tw: 建築元素
+    zh_sg: 建筑元素
+    zh_tw: 建築元素
 ---
 # [[Architectural_Element]] 
 

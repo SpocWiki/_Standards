@@ -82,7 +82,7 @@ dv_has_:
     ban: James Monroe
     bcl: James Monroe
     be: Джэймс Манро
-    be-tarask: Джэймз Манро
+    be_tarask: Джэймз Манро
     bg: Джеймс Монро
     bi: James Monroe
     bn: জেমস মন্রো
@@ -106,8 +106,8 @@ dv_has_:
     ee: James Monroe
     el: Τζέιμς Μόνροου
     en: James Monroe
-    en-ca: James Monroe
-    en-gb: James Monroe
+    en_ca: James Monroe
+    en_gb: James Monroe
     eo: James Monroe
     es: James Monroe
     et: James Monroe
@@ -182,7 +182,7 @@ dv_has_:
     pnb: جیمز مونرو
     ps: جيمز مينرو
     pt: James Monroe
-    pt-br: James Monroe
+    pt_br: James Monroe
     qu: James Monroe
     rmf: James Monroe
     ro: James Monroe
@@ -225,7 +225,7 @@ dv_has_:
     yo: James Monroe
     yue: 占士文路
     zh: 詹姆斯·门罗
-    zh-hk: 占士·門羅
+    zh_hk: 占士·門羅
   time_:
     started: 1758-04-28T00:00:00.000+00:53
     stopped: 1831-07-04T00:00:00.000+00:53

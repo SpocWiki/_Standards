@@ -17,7 +17,7 @@ has_id_wikidata: Q5447288
 dv_has_:
   name_:
     ar: عمر المنتج
-    be-tarask: жыцьцёвы цыкль прадукту
+    be_tarask: жыцьцёвы цыкль прадукту
     ca: vida útil del producte
     de: Produktlebensdauer
     en: product lifetime

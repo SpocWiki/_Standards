@@ -114,7 +114,7 @@ dv_has_:
     ast: clas social
     az: sosial sinif
     be: сацыяльны стан
-    be-tarask: сацыяльная кляса
+    be_tarask: сацыяльная кляса
     bg: Социална класа
     bho: सामाजिक तबका
     bn: সামাজিক শ্রেণী
@@ -128,12 +128,12 @@ dv_has_:
     da: samfundsklasse
     de: soziale Klasse
     de-at: soziale Klasse
-    de-ch: soziale Klasse
+    de_ch: soziale Klasse
     diq: Sınıfa sosyale
     el: κοινωνική τάξη
     en: social class
-    en-ca: social class
-    en-gb: social class
+    en_ca: social class
+    en_gb: social class
     eo: socia klaso
     es: clase social
     et: sotsiaalne klass
@@ -161,7 +161,7 @@ dv_has_:
     kk: Қоғамдық тап
     ko: 사회 계급
     ku: çîna civakî
-    ku-latn: çîna civakî
+    ku_latn: çîna civakî
     ky: Коомдук таптар
     la: classis
     lb: sozial Klass
@@ -179,7 +179,7 @@ dv_has_:
     pa: ਸਾਮਾਜਕ ਵਰਗ
     pl: klasa społeczna
     pt: classe social
-    pt-br: classe social
+    pt_br: classe social
     ro: clasă socială
     ru: социальный класс
     sd: طبقو
@@ -190,8 +190,8 @@ dv_has_:
     so: Dabaqad mujtamac
     sq: klasë shoqërore
     sr: друштвена класа
-    sr-ec: друштвена класа
-    sr-el: društvena klasa
+    sr_ec: друштвена класа
+    sr_el: društvena klasa
     sv: samhällsklass
     sw: Tabaka (jamii)
     ta: சமூக வகுப்பு
@@ -201,8 +201,8 @@ dv_has_:
     tl: Uring panlipunan
     tr: toplumsal sınıf
     tt: иҗтимагый сыйныф
-    tt-cyrl: иҗтимагый сыйныф
-    tt-latn: ictimaği sıynıf
+    tt_cyrl: иҗтимагый сыйныф
+    tt_latn: ictimaği sıynıf
     uk: соціальний клас
     ur: سماجی طبقہ
     uz: Ijtimoiy sinflar
@@ -210,12 +210,12 @@ dv_has_:
     wuu: 社会阶级
     yue: 社會階層
     zh: 社会阶级
-    zh-cn: 社会阶级
-    zh-hans: 社会阶级
-    zh-hant: 社會階級
-    zh-hk: 社會階級
-    zh-sg: 社会阶级
-    zh-tw: 社會階級
+    zh_cn: 社会阶级
+    zh_hans: 社会阶级
+    zh_hant: 社會階級
+    zh_hk: 社會階級
+    zh_sg: 社会阶级
+    zh_tw: 社會階級
 ---
 # [[Social_Class]] 
 

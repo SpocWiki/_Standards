@@ -142,7 +142,7 @@ dv_has_:
     bar: Elektrotechnik
     bcl: Inhinyeriyang elektrikal
     be: электратэхніка
-    be-tarask: электратэхніка
+    be_tarask: электратэхніка
     bg: Електротехника
     bn: তড়িৎ ও বৈদ্যুতিন প্রকৌশল
     bs: elektrotehnika
@@ -152,11 +152,11 @@ dv_has_:
     cy: Peirianneg drydanol
     da: elektroteknik
     de: Elektrotechnik
-    de-ch: Elektrotechnik
+    de_ch: Elektrotechnik
     el: ηλεκτρολογία μηχανική
     en: electrical engineering
-    en-ca: Electrical engineering
-    en-gb: electrical engineering
+    en_ca: Electrical engineering
+    en_gb: electrical engineering
     eo: elektroteĥniko
     es: ingeniería eléctrica
     et: elektrotehnika
@@ -182,7 +182,7 @@ dv_has_:
     jbo: dikca mi'irlarcu
     ka: ელექტროტექნიკა
     kk: электртехника
-    kk-cyrl: электртехника
+    kk_cyrl: электртехника
     ko: 전기공학
     ku: Endezyariya elektrîkê
     ky: электротехника
@@ -251,13 +251,13 @@ dv_has_:
     yue: 電機工程
     zgh: ⵜⴰⵏⵣⴳⴳⵉⵜ ⵜⴰⵎⵥⵥⴰⵕⵓⵕⵜ
     zh: 電機工程學
-    zh-cn: 电气工程学
-    zh-hans: 电气工程学
-    zh-hant: 電機工程學
-    zh-hk: 電機工程學
-    zh-mo: 電機工程學
-    zh-sg: 电气工程学
-    zh-tw: 電機工程學
+    zh_cn: 电气工程学
+    zh_hans: 电气工程学
+    zh_hant: 電機工程學
+    zh_hk: 電機工程學
+    zh_mo: 電機工程學
+    zh_sg: 电气工程学
+    zh_tw: 電機工程學
     zu: UmNgcikisho wamazuba
 ---
 # [[Electrical_Engineering]] 

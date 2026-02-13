@@ -138,7 +138,7 @@ dv_has_:
     ba: Халыҡ-ара ойошма
     bcl: Internasyonal na organisasyon
     be: міжнародная арганізацыя
-    be-tarask: міжнародная арганізацыя
+    be_tarask: міжнародная арганізацыя
     bg: Международна организация
     bn: আন্তর্জাতিক সংস্থা
     br: Aozadur etrebroadel
@@ -150,11 +150,11 @@ dv_has_:
     cy: sefydliad rhyngwladol
     da: international organisation
     de: internationale Organisation
-    de-ch: Internationale Organisation
+    de_ch: Internationale Organisation
     el: διεθνής οργανισμός
     en: international organization
-    en-ca: international organization
-    en-gb: international organisation
+    en_ca: international organization
+    en_gb: international organisation
     eo: internacia organizaĵo
     es: organización internacional
     et: rahvusvaheline organisatsioon
@@ -187,12 +187,12 @@ dv_has_:
     ka: საერთაშორისო ორგანიზაცია
     kaa: xalıqaralıq shólkem
     kk: халықаралық ұйымдар
-    kk-latn: xalıqaralıq uyımdar
+    kk_latn: xalıqaralıq uyımdar
     kn: ಅಂತರರಾಷ್ಟ್ರೀಯ ಸಂಘಟನೆಗಳು
     ko: 국제기구
     krj: organisasyon internasyonal
     ku: rêxistina navneteweyî
-    ku-latn: rêxistina navneteweyî
+    ku_latn: rêxistina navneteweyî
     kw: kowethyans kesgwlasek
     ky: эл аралык уюм
     la: consociatio internationalis
@@ -201,13 +201,13 @@ dv_has_:
     lt: tarptautinė organizacija
     lv: starptautiska organizācija
     lzh: 萬國公會
-    map-bms: Organisasi Internasional
+    map_bms: Organisasi Internasional
     min: Organisasi antarobanso
     mk: меѓународна организација
     ml: അന്താരാഷ്ട്ര സംഘടനകൾ
     mr: अंतरराष्ट्रीय संघटना
     ms: pertubuhan antarabangsa
-    ms-arab: ڤرتوبوهن انتارابڠسا
+    ms_arab: ڤرتوبوهن انتارابڠسا
     nan: Kok-chè cho͘-chit
     nb: internasjonal organisasjon
     nl: internationale organisatie
@@ -219,7 +219,7 @@ dv_has_:
     pl: organizacja międzynarodowa
     ps: نړیوال سازمان
     pt: organização internacional
-    pt-br: organização internacional
+    pt_br: organização internacional
     ro: organizație internațională
     ru: международная организация
     sah: Аан дойду тэрилтэлэрэ
@@ -234,8 +234,8 @@ dv_has_:
     sms: meeraikõskksaž organisaatio
     sq: Organizata ndërkombëtare
     sr: међународна организација
-    sr-ec: међународна организација
-    sr-el: Međunarodna organizacija
+    sr_ec: међународна организација
+    sr_el: Međunarodna organizacija
     sv: internationell organisation
     ta: சர்வதேச அமைப்பு
     te: అంతర్జాతీయ సంస్థ
@@ -243,7 +243,7 @@ dv_has_:
     th: องค์การระหว่างประเทศ
     tr: uluslararası örgüt
     tt: халыкара оешма
-    tt-cyrl: халыкара оешма
+    tt_cyrl: халыкара оешма
     uk: міжнародна організація
     ur: بین الاقوامی تنظیم
     uz: Xalqaro tashkilot
@@ -255,14 +255,14 @@ dv_has_:
     yo: àgbájọ akáríayé
     yue: 國際組織
     zh: 国际组织
-    zh-cn: 国际组织
-    zh-hans: 国际组织
-    zh-hant: 國際組織
-    zh-hk: 國際組織
-    zh-mo: 國際組織
+    zh_cn: 国际组织
+    zh_hans: 国际组织
+    zh_hant: 國際組織
+    zh_hk: 國際組織
+    zh_mo: 國際組織
     zh-my: 国际组织
-    zh-sg: 国际组织
-    zh-tw: 國際組織
+    zh_sg: 国际组织
+    zh_tw: 國際組織
 ---
 # [[International_Organization]] 
 

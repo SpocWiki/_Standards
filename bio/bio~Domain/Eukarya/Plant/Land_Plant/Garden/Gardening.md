@@ -140,7 +140,7 @@ dv_has_:
     az: bağçılıq
     azb: باغچیلیق
     be: садаводства
-    be-tarask: садаводзтва
+    be_tarask: садаводзтва
     bg: градинарство
     br: liorzherezh
     ca: jardineria
@@ -148,12 +148,12 @@ dv_has_:
     cy: garddio
     da: havebrug
     de: Gärtnern
-    de-ch: Gartenbau
+    de_ch: Gartenbau
     diq: baxçivan
     el: κηπουρική
     en: gardening
-    en-ca: gardening
-    en-gb: gardening
+    en_ca: gardening
+    en_gb: gardening
     en-us: gardening
     eo: ĝardenado
     es: jardinería
@@ -184,8 +184,8 @@ dv_has_:
     kk: бақ өсіру
     ko: 정원 가꾸기
     ku: bexçevanî
-    ku-arab: بەخچەڤانی
-    ku-latn: bexçevanî
+    ku_arab: بەخچەڤانی
+    ku_latn: bexçevanî
     la: Hortorum cultus
     li: hovenere
     lt: sodininkystė
@@ -201,7 +201,7 @@ dv_has_:
     pnb: باغبانی
     ps: بڼ پالنه
     pt: jardinagem
-    pt-br: jardinagem
+    pt_br: jardinagem
     rki: ဥယျာဉ်စိုက်ပျိုးရီး
     ro: grădinărit
     ru: садоводство
@@ -214,8 +214,8 @@ dv_has_:
     sk: záhradníctvo
     sl: vrtnarstvo
     sr: баштованство
-    sr-ec: баштованство
-    sr-el: baštovanstvo
+    sr_ec: баштованство
+    sr_el: baštovanstvo
     sv: trädgårdsskötsel
     ta: தோட்டக்கலை
     te: వన సంరక్షణ
@@ -225,7 +225,7 @@ dv_has_:
     tl: paghahalaman
     tr: bahçıvan
     tt: бакчачылык
-    tt-cyrl: бакчачылык
+    tt_cyrl: бакчачылык
     ug: گۈلچىلىك
     uk: садівництво
     ur: باغبانی
@@ -237,12 +237,12 @@ dv_has_:
     yue: 園藝
     zea: oveniere
     zh: 园艺
-    zh-cn: 园艺
-    zh-hans: 园艺
-    zh-hant: 園藝
-    zh-hk: 園藝
-    zh-sg: 园艺
-    zh-tw: 園藝
+    zh_cn: 园艺
+    zh_hans: 园艺
+    zh_hant: 園藝
+    zh_hk: 園藝
+    zh_sg: 园艺
+    zh_tw: 園藝
 ---
 # [[Gardening]] 
 

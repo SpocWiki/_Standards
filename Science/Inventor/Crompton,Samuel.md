@@ -51,7 +51,7 @@ dv_has_:
     ar: صموئيل كرومبتون
     arz: صموئيل كرومبتون
     ast: Samuel Crompton
-    be-tarask: Сэм’юэл Кромптан
+    be_tarask: Сэм’юэл Кромптан
     bg: Самюъл Кромптън
     ca: Samuel Crompton
     cs: Samuel Crompton
@@ -83,7 +83,7 @@ dv_has_:
     pa: ਸੈਮੂਅਲ ਕ੍ਰੋਮਪਟਨ
     pl: Samuel Crompton
     pt: Samuel Crompton
-    pt-br: Samuel Crompton
+    pt_br: Samuel Crompton
     ru: Сэмюэл Кромптон
     sh: Samuel Crompton
     sk: Samuel Crompton

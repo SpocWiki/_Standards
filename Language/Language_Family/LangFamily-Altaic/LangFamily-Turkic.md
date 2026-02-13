@@ -179,7 +179,7 @@ dv_has_:
     azb: تورک دیللری
     ba: Төрки телдәр
     be: цюркскія мовы
-    be-tarask: цюрскія мовы
+    be_tarask: цюрскія мовы
     bg: Тюркски езици
     bn: তুর্কীয় ভাষাসমূহ
     br: yezhoù turkek
@@ -189,7 +189,7 @@ dv_has_:
     ckb: زمانە تورکییەکان
     co: lingui turcichi
     crh: Türkiy tiller
-    crh-latn: Türkiy tiller
+    crh_latn: Türkiy tiller
     crh-ro: túrúk tíllerí
     cs: turkické jazyky
     cv: Тĕрĕк чĕлхисем
@@ -200,8 +200,8 @@ dv_has_:
     dsb: Turkojske rěcy
     el: Τουρκικές γλώσσες
     en: Turkic
-    en-ca: Turkic
-    en-gb: Turkic
+    en_ca: Turkic
+    en_gb: Turkic
     eo: tjurka lingvaro
     es: lenguas túrquicas
     et: turgi keeled
@@ -264,7 +264,7 @@ dv_has_:
     pnb: ترک بولیاں
     ps: تورکي ژبې
     pt: línguas turcomanas
-    pt-br: línguas turcomanas
+    pt_br: línguas turcomanas
     qu: Turku rimaykuna
     ro: limbi turcice
     ru: тюркские языки
@@ -292,8 +292,8 @@ dv_has_:
     tk: Türki dilleri
     tr: Türk dilleri
     tt: төрки телләр
-    tt-cyrl: төрки телләр
-    tt-latn: törki tellär
+    tt_cyrl: төрки телләр
+    tt_latn: törki tellär
     tyv: Түрк дылдар
     udm: Тюрк кылъёс
     ug: تۈركى تىللار ئائىلىسى
@@ -307,14 +307,14 @@ dv_has_:
     yi: טורקישע שפראכן
     yue: 突厥語族
     zh: 突厥语系
-    zh-cn: 突厥语系
-    zh-hans: 突厥语系
-    zh-hant: 突厥語系
-    zh-hk: 突厥語系
-    zh-mo: 突厥語系
+    zh_cn: 突厥语系
+    zh_hans: 突厥语系
+    zh_hant: 突厥語系
+    zh_hk: 突厥語系
+    zh_mo: 突厥語系
     zh-my: 突厥语系
-    zh-sg: 突厥语系
-    zh-tw: 突厥語系
+    zh_sg: 突厥语系
+    zh_tw: 突厥語系
 ---
 # [[LangFamily-Turkic]] 
 

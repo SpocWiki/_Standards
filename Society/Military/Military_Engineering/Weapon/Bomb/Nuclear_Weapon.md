@@ -165,7 +165,7 @@ dv_has_:
     azb: چکیردک بومبی
     ba: ядро ҡоралы
     be: ядзерная зброя
-    be-tarask: ядзерная зброя
+    be_tarask: ядзерная зброя
     bg: Ядрено оръжие
     blk: နျူးကလီးယားစူခွုမ်
     bn: পারমাণবিক অস্ত্র
@@ -234,7 +234,7 @@ dv_has_:
     mn: Цөмийн зэвсэг
     mr: अण्वस्त्र
     ms: senjata nuklear
-    ms-arab: سنجات نوکليار
+    ms_arab: سنجات نوکليار
     mt: Arma nukleari
     my: အဏုမြူ လက်နက်
     nan: He̍k-chú bú-khì
@@ -254,7 +254,7 @@ dv_has_:
     pnb: ایٹم بمب
     ps: هستوي وسلې
     pt: arma nuclear
-    pt-br: arma nuclear
+    pt_br: arma nuclear
     qu: Iñuku huk'i ayñi
     ro: armă nucleară
     ru: ядерное оружие
@@ -271,7 +271,7 @@ dv_has_:
     sn: Zvombo zveShomwe
     sq: armët bërthamore
     sr: нуклеарно оружје
-    sr-ec: нуклеарно оружје
+    sr_ec: нуклеарно оружје
     stq: Käädenwoape
     su: Pakarang nuklir
     sv: kärnvapen
@@ -295,8 +295,8 @@ dv_has_:
     yi: נוקלעארער וואפן
     yue: 核武
     zh: 核武器
-    zh-hans: 核武器
-    zh-hant: 核子武器
+    zh_hans: 核武器
+    zh_hant: 核子武器
     zu: Isikhali senuzi
 ---
 # [[Nuclear_Weapon]] 

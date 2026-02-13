@@ -111,7 +111,7 @@ dv_has_:
     azb: کاقاانقان
     ba: мәрйен
     be: карал
-    be-tarask: карал
+    be_tarask: карал
     bg: корали
     bho: मूँगा
     bn: প্রবাল
@@ -125,11 +125,11 @@ dv_has_:
     cy: cwrel
     da: koraldyr
     de: Koralle
-    de-ch: Koralle
+    de_ch: Koralle
     el: κοράλλι
     en: coral
-    en-ca: coral
-    en-gb: coral
+    en_ca: coral
+    en_gb: coral
     eo: koralo
     es: coral
     et: korallid
@@ -181,7 +181,7 @@ dv_has_:
     pnb: مرجان
     ps: سمندري ایرم
     pt: coral
-    pt-br: coral
+    pt_br: coral
     qu: mullu
     ro: coral
     ru: коралл
@@ -214,12 +214,12 @@ dv_has_:
     yi: קאראל
     yue: 珊瑚
     zh: 珊瑚
-    zh-cn: 珊瑚
-    zh-hans: 珊瑚
-    zh-hant: 珊瑚
-    zh-hk: 珊瑚
-    zh-sg: 珊瑚
-    zh-tw: 珊瑚
+    zh_cn: 珊瑚
+    zh_hans: 珊瑚
+    zh_hant: 珊瑚
+    zh_hk: 珊瑚
+    zh_sg: 珊瑚
+    zh_tw: 珊瑚
 ---
 # [[Coral]] 
 

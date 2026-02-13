@@ -14,11 +14,11 @@ dv_has_:
     cy: A View to a Kill
     da: A View to a Kill
     de: James Bond 007 – Im Angesicht des Todes
-    de-ch: James Bond 007 – Im Angesicht des Todes
+    de_ch: James Bond 007 – Im Angesicht des Todes
     el: 'Τζέιμς Μποντ, πράκτωρ 007: Επιχείρηση «Κινούμενος Στόχος»'
     en: A View to a Kill
-    en-ca: A View to a Kill
-    en-gb: A View to a Kill
+    en_ca: A View to a Kill
+    en_gb: A View to a Kill
     es: A View to a Kill
     et: '007: Surma palge ees'
     eu: A View to a Kill
@@ -48,14 +48,14 @@ dv_has_:
     nn: Med døden i sikte
     pl: Zabójczy widok
     pt: A View to a Kill
-    pt-br: A View to a Kill
+    pt_br: A View to a Kill
     ru: Вид на убийство
     sco: A View to a Kill
     sh: A View to a Kill
     sk: Vyhliadka na smrť
     sr: Поглед на убиство
-    sr-ec: Поглед на убиство
-    sr-el: Pogled na ubistvo
+    sr_ec: Поглед на убиство
+    sr_el: Pogled na ubistvo
     sv: Levande måltavla
     te: ఎ వ్యూ టు ఎ కిల్
     th: 007 พยัคฆ์ร้ายพญายม
@@ -65,12 +65,12 @@ dv_has_:
     uz: Qotillik uchun sharoit
     yue: 鐵金剛勇戰大狂魔
     zh: 鐵金剛勇戰大狂魔
-    zh-cn: 雷霆杀机
-    zh-hans: 铁金刚勇战大狂魔
-    zh-hant: 雷霆殺機
-    zh-hk: 鐵金剛勇戰大狂魔
-    zh-sg: 铁金刚大战电子党
-    zh-tw: 雷霆殺機
+    zh_cn: 雷霆杀机
+    zh_hans: 铁金刚勇战大狂魔
+    zh_hant: 雷霆殺機
+    zh_hk: 鐵金剛勇戰大狂魔
+    zh_sg: 铁金刚大战电子党
+    zh_tw: 雷霆殺機
 aliases:
 - 007 - Bersaglio mobile
 - 007 ja kuoleman katse

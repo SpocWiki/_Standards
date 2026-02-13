@@ -49,7 +49,7 @@ dv_has_:
     ar: سيف ذو حدين
     ast: Espada afarolada
     be: Рапіра
-    be-tarask: рапіра
+    be_tarask: рапіра
     bg: Рапира
     br: Rapier
     bs: Rapir
@@ -87,7 +87,7 @@ dv_has_:
     sl: rapir
     sq: Rapier
     sr: рапир
-    sr-ec: рапир
+    sr_ec: рапир
     sv: Rapir
     th: เรเปียร์
     tr: Meç

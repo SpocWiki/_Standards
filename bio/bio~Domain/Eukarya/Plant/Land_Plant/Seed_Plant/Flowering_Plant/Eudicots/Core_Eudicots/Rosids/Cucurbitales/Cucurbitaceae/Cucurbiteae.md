@@ -42,7 +42,7 @@ dv_has_:
     oc: Cucurbiteae
     pl: Cucurbiteae
     pt: Cucurbiteae
-    pt-br: Cucurbiteae
+    pt_br: Cucurbiteae
     ro: Cucurbiteae
     ru: Cucurbiteae
     sq: Cucurbiteae
@@ -51,8 +51,8 @@ dv_has_:
     vo: Cucurbiteae
     war: Cucurbiteae
     zh: 南瓜族
-    zh-cn: 南瓜族
-    zh-tw: 南瓜族
+    zh_cn: 南瓜族
+    zh_tw: 南瓜族
 ---
 # [[Cucurbiteae]] 
 

@@ -95,7 +95,7 @@ dv_has_:
     ast: Emile Berliner
     az: Emil Berliner
     be: Эміль Берлінер
-    be-tarask: Эміль Бэрлінэр
+    be_tarask: Эміль Бэрлінэр
     bg: Емил Берлинер
     ca: Emile Berliner
     cs: Emile Berliner
@@ -132,7 +132,7 @@ dv_has_:
     pms: Emil Berliner
     pnb: امیل برلنر
     pt: Emil Berliner
-    pt-br: Emil Berliner
+    pt_br: Emil Berliner
     ro: Emile Berliner
     ru: Эмиль Берлинер
     sh: Emile Berliner

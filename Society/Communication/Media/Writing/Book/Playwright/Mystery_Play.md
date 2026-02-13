@@ -59,7 +59,7 @@ dv_has_:
     ar: مسرحية الأسرار
     az: Misteriya
     be: містэрыя
-    be-tarask: містэрыя
+    be_tarask: містэрыя
     br: Misterioù ar Grennamzer
     ca: misteri
     cs: Mirákl
@@ -105,9 +105,9 @@ dv_has_:
     tr: gizemli piyes
     uk: Містерія
     zh: 神秘劇
-    zh-cn: 神秘劇
-    zh-hans: 神秘劇
-    zh-hant: 神祕劇
+    zh_cn: 神秘劇
+    zh_hans: 神秘劇
+    zh_hant: 神祕劇
 ---
 # [[Mystery_Play]] 
 

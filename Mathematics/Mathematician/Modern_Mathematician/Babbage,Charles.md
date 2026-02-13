@@ -161,7 +161,7 @@ dv_has_:
     az: Çarlz Bebbic
     azb: چارلز ببیج
     be: Чарльз Бэбідж
-    be-tarask: Чарлз Бэбідж
+    be_tarask: Чарлз Бэбідж
     bg: Чарлз Бабидж
     bn: চার্লস ব্যাবেজ
     bs: Charles Babbage
@@ -173,7 +173,7 @@ dv_has_:
     de: Charles Babbage
     el: Τσαρλς Μπάμπατζ
     en: Charles Babbage
-    en-gb: Charles Babbage
+    en_gb: Charles Babbage
     eo: Charles Babbage
     es: Charles Babbage
     et: Charles Babbage
@@ -230,7 +230,7 @@ dv_has_:
     pnb: چارلز بیبج
     ps: چارلز بابېج
     pt: Charles Babbage
-    pt-br: Charles Babbage
+    pt_br: Charles Babbage
     rmf: Charles Babbage
     ro: Charles Babbage
     ru: Чарльз Бэббидж

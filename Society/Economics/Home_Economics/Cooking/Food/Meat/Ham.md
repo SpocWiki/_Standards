@@ -130,7 +130,7 @@ dv_has_:
     atj: kokoc opwam
     az: vetçina
     be: вяндліна
-    be-tarask: вяндліна
+    be_tarask: вяндліна
     bg: Шунка
     bn: হ্যাম
     br: morzhed-hoc’h
@@ -145,7 +145,7 @@ dv_has_:
     el: ζαμπόν
     eml: Parsótt
     en: ham
-    en-gb: ham
+    en_gb: ham
     en-us: ham
     eo: ŝinko
     es: jamón
@@ -176,13 +176,13 @@ dv_has_:
     jv: Ham
     ka: შაშხი
     kk: жамбас
-    kk-latn: jambas
+    kk_latn: jambas
     kn: ಹ್ಯಾಮ್
     ko: 햄
     krj: hamon
     ku: Jambon
-    ku-arab: ژامبۆن
-    ku-latn: Jambon
+    ku_arab: ژامبۆن
+    ku_latn: Jambon
     kw: mordhos hogh
     ky: жамбаш
     lb: Ham
@@ -201,7 +201,7 @@ dv_has_:
     nan: Há-muh
     nap: Presutto
     nb: skinke
-    nds-nl: schinke
+    nds_nl: schinke
     nl: ham
     nn: skinke
     nv: bisóodi bijáád
@@ -244,11 +244,11 @@ dv_has_:
     yue: 火腿
     zh: 火腿
     zh-cn: 火腿
-    zh-hans: 火腿
-    zh-hant: 火腿
-    zh-hk: 火腿
-    zh-sg: 火腿
-    zh-tw: 火腿
+    zh_hans: 火腿
+    zh_hant: 火腿
+    zh_hk: 火腿
+    zh_sg: 火腿
+    zh_tw: 火腿
 ---
 # [[Ham]]
 

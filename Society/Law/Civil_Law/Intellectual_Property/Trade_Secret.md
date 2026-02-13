@@ -49,7 +49,7 @@ dv_has_:
   name_:
     ar: سر تجاري
     az: Ticarət sirri
-    be-tarask: гандлёвая таямніца
+    be_tarask: гандлёвая таямніца
     bg: Търговска тайна
     ca: secret comercial
     cs: obchodní tajemství
@@ -57,8 +57,8 @@ dv_has_:
     de: Betriebs- und Geschäftsgeheimnis
     el: εμπορικό μυστικό
     en: trade secret
-    en-ca: trade secret
-    en-gb: trade secret
+    en_ca: trade secret
+    en_gb: trade secret
     eo: industria sekreto
     es: secretos comerciales
     eu: Merkataritza-sekretu
@@ -80,7 +80,7 @@ dv_has_:
     nl: fabrieksgeheim
     pl: tajemnica przedsiębiorstwa
     pt: segredo comercial
-    pt-br: Segredo comercial
+    pt_br: Segredo comercial
     ro: secret comercial
     ru: коммерческая тайна
     sk: Obchodné tajomstvo

@@ -117,7 +117,7 @@ dv_has_:
     az: Fond birjası
     ban: Panyiluran asil kasugihan
     be: фондавая біржа
-    be-tarask: фондавая біржа
+    be_tarask: фондавая біржа
     bg: Фондова борса
     bn: স্টক এক্সচেঞ্জ
     ca: borsa de valors
@@ -129,8 +129,8 @@ dv_has_:
     de: Wertpapierbörse
     el: Χρηματιστήριο
     en: stock exchange
-    en-ca: stock exchange
-    en-gb: stock exchange
+    en_ca: stock exchange
+    en_gb: stock exchange
     eo: akcia borso
     es: bolsa de valores
     et: Aktsiabörs
@@ -156,7 +156,7 @@ dv_has_:
     kk: Қор биржасы
     kn: ಸ್ಟಾಕ್ ಎಕ್ಸ್ಚೇಂಜ್
     ko: 증권거래소
-    ku-arab: بورصة
+    ku_arab: بورصة
     lo: ຕະຫລາດຫລັກຊັບ
     lt: vertybinių popierių birža
     lv: fondu birža
@@ -165,7 +165,7 @@ dv_has_:
     mn: Хөрөнгийн бирж
     mr: रोखे बाजार
     ms: bursa saham
-    ms-arab: بورسا ساهم
+    ms_arab: بورسا ساهم
     nan: Chèng-kǹg kau-e̍k-só͘
     nb: aksjebørs
     ne: स्टक एक्सचेन्ज
@@ -177,7 +177,7 @@ dv_has_:
     pl: giełda papierów wartościowych
     pnb: سٹاک ایکسچینج
     pt: bolsa de valores
-    pt-br: bolsa de valores
+    pt_br: bolsa de valores
     qu: Qullqa chhalay
     ro: bursă
     ru: фондовая биржа
@@ -187,8 +187,8 @@ dv_has_:
     sk: Burza cenných papierov
     sl: borza vrednostnih papirjev
     sr: берза вредносних папира
-    sr-ec: берза вредносних папира
-    sr-el: berza vrednosnih papira
+    sr_ec: берза вредносних папира
+    sr_el: berza vrednosnih papira
     su: Bursa éfék
     sv: börs
     sw: Soko la Hisa
@@ -206,14 +206,14 @@ dv_has_:
     wuu: 证券交易所
     yue: 證券交易所
     zh: 证券交易所
-    zh-cn: 证券交易所
-    zh-hans: 证券交易所
-    zh-hant: 證劵交易所
-    zh-hk: 證券交易所
-    zh-mo: 證券交易所
+    zh_cn: 证券交易所
+    zh_hans: 证券交易所
+    zh_hant: 證劵交易所
+    zh_hk: 證券交易所
+    zh_mo: 證券交易所
     zh-my: 证券交易所
-    zh-sg: 证券交易所
-    zh-tw: 證券交易所
+    zh_sg: 证券交易所
+    zh_tw: 證券交易所
     zu: Umnanazabelo
 ---
 # [[Stock_Exchange]] 

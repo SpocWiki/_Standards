@@ -101,7 +101,7 @@ dv_has_:
     ar: مستودع
     ast: Almacén
     az: anbar
-    be-tarask: магазын
+    be_tarask: магазын
     bg: Склад
     bho: गोदाम
     ca: magatzem
@@ -131,11 +131,11 @@ dv_has_:
     it: magazzino
     ja: 倉庫
     kk: қойма
-    kk-arab: قويمالاۋ
+    kk_arab: قويمالاۋ
     kk-cn: قويمالاۋ
-    kk-cyrl: Қоймалау
+    kk_cyrl: Қоймалау
     kk-kz: Қоймалау
-    kk-latn: Qoýmalaw
+    kk_latn: Qoýmalaw
     kk-tr: Qoýmalaw
     kn: ಉಗ್ರಾಣ
     ko: 창고
@@ -152,7 +152,7 @@ dv_has_:
     pl: magazyn
     pnt: μασίνα
     pt: armazém
-    pt-br: armazém
+    pt_br: armazém
     qu: Qullqa
     ro: depozit
     ru: склад
@@ -163,8 +163,8 @@ dv_has_:
     sl: skladišče
     sq: Depoja
     sr: складиште
-    sr-ec: складиште
-    sr-el: skladište
+    sr_ec: складиште
+    sr_el: skladište
     su: Gudang
     sv: magasinsbyggnad
     sw: Ghala
@@ -181,12 +181,12 @@ dv_has_:
     yi: מאגאזין
     yue: 貨倉
     zh: 倉庫
-    zh-cn: 仓库
-    zh-hans: 仓库
-    zh-hant: 倉庫
-    zh-hk: 倉庫
-    zh-sg: 仓库
-    zh-tw: 倉庫
+    zh_cn: 仓库
+    zh_hans: 仓库
+    zh_hant: 倉庫
+    zh_hk: 倉庫
+    zh_sg: 仓库
+    zh_tw: 倉庫
 ---
 # [[Warehouse]] 
 

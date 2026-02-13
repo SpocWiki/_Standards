@@ -264,7 +264,7 @@ dv_has_:
     bar: Liab
     bcl: Pagkamoot
     be: любоў
-    be-tarask: любоў
+    be_tarask: любоў
     bg: любов
     bho: नेह
     bn: ভালোবাসা
@@ -290,12 +290,12 @@ dv_has_:
     da: kærlighed
     dag: Yurilim
     de: Liebe
-    de-ch: Liebe
+    de_ch: Liebe
     dsb: lubosć
     el: αγάπη
     en: love
-    en-ca: Love
-    en-gb: love
+    en_ca: Love
+    en_gb: love
     en-us: love
     eo: amo
     es: amor
@@ -348,7 +348,7 @@ dv_has_:
     kaa: Muhabbat
     kcg: Cat
     kk: Махаббат
-    kk-arab: ماحاببات
+    kk_arab: ماحاببات
     km: ស្នេហា
     kn: ಪ್ರೀತಿ
     knc: Love
@@ -357,7 +357,7 @@ dv_has_:
     ks: لول
     ksh: Leevde
     ku: evîn
-    ku-latn: evîn
+    ku_latn: evîn
     kw: Kerensa
     ky: сүйүү
     la: amor
@@ -393,7 +393,7 @@ dv_has_:
     nan-latn-tailo: Ài
     nb: kjærlighet
     nds: Leev
-    nds-nl: leevde
+    nds_nl: leevde
     ne: माया
     new: मतिना
     nia: Fa'omasi
@@ -413,7 +413,7 @@ dv_has_:
     pnt: εγάπ'
     ps: مينه
     pt: amor
-    pt-br: amor
+    pt_br: amor
     qu: Khuyay
     ro: dragoste
     ru: любовь
@@ -440,8 +440,8 @@ dv_has_:
     so: Jaceyl
     sq: dashuria
     sr: љубав
-    sr-ec: љубав
-    sr-el: ljubav
+    sr_ec: љубав
+    sr_el: ljubav
     ss: Lutsandvo
     sv: kärlek
     sw: pendo
@@ -456,7 +456,7 @@ dv_has_:
     tr: aşk
     ts: Rirhandzu
     tt: сөю
-    tt-cyrl: сөю
+    tt_cyrl: сөю
     tw: ɔdɔ
     tyv: Ынакшыл
     udm: яратон
@@ -478,12 +478,12 @@ dv_has_:
     yue: 愛
     za: Gyaez
     zh: 愛
-    zh-cn: 爱
-    zh-hans: 爱
-    zh-hant: 愛
+    zh_cn: 爱
+    zh_hans: 爱
+    zh_hant: 愛
     zh-my: 爱
-    zh-sg: 爱
-    zh-tw: 愛
+    zh_sg: 爱
+    zh_tw: 愛
     zu: Uthando
 ---
 # [[Love]] 

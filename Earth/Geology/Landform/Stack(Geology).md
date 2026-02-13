@@ -76,16 +76,16 @@ dv_has_:
   name_:
     ar: مسلة بحرية
     az: kekur
-    be-tarask: кекур
+    be_tarask: кекур
     bg: Кекур
     ca: faralló
     da: Havstabel
     de: Brandungspfeiler
-    de-ch: Klippe
+    de_ch: Klippe
     el: στοίβα
     en: stack
-    en-ca: Stack
-    en-gb: stack
+    en_ca: Stack
+    en_gb: stack
     eo: klifinsuletoj
     es: farallón
     eu: Stack (geologia)

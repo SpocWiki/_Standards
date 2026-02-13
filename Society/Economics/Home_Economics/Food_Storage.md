@@ -34,7 +34,7 @@ dv_has_:
   name_:
     af: Voedselbewaring
     ar: تخزين الغذاء
-    be-tarask: зьбераганьне харчовых прадуктаў
+    be_tarask: зьбераганьне харчовых прадуктаў
     bn: খাদ্য মজুদ
     en: food storage
     es: Almacenamiento de alimentos
@@ -54,7 +54,7 @@ dv_has_:
     vi: Cất trữ thực phẩm
     yue: 食物儲存
     zh: 食品儲存
-    zh-hans: 食品储存
+    zh_hans: 食品储存
 ---
 # [[Food_Storage]] 
 

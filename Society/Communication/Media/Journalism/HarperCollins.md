@@ -15,10 +15,10 @@ dv_has_:
     sr: Харпер Колинс
     ur: ہارپر کولنز
     zh: 哈珀柯林斯
-    zh-cn: 哈珀柯林斯
-    zh-hans: 哈珀柯林斯
-    zh-hant: 哈潑·柯林斯
-    zh-hk: 夏柏哥連斯
+    zh_cn: 哈珀柯林斯
+    zh_hans: 哈珀柯林斯
+    zh_hant: 哈潑·柯林斯
+    zh_hk: 夏柏哥連斯
 aliases:
 - HarperCollins
 - Харпер Колинс

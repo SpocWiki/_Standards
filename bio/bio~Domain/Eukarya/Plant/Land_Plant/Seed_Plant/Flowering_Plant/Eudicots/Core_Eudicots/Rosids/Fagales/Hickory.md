@@ -15,11 +15,11 @@ dv_has_:
     cs: ořechovec
     da: Hickory
     de: Hickory
-    de-ch: Hickory
+    de_ch: Hickory
     el: Κάρυα
     en: Carya
-    en-ca: Hickory
-    en-gb: Hickory
+    en_ca: Hickory
+    en_gb: Hickory
     eo: Hikorio
     es: Carya
     et: Hikkoripuu
@@ -52,7 +52,7 @@ dv_has_:
     pdc: Hickernissbaam
     pl: Orzesznik
     pt: Carya
-    pt-br: Carya
+    pt_br: Carya
     ro: Carya
     ru: Кария
     sl: hikorijevec
@@ -65,9 +65,9 @@ dv_has_:
     vo: Carya
     war: Carya
     zh: 山核桃属
-    zh-cn: 山核桃属
-    zh-hans: 山核桃属
-    zh-tw: 山核桃屬
+    zh_cn: 山核桃属
+    zh_hans: 山核桃属
+    zh_tw: 山核桃屬
 aliases:
 - Carya
 - Chi Mạy

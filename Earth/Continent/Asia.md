@@ -322,7 +322,7 @@ dv_has_:
     bbc: Asia
     bcl: Asya
     be: Азія
-    be-tarask: Азія
+    be_tarask: Азія
     bew: Asia
     bg: Азия
     bho: एशिया महादीप
@@ -339,7 +339,7 @@ dv_has_:
     btm: Asia
     bxr: Аази
     ca: Àsia
-    cbk-zam: Asia
+    cbk_zam: Asia
     cdo: Ā-ciŭ
     ce: Ази
     ceb: Asya
@@ -349,7 +349,7 @@ dv_has_:
     ckb: ئاسیا
     co: Asia
     crh: Asiya
-    crh-latn: Asiya
+    crh_latn: Asiya
     crh-ro: Asiye
     cs: Asie
     csb: Azëjô
@@ -359,7 +359,7 @@ dv_has_:
     da: Asien
     dag: Asia
     de: Asien
-    de-ch: Asien
+    de_ch: Asien
     din: Athiɛ
     diq: Asya
     dsb: Azija
@@ -370,8 +370,8 @@ dv_has_:
     el: Ασία
     eml: Asia
     en: Asia
-    en-ca: Asia
-    en-gb: Asia
+    en_ca: Asia
+    en_gb: Asia
     en-us: Asia
     eo: Azio
     es: Asia
@@ -472,7 +472,7 @@ dv_has_:
     lzh: 亞細亞洲
     mad: Asia
     mai: एशिया
-    map-bms: Asia
+    map_bms: Asia
     mdf: Азия
     mg: Azia
     mhr: Азий
@@ -487,7 +487,7 @@ dv_has_:
     mr: आशिया
     mrj: Ази
     ms: Asia
-    ms-arab: اسيا
+    ms_arab: اسيا
     mt: Asja
     mwl: Ásia
     my: အာရှ
@@ -499,7 +499,7 @@ dv_has_:
     nap: Asia
     nb: Asia
     nds: Asien
-    nds-nl: Azie
+    nds_nl: Azie
     ne: एसिया
     new: एसिया
     ng: Asia
@@ -532,7 +532,7 @@ dv_has_:
     pnt: Ασίαν
     ps: آسيا
     pt: Ásia
-    pt-br: Ásia
+    pt_br: Ásia
     pwn: Asiya
     qu: Asiya
     rm: Asia
@@ -568,7 +568,7 @@ dv_has_:
     so: Aasiya
     sq: Azia
     sr: Азија
-    sr-ec: Азија
+    sr_ec: Азија
     srn: Asi
     st: Asia
     stq: Asien
@@ -585,7 +585,7 @@ dv_has_:
     te: ఆసియా
     tet: Ázia
     tg: Осиё
-    tg-cyrl: Осиё
+    tg_cyrl: Осиё
     th: ทวีปเอเชีย
     ti: ኤስያ
     tk: Aziýa
@@ -597,8 +597,8 @@ dv_has_:
     tr: Asya
     ts: Asia
     tt: Азия
-    tt-cyrl: Азия
-    tt-latn: Asia
+    tt_cyrl: Азия
+    tt_latn: Asia
     tum: Asia
     tw: Ehyia
     ty: ’Ātia
@@ -628,14 +628,14 @@ dv_has_:
     zea: Azië
     zgh: ⵜⴰⵣⵉⵜ
     zh: 亞洲
-    zh-cn: 亚洲
-    zh-hans: 亚洲
-    zh-hant: 亞洲
-    zh-hk: 亞洲
-    zh-mo: 亞洲
+    zh_cn: 亚洲
+    zh_hans: 亚洲
+    zh_hant: 亞洲
+    zh_hk: 亞洲
+    zh_mo: 亞洲
     zh-my: 亚洲
-    zh-sg: 亚洲
-    zh-tw: 亞洲
+    zh_sg: 亚洲
+    zh_tw: 亞洲
     zu: I-Eshiya
 dv_is_:
   same_as:

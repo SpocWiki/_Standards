@@ -113,7 +113,7 @@ dv_has_:
     az: Məhsul yığımı
     ban: Panén
     be: Уборка ўраджаю
-    be-tarask: уборка ўраджаю
+    be_tarask: уборка ўраджаю
     bg: Жътва
     bn: ফলন সংগ্রহ
     ca: collita
@@ -149,8 +149,8 @@ dv_has_:
     kn: ಕಟಾವು
     ko: 수확
     ku: Pale
-    ku-arab: پالە
-    ku-latn: Pale
+    ku_arab: پالە
+    ku_latn: Pale
     la: Messis
     li: Zeumere
     lv: ražas novākšana
@@ -176,13 +176,13 @@ dv_has_:
     sn: Kukohwa
     sq: Korrja
     sr: Жетва
-    sr-ec: Жетва
-    sr-el: Žetva
+    sr_ec: Жетва
+    sr_el: Žetva
     sv: skörd
     sw: Mavuno
     ta: அறுவடை
     tg: Ҳосил
-    tg-latn: Hosil
+    tg_latn: Hosil
     tly: məhsuli gyrdə karde
     tr: Hasat
     uk: жниварський обряд
@@ -190,12 +190,12 @@ dv_has_:
     wa: Awousse des dinrêyes
     yue: 收割
     zh: 收割
-    zh-cn: 收割
-    zh-hans: 收割
-    zh-hant: 收割
-    zh-hk: 收割
-    zh-sg: 收割
-    zh-tw: 收割
+    zh_cn: 收割
+    zh_hans: 收割
+    zh_hant: 收割
+    zh_hk: 收割
+    zh_sg: 收割
+    zh_tw: 收割
 ---
 # [[Harvest]] 
 

@@ -153,7 +153,7 @@ dv_has_:
     ba: Вашингтон Ирвинг
     bar: Washington Irving
     be: Вашынгтон Ірвінг
-    be-tarask: Вашынгтон Ірвінг
+    be_tarask: Вашынгтон Ірвінг
     bg: Уошингтън Ървинг
     bm: Washington Irving
     bn: ওয়াশিংটন আরভিং
@@ -168,11 +168,11 @@ dv_has_:
     dag: Washington Irving
     de: Washington Irving
     de-at: Washington Irving
-    de-ch: Washington Irving
+    de_ch: Washington Irving
     el: Ουάσινγκτον Ίρβινγκ
     en: Washington Irving
-    en-ca: Washington Irving
-    en-gb: Washington Irving
+    en_ca: Washington Irving
+    en_gb: Washington Irving
     eo: Washington Irving
     es: Washington Irving
     et: Washington Irving
@@ -229,7 +229,7 @@ dv_has_:
     nap: Washington Irving
     nb: Washington Irving
     nds: Washington Irving
-    nds-nl: Washington Irving
+    nds_nl: Washington Irving
     nl: Washington Irving
     nn: Washington Irving
     nrm: Washington Irving
@@ -240,7 +240,7 @@ dv_has_:
     pms: Washington Irving
     prg: Washington Irving
     pt: Washington Irving
-    pt-br: Washington Irving
+    pt_br: Washington Irving
     rgn: Washington Irving
     rm: Washington Irving
     ro: Washington Irving
@@ -251,12 +251,12 @@ dv_has_:
     sl: Washington Irving
     sq: Washington Irving
     sr: Vašington Irving
-    sr-el: Washington Irving
+    sr_el: Washington Irving
     sv: Washington Irving
     sw: Washington Irving
     ta: வாசிங்டன் இர்விங்
     tg: Вашингтон Ирвинг
-    tg-latn: Vaşington Irving
+    tg_latn: Vaşington Irving
     tk: Waşington Irwing
     tr: Washington Irving
     uk: Вашингтон Ірвінґ
@@ -274,12 +274,12 @@ dv_has_:
     yo: Washington Irving
     yue: 華盛頓伊榮
     zh: 華盛頓·歐文
-    zh-cn: 华盛顿·欧文
-    zh-hans: 华盛顿·欧文
-    zh-hant: 華盛頓·歐文
-    zh-hk: 華盛頓·歐文
-    zh-sg: 华盛顿·欧文
-    zh-tw: 華盛頓·歐文
+    zh_cn: 华盛顿·欧文
+    zh_hans: 华盛顿·欧文
+    zh_hant: 華盛頓·歐文
+    zh_hk: 華盛頓·歐文
+    zh_sg: 华盛顿·欧文
+    zh_tw: 華盛頓·歐文
     zu: Washington Irving
 ---
 # [[Irving,Washington]] 

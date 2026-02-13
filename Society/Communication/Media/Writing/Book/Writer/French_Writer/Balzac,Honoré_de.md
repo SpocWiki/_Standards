@@ -173,7 +173,7 @@ dv_has_:
     azb: انوره دو بالزاک
     ba: Оноре де Бальзак
     be: Анарэ дэ Бальзак
-    be-tarask: Анарэ дэ Бальзак
+    be_tarask: Анарэ дэ Бальзак
     bg: Оноре дьо Балзак
     bn: অনরে দ্য বালজাক
     br: Honoré de Balzac
@@ -186,7 +186,7 @@ dv_has_:
     cy: Honoré de Balzac
     da: Honoré de Balzac
     de: Honoré de Balzac
-    de-ch: Honoré de Balzac
+    de_ch: Honoré de Balzac
     diq: Honoré de Balzac
     el: Ονορέ ντε Μπαλζάκ
     en: Honoré de Balzac
@@ -250,7 +250,7 @@ dv_has_:
     pl: Honoré de Balzac
     pnb: بالزاک
     pt: Honoré de Balzac
-    pt-br: Honoré de Balzac
+    pt_br: Honoré de Balzac
     qu: Honoré de Balzac
     ro: Honoré de Balzac
     ru: Оноре де Бальзак

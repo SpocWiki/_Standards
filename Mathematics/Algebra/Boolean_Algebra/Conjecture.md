@@ -5,7 +5,7 @@ dv_has_:
     ar: حدسية
     ast: conxetura
     ba: Гипотеза (математика)
-    be-tarask: гіпотэза
+    be_tarask: гіпотэза
     bn: অনুমান
     ca: conjectura
     ckb: مەزندە
@@ -32,7 +32,7 @@ dv_has_:
     it: congettura
     ja: 予想
     kk: жорамал
-    kk-latn: joramal
+    kk_latn: joramal
     ko: 추측
     la: coniectura
     lt: prielaida
@@ -42,15 +42,15 @@ dv_has_:
     nl: vermoeden
     pl: przypuszczenie
     pt: conjectura
-    pt-br: conjectura
+    pt_br: conjectura
     ro: conjectură
     ru: гипотеза
     scn: Cungittura
     sk: Domnienka
     sl: matematična domneva
     sr: претпоставка
-    sr-ec: претпоставка
-    sr-el: pretpostavka
+    sr_ec: претпоставка
+    sr_el: pretpostavka
     sv: förmodan
     th: ข้อความคาดการณ์
     tr: konjektür
@@ -59,12 +59,12 @@ dv_has_:
     vi: giả thuyết
     yue: 猜想
     zh: 猜想
-    zh-cn: 猜想
-    zh-hans: 猜想
-    zh-hant: 猜想
-    zh-hk: 猜想
-    zh-sg: 猜想
-    zh-tw: 猜想
+    zh_cn: 猜想
+    zh_hans: 猜想
+    zh_hant: 猜想
+    zh_hk: 猜想
+    zh_sg: 猜想
+    zh_tw: 猜想
 aliases:
 - aieru
 - Baralachas

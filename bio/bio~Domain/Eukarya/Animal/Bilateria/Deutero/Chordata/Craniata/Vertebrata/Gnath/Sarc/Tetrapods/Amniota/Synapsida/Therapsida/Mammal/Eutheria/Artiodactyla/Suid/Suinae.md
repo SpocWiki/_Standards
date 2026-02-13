@@ -49,7 +49,7 @@ dv_has_:
     oc: Suinae
     pl: Świnie
     pt: Suinae
-    pt-br: Suinae
+    pt_br: Suinae
     ro: Suinae
     ru: Suinae
     sl: Suinae
@@ -59,10 +59,10 @@ dv_has_:
     vo: Suinae
     war: Suinae
     zh: 豬亞科
-    zh-cn: 猪亚科
-    zh-hans: 猪亚科
-    zh-hant: 豬亞科
-    zh-tw: 豬亞科
+    zh_cn: 猪亚科
+    zh_hans: 猪亚科
+    zh_hant: 豬亞科
+    zh_tw: 豬亞科
 ---
 # [[Suinae]] 
 

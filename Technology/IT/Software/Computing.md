@@ -110,7 +110,7 @@ dv_has_:
     ast: informática
     az: informatika
     be: вылічальная тэхніка
-    be-tarask: вылічэньні
+    be_tarask: вылічэньні
     bg: Изчислителна техника
     bho: कंप्यूटिंग
     bn: কম্পিউটিং
@@ -146,16 +146,16 @@ dv_has_:
     ka: კომპიუტერული ტექნოლოგია
     kaa: Esaplaw texnikası
     kk: Есептеу техникасы
-    kk-arab: ەسەپتەۋ تەحنىيكاسى
+    kk_arab: ەسەپتەۋ تەحنىيكاسى
     kk-cn: ەسەپتەۋ تەحنىيكاسى
-    kk-cyrl: Есептеу техникасы
+    kk_cyrl: Есептеу техникасы
     kk-kz: Есептеу техникасы
-    kk-latn: Eseptew texnïkası
+    kk_latn: Eseptew texnïkası
     kk-tr: Eseptew texnïkası
     ko: 컴퓨팅
     la: Computatio
     lv: datorika
-    map-bms: Informatika
+    map_bms: Informatika
     mk: сметање
     ml: കമ്പ്യൂട്ടിങ്ങ്
     mn: Тооцоолол
@@ -171,7 +171,7 @@ dv_has_:
     pl: obliczenia
     pms: Càlcol automàtich
     pt: computação
-    pt-br: computação
+    pt_br: computação
     qu: antañiqiy
     ro: informatică aplicată
     ru: вычислительная техника
@@ -183,8 +183,8 @@ dv_has_:
     sl: računalništvo
     sq: Informatika
     sr: рачунарство
-    sr-ec: Рачунарство
-    sr-el: Računarstvo
+    sr_ec: Рачунарство
+    sr_el: Računarstvo
     su: Komputasi
     sv: datoranvändning
     sw: Utarakilishi
@@ -194,7 +194,7 @@ dv_has_:
     tl: Pagkukuwenta
     tr: hesaplama
     tt: компьютиңг
-    tt-cyrl: компьютиңг
+    tt_cyrl: компьютиңг
     uk: комп'ютинг
     ur: کمپیوٹنگ
     uz: Hisoblash texnikasi
@@ -205,9 +205,9 @@ dv_has_:
     yo: Ìṣiṣẹ́ kọ̀mpútà
     yue: 電腦運算
     zh: 计算
-    zh-hans: 计算
-    zh-hant: 計算
-    zh-tw: 計算
+    zh_hans: 计算
+    zh_hant: 計算
+    zh_tw: 計算
     zu: UkuCikiza
 ---
 # [[Computing]] 

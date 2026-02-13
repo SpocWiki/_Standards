@@ -98,7 +98,7 @@ has_id_wikidata: Q43300
 dv_has_:
   name_:
     ab: Абиа
-    aeb-arab: سفرجل
+    aeb_arab: سفرجل
     af: Kweper
     an: Cydonia oblonga
     ar: سفرجل
@@ -108,7 +108,7 @@ dv_has_:
     az: Adi heyva
     azb: هئیوا
     be: Айва
-    be-tarask: айва
+    be_tarask: айва
     bg: обикновена дюля
     br: Aval-stoub
     bs: Dunja
@@ -125,8 +125,8 @@ dv_has_:
     dsb: Pšawa kwitula
     el: κυδωνιά
     en: Cydonia oblonga
-    en-ca: Quince
-    en-gb: quince tree
+    en_ca: Quince
+    en_gb: quince tree
     eo: Cidonio
     es: Cydonia
     et: Küdoonia
@@ -174,7 +174,7 @@ dv_has_:
     ml: സബർജിൽ
     mnc: ᠸᡝᠮᠪᡠᡵᡳ
     ms: safarjal
-    ms-arab: سفرجل
+    ms_arab: سفرجل
     mul: Cydonia oblonga
     mwl: marmeleiro
     my: ချဉ်စော်ကားသီး
@@ -189,7 +189,7 @@ dv_has_:
     pcd: Counhiasse
     pl: pigwa pospolita
     pt: marmeleiro
-    pt-br: Marmeleiro
+    pt_br: Marmeleiro
     ro: Gutui
     rsk: Бишалма
     ru: Айва продолговатая
@@ -222,10 +222,10 @@ dv_has_:
     xmf: ბია
     yue: 金蘋果
     zh: 榲桲
-    zh-cn: 榅桲
-    zh-hans: 榅桲
-    zh-hant: 榲桲
-    zh-tw: 榅桲
+    zh_cn: 榅桲
+    zh_hans: 榅桲
+    zh_hant: 榲桲
+    zh_tw: 榅桲
 ---
 # [[Quince]] 
 

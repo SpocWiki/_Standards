@@ -43,7 +43,7 @@ Commons_category: Homology
 dv_has_:
   name_:
     ar: شباه
-    be-tarask: гамалёгія
+    be_tarask: гамалёгія
     ca: homologia
     cs: homologie
     de: Homologie
@@ -84,9 +84,9 @@ dv_has_:
     wuu: 同调
     yue: 同調
     zh: 同调
-    zh-hans: 同调
-    zh-hant: 同調
-    zh-hk: 同調
+    zh_hans: 同调
+    zh_hant: 同調
+    zh_hk: 同調
 ---
 # [[Homology]] 
 

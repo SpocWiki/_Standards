@@ -35,7 +35,7 @@ dv_has_:
     oc: Ornithorhynchoidea
     pl: Ornithorhynchoidea
     pt: Ornithorhynchoidea
-    pt-br: Ornithorhynchoidea
+    pt_br: Ornithorhynchoidea
     uk: Ornithorhynchoidea
     vo: Ornithorhynchoidea
 ---

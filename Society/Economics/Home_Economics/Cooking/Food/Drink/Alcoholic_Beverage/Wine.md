@@ -238,7 +238,7 @@ dv_has_:
     bbj: mluʼ phə́phə́
     bcl: arak
     be: віно
-    be-tarask: віно
+    be_tarask: віно
     bg: вино
     bkc: pe
     bkh: malɔk
@@ -259,7 +259,7 @@ dv_has_:
     cy: gwin
     da: vin
     de: Wein
-    de-ch: Wein
+    de_ch: Wein
     diq: şerab
     dsb: wino
     dty: वाइन
@@ -267,8 +267,8 @@ dv_has_:
     el: κρασί
     eml: vén
     en: wine
-    en-ca: wine
-    en-gb: wine
+    en_ca: wine
+    en_gb: wine
     en-us: wine
     eo: vino
     es: vino
@@ -363,7 +363,7 @@ dv_has_:
     nap: vino
     nb: vin
     nds: Wien
-    nds-nl: wien
+    nds_nl: wien
     ne: वाइन
     nia: Agu
     nl: wijn
@@ -381,7 +381,7 @@ dv_has_:
     pnb: شراب
     ps: شراب
     pt: vinho
-    pt-br: vinho
+    pt_br: vinho
     qu: winu
     ro: vin
     ru: вино
@@ -405,7 +405,7 @@ dv_has_:
     sn: wayini
     sq: vera
     sr: вино
-    sr-ec: вино
+    sr_ec: вино
     su: anggur
     sv: vin
     sw: divai
@@ -447,8 +447,8 @@ dv_has_:
     yue: 葡萄酒
     za: laeuj makit
     zh: 葡萄酒
-    zh-hans: 葡萄酒
-    zh-hant: 葡萄酒
+    zh_hans: 葡萄酒
+    zh_hant: 葡萄酒
 ---
 # [[Wine]] 🍷 
 

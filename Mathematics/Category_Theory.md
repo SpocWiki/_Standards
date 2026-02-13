@@ -88,7 +88,7 @@ dv_has_:
     ar: نظرية الفئات
     ast: Teoría de categoríes
     be: тэорыя катэгорый
-    be-tarask: тэорыя катэгорыяў
+    be_tarask: тэорыя катэгорыяў
     bg: Теория на категориите
     bn: ক্যাটাগরি তত্ত্ব
     ca: teoria de categories
@@ -123,14 +123,14 @@ dv_has_:
     lfn: teoria de categorias
     mk: теорија на категориите
     ms: teori kategori
-    ms-arab: تيوري کاتݢوري
+    ms_arab: تيوري کاتݢوري
     my: ကတ်တဂိုရီသီအိုရီ
     nb: kategoriteori
     nl: categorietheorie
     nn: kategoriteori
     pl: teoria kategorii
     pt: teoria das categorias
-    pt-br: teoria das categorias
+    pt_br: teoria das categorias
     ro: teoria categoriilor
     ru: теория категорий
     se: kategoriijateoriija
@@ -149,12 +149,12 @@ dv_has_:
     vi: lý thuyết phạm trù
     yue: 範疇論
     zh: 範疇論
-    zh-cn: 范畴论
-    zh-hans: 范畴论
-    zh-hant: 範疇論
-    zh-hk: 範疇論
-    zh-sg: 范畴论
-    zh-tw: 範疇論
+    zh_cn: 范畴论
+    zh_hans: 范畴论
+    zh_hant: 範疇論
+    zh_hk: 範疇論
+    zh_sg: 范畴论
+    zh_tw: 範疇論
 ---
 # [[Category_Theory]] 
 

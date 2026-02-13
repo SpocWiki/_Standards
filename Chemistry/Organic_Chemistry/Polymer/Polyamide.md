@@ -72,11 +72,11 @@ dv_has_:
     ca: poliamida
     cs: polyamid
     de: Polyamide
-    de-ch: Polyamide
+    de_ch: Polyamide
     el: Πολυαμίδιο
     en: polyamide
-    en-ca: Polyamide
-    en-gb: polyamide
+    en_ca: Polyamide
+    en_gb: polyamide
     eo: poliamido
     es: poliamida
     et: polüamiid
@@ -101,7 +101,7 @@ dv_has_:
     oc: Poliamida
     pl: poliamidy
     pt: poliamida
-    pt-br: Poliamida
+    pt_br: Poliamida
     ro: Poliamidă
     ru: полиамид
     se: polyamiida

@@ -226,7 +226,7 @@ dv_has_:
     bar: Sigmund Freud
     bcl: Sigmund Freud
     be: Зігмунд Фрэйд
-    be-tarask: Зыгмунд Фройд
+    be_tarask: Зыгмунд Фройд
     bew: Sigmun Peroid
     bg: Зигмунд Фройд
     bho: सिगमंड फ्रायड
@@ -252,8 +252,8 @@ dv_has_:
     diq: Sigmund Freud
     el: Σίγκμουντ Φρόιντ
     en: Sigmund Freud
-    en-ca: Sigmund Freud
-    en-gb: Sigmund Freud
+    en_ca: Sigmund Freud
+    en_gb: Sigmund Freud
     en-us: Sigmund Freud
     eo: Sigmund Freud
     es: Sigmund Freud
@@ -318,7 +318,7 @@ dv_has_:
     lv: Zigmunds Freids
     lzh: 弗洛伊德
     mai: सिग्मंड फ्रायड
-    map-bms: Sigmund Freud
+    map_bms: Sigmund Freud
     mg: Sigmund Freud
     mk: Зигмунд Фројд
     ml: സിഗ്മണ്ട് ഫ്രോയിഡ്
@@ -334,7 +334,7 @@ dv_has_:
     nan: Sigmund Freud
     nb: Sigmund Freud
     nds: Sigmund Freud
-    nds-nl: Sigmund Freud
+    nds_nl: Sigmund Freud
     ne: सिग्मुन्ड फ्रायड
     new: सिग्मंड फ्रायड
     nl: Sigmund Freud
@@ -373,8 +373,8 @@ dv_has_:
     sl: Sigmund Freud
     sq: Sigmund Freud
     sr: Сигмунд Фројд
-    sr-ec: Сигмунд Фројд
-    sr-el: Sigmund Frojd
+    sr_ec: Сигмунд Фројд
+    sr_el: Sigmund Frojd
     su: Sigmund Freud
     sv: Sigmund Freud
     sw: Sigmund Freud
@@ -407,9 +407,9 @@ dv_has_:
     zea: Sigmund Freud
     zgh: ⵙⵉⴳⵎⵓⵏⴷ ⴼⵔⵓⵢⴷ
     zh: 西格蒙德·弗洛伊德
-    zh-hans: 西格蒙德·弗洛伊德
-    zh-hant: 西格蒙德·弗洛伊德
-    zh-hk: 悉文·佛洛伊德
+    zh_hans: 西格蒙德·弗洛伊德
+    zh_hant: 西格蒙德·弗洛伊德
+    zh_hk: 悉文·佛洛伊德
 ---
 # [[Freud,Sigmund]] 
 

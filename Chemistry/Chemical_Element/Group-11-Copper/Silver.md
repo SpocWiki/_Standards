@@ -313,7 +313,7 @@ dv_has_:
     bar: Süwa
     bcl: pirak
     be: серабро
-    be-tarask: срэбра
+    be_tarask: срэбра
     bg: сребро
     bho: चानी
     bn: রূপা
@@ -336,12 +336,12 @@ dv_has_:
     cy: arian
     da: sølv
     de: Silber
-    de-ch: Silber
+    de_ch: Silber
     diq: sêm
     el: άργυρος
     en: silver
-    en-ca: silver
-    en-gb: silver
+    en_ca: silver
+    en_gb: silver
     en-us: silver
     eo: arĝento
     es: plata
@@ -430,7 +430,7 @@ dv_has_:
     mo: prata
     mr: चांदी
     ms: perak
-    ms-arab: ڤيرق
+    ms_arab: ڤيرق
     mt: fidda
     my: ငွေ
     myv: сия
@@ -460,7 +460,7 @@ dv_has_:
     pnb: رپا
     ps: سپين زر
     pt: prata
-    pt-br: prata
+    pt_br: prata
     qu: qullqi q'illay
     ro: argint
     ru: серебро
@@ -488,8 +488,8 @@ dv_has_:
     so: naxaas
     sq: argjendi
     sr: сребро
-    sr-ec: сребро
-    sr-el: srebro
+    sr_ec: сребро
+    sr_el: srebro
     stq: Säälwer
     su: pérak
     sv: silver
@@ -502,7 +502,7 @@ dv_has_:
     tok: ijo lili nanpa 47
     tr: gümüş
     tt: көмеш
-    tt-latn: kömeş
+    tt_latn: kömeş
     tum: Fesa (Siliva)
     udm: азвесь
     ug: كۈمۈش
@@ -522,11 +522,11 @@ dv_has_:
     yue: 銀
     za: ngaenz
     zh: 銀
-    zh-cn: 银
-    zh-hans: 银
-    zh-hant: 銀
-    zh-hk: 銀
-    zh-tw: 銀
+    zh_cn: 银
+    zh_hans: 银
+    zh_hant: 銀
+    zh_hk: 銀
+    zh_tw: 銀
     zu: isiliva
   number_of_:
     period: 5

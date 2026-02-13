@@ -84,7 +84,7 @@ dv_has_:
     ast: Estrella variable Cefeida
     az: Sefeid
     be: Цэфеіды
-    be-tarask: цэфэіда
+    be_tarask: цэфэіда
     bg: Цефеида
     bn: শেফালী বিষমতারা
     bs: Cefeida
@@ -131,8 +131,8 @@ dv_has_:
     sk: Cefeida
     sl: kefeidna spremenljivka
     sr: Цефеида
-    sr-ec: Цефеида
-    sr-el: Cefeida
+    sr_ec: Цефеида
+    sr_el: Cefeida
     sv: cepheid
     th: ดาวแปรแสงชนิดเซเฟอิด
     tr: Sefe değişeni
@@ -142,12 +142,12 @@ dv_has_:
     xmf: ცეფეიდეფი
     yue: 脈動變星
     zh: 造父变星
-    zh-cn: 造父变星
-    zh-hans: 造父变星
-    zh-hant: 造父變星
-    zh-hk: 造父變星
-    zh-sg: 造父变星
-    zh-tw: 造父變星
+    zh_cn: 造父变星
+    zh_hans: 造父变星
+    zh_hant: 造父變星
+    zh_hk: 造父變星
+    zh_sg: 造父变星
+    zh_tw: 造父變星
 ---
 # [[Cepheid_Variable]] 
 

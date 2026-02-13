@@ -88,7 +88,7 @@ dv_has_:
     oc: Agavoideae
     pl: Agawowe
     pt: Anthericaceae
-    pt-br: Agavoideae
+    pt_br: Agavoideae
     qu: Paqpa yura rikch'aq ayllu
     ro: Agavoideae
     ru: агавовые
@@ -102,8 +102,8 @@ dv_has_:
     vo: Agavoideae
     war: Agavoideae
     zh: 龙舌兰亚科
-    zh-cn: 龙舌兰亚科
-    zh-hans: 龙舌兰亚科
+    zh_cn: 龙舌兰亚科
+    zh_hans: 龙舌兰亚科
 ---
 # [[Agavoideae]] 
 

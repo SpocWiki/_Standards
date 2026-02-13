@@ -125,14 +125,14 @@ dv_has_:
     azb: هرپستیده
     bcl: Mongus
     be: Мангуставыя
-    be-tarask: vангуставыя
+    be_tarask: vангуставыя
     bg: мангустови
     bho: नेऊर
     bn: বেজি
     br: Herpestidae
     bs: Mungos
     ca: mangosta
-    cbk-zam: mangosta
+    cbk_zam: mangosta
     ceb: manggosta
     ckb: ڕزق
     cs: promykovití
@@ -200,7 +200,7 @@ dv_has_:
     pl: Mangustowate
     pnb: مونگوز
     pt: Herpestidae
-    pt-br: Herpestidae
+    pt_br: Herpestidae
     ro: Herpestidae
     ru: мангустовые
     sc: Mangusta
@@ -231,9 +231,9 @@ dv_has_:
     wuu: 獴科
     yue: 獴科
     zh: 獴科
-    zh-cn: 獴科
-    zh-hans: 獴科
-    zh-tw: 獴科
+    zh_cn: 獴科
+    zh_hans: 獴科
+    zh_tw: 獴科
 ---
 # [[Mongoose]] 
 

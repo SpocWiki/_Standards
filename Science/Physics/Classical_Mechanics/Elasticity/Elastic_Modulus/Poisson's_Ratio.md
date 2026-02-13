@@ -91,7 +91,7 @@ dv_has_:
     ast: Coeficiente de Poisson
     bar: Queakauntroktiaunszoi
     be: каэфіцыент Пуасона
-    be-tarask: каэфіцыент Пуасона
+    be_tarask: каэфіцыент Пуасона
     bg: Коефициент на Поасон
     bn: পয়সনের অনুপাত
     ca: Coeficient de Poisson
@@ -118,11 +118,11 @@ dv_has_:
     ja: ポアソン比
     ka: პუასონის კოეფიციენტი
     kk: Пуассон коэффициенті
-    kk-arab: پۋاسسون كوەففىيتسىييەنتى
+    kk_arab: پۋاسسون كوەففىيتسىييەنتى
     kk-cn: پۋاسسون كوەففىيتسىييەنتى
-    kk-cyrl: Пуассон коэффициенті
+    kk_cyrl: Пуассон коэффициенті
     kk-kz: Пуассон коэффициенті
-    kk-latn: Pwasson koéffïcïyenti
+    kk_latn: Pwasson koéffïcïyenti
     kk-tr: Pwasson koéffïcïyenti
     ko: 푸아송 비
     lt: Puasono santykis
@@ -141,8 +141,8 @@ dv_has_:
     sk: Poissonova konštanta
     sl: Poissonovo število
     sr: Пуасонов однос
-    sr-ec: Пуасонов однос
-    sr-el: Puasonov odnos
+    sr_ec: Пуасонов однос
+    sr_el: Puasonov odnos
     sv: Poissons konstant
     ta: பாய்சான் விகிதம்
     th: อัตราส่วนของปัวซอง
@@ -152,12 +152,12 @@ dv_has_:
     wuu: 泊松比
     yue: 蒲松氏比
     zh: 泊松比
-    zh-cn: 泊松比
-    zh-hans: 泊松比
-    zh-hant: 泊松比
-    zh-hk: 泊松比
-    zh-sg: 泊松比
-    zh-tw: 泊松比
+    zh_cn: 泊松比
+    zh_hans: 泊松比
+    zh_hant: 泊松比
+    zh_hk: 泊松比
+    zh_sg: 泊松比
+    zh_tw: 泊松比
 ---
 # [[Poisson's_Ratio]] 
 

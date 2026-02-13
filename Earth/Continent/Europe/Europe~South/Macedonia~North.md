@@ -16,7 +16,7 @@ dv_has_:
     ab: Аҩадатәи Македониа
     ace: Makèdonia Utara
     ady: Республикэу Македоние
-    aeb-arab: جمهورية مقدونيا
+    aeb_arab: جمهورية مقدونيا
     af: Republiek Noord-Masedonië
     am: የመቄዶንያ ሬፑብሊክ
     ami: Macedonia
@@ -39,7 +39,7 @@ dv_has_:
     bar: Noadmazedonien
     bcl: Republika kan Masedonya
     be: Паўночная Македонія
-    be-tarask: Паўночная Македонія
+    be_tarask: Паўночная Македонія
     bew: Makèdoni Lor
     bg: Северна Македония
     bho: उत्तर मैसीडोनिया
@@ -52,7 +52,7 @@ dv_has_:
     bs: Sjeverna Makedonija
     bxr: Хойто Македони
     ca: Macedònia del Nord
-    cbk-zam: Macedonia del Norte
+    cbk_zam: Macedonia del Norte
     cdo: Báe̤k Mā-gì-dóng
     ce: Къилбаседа Македони
     ceb: Republika sa Amihanan Makedoniya
@@ -60,7 +60,7 @@ dv_has_:
     ckb: مەقدوونیای باکوور
     co: Macedonia di u Nordu
     crh: Şimaliy Makedoniya
-    crh-latn: Makedoniya Cumhuriyeti
+    crh_latn: Makedoniya Cumhuriyeti
     cs: Severní Makedonie
     csb: Nordowô Macedońskô
     cu: Сѣвєрьна Макєдонїꙗ
@@ -70,7 +70,7 @@ dv_has_:
     dag: Macedonia
     de: Nordmazedonien
     de-at: Nordmazedonien
-    de-ch: Nordmazedonien
+    de_ch: Nordmazedonien
     diq: Makedonya Zımey
     dsb: Pódpołnocna Makedońska
     dty: म्यासेडोनिया
@@ -78,8 +78,8 @@ dv_has_:
     ee: North Macedonia
     el: Βόρεια Μακεδονία
     en: North Macedonia
-    en-ca: North Macedonia
-    en-gb: North Macedonia
+    en_ca: North Macedonia
+    en_gb: North Macedonia
     eo: Nord-Makedonio
     es: Macedonia del Norte
     et: Põhja-Makedoonia
@@ -102,7 +102,7 @@ dv_has_:
     gn: Yvate Masendoña
     gom: मॅसिडोनिया
     gom-deva: मॅसिडोनिया
-    gom-latn: Macedonia
+    gom_latn: Macedonia
     got: "\U0001033C\U00010330\U0001033A\U00010330\U00010339\U00010333\U00010349\U0001033D\U0001033E\U00010330"
     gpe: Macedonia
     gsw: Republik Mazedonie
@@ -169,7 +169,7 @@ dv_has_:
     lzh: 北馬其頓
     mad: Makedonia
     mai: म्यासेडोनिया
-    map-bms: Makedonia Lor
+    map_bms: Makedonia Lor
     mdf: Кельмеширень Македония
     mg: Masedônia Avaratra
     mhr: Йӱдвел Македоний
@@ -190,7 +190,7 @@ dv_has_:
     nan: Pak Macedonia
     nb: Nord-Makedonia
     nds: Noordmakedonien
-    nds-nl: Noord-Macedonie
+    nds_nl: Noord-Macedonie
     ne: उत्तरी म्यासेडोनिया
     new: म्यासेडोनिया
     nl: Noord-Macedonië
@@ -215,7 +215,7 @@ dv_has_:
     pnt: Βόρεια Μακεδονία
     ps: شمالي مقدونيه
     pt: Macedónia do Norte
-    pt-br: Macedônia do Norte
+    pt_br: Macedônia do Norte
     qu: Chinchay Masitunya
     rm: Macedonia dal Nord
     rmy: Republika Makedoniya
@@ -235,7 +235,7 @@ dv_has_:
     se: Davvi-Makedonia
     sgs: Makeduonėjė
     sh: Sjeverna Makedonija
-    sh-cyrl: Сјеверна Македонија
+    sh_cyrl: Сјеверна Македонија
     shi: Tagdudt n Maciḍunya
     shn: မိူင်းမႅတ်ႇသီႇတူဝ်းၼီးယႃး
     si: උතුරු මැසිඩෝනියාව
@@ -248,8 +248,8 @@ dv_has_:
     so: Jamhuuriyada Waqooyiga Macedonia
     sq: Maqedonia e Veriut
     sr: Северна Македонија
-    sr-ec: Република Северна Македонија
-    sr-el: Republika Severna Makedonija
+    sr_ec: Република Северна Македонија
+    sr_el: Republika Severna Makedonija
     srn: Masedoniyakondre
     ss: iMakhedoniya leseNyakatfo
     stq: Noudmakedonien
@@ -300,13 +300,13 @@ dv_has_:
     zea: Noord-Macedonië
     zgh: ⵎⴰⵙⵉⴷⵓⵏⵢⴰ ⵜⴰⴳⴰⴼⴰⵢⵜ
     zh: 北马其顿
-    zh-cn: 北马其顿
-    zh-hans: 北马其顿
-    zh-hant: 北馬其頓
-    zh-hk: 北馬其頓
+    zh_cn: 北马其顿
+    zh_hans: 北马其顿
+    zh_hant: 北馬其頓
+    zh_hk: 北馬其頓
     zh-my: 北马其顿
-    zh-sg: 北马其顿
-    zh-tw: 北馬其頓
+    zh_sg: 北马其顿
+    zh_tw: 北馬其頓
     zu: INyakatho Masedoniya
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Macedonia-North

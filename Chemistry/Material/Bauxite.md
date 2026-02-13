@@ -110,7 +110,7 @@ dv_has_:
     ast: Bauxita
     az: Boksit
     be: баксіт
-    be-tarask: баксыт
+    be_tarask: баксыт
     bg: Боксит
     bn: বক্সাইট
     bs: Boksit
@@ -144,11 +144,11 @@ dv_has_:
     jv: Boksit
     ka: ბოქსიტი
     kk: Боксит
-    kk-arab: بوكسىيت
+    kk_arab: بوكسىيت
     kk-cn: بوكسىيت
-    kk-cyrl: Боксит
+    kk_cyrl: Боксит
     kk-kz: Боксит
-    kk-latn: Boksït
+    kk_latn: Boksït
     kk-tr: Boksït
     kn: ಬಾಕ್ಸೈಟ್
     ko: 철반석
@@ -171,7 +171,7 @@ dv_has_:
     pl: boksyt
     pnb: باکسائیٹ
     pt: bauxite
-    pt-br: bauxita
+    pt_br: bauxita
     ro: bauxită
     ru: боксит
     sco: bauxite
@@ -183,8 +183,8 @@ dv_has_:
     smn: bauksiit
     sms: bauksitt
     sr: боксит
-    sr-ec: боксит
-    sr-el: boksit
+    sr_ec: боксит
+    sr_el: boksit
     sv: bauxit
     sw: Boksiti
     ta: பாக்சைட்டு
@@ -199,12 +199,12 @@ dv_has_:
     wuu: 铝土矿
     yue: 鋁土礦
     zh: 铝土矿
-    zh-cn: 铝土矿
-    zh-hans: 铝土矿
-    zh-hant: 鋁土礦
-    zh-hk: 鋁土礦
-    zh-sg: 铝土矿
-    zh-tw: 鋁土礦
+    zh_cn: 铝土矿
+    zh_hans: 铝土矿
+    zh_hant: 鋁土礦
+    zh_hk: 鋁土礦
+    zh_sg: 铝土矿
+    zh_tw: 鋁土礦
     zu: Umgalitshe
 ---
 # [[Bauxite]] 

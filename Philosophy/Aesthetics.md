@@ -123,7 +123,7 @@ dv_has_:
     az: estetika
     ba: эстетика
     be: эстэтыка
-    be-tarask: эстэтыка
+    be_tarask: эстэтыка
     bg: естетика
     bn: নন্দনতত্ত্ব
     bs: estetika
@@ -191,7 +191,7 @@ dv_has_:
     ml: സൗന്ദര്യശാസ്ത്രം
     mr: सौंदर्यशास्त्र
     ms: estetika
-    ms-arab: ايستيتيکا
+    ms_arab: ايستيتيکا
     mt: estetika
     nan: bí-ha̍k
     nb: estetikk
@@ -207,7 +207,7 @@ dv_has_:
     pnb: جمالیات
     ps: جمالیات
     pt: estética
-    pt-br: estética
+    pt_br: estética
     ro: estetică
     ru: эстетика
     rue: естетика
@@ -243,11 +243,11 @@ dv_has_:
     yi: עסטעטיק
     yue: 美學
     zh: 美学
-    zh-cn: 美学
-    zh-hans: 美学
-    zh-hant: 美學
-    zh-hk: 美學
-    zh-tw: 美學
+    zh_cn: 美学
+    zh_hans: 美学
+    zh_hant: 美學
+    zh_hk: 美學
+    zh_tw: 美學
 ---
 ## #has_/text_of_/abstract 
 

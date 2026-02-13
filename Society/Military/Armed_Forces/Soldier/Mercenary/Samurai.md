@@ -90,7 +90,7 @@ dv_has_:
     bar: Samurai
     bcl: Samurai
     be: самурай
-    be-tarask: самурай
+    be_tarask: самурай
     bg: Самурай
     bn: সামুরাই
     bo: ས་མུ་རའི།
@@ -98,7 +98,7 @@ dv_has_:
     bs: Samuraj
     bxr: Самурай
     ca: samurai
-    cbk-zam: Samurai
+    cbk_zam: Samurai
     ceb: Samurai
     ckb: سامورای
     cs: samuraj
@@ -107,7 +107,7 @@ dv_has_:
     de: Samurai
     el: Σαμουράι
     en: samurai
-    en-gb: samurai
+    en_gb: samurai
     eo: samurajo
     es: samurái
     et: Samurai
@@ -178,7 +178,7 @@ dv_has_:
     sl: samuraj
     sq: Samurai
     sr: самурај
-    sr-ec: самурај
+    sr_ec: самурај
     su: Samurai
     sv: samuraj
     ta: சாமுராய்
@@ -199,14 +199,14 @@ dv_has_:
     yi: סאמוריי
     yue: 武士
     zh: 侍
-    zh-cn: 侍
-    zh-hans: 武士
-    zh-hant: 武士
-    zh-hk: 武士
-    zh-mo: 武士
+    zh_cn: 侍
+    zh_hans: 武士
+    zh_hant: 武士
+    zh_hk: 武士
+    zh_mo: 武士
     zh-my: 武士
-    zh-sg: 武士
-    zh-tw: 武士
+    zh_sg: 武士
+    zh_tw: 武士
 ---
 # [[Samurai]] 
 

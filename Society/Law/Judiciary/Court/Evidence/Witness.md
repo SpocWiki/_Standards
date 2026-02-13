@@ -106,7 +106,7 @@ dv_has_:
     ast: testigu
     az: tanıq
     ba: шаһит
-    be-tarask: сьведка
+    be_tarask: сьведка
     bg: свидетел
     bn: সাক্ষী
     ca: testimoni
@@ -153,7 +153,7 @@ dv_has_:
     pa: ਗਵਾਹ
     pl: świadek
     pt: testemunho
-    pt-br: testemunha
+    pt_br: testemunha
     ro: martor
     ru: свидетель
     sat: ᱥᱟ.ᱠᱷᱤ
@@ -175,8 +175,8 @@ dv_has_:
     vi: Nhân chứng
     yue: 證人
     zh: 證人
-    zh-hans: 证人
-    zh-hk: 證人
+    zh_hans: 证人
+    zh_hk: 證人
 ---
 # [[Witness]] 
 

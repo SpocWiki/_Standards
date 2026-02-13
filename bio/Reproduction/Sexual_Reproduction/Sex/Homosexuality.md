@@ -214,7 +214,7 @@ dv_has_:
     bar: Homosexualität
     bcl: Homosekswalidad
     be: гомасексуальнасць
-    be-tarask: гомасэксуальнасьць
+    be_tarask: гомасэксуальнасьць
     bg: хомосексуалност
     bho: समलैंगिकता
     bjn: homoseksualitas
@@ -240,8 +240,8 @@ dv_has_:
     el: ομοφυλοφιλία
     eml: omosesuêl
     en: homosexuality
-    en-ca: homosexuality
-    en-gb: homosexuality
+    en_ca: homosexuality
+    en_gb: homosexuality
     eo: samseksemo
     es: homosexualidad
     et: homoseksuaalsus
@@ -318,7 +318,7 @@ dv_has_:
     nan: tông-sèng-loân
     nap: ommosessualità
     nb: homofili
-    nds-nl: homoseksualiteit
+    nds_nl: homoseksualiteit
     ne: समलैङ्गिकता
     new: समलैङ्गिकता
     nl: homoseksualiteit
@@ -353,7 +353,7 @@ dv_has_:
     so: Khaniisnimada
     sq: Homoseksualitet
     sr: хомосексуалност
-    sr-ec: хомосексуалност
+    sr_ec: хомосексуалност
     st: Bosodoma
     sv: homosexualitet
     sw: Ushoga
@@ -368,7 +368,7 @@ dv_has_:
     tok: jan li olin e jan pi kule sama
     tr: eşcinsellik
     tt: һомосексуальлек
-    tt-cyrl: һомосексуальлек
+    tt_cyrl: һомосексуальлек
     ug: ھەمجىنىسلار
     uk: гомосексуальність
     ur: ہم جنس پرستی
@@ -384,11 +384,11 @@ dv_has_:
     yo: Ilopọ
     yue: 同性戀
     zh: 同性戀
-    zh-cn: 同性恋
-    zh-hans: 同性恋
-    zh-hant: 同性戀
-    zh-hk: 同性戀
-    zh-tw: 同性戀
+    zh_cn: 同性恋
+    zh_hans: 同性恋
+    zh_hant: 同性戀
+    zh_hk: 同性戀
+    zh_tw: 同性戀
     zu: Isitabane
 ---
 # [[Homosexuality]] 

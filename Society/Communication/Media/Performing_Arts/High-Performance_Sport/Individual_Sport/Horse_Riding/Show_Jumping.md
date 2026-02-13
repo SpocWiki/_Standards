@@ -56,16 +56,16 @@ dv_has_:
     ar: قفز الحواجز
     ast: Saltu ecuestre
     ba: Конкур
-    be-tarask: канкур
+    be_tarask: канкур
     ca: salt a cavall
     cs: parkurové skákání
     da: ridebanespringning
     de: Springreiten
-    de-ch: Springreiten
+    de_ch: Springreiten
     el: ιππικοί αγώνες με εμπόδια
     en: show jumping
-    en-ca: Show jumping
-    en-gb: show jumping
+    en_ca: Show jumping
+    en_gb: show jumping
     eo: ĉevalsaltado
     es: salto ecuestre
     et: Takistussõit
@@ -91,7 +91,7 @@ dv_has_:
     oc: Concors de saut d'obstacles
     pl: Skoki przez przeszkody
     pt: saltos
-    pt-br: Saltos
+    pt_br: Saltos
     ro: Sărituri peste obstacole
     ru: конкур
     sk: Parkúrové jazdectvo
@@ -103,12 +103,12 @@ dv_has_:
     yue: 障礙超越
     zea: Springen
     zh: 場地障礙賽
-    zh-cn: 场地障碍赛
-    zh-hans: 场地障碍赛
-    zh-hant: 場地障礙賽
-    zh-hk: 場地障礙賽
-    zh-sg: 场地障碍赛
-    zh-tw: 場地障礙賽
+    zh_cn: 场地障碍赛
+    zh_hans: 场地障碍赛
+    zh_hant: 場地障礙賽
+    zh_hk: 場地障礙賽
+    zh_sg: 场地障碍赛
+    zh_tw: 場地障礙賽
 ---
 # [[Show_Jumping]] 
 

@@ -83,11 +83,11 @@ dv_has_:
     cs: Seznam nositelů Nobelovy ceny za literaturu
     da: liste over modtagere af Nobelprisen i litteratur
     de: Liste der Nobelpreisträger für Literatur
-    de-ch: Liste der Nobelpreisträger für Literatur
+    de_ch: Liste der Nobelpreisträger für Literatur
     el: Κατάλογος βραβευθέντων με Νόμπελ Λογοτεχνίας
     en: list of Nobel laureates in Literature
-    en-ca: List of Nobel laureates in Literature
-    en-gb: List of Nobel laureates in Literature
+    en_ca: List of Nobel laureates in Literature
+    en_gb: List of Nobel laureates in Literature
     eo: listo de gajnintoj de la Nobelpremio pri literaturo
     es: Ganadores del Premio Nobel de Literatura
     fa: فهرست برندگان جایزه نوبل ادبیات

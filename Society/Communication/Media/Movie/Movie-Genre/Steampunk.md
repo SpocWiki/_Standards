@@ -9,7 +9,7 @@ dv_has_:
     ast: Steampunk
     az: Stimpank
     be: стымпанк
-    be-tarask: стымпанк
+    be_tarask: стымпанк
     br: Steampunk
     ca: steampunk
     ckb: ستیمپەنک
@@ -67,12 +67,12 @@ dv_has_:
     vi: Steampunk
     yue: 蒸氣朋卡
     zh: 蒸汽朋克
-    zh-cn: 蒸汽朋克
-    zh-hans: 蒸汽朋克
-    zh-hant: 蒸汽朋克
-    zh-hk: 蒸汽朋克
-    zh-sg: 蒸汽朋克
-    zh-tw: 蒸汽朋克
+    zh_cn: 蒸汽朋克
+    zh_hans: 蒸汽朋克
+    zh_hant: 蒸汽朋克
+    zh_hk: 蒸汽朋克
+    zh_sg: 蒸汽朋克
+    zh_tw: 蒸汽朋克
 aliases:
 - Agerstalwm
 - Aurupunk

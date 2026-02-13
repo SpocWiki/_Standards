@@ -206,7 +206,7 @@ dv_has_:
     ba: Кофи Аннан
     bcl: Kofi Annan
     be: Кофі Анан
-    be-tarask: Кофі Анан
+    be_tarask: Кофі Анан
     bew: Kofi Annan
     bg: Кофи Анан
     bn: কফি আনান
@@ -221,15 +221,15 @@ dv_has_:
     da: Kofi Annan
     dag: Kofi Annan
     de: Kofi Annan
-    de-ch: Kofi Annan
+    de_ch: Kofi Annan
     dga: Kofi Anan
     diq: Kofi Annan
     dty: कोफी अन्नान
     ee: Kofi Annan
     el: Κόφι Ανάν
     en: Kofi Annan
-    en-ca: Kofi Annan
-    en-gb: Kofi Annan
+    en_ca: Kofi Annan
+    en_gb: Kofi Annan
     en-us: Kofi Annan
     eo: Kofi Annan
     es: Kofi Annan
@@ -302,7 +302,7 @@ dv_has_:
     pnb: کوفی انان
     ps: کوفي عنان
     pt: Kofi Annan
-    pt-br: Kofi Annan
+    pt_br: Kofi Annan
     qu: Kofi Annan
     ro: Kofi Annan
     ru: Кофи Аннан
@@ -317,7 +317,7 @@ dv_has_:
     sl: Kofi Anan
     sq: Kofi Annan
     sr: Кофи Анан
-    sr-ec: Кофи Анан
+    sr_ec: Кофи Анан
     sv: Kofi Annan
     sw: Kofi Annan
     szl: Kofi Annan

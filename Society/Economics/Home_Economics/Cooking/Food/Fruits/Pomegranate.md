@@ -94,7 +94,7 @@ dv_has_:
     arz: رمان
     awa: अनार
     az: nar
-    be-tarask: гранат
+    be_tarask: гранат
     bho: अनार
     bo: སེ་འབྲུ།
     ca: magrana
@@ -104,8 +104,8 @@ dv_has_:
     de: Granatapfelfrucht
     el: ρόδι
     en: pomegranate
-    en-ca: pomegranate
-    en-gb: pomegranate
+    en_ca: pomegranate
+    en_gb: pomegranate
     eo: granato
     es: granada
     et: granaatõun
@@ -128,7 +128,7 @@ dv_has_:
     kab: aḍɣaɣ
     ko: 석류
     ks: دٲن
-    ks-arab: دٲن
+    ks_arab: دٲن
     lbe: сунув
     ml: മാതളനാരങ്ങ
     mr: डाळिंब
@@ -154,13 +154,13 @@ dv_has_:
     smn: graanaatoomeen
     sq: shegë
     sr: нар
-    sr-el: nar
+    sr_el: nar
     sv: granatäpple
     te: దానిమ్మ
     tg: анор
     tr: nar
     tt: анар
-    tt-cyrl: анар
+    tt_cyrl: анар
     ty: rēmuna
     ug: ئانار
     uk: гранат
@@ -170,7 +170,7 @@ dv_has_:
     vro: granaatupin
     yue: 石榴果
     za: maksigloux
-    zh-hant: 石榴
+    zh_hant: 石榴
 ---
 # [[Pomegranate]] 
 

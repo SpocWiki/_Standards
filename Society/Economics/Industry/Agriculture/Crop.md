@@ -111,7 +111,7 @@ dv_has_:
     ang: Wæstm
     ar: محصول
     be: сельскагаспадарчыя культуры
-    be-tarask: сельскагаспадарчая культура
+    be_tarask: сельскагаспадарчая культура
     bew: Taneman
     bg: Културно растение
     bn: শস্য
@@ -163,7 +163,7 @@ dv_has_:
     pl: plon
     pnb: فصل
     pt: cultura agrícola
-    pt-br: cultura
+    pt_br: cultura
     qu: Chakra yura
     ru: сельскохозяйственные культуры
     sa: सस्यानि
@@ -189,12 +189,12 @@ dv_has_:
     yi: געראט
     yue: 農作物
     zh: 农作物
-    zh-cn: 农作物
-    zh-hans: 农作物
-    zh-hant: 農作物
-    zh-hk: 農作物
-    zh-sg: 农作物
-    zh-tw: 農作物
+    zh_cn: 农作物
+    zh_hans: 农作物
+    zh_hant: 農作物
+    zh_hk: 農作物
+    zh_sg: 农作物
+    zh_tw: 農作物
 ---
 # [[Crop]] 
 

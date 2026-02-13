@@ -178,7 +178,7 @@ dv_has_:
     ba: Йоһаннес Брамс
     bar: Johannes Brahms
     be: Іаганес Брамс
-    be-tarask: Яганэс Брамс
+    be_tarask: Яганэс Брамс
     bg: Йоханес Брамс
     bi: Johannes Brahms
     bn: ইয়োহানেস ব্রামস
@@ -201,8 +201,8 @@ dv_has_:
     diq: Johannes Brahms
     el: Γιοχάνες Μπραμς
     en: Johannes Brahms
-    en-ca: Johannes Brahms
-    en-gb: Johannes Brahms
+    en_ca: Johannes Brahms
+    en_gb: Johannes Brahms
     eo: Johannes Brahms
     es: Johannes Brahms
     et: Johannes Brahms
@@ -268,7 +268,7 @@ dv_has_:
     pms: Johannes Brahms
     pnb: یوہانز براہمز
     pt: Johannes Brahms
-    pt-br: Johannes Brahms
+    pt_br: Johannes Brahms
     qu: Johannes Brahms
     ro: Johannes Brahms
     ru: Иоганнес Брамс
@@ -303,10 +303,10 @@ dv_has_:
     yi: יאהאנעס בראהמס
     yue: 布拉姆斯
     zh: 约翰内斯·勃拉姆斯
-    zh-cn: 约翰内斯·勃拉姆斯
-    zh-hans: 约翰内斯·勃拉姆斯
-    zh-hant: 約翰內斯·布拉姆斯
-    zh-tw: 約翰尼斯·布拉姆斯
+    zh_cn: 约翰内斯·勃拉姆斯
+    zh_hans: 约翰内斯·勃拉姆斯
+    zh_hant: 約翰內斯·布拉姆斯
+    zh_tw: 約翰尼斯·布拉姆斯
 ---
 # [[Brahms,Johannes 1]] 
 

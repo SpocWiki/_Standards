@@ -172,7 +172,7 @@ dv_has_:
     ba: Клеменс фон Меттерних
     bar: Klemens Wenzel Lothar von Metternich
     be: Клемент Венцэль Лотар Метэрніх
-    be-tarask: Клемэнс фон Мэтэрніх
+    be_tarask: Клемэнс фон Мэтэрніх
     bg: Клеменс фон Метерних
     bn: ক্লেমেন্স ভন মেটরনিখ
     br: Klemens Wenzel von Metternich
@@ -227,7 +227,7 @@ dv_has_:
     mt: Klemens Wenzel Lothar von Metternich
     nb: Klemens von Metternich
     nds: Klemens Wenzel Lothar von Metternich
-    nds-nl: Klemens Wenzel Lothar von Metternich
+    nds_nl: Klemens Wenzel Lothar von Metternich
     nl: Klemens von Metternich
     nn: Klemens von Metternich
     oc: Klemens Wenzel von Metternich
@@ -236,7 +236,7 @@ dv_has_:
     pnb: میترنخ
     ps: کليمينس اون ميترنيخ
     pt: Klemens Wenzel von Metternich
-    pt-br: Klemens Wenzel von Metternich
+    pt_br: Klemens Wenzel von Metternich
     ro: Klemens Wenzel von Metternich
     ru: Клеменс фон Меттерних
     sh: Klemens Wenzel Lothar Metternich

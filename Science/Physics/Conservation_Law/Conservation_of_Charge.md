@@ -45,14 +45,14 @@ dv_has_:
   name_:
     ar: قانون بقاء الشحنة
     be: Закон захавання электрычнага зараду
-    be-tarask: Закон захаваньня электрычнага зараду
+    be_tarask: Закон захаваньня электрычнага зараду
     ca: conservació de la càrrega
     cv: Электро каплам сыхланнин саккунĕ
     de: Ladungserhaltung
     el: Αρχή διατήρησης του ηλεκτρικού φορτίου
     en: charge conservation
-    en-ca: charge conservation
-    en-gb: charge conservation
+    en_ca: charge conservation
+    en_gb: charge conservation
     eo: konservado de elektra ŝargo
     es: conservación de la carga eléctrica
     et: elektrilaengu jäävuse seadus
@@ -73,7 +73,7 @@ dv_has_:
     pl: Zasada zachowania ładunku
     pms: Prinsipi ëd conservassion ëd l'eletricità
     pt: conservação de carga
-    pt-br: conservação de carga
+    pt_br: conservação de carga
     ro: conservarea sarcinii electrice
     ru: закон сохранения заряда
     sk: zákon zachovania náboja
@@ -84,7 +84,7 @@ dv_has_:
     uk: закон збереження електричного заряду
     yue: 電荷守恆定律
     zh: 电荷守恒定律
-    zh-hant: 電荷守恆定律
+    zh_hant: 電荷守恆定律
 ---
 # [[Conservation_of_Charge]] 
 

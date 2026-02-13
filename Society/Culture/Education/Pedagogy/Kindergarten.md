@@ -146,7 +146,7 @@ dv_has_:
     ba: Балалар баҡсаһы
     bcl: Kindergarten
     be: дзіцячы сад
-    be-tarask: дзіцячы садок
+    be_tarask: дзіцячы садок
     bg: Детска градина
     bn: কিন্ডারগার্টেন
     ca: llar d'infants
@@ -157,11 +157,11 @@ dv_has_:
     cv: Ача панчи
     da: børnehave
     de: Kindergarten
-    de-ch: Kindergarten
+    de_ch: Kindergarten
     el: νηπιαγωγείο
     en: kindergarten
-    en-ca: Kindergarten
-    en-gb: kindergarten
+    en_ca: Kindergarten
+    en_gb: kindergarten
     eo: infanĝardeno
     es: jardín de infancia
     et: lasteaed
@@ -189,7 +189,7 @@ dv_has_:
     ka: საბავშვო ბაღი
     kaa: balalar baqshası
     kk: балабақша
-    kk-latn: balabaqşa
+    kk_latn: balabaqşa
     kn: ಶಿಶುವಿಹಾರ
     ko: 유치원
     ku: zarokxane
@@ -216,7 +216,7 @@ dv_has_:
     pnb: کِنڈر گارٹن
     ps: وړکتون
     pt: jardim de infância
-    pt-br: Jardim de infância
+    pt_br: Jardim de infância
     qu: wawa wasi
     ro: grădiniță
     ru: детский сад
@@ -227,8 +227,8 @@ dv_has_:
     sl: vrtec
     sq: Kopsht fëmijësh
     sr: обданиште
-    sr-ec: обданиште
-    sr-el: obdanište
+    sr_ec: обданиште
+    sr_el: obdanište
     stq: Bäidenstuun
     su: Taman Kanak-kanak
     sv: barnträdgård
@@ -240,7 +240,7 @@ dv_has_:
     tl: kindergarten
     tr: anaokulu
     tt: балалар бакчасы
-    tt-cyrl: балалар бакчасы
+    tt_cyrl: балалар бакчасы
     uk: дитячий садок
     uz: Maktabgacha taʼlim bolalar muassasalari
     vi: trường mẫu giáo
@@ -249,12 +249,12 @@ dv_has_:
     yi: קינדערגארטן
     yue: 幼稚園
     zh: 幼稚園
-    zh-cn: 幼儿园
-    zh-hans: 幼儿园
-    zh-hant: 幼稚園
-    zh-hk: 幼稚園
-    zh-sg: 幼稚园
-    zh-tw: 幼稚園
+    zh_cn: 幼儿园
+    zh_hans: 幼儿园
+    zh_hant: 幼稚園
+    zh_hk: 幼稚園
+    zh_sg: 幼稚园
+    zh_tw: 幼稚園
 ---
 # [[Kindergarten]] 
 

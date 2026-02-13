@@ -125,7 +125,7 @@ dv_has_:
     ay: Amaya
     az: بدن
     be: труп
-    be-tarask: труп
+    be_tarask: труп
     bg: Труп
     bn: মৃতদেহ
     bs: Mrtvac
@@ -179,7 +179,7 @@ dv_has_:
     nan: Si-thé
     nap: Catavero
     nb: lik
-    nds-nl: kedaver
+    nds_nl: kedaver
     ne: अङ्ग
     nl: kadaver of lijk
     nn: lik
@@ -188,7 +188,7 @@ dv_has_:
     pnb: لوتھ
     ps: مړی
     pt: cadáver
-    pt-br: cadáver
+    pt_br: cadáver
     qu: Aya
     rn: Umuhisi
     ro: Cadavru
@@ -217,8 +217,8 @@ dv_has_:
     wuu: 死人
     yue: 屍
     zh: 屍體
-    zh-hans: 尸体
-    zh-hant: 屍體
+    zh_hans: 尸体
+    zh_hant: 屍體
 ---
 # [[Corpse]] 
 

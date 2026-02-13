@@ -162,7 +162,7 @@ dv_has_:
     azb: تکتونیک صفحهلر
     ba: Плиталар тектоникаһы
     be: Тэктоніка пліт
-    be-tarask: тэктоніка пліт
+    be_tarask: тэктоніка пліт
     bg: Тектоника на плочите
     bho: प्लेट टेक्टॉनिक्स
     bn: ভূত্বকীয় পাত সংস্থান তত্ত্ব
@@ -215,7 +215,7 @@ dv_has_:
     li: Plaattektoniek
     lt: Plokščių tektonika
     lv: plātņu tektonika
-    map-bms: Lempeng tektonik
+    map_bms: Lempeng tektonik
     mk: тектоника на плочите
     ml: ഫലകചലനസിദ്ധാന്തം
     mn: Тектоник хавтан
@@ -247,7 +247,7 @@ dv_has_:
     smn: nannaamráptutektoniik
     sq: Pllaka tektonike
     sr: тектоника плоча
-    sr-ec: тектоника плоча
+    sr_ec: тектоника плоча
     su: Pelat tektonik
     sv: plattektonik
     sw: Gandunia

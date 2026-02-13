@@ -400,7 +400,7 @@ dv_has_:
     bcl: sira
     bdr: Diing
     be: рыбы
-    be-tarask: рыбы
+    be_tarask: рыбы
     bg: риба
     bho: मछरी
     bi: Fis
@@ -426,7 +426,7 @@ dv_has_:
     co: pesciu
     cr: ᓇᒣᔅ
     crh: balıq
-    crh-latn: Balıq
+    crh_latn: Balıq
     crh-ro: balîk
     cs: ryby
     csb: Rëbë
@@ -436,7 +436,7 @@ dv_has_:
     da: fisk
     dag: Zaham
     de: Fisch
-    de-ch: Fische
+    de_ch: Fische
     dga: Zombo
     diq: Mase
     dsb: Ryby
@@ -446,8 +446,8 @@ dv_has_:
     ee: akpa
     el: ψάρι
     en: fish
-    en-ca: Fish
-    en-gb: fish
+    en_ca: Fish
+    en_gb: fish
     eo: fiŝo
     es: pez
     et: kala
@@ -573,7 +573,7 @@ dv_has_:
     mr: मासा
     mrj: Кол
     ms: ikan
-    ms-arab: ايکن
+    ms_arab: ايکن
     mt: ħuta
     mua: syiŋ
     mul: Pisces
@@ -586,7 +586,7 @@ dv_has_:
     nap: Pisce
     nb: fisk
     nds: Fisch
-    nds-nl: visk
+    nds_nl: visk
     ne: माछा
     new: न्या
     niu: ika
@@ -615,7 +615,7 @@ dv_has_:
     pnt: οψάρ'
     ps: کب
     pt: peixe
-    pt-br: peixe
+    pt_br: peixe
     qu: Challwa
     rm: pesch
     ro: pește
@@ -676,8 +676,8 @@ dv_has_:
     tpi: pis
     tr: balık
     tt: балыклар
-    tt-cyrl: балыклар
-    tt-latn: balıqlar
+    tt_cyrl: балыклар
+    tt_latn: balıqlar
     tvu: hiɔfɔ́
     ty: eiya
     tyv: балык
@@ -712,13 +712,13 @@ dv_has_:
     yue: 魚
     za: Duzbya
     zh: 魚
-    zh-cn: 鱼
-    zh-hans: 鱼
-    zh-hant: 魚
-    zh-hk: 魚
-    zh-mo: 魚
-    zh-sg: 鱼
-    zh-tw: 魚
+    zh_cn: 鱼
+    zh_hans: 鱼
+    zh_hant: 魚
+    zh_hk: 魚
+    zh_mo: 魚
+    zh_sg: 鱼
+    zh_tw: 魚
     zu: inhlanzi
 ---
 # [[Fish]] 🐟 

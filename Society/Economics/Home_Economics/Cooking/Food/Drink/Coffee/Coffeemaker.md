@@ -93,7 +93,7 @@ dv_has_:
     ast: Cafetera
     bcl: Paragibo nin kape
     be: кававарка
-    be-tarask: кававы апарат
+    be_tarask: кававы апарат
     bg: Кафе машина
     bn: কফিমেকার
     br: Pod-kafe
@@ -118,11 +118,11 @@ dv_has_:
     ja: コーヒー・メーカー
     jv: Panggawé kopi
     kk: Кофеқайнатқыш
-    kk-arab: كوفەقايناتقىش
+    kk_arab: كوفەقايناتقىش
     kk-cn: كوفەقايناتقىش
-    kk-cyrl: Кофеқайнатқыш
+    kk_cyrl: Кофеқайнатқыш
     kk-kz: Кофеқайнатқыш
-    kk-latn: Kofeqaýnatqış
+    kk_latn: Kofeqaýnatqış
     kk-tr: Kofeqaýnatqış
     ko: 커피메이커
     la: machina cafearia
@@ -132,13 +132,13 @@ dv_has_:
     min: Pamanggang kopi
     mk: кафемат
     nb: kaffetrakter
-    nds-nl: koffiemesine
+    nds_nl: koffiemesine
     nl: koffiezetapparaat
     nn: kaffitraktar
     pl: ekspres do kawy
     pms: Màchina dël cafè
     pt: cafeteira
-    pt-br: cafeteira
+    pt_br: cafeteira
     ro: cafetieră
     ru: кофеварка
     scn: Cafittera
@@ -160,11 +160,11 @@ dv_has_:
     yue: 咖啡機
     zh: 咖啡機
     zh-cn: 咖啡机
-    zh-hans: 咖啡机
-    zh-hant: 咖啡機
-    zh-hk: 咖啡機
-    zh-sg: 咖啡机
-    zh-tw: 咖啡機
+    zh_hans: 咖啡机
+    zh_hant: 咖啡機
+    zh_hk: 咖啡機
+    zh_sg: 咖啡机
+    zh_tw: 咖啡機
 ---
 # [[Coffeemaker]] 
 

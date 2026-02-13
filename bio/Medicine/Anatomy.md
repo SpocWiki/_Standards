@@ -155,7 +155,7 @@ dv_has_:
     ban: Anatomi
     bcl: Anatomiya
     be: анатомія
-    be-tarask: анатомія
+    be_tarask: анатомія
     bg: Анатомия
     bho: अंग रचना बिज्ञान
     bjn: Anatumi
@@ -177,8 +177,8 @@ dv_has_:
     el: ανατομία
     eml: Anatomî
     en: anatomy
-    en-ca: Anatomy
-    en-gb: anatomy
+    en_ca: Anatomy
+    en_gb: anatomy
     eo: anatomio
     es: anatomía
     et: anatoomia
@@ -273,7 +273,7 @@ dv_has_:
     pnb: اناٹومی
     ps: اناتومى
     pt: anatomia
-    pt-br: anatomia
+    pt_br: anatomia
     qu: Kurkumanta yachay
     ro: anatomie
     ru: анатомия
@@ -297,7 +297,7 @@ dv_has_:
     sms: anatomia
     sq: Anatomia
     sr: анатомија
-    sr-ec: анатомија
+    sr_ec: анатомија
     stq: Anatomie
     su: Anatomi
     sv: anatomi
@@ -326,11 +326,11 @@ dv_has_:
     yo: ẹ̀kọ́ ẹ̀ya-ara àbẹ̀mí
     yue: 解剖學
     zh: 解剖学
-    zh-cn: 解剖学
-    zh-hans: 解剖学
-    zh-hant: 解剖学
-    zh-hk: 解剖學
-    zh-tw: 解剖學
+    zh_cn: 解剖学
+    zh_hans: 解剖学
+    zh_hant: 解剖学
+    zh_hk: 解剖學
+    zh_tw: 解剖學
     zu: Umhlakahlo
 ---
 # [[Anatomy]]

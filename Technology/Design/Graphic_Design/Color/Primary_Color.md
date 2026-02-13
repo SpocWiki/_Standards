@@ -106,7 +106,7 @@ dv_has_:
     ba: төп төҫтәр
     bcl: Kolor na primaryo
     be: асноўныя колеры
-    be-tarask: асноўны колер
+    be_tarask: асноўны колер
     bn: মূল রং
     bo: སྣོན་བྱེད་གཞི་མདོག
     ca: color primari
@@ -117,7 +117,7 @@ dv_has_:
     diq: Renga esas
     el: βασικά χρώματα
     en: primary colort
-    en-gb: primary colour
+    en_gb: primary colour
     eo: baza koloro
     es: color primario
     et: põhivärvus
@@ -149,7 +149,7 @@ dv_has_:
     mk: основна боја
     ml: പ്രാഥമികവർണ്ണങ്ങൾ
     ms: warna primer
-    ms-arab: ورنا ڤريمير
+    ms_arab: ورنا ڤريمير
     mwl: Quelor primária
     nan: Goân-sek
     nb: primærfarge
@@ -160,7 +160,7 @@ dv_has_:
     os: бындурон хуыз
     pl: barwa podstawowa
     pt: cor primária
-    pt-br: cor primária
+    pt_br: cor primária
     ro: culoare primară
     ru: основные цвета
     scn: culuri primàriu
@@ -171,8 +171,8 @@ dv_has_:
     smn: vuáđuivne
     so: Midabada Asaasiga
     sr: основна боја
-    sr-ec: основна боја
-    sr-el: osnovna boja
+    sr_ec: основна боја
+    sr_el: osnovna boja
     su: Warna primér
     sv: primärfärg
     ta: முதன்மை வண்ணம்
@@ -180,7 +180,7 @@ dv_has_:
     tl: Kulay na primarya
     tr: ana renk
     tt: төп төсләр
-    tt-cyrl: төп төсләр
+    tt_cyrl: төп төсләр
     uk: основні кольори
     ur: بنیادی رنگ
     uz: asosiy rang
@@ -188,7 +188,7 @@ dv_has_:
     wuu: 原色
     yue: 三原色
     zh: 原色
-    zh-hans: 原色
+    zh_hans: 原色
 ---
 # [[Primary_Color]] 
 

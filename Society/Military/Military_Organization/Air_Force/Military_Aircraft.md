@@ -92,7 +92,7 @@ dv_has_:
     ar: طائرة عسكرية
     az: Hərbi təyyarə
     be: ваенны самалёт
-    be-tarask: вайсковы лятак
+    be_tarask: вайсковы лятак
     bg: Военен самолет
     bn: সামরিক বিমান
     ca: avió militar
@@ -102,7 +102,7 @@ dv_has_:
     de: Militärflugzeug
     el: Στρατιωτικό αεροσκάφος
     en: military aircraft
-    en-ca: military aircraft
+    en_ca: military aircraft
     eo: milita aviadilo
     es: aeronave militar
     et: sõjalennuk
@@ -141,8 +141,8 @@ dv_has_:
     sl: vojaški zrakoplov
     sq: avion ushtarak
     sr: војни ваздухоплов
-    sr-ec: војни ваздухоплов
-    sr-el: vojni vazduhoplov
+    sr_ec: војни ваздухоплов
+    sr_el: vojni vazduhoplov
     sv: militärflygplan
     sw: Ndege ya kijeshi
     ta: போர் வானூர்தி
@@ -153,12 +153,12 @@ dv_has_:
     vi: máy bay quân sự
     yue: 軍用飛行器
     zh: 军用航空器
-    zh-cn: 军用航空器
-    zh-hans: 军用航空器
-    zh-hant: 軍用航空器
-    zh-hk: 軍用航空器
-    zh-sg: 军用航空器
-    zh-tw: 軍用航空器
+    zh_cn: 军用航空器
+    zh_hans: 军用航空器
+    zh_hant: 軍用航空器
+    zh_hk: 軍用航空器
+    zh_sg: 军用航空器
+    zh_tw: 軍用航空器
 ---
 # [[Military_Aircraft]] 
 

@@ -162,7 +162,7 @@ dv_has_:
     ba: Һоро
     ban: Kelawu
     be: шэры колер
-    be-tarask: шэры
+    be_tarask: шэры
     bg: сив цвят
     bjn: habuk
     bn: ধূসর
@@ -180,8 +180,8 @@ dv_has_:
     de: Grau
     el: γκρι
     en: grey
-    en-ca: grey
-    en-gb: grey
+    en_ca: grey
+    en_gb: grey
     en-us: gray
     eo: grizo
     es: gris
@@ -231,7 +231,7 @@ dv_has_:
     lmo: Gris
     lt: pilka
     lv: pelēkā krāsa
-    map-bms: abu-Abu
+    map_bms: abu-Abu
     mdf: Уле
     mk: сива
     ml: ചാരനിറം
@@ -259,7 +259,7 @@ dv_has_:
     pdc: Groh
     pl: barwa szara
     pt: cinza
-    pt-br: cinza
+    pt_br: cinza
     qu: Uqi
     ro: gri
     ru: серый
@@ -286,7 +286,7 @@ dv_has_:
     tl: Abo
     tr: gri
     tt: соры
-    tt-cyrl: соры
+    tt_cyrl: соры
     ty: rehu
     udm: пурысь
     uk: сірий
@@ -301,14 +301,14 @@ dv_has_:
     yue: 灰
     za: Saekmong
     zh: 灰色
-    zh-cn: 灰色
-    zh-hans: 灰色
-    zh-hant: 灰色
-    zh-hk: 灰色
-    zh-mo: 灰色
+    zh_cn: 灰色
+    zh_hans: 灰色
+    zh_hant: 灰色
+    zh_hk: 灰色
+    zh_mo: 灰色
     zh-my: 灰色
-    zh-sg: 灰色
-    zh-tw: 灰色
+    zh_sg: 灰色
+    zh_tw: 灰色
     zu: Okumpunga
 ---
 # [[Gray]]

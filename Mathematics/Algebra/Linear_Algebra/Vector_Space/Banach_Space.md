@@ -67,8 +67,8 @@ dv_has_:
     de: Banachraum
     el: Χώρος Μπάναχ
     en: Banach space
-    en-ca: Banach space
-    en-gb: Banach space
+    en_ca: Banach space
+    en_gb: Banach space
     eo: banaĥa spaco
     es: espacio de Banach
     et: Banachi ruum
@@ -83,11 +83,11 @@ dv_has_:
     it: spazio di Banach
     ja: バナッハ空間
     kk: Банах кеңістігі
-    kk-arab: باناح كەڭىستىگى
+    kk_arab: باناح كەڭىستىگى
     kk-cn: باناح كەڭىستىگى
-    kk-cyrl: Банах кеңістігі
+    kk_cyrl: Банах кеңістігі
     kk-kz: Банах кеңістігі
-    kk-latn: Banax keñistigi
+    kk_latn: Banax keñistigi
     kk-tr: Banax keñistigi
     kn: ಬಾನಾಕ್ ಆಕಾಶ
     ko: 바나흐 공간
@@ -102,7 +102,7 @@ dv_has_:
     pl: przestrzeń Banacha
     pms: spassi ëd Banach
     pt: espaço de Banach
-    pt-br: espaço de Banach
+    pt_br: espaço de Banach
     ro: spațiu Banach
     ru: банахово пространство
     sco: Banach space
@@ -117,12 +117,12 @@ dv_has_:
     wuu: 巴拿赫空间
     yue: 巴拿赫空間
     zh: 巴拿赫空间
-    zh-cn: 巴拿赫空间
-    zh-hans: 巴拿赫空间
-    zh-hant: 巴拿赫空間
-    zh-hk: 巴拿赫空間
-    zh-sg: 巴拿赫空间
-    zh-tw: 巴拿赫空間
+    zh_cn: 巴拿赫空间
+    zh_hans: 巴拿赫空间
+    zh_hant: 巴拿赫空間
+    zh_hk: 巴拿赫空間
+    zh_sg: 巴拿赫空间
+    zh_tw: 巴拿赫空間
 ---
 # [[Banach_Space]]
 

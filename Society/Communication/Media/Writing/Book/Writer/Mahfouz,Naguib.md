@@ -189,7 +189,7 @@ dv_has_:
     ba: Нәғиб Мәхфрүз
     bar: Nagib Mahfuz
     be: Нагіб Махфуз
-    be-tarask: Нагіб Махфуз
+    be_tarask: Нагіб Махфуз
     bg: Нагиб Махфуз
     bi: Naguib Mahfouz
     bn: নাগিব মাহফুজ
@@ -201,17 +201,17 @@ dv_has_:
     ce: Нагиб Махфуз
     ckb: نەجیب مەحفووز
     crh: Nagib Mahfuz
-    crh-latn: Nagib Mahfuz
+    crh_latn: Nagib Mahfuz
     cs: Nagíb Mahfúz
     cy: Naguib Mahfouz
     da: Naguib Mahfouz
     de: Nagib Mahfuz
-    de-ch: Nagib Mahfuz
+    de_ch: Nagib Mahfuz
     diq: Necip Mahfuz
     el: Ναγκίμπ Μαχφούζ
     en: Naguib Mahfouz
-    en-ca: Naguib Mahfouz
-    en-gb: Naguib Mahfouz
+    en_ca: Naguib Mahfouz
+    en_gb: Naguib Mahfouz
     eo: Naguib Mahfouz
     es: Naguib Mahfuz
     et: Nagib Mahfuz
@@ -287,7 +287,7 @@ dv_has_:
     pnb: نجيب محفوظ
     ps: نجيب محفوظ
     pt: Naguib Mahfouz
-    pt-br: Naguib Mahfouz
+    pt_br: Naguib Mahfouz
     ro: Naghib Mahfuz
     roa-tara: Naguib Mahfouz
     ru: Нагиб Махфуз
@@ -327,8 +327,8 @@ dv_has_:
     yue: 馬哈福茲
     zgh: ⵏⴰⵊⵉⴱ ⵎⴰⵃⴼⵓⴹ
     zh: 納吉布·馬哈福茲
-    zh-cn: 纳吉布·马哈福兹
-    zh-hant: 納吉布·馬哈福茲
+    zh_cn: 纳吉布·马哈福兹
+    zh_hant: 納吉布·馬哈福茲
 ---
 ## #has_/text_of_/abstract 
 

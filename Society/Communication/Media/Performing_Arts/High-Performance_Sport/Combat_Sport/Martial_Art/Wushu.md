@@ -57,7 +57,7 @@ dv_has_:
     ast: Wushu (deporte)
     ba: Ушу
     be: Ушу
-    be-tarask: ушу
+    be_tarask: ушу
     bg: ушу
     ca: Wu-Shu
     cs: Wushu
@@ -116,9 +116,9 @@ dv_has_:
     vi: Wushu
     yue: 武術
     zh: 武术
-    zh-cn: 武术
-    zh-hk: 武術
-    zh-tw: 武術
+    zh_cn: 武术
+    zh_hk: 武術
+    zh_tw: 武術
 ---
 # [[Wushu]] 
 

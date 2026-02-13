@@ -14,11 +14,11 @@ dv_has_:
     cy: GoldenEye
     da: GoldenEye
     de: James Bond 007 – GoldenEye
-    de-ch: James Bond 007 – Goldeneye
+    de_ch: James Bond 007 – Goldeneye
     el: 'Τζέιμς Μποντ, πράκτωρ 007: Επιχείρηση Χρυσά Μάτια'
     en: GoldenEye
-    en-ca: GoldenEye
-    en-gb: GoldenEye
+    en_ca: GoldenEye
+    en_gb: GoldenEye
     eo: GoldenEye
     es: GoldenEye
     et: 007 ja Kuldsilm
@@ -56,7 +56,7 @@ dv_has_:
     oc: GoldenEye
     pl: GoldenEye
     pt: GoldenEye
-    pt-br: GoldenEye
+    pt_br: GoldenEye
     ro: Agentul 007 contra GoldenEye
     ru: Золотой глаз
     sco: GoldenEye
@@ -72,10 +72,10 @@ dv_has_:
     xmf: ორქოშთოლი
     yue: 新鐵金剛之金眼睛
     zh: 新鐵金剛之金眼睛
-    zh-hans: 007之黄金眼
-    zh-hant: 007之黃金眼
-    zh-sg: 黄金眼
-    zh-tw: 007之黃金眼
+    zh_hans: 007之黄金眼
+    zh_hant: 007之黃金眼
+    zh_sg: 黄金眼
+    zh_tw: 007之黃金眼
 aliases:
 - 007 ja Kuldsilm
 - 007 ja kultainen silmä

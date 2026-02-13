@@ -125,7 +125,7 @@ dv_has_:
     ast: observación
     az: Müşahidə
     be: назіранне
-    be-tarask: назіраньне
+    be_tarask: назіраньне
     bg: Наблюдение
     bn: পর্যবেক্ষণ
     bs: Opservacija
@@ -168,7 +168,7 @@ dv_has_:
     mn: Ажиглалт
     mr: निरीक्षण
     ms: pemerhatian
-    ms-arab: ڤمرهاتين
+    ms_arab: ڤمرهاتين
     nb: observasjon
     ne: अवलाेकन
     nl: observatie
@@ -187,8 +187,8 @@ dv_has_:
     sl: opazovanje
     sn: Cherechedza
     sr: посматрање
-    sr-ec: посматрање
-    sr-el: Posmatranje
+    sr_ec: посматрање
+    sr_el: Posmatranje
     sv: observation
     sw: Uchunguzi (sayansi)
     ta: அவதானிப்பு
@@ -203,12 +203,12 @@ dv_has_:
     wuu: 观察
     yue: 觀察
     zh: 观察
-    zh-cn: 观察
-    zh-hans: 观察
-    zh-hant: 觀察
-    zh-hk: 觀察
-    zh-sg: 观察
-    zh-tw: 觀察
+    zh_cn: 观察
+    zh_hans: 观察
+    zh_hant: 觀察
+    zh_hk: 觀察
+    zh_sg: 观察
+    zh_tw: 觀察
   properties:
   - '[[../../../Property/has_url_for/has_url_for_additional_type|has_url_for_additional_type]]'
   - '[[../../../Property/has_name/has_name_alternate|has_name_alternate]]'

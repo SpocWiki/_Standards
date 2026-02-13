@@ -38,7 +38,7 @@ dv_has_:
   name_:
     ar: مخطط تبادلي
     ast: Diagrama conmutativu
-    be-tarask: камутатыўная дыяграма
+    be_tarask: камутатыўная дыяграма
     ca: diagrama commutatiu
     cs: komutativní diagram
     de: kommutatives Diagramm
@@ -65,9 +65,9 @@ dv_has_:
     uk: комутативна діаграма
     yue: 交換圖
     zh: 交换图表
-    zh-hans: 交换图表
-    zh-hant: 交換圖表
-    zh-hk: 交換圖表
+    zh_hans: 交换图表
+    zh_hant: 交換圖表
+    zh_hk: 交換圖表
 ---
 # [[Commutative_Diagram]] 
 

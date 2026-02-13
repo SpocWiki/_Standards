@@ -113,7 +113,7 @@ dv_has_:
     ba: Иммигранттар ҡунаҡханаһы
     bcl: Hotel
     be: гасцініца
-    be-tarask: гатэль
+    be_tarask: гатэль
     bg: Хотел
     bn: হোটেল
     br: leti
@@ -130,8 +130,8 @@ dv_has_:
     de: Hotel
     el: ξενοδοχείο
     en: hotel
-    en-ca: hotel
-    en-gb: hotel
+    en_ca: hotel
+    en_gb: hotel
     en-us: hotel
     eo: hotelo
     es: hotel
@@ -182,12 +182,12 @@ dv_has_:
     ml: ഹോട്ടൽ
     mn: Зочид буудал
     ms: hotel
-    ms-arab: هوتيل
+    ms_arab: هوتيل
     mt: lukanda
     my: ဟိုတယ်
     nan: lí-siā
     nb: hotell
-    nds-nl: hotel
+    nds_nl: hotel
     ne: होटेल
     nl: hotel
     nn: hotell
@@ -198,7 +198,7 @@ dv_has_:
     pnb: ہوٹل
     ps: هوټل
     pt: hotel
-    pt-br: hotel
+    pt_br: hotel
     qu: Tampu wasi
     rm: hotel
     ro: hotel
@@ -221,8 +221,8 @@ dv_has_:
     so: Hoyga-jiifka
     sq: Hoteli
     sr: хотел
-    sr-ec: хотел
-    sr-el: hotel
+    sr_ec: хотел
+    sr_el: hotel
     su: Hotel
     sv: hotell
     sw: Hoteli
@@ -245,14 +245,14 @@ dv_has_:
     yue: 酒店
     za: Hekdiemq
     zh: 飯店
-    zh-cn: 酒店
-    zh-hans: 酒店
-    zh-hant: 酒店
-    zh-hk: 酒店
-    zh-mo: 酒店
+    zh_cn: 酒店
+    zh_hans: 酒店
+    zh_hant: 酒店
+    zh_hk: 酒店
+    zh_mo: 酒店
     zh-my: 酒店
-    zh-sg: 酒店
-    zh-tw: 飯店
+    zh_sg: 酒店
+    zh_tw: 飯店
 ---
 # [[Hotel]] 
 

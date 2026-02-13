@@ -88,7 +88,7 @@ dv_has_:
     azb: پانتئیسم
     ban: Panteisme
     be: Пантэізм
-    be-tarask: пантэізм
+    be_tarask: пантэізм
     bg: Пантеизъм
     bn: সর্বেশ্বরবাদ
     bs: Panteizam
@@ -174,7 +174,7 @@ dv_has_:
     yi: פּאַנטעאיזם
     yue: 泛神論
     zh: 泛神论
-    zh-hk: 泛神論
+    zh_hk: 泛神論
 ---
 # [[Pantheism]] 
 

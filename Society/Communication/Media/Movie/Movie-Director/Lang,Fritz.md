@@ -108,7 +108,7 @@ dv_has_:
     arz: فريتز لانج
     ast: Fritz Lang
     be: Фрыц Ланг
-    be-tarask: Фрыц Ланг
+    be_tarask: Фрыц Ланг
     bg: Фриц Ланг
     bn: ফ্রিৎস লাং
     ca: Fritz Lang
@@ -119,8 +119,8 @@ dv_has_:
     de: Fritz Lang
     el: Φριτς Λανγκ
     en: Fritz Lang
-    en-ca: Fritz Lang
-    en-gb: Fritz Lang
+    en_ca: Fritz Lang
+    en_gb: Fritz Lang
     eo: Fritz Lang
     es: Fritz Lang
     eu: Fritz Lang
@@ -164,7 +164,7 @@ dv_has_:
     pap: Fritz Lang
     pl: Fritz Lang
     pt: Fritz Lang
-    pt-br: Fritz Lang
+    pt_br: Fritz Lang
     ro: Fritz Lang
     ru: Фриц Ланг
     sco: Fritz Lang
@@ -184,11 +184,11 @@ dv_has_:
     yo: Fritz Lang
     yue: 費立茲·朗
     zh: 弗里茨·朗
-    zh-cn: 弗里茨·朗
-    zh-hans: 弗里茨·朗
-    zh-hant: 佛列茲‧朗
-    zh-hk: 費立茲·朗
-    zh-tw: 佛列茲‧朗
+    zh_cn: 弗里茨·朗
+    zh_hans: 弗里茨·朗
+    zh_hant: 佛列茲‧朗
+    zh_hk: 費立茲·朗
+    zh_tw: 佛列茲‧朗
 ---
 # [[Lang,Fritz]] 
 

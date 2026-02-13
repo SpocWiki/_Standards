@@ -101,7 +101,7 @@ dv_has_:
     ast: coru
     az: xor
     be: хор
-    be-tarask: хор
+    be_tarask: хор
     bg: Хор
     bn: বৃন্দগান
     br: Laz-kanañ
@@ -138,11 +138,11 @@ dv_has_:
     ja: 合唱団
     ka: გუნდი
     kk: Хор
-    kk-arab: حور
+    kk_arab: حور
     kk-cn: حور
-    kk-cyrl: Хор
+    kk_cyrl: Хор
     kk-kz: Хор
-    kk-latn: Xor
+    kk_latn: Xor
     kk-tr: Xor
     ko: 합창
     ky: Хор
@@ -162,7 +162,7 @@ dv_has_:
     oc: Corala
     pl: chór
     pt: coro
-    pt-br: coro
+    pt_br: coro
     qu: Takich'unku
     ro: cor
     rsk: Хор
@@ -176,8 +176,8 @@ dv_has_:
     sms: kuårr
     sq: Kënga korale
     sr: хор
-    sr-ec: хор
-    sr-el: Hor
+    sr_ec: хор
+    sr_el: Hor
     stq: Chor
     su: Rampak Sekar
     sv: kör
@@ -192,12 +192,12 @@ dv_has_:
     wuu: 合唱
     yue: 合唱
     zh: 合唱團
-    zh-cn: 合唱团
-    zh-hans: 合唱团
-    zh-hant: 合唱團
-    zh-hk: 合唱團
-    zh-sg: 合唱团
-    zh-tw: 合唱團
+    zh_cn: 合唱团
+    zh_hans: 合唱团
+    zh_hant: 合唱團
+    zh_hk: 合唱團
+    zh_sg: 合唱团
+    zh_tw: 合唱團
 ---
 # [[Choir]] 
 

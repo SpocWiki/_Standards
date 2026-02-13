@@ -552,7 +552,7 @@ dv_has_:
     ba: Һимереү
     bar: Iwagwichd
     be: атлусценне
-    be-tarask: атлусьценьне
+    be_tarask: атлусьценьне
     bg: Затлъстяване
     bho: मोटापा
     bjn: Awak lamak
@@ -653,7 +653,7 @@ dv_has_:
     sn: Kufuta
     sq: Obeziteti
     sr: гојазност
-    sr-ec: гојазност
+    sr_ec: гојазност
     sv: fetma
     sw: Kunona
     syl: ꠟꠦꠖ꠆ꠖꠣꠟꠥꠖ꠆ꠖꠣ

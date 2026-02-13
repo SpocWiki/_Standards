@@ -101,7 +101,7 @@ dv_has_:
     az: Şrödingerin Pişiyi
     azb: شرودینقرین پیشیگی
     be: кот Шродзінгера
-    be-tarask: кот Шрэдынгера
+    be_tarask: кот Шрэдынгера
     bg: Котка на Шрьодингер
     bn: শ্রোডিঙ্গারের বিড়াল
     bpy: শ্রোডিঙ্গারর মেকুর
@@ -113,8 +113,8 @@ dv_has_:
     diq: Pısınga Schrödingeri
     el: Γάτα του Σρέντιγκερ
     en: Schrödinger's cat
-    en-ca: Schrödinger's cat
-    en-gb: Schrödinger's cat
+    en_ca: Schrödinger's cat
+    en_gb: Schrödinger's cat
     eo: kato de Schrödinger
     es: gato de Schrödinger
     et: Schrödingeri kass
@@ -155,7 +155,7 @@ dv_has_:
     pl: kot Schrödingera
     pnb: شروڈنگر دی بلی
     pt: gato de Schrödinger
-    pt-br: Gato de Schrödinger
+    pt_br: Gato de Schrödinger
     ro: Pisica lui Schrödinger
     ru: кот Шрёдингера
     sah: Шрёдингер куоската
@@ -182,7 +182,7 @@ dv_has_:
     wuu: 薛定谔猫
     yue: 薛定諤貓
     zh: 薛定谔的猫
-    zh-hans: 薛定谔的猫
+    zh_hans: 薛定谔的猫
 ---
 # [[Schrödinger's_Cat]] 
 

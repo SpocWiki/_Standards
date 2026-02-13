@@ -99,7 +99,7 @@ dv_has_:
     ar: معاوقة
     ast: impedancia
     az: İmpedans
-    be-tarask: электрычны імпэданс
+    be_tarask: электрычны імпэданс
     bg: импеданс
     bn: ইম্পিডেন্স
     bs: električna impedansa
@@ -154,8 +154,8 @@ dv_has_:
     sms: impedanss
     sq: impedanca elektrike
     sr: електрична импеданса
-    sr-ec: електрична импеданса
-    sr-el: Električna impedansa
+    sr_ec: електрична импеданса
+    sr_el: Električna impedansa
     sv: impedans
     ta: மின்மறுப்பு
     th: อิมพีแดนซ์
@@ -167,12 +167,12 @@ dv_has_:
     yi: אימפעדאנץ
     yue: 電阻抗
     zh: 阻抗
-    zh-cn: 阻抗
-    zh-hans: 阻抗
-    zh-hant: 阻抗
-    zh-hk: 阻抗
-    zh-sg: 阻抗
-    zh-tw: 阻抗
+    zh_cn: 阻抗
+    zh_hans: 阻抗
+    zh_hant: 阻抗
+    zh_hk: 阻抗
+    zh_sg: 阻抗
+    zh_tw: 阻抗
 ---
 # [[Electric_Impedance]] 
 

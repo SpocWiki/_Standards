@@ -53,7 +53,7 @@ dv_has_:
     af: Gametofiet
     ar: نابتة عرسية
     ast: Gametófito
-    be-tarask: гамэтафіт
+    be_tarask: гамэтафіт
     bg: Гаметофит
     bn: গ্যামেটোফাইট
     bs: Gametofit
@@ -62,8 +62,8 @@ dv_has_:
     da: Gametofyt
     de: Gametophyt
     en: gametophyte
-    en-ca: Gametophyte
-    en-gb: Gametophyte
+    en_ca: Gametophyte
+    en_gb: Gametophyte
     eo: gametofito
     es: gametofito
     et: gametofüüt
@@ -86,11 +86,11 @@ dv_has_:
     jv: Gametofit
     ka: გამეტოფიტი
     kk: Гаметофит
-    kk-arab: گامەتوفىيت
+    kk_arab: گامەتوفىيت
     kk-cn: گامەتوفىيت
-    kk-cyrl: Гаметофит
+    kk_cyrl: Гаметофит
     kk-kz: Гаметофит
-    kk-latn: Gametofït
+    kk_latn: Gametofït
     kk-tr: Gametofït
     ko: 배우체
     ky: Гаметофит
@@ -104,7 +104,7 @@ dv_has_:
     oc: Gametofit
     pl: gametofit
     pt: gametófito
-    pt-br: Gametófito
+    pt_br: Gametófito
     ru: гаметофит
     sh: Gametofit
     sk: gametofyt
@@ -119,12 +119,12 @@ dv_has_:
     wuu: 配子体
     yue: 配子體
     zh: 配子體
-    zh-cn: 配子体
-    zh-hans: 配子体
-    zh-hant: 配子體
-    zh-hk: 配子體
-    zh-sg: 配子体
-    zh-tw: 配子體
+    zh_cn: 配子体
+    zh_hans: 配子体
+    zh_hant: 配子體
+    zh_hk: 配子體
+    zh_sg: 配子体
+    zh_tw: 配子體
 ---
 # [[Gametophyte]] 
 

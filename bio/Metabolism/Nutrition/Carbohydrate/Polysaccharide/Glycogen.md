@@ -106,7 +106,7 @@ dv_has_:
     azb: قلیکوژن
     ba: гликоген
     be: глікаген
-    be-tarask: глікаген
+    be_tarask: глікаген
     bg: Гликоген
     bn: গ্লাইকোজেন
     bs: Glikogen
@@ -140,11 +140,11 @@ dv_has_:
     jv: glikogen
     ka: გლიკოგენი
     kk: Гликоген
-    kk-arab: گلىيكوگەن
+    kk_arab: گلىيكوگەن
     kk-cn: گلىيكوگەن
-    kk-cyrl: Гликоген
+    kk_cyrl: Гликоген
     kk-kz: Гликоген
-    kk-latn: Glïkogen
+    kk_latn: Glïkogen
     kk-tr: Glïkogen
     ko: 글리코겐
     ku: Glîkojen
@@ -162,7 +162,7 @@ dv_has_:
     pa: ਗਲਾਈਕੋਜਨ
     pl: Glikogen
     pt: glicogénio
-    pt-br: glicogênio
+    pt_br: glicogênio
     ro: Glicogen
     ru: гликоген
     sh: Glikogen
@@ -170,8 +170,8 @@ dv_has_:
     sl: Glikogen
     sq: Glikogjeni
     sr: гликоген
-    sr-ec: Гликоген
-    sr-el: Glikogen
+    sr_ec: Гликоген
+    sr_el: Glikogen
     sv: Glykogen
     ta: கிளைக்கோசன்
     tg: гликоген
@@ -182,12 +182,12 @@ dv_has_:
     vi: Glycogen
     yue: 肝醣
     zh: 糖原
-    zh-cn: 糖原
-    zh-hans: 糖原
-    zh-hant: 糖原
-    zh-hk: 糖原
-    zh-sg: 糖原
-    zh-tw: 肝糖
+    zh_cn: 糖原
+    zh_hans: 糖原
+    zh_hant: 糖原
+    zh_hk: 糖原
+    zh_sg: 糖原
+    zh_tw: 肝糖
 ---
 # [[Glycogen]]
 

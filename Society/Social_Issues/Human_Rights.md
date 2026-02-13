@@ -270,7 +270,7 @@ dv_has_:
     ban: Hak Asasi Manusia
     bcl: Karapatan pantawo
     be: правы чалавека
-    be-tarask: правы чалавека
+    be_tarask: правы чалавека
     bg: права на човека
     bjn: Hak asasi manusia
     blk: လိုꩻအခွင်ꩻရေꩻ
@@ -291,7 +291,7 @@ dv_has_:
     da: menneskerettigheder
     dag: Human rights
     de: Menschenrechte
-    de-ch: Menschenrechte
+    de_ch: Menschenrechte
     diq: Heqê merduman
     dtp: Hak asasi koulunan
     dty: मानव अधिकार
@@ -366,14 +366,14 @@ dv_has_:
     mr: मानवी हक्क
     mrj: Эдемӹн прававлӓжӹ
     ms: hak asasi manusia
-    ms-arab: حق اساسي ماءنسي
+    ms_arab: حق اساسي ماءنسي
     mt: drittijiet tal-bniedem
     my: လူ့အခွင့်အရေး
     myv: Ломанень прават
     nan: Jîn-kôan
     nb: menneskerettigheter
     nds: Minschenrechten
-    nds-nl: menskenrechten
+    nds_nl: menskenrechten
     ne: मानव अधिकार
     new: मनु अधिकार
     nl: mensenrechten
@@ -395,7 +395,7 @@ dv_has_:
     pnb: انسانی حق
     ps: وګړنيز حقوق
     pt: direitos humanos
-    pt-br: Direitos humanos
+    pt_br: Direitos humanos
     qu: Runa hayñi
     rm: Dretgs umans
     rmf: komunisko horttibi
@@ -422,20 +422,20 @@ dv_has_:
     so: Xuquuqda dadka
     sq: të drejtat e njeriut
     sr: људска права
-    sr-ec: људска права
+    sr_ec: људска права
     su: Hak asasi manusa
     sv: mänskliga rättigheter
     sw: haki za binadamu
     ta: மனித உரிமைகள்
     te: మానవ హక్కులు
     tg: ҳуқуқи башар
-    tg-cyrl: Ҳуқуқи инсон
+    tg_cyrl: Ҳуқуқи инсон
     th: สิทธิมนุษยชน
     tl: Karapatang pantao
     tok: sitelen pi ken jan
     tr: insan hakları
     tt: кеше хокуклары
-    tt-cyrl: кеше хокуклары
+    tt_cyrl: кеше хокуклары
     udm: адямилэн эрикрадъёсыз
     uk: права людини
     ur: انسانی حقوق
@@ -453,11 +453,11 @@ dv_has_:
     yue: 人權
     zgh: ⵉⵣⵔⴼⴰⵏ ⵏ ⵓⴼⴳⴰⵏ
     zh: 人權
-    zh-cn: 人权
-    zh-hans: 人权
-    zh-hant: 人權
-    zh-hk: 人權
-    zh-tw: 人權
+    zh_cn: 人权
+    zh_hans: 人权
+    zh_hant: 人權
+    zh_hk: 人權
+    zh_tw: 人權
 ---
 # [[Human_Rights]] 
 

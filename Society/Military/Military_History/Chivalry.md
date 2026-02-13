@@ -67,7 +67,7 @@ dv_has_:
     ar: فروسية العصور الوسطى
     ast: Caballería medieval
     az: cəngavərlik
-    be-tarask: рыцарства
+    be_tarask: рыцарства
     bg: Рицарство
     ca: cavalleria medieval
     cs: rytířství
@@ -75,8 +75,8 @@ dv_has_:
     de: Ritterlichkeit
     el: ιπποτισμός
     en: chivalry
-    en-ca: Chivalry
-    en-gb: chivalry
+    en_ca: Chivalry
+    en_gb: chivalry
     eo: kavalireco
     es: caballería medieval
     et: Rüütellikkus
@@ -103,7 +103,7 @@ dv_has_:
     oc: Cavalariá medievala
     pl: Etos rycerski
     pt: cavalaria medieval
-    pt-br: Cavalaria medieval
+    pt_br: Cavalaria medieval
     ru: рыцарство
     sk: Rytierstvo
     sl: viteštvo

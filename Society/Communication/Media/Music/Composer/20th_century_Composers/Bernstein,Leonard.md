@@ -173,7 +173,7 @@ dv_has_:
     ast: Leonard Bernstein
     bar: Leonard Bernstein
     be: Леанард Бернштэйн
-    be-tarask: Леанард Бэрнстайн
+    be_tarask: Леанард Бэрнстайн
     bg: Ленард Бърнстейн
     bm: Leonard Bernstein
     br: Leonard Bernstein
@@ -185,11 +185,11 @@ dv_has_:
     dag: Leonard Bernstein
     de: Leonard Bernstein
     de-at: Leonard Bernstein
-    de-ch: Leonard Bernstein
+    de_ch: Leonard Bernstein
     el: Λέοναρντ Μπερνστάιν
     en: Leonard Bernstein
-    en-ca: Leonard Bernstein
-    en-gb: Leonard Bernstein
+    en_ca: Leonard Bernstein
+    en_gb: Leonard Bernstein
     eo: Leonard Bernstein
     es: Leonard Bernstein
     et: Leonard Bernstein
@@ -236,7 +236,7 @@ dv_has_:
     nap: Leonard Bernstein
     nb: Leonard Bernstein
     nds: Leonard Bernstein
-    nds-nl: Leonard Bernstein
+    nds_nl: Leonard Bernstein
     nl: Leonard Bernstein
     nn: Leonard Bernstein
     nrm: Leonard Bernstein
@@ -248,7 +248,7 @@ dv_has_:
     pms: Leonard Bernstein
     prg: Leonard Bernstein
     pt: Leonard Bernstein
-    pt-br: Leonard Bernstein
+    pt_br: Leonard Bernstein
     qu: Leonard Bernstein
     rgn: Leonard Bernstein
     rm: Leonard Bernstein
@@ -261,7 +261,7 @@ dv_has_:
     sl: Leonard Bernstein
     sq: Leonard Bernstein
     sr: Леонард Бернстајн
-    sr-el: Leonard Bernstein
+    sr_el: Leonard Bernstein
     sv: Leonard Bernstein
     sw: Leonard Bernstein
     th: เลนนาร์ด เบิร์นสไตน์
@@ -280,12 +280,12 @@ dv_has_:
     xmf: ლენარდ ბერნსტაინი
     yue: 里安納·班斯坦
     zh: 伦纳德·伯恩斯坦
-    zh-cn: 伦纳德·伯恩斯坦
-    zh-hans: 伦纳德·伯恩斯坦
-    zh-hant: 倫納德·伯恩斯坦
-    zh-hk: 里安納·班斯坦
-    zh-sg: 伦纳德·伯恩斯坦
-    zh-tw: 倫納德·伯恩斯坦
+    zh_cn: 伦纳德·伯恩斯坦
+    zh_hans: 伦纳德·伯恩斯坦
+    zh_hant: 倫納德·伯恩斯坦
+    zh_hk: 里安納·班斯坦
+    zh_sg: 伦纳德·伯恩斯坦
+    zh_tw: 倫納德·伯恩斯坦
     zu: Leonard Bernstein
 ---
 # [[Bernstein,Leonard]] 

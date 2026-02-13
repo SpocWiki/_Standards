@@ -151,7 +151,7 @@ dv_has_:
     az: Judit Batler
     azb: جودیت باتلر
     ba: Джудит Батлер
-    be-tarask: Джудыт Батлер
+    be_tarask: Джудыт Батлер
     bg: Джудит Бътлър
     bn: জুডিথ বাটলার
     br: Judith Butler
@@ -164,7 +164,7 @@ dv_has_:
     de: Judith Butler
     el: Τζούντιθ Μπάτλερ
     en: Judith Butler
-    en-gb: Judith Butler
+    en_gb: Judith Butler
     eo: Judith Butler
     es: Judith Butler
     et: Judith Butler
@@ -202,7 +202,7 @@ dv_has_:
     mul: Judith Butler
     nb: Judith Butler
     nds: Judith Butler
-    nds-nl: Judith Butler
+    nds_nl: Judith Butler
     nl: Judith Butler
     nn: Judith Butler
     oc: Judith Butler
@@ -212,7 +212,7 @@ dv_has_:
     pms: Judith Butler
     ps: جوډيت بټلر
     pt: Judith Butler
-    pt-br: Judith Butler
+    pt_br: Judith Butler
     ro: Judith Butler
     ru: Джудит Батлер
     sco: Judith Butler
@@ -233,12 +233,12 @@ dv_has_:
     wuu: 朱迪斯·巴特勒
     yue: 朱迪芙·畢拿
     zh: 朱迪丝·巴特勒
-    zh-cn: 朱迪丝·巴特勒
+    zh_cn: 朱迪丝·巴特勒
     zh-hans: 朱迪丝·巴特勒
-    zh-hant: 朱迪斯·巴特勒
-    zh-hk: 朱迪芙·畢拿
-    zh-sg: 朱迪斯·巴特勒
-    zh-tw: 朱迪斯·巴特勒
+    zh_hant: 朱迪斯·巴特勒
+    zh_hk: 朱迪芙·畢拿
+    zh_sg: 朱迪斯·巴特勒
+    zh_tw: 朱迪斯·巴特勒
 ---
 # [[Butler,Judith]] 
 

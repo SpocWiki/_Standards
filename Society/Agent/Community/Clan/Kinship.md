@@ -145,7 +145,7 @@ dv_has_:
     ba: бажа
     ban: dadia
     be: сваяцтва
-    be-tarask: роднасьць
+    be_tarask: роднасьць
     bg: роднинство
     bn: আত্মীয়তা
     br: tud-kaer
@@ -162,8 +162,8 @@ dv_has_:
     el: συγγένεια
     eml: śènder
     en: kinship
-    en-ca: kinship
-    en-gb: kinship
+    en_ca: kinship
+    en_gb: kinship
     en-us: kinship
     eo: parenceco
     es: parentesco
@@ -197,7 +197,7 @@ dv_has_:
     ko: 친족
     ks: رِشتہٕ دٲری
     ku: xizmatî
-    ku-latn: xizmatî
+    ku_latn: xizmatî
     la: cognatio
     lb: Famill
     lmo: parentela
@@ -218,7 +218,7 @@ dv_has_:
     pl: pokrewieństwo
     ps: خپلوي
     pt: parentesco
-    pt-br: parentesco
+    pt_br: parentesco
     ro: rudenie
     ru: родство
     sah: уруу-аймах
@@ -234,8 +234,8 @@ dv_has_:
     sn: hama
     sq: farefisi
     sr: сродство
-    sr-ec: сродство
-    sr-el: srodstvo
+    sr_ec: сродство
+    sr_el: srodstvo
     sv: släktskap
     sw: kitukuu
     ta: உறவினர்
@@ -245,8 +245,8 @@ dv_has_:
     th: ความเป็นญาติ
     tr: akrabalık
     tt: туганлык
-    tt-cyrl: туганлык
-    tt-latn: tuğanlıq
+    tt_cyrl: туганлык
+    tt_latn: tuğanlıq
     tum: Ubale
     uk: родинні зв'язки
     ur: رشتہ داری
@@ -260,12 +260,12 @@ dv_has_:
     yo: mòlẹ́bí
     yue: 親人
     zh: 親屬
-    zh-cn: 亲属
-    zh-hans: 亲属
-    zh-hant: 親屬
-    zh-hk: 親屬
-    zh-sg: 亲属
-    zh-tw: 親屬
+    zh_cn: 亲属
+    zh_hans: 亲属
+    zh_hant: 親屬
+    zh_hk: 親屬
+    zh_sg: 亲属
+    zh_tw: 親屬
 ---
 # [[Kinship]] 
 

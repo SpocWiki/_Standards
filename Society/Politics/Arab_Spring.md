@@ -123,7 +123,7 @@ dv_has_:
     ba: Ғәрәп яҙы
     bar: Arabischa Friahling
     be: Арабская вясна
-    be-tarask: Арабская вясна
+    be_tarask: Арабская вясна
     bg: Арабски протести
     bn: আরব বসন্ত
     br: Nevezamzer Arab
@@ -137,7 +137,7 @@ dv_has_:
     diq: Wesarê Erebi
     el: Αραβική Άνοιξη
     en: Arab Spring
-    en-gb: Arab Spring
+    en_gb: Arab Spring
     eo: Araba printempo
     es: Primavera Árabe
     et: Araabia kevad

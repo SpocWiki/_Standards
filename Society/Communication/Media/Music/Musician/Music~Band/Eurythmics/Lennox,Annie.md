@@ -45,11 +45,11 @@ dv_has_:
     da: Annie Lennox
     dag: Annie Lennox
     de: Annie Lennox
-    de-ch: Annie Lennox
+    de_ch: Annie Lennox
     el: Άνι Λένοξ
     en: Annie Lennox
-    en-ca: Annie Lennox
-    en-gb: Annie Lennox
+    en_ca: Annie Lennox
+    en_gb: Annie Lennox
     en-us: Annie Lennox
     eo: Annie Lennox
     es: Annie Lennox
@@ -86,7 +86,7 @@ dv_has_:
     pl: Annie Lennox
     pms: Annie Lennox
     pt: Annie Lennox
-    pt-br: Annie Lennox
+    pt_br: Annie Lennox
     ro: Annie Lennox
     ru: Энни Леннокс
     sco: Annie Lennox
@@ -94,8 +94,8 @@ dv_has_:
     sl: Annie Lennox
     sq: Annie Lennox
     sr: Ени Ленокс
-    sr-ec: Ени Ленокс
-    sr-el: Eni Lenoks
+    sr_ec: Ени Ленокс
+    sr_el: Eni Lenoks
     sv: Annie Lennox
     th: แอนนี เลนนิกซ์
     tr: Annie Lennox
@@ -106,12 +106,12 @@ dv_has_:
     wuu: 安妮·蓝妮克丝
     yue: Annie Lennox
     zh: 安妮·蓝妮克丝
-    zh-cn: 安妮·蓝妮克丝
-    zh-hans: 安妮·蓝妮克丝
-    zh-hant: 安妮·藍妮克絲
-    zh-hk: 安妮·蓮諾絲
-    zh-sg: 安妮·蓝妮克丝
-    zh-tw: 安妮·藍妮克絲
+    zh_cn: 安妮·蓝妮克丝
+    zh_hans: 安妮·蓝妮克丝
+    zh_hant: 安妮·藍妮克絲
+    zh_hk: 安妮·蓮諾絲
+    zh_sg: 安妮·蓝妮克丝
+    zh_tw: 安妮·藍妮克絲
 ---
 #has_/time_/started :: 1954-12-25  
 

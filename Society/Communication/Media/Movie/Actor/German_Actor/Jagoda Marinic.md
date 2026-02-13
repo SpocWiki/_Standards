@@ -21,7 +21,7 @@ dv_has_:
     nl: Jagoda Marinić
     pl: Jagoda Marinić
     pt: Jagoda Marinić
-    pt-br: Jagoda Marinić
+    pt_br: Jagoda Marinić
     sl: Jagoda Marinić
     sq: Jagoda Marinić
     sv: Jagoda Marinić

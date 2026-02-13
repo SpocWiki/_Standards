@@ -79,7 +79,7 @@ dv_has_:
     av: Ургьимес
     ba: Субпродукттар
     be: субпрадукты
-    be-tarask: вантробы
+    be_tarask: вантробы
     bg: карантия
     ca: menuts
     cs: vnitřnosti
@@ -131,11 +131,11 @@ dv_has_:
     yue: 雜
     zh: 下水
     zh-cn: 下水
-    zh-hans: 下水
-    zh-hant: 下水
-    zh-hk: 下水
-    zh-sg: 下水
-    zh-tw: 下水
+    zh_hans: 下水
+    zh_hant: 下水
+    zh_hk: 下水
+    zh_sg: 下水
+    zh_tw: 下水
 ---
 # [[Offal]] 
 

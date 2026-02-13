@@ -129,7 +129,7 @@ dv_has_:
     ar: حارس مرمى
     ast: Porteru
     be: варатар
-    be-tarask: брамнік
+    be_tarask: брамнік
     bg: вратар
     bjn: Kipar
     br: Diwaller-pal
@@ -143,11 +143,11 @@ dv_has_:
     cy: gôl-geidwad
     da: målmand
     de: Torwart
-    de-ch: Torwart
+    de_ch: Torwart
     el: τερματοφύλακας
     en: goalkeeper
-    en-ca: Goalkeeper
-    en-gb: goalkeeper
+    en_ca: Goalkeeper
+    en_gb: goalkeeper
     eo: golulo
     es: guardameta
     et: väravavaht
@@ -170,11 +170,11 @@ dv_has_:
     ja: ゴールキーパー
     jv: Kiper
     kk: Қақпашы
-    kk-arab: قاقپاشى
+    kk_arab: قاقپاشى
     kk-cn: قاقپاشى
-    kk-cyrl: Қақпашы
+    kk_cyrl: Қақпашы
     kk-kz: Қақпашы
-    kk-latn: Qaqpaşı
+    kk_latn: Qaqpaşı
     kk-tr: Qaqpaşı
     kn: ಗೋಲ್ಕೀಪರ್
     ko: 골키퍼
@@ -186,7 +186,7 @@ dv_has_:
     mk: голман
     mn: Хаалгач (хөлбөмбөг)
     ms: penjaga gol
-    ms-arab: ڤنجاݢ ݢول
+    ms_arab: ڤنجاݢ ݢول
     mt: gowler
     nb: målvakt
     nl: doelverdediger
@@ -194,7 +194,7 @@ dv_has_:
     pa: ਗੋਲਕੀਪਰ
     pl: bramkarz
     pt: guarda-redes
-    pt-br: goleiro
+    pt_br: goleiro
     ro: portar
     ru: вратарь
     sa: 'लक्षय रक्षक:'
@@ -206,8 +206,8 @@ dv_has_:
     sl: vratar
     sq: Portieri
     sr: голман
-    sr-ec: голман
-    sr-el: golman
+    sr_ec: голман
+    sr_el: golman
     sv: målvakt
     sw: Golikipa
     szl: tormōn
@@ -222,12 +222,12 @@ dv_has_:
     wuu: 守门员
     yue: 守門員
     zh: 守門員
-    zh-cn: 守门员
-    zh-hans: 守门员
-    zh-hant: 守門員
-    zh-hk: 守門員
-    zh-sg: 守门员
-    zh-tw: 守門員
+    zh_cn: 守门员
+    zh_hans: 守门员
+    zh_hant: 守門員
+    zh_hk: 守門員
+    zh_sg: 守门员
+    zh_tw: 守門員
 ---
 # [[Goalkeeper]] 
 

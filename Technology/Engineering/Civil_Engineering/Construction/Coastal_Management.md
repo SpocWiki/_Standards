@@ -45,7 +45,7 @@ dv_has_:
   name_:
     ar: إدارة ساحلية
     ast: Xestión costera
-    be-tarask: берагавая ахова
+    be_tarask: берагавая ахова
     ca: gestió de costes
     ckb: ئەندازیاریی لێوارە
     da: kystsikring

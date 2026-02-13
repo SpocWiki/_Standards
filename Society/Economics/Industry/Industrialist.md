@@ -103,7 +103,7 @@ dv_has_:
     ast: industrial
     az: sənayeçi
     be: прамысловец
-    be-tarask: прамысловец
+    be_tarask: прамысловец
     bg: индустриалец
     bn: শিল্পপতি
     ca: industrial
@@ -112,11 +112,11 @@ dv_has_:
     da: industrialist
     de: Industrieller
     de-at: Industrieller
-    de-ch: Industrieller
+    de_ch: Industrieller
     el: βιομήχανος
     en: industrialist
-    en-ca: industrialist
-    en-gb: industrialist
+    en_ca: industrialist
+    en_gb: industrialist
     eo: industriisto
     es: industrial
     et: tööstur
@@ -149,7 +149,7 @@ dv_has_:
     nn: industrieigar
     pl: przemysłowiec
     pt: industrial
-    pt-br: industrial
+    pt_br: industrial
     ro: industriaș
     ru: промышленник
     sl: tovarnar
@@ -157,14 +157,14 @@ dv_has_:
     sv: industriidkare
     tl: industriyalista
     tt: сәнәгатьче
-    tt-cyrl: сәнәгатьче
+    tt_cyrl: сәнәгатьче
     uk: промисловець
     ur: صنعت کار
     vec: industriałe
     vi: nhà công nghiệp
     vo: dustodan
     zh: 工業家
-    zh-tw: 實業家
+    zh_tw: 實業家
 ---
 # [[Industrialist]] 
 

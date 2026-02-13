@@ -57,22 +57,22 @@ dv_has_:
     oc: Labyrinthulomycetes
     pl: Labiryntulorośla
     pt: Labyrinthulomycetes
-    pt-br: Labyrinthulomycetes
+    pt_br: Labyrinthulomycetes
     ro: Labyrinthulomycetes
     ru: лабиринтулы
     sk: Labyrintky
     sl: Labyrinthulomycetes
     sq: Labyrinthulomycetes
     sr: Labyrinthulomycetes
-    sr-ec: Labyrinthulomycetes
-    sr-el: Labyrinthulomycetes
+    sr_ec: Labyrinthulomycetes
+    sr_el: Labyrinthulomycetes
     uk: лабіринтуломікотові
     vi: Labyrinthulomycetes
     vo: Labyrinthulomycetes
     war: Labyrinthulomycetes
     zh: 网黏菌纲
-    zh-cn: 网黏菌纲
-    zh-tw: 網狀黏菌綱
+    zh_cn: 网黏菌纲
+    zh_tw: 網狀黏菌綱
 ---
 # [[Labyrinthulomycetes]] 
 

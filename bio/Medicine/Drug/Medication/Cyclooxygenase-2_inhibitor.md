@@ -51,9 +51,9 @@ dv_has_:
     tr: Koksibler
     uk: коксиби
     zh: COX-2抑制劑
-    zh-cn: COX-2特异性抑制剂
-    zh-hans: COX-2抑制剂
-    zh-hant: COX-2抑制劑
+    zh_cn: COX-2特异性抑制剂
+    zh_hans: COX-2抑制剂
+    zh_hant: COX-2抑制劑
 ---
 ## #has_/text_of_/abstract 
 

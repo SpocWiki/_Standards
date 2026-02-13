@@ -222,7 +222,7 @@ dv_has_:
     azb: قیرمیزی ائو یوخوسو
     ba: Ҡыҙыл бүлмәләге төш
     be: Сон у чырвоным цераме
-    be-tarask: Сон у чырвоным цераме
+    be_tarask: Сон у чырвоным цераме
     bg: Сън в червения павилион
     bn: ড্রিম অব দ্য রেড চেম্বার
     bo: ཁང་ཆེན་དམར་པོའི་རྨི་ལམ།
@@ -239,11 +239,11 @@ dv_has_:
     cy: Breuddwyd y Siambr Goch
     da: Drømmen om det røde værelse
     de: Der Traum der Roten Kammer
-    de-ch: Der Traum der Roten Kammer
+    de_ch: Der Traum der Roten Kammer
     el: Όνειρο της κόκκινης καμάρας
     en: Dream of the Red Chamber
-    en-ca: Dream of the Red Chamber
-    en-gb: Dream of the Red Chamber
+    en_ca: Dream of the Red Chamber
+    en_gb: Dream of the Red Chamber
     eo: Ruĝdoma sonĝo
     es: Sueño en el pabellón rojo
     et: Punase kambri unenägu
@@ -294,7 +294,7 @@ dv_has_:
     pms: Ël seugn ëd la stansia rossa
     pnb: لال کوٹھے دا سفنہ
     pt: O Sonho da Câmara Vermelha
-    pt-br: O Sonho da Câmara Vermelha
+    pt_br: O Sonho da Câmara Vermelha
     ro: Visul din pavilionul roșu
     ru: Сон в красном тереме
     rue: Сон у челленуй палатї
@@ -322,14 +322,14 @@ dv_has_:
     yue: 紅樓夢
     za: Hoengzlaeuzmoengh
     zh: 红楼梦
-    zh-cn: 红楼梦
-    zh-hans: 红楼梦
-    zh-hant: 紅樓夢
-    zh-hk: 紅樓夢
-    zh-mo: 红楼梦
+    zh_cn: 红楼梦
+    zh_hans: 红楼梦
+    zh_hant: 紅樓夢
+    zh_hk: 紅樓夢
+    zh_mo: 红楼梦
     zh-my: 红楼梦
-    zh-sg: 红楼梦
-    zh-tw: 紅樓夢
+    zh_sg: 红楼梦
+    zh_tw: 紅樓夢
 ---
 ## #has_/text_of_/abstract 
 

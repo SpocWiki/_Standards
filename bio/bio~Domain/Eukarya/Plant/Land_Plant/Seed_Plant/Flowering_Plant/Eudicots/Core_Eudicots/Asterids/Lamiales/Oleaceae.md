@@ -139,7 +139,7 @@ dv_has_:
     az: Zeytunkimilər
     azb: زئیتون کیمیلر
     be: Маслінавыя
-    be-tarask: Масьлінавыя
+    be_tarask: Масьлінавыя
     bg: маслинови
     bs: Oleaceae
     ca: oleàcies
@@ -175,16 +175,16 @@ dv_has_:
     jv: Oleaceae
     kab: Tazemrawt
     kk: Зәйтүн тұқымдасы
-    kk-arab: ٴزايتۇن تۇقىمداسى
+    kk_arab: ٴزايتۇن تۇقىمداسى
     kk-cn: ٴزايتۇن تۇقىمداسى
-    kk-cyrl: Зәйтүн тұқымдасы
+    kk_cyrl: Зәйтүн тұқымдасы
     kk-kz: Зәйтүн тұқымдасы
-    kk-latn: Zäýtün tuqımdası
+    kk_latn: Zäýtün tuqımdası
     kk-tr: Zäýtün tuqımdası
     ko: 물푸레나무과
     ku: Famîleya darzeytûnan
-    ku-arab: فامیلەیا دارزەیتوونان
-    ku-latn: Famîleya darzeytûnan
+    ku_arab: فامیلەیا دارزەیتوونان
+    ku_latn: Famîleya darzeytûnan
     la: Oleaceae
     lt: Alyvmediniai
     lv: Olīvaugu dzimta
@@ -201,7 +201,7 @@ dv_has_:
     pl: oliwkowate
     pnb: زیتون ٹبر
     pt: Oleaceae
-    pt-br: Oleaceae
+    pt_br: Oleaceae
     ro: Oleaceae
     ru: Маслиновые
     sco: Oleaceae
@@ -224,12 +224,12 @@ dv_has_:
     wuu: 木樨科
     yue: 木樨科
     zh: 木樨科
-    zh-cn: 木樨科
-    zh-hans: 木樨科
-    zh-hant: 木樨科
-    zh-hk: 木樨科
-    zh-sg: 木樨科
-    zh-tw: 木樨科
+    zh_cn: 木樨科
+    zh_hans: 木樨科
+    zh_hant: 木樨科
+    zh_hk: 木樨科
+    zh_sg: 木樨科
+    zh_tw: 木樨科
 ---
 # [[Oleaceae]] 
 

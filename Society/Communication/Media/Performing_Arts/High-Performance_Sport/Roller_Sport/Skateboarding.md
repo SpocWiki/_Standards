@@ -81,7 +81,7 @@ dv_has_:
     az: Skeytbordinq
     ba: Скейтбординг
     be: скейтбордынг
-    be-tarask: скейтбордынг
+    be_tarask: скейтбордынг
     bg: Скейтбординг
     bho: स्केटबोर्डिंग
     ca: patinatge de monopatí
@@ -91,8 +91,8 @@ dv_has_:
     de: Skateboardfahren
     el: Σκέιτμπορντινγκ
     en: skateboarding
-    en-ca: Skateboarding
-    en-gb: skateboarding
+    en_ca: Skateboarding
+    en_gb: skateboarding
     eo: rultabulado
     es: monopatinaje
     et: rulasõit
@@ -125,7 +125,7 @@ dv_has_:
     nl: skateboarden
     pl: skateboarding
     pt: skate
-    pt-br: skate
+    pt_br: skate
     ro: skateboard
     ru: скейтбординг
     sco: skatebuirdin
@@ -134,8 +134,8 @@ dv_has_:
     sl: rolkanje
     smn: skeittam
     sr: скејтбординг
-    sr-ec: Скејтери
-    sr-el: Skejteri
+    sr_ec: Скејтери
+    sr_el: Skejteri
     sv: skateboard
     th: สเกตบอร์ด
     tr: Kaykay
@@ -144,8 +144,8 @@ dv_has_:
     vi: Trượt ván
     yue: 滑板運動
     zh: 滑板运动
-    zh-hans: 滑板运动
-    zh-hant: 滑板運動
+    zh_hans: 滑板运动
+    zh_hant: 滑板運動
 ---
 # [[Skateboarding]] 
 

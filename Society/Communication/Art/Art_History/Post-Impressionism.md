@@ -90,7 +90,7 @@ dv_has_:
     az: postimpressionizm
     azb: پست-امپرسیونیست
     be: постімпрэсіянізм
-    be-tarask: постімпрэсіянізм
+    be_tarask: постімпрэсіянізм
     bg: постимпресионизъм
     bn: উত্তর-অন্তর্মুদ্রাবাদ
     bs: Postimpresionizam
@@ -123,11 +123,11 @@ dv_has_:
     ja: ポスト印象派
     ka: პოსტიმპრესიონიზმი
     kk: Постимпрессионизм
-    kk-arab: پوستىيمپرەسسىيونىيزم
+    kk_arab: پوستىيمپرەسسىيونىيزم
     kk-cn: پوستىيمپرەسسىيونىيزم
-    kk-cyrl: Постимпрессионизм
+    kk_cyrl: Постимпрессионизм
     kk-kz: Постимпрессионизм
-    kk-latn: Postïmpressïonïzm
+    kk_latn: Postïmpressïonïzm
     kk-tr: Postïmpressïonïzm
     ko: 후기인상주의
     ky: Постимпрессионизм
@@ -158,8 +158,8 @@ dv_has_:
     sms: postimpressionismm
     sq: POSTIMPRESIONIZMI
     sr: постимпресионизам
-    sr-ec: постимпресионизам
-    sr-el: postimpresionizam
+    sr_ec: постимпресионизам
+    sr_el: postimpresionizam
     stq: Post-Impressionismus
     sv: postimpressionism
     ta: பின்-உணர்வுப்பதிவியம்
@@ -172,12 +172,12 @@ dv_has_:
     wuu: 后印象派
     yue: 後印象派
     zh: 后印象派
-    zh-cn: 后印象派
-    zh-hans: 后印象派
-    zh-hant: 後印象派
-    zh-hk: 後印象派
-    zh-sg: 后印象派
-    zh-tw: 後印象派
+    zh_cn: 后印象派
+    zh_hans: 后印象派
+    zh_hant: 後印象派
+    zh_hk: 後印象派
+    zh_sg: 后印象派
+    zh_tw: 後印象派
 ---
 # [[Post-Impressionism]] 
 

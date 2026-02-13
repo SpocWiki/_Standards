@@ -150,7 +150,7 @@ dv_has_:
     azb: مری شلی
     bcl: Mary Shelley
     be: Мэры Шэлі
-    be-tarask: Мэры Шэлі
+    be_tarask: Мэры Шэлі
     bg: Мери Шели
     bn: ম্যারি শেলি
     br: Mary Shelley
@@ -161,11 +161,11 @@ dv_has_:
     cy: Mary Shelley
     da: Mary Shelley
     de: Mary Shelley
-    de-ch: Mary Shelley
+    de_ch: Mary Shelley
     el: Μαίρη Σέλλεϋ
     en: Mary Shelley
-    en-ca: Mary Shelley
-    en-gb: Mary Shelley
+    en_ca: Mary Shelley
+    en_gb: Mary Shelley
     eo: Mary Shelley
     es: Mary Shelley
     et: Mary Shelley
@@ -192,7 +192,7 @@ dv_has_:
     ja: メアリー・シェリー
     ka: მერი შელი
     kk: Мэри Шелли
-    kk-cyrl: Мэри Шелли
+    kk_cyrl: Мэри Шелли
     ko: 메리 셸리
     ku: Mary Shelley
     kw: Mary Shelley
@@ -226,7 +226,7 @@ dv_has_:
     pnb: میری شیلی
     ps: مري شیلي
     pt: Mary Shelley
-    pt-br: Mary Shelley
+    pt_br: Mary Shelley
     ro: Mary Shelley
     ru: Мэри Шелли
     scn: Mary Shelley
@@ -237,7 +237,7 @@ dv_has_:
     smn: Mary Shelley
     sq: Meri Shelli
     sr: Meri Šeli
-    sr-ec: Мери Шели
+    sr_ec: Мери Шели
     sv: Mary Shelley
     ta: மேரி செல்லி
     te: మేరీ షెల్లీ
@@ -252,7 +252,7 @@ dv_has_:
     xmf: მერი შელი
     yue: 瑪莉雪萊
     zh: 玛丽·雪莱
-    zh-hant: 瑪麗·雪萊
+    zh_hant: 瑪麗·雪萊
 ---
 # [[Shelley,Mary]] 
 

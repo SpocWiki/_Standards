@@ -22,8 +22,8 @@ dv_has_:
     da: Tom Scholz
     de: Tom Scholz
     en: Tom Scholz
-    en-ca: Tom Scholz
-    en-gb: Tom Scholz
+    en_ca: Tom Scholz
+    en_gb: Tom Scholz
     es: Tom Scholz
     eu: Tom Scholz
     fa: تام شولتز
@@ -43,7 +43,7 @@ dv_has_:
     pap: Tom Scholz
     pl: Tom Scholz
     pt: Tom Scholz
-    pt-br: Tom Scholz
+    pt_br: Tom Scholz
     ru: Том Шольц
     sl: Tom Scholz
     sq: Tom Scholz

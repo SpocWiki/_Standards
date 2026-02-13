@@ -79,7 +79,7 @@ dv_has_:
     ar: دفية
     az: Litavra
     be: Літаўры
-    be-tarask: літаўры
+    be_tarask: літаўры
     bg: тимпан
     bn: টিম্পানি
     bs: Timpan
@@ -140,12 +140,12 @@ dv_has_:
     wuu: 定音鼓
     yue: 定音鼓
     zh: 定音鼓
-    zh-cn: 定音鼓
-    zh-hans: 定音鼓
-    zh-hant: 定音鼓
-    zh-hk: 定音鼓
-    zh-sg: 定音鼓
-    zh-tw: 定音鼓
+    zh_cn: 定音鼓
+    zh_hans: 定音鼓
+    zh_hant: 定音鼓
+    zh_hk: 定音鼓
+    zh_sg: 定音鼓
+    zh_tw: 定音鼓
 ---
 # [[Timpani]] 
 

@@ -89,17 +89,17 @@ dv_has_:
     arz: جون جاكوب استور
     ast: John Jacob Astor
     az: Con Yakob Astor
-    be-tarask: Джон Джэйкаб Астар
+    be_tarask: Джон Джэйкаб Астар
     bg: Джон Джейкъб Астор
     ca: John Jacob Astor
     cs: John Jacob Astor
     cy: John Jacob Astor I
     da: John Jacob Astor
     de: Johann Jakob Astor
-    de-ch: Johann Jakob Astor
+    de_ch: Johann Jakob Astor
     en: John Jacob Astor I
-    en-ca: John Jacob Astor
-    en-gb: John Jacob Astor
+    en_ca: John Jacob Astor
+    en_gb: John Jacob Astor
     eo: John Jacob Astor
     es: John Jacob Astor
     et: John Jacob Astor
@@ -124,7 +124,7 @@ dv_has_:
     pa: ਜੌਨ ਜੈਕਬ ਐਸਟੋਰ
     pl: John Jacob Astor
     pt: John Jacob Astor
-    pt-br: John Jacob Astor
+    pt_br: John Jacob Astor
     ru: Джон Джейкоб Астор
     sh: John Jacob Astor
     sk: John Jacob Astor

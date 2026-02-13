@@ -134,7 +134,7 @@ dv_has_:
     ast: Les aventures de Tintín
     az: Tintin macəraları
     be: Прыгоды Тэнтэна
-    be-tarask: Прыгоды Тынтына
+    be_tarask: Прыгоды Тынтына
     bg: Приключенията на Тентен
     bn: দুঃসাহসী টিনটিন
     bo: ༄༅།། ཏིན་ཏིན་གྱི་དཔའ་རྩལ།
@@ -189,7 +189,7 @@ dv_has_:
     ms: The Adventures of Tintin
     nan: Tintin ê Mō͘-hiám
     nb: Tintin
-    nds-nl: Tuufke
+    nds_nl: Tuufke
     nl: De avonturen van Kuifje
     nn: Tintin
     pl: Tintin

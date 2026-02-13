@@ -201,7 +201,7 @@ dv_has_:
     ban: Tungstén
     bcl: Wolpramyo
     be: вальфрам
-    be-tarask: вальфрам
+    be_tarask: вальфрам
     bg: волфрам
     bho: टंग्स्टेन
     bn: টাংস্টেন
@@ -220,7 +220,7 @@ dv_has_:
     de: Wolfram
     el: βολφράμιο
     en: tungsten
-    en-gb: tungsten
+    en_gb: tungsten
     eo: volframo
     es: wolframio
     et: volfram
@@ -278,7 +278,7 @@ dv_has_:
     mr: टंग्स्टन
     mrj: Вольфрам
     ms: siamang
-    ms-arab: سيامڠ
+    ms_arab: سيامڠ
     mt: tungstenu
     my: တန်စတင်
     myv: Вольфрам
@@ -301,7 +301,7 @@ dv_has_:
     pnb: ٹنگسٹن
     ps: ټونگسټن
     pt: tungsténio
-    pt-br: tungstênio
+    pt_br: tungstênio
     qu: Wolframyu
     ro: wolfram
     ru: вольфрам
@@ -318,7 +318,7 @@ dv_has_:
     so: Tungsten
     sq: Tungsteni
     sr: волфрам
-    sr-ec: Волфрам
+    sr_ec: Волфрам
     stq: Wolfram
     sv: volfram
     sw: Wolframi
@@ -343,14 +343,14 @@ dv_has_:
     yo: Wolframu
     yue: 鎢
     zh: 鎢
-    zh-cn: 钨
-    zh-hans: 钨
-    zh-hant: 鎢
-    zh-hk: 鎢
-    zh-mo: 鎢
+    zh_cn: 钨
+    zh_hans: 钨
+    zh_hant: 鎢
+    zh_hk: 鎢
+    zh_mo: 鎢
     zh-my: 钨
-    zh-sg: 钨
-    zh-tw: 鎢
+    zh_sg: 钨
+    zh_tw: 鎢
     zu: UmZithowe
   number_of_:
     period: 6

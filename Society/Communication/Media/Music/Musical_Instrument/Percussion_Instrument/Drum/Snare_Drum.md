@@ -71,7 +71,7 @@ dv_has_:
   name_:
     ar: طبل جانبي
     az: Kiçik baraban
-    be-tarask: малы бубен
+    be_tarask: малы бубен
     bg: Малък барабан
     bs: Doboš
     ca: caixa
@@ -81,7 +81,7 @@ dv_has_:
     de: Kleine Trommel
     el: Ταμπούρο
     en: snare drum
-    en-gb: snare drum
+    en_gb: snare drum
     en-us: snare drum
     eo: tambureto
     es: caja
@@ -105,19 +105,19 @@ dv_has_:
     mk: Добош
     ms: dram getar
     nb: skarptromme
-    nds-nl: kleaine tromme
+    nds_nl: kleaine tromme
     nl: kleine trom
     nn: Skarptromme
     pl: Werbel
     pt: caixa
-    pt-br: caixa-de-guerra
+    pt_br: caixa-de-guerra
     ru: малый барабан
     sh: Doboš
     sk: Vírivý bubon
     sl: mali boben
     sr: Doboš
-    sr-ec: Добош
-    sr-el: Doboš
+    sr_ec: Добош
+    sr_el: Doboš
     sv: virveltrumma
     szl: Wyrbel
     th: กลองเล็ก
@@ -128,12 +128,12 @@ dv_has_:
     vi: Trống lẫy
     yue: 沙鼓
     zh: 小鼓
-    zh-cn: 小鼓
-    zh-hans: 小鼓
-    zh-hant: 小鼓
-    zh-hk: 小鼓
-    zh-sg: 小鼓
-    zh-tw: 小鼓
+    zh_cn: 小鼓
+    zh_hans: 小鼓
+    zh_hant: 小鼓
+    zh_hk: 小鼓
+    zh_sg: 小鼓
+    zh_tw: 小鼓
 ---
 # [[Snare_Drum]] 
 

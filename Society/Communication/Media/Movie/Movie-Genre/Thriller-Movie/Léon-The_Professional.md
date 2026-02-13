@@ -18,11 +18,11 @@ dv_has_:
     cy: Léon
     da: Léon
     de: Léon – Der Profi
-    de-ch: Léon – Der Profi
+    de_ch: Léon – Der Profi
     el: 'Léon: The Professional'
     en: 'Léon: The Professional'
-    en-ca: 'Léon: The Professional'
-    en-gb: 'Léon: The Professional'
+    en_ca: 'Léon: The Professional'
+    en_gb: 'Léon: The Professional'
     eo: Léon
     es: Léon
     eu: 'Léon: The Professional'
@@ -51,7 +51,7 @@ dv_has_:
     nl: Léon
     pl: Leon zawodowiec
     pt: Léon
-    pt-br: Léon
+    pt_br: Léon
     ro: Léon
     ru: Леон
     sco: 'Léon: The Professional'
@@ -59,8 +59,8 @@ dv_has_:
     sl: Léon
     sq: 'Léon: The Professional'
     sr: Професионалац
-    sr-ec: Професионалац
-    sr-el: Profesionalac
+    sr_ec: Професионалац
+    sr_el: Profesionalac
     sv: Léon
     tr: 'Leon: Sevginin Gücü'
     uk: Леон
@@ -70,10 +70,10 @@ dv_has_:
     xmf: 'ლეონი: პროფესიონალი'
     yue: 這個殺手不太冷
     zh: 這個殺手不太冷
-    zh-cn: 这个杀手不太冷
-    zh-hans: 这个杀手不太冷
-    zh-hant: 終極追殺令
-    zh-hk: 這個殺手不太冷
+    zh_cn: 这个杀手不太冷
+    zh_hans: 这个杀手不太冷
+    zh_hant: 終極追殺令
+    zh_hk: 這個殺手不太冷
 aliases:
 - El professional
 - Leon

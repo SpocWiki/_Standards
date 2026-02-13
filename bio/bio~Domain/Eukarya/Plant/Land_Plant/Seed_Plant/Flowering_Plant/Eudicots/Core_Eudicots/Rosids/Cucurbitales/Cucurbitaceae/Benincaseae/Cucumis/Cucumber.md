@@ -269,7 +269,7 @@ Common_Procurement_Vocabulary_code: 03221270-9
 dv_has_:
   name_:
     ace: Timon aki
-    aeb-arab: فقوس
+    aeb_arab: فقوس
     af: Komkommer
     am: ኪያር
     an: Cucumis sativus
@@ -285,7 +285,7 @@ dv_has_:
     bar: Gugumma
     bcl: Pepino
     be: агурок пасяўны
-    be-tarask: агурок звычайны
+    be_tarask: агурок звычайны
     bew: Bontèng
     bg: Краставица
     bho: खीरा
@@ -411,7 +411,7 @@ dv_has_:
     pnt: αγγούρ'
     ps: بادرنگ
     pt: Pepino
-    pt-br: Cucumis sativus
+    pt_br: Cucumis sativus
     qu: Kachun
     ro: Castravete
     roa-tara: cetrule
@@ -439,13 +439,13 @@ dv_has_:
     tay: kulibuy
     te: దోసకాయలు
     tg: Бодиринг
-    tg-cyrl: бодиринг
+    tg_cyrl: бодиринг
     th: แตงกวา
     tl: Pipino
     to: Kiukamipā
     tr: salatalık
     tt: гади кыяр
-    tt-cyrl: гади кыяр
+    tt_cyrl: гади кыяр
     tyv: Кыйыр
     udm: Кияр
     ug: تەرخەمەك
@@ -464,10 +464,10 @@ dv_has_:
     yi: אוגערקע
     yue: 黃瓜
     zh: 黄瓜
-    zh-cn: 黄瓜
-    zh-hans: 黄瓜
-    zh-hant: 黄瓜
-    zh-tw: 胡瓜
+    zh_cn: 黄瓜
+    zh_hans: 黄瓜
+    zh_hant: 黄瓜
+    zh_tw: 胡瓜
     zu: ikhukhamba
 ---
 # [[Cucumber]] 🥒 

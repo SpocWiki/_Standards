@@ -96,7 +96,7 @@ dv_has_:
     an: discurso
     ar: خطابة
     az: nitq
-    be-tarask: прамова
+    be_tarask: прамова
     bg: реч
     bn: বক্তৃতা
     ca: discurs

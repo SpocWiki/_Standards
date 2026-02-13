@@ -73,7 +73,7 @@ dv_has_:
     oc: Mimosoideae
     pl: Mimozowate
     pt: Mimosoideae
-    pt-br: Mimosoideae
+    pt_br: Mimosoideae
     qu: Thaqu yura urin rikch'aq ayllu
     ro: Mimosoideae
     ru: Мимозовые
@@ -85,11 +85,11 @@ dv_has_:
     vo: Mimosoideae
     war: Mimosoideae
     zh: 含羞草亚科
-    zh-cn: 含羞草亚科
-    zh-hans: 含羞草亚科
-    zh-hant: 含羞草亞科
-    zh-hk: 含羞草亞科
-    zh-tw: 含羞草亞科
+    zh_cn: 含羞草亚科
+    zh_hans: 含羞草亚科
+    zh_hant: 含羞草亞科
+    zh_hk: 含羞草亞科
+    zh_tw: 含羞草亞科
 ---
 # [[Mimosoideae]] 
 

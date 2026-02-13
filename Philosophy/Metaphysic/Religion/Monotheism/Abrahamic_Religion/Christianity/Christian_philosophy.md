@@ -71,7 +71,7 @@ dv_has_:
     ar: فلسفة مسيحية
     ast: Filosofía cristiana
     az: Xristian fəlsəfəsi
-    be-tarask: хрысьціянская філязофія
+    be_tarask: хрысьціянская філязофія
     bn: খ্রিস্টীয় দর্শন
     ca: filosofia cristiana
     cs: křesťanská filozofie
@@ -115,8 +115,8 @@ dv_has_:
     smn: ristâlâš filosofia
     sms: kriistlaž filofosia
     sr: хришћанска филозофија
-    sr-ec: Хришћанска филозофија
-    sr-el: Hrišćanska filozofija
+    sr_ec: Хришћанска филозофија
+    sr_el: Hrišćanska filozofija
     sv: kristen filosofi
     ta: கிறித்தவ மெய்யியல்
     tr: Hristiyan felsefesi
@@ -125,9 +125,9 @@ dv_has_:
     yue: 基督教哲學
     zgh: ⵜⴰⴼⵍⵙⴰⴼⵜ ⵜⴰⵕⵓⵎⵉⵢⵜ
     zh: 基督教哲学
-    zh-hans: 基督教哲学
-    zh-hant: 基督教哲學
-    zh-hk: 基督教哲學
+    zh_hans: 基督教哲学
+    zh_hant: 基督教哲學
+    zh_hk: 基督教哲學
 ---
 # [[Christian_philosophy]] 
 

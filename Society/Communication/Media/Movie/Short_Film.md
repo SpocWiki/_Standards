@@ -100,7 +100,7 @@ dv_has_:
     ast: curtiumetraxe
     az: qısametrajlı film
     be: кароткаметражны фільм
-    be-tarask: кароткамэтражны фільм
+    be_tarask: кароткамэтражны фільм
     bg: късометражен филм
     bn: স্বল্পদৈর্ঘ্য চলচ্চিত্র
     br: Film berr
@@ -112,11 +112,11 @@ dv_has_:
     da: kortfilm
     dag: sinii ŋmahi
     de: Kurzfilm
-    de-ch: Kurzfilm
+    de_ch: Kurzfilm
     el: ταινία μικρού μήκους
     en: short film
-    en-ca: short film
-    en-gb: short film
+    en_ca: short film
+    en_gb: short film
     eo: mallonga filmo
     es: cortometraje
     et: Lühifilm
@@ -137,7 +137,7 @@ dv_has_:
     ja: 短編映画
     kn: ಕಿರುಚಿತ್ರ
     ko: 단편 영화
-    ku-latn: kurtefîlm
+    ku_latn: kurtefîlm
     la: Pellicula brevis
     lb: Kuerzfilm
     lt: trumpametražis filmas
@@ -155,7 +155,7 @@ dv_has_:
     pa: ਲਘੂ ਫ਼ਿਲਮ
     pl: film krótkometrażowy
     pt: curta-metragem
-    pt-br: Curta-metragem
+    pt_br: Curta-metragem
     ro: film de scurt metraj
     ru: короткометражный фильм
     scn: Curtumitraggiu
@@ -167,8 +167,8 @@ dv_has_:
     sms: vuäʹniǩjieʹllikartt
     sq: Filmi i shkurtër
     sr: краткометражни филм
-    sr-ec: краткометражни филм
-    sr-el: kratkometražni film
+    sr_ec: краткометражни филм
+    sr_el: kratkometražni film
     sv: kortfilm
     ta: குறும்படம்
     tg: филм хурдметража
@@ -176,7 +176,7 @@ dv_has_:
     tl: maikling pelikula
     tr: Kısa film
     tt: кыска метражлы фильм
-    tt-cyrl: кыска метражлы фильм
+    tt_cyrl: кыска метражлы фильм
     uk: короткометражний фільм
     ur: مختصر فلم
     uz: Qisqa hajmli film
@@ -184,7 +184,7 @@ dv_has_:
     wuu: 短篇电影
     yue: 電影短片
     zh: 短片
-    zh-hant: 短片
+    zh_hant: 短片
 ---
 # [[Short_Film]] 
 

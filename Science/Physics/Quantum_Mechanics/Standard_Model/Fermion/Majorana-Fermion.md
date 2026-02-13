@@ -52,7 +52,7 @@ dv_has_:
     nn: Majorana-fermion
     pl: fermion Majorany
     pt: partícula de Majorana
-    pt-br: férmion de Majorana
+    pt_br: férmion de Majorana
     ru: майорановский фермион
     scn: Firmiuni di Majurana
     sk: Majoranovský fermión
@@ -62,9 +62,9 @@ dv_has_:
     vi: fermion Majorana
     wuu: 马约拉纳费米子
     zh: 马约拉纳费米子
-    zh-hans: 马约拉纳费米子
-    zh-hant: 馬約拉納費米子
-    zh-hk: 馬約拉納費米子
+    zh_hans: 马约拉纳费米子
+    zh_hant: 馬約拉納費米子
+    zh_hk: 馬約拉納費米子
 ---
 ## #has_/text_of_/abstract 
 

@@ -161,7 +161,7 @@ dv_has_:
     ban: Osmium
     bcl: Osmyo
     be: Осмій
-    be-tarask: осм
+    be_tarask: осм
     bg: осмий
     bho: ऑस्मियम
     bn: অসমিয়াম
@@ -258,7 +258,7 @@ dv_has_:
     pnb: اوسمیم
     ps: اوسميوم
     pt: ósmio
-    pt-br: ósmio
+    pt_br: ósmio
     qu: Osmiyu
     ro: osmiu
     ru: осмий
@@ -274,7 +274,7 @@ dv_has_:
     so: Osmiyaam
     sq: Osmiumi
     sr: осмијум
-    sr-ec: осмијум
+    sr_ec: осмијум
     stq: Osmium
     su: Osmium
     sv: osmium
@@ -299,11 +299,11 @@ dv_has_:
     yo: Osmium
     yue: 鋨
     zh: 鋨
-    zh-cn: 锇
-    zh-hans: 锇
-    zh-hant: 鋨
-    zh-hk: 鋨
-    zh-tw: 鋨
+    zh_cn: 锇
+    zh_hans: 锇
+    zh_hant: 鋨
+    zh_hk: 鋨
+    zh_tw: 鋨
     zu: UmOsisivu
   number_of_:
     period: 6

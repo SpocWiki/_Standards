@@ -151,7 +151,7 @@ dv_has_:
     bar: Gwicht
     bcl: Gabat
     be: вага
-    be-tarask: вага
+    be_tarask: вага
     bg: Тегло
     bn: ওজন
     bs: težina
@@ -166,7 +166,7 @@ dv_has_:
     de: Gewichtskraft
     el: βάρος
     en: weight
-    en-gb: weight
+    en_gb: weight
     eo: pezo
     es: peso
     et: kaal
@@ -230,7 +230,7 @@ dv_has_:
     pnb: وزن
     ps: وزن
     pt: peso
-    pt-br: peso
+    pt_br: peso
     qu: Llasaq kay
     ro: greutate
     ru: вес
@@ -248,7 +248,7 @@ dv_has_:
     so: Culeys
     sq: Pesha
     sr: тежина
-    sr-ec: тежина
+    sr_ec: тежина
     stq: Gewicht
     su: Beurat
     sv: tyngd
@@ -261,7 +261,7 @@ dv_has_:
     tr: ağırlık
     ts: Ntikelo
     tt: авырлык
-    tt-cyrl: авырлык
+    tt_cyrl: авырлык
     udm: сектала
     uk: вага
     ur: وزن
@@ -273,7 +273,7 @@ dv_has_:
     yi: וואג
     yue: 重量
     zh: 重量
-    zh-hant: 重量
+    zh_hant: 重量
     zu: Ubunzima
 ---
 # [[Weight]] 

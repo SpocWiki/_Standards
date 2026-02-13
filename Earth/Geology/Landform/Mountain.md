@@ -209,7 +209,7 @@ type: Type
 dv_has_:
   name_:
     ace: gunong
-    aeb-arab: جبل
+    aeb_arab: جبل
     af: berg
     am: ተራራ
     an: montanya
@@ -229,7 +229,7 @@ dv_has_:
     bcl: bukid
     bdr: belud
     be: гара
-    be-tarask: гара
+    be_tarask: гара
     bew: gunung
     bg: планина
     bho: पहाड़
@@ -248,7 +248,7 @@ dv_has_:
     co: muntagna
     cr: ᐧᐊᔒ
     crh: dağ
-    crh-latn: dağ
+    crh_latn: dağ
     cs: hora
     csb: górë
     cu: гора
@@ -258,7 +258,7 @@ dv_has_:
     dag: zoli
     de: Berg
     de-at: Berg
-    de-ch: Berg
+    de_ch: Berg
     dga: taŋa
     diq: ko
     dsb: góra
@@ -268,8 +268,8 @@ dv_has_:
     el: βουνό
     eml: muntâgna
     en: mountain
-    en-ca: mountain
-    en-gb: mountain
+    en_ca: mountain
+    en_gb: mountain
     eo: monto
     es: montaña
     et: mägi
@@ -331,7 +331,7 @@ dv_has_:
     ko: 산
     ks: پَہاڑ
     ku: çiya
-    ku-latn: çiya
+    ku_latn: çiya
     kus: zuor
     kw: menydh
     ky: тоо
@@ -359,7 +359,7 @@ dv_has_:
     mni: ꯆꯤꯡꯖꯥꯎ
     mr: पर्वत
     ms: gunung
-    ms-arab: ݢونوڠ
+    ms_arab: ݢونوڠ
     mt: muntanja
     my: တောင်
     myv: пандо
@@ -368,7 +368,7 @@ dv_has_:
     nan: soaⁿ
     nb: fjell
     nds: Barg
-    nds-nl: barg
+    nds_nl: barg
     ne: पहाड
     new: च्वापुगुं
     nl: berg
@@ -393,7 +393,7 @@ dv_has_:
     pnt: ραχίν
     ps: غر
     pt: montanha
-    pt-br: montanha
+    pt_br: montanha
     pwn: gadu
     qu: urqu
     rm: muntogna
@@ -421,7 +421,7 @@ dv_has_:
     so: buur
     sq: mal
     sr: планина
-    sr-ec: планина
+    sr_ec: планина
     ss: intsaba
     st: thaba
     su: gunung
@@ -432,14 +432,14 @@ dv_has_:
     ta: மலை
     te: పర్వతం
     tg: кӯҳ
-    tg-cyrl: кӯҳ
+    tg_cyrl: кӯҳ
     th: ภูเขา
     tk: dag
     tl: bundok
     tok: nena
     tr: dağ
     tt: тау
-    tt-cyrl: тау
+    tt_cyrl: тау
     tum: phiri
     tw: bepɔ
     udm: гурезь
@@ -464,14 +464,14 @@ dv_has_:
     za: bya
     zgh: ⴰⴷⵔⴰⵔ
     zh: 山
-    zh-cn: 山
-    zh-hans: 山
-    zh-hant: 山
-    zh-hk: 山
-    zh-mo: 山
+    zh_cn: 山
+    zh_hans: 山
+    zh_hant: 山
+    zh_hk: 山
+    zh_mo: 山
     zh-my: 山
-    zh-sg: 山
-    zh-tw: 山
+    zh_sg: 山
+    zh_tw: 山
     zu: intaba
   parent_class: '[[../Landform]]'
   properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'

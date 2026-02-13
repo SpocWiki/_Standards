@@ -76,7 +76,7 @@ dv_has_:
     ar: دائرة عظمى
     ast: Gran círculu
     ba: ҙур түңәрәк
-    be-tarask: вялікае кола
+    be_tarask: вялікае кола
     bg: Голяма окръжност
     bn: মহাবৃত্ত
     br: Kelc'h bras
@@ -84,7 +84,7 @@ dv_has_:
     cs: hlavní kružnice
     da: Storcirkel
     de: Großkreis
-    de-ch: Grosskreis
+    de_ch: Grosskreis
     dsb: Wjeliki krejz
     en: great circle
     en-us: great circle
@@ -128,8 +128,8 @@ dv_has_:
     sh: Velika kružnica
     sl: veliki krog
     sr: Велика кружница
-    sr-ec: велика кружница
-    sr-el: velika kružnica
+    sr_ec: велика кружница
+    sr_el: velika kružnica
     sv: storcirkel
     ta: பெரு வட்டம்
     th: เส้นวงกลมใหญ่
@@ -140,12 +140,12 @@ dv_has_:
     wuu: 大圆
     yue: 大圓
     zh: 大圆
-    zh-cn: 大圆
-    zh-hans: 大圆
-    zh-hant: 大圓
-    zh-hk: 大圓
-    zh-sg: 大圆
-    zh-tw: 大圓
+    zh_cn: 大圆
+    zh_hans: 大圆
+    zh_hant: 大圓
+    zh_hk: 大圓
+    zh_sg: 大圆
+    zh_tw: 大圓
 ---
 # [[Great_Circle]] 
 

@@ -68,7 +68,7 @@ dv_has_:
     ar: طبطابة
     ast: raqueta
     ba: ракетка
-    be-tarask: ракетка
+    be_tarask: ракетка
     br: Paliked
     ca: raqueta
     cs: raketa
@@ -76,8 +76,8 @@ dv_has_:
     de: Schläger
     el: ρακέτα
     en: racket
-    en-ca: Racket
-    en-gb: racket
+    en_ca: Racket
+    en_gb: racket
     eo: rakedo
     es: raqueta
     et: Reket
@@ -109,7 +109,7 @@ dv_has_:
     oc: Raqueta
     pl: rakieta
     pt: raquete
-    pt-br: Raquete
+    pt_br: Raquete
     rm: Rachetta
     ro: rachetă
     ru: ракетка
@@ -121,18 +121,18 @@ dv_has_:
     sv: racket
     sw: Raketi
     tg: Ракетка
-    tg-latn: Raketka
+    tg_latn: Raketka
     tr: raket
     uk: ракетка
     vi: vợt
     yue: 波拍
     zh: 球拍
-    zh-cn: 球拍
-    zh-hans: 球拍
-    zh-hant: 球拍
-    zh-hk: 球拍
-    zh-sg: 球拍
-    zh-tw: 球拍
+    zh_cn: 球拍
+    zh_hans: 球拍
+    zh_hant: 球拍
+    zh_hk: 球拍
+    zh_sg: 球拍
+    zh_tw: 球拍
 ---
 # [[Racket(Sports)]]
 

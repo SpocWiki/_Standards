@@ -109,7 +109,7 @@ dv_has_:
     az: Mixail Ulyanov
     ba: Ульянов Михаил Александрович
     be: Міхаіл Аляксандравіч Ульянаў
-    be-tarask: Міхаіл Ульянаў
+    be_tarask: Міхаіл Ульянаў
     bg: Михаил Улянов
     bjn: Mikhail Ulyanov
     bug: Mikhail Ulyanov
@@ -145,7 +145,7 @@ dv_has_:
     jv: Mikhail Ulyanov
     ko: 미하일 울리야노프
     la: Michael Ul'janov
-    map-bms: Mikhail Ulyanov
+    map_bms: Mikhail Ulyanov
     mg: Mikhaïl Oulianov
     min: Mikhail Ulyanov
     mn: Михаил Ульянов
@@ -158,7 +158,7 @@ dv_has_:
     pl: Michaił Uljanow
     pnb: میخائیل اُلیانوف
     pt: Mikhail Ulyanov
-    pt-br: Mikhail Ulyanov
+    pt_br: Mikhail Ulyanov
     ru: Михаил Александрович Ульянов
     sl: Mihail Uljanov
     sq: Mikhail Ulyanov
@@ -169,14 +169,14 @@ dv_has_:
     th: มีฮาอิล อุลยานอฟ
     tr: Mihail Ulyanov
     tt: Михаил Ульянов
-    tt-cyrl: Михаил Ульянов
+    tt_cyrl: Михаил Ульянов
     uk: Михайло Ульянов
     vi: Mikhail Aleksandrovich Ulyanov
     vo: Mihail Ulyanov
     yue: 米哈伊爾烏里揚諾夫
     zh: 米哈伊尔·亚历山德罗维奇·乌里扬诺夫
-    zh-cn: 米哈伊尔·亚历山德罗维奇·乌里扬诺夫
-    zh-hans: 米哈伊尔·亚历山德罗维奇·乌里扬诺夫
+    zh_cn: 米哈伊尔·亚历山德罗维奇·乌里扬诺夫
+    zh_hans: 米哈伊尔·亚历山德罗维奇·乌里扬诺夫
 ---
 # [[Ulyanov,Mikhail]] 
 

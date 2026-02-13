@@ -103,7 +103,7 @@ dv_has_:
     az: Üçbucaq
     ba: Өсмөйөш
     be: Трыкутнік
-    be-tarask: Трыкутнік
+    be_tarask: Трыкутнік
     bg: Триъгълник
     bn: ত্রিকোণ মণ্ডল
     bo: ཟུར་གསུམ་སྐར་ཚོམ་
@@ -186,8 +186,8 @@ dv_has_:
     wuu: 三角座
     yue: 三角座
     zh: 三角座
-    zh-hans: 三角座
-    zh-hant: 三角座
+    zh_hans: 三角座
+    zh_hant: 三角座
 dv_is_:
   same_as:
   - '[[../../WikiData/WD~Triangulum,10565|WD~Triangulum,10565]]'

@@ -73,11 +73,11 @@ dv_has_:
     ckb: کۆنگرەی گشتی لەسەر کێش و پێوانەکان
     cs: Generální konference pro míry a váhy
     de: Generalkonferenz für Maß und Gewicht
-    de-ch: Generalkonferenz für Mass und Gewicht
+    de_ch: Generalkonferenz für Mass und Gewicht
     el: Γενική Διάσκεψη Μέτρων και Σταθμών
     en: General Conference on Weights and Measure
-    en-ca: General Conference on Weights and Measures
-    en-gb: General Conference on Weights and Measures
+    en_ca: General Conference on Weights and Measures
+    en_gb: General Conference on Weights and Measures
     eo: Konferenco Ĝenerala pri Pezoj kaj Mezuroj
     es: Conferencia General de Pesas y Medidas
     et: Vihtide ja Mõõtude Peakonverents
@@ -103,25 +103,25 @@ dv_has_:
     oc: Conferéncia Generau deus Pes e Mesuras
     pl: Generalna Konferencja Miar
     pt: Conferência Geral de Pesos e Medidas
-    pt-br: Conferência Geral de Pesos e Medidas
+    pt_br: Conferência Geral de Pesos e Medidas
     ru: Генеральные конференции по мерам и весам
     rue: Генерална конференция на мѣры и вагы
     sh: Generalna konferencija težina i mera
     sl: Generalna konferenca za uteži in mere
     sr: Генерална конференција за тегове и мере
-    sr-ec: Генерална конференција за тегове и мере
-    sr-el: Generalna konferencija za tegove i mere
+    sr_ec: Генерална конференција за тегове и мере
+    sr_el: Generalna konferencija za tegove i mere
     sv: CGPM
     th: ที่ประชุมใหญ่ว่าด้วยการชั่งตวงวัด
     uk: Генеральна конференція мір і ваг
     vi: Hội nghị toàn thể về Cân đo
     zh: 國際度量衡大會
-    zh-cn: 国际度量衡大会
-    zh-hans: 国际度量衡大会
-    zh-hant: 國際度量衡大會
-    zh-hk: 國際度量衡大會
-    zh-sg: 国际度量衡大会
-    zh-tw: 國際度量衡大會
+    zh_cn: 国际度量衡大会
+    zh_hans: 国际度量衡大会
+    zh_hant: 國際度量衡大會
+    zh_hk: 國際度量衡大會
+    zh_sg: 国际度量衡大会
+    zh_tw: 國際度量衡大會
 ---
 # [[CGPM(General_Conference_on_Weights_and_Measures)]] 
 

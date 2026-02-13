@@ -544,7 +544,7 @@ dv_has_:
     ace: Èkuador
     acm: الاكوادور
     ady: Экуадор
-    aeb-arab: الإكوادور
+    aeb_arab: الإكوادور
     af: Ecuador
     am: ኤኳዶር
     ami: Ecuador
@@ -566,7 +566,7 @@ dv_has_:
     bbc: Ekuador
     bcl: Ekwador
     be: Эквадор
-    be-tarask: Эквадор
+    be_tarask: Эквадор
     bew: Èkuador
     bg: Еквадор
     bho: इक्वेडोर
@@ -579,7 +579,7 @@ dv_has_:
     bs: Ekvador
     bxr: Эквадор
     ca: Equador
-    cbk-zam: Ecuador
+    cbk_zam: Ecuador
     cdo: Ecuador
     ce: Эквадор
     ceb: Ekwador
@@ -588,7 +588,7 @@ dv_has_:
     ckb: ئێکوادۆر
     co: Ecuador
     crh: Ekvador
-    crh-latn: Ekvador
+    crh_latn: Ekvador
     cs: Ekvádor
     csb: Ekwador
     cv: Эквадор
@@ -597,7 +597,7 @@ dv_has_:
     dag: ECU
     de: Ecuador
     de-at: Ecuador
-    de-ch: Ecuador
+    de_ch: Ecuador
     diq: Ekwador
     dsb: Ekuador
     dty: इक्वेडर
@@ -606,8 +606,8 @@ dv_has_:
     ee: Ecuador
     el: Ισημερινός
     en: Ecuador
-    en-ca: Ecuador
-    en-gb: Ecuador
+    en_ca: Ecuador
+    en_gb: Ecuador
     en-us: Ecuador
     eo: Ekvadoro
     es: Ecuador
@@ -633,7 +633,7 @@ dv_has_:
     gn: Ekuator
     gom: इक्वाडोर
     gom-deva: एक्वादोर
-    gom-latn: Ecuador
+    gom_latn: Ecuador
     got: "\U00010334\U0001033A\U00010345\U00010330\U00010333\U00010330\U0001033F\U00010342"
     gpe: Ecuador
     gsw: Ecuador
@@ -699,7 +699,7 @@ dv_has_:
     lv: Ekvadora
     lzh: 厄瓜多
     mad: Ekuador
-    map-bms: Ekuador
+    map_bms: Ekuador
     mdf: Эквадор
     mg: Ekoadôra
     mhr: Эквадор
@@ -721,7 +721,7 @@ dv_has_:
     nan: Chhiah-tō Kiōng-hô-kok
     nb: Ecuador
     nds: Ecuador
-    nds-nl: Ecuador
+    nds_nl: Ecuador
     ne: इक्वेडोर
     new: इक्वेडोर
     nl: Ecuador
@@ -775,8 +775,8 @@ dv_has_:
     so: Ikwadoor
     sq: Ekuadori
     sr: Еквадор
-    sr-ec: Еквадор
-    sr-el: Ekvador
+    sr_ec: Еквадор
+    sr_el: Ekvador
     st: Ecuador
     stq: Ecuador
     su: Ékuador
@@ -826,14 +826,14 @@ dv_has_:
     zea: Ecuador
     zgh: ⵉⴽⵡⴰⴷⵓⵔ
     zh: 厄瓜多尔
-    zh-cn: 厄瓜多尔
-    zh-hans: 厄瓜多尔
-    zh-hant: 厄瓜多爾
-    zh-hk: 厄瓜多爾
-    zh-mo: 厄瓜多爾
+    zh_cn: 厄瓜多尔
+    zh_hans: 厄瓜多尔
+    zh_hant: 厄瓜多爾
+    zh_hk: 厄瓜多爾
+    zh_mo: 厄瓜多爾
     zh-my: 厄瓜多尔
-    zh-sg: 厄瓜多尔
-    zh-tw: 厄瓜多
+    zh_sg: 厄瓜多尔
+    zh_tw: 厄瓜多
     zu: i-Ecuador
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Ecuador

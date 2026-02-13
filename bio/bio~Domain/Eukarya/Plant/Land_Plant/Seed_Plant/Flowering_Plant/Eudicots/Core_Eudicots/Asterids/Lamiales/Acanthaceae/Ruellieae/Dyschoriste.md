@@ -37,7 +37,7 @@ dv_has_:
     oc: Dyschoriste
     pl: Dyschoriste
     pt: Dyschoriste
-    pt-br: Dyschoriste
+    pt_br: Dyschoriste
     ro: Dyschoriste
     ru: Dyschoriste
     sq: Dyschoriste
@@ -49,8 +49,8 @@ dv_has_:
     vo: Dyschoriste
     war: Dyschoriste
     zh: 距药蓝属
-    zh-cn: 距药蓝属
-    zh-hans: 距药蓝属
+    zh_cn: 距药蓝属
+    zh_hans: 距药蓝属
 ---
 # [[Dyschoriste]] 
 

@@ -77,7 +77,7 @@ dv_has_:
     ar: فلسفة الرياضيات
     az: Riyaziyyat fəlsəfəsi
     be: філасофія матэматыкі
-    be-tarask: філязофія матэматыкі
+    be_tarask: філязофія матэматыкі
     bg: Философия на математиката
     bho: गणित कर दर्शन
     bn: গণিতের দর্শন
@@ -123,7 +123,7 @@ dv_has_:
     pl: Filozofia matematyki
     pms: Filosofìa dla matemàtica
     pt: filosofia da matemática
-    pt-br: filosofia da matemática
+    pt_br: filosofia da matemática
     ro: filozofia matematicii
     ru: философия математики
     sco: filosofie o mathematics

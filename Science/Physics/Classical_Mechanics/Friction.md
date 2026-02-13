@@ -116,7 +116,7 @@ dv_has_:
     ast: resfregón
     az: sürtünmə
     be: сіла трэння
-    be-tarask: церце
+    be_tarask: церце
     bg: триене
     bn: ঘর্ষণ
     bs: trenje
@@ -129,8 +129,8 @@ dv_has_:
     de: Reibung
     el: τριβή
     en: friction
-    en-ca: friction
-    en-gb: friction
+    en_ca: friction
+    en_gb: friction
     eo: frotado
     es: fricción
     et: hõõrdumine
@@ -176,7 +176,7 @@ dv_has_:
     pa: ਰਗੜ
     pl: tarcie
     pt: atrito
-    pt-br: atrito
+    pt_br: atrito
     qu: qhaquy
     ro: frecare
     ru: трение
@@ -199,7 +199,7 @@ dv_has_:
     tl: kiskisan
     tr: sürtünme kuvveti
     tt: ышкылу
-    tt-cyrl: ышкылу
+    tt_cyrl: ышкылу
     udm: зыраськон кужым
     uk: тертя
     ur: رگڑ
@@ -208,8 +208,8 @@ dv_has_:
     wuu: 摩擦力
     yue: 摩擦力
     zh: 摩擦力
-    zh-hans: 摩擦力
-    zh-hk: 摩擦力
+    zh_hans: 摩擦力
+    zh_hk: 摩擦力
 ---
 # [[Friction]] 
 

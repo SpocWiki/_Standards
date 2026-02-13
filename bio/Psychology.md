@@ -263,7 +263,7 @@ dv_has_:
     bar: Psychologie
     bcl: sikolohiya
     be: псіхалогія
-    be-tarask: псыхалёгія
+    be_tarask: псыхалёгія
     bg: психология
     bho: मनोबिज्ञान
     bn: মনোবিজ্ঞান
@@ -285,14 +285,14 @@ dv_has_:
     cy: seicoleg
     da: psykologi
     de: Psychologie
-    de-ch: Psychologie
+    de_ch: Psychologie
     din: piööcëkuɛ̈nnhom
     diq: psikolociye
     dtp: Psikologi
     el: ψυχολογία
     en: psychology
-    en-ca: psychology
-    en-gb: psychology
+    en_ca: psychology
+    en_gb: psychology
     en-us: psychology
     eo: psikologio
     es: psicología
@@ -378,7 +378,7 @@ dv_has_:
     mnw: ပညာစိုတ်
     mr: मानसशास्त्र
     ms: psikologi
-    ms-arab: ڤسيکولوݢي
+    ms_arab: ڤسيکولوݢي
     mt: psikoloġija
     mwl: psicologie
     my: စိတ်ပညာ
@@ -387,7 +387,7 @@ dv_has_:
     nap: psicologgia
     nb: psykologi
     nds: Psychologie
-    nds-nl: psychologie
+    nds_nl: psychologie
     ne: मनोविज्ञान
     new: साइकोलोजी
     nl: psychologie
@@ -408,7 +408,7 @@ dv_has_:
     pnb: نفسیات
     ps: ساپوهنه
     pt: psicologia
-    pt-br: psicologia
+    pt_br: psicologia
     qu: nuna yachay
     rki: စိတ်ပညာ
     rm: psicologia
@@ -437,7 +437,7 @@ dv_has_:
     so: cilminafsi
     sq: psikologji
     sr: психологија
-    sr-ec: психологијa
+    sr_ec: психологијa
     st: saekholoji
     stq: Psychologie
     su: psikologi
@@ -448,7 +448,7 @@ dv_has_:
     te: మానసిక శాస్త్రము
     tet: psikolojia
     tg: равоншиносӣ
-    tg-cyrl: равоншиносӣ
+    tg_cyrl: равоншиносӣ
     th: จิตวิทยา
     tl: sikolohiya
     tok: sona pi lawa jan
@@ -475,14 +475,14 @@ dv_has_:
     zea: psyholohie
     zgh: ⵜⴰⵙⵏⵉⵎⴰⵏⵜ
     zh: 心理學
-    zh-cn: 心理学
-    zh-hans: 心理学
-    zh-hant: 心理學
-    zh-hk: 心理學
-    zh-mo: 心理學
+    zh_cn: 心理学
+    zh_hans: 心理学
+    zh_hant: 心理學
+    zh_hk: 心理學
+    zh_mo: 心理學
     zh-my: 心理学
-    zh-sg: 心理学
-    zh-tw: 心理學
+    zh_sg: 心理学
+    zh_tw: 心理學
 ---
 # [[Psychology]]
 

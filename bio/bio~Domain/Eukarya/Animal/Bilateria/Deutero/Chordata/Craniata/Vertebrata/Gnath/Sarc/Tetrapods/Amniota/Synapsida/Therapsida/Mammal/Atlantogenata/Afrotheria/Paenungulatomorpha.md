@@ -31,7 +31,7 @@ dv_has_:
     oc: Paenungulatomorpha
     pl: Paenungulatomorpha
     pt: Paenungulatomorpha
-    pt-br: Paenungulatomorpha
+    pt_br: Paenungulatomorpha
     sl: Paenungulatomorpha
     uk: Paenungulatomorpha
     vo: Paenungulatomorpha

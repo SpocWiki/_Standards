@@ -5,7 +5,7 @@ dv_has_:
     ace: Andorra
     acm: اندورا
     ady: Андоррэ
-    aeb-arab: أندورا
+    aeb_arab: أندورا
     af: Andorra
     am: አንዶራ
     ami: Andorra
@@ -27,7 +27,7 @@ dv_has_:
     bar: Andorra
     bcl: Andora
     be: Андора
-    be-tarask: Андора
+    be_tarask: Андора
     bew: Andora
     bg: Андора
     bgn: اندورا
@@ -41,7 +41,7 @@ dv_has_:
     bs: Andora
     bxr: Андорра
     ca: Andorra
-    cbk-zam: Andorra
+    cbk_zam: Andorra
     cdo: Ăng-dô̤-ī
     ce: Андорра
     ceb: Andorra
@@ -50,7 +50,7 @@ dv_has_:
     ckb: ئەندۆرا
     co: Andorra
     crh: Andorra
-    crh-latn: Andorra
+    crh_latn: Andorra
     cs: Andorra
     csb: Andorra
     cu: Андора
@@ -60,7 +60,7 @@ dv_has_:
     dag: Andora
     de: Andorra
     de-at: Andorra
-    de-ch: Andorra
+    de_ch: Andorra
     diq: Andorra
     dsb: Andorra
     dty: एण्डोरा
@@ -70,8 +70,8 @@ dv_has_:
     el: Ανδόρρα
     eml: Andòra
     en: Andorra
-    en-ca: Andorra
-    en-gb: Andorra
+    en_ca: Andorra
+    en_gb: Andorra
     en-us: Andorra
     eo: Andoro
     es: Andorra
@@ -96,7 +96,7 @@ dv_has_:
     gn: Andorra
     gom: अँडोरा
     gom-deva: अँडोरा
-    gom-latn: Andorra
+    gom_latn: Andorra
     got: "\U00010330\U0001033D\U00010333\U00010330\U0001033F\U00010342\U00010330"
     gpe: Andorra
     gsw: Andorra
@@ -167,7 +167,7 @@ dv_has_:
     lzh: 安道爾
     mad: Andorra
     mai: अंडोरा
-    map-bms: Andorra
+    map_bms: Andorra
     mdf: Андора
     mg: Andora
     mhr: Андорра
@@ -191,7 +191,7 @@ dv_has_:
     nap: Andorra
     nb: Andorra
     nds: Andorra
-    nds-nl: Andorra
+    nds_nl: Andorra
     ne: एन्डोरा
     new: एण्डोरा
     nl: Andorra
@@ -218,7 +218,7 @@ dv_has_:
     pnt: Ανδόρρα
     ps: اندورا
     pt: Andorra
-    pt-br: Andorra
+    pt_br: Andorra
     qu: Andurra
     rm: Andorra
     rmy: Andorra
@@ -251,8 +251,8 @@ dv_has_:
     so: Andorra
     sq: Andorra
     sr: Андора
-    sr-ec: Андора
-    sr-el: Andora
+    sr_ec: Андора
+    sr_el: Andora
     srn: Andorrakondre
     ss: IYandola
     stq: Andorra
@@ -304,14 +304,14 @@ dv_has_:
     zea: Andorra
     zgh: ⴰⵏⴷⵓⵔⴰ
     zh: 安道尔
-    zh-cn: 安道尔
-    zh-hans: 安道尔
-    zh-hant: 安道爾
-    zh-hk: 安道爾
-    zh-mo: 安道爾
+    zh_cn: 安道尔
+    zh_hans: 安道尔
+    zh_hant: 安道爾
+    zh_hk: 安道爾
+    zh_mo: 安道爾
     zh-my: 安道尔
-    zh-sg: 安道尔
-    zh-tw: 安道爾
+    zh_sg: 安道尔
+    zh_tw: 安道爾
     zu: I-Andora
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Andorra

@@ -111,7 +111,7 @@ dv_has_:
     ast: Opiu
     az: Tiryək
     be: опіум
-    be-tarask: опіюм
+    be_tarask: опіюм
     bg: Опиум
     blk: ယာ
     bn: আফিম
@@ -200,8 +200,8 @@ dv_has_:
     xmf: ოპიუმი
     yue: 鴉片
     zh: 鸦片
-    zh-hans: 鸦片
-    zh-hant: 鴉片
+    zh_hans: 鸦片
+    zh_hant: 鴉片
 ---
 # [[Opium]] 
 

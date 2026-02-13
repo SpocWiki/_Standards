@@ -166,7 +166,7 @@ dv_has_:
     azb: ایکس ایشیقی
     ban: Sunar-X
     be: Рэнтгенаўскае выпраменьванне
-    be-tarask: рэнтгенаўскае выпраменьваньне
+    be_tarask: рэнтгенаўскае выпраменьваньне
     bg: Рентгеново лъчение
     bn: রঞ্জন রশ্মি
     br: skinoù X
@@ -230,7 +230,7 @@ dv_has_:
     ml: എക്സ് കിരണം
     mr: क्ष-किरण
     ms: sinar-X
-    ms-arab: سينر-ايکس
+    ms_arab: سينر-ايکس
     mt: Raġġ-X
     my: အိတ်ဇ်ရေး
     mzn: ایکس ری
@@ -286,14 +286,14 @@ dv_has_:
     yue: X光
     za: Rongh X
     zh: X射线
-    zh-cn: X射线
-    zh-hans: X射线
-    zh-hant: X射線
-    zh-hk: X光
-    zh-mo: X射线
+    zh_cn: X射线
+    zh_hans: X射线
+    zh_hant: X射線
+    zh_hk: X光
+    zh_mo: X射线
     zh-my: X射线
-    zh-sg: X射线
-    zh-tw: X射線
+    zh_sg: X射线
+    zh_tw: X射線
 ---
 # [[X-Ray]] 
 

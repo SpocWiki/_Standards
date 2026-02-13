@@ -204,7 +204,7 @@ Krugosvet_article_archived_: nauka_i_tehnika/biologiya/VOLOSI.html
 TA98_Latin_term: pili
 dv_has_:
   name_:
-    aeb-arab: شعر
+    aeb_arab: شعر
     af: haar
     ak: enwii
     am: ፀጉር
@@ -223,7 +223,7 @@ dv_has_:
     ban: rambut
     bcl: buhok
     be: валасы
-    be-tarask: валасы
+    be_tarask: валасы
     bew: rambut
     bg: коса
     bn: চুল
@@ -308,7 +308,7 @@ dv_has_:
     mos: zoobdo
     mr: केस
     ms: bulu
-    ms-arab: بولو
+    ms_arab: بولو
     my: ဆံပင်
     myv: черть
     mzn: می
@@ -332,7 +332,7 @@ dv_has_:
     pnb: وال
     ps: ويښته
     pt: cabelo
-    pt-br: cabelo
+    pt_br: cabelo
     pwn: quvalj
     qu: chukcha
     ro: păr
@@ -352,8 +352,8 @@ dv_has_:
     so: tin
     sq: Floku
     sr: коса
-    sr-ec: коса
-    sr-el: kosa
+    sr_ec: коса
+    sr_el: kosa
     su: buuk
     sv: hår
     sw: nywele
@@ -364,7 +364,7 @@ dv_has_:
     tl: buhok
     tr: saç
     tt: чәч
-    tt-cyrl: чәч
+    tt_cyrl: чәч
     tum: sisi
     tyv: чаъш
     udm: йырси
@@ -385,8 +385,8 @@ dv_has_:
     yue: 毛
     za: bwn
     zh: 毛髮
-    zh-hans: 毛发
-    zh-hant: 毛髮
+    zh_hans: 毛发
+    zh_hant: 毛髮
     zu: izinwele
 ---
 # [[Hair]] 

@@ -120,7 +120,7 @@ dv_has_:
     arz: حمام
     ast: Cuartu de bañu
     ban: Kayehan
-    be-tarask: ванны пакой
+    be_tarask: ванны пакой
     bew: Pekiwan
     bg: баня
     bn: স্নানাগার
@@ -133,12 +133,12 @@ dv_has_:
     da: badeværelse
     dag: shishaɣu
     de: Badezimmer
-    de-ch: Badezimmer
+    de_ch: Badezimmer
     dsb: kupadło
     el: Μπάνιο
     en: bathroom
-    en-ca: Bathroom
-    en-gb: bathroom
+    en_ca: Bathroom
+    en_gb: bathroom
     en-us: bathroom
     eo: banĉambro
     es: cuarto de baño
@@ -188,7 +188,7 @@ dv_has_:
     pa: ਗੁਸਲਖਾਨਾ
     pl: łazienka
     pt: casa de banho
-    pt-br: banheiro
+    pt_br: banheiro
     ro: Baie
     ru: ванная комната
     sco: bathroom
@@ -215,12 +215,12 @@ dv_has_:
     wuu: 浴室
     yue: 沖涼房
     zh: 浴室
-    zh-cn: 浴室
-    zh-hans: 浴室
-    zh-hant: 浴室
-    zh-hk: 浴室
-    zh-sg: 浴室
-    zh-tw: 浴室
+    zh_cn: 浴室
+    zh_hans: 浴室
+    zh_hant: 浴室
+    zh_hk: 浴室
+    zh_sg: 浴室
+    zh_tw: 浴室
 ---
 # [[Bathroom]] 
 

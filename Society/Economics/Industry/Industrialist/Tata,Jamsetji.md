@@ -81,7 +81,7 @@ dv_has_:
     ast: Jamsetji Tata
     az: Cəmşidci Tata
     ba: Джамшеджи Тата
-    be-tarask: Джамшэджы Тата
+    be_tarask: Джамшэджы Тата
     bg: Джамшетджи Тата
     bn: জামসেদজি টাটা
     ca: Jamsetji Tata
@@ -121,7 +121,7 @@ dv_has_:
     pl: Jamsetji Nusserwanji Tata
     pnb: جمسیٹ جی ٹاٹا
     pt: Jamsetji Tata
-    pt-br: Jamsetji Tata
+    pt_br: Jamsetji Tata
     ro: Jamsetji Tata
     ru: Джамшеджи Тата
     sa: जमशेतजी टाटा
@@ -140,12 +140,12 @@ dv_has_:
     war: Jamsetji Tata
     yue: 賈姆希德吉·塔塔
     zh: 贾姆希德吉·塔塔
-    zh-cn: 贾姆希德吉·塔塔
-    zh-hans: 贾姆希德吉·塔塔
-    zh-hant: 賈姆希德吉·塔塔
-    zh-hk: 賈姆希德吉·塔塔
-    zh-sg: 贾姆希德吉·塔塔
-    zh-tw: 賈姆希德吉·塔塔
+    zh_cn: 贾姆希德吉·塔塔
+    zh_hans: 贾姆希德吉·塔塔
+    zh_hant: 賈姆希德吉·塔塔
+    zh_hk: 賈姆希德吉·塔塔
+    zh_sg: 贾姆希德吉·塔塔
+    zh_tw: 賈姆希德吉·塔塔
 ---
 # [[Tata,Jamsetji]] 
 

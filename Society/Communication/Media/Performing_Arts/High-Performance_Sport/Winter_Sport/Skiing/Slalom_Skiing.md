@@ -39,7 +39,7 @@ dv_has_:
     ar: التزحلف المتعرج
     ba: слалом
     be: слалам
-    be-tarask: слалам
+    be_tarask: слалам
     bs: Slalom
     ca: eslàlom
     cs: slalom
@@ -83,7 +83,7 @@ dv_has_:
     uz: Slalom
     yue: 迴轉滑雪
     zh: 小回转
-    zh-hant: 迴轉
+    zh_hant: 迴轉
 ---
 # [[Slalom_Skiing]] 
 

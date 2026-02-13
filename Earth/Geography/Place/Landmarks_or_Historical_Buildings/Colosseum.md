@@ -226,7 +226,7 @@ dv_has_:
     bar: Colosseum
     bcl: Colosseum
     be: Калізей
-    be-tarask: Калізэй
+    be_tarask: Калізэй
     bg: Колизей
     bho: कोलोसियम
     bn: কলোসিয়াম
@@ -241,13 +241,13 @@ dv_has_:
     cy: Colosseum
     da: Colosseum
     de: Kolosseum
-    de-ch: Kolosseum
+    de_ch: Kolosseum
     diq: Kolezyum
     el: Κολοσσαίο
     eml: Colosseo
     en: Colosseum
-    en-ca: Colosseum
-    en-gb: Colosseum
+    en_ca: Colosseum
+    en_gb: Colosseum
     eo: Koloseo
     es: Coliseo
     et: Colosseum
@@ -317,7 +317,7 @@ dv_has_:
     pms: Colossé
     pnb: کولوزیئم
     pt: Coliseu de Roma
-    pt-br: Coliseu de Roma
+    pt_br: Coliseu de Roma
     qu: Colosseum
     ro: Colosseum
     ru: Колизей
@@ -357,7 +357,7 @@ dv_has_:
     yue: 鬥獸場
     zea: Colosseum
     zh: 罗马斗兽场
-    zh-hans: 罗马斗兽场
+    zh_hans: 罗马斗兽场
 ---
 # [[Colosseum]] 
 

@@ -67,7 +67,7 @@ dv_has_:
     ast: agricultura intensiva
     az: İntensiv kənd təsərrüfatı
     be: Інтэнсіўная сельская гаспадарка
-    be-tarask: інтэнсіўная сельская гаспадарка
+    be_tarask: інтэнсіўная сельская гаспадарка
     bn: নিবিড় কৃষি
     ca: agricultura intensiva
     ckb: کشتوکاڵی چڕ
@@ -76,8 +76,8 @@ dv_has_:
     de: intensive Landwirtschaft
     el: Εντατική καλλιέργεια
     en: intensive farming
-    en-ca: Intensive farming
-    en-gb: intensive farming
+    en_ca: Intensive farming
+    en_gb: intensive farming
     eo: Intensa agrikulturo
     es: agricultura intensiva
     et: Intensiivpõllundus
@@ -104,7 +104,7 @@ dv_has_:
     pa: ਉਦਯੋਗਿਕ ਖੇਤੀਬਾੜੀ
     pl: Rolnictwo intensywne
     pt: agricultura intensiva
-    pt-br: Agricultura intensiva
+    pt_br: Agricultura intensiva
     ro: agricultură intensivă
     ru: интенсивное сельское хозяйство
     rw: UBUHINZI BW'IMBITSE
@@ -120,10 +120,10 @@ dv_has_:
     wuu: 精耕细作
     yue: 集約式農業
     zh: 集约农业
-    zh-hans: 精耕细作
-    zh-hant: 精耕細作
-    zh-hk: 精耕細作
-    zh-tw: 集約農業
+    zh_hans: 精耕细作
+    zh_hant: 精耕細作
+    zh_hk: 精耕細作
+    zh_tw: 集約農業
 ---
 # [[Intensive_Farming]] 
 

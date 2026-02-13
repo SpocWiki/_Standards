@@ -224,7 +224,7 @@ distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Yiddish.png
 described_at_URL: https://www.oxfordbibliographies.com/display/document/obo-9780199772810/obo-9780199772810-0235.xml
 dv_has_:
   name_:
-    aeb-arab: اليديشي
+    aeb_arab: اليديشي
     af: Jiddisj
     am: ዪዲሽኛ
     an: Yídix
@@ -236,7 +236,7 @@ dv_has_:
     bar: Jiddisch
     bcl: Tataramon na Yidis
     be: ідыш
-    be-tarask: ідыш
+    be_tarask: ідыш
     bg: идиш
     bjn: Bahasa Yiddish
     bn: য়িদ্দিশ ভাষা
@@ -245,19 +245,19 @@ dv_has_:
     ceb: Yidis
     ckb: زمانی یدیش
     crh: Yidiş tili
-    crh-latn: Yidiş tili
+    crh_latn: Yidiş tili
     cs: jidiš
     cv: Идиш
     cy: Iddew-Almaeneg
     da: jiddisch
     de: Jiddisch
-    de-ch: Jiddisch
+    de_ch: Jiddisch
     diq: Yidişki
     dsb: Jidišćina
     el: Γίντις
     en: Yiddish
-    en-ca: Yiddish
-    en-gb: Yiddish
+    en_ca: Yiddish
+    en_gb: Yiddish
     eo: jida lingvo
     es: yidis
     et: jidiši keel
@@ -303,7 +303,7 @@ dv_has_:
     krj: Yidis
     ks: یِدِش زَبان
     ku: zimanê yîdîş
-    ku-latn: zimanê yîdîş
+    ku_latn: zimanê yîdîş
     kv: Идиш
     kw: Yedhowek
     la: lingua Iudaeogermanica
@@ -326,7 +326,7 @@ dv_has_:
     nan: Yiddish-gí
     nb: jiddisch
     nds: Jiddisch
-    nds-nl: Jiddisj
+    nds_nl: Jiddisj
     nl: Jiddisch
     nn: jiddisch
     oc: Yiddish
@@ -339,7 +339,7 @@ dv_has_:
     pnb: یدش
     ps: ييديشي ژبه
     pt: língua iídiche
-    pt-br: língua iídiche
+    pt_br: língua iídiche
     qu: Yithish simi
     ro: limba idiș
     ru: идиш
@@ -354,7 +354,7 @@ dv_has_:
     so: Yiddish language
     sq: Jidish
     sr: јидиш
-    sr-ec: јидиш
+    sr_ec: јидиш
     sv: jiddisch
     sw: Kiyiddish
     szl: Jidisz
@@ -366,7 +366,7 @@ dv_has_:
     tok: toki Isisi
     tr: Yidiş
     tt: идиш теле
-    tt-cyrl: идиш теле
+    tt_cyrl: идиш теле
     uk: їдиш
     ur: یدیش زبان
     uz: Idish
@@ -378,8 +378,8 @@ dv_has_:
     yi: יידיש
     yue: 依地文
     zh: 意第緒語
-    zh-hans: 意第绪语
-    zh-hant: 意第緒語
+    zh_hans: 意第绪语
+    zh_hant: 意第緒語
 ---
 # [[Yiddish]] 
 

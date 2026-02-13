@@ -99,7 +99,7 @@ dv_has_:
     az: Skalyar hasil
     ba: Скаляр ҡабатландыҡ
     be: скалярны здабытак
-    be-tarask: здабытак скалярны
+    be_tarask: здабытак скалярны
     bg: Скаларно произведение
     bn: ডট গুণন
     bs: Skalarni proizvod
@@ -111,8 +111,8 @@ dv_has_:
     de: Skalarprodukt
     el: εσωτερικό γινόμενο
     en: scalar product
-    en-ca: Dot product
-    en-gb: Dot product
+    en_ca: Dot product
+    en_gb: Dot product
     eo: skalara produto
     es: producto escalar
     et: Skalaarkorrutis
@@ -132,11 +132,11 @@ dv_has_:
     ja: ドット積
     ka: სკალარული ნამრავლი
     kk: Скаляр көбейтінді
-    kk-arab: سكاليار كوبەيتىندى
+    kk_arab: سكاليار كوبەيتىندى
     kk-cn: سكاليار كوبەيتىندى
-    kk-cyrl: Скаляр көбейтінді
+    kk_cyrl: Скаляр көбейтінді
     kk-kz: Скаляр көбейтінді
-    kk-latn: Skalyar köbeýtindi
+    kk_latn: Skalyar köbeýtindi
     kk-tr: Skalyar köbeýtindi
     kn: ಡಾಟ್ ಉತ್ಪನ್ನ
     ko: 스칼라곱
@@ -153,7 +153,7 @@ dv_has_:
     pl: Iloczyn skalarny
     pms: Prodot ëscalar
     pt: produto escalar
-    pt-br: produto escalar
+    pt_br: produto escalar
     ro: produs scalar
     ru: скалярное произведение
     sa: बिन्दु आहति
@@ -164,8 +164,8 @@ dv_has_:
     sl: skalarni produkt
     sq: prodhimi skalar
     sr: скаларни производ вектора
-    sr-ec: скаларни производ вектора
-    sr-el: Skalarni proizvod vektora
+    sr_ec: скаларни производ вектора
+    sr_el: Skalarni proizvod vektora
     sv: Skalärprodukt
     ta: புள்ளிப் பெருக்கல்
     th: ผลคูณจุด
@@ -179,12 +179,12 @@ dv_has_:
     wuu: 数量积
     yue: 內積
     zh: 数量积
-    zh-cn: 数量积
-    zh-hans: 数量积
-    zh-hant: 內積
-    zh-hk: 內積
-    zh-sg: 数量积
-    zh-tw: 內積
+    zh_cn: 数量积
+    zh_hans: 数量积
+    zh_hant: 內積
+    zh_hk: 內積
+    zh_sg: 数量积
+    zh_tw: 內積
 ---
 # [[Scalar_Product]] 
 

@@ -101,7 +101,7 @@ dv_has_:
     ba: сүплек
     bas: lebel bìnan
     be: звалка
-    be-tarask: сьметнішча
+    be_tarask: сьметнішча
     bg: Сметище
     bn: আবর্জনাভূমি
     bs: Deponija
@@ -148,7 +148,7 @@ dv_has_:
     oc: Descarga
     pl: składowisko odpadów
     pt: aterro sanitário
-    pt-br: aterro sanitário
+    pt_br: aterro sanitário
     ro: Depozit gunoier
     ru: свалка
     scn: munnizzaru
@@ -156,8 +156,8 @@ dv_has_:
     sk: skládka
     sl: smetišče
     sr: депонија
-    sr-ec: депонија
-    sr-el: Deponija
+    sr_ec: депонија
+    sr_el: Deponija
     sv: soptipp
     sw: Tukio la taka
     th: การฝังกลบ
@@ -169,12 +169,12 @@ dv_has_:
     ybb: Ŋkāʼ ndɔte
     yue: 垃圾堆填區
     zh: 堆填
-    zh-cn: 堆填
-    zh-hans: 堆填
-    zh-hant: 垃圾掩埋場
-    zh-hk: 堆填區
-    zh-sg: 堆填
-    zh-tw: 垃圾掩埋場
+    zh_cn: 堆填
+    zh_hans: 堆填
+    zh_hant: 垃圾掩埋場
+    zh_hk: 堆填區
+    zh_sg: 堆填
+    zh_tw: 垃圾掩埋場
 ---
 # [[Landfill]] 
 

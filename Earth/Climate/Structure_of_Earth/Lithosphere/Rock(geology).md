@@ -212,7 +212,7 @@ dv_has_:
     bar: stoa
     bcl: gapo (heolohiya)
     be: горная парода
-    be-tarask: горная парода
+    be_tarask: горная парода
     bg: скала
     bho: चट्टान
     bn: শিলা
@@ -229,14 +229,14 @@ dv_has_:
     cy: craig
     da: klippe
     de: Gestein
-    de-ch: Gestein
+    de_ch: Gestein
     diq: Salek
     dsb: kamizna
     dtp: watu
     el: πέτρωμα
     en: rock
-    en-ca: rock
-    en-gb: rock
+    en_ca: rock
+    en_gb: rock
     eo: petro
     es: roca
     et: kivim
@@ -321,7 +321,7 @@ dv_has_:
     pnb: چٹان
     ps: ډبره
     pt: rocha
-    pt-br: rocha
+    pt_br: rocha
     qu: rumi kaq
     ro: rocă
     ru: горная порода
@@ -345,8 +345,8 @@ dv_has_:
     so: dhagax
     sq: shkëmb
     sr: стена
-    sr-ec: стена
-    sr-el: stena
+    sr_ec: стена
+    sr_el: stena
     su: Batu
     sv: bergart
     sw: mwamba
@@ -360,7 +360,7 @@ dv_has_:
     to: makatuʻu
     tr: kayaç
     tt: тау токымы
-    tt-cyrl: тау токымы
+    tt_cyrl: тау токымы
     udm: гурезь извыжыос
     ug: تاش
     uk: гірська порода
@@ -378,8 +378,8 @@ dv_has_:
     yue: 石頭
     za: rin
     zh: 岩石
-    zh-cn: 岩石
-    zh-hans: 岩石
+    zh_cn: 岩石
+    zh_hans: 岩石
 ---
 # [[Rock(geology)]] 
 

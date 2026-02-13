@@ -137,7 +137,7 @@ dv_has_:
     ast: fueos artificiales
     az: fişəng
     be: феерверк
-    be-tarask: фаервэрк
+    be_tarask: фаервэрк
     bg: Фойерверки
     bjn: Kambang sarai
     bn: আতশবাজি
@@ -181,11 +181,11 @@ dv_has_:
     ja: 花火
     jv: Kembang api
     kk: мерекелік салют
-    kk-arab: مەرەكەلىك ساليۋت
+    kk_arab: مەرەكەلىك ساليۋت
     kk-cn: مەرەكەلىك ساليۋت
-    kk-cyrl: Мерекелік салют
+    kk_cyrl: Мерекелік салют
     kk-kz: Мерекелік салют
-    kk-latn: merekelik salyut
+    kk_latn: merekelik salyut
     kk-tr: Merekelik salyut
     ko: 불꽃놀이
     ky: фейерверк
@@ -226,8 +226,8 @@ dv_has_:
     smn: ávupačâlem
     sq: Fishekziarret
     sr: Ватромет
-    sr-ec: Ватромет
-    sr-el: Vatromet
+    sr_ec: Ватромет
+    sr_el: Vatromet
     sv: fyrverkeri
     sw: Fataki
     szl: fajerwerki
@@ -246,12 +246,12 @@ dv_has_:
     yi: פייער ווארקס
     yue: 煙花
     zh: 烟火
-    zh-cn: 烟火
-    zh-hans: 烟火
-    zh-hant: 煙火
-    zh-hk: 煙火
-    zh-sg: 烟火
-    zh-tw: 煙火
+    zh_cn: 烟火
+    zh_hans: 烟火
+    zh_hant: 煙火
+    zh_hk: 煙火
+    zh_sg: 烟火
+    zh_tw: 煙火
 ---
 # [[Firework]] 🎆 
 

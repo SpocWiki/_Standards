@@ -142,7 +142,7 @@ dv_has_:
     azb: راینر ورنر فاسبیندر
     bar: Rainer Werner Fassbinder
     be: Райнер Вернер Фасбіндэр
-    be-tarask: Райнэр Вэрнэр Фасьбіндэр
+    be_tarask: Райнэр Вэрнэр Фасьбіндэр
     bg: Райнер Вернер Фасбиндер
     bn: রাইনার ভের্নার ফাসবিন্ডার
     ca: Rainer Werner Fassbinder
@@ -186,7 +186,7 @@ dv_has_:
     pa: ਰੇਨਰ ਵਰਨਰ ਫ਼ਾਸਬੀਂਡਰ
     pl: Rainer Werner Fassbinder
     pt: Rainer Werner Fassbinder
-    pt-br: Rainer Werner Fassbinder
+    pt_br: Rainer Werner Fassbinder
     ro: Rainer Werner Fassbinder
     ru: Райнер Вернер Фасбиндер
     sc: Rainer Werner Fassbinder
@@ -205,10 +205,10 @@ dv_has_:
     war: Rainer Werner Fassbinder
     yue: 寧那·華納·法斯賓達
     zh: 萊納·韋納·法斯賓達
-    zh-hans: 赖纳·维尔纳·法斯宾德
-    zh-hant: 萊納・韋納・法斯賓達
-    zh-hk: 寧那·華納·法斯賓達
-    zh-tw: 萊納·韋納·法斯賓達
+    zh_hans: 赖纳·维尔纳·法斯宾德
+    zh_hant: 萊納・韋納・法斯賓達
+    zh_hk: 寧那·華納·法斯賓達
+    zh_tw: 萊納·韋納·法斯賓達
 ---
 # [[Fassbinder,Rainer_Werner]] 
 

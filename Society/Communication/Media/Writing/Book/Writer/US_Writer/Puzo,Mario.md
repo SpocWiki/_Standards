@@ -89,7 +89,7 @@ dv_has_:
     az: Mario Pyuzo
     azb: ماریو پوزو
     be: Марыа П'юза
-    be-tarask: Марыё П’юза
+    be_tarask: Марыё П’юза
     bg: Марио Пузо
     bho: मारियो पूज़ो
     bn: মারিও পুজো
@@ -136,7 +136,7 @@ dv_has_:
     pl: Mario Puzo
     ps: ماریو پوزو
     pt: Mario Puzo
-    pt-br: Mario Puzo
+    pt_br: Mario Puzo
     qu: Mario Puzo
     ro: Mario Puzo
     ru: Марио Пьюзо
@@ -147,8 +147,8 @@ dv_has_:
     sl: Mario Puzo
     sq: Mario Puzo
     sr: Марио Пузо
-    sr-ec: Марио Пузо
-    sr-el: Mario Puzo
+    sr_ec: Марио Пузо
+    sr_el: Mario Puzo
     sv: Mario Puzo
     tg: Марио Пузо
     tr: Mario Puzo
@@ -161,12 +161,12 @@ dv_has_:
     xmf: მარიო პიუზო
     yue: 馬里奧·普佐
     zh: 馬里奧·普佐
-    zh-cn: 马里奥·普佐
-    zh-hans: 马里奥·普佐
-    zh-hant: 馬里奧·普佐
-    zh-hk: 馬里奧·普佐
-    zh-sg: 马里奥·普佐
-    zh-tw: 馬里奧·普佐
+    zh_cn: 马里奥·普佐
+    zh_hans: 马里奥·普佐
+    zh_hant: 馬里奧·普佐
+    zh_hk: 馬里奧·普佐
+    zh_sg: 马里奥·普佐
+    zh_tw: 馬里奧·普佐
 ---
 # [[Puzo,Mario]] 
 

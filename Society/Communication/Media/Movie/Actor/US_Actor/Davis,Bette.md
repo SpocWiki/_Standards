@@ -126,7 +126,7 @@ dv_has_:
     azb: بت دیویس
     ba: Бетт Дейвис
     be: Бет Дэвіс
-    be-tarask: Бэт Дэвіс
+    be_tarask: Бэт Дэвіс
     bg: Бети Дейвис
     bi: Bette Davis
     bn: বেটি ডেভিস
@@ -187,7 +187,7 @@ dv_has_:
     pap: Bette Davis
     pl: Bette Davis
     pt: Bette Davis
-    pt-br: Bette Davis
+    pt_br: Bette Davis
     qu: Bette Davis
     ro: Bette Davis
     ru: Бетт Дэвис
@@ -199,7 +199,7 @@ dv_has_:
     smn: Bette Davis
     sq: Bette Davis
     sr: Бети Дејвис
-    sr-ec: Бети Дејвис
+    sr_ec: Бети Дејвис
     sv: Bette Davis
     te: బెట్టీ డేవిస్
     tg: Бетте Давис
@@ -217,8 +217,8 @@ dv_has_:
     yo: Bette Davis
     yue: 比提戴維斯
     zh: 贝蒂·戴维斯
-    zh-hans: 贝蒂·戴维斯
-    zh-hant: 貝蒂·戴維斯
+    zh_hans: 贝蒂·戴维斯
+    zh_hant: 貝蒂·戴維斯
 ---
 # [[Davis,Bette]] 
 

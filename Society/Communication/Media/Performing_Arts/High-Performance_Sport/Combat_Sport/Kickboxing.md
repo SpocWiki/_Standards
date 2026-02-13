@@ -80,7 +80,7 @@ dv_has_:
     ast: kick boxing
     az: kikboksinq
     ba: кикбоксинг
-    be-tarask: кікбоксынг
+    be_tarask: кікбоксынг
     bg: кикбокс
     bn: কিকবক্সিং
     bs: kickboxing
@@ -92,8 +92,8 @@ dv_has_:
     de: Kickboxen
     el: κικ μπόξινγκ
     en: kickboxing
-    en-ca: kickboxing
-    en-gb: kickboxing
+    en_ca: kickboxing
+    en_gb: kickboxing
     en-us: kickboxing
     eo: piedbato-bokso
     es: kick boxing
@@ -116,8 +116,8 @@ dv_has_:
     it: kickboxing
     ja: キックボクシング
     kk: кикбоксинг
-    kk-arab: كىيكبوكسىينگ
-    kk-latn: kïkboksïng
+    kk_arab: كىيكبوكسىينگ
+    kk_latn: kïkboksïng
     ko: 킥복싱
     ky: кикбоксинг
     la: pugilatus pedibus pugnisque
@@ -147,7 +147,7 @@ dv_has_:
     smn: čiehčâmčurmâđâttâm
     sq: kickbox
     sr: кик-бокс
-    sr-el: kik-boks
+    sr_el: kik-boks
     sv: kickboxning
     ta: காலுதைச்சண்டை
     th: คิกบอกซิง
@@ -161,12 +161,12 @@ dv_has_:
     wuu: 踢拳
     yue: 踢拳
     zh: 踢拳
-    zh-cn: 踢拳
-    zh-hans: 踢拳
-    zh-hant: 踢拳
-    zh-hk: 踢拳
-    zh-sg: 踢拳
-    zh-tw: 踢拳
+    zh_cn: 踢拳
+    zh_hans: 踢拳
+    zh_hant: 踢拳
+    zh_hk: 踢拳
+    zh_sg: 踢拳
+    zh_tw: 踢拳
 ---
 # [[Kickboxing]] 
 

@@ -189,7 +189,7 @@ dv_has_:
     bar: Diandl
     bcl: Aking babayi (edad)
     be: дзяўчынка
-    be-tarask: дзяўчынка
+    be_tarask: дзяўчынка
     bg: момиче
     bho: लइकी
     bn: মেয়ে
@@ -208,14 +208,14 @@ dv_has_:
     da: pige
     dag: bipuɣinga
     de: Mädchen
-    de-ch: Mädchen
+    de_ch: Mädchen
     dga: pɔgelee
     diq: Keynek
     dsb: Źowćo
     el: κορίτσι
     en: girl
-    en-ca: Girl
-    en-gb: girl
+    en_ca: Girl
+    en_gb: girl
     eo: knabino
     es: niña
     et: tüdruk
@@ -256,7 +256,7 @@ dv_has_:
     ko: 소녀
     ksh: Mäddche
     ku: keç
-    ku-latn: keç
+    ku_latn: keç
     la: puella
     lb: Meedchen
     ln: mwasi
@@ -288,7 +288,7 @@ dv_has_:
     pnb: کُڑی
     pnt: κόρασον
     pt: menina
-    pt-br: menina
+    pt_br: menina
     rn: Umukobwa
     ro: Fată
     ru: девочка
@@ -308,8 +308,8 @@ dv_has_:
     so: Gabar
     sq: Vajza
     sr: девојка
-    sr-ec: девојка
-    sr-el: devojka
+    sr_ec: девојка
+    sr_el: devojka
     st: ngoanana
     sv: flicka
     sw: Msichana
@@ -322,7 +322,7 @@ dv_has_:
     tl: Batang babae
     tr: kız
     tt: кыз
-    tt-cyrl: кыз
+    tt_cyrl: кыз
     tum: Mu sungwana
     tw: Abaayewa
     udm: ныл
@@ -336,14 +336,14 @@ dv_has_:
     yi: מיידל
     yue: 女仔
     zh: 女孩
-    zh-cn: 女孩
-    zh-hans: 女孩
-    zh-hant: 女孩
-    zh-hk: 女孩
-    zh-mo: 女孩
+    zh_cn: 女孩
+    zh_hans: 女孩
+    zh_hant: 女孩
+    zh_hk: 女孩
+    zh_mo: 女孩
     zh-my: 女孩
-    zh-sg: 女孩
-    zh-tw: 女孩
+    zh_sg: 女孩
+    zh_tw: 女孩
 ---
 # [[Girl]] 👧 
 

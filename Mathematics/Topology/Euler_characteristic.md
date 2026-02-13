@@ -60,16 +60,16 @@ dv_has_:
   name_:
     ar: مميزة أويلر
     ast: Carauterística d'Euler
-    be-tarask: Ойлерава характэрыстыка
+    be_tarask: Ойлерава характэрыстыка
     ca: característica d'Euler
     cs: Eulerova charakteristika
     cv: Эйлерла палăрăмлăх
     de: Euler-Charakteristik
-    de-ch: Euler-Charakteristik
+    de_ch: Euler-Charakteristik
     el: Χαρακτηριστική Όιλερ
     en: Euler characteristic
-    en-ca: Euler characteristic
-    en-gb: Euler characteristic
+    en_ca: Euler characteristic
+    en_gb: Euler characteristic
     eo: Eŭlera karakterizo
     es: característica de Euler
     eu: Eulerren karakteristika
@@ -94,7 +94,7 @@ dv_has_:
     nn: Eulers polyedersetning
     pl: charakterystyka Eulera
     pt: característica de Euler
-    pt-br: Característica de Euler
+    pt_br: Característica de Euler
     ro: caracteristică Euler
     ru: эйлерова характеристика
     sl: Eulerjeva karakteristika
@@ -107,10 +107,10 @@ dv_has_:
     wuu: 欧拉示性数
     yue: 歐拉特徵數
     zh: 欧拉示性数
-    zh-hans: 欧拉示性数
-    zh-hant: 歐拉示性數
-    zh-hk: 歐拉示性數
-    zh-tw: 歐拉示性數
+    zh_hans: 欧拉示性数
+    zh_hant: 歐拉示性數
+    zh_hk: 歐拉示性數
+    zh_tw: 歐拉示性數
 ---
 # [[Euler_characteristic]] 
 

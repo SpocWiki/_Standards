@@ -101,7 +101,7 @@ dv_has_:
     ba: Соя һөтө
     bar: Sojamilli
     be: соевае малако
-    be-tarask: соевае малако
+    be_tarask: соевае малако
     bg: Соево мляко
     bn: সয়াদুধ
     ca: llet de soia
@@ -112,7 +112,7 @@ dv_has_:
     de: Sojamilch
     el: γάλα σόγιας
     en: soy milk
-    en-gb: soya milk
+    en_gb: soya milk
     eo: sojlakto
     es: leche de soja
     et: Sojapiim
@@ -163,8 +163,8 @@ dv_has_:
     yue: 荳奶
     zh: 豆奶
     zh-cn: 豆奶
-    zh-hant: 豆奶
-    zh-tw: 豆奶
+    zh_hant: 豆奶
+    zh_tw: 豆奶
 ---
 # [[Soy_milk]]
 

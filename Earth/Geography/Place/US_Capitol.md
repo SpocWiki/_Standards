@@ -212,7 +212,7 @@ dv_has_:
     ast: Capitoliu de los Estaos Xuníos
     az: ABŞ kapitolu
     be: Капітолій, Вашынгтон
-    be-tarask: Капітолій
+    be_tarask: Капітолій
     bg: Капитолий
     bn: ইউনাইটেড স্টেটস ক্যাপিটল
     br: Kapitol ar Stadoù-Unanet
@@ -225,8 +225,8 @@ dv_has_:
     de: Kapitol der Vereinigten Staaten
     el: Καπιτώλιο των Ηνωμένων Πολιτειών
     en: United States Capitol
-    en-ca: United States Capitol
-    en-gb: United States Capitol
+    en_ca: United States Capitol
+    en_gb: United States Capitol
     eo: Kapitolo de Usono
     es: Capitolio de los Estados Unidos
     et: Kapitoolium
@@ -265,7 +265,7 @@ dv_has_:
     pl: Kapitol Stanów Zjednoczonych
     pnb: یونائیٹڈ سٹیٹس کیپیٹل
     pt: Capitólio dos Estados Unidos
-    pt-br: Capitólio dos Estados Unidos
+    pt_br: Capitólio dos Estados Unidos
     ro: Capitoliul Statelor Unite ale Americii
     ru: Капитолий
     sco: Unitit States Caipitol
@@ -290,14 +290,14 @@ dv_has_:
     xmf: კაპიტოლიუმი
     yue: 美國國會大廈
     zh: 美國國會大廈
-    zh-cn: 美国国会大厦
-    zh-hans: 美国国会大厦
-    zh-hant: 美國國會大廈
-    zh-hk: 美國國會大廈
-    zh-mo: 美國國會大廈
+    zh_cn: 美国国会大厦
+    zh_hans: 美国国会大厦
+    zh_hant: 美國國會大廈
+    zh_hk: 美國國會大廈
+    zh_mo: 美國國會大廈
     zh-my: 美国国会大厦
-    zh-sg: 美国国会大厦
-    zh-tw: 美國國會大廈
+    zh_sg: 美国国会大厦
+    zh_tw: 美國國會大廈
 ---
 # [[US_Capitol]] 
 

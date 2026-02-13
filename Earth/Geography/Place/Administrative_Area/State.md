@@ -270,7 +270,7 @@ dv_has_:
     ba: Дәүләт
     bar: Stoot
     be: дзяржава
-    be-tarask: дзяржава
+    be_tarask: дзяржава
     bew: Negeri
     bg: Държава
     bi: Kaontri
@@ -294,13 +294,13 @@ dv_has_:
     cy: gwladwriaeth
     da: stat
     de: Staat
-    de-ch: Staat
+    de_ch: Staat
     diq: Dewlete
     dsb: Stat
     el: κράτος
     en: state
-    en-ca: state
-    en-gb: state
+    en_ca: state
+    en_gb: state
     eo: ŝtato
     es: Estado
     et: riik
@@ -374,7 +374,7 @@ dv_has_:
     lo: ລັດ
     lt: valstybė
     lv: valsts
-    map-bms: Negara
+    map_bms: Negara
     mdf: кирдемасторсь
     mg: Fanjakana
     mhr: Кугыжаныш
@@ -385,7 +385,7 @@ dv_has_:
     mnc: ᡤᡠᡵᡠᠨ
     mr: राज्य
     ms: negara
-    ms-arab: نݢارا
+    ms_arab: نݢارا
     mwl: Stado
     myv: кирдимастор
     mzn: دولت
@@ -393,7 +393,7 @@ dv_has_:
     nap: Stato
     nb: stat
     nds: Staat
-    nds-nl: staot
+    nds_nl: staot
     ne: राज्य
     new: राज्य
     nl: staat
@@ -414,7 +414,7 @@ dv_has_:
     pnt: Κράτος
     ps: دولت
     pt: estado
-    pt-br: Estado
+    pt_br: Estado
     qu: Mama llaqta
     rm: Stadi
     rmy: Stato
@@ -446,7 +446,7 @@ dv_has_:
     ta: அரசு
     te: రాజ్యం
     tg: давлат
-    tg-cyrl: мамлакат
+    tg_cyrl: мамлакат
     th: รัฐ
     tk: Ýagdaýy
     tl: estado
@@ -455,8 +455,8 @@ dv_has_:
     tr: devlet
     ts: Tiko
     tt: дәүләт
-    tt-cyrl: дәүләт
-    tt-latn: däwlät
+    tt_cyrl: дәүләт
+    tt_latn: däwlät
     tyv: Күрүне
     udm: кун
     uk: держава
@@ -477,14 +477,14 @@ dv_has_:
     zea: Land
     zgh: ⴰⵡⴰⵏⴽ
     zh: 国家
-    zh-cn: 国家
-    zh-hans: 国家
-    zh-hant: 國家
-    zh-hk: 國家
-    zh-mo: 國家
+    zh_cn: 国家
+    zh_hans: 国家
+    zh_hant: 國家
+    zh_hk: 國家
+    zh_mo: 國家
     zh-my: 国家
-    zh-sg: 国家
-    zh-tw: 國家
+    zh_sg: 国家
+    zh_tw: 國家
   parent_class: '[[../AdministrativeArea]]'
   properties: '[ [[../../../../schema-org/Relation/has/has_additional_property|additionalProperty]], [[../../../../schema-org/Property/has_url_for/has_url_for_additional_type|additionalType]], [[../../../../Property/has_geo/has_location_address|address]], [[../../../../schema-org/Relation/has/has_aggregate_rating|aggregateRating]], [[../../../../Property/Texts/has_alternate_name|alternateName]], [[../../../../schema-org/Relation/has/has_amenity_feature|amenityFeature]], [[../../../../Property/Texts/has_branch_code|branchCode]], [[../../../../Property/has_geo/has_location_contained_in|containedIn]], [[../../../../Property/has_geo/has_location_contained_in_place|containedInPlace]], [[../../../../Property/has_geo/has_location_within|containsPlace]], [[../../../../schema-org/Property/Texts/has_description|description]], [[../../../../schema-org/Property/Texts/has_disambiguating_description|disambiguatingDescription]], [[../../../../schema-org/Relation/has/has_event|event]], events, [[../../../../schema-org/Property/Texts/has_fax_number|faxNumber]], [[../../../../Property/has_geo/has_location_|geo]], [[../../../../Property/has_geo/has_location_that_contains|geoContains]], [[../../../../Property/has_geo/has_location_covered_by|geoCoveredBy]], [[../../../../Property/has_geo/has_location_that_covers|geoCovers]], [[../../../../Property/has_geo/has_location_crossing|geoCrosses]], [[../../../../Property/has_geo/has_location_disjoint_with|geoDisjoint]], [[../../../../Property/has_geo/has_location_equal_to|geoEquals]], [[../../../../Property/has_geo/has_location_that_intersects|geoIntersects]], [[../../../../Property/has_geo/has_location_that_overlaps|geoOverlaps]], [[../../../../Property/has_geo/has_location_that_touches|geoTouches]], [[../../../../Property/has_geo/has_location_within|geoWithin]], [[../../../../Property/Texts/has_global_location_number|globalLocationNumber]], [[../../../../schema-org/Property/Flags/is_drive_through_service|hasDriveThroughService]], [[../../../../schema-org/Relation/has/has_place_map|hasMap]], [[../../../../schema-org/Relation/has/has_identifier|identifier]], [[../../../../schema-org/Relation/has/has_image|image]], [[../../../../schema-org/Property/Flags/is_accessible_for_free|isAccessibleForFree]], [[../../../../schema-org/Property/Texts/has_isic_v4|isicV4]], [[../../../../schema-org/Relation/has/has_keywords|keywords]], [[../../../../schema-org/Property/has_value_for/has_place_latitude|latitude]], [[../../../../schema-org/Relation/has/has_logo|logo]], [[../../../../schema-org/Property/has_value_for/has_place_longitude|longitude]], [[../../../../schema-org/Relation/is/is_main_entity_of_page|mainEntityOfPage]], [[../../../../schema-org/Relation/has/has_place_map|map]], maps, [[../../../../schema-org/Property/has_number_of/has_number_of_maximum_attendees|maximumAttendeeCapacity]], [[../../../../Property/Texts/has_name|name]], [[../../../../schema-org/Relation/has/has_opening_hours_specification|openingHoursSpecification]], [[../../../../schema-org/Relation/has/has_photo|photo]], photos, [[../../../../schema-org/Relation/has/has_potential_action|potentialAction]], [[../../../../schema-org/Property/Flags/is_public_access|publicAccess]], [[../../../../schema-org/Relation/has/has_review|review]], reviews, [[../../../../schema-org/Relation/is_same_as|sameAs]], [[../../../../schema-org/Property/Texts/has_slogan|slogan]], [[../../../../schema-org/Property/Flags/is_smoking_allowed|smokingAllowed]], [[../../../../schema-org/Relation/has/has_special_opening_hours_specification|specialOpeningHoursSpecification]], [[../../../../schema-org/Relation/is/is_subject_of|subjectOf]], [[../../../../schema-org/Property/Texts/has_telephone|telephone]], [[../../../../schema-org/Property/has_url_for/has_url_for_tour_booking_page|tourBookingPage]], [[../../../../schema-org/Property/has_url_for|url]] ]'
 dv_is_same_as:

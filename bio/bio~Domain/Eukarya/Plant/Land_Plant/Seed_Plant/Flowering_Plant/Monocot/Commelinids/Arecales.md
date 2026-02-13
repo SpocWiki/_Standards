@@ -8,7 +8,7 @@ dv_has_:
     ast: Arecales
     az: Arekaçiçəklilər
     be: Пальмакветныя
-    be-tarask: пальмакветныя
+    be_tarask: пальмакветныя
     bg: палмоцветни
     bs: Arecales
     ca: Arecals
@@ -57,7 +57,7 @@ dv_has_:
     oc: Arecales
     pl: arekowce
     pt: Arecales
-    pt-br: Arecales
+    pt_br: Arecales
     ro: Arecales
     ru: пальмоцветные
     sa: नारिकेलव्रुक्ष
@@ -72,7 +72,7 @@ dv_has_:
     vo: Arecales
     war: Arecales
     zh: 棕榈目
-    zh-cn: 棕榈目
+    zh_cn: 棕榈目
 aliases:
 - Arecales
 - Arecals

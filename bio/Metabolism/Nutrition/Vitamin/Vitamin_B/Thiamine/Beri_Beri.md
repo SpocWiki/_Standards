@@ -82,11 +82,11 @@ dv_has_:
     ja: 脚気
     ka: ბერი-ბერი
     kk: Бери-бери
-    kk-arab: بەرىي-بەرىي
+    kk_arab: بەرىي-بەرىي
     kk-cn: بەرىي-بەرىي
-    kk-cyrl: Бери-бери
+    kk_cyrl: Бери-бери
     kk-kz: Бери-бери
-    kk-latn: Berï-berï
+    kk_latn: Berï-berï
     kk-tr: Berï-berï
     ko: 각기병
     ku: Berîberî
@@ -109,8 +109,8 @@ dv_has_:
     sh: Beriberi
     sl: Beriberi
     sr: Берибери
-    sr-ec: Берибери
-    sr-el: Beriberi
+    sr_ec: Берибери
+    sr_el: Beriberi
     sv: beriberi
     ta: பெரிபெரி
     te: బెరిబెరి
@@ -123,12 +123,12 @@ dv_has_:
     vi: Thiếu vitamin B1
     wuu: 脚气病
     zh: 脚气病
-    zh-cn: 脚气病
-    zh-hans: 脚气病
-    zh-hant: 腳氣病
-    zh-hk: 腳氣病
-    zh-sg: 脚气病
-    zh-tw: 腳氣病
+    zh_cn: 脚气病
+    zh_hans: 脚气病
+    zh_hant: 腳氣病
+    zh_hk: 腳氣病
+    zh_sg: 脚气病
+    zh_tw: 腳氣病
 ---
 #is_/similar_to :: [[Vitamin_C/Scurvy]] 
 

@@ -64,7 +64,7 @@ dv_has_:
     pap: Erykah Badu
     pl: Erykah Badu
     pt: Erykah Badu
-    pt-br: Erykah Badu
+    pt_br: Erykah Badu
     ro: Erykah Badu
     ru: Эрика Баду
     sl: Erykah Badu
@@ -77,9 +77,9 @@ dv_has_:
     uz: Erykah Badu
     yo: Erykah Badu
     zh: 埃丽卡‧巴杜
-    zh-cn: 埃丽卡‧巴杜
-    zh-hant: 艾莉卡·芭朵
-    zh-tw: 艾莉卡·芭朵
+    zh_cn: 埃丽卡‧巴杜
+    zh_hant: 艾莉卡·芭朵
+    zh_tw: 艾莉卡·芭朵
 ---
 Her Voice sounds similar to [[Holiday,Billie]]. 
 Her music is very funky and soulful. 

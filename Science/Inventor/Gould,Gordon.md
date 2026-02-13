@@ -59,7 +59,7 @@ dv_has_:
     arz: جوردون جولد
     ast: Gordon Gould
     azb: قوردون قلد
-    be-tarask: Гордан Гулд
+    be_tarask: Гордан Гулд
     ca: Gordon Gould
     cs: Gordon Gould
     cy: Gordon Gould
@@ -88,7 +88,7 @@ dv_has_:
     pap: Gordon Gould
     pl: Gordon Gould
     pt: Gordon Gould
-    pt-br: Gordon Gould
+    pt_br: Gordon Gould
     ru: Гордон Гулд
     sl: Gordon Gould
     sq: Gordon Gould
@@ -99,9 +99,9 @@ dv_has_:
     war: Gordon Gould
     yue: 戈登·古爾德
     zh: 戈登·古尔德
-    zh-cn: 戈登·古尔德
-    zh-hans: 戈登·古尔德
-    zh-hant: 戈登·古爾德
+    zh_cn: 戈登·古尔德
+    zh_hans: 戈登·古尔德
+    zh_hant: 戈登·古爾德
 ---
 # [[Gould,Gordon]] 
 

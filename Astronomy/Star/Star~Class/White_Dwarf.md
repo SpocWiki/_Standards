@@ -131,7 +131,7 @@ dv_has_:
     ast: Nana blanca
     az: Ağ cırtdanlar
     be: белы карлік
-    be-tarask: белы карлік
+    be_tarask: белы карлік
     bg: Бяло джудже
     bn: শ্বেত বামন
     br: Korrez wenn
@@ -145,8 +145,8 @@ dv_has_:
     de: Weißer Zwerg
     el: Λευκός νάνος
     en: white dwarf
-    en-ca: White dwarf
-    en-gb: white dwarf
+    en_ca: White dwarf
+    en_gb: white dwarf
     eo: blanka nano
     es: enana blanca
     et: valge kääbus
@@ -202,8 +202,8 @@ dv_has_:
     smn: vielgis snorâtäsni
     sq: Shkurtabiq i bardhë
     sr: бели патуљак
-    sr-ec: бели патуљак
-    sr-el: beli patuljak
+    sr_ec: бели патуљак
+    sr_el: beli patuljak
     su: Katé bodas
     sv: vit dvärg
     sw: Nyota kibete nyeupe
@@ -220,14 +220,14 @@ dv_has_:
     wuu: 白矮星
     yue: 白矮星
     zh: 白矮星
-    zh-cn: 白矮星
-    zh-hans: 白矮星
-    zh-hant: 白矮星
-    zh-hk: 白矮星
-    zh-mo: 白矮星
+    zh_cn: 白矮星
+    zh_hans: 白矮星
+    zh_hant: 白矮星
+    zh_hk: 白矮星
+    zh_mo: 白矮星
     zh-my: 白矮星
-    zh-sg: 白矮星
-    zh-tw: 白矮星
+    zh_sg: 白矮星
+    zh_tw: 白矮星
 ---
 # [[White_Dwarf]] 
 

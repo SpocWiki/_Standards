@@ -152,7 +152,7 @@ dv_has_:
     az: qətl
     ba: һомицид
     be: забойства
-    be-tarask: умярцьвеньне
+    be_tarask: умярцьвеньне
     bg: убийство
     bjn: pambunuhan
     bn: নরহত্যা
@@ -167,13 +167,13 @@ dv_has_:
     cy: dynladdiad
     da: drab
     de: Tötungsdelikt
-    de-ch: Tötungsdelikt
+    de_ch: Tötungsdelikt
     dsb: zabiśe
     el: ανθρωποκτονία
     eml: Masamènt
     en: homicide
-    en-ca: Homicide
-    en-gb: homicide
+    en_ca: Homicide
+    en_gb: homicide
     eo: hommortigo
     es: homicidio
     et: mõrv
@@ -219,7 +219,7 @@ dv_has_:
     ml: നരഹത്യ
     mr: खून
     ms: pembunuhan
-    ms-arab: ڤمبونوهن
+    ms_arab: ڤمبونوهن
     mt: omiċidju
     nan: Thâi-lâng
     nb: drap
@@ -233,7 +233,7 @@ dv_has_:
     pnb: مردم کشی
     ps: وژنه
     pt: homicídio
-    pt-br: homicídio
+    pt_br: homicídio
     ro: omucidere
     ru: гомицид
     sc: mortorzu
@@ -244,8 +244,8 @@ dv_has_:
     sl: umor
     sq: Vrasja
     sr: хомицид
-    sr-ec: хомицид
-    sr-el: homicid
+    sr_ec: хомицид
+    sr_el: homicid
     sv: dråp
     sw: Uuaji
     ta: கொலை
@@ -255,8 +255,8 @@ dv_has_:
     tly: odəmi kyšte
     tr: cinayet
     tt: һомицид
-    tt-cyrl: һомицид
-    tt-latn: homitsid
+    tt_cyrl: һомицид
+    tt_latn: homitsid
     uk: вбивство
     ur: قتل
     vec: omisìdio
@@ -266,12 +266,12 @@ dv_has_:
     yue: 他殺
     zgh: ⵜⵉⵏⵖⵉ
     zh: 他殺
-    zh-cn: 他杀
-    zh-hans: 他杀
-    zh-hant: 他殺
-    zh-hk: 他殺
-    zh-sg: 他杀
-    zh-tw: 他殺
+    zh_cn: 他杀
+    zh_hans: 他杀
+    zh_hant: 他殺
+    zh_hk: 他殺
+    zh_sg: 他杀
+    zh_tw: 他殺
 ---
 # [[Homicide]] 
 

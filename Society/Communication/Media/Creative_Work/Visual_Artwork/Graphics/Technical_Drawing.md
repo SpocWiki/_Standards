@@ -91,7 +91,7 @@ dv_has_:
     ar: رسم صناعي
     az: Çertyoj
     be: чарцёж
-    be-tarask: рысунак
+    be_tarask: рысунак
     bg: Чертеж
     bn: প্রযুক্তিগত পরিকল্পনা
     ca: dibuix tècnic
@@ -104,8 +104,8 @@ dv_has_:
     el: τεχνικό σχέδιο
     eml: Disègn tècnic
     en: technical drawing
-    en-ca: Technical drawing
-    en-gb: technical drawing
+    en_ca: Technical drawing
+    en_gb: technical drawing
     eo: teĥnika desegnado
     es: dibujo técnico
     et: Joonestamine
@@ -126,11 +126,11 @@ dv_has_:
     ja: 製図
     ka: ხაზვა
     kk: Сызба
-    kk-arab: سىزبا
+    kk_arab: سىزبا
     kk-cn: سىزبا
-    kk-cyrl: Сызба
+    kk_cyrl: Сызба
     kk-kz: Сызба
-    kk-latn: Sızba
+    kk_latn: Sızba
     kk-tr: Sızba
     ko: 제도
     la: Pictura technica
@@ -143,7 +143,7 @@ dv_has_:
     nl: technisch tekenen
     pl: rysunek techniczny
     pt: desenho técnico
-    pt-br: desenho técnico
+    pt_br: desenho técnico
     ro: desen tehnic
     ru: чертёж
     sk: Technický výkres
@@ -161,12 +161,12 @@ dv_has_:
     vi: vẽ kỹ thuật
     yue: 工程製圖
     zh: 工程制图
-    zh-cn: 工程制图
-    zh-hans: 工程制图
-    zh-hant: 工程製圖
-    zh-hk: 工程製圖
-    zh-sg: 工程制图
-    zh-tw: 工程製圖
+    zh_cn: 工程制图
+    zh_hans: 工程制图
+    zh_hant: 工程製圖
+    zh_hk: 工程製圖
+    zh_sg: 工程制图
+    zh_tw: 工程製圖
 ---
 # [[Technical_Drawing]] 
 

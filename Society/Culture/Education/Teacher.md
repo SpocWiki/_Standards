@@ -333,7 +333,7 @@ dv_has_:
     ba: уҡытыусы
     bcl: Paratukdo
     be: настаўнік
-    be-tarask: настаўнік
+    be_tarask: настаўнік
     bew: Guru
     bg: учител
     bn: শিক্ষক
@@ -348,7 +348,7 @@ dv_has_:
     chy: hoéstomósanéve'ho'e
     ckb: مامۆستا
     crh: oca
-    crh-latn: oca
+    crh_latn: oca
     cs: učitel
     csb: naùczëcél
     cv: Вĕрентекен
@@ -357,7 +357,7 @@ dv_has_:
     dag: karimba
     de: Lehrer
     de-at: Lehrer
-    de-ch: Lehrer
+    de_ch: Lehrer
     dga: tekyɛ
     diq: musnaoğ
     dsb: wucabnik
@@ -365,8 +365,8 @@ dv_has_:
     dua: muleedi
     el: καθηγητής
     en: teacher
-    en-ca: teacher
-    en-gb: teacher
+    en_ca: teacher
+    en_gb: teacher
     en-us: teacher
     eo: instruisto
     es: profesor
@@ -420,7 +420,7 @@ dv_has_:
     ks: وۄستاد
     ksh: Lährer
     ku: mamoste
-    ku-latn: mamoste
+    ku_latn: mamoste
     kw: dyskador
     la: magister
     lb: Enseignant
@@ -441,7 +441,7 @@ dv_has_:
     mos: teacher
     mr: शिक्षक
     ms: guru
-    ms-arab: ݢورو
+    ms_arab: ݢورو
     mt: għalliem
     my: ဆရာ
     myv: тонавтыця
@@ -465,7 +465,7 @@ dv_has_:
     pnb: استاد
     ps: ښوونکی
     pt: docente
-    pt-br: professor(a)
+    pt_br: professor(a)
     qu: yachachiq
     rmf: sikjiboskiero
     ro: profesor
@@ -491,8 +491,8 @@ dv_has_:
     so: bare
     sq: mësues
     sr: учитељ
-    sr-ec: учитељ
-    sr-el: učitelj
+    sr_ec: учитељ
+    sr_el: učitelj
     ss: Thishela
     su: Guru
     sv: lärare
@@ -501,13 +501,13 @@ dv_has_:
     ta: ஆசிரியர்
     te: ఉపాధ్యాయుడు
     tg: омӯзгор
-    tg-cyrl: омӯзгор
+    tg_cyrl: омӯзгор
     th: ครู
     tl: guro
     tr: öğretmen
     ts: Thicara
     tt: укытучы
-    tt-cyrl: укытучы
+    tt_cyrl: укытучы
     tw: Tikyanyi
     ug: ئوقۇتقۇچى
     uk: педагог
@@ -526,14 +526,14 @@ dv_has_:
     yue: 先生
     za: Lauxsae
     zh: 教师
-    zh-cn: 教师
-    zh-hans: 教师
-    zh-hant: 教師
-    zh-hk: 教師
-    zh-mo: 教師
+    zh_cn: 教师
+    zh_hans: 教师
+    zh_hant: 教師
+    zh_hk: 教師
+    zh_mo: 教師
     zh-my: 教师
-    zh-sg: 教师
-    zh-tw: 教師
+    zh_sg: 教师
+    zh_tw: 教師
     zu: UMfundisi
 ---
 # [[Teacher]]👨🏫 

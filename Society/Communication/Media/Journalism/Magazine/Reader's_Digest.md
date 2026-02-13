@@ -65,14 +65,14 @@ dv_has_:
     arz: ريدرز دايجست
     ast: Reader\'s Digest
     az: Reader's Digest
-    be-tarask: Рыдэрз Дайджэсі
+    be_tarask: Рыдэрз Дайджэсі
     ca: Reader's Digest
     cs: Reader's Digest
     da: Det Bedste
     de: Reader’s Digest
     el: Reader's Digest
     en: Reader's Digest
-    en-gb: Reader's Digest
+    en_gb: Reader's Digest
     eo: Reader’s Digest
     es: Reader's Digest
     eu: Reader's Digest
@@ -98,7 +98,7 @@ dv_has_:
     pl: Reader's Digest
     pnb: ریڈرز ڈائجسٹ
     pt: Seleções
-    pt-br: Seleções
+    pt_br: Seleções
     ro: Reader's Digest
     ru: Ридерз Дайджест
     sr: Ридерс дајџест
@@ -111,12 +111,12 @@ dv_has_:
     ur: ریڈرز ڈائجسٹ
     vi: Reader's Digest
     zh: 读者文摘
-    zh-cn: 读者文摘
-    zh-hans: 读者文摘
-    zh-hant: 讀者文摘
-    zh-hk: 讀者文摘
-    zh-sg: 读者文摘
-    zh-tw: 讀者文摘
+    zh_cn: 读者文摘
+    zh_hans: 读者文摘
+    zh_hant: 讀者文摘
+    zh_hk: 讀者文摘
+    zh_sg: 读者文摘
+    zh_tw: 讀者文摘
 ---
 # [[Reader's_Digest]] 
 

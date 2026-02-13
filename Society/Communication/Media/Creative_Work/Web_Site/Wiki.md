@@ -99,7 +99,7 @@ dv_has_:
     bar: Wiki
     bcl: Wiki
     be: Вікі
-    be-tarask: вікі
+    be_tarask: вікі
     bg: Уики
     bjn: Wiki
     bm: Wiki
@@ -114,7 +114,7 @@ dv_has_:
     cv: Вики
     cy: Wici
     de: Wiki
-    de-ch: Wiki
+    de_ch: Wiki
     diq: Wiki
     en: wiki
     eo: vikio
@@ -149,7 +149,7 @@ dv_has_:
     ks: وِکی
     ksh: Wikki
     ku: Wîkî
-    ku-latn: wîkî
+    ku_latn: wîkî
     ky: вики
     la: vici
     lb: Wiki
@@ -165,7 +165,7 @@ dv_has_:
     ml: വിക്കി
     mn: Вики
     mr: विकी
-    ms-arab: ويکي
+    ms_arab: ويکي
     mul: wiki
     my: ဝီကီ
     mzn: ویکی
@@ -204,7 +204,7 @@ dv_has_:
     tly: Viki
     tok: nasin Wiki
     tr: viki
-    tt-cyrl: вики
+    tt_cyrl: вики
     uk: вікі
     ur: ویکی
     uz: viki

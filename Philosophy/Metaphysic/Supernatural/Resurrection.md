@@ -98,7 +98,7 @@ dv_has_:
     ar: البعث بعد الموت
     ast: Resurrección
     be: уваскрэсенне з мёртвых
-    be-tarask: уваскрасеньне
+    be_tarask: уваскрасеньне
     bg: Възкресение
     bn: পুনরুত্থান
     br: Dasorc'hidigezh
@@ -155,8 +155,8 @@ dv_has_:
     sl: resurekcija
     sq: Ringjallja
     sr: Васкрсење
-    sr-ec: Васкрсење
-    sr-el: Vaskrsenje
+    sr_ec: Васкрсење
+    sr_el: Vaskrsenje
     sv: uppståndelse
     sw: Ufufuko
     tl: Muling pagkabuhay
@@ -166,12 +166,12 @@ dv_has_:
     vi: Phục sinh
     yue: 復活
     zh: 復活
-    zh-cn: 复活
-    zh-hans: 复活
-    zh-hant: 復活
-    zh-hk: 復活
-    zh-sg: 复活
-    zh-tw: 復活
+    zh_cn: 复活
+    zh_hans: 复活
+    zh_hant: 復活
+    zh_hk: 復活
+    zh_sg: 复活
+    zh_tw: 復活
 ---
 # [[Resurrection]] 
 

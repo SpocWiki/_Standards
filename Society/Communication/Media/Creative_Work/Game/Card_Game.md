@@ -139,7 +139,7 @@ dv_has_:
     azb: ورق اویونو
     bar: Kortnspui
     be: гульня ў карты
-    be-tarask: картавая гульня
+    be_tarask: картавая гульня
     bg: игра с карти
     bn: কার্ড খেলা
     ca: joc de cartes
@@ -184,7 +184,7 @@ dv_has_:
     mk: игра со карти
     ml: ചീട്ടുകളി
     ms: permainan terup
-    ms-arab: ڤرماءينن تروڤ
+    ms_arab: ڤرماءينن تروڤ
     nah: āmapatōlli
     nb: kortspill
     nl: kaartspel
@@ -193,7 +193,7 @@ dv_has_:
     pdc: Kaardeschpiel
     pl: gra karciana
     pt: jogo de cartas
-    pt-br: jogo de cartas
+    pt_br: jogo de cartas
     ro: joc de cărți
     ru: карточная игра
     sah: хаартылааһын
@@ -223,9 +223,9 @@ dv_has_:
     xal: көзр
     yue: 咭遊戲
     zh: 卡片遊戲
-    zh-cn: 卡牌游戏
-    zh-hant: 卡片遊戲
-    zh-tw: 卡片遊戲
+    zh_cn: 卡牌游戏
+    zh_hant: 卡片遊戲
+    zh_tw: 卡片遊戲
 ---
 # [[Card_Game]] 
 

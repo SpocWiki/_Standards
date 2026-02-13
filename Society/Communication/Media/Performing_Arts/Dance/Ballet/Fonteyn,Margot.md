@@ -89,17 +89,17 @@ dv_has_:
     ast: Margot Fonteyn
     ba: Фонтейн Марго
     be: Марго Фонтэйн
-    be-tarask: Марга Фантэйн
+    be_tarask: Марга Фантэйн
     bg: Марго Фонтейн
     ca: Margot Fonteyn
     cs: Margot Fonteynová
     da: Margot Fonteyn
     de: Margot Fonteyn
-    de-ch: Margot Fonteyn
+    de_ch: Margot Fonteyn
     el: Μαργκότ Φοντέιν
     en: Margot Fonteyn
-    en-ca: Margot Fonteyn
-    en-gb: Margot Fonteyn
+    en_ca: Margot Fonteyn
+    en_gb: Margot Fonteyn
     eo: Margot Fonteyn
     es: Margot Fonteyn
     et: Margot Fonteyn
@@ -134,7 +134,7 @@ dv_has_:
     oc: Margot Fonteyn
     pl: Margot Fonteyn
     pt: Margot Fonteyn
-    pt-br: Margot Fonteyn
+    pt_br: Margot Fonteyn
     ro: Margot Fonteyn
     ru: Марго Фонтейн
     sco: Margot Fonteyn
@@ -142,8 +142,8 @@ dv_has_:
     sl: Margot Fonteyn
     sq: Margot Fonteyn
     sr: Марго Фонтејн
-    sr-ec: Марго Фонтејн
-    sr-el: Margo Fontejn
+    sr_ec: Марго Фонтејн
+    sr_el: Margo Fontejn
     sv: Margot Fonteyn
     tr: Margot Fonteyn
     tt: Марго Фонтейн
@@ -153,12 +153,12 @@ dv_has_:
     wuu: 玛格·芳登
     yue: 瑪歌芳婷
     zh: 瑪格·芳登
-    zh-cn: 玛格·芳登
-    zh-hans: 玛格·芳登
-    zh-hant: 瑪格·芳登
-    zh-hk: 瑪歌·芳婷
-    zh-sg: 玛格·芳登
-    zh-tw: 瑪格·芳登
+    zh_cn: 玛格·芳登
+    zh_hans: 玛格·芳登
+    zh_hant: 瑪格·芳登
+    zh_hk: 瑪歌·芳婷
+    zh_sg: 玛格·芳登
+    zh_tw: 瑪格·芳登
 ---
 # [[Fonteyn,Margot]] 
 

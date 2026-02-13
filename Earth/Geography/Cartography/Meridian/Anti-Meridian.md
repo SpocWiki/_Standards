@@ -28,8 +28,8 @@ dv_has_:
     de: Antimeridian
     el: 180ός μεσημβρινός
     en: 180th meridian
-    en-ca: 180th meridian
-    en-gb: 180th meridian
+    en_ca: 180th meridian
+    en_gb: 180th meridian
     es: Meridiano 180
     et: 180° meridiaan
     fa: نصفالنهار ۱۸۰ درجه
@@ -47,13 +47,13 @@ dv_has_:
     nl: 180° meridiaan
     pl: południk 180°
     pt: Meridiano 180
-    pt-br: Meridiano 180
+    pt_br: Meridiano 180
     ru: 180-й меридиан
     sh: 180. meridijan
     sl: 180. poldnevnik
     sr: 180. меридијан
-    sr-ec: 180. меридијан
-    sr-el: 180. meridijan
+    sr_ec: 180. меридијан
+    sr_el: 180. meridijan
     th: เส้นเมริเดียนที่ 180 องศา
     tr: 180. meridyen
     uk: 180-й меридіан
@@ -61,9 +61,9 @@ dv_has_:
     wuu: 180度经线
     yue: 對向子午線
     zh: 180度经线
-    zh-hans: 180度经线
-    zh-hant: 180度經線
-    zh-hk: 180度經線
+    zh_hans: 180度经线
+    zh_hant: 180度經線
+    zh_hk: 180度經線
 aliases:
 - 180 रेखांश
 - 180-ci meridian

@@ -33,7 +33,7 @@ dv_has_:
     oc: Chrysiogenaceae
     pl: Chrysiogenaceae
     pt: Chrysiogenaceae
-    pt-br: Chrysiogenaceae
+    pt_br: Chrysiogenaceae
     ro: Chrysiogenaceae
     ru: Chrysiogenaceae
     sq: Chrysiogenaceae

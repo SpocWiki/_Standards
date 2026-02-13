@@ -45,7 +45,7 @@ dv_has_:
     az: Dəfnəçiçəklilər
     bcl: Laurales
     be: Лаўракветныя
-    be-tarask: Лаўракветныя
+    be_tarask: Лаўракветныя
     bg: лавроцветни
     bs: Laurales
     ca: Laurals
@@ -54,11 +54,11 @@ dv_has_:
     cs: vavřínotvaré
     da: Laurbær-ordenen
     de: Lorbeerartige
-    de-ch: Lorbeerartige
+    de_ch: Lorbeerartige
     el: Δαφνώδη
     en: Laurales
-    en-ca: Laurales
-    en-gb: Laurales
+    en_ca: Laurales
+    en_gb: Laurales
     eo: Laŭraloj
     es: Laurales
     et: Loorberipuulaadsed
@@ -97,7 +97,7 @@ dv_has_:
     oc: Laurales
     pl: wawrzynowce
     pt: Laurales
-    pt-br: Laurales
+    pt_br: Laurales
     ro: Laurales
     ru: лавроцветные
     sco: Laurales
@@ -113,9 +113,9 @@ dv_has_:
     war: Laurales
     yue: 樟目
     zh: 樟目
-    zh-cn: 樟目
-    zh-hans: 樟目
-    zh-hant: 樟目
+    zh_cn: 樟目
+    zh_hans: 樟目
+    zh_hant: 樟目
 ---
 ## Phylogeny 
 

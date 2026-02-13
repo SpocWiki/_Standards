@@ -50,10 +50,10 @@ dv_has_:
     da: Nepetoideae
     de: Nepetoideae
     de-at: Nepetoideae
-    de-ch: Nepetoideae
+    de_ch: Nepetoideae
     en: Nepetoideae
-    en-ca: Nepetoideae
-    en-gb: Nepetoideae
+    en_ca: Nepetoideae
+    en_gb: Nepetoideae
     eo: Nepetoideoj
     es: Nepetoideae
     et: Nepetoideae
@@ -92,7 +92,7 @@ dv_has_:
     nap: Nepetoideae
     nb: Nepetoideae
     nds: Nepetoideae
-    nds-nl: Nepetoideae
+    nds_nl: Nepetoideae
     nl: Nepetoideae
     nn: Nepetoideae
     nrm: Nepetoideae
@@ -102,7 +102,7 @@ dv_has_:
     pl: Nepetoideae
     pms: Nepetoideae
     pt: Nepetoideae
-    pt-br: Nepetoideae
+    pt_br: Nepetoideae
     rm: Nepetoideae
     ro: Nepetoideae
     ru: котовниковые
@@ -124,8 +124,8 @@ dv_has_:
     war: Nepetoideae
     wo: Nepetoideae
     zh: 荊芥亞科
-    zh-cn: 荊芥亚科
-    zh-hans: 荊芥亚科
+    zh_cn: 荊芥亚科
+    zh_hans: 荊芥亚科
     zu: Nepetoideae
 ---
 # [[Nepetoideae]] 

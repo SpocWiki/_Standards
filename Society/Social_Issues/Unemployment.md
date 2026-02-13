@@ -135,7 +135,7 @@ dv_has_:
     ba: Эшһеҙлек
     ban: Nganggur
     be: беспрацоўе
-    be-tarask: беспрацоўе
+    be_tarask: беспрацоўе
     bg: Безработица
     bho: बेरोजगारी
     bn: বেকারত্ব
@@ -151,8 +151,8 @@ dv_has_:
     de: Arbeitslosigkeit
     el: ανεργία
     en: unemployment
-    en-ca: unemployment
-    en-gb: unemployment
+    en_ca: unemployment
+    en_gb: unemployment
     eo: senlaboreco
     es: desempleo
     et: tööpuudus
@@ -221,8 +221,8 @@ dv_has_:
     so: Shaqo la'aan
     sq: papunësia
     sr: незапосленост
-    sr-ec: незапосленост
-    sr-el: nezaposlenost
+    sr_ec: незапосленост
+    sr_el: nezaposlenost
     sv: arbetslöshet
     ta: வேலைவாய்ப்பின்மை
     te: నిరుద్యోగం
@@ -242,9 +242,9 @@ dv_has_:
     yi: ארבעטסלאזיקײט
     yue: 失業
     zh: 失業
-    zh-hans: 失业
-    zh-hant: 失業
-    zh-tw: 失業
+    zh_hans: 失业
+    zh_hant: 失業
+    zh_tw: 失業
 ---
 # [[Unemployment]] 
 

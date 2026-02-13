@@ -94,7 +94,7 @@ dv_has_:
     ar: رحلان كهربي
     ast: Electroforesis
     az: Elektroforez
-    be-tarask: электрафарэз
+    be_tarask: электрафарэз
     bg: Електрофореза
     bs: Elektroforeza
     ca: electroforesi
@@ -122,11 +122,11 @@ dv_has_:
     ja: 電気泳動
     jv: Elektroforesis
     kk: Электрофорез
-    kk-arab: ەلەكتروفورەز
+    kk_arab: ەلەكتروفورەز
     kk-cn: ەلەكتروفورەز
-    kk-cyrl: Электрофорез
+    kk_cyrl: Электрофорез
     kk-kz: Электрофорез
-    kk-latn: Élektroforez
+    kk_latn: Élektroforez
     kk-tr: Élektroforez
     ko: 전기영동
     ky: Электрофорез
@@ -147,8 +147,8 @@ dv_has_:
     smn: elektroforees
     sms: elektroforeeʹs
     sr: електрофореза
-    sr-ec: Електрофореза
-    sr-el: Elektroforeza
+    sr_ec: Електрофореза
+    sr_el: Elektroforeza
     su: Éléktroforésis
     sv: elektrofores
     ta: மின்புலத் தூள்நகர்ச்சி
@@ -159,12 +159,12 @@ dv_has_:
     vi: Điện di
     yue: 電泳
     zh: 电泳
-    zh-cn: 电泳
-    zh-hans: 电泳
-    zh-hant: 電泳
-    zh-hk: 電泳
-    zh-sg: 电泳
-    zh-tw: 電泳
+    zh_cn: 电泳
+    zh_hans: 电泳
+    zh_hant: 電泳
+    zh_hk: 電泳
+    zh_sg: 电泳
+    zh_tw: 電泳
 ---
 # [[Electrophoresis]] 
 

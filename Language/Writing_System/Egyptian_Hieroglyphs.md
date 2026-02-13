@@ -142,7 +142,7 @@ dv_has_:
     ast: xeroglíficu exipciu
     az: Misir heroqlif yazısı
     be: Егіпецкія іерогліфы
-    be-tarask: эгіпецкія герогліфы
+    be_tarask: эгіпецкія герогліфы
     bg: Египетски йероглиф
     bho: मिस्र के हाइरोग्लिफ
     bjn: Hieroglif Mesir
@@ -158,8 +158,8 @@ dv_has_:
     diq: Hiyeroglifo Mısırki
     el: Αιγυπτιακά ιερογλυφικά
     en: Egyptian hieroglyphs
-    en-ca: Egyptian hieroglyphs
-    en-gb: Egyptian hieroglyphs
+    en_ca: Egyptian hieroglyphs
+    en_gb: Egyptian hieroglyphs
     eo: egiptaj hieroglifoj
     es: jeroglífico egipcio
     et: egiptuse hieroglüüfkiri
@@ -187,17 +187,17 @@ dv_has_:
     ja: ヒエログリフ
     ka: ეგვიპტური იეროგლიფები
     kk: Египет жазуы
-    kk-arab: ەگىيپەت جازۋى
+    kk_arab: ەگىيپەت جازۋى
     kk-cn: ەگىيپەت جازۋى
-    kk-cyrl: Египет жазуы
+    kk_cyrl: Египет жазуы
     kk-kz: Египет жазуы
-    kk-latn: Egïpet jazwı
+    kk_latn: Egïpet jazwı
     kk-tr: Egïpet jazwı
     ko: 신성문자
     ks: مِصری ہائروگلیفٕس
     ku: Hiyeroglîfên misrî
-    ku-arab: حیەرۆگلیفێن مسری
-    ku-latn: Hiyeroglîfên misrî
+    ku_arab: حیەرۆگلیفێن مسری
+    ku_latn: Hiyeroglîfên misrî
     ky: Иероглифтер теориясы
     la: Hieroglyphica Aegyptia
     lt: Egiptiečių hieroglifai
@@ -228,8 +228,8 @@ dv_has_:
     sms: hieroglyyf
     so: Masar hieroglyphs
     sr: египатски хијероглифи
-    sr-ec: Египатски хијероглифи
-    sr-el: Egipatski hijeroglifi
+    sr_ec: Египатски хијероглифи
+    sr_el: Egipatski hijeroglifi
     sv: egyptiska hieroglyfer
     sw: Hiroglifi
     ta: எகிப்திய மறைபொருட் குறியீடுகள்
@@ -246,12 +246,12 @@ dv_has_:
     xmf: ეგვიპტური იეროგლიფეფი
     yue: 聖書體
     zh: 聖書體
-    zh-cn: 圣书体
-    zh-hans: 圣书体
-    zh-hant: 聖書體
-    zh-hk: 聖書體
-    zh-sg: 圣书体
-    zh-tw: 聖書體
+    zh_cn: 圣书体
+    zh_hans: 圣书体
+    zh_hant: 聖書體
+    zh_hk: 聖書體
+    zh_sg: 圣书体
+    zh_tw: 聖書體
     zu: Izifenqo zaseGibhithe
 ---
 # [[Egyptian_Hieroglyphs]] 

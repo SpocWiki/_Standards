@@ -96,7 +96,7 @@ dv_has_:
     az: Reynolds ədədi
     ba: Рейнольдс һаны
     be: Лік Рэйнальдса
-    be-tarask: Лік Рэйнальдса
+    be_tarask: Лік Рэйнальдса
     bg: Критерий на Рейнолдс
     bn: রেনল্ডস সংখ্যা
     bs: Reynoldsov broj
@@ -105,11 +105,11 @@ dv_has_:
     cv: Рейнольдс хисепĕ
     da: Reynolds tal
     de: Reynolds-Zahl
-    de-ch: Reynolds-Zahl
+    de_ch: Reynolds-Zahl
     el: αριθμός Ρέινολντς
     en: Reynolds number
-    en-ca: Reynolds number
-    en-gb: Reynolds number
+    en_ca: Reynolds number
+    en_gb: Reynolds number
     eo: nombro de Reynolds
     es: número de Reynolds
     et: Reynoldsi arv
@@ -143,15 +143,15 @@ dv_has_:
     oc: Nombre de Reynolds
     pl: Liczba Reynoldsa
     pt: coeficiente de Reynolds
-    pt-br: coeficiente de Reynolds
+    pt_br: coeficiente de Reynolds
     ro: Număr Reynolds
     ru: Число Рейнольдса
     sh: Rejnoldsov broj
     sk: Reynoldsovo číslo
     sl: Reynoldsovo število
     sr: Рејнолдсов број
-    sr-ec: Рејнолдсов број
-    sr-el: Rejnoldsov broj
+    sr_ec: Рејнолдсов број
+    sr_el: Rejnoldsov broj
     sv: Reynoldstal
     ta: ரேய்னால்ட்ஸ் எண்
     tg: Адади Рейнолдс
@@ -163,12 +163,12 @@ dv_has_:
     wuu: 雷诺数
     yue: 雷諾數
     zh: 雷诺数
-    zh-cn: 雷诺数
-    zh-hans: 雷诺数
-    zh-hant: 雷諾數
-    zh-hk: 雷諾數
-    zh-sg: 雷诺数
-    zh-tw: 雷諾數
+    zh_cn: 雷诺数
+    zh_hans: 雷诺数
+    zh_hant: 雷諾數
+    zh_hk: 雷諾數
+    zh_sg: 雷诺数
+    zh_tw: 雷諾數
 ---
 # [[Reynolds_Number]] 
 

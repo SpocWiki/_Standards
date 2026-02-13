@@ -170,7 +170,7 @@ dv_has_:
     ast: Cristu Redentor
     az: İsa Məsihin heykəli
     be: Статуя Хрыста Выратавальніка
-    be-tarask: Хрыстос Збавіцель
+    be_tarask: Хрыстос Збавіцель
     bg: Статуя на Христос Спасителя
     bn: ক্রাইস্ট দ্য রিডিমার
     bs: Kip Krista Iskupitelja
@@ -229,7 +229,7 @@ dv_has_:
     pl: Pomnik Chrystusa Odkupiciela w Rio de Janeiro
     pnb: مسیح بچون والا
     pt: Cristo Redentor
-    pt-br: Cristo Redentor
+    pt_br: Cristo Redentor
     qu: Kristu Qispichiq wank'a
     ro: Cristos Mântuitorul
     ru: статуя Христа-Искупителя

@@ -107,7 +107,7 @@ dv_has_:
     azb: نیروانا
     bar: Nirvana
     be: Nirvana
-    be-tarask: Nirvana
+    be_tarask: Nirvana
     bg: Нирвана
     bn: নিরভানা
     br: Nirvana
@@ -124,8 +124,8 @@ dv_has_:
     el: Nirvana
     eml: Nirvana
     en: Nirvana
-    en-ca: Nirvana
-    en-gb: Nirvana
+    en_ca: Nirvana
+    en_gb: Nirvana
     eo: Nirvana
     es: Nirvana
     es-419: Nirvana
@@ -180,7 +180,7 @@ dv_has_:
     pl: Nirvana
     pms: Nirvana
     pt: Nirvana
-    pt-br: Nirvana
+    pt_br: Nirvana
     ro: Nirvana
     ru: Nirvana
     sa: निर्वाण
@@ -207,8 +207,8 @@ dv_has_:
     xmf: ნირვანა
     yue: 涅槃樂隊
     zh: 涅槃乐队
-    zh-cn: Nirvana；超脱乐团
-    zh-hant: Nirvana；超脫樂團
+    zh_cn: Nirvana；超脱乐团
+    zh_hant: Nirvana；超脫樂團
 ---
 # [[Nirvana(Band)]] 
 

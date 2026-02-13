@@ -221,7 +221,7 @@ venous_drainage: '[[_Standards/WikiData/WD~hepatic_vein,1578686]]'
 Wolfram_Language_entity_code: Entity["AnatomicalStructure", "Liver"]
 dv_has_:
   name_:
-    aeb-arab: كبدة
+    aeb_arab: كبدة
     af: lewer
     ak: brɛboɔ
     am: ጉበት
@@ -242,7 +242,7 @@ dv_has_:
     bcl: katoy
     bdr: Atay
     be: печань
-    be-tarask: печань
+    be_tarask: печань
     bew: Ati
     bg: черен дроб
     bn: যকৃৎ
@@ -263,14 +263,14 @@ dv_has_:
     da: lever
     dag: binsabili
     de: Leber
-    de-ch: Leber
+    de_ch: Leber
     diq: kezebe
     dv: ފުރަމޭ
     el: ήπαρ
     eml: fégghet
     en: liver
-    en-ca: liver
-    en-gb: liver
+    en_ca: liver
+    en_gb: liver
     eo: hepato
     es: hígado
     et: maks
@@ -366,7 +366,7 @@ dv_has_:
     pnt: ήπαρη
     ps: اينه
     pt: fígado
-    pt-br: fígado
+    pt_br: fígado
     qu: kukupin
     rn: Igitigu
     ro: ficat
@@ -409,7 +409,7 @@ dv_has_:
     tl: atay
     tr: karaciğer
     tt: бавыр
-    tt-cyrl: бавыр
+    tt_cyrl: бавыр
     udm: мус
     ug: جىگەر
     uk: печінка
@@ -429,8 +429,8 @@ dv_has_:
     za: daep
     zgh: ⵜⴰⵙⴰ
     zh: 肝臟
-    zh-hans: 肝脏
-    zh-hant: 肝臓
+    zh_hans: 肝脏
+    zh_hant: 肝臓
 ---
 # [[Liver]] 
 

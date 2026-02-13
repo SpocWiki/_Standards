@@ -54,7 +54,7 @@ dv_has_:
     af: Reuleaux-driehoek
     ar: مثلث رولو
     ast: Triángulu de Reuleaux
-    be-tarask: трыкутнік Рэлё
+    be_tarask: трыкутнік Рэлё
     ca: triangle de Reuleaux
     cs: Reuleauxův trojúhelník
     cv: Рёло виçкĕтеслĕхĕ
@@ -79,7 +79,7 @@ dv_has_:
     nl: reuleaux-driehoek
     pl: trójkąt Reuleaux
     pt: triângulo de Reuleaux
-    pt-br: triângulo de Reuleaux
+    pt_br: triângulo de Reuleaux
     ro: triunghi Reuleaux
     ru: треугольник Рёло
     sh: Reuleauxov trokut

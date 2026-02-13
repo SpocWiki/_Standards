@@ -181,7 +181,7 @@ dv_has_:
     azb: لیمان
     ban: Labuhan
     be: Порт
-    be-tarask: порт
+    be_tarask: порт
     bg: Пристанище
     bho: बंदरगाह
     bn: বন্দর
@@ -198,8 +198,8 @@ dv_has_:
     diq: Hebur
     el: λιμάνι
     en: port
-    en-ca: port
-    en-gb: port
+    en_ca: port
+    en_gb: port
     eo: haveno
     es: puerto
     et: sadam
@@ -248,7 +248,7 @@ dv_has_:
     mn: боомт
     mr: बंदर
     ms: pelabuhan
-    ms-arab: ڤلابوهن
+    ms_arab: ڤلابوهن
     mul: port
     my: ဆိပ်ကမ်း
     nah: Tzacuapanyan
@@ -268,7 +268,7 @@ dv_has_:
     pl: port wodny
     pnb: سمندری اڈا
     pt: porto
-    pt-br: porto
+    pt_br: porto
     qu: Wamp'urani
     rmy: Banderi
     ro: port
@@ -286,8 +286,8 @@ dv_has_:
     so: Dekad
     sq: Limani
     sr: лука
-    sr-ec: лука
-    sr-el: luka
+    sr_ec: лука
+    sr_el: luka
     sv: hamn
     sw: Bandari asilia
     szl: Wodno hawyna
@@ -299,7 +299,7 @@ dv_has_:
     tl: Daungan
     tr: liman
     tt: порт
-    tt-cyrl: порт
+    tt_cyrl: порт
     uk: порт
     ur: بندرگاہ
     uz: Port
@@ -311,14 +311,14 @@ dv_has_:
     yi: פארט
     yue: 埠頭
     zh: 港口
-    zh-cn: 港口
-    zh-hans: 港口
-    zh-hant: 港口
-    zh-hk: 港口
-    zh-mo: 港口
+    zh_cn: 港口
+    zh_hans: 港口
+    zh_hant: 港口
+    zh_hk: 港口
+    zh_mo: 港口
     zh-my: 港口
-    zh-sg: 港口
-    zh-tw: 港口
+    zh_sg: 港口
+    zh_tw: 港口
 ---
 # [[Port]] 
 

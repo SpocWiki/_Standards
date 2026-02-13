@@ -50,7 +50,7 @@ dv_has_:
     ast: Chrysochloridae
     avk: wedemoleem
     be: Залатакратовыя
-    be-tarask: Златакратовыя
+    be_tarask: Златакратовыя
     bg: златни къртици
     br: Goz-aour
     ca: Talp daurat
@@ -58,10 +58,10 @@ dv_has_:
     cs: zlatokrtovití
     da: Guldmuldvarpe
     de: Goldmulle
-    de-ch: Goldmulle
+    de_ch: Goldmulle
     en: golden mole
-    en-ca: Golden mole
-    en-gb: golden mole
+    en_ca: Golden mole
+    en_gb: golden mole
     es: Chrysochloridae
     eu: Chrysochloridae
     fa: موش کور طلایی
@@ -91,7 +91,7 @@ dv_has_:
     oc: Chrysochloridae
     pl: złotokretowate
     pt: Chrysochloridae
-    pt-br: Chrysochloridae
+    pt_br: Chrysochloridae
     ro: Crizocloride
     ru: Златокроты
     sl: zlati krti
@@ -105,9 +105,9 @@ dv_has_:
     vi: Chrysochloridae
     war: Chrysochloridae
     zh: 金毛鼹科
-    zh-cn: 金毛鼴科
-    zh-hans: 金毛鼴科
-    zh-tw: 金毛鼴科
+    zh_cn: 金毛鼴科
+    zh_hans: 金毛鼴科
+    zh_tw: 金毛鼴科
 ---
 # [[Chrysochloridae]]
 

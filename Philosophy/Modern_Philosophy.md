@@ -58,7 +58,7 @@ dv_has_:
     ar: فلسفة حديثة
     az: Müasir fəlsəfə
     ba: Яңы дәүер фәлсәфәһе
-    be-tarask: навачасная філязофія
+    be_tarask: навачасная філязофія
     bg: Модерна философия
     bn: আধুনিক দর্শন
     bs: Moderna filozofija
@@ -103,8 +103,8 @@ dv_has_:
     vi: triết học hiện đại
     zgh: ⵜⴰⴼⵍⵙⴰⴼⵜ ⵜⴰⵜⵔⴰⵔⵜ
     zh: 近代哲學
-    zh-cn: 现代哲学
-    zh-hant: 現代哲學
+    zh_cn: 现代哲学
+    zh_hant: 現代哲學
 ---
 # [[Modern_Philosophy]] 
 

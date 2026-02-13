@@ -161,7 +161,7 @@ dv_has_:
     ba: Ҡаҙылма яғыулыҡ
     bcl: Fossil fuel
     be: выкапнёвае паліва
-    be-tarask: выкапнёвае паліва
+    be_tarask: выкапнёвае паліва
     bg: Фосилно гориво
     bn: জীবাশ্ম জ্বালানি
     br: Trelosk kondon
@@ -234,7 +234,7 @@ dv_has_:
     pnb: زمینی بالن
     ps: فوسیلي سونتوکي
     pt: combustível fóssil
-    pt-br: combustível fóssil
+    pt_br: combustível fóssil
     qu: Rumiyasqa rawrana
     ro: combustibil fosil
     ru: ископаемое топливо
@@ -260,7 +260,7 @@ dv_has_:
     tok: poki wawa pi ijo moli
     tr: fosil yakıt
     tt: казылма ягулык
-    tt-cyrl: казылма ягулык
+    tt_cyrl: казылма ягулык
     udm: музъемул эстӥськон
     uk: горючі корисні копалини
     ur: حفری ایندھن

@@ -118,7 +118,7 @@ dv_has_:
     ba: кавалерия
     bar: Kavallerie
     be: кавалерыя
-    be-tarask: кавалерыя
+    be_tarask: кавалерыя
     bg: кавалерия
     br: Marc'hegerezh
     bs: Konjica
@@ -131,12 +131,12 @@ dv_has_:
     cy: marchoglu
     da: kavaleri
     de: Kavallerie
-    de-ch: Kavallerie
+    de_ch: Kavallerie
     dsb: kawalerija
     el: Ιππικό
     en: cavalry
-    en-ca: Cavalry
-    en-gb: cavalry
+    en_ca: Cavalry
+    en_gb: cavalry
     eo: kavalerio
     es: caballería
     et: Ratsavägi
@@ -185,7 +185,7 @@ dv_has_:
     pl: kawaleria
     ps: سپاره عسکر / سمبال پوځ
     pt: cavalaria
-    pt-br: Cavalaria
+    pt_br: Cavalaria
     qu: Kawallu awqaq
     ro: cavalerie
     ru: кавалерия
@@ -195,8 +195,8 @@ dv_has_:
     sl: konjenica
     sq: Kalorësia
     sr: коњица
-    sr-ec: коњица
-    sr-el: konjica
+    sr_ec: коњица
+    sr_el: konjica
     sv: kavalleri
     sw: Askari farasi
     szl: kawaleryjŏ
@@ -214,9 +214,9 @@ dv_has_:
     wuu: 骑兵
     yue: 騎兵
     zh: 骑兵
-    zh-hans: 骑兵
-    zh-hant: 騎兵
-    zh-tw: 騎兵
+    zh_hans: 骑兵
+    zh_hant: 騎兵
+    zh_tw: 騎兵
 ---
 # [[Cavalry]] 
 

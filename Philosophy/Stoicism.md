@@ -126,13 +126,13 @@ dv_has_:
     az: stoaçılıq
     bcl: Estoysismo
     be: стаіцызм
-    be-tarask: стаіцызм
+    be_tarask: стаіцызм
     bg: Стоицизъм
     bn: বৈরাগ্যদর্শন
     br: Stoikegezh
     bs: Stoicizam
     ca: estoïcisme
-    cbk-zam: estoicismo
+    cbk_zam: estoicismo
     ceb: Estoysismo
     ckb: ستۆیسیزم
     cs: stoicismus
@@ -205,8 +205,8 @@ dv_has_:
     so: Qaayib
     sq: Stoicizmi
     sr: стоицизам
-    sr-ec: стоицизам
-    sr-el: stoicizam
+    sr_ec: стоицизам
+    sr_el: stoicizam
     stq: Stoa
     sv: Stoicism
     ta: உறுதிப்பாட்டுவாதம்

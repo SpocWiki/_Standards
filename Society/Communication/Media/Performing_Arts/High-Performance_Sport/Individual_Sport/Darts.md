@@ -77,7 +77,7 @@ dv_has_:
     azb: دارت
     bar: Spicka
     be: Дартс
-    be-tarask: дартс
+    be_tarask: дартс
     bg: Дартс
     br: biroùigoù
     bs: Pikado
@@ -121,7 +121,7 @@ dv_has_:
     mr: फाळफेक
     ms: baling damak
     nb: dart
-    nds-nl: darten
+    nds_nl: darten
     nl: darts
     pl: dart
     pt: dardos
@@ -132,8 +132,8 @@ dv_has_:
     sk: šípky
     sl: pikado
     sr: пикадо
-    sr-ec: пикадо
-    sr-el: pikado
+    sr_ec: пикадо
+    sr_el: pikado
     sv: dart
     th: เกมปาเป้า
     tl: darts
@@ -146,12 +146,12 @@ dv_has_:
     wuu: 飞镖
     yue: 飛鏢
     zh: 飛鏢
-    zh-cn: 飞镖
-    zh-hans: 飞镖
-    zh-hant: 飛鏢
-    zh-hk: 飛鏢
-    zh-sg: 飞镖
-    zh-tw: 飛鏢
+    zh_cn: 飞镖
+    zh_hans: 飞镖
+    zh_hant: 飛鏢
+    zh_hk: 飛鏢
+    zh_sg: 飞镖
+    zh_tw: 飛鏢
 ---
 # [[Darts]] 
 

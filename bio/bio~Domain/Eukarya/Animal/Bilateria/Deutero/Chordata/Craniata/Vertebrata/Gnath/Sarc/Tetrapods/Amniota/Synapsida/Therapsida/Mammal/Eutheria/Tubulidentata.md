@@ -82,9 +82,9 @@ dv_has_:
     vi: Tubulidentata
     war: Tubulidentata
     zh: 管齿目
-    zh-cn: 管齿目
-    zh-hans: 管齿目
-    zh-tw: 管齒目
+    zh_cn: 管齿目
+    zh_hans: 管齿目
+    zh_tw: 管齒目
 ---
 # [[Tubulidentata]] 
 

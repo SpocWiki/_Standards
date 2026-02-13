@@ -85,7 +85,7 @@ dv_has_:
     ast: grafiti
     az: qraffiti
     be: графіці
-    be-tarask: графіці
+    be_tarask: графіці
     bg: графити
     bn: গ্রাফিতি
     ca: grafit
@@ -97,8 +97,8 @@ dv_has_:
     diq: dêsnuşte
     el: γκράφιτι
     en: graffiti
-    en-ca: graffiti
-    en-gb: graffiti
+    en_ca: graffiti
+    en_gb: graffiti
     eo: grafitio
     es: grafiti
     et: grafiti
@@ -145,7 +145,7 @@ dv_has_:
     pnb: گریفٹی
     ps: ګرافيټي
     pt: grafito
-    pt-br: grafite
+    pt_br: grafite
     rki: ဂရဖတီအနုပညာ
     ro: graffiti
     ru: граффити
@@ -169,11 +169,11 @@ dv_has_:
     wuu: 涂鸦
     yue: 塗鴉
     zh: 塗鴉
-    zh-cn: 涂鸦艺术
-    zh-hans: 塗鴉
-    zh-hant: 塗鴉
-    zh-hk: 塗鴉
-    zh-tw: 塗鴉
+    zh_cn: 涂鸦艺术
+    zh_hans: 塗鴉
+    zh_hant: 塗鴉
+    zh_hk: 塗鴉
+    zh_tw: 塗鴉
 ---
 # [[Graffiti]] 
 

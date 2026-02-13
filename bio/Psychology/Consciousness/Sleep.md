@@ -206,7 +206,7 @@ dv_has_:
     bbc: Modom
     bcl: Torog
     be: сон
-    be-tarask: сон
+    be_tarask: сон
     bg: Сън
     bjn: Guring
     bn: ঘুম
@@ -286,7 +286,7 @@ dv_has_:
     nan: Khùn-bîn
     nb: søvn
     nds: Slaap
-    nds-nl: sleap
+    nds_nl: sleap
     ne: निद्रा
     new: न्ह्यः
     nl: slaap
@@ -299,7 +299,7 @@ dv_has_:
     pnb: نیندر
     ps: خوب
     pt: sono
-    pt-br: sono
+    pt_br: sono
     qu: Puñuy
     ro: somn
     ru: сон
@@ -329,7 +329,7 @@ dv_has_:
     tr: Uyku
     ts: Vurhongo
     tt: йокы
-    tt-cyrl: йокы
+    tt_cyrl: йокы
     tw: nna
     uk: сон
     ur: نیند
@@ -343,9 +343,9 @@ dv_has_:
     yue: 睏覺
     za: Ninz
     zh: 睡眠
-    zh-cn: 睡眠
-    zh-hk: 睡眠
-    zh-tw: 睡眠
+    zh_cn: 睡眠
+    zh_hk: 睡眠
+    zh_tw: 睡眠
 ---
 # [[Sleep]] 
 

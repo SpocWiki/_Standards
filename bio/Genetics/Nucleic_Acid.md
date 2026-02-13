@@ -129,7 +129,7 @@ dv_has_:
     ban: Asam nukleat
     bcl: nukleyikong asido
     be: нуклеінавыя кіслоты
-    be-tarask: нуклійная кісьля
+    be_tarask: нуклійная кісьля
     bg: нуклеинова киселина
     bn: নিউক্লিক অ্যাসিড
     bs: nukleinske kiseline
@@ -142,8 +142,8 @@ dv_has_:
     de: Nukleinsäuren
     el: νουκλεϊκά οξέα
     en: nucleic acids
-    en-ca: nucleic acid
-    en-gb: nucleic acid
+    en_ca: nucleic acid
+    en_gb: nucleic acid
     eo: nuklea acido
     es: ácido nucleico
     et: nukleiinhapped
@@ -174,7 +174,7 @@ dv_has_:
     ko: 핵산
     ks: نیوکِلیک اسیڈ
     ku: asîdên navikê
-    ku-latn: asîdên nukleyî
+    ku_latn: asîdên nukleyî
     ky: нуклеин кислотасы
     la: Acidum nucleicum
     lb: Nukleinsaier
@@ -194,7 +194,7 @@ dv_has_:
     pl: kwas nukleinowy
     ps: نوکلیک اسیډ
     pt: ácido nucleico
-    pt-br: ácido nucleico
+    pt_br: ácido nucleico
     ro: acid nucleic
     ru: нуклеиновая кислота
     rue: нуклеовы квасы
@@ -205,8 +205,8 @@ dv_has_:
     sl: nukleinska kislina
     sq: acidi nukleik
     sr: нуклеинска киселина
-    sr-ec: нуклеинске киселине
-    sr-el: nukleinske kiseline
+    sr_ec: нуклеинске киселине
+    sr_el: nukleinske kiseline
     stq: nukleinsüüren
     su: asam nukléat
     sv: nukleinsyra
@@ -225,12 +225,12 @@ dv_has_:
     wuu: 核酸
     yue: 核酸
     zh: 核酸
-    zh-cn: 核酸
-    zh-hans: 核酸
-    zh-hant: 核酸
-    zh-hk: 核酸
-    zh-sg: 核酸
-    zh-tw: 核酸
+    zh_cn: 核酸
+    zh_hans: 核酸
+    zh_hant: 核酸
+    zh_hk: 核酸
+    zh_sg: 核酸
+    zh_tw: 核酸
     zu: Isimunyundeni
 ---
 # [[Nucleic_Acid]] 

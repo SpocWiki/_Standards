@@ -5,7 +5,7 @@ dv_has_:
     ar: سيموس
     az: CMOS
     be: КМАП
-    be-tarask: КМАП
+    be_tarask: КМАП
     bg: CMOS
     bn: সিমস
     bs: CMOS
@@ -36,7 +36,7 @@ dv_has_:
     nn: CMOS
     pl: CMOS
     pt: CMOS
-    pt-br: CMOS
+    pt_br: CMOS
     ro: Semiconductor metal-oxid complementar
     ru: КМОП
     sh: CMOS
@@ -52,7 +52,7 @@ dv_has_:
     vi: CMOS
     wuu: 互补式金属氧化物半导体
     zh: CMOS
-    zh-hant: 互補金屬氧化物半導體隨機存儲器
+    zh_hant: 互補金屬氧化物半導體隨機存儲器
 aliases:
 - CMOS
 - complementary metal oxide semi-conductor

@@ -60,7 +60,7 @@ dv_has_:
     arz: ايائل مسكيه
     ast: Moschidae
     avk: nefasesatoleem
-    be-tarask: Кабаргавыя
+    be_tarask: Кабаргавыя
     bg: Кабаргови
     bo: གླ་བ།
     br: Karv-musk
@@ -109,7 +109,7 @@ dv_has_:
     oc: Moschus
     pl: Piżmowcowate
     pt: Moschidae
-    pt-br: Moschidae
+    pt_br: Moschidae
     ro: Moschidae
     ru: Кабарговые
     sa: कस्तूरिमृगः
@@ -127,12 +127,12 @@ dv_has_:
     yue: 麝科
     za: Duzseqyangh
     zh: 麝科
-    zh-cn: 麝科
-    zh-hans: 麝科
-    zh-hant: 麝科
-    zh-hk: 麝科
-    zh-sg: 麝科
-    zh-tw: 麝科
+    zh_cn: 麝科
+    zh_hans: 麝科
+    zh_hant: 麝科
+    zh_hk: 麝科
+    zh_sg: 麝科
+    zh_tw: 麝科
 ---
 # Moschidae
 

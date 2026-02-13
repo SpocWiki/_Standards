@@ -211,7 +211,7 @@ dv_has_:
     bar: Bichl
     bcl: bulod
     be: узгорак
-    be-tarask: узгорак
+    be_tarask: узгорак
     bg: хълм
     bho: पहाड़
     bn: পাহাড়
@@ -226,14 +226,14 @@ dv_has_:
     cy: bryn
     da: bakke
     de: Hügel
-    de-ch: Hügel
+    de_ch: Hügel
     diq: gedug
     dsb: górka
     dty: डाङो
     el: λόφος
     en: hill
-    en-ca: hill
-    en-gb: hill
+    en_ca: hill
+    en_gb: hill
     eo: monteto
     es: colina
     et: küngas
@@ -293,7 +293,7 @@ dv_has_:
     ml: കുന്ന്
     mr: टेकडी
     ms: bukit
-    ms-arab: بوکيت
+    ms_arab: بوکيت
     mt: għolja
     my: ကုန်း
     mzn: تپه
@@ -312,7 +312,7 @@ dv_has_:
     pap-aw: sero
     pl: wzgórze
     pt: colina
-    pt-br: morro
+    pt_br: morro
     ro: deal
     ru: холм
     rup: dzeanâ
@@ -325,8 +325,8 @@ dv_has_:
     sl: hrib
     sq: kodër
     sr: брдо
-    sr-ec: брдо
-    sr-el: brdo
+    sr_ec: брдо
+    sr_el: brdo
     su: pasir
     sv: kulle
     sw: kilima
@@ -334,14 +334,14 @@ dv_has_:
     ta: குன்று
     te: కొండ
     tg: теппа
-    tg-cyrl: теппа
-    tg-latn: teppa
+    tg_cyrl: теппа
+    tg_latn: teppa
     th: เนินเขา
     tl: burol
     tok: nena ma
     tr: tepe
     tt: калкулык
-    tt-cyrl: калкулык
+    tt_cyrl: калкулык
     udm: мувыр
     uk: пагорб
     ur: پہاڑی
@@ -358,9 +358,9 @@ dv_has_:
     yo: òkè
     yue: 山仔
     zh: 丘
-    zh-hans: 丘
-    zh-hant: 丘
-    zh-tw: 丘
+    zh_hans: 丘
+    zh_hant: 丘
+    zh_tw: 丘
 ---
 # [[Hill]] 
 

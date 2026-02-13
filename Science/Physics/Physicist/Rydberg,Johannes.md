@@ -73,7 +73,7 @@ dv_has_:
     ast: Johannes Rydberg
     azb: یوهانس ریدبرق
     be: Ёханес Роберт Рыдберг
-    be-tarask: Юганэс Рыдбэрг
+    be_tarask: Юганэс Рыдбэрг
     bg: Йоханес Ридберг
     ca: Johannes Robert Rydberg
     cs: Johannes Rydberg
@@ -106,14 +106,14 @@ dv_has_:
     pap: Janne Rydberg
     pl: Johannes Rydberg
     pt: Johannes Rydberg
-    pt-br: Johannes Rydberg
+    pt_br: Johannes Rydberg
     ru: Йоханнес Роберт Ридберг
     sh: Johannes Rydberg
     sl: Johannes Rydberg
     sq: Johannes Rydberg
     sr: Јоханес Ридберг
-    sr-ec: Јоханес Ридберг
-    sr-el: Johanes Ridberg
+    sr_ec: Јоханес Ридберг
+    sr_el: Johanes Ridberg
     sv: Janne Rydberg
     th: ยูฮันเนิส รีดแบร์ย
     tl: Johannes Rydberg
@@ -123,12 +123,12 @@ dv_has_:
     war: Johannes Rydberg
     yue: 約翰內斯·里德伯
     zh: 约翰内斯·里德伯
-    zh-cn: 约翰内斯·里德伯
-    zh-hans: 约翰内斯·里德伯
-    zh-hant: 約翰內斯·里德伯
-    zh-hk: 約翰內斯·里德伯
-    zh-sg: 约翰内斯·里德伯
-    zh-tw: 約翰內斯·里德伯
+    zh_cn: 约翰内斯·里德伯
+    zh_hans: 约翰内斯·里德伯
+    zh_hant: 約翰內斯·里德伯
+    zh_hk: 約翰內斯·里德伯
+    zh_sg: 约翰内斯·里德伯
+    zh_tw: 約翰內斯·里德伯
 ---
 # [[Rydberg,Johannes]] 
 

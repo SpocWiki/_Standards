@@ -142,7 +142,7 @@ dv_has_:
     awa: राइट भाई
     az: Rayt qardaşları
     be: Браты Райт
-    be-tarask: Райт
+    be_tarask: Райт
     bg: Братя Райт
     bn: রাইট ভ্রাতৃদ্বয়
     bo: ཆེས་ཐོག་མའི་གནམ་གྲུ་གསར་གཏོད་མཁན་
@@ -249,7 +249,7 @@ dv_has_:
     yi: רייט ברידער
     yue: 萊特兄弟
     zh: 莱特兄弟
-    zh-hant: 萊特兄弟
+    zh_hant: 萊特兄弟
 ---
 # [[Wright_Brothers]]  
 

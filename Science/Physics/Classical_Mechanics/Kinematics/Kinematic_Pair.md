@@ -43,7 +43,7 @@ dv_has_:
     ar: زوج كينماتي
     ast: Par cinemáticu
     be: кінематычная пара
-    be-tarask: кінэматычная пара
+    be_tarask: кінэматычная пара
     bg: Кинематична двойка
     ca: parell cinemàtic
     cs: kloub
@@ -72,7 +72,7 @@ dv_has_:
     uk: кінематична пара
     yue: 運動對
     zh: 結構節點
-    zh-cn: 运动副
+    zh_cn: 运动副
 ---
 # [[Kinematic_Pair]] 
 

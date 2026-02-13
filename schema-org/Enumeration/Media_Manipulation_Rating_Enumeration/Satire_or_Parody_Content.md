@@ -116,7 +116,7 @@ dv_has_:
     azb: طنز
     ba: Сатира
     be: сатыра
-    be-tarask: сатыра
+    be_tarask: сатыра
     bg: сатира
     br: flemmskrid
     bs: satira
@@ -158,11 +158,11 @@ dv_has_:
     ja: 風刺
     ka: სატირა
     kk: Сатира
-    kk-arab: ساتىيرا
+    kk_arab: ساتىيرا
     kk-cn: ساتىيرا
-    kk-cyrl: Сатира
+    kk_cyrl: Сатира
     kk-kz: Сатира
-    kk-latn: Satïra
+    kk_latn: Satïra
     kk-tr: Satïra
     kn: ವಿಡಂಬನೆ
     ko: 풍자
@@ -200,8 +200,8 @@ dv_has_:
     sl: satira
     sq: satirë
     sr: сатира
-    sr-ec: сатира
-    sr-el: satira
+    sr_ec: сатира
+    sr_el: satira
     sv: satir
     sw: Tashtiti
     ta: அங்கதம்
@@ -218,12 +218,12 @@ dv_has_:
     wuu: 讽刺
     yue: 諷刺
     zh: 讽刺
-    zh-cn: 讽刺
-    zh-hans: 讽刺
-    zh-hant: 諷刺
-    zh-hk: 諷刺
-    zh-sg: 讽刺
-    zh-tw: 諷刺
+    zh_cn: 讽刺
+    zh_hans: 讽刺
+    zh_hant: 諷刺
+    zh_hk: 諷刺
+    zh_sg: 讽刺
+    zh_tw: 諷刺
 ---
 # [[Satire_or_Parody_Content]] 
 

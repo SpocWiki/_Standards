@@ -48,7 +48,7 @@ dv_has_:
     ast: Fagales
     az: Fıstıqçiçəklilər
     be: Букакветныя
-    be-tarask: Букакветныя
+    be_tarask: Букакветныя
     bg: букоцветни
     bs: Fagales
     ca: Fagals
@@ -59,8 +59,8 @@ dv_has_:
     de: Buchenartige
     el: Φηγώδη
     en: Fagales
-    en-ca: Fagales
-    en-gb: Fagales
+    en_ca: Fagales
+    en_gb: Fagales
     eo: Fagaloj
     es: Fagales
     et: Pöögilaadsed
@@ -100,7 +100,7 @@ dv_has_:
     oc: Fagales
     pl: bukowce
     pt: Fagales
-    pt-br: Fagales
+    pt_br: Fagales
     ro: Fagales
     ru: букоцветные
     sco: Fagales
@@ -122,10 +122,10 @@ dv_has_:
     xmf: წიფურიშნერეფი
     yue: 殼斗目
     zh: 壳斗目
-    zh-cn: 壳斗目
-    zh-hans: 壳斗目
-    zh-hant: 壳斗目
-    zh-tw: 壳斗目
+    zh_cn: 壳斗目
+    zh_hans: 壳斗目
+    zh_hant: 壳斗目
+    zh_tw: 壳斗目
 ---
 # [[Fagales]] 
 

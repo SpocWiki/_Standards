@@ -109,8 +109,8 @@ dv_has_:
     wuu: 世界报
     yue: 世界報
     zh: 世界报
-    zh-cn: 世界报
-    zh-hant: 世界報 (法國)
+    zh_cn: 世界报
+    zh_hant: 世界報 (法國)
 ---
 # [[Le_Monde]] 
 

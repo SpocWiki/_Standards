@@ -73,7 +73,7 @@ dv_has_:
     arz: نبيت فوار
     ast: vinu esplumoso
     be: пеністае віно
-    be-tarask: пеністае віно
+    be_tarask: пеністае віно
     bg: Шумящо вино
     ca: vi escumós
     cs: sekt
@@ -125,11 +125,11 @@ dv_has_:
     yue: 汽酒
     zh: 汽酒
     zh-cn: 汽酒
-    zh-hans: 汽酒
-    zh-hant: 汽酒
-    zh-hk: 氣泡酒
-    zh-sg: 气泡酒
-    zh-tw: 氣泡酒
+    zh_hans: 汽酒
+    zh_hant: 汽酒
+    zh_hk: 氣泡酒
+    zh_sg: 气泡酒
+    zh_tw: 氣泡酒
 ---
 # [[Sparkling_wine]] 🍾 
 

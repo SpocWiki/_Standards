@@ -189,7 +189,7 @@ dv_has_:
     bbc: parmeaman video
     bcl: Kawat na bidyo
     be: камп’ютарная гульня
-    be-tarask: відэагульня
+    be_tarask: відэагульня
     bew: gim delengan
     bg: видеоигра
     bjn: pamainan vidio
@@ -204,13 +204,13 @@ dv_has_:
     cy: gêm fideo
     da: computerspil
     de: Computerspiel
-    de-ch: Computerspiel
+    de_ch: Computerspiel
     diq: kayê videoy
     el: βιντεοπαιχνίδι
     eml: videozùg
     en: video game
-    en-ca: video game
-    en-gb: video game
+    en_ca: video game
+    en_gb: video game
     eo: videoludo
     es: videojuego
     et: videomäng
@@ -269,7 +269,7 @@ dv_has_:
     mn: компьютер тоглоом
     mr: व्हिडिओ गेम
     ms: hibira
-    ms-arab: هيبيرا
+    ms_arab: هيبيرا
     mwl: jogo eiletrónico
     my: ဗွီဒီယိုဂိမ်း
     mzn: ویدئو کاء
@@ -277,7 +277,7 @@ dv_has_:
     nap: videojuoco
     nb: videospill
     nds: Computerspeel
-    nds-nl: videospel
+    nds_nl: videospel
     new: भिडियो गेम
     nl: computerspel
     nn: dataspel
@@ -290,7 +290,7 @@ dv_has_:
     pms: Videogieugh
     pnb: منظری لعبہ
     pt: jogo eletrónico
-    pt-br: jogo eletrônico
+    pt_br: jogo eletrônico
     qu: kuyuq rikch'a puklla
     rki: ကွန်ပျူတာဂိမ်း
     rm: gieu da video
@@ -312,7 +312,7 @@ dv_has_:
     so: ciyaar fiidiyoow
     sq: video lojë
     sr: видео-игра
-    sr-ec: видео-игра
+    sr_ec: видео-игра
     stq: Computerspil
     sv: datorspel
     sw: mchezo wa video
@@ -326,7 +326,7 @@ dv_has_:
     tok: musi ilo
     tr: video oyunu
     tt: компьютер уены
-    tt-cyrl: компьютер уены
+    tt_cyrl: компьютер уены
     udm: компьютер шудон
     ug: ئويۇن
     uk: відеогра
@@ -341,13 +341,13 @@ dv_has_:
     yo: fidio ere
     yue: 電視遊戲
     zh: 電子遊戲
-    zh-cn: 电子游戏
-    zh-hans: 电子游戏
-    zh-hant: 電子遊戲
-    zh-hk: 電子遊戲
-    zh-mo: 電子遊戲
-    zh-sg: 电子游戏
-    zh-tw: 電子遊戲
+    zh_cn: 电子游戏
+    zh_hans: 电子游戏
+    zh_hant: 電子遊戲
+    zh_hk: 電子遊戲
+    zh_mo: 電子遊戲
+    zh_sg: 电子游戏
+    zh_tw: 電子遊戲
 ---
 # [[Video_Game]] 
 

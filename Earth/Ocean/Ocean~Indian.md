@@ -515,7 +515,7 @@ dv_has_:
     bar: Indischa Ozean
     bcl: Kadagatan Indio
     be: Індыйскі акіян
-    be-tarask: Індыйскі акіян
+    be_tarask: Індыйскі акіян
     bew: Laotan Hindi
     bg: Индийски океан
     bho: हिन्द महासागर
@@ -534,7 +534,7 @@ dv_has_:
     ckb: ئۆقیانووسی ھیند
     co: Uceanu Indianu
     crh: İnd okeanı
-    crh-latn: İnd okeanı
+    crh_latn: İnd okeanı
     cs: Indický oceán
     cv: Инди океанĕ
     cy: Cefnfor India
@@ -547,8 +547,8 @@ dv_has_:
     dv: ހިންދު ކަނޑު
     el: Ινδικός Ωκεανός
     en: Indian Ocean
-    en-ca: Indian Ocean
-    en-gb: Indian Ocean
+    en_ca: Indian Ocean
+    en_gb: Indian Ocean
     eo: Hinda Oceano
     es: océano Índico
     et: India ookean
@@ -632,7 +632,7 @@ dv_has_:
     lzh: 印度洋
     mag: हिन्दमहासागर
     mai: हिन्द महासागर
-    map-bms: Samudra Hindia
+    map_bms: Samudra Hindia
     mdf: Индиянь океан
     mg: Ranomasimbe Indiana
     mi: Moana Īnia
@@ -643,7 +643,7 @@ dv_has_:
     mr: हिंदी महासागर
     mrj: Инди океан
     ms: Lautan Hindi
-    ms-arab: لاءوتن هيندي
+    ms_arab: لاءوتن هيندي
     mt: Oċean Indjan
     mwl: Ouceano Índico
     my: အိန္ဒိယသမုဒ္ဒရာ
@@ -654,7 +654,7 @@ dv_has_:
     nap: Oceano Indiano
     nb: Indiahavet
     nds: Indische Ozean
-    nds-nl: Indisken Oceaan
+    nds_nl: Indisken Oceaan
     ne: हिन्द महासागर
     new: हिन्द महासागर
     nl: Indische Oceaan
@@ -675,7 +675,7 @@ dv_has_:
     pnb: بحر ہند
     ps: هندي سمندر
     pt: Oceano Índico
-    pt-br: Oceano Índico
+    pt_br: Oceano Índico
     qu: Indiku mama qucha
     rm: Ocean indic
     ro: Oceanul Indian
@@ -716,7 +716,7 @@ dv_has_:
     tok: telo suli Insi
     tr: Hint Okyanusu
     tt: Һинд океаны
-    tt-cyrl: Һинд океаны
+    tt_cyrl: Һинд океаны
     ty: Moana ’inītia
     tyv: Индий океан
     udm: Индийской океан
@@ -742,10 +742,10 @@ dv_has_:
     zea: Indische Oceaon
     zgh: ⴰⴳⴰⵔⴰⵡ ⴰⵀⵉⵏⴷⵉ
     zh: 印度洋
-    zh-cn: 印度洋
-    zh-hans: 印度洋
-    zh-hant: 印度洋
-    zh-tw: 印度洋
+    zh_cn: 印度洋
+    zh_hans: 印度洋
+    zh_hant: 印度洋
+    zh_tw: 印度洋
 ---
 # [[Ocean~Indian]] 
 

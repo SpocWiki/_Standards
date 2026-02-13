@@ -177,8 +177,8 @@ dv_has_:
     kk: Запырангүл
     ko: 크로커스
     ku: Pîvok
-    ku-arab: پیڤۆک
-    ku-latn: Pîvok
+    ku_arab: پیڤۆک
+    ku_latn: Pîvok
     ky: Алатоо крокусу
     la: Crocus
     lb: Krokussen
@@ -197,7 +197,7 @@ dv_has_:
     pl: Szafran
     pnb: زعفران
     pt: crocus
-    pt-br: Crocus
+    pt_br: Crocus
     ro: Brândușă
     ru: шафран
     sgs: Šiepruons
@@ -206,7 +206,7 @@ dv_has_:
     sq: Crocus
     sv: krokussläktet
     tg: бойчечак
-    tg-latn: Bojcecak
+    tg_latn: Bojcecak
     tr: Çiğdem
     uk: Шафран
     vi: Crocus
@@ -215,12 +215,12 @@ dv_has_:
     wuu: 番红花属
     yue: 藏紅花屬
     zh: 番红花属
-    zh-cn: 番红花属
-    zh-hans: 番红花属
-    zh-hant: 番紅花屬
-    zh-hk: 番紅花屬
-    zh-sg: 番红花属
-    zh-tw: 番紅花屬
+    zh_cn: 番红花属
+    zh_hans: 番红花属
+    zh_hant: 番紅花屬
+    zh_hk: 番紅花屬
+    zh_sg: 番红花属
+    zh_tw: 番紅花屬
 ---
 # [[Crocus]] 
 

@@ -149,7 +149,7 @@ dv_has_:
     ast: materia escuro
     az: qaranlıq materiya
     be: цёмная матэрыя
-    be-tarask: цёмная матэрыя
+    be_tarask: цёмная матэрыя
     bg: тъмна материя
     bn: তমোপদার্থ
     bs: tamna materija
@@ -228,7 +228,7 @@ dv_has_:
     sk: tmavá hmota
     sl: temna snov
     sr: тамна материја
-    sr-ec: тамна материја
+    sr_ec: тамна материја
     sv: mörk materia
     sw: mata ya giza
     ta: கரும்பொருள்
@@ -246,7 +246,7 @@ dv_has_:
     yi: טונקעלע מאטעריע
     yue: 暗物質
     zh: 暗物质
-    zh-hant: 暗物質
+    zh_hant: 暗物質
 ---
 # [[Dark_Matter]] 
 

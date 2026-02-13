@@ -37,7 +37,7 @@ dv_has_:
     eu: ilunpeko fase
     gl: fase escura
     ko: 암반응
-    ku-latn: karlêkên neronahiyê
+    ku_latn: karlêkên neronahiyê
     ms: Kitaran Calvin
     ru: темновая фаза
     sl: temotna reakcija

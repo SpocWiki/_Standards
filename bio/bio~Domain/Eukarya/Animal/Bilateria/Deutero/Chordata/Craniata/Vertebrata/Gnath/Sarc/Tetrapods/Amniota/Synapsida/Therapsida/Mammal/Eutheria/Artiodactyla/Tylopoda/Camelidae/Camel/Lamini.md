@@ -36,7 +36,7 @@ dv_has_:
     oc: Lamini
     pl: Lamini
     pt: Lamini
-    pt-br: Lamini
+    pt_br: Lamini
     ro: Lamini
     ru: Lamini
     sk: Lama
@@ -47,10 +47,10 @@ dv_has_:
     vo: Lamini
     war: Lamini
     zh: 美洲驼族
-    zh-cn: 美洲驼族
-    zh-hans: 美洲驼族
-    zh-hant: 美洲駝
-    zh-hk: 美洲駝
+    zh_cn: 美洲驼族
+    zh_hans: 美洲驼族
+    zh_hant: 美洲駝
+    zh_hk: 美洲駝
 aliases:
 - Lama
 - Lama-eftigen

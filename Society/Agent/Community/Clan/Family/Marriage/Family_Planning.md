@@ -95,18 +95,18 @@ dv_has_:
     ar: تنظيم الأسرة
     ast: Planificación familiar
     az: Ailə planlaşdırılması
-    be-tarask: плянаваньне сям’і
+    be_tarask: плянаваньне сям’і
     bn: পরিবার পরিকল্পনা
     ca: planificació familiar
     cs: plánované rodičovství
     cy: cynllunio teulu
     de: Familienplanung
-    de-ch: Familienplanung
+    de_ch: Familienplanung
     dty: परिवार नियोजन
     el: οικογενειακός προγραμματισμός
     en: family planning
-    en-ca: Family planning
-    en-gb: family planning
+    en_ca: Family planning
+    en_gb: family planning
     eo: familiplanado
     es: planificación familiar
     eu: Familia-plangintza
@@ -140,7 +140,7 @@ dv_has_:
     pl: planowanie rodziny
     pnb: خاندانی منصوبہ بندی
     pt: planeamento familiar
-    pt-br: planejamento familiar
+    pt_br: planejamento familiar
     ro: planificare familială
     ru: планирование семьи
     sk: Plánované rodičovstvo
@@ -158,7 +158,7 @@ dv_has_:
     vi: Kế hoạch hóa gia đình
     yue: 計劃生育
     zh: 计划生育
-    zh-hans: 计划生育
+    zh_hans: 计划生育
 ---
 # [[Family_Planning]] 
 

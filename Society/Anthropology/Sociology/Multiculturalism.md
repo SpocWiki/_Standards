@@ -84,7 +84,7 @@ dv_has_:
     ast: multiculturalismo
     az: Multikulturalizm
     ba: Мультикультурализм
-    be-tarask: мультыкультуралізм
+    be_tarask: мультыкультуралізм
     bg: Мултикултурализъм
     ca: multiculturalisme
     cs: multikulturalismus
@@ -153,12 +153,12 @@ dv_has_:
     wuu: 多元文化主义
     yue: 多元文化主義
     zh: 多元文化政策
-    zh-cn: 多元文化政策
-    zh-hans: 多元文化政策
-    zh-hant: 多元文化政策
-    zh-hk: 多元文化政策
-    zh-sg: 多元文化政策
-    zh-tw: 多元文化政策
+    zh_cn: 多元文化政策
+    zh_hans: 多元文化政策
+    zh_hant: 多元文化政策
+    zh_hk: 多元文化政策
+    zh_sg: 多元文化政策
+    zh_tw: 多元文化政策
 ---
 # [[Multiculturalism]] 
 

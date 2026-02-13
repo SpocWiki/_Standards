@@ -65,7 +65,7 @@ dv_has_:
     ar: برنامج مسابقات
     ast: concursu de televisión
     az: teleoyun
-    be-tarask: тэлегульня
+    be_tarask: тэлегульня
     ca: concurs televisiu
     cs: soutěžní pořad
     cy: Sioe gêm
@@ -73,8 +73,8 @@ dv_has_:
     de: Spielshow
     el: τηλεπαιχνίδι
     en: game show
-    en-ca: game show
-    en-gb: game show
+    en_ca: game show
+    en_gb: game show
     eo: televida ludo
     es: programa de concurso
     et: telemäng
@@ -101,7 +101,7 @@ dv_has_:
     nn: Game show
     pl: teleturniej
     pt: concurso televisivo
-    pt-br: game show
+    pt_br: game show
     ro: emisiune-concurs
     ru: телеигра
     sh: Televizijska igra
@@ -112,18 +112,18 @@ dv_has_:
     th: เกมโชว์
     tr: oyun şovu
     tt: телеуен
-    tt-cyrl: телеуен
+    tt_cyrl: телеуен
     uk: телегра
     ur: گیم شو
     vi: trò chơi truyền hình
     wuu: 游戏节目
     yue: 遊戲節目
     zh: 遊戲節目
-    zh-cn: 游戏节目
-    zh-hans: 游戏节目
-    zh-hant: 遊戲節目
-    zh-hk: 遊戲節目
-    zh-tw: 遊戲節目
+    zh_cn: 游戏节目
+    zh_hans: 游戏节目
+    zh_hant: 遊戲節目
+    zh_hk: 遊戲節目
+    zh_tw: 遊戲節目
 ---
 # [[Game_Show]] 
 

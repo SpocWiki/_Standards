@@ -180,7 +180,7 @@ dv_has_:
     azb: اوشاق فلجی
     ba: Полиомиелит
     be: Поліяміэліт
-    be-tarask: поліяміэліт
+    be_tarask: поліяміэліт
     bg: Полиомиелит
     bn: পোলিও
     br: poliomyelitis
@@ -196,8 +196,8 @@ dv_has_:
     dv: ވާބަލި
     el: πολιομυελίτιδα
     en: poliomyelitis
-    en-ca: Poliomyelitis
-    en-gb: poliomyelitis
+    en_ca: Poliomyelitis
+    en_gb: poliomyelitis
     eo: poliomjelito
     es: poliomielitis
     et: Lastehalvatus
@@ -228,7 +228,7 @@ dv_has_:
     kn: ಪೋಲಿಯೊ
     ko: 소아마비
     ks: پولیو
-    ku-latn: îflîca zarokan
+    ku_latn: îflîca zarokan
     kw: Poliomyelitis
     ky: Полиомиелит
     la: Poliomyelitis
@@ -257,7 +257,7 @@ dv_has_:
     pnb: پولیو
     ps: ګوزڼ
     pt: poliomielite
-    pt-br: Poliomielite
+    pt_br: Poliomielite
     ro: poliomielită
     ru: полиомиелит
     sah: Полиомиелит
@@ -282,7 +282,7 @@ dv_has_:
     tl: Polyo
     tr: çocuk felci
     tt: палиямиилит
-    tt-cyrl: полиомиелит
+    tt_cyrl: полиомиелит
     udm: полиомиелит
     uk: поліомієліт
     ur: پولیو
@@ -297,9 +297,9 @@ dv_has_:
     yue: 小兒麻痺症
     za: bingh cizsuijveihcizyenz
     zh: 脊髓灰質炎
-    zh-cn: 脊髓灰质炎
-    zh-hans: 脊髓灰质炎
-    zh-hant: 脊髓灰質炎
+    zh_cn: 脊髓灰质炎
+    zh_hans: 脊髓灰质炎
+    zh_hant: 脊髓灰質炎
 ---
 # [[Poliomyelitis]] 
 

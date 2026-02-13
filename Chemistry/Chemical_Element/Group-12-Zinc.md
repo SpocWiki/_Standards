@@ -85,7 +85,7 @@ dv_has_:
     az: Dövri sistemin 12-ci qrupu
     ba: цинк төркөмсәһе
     ban: Datu golongan 12
-    be-tarask: падгрупа цынку
+    be_tarask: падгрупа цынку
     bg: група 12 на периодичната система
     bn: দ্বাদশ শ্রেণীর মৌল
     bs: 12. grupa hemijskih elemenata
@@ -132,8 +132,8 @@ dv_has_:
     so: Qaybta 12 ee curiye
     sq: Grupi i dymbëdhjetë i elementeve kimike
     sr: 12. група хемијских елемената
-    sr-ec: 12. група хемијских елемената
-    sr-el: 12. grupa hemijskih elemenata
+    sr_ec: 12. група хемијских елемената
+    sr_el: 12. grupa hemijskih elemenata
     sv: zinkgruppen
     sw: Elementi ya kundi la 12
     ta: நெடுங்குழு 12 தனிமங்கள்
@@ -144,12 +144,12 @@ dv_has_:
     wuu: 12族元素
     yue: 12族元素
     zh: 12族元素
-    zh-cn: 12族元素
-    zh-hans: 12族元素
-    zh-hant: 12族元素
-    zh-hk: 12族元素
-    zh-sg: 12族元素
-    zh-tw: 12族元素
+    zh_cn: 12族元素
+    zh_hans: 12族元素
+    zh_hant: 12族元素
+    zh_hk: 12族元素
+    zh_sg: 12族元素
+    zh_tw: 12族元素
 ---
 # [[Group-12-Zinc]] 
 

@@ -110,7 +110,7 @@ dv_has_:
     az: Sərvkimilər
     azb: سرو کیمیلر
     be: Кіпарысавыя
-    be-tarask: Кіпарысавыя
+    be_tarask: Кіпарысавыя
     bg: кипарисови
     bs: Cupressaceae
     ca: cupressàcies
@@ -167,7 +167,7 @@ dv_has_:
     pl: cyprysowate
     pnb: سرو ٹبر
     pt: Cupressaceae
-    pt-br: Cupressaceae
+    pt_br: Cupressaceae
     qu: Sipris yura rikch'aq ayllu
     ro: Cupressaceae
     ru: Кипарисовые
@@ -190,12 +190,12 @@ dv_has_:
     wuu: 柏科
     yue: 柏
     zh: 柏科
-    zh-cn: 柏科
-    zh-hans: 柏科
-    zh-hant: 柏科
-    zh-hk: 柏科
-    zh-sg: 柏科
-    zh-tw: 柏科
+    zh_cn: 柏科
+    zh_hans: 柏科
+    zh_hant: 柏科
+    zh_hk: 柏科
+    zh_sg: 柏科
+    zh_tw: 柏科
 ---
 # [[Cupressaceae]] 
 

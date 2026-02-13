@@ -110,7 +110,7 @@ dv_has_:
     da: Maurice Wilkins
     de: Maurice Wilkins
     en: Maurice Wilkins
-    en-gb: Maurice Wilkins
+    en_gb: Maurice Wilkins
     eo: Maurice Wilkins
     es: Maurice Wilkins
     et: Maurice Wilkins
@@ -146,7 +146,7 @@ dv_has_:
     pl: Maurice Wilkins
     pnb: مائورس ولکنز
     pt: Maurice Wilkins
-    pt-br: Maurice Wilkins
+    pt_br: Maurice Wilkins
     ro: Maurice Wilkins
     ru: Морис Уилкинс
     sa: मारीस् एच् विल्किन्स्
@@ -155,8 +155,8 @@ dv_has_:
     sl: Maurice Wilkins
     sq: Maurice Wilkins
     sr: Moris Vilkins
-    sr-ec: Морис Вилкинс
-    sr-el: Moris Vilkins
+    sr_ec: Морис Вилкинс
+    sr_el: Moris Vilkins
     sv: Maurice Wilkins
     sw: Maurice Wilkins
     th: มอริส วิลคินส์
@@ -170,12 +170,12 @@ dv_has_:
     xmf: მორის უილკინსი
     yo: Maurice Wilkins
     zh: 莫里斯·威尔金斯
-    zh-cn: 莫里斯·威尔金斯
-    zh-hans: 莫里斯·威尔金斯
-    zh-hant: 莫里斯·威爾金斯
-    zh-hk: 莫里斯·威爾金斯
-    zh-sg: 莫里斯·威尔金斯
-    zh-tw: 莫里斯·威爾金斯
+    zh_cn: 莫里斯·威尔金斯
+    zh_hans: 莫里斯·威尔金斯
+    zh_hant: 莫里斯·威爾金斯
+    zh_hk: 莫里斯·威爾金斯
+    zh_sg: 莫里斯·威尔金斯
+    zh_tw: 莫里斯·威爾金斯
 ---
 # [[Wilkins,Maurice]] 
 

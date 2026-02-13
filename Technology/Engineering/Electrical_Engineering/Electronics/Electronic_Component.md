@@ -97,7 +97,7 @@ dv_has_:
     ast: componente electrónicu
     azb: الکترونیکی قطعه
     bar: Listn elektrischa Bauelemente
-    be-tarask: электронны складнік
+    be_tarask: электронны складнік
     bg: Електронен компонент
     bn: ইলেকট্রনীয় যন্ত্রের উপাদান
     br: pezh elektronek
@@ -144,7 +144,7 @@ dv_has_:
     pl: element elektroniczny
     pms: Component eletrònich
     pt: componente eletrônico
-    pt-br: componente eletrônico
+    pt_br: componente eletrônico
     ro: component electronic
     ru: электронный компонент
     scn: cumpunenti elittrònicu
@@ -152,8 +152,8 @@ dv_has_:
     sk: elektronická súčiastka
     sl: elektronski element
     sr: електронска компонента
-    sr-ec: електронска компонента
-    sr-el: elektronska komponenta
+    sr_ec: електронска компонента
+    sr_el: elektronska komponenta
     sv: elektronisk komponent
     ta: மின்கூறு
     th: ชิ้นส่วนอิเล็กทรอนิกส์
@@ -166,14 +166,14 @@ dv_has_:
     yi: עלעקטרישער באשטאנדטייל
     yue: 電子零件
     zh: 电子元件
-    zh-cn: 电子元件
-    zh-hans: 电子元件
-    zh-hant: 電子元件
-    zh-hk: 電子元件
-    zh-mo: 電子元件
+    zh_cn: 电子元件
+    zh_hans: 电子元件
+    zh_hant: 電子元件
+    zh_hk: 電子元件
+    zh_mo: 電子元件
     zh-my: 电子元件
-    zh-sg: 电子元件
-    zh-tw: 電子元件
+    zh_sg: 电子元件
+    zh_tw: 電子元件
     zu: Isigcoyi samazuba
 ---
 # [[Electronic_Component]] 

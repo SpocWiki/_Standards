@@ -237,7 +237,7 @@ dv_has_:
     bar: Calcium
     bcl: Kalsyo
     be: Кальцый
-    be-tarask: вапень
+    be_tarask: вапень
     bg: калций
     bho: कैल्सियम
     blk: ကယ်လသီယမ်
@@ -256,12 +256,12 @@ dv_has_:
     cy: calsiwm
     da: calcium
     de: Calcium
-    de-ch: Calcium
+    de_ch: Calcium
     dv: ކެލްސިއަމް
     el: ασβέστιο
     en: calcium
-    en-ca: Calcium
-    en-gb: calcium
+    en_ca: Calcium
+    en_gb: calcium
     eo: kalcio
     es: calcio
     et: kaltsium
@@ -332,7 +332,7 @@ dv_has_:
     mr: कॅल्शियम
     mrj: Кальций
     ms: kalsium
-    ms-arab: کلسيوم
+    ms_arab: کلسيوم
     mt: kalċju
     my: ကယ်လဆီယမ်
     nah: Tenextepoztli
@@ -359,7 +359,7 @@ dv_has_:
     pnb: کیلشیم
     ps: کلسيم
     pt: cálcio
-    pt-br: cálcio
+    pt_br: cálcio
     qu: Isku q'illay
     ro: calciu
     ru: кальций
@@ -408,10 +408,10 @@ dv_has_:
     yue: 鈣
     zgh: ⴰⴽⴰⵍⵙⵢⵓⵎ
     zh: 鈣
-    zh-hans: 钙
-    zh-hant: 鈣
-    zh-hk: 鈣
-    zh-tw: 鈣
+    zh_hans: 钙
+    zh_hant: 鈣
+    zh_hk: 鈣
+    zh_tw: 鈣
     zu: UmCaphana
   number_of_:
     period: 4

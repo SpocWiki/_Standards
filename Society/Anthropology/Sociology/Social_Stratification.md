@@ -88,7 +88,7 @@ dv_has_:
     ast: Estratificación social
     az: Stratifikasiya
     ban: Stratifikasi sosial
-    be-tarask: сацыяльнае стратыфікацыя
+    be_tarask: сацыяльнае стратыфікацыя
     bg: Социална стратификация
     bn: সামাজিক স্তরবিন্যাস
     bs: Društveno raslojavanje
@@ -99,7 +99,7 @@ dv_has_:
     de: soziale Schichtung
     el: κοινωνική διαστρωμάτωση
     en: social stratification
-    en-gb: social stratification
+    en_gb: social stratification
     eo: socia tavoligo
     es: estratificación social
     et: sotsiaalne stratifikatsioon
@@ -119,9 +119,9 @@ dv_has_:
     ja: 社会階層
     kaa: jámiyetlik qatlamlasıw
     kk: Әлеуметтік стратификация
-    kk-arab: الەۋمەتتىك ستراتىيفىيكاتسىييا
-    kk-cyrl: Әлеуметтік стратификация
-    kk-latn: Älewmettik stratïfïkacïya
+    kk_arab: الەۋمەتتىك ستراتىيفىيكاتسىييا
+    kk_cyrl: Әлеуметтік стратификация
+    kk_latn: Älewmettik stratïfïkacïya
     ko: 사회 계층
     lt: visuomenės susisluoksniavimas
     lv: sabiedrības noslāņošanās
@@ -142,8 +142,8 @@ dv_has_:
     so: Kala-soocid bulsho
     sq: shtresim shoqëror
     sr: Друштвена стратификација
-    sr-ec: Друштвена стратификација
-    sr-el: Društvena stratifikacija
+    sr_ec: Друштвена стратификација
+    sr_el: Društvena stratifikacija
     sv: social stratifiering
     ta: social aratification
     tg: қишрбандӣ
@@ -154,9 +154,9 @@ dv_has_:
     vi: phân tầng xã hội
     yue: 社會階級
     zh: 社會階層
-    zh-hans: 社会阶层
-    zh-hant: 社會階層
-    zh-hk: 社會階層
+    zh_hans: 社会阶层
+    zh_hant: 社會階層
+    zh_hk: 社會階層
 ---
 # [[Social_Stratification]] 
 

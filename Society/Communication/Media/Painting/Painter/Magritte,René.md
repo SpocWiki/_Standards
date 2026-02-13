@@ -238,7 +238,7 @@ dv_has_:
     az: Rene Maqrit
     bar: René Magritte
     be: Рэнэ Магрыт
-    be-tarask: Рэнэ Магрыт
+    be_tarask: Рэнэ Магрыт
     bg: Рене Магрит
     bn: র্যনে মাগ্রিত
     br: René Magritte
@@ -250,11 +250,11 @@ dv_has_:
     cy: René Magritte
     da: René Magritte
     de-at: René Magritte
-    de-ch: René Magritte
+    de_ch: René Magritte
     ee: René Magritte
     el: Ρενέ Μαγκρίτ
-    en-ca: René Magritte
-    en-gb: René Magritte
+    en_ca: René Magritte
+    en_gb: René Magritte
     eo: René Magritte
     es: René Magritte
     et: René Magritte
@@ -306,7 +306,7 @@ dv_has_:
     nap: René Magritte
     nb: René Magritte
     nds: René Magritte
-    nds-nl: René Magritte
+    nds_nl: René Magritte
     nl: René Magritte
     nn: René Magritte
     nrm: René Magritte
@@ -315,7 +315,7 @@ dv_has_:
     pl: René Magritte
     pms: René Magritte
     pt: René Magritte
-    pt-br: René Magritte
+    pt_br: René Magritte
     rm: René Magritte
     ro: René Magritte
     ru: Рене Магритт
@@ -328,8 +328,8 @@ dv_has_:
     sl: René Magritte
     sq: René Magritte
     sr: Рене Магрит
-    sr-ec: Рене Магрит
-    sr-el: René Magritte
+    sr_ec: Рене Магрит
+    sr_el: René Magritte
     stq: René Magritte
     sv: René Magritte
     sw: René Magritte
@@ -345,9 +345,9 @@ dv_has_:
     wuu: 勒内·马格里特
     yue: 馬格列特
     zh: 雷內·馬格利特
-    zh-hant: 雷內·馬格利特
-    zh-hk: 雷尼·馬格列特
-    zh-tw: 雷內·馬格利特
+    zh_hant: 雷內·馬格利特
+    zh_hk: 雷尼·馬格列特
+    zh_tw: 雷內·馬格利特
     zu: René Magritte
 ---
 # [[Magritte,René]] 

@@ -107,7 +107,7 @@ dv_has_:
     az: Skeptisizm
     ba: Скептицизм
     be: скептыцызм
-    be-tarask: скептыцызм
+    be_tarask: скептыцызм
     bg: Скептицизъм
     bjn: Skeptisisme
     bn: সংশয়বাদ

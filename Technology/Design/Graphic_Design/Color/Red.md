@@ -255,7 +255,7 @@ Wolfram_Language_entity_code: Entity["Color", {"Crayola", "Red"}]
 OpenStreetMap_tag_or_key: Tag:colour=red
 dv_has_:
   name_:
-    aeb-arab: أحمر
+    aeb_arab: أحمر
     af: rooi
     am: ቀይ
     an: royo
@@ -277,7 +277,7 @@ dv_has_:
     bcl: pula
     bdr: darag
     be: чырвоны
-    be-tarask: чырвоны колер
+    be_tarask: чырвоны колер
     bg: червено
     bho: लाल
     bjn: habang
@@ -310,8 +310,8 @@ dv_has_:
     dty: रातो
     el: κόκκινο
     en: red
-    en-ca: red
-    en-gb: red
+    en_ca: red
+    en_gb: red
     en-us: red
     eo: ruĝo
     es: rojo
@@ -383,7 +383,7 @@ dv_has_:
     ltg: sorkans
     lv: sarkanā krāsa
     lzh: 赤
-    map-bms: abang
+    map_bms: abang
     mdf: якстерь
     mi: whero
     mk: црвена
@@ -392,7 +392,7 @@ dv_has_:
     mni: ꯑꯉꯥꯡꯕ
     mr: लाल
     ms: merah
-    ms-arab: ميره
+    ms_arab: ميره
     mt: aħmar
     mwl: burmeilho
     my: အနီရောင်
@@ -424,7 +424,7 @@ dv_has_:
     pnb: لال
     ps: سور
     pt: vermelho
-    pt-br: vermelho
+    pt_br: vermelho
     pwn: qudjidjilj
     qu: puka
     ro: roșu
@@ -452,8 +452,8 @@ dv_has_:
     so: gaduud
     sq: ngjyra e kuqe
     sr: црвена
-    sr-ec: црвена
-    sr-el: crvena
+    sr_ec: црвена
+    sr_el: crvena
     stq: Rood
     su: beureum
     sv: röd
@@ -473,8 +473,8 @@ dv_has_:
     tr: kırmızı
     ts: tshwuka
     tt: кызыл
-    tt-cyrl: кызыл
-    tt-latn: qızıl
+    tt_cyrl: кызыл
+    tt_latn: qızıl
     ty: ’ute’ute
     udm: горд
     ug: قىزىل رەڭ
@@ -495,14 +495,14 @@ dv_has_:
     yue: 紅
     za: saekhoengz
     zh: 紅色
-    zh-cn: 红色
-    zh-hans: 红色
-    zh-hant: 紅色
-    zh-hk: 紅色
-    zh-mo: 紅色
+    zh_cn: 红色
+    zh_hans: 红色
+    zh_hant: 紅色
+    zh_hk: 紅色
+    zh_mo: 紅色
     zh-my: 红色
-    zh-sg: 红色
-    zh-tw: 紅色
+    zh_sg: 红色
+    zh_tw: 紅色
     zu: Okubomvu
 ---
 # [[Red]] 

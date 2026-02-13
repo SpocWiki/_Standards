@@ -86,7 +86,7 @@ dv_has_:
     az: Orta Əsrlər fəlsəfəsi
     ba: Урта быуат фәлсәфәһе
     be: сярэдневяковая філасофія
-    be-tarask: сярэднявечная філязофія
+    be_tarask: сярэднявечная філязофія
     bg: Средновековна философия
     bn: মধ্যযুগীয় দর্শন
     bs: Srednjovjekovna filozofija
@@ -143,8 +143,8 @@ dv_has_:
     smn: koskâáigásâš filosofia
     sq: Filozofia mesjetare
     sr: средњовековна филозофија
-    sr-ec: Средњовековна филозофија
-    sr-el: Srednjovekovna filozofija
+    sr_ec: Средњовековна филозофија
+    sr_el: Srednjovekovna filozofija
     sv: medeltidens filosofi
     ta: மத்திய கால மெய்யியல்
     tr: Orta Çağ felsefesi
@@ -154,12 +154,12 @@ dv_has_:
     yue: 中世紀哲學
     zgh: ⵜⴰⴼⵍⵙⴰⴼⵜ ⵏ ⵜⵊⵕⵎⵉⵡⵉⵏ ⵜⵉⵏⴰⵎⵎⴰⵙⵉⵏ
     zh: 中世紀哲學
-    zh-cn: 中世纪哲学
-    zh-hans: 中世纪哲学
-    zh-hant: 中世紀哲學
-    zh-hk: 中世紀哲學
-    zh-sg: 中世纪哲学
-    zh-tw: 中世紀哲學
+    zh_cn: 中世纪哲学
+    zh_hans: 中世纪哲学
+    zh_hant: 中世紀哲學
+    zh_hk: 中世紀哲學
+    zh_sg: 中世纪哲学
+    zh_tw: 中世紀哲學
 ---
 # [[Medieval_Philosophy]] 
 

@@ -101,7 +101,7 @@ dv_has_:
     az: Evarist Qalua
     azb: اواریست قالوا
     be: Эварыст Галуа
-    be-tarask: Эварыст Галюа
+    be_tarask: Эварыст Галюа
     bg: Еварист Галоа
     bn: এভারিস্ত গালোয়া
     bs: Evariste Galois
@@ -114,8 +114,8 @@ dv_has_:
     de: Évariste Galois
     el: Εβαρίστ Γκαλουά
     en: Évariste Galois
-    en-ca: Évariste Galois
-    en-gb: Évariste Galois
+    en_ca: Évariste Galois
+    en_gb: Évariste Galois
     eo: Évariste Galois
     es: Évariste Galois
     et: Évariste Galois
@@ -163,7 +163,7 @@ dv_has_:
     pl: Évariste Galois
     pms: Évariste Galois
     pt: Évariste Galois
-    pt-br: Évariste Galois
+    pt_br: Évariste Galois
     ro: Évariste Galois
     ru: Эварист Галуа
     scn: Evariste Galois
@@ -189,7 +189,7 @@ dv_has_:
     yi: עוואריסט גאלוא
     yue: 伽羅華
     zh: 埃瓦里斯特·伽罗瓦
-    zh-cn: 埃瓦里斯特·伽罗瓦
+    zh_cn: 埃瓦里斯特·伽罗瓦
 ---
 # [[Galois,Évariste]] 
 

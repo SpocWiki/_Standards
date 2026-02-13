@@ -207,7 +207,7 @@ dv_has_:
     ban: Nitrogén
     bcl: Nitroheno
     be: азот
-    be-tarask: азот
+    be_tarask: азот
     bg: азот
     bho: नाइट्रोजन
     blk: နုဲက်ထရိုစဲန်
@@ -223,19 +223,19 @@ dv_has_:
     ckb: نایترۆجین
     co: Azotu
     crh: azot
-    crh-latn: Azot
+    crh_latn: Azot
     cs: dusík
     cv: Азот
     cy: nitrogen
     da: kvælstof
     de: Stickstoff
-    de-ch: Stickstoff
+    de_ch: Stickstoff
     diq: Azot
     dsb: dušyk
     el: άζωτο
     en: nitrogen
-    en-ca: nitrogen
-    en-gb: nitrogen
+    en_ca: nitrogen
+    en_gb: nitrogen
     eo: nitrogeno
     es: nitrógeno
     et: lämmastik
@@ -317,7 +317,7 @@ dv_has_:
     mr: नत्रवायू
     mrj: Азот
     ms: nitrogen
-    ms-arab: نيتروݢن
+    ms_arab: نيتروݢن
     mt: nitroġenu
     my: နိုက်ထရိုဂျင်
     myv: Азот
@@ -344,7 +344,7 @@ dv_has_:
     pnb: نائیٹروجن
     ps: نايتروجن
     pt: azoto
-    pt-br: nitrogênio
+    pt_br: nitrogênio
     qu: Qullpachaq
     ro: azot
     ru: азот
@@ -399,14 +399,14 @@ dv_has_:
     yo: Nítrójínì
     yue: 氮
     zh: 氮
-    zh-cn: 氮
-    zh-hans: 氮
-    zh-hant: 氮
-    zh-hk: 氮
-    zh-mo: 氮
+    zh_cn: 氮
+    zh_hans: 氮
+    zh_hant: 氮
+    zh_hk: 氮
+    zh_mo: 氮
     zh-my: 氮
-    zh-sg: 氮
-    zh-tw: 氮
+    zh_sg: 氮
+    zh_tw: 氮
     zu: I-Nitrogen
   number_of_:
     period: 2

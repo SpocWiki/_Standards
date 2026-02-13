@@ -117,8 +117,8 @@ dv_has_:
     sl: Leviatan
     sq: Leviatan
     sr: Левијатан
-    sr-ec: Левијатан
-    sr-el: Levijatan
+    sr_ec: Левијатан
+    sr_el: Levijatan
     sv: Leviatan
     ta: லெவியாதன்
     th: เลวีอาธาน
@@ -129,12 +129,12 @@ dv_has_:
     war: Leviatan
     yue: 海怪 (聖經)
     zh: 利维坦
-    zh-cn: 利维坦
-    zh-hans: 利维坦
-    zh-hant: 利維坦
-    zh-hk: 利維坦
-    zh-sg: 利维坦
-    zh-tw: 利維坦
+    zh_cn: 利维坦
+    zh_hans: 利维坦
+    zh_hant: 利維坦
+    zh_hk: 利維坦
+    zh_sg: 利维坦
+    zh_tw: 利維坦
 ---
 # [[Leviathan]] 
 

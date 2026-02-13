@@ -84,8 +84,8 @@ dv_has_:
     vec: White Christmas
     vi: White Christmas (bài hát)
     zh: 白色聖誕 (歌曲)
-    zh-hans: 白色圣诞节
-    zh-hant: 白色聖誕節
+    zh_hans: 白色圣诞节
+    zh_hant: 白色聖誕節
 ---
 # [[White_Christmas(song)]]
 

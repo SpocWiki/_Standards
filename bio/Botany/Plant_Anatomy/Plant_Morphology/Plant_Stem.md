@@ -122,7 +122,7 @@ dv_has_:
     azb: گؤوده (ساقه)
     bar: Schtengl
     be: сцябло
-    be-tarask: сьцябло
+    be_tarask: сьцябло
     bg: Стъбло
     bn: কাণ্ড
     bs: Stabljika
@@ -161,7 +161,7 @@ dv_has_:
     kn: ಕಾಂಡ
     ko: 줄기
     ku: Qed
-    ku-latn: qed
+    ku_latn: qed
     la: Caulis
     lt: stiebas
     lv: stumbrs
@@ -181,7 +181,7 @@ dv_has_:
     om: Jirma
     pl: łodyga
     pt: caule
-    pt-br: caule
+    pt_br: caule
     qu: Chillki
     ro: tulpină de plantă
     ru: стебель
@@ -194,8 +194,8 @@ dv_has_:
     sl: steblo
     sq: Kërcelli
     sr: Стабло
-    sr-ec: Стабло
-    sr-el: Stablo
+    sr_ec: Стабло
+    sr_el: Stablo
     sv: stjälk
     szy: akaway
     ta: தாவரத்தண்டு
@@ -212,12 +212,12 @@ dv_has_:
     wuu: 茎
     yue: 梗
     zh: 茎
-    zh-cn: 茎
-    zh-hans: 茎
-    zh-hant: 莖
-    zh-hk: 莖
-    zh-sg: 茎
-    zh-tw: 莖
+    zh_cn: 茎
+    zh_hans: 茎
+    zh_hant: 莖
+    zh_hk: 莖
+    zh_sg: 茎
+    zh_tw: 莖
 ---
 # [[Plant_Stem]] 
 

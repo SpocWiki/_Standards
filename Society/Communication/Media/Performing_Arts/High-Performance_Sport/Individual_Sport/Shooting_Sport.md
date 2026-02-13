@@ -111,7 +111,7 @@ dv_has_:
     az: güllə atıcılığı
     ba: атыу спорты
     be: стралковы спорт
-    be-tarask: стралковы спорт
+    be_tarask: стралковы спорт
     bg: спортна стрелба
     bn: লক্ষ্যভেদী ক্রীড়া
     br: sportoù tennañ
@@ -120,11 +120,11 @@ dv_has_:
     cs: sportovní střelba
     da: skydesport
     de: Sportschießen
-    de-ch: Sportschiessen
+    de_ch: Sportschiessen
     el: σκοποβολή
     en: shooting sports
-    en-ca: shooting sport
-    en-gb: shooting sport
+    en_ca: shooting sport
+    en_gb: shooting sport
     eo: pafada sporto
     es: tiro deportivo
     et: laskesport
@@ -168,7 +168,7 @@ dv_has_:
     pl: strzelectwo
     pnb: نشانیبازی
     pt: desportos de tiro
-    pt-br: tiro desportivo
+    pt_br: tiro desportivo
     ro: tir sportiv
     ru: стрелковый спорт
     se: báhčinvaláštallan
@@ -181,8 +181,8 @@ dv_has_:
     sms: pääččamsportt
     sq: qitja
     sr: стрељаштво
-    sr-ec: стрељаштво
-    sr-el: streljaštvo
+    sr_ec: стрељаштво
+    sr_el: streljaštvo
     sv: sportskytte
     ta: சுடுதல்
     tk: tüpeň atmak
@@ -195,12 +195,12 @@ dv_has_:
     wuu: 射击运动
     yue: 射擊
     zh: 射擊運動
-    zh-cn: 射击运动
-    zh-hans: 射击运动
-    zh-hant: 射擊運動
-    zh-hk: 射擊運動
-    zh-sg: 射击运动
-    zh-tw: 射擊運動
+    zh_cn: 射击运动
+    zh_hans: 射击运动
+    zh_hant: 射擊運動
+    zh_hk: 射擊運動
+    zh_sg: 射击运动
+    zh_tw: 射擊運動
 ---
 # [[Shooting_Sport]]
 

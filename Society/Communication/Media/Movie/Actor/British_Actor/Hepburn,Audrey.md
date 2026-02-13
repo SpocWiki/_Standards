@@ -188,7 +188,7 @@ dv_has_:
     bar: Audrey Hepburn
     bcl: Audrey Hepburn
     be: Одры Хепбёрн
-    be-tarask: Одры Гэпбэрн
+    be_tarask: Одры Гэпбэрн
     bg: Одри Хепбърн
     bm: Audrey Hepburn
     bn: অড্রি হেপবার্ন
@@ -203,14 +203,14 @@ dv_has_:
     da: Audrey Hepburn
     de: Audrey Hepburn
     de-at: Audrey Hepburn
-    de-ch: Audrey Hepburn
+    de_ch: Audrey Hepburn
     diq: Audrey Hepburn
     dsb: Audrey Hepburn
     dtp: Audrey Hepburn
     el: Όντρεϊ Χέπμπορν
     en: Audrey Hepburn
-    en-ca: Audrey Hepburn
-    en-gb: Audrey Hepburn
+    en_ca: Audrey Hepburn
+    en_gb: Audrey Hepburn
     eo: Audrey Hepburn
     es: Audrey Hepburn
     et: Audrey Hepburn
@@ -275,7 +275,7 @@ dv_has_:
     nap: Audrey Hepburn
     nb: Audrey Hepburn
     nds: Audrey Hepburn
-    nds-nl: Audrey Hepburn
+    nds_nl: Audrey Hepburn
     ne: अड्रे हेपबर्न
     new: अद्रि हेपबर्न
     nl: Audrey Hepburn
@@ -290,7 +290,7 @@ dv_has_:
     prg: Audrey Hepburn
     ps: اډري هپبورن
     pt: Audrey Hepburn
-    pt-br: Audrey Hepburn
+    pt_br: Audrey Hepburn
     qu: Audrey Hepburn
     rgn: Audrey Hepburn
     rm: Audrey Hepburn
@@ -306,7 +306,7 @@ dv_has_:
     smn: Audrey Hepburn
     sq: Audrey Hepburn
     sr: Одри Хепберн
-    sr-el: Audrey Hepburn
+    sr_el: Audrey Hepburn
     sv: Audrey Hepburn
     sw: Audrey Hepburn
     ta: ஆட்ரி ஹெப்பர்ன்
@@ -317,7 +317,7 @@ dv_has_:
     tr: Audrey Hepburn
     tt: Одри Хепбёрн
     ug: ئاۋدرېي خېپبۇن
-    ug-arab: ئاۋدرېي خېپبۇن
+    ug_arab: ئاۋدرېي خېپبۇن
     uk: Одрі Гепберн
     ur: آدرے ہیپبورن
     uz: Audrey Hepburn
@@ -334,9 +334,9 @@ dv_has_:
     yo: Audrey Hepburn
     yue: 柯德莉夏萍
     zh: 奥黛丽·赫本
-    zh-hans: 奥黛丽·赫本
-    zh-hant: 奧黛莉·赫本
-    zh-hk: 柯德莉‧夏萍
+    zh_hans: 奥黛丽·赫本
+    zh_hant: 奧黛莉·赫本
+    zh_hk: 柯德莉‧夏萍
     zh-my: 柯德莉·夏萍
     zu: Audrey Hepburn
 ---

@@ -133,7 +133,7 @@ dv_has_:
     azb: یای(اوخ یایی)
     ba: ян
     be: лук
-    be-tarask: лук
+    be_tarask: лук
     bg: лък
     br: gwareg
     ca: arc
@@ -196,7 +196,7 @@ dv_has_:
     my: လေး
     nan: keng
     nb: bue
-    nds-nl: pieleboge
+    nds_nl: pieleboge
     ne: धनुष बाण
     new: धनुष
     nl: boog
@@ -221,8 +221,8 @@ dv_has_:
     sn: uta
     so: qaanso
     sr: ратни лук
-    sr-ec: ратни лук
-    sr-el: ratni luk
+    sr_ec: ратни лук
+    sr_el: ratni luk
     su: gondéwa
     sv: pilbåge
     sw: upinde
@@ -244,9 +244,9 @@ dv_has_:
     yue: 弓
     za: gung
     zh: 弓
-    zh-cn: 弓
-    zh-hans: 弓
-    zh-hant: 弓
+    zh_cn: 弓
+    zh_hans: 弓
+    zh_hant: 弓
 ---
 # [[Bow]] 
 

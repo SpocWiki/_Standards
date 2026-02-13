@@ -155,7 +155,7 @@ dv_has_:
     azb: میل (اؤلچو بیریمی)
     ba: миль
     be: міля
-    be-tarask: міля
+    be_tarask: міля
     bg: миля
     bn: মাইল
     bs: milja
@@ -170,8 +170,8 @@ dv_has_:
     dv: މޭލު
     el: μίλι
     en: mile
-    en-ca: mile
-    en-gb: mile
+    en_ca: mile
+    en_gb: mile
     eo: mejlo
     es: milla
     et: miil
@@ -216,7 +216,7 @@ dv_has_:
     mnw: တိုင်
     mr: मैल
     ms: batu
-    ms-arab: باتو
+    ms_arab: باتو
     mt: mil
     my: မိုင်
     nan: eng-lí
@@ -229,7 +229,7 @@ dv_has_:
     pnb: میل
     ps: مایل
     pt: milha
-    pt-br: milha
+    pt_br: milha
     ro: milă
     ru: миля
     scn: migghiu
@@ -261,14 +261,14 @@ dv_has_:
     yo: máìlì
     yue: 哩
     zh: 英里
-    zh-cn: 英里
-    zh-hans: 英里
-    zh-hant: 英里
-    zh-hk: 哩
-    zh-mo: 哩
+    zh_cn: 英里
+    zh_hans: 英里
+    zh_hant: 英里
+    zh_hk: 哩
+    zh_mo: 哩
     zh-my: 哩
-    zh-sg: 哩
-    zh-tw: 英哩
+    zh_sg: 哩
+    zh_tw: 英哩
 ---
 # [[Unit~Mile]] 
 

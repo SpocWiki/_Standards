@@ -130,7 +130,7 @@ dv_has_:
     azb: کلاسیک مکانیک
     ba: классик механика
     be: класічная механіка
-    be-tarask: клясычная мэханіка
+    be_tarask: клясычная мэханіка
     bg: класическа механика
     bho: क्लासिकल मैकेनिक्स
     bn: চিরায়ত বলবিজ্ঞান
@@ -185,7 +185,7 @@ dv_has_:
     lv: klasiskā mehānika
     lzh: 經典力學
     mag: चिरसम्मत बलविज्ञान
-    map-bms: mekanika klasik
+    map_bms: mekanika klasik
     mk: класична механика
     ml: ഉദാത്തബലതന്ത്രം
     mn: сонгодог механик
@@ -205,7 +205,7 @@ dv_has_:
     pms: Mecànica clàssica
     pnb: کلاسیکل مکینکس
     pt: mecânica clássica
-    pt-br: mecânica clássica
+    pt_br: mecânica clássica
     ro: mecanică clasică
     ru: классическая механика
     rue: класічна механіка
@@ -242,8 +242,8 @@ dv_has_:
     yi: קלאסישע מעכאניק
     yue: 經典力學
     zh: 经典力学
-    zh-hans: 经典力学
-    zh-hant: 經典力學
+    zh_hans: 经典力学
+    zh_hant: 經典力學
 ---
 # [[Classical_Mechanics]] 
 

@@ -98,7 +98,7 @@ dv_has_:
     az: nüvə kimyası
     ba: ядро химияһы
     be: ядзерная хімія
-    be-tarask: ядзерная хімія
+    be_tarask: ядзерная хімія
     bg: ядрена химия
     bn: পারমাণবিক রসায়ন
     ca: química nuclear
@@ -128,15 +128,15 @@ dv_has_:
     jv: kimia nuklir
     ka: ბირთვული ქიმია
     kk: ядролық химия
-    kk-arab: يادرولىق حىيمىييا
+    kk_arab: يادرولىق حىيمىييا
     kk-cn: يادرولىق حىيمىييا
-    kk-cyrl: ядролық химия
+    kk_cyrl: ядролық химия
     kk-kz: ядролық химия
-    kk-latn: yadrolıq xïmïya
+    kk_latn: yadrolıq xïmïya
     kk-tr: yadrolıq xïmïya
     ko: 핵화학
     ku: kîmyaya nukleer
-    ku-latn: kîmyaya nukleer
+    ku_latn: kîmyaya nukleer
     la: chemia nuclearis
     lfn: cimica nucleal
     lv: kodolķīmija
@@ -167,12 +167,12 @@ dv_has_:
     vi: hóa học hạt nhân
     yue: 核化學
     zh: 核化学
-    zh-cn: 核化学
-    zh-hans: 核化学
-    zh-hant: 核化學
-    zh-hk: 核化學
-    zh-sg: 核化学
-    zh-tw: 核化學
+    zh_cn: 核化学
+    zh_hans: 核化学
+    zh_hant: 核化學
+    zh_hk: 核化學
+    zh_sg: 核化学
+    zh_tw: 核化學
 ---
 # [[Nuclear_Chemistry]] 
 

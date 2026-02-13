@@ -200,7 +200,7 @@ dv_has_:
     ban: Lanthanum
     bcl: Lantano
     be: Лантан
-    be-tarask: лянтан
+    be_tarask: лянтан
     bg: лантан
     bho: लैंथेनम
     bn: ল্যান্থানাম
@@ -219,7 +219,7 @@ dv_has_:
     de: Lanthan
     el: λανθάνιο
     en: lanthanum
-    en-gb: lanthanum
+    en_gb: lanthanum
     en-us: lanthanum
     eo: lantano
     es: lantano
@@ -296,7 +296,7 @@ dv_has_:
     pnb: لینتھانم
     ps: لانتېنيوم
     pt: lantânio
-    pt-br: lantânio
+    pt_br: lantânio
     qu: Lanthanu
     ro: lantan
     ru: лантан
@@ -316,7 +316,7 @@ dv_has_:
     so: Lanthanum
     sq: Lantani
     sr: лантан
-    sr-ec: лантан
+    sr_ec: лантан
     stq: Lanthan
     sv: lantan
     sw: Lanthani
@@ -339,11 +339,11 @@ dv_has_:
     yo: Lanthanum
     yue: 鑭
     zh: 鑭
-    zh-cn: 镧
-    zh-hans: 镧
-    zh-hant: 鑭
-    zh-hk: 鑭
-    zh-tw: 鑭
+    zh_cn: 镧
+    zh_hans: 镧
+    zh_hant: 鑭
+    zh_hk: 鑭
+    zh_tw: 鑭
     zu: ILalamthumbi
   number_of_:
     period:

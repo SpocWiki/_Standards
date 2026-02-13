@@ -101,11 +101,11 @@ dv_has_:
     cs: klokanovití
     da: Kænguruer
     de: Kängurus
-    de-ch: Kängurus
+    de_ch: Kängurus
     eml: Cangûr
     en: Macropodidae
-    en-ca: Macropodidae
-    en-gb: Macropodidae
+    en_ca: Macropodidae
+    en_gb: Macropodidae
     eo: Makropedoj
     es: Macropodidae
     et: Känguru
@@ -151,7 +151,7 @@ dv_has_:
     pap: kanguru
     pl: kangurowate
     pt: Macropodidae
-    pt-br: Macropodidae
+    pt_br: Macropodidae
     ro: Cangur
     ru: кенгуровые
     sco: Macropodidae
@@ -175,10 +175,10 @@ dv_has_:
     war: Macropodidae
     wuu: 袋鼠科
     zh: 袋鼠科
-    zh-cn: 袋鼠科
-    zh-hans: 袋鼠科
-    zh-hant: 袋鼠科
-    zh-tw: 袋鼠科
+    zh_cn: 袋鼠科
+    zh_hans: 袋鼠科
+    zh_hant: 袋鼠科
+    zh_tw: 袋鼠科
 ---
 # [[Macropodidae]] 
 

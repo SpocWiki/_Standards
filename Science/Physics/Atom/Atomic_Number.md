@@ -183,7 +183,7 @@ dv_has_:
     ban: Wilangan atom
     bar: Ordnungszoi
     be: Зарадавы лік
-    be-tarask: атамны лік
+    be_tarask: атамны лік
     bg: Атомен номер
     bn: পারমাণবিক সংখ্যা
     br: Niver atomek
@@ -198,8 +198,8 @@ dv_has_:
     de: Ordnungszahl
     el: ατομικός αριθμός
     en: atomic number
-    en-ca: atomic number
-    en-gb: atomic number
+    en_ca: atomic number
+    en_gb: atomic number
     eo: atomnumero
     es: número atómico
     et: aatomnumber
@@ -256,7 +256,7 @@ dv_has_:
     mn: Атомын дугаар
     mr: अणुक्रमांक
     ms: nombor atom
-    ms-arab: نومبور اتوم
+    ms_arab: نومبور اتوم
     mt: numru atomiku
     my: အက်တမ် အမှတ်စဉ်
     nan: Goân-chú-hoan
@@ -274,7 +274,7 @@ dv_has_:
     pnb: ایٹمی نمبر
     ps: اټومي عدد
     pt: número atómico
-    pt-br: número atômico
+    pt_br: número atômico
     qu: Iñuku ñiqi
     ro: număr atomic
     ru: зарядовое число
@@ -295,7 +295,7 @@ dv_has_:
     so: Tiro atam
     sq: Numri atomik
     sr: атомски број
-    sr-ec: атомски број
+    sr_ec: атомски број
     stq: Atomtaal
     su: Nomer atom
     sv: atomnummer
@@ -320,8 +320,8 @@ dv_has_:
     yo: Nọ́mbà átọ̀mù
     yue: 原子序數
     zh: 原子序數
-    zh-cn: 原子序数
-    zh-hk: 原子序數
+    zh_cn: 原子序数
+    zh_hk: 原子序數
     zu: Inani lobuchwe
 ---
 # [[Atomic_Number]] 

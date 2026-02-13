@@ -99,7 +99,7 @@ dv_has_:
     ast: CBS
     az: Columbia Broadcasting System
     be: CBS
-    be-tarask: CBS
+    be_tarask: CBS
     bg: Си Би Ес
     bn: সিবিএস
     bs: CBS
@@ -113,8 +113,8 @@ dv_has_:
     de: Columbia Broadcasting System
     el: CBS
     en: CBS
-    en-ca: CBS
-    en-gb: CBS
+    en_ca: CBS
+    en_gb: CBS
     eo: Columbia Broadcasting System
     es: CBS
     et: CBS
@@ -162,7 +162,7 @@ dv_has_:
     oc: Columbia Broadcasting System
     pl: CBS
     pt: CBS
-    pt-br: CBS
+    pt_br: CBS
     ro: CBS
     ru: CBS
     sah: CBS
@@ -185,7 +185,7 @@ dv_has_:
     tl: CBS
     tr: CBS
     tt: CBS
-    tt-cyrl: CBS
+    tt_cyrl: CBS
     uk: CBS
     ur: سی بی ایس
     uz: CBS
@@ -196,14 +196,14 @@ dv_has_:
     yi: סי בי עס
     yue: CBS
     zh: 哥倫比亞廣播公司
-    zh-cn: 哥伦比亚广播公司
-    zh-hans: 哥伦比亚广播公司
-    zh-hant: 哥倫比亞廣播公司
-    zh-hk: 哥倫比亞廣播公司
-    zh-mo: 哥倫比亞廣播公司
+    zh_cn: 哥伦比亚广播公司
+    zh_hans: 哥伦比亚广播公司
+    zh_hant: 哥倫比亞廣播公司
+    zh_hk: 哥倫比亞廣播公司
+    zh_mo: 哥倫比亞廣播公司
     zh-my: 哥倫比亞廣播公司
-    zh-sg: 哥倫比亞廣播公司
-    zh-tw: 哥倫比亞廣播公司
+    zh_sg: 哥倫比亞廣播公司
+    zh_tw: 哥倫比亞廣播公司
 ---
 # [[CBS(TV)]] 
 

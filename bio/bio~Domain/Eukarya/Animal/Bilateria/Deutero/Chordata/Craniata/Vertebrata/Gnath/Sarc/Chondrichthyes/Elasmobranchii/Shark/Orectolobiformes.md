@@ -93,7 +93,7 @@ dv_has_:
     pl: Dywanokształtne
     pnb: قلین شارک
     pt: Orectolobiformes
-    pt-br: Orectolobiformes
+    pt_br: Orectolobiformes
     ro: Orectolobiformes
     ru: воббегонгообразные
     sk: Kobercovcotvaré
@@ -108,9 +108,9 @@ dv_has_:
     vo: Orectolobiformes
     war: Orectolobiformes
     zh: 鬚鮫目
-    zh-cn: 须鲨目
-    zh-hans: 须鲨目
-    zh-tw: 鬚鮫目
+    zh_cn: 须鲨目
+    zh_hans: 须鲨目
+    zh_tw: 鬚鮫目
 ---
 # [[Orectolobiformes]] 
 

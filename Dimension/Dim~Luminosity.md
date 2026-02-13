@@ -86,7 +86,7 @@ dv_has_:
     ar: إضاءة
     ast: lluminosidá
     be: свяцільнасць
-    be-tarask: сьвяцільнасьць
+    be_tarask: сьвяцільнасьць
     bg: светимост
     bs: luminozitet
     ca: lluminositat
@@ -154,12 +154,12 @@ dv_has_:
     wuu: 光度
     yue: 天體光度
     zh: 光度
-    zh-cn: 光度
-    zh-hans: 光度
-    zh-hant: 光度
-    zh-hk: 光度
-    zh-sg: 光度
-    zh-tw: 光度
+    zh_cn: 光度
+    zh_hans: 光度
+    zh_hant: 光度
+    zh_hk: 光度
+    zh_sg: 光度
+    zh_tw: 光度
 ---
 # [[Dim~Luminosity]] 
 

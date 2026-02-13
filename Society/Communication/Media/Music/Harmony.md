@@ -73,7 +73,7 @@ dv_has_:
     ast: Harmonía
     az: Harmoniya
     be: Гармонія (музыка)
-    be-tarask: музычная гармонія
+    be_tarask: музычная гармонія
     bg: хармония
     bn: ঐকতান
     bpy: হার্মোনিয়া
@@ -104,11 +104,11 @@ dv_has_:
     it: armonia
     ja: 和声
     kk: Гармония
-    kk-arab: گارمونىييا
+    kk_arab: گارمونىييا
     kk-cn: گارمونىييا
-    kk-cyrl: Гармония
+    kk_cyrl: Гармония
     kk-kz: Гармония
-    kk-latn: Garmonïya
+    kk_latn: Garmonïya
     kk-tr: Garmonïya
     kn: ಸ್ವರ ಸಾಮರಸ್ಯ
     ko: 화성
@@ -130,8 +130,8 @@ dv_has_:
     sl: harmonija
     sq: Harmonia
     sr: Музичка хармонија
-    sr-ec: Музичка хармонија
-    sr-el: Muzička harmonija
+    sr_ec: Музичка хармонија
+    sr_el: Muzička harmonija
     sv: Harmoni
     te: ఏకస్వరం
     tg: Гармония (мусиқӣ)
@@ -145,12 +145,12 @@ dv_has_:
     wuu: 和声
     yue: 和音
     zh: 和声
-    zh-cn: 和声
-    zh-hans: 和声
-    zh-hant: 和聲
-    zh-hk: 和聲
-    zh-sg: 和声
-    zh-tw: 和聲
+    zh_cn: 和声
+    zh_hans: 和声
+    zh_hant: 和聲
+    zh_hk: 和聲
+    zh_sg: 和声
+    zh_tw: 和聲
 ---
 # [[Harmony]] 
 

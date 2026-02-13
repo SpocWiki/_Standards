@@ -128,7 +128,7 @@ dv_has_:
     az: Edvard Teller
     azb: ادوارد تلر
     be: Эдвард Тэлер
-    be-tarask: Эдўард Тэлер
+    be_tarask: Эдўард Тэлер
     bg: Едуард Телер
     bn: এডওয়ার্ড টেলার
     bs: Edward Teller
@@ -140,8 +140,8 @@ dv_has_:
     de: Edward Teller
     el: Έντουαρντ Τέλερ
     en: Edward Teller
-    en-ca: Edward Teller
-    en-gb: Edward Teller
+    en_ca: Edward Teller
+    en_gb: Edward Teller
     eo: Edward Teller
     es: Edward Teller
     et: Edward Teller
@@ -185,7 +185,7 @@ dv_has_:
     pnb: ایڈورڈ ٹیلر
     ps: اېډوارډ ټېللر
     pt: Edward Teller
-    pt-br: Edward Teller
+    pt_br: Edward Teller
     ro: Edward Teller
     ru: Эдвард Теллер
     sco: Edward Teller
@@ -194,7 +194,7 @@ dv_has_:
     sl: Edward Teller
     sq: Edward Teller
     sr: Едвард Телер
-    sr-ec: Едвард Телер
+    sr_ec: Едвард Телер
     sv: Edward Teller
     sw: Edward Teller
     ta: எட்வர்ட் டெல்லர்
@@ -208,8 +208,8 @@ dv_has_:
     xmf: ედვარდ ტელერი
     yue: 愛德華泰勒
     zh: 愛德華·泰勒
-    zh-cn: 爱德华·泰勒
-    zh-hans: 爱德华·泰勒
+    zh_cn: 爱德华·泰勒
+    zh_hans: 爱德华·泰勒
 ---
 # [[Teller,Edward]] 
 

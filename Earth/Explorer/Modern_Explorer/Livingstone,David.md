@@ -134,7 +134,7 @@ dv_has_:
     avk: David Livingstone
     az: David Livinqston
     be: Давід Лівінгстан
-    be-tarask: Дэйвід Лівінгстан
+    be_tarask: Дэйвід Лівінгстан
     bg: Дейвид Ливингстън
     bn: ডেভিড লিভিংস্টোন
     br: David Livingstone
@@ -143,11 +143,11 @@ dv_has_:
     cy: David Livingstone
     da: David Livingstone
     de: David Livingstone
-    de-ch: David Livingstone
+    de_ch: David Livingstone
     el: Ντέιβιντ Λίβινγκστον
     en: David Livingstone
-    en-ca: David Livingstone
-    en-gb: David Livingstone
+    en_ca: David Livingstone
+    en_gb: David Livingstone
     eo: David Livingstone
     es: David Livingstone
     et: David Livingstone
@@ -197,7 +197,7 @@ dv_has_:
     pl: David Livingstone
     pnb: ڈیوڈ لونگ اسٹون
     pt: David Livingstone
-    pt-br: David Livingstone
+    pt_br: David Livingstone
     ro: David Livingstone
     ru: Давид Ливингстон
     sh: David Livingstone

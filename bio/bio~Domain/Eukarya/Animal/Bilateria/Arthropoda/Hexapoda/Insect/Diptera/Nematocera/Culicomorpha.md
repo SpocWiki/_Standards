@@ -41,11 +41,11 @@ dv_has_:
     da: Culicomorpha
     de: Culicomorpha
     de-at: Culicomorpha
-    de-ch: Culicomorpha
+    de_ch: Culicomorpha
     el: Κουλικόμορφα
     en: Culicomorpha
-    en-ca: Culicomorpha
-    en-gb: Culicomorpha
+    en_ca: Culicomorpha
+    en_gb: Culicomorpha
     eo: Culicomorpha
     es: Culicomorpha
     et: Culicomorpha
@@ -82,7 +82,7 @@ dv_has_:
     nap: Culicomorpha
     nb: Culicomorpha
     nds: Culicomorpha
-    nds-nl: Culicomorpha
+    nds_nl: Culicomorpha
     nl: Culicomorpha
     nn: Culicomorpha
     nrm: Culicomorpha
@@ -92,7 +92,7 @@ dv_has_:
     pl: Culicomorpha
     pms: Culicomorpha
     pt: Culicomorpha
-    pt-br: Culicomorpha
+    pt_br: Culicomorpha
     rm: Culicomorpha
     ro: Culicomorpha
     ru: Culicomorpha

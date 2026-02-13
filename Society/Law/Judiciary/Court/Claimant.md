@@ -53,7 +53,7 @@ dv_has_:
   name_:
     ar: مدع مدني
     be: ісцец
-    be-tarask: пазыўнік
+    be_tarask: пазыўнік
     bn: বাদী
     ca: querellant
     cs: žalobce
@@ -102,14 +102,14 @@ dv_has_:
     vi: nguyên đơn
     yue: 原告
     zh: 原告
-    zh-cn: 原告
-    zh-hans: 原告
-    zh-hant: 原告
-    zh-hk: 原告
-    zh-mo: 原告
+    zh_cn: 原告
+    zh_hans: 原告
+    zh_hant: 原告
+    zh_hk: 原告
+    zh_mo: 原告
     zh-my: 原告
-    zh-sg: 原告
-    zh-tw: 原告
+    zh_sg: 原告
+    zh_tw: 原告
 ---
 # [[Claimant]] 
 

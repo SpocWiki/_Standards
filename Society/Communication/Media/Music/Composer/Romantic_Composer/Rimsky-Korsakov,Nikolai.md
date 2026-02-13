@@ -166,22 +166,22 @@ dv_has_:
     az: Nikolay Rimski-Korsakov
     ba: Римский-Корсаков Николай Андреевич
     be: Мікалай Андрэевіч Рымскі-Корсакаў
-    be-tarask: Мікалай Рымскі-Корсакаў
+    be_tarask: Мікалай Рымскі-Корсакаў
     bg: Николай Римски-Корсаков
     br: Nikolay Rimskiy-Korsakov
     bs: Nikolaj Rimski-Korsakov
     ca: Nikolai Rimski-Kórsakov
-    cbk-zam: Nikolái Rimski-Kórsakov
+    cbk_zam: Nikolái Rimski-Kórsakov
     ckb: نیکۆلای ڕیمسکی-کۆرساکۆڤ
     cs: Nikolaj Andrejevič Rimskij-Korsakov
     cy: Nikolai Rimsky-Korsakov
     da: Nikolaj Rimskij-Korsakov
     de: Nikolai Andrejewitsch Rimski-Korsakow
-    de-ch: Nikolai Andrejewitsch Rimski-Korsakow
+    de_ch: Nikolai Andrejewitsch Rimski-Korsakow
     el: Νικολάι Ρίμσκι-Κόρσακοφ
     en: Nikolai Rimsky-Korsakov
-    en-ca: Nikolai Rimsky-Korsakov
-    en-gb: Nikolai Rimsky-Korsakov
+    en_ca: Nikolai Rimsky-Korsakov
+    en_gb: Nikolai Rimsky-Korsakov
     en-us: Nikolai Rimsky-Korsakov
     eo: Nikolaj Rimskij-Korsakov
     es: Nikolái Rimski-Kórsakov
@@ -204,11 +204,11 @@ dv_has_:
     ja: ニコライ・リムスキー＝コルサコフ
     ka: ნიკოლოზ რიმსკი-კორსაკოვი
     kk: Николай Андреевич Римский-Корсаков
-    kk-arab: نىيكولاي اندرەيەۆىيتش رىيمسكىيي-كورساكوۆ
+    kk_arab: نىيكولاي اندرەيەۆىيتش رىيمسكىيي-كورساكوۆ
     kk-cn: نىيكولاي اندرەيەۆىيتش رىيمسكىيي-كورساكوۆ
-    kk-cyrl: Николай Андреевич Римский-Корсаков
+    kk_cyrl: Николай Андреевич Римский-Корсаков
     kk-kz: Николай Андреевич Римский-Корсаков
-    kk-latn: Nïkolaý Andreyevïç Rïmskïý-Korsakov
+    kk_latn: Nïkolaý Andreyevïç Rïmskïý-Korsakov
     kk-tr: Nïkolaý Andreyevïç Rïmskïý-Korsakov
     ko: 니콜라이 림스키코르사코프
     kw: Nikolai Rimsky-Korsakov
@@ -231,7 +231,7 @@ dv_has_:
     pl: Nikołaj Rimski-Korsakow
     ps: نیکولای ریمسکي - کورساکوف
     pt: Nikolai Rimsky-Korsakov
-    pt-br: Nikolai Rimsky-Korsakov
+    pt_br: Nikolai Rimsky-Korsakov
     qu: Nikolai Rimsky-Korsakov
     ro: Nikolai Andreevici Rimski-Korsakov
     ru: Николай Андреевич Римский-Корсаков
@@ -241,8 +241,8 @@ dv_has_:
     sl: Nikolaj Rimski-Korsakov
     sq: Nikolai Rimsky-Korsakov
     sr: Николај Римски-Корсаков
-    sr-ec: Николај Римски-Корсаков
-    sr-el: Nikolaj Rimski-Korsakov
+    sr_ec: Николај Римски-Корсаков
+    sr_el: Nikolaj Rimski-Korsakov
     sv: Nikolaj Rimskij-Korsakov
     sw: Nikolai Rimsky-Korsakov
     tg: Николай Андреевич Римский-Корсаков
@@ -256,12 +256,12 @@ dv_has_:
     xmf: ნიკოლოზ რიმსკი-კორსაკოვი
     yue: 林姆斯基高沙可夫
     zh: 尼古拉·安德烈耶維奇·里姆斯基-科薩科夫
-    zh-cn: 尼古拉·安德烈耶维奇·里姆斯基-科萨科夫
-    zh-hans: 尼古拉·安德烈耶维奇·里姆斯基-科萨科夫
-    zh-hant: 尼古拉·安德烈耶維奇·林姆斯基-高沙可夫
-    zh-hk: 尼古拉·安德烈耶維奇·林姆斯基-高沙可夫
-    zh-sg: 尼古拉·安德烈耶维奇·里姆斯基-科萨科夫
-    zh-tw: 尼古拉·安德烈耶維奇·林姆斯基-高沙可夫
+    zh_cn: 尼古拉·安德烈耶维奇·里姆斯基-科萨科夫
+    zh_hans: 尼古拉·安德烈耶维奇·里姆斯基-科萨科夫
+    zh_hant: 尼古拉·安德烈耶維奇·林姆斯基-高沙可夫
+    zh_hk: 尼古拉·安德烈耶維奇·林姆斯基-高沙可夫
+    zh_sg: 尼古拉·安德烈耶维奇·里姆斯基-科萨科夫
+    zh_tw: 尼古拉·安德烈耶維奇·林姆斯基-高沙可夫
 ---
 # [[Rimsky-Korsakov,Nikolai]] 
 

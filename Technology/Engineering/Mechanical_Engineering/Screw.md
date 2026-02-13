@@ -150,7 +150,7 @@ dv_has_:
     ba: Винт
     bar: Schraubn
     be: шруба
-    be-tarask: шруба
+    be_tarask: шруба
     bg: Винт
     bn: স্ক্রু
     bo: གཅུ་འཛེར།
@@ -190,7 +190,7 @@ dv_has_:
     ja: ねじ
     ka: ჭანჭიკი
     kk: Бұранда
-    kk-cyrl: Шуруп
+    kk_cyrl: Шуруп
     kn: ತಿರುಪು
     ko: 나사못
     kw: Trogenter
@@ -221,7 +221,7 @@ dv_has_:
     pms: Vis
     pnb: پیچ
     pt: parafuso
-    pt-br: parafuso
+    pt_br: parafuso
     qu: Pillinku
     ro: șurub
     ru: винт
@@ -233,8 +233,8 @@ dv_has_:
     sl: vijak
     sq: Vidhos
     sr: вијак
-    sr-ec: вијак
-    sr-el: vijak
+    sr_ec: вијак
+    sr_el: vijak
     sv: skruv
     sw: Parafujo
     ta: திருகாணி
@@ -244,7 +244,7 @@ dv_has_:
     tl: Tornilyo
     tr: Vida
     tt: винт
-    tt-cyrl: винт
+    tt_cyrl: винт
     udm: винты
     ug: ۋىنتا
     uk: гвинт
@@ -257,7 +257,7 @@ dv_has_:
     yi: שרויף
     yue: 螺絲
     zh: 螺絲
-    zh-hans: 螺丝
+    zh_hans: 螺丝
     zu: Isibhinyi
 ---
 # [[Screw]] 

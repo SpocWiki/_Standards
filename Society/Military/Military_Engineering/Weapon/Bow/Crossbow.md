@@ -91,7 +91,7 @@ dv_has_:
     ast: ballesta
     az: Qundaqlı yay-ox
     be: арбалет
-    be-tarask: арбалет
+    be_tarask: арбалет
     bg: Арбалет
     br: Kroazwareg
     ca: ballesta
@@ -139,7 +139,7 @@ dv_has_:
     pl: kusza
     pms: Balestra
     pt: besta
-    pt-br: besta
+    pt_br: besta
     ro: arbaletă
     ru: арбалет
     sh: Samostrel
@@ -148,8 +148,8 @@ dv_has_:
     sl: samostrel
     sq: Harku kryq
     sr: самострел
-    sr-ec: самострел
-    sr-el: samostrel
+    sr_ec: самострел
+    sr_el: samostrel
     sv: armborst
     th: หน้าไม้
     tr: Tatar yayı
@@ -160,12 +160,12 @@ dv_has_:
     wuu: 弩
     yue: 弩
     zh: 弩
-    zh-cn: 弩
-    zh-hans: 弩
-    zh-hant: 弩
-    zh-hk: 弩
-    zh-sg: 弩
-    zh-tw: 弩
+    zh_cn: 弩
+    zh_hans: 弩
+    zh_hant: 弩
+    zh_hk: 弩
+    zh_sg: 弩
+    zh_tw: 弩
 ---
 # [[Crossbow]] 
 

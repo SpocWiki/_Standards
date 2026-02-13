@@ -133,7 +133,7 @@ dv_has_:
     azb: جوغرافی کشفلر
     bcl: Panahon kan Pagdiskobre
     be: Вялікія геаграфічныя адкрыцці
-    be-tarask: Вялікія геаграфічныя адкрыцьці
+    be_tarask: Вялікія геаграфічныя адкрыцьці
     bg: Велики географски открития
     bn: আবিষ্কারের যুগ
     bs: Velika geografska otkrića
@@ -144,11 +144,11 @@ dv_has_:
     cy: Oes y Darganfod
     da: Opdagelsestiden
     de: Zeitalter der Entdeckungen
-    de-ch: Zeitalter der Entdeckungen
+    de_ch: Zeitalter der Entdeckungen
     el: Εποχή των Ανακαλύψεων
     en: Age of Discovery
-    en-ca: Age of Discovery
-    en-gb: Age of Discovery
+    en_ca: Age of Discovery
+    en_gb: Age of Discovery
     eo: Epoko de Malkovroj
     es: Era de los descubrimientos
     et: Suured maadeavastused
@@ -173,11 +173,11 @@ dv_has_:
     jam: Iej a Diskovri
     ka: დიდი გეოგრაფიული აღმოჩენები
     kk: Ұлы географиялық ашылулар
-    kk-arab: ۇلى گەوگرافىييالىق اشىلۋلار
+    kk_arab: ۇلى گەوگرافىييالىق اشىلۋلار
     kk-cn: ۇلى گەوگرافىييالىق اشىلۋلار
-    kk-cyrl: Ұлы географиялық ашылулар
+    kk_cyrl: Ұлы географиялық ашылулар
     kk-kz: Ұлы географиялық ашылулар
-    kk-latn: Ulı geografïyalıq aşılwlar
+    kk_latn: Ulı geografïyalıq aşılwlar
     kk-tr: Ulı geografïyalıq aşılwlar
     ko: 대항해시대
     ky: Географиялык улуу ачылыштар
@@ -204,7 +204,7 @@ dv_has_:
     pnb: دریافتاں دا دور
     ps: د اکتشاف دوره
     pt: Era dos Descobrimentos
-    pt-br: Era dos Descobrimentos
+    pt_br: Era dos Descobrimentos
     ro: perioada marilor descoperiri
     ru: Великие географические открытия
     sh: Velika geografska otkrića
@@ -212,8 +212,8 @@ dv_has_:
     sl: doba odkritij
     sq: Zbulimet e medha gjeografike
     sr: Доба открића
-    sr-ec: Велика географска открића
-    sr-el: Velika geografska otkrića
+    sr_ec: Велика географска открића
+    sr_el: Velika geografska otkrića
     sv: upptäcktsresornas epok
     ta: கண்டுபிடிப்புக் காலம்
     tg: Кафшиёти бузурги ҷуғрофиёӣ
@@ -229,12 +229,12 @@ dv_has_:
     wuu: 地理大发现
     yue: 大航海時代
     zh: 地理大发现
-    zh-cn: 地理大发现
-    zh-hans: 地理大发现
-    zh-hant: 地理大發現
-    zh-hk: 地理大發現
-    zh-sg: 地理大发现
-    zh-tw: 地理大發現
+    zh_cn: 地理大发现
+    zh_hans: 地理大发现
+    zh_hant: 地理大發現
+    zh_hk: 地理大發現
+    zh_sg: 地理大发现
+    zh_tw: 地理大發現
 ---
 # [[Age_of_Discovery]] 
 

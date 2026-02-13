@@ -67,7 +67,7 @@ dv_has_:
     arz: باتيناج
     ast: Patín sobre ruedes tradicional
     ba: Роликлы конькиҙа шыуыу
-    be-tarask: ролікавыя канькі
+    be_tarask: ролікавыя канькі
     bjn: Sapatu indan
     bn: রোলার স্কেটিং
     ca: patinatge sobre rodes
@@ -97,7 +97,7 @@ dv_has_:
     nn: Rulleskeiser
     pl: Wrotkarstwo
     pt: patinagem sobre rodas
-    pt-br: patinação sobre rodas
+    pt_br: patinação sobre rodas
     ru: катание на роликовых коньках
     shi: asuchchd
     sl: kotalkanje
@@ -109,10 +109,10 @@ dv_has_:
     wuu: 轮滑
     yue: 踩雪屐
     zh: 轮滑
-    zh-cn: 轮滑
-    zh-hans: 轮滑
-    zh-hant: 輪滑
-    zh-tw: 輪滑
+    zh_cn: 轮滑
+    zh_hans: 轮滑
+    zh_hant: 輪滑
+    zh_tw: 輪滑
 ---
 # [[Roller_Skating]] 
 

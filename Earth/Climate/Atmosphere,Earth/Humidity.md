@@ -139,7 +139,7 @@ dv_has_:
     ba: Дымлылыҡ
     bar: Luftfeichtigkeit
     be: вільготнасць паветра
-    be-tarask: вільготнасьць паветра
+    be_tarask: вільготнасьць паветра
     bg: влажност на въздуха
     bho: नमी
     bn: আর্দ্রতা
@@ -201,7 +201,7 @@ dv_has_:
     pl: wilgotność powietrza
     pms: Umidità
     pt: humidade
-    pt-br: umidade
+    pt_br: umidade
     ro: umiditate
     ru: влажность
     sc: Umidade
@@ -214,8 +214,8 @@ dv_has_:
     so: Dhado
     sq: Lagështia
     sr: Влажност ваздуха
-    sr-ec: влажност ваздуха
-    sr-el: vlažnost vazduha
+    sr_ec: влажност ваздуха
+    sr_el: vlažnost vazduha
     sv: luftfuktighet
     sw: Unyevuanga
     ta: ஈரப்பதம்
@@ -234,12 +234,12 @@ dv_has_:
     yi: פייכטקייט
     yue: 濕度
     zh: 湿度
-    zh-cn: 湿度
-    zh-hans: 湿度
-    zh-hant: 濕度
-    zh-hk: 濕度
-    zh-sg: 湿度
-    zh-tw: 濕度
+    zh_cn: 湿度
+    zh_hans: 湿度
+    zh_hant: 濕度
+    zh_hk: 濕度
+    zh_sg: 湿度
+    zh_tw: 濕度
 ---
 # [[Humidity]] 
 

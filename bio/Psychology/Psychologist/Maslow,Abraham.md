@@ -103,7 +103,7 @@ dv_has_:
     az: Abraham Maslov
     azb: آبراهام مزلو
     ba: Абрахам Маслоу
-    be-tarask: Абрагам Маслаў
+    be_tarask: Абрагам Маслаў
     bg: Ейбрахам Маслоу
     bn: আব্রাহাম মাসলো
     ca: Abraham Maslow
@@ -113,11 +113,11 @@ dv_has_:
     da: Abraham Maslow
     dag: Abraham Maslow
     de: Abraham Maslow
-    de-ch: Abraham Maslow
+    de_ch: Abraham Maslow
     el: Αβραάμ Μάσλοου
     en: Abraham Maslow
-    en-ca: Abraham Maslow
-    en-gb: Abraham Maslow
+    en_ca: Abraham Maslow
+    en_gb: Abraham Maslow
     en-us: Abraham Maslow
     eo: Abraham Maslow
     es: Abraham Maslow
@@ -162,7 +162,7 @@ dv_has_:
     pl: Abraham Maslow
     pnb: ابراہم میزلو
     pt: Abraham Maslow
-    pt-br: Abraham Maslow
+    pt_br: Abraham Maslow
     ro: Abraham Maslow
     ru: Абрахам Маслоу
     sco: Abraham Maslow
@@ -183,10 +183,10 @@ dv_has_:
     wuu: 亚伯拉罕·马斯洛
     yue: 艾巴咸·馬斯勞
     zh: 亚伯拉罕·马斯洛
-    zh-cn: 亚伯拉罕·马斯洛
-    zh-hans: 亚伯拉罕·马斯洛
-    zh-hant: 亞伯拉罕·馬斯洛
-    zh-tw: 亞伯拉罕·馬斯洛
+    zh_cn: 亚伯拉罕·马斯洛
+    zh_hans: 亚伯拉罕·马斯洛
+    zh_hant: 亞伯拉罕·馬斯洛
+    zh_tw: 亞伯拉罕·馬斯洛
 ---
 # [[Maslow,Abraham]] 
 

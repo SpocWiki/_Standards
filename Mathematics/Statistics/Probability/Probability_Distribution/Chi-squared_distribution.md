@@ -4,7 +4,7 @@ dv_has_:
   name_:
     ar: توزيع خي تربيع
     be: Размеркаванне хі-квадрат
-    be-tarask: хі-квадрат разьмеркаваньне
+    be_tarask: хі-квадрат разьмеркаваньне
     ca: distribució khi quadrat
     cs: Χ² rozdělení
     da: chi²-fordeling
@@ -44,12 +44,12 @@ dv_has_:
     uk: розподіл хі-квадрат
     yue: Chi-square
     zh: 卡方分佈
-    zh-cn: 卡方分布
-    zh-hans: 卡方分布
-    zh-hant: 卡方分佈
-    zh-hk: 卡方分佈
-    zh-sg: 卡方分布
-    zh-tw: 卡方分佈
+    zh_cn: 卡方分布
+    zh_hans: 卡方分布
+    zh_hant: 卡方分佈
+    zh_hk: 卡方分佈
+    zh_sg: 卡方分布
+    zh_tw: 卡方分佈
 aliases:
 - chi-kwadraatverdeling
 - Chi-quadrado

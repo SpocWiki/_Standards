@@ -419,7 +419,7 @@ dv_has_:
     azb: آرکیا
     ba: Архейҙар
     be: археі
-    be-tarask: археі
+    be_tarask: археі
     bg: археи
     bn: আর্কিয়া
     bs: Archaea
@@ -506,7 +506,7 @@ dv_has_:
     pms: Archaea
     pnb: ارکیا
     pt: Archaea
-    pt-br: Archaea
+    pt_br: Archaea
     qu: Ñawpa añaki
     rki: အာခီးယာ
     ro: archaea
@@ -543,7 +543,7 @@ dv_has_:
     yi: ארכעען
     yue: 古菌
     zh: 古菌
-    zh-hant: 古菌
+    zh_hant: 古菌
     zu: INgunazana
 ---
 # [[Archaea]] 

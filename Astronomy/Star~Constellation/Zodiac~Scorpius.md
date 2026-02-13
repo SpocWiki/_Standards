@@ -133,7 +133,7 @@ dv_has_:
     bbc: Mortiha
     bcl: Scorpius
     be: Скарпіён
-    be-tarask: Скарпіён
+    be_tarask: Скарпіён
     bg: Скорпион
     bn: বৃশ্চিক
     bo: སྡིག་པའི་སྐར་ཚོམ་
@@ -149,7 +149,7 @@ dv_has_:
     diq: Demaşkul
     el: Σκορπιός
     en: Scorpius
-    en-gb: Scorpius
+    en_gb: Scorpius
     eo: Skorpio
     es: Escorpio
     et: Skorpion
@@ -203,7 +203,7 @@ dv_has_:
     pl: Gwiazdozbiór Skorpiona
     pnb: بچھو تارہ چرمٹ
     pt: Scorpius
-    pt-br: Escorpião
+    pt_br: Escorpião
     qu: kakatua mangas
     ro: Scorpionul
     ru: Скорпион

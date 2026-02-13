@@ -27,7 +27,7 @@ dv_has_:
     it: precisione
     ja: 正確度と精度
     kk: дәлдік
-    kk-latn: däldik
+    kk_latn: däldik
     ko: 정확도와 정밀도
     lv: pareizāk
     lzh: 精準度

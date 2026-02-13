@@ -89,7 +89,7 @@ dv_has_:
     ar: اختبار
     azb: ایمتاحان
     ba: контроль эш
-    be-tarask: тэст
+    be_tarask: тэст
     bn: কৃতি অভীক্ষা
     ca: examen
     cs: zkouška
@@ -100,8 +100,8 @@ dv_has_:
     de: Test
     el: δοκιμή
     en: test
-    en-ca: test
-    en-gb: test
+    en_ca: test
+    en_gb: test
     eo: testo
     es: examen
     et: eksam
@@ -128,7 +128,7 @@ dv_has_:
     lv: tests
     mk: испитување
     ms: ujian
-    ms-arab: اوجين
+    ms_arab: اوجين
     my: စမ်းသပ်ခြင်း
     nb: eksamen
     ne: परीक्षा
@@ -136,7 +136,7 @@ dv_has_:
     pa: ਪ੍ਰੀਖਿਆ
     pl: test
     pt: prova
-    pt-br: prova
+    pt_br: prova
     ro: examen
     ru: контрольная работа
     se: iskkus
@@ -155,7 +155,7 @@ dv_has_:
     tl: pagsusulit
     tr: test
     tt: контроль эш
-    tt-cyrl: контроль эш
+    tt_cyrl: контроль эш
     uk: тестування
     ur: امتحان
     uz: test
@@ -163,10 +163,10 @@ dv_has_:
     vi: kiểm tra
     yue: 測驗
     zh: 測驗
-    zh-cn: 定期考试
-    zh-hans: 定期考试
-    zh-hant: 定期考試
-    zh-tw: 測驗
+    zh_cn: 定期考试
+    zh_hans: 定期考试
+    zh_hant: 定期考試
+    zh_tw: 測驗
 ---
 # [[Test]] 
 

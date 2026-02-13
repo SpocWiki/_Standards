@@ -498,7 +498,7 @@ dv_has_:
     ab: Афранцыз бызшәа
     ace: Bahsa Peurancih
     ady: Францыбзэ
-    aeb-arab: الفرانساوية
+    aeb_arab: الفرانساوية
     af: Frans
     am: ፈረንሳይኛ
     an: Idioma francés
@@ -524,7 +524,7 @@ dv_has_:
     bbc: Hata Perancis
     bcl: Tataramon na Pranses
     be: французская мова
-    be-tarask: француская мова
+    be_tarask: француская мова
     bg: френски език
     bho: फ्रांसीसी भाषा
     bjn: Bahasa Parancis
@@ -546,7 +546,7 @@ dv_has_:
     co: francese
     cr: ᐅᐱᔥᑎᑯᔮᐅᐊᔨᒧᐎᓐ
     crh: Frenk tili
-    crh-latn: Frenk tili
+    crh_latn: Frenk tili
     cs: francouzština
     csb: Frańcësczi jãzëk
     cu: Франкїискъ ѩꙁꙑкъ
@@ -556,7 +556,7 @@ dv_has_:
     dag: Farinsi
     de: Französisch
     de-at: Französisch
-    de-ch: Französisch
+    de_ch: Französisch
     diq: Fransızki
     dsb: francojska rěc
     dtp: Boros Perancis
@@ -565,8 +565,8 @@ dv_has_:
     el: Γαλλικά
     eml: Francés
     en: French
-    en-ca: French
-    en-gb: French
+    en_ca: French
+    en_gb: French
     en-us: French
     eo: franca lingvo
     es: francés
@@ -643,7 +643,7 @@ dv_has_:
     krj: Frinanses
     ks: فرانسیٖسی زَبان
     ku: zimanê fransî
-    ku-latn: zimanê fransî
+    ku_latn: zimanê fransî
     kv: Франс кыв
     kw: Frenkek
     ky: француз тили
@@ -679,7 +679,7 @@ dv_has_:
     mnw: ဘာသာပြၚ်သေတ်
     mr: फ्रेंच भाषा
     ms: bahasa Perancis
-    ms-arab: بهاس ڤرنچيس
+    ms_arab: بهاس ڤرنچيس
     mt: Franċiż
     mwl: Lhéngua francesa
     my: ပြင်သစ် ဘာသာ
@@ -691,7 +691,7 @@ dv_has_:
     nap: Lengua franzese
     nb: fransk
     nds: Franzöösch
-    nds-nl: Frans
+    nds_nl: Frans
     ne: फ्रान्सेली भाषा
     new: फ्रेञ्च भाषा
     nl: Frans
@@ -720,7 +720,7 @@ dv_has_:
     prg: prancōziskan
     ps: فرانسوي ژبه
     pt: francês
-    pt-br: francês
+    pt_br: francês
     qu: Ransis simi
     rki: ပြင်သစ်ဘာသာစကား
     rm: lingua franzosa
@@ -755,8 +755,8 @@ dv_has_:
     so: Af-Faransiis
     sq: frëngjisht
     sr: француски језик
-    sr-ec: француски
-    sr-el: francuski jezik
+    sr_ec: француски
+    sr_el: francuski jezik
     ss: SíFulentji
     st: Se-french
     stq: Frantsöösk
@@ -781,13 +781,13 @@ dv_has_:
     tr: Fransızca
     trv: Kari Hwako
     tt: француз теле
-    tt-cyrl: франсуз теле
+    tt_cyrl: франсуз теле
     ty: Reo farāni
     tyv: Француз дыл
     udm: француз кыл
     ug: فرانسۇز تىلى
-    ug-arab: فرانسۇز تىلى
-    ug-latn: Fransuz tili
+    ug_arab: فرانسۇز تىلى
+    ug_latn: Fransuz tili
     uk: французька мова
     ur: فرانسیسی
     uz: Fransuz tili
@@ -811,11 +811,11 @@ dv_has_:
     zea: Frans
     zgh: ⵜⵓⵜⵍⴰⵢⵜ ⵜⴰⴼⵕⴰⵏⵚⵉⵚⵜ
     zh: 法语
-    zh-cn: 法语
-    zh-hans: 法语
-    zh-hant: 法語
-    zh-hk: 法語
-    zh-tw: 法語
+    zh_cn: 法语
+    zh_hans: 法语
+    zh_hant: 法語
+    zh_hk: 法語
+    zh_tw: 法語
     zu: IsiFulentshi
 ---
 # [[Lang-fra]] 

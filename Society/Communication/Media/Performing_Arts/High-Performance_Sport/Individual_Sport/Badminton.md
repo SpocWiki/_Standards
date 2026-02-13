@@ -126,7 +126,7 @@ dv_has_:
     bbc: Bulu tangkis
     bcl: Badminton
     be: бадмінтон
-    be-tarask: бадмінтон
+    be_tarask: бадмінтон
     bew: Tepok bulu
     bg: Бадминтон
     bn: ব্যাডমিন্টন
@@ -143,8 +143,8 @@ dv_has_:
     de: Badminton
     el: αντιπτέριση
     en: badminton
-    en-ca: Badminton
-    en-gb: badminton
+    en_ca: Badminton
+    en_gb: badminton
     eo: badmintono
     es: bádminton
     et: sulgpall
@@ -179,7 +179,7 @@ dv_has_:
     ka: ბადმინტონი
     kaa: Badminton
     kk: бадминтон
-    kk-cyrl: бадминтон
+    kk_cyrl: бадминтон
     kn: ಬ್ಯಾಡ್ಮಿಂಟನ್
     ko: 배드민턴
     ko-kp: 바드민톤
@@ -196,12 +196,12 @@ dv_has_:
     mn: бадминтон
     mr: बॅडमिंटन
     ms: badminton
-    ms-arab: بدمينتون
+    ms_arab: بدمينتون
     my: ကြက်တောင်ရိုက်ခြင်း
     nan: Ú-mô͘-kiû
     nb: badminton
     nds: Badminton
-    nds-nl: badminton
+    nds_nl: badminton
     ne: व्याडमिन्टन
     new: ब्याडमिन्टन
     nl: badminton
@@ -217,7 +217,7 @@ dv_has_:
     pnb: چڑی چھکا
     ps: بډمنټن
     pt: badmínton
-    pt-br: badminton
+    pt_br: badminton
     rm: Badminton
     ro: badminton
     ru: бадминтон
@@ -237,7 +237,7 @@ dv_has_:
     so: Badminton
     sq: Badmintoni
     sr: бадминтон
-    sr-ec: бадминтон
+    sr_ec: бадминтон
     su: Badminton
     sv: badminton
     ta: இறகுப்பந்தாட்டம்
@@ -258,14 +258,14 @@ dv_has_:
     xmf: ბადმინტონი
     yue: 羽毛球
     zh: 羽毛球
-    zh-cn: 羽毛球
-    zh-hans: 羽毛球
-    zh-hant: 羽毛球
-    zh-hk: 羽毛球
-    zh-mo: 羽毛球
+    zh_cn: 羽毛球
+    zh_hans: 羽毛球
+    zh_hant: 羽毛球
+    zh_hk: 羽毛球
+    zh_mo: 羽毛球
     zh-my: 羽毛球
-    zh-sg: 羽毛球
-    zh-tw: 羽球
+    zh_sg: 羽毛球
+    zh_tw: 羽球
 ---
 # [[Badminton]] 
 

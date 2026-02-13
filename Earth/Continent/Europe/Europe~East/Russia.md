@@ -4,7 +4,7 @@ dv_has_:
     ab: Урыстәыла
     ace: Rusia
     ady: Урысые
-    aeb-arab: روسيا
+    aeb_arab: روسيا
     af: Rusland
     aig: Rosha
     alt: Россия
@@ -34,7 +34,7 @@ dv_has_:
     bbc: Rusia
     bcl: Rusya
     be: Расія
-    be-tarask: Расея
+    be_tarask: Расея
     bew: Ruslan
     bg: Русия
     bgn: روسیه
@@ -53,7 +53,7 @@ dv_has_:
     bug: Russia
     bxr: Оросой холбоото улас
     ca: Rússia
-    cbk-zam: Rusia
+    cbk_zam: Rusia
     cdo: Ngò̤-lò̤-sṳ̆
     ce: Росси
     ceb: Rusya
@@ -64,7 +64,7 @@ dv_has_:
     co: Russia
     cr: ᐊᓯᐊ
     crh: Rusiye
-    crh-latn: Rusiye
+    crh_latn: Rusiye
     crh-ro: Urusiye
     cs: Rusko
     csb: Ruskô
@@ -75,7 +75,7 @@ dv_has_:
     dag: Russia
     de: Russland
     de-at: Russland
-    de-ch: Russland
+    de_ch: Russland
     din: Ruccia
     diq: Rusya
     dsb: Rusojska
@@ -87,8 +87,8 @@ dv_has_:
     el: Ρωσία
     eml: Rossia
     en: Russia
-    en-ca: Russia
-    en-gb: Russia
+    en_ca: Russia
+    en_gb: Russia
     en-us: Russia
     eo: Rusio
     es: Rusia
@@ -198,7 +198,7 @@ dv_has_:
     lzh: 俄羅斯
     mad: Rusia
     mai: रूस
-    map-bms: Rusia
+    map_bms: Rusia
     mdf: Россия
     mg: Rosia
     mhr: Россий
@@ -215,7 +215,7 @@ dv_has_:
     mr: रशिया
     mrj: Россий
     ms: Rusia
-    ms-arab: روسيا
+    ms_arab: روسيا
     mt: Russja
     mwl: Rússia
     my: ရုရှားနိုင်ငံ
@@ -227,7 +227,7 @@ dv_has_:
     nap: Russia
     nb: Russland
     nds: Russland
-    nds-nl: Ruslaand
+    nds_nl: Ruslaand
     ne: रुस
     new: रुस
     nia: Rusia
@@ -262,7 +262,7 @@ dv_has_:
     prg: Mackālija
     ps: روسیه
     pt: Rússia
-    pt-br: Rússia
+    pt_br: Rússia
     qu: Rusiya
     rm: Russia
     rmf: Portiko them
@@ -287,7 +287,7 @@ dv_has_:
     sh: Rusija
     shi: Rusya
     shn: မိူင်းရတ်ႈသျႃး
-    shy-latn: Ṛrus
+    shy_latn: Ṛrus
     si: රුසියාව
     sjd: Рӯшш е̄ммьне
     sk: Rusko
@@ -302,8 +302,8 @@ dv_has_:
     so: Ruushka
     sq: Rusia
     sr: Русија
-    sr-ec: Русија
-    sr-el: Rusija
+    sr_ec: Русија
+    sr_el: Rusija
     srn: Rusland
     ss: IRashiya
     st: Russia
@@ -320,7 +320,7 @@ dv_has_:
     te: రష్యా
     tet: Rúsia
     tg: Русия
-    tg-cyrl: Русия
+    tg_cyrl: Русия
     th: ประเทศรัสเซีย
     ti: ሩስያ
     tk: Russiýa
@@ -334,8 +334,8 @@ dv_has_:
     trv: Russia
     ts: Russia
     tt: Россия
-    tt-cyrl: Русия
-    tt-latn: Rusiä
+    tt_cyrl: Русия
+    tt_latn: Rusiä
     tum: Russia
     tw: Russia
     ty: Rūtia
@@ -366,14 +366,14 @@ dv_has_:
     zea: Rusland
     zgh: ⵔⵓⵙⵢⴰ
     zh: 俄罗斯
-    zh-cn: 俄罗斯
-    zh-hans: 俄罗斯
-    zh-hant: 俄羅斯
-    zh-hk: 俄羅斯
-    zh-mo: 俄羅斯
+    zh_cn: 俄罗斯
+    zh_hans: 俄罗斯
+    zh_hant: 俄羅斯
+    zh_hk: 俄羅斯
+    zh_mo: 俄羅斯
     zh-my: 俄罗斯
-    zh-sg: 俄罗斯
-    zh-tw: 俄羅斯
+    zh_sg: 俄罗斯
+    zh_tw: 俄羅斯
     zu: IRashiya
   previous_item: '[[../../Asia/USSR]]'
   telephone_:

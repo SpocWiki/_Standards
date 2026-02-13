@@ -89,7 +89,7 @@ dv_has_:
     ba: Фундаментализм
     bar: Fundamentalismus
     be: фундаменталізм
-    be-tarask: фундамэнталізм
+    be_tarask: фундамэнталізм
     bg: Фундаментализъм
     bn: মৌলবাদ
     bs: fundamentalizam
@@ -106,8 +106,8 @@ dv_has_:
     el: Φονταμενταλισμός
     eml: fundamentalisum
     en: fundamentalism
-    en-ca: Fundamentalism
-    en-gb: fundamentalism
+    en_ca: Fundamentalism
+    en_gb: fundamentalism
     eo: fundamentismo
     es: fundamentalismo
     et: fundamentalism
@@ -165,7 +165,7 @@ dv_has_:
     pnb: مڈپوجا
     ps: بنسټپالنه
     pt: fundamentalismo
-    pt-br: fundamentalismo
+    pt_br: fundamentalismo
     ro: fundamentalism
     ru: фундаментализм
     rue: фундаменталізм

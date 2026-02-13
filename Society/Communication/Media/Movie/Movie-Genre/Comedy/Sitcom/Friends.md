@@ -8,7 +8,7 @@ dv_has_:
     arz: فريندز
     az: Dostlar
     be: Сябры
-    be-tarask: Сябры
+    be_tarask: Сябры
     bg: Приятели
     bn: ফ্রেন্ডস্
     bs: Prijatelji
@@ -66,9 +66,9 @@ dv_has_:
     yi: פריינט
     yue: 老友記
     zh: 老友记
-    zh-hant: 六人行
-    zh-hk: 老友記
-    zh-tw: 六人行
+    zh_hant: 六人行
+    zh_hk: 老友記
+    zh_tw: 六人行
 aliases:
 - Amiki
 - Dostlar

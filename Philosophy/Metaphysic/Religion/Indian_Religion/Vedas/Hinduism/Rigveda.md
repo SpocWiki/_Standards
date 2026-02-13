@@ -96,7 +96,7 @@ dv_has_:
     ban: Régwéda
     bcl: Rigveda
     be: Рыгведа
-    be-tarask: Рыгвэда
+    be_tarask: Рыгвэда
     bg: Ригведа
     bho: ऋग्वेद
     bn: ঋগ্বেদ
@@ -175,7 +175,7 @@ dv_has_:
     tcy: ಟೆಂಪ್ಲೇಟ್:ಋಗ್ವೇದೊ
     te: ఋగ్వేదం
     tg: Ригведа
-    tg-cyrl: Ригведа
+    tg_cyrl: Ригведа
     th: ฤคเวท
     tl: Rigveda
     tr: Rigveda

@@ -87,7 +87,7 @@ dv_has_:
     ar: نقطة ثلاثية
     ast: Puntu triple
     be: трайны пункт
-    be-tarask: патройны пункт
+    be_tarask: патройны пункт
     bg: Тройна точка
     bn: ত্রৈধ বিন্দু
     br: Poent tric'hement
@@ -117,11 +117,11 @@ dv_has_:
     it: punto triplo
     ja: 三重点
     kk: үштік нүкте
-    kk-arab: ۇشتىك نۇكتە
+    kk_arab: ۇشتىك نۇكتە
     kk-cn: ۇشتىك نۇكتە
-    kk-cyrl: Үштік нүкте
+    kk_cyrl: Үштік нүкте
     kk-kz: Үштік нүкте
-    kk-latn: Üştik nükte
+    kk_latn: Üştik nükte
     kk-tr: Üştik nükte
     ko: 삼중점
     la: Punctum triplex
@@ -149,8 +149,8 @@ dv_has_:
     sl: trojna točka
     smn: kuulmâsčuogâstâh
     sr: тројна тачка
-    sr-ec: тројна тачка
-    sr-el: trojna tačka
+    sr_ec: тројна тачка
+    sr_el: trojna tačka
     sv: trippelpunkt
     sw: Kiwango utatu
     ta: மும்மைப் புள்ளி
@@ -162,14 +162,14 @@ dv_has_:
     wuu: 三相点
     yue: 三相點
     zh: 三相點
-    zh-cn: 三相点
-    zh-hans: 三相点
-    zh-hant: 三相點
-    zh-hk: 三相點
-    zh-mo: 三相點
+    zh_cn: 三相点
+    zh_hans: 三相点
+    zh_hant: 三相點
+    zh_hk: 三相點
+    zh_mo: 三相點
     zh-my: 三相点
-    zh-sg: 三相点
-    zh-tw: 三相點
+    zh_sg: 三相点
+    zh_tw: 三相點
 ---
 # [[Triple_Point]] 
 

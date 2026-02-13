@@ -158,7 +158,7 @@ dv_has_:
     azb: سارکوفیلوس هارریسیی
     ban: Iblis Tasmania
     be: Сумчаты д'ябал
-    be-tarask: зьверажэр торбачны
+    be_tarask: зьверажэр торбачны
     bg: тасманийски дявол
     br: Diaoul Tasmania
     bs: Tasmanski vrag
@@ -173,8 +173,8 @@ dv_has_:
     el: Διάβολος της Τασμανίας
     eml: Diàvul dla Taśmàgna
     en: Tasmanian devil
-    en-ca: Tasmanian devil
-    en-gb: Tasmanian devil
+    en_ca: Tasmanian devil
+    en_gb: Tasmanian devil
     eo: Tasmana diablo
     es: Sarcophilus harrisii
     et: Kukkurkurat
@@ -218,7 +218,7 @@ dv_has_:
     pnb: تسمانیائی ڈیول
     ps: ټاسماني شيطان
     pt: Diabo-da-tasmânia
-    pt-br: Diabo-da-tasmânia
+    pt_br: Diabo-da-tasmânia
     ro: Diavol tasmanian
     ru: Тасманийский дьявол
     sco: Tasmanie deil
@@ -228,8 +228,8 @@ dv_has_:
     sm: Tiapolo Tasimania
     sq: Sarcophilus harrisii
     sr: тасманијски ђаво
-    sr-ec: Тасманијски ђаво
-    sr-el: Tasmanijski đavo
+    sr_ec: Тасманијски ђаво
+    sr_el: Tasmanijski đavo
     sv: Tasmansk djävul
     sw: Shetani wa Tasmania
     szl: Tasmański djoboł
@@ -245,12 +245,12 @@ dv_has_:
     wuu: 袋獾
     yue: 袋獾
     zh: 袋獾
-    zh-cn: 袋獾
-    zh-hans: 袋獾
-    zh-hant: 袋獾
-    zh-hk: 袋獾
-    zh-sg: 袋獾
-    zh-tw: 袋獾
+    zh_cn: 袋獾
+    zh_hans: 袋獾
+    zh_hant: 袋獾
+    zh_hk: 袋獾
+    zh_sg: 袋獾
+    zh_tw: 袋獾
 ---
 # [[Tasmanian_Devil]] 
 

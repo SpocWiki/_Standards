@@ -77,7 +77,7 @@ dv_has_:
     ast: canesba
     ba: Личинка
     be: лічынка
-    be-tarask: Лічынка
+    be_tarask: Лічынка
     bg: Ларва
     bn: লার্ভা
     bs: Larva
@@ -89,8 +89,8 @@ dv_has_:
     de: Larve
     el: Προνύμφη
     en: larva
-    en-ca: Larva
-    en-gb: Larva
+    en_ca: Larva
+    en_gb: Larva
     eo: larvo
     es: larva
     et: Vastne
@@ -115,11 +115,11 @@ dv_has_:
     jv: Larva
     ka: ლარვა
     kk: Велигер
-    kk-arab: ۆەلىيگەر
+    kk_arab: ۆەلىيگەر
     kk-cn: ۆەلىيگەر
-    kk-cyrl: Велигер
+    kk_cyrl: Велигер
     kk-kz: Велигер
-    kk-latn: Velïger
+    kk_latn: Velïger
     kk-tr: Velïger
     kn: ಡಿಂಬ(ಲಾರ್ವಾ)
     ko: 애벌레
@@ -139,7 +139,7 @@ dv_has_:
     pa: ਲਾਰਵਾ
     pl: larwa
     pt: larva
-    pt-br: Larva
+    pt_br: Larva
     qu: Qirisa
     ro: larvă
     ru: личинка
@@ -148,8 +148,8 @@ dv_has_:
     sk: Larva
     sl: ličinka
     sr: Ларва
-    sr-ec: Ларва
-    sr-el: Larva
+    sr_ec: Ларва
+    sr_el: Larva
     sv: larv
     sw: Lava
     szy: dadipana'
@@ -167,12 +167,12 @@ dv_has_:
     wuu: 幼体
     yue: 幼體
     zh: 幼虫
-    zh-cn: 幼虫
-    zh-hans: 幼虫
-    zh-hant: 幼蟲
-    zh-hk: 幼蟲
-    zh-sg: 幼虫
-    zh-tw: 幼蟲
+    zh_cn: 幼虫
+    zh_hans: 幼虫
+    zh_hant: 幼蟲
+    zh_hk: 幼蟲
+    zh_sg: 幼虫
+    zh_tw: 幼蟲
 ---
 # [[Larva]] 
 

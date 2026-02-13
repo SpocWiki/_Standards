@@ -87,7 +87,7 @@ dv_has_:
     az: Təəccüb
     bcl: Pagkabigla
     be: здзіўленне
-    be-tarask: зьдзіўленьне
+    be_tarask: зьдзіўленьне
     bg: изненада
     bn: বিস্ময় (আবেগ)
     ca: sorpresa
@@ -142,8 +142,8 @@ dv_has_:
     so: yaab
     sq: habi
     sr: изненађење
-    sr-ec: изненађење
-    sr-el: iznenađenje
+    sr_ec: изненађење
+    sr_el: iznenađenje
     sv: förvåning
     ta: ஆச்சரியம்
     tr: Şaşkınlık

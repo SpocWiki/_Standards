@@ -355,7 +355,7 @@ dv_has_:
     az: Ejen Delakrua
     ba: Делакруа Эжен
     be: Эжэн Дэлакруа
-    be-tarask: Эжэн Дэлякруа
+    be_tarask: Эжэн Дэлякруа
     bg: Йожен Дьолакроа
     bn: ওজেন দ্যলাক্রোয়া
     br: Eugène Delacroix
@@ -421,7 +421,7 @@ dv_has_:
     pms: Eugène Delacroix
     pnb: یوجین ڈیلاکراہ
     pt: Eugène Delacroix
-    pt-br: Eugène Delacroix
+    pt_br: Eugène Delacroix
     qu: Eugène Delacroix
     ro: Eugène Delacroix
     ru: Эжен Делакруа
@@ -431,7 +431,7 @@ dv_has_:
     sl: Eugène Delacroix
     sq: Eugène Delacroix
     sr: Ежен Делакроа
-    sr-ec: Ежен Делакроа
+    sr_ec: Ежен Делакроа
     stq: Ferdinand Victor Eugène Delacroix
     sv: Eugène Delacroix
     th: เออแฌน เดอลาครัว

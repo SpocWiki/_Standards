@@ -106,7 +106,7 @@ dv_has_:
     az: taksonomik dərəcə
     bar: Rangstufn
     be: ранг
-    be-tarask: таксанамічная катэгорыя
+    be_tarask: таксанамічная катэгорыя
     bho: टैक्सोनॉमिक रैंक
     bn: শ্রেণিবিন্যাসের ধাপ
     br: renk taksonomek
@@ -120,7 +120,7 @@ dv_has_:
     diq: reza taksonomiye
     el: ταξινομική βαθμίδα
     en: taxonomic rank
-    en-gb: taxonomic rank
+    en_gb: taxonomic rank
     eo: taksonomia rango
     es: categoría taxonómica
     et: taksonoomiline kategooria
@@ -153,7 +153,7 @@ dv_has_:
     mk: таксономски чин
     mn: Таксономийн зэрэглэл
     ms: pangkat taksonomi
-    ms-arab: ڤڠکت تکسونومي
+    ms_arab: ڤڠکت تکسونومي
     my: ဇီဝမျိုးရိုးခွဲခြားခြင်း အဆင့်
     myv: явшемтонань чалгамот
     mzn: تاکسونی طبقه
@@ -164,7 +164,7 @@ dv_has_:
     os: таксономион ранг
     pl: kategoria systematyczna
     pt: categoria taxonómica
-    pt-br: categoria taxonômica
+    pt_br: categoria taxonômica
     rki: ဇီဝမျိုးရိုးခွဲခြားခြင်း အဆင့်
     ro: rang taxonomic
     ru: таксономический ранг
@@ -186,16 +186,16 @@ dv_has_:
     th: ระดับอนุกรมวิธาน
     tr: taksonomik sıralama
     tt: таксономик ранг
-    tt-cyrl: таксономик ранг
+    tt_cyrl: таксономик ранг
     uk: таксономічна категорія
     vec: categoria tasonòmega
     vi: bậc phân loại
     yi: טאקסאנאמישער ראנג
     zh: 分类等级
-    zh-cn: 分类阶元
-    zh-hans: 分类等级
-    zh-hant: 分類等級
-    zh-tw: 分類等級
+    zh_cn: 分类阶元
+    zh_hans: 分类等级
+    zh_hant: 分類等級
+    zh_tw: 分類等級
     zu: UQhiwu lobuNgqwangqwa
 ---
 # [[Taxon_Rank]] 

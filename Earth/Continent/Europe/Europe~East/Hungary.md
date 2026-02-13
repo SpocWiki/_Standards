@@ -4,7 +4,7 @@ dv_has_:
     ab: Венгриа
     ace: Hongaria
     ady: Хунгарие
-    aeb-arab: المجر
+    aeb_arab: المجر
     af: Hongarye
     am: ሀንጋሪ
     ami: Hungary
@@ -28,7 +28,7 @@ dv_has_:
     bbc: Hungaria
     bcl: Hungriya
     be: Венгрыя
-    be-tarask: Вугоршчына
+    be_tarask: Вугоршчына
     bew: Honggari
     bg: Унгария
     bgn: هنگه ری
@@ -42,7 +42,7 @@ dv_has_:
     bs: Mađarska
     bxr: Унгар
     ca: Hongria
-    cbk-zam: Hungría
+    cbk_zam: Hungría
     cdo: Hṳ̆ng-ngà-lé
     ce: Венгри
     ceb: Hungary
@@ -51,7 +51,7 @@ dv_has_:
     ckb: مەجارستان
     co: Ungheria
     crh: Macaristan
-    crh-latn: Macaristan
+    crh_latn: Macaristan
     cs: Maďarsko
     csb: Madżarskô
     cu: Ѫгри
@@ -60,7 +60,7 @@ dv_has_:
     da: Ungarn
     dag: Hungary
     de: Ungarn
-    de-ch: Ungarn
+    de_ch: Ungarn
     diq: Macarıstan
     dsb: Hungorska
     dty: हंगेरी
@@ -70,8 +70,8 @@ dv_has_:
     el: Ουγγαρία
     eml: Ungherî
     en: Hungary
-    en-ca: Hungary
-    en-gb: Hungary
+    en_ca: Hungary
+    en_gb: Hungary
     en-us: Hungary
     eo: Hungario
     es: Hungría
@@ -147,7 +147,7 @@ dv_has_:
     krj: Unggriya
     ks: ہَنٛگری
     ku: Mecaristan
-    ku-latn: Mecaristan
+    ku_latn: Mecaristan
     kv: Мадьяр Му
     kw: Hungari
     ky: Венгрия
@@ -171,7 +171,7 @@ dv_has_:
     lv: Ungārija
     lzh: 匈牙利
     mad: Hongaria
-    map-bms: Hongaria
+    map_bms: Hongaria
     mdf: Мадьярмастор
     mg: Hongaria
     mhr: Венгрий
@@ -197,7 +197,7 @@ dv_has_:
     nap: Ungaria
     nb: Ungarn
     nds: Ungarn
-    nds-nl: Hongaarnlaand
+    nds_nl: Hongaarnlaand
     ne: हङ्गेरी
     new: हङ्गेरी
     nl: Hongarije
@@ -224,7 +224,7 @@ dv_has_:
     pnt: Ουγγαρία
     ps: هنګري
     pt: Hungria
-    pt-br: Hungria
+    pt_br: Hungria
     qu: Unriya
     rm: Ungaria
     rmy: Ungariya
@@ -258,8 +258,8 @@ dv_has_:
     so: Hungaria
     sq: Hungaria
     sr: Мађарска
-    sr-ec: Мађарска
-    sr-el: Mađarska
+    sr_ec: Мађарска
+    sr_el: Mađarska
     srn: Ogarnikondre
     ss: IHangareyi
     st: Hungary
@@ -274,7 +274,7 @@ dv_has_:
     te: హంగేరి
     tet: Ungria
     tg: Маҷористон
-    tg-cyrl: Маҷористон
+    tg_cyrl: Маҷористон
     th: ประเทศฮังการี
     tk: Wengriýa
     tl: Hungary
@@ -286,7 +286,7 @@ dv_has_:
     trv: Hungary
     ts: Hungary
     tt: Маҗарстан
-    tt-cyrl: Маҗарстан
+    tt_cyrl: Маҗарстан
     tum: Hungary
     tw: Hungary
     ty: Honetari
@@ -314,14 +314,14 @@ dv_has_:
     zea: Honharije
     zgh: ⵀⵓⵏⴳⴰⵔⵢⴰ
     zh: 匈牙利
-    zh-cn: 匈牙利
-    zh-hans: 匈牙利
-    zh-hant: 匈牙利
-    zh-hk: 匈牙利
-    zh-mo: 匈牙利
+    zh_cn: 匈牙利
+    zh_hans: 匈牙利
+    zh_hant: 匈牙利
+    zh_hk: 匈牙利
+    zh_mo: 匈牙利
     zh-my: 匈牙利
-    zh-sg: 匈牙利
-    zh-tw: 匈牙利
+    zh_sg: 匈牙利
+    zh_tw: 匈牙利
     zu: IHungariya
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Hungary

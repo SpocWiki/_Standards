@@ -147,7 +147,7 @@ dv_has_:
     ba: Тауыҡ ите
     bcl: karneng manok
     be: кураціна
-    be-tarask: кураціна
+    be_tarask: кураціна
     bew: Daging ayam
     bg: пилешко
     bho: मुर्गा
@@ -161,12 +161,12 @@ dv_has_:
     da: kylling
     de: Hühnerfleisch
     de-at: Hühnerfleisch
-    de-ch: Pouletfleisch
+    de_ch: Pouletfleisch
     diq: Goştê kerge
     ee: koklolã
     el: κοτόπουλο
     en: chicken as food
-    en-gb: chicken
+    en_gb: chicken
     eo: kokaĵo
     es: carne de pollo
     et: kanaliha
@@ -192,7 +192,7 @@ dv_has_:
     kl: kukkukuuaraq
     km: សាច់មាន់
     ko: 닭고기
-    ku-latn: goştê mirîşkê
+    ku_latn: goştê mirîşkê
     la: Pullina
     lfn: Carne de gal
     lt: vištiena
@@ -240,9 +240,9 @@ dv_has_:
     wuu: 鸡肉
     yue: 雞肉
     zh: 雞肉
-    zh-hans: 鸡肉
-    zh-hant: 雞肉
-    zh-hk: 雞肉
+    zh_hans: 鸡肉
+    zh_hant: 雞肉
+    zh_hk: 雞肉
 ---
 # [[Chicken_Meat]] 
 

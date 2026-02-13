@@ -52,7 +52,7 @@ dv_has_:
     ar: بثق
     ast: estrusión
     bar: Extrusion
-    be-tarask: экструзія
+    be_tarask: экструзія
     bg: Екструдиране
     ca: extrusió
     cs: extruze
@@ -88,10 +88,10 @@ dv_has_:
     uk: Екструзія
     yue: 擠型
     zh: 擠製
-    zh-cn: 挤出机
-    zh-hans: 压出机
-    zh-hant: 擠出機
-    zh-tw: 擠型
+    zh_cn: 挤出机
+    zh_hans: 压出机
+    zh_hant: 擠出機
+    zh_tw: 擠型
 ---
 # [[Extrusion]] 
 

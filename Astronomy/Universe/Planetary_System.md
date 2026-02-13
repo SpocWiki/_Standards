@@ -114,7 +114,7 @@ dv_has_:
     ar: نظام كوكبي
     ast: sistema planetariu
     be: планетная сістэма
-    be-tarask: плянэтная сыстэма
+    be_tarask: плянэтная сыстэма
     bg: планетарна система
     bn: গ্রহ ব্যবস্থা
     bs: Planetarni sistem
@@ -126,8 +126,8 @@ dv_has_:
     de: Planetensystem
     el: πλανητικό σύστημα
     en: planetary system
-    en-ca: planetary system
-    en-gb: planetary system
+    en_ca: planetary system
+    en_gb: planetary system
     eo: planedsistemo
     es: sistema planetario
     et: planeedisüsteem
@@ -158,7 +158,7 @@ dv_has_:
     lb: Planéitesystem
     mk: планетарен систем
     ms: sistem planet
-    ms-arab: سيستم ڤلانيت
+    ms_arab: سيستم ڤلانيت
     my: ဂြိုဟ်စု
     nb: planetsystem
     nl: planetenstelsel
@@ -168,7 +168,7 @@ dv_has_:
     pl: układ planetarny
     pnb: پاندھی پربندھ
     pt: sistema planetário
-    pt-br: sistema planetário
+    pt_br: sistema planetário
     ro: sistem planetar
     ru: планетная система
     scn: sistema planitariu
@@ -180,8 +180,8 @@ dv_has_:
     sms: planeʹttkåʹdd
     sq: sistem planetar
     sr: планетарни систем
-    sr-ec: планетарни систем
-    sr-el: planetarni sistem
+    sr_ec: планетарни систем
+    sr_el: planetarni sistem
     sv: solsystem
     ta: கோள் தொகுதி
     th: ระบบดาวเคราะห์
@@ -193,12 +193,12 @@ dv_has_:
     wuu: 行星系
     yue: 行星系
     zh: 行星系
-    zh-cn: 行星系
-    zh-hans: 行星系
-    zh-hant: 行星系
-    zh-hk: 行星系
-    zh-sg: 行星系
-    zh-tw: 行星系
+    zh_cn: 行星系
+    zh_hans: 行星系
+    zh_hant: 行星系
+    zh_hk: 行星系
+    zh_sg: 行星系
+    zh_tw: 行星系
 ---
 # [[Planetary_System]] 
 

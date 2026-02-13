@@ -68,7 +68,7 @@ dv_has_:
     ast: Nolan Bushnell
     az: Nolan Buşnell
     azb: نولان باشنل
-    be-tarask: Нолан Бушнэл
+    be_tarask: Нолан Бушнэл
     bg: Нолан Бушнел
     ca: Nolan Bushnell
     cs: Nolan Bushnell
@@ -102,14 +102,14 @@ dv_has_:
     nn: Nolan Bushnell
     pl: Nolan Bushnell
     pt: Nolan Bushnell
-    pt-br: Nolan Bushnell
+    pt_br: Nolan Bushnell
     ro: Nolan Bushnell
     ru: Нолан Бушнель
     sl: Nolan Bushnell
     sq: Nolan Bushnell
     sr: Нолан Бушнел
-    sr-ec: Нолан Бушнел
-    sr-el: Nolan Bušnel
+    sr_ec: Нолан Бушнел
+    sr_el: Nolan Bušnel
     sv: Nolan Bushnell
     tr: Nolan Bushnell
     uk: Нолан Бушнелл
@@ -117,12 +117,12 @@ dv_has_:
     wuu: 诺兰·布什内尔
     yue: 諾蘭·布殊內爾
     zh: 诺兰·布什内尔
-    zh-cn: 诺兰·布什内尔
-    zh-hans: 诺兰·布什内尔
-    zh-hant: 諾蘭·布什內爾
-    zh-hk: 諾蘭·布殊內爾
-    zh-sg: 诺兰·布什内尔
-    zh-tw: 諾蘭·布希內爾
+    zh_cn: 诺兰·布什内尔
+    zh_hans: 诺兰·布什内尔
+    zh_hant: 諾蘭·布什內爾
+    zh_hk: 諾蘭·布殊內爾
+    zh_sg: 诺兰·布什内尔
+    zh_tw: 諾蘭·布希內爾
 ---
 # [[Bushnell,Nolan]] 
 

@@ -199,7 +199,7 @@ dv_has_:
     ban: Kelod
     bcl: Habagatan
     be: поўдзень
-    be-tarask: поўдзень
+    be_tarask: поўдзень
     bew: Kidul
     bg: Юг
     bjn: Salatan
@@ -222,14 +222,14 @@ dv_has_:
     dag: Nyɔŋ ni
     de: Süden
     de-at: Süden
-    de-ch: Süden
+    de_ch: Süden
     diq: Veroc
     dtp: kabaatan
     el: νότος
     eml: Mezdé
     en: south
-    en-ca: south
-    en-gb: south
+    en_ca: south
+    en_gb: south
     eo: sudo
     es: sur
     et: lõuna
@@ -292,7 +292,7 @@ dv_has_:
     lt: pietūs
     lv: dienvidi
     mai: दक्षिण
-    map-bms: Kidul
+    map_bms: Kidul
     mdf: Лямбе ширесь
     mg: Atsimo
     mhr: Кечывалвел
@@ -303,7 +303,7 @@ dv_has_:
     mnc: ᠵᡠᠯᡝᡵᡤᡳ
     mr: दक्षिण दिशा
     ms: selatan
-    ms-arab: سلاتن
+    ms_arab: سلاتن
     mt: nofsinhar
     my: တောင်အရပ်
     myv: Лембе ёнкс
@@ -326,7 +326,7 @@ dv_has_:
     pl: południe
     pnb: لما
     pt: sul
-    pt-br: sul
+    pt_br: sul
     pwn: navalj
     qu: Urin
     ro: sud
@@ -348,7 +348,7 @@ dv_has_:
     so: Koonfur
     sq: Jugu
     sr: југ
-    sr-ec: Југ
+    sr_ec: Југ
     su: Kidul
     sv: söder
     sw: Kusini
@@ -360,7 +360,7 @@ dv_has_:
     tl: Timog
     tr: güney
     tt: көньяк
-    tt-cyrl: көньяк
+    tt_cyrl: көньяк
     udm: лымшор
     ug: جەنۇب
     uk: південь
@@ -380,14 +380,14 @@ dv_has_:
     za: Baihnamz
     zgh: ⴰⵏⵣⵓⵍ
     zh: 南
-    zh-cn: 南
-    zh-hans: 南
-    zh-hant: 南
-    zh-hk: 南
-    zh-mo: 南
+    zh_cn: 南
+    zh_hans: 南
+    zh_hant: 南
+    zh_hk: 南
+    zh_mo: 南
     zh-my: 南
-    zh-sg: 南
-    zh-tw: 南
+    zh_sg: 南
+    zh_tw: 南
 dv_is_:
   same_as:
   - '[[../../WikiData/WD~South,667|WD~South,667]]'

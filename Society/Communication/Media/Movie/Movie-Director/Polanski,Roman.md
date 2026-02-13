@@ -162,7 +162,7 @@ dv_has_:
     ba: Роман Полански
     bar: Roman Polanski
     be: Раман Паланскі
-    be-tarask: Раман Палянскі
+    be_tarask: Раман Палянскі
     bg: Роман Полански
     bn: রোমান পোলান্স্কি
     br: Roman Polanski
@@ -174,13 +174,13 @@ dv_has_:
     cy: Roman Polanski
     da: Roman Polanski
     de: Roman Polański
-    de-ch: Roman Polański
+    de_ch: Roman Polański
     diq: Roman Polanski
     el: Ρόμαν Πολάνσκι
     eml: Roman Polański
     en: Roman Polanski
-    en-ca: Roman Polanski
-    en-gb: Roman Polanski
+    en_ca: Roman Polanski
+    en_gb: Roman Polanski
     en-us: Roman Polanski
     eo: Roman Polański
     es: Roman Polanski
@@ -222,7 +222,7 @@ dv_has_:
     nah: Roman Polanski
     nb: Roman Polański
     nds: Roman Polanski
-    nds-nl: Roman Polanski
+    nds_nl: Roman Polanski
     nl: Roman Polanski
     nn: Roman Polanski
     oc: Roman Polanski
@@ -232,7 +232,7 @@ dv_has_:
     pms: Roman Polanski
     pnb: رومان پولانسکی
     pt: Roman Polanski
-    pt-br: Roman Polanski
+    pt_br: Roman Polanski
     qu: Roman Polański
     ro: Roman Polanski
     ru: Роман Полански
@@ -243,7 +243,7 @@ dv_has_:
     sl: Roman Polanski
     sq: Roman Polański
     sr: Роман Полански
-    sr-ec: Роман Полански
+    sr_ec: Роман Полански
     sv: Roman Polański
     ta: ரோமன் போலான்ஸ்கி
     th: โรมัน โปลันสกี
@@ -261,7 +261,7 @@ dv_has_:
     yo: Roman Polanski
     yue: 波蘭斯基
     zh: 羅曼·波蘭斯基
-    zh-hant: 羅曼·波蘭斯基
+    zh_hant: 羅曼·波蘭斯基
 ---
 # [[Polanski,Roman]] 
 

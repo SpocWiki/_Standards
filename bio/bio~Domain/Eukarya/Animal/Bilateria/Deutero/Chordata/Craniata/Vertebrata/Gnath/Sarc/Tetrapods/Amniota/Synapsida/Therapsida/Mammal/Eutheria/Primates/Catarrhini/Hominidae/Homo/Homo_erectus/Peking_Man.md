@@ -67,7 +67,7 @@ dv_has_:
     ast: Homo erectus pekinensis
     ba: Синантроп
     be: Сінантрап
-    be-tarask: сынантрап
+    be_tarask: сынантрап
     bg: синантроп
     ca: Home de Pequín
     ceb: Homo erectus pekinensis
@@ -114,7 +114,7 @@ dv_has_:
     sl: Pekinški človek
     sq: Homo erectus pekinensis
     sr: пекиншки човек
-    sr-ec: Пекиншки човек
+    sr_ec: Пекиншки човек
     sv: Pekingmänniskan
     ta: பீக்கிங் மனிதன்
     th: มนุษย์ปักกิ่ง
@@ -127,8 +127,8 @@ dv_has_:
     wuu: 北京猿人
     yue: 北京人
     zh: 北京人
-    zh-cn: 北京人
-    zh-hans: 北京人
+    zh_cn: 北京人
+    zh_hans: 北京人
 ---
 # [[Peking_Man]] 
 

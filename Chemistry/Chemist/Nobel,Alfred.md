@@ -190,7 +190,7 @@ dv_has_:
     bar: Alfred Bernhard Nobel
     bcl: Alfred Nobel
     be: Альфрэд Нобель
-    be-tarask: Альфрэд Нобэль
+    be_tarask: Альфрэд Нобэль
     bg: Алфред Нобел
     bho: अल्फ्रेड नोबेल
     bn: আলফ্রেদ নোবেল
@@ -205,19 +205,19 @@ dv_has_:
     ckb: ئەلفرێد نۆبێل
     co: Alfred Nobel
     crh: Alfred Nobel
-    crh-latn: Alfred Nobel
+    crh_latn: Alfred Nobel
     cs: Alfred Nobel
     cv: Альфред Нобель
     cy: Alfred Nobel
     da: Alfred Nobel
     de: Alfred Nobel
-    de-ch: Alfred Nobel
+    de_ch: Alfred Nobel
     diq: Alfred Nobel
     dty: अल्फ्रेड नोबेल
     el: Άλφρεντ Νομπέλ
     en: Alfred Nobel
-    en-ca: Alfred Nobel
-    en-gb: Alfred Nobel
+    en_ca: Alfred Nobel
+    en_gb: Alfred Nobel
     eo: Alfred Nobel
     es: Alfred Nobel
     et: Alfred Nobel
@@ -302,7 +302,7 @@ dv_has_:
     pnb: الفریڈ نوبل
     ps: الفرېډ نوبل
     pt: Alfred Nobel
-    pt-br: Alfred Nobel
+    pt_br: Alfred Nobel
     qu: Alfred Nobel
     rki: အဲလ်ဖရက် နိုဘယ်
     rmf: Alfred Nobel
@@ -328,7 +328,7 @@ dv_has_:
     so: Alfred Nobel
     sq: Alfred Nobel
     sr: Алфред Нобел
-    sr-ec: Алфред Нобел
+    sr_ec: Алфред Нобел
     su: Alfred Nobel
     sv: Alfred Nobel
     sw: Alfred Nobel
@@ -355,11 +355,11 @@ dv_has_:
     yue: 諾貝爾
     zgh: ⴰⵍⴼⵔⵉⴷ ⵏⵓⴱⵍ
     zh: 阿尔弗雷德·诺贝尔
-    zh-cn: 阿尔弗雷德·诺贝尔
-    zh-hans: 阿尔弗雷德·诺贝尔
-    zh-hant: 阿佛列·諾貝爾
-    zh-hk: 艾佛·諾貝爾
-    zh-tw: 阿佛列·諾貝爾
+    zh_cn: 阿尔弗雷德·诺贝尔
+    zh_hans: 阿尔弗雷德·诺贝尔
+    zh_hant: 阿佛列·諾貝爾
+    zh_hk: 艾佛·諾貝爾
+    zh_tw: 阿佛列·諾貝爾
 ---
 # [[Nobel,Alfred]] 
 

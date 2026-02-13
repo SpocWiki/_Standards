@@ -42,7 +42,7 @@ dv_has_:
   name_:
     ar: كونتراباسون
     ast: contrafagot
-    be-tarask: контрафагот
+    be_tarask: контрафагот
     ca: contrafagot
     cs: kontrafagot
     cy: basŵn dwbl
@@ -83,7 +83,7 @@ dv_has_:
     uz: Kontrafagot
     yue: 低音巴松管
     zh: 低音巴松管
-    zh-tw: 倍低音管
+    zh_tw: 倍低音管
 ---
 # [[Contrabassoon]] 
 

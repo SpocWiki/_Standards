@@ -87,7 +87,7 @@ dv_has_:
   name_:
     ar: مضخة حرارية
     bar: Wärmepumpn
-    be-tarask: цёплавая помпа
+    be_tarask: цёплавая помпа
     bg: Топлинна помпа
     bn: তাপ পাম্প
     bs: Toplotna pumpa
@@ -116,11 +116,11 @@ dv_has_:
     it: pompa di calore
     ja: ヒートポンプ
     kk: Жылу үрлегіші
-    kk-arab: جىلۋ ۇرلەگىشى
+    kk_arab: جىلۋ ۇرلەگىشى
     kk-cn: جىلۋ ۇرلەگىشى
-    kk-cyrl: Жылу үрлегіші
+    kk_cyrl: Жылу үрлегіші
     kk-kz: Жылу үрлегіші
-    kk-latn: Jılw ürlegişi
+    kk_latn: Jılw ürlegişi
     kk-tr: Jılw ürlegişi
     ko: 열펌프
     ko-kp: 열뽐프
@@ -141,8 +141,8 @@ dv_has_:
     sk: Tepelné čerpadlo
     sl: toplotna črpalka
     sr: топлотна пумпа
-    sr-ec: Топлотна пумпа
-    sr-el: Toplotna pumpa
+    sr_ec: Топлотна пумпа
+    sr_el: Toplotna pumpa
     sv: värmepump
     ta: வெப்ப இறைப்பி
     th: ปั๊มความร้อน
@@ -154,12 +154,12 @@ dv_has_:
     yi: היץ פאמפע
     yue: 熱泵
     zh: 熱泵
-    zh-cn: 热泵
-    zh-hans: 热泵
-    zh-hant: 熱泵
-    zh-hk: 熱泵
-    zh-sg: 热泵
-    zh-tw: 熱泵
+    zh_cn: 热泵
+    zh_hans: 热泵
+    zh_hant: 熱泵
+    zh_hk: 熱泵
+    zh_sg: 热泵
+    zh_tw: 熱泵
 ---
 # [[Heat_Pump]] 
 

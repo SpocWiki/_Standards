@@ -235,7 +235,7 @@ dv_has_:
     az: astronomik cisimlər
     ba: астрономик есем
     be: астранамічны аб'ект
-    be-tarask: астранамічны аб’ект
+    be_tarask: астранамічны аб’ект
     bg: астрономически обект
     bn: জ্যোতির্বৈজ্ঞানিক বস্তু
     br: korf-egor
@@ -249,12 +249,12 @@ dv_has_:
     da: himmellegeme
     de: astronomisches Objekt
     de-at: astronomisches Objekt
-    de-ch: astronomisches Objekt
+    de_ch: astronomisches Objekt
     dsb: astronomiski objekt
     el: ουράνιο σώμα
     en: astronomical object
-    en-ca: astronomical object
-    en-gb: astronomical object
+    en_ca: astronomical object
+    en_gb: astronomical object
     eo: astro
     es: objeto astronómico
     et: taevakeha
@@ -300,7 +300,7 @@ dv_has_:
     mn: астрономийн объект
     mr: खगोलीय वस्तू
     ms: objek astronomi
-    ms-arab: اوبجيک استرونومي
+    ms_arab: اوبجيک استرونومي
     nan: thian-thé
     nb: himmellegeme
     ne: खगोलीय वस्तु
@@ -317,7 +317,7 @@ dv_has_:
     pnb: اجرام فلکی
     ps: نجومي شی
     pt: corpo celeste
-    pt-br: corpo celeste
+    pt_br: corpo celeste
     qu: hanan pacha pachanka
     ro: corp ceresc
     ru: астрономический объект
@@ -333,8 +333,8 @@ dv_has_:
     sms: âʹlmmkäpplõk
     sq: objekt astronomik
     sr: небеско тело
-    sr-ec: небеско тело
-    sr-el: nebesko telo
+    sr_ec: небеско тело
+    sr_el: nebesko telo
     sv: himlakropp
     sw: gimba la angani
     szl: astrōnōmiczny ôbiekt
@@ -347,7 +347,7 @@ dv_has_:
     tok: mun
     tr: astronomik cisimler
     tt: астрономик җисем
-    tt-cyrl: астрономик җисем
+    tt_cyrl: астрономик җисем
     uk: астрономічний об'єкт
     ur: اجرام فلکی
     uz: astronomik obyekt
@@ -360,11 +360,11 @@ dv_has_:
     xmf: ასტრონომიული ობიექტი
     yue: 天體
     zh: 天体
-    zh-cn: 天体
-    zh-hans: 天体
-    zh-hant: 天體
-    zh-hk: 天體
-    zh-tw: 天體
+    zh_cn: 天体
+    zh_hans: 天体
+    zh_hant: 天體
+    zh_hk: 天體
+    zh_tw: 天體
 ---
 # [[Astronomical_Object]] 
 

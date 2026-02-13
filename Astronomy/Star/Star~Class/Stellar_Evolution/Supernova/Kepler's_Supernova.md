@@ -66,11 +66,11 @@ dv_has_:
     da: Keplers supernova
     de: Supernova 1604
     de-at: SN 1604
-    de-ch: SN 1604
+    de_ch: SN 1604
     el: Υπερκαινοφανής αστέρας 1604
     en: SN 1604
-    en-ca: SN 1604
-    en-gb: SN 1604
+    en_ca: SN 1604
+    en_gb: SN 1604
     en-us: SN 1604
     eo: SN 1604
     es: SN 1604
@@ -126,7 +126,7 @@ dv_has_:
     oc: SN 1604
     pl: SN 1604
     pt: Supernova de Kepler
-    pt-br: SN 1604
+    pt_br: SN 1604
     ro: SN 1604
     ru: SN 1604
     sk: SN 1604
@@ -139,12 +139,12 @@ dv_has_:
     vi: SN 1604
     vo: SN 1604
     zh: SN 1604
-    zh-cn: SN 1604
-    zh-hans: SN 1604
-    zh-hant: SN 1604
-    zh-hk: SN 1604
-    zh-sg: SN 1604
-    zh-tw: SN 1604
+    zh_cn: SN 1604
+    zh_hans: SN 1604
+    zh_hant: SN 1604
+    zh_hk: SN 1604
+    zh_sg: SN 1604
+    zh_tw: SN 1604
 ---
 # [[Kepler's_Supernova]] 
 

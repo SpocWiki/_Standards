@@ -84,18 +84,18 @@ dv_has_:
     ar: الفضول
     az: maraq
     ba: ҡыҙыҡһыныу
-    be-tarask: цікавасьць
+    be_tarask: цікавасьць
     bg: любопитство
     bn: কৌতূহল
     ca: curiositat
     cs: zvídavost
     da: nysgerrighed
     de: Neugier
-    de-ch: Neugier
+    de_ch: Neugier
     el: περιέργεια
     en: curiosity
-    en-ca: curiosity
-    en-gb: curiosity
+    en_ca: curiosity
+    en_gb: curiosity
     eo: scivolemo (apartigilo)
     es: curiosidad
     et: uudishimu
@@ -130,7 +130,7 @@ dv_has_:
     pnb: جگیاسا
     ps: کنجکاوي
     pt: curiosidade
-    pt-br: curiosidade
+    pt_br: curiosidade
     ro: curiozitate
     ru: любопытство
     scn: curiusità
@@ -150,8 +150,8 @@ dv_has_:
     vi: tò mò
     yue: 好奇
     zh: 好奇心
-    zh-cn: 好奇心
-    zh-tw: 好奇心
+    zh_cn: 好奇心
+    zh_tw: 好奇心
 ---
 # [[Curiosity]] 
 

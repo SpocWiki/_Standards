@@ -43,7 +43,7 @@ dv_has_:
     de: Paul Thomas Anderson
     el: Πολ Τόμας Άντερσον
     en: Paul Thomas Anderson
-    en-gb: Paul Thomas Anderson
+    en_gb: Paul Thomas Anderson
     eo: Paul Thomas Anderson
     es: Paul Thomas Anderson
     eu: Paul Thomas Anderson
@@ -77,7 +77,7 @@ dv_has_:
     pap: Paul Thomas Anderson
     pl: Paul Thomas Anderson
     pt: Paul Thomas Anderson
-    pt-br: Paul Thomas Anderson
+    pt_br: Paul Thomas Anderson
     ro: Paul Thomas Anderson
     ru: Пол Томас Андерсон
     sh: Paul Thomas Anderson
@@ -92,10 +92,10 @@ dv_has_:
     vi: Paul Thomas Anderson
     yue: 保羅湯馬士安德遜
     zh: 保羅·湯瑪斯·安德森
-    zh-cn: 保罗·托马斯·安德森
-    zh-hans: 保罗·托马斯·安德森
-    zh-hk: 保羅·湯馬士·安德遜
-    zh-sg: 保罗·汤玛斯·安德森
+    zh_cn: 保罗·托马斯·安德森
+    zh_hans: 保罗·托马斯·安德森
+    zh_hk: 保羅·湯馬士·安德遜
+    zh_sg: 保罗·汤玛斯·安德森
 ---
 # [[Anderson,Paul_Thomas]] 
 

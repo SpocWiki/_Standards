@@ -48,7 +48,7 @@ dv_has_:
     oc: Elwin Bruno Christoffel
     pl: Elwin Bruno Christoffel
     pt: Elwin Bruno Christoffel
-    pt-br: Elwin Bruno Christoffel
+    pt_br: Elwin Bruno Christoffel
     ro: Elwin Bruno Christoffel
     ru: Элвин Бруно Кристоффель
     sl: Elwin Bruno Christoffel

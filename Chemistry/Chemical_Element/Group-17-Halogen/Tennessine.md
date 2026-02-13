@@ -132,7 +132,7 @@ dv_has_:
     az: Ununseptium
     ban: Ténnessin
     be: Унунсептый
-    be-tarask: Тэнэс
+    be_tarask: Тэнэс
     bg: тенесин
     bho: टेनेसीन
     bn: টেনেসাইন
@@ -150,8 +150,8 @@ dv_has_:
     de: Tenness
     el: τενέσιο
     en: tennessine
-    en-ca: tennessine
-    en-gb: tennessine
+    en_ca: tennessine
+    en_gb: tennessine
     eo: teneso
     es: teneso
     et: tennessiin
@@ -214,7 +214,7 @@ dv_has_:
     pl: tenes
     ps: تنسين
     pt: tenessínio
-    pt-br: tenessínio
+    pt_br: tenessínio
     qu: Ununseptiyu
     ro: tennessin
     ru: теннессин
@@ -226,7 +226,7 @@ dv_has_:
     sl: tenes
     sq: tenesini
     sr: тенесин
-    sr-ec: Тенесин
+    sr_ec: Тенесин
     sv: tenness
     sw: ununsepti
     ta: தென்னிசீன்
@@ -249,11 +249,11 @@ dv_has_:
     yo: Ununseptium
     yue: 鿬
     zh: 鿬
-    zh-cn: 鿬
-    zh-hans: 鿬
-    zh-hant: 鿬
-    zh-hk: 鿬
-    zh-tw: 鿬
+    zh_cn: 鿬
+    zh_hans: 鿬
+    zh_hant: 鿬
+    zh_hk: 鿬
+    zh_tw: 鿬
     zu: IThesimbi
 ---
 # [[Tennessine]] 

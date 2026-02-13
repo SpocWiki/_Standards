@@ -153,7 +153,7 @@ dv_has_:
     azb: لیبرالیسم
     ba: Либерализм
     be: лібералізм
-    be-tarask: лібэралізм
+    be_tarask: лібэралізм
     bg: либерализъм
     bn: উদারনীতিবাদ
     br: Frankizouriezh
@@ -173,8 +173,8 @@ dv_has_:
     diq: Liberalizm
     el: φιλελευθερισμός
     en: liberalism
-    en-ca: Liberalism
-    en-gb: liberalism
+    en_ca: Liberalism
+    en_gb: liberalism
     eo: liberalismo
     es: liberalismo
     et: liberalism
@@ -219,7 +219,7 @@ dv_has_:
     krc: Либерализм
     krj: liberalismo
     ku: lîberalîzm
-    ku-latn: lîberalîzm
+    ku_latn: lîberalîzm
     kw: Livrelieth
     ky: Либерализм
     la: Liberalismus
@@ -237,7 +237,7 @@ dv_has_:
     mn: Либерализм
     mr: उदारमतवाद
     ms: liberalisme
-    ms-arab: ليبراليسمى
+    ms_arab: ليبراليسمى
     mt: liberaliżmu
     mwl: Liberalismo
     my: လစ်ဘရယ်ဝါဒ
@@ -259,7 +259,7 @@ dv_has_:
     pnb: لبرلزم
     ps: لېبراليزم
     pt: liberalismo
-    pt-br: liberalismo
+    pt_br: liberalismo
     rm: Liberalissem
     ro: liberalism
     ru: либерализм
@@ -280,8 +280,8 @@ dv_has_:
     so: Liberalinimo
     sq: Liberalizmi
     sr: либерализам
-    sr-ec: либерализам
-    sr-el: liberalizam
+    sr_ec: либерализам
+    sr_el: liberalizam
     su: Liberalisme
     sv: liberalism
     sw: Uliberali
@@ -310,14 +310,14 @@ dv_has_:
     yue: 自由主義
     za: Swyouzcujyi
     zh: 自由主義
-    zh-cn: 自由主义
-    zh-hans: 自由主义
-    zh-hant: 自由主義
-    zh-hk: 自由主義
-    zh-mo: 自由主义
+    zh_cn: 自由主义
+    zh_hans: 自由主义
+    zh_hant: 自由主義
+    zh_hk: 自由主義
+    zh_mo: 自由主义
     zh-my: 自由主义
-    zh-sg: 自由主义
-    zh-tw: 自由主義
+    zh_sg: 自由主义
+    zh_tw: 自由主義
 ---
 # [[Liberalism]] 
 

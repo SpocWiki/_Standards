@@ -64,7 +64,7 @@ dv_has_:
     ast: Hippopotamidae
     avk: troskoleem
     be: бегемотавыя
-    be-tarask: Бэгемотавыя
+    be_tarask: Бэгемотавыя
     bg: хипопотамови
     br: Hippopotamidae
     ca: hipopotàmid
@@ -118,7 +118,7 @@ dv_has_:
     os: Бегемотхуызтæ
     pl: hipopotamowate
     pt: Hippopotamidae
-    pt-br: Hippopotamidae
+    pt_br: Hippopotamidae
     qu: Mayu khuchi
     ro: Hippopotamidae
     ru: Бегемотовые
@@ -141,12 +141,12 @@ dv_has_:
     wuu: 河马科
     yue: 河馬科
     zh: 河马科
-    zh-cn: 河马科
-    zh-hans: 河马科
-    zh-hant: 河馬科
-    zh-hk: 河馬科
-    zh-sg: 河马科
-    zh-tw: 河馬科
+    zh_cn: 河马科
+    zh_hans: 河马科
+    zh_hant: 河馬科
+    zh_hk: 河馬科
+    zh_sg: 河马科
+    zh_tw: 河馬科
 ---
 # [[Hippopotamidae]] 
 

@@ -67,7 +67,7 @@ dv_has_:
     ast: Acrobacia
     az: akrobatika
     be: акрабатыка
-    be-tarask: акрабатыка
+    be_tarask: акрабатыка
     bg: Акробатика
     ca: acrobàcia
     cs: akrobacie
@@ -94,11 +94,11 @@ dv_has_:
     it: acrobazia
     ja: アクロバット
     kk: акробатика
-    kk-arab: اكروباتىيكا
+    kk_arab: اكروباتىيكا
     kk-cn: اكروباتىيكا
-    kk-cyrl: Акробатика
+    kk_cyrl: Акробатика
     kk-kz: Акробатика
-    kk-latn: Akrobatïka
+    kk_latn: Akrobatïka
     kk-tr: Akrobatïka
     ko: 곡예
     ky: акробатика
@@ -122,7 +122,7 @@ dv_has_:
     smn: akrobatia
     sms: akrobatia
     sr: акробатика
-    sr-ec: акробатика
+    sr_ec: акробатика
     sv: akrobatik
     ta: கழைக்கூத்து
     tg: Акробатика
@@ -134,8 +134,8 @@ dv_has_:
     vi: Nhào lộn
     yue: 特技
     zh: 杂技
-    zh-hant: 特技表演
-    zh-tw: 特技表演
+    zh_hant: 特技表演
+    zh_tw: 特技表演
 ---
 # [[Acrobatics]] 
 

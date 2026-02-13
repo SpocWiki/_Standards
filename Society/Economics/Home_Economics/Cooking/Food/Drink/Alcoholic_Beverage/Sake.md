@@ -66,7 +66,7 @@ dv_has_:
     ban: Saké
     bcl: Sake
     be: Сакэ
-    be-tarask: Сакэ
+    be_tarask: Сакэ
     bg: Саке
     bn: সাকে
     ca: sake
@@ -110,7 +110,7 @@ dv_has_:
     my: ဆာကေး
     nan: Ji̍t-pún-chiú
     nb: sake
-    nds-nl: sake
+    nds_nl: sake
     nl: sake
     nn: sake
     oc: Saké
@@ -126,8 +126,8 @@ dv_has_:
     sl: sake
     sq: Sake
     sr: Sake
-    sr-ec: Саке
-    sr-el: Sake
+    sr_ec: Саке
+    sr_el: Sake
     sv: Sake
     th: สาเก
     tl: Sake
@@ -140,11 +140,11 @@ dv_has_:
     yue: 清酒
     zh: 日本酒
     zh-cn: 日本清酒
-    zh-hans: 日本清酒
-    zh-hant: 日本酒
-    zh-hk: 日本清酒
-    zh-sg: 日本清酒
-    zh-tw: 日本酒
+    zh_hans: 日本清酒
+    zh_hant: 日本酒
+    zh_hk: 日本清酒
+    zh_sg: 日本清酒
+    zh_tw: 日本酒
 ---
 # [[Sake]] 
 

@@ -99,7 +99,7 @@ dv_has_:
     az: Kasa
     ba: Сеүәтә
     be: Чаша
-    be-tarask: Келіх
+    be_tarask: Келіх
     bg: Чаша
     bn: কাংস্য মণ্ডল
     br: Kib
@@ -114,8 +114,8 @@ dv_has_:
     diq: Dore
     el: Κρατήρ
     en: Crater
-    en-ca: Crater
-    en-gb: Crater
+    en_ca: Crater
+    en_gb: Crater
     eo: Pokalo
     es: Crater
     et: Karikas
@@ -161,7 +161,7 @@ dv_has_:
     os: Къус (стъалыгуппар)
     pl: Gwiazdozbiór Pucharu
     pt: Crater
-    pt-br: Crater
+    pt_br: Crater
     ro: Cupa
     ru: Чаша
     sah: Кытыйа

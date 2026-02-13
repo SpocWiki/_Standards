@@ -104,7 +104,7 @@ dv_has_:
     ar: طيف مرئي
     ast: espectru visible
     be: бачнае выпраменьванне
-    be-tarask: бачнае выпраменьваньне
+    be_tarask: бачнае выпраменьваньне
     bg: Видим спектър
     bn: দৃশ্যমান বর্ণালী
     br: Spektr gwelus
@@ -119,8 +119,8 @@ dv_has_:
     de: Lichtspektrum
     el: ορατό φάσμα
     en: visible spectrum
-    en-ca: visible spectrum
-    en-gb: visible spectrum
+    en_ca: visible spectrum
+    en_gb: visible spectrum
     eo: videbla spektro
     es: espectro visible
     et: nähtav spekter
@@ -150,7 +150,7 @@ dv_has_:
     kn: ದೃಗ್ಗೋಚರ ರೋಹಿತ
     ko: 가시광선
     ku: şebanga ronahiya bînraw
-    ku-latn: şebenga ronahiya bînraw
+    ku_latn: şebenga ronahiya bînraw
     la: Spectrum visuale
     lb: Liichtspektrum
     lfn: Spetro eletromagnetal
@@ -183,7 +183,7 @@ dv_has_:
     tok: suno pi ken lukin
     tr: Görünür ışık
     tt: күренмә нурланыш
-    tt-cyrl: күренмә нурланыш
+    tt_cyrl: күренмә нурланыш
     uk: видиме світло
     ur: مرئی طیف
     uz: Ko‘rinadigan spektr
@@ -192,8 +192,8 @@ dv_has_:
     wuu: 可见光
     yue: 可見光
     zh: 可见光
-    zh-hant: 可見光
-    zh-hk: 可見光
+    zh_hant: 可見光
+    zh_hk: 可見光
 ---
 # [[Visible_Spectrum]] 
 

@@ -126,7 +126,7 @@ dv_has_:
     ast: Enllaz covalente
     az: Kovalent əlaqə
     be: кавалентная сувязь
-    be-tarask: кавалентная сувязь
+    be_tarask: кавалентная сувязь
     bg: Ковалентна връзка
     bn: সমযোজী বন্ধন
     bs: Kovalentna veza
@@ -164,11 +164,11 @@ dv_has_:
     kaa: Kovalent hám ion baylanısıw
     kab: Turza tattekkant
     kk: Коваленттік байланыс
-    kk-arab: كوۆالەنتتىك بايلانىس
+    kk_arab: كوۆالەنتتىك بايلانىس
     kk-cn: كوۆالەنتتىك بايلانىس
-    kk-cyrl: Коваленттік байланыс
+    kk_cyrl: Коваленттік байланыс
     kk-kz: Коваленттік байланыс
-    kk-latn: Kovalenttik baýlanıs
+    kk_latn: Kovalenttik baýlanıs
     kk-tr: Kovalenttik baýlanıs
     km: សម្ព័ន្ធកូវ៉ាឡង់
     ko: 공유 결합
@@ -191,7 +191,7 @@ dv_has_:
     pl: wiązanie kowalencyjne
     pnb: کوویلنٹ جوڑ
     pt: ligação covalente
-    pt-br: ligação covalente
+    pt_br: ligação covalente
     ro: legătură covalentă
     ru: ковалентная связь
     rue: Ковалентна вязба
@@ -208,8 +208,8 @@ dv_has_:
     sn: Chipfundo cheMagombenyina
     sq: Lidhja kovalente
     sr: ковалентна веза
-    sr-ec: ковалентна веза
-    sr-el: kovalentna veza
+    sr_ec: ковалентна веза
+    sr_el: kovalentna veza
     su: Beungkeut kovalén
     sv: kovalent bindning
     ta: சகப் பிணைப்பு
@@ -227,14 +227,14 @@ dv_has_:
     yo: Ìsopọ̀ àjọfagbáradìmú
     yue: 共價鍵
     zh: 共價鍵
-    zh-cn: 共价键
-    zh-hans: 共价键
-    zh-hant: 共價鍵
-    zh-hk: 共價鍵
-    zh-mo: 共價鍵
+    zh_cn: 共价键
+    zh_hans: 共价键
+    zh_hant: 共價鍵
+    zh_hk: 共價鍵
+    zh_mo: 共價鍵
     zh-my: 共价键
-    zh-sg: 共价键
-    zh-tw: 共價鍵
+    zh_sg: 共价键
+    zh_tw: 共價鍵
 ---
 # [[Covalent_Bond]] 
 

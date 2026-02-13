@@ -155,7 +155,7 @@ dv_has_:
     azb: سیفلیس
     bar: Syphilis
     be: сіфіліс
-    be-tarask: сыфіліс
+    be_tarask: сыфіліс
     bew: Bengang
     bg: Сифилис
     bn: সিফিলিস

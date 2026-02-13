@@ -90,7 +90,7 @@ dv_has_:
     arz: توماس بينشون
     ast: Thomas Pynchon
     be: Томас Пінчан
-    be-tarask: Томас Пінчан
+    be_tarask: Томас Пінчан
     bg: Томас Пинчън
     bn: থমাস পিনচন
     br: Thomas Pynchon
@@ -102,8 +102,8 @@ dv_has_:
     de: Thomas Pynchon
     el: Τόμας Πίντσον
     en: Thomas Pynchon
-    en-ca: Thomas Pynchon
-    en-gb: Thomas Pynchon
+    en_ca: Thomas Pynchon
+    en_gb: Thomas Pynchon
     eo: Thomas Pynchon
     es: Thomas Pynchon
     et: Thomas Pynchon
@@ -141,7 +141,7 @@ dv_has_:
     pap: Thomas Pynchon
     pl: Thomas Pynchon
     pt: Thomas Pynchon
-    pt-br: Thomas Pynchon
+    pt_br: Thomas Pynchon
     ro: Thomas Pynchon
     ru: Томас Пинчон
     sco: Thomas Pynchon

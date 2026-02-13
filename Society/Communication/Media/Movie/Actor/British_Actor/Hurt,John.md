@@ -51,11 +51,11 @@ dv_has_:
     da: John Hurt
     de: John Hurt
     de-at: John Hurt
-    de-ch: John Hurt
+    de_ch: John Hurt
     el: Τζον Χερτ
     en: John Hurt
-    en-ca: John Hurt
-    en-gb: John Hurt
+    en_ca: John Hurt
+    en_gb: John Hurt
     eo: John Hurt
     es: John Hurt
     et: John Hurt
@@ -101,7 +101,7 @@ dv_has_:
     nap: John Hurt
     nb: John Hurt
     nds: John Hurt
-    nds-nl: John Hurt
+    nds_nl: John Hurt
     nl: John Hurt
     nn: John Hurt
     nrm: John Hurt
@@ -112,7 +112,7 @@ dv_has_:
     pms: John Hurt
     prg: John Hurt
     pt: John Hurt
-    pt-br: John Hurt
+    pt_br: John Hurt
     qu: John Hurt
     rgn: John Hurt
     rm: John Hurt
@@ -126,8 +126,8 @@ dv_has_:
     sl: John Hurt
     sq: John Hurt
     sr: Џон Херт
-    sr-ec: Џон Херт
-    sr-el: Džon Hert
+    sr_ec: Џон Херт
+    sr_el: Džon Hert
     sv: John Hurt
     sw: John Hurt
     tl: John Hurt
@@ -146,13 +146,13 @@ dv_has_:
     yi: דזשאן הערט
     yue: 尊赫
     zh: 约翰·赫特
-    zh-cn: 约翰·赫特
-    zh-hans: 约翰·赫特
-    zh-hant: 約翰·赫特
-    zh-hk: 尊·赫
+    zh_cn: 约翰·赫特
+    zh_hans: 约翰·赫特
+    zh_hant: 約翰·赫特
+    zh_hk: 尊·赫
     zh-my: 约翰·赫特
-    zh-sg: 约翰·赫特
-    zh-tw: 約翰·赫特
+    zh_sg: 约翰·赫特
+    zh_tw: 約翰·赫特
     zu: John Hurt
 ---
 # [[Hurt,John]] 

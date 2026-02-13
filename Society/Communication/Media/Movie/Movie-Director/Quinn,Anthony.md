@@ -42,7 +42,7 @@ dv_has_:
     az: Entoni Kuinn
     azb: آنتونی کوئین
     be: Энтані Куін
-    be-tarask: Энтані Кўін
+    be_tarask: Энтані Кўін
     bg: Антъни Куин
     bn: অ্যান্থনি কুইন
     bs: Anthony Quinn
@@ -53,11 +53,11 @@ dv_has_:
     cy: Anthony Quinn
     da: Anthony Quinn
     de: Anthony Quinn
-    de-ch: Anthony Quinn
+    de_ch: Anthony Quinn
     el: Άντονι Κουίν
     en: Anthony Quinn
-    en-ca: Anthony Quinn
-    en-gb: Anthony Quinn
+    en_ca: Anthony Quinn
+    en_gb: Anthony Quinn
     eo: Anthony Quinn
     es: Anthony Quinn
     et: Anthony Quinn
@@ -98,7 +98,7 @@ dv_has_:
     pap: Anthony Quinn
     pl: Anthony Quinn
     pt: Anthony Quinn
-    pt-br: Anthony Quinn
+    pt_br: Anthony Quinn
     qu: Anthony Quinn
     ro: Anthony Quinn
     ru: Энтони Куинн
@@ -120,10 +120,10 @@ dv_has_:
     yo: Anthony Quinn
     yue: 安東尼昆
     zh: 安东尼·奎恩
-    zh-cn: 安东尼·奎恩
-    zh-hant: 安東尼·昆
+    zh_cn: 安东尼·奎恩
+    zh_hant: 安東尼·昆
     zh-my: 安东尼·昆
-    zh-sg: 安东尼·昆
+    zh_sg: 安东尼·昆
 ---
 #has_/time_/started :: 1915-04-21 
 #has_/time_/stopped ::  2001-06-03 

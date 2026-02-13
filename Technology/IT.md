@@ -178,7 +178,7 @@ dv_has_:
     azb: بیلگی تکنولوژیسی
     ba: Мәғлүмәт технологиялары
     be: інфармацыйныя тэхналогіі
-    be-tarask: інфармацыйныя тэхналёгіі
+    be_tarask: інфармацыйныя тэхналёгіі
     bg: информационни технологии
     bho: इन्फॉर्मेशन टेक्नोलॉजी
     bn: তথ্য প্রযুক্তি
@@ -190,11 +190,11 @@ dv_has_:
     cy: Technoleg gwybodaeth
     da: informationsteknologi
     de: Informationstechnik
-    de-ch: Informationstechnik
+    de_ch: Informationstechnik
     el: τεχνολογία πληροφοριών
     en: information technology
-    en-ca: Information technology
-    en-gb: information technology
+    en_ca: Information technology
+    en_gb: information technology
     eo: informa teknologio
     es: tecnologías de la información y la comunicación
     et: infotehnoloogia
@@ -248,7 +248,7 @@ dv_has_:
     mn: Мэдээллийн технологи
     mr: माहिती तंत्रज्ञान
     ms: teknologi maklumat
-    ms-arab: تيکنولوݢي معلومت
+    ms_arab: تيکنولوݢي معلومت
     mt: teknoloġija tal-informazzjoni
     mwl: Tecnologie de la anformaçon
     my: သတင်းအချက်အလက်နည်းပညာ
@@ -268,7 +268,7 @@ dv_has_:
     pnb: انفارمیشن ٹیکنالوجی
     ps: معلوماتي ټیکنالوژي
     pt: tecnologia da informação
-    pt-br: tecnologia da informação
+    pt_br: tecnologia da informação
     ro: tehnologia informației
     ru: информационные технологии
     rue: Інформачна технолоґія
@@ -287,14 +287,14 @@ dv_has_:
     so: Macluumaadka Teknolojiyadda
     sq: teknologji e informacionit
     sr: информациона технологија
-    sr-ec: информациона технологија
-    sr-el: informaciona tehnologija
+    sr_ec: информациона технологија
+    sr_el: informaciona tehnologija
     sv: informationsteknik
     sw: Teknolojia ya habari
     ta: தகவல் தொழில்நுட்பம்
     te: ఐటి
     tg: фановариии иттилоот
-    tg-cyrl: Фанноварии иттилоот
+    tg_cyrl: Фанноварии иттилоот
     th: เทคโนโลยีสารสนเทศ
     tl: Teknolohiyang pang-impormasyon
     tn: Maranya a Kakanyo
@@ -312,13 +312,13 @@ dv_has_:
     yi: אינפארמאציע טעכנאלאגיע
     yue: 資訊科技
     zh: 信息技术
-    zh-cn: 信息技术
-    zh-hans: 信息技术
-    zh-hant: 資訊科技
-    zh-hk: 資訊科技
+    zh_cn: 信息技术
+    zh_hans: 信息技术
+    zh_hant: 資訊科技
+    zh_hk: 資訊科技
     zh-my: 资讯科技
-    zh-sg: 资讯科技
-    zh-tw: 資訊科技
+    zh_sg: 资讯科技
+    zh_tw: 資訊科技
     zu: UbuChwepheshe boKwaziswa
 ---
 ## #has_/text_of_/abstract 

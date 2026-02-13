@@ -4,7 +4,7 @@ dv_has_:
     ab: Даниа
     ace: Denmark
     ady: Дание
-    aeb-arab: الدنمارك
+    aeb_arab: الدنمارك
     af: Denemarke
     am: ዴንማርክ
     ami: Denmark
@@ -30,7 +30,7 @@ dv_has_:
     bbc: Denmark
     bcl: Denmark
     be: Данія
-    be-tarask: Данія
+    be_tarask: Данія
     bew: Dènemarken
     bg: Дания
     bgn: ڈینمارک
@@ -43,7 +43,7 @@ dv_has_:
     bs: Danska
     bxr: Дани
     ca: Dinamarca
-    cbk-zam: Dinamarca
+    cbk_zam: Dinamarca
     cdo: Dăng-măh
     ce: Дани
     ceb: Dinamarka
@@ -53,7 +53,7 @@ dv_has_:
     ckb: دانمارک
     co: Danimarca
     crh: Danimarka
-    crh-latn: Danimarka
+    crh_latn: Danimarka
     cs: Dánsko
     csb: Dëńskô
     cu: Данїꙗ
@@ -63,7 +63,7 @@ dv_has_:
     dag: Denmark
     de: Dänemark
     de-at: Dänemark
-    de-ch: Dänemark
+    de_ch: Dänemark
     diq: Danimarka
     dsb: Dańska
     dtp: Denmark
@@ -74,8 +74,8 @@ dv_has_:
     el: Δανία
     eml: Danimàrca
     en: Denmark
-    en-ca: Denmark
-    en-gb: Denmark
+    en_ca: Denmark
+    en_gb: Denmark
     en-us: Denmark
     eo: Danio
     es: Dinamarca
@@ -102,7 +102,7 @@ dv_has_:
     gn: Ndinamayka
     gom: ಡೆನ್ಮಾರ್ಕ್
     gom-deva: डेन्मार्क
-    gom-latn: Denmark
+    gom_latn: Denmark
     got: "\U00010333\U00010330\U0001033D\U00010339\U0001033C\U00010330\U00010342\U0001033A\U00010330"
     gpe: Denmark
     gsw: Dänemark
@@ -179,7 +179,7 @@ dv_has_:
     lzh: 丹麥
     mad: Denmark
     mai: डेनमार्क
-    map-bms: Denmark
+    map_bms: Denmark
     mdf: Данмастор
     mg: Danmarka
     mhr: Даний
@@ -192,7 +192,7 @@ dv_has_:
     mnw: ဒိန်မက်
     mr: डेन्मार्क
     ms: Denmark
-    ms-arab: دينمرک
+    ms_arab: دينمرک
     mt: Danimarka
     mwl: Dinamarca
     my: ဒိန်းမတ်နိုင်ငံ
@@ -204,7 +204,7 @@ dv_has_:
     nap: Danemarca
     nb: Danmark
     nds: Däänmark
-    nds-nl: Denmaark
+    nds_nl: Denmaark
     ne: डेनमार्क
     new: डेनमार्क
     nl: Denemarken
@@ -232,7 +232,7 @@ dv_has_:
     prg: Dānanmarki
     ps: ډېنمارک
     pt: Dinamarca
-    pt-br: Dinamarca
+    pt_br: Dinamarca
     qu: Dansuyu
     rm: Danemarc
     rmy: Danemarka
@@ -270,8 +270,8 @@ dv_has_:
     so: Denmark
     sq: Danimarka
     sr: Данска
-    sr-ec: Данска
-    sr-el: Danska
+    sr_ec: Данска
+    sr_el: Danska
     srn: Danskmakondre
     ss: IDenimakhi
     st: Denmark
@@ -325,14 +325,14 @@ dv_has_:
     za: Danhmai
     zea: Denemarken
     zh: 丹麥
-    zh-cn: 丹麦
-    zh-hans: 丹麦
-    zh-hant: 丹麥
-    zh-hk: 丹麥
-    zh-mo: 丹麥
+    zh_cn: 丹麦
+    zh_hans: 丹麦
+    zh_hant: 丹麥
+    zh_hk: 丹麥
+    zh_mo: 丹麥
     zh-my: 丹麦
-    zh-sg: 丹麦
-    zh-tw: 丹麥
+    zh_sg: 丹麦
+    zh_tw: 丹麥
     zu: IDenimaki
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Denmark

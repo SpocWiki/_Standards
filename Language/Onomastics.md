@@ -64,7 +64,7 @@ dv_has_:
     ar: أصل الكلمة
     az: onomastika
     be: анамастыка
-    be-tarask: анамастыка
+    be_tarask: анамастыка
     bg: ономастика
     bn: অনোমাস্টিক্স
     br: anvadurezh
@@ -75,8 +75,8 @@ dv_has_:
     de: Namenforschung
     el: ονοματολογία
     en: onomastics
-    en-ca: onomastics
-    en-gb: onomastics
+    en_ca: onomastics
+    en_gb: onomastics
     eo: nomscienco
     es: onomástica
     et: onomastika
@@ -102,11 +102,11 @@ dv_has_:
     ja: 固有名詞学
     ka: ონომასტიკა
     kk: ономастика
-    kk-arab: ونوماستىيكا
+    kk_arab: ونوماستىيكا
     kk-cn: ونوماستىيكا
-    kk-cyrl: ономастика
+    kk_cyrl: ономастика
     kk-kz: ономастика
-    kk-latn: onomastïka
+    kk_latn: onomastïka
     kk-tr: onomastïka
     ko: 고유명사학
     ky: ономастика
@@ -123,7 +123,7 @@ dv_has_:
     os: ономастикæ
     pl: onomastyka
     pt: onomástica
-    pt-br: onomástica
+    pt_br: onomástica
     ro: onomastică
     ru: ономастика
     sah: ономастика
@@ -132,12 +132,12 @@ dv_has_:
     sl: onomastika
     sq: onomastika
     sr: ономастика
-    sr-ec: ономастика
-    sr-el: onomastika
+    sr_ec: ономастика
+    sr_el: onomastika
     stq: Noomenkunde
     sv: onomastik
     ta: பெயராய்வு
-    tg-cyrl: номастика
+    tg_cyrl: номастика
     tk: onomastika
     tr: onomastik
     ts: Vutivi bya ti-Onomastics
@@ -148,12 +148,12 @@ dv_has_:
     vro: onomastiga
     wuu: 专名学
     zh: 專名學
-    zh-cn: 专名学
-    zh-hans: 专名学
-    zh-hant: 專名學
-    zh-hk: 專名學
-    zh-sg: 专名学
-    zh-tw: 專名學
+    zh_cn: 专名学
+    zh_hans: 专名学
+    zh_hant: 專名學
+    zh_hk: 專名學
+    zh_sg: 专名学
+    zh_tw: 專名學
 ---
 # [[Onomastics]] 
 

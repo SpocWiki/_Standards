@@ -296,7 +296,7 @@ dv_has_:
     az: Edqar Deqa
     ba: Эдгар Дега
     be: Эдгар Дэга
-    be-tarask: Эдгар Дэга
+    be_tarask: Эдгар Дэга
     bg: Едгар Дега
     bn: এদ্গার দ্যগা
     br: Edgar Degas
@@ -307,11 +307,11 @@ dv_has_:
     cv: Эдгар Дега
     da: Edgar Degas
     de: Edgar Degas
-    de-ch: Edgar Degas
+    de_ch: Edgar Degas
     el: Εντγκάρ Ντεγκά
     en: Edgar Degas
-    en-ca: Edgar Degas
-    en-gb: Edgar Degas
+    en_ca: Edgar Degas
+    en_gb: Edgar Degas
     eo: Edgar Degas
     es: Edgar Degas
     et: Edgar Degas
@@ -363,7 +363,7 @@ dv_has_:
     pl: Edgar Degas
     pms: Edgar Degas
     pt: Edgar Degas
-    pt-br: Edgar Degas
+    pt_br: Edgar Degas
     qu: Edgar Degas
     ro: Edgar Degas
     ru: Эдгар Дега
@@ -376,8 +376,8 @@ dv_has_:
     sl: Edgar Degas
     sq: Edgar Degas
     sr: Едгар Дега
-    sr-ec: Едгар Дега
-    sr-el: Edgar Dega
+    sr_ec: Едгар Дега
+    sr_el: Edgar Dega
     stq: Hilaire Germain Edgar de Gas
     sv: Edgar Degas
     th: แอดการ์ เดอกา
@@ -390,8 +390,8 @@ dv_has_:
     xmf: ედგარ დეგა
     yue: 德加
     zh: 埃德加·德加
-    zh-hans: 埃德加·德加
-    zh-hk: 艾德嘉·德加
+    zh_hans: 埃德加·德加
+    zh_hk: 艾德嘉·德加
 ---
 # [[Degas,Edgar]] 
 

@@ -247,7 +247,7 @@ dv_has_:
     ba: Урсула Ле Гуин
     bcl: Ursula Kroeber Le Guin
     be: Урсула Кробер Ле Гуін
-    be-tarask: Урсула Кробэр Ле Гўін
+    be_tarask: Урсула Кробэр Ле Гўін
     bg: Урсула Ле Гуин
     bn: উরসুলা কে. লে গুইন
     br: Ursula K. Le Guin
@@ -304,7 +304,7 @@ dv_has_:
     pap: Ursula K. Le Guin
     pl: Ursula K. Le Guin
     pt: Ursula K. Le Guin
-    pt-br: Ursula K. Le Guin
+    pt_br: Ursula K. Le Guin
     ro: Ursula K. Le Guin
     ru: Урсула Крёбер Ле Гуин
     sco: Ursula K. Le Guin
@@ -314,8 +314,8 @@ dv_has_:
     smn: Ursula K. Le Guin
     sq: Ursula K. Le Guin
     sr: Урсула К. Ле Гвин
-    sr-ec: Урсула Ле Гвин
-    sr-el: Ursula Le Gvin
+    sr_ec: Урсула Ле Гвин
+    sr_el: Ursula Le Gvin
     sv: Ursula K. Le Guin
     ta: அர்சலா கே. லா குவின்
     te: ఉర్సులా కె.లిగూన్
@@ -329,12 +329,12 @@ dv_has_:
     xmf: ურსულა კრებერ ლე გუინი
     yue: 勒瑰恩
     zh: 娥蘇拉·勒瑰恩
-    zh-cn: 厄休拉·勒吉恩
-    zh-hans: 厄休拉·勒吉恩
-    zh-hant: 娥蘇拉·勒瑰恩
-    zh-hk: 娥蘇拉·勒瑰恩
-    zh-sg: 厄休拉·勒吉恩
-    zh-tw: 娥蘇拉·勒瑰恩
+    zh_cn: 厄休拉·勒吉恩
+    zh_hans: 厄休拉·勒吉恩
+    zh_hant: 娥蘇拉·勒瑰恩
+    zh_hk: 娥蘇拉·勒瑰恩
+    zh_sg: 厄休拉·勒吉恩
+    zh_tw: 娥蘇拉·勒瑰恩
 ---
 # [[Le_Guin,Ursula_K.]] 
 

@@ -346,7 +346,7 @@ dv_has_:
     bar: Johannes Paul II.
     bcl: Papa Juan Pablo II
     be: Ян Павел II
-    be-tarask: Ян Павал II
+    be_tarask: Ян Павал II
     bg: Йоан Павел II
     bn: পোপ দ্বিতীয় জন পল
     br: Yann-Baol II
@@ -361,14 +361,14 @@ dv_has_:
     da: Pave Johannes Paul 2.
     de: Johannes Paul II.
     de-at: Johannes Paul II.
-    de-ch: Johannes Paul II.
+    de_ch: Johannes Paul II.
     diq: Johannes Paulus II
     dsb: Jan Pawoł II.
     el: Πάπας Ιωάννης Παύλος Β΄
     eml: Giuànn Paul II
     en: John Paul II
-    en-ca: Pope John Paul II
-    en-gb: Pope John Paul II
+    en_ca: Pope John Paul II
+    en_gb: Pope John Paul II
     en-us: John Paul II
     eo: Johano Paŭlo la 2-a
     es: Juan Pablo II
@@ -413,7 +413,7 @@ dv_has_:
     ko: 교황 요한 바오로 2세
     ksh: Johannes Paul II.
     ku: Papa Yûhena Pawlos II
-    ku-latn: Papa Yûhena Pawlos II
+    ku_latn: Papa Yûhena Pawlos II
     ky: Иоанн Павел II
     la: Ioannes Paulus II
     lb: Jean-Paul II.
@@ -451,7 +451,7 @@ dv_has_:
     pnb: جان پال دوم
     ps: دویم پاپ ژان پل
     pt: Papa João Paulo II
-    pt-br: Papa João Paulo II
+    pt_br: Papa João Paulo II
     qu: Juan Pawlu II
     ro: Papa Ioan Paul al II-lea
     roa-tara: Pape Giuànne Paule II
@@ -493,10 +493,10 @@ dv_has_:
     yo: John Paul II
     yue: 若望保祿二世
     zh: 若望保祿二世
-    zh-cn: 若望·保祿二世
-    zh-hans: 若望·保祿二世
-    zh-hant: 若望·保祿二世
-    zh-tw: 若望·保祿二世
+    zh_cn: 若望·保祿二世
+    zh_hans: 若望·保祿二世
+    zh_hant: 若望·保祿二世
+    zh_tw: 若望·保祿二世
 ---
 # [[John_Paul_II]] 
 

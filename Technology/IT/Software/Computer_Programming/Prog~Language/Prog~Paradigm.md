@@ -78,7 +78,7 @@ dv_has_:
     ast: Paradigma de programación
     az: Proqramlaşdırma paradiqmaları
     bar: Programmierparadigma
-    be-tarask: парадыгма праграмаваньня
+    be_tarask: парадыгма праграмаваньня
     bg: Парадигма на програмиране
     bn: প্রোগ্রামিং প্যারাডাইম
     bs: Programska paradigma
@@ -129,7 +129,7 @@ dv_has_:
     sms: programmâʹsttemparadigma
     sq: Paradigma programore
     sr: програмска парадигма
-    sr-ec: програмска парадигма
+    sr_ec: програмска парадигма
     sv: programmeringsparadigm
     sw: Programming paradigm
     ta: நிரலாக்க கருத்தோட்டம்
@@ -141,12 +141,12 @@ dv_has_:
     vi: mẫu hình lập trình
     yue: 編程範式
     zh: 编程范型
-    zh-cn: 编程范型
-    zh-hans: 编程范型
-    zh-hant: 編程範型
-    zh-hk: 編程範型
-    zh-sg: 编程范型
-    zh-tw: 編程範型
+    zh_cn: 编程范型
+    zh_hans: 编程范型
+    zh_hant: 編程範型
+    zh_hk: 編程範型
+    zh_sg: 编程范型
+    zh_tw: 編程範型
 ---
 # [[Prog~Paradigm]] 
 

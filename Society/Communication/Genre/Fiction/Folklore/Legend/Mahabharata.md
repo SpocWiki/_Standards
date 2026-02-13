@@ -146,7 +146,7 @@ dv_has_:
     ban: Mahabharata
     bcl: Mahabaratha
     be: Махабхарата
-    be-tarask: Магабгарата
+    be_tarask: Магабгарата
     bg: Махабхарата
     bho: महाभारत
     bn: মহাভারত
@@ -167,8 +167,8 @@ dv_has_:
     dty: महाभारत
     el: Μαχαμπαράτα
     en: Mahabharata
-    en-ca: Mahabharata
-    en-gb: Mahabharata
+    en_ca: Mahabharata
+    en_gb: Mahabharata
     eo: Mahabarato
     es: Majabhárata
     et: Mahābhārata
@@ -216,7 +216,7 @@ dv_has_:
     lzh: 摩訶婆羅多
     mad: Mahabharata
     mai: महाभारत
-    map-bms: Mahabharata
+    map_bms: Mahabharata
     mhr: Махабхарата
     mk: Махабхарата
     ml: മഹാഭാരതം
@@ -243,7 +243,7 @@ dv_has_:
     pnb: مہا بھارت
     ps: مها بهارت
     pt: Mahabharata
-    pt-br: Mahabharata
+    pt_br: Mahabharata
     ro: Mahābhārata
     ru: Махабхарата
     rue: Магабгарата
@@ -280,14 +280,14 @@ dv_has_:
     yi: מאהאבהאראטא
     yue: 摩訶婆羅多
     zh: 摩诃婆罗多
-    zh-cn: 摩诃婆罗多
-    zh-hans: 摩诃婆罗多
-    zh-hant: 摩訶婆羅多
-    zh-hk: 摩訶婆羅多
-    zh-mo: 摩訶婆羅多
+    zh_cn: 摩诃婆罗多
+    zh_hans: 摩诃婆罗多
+    zh_hant: 摩訶婆羅多
+    zh_hk: 摩訶婆羅多
+    zh_mo: 摩訶婆羅多
     zh-my: 摩诃婆罗多
-    zh-sg: 摩诃婆罗多
-    zh-tw: 摩訶婆羅多
+    zh_sg: 摩诃婆罗多
+    zh_tw: 摩訶婆羅多
 ---
 ## #has_/text_of_/abstract 
 

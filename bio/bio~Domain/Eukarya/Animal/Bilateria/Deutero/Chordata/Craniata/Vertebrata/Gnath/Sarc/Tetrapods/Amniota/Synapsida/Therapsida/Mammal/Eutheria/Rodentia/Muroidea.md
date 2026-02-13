@@ -99,7 +99,7 @@ dv_has_:
     oc: Muroidea
     pl: myszowe
     pt: Muroidea
-    pt-br: Muroidea
+    pt_br: Muroidea
     ro: Muroide
     ru: мышиные
     sl: miši
@@ -117,9 +117,9 @@ dv_has_:
     yue: 鼠
     za: Nou
     zh: 鼠总科
-    zh-cn: 鼠总科
-    zh-hans: 鼠总科
-    zh-tw: 鼠總科
+    zh_cn: 鼠总科
+    zh_hans: 鼠总科
+    zh_tw: 鼠總科
 ---
 # [[Muroidea]] 
 

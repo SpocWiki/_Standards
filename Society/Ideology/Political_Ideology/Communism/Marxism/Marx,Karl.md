@@ -232,7 +232,7 @@ dv_has_:
     bar: Karl Marx
     bcl: Karl Marx
     be: Карл Маркс
-    be-tarask: Карл Маркс
+    be_tarask: Карл Маркс
     bg: Карл Маркс
     bho: कार्ल मार्क्स
     bjn: Karl Marx
@@ -256,14 +256,14 @@ dv_has_:
     cy: Karl Marx
     da: Karl Marx
     de: Karl Marx
-    de-ch: Karl Marx
+    de_ch: Karl Marx
     diq: Karl Marx
     dsb: Karl Marx
     dty: कार्ल मार्क्स
     el: Καρλ Μαρξ
     en: Karl Marx
-    en-ca: Karl Marx
-    en-gb: Karl Marx
+    en_ca: Karl Marx
+    en_gb: Karl Marx
     en-us: Karl Marx
     eo: Karl Marx
     es: Karl Marx
@@ -351,7 +351,7 @@ dv_has_:
     nap: Carlo Marx
     nb: Karl Marx
     nds: Karl Marx
-    nds-nl: Karl Marx
+    nds_nl: Karl Marx
     ne: कार्ल मार्क्स
     new: कार्ल मार्क्स
     nl: Karl Marx
@@ -413,7 +413,7 @@ dv_has_:
     tok: jan Ka Ma
     tr: Karl Marx
     tt: Карл Маркс
-    tt-cyrl: Карл Маркс
+    tt_cyrl: Карл Маркс
     ug: كارل ماركىس
     uk: Карл Маркс
     ur: کارل مارکس
@@ -435,10 +435,10 @@ dv_has_:
     zea: Karl Marx
     zgh: ⴽⴰⵔⵍ ⵎⴰⵔⴽⵙ
     zh: 卡爾·馬克思
-    zh-cn: 卡尔·马克思
-    zh-hans: 卡尔·马克思
-    zh-hk: 卡爾·馬克思
-    zh-tw: 卡爾·馬克思
+    zh_cn: 卡尔·马克思
+    zh_hans: 卡尔·马克思
+    zh_hk: 卡爾·馬克思
+    zh_tw: 卡爾·馬克思
 ---
 # [[Marx,Karl]] 
 

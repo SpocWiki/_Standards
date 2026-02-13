@@ -138,7 +138,7 @@ dv_has_:
     az: Meşəsizləşmə
     bas: lìòbòs li lìpàn/m̀póyó
     be: абязлесенне
-    be-tarask: абязьлесеньне
+    be_tarask: абязьлесеньне
     bg: Обезлесяване
     bn: বন উজাড়
     br: digoadadur
@@ -150,8 +150,8 @@ dv_has_:
     de: Entwaldung
     el: αποδάσωση
     en: deforestation
-    en-ca: deforestation
-    en-gb: deforestation
+    en_ca: deforestation
+    en_gb: deforestation
     eo: senarbarigo
     es: deforestación
     et: Metsatustumine
@@ -177,11 +177,11 @@ dv_has_:
     jv: Déforestasi
     ka: დეფორესტაცია
     kk: Ормансыздану
-    kk-arab: ورمانسىزدانۋ
+    kk_arab: ورمانسىزدانۋ
     kk-cn: ورمانسىزدانۋ
-    kk-cyrl: Ормансыздану
+    kk_cyrl: Ормансыздану
     kk-kz: Ормансыздану
-    kk-latn: Ormansızdanw
+    kk_latn: Ormansızdanw
     kk-tr: Ormansızdanw
     kn: ಅರಣ್ಯನಾಶ
     ko: 탈산림화
@@ -203,7 +203,7 @@ dv_has_:
     pl: wylesianie
     ps: ځنګلونو له منځه وړل (بې ځنګله کول)
     pt: desflorestação
-    pt-br: desflorestação
+    pt_br: desflorestação
     qu: Sach'a-sach'a qulluy
     ro: defrișare
     ru: обезлесение
@@ -228,12 +228,12 @@ dv_has_:
     ybb: lezaʼ methʉ̄
     yue: 濫伐
     zh: 森林開伐
-    zh-cn: 森林开伐
-    zh-hans: 森林开伐
-    zh-hant: 森林開伐
-    zh-hk: 森林開伐
-    zh-sg: 森林开伐
-    zh-tw: 森林開伐
+    zh_cn: 森林开伐
+    zh_hans: 森林开伐
+    zh_hant: 森林開伐
+    zh_hk: 森林開伐
+    zh_sg: 森林开伐
+    zh_tw: 森林開伐
 ---
 # [[Deforestation]] 
 

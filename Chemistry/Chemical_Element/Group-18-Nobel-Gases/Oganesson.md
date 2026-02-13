@@ -139,7 +139,7 @@ dv_has_:
     az: ununoktium
     ban: Oganésson
     be: аганесон
-    be-tarask: аганэсон
+    be_tarask: аганэсон
     bg: оганесон
     bho: ओगानेस्सन
     bn: ওগানেসন
@@ -157,8 +157,8 @@ dv_has_:
     de: Oganesson
     el: ογκανέσσιο
     en: oganesson
-    en-ca: oganesson
-    en-gb: oganesson
+    en_ca: oganesson
+    en_gb: oganesson
     eo: oganesono
     es: oganesón
     et: oganessoon
@@ -224,7 +224,7 @@ dv_has_:
     pl: oganeson
     ps: اوگانسون
     pt: oganésson
-    pt-br: oganessônio
+    pt_br: oganessônio
     qu: ununoktiyu
     ro: oganesson
     ru: оганесон
@@ -241,7 +241,7 @@ dv_has_:
     so: ununoktiyaam
     sq: oganesoni
     sr: оганесон
-    sr-ec: Оганесон
+    sr_ec: Оганесон
     stq: Ununoctium
     sv: oganesson
     ta: ஒகனிசோன்
@@ -265,11 +265,11 @@ dv_has_:
     yo: ununoctium
     yue: 鿫
     zh: 鿫
-    zh-cn: 鿫
-    zh-hans: 鿫
-    zh-hant: 鿫
-    zh-hk: 鿫
-    zh-tw: 鿫
+    zh_cn: 鿫
+    zh_hans: 鿫
+    zh_hant: 鿫
+    zh_hk: 鿫
+    zh_tw: 鿫
     zu: IsOgambi
 ---
 # [[Oganesson]] 

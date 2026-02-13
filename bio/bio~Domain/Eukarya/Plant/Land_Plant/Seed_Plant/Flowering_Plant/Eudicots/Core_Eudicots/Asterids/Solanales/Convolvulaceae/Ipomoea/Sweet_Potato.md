@@ -224,7 +224,7 @@ dv_has_:
     ban: Séla
     bcl: Kamoteng kamang
     be: Батат
-    be-tarask: батат
+    be_tarask: батат
     bg: сладък картоф
     bjn: Gumbili lancar
     bn: মিষ্টি আলু
@@ -239,7 +239,7 @@ dv_has_:
     da: sød kartoffel
     dag: Wulijo
     de: Süßkartoffel
-    de-ch: Süsskartoffel
+    de_ch: Süsskartoffel
     dtp: Keledek
     el: Γλυκοπατάτα
     en: sweet potato
@@ -370,10 +370,10 @@ dv_has_:
     yue: 番薯
     za: Maenz
     zh: 番薯
-    zh-cn: 番薯
-    zh-hans: 番薯
-    zh-hant: 番薯
-    zh-tw: 甘藷
+    zh_cn: 番薯
+    zh_hans: 番薯
+    zh_hant: 番薯
+    zh_tw: 甘藷
 ---
 # [[Sweet_Potato]] 🍠 
 

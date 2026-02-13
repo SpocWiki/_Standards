@@ -118,7 +118,7 @@ dv_has_:
     az: İrsiyyət
     ba: Нәҫелсәнлек
     be: спадчыннасць
-    be-tarask: спадчыннасьць
+    be_tarask: спадчыннасьць
     bg: Наследственост
     bn: বংশগতি
     bs: Nasljeđivanje
@@ -131,11 +131,11 @@ dv_has_:
     cy: Etifeddeg
     da: arvelighed
     de: Vererbung
-    de-ch: Vererbung
+    de_ch: Vererbung
     el: Κληρονομικότητα
     en: heredity
-    en-ca: Heredity
-    en-gb: heredity
+    en_ca: Heredity
+    en_gb: heredity
     eo: heredo
     es: herencia genética
     et: Pärilikkus
@@ -162,16 +162,16 @@ dv_has_:
     jv: Héréditas
     ka: მემკვიდრეობითობა
     kk: Тұқым қуалаушылық
-    kk-arab: تۇقىم قۋالاۋشىلىق
+    kk_arab: تۇقىم قۋالاۋشىلىق
     kk-cn: تۇقىم قۋالاۋشىلىق
-    kk-cyrl: Тұқым қуалаушылық
+    kk_cyrl: Тұқым қуалаушылық
     kk-kz: Тұқым қуалаушылық
-    kk-latn: Tuqım qwalawşılıq
+    kk_latn: Tuqım qwalawşılıq
     kk-tr: Tuqım qwalawşılıq
     kn: ತಳಿವಿಜ್ಞಾನ
     ko: 유전
     ku: bomawe
-    ku-latn: bomawe
+    ku_latn: bomawe
     ky: Тукум куугучтук
     la: Hereditas (biologia)
     lt: paveldimumas
@@ -180,7 +180,7 @@ dv_has_:
     ml: പാരമ്പര്യം
     mr: आनुवंशिक
     ms: keturunan
-    ms-arab: کتورونن
+    ms_arab: کتورونن
     my: မျိုးရိုးဇာတိ
     nan: Ûi-thôan
     nb: arv
@@ -191,7 +191,7 @@ dv_has_:
     pl: dziedziczenie
     ps: وراثت
     pt: hereditariedade
-    pt-br: Hereditariedade
+    pt_br: Hereditariedade
     ro: ereditate
     ru: наследование
     sco: heredity
@@ -200,8 +200,8 @@ dv_has_:
     sl: dednost
     sq: Trashëgimia
     sr: Наслеђивање
-    sr-ec: Наслеђивање
-    sr-el: Nasleđivanje
+    sr_ec: Наслеђивање
+    sr_el: Nasleđivanje
     sv: hereditet
     ta: பாரம்பரியம்
     tg: Ирсият
@@ -217,12 +217,12 @@ dv_has_:
     wuu: 遗传
     yue: 遺傳
     zh: 遺傳
-    zh-cn: 遗传
-    zh-hans: 遗传
-    zh-hant: 遺傳
-    zh-hk: 遺傳
-    zh-sg: 遗传
-    zh-tw: 遺傳
+    zh_cn: 遗传
+    zh_hans: 遗传
+    zh_hant: 遺傳
+    zh_hk: 遺傳
+    zh_sg: 遗传
+    zh_tw: 遺傳
 ---
 # [[Heredity]] 
 

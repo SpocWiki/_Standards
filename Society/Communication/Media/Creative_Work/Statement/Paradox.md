@@ -81,7 +81,7 @@ dv_has_:
     ast: paradoxa
     az: paradoks
     be: парадокс
-    be-tarask: парадокс
+    be_tarask: парадокс
     bg: Парадокс
     bn: কূটাভাস
     bs: paradoks
@@ -117,9 +117,9 @@ dv_has_:
     ja: パラドックス
     ka: პარადოქსი
     kk: Парадокс
-    kk-arab: پارادوكس
-    kk-cyrl: Парадокс
-    kk-latn: Paradoks
+    kk_arab: پارادوكس
+    kk_cyrl: Парадокс
+    kk_latn: Paradoks
     ko: 역설
     ky: Парадокс
     la: paradoxum
@@ -134,7 +134,7 @@ dv_has_:
     pl: paradoks
     pms: Paradòss
     pt: paradoxo
-    pt-br: paradoxo
+    pt_br: paradoxo
     ro: paradox
     ru: парадокс
     sh: Paradoks
@@ -142,8 +142,8 @@ dv_has_:
     sl: paradoks
     sq: paradoksi
     sr: парадокс
-    sr-ec: Парадокс
-    sr-el: Paradoks
+    sr_ec: Парадокс
+    sr_el: Paradoks
     su: Paradoks
     sv: paradox
     sw: Kweli kinzani
@@ -162,9 +162,9 @@ dv_has_:
     xmf: პარადოქსი
     yue: 悖論
     zh: 悖论
-    zh-hans: 悖论
-    zh-hant: 悖論
-    zh-hk: 悖論
+    zh_hans: 悖论
+    zh_hant: 悖論
+    zh_hk: 悖論
 ---
 # [[Paradox]] 
 

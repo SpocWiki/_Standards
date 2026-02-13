@@ -98,7 +98,7 @@ dv_has_:
     azb: یؤنئی (هندسه)
     ba: геометрик вектор
     be: вектар
-    be-tarask: вэктар
+    be_tarask: вэктар
     bg: Вектор
     bn: সদিক রাশি
     bs: Euklidov vektor
@@ -110,11 +110,11 @@ dv_has_:
     cy: fector
     da: vektor
     de: euklidischer Vektor
-    de-ch: Vektor
+    de_ch: Vektor
     el: διάνυσμα
     en: Euclidean vector
-    en-ca: Euclidean vector
-    en-gb: Euclidean vector
+    en_ca: Euclidean vector
+    en_gb: Euclidean vector
     eo: vektoro
     es: vector
     et: vektor
@@ -166,7 +166,7 @@ dv_has_:
     pms: Vetor
     ps: د اقليدس لوری
     pt: vector
-    pt-br: vetor
+    pt_br: vetor
     ro: vector euclidian
     ru: геометрический вектор
     sah: Вектор (геометрия)
@@ -179,7 +179,7 @@ dv_has_:
     smn: Vektor
     sq: Vektori
     sr: вектор
-    sr-ec: вектор
+    sr_ec: вектор
     su: Véktor
     sv: vektor
     szl: wektůr
@@ -197,13 +197,13 @@ dv_has_:
     yi: וועקטאר
     yue: 向量
     zh: 歐幾里得向量
-    zh-cn: 向量
-    zh-hans: 向量
-    zh-hant: 向量
-    zh-hk: 向量
-    zh-mo: 向量
-    zh-sg: 向量
-    zh-tw: 向量
+    zh_cn: 向量
+    zh_hans: 向量
+    zh_hant: 向量
+    zh_hk: 向量
+    zh_mo: 向量
+    zh_sg: 向量
+    zh_tw: 向量
 ---
 # [[Vector]] 
 

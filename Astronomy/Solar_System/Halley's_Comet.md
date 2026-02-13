@@ -208,7 +208,7 @@ dv_has_:
     az: Halley kometi
     ba: Галлей кометаһы
     be: Камета Галея
-    be-tarask: камэта Галея
+    be_tarask: камэта Галея
     bg: Халеева комета
     bn: হ্যালির ধূমকেতু
     bs: Halejeva kometa
@@ -220,8 +220,8 @@ dv_has_:
     de: Halleyscher Komet
     el: Κομήτης του Χάλεϋ
     en: Halley's Comet
-    en-ca: Halley's Comet
-    en-gb: Halley's Comet
+    en_ca: Halley's Comet
+    en_gb: Halley's Comet
     eo: Haleja kometo
     es: Halley
     et: Halley komeet
@@ -275,7 +275,7 @@ dv_has_:
     pl: Kometa Halleya
     pnb: ہیلی دا دمدار سیارہ
     pt: Cometa Halley
-    pt-br: 1P/Halley
+    pt_br: 1P/Halley
     ro: Cometa Halley
     ru: Комета Галлея
     scn: Cumeta di Halley
@@ -286,7 +286,7 @@ dv_has_:
     sl: Halleyjev komet
     sq: Kometa Halley
     sr: Халејева комета
-    sr-ec: Халејева комета
+    sr_ec: Халејева комета
     su: Komet Halley
     sv: Halleys komet
     sw: Nyotamkia ya Halley
@@ -307,9 +307,9 @@ dv_has_:
     yo: 1P/Halley
     yue: 哈雷彗星
     zh: 哈雷彗星
-    zh-cn: 哈雷彗星
-    zh-hans: 哈雷彗星
-    zh-hant: 哈雷彗星
+    zh_cn: 哈雷彗星
+    zh_hans: 哈雷彗星
+    zh_hant: 哈雷彗星
 ---
 # [[Halley's_Comet]] 
 

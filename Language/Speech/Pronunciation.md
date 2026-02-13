@@ -114,7 +114,7 @@ dv_has_:
     ba: Өндәрҙе әйтеү
     bcl: pagsayod
     be: вымаўленне
-    be-tarask: вымаўленьне
+    be_tarask: вымаўленьне
     bn: উচ্চারণ
     bs: izgovaranje
     ca: pronunciació
@@ -127,7 +127,7 @@ dv_has_:
     diq: Vatış
     el: προφορά
     en: pronunciation
-    en-gb: pronunciation
+    en_gb: pronunciation
     eo: prononco
     es: pronunciación
     et: hääldus
@@ -155,7 +155,7 @@ dv_has_:
     kaa: aytılıw
     kn: ಉಚ್ಛಾರಣೆ
     ko: 발음
-    ku-latn: bilêvkirin
+    ku_latn: bilêvkirin
     la: Pronuntiatus
     lb: Aussprooch
     li: Oetsjpraok
@@ -166,7 +166,7 @@ dv_has_:
     mn: Дуудлага
     mnw: ရမျာင်
     ms: sebutan
-    ms-arab: سبوتن
+    ms_arab: سبوتن
     my: အသံထွက်
     nan: Ho͘-im
     nb: uttale
@@ -191,7 +191,7 @@ dv_has_:
     so: Higaadi
     sq: Shqiptimi
     sr: изговор
-    sr-ec: изговор
+    sr_ec: изговор
     sv: uttal
     sw: Matamshi
     ta: ஒலிப்பு
@@ -201,7 +201,7 @@ dv_has_:
     tl: Bigkas
     tr: söyleyiş
     tt: әйтелеш
-    tt-cyrl: әйтелеш
+    tt_cyrl: әйтелеш
     uk: вимова
     ur: تلفظ
     vec: pronunsamento
@@ -209,12 +209,12 @@ dv_has_:
     wuu: 发音
     yue: 讀法
     zh: 發音
-    zh-cn: 读音
-    zh-hans: 读音
-    zh-hant: 發音
-    zh-hk: 讀音
-    zh-sg: 读音
-    zh-tw: 發音
+    zh_cn: 读音
+    zh_hans: 读音
+    zh_hant: 發音
+    zh_hk: 讀音
+    zh_sg: 读音
+    zh_tw: 發音
 ---
 # [[Pronunciation]] 
 

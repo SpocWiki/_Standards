@@ -66,7 +66,7 @@ dv_has_:
     ar: فيلوسيرابتور
     ast: Velociraptor
     az: Velosiraptor
-    be-tarask: вэляцыраптар
+    be_tarask: вэляцыраптар
     bg: велоцираптори
     br: Velosiraptor
     ca: velociraptor
@@ -77,8 +77,8 @@ dv_has_:
     de: Velociraptor
     el: Βελοσιράπτορας
     en: Velociraptor
-    en-ca: Velociraptor
-    en-gb: Velociraptor
+    en_ca: Velociraptor
+    en_gb: Velociraptor
     en-us: Velociraptor
     eo: Velociraptor
     es: Velociraptor
@@ -117,7 +117,7 @@ dv_has_:
     or: Ovoraptor
     pl: welociraptor
     pt: Velociraptor
-    pt-br: Velociraptor
+    pt_br: Velociraptor
     ro: Velociraptor
     ru: велоцираптор
     scn: Velociraptor
@@ -137,15 +137,15 @@ dv_has_:
     tr: Velociraptor
     uk: Велоцираптор
     uz: Velociraptor
-    uz-cyrl: Велоцираптор
+    uz_cyrl: Велоцираптор
     vi: Velociraptor
     war: Velociraptor
     wuu: 伶盗龙属
     yue: 伶盜龍屬
     zh: 伶盜龍屬
-    zh-cn: 伶盗龙属
-    zh-hans: 伶盗龙属
-    zh-hk: 伶盜龍屬
+    zh_cn: 伶盗龙属
+    zh_hans: 伶盗龙属
+    zh_hk: 伶盜龍屬
 ---
 # [[Velociraptor]] 
 

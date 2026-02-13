@@ -54,7 +54,7 @@ dv_has_:
   name_:
     ar: زواج مدني
     ast: Matrimoniu civil
-    be-tarask: грамадзянскі шлюб
+    be_tarask: грамадзянскі шлюб
     bg: Граждански брак
     ca: matrimoni civil
     cs: občanský sňatek

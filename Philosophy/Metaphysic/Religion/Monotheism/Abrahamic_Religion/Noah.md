@@ -140,7 +140,7 @@ dv_has_:
     ba: Нух (Ной)
     bcl: Noe
     be: Ной
-    be-tarask: Ной
+    be_tarask: Ной
     bg: Ной
     bn: নোহ
     bo: ནོ་ཨ།
@@ -158,7 +158,7 @@ dv_has_:
     diq: Nuh
     el: Νώε
     en: Noah
-    en-gb: Noah
+    en_gb: Noah
     en-us: Noah
     eo: Noa
     es: Noé
@@ -219,7 +219,7 @@ dv_has_:
     sl: Noe
     sq: Noah
     sr: Ноје
-    sr-ec: Ноје
+    sr_ec: Ноје
     sv: Noa
     sw: Nuhu
     ta: நோவா
@@ -241,7 +241,7 @@ dv_has_:
     yue: 挪亞
     zgh: ⵏⵓⵃ
     zh: 挪亞
-    zh-hant: 挪亞
+    zh_hant: 挪亞
 ---
 # [[Noah]] 
 

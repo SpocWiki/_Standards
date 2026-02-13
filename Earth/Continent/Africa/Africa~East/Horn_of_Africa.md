@@ -162,7 +162,7 @@ dv_has_:
     ba: Сомали (ярымутрау)
     bcl: Sungay kan Aprika
     be: Паўвостраў Самалі
-    be-tarask: Самалійскі паўвостраў
+    be_tarask: Самалійскі паўвостраў
     bg: Сомалийски полуостров
     bn: আফ্রিকার শৃঙ্গ
     br: Korn Afrika
@@ -174,11 +174,11 @@ dv_has_:
     cy: Corn Affrica
     da: Afrikas Horn
     de: Horn von Afrika
-    de-ch: Horn von Afrika
+    de_ch: Horn von Afrika
     el: Κέρας της Αφρικής
     en: Horn of Africa
-    en-ca: Horn of Africa
-    en-gb: Horn of Africa
+    en_ca: Horn of Africa
+    en_gb: Horn of Africa
     eo: Korno de Afriko
     es: Cuerno de África
     et: Aafrika Sarv
@@ -236,7 +236,7 @@ dv_has_:
     pl: Półwysep Somalijski
     pnb: افریقا دا سِنگ
     pt: Corno de África
-    pt-br: Chifre da África
+    pt_br: Chifre da África
     ro: Cornul Africii
     ru: Сомали
     rue: Африцькый ріг

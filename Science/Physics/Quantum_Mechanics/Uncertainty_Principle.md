@@ -98,7 +98,7 @@ dv_has_:
     ast: rellación d'indeterminación de Heisenberg
     az: Müəyyənsizlik prinsipi
     be: Прынцып нявызначанасці Гейзенберга
-    be-tarask: прынцып нявызначанасьці
+    be_tarask: прынцып нявызначанасьці
     bg: Съотношение на неопределеност на Хайзенберг
     bn: অনিশ্চয়তা নীতি
     bs: Heisenbergov princip neodređenosti
@@ -144,7 +144,7 @@ dv_has_:
     pl: zasada nieoznaczoności
     ps: د قطعیت د نشتوالي اصل
     pt: princípio da incerteza
-    pt-br: princípio da incerteza
+    pt_br: princípio da incerteza
     ro: principiul incertitudinii
     ru: принцип неопределённости
     sh: Relacije neodređenosti

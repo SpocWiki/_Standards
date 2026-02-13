@@ -125,7 +125,7 @@ dv_has_:
     az: bağlayıcı
     ba: теркәүес
     be: злучнік
-    be-tarask: злучнік
+    be_tarask: злучнік
     bg: съюз
     bn: সংযোজক পদ
     br: stagell
@@ -173,7 +173,7 @@ dv_has_:
     krj: pansugpon
     ks: واٹُت
     ku: gihanek
-    ku-latn: gihanek
+    ku_latn: gihanek
     ky: байламта
     la: coniunctio
     lfn: sujunta
@@ -184,7 +184,7 @@ dv_has_:
     ml: ഘടകം
     mn: холбоос үг
     ms: kata hubung
-    ms-arab: کات هوبوڠ
+    ms_arab: کات هوبوڠ
     mt: konġunzjoni
     nan: chiap-sio̍k-sû
     nb: konjunksjon
@@ -198,7 +198,7 @@ dv_has_:
     pnt: σύνδεσμον
     ps: ترکیب
     pt: conjunção
-    pt-br: conjunção
+    pt_br: conjunção
     ro: conjuncție
     ru: союз
     sd: حرف جملو
@@ -211,7 +211,7 @@ dv_has_:
     sms: konjuŋktio
     sq: lidhëza
     sr: везници
-    sr-ec: везник
+    sr_ec: везник
     sv: konjunktion
     sw: viunganishi
     syl: ꠢꠝꠘ꠆ꠗꠈ

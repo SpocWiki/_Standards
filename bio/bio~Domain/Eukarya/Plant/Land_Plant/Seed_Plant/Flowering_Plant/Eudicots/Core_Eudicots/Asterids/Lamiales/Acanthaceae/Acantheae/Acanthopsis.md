@@ -33,7 +33,7 @@ dv_has_:
     oc: Acanthopsis
     pl: Acanthopsis
     pt: Acanthopsis
-    pt-br: Acanthopsis
+    pt_br: Acanthopsis
     ro: Acanthopsis
     ru: Acanthopsis
     sq: Acanthopsis
@@ -43,8 +43,8 @@ dv_has_:
     vo: Acanthopsis
     war: Acanthopsis
     zh: 全簕花属
-    zh-cn: 全簕花属
-    zh-tw: 全簕花屬
+    zh_cn: 全簕花属
+    zh_tw: 全簕花屬
 ---
 # [[Acanthopsis]] 
 

@@ -70,7 +70,7 @@ dv_has_:
     ar: كلب دلماسي
     arz: كلب دلماسى
     az: Dalmatin
-    be-tarask: далматынец
+    be_tarask: далматынец
     bg: Далматинец
     bs: Dalmatinac
     ca: dàlmata
@@ -117,7 +117,7 @@ dv_has_:
     sk: Dalmatínsky pes
     sl: dalmatinec
     sr: далматинац
-    sr-ec: далматинац
+    sr_ec: далматинац
     sv: Dalmatiner
     ta: டால்மேசன் (நாய்)
     th: แดลเมเชียน

@@ -64,7 +64,7 @@ dv_has_:
     avk: medjoleem
     az: Əntərmeymunlar
     be: мартышкавыя
-    be-tarask: сабакападобныя малпы
+    be_tarask: сабакападобныя малпы
     bg: Коткоподобни маймуни
     br: Cercopithecidae
     bs: Majmuni Starog svijeta
@@ -76,8 +76,8 @@ dv_has_:
     de: Meerkatzenverwandte
     el: Κερκοπιθηκίδες
     en: Cercopithecidae
-    en-ca: Cercopithecidae
-    en-gb: Cercopithecidae
+    en_ca: Cercopithecidae
+    en_gb: Cercopithecidae
     eo: Cerkopitekedoj
     es: Cercopithecidae
     et: Pärdiklased
@@ -103,11 +103,11 @@ dv_has_:
     ja: オナガザル科
     ka: ანთრისებრნი
     kk: Мартышка тәрізділер
-    kk-arab: مارتىشكا تارىزدىلەر
+    kk_arab: مارتىشكا تارىزدىلەر
     kk-cn: مارتىشكا تارىزدىلەر
-    kk-cyrl: Мартышка тәрізділер
+    kk_cyrl: Мартышка тәрізділер
     kk-kz: Мартышка тәрізділер
-    kk-latn: Martışka tärizdiler
+    kk_latn: Martışka tärizdiler
     kk-tr: Martışka tärizdiler
     ko: 구세계원숭이
     ks: پرٛٲنؠ دُنیٲے پونٛز
@@ -129,7 +129,7 @@ dv_has_:
     pnb: پرانی دنیا دے باندر
     ps: د لرغونې نړۍ بیزو
     pt: Cercopithecidae
-    pt-br: Cercopithecidae
+    pt_br: Cercopithecidae
     ro: Cercopitecide
     ru: мартышковые
     sco: Cercopithecidae
@@ -137,8 +137,8 @@ dv_has_:
     sl: zamorske mačke
     sq: Cercopithecidae
     sr: Мајмуни Старог света
-    sr-ec: Мајмуни Старог света
-    sr-el: Majmuni Starog sveta
+    sr_ec: Мајмуни Старог света
+    sr_el: Majmuni Starog sveta
     sv: markattartade apor
     th: Cercopithecidae
     tl: Cercopithecidae
@@ -150,12 +150,12 @@ dv_has_:
     wuu: 猴科
     yue: 猴科
     zh: 猴科
-    zh-cn: 猴科
-    zh-hans: 猴科
-    zh-hant: 猴科
-    zh-hk: 猴科
-    zh-sg: 猴科
-    zh-tw: 猴科
+    zh_cn: 猴科
+    zh_hans: 猴科
+    zh_hant: 猴科
+    zh_hk: 猴科
+    zh_sg: 猴科
+    zh_tw: 猴科
 ---
 # [[Cercopithecidae]]
 

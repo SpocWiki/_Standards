@@ -144,7 +144,7 @@ dv_has_:
     ba: Офоҡ
     bcl: Sinogkaran
     be: Гарызонт
-    be-tarask: гарызонт
+    be_tarask: гарызонт
     bg: Хоризонт
     bn: দিগন্ত
     bo: ས་ངོས་སྙོམས་ཐིག
@@ -187,7 +187,7 @@ dv_has_:
     ka: ჰორიზონტი
     kab: Igli (tanzagt)
     kk: көрінетін көкжиек
-    kk-latn: körinetin kökjïek
+    kk_latn: körinetin kökjïek
     kn: ಕ್ಷಿತಿಜ
     ko: 수평선
     ku: Aso
@@ -218,7 +218,7 @@ dv_has_:
     pnb: افق
     ps: افق
     pt: horizonte
-    pt-br: horizonte
+    pt_br: horizonte
     qu: Pachapanta
     rki: မိုဃ်းကုတ်စက်ဝိုင်း
     ro: Orizont

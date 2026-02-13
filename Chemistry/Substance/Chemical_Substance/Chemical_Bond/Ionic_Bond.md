@@ -115,7 +115,7 @@ dv_has_:
     ast: Enllaz iónicu
     az: İon rabitə
     be: Іонная сувязь
-    be-tarask: іённая сувязь
+    be_tarask: іённая сувязь
     bg: Йонна химична връзка
     bn: আয়নিক বন্ধন
     bs: Ionska veza
@@ -151,7 +151,7 @@ dv_has_:
     ka: იონური ბმა
     kaa: Ion baylanısıw
     kk: иондық байланыс
-    kk-latn: ïondıq baylanıs
+    kk_latn: ïondıq baylanıs
     ko: 이온 결합
     ky: Иондук байланыш
     lt: Joninis ryšys
@@ -172,7 +172,7 @@ dv_has_:
     pl: wiązanie jonowe
     pnb: آئنی جوڑ
     pt: ligação iônica
-    pt-br: ligação iônica
+    pt_br: ligação iônica
     rki: အိုင်ယွန်စည်း
     ro: legătură ionică
     ru: ионная связь
@@ -183,7 +183,7 @@ dv_has_:
     sl: ionska vez
     sq: Lidhja jonike
     sr: јонска веза
-    sr-ec: јонска веза
+    sr_ec: јонска веза
     sv: jonbindning
     ta: அயனிப் பிணைப்பு
     th: พันธะไอออนิก

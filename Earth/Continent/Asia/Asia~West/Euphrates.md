@@ -187,7 +187,7 @@ dv_has_:
     ba: Евфрат
     bcl: Eufrates
     be: Еўфрат
-    be-tarask: Эўфрат
+    be_tarask: Эўфрат
     bg: Ефрат
     bho: फ़रात नदी
     bi: Yufreres
@@ -245,7 +245,7 @@ dv_has_:
     ko: 유프라테스강
     ks: دریائے فِرات
     ku: Firat
-    ku-latn: Firat
+    ku_latn: Firat
     ky: Евфрат
     la: Euphrates
     lb: Euphrat
@@ -312,7 +312,7 @@ dv_has_:
     yi: פרת
     yue: 幼發拉底河
     zh: 幼发拉底河
-    zh-cn: 幼发拉底河
+    zh_cn: 幼发拉底河
 ---
 # [[Euphrates]] 
 

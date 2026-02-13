@@ -61,18 +61,18 @@ dv_has_:
   name_:
     ar: حركية دوائية
     ast: Farmacocinética
-    be-tarask: фармакакінэтыка
+    be_tarask: фармакакінэтыка
     bg: Фармакокинетика
     bn: ঔষধসঞ্চরণবিজ্ঞান
     ca: farmacocinètica
     cs: Farmakokinetika
     da: farmakokinetik
     de: Pharmakokinetik
-    de-ch: Pharmakokinetik
+    de_ch: Pharmakokinetik
     el: Φαρμακοκινητική
     en: pharmacokinetics
-    en-ca: Pharmacokinetics
-    en-gb: Pharmacokinetics
+    en_ca: Pharmacokinetics
+    en_gb: Pharmacokinetics
     eo: farmacikinetiko
     es: farmacocinética
     et: farmakokineetika
@@ -101,7 +101,7 @@ dv_has_:
     nn: farmakokinetikk
     pl: farmakokinetyka
     pt: farmacocinética
-    pt-br: Farmacocinética
+    pt_br: Farmacocinética
     ro: farmacocinetică
     ru: фармакокинетика
     se: farmakokinetihkka
@@ -119,12 +119,12 @@ dv_has_:
     vi: Dược động học
     yue: 藥物代謝動力學
     zh: 药物代谢动力学
-    zh-cn: 药物代谢动力学
-    zh-hans: 药物代谢动力学
-    zh-hant: 藥物代謝動力學
-    zh-hk: 藥代動力學
-    zh-sg: 药代动力学
-    zh-tw: 藥代動力學
+    zh_cn: 药物代谢动力学
+    zh_hans: 药物代谢动力学
+    zh_hant: 藥物代謝動力學
+    zh_hk: 藥代動力學
+    zh_sg: 药代动力学
+    zh_tw: 藥代動力學
 ---
 # [[Pharmacokinetics]] 
 

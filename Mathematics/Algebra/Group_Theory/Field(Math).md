@@ -93,7 +93,7 @@ dv_has_:
     ar: حقل
     ba: Ялан (алгебра)
     be: Поле, алгебра
-    be-tarask: поле
+    be_tarask: поле
     bg: Поле
     bn: ফিল্ড
     bo: ཁོངས། ༼རྩིས་རིག༽
@@ -104,11 +104,11 @@ dv_has_:
     cv: Уй (алгебра)
     da: Legeme
     de: Körper
-    de-ch: Körper
+    de_ch: Körper
     el: Σώμα
     en: field
-    en-ca: Field
-    en-gb: field
+    en_ca: Field
+    en_gb: field
     eo: kampo
     es: cuerpo
     et: Korpus
@@ -144,7 +144,7 @@ dv_has_:
     pl: ciało
     pms: Camp
     pt: corpo
-    pt-br: corpo
+    pt_br: corpo
     ro: corp
     ru: поле
     scn: Campu
@@ -153,8 +153,8 @@ dv_has_:
     sl: obseg
     sq: fushë
     sr: поље
-    sr-ec: Поље
-    sr-el: Polje
+    sr_ec: Поље
+    sr_el: Polje
     sv: kropp
     ta: களம் (கணிதம்)
     te: Field (mathematics)
@@ -168,12 +168,12 @@ dv_has_:
     wuu: 域 (数学)
     yue: 場
     zh: 域
-    zh-cn: 域
-    zh-hans: 域
-    zh-hant: 域
-    zh-hk: 體
-    zh-sg: 域
-    zh-tw: 體
+    zh_cn: 域
+    zh_hans: 域
+    zh_hant: 域
+    zh_hk: 體
+    zh_sg: 域
+    zh_tw: 體
 ---
 # [[Field(Math)]] 
 

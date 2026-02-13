@@ -226,7 +226,7 @@ dv_has_:
     bar: Gösn
     bcl: Namok
     be: камары
-    be-tarask: Камары
+    be_tarask: Камары
     bg: комари
     bho: मच्छर
     bjn: Rangit
@@ -250,14 +250,14 @@ dv_has_:
     dag: Duunga
     de: Stechmücken
     de-at: Culicidae
-    de-ch: Schnaken
+    de_ch: Schnaken
     dga: Doŋaa
     dtp: Nondui
     el: Κουνούπι
     eml: Sinsàla
     en: Culicidae
-    en-ca: Mosquito
-    en-gb: mosquito
+    en_ca: Mosquito
+    en_gb: mosquito
     eo: Moskito
     es: Culicidae
     et: Pistesääsklased
@@ -333,7 +333,7 @@ dv_has_:
     mni: ꯀꯥꯡ
     mr: डास
     ms: nyamuk
-    ms-arab: ڽاموق
+    ms_arab: ڽاموق
     mul: Culicidae
     my: ခြင်
     mzn: لل
@@ -342,7 +342,7 @@ dv_has_:
     nap: Culicidae
     nb: stikkmygg
     nds: Culicidae
-    nds-nl: Culicidae
+    nds_nl: Culicidae
     ne: लामखुट्टे
     new: दोम मण्डल, रंगारेड्डी जिल्ला
     nl: steekmuggen
@@ -364,7 +364,7 @@ dv_has_:
     pms: Culicidae
     pnb: مچھر
     pt: Culicidae
-    pt-br: Mosquito
+    pt_br: Mosquito
     qu: Qhiti
     rm: Culicidae
     ro: țânțar
@@ -424,9 +424,9 @@ dv_has_:
     yue: 蚊
     za: Nyungz
     zh: 蚊科
-    zh-cn: 蚊科
-    zh-hans: 蚊科
-    zh-tw: 蚊科
+    zh_cn: 蚊科
+    zh_hans: 蚊科
+    zh_tw: 蚊科
     zu: Culicidae
 ---
 # [[Mosquito]] (Culicomorpha) 🦟 

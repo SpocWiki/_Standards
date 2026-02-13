@@ -260,7 +260,7 @@ dv_has_:
     bar: Reptülien
     bcl: Reptilya
     be: паўзуны
-    be-tarask: паўзуны
+    be_tarask: паўзуны
     bg: влечуги
     bn: সরীসৃপ
     br: Stlejvil
@@ -280,8 +280,8 @@ dv_has_:
     ee: Lãtatawo
     el: Ερπετά
     en: Reptilia
-    en-ca: Reptile
-    en-gb: reptile
+    en_ca: Reptile
+    en_gb: reptile
     eo: Reptilioj
     es: reptil
     et: Roomajad
@@ -349,7 +349,7 @@ dv_has_:
     mnw: မၟာ
     mrj: Reptilia
     ms: Reptilia
-    ms-arab: ريڤتيليا
+    ms_arab: ريڤتيليا
     mt: Reptilia
     mul: Reptilia
     my: တွားသွားသတ္တဝါ
@@ -358,7 +358,7 @@ dv_has_:
     nap: Rettile
     nb: krypdyr
     nds: Reptilien
-    nds-nl: kroepdeers
+    nds_nl: kroepdeers
     ne: सरिसृप
     new: रेप्टाइल
     nl: reptielen
@@ -374,7 +374,7 @@ dv_has_:
     pnb: ریپٹائیل
     ps: خاپوړن
     pt: réptil
-    pt-br: Répteis
+    pt_br: Répteis
     qu: Suchuq
     rm: Reptils
     ro: Reptilia
@@ -407,7 +407,7 @@ dv_has_:
     tpi: Reptail
     tr: Sürüngenler
     tt: сөйрәлүчеләр
-    tt-cyrl: сөйрәлүчеләр
+    tt_cyrl: сөйрәлүчеләр
     udm: нюжветлӥсьёс
     uk: плазуни
     ur: گزندے
@@ -426,14 +426,14 @@ dv_has_:
     yue: 爬蟲類
     zea: Reptielen
     zh: 爬行纲
-    zh-cn: 爬行动物
-    zh-hans: 爬行纲
-    zh-hant: 爬行動物
-    zh-hk: 爬蟲類
-    zh-mo: 爬行动物
+    zh_cn: 爬行动物
+    zh_hans: 爬行纲
+    zh_hant: 爬行動物
+    zh_hk: 爬蟲類
+    zh_mo: 爬行动物
     zh-my: 爬行动物
-    zh-sg: 爬行动物
-    zh-tw: 爬行動物
+    zh_sg: 爬行动物
+    zh_tw: 爬行動物
     zu: Isihuquzi
 ---
 # [[Reptile]] 

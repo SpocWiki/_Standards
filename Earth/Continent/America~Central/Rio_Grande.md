@@ -144,7 +144,7 @@ dv_has_:
     azb: ریو قرانده چایی
     ba: Рио-Гранде
     be: Рыа-Грандэ
-    be-tarask: Рыё-Грандэ
+    be_tarask: Рыё-Грандэ
     bg: Рио Гранде
     bho: रियो ग्रांडे
     bn: রিও গ্রান্দে
@@ -158,11 +158,11 @@ dv_has_:
     cy: Rio Grande
     da: Rio Grande
     de: Rio Grande
-    de-ch: Rio Grande
+    de_ch: Rio Grande
     el: Ρίο Γκράντε
     en: Rio Grande
-    en-ca: Rio Grande
-    en-gb: Rio Grande
+    en_ca: Rio Grande
+    en_gb: Rio Grande
     eo: Rio Grande del Norte
     es: Río Bravo
     et: Rio Grande
@@ -209,7 +209,7 @@ dv_has_:
     pms: Rio Grande (fium)
     pnb: دریائے ریو گرانڈے
     pt: Rio Grande
-    pt-br: Rio Grande
+    pt_br: Rio Grande
     ro: Rio Grande
     ru: Рио-Гранде
     sco: Rio Grande
@@ -218,8 +218,8 @@ dv_has_:
     sl: Rio Grande
     sq: Rio Grande
     sr: Рио Гранде
-    sr-ec: Рио Гранде
-    sr-el: Rio Grande
+    sr_ec: Рио Гранде
+    sr_el: Rio Grande
     sv: Rio Grande
     sw: Mto Grande
     ta: ரியோ கிராண்டே
@@ -235,12 +235,12 @@ dv_has_:
     xmf: რიო-გრანდე
     yue: 格蘭德河
     zh: 格蘭德河
-    zh-cn: 格兰德河
-    zh-hans: 格兰德河
-    zh-hant: 格蘭德河
-    zh-hk: 格蘭德河
-    zh-sg: 格兰德河
-    zh-tw: 格蘭德河
+    zh_cn: 格兰德河
+    zh_hans: 格兰德河
+    zh_hant: 格蘭德河
+    zh_hk: 格蘭德河
+    zh_sg: 格兰德河
+    zh_tw: 格蘭德河
 ---
 # [[Rio_Grande]] 
 

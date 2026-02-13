@@ -64,7 +64,7 @@ dv_has_:
     az: Dharma
     bcl: Dharma
     be: Дхарма
-    be-tarask: дгарма
+    be_tarask: дгарма
     bg: Дхарма
     bho: धर्म
     bn: ধর্ম
@@ -98,11 +98,11 @@ dv_has_:
     ja: ダルマ
     ka: დჰარმა
     kk: Дхарма
-    kk-arab: دحارما
+    kk_arab: دحارما
     kk-cn: دحارما
-    kk-cyrl: Дхарма
+    kk_cyrl: Дхарма
     kk-kz: Дхарма
-    kk-latn: Dxarma
+    kk_latn: Dxarma
     kk-tr: Dxarma
     km: ព្រះធម៌
     kn: ಧರ್ಮ
@@ -141,8 +141,8 @@ dv_has_:
     sl: dharma
     sq: Dharma
     sr: дарма
-    sr-ec: Дарма
-    sr-el: Darma
+    sr_ec: Дарма
+    sr_el: Darma
     sv: dharma
     ta: தர்மம்
     te: ధర్మము

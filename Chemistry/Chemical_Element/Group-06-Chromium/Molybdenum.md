@@ -199,7 +199,7 @@ dv_has_:
     ban: Molibdénum
     bcl: Molibdeno
     be: Малібдэн
-    be-tarask: Малібдэн
+    be_tarask: Малібдэн
     bg: молибден
     bho: मोलिब्डेनम
     bn: মলিবডেনাম
@@ -216,12 +216,12 @@ dv_has_:
     cy: molybdenwm
     da: molybdæn
     de: Molybdän
-    de-ch: Molybdän
+    de_ch: Molybdän
     dv: މޮލިބްޑިނަމް
     el: μολυβδαίνιο
     en: molybdenum
-    en-ca: Molybdenum
-    en-gb: molybdenum
+    en_ca: Molybdenum
+    en_gb: molybdenum
     eo: molibdeno
     es: molibdeno
     et: Molübdeen
@@ -300,7 +300,7 @@ dv_has_:
     pnb: مولیبیڈینم
     ps: موليبډينوم
     pt: molibdénio
-    pt-br: molibdênio
+    pt_br: molibdênio
     qu: Molibdenu
     ro: molibden
     ru: молибден
@@ -341,11 +341,11 @@ dv_has_:
     yo: Molybdenum
     yue: 鉬
     zh: 鉬
-    zh-cn: 钼
-    zh-hans: 钼
-    zh-hant: 鉬
-    zh-hk: 鉬
-    zh-tw: 鉬
+    zh_cn: 钼
+    zh_hans: 钼
+    zh_hant: 鉬
+    zh_hk: 鉬
+    zh_tw: 鉬
     zu: UMophobo
   number_of_:
     electrons: 42

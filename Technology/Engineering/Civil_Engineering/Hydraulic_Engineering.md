@@ -108,9 +108,9 @@ dv_has_:
     it: ingegneria idraulica
     ja: 水工学
     kk: гидротехника
-    kk-arab: گىيدروتەحنىيكا
-    kk-cyrl: Гидротехника
-    kk-latn: Gïdrotexnïka
+    kk_arab: گىيدروتەحنىيكا
+    kk_cyrl: Гидротехника
+    kk_latn: Gïdrotexnïka
     ky: гидротехника
     lt: Hidrotechnika
     lv: hidrotehnika
@@ -118,7 +118,7 @@ dv_has_:
     mk: хидротехника
     mn: Усны инженерийн байгууламж
     ms: kejuruteraan hidraulik
-    ms-arab: کجوروتراءن هيدراوليک
+    ms_arab: کجوروتراءن هيدراوليک
     nl: waterbouwkunde
     pl: budownictwo wodne
     pt: engenharia hidráulica
@@ -132,18 +132,18 @@ dv_has_:
     th: วิศวกรรมชลศาสตร์
     tr: hidrolik mühendisliği
     tt: гидротехника
-    tt-cyrl: һидротехник
+    tt_cyrl: һидротехник
     uk: гідротехніка
     uz: Gidrotexnika
     vec: inzegnaria idràulega
     yi: הידראַוליק אינזשעניריע
     yue: 水利工程
     zh: 水利工程
-    zh-cn: 水利工程
-    zh-hans: 水利工程
-    zh-hant: 水利工程
-    zh-hk: 水利工程
-    zh-tw: 水利工程
+    zh_cn: 水利工程
+    zh_hans: 水利工程
+    zh_hant: 水利工程
+    zh_hk: 水利工程
+    zh_tw: 水利工程
 ---
 # [[Hydraulic_Engineering]] 
 

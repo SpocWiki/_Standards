@@ -158,7 +158,7 @@ dv_has_:
     az: Pyer Burdye
     bar: Pierre Bourdieu
     be: П'ер Бурдзьё
-    be-tarask: П’ер Бурд’ё
+    be_tarask: П’ер Бурд’ё
     bg: Пиер Бурдийо
     bi: Pierre Bourdieu
     br: Pierre Bourdieu
@@ -211,7 +211,7 @@ dv_has_:
     pms: Pierre Bourdieu
     ps: پير بورديو
     pt: Pierre Bourdieu
-    pt-br: Pierre Bourdieu
+    pt_br: Pierre Bourdieu
     ro: Pierre Bourdieu
     ru: Пьер Бурдьё
     sc: Pierre Bourdieu
@@ -220,8 +220,8 @@ dv_has_:
     sl: Pierre Bourdieu
     sq: Pierre Bourdieu
     sr: Пјер Бурдије
-    sr-ec: Пјер Бурдје
-    sr-el: Pjer Burdje
+    sr_ec: Пјер Бурдје
+    sr_el: Pjer Burdje
     sv: Pierre Bourdieu
     ta: பியரே பூர்டோ
     te: పియరీ బోర్డియు
@@ -233,12 +233,12 @@ dv_has_:
     yo: Pierre Bourdieu
     yue: 皮耶·波迪堯
     zh: 皮耶·布尔迪厄
-    zh-cn: 皮埃尔·布尔迪厄
-    zh-hans: 皮埃尔·布尔迪厄
-    zh-hant: 皮埃爾·布爾迪厄
-    zh-hk: 皮耶·波迪堯
-    zh-sg: 皮埃尔·布迪厄
-    zh-tw: 皮耶·布迪厄
+    zh_cn: 皮埃尔·布尔迪厄
+    zh_hans: 皮埃尔·布尔迪厄
+    zh_hant: 皮埃爾·布爾迪厄
+    zh_hk: 皮耶·波迪堯
+    zh_sg: 皮埃尔·布迪厄
+    zh_tw: 皮耶·布迪厄
 ---
 # [[Bourdieu,Pierre]] 
 

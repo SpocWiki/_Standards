@@ -193,13 +193,13 @@ dv_has_:
     ba: Фредди Меркьюри
     bcl: Freddie Mercury
     be: Фрэдзі Меркуры
-    be-tarask: Фрэдзі Мэрк’юры
+    be_tarask: Фрэдзі Мэрк’юры
     bg: Фреди Меркюри
     bn: ফ্রেডি মার্কারি
     br: Freddie Mercury
     bs: Freddie Mercury
     ca: Freddie Mercury
-    cbk-zam: Freddie Mercury
+    cbk_zam: Freddie Mercury
     ceb: Freddie Mercury
     ch: Freddie Mercury
     chy: Freddie Mercury
@@ -210,14 +210,14 @@ dv_has_:
     da: Freddie Mercury
     dag: Freddie Mercury
     de: Freddie Mercury
-    de-ch: Freddie Mercury
+    de_ch: Freddie Mercury
     dsb: Freddie Mercury
     ee: Freddie Mercury
     el: Φρέντι Μέρκιουρι
     eml: Freddie Mercury
     en: Freddie Mercury
-    en-ca: Freddie Mercury
-    en-gb: Freddie Mercury
+    en_ca: Freddie Mercury
+    en_gb: Freddie Mercury
     eo: Freddie Mercury
     es: Freddie Mercury
     et: Freddie Mercury
@@ -279,7 +279,7 @@ dv_has_:
     nan: Freddie Mercury
     nb: Freddie Mercury
     nds: Freddie Mercury
-    nds-nl: Freddie Mercury
+    nds_nl: Freddie Mercury
     ne: फ्रेडी मरक्युरी
     nl: Freddie Mercury
     nn: Freddie Mercury
@@ -292,7 +292,7 @@ dv_has_:
     pl: Freddie Mercury
     pms: Freddie Mercury
     pt: Freddie Mercury
-    pt-br: Freddie Mercury
+    pt_br: Freddie Mercury
     qu: Freddie Mercury
     rmf: Freddie Mercury
     ro: Freddie Mercury
@@ -315,7 +315,7 @@ dv_has_:
     sms: Freddie Mercury
     sq: Freddie Mercury
     sr: Фреди Меркјури
-    sr-ec: Фреди Меркјури
+    sr_ec: Фреди Меркјури
     su: Freddie Mercury
     sv: Freddie Mercury
     sw: Freddie Mercury
@@ -344,9 +344,9 @@ dv_has_:
     yo: Freddie Mercury
     yue: Freddie Mercury
     zh: 弗雷迪·默丘里
-    zh-hant: 佛萊迪·墨裘瑞
-    zh-hk: 費迪·墨格利
-    zh-sg: 佛莱迪·墨裘瑞
+    zh_hant: 佛萊迪·墨裘瑞
+    zh_hk: 費迪·墨格利
+    zh_sg: 佛莱迪·墨裘瑞
     zu: Freddie Mercury
 ---
 # [[Mercury,Freddie]] 

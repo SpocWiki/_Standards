@@ -102,7 +102,7 @@ dv_has_:
     az: Ritorika
     azb: بلاغت
     be: рыторыка
-    be-tarask: рыторыка
+    be_tarask: рыторыка
     bg: Реторика
     bn: অলঙ্কারশাস্ত্র
     br: Retorik
@@ -164,7 +164,7 @@ dv_has_:
     pl: retoryka
     ps: بلاغت
     pt: retórica
-    pt-br: retórica
+    pt_br: retórica
     ro: retorică
     ru: риторика
     rue: Реторика
@@ -181,8 +181,8 @@ dv_has_:
     sms: retorikk
     sq: Retorika
     sr: беседништво
-    sr-ec: беседништво
-    sr-el: besedništvo
+    sr_ec: беседништво
+    sr_el: besedništvo
     su: Retorik
     sv: retorik
     sw: Balagha
@@ -204,7 +204,7 @@ dv_has_:
     yue: 修辭學
     zgh: ⵜⴰⵙⵏⵓⴽⵢⵙⵜ
     zh: 修辞学
-    zh-hant: 修辭學
+    zh_hant: 修辭學
 ---
 # [[Rethoric]] 
 

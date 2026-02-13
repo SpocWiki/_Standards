@@ -88,13 +88,13 @@ dv_has_:
     arz: بابوس السكندرى
     ast: Pappus d'Alexandría
     az: İskəndəriyyəli Papp
-    be-tarask: Пап Александрыйскі
+    be_tarask: Пап Александрыйскі
     bg: Пап Александрийски
     ca: Pappos d'Alexandria
     cs: Pappos z Alexandrie
     da: Pappos
     de: Pappos
-    de-ch: Pappos
+    de_ch: Pappos
     el: Πάππος
     en: Pappus of Alexandria
     eo: Papo de Aleksandrio
@@ -125,14 +125,14 @@ dv_has_:
     pl: Pappus z Aleksandrii
     pms: Pap ëd Lissandria
     pt: Pappus de Alexandria
-    pt-br: Pappus de Alexandria
+    pt_br: Pappus de Alexandria
     ro: Pappus din Alexandria
     ru: Папп Александрийский
     sh: Pap iz Aleksandrije
     sl: Papos Aleksandrijski
     sr: Папос
-    sr-ec: Папос
-    sr-el: Papos
+    sr_ec: Папос
+    sr_el: Papos
     sv: Pappos
     ta: அலெக்சாந்திரியாவின் பாப்பசு
     tr: İskenderiyeli Pappus
@@ -141,12 +141,12 @@ dv_has_:
     vi: Pappus của Alexandria
     war: Papo han Alexandria
     zh: 帕普斯
-    zh-cn: 帕普斯
-    zh-hans: 帕普斯
-    zh-hant: 帕普斯
-    zh-hk: 帕普斯
-    zh-sg: 帕普斯
-    zh-tw: 帕普斯
+    zh_cn: 帕普斯
+    zh_hans: 帕普斯
+    zh_hant: 帕普斯
+    zh_hk: 帕普斯
+    zh_sg: 帕普斯
+    zh_tw: 帕普斯
 ---
 # [[Pappus_of_Alexandria]] 
 

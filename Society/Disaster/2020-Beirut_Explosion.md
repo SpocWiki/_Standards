@@ -9,7 +9,7 @@ dv_has_:
     az: Beyrut limanında partlayışlar
     azb: 2020 بیروت پاتلامی
     be: Выбухі ў порце Бейрута
-    be-tarask: Выбухі ў Бэйруце
+    be_tarask: Выбухі ў Бэйруце
     bg: Взривове в Бейрут (2020)
     bn: ২০২০ বৈরুত বিস্ফোরণ
     bs: Eksplozije u Bejrutu 2020.
@@ -19,11 +19,11 @@ dv_has_:
     cy: Ffrwydradau Beirut 4 Awst 2020
     da: Eksplosionerne i Beirut i 2020
     de: Explosionskatastrophe im Hafen von Beirut 2020
-    de-ch: Explosionskatastrophe im Hafen von Beirut 2020
+    de_ch: Explosionskatastrophe im Hafen von Beirut 2020
     el: Έκρηξη στο λιμάνι της Βηρυτού (2020)
     en: 2020 Beirut explosions
-    en-ca: 2020 Beirut explosions
-    en-gb: 2020 Beirut explosions
+    en_ca: 2020 Beirut explosions
+    en_gb: 2020 Beirut explosions
     eo: eksplodoj en Bejruto (2020)
     es: explosiones en el puerto de Beirut de 2020
     et: 2020. aasta plahvatused Beiruti sadamas
@@ -61,7 +61,7 @@ dv_has_:
     nl: Explosie in de haven van Beiroet
     pl: eksplozja w Bejrucie
     pt: explosões no porto de Beirute em 2020
-    pt-br: Explosões no porto de Beirute em 2020
+    pt_br: Explosões no porto de Beirute em 2020
     ro: Exploziile de la Beirut din august 2020
     ru: взрывы в порту Бейрута (2020)
     sco: 2020 Beirut explosions
@@ -86,8 +86,8 @@ dv_has_:
     yo: Ìjàmbá ìtúká ẹ̀búté Bèírùtù ọdún 2020
     yue: 貝魯特大爆炸
     zh: 2020年貝魯特爆炸事故
-    zh-hans: 2020年贝鲁特爆炸事故
-    zh-hant: 2020年貝魯特爆炸事故
+    zh_hans: 2020年贝鲁特爆炸事故
+    zh_hant: 2020年貝魯特爆炸事故
 aliases:
 - 2020 Beirut explosion
 - 2020 Beirut explosions

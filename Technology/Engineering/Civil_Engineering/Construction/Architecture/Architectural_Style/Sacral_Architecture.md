@@ -71,7 +71,7 @@ dv_has_:
     az: müqəddəs memarlıq
     ba: Ғибәҙәтхана архитектураһы
     be: сакральная архітэктура
-    be-tarask: сакральная архітэктура
+    be_tarask: сакральная архітэктура
     bg: Храмова архитектура
     ca: arquitectura religiosa
     ckb: نژیاروانیی دینی
@@ -118,7 +118,7 @@ dv_has_:
     uk: сакральна архітектура
     war: Arkitektura relihiyosa
     zh: 宗教建築
-    zh-hans: 宗教建筑
+    zh_hans: 宗教建筑
 ---
 # [[Sacral_Architecture]] 
 

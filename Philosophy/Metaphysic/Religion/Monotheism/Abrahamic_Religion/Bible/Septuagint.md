@@ -87,7 +87,7 @@ dv_has_:
     az: Septuaginta
     bar: Septuaginta
     be: Септуагінта
-    be-tarask: Сэптуагінта
+    be_tarask: Сэптуагінта
     bg: Септуагинта
     bn: সপ্ততি
     br: Bibl an Dek ha Tri-Ugent
@@ -96,11 +96,11 @@ dv_has_:
     cy: Cyfieithiad y Deg a Thrigain
     da: Septuaginta
     de: Septuaginta
-    de-ch: Septuaginta
+    de_ch: Septuaginta
     el: Μετάφραση των Εβδομήκοντα
     en: Septuagint
-    en-ca: Septuagint
-    en-gb: Septuagint
+    en_ca: Septuagint
+    en_gb: Septuagint
     eo: Septuaginto
     es: Septuaginta
     et: Septuaginta
@@ -143,7 +143,7 @@ dv_has_:
     pl: Septuaginta
     pnb: سپتواجنتا
     pt: Septuaginta
-    pt-br: Septuaginta
+    pt_br: Septuaginta
     rm: Septuaginta
     ro: Septuaginta
     ru: Септуагинта
@@ -167,9 +167,9 @@ dv_has_:
     wuu: 七十士译本
     yue: 七十士譯本
     zh: 七十士譯本
-    zh-cn: 希腊语圣经
-    zh-hans: 希腊语圣经
-    zh-hant: 希臘語聖經
+    zh_cn: 希腊语圣经
+    zh_hans: 希腊语圣经
+    zh_hant: 希臘語聖經
 ---
 # [[Septuagint]] 
 

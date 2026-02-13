@@ -34,16 +34,16 @@ dv_has_:
     nl: manosphere
     pl: manosfera
     pt: machosfera
-    pt-br: Manosfera
+    pt_br: Manosfera
     ru: маносфера
     sl: androsfera
     sr: Меносфера
     tr: manosfer
     uk: маносфера
     zh: 男性圈
-    zh-cn: 男性圈
-    zh-hans: 男性圈
-    zh-hant: 馬諾圈
+    zh_cn: 男性圈
+    zh_hans: 男性圈
+    zh_hant: 馬諾圈
 aliases:
 - androsfera
 - Dynosffer

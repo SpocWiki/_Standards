@@ -69,7 +69,7 @@ dv_has_:
     ast: Jack Dempsey
     bcl: Jack Dempsey
     be: Джэк Дэмпсі
-    be-tarask: Джэк Дэмпсі
+    be_tarask: Джэк Дэмпсі
     bg: Джак Демпси
     ca: Jack Dempsey
     cs: Jack Dempsey
@@ -102,7 +102,7 @@ dv_has_:
     pap: Jack Dempsey
     pl: Jack Dempsey
     pt: Jack Dempsey
-    pt-br: Jack Dempsey
+    pt_br: Jack Dempsey
     qu: Jack Dempsey
     ru: Джек Демпси
     sl: Jack Dempsey

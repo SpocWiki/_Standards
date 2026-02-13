@@ -110,7 +110,7 @@ dv_has_:
     azb: اکبر شاه
     ba: Бөйөк Әкбәр
     be: Акбар Вялікі
-    be-tarask: Акбар Вялікі
+    be_tarask: Акбар Вялікі
     bew: Akbar
     bg: Акбар Велики
     bho: अकबर
@@ -132,8 +132,8 @@ dv_has_:
     dty: अकवर
     el: Ακμπάρ ο Μέγας
     en: Akbar
-    en-ca: Akbar
-    en-gb: Akbar
+    en_ca: Akbar
+    en_gb: Akbar
     en-us: Akbar
     eo: Ĝalaluddin Muhammad Akbar
     es: Akbar
@@ -149,7 +149,7 @@ dv_has_:
     gn: Akbar
     gom: अकबर
     gom-deva: अकबर
-    gom-latn: Akbar
+    gom_latn: Akbar
     gsw: Akbar
     gu: અકબર
     guw: Akbar Daho Lọ
@@ -220,7 +220,7 @@ dv_has_:
     pnb: اکبر
     ps: جلال الدين محمد اکبر
     pt: Akbar
-    pt-br: Akbar
+    pt_br: Akbar
     ro: Jalaluddin Muhammad Akbar
     ru: Акбар I Великий
     rue: Акбар Джелал-ад-дін

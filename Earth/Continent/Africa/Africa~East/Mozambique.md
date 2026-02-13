@@ -470,7 +470,7 @@ dv_has_:
     ab: Мозамбик
     ace: Mozambik
     ady: Мозамбик
-    aeb-arab: موزمبيق
+    aeb_arab: موزمبيق
     af: Mosambiek
     am: ሞዛምቢክ
     ami: Mozambique
@@ -491,7 +491,7 @@ dv_has_:
     bar: Mosambik
     bcl: Mosambik
     be: Мазамбік
-    be-tarask: Мазамбік
+    be_tarask: Мазамбік
     bew: Mosambik
     bg: Мозамбик
     bho: मोजाम्बिक
@@ -505,21 +505,21 @@ dv_has_:
     bs: Mozambik
     bxr: Мозамбик
     ca: Moçambic
-    cbk-zam: Mozambique
+    cbk_zam: Mozambique
     cdo: Mozambique
     ce: Мозамбик
     ceb: Mozambique
     ckb: مۆزامبیک
     co: Mozambicu
     crh: Mozambik
-    crh-latn: Mozambik
+    crh_latn: Mozambik
     cs: Mosambik
     cv: Мозамбик
     cy: Mosambic
     da: Mozambique
     dag: Mozambique
     de: Mosambik
-    de-ch: Mosambik
+    de_ch: Mosambik
     diq: Mozambik
     dsb: Mosambik
     dty: मोजाम्बिक
@@ -527,8 +527,8 @@ dv_has_:
     ee: Mozambiki
     el: Μοζαμβίκη
     en: Mozambique
-    en-ca: Mozambique
-    en-gb: Mozambique
+    en_ca: Mozambique
+    en_gb: Mozambique
     eo: Mozambiko
     es: Mozambique
     et: Mosambiik
@@ -632,7 +632,7 @@ dv_has_:
     nan: Mozambique
     nb: Mosambik
     nds: Mosambik
-    nds-nl: Mosambyk
+    nds_nl: Mosambyk
     ne: मोजाम्बिक
     new: मोजाम्बिक
     nl: Mozambique
@@ -659,7 +659,7 @@ dv_has_:
     pnb: موزمبیق
     ps: موزامبيک
     pt: Moçambique
-    pt-br: Moçambique
+    pt_br: Moçambique
     qu: Musambik
     ro: Mozambic
     ru: Мозамбик
@@ -685,8 +685,8 @@ dv_has_:
     so: Musanbiig
     sq: Mozambiku
     sr: Мозамбик
-    sr-ec: Мозамбик
-    sr-el: Mozambik
+    sr_ec: Мозамбик
+    sr_el: Mozambik
     ss: IMozambikhi
     st: Mozambiki
     stq: Mosambik
@@ -737,11 +737,11 @@ dv_has_:
     zea: Mozambique
     zgh: ⵎⵓⵣⴰⵎⴱⵉⴽ
     zh: 莫桑比克
-    zh-cn: 莫桑比克
-    zh-hans: 莫桑比克
-    zh-hant: 莫三比克
-    zh-hk: 莫桑比克
-    zh-tw: 莫三比克
+    zh_cn: 莫桑比克
+    zh_hans: 莫桑比克
+    zh_hant: 莫三比克
+    zh_hk: 莫桑比克
+    zh_tw: 莫三比克
     zu: IMozambiki
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Mozambique

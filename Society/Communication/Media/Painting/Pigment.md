@@ -61,7 +61,7 @@ dv_has_:
     ast: pigmentu
     az: Piqment
     be: пігмент
-    be-tarask: пігмэнт
+    be_tarask: пігмэнт
     bg: Пигмент
     bn: রঞ্জক চূর্ণ
     br: pigmant
@@ -71,11 +71,11 @@ dv_has_:
     cy: pigment
     da: pigment
     de: Pigment
-    de-ch: Pigment
+    de_ch: Pigment
     el: Χρωστική
     en: pigment
-    en-ca: pigment
-    en-gb: pigment
+    en_ca: pigment
+    en_gb: pigment
     eo: pigmento
     es: pigmento
     et: Värvipigment
@@ -120,7 +120,7 @@ dv_has_:
     os: пигмент
     pl: barwnik
     pt: pigmento
-    pt-br: Pigmento
+    pt_br: Pigmento
     ro: Pigment
     ru: пигмент
     scn: pigmentu
@@ -129,8 +129,8 @@ dv_has_:
     sl: pigment
     sq: Pigmenti
     sr: пигмент
-    sr-ec: пигмент
-    sr-el: pigment
+    sr_ec: пигмент
+    sr_el: pigment
     sv: pigment
     sw: Pigmenti
     ta: நிறமி
@@ -146,12 +146,12 @@ dv_has_:
     wuu: 色素
     yue: 顏料
     zh: 色料
-    zh-cn: 色素
-    zh-hans: 色素
-    zh-hant: 色素
-    zh-hk: 色素
-    zh-sg: 色素
-    zh-tw: 色素
+    zh_cn: 色素
+    zh_hans: 色素
+    zh_hant: 色素
+    zh_hk: 色素
+    zh_sg: 色素
+    zh_tw: 色素
 ---
 # [[Pigment]] 
 

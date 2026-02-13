@@ -125,7 +125,7 @@ dv_has_:
     az: Kloun
     bar: Clown
     be: клоўн
-    be-tarask: клоўн
+    be_tarask: клоўн
     bew: Gomar
     bg: Клоун
     ca: pallasso
@@ -141,8 +141,8 @@ dv_has_:
     el: κλόουν
     eml: Pajàs
     en: clown
-    en-ca: Clown
-    en-gb: clown
+    en_ca: Clown
+    en_gb: clown
     eo: klaŭno
     es: payaso
     et: Kloun
@@ -173,7 +173,7 @@ dv_has_:
     kk: Клоун
     ko: 광대
     ku: palyaço
-    ku-latn: palyaço
+    ku_latn: palyaço
     la: Scurra
     lb: Clown
     li: Kloon
@@ -190,7 +190,7 @@ dv_has_:
     oc: palhassa
     pl: klaun
     pt: palhaço
-    pt-br: palhaço
+    pt_br: palhaço
     ro: clovn
     ru: клоун
     sat: Clown
@@ -202,8 +202,8 @@ dv_has_:
     sms: klounn
     sq: Palaço
     sr: кловн
-    sr-ec: кловн
-    sr-el: klovn
+    sr_ec: кловн
+    sr_el: klovn
     sv: clown
     ta: கோமாளி
     tg: масхарабоз
@@ -221,14 +221,14 @@ dv_has_:
     wuu: 小丑
     yue: 小丑
     zh: 小丑
-    zh-cn: 小丑
-    zh-hans: 小丑
-    zh-hant: 小丑
-    zh-hk: 小丑
-    zh-mo: 小丑
+    zh_cn: 小丑
+    zh_hans: 小丑
+    zh_hant: 小丑
+    zh_hk: 小丑
+    zh_mo: 小丑
     zh-my: 小丑
-    zh-sg: 小丑
-    zh-tw: 小丑
+    zh_sg: 小丑
+    zh_tw: 小丑
 ---
 # [[Clown]] 
 

@@ -72,7 +72,7 @@ dv_has_:
     ar: وسيط
     az: Mediana (statistika)
     be: медыяна
-    be-tarask: мэдыяна
+    be_tarask: мэдыяна
     bg: Медиана
     bn: মধ্যক
     bs: Medijana
@@ -109,7 +109,7 @@ dv_has_:
     mk: Медијана
     ml: മധ്യമം
     ms: median
-    ms-arab: ميديان
+    ms_arab: ميديان
     nb: median
     nl: mediaan
     nn: median
@@ -126,14 +126,14 @@ dv_has_:
     sn: Chipakati
     sq: Mediana
     sr: медијана
-    sr-ec: Медијана
-    sr-el: Medijana
+    sr_ec: Медијана
+    sr_el: Medijana
     su: Median
     sv: median
     sw: Kati (Takwimu)
     ta: இடைநிலையளவு
     tg: Медиана
-    tg-latn: Mediana
+    tg_latn: Mediana
     th: มัธยฐาน
     tr: medyan
     udm: медиана
@@ -143,12 +143,12 @@ dv_has_:
     wuu: 中位数
     yue: 中位數
     zh: 中位數
-    zh-cn: 中位数
-    zh-hans: 中位数
-    zh-hant: 中位數
-    zh-hk: 中位數
-    zh-sg: 中位数
-    zh-tw: 中位數
+    zh_cn: 中位数
+    zh_hans: 中位数
+    zh_hant: 中位數
+    zh_hk: 中位數
+    zh_sg: 中位数
+    zh_tw: 中位數
 ---
 # [[Median]] 
 

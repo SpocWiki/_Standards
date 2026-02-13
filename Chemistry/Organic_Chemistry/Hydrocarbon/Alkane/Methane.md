@@ -195,7 +195,7 @@ dv_has_:
     ba: метан
     bcl: Metano
     be: метан
-    be-tarask: мэтан
+    be_tarask: мэтан
     bg: метан
     bho: मीथेन
     blk: မီသိန်း
@@ -212,8 +212,8 @@ dv_has_:
     de: Methan
     el: μεθάνιο
     en: methane
-    en-ca: methane
-    en-gb: methane
+    en_ca: methane
+    en_gb: methane
     eo: metano
     es: metano
     et: metaan
@@ -277,7 +277,7 @@ dv_has_:
     pnb: میتھین
     ps: میتان
     pt: metano
-    pt-br: metano
+    pt_br: metano
     ro: metan
     ru: метан
     sah: Метан
@@ -311,14 +311,14 @@ dv_has_:
     yo: Methane
     yue: 甲烷
     zh: 甲烷
-    zh-cn: 甲烷
-    zh-hans: 甲烷
-    zh-hant: 甲烷
-    zh-hk: 甲烷
-    zh-mo: 甲烷
+    zh_cn: 甲烷
+    zh_hans: 甲烷
+    zh_hant: 甲烷
+    zh_hk: 甲烷
+    zh_mo: 甲烷
     zh-my: 甲烷
-    zh-sg: 甲烷
-    zh-tw: 甲烷
+    zh_sg: 甲烷
+    zh_tw: 甲烷
 dv_is_:
   same_as:
   - '[[../../../../WikiData/WD~Methane,37129|WD~Methane,37129]]'

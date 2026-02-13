@@ -72,15 +72,15 @@ dv_has_:
     ast: Clases de complexidá P y NP
     az: P=NP
     be: роўнасць класаў P і NP
-    be-tarask: роўнасьць клясаў P і NP
+    be_tarask: роўнасьць клясаў P і NP
     ca: P versus NP
     cs: Problém P versus NP
     da: P versus NP
     de: P-NP-Problem
     el: Πρόβλημα P=NP
     en: P versus NP problem
-    en-ca: P versus NP problem
-    en-gb: P versus NP problem
+    en_ca: P versus NP problem
+    en_gb: P versus NP problem
     eo: demando P = NP
     es: clases de complejidad P y NP
     eu: P vs NP problema
@@ -104,13 +104,13 @@ dv_has_:
     nl: P versus NP problem
     nn: P=NP-problemet
     pt: P versus NP
-    pt-br: P versus NP
+    pt_br: P versus NP
     ro: Clasele de complexitate P și NP
     ru: равенство классов P и NP
     sl: problem P = NP
     sr: П = НП проблем
-    sr-ec: П = НП проблем
-    sr-el: P = NP problem
+    sr_ec: П = НП проблем
+    sr_el: P = NP problem
     sv: P=NP?
     th: กลุ่มความซับซ้อน พี และ เอ็นพี
     tr: P ile NP arasındaki ilişki

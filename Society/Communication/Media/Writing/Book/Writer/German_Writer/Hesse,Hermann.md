@@ -169,7 +169,7 @@ dv_has_:
     ba: Герман Гессе
     bar: Hermann Hesse
     be: Герман Гесэ
-    be-tarask: Гэрман Гэсэ
+    be_tarask: Гэрман Гэсэ
     bg: Херман Хесе
     bn: হেরমান হেস
     br: Hermann Hesse
@@ -183,11 +183,11 @@ dv_has_:
     dag: Hermann Hesse
     de: Hermann Hesse
     de-at: Hermann Hesse
-    de-ch: Hermann Hesse
+    de_ch: Hermann Hesse
     el: Έρμαν Έσσε
     en: Hermann Hesse
-    en-ca: Hermann Hesse
-    en-gb: Hermann Hesse
+    en_ca: Hermann Hesse
+    en_gb: Hermann Hesse
     en-us: Hermann Hesse
     eo: Hermann Hesse
     es: Hermann Hesse
@@ -249,7 +249,7 @@ dv_has_:
     nap: Hermann Hesse
     nb: Hermann Hesse
     nds: Hermann Hesse
-    nds-nl: Hermann Hesse
+    nds_nl: Hermann Hesse
     ne: हर्मन हेस्से
     nl: Hermann Hesse
     nn: Hermann Hesse
@@ -262,7 +262,7 @@ dv_has_:
     pms: Hermann Hesse
     pnb: ہرمن ہیسے
     pt: Hermann Hesse
-    pt-br: Hermann Hesse
+    pt_br: Hermann Hesse
     qu: Hermann Hesse
     rm: Hermann Hesse
     ro: Hermann Hesse
@@ -277,8 +277,8 @@ dv_has_:
     smn: Hermann Hesse
     sq: Hermann Hesse
     sr: Херман Хесе
-    sr-ec: Херман Хесе
-    sr-el: Hermann Hesse
+    sr_ec: Херман Хесе
+    sr_el: Hermann Hesse
     sv: Hermann Hesse
     sw: Hermann Hesse
     ta: ஹேர்மன் ஹெசே

@@ -168,7 +168,7 @@ dv_has_:
     ar: فيتامين ب2
     ast: Vitamina B2
     be: Рыбафлавін
-    be-tarask: Рыбафлявін
+    be_tarask: Рыбафлявін
     bg: Витамин B2
     bn: রিবোফ্লাভিন
     bs: Vitamin B2
@@ -178,12 +178,12 @@ dv_has_:
     cy: ribofflafin
     da: Riboflavin
     de: Riboflavin
-    de-ch: Riboflavin
+    de_ch: Riboflavin
     dv: ވިޓަމިން ބީ2
     el: ριβοφλαβίνη
     en: riboflavin
-    en-ca: Riboflavin
-    en-gb: riboflavin
+    en_ca: Riboflavin
+    en_gb: riboflavin
     eo: riboflavino
     es: vitamina B2
     et: Vitamiin B2
@@ -221,7 +221,7 @@ dv_has_:
     or: ରାଇବୋଫ୍ଲାଭିନ
     pl: witamina B2
     pt: riboflavina
-    pt-br: Riboflavina
+    pt_br: Riboflavina
     ro: Riboflavină
     ru: рибофлавин
     rw: Vitamini B2
@@ -232,8 +232,8 @@ dv_has_:
     sl: riboflavin
     sq: Vitamina B2
     sr: витамин Б2
-    sr-ec: Витамин Б2
-    sr-el: Vitamin B2
+    sr_ec: Витамин Б2
+    sr_el: Vitamin B2
     su: Riboflavin
     sv: Riboflavin
     ta: ரிபோஃபிளாவின்
@@ -249,12 +249,12 @@ dv_has_:
     wuu: 核黄素
     yue: 維他命B2
     zh: 核黄素
-    zh-cn: 核黄素
-    zh-hans: 核黄素
-    zh-hant: 核黃素
-    zh-hk: 核黃素
-    zh-sg: 核黄素
-    zh-tw: 核黃素
+    zh_cn: 核黄素
+    zh_hans: 核黄素
+    zh_hant: 核黃素
+    zh_hk: 核黃素
+    zh_sg: 核黄素
+    zh_tw: 核黃素
 ---
 # [[Riboflavin]] 
 

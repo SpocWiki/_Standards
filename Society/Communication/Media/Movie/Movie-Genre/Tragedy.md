@@ -99,7 +99,7 @@ dv_has_:
     bar: Tragedie
     bcl: Trahedya
     be: трагедыя
-    be-tarask: трагедыя
+    be_tarask: трагедыя
     bg: Трагедия
     bn: বিয়োগান্ত নাটক
     br: Trajedienn
@@ -145,7 +145,7 @@ dv_has_:
     kn: ಗಂಭೀರ ನಾಟಕ
     ko: 비극
     ku: trajedî
-    ku-latn: trajedî
+    ku_latn: trajedî
     kw: trajedi
     ky: Трагедия
     la: Tragoedia

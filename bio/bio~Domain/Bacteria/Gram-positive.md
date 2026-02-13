@@ -3,7 +3,7 @@ has_id_wikidata: Q857288
 dv_has_:
   name_:
     ar: إيجابية الغرام
-    be-tarask: грам-пазітыўная
+    be_tarask: грам-пазітыўная
     bn: গ্রাম পজিটিভ ব্যাকটেরিয়া
     br: Gram-Ya
     bs: Gram-pozitivna bakterija
@@ -55,9 +55,9 @@ dv_has_:
     uk: грам-позитивні бактерії
     vi: Vi khuẩn Gram dương
     zh: 革蘭氏陽性菌
-    zh-hans: 革兰氏阳性菌
-    zh-hant: 革蘭氏陽性菌
-    zh-hk: 革蘭氏陽性菌
+    zh_hans: 革兰氏阳性菌
+    zh_hant: 革蘭氏陽性菌
+    zh_hk: 革蘭氏陽性菌
 aliases:
 - baakteeriyaa Giraam-posativii(eeyyentaa)
 - bacteria Gram positiva

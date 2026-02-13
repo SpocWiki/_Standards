@@ -67,7 +67,7 @@ dv_has_:
     ace: Iran
     acm: ايران
     ady: Иран
-    aeb-arab: إيران
+    aeb_arab: إيران
     af: Iran
     am: ፋርስ
     ami: Iran
@@ -90,7 +90,7 @@ dv_has_:
     bar: Iran
     bcl: Iran
     be: Іран
-    be-tarask: Іран
+    be_tarask: Іран
     bew: Iran
     bg: Иран
     bgn: ایران
@@ -106,7 +106,7 @@ dv_has_:
     bug: ᨕᨗᨑ (ᨄᨑᨛᨔᨗᨐ)
     bxr: Иран
     ca: Iran
-    cbk-zam: Irán
+    cbk_zam: Irán
     cdo: Iran
     ce: Иран
     ceb: Iran
@@ -114,7 +114,7 @@ dv_has_:
     ckb: ئێران
     co: Iranu
     crh: İran
-    crh-latn: İran
+    crh_latn: İran
     crh-ro: Iran
     cs: Írán
     csb: Iran
@@ -124,7 +124,7 @@ dv_has_:
     dag: Iran
     de: Iran
     de-at: Iran
-    de-ch: Iran
+    de_ch: Iran
     diq: İran
     dsb: Iran
     dtp: Iran
@@ -134,8 +134,8 @@ dv_has_:
     el: Ιράν
     eml: Iràn
     en: Iran
-    en-ca: Iran
-    en-gb: Iran
+    en_ca: Iran
+    en_gb: Iran
     en-us: Iran
     eo: Irano
     es: Irán
@@ -161,7 +161,7 @@ dv_has_:
     gn: Irán
     gom: ईराण
     gom-deva: ईराण
-    gom-latn: Iran
+    gom_latn: Iran
     gor: Iran
     got: "\U00010339\U00010342\U00010330\U0001033D"
     gpe: Iran
@@ -214,7 +214,7 @@ dv_has_:
     ks: ایٖران
     ksh: Erahn
     ku: Îran
-    ku-latn: Îran
+    ku_latn: Îran
     kv: Иран
     kw: Iran
     ky: Иран
@@ -236,7 +236,7 @@ dv_has_:
     lzh: 伊朗
     mad: Iran
     mai: ईरान
-    map-bms: Iran
+    map_bms: Iran
     mdf: Иран
     mg: Iran
     mhr: Иран
@@ -251,7 +251,7 @@ dv_has_:
     mr: इराण
     mrj: Иран
     ms: Iran
-    ms-arab: ايران
+    ms_arab: ايران
     mt: Iran
     mwl: Eiran
     my: အီရန်နိုင်ငံ
@@ -263,7 +263,7 @@ dv_has_:
     nap: Iran
     nb: Iran
     nds: Iran
-    nds-nl: Iran
+    nds_nl: Iran
     ne: इरान
     new: इरान
     nl: Iran
@@ -292,7 +292,7 @@ dv_has_:
     pnb: ایران
     ps: ايران
     pt: Irão
-    pt-br: Irã
+    pt_br: Irã
     qu: Iran
     rm: Iran
     rmy: Iran
@@ -329,8 +329,8 @@ dv_has_:
     so: Iiraan
     sq: Irani
     sr: Иран
-    sr-ec: Иран
-    sr-el: Iran
+    sr_ec: Иран
+    sr_el: Iran
     srn: Iran
     ss: I-Irani
     st: Iran
@@ -347,7 +347,7 @@ dv_has_:
     te: ఇరాన్
     tet: Iraun
     tg: Эрон
-    tg-cyrl: Эрон
+    tg_cyrl: Эрон
     th: ประเทศอิหร่าน
     ti: ኢራን
     tk: Eýran
@@ -388,12 +388,12 @@ dv_has_:
     zea: Iran
     zgh: ⵉⵕⴰⵏ
     zh: 伊朗
-    zh-cn: 伊朗
-    zh-hans: 伊朗
-    zh-hant: 伊朗
-    zh-hk: 伊朗
+    zh_cn: 伊朗
+    zh_hans: 伊朗
+    zh_hant: 伊朗
+    zh_hk: 伊朗
     zh-my: 伊朗
-    zh-tw: 伊朗
+    zh_tw: 伊朗
     zu: I-Irani
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Iran

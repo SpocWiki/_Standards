@@ -72,14 +72,14 @@ dv_has_:
     oc: Mesozoa
     pl: Wielokomórkowce pośrednie
     pt: Mesozoa
-    pt-br: Mesozoa
+    pt_br: Mesozoa
     ro: Mesozoa
     ru: мезозои
     sk: Morulovce
     sq: Mesozoa
     sr: Мезозое
-    sr-ec: Мезозое
-    sr-el: Mezozoe
+    sr_ec: Мезозое
+    sr_el: Mezozoe
     sv: Mesozoa
     tl: Mesozoa
     tr: Mesozoa
@@ -88,12 +88,12 @@ dv_has_:
     vo: Mesozoa
     war: Mesozoa
     zh: 中生动物
-    zh-cn: 中生动物
-    zh-hans: 中生动物
-    zh-hant: 中生動物
-    zh-hk: 中生動物
-    zh-sg: 中生动物
-    zh-tw: 中生動物
+    zh_cn: 中生动物
+    zh_hans: 中生动物
+    zh_hant: 中生動物
+    zh_hk: 中生動物
+    zh_sg: 中生动物
+    zh_tw: 中生動物
 ---
 # [[Mesozoa]] 
 

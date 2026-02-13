@@ -184,7 +184,7 @@ dv_has_:
     bar: Vuikan
     bcl: Bulkan
     be: вулкан
-    be-tarask: вулькан
+    be_tarask: вулькан
     bg: вулкан
     bho: ज्वालामुखी
     bi: Volkeno
@@ -205,14 +205,14 @@ dv_has_:
     cy: llosgfynydd
     da: vulkan
     de: Vulkan
-    de-ch: Vulkan
+    de_ch: Vulkan
     diq: Koyo volkanik
     dsb: wulkan
     dty: ज्वालामुखी
     el: ηφαίστειο
     en: volcano
-    en-ca: Volcano
-    en-gb: volcano
+    en_ca: Volcano
+    en_gb: volcano
     eo: vulkano
     es: volcán
     et: vulkaan
@@ -288,7 +288,7 @@ dv_has_:
     lv: vulkāns
     lzh: 火山
     mai: ज्वालामुखी
-    map-bms: gunung berapi
+    map_bms: gunung berapi
     mdf: Вулканць
     mg: Volkano
     mhr: тулгурык
@@ -308,7 +308,7 @@ dv_has_:
     nap: Vurcano
     nb: vulkan
     nds: Vulkan
-    nds-nl: vulkaan
+    nds_nl: vulkaan
     ne: ज्वालामुखी
     new: गुँजला
     nl: vulkaan
@@ -327,7 +327,7 @@ dv_has_:
     pnb: آتش فشاں
     ps: اورشيندی
     pt: vulcão
-    pt-br: vulcão
+    pt_br: vulcão
     qu: Ariq
     rm: Vulcan
     ro: vulcan
@@ -386,9 +386,9 @@ dv_has_:
     yi: וואולקאן
     yue: 火山
     zh: 火山
-    zh-hant: 火山
-    zh-hk: 火山
-    zh-tw: 火山
+    zh_hant: 火山
+    zh_hk: 火山
+    zh_tw: 火山
   parent_class: '[[../Landform]]'
   properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'
 dv_has_parent_class: '[[../Landform]]'

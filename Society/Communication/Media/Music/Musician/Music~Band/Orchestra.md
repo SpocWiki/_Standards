@@ -98,7 +98,7 @@ dv_has_:
     az: orkestr
     azb: اورکستر
     be: аркестр
-    be-tarask: аркестар
+    be_tarask: аркестар
     bg: оркестър
     bn: ঐকবাদনদল
     bs: orkestar
@@ -143,7 +143,7 @@ dv_has_:
     jv: orkestra
     ka: სიმფონიური ორკესტრი
     kk: оркестр
-    kk-cyrl: оркестр
+    kk_cyrl: оркестр
     kn: ಗೋಷ್ಠಿಗಾನ
     ko: 관현악단
     ky: оркестр
@@ -168,7 +168,7 @@ dv_has_:
     pam: orkesta
     pl: orkiestra
     pt: orquestra
-    pt-br: orquestra
+    pt_br: orquestra
     qu: yatawaki
     ro: orchestră
     rsk: Оркестер
@@ -202,13 +202,13 @@ dv_has_:
     yi: ארקעסטער
     yue: 管弦樂團
     zh: 管弦樂團
-    zh-cn: 管弦乐团
-    zh-hans: 管弦乐团
-    zh-hant: 管弦樂團
-    zh-hk: 管弦樂團
-    zh-mo: 管弦樂團
-    zh-sg: 管弦乐团
-    zh-tw: 管弦樂團
+    zh_cn: 管弦乐团
+    zh_hans: 管弦乐团
+    zh_hant: 管弦樂團
+    zh_hk: 管弦樂團
+    zh_mo: 管弦樂團
+    zh_sg: 管弦乐团
+    zh_tw: 管弦樂團
 ---
 # [[Orchestra]] 
 

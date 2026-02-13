@@ -120,7 +120,7 @@ dv_has_:
     azb: واراولوشچولوق
     ba: Экзистенциализм
     be: экзістэнцыялізм
-    be-tarask: экзыстэнцыялізм
+    be_tarask: экзыстэнцыялізм
     bg: Екзистенциализъм
     bn: অস্তিত্ববাদ
     bs: Egzistencijalizam
@@ -170,7 +170,7 @@ dv_has_:
     kn: ಅಸ್ತಿತ್ವವಾದ
     ko: 실존주의
     ku: Egzîstansiyalîzm
-    ku-latn: Hebûnparêzî
+    ku_latn: Hebûnparêzî
     kw: hanvosegieth
     ky: Экзистенциализм
     la: exsistentialista
@@ -198,7 +198,7 @@ dv_has_:
     pnb: موجودیت
     ps: هستي پالنه (اګزیستانسیالېزم)
     pt: existencialismo
-    pt-br: existencialismo
+    pt_br: existencialismo
     ro: existențialism
     ru: экзистенциализм
     rue: екзістенціалізм
@@ -229,10 +229,10 @@ dv_has_:
     wuu: 存在主义
     yue: 存在主義
     zh: 存在主義
-    zh-cn: 存在主义
-    zh-hans: 存在主义
-    zh-hant: 存在主義
-    zh-tw: 存在主義
+    zh_cn: 存在主义
+    zh_hans: 存在主义
+    zh_hant: 存在主義
+    zh_tw: 存在主義
 ---
 # [[Existentialism]] 
 

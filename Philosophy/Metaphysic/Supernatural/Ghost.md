@@ -123,7 +123,7 @@ dv_has_:
     az: kabus
     ba: Өрәк
     bcl: multo
-    be-tarask: здань
+    be_tarask: здань
     bg: дух
     bho: भूत
     bn: ভূত
@@ -189,7 +189,7 @@ dv_has_:
     nah: tlācanēxquimilli
     nan: kuí
     nb: spøkelse
-    nds-nl: spoek
+    nds_nl: spoek
     ne: भूत
     nl: spook
     nn: spøkelse
@@ -230,8 +230,8 @@ dv_has_:
     wuu: 鬼
     yue: 鬼
     zh: 鬼
-    zh-hans: 鬼
-    zh-hant: 鬼
+    zh_hans: 鬼
+    zh_hant: 鬼
 ---
 # [[Ghost]] 
 

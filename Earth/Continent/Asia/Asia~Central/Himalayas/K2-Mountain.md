@@ -108,7 +108,7 @@ dv_has_:
     az: Çoqori
     ba: Чогори
     be: Гара Чагары
-    be-tarask: Чагары
+    be_tarask: Чагары
     bg: К2
     bho: के2
     bn: কে২
@@ -174,7 +174,7 @@ dv_has_:
     pnb: کے ٹو
     ps: کې۲
     pt: K2
-    pt-br: K2
+    pt_br: K2
     rm: Lambha Pahar
     ro: K2
     ru: Чогори
@@ -210,9 +210,9 @@ dv_has_:
     xmf: კ2
     yue: 喬戈里峰
     zh: 喬戈里峰
-    zh-cn: 乔戈里峰
-    zh-hans: 乔戈里峰
-    zh-hant: 喬戈里峰
+    zh_cn: 乔戈里峰
+    zh_hans: 乔戈里峰
+    zh_hant: 喬戈里峰
 ---
 # [[K2-Mountain]] 
 

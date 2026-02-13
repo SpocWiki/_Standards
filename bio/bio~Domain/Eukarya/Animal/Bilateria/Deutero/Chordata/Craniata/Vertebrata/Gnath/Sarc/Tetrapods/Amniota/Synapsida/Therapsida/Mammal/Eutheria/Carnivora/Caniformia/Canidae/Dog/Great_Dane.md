@@ -85,7 +85,7 @@ dv_has_:
     arz: الكلب الدانماركى الضخم
     ast: Gran danés
     az: Almaniya doqu
-    be-tarask: нямецкі дог
+    be_tarask: нямецкі дог
     bg: Немски дог
     br: Deutsche Dogge
     ca: gran danès
@@ -95,8 +95,8 @@ dv_has_:
     de: Deutsche Dogge
     el: Γερμανικός Μολοσσός
     en: Great Dane
-    en-ca: Great Dane
-    en-gb: Great Dane
+    en_ca: Great Dane
+    en_gb: Great Dane
     eo: Danhundo
     es: Gran danés
     et: Saksa dogi
@@ -128,7 +128,7 @@ dv_has_:
     pl: Dog niemiecki
     pnb: گریٹ ڈین
     pt: Dogue alemão
-    pt-br: Dogue alemão
+    pt_br: Dogue alemão
     ro: Dog german
     ru: Немецкий дог
     sco: Great Dane

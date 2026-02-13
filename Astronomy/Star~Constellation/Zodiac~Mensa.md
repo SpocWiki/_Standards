@@ -180,14 +180,14 @@ dv_has_:
     wuu: 山案座
     yue: 山案座
     zh: 山案座
-    zh-cn: 山案座
-    zh-hans: 山案座
-    zh-hant: 山案座
-    zh-hk: 山案座
-    zh-mo: 山案座
+    zh_cn: 山案座
+    zh_hans: 山案座
+    zh_hant: 山案座
+    zh_hk: 山案座
+    zh_mo: 山案座
     zh-my: 山案座
-    zh-sg: 山案座
-    zh-tw: 山案座
+    zh_sg: 山案座
+    zh_tw: 山案座
 dv_is_:
   same_as:
   - '[[_Standards/WikiData/WD~Mensa,9289]]'

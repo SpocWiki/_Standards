@@ -106,7 +106,7 @@ dv_has_:
     az: Sidni Pollak
     azb: سیدنی پولاک
     be: Сідні Полак
-    be-tarask: Сыдні Полак
+    be_tarask: Сыдні Полак
     bg: Сидни Полак
     bs: Sydney Pollack
     ca: Sydney Pollack
@@ -115,12 +115,12 @@ dv_has_:
     cy: Sydney Pollack
     da: Sydney Pollack
     de: Sydney Pollack
-    de-ch: Sydney Pollack
+    de_ch: Sydney Pollack
     ee: Sydney Pollack
     el: Σίντνεϊ Πόλακ
     en: Sydney Pollack
-    en-ca: Sydney Pollack
-    en-gb: Sydney Pollack
+    en_ca: Sydney Pollack
+    en_gb: Sydney Pollack
     eo: Sydney Pollack
     es: Sydney Pollack
     et: Sydney Pollack
@@ -159,7 +159,7 @@ dv_has_:
     pl: Sydney Pollack
     pms: Sydney Pollack
     pt: Sydney Pollack
-    pt-br: Sydney Pollack
+    pt_br: Sydney Pollack
     ro: Sydney Pollack
     ru: Сидни Поллак
     sco: Sydney Pollack
@@ -181,11 +181,11 @@ dv_has_:
     yo: Sydney Pollack
     yue: 薛尼波勒
     zh: 薛尼·波勒
-    zh-cn: 西德尼·波拉克
-    zh-hant: 薛尼·波拉克
+    zh_cn: 西德尼·波拉克
+    zh_hant: 薛尼·波拉克
     zh-my: 薛尼·波勒
-    zh-sg: 薛尼·波勒
-    zh-tw: 薛尼·波拉克
+    zh_sg: 薛尼·波勒
+    zh_tw: 薛尼·波拉克
 ---
 # [[Pollack,Sydney]] 
 

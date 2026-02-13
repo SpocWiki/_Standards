@@ -309,7 +309,7 @@ dv_has_:
     bar: Uranus
     bcl: Urano
     be: Уран
-    be-tarask: Уран
+    be_tarask: Уран
     bew: Uranus
     bg: Уран
     bho: यूरेनस ग्रह
@@ -335,15 +335,15 @@ dv_has_:
     cy: Wranws
     da: Uranus
     de: Uranus
-    de-ch: Uranus
+    de_ch: Uranus
     diq: Uranus
     dty: अरुणग्रह
     dz: ཡུ་ར་ནཱས
     el: Ουρανός
     eml: Uràn
     en: Uranus
-    en-ca: Uranus
-    en-gb: Uranus
+    en_ca: Uranus
+    en_gb: Uranus
     eo: Urano
     es: Urano
     et: Uraan
@@ -423,7 +423,7 @@ dv_has_:
     lzh: 天王星
     mad: Uranus
     mai: अरुण ग्रह
-    map-bms: Uranus
+    map_bms: Uranus
     mdf: Уран
     mg: Uranus
     mi: Rangipō
@@ -443,7 +443,7 @@ dv_has_:
     nap: Urano
     nb: Uranus
     nds: Uranus
-    nds-nl: Uranus
+    nds_nl: Uranus
     ne: अरूण
     new: अरूण
     nl: Uranus
@@ -466,7 +466,7 @@ dv_has_:
     pnb: یورینس
     ps: اورانوس
     pt: Urano
-    pt-br: Urano
+    pt_br: Urano
     qu: Uranu
     rm: Uranus
     rmy: Rahor
@@ -511,7 +511,7 @@ dv_has_:
     tpi: Yurenes
     tr: Uranüs
     tt: Уран
-    tt-cyrl: Уран
+    tt_cyrl: Уран
     tum: Chanya la Movwili
     tyv: Уран
     udm: Уран
@@ -538,14 +538,14 @@ dv_has_:
     zea: Uranus
     zgh: ⵓⵔⴰⵏⵓⵙ
     zh: 天王星
-    zh-cn: 天王星
-    zh-hans: 天王星
-    zh-hant: 天王星
-    zh-hk: 天王星
-    zh-mo: 天王星
+    zh_cn: 天王星
+    zh_hans: 天王星
+    zh_hant: 天王星
+    zh_hk: 天王星
+    zh_mo: 天王星
     zh-my: 天王星
-    zh-sg: 天王星
-    zh-tw: 天王星
+    zh_sg: 天王星
+    zh_tw: 天王星
     zu: U-Uranu
 ---
 # [[Uranus(Planet)]] 

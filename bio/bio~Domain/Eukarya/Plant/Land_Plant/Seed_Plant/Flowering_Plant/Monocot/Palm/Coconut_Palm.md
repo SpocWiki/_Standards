@@ -318,7 +318,7 @@ dv_has_:
     ban: Nyuh
     bcl: Niyog
     be: Какосавая пальма
-    be-tarask: какосавая пальма
+    be_tarask: какосавая пальма
     bg: кокосова палма
     bho: नारियल
     bi: Kokonas
@@ -342,8 +342,8 @@ dv_has_:
     dv: ކުރުނބާ
     el: Κοκοφοίνικας
     en: Cocos nucifera
-    en-ca: Coconut
-    en-gb: coconut tree
+    en_ca: Coconut
+    en_gb: coconut tree
     eo: Kokoso
     es: Cocos nucifera
     et: kookospalm
@@ -434,7 +434,7 @@ dv_has_:
     pnb: ناریل
     ps: ناريال
     pt: coqueiro
-    pt-br: Coqueiro
+    pt_br: Coqueiro
     qu: Pikwayu
     ro: Cocotier
     roa-tara: cocche
@@ -482,10 +482,10 @@ dv_has_:
     yo: agbon
     yue: 椰子
     zh: 椰子
-    zh-cn: 椰子
-    zh-hans: 椰子
-    zh-hant: 椰子
-    zh-tw: 椰子
+    zh_cn: 椰子
+    zh_hans: 椰子
+    zh_hant: 椰子
+    zh_tw: 椰子
     zu: UmQhekezani
 ---
 # [[Coconut_Palm]] 

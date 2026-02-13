@@ -34,7 +34,7 @@ dv_has_:
     oc: Brillantaisia
     pl: Brillantaisia
     pt: Brillantaisia
-    pt-br: Brillantaisia
+    pt_br: Brillantaisia
     ro: Brillantaisia
     ru: Brillantaisia
     sq: Brillantaisia
@@ -44,8 +44,8 @@ dv_has_:
     vo: Brillantaisia
     war: Brillantaisia
     zh: 逐马蓝属
-    zh-cn: 逐马蓝属
-    zh-hans: 逐马蓝属
+    zh_cn: 逐马蓝属
+    zh_hans: 逐马蓝属
 ---
 # [[Brillantaisia]] 
 

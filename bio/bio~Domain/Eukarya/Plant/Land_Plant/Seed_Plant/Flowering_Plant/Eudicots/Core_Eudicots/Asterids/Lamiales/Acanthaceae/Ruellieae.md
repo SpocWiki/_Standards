@@ -28,10 +28,10 @@ dv_has_:
     da: Acanthoideae
     de: Acanthoideae
     de-at: Acanthoideae
-    de-ch: Acanthoideae
+    de_ch: Acanthoideae
     en: Acanthoideae
-    en-ca: Acanthoideae
-    en-gb: Acanthoideae
+    en_ca: Acanthoideae
+    en_gb: Acanthoideae
     eo: Acanthoideae
     es: Acanthoideae
     et: Acanthoideae
@@ -66,7 +66,7 @@ dv_has_:
     nap: Acanthoideae
     nb: Acanthoideae
     nds: Acanthoideae
-    nds-nl: Acanthoideae
+    nds_nl: Acanthoideae
     nl: Acanthoideae
     nn: Acanthoideae
     nrm: Acanthoideae
@@ -76,7 +76,7 @@ dv_has_:
     pl: Acanthoideae
     pms: Acanthoideae
     pt: Acanthoideae
-    pt-br: Acanthoideae
+    pt_br: Acanthoideae
     rm: Acanthoideae
     ro: Acanthoideae
     ru: Acanthoideae
@@ -98,8 +98,8 @@ dv_has_:
     war: Acanthoideae
     wo: Acanthoideae
     zh: 爵床亚科
-    zh-cn: 爵床亚科
-    zh-hans: 爵床亚科
+    zh_cn: 爵床亚科
+    zh_hans: 爵床亚科
     zu: Acanthoideae
 ---
 # [[Ruellieae]] 

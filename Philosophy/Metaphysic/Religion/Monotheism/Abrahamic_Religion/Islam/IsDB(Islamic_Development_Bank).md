@@ -82,7 +82,7 @@ dv_has_:
     az: İslam İnkişaf Bankı
     ba: Ислам үҫеш банкы
     be: Ісламскі банк развіцця
-    be-tarask: Ісламскі банк разьвіцьця
+    be_tarask: Ісламскі банк разьвіцьця
     bn: ইসলামি উন্নয়ন ব্যাংক
     ca: Banc Islàmic de Desenvolupament
     cs: Islámská rozvojová banka

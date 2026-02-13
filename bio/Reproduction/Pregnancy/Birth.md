@@ -158,8 +158,8 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Vaginal%20childbirth.w
 equivalent_class: http://pcp-on-web.de/ontology#Birth
 dv_has_:
   name_:
-    aeb-arab: ولادة
-    aeb-latn: wlèda
+    aeb_arab: ولادة
+    aeb_latn: wlèda
     ar: ولادة المرأة
     as: উপজনন
     ast: partu
@@ -168,7 +168,7 @@ dv_has_:
     ba: тыуым
     bcl: Pangangaki
     be: роды ў чалавека
-    be-tarask: роды
+    be_tarask: роды
     bg: човешко раждане
     bn: প্রসব
     br: gwilioud
@@ -184,7 +184,7 @@ dv_has_:
     de: Geburt
     el: τοκετός
     en: parturition
-    en-gb: labour and birth
+    en_gb: labour and birth
     en-us: parturition
     eo: nasko
     es: parto
@@ -217,7 +217,7 @@ dv_has_:
     kn: ಶಿಶುಜನನ
     ko: 출산
     ku: zarokanîn
-    ku-latn: zarokanîn
+    ku_latn: zarokanîn
     ky: төрөт
     la: puerperium
     lb: Gebuert
@@ -246,7 +246,7 @@ dv_has_:
     pl: poród
     pnb: چھلا
     pt: parto
-    pt-br: parto
+    pt_br: parto
     qu: paqariy
     rgn: pért
     ro: naștere
@@ -287,14 +287,14 @@ dv_has_:
     yo: Ibimọ
     yue: 分娩
     zh: 分娩
-    zh-cn: 分娩
-    zh-hans: 分娩
-    zh-hant: 分娩
-    zh-hk: 分娩
-    zh-mo: 分娩
+    zh_cn: 分娩
+    zh_hans: 分娩
+    zh_hant: 分娩
+    zh_hk: 分娩
+    zh_mo: 分娩
     zh-my: 分娩
-    zh-sg: 分娩
-    zh-tw: 分娩
+    zh_sg: 分娩
+    zh_tw: 分娩
 ---
 # [[Birth]] 
 

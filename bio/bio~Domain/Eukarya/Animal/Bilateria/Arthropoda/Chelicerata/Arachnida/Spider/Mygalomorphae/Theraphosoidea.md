@@ -22,8 +22,8 @@ dv_has_:
     ceb: Theraphosoidea
     de: Theraphosoidea
     en: Theraphosoidea
-    en-ca: Theraphosoidea
-    en-gb: Theraphosoidea
+    en_ca: Theraphosoidea
+    en_gb: Theraphosoidea
     eo: Theraphosoidea
     es: Theraphosoidea
     eu: Theraphosoidea
@@ -42,7 +42,7 @@ dv_has_:
     oc: Theraphosoidea
     pl: Theraphosoidea
     pt: Theraphosoidea
-    pt-br: Theraphosoidea
+    pt_br: Theraphosoidea
     ro: Theraphosoidea
     ru: Theraphosoidea
     sq: Theraphosoidea
@@ -52,8 +52,8 @@ dv_has_:
     vo: Theraphosoidea
     war: Theraphosoidea
     zh: 捕鸟蛛总科
-    zh-cn: 捕鸟蛛总科
-    zh-hans: 捕鸟蛛总科
+    zh_cn: 捕鸟蛛总科
+    zh_hans: 捕鸟蛛总科
 ---
 # [[Theraphosoidea]] 
 

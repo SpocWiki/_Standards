@@ -56,7 +56,7 @@ dv_has_:
     ast: Pastafarismu
     az: Pastafaryanizm
     be: пастафарыянства
-    be-tarask: пастафарыянства
+    be_tarask: пастафарыянства
     bg: Пастафарианство
     br: Pastafariegezh
     ca: pastafarisme
@@ -66,8 +66,8 @@ dv_has_:
     de: Pastafarianismus
     diq: Pastafaryanizm
     en: Pastafarianism
-    en-ca: Pastafarianism
-    en-gb: Pastafarianism
+    en_ca: Pastafarianism
+    en_gb: Pastafarianism
     eo: Pastafarismo
     es: Pastafarismo
     et: Lendava Makaronimonstrumi kirik
@@ -85,7 +85,7 @@ dv_has_:
     nl: Pastafarianism
     oc: Pastafarisme
     pt: pastafarianismo
-    pt-br: Pastafarianismo
+    pt_br: Pastafarianismo
     ru: пастафарианство
     sl: pastafarijanstvo
     sv: det flygande spaghettimonstret religion

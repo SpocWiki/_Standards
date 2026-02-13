@@ -111,7 +111,7 @@ dv_has_:
     az: qrup
     ba: төркөм
     be: група
-    be-tarask: група
+    be_tarask: група
     bg: група
     bn: গ্রুপ
     bo: སྡེ་ཚན་༼རྩིས་རིག༽།
@@ -125,8 +125,8 @@ dv_has_:
     de: Gruppe
     el: ομάδα
     en: group
-    en-ca: group
-    en-gb: group
+    en_ca: group
+    en_gb: group
     eo: grupo
     es: grupo
     et: rühm
@@ -177,7 +177,7 @@ dv_has_:
     pms: strop
     pnb: گروہ
     pt: grupo
-    pt-br: grupo
+    pt_br: grupo
     ro: grup
     ru: группа
     scn: gruppu
@@ -185,7 +185,7 @@ dv_has_:
     sk: grupa
     sl: grupa
     sr: група
-    sr-ec: група
+    sr_ec: група
     sv: grupp
     szl: grupa
     ta: குலம்
@@ -194,7 +194,7 @@ dv_has_:
     tl: pangkat
     tr: öbek
     tt: төркем
-    tt-cyrl: төркем
+    tt_cyrl: төркем
     uk: група
     ur: گروہ
     uz: guruhi
@@ -205,9 +205,9 @@ dv_has_:
     yi: גרופע
     yue: 羣
     zh: 群
-    zh-hans: 群
-    zh-hant: 群
-    zh-tw: 群
+    zh_hans: 群
+    zh_hant: 群
+    zh_tw: 群
 ---
 # [[Group]] 
 

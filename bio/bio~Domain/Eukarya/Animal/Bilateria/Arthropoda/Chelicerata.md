@@ -104,7 +104,7 @@ dv_has_:
     az: Xeliserilər
     bar: Chelicerata
     be: Хеліцэравыя
-    be-tarask: хеліцэравыя
+    be_tarask: хеліцэравыя
     bg: хелицерови
     br: Chelicerata
     ca: quelicerats
@@ -115,11 +115,11 @@ dv_has_:
     da: Chelicerata
     de: Kieferklauenträger
     de-at: Chelicerata
-    de-ch: Chelicerata
+    de_ch: Chelicerata
     el: Χηληκεραιωτά
     en: Chelicerata
-    en-ca: Chelicerata
-    en-gb: Chelicerata
+    en_ca: Chelicerata
+    en_gb: Chelicerata
     eo: Chelicerata
     es: quelicerados
     et: lõugtundlased
@@ -166,7 +166,7 @@ dv_has_:
     nap: Chelicerata
     nb: Chelicerata
     nds: Keevklauendregers
-    nds-nl: Chelicerata
+    nds_nl: Chelicerata
     nl: Chelicerata
     nn: Chelicerata
     nrm: Chelicerata
@@ -178,7 +178,7 @@ dv_has_:
     pms: Chelicerata
     ps: نوسي لرونکې ژوې
     pt: Chelicerata
-    pt-br: Chelicerata
+    pt_br: Chelicerata
     rm: Chelicerata
     ro: Chelicerata
     ru: хелицеровые
@@ -209,10 +209,10 @@ dv_has_:
     wuu: 螯肢亚门
     yue: 螯肢動物
     zh: 螯肢亞門
-    zh-cn: 有螯肢亚门
-    zh-hans: 有螯肢亚门
-    zh-hant: 螯肢亞門
-    zh-tw: 螯肢亞門
+    zh_cn: 有螯肢亚门
+    zh_hans: 有螯肢亚门
+    zh_hant: 螯肢亞門
+    zh_tw: 螯肢亞門
     zu: Chelicerata
 ---
 # [[Chelicerata]] 

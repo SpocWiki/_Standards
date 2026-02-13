@@ -142,7 +142,7 @@ dv_has_:
     ban: Seni Mayuda
     bar: De Kunst vom Kriag
     be: Мастацтва вайны
-    be-tarask: Мастацтва вайны
+    be_tarask: Мастацтва вайны
     bg: Изкуството на войната
     bn: সুন্চি বিংফা
     br: Arz ar brezel
@@ -157,11 +157,11 @@ dv_has_:
     cy: Celfyddyd Rhyfel
     da: Krigskunsten
     de: Die Kunst des Krieges
-    de-ch: Die Kunst des Krieges
+    de_ch: Die Kunst des Krieges
     el: Η Τέχνη του Πολέμου
     en: The Art of War
-    en-ca: The Art of War
-    en-gb: The Art of War
+    en_ca: The Art of War
+    en_gb: The Art of War
     eo: La Militarto
     es: El arte de la guerra
     et: Sõja seadused
@@ -212,7 +212,7 @@ dv_has_:
     pms: L'Art ëd la Guèra
     pnb: لڑائی دا ول
     pt: A Arte da Guerra
-    pt-br: A Arte da Guerra
+    pt_br: A Arte da Guerra
     ro: Arta războiului
     ru: Искусство войны
     rue: Уміня войны
@@ -222,7 +222,7 @@ dv_has_:
     sl: Umetnost vojne
     sq: Arti i luftës
     sr: Умеће ратовања
-    sr-ec: Умеће ратовања
+    sr_ec: Умеће ратовања
     sv: Krigskonsten
     sw: Ufundi wa vita
     ta: போர்க் கலை
@@ -243,14 +243,14 @@ dv_has_:
     yi: די קונסט פון מלחמה
     yue: 孫子兵法
     zh: 孫子兵法
-    zh-cn: 孙子兵法
-    zh-hans: 孙子兵法
-    zh-hant: 孫子兵法
-    zh-hk: 孫子兵法
-    zh-mo: 孫子兵法
+    zh_cn: 孙子兵法
+    zh_hans: 孙子兵法
+    zh_hant: 孫子兵法
+    zh_hk: 孫子兵法
+    zh_mo: 孫子兵法
     zh-my: 孙子兵法
-    zh-sg: 孙子兵法
-    zh-tw: 孫子兵法
+    zh_sg: 孙子兵法
+    zh_tw: 孫子兵法
 ---
 # [[The_Art_of_War]]
 

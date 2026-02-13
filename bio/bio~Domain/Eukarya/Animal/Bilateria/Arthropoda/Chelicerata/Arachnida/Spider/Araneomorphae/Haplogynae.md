@@ -43,7 +43,7 @@ dv_has_:
     oc: Haplogynae
     pl: Haplogynae
     pt: Haplogynae
-    pt-br: Haplogynae
+    pt_br: Haplogynae
     ro: Haplogynae
     ru: Haplogynae
     sq: Haplogynae

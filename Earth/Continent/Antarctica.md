@@ -280,7 +280,7 @@ dv_has_:
     bar: Antarktika
     bcl: Antartika
     be: Антарктыда
-    be-tarask: Антарктыда
+    be_tarask: Антарктыда
     bew: Benua Kutub Kidul
     bg: Антарктида
     bho: अंटार्कटिका
@@ -303,7 +303,7 @@ dv_has_:
     ckb: ئانتارکتیکا
     co: Antartide
     crh: Antarktida
-    crh-latn: Antarktida
+    crh_latn: Antarktida
     cs: Antarktida
     csb: Antarktida
     cu: Антарктїка
@@ -312,7 +312,7 @@ dv_has_:
     da: Antarktis
     de: Antarktika
     de-at: Antarktika
-    de-ch: Antarktika
+    de_ch: Antarktika
     diq: Antarktika
     dsb: Antarktika
     dty: अन्टार्क्टिका
@@ -409,7 +409,7 @@ dv_has_:
     lzh: 南極洲
     mad: Antarktika
     mai: अंटार्कटिका
-    map-bms: Antartika
+    map_bms: Antartika
     mdf: Антарктидась
     mg: Antartika
     mhr: Антарктида
@@ -430,7 +430,7 @@ dv_has_:
     nap: Antartide
     nb: Antarktika
     nds: Antarktis
-    nds-nl: Antarktika
+    nds_nl: Antarktika
     ne: अन्टार्क्टिका
     new: एन्टार्टिका
     nl: Antarctica
@@ -455,7 +455,7 @@ dv_has_:
     pnt: Ανταρκτικήν
     ps: انتارکتيکا
     pt: Antártida
-    pt-br: Antártida
+    pt_br: Antártida
     qu: Antartika
     ro: Antarctica
     roa-tara: Antartide
@@ -486,7 +486,7 @@ dv_has_:
     so: Antiarktis
     sq: Antarktiku
     sr: Антарктик
-    sr-ec: Антарктик
+    sr_ec: Антарктик
     stq: Antarktikoa
     su: Antartika
     sv: Antarktis
@@ -508,8 +508,8 @@ dv_has_:
     tr: Antarktika
     ts: Antakthika
     tt: Антарктида
-    tt-cyrl: Антарктида
-    tt-latn: Antarqtida
+    tt_cyrl: Антарктида
+    tt_latn: Antarqtida
     tw: Antaateka
     udm: Антарктида
     ug: ئانتاركتىدا
@@ -534,14 +534,14 @@ dv_has_:
     zea: Antartica
     zgh: ⴰⵏⵜⴰⵔⴽⵜⵉⴽⴰ
     zh: 南極洲
-    zh-cn: 南极洲
-    zh-hans: 南极洲
-    zh-hant: 南極洲
-    zh-hk: 南極洲
-    zh-mo: 南极洲
+    zh_cn: 南极洲
+    zh_hans: 南极洲
+    zh_hant: 南極洲
+    zh_hk: 南極洲
+    zh_mo: 南极洲
     zh-my: 南极洲
-    zh-sg: 南极洲
-    zh-tw: 南極洲
+    zh_sg: 南极洲
+    zh_tw: 南極洲
     zu: I-Antatika
   url_for_:
     code_repository: https://github.com/SpocWiki/Antarctica

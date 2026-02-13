@@ -165,7 +165,7 @@ dv_has_:
     ba: Хубилай
     bcl: Kublai Khan
     be: Хубілай
-    be-tarask: Хубілай
+    be_tarask: Хубілай
     bg: Кубилай хан
     bn: কুবলাই খান
     bo: སེ་ཆེན་རྒྱལ་པོ།
@@ -181,8 +181,8 @@ dv_has_:
     de: Kublai Khan
     el: Κουμπλάι Χαν
     en: Kublai Khan
-    en-ca: Kublai Khan
-    en-gb: Kublai Khan
+    en_ca: Kublai Khan
+    en_gb: Kublai Khan
     eo: Kublaj-Ĥano
     es: Kublai Kan
     et: Hubilai
@@ -235,7 +235,7 @@ dv_has_:
     pl: Kubilaj-chan
     ps: قوبلای خان
     pt: Kublai Khan
-    pt-br: Kublai Khan
+    pt_br: Kublai Khan
     ro: Kublai
     ru: Хубилай
     sah: Хубилай
@@ -264,7 +264,7 @@ dv_has_:
     yue: 忽必烈
     za: Huhbizlez
     zh: 忽必烈
-    zh-hans: 忽必烈
+    zh_hans: 忽必烈
 ---
 # [[Kublai_Khan]] 
 

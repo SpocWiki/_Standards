@@ -76,7 +76,7 @@ dv_has_:
     ast: Músculu esqueléticu
     az: Eninə zolaqlı əzələ
     ba: Арҡыры һыҙатлы мускул туҡымаһы
-    be-tarask: шкілетная цяглічная тканка
+    be_tarask: шкілетная цяглічная тканка
     bg: скелетен набразден мускул
     bn: ঐচ্ছিক পেশী
     bs: Skeletni mišić
@@ -107,9 +107,9 @@ dv_has_:
     it: muscolo striato scheletrico
     ja: 骨格筋
     kk: Көлденең жолақты жүрекет ұлпасы
-    kk-arab: كولدەنەڭ جولاقتى جۇرەكەت ۇلپاسى
-    kk-cyrl: Көлденең жолақты жүрекет ұлпасы
-    kk-latn: Köldeneñ jolaqtı jüreket ulpası
+    kk_arab: كولدەنەڭ جولاقتى جۇرەكەت ۇلپاسى
+    kk_cyrl: Көлденең жолақты жүрекет ұлпасы
+    kk_latn: Köldeneñ jolaqtı jüreket ulpası
     ko: 골격근
     ku: peykeremasûlke
     lb: Skelettmuskel
@@ -128,8 +128,8 @@ dv_has_:
     sk: Priečne pruhovaná svalovina
     sl: skeletna prečnoprograsta mišica
     sr: попречно-пругасти мишић
-    sr-ec: Попречно-пругасти мишић
-    sr-el: Poprečno-prugasti mišić
+    sr_ec: Попречно-пругасти мишић
+    sr_el: Poprečno-prugasti mišić
     sv: Skelettmuskel
     ta: எலும்புத்தசை
     th: กล้ามเนื้อโครงร่าง
@@ -139,9 +139,9 @@ dv_has_:
     vi: Cơ xương
     yue: 骨骼肌
     zh: 骨骼肌
-    zh-hans: 骨骼肌
-    zh-hant: 骨骼肌
-    zh-hk: 骨骼肌
+    zh_hans: 骨骼肌
+    zh_hant: 骨骼肌
+    zh_hk: 骨骼肌
 ---
 # [[Skeletal_striated_Muscle]] 
 

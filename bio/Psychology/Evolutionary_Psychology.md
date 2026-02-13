@@ -67,7 +67,7 @@ dv_has_:
     arz: سيكولوجيا تطوريه
     as: বিবৰ্তনমূলক মনোবিজ্ঞান
     ast: Psicoloxía evolucionista
-    be-tarask: эвалюцыйная псыхалёгія
+    be_tarask: эвалюцыйная псыхалёгія
     bg: Еволюционна психология
     bn: বিবর্তনীয় মনোবিজ্ঞান
     ca: psicologia evolucionista
@@ -116,12 +116,12 @@ dv_has_:
     vi: Tâm lý học tiến hóa
     yue: 進化心理學
     zh: 进化心理学
-    zh-cn: 进化心理学
-    zh-hans: 进化心理学
-    zh-hant: 演化心理學
-    zh-hk: 演化心理學
-    zh-sg: 进化心理学
-    zh-tw: 演化心理學
+    zh_cn: 进化心理学
+    zh_hans: 进化心理学
+    zh_hant: 演化心理學
+    zh_hk: 演化心理學
+    zh_sg: 进化心理学
+    zh_tw: 演化心理學
 ---
 # [[Evolutionary_Psychology]] 
 

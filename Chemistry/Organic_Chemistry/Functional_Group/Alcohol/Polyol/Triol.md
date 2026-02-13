@@ -42,8 +42,8 @@ dv_has_:
     cs: Trioly
     el: Τριόλη
     en: triol
-    en-ca: Triol
-    en-gb: Triol
+    en_ca: Triol
+    en_gb: Triol
     eo: triolo
     eu: trialkohol
     fa: تریال

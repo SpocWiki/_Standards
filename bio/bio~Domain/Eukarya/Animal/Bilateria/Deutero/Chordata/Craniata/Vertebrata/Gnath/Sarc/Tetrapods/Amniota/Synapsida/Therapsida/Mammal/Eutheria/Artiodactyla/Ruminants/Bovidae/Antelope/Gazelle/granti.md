@@ -86,19 +86,19 @@ dv_has_:
     sk: Gazela Grantova
     sq: Nanger granti
     sr: Грантова газела
-    sr-ec: Грантова газела
-    sr-el: Grantova gazela
+    sr_ec: Грантова газела
+    sr_el: Grantova gazela
     sv: Grantgasell
     th: แกรนท์กาเซลล์
     uk: Nanger granti
     vi: Nanger granti
     war: Gazella granti
     zh: 葛氏苍羚
-    zh-cn: 葛氏苍羚
-    zh-hans: 葛氏瞪羚
-    zh-hant: 葛氏瞪羚
-    zh-hk: 葛氏瞪羚
-    zh-tw: 葛氏蒼羚
+    zh_cn: 葛氏苍羚
+    zh_hans: 葛氏瞪羚
+    zh_hant: 葛氏瞪羚
+    zh_hk: 葛氏瞪羚
+    zh_tw: 葛氏蒼羚
 ---
 # Gazella granti 
 

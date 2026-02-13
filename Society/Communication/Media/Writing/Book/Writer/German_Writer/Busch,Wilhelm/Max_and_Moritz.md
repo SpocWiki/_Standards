@@ -56,7 +56,7 @@ dv_has_:
     tr: Max ve Moritz
     wa: Miyin eyet Morice
     zh: 马克斯和莫里茨
-    zh-hant: 馬克斯與莫里茨
+    zh_hant: 馬克斯與莫里茨
 ---
 #has_/creator :: [[../Busch,Wilhelm]] 
 

@@ -112,7 +112,7 @@ dv_has_:
     az: hipotez
     ba: гипотеза
     be: гіпотэза
-    be-tarask: гіпотэза
+    be_tarask: гіпотэза
     bg: хипотеза
     bn: অনুকল্প
     bs: hipoteza
@@ -127,7 +127,7 @@ dv_has_:
     de: Hypothese
     el: υπόθεση
     en: hypothesis
-    en-gb: hypothesis
+    en_gb: hypothesis
     eo: hipotezo
     es: hipótesis
     et: hüpotees
@@ -157,7 +157,7 @@ dv_has_:
     kk: гипотеза
     ko: 가설
     ku: hîpotez
-    ku-latn: hîpotez
+    ku_latn: hîpotez
     ky: гипотеза
     la: Hypothesis
     lb: Hypothees
@@ -168,7 +168,7 @@ dv_has_:
     mk: хипотеза
     ml: പരികല്പന
     ms: hipotesis
-    ms-arab: هيڤوتيسيس
+    ms_arab: هيڤوتيسيس
     my: အဆိုပြုရှင်းလင်းချက်
     nan: ká-soat
     nap: ipotesi
@@ -183,7 +183,7 @@ dv_has_:
     pms: Ipòtesi
     ps: د بايزیان مغز فرضيه
     pt: hipótese
-    pt-br: hipótese
+    pt_br: hipótese
     qu: ñawpariy yuyay
     ro: ipoteză
     ru: гипотеза
@@ -199,8 +199,8 @@ dv_has_:
     sn: chisumamunyati
     sq: hipotezë
     sr: хипотеза
-    sr-ec: хипотеза
-    sr-el: hipoteza
+    sr_ec: хипотеза
+    sr_el: hipoteza
     sv: hypotes
     sw: dhana
     ta: கருதுகோள்
@@ -220,11 +220,11 @@ dv_has_:
     wuu: 假说
     yue: 假說
     zh: 假說
-    zh-cn: 假说
-    zh-hans: 假说
-    zh-hant: 假說
-    zh-hk: 假說
-    zh-tw: 假說
+    zh_cn: 假说
+    zh_hans: 假说
+    zh_hant: 假說
+    zh_hk: 假說
+    zh_tw: 假說
     zu: isihlawumbiselo
 ---
 # [[Hypothesis]] 

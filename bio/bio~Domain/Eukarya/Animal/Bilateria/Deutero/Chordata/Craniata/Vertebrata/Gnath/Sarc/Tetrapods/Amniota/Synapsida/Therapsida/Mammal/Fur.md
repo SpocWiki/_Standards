@@ -119,7 +119,7 @@ dv_has_:
     az: Xəz
     bcl: Barahibo
     be: поўсць
-    be-tarask: поўсьць
+    be_tarask: поўсьць
     bg: козина
     br: feur
     bs: Krzno
@@ -173,7 +173,7 @@ dv_has_:
     pa: ਫਰ
     pl: futro
     pt: pelo
-    pt-br: pelo
+    pt_br: pelo
     qu: Millmaqara
     ro: blană
     ru: шерсть
@@ -183,8 +183,8 @@ dv_has_:
     sl: dlaka
     sq: Gëzofi
     sr: крзно
-    sr-ec: крзно
-    sr-el: krzno
+    sr_ec: крзно
+    sr_el: krzno
     su: Bulu
     sv: päls
     ta: ஃபர்

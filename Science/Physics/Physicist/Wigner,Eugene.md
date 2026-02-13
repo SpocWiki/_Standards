@@ -164,7 +164,7 @@ dv_has_:
     az: Yucin Viqner
     azb: یوجین ویگنر
     be: Юджын Вігнер
-    be-tarask: Юджын Ўігнэр
+    be_tarask: Юджын Ўігнэр
     bg: Юджин Уигнър
     bn: ইউজিন পল উইগনার
     bs: Eugene Wigner
@@ -175,11 +175,11 @@ dv_has_:
     da: Eugene Wigner
     dag: Eugene Wigner
     de: Eugene Paul Wigner
-    de-ch: Eugene Paul Wigner
+    de_ch: Eugene Paul Wigner
     el: Γιουτζίν Γουίγκνερ
     en: Eugene Wigner
-    en-ca: Eugene Wigner
-    en-gb: Eugene Wigner
+    en_ca: Eugene Wigner
+    en_gb: Eugene Wigner
     eo: Eugene Paul Wigner
     es: Eugene Paul Wigner
     et: Eugene Wigner
@@ -226,7 +226,7 @@ dv_has_:
     pl: Eugene Wigner
     pnb: یوجین وگنر
     pt: Eugene Paul Wigner
-    pt-br: Eugene Paul Wigner
+    pt_br: Eugene Paul Wigner
     ro: Eugene Paul Wigner
     ru: Юджин Вигнер
     sa: यूजीन विग्नर
@@ -253,12 +253,12 @@ dv_has_:
     yo: Eugene Wigner
     yue: 維格納
     zh: 尤金·维格纳
-    zh-cn: 尤金·维格纳
-    zh-hans: 尤金·维格纳
-    zh-hant: 尤金·維格納
-    zh-hk: 尤金·維格納
-    zh-sg: 尤金·维格纳
-    zh-tw: 尤金·維格納
+    zh_cn: 尤金·维格纳
+    zh_hans: 尤金·维格纳
+    zh_hant: 尤金·維格納
+    zh_hk: 尤金·維格納
+    zh_sg: 尤金·维格纳
+    zh_tw: 尤金·維格納
 ---
 # [[Wigner,Eugene]] 
 

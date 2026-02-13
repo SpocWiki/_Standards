@@ -83,7 +83,7 @@ dv_has_:
     az: Snuker
     azb: ایسنوکئر
     be: снукер
-    be-tarask: снукер
+    be_tarask: снукер
     bg: Снукър
     bn: স্নুকার
     br: Snooker
@@ -94,12 +94,12 @@ dv_has_:
     cy: Snwcer
     da: snooker
     de: Snooker
-    de-ch: Snooker
+    de_ch: Snooker
     dsb: Snooker
     el: Σνούκερ
     en: snooker
-    en-ca: snooker
-    en-gb: snooker
+    en_ca: snooker
+    en_gb: snooker
     eo: Snukero
     es: snooker
     et: Snuuker
@@ -136,14 +136,14 @@ dv_has_:
     ms: snuker
     my: စနူကာ
     nb: snooker
-    nds-nl: Snooker
+    nds_nl: Snooker
     nl: snooker
     oc: Snooker
     pa: ਸਨੂਕਰ
     pl: snooker
     pnb: سنوکر
     pt: sinuca inglesa
-    pt-br: Snooker
+    pt_br: Snooker
     ro: snooker
     ru: снукер
     sco: snooker
@@ -166,10 +166,10 @@ dv_has_:
     xmf: სნუკერი
     yue: 士碌架
     zh: 斯诺克
-    zh-cn: 斯诺克
-    zh-hans: 斯诺克
-    zh-hk: 士碌架
-    zh-tw: 司諾克
+    zh_cn: 斯诺克
+    zh_hans: 斯诺克
+    zh_hk: 士碌架
+    zh_tw: 司諾克
 ---
 # [[Snooker]] 
 

@@ -201,7 +201,7 @@ dv_has_:
     azb: سوانت آرنیوس
     bar: Svante Arrhenius
     be: Свантэ Аўгуст Арэніус
-    be-tarask: Свантэ Арэніюс
+    be_tarask: Свантэ Арэніюс
     bg: Сванте Август Арениус
     bn: সভান্তে আরিয়েনিউস
     bo: སྰ་ཝན་ཐི་ཨྰར་ཧེན་ཡ་སུ།
@@ -266,7 +266,7 @@ dv_has_:
     pl: Svante Arrhenius
     pnb: سوانتے آرہینیاس
     pt: Svante Arrhenius
-    pt-br: Svante August Arrhenius
+    pt_br: Svante August Arrhenius
     qu: Svante August Arrhenius
     ro: Svante August Arrhenius
     ru: Сванте Август Аррениус

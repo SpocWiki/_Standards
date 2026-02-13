@@ -102,7 +102,7 @@ dv_has_:
     ast: Ecuador celeste
     az: Göy ekvatoru
     be: Нябесны экватар
-    be-tarask: нябесны экватар
+    be_tarask: нябесны экватар
     bg: Небесен екватор
     bn: ভৌগোলিক নিরক্ষরেখা
     bs: Nebeski ekvator
@@ -136,8 +136,8 @@ dv_has_:
     kn: ಖಗೋಳ ವಿಷುವದ್ವೃತ್ತ
     ko: 천구적도
     ku: Ekwatora ezmên
-    ku-arab: ئەکواتۆرائە زمێن
-    ku-latn: Ekwatora ezmên
+    ku_arab: ئەکواتۆرائە زمێن
+    ku_latn: Ekwatora ezmên
     lb: Himmelsequator
     lt: Dangaus pusiaujas
     lv: Debess ekvators
@@ -159,7 +159,7 @@ dv_has_:
     sk: Nebeský rovník
     sl: Nebesni ekvator
     sr: небески екватор
-    sr-ec: небески екватор
+    sr_ec: небески екватор
     sv: Himmelsekvator
     sw: Ikweta ya anga
     ta: வானநடுவரை
@@ -171,12 +171,12 @@ dv_has_:
     wuu: 天球赤道
     yue: 天球赤道
     zh: 天球赤道
-    zh-cn: 天球赤道
-    zh-hans: 天球赤道
-    zh-hant: 天球赤道
-    zh-hk: 天球赤道
-    zh-sg: 天球赤道
-    zh-tw: 天球赤道
+    zh_cn: 天球赤道
+    zh_hans: 天球赤道
+    zh_hant: 天球赤道
+    zh_hk: 天球赤道
+    zh_sg: 天球赤道
+    zh_tw: 天球赤道
 ---
 # [[Celestial_Equator]] 
 

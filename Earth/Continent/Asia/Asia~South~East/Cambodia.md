@@ -4,7 +4,7 @@ dv_has_:
     ab: Камбоџа
     ace: Kamboja
     ady: Камбоджэ
-    aeb-arab: كمبوديا
+    aeb_arab: كمبوديا
     af: Kambodja
     am: ካምቦዲያ
     ami: Cambodia
@@ -25,7 +25,7 @@ dv_has_:
     bbc: Kamboja
     bcl: Kamboya
     be: Камбоджа
-    be-tarask: Камбоджа
+    be_tarask: Камбоджа
     bew: Kemboja
     bg: Камбоджа
     bgn: کامبودیا
@@ -42,7 +42,7 @@ dv_has_:
     bug: Kamboja
     bxr: Камбож
     ca: Cambodja
-    cbk-zam: Camboya
+    cbk_zam: Camboya
     cdo: Gāng-puŏ-câi
     ce: Камбоджа
     ceb: Kamboya
@@ -50,7 +50,7 @@ dv_has_:
     ckb: کەمبۆدیا
     co: Campuccià
     crh: Kamboçiya
-    crh-latn: Kamboçiya
+    crh_latn: Kamboçiya
     cs: Kambodža
     csb: Kambòdżô
     cv: Камбоджа
@@ -59,7 +59,7 @@ dv_has_:
     dag: Cambodia
     de: Kambodscha
     de-at: Kambodscha
-    de-ch: Kambodscha
+    de_ch: Kambodscha
     diq: Kamboçya
     dsb: Kambodža
     dtp: Kemboja
@@ -69,8 +69,8 @@ dv_has_:
     ee: Cambodia
     el: Καμπότζη
     en: Cambodia
-    en-ca: Cambodia
-    en-gb: Cambodia
+    en_ca: Cambodia
+    en_gb: Cambodia
     eo: Kamboĝo
     es: Camboya
     et: Kambodža
@@ -161,7 +161,7 @@ dv_has_:
     mad: Kamboja
     mag: कम्बोडिया
     mai: कम्बोडिया
-    map-bms: Kamboja
+    map_bms: Kamboja
     mdf: Камбоджа
     mg: Kambodia
     mhr: Камбоджа
@@ -173,7 +173,7 @@ dv_has_:
     mni: ꯀꯦꯝꯕꯣꯗꯤꯌꯥ
     mr: कंबोडिया
     ms: Kemboja
-    ms-arab: کمبوجا
+    ms_arab: کمبوجا
     mt: Kambodja
     mwl: Camboja
     my: ကမ္ဘောဒီးယားနိုင်ငံ
@@ -184,7 +184,7 @@ dv_has_:
     nap: Cambogia
     nb: Kambodsja
     nds: Kambodscha
-    nds-nl: Kambodja
+    nds_nl: Kambodja
     ne: कम्बोडिया
     new: क्याम्बोदिया
     nia: Kambodia
@@ -210,7 +210,7 @@ dv_has_:
     pnb: کمپوچیا
     ps: کمبوديا
     pt: Camboja
-    pt-br: Camboja
+    pt_br: Camboja
     qu: Kambuya
     rm: Cambodscha
     ro: Cambodgia
@@ -241,8 +241,8 @@ dv_has_:
     so: Kambodiya
     sq: Kamboxhia
     sr: Камбоџа
-    sr-ec: Камбоџа
-    sr-el: Kambodža
+    sr_ec: Камбоџа
+    sr_el: Kambodža
     ss: IKhambodiya
     su: Kamboja
     sv: Kambodja
@@ -291,14 +291,14 @@ dv_has_:
     za: Genjbujcai
     zea: Cambodja
     zh: 柬埔寨
-    zh-cn: 柬埔寨
-    zh-hans: 柬埔寨
-    zh-hant: 柬埔寨
-    zh-hk: 柬埔寨
-    zh-mo: 柬埔寨
+    zh_cn: 柬埔寨
+    zh_hans: 柬埔寨
+    zh_hant: 柬埔寨
+    zh_hk: 柬埔寨
+    zh_mo: 柬埔寨
     zh-my: 柬埔寨
-    zh-sg: 柬埔寨
-    zh-tw: 柬埔寨
+    zh_sg: 柬埔寨
+    zh_tw: 柬埔寨
     zu: i-Cambodia
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Cambodia

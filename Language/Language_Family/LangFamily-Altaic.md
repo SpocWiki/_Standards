@@ -151,7 +151,7 @@ dv_has_:
     azb: آلتای دیللری
     ba: Алтай телдәре
     be: алтайскія мовы
-    be-tarask: алтайскія мовы
+    be_tarask: алтайскія мовы
     bg: Алтайски езици
     bn: আলতায়ীয় ভাষা
     br: yezhoù altaek
@@ -240,8 +240,8 @@ dv_has_:
     tk: Altaý dilleri
     tr: Altay dilleri
     tt: алтай телләре
-    tt-cyrl: Алтай телләре
-    tt-latn: Altay telläre
+    tt_cyrl: Алтай телләре
+    tt_latn: Altay telläre
     ug: ئالتاي تىللىرى سىستېمىسى
     uk: алтайські мови
     ur: الطائی زبانیں
@@ -252,11 +252,11 @@ dv_has_:
     yo: Àwọn èdè Altaic
     yue: 阿爾泰語系
     zh: 阿尔泰语系
-    zh-cn: 阿尔泰语系
-    zh-hans: 阿尔泰语系
-    zh-hant: 阿爾泰語系
-    zh-hk: 阿爾泰語系
-    zh-tw: 阿爾泰語系
+    zh_cn: 阿尔泰语系
+    zh_hans: 阿尔泰语系
+    zh_hant: 阿爾泰語系
+    zh_hk: 阿爾泰語系
+    zh_tw: 阿爾泰語系
 ---
 # [[LangFamily-Altaic]] 
 

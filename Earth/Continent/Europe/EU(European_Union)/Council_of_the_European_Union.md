@@ -201,7 +201,7 @@ dv_has_:
     az: Avropa İttifaqı Şurası
     ba: Европа берләшмәһе советы
     be: Савет Еўрапейскага саюза
-    be-tarask: Рада Эўрапейскага зьвязу
+    be_tarask: Рада Эўрапейскага зьвязу
     bg: Съвет на Европейския съюз
     br: Kuzul Unaniezh Europa
     ca: Consell de la Unió Europea
@@ -210,11 +210,11 @@ dv_has_:
     cy: Cyngor yr Undeb Ewropeaidd
     da: Rådet for Den Europæiske Union
     de: Rat der Europäischen Union
-    de-ch: Rat der Europäischen Union
+    de_ch: Rat der Europäischen Union
     el: Συμβούλιο της Ευρωπαϊκής Ένωσης
     en: Council of the European Union
-    en-ca: Council of the European Union
-    en-gb: Council of the European Union
+    en_ca: Council of the European Union
+    en_gb: Council of the European Union
     eo: Konsilio de la Eŭropa Unio
     es: Consejo de la Unión Europea
     es-419: Consejo de la Unión Europea
@@ -257,7 +257,7 @@ dv_has_:
     pl: Rada Unii Europejskiej
     ps: اروپايي ټولنې شورا
     pt: Conselho da União Europeia
-    pt-br: Conselho da União Europeia
+    pt_br: Conselho da União Europeia
     ro: Consiliul Uniunii Europene
     ru: Совет Европейского союза
     sc: Cunsìgiu de S'Unione Eùropea
@@ -269,7 +269,7 @@ dv_has_:
     sms: Euroopp unioon suåvtõs
     sq: Këshilli i Bashkimit Evropian
     sr: Савет Европске уније
-    sr-ec: Савет Европске уније
+    sr_ec: Савет Европске уније
     sv: Europeiska unionens råd
     th: คณะมนตรีแห่งสหภาพยุโรป
     tr: Avrupa Birliği Bakanlar Konseyi
@@ -281,14 +281,14 @@ dv_has_:
     wuu: 欧洲联盟理事会
     yue: 歐盟理事會
     zh: 欧洲联盟理事会
-    zh-cn: 欧洲联盟理事会
-    zh-hans: 欧洲联盟理事会
-    zh-hant: 歐洲聯盟理事會
-    zh-hk: 歐洲聯盟理事會
-    zh-mo: 歐洲聯盟理事會
+    zh_cn: 欧洲联盟理事会
+    zh_hans: 欧洲联盟理事会
+    zh_hant: 歐洲聯盟理事會
+    zh_hk: 歐洲聯盟理事會
+    zh_mo: 歐洲聯盟理事會
     zh-my: 欧洲联盟理事会
-    zh-sg: 欧洲联盟理事会
-    zh-tw: 歐洲聯盟理事會
+    zh_sg: 欧洲联盟理事会
+    zh_tw: 歐洲聯盟理事會
 ---
 # [[Council_of_the_European_Union]] 
 

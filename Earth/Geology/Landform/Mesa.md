@@ -83,7 +83,7 @@ dv_has_:
     ar: هضيبة
     az: masa dağ
     be: сталовая гара
-    be-tarask: сталовая гара
+    be_tarask: сталовая гара
     bg: Столова планина
     bho: मेसा
     ca: mesa
@@ -91,10 +91,10 @@ dv_has_:
     da: Taffelbjerg
     de: Tafelberg
     de-at: Tafelberg
-    de-ch: Tafelberg
+    de_ch: Tafelberg
     en: mesa
-    en-ca: mesa
-    en-gb: mesa
+    en_ca: mesa
+    en_gb: mesa
     en-us: mesa
     eo: tablomonto
     es: mesa
@@ -140,9 +140,9 @@ dv_has_:
     uk: столова гора
     yue: 平頂山
     zh: 平頂山
-    zh-hans: 平顶山
-    zh-hant: 平頂山
-    zh-hk: 平頂山
+    zh_hans: 平顶山
+    zh_hant: 平頂山
+    zh_hk: 平頂山
 ---
 # [[Mesa]] 
 

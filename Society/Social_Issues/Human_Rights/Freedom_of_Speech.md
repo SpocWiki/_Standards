@@ -145,7 +145,7 @@ dv_has_:
     azb: سؤز اؤزگورلوغو
     ba: Һүҙ азатлығы
     be: свабода слова
-    be-tarask: свабода слова
+    be_tarask: свабода слова
     bg: Свобода на словото
     bm: Kuma hɔrɔnya
     bn: বাকস্বাধীনতা
@@ -158,8 +158,8 @@ dv_has_:
     de: Meinungsfreiheit
     el: Ελευθερία του λόγου
     en: freedom of speech
-    en-ca: Freedom of speech
-    en-gb: freedom of speech
+    en_ca: Freedom of speech
+    en_gb: freedom of speech
     eo: parollibereco
     es: libertad de expresión
     et: sõnavabadus
@@ -242,14 +242,14 @@ dv_has_:
     zea: Vrie'eid van meênigsuuting
     zgh: ⵜⵉⵍⴻⵍⵍⵉ ⵏ ⵜⵏⴼⴰⵍⵉⵜ
     zh: 言論自由
-    zh-cn: 言论自由
-    zh-hans: 言论自由
-    zh-hant: 言論自由
-    zh-hk: 言論自由
-    zh-mo: 言論自由
+    zh_cn: 言论自由
+    zh_hans: 言论自由
+    zh_hant: 言論自由
+    zh_hk: 言論自由
+    zh_mo: 言論自由
     zh-my: 言论自由
-    zh-sg: 言论自由
-    zh-tw: 言論自由
+    zh_sg: 言论自由
+    zh_tw: 言論自由
 ---
 # [[Freedom_of_Speech]] 
 

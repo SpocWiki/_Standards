@@ -146,7 +146,7 @@ dv_has_:
     ast: Benoît Mandelbrot
     az: Benua Mandelbrot
     azb: بنوآ مندلبرو
-    be-tarask: Бэнуа Мандэльбро
+    be_tarask: Бэнуа Мандэльбро
     bg: Беноа Манделброт
     bn: বনোয়া মঁদেলব্রো
     bs: Benoît Mandelbrot
@@ -158,8 +158,8 @@ dv_has_:
     de: Benoît Mandelbrot
     el: Μπενουά Μάντελμπροτ
     en: Benoit Mandelbrot
-    en-ca: Benoit Mandelbrot
-    en-gb: Benoit Mandelbrot
+    en_ca: Benoit Mandelbrot
+    en_gb: Benoit Mandelbrot
     en-us: Benoit Mandelbrot
     eo: Benoît Mandelbrot
     es: Benoît Mandelbrot
@@ -200,7 +200,7 @@ dv_has_:
     pl: Benoît Mandelbrot
     ps: بنوآ منډلبراټ
     pt: Benoît Mandelbrot
-    pt-br: Benoît Mandelbrot
+    pt_br: Benoît Mandelbrot
     ro: Benoît Mandelbrot
     ru: Бенуа Мандельброт
     scn: Benoît Mandelbrot
@@ -210,8 +210,8 @@ dv_has_:
     sl: Benoît Mandelbrot
     sq: Benoit Mandelbrot
     sr: Беноа Манделброт
-    sr-ec: Беноа Манделброт
-    sr-el: Benoa Mandelbrot
+    sr_ec: Беноа Манделброт
+    sr_el: Benoa Mandelbrot
     sv: Benoît Mandelbrot
     th: เบอนัว ม็องแดลโบรต
     tr: Benoît Mandelbrot
@@ -221,12 +221,12 @@ dv_has_:
     wuu: 本华·曼德博
     yue: 本華·曼德博
     zh: 本華·曼德博
-    zh-cn: 本华·曼德博
-    zh-hans: 本华·曼德博
-    zh-hant: 本華·曼德博
-    zh-hk: 本華·曼德博
-    zh-sg: 本华·曼德博
-    zh-tw: 本華·曼德博
+    zh_cn: 本华·曼德博
+    zh_hans: 本华·曼德博
+    zh_hant: 本華·曼德博
+    zh_hk: 本華·曼德博
+    zh_sg: 本华·曼德博
+    zh_tw: 本華·曼德博
 ---
 # [[Mandelbrot,Benoit]] 
 

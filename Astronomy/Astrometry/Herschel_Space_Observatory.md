@@ -109,15 +109,15 @@ dv_has_:
     af: Herschel-ruimtesterrewag
     ar: مرصد هيرشل الفضائي
     az: Herşel Kosmik Teleskopu
-    be-tarask: Гэршэль
+    be_tarask: Гэршэль
     bg: Хершел
     bs: Svemirska opservatorija Herschel
     ca: Observatori espacial Herschel
     cs: Herschelova vesmírná observatoř
     de: Herschel-Weltraumteleskop
     en: Herschel Space Observatory
-    en-ca: Herschel Space Observatory
-    en-gb: Herschel Space Observatory
+    en_ca: Herschel Space Observatory
+    en_gb: Herschel Space Observatory
     eo: Kosmoteleskopo Herschel
     es: Herschel
     et: Herscheli kosmoseteleskoop
@@ -159,12 +159,12 @@ dv_has_:
     vi: Kính thiên văn không gian Herschel
     yue: 赫歇爾太空望遠鏡
     zh: 赫雪爾太空望遠鏡
-    zh-cn: 赫歇尔空间天文台
-    zh-hans: 赫歇尔空间天文台
-    zh-hant: 赫雪爾太空望遠鏡
-    zh-hk: 赫歇爾太空望遠鏡
-    zh-sg: 赫谢尔太空观察站
-    zh-tw: 赫雪爾太空望遠鏡
+    zh_cn: 赫歇尔空间天文台
+    zh_hans: 赫歇尔空间天文台
+    zh_hant: 赫雪爾太空望遠鏡
+    zh_hk: 赫歇爾太空望遠鏡
+    zh_sg: 赫谢尔太空观察站
+    zh_tw: 赫雪爾太空望遠鏡
 ---
 # [[Herschel_Space_Observatory]] 
 

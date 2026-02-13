@@ -105,7 +105,7 @@ dv_has_:
     azb: اسکوتیا دنیزی
     ba: Скоша диңгеҙе
     be: Мора Скоша
-    be-tarask: Мора Скоша
+    be_tarask: Мора Скоша
     bg: Скотия
     bn: স্কশিয়া সাগর
     bs: Scotia more
@@ -118,8 +118,8 @@ dv_has_:
     de: Scotiasee
     el: Θάλασσα της Σκωτίας
     en: Scotia Sea
-    en-ca: Scotia Sea
-    en-gb: Scotia Sea
+    en_ca: Scotia Sea
+    en_gb: Scotia Sea
     eo: Skotiŝipa Maro
     es: mar de las Antillas Australes
     et: Scotia meri
@@ -159,7 +159,7 @@ dv_has_:
     pl: Morze Scotia
     pnb: سکوٹیا سمندر
     pt: Mar de Scotia
-    pt-br: Mar de Scotia
+    pt_br: Mar de Scotia
     ru: Море Скоша
     sh: Skošansko more
     sk: Scotijské more
@@ -178,12 +178,12 @@ dv_has_:
     xmf: სკოშიშ ზუღა
     yue: 斯科舍海
     zh: 斯科舍海
-    zh-cn: 斯科舍海
-    zh-hans: 斯科舍海
-    zh-hant: 斯科舍海
-    zh-hk: 斯科舍海
-    zh-sg: 斯科舍海
-    zh-tw: 斯科舍海
+    zh_cn: 斯科舍海
+    zh_hans: 斯科舍海
+    zh_hant: 斯科舍海
+    zh_hk: 斯科舍海
+    zh_sg: 斯科舍海
+    zh_tw: 斯科舍海
 ---
 # [[Scotia_Sea]] 
 

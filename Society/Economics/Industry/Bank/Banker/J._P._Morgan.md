@@ -128,7 +128,7 @@ dv_has_:
     az: Con Pirpont Morqan
     ba: Морган Джон Пирпонт
     be: Джон Пірпант Морган
-    be-tarask: Джон Пірпант Морган
+    be_tarask: Джон Пірпант Морган
     bg: Джон Пирпонт Морган
     bi: J. P. Morgan
     bn: জে. পি. মরগান
@@ -139,8 +139,8 @@ dv_has_:
     de: J. P. Morgan
     ee: J. Pierpont Morgan
     en: J. P. Morgan
-    en-ca: J. P. Morgan
-    en-gb: J. P. Morgan
+    en_ca: J. P. Morgan
+    en_gb: J. P. Morgan
     eo: John Pierpont Morgan
     es: J. P. Morgan
     et: John Pierpoint Morgan
@@ -175,7 +175,7 @@ dv_has_:
     pl: John Pierpont Morgan
     pms: John Pierpont Morgan
     pt: John Pierpont Morgan
-    pt-br: John Pierpont Morgan
+    pt_br: John Pierpont Morgan
     ro: John Pierpont Morgan
     ru: Джон Пирпонт Морган
     sco: J. P. Morgan
@@ -195,7 +195,7 @@ dv_has_:
     wuu: 约翰·皮尔庞特·摩根
     yue: 約翰·畢雅邦·摩根
     zh: 约翰·皮尔庞特·摩根
-    zh-hk: 約翰·畢雅邦·摩根
+    zh_hk: 約翰·畢雅邦·摩根
 ---
 # [[J._P._Morgan]] 
 

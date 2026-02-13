@@ -127,7 +127,7 @@ dv_has_:
     az: Ardıcıllıq
     ba: Эҙмә-эҙлеклек
     be: паслядоўнасць
-    be-tarask: пасьлядоўнасьць
+    be_tarask: пасьлядоўнасьць
     bg: Редица
     bn: অনুক্রম
     br: heuliad
@@ -139,12 +139,12 @@ dv_has_:
     cy: cyfres
     da: sekvens
     de: Folge
-    de-ch: Folge
+    de_ch: Folge
     diq: Rêze
     el: ακολουθία
     en: sequence
-    en-ca: Sequence
-    en-gb: sequence
+    en_ca: Sequence
+    en_gb: sequence
     eo: vico
     es: sucesión
     et: jada
@@ -169,11 +169,11 @@ dv_has_:
     ka: მიმდევრობა
     kaa: dizbek
     kk: Іштізбек
-    kk-arab: ىشتىزبەك
+    kk_arab: ىشتىزبەك
     kk-cn: ىشتىزبەك
-    kk-cyrl: Іштізбек
+    kk_cyrl: Іштізбек
     kk-kz: Іштізбек
-    kk-latn: İştizbek
+    kk_latn: İştizbek
     kk-tr: İştizbek
     ko: 수열
     ko-kp: 수렬
@@ -187,7 +187,7 @@ dv_has_:
     mk: низа
     ml: അനുക്രമം
     ms: jujukan
-    ms-arab: جوجوقن
+    ms_arab: جوجوقن
     mwl: Sequéncia
     my: အစဉ်လိုက်
     nb: følge
@@ -199,7 +199,7 @@ dv_has_:
     pl: ciąg
     pms: Sequensa
     pt: sequência
-    pt-br: sequência
+    pt_br: sequência
     ro: șir
     ru: последовательность
     scn: succissioni
@@ -211,19 +211,19 @@ dv_has_:
     sms: räidd
     sq: sekuencë
     sr: низ
-    sr-ec: Низ
-    sr-el: Niz
+    sr_ec: Низ
+    sr_el: Niz
     sv: följd
     sw: Mfuatano
     szl: Ćůng
     ta: தொடர்வரிசை
     tg: пайдарпайӣ
-    tg-cyrl: пайдарпайӣ
+    tg_cyrl: пайдарпайӣ
     th: ลำดับ
     tl: Datig (matematika)
     tr: dizi
     tt: эзлеклелек
-    tt-cyrl: эзлеклелек
+    tt_cyrl: эзлеклелек
     udm: лыд рад
     uk: послідовність
     ur: متوالیہ
@@ -233,12 +233,12 @@ dv_has_:
     xal: Даралт
     yue: 數列
     zh: 序列
-    zh-cn: 序列
-    zh-hans: 序列
-    zh-hant: 序列
-    zh-hk: 序列
-    zh-sg: 序列
-    zh-tw: 序列
+    zh_cn: 序列
+    zh_hans: 序列
+    zh_hant: 序列
+    zh_hk: 序列
+    zh_sg: 序列
+    zh_tw: 序列
 ---
 # [[Sequence]] 
 

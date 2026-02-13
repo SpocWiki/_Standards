@@ -28,7 +28,7 @@ dv_has_:
     azb: یئییلمه
     ba: коррозия
     be: карозія
-    be-tarask: карозія
+    be_tarask: карозія
     bg: Корозия
     bn: জারণ
     bs: Korozija
@@ -39,11 +39,11 @@ dv_has_:
     cy: cyrydiad
     da: Korrosion
     de: Korrosion
-    de-ch: Korrosion
+    de_ch: Korrosion
     el: Διάβρωση
     en: corrosion
-    en-ca: Corrosion
-    en-gb: corrosion
+    en_ca: Corrosion
+    en_gb: corrosion
     eo: korodo
     es: corrosión
     et: korrosioon
@@ -69,11 +69,11 @@ dv_has_:
     jv: Korosi
     ka: კოროზია
     kk: Жегіде
-    kk-arab: جەگىدە
+    kk_arab: جەگىدە
     kk-cn: جەگىدە
-    kk-cyrl: Жегіде
+    kk_cyrl: Жегіде
     kk-kz: Жегіде
-    kk-latn: Jegide
+    kk_latn: Jegide
     kk-tr: Jegide
     ko: 부식
     ku: Korozyon
@@ -93,7 +93,7 @@ dv_has_:
     pa: ਜ਼ੰਗ
     pl: korozja
     pt: corrosão
-    pt-br: Corrosão
+    pt_br: Corrosão
     ro: coroziune
     ru: коррозия
     sat: ᱠᱷᱤᱞᱟ.
@@ -106,8 +106,8 @@ dv_has_:
     sn: Kun'ura
     sq: Korrozioni
     sr: корозија
-    sr-ec: Корозија
-    sr-el: Korozija
+    sr_ec: Корозија
+    sr_el: Korozija
     su: Korosi
     sv: korrosion
     ta: அரிமானம்
@@ -124,12 +124,12 @@ dv_has_:
     yue: 腐蝕
     za: Myaex
     zh: 腐蚀
-    zh-cn: 腐蚀
-    zh-hans: 腐蚀
-    zh-hant: 腐蝕
-    zh-hk: 腐蝕
-    zh-sg: 腐蚀
-    zh-tw: 腐蝕
+    zh_cn: 腐蚀
+    zh_hans: 腐蚀
+    zh_hant: 腐蝕
+    zh_hk: 腐蝕
+    zh_sg: 腐蚀
+    zh_tw: 腐蝕
 aliases:
 - coroziune
 - corrosie

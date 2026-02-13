@@ -89,7 +89,7 @@ dv_has_:
     ast: Positrón
     az: Pozitron
     be: Пазітрон
-    be-tarask: пазытрон
+    be_tarask: пазытрон
     bg: Позитрон
     bn: পজিট্রন
     br: Pozitron
@@ -154,7 +154,7 @@ dv_has_:
     pms: Positron
     pnb: پوزیٹران
     pt: positrão
-    pt-br: pósitron
+    pt_br: pósitron
     qu: Pusitrun
     rki: အက်တမ်အောက်အမှုန်
     ro: pozitron
@@ -170,8 +170,8 @@ dv_has_:
     sms: positroon
     sq: Pozitroni
     sr: позитрон
-    sr-ec: позитрон
-    sr-el: pozitron
+    sr_ec: позитрон
+    sr_el: pozitron
     su: Positron
     sv: positron
     ta: பாசிட்ரான்

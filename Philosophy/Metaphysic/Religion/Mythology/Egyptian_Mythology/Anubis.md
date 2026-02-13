@@ -88,7 +88,7 @@ dv_has_:
     ast: Anubis
     az: Anubis
     be: Анубіс
-    be-tarask: Анубіс
+    be_tarask: Анубіс
     bg: Анубис
     bn: আনুবিস
     bo: ཨན་ནུའུ་པེ་སི།
@@ -104,7 +104,7 @@ dv_has_:
     de: Anubis
     el: Άνουβις
     en: Anubis
-    en-gb: Anubis
+    en_gb: Anubis
     eo: Anubo
     es: Anubis
     et: Anubis
@@ -142,7 +142,7 @@ dv_has_:
     ms: Anubis
     my: အနျူးဘစ်နတ်ဘုရား
     nb: Anubis
-    nds-nl: Anubis
+    nds_nl: Anubis
     nl: Anubis
     oc: Inpo
     os: Анубис
@@ -159,7 +159,7 @@ dv_has_:
     so: Anubis
     sq: Anubis-Perëndia egjiptiane
     sr: Анубис
-    sr-ec: Анубис
+    sr_ec: Анубис
     sv: Anubis
     sw: Anubis
     ta: இன்பு
@@ -176,7 +176,7 @@ dv_has_:
     xmf: ანუბისი
     yue: 阿努比斯
     zh: 阿努
-    zh-hant: 阿努比斯
+    zh_hant: 阿努比斯
 ---
 # [[Anubis]] 
 

@@ -62,7 +62,7 @@ dv_has_:
     ast: tequila
     az: Tekila
     be: Тэкіла
-    be-tarask: Тэкіла
+    be_tarask: Тэкіла
     bg: Текила
     bn: তেকিলা
     bs: Tekila
@@ -76,8 +76,8 @@ dv_has_:
     diq: Tekila
     el: Τεκίλα
     en: tequila
-    en-ca: tequila
-    en-gb: tequila
+    en_ca: tequila
+    en_gb: tequila
     eo: tekilo
     es: tequila
     et: tequila
@@ -100,11 +100,11 @@ dv_has_:
     jv: Tequila
     ka: ტეკილა
     kk: Текила
-    kk-arab: تەكىيلا
+    kk_arab: تەكىيلا
     kk-cn: تەكىيلا
-    kk-cyrl: Текила
+    kk_cyrl: Текила
     kk-kz: Текила
-    kk-latn: Tekïla
+    kk_latn: Tekïla
     kk-tr: Tekïla
     km: តេគីឡា
     kn: ಟಕಿಲಾ
@@ -123,7 +123,7 @@ dv_has_:
     pa: ਟਕੀਲਾ
     pl: Tequila
     pt: tequila
-    pt-br: Tequila
+    pt_br: Tequila
     ro: Tequila
     ru: текила
     sco: tequila
@@ -135,8 +135,8 @@ dv_has_:
     sms: tequila
     sq: Tekila
     sr: Текила
-    sr-ec: Текила
-    sr-el: Tekila
+    sr_ec: Текила
+    sr_el: Tekila
     sv: tequila
     ta: டெக்கீலா
     th: เตกิลา
@@ -150,11 +150,11 @@ dv_has_:
     yue: 特基拿
     zh: 龍舌蘭酒
     zh-cn: 龙舌兰酒
-    zh-hans: 龙舌兰酒
-    zh-hant: 龍舌蘭酒
-    zh-hk: 龍舌蘭酒
-    zh-sg: 龙舌兰酒
-    zh-tw: 龍舌蘭酒
+    zh_hans: 龙舌兰酒
+    zh_hant: 龍舌蘭酒
+    zh_hk: 龍舌蘭酒
+    zh_sg: 龙舌兰酒
+    zh_tw: 龍舌蘭酒
 ---
 # [[Tequila]]
 

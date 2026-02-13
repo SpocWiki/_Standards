@@ -137,7 +137,7 @@ dv_has_:
     ba: квадрат тамыр
     bcl: kwadradong gamot
     be: квадратны корань
-    be-tarask: квадратны корань
+    be_tarask: квадратны корань
     bg: квадратен корен
     bn: বর্গমূল
     br: gwrizienn garrez
@@ -206,7 +206,7 @@ dv_has_:
     pa: ਵਰਗਮੂਲ
     pl: pierwiastek kwadratowy
     pt: raiz quadrada
-    pt-br: raiz quadrada
+    pt_br: raiz quadrada
     ro: rădăcină pătrată
     ru: квадратный корень
     scn: radici quatrata
@@ -216,8 +216,8 @@ dv_has_:
     smn: neljihâšruotâs
     sq: Rrënja katrore
     sr: квадратни корен
-    sr-ec: квадратни корен
-    sr-el: kvadratni koren
+    sr_ec: квадратни корен
+    sr_el: kvadratni koren
     su: Akar kuadrat
     sv: kvadratrot
     sw: Kipeuo cha pili
@@ -236,12 +236,12 @@ dv_has_:
     yo: gbòngbò alágbáraméjì
     yue: 開方根
     zh: 平方根
-    zh-cn: 平方根
-    zh-hans: 平方根
-    zh-hant: 平方根
-    zh-hk: 平方根
-    zh-sg: 平方根
-    zh-tw: 平方根
+    zh_cn: 平方根
+    zh_hans: 平方根
+    zh_hant: 平方根
+    zh_hk: 平方根
+    zh_sg: 平方根
+    zh_tw: 平方根
 ---
 # [[Square_Root]] 
 

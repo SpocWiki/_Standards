@@ -33,8 +33,8 @@ dv_has_:
     sk: Memristor
     sl: memristor
     sr: помпорник
-    sr-ec: помпорник
-    sr-el: pompornik
+    sr_ec: помпорник
+    sr_el: pompornik
     sv: memristor
     ta: நினைவுகொள் மின்தடை
     th: เมมริสเตอร์
@@ -42,12 +42,12 @@ dv_has_:
     uk: Мемристор
     vi: Memristor
     zh: 憶阻器
-    zh-cn: 忆阻器
-    zh-hans: 忆阻器
-    zh-hant: 憶阻器
-    zh-hk: 憶阻器
-    zh-sg: 忆阻器
-    zh-tw: 憶阻器
+    zh_cn: 忆阻器
+    zh_hans: 忆阻器
+    zh_hant: 憶阻器
+    zh_hk: 憶阻器
+    zh_sg: 忆阻器
+    zh_tw: 憶阻器
 aliases:
 - memristor
 - memristore

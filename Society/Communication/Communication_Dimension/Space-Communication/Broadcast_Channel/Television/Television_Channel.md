@@ -97,7 +97,7 @@ dv_has_:
     ast: canal de televisión
     az: telekanal
     be: Тэлевізійны канал
-    be-tarask: тэлеканал
+    be_tarask: тэлеканал
     bg: телевизионен канал
     bn: টেলিভিশন চ্যানেল
     bs: televizijski kanal
@@ -131,7 +131,7 @@ dv_has_:
     km: ស្ថានីយទូរទស្សន៍
     ko: 텔레비전 채널
     ku: kanala televîzyonê
-    ku-latn: kanala televîzyonê
+    ku_latn: kanala televîzyonê
     la: Trames televisionis
     lb: Televisiounssender (Organisatioun)
     lt: televizijos kanalas
@@ -145,7 +145,7 @@ dv_has_:
     oc: canal televisiu
     pl: kanał telewizyjny
     pt: canal de televisão
-    pt-br: canal de televisão
+    pt_br: canal de televisão
     ro: canal de televiziune
     ru: телеканал
     sco: telly channel
@@ -155,28 +155,28 @@ dv_has_:
     smn: TV-kanava
     sms: TV-kanaal
     sr: телевизијски канал
-    sr-ec: телевизијски канал
-    sr-el: televizijski kanal
+    sr_ec: телевизијски канал
+    sr_el: televizijski kanal
     sv: TV-kanal
     tg: шабакаи телевизионӣ
     th: ช่องโทรทัศน์
     tr: televizyon kanalı
     tt: телеканал
-    tt-cyrl: телеканал
+    tt_cyrl: телеканал
     uk: телеканал
     ur: ٹیلی ویژن چینل
     uz: telekanal
     vec: canałe de tełevizion
     vi: kênh truyền hình
     zh: 电视频道
-    zh-cn: 电视频道
-    zh-hans: 电视频道
-    zh-hant: 電視頻道
-    zh-hk: 電視頻道
-    zh-mo: 電視頻道
+    zh_cn: 电视频道
+    zh_hans: 电视频道
+    zh_hant: 電視頻道
+    zh_hk: 電視頻道
+    zh_mo: 電視頻道
     zh-my: 电视频道
-    zh-sg: 电视频道
-    zh-tw: 電視頻道
+    zh_sg: 电视频道
+    zh_tw: 電視頻道
 ---
 # [[Television_Channel]] 
 

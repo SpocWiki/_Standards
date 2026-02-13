@@ -11,7 +11,7 @@ dv_has_:
     azb: سیلیکون والئی
     ban: Lebah Silikon
     be: Крамянёвая даліна
-    be-tarask: Крамянёвая даліна
+    be_tarask: Крамянёвая даліна
     bew: Lebak Silikon
     bg: Силициева долина
     bn: সিলিকন ভ্যালি
@@ -24,12 +24,12 @@ dv_has_:
     cy: Dyffryn Silicon
     da: Silicon Valley
     de: Silicon Valley
-    de-ch: Silicon Valley
+    de_ch: Silicon Valley
     dty: सिलिकन भ्याली
     el: Κοιλάδα του Πυριτίου
     en: Silicon Valley
-    en-ca: Silicon Valley
-    en-gb: Silicon Valley
+    en_ca: Silicon Valley
+    en_gb: Silicon Valley
     eo: Silicon Valley
     es: Silicon Valley
     et: Silicon Valley
@@ -58,11 +58,11 @@ dv_has_:
     ka: სილიკონის ველი
     ki: Silicon Valley
     kk: Силикон алқабы
-    kk-arab: سىيلىيكون القابى
+    kk_arab: سىيلىيكون القابى
     kk-cn: سىيلىيكون القابى
-    kk-cyrl: Силикон алқабы
+    kk_cyrl: Силикон алқабы
     kk-kz: Силикон алқабы
-    kk-latn: Sïlïkon alqabı
+    kk_latn: Sïlïkon alqabı
     kk-tr: Sïlïkon alqabı
     ko: 실리콘 밸리
     ku: Geliyê Silîkonê
@@ -78,7 +78,7 @@ dv_has_:
     my: ဆီလီကွန်ဗယ်လီ
     nan: Si-lí-khóng soaⁿ-kok
     nb: Silicon Valley
-    nds-nl: Silicon Valley
+    nds_nl: Silicon Valley
     nl: Silicon Valley
     nn: Silicon Valley
     oc: Silicon Valley
@@ -86,7 +86,7 @@ dv_has_:
     pl: Dolina Krzemowa
     pnb: سلیکون ویلی
     pt: Vale do Silício
-    pt-br: Vale do Silício
+    pt_br: Vale do Silício
     rki: ဆီလီကွန်ဗယ်လီ(Silicon Valley)
     ro: Silicon Valley
     ru: Кремниевая долина
@@ -97,8 +97,8 @@ dv_has_:
     sl: Silicijeva dolina
     smn: Tinnoleehi
     sr: Силицијумска долина
-    sr-ec: Силицијумска долина
-    sr-el: Silicijumska dolina
+    sr_ec: Силицијумска долина
+    sr_el: Silicijumska dolina
     sv: Silicon Valley
     syl: ꠍꠤꠟꠤꠇꠘ ꠜꠦꠟꠤ
     ta: சிலிக்கான் பள்ளத்தாக்கு
@@ -113,12 +113,12 @@ dv_has_:
     wuu: 硅谷
     yue: 矽谷
     zh: 硅谷
-    zh-cn: 硅谷
-    zh-hans: 硅谷
-    zh-hant: 矽谷
-    zh-hk: 矽谷
-    zh-sg: 硅谷
-    zh-tw: 矽谷
+    zh_cn: 硅谷
+    zh_hans: 硅谷
+    zh_hant: 矽谷
+    zh_hk: 矽谷
+    zh_sg: 硅谷
+    zh_tw: 矽谷
 aliases:
 - Dolina Krzemowa
 - Dyffryn Silicon

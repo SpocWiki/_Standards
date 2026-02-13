@@ -436,7 +436,7 @@ dv_has_:
     ab: Гана
     ace: Ghana
     ady: Ганэ
-    aeb-arab: غانا
+    aeb_arab: غانا
     af: Ghana
     am: ጋና
     ami: Ghana
@@ -458,7 +458,7 @@ dv_has_:
     bar: Ghana
     bcl: Gana
     be: Гана
-    be-tarask: Гана
+    be_tarask: Гана
     bew: Gana
     bg: Гана
     bho: घाना
@@ -472,14 +472,14 @@ dv_has_:
     bs: Gana
     bxr: Гана
     ca: Ghana
-    cbk-zam: Ghana
+    cbk_zam: Ghana
     cdo: Ghana
     ce: Гана
     ceb: Ghana
     ckb: گانا
     co: Ghana
     crh: Ğana
-    crh-latn: Ğana
+    crh_latn: Ğana
     cs: Ghana
     cv: Гана
     cy: Ghana
@@ -487,7 +487,7 @@ dv_has_:
     dag: Ghana
     de: Ghana
     de-at: Ghana
-    de-ch: Ghana
+    de_ch: Ghana
     dga: Ghana
     diq: Gana
     dsb: Ghana
@@ -496,8 +496,8 @@ dv_has_:
     ee: Ghana
     el: Γκάνα
     en: Ghana
-    en-ca: Ghana
-    en-gb: Ghana
+    en_ca: Ghana
+    en_gb: Ghana
     en-us: Ghana
     eo: Ganao
     es: Ghana
@@ -566,7 +566,7 @@ dv_has_:
     ko: 가나
     ks: گھانا
     ku: Gana
-    ku-latn: Gana
+    ku_latn: Gana
     kus: Ghana
     kw: Gana
     ky: Гана
@@ -586,7 +586,7 @@ dv_has_:
     lv: Gana
     lzh: 迦納
     mai: घाना
-    map-bms: Ghana
+    map_bms: Ghana
     mdf: Гана
     mg: Ghana
     mhr: Гана
@@ -608,7 +608,7 @@ dv_has_:
     nan: Ghana
     nb: Ghana
     nds: Ghana
-    nds-nl: Ghana
+    nds_nl: Ghana
     ne: घाना
     new: घाना
     ng: Ghana
@@ -634,7 +634,7 @@ dv_has_:
     pnb: گھانا
     ps: ګانا
     pt: Gana
-    pt-br: Gana
+    pt_br: Gana
     qu: Gana
     rm: Ghana
     rmy: Ghana
@@ -667,8 +667,8 @@ dv_has_:
     so: Gaana
     sq: Gana
     sr: Гана
-    sr-ec: Гана
-    sr-el: Gana
+    sr_ec: Гана
+    sr_el: Gana
     srn: Ghana
     ss: IGana
     st: Ghana
@@ -720,13 +720,13 @@ dv_has_:
     zea: Ghâna
     zgh: ⴳⴰⵏⴰ
     zh: 迦納
-    zh-cn: 加纳
-    zh-hans: 加纳
-    zh-hant: 迦納
-    zh-hk: 加納
-    zh-mo: 加納
-    zh-sg: 加纳
-    zh-tw: 迦納
+    zh_cn: 加纳
+    zh_hans: 加纳
+    zh_hant: 迦納
+    zh_hk: 加納
+    zh_mo: 加納
+    zh_sg: 加纳
+    zh_tw: 迦納
     zu: IGana
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Ghana

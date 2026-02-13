@@ -181,7 +181,7 @@ dv_has_:
     az: Dünyanın yeddi möcüzəsi
     ba: Донъяның ете мөғжизәһе
     be: Сем цудаў свету
-    be-tarask: Сем цудаў сьвету
+    be_tarask: Сем цудаў сьвету
     bg: Седемте чудеса на античния свят
     bn: প্রাচীন বিশ্বের সপ্তাশ্চর্য
     br: Seizh Marzh an Henved
@@ -225,14 +225,14 @@ dv_has_:
     jv: Pitu Kaajaiban Donya Kuna
     ka: მსოფლიოს შვიდი საოცრება
     kk: Әлемнің жеті кереметі
-    kk-arab: الەمنىڭ جەتى كەرەمەتى
-    kk-cyrl: Әлемнің жеті кереметі
-    kk-latn: Älemniñ jeti keremeti
+    kk_arab: الەمنىڭ جەتى كەرەمەتى
+    kk_cyrl: Әлемнің жеті кереметі
+    kk_latn: Älemniñ jeti keremeti
     kn: ಪುರಾತನ ಪ್ರಪಂಚದ ೭ ಅದ್ಭುತಗಳು
     ko: 세계 7대 불가사의
     ku: Heft nuwazeyên cîhanê
-    ku-arab: حەفت نووازەیێن جیهانێ
-    ku-latn: Heft nuwazeyên cîhanê
+    ku_arab: حەفت نووازەیێن جیهانێ
+    ku_latn: Heft nuwazeyên cîhanê
     ky: Дүйнөлүк 7 керемет
     la: Septem miracula mundi
     lad: Siete maraviyas del mundo antiko
@@ -270,8 +270,8 @@ dv_has_:
     sl: sedem čudes starega veka
     sq: Shtatë mrekullitë e botës së lashtë
     sr: Седам светских чуда старог света
-    sr-ec: Седам светских чуда старог света
-    sr-el: Sedam svetskih čuda starog sveta
+    sr_ec: Седам светских чуда старог света
+    sr_el: Sedam svetskih čuda starog sveta
     sv: Världens sju underverk
     sw: Maajabu ya dunia
     ta: பண்டைய உலக அதிசயங்கள்
@@ -295,9 +295,9 @@ dv_has_:
     yue: 古代世界七大奇蹟
     zea: De zeven wereldwonders
     zh: 古代世界七大奇迹
-    zh-hans: 古代世界七大奇迹
-    zh-hant: 古代世界七大奇蹟
-    zh-hk: 古代世界七大奇蹟
+    zh_hans: 古代世界七大奇迹
+    zh_hant: 古代世界七大奇蹟
+    zh_hk: 古代世界七大奇蹟
 ---
 # [[Seven_Wonders_of_the_Ancient_World]] 
 

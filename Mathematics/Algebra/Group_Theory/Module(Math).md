@@ -59,7 +59,7 @@ dv_has_:
   name_:
     ar: حلقية
     ba: ҡулса өҫтөндә модуль
-    be-tarask: модуль
+    be_tarask: модуль
     bg: модул
     ca: mòdul sobre un anell
     cs: modul
@@ -91,7 +91,7 @@ dv_has_:
     pa: ਮੌਡਿਊਲ
     pl: moduł
     pt: módulo
-    pt-br: módulo
+    pt_br: módulo
     ro: modul
     ru: модуль над кольцом
     sl: modul
@@ -102,10 +102,10 @@ dv_has_:
     vi: Mô-đun (toán học)
     yue: 模 (代數)
     zh: 模
-    zh-cn: 模
-    zh-hans: 模块理论
-    zh-hant: 模
-    zh-tw: 模
+    zh_cn: 模
+    zh_hans: 模块理论
+    zh_hant: 模
+    zh_tw: 模
 ---
 # [[Module(Math)]] 
 

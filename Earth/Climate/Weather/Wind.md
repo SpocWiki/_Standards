@@ -228,7 +228,7 @@ dv_has_:
     bas: mbɛ̀bi
     bcl: duros
     be: вецер
-    be-tarask: вецер
+    be_tarask: вецер
     bew: angin
     bg: вятър
     bho: हवा
@@ -251,13 +251,13 @@ dv_has_:
     cy: gwynt
     da: vind
     de: Wind
-    de-ch: Wind
+    de_ch: Wind
     diq: va
     dsb: wětš
     el: άνεμος
     en: wind
-    en-ca: wind
-    en-gb: wind
+    en_ca: wind
+    en_gb: wind
     eo: vento
     es: viento
     et: tuul
@@ -340,7 +340,7 @@ dv_has_:
     nan: hong
     nb: vind
     nds: Wind
-    nds-nl: wiend
+    nds_nl: wiend
     ne: हावा
     new: फे
     nl: wind
@@ -358,7 +358,7 @@ dv_has_:
     pnb: نیری
     ps: باد
     pt: vento
-    pt-br: vento
+    pt_br: vento
     qu: wayra
     rm: vent
     ro: vânt
@@ -414,7 +414,7 @@ dv_has_:
     yue: 風
     za: rumz
     zh: 風
-    zh-hant: 風
+    zh_hant: 風
 ---
 # [[Wind]] 
 

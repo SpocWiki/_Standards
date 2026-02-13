@@ -35,7 +35,7 @@ dv_has_:
     oc: Anoplotheriidae
     pl: Anoplotheriidae
     pt: Anoplotheriidae
-    pt-br: Anoplotheriidae
+    pt_br: Anoplotheriidae
     ro: Anoplotheriidae
     ru: Anoplotheriidae
     sq: Anoplotheriidae
@@ -45,9 +45,9 @@ dv_has_:
     vo: Anoplotheriidae
     war: Anoplotheriidae
     zh: 无防兽科
-    zh-cn: 无防兽科
-    zh-hans: 无防兽科
-    zh-tw: 無防獸科
+    zh_cn: 无防兽科
+    zh_hans: 无防兽科
+    zh_tw: 無防獸科
 ---
 # [[Anoplotheriidae]] 
 

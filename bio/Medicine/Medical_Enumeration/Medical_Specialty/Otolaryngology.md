@@ -94,7 +94,7 @@ dv_has_:
     az: otorinolarinqologiya
     azb: قولاق بورون بوغاز دوکتورلوگو
     be: отарыналарынгалогія
-    be-tarask: отарыналярынгалёгія
+    be_tarask: отарыналярынгалёгія
     bg: Оториноларингология
     bs: Otorinolaringologija
     ca: otorinolaringologia
@@ -163,12 +163,12 @@ dv_has_:
     yi: האלדז, נאז און אויערן היילן
     yue: 耳鼻喉科
     zh: 耳鼻喉科學
-    zh-cn: 耳鼻喉科学
-    zh-hans: 耳鼻喉科学
-    zh-hant: 耳鼻喉科學
-    zh-hk: 耳鼻喉科學
-    zh-sg: 耳鼻喉科学
-    zh-tw: 耳鼻喉科學
+    zh_cn: 耳鼻喉科学
+    zh_hans: 耳鼻喉科学
+    zh_hant: 耳鼻喉科學
+    zh_hk: 耳鼻喉科學
+    zh_sg: 耳鼻喉科学
+    zh_tw: 耳鼻喉科學
 ---
 # [[Otolaryngology]]
 

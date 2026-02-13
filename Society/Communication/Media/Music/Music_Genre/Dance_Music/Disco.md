@@ -70,7 +70,7 @@ dv_has_:
     ast: Música discu
     az: disko
     be: дыска
-    be-tarask: дыска
+    be_tarask: дыска
     bg: диско
     bn: ডিস্কো
     ca: música disco
@@ -81,7 +81,7 @@ dv_has_:
     de: Disco
     el: Disco
     en: disco
-    en-gb: disco
+    en_gb: disco
     eo: Diskoo
     es: música disco
     et: diskomuusika
@@ -119,7 +119,7 @@ dv_has_:
     mk: Диско
     ml: ഡിസ്കോ
     ms: disko
-    ms-arab: ديسکو
+    ms_arab: ديسکو
     mt: mużika disko
     mzn: دیسکو
     nan: Disco
@@ -154,14 +154,14 @@ dv_has_:
     wuu: 迪斯科
     yue: 的士高
     zh: 迪斯科
-    zh-cn: 迪斯科
-    zh-hans: 迪斯科
-    zh-hant: 迪斯可
-    zh-hk: 的士高
-    zh-mo: 的士高
+    zh_cn: 迪斯科
+    zh_hans: 迪斯科
+    zh_hant: 迪斯可
+    zh_hk: 的士高
+    zh_mo: 的士高
     zh-my: 迪斯科
-    zh-sg: 迪斯科
-    zh-tw: 迪斯可
+    zh_sg: 迪斯科
+    zh_tw: 迪斯可
 ---
 # [[Disco]] 
 

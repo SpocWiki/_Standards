@@ -119,7 +119,7 @@ dv_has_:
     ast: Irving Berlin
     bar: Irving Berlin
     be: Ірвінг Берлін
-    be-tarask: Ірвінг Бэрлін
+    be_tarask: Ірвінг Бэрлін
     bg: Ървинг Бърлин
     bm: Irving Berlin
     bn: আরভিং বার্লিন
@@ -132,11 +132,11 @@ dv_has_:
     da: Irving Berlin
     de: Irving Berlin
     de-at: Irving Berlin
-    de-ch: Irving Berlin
+    de_ch: Irving Berlin
     el: Ίρβινγκ Μπερλίν
     en: Irving Berlin
-    en-ca: Irving Berlin
-    en-gb: Irving Berlin
+    en_ca: Irving Berlin
+    en_gb: Irving Berlin
     eo: Irving Berlin
     es: Irving Berlin
     et: Irving Berlin
@@ -180,7 +180,7 @@ dv_has_:
     nap: Irving Berlin
     nb: Irving Berlin
     nds: Irving Berlin
-    nds-nl: Irving Berlin
+    nds_nl: Irving Berlin
     nl: Irving Berlin
     nn: Irving Berlin
     nrm: Irving Berlin
@@ -192,7 +192,7 @@ dv_has_:
     pms: Irving Berlin
     prg: Irving Berlin
     pt: Irving Berlin
-    pt-br: Irving Berlin
+    pt_br: Irving Berlin
     rgn: Irving Berlin
     rm: Irving Berlin
     ro: Irving Berlin
@@ -206,7 +206,7 @@ dv_has_:
     sl: Irving Berlin
     sq: Irving Berlin
     sr: Irving Berlin
-    sr-el: Irving Berlin
+    sr_el: Irving Berlin
     su: Irving Berlin
     sv: Irving Berlin
     sw: Irving Berlin
@@ -225,12 +225,12 @@ dv_has_:
     wuu: 欧文·柏林
     yue: 厄文·博林
     zh: 歐文·柏林
-    zh-cn: 欧文·伯林
-    zh-hans: 厄文·博林
-    zh-hant: 厄文·博林
-    zh-hk: 厄文·博林
-    zh-sg: 厄文·博林
-    zh-tw: 厄文·博林
+    zh_cn: 欧文·伯林
+    zh_hans: 厄文·博林
+    zh_hant: 厄文·博林
+    zh_hk: 厄文·博林
+    zh_sg: 厄文·博林
+    zh_tw: 厄文·博林
     zu: Irving Berlin
 ---
 # [[Berlin,Irving]] 

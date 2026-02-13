@@ -114,7 +114,7 @@ dv_has_:
     azb: جوآن کراوفورد
     ba: Джоан Кроуфорд
     be: Джаан Кроўфард
-    be-tarask: Джаан Кроўфард
+    be_tarask: Джаан Кроўфард
     bg: Джоан Крофорд
     bi: Joan Crawford
     bm: Joan Crawford
@@ -129,12 +129,12 @@ dv_has_:
     da: Joan Crawford
     de: Joan Crawford
     de-at: Joan Crawford
-    de-ch: Joan Crawford
+    de_ch: Joan Crawford
     diq: Joan Crawford
     el: Τζόαν Κρόφορντ
     en: Joan Crawford
-    en-ca: Joan Crawford
-    en-gb: Joan Crawford
+    en_ca: Joan Crawford
+    en_gb: Joan Crawford
     en-us: Joan Crawford
     eo: Joan Crawford
     es: Joan Crawford
@@ -189,7 +189,7 @@ dv_has_:
     nap: Joan Crawford
     nb: Joan Crawford
     nds: Joan Crawford
-    nds-nl: Joan Crawford
+    nds_nl: Joan Crawford
     nl: Joan Crawford
     nn: Joan Crawford
     nrm: Joan Crawford
@@ -201,7 +201,7 @@ dv_has_:
     pms: Joan Crawford
     prg: Joan Crawford
     pt: Joan Crawford
-    pt-br: Joan Crawford
+    pt_br: Joan Crawford
     qu: Joan Crawford
     rgn: Joan Crawford
     rm: Joan Crawford
@@ -216,7 +216,7 @@ dv_has_:
     sl: Joan Crawford
     sq: Joan Crawford
     sr: Џоун Крафорд
-    sr-el: Joan Crawford
+    sr_el: Joan Crawford
     sv: Joan Crawford
     sw: Joan Crawford
     ta: ஜோன் கிராபர்ட்
@@ -242,7 +242,7 @@ dv_has_:
     yo: Joan Crawford
     yue: 鍾歌羅馥
     zh: 瓊·克勞馥
-    zh-sg: 钟·歌罗馥
+    zh_sg: 钟·歌罗馥
     zu: Joan Crawford
 ---
 # [[Crawford,Joan]] 

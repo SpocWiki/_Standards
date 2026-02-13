@@ -242,7 +242,7 @@ dv_has_:
     ban: Timah
     bcl: Lata
     be: волава
-    be-tarask: цына
+    be_tarask: цына
     bg: калай
     bho: टीना
     bn: টিন
@@ -260,12 +260,12 @@ dv_has_:
     cy: tun
     da: tin
     de: Zinn
-    de-ch: Zinn
+    de_ch: Zinn
     diq: Qelay
     el: κασσίτερος
     en: tin
-    en-ca: tin
-    en-gb: tin
+    en_ca: tin
+    en_gb: tin
     eo: stano
     es: estaño
     et: tina
@@ -363,7 +363,7 @@ dv_has_:
     pnb: ٹن
     ps: ټېن
     pt: estanho
-    pt-br: estanho
+    pt_br: estanho
     qu: Chayanta
     ro: staniu
     ru: олово
@@ -419,9 +419,9 @@ dv_has_:
     yue: 錫
     za: Sik
     zh: 锡
-    zh-hans: 锡
-    zh-hant: 錫
-    zh-tw: 錫
+    zh_hans: 锡
+    zh_hant: 錫
+    zh_tw: 錫
     zu: IsiThanambi
   number_of_:
     period: 5

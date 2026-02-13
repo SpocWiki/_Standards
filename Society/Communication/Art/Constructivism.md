@@ -62,7 +62,7 @@ dv_has_:
     ar: بنائية
     arz: البنائيه
     be: канструктывізм
-    be-tarask: канструктывізм
+    be_tarask: канструктывізм
     bg: конструктивизъм
     br: sevelouriezh
     ca: constructivisme
@@ -112,8 +112,8 @@ dv_has_:
     smn: konstruktivism
     sms: konstruktivismm
     sr: конструктивизам
-    sr-ec: конструктивизам
-    sr-el: konstruktivizam
+    sr_ec: конструктивизам
+    sr_el: konstruktivizam
     sv: konstruktivism (konst)
     ta: கட்டமைப்புவாதம்
     th: ศิลปะเค้าโครง

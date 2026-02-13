@@ -10,11 +10,11 @@ dv_has_:
     cy: Marillion
     da: Marillion
     de: Marillion
-    de-ch: Marillion
+    de_ch: Marillion
     el: Marillion
     en: Marillion
-    en-ca: Marillion
-    en-gb: Marillion
+    en_ca: Marillion
+    en_gb: Marillion
     eo: Marillion
     es: Marillion
     et: Marillion
@@ -37,7 +37,7 @@ dv_has_:
     pl: Marillion
     pms: Marillon
     pt: Marillion
-    pt-br: Marillion
+    pt_br: Marillion
     ru: Marillion
     sq: Marillion
     sv: Marillion

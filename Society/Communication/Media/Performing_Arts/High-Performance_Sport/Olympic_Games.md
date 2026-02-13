@@ -261,7 +261,7 @@ dv_has_:
     ba: Олимпия уйындары
     bcl: Olimpikong Karawat
     be: Алімпійскія гульні
-    be-tarask: Алімпійскія гульні
+    be_tarask: Алімпійскія гульні
     bg: Олимпийски игри
     bn: অলিম্পিক ক্রীড়া প্রতিযোগিতা
     bo: ཨའོ་ལིན་ཕིག་ལུས་རྩལ་འགྲན་ཚོགས།
@@ -278,13 +278,13 @@ dv_has_:
     cy: Gemau Olympaidd Modern
     da: Olympiske lege
     de: Olympische Spiele
-    de-ch: Olympische Spiele
+    de_ch: Olympische Spiele
     diq: Kayê olimpiki
     dv: އޮލީމްޕީކްސް
     el: Ολυμπιακοί Αγώνες
     en: Olympic Games
-    en-ca: Olympic Games
-    en-gb: Olympic Games
+    en_ca: Olympic Games
+    en_gb: Olympic Games
     eo: Olimpikaj Ludoj
     es: Juegos Olímpicos
     et: nüüdisaegsed olümpiamängud
@@ -350,7 +350,7 @@ dv_has_:
     lv: olimpiskās spēles
     lzh: 奧林匹克運動會
     mai: ओलम्पिक खेल
-    map-bms: Olimpiade
+    map_bms: Olimpiade
     mdf: Олимпиконь налхкоматне
     mg: Lalao Olimpika
     mhr: олимпий модмаш
@@ -360,7 +360,7 @@ dv_has_:
     mn: Олимпийн наадам
     mr: ऑलिंपिक
     ms: Sukan Olimpik
-    ms-arab: سوکن اوليمڤيک
+    ms_arab: سوکن اوليمڤيک
     mt: Logħob Olimpiku
     mwl: Jogos Oulímpicos
     my: အိုလံပစ် အားကစားပွဲတော်
@@ -386,7 +386,7 @@ dv_has_:
     pms: Gieugh olìmpich modern
     pnb: اولمپک کھیڈاں
     pt: Jogos Olímpicos
-    pt-br: Jogos Olímpicos
+    pt_br: Jogos Olímpicos
     qu: Ulimpiku pukllaykuna
     rm: Gieus olimpics
     ro: Jocurile Olimpice
@@ -421,7 +421,7 @@ dv_has_:
     tl: Palarong Olimpiko
     tr: Olimpiyat Oyunları
     tt: Олимпия уеннары
-    tt-cyrl: Олимпия уеннары
+    tt_cyrl: Олимпия уеннары
     udm: Олимпиада
     uk: Олімпійські ігри
     ur: اولمپکس
@@ -440,14 +440,14 @@ dv_has_:
     zea: Olympische Speêl'n
     zgh: ⵓⵔⴰⵔⵏ ⵉⵡⵍⴰⵎⴱⴱⵢⴰⵏⵏ
     zh: 奥林匹克运动会
-    zh-cn: 奥林匹克运动会
-    zh-hans: 奥林匹克运动会
-    zh-hant: 奧林匹克運動會
-    zh-hk: 奧林匹克運動會
-    zh-mo: 奧林匹克運動會
+    zh_cn: 奥林匹克运动会
+    zh_hans: 奥林匹克运动会
+    zh_hant: 奧林匹克運動會
+    zh_hk: 奧林匹克運動會
+    zh_mo: 奧林匹克運動會
     zh-my: 奥林匹克运动会
-    zh-sg: 奥林匹克运动会
-    zh-tw: 奧林匹克運動會
+    zh_sg: 奥林匹克运动会
+    zh_tw: 奧林匹克運動會
 ---
 # [[Olympic_Games]] 
 

@@ -123,7 +123,7 @@ dv_has_:
     ba: енес ағзалары
     bcl: Organong sekswal
     be: рэпрадуктыўная сістэма чалавека
-    be-tarask: плоцевыя органы
+    be_tarask: плоцевыя органы
     bg: полов орган
     bn: মানব যৌন অঙ্গ
     br: Ardivink-genel
@@ -165,7 +165,7 @@ dv_has_:
     ko: 성기
     ksh: Jeschlechtsorjan
     ku: Endamên zayendî
-    ku-latn: endamê zaûzê
+    ku_latn: endamê zaûzê
     ky: Жыныс органы
     la: Organum sexuale
     lb: Geschlechtsorgan
@@ -201,8 +201,8 @@ dv_has_:
     so: saxaax
     sq: organ seksual
     sr: полни орган
-    sr-ec: полни орган
-    sr-el: polni organ
+    sr_ec: полни орган
+    sr_el: polni organ
     sv: könsorgan
     ta: பாலுறுப்பு
     th: อวัยวะเพศ
@@ -221,9 +221,9 @@ dv_has_:
     yue: 生殖器
     za: Gasawh
     zh: 生殖器
-    zh-hans: 生殖器
-    zh-hant: 生殖器
-    zh-tw: 生殖器
+    zh_hans: 生殖器
+    zh_hant: 生殖器
+    zh_tw: 生殖器
 ---
 # [[Sex_Organ]] 
 

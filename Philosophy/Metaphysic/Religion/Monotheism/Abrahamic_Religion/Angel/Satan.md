@@ -154,7 +154,7 @@ dv_has_:
     azb: شیطان
     bcl: Satanas
     be: Сатана
-    be-tarask: сатана
+    be_tarask: сатана
     bew: Sétan
     bg: Сатана
     bn: সাতান
@@ -256,9 +256,9 @@ dv_has_:
     yi: שטן
     yue: 撒旦
     zh: 撒旦
-    zh-cn: 撒旦
-    zh-hans: 撒旦
-    zh-hant: 撒旦
+    zh_cn: 撒旦
+    zh_hans: 撒旦
+    zh_hant: 撒旦
 ---
 # [[Satan]] 
 

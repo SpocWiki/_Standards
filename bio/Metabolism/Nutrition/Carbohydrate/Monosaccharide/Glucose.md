@@ -152,7 +152,7 @@ dv_has_:
     azb: گلوکوز
     bcl: Glukosa
     be: глюкоза
-    be-tarask: глюкоза
+    be_tarask: глюкоза
     bg: глюкоза
     bn: গ্লুকোজ
     br: glukoz
@@ -216,7 +216,7 @@ dv_has_:
     mn: Глюкоз
     mr: ग्लुकोज
     ms: glukosa
-    ms-arab: ݢلوکوسا
+    ms_arab: ݢلوکوسا
     my: ဂလူးကို့သကြား
     nan: Phû-tô-thn̂g
     nb: glukose
@@ -230,7 +230,7 @@ dv_has_:
     pl: glukoza
     pnb: گلوکوز
     pt: glicose
-    pt-br: glicose
+    pt_br: glicose
     qu: Uwas misk'i
     ro: glucoză
     ru: глюкоза
@@ -265,10 +265,10 @@ dv_has_:
     yue: 葡萄糖
     yue-hant: 葡萄糖
     zh: 葡萄糖
-    zh-hant: 葡萄糖
-    zh-hk: 葡萄糖
-    zh-mo: 葡萄糖
-    zh-tw: 葡萄糖
+    zh_hant: 葡萄糖
+    zh_hk: 葡萄糖
+    zh_mo: 葡萄糖
+    zh_tw: 葡萄糖
     zu: I-glucose
 ---
 # [[Glucose]] 

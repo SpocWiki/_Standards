@@ -90,7 +90,7 @@ dv_has_:
     az: Eyler düsturu
     ba: Эйлер формулаһы
     be: формула Эйлера
-    be-tarask: формула Ойлера
+    be_tarask: формула Ойлера
     bg: Формула на Ойлер
     bn: অয়লারের সূত্র
     bs: Eulerova formula
@@ -103,8 +103,8 @@ dv_has_:
     de: eulersche Formel
     el: τύπος του Όιλερ
     en: Euler's formula
-    en-ca: Euler's formula
-    en-gb: Euler's formula
+    en_ca: Euler's formula
+    en_gb: Euler's formula
     eo: Eŭlera formulo
     es: fórmula de Euler
     et: Euleri valem
@@ -137,13 +137,13 @@ dv_has_:
     oc: Formula d'Euler
     pl: wzór Eulera
     pt: fórmula de Euler
-    pt-br: fórmula de Euler
+    pt_br: fórmula de Euler
     ro: formula lui Euler
     ru: формула Эйлера
     sl: Eulerjeva formula
     sr: Ојлерова формула
-    sr-ec: Ојлерова формула
-    sr-el: Ojlerova formula
+    sr_ec: Ојлерова формула
+    sr_el: Ojlerova formula
     sv: Eulers formel
     ta: ஆய்லரின் வாய்ப்பாடு
     tg: Формулаҳои Эйлер
@@ -156,12 +156,12 @@ dv_has_:
     wuu: 欧拉公式
     yue: 歐拉公式
     zh: 欧拉公式
-    zh-cn: 欧拉公式
-    zh-hans: 欧拉公式
-    zh-hant: 歐拉公式
-    zh-hk: 歐拉公式
-    zh-sg: 欧拉公式
-    zh-tw: 尤拉公式
+    zh_cn: 欧拉公式
+    zh_hans: 欧拉公式
+    zh_hant: 歐拉公式
+    zh_hk: 歐拉公式
+    zh_sg: 欧拉公式
+    zh_tw: 尤拉公式
 ---
 # [[Euler's_Formula]] 
 

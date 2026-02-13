@@ -103,7 +103,7 @@ dv_has_:
     ary: الشفافية الدولية
     ast: Tresparencia Internacional
     az: Transparency International
-    be-tarask: Transparency International
+    be_tarask: Transparency International
     bg: Прозрачност без граници
     bn: ট্রান্সপারেন্সি ইন্টারন্যাশনাল
     bs: Transparency International
@@ -132,11 +132,11 @@ dv_has_:
     ja: トランスペアレンシー・インターナショナル
     ka: საერთაშორისო გამჭვირვალობა
     kk: Transparency International ұйымы
-    kk-arab: Transparency International ۇيىمى
+    kk_arab: Transparency International ۇيىمى
     kk-cn: Transparency International ۇيىمى
-    kk-cyrl: Транспаренцy Ынтернатіонал ұйымы
+    kk_cyrl: Транспаренцy Ынтернатіонал ұйымы
     kk-kz: Транспаренцy Ынтернатіонал ұйымы
-    kk-latn: Transparency International uýımı
+    kk_latn: Transparency International uýımı
     kk-tr: Transparency International uýımı
     km: អង្គការតម្លាភាពអន្តរជាតិ
     ko: 국제 투명성 기구
@@ -171,14 +171,14 @@ dv_has_:
     vi: Tổ chức Minh bạch Quốc tế
     yue: 透明國際
     zh: 透明国际
-    zh-cn: 透明国际
-    zh-hans: 透明国际
-    zh-hant: 國際透明組織
-    zh-hk: 透明國際
-    zh-mo: 透明國際
+    zh_cn: 透明国际
+    zh_hans: 透明国际
+    zh_hant: 國際透明組織
+    zh_hk: 透明國際
+    zh_mo: 透明國際
     zh-my: 透明国际
-    zh-sg: 透明国际
-    zh-tw: 國際透明組織
+    zh_sg: 透明国际
+    zh_tw: 國際透明組織
 ---
 # [[Transparency_International]] 
 

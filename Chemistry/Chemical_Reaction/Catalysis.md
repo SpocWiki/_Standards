@@ -118,7 +118,7 @@ dv_has_:
     ar: تحفيز
     ast: Catálisis
     be: каталіз
-    be-tarask: каталіз
+    be_tarask: каталіз
     bg: Катализа
     bn: অনুঘটন
     bs: katalizator
@@ -128,11 +128,11 @@ dv_has_:
     cy: catalysis
     da: katalyse
     de: Katalyse
-    de-ch: Katalyse
+    de_ch: Katalyse
     el: κατάλυση
     en: catalysis
-    en-ca: Catalysis
-    en-gb: catalysis
+    en_ca: Catalysis
+    en_gb: catalysis
     eo: katalizo
     es: catálisis
     et: katalüüs
@@ -180,7 +180,7 @@ dv_has_:
     pl: kataliza
     pnb: عمل انگیز
     pt: catálise
-    pt-br: catálise
+    pt_br: catálise
     qu: Katalisachaq
     ro: cataliză
     ru: катализ
@@ -193,7 +193,7 @@ dv_has_:
     sn: Mhesvi
     sq: Katalizatori
     sr: Катализатор
-    sr-ec: Катализа
+    sr_ec: Катализа
     stq: Katalysator
     su: Katalis
     sv: katalys

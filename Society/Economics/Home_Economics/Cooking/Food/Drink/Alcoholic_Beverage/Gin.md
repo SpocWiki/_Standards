@@ -69,7 +69,7 @@ dv_has_:
     arz: جن
     ast: xinebra
     be: Джын
-    be-tarask: джын
+    be_tarask: джын
     bg: Джин
     bn: জিন (পানীয়)
     ca: ginebra
@@ -78,11 +78,11 @@ dv_has_:
     cy: jin
     da: gin
     de: Gin
-    de-ch: Gin
+    de_ch: Gin
     el: Τζιν
     en: gin
-    en-ca: Gin
-    en-gb: gin
+    en_ca: Gin
+    en_gb: gin
     eo: ĝino
     es: ginebra
     et: Džinn
@@ -120,7 +120,7 @@ dv_has_:
     oc: Gin
     pl: Gin
     pt: gim
-    pt-br: Gim
+    pt_br: Gim
     ro: gin
     ru: джин
     sco: gin
@@ -142,10 +142,10 @@ dv_has_:
     yue: 氈酒
     zh: 琴酒
     zh-cn: 金酒
-    zh-hk: 氈酒
+    zh_hk: 氈酒
     zh-my: 琴酒
-    zh-sg: 琴酒
-    zh-tw: 琴酒
+    zh_sg: 琴酒
+    zh_tw: 琴酒
 ---
 # [[Gin]]
 

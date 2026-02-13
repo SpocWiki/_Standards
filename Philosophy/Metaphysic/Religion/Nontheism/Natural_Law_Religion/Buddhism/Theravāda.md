@@ -90,7 +90,7 @@ dv_has_:
     bar: Theravada
     bcl: Theravada
     be: тхеравада
-    be-tarask: тгэравада
+    be_tarask: тгэравада
     bg: Теравада
     bho: थेरवाद
     blk: ထေရဝါဒ
@@ -172,8 +172,8 @@ dv_has_:
     sl: teravadski budizem
     sq: Theravada
     sr: тхеравада
-    sr-ec: Тхеравада
-    sr-el: Theravada
+    sr_ec: Тхеравада
+    sr_el: Theravada
     sv: Theravada
     ta: தேரவாத பௌத்தம்
     te: ధేరవాద బౌద్ధము
@@ -190,12 +190,12 @@ dv_has_:
     wuu: 上座部佛教
     yue: 南傳佛教
     zh: 上座部佛教
-    zh-cn: 上座部佛教
-    zh-hans: 上座部佛教
-    zh-hant: 上座部佛教
-    zh-hk: 上座部佛教
-    zh-sg: 上座部佛教
-    zh-tw: 上座部佛教
+    zh_cn: 上座部佛教
+    zh_hans: 上座部佛教
+    zh_hant: 上座部佛教
+    zh_hk: 上座部佛教
+    zh_sg: 上座部佛教
+    zh_tw: 上座部佛教
 ---
 # [[Theravāda]] 
 

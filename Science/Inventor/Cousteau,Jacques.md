@@ -140,7 +140,7 @@ dv_has_:
     az: Jak-İv Kusto
     ba: Кусто Жак-Ив
     be: Жак-Іў Кусто
-    be-tarask: Жак-Іў Кусто
+    be_tarask: Жак-Іў Кусто
     bg: Жак-Ив Кусто
     br: Jacques-Yves Cousteau
     bs: Jacques-Yves Cousteau
@@ -149,11 +149,11 @@ dv_has_:
     cy: Jacques-Yves Cousteau
     da: Jacques-Yves Cousteau
     de: Jacques-Yves Cousteau
-    de-ch: Jacques-Yves Cousteau
+    de_ch: Jacques-Yves Cousteau
     el: Ζακ-Ιβ Κουστώ
     en: Jacques Cousteau
-    en-ca: Jacques Cousteau
-    en-gb: Jacques Cousteau
+    en_ca: Jacques Cousteau
+    en_gb: Jacques Cousteau
     eo: Jacques-Yves Cousteau
     es: Jacques Cousteau
     et: Jacques-Yves Cousteau
@@ -199,7 +199,7 @@ dv_has_:
     pms: Jacques-Yves Cousteau
     ps: ژان اېف کوستو
     pt: Jacques-Yves Cousteau
-    pt-br: Jacques-Yves Cousteau
+    pt_br: Jacques-Yves Cousteau
     ro: Jacques-Yves Cousteau
     ru: Жак-Ив Кусто
     sco: Jacques Cousteau

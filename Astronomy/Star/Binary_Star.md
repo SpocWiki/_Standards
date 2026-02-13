@@ -132,7 +132,7 @@ dv_has_:
     ast: estrella binaria
     az: qoşa ulduz
     be: падвойныя зоркі
-    be-tarask: падвойная зорка
+    be_tarask: падвойная зорка
     bg: Двойна звезда
     bn: যুগ্ম তারা
     bs: dvostruka zvijezda
@@ -142,11 +142,11 @@ dv_has_:
     cy: seren ddwbl
     da: dobbeltstjerne
     de: physischer Doppelstern
-    de-ch: Doppelstern
+    de_ch: Doppelstern
     el: διπλός αστέρας
     en: binary star
-    en-ca: Binary star
-    en-gb: binary star
+    en_ca: Binary star
+    en_gb: binary star
     en-us: binary star
     eo: duopa stelo
     es: estrella binaria
@@ -196,15 +196,15 @@ dv_has_:
     pl: gwiazda podwójna
     pnb: دوہرا تارہ
     pt: estrela binária
-    pt-br: estrela binária
+    pt_br: estrela binária
     ro: stea binară
     ru: двойная звезда
     sh: Dvojne i višestruke zvijezde
     sk: Dvojhviezda
     sl: fizična dvojna zvezda
     sr: двојна звезда
-    sr-ec: двојна звезда
-    sr-el: dvojna zvezda
+    sr_ec: двојна звезда
+    sr_el: dvojna zvezda
     su: Béntang ganda
     sv: dubbelstjärna
     sw: Nyota pacha

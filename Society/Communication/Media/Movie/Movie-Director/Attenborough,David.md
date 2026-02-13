@@ -48,7 +48,7 @@ dv_has_:
     ban: David Attenborough
     bar: David Attenborough
     be: Дэвід Атэнбора
-    be-tarask: Дэйвід Атэнбара
+    be_tarask: Дэйвід Атэнбара
     bg: Дейвид Атънбъро
     bm: David Attenborough
     bn: ডেভিড অ্যাটনবারা
@@ -62,11 +62,11 @@ dv_has_:
     da: David Attenborough
     de: David Attenborough
     de-at: David Attenborough
-    de-ch: David Attenborough
+    de_ch: David Attenborough
     el: Ντέιβιντ Άτονμπρα
     en: David Attenborough
-    en-ca: David Attenborough
-    en-gb: David Attenborough
+    en_ca: David Attenborough
+    en_gb: David Attenborough
     eo: David Attenborough
     es: David Attenborough
     et: David Attenborough
@@ -116,7 +116,7 @@ dv_has_:
     nap: David Attenborough
     nb: David Attenborough
     nds: David Attenborough
-    nds-nl: David Attenborough
+    nds_nl: David Attenborough
     nl: David Attenborough
     nn: David Attenborough
     nrm: David Attenborough
@@ -128,7 +128,7 @@ dv_has_:
     pnb: ڈیوڈ ایٹن برا
     prg: David Attenborough
     pt: David Attenborough
-    pt-br: David Attenborough
+    pt_br: David Attenborough
     rgn: David Attenborough
     rm: David Attenborough
     ro: David Attenborough
@@ -142,7 +142,7 @@ dv_has_:
     sl: David Attenborough
     sq: David Attenborough
     sr: Дејвид Атенборо
-    sr-el: David Attenborough
+    sr_el: David Attenborough
     sv: David Attenborough
     sw: David Attenborough
     szl: David Attenborough
@@ -166,12 +166,12 @@ dv_has_:
     yo: David Attenborough
     yue: 大衛艾登堡
     zh: 戴維·阿滕伯勒
-    zh-cn: 大卫·艾登堡
-    zh-hans: 大卫·爱登堡
-    zh-hant: 大衛·艾登伯祿
-    zh-hk: 大衛·愛登堡
-    zh-sg: 大卫·艾登堡
-    zh-tw: 大衛·艾登伯祿
+    zh_cn: 大卫·艾登堡
+    zh_hans: 大卫·爱登堡
+    zh_hant: 大衛·艾登伯祿
+    zh_hk: 大衛·愛登堡
+    zh_sg: 大卫·艾登堡
+    zh_tw: 大衛·艾登伯祿
     zu: David Attenborough
 ---
 #has_/time_/started :: 1926-05-08 

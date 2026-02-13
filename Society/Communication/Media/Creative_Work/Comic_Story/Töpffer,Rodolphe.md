@@ -28,11 +28,11 @@ dv_has_:
     cs: Rodolphe Töpffer
     da: Rodolphe Töpffer
     de: Rodolphe Töpffer
-    de-ch: Rodolphe Töpffer
+    de_ch: Rodolphe Töpffer
     el: Ροντόλφ Τέπφερ
     en: Rodolphe Töpffer
-    en-ca: Rodolphe Töpffer
-    en-gb: Rodolphe Töpffer
+    en_ca: Rodolphe Töpffer
+    en_gb: Rodolphe Töpffer
     eo: Rodolphe Töpffer
     es: Rodolphe Töpffer
     et: Rodolphe Töpffer
@@ -59,7 +59,7 @@ dv_has_:
     oc: Rodolphe Töpffer
     pl: Rodolphe Töpffer
     pt: Rodolphe Töpffer
-    pt-br: Rodolphe Töpffer
+    pt_br: Rodolphe Töpffer
     rm: Rodolphe Töpffer
     ru: Родольф Тёпфер
     sh: Rodolphe Töpffer
@@ -68,9 +68,9 @@ dv_has_:
     sv: Rodolphe Töpffer
     tr: Rodolphe Töpffer
     zh: 鲁道夫·托普佛
-    zh-cn: 鲁道夫·托普佛
-    zh-hans: 鲁道夫·托普佛
-    zh-hant: 魯道夫·托普佛
+    zh_cn: 鲁道夫·托普佛
+    zh_hans: 鲁道夫·托普佛
+    zh_hant: 魯道夫·托普佛
 ---
 #is_/same_as :: 
 

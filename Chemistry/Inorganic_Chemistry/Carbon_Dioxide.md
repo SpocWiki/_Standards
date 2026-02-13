@@ -252,7 +252,7 @@ dv_has_:
     ban: Karbon dioksida
     bcl: Karbon dioksido
     be: дыяксід вугляроду
-    be-tarask: дыяксыд вугляроду
+    be_tarask: дыяксыд вугляроду
     bg: Въглероден диоксид
     bho: कार्बन डाइआक्साइड
     bn: কার্বন ডাই অক্সাইড
@@ -267,12 +267,12 @@ dv_has_:
     cy: carbon deuocsid
     da: kuldioxid
     de: Kohlenstoffdioxid
-    de-ch: Kohlenstoffdioxid
+    de_ch: Kohlenstoffdioxid
     dsb: Wuglikowy dioksid
     el: διοξείδιο του άνθρακα
     en: carbon dioxide
-    en-ca: Carbon dioxide
-    en-gb: carbon dioxide
+    en_ca: Carbon dioxide
+    en_gb: carbon dioxide
     eo: karbona dioksido
     es: dióxido de carbono
     et: süsihappegaas
@@ -329,7 +329,7 @@ dv_has_:
     ml: കാർബൺ ഡയോക്സൈഡ്
     mr: कार्बन डायॉक्साइड
     ms: karbon dioksida
-    ms-arab: کربون ديوکسيدا
+    ms_arab: کربون ديوکسيدا
     my: ကာဗွန်ဒိုင်အောက်ဆိုက်
     nan: Jī-sng-hòa thòaⁿ-sò͘
     nb: karbondioksid
@@ -347,7 +347,7 @@ dv_has_:
     pnb: کاربن ڈائی آکسائڈ
     ps: کـاربن ډای اکسايد
     pt: dióxido de carbono
-    pt-br: dióxido de carbono
+    pt_br: dióxido de carbono
     qu: Chimlasay
     ro: Dioxid de carbon
     ru: оксид углерода(IV)
@@ -393,14 +393,14 @@ dv_has_:
     yue: 二氧化碳
     za: Ngeihyangjvaqdanq
     zh: 二氧化碳
-    zh-cn: 二氧化碳
-    zh-hans: 二氧化碳
-    zh-hant: 二氧化碳
-    zh-hk: 二氧化碳
-    zh-mo: 二氧化碳
+    zh_cn: 二氧化碳
+    zh_hans: 二氧化碳
+    zh_hant: 二氧化碳
+    zh_hk: 二氧化碳
+    zh_mo: 二氧化碳
     zh-my: 二氧化碳
-    zh-sg: 二氧化碳
-    zh-tw: 二氧化碳
+    zh_sg: 二氧化碳
+    zh_tw: 二氧化碳
     zu: Carbon dioxide
 dv_is_:
   same_as:

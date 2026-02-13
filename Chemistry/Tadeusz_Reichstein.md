@@ -126,7 +126,7 @@ dv_has_:
     ast: Tadeus Reichstein
     azb: فیلیپ هنچ
     be: Тадэвуш Рэйхштэйн
-    be-tarask: Тадэвуш Райхштайн
+    be_tarask: Тадэвуш Райхштайн
     bg: Тадеуш Райхщайн
     bn: তাদেউস রাইখস্টেইন
     ca: Tadeusz Reichstein
@@ -168,7 +168,7 @@ dv_has_:
     pl: Tadeusz Reichstein
     pnb: ٹیڈیوس ریشسٹائن
     pt: Tadeusz Reichstein
-    pt-br: Tadeusz Reichstein
+    pt_br: Tadeusz Reichstein
     rm: Tadeus Reichstein
     ro: Tadeusz Reichstein
     ru: Тадеуш Рейхштейн
@@ -177,7 +177,7 @@ dv_has_:
     sl: Tadeus Reichstein
     sq: Tadeusz Reichstein
     sr: Тадеуш Риштејн
-    sr-ec: Тадеуш Риштејн
+    sr_ec: Тадеуш Риштејн
     sv: Tadeus Reichstein
     sw: Tadeus Reichstein
     th: ทาเดอุช ไรช์ชไตน์
@@ -192,12 +192,12 @@ dv_has_:
     yo: Tadeus Reichstein
     yue: 塔德烏什·賴希施泰因
     zh: 塔德乌什·赖希施泰因
-    zh-cn: 塔德乌什·赖希施泰因
-    zh-hans: 塔德乌什·赖希施泰因
-    zh-hant: 塔德烏什·賴希施泰因
-    zh-hk: 塔德烏什·賴希施泰因
-    zh-sg: 塔德乌什·赖希施泰因
-    zh-tw: 塔德烏什·賴希施泰因
+    zh_cn: 塔德乌什·赖希施泰因
+    zh_hans: 塔德乌什·赖希施泰因
+    zh_hant: 塔德烏什·賴希施泰因
+    zh_hk: 塔德烏什·賴希施泰因
+    zh_sg: 塔德乌什·赖希施泰因
+    zh_tw: 塔德烏什·賴希施泰因
 ---
 # [[Tadeusz_Reichstein]] 
 

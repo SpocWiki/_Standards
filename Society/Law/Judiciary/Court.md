@@ -152,7 +152,7 @@ dv_has_:
     azb: محکمه
     ba: суд
     be: суд
-    be-tarask: суд
+    be_tarask: суд
     bg: съд
     bn: বিচারিক আদালত
     br: Lez-varn
@@ -167,12 +167,12 @@ dv_has_:
     da: domstol
     de: Gericht
     de-at: Gericht
-    de-ch: Gericht
+    de_ch: Gericht
     diq: Mehkeme
     el: Δικαστήριο
     en: court
-    en-ca: court
-    en-gb: court
+    en_ca: court
+    en_gb: court
     eo: tribunalo
     es: tribunal de justicia
     et: kohus
@@ -221,7 +221,7 @@ dv_has_:
     ml: കോടതി
     mr: न्यायालय
     ms: mahkamah
-    ms-arab: محکمه
+    ms_arab: محکمه
     mt: qorti
     my: တရားရုံးများ
     nan: Hoat-īⁿ
@@ -236,7 +236,7 @@ dv_has_:
     pnb: عدالت
     ps: نياوتون
     pt: tribunal
-    pt-br: tribunal
+    pt_br: tribunal
     qu: Taripay suntur
     rmf: dömmako beȟȟiba
     ro: instanță
@@ -259,8 +259,8 @@ dv_has_:
     sms: duõmmišttâm
     sq: gjykatë
     sr: суд
-    sr-ec: суд
-    sr-el: sud
+    sr_ec: суд
+    sr_el: sud
     sv: domstol
     szl: gyricht
     szy: huing
@@ -283,14 +283,14 @@ dv_has_:
     yi: געריכט
     yue: 法院
     zh: 法院
-    zh-cn: 法院
-    zh-hans: 法院
-    zh-hant: 法院
-    zh-hk: 法院
-    zh-mo: 法院
+    zh_cn: 法院
+    zh_hans: 法院
+    zh_hant: 法院
+    zh_hk: 法院
+    zh_mo: 法院
     zh-my: 法院
-    zh-sg: 法院
-    zh-tw: 法院
+    zh_sg: 法院
+    zh_tw: 法院
 ---
 # [[Court]] 
 

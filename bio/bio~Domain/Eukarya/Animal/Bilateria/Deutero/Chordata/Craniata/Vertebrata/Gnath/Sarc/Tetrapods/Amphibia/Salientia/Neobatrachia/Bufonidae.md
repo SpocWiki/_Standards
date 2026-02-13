@@ -80,7 +80,7 @@ dv_has_:
     ba: Әрмәнделәр
     ban: Dongkang
     be: Рапухі
-    be-tarask: рапухі
+    be_tarask: рапухі
     bg: Крастави жаби
     br: Bufonidae
     ca: Bufònid
@@ -89,11 +89,11 @@ dv_has_:
     cv: Ҫӗр шаписем
     da: Tudser
     de: Kröten
-    de-ch: Kröten
+    de_ch: Kröten
     el: Bufonidae
     en: Bufonidae
-    en-ca: the true toads
-    en-gb: the true toads
+    en_ca: the true toads
+    en_gb: the true toads
     eo: Bufonedoj
     es: Bufonidae
     et: Kärnkonlased
@@ -142,7 +142,7 @@ dv_has_:
     pl: ropuchowate
     ps: کانټار
     pt: Bufonidae
-    pt-br: Bufonidae
+    pt_br: Bufonidae
     qu: Hamp'atu
     ro: Bufonide
     ru: Жабы
@@ -164,9 +164,9 @@ dv_has_:
     wuu: 蟾蜍科
     xh: Ixoxo
     zh: 蟾蜍科
-    zh-cn: 蟾蜍科
-    zh-hans: 蟾蜍科
-    zh-tw: 蟾蜍科
+    zh_cn: 蟾蜍科
+    zh_hans: 蟾蜍科
+    zh_tw: 蟾蜍科
     zu: Ixoxo
 ---
 # [[Bufonidae]]

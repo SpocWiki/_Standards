@@ -103,7 +103,7 @@ dv_has_:
     azb: آت کیمیلر
     ba: Ат һымаҡтар
     be: коневыя
-    be-tarask: Коневыя
+    be_tarask: Коневыя
     bg: коне
     bn: অশ্ব
     br: Equidae
@@ -166,7 +166,7 @@ dv_has_:
     mul: Equidae
     nb: hestefamilien
     nds: Equidae
-    nds-nl: Equidae
+    nds_nl: Equidae
     nl: paardachtigen
     nn: hestefamilien
     nv: Łį́į́ʼ Ndahalinígíí
@@ -175,7 +175,7 @@ dv_has_:
     pms: Equidae
     pnb: گھوڑا ٹبر
     pt: Equidae
-    pt-br: Equidae
+    pt_br: Equidae
     ro: Ecvide
     ru: лошадиные
     sah: Аттыҥылар
@@ -186,8 +186,8 @@ dv_has_:
     sl: konji
     sq: Equidae
     sr: коњи
-    sr-ec: Коњи
-    sr-el: Konji
+    sr_ec: Коњи
+    sr_el: Konji
     sv: Hästdjur
     ta: குதிரைக் குடும்பம்
     te: ఈక్విడే
@@ -206,12 +206,12 @@ dv_has_:
     xmf: ცხენიშობურეფი
     yue: 馬科
     zh: 马科
-    zh-cn: 马科
-    zh-hans: 马科
-    zh-hant: 馬科
-    zh-hk: 馬科
-    zh-sg: 马科
-    zh-tw: 馬科
+    zh_cn: 马科
+    zh_hans: 马科
+    zh_hant: 馬科
+    zh_hk: 馬科
+    zh_sg: 马科
+    zh_tw: 馬科
 ---
 # [[Equidae]] 
 

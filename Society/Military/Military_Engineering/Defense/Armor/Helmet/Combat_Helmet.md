@@ -64,7 +64,7 @@ dv_has_:
     ast: Yelmu
     az: Zirehli dəbilqə
     be: шлем
-    be-tarask: шалом
+    be_tarask: шалом
     bg: Бойна каска
     bn: সামরিক হেলমেট
     ca: elm
@@ -92,14 +92,14 @@ dv_has_:
     pl: hełm
     pms: Elmet da combatiment
     pt: Capacete de combate
-    pt-br: Capacete de combate
+    pt_br: Capacete de combate
     ru: шлем
     sk: vojenská prilba
     sl: bojna čelada
     sq: helmetë luftarake
     sr: борбени шлем
-    sr-ec: борбени шлем
-    sr-el: borbeni šlem
+    sr_ec: борбени шлем
+    sr_el: borbeni šlem
     sv: militärhjälm
     ta: போர்க்களத் தலைக்கவசம்
     th: หมวกต่อสู้

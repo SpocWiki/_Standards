@@ -254,7 +254,7 @@ dv_has_:
     azb: مالاریا
     ba: Малярия
     be: малярыя
-    be-tarask: малярыя
+    be_tarask: малярыя
     bg: Малария
     bho: मलेरिया
     bn: ম্যালেরিয়া
@@ -345,7 +345,7 @@ dv_has_:
     mnc: ᡳᠨᡩᡝᡥᡝᠨ
     mr: मलेरिया
     ms: malaria
-    ms-arab: مالاريا
+    ms_arab: مالاريا
     mt: malarja
     my: ငှက်ဖျားရောဂါ
     nan: ma-lá-lí-á
@@ -388,7 +388,7 @@ dv_has_:
     so: malaariyo
     sq: malaria
     sr: маларија
-    sr-ec: маларија
+    sr_ec: маларија
     su: malaria
     sv: malaria
     sw: malaria
@@ -421,9 +421,9 @@ dv_has_:
     yue: 發冷
     za: binghfatnit
     zh: 疟疾
-    zh-cn: 疟疾
-    zh-hans: 疟疾
-    zh-hant: 瘧疾
+    zh_cn: 疟疾
+    zh_hans: 疟疾
+    zh_hant: 瘧疾
     zu: umalaleveva
 ---
 # [[Malaria]] 

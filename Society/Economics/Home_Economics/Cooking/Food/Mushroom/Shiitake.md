@@ -100,7 +100,7 @@ dv_has_:
     ast: Lentinula edodes
     az: Şitake
     ban: oong hioko
-    be-tarask: шыітаке
+    be_tarask: шыітаке
     bg: Шиитаке
     ca: xiitake
     cdo: Hiŏng-gŭ
@@ -108,11 +108,11 @@ dv_has_:
     cs: houževnatec jedlý
     da: shiitake
     de: Shiitake
-    de-ch: Shiitake
+    de_ch: Shiitake
     el: Σιτάκε
     en: Lentinula edodes
-    en-ca: Shiitake
-    en-gb: shiitake mushroom
+    en_ca: Shiitake
+    en_gb: shiitake mushroom
     en-us: Lentinula edodes
     eo: ŝitako
     es: Lentinula edodes
@@ -151,7 +151,7 @@ dv_has_:
     oc: Lentinula edodes
     pl: grzyby shiitake
     pt: shiitake
-    pt-br: Shiitake
+    pt_br: Shiitake
     ro: Lentinula edodes
     ru: шиитаке
     sk: Húževnatec jedlý
@@ -171,11 +171,11 @@ dv_has_:
     za: Raetnae
     zh: 香菇
     zh-cn: 香菇
-    zh-hans: 香菇
-    zh-hant: 香菇
-    zh-hk: 香菇
-    zh-sg: 香菇
-    zh-tw: 香菇
+    zh_hans: 香菇
+    zh_hant: 香菇
+    zh_hk: 香菇
+    zh_sg: 香菇
+    zh_tw: 香菇
 ---
 # [[Shiitake]] 
 

@@ -37,7 +37,7 @@ dv_has_:
     de: Viktimisierung
     el: θυματοποίηση
     en: victimisation
-    en-gb: victimisation
+    en_gb: victimisation
     eo: viktimiĝo
     es: victimización
     fa: قربانیسازی

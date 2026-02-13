@@ -79,14 +79,14 @@ dv_has_:
     ba: Хайку
     bar: Haiku
     be: хайку
-    be-tarask: хайку
+    be_tarask: хайку
     bg: Хайку
     bi: Haiku
     bn: হাইকু
     bo: ཧའི་གུ།
     br: Haiku
     ca: haiku
-    cbk-zam: Haiku
+    cbk_zam: Haiku
     ckb: ھایکوو
     cs: haiku
     cu: Хаикоу
@@ -140,7 +140,7 @@ dv_has_:
     ms: Haiku
     my: ဟိုက်ခု
     nb: haiku
-    nds-nl: haiku
+    nds_nl: haiku
     ne: हाइकु
     nl: haiku
     nn: haiku
@@ -182,8 +182,8 @@ dv_has_:
     wuu: 俳句
     yue: 俳句
     zh: 俳句
-    zh-hans: 俳句
-    zh-hant: 俳句
+    zh_hans: 俳句
+    zh_hant: 俳句
 ---
 # [[Haiku]] 
 

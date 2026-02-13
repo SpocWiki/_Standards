@@ -68,16 +68,16 @@ dv_has_:
     ar: إعصار بولا ألف وتسعمية وحزق وش
     ast: Ciclón Bhola
     az: Bhola siklonu
-    be-tarask: Бголаўскі цыклён 1970 году
+    be_tarask: Бголаўскі цыклён 1970 году
     bn: ১৯৭০ ভোলা ঘূর্ণিঝড়
     ca: cicló Bhola de 1970
     cs: Cyklón Bhola
     de: Zyklon in Ostpakistan 1970
-    de-ch: Zyklon in Ostpakistan 1970
+    de_ch: Zyklon in Ostpakistan 1970
     el: Κυκλώνας Μπόλα
     en: 1970 Bhola cyclone
-    en-ca: 1970 Bhola cyclone
-    en-gb: 1970 Bhola cyclone
+    en_ca: 1970 Bhola cyclone
+    en_gb: 1970 Bhola cyclone
     es: Ciclón Bhola
     eu: 1970eko Bhola zikloia
     fa: چرخند ۱۹۷۰ بهولا
@@ -99,7 +99,7 @@ dv_has_:
     oc: Ciclòn Bhola
     pl: Cyklon Bhola
     pt: Ciclone de Bhola de 1970
-    pt-br: Ciclone de Bhola de 1970
+    pt_br: Ciclone de Bhola de 1970
     ro: Ciclonul Bhola
     ru: Циклон Бхола
     sl: Ciklon v Bholi

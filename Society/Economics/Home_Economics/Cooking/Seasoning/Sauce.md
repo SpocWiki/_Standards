@@ -115,7 +115,7 @@ dv_has_:
     ba: соус
     bcl: Sarsa
     be: соус
-    be-tarask: соўс
+    be_tarask: соўс
     bew: caos
     bg: сос
     bn: সস
@@ -128,11 +128,11 @@ dv_has_:
     cy: saws
     da: sovs
     de: Soße
-    de-ch: Sauce
+    de_ch: Sauce
     el: σάλτσα
     en: sauce
-    en-ca: Sauce
-    en-gb: sauce
+    en_ca: Sauce
+    en_gb: sauce
     eo: saŭco
     es: salsa
     et: kaste
@@ -160,19 +160,19 @@ dv_has_:
     jv: saos
     ka: საწებელი
     kk: соус
-    kk-arab: سوۋس
+    kk_arab: سوۋس
     kk-cn: سوۋس
-    kk-cyrl: соус
+    kk_cyrl: соус
     kk-kz: соус
-    kk-latn: sows
+    kk_latn: sows
     kk-tr: sows
     km: ទឹកជ្រលក់
     kn: ಸಾಸ್
     ko: 소스
     ks: سوس
     ku: çênc
-    ku-arab: چێنج
-    ku-latn: çênc
+    ku_arab: چێنج
+    ku_latn: çênc
     ky: соус
     la: ius cibarius
     lb: Zooss
@@ -197,7 +197,7 @@ dv_has_:
     pl: sos
     pms: bagna
     pt: molho
-    pt-br: molho
+    pt_br: molho
     qu: salsa
     ro: sos
     ru: соус
@@ -210,8 +210,8 @@ dv_has_:
     so: suugo
     sq: salcë
     sr: сос
-    sr-ec: сос
-    sr-el: sos
+    sr_ec: сос
+    sr_el: sos
     srn: sowsu
     sv: sås
     szl: zōuza
@@ -232,12 +232,12 @@ dv_has_:
     wuu: 酱汁
     yue: 醬汁
     zh: 醬
-    zh-cn: 酱
-    zh-hans: 酱
-    zh-hant: 醬
-    zh-hk: 醬
-    zh-sg: 酱
-    zh-tw: 醬
+    zh_cn: 酱
+    zh_hans: 酱
+    zh_hant: 醬
+    zh_hk: 醬
+    zh_sg: 酱
+    zh_tw: 醬
 ---
 # [[Sauce]] 
 

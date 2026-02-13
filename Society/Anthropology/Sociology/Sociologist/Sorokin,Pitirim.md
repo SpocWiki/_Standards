@@ -92,7 +92,7 @@ dv_has_:
     az: Pitirim Sorokin
     azb: پیتیریم سوروکین
     be: Піцірым Аляксандравіч Сарокін
-    be-tarask: Піцірым Сарокін
+    be_tarask: Піцірым Сарокін
     bg: Питирим Сорокин
     ca: Pitirim Sorokin
     cs: Pitirim Sorokin
@@ -120,11 +120,11 @@ dv_has_:
     ka: პიტირიმ სოროკინი
     kaa: Pitirim Sorokin
     kk: Питирим Сорокин
-    kk-arab: پىيتىيرىيم سوروكىين
+    kk_arab: پىيتىيرىيم سوروكىين
     kk-cn: پىيتىيرىيم سوروكىين
-    kk-cyrl: Питирим Сорокин
+    kk_cyrl: Питирим Сорокин
     kk-kz: Питирим Сорокин
-    kk-latn: Pïtïrïm Sorokïn
+    kk_latn: Pïtïrïm Sorokïn
     kk-tr: Pïtïrïm Sorokïn
     ko: 피티림 소로킨
     kv: Сорокин Питирим Александрович
@@ -138,7 +138,7 @@ dv_has_:
     pap: Pitirim Sorokin
     pl: Pitirim Sorokin
     pt: Pitirim Sorokin
-    pt-br: Pitirim Sorokin
+    pt_br: Pitirim Sorokin
     ru: Питирим Сорокин
     sk: Pitirim Alexandrovič Sorokin
     sl: Pitirim Sorokin
@@ -154,9 +154,9 @@ dv_has_:
     yo: Pitirim Sorokin
     yue: 皮特林·索羅金
     zh: 人民報 (捷克)
-    zh-cn: 皮特林·索罗金
-    zh-hans: 皮季里姆·索罗金
-    zh-hant: 皮特林·索羅金
+    zh_cn: 皮特林·索罗金
+    zh_hans: 皮季里姆·索罗金
+    zh_hant: 皮特林·索羅金
 ---
 # [[Sorokin,Pitirim]] 
 

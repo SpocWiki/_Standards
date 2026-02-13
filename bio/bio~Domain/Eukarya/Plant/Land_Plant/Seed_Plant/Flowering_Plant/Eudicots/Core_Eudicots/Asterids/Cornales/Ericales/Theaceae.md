@@ -79,7 +79,7 @@ dv_has_:
     ast: Theaceae
     az: Çaykimilər
     azb: چای کیمیلر
-    be-tarask: чайныя
+    be_tarask: чайныя
     bg: чаеви
     bs: Theaceae
     ca: teàcies
@@ -124,7 +124,7 @@ dv_has_:
     oc: Theaceae
     pl: Herbatowate
     pt: Theaceae
-    pt-br: Theaceae
+    pt_br: Theaceae
     ro: Theaceae
     ru: Чайные
     sco: Theaceae
@@ -144,12 +144,12 @@ dv_has_:
     wuu: 山茶科
     yue: 山茶科
     zh: 山茶科
-    zh-cn: 山茶科
-    zh-hans: 山茶科
-    zh-hant: 山茶科
-    zh-hk: 山茶科
-    zh-sg: 山茶科
-    zh-tw: 山茶科
+    zh_cn: 山茶科
+    zh_hans: 山茶科
+    zh_hant: 山茶科
+    zh_hk: 山茶科
+    zh_sg: 山茶科
+    zh_tw: 山茶科
 ---
 # [[Theaceae]] 
 

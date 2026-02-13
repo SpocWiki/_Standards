@@ -144,7 +144,7 @@ dv_has_:
     az: Yırtıcılar
     azb: ییٛرتیجیلار
     be: драпежныя
-    be-tarask: драпежныя
+    be_tarask: драпежныя
     bg: хищници
     bn: শ্বাপদ বর্গ
     bpy: মাহুখাকুরা
@@ -157,14 +157,14 @@ dv_has_:
     cy: Ysglyfaethwr
     da: rovpattedyr
     de: Raubtiere
-    de-ch: Raubtiere
+    de_ch: Raubtiere
     diq: Goştweri
     dsb: Rubjažne zwěrjeta
     dz: گوشتخوارسانان
     el: Σαρκοφάγα
     en: Carnivora
-    en-ca: Carnivora
-    en-gb: carnivora
+    en_ca: Carnivora
+    en_gb: carnivora
     eo: Karnomanĝuloj
     es: carnívoros
     et: kiskjalised
@@ -230,7 +230,7 @@ dv_has_:
     pnb: ماس کھانے
     ps: غوښه خوړونکي
     pt: carnívoros
-    pt-br: carnívoros
+    pt_br: carnívoros
     qu: Aycha uquq ñuñuq
     ro: Carnivore
     ru: хищные
@@ -266,10 +266,10 @@ dv_has_:
     yue: 食肉目
     zea: Roofdier'n
     zh: 食肉目
-    zh-cn: 食肉目
-    zh-hans: 食肉目
-    zh-hant: 食肉目
-    zh-tw: 食肉目
+    zh_cn: 食肉目
+    zh_hans: 食肉目
+    zh_hant: 食肉目
+    zh_tw: 食肉目
 ---
 # [[Carnivora]]
 

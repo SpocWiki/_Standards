@@ -57,7 +57,7 @@ dv_has_:
     ar: هندسة الزلازل
     ast: Inxeniería sísmica
     be: сейсматрываласць будаўніцтва
-    be-tarask: сэйсматрывалае будаўніцтва
+    be_tarask: сэйсматрывалае будаўніцтва
     bg: Сеизмично инженерство
     ca: enginyeria antisísmica
     ckb: ئەندازیاریی بوومەلەرزە
@@ -97,9 +97,9 @@ dv_has_:
     wuu: 地震工程
     yue: 地震工程
     zh: 地震工程
-    zh-hans: 地震工程
-    zh-hant: 地震工程
-    zh-hk: 地震工程
+    zh_hans: 地震工程
+    zh_hant: 地震工程
+    zh_hk: 地震工程
 ---
 # [[Earthquake_engineering]]
 

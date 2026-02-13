@@ -64,9 +64,9 @@ dv_has_:
     tr: Mie saçılma
     uk: розсіювання світла сферичною частинкою
     zh: 米氏散射
-    zh-hans: 米氏散射
-    zh-hant: 米氏散射
-    zh-hk: 米氏散射
+    zh_hans: 米氏散射
+    zh_hant: 米氏散射
+    zh_hk: 米氏散射
 ---
 # [[Mie_Scattering]] 
 

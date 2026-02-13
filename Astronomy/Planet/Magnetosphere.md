@@ -86,7 +86,7 @@ dv_has_:
     ast: Magnetosfera
     az: Maqnitosfer
     be: Магнітасфера
-    be-tarask: магнітасфэра
+    be_tarask: магнітасфэра
     bg: Магнитосфера
     bn: চৌম্বকমন্ডল
     bs: Magnetosfera
@@ -96,8 +96,8 @@ dv_has_:
     de: Magnetosphäre
     el: Μαγνητόσφαιρα
     en: magnetosphere
-    en-ca: Magnetosphere
-    en-gb: magnetosphere
+    en_ca: Magnetosphere
+    en_gb: magnetosphere
     eo: magnetosfero
     es: magnetosfera
     et: magnetosfäär
@@ -134,7 +134,7 @@ dv_has_:
     os: магнитосферæ
     pl: Magnetosfera
     pt: magnetosfera
-    pt-br: Magnetosfera
+    pt_br: Magnetosfera
     ro: magnetosferă
     ru: магнитосфера
     se: magnetosfeara
@@ -157,8 +157,8 @@ dv_has_:
     wuu: 磁层
     yue: 磁層
     zh: 磁层
-    zh-cn: 磁气圈
-    zh-hant: 磁氣圈
+    zh_cn: 磁气圈
+    zh_hant: 磁氣圈
 ---
 # [[Magnetosphere]] 
 

@@ -177,7 +177,7 @@ dv_has_:
     azb: سو دؤورانی
     ba: Тәбиғәттә һыу әйләнеше
     be: Кругазварот вады
-    be-tarask: кругазварот вады
+    be_tarask: кругазварот вады
     bg: Кръговрат на водата
     bn: পানিচক্র
     bo: ཆུ་ཁམས་འཁོར་སྐྱོད།
@@ -251,7 +251,7 @@ dv_has_:
     pms: Cicl ëd l'eva
     ps: د اوبو جريان (د ابو څرخ)
     pt: ciclo hidrológico
-    pt-br: ciclo da água
+    pt_br: ciclo da água
     qu: Yaku muyuriy
     ro: ciclul apei
     ru: Круговорот воды в природе
@@ -285,7 +285,7 @@ dv_has_:
     yue: 水循環
     zgh: ⵜⴰⵥⴰⵢⵕⵜ ⵏ ⵡⴰⵎⴰⵏ
     zh: 水循环
-    zh-tw: 水循環
+    zh_tw: 水循環
 ---
 # [[Earth_water_cycle]]
 

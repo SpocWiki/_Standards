@@ -92,7 +92,7 @@ dv_has_:
     pap: Kathryn Bigelow
     pl: Kathryn Bigelow
     pt: Kathryn Bigelow
-    pt-br: Kathryn Bigelow
+    pt_br: Kathryn Bigelow
     ro: Kathryn Bigelow
     ru: Кэтрин Бигелоу
     sco: Kathryn Bigelow
@@ -113,7 +113,7 @@ dv_has_:
     xmf: კეთრინ ბიგელოუ
     yue: 嘉芙蓮碧格露
     zh: 凯瑟琳·毕格罗
-    zh-hk: 嘉芙蓮碧格露
+    zh_hk: 嘉芙蓮碧格露
     zh-my: 嘉芙莲·碧格露
 ---
 # [[Bigelow,Kathryn]] 

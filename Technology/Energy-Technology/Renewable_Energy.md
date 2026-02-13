@@ -152,7 +152,7 @@ dv_has_:
     az: bərpa olunan enerji
     ba: Тулыланыусы энергия
     be: аднаўляльная энергія
-    be-tarask: аднаўляльная энэргія
+    be_tarask: аднаўляльная энэргія
     bg: Възобновяема енергия
     bn: নবায়নযোগ্য শক্তি
     br: energiezh nevezadus
@@ -215,7 +215,7 @@ dv_has_:
     mn: Сэргээгдэх эрчим хүч
     mr: अपारंपरिक ऊर्जास्रोत
     ms: tenaga boleh diperbaharui
-    ms-arab: تناݢ بوليه دڤربهاروءي
+    ms_arab: تناݢ بوليه دڤربهاروءي
     my: အစားထိုးစွမ်းအင်
     nan: Thang-chài-seng lêng-goân
     nb: fornybar energi
@@ -231,7 +231,7 @@ dv_has_:
     pnb: رینیوایبل انرجی
     ps: د تجدید وړ انرژي
     pt: energia renovável
-    pt-br: energia renovável
+    pt_br: energia renovável
     qu: Kutipayaq micha
     ro: energie regenerabilă
     ru: возобновляемая энергия
@@ -272,14 +272,14 @@ dv_has_:
     yue: 可再生能源
     zgh: ⵜⴰⵥⴹⴰⵕⵜ ⵉⵜⵜⵓⵙⵎⴰⵢⵏⵓⵏ
     zh: 可再生能源
-    zh-cn: 可再生能源
-    zh-hans: 可再生能源
-    zh-hant: 可再生能源
-    zh-hk: 可再生能源
-    zh-mo: 可再生能源
+    zh_cn: 可再生能源
+    zh_hans: 可再生能源
+    zh_hant: 可再生能源
+    zh_hk: 可再生能源
+    zh_mo: 可再生能源
     zh-my: 可再生能源
-    zh-sg: 可再生能源
-    zh-tw: 可再生能源
+    zh_sg: 可再生能源
+    zh_tw: 可再生能源
     zu: Isidlakalasi esivuselelekayo
 ---
 # [[Renewable_Energy]] 

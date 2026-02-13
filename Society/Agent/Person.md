@@ -145,7 +145,7 @@ dv_has_:
     ba: шәхес
     bdr: jomo
     be: асоба
-    be-tarask: асоба
+    be_tarask: асоба
     bg: личност
     bn: ব্যক্তি
     br: Den
@@ -159,13 +159,13 @@ dv_has_:
     cy: person
     da: person
     de: Person
-    de-ch: Person
+    de_ch: Person
     diq: Kes
     dua: moto
     dz: མི་ངོམ་རེ་རེ་བཞིན་དུ
     el: πρόσωπο
     en: person
-    en-ca: person
+    en_ca: person
     eo: persono
     es: persona
     et: isik
@@ -205,7 +205,7 @@ dv_has_:
     ko: 인격체
     krj: tawu
     ks: شخص
-    ku-latn: kes
+    ku_latn: kes
     ky: Инсан
     la: persona
     lb: Persoun
@@ -220,12 +220,12 @@ dv_has_:
     mnw: မၞိဟ်
     mr: व्यक्ती
     ms: orang
-    ms-arab: اورڠ
+    ms_arab: اورڠ
     mzn: شخص
     nan: Kò-jîn
     nb: person
     nds: Person
-    nds-nl: persoon
+    nds_nl: persoon
     ne: व्यक्ति
     nl: persoon
     nn: person
@@ -240,7 +240,7 @@ dv_has_:
     pnb: جݨا
     pnt: κατσίν
     pt: pessoa
-    pt-br: pessoa
+    pt_br: pessoa
     rm: persuna
     ro: persoană
     ru: личность
@@ -257,8 +257,8 @@ dv_has_:
     so: Qof
     sq: person
     sr: особа
-    sr-ec: особа
-    sr-el: osoba
+    sr_ec: особа
+    sr_el: osoba
     stq: Persoon
     sv: person
     sw: Nafsi
@@ -266,14 +266,14 @@ dv_has_:
     ta: ஆள் (நபர்)
     te: వ్యక్తి
     tg: шахс
-    tg-cyrl: шахс
+    tg_cyrl: шахс
     th: บุคคล
     tl: persona
     tok: jan
     tr: kişi
     tt: шәхес
-    tt-cyrl: шәхес
-    tt-latn: şäxes
+    tt_cyrl: шәхес
+    tt_latn: şäxes
     tyv: Амы-бот
     uk: особа
     ur: شخص
@@ -288,14 +288,14 @@ dv_has_:
     yue: 人
     za: vunz
     zh: 个人
-    zh-cn: 人
-    zh-hans: 人
-    zh-hant: 人
-    zh-hk: 人
-    zh-mo: 人
+    zh_cn: 人
+    zh_hans: 人
+    zh_hant: 人
+    zh_hk: 人
+    zh_mo: 人
     zh-my: 人
-    zh-sg: 人
-    zh-tw: 人
+    zh_sg: 人
+    zh_tw: 人
 ---
 # [[Person]] 
 

@@ -71,7 +71,7 @@ dv_has_:
     ar: مسار مهني
     az: Karyera
     ba: карьера
-    be-tarask: кар’ера
+    be_tarask: кар’ера
     bg: Кариера
     bn: কর্মজীবন
     bs: karijera
@@ -110,7 +110,7 @@ dv_has_:
     nl: loopbaan
     pl: kariera
     pt: carreira
-    pt-br: carreira
+    pt_br: carreira
     ro: carieră profesională
     ru: карьера
     se: karrieara

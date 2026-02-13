@@ -4,7 +4,7 @@ dv_has_:
     ab: Африкагәҭантәи Ареспублика
     ace: Republik Afrika Teungoh
     ady: Гурыт Африкэ Республикэ
-    aeb-arab: إفريقيا الوسطانية
+    aeb_arab: إفريقيا الوسطانية
     af: Sentraal-Afrikaanse Republiek
     am: የመካከለኛው አፍሪካ ሪፐብሊክ
     ami: Central african republic
@@ -25,7 +25,7 @@ dv_has_:
     bar: Zentralafrikanische Republik
     bcl: Sentral na Aprikanong Republika
     be: Цэнтральна-Афрыканская Рэспубліка
-    be-tarask: Цэнтральна-Афрыканская Рэспубліка
+    be_tarask: Цэнтральна-Афрыканская Рэспубліка
     bew: Kiblik Aprika Tenga
     bg: Централноафриканска република
     bgn: آپریقای مرکزی جمهوریت
@@ -40,7 +40,7 @@ dv_has_:
     bs: Srednjoafrička Republika
     bxr: Түб Африкын Улас
     ca: República Centreafricana
-    cbk-zam: República Centroafricana
+    cbk_zam: República Centroafricana
     cdo: Dṳ̆ng-hĭ Gê̤ṳng-huò-guók
     ce: Йуккъерчу Африкин Республика
     ceb: Republikang Sentral Aprikano
@@ -48,7 +48,7 @@ dv_has_:
     ckb: کۆماری ئەفریقای ناوەندی
     co: Republica Centrafricana
     crh: Merkeziy Afrika
-    crh-latn: Merkeziy Afrika
+    crh_latn: Merkeziy Afrika
     cs: Středoafrická republika
     csb: Repùblika Westrzódnoafrikańskô
     cy: Gweriniaeth Canolbarth Affrica
@@ -56,7 +56,7 @@ dv_has_:
     dag: Central African Republic
     de: Zentralafrikanische Republik
     de-at: Zentralafrikanische Republik
-    de-ch: Zentralafrikanische Republik
+    de_ch: Zentralafrikanische Republik
     din: Paan Ciɛl de Apirïka
     diq: Cumurêtê Afrika Miyanêne
     dsb: Centralnoafriska republika
@@ -65,8 +65,8 @@ dv_has_:
     ee: Central African Republic
     el: Κεντροαφρικανική Δημοκρατία
     en: Central African Republic
-    en-ca: Central African Republic
-    en-gb: Central African Republic
+    en_ca: Central African Republic
+    en_gb: Central African Republic
     en-us: Central African Republic
     eo: Centr-Afrika Respubliko
     es: República Centroafricana
@@ -148,7 +148,7 @@ dv_has_:
     lv: Centrālāfrikas Republika
     lzh: 中非
     mad: Afrika Tengnga
-    map-bms: Republik Afrika Tengah
+    map_bms: Republik Afrika Tengah
     mdf: Кучкань Африконь Республикась
     mg: Repoblikan'i Afrika Afovoany
     mhr: Рӱдӧафрикан Республик
@@ -160,7 +160,7 @@ dv_has_:
     mr: मध्य आफ्रिकेचे प्रजासत्ताक
     mrj: Покшал Африка Республика
     ms: Republik Afrika Tengah
-    ms-arab: ريڤوبليک افريکا تڠه
+    ms_arab: ريڤوبليک افريکا تڠه
     mt: Repubblika Ċentru-Afrikana
     mwl: República Centro-Africana
     my: ဗဟိုအာဖရိကသမ္မတနိုင်ငံ
@@ -170,7 +170,7 @@ dv_has_:
     nan: Tiong-hui Kiōng-hô-kok
     nb: Den sentralafrikanske republikk
     nds: Zentraalafrikaansche Republiek
-    nds-nl: Mid-Afrikaanse Reppubliek
+    nds_nl: Mid-Afrikaanse Reppubliek
     ne: मध्य अफ्रिकी गणतन्त्र
     nl: Centraal-Afrikaanse Republiek
     nn: Den sentralafrikanske republikken
@@ -192,7 +192,7 @@ dv_has_:
     pnb: مڈلا افریقی لوک راج
     ps: مرکزي افريقا جمهوريت
     pt: República Centro-Africana
-    pt-br: República Centro-Africana
+    pt_br: República Centro-Africana
     qu: Chawpi Aphrika Republika
     ro: Republica Centrafricană
     ru: Центральноафриканская Республика
@@ -222,8 +222,8 @@ dv_has_:
     so: Jamhuuriyadda Bartamaha Afrika
     sq: Republika e Afrikës Qendrore
     sr: Централноафричка Република
-    sr-ec: Централноафричка Република
-    sr-el: Centralnoafrička Republika
+    sr_ec: Централноафричка Република
+    sr_el: Centralnoafrička Republika
     ss: Umkhatsi we-Afrikha
     st: Central African Republic
     stq: Zentroalafrikoanske Republik
@@ -270,14 +270,14 @@ dv_has_:
     zea: Centraol Afrikaonse Republiek
     zgh: ⵜⴰⴳⴷⵓⴷⴰ ⵏ ⵜⴼⵔⵉⴽⵜ ⵜⴰⵏⴰⵎⵎⴰⵙⵜ
     zh: 中非共和國
-    zh-cn: 中非共和国
-    zh-hans: 中非共和国
-    zh-hant: 中非共和國
-    zh-hk: 中非共和國
-    zh-mo: 中非共和國
+    zh_cn: 中非共和国
+    zh_hans: 中非共和国
+    zh_hant: 中非共和國
+    zh_hk: 中非共和國
+    zh_mo: 中非共和國
     zh-my: 中非共和国
-    zh-sg: 中非共和国
-    zh-tw: 中非共和國
+    zh_sg: 中非共和国
+    zh_tw: 中非共和國
     zu: i-Central African Republic
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Central_African_Rep

@@ -165,7 +165,7 @@ dv_has_:
     az: Santyaqo Ramon-i-Kaxal
     azb: سانتیاقو رامونی کاخال
     be: Сант'яга Рамон-і-Кахаль
-    be-tarask: Сант’яга Рамон-і-Кахаль
+    be_tarask: Сант’яга Рамон-і-Кахаль
     bg: Сантяго Рамон и Кахал
     bn: সান্তিয়াগো রামোন ই কাহাল
     br: Santiago Ramón y Cajal
@@ -215,7 +215,7 @@ dv_has_:
     mzn: سانتیاگو رامون کاخال
     nan: Santiago Ramón y Cajal
     nb: Santiago Ramón y Cajal
-    nds-nl: Santiago Ramón y Cajal
+    nds_nl: Santiago Ramón y Cajal
     nl: Santiago Ramón y Cajal
     nn: Santiago Ramón y Cajal
     oc: Santiago Ramón y Cajal
@@ -224,7 +224,7 @@ dv_has_:
     pms: Santiago Ramón y Cajal
     pnb: سانتیاگو ریمون
     pt: Santiago Ramón y Cajal
-    pt-br: Santiago Ramón y Cajal
+    pt_br: Santiago Ramón y Cajal
     qu: Santiago Ramón y Cajal
     ro: Santiago Ramón y Cajal
     ru: Сантьяго Рамон-и-Кахаль
@@ -235,8 +235,8 @@ dv_has_:
     sl: Santiago Ramón y Cajal
     sq: Santiago Ramón y Cajal
     sr: Сантијаго Рамон и Кахал
-    sr-ec: Сантијаго Рамон и Кахал
-    sr-el: Santijago Ramon i Kahal
+    sr_ec: Сантијаго Рамон и Кахал
+    sr_el: Santijago Ramon i Kahal
     sv: Santiago Ramón y Cajal
     sw: Santiago Ramón y Cajal
     ta: சான்டியாகோ ரமோன் கஸல்
@@ -254,12 +254,12 @@ dv_has_:
     yo: Santiago Ramón y Cajal
     yue: 桑地牙哥·拉蒙卡哈
     zh: 圣地亚哥·拉蒙-卡哈尔
-    zh-cn: 圣地亚哥·拉蒙-卡哈尔
-    zh-hans: 圣地亚哥·拉蒙-卡哈尔
-    zh-hant: 聖地亞哥·拉蒙-卡哈爾
-    zh-hk: 聖地亞哥·拉蒙-卡哈爾
-    zh-sg: 圣地亚哥·拉蒙-卡哈尔
-    zh-tw: 聖地亞哥·拉蒙-卡哈爾
+    zh_cn: 圣地亚哥·拉蒙-卡哈尔
+    zh_hans: 圣地亚哥·拉蒙-卡哈尔
+    zh_hant: 聖地亞哥·拉蒙-卡哈爾
+    zh_hk: 聖地亞哥·拉蒙-卡哈爾
+    zh_sg: 圣地亚哥·拉蒙-卡哈尔
+    zh_tw: 聖地亞哥·拉蒙-卡哈爾
 ---
 # [[Santiago_Ramón_y_Cajal]] 
 

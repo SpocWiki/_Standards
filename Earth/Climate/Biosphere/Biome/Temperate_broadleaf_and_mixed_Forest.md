@@ -86,7 +86,7 @@ dv_has_:
     ast: Montes templaos de frondosas y mistos
     az: Qarışıq meşələr zonası
     be: мяшаныя лясы
-    be-tarask: мяшаны лес
+    be_tarask: мяшаны лес
     bg: Умерени широколистни и смесени гори
     bs: Širokolisne i mješovite šume umjerenih predjela
     ca: boscos temperats de frondoses mixtos
@@ -125,8 +125,8 @@ dv_has_:
     sk: Zmiešaný les
     sl: listopadni in mešani gozdovi zmernega pasu
     sr: Широколисне и мешовите шуме умерених предела
-    sr-ec: Широколисне и мешовите шуме умерених предела
-    sr-el: Širokolisne i mešovite šume umerenih predela
+    sr_ec: Широколисне и мешовите шуме умерених предела
+    sr_el: Širokolisne i mešovite šume umerenih predela
     sv: Blandskog
     tr: ılıman geniş yapraklı ve karma orman
     uk: Мішаний ліс
@@ -135,9 +135,9 @@ dv_has_:
     vro: Lajalehidseq mõtsaq
     yue: 溫帶闊葉混合林
     zh: 混交林
-    zh-cn: 阔叶混交林
-    zh-hans: 阔叶混交林
-    zh-hant: 溫帶闊葉林及混合林
+    zh_cn: 阔叶混交林
+    zh_hans: 阔叶混交林
+    zh_hant: 溫帶闊葉林及混合林
 ---
 # [[Temperate_broadleaf_and_mixed_Forest]] 
 

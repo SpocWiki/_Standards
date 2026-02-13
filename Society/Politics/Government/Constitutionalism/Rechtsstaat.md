@@ -79,7 +79,7 @@ dv_has_:
     ast: estáu de drechu
     az: hüquqi dövlət
     be: прававая дзяржава
-    be-tarask: прававая дзяржава
+    be_tarask: прававая дзяржава
     bg: Правова държава
     bn: রেখটসষ্টাট
     br: Stad a wir
@@ -89,11 +89,11 @@ dv_has_:
     cy: gwladwriaeth gyfreithiol
     da: retsstat
     de: Rechtsstaat
-    de-ch: Rechtsstaat
+    de_ch: Rechtsstaat
     el: Κράτος δικαίου
     en: Rechtsstaat
-    en-ca: Rechtsstaat
-    en-gb: Rechtsstaat
+    en_ca: Rechtsstaat
+    en_gb: Rechtsstaat
     eo: jurŝtato
     es: estado de derecho
     et: õigusriik
@@ -126,7 +126,7 @@ dv_has_:
     pap: estado di derecho
     pl: państwo prawa
     pt: estado de direito
-    pt-br: estado de direito
+    pt_br: estado de direito
     rmf: horttibosko them
     ro: stat de drept
     ru: правовое государство
@@ -141,19 +141,19 @@ dv_has_:
     smn: riehtistaatâ
     sms: vuõiggâdvuõttvaldia
     sr: правна држава
-    sr-ec: правна држава
-    sr-el: pravna država
+    sr_ec: правна држава
+    sr_el: pravna država
     sv: rättsstat
     th: นิติรัฐ
     tr: Rechtsstaat
     tt: хокукый дәүләт
-    tt-cyrl: хокукый дәүләт
+    tt_cyrl: хокукый дәүләт
     uk: правова держава
     uz: huquqiy davlat
     vi: Rechtsstaat
     zh: 法治国
-    zh-cn: 法治国家
-    zh-hant: 法治國
+    zh_cn: 法治国家
+    zh_hant: 法治國
 ---
 # [[Rechtsstaat]] 
 

@@ -96,18 +96,18 @@ dv_has_:
     ast: Historia de la química
     az: Kimya tarixi
     be: гісторыя хіміі
-    be-tarask: гісторыя хіміі
+    be_tarask: гісторыя хіміі
     bn: রসায়নের ইতিহাস
     br: istor ar gimiezh
     bs: Historija hemije
     ca: història de la química
     cs: dějiny chemie
     de: Geschichte der Chemie
-    de-ch: Geschichte der Chemie
+    de_ch: Geschichte der Chemie
     el: Ιστορία της Χημείας
     en: history of chemistry
-    en-ca: history of chemistry
-    en-gb: history of chemistry
+    en_ca: history of chemistry
+    en_gb: history of chemistry
     eo: historio de ĥemio
     es: historia de la química
     et: Keemia ajalugu
@@ -131,13 +131,13 @@ dv_has_:
     lfn: istoria de cimica
     lv: ķīmijas vēsture
     ms: sejarah kimia
-    ms-arab: سجاره کيميا
+    ms_arab: سجاره کيميا
     nb: Kjemiens historie
     nl: geschiedenis van de scheikunde
     pl: historia chemii
     ps: د کیمیا تاریخچه
     pt: história da química
-    pt-br: história da química
+    pt_br: história da química
     ro: istoria chimiei
     ru: история химии
     sl: zgodovina kemije
@@ -151,9 +151,9 @@ dv_has_:
     vi: lịch sử hóa học
     yue: 化學史
     zh: 化学史
-    zh-hans: 化学史
-    zh-hant: 化學史
-    zh-hk: 化學史
+    zh_hans: 化学史
+    zh_hant: 化學史
+    zh_hk: 化學史
 ---
 # [[History_of_Chemistry]] 
 

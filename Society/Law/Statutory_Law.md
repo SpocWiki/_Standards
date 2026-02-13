@@ -48,17 +48,17 @@ dv_has_:
   name_:
     ar: قانون تشريعي
     az: Nizamnamə qanunu
-    be-tarask: статутнае права
+    be_tarask: статутнае права
     bg: Статутно право
     bn: সংবিধিবদ্ধ আইন
     ca: dret estatutari
     da: statute law
     de: Statute Law
-    de-ch: Statute Law
+    de_ch: Statute Law
     el: νόμος
     en: statutory law
-    en-ca: Statutory law
-    en-gb: statutory law
+    en_ca: Statutory law
+    en_gb: statutory law
     es: Derecho estatutario
     eu: estatutu-zuzenbide
     fr: loi statutaire
@@ -84,9 +84,9 @@ dv_has_:
     vi: luật thành văn
     yue: 成文法
     zh: 成文法
-    zh-cn: 成文法
-    zh-hans: 成文法
-    zh-hant: 成文法
+    zh_cn: 成文法
+    zh_hans: 成文法
+    zh_hant: 成文法
 ---
 # [[Statutory_Law]] 
 

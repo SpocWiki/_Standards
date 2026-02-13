@@ -259,7 +259,7 @@ dv_has_:
     ba: Йәһүдтәр
     bar: Judn
     be: яўрэі
-    be-tarask: жыды
+    be_tarask: жыды
     bg: евреи
     bn: ইহুদি
     br: Yuzevien
@@ -272,7 +272,7 @@ dv_has_:
     ckb: جوو
     co: Ebreu
     crh: Yeudiler
-    crh-latn: Yeudiler
+    crh_latn: Yeudiler
     cs: Židé
     cv: Еврейсем
     cy: Iddewon
@@ -282,8 +282,8 @@ dv_has_:
     diq: Cıhud
     el: Εβραίοι
     en: Jewish people
-    en-ca: Jews
-    en-gb: Jews
+    en_ca: Jews
+    en_gb: Jews
     en-us: Jews
     eo: judoj
     es: judíos
@@ -329,7 +329,7 @@ dv_has_:
     kg: Bayuda
     kge: Jolma Yahudi
     kk: Еврейлер
-    kk-cyrl: Еврейлер
+    kk_cyrl: Еврейлер
     km: ជនជាតិជ្វីហ្វ
     kn: ಯೆಹೂದ್ಯ
     ko: 유대인
@@ -358,7 +358,7 @@ dv_has_:
     nan: Iû-thài-lâng
     nb: jøder
     nds: Joden
-    nds-nl: Jeuden
+    nds_nl: Jeuden
     nia: Yahudi
     nl: Joden
     nn: Jødar
@@ -371,7 +371,7 @@ dv_has_:
     pnb: یہودی
     ps: يهودان
     pt: judeu
-    pt-br: judeu
+    pt_br: judeu
     ro: evrei
     ru: евреи
     rue: Евреи
@@ -403,7 +403,7 @@ dv_has_:
     tok: jan pi kulupu Jejuta
     tr: Yahudiler
     tt: яһүдләр
-    tt-cyrl: яһүдләр
+    tt_cyrl: яһүдләр
     ug: يەھۇدىلار
     uk: євреї
     ur: یہودی
@@ -419,10 +419,10 @@ dv_has_:
     zea: Joôd'n
     zgh: ⵓⴷⴰⵢⵏ
     zh: 犹太人
-    zh-hans: 犹太人
-    zh-hant: 猶太人
-    zh-hk: 猶太人
-    zh-tw: 猶太人
+    zh_hans: 犹太人
+    zh_hant: 猶太人
+    zh_hk: 猶太人
+    zh_tw: 猶太人
 ---
 # [[Jewish_People]] 
 

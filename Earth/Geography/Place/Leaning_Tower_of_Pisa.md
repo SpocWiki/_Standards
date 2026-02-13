@@ -246,7 +246,7 @@ dv_has_:
     ba: Пиза башняһы
     ban: Menara Pisa
     be: Пізанская вежа
-    be-tarask: Пізанская вежа
+    be_tarask: Пізанская вежа
     bg: Наклонена кула в Пиза
     bho: पीसा के ओरमल मीनार
     bn: পিসা টাওয়ার
@@ -263,8 +263,8 @@ dv_has_:
     dv: ޕީސާގެ ޓަވަރު
     el: Κεκλιμένος Πύργος της Πίζας
     en: Leaning Tower of Pisa
-    en-ca: Leaning Tower of Pisa
-    en-gb: Leaning Tower of Pisa
+    en_ca: Leaning Tower of Pisa
+    en_gb: Leaning Tower of Pisa
     en-us: Leaning Tower of Pisa
     eo: Oblikva turo de Pizo
     es: Torre de Pisa
@@ -321,7 +321,7 @@ dv_has_:
     pl: Krzywa Wieża w Pizie
     pnb: پیسا ٹاور
     pt: Torre de Pisa
-    pt-br: Torre de Pisa
+    pt_br: Torre de Pisa
     ro: Turnul din Pisa
     ru: Пизанская башня
     sco: Leanin Touer o Pisa
@@ -332,7 +332,7 @@ dv_has_:
     sl: poševni stolp v Pisi
     sq: Kulla e pjerrët e Pizës
     sr: Криви торањ у Пизи
-    sr-ec: Криви торањ у Пизи
+    sr_ec: Криви торањ у Пизи
     su: Munara Pisa
     sv: Lutande tornet i Pisa
     szl: Ekńynto Wjeża we Piśe
@@ -352,8 +352,8 @@ dv_has_:
     yue: 比薩斜塔
     zea: Toôren van Pisa
     zh: 比萨斜塔
-    zh-hant: 比薩斜塔
-    zh-hk: 比薩斜塔
+    zh_hant: 比薩斜塔
+    zh_hk: 比薩斜塔
 ---
 # [[Leaning_Tower_of_Pisa]] 
 

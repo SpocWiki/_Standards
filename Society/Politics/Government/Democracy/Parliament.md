@@ -13,7 +13,7 @@ dv_has_:
     ba: парламент
     bcl: Parlamento
     be: парламент
-    be-tarask: парлямэнт
+    be_tarask: парлямэнт
     bew: Mejelis bicara
     bg: Парламент
     bn: সংসদ
@@ -30,7 +30,7 @@ dv_has_:
     diq: Parlamento
     el: κοινοβούλιο
     en: parliament
-    en-gb: parliament
+    en_gb: parliament
     eo: parlamento
     es: parlamento
     et: parlament
@@ -87,7 +87,7 @@ dv_has_:
     mk: парламент
     mr: संसद
     ms: parlimen
-    ms-arab: ڤرليمن
+    ms_arab: ڤرليمن
     mt: parlament
     my: ပါလီမန်
     nan: Gī-hoē
@@ -130,7 +130,7 @@ dv_has_:
     ta: நாடாளுமன்றம்
     te: పార్లమెంట్లు
     tg: порлумон
-    tg-cyrl: парлумон
+    tg_cyrl: парлумон
     th: รัฐสภา
     tl: parlamento
     tr: parlamento
@@ -151,14 +151,14 @@ dv_has_:
     yue: 議會
     zgh: ⴰⴱⵕⵍⴰⵎⴰⵏ
     zh: 議會
-    zh-cn: 议会
-    zh-hans: 议会
-    zh-hant: 議會
-    zh-hk: 議會
-    zh-mo: 議會
+    zh_cn: 议会
+    zh_hans: 议会
+    zh_hant: 議會
+    zh_hk: 議會
+    zh_mo: 議會
     zh-my: 议会
-    zh-sg: 议会
-    zh-tw: 議會
+    zh_sg: 议会
+    zh_tw: 議會
 aliases:
 - Antenimiera
 - Baarlamaan

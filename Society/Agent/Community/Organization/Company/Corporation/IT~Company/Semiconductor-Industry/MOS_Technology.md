@@ -6,11 +6,11 @@ dv_has_:
     ca: MOS Technology
     cs: MOS Technology
     de: MOS Technology
-    de-ch: MOS Technology
+    de_ch: MOS Technology
     el: MOS Technology
     en: MOS Technology
-    en-ca: MOS Technology
-    en-gb: MOS Technology
+    en_ca: MOS Technology
+    en_gb: MOS Technology
     es: MOS Technology
     fa: موس تکنالوجی
     fi: MOS Technology
@@ -27,20 +27,20 @@ dv_has_:
     nn: MOS Technology Inc
     pl: MOS Technology
     pt: MOS Technology
-    pt-br: MOS Technology
+    pt_br: MOS Technology
     ru: MOS Technology
     sh: MOS Technology
     sl: MOS Technology
     sr: МОС текнолоџи
-    sr-ec: МОС текнолоџи
-    sr-el: MOS teknolodži
+    sr_ec: МОС текнолоџи
+    sr_el: MOS teknolodži
     sv: MOS Technology
     uk: MOS Technology
     vec: MOS Technology
     zh: 金屬氧化物半導體
-    zh-hans: MOS科技公司
-    zh-hant: MOS科技公司
-    zh-hk: MOS科技公司
+    zh_hans: MOS科技公司
+    zh_hant: MOS科技公司
+    zh_hk: MOS科技公司
 aliases:
 - MOS Technology
 - MOS Technology Inc

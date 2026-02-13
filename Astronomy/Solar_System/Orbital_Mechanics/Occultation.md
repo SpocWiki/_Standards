@@ -89,7 +89,7 @@ dv_has_:
     ar: احتجاب
     ast: Tapecimientu
     be: пакрыццё, астраномія
-    be-tarask: засланеньне
+    be_tarask: засланеньне
     bg: Окултация
     bn: অদৃশ্যকরণ
     ca: ocultació
@@ -141,12 +141,12 @@ dv_has_:
     wuu: 掩星
     yue: 掩星
     zh: 掩星
-    zh-cn: 掩星
-    zh-hans: 掩星
-    zh-hant: 掩星
-    zh-hk: 掩星
-    zh-sg: 掩星
-    zh-tw: 掩星
+    zh_cn: 掩星
+    zh_hans: 掩星
+    zh_hant: 掩星
+    zh_hk: 掩星
+    zh_sg: 掩星
+    zh_tw: 掩星
 ---
 # [[Occultation]] 
 

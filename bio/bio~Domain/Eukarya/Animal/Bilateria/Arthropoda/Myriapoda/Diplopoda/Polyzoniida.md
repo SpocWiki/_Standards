@@ -19,7 +19,7 @@ dv_has_:
     ceb: Polyzoniida
     de: Saugfüßer
     en: Polyzoniida
-    en-gb: Polyzoniida
+    en_gb: Polyzoniida
     eo: Polyzoniida
     es: Polyzoniida
     eu: Polyzoniida
@@ -39,7 +39,7 @@ dv_has_:
     oc: Polyzoniida
     pl: Polyzoniida
     pt: Polyzoniida
-    pt-br: Polyzoniida
+    pt_br: Polyzoniida
     ro: Polyzoniida
     ru: Polyzoniida
     sq: Polyzoniida
@@ -51,9 +51,9 @@ dv_has_:
     vo: Polyzoniida
     war: Polyzoniida
     zh: 多板馬陸目
-    zh-cn: 多板马陆目
-    zh-hans: 多板马陆目
-    zh-tw: 多板馬陸目
+    zh_cn: 多板马陆目
+    zh_hans: 多板马陆目
+    zh_tw: 多板馬陸目
 ---
 # [[Polyzoniida]] 
 

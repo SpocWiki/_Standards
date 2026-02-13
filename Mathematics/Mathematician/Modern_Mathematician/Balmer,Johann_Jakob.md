@@ -69,7 +69,7 @@ dv_has_:
     arz: يوهان بالمر
     ast: Johann Jakob Balmer
     azb: یوهان بالمر
-    be-tarask: Ёган Якаб Бальмэр
+    be_tarask: Ёган Якаб Бальмэр
     bn: জোহান জ্যাকব বামার
     ca: Johann Balmer
     cs: Johann Jakob Balmer
@@ -97,11 +97,11 @@ dv_has_:
     jv: Johann Jakob Balmer
     ka: იოჰან იაკობ ბალმერი
     kk: Йохан Бальмер
-    kk-arab: يوحان بالمەر
+    kk_arab: يوحان بالمەر
     kk-cn: يوحان بالمەر
-    kk-cyrl: Йохан Бальмер
+    kk_cyrl: Йохан Бальмер
     kk-kz: Йохан Бальмер
-    kk-latn: Ýoxan Balʹmer
+    kk_latn: Ýoxan Balʹmer
     kk-tr: Ýoxan Balʹmer
     kn: ಯೋಹನ್ ಜೇಕಬ್ ಬಾಮರ್
     ko: 요한 야코프 발머
@@ -116,7 +116,7 @@ dv_has_:
     pl: Johann Jakob Balmer
     pms: Johann Balmer
     pt: Johann Jakob Balmer
-    pt-br: Johann Jakob Balmer
+    pt_br: Johann Jakob Balmer
     rm: Johann Jakob Balmer
     ru: Иоганн Якоб Бальмер
     sk: Johann Jakob Balmer
@@ -132,12 +132,12 @@ dv_has_:
     war: Johann Jakob Balmer
     yue: 約翰·雅各布·巴耳末
     zh: 约翰·雅各布·巴耳末
-    zh-cn: 约翰·雅各布·巴耳末
-    zh-hans: 约翰·雅各布·巴耳末
-    zh-hant: 約翰·雅各布·巴耳末
-    zh-hk: 約翰·雅各布·巴耳末
-    zh-sg: 约翰·雅各布·巴耳末
-    zh-tw: 約翰·雅各布·巴耳末
+    zh_cn: 约翰·雅各布·巴耳末
+    zh_hans: 约翰·雅各布·巴耳末
+    zh_hant: 約翰·雅各布·巴耳末
+    zh_hk: 約翰·雅各布·巴耳末
+    zh_sg: 约翰·雅各布·巴耳末
+    zh_tw: 約翰·雅各布·巴耳末
 ---
 # [[Balmer,Johann_Jakob]] 
 

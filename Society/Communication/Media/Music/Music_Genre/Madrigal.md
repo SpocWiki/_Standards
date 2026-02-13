@@ -49,7 +49,7 @@ dv_has_:
     ar: مادريجال
     az: Madriqal
     be: Мадрыгал
-    be-tarask: мадрыгал
+    be_tarask: мадрыгал
     bg: Мадригал
     ca: madrigal
     cs: madrigal
@@ -100,7 +100,7 @@ dv_has_:
     vi: madrigal
     yue: 牧歌
     zh: 牧歌
-    zh-tw: 牧歌
+    zh_tw: 牧歌
 ---
 # [[Madrigal]] 
 

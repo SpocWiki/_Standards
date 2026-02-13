@@ -73,7 +73,7 @@ dv_has_:
     oc: Musteloidea
     pl: łasicokształtne
     pt: Musteloidea
-    pt-br: Musteloidea
+    pt_br: Musteloidea
     ro: Musteloidea
     ru: Musteloidea
     sl: Musteloidea
@@ -88,9 +88,9 @@ dv_has_:
     vo: Musteloidea
     war: Musteloidea
     zh: 鼬总科
-    zh-cn: 鼬总科
-    zh-hans: 鼬总科
-    zh-hant: 鼬總科
+    zh_cn: 鼬总科
+    zh_hans: 鼬总科
+    zh_hant: 鼬總科
 ---
 # [[Musteloidea]] 
 

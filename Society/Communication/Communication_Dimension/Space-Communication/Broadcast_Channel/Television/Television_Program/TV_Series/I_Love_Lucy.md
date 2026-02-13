@@ -83,7 +83,7 @@ dv_has_:
     acm: اني احب لوسي
     ar: أنا أحب لوسي
     ast: I Love Lucy
-    be-tarask: Я кахаю Люсі
+    be_tarask: Я кахаю Люсі
     bg: Обичам Люси
     bn: আই লাভ লুসি
     ca: I Love Lucy
@@ -118,8 +118,8 @@ dv_has_:
     tr: I Love Lucy
     uk: Я люблю Люсі
     zh: 我爱露茜
-    zh-hant: 我愛露西
-    zh-tw: 我愛露西
+    zh_hant: 我愛露西
+    zh_tw: 我愛露西
 ---
 # [[I_Love_Lucy]] 
 

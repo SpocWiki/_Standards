@@ -133,7 +133,7 @@ dv_has_:
     azb: فضا
     bar: Raum
     be: прастора
-    be-tarask: прастора
+    be_tarask: прастора
     bg: Пространство
     bho: स्पेस
     blk: အာႏကာႏသ
@@ -148,11 +148,11 @@ dv_has_:
     cy: gofod
     da: rum
     de: Raum
-    de-ch: Raum
+    de_ch: Raum
     el: Χώρος
     en: space
-    en-ca: Space
-    en-gb: space
+    en_ca: Space
+    en_gb: space
     eo: spaco
     es: espacio
     et: Ruum
@@ -186,7 +186,7 @@ dv_has_:
     kn: ಬಾಹ್ಯಾಕಾಶ
     ko: 공간
     ku: valahî
-    ku-latn: valageh
+    ku_latn: valageh
     la: spatium
     lb: Raum
     lfn: Spasio (fisica)
@@ -202,7 +202,7 @@ dv_has_:
     mnw: အကာသ
     mr: अवकाश
     ms: ruang
-    ms-arab: رواڠ
+    ms_arab: رواڠ
     mt: spazju
     my: အာကာသ
     nan: Khong-kan
@@ -217,7 +217,7 @@ dv_has_:
     pl: przestrzeń
     ps: فضاء
     pt: espaço físico
-    pt-br: espaço físico
+    pt_br: espaço físico
     ro: spațiu
     ru: пространство
     sc: Spàtziu
@@ -231,8 +231,8 @@ dv_has_:
     sl: prostor
     sq: Hapësira
     sr: простор
-    sr-ec: простор
-    sr-el: prostor
+    sr_ec: простор
+    sr_el: prostor
     su: Rohang
     sv: rum
     sw: nafasi
@@ -244,7 +244,7 @@ dv_has_:
     tok: ala mun
     tr: uzay
     tt: фәза
-    tt-cyrl: фәза
+    tt_cyrl: фәза
     udm: интывыл
     uk: простір
     ur: Spatial
@@ -256,14 +256,14 @@ dv_has_:
     yo: àyè
     yue: 空間
     zh: 空間
-    zh-cn: 空间
-    zh-hans: 空间
-    zh-hant: 空間
-    zh-hk: 空間
-    zh-mo: 空間
+    zh_cn: 空间
+    zh_hans: 空间
+    zh_hant: 空間
+    zh_hk: 空間
+    zh_mo: 空間
     zh-my: 空间
-    zh-sg: 空间
-    zh-tw: 空間
+    zh_sg: 空间
+    zh_tw: 空間
     zu: Umkhathi
 ---
 # [[Space]] 

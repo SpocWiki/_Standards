@@ -107,7 +107,7 @@ dv_has_:
     as: চ্যুতি
     ast: falla
     be: разлом
-    be-tarask: разлом
+    be_tarask: разлом
     bg: разлом
     bn: ভূ-চ্যুতি
     ca: falla
@@ -142,7 +142,7 @@ dv_has_:
     kk: лықсу
     ko: 단층
     ku: qelş
-    ku-latn: qelş
+    ku_latn: qelş
     ky: тектоникалык жарака
     la: falla
     lt: sprūdis
@@ -177,7 +177,7 @@ dv_has_:
     wuu: 断层
     yue: 斷層
     zh: 斷層
-    zh-hant: 斷層
+    zh_hant: 斷層
 ---
 # [[Fault(geology)]] 
 

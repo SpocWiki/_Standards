@@ -43,9 +43,9 @@ dv_has_:
     uz: Suqrot metodi
     yue: 蘇格拉底反詰法
     zh: 蘇格拉底反詰法
-    zh-hans: 苏格拉底反诘法
-    zh-hant: 蘇格拉底反詰法
-    zh-hk: 蘇格拉底反詰法
+    zh_hans: 苏格拉底反诘法
+    zh_hant: 蘇格拉底反詰法
+    zh_hk: 蘇格拉底反詰法
 aliases:
 - Elenchos
 - Elenchus

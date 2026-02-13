@@ -85,7 +85,7 @@ dv_has_:
     af: kleurstof
     ar: صباغ
     be: фарбавальнік
-    be-tarask: фарбавальнік
+    be_tarask: фарбавальнік
     bg: багрила
     bjn: kasumba
     bn: রঞ্জক
@@ -114,11 +114,11 @@ dv_has_:
     it: colorante
     ja: 染料
     kk: бояғыштар
-    kk-arab: بوياعىشتار
+    kk_arab: بوياعىشتار
     kk-cn: بوياعىشتار
-    kk-cyrl: бояғыштар
+    kk_cyrl: бояғыштар
     kk-kz: бояғыштар
-    kk-latn: boyağıştar
+    kk_latn: boyağıştar
     kk-tr: boyağıştar
     kn: ವರ್ಣ(ಡೈ)
     ko: 염료
@@ -128,7 +128,7 @@ dv_has_:
     lv: krāsvielas
     mk: вапсило
     ms: bahan pewarna
-    ms-arab: باهن ڤورنا
+    ms_arab: باهن ڤورنا
     my: ဆိုးဆေး
     nan: ní-liāu
     nb: fargestoff
@@ -136,7 +136,7 @@ dv_has_:
     nn: fargestoff
     pl: substancja barwiąca
     pt: corante
-    pt-br: corante
+    pt_br: corante
     qu: tullpuna
     ro: colorant
     ru: красители
@@ -149,18 +149,18 @@ dv_has_:
     tly: rang žəjdən
     tr: boyar madde
     tt: буяу матдәсе
-    tt-cyrl: буяу матдәсе
+    tt_cyrl: буяу матдәсе
     uk: барвник
     vi: thuốc nhuộm
     yi: פארב
     yue: 染料
     zh: 染料
-    zh-cn: 染料
-    zh-hans: 染料
-    zh-hant: 染料
-    zh-hk: 染料
-    zh-sg: 染料
-    zh-tw: 染料
+    zh_cn: 染料
+    zh_hans: 染料
+    zh_hant: 染料
+    zh_hk: 染料
+    zh_sg: 染料
+    zh_tw: 染料
 ---
 # [[Dye]] 
 

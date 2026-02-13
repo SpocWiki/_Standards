@@ -98,7 +98,7 @@ dv_has_:
     azb: فوتوشیمی
     ba: Фотохимия
     be: Фотахімія
-    be-tarask: фотахімія
+    be_tarask: фотахімія
     bg: Фотохимия
     bn: আলোক-রসায়ন
     bs: Fotohemija
@@ -130,11 +130,11 @@ dv_has_:
     jv: Fotokimia
     ka: ფოტოქიმია
     kk: Фотохимия
-    kk-arab: فوتوحىيمىييا
+    kk_arab: فوتوحىيمىييا
     kk-cn: فوتوحىيمىييا
-    kk-cyrl: Фотохимия
+    kk_cyrl: Фотохимия
     kk-kz: Фотохимия
-    kk-latn: Fotoxïmïya
+    kk_latn: Fotoxïmïya
     kk-tr: Fotoxïmïya
     ko: 광화학
     ky: Фотохимия
@@ -167,12 +167,12 @@ dv_has_:
     wuu: 光化学
     yue: 光化學
     zh: 光化学
-    zh-cn: 光化学
-    zh-hans: 光化学
-    zh-hant: 光化學
-    zh-hk: 光化學
-    zh-sg: 光化学
-    zh-tw: 光化學
+    zh_cn: 光化学
+    zh_hans: 光化学
+    zh_hant: 光化學
+    zh_hk: 光化學
+    zh_sg: 光化学
+    zh_tw: 光化學
 ---
 # [[Photochemistry]] 
 

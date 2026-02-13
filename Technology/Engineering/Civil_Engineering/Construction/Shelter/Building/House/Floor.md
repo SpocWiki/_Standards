@@ -117,7 +117,7 @@ dv_has_:
     bcl: Salog (harong)
     bdr: dasar
     be: падлога
-    be-tarask: падлога
+    be_tarask: падлога
     bg: Под
     bn: মেঝে
     bs: pod
@@ -129,7 +129,7 @@ dv_has_:
     da: gulv
     dag: Tingbani
     de: Fußboden
-    de-ch: Fussboden
+    de_ch: Fussboden
     el: δάπεδο
     en: floor
     eo: planko
@@ -162,18 +162,18 @@ dv_has_:
     mhr: Кӱвар
     ml: തറ
     ms: lantai
-    ms-arab: لنتاي
+    ms_arab: لنتاي
     my: ကြမ်းခင်း
     nan: tē-pán
     nb: gulv
-    nds-nl: vloere
+    nds_nl: vloere
     nl: vloer
     nn: golv
     pa: ਫਰਸ਼
     pl: podłoga
     ps: چت
     pt: pavimento
-    pt-br: pavimento
+    pt_br: pavimento
     ro: Podea
     ru: пол
     sah: Муоста
@@ -195,19 +195,19 @@ dv_has_:
     tl: sahig
     tr: taban
     tt: идән
-    tt-cyrl: идән
+    tt_cyrl: идән
     uk: підлога
     vec: sioło
     vi: sàn
     wuu: 地板
     yue: 地板
     zh: 地板
-    zh-cn: 地板
-    zh-hans: 地板
-    zh-hant: 地板
-    zh-hk: 地板
-    zh-sg: 地板
-    zh-tw: 地板
+    zh_cn: 地板
+    zh_hans: 地板
+    zh_hant: 地板
+    zh_hk: 地板
+    zh_sg: 地板
+    zh_tw: 地板
 ---
 # [[Floor]] 
 

@@ -304,7 +304,7 @@ dv_has_:
     bar: Oits Testament
     bcl: Daan na Tipan
     be: Стары Запавет
-    be-tarask: Стары Запавет
+    be_tarask: Стары Запавет
     bew: Wasiat Kolot
     bg: Стар завет
     bn: পুরাতন নিয়ম
@@ -324,8 +324,8 @@ dv_has_:
     diq: Ehdo Kıhan
     el: Παλαιά Διαθήκη
     en: Old Testament
-    en-ca: Old Testament
-    en-gb: Old Testament
+    en_ca: Old Testament
+    en_gb: Old Testament
     eo: Malnova testamento
     es: Antiguo Testamento
     et: Vana Testament
@@ -388,7 +388,7 @@ dv_has_:
     na: Testament Etsimeduw
     nan: Kū-iok Sèng-keng
     nb: Det gamle testamentet
-    nds-nl: Oolde Testement
+    nds_nl: Oolde Testement
     ne: पुरानो करार
     nia: Amabu'ulali Siföföna
     nl: Oude Testament
@@ -450,11 +450,11 @@ dv_has_:
     yue: 舊約聖經
     zea: Ouwe Testamant
     zh: 舊約聖經
-    zh-cn: 旧约圣经
-    zh-hans: 旧约圣经
-    zh-hant: 舊約聖經
-    zh-hk: 舊約聖經
-    zh-tw: 舊約聖經
+    zh_cn: 旧约圣经
+    zh_hans: 旧约圣经
+    zh_hant: 舊約聖經
+    zh_hk: 舊約聖經
+    zh_tw: 舊約聖經
 ---
 # [[Old_Testament]] 
 

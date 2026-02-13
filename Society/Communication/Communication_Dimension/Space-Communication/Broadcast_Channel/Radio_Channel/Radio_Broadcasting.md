@@ -101,7 +101,7 @@ dv_has_:
     arq: البث التلفزي
     ast: radiodifusión
     be: радыёвяшчанне
-    be-tarask: радыёвяшчаньне
+    be_tarask: радыёвяшчаньне
     bg: радиоразпръскване
     ca: emissió de ràdio
     ckb: وەشاندنی ڕادیۆیی
@@ -145,7 +145,7 @@ dv_has_:
     os: радиофидиуæн
     pl: radiodyfuzja
     pnb: ریڈیو اسٹیشن
-    pt-br: radialismo
+    pt_br: radialismo
     ro: radiodifuziune
     ru: радиовещание
     se: rádio
@@ -168,14 +168,14 @@ dv_has_:
     wuu: 电台广播
     yue: 電台廣播
     zh: 電台廣播
-    zh-cn: 电台广播
-    zh-hans: 电台广播
-    zh-hant: 電台廣播
-    zh-hk: 電台廣播
-    zh-mo: 電台廣播
+    zh_cn: 电台广播
+    zh_hans: 电台广播
+    zh_hant: 電台廣播
+    zh_hk: 電台廣播
+    zh_mo: 電台廣播
     zh-my: 电台广播
-    zh-sg: 电台广播
-    zh-tw: 電台廣播
+    zh_sg: 电台广播
+    zh_tw: 電台廣播
 ---
 # [[Radio_Broadcasting]] 
 

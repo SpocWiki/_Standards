@@ -111,7 +111,7 @@ dv_has_:
     ast: Ulmaceae
     az: Qarağackimilər
     be: Вязавыя
-    be-tarask: Вязавыя
+    be_tarask: Вязавыя
     bg: брястови
     bs: Ulmaceae
     ca: ulmàcies
@@ -146,11 +146,11 @@ dv_has_:
     jv: Ulmaceae
     ka: თელისებრნი
     kk: Шегіршіндер
-    kk-arab: شەگىرشىندەر
+    kk_arab: شەگىرشىندەر
     kk-cn: شەگىرشىندەر
-    kk-cyrl: Шегіршіндер
+    kk_cyrl: Шегіршіндер
     kk-kz: Шегіршіндер
-    kk-latn: Şegirşinder
+    kk_latn: Şegirşinder
     kk-tr: Şegirşinder
     ko: 느릅나무과
     la: Ulmaceae
@@ -165,7 +165,7 @@ dv_has_:
     oc: Ulmaceae
     pl: wiązowate
     pt: Ulmaceae
-    pt-br: Ulmaceae
+    pt_br: Ulmaceae
     ro: Ulmaceae
     ru: вязовые
     sk: brestovité
@@ -183,12 +183,12 @@ dv_has_:
     war: Ulmaceae
     yue: 榆科
     zh: 榆科
-    zh-cn: 榆科
-    zh-hans: 榆科
-    zh-hant: 榆科
-    zh-hk: 榆科
-    zh-sg: 榆科
-    zh-tw: 榆科
+    zh_cn: 榆科
+    zh_hans: 榆科
+    zh_hant: 榆科
+    zh_hk: 榆科
+    zh_sg: 榆科
+    zh_tw: 榆科
 ---
 # [[Ulmaceae]] 
 

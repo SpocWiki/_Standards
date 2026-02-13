@@ -47,7 +47,7 @@ dv_has_:
     az: Napalm Bombası
     bar: Napoim
     be: Напалм
-    be-tarask: Напалм
+    be_tarask: Напалм
     bg: Напалм
     ca: napalm
     ckb: ناپاڵم
@@ -76,11 +76,11 @@ dv_has_:
     it: napalm
     ja: ナパーム弾
     kk: Напалм
-    kk-arab: ناپالم
+    kk_arab: ناپالم
     kk-cn: ناپالم
-    kk-cyrl: Напалм
+    kk_cyrl: Напалм
     kk-kz: Напалм
-    kk-latn: Napalm
+    kk_latn: Napalm
     kk-tr: Napalm
     ko: 네이팜탄
     la: napalum
@@ -114,12 +114,12 @@ dv_has_:
     wuu: 凝固汽油弹
     yue: 凝固汽油彈
     zh: 凝固汽油弹
-    zh-cn: 凝固汽油弹
-    zh-hans: 凝固汽油弹
-    zh-hant: 凝固汽油彈
-    zh-hk: 凝固汽油彈
-    zh-sg: 凝固汽油弹
-    zh-tw: 凝固汽油彈
+    zh_cn: 凝固汽油弹
+    zh_hans: 凝固汽油弹
+    zh_hant: 凝固汽油彈
+    zh_hk: 凝固汽油彈
+    zh_sg: 凝固汽油弹
+    zh_tw: 凝固汽油彈
 ---
 # [[Napalm]] 
 

@@ -213,7 +213,7 @@ dv_has_:
     ban: nikel
     bcl: nickel
     be: Нікель
-    be-tarask: нікель
+    be_tarask: нікель
     bg: никел
     bho: निकेल
     blk: နီကယ်
@@ -321,7 +321,7 @@ dv_has_:
     pnb: نکل
     ps: نېکل
     pt: níquel
-    pt-br: níquel
+    pt_br: níquel
     qu: nikil
     ro: nichel
     ru: никель
@@ -364,11 +364,11 @@ dv_has_:
     yo: nickel
     yue: 鎳
     zh: 鎳
-    zh-cn: 镍
-    zh-hans: 镍
-    zh-hant: 鎳
-    zh-hk: 鎳
-    zh-tw: 鎳
+    zh_cn: 镍
+    zh_hans: 镍
+    zh_hant: 鎳
+    zh_hk: 鎳
+    zh_tw: 鎳
     zu: IsiNimbi
   number_of_:
     period: 4

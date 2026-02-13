@@ -123,7 +123,7 @@ dv_has_:
     ba: Һандал һөйәк
     bcl: totopan
     be: кавадла
-    be-tarask: кавадла
+    be_tarask: кавадла
     bg: наковалня
     bn: নেহাই
     br: annev
@@ -172,7 +172,7 @@ dv_has_:
     nap: "'Ncunia"
     nb: ambolt
     nds: Ambolt
-    nds-nl: ambeeld
+    nds_nl: ambeeld
     nl: aambeeld
     nn: ambolt
     oc: enclutge
@@ -187,8 +187,8 @@ dv_has_:
     sl: nakovalo
     sq: kudhra
     sr: наковањ
-    sr-ec: наковањ
-    sr-el: nakovanj
+    sr_ec: наковањ
+    sr_el: nakovanj
     sv: städ
     ta: பட்டடைக்கல்
     tr: örs
@@ -199,12 +199,12 @@ dv_has_:
     wuu: 铁砧
     yue: 鐵砧
     zh: 铁砧
-    zh-cn: 铁砧
-    zh-hans: 铁砧
-    zh-hant: 鐵砧
-    zh-hk: 鐵砧
-    zh-sg: 铁砧
-    zh-tw: 鐵砧
+    zh_cn: 铁砧
+    zh_hans: 铁砧
+    zh_hant: 鐵砧
+    zh_hk: 鐵砧
+    zh_sg: 铁砧
+    zh_tw: 鐵砧
 ---
 # [[Anvil]] 
 

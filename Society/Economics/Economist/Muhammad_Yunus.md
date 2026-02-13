@@ -154,7 +154,7 @@ dv_has_:
     ba: Мөхәммәт Юныс
     bar: Muhammad Yunus
     be: Мухамад Юнус
-    be-tarask: Мухамад Юнус
+    be_tarask: Мухамад Юнус
     bg: Мухамад Юнус
     bn: মুহাম্মদ ইউনূস
     bs: Muhammad Yunus
@@ -223,7 +223,7 @@ dv_has_:
     pms: Muhammôd Iunūs
     pnb: محمد یونس
     pt: Muhammad Yunus
-    pt-br: Muhammad Yunus
+    pt_br: Muhammad Yunus
     qu: Muhammad Yunus
     ro: Muhammad Yunus
     ru: Мухаммад Юнус

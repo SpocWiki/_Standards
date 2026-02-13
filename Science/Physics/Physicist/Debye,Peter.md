@@ -206,7 +206,7 @@ dv_has_:
     ast: Peter Debye
     azb: پیتر دبای
     be: Петэр Іозеф Вільгельм Дэбай
-    be-tarask: Пэтэр Дэбай
+    be_tarask: Пэтэр Дэбай
     bg: Петер Дебай
     bn: পিটার ডিবাই
     ca: Peter Debye
@@ -216,7 +216,7 @@ dv_has_:
     dag: Peter Debye
     de: Peter Debye
     de-at: Peter Debye
-    de-ch: Peter Debye
+    de_ch: Peter Debye
     el: Πέτερ Ντεμπύ
     en: Peter Debye
     eo: Peter Debye
@@ -265,7 +265,7 @@ dv_has_:
     pms: Peter Debye
     pnb: پیٹر ڈیبے
     pt: Peter Debye
-    pt-br: Peter Debye
+    pt_br: Peter Debye
     qu: Peter Debye
     ro: Peter Debye
     ru: Петер Йозеф Вильгельм Дебай
@@ -291,12 +291,12 @@ dv_has_:
     yo: Peter Debye
     yue: 彼得·德拜
     zh: 彼得·德拜
-    zh-cn: 彼得·德拜
-    zh-hans: 彼得·德拜
-    zh-hant: 彼得·德拜
-    zh-hk: 彼得·德拜
-    zh-sg: 彼得·德拜
-    zh-tw: 彼得·德拜
+    zh_cn: 彼得·德拜
+    zh_hans: 彼得·德拜
+    zh_hant: 彼得·德拜
+    zh_hk: 彼得·德拜
+    zh_sg: 彼得·德拜
+    zh_tw: 彼得·德拜
 ---
 # [[Debye,Peter]] 
 

@@ -101,7 +101,7 @@ dv_has_:
     ba: Эдип
     bar: Edipus
     be: Эдып
-    be-tarask: Эдып
+    be_tarask: Эдып
     bg: Едип
     bn: ইডিপাস
     br: Oidipous
@@ -113,8 +113,8 @@ dv_has_:
     de: Ödipus
     el: Οιδίποδας
     en: Oedipus
-    en-ca: Oedipus
-    en-gb: Oedipus
+    en_ca: Oedipus
+    en_gb: Oedipus
     eo: Edipo
     es: Edipo
     et: Oidipus
@@ -139,7 +139,7 @@ dv_has_:
     kn: ಈಡಿಪಸ್
     ko: 오이디푸스
     ku: Edîpos
-    ku-latn: Edîpos
+    ku_latn: Edîpos
     la: Oedipus
     lb: Ödipus
     lt: Edipas
@@ -156,7 +156,7 @@ dv_has_:
     pa: ਇਡੀਪਸ
     pl: Edyp
     pt: Édipo
-    pt-br: Édipo
+    pt_br: Édipo
     ro: Oedip
     ru: Эдип
     scn: Edipu
@@ -167,8 +167,8 @@ dv_has_:
     sl: Ojdip
     sq: Edipi
     sr: Едип
-    sr-ec: Едип
-    sr-el: Edip
+    sr_ec: Едип
+    sr_el: Edip
     sv: Oidipus
     ta: இடிப்பஸ்
     th: อีดิปัส
@@ -183,12 +183,12 @@ dv_has_:
     yi: עדיפוס
     yue: 伊底帕斯
     zh: 俄狄浦斯
-    zh-cn: 俄狄浦斯
-    zh-hans: 俄狄浦斯
-    zh-hant: 俄狄浦斯
-    zh-hk: 伊底帕斯
-    zh-sg: 俄狄浦斯
-    zh-tw: 伊底帕斯
+    zh_cn: 俄狄浦斯
+    zh_hans: 俄狄浦斯
+    zh_hant: 俄狄浦斯
+    zh_hk: 伊底帕斯
+    zh_sg: 俄狄浦斯
+    zh_tw: 伊底帕斯
 ---
 # [[Oedipus]] 
 

@@ -105,7 +105,7 @@ dv_has_:
     ast: fregaplatos
     az: qabyuyan maşın
     be: посудамыйная машына
-    be-tarask: пасудамыйная машына
+    be_tarask: пасудамыйная машына
     bg: съдомиялня
     ca: rentaplats
     ckb: قاپشۆر
@@ -114,8 +114,8 @@ dv_has_:
     de: Geschirrspülmaschine
     el: πλυντήριο πιάτων
     en: dishwasher
-    en-ca: dishwasher
-    en-gb: dishwasher
+    en_ca: dishwasher
+    en_gb: dishwasher
     eo: telerlavilo
     es: lavavajillas
     et: nõudepesumasin
@@ -136,17 +136,17 @@ dv_has_:
     ja: 食器洗い機
     jv: Mesin pangumbah piring
     kk: ыдыс-аяқ жуу машинасы
-    kk-arab: ىدىس-اياق جۋۋ ماشىيناسى
+    kk_arab: ىدىس-اياق جۋۋ ماشىيناسى
     kk-cn: ىدىس-اياق جۋۋ ماشىيناسى
-    kk-cyrl: ыдыс-аяқ жуу машинасы
+    kk_cyrl: ыдыс-аяқ жуу машинасы
     kk-kz: ыдыс-аяқ жуу машинасы
-    kk-latn: ıdıs-ayaq jww maşïnası
+    kk_latn: ıdıs-ayaq jww maşïnası
     kk-tr: ıdıs-ayaq jww maşïnası
     kn: ಪಾತ್ರೆ ತೊಳೆಯುವ ಯಂತ್ರ
     ko: 식기세척기
     ku: firaqşok
-    ku-arab: فراقشۆک
-    ku-latn: firaqşok
+    ku_arab: فراقشۆک
+    ku_latn: firaqşok
     ky: Идиш жуугуч
     la: machina elutoria
     lb: Spullmaschinn
@@ -157,14 +157,14 @@ dv_has_:
     ms: mesin pencuci pinggan
     myv: кедьгень шлямо машина
     nb: oppvaskmaskin
-    nds-nl: stalen truus
+    nds_nl: stalen truus
     nl: afwasmachine
     nn: Oppvaskmaskin
     pl: zmywarka do naczyń
     pms: Lavapiat
     ps: لوښو مينځلو ماشين
     pt: máquina de lavar louça
-    pt-br: máquina de lavar louça
+    pt_br: máquina de lavar louça
     ro: mașină de spălat vase
     ru: посудомоечная машина
     se: lihttebassanmášiidna
@@ -183,12 +183,12 @@ dv_has_:
     wuu: 汏碗机
     yue: 洗碗碟機
     zh: 洗碗機
-    zh-cn: 洗碗机
-    zh-hans: 洗碗机
-    zh-hant: 洗碗機
-    zh-hk: 洗碗機
-    zh-sg: 洗碗机
-    zh-tw: 洗碗機
+    zh_cn: 洗碗机
+    zh_hans: 洗碗机
+    zh_hant: 洗碗機
+    zh_hk: 洗碗機
+    zh_sg: 洗碗机
+    zh_tw: 洗碗機
 ---
 # [[Dishwasher]] 
 

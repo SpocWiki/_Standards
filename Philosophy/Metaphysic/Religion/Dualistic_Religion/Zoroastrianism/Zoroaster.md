@@ -132,7 +132,7 @@ dv_has_:
     bar: Zarathustra
     bcl: Zoroaster
     be: Заратуштра
-    be-tarask: Заратустра
+    be_tarask: Заратустра
     bew: Jardus
     bg: Зороастър
     bho: जरथुस्त्र
@@ -198,7 +198,7 @@ dv_has_:
     nan: Zarathuštra
     nb: Zarathustra
     nds: Zarathustra
-    nds-nl: Zarathustra
+    nds_nl: Zarathustra
     new: जोरोआस्तर
     nl: Zarathustra
     nn: Zarathustra
@@ -208,7 +208,7 @@ dv_has_:
     pnb: زرتشت
     ps: زردشت
     pt: Zaratustra
-    pt-br: Zaratustra
+    pt_br: Zaratustra
     rki: ဇောရော့အက်စတာ
     ro: Zarathustra
     ru: Заратустра

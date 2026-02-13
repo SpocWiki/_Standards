@@ -96,7 +96,7 @@ dv_has_:
     ast: bancu
     bdr: Bangku
     be: лава
-    be-tarask: лава
+    be_tarask: лава
     bg: пейка
     bho: बेंच
     br: bank
@@ -110,8 +110,8 @@ dv_has_:
     de: Sitzbank
     el: παγκάκι
     en: bench
-    en-ca: bench
-    en-gb: bench
+    en_ca: bench
+    en_gb: bench
     eo: benko
     es: banco
     et: pink
@@ -144,13 +144,13 @@ dv_has_:
     ms: bangku
     my: ခုံတန်းရှည်
     nb: benk
-    nds-nl: banke
+    nds_nl: banke
     nl: bank
     nn: benk
     pl: ławka
     pnb: بنچ
     pt: banco
-    pt-br: banco
+    pt_br: banco
     ro: bancă
     rsk: Лавка
     ru: скамья
@@ -160,8 +160,8 @@ dv_has_:
     shn: တင်ႇယၢဝ်း
     sl: klop
     sr: парковска клупа
-    sr-ec: парковске клупе
-    sr-el: parkovske klupe
+    sr_ec: парковске клупе
+    sr_el: parkovske klupe
     su: Bangku
     sv: bänk
     tcy: ಬೆಂಚಿ
@@ -177,10 +177,10 @@ dv_has_:
     xh: Ibhentshi
     yue: 長凳
     zh: 長椅
-    zh-cn: 长椅
-    zh-hans: 长椅
-    zh-hant: 長椅
-    zh-tw: 長椅
+    zh_cn: 长椅
+    zh_hans: 长椅
+    zh_hant: 長椅
+    zh_tw: 長椅
 ---
 # [[Bench]] 
 

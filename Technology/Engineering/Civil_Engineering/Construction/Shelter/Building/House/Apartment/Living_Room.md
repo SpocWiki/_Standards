@@ -87,7 +87,7 @@ dv_has_:
     an: Sala d'estar
     ar: غرفة المعيشة
     ast: Cuartu de tar
-    be-tarask: гасьцёўня
+    be_tarask: гасьцёўня
     bg: Дневна
     ca: sala d'estar
     cdo: Tiăng-dŏng
@@ -126,12 +126,12 @@ dv_has_:
     nan: lâng-kheh-thiaⁿ
     nb: stue
     nds: Wahnstuuv
-    nds-nl: woenkamer
+    nds_nl: woenkamer
     ne: बैठक कोठा
     nl: woonkamer
     nn: Stove
     pt: sala de estar
-    pt-br: sala de estar
+    pt_br: sala de estar
     ru: гостиная
     se: orrunlatnja
     shn: ႁွင်ႈၶႅၵ်ႇ
@@ -141,8 +141,8 @@ dv_has_:
     sms: jälstemlõnnj
     so: Qolka fadhiga
     sr: дневна соба
-    sr-ec: дневна соба
-    sr-el: dnevna soba
+    sr_ec: дневна соба
+    sr_el: dnevna soba
     sv: vardagsrum
     ta: வாழறை
     th: ห้องรับแขก
@@ -154,14 +154,14 @@ dv_has_:
     war: Guwa
     yue: 大廳
     zh: 客廳
-    zh-cn: 客厅
-    zh-hans: 客厅
-    zh-hant: 客廳
-    zh-hk: 客廳
-    zh-mo: 客廳
+    zh_cn: 客厅
+    zh_hans: 客厅
+    zh_hant: 客廳
+    zh_hk: 客廳
+    zh_mo: 客廳
     zh-my: 客厅
-    zh-sg: 客厅
-    zh-tw: 客廳
+    zh_sg: 客厅
+    zh_tw: 客廳
 ---
 # [[Living_Room]] 
 

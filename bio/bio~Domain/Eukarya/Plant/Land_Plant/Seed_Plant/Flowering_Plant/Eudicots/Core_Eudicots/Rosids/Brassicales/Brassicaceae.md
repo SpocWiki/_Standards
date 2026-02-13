@@ -169,7 +169,7 @@ dv_has_:
     az: Kələmkimilər
     ba: Кәбеҫтә һымаҡтар
     be: капуставыя
-    be-tarask: Капуставыя
+    be_tarask: Капуставыя
     bg: кръстоцветни
     bs: Brassicaceae
     ca: brassicàcies
@@ -206,11 +206,11 @@ dv_has_:
     jv: Brassicaceae
     ka: ჯვაროსნები
     kk: Орамжапырақ тұқымдасы
-    kk-cyrl: орамжапырақ
+    kk_cyrl: орамжапырақ
     ko: 배추과
     ku: Famîleya selketûran
-    ku-arab: فامیلەیا سەلکەتووران
-    ku-latn: Famîleya selketûran
+    ku_arab: فامیلەیا سەلکەتووران
+    ku_latn: Famîleya selketûran
     la: Brassicaceae
     lt: Bastutiniai
     lv: krustziežu dzimta
@@ -227,7 +227,7 @@ dv_has_:
     pl: kapustowate
     pnb: سرھوں دا ٹبر
     pt: Brassicaceae
-    pt-br: Brassicaceae
+    pt_br: Brassicaceae
     qu: Chakana tuktuyuq rikch'aq ayllu
     ro: Brassicaceae
     ru: капустные
@@ -253,12 +253,12 @@ dv_has_:
     wuu: 十字花科
     yue: 十字花科
     zh: 十字花科
-    zh-cn: 十字花科
-    zh-hans: 十字花科
-    zh-hant: 十字花科
-    zh-hk: 十字花科
-    zh-sg: 十字花科
-    zh-tw: 十字花科
+    zh_cn: 十字花科
+    zh_hans: 十字花科
+    zh_hant: 十字花科
+    zh_hk: 十字花科
+    zh_sg: 十字花科
+    zh_tw: 十字花科
 ---
 # [[Brassicaceae]] 
 

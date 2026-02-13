@@ -96,7 +96,7 @@ dv_has_:
     az: Sokrataqədərki fəlsəfə
     ba: Сократҡа тиклемге фәйләсуфтар
     be: Дасакратыкі
-    be-tarask: дасакратыкі
+    be_tarask: дасакратыкі
     bg: Предсократици
     bn: প্রাক-সক্রেতীয় দর্শন
     br: Prederourien kent Sokrates
@@ -148,7 +148,7 @@ dv_has_:
     pl: Filozofia przedsokratejska
     ps: له سقراط مخکې فلسفه
     pt: filosofia pré-socrática
-    pt-br: filosofia pré-socrática
+    pt_br: filosofia pré-socrática
     ro: filosofia presocratică
     ru: Досократики
     sco: Pre-Socratic filosofie
@@ -158,8 +158,8 @@ dv_has_:
     sl: predsokratska filozofija
     sq: Parasokratikët
     sr: Пресократовци
-    sr-ec: Пресократовци
-    sr-el: Presokratovci
+    sr_ec: Пресократовци
+    sr_el: Presokratovci
     sv: Försokratisk filosofi
     th: ปรัชญาในยุคก่อนโสเครตีส
     tr: Sokrates öncesi düşünürler
@@ -171,12 +171,12 @@ dv_has_:
     xmf: სოკრატეშახჷ ფილოსოფია
     yue: 前蘇格拉底哲學
     zh: 前苏格拉底哲学
-    zh-cn: 前苏格拉底哲学
+    zh_cn: 前苏格拉底哲学
     zh-hans: 前苏格拉底哲学
-    zh-hant: 前蘇格拉底哲學
-    zh-hk: 前蘇格拉底哲學
-    zh-sg: 前苏格拉底哲学
-    zh-tw: 前蘇格拉底哲學
+    zh_hant: 前蘇格拉底哲學
+    zh_hk: 前蘇格拉底哲學
+    zh_sg: 前苏格拉底哲学
+    zh_tw: 前蘇格拉底哲學
 ---
 # [[Pre-Socratic_Philosophy]] 
 

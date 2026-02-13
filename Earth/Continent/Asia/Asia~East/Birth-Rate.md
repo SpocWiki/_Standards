@@ -83,7 +83,7 @@ dv_has_:
     ast: Natalidá
     ba: тыуым
     be: Нараджальнасць
-    be-tarask: нараджальнасьць
+    be_tarask: нараджальнасьць
     bg: Раждаемост
     bn: জন্মহার
     br: Feur genel
@@ -116,7 +116,7 @@ dv_has_:
     it: tasso di natalità
     ja: 出生率
     ko: 출생률
-    ku-latn: rêjeya zayînê
+    ku_latn: rêjeya zayînê
     li: Gebuëteciefer
     lt: gimstamumas
     lv: dzimstība
@@ -137,20 +137,20 @@ dv_has_:
     sl: rodnost
     sq: Nataliteti
     sr: наталитет
-    sr-ec: Наталитет
-    sr-el: Natalitet
+    sr_ec: Наталитет
+    sr_el: Natalitet
     sv: födelsetal
     ta: பிறப்பு வீதம்
     tr: doğum oranı
     uk: народжуваність
     vi: tỷ suất sinh thô
     zh: 出生率
-    zh-cn: 出生率
-    zh-hans: 出生率
-    zh-hant: 出生率
-    zh-hk: 出生率
-    zh-sg: 出生率
-    zh-tw: 出生率
+    zh_cn: 出生率
+    zh_hans: 出生率
+    zh_hant: 出生率
+    zh_hk: 出生率
+    zh_sg: 出生率
+    zh_tw: 出生率
 ---
 # [[Birth-Rate]] 
 

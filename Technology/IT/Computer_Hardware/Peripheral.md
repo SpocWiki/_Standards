@@ -102,7 +102,7 @@ dv_has_:
     ar: طرفية
     az: periferiya qurğuları
     be: перыферыйная прылада
-    be-tarask: пэрыфэрыйная прылада
+    be_tarask: пэрыфэрыйная прылада
     bg: Периферно устройство
     br: Trobarzhell
     bs: periferija
@@ -132,11 +132,11 @@ dv_has_:
     ja: 周辺機器
     ka: პერიფერიული მოწყობილობა
     kk: Сыртқы (шалғай) жабдық
-    kk-arab: سىرتقى (شالعاي) جابدىق
+    kk_arab: سىرتقى (شالعاي) جابدىق
     kk-cn: سىرتقى (شالعاي) جابدىق
-    kk-cyrl: Сыртқы (шалғай) жабдық
+    kk_cyrl: Сыртқы (шалғай) жабдық
     kk-kz: Сыртқы (шалғай) жабдық
-    kk-latn: Sırtqı (şalğaý) jabdıq
+    kk_latn: Sırtqı (şalğaý) jabdıq
     kk-tr: Sırtqı (şalğaý) jabdıq
     kn: ಪೆರಿಫೆರಲ್ ಎಕ್ಯುಪ್ಮೆಂಟ್
     ko: 주변기기
@@ -156,7 +156,7 @@ dv_has_:
     pl: urządzenie peryferyjne
     pms: Periférica
     pt: periférico
-    pt-br: Periférico
+    pt_br: Periférico
     qu: Muyupayaq
     ro: dispozitiv periferic
     ru: периферийное устройство
@@ -167,8 +167,8 @@ dv_has_:
     sl: zunanja naprava
     sq: pajisje periferike
     sr: периферни уређај
-    sr-ec: периферни уређај
-    sr-el: periferni uređaj
+    sr_ec: периферни уређај
+    sr_el: periferni uređaj
     sv: kringutrustning
     sw: Kipembezo
     te: పెరిఫెరల్
@@ -180,12 +180,12 @@ dv_has_:
     wuu: 外部设备
     yue: 電腦週邊設備
     zh: 外部设备
-    zh-cn: 外部设备
-    zh-hans: 外部设备
-    zh-hant: 外部設備
-    zh-hk: 外部設備
-    zh-sg: 外部设备
-    zh-tw: 外部設備
+    zh_cn: 外部设备
+    zh_hans: 外部设备
+    zh_hant: 外部設備
+    zh_hk: 外部設備
+    zh_sg: 外部设备
+    zh_tw: 外部設備
 ---
 # [[Peripheral]] 
 

@@ -65,7 +65,7 @@ dv_has_:
     ab: Румыниа
     ace: Rumania
     ady: Румание
-    aeb-arab: رومانيا
+    aeb_arab: رومانيا
     af: Roemenië
     am: ሮማንያ
     ami: Romania
@@ -89,7 +89,7 @@ dv_has_:
     bar: Rumänien
     bcl: Romanya
     be: Румынія
-    be-tarask: Румынія
+    be_tarask: Румынія
     bew: Ruméni
     bg: Румъния
     bgn: رومانیا
@@ -103,7 +103,7 @@ dv_has_:
     bs: Rumunija
     bxr: Румын
     ca: Romania
-    cbk-zam: Rumanía
+    cbk_zam: Rumanía
     cdo: Romania
     ce: Румыни
     ceb: Romania
@@ -112,7 +112,7 @@ dv_has_:
     ckb: ڕۆمانیا
     co: Romania
     crh: Romaniya
-    crh-latn: Romaniya
+    crh_latn: Romaniya
     crh-ro: Rumaniye
     cs: Rumunsko
     csb: Rumùńskô
@@ -123,7 +123,7 @@ dv_has_:
     dag: Romania
     de: Rumänien
     de-at: Rumänien
-    de-ch: Rumänien
+    de_ch: Rumänien
     diq: Romanya
     dsb: Rumuńska
     dty: रोमानिया
@@ -133,8 +133,8 @@ dv_has_:
     el: Ρουμανία
     eml: Rumanî
     en: Romania
-    en-ca: Romania
-    en-gb: Romania
+    en_ca: Romania
+    en_gb: Romania
     en-us: Romania
     eo: Rumanio
     es: Rumania
@@ -159,7 +159,7 @@ dv_has_:
     gn: Rrumaña
     gom: रोमेनिया
     gom-deva: रोमेनिया
-    gom-latn: Romania
+    gom_latn: Romania
     got: "\U00010342\U0001033F\U0001033C\U00010330\U0001033D\U0001033E\U00010330"
     gpe: Romania
     gsw: Rumänie
@@ -232,7 +232,7 @@ dv_has_:
     lzh: 羅馬尼亞
     mad: Romania
     mai: रोमानिया
-    map-bms: Rumania
+    map_bms: Rumania
     mdf: Румыния
     mg: Romania
     mhr: Румыний
@@ -246,7 +246,7 @@ dv_has_:
     mos: Romania
     mr: रोमेनिया
     ms: Romania
-    ms-arab: رومانيا
+    ms_arab: رومانيا
     mt: Rumanija
     mwl: Roménia
     my: ရိုမေးနီးယားနိုင်ငံ
@@ -258,7 +258,7 @@ dv_has_:
     nap: Rumania
     nb: Romania
     nds: Rumänien
-    nds-nl: Roemenië
+    nds_nl: Roemenië
     ne: रोमानिया
     new: रोमानिया
     nl: Roemenië
@@ -285,7 +285,7 @@ dv_has_:
     pnt: Ρουμανία
     ps: رومانیا
     pt: Roménia
-    pt-br: Romênia
+    pt_br: Romênia
     qu: Rumanya
     rm: Rumenia
     rmy: Rumuniya
@@ -318,8 +318,8 @@ dv_has_:
     so: Romania
     sq: Rumania
     sr: Румунија
-    sr-ec: Румунија
-    sr-el: Rumunija
+    sr_ec: Румунија
+    sr_el: Rumunija
     srn: Romenikondre
     ss: IRomaniya
     st: Romania
@@ -345,7 +345,7 @@ dv_has_:
     tr: Romanya
     trv: Romania
     tt: Румыния
-    tt-latn: Rumıniä
+    tt_latn: Rumıniä
     tum: Romania
     tw: Romania
     udm: Румыния
@@ -373,10 +373,10 @@ dv_has_:
     zea: Roemenië
     zgh: ⵕⵓⵎⴰⵏⵢⴰ
     zh: 羅馬尼亞
-    zh-cn: 罗马尼亚
-    zh-hans: 罗马尼亚
-    zh-hant: 羅馬尼亞
-    zh-tw: 羅馬尼亞
+    zh_cn: 罗马尼亚
+    zh_hans: 罗马尼亚
+    zh_hant: 羅馬尼亞
+    zh_tw: 羅馬尼亞
     zu: IRomaniya
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Romania

@@ -431,13 +431,13 @@ dv_has_:
     ba: Пьер Огюст Ренуар
     bar: Auguste Renoir
     be: П'ер Агюст Рэнуар
-    be-tarask: П’ер Агюст Рэнуар
+    be_tarask: П’ер Агюст Рэнуар
     bg: Пиер-Огюст Реноар
     bn: পিয়ের-ওগ্যুস্ত রনোয়ার
     br: Auguste Renoir
     bs: Pierre-Auguste Renoir
     ca: Pierre-Auguste Renoir
-    cbk-zam: Pierre-Auguste Renoir
+    cbk_zam: Pierre-Auguste Renoir
     ckb: پیێر ئۆگوست ڕێنوار
     co: Auguste Renoir
     cs: Pierre-Auguste Renoir
@@ -446,11 +446,11 @@ dv_has_:
     da: Pierre-Auguste Renoir
     de: Pierre-Auguste Renoir
     de-at: Auguste Renoir
-    de-ch: Auguste Renoir
+    de_ch: Auguste Renoir
     el: Πιερ-Ωγκύστ Ρενουάρ
     en: Pierre-Auguste Renoir
-    en-ca: Auguste Renoir
-    en-gb: Auguste Renoir
+    en_ca: Auguste Renoir
+    en_gb: Auguste Renoir
     eo: Pierre-Auguste Renoir
     es: Pierre-Auguste Renoir
     et: Pierre-Auguste Renoir
@@ -502,7 +502,7 @@ dv_has_:
     nap: Auguste Renoir
     nb: Pierre-Auguste Renoir
     nds: Pierre-Auguste Renoir
-    nds-nl: Auguste Renoir
+    nds_nl: Auguste Renoir
     nl: Pierre-Auguste Renoir
     nn: Auguste Renoir
     nrm: Pierre-Auguste Renoir
@@ -516,7 +516,7 @@ dv_has_:
     pl: Auguste Renoir
     pms: Pierre-Auguste Renoir
     pt: Pierre-Auguste Renoir
-    pt-br: Auguste Renoir
+    pt_br: Auguste Renoir
     qu: Pierre-Auguste Renoir
     rm: Auguste Renoir
     ro: Pierre-Auguste Renoir
@@ -528,8 +528,8 @@ dv_has_:
     sl: Auguste Renoir
     sq: Pierre-Auguste Renoir
     sr: Пјер Огист Реноар
-    sr-ec: Пјер Огист Реноар
-    sr-el: Auguste Renoir
+    sr_ec: Пјер Огист Реноар
+    sr_el: Auguste Renoir
     stq: Pierre-Auguste Renoir
     sv: Auguste Renoir
     sw: Auguste Renoir
@@ -550,7 +550,7 @@ dv_has_:
     yi: פיער-אגוסט רענואר
     yue: 雷諾亞
     zh: 皮耶-奧古斯特·雷諾瓦
-    zh-hant: 皮耶-奧古斯特·雷諾瓦
+    zh_hant: 皮耶-奧古斯特·雷諾瓦
     zu: Auguste Renoir
 ---
 # [[Renoir,Pierre-Auguste]] 

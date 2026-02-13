@@ -57,15 +57,15 @@ dv_has_:
   name_:
     ar: دلالة موضعية
     ast: notación posicional
-    be-tarask: пазыцыйная натацыя
+    be_tarask: пазыцыйная натацыя
     bn: অবস্থানভিত্তিক অঙ্কপাতন
     ca: notació posicional
     cs: poziční notace
     de: Stellenwertsystem
     el: σημειογραφία της θέσης
     en: positional notation
-    en-ca: positional notation
-    en-gb: positional notation
+    en_ca: positional notation
+    en_gb: positional notation
     eo: pozicia nombrosistemo
     es: notación posicional
     et: positsiooniline arvusüsteem
@@ -91,7 +91,7 @@ dv_has_:
     nl: positiestelsel
     pl: systemy pozycyjne
     pt: notação posicional
-    pt-br: notação posicional
+    pt_br: notação posicional
     ro: sistem pozițional de notare
     ru: позиционная нотация
     sl: pozicijski zapis
@@ -105,10 +105,10 @@ dv_has_:
     ur: مقامیاتی ترقیم
     yue: 進位制
     zh: 进位制
-    zh-hans: 进位制
-    zh-hant: 進位制
-    zh-hk: 進位制
-    zh-tw: 進位制
+    zh_hans: 进位制
+    zh_hant: 進位制
+    zh_hk: 進位制
+    zh_tw: 進位制
 ---
 # [[Positional_Notation]] 
 

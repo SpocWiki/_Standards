@@ -65,7 +65,7 @@ dv_has_:
   name_:
     ar: رأس المال الاجتماعي
     az: İctimai kapital
-    be-tarask: сацыяльны капітал
+    be_tarask: сацыяльны капітал
     bs: Socijalni kapital
     ca: capital social
     cs: sociální kapitál
@@ -105,7 +105,7 @@ dv_has_:
     ru: социальный капитал
     sl: socialni kapital
     sr: Društveni kapital
-    sr-el: Društveni kapital
+    sr_el: Društveni kapital
     sv: Socialt kapital
     ta: சமூக மூலதனம்
     th: ทุนทางสังคม
@@ -114,12 +114,12 @@ dv_has_:
     vi: Vốn xã hội
     wuu: 社会资本
     zh: 社会资本
-    zh-cn: 社会资本
-    zh-hans: 社会资本
-    zh-hant: 社會資本
-    zh-hk: 社會資本
-    zh-sg: 社会资本
-    zh-tw: 社會資本
+    zh_cn: 社会资本
+    zh_hans: 社会资本
+    zh_hant: 社會資本
+    zh_hk: 社會資本
+    zh_sg: 社会资本
+    zh_tw: 社會資本
 ---
 # [[Social_Capital]] 
 

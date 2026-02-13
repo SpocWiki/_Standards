@@ -56,7 +56,7 @@ dv_has_:
     ar: كبريتيد
     azb: سولفید
     be: Сульфіды
-    be-tarask: сульфід
+    be_tarask: сульфід
     bg: Сулфид
     bn: সালফাইড
     ca: sulfur
@@ -96,8 +96,8 @@ dv_has_:
     sk: Sulfid
     sl: sulfid
     sr: Сулфид
-    sr-ec: Сулфид
-    sr-el: Sulfid
+    sr_ec: Сулфид
+    sr_el: Sulfid
     sv: sulfid
     ta: சல்பைடு
     tr: Sülfür
@@ -105,12 +105,12 @@ dv_has_:
     vi: Sunfua
     yue: 硫化物
     zh: 硫化物
-    zh-cn: 硫化物
-    zh-hans: 硫化物
-    zh-hant: 硫化物
-    zh-hk: 硫化物
-    zh-sg: 硫化物
-    zh-tw: 硫化物
+    zh_cn: 硫化物
+    zh_hans: 硫化物
+    zh_hant: 硫化物
+    zh_hk: 硫化物
+    zh_sg: 硫化物
+    zh_tw: 硫化物
 dv_is_same_as: '[[WD~Sulfide,221205]]'
 dv_has_formula_structural: R-S-R'
 ---

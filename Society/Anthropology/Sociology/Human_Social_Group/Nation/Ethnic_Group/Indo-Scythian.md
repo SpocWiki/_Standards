@@ -76,7 +76,7 @@ dv_has_:
     ar: الهنود الإصقوثيون
     ast: Indoescites
     ba: Һинд-скиф батшалығы
-    be-tarask: Інда-скіцкае каралеўства
+    be_tarask: Інда-скіцкае каралеўства
     bg: Индо-скитско царство
     ca: Indo-Escita
     cs: Indoskythové

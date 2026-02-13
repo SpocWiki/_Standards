@@ -105,7 +105,7 @@ dv_has_:
     azb: نظریه
     ba: теория
     be: тэорыя
-    be-tarask: тэорыя
+    be_tarask: тэорыя
     bg: Теория
     bho: थियरी
     bn: তত্ত্ব
@@ -163,7 +163,7 @@ dv_has_:
     ml: സിദ്ധാന്തം
     mn: Онол
     ms: teori
-    ms-arab: تيوري
+    ms_arab: تيوري
     my: သီအိုရီ
     nan: Lí-lūn
     nb: teori
@@ -177,7 +177,7 @@ dv_has_:
     pms: Teorìa
     ps: نظريه
     pt: teoria
-    pt-br: teoria
+    pt_br: teoria
     qu: Ñasa
     ro: teorie
     ru: теория
@@ -198,8 +198,8 @@ dv_has_:
     sn: Dudzirazivo
     sq: teori
     sr: теорија
-    sr-ec: теорија
-    sr-el: teorija
+    sr_ec: теорија
+    sr_el: teorija
     sv: teori
     sw: Nadharia
     ta: கொள்கை
@@ -209,8 +209,8 @@ dv_has_:
     tl: Teoriya
     tr: kuram
     tt: теория
-    tt-cyrl: теория
-    tt-latn: teoriä
+    tt_cyrl: теория
+    tt_latn: teoriä
     uk: теорія
     ur: نظریہ
     uz: Nazariya
@@ -223,11 +223,11 @@ dv_has_:
     yue: 理論
     zgh: ⴰⵙⵎⵉⵍ:ⵜⵉⵥⵕⵉⵡⵉⵏ
     zh: 理論
-    zh-cn: 理论
-    zh-hans: 理论
-    zh-hant: 理論
-    zh-hk: 理論
-    zh-tw: 理論
+    zh_cn: 理论
+    zh_hans: 理论
+    zh_hant: 理論
+    zh_hk: 理論
+    zh_tw: 理論
     zu: theory
 ---
 # [[Theory]] 

@@ -183,7 +183,7 @@ dv_has_:
     bas: malep ma nyo
     bcl: Tubig na inomon
     be: пітная вада
-    be-tarask: пітная вада
+    be_tarask: пітная вада
     bg: Питейна вода
     bn: পানীয় জল
     ca: aigua potable
@@ -200,8 +200,8 @@ dv_has_:
     dua: madiba
     el: Πόσιμο νερό
     en: drinking water
-    en-ca: drinking water
-    en-gb: drinking water
+    en_ca: drinking water
+    en_gb: drinking water
     en-us: drinking water
     eo: trinkakvo
     es: agua potable
@@ -264,7 +264,7 @@ dv_has_:
     pa: ਪੀਣ ਵਾਲਾ ਪਾਣੀ
     pl: woda pitna
     pt: água potável
-    pt-br: água potável
+    pt_br: água potável
     qu: Upyana yaku
     ro: Apă potabilă
     ru: питьевая вода
@@ -298,10 +298,10 @@ dv_has_:
     yue: 食水
     za: raemxgwn
     zh: 饮用水
-    zh-cn: 饮用水
-    zh-hans: 饮用水
+    zh_cn: 饮用水
+    zh_hans: 饮用水
     zh-my: 食水
-    zh-sg: 食水
+    zh_sg: 食水
 ---
 # [[Drinking_Water]] 🚰 
 

@@ -144,7 +144,7 @@ dv_has_:
     ba: Гюстав Флобер
     bcl: Flaubert
     be: Гюстаў Флабер
-    be-tarask: Гюстаў Флябэр
+    be_tarask: Гюстаў Флябэр
     bg: Гюстав Флобер
     bn: গুস্তাভ ফ্লোবের
     br: Gustave Flaubert
@@ -159,8 +159,8 @@ dv_has_:
     diq: Gustave Flaubert
     el: Γκυστάβ Φλωμπέρ
     en: Gustave Flaubert
-    en-ca: Gustave Flaubert
-    en-gb: Gustave Flaubert
+    en_ca: Gustave Flaubert
+    en_gb: Gustave Flaubert
     eo: Gustave Flaubert
     es: Gustave Flaubert
     et: Gustave Flaubert
@@ -217,7 +217,7 @@ dv_has_:
     pms: Gustave Flaubert
     pnb: گستاف فلابیر
     pt: Gustave Flaubert
-    pt-br: Gustave Flaubert
+    pt_br: Gustave Flaubert
     qu: Gustave Flaubert
     ro: Gustave Flaubert
     ru: Гюстав Флобер

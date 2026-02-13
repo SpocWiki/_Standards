@@ -261,7 +261,7 @@ dv_has_:
     pl: mocznik
     pnb: یوریا
     pt: ureia
-    pt-br: ureia
+    pt_br: ureia
     ro: Uree
     ru: мочевина
     sh: Urea

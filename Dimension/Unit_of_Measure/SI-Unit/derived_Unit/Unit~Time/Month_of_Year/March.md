@@ -307,7 +307,7 @@ dv_has_:
   name_:
     ab: Хәажәкырамза
     ady: Гъэтхапэ
-    aeb-arab: مارس
+    aeb_arab: مارس
     af: Maart
     agq: Ndzɔŋ è Tə̀dʉ̀ghà
     alt: Тулаан ай
@@ -336,11 +336,11 @@ dv_has_:
     bas: m√§tumb
     bax: mùt Mars
     bbc: Bulan hurung
-    bbc-latn: Hurung
+    bbc_latn: Hurung
     bbj: dzə̂tsə́
     bcl: Marso
     be: сакавік
-    be-tarask: сакавік
+    be_tarask: сакавік
     bew: Maret
     bg: Март
     bho: मार्च
@@ -357,7 +357,7 @@ dv_has_:
     bxr: 3 һар
     byv: njwìdcu
     ca: març
-    cbk-zam: Marso
+    cbk_zam: Marso
     cdo: 3 nguŏk
     ce: Биэкарг бутт
     ceb: Marso
@@ -366,7 +366,7 @@ dv_has_:
     ckb: ئازار
     co: Marzu
     crh: Mart
-    crh-latn: Mart
+    crh_latn: Mart
     cs: březen
     csb: strëmiannik
     cu: мартъ
@@ -375,7 +375,7 @@ dv_has_:
     da: marts
     dag: March
     de: März
-    de-ch: März
+    de_ch: März
     diq: Adar
     dsb: měrc
     dtp: Gomot
@@ -385,8 +385,8 @@ dv_has_:
     el: Μάρτιος
     eml: Mêrs
     en: March
-    en-ca: March
-    en-gb: March
+    en_ca: March
+    en_gb: March
     en-us: March
     eo: marto
     es: marzo
@@ -469,7 +469,7 @@ dv_has_:
     ks: زیٹھ
     ksh: Määz
     ku: adar
-    ku-latn: adar
+    ku_latn: adar
     kv: Рака тӧлысь
     kw: Mis Meurth
     ky: Март
@@ -491,7 +491,7 @@ dv_has_:
     lv: marts
     lzh: 建辰
     mai: मार्च
-    map-bms: Maret
+    map_bms: Maret
     mcp: ”ŋwíí akǝ ráá"
     mdf: эйзюрков
     mg: Martsa
@@ -506,7 +506,7 @@ dv_has_:
     mr: मार्च महिना
     mrj: Март
     ms: Mac
-    ms-arab: مچ
+    ms_arab: مچ
     mt: Marzu
     mua: cokcwaklii
     mwl: Márcio
@@ -518,7 +518,7 @@ dv_has_:
     nap: Màrzo
     nb: mars
     nds: März
-    nds-nl: meert
+    nds_nl: meert
     ne: मार्च
     new: मार्च
     nl: maart
@@ -544,7 +544,7 @@ dv_has_:
     pnt: Μαρτς
     ps: مارچ
     pt: março
-    pt-br: março
+    pt_br: março
     qu: Pawqar waray killa
     ro: martie
     roa-tara: Màrze
@@ -574,7 +574,7 @@ dv_has_:
     so: Maarso
     sq: Marsi
     sr: Март
-    sr-ec: Март
+    sr_ec: Март
     ss: ÍNdlovu
     su: Maret
     sv: mars
@@ -627,14 +627,14 @@ dv_has_:
     zea: Maerte
     zgh: ⵎⴰⵕⵚ
     zh: 3月
-    zh-cn: 3月
-    zh-hans: 3月
-    zh-hant: 3月
-    zh-hk: 3月
-    zh-mo: 3月
+    zh_cn: 3月
+    zh_hans: 3月
+    zh_hant: 3月
+    zh_hk: 3月
+    zh_mo: 3月
     zh-my: 3月
-    zh-sg: 3月
-    zh-tw: 3月
+    zh_sg: 3月
+    zh_tw: 3月
     zu: UNdasa (uMashi)
 ---
 # [[March]]

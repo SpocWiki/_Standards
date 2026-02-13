@@ -148,7 +148,7 @@ dv_has_:
     ba: Үтә бейек йорттар
     bcl: Skyscraper
     be: небаскроб
-    be-tarask: хмарачос
+    be_tarask: хмарачос
     bg: Небостъргач
     bn: গগনচুম্বী অট্টালিকা
     br: Skraber-oabl
@@ -160,12 +160,12 @@ dv_has_:
     cy: nendwr
     da: skyskraber
     de: Wolkenkratzer
-    de-ch: Wolkenkratzer
+    de_ch: Wolkenkratzer
     diq: Asmênkendoğ
     el: ουρανοξύστης
     en: skyscraper
-    en-ca: skyscraper
-    en-gb: skyscraper
+    en_ca: skyscraper
+    en_gb: skyscraper
     eo: nubskrapulo
     es: rascacielos
     et: pilvelõhkuja
@@ -195,7 +195,7 @@ dv_has_:
     kn: ಗಗನಚುಂಬಿ ಕಟ್ಟಡ
     ko: 마천루
     ku: balaxane
-    ku-latn: balaxanî
+    ku_latn: balaxanî
     kv: Небоскрёб
     kw: tour ebron
     la: Caeliscalpium
@@ -219,7 +219,7 @@ dv_has_:
     pl: wieżowiec
     ps: لوړه ودانۍ
     pt: arranha-céu
-    pt-br: arranha-céu
+    pt_br: arranha-céu
     qu: Hanaq hasp'iq
     ro: zgârie-nori
     ru: небоскрёб
@@ -250,14 +250,14 @@ dv_has_:
     yo: ilé gogoro
     yue: 摩天大廈
     zh: 摩天大樓
-    zh-cn: 摩天大楼
-    zh-hans: 摩天大楼
-    zh-hant: 摩天大樓
-    zh-hk: 摩天大廈
-    zh-mo: 摩天大廈
+    zh_cn: 摩天大楼
+    zh_hans: 摩天大楼
+    zh_hant: 摩天大樓
+    zh_hk: 摩天大廈
+    zh_mo: 摩天大廈
     zh-my: 摩天大楼
-    zh-sg: 摩天大楼
-    zh-tw: 摩天大樓
+    zh_sg: 摩天大楼
+    zh_tw: 摩天大樓
     zu: Umbijongo
 ---
 # [[Skyscraper]] 

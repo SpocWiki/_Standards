@@ -212,7 +212,7 @@ dv_has_:
     az: prostat xərçəngi
     bcl: Kanser sa prostata
     be: рак прадсталёвай залозы
-    be-tarask: рак падкарэньніцы
+    be_tarask: рак падкарэньніцы
     bg: Рак на простатата
     bn: প্রোস্টেট ক্যান্সার
     bs: Rak prostate
@@ -254,7 +254,7 @@ dv_has_:
     ka: პროსტატის კიბო
     ko: 전립샘암
     ku: şêrpenceya prostatê
-    ku-latn: şêrpenceya prostatê
+    ku_latn: şêrpenceya prostatê
     kw: kanker an ragwagren
     la: Cancer prostatae
     lb: Prostatakriibs
@@ -274,7 +274,7 @@ dv_has_:
     pl: rak gruczołu krokowego
     ps: د پروستات سرطان
     pt: cancro da próstata
-    pt-br: câncer de próstata
+    pt_br: câncer de próstata
     rki: ဆီးကြိတ်ကင်ဆာ
     ro: cancer de prostată
     ru: рак простаты
@@ -300,12 +300,12 @@ dv_has_:
     wuu: 前列腺癌
     yue: 前列腺癌
     zh: 前列腺癌
-    zh-cn: 前列腺癌
-    zh-hans: 前列腺癌
-    zh-hant: 前列腺癌
-    zh-hk: 前列腺癌
-    zh-sg: 前列腺癌
-    zh-tw: 前列腺癌
+    zh_cn: 前列腺癌
+    zh_hans: 前列腺癌
+    zh_hant: 前列腺癌
+    zh_hk: 前列腺癌
+    zh_sg: 前列腺癌
+    zh_tw: 前列腺癌
     zu: Umdlavuza wePrastate
 ---
 # [[Prostate_Cancer]] 

@@ -111,7 +111,7 @@ dv_has_:
     ba: Джеймс Дин
     bar: James Dean
     be: Джэймс Дын
-    be-tarask: Джэймз Дын
+    be_tarask: Джэймз Дын
     bg: Джеймс Дийн
     bi: James Dean
     bm: James Dean
@@ -126,11 +126,11 @@ dv_has_:
     da: James Dean
     de: James Dean
     de-at: James Dean
-    de-ch: James Dean
+    de_ch: James Dean
     el: Τζέιμς Ντην
     en: James Dean
-    en-ca: James Dean
-    en-gb: James Dean
+    en_ca: James Dean
+    en_gb: James Dean
     eo: James Dean
     es: James Dean
     et: James Dean
@@ -185,7 +185,7 @@ dv_has_:
     nap: James Dean
     nb: James Dean
     nds: James Dean
-    nds-nl: James Dean
+    nds_nl: James Dean
     nl: James Dean
     nn: James Dean
     nrm: James Dean
@@ -198,7 +198,7 @@ dv_has_:
     pms: James Dean
     prg: James Dean
     pt: James Dean
-    pt-br: James Dean
+    pt_br: James Dean
     qu: James Dean
     rgn: James Dean
     rm: James Dean
@@ -211,7 +211,7 @@ dv_has_:
     sl: James Dean
     sq: James Dean
     sr: Џејмс Дин
-    sr-el: James Dean
+    sr_el: James Dean
     su: James Dean
     sv: James Dean
     sw: James Dean
@@ -235,13 +235,13 @@ dv_has_:
     yo: James Dean
     yue: 占士甸
     zh: 占士·甸
-    zh-cn: 詹姆斯·迪安
-    zh-hans: 詹姆斯·迪恩
-    zh-hant: 詹姆斯·狄恩
-    zh-hk: 占士甸
+    zh_cn: 詹姆斯·迪安
+    zh_hans: 詹姆斯·迪恩
+    zh_hant: 詹姆斯·狄恩
+    zh_hk: 占士甸
     zh-my: 占士·甸
-    zh-sg: 占士·甸
-    zh-tw: 詹姆斯·狄恩
+    zh_sg: 占士·甸
+    zh_tw: 詹姆斯·狄恩
     zu: James Dean
 ---
 # [[Dean,James]] 

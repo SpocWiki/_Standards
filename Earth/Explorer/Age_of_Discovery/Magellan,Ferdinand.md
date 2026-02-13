@@ -180,7 +180,7 @@ dv_has_:
     bar: Ferdinand Magellan
     bcl: Ferdinand Magellan
     be: Фернан Магелан
-    be-tarask: Фэрнан Магелан
+    be_tarask: Фэрнан Магелан
     bg: Фернандо Магелан
     bn: ফার্ডিনান্ড ম্যাগেলান
     br: Fernão de Magalhães
@@ -188,7 +188,7 @@ dv_has_:
     btm: Ferdinand Magellan
     bxr: Фернан Магеллан
     ca: Fernão de Magalhães
-    cbk-zam: Fernando de Magallanes
+    cbk_zam: Fernando de Magallanes
     cdo: Ferdinand Magellan
     ce: Магеллан, Фернан
     ceb: Fernando de Magallanes
@@ -201,13 +201,13 @@ dv_has_:
     cy: Fernão de Magalhães
     da: Ferdinand Magellan
     de: Ferdinand Magellan
-    de-ch: Ferdinand Magellan
+    de_ch: Ferdinand Magellan
     diq: Ferdinand Macellan
     dtp: Ferdinand Magellan
     el: Φερδινάνδος Μαγγελάνος
     en: Ferdinand Magellan
-    en-ca: Ferdinand Magellan
-    en-gb: Ferdinand Magellan
+    en_ca: Ferdinand Magellan
+    en_gb: Ferdinand Magellan
     eo: Fernão de Magalhães
     es: Fernando de Magallanes
     et: Fernão de Magalhães
@@ -283,7 +283,7 @@ dv_has_:
     nan: Fernão de Magalhães
     nb: Ferdinand Magellan
     nds: Ferdinand Magellan
-    nds-nl: Ferdinand Magellaan
+    nds_nl: Ferdinand Magellaan
     ne: फर्डिनान्ड म्यागलन
     nl: Ferdinand Magellaan
     nn: Fernão de Magalhães
@@ -299,7 +299,7 @@ dv_has_:
     pms: Ferdinand Magelan
     pnb: فرڈیننڈ میگلان
     pt: Fernão de Magalhães
-    pt-br: Fernão de Magalhães
+    pt_br: Fernão de Magalhães
     qu: Fernão de Magalhães
     ro: Fernando Magellan
     ru: Фернан Магеллан
@@ -345,9 +345,9 @@ dv_has_:
     yo: Ferdinand Magellan
     yue: 麥哲倫
     zh: 斐迪南·麥哲倫
-    zh-hans: 斐迪南·麦哲伦
-    zh-hant: 斐迪南·麥哲倫
-    zh-hk: 費迪南·麥哲倫
+    zh_hans: 斐迪南·麦哲伦
+    zh_hant: 斐迪南·麥哲倫
+    zh_hk: 費迪南·麥哲倫
 ---
 # [[Magellan,Ferdinand]] 
 

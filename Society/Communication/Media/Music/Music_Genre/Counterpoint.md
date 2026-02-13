@@ -44,7 +44,7 @@ dv_has_:
     ar: طباق
     ast: contrapuntu
     be: кантрапункт
-    be-tarask: кантрапункт
+    be_tarask: кантрапункт
     bg: контрапункт
     ca: contrapunt
     ckb: کاونتەرپۆینت
@@ -93,8 +93,8 @@ dv_has_:
     sk: kontrapunkt
     sl: kontrapunkt
     sr: контрапункт
-    sr-ec: контрапункт
-    sr-el: kontrapunkt
+    sr_ec: контрапункт
+    sr_el: kontrapunkt
     sv: kontrapunkt
     th: ทำนองสัมพันธ์
     tr: kontrpuan
@@ -104,12 +104,12 @@ dv_has_:
     wuu: 对位法
     yue: 對位法
     zh: 对位法
-    zh-cn: 对位法
-    zh-hans: 对位法
-    zh-hant: 對位法
-    zh-hk: 對位法
-    zh-sg: 对位法
-    zh-tw: 對位法
+    zh_cn: 对位法
+    zh_hans: 对位法
+    zh_hant: 對位法
+    zh_hk: 對位法
+    zh_sg: 对位法
+    zh_tw: 對位法
 ---
 # [[Counterpoint]] 
 

@@ -300,7 +300,7 @@ dv_has_:
     bar: ABBA
     bcl: ABBA
     be: ABBA
-    be-tarask: ABBA
+    be_tarask: ABBA
     bg: АББА
     bi: ABBA
     bn: অ্যাবা
@@ -308,7 +308,7 @@ dv_has_:
     bs: ABBA
     bug: ABBA
     ca: ABBA
-    cbk-zam: ABBA
+    cbk_zam: ABBA
     ce: ABBA
     ceb: ABBA
     cho: ABBA
@@ -486,10 +486,10 @@ dv_has_:
     yue: ABBA
     zea: ABBA
     zh: ABBA
-    zh-cn: ABBA
-    zh-hant: ABBA
-    zh-hk: ABBA
-    zh-tw: ABBA
+    zh_cn: ABBA
+    zh_hant: ABBA
+    zh_hk: ABBA
+    zh_tw: ABBA
     zu: ABBA
 ---
 # [[ABBA]]

@@ -150,27 +150,27 @@ dv_has_:
     sms: oođâskääzzkõs
     sq: Agjencia e lajmeve
     sr: новинска агенција
-    sr-ec: новинска агенција
-    sr-el: novinska agencija
+    sr_ec: новинска агенција
+    sr_el: novinska agencija
     sv: nyhetsbyrå
     tg: хабаргузорӣ
-    tg-cyrl: Оҷонсиҳои иттилоотӣ
+    tg_cyrl: Оҷонсиҳои иттилоотӣ
     th: สำนักข่าว
     tr: haber ajansı
     tt: мәгълүмат агентлыгы
-    tt-cyrl: мәгълүмат агентлыгы
+    tt_cyrl: мәгълүмат агентлыгы
     uk: інформаційна агенція
     ur: خبر رساں ایجنسی
     uz: Informatsion agentlik
     vi: hãng thông tấn
     yue: 通訊社
     zh: 通讯社
-    zh-cn: 通讯社
-    zh-hans: 通讯社
-    zh-hant: 通訊社
-    zh-hk: 通訊社
-    zh-sg: 通讯社
-    zh-tw: 通訊社
+    zh_cn: 通讯社
+    zh_hans: 通讯社
+    zh_hant: 通訊社
+    zh_hk: 通訊社
+    zh_sg: 通讯社
+    zh_tw: 通訊社
 ---
 # [[News_Agency]] 
 

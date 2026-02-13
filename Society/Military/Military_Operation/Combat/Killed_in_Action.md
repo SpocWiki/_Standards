@@ -116,7 +116,7 @@ dv_has_:
     ba: яуҙа һәләк була
     ban: Séda ring rana
     be: загінуў у баі
-    be-tarask: загінуў у баі
+    be_tarask: загінуў у баі
     bg: убит в битка
     bn: যুদ্ধরত অবস্থায় মৃত্যু
     br: marv war an dachenn
@@ -154,7 +154,7 @@ dv_has_:
     ka: ბრძოლაში დაიღუპა
     ko: 작전 중 사망
     ku: kuştiyên pevçûnê
-    ku-latn: kuştiyên pevçûnê
+    ku_latn: kuştiyên pevçûnê
     lb: am Asaz gefall
     lt: žuvęs mūšyje
     lv: kritis kaujā
@@ -179,7 +179,7 @@ dv_has_:
     sl: padel v boju
     sq: Killed in action
     sr: убијен у акцији
-    sr-ec: убијен у акцији
+    sr_ec: убијен у акцији
     sv: stupad i strid
     szl: zginōł w boju
     ta: களச்சாவு
@@ -192,12 +192,12 @@ dv_has_:
     vi: tử trận
     yue: 戰死
     zh: 陣亡
-    zh-cn: 阵亡
-    zh-hans: 阵亡
-    zh-hant: 陣亡
-    zh-hk: 陣亡
-    zh-sg: 阵亡
-    zh-tw: 陣亡
+    zh_cn: 阵亡
+    zh_hans: 阵亡
+    zh_hant: 陣亡
+    zh_hk: 陣亡
+    zh_sg: 阵亡
+    zh_tw: 陣亡
 ---
 # [[Killed_in_Action]] 
 

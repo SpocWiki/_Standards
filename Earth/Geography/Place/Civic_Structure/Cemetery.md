@@ -255,7 +255,7 @@ dv_has_:
     ba: ҡәберлек
     bcl: Sementeryo
     be: могілкі
-    be-tarask: могілкі
+    be_tarask: могілкі
     bg: гробище
     bn: কবরস্থান
     br: bered
@@ -274,7 +274,7 @@ dv_has_:
     dsb: Kjarchob
     el: κοιμητήριο
     en: cemetery
-    en-gb: cemetery
+    en_gb: cemetery
     eo: tombejo
     es: cementerio
     et: kalmistu
@@ -309,7 +309,7 @@ dv_has_:
     ko: 묘지
     ks: ملگُزار
     ku: Goristan
-    ku-latn: goristan
+    ku_latn: goristan
     kv: Кладбище
     ky: Көрүстөн
     la: sepulcretum
@@ -334,7 +334,7 @@ dv_has_:
     nan: bōng-hn̂g
     nb: gravlund
     nds: Karkhoff
-    nds-nl: begreefplak
+    nds_nl: begreefplak
     nia: lewatö
     nl: begraafplaats
     nn: gravlund
@@ -345,7 +345,7 @@ dv_has_:
     pnb: قبرستان
     ps: هدیره
     pt: cemitério
-    pt-br: cemitério
+    pt_br: cemitério
     qu: Ayamarka
     rm: Santeri
     ro: cimitir
@@ -376,7 +376,7 @@ dv_has_:
     tl: sementeryo
     tr: mezarlık
     tt: зират
-    tt-cyrl: зират
+    tt_cyrl: зират
     udm: шай
     uk: цвинтар
     ur: قبرستان
@@ -389,10 +389,10 @@ dv_has_:
     yi: צווינטער
     yue: 墳場
     zh: 墳場
-    zh-cn: 公墓
-    zh-hans: 墓地
-    zh-hant: 墳場
-    zh-tw: 墳場
+    zh_cn: 公墓
+    zh_hans: 墓地
+    zh_hant: 墳場
+    zh_tw: 墳場
   parent_class: '[[../CivicStructure]]'
   properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'
 dv_is_:

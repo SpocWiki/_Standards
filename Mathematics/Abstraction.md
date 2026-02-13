@@ -100,7 +100,7 @@ dv_has_:
     ast: astraición
     az: abstraktlaşdırma
     be: абстракцыя
-    be-tarask: абстракцыя
+    be_tarask: абстракцыя
     bg: абстракция
     bn: বিমূর্তন
     br: difetiserezh
@@ -114,7 +114,7 @@ dv_has_:
     de: Abstraktion
     el: αφαίρεση
     en: abstraction
-    en-gb: abstraction
+    en_gb: abstraction
     eo: abstraktado
     es: abstracción
     et: abstraheerimine
@@ -158,7 +158,7 @@ dv_has_:
     pl: abstrakcja
     pms: astrassion
     pt: abstração
-    pt-br: abstração
+    pt_br: abstração
     ro: abstracție
     ru: абстрагирование
     sh: apstrakcija
@@ -166,7 +166,7 @@ dv_has_:
     sl: abstrakcija
     sq: abstraksioni
     sr: апстракција
-    sr-ec: апстракција
+    sr_ec: апстракција
     sv: abstraktion
     ta: நுண்புல
     tg: абстрактсия
@@ -181,10 +181,10 @@ dv_has_:
     wuu: 抽象化
     yue: 抽象化
     zh: 抽象化
-    zh-cn: 抽象化
-    zh-hans: 抽象化
-    zh-hant: 抽象化
-    zh-tw: 抽象化
+    zh_cn: 抽象化
+    zh_hans: 抽象化
+    zh_hant: 抽象化
+    zh_tw: 抽象化
 ---
 # [[Abstraction]] 
 

@@ -140,7 +140,7 @@ dv_has_:
     ba: Европа тарихы
     bar: Gschicht vo Eiropa
     be: гісторыя Еўропы
-    be-tarask: гісторыя Эўропы
+    be_tarask: гісторыя Эўропы
     bg: История на Европа
     bn: ইউরোপের ইতিহাস
     bo: ཡོ་རོབ་གི་ལོ་རྒྱུས།
@@ -154,11 +154,11 @@ dv_has_:
     cy: Hanes Ewrop
     da: europæisk historie
     de: Geschichte Europas
-    de-ch: Geschichte Europas
+    de_ch: Geschichte Europas
     el: ιστορία της Ευρώπης
     en: history of Europe
-    en-ca: history of Europe
-    en-gb: history of Europe
+    en_ca: history of Europe
+    en_gb: history of Europe
     eo: historio de Eŭropo
     es: historia de Europa
     eu: Europako historia
@@ -187,7 +187,7 @@ dv_has_:
     km: ភូមិសាស្ត្រនយោបាយអឺរ៉ុប
     ko: 유럽의 역사
     ku: dîroka Ewropayê
-    ku-latn: dîroka Ewropayê
+    ku_latn: dîroka Ewropayê
     la: Historia Europae
     lfn: Istoria de Europa
     lt: Europos istorija
@@ -204,7 +204,7 @@ dv_has_:
     pnb: یورپ دی تریخ
     ps: د اروپا تاریخچه
     pt: história da Europa
-    pt-br: história da Europa
+    pt_br: história da Europa
     rm: Istorgia da l'Europa
     ro: istoria Europei
     ru: история Европы
@@ -224,7 +224,7 @@ dv_has_:
     tl: Kasaysayan ng Europa
     tr: Avrupa tarihi
     tt: Европа тарихы
-    tt-cyrl: Аурупа тарихы
+    tt_cyrl: Аурупа тарихы
     uk: історія Європи
     ur: تاریخ یورپ
     vec: istòria de l'Eoropa
@@ -234,9 +234,9 @@ dv_has_:
     yi: היסטאריע פון אייראפע
     yue: 歐洲史
     zh: 欧洲历史
-    zh-cn: 欧洲历史
-    zh-hans: 欧洲历史
-    zh-hant: 歐洲歷史
+    zh_cn: 欧洲历史
+    zh_hans: 欧洲历史
+    zh_hant: 歐洲歷史
     zu: Yurobhu Idaladala
 ---
 # [[History_of_Europe]] 

@@ -203,7 +203,7 @@ dv_has_:
     ba: Пушту теле
     bar: Paschtunische Sproch
     be: пушту
-    be-tarask: пушту
+    be_tarask: пушту
     bg: Пущунски език
     bn: পশতু ভাষা
     br: pachtoueg
@@ -221,8 +221,8 @@ dv_has_:
     ee: Pashtgbe
     el: Παστού
     en: Pashto
-    en-ca: Pashto
-    en-gb: Pashto
+    en_ca: Pashto
+    en_gb: Pashto
     eo: paŝtuna lingvo
     es: pastún
     et: puštu keel
@@ -299,7 +299,7 @@ dv_has_:
     pnb: پشتو
     ps: پښتو
     pt: pastó
-    pt-br: pastó
+    pt_br: pastó
     qu: Pashtu simi
     ro: limba paștună
     ru: пушту
@@ -344,9 +344,9 @@ dv_has_:
     yue: 普什圖文
     za: Vah Pashtun
     zh: 普什圖語
-    zh-cn: 普什图语
-    zh-hans: 普什图语
-    zh-hant: 普什圖語
+    zh_cn: 普什图语
+    zh_hans: 普什图语
+    zh_hant: 普什圖語
     zu: isi-Pashto
 ---
 # [[Lang-pus]] 

@@ -160,7 +160,7 @@ dv_has_:
     bar: Novak Đoković
     bcl: Novak Đoković
     be: Новак Джокавіч
-    be-tarask: Новак Джокавіч
+    be_tarask: Новак Джокавіч
     bg: Новак Джокович
     bn: নোভাক জোকোভিচ
     br: Novak Đoković
@@ -174,14 +174,14 @@ dv_has_:
     cy: Novak Djokovic
     da: Novak Djokovic
     de: Novak Đoković
-    de-ch: Novak Đoković
+    de_ch: Novak Đoković
     diq: Novak Djokovic
     dsb: Novak Djoković
     el: Νόβακ Τζόκοβιτς
     eml: Novak Đoković
     en: Novak Djokovic
-    en-ca: Novak Djokovic
-    en-gb: Novak Djokovic
+    en_ca: Novak Djokovic
+    en_gb: Novak Djokovic
     eo: Novak Đoković
     es: Novak Djokovic
     et: Novak Đoković
@@ -253,7 +253,7 @@ dv_has_:
     pms: Novak Djokovic
     pnb: نوواک جوکووچ
     pt: Novak Đoković
-    pt-br: Novak Đoković
+    pt_br: Novak Đoković
     qu: Novak Djokovic
     rm: Novak Djokovic
     rmf: Novak Đoković
@@ -275,8 +275,8 @@ dv_has_:
     sms: Novak Đoković
     sq: Novak Gjokoviq
     sr: Новак Ђоковић
-    sr-ec: Новак Ђоковић
-    sr-el: Novak Đoković
+    sr_ec: Новак Ђоковић
+    sr_el: Novak Đoković
     sv: Novak Đoković
     sw: Novak Djokovich
     ta: நோவாக் ஜோக்கொவிச்
@@ -296,14 +296,14 @@ dv_has_:
     yo: Novak Djokovic
     yue: 祖高域
     zh: 諾瓦克·喬科維奇
-    zh-cn: 诺瓦克·德约科维奇
-    zh-hans: 诺瓦克·德约科维奇
-    zh-hant: 諾瓦克·喬科維奇
-    zh-hk: 諾華克·祖高域
-    zh-mo: 諾華克·祖高域
+    zh_cn: 诺瓦克·德约科维奇
+    zh_hans: 诺瓦克·德约科维奇
+    zh_hant: 諾瓦克·喬科維奇
+    zh_hk: 諾華克·祖高域
+    zh_mo: 諾華克·祖高域
     zh-my: 诺瓦克·乔科维奇
-    zh-sg: 诺瓦克·乔科维奇
-    zh-tw: 諾瓦克·喬科維奇
+    zh_sg: 诺瓦克·乔科维奇
+    zh_tw: 諾瓦克·喬科維奇
 ---
 # [[Djokovic,Novak]] 
 

@@ -70,7 +70,7 @@ dv_has_:
     az: Çarlz Sanders
     azb: چارلز سندرز پرس
     be: Чарльз Сандэрс Пірс
-    be-tarask: Чарлз Сандэрс Пірс
+    be_tarask: Чарлз Сандэрс Пірс
     bg: Чарлс Пърс
     bn: চার্লস স্যান্ডার্স পার্স
     ca: Charles Sanders Peirce
@@ -80,11 +80,11 @@ dv_has_:
     da: Charles Sanders Peirce
     dag: Charles Sanders Peirce
     de: Charles Sanders Peirce
-    de-ch: Charles Sanders Peirce
+    de_ch: Charles Sanders Peirce
     el: Τσαρλς Σάντερς Περς
     en: Charles Sanders Peirce
-    en-ca: Charles Sanders Peirce
-    en-gb: Charles Sanders Peirce
+    en_ca: Charles Sanders Peirce
+    en_gb: Charles Sanders Peirce
     eo: Charles Sanders Peirce
     es: Charles Sanders Peirce
     et: Charles Sanders Peirce
@@ -125,7 +125,7 @@ dv_has_:
     pms: Charles Sanders Peirce
     ps: چارلس سانډرس پيرس
     pt: Charles Sanders Peirce
-    pt-br: Charles Sanders Peirce
+    pt_br: Charles Sanders Peirce
     ro: Charles Peirce
     ru: Чарльз Сандерс Пирс
     sco: Charles Sanders Peirce
@@ -134,8 +134,8 @@ dv_has_:
     sl: Charles Sanders Pierce
     sq: Charles Sanders Peirce
     sr: Чарлс Сандерс Перс
-    sr-ec: Чарлс Сандерс Перс
-    sr-el: Čarls Sanders Pers
+    sr_ec: Чарлс Сандерс Перс
+    sr_el: Čarls Sanders Pers
     sv: Charles Sanders Peirce
     tr: Charles Sanders Peirce
     uk: Чарлз Сандерс Пірс
@@ -143,12 +143,12 @@ dv_has_:
     vi: Charles Sanders Peirce
     wuu: 查尔斯·桑德斯·皮尔士
     zh: 查尔斯·桑德斯·皮尔士
-    zh-cn: 查尔斯·桑德斯·皮尔士
-    zh-hans: 查尔斯·桑德斯·皮尔士
-    zh-hant: 查爾斯·桑德斯·皮爾士
-    zh-hk: 查爾斯·桑德斯·皮爾士
-    zh-sg: 查尔斯·桑德斯·皮尔士
-    zh-tw: 查爾斯·桑德斯·皮爾士
+    zh_cn: 查尔斯·桑德斯·皮尔士
+    zh_hans: 查尔斯·桑德斯·皮尔士
+    zh_hant: 查爾斯·桑德斯·皮爾士
+    zh_hk: 查爾斯·桑德斯·皮爾士
+    zh_sg: 查尔斯·桑德斯·皮尔士
+    zh_tw: 查爾斯·桑德斯·皮爾士
 ---
 # [[Peirce,Charles_Sanders]] 
 

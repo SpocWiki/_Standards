@@ -99,7 +99,7 @@ dv_has_:
     az: Yason
     ba: Ясон
     be: Ясон
-    be-tarask: Ясон
+    be_tarask: Ясон
     bg: Язон
     br: Iason
     ca: Jàson
@@ -109,8 +109,8 @@ dv_has_:
     de: Iason
     el: Ιάσονας
     en: Jason
-    en-ca: Jason
-    en-gb: Jason
+    en_ca: Jason
+    en_gb: Jason
     eo: Jazono
     es: Jasón
     et: Iason
@@ -133,7 +133,7 @@ dv_has_:
     ka: იასონი
     ko: 이아손
     ku: Îason
-    ku-latn: Yason
+    ku_latn: Yason
     la: Iason
     lb: Iason
     lt: Jasonas
@@ -149,7 +149,7 @@ dv_has_:
     pa: ਜੇਸਨ
     pl: Jazon
     pt: Jasão
-    pt-br: Jasão
+    pt_br: Jasão
     ro: Iason
     ru: Ясон
     scn: Giasuni
@@ -158,8 +158,8 @@ dv_has_:
     sk: Iasón
     sl: Jazon
     sr: Јасон
-    sr-ec: Јасон
-    sr-el: Jason
+    sr_ec: Јасон
+    sr_el: Jason
     sv: Jason
     th: เจสัน
     tl: Jason
@@ -172,12 +172,12 @@ dv_has_:
     xmf: იასონი
     yue: 伊阿宋
     zh: 伊阿宋
-    zh-cn: 伊阿宋
-    zh-hans: 伊阿宋
-    zh-hant: 伊阿宋
-    zh-hk: 伊阿宋
-    zh-sg: 伊阿宋
-    zh-tw: 伊阿宋
+    zh_cn: 伊阿宋
+    zh_hans: 伊阿宋
+    zh_hant: 伊阿宋
+    zh_hk: 伊阿宋
+    zh_sg: 伊阿宋
+    zh_tw: 伊阿宋
 ---
 # [[Jason]] 
 

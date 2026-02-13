@@ -85,18 +85,18 @@ dv_has_:
     ar: رابطة التجارة الحرة الأوروبية
     az: Avropa Sərbəst Ticarət Birliyi
     be: Еўрапейская асацыяцыя свабоднага гандлю
-    be-tarask: Эўрапейская асацыяцыя вольнага гандлю
+    be_tarask: Эўрапейская асацыяцыя вольнага гандлю
     bg: Европейска асоциация за свободна търговия
     ca: Associació Europea de Lliure Comerç
-    cbk-zam: EFTA
+    cbk_zam: EFTA
     cs: Evropské sdružení volného obchodu
     da: EFTA
     de: Europäische Freihandelsassoziation
-    de-ch: Europäische Freihandelsassoziation
+    de_ch: Europäische Freihandelsassoziation
     el: Ευρωπαϊκή Ζώνη Ελευθέρων Συναλλαγών
     en: European Free Trade Association
-    en-ca: European Free Trade Association
-    en-gb: European Free Trade Association
+    en_ca: European Free Trade Association
+    en_gb: European Free Trade Association
     eo: Eŭropa Liber-Komerca Asocio
     es: Asociación Europea de Libre Comercio
     et: Euroopa Vabakaubanduse Assotsiatsioon
@@ -141,7 +141,7 @@ dv_has_:
     pl: Europejskie Stowarzyszenie Wolnego Handlu
     ps: د اروپا د ازادې سوداګرۍ ټولنه
     pt: Associação Europeia de Comércio Livre
-    pt-br: Associação Europeia de Livre Comércio
+    pt_br: Associação Europeia de Livre Comércio
     rm: Associaziun europeica da commerzi liber
     ro: Asociația Europeană a Liberului Schimb
     ru: Европейская ассоциация свободной торговли
@@ -149,8 +149,8 @@ dv_has_:
     sl: Evropsko združenje za prosto trgovino
     sq: Shoqata Evropiane e Tregtisë së Lirë
     sr: Европска асоцијација за слободну трговину
-    sr-ec: Европска асоцијација за слободну трговину
-    sr-el: Evropska asocijacija za slobodnu trgovinu
+    sr_ec: Европска асоцијација за слободну трговину
+    sr_el: Evropska asocijacija za slobodnu trgovinu
     sv: Europeiska frihandelssammanslutningen
     th: สมาคมการค้าเสรียุโรป
     tr: Avrupa Serbest Ticaret Birliği
@@ -162,14 +162,14 @@ dv_has_:
     wuu: 欧洲自由贸易联盟
     yi: אייראפעאישע פרייהאנדל אסאסיאציע
     zh: 欧洲自由贸易联盟
-    zh-cn: 欧洲自由贸易联盟
-    zh-hans: 欧洲自由贸易联盟
-    zh-hant: 歐洲自由貿易聯盟
-    zh-hk: 歐洲自由貿易聯盟
-    zh-mo: 歐洲自由貿易聯盟
+    zh_cn: 欧洲自由贸易联盟
+    zh_hans: 欧洲自由贸易联盟
+    zh_hant: 歐洲自由貿易聯盟
+    zh_hk: 歐洲自由貿易聯盟
+    zh_mo: 歐洲自由貿易聯盟
     zh-my: 欧洲自由贸易联盟
-    zh-sg: 欧洲自由贸易联盟
-    zh-tw: 歐洲自由貿易聯盟
+    zh_sg: 欧洲自由贸易联盟
+    zh_tw: 歐洲自由貿易聯盟
   time_:
     started: 1960-03-03T00:00:00.000+01:00
 dv_is_:

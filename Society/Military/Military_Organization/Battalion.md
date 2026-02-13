@@ -81,7 +81,7 @@ dv_has_:
     ast: Batallón
     az: Tabor
     be: батальён
-    be-tarask: батальён
+    be_tarask: батальён
     bg: Батальон
     bn: ব্যাটালিয়ন
     bs: Bataljon
@@ -94,12 +94,12 @@ dv_has_:
     cy: bataliwn
     da: Bataljon
     de: Bataillon
-    de-ch: Bataillon
+    de_ch: Bataillon
     dsb: bataljon
     el: τάγμα
     en: battalion
-    en-ca: battalion
-    en-gb: battalion
+    en_ca: battalion
+    en_gb: battalion
     eo: bataliono
     es: batallón
     et: Pataljon
@@ -141,7 +141,7 @@ dv_has_:
     oc: Batalhon
     pl: batalion
     pt: batalhão
-    pt-br: batalhão
+    pt_br: batalhão
     ro: batalion
     ru: батальон
     sd: بٽالين
@@ -150,8 +150,8 @@ dv_has_:
     sl: bataljon
     sq: Batalioni (njësi ushtarake)
     sr: батаљон
-    sr-ec: батаљон
-    sr-el: bataljon
+    sr_ec: батаљон
+    sr_el: bataljon
     sv: bataljon
     szl: bataliōn
     ta: பட்டாலியன்
@@ -165,9 +165,9 @@ dv_has_:
     wuu: 营
     yue: 營
     zh: 营
-    zh-hans: 营
-    zh-hant: 營
-    zh-tw: 營
+    zh_hans: 营
+    zh_hant: 營
+    zh_tw: 營
 ---
 # [[Battalion]] 
 

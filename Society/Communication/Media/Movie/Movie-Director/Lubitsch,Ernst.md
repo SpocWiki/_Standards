@@ -44,11 +44,11 @@ dv_has_:
     cy: Ernst Lubitsch
     da: Ernst Lubitsch
     de: Ernst Lubitsch
-    de-ch: Ernst Lubitsch
+    de_ch: Ernst Lubitsch
     el: Ερνστ Λιούμπιτς
     en: Ernst Lubitsch
-    en-ca: Ernst Lubitsch
-    en-gb: Ernst Lubitsch
+    en_ca: Ernst Lubitsch
+    en_gb: Ernst Lubitsch
     eo: Ernst Lubitsch
     es: Ernst Lubitsch
     eu: Ernst Lubitsch
@@ -86,7 +86,7 @@ dv_has_:
     pap: Ernst Lubitsch
     pl: Ernst Lubitsch
     pt: Ernst Lubitsch
-    pt-br: Ernst Lubitsch
+    pt_br: Ernst Lubitsch
     ro: Ernst Lubitsch
     ru: Эрнст Любич
     sh: Ernst Lubitsch
@@ -101,9 +101,9 @@ dv_has_:
     yo: Ernst Lubitsch
     yue: 劉別謙
     zh: 恩斯特·劉別謙
-    zh-hant: 劉別謙
-    zh-hk: 劉別謙
-    zh-tw: 劉別謙
+    zh_hant: 劉別謙
+    zh_hk: 劉別謙
+    zh_tw: 劉別謙
 ---
 # [[Lubitsch,Ernst]] 
 

@@ -87,7 +87,7 @@ dv_has_:
     az: teorem
     ba: теорема
     be: тэарэма
-    be-tarask: тэарэма
+    be_tarask: тэарэма
     bg: теорема
     bn: উপপাদ্য
     bs: teorem
@@ -129,7 +129,7 @@ dv_has_:
     kn: ಪ್ರಮೇಯ
     ko: 정리
     ku: teorem
-    ku-latn: teorem
+    ku_latn: teorem
     ky: теорема
     la: theorema
     lb: Saz
@@ -140,7 +140,7 @@ dv_has_:
     mn: теорем
     mr: प्रमेय
     ms: teorem
-    ms-arab: تيورم
+    ms_arab: تيورم
     nb: teorem
     nl: stelling
     nn: teorem
@@ -150,7 +150,7 @@ dv_has_:
     pl: twierdzenie
     pms: teorema
     pt: teorema
-    pt-br: teorema
+    pt_br: teorema
     ro: teoremă
     ru: теорема
     sc: teorema
@@ -163,7 +163,7 @@ dv_has_:
     smn: ceelhâ
     sq: teoremë
     sr: теорема
-    sr-ec: теорема
+    sr_ec: теорема
     sv: teorem
     ta: தேற்றம்
     th: ทฤษฎีบท
@@ -180,11 +180,11 @@ dv_has_:
     yue: 定理
     zgh: ⴰⵙⴽⴽⵓⴷ
     zh: 定理
-    zh-cn: 定理
-    zh-hans: 定理
-    zh-hant: 定理
-    zh-hk: 定理
-    zh-tw: 定理
+    zh_cn: 定理
+    zh_hans: 定理
+    zh_hant: 定理
+    zh_hk: 定理
+    zh_tw: 定理
 ---
 # [[Theorem]] 
 

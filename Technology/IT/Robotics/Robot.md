@@ -116,7 +116,7 @@ dv_has_:
     bar: Robota
     bcl: Robot
     be: робат
-    be-tarask: робат
+    be_tarask: робат
     bg: робот
     bn: রোবট
     bo: འཕྲུལ་ཆས་མི་སྣ།
@@ -132,12 +132,12 @@ dv_has_:
     cy: robot
     da: robot
     de: Roboter
-    de-ch: Roboter
+    de_ch: Roboter
     diq: robot
     el: ρομπότ
     en: robot
-    en-ca: robot
-    en-gb: robot
+    en_ca: robot
+    en_gb: robot
     eo: roboto
     es: robot
     et: robot
@@ -205,7 +205,7 @@ dv_has_:
     pnb: روبوٹ
     ps: روبوټ
     pt: robô
-    pt-br: robô
+    pt_br: robô
     qu: Antapunqu
     rki: စက်ရုပ်
     rmy: Yandron
@@ -227,8 +227,8 @@ dv_has_:
     so: Robot
     sq: Roboti
     sr: робот
-    sr-ec: робот
-    sr-el: robot
+    sr_ec: робот
+    sr_el: robot
     su: Robot
     sv: robot
     sw: Roboti
@@ -253,10 +253,10 @@ dv_has_:
     yue: 機械人
     za: Gihgiyinz
     zh: 机器人
-    zh-cn: 机器人
-    zh-hans: 机械人
-    zh-hant: 機器人
-    zh-hk: 機械人
+    zh_cn: 机器人
+    zh_hans: 机械人
+    zh_hant: 機器人
+    zh_hk: 機械人
     zu: IsiThununu
 ---
 # [[Robot]] 🤖 

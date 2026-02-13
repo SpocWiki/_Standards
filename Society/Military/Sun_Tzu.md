@@ -118,7 +118,7 @@ dv_has_:
     bar: Sun Tzu
     bcl: Sun Tzu
     be: Сунь Цзы
-    be-tarask: Сунь Цзы
+    be_tarask: Сунь Цзы
     bg: Сун Дзъ
     bn: সুন সু
     br: Sun Tzu
@@ -173,7 +173,7 @@ dv_has_:
     lv: Suņdzi
     lzh: 孫武
     mad: Sun Tzu
-    map-bms: Sun Zi
+    map_bms: Sun Zi
     mg: Sun Tzu
     mk: Сун-цу
     ml: സൺ ത്സൂ
@@ -185,7 +185,7 @@ dv_has_:
     myv: Сунь-цзы
     nan: Sun-chú
     nb: Sunzi
-    nds-nl: Sun Tzu
+    nds_nl: Sun Tzu
     ne: सन जु
     nl: Sunzi
     nn: Sunzi
@@ -204,7 +204,7 @@ dv_has_:
     sl: Sun Cu
     sq: Sun Tzu
     sr: Сун Цу
-    sr-ec: Сун Цу
+    sr_ec: Сун Цу
     sv: Sun Zi
     sw: Sun Tzu
     ta: சுன் சூ
@@ -222,7 +222,7 @@ dv_has_:
     xmf: სუნ ძი
     yue: 孫武
     zh: 孙武
-    zh-tw: 孫武
+    zh_tw: 孫武
 ---
 # [[Sun_Tzu]] 
 

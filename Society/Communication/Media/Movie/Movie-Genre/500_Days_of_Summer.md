@@ -79,9 +79,9 @@ dv_has_:
     uz: Yozning 500 kuni
     vi: (500) Days of Summer
     zh: 戀夏500日
-    zh-hk: 心跳500天
-    zh-sg: 恋夏（500）日
-    zh-tw: 戀夏500日
+    zh_hk: 心跳500天
+    zh_sg: 恋夏（500）日
+    zh_tw: 戀夏500日
 ---
 # [[500_Days_of_Summer]] 
 

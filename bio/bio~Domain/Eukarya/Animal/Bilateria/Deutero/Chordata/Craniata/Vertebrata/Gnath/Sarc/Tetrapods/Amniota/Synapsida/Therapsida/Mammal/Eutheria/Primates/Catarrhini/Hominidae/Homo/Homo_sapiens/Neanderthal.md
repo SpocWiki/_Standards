@@ -124,7 +124,7 @@ dv_has_:
     bar: Neandertaler
     bcl: Neandertal
     be: неандэрталец
-    be-tarask: неандэрталец
+    be_tarask: неандэрталец
     bg: неандерталец
     bn: নিয়ানডার্থাল
     br: Den Neandertal
@@ -185,7 +185,7 @@ dv_has_:
     my: နဏ္ဍသဲ
     nb: neandertalere
     nds: Neanderdaler
-    nds-nl: neanderthaler
+    nds_nl: neanderthaler
     new: नियान्दरथल
     nl: neanderthaler
     nn: neandertalar
@@ -229,9 +229,9 @@ dv_has_:
     yo: Neanderthal
     yue: 尼安德特人
     zh: 尼安德特人
-    zh-cn: 尼安德特人
-    zh-hant: 尼安德塔人
-    zh-tw: 尼安德塔人
+    zh_cn: 尼安德特人
+    zh_hant: 尼安德塔人
+    zh_tw: 尼安德塔人
 ---
 # [[Neanderthal]] 
 

@@ -98,14 +98,14 @@ dv_has_:
     az: Güllə atıcılığı
     ba: йәҙрә ташлау
     be: штурханне ядра
-    be-tarask: штурханьне ядра
+    be_tarask: штурханьне ядра
     bg: Тласкане на гюле
     bs: Bacanje kugle
     ca: llançament de pes
     cs: vrh koulí
     da: kuglestød
     de: Kugelstoßen
-    de-ch: Kugelstossen
+    de_ch: Kugelstossen
     el: Σφαιροβολία
     en: shot put
     eo: globoĵeto
@@ -145,7 +145,7 @@ dv_has_:
     pa: ਸ਼ਾਟ-ਪੁੱਟ
     pl: pchnięcie kulą
     pt: arremesso de peso
-    pt-br: arremesso de peso
+    pt_br: arremesso de peso
     rif: tamazight
     ro: Aruncarea greutății
     ru: толкание ядра
@@ -157,8 +157,8 @@ dv_has_:
     sl: suvanje krogle
     smn: kuulauigâdem
     sr: бацање кугле
-    sr-ec: Бацање кугле
-    sr-el: Bacanje kugle
+    sr_ec: Бацање кугле
+    sr_el: Bacanje kugle
     sv: kulstötning
     ta: குண்டு எறிதல்
     tg: Гулӯлапартоӣ
@@ -169,12 +169,12 @@ dv_has_:
     wuu: 铅球
     yue: 鉛球
     zh: 铅球
-    zh-cn: 铅球
-    zh-hans: 铅球
-    zh-hant: 鉛球
-    zh-hk: 鉛球
-    zh-sg: 铅球
-    zh-tw: 鉛球
+    zh_cn: 铅球
+    zh_hans: 铅球
+    zh_hant: 鉛球
+    zh_hk: 鉛球
+    zh_sg: 铅球
+    zh_tw: 鉛球
 ---
 # [[Shot_put]] 
 

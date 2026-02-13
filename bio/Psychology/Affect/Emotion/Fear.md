@@ -152,7 +152,7 @@ dv_has_:
     az: قورخو
     bcl: Takot
     be: страх
-    be-tarask: страх
+    be_tarask: страх
     bg: Страх
     bn: ভয়
     bo: སྐྲག་པ།
@@ -204,7 +204,7 @@ dv_has_:
     ka: შიში
     kab: tugdi
     kk: Қорқыныш
-    kk-cyrl: страх
+    kk_cyrl: страх
     kn: ಭಯ
     ko: 공포
     ku: Tirs
@@ -250,8 +250,8 @@ dv_has_:
     so: Cabsi
     sq: Frika
     sr: страх
-    sr-ec: страх
-    sr-el: strah
+    sr_ec: страх
+    sr_el: strah
     sv: rädsla
     sw: Woga
     ta: பயம்
@@ -271,8 +271,8 @@ dv_has_:
     yi: שרעק
     yue: 驚
     zh: 恐惧
-    zh-hans: 恐惧
-    zh-hant: 恐懼
+    zh_hans: 恐惧
+    zh_hant: 恐懼
 ---
 # [[Fear]] 😨 
 

@@ -115,7 +115,7 @@ dv_has_:
     azb: گئوسنتریزم
     ba: Геоцентризм
     be: Геацэнтрычная сістэма свету
-    be-tarask: геацэнтрычная сыстэма
+    be_tarask: геацэнтрычная сыстэма
     bg: Геоцентрична система
     bn: ভূকেন্দ্রিক মডেল
     bo: གནམ་འགུལ་སྨྲ་བ་
@@ -159,7 +159,7 @@ dv_has_:
     mr: पृथ्वीकेंद्री सिद्धान्त
     ms: Model geopusat
     nb: geosentrisme
-    nds-nl: geozentrisme
+    nds_nl: geozentrisme
     nl: Geocentrisme
     nn: geosentrisk verdssystem
     oc: geocentrisme
@@ -173,8 +173,8 @@ dv_has_:
     sl: geocentrični model
     sq: Gjeocentrizmi
     sr: геоцентрични систем света
-    sr-ec: геоцентрични систем света
-    sr-el: geocentrični sistem sveta
+    sr_ec: геоцентрични систем света
+    sr_el: geocentrični sistem sveta
     sv: geocentrisk världsbild
     szy: musasakamuan nu teban nu lala’
     te: భూ కేంద్రక సిద్ధాంతం
@@ -190,12 +190,12 @@ dv_has_:
     xmf: გეოცენტრიზმი
     yue: 地心說
     zh: 地心说
-    zh-cn: 地心说
-    zh-hans: 地心说
-    zh-hant: 天動說
-    zh-hk: 地心說
-    zh-sg: 地心说
-    zh-tw: 天動說
+    zh_cn: 地心说
+    zh_hans: 地心说
+    zh_hant: 天動說
+    zh_hk: 地心說
+    zh_sg: 地心说
+    zh_tw: 天動說
 ---
 # [[Geocentric_Model]] 
 

@@ -306,7 +306,7 @@ dv_has_:
     azb: ایشلتیم سیستمی
     ba: операцион система
     be: аперацыйная сістэма
-    be-tarask: апэрацыйная сыстэма
+    be_tarask: апэрацыйная сыстэма
     bg: операционна система
     bho: ऑपरेटिंग सिस्टम
     blk: Operating system
@@ -326,13 +326,13 @@ dv_has_:
     cy: system weithredu
     da: styresystem
     de: Betriebssystem
-    de-ch: Betriebssystem
+    de_ch: Betriebssystem
     diq: sistemo operatif
     el: λειτουργικό σύστημα
     eml: sistamma operatîv
     en: operating system
-    en-ca: operating system
-    en-gb: operating system
+    en_ca: operating system
+    en_gb: operating system
     en-us: operating system
     eo: operaciumo
     es: sistema operativo
@@ -398,7 +398,7 @@ dv_has_:
     mn: Үйлдлийн систем
     mr: संचालन प्रणाली
     ms: sistem pengendalian
-    ms-arab: سيستم ڤڠندالين
+    ms_arab: سيستم ڤڠندالين
     mwl: Sistema ouperacional
     my: ကွန်ပျူတာ စက်လည်ပတ်ရေး စနစ်
     nan: Chok-gia̍p hē-thóng
@@ -417,7 +417,7 @@ dv_has_:
     pnb: اوپریٹنگ سسٹم
     ps: چليز غونډال
     pt: sistema operativo
-    pt-br: sistema operacional
+    pt_br: sistema operacional
     qu: Llamk'aykuna llika
     rki: စက်လည်ပတ်ရီးစနစ်
     ro: sistem de operare
@@ -440,8 +440,8 @@ dv_has_:
     so: Operating system
     sq: Sistemi operativ
     sr: оперативни систем
-    sr-ec: оперативни систем
-    sr-el: operativni sistem
+    sr_ec: оперативни систем
+    sr_el: operativni sistem
     su: Sistim Operasi
     sv: operativsystem
     sw: Mfumo wa uendeshaji
@@ -454,8 +454,8 @@ dv_has_:
     tok: ilo kon lawa
     tr: işletim sistemi
     tt: операцион систем
-    tt-cyrl: операцион систем
-    tt-latn: operatsion sistema
+    tt_cyrl: операцион систем
+    tt_latn: operatsion sistema
     udm: операционной система
     ug: مەشغۇلات سىستېمىسى
     uk: операційна система
@@ -474,14 +474,14 @@ dv_has_:
     yue: 作業系統
     za: cauhcoz haehdungj
     zh: 操作系统
-    zh-cn: 操作系统
-    zh-hans: 操作系统
-    zh-hant: 作業系統
-    zh-hk: 作業系統
-    zh-mo: 作業系統
+    zh_cn: 操作系统
+    zh_hans: 操作系统
+    zh_hant: 作業系統
+    zh_hk: 作業系統
+    zh_mo: 作業系統
     zh-my: 操作系统
-    zh-sg: 操作系统
-    zh-tw: 作業系統
+    zh_sg: 操作系统
+    zh_tw: 作業系統
     zu: Uhlelomgidinga
 ---
 # [[OS(Operating-System)]] 

@@ -85,7 +85,7 @@ dv_has_:
     ast: novialgu
     az: görüş
     be: спатканне
-    be-tarask: спатканьне
+    be_tarask: спатканьне
     bn: ডেটিং
     ca: relació de parella
     cs: námluvy
@@ -137,9 +137,9 @@ dv_has_:
     yi: ראנדקעווען
     yue: 拍拖
     zh: 約會
-    zh-hans: 约会
-    zh-hant: 約會
-    zh-hk: 約會
+    zh_hans: 约会
+    zh_hant: 約會
+    zh_hk: 約會
 ---
 # [[Dating]] 
 

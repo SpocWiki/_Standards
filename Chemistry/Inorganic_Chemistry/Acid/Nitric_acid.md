@@ -190,7 +190,7 @@ dv_has_:
     az: Nitrat turşusu
     azb: نیتریک اسید
     be: Азотная кіслата
-    be-tarask: азотавая кісьля
+    be_tarask: азотавая кісьля
     bg: азотна киселина
     bn: নাইট্রিক অ্যাসিড
     br: Trenkenn nitrek
@@ -204,8 +204,8 @@ dv_has_:
     de: Salpetersäure
     el: νιτρικό οξύ
     en: nitric acid
-    en-ca: Nitric acid
-    en-gb: nitric acid
+    en_ca: Nitric acid
+    en_gb: nitric acid
     eo: nitrata acido
     es: ácido nítrico
     et: Lämmastikhape
@@ -254,7 +254,7 @@ dv_has_:
     pnb: نائٹرک ایسڈ
     ps: مالګې تېزاب(نايټريک اسيد)
     pt: ácido nítrico
-    pt-br: Ácido nítrico
+    pt_br: Ácido nítrico
     ro: Acid azotic
     ru: азотная кислота
     sco: nitric acid
@@ -278,8 +278,8 @@ dv_has_:
     wuu: 硝酸
     yue: 硝酸
     zh: 硝酸
-    zh-hant: 硝酸
-    zh-tw: 硝酸
+    zh_hant: 硝酸
+    zh_tw: 硝酸
 ---
 # [[Nitric_acid]]
 

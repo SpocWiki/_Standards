@@ -68,7 +68,7 @@ dv_has_:
     ar: ألياف غذائية
     ast: Fibra alimentaria
     be: Харчовыя валокны
-    be-tarask: харчовае валакно
+    be_tarask: харчовае валакно
     bg: Баластни вещества
     bn: খাদ্য আঁশ
     ca: fibra alimentària
@@ -79,7 +79,7 @@ dv_has_:
     de: Ballaststoff
     el: Φυτικές ίνες
     en: dietary fiber
-    en-gb: dietary fibre
+    en_gb: dietary fibre
     eo: dieta fibro
     es: fibra alimentaria
     et: Kiudained
@@ -131,12 +131,12 @@ dv_has_:
     wuu: 膳食纤维
     yue: 膳食纖維
     zh: 膳食纖維
-    zh-cn: 膳食纤维
-    zh-hans: 膳食纤维
-    zh-hant: 膳食纖維
-    zh-hk: 膳食纖維
-    zh-sg: 膳食纤维
-    zh-tw: 膳食纖維
+    zh_cn: 膳食纤维
+    zh_hans: 膳食纤维
+    zh_hant: 膳食纖維
+    zh_hk: 膳食纖維
+    zh_sg: 膳食纤维
+    zh_tw: 膳食纖維
 ---
 # [[Dietary_Fiber]] 
 

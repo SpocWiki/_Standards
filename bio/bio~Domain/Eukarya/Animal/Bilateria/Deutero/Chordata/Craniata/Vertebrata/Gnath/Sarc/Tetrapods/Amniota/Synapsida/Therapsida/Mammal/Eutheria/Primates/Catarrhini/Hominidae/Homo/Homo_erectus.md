@@ -73,7 +73,7 @@ dv_has_:
     az: Erektus
     bar: Homo erectus
     be: Homo erectus
-    be-tarask: архантрап
+    be_tarask: архантрап
     bg: изправен човек
     bho: होमो इरेक्टस
     bn: হোমো ইরেক্টাস
@@ -115,7 +115,7 @@ dv_has_:
     kn: ಹೋಮೋ ಎರೆಕ್ಟಸ್
     ko: 호모 에렉투스
     ku: Homo erectus
-    ku-latn: Homo erectus
+    ku_latn: Homo erectus
     la: Homo erectus
     lb: Homo erectus
     lg: omuntu omusenguse
@@ -129,7 +129,7 @@ dv_has_:
     nan: Homo erectus
     nb: Homo erectus
     nds: Homo erectus
-    nds-nl: Homo erectus
+    nds_nl: Homo erectus
     new: होमो इरेक्टस
     nl: Homo erectus
     nn: Homo erectus
@@ -147,8 +147,8 @@ dv_has_:
     sl: Homo erectus
     sq: Homo erectus
     sr: хомо еректус
-    sr-ec: Хомо еректус
-    sr-el: Homo erektus
+    sr_ec: Хомо еректус
+    sr_el: Homo erektus
     sv: Homo erectus
     ta: ஓமோ இரெக்டசு
     te: హోమో ఎరెక్టసు
@@ -166,12 +166,12 @@ dv_has_:
     yo: Homo erectus
     yue: 直立人
     zh: 直立人
-    zh-cn: 直立人
-    zh-hans: 直立人
-    zh-hant: 直立人
-    zh-hk: 直立人
-    zh-sg: 直立人
-    zh-tw: 直立人
+    zh_cn: 直立人
+    zh_hans: 直立人
+    zh_hant: 直立人
+    zh_hk: 直立人
+    zh_sg: 直立人
+    zh_tw: 直立人
 ---
 # [[Homo_erectus]] 
 

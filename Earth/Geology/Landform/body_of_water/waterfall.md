@@ -219,7 +219,7 @@ dv_has_:
     bcl: Busay
     bdr: Bue' ruru
     be: вадаспад
-    be-tarask: вадаспад
+    be_tarask: вадаспад
     bew: Curug
     bg: водопад
     bho: झरना
@@ -238,7 +238,7 @@ dv_has_:
     cy: rhaeadr
     da: vandfald
     de: Wasserfall
-    de-ch: Wasserfall
+    de_ch: Wasserfall
     diq: Çır
     el: καταρράκτης
     en: waterfall
@@ -315,7 +315,7 @@ dv_has_:
     pl: wodospad
     pnb: چھمبر
     pt: cascata
-    pt-br: cachoeira
+    pt_br: cachoeira
     qu: Phaqcha
     ro: Cascadă
     ru: водопад
@@ -334,8 +334,8 @@ dv_has_:
     sn: Mapopoma
     sq: Ujëvara
     sr: водопад
-    sr-ec: водопад
-    sr-el: vodopad
+    sr_ec: водопад
+    sr_el: vodopad
     su: Curug
     sv: vattenfall
     sw: Maporomoko maji
@@ -348,8 +348,8 @@ dv_has_:
     tl: Talon
     tr: şelale
     tt: шарлавык
-    tt-cyrl: шарлавык
-    tt-latn: şarlawıq
+    tt_cyrl: шарлавык
+    tt_latn: şarlawıq
     udm: вуусён
     uk: водоспад
     ur: آبشار
@@ -364,9 +364,9 @@ dv_has_:
     yue: 瀑布
     za: Raemxgienghdat
     zh: 瀑布
-    zh-hans: 瀑布
-    zh-hant: 瀑布
-    zh-tw: 瀑布
+    zh_hans: 瀑布
+    zh_hant: 瀑布
+    zh_tw: 瀑布
     zu: Impophoma
   parent_class: '[[../BodyOfWater]]'
   properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'

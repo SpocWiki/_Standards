@@ -56,7 +56,7 @@ dv_has_:
     ar: تشكل اجتماعي
     az: ictimai formasiya
     ba: Ижтимағи-иҡтисади формация
-    be-tarask: грамадзкае фармаваньне
+    be_tarask: грамадзкае фармаваньне
     bg: Обществен строй
     ca: ordre social
     ce: Йукъараллин бахам

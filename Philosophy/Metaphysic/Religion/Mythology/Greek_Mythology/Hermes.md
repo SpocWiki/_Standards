@@ -180,7 +180,7 @@ dv_has_:
     ba: Гермес
     bar: Hermes
     be: Гермес
-    be-tarask: Гермэс
+    be_tarask: Гермэс
     bg: Хермес
     bn: হার্মিস
     br: Hermes
@@ -222,7 +222,7 @@ dv_has_:
     kk: Гермес
     ko: 헤르메스
     ku: Hermês
-    ku-latn: Hermês
+    ku_latn: Hermês
     ky: Гермес
     la: Hermes
     lb: Hermes
@@ -273,9 +273,9 @@ dv_has_:
     wuu: 赫耳墨斯
     yue: 赫密士
     zh: 赫耳墨斯
-    zh-hant: 赫爾墨斯
-    zh-hk: 赫密士
-    zh-tw: 荷米斯
+    zh_hant: 赫爾墨斯
+    zh_hk: 赫密士
+    zh_tw: 荷米斯
 ---
 # [[Hermes]] 
 

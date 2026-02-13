@@ -56,7 +56,7 @@ dv_has_:
     oc: Calanoida
     pl: Calanoida
     pt: Calanoida
-    pt-br: Calanoida
+    pt_br: Calanoida
     ro: Calanoida
     ru: каляноиды
     sq: Calanoida
@@ -67,9 +67,9 @@ dv_has_:
     vo: Calanoida
     war: Calanoida
     zh: 哲水蚤目
-    zh-cn: 哲水蚤目
-    zh-hans: 哲水蚤目
-    zh-tw: 哲水蚤目
+    zh_cn: 哲水蚤目
+    zh_hans: 哲水蚤目
+    zh_tw: 哲水蚤目
 ---
 # [[Calanoida]]  
 

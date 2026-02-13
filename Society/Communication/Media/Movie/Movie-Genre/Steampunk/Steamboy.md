@@ -28,9 +28,9 @@ dv_has_:
     uk: Стімбой
     vi: Steamboy
     zh: 蒸汽男孩
-    zh-hans: 蒸汽男孩
-    zh-hant: 蒸汽男孩
-    zh-hk: 蒸汽男孩
+    zh_hans: 蒸汽男孩
+    zh_hant: 蒸汽男孩
+    zh_hk: 蒸汽男孩
 aliases:
 - Filem Steamboy
 - Gőzfiú

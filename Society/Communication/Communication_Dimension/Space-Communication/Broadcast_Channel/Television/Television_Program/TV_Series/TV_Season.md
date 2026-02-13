@@ -115,17 +115,17 @@ dv_has_:
     ar: موسم تلفزيوني
     ast: temporada de serie de televisión
     be: сезон тэлесерыяла
-    be-tarask: сэзон тэлесэрыялу
+    be_tarask: сэзон тэлесэрыялу
     bn: টেলিভিশন মরশুম
     ca: temporada d'una sèrie de televisió
     cs: řada
     cy: cyfres
     da: tv-sæson
     de: Staffel
-    de-ch: Staffel
+    de_ch: Staffel
     el: κύκλος τηλεοπτικής σειράς
     en: television series season
-    en-gb: series
+    en_gb: series
     eo: sezono de televidserio
     es: temporada televisiva
     et: teleseriaali hooaeg
@@ -145,14 +145,14 @@ dv_has_:
     lv: televīzijas seriāla sezona
     mk: телевизиска сезона
     ms: musim siri televisyen
-    ms-arab: موسيم سيري تيليۏيشن
+    ms_arab: موسيم سيري تيليۏيشن
     nb: TV-sesong
     nds: Saison
     nl: seizoen van televisieserie
     nn: TV-sesong
     pl: sezon serialu telewizyjnego
     pt: temporada de televisão
-    pt-br: temporada de televisão
+    pt_br: temporada de televisão
     ro: sezon
     ru: сезон телесериала
     se: TV-ráiddu áigodat
@@ -162,22 +162,22 @@ dv_has_:
     smn: TV-rááiđu paje
     sms: TV-rääid pââʹjj
     sr: телевизијска сезона
-    sr-ec: телевизијска сезона
-    sr-el: televizijska sezona
+    sr_ec: телевизијска сезона
+    sr_el: televizijska sezona
     sv: TV-seriesäsong
     th: ฤดูกาลของรายการ/ละครชุดทางโทรทัศน์
     tr: televizyon sezonu
     tt: телесериал сезоны
-    tt-cyrl: телесериал сезоны
+    tt_cyrl: телесериал сезоны
     uk: сезон телесеріалу
     ur: ٹیلی ویژن سیریز سیزن
     vec: stajon tełeviziva
     vi: mùa truyền hình
     zh: 季播節目
-    zh-cn: 季播节目
-    zh-hans: 季播节目
-    zh-hant: 季播節目
-    zh-tw: 電視季別
+    zh_cn: 季播节目
+    zh_hans: 季播节目
+    zh_hant: 季播節目
+    zh_tw: 電視季別
 ---
 # [[TV_Season]] 
 

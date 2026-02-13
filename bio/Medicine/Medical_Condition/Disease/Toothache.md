@@ -87,7 +87,7 @@ dv_has_:
     ang: tóðwærc
     ar: ألم الأسنان
     az: Diş ağrısı
-    be-tarask: зубны боль
+    be_tarask: зубны боль
     bn: দাঁতের ব্যথা
     bs: Zubobolja
     ca: odontàlgia
@@ -147,7 +147,7 @@ dv_has_:
     wuu: 牙痛
     yue: 牙痛
     zh: 牙痛
-    zh-hans: 牙痛
+    zh_hans: 牙痛
 ---
 # [[Toothache]] 
 

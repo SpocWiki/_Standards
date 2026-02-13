@@ -95,7 +95,7 @@ dv_has_:
     pl: Billie Holiday
     pnb: بلی ہالیڈے
     pt: Billie Holiday
-    pt-br: Billie Holiday
+    pt_br: Billie Holiday
     qu: Billie Holiday
     ro: Billie Holiday
     ru: Билли Холидей
@@ -107,8 +107,8 @@ dv_has_:
     smn: Billie Holiday
     sq: Billie Holiday
     sr: Били Холидеј
-    sr-ec: Били Холидеј
-    sr-el: Bili Holidej
+    sr_ec: Били Холидеј
+    sr_el: Bili Holidej
     sv: Billie Holiday
     sw: Billie Holiday
     ta: பில்லி ஹொலிடே
@@ -124,12 +124,12 @@ dv_has_:
     yo: Billie Holiday
     yue: Billie Holiday
     zh: 比莉·霍利戴
-    zh-cn: 比莉·荷莉戴
-    zh-hans: 比莉·荷莉戴
-    zh-hant: 比莉·哈樂黛
-    zh-hk: 比莉·哈樂黛
-    zh-sg: 比莉·荷莉戴
-    zh-tw: 比莉·哈樂黛
+    zh_cn: 比莉·荷莉戴
+    zh_hans: 比莉·荷莉戴
+    zh_hant: 比莉·哈樂黛
+    zh_hk: 比莉·哈樂黛
+    zh_sg: 比莉·荷莉戴
+    zh_tw: 比莉·哈樂黛
 ---
 #has_/time_/started :: 1915-04-07 
 #has_/time_/stopped :: 1959-07-17 

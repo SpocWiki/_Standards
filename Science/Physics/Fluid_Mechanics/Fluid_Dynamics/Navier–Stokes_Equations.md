@@ -81,7 +81,7 @@ dv_has_:
     ar: معادلات نافييه-ستوكس
     ary: معادلات ناڤيي ستوك
     ast: Ecuaciones de Navier-Stokes
-    be-tarask: раўнаньні Навіе—Стоўкса
+    be_tarask: раўнаньні Навіе—Стоўкса
     bg: Уравнения на Навие-Стокс
     bs: Navier–Stokesove jednačine
     ca: Equacions de Navier-Stokes
@@ -129,12 +129,12 @@ dv_has_:
     vi: Phương trình Navier-Stokes
     wuu: 纳维-斯托克斯方程
     zh: 纳维－斯托克斯方程
-    zh-cn: 纳维－斯托克斯方程
-    zh-hans: 纳维－斯托克斯方程
-    zh-hant: 納維－斯托克斯方程
-    zh-hk: 納維－斯托克斯方程式
-    zh-sg: 纳维－斯托克斯方程
-    zh-tw: 納維－斯托克斯方程式
+    zh_cn: 纳维－斯托克斯方程
+    zh_hans: 纳维－斯托克斯方程
+    zh_hant: 納維－斯托克斯方程
+    zh_hk: 納維－斯托克斯方程式
+    zh_sg: 纳维－斯托克斯方程
+    zh_tw: 納維－斯托克斯方程式
 ---
 # [[Navier–Stokes_Equations]] 
 

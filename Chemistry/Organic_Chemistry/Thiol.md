@@ -18,7 +18,7 @@ dv_has_:
     ar: ثيول
     ast: Tiol
     az: tiollar
-    be-tarask: тыёл
+    be_tarask: тыёл
     bs: Tiol
     ca: tiol
     cs: thiol
@@ -26,8 +26,8 @@ dv_has_:
     de: Thiole
     el: Θειόλες
     en: thiol
-    en-ca: Thiol
-    en-gb: Thiol
+    en_ca: Thiol
+    en_gb: Thiol
     eo: Merkaptanoj
     es: Tiol
     et: Tioolid
@@ -57,15 +57,15 @@ dv_has_:
     pa: ਥਾਇਓਲ
     pl: tiol
     pt: tiol
-    pt-br: Tiol
+    pt_br: Tiol
     ro: Tiol
     ru: тиолы
     sh: Tiol
     sk: Tiol
     sl: tiol
     sr: Tiol
-    sr-ec: Тиол
-    sr-el: Tiol
+    sr_ec: Тиол
+    sr_el: Tiol
     sv: Tiol
     ta: தயோல்
     tr: Tiyol
@@ -74,12 +74,12 @@ dv_has_:
     vi: Thiol
     yue: 硫醇
     zh: 硫醇
-    zh-cn: 硫醇
-    zh-hans: 硫醇
-    zh-hant: 硫醇
-    zh-hk: 硫醇
-    zh-sg: 硫醇
-    zh-tw: 硫醇
+    zh_cn: 硫醇
+    zh_hans: 硫醇
+    zh_hant: 硫醇
+    zh_hk: 硫醇
+    zh_sg: 硫醇
+    zh_tw: 硫醇
 dv_is_similar_to: '[[Functional_Group/Alcohol|Alcohol]]'
 dv_has_formula_structural: R−SH
 dv_is_same_as:

@@ -28,8 +28,8 @@ dv_has_:
     dag: Billy Corgan
     de: Billy Corgan
     en: Billy Corgan
-    en-ca: Billy Corgan
-    en-gb: Billy Corgan
+    en_ca: Billy Corgan
+    en_gb: Billy Corgan
     es: Billy Corgan
     fa: بیلی کورگن
     fi: Billy Corgan
@@ -51,7 +51,7 @@ dv_has_:
     pap: Billy Corgan
     pl: Billy Corgan
     pt: Billy Corgan
-    pt-br: Billy Corgan
+    pt_br: Billy Corgan
     ru: Билли Корган
     sk: Billy Corgan
     sl: Billy Corgan

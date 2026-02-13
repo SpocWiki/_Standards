@@ -94,7 +94,7 @@ dv_has_:
     az: Petrologiya
     ba: петрология
     be: петралогія
-    be-tarask: пэтралёгія
+    be_tarask: пэтралёгія
     bg: петрология
     bn: পেট্রোলজি
     bs: Petrologija
@@ -160,8 +160,8 @@ dv_has_:
     sn: Ketamabwe
     sq: Petrologjia
     sr: петрологија
-    sr-ec: петрологија
-    sr-el: petrologija
+    sr_ec: петрологија
+    sr_el: petrologija
     sv: petrologi
     sw: Petrolojia
     ta: பாறையியல்
@@ -177,12 +177,12 @@ dv_has_:
     yi: פעטראלאגיע
     yue: 岩石學
     zh: 岩石学
-    zh-cn: 岩石学
-    zh-hans: 岩石学
-    zh-hant: 岩石學
-    zh-hk: 岩石學
-    zh-sg: 岩石学
-    zh-tw: 岩石學
+    zh_cn: 岩石学
+    zh_hans: 岩石学
+    zh_hant: 岩石學
+    zh_hk: 岩石學
+    zh_sg: 岩石学
+    zh_tw: 岩石學
 ---
 # [[Petrology]] 
 

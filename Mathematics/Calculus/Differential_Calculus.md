@@ -103,7 +103,7 @@ dv_has_:
     ba: Дифференциаль иҫәпләмә
     bar: Differenziäurechnung
     be: дыферэнцыяльнае злічэнне
-    be-tarask: дыфэрэнцыйнае зьлічэньне
+    be_tarask: дыфэрэнцыйнае зьлічэньне
     bg: диференциално смятане
     bn: অন্তরকলন
     ca: càlcul diferencial
@@ -112,11 +112,11 @@ dv_has_:
     cy: calcwlws differol
     da: differentialregning
     de: Differentialrechnung
-    de-ch: Differentialrechnung
+    de_ch: Differentialrechnung
     el: Διαφορικός λογισμός
     en: differential calculus
-    en-ca: differential calculus
-    en-gb: differential calculus
+    en_ca: differential calculus
+    en_gb: differential calculus
     eo: diferenciala kalkulo
     es: cálculo diferencial
     et: diferentsiaalarvutus
@@ -150,7 +150,7 @@ dv_has_:
     mk: диференцијално сметање
     mr: भैदिक कलन
     ms: kalkulus pembezaan
-    ms-arab: کلکولوس ڤمبيذاءن
+    ms_arab: کلکولوس ڤمبيذاءن
     nan: Bî-hun
     nb: differensialregning
     nl: differentiaalrekening
@@ -159,7 +159,7 @@ dv_has_:
     pl: różniczka funkcji
     pms: càlcol diferensial
     pt: cálculo diferencial
-    pt-br: cálculo diferencial
+    pt_br: cálculo diferencial
     ro: calcul diferențial
     ru: дифференциальное исчисление
     scn: càrculu diffirinziali
@@ -167,8 +167,8 @@ dv_has_:
     si: අවකලනය
     sl: diferencialni račun
     sr: диференцијални рачун
-    sr-ec: диференцијални рачун
-    sr-el: диференцијални рачун
+    sr_ec: диференцијални рачун
+    sr_el: диференцијални рачун
     ss: Differential calculus
     sv: differentialkalkyl
     ta: வகை நுண்கணிதம்

@@ -109,13 +109,13 @@ dv_has_:
     azb: دؤیوش راکتی
     bcl: misil
     be: ракетная зброя
-    be-tarask: ракетная зброя
+    be_tarask: ракетная зброя
     bg: ракетно оръжие
     bn: ক্ষেপণাস্ত্র
     br: Misil
     bs: Projektil (oružje)
     ca: míssil
-    cbk-zam: misil
+    cbk_zam: misil
     ceb: misil
     ckb: مووشەک
     cs: střela
@@ -185,8 +185,8 @@ dv_has_:
     sl: vodena raketa
     sq: Raketa
     sr: пројектил
-    sr-ec: пројектил
-    sr-el: projektil
+    sr_ec: пројектил
+    sr_el: projektil
     sv: robotvapen
     sw: Kombora
     ta: ஏவுகணை
@@ -202,7 +202,7 @@ dv_has_:
     wuu: 导弹
     yue: 導彈
     zh: 导弹
-    zh-tw: 飛彈
+    zh_tw: 飛彈
     zu: Isigcibisholo
 ---
 # [[Missile]] 

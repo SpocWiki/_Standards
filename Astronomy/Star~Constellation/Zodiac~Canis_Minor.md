@@ -115,7 +115,7 @@ dv_has_:
     az: Kiçik Köpək
     ba: Бәләкәй эт
     be: Малы Пёс
-    be-tarask: Малы Пёс
+    be_tarask: Малы Пёс
     bg: Малко куче
     bn: ক্ষুদ্র কুকুর মণ্ডল
     bo: ཁྱི་ཕྲུག་སྐར་ཚོམ་
@@ -199,7 +199,7 @@ dv_has_:
     wuu: 小犬座
     yue: 小犬座
     zh: 小犬座
-    zh-hant: 小犬座
+    zh_hant: 小犬座
 dv_is_:
   same_as:
   - '[[../../WikiData/WD~Canis_Minor,9305|WD~Canis_Minor,9305]]'

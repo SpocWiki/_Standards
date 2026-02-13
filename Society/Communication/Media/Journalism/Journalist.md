@@ -236,7 +236,7 @@ dv_has_:
     azb: قزئتهچی
     ba: журналист
     be: журналіст
-    be-tarask: журналіст
+    be_tarask: журналіст
     bew: tukang berita
     bg: журналист
     bn: সাংবাদিক
@@ -250,7 +250,7 @@ dv_has_:
     ckb: ڕۆژنامەوان
     co: ghjurnalista
     crh: jurnalist
-    crh-latn: jurnalist
+    crh_latn: jurnalist
     cs: novinář
     cv: журналист
     cy: newyddiadurwr
@@ -258,13 +258,13 @@ dv_has_:
     dag: lahabali sabira
     de: Journalist
     de-at: Journalist
-    de-ch: Journalist
+    de_ch: Journalist
     diq: rocnameker
     dsb: casnikaŕ
     el: δημοσιογράφος
     en: journalist
-    en-ca: journalist
-    en-gb: journalist
+    en_ca: journalist
+    en_gb: journalist
     en-us: journalist
     eo: ĵurnalisto
     es: periodista
@@ -317,7 +317,7 @@ dv_has_:
     krj: mamantalà
     ks: شؠچھ وٲنؠ
     ku: rojnamevan
-    ku-latn: rojnamevan
+    ku_latn: rojnamevan
     kw: jornalyas
     ky: журналист
     la: diurnarius
@@ -340,7 +340,7 @@ dv_has_:
     mn: зүйл
     mr: पत्रकार
     ms: wartawan
-    ms-arab: ورتاون
+    ms_arab: ورتاون
     mt: ġurnalist
     myv: куляньсёрмадей
     nb: journalist
@@ -361,7 +361,7 @@ dv_has_:
     pnb: صحافی
     ps: خبريال
     pt: jornalista
-    pt-br: jornalista
+    pt_br: jornalista
     qu: willay kamayuq
     ro: jurnalist
     ru: журналист
@@ -382,8 +382,8 @@ dv_has_:
     so: Wariye
     sq: gazetar
     sr: новинар
-    sr-ec: новинар
-    sr-el: novinar
+    sr_ec: новинар
+    sr_el: novinar
     stq: journalist
     su: wartawan
     sv: journalist
@@ -392,7 +392,7 @@ dv_has_:
     ta: இதழியலாளர்
     te: విలేఖరి
     tg: рӯзноманигор
-    tg-cyrl: журналист
+    tg_cyrl: журналист
     th: นักวารสารศาสตร์
     tl: mamamahayag
     tr: gazeteci
@@ -411,14 +411,14 @@ dv_has_:
     yo: akọ̀ròyìn
     yue: 新聞工作者
     zh: 新聞工作者
-    zh-cn: 新闻工作者
-    zh-hans: 新闻工作者
-    zh-hant: 新聞工作者
-    zh-hk: 新聞工作者
-    zh-mo: 新聞工作者
+    zh_cn: 新闻工作者
+    zh_hans: 新闻工作者
+    zh_hant: 新聞工作者
+    zh_hk: 新聞工作者
+    zh_mo: 新聞工作者
     zh-my: 新闻工作者
-    zh-sg: 新闻工作者
-    zh-tw: 新聞工作者
+    zh_sg: 新闻工作者
+    zh_tw: 新聞工作者
     zu: intatheli
 ---
 # [[Journalist]] 

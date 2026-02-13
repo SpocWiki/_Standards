@@ -13,11 +13,11 @@ dv_has_:
     cy: Richard Fleischer
     da: Richard Fleischer
     de: Richard Fleischer
-    de-ch: Richard Fleischer
+    de_ch: Richard Fleischer
     el: Ρίτσαρντ Φλέτσερ
     en: Richard Fleischer
-    en-ca: Richard Fleischer
-    en-gb: Richard Fleischer
+    en_ca: Richard Fleischer
+    en_gb: Richard Fleischer
     eo: Richard Fleischer
     es: Richard Fleischer
     et: Richard Fleischer
@@ -47,7 +47,7 @@ dv_has_:
     pap: Richard Fleischer
     pl: Richard Fleischer
     pt: Richard Fleischer
-    pt-br: Richard Fleischer
+    pt_br: Richard Fleischer
     ro: Richard Fleischer
     ru: Ричард Флейшер
     sh: Richard Fleischer
@@ -57,9 +57,9 @@ dv_has_:
     tr: Richard Fleischer
     ur: رچرڈ فلیشر
     zh: 理查德·弗莱舍
-    zh-cn: 理查德·弗莱彻
-    zh-hans: 理查德·弗莱彻
-    zh-hant: 理查德·弗萊徹
+    zh_cn: 理查德·弗莱彻
+    zh_hans: 理查德·弗莱彻
+    zh_hant: 理查德·弗萊徹
 aliases:
 - Richard Fleischer
 - Ričards Flaišers

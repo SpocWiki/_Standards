@@ -110,7 +110,7 @@ dv_has_:
     ar: سوجورنر تروث
     arz: سوجورنر تروث
     ast: Sojourner Truth
-    be-tarask: Соўджэрнэр Трут
+    be_tarask: Соўджэрнэр Трут
     bg: Соуджърнър Трут
     bs: Sojourner Truth
     ca: Sojourner Truth
@@ -157,7 +157,7 @@ dv_has_:
     pl: Sojourner Truth
     ps: سوجورنر ټروت
     pt: Sojourner Truth
-    pt-br: Sojourner Truth
+    pt_br: Sojourner Truth
     qu: Sojourner Truth
     ro: Sojourner Truth
     ru: Соджорнер Трут
@@ -167,8 +167,8 @@ dv_has_:
     sl: Sojourner Truth
     sq: Sojourner Truth
     sr: Соџернер Трут
-    sr-ec: Соџернер Трут
-    sr-el: Sodžerner Trut
+    sr_ec: Соџернер Трут
+    sr_el: Sodžerner Trut
     sv: Sojourner Truth
     sw: Sojourner Truth
     ta: சோஜோர்னர் ட்ரூத்
@@ -181,12 +181,12 @@ dv_has_:
     yo: Sojourner Truth
     yue: 索傑納·特魯思
     zh: 索杰纳·特鲁思
-    zh-cn: 索杰纳·特鲁思
-    zh-hans: 索杰纳·特鲁思
-    zh-hant: 索傑納·特魯思
-    zh-hk: 索傑納·特魯思
-    zh-sg: 索杰纳·特鲁思
-    zh-tw: 索傑納·特魯思
+    zh_cn: 索杰纳·特鲁思
+    zh_hans: 索杰纳·特鲁思
+    zh_hant: 索傑納·特魯思
+    zh_hk: 索傑納·特魯思
+    zh_sg: 索杰纳·特鲁思
+    zh_tw: 索傑納·特魯思
 ---
 # [[Truth,Sojourner]] 
 

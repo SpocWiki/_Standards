@@ -187,7 +187,7 @@ dv_has_:
     azb: یاکوبوس هنریکوس وانتهوف
     ban: Jacobus Henricus van 't Hoff
     be: Якаб Хендрык вант Гоф
-    be-tarask: Якаб Гэндрык вант Гоф
+    be_tarask: Якаб Гэндрык вант Гоф
     bg: Якоб Вант Хоф
     bn: ইয়াকোবুস হেনরিকুস ফান্ট হফ
     bs: Jacobus Henricus van 't Hoff
@@ -198,7 +198,7 @@ dv_has_:
     da: Jacobus Henricus van 't Hoff
     de: Jacobus Henricus van ’t Hoff
     de-at: Jacobus van 't Hoff
-    de-ch: Jacobus van 't Hoff
+    de_ch: Jacobus van 't Hoff
     el: Ιάκωβος Ερρίκος βαν'τ Χοφ
     en: Jacobus Henricus van 't Hoff
     eo: Jacobus Henricus van 't Hoff
@@ -252,7 +252,7 @@ dv_has_:
     pms: Jacobus van 't Hoff
     pnb: جیکوبس فانت ہوف
     pt: Jacobus Henricus van't Hoff
-    pt-br: Jacobus Henricus van't Hoff
+    pt_br: Jacobus Henricus van't Hoff
     qu: Jacobus Henricus van't Hoff
     ro: Jacobus Henricus van 't Hoff
     ru: Якоб Вант-Гофф
@@ -264,8 +264,8 @@ dv_has_:
     sl: Jacobus Henricus van 't Hoff
     sq: Jacobus Henricus van 't Hoff
     sr: Јакобус Хенрикус ван 'т Хоф
-    sr-ec: Јакобус Хенрикус ван 'т Хоф
-    sr-el: Jakobus Henrikus van 't Hof
+    sr_ec: Јакобус Хенрикус ван 'т Хоф
+    sr_el: Jakobus Henrikus van 't Hof
     sv: Jacobus Henricus van ’t Hoff
     sw: Jacobus Henricus van 't Hoff
     ta: யாக்கோபசு என்றிக்கசு வான் தோஃப்
@@ -283,12 +283,12 @@ dv_has_:
     yo: Jacobus Henricus van 't Hoff
     yue: 范托浩夫
     zh: 雅各布斯·亨里克斯·范托夫
-    zh-cn: 雅各布斯·亨里克斯·范托夫
-    zh-hans: 雅各布斯·亨里克斯·范托夫
-    zh-hant: 雅各布斯·亨里克斯·范托夫
-    zh-hk: 雅各布斯·亨里克斯·范托夫
-    zh-sg: 雅各布斯·亨里克斯·范托夫
-    zh-tw: 雅各布斯·亨里克斯·凡特荷夫
+    zh_cn: 雅各布斯·亨里克斯·范托夫
+    zh_hans: 雅各布斯·亨里克斯·范托夫
+    zh_hant: 雅各布斯·亨里克斯·范托夫
+    zh_hk: 雅各布斯·亨里克斯·范托夫
+    zh_sg: 雅各布斯·亨里克斯·范托夫
+    zh_tw: 雅各布斯·亨里克斯·凡特荷夫
 ---
 # [[van_'t_Hoff,Jacobus_Henricus]] 
 

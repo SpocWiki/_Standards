@@ -132,7 +132,7 @@ dv_has_:
     ban: Celsius
     bcl: Celsius
     be: градус Цэльсія
-    be-tarask: градус Цэльсія
+    be_tarask: градус Цэльсія
     bg: градус Целзий
     bn: সেলসিয়াস
     bo: སེ་དྲོད།
@@ -200,7 +200,7 @@ dv_has_:
     nan-hant: 攝氏
     nb: grader celsius
     nds: Grad Celsius
-    nds-nl: Celsius
+    nds_nl: Celsius
     nl: graden Celsius
     nn: grader celsius
     oc: Gra Celsius
@@ -212,7 +212,7 @@ dv_has_:
     pms: Scala Celsius
     pnb: سیلسیئس
     pt: grau Celsius
-    pt-br: grau(s) Celsius
+    pt_br: grau(s) Celsius
     ro: grad Celsius
     ru: градус Цельсия
     scn: Gradu cintigradu
@@ -224,7 +224,7 @@ dv_has_:
     smn: celsiuscekki
     sq: Celcius
     sr: степен целзијуса
-    sr-ec: Степен целзијуса
+    sr_ec: Степен целзијуса
     su: Celsius
     sv: grader Celsius
     sw: Selsiasi
@@ -245,14 +245,14 @@ dv_has_:
     wuu: 摄氏温标
     yue: 攝氏
     zh: 攝氏度
-    zh-cn: 摄氏度
-    zh-hans: 摄氏度
-    zh-hant: 攝氏度
-    zh-hk: 攝氏度
-    zh-mo: 攝氏度
+    zh_cn: 摄氏度
+    zh_hans: 摄氏度
+    zh_hant: 攝氏度
+    zh_hk: 攝氏度
+    zh_mo: 攝氏度
     zh-my: 摄氏度
-    zh-sg: 摄氏度
-    zh-tw: 攝氏度
+    zh_sg: 摄氏度
+    zh_tw: 攝氏度
 ---
 # [[Unit~Celsius]] 
 

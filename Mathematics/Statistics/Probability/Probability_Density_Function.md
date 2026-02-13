@@ -83,7 +83,7 @@ dv_has_:
     ar: دالة الكثافة الاحتمالية
     ast: Función de densidá de probabilidá
     be: Шчыльнасць імавернасці
-    be-tarask: шчыльнасьць імавернасьці
+    be_tarask: шчыльнасьць імавернасьці
     bg: Плътност на вероятността
     ca: funció de densitat de probabilitat
     cs: hustota pravděpodobnosti
@@ -120,15 +120,15 @@ dv_has_:
     nn: tettleiksfunksjon
     pl: funkcja gęstości prawdopodobieństwa
     pt: função densidade
-    pt-br: função densidade de probabilidade
+    pt_br: função densidade de probabilidade
     ro: densitate de probabilitate
     ru: плотность вероятности
     sh: Raspodjela vjerojatnosti
     sl: funkcija gostote verjetnosti
     sq: Funksioni i dendësisë së probabilitetit
     sr: расподела вероватноће
-    sr-ec: Расподела вероватноће
-    sr-el: Raspodela verovatnoće
+    sr_ec: Расподела вероватноће
+    sr_el: Raspodela verovatnoće
     su: Fungsi dénsitas probabilitas
     sv: täthetsfunktion
     th: ฟังก์ชันความหนาแน่นความน่าจะเป็น
@@ -139,12 +139,12 @@ dv_has_:
     vi: Hàm mật độ xác suất
     yue: 概率密度函數
     zh: 機率密度函數
-    zh-cn: 概率密度函数
-    zh-hans: 机率密度函数
-    zh-hant: 機率密度函數
-    zh-hk: 機率密度函數
-    zh-sg: 概率密度函数
-    zh-tw: 機率密度函數
+    zh_cn: 概率密度函数
+    zh_hans: 机率密度函数
+    zh_hant: 機率密度函數
+    zh_hk: 機率密度函數
+    zh_sg: 概率密度函数
+    zh_tw: 機率密度函數
 ---
 # [[Probability_Density_Function]] 
 

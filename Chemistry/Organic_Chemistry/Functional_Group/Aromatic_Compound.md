@@ -100,7 +100,7 @@ dv_has_:
     ba: ароматик берләшмәләр
     bcl: aromatikong kompuwesto
     be: араматычнае злучэнне
-    be-tarask: араматычнае злучэньне
+    be_tarask: араматычнае злучэньне
     bn: সুগন্ধি যৌগ
     bs: aromatski spoj
     ca: compost aromàtic
@@ -109,8 +109,8 @@ dv_has_:
     de: aromatische Verbindung
     el: αρωματική ένωση
     en: aromatic compound
-    en-ca: aromatic compound
-    en-gb: aromatic compound
+    en_ca: aromatic compound
+    en_gb: aromatic compound
     eo: aromata kombinaĵo
     es: compuesto aromático
     et: aromaatsed ühendid

@@ -74,7 +74,7 @@ dv_has_:
     az: daimi
     ba: Даими
     be: канстанта
-    be-tarask: канстанта
+    be_tarask: канстанта
     bg: Константа
     bn: ধ্রুবক
     ca: constant
@@ -108,7 +108,7 @@ dv_has_:
     it: costante
     ja: 定数
     kk: константа
-    kk-latn: konstanta
+    kk_latn: konstanta
     ko: 상수
     kw: divaren
     la: Functio constans
@@ -124,7 +124,7 @@ dv_has_:
     pa: ਗਣਿਤਿਕ ਸਥਿਰਾਂਕ
     ps: ثابت، داومداره
     pt: constante
-    pt-br: constante
+    pt_br: constante
     ro: constantă
     ru: постоянная
     se: konstánta
@@ -133,8 +133,8 @@ dv_has_:
     smn: staađâ
     sq: Konstantja (matematikë)
     sr: константа
-    sr-ec: Константа
-    sr-el: Konstanta
+    sr_ec: Константа
+    sr_el: Konstanta
     sv: konstant
     sw: Kisobadilika
     ta: மாறிலி
@@ -150,12 +150,12 @@ dv_has_:
     xal: Тогтн
     yue: 常數
     zh: 常数
-    zh-cn: 常数
-    zh-hans: 常数
-    zh-hant: 常數
-    zh-hk: 常數
-    zh-sg: 常数
-    zh-tw: 常數
+    zh_cn: 常数
+    zh_hans: 常数
+    zh_hant: 常數
+    zh_hk: 常數
+    zh_sg: 常数
+    zh_tw: 常數
 ---
 # [[Constant]] 
 

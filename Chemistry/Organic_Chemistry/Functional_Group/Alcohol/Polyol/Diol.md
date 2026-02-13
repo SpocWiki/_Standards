@@ -66,7 +66,7 @@ dv_has_:
     ar: ديول
     az: Oksisirkə turşusu
     be: Гліколі
-    be-tarask: дыёль
+    be_tarask: дыёль
     ca: diol
     cs: diol
     de: Diole
@@ -106,12 +106,12 @@ dv_has_:
     uz: Glikollar
     vi: Diol
     zh: 二元醇
-    zh-cn: 二元醇
-    zh-hans: 二元醇
-    zh-hant: 二元醇
-    zh-hk: 二元醇
-    zh-sg: 二元醇
-    zh-tw: 二元醇
+    zh_cn: 二元醇
+    zh_hans: 二元醇
+    zh_hant: 二元醇
+    zh_hk: 二元醇
+    zh_sg: 二元醇
+    zh_tw: 二元醇
 ---
 # [[Diol]] 
 

@@ -99,7 +99,7 @@ dv_has_:
     az: Hərbi elm
     ban: aga ilmu militer
     be: ваенная навука
-    be-tarask: вайсковая навука
+    be_tarask: вайсковая навука
     bg: Военна наука
     bn: সামরিক বিজ্ঞান
     ca: ciència militar
@@ -108,11 +108,11 @@ dv_has_:
     cy: Gwyddor filwrol
     da: militærvidenskab
     de: Militärwissenschaft
-    de-ch: Militärwissenschaft
+    de_ch: Militärwissenschaft
     el: στρατιωτική επιστήμη
     en: military science
-    en-ca: military science
-    en-gb: military science
+    en_ca: military science
+    en_gb: military science
     eo: militistiko
     es: ciencia militar
     et: sõjateadus
@@ -133,11 +133,11 @@ dv_has_:
     it: scienza militare
     ja: 軍事学
     kk: Әскери ғылым
-    kk-arab: اسكەرىي عىلىم
+    kk_arab: اسكەرىي عىلىم
     kk-cn: اسكەرىي عىلىم
-    kk-cyrl: Әскери ғылым
+    kk_cyrl: Әскери ғылым
     kk-kz: Әскери ғылым
-    kk-latn: Äskerï ğılım
+    kk_latn: Äskerï ğılım
     kk-tr: Äskerï ğılım
     ko: 군사학
     lb: Militärwëssenschaft
@@ -154,19 +154,19 @@ dv_has_:
     oc: sciéncia militara
     pl: nauki wojskowe
     pt: ciência militar
-    pt-br: Ciência militar
+    pt_br: Ciência militar
     ru: военная наука
     sh: Vojna nauka
     si: හමුදා විද්යාව
     sl: vojaške vede
     sq: shkencë ushtarake
     sr: војна наука
-    sr-ec: војна наука
+    sr_ec: војна наука
     sv: krigsvetenskap
     tl: Agham na pangmilitar
     tr: Askeri bilim
     tt: хәрби фән
-    tt-cyrl: хәрби фән
+    tt_cyrl: хәрби фән
     uk: військова наука
     uz: Harbiy fan
     vec: siensa miłitare
@@ -174,12 +174,12 @@ dv_has_:
     war: Syensya panmilitar
     yue: 軍事學
     zh: 军事学
-    zh-cn: 军事学
-    zh-hans: 军事学
-    zh-hant: 軍事學
-    zh-hk: 軍事學
-    zh-sg: 军事学
-    zh-tw: 軍事學
+    zh_cn: 军事学
+    zh_hans: 军事学
+    zh_hant: 軍事學
+    zh_hk: 軍事學
+    zh_sg: 军事学
+    zh_tw: 軍事學
 ---
 # [[Military_Science]] 
 

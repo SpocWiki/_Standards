@@ -183,7 +183,7 @@ dv_has_:
     bbc: Hata Tagalog
     bcl: tataramon na Tagalog
     be: Тагальская мова
-    be-tarask: тагальская мова
+    be_tarask: тагальская мова
     bg: Тагалог
     bjn: tagalog
     bn: তাগালোগ ভাষা
@@ -191,7 +191,7 @@ dv_has_:
     bs: tagalog
     bxr: Тагалог хэлэн
     ca: tagal
-    cbk-zam: Tagalog
+    cbk_zam: Tagalog
     cdo: Tagalog-ngṳ̄
     ceb: Tinagalog
     ckb: زمانی تاگالۆگ
@@ -264,7 +264,7 @@ dv_has_:
     ml: ടാഗലോഗ്
     mr: टागालोग भाषा
     ms: bahasa Tagalog
-    ms-arab: بهاس تاݢالوݢ
+    ms_arab: بهاس تاݢالوݢ
     mt: Tagalog
     mul: Tagalog
     my: တဂ္ဂလော့ဘာသာစကား
@@ -286,7 +286,7 @@ dv_has_:
     pnb: تگالوگ
     ps: تګالوګ ژبه
     pt: tagalo
-    pt-br: tagalo
+    pt_br: tagalo
     qu: Tagalu simi
     ro: limba tagalog
     ru: тагальский язык
@@ -312,8 +312,8 @@ dv_has_:
     tt: тагал теле
     ty: tagalog
     ug: تاگالوگ تىلى
-    ug-arab: تاگالوگ تىلى
-    ug-latn: Tagalog tili
+    ug_arab: تاگالوگ تىلى
+    ug_latn: Tagalog tili
     uk: тагальська мова
     ur: تگالوگ زبان
     uz: Tagal tili
@@ -327,11 +327,11 @@ dv_has_:
     yue: 他加祿文
     zea: Tagalog
     zh: 他加祿語
-    zh-cn: 他加禄语
-    zh-hans: 他加禄语
-    zh-hant: 他加祿語
-    zh-hk: 他加祿語
-    zh-tw: 他加祿語
+    zh_cn: 他加禄语
+    zh_hans: 他加禄语
+    zh_hant: 他加祿語
+    zh_hk: 他加祿語
+    zh_tw: 他加祿語
     zu: isi-Tagalog
 ---
 # [[Lang-tgl]] 

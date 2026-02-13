@@ -162,7 +162,7 @@ dv_has_:
     ba: Тигр
     bcl: Tigris
     be: Тыгр
-    be-tarask: Тыгр
+    be_tarask: Тыгр
     bg: Тигър
     bho: दज़ला नदी
     bn: দজলা
@@ -215,7 +215,7 @@ dv_has_:
     kn: ಟೈಗ್ರಿಸ್
     ko: 티그리스강
     ku: Dîcle
-    ku-latn: Dîcle
+    ku_latn: Dîcle
     ky: Тигр
     la: Tigris
     lb: Tigris
@@ -246,7 +246,7 @@ dv_has_:
     pl: Tygrys
     pnb: دریاۓ دجلہ
     pt: Rio Tigre
-    pt-br: Tigre
+    pt_br: Tigre
     ro: Tigru
     ru: Тигр
     rue: Тіґріс
@@ -280,9 +280,9 @@ dv_has_:
     yi: חידקל
     yue: 底格里斯河
     zh: 底格里斯河
-    zh-cn: 底格里斯河
-    zh-hant: 底格里斯河
-    zh-tw: 底格里斯河
+    zh_cn: 底格里斯河
+    zh_hant: 底格里斯河
+    zh_tw: 底格里斯河
 ---
 # [[Tigris]] 
 

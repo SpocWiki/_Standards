@@ -63,7 +63,7 @@ dv_has_:
     avk: Putcumol (Antidorcas marsupialis)
     ban: Springbok
     be: Спрынгбок
-    be-tarask: спрынгбок
+    be_tarask: спрынгбок
     bg: планински скакач
     br: Springbok
     ca: gasela saltadora del Cap
@@ -119,8 +119,8 @@ dv_has_:
     sl: skokonoga gazela
     sq: Antidorcas marsupialis
     sr: Спрингбок антилопа
-    sr-ec: Спрингбок антилопа
-    sr-el: Springbok antilopa
+    sr_ec: Спрингбок антилопа
+    sr_el: Springbok antilopa
     sv: Springbock
     sw: Swala Mrukaji
     ta: துள்ளல் மான்
@@ -135,12 +135,12 @@ dv_has_:
     yo: Springbok
     yue: 跳羚
     zh: 跳羚
-    zh-cn: 跳羚
-    zh-hans: 跳羚
-    zh-hant: 跳羚
-    zh-hk: 跳羚
-    zh-sg: 跳羚
-    zh-tw: 跳羚
+    zh_cn: 跳羚
+    zh_hans: 跳羚
+    zh_hant: 跳羚
+    zh_hk: 跳羚
+    zh_sg: 跳羚
+    zh_tw: 跳羚
     zu: Amabhokobhoko
 ---
 [Temporary Page](tree/home.pages/pagestatus.html)

@@ -230,7 +230,7 @@ dv_has_:
     az: Ərəbistanlı Lourens (film, 1962)
     azb: عربیستانین لورنسی (فیلم)
     be: Лоўрэнс Аравійскі (фільм)
-    be-tarask: Лоўрэнс Арабійскі
+    be_tarask: Лоўрэнс Арабійскі
     bg: Лорънс Арабски
     bn: লরেন্স অব অ্যারাবিয়া
     br: Lawrence of Arabia
@@ -241,11 +241,11 @@ dv_has_:
     cy: Lawrence of Arabia
     da: Lawrence af Arabien
     de: Lawrence von Arabien
-    de-ch: Lawrence von Arabien
+    de_ch: Lawrence von Arabien
     el: Ο Λόρενς της Αραβίας
     en: Lawrence of Arabia
-    en-ca: Lawrence of Arabia
-    en-gb: Lawrence of Arabia
+    en_ca: Lawrence of Arabia
+    en_gb: Lawrence of Arabia
     eo: Lawrence of Arabia
     es: Lawrence de Arabia
     et: Araabia Lawrence
@@ -281,14 +281,14 @@ dv_has_:
     pl: Lawrence z Arabii
     pnb: لارنس آف عربیہ (فلم)
     pt: Lawrence da Arábia
-    pt-br: Lawrence da Arábia
+    pt_br: Lawrence da Arábia
     ro: Lawrence al Arabiei
     ru: Лоуренс Аравийский
     sco: Lawrence of Arabia
     sh: Lawrence of Arabia
     sl: Lawrence Arabski
     sr: Лоренс од Арабије
-    sr-ec: Лоренс од Арабије
+    sr_ec: Лоренс од Арабије
     sv: Lawrence av Arabien
     ta: லாரன்ஸ் ஒப் அரேபியா
     te: లారెన్స్ ఆఫ్ అరేబియా
@@ -301,13 +301,13 @@ dv_has_:
     wuu: 阿拉伯个劳伦斯 (电影)
     yue: 沙漠梟雄
     zh: 阿拉伯的劳伦斯
-    zh-cn: 阿拉伯的劳伦斯
-    zh-hans: 阿拉伯的劳伦斯
-    zh-hant: 阿拉伯的勞倫斯
-    zh-hk: 沙漠梟雄
+    zh_cn: 阿拉伯的劳伦斯
+    zh_hans: 阿拉伯的劳伦斯
+    zh_hant: 阿拉伯的勞倫斯
+    zh_hk: 沙漠梟雄
     zh-my: 沙漠枭雄
-    zh-sg: 时势英雄
-    zh-tw: 阿拉伯的勞倫斯
+    zh_sg: 时势英雄
+    zh_tw: 阿拉伯的勞倫斯
 ---
 # [[Lawrence_of_Arabia(Film)]] 
 

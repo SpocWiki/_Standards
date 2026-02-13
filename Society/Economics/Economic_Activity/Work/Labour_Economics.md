@@ -79,7 +79,7 @@ dv_has_:
     az: Əmək bazarı
     ba: Хеҙмәт иҡтисады
     be: Эканоміка працы
-    be-tarask: працоўная эканоміка
+    be_tarask: працоўная эканоміка
     bg: Икономика на труда
     bn: শ্রম অর্থশাস্ত্র
     ca: economia laboral
@@ -88,8 +88,8 @@ dv_has_:
     de: Arbeitsmarktökonomik
     el: Οικονομική της Εργασίας
     en: labour economics
-    en-ca: Labour economics
-    en-gb: Labour economics
+    en_ca: Labour economics
+    en_gb: Labour economics
     eo: laborekonomiko
     es: economía laboral
     et: Tööturg
@@ -114,7 +114,7 @@ dv_has_:
     nl: arbeidseconomie
     pl: Ekonomika pracy
     pt: economia do trabalho
-    pt-br: Economia do trabalho
+    pt_br: Economia do trabalho
     ru: экономика труда
     sh: Ekonomija rada
     sl: Trg dela

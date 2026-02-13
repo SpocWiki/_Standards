@@ -85,7 +85,7 @@ dv_has_:
     ar: عزم مغناطيسي
     ast: Momentu magnéticu
     be: магнітны момант
-    be-tarask: магнітны момант
+    be_tarask: магнітны момант
     bg: магнитен момент
     bn: চৌম্বক ভ্রামক
     ca: moment magnètic
@@ -95,8 +95,8 @@ dv_has_:
     de: magnetisches Moment
     el: μαγνητική ροπή
     en: magnetic moment
-    en-ca: Magnetic moment
-    en-gb: Magnetic moment
+    en_ca: Magnetic moment
+    en_gb: Magnetic moment
     en-us: magnetic moment
     eo: magneta momanto
     es: momento magnético
@@ -118,7 +118,7 @@ dv_has_:
     ja: 磁気モーメント
     ka: მაგნიტური მომენტი
     kk: Магниттік момент
-    kk-cyrl: куш момент
+    kk_cyrl: куш момент
     kn: ಮ್ಯಾಗ್ನೆಟಿಕ್ ಮುಮೆಂನ್ಟ್
     ko: 자기 모멘트
     lt: magnetinis momentas
@@ -131,7 +131,7 @@ dv_has_:
     nn: magnetisk moment
     pl: magnetyczny moment dipolowy
     pt: momento magnético
-    pt-br: Momento magnético
+    pt_br: Momento magnético
     ro: moment magnetic
     ru: магнитный момент
     sa: लोहकान्तक पर्वन्
@@ -139,8 +139,8 @@ dv_has_:
     sk: magnetický moment
     sl: magnetni moment
     sr: магнетни момент
-    sr-ec: магнетни момент
-    sr-el: magnetni moment
+    sr_ec: магнетни момент
+    sr_el: magnetni moment
     tr: Manyetik moment
     tt: Магнит моменты
     uk: магнітний момент
@@ -149,12 +149,12 @@ dv_has_:
     vi: mômen lưỡng cực từ
     yue: 磁矩
     zh: 磁矩
-    zh-cn: 磁矩
-    zh-hans: 磁矩
-    zh-hant: 磁矩
-    zh-hk: 磁矩
-    zh-sg: 磁矩
-    zh-tw: 磁矩
+    zh_cn: 磁矩
+    zh_hans: 磁矩
+    zh_hant: 磁矩
+    zh_hk: 磁矩
+    zh_sg: 磁矩
+    zh_tw: 磁矩
 ---
 # [[Magnetic_Moment]] 
 

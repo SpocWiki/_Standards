@@ -80,7 +80,7 @@ dv_has_:
   name_:
     ar: شهوة
     ast: Lluxuria
-    be-tarask: хцівасьць
+    be_tarask: хцівасьць
     bg: Похот
     bn: কাম
     br: Orged
@@ -143,9 +143,9 @@ dv_has_:
     yi: גלוסט
     yue: 性慾
     zh: 性欲
-    zh-cn: 色欲
-    zh-hans: 性欲
-    zh-hant: 性欲
+    zh_cn: 色欲
+    zh_hans: 性欲
+    zh_hant: 性欲
 ---
 # [[Lust]] 
 

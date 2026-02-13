@@ -64,7 +64,7 @@ dv_has_:
     azb: مری ولستونکرافت
     bcl: Mary Wollstonecraft
     be: Мэры Уолстанкрафт
-    be-tarask: Мэры Ўолстанкрафт
+    be_tarask: Мэры Ўолстанкрафт
     bg: Мери Уолстънкрафт
     bho: मैरी वूल्स्टनक्राफ्ट
     bn: ম্যারি ওলস্টোনক্র্যাফ্ট
@@ -76,11 +76,11 @@ dv_has_:
     cy: Mary Wollstonecraft
     da: Mary Wollstonecraft
     de: Mary Wollstonecraft
-    de-ch: Mary Wollstonecraft
+    de_ch: Mary Wollstonecraft
     el: Μαίρη Γουόλστονκραφτ
     en: Mary Wollstonecraft
-    en-ca: Mary Wollstonecraft
-    en-gb: Mary Wollstonecraft
+    en_ca: Mary Wollstonecraft
+    en_gb: Mary Wollstonecraft
     eo: Mary Wollstonecraft
     es: Mary Wollstonecraft
     et: Mary Wollstonecraft
@@ -108,17 +108,17 @@ dv_has_:
     jv: Mary Wollstonecraft
     ka: მერი უოლსტონკრაფტი
     kk: Мэри Уолстонкрафт
-    kk-arab: مەرىي ۋولستونكرافت
+    kk_arab: مەرىي ۋولستونكرافت
     kk-cn: مەرىي ۋولستونكرافت
-    kk-cyrl: Мэри Уолстонкрафт
+    kk_cyrl: Мэри Уолстонкрафт
     kk-kz: Мэри Уолстонкрафт
-    kk-latn: Mérï Wolstonkraft
+    kk_latn: Mérï Wolstonkraft
     kk-tr: Mérï Wolstonkraft
     kn: ಗಾಡ್ವಿನ್, ಮೇರಿ
     ko: 메리 울스턴크래프트
     ku: Mary Wollstonecraft
-    ku-arab: ماری وۆللستۆنەجرافت
-    ku-latn: Mary Wollstonecraft
+    ku_arab: ماری وۆللستۆنەجرافت
+    ku_latn: Mary Wollstonecraft
     la: Maria Wollstonecraft
     lt: Mary Wollstonecraft
     lv: Mērija Volstonkrafta
@@ -144,7 +144,7 @@ dv_has_:
     pnb: میری وولسٹونکرافٹ
     ps: مېري ولسټونکرافټ
     pt: Mary Wollstonecraft
-    pt-br: Mary Wollstonecraft
+    pt_br: Mary Wollstonecraft
     ro: Mary Wollstonecraft
     ru: Мэри Уолстонкрафт
     sa: मैरी वोल्स्टोन्क्राफ्ट शेली
@@ -156,8 +156,8 @@ dv_has_:
     sl: Mary Wollstonecraft
     sq: Mary Wollstonecraft
     sr: Мери Вулстонкрафт
-    sr-ec: Мери Вулстонкрафт
-    sr-el: Meri Vulstonkraft
+    sr_ec: Мери Вулстонкрафт
+    sr_el: Meri Vulstonkraft
     sv: Mary Wollstonecraft
     ta: மேரி உல்சுடன்கிராஃப்ட்
     th: แมรี โวลสโตนคราฟต์
@@ -172,12 +172,12 @@ dv_has_:
     xmf: მერი უოლსტოუნკრაფტი
     yue: 瑪麗胡史東克夫特
     zh: 玛丽·沃斯通克拉夫特
-    zh-cn: 玛丽·沃斯通克拉夫特
-    zh-hans: 玛丽·沃斯通克拉夫特
-    zh-hant: 瑪莉·吳爾史東克拉芙特
-    zh-hk: 瑪莉·禾絲東妮卡芙特
-    zh-sg: 玛丽·沃斯通克拉夫特
-    zh-tw: 瑪莉·吳爾史東克拉芙特
+    zh_cn: 玛丽·沃斯通克拉夫特
+    zh_hans: 玛丽·沃斯通克拉夫特
+    zh_hant: 瑪莉·吳爾史東克拉芙特
+    zh_hk: 瑪莉·禾絲東妮卡芙特
+    zh_sg: 玛丽·沃斯通克拉夫特
+    zh_tw: 瑪莉·吳爾史東克拉芙特
 ---
 # [[Wollstonecraft,Mary]] 
 

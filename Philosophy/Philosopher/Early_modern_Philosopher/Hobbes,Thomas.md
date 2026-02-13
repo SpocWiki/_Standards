@@ -148,7 +148,7 @@ dv_has_:
     ban: Thomas Hobbes
     bar: Thomas Hobbes
     be: Томас Гобс
-    be-tarask: Томас Гобс
+    be_tarask: Томас Гобс
     bg: Томас Хобс
     bn: টমাস হব্স
     br: Thomas Hobbes
@@ -160,12 +160,12 @@ dv_has_:
     cy: Thomas Hobbes
     da: Thomas Hobbes
     de: Thomas Hobbes
-    de-ch: Thomas Hobbes
+    de_ch: Thomas Hobbes
     ee: Thomas Hobbes
     el: Τόμας Χομπς
     en: Thomas Hobbes
-    en-ca: Thomas Hobbes
-    en-gb: Thomas Hobbes
+    en_ca: Thomas Hobbes
+    en_gb: Thomas Hobbes
     eo: Thomas Hobbes
     es: Thomas Hobbes
     et: Thomas Hobbes
@@ -221,7 +221,7 @@ dv_has_:
     pms: Thomas Hobbes
     ps: توماس هابز
     pt: Thomas Hobbes
-    pt-br: Thomas Hobbes
+    pt_br: Thomas Hobbes
     ro: Thomas Hobbes
     ru: Томас Гоббс
     scn: Thomas Hobbes
@@ -232,7 +232,7 @@ dv_has_:
     so: Tomas hobis
     sq: Thomas Hobbes
     sr: Томас Хобс
-    sr-ec: Томас Хобс
+    sr_ec: Томас Хобс
     su: Thomas Hobbes
     sv: Thomas Hobbes
     sw: Thomas Hobbes
@@ -256,7 +256,7 @@ dv_has_:
     yo: Thomas Hobbes
     yue: 湯瑪斯賀布斯
     zh: 托马斯·霍布斯
-    zh-cn: 托马斯·霍布斯
+    zh_cn: 托马斯·霍布斯
     zh-hans: 托马斯·霍布斯
 ---
 # [[Hobbes,Thomas]] 

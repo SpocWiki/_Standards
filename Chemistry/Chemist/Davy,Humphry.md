@@ -168,7 +168,7 @@ dv_has_:
     az: Hemfri Devi
     azb: همفری دیوی
     be: Гемфры Дэві
-    be-tarask: Гамфры Дэйві
+    be_tarask: Гамфры Дэйві
     bg: Хъмфри Дейви
     bn: হামফ্রে ডেভি
     bs: Humphry Davy
@@ -181,8 +181,8 @@ dv_has_:
     de: Humphry Davy
     el: Χάμφρι Ντέιβι
     en: Humphry Davy
-    en-ca: Humphry Davy
-    en-gb: Humphry Davy
+    en_ca: Humphry Davy
+    en_gb: Humphry Davy
     eo: Humphry Davy
     es: Humphry Davy
     et: Humphry Davy
@@ -228,7 +228,7 @@ dv_has_:
     pnb: ہمفری ڈیوی
     ps: همفري ډيوی
     pt: Humphry Davy
-    pt-br: Humphry Davy
+    pt_br: Humphry Davy
     ro: Humphry Davy
     ru: Гемфри Дэви
     sah: Дэви Гемфри
@@ -238,8 +238,8 @@ dv_has_:
     sl: Humphry Davy
     sq: Humphry Davy
     sr: Хамфри Дејви
-    sr-ec: Хамфри Дејви
-    sr-el: Hamfri Dejvi
+    sr_ec: Хамфри Дејви
+    sr_el: Hamfri Dejvi
     sv: Humphry Davy
     ta: ஹம்பிரி டேவி
     te: హంఫ్రీ డేవీ
@@ -256,12 +256,12 @@ dv_has_:
     yi: האמפרי דייווי
     yue: 戴維
     zh: 汉弗里·戴维
-    zh-cn: 汉弗里·戴维
-    zh-hans: 汉弗里·戴维
-    zh-hant: 漢弗里·戴維
-    zh-hk: 漢弗里·戴維
-    zh-sg: 汉弗里·戴维
-    zh-tw: 漢弗里·戴維
+    zh_cn: 汉弗里·戴维
+    zh_hans: 汉弗里·戴维
+    zh_hant: 漢弗里·戴維
+    zh_hk: 漢弗里·戴維
+    zh_sg: 汉弗里·戴维
+    zh_tw: 漢弗里·戴維
 ---
 # [[Davy,Humphry]] 
 

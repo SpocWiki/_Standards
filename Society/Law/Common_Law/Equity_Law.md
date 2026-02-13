@@ -47,7 +47,7 @@ OmegaWiki_Defined_Meaning: 478075
 dv_has_:
   name_:
     ar: حقوق الملكية
-    be-tarask: права справядлівасьці
+    be_tarask: права справядлівасьці
     ca: equitat
     cs: ekvita
     cy: ecwiti
@@ -74,7 +74,7 @@ dv_has_:
     nb: billighetsrett
     pl: System equity
     pt: equity
-    pt-br: equity
+    pt_br: equity
     ro: echitate
     ru: право справедливости
     sk: Vlastnícke právo
@@ -86,14 +86,14 @@ dv_has_:
     vi: Luật Công bình
     yue: 衡平法
     zh: 衡平法
-    zh-cn: 衡平法
-    zh-hans: 衡平法
-    zh-hant: 衡平法
-    zh-hk: 衡平法
-    zh-mo: 衡平法
+    zh_cn: 衡平法
+    zh_hans: 衡平法
+    zh_hant: 衡平法
+    zh_hk: 衡平法
+    zh_mo: 衡平法
     zh-my: 衡平法
-    zh-sg: 衡平法
-    zh-tw: 衡平法
+    zh_sg: 衡平法
+    zh_tw: 衡平法
 ---
 # [[Equity_Law]]
 

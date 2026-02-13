@@ -117,7 +117,7 @@ dv_has_:
     az: Şimal Tacı
     ba: Төньяҡ таж
     be: Паўночная Карона
-    be-tarask: Паўночная Карона
+    be_tarask: Паўночная Карона
     bg: Северна корона
     bn: উত্তর কীরিট মণ্ডল
     bo: ཅོད་པན་སྐར་ཚོམ་བྱང་མ་
@@ -131,12 +131,12 @@ dv_has_:
     da: Nordlige Krone
     de: Nördliche Krone
     de-at: Nördliche Krone
-    de-ch: Nördliche Krone
+    de_ch: Nördliche Krone
     diq: Tacê Zımey
     el: Στέφανος Βόρειος
     en: Corona Borealis
-    en-ca: Corona Borealis
-    en-gb: Corona Borealis
+    en_ca: Corona Borealis
+    en_gb: Corona Borealis
     eo: Norda Krono
     es: Corona Borealis
     et: Põhjakroon
@@ -183,7 +183,7 @@ dv_has_:
     pl: Korona Północna
     pnb: اتری تاج
     pt: Corona Borealis
-    pt-br: Corona Borealis
+    pt_br: Corona Borealis
     ro: Coroana Boreală
     ru: Северная Корона
     sah: Хотугу Корона

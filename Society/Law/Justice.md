@@ -132,7 +132,7 @@ dv_has_:
     azb: عدالت
     bcl: Hustisya
     be: правасуддзе
-    be-tarask: правасудзьдзе
+    be_tarask: правасудзьдзе
     bg: правосъдие
     bn: ন্যায়বিচার
     bo: དྲང་པོ།
@@ -149,8 +149,8 @@ dv_has_:
     diq: edalet
     el: δικαιοσύνη
     en: justice
-    en-ca: justice
-    en-gb: justice
+    en_ca: justice
+    en_gb: justice
     en-us: justice
     eo: justeco
     es: justicia
@@ -213,7 +213,7 @@ dv_has_:
     pnb: انصاف
     ps: نياو
     pt: justiça
-    pt-br: justiça
+    pt_br: justiça
     qu: Chanin
     ro: justiție
     ru: справедливость
@@ -226,7 +226,7 @@ dv_has_:
     sl: pravičnost
     sq: drejtësia
     sr: правда
-    sr-ec: Правда
+    sr_ec: Правда
     sv: rättvisa
     sw: haki
     szy: +cengyi+, lucek-kakalimaan
@@ -249,7 +249,7 @@ dv_has_:
     yue: 正義
     zgh: ⵜⴰⵏⵣⵣⴰⵔⴼⵓⵜ
     zh: 正義
-    zh-hant: 正義
+    zh_hant: 正義
 ---
 # [[Justice]] 
 

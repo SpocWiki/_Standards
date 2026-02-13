@@ -147,7 +147,7 @@ dv_has_:
     ba: балалар әҙәбиәте
     bar: Kinderliteratur
     be: дзіцячая літаратура
-    be-tarask: дзіцячая літаратура
+    be_tarask: дзіцячая літаратура
     bg: детска литература
     bn: শিশুসাহিত্য
     br: lennegezh evit ar vugale
@@ -158,11 +158,11 @@ dv_has_:
     cy: llenyddiaeth plant
     da: børnelitteratur
     de: Kinderliteratur
-    de-ch: Kinderbuch
+    de_ch: Kinderbuch
     el: παιδική λογοτεχνία
     en: children's literature
-    en-ca: Children's literature
-    en-gb: children's literature
+    en_ca: Children's literature
+    en_gb: children's literature
     eo: porinfana literaturo
     es: literatura infantil
     et: lastekirjandus
@@ -190,7 +190,7 @@ dv_has_:
     jv: sastra anak
     ka: საბავშვო ლიტერატურა
     kk: балалар әдебиеті
-    kk-latn: balalar ädebïeti
+    kk_latn: balalar ädebïeti
     ko: 아동 문학
     ku: wêjeya zarokan
     kw: lien rag fleghes
@@ -232,8 +232,8 @@ dv_has_:
     sms: päärnaiǩeerjlažvuõtt
     sq: Letërsia për fëmijë
     sr: дечија литература
-    sr-ec: дечија литература
-    sr-el: dečija literatura
+    sr_ec: дечија литература
+    sr_el: dečija literatura
     sv: barnlitteratur
     ta: சிறுவர் இலக்கியம்
     te: బాల సాహిత్యం
@@ -250,12 +250,12 @@ dv_has_:
     wuu: 儿童文学
     yue: 兒童文學
     zh: 儿童文学
-    zh-cn: 儿童文学
-    zh-hans: 儿童文学
-    zh-hant: 兒童文學
-    zh-hk: 兒童文學
-    zh-sg: 儿童文学
-    zh-tw: 兒童文學
+    zh_cn: 儿童文学
+    zh_hans: 儿童文学
+    zh_hant: 兒童文學
+    zh_hk: 兒童文學
+    zh_sg: 儿童文学
+    zh_tw: 兒童文學
 ---
 # [[Children's_Literature]] 
 

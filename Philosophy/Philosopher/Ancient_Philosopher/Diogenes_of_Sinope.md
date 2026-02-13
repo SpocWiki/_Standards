@@ -138,7 +138,7 @@ dv_has_:
     az: Diogen
     ba: Диоген
     be: Дыяген
-    be-tarask: Дыяген
+    be_tarask: Дыяген
     bg: Диоген Синопски
     bn: দিওগেনেস
     bo: སི་ནོ་པེ་ཡིའི་དིའོ་ཇེ་ན།
@@ -186,7 +186,7 @@ dv_has_:
     ms: Diogenes
     mzn: دیوژن کلبی
     nb: Diogenes fra Sinope
-    nds-nl: Diogenes van Sinope
+    nds_nl: Diogenes van Sinope
     nl: Diogenes van Sinope
     nn: Diogenes frå Sinope
     oc: Diogènes de Sinope
@@ -197,7 +197,7 @@ dv_has_:
     pnt: Διογένες ο Σινωπέας
     ps: دیو جانس کلبی
     pt: Diógenes de Sínope
-    pt-br: Diógenes de Sínope
+    pt_br: Diógenes de Sínope
     ro: Diogene din Sinope
     ru: Диоген Синопский
     scn: Dioggini di Sinopi

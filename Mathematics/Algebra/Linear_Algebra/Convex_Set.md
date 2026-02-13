@@ -69,7 +69,7 @@ dv_has_:
   name_:
     ar: مجموعة محدبة
     ast: Convexidá
-    be-tarask: выпуклае мноства
+    be_tarask: выпуклае мноства
     bg: изпъкнало множество
     bn: উত্তল সেট
     ca: conjunt convex
@@ -94,14 +94,14 @@ dv_has_:
     it: insieme convesso
     ja: 凸集合
     kk: Дөңес дене
-    kk-arab: دوڭەس دەنە
+    kk_arab: دوڭەس دەنە
     kk-cn: دوڭەس دەنە
-    kk-cyrl: Дөңес дене
+    kk_cyrl: Дөңес дене
     kk-kz: Дөңес дене
-    kk-latn: Döñes dene
+    kk_latn: Döñes dene
     kk-tr: Döñes dene
     ko: 볼록 집합
-    ku-arab: كومهلهی قوقز
+    ku_arab: كومهلهی قوقز
     mk: испакнато множество
     mn: Гүдгэр олонлог
     nb: konveks mengde
@@ -110,7 +110,7 @@ dv_has_:
     pl: zbiór wypukły
     pms: Bombadura
     pt: conjunto convexo
-    pt-br: conjunto convexo
+    pt_br: conjunto convexo
     ro: mulțime convexă
     ru: выпуклое множество
     sco: convex set
@@ -125,12 +125,12 @@ dv_has_:
     vi: tập lồi
     yue: 凸集
     zh: 凸集
-    zh-cn: 凸集
-    zh-hans: 凸集
-    zh-hant: 凸集
-    zh-hk: 凸集
-    zh-sg: 凸集
-    zh-tw: 凸集
+    zh_cn: 凸集
+    zh_hans: 凸集
+    zh_hant: 凸集
+    zh_hk: 凸集
+    zh_sg: 凸集
+    zh_tw: 凸集
 ---
 # [[Convex_Set]] 
 

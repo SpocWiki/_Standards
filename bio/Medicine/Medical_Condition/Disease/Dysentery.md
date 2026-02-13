@@ -130,7 +130,7 @@ dv_has_:
     ba: Дизентерия
     bcl: Disenteria
     be: дызентэрыя
-    be-tarask: дызэнтэрыя
+    be_tarask: дызэнтэрыя
     bew: Mejen
     bg: Дизентерия
     bn: আমাশয়
@@ -224,12 +224,12 @@ dv_has_:
     yue: 痢疾
     za: Bingh'okleih
     zh: 痢疾
-    zh-cn: 痢疾
-    zh-hans: 痢疾
-    zh-hant: 痢疾
-    zh-hk: 痢疾
-    zh-sg: 痢疾
-    zh-tw: 痢疾
+    zh_cn: 痢疾
+    zh_hans: 痢疾
+    zh_hant: 痢疾
+    zh_hk: 痢疾
+    zh_sg: 痢疾
+    zh_tw: 痢疾
 ---
 # [[Dysentery]] 
 

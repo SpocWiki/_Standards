@@ -331,7 +331,7 @@ dv_has_:
     bar: Ethanoi
     bcl: Etanol
     be: Этанол
-    be-tarask: этаноль
+    be_tarask: этаноль
     bg: етанол
     bho: एथनाल
     bn: ইথানল
@@ -347,11 +347,11 @@ dv_has_:
     cy: ethanol
     da: ethanol
     de: Ethanol
-    de-ch: Ethanol
+    de_ch: Ethanol
     el: αιθανόλη
     en: ethanol
-    en-ca: Ethanol
-    en-gb: ethanol
+    en_ca: Ethanol
+    en_gb: ethanol
     eo: etanolo
     es: etanol
     et: etanool
@@ -415,7 +415,7 @@ dv_has_:
     pnb: ایتھانول
     ps: اتانول
     pt: etanol
-    pt-br: etanol
+    pt_br: etanol
     qu: Ethanul
     ro: etanol
     ru: этанол
@@ -430,8 +430,8 @@ dv_has_:
     sms: etanol
     sq: Etanoli
     sr: етанол
-    sr-ec: етанол
-    sr-el: etanol
+    sr_ec: етанол
+    sr_el: etanol
     stq: Ethanol
     sv: etanol
     sw: Ethanoli
@@ -455,13 +455,13 @@ dv_has_:
     yi: עטאנאל
     yue: 乙醇
     zh: 乙醇
-    zh-cn: 乙醇
-    zh-hans: 乙醇
-    zh-hant: 乙醇
-    zh-hk: 乙醇
-    zh-mo: 乙醇
-    zh-sg: 乙醇
-    zh-tw: 乙醇
+    zh_cn: 乙醇
+    zh_hans: 乙醇
+    zh_hant: 乙醇
+    zh_hk: 乙醇
+    zh_mo: 乙醇
+    zh_sg: 乙醇
+    zh_tw: 乙醇
 ---
 # [[Ethanol]] 
 

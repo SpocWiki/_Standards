@@ -67,7 +67,7 @@ dv_has_:
     ar: نصف قطر شفارتزشيلد
     ast: radiu de Schwarzschild
     be: гравітацыйны радыус
-    be-tarask: гравітацыйны радыюс
+    be_tarask: гравітацыйны радыюс
     bg: радиус на Шварцшилд
     bn: শোয়ার্জশিল্ড ব্যাসার্ধ
     ca: radi de Schwarzschild
@@ -76,8 +76,8 @@ dv_has_:
     de: Schwarzschildradius
     el: ακτίνα Σβάρτσιλντ
     en: Schwarzschild radius
-    en-ca: Schwarzschild radius
-    en-gb: Schwarzschild radius
+    en_ca: Schwarzschild radius
+    en_gb: Schwarzschild radius
     eo: radiuso de Schwarzschild
     es: radio de Schwarzschild
     et: Schwarzschildi raadius
@@ -106,7 +106,7 @@ dv_has_:
     oc: rai de Schwarzschild
     pl: promień Schwarzschilda
     pt: raio de Schwarzschild
-    pt-br: raio de Schwarzschild
+    pt_br: raio de Schwarzschild
     ro: raza Schwarzschild
     ru: гравитационный радиус
     sk: Schwarzschildov polomer

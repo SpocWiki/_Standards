@@ -172,7 +172,7 @@ dv_has_:
     bcl: Rimas
     bdr: Kulu
     be: Хлебнае дрэва
-    be-tarask: хлебнае дрэва
+    be_tarask: хлебнае дрэва
     bg: обикновено хлебно дърво
     bjn: sukun
     bo: གོ་རེ་ཤིང་འབྲས།
@@ -235,7 +235,7 @@ dv_has_:
     pam: Kamansi
     pl: Chlebowiec właściwy
     pt: Artocarpus incisa
-    pt-br: Artocarpus altilis
+    pt_br: Artocarpus altilis
     qu: Paparawa
     ro: Arborele de pâine
     ru: хлебное дерево
@@ -269,7 +269,7 @@ dv_has_:
     yue: 麵包樹
     zh: 麵包樹
     zh-cn: 面包树
-    zh-tw: 麵包樹
+    zh_tw: 麵包樹
     zu: Isithelo Sinkhwa
 ---
 # [[Breadfruit]] 

@@ -203,7 +203,7 @@ dv_has_:
     az: Sianid turşusu
     azb: هیدروژن سیانید
     be: Сінільная кіслата
-    be-tarask: Цыянавадародная кісьля
+    be_tarask: Цыянавадародная кісьля
     bg: Циановодород
     bn: হাইড্রোজেন সায়ানাইড
     ca: cianur d'hidrogen
@@ -251,7 +251,7 @@ dv_has_:
     oc: Cianur d'idrogèn
     pl: cyjanowodór
     pt: cianeto de hidrogénio
-    pt-br: cianeto de hidrogênio
+    pt_br: cianeto de hidrogênio
     ro: Acid cianhidric
     ru: синильная кислота
     sh: Cijanovodonična kiselina

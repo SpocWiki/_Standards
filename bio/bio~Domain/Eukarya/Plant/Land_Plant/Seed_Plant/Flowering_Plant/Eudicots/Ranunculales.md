@@ -49,7 +49,7 @@ dv_has_:
     ast: Ranunculales
     az: Qaymaqçiçəklilər
     be: казяльцовакветныя
-    be-tarask: Казяльцовакветныя
+    be_tarask: Казяльцовакветныя
     bg: лютикоцветни
     bs: Ranunculaceae
     ca: Ranunculals
@@ -58,11 +58,11 @@ dv_has_:
     cs: pryskyřníkotvaré
     da: ranunkel-ordenen
     de: Hahnenfußartige
-    de-ch: Hahnenfussartige
+    de_ch: Hahnenfussartige
     el: βατραχιώδη
     en: Ranunculales
-    en-ca: Ranunculales
-    en-gb: Ranunculales
+    en_ca: Ranunculales
+    en_gb: Ranunculales
     eo: Ranunkolaloj
     es: Ranunculales
     et: Tulikalaadsed
@@ -101,7 +101,7 @@ dv_has_:
     pl: jaskrowce
     pnb: ریننکونالس
     pt: Ranunculales
-    pt-br: Ranunculales
+    pt_br: Ranunculales
     ro: Ranunculales
     ru: лютикоцветные
     sco: Ranunculales
@@ -121,10 +121,10 @@ dv_has_:
     wuu: 毛茛目
     yue: 毛茛目
     zh: 毛茛目
-    zh-cn: 毛茛目
-    zh-hans: 毛茛目
-    zh-hant: 毛茛目
-    zh-tw: 毛茛目
+    zh_cn: 毛茛目
+    zh_hans: 毛茛目
+    zh_hant: 毛茛目
+    zh_tw: 毛茛目
 ---
 # [[Ranunculales]]  
 

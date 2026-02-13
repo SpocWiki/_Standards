@@ -39,7 +39,7 @@ has_id_wikidata: Q15589476
 dv_has_:
   name_:
     ar: نزوح السكان
-    be-tarask: перасяленьне
+    be_tarask: перасяленьне
     bg: трансфер на население
     ca: transferència de població
     cs: odsun
@@ -71,7 +71,7 @@ dv_has_:
     uk: Переміщення населення
     vi: di dân
     zh: 人口轉移
-    zh-hans: 人口转移
+    zh_hans: 人口转移
 ---
 # [[Population_Exchange]] 
 

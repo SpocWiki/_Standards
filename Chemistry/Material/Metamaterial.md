@@ -56,7 +56,7 @@ dv_has_:
   name_:
     ar: المادة الخارقة
     ast: Metamaterial
-    be-tarask: мэтаматэрыял
+    be_tarask: мэтаматэрыял
     bg: Метаматериал
     ca: metamaterial
     cs: metamateriál

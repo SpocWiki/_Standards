@@ -289,7 +289,7 @@ dv_has_:
     bar: Wödall
     bcl: Uniberso
     be: сусвет
-    be-tarask: сусьвет
+    be_tarask: сусьвет
     bg: Вселена
     bho: ब्रह्मांड
     bn: মহাবিশ্ব
@@ -316,13 +316,13 @@ dv_has_:
     dag: Dunia
     de: Universum
     de-at: Universum
-    de-ch: Universum
+    de_ch: Universum
     diq: Kainat
     dsb: Uniwersum
     el: σύμπαν
     en: universe
-    en-ca: universe
-    en-gb: universe
+    en_ca: universe
+    en_gb: universe
     en-us: universe
     eo: universo
     es: universo
@@ -405,7 +405,7 @@ dv_has_:
     mn: Орчлон
     mr: विश्व
     ms: Alam Semesta
-    ms-arab: عالم سمستا
+    ms_arab: عالم سمستا
     mt: univers
     mwl: Ouniberso
     my: စကြဝဠာ
@@ -415,7 +415,7 @@ dv_has_:
     nap: Annevierzo
     nb: universet
     nds: Universum
-    nds-nl: hielal
+    nds_nl: hielal
     ne: ब्रह्माण्ड
     new: ब्रह्माण्ड
     nl: heelal
@@ -440,7 +440,7 @@ dv_has_:
     pnb: کائنات
     ps: کاينات
     pt: universo
-    pt-br: universo
+    pt_br: universo
     qu: Ch'askancha
     rki: စကြဝဠာ
     rmy: Jegeya
@@ -464,8 +464,8 @@ dv_has_:
     so: Koon
     sq: gjithësi
     sr: свемир
-    sr-ec: Свемир
-    sr-el: Svemir
+    sr_ec: Свемир
+    sr_el: Svemir
     stq: Al
     su: jagat
     sv: universum
@@ -480,8 +480,8 @@ dv_has_:
     tr: evren
     ts: Matilo
     tt: Галәм
-    tt-cyrl: Галәм
-    tt-latn: Ğäläm
+    tt_cyrl: Галәм
+    tt_latn: Ğäläm
     tw: Amansan
     udm: Инсьӧрулос
     uk: всесвіт
@@ -502,14 +502,14 @@ dv_has_:
     za: Yijcou
     zgh: ⵉⵖⵣⵡⵔ
     zh: 宇宙
-    zh-cn: 宇宙
-    zh-hans: 宇宙
-    zh-hant: 宇宙
-    zh-hk: 宇宙
-    zh-mo: 宇宙
+    zh_cn: 宇宙
+    zh_hans: 宇宙
+    zh_hant: 宇宙
+    zh_hk: 宇宙
+    zh_mo: 宇宙
     zh-my: 宇宙
-    zh-sg: 宇宙
-    zh-tw: 宇宙
+    zh_sg: 宇宙
+    zh_tw: 宇宙
     zu: uMkhathilibe
 ---
 # [[Universe]] 

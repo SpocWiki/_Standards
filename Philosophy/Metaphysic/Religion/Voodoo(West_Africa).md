@@ -61,7 +61,7 @@ dv_has_:
     ast: Vudú
     az: Vudu
     be: вуду
-    be-tarask: вуду
+    be_tarask: вуду
     bg: Вуду
     bs: Vudu
     ca: vodú
@@ -132,8 +132,8 @@ dv_has_:
     smn: voodoo
     sms: voodoo
     sr: Вуду
-    sr-ec: Вуду
-    sr-el: Vudu
+    sr_ec: Вуду
+    sr_el: Vudu
     sv: voodoo
     sw: Voodoo
     ta: வூடூ
@@ -147,12 +147,12 @@ dv_has_:
     wuu: 伏都教
     yue: 巫毒教
     zh: 伏都教
-    zh-cn: 伏都教
-    zh-hans: 伏都教
-    zh-hant: 巫毒教
-    zh-hk: 伏都教
-    zh-sg: 伏都教
-    zh-tw: 巫毒教
+    zh_cn: 伏都教
+    zh_hans: 伏都教
+    zh_hant: 巫毒教
+    zh_hk: 伏都教
+    zh_sg: 伏都教
+    zh_tw: 巫毒教
 ---
 # [[Voodoo(West_Africa)]] 
 

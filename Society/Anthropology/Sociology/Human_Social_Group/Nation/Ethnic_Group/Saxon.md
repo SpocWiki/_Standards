@@ -100,7 +100,7 @@ dv_has_:
     az: Sakslar
     azb: ساکسون
     be: Саксы
-    be-tarask: саксы
+    be_tarask: саксы
     bg: Сакси
     br: Saksoned
     bs: Sasi
@@ -135,11 +135,11 @@ dv_has_:
     ja: サクソン人
     ka: საქსები
     kk: Сакстер
-    kk-arab: ساكستەر
+    kk_arab: ساكستەر
     kk-cn: ساكستەر
-    kk-cyrl: Сакстер
+    kk_cyrl: Сакстер
     kk-kz: Сакстер
-    kk-latn: Sakster
+    kk_latn: Sakster
     kk-tr: Sakster
     ko: 색슨족
     la: Saxones
@@ -154,14 +154,14 @@ dv_has_:
     nan: Saxon lâng
     nb: Saksere
     nds: Sassen
-    nds-nl: Saksen
+    nds_nl: Saksen
     nl: Saksen
     nn: saksarar
     oc: Saxons
     pl: Sasi
     pnb: سیکسن
     pt: Saxões
-    pt-br: saxões
+    pt_br: saxões
     ro: Saxoni
     ru: саксы
     sco: Saxons
@@ -171,8 +171,8 @@ dv_has_:
     so: Saxons
     sq: Saksonët
     sr: Саси
-    sr-ec: Саси
-    sr-el: Sasi
+    sr_ec: Саси
+    sr_el: Sasi
     sv: saxare
     sw: Wasaksoni
     th: ชาวแซกซัน
@@ -187,12 +187,12 @@ dv_has_:
     wuu: 撒克逊人
     yue: 薩克遜人
     zh: 撒克遜人
-    zh-cn: 撒克逊人
-    zh-hans: 撒克逊人
-    zh-hant: 撒克遜人
-    zh-hk: 撒克遜人
-    zh-sg: 撒克逊人
-    zh-tw: 撒克遜人
+    zh_cn: 撒克逊人
+    zh_hans: 撒克逊人
+    zh_hant: 撒克遜人
+    zh_hk: 撒克遜人
+    zh_sg: 撒克逊人
+    zh_tw: 撒克遜人
 ---
 # [[Saxon]] 
 

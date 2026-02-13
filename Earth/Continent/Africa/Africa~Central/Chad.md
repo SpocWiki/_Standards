@@ -4,7 +4,7 @@ dv_has_:
     ab: Чад
     ace: Chad
     ady: Чад
-    aeb-arab: تشاد
+    aeb_arab: تشاد
     af: Tsjad
     am: ቻድ
     ami: Chad
@@ -26,7 +26,7 @@ dv_has_:
     bar: Tschad
     bcl: Tsad
     be: Чад
-    be-tarask: Чад
+    be_tarask: Чад
     bew: Cad
     bg: Чад
     bgn: چاد
@@ -41,7 +41,7 @@ dv_has_:
     bs: Čad
     bxr: Чад
     ca: Txad
-    cbk-zam: Chad
+    cbk_zam: Chad
     cdo: Chad
     ce: Чад
     ceb: Chad
@@ -49,7 +49,7 @@ dv_has_:
     ckb: چاد
     co: Ciad
     crh: Çad
-    crh-latn: Çad
+    crh_latn: Çad
     cs: Čad
     csb: Czad
     cv: Чад
@@ -58,7 +58,7 @@ dv_has_:
     dag: Chad
     de: Tschad
     de-at: Tschad
-    de-ch: Tschad
+    de_ch: Tschad
     din: Cad
     diq: Çad
     dsb: Čad
@@ -67,8 +67,8 @@ dv_has_:
     ee: Chad
     el: Τσαντ
     en: Chad
-    en-ca: Chad
-    en-gb: Chad
+    en_ca: Chad
+    en_gb: Chad
     en-us: Chad
     eo: Ĉado
     es: Chad
@@ -152,7 +152,7 @@ dv_has_:
     lv: Čada
     lzh: 乍得
     mad: Chad
-    map-bms: Chad
+    map_bms: Chad
     mdf: Чад
     mg: Tsady
     mhr: Чад
@@ -175,7 +175,7 @@ dv_has_:
     nan: Chad
     nb: Tsjad
     nds: Tschad
-    nds-nl: Tsjaad
+    nds_nl: Tsjaad
     ne: चाड
     new: चाड
     nl: Tsjaad
@@ -200,7 +200,7 @@ dv_has_:
     pnb: چڈ
     ps: چاډ
     pt: Chade
-    pt-br: Chade
+    pt_br: Chade
     qu: Chad
     rki: ချဒ်သမ္မတနိုင်ငံ
     rm: Tschad
@@ -232,8 +232,8 @@ dv_has_:
     so: Jad
     sq: Çadi
     sr: Чад
-    sr-ec: Чад
-    sr-el: Čad
+    sr_ec: Чад
+    sr_el: Čad
     ss: IShedi
     st: Chad
     stq: Tschad
@@ -282,14 +282,14 @@ dv_has_:
     zea: Tsjaod
     zgh: ⵜⵛⴰⴷ
     zh: 乍得
-    zh-cn: 乍得
-    zh-hans: 乍得
-    zh-hant: 查德
-    zh-hk: 乍得
-    zh-mo: 乍得
+    zh_cn: 乍得
+    zh_hans: 乍得
+    zh_hant: 查德
+    zh_hk: 乍得
+    zh_mo: 乍得
     zh-my: 乍得
-    zh-sg: 乍得
-    zh-tw: 查德
+    zh_sg: 乍得
+    zh_tw: 查德
     zu: ITshedi
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Chad

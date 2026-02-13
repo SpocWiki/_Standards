@@ -172,7 +172,7 @@ dv_has_:
     bar: Yen
     bcl: Yen kan Hapon
     be: іена
-    be-tarask: ена
+    be_tarask: ена
     bg: японска йена
     bn: জাপানি ইয়েন
     bpy: জাপানিজ ইয়েন
@@ -194,8 +194,8 @@ dv_has_:
     diq: Yenê Japonya
     el: γιεν
     en: yen
-    en-ca: yen
-    en-gb: yen
+    en_ca: yen
+    en_gb: yen
     eo: japana eno
     es: yen
     et: Jaapani jeen
@@ -247,7 +247,7 @@ dv_has_:
     mn: иен
     mr: जपानी येन
     ms: yen
-    ms-arab: يين
+    ms_arab: يين
     mt: jen
     mwl: iene
     my: ဂျပန်ယန်းငွေ
@@ -268,7 +268,7 @@ dv_has_:
     pms: yen
     pnb: ین
     pt: iene
-    pt-br: iene
+    pt_br: iene
     ro: yeni
     roa-tara: yen giappunise
     ru: японская иена
@@ -284,7 +284,7 @@ dv_has_:
     so: yen
     sq: jeni japonez
     sr: јапански јен
-    sr-ec: јапански јен
+    sr_ec: јапански јен
     su: Yén Jepang
     sv: yen
     sw: yen
@@ -297,7 +297,7 @@ dv_has_:
     tpi: Yen bilong Siapan
     tr: Japon yeni
     tt: япон иенасы
-    tt-cyrl: япун енасы
+    tt_cyrl: япун енасы
     ug: يېن
     uk: єна
     ur: ین
@@ -312,14 +312,14 @@ dv_has_:
     yo: yen
     yue: 日圓
     zh: 日圓
-    zh-cn: 日元
-    zh-hans: 日圆
-    zh-hant: 日圓
-    zh-hk: 日圓
-    zh-mo: 日圓
+    zh_cn: 日元
+    zh_hans: 日圆
+    zh_hant: 日圓
+    zh_hk: 日圓
+    zh_mo: 日圓
     zh-my: 日圆
-    zh-sg: 日圆
-    zh-tw: 日圓
+    zh_sg: 日圆
+    zh_tw: 日圓
     zu: i-yen lase-Japan
 ---
 # [[Yen,Japanese]]

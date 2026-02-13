@@ -85,7 +85,7 @@ dv_has_:
     az: semiotika
     azb: گؤسترگهبیلیم
     be: семіётыка
-    be-tarask: сэміётыка
+    be_tarask: сэміётыка
     bg: семиотика
     bn: সংকেতবিজ্ঞান
     bs: semiotika
@@ -144,7 +144,7 @@ dv_has_:
     pms: semiòtica
     ps: سیمبول پوهنه
     pt: semiótica
-    pt-br: semiótica
+    pt_br: semiótica
     ro: semiotică
     ru: семиотика
     rue: семиотика
@@ -175,9 +175,9 @@ dv_has_:
     wuu: 符号学
     yue: 符號學
     zh: 符號學
-    zh-hans: 符号学
-    zh-hant: 符號學
-    zh-tw: 符號學
+    zh_hans: 符号学
+    zh_hant: 符號學
+    zh_tw: 符號學
 ---
 # [[Semiotics]] 
 

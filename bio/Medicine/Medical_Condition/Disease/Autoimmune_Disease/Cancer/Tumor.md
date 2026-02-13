@@ -77,7 +77,7 @@ dv_has_:
     ar: ورم متكتل
     ast: tumor
     be: пухліна
-    be-tarask: пухліна
+    be_tarask: пухліна
     bg: Тумор
     bs: tumor
     ca: tumor
@@ -91,7 +91,7 @@ dv_has_:
     de: Tumor
     el: όγκος
     en: tumor
-    en-gb: tumour
+    en_gb: tumour
     eo: tumoro
     es: tumor
     eu: tumore
@@ -114,16 +114,16 @@ dv_has_:
     ja: 腫瘍
     jv: tumor
     kk: Ісік
-    kk-arab: ىسىك
+    kk_arab: ىسىك
     kk-cn: ىسىك
-    kk-cyrl: Ісік
+    kk_cyrl: Ісік
     kk-kz: Ісік
-    kk-latn: İsik
+    kk_latn: İsik
     kk-tr: İsik
     ko: 종양
     ku: Tûmor
-    ku-arab: توومۆر
-    ku-latn: Tûmor
+    ku_arab: توومۆر
+    ku_latn: Tûmor
     ky: Шишиктер
     la: tumor
     lt: auglys
@@ -142,7 +142,7 @@ dv_has_:
     pl: guz
     ps: تومور
     pt: tumor
-    pt-br: tumor
+    pt_br: tumor
     qu: Q'umpuyasqa
     ro: tumoare
     ru: опухоль
@@ -166,12 +166,12 @@ dv_has_:
     wuu: 肿瘤
     yue: 腫瘤
     zh: 肿瘤
-    zh-cn: 肿瘤
-    zh-hans: 肿瘤
-    zh-hant: 腫瘤
-    zh-hk: 腫瘤
-    zh-sg: 肿瘤
-    zh-tw: 腫瘤
+    zh_cn: 肿瘤
+    zh_hans: 肿瘤
+    zh_hant: 腫瘤
+    zh_hk: 腫瘤
+    zh_sg: 肿瘤
+    zh_tw: 腫瘤
 ---
 # [[Tumor]] 
 

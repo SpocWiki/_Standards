@@ -302,7 +302,7 @@ dv_has_:
     bar: Wei
     bcl: babayi
     be: жанчына
-    be-tarask: жанчына
+    be_tarask: жанчына
     bew: wadon
     bg: жена
     bho: औरत
@@ -329,15 +329,15 @@ dv_has_:
     da: kvinde
     dag: paɣa
     de: Frau
-    de-ch: Frau
+    de_ch: Frau
     dga: pɔge
     diq: cêniye
     dsb: žona
     dty: स्त्री
     el: γυναίκα
     en: woman
-    en-ca: woman
-    en-gb: woman
+    en_ca: woman
+    en_gb: woman
     eo: virino
     es: mujer
     et: naine
@@ -404,7 +404,7 @@ dv_has_:
     ks: زٔنؠ
     ksh: frömmich
     ku: jin
-    ku-latn: jin
+    ku_latn: jin
     kv: нывбаба
     kw: benyn
     ky: аял
@@ -422,7 +422,7 @@ dv_has_:
     lzh: 女子
     mad: bâbinè'
     mai: जनानी
-    map-bms: wadon
+    map_bms: wadon
     mcn: cìttà
     mg: vehivavy
     mhr: ӱдырамаш
@@ -440,7 +440,7 @@ dv_has_:
     nan: cha-bó͘
     nb: kvinne
     nds: Fru
-    nds-nl: vraauw
+    nds_nl: vraauw
     ne: स्त्री
     new: मिसा
     nl: vrouw
@@ -462,7 +462,7 @@ dv_has_:
     pnt: γαρή
     ps: ښځه
     pt: mulher
-    pt-br: mulher
+    pt_br: mulher
     pwn: vavayan
     qu: warmi
     rmf: džuuli
@@ -492,7 +492,7 @@ dv_has_:
     so: dumar
     sq: grua
     sr: жена
-    sr-ec: жена
+    sr_ec: жена
     sv: kvinna
     sw: mwanamke
     szl: kobiyta
@@ -509,8 +509,8 @@ dv_has_:
     tr: kadın
     ts: n'wansati
     tt: хатын-кыз
-    tt-cyrl: хатын-кыз
-    tt-latn: xatın-qız
+    tt_cyrl: хатын-кыз
+    tt_latn: xatın-qız
     tw: ɔbaa
     tyv: херээжен кижи
     udm: кышномурт
@@ -533,14 +533,14 @@ dv_has_:
     yue: 女人
     za: mehmbwk
     zh: 成年女性
-    zh-cn: 女人
-    zh-hans: 女人
-    zh-hant: 女人
-    zh-hk: 女人
-    zh-mo: 女人
+    zh_cn: 女人
+    zh_hans: 女人
+    zh_hant: 女人
+    zh_hk: 女人
+    zh_mo: 女人
     zh-my: 女人
-    zh-sg: 女人
-    zh-tw: 女人
+    zh_sg: 女人
+    zh_tw: 女人
 ---
 # [[Woman]] 👩 
 

@@ -263,7 +263,7 @@ dv_has_:
     bbc: Asia Anggoni
     bcl: Habagatan-subangan na Asya
     be: Паўднёва-Усходняя Азія
-    be-tarask: Паўднёва-Ўсходняя Азія
+    be_tarask: Паўднёва-Ўсходняя Азія
     bew: Asia Kidul-wètan
     bg: Югоизточна Азия
     bho: दक्खिन पुरुब एशिया
@@ -272,7 +272,7 @@ dv_has_:
     bs: Jugoistočna Azija
     bug: Asia Tenggara
     ca: Àsia Sud-oriental
-    cbk-zam: Asia Sudoriental
+    cbk_zam: Asia Sudoriental
     cdo: Dĕ̤ng-nàng-ā
     ceb: Habagatang Sidlakang Asya
     ckb: باشووری ڕۆژھەڵاتی ئاسیا
@@ -338,7 +338,7 @@ dv_has_:
     lv: Dienvidaustrumāzija
     lzh: 東南亞
     mag: दक्खिनपूरुब एसिया
-    map-bms: Asia Tenggara
+    map_bms: Asia Tenggara
     mg: Azia Atsimo Atsinanana
     min: Asia Tenggara
     mk: Југоисточна Азија
@@ -346,7 +346,7 @@ dv_has_:
     mn: Зүүн Өмнөд Ази
     mr: आग्नेय आशिया
     ms: Asia Tenggara
-    ms-arab: اسيا تڠݢارا
+    ms_arab: اسيا تڠݢارا
     my: အရှေ့တောင်အာရှ
     nan: Tang-lâm-a
     nb: Sørøst-Asia
@@ -383,7 +383,7 @@ dv_has_:
     sms: saujjnuõrtt-Aasia
     sq: Azia Juglindore
     sr: Југоисточна Азија
-    sr-ec: Југоисточна Азија
+    sr_ec: Југоисточна Азија
     su: ᮃᮞᮤᮃ ᮊᮤᮓᮥᮜ᮪ ᮝᮦᮒᮔ᮪
     sv: Sydostasien
     sw: Asia ya Kusini-Mashariki
@@ -414,11 +414,11 @@ dv_has_:
     yue: 東南亞
     za: doengnamzya
     zh: 东南亚
-    zh-cn: 东南亚
-    zh-hans: 东南亚
-    zh-hant: 東南亞
-    zh-hk: 東南亞
-    zh-tw: 東南亞
+    zh_cn: 东南亚
+    zh_hans: 东南亚
+    zh_hant: 東南亞
+    zh_hk: 東南亞
+    zh_tw: 東南亞
 ---
 # [[Asia~South~East]] 
 

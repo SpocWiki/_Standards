@@ -64,9 +64,9 @@ dv_has_:
     ja: ツァイガルニク効果
     ka: ზეიგარნიკის ეფექტი
     kk: Зейгарник әсері
-    kk-arab: زەيگارنىيك اسەرى
-    kk-cyrl: Зейгарник әсері
-    kk-latn: Zeýgarnïk äseri
+    kk_arab: زەيگارنىيك اسەرى
+    kk_cyrl: Зейгарник әсері
+    kk_latn: Zeýgarnïk äseri
     ko: 미완성 효과
     lt: Zeigarnik efektas
     mk: Зејгарник ефект

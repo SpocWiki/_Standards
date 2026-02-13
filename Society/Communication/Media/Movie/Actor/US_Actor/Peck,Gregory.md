@@ -146,24 +146,24 @@ dv_has_:
     azb: قریقوری پک
     ba: Грегори Пек
     be: Грэгары Пек
-    be-tarask: Грэгары Пэк
+    be_tarask: Грэгары Пэк
     bg: Грегъри Пек
     bi: Gregory Peck
     bn: গ্রেগরি পেক
     bs: Gregory Peck
     ca: Gregory Peck
-    cbk-zam: Gregory Peck
+    cbk_zam: Gregory Peck
     ckb: گریگۆری پێک
     cs: Gregory Peck
     cv: Пек Грегори
     cy: Gregory Peck
     da: Gregory Peck
     de: Gregory Peck
-    de-ch: Gregory Peck
+    de_ch: Gregory Peck
     el: Γκρέγκορι Πεκ
     en: Gregory Peck
-    en-ca: Gregory Peck
-    en-gb: Gregory Peck
+    en_ca: Gregory Peck
+    en_gb: Gregory Peck
     eo: Gregory Peck
     es: Gregory Peck
     et: Gregory Peck
@@ -209,7 +209,7 @@ dv_has_:
     pag: Gregory Peck
     pl: Gregory Peck
     pt: Gregory Peck
-    pt-br: Gregory Peck
+    pt_br: Gregory Peck
     qu: Gregory Peck
     ro: Gregory Peck
     ru: Грегори Пек
@@ -219,8 +219,8 @@ dv_has_:
     sl: Gregory Peck
     sq: Gregory Peck
     sr: Грегори Пек
-    sr-ec: Грегори Пек
-    sr-el: Gregori Pek
+    sr_ec: Грегори Пек
+    sr_el: Gregori Pek
     su: Gregory Peck
     sv: Gregory Peck
     ta: கிரிகோரி பெக்
@@ -239,13 +239,13 @@ dv_has_:
     yo: Gregory Peck
     yue: 格力哥利柏
     zh: 格里高利·派克
-    zh-cn: 格里高利·派克
-    zh-hans: 格里高利·派克
-    zh-hant: 葛雷哥萊·畢克
-    zh-hk: 格力哥利·柏
+    zh_cn: 格里高利·派克
+    zh_hans: 格里高利·派克
+    zh_hant: 葛雷哥萊·畢克
+    zh_hk: 格力哥利·柏
     zh-my: 格力哥利·柏
-    zh-sg: 格力哥利·柏
-    zh-tw: 葛雷哥萊·畢克
+    zh_sg: 格力哥利·柏
+    zh_tw: 葛雷哥萊·畢克
 ---
 # [[Peck,Gregory]] 
 

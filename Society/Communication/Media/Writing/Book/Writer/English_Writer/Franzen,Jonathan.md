@@ -36,10 +36,10 @@ dv_has_:
     da: Jonathan Franzen
     de: Jonathan Franzen
     de-at: Jonathan Franzen
-    de-ch: Jonathan Franzen
+    de_ch: Jonathan Franzen
     en: Jonathan Franzen
-    en-ca: Jonathan Franzen
-    en-gb: Jonathan Franzen
+    en_ca: Jonathan Franzen
+    en_gb: Jonathan Franzen
     eo: Jonathan Franzen
     es: Jonathan Franzen
     et: Jonathan Franzen
@@ -73,7 +73,7 @@ dv_has_:
     pl: Jonathan Franzen
     pms: Jonathan Franzen
     pt: Jonathan Franzen
-    pt-br: Jonathan Franzen
+    pt_br: Jonathan Franzen
     ro: Jonathan Franzen
     ru: Джонатан Франзен
     sc: Jonathan Franzen
@@ -88,12 +88,12 @@ dv_has_:
     tr: Jonathan Franzen
     uk: Джонатан Франзен
     zh: 強納森·法蘭森
-    zh-cn: 强纳森·法兰森
-    zh-hans: 强纳森·法兰森
-    zh-hant: 強納森·法蘭森
-    zh-hk: 強納森·法蘭森
-    zh-sg: 强纳森·法兰森
-    zh-tw: 強納森·法蘭森
+    zh_cn: 强纳森·法兰森
+    zh_hans: 强纳森·法兰森
+    zh_hant: 強納森·法蘭森
+    zh_hk: 強納森·法蘭森
+    zh_sg: 强纳森·法兰森
+    zh_tw: 強納森·法蘭森
 ---
 # [[Franzen,Jonathan]] 
 

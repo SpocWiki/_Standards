@@ -65,7 +65,7 @@ dv_has_:
     ab: Украина
     ace: Ukraina
     ady: Украинэ
-    aeb-arab: أوكرانيا
+    aeb_arab: أوكرانيا
     af: Oekraïne
     am: ዩክሬን
     ami: Ukraine
@@ -91,7 +91,7 @@ dv_has_:
     bbc: Ukraina
     bcl: Ukranya
     be: Украіна
-    be-tarask: Украіна
+    be_tarask: Украіна
     bew: Ukrain
     bg: Украйна
     bgn: اوکراین
@@ -109,7 +109,7 @@ dv_has_:
     bug: Ukraine
     bxr: Украйн
     ca: Ucraïna
-    cbk-zam: Ukrania
+    cbk_zam: Ukrania
     cdo: Ukraine
     ce: Украина
     ceb: Ukranya
@@ -119,7 +119,7 @@ dv_has_:
     ckb: ئوکراینا
     co: Ucraina
     crh: Ukraina
-    crh-latn: Ukraina
+    crh_latn: Ukraina
     crh-ro: Ukrayna
     cs: Ukrajina
     csb: Ùkrajina
@@ -130,7 +130,7 @@ dv_has_:
     dag: Ukraine
     de: Ukraine
     de-at: Ukraine
-    de-ch: Ukraine
+    de_ch: Ukraine
     din: Ukraine
     diq: Ukrayna
     dsb: Ukraina
@@ -141,8 +141,8 @@ dv_has_:
     el: Ουκρανία
     eml: Ucragna
     en: Ukraine
-    en-ca: Ukraine
-    en-gb: Ukraine
+    en_ca: Ukraine
+    en_gb: Ukraine
     en-us: Ukraine
     eo: Ukrainio
     es: Ucrania
@@ -169,7 +169,7 @@ dv_has_:
     gn: Ukyaña
     gom: युक्रेन
     gom-deva: युक्रेन
-    gom-latn: Ukraine
+    gom_latn: Ukraine
     got: "\U0001033F\U0001033A\U00010342\U00010330\U00010339\U0001033D\U00010330"
     gpe: Ukraine
     gsw: Ukraine
@@ -213,7 +213,7 @@ dv_has_:
     kg: Ukrayina
     ki: Ukraine
     kk: Украина
-    kk-latn: Ukraina
+    kk_latn: Ukraina
     kl: Ukraine
     km: អ៊ុយក្រែន
     kn: ಯುಕ್ರೇನ್
@@ -249,7 +249,7 @@ dv_has_:
     mad: Ukraina
     mag: युक्रेन
     mai: यूक्रेन
-    map-bms: Ukraine
+    map_bms: Ukraine
     mdf: Украина
     mg: Okraina
     mhr: Украина
@@ -264,7 +264,7 @@ dv_has_:
     mr: युक्रेन
     mrj: Украина
     ms: Ukraine
-    ms-arab: يوکرين
+    ms_arab: يوکرين
     mt: Ukrajna
     mwl: Oucránia
     my: ယူကရိန်းနိုင်ငံ
@@ -276,7 +276,7 @@ dv_has_:
     nap: Ucraina
     nb: Ukraina
     nds: Ukraine
-    nds-nl: Oekraïne
+    nds_nl: Oekraïne
     ne: युक्रेन
     new: युक्रेन
     nl: Oekraïne
@@ -307,7 +307,7 @@ dv_has_:
     pnt: Ουκρανία
     ps: اوکراين
     pt: Ucrânia
-    pt-br: Ucrânia
+    pt_br: Ucrânia
     pwn: ukelan
     qu: Ukranya
     rm: Ucraina
@@ -339,8 +339,8 @@ dv_has_:
     so: Ukrain
     sq: Ukraina
     sr: Украјина
-    sr-ec: Украјина
-    sr-el: Ukrajina
+    sr_ec: Украјина
+    sr_el: Ukrajina
     srn: Ukrainakondre
     ss: IYukhureni
     st: Ukraine
@@ -356,8 +356,8 @@ dv_has_:
     te: ఉక్రెయిన్
     tet: Ukránia
     tg: Укройн
-    tg-cyrl: Укроин
-    tg-latn: Ukraina
+    tg_cyrl: Укроин
+    tg_latn: Ukraina
     th: ประเทศยูเครน
     ti: ዩክሬን
     tk: Ukraina
@@ -371,8 +371,8 @@ dv_has_:
     trv: Ukraine
     ts: Ukraine
     tt: Украина
-    tt-cyrl: Украина
-    tt-latn: Ukrayına
+    tt_cyrl: Украина
+    tt_latn: Ukrayına
     tum: Ukraine
     tw: Ukraine
     tyv: Украина
@@ -402,11 +402,11 @@ dv_has_:
     zea: Oekraïne
     zgh: ⵓⴽⵔⴰⵏⵢⴰ
     zh: 烏克蘭
-    zh-cn: 乌克兰
-    zh-hans: 乌克兰
-    zh-hant: 烏克蘭
-    zh-hk: 烏克蘭
-    zh-tw: 烏克蘭
+    zh_cn: 乌克兰
+    zh_hans: 乌克兰
+    zh_hant: 烏克蘭
+    zh_hk: 烏克蘭
+    zh_tw: 烏克蘭
     zu: IYukreyini
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Ukraine

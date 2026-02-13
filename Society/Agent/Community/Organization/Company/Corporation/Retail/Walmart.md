@@ -172,7 +172,7 @@ dv_has_:
     arz: وول مارت
     az: Wal mart
     azb: والمارت
-    be-tarask: Ўолмарт
+    be_tarask: Ўолмарт
     bg: Уол-Март
     bn: ওয়ালমার্ট
     bo: ཝལ་མར།
@@ -212,14 +212,14 @@ dv_has_:
     yi: וואל-מארט
     yue: 窩嘜
     zh: 沃尔玛
-    zh-cn: 沃尔玛
-    zh-hans: 沃尔玛
-    zh-hant: 沃爾瑪
-    zh-hk: 沃爾瑪
-    zh-mo: 沃爾瑪
+    zh_cn: 沃尔玛
+    zh_hans: 沃尔玛
+    zh_hant: 沃爾瑪
+    zh_hk: 沃爾瑪
+    zh_mo: 沃爾瑪
     zh-my: 沃尔玛
-    zh-sg: 沃尔玛
-    zh-tw: 沃爾瑪
+    zh_sg: 沃尔玛
+    zh_tw: 沃爾瑪
 ---
 # [[Walmart]] 
 

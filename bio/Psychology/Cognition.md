@@ -127,7 +127,7 @@ dv_has_:
     azb: کوقنیتیولیک
     ba: танып белеү
     be: пазнанне
-    be-tarask: спазнаньне
+    be_tarask: спазнаньне
     bg: Познавателна способност
     bn: সংজ্ঞান
     bs: kognitivna funkcija
@@ -170,7 +170,7 @@ dv_has_:
     mk: спознание
     mnw: ကမၠိုဟ်
     ms: kognisi
-    ms-arab: کوݢنيسي
+    ms_arab: کوݢنيسي
     my: သိမြင်ခြင်း
     nb: kognisjon
     nl: cognitie
@@ -193,8 +193,8 @@ dv_has_:
     sms: kognitio
     sq: njohja
     sr: спознаја
-    sr-ec: спознаја
-    sr-el: spoznaja
+    sr_ec: спознаја
+    sr_el: spoznaja
     sv: kognition
     ta: அறிதிறன்
     tg: Шинохт
@@ -212,8 +212,8 @@ dv_has_:
     yi: באנעם
     yue: 認知
     zh: 認知
-    zh-hans: 思维过程
-    zh-hant: 思維過程
+    zh_hans: 思维过程
+    zh_hant: 思維過程
 ---
 # [[Cognition]] 
 

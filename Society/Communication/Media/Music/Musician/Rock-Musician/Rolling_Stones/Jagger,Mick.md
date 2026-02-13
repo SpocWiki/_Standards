@@ -177,7 +177,7 @@ dv_has_:
     azb: میک جقر
     ba: Мик Джаггер
     be: Мік Джагер
-    be-tarask: Мік Джагер
+    be_tarask: Мік Джагер
     bg: Мик Джагър
     br: Mick Jagger
     bs: Mick Jagger
@@ -186,13 +186,13 @@ dv_has_:
     da: Mick Jagger
     dag: Mick Jagger
     de: Mick Jagger
-    de-ch: Mick Jagger
+    de_ch: Mick Jagger
     dsb: Mick Jagger
     ee: Mick Jagger
     el: Μικ Τζάγκερ
     en: Mick Jagger
-    en-ca: Mick Jagger
-    en-gb: Mick Jagger
+    en_ca: Mick Jagger
+    en_gb: Mick Jagger
     eo: Mick Jagger
     es: Mick Jagger
     et: Mick Jagger
@@ -229,14 +229,14 @@ dv_has_:
     ms: Mick Jagger
     mul: Mick Jagger
     nb: Mick Jagger
-    nds-nl: Mick Jagger
+    nds_nl: Mick Jagger
     nl: Mick Jagger
     nn: Mick Jagger
     oc: Mick Jagger
     pa: ਮਿਕ ਜੈਗਰ
     pl: Mick Jagger
     pt: Mick Jagger
-    pt-br: Mick Jagger
+    pt_br: Mick Jagger
     qu: Mick Jagger
     ro: Mick Jagger
     ru: Мик Джаггер
@@ -246,8 +246,8 @@ dv_has_:
     sl: Mick Jagger
     sq: Mick Jagger
     sr: Мик Џегер
-    sr-ec: Мик Џегер
-    sr-el: Mik Džeger
+    sr_ec: Мик Џегер
+    sr_el: Mik Džeger
     su: Mick Jagger
     sv: Mick Jagger
     sw: Mick Jagger
@@ -263,12 +263,12 @@ dv_has_:
     xmf: მიქ ჯეგერი
     yue: 米積加
     zh: 米克·贾格尔
-    zh-cn: 米克·贾格尔
-    zh-hans: 米克·贾格尔
-    zh-hant: 米克·傑格
-    zh-hk: 米·積加
-    zh-sg: 米克·贾格尔
-    zh-tw: 米克·傑格
+    zh_cn: 米克·贾格尔
+    zh_hans: 米克·贾格尔
+    zh_hant: 米克·傑格
+    zh_hk: 米·積加
+    zh_sg: 米克·贾格尔
+    zh_tw: 米克·傑格
 ---
 # [[Jagger,Mick]] 
 

@@ -256,7 +256,7 @@ dv_has_:
     azb: بیرینجی پتر
     ba: Пётр I
     be: Пётр I
-    be-tarask: Пётар I
+    be_tarask: Пётар I
     bew: Peter I deri Ruslan
     bg: Петър I
     bn: প্রথম পিটার (রাশিয়া)
@@ -274,12 +274,12 @@ dv_has_:
     cy: Pedr I, tsar Rwsia
     da: Peter den Store
     de: Peter der Große
-    de-ch: Peter der Grosse
+    de_ch: Peter der Grosse
     diq: Peter I
     el: Πέτρος Α΄ της Ρωσίας
     en: Peter the Great
-    en-ca: Peter the Great
-    en-gb: Peter the Great
+    en_ca: Peter the Great
+    en_gb: Peter the Great
     en-us: Peter the Great
     eo: Petro la Granda
     es: Pedro I de Rusia
@@ -365,7 +365,7 @@ dv_has_:
     pnb: پیٹر اعظم
     ps: لوی پیټر
     pt: Pedro I da Rússia
-    pt-br: Pedro I da Rússia
+    pt_br: Pedro I da Rússia
     ro: Petru I al Rusiei
     ru: Пётр I
     rue: Петро I. Російскый
@@ -408,7 +408,7 @@ dv_has_:
     yo: Pétérù 1k ilẹ̀ Rọ́síà
     yue: 彼得大帝
     zh: 彼得大帝
-    zh-cn: 皮特大帝
+    zh_cn: 皮特大帝
 ---
 # [[Peter_the_Great]] 
 

@@ -84,7 +84,7 @@ dv_has_:
     ast: silabariu
     ba: ижекле яҙыу
     be: складовае пісьмо
-    be-tarask: складовае пісьмо
+    be_tarask: складовае пісьмо
     bg: силабари
     bjn: silabik
     bn: ধ্বনিদলভিত্তিক লিপি
@@ -121,8 +121,8 @@ dv_has_:
     ka: სილაბური დამწერლობა
     kaa: buwınlı jazıw
     kk: буындық (силлабикалық) жазу
-    kk-arab: بۋىندىق (سىيللابىيكالىق) جازۋ
-    kk-latn: bwındıq (sïllabïkalıq) jazw
+    kk_arab: بۋىندىق (سىيللابىيكالىق) جازۋ
+    kk_latn: bwındıq (sïllabïkalıq) jazw
     ko: 음절문자
     la: syllabarium
     lfn: silabario
@@ -136,7 +136,7 @@ dv_has_:
     pnb: مقطعیہ
     ps: هجانګار ليکدود
     pt: silabário
-    pt-br: silabário
+    pt_br: silabário
     ro: silabar
     ru: силлабарий
     sat: ᱥᱟᱭᱞᱟᱵᱟᱨᱤ
@@ -156,8 +156,8 @@ dv_has_:
     wuu: 音节文字
     yue: 音節文字
     zh: 音節文字
-    zh-hans: 音节文字
-    zh-hant: 音節文字
+    zh_hans: 音节文字
+    zh_hant: 音節文字
 ---
 # [[Syllabary]] 
 

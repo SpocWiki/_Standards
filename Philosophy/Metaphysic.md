@@ -160,7 +160,7 @@ dv_has_:
     az: metafizika
     bar: Metaphysik
     be: метафізіка
-    be-tarask: мэтафізыка
+    be_tarask: мэтафізыка
     bg: метафизика
     bn: অধিবিদ্যা
     br: Metafizik
@@ -246,7 +246,7 @@ dv_has_:
     pnb: مابعد الطبيعيات
     ps: مېتافزیک
     pt: metafísica
-    pt-br: metafísica
+    pt_br: metafísica
     ro: metafizică
     ru: метафизика
     rue: метафізіка
@@ -272,7 +272,7 @@ dv_has_:
     tl: metapisika
     tr: doğaötesi
     tt: метафизика
-    tt-cyrl: метафизика
+    tt_cyrl: метафизика
     uk: метафізика
     ur: ماوراء الطبیعیات
     uz: metafizika
@@ -286,8 +286,8 @@ dv_has_:
     yue: 形而上學
     zgh: ⵜⴰⴼⵔⴳⴰⵎⴰ
     zh: 形而上学
-    zh-hant: 形上學
-    zh-tw: 形上學
+    zh_hant: 形上學
+    zh_tw: 形上學
     zu: IPhicamvelo
 ---
 # [[Metaphysic]] 

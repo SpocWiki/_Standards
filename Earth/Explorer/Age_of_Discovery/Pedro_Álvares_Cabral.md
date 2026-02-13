@@ -103,7 +103,7 @@ dv_has_:
     avk: Pedro Alvares Cabral
     az: Pedru Alvariş Kabral
     be: Педру Алварыш Кабрал
-    be-tarask: Пэдру Алварыш Кабрал
+    be_tarask: Пэдру Алварыш Кабрал
     bg: Педро Алвариш Кабрал
     br: Pedro Álvares Cabral
     ca: Pedro Álvares Cabral
@@ -112,11 +112,11 @@ dv_has_:
     cy: Pedro Álvares Cabral
     da: Pedro Álvares Cabral
     de: Pedro Álvares Cabral
-    de-ch: Pedro Álvares Cabral
+    de_ch: Pedro Álvares Cabral
     el: Πέντρο Αλβαρέζ Καμπράλ
     en: Pedro Álvares Cabral
-    en-ca: Pedro Álvares Cabral
-    en-gb: Pedro Álvares Cabral
+    en_ca: Pedro Álvares Cabral
+    en_gb: Pedro Álvares Cabral
     eo: Pedro Álvares Cabral
     es: Pedro Álvares Cabral
     eu: Pedro Alvares Cabral
@@ -157,7 +157,7 @@ dv_has_:
     pl: Pedro Álvares Cabral
     pnb: پیڈرو ایلواریس کیبرل
     pt: Pedro Álvares Cabral
-    pt-br: Pedro Álvares Cabral
+    pt_br: Pedro Álvares Cabral
     qu: Pedro Alvares Cabral
     ro: Pedro Álvares Cabral
     ru: Педру Алвариш Кабрал
@@ -168,8 +168,8 @@ dv_has_:
     sl: Pedro Álvares Cabral
     sq: Pedro Alvares Cabral
     sr: Педро Алварес Кабрал
-    sr-ec: Педро Алварес Кабрал
-    sr-el: Pedro Alvares Kabral
+    sr_ec: Педро Алварес Кабрал
+    sr_el: Pedro Alvares Kabral
     sv: Pedro Álvares Cabral
     sw: Pedro Álvares Cabral
     ta: பெட்ரோ ஆல்வாரெசு காப்ரால்
@@ -185,12 +185,12 @@ dv_has_:
     xmf: პედრუ ალვარიშ კაბრალი
     yue: 卡布拉爾
     zh: 佩德罗·阿尔瓦雷斯·卡布拉尔
-    zh-cn: 佩德罗·阿尔瓦雷斯·卡布拉尔
-    zh-hans: 佩德罗·阿尔瓦雷斯·卡布拉尔
-    zh-hant: 佩德羅·阿爾瓦雷斯·卡布拉爾
-    zh-hk: 佩德羅·阿爾瓦雷斯·卡布拉爾
-    zh-sg: 佩德罗·阿尔瓦雷斯·卡布拉尔
-    zh-tw: 佩德羅·阿爾瓦雷斯·卡布拉爾
+    zh_cn: 佩德罗·阿尔瓦雷斯·卡布拉尔
+    zh_hans: 佩德罗·阿尔瓦雷斯·卡布拉尔
+    zh_hant: 佩德羅·阿爾瓦雷斯·卡布拉爾
+    zh_hk: 佩德羅·阿爾瓦雷斯·卡布拉爾
+    zh_sg: 佩德罗·阿尔瓦雷斯·卡布拉尔
+    zh_tw: 佩德羅·阿爾瓦雷斯·卡布拉爾
 ---
 # [[Pedro_Álvares_Cabral]] 
 

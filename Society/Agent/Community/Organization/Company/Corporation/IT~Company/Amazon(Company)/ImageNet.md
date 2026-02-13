@@ -28,8 +28,8 @@ dv_has_:
     tr: ImageNet
     uk: ImageNet
     zh: ImageNet
-    zh-hant: ImageNet
-    zh-tw: ImageNet
+    zh_hant: ImageNet
+    zh_tw: ImageNet
 aliases:
 - ImageNet
 - ایمیجنت

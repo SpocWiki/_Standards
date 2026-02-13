@@ -125,7 +125,7 @@ dv_has_:
     ast: Malcolm X
     az: Malkolm X
     be: Малкальм Ікс
-    be-tarask: Малкалм Ікс
+    be_tarask: Малкалм Ікс
     bg: Малкълм Екс
     bn: ম্যালকম এক্স
     br: Malcolm X
@@ -137,12 +137,12 @@ dv_has_:
     da: Malcolm X
     dag: Malcolm X
     de: Malcolm X
-    de-ch: Malcolm X
+    de_ch: Malcolm X
     diq: Malcolm X
     el: Μάλκολμ Χ
     en: Malcolm X
-    en-ca: Malcolm X
-    en-gb: Malcolm X
+    en_ca: Malcolm X
+    en_gb: Malcolm X
     eo: Malcolm X
     es: Malcolm X
     et: Malcolm X
@@ -197,7 +197,7 @@ dv_has_:
     pnb: میلکم ایکس
     ps: مالکوم اېکس
     pt: Malcolm X
-    pt-br: Malcolm X
+    pt_br: Malcolm X
     ro: Malcolm X
     ru: Малкольм Икс
     sc: Malcolm X
@@ -226,9 +226,9 @@ dv_has_:
     yo: Malcolm X
     yue: 麥爾坎X
     zh: 麥爾坎·X
-    zh-cn: 马尔科姆·X
-    zh-hk: 麥爾坎·X
-    zh-tw: 麥爾坎·X
+    zh_cn: 马尔科姆·X
+    zh_hk: 麥爾坎·X
+    zh_tw: 麥爾坎·X
 ---
 # [[Malcolm_X]] 
 

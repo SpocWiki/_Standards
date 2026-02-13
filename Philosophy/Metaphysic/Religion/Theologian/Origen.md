@@ -107,7 +107,7 @@ dv_has_:
     ast: Oríxenes
     az: Origen
     be: Арыген
-    be-tarask: Арыген
+    be_tarask: Арыген
     bg: Ориген
     bjn: Origen
     bn: অরিজেন
@@ -155,7 +155,7 @@ dv_has_:
     pcd: Origène
     pl: Orygenes
     pt: Orígenes
-    pt-br: Orígenes
+    pt_br: Orígenes
     ro: Origene
     ru: Ориген
     sco: Origen
@@ -164,8 +164,8 @@ dv_has_:
     sl: Origen
     sq: Origjeni
     sr: Ориген
-    sr-ec: Ориген
-    sr-el: Origen
+    sr_ec: Ориген
+    sr_el: Origen
     sv: Origenes
     sw: Origen
     th: ออริเจน
@@ -178,12 +178,12 @@ dv_has_:
     wuu: 俄利根
     yue: 俄利根
     zh: 俄利根
-    zh-cn: 俄利根
-    zh-hans: 俄利根
-    zh-hant: 俄利根
-    zh-hk: 俄利根
-    zh-sg: 俄利根
-    zh-tw: 俄利根
+    zh_cn: 俄利根
+    zh_hans: 俄利根
+    zh_hant: 俄利根
+    zh_hk: 俄利根
+    zh_sg: 俄利根
+    zh_tw: 俄利根
 ---
 # [[Origen]] 
 

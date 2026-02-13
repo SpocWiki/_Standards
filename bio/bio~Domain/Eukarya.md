@@ -146,7 +146,7 @@ dv_has_:
     ban: Eukaryota
     bar: Eukaryota
     be: эўкарыёты
-    be-tarask: эўкарыёты
+    be_tarask: эўкарыёты
     bg: еукариоти
     bn: সুকেন্দ্রিক জীব
     br: eukariot
@@ -163,12 +163,12 @@ dv_has_:
     da: eukaryot organisme
     de: Eukaryoten
     de-at: Eukaryota
-    de-ch: Eukaryoten
+    de_ch: Eukaryoten
     dsb: Eukaryoty
     el: Ευκαρυωτικά κύτταρα
     en: eukaryote
-    en-ca: Eukaryote
-    en-gb: eukaryote
+    en_ca: Eukaryote
+    en_gb: eukaryote
     eo: eŭkariotoj
     es: eucariontes
     et: Eukarüoodid
@@ -241,7 +241,7 @@ dv_has_:
     nap: Eukaryota
     nb: eukaryoter
     nds: Eukaryota
-    nds-nl: Eukaryota
+    nds_nl: Eukaryota
     nia: Eukariota
     nl: eukaryoten
     nn: eukaryotar
@@ -259,7 +259,7 @@ dv_has_:
     pnb: یوکیریوٹ
     ps: یوکاریوت
     pt: eukaryota
-    pt-br: Eukaryota
+    pt_br: Eukaryota
     rm: Eukaryota
     ro: eucariote
     ru: эукариоты
@@ -276,7 +276,7 @@ dv_has_:
     smn: sellâvááimusliih
     sq: Eukarioti
     sr: еукариоте
-    sr-ec: Еукариоте
+    sr_ec: Еукариоте
     su: Eukariot
     sv: eukaryoter
     sw: Eukaryota
@@ -287,8 +287,8 @@ dv_has_:
     tl: Eukaryote
     tr: ökaryot
     tt: эукариотлар
-    tt-cyrl: эукариотлар
-    tt-latn: euqäriotlar
+    tt_cyrl: эукариотлар
+    tt_latn: euqäriotlar
     uk: еукаріоти
     ur: حقیقی المرکزیہ
     uz: Eukariotlar
@@ -305,14 +305,14 @@ dv_has_:
     yo: Ẹ̀ùkáríọ́tì
     yue: 真核生物
     zh: 真核生物
-    zh-cn: 真核生物
-    zh-hans: 真核生物
-    zh-hant: 真核生物
-    zh-hk: 真核生物
-    zh-mo: 真核生物
+    zh_cn: 真核生物
+    zh_hans: 真核生物
+    zh_hant: 真核生物
+    zh_hk: 真核生物
+    zh_mo: 真核生物
     zh-my: 真核生物
-    zh-sg: 真核生物
-    zh-tw: 真核生物
+    zh_sg: 真核生物
+    zh_tw: 真核生物
     zu: Eukaryota
 ---
 # [[Eukarya]]

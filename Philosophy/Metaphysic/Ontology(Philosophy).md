@@ -104,7 +104,7 @@ dv_has_:
     ast: Ontoloxía
     az: ontologiya
     be: анталогія
-    be-tarask: анталёгія
+    be_tarask: анталёгія
     bg: Онтология
     bn: সত্তাতত্ত্ব
     br: ontologiezh
@@ -164,7 +164,7 @@ dv_has_:
     min: Ontologi
     mk: онтологија
     ms: ontologi
-    ms-arab: اونتولوݢي
+    ms_arab: اونتولوݢي
     my: ဖြစ်တည်သရုပ် ဗေဒ
     nan: Pún-thé-lūn
     nb: ontologi
@@ -181,7 +181,7 @@ dv_has_:
     pms: Ontologìa
     ps: انټولوژي
     pt: ontologia
-    pt-br: ontologia
+    pt_br: ontologia
     ro: ontologie
     ru: онтология
     scn: Ontuluggìa
@@ -197,7 +197,7 @@ dv_has_:
     sms: ontologia
     sq: ontologji
     sr: онтологија
-    sr-ec: Онтологија
+    sr_ec: Онтологија
     sv: ontologi
     sw: Ontolojia
     ta: உள்ளியம்
@@ -206,7 +206,7 @@ dv_has_:
     tl: Ontolohiya
     tr: varlık bilimi
     tt: онтология
-    tt-cyrl: онтология
+    tt_cyrl: онтология
     uk: онтологія
     ur: علم الوجود
     vi: bản thể luận
@@ -215,8 +215,8 @@ dv_has_:
     yue: 本體論
     zgh: ⵜⴰⵙⵏⵉⵍⵍⵉⵜ
     zh: 本体论
-    zh-hant: 本體論
-    zh-tw: 本體論
+    zh_hant: 本體論
+    zh_tw: 本體論
 ---
 # [[Ontology(Philosophy)]] 
 

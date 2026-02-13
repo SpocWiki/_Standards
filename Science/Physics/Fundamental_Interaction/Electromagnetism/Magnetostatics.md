@@ -45,7 +45,7 @@ dv_has_:
     ast: Magnetostática
     az: Maqnitostatika
     be: Магнітастатыка
-    be-tarask: магнітастатыка
+    be_tarask: магнітастатыка
     bg: Магнитостатика
     bn: স্থির চুম্বকত্ব
     ca: magnetoestàtica

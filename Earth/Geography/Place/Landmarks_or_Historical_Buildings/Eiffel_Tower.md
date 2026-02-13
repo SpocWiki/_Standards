@@ -285,7 +285,7 @@ dv_has_:
     ban: Menara Eiffel
     bcl: Torre Eiffel
     be: Эйфелева вежа
-    be-tarask: Эйфэлева вежа
+    be_tarask: Эйфэлева вежа
     bew: Menara Èpèl
     bg: Айфелова кула
     bjn: Menara Eiffel
@@ -303,14 +303,14 @@ dv_has_:
     cy: Tŵr Eiffel
     da: Eiffeltårnet
     de: Eiffelturm
-    de-ch: Eiffelturm
+    de_ch: Eiffelturm
     diq: Qulay Eiffeli
     dsb: Eiffelowy torm
     dv: އެއިފެލް ޓަވަރު
     el: Πύργος του Άιφελ
     en: Eiffel Tower
-    en-ca: Eiffel Tower
-    en-gb: Eiffel Tower
+    en_ca: Eiffel Tower
+    en_gb: Eiffel Tower
     en-us: Eiffel Tower
     eo: Eiffel-Turo
     es: torre Eiffel
@@ -327,7 +327,7 @@ dv_has_:
     gn: Eiffel Óga tuicha
     gom: Eiffel Tower
     gom-deva: आयफेल टावर
-    gom-latn: Eiffel Tower
+    gom_latn: Eiffel Tower
     got: "\U00010334\U00010339\U00010346\U00010346\U00010334\U0001033B \U00010344\U00010345\U00010342\U00010343"
     gsw: Eiffelturm
     gu: ઍફીલ ટાવર
@@ -390,7 +390,7 @@ dv_has_:
     nap: Torre Eiffel
     nb: Eiffeltårnet
     nds: Eiffeltoorn
-    nds-nl: Eiffeltoorne
+    nds_nl: Eiffeltoorne
     ne: इफेल टावर
     new: आइफेल टावर
     nl: Eiffeltoren
@@ -404,7 +404,7 @@ dv_has_:
     pnb: آئیفل ٹاور
     ps: ایفل ټاور
     pt: Torre Eiffel
-    pt-br: Torre Eiffel
+    pt_br: Torre Eiffel
     pwn: vatjuljayan a papukakeljanganan
     rm: Tur d'Eiffel
     ro: Turnul Eiffel
@@ -437,8 +437,8 @@ dv_has_:
     tok: tomo Epe
     tr: Eyfel Kulesi
     tt: Эйфель манарасы
-    tt-cyrl: Эйфель манарасы
-    tt-latn: Eyfel manarası
+    tt_cyrl: Эйфель манарасы
+    tt_latn: Eyfel manarası
     tw: La Tour Eiffel
     udm: Эйфель каланча
     uk: Ейфелева вежа
@@ -457,8 +457,8 @@ dv_has_:
     yue: 巴黎鐵塔
     zea: Eiffeltoôr'n
     zh: 埃菲尔铁塔
-    zh-cn: 埃菲尔铁塔
-    zh-hans: 埃菲尔铁塔
+    zh_cn: 埃菲尔铁塔
+    zh_hans: 埃菲尔铁塔
 ---
 # [[Eiffel_Tower]] 
 

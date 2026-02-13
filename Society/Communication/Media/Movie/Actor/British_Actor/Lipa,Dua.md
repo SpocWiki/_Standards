@@ -44,7 +44,7 @@ dv_has_:
     azb: دوا لیپا
     ba: Дуа Липа
     be: Дуа Ліпа
-    be-tarask: Дуа Ліпа
+    be_tarask: Дуа Ліпа
     bg: Дуа Липа
     bn: ডুয়া লিপা
     br: Dua Lipa
@@ -58,8 +58,8 @@ dv_has_:
     diq: Dua Lipa
     el: Ντούα Λίπα
     en: Dua Lipa
-    en-ca: Dua Lipa
-    en-gb: Dua Lipa
+    en_ca: Dua Lipa
+    en_gb: Dua Lipa
     en-us: Dua Lipa
     eo: Dua Lipa
     es: Dua Lipa
@@ -109,7 +109,7 @@ dv_has_:
     mzn: دوآ لیپا
     nb: Dua Lipa
     nds: Dua Lipa
-    nds-nl: Dua Lipa
+    nds_nl: Dua Lipa
     ne: डुआ लिपा
     nl: Dua Lipa
     nn: Dua Lipa
@@ -117,7 +117,7 @@ dv_has_:
     pa: ਦੁਆ ਲੀਪਾ
     pl: Dua Lipa
     pt: Dua Lipa
-    pt-br: Dua Lipa
+    pt_br: Dua Lipa
     rmf: Dua Lipa
     rmy: Dua Lipa
     ro: Dua Lipa
@@ -158,9 +158,9 @@ dv_has_:
     yue: 杜娃黎波
     zea: Dua Lipa
     zh: 杜阿·利帕
-    zh-cn: 杜阿·利帕
-    zh-hant: 杜娃·黎波
-    zh-tw: 杜娃·黎波
+    zh_cn: 杜阿·利帕
+    zh_hant: 杜娃·黎波
+    zh_tw: 杜娃·黎波
 ---
 # [[Lipa,Dua]] 
 

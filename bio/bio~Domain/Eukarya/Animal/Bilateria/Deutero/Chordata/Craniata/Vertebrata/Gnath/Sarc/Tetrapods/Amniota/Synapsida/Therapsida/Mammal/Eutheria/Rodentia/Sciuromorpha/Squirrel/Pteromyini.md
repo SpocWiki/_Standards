@@ -72,7 +72,7 @@ dv_has_:
     arz: سنجاب طائر
     ast: Pteromyini
     be: палятухавыя
-    be-tarask: Палятухі
+    be_tarask: Палятухі
     bg: летящи катерици
     bo: བྱ་མ་བྱི།
     br: Gwiñver-nij
@@ -87,8 +87,8 @@ dv_has_:
     dtp: Tompin
     el: Ιπτάμενος Σκίουρος
     en: Pteromyini
-    en-ca: flying squirrel
-    en-gb: flying squirrel
+    en_ca: flying squirrel
+    en_gb: flying squirrel
     eo: Flugsciuro
     es: Pteromyini
     et: lendoravad
@@ -134,7 +134,7 @@ dv_has_:
     nan: Poe-chhí
     nb: flygeekorn
     nds: Pteromyinae
-    nds-nl: vleagnde kateker
+    nds_nl: vleagnde kateker
     ne: राजपंखी लोखेर्के
     nl: vliegende eekhoorns
     nn: Pteromyinae
@@ -145,7 +145,7 @@ dv_has_:
     pms: Pteromyinae
     pnb: اڈنا گالڑ
     pt: Esquilo-voador
-    pt-br: Esquilo-voador
+    pt_br: Esquilo-voador
     ro: Pteromyinae
     ru: летяги
     sah: Нэтээгитиҥилэр кэргэннэрэ
@@ -168,9 +168,9 @@ dv_has_:
     yue: 鼯鼠
     za: Duzmbangq
     zh: 鼯鼠族
-    zh-cn: 鼯鼠族
-    zh-hans: 鼯鼠族
-    zh-tw: 鼯鼠族
+    zh_cn: 鼯鼠族
+    zh_hans: 鼯鼠族
+    zh_tw: 鼯鼠族
 ---
 # [[Pteromyini]] 
 

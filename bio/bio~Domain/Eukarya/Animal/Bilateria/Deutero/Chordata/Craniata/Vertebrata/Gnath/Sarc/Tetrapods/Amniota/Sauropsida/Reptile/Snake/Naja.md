@@ -77,7 +77,7 @@ dv_has_:
     ast: Naja
     ban: Naja
     be: Сапраўдныя кобры
-    be-tarask: Кобры
+    be_tarask: Кобры
     bg: кобри
     bn: নাজা
     ca: Naja
@@ -133,7 +133,7 @@ dv_has_:
     oc: Naja
     pl: Naja
     pt: Naja
-    pt-br: Naja
+    pt_br: Naja
     ro: Naja
     ru: Настоящие кобры
     sq: naja
@@ -150,10 +150,10 @@ dv_has_:
     war: Naja
     yue: 眼鏡蛇
     zh: 眼鏡蛇屬
-    zh-cn: 眼镜蛇属
-    zh-hans: 眼镜蛇属
-    zh-hant: 眼鏡蛇屬
-    zh-tw: 眼鏡蛇屬
+    zh_cn: 眼镜蛇属
+    zh_hans: 眼镜蛇属
+    zh_hant: 眼鏡蛇屬
+    zh_tw: 眼鏡蛇屬
 ---
 # [[Naja]] 
 

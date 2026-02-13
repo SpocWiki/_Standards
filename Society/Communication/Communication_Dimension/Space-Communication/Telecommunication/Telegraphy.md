@@ -83,7 +83,7 @@ dv_has_:
     ar: إبراق
     arz: التلغراف
     ast: telegrafía
-    be-tarask: тэлеграфія
+    be_tarask: тэлеграфія
     bg: Телеграфия
     bn: টেলিগ্রাফি
     bs: Telegrafija
@@ -94,12 +94,12 @@ dv_has_:
     da: Telegrafi
     dag: Tangaram
     de: Telegrafie
-    de-ch: Telegrafie
+    de_ch: Telegrafie
     diq: Têlegraf
     el: τηλεγραφία
     en: telegraphy
-    en-ca: Telegraphy
-    en-gb: telegraphy
+    en_ca: Telegraphy
+    en_gb: telegraphy
     eo: Telegrafio
     es: telegrafía
     et: telegraafside
@@ -140,7 +140,7 @@ dv_has_:
     pl: telegrafia
     ps: ټلګرافي
     pt: telegrafia
-    pt-br: Telegrafia
+    pt_br: Telegrafia
     rm: Telegrafia
     ro: telegrafie
     ru: телеграфия

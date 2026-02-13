@@ -97,7 +97,7 @@ dv_has_:
     az: əsgər
     ba: рядовой
     be: радавы
-    be-tarask: шараговец
+    be_tarask: шараговец
     bg: Редник
     br: soudard
     ca: soldat ras
@@ -106,13 +106,13 @@ dv_has_:
     cv: Рядовой
     da: menig
     de: Soldat
-    de-ch: Soldat
+    de_ch: Soldat
     dsb: stśělc
     dv: ޕްރައިވެޓް
     el: στρατιώτης
     en: Private
-    en-ca: Private
-    en-gb: private
+    en_ca: Private
+    en_gb: private
     en-us: Private
     eo: soldato
     es: soldado raso
@@ -134,7 +134,7 @@ dv_has_:
     km: ពលទោ
     ko: 이등병
     ku: leşkerê bêrutbe
-    ku-latn: leşkerê bêrutbe
+    ku_latn: leşkerê bêrutbe
     lo: ຊັ້ນສອງ
     lt: eilinis
     lv: ierindnieks
@@ -150,7 +150,7 @@ dv_has_:
     os: рæнхъон
     pl: szeregowy
     pt: soldado
-    pt-br: soldado
+    pt_br: soldado
     ro: soldat
     ru: рядовой
     sh: Redov
@@ -158,8 +158,8 @@ dv_has_:
     sl: vojak
     smn: suátialmai
     sr: редов
-    sr-ec: редов
-    sr-el: redov
+    sr_ec: редов
+    sr_el: redov
     sv: menig
     szl: szeregowy
     tg: Сарбоз
@@ -171,12 +171,12 @@ dv_has_:
     vi: binh nhì
     yue: 二等兵
     zh: 二等兵
-    zh-cn: 二等兵
-    zh-hans: 二等兵
-    zh-hant: 二等兵
-    zh-hk: 二等兵
-    zh-sg: 二等兵
-    zh-tw: 二等兵
+    zh_cn: 二等兵
+    zh_hans: 二等兵
+    zh_hant: 二等兵
+    zh_hk: 二等兵
+    zh_sg: 二等兵
+    zh_tw: 二等兵
 ---
 # [[Private(Rank)]] 
 

@@ -103,7 +103,7 @@ dv_has_:
     ar: انحلالية
     ast: Solubilidá
     be: растваральнасць
-    be-tarask: распушчальнасьць
+    be_tarask: распушчальнасьць
     bg: Разтворимост
     bn: দ্রাব্যতা
     bs: Rastvorljivost
@@ -150,7 +150,7 @@ dv_has_:
     pl: rozpuszczalność
     ps: منحل کېدل
     pt: solubilidade
-    pt-br: solubilidade
+    pt_br: solubilidade
     ro: solubilitate
     ru: растворимость
     sco: solubility
@@ -159,8 +159,8 @@ dv_has_:
     sl: topnost
     sq: Tretshmëria
     sr: растворљивост
-    sr-ec: Растворљивост
-    sr-el: Rastvorljivost
+    sr_ec: Растворљивост
+    sr_el: Rastvorljivost
     sv: löslighet
     ta: கரைதிறன்
     th: การละลาย
@@ -173,11 +173,11 @@ dv_has_:
     wuu: 溶解度
     yue: 溶解度
     zh: 溶解性
-    zh-cn: 溶解性
-    zh-hans: 溶解性
-    zh-hk: 溶解性
-    zh-sg: 溶解性
-    zh-tw: 溶解性
+    zh_cn: 溶解性
+    zh_hans: 溶解性
+    zh_hk: 溶解性
+    zh_sg: 溶解性
+    zh_tw: 溶解性
 ---
 # [[Solubility]] 
 

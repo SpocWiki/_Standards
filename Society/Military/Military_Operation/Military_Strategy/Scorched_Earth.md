@@ -70,18 +70,18 @@ dv_has_:
     az: Yandırılmış torpaq taktikası
     azb: يانديريلميش تورپاق سیاستی
     be: тактыка выпаленай зямлі
-    be-tarask: тактыка выпаленай зямлі
+    be_tarask: тактыка выпаленай зямлі
     bg: Политика на обгорялата земя
     ca: terra cremada
     ckb: سیاسەتی زەوی سووتاو
     cs: taktika spálené země
     da: Den brændte jords taktik
     de: Verbrannte Erde
-    de-ch: Verbrannte Erde
+    de_ch: Verbrannte Erde
     el: καμμένη γη
     en: scorched earth
-    en-ca: Scorched earth
-    en-gb: Scorched earth
+    en_ca: Scorched earth
+    en_gb: Scorched earth
     eo: Bruligita tero
     es: tierra quemada
     et: põletatud maa taktika
@@ -110,7 +110,7 @@ dv_has_:
     oc: tèrra cremada
     pl: taktyka spalonej ziemi
     pt: terra queimada
-    pt-br: terra arrasada
+    pt_br: terra arrasada
     ro: tactica pământului pârjolit
     ru: тактика выжженной земли
     sh: spaljena zemlja
@@ -127,12 +127,12 @@ dv_has_:
     vi: Tiêu thổ
     yue: 焦土政策
     zh: 焦土政策
-    zh-cn: 焦土政策
-    zh-hans: 焦土政策
-    zh-hant: 焦土政策
-    zh-hk: 焦土政策
-    zh-sg: 焦土政策
-    zh-tw: 焦土政策
+    zh_cn: 焦土政策
+    zh_hans: 焦土政策
+    zh_hant: 焦土政策
+    zh_hk: 焦土政策
+    zh_sg: 焦土政策
+    zh_tw: 焦土政策
 ---
 # [[Scorched_Earth]] 
 

@@ -149,7 +149,7 @@ dv_has_:
     ba: ҡанундар сығарыусы власть органы
     bcl: Lehislatura
     be: заканадаўчая ўлада
-    be-tarask: заканадаўчая ўлада
+    be_tarask: заканадаўчая ўлада
     bg: Законодателна власт
     bn: আইনসভা
     br: Dael
@@ -163,7 +163,7 @@ dv_has_:
     de: Legislative
     el: νομοθετικό σώμα
     en: legislature
-    en-gb: legislature
+    en_gb: legislature
     eo: leĝdona povo
     es: poder legislativo
     et: seadusandlik võim
@@ -226,7 +226,7 @@ dv_has_:
     pnb: مقننہ
     ps: مقننه قوه
     pt: poder legislativo
-    pt-br: poder legislativo
+    pt_br: poder legislativo
     qu: Kamachi quq atiy
     ro: Putere legislativă
     ru: орган законодательной власти
@@ -247,7 +247,7 @@ dv_has_:
     ta: சட்டவாக்க அவை
     te: చట్టసభలు
     tg: Ҳокимияти қонунгузор
-    tg-cyrl: Ҳокимияти қонунбарор
+    tg_cyrl: Ҳокимияти қонунбарор
     th: สภานิติบัญญัติ
     ti: ሓጋጊ ኣካል
     tl: Tagapagbatas
@@ -263,14 +263,14 @@ dv_has_:
     yue: 立法機構
     zgh: ⵜⴰⴱⴰⴹⴰ ⵜⵓⵣⵔⵉⴼⵜ
     zh: 立法機構
-    zh-cn: 立法机构
-    zh-hans: 立法机构
-    zh-hant: 立法機構
-    zh-hk: 立法機構
-    zh-mo: 立法機構
+    zh_cn: 立法机构
+    zh_hans: 立法机构
+    zh_hant: 立法機構
+    zh_hk: 立法機構
+    zh_mo: 立法機構
     zh-my: 立法机构
-    zh-sg: 立法机构
-    zh-tw: 立法機構
+    zh_sg: 立法机构
+    zh_tw: 立法機構
 ---
 # [[Legislature]] 
 

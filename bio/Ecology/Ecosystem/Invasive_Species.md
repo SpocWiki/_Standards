@@ -106,7 +106,7 @@ dv_has_:
     ar: نوع مجتاح
     ast: especie invasora
     az: İnvasion növlər
-    be-tarask: інвазійны від
+    be_tarask: інвазійны від
     bg: Инвазивен вид
     blk: ကကျော်ႏကာႏလွဉ် ခွိုꩻမျိုꩻကွဲꩻဖုံႏ
     bs: Invazijska vrsta
@@ -116,8 +116,8 @@ dv_has_:
     de: invasive Art
     el: Χωροκατακτητικά είδη
     en: invasive species
-    en-ca: Invasive species
-    en-gb: Invasive species
+    en_ca: Invasive species
+    en_gb: Invasive species
     eo: invada specio
     es: especie invasora
     et: invasiivne võõrliik
@@ -155,7 +155,7 @@ dv_has_:
     pl: gatunek inwazyjny
     ps: بریدګرې نوعې
     pt: espécie invasora
-    pt-br: Espécie invasora
+    pt_br: Espécie invasora
     ro: specie invazivă
     ru: инвазионный вид
     rw: Ibisimba byaduka
@@ -166,25 +166,25 @@ dv_has_:
     sl: invazivna vrsta
     smn: háitulâš vieresšlaajâ
     sr: инвазивна врста
-    sr-ec: Инвазивне врсте
-    sr-el: Invazivne vrste
+    sr_ec: Инвазивне врсте
+    sr_el: Invazivne vrste
     sv: invasiv art
     ta: ஆக்கிரமிப்பு உயிரினம்
     tr: istilacı türler
     tt: инвазион төр
-    tt-cyrl: инвазион төр
+    tt_cyrl: инвазион төр
     uk: інвазійні види
     vi: Loài xâm lấn
     wa: Evayixhante indje
     wuu: 入侵物种
     yue: 外來入侵物種
     zh: 入侵物种
-    zh-cn: 入侵物种
-    zh-hans: 入侵物种
-    zh-hant: 入侵物種
-    zh-hk: 入侵物種
-    zh-sg: 入侵物种
-    zh-tw: 入侵物種
+    zh_cn: 入侵物种
+    zh_hans: 入侵物种
+    zh_hant: 入侵物種
+    zh_hk: 入侵物種
+    zh_sg: 入侵物种
+    zh_tw: 入侵物種
 ---
 # [[Invasive_Species]] 
 

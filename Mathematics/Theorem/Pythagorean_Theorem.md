@@ -222,7 +222,7 @@ dv_has_:
     bar: Såtz vum Pythagoras
     bcl: teorema ni Pythagoras
     be: тэарэма Піфагора
-    be-tarask: тэарэма Пітагора
+    be_tarask: тэарэма Пітагора
     bg: Питагорова теорема
     bn: পিথাগোরাসের উপপাদ্য
     br: teorem Pythagoras
@@ -307,7 +307,7 @@ dv_has_:
     pms: teorema ëd Pitàgora
     pnb: مسلہ فیساغورس
     pt: teorema de Pitágoras
-    pt-br: teorema de Pitágoras
+    pt_br: teorema de Pitágoras
     pwn: sasusuan ni pitaguras
     ro: teorema lui Pitagora
     ru: теорема Пифагора
@@ -325,7 +325,7 @@ dv_has_:
     so: Aragtida Baytagoras
     sq: teorema e Pitagorës
     sr: Питагорина теорема
-    sr-ec: Питагорина теорема
+    sr_ec: Питагорина теорема
     sv: Pythagoras sats
     sw: uhakiki wa Pythagoras
     szl: twjerdzyńy Pitagorasa
@@ -348,11 +348,11 @@ dv_has_:
     yo: àgbérò Pythagoras
     yue: 勾股定理
     zh: 勾股定理
-    zh-cn: 勾股定理
-    zh-hans: 勾股定理
-    zh-hant: 勾股定理
-    zh-hk: 畢氏定理
-    zh-tw: 勾股定理
+    zh_cn: 勾股定理
+    zh_hans: 勾股定理
+    zh_hant: 勾股定理
+    zh_hk: 畢氏定理
+    zh_tw: 勾股定理
 ---
 # [[Pythagorean_Theorem]] 
 

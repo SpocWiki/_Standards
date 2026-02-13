@@ -208,7 +208,7 @@ dv_has_:
     ban: Gending kebangsaan
     bar: Nationalhymne
     be: дзяржаўны гімн
-    be-tarask: дзяржаўны гімн
+    be_tarask: дзяржаўны гімн
     bg: национален химн
     bho: राष्ट्रीय गीत
     bn: জাতীয় সঙ্গীত
@@ -216,7 +216,7 @@ dv_has_:
     bs: državna himna
     btm: Ende kabangsaan
     ca: himne nacional
-    cbk-zam: himno nacional
+    cbk_zam: himno nacional
     ce: Пачхьалкхан гимн
     ckb: سروودی نەتەوەیی
     cs: státní hymna
@@ -270,7 +270,7 @@ dv_has_:
     krj: pungsudnën nga imno
     ks: قومی ترانہٕ
     ku: sirûda neteweyî
-    ku-latn: sirûda neteweyî
+    ku_latn: sirûda neteweyî
     la: Hymnus nationalis
     lb: Nationalhymn
     li: Volksleed
@@ -280,7 +280,7 @@ dv_has_:
     lt: valstybinis himnas
     lv: valsts himna
     lzh: 國歌
-    map-bms: Lagu kebangsaan
+    map_bms: Lagu kebangsaan
     mg: Hiram-pirenena
     min: Lagu kabangsaan
     mk: држвна химна
@@ -288,14 +288,14 @@ dv_has_:
     mn: Төрийн дуулал
     mr: राष्ट्रगीत
     ms: lagu kebangsaan
-    ms-arab: لاݢو کبڠساءن
+    ms_arab: لاݢو کبڠساءن
     mt: innu nazzjonali
     my: နိုင်ငံတော်သီချင်း
     nah: Tlacatiyancuicatl
     nan: Kok-koa
     nb: nasjonalsang
     nds: Natschonalhymne
-    nds-nl: volkslaid
+    nds_nl: volkslaid
     ne: राष्ट्रगान
     nl: volkslied
     nn: nasjonalsong
@@ -311,7 +311,7 @@ dv_has_:
     pnb: قومی ترانہ
     ps: ولسي لاره
     pt: hino nacional
-    pt-br: hino nacional
+    pt_br: hino nacional
     qu: Llaqta taki
     rmf: themmesko hymnos
     ro: imn național
@@ -335,7 +335,7 @@ dv_has_:
     so: Heesta qaranka
     sq: Himni kombëtar
     sr: национална химна
-    sr-ec: Национална химна
+    sr_ec: Национална химна
     stq: Nationoalhymne
     su: Lagu kabangsaan
     sv: nationalsång
@@ -350,7 +350,7 @@ dv_has_:
     tl: pambansang awit
     tr: millî marş
     tt: дәүләт гимны
-    tt-cyrl: дәүләт һимны
+    tt_cyrl: дәүләт һимны
     uk: державний гімн
     ur: قومی ترانہ
     uz: Davlat madhiyasi
@@ -367,14 +367,14 @@ dv_has_:
     za: gozgoh
     zgh: ⵉⵎⵙⵙⵖⵔⵜ ⴰⵏⴰⵎⵓⵔ
     zh: 国歌
-    zh-cn: 国歌
-    zh-hans: 国歌
-    zh-hant: 國歌
-    zh-hk: 國歌
-    zh-mo: 國歌
+    zh_cn: 国歌
+    zh_hans: 国歌
+    zh_hant: 國歌
+    zh_hk: 國歌
+    zh_mo: 國歌
     zh-my: 国歌
-    zh-sg: 国歌
-    zh-tw: 國歌
+    zh_sg: 国歌
+    zh_tw: 國歌
     zu: Inkondlo yesizwe
 ---
 # [[National_Anthem]] 

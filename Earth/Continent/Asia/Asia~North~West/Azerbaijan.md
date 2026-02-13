@@ -218,7 +218,7 @@ dv_has_:
     ab: Азербаиџьан
     ace: Azèrbaijan
     ady: Азербайджан
-    aeb-arab: أذربيجان
+    aeb_arab: أذربيجان
     af: Azerbeidjan
     am: አዘርባይጃን
     ami: Aciropayciyang
@@ -243,7 +243,7 @@ dv_has_:
     bar: Aserbaidschan
     bcl: Aserbayhan
     be: Азербайджан
-    be-tarask: Азэрбайджан
+    be_tarask: Азэрбайджан
     bew: Asèrbaijan
     bg: Азербайджан
     bgn: آذربایجان
@@ -258,7 +258,7 @@ dv_has_:
     bug: Azerbaijan
     bxr: Азербайжан
     ca: Azerbaidjan
-    cbk-zam: Acerbaiyán
+    cbk_zam: Acerbaiyán
     cdo: Azerbaijan
     ce: Азербайджан
     ceb: Aserbayyan
@@ -267,7 +267,7 @@ dv_has_:
     co: Azerbaighjan
     cps: Aserbayyan
     crh: Азербайджалы
-    crh-latn: Azerbaykan
+    crh_latn: Azerbaykan
     crh-ro: Azerbayğan
     cs: Ázerbájdžán
     csb: Azerbejdżan
@@ -278,7 +278,7 @@ dv_has_:
     dag: Azerbaijan
     de: Aserbaidschan
     de-at: Aserbaidschan
-    de-ch: Aserbaidschan
+    de_ch: Aserbaidschan
     diq: Azerbaycan
     dsb: Azerbajdžan
     dtp: Azerbaijan
@@ -289,8 +289,8 @@ dv_has_:
     el: Αζερμπαϊτζάν
     eml: Azerbaigiàn
     en: Azerbaijan
-    en-ca: Azerbaijan
-    en-gb: Azerbaijan
+    en_ca: Azerbaijan
+    en_gb: Azerbaijan
     en-us: Azerbaijan
     eo: Azerbajĝano
     es: Azerbaiyán
@@ -317,7 +317,7 @@ dv_has_:
     gn: Aservaijã
     gom: अझरबैजान
     gom-deva: अझरबैजान
-    gom-latn: Azerbaijan
+    gom_latn: Azerbaijan
     gor: Azerbaijan
     got: "\U00010330\U00010336\U00010330\U00010339\U00010342\U00010331\U00010330\U0001033E\U00010333\U0001033E\U00010330\U0001033D"
     gpe: Azerbaijan
@@ -390,7 +390,7 @@ dv_has_:
     lzh: 阿塞拜疆
     mad: Azerbaijan
     mai: अजरबैजान
-    map-bms: Azerbaijan
+    map_bms: Azerbaijan
     mdf: Азербайджан
     mg: Azerbaijana
     mhr: Азербайджан
@@ -415,7 +415,7 @@ dv_has_:
     nap: Azerbaijan
     nb: Aserbajdsjan
     nds: Aserbaidschan
-    nds-nl: Azerbeidzjan
+    nds_nl: Azerbeidzjan
     ne: अजरबैजान
     new: अजरबैजान
     nl: Azerbeidzjan
@@ -444,7 +444,7 @@ dv_has_:
     pnt: Αζερμπαϊτζάν
     ps: آزربایجان
     pt: Azerbaijão
-    pt-br: Azerbaijão
+    pt_br: Azerbaijão
     qu: Asarsuyu
     rm: Aserbeidschan
     rmy: Azerbaijan
@@ -479,8 +479,8 @@ dv_has_:
     so: Aserbiijaan
     sq: Azerbajxhani
     sr: Азербејџан
-    sr-ec: Азербејџан
-    sr-el: Azerbejdžan
+    sr_ec: Азербејџан
+    sr_el: Azerbejdžan
     srn: Azerbaijanikondre
     ss: IZebajani
     st: Azerbaijan
@@ -508,7 +508,7 @@ dv_has_:
     trv: Azerbaijan
     ts: Azerbaijan
     tt: Әзербайҗан
-    tt-cyrl: Азәрбайҗан
+    tt_cyrl: Азәрбайҗан
     tum: Azerbaijan
     tw: Azerbaijan
     ty: Atepaihānia
@@ -537,12 +537,12 @@ dv_has_:
     zea: Aâzerbeidzjan
     zgh: ⴰⵣⵔⴱⵉⵊⴰⵏ
     zh: 阿塞拜疆
-    zh-cn: 阿塞拜疆
-    zh-hans: 阿塞拜疆
-    zh-hant: 亞塞拜然
-    zh-hk: 阿塞拜疆
+    zh_cn: 阿塞拜疆
+    zh_hans: 阿塞拜疆
+    zh_hant: 亞塞拜然
+    zh_hk: 阿塞拜疆
     zh-my: 阿塞拜疆
-    zh-tw: 亞塞拜然
+    zh_tw: 亞塞拜然
     zu: i-Azerbaijan
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Azerbaijan

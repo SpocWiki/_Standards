@@ -93,7 +93,7 @@ dv_has_:
     bar: El Niño
     bcl: El Niño
     be: Эль-Ніньё
-    be-tarask: Эль Ніньнё
+    be_tarask: Эль Ніньнё
     bg: Ел Ниньо
     bn: এল নিনো
     br: El Niño
@@ -192,11 +192,11 @@ dv_has_:
     yi: על ניניא
     yue: 厄爾尼諾南方擺動現象
     zh: 聖嬰現象
-    zh-cn: 厄尔尼诺现象
-    zh-hans: 厄尔尼诺-南方涛动现象
-    zh-hant: 聖嬰-南方振盪現象
-    zh-hk: 厄爾尼諾-南方振盪現象
-    zh-tw: 聖嬰-南方振盪現象
+    zh_cn: 厄尔尼诺现象
+    zh_hans: 厄尔尼诺-南方涛动现象
+    zh_hant: 聖嬰-南方振盪現象
+    zh_hk: 厄爾尼諾-南方振盪現象
+    zh_tw: 聖嬰-南方振盪現象
 ---
 ## #has_/text_of_/abstract 
 

@@ -100,7 +100,7 @@ dv_has_:
     az: kardiologiya
     azb: کاردیولوژی
     be: кардыялогія
-    be-tarask: кардыялёгія
+    be_tarask: кардыялёгія
     bg: Кардиология
     bn: হৃৎবিজ্ঞান
     bs: kardiologija
@@ -114,8 +114,8 @@ dv_has_:
     diq: Kardiyolociye
     el: Καρδιολογία
     en: cardiology
-    en-ca: Cardiology
-    en-gb: cardiology
+    en_ca: Cardiology
+    en_gb: cardiology
     eo: kardiologio
     es: cardiología
     et: kardioloogia
@@ -156,7 +156,7 @@ dv_has_:
     ml: കാർഡിയോളജി
     mr: कार्डिओलॉजी
     ms: kardiologi
-    ms-arab: کرديولوݢي
+    ms_arab: کرديولوݢي
     nb: kardiologi
     nds: Kardiologie
     ne: हृदयशास्त्र
@@ -169,7 +169,7 @@ dv_has_:
     pl: kardiologia
     ps: زړه پوهنه
     pt: cardiologia
-    pt-br: cardiologia
+    pt_br: cardiologia
     ro: cardiologie
     ru: кардиология
     sa: हृदयशास्त्र
@@ -204,9 +204,9 @@ dv_has_:
     yi: קארדיאלאגיע
     yue: 心學
     zh: 心臟內科
-    zh-hant: 心臟科
-    zh-hk: 心臟科
-    zh-tw: 心臟科
+    zh_hant: 心臟科
+    zh_hk: 心臟科
+    zh_tw: 心臟科
 ---
 # [[Cardiology]] 
 

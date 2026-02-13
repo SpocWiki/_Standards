@@ -155,7 +155,7 @@ dv_has_:
     az: Uolt Uitmen
     azb: والت ویتمن
     be: Уолт Уітмен
-    be-tarask: Ўолт Ўітмэн
+    be_tarask: Ўолт Ўітмэн
     bg: Уолт Уитман
     bn: ওয়াল্ট হুইটম্যান
     br: Walt Whitman
@@ -171,8 +171,8 @@ dv_has_:
     ee: Walt Whitman
     el: Γουόλτ Γουίτμαν
     en: Walt Whitman
-    en-ca: Walt Whitman
-    en-gb: Walt Whitman
+    en_ca: Walt Whitman
+    en_gb: Walt Whitman
     eo: Walt Whitman
     es: Walt Whitman
     et: Walt Whitman
@@ -222,7 +222,7 @@ dv_has_:
     nan: Walt Whitman
     nb: Walt Whitman
     nds: Walt Whitman
-    nds-nl: Walt Whitman
+    nds_nl: Walt Whitman
     ne: वाल्ट ह्वाइटम्यान
     new: वल्त् व्हित्मन्
     nl: Walt Whitman
@@ -236,7 +236,7 @@ dv_has_:
     pnb: والٹ وہٹمین
     ps: والټ وايټمېن
     pt: Walt Whitman
-    pt-br: Walt Whitman
+    pt_br: Walt Whitman
     qu: Walt Whitman
     ro: Walt Whitman
     ru: Уолт Уитмен
@@ -264,9 +264,9 @@ dv_has_:
     xmf: უოლტ უიტმენი
     yue: 禾特·惠特曼
     zh: 沃尔特·惠特曼
-    zh-cn: 沃尔特·惠特曼
-    zh-hans: 沃尔特·惠特曼
-    zh-hant: 華特·惠特曼
+    zh_cn: 沃尔特·惠特曼
+    zh_hans: 沃尔特·惠特曼
+    zh_hant: 華特·惠特曼
 ---
 # [[Walt_Whitman]] 
 

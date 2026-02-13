@@ -214,7 +214,7 @@ dv_has_:
     ba: Бенгал ҡултығы
     ban: Celuk Bengal
     be: Бенгальскі заліў
-    be-tarask: Бэнгальская затока
+    be_tarask: Бэнгальская затока
     bg: Бенгалски залив
     bho: बंगाल क खाड़ी
     blk: ဗိဉ်းကလားပင်ႏလယ်ႏအောႏ
@@ -229,14 +229,14 @@ dv_has_:
     cy: Bae Bengal
     da: Bengalske Bugt
     de: Golf von Bengalen
-    de-ch: Golf von Bengalen
+    de_ch: Golf von Bengalen
     diq: Golfezê Bengali
     dtp: Teluk Benggala
     dv: ބޭ އޮފް ބެންގާލް
     el: Κόλπος της Βεγγάλης
     en: Bay of Bengal
-    en-ca: Bay of Bengal
-    en-gb: Bay of Bengal
+    en_ca: Bay of Bengal
+    en_gb: Bay of Bengal
     eo: Bengala Golfo
     es: Bahía de Bengala
     et: Bengali laht
@@ -300,7 +300,7 @@ dv_has_:
     pl: Zatoka Bengalska
     pnb: خلیج بنگال
     pt: Golfo de Bengala
-    pt-br: Golfo de Bengala
+    pt_br: Golfo de Bengala
     rki: ဘင်္ဂလားပင်လယ်အော်
     ro: Golful Bengal
     ru: Бенгальский залив

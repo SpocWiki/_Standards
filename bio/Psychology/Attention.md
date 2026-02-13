@@ -98,7 +98,7 @@ dv_has_:
     az: Diqqət
     bcl: Atensyon
     be: увага
-    be-tarask: увага
+    be_tarask: увага
     bg: внимание
     bn: মনোযোগ
     bs: pažnja
@@ -168,8 +168,8 @@ dv_has_:
     wuu: 注意
     yue: 注意力
     zh: 注意
-    zh-hans: 注意
-    zh-hant: 註意
+    zh_hans: 注意
+    zh_hant: 註意
 ---
 # [[Attention]] 
 

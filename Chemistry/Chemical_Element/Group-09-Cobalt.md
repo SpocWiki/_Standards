@@ -81,7 +81,7 @@ dv_has_:
     ast: Elementos del grupu 9
     az: Dövri sistemin 9-cu qrupu
     ban: Datu golongan 9
-    be-tarask: 9-я група
+    be_tarask: 9-я група
     bg: Група 9 на периодичната система
     bn: নবম শ্রেণীর মৌল
     bs: 9. grupa hemijskih elemenata
@@ -126,8 +126,8 @@ dv_has_:
     so: Guruubka 9
     sq: Grupi i nëntë i elementeve kimike
     sr: 9. група хемијских елемената
-    sr-ec: 9. група хемијских елемената
-    sr-el: 9. grupa hemijskih elemenata
+    sr_ec: 9. група хемијских елемената
+    sr_el: 9. grupa hemijskih elemenata
     sv: grupp 9
     ta: நெடுங்குழு 9 தனிமங்கள்
     te: గ్రూప్ 9 మూలకం
@@ -137,12 +137,12 @@ dv_has_:
     wuu: 9族元素
     yue: 9族元素
     zh: 9族元素
-    zh-cn: 9族元素
-    zh-hans: 9族元素
-    zh-hant: 9族元素
-    zh-hk: 9族元素
-    zh-sg: 9族元素
-    zh-tw: 9族元素
+    zh_cn: 9族元素
+    zh_hans: 9族元素
+    zh_hant: 9族元素
+    zh_hk: 9族元素
+    zh_sg: 9族元素
+    zh_tw: 9族元素
 ---
 #chemic/Group 
 

@@ -102,7 +102,7 @@ dv_has_:
     ast: Arancel
     az: Gömrük rüsumu
     be: мытныя пошліны
-    be-tarask: мытны тарыф
+    be_tarask: мытны тарыф
     bg: Мито
     bn: শুল্ক
     bs: Carina
@@ -151,7 +151,7 @@ dv_has_:
     pl: cło
     pnb: ٹیرف
     pt: taxa alfandegária
-    pt-br: taxa alfandegária
+    pt_br: taxa alfandegária
     ro: taxă vamală
     ru: таможенные пошлины
     sd: ٽيرف
@@ -160,7 +160,7 @@ dv_has_:
     sl: carina
     sq: Detyrimet doganore
     sr: царина
-    sr-ec: царина
+    sr_ec: царина
     sv: tullavgift
     ta: தீர்வை
     te: సుంకం
@@ -177,8 +177,8 @@ dv_has_:
     wuu: 关税
     yue: 關稅
     zh: 關稅
-    zh-cn: 关税
-    zh-tw: 關稅
+    zh_cn: 关税
+    zh_tw: 關稅
 ---
 # [[Tariff]] 
 

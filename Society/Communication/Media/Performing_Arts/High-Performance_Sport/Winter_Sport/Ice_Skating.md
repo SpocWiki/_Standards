@@ -98,7 +98,7 @@ dv_has_:
     ast: patinaxe sobre xelu
     ba: Конькиҙа шыуыу
     be: коўзанне
-    be-tarask: коўзаньне
+    be_tarask: коўзаньне
     bn: বরফ স্কেটিং
     br: ruzikat war ar skorn
     ca: patinatge sobre gel
@@ -136,7 +136,7 @@ dv_has_:
     mk: лизгање на мраз
     ms: Luncur ais
     nb: skøyteløp på is
-    nds-nl: scheuvellopen
+    nds_nl: scheuvellopen
     nl: schaatsen
     nn: skeiselaup
     oc: Patinatge sus glaça
@@ -149,8 +149,8 @@ dv_has_:
     sk: korčuľovanie
     sl: drsanje na ledu
     sr: клизање на леду
-    sr-ec: клизање на леду
-    sr-el: klizanje na ledu
+    sr_ec: клизање на леду
+    sr_el: klizanje na ledu
     stq: Sköäweljen
     sv: skridskosport
     ta: உறைபனிச்சறுக்கு
@@ -161,7 +161,7 @@ dv_has_:
     vi: trượt băng
     yue: 溜冰
     zh: 滑冰
-    zh-hant: 滑冰
+    zh_hant: 滑冰
 ---
 # [[Ice_Skating]] 
 

@@ -115,7 +115,7 @@ dv_has_:
     az: asılı ərazi
     ba: Буйһонған территория
     be: залежныя тэрыторыі
-    be-tarask: залежная тэрыторыя
+    be_tarask: залежная тэрыторыя
     bg: Зависима територия
     bn: নির্ভরশীল অঞ্চল
     bs: zavisna teritorija
@@ -175,7 +175,7 @@ dv_has_:
     pl: terytorium zależne
     ps: تړلې سيمې
     pt: território dependente
-    pt-br: território dependente
+    pt_br: território dependente
     ro: teritoriu dependent
     ru: зависимая территория
     sah: тутулуктаах сир
@@ -185,8 +185,8 @@ dv_has_:
     sl: odvisno ozemlje
     sq: territor i varur
     sr: зависна територија
-    sr-ec: зависна територија
-    sr-el: zavisna teritorija
+    sr_ec: зависна територија
+    sr_el: zavisna teritorija
     su: Wewengkon depéndensi
     sv: avhängiga territorier
     sw: Eneo tegemezi
@@ -204,14 +204,14 @@ dv_has_:
     yue: 屬地
     zea: Afankelijk hebied
     zh: 属地
-    zh-cn: 属地
-    zh-hans: 属地
-    zh-hant: 屬地
-    zh-hk: 屬地
-    zh-mo: 屬地
+    zh_cn: 属地
+    zh_hans: 属地
+    zh_hant: 屬地
+    zh_hk: 屬地
+    zh_mo: 屬地
     zh-my: 属地
-    zh-sg: 属地
-    zh-tw: 屬地
+    zh_sg: 属地
+    zh_tw: 屬地
 ---
 # [[Dependent_Territory]] 
 

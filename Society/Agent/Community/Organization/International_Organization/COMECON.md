@@ -87,7 +87,7 @@ dv_has_:
     az: Qarşılıqlı İqtisadi Yardım Şurası
     ba: Үҙ-ара иҡтиади ярҙам Советы
     be: Савет эканамічнай узаемадапамогі
-    be-tarask: Савет эканамічнай узаемадапамогі
+    be_tarask: Савет эканамічнай узаемадапамогі
     bg: Съвет за икономическа взаимопомощ
     ca: Consell d'Assistència Econòmica Mútua
     cs: Rada vzájemné hospodářské pomoci
@@ -95,8 +95,8 @@ dv_has_:
     de: Rat für gegenseitige Wirtschaftshilfe
     el: Κομεκόν
     en: COMECON
-    en-ca: Comecon
-    en-gb: Comecon
+    en_ca: Comecon
+    en_gb: Comecon
     eo: Konsilio de Reciproka Ekonomia Helpo
     es: Consejo de Ayuda Mutua Económica
     et: Vastastikuse Majandusabi Nõukogu
@@ -129,15 +129,15 @@ dv_has_:
     oc: Conseu d'assisténcia economica mutuala
     pl: Rada Wzajemnej Pomocy Gospodarczej
     pt: Conselho para Assistência Econômica Mútua
-    pt-br: Conselho para Assistência Econômica Mútua
+    pt_br: Conselho para Assistência Econômica Mútua
     ro: Consiliul de Ajutor Economic Reciproc
     ru: Совет экономической взаимопомощи
     sk: Rada vzájomnej hospodárskej pomoci
     sl: Svet za medsebojno gospodarsko pomoč
     sq: kner
     sr: Савет за узајамну економску помоћ
-    sr-ec: Савет за узајамну економску помоћ
-    sr-el: Savet za uzajamnu ekonomsku pomoć
+    sr_ec: Савет за узајамну економску помоћ
+    sr_el: Savet za uzajamnu ekonomsku pomoć
     sv: Comecon
     th: สภาเพื่อความช่วยเหลือซึ่งกันและกันทางเศรษฐกิจ
     tr: Karşılıklı Ekonomik Yardımlaşma Konseyi
@@ -148,12 +148,12 @@ dv_has_:
     vi: Hội đồng Tương trợ Kinh tế
     yue: 經濟互助委員會
     zh: 经济互助委员会
-    zh-cn: 经济互助委员会
-    zh-hans: 经济互助委员会
-    zh-hant: 經濟互助委員會
-    zh-hk: 經濟互助委員會
-    zh-sg: 经济互助委员会
-    zh-tw: 經濟互助委員會
+    zh_cn: 经济互助委员会
+    zh_hans: 经济互助委员会
+    zh_hant: 經濟互助委員會
+    zh_hk: 經濟互助委員會
+    zh_sg: 经济互助委员会
+    zh_tw: 經濟互助委員會
 ---
 # [[COMECON]] 
 

@@ -37,11 +37,11 @@ dv_has_:
     da: Michel Gondry
     de: Michel Gondry
     de-at: Michel Gondry
-    de-ch: Michel Gondry
+    de_ch: Michel Gondry
     el: Μισέλ Γκοντρί
     en: Michel Gondry
-    en-ca: Michel Gondry
-    en-gb: Michel Gondry
+    en_ca: Michel Gondry
+    en_gb: Michel Gondry
     eo: Michel Gondry
     es: Michel Gondry
     et: Michel Gondry
@@ -89,7 +89,7 @@ dv_has_:
     nap: Michel Gondry
     nb: Michel Gondry
     nds: Michel Gondry
-    nds-nl: Michel Gondry
+    nds_nl: Michel Gondry
     nl: Michel Gondry
     nn: Michel Gondry
     nrm: Michel Gondry
@@ -101,7 +101,7 @@ dv_has_:
     pms: Michel Gondry
     prg: Michel Gondry
     pt: Michel Gondry
-    pt-br: Michel Gondry
+    pt_br: Michel Gondry
     rgn: Michel Gondry
     rm: Michel Gondry
     ro: Michel Gondry
@@ -112,7 +112,7 @@ dv_has_:
     sk: Michel Gondry
     sl: Michel Gondry
     sq: Michel Gondry
-    sr-el: Michel Gondry
+    sr_el: Michel Gondry
     sv: Michel Gondry
     sw: Michel Gondry
     tr: Michel Gondry
@@ -126,9 +126,9 @@ dv_has_:
     wo: Michel Gondry
     yue: 米高·歌治
     zh: 米歇·龔德里
-    zh-hans: 米歇·龚德里
-    zh-hant: 米歇·龔德里
-    zh-hk: 米高·歌治
+    zh_hans: 米歇·龚德里
+    zh_hant: 米歇·龔德里
+    zh_hk: 米高·歌治
     zu: Michel Gondry
 ---
 ## #has_/text_of_/abstract 

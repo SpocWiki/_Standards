@@ -216,8 +216,8 @@ Terminologia_Embryologica: E1.0.2.6.1.0.1
 MeSH_tree_code: G08.686.784.769
 dv_has_:
   name_:
-    aeb-arab: حبالة
-    aeb-latn: 7bèla
+    aeb_arab: حبالة
+    aeb_latn: 7bèla
     af: swangerskap
     an: Emprenyatura
     ar: حمل المرأة
@@ -231,7 +231,7 @@ dv_has_:
     ban: Beling
     bcl: Pagbados
     be: цяжарнасць чалавека
-    be-tarask: цяжарнасьць чалавека
+    be_tarask: цяжарнасьць чалавека
     bg: Бременност при човека
     bjn: Tian
     bn: মনুষ্য গর্ভধারণ
@@ -252,7 +252,7 @@ dv_has_:
     el: εγκυμοσύνη
     eml: Grevdànsa
     en: human pregnancy
-    en-ca: Pregnancy
+    en_ca: Pregnancy
     eo: homa gravedeco
     es: embarazo humano
     et: Rasedus
@@ -300,7 +300,7 @@ dv_has_:
     ko-kp: 태앉기
     ks: بیٚیہِ زُو
     ku: ducanî
-    ku-latn: ducanî
+    ku_latn: ducanî
     kw: Torrasneth
     ky: Кош бойлуулук
     la: Graviditas
@@ -339,7 +339,7 @@ dv_has_:
     pnb: پریگنینسی
     ps: د انسانې حاملګي
     pt: gravidez
-    pt-br: Gravidez humana
+    pt_br: Gravidez humana
     qu: Wiksayay
     rmy: Pregnanci
     rn: Imbanyi
@@ -359,7 +359,7 @@ dv_has_:
     so: Uurka
     sq: shtatzënia
     sr: трудноћа
-    sr-ec: трудноћа
+    sr_ec: трудноћа
     ss: Kukhulelwa
     st: Boimana
     su: Reuneuh
@@ -393,9 +393,9 @@ dv_has_:
     yo: Oyun ọmọ eniyan
     yue: 大肚
     zh: 妊娠
-    zh-hans: 妊娠
-    zh-hant: 妊娠
-    zh-tw: 妊娠
+    zh_hans: 妊娠
+    zh_hant: 妊娠
+    zh_tw: 妊娠
 ---
 # [[Human_Pregnancy]] 🤰 
 

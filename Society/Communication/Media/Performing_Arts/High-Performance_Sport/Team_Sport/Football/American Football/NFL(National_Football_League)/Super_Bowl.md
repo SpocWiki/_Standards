@@ -54,7 +54,7 @@ dv_has_:
     ar: سوبر بول
     arz: سوبر بول
     ast: Super Bowl
-    be-tarask: Супэрбоўл
+    be_tarask: Супэрбоўл
     bg: Супербоул
     bs: Super Bowl
     ca: Super Bowl
@@ -104,7 +104,7 @@ dv_has_:
     sh: Super Bowl
     sl: Super Bowl
     sr: Супербоул
-    sr-ec: Супербол
+    sr_ec: Супербол
     sv: Super Bowl
     ta: சூப்பர் போல்
     th: ซูเปอร์โบวล์
@@ -115,8 +115,8 @@ dv_has_:
     wuu: 超级碗
     yue: 超級碗
     zh: 超級碗(超級盃)
-    zh-hant: 超級盃
-    zh-tw: 超級盃
+    zh_hant: 超級盃
+    zh_tw: 超級盃
 ---
 # [[Super_Bowl]] 
 

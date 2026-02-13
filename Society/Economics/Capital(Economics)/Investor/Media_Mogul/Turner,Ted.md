@@ -112,7 +112,7 @@ dv_has_:
     ast: Ted Turner
     az: Ted Törner
     be: Тэд Цёрнер
-    be-tarask: Тэд Тэрнэр
+    be_tarask: Тэд Тэрнэр
     bg: Тед Търнър
     bn: টেড টার্নার
     ca: Ted Turner
@@ -140,11 +140,11 @@ dv_has_:
     it: Ted Turner
     ja: テッド・ターナー
     kk: Тед Тернер
-    kk-arab: تەد تەرنەر
+    kk_arab: تەد تەرنەر
     kk-cn: تەد تەرنەر
-    kk-cyrl: Тед Тернер
+    kk_cyrl: Тед Тернер
     kk-kz: Тед Тернер
-    kk-latn: Ted Terner
+    kk_latn: Ted Terner
     kk-tr: Ted Terner
     ko: 테드 터너
     lb: Ted Turner
@@ -161,15 +161,15 @@ dv_has_:
     pa: ਟੇਡ ਟਰਨਰ
     pl: Ted Turner
     pt: Ted Turner
-    pt-br: Ted Turner
+    pt_br: Ted Turner
     ro: Ted Turner
     ru: Тед Тёрнер
     sco: Ted Turner
     sl: Ted Turner
     sq: Ted Turner
     sr: Тед Тарнер
-    sr-ec: Тед Тарнер
-    sr-el: Ted Tarner
+    sr_ec: Тед Тарнер
+    sr_el: Ted Tarner
     sv: Ted Turner
     ta: டெட் டேர்னர்
     th: เท็ด เทอร์เนอร์
@@ -180,10 +180,10 @@ dv_has_:
     war: Ted Turner
     yue: 泰德·透納
     zh: 泰德·透納
-    zh-cn: 特德·特纳
-    zh-hans: 特德·特纳
-    zh-hant: 泰德·透納
-    zh-tw: 泰德·透納
+    zh_cn: 特德·特纳
+    zh_hans: 特德·特纳
+    zh_hant: 泰德·透納
+    zh_tw: 泰德·透納
 ---
 # [[Turner,Ted]] 
 

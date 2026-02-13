@@ -78,7 +78,7 @@ dv_has_:
     ast: muon
     az: myuon
     be: мюон
-    be-tarask: мюон
+    be_tarask: мюон
     bg: мюон
     bn: মিউয়ন
     br: muon
@@ -132,7 +132,7 @@ dv_has_:
     pl: mion
     pnb: میون
     pt: muão
-    pt-br: múon
+    pt_br: múon
     ro: miuon
     ru: мюон
     se: myona
@@ -142,8 +142,8 @@ dv_has_:
     smn: myoon
     sms: myoon
     sr: мион
-    sr-ec: мион
-    sr-el: mion
+    sr_ec: мион
+    sr_el: mion
     sv: myon
     ta: மியூவான்
     tl: muon

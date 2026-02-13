@@ -274,7 +274,7 @@ dv_has_:
     bar: John F. Kennedy
     bcl: John F. Kennedy
     be: Джон Фіцджэральд Кенэдзі
-    be-tarask: Джон Фіцджэралд Кенэдзі
+    be_tarask: Джон Фіцджэралд Кенэдзі
     bg: Джон Кенеди
     bi: John F. Kennedy
     bjn: John F. Kennedy
@@ -294,14 +294,14 @@ dv_has_:
     cy: John F. Kennedy
     da: John F. Kennedy
     de: John F. Kennedy
-    de-ch: John F. Kennedy
+    de_ch: John F. Kennedy
     diq: John F. Kennedy
     dv: ޖޯން ފިޓްޒެގެރަލްޑް ކެނެޑީ
     el: Τζον Φιτζέραλντ Κένεντι
     eml: John Fitzgerald Kennedy
     en: John F. Kennedy
-    en-ca: John F. Kennedy
-    en-gb: John F. Kennedy
+    en_ca: John F. Kennedy
+    en_gb: John F. Kennedy
     en-us: John F. Kennedy
     eo: John F. Kennedy
     es: John F. Kennedy
@@ -391,7 +391,7 @@ dv_has_:
     pms: John Fitzgerald Kennedy
     pnb: جان ایف کینیڈی
     pt: John F. Kennedy
-    pt-br: John F. Kennedy
+    pt_br: John F. Kennedy
     qu: John Kennedy
     rm: John Fitzgerald Kennedy
     rmf: John F. Kennedy
@@ -444,9 +444,9 @@ dv_has_:
     yue: 約翰甘迺迪
     zea: John F. Kennedy
     zh: 约翰·肯尼迪
-    zh-cn: 约翰·肯尼迪
-    zh-hant: 約翰·甘迺迪
-    zh-hk: 約翰甘迺迪
+    zh_cn: 约翰·肯尼迪
+    zh_hant: 約翰·甘迺迪
+    zh_hk: 約翰甘迺迪
     zu: John F. Kennedy
   time_:
     started: 1917-05-29T00:00:00.000+02:00

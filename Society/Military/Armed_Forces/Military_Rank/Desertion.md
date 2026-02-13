@@ -77,7 +77,7 @@ dv_has_:
     ar: فرار
     ast: deserción
     be: дэзерцірства
-    be-tarask: дэзэртэрства
+    be_tarask: дэзэртэрства
     bg: Дезертьорство
     bs: Dezerter
     bxr: Дезертир

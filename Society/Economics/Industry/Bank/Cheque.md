@@ -92,7 +92,7 @@ dv_has_:
     ast: Cheque
     az: Qəbz
     be: чэк
-    be-tarask: чэк
+    be_tarask: чэк
     bg: Чек
     bho: चेक
     bn: চেক
@@ -104,8 +104,8 @@ dv_has_:
     de: Scheck
     el: Επιταγή
     en: cheque
-    en-ca: cheque
-    en-gb: cheque
+    en_ca: cheque
+    en_gb: cheque
     en-us: cheque
     eo: ĉeko
     es: Cheque
@@ -160,8 +160,8 @@ dv_has_:
     sl: ček
     sq: Çeku (financë)
     sr: Чек
-    sr-ec: чек
-    sr-el: ček
+    sr_ec: чек
+    sr_el: ček
     sv: Check
     ta: காசோலை
     te: చెక్కు

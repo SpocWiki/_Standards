@@ -46,7 +46,7 @@ dv_has_:
   name_:
     ar: بيتر، بول وماري
     ast: Peter
-    be-tarask: Peter, Paul and Mary
+    be_tarask: Peter, Paul and Mary
     bn: পিটার, পল, এন্ড মেরি
     br: Peter, Paul and Mary
     ca: Peter, Paul and Mary
@@ -55,8 +55,8 @@ dv_has_:
     de: Peter, Paul and Mary
     el: Peter, Paul and Mary
     en: Peter, Paul and Mary
-    en-ca: Peter, Paul and Mary
-    en-gb: Peter, Paul and Mary
+    en_ca: Peter, Paul and Mary
+    en_gb: Peter, Paul and Mary
     eo: Peter Paul and Mary
     es: Peter, Paul and Mary
     et: Peter, Paul and Mary
@@ -81,7 +81,7 @@ dv_has_:
     pa: ਪੀਟਰ, ਪੌਲ ਅਤੇ ਮੈਰੀ
     pl: Peter, Paul and Mary
     pt: Peter, Paul and Mary
-    pt-br: Peter, Paul and Mary
+    pt_br: Peter, Paul and Mary
     ru: Peter, Paul and Mary
     scn: Peter, Paul and Mary
     sr: Piter, Pol i Meri
@@ -94,9 +94,9 @@ dv_has_:
     war: Peter, Paul and Mary
     yue: 彼得、保羅與瑪莉
     zh: 彼得、保羅和瑪麗
-    zh-hans: 彼得、保罗和玛丽
-    zh-hant: 彼得、保羅和瑪麗
-    zh-hk: 彼得、保羅和瑪麗
+    zh_hans: 彼得、保罗和玛丽
+    zh_hant: 彼得、保羅和瑪麗
+    zh_hk: 彼得、保羅和瑪麗
 ---
 # [[Peter,Paul_and_Mary]] 
 

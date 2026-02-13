@@ -236,7 +236,7 @@ dv_has_:
     ba: Пол Маккартни
     bcl: Paul McCartney
     be: Пол Мак-Картні
-    be-tarask: Пол Макартні
+    be_tarask: Пол Макартні
     bg: Пол Маккартни
     bi: Paul McCartney
     bn: পল ম্যাককার্টনি
@@ -250,13 +250,13 @@ dv_has_:
     da: Paul McCartney
     dag: Paul McCartney
     de: Paul McCartney
-    de-ch: Paul McCartney
+    de_ch: Paul McCartney
     diq: Paul McCartney
     dsb: Paul McCartney
     el: Πολ ΜακΚάρτνεϊ
     en: Paul McCartney
-    en-ca: Paul McCartney
-    en-gb: Paul McCartney
+    en_ca: Paul McCartney
+    en_gb: Paul McCartney
     en-us: Paul McCartney
     eo: Paul McCartney
     es: Paul McCartney
@@ -326,7 +326,7 @@ dv_has_:
     pl: Paul McCartney
     pms: Paul McCartney
     pt: Paul McCartney
-    pt-br: Paul McCartney
+    pt_br: Paul McCartney
     qu: Paul MacCartney
     rmf: Paul McCartney
     ro: Paul McCartney
@@ -366,13 +366,13 @@ dv_has_:
     yi: פאל מאקארטני
     yue: 保羅麥卡尼
     zh: 保罗·麦卡特尼
-    zh-cn: 保罗·麦卡特尼
-    zh-hans: 保罗·麦卡特尼
-    zh-hant: 保羅·麥卡尼
-    zh-hk: 保羅麥卡尼
+    zh_cn: 保罗·麦卡特尼
+    zh_hans: 保罗·麦卡特尼
+    zh_hant: 保羅·麥卡尼
+    zh_hk: 保羅麥卡尼
     zh-my: 保罗·麦卡尼
-    zh-sg: 保罗·麦卡尼
-    zh-tw: 保羅·麥卡尼
+    zh_sg: 保罗·麦卡尼
+    zh_tw: 保羅·麥卡尼
     zu: Paul McCartney
 ---
 # [[McCartney,Paul]] 

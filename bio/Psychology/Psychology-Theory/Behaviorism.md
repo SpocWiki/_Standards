@@ -91,10 +91,10 @@ dv_has_:
     azb: داورانیشچیلیق
     bcl: konduktismo
     be: Біхевіярызм
-    be-tarask: біхэвіярызм
+    be_tarask: біхэвіярызм
     bg: Бихевиоризъм
     ca: conductisme
-    cbk-zam: conductismo
+    cbk_zam: conductismo
     ceb: konduktismo
     cs: behaviorismus
     cy: Ymddygiadaeth
@@ -103,8 +103,8 @@ dv_has_:
     el: συμπεριφορισμός
     eml: Comportamentìśem
     en: behaviorism
-    en-ca: behaviourism
-    en-gb: behaviourism
+    en_ca: behaviourism
+    en_gb: behaviourism
     en-us: behaviorism
     eo: kondutismo
     es: conductismo
@@ -128,11 +128,11 @@ dv_has_:
     ja: 行動主義心理学
     ka: ბიჰევიორიზმი
     kk: Бихевиоризм
-    kk-arab: بىيحەۆىيورىيزم
+    kk_arab: بىيحەۆىيورىيزم
     kk-cn: بىيحەۆىيورىيزم
-    kk-cyrl: Бихевиоризм
+    kk_cyrl: Бихевиоризм
     kk-kz: Бихевиоризм
-    kk-latn: Bïxevïorïzm
+    kk_latn: Bïxevïorïzm
     kk-tr: Bïxevïorïzm
     ko: 행동주의
     krj: konduktismo
@@ -165,8 +165,8 @@ dv_has_:
     sl: behaviorizem
     sq: Biheviorizmi
     sr: бихевиоризам
-    sr-ec: Бихевиоризам
-    sr-el: Biheviorizam
+    sr_ec: Бихевиоризам
+    sr_el: Biheviorizam
     sv: behaviorism
     ta: நடத்தை உளவியல்
     tg: Бихевиоризм
@@ -184,12 +184,12 @@ dv_has_:
     yue: 行為主義
     zgh: ⵜⴰⵥⵕⵎⵓⴳⴳⵉⵜ
     zh: 行为主义
-    zh-cn: 行为主义
-    zh-hans: 行为主义
-    zh-hant: 行為主義
-    zh-hk: 行為主義
-    zh-sg: 行为主义
-    zh-tw: 行為主義
+    zh_cn: 行为主义
+    zh_hans: 行为主义
+    zh_hant: 行為主義
+    zh_hk: 行為主義
+    zh_sg: 行为主义
+    zh_tw: 行為主義
 ---
 # [[Behaviorism]] 
 

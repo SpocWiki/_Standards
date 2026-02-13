@@ -69,17 +69,17 @@ dv_has_:
     ar: فرس السباق الإنجليزي
     ast: Purasangre
     az: Thoroughbred
-    be-tarask: конь чыстакроўны ангельскі
+    be_tarask: конь чыстакроўны ангельскі
     bg: Английски чистокръвен кон
     ca: pura sang
     cs: anglický plnokrevník
     da: Engelsk fuldblod
     de: Englisches Vollblut
-    de-ch: Englisches Vollblut
+    de_ch: Englisches Vollblut
     el: Καθαρόαιμο άλογο
     en: Thoroughbred
-    en-ca: Thoroughbred
-    en-gb: thoroughbred
+    en_ca: Thoroughbred
+    en_gb: thoroughbred
     eo: pursangulo
     es: Purasangre
     et: Inglise täisvereline ratsahobune
@@ -103,13 +103,13 @@ dv_has_:
     mk: чистокрвен коњ
     ml: തൊറോ ബ്രഡ് കുതിര
     ms: kuda belima
-    ms-arab: کودا بليما
+    ms_arab: کودا بليما
     nb: thoroughbred
     nl: Engelse volbloed
     nn: engelsk fullblodshest
     pl: koń pełnej krwi angielskiej
     pt: Puro Sangue Inglês
-    pt-br: Puro-sangue inglês
+    pt_br: Puro-sangue inglês
     ro: Cal pursânge englez
     ru: чистокровная верховая
     sk: anglický plnokrvník
@@ -124,12 +124,12 @@ dv_has_:
     wuu: 纯种马
     yue: 純種馬
     zh: 純種馬
-    zh-cn: 纯种马
-    zh-hans: 纯种马
-    zh-hant: 純種馬
-    zh-hk: 純種馬
-    zh-sg: 纯种马
-    zh-tw: 純種馬
+    zh_cn: 纯种马
+    zh_hans: 纯种马
+    zh_hant: 純種馬
+    zh_hk: 純種馬
+    zh_sg: 纯种马
+    zh_tw: 純種馬
 ---
 # [[Thoroughbred]]  
 

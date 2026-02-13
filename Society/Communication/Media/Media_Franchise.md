@@ -80,7 +80,7 @@ dv_has_:
     ast: franquicia de medios
     az: mediafranşiza
     be: медыяфраншыза
-    be-tarask: мэдыйная франшыза
+    be_tarask: мэдыйная франшыза
     br: frañchiz media
     ca: franquícia multimèdia
     ckb: میدیای کۆکراوە
@@ -88,11 +88,11 @@ dv_has_:
     cy: masnachfraint
     da: mediafranchise
     de: Medienfranchise
-    de-ch: Franchise
+    de_ch: Franchise
     el: δικαιοχρησία
     en: media franchise
-    en-ca: media franchise
-    en-gb: media franchise
+    en_ca: media franchise
+    en_gb: media franchise
     eo: plurkomunikila serio
     es: franquicia de medios
     fa: فرنچایز چندرسانهای
@@ -118,14 +118,14 @@ dv_has_:
     mk: медиумска франшиза
     ml: ഫിലിം ഫ്രാഞ്ചൈസി
     ms: francais media
-    ms-arab: فرنچاءيس ميديا
+    ms_arab: فرنچاءيس ميديا
     nb: mediafranchise
     nl: mediafranchise
     oc: franquesa de mèdis
     pcd: Franchise (média)
     pl: franczyza medialna
     pt: franquia de média
-    pt-br: franquia de mídia
+    pt_br: franquia de mídia
     ro: franciză media
     ru: медиафраншиза
     sco: media franchise
@@ -134,26 +134,26 @@ dv_has_:
     sv: mediafranchise
     szl: medialnŏ franczyza
     tg: медиафраншиза
-    tg-cyrl: медиафраншиза
+    tg_cyrl: медиафраншиза
     th: สื่อแฟรนไชส์
     tl: media franchise
     tr: medya serisi
     tt: медиафраншиза
-    tt-cyrl: медиафраншиза
+    tt_cyrl: медиафраншиза
     uk: медіа-франшиза
     ur: میڈیا فرنچائز
     uz: media franshiza
     vec: media franchise
     vi: thương hiệu truyền thông
     zh: 跨媒體製作
-    zh-cn: 跨媒体制作
-    zh-hans: 跨媒体制作
-    zh-hant: 跨媒體製作
-    zh-hk: 跨媒體製作
-    zh-mo: 跨媒體製作
+    zh_cn: 跨媒体制作
+    zh_hans: 跨媒体制作
+    zh_hant: 跨媒體製作
+    zh_hk: 跨媒體製作
+    zh_mo: 跨媒體製作
     zh-my: 跨媒体制作
-    zh-sg: 跨媒体制作
-    zh-tw: 跨媒體製作
+    zh_sg: 跨媒体制作
+    zh_tw: 跨媒體製作
 ---
 # [[Media_Franchise]] 
 

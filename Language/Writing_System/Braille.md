@@ -112,7 +112,7 @@ dv_has_:
     ast: braille
     az: Brayl əlifbası
     bcl: Braille
-    be-tarask: пісьмо Брайля
+    be_tarask: пісьмо Брайля
     bg: Брайлова азбука
     bho: ब्रेल
     bn: ব্রেইল পদ্ধতি
@@ -162,7 +162,7 @@ dv_has_:
     kn: ಬ್ರೈಲ್
     ko: 점자
     ku: Braille
-    ku-latn: Braille
+    ku_latn: Braille
     la: scriptura Brailliana
     lt: aklųjų raštas
     lv: Braila raksts
@@ -204,7 +204,7 @@ dv_has_:
     tok: sitelen nena Paja
     tr: Braille alfabesi
     tt: Брайль шрифты
-    tt-cyrl: Брайль шрифты
+    tt_cyrl: Брайль шрифты
     udm: адӟисьтэмъёслы азбука
     uk: шрифт Брайля
     ur: بریل سسٹم
@@ -216,7 +216,7 @@ dv_has_:
     yo: Abidi Braille
     yue: 凸字
     zh: 盲文
-    zh-hant: 盲文
+    zh_hant: 盲文
 ---
 # [[Braille]] 
 

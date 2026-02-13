@@ -227,8 +227,8 @@ Wikidata_property: adjacent building
 Wolfram_Language_entity_type: Building
 dv_has_:
   name_:
-    aeb-arab: بنية
-    aeb-latn: banya
+    aeb_arab: بنية
+    aeb_latn: banya
     af: gebou
     ak: ɛdan
     an: edificio
@@ -241,7 +241,7 @@ dv_has_:
     ba: бина
     bcl: edipisyo
     be: будынак
-    be-tarask: будынак
+    be_tarask: будынак
     bg: сграда
     bn: ভবন
     br: savadur
@@ -255,7 +255,7 @@ dv_has_:
     cy: adeilad
     da: bygning
     de: Gebäude
-    de-ch: Gebäude
+    de_ch: Gebäude
     dsb: twarjenje
     el: κτίριο
     en: building
@@ -299,7 +299,7 @@ dv_has_:
     ko: 건물
     ks: عمارت
     ku: avahî
-    ku-latn: avahî
+    ku_latn: avahî
     kw: drehevyans
     la: aedificium
     lb: Gebai
@@ -315,13 +315,13 @@ dv_has_:
     mni: ꯁꯪꯂꯦꯟ
     mr: इमारत
     ms: bangunan
-    ms-arab: باڠونن
+    ms_arab: باڠونن
     mt: bini
     my: အဆောက်အဦ
     nah: calli
     nan: kiàn-tio̍k-bu̍t
     nb: bygning
-    nds-nl: bolwark
+    nds_nl: bolwark
     ne: भवन
     new: भवन
     nl: gebouw
@@ -335,7 +335,7 @@ dv_has_:
     pnt: γιαπή
     ps: ودانۍ
     pt: edifício
-    pt-br: edificação
+    pt_br: edificação
     qu: wasichay
     rm: edifizi
     ro: clădire
@@ -356,8 +356,8 @@ dv_has_:
     so: dhisme
     sq: ndërtesë
     sr: зграда
-    sr-ec: зграда
-    sr-el: zgrada
+    sr_ec: зграда
+    sr_el: zgrada
     sv: byggnad
     sw: jengo
     szl: budōnek
@@ -369,8 +369,8 @@ dv_has_:
     tok: tomo
     tr: bina
     tt: бина
-    tt-cyrl: бина
-    tt-latn: bina
+    tt_cyrl: бина
+    tt_latn: bina
     tum: zomangamanga
     tw: ɛdan
     uk: будівля
@@ -386,14 +386,14 @@ dv_has_:
     yue: 樓
     za: gaiqranz
     zh: 建筑物
-    zh-cn: 建筑物
-    zh-hans: 建筑物
-    zh-hant: 建築物
-    zh-hk: 建築物
-    zh-mo: 建築物
+    zh_cn: 建筑物
+    zh_hans: 建筑物
+    zh_hant: 建築物
+    zh_hk: 建築物
+    zh_mo: 建築物
     zh-my: 建筑物
-    zh-sg: 建筑物
-    zh-tw: 建築物
+    zh_sg: 建筑物
+    zh_tw: 建築物
     zu: isakhiwo
 ---
 # [[Building]] 

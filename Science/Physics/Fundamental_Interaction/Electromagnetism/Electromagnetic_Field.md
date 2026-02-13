@@ -102,7 +102,7 @@ dv_has_:
     az: elektromaqnit sahəsi
     azb: الکترومغناطیس مئیدانی
     be: электрамагнітнае поле
-    be-tarask: электрамагнітнае поле
+    be_tarask: электрамагнітнае поле
     bg: електромагнитно поле
     bn: তড়িচ্চুম্বকীয় ক্ষেত্র
     bs: elektromagnetno polje
@@ -112,12 +112,12 @@ dv_has_:
     cv: электромагнитла уй
     da: elektromagnetisk felt
     de: elektromagnetisches Feld
-    de-ch: elektromagnetisches Feld
+    de_ch: elektromagnetisches Feld
     diq: cayo elektromanyetik
     el: ηλεκτρομαγνητικό πεδίο
     en: electromagnetic field
-    en-ca: electromagnetic field
-    en-gb: electromagnetic field
+    en_ca: electromagnetic field
+    en_gb: electromagnetic field
     eo: elektromagneta kampo
     es: campo electromagnético
     et: elektromagnetväli
@@ -162,7 +162,7 @@ dv_has_:
     pl: pole elektromagnetyczne
     ps: برېښنايي مقناطيسي ساحه
     pt: campo eletromagnético
-    pt-br: campo eletromagnético
+    pt_br: campo eletromagnético
     ro: câmp electromagnetic
     ru: электромагнитное поле
     se: elektromagnehtalaš gieddi
@@ -173,7 +173,7 @@ dv_has_:
     sms: elektromagneettlaž ǩeʹdd
     sq: fusha elektromagnetike
     sr: електромагнетско поље
-    sr-el: elektromagnetsko polje
+    sr_el: elektromagnetsko polje
     sv: elektromagnetiskt fält
     ta: மின்காந்தப் புலம்
     th: สนามแม่เหล็กไฟฟ้า
@@ -188,12 +188,12 @@ dv_has_:
     wuu: 电磁场
     yue: 電磁場
     zh: 电磁场
-    zh-cn: 电磁场
-    zh-hans: 电磁场
-    zh-hant: 電磁場
-    zh-hk: 電磁場
-    zh-sg: 电磁场
-    zh-tw: 電磁場
+    zh_cn: 电磁场
+    zh_hans: 电磁场
+    zh_hant: 電磁場
+    zh_hk: 電磁場
+    zh_sg: 电磁场
+    zh_tw: 電磁場
 ---
 # [[Electromagnetic_Field]] 
 

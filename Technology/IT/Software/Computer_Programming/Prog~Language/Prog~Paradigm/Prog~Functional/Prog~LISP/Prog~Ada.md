@@ -88,9 +88,9 @@ dv_has_:
     ka: ადა
     kaa: Ada
     kk: Ада
-    kk-arab: ادا
+    kk_arab: ادا
     kk-cn: ادا
-    kk-cyrl: Ада
+    kk_cyrl: Ада
     kk-kz: Ада
     ko: 에이다
     la: Ada (lingua programmandi)
@@ -101,7 +101,7 @@ dv_has_:
     ru: Ада
     rue: Ада
     sr: Ада
-    sr-ec: Ада
+    sr_ec: Ада
     syl: ꠀꠒꠣ
     ta: அடா
     tg: Ада

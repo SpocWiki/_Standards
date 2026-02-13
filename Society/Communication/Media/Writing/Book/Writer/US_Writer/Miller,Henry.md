@@ -100,7 +100,7 @@ dv_has_:
     azb: هنری میلر
     ba: Генри Миллер
     be: Генры Мілер
-    be-tarask: Гэнры Мілер
+    be_tarask: Гэнры Мілер
     bg: Хенри Милър
     bn: হেনরি মিলার
     br: Henry Miller
@@ -147,7 +147,7 @@ dv_has_:
     pap: Henry Miller
     pl: Henry Miller
     pt: Henry Miller
-    pt-br: Henry Miller
+    pt_br: Henry Miller
     ro: Henry Miller
     ru: Генри Миллер
     scn: Henry Miller
@@ -157,8 +157,8 @@ dv_has_:
     sl: Henry Miller
     sq: Henry Miller
     sr: Хенри Милер
-    sr-ec: Хенри Милер
-    sr-el: Henri Miler
+    sr_ec: Хенри Милер
+    sr_el: Henri Miler
     sv: Henry Miller
     tr: Henry Miller
     uk: Генрі Міллер
@@ -169,12 +169,12 @@ dv_has_:
     xmf: ჰენრი მილერი
     yue: 亨利·米勒
     zh: 亨利·米勒
-    zh-cn: 亨利·米勒
-    zh-hans: 亨利·米勒
-    zh-hant: 亨利·米勒
-    zh-hk: 亨利·米勒
-    zh-sg: 亨利·米勒
-    zh-tw: 亨利·米勒
+    zh_cn: 亨利·米勒
+    zh_hans: 亨利·米勒
+    zh_hant: 亨利·米勒
+    zh_hk: 亨利·米勒
+    zh_sg: 亨利·米勒
+    zh_tw: 亨利·米勒
 ---
 # [[Miller,Henry]] 
 

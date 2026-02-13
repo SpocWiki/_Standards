@@ -72,7 +72,7 @@ type: Type
 dv_has_:
   name_:
     ar: إجراء طبي
-    be-tarask: мэдыцынская працэдура
+    be_tarask: мэдыцынская працэдура
     bn: চিকিৎসা পদ্ধতি
     bs: medicinski postupak
     ca: procediment mèdic
@@ -119,14 +119,14 @@ dv_has_:
     vi: thủ tục y tế
     yue: 醫療程序
     zh: 醫療程序
-    zh-cn: 医疗程序
-    zh-hans: 医疗程序
-    zh-hant: 醫療程序
-    zh-hk: 醫療程序
-    zh-mo: 醫療程序
+    zh_cn: 医疗程序
+    zh_hans: 医疗程序
+    zh_hant: 醫療程序
+    zh_hk: 醫療程序
+    zh_mo: 醫療程序
     zh-my: 医疗程序
-    zh-sg: 医疗程序
-    zh-tw: 醫療程序
+    zh_sg: 医疗程序
+    zh_tw: 醫療程序
 ---
 # [[Medical_Procedure]] 
 

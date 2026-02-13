@@ -83,7 +83,7 @@ dv_has_:
     ar: تقويم شمسي
     arz: تقويم شمسى
     az: günəş təqvimi
-    be-tarask: сонечны каляндар
+    be_tarask: сонечны каляндар
     bg: слънчев календар
     bn: সৌর পঞ্জিকা
     bs: solarni kalendar
@@ -117,8 +117,8 @@ dv_has_:
     ko: 태양력
     ks: سِری کیلینڈر
     ku: salnameya rojê
-    ku-arab: سالنامەیا رۆژێ
-    ku-latn: salnameya rojê
+    ku_arab: سالنامەیا رۆژێ
+    ku_latn: salnameya rojê
     la: calendarium solare
     lo: ສຸລິຍະຄະຕິ
     lt: saulės kalendorius
@@ -145,8 +145,8 @@ dv_has_:
     sk: solárny kalendár
     sl: sončni koledar
     sr: соларни календар
-    sr-ec: соларни календар
-    sr-el: solarni kalendar
+    sr_ec: соларни календар
+    sr_el: solarni kalendar
     sv: solkalender
     sw: kalenda ya jua
     ta: சூரிய நாட்காட்டி
@@ -162,12 +162,12 @@ dv_has_:
     xmf: ბჟაშ კალენდარი
     yue: 陽曆
     zh: 阳历
-    zh-cn: 阳历
-    zh-hans: 阳历
-    zh-hant: 陽曆
-    zh-hk: 陽曆
-    zh-sg: 阳历
-    zh-tw: 陽曆
+    zh_cn: 阳历
+    zh_hans: 阳历
+    zh_hant: 陽曆
+    zh_hk: 陽曆
+    zh_sg: 阳历
+    zh_tw: 陽曆
 ---
 # [[Solar_Calendar]] 
 

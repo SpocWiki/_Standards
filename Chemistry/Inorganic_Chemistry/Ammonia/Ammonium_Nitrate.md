@@ -139,7 +139,7 @@ dv_has_:
     ast: Nitratu de amonio
     az: Ammonium nitrat
     azb: آمونیوم نیترات
-    be-tarask: нітрат амонію
+    be_tarask: нітрат амонію
     bg: Амониев нитрат
     bn: অ্যামোনিয়াম নাইট্রেট
     ca: nitrat d'amoni
@@ -168,17 +168,17 @@ dv_has_:
     ja: 硝酸アンモニウム
     jv: Amonium nitrat
     kk: Аммиак селитрасы
-    kk-arab: اممىياك سەلىيتراسى
+    kk_arab: اممىياك سەلىيتراسى
     kk-cn: اممىياك سەلىيتراسى
-    kk-cyrl: Аммиак селитрасы
+    kk_cyrl: Аммиак селитрасы
     kk-kz: Аммиак селитрасы
-    kk-latn: Ammïak selïtrası
+    kk_latn: Ammïak selïtrası
     kk-tr: Ammïak selïtrası
     kl: Ammonoumnitrati
     ko: 질산 암모늄
     ku: Amonyûmnîtrat
-    ku-arab: ئامۆنیوومنیترات
-    ku-latn: Amonyûmnîtrat
+    ku_arab: ئامۆنیوومنیترات
+    ku_latn: Amonyûmnîtrat
     ky: Аммоний нитраты
     lt: Amonio nitratas
     lv: amonija nitrāts
@@ -201,8 +201,8 @@ dv_has_:
     sk: Dusičnan amónny
     sl: amonijev nitrat
     sr: амонијум нитрат
-    sr-ec: Амонијум нитрат
-    sr-el: Amonijum nitrat
+    sr_ec: Амонијум нитрат
+    sr_el: Amonijum nitrat
     sv: Ammoniumnitrat
     ta: அம்மோனியம் நைட்ரேட்
     te: అమ్మోనియం నైట్రేట్
@@ -217,12 +217,12 @@ dv_has_:
     wuu: 硝酸铵
     yue: 硝酸銨
     zh: 硝酸铵
-    zh-cn: 硝酸铵
-    zh-hans: 硝酸铵
-    zh-hant: 硝酸銨
-    zh-hk: 硝酸銨
-    zh-sg: 硝酸铵
-    zh-tw: 硝酸銨
+    zh_cn: 硝酸铵
+    zh_hans: 硝酸铵
+    zh_hant: 硝酸銨
+    zh_hk: 硝酸銨
+    zh_sg: 硝酸铵
+    zh_tw: 硝酸銨
 dv_is_same_as:
 - '[[../../../WikiData/WD~Ammonium_nitrate,182329]]'
 - '[[/_Standards/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Nitrate|Ammonium_Nitrate]]'

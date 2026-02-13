@@ -26,13 +26,13 @@ dv_has_:
     nl: Ranga Yogeshwar
     nn: Ranga Yogeshwar
     pt: Ranga Yogeshwar
-    pt-br: Ranga Yogeshwar
+    pt_br: Ranga Yogeshwar
     ro: Ranga Yogeshwar
     sl: Ranga Yogeshwar
     sq: Ranga Yogeshwar
     sv: Ranga Yogeshwar
     zh: Ranga Yogeshwar
-    zh-hant: 蘭加那坦·格雷戈瓦·優哥希瓦
+    zh_hant: 蘭加那坦·格雷戈瓦·優哥希瓦
 ---
 #has_/time_/started :: 1959-05-18 
 

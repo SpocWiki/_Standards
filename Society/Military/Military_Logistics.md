@@ -67,7 +67,7 @@ dv_has_:
     ast: Loxística militar
     az: Hərbi logistika
     be: Ваенная лагістыка
-    be-tarask: вайсковая лягістыка
+    be_tarask: вайсковая лягістыка
     bn: সামরিক রসদ স্থানান্তরবিদ্যা
     ca: logística militar
     ckb: لەشکرگێڕیی سەربازی
@@ -113,12 +113,12 @@ dv_has_:
     uk: тилове забезпечення
     vi: hậu cần quân sự
     zh: 後勤學
-    zh-cn: 后勤学
-    zh-hans: 后勤学
-    zh-hant: 後勤學
-    zh-hk: 後勤學
-    zh-sg: 后勤学
-    zh-tw: 後勤學
+    zh_cn: 后勤学
+    zh_hans: 后勤学
+    zh_hant: 後勤學
+    zh_hk: 後勤學
+    zh_sg: 后勤学
+    zh_tw: 後勤學
 ---
 # [[Military_Logistics]] 
 

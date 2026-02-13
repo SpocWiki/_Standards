@@ -187,7 +187,7 @@ dv_has_:
     az: Herbert Uells
     azb: اچ. جی. ولز
     be: Герберт Уэлс
-    be-tarask: Гэрбэрт Ўэлз
+    be_tarask: Гэрбэрт Ўэлз
     bg: Хърбърт Уелс
     bn: হারবার্ট জর্জ ওয়েল্স
     br: H. G. Wells
@@ -198,12 +198,12 @@ dv_has_:
     cy: H. G. Wells
     da: H.G. Wells
     de: H. G. Wells
-    de-ch: H. G. Wells
+    de_ch: H. G. Wells
     diq: H. G. Wells
     el: Χ. Τζ. Γουέλς
     en: H. G. Wells
-    en-ca: H. G. Wells
-    en-gb: H. G. Wells
+    en_ca: H. G. Wells
+    en_gb: H. G. Wells
     eo: Herbert Wells
     es: H. G. Wells
     et: Herbert George Wells
@@ -265,7 +265,7 @@ dv_has_:
     pnb: ایچ جی ویلز
     ps: اچ.جي. وېلز
     pt: H. G. Wells
-    pt-br: H. G. Wells
+    pt_br: H. G. Wells
     qu: H.G. Wells
     rm: H.G. Wells
     ro: H. G. Wells
@@ -296,8 +296,8 @@ dv_has_:
     xmf: ჰერბერტ ჯორჯ უელსი
     yue: H.G.威爾斯
     zh: 赫伯特·喬治·威爾斯
-    zh-hant: H·G·威爾斯
-    zh-tw: H·G·威爾斯
+    zh_hant: H·G·威爾斯
+    zh_tw: H·G·威爾斯
 ---
 # [[Wells,H.G]] 
 

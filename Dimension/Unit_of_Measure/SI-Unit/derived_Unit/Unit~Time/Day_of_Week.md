@@ -140,7 +140,7 @@ Commons_category: Days of the week
 Wolfram_Language_entity_code: Entity["Concept", "DayOfTheWeek::76wtv"]
 dv_has_:
   name_:
-    aeb-arab: أيّام الجمعة
+    aeb_arab: أيّام الجمعة
     af: weekdag
     an: Nombre d'os días d'a semana
     ar: يوم من الأسبوع
@@ -148,7 +148,7 @@ dv_has_:
     av: анкьил къоял
     bcl: aldaw kan semana
     be: дні тыдня
-    be-tarask: дзень тыдню
+    be_tarask: дзень тыдню
     bn: সপ্তাহের দিন
     br: deiz ar sizhun
     bs: dan u sedmici
@@ -209,7 +209,7 @@ dv_has_:
     pnb: ستوارے دے دن
     ps: د اوونۍ ورځې
     pt: dia da semana
-    pt-br: dia da semana
+    pt_br: dia da semana
     rmf: kurkosko diives
     ro: zilele săptămânii
     roa-tara: sciúrne d'a sumáne
@@ -226,14 +226,14 @@ dv_has_:
     sms: neaʹttelpeiʹvv
     sq: ditë e javës
     sr: дан седмице
-    sr-ec: дан седмице
+    sr_ec: дан седмице
     sv: veckodag
     szl: dziyń tydnia
     te: వారం రోజుల పేర్లు
     th: วันในสัปดาห์
     tr: haftanın günleri
     tt: атна көне
-    tt-cyrl: атна көне
+    tt_cyrl: атна көне
     udm: арнялэн нуналыз
     uk: день тижня
     ur: ہفتہ کے دن
@@ -244,9 +244,9 @@ dv_has_:
     yue: 七政
     zgh: ⴰⵙⵙ ⵏ ⵉⵎⴰⵍⴰⵙⵙ
     zh: 星期中的日子
-    zh-hans: 七政
-    zh-hant: 七政
-    zh-hk: 七政
+    zh_hans: 七政
+    zh_hant: 七政
+    zh_hk: 七政
 ---
 Class of all day_of_weeks.
 

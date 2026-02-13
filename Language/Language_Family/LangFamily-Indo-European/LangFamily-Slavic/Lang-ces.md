@@ -286,7 +286,7 @@ exact_match: http://publications.europa.eu/resource/authority/language/CES
 dv_has_:
   name_:
     ab: Ачех бызшәа
-    aeb-arab: التشيكي
+    aeb_arab: التشيكي
     af: Tsjeggies
     am: ቼክኛ
     an: Idioma checo
@@ -301,7 +301,7 @@ dv_has_:
     ba: чех теле
     bar: Tschechische Språch
     be: чэшская мова
-    be-tarask: чэская мова
+    be_tarask: чэская мова
     bg: чешки език
     bn: চেক ভাষা
     br: tchekeg
@@ -313,7 +313,7 @@ dv_has_:
     ckb: زمانی چیکی
     co: ceccu
     crh: Çeh tili
-    crh-latn: Çeh tili
+    crh_latn: Çeh tili
     cs: čeština
     csb: Czesczi jãzëk
     cu: Чєшьскъ ѩꙁꙑкъ
@@ -321,13 +321,13 @@ dv_has_:
     cy: Tsieceg
     da: tjekkisk
     de: Tschechisch
-    de-ch: Tschechisch
+    de_ch: Tschechisch
     diq: Çeki
     dsb: Česka rěc
     el: Τσεχικά
     en: Czech
-    en-ca: Czech
-    en-gb: Czech
+    en_ca: Czech
+    en_gb: Czech
     eo: ĉeĥa lingvo
     es: checo
     et: tšehhi keel
@@ -377,7 +377,7 @@ dv_has_:
     ko: 체코어
     krc: Чех тил
     ku: çekî
-    ku-latn: çekî
+    ku_latn: çekî
     kv: Чех кыв
     kw: Chekek
     ky: Чех тили
@@ -403,13 +403,13 @@ dv_has_:
     mni: ꯆꯦꯛ ꯂꯣꯟ
     mr: चेक भाषा
     ms: bahasa Czech
-    ms-arab: بهاس چيک
+    ms_arab: بهاس چيک
     mt: Ċek
     myv: Чехень кель
     mzn: چکی
     nan: Česko-gí
     nb: tsjekkisk
-    nds-nl: Tsjechies
+    nds_nl: Tsjechies
     ne: चेक भाषा
     new: चेक भाषा
     nl: Tsjechisch
@@ -425,7 +425,7 @@ dv_has_:
     pnb: چیک
     ps: چېکي ژبه
     pt: checo
-    pt-br: língua tcheca
+    pt_br: língua tcheca
     qu: Chiku simi
     rm: Lingua tscheca
     ro: limba cehă
@@ -447,7 +447,7 @@ dv_has_:
     sms: tšekk-ǩiõll
     sq: çekisht
     sr: чешки
-    sr-ec: чешки
+    sr_ec: чешки
     su: Basa Céko
     sv: tjeckiska
     sw: Kicheki
@@ -461,7 +461,7 @@ dv_has_:
     tok: toki Seki
     tr: Çekçe
     tt: чех теле
-    tt-cyrl: чех теле
+    tt_cyrl: чех теле
     udm: Чех кыл
     ug: چېخ تىلى
     uk: чеська мова
@@ -481,11 +481,11 @@ dv_has_:
     yue: 捷克文
     zea: Tsjehhisch
     zh: 捷克語
-    zh-cn: 捷克语
-    zh-hans: 捷克语
-    zh-hant: 捷克語
-    zh-hk: 捷克語
-    zh-tw: 捷克語
+    zh_cn: 捷克语
+    zh_hans: 捷克语
+    zh_hant: 捷克語
+    zh_hk: 捷克語
+    zh_tw: 捷克語
     zu: IsiTsheki
 ---
 # [[Lang-ces]] 

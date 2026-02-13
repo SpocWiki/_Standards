@@ -110,7 +110,7 @@ dv_has_:
     ast: Alambre
     az: Məftil
     be: дрот
-    be-tarask: дрот
+    be_tarask: дрот
     bg: тел
     bn: তার
     br: Orjal
@@ -120,10 +120,10 @@ dv_has_:
     cv: Пралук
     da: metal-wire
     de: Draht
-    de-ch: Draht
+    de_ch: Draht
     en: wire
-    en-ca: wire
-    en-gb: wire
+    en_ca: wire
+    en_gb: wire
     en-us: wire
     eo: drato
     es: alambre
@@ -170,7 +170,7 @@ dv_has_:
     pl: drut
     pms: Fil
     pt: arame
-    pt-br: arame
+    pt_br: arame
     ro: Sârmă
     ru: проволока
     rup: Sirmâ
@@ -181,8 +181,8 @@ dv_has_:
     so: Xadhig
     sq: Teli
     sr: жица
-    sr-ec: жица
-    sr-el: žica
+    sr_ec: жица
+    sr_el: žica
     su: Kawat
     sv: ståltråd
     sw: Waya
@@ -191,7 +191,7 @@ dv_has_:
     tl: Kawad
     tr: Tel
     tt: тимерчыбык
-    tt-cyrl: тимерчыбык
+    tt_cyrl: тимерчыбык
     uk: дріт
     ur: تار
     uz: Sim

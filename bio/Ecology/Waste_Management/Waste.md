@@ -149,7 +149,7 @@ dv_has_:
     ba: Ҡалдыҡтар
     bas: binan
     be: цвёрдыя бытавыя адкіды
-    be-tarask: адкіды
+    be_tarask: адкіды
     bg: Отпадък
     bjn: Ratik
     bn: বর্জ্য
@@ -213,7 +213,7 @@ dv_has_:
     pa: ਕਚਰਾ
     pl: odpady
     pt: resíduo
-    pt-br: resíduo
+    pt_br: resíduo
     qu: Q'upa
     ro: deșeu
     ru: отходы
@@ -224,8 +224,8 @@ dv_has_:
     so: Qashin
     sq: Mbeturina
     sr: отпад
-    sr-ec: отпад
-    sr-el: otpad
+    sr_ec: отпад
+    sr_el: otpad
     su: runtah
     sv: avfall
     sw: Taka
@@ -244,11 +244,11 @@ dv_has_:
     yo: Ẹ̀gbin
     yue: 垃圾
     zh: 垃圾
-    zh-cn: 垃圾
-    zh-hans: 垃圾
-    zh-hant: 垃圾
-    zh-hk: 垃圾
-    zh-tw: 垃圾
+    zh_cn: 垃圾
+    zh_hans: 垃圾
+    zh_hant: 垃圾
+    zh_hk: 垃圾
+    zh_tw: 垃圾
 ---
 # [[Waste]] 
 

@@ -115,7 +115,7 @@ dv_has_:
     az: pniktogenlər
     ba: азот төркөмсәһе
     ban: Pniktogén
-    be-tarask: пніктаген
+    be_tarask: пніктаген
     bg: пниктоген
     bn: নিক্টোজেন
     bs: 15. grupa hemijskih elemenata
@@ -125,8 +125,8 @@ dv_has_:
     de: 15. Hauptgruppe des Periodensystems
     el: 15η ομάδα του περιοδικού πίνακα
     en: group 15
-    en-ca: group 15
-    en-gb: group 15
+    en_ca: group 15
+    en_gb: group 15
     eo: grupo 15
     es: grupo del nitrógeno
     eu: 15. taldeko elementu
@@ -163,7 +163,7 @@ dv_has_:
     pa: ਗਰੁੱਪ 15 ਤੱਤ
     pl: azotowce
     pt: grupo 15
-    pt-br: grupo do nitrogênio
+    pt_br: grupo do nitrogênio
     ro: Pnictogen
     ru: подгруппа азота
     scn: gruppu 15
@@ -173,8 +173,8 @@ dv_has_:
     so: Biniktojiin
     sq: grupi i pesëmbëdhjetë i elementeve kimike
     sr: 15. група хемијских елемената
-    sr-ec: 15. група хемијских елемената
-    sr-el: 15. grupa hemijskih elemenata
+    sr_ec: 15. група хемијских елемената
+    sr_el: 15. grupa hemijskih elemenata
     sv: kvävegruppen
     ta: நெடுங்குழு 15 தனிமங்கள்
     te: నిక్టోజన్
@@ -185,12 +185,12 @@ dv_has_:
     wuu: 氮族元素
     yue: 氮族元素
     zh: 氮族元素
-    zh-cn: 氮族元素
-    zh-hans: 氮族元素
-    zh-hant: 氮族元素
-    zh-hk: 氮族元素
-    zh-sg: 氮族元素
-    zh-tw: 氮族元素
+    zh_cn: 氮族元素
+    zh_hans: 氮族元素
+    zh_hant: 氮族元素
+    zh_hk: 氮族元素
+    zh_sg: 氮族元素
+    zh_tw: 氮族元素
 ---
 # [[Group-15-Nitrogen]] 
 

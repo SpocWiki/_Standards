@@ -144,7 +144,7 @@ dv_has_:
     azb: ساندویچ
     ba: сэндвич
     bcl: sandwich
-    be-tarask: сэндвіч
+    be_tarask: сэндвіч
     bew: roti tumplek
     bg: сандвич
     bn: স্যান্ডউইচ
@@ -159,11 +159,11 @@ dv_has_:
     cy: brechdan
     da: sandwich
     de: Sandwich
-    de-ch: Sandwich
+    de_ch: Sandwich
     el: σάντουιτς
     en: sandwich
-    en-ca: sandwich
-    en-gb: sandwich
+    en_ca: sandwich
+    en_gb: sandwich
     eo: sandviĉo
     es: sándwich
     et: sändvitš
@@ -228,7 +228,7 @@ dv_has_:
     pms: sànguis
     pnb: سینڈوچ
     pt: sanduíche
-    pt-br: sanduíche
+    pt_br: sanduíche
     rmf: tšilmaaro
     ro: sandviș
     roa-tara: panine anghiute
@@ -264,13 +264,13 @@ dv_has_:
     yue: 三文治
     zh: 三明治
     zh-cn: 三明治
-    zh-hans: 三明治
-    zh-hant: 三明治
-    zh-hk: 三文治
-    zh-mo: 三文治
+    zh_hans: 三明治
+    zh_hant: 三明治
+    zh_hk: 三文治
+    zh_mo: 三文治
     zh-my: 三文治
-    zh-sg: 三明治
-    zh-tw: 三明治
+    zh_sg: 三明治
+    zh_tw: 三明治
 ---
 # [[Sandwich(Dish)]] 🥪 
 

@@ -136,7 +136,7 @@ dv_has_:
     ast: Samuel Johnson
     az: Samuel Conson
     azb: ساموئل جانسون
-    be-tarask: Сэм’юэл Джонсан
+    be_tarask: Сэм’юэл Джонсан
     bg: Самюел Джонсън
     bn: স্যামুয়েল জনসন
     br: Samuel Johnson
@@ -147,11 +147,11 @@ dv_has_:
     cy: Samuel Johnson
     da: Samuel Johnson
     de: Samuel Johnson
-    de-ch: Samuel Johnson
+    de_ch: Samuel Johnson
     el: Σάμιουελ Τζόνσον
     en: Samuel Johnson
-    en-ca: Samuel Johnson
-    en-gb: Samuel Johnson
+    en_ca: Samuel Johnson
+    en_gb: Samuel Johnson
     eo: Samuel Johnson
     es: Samuel Johnson
     et: Samuel Johnson
@@ -199,7 +199,7 @@ dv_has_:
     pnb: سیموئیل جانسن
     ps: سامويل جانسن
     pt: Samuel Johnson
-    pt-br: Samuel Johnson
+    pt_br: Samuel Johnson
     qu: Samuel Johnson
     ro: Samuel Johnson
     ru: Сэмюэл Джонсон
@@ -224,12 +224,12 @@ dv_has_:
     yo: Samuel Johnson
     yue: 森繆莊臣
     zh: 塞缪尔·约翰逊
-    zh-cn: 塞缪尔·约翰逊
-    zh-hans: 塞缪尔·约翰逊
-    zh-hant: 塞繆爾·約翰遜
-    zh-hk: 塞繆爾·約翰遜
-    zh-sg: 塞缪尔·约翰逊
-    zh-tw: 塞繆爾·詹森
+    zh_cn: 塞缪尔·约翰逊
+    zh_hans: 塞缪尔·约翰逊
+    zh_hant: 塞繆爾·約翰遜
+    zh_hk: 塞繆爾·約翰遜
+    zh_sg: 塞缪尔·约翰逊
+    zh_tw: 塞繆爾·詹森
 ---
 # [[Johnson,Samuel]] 
 

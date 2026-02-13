@@ -105,7 +105,7 @@ dv_has_:
     az: mürəkkəb efirlər
     bcl: ester
     be: эстэры
-    be-tarask: складаны этэр
+    be_tarask: складаны этэр
     bg: естер
     bs: ester
     ca: èster
@@ -138,11 +138,11 @@ dv_has_:
     it: esteri
     ja: エステル
     kk: күрделі эфирлер
-    kk-arab: كۇردەلى ەفىيرلەر
+    kk_arab: كۇردەلى ەفىيرلەر
     kk-cn: كۇردەلى ەفىيرلەر
-    kk-cyrl: күрделі эфирлер
+    kk_cyrl: күрделі эфирлер
     kk-kz: күрделі эфирлер
-    kk-latn: kürdeli éfïrler
+    kk_latn: kürdeli éfïrler
     kk-tr: kürdeli éfïrler
     ko: 에스테르
     la: ester
@@ -164,7 +164,7 @@ dv_has_:
     pl: ester
     ps: ایستر
     pt: éster
-    pt-br: éster
+    pt_br: éster
     ro: ester
     ru: сложные эфиры
     sh: estri
@@ -172,8 +172,8 @@ dv_has_:
     sl: ester
     sq: esteret
     sr: естар
-    sr-ec: естар
-    sr-el: estar
+    sr_ec: естар
+    sr_el: estar
     su: éster
     sv: estrar
     ta: எசுத்தர்
@@ -188,12 +188,12 @@ dv_has_:
     wuu: 酯
     yue: 酯
     zh: 酯
-    zh-cn: 酯
-    zh-hans: 酯
-    zh-hant: 酯
-    zh-hk: 酯
-    zh-sg: 酯
-    zh-tw: 酯
+    zh_cn: 酯
+    zh_hans: 酯
+    zh_hant: 酯
+    zh_hk: 酯
+    zh_sg: 酯
+    zh_tw: 酯
 ---
 # [[Ester]] 
 

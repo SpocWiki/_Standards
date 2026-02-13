@@ -75,7 +75,7 @@ dv_has_:
     ast: Manierismu
     az: manyerizm
     be: маньерызм
-    be-tarask: маньерызм
+    be_tarask: маньерызм
     bg: Маниеризъм
     br: Orbidouriezh
     bs: Manirizam
@@ -107,11 +107,11 @@ dv_has_:
     ja: マニエリスム
     ka: მანიერიზმი
     kk: Маньеризм
-    kk-arab: مانيەرىيزم
+    kk_arab: مانيەرىيزم
     kk-cn: مانيەرىيزم
-    kk-cyrl: Маньеризм
+    kk_cyrl: Маньеризм
     kk-kz: Маньеризм
-    kk-latn: Manʹyerïzm
+    kk_latn: Manʹyerïzm
     kk-tr: Manʹyerïzm
     ko: 매너리즘
     ky: маньеризм
@@ -135,8 +135,8 @@ dv_has_:
     sk: manierizmus
     sl: manierizem
     sr: маниризам
-    sr-ec: маниризам
-    sr-el: manirizam
+    sr_ec: маниризам
+    sr_el: manirizam
     stq: Manierismus
     sv: Manierism
     th: จริตนิยม
@@ -149,12 +149,12 @@ dv_has_:
     wuu: 风格主义
     yue: 風格主義
     zh: 風格主義
-    zh-cn: 风格主义
-    zh-hans: 风格主义
-    zh-hant: 風格主義
-    zh-hk: 風格主義
-    zh-sg: 风格主义
-    zh-tw: 風格主義
+    zh_cn: 风格主义
+    zh_hans: 风格主义
+    zh_hant: 風格主義
+    zh_hk: 風格主義
+    zh_sg: 风格主义
+    zh_tw: 風格主義
 ---
 # [[Mannerism]] 
 

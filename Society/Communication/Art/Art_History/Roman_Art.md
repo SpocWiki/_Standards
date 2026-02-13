@@ -82,11 +82,11 @@ dv_has_:
     ca: art romà
     cs: římské antické umění
     de: Römische Kunst
-    de-ch: Römische Kunst
+    de_ch: Römische Kunst
     el: Ρωμαϊκή τέχνη
     en: Roman art
-    en-ca: Roman art
-    en-gb: Roman art
+    en_ca: Roman art
+    en_gb: Roman art
     eo: Romia arto
     es: arte romano
     eu: Antzinako Erromako artea
@@ -116,7 +116,7 @@ dv_has_:
     nl: Romeinse kunst
     pl: sztuka starożytnego Rzymu
     pt: Arte da Roma Antiga
-    pt-br: Arte da Roma Antiga
+    pt_br: Arte da Roma Antiga
     ro: Arta romană
     ru: древнеримское искусство
     sh: rimska umjetnost

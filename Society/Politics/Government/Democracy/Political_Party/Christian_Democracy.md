@@ -88,7 +88,7 @@ dv_has_:
     ast: democracia cristiana
     ba: Христиан демократияһы
     be: хрысціянская дэмакратыя
-    be-tarask: хрысьціянская дэмакратыя
+    be_tarask: хрысьціянская дэмакратыя
     bg: християндемокрация
     ca: democràcia cristiana
     ckb: مەسیحی دیموکرات
@@ -96,11 +96,11 @@ dv_has_:
     cy: Democratiaeth Gristnogol
     da: kristendemokrati
     de: Christdemokratie
-    de-ch: Christdemokratie
+    de_ch: Christdemokratie
     el: Χριστιανοδημοκρατία
     en: Christian democracy
-    en-ca: christian democracy
-    en-gb: Christian democracy
+    en_ca: christian democracy
+    en_gb: Christian democracy
     eo: kristana demokratio
     es: democracia cristiana
     et: kristlik demokraatia
@@ -130,14 +130,14 @@ dv_has_:
     lv: Kristīgā demokrātija
     mk: демохристијанство
     ms: demokrasi Kristian
-    ms-arab: ديموکراسي کريستيان
+    ms_arab: ديموکراسي کريستيان
     mt: demokrazija Kristjana
     nb: kristendemokrati
     nl: christendemocratie
     pa: ਕ੍ਰਿਸ਼ਚੀਅਨ ਡੈਮੋਕਰੇਸੀ
     pl: chrześcijańska demokracja
     pt: democracia cristã
-    pt-br: democracia cristã
+    pt_br: democracia cristã
     ro: democrație creștină
     ru: христианская демократия
     scn: cristian-dimucrazzìa
@@ -149,8 +149,8 @@ dv_has_:
     smn: ristâlâš demokratia
     sms: kriistlaž demokratia
     sr: хришћанска демократија
-    sr-ec: хришћанска демократија
-    sr-el: hrišćanska demokratija
+    sr_ec: хришћанска демократија
+    sr_el: hrišćanska demokratija
     sv: kristdemokrati
     th: ประชาธิปไตยคริสเตียน
     tr: Hristiyan demokrasisi
@@ -160,12 +160,12 @@ dv_has_:
     vi: Dân chủ Kitô giáo
     wa: Pårti catolike
     zh: 基督教民主主義
-    zh-cn: 基督教民主主义
-    zh-hans: 基督教民主主义
-    zh-hant: 基督教民主主義
-    zh-hk: 基督教民主主義
-    zh-sg: 基督教民主主义
-    zh-tw: 基督教民主主義
+    zh_cn: 基督教民主主义
+    zh_hans: 基督教民主主义
+    zh_hant: 基督教民主主義
+    zh_hk: 基督教民主主義
+    zh_sg: 基督教民主主义
+    zh_tw: 基督教民主主義
 ---
 # [[Christian_Democracy]] 
 

@@ -80,7 +80,7 @@ dv_has_:
     az: əmirlik
     ba: Әмирлек
     be: эмірат
-    be-tarask: эмірат
+    be_tarask: эмірат
     bg: Емирство
     bn: আমিরাত
     br: Emirelezh
@@ -145,8 +145,8 @@ dv_has_:
     smn: eemiirkodde
     sms: emiratt
     sr: емират
-    sr-ec: емират
-    sr-el: emirat
+    sr_ec: емират
+    sr_el: emirat
     sv: emirat
     sw: Emirati
     tg: иморат
@@ -164,12 +164,12 @@ dv_has_:
     xmf: საამირო
     yue: 酋長國
     zh: 酋长国
-    zh-cn: 酋长国
-    zh-hans: 酋长国
-    zh-hant: 酋長國
-    zh-hk: 酋長國
-    zh-sg: 酋长国
-    zh-tw: 大公國
+    zh_cn: 酋长国
+    zh_hans: 酋长国
+    zh_hant: 酋長國
+    zh_hk: 酋長國
+    zh_sg: 酋长国
+    zh_tw: 大公國
 ---
 # [[Emirate]] 
 

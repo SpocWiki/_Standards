@@ -189,7 +189,7 @@ dv_has_:
     ba: Мамыҡ
     bcl: Gapas
     be: бавоўна
-    be-tarask: бавоўна
+    be_tarask: бавоўна
     bg: Памук
     bjn: Kapas
     bn: তুলা
@@ -206,14 +206,14 @@ dv_has_:
     da: bomuld
     dag: gumdi
     de: Baumwollfaser
-    de-ch: Baumwollfaser
+    de_ch: Baumwollfaser
     din: Alath
     diq: Peme
     dty: कपास
     el: βαμβάκι
     en: cotton
-    en-ca: Cotton
-    en-gb: cotton
+    en_ca: Cotton
+    en_gb: cotton
     eo: kotono
     es: algodón
     et: Puuvill
@@ -295,7 +295,7 @@ dv_has_:
     pnb: کپاہ
     ps: پنبه
     pt: algodão
-    pt-br: algodão
+    pt_br: algodão
     qu: Utku
     ro: Bumbac
     ru: хлопок
@@ -326,7 +326,7 @@ dv_has_:
     tok: kasi len ko walo
     tr: pamuk
     tt: киҗе-мамык
-    tt-cyrl: киҗе-мамык
+    tt_cyrl: киҗе-мамык
     udm: хлопок
     ug: كېۋەز
     uk: бавовна
@@ -343,9 +343,9 @@ dv_has_:
     yue: 棉花
     za: Faiq
     zh: 棉花
-    zh-cn: 棉花
-    zh-hant: 棉花
-    zh-hk: 棉花
+    zh_cn: 棉花
+    zh_hant: 棉花
+    zh_hk: 棉花
 ---
 # [[Cotton]] 
 

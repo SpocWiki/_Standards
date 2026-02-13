@@ -236,7 +236,7 @@ dv_has_:
     azb: یحیی
     bcl: Juan Bautista
     be: Ян Хрысціцель
-    be-tarask: Ян Хрысьціцель
+    be_tarask: Ян Хрысьціцель
     bg: Йоан Кръстител
     bn: বাপ্তিস্মদাতা যোহন
     bpy: সাও জোয়াও বাটিস্টা
@@ -255,7 +255,7 @@ dv_has_:
     dv: ޔަޙްޔާގެފާނު
     el: Ιωάννης ο Βαπτιστής
     en: John the Baptist
-    en-gb: John the Baptist
+    en_gb: John the Baptist
     eo: Johano la Baptisto
     es: Juan el Bautista
     et: Ristija Johannes
@@ -315,7 +315,7 @@ dv_has_:
     pnb: یوحنا اصطباغی
     ps: يحيی
     pt: João Batista
-    pt-br: João Batista
+    pt_br: João Batista
     qu: Huwan Bawtista
     ro: Ioan Botezătorul
     ru: Иоанн Креститель
@@ -329,7 +329,7 @@ dv_has_:
     so: Nabi Yaxye C.S.
     sq: Gjon Pagëzori
     sr: Јован Крститељ
-    sr-ec: Јован Крститељ
+    sr_ec: Јован Крститељ
     sv: Johannes Döparen
     sw: Yohane Mbatizaji
     ta: திருமுழுக்கு யோவான்
@@ -348,7 +348,7 @@ dv_has_:
     yo: Johanu Onitebomi
     yue: 施洗約翰
     zh: 施洗約翰
-    zh-hant: 施洗約翰
+    zh_hant: 施洗約翰
 ---
 # [[John_the_Baptist]] 
 

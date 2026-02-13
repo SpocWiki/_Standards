@@ -216,7 +216,7 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_medicine,7112684]]'
 WordLift_URL: http://data.thenextweb.com/tnw/entity/medicine
 dv_has_:
   name_:
-    aeb-arab: طب
+    aeb_arab: طب
     af: geneeskunde
     am: ሕክምና
     an: medecina
@@ -233,7 +233,7 @@ dv_has_:
     ba: медицина
     bcl: Pagbulong
     be: медыцына
-    be-tarask: мэдыцына
+    be_tarask: мэдыцына
     bg: медицина
     bho: डाक्टरी (बिद्या)
     bi: Medisin
@@ -259,12 +259,12 @@ dv_has_:
     da: lægevidenskab
     dag: tim
     de: Medizin
-    de-ch: Medizin
+    de_ch: Medizin
     diq: Tıb
     el: ιατρική
     en: medicine
-    en-ca: Medicine
-    en-gb: medicine
+    en_ca: Medicine
+    en_gb: medicine
     eo: medicino
     es: medicina
     et: meditsiin
@@ -317,7 +317,7 @@ dv_has_:
     ko: 의학
     ks: یێلاج زان
     ku: bijîşkî
-    ku-latn: bijîşkî
+    ku_latn: bijîşkî
     kw: Medhegneth
     ky: Медицина
     la: Medicina
@@ -339,7 +339,7 @@ dv_has_:
     mni: ꯍꯤꯗꯥꯛꯂꯣꯟ
     mr: वैद्यकशास्त्र
     ms: perubatan
-    ms-arab: ڤراوبتن
+    ms_arab: ڤراوبتن
     mt: mediċina
     mwl: Medecina
     my: ဆေးပညာ
@@ -348,7 +348,7 @@ dv_has_:
     nap: Mericina
     nb: medisin
     nds: Medizin
-    nds-nl: genaeskeunde
+    nds_nl: genaeskeunde
     ne: चिकित्साशास्त्र
     nl: geneeskunde
     nn: medisin
@@ -368,7 +368,7 @@ dv_has_:
     pnb: طب
     ps: درملګري
     pt: medicina
-    pt-br: medicina
+    pt_br: medicina
     qu: Hampi yachay
     rm: Medischina
     ro: medicină
@@ -396,8 +396,8 @@ dv_has_:
     so: Daawo
     sq: mjekësi
     sr: медицина
-    sr-ec: медицина
-    sr-el: medicina
+    sr_ec: медицина
+    sr_el: medicina
     stq: Heelkunde
     su: Tatamba
     sv: medicinsk vetenskap
@@ -413,7 +413,7 @@ dv_has_:
     tr: tıp
     ts: Vutshunguri
     tt: медицина
-    tt-cyrl: медицина
+    tt_cyrl: медицина
     tum: Mankhwala
     udm: медицина
     ug: ئۇيغۇر تېبابىتى
@@ -434,11 +434,11 @@ dv_has_:
     yue: 醫學
     za: Ywhag
     zh: 医学
-    zh-cn: 医学
-    zh-hans: 医学
-    zh-hant: 醫學
-    zh-hk: 醫學
-    zh-tw: 醫學
+    zh_cn: 医学
+    zh_hans: 医学
+    zh_hant: 醫學
+    zh_hk: 醫學
+    zh_tw: 醫學
 ---
 # [[Medicine]] 
 

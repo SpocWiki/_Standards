@@ -193,7 +193,7 @@ dv_has_:
     bar: Botanik
     bcl: botanika
     be: батаніка
-    be-tarask: батаніка
+    be_tarask: батаніка
     bew: Èlmu tumbuan
     bg: ботаника
     bho: बनस्पति बिज्ञान
@@ -217,12 +217,12 @@ dv_has_:
     da: botanik
     de: Botanik
     de-at: Botanik
-    de-ch: Botanik
+    de_ch: Botanik
     diq: botanik
     dv: ގަހަވީ އިލްމު
     el: βοτανική
     en: botany
-    en-gb: botany
+    en_gb: botany
     eo: plantoscienco
     es: botánica
     et: botaanika
@@ -278,7 +278,7 @@ dv_has_:
     krj: botanika
     ks: کُلؠ عٔلِم
     ku: riwekzanî
-    ku-latn: riwekzanî
+    ku_latn: riwekzanî
     kw: losonieth
     ky: ботаника
     la: Botanice
@@ -292,7 +292,7 @@ dv_has_:
     lv: botānika
     mad: Botani
     mai: वनस्पति विज्ञान
-    map-bms: botani
+    map_bms: botani
     mg: botany
     mhr: ботанике
     mk: ботаника
@@ -301,7 +301,7 @@ dv_has_:
     mr: वनस्पतीशास्त्र
     mrj: ботаника
     ms: kaji tumbuhan
-    ms-arab: بوتاني
+    ms_arab: بوتاني
     mt: botanija
     my: ရုက္ခဗေဒ
     nah: tlanelhuayōmatiliztli
@@ -329,7 +329,7 @@ dv_has_:
     pnb: باٹنی
     ps: بوټپوهنه
     pt: botânica
-    pt-br: botânica
+    pt_br: botânica
     qu: butanika
     rki: ရုက္ခဗေဒ
     ro: botanică
@@ -383,14 +383,14 @@ dv_has_:
     yi: באטאניק
     yue: 植物學
     zh: 植物学
-    zh-cn: 植物学
-    zh-hans: 植物学
-    zh-hant: 植物学
-    zh-hk: 植物學
-    zh-mo: 植物學
+    zh_cn: 植物学
+    zh_hans: 植物学
+    zh_hant: 植物学
+    zh_hk: 植物學
+    zh_mo: 植物學
     zh-my: 植物学
-    zh-sg: 植物学
-    zh-tw: 植物學
+    zh_sg: 植物学
+    zh_tw: 植物學
 ---
 #has_/complement :: [[Zoology]] 
 #is_/same_as :: [[../../../../WikiData/WD~Botany,441|WD~Botany,441]] 

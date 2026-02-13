@@ -117,7 +117,7 @@ dv_has_:
     ast: Alphabet Inc.
     az: Alphabet
     be: Alphabet Inc.
-    be-tarask: Альфабэт
+    be_tarask: Альфабэт
     bg: Alphabet Inc.
     bn: আলফাবেট ইনকর্পোরেটেড
     bs: Alphabet Inc.
@@ -129,8 +129,8 @@ dv_has_:
     diq: Alphabet Inc.
     el: Alphabet
     en: Alphabet Inc.
-    en-ca: Alphabet Inc.
-    en-gb: Alphabet Inc.
+    en_ca: Alphabet Inc.
+    en_gb: Alphabet Inc.
     eo: Alphabet Inc
     es: Alphabet Inc.
     et: Alphabet Inc.
@@ -168,7 +168,7 @@ dv_has_:
     pl: Alphabet Inc.
     ps: الفابېټ
     pt: Alphabet Inc.
-    pt-br: Alphabet Inc.
+    pt_br: Alphabet Inc.
     ro: Alphabet Inc.
     ru: Alphabet Inc.
     sah: Alphabet Conglomerate
@@ -189,9 +189,9 @@ dv_has_:
     wuu: Alphabet
     yue: Alphabet
     zh: Alphabet
-    zh-hant: Alphabet公司
-    zh-hk: Alphabet
-    zh-tw: Alphabet公司
+    zh_hant: Alphabet公司
+    zh_hk: Alphabet
+    zh_tw: Alphabet公司
 ---
 # [[Alphabet_Inc]] 
 

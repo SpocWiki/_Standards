@@ -151,7 +151,7 @@ dv_has_:
     azb: درگی
     ba: Журнал
     be: часопіс
-    be-tarask: часопіс
+    be_tarask: часопіс
     bew: Majalah
     bg: списание
     bjn: Majalah
@@ -168,12 +168,12 @@ dv_has_:
     cy: cylchgrawn
     da: tidsskrift
     de: Zeitschrift
-    de-ch: Zeitschrift
+    de_ch: Zeitschrift
     diq: Pêseroki
     el: περιοδικό
     en: magazine
-    en-ca: magazine
-    en-gb: magazine
+    en_ca: magazine
+    en_gb: magazine
     eo: revuo
     es: revista
     et: ajakiri
@@ -230,7 +230,7 @@ dv_has_:
     nan: Cha̍p-chì
     nb: tidsskrift
     nds: Tiedschrift
-    nds-nl: tiedskrift
+    nds_nl: tiedskrift
     nl: tijdschrift
     nn: tidsskrift
     nrm: Magâsîn
@@ -244,7 +244,7 @@ dv_has_:
     pl: czasopismo
     pnb: رسالہ
     pt: revista
-    pt-br: revista
+    pt_br: revista
     qu: Riwista
     ro: revistă
     ru: журнал
@@ -266,7 +266,7 @@ dv_has_:
     so: Majaladda
     sq: revistë
     sr: часопис
-    sr-ec: часопис
+    sr_ec: часопис
     su: Campaka
     sv: tidskrift
     szl: Cajtszrift
@@ -291,11 +291,11 @@ dv_has_:
     yue: 雜誌
     za: Cabceiq
     zh: 杂志
-    zh-cn: 杂志
-    zh-hans: 杂志
-    zh-hant: 雜誌
-    zh-hk: 雜誌
-    zh-tw: 雜誌
+    zh_cn: 杂志
+    zh_hans: 杂志
+    zh_hant: 雜誌
+    zh_hk: 雜誌
+    zh_tw: 雜誌
 ---
 # [[Magazine]] 
 

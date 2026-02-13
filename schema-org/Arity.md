@@ -78,7 +78,7 @@ dv_has_:
     ast: aridá
     az: arilik
     be: арнасць
-    be-tarask: колькасьць апэрандаў
+    be_tarask: колькасьць апэрандаў
     bs: broj argumenata funkcije
     ca: aritat
     ckb: ئانێتی
@@ -111,24 +111,24 @@ dv_has_:
     oc: aritat
     pl: argumentowość
     pt: aridade
-    pt-br: aridade
+    pt_br: aridade
     ro: aritate
     ru: арность
     sh: Arnost
     sk: árnosť
     sl: arnost
     sr: арност
-    sr-ec: Арност
-    sr-el: Arnost
+    sr_ec: Арност
+    sr_el: Arnost
     sv: ställighet
     tl: Aridad
     tr: işlenen
     uk: арність
     vec: arietà
     zh: 元数
-    zh-hans: 元数
-    zh-hant: 元數
-    zh-hk: 元數
+    zh_hans: 元数
+    zh_hant: 元數
+    zh_hk: 元數
 ---
 # [[Arity]] 
 

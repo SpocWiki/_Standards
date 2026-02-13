@@ -225,7 +225,7 @@ dv_has_:
     bar: Weda
     bcl: panahon
     be: надвор'е
-    be-tarask: надвор’е
+    be_tarask: надвор’е
     bew: hawa
     bg: време
     bho: मौसम
@@ -244,13 +244,13 @@ dv_has_:
     cy: tywydd
     da: vejr
     de: Wetter
-    de-ch: Wetter
+    de_ch: Wetter
     diq: weziyetê heway
     dty: मौसम
     el: καιρός
     en: weather
-    en-ca: weather
-    en-gb: weather
+    en_ca: weather
+    en_gb: weather
     eo: vetero
     es: tiempo atmosférico
     et: ilm
@@ -319,14 +319,14 @@ dv_has_:
     mn: цаг агаар
     mr: हवामान
     ms: cuaca
-    ms-arab: چواچ
+    ms_arab: چواچ
     mt: temp
     my: မိုးလေဝသ
     myv: венелькс
     nan: thiⁿ-khì
     nb: vær
     nds: Wetter
-    nds-nl: weer
+    nds_nl: weer
     ne: मौसम
     new: लःफय्
     nl: weer
@@ -341,7 +341,7 @@ dv_has_:
     pnb: موسم
     pnt: βαχούτ'
     pt: tempo
-    pt-br: tempo
+    pt_br: tempo
     pwn: kalevelevan
     ro: vreme
     ru: погода
@@ -393,14 +393,14 @@ dv_has_:
     za: dienheiq
     zgh: ⴰⵏⵣⵡⵉ
     zh: 天氣
-    zh-cn: 天气
-    zh-hans: 天气
-    zh-hant: 天氣
-    zh-hk: 天氣
-    zh-mo: 天氣
+    zh_cn: 天气
+    zh_hans: 天气
+    zh_hant: 天氣
+    zh_hk: 天氣
+    zh_mo: 天氣
     zh-my: 天气
-    zh-sg: 天气
-    zh-tw: 天氣
+    zh_sg: 天气
+    zh_tw: 天氣
 ---
 # [[Weather]] 
 

@@ -128,7 +128,7 @@ dv_has_:
     bar: Leni Riefenstahl
     bcl: Leni Riefenstahl
     be: Лені Рыфеншталь
-    be-tarask: Лені Рыфэншталь
+    be_tarask: Лені Рыфэншталь
     bg: Лени Рифенщал
     bi: Leni Riefenstahl
     bn: লেনি রিফনশ্টাল
@@ -143,15 +143,15 @@ dv_has_:
     da: Leni Riefenstahl
     de: Leni Riefenstahl
     de-at: Leni Riefenstahl
-    de-ch: Leni Riefenstahl
+    de_ch: Leni Riefenstahl
     dsb: Leni Riefenstahl
     ee: Leni Riefenstahl
     egl: Leni Riefenstahl
     el: Λένι Ρίφενσταλ
     eml: Leni Riefenstahl
     en: Leni Riefenstahl
-    en-ca: Leni Riefenstahl
-    en-gb: Leni Riefenstahl
+    en_ca: Leni Riefenstahl
+    en_gb: Leni Riefenstahl
     eo: Leni Riefenstahl
     es: Leni Riefenstahl
     et: Leni Riefenstahl
@@ -206,7 +206,7 @@ dv_has_:
     lij: Leni Riefenstahl
     lt: Leni Riefenstahl
     lv: Lenija Rīfenštāle
-    map-bms: Leni Riefenstahl
+    map_bms: Leni Riefenstahl
     mg: Leni Riefenstahl
     min: Leni Riefenstahl
     mk: Лени Рифенштал
@@ -219,7 +219,7 @@ dv_has_:
     nap: Leni Riefenstahl
     nb: Leni Riefenstahl
     nds: Leni Riefenstahl
-    nds-nl: Leni Riefenstahl
+    nds_nl: Leni Riefenstahl
     new: लेनी रीफेन्स्टाल
     nl: Leni Riefenstahl
     nn: Leni Riefenstahl
@@ -237,7 +237,7 @@ dv_has_:
     pl: Leni Riefenstahl
     pms: Leni Riefenstahl
     pt: Leni Riefenstahl
-    pt-br: Leni Riefenstahl
+    pt_br: Leni Riefenstahl
     rm: Leni Riefenstahl
     rmy: Leni Riefenstahl
     ro: Leni Riefenstahl
@@ -259,7 +259,7 @@ dv_has_:
     sli: Leni Riefenstahl
     sq: Leni Riefenstahl
     sr: Лени Рифенштал
-    sr-el: Leni Riefenstahl
+    sr_el: Leni Riefenstahl
     stq: Leni Riefenstahl
     su: Leni Riefenstahl
     sv: Leni Riefenstahl
@@ -288,9 +288,9 @@ dv_has_:
     yue: 萊芬斯坦
     zea: Leni Riefenstahl
     zh: 莱尼·里芬斯塔尔
-    zh-hant: 蘭妮·萊芬斯坦
-    zh-sg: 兰妮·莱芬斯坦
-    zh-tw: 蘭妮·萊芬斯坦
+    zh_hant: 蘭妮·萊芬斯坦
+    zh_sg: 兰妮·莱芬斯坦
+    zh_tw: 蘭妮·萊芬斯坦
     zu: Leni Riefenstahl
 ---
 # [[Riefenstahl,Leni]] 

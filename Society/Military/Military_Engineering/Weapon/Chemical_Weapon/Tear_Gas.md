@@ -98,7 +98,7 @@ dv_has_:
     az: Gözyaşardıcı qaz
     ban: Gas yéh mata
     be: слёзатачывы газ
-    be-tarask: сьлезацечны газ
+    be_tarask: сьлезацечны газ
     bg: Сълзотворен газ
     bn: কাঁদানে গ্যাস
     ca: gas lacrimogen
@@ -106,11 +106,11 @@ dv_has_:
     cs: slzný plyn
     da: tåregas
     de: Reizstoff
-    de-ch: Reizstoff
+    de_ch: Reizstoff
     el: δακρυγόνο
     eml: Gas lagarmōl
     en: tear gas
-    en-ca: Tear gas
+    en_ca: Tear gas
     eo: larmiga gaso
     es: gas lacrimógeno
     et: Pisargaas
@@ -144,7 +144,7 @@ dv_has_:
     pnb: ہنجو گیس
     ps: اوښلن لوګی
     pt: gás lacrimogêneo
-    pt-br: gás lacrimogêneo
+    pt_br: gás lacrimogêneo
     ro: Gaz lacrimogen
     ru: слезоточивый газ
     sco: tear gas
@@ -165,12 +165,12 @@ dv_has_:
     wuu: 催泪弹
     yue: 催淚彈
     zh: 催淚彈
-    zh-cn: 催泪弹
-    zh-hans: 催泪弹
-    zh-hant: 催淚彈
-    zh-hk: 催淚彈
-    zh-sg: 催泪弹
-    zh-tw: 催淚彈
+    zh_cn: 催泪弹
+    zh_hans: 催泪弹
+    zh_hant: 催淚彈
+    zh_hk: 催淚彈
+    zh_sg: 催泪弹
+    zh_tw: 催淚彈
 ---
 # [[Tear_Gas]] 
 

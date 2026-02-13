@@ -125,7 +125,7 @@ NBN_System_Key: NBNSYS0000002801
 short_name: B. napus
 dv_has_:
   name_:
-    aeb-arab: لفت
+    aeb_arab: لفت
     ar: سلجم
     arz: سلجم
     ast: Colza
@@ -133,7 +133,7 @@ dv_has_:
     azb: راپس
     ba: Рапс
     be: рапс
-    be-tarask: рапс
+    be_tarask: рапс
     bg: рапица
     bho: रेपसीड
     bn: আবাদি সরিষা
@@ -173,11 +173,11 @@ dv_has_:
     ka: რაფსი
     kab: Ṛṛus
     kk: Рапс
-    kk-arab: راپس
+    kk_arab: راپس
     kk-cn: راپس
-    kk-cyrl: Рапс
+    kk_cyrl: Рапс
     kk-kz: Рапс
-    kk-latn: Raps
+    kk_latn: Raps
     kk-tr: Raps
     ko: 유채
     kw: ervinik
@@ -210,8 +210,8 @@ dv_has_:
     sl: navadna ogrščica
     sq: Brassica napus
     sr: уљана репица
-    sr-ec: Уљана репица
-    sr-el: Uljana repica
+    sr_ec: Уљана репица
+    sr_el: Uljana repica
     su: Brassica napus
     sv: Raps
     szl: Raps
@@ -229,10 +229,10 @@ dv_has_:
     yi: קאנאלא אויל
     yue: 油菜
     zh: 欧洲油菜
-    zh-cn: 欧洲油菜
-    zh-hans: 欧洲油菜
-    zh-hant: 西洋油菜
-    zh-tw: 歐洲油菜
+    zh_cn: 欧洲油菜
+    zh_hans: 欧洲油菜
+    zh_hant: 西洋油菜
+    zh_tw: 歐洲油菜
 ---
 # [[Rapeseed]] 
 

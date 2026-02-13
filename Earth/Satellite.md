@@ -182,7 +182,7 @@ dv_has_:
     az: süni peyk
     azb: ساتلایت
     be: штучны спадарожнік
-    be-tarask: штучны спадарожнік
+    be_tarask: штучны спадарожнік
     bg: изкуствен спътник
     bho: उपग्रह
     blk: ဂြိုဟ်ႏတု
@@ -199,8 +199,8 @@ dv_has_:
     dv: ސެޓެލައިޓް
     el: Τεχνητός δορυφόρος
     en: artificial satellite
-    en-ca: satellite
-    en-gb: satellite
+    en_ca: satellite
+    en_gb: satellite
     en-us: artificial satellite
     eo: artefarita satelito
     es: satélite artificial
@@ -258,7 +258,7 @@ dv_has_:
     mn: хиймэл дагуул
     mr: उपग्रह
     ms: satelit buatan
-    ms-arab: ساتليت بواتن
+    ms_arab: ساتليت بواتن
     mwl: satélite arteficial
     my: ဂြိုဟ်တု
     nan: Oē-chheⁿ
@@ -296,8 +296,8 @@ dv_has_:
     so: dayax gacmeed
     sq: sateliti artificial
     sr: вештачки сателит
-    sr-ec: вештачки сателит
-    sr-el: veštački satelit
+    sr_ec: вештачки сателит
+    sr_el: veštački satelit
     su: satelit
     sv: satellit
     sw: satelaiti
@@ -325,14 +325,14 @@ dv_has_:
     yi: סאטעליט
     yue: 人造衞星
     zh: 人造衛星
-    zh-cn: 人造卫星
-    zh-hans: 人造卫星
-    zh-hant: 人造衛星
-    zh-hk: 人造衞星
-    zh-mo: 人造衞星
+    zh_cn: 人造卫星
+    zh_hans: 人造卫星
+    zh_hant: 人造衛星
+    zh_hk: 人造衞星
+    zh_mo: 人造衞星
     zh-my: 人造卫星
-    zh-sg: 人造卫星
-    zh-tw: 人造衛星
+    zh_sg: 人造卫星
+    zh_tw: 人造衛星
     zu: Isivoko
 ---
 # [[Satellite]] 

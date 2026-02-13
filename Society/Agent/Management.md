@@ -146,7 +146,7 @@ dv_has_:
     ba: менеджмент
     bar: Management
     be: менеджмент
-    be-tarask: мэнэджмэнт
+    be_tarask: мэнэджмэнт
     bg: мениджмънт
     bn: ব্যবস্থাপনা
     br: Management
@@ -185,9 +185,9 @@ dv_has_:
     ka: მენეჯმენტი
     kaa: menedjment
     kk: менеджмент
-    kk-arab: مەنەدجمەنت
-    kk-cyrl: менеджмент
-    kk-latn: Menedjment
+    kk_arab: مەنەدجمەنت
+    kk_cyrl: менеджмент
+    kk_latn: Menedjment
     kn: ವ್ಯವಹಾರ ನಿವ೯ಹಣೆ
     ko: 경영
     ks: نِظامَتھ
@@ -204,7 +204,7 @@ dv_has_:
     mn: менежмент
     mr: मॅनेजमेंट
     ms: pengurusan
-    ms-arab: ڤڠوروسن
+    ms_arab: ڤڠوروسن
     mwl: Admenistraçon
     my: စီမံခန့်ခွဲခြင်း
     nan: Koán-lí-ha̍k
@@ -218,7 +218,7 @@ dv_has_:
     pl: zarządzanie
     ps: سمبالښت
     pt: gestão
-    pt-br: administração
+    pt_br: administração
     ro: management
     ru: менеджмент
     scn: Amministraturi
@@ -231,8 +231,8 @@ dv_has_:
     sn: Humaneja
     sq: menaxhim
     sr: руковођење
-    sr-ec: руковођење
-    sr-el: rukovođenje
+    sr_ec: руковођење
+    sr_el: rukovođenje
     sv: ledning
     sw: Usimamizi
     ta: மேலாண்மை
@@ -250,11 +250,11 @@ dv_has_:
     yi: פירערשאפט
     yue: 管理學
     zh: 管理学
-    zh-cn: 管理学
-    zh-hans: 管理学
-    zh-hant: 管理學
-    zh-hk: 管理學
-    zh-tw: 管理學
+    zh_cn: 管理学
+    zh_hans: 管理学
+    zh_hant: 管理學
+    zh_hk: 管理學
+    zh_tw: 管理學
 ---
 # [[Management]] 
 

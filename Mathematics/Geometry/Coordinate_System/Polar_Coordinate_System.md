@@ -87,7 +87,7 @@ dv_has_:
     az: Qütb koordinat sistemi
     ba: Поляр координаталар системаһы
     be: палярная сістэма каардынат
-    be-tarask: палярная сыстэма каардынат
+    be_tarask: палярная сыстэма каардынат
     bg: Полярна координатна система
     bn: পোলার স্থানাঙ্ক ব্যবস্থা
     bs: Polarne koordinate
@@ -142,7 +142,7 @@ dv_has_:
     sl: polarni koordinatni sistem
     sq: Sistemi koordinativ polar
     sr: Поларни координатни систем
-    sr-ec: Поларни координатни систем
+    sr_ec: Поларни координатни систем
     sv: polära koordinater
     ta: வாள்முனை ஆள்கூற்று முறைமை
     th: ระบบพิกัดเชิงขั้ว
@@ -152,7 +152,7 @@ dv_has_:
     wuu: 极坐标系
     yue: 極坐標系統
     zh: 极坐标系
-    zh-hans: 极坐标系
+    zh_hans: 极坐标系
 ---
 # [[Polar_Coordinate_System]] 
 

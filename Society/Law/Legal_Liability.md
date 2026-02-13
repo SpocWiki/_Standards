@@ -64,7 +64,7 @@ dv_has_:
     ar: مسؤولية قانونية
     az: Hüquqi məsuliyyət
     be: юрыдычная адказнасць
-    be-tarask: праўная адказнасьць
+    be_tarask: праўная адказнасьць
     bg: Юридическа отговорност
     ca: responsabilitat jurídica
     cs: Právní odpovědnost
@@ -95,8 +95,8 @@ dv_has_:
     sl: zakonska odgovornost
     so: Qaan xeer
     sr: правна одговорност
-    sr-ec: правна одговорност
-    sr-el: pravna odgovornost
+    sr_ec: правна одговорност
+    sr_el: pravna odgovornost
     sv: juridiskt ansvar
     tr: yasal sorumluluk
     uk: юридична відповідальність
@@ -104,14 +104,14 @@ dv_has_:
     uz: Yuridik javobgarlik
     yue: 法律責任
     zh: 法律责任
-    zh-cn: 法律责任
-    zh-hans: 法律责任
-    zh-hant: 法律責任
-    zh-hk: 法律責任
-    zh-mo: 法律責任
+    zh_cn: 法律责任
+    zh_hans: 法律责任
+    zh_hant: 法律責任
+    zh_hk: 法律責任
+    zh_mo: 法律責任
     zh-my: 法律责任
-    zh-sg: 法律责任
-    zh-tw: 法律責任
+    zh_sg: 法律责任
+    zh_tw: 法律責任
     zu: Isimelo somthetho
 ---
 # [[Legal_Liability]] 

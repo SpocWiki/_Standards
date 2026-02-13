@@ -113,7 +113,7 @@ dv_has_:
     ba: Сперма
     bcl: kasit
     be: Сперма
-    be-tarask: Кнура
+    be_tarask: Кнура
     bg: сперма
     bn: বীর্য
     br: Sper
@@ -131,8 +131,8 @@ dv_has_:
     el: σπέρμα
     eml: Śbòra
     en: semen
-    en-ca: semen
-    en-gb: semen
+    en_ca: semen
+    en_gb: semen
     eo: ejakulaĵo
     es: semen
     et: Sperma
@@ -163,7 +163,7 @@ dv_has_:
     kn: ವೀರ್ಯ
     ko: 정액
     ku: spermeav
-    ku-latn: tovav
+    ku_latn: tovav
     ky: Сперма
     la: Eiaculatum
     lfn: Semin
@@ -185,7 +185,7 @@ dv_has_:
     pl: sperma
     ps: مني (مايع)
     pt: Sémen
-    pt-br: Sémen
+    pt_br: Sémen
     qu: Yuma
     ro: Spermă
     ru: сперма

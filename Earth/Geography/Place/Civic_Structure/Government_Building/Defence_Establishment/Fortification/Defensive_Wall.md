@@ -93,7 +93,7 @@ dv_has_:
     ast: Muralla
     az: Müdafiə divarı
     be: Абарончая сцяна
-    be-tarask: абарончы мур
+    be_tarask: абарончы мур
     bg: Отбранителна стена
     br: Mogeriadur
     ca: muralla
@@ -105,8 +105,8 @@ dv_has_:
     diq: sur
     el: οχυρωματικό τείχος
     en: defensive wall
-    en-ca: defensive wall
-    en-gb: defensive wall
+    en_ca: defensive wall
+    en_gb: defensive wall
     eo: remparo
     es: muralla
     et: Linnamüür
@@ -131,14 +131,14 @@ dv_has_:
     mk: бедем
     ms: Tembok pertahanan
     nb: forsvarsmur
-    nds-nl: stadswal
+    nds_nl: stadswal
     nl: weermuur
     nn: Bymur
     oc: Muralha
     pl: mur obronny
     pnb: فصیل
     pt: muralha
-    pt-br: muralha
+    pt_br: muralha
     ro: zid de apărare
     ru: городские стены
     sco: Fleet-dyke
@@ -146,7 +146,7 @@ dv_has_:
     sk: hradba
     sl: obrambno obzidje
     sr: бедем
-    sr-ec: Бедем
+    sr_ec: Бедем
     sv: ringmur
     ta: சுவர்
     th: กำแพงป้องกัน
@@ -159,8 +159,8 @@ dv_has_:
     wuu: 城墙
     yue: 城牆
     zh: 城墙
-    zh-cn: 城墙
-    zh-hans: 城墙
+    zh_cn: 城墙
+    zh_hans: 城墙
 ---
 # [[Defensive_Wall]] 
 

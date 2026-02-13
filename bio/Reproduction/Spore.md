@@ -83,7 +83,7 @@ dv_has_:
     ast: Espora
     az: Sporlar
     be: споры
-    be-tarask: зароднік
+    be_tarask: зароднік
     bg: Спора
     bn: অণুবীজ
     bs: Spora
@@ -119,15 +119,15 @@ dv_has_:
     ja: 胞子
     ka: სპორა
     kk: Спора
-    kk-arab: سپورا
+    kk_arab: سپورا
     kk-cn: سپورا
-    kk-cyrl: Спора
+    kk_cyrl: Спора
     kk-kz: Спора
-    kk-latn: Spora
+    kk_latn: Spora
     kk-tr: Spora
     ko: 포자
     ku: Spor
-    ku-latn: spor
+    ku_latn: spor
     ky: Споралар
     la: Spora
     lt: Spora
@@ -159,12 +159,12 @@ dv_has_:
     wuu: 孢子
     yue: 孢子
     zh: 孢子
-    zh-cn: 孢子
-    zh-hans: 孢子
-    zh-hant: 孢子
-    zh-hk: 孢子
-    zh-sg: 孢子
-    zh-tw: 孢子
+    zh_cn: 孢子
+    zh_hans: 孢子
+    zh_hant: 孢子
+    zh_hk: 孢子
+    zh_sg: 孢子
+    zh_tw: 孢子
 ---
 # [[Spore]] 
 

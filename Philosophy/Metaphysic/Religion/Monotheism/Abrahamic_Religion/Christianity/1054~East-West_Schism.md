@@ -100,7 +100,7 @@ dv_has_:
     ast: Cisma d'Oriente
     az: Xristianlıqda bölünmə
     be: Раскол хрысціянскай царквы 1054 года
-    be-tarask: Вялікая схізма
+    be_tarask: Вялікая схізма
     bg: Източно-западна схизма
     bn: পূর্ব–পশ্চিম ধর্মবিচ্ছেদ
     br: Skism Kornôg-Reter
@@ -111,11 +111,11 @@ dv_has_:
     cy: Y Sgism Fawr
     da: Det store skisma 1054
     de: Morgenländisches Schisma
-    de-ch: Morgenländisches Schisma
+    de_ch: Morgenländisches Schisma
     el: Σχίσμα του 1054
     en: East-West Schism
-    en-ca: East–West Schism
-    en-gb: East–West Schism
+    en_ca: East–West Schism
+    en_gb: East–West Schism
     eo: Orienta skismo
     es: Cisma de Oriente y Occidente
     et: Suur kirikulõhe
@@ -160,7 +160,7 @@ dv_has_:
     pnb: تفرقۂ عظیم
     ps: د ختیځ او لوېدیځ وېش
     pt: Grande Cisma do Oriente
-    pt-br: Grande Cisma do Oriente
+    pt_br: Grande Cisma do Oriente
     ro: Marea Schismă
     ru: Разделение церквей
     scn: Scisma Granni

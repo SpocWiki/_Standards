@@ -170,7 +170,7 @@ dv_has_:
     az: Procter & Gamble
     ba: Procter & Gamble
     be: Procter & Gamble
-    be-tarask: Procter & Gamble
+    be_tarask: Procter & Gamble
     bg: Проктър и Гембъл
     bn: প্রক্টর অ্যান্ড গ্যাম্বল
     ca: Procter & Gamble
@@ -235,12 +235,12 @@ dv_has_:
     wuu: 宝洁
     yue: 寶潔
     zh: 宝洁公司
-    zh-cn: 宝洁公司
-    zh-hans: 宝洁公司
-    zh-hant: 寶鹼公司
-    zh-hk: 寶潔公司
-    zh-sg: 宝洁公司
-    zh-tw: 寶僑公司
+    zh_cn: 宝洁公司
+    zh_hans: 宝洁公司
+    zh_hant: 寶鹼公司
+    zh_hk: 寶潔公司
+    zh_sg: 宝洁公司
+    zh_tw: 寶僑公司
 ---
 #is_/same_as :: [[WD~Procter_&_Gamble,212405]] 
 

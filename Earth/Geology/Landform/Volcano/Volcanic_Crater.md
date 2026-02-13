@@ -97,7 +97,7 @@ dv_has_:
     ast: Cráter volcánicu
     az: krater
     be: Вулканічны кратар
-    be-tarask: жарало вулькана
+    be_tarask: жарало вулькана
     bg: Вулканичен кратер
     bn: আগ্নেয় গিরিখাত
     ca: cràter volcànic
@@ -106,11 +106,11 @@ dv_has_:
     cy: crater folcanig
     da: Vulkankrater
     de: Vulkanausbruch
-    de-ch: Vulkankrater
+    de_ch: Vulkankrater
     el: Ηφαιστειακός κρατήρας
     en: volcanic crater
-    en-ca: Volcanic crater
-    en-gb: volcanic crater
+    en_ca: Volcanic crater
+    en_gb: volcanic crater
     eo: vulkana kratero
     es: cráter volcánico
     et: Kraater
@@ -131,7 +131,7 @@ dv_has_:
     ja: 火口
     ka: ვულკანური კრატერი
     kk: жанартау кратері
-    kk-latn: janartaw krateri
+    kk_latn: janartaw krateri
     ko: 화구
     ky: кратер
     la: Crater vulcanicus
@@ -148,7 +148,7 @@ dv_has_:
     oc: Cratèr volcanic
     pl: krater wulkaniczny
     pt: cratera vulcânica
-    pt-br: Cratera vulcânica
+    pt_br: Cratera vulcânica
     qu: Nina urqu luq'u
     ro: Crater vulcanic
     ru: вулканический кратер
@@ -167,12 +167,12 @@ dv_has_:
     xmf: ვულკანური კრატერი
     yue: 火山竉
     zh: 火山口
-    zh-cn: 火山口
-    zh-hans: 火山口
-    zh-hant: 火山口
-    zh-hk: 火山口
-    zh-sg: 火山口
-    zh-tw: 火山口
+    zh_cn: 火山口
+    zh_hans: 火山口
+    zh_hant: 火山口
+    zh_hk: 火山口
+    zh_sg: 火山口
+    zh_tw: 火山口
     zu: Isigqabhozi sentshaba
 ---
 # [[Volcanic_Crater]] 

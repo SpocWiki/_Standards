@@ -116,7 +116,7 @@ dv_has_:
     az: dadaizm
     azb: دادائیسم
     be: дадаізм
-    be-tarask: дадаізм
+    be_tarask: дадаізм
     bg: Дадаизъм
     bn: ডাডা
     br: Dada
@@ -128,7 +128,7 @@ dv_has_:
     de: Dadaismus
     el: ντανταϊσμός
     en: Dada
-    en-gb: Dada
+    en_gb: Dada
     eo: dadaismo
     es: Dada
     et: dadaism
@@ -176,7 +176,7 @@ dv_has_:
     pl: dadaizm
     pnb: ڈاڈا
     pt: Dadaísmo
-    pt-br: Dadaísmo
+    pt_br: Dadaísmo
     rki: ဒါဒါဝါဒ
     ro: Dada
     ru: дадаизм
@@ -194,8 +194,8 @@ dv_has_:
     sms: dadaismm
     sq: dadaizmi
     sr: дадаизам
-    sr-ec: Дада
-    sr-el: dadaizam
+    sr_ec: Дада
+    sr_el: dadaizam
     sv: dadaism
     szl: Dadajizm
     ta: ஆடுகுதிரைவாதம்
@@ -210,8 +210,8 @@ dv_has_:
     wuu: 达达主义
     yue: 達達主義
     zh: 達達主義
-    zh-hans: 达达主义
-    zh-hant: 達達主義
+    zh_hans: 达达主义
+    zh_hant: 達達主義
 ---
 # [[Dada]] 
 

@@ -193,7 +193,7 @@ dv_has_:
     bar: Tanganjikasee
     bcl: Danaw Tanganyika
     be: Возера Танганьіка
-    be-tarask: Танганьіка
+    be_tarask: Танганьіка
     bg: Танганика
     bho: टैंगानिका झील
     bn: তাংগানিকা হ্রদ
@@ -210,12 +210,12 @@ dv_has_:
     cy: Llyn Tanganyika
     da: Tanganyikasøen
     de: Tanganjikasee
-    de-ch: Tanganjikasee
+    de_ch: Tanganjikasee
     diq: Golê Tanganikayi
     el: Τανγκανίκα
     en: Lake Tanganyika
-    en-ca: Lake Tanganyika
-    en-gb: Lake Tanganyika
+    en_ca: Lake Tanganyika
+    en_gb: Lake Tanganyika
     eo: Tanganjiko
     es: lago Tanganica
     et: Tanganjika järv
@@ -281,7 +281,7 @@ dv_has_:
     pms: Lagh Tanganica
     pnb: جھیل ٹانگانیکا
     pt: Lago Tanganica
-    pt-br: Lago Tanganica
+    pt_br: Lago Tanganica
     qu: Tanganika qucha
     rn: Tanganyika
     ro: Lacul Tanganyika
@@ -320,8 +320,8 @@ dv_has_:
     yi: טאנגאניקע אזערע
     yue: 坦噶尼喀湖
     zh: 坦干依喀湖
-    zh-cn: 坦噶尼喀湖
-    zh-hans: 坦噶尼喀湖
+    zh_cn: 坦噶尼喀湖
+    zh_hans: 坦噶尼喀湖
 ---
 # [[Lake_Tanganyika]] 
 

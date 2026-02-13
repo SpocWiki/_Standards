@@ -31,7 +31,7 @@ dv_has_:
     bcl: hukol
     bdr: Gaba
     be: прылівы і адлівы
-    be-tarask: прыплыў і адплыў
+    be_tarask: прыплыў і адплыў
     bg: приливи и отливи
     bho: ज्वार भाटा
     bn: জোয়ার-ভাটা
@@ -48,8 +48,8 @@ dv_has_:
     de: Gezeiten
     el: Παλίρροια
     en: tide
-    en-ca: tide
-    en-gb: tide
+    en_ca: tide
+    en_gb: tide
     eo: tajdo
     es: marea
     et: looded
@@ -103,7 +103,7 @@ dv_has_:
     pl: pływy morskie
     pnb: جوار بھاٹا
     pt: maré
-    pt-br: maré
+    pt_br: maré
     ro: maree
     ru: прилив и отлив
     scn: marea
@@ -128,14 +128,14 @@ dv_has_:
     wuu: 潮汐
     yue: 潮
     zh: 潮汐
-    zh-cn: 潮汐
-    zh-hans: 潮汐
-    zh-hant: 潮汐
-    zh-hk: 潮汐
-    zh-mo: 潮汐
+    zh_cn: 潮汐
+    zh_hans: 潮汐
+    zh_hant: 潮汐
+    zh_hk: 潮汐
+    zh_mo: 潮汐
     zh-my: 潮汐
-    zh-sg: 潮汐
-    zh-tw: 潮汐
+    zh_sg: 潮汐
+    zh_tw: 潮汐
 aliases:
 - Aestus
 - batica dhe zbatica

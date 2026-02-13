@@ -175,7 +175,7 @@ dv_has_:
     bar: Gabriel García Márquez
     bcl: Gabriel García Márquez
     be: Габрыэль Гарсія Маркес
-    be-tarask: Габрыель Гарсія Маркес
+    be_tarask: Габрыель Гарсія Маркес
     bg: Габриел Гарсия Маркес
     bi: Gabriel García Márquez
     bn: গাব্রিয়েল গার্সিয়া মার্কেস
@@ -184,7 +184,7 @@ dv_has_:
     btm: Gabriel García Márquez
     bxr: Габриэль Гарсиа Маркес
     ca: Gabriel García Márquez
-    cbk-zam: Gabriel García Márquez
+    cbk_zam: Gabriel García Márquez
     ce: Гарсиа Маркес, Габриэль
     ceb: Gabriel García Márquez
     ckb: گابریێل گارسیا مارکێز
@@ -194,12 +194,12 @@ dv_has_:
     cy: Gabriel García Márquez
     da: Gabriel García Márquez
     de: Gabriel García Márquez
-    de-ch: Gabriel García Márquez
+    de_ch: Gabriel García Márquez
     diq: Gabriel García Márquez
     el: Γκαμπριέλ Γκαρσία Μάρκες
     en: Gabriel García Márquez
-    en-ca: Gabriel García Márquez
-    en-gb: Gabriel García Márquez
+    en_ca: Gabriel García Márquez
+    en_gb: Gabriel García Márquez
     eo: Gabriel García Márquez
     es: Gabriel García Márquez
     et: Gabriel García Márquez
@@ -283,7 +283,7 @@ dv_has_:
     pms: Gabriel García Márquez
     pnb: گیبرل مارکویئز
     pt: Gabriel García Márquez
-    pt-br: Gabriel García Márquez
+    pt_br: Gabriel García Márquez
     qu: Gabriel García Márquez
     ro: Gabriel García Márquez
     rsk: Ґабриєл Ґарсия Маркес
@@ -302,8 +302,8 @@ dv_has_:
     smn: Gabriel García Márquez
     sq: Gabriel García Márquez
     sr: Габријел Гарсија Маркес
-    sr-ec: Габријел Гарсија Маркес
-    sr-el: Gabrijel Garsija Markes
+    sr_ec: Габријел Гарсија Маркес
+    sr_el: Gabrijel Garsija Markes
     sv: Gabriel García Márquez
     sw: Gabriel García Márquez
     ta: கபிரியேல் கார்சியா மார்க்கேஸ்
@@ -330,8 +330,8 @@ dv_has_:
     yue: 瑪律克斯
     zgh: ⴳⴰⴱⵔⵉⵢⵉⵍ ⴳⴰⵔⵙⵉⵢⴰ ⵎⴰⵔⴽⵉⵙ
     zh: 加夫列尔·加西亚·马尔克斯
-    zh-cn: 加夫列尔·加西亚·马尔克斯
-    zh-hans: 加夫列尔·加西亚·马尔克斯
+    zh_cn: 加夫列尔·加西亚·马尔克斯
+    zh_hans: 加夫列尔·加西亚·马尔克斯
 ---
 # [[Márquez,Gabriel_García]] 
 

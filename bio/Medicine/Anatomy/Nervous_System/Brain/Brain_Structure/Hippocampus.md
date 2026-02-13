@@ -36,7 +36,7 @@ dv_has_:
     ban: Jaran segara
     bcl: kabayong dagat
     be: марскія конікі
-    be-tarask: канярыбка
+    be_tarask: канярыбка
     bew: Tangkur
     bg: морски кончета
     bn: জলঘোড়া
@@ -51,11 +51,11 @@ dv_has_:
     cy: morfarch
     da: søhest
     de: Seepferdchen
-    de-ch: Seepferdchen
+    de_ch: Seepferdchen
     el: Ιππόκαμπος
     en: Hippocampus
-    en-ca: Seahorse
-    en-gb: seahorse
+    en_ca: Seahorse
+    en_gb: seahorse
     eo: Hipokampo
     es: Hippocampus
     et: Merihobuke
@@ -95,7 +95,7 @@ dv_has_:
     ml: കടൽക്കുതിര
     mni: ꯏꯁꯤꯡ ꯁꯀꯣꯜ
     ms: kuda laut
-    ms-arab: کودا لاءوت
+    ms_arab: کودا لاءوت
     mul: Hippocampus
     my: ရေနဂါး
     nan: Hái-bé
@@ -110,7 +110,7 @@ dv_has_:
     pl: pławikoniki
     pnb: سمندری گھوڑا
     pt: Cavalo-marinho
-    pt-br: Cavalo-marinho
+    pt_br: Cavalo-marinho
     qu: Challwatayka
     ro: Hippocampus
     ru: морские коньки
@@ -136,10 +136,10 @@ dv_has_:
     wuu: 水马
     yue: 海馬
     zh: 海马属
-    zh-cn: 海马属
-    zh-hans: 海马属
-    zh-hant: 海馬
-    zh-tw: 海馬屬
+    zh_cn: 海马属
+    zh_hans: 海马属
+    zh_hant: 海馬
+    zh_tw: 海馬屬
 aliases:
 - Cabalo de mar
 - capall mara

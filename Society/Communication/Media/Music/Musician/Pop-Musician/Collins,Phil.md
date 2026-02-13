@@ -195,7 +195,7 @@ dv_has_:
     az: Fil Kollins
     azb: فیل کالینز
     be: Філ Колінз
-    be-tarask: Філ Колінз
+    be_tarask: Філ Колінз
     bg: Фил Колинс
     bn: ফিল কলিন্স
     bs: Phil Collins
@@ -206,13 +206,13 @@ dv_has_:
     da: Phil Collins
     dag: Phil Collins
     de: Phil Collins
-    de-ch: Phil Collins
+    de_ch: Phil Collins
     dv: ފިލްކޮލިންސް
     el: Φιλ Κόλινς
     eml: Phil Collins
     en: Phil Collins
-    en-ca: Phil Collins
-    en-gb: Phil Collins
+    en_ca: Phil Collins
+    en_gb: Phil Collins
     en-us: Phil Collins
     eo: Phil Collins
     es: Phil Collins
@@ -256,7 +256,7 @@ dv_has_:
     pl: Phil Collins
     pms: Phil Collins
     pt: Phil Collins
-    pt-br: Phil Collins
+    pt_br: Phil Collins
     ro: Phil Collins
     ru: Фил Коллинз
     sco: Phil Collins
@@ -266,8 +266,8 @@ dv_has_:
     sl: Phil Collins
     sq: Phil Collins
     sr: Фил Колинс
-    sr-ec: Фил Колинс
-    sr-el: Fil Kolins
+    sr_ec: Фил Колинс
+    sr_el: Fil Kolins
     su: Phil Collins
     sv: Phil Collins
     szl: Phil Collins
@@ -283,13 +283,13 @@ dv_has_:
     wuu: 菲尔·柯林斯
     yue: 菲·哥連斯
     zh: 菲爾·柯林斯
-    zh-cn: 菲尔·柯林斯
-    zh-hans: 菲尔·柯林斯
-    zh-hant: 菲爾·柯林斯
-    zh-hk: 菲爾·柯林斯
+    zh_cn: 菲尔·柯林斯
+    zh_hans: 菲尔·柯林斯
+    zh_hant: 菲爾·柯林斯
+    zh_hk: 菲爾·柯林斯
     zh-my: 菲尔·柯林斯
-    zh-sg: 菲尔·柯林斯
-    zh-tw: 菲爾·柯林斯
+    zh_sg: 菲尔·柯林斯
+    zh_tw: 菲爾·柯林斯
 ---
 # [[Collins,Phil]] 
 

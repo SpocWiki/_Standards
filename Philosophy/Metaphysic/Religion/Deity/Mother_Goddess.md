@@ -72,7 +72,7 @@ dv_has_:
     ast: Diosa madre
     az: İlahə ana
     bar: Muadageddin
-    be-tarask: маці-багавіца
+    be_tarask: маці-багавіца
     bg: Богиня майка
     bn: মাতৃদেবী
     ca: deessa mare
@@ -107,7 +107,7 @@ dv_has_:
     mk: божица мајка
     ml: അമ്മ ദൈവം
     nb: modergudinne
-    nds-nl: modergodinne
+    nds_nl: modergodinne
     nl: moedergodin
     pa: ਮਾਂ ਦੇਵੀ
     pl: Bogini Matka
@@ -116,8 +116,8 @@ dv_has_:
     ru: Богиня-мать
     sl: boginja mati
     sr: Богиња мајка
-    sr-ec: Богиња мајка
-    sr-el: Boginja majka
+    sr_ec: Богиња мајка
+    sr_el: Boginja majka
     sv: modergudinna
     te: దేవమాత
     tr: ana tanrıça
@@ -125,12 +125,12 @@ dv_has_:
     ur: دیوی ماں
     vi: Mẫu thần
     zh: 地母神
-    zh-cn: 地母神
-    zh-hans: 地母神
-    zh-hant: 地母神
-    zh-hk: 地母神
-    zh-sg: 地母神
-    zh-tw: 地母神
+    zh_cn: 地母神
+    zh_hans: 地母神
+    zh_hant: 地母神
+    zh_hk: 地母神
+    zh_sg: 地母神
+    zh_tw: 地母神
 ---
 # [[Mother_Goddess]] 
 

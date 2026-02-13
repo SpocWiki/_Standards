@@ -78,7 +78,7 @@ dv_has_:
     ast: Embraer
     az: Embraer
     be: Эмбраэр
-    be-tarask: Эмбраэр
+    be_tarask: Эмбраэр
     bg: Ембраер
     bn: এমব্রায়ার
     ca: Embraer
@@ -122,8 +122,8 @@ dv_has_:
     sl: Embraer
     sq: Embraer
     sr: Ембраер
-    sr-ec: Ембраер
-    sr-el: Embraer
+    sr_ec: Ембраер
+    sr_el: Embraer
     sv: Embraer
     ta: எம்பிராயெர்
     tr: Embraer
@@ -131,12 +131,12 @@ dv_has_:
     vi: Embraer
     yue: 巴西航空工業
     zh: 巴西航空工业公司
-    zh-cn: 巴西航空工业公司
-    zh-hans: 巴西航空工业公司
-    zh-hant: 巴西航空工業公司
-    zh-hk: 巴西航空工業公司
-    zh-sg: 巴西航空工业公司
-    zh-tw: 巴西航空工業公司
+    zh_cn: 巴西航空工业公司
+    zh_hans: 巴西航空工业公司
+    zh_hant: 巴西航空工業公司
+    zh_hk: 巴西航空工業公司
+    zh_sg: 巴西航空工业公司
+    zh_tw: 巴西航空工業公司
 ---
 # [[Embraer]] 
 

@@ -109,7 +109,7 @@ dv_has_:
     az: Edvard Qriq
     ba: Эдвард Григ
     be: Эдвард Грыг
-    be-tarask: Эдвард Грыг
+    be_tarask: Эдвард Грыг
     bg: Едвард Григ
     br: Edvard Grieg
     bs: Edvard Grieg
@@ -120,12 +120,12 @@ dv_has_:
     cy: Edvard Grieg
     da: Edvard Grieg
     de: Edvard Grieg
-    de-ch: Edvard Grieg
+    de_ch: Edvard Grieg
     diq: Edvard Grieg
     el: Έντβαρντ Γκριγκ
     en: Edvard Grieg
-    en-ca: Edvard Grieg
-    en-gb: Edvard Grieg
+    en_ca: Edvard Grieg
+    en_gb: Edvard Grieg
     eo: Edvard Grieg
     es: Edvard Grieg
     et: Edvard Grieg
@@ -166,7 +166,7 @@ dv_has_:
     nan: Edvard Grieg
     nb: Edvard Grieg
     nds: Edvard Grieg
-    nds-nl: Edvard Grieg
+    nds_nl: Edvard Grieg
     nl: Edvard Grieg
     nn: Edvard Grieg
     oc: Edvard Grieg
@@ -175,7 +175,7 @@ dv_has_:
     pl: Edvard Hagerup Grieg
     pms: Edvard Grieg
     pt: Edvard Grieg
-    pt-br: Edvard Grieg
+    pt_br: Edvard Grieg
     qu: Edvard Grieg
     rmf: Edvard Grieg
     ro: Edvard Grieg
@@ -213,7 +213,7 @@ dv_has_:
     yi: עדווארד גריג
     yue: 葛利格
     zh: 爱德华·格里格
-    zh-tw: 愛德華·葛利格
+    zh_tw: 愛德華·葛利格
 ---
 # [[Grieg,Edvard]] 
 

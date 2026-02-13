@@ -160,7 +160,7 @@ dv_has_:
     ba: Йыуан эсәк
     bcl: Dakulang bituka
     be: тоўсты кішэчнік
-    be-tarask: тоўстая кішка
+    be_tarask: тоўстая кішка
     bew: Iso
     bg: Дебело черво
     bn: বৃহদন্ত্র
@@ -270,9 +270,9 @@ dv_has_:
     yue: 大腸
     za: Saejlaux
     zh: 大肠
-    zh-hans: 大肠
-    zh-hant: 大腸
-    zh-tw: 大腸
+    zh_hans: 大肠
+    zh_hant: 大腸
+    zh_tw: 大腸
 ---
 # [[Large_Intestine]] 
 

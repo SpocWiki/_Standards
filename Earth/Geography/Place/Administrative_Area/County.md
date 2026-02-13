@@ -127,7 +127,7 @@ dv_has_:
     azb: بولگه
     bar: Grafschoft
     be: графства
-    be-tarask: графства
+    be_tarask: графства
     bg: Графство
     bn: কাউন্টি
     bpy: কোন্ডাডো
@@ -143,11 +143,11 @@ dv_has_:
     cy: sir
     da: County
     de: County
-    de-ch: County
+    de_ch: County
     el: κομητεία
     en: county
-    en-ca: county
-    en-gb: county
+    en_ca: county
+    en_gb: county
     eo: county
     es: condado
     et: maakond
@@ -193,7 +193,7 @@ dv_has_:
     pl: hrabstwo
     pnb: کاؤنٹی
     pt: condado
-    pt-br: condado
+    pt_br: condado
     qu: Taripayt'aqa
     ro: comitat
     ru: графство
@@ -221,9 +221,9 @@ dv_has_:
     wuu: 县/郡/伯国/伯爵领
     yue: 縣/郡/伯國/伯爵領
     zh: 县/郡/伯国/伯爵领
-    zh-cn: 县/郡/伯国/伯爵领
-    zh-hant: 縣/郡/伯國/伯爵領
-    zh-tw: 縣/郡/伯國/伯爵領
+    zh_cn: 县/郡/伯国/伯爵领
+    zh_hant: 縣/郡/伯國/伯爵領
+    zh_tw: 縣/郡/伯國/伯爵領
 ---
 # [[County]] 
 

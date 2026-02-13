@@ -287,7 +287,7 @@ dv_has_:
     ba: Энди Уорхол
     bar: Andy Warhol
     be: Эндзі Уорхал
-    be-tarask: Эндзі Ўоргал
+    be_tarask: Эндзі Ўоргал
     bg: Анди Уорхол
     bi: Andy Warhol
     bn: অ্যান্ডি ওয়ারহল
@@ -304,11 +304,11 @@ dv_has_:
     cy: Andy Warhol
     da: Andy Warhol
     de: Andy Warhol
-    de-ch: Andy Warhol
+    de_ch: Andy Warhol
     el: Άντι Γουόρχολ
     en: Andy Warhol
-    en-ca: Andy Warhol
-    en-gb: Andy Warhol
+    en_ca: Andy Warhol
+    en_gb: Andy Warhol
     eo: Andy Warhol
     es: Andy Warhol
     et: Andy Warhol
@@ -385,7 +385,7 @@ dv_has_:
     pms: Andy Warhol
     pnb: اینڈی وارہول
     pt: Andy Warhol
-    pt-br: Andy Warhol
+    pt_br: Andy Warhol
     qu: Andy Warhol
     ro: Andy Warhol
     rsk: Енди Ворхол
@@ -401,7 +401,7 @@ dv_has_:
     sl: Andy Warhol
     sq: Andy Warhol
     sr: Енди Ворхол
-    sr-ec: Енди Ворхол
+    sr_ec: Енди Ворхол
     stq: Andy Warhol
     sv: Andy Warhol
     sw: Andy Warhol
@@ -426,13 +426,13 @@ dv_has_:
     yi: ענדי ווארהאל
     yue: 安迪華荷
     zh: 安迪·沃荷
-    zh-cn: 安迪·沃霍尔
-    zh-hans: 安迪·沃霍尔
-    zh-hant: 安迪·沃荷
-    zh-hk: 安迪華荷
+    zh_cn: 安迪·沃霍尔
+    zh_hans: 安迪·沃霍尔
+    zh_hant: 安迪·沃荷
+    zh_hk: 安迪華荷
     zh-my: 安迪·沃荷
-    zh-sg: 安迪·沃荷
-    zh-tw: 安迪·沃荷
+    zh_sg: 安迪·沃荷
+    zh_tw: 安迪·沃荷
 ---
 #has_/time_/started :: 1928-08-06  
 #has_/time_/started :: 1987-02-22 

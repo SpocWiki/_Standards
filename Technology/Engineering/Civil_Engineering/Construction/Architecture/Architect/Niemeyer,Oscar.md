@@ -152,7 +152,7 @@ dv_has_:
     ba: Оскар Нимейер
     ban: Oscar Niemeyer
     be: Оскар Німеер
-    be-tarask: Оскар Німэер
+    be_tarask: Оскар Німэер
     bg: Оскар Нимайер
     bn: অস্কার নেইমার
     br: Oscar Niemeyer
@@ -167,8 +167,8 @@ dv_has_:
     de: Oscar Niemeyer
     el: Όσκαρ Νίεμαϊερ
     en: Oscar Niemeyer
-    en-ca: Oscar Niemeyer
-    en-gb: Oscar Niemeyer
+    en_ca: Oscar Niemeyer
+    en_gb: Oscar Niemeyer
     eo: Oscar Niemeyer
     es: Oscar Niemeyer
     et: Oscar Niemeyer
@@ -214,7 +214,7 @@ dv_has_:
     pl: Oscar Niemeyer
     pms: Oscar Niemeyer
     pt: Oscar Niemeyer
-    pt-br: Oscar Niemeyer
+    pt_br: Oscar Niemeyer
     qu: Oscar Niemeyer
     ro: Oscar Niemeyer
     ru: Оскар Нимейер
@@ -224,8 +224,8 @@ dv_has_:
     sl: Oscar Niemeyer
     sq: Oscar Niemeyer
     sr: Оскар Нимајер
-    sr-ec: Оскар Нимајер
-    sr-el: Oskar Nimajer
+    sr_ec: Оскар Нимајер
+    sr_el: Oskar Nimajer
     sv: Oscar Niemeyer
     ta: ஒசுக்கார் நிமேயெர்
     th: ออสการ์ นีเอไมเยร์
@@ -239,12 +239,12 @@ dv_has_:
     yo: Oscar Niemeyer
     yue: 尼邁耶
     zh: 奧斯卡·尼邁耶
-    zh-cn: 奥斯卡·尼迈耶
-    zh-hans: 奥斯卡·尼迈耶
-    zh-hant: 奧斯卡·尼邁耶
-    zh-hk: 奧斯卡·尼邁耶
-    zh-sg: 奥斯卡·尼迈耶
-    zh-tw: 奧斯卡·尼邁耶
+    zh_cn: 奥斯卡·尼迈耶
+    zh_hans: 奥斯卡·尼迈耶
+    zh_hant: 奧斯卡·尼邁耶
+    zh_hk: 奧斯卡·尼邁耶
+    zh_sg: 奥斯卡·尼迈耶
+    zh_tw: 奧斯卡·尼邁耶
 ---
 # [[Niemeyer,Oscar]] 
 

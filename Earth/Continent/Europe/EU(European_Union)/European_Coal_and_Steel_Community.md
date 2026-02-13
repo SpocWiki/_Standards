@@ -137,7 +137,7 @@ dv_has_:
     azb: آوروپا کؤمور و چلیک توپلولوغو
     ba: Европа күмер һәм ҡорос берләшмәһе
     be: Еўрапейскае аб'яднанне вуглю і сталі
-    be-tarask: Эўрапейскае аб’яднаньне вугалю і сталі
+    be_tarask: Эўрапейскае аб’яднаньне вугалю і сталі
     bg: Европейска общност за въглища и стомана
     bs: Evropska zajednica za ugalj i čelik
     ca: Comunitat Europea del Carbó i de l'Acer
@@ -147,8 +147,8 @@ dv_has_:
     de: Europäische Gemeinschaft für Kohle und Stahl
     el: Ευρωπαϊκή Κοινότητα Άνθρακα και Χάλυβα
     en: European Coal and Steel Community
-    en-ca: European Coal and Steel Community
-    en-gb: European Coal and Steel Community
+    en_ca: European Coal and Steel Community
+    en_gb: European Coal and Steel Community
     eo: Eŭropa Komunumo pri Karbo kaj Ŝtalo
     es: Comunidad Europea del Carbón y del Acero
     et: Euroopa Söe- ja Teraseühendus
@@ -188,7 +188,7 @@ dv_has_:
     oc: Comunautat Europèa del Carbon e de l'Acièr
     pl: Europejska Wspólnota Węgla i Stali
     pt: Comunidade Europeia do Carvão e do Aço
-    pt-br: Comunidade Europeia do Carvão e do Aço
+    pt_br: Comunidade Europeia do Carvão e do Aço
     ro: Comunitatea Europeană a Cărbunelui și Oțelului
     ru: Европейское объединение угля и стали
     sco: European Coal an Steel Commonty
@@ -197,8 +197,8 @@ dv_has_:
     sl: Evropska skupnost za premog in jeklo
     sq: Bashkësia Evropiane e Qymyrit dhe Çelikut
     sr: Европска заједница за угаљ и челик
-    sr-ec: Европска заједница за угаљ и челик
-    sr-el: Evropska zajednica za ugalj i čelik
+    sr_ec: Европска заједница за угаљ и челик
+    sr_el: Evropska zajednica za ugalj i čelik
     sv: Europeiska kol- och stålgemenskapen
     th: ประชาคมถ่านหินและเหล็กกล้ายุโรป
     tr: Avrupa Kömür ve Çelik Topluluğu
@@ -210,12 +210,12 @@ dv_has_:
     wuu: 欧洲煤钢共同体
     yue: 歐洲煤鋼共同體
     zh: 欧洲煤钢共同体
-    zh-cn: 欧洲煤钢共同体
-    zh-hans: 欧洲煤钢共同体
-    zh-hant: 歐洲煤鋼共同體
-    zh-hk: 歐洲煤鋼共同體
-    zh-sg: 欧洲煤钢共同体
-    zh-tw: 歐洲煤鋼共同體
+    zh_cn: 欧洲煤钢共同体
+    zh_hans: 欧洲煤钢共同体
+    zh_hant: 歐洲煤鋼共同體
+    zh_hk: 歐洲煤鋼共同體
+    zh_sg: 欧洲煤钢共同体
+    zh_tw: 歐洲煤鋼共同體
 ---
 # [[European_Coal_and_Steel_Community]] 
 

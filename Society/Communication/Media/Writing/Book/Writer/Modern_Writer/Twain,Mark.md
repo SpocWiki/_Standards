@@ -187,7 +187,7 @@ dv_has_:
     azb: مارک تواین
     ba: Марк Твен
     be: Марк Твэн
-    be-tarask: Марк Твэн
+    be_tarask: Марк Твэн
     bg: Марк Твен
     bn: মার্ক টোয়েইন
     bxr: Марк Твен
@@ -253,9 +253,9 @@ dv_has_:
     yi: מארק טוויין
     yue: 馬克吐溫
     zh: 马克·吐温
-    zh-cn: 马克·吐温
-    zh-hans: 马克·吐温
-    zh-hant: 马克·吐温
+    zh_cn: 马克·吐温
+    zh_hans: 马克·吐温
+    zh_hant: 马克·吐温
 ---
 # [[Twain,Mark]] 
 

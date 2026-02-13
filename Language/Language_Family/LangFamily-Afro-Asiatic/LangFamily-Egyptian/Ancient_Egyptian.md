@@ -155,7 +155,7 @@ dv_has_:
     av: Египеталъул мацӀ
     az: Misir dili
     be: Егіпецкая мова
-    be-tarask: эгіпецкая мова
+    be_tarask: эгіпецкая мова
     bg: Египетски език
     bn: মিশরীয় ভাষা
     br: egipteg
@@ -165,13 +165,13 @@ dv_has_:
     cy: Eiffteg
     da: egyptisk
     de: Ägyptisch
-    de-ch: Ägyptisch
+    de_ch: Ägyptisch
     diq: Mısırki
     dsb: Egyptojska rěc
     el: Αρχαία αιγυπτιακή γλώσσα
     en: Egyptian
-    en-ca: Egyptian
-    en-gb: Egyptian
+    en_ca: Egyptian
+    en_gb: Egyptian
     eo: egipta lingvo
     es: egipcio
     et: egiptuse keel
@@ -203,7 +203,7 @@ dv_has_:
     ko: 이집트어
     ks: مِصری زَبان
     ku: zimanê misrî
-    ku-latn: zimanê misrî
+    ku_latn: zimanê misrî
     kv: Египет кыв
     ky: Египет тили
     la: lingua Aegyptia
@@ -231,7 +231,7 @@ dv_has_:
     pnb: پراݨی مصری
     ps: مصري ژبه
     pt: egípcio
-    pt-br: egípcio
+    pt_br: egípcio
     ro: Limba egipteană
     ru: египетский язык
     sh: Egipatski jezik
@@ -241,8 +241,8 @@ dv_has_:
     so: Luqada Masaarida
     sq: Gjuha egjiptiane
     sr: египатски језик
-    sr-ec: египатски језик
-    sr-el: egipatski jezik
+    sr_ec: египатски језик
+    sr_el: egipatski jezik
     sv: egyptiska
     sw: Kimisri
     ta: எகிப்திய மொழி
@@ -258,8 +258,8 @@ dv_has_:
     wuu: 埃及语
     yue: 埃及文
     zh: 埃及語
-    zh-hant: 埃及語
-    zh-tw: 埃及語
+    zh_hant: 埃及語
+    zh_tw: 埃及語
 ---
 # [[Ancient_Egyptian]] 
 

@@ -161,8 +161,8 @@ dv_has_:
     de: Petronas Towers
     el: Πύργοι Πετρόνας
     en: Petronas Towers
-    en-ca: Petronas Towers
-    en-gb: Petronas Towers
+    en_ca: Petronas Towers
+    en_gb: Petronas Towers
     eo: Petronas-turoj
     es: Torres Petronas
     et: Petronas Towers
@@ -209,7 +209,7 @@ dv_has_:
     pnb: پیٹروناس ٹوئن ٹاور
     ps: پيټروناس ټاور 1
     pt: Petronas Twin Towers
-    pt-br: Petronas Twin Towers
+    pt_br: Petronas Twin Towers
     ro: Turnurile Petronas
     ru: Башни Петронас
     sco: Petronas Touers
@@ -231,14 +231,14 @@ dv_has_:
     wuu: 双峰塔
     yue: 雙子塔
     zh: 雙峰塔
-    zh-cn: 双峰塔
-    zh-hans: 双峰塔
-    zh-hant: 雙峰塔
-    zh-hk: 雙峰塔
-    zh-mo: 雙峰塔
+    zh_cn: 双峰塔
+    zh_hans: 双峰塔
+    zh_hant: 雙峰塔
+    zh_hk: 雙峰塔
+    zh_mo: 雙峰塔
     zh-my: 双峰塔
-    zh-sg: 双峰塔
-    zh-tw: 雙峰塔
+    zh_sg: 双峰塔
+    zh_tw: 雙峰塔
 ---
 # [[Petronas_Towers]] 
 

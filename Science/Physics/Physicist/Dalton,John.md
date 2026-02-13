@@ -145,7 +145,7 @@ dv_has_:
     azb: جان دالتون
     bar: John Dalton
     be: Джон Дальтан
-    be-tarask: Джон Далтан
+    be_tarask: Джон Далтан
     bg: Джон Далтон
     bn: জন ডাল্টন
     bs: John Dalton
@@ -155,13 +155,13 @@ dv_has_:
     cy: John Dalton
     da: John Dalton
     de: John Dalton
-    de-ch: John Dalton
+    de_ch: John Dalton
     dty: जोन डाल्टन
     el: Τζων Ντάλτον
     eml: John Dalton
     en: John Dalton
-    en-ca: John Dalton
-    en-gb: John Dalton
+    en_ca: John Dalton
+    en_gb: John Dalton
     eo: John Dalton
     es: John Dalton
     et: John Dalton
@@ -193,7 +193,7 @@ dv_has_:
     jv: John Dalton
     ka: ჯონ დალტონი
     kk: Джон Дальтон
-    kk-cyrl: Дальтон, Джон
+    kk_cyrl: Дальтон, Джон
     kn: ಜಾನ್ ಡಾಲ್ಟನ್
     ko: 존 돌턴
     ku: John Dalton
@@ -223,7 +223,7 @@ dv_has_:
     pl: John Dalton
     pnb: جان ڈالٹن
     pt: John Dalton
-    pt-br: John Dalton
+    pt_br: John Dalton
     qu: John Dalton
     rm: John Dalton
     ro: John Dalton
@@ -256,7 +256,7 @@ dv_has_:
     yo: John Dalton
     yue: 道耳頓
     zh: 约翰·道尔顿
-    zh-tw: 約翰·道耳吞
+    zh_tw: 約翰·道耳吞
 ---
 # [[Dalton,John]] 
 

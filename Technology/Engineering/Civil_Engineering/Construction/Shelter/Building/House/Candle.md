@@ -160,7 +160,7 @@ dv_has_:
     az: şam
     bcl: Kandila
     be: свечка
-    be-tarask: сьвечка
+    be_tarask: сьвечка
     bg: свещ
     bn: মোমবাতি
     br: kantol
@@ -175,12 +175,12 @@ dv_has_:
     cy: cannwyll
     da: levende lys
     de: Kerze
-    de-ch: Kerze
+    de_ch: Kerze
     dsb: swěca
     el: κερί
     en: candle
-    en-ca: candle
-    en-gb: candle
+    en_ca: candle
+    en_gb: candle
     eo: kandelo
     es: vela
     et: küünal
@@ -230,7 +230,7 @@ dv_has_:
     my: ဖယောင်းတိုင်
     mzn: شم
     nb: levende lys
-    nds-nl: keerse
+    nds_nl: keerse
     ne: मैनबत्ति
     nia: lili
     nl: kaars
@@ -242,7 +242,7 @@ dv_has_:
     pms: Candèila (iluminassion)
     pnb: موم بتی
     pt: vela
-    pt-br: vela
+    pt_br: vela
     qu: wariqulli
     ro: lumânare
     ru: свеча
@@ -262,8 +262,8 @@ dv_has_:
     so: shumac
     sq: qiriu
     sr: свећа
-    sr-ec: свећа
-    sr-el: sveća
+    sr_ec: свећа
+    sr_el: sveća
     su: lilin
     sv: levande ljus
     sw: mshumaa
@@ -285,8 +285,8 @@ dv_has_:
     yi: ליכט
     yue: 蠟燭
     zh: 蜡烛
-    zh-hant: 蠟燭
-    zh-tw: 蠟燭
+    zh_hant: 蠟燭
+    zh_tw: 蠟燭
 ---
 # [[Candle]] 🕯 
 

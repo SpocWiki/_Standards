@@ -50,7 +50,7 @@ dv_has_:
     azb: مایکل داقلاس
     bar: Michael Douglas
     be: Майкл Дуглас
-    be-tarask: Майкл Дуглас
+    be_tarask: Майкл Дуглас
     bg: Майкъл Дъглас
     bm: Michael Douglas
     bn: মাইকেল ডগলাস
@@ -65,13 +65,13 @@ dv_has_:
     da: Michael Douglas
     de: Michael Douglas
     de-at: Michael Douglas
-    de-ch: Michael Douglas
+    de_ch: Michael Douglas
     diq: Michael Douglas
     el: Μάικλ Ντάγκλας
     eml: Michael Douglas
     en: Michael Douglas
-    en-ca: Michael Douglas
-    en-gb: Michael Douglas
+    en_ca: Michael Douglas
+    en_gb: Michael Douglas
     en-us: Michael Douglas
     eo: Michael Douglas
     es: Michael Douglas
@@ -105,11 +105,11 @@ dv_has_:
     kab: Michael Douglas
     kg: Michael Douglas
     kk: Майкл Дуглас
-    kk-arab: مايكل دۋگلاس
+    kk_arab: مايكل دۋگلاس
     kk-cn: مايكل دۋگلاس
-    kk-cyrl: Майкл Дуглас
+    kk_cyrl: Майкл Дуглас
     kk-kz: Майкл Дуглас
-    kk-latn: Maýkl Dwglas
+    kk_latn: Maýkl Dwglas
     kk-tr: Maýkl Dwglas
     kn: ಮೈಕೇಲ್ ಡೊಗ್ಲಾಸ್
     ko: 마이클 더글러스
@@ -132,7 +132,7 @@ dv_has_:
     nap: Michael Douglas
     nb: Michael Douglas
     nds: Michael Douglas
-    nds-nl: Michael Douglas
+    nds_nl: Michael Douglas
     nl: Michael Douglas
     nn: Michael Douglas
     nrm: Michael Douglas
@@ -144,7 +144,7 @@ dv_has_:
     pms: Michael Douglas
     prg: Michael Douglas
     pt: Michael Douglas
-    pt-br: Michael Douglas
+    pt_br: Michael Douglas
     qu: Michael Douglas
     rgn: Michael Douglas
     rm: Michael Douglas
@@ -157,8 +157,8 @@ dv_has_:
     sl: Michael Douglas
     sq: Michael Douglas
     sr: Мајкл Даглас
-    sr-ec: Мајкл Даглас
-    sr-el: Majkl Daglas
+    sr_ec: Мајкл Даглас
+    sr_el: Majkl Daglas
     sv: Michael Douglas
     sw: Michael Douglas
     ta: மைக்கேல் டக்ளஸ்
@@ -166,7 +166,7 @@ dv_has_:
     tl: Michael Douglas
     tr: Michael Douglas
     tt: Майкл Дуглас
-    tt-cyrl: Майкл Дуглас
+    tt_cyrl: Майкл Дуглас
     uk: Майкл Дуглас
     ur: مائیکل ڈگلس
     uz: Michael Douglas
@@ -183,13 +183,13 @@ dv_has_:
     yo: Michael Douglas
     yue: 米高德格拉斯
     zh: 邁克爾·道格拉斯
-    zh-cn: 迈克尔·道格拉斯
-    zh-hans: 迈克尔·道格拉斯
-    zh-hant: 邁克爾·道格拉斯
-    zh-hk: 米高德格拉斯
+    zh_cn: 迈克尔·道格拉斯
+    zh_hans: 迈克尔·道格拉斯
+    zh_hant: 邁克爾·道格拉斯
+    zh_hk: 米高德格拉斯
     zh-my: 麦可·道格拉斯
-    zh-sg: 麦克·道格拉斯
-    zh-tw: 麥可·道格拉斯
+    zh_sg: 麦克·道格拉斯
+    zh_tw: 麥可·道格拉斯
     zu: Michael Douglas
 ---
 #has_/time_/started :: 1944-09-25 

@@ -136,7 +136,7 @@ dv_has_:
     bar: Atheismus
     bcl: ateismo
     be: атэізм
-    be-tarask: атэізм
+    be_tarask: атэізм
     bew: Kaga' betuhan
     bg: атеизъм
     bjn: ateisma
@@ -152,7 +152,7 @@ dv_has_:
     ckb: بێخوایی
     co: ateisimu
     crh: ateizm
-    crh-latn: ateizm
+    crh_latn: ateizm
     cs: ateismus
     csb: bezbòżnictwò
     cu: безбожьѥ
@@ -160,13 +160,13 @@ dv_has_:
     cy: anffyddiaeth
     da: ateisme
     de: Atheismus
-    de-ch: Atheismus
+    de_ch: Atheismus
     diq: ateist
     dtp: Ateisme
     el: αθεϊσμός
     en: atheism
-    en-ca: atheism
-    en-gb: atheism
+    en_ca: atheism
+    en_gb: atheism
     eo: ateismo
     es: ateísmo
     et: ateism
@@ -218,7 +218,7 @@ dv_has_:
     knc: Atheism
     ko: 무신론
     ku: ateîzm
-    ku-latn: ateîzm
+    ku_latn: ateîzm
     kw: didhuwieth
     ky: атеизм
     la: atheismus
@@ -240,7 +240,7 @@ dv_has_:
     mnw: အထေဣဇာံ
     mr: नास्तिकता
     ms: ateisme
-    ms-arab: اتيئيسمى
+    ms_arab: اتيئيسمى
     mt: ateiżmu
     mwl: ateísmo
     my: ဘုရားမဲ့ဝါဒ
@@ -249,7 +249,7 @@ dv_has_:
     nan: bû-sîn-lūn
     nb: ateisme
     nds: Atheismus
-    nds-nl: ateisme
+    nds_nl: ateisme
     ne: नास्तिकता
     new: नास्तिकवाद
     nl: atheïsme
@@ -266,7 +266,7 @@ dv_has_:
     pnb: ایتھیازم
     ps: اتيزم
     pt: ateísmo
-    pt-br: ateísmo
+    pt_br: ateísmo
     qu: athismu
     ro: ateism
     ru: атеизм
@@ -295,13 +295,13 @@ dv_has_:
     ta: இறைமறுப்பு
     te: నాస్తికత్వం
     tg: атеизм
-    tg-cyrl: атеизм
+    tg_cyrl: атеизм
     th: อเทวนิยม
     tl: ateismo
     tok: nasin pi jan sewi ala
     tr: ateizm
     tt: атеизм
-    tt-cyrl: атеизм
+    tt_cyrl: атеизм
     udm: атеизм
     ug: دىنسىزلىق
     uk: атеїзм
@@ -320,14 +320,14 @@ dv_has_:
     yue: 無神論
     zgh: ⵜⴰⵔⵢⵓⵛⵜ
     zh: 无神论
-    zh-cn: 无神论
-    zh-hans: 无神论
-    zh-hant: 無神論
-    zh-hk: 無神論
-    zh-mo: 無神論
+    zh_cn: 无神论
+    zh_hans: 无神论
+    zh_hant: 無神論
+    zh_hk: 無神論
+    zh_mo: 無神論
     zh-my: 无神论
-    zh-sg: 无神论
-    zh-tw: 無神論
+    zh_sg: 无神论
+    zh_tw: 無神論
 ---
 # [[Atheism]] 
 

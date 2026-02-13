@@ -19,7 +19,7 @@ dv_has_:
   name_:
     ab: Аладатәи Судан
     ady: Къыблэ Судан
-    aeb-arab: جنوب السودان
+    aeb_arab: جنوب السودان
     af: Suid-Soedan
     am: ደቡብ ሱዳን
     ami: South sudan
@@ -41,7 +41,7 @@ dv_has_:
     bar: Sidsudan
     bcl: Habagatan Sudan
     be: Паўднёвы Судан
-    be-tarask: Паўднёвы Судан
+    be_tarask: Паўднёвы Судан
     bew: Sudan Kidul
     bg: Южен Судан
     bho: दक्खिन सूडान
@@ -53,14 +53,14 @@ dv_has_:
     bs: Južni Sudan
     bxr: Урда Судан
     ca: Sudan del Sud
-    cbk-zam: Sudán del Sur
+    cbk_zam: Sudán del Sur
     cdo: Nàng Sudan
     ce: Къилба Судан
     ceb: Habagatang Sudan
     ckb: سوودانی باشوور
     co: Sudan di u Sudu
     crh: Cenübiy Sudan
-    crh-latn: Cenübiy Sudan
+    crh_latn: Cenübiy Sudan
     cs: Jižní Súdán
     csb: Pôłniowi Sùdan
     cv: Кăнтăр Судан
@@ -68,7 +68,7 @@ dv_has_:
     da: Sydsudan
     dag: South Sudan
     de: Südsudan
-    de-ch: Südsudan
+    de_ch: Südsudan
     din: Paguot Thudän
     diq: Sudanê Veroci
     dsb: Pódpołdnjowy Sudan
@@ -76,8 +76,8 @@ dv_has_:
     ee: Anyiehe Sudã
     el: Νότιο Σουδάν
     en: South Sudan
-    en-ca: South Sudan
-    en-gb: South Sudan
+    en_ca: South Sudan
+    en_gb: South Sudan
     eo: Sud-Sudano
     es: Sudán del Sur
     et: Lõuna-Sudaan
@@ -177,7 +177,7 @@ dv_has_:
     nan: Lâm Sudan
     nb: Sør-Sudan
     nds: Süüdsudan
-    nds-nl: Zuudsoedan
+    nds_nl: Zuudsoedan
     ne: दक्षिण सुडान
     nl: Zuid-Soedan
     nn: Sør-Sudan
@@ -196,7 +196,7 @@ dv_has_:
     pnb: جنوبی سوڈان
     ps: سوېلي سوډان
     pt: Sudão do Sul
-    pt-br: Sudão do Sul
+    pt_br: Sudão do Sul
     qu: Urin Sudan
     rki: တောင်ဆူဒန် သမ္မတနိုင်ငံ
     rm: Sudan dal Sid
@@ -224,8 +224,8 @@ dv_has_:
     so: Koonfur Suudaan
     sq: Sudani i Jugut
     sr: Јужни Судан
-    sr-ec: Јужни Судан
-    sr-el: Južni Sudan
+    sr_ec: Јужни Судан
+    sr_el: Južni Sudan
     st: Sudan Borwa
     stq: Suud-Sudan
     su: Sudan Kidul
@@ -265,11 +265,11 @@ dv_has_:
     zea: Zuud-Soedan
     zgh: ⴰⵏⵥⵓⵍ ⵏ ⵙⵓⴷⴰⵏ
     zh: 南蘇丹
-    zh-cn: 南苏丹
-    zh-hans: 南苏丹
-    zh-hant: 南蘇丹
-    zh-hk: 南蘇丹
-    zh-tw: 南蘇丹
+    zh_cn: 南苏丹
+    zh_hans: 南苏丹
+    zh_hant: 南蘇丹
+    zh_hk: 南蘇丹
+    zh_tw: 南蘇丹
     zu: ISudan yaseNingizimu
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Sudan-South

@@ -159,7 +159,7 @@ dv_has_:
     bar: elektrischa Strom
     bcl: elektrikong kuryente
     be: электрычны ток
-    be-tarask: электрычны ток
+    be_tarask: электрычны ток
     bg: електрически ток
     bn: তড়িৎ প্রবাহ
     br: red tredan
@@ -271,7 +271,7 @@ dv_has_:
     tok: tawa pi wawa linja
     tr: elektrik akımı
     tt: электр агымы
-    tt-cyrl: электр агымы
+    tt_cyrl: электр агымы
     udm: электро ток
     ug: .توك
     uk: електричний струм
@@ -289,9 +289,9 @@ dv_has_:
     yo: Ìwọ́ ìtanná
     yue: 電流
     zh: 电流
-    zh-hans: 电流
-    zh-hant: 電流
-    zh-tw: 電流
+    zh_hans: 电流
+    zh_hant: 電流
+    zh_tw: 電流
     zu: uluzuba
 ---
 # [[Current,electric]]   

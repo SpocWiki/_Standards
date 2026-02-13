@@ -181,7 +181,7 @@ dv_has_:
     ban: Herbert Hoover
     bcl: Herbert Hoover
     be: Герберт Кларк Гувер
-    be-tarask: Гэрбэрт Кларк Гувэр
+    be_tarask: Гэрбэрт Кларк Гувэр
     bg: Хърбърт Хувър
     bi: Herbert Hoover
     bn: হার্বার্ট হুভার
@@ -278,7 +278,7 @@ dv_has_:
     pnb: ہربرٹ ہوور
     ps: هربرټ کلارک هوور
     pt: Herbert Hoover
-    pt-br: Herbert Hoover
+    pt_br: Herbert Hoover
     qu: Herbert Hoover
     rm: Herbert C. Hoover
     rmf: Herbert Hoover
@@ -319,7 +319,7 @@ dv_has_:
     yo: Herbert Hoover
     yue: 胡佛
     zh: 赫伯特·胡佛
-    zh-hk: 夏拔·胡佛
+    zh_hk: 夏拔·胡佛
 ---
 #has_/time_/started :: 1889-04-20 
 #has_/time_/stopped  :: 1945-04-30 

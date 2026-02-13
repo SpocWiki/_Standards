@@ -89,7 +89,7 @@ dv_has_:
     ar: الفصول الأربعة
     ast: Les cuatro estaciones
     az: Dörd fəsil
-    be-tarask: Чатыры паравіны
+    be_tarask: Чатыры паравіны
     bg: Годишните времена
     bs: Četiri godišnja doba
     ca: Les quatre estacions
@@ -100,8 +100,8 @@ dv_has_:
     de: Die vier Jahreszeiten
     el: Οι τέσσερις εποχές
     en: The Four Seasons
-    en-ca: The Four Seasons
-    en-gb: The Four Seasons
+    en_ca: The Four Seasons
+    en_gb: The Four Seasons
     en-us: The Four Seasons
     eo: La kvar sezonoj (Vivaldi)
     es: Las cuatro estaciones
@@ -132,7 +132,7 @@ dv_has_:
     pl: Cztery pory roku
     pnb: چار رتاں
     pt: As Quatro Estações
-    pt-br: As Quatro Estações
+    pt_br: As Quatro Estações
     ro: Anotimpurile (Vivaldi)
     ru: Времена года
     sr: Četiri godišnja doba (Vivaldi)

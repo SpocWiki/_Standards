@@ -89,7 +89,7 @@ dv_has_:
     az: Xətti tənliklər sistemi
     ba: Һыҙыҡлы алгебраик тигеҙләмәләр системаһы
     be: сістэма лінейных алгебраічных ураўненняў
-    be-tarask: сыстэма лінейных альгебраічных раўнаньняў
+    be_tarask: сыстэма лінейных альгебраічных раўнаньняў
     bg: Система линейни уравнения
     bs: Sistem linearnih jednačina
     ca: sistema d'equacions lineals
@@ -136,7 +136,7 @@ dv_has_:
     pl: układ równań liniowych
     pnb: لینیر ایکوایشنز دا پربندھ
     pt: sistema de equações lineares
-    pt-br: sistema de equações lineares
+    pt_br: sistema de equações lineares
     ro: Sistem de ecuații liniare
     ru: система линейных алгебраических уравнений
     sd: سِڌِر مساواتُن جو سرشتو
@@ -146,7 +146,7 @@ dv_has_:
     sl: sistem linearnih enačb
     sq: sistemi i ekuacionit linear
     sr: систем линеарних једначина
-    sr-ec: систем линеарних једначина
+    sr_ec: систем линеарних једначина
     sv: Linjärt ekvationssystem
     ta: நேரியல் சமன்பாடுகளின் தொகுப்பு
     th: ระบบสมการเชิงเส้น

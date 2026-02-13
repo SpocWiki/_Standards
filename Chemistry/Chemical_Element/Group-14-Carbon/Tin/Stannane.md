@@ -40,18 +40,18 @@ dv_has_:
     ru: станнан
     sh: Stanan
     sr: Stanan
-    sr-ec: Станан
-    sr-el: Stanan
+    sr_ec: Станан
+    sr_el: Stanan
     ta: வெள்ளீயம் ஐதரைடு
     uk: Станан
     vi: Stannan
     zh: 甲锡烷
-    zh-cn: 甲锡烷
-    zh-hans: 甲锡烷
-    zh-hant: 甲錫烷
-    zh-hk: 甲錫烷
-    zh-sg: 甲锡烷
-    zh-tw: 甲錫烷
+    zh_cn: 甲锡烷
+    zh_hans: 甲锡烷
+    zh_hant: 甲錫烷
+    zh_hk: 甲錫烷
+    zh_sg: 甲锡烷
+    zh_tw: 甲錫烷
 aliases:
 - cynowodór
 - Estannano

@@ -62,7 +62,7 @@ dv_has_:
     ar: موشور
     ast: Prisma
     ba: Призма
-    be-tarask: прызма
+    be_tarask: прызма
     bg: Призма
     bn: প্রিজম
     br: Kengereg
@@ -123,8 +123,8 @@ dv_has_:
     smn: prisma
     sq: Prizmi
     sr: призма
-    sr-ec: Призма
-    sr-el: Prizma
+    sr_ec: Призма
+    sr_el: Prizma
     su: Prisma
     sv: prisma
     ta: பட்டகம்
@@ -140,12 +140,12 @@ dv_has_:
     wuu: 棱镜
     yue: 三稜鏡
     zh: 稜鏡
-    zh-cn: 棱镜
-    zh-hans: 棱镜
-    zh-hant: 稜鏡
-    zh-hk: 稜鏡
-    zh-sg: 棱镜
-    zh-tw: 稜鏡
+    zh_cn: 棱镜
+    zh_hans: 棱镜
+    zh_hant: 稜鏡
+    zh_hk: 稜鏡
+    zh_sg: 棱镜
+    zh_tw: 稜鏡
 ---
 # [[Prism(Optics)]] 
 

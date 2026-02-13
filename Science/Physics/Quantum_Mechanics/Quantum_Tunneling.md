@@ -81,7 +81,7 @@ dv_has_:
     ast: efeutu túnel
     az: Tunel effekti
     be: тунэльны эфект
-    be-tarask: тунэльны эфэкт
+    be_tarask: тунэльны эфэкт
     bg: тунелен преход
     bn: কোয়ান্টাম সুড়ঙ্গ
     bs: tunel efekat
@@ -91,8 +91,8 @@ dv_has_:
     de: Tunneleffekt
     el: φαινόμενο σήραγγας
     en: quantum tunneling
-    en-ca: quantum tunnelling
-    en-gb: quantum tunnelling
+    en_ca: quantum tunnelling
+    en_gb: quantum tunnelling
     eo: tunela efiko
     es: efecto túnel
     et: tunnelefekt
@@ -122,7 +122,7 @@ dv_has_:
     pa: ਕੁਆਂਟਮ ਟੱਨਲਿੰਗ
     pl: zjawisko tunelowe
     pt: efeito túnel
-    pt-br: tunelamento quântico
+    pt_br: tunelamento quântico
     ro: efectul tunel
     ru: туннельный эффект
     sco: quantum tunnellin
@@ -131,7 +131,7 @@ dv_has_:
     sl: tunelski pojav
     sq: efekti tunel
     sr: тунел ефекат
-    sr-ec: тунел ефекат
+    sr_ec: тунел ефекат
     sv: tunneleffekt
     ta: புரை ஊடுருவு மின்னோட்டம்
     tr: kuantum tünelleme
@@ -141,9 +141,9 @@ dv_has_:
     vi: đường hầm lượng tử
     yue: 量子穿隧效應
     zh: 量子穿隧效應
-    zh-cn: 量子隧穿效应
-    zh-hk: 量子隧穿效應
-    zh-tw: 量子穿隧效應
+    zh_cn: 量子隧穿效应
+    zh_hk: 量子隧穿效應
+    zh_tw: 量子穿隧效應
 ---
 # [[Quantum_Tunneling]] 
 

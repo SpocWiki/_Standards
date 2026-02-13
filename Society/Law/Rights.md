@@ -97,7 +97,7 @@ dv_has_:
     ast: Derechos
     azb: حق
     be: права
-    be-tarask: права
+    be_tarask: права
     bg: права
     bn: অধিকার
     br: gwirioù
@@ -143,7 +143,7 @@ dv_has_:
     mk: права
     mr: हक्क
     ms: hak
-    ms-arab: حق
+    ms_arab: حق
     mt: jedd
     my: ပြည်သူ့ အခွင့်အရေး
     nb: rettighet
@@ -154,7 +154,7 @@ dv_has_:
     pa: ਹੱਕ
     pl: prawo podmiotowe
     pt: direitos
-    pt-br: direitos
+    pt_br: direitos
     ro: drepturi
     ru: право
     se: vuoigatvuođat
@@ -180,11 +180,11 @@ dv_has_:
     yue: 權利
     zgh: ⴰⵣⵔⴼ
     zh: 權利
-    zh-cn: 权利
-    zh-hans: 权利
-    zh-hant: 權利
-    zh-hk: 權利
-    zh-tw: 權利
+    zh_cn: 权利
+    zh_hans: 权利
+    zh_hant: 權利
+    zh_hk: 權利
+    zh_tw: 權利
 ---
 # [[Rights]] 
 

@@ -67,7 +67,7 @@ dv_has_:
     az: Şaktizm
     bcl: Shaktismo
     be: Шактызм
-    be-tarask: шактызм
+    be_tarask: шактызм
     bho: शाक्त संप्रदाय
     bn: শাক্তধর্ম
     ca: xactisme
@@ -126,9 +126,9 @@ dv_has_:
     xmf: შაკტიზმი
     yue: 性力派
     zh: 性力派
-    zh-hans: 性力派
-    zh-hant: 性力派
-    zh-hk: 性力派
+    zh_hans: 性力派
+    zh_hant: 性力派
+    zh_hk: 性力派
 ---
 # [[Shaktism]] 
 

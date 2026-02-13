@@ -42,7 +42,7 @@ dv_has_:
     af: Postmoderne kuns
     ar: فن ما بعد الحداثة
     ast: Arte posmoderno
-    be-tarask: постмадэрнавае мастацтва
+    be_tarask: постмадэрнавае мастацтва
     bg: Постмодернизъм
     ca: art postmodern
     cs: postmoderní umění
@@ -72,7 +72,7 @@ dv_has_:
     vi: nghệ thuật hậu hiện đại
     yue: 後現代藝術
     zh: 後現代藝術
-    zh-hans: 后现代艺术
+    zh_hans: 后现代艺术
 ---
 # [[Postmodern_Art]] 
 

@@ -170,7 +170,7 @@ dv_has_:
     az: stadion
     ba: стадион
     be: стадыён
-    be-tarask: стадыён
+    be_tarask: стадыён
     bg: стадион
     bjn: satadiun
     bn: স্টেডিয়াম
@@ -189,8 +189,8 @@ dv_has_:
     dsb: stadion
     el: στάδιο
     en: stadium
-    en-ca: stadium
-    en-gb: stadium
+    en_ca: stadium
+    en_gb: stadium
     eo: stadiono
     es: estadio
     et: staadion
@@ -216,12 +216,12 @@ dv_has_:
     ka: სტადიონი
     kaa: Stadion
     kk: стадион
-    kk-arab: ستادىيون
-    kk-cyrl: стадион
-    kk-latn: stadïon
+    kk_arab: ستادىيون
+    kk_cyrl: стадион
+    kk_latn: stadïon
     kn: ಕ್ರೀಡಾಂಗಣ
     ko: 스타디움
-    ku-latn: yarîgeh
+    ku_latn: yarîgeh
     kw: sportva
     la: stadium
     lmo: stadio
@@ -232,7 +232,7 @@ dv_has_:
     mn: цэнгэлдэх хүрээлэн
     mr: स्टेडियम
     ms: stadium
-    ms-arab: ستاديوم
+    ms_arab: ستاديوم
     my: အားကစားကွင်း
     mzn: استودیوم
     nb: stadion
@@ -246,7 +246,7 @@ dv_has_:
     pnb: سٹیڈیم
     ps: لوبغالی
     pt: estádio
-    pt-br: estádio
+    pt_br: estádio
     ro: stadion
     ru: стадион
     scn: stadiu
@@ -260,21 +260,21 @@ dv_has_:
     sms: stadioon
     sq: stadiumi
     sr: стадион
-    sr-ec: стадион
-    sr-el: stadion
+    sr_ec: стадион
+    sr_el: stadion
     sv: stadion
     sw: uwanja wa michezo
     szl: stadiōn
     ta: விளையாட்டரங்கம்
     tg: варзишгоҳ
-    tg-latn: majdon
+    tg_latn: majdon
     th: สนามกีฬา
     tr: stadyum
-    tt-cyrl: стадион
+    tt_cyrl: стадион
     uk: стадіон
     ur: اسٹیڈیم
     uz: stadion
-    uz-cyrl: стадион
+    uz_cyrl: стадион
     vec: stàdio
     vi: sân vận động
     vls: stadion
@@ -282,10 +282,10 @@ dv_has_:
     xmf: სტადიონი
     yue: 運動場
     zh: 體育場
-    zh-hans: 体育场
-    zh-hant: 體育場
-    zh-hk: 體育場
-    zh-tw: 體育場
+    zh_hans: 体育场
+    zh_hant: 體育場
+    zh_hk: 體育場
+    zh_tw: 體育場
     zu: izinkundla
   parent_class: '[[../CivicStructure, SportsActivityLocation]]'
   properties: '[ actionableFeedbackPolicy, additionalProperty, additionalType, address, aggregateRating, alternateName, alumni, amenityFeature, areaServed, award, awards, branchCode, branchOf, brand, contactPoint, contactPoints, containedIn, containedInPlace, containsPlace, correctionsPolicy, currenciesAccepted, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasCredential, hasDriveThroughService, hasMap, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isAccessibleForFree, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, latitude, legalName, leiCode, location, logo, longitude, mainEntityOfPage, makesOffer, map, maps, maximumAttendeeCapacity, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, openingHours, openingHoursSpecification, ownershipFundingInfo, owns, parentOrganization, paymentAccepted, photo, photos, potentialAction, priceRange, publicAccess, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, smokingAllowed, specialOpeningHoursSpecification, sponsor, subOrganization, subjectOf, taxID, telephone, tourBookingPage, unnamedSourcesPolicy, url, vatID ]'

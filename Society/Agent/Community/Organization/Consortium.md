@@ -82,7 +82,7 @@ dv_has_:
     ast: Consorciu
     az: Konsorsium
     be: кансорцыум
-    be-tarask: кансорцыюм
+    be_tarask: кансорцыюм
     bg: Консорциум
     ca: consorci
     cs: konsorcium
@@ -108,11 +108,11 @@ dv_has_:
     it: consorzio
     ja: コンソーシアム
     kk: Консорциум
-    kk-arab: كونسورتسىيۋم
+    kk_arab: كونسورتسىيۋم
     kk-cn: كونسورتسىيۋم
-    kk-cyrl: Консорциум
+    kk_cyrl: Консорциум
     kk-kz: Консорциум
-    kk-latn: Konsorcïwm
+    kk_latn: Konsorcïwm
     kk-tr: Konsorcïwm
     ko: 연합체
     ky: Консорциум
@@ -131,7 +131,7 @@ dv_has_:
     sk: konzorcium
     sl: konzorcij
     sr: конзорцијум
-    sr-ec: конзорцијум
+    sr_ec: конзорцијум
     sv: konsortium
     th: คอนโซเตียม
     tl: konsorsyum
@@ -141,12 +141,12 @@ dv_has_:
     vi: côngxoocxiom
     yue: 聯盟
     zh: 聯盟
-    zh-cn: 联盟
-    zh-hans: 联盟
-    zh-hant: 聯盟
-    zh-hk: 聯盟
-    zh-sg: 联盟
-    zh-tw: 聯盟
+    zh_cn: 联盟
+    zh_hans: 联盟
+    zh_hant: 聯盟
+    zh_hk: 聯盟
+    zh_sg: 联盟
+    zh_tw: 聯盟
 ---
 # [[Consortium]] 
 

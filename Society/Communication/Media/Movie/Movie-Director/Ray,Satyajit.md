@@ -187,7 +187,7 @@ dv_has_:
     ba: Сатьяджит Рай
     bar: Satyajit Ray
     be: Сацьяджыт Рэй
-    be-tarask: Сат’яджыт Рай
+    be_tarask: Сат’яджыт Рай
     bew: Satyajit Ray
     bg: Сатяджит Рей
     bi: Satyajit Ray
@@ -210,8 +210,8 @@ dv_has_:
     dty: सत्यजित राय
     el: Σατιατζίτ Ράι
     en: Satyajit Ray
-    en-ca: Satyajit Ray
-    en-gb: Satyajit Ray
+    en_ca: Satyajit Ray
+    en_gb: Satyajit Ray
     eo: Satyajit Ray
     es: Satyajit Ray
     et: Satyajit Ray
@@ -276,7 +276,7 @@ dv_has_:
     pms: Satyajit Ray
     pnb: ستیہ جیت راۓ
     pt: Satyajit Ray
-    pt-br: Satyajit Ray
+    pt_br: Satyajit Ray
     qu: Satyajit Ray
     ro: Satyajit Ray
     roa-tara: Satyajit Ray
@@ -312,10 +312,10 @@ dv_has_:
     yi: סאטיאדזשיט ריי
     yue: 薩耶哲雷
     zh: 萨蒂亚吉特·雷伊
-    zh-hk: 薩耶哲·雷
+    zh_hk: 薩耶哲·雷
     zh-my: 萨雅吉·雷
-    zh-sg: 萨耶哲·雷
-    zh-tw: 薩雅吉·雷
+    zh_sg: 萨耶哲·雷
+    zh_tw: 薩雅吉·雷
 ---
 # [[Ray,Satyajit]] 
 

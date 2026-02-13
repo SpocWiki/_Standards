@@ -127,7 +127,7 @@ dv_has_:
     ast: nebulosa del Cangrejo
     az: Xərçəng dumanlığı
     be: Аб'ект Месье M1
-    be-tarask: Крабападобная туманнасьць
+    be_tarask: Крабападобная туманнасьць
     bg: Ракообразна мъглявина
     bn: ক্র্যাব নেবুলা
     bs: Rakova maglina
@@ -139,8 +139,8 @@ dv_has_:
     de: Krebsnebel
     el: Νεφέλωμα του Καρκίνου
     en: Crab Nebula
-    en-ca: Crab Nebula
-    en-gb: Crab Nebula
+    en_ca: Crab Nebula
+    en_gb: Crab Nebula
     eo: M1
     es: Nebulosa del Cangrejo
     et: Krabi udu
@@ -183,7 +183,7 @@ dv_has_:
     pl: Mgławica Kraba
     pnb: کیکڑا بدلی
     pt: nebulosa do Caranguejo
-    pt-br: Nebulosa do Caranguejo
+    pt_br: Nebulosa do Caranguejo
     ro: Nebuloasa Crabului
     ru: Крабовидная туманность
     sco: Crab Nebula

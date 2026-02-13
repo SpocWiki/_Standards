@@ -77,7 +77,7 @@ dv_has_:
     ast: Argumentu
     az: arqument
     be: Аргумент (логіка)
-    be-tarask: аргумэнт
+    be_tarask: аргумэнт
     bew: Hujah (mantèk)
     bs: argument
     ca: argument
@@ -85,11 +85,11 @@ dv_has_:
     cs: argument
     da: argumentation
     de: Argument
-    de-ch: Argument
+    de_ch: Argument
     el: επιχείρημα
     en: argument
-    en-ca: Argument
-    en-gb: argument
+    en_ca: Argument
+    en_gb: argument
     eo: argumento
     es: argumento
     et: arutlus
@@ -109,11 +109,11 @@ dv_has_:
     ja: 論証
     ka: არგუმენტი
     kk: Аргумент
-    kk-arab: ارگۋمەنت
+    kk_arab: ارگۋمەنت
     kk-cn: ارگۋمەنت
-    kk-cyrl: Аргумент
+    kk_cyrl: Аргумент
     kk-kz: Аргумент
-    kk-latn: Argwment
+    kk_latn: Argwment
     kk-tr: Argwment
     ko: 논증
     la: Argumentum
@@ -127,7 +127,7 @@ dv_has_:
     pl: argument
     ps: منطق (استدلال)
     pt: argumento
-    pt-br: Argumento
+    pt_br: Argumento
     ro: argument
     ru: аргумент
     sd: دليل
@@ -136,8 +136,8 @@ dv_has_:
     sl: argument
     sq: Argumenti
     sr: Доказ
-    sr-ec: Доказ
-    sr-el: Dokaz
+    sr_ec: Доказ
+    sr_el: Dokaz
     su: Arguméntasi
     sv: argumentation
     ta: வாதம்
@@ -151,12 +151,12 @@ dv_has_:
     xmf: არგუმენტი
     yue: 論證
     zh: 逻辑论证
-    zh-cn: 逻辑论证
-    zh-hans: 逻辑论证
-    zh-hant: 邏輯論證
-    zh-hk: 邏輯論證
-    zh-sg: 逻辑论证
-    zh-tw: 邏輯論證
+    zh_cn: 逻辑论证
+    zh_hans: 逻辑论证
+    zh_hant: 邏輯論證
+    zh_hk: 邏輯論證
+    zh_sg: 逻辑论证
+    zh_tw: 邏輯論證
 ---
 # [[Argument]] 
 

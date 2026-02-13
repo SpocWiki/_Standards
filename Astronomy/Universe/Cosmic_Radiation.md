@@ -142,7 +142,7 @@ dv_has_:
     ast: radiación cósmico
     az: kosmik şüalar
     be: касмічныя прамяні
-    be-tarask: касьмічныя прамяні
+    be_tarask: касьмічныя прамяні
     bg: космически лъчи
     blk: ကော့မစ်ရောင်ႏတဆဝ်
     bn: মহাজাগতিক রশ্মি
@@ -215,8 +215,8 @@ dv_has_:
     sl: kozmično sevanje
     smn: kosmisâš suonjârdem
     sr: космичко зрачење
-    sr-ec: космичко зрачење
-    sr-el: kosmičko zračenje
+    sr_ec: космичко зрачење
+    sr_el: kosmičko zračenje
     su: sinar kosmik
     sv: kosmiska partiklar
     ta: அண்டக் கதிர்கள்
@@ -233,8 +233,8 @@ dv_has_:
     xmf: კოსმოსური ჩხორიეფი
     yue: 宇宙射線
     zh: 宇宙線
-    zh-hans: 宇宙线
-    zh-hant: 宇宙線
+    zh_hans: 宇宙线
+    zh_hant: 宇宙線
 ---
 # [[Cosmic_Radiation]] 
 

@@ -138,7 +138,7 @@ dv_has_:
     ast: Hylobatidae
     avk: tcardioleem
     az: Hibbonlar
-    be-tarask: Гібонавыя
+    be_tarask: Гібонавыя
     bg: гибони
     bjn: Uwa-uwa
     br: Gibbon
@@ -152,7 +152,7 @@ dv_has_:
     diq: Cibon
     el: Γίββων
     en: gibbon
-    en-gb: gibbon
+    en_gb: gibbon
     eo: Gibonoj
     es: hilobátido
     et: Gibon
@@ -214,7 +214,7 @@ dv_has_:
     ta: கிப்பன்
     te: గిబ్బన్
     tg: Гиббонҳо
-    tg-latn: Gibbonho
+    tg_latn: Gibbonho
     th: ชะนี
     tl: Hylobatidae
     tr: Gibongiller
@@ -224,10 +224,10 @@ dv_has_:
     wuu: 长臂猿
     yue: 長臂猿
     zh: 长臂猿科
-    zh-cn: 长臂猿科
-    zh-hans: 长臂猿科
-    zh-hant: 長臂猿科
-    zh-tw: 長臂猿科
+    zh_cn: 长臂猿科
+    zh_hans: 长臂猿科
+    zh_hant: 長臂猿科
+    zh_tw: 長臂猿科
 ---
 # [[Gibbon]] 
 

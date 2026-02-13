@@ -193,7 +193,7 @@ dv_has_:
     ba: Джеймс Джойс
     bar: James Joyce
     be: Джэймс Джойс
-    be-tarask: Джэймз Джойс
+    be_tarask: Джэймз Джойс
     bg: Джеймс Джойс
     bho: जेम्स जॉयस
     bi: James Joyce
@@ -215,8 +215,8 @@ dv_has_:
     diq: James Joyce
     el: Τζέιμς Τζόις
     en: James Joyce
-    en-ca: James Joyce
-    en-gb: James Joyce
+    en_ca: James Joyce
+    en_gb: James Joyce
     eo: James Joyce
     es: James Joyce
     et: James Joyce
@@ -286,7 +286,7 @@ dv_has_:
     nan: James Joyce
     nb: James Joyce
     nds: James Joyce
-    nds-nl: James Joyce
+    nds_nl: James Joyce
     new: जेम्स जोइस
     nl: James Joyce
     nn: James Joyce
@@ -303,7 +303,7 @@ dv_has_:
     pnb: جیمز جوائس
     ps: جېمز جویس
     pt: James Joyce
-    pt-br: James Joyce
+    pt_br: James Joyce
     qu: James Joyce
     rm: James Joyce
     ro: James Joyce
@@ -346,9 +346,9 @@ dv_has_:
     yo: James Joyce
     yue: 喬伊斯
     zh: 詹姆斯·乔伊斯
-    zh-cn: 詹姆斯·乔伊斯
-    zh-hans: 詹姆斯·乔伊斯
-    zh-hk: 占士·哉斯
+    zh_cn: 詹姆斯·乔伊斯
+    zh_hans: 詹姆斯·乔伊斯
+    zh_hk: 占士·哉斯
 ---
 # [[Joyce,James]] 
 

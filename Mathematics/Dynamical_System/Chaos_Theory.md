@@ -94,7 +94,7 @@ dv_has_:
     az: xaos nəzəriyyəsi
     ba: хаос теорияһы
     be: тэорыя хаосу
-    be-tarask: тэорыя хаосу
+    be_tarask: тэорыя хаосу
     bg: теория на хаоса
     bn: বিশৃঙ্খলা তত্ত্ব
     bs: Teorija haosa
@@ -146,7 +146,7 @@ dv_has_:
     pl: chaos deterministyczny
     pnb: نظریۂ شواش
     pt: teoria do caos
-    pt-br: teoria do caos
+    pt_br: teoria do caos
     ro: teoria haosului
     ru: теория хаоса
     scn: tiurìa dû caos
@@ -156,8 +156,8 @@ dv_has_:
     sl: teorija kaosa
     sq: Teoria e kaosit
     sr: теорија хаоса
-    sr-ec: теорија хаоса
-    sr-el: teorija haosa
+    sr_ec: теорија хаоса
+    sr_el: teorija haosa
     sv: kaosforskning
     ta: ஒழுங்கின்மை கோட்பாடு
     th: ทฤษฎีความอลวน
@@ -169,12 +169,12 @@ dv_has_:
     wuu: 混沌理论
     yue: 混沌理論
     zh: 混沌理论
-    zh-cn: 混沌理论
-    zh-hans: 混沌理论
-    zh-hant: 混沌理論
-    zh-hk: 混沌理論
-    zh-sg: 混沌理论
-    zh-tw: 混沌理論
+    zh_cn: 混沌理论
+    zh_hans: 混沌理论
+    zh_hant: 混沌理論
+    zh_hk: 混沌理論
+    zh_sg: 混沌理论
+    zh_tw: 混沌理論
 ---
 # [[Chaos_Theory]] 
 

@@ -29,7 +29,7 @@ dv_has_:
     oc: Coccinelloidea
     pl: Coccinelloidea
     pt: Coccinelloidea
-    pt-br: Coccinelloidea
+    pt_br: Coccinelloidea
     ro: Coccinelloidea
     ru: Coccinelloidea
     sl: Coccinelloidea
@@ -39,8 +39,8 @@ dv_has_:
     vo: Coccinelloidea
     war: Coccinelloidea
     zh: 瓢虫总科
-    zh-cn: 瓢甲总科
-    zh-hans: 瓢甲总科
+    zh_cn: 瓢甲总科
+    zh_hans: 瓢甲总科
 aliases:
 - Coccinelloidea
 - 瓢甲总科

@@ -86,15 +86,15 @@ dv_has_:
     avk: ukanoleem
     azb: ماکروسلیدیده
     be: Скакунчыкавыя
-    be-tarask: Скакунчыкі
+    be_tarask: Скакунчыкі
     bg: слонски земеровки
     ca: Musaranyes elefant
     ceb: Macroscelididae
     cs: bércounovití
     de: Rüsselspringer
     en: Macroscelididae
-    en-ca: Elephant shrew
-    en-gb: Elephant shrew
+    en_ca: Elephant shrew
+    en_gb: Elephant shrew
     eo: Makrosceliduloj
     es: Macroscelididae
     et: Torukoonlased
@@ -131,7 +131,7 @@ dv_has_:
     oc: Macroscelididae
     pl: Ryjkonosowate
     pt: Macroscelididae
-    pt-br: Macroscelididae
+    pt_br: Macroscelididae
     ro: Macroscelididae
     ru: прыгунчиковые
     sco: Elephant shrew
@@ -149,8 +149,8 @@ dv_has_:
     war: Macroscelididae
     yue: 象鼩
     zh: 象鼩科
-    zh-cn: 象鼩科
-    zh-hans: 象鼩科
+    zh_cn: 象鼩科
+    zh_hans: 象鼩科
 ---
 # [[Macroscelididae]]
 

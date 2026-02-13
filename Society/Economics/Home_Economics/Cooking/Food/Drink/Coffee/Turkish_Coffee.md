@@ -82,7 +82,7 @@ dv_has_:
     azb: تورک قهوهسی
     ba: Көнсығышса ҡәһүә
     be: кава па-турэцку
-    be-tarask: кава па-турэцку
+    be_tarask: кава па-турэцку
     bg: Турско кафе
     br: Kafe turk
     bs: Turska kahva

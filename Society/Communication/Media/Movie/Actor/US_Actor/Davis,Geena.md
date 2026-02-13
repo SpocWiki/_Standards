@@ -35,7 +35,7 @@ dv_has_:
     ast: Geena Davis
     az: Cina Devis
     azb: جینا دیویس
-    be-tarask: Джына Дэвіс
+    be_tarask: Джына Дэвіс
     bg: Джина Дейвис
     bn: জিনা ডেভিস
     ca: Geena Davis
@@ -43,11 +43,11 @@ dv_has_:
     cy: Geena Davis
     da: Geena Davis
     de: Geena Davis
-    de-ch: Geena Davis
+    de_ch: Geena Davis
     el: Τζίνα Ντέιβις
     en: Geena Davis
-    en-ca: Geena Davis
-    en-gb: Geena Davis
+    en_ca: Geena Davis
+    en_gb: Geena Davis
     eo: Geena Davis
     es: Geena Davis
     et: Geena Davis
@@ -87,7 +87,7 @@ dv_has_:
     pl: Geena Davis
     pnb: جینا ڈیوس
     pt: Geena Davis
-    pt-br: Geena Davis
+    pt_br: Geena Davis
     ro: Geena Davis
     ru: Джина Дэвис
     sco: Geena Davis
@@ -109,7 +109,7 @@ dv_has_:
     xmf: ჯინა დევისი
     yo: Geena Davis
     zh: 吉娜·戴维斯
-    zh-sg: 珍娜·戴维丝
+    zh_sg: 珍娜·戴维丝
 ---
 #has_/time_/started :: 1956-01-21 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

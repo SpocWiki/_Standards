@@ -151,7 +151,7 @@ dv_has_:
     ast: Andrew Lloyd Webber
     az: Endryu Lloyd Vebber
     be: Эндру Лойд Уэбер
-    be-tarask: Эндру Лойд Ўэбэр
+    be_tarask: Эндру Лойд Ўэбэр
     bg: Андрю Лойд Уебър
     bs: Andrew Lloyd Webber
     ca: Andrew Lloyd Webber
@@ -161,8 +161,8 @@ dv_has_:
     de: Andrew Lloyd Webber
     el: Άντριου Λόιντ Βέμπερ
     en: Andrew Lloyd Webber
-    en-ca: Andrew Lloyd Webber
-    en-gb: Andrew Lloyd Webber
+    en_ca: Andrew Lloyd Webber
+    en_gb: Andrew Lloyd Webber
     eo: Andrew Lloyd Webber
     es: Andrew Lloyd Webber
     et: Andrew Lloyd Webber
@@ -197,7 +197,7 @@ dv_has_:
     pam: Andrew Lloyd Webber
     pl: Andrew Lloyd Webber
     pt: Andrew Lloyd Webber
-    pt-br: Andrew Lloyd Webber
+    pt_br: Andrew Lloyd Webber
     ro: Andrew Lloyd Webber
     ru: Эндрю Ллойд Уэббер
     se: Andrew Lloyd Webber
@@ -206,8 +206,8 @@ dv_has_:
     sl: Andrew Lloyd Webber
     sq: Andrew Lloyd Webber
     sr: Ендру Лојд Вебер
-    sr-ec: Ендру Лојд Вебер
-    sr-el: Endru Lojd Veber
+    sr_ec: Ендру Лојд Вебер
+    sr_el: Endru Lojd Veber
     sv: Andrew Lloyd Webber
     th: แอนดรูว์ ลอยด์ เวบเบอร์
     tr: Andrew Lloyd Webber
@@ -218,12 +218,12 @@ dv_has_:
     yi: ענדרו לויד וועבער
     yue: 安祖萊特韋伯
     zh: 安德鲁·劳埃德·韦伯
-    zh-cn: 安德鲁·劳埃德·韦伯
-    zh-hans: 安德鲁·劳埃德·韦伯
-    zh-hant: 安德魯·洛伊·韋伯
-    zh-hk: 安祖·萊特·韋巴
-    zh-sg: 安德鲁·劳埃德·韦伯
-    zh-tw: 安德魯·洛伊·韋伯
+    zh_cn: 安德鲁·劳埃德·韦伯
+    zh_hans: 安德鲁·劳埃德·韦伯
+    zh_hant: 安德魯·洛伊·韋伯
+    zh_hk: 安祖·萊特·韋巴
+    zh_sg: 安德鲁·劳埃德·韦伯
+    zh_tw: 安德魯·洛伊·韋伯
 ---
 # [[Lloyd_Webber,Andrew]] 
 

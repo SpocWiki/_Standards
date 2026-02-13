@@ -329,7 +329,7 @@ dv_has_:
     ba: Геракл
     bar: Herakles
     be: Геракл
-    be-tarask: Гэракл
+    be_tarask: Гэракл
     bg: Херакъл
     br: Herakles
     bs: Heraklo
@@ -341,8 +341,8 @@ dv_has_:
     de: Herakles
     el: Ηρακλής
     en: Heracles
-    en-ca: Heracles
-    en-gb: Heracles
+    en_ca: Heracles
+    en_gb: Heracles
     eo: Heraklo
     es: Heracles
     et: Herakles
@@ -367,15 +367,15 @@ dv_has_:
     ja: ヘーラクレース
     ka: ჰერაკლე
     kk: Геракл
-    kk-arab: گەراكل
+    kk_arab: گەراكل
     kk-cn: گەراكل
-    kk-cyrl: Геракл
+    kk_cyrl: Геракл
     kk-kz: Геракл
-    kk-latn: Gerakl
+    kk_latn: Gerakl
     kk-tr: Gerakl
     ko: 헤라클레스
     ku: Hêraklês
-    ku-latn: Hêraklês
+    ku_latn: Hêraklês
     ky: Геракл
     la: Hercules
     lb: Herakles
@@ -395,7 +395,7 @@ dv_has_:
     pl: Herakles
     pms: Éracle
     pt: Héracles
-    pt-br: Héracles
+    pt_br: Héracles
     ro: Heracle
     ru: Геракл
     sco: Herakles
@@ -404,17 +404,17 @@ dv_has_:
     sl: Heraklej
     sq: Herakliu
     sr: Херакле
-    sr-ec: Херакле
-    sr-el: Herakle
+    sr_ec: Херакле
+    sr_el: Herakle
     sv: Herakles
     ta: ஹெராக்கிள்ஸ்
     te: హెరాకిల్స్
     tg: Геракл
-    tg-latn: Gerakl
+    tg_latn: Gerakl
     th: เฮราคลีส
     tr: Herkül
     tt: Һеракл
-    tt-cyrl: Һеракл
+    tt_cyrl: Һеракл
     tyv: Геркулес
     uk: Геракл
     uz: Gerakl
@@ -426,12 +426,12 @@ dv_has_:
     xmf: ჰერაკლე
     yue: 海格力斯
     zh: 赫拉克勒斯
-    zh-cn: 赫拉克勒斯
-    zh-hans: 赫拉克勒斯
-    zh-hant: 赫拉克勒斯
-    zh-hk: 海格力斯
-    zh-sg: 赫拉克勒斯
-    zh-tw: 海克力斯
+    zh_cn: 赫拉克勒斯
+    zh_hans: 赫拉克勒斯
+    zh_hant: 赫拉克勒斯
+    zh_hk: 海格力斯
+    zh_sg: 赫拉克勒斯
+    zh_tw: 海克力斯
 ---
 # [[Heracles]] 
 

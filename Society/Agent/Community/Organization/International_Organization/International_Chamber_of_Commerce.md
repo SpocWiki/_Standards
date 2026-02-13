@@ -88,7 +88,7 @@ dv_has_:
     arz: غرفة التجاره الدوليه
     ast: Cámara de Comerciu Internacional
     be: Міжнародная гандлёвая палата
-    be-tarask: Міжнародная гандлёвая палата
+    be_tarask: Міжнародная гандлёвая палата
     bg: Международна търговска палата
     bn: ইন্টারন্যাশনাল চেম্বার অব কমার্স
     ca: Cambra de Comerç Internacional
@@ -132,8 +132,8 @@ dv_has_:
     vec: Càmara de Comerso Internasionałe
     vi: Phòng Thương mại Quốc tế
     zh: 國際商會
-    zh-cn: 国际商会
-    zh-hans: 国际商会
+    zh_cn: 国际商会
+    zh_hans: 国际商会
 ---
 # [[International_Chamber_of_Commerce]] 
 

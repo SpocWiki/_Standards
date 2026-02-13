@@ -49,7 +49,7 @@ dv_has_:
     arz: داخليات الشرج
     ast: Entoprocta
     az: Sonboşluqlar
-    be-tarask: унутрыпарашыцавыя
+    be_tarask: унутрыпарашыцавыя
     bg: ентопрокти
     bs: Entoprocta
     ca: Entoprocte
@@ -93,15 +93,15 @@ dv_has_:
     oc: Entoprocta
     pl: Kielichowate
     pt: Entoprocta
-    pt-br: Entoprocta
+    pt_br: Entoprocta
     ro: Entoprocta
     ru: внутрипорошицевые
     sk: Pamachovky
     sl: čaškarji
     sq: Entoprocta
     sr: Entoprocta
-    sr-ec: Entoprocta
-    sr-el: Entoprocta
+    sr_ec: Entoprocta
+    sr_el: Entoprocta
     sv: bägardjur
     sw: kinyama-kidoto
     th: Entoprocta
@@ -115,12 +115,12 @@ dv_has_:
     wuu: 内肛动物门
     yue: 內肛動物
     zh: 内肛动物门
-    zh-cn: 内肛动物门
-    zh-hans: 内肛动物门
-    zh-hant: 內肛動物門
-    zh-hk: 內肛動物門
-    zh-sg: 内肛动物门
-    zh-tw: 內肛動物門
+    zh_cn: 内肛动物门
+    zh_hans: 内肛动物门
+    zh_hant: 內肛動物門
+    zh_hk: 內肛動物門
+    zh_sg: 内肛动物门
+    zh_tw: 內肛動物門
 ---
 # [[Entoprocta]]
 

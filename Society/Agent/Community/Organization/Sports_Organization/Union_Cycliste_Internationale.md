@@ -290,7 +290,7 @@ dv_has_:
     ar: الاتحاد الدولي للدراجات
     ast: Xunión Ciclista Internacional
     be: Міжнародны саюз веласіпедыстаў
-    be-tarask: Міжнародны зьвяз раварыстаў
+    be_tarask: Міжнародны зьвяз раварыстаў
     bg: Международен колоездачен съюз
     ca: Unió Ciclista Internacional
     cs: Mezinárodní cyklistická unie
@@ -341,14 +341,14 @@ dv_has_:
     vi: Liên đoàn Xe đạp Quốc tế
     wuu: 国际自行车联盟
     zh: 國際自行車聯盟
-    zh-cn: 国际自行车联盟
-    zh-hans: 国际自行车联盟
-    zh-hant: 國際自由車總會
-    zh-hk: 國際單車聯盟
-    zh-mo: 國際單車聯盟
+    zh_cn: 国际自行车联盟
+    zh_hans: 国际自行车联盟
+    zh_hant: 國際自由車總會
+    zh_hk: 國際單車聯盟
+    zh_mo: 國際單車聯盟
     zh-my: 国际自行车联盟
-    zh-sg: 国际自行车联盟
-    zh-tw: 國際自由車總會
+    zh_sg: 国际自行车联盟
+    zh_tw: 國際自由車總會
 ---
 # [[Union_Cycliste_Internationale]] 
 

@@ -110,7 +110,7 @@ dv_has_:
     az: Ueddell dənizi
     ba: Уэддел дингеҙ
     be: Мора Уэдэла
-    be-tarask: Мора Ўэдэла
+    be_tarask: Мора Ўэдэла
     bg: Море Уедъл
     bn: ওয়েডেল সাগর
     br: Mor Weddell
@@ -171,8 +171,8 @@ dv_has_:
     sk: Weddellovo more
     sl: Weddllovo morje
     sr: Веделово море
-    sr-ec: Веделово море
-    sr-el: Vedelovo more
+    sr_ec: Веделово море
+    sr_el: Vedelovo more
     sv: Weddellhavet
     sw: Bahari ya Weddell
     ta: வெட்டல் கடல்
@@ -187,12 +187,12 @@ dv_has_:
     xmf: უედელიშ ზუღა
     yue: 威德爾海
     zh: 威德尔海
-    zh-cn: 威德尔海
-    zh-hans: 威德尔海
-    zh-hant: 威德爾海
-    zh-hk: 威德爾海
-    zh-sg: 威德尔海
-    zh-tw: 威德爾海
+    zh_cn: 威德尔海
+    zh_hans: 威德尔海
+    zh_hant: 威德爾海
+    zh_hk: 威德爾海
+    zh_sg: 威德尔海
+    zh_tw: 威德爾海
 ---
 # [[Weddell_Sea]] 
 

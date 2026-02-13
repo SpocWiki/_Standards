@@ -86,7 +86,7 @@ dv_has_:
     oc: Protura
     pl: Pierwogonki
     pt: Protura
-    pt-br: Protura
+    pt_br: Protura
     ro: Protura
     ru: бессяжковые
     sq: Protura
@@ -100,12 +100,12 @@ dv_has_:
     war: Protura
     yo: Proturan
     zh: 原尾目
-    zh-cn: 原尾目
-    zh-hans: 原尾目
-    zh-hant: 原尾目
-    zh-hk: 原尾目
-    zh-sg: 原尾目
-    zh-tw: 原尾目
+    zh_cn: 原尾目
+    zh_hans: 原尾目
+    zh_hant: 原尾目
+    zh_hk: 原尾目
+    zh_sg: 原尾目
+    zh_tw: 原尾目
 ---
 # [[Eosentomata]] 
 

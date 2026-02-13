@@ -135,7 +135,7 @@ dv_has_:
     oc: Vitamina B12
     pl: witamina B12
     pt: vitamina B12
-    pt-br: vitamina B12
+    pt_br: vitamina B12
     ro: vitamina B12
     ru: витамин B12
     rw: Vitamini B12
@@ -144,8 +144,8 @@ dv_has_:
     sl: vitamin B12
     sq: Vitamina B12
     sr: витамин Б12
-    sr-ec: Витамин Б12
-    sr-el: Vitamin B12
+    sr_ec: Витамин Б12
+    sr_el: Vitamin B12
     sv: Kobalamin
     ta: உயிர்ச்சத்து பி12
     te: విటమిన్ బీ12
@@ -159,12 +159,12 @@ dv_has_:
     wuu: 维生素B12
     yue: 維他命B12
     zh: 维生素B12
-    zh-cn: 维生素B12
-    zh-hans: 维生素B12
-    zh-hant: 维生素B12
-    zh-hk: 维生素B12
-    zh-sg: 维生素B12
-    zh-tw: 维生素B12
+    zh_cn: 维生素B12
+    zh_hans: 维生素B12
+    zh_hant: 维生素B12
+    zh_hk: 维生素B12
+    zh_sg: 维生素B12
+    zh_tw: 维生素B12
 ---
 # [[Vitamin_B12]] 
 

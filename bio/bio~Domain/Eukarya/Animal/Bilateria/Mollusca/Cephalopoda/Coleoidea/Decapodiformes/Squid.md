@@ -110,7 +110,7 @@ dv_has_:
     ban: Cumi
     bcl: Pusit
     be: кальмары
-    be-tarask: кальмары
+    be_tarask: кальмары
     bew: Juhi
     bg: калмари
     bn: স্কুইড
@@ -172,7 +172,7 @@ dv_has_:
     os: кальмартæ
     pl: kałamarnice
     pt: Lula
-    pt-br: Teuthida
+    pt_br: Teuthida
     qu: Samanna
     ro: Calmar
     ru: кальмары
@@ -199,8 +199,8 @@ dv_has_:
     yo: Ẹja ọlọ́wọ́ mẹ́wàá
     yue: 魷魚
     zh: 管魷目
-    zh-cn: 管魷目
-    zh-hans: 管鱿目
+    zh_cn: 管魷目
+    zh_hans: 管鱿目
 ---
 # [[Squid]] 🦑 
 

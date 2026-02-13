@@ -64,8 +64,8 @@ dv_has_:
     de: Transportschicht
     el: Επίπεδο μεταφοράς
     en: transport layer
-    en-ca: transport layer
-    en-gb: transport layer
+    en_ca: transport layer
+    en_gb: transport layer
     eo: transporta tavolo
     es: capa de transporte
     et: Transpordikiht
@@ -81,11 +81,11 @@ dv_has_:
     it: livello di trasporto
     ja: トランスポート層
     kk: Көліктік деңгей
-    kk-arab: كولىكتىك دەڭگەي
+    kk_arab: كولىكتىك دەڭگەي
     kk-cn: كولىكتىك دەڭگەي
-    kk-cyrl: Көліктік деңгей
+    kk_cyrl: Көліктік деңгей
     kk-kz: Көліктік деңгей
-    kk-latn: Köliktik deñgeý
+    kk_latn: Köliktik deñgeý
     kk-tr: Köliktik deñgeý
     ko: 전송 계층
     lmo: Nivell de straport
@@ -98,7 +98,7 @@ dv_has_:
     nn: transportlaget
     pl: warstwa transportowa
     pt: camada de transporte
-    pt-br: camada de transporte
+    pt_br: camada de transporte
     ro: nivelul transport
     ru: транспортный уровень
     sk: transportná vrstva
@@ -110,12 +110,12 @@ dv_has_:
     vi: Tầng giao vận
     wuu: 传输层
     zh: 传输层
-    zh-cn: 传输层
-    zh-hans: 传输层
-    zh-hant: 傳輸層
-    zh-hk: 傳輸層
-    zh-sg: 传输层
-    zh-tw: 傳輸層
+    zh_cn: 传输层
+    zh_hans: 传输层
+    zh_hant: 傳輸層
+    zh_hk: 傳輸層
+    zh_sg: 传输层
+    zh_tw: 傳輸層
 ---
 # [[OSI~4-Transport]] 
 

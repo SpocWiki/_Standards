@@ -135,7 +135,7 @@ dv_has_:
     azb: دؤلت شهر
     ba: ҡала-дәүләт
     be: горад-дзяржава
-    be-tarask: места-дзяржава
+    be_tarask: места-дзяржава
     bg: Град-държава
     bn: নগররাষ্ট্র
     bs: grad-država
@@ -176,8 +176,8 @@ dv_has_:
     km: ទីក្រុង-រដ្ឋ
     ko: 도시국가
     ku: bajar-welat
-    ku-arab: باژێر-وەلات
-    ku-latn: bajar-welat
+    ku_arab: باژێر-وەلات
+    ku_latn: bajar-welat
     la: urbs-civitas
     lo: ນະຄອນລັດ
     lt: Miestas-valstybė
@@ -192,7 +192,7 @@ dv_has_:
     nah: Āltepētlahtohcāyōtl
     nb: bystat
     nds: Stadtstat
-    nds-nl: stadstoat
+    nds_nl: stadstoat
     nl: stadstaat
     nn: bystat
     oc: Ciutat-estat
@@ -201,7 +201,7 @@ dv_has_:
     pnb: شہر ریاست
     ps: ښاري دولت (خپلواک ښار)
     pt: cidade-Estado
-    pt-br: cidade-Estado
+    pt_br: cidade-Estado
     ro: oraș-stat
     ru: город-государство
     se: gávpotstáhta
@@ -212,8 +212,8 @@ dv_has_:
     sms: gååradvaldia
     sq: Qytet-shteti
     sr: град-држава
-    sr-ec: град-држава
-    sr-el: grad-država
+    sr_ec: град-држава
+    sr_el: grad-država
     sv: stadsstat
     sw: Dola-mji
     ta: நகர அரசு
@@ -232,12 +232,12 @@ dv_has_:
     yo: oríle-èdè onílùúkan
     yue: 城邦
     zh: 城邦
-    zh-cn: 城邦
-    zh-hans: 城邦
-    zh-hant: 城邦
-    zh-hk: 城邦
-    zh-sg: 城邦
-    zh-tw: 城邦
+    zh_cn: 城邦
+    zh_hans: 城邦
+    zh_hant: 城邦
+    zh_hk: 城邦
+    zh_sg: 城邦
+    zh_tw: 城邦
 ---
 # [[City-State]] 
 

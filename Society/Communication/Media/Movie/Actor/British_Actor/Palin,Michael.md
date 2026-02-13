@@ -38,11 +38,11 @@ dv_has_:
     da: Michael Palin
     dag: Michael Palin
     de: Michael Palin
-    de-ch: Michael Palin
+    de_ch: Michael Palin
     el: Μάικλ Πέιλιν
     en: Michael Palin
-    en-ca: Michael Palin
-    en-gb: Michael Palin
+    en_ca: Michael Palin
+    en_gb: Michael Palin
     eo: Michael Palin
     es: Michael Palin
     eu: Michael Palin
@@ -71,7 +71,7 @@ dv_has_:
     nn: Michael Palin
     pl: Michael Palin
     pt: Michael Palin
-    pt-br: Michael Palin
+    pt_br: Michael Palin
     ro: Michael Palin
     ru: Майкл Пейлин
     sco: Michael Palin

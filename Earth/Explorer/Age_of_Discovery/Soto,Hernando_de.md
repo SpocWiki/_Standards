@@ -92,7 +92,7 @@ dv_has_:
     avk: Hernando de Soto
     az: Ernando de Soto
     be: Эрнанда дэ Сота
-    be-tarask: Эрнанда дэ Сота
+    be_tarask: Эрнанда дэ Сота
     bg: Ернандо де Сото
     br: Hernando de Soto
     ca: Hernando de Soto
@@ -137,7 +137,7 @@ dv_has_:
     pl: Hernando de Soto
     pms: Hernando de Soto
     pt: Hernando de Soto
-    pt-br: Hernando de Soto
+    pt_br: Hernando de Soto
     qu: Hernando de Soto
     ro: Hernando de Soto
     ru: Эрнандо де Сото

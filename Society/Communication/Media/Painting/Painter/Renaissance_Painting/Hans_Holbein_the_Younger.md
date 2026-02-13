@@ -252,7 +252,7 @@ dv_has_:
     ast: Hans Holbein el Mozu
     ba: Ганс Гольбейн
     be: Ганс Гольбейн Малодшы
-    be-tarask: Ганс Гольбайн-малодшы
+    be_tarask: Ганс Гольбайн-малодшы
     bg: Ханс Холбайн Младия
     br: Hans Holbein ar Yaouankañ
     ca: Hans Holbein el Jove
@@ -264,8 +264,8 @@ dv_has_:
     de: Hans Holbein der Jüngere
     el: Χανς Χόλμπαϊν ο νεότερος
     en: Hans Holbein the Younger
-    en-ca: Hans Holbein the Younger
-    en-gb: Hans Holbein the Younger
+    en_ca: Hans Holbein the Younger
+    en_gb: Hans Holbein the Younger
     eo: Hans Holbein la malpliaĝa
     es: Hans Holbein el Joven
     eu: Hans Holbein Gaztea
@@ -301,7 +301,7 @@ dv_has_:
     nn: Hans Holbein den yngre
     pl: Hans Holbein Młodszy
     pt: Hans Holbein, o Jovem
-    pt-br: Hans Holbein
+    pt_br: Hans Holbein
     ro: Hans Holbein cel Tânăr
     ru: Ганс Гольбейн Младший
     scn: Hans Holbein lu Picciottu
@@ -310,7 +310,7 @@ dv_has_:
     sl: Hans Holbein mlajši
     sq: Hans Holbein
     sr: Ханс Холбајн Млађи
-    sr-ec: Ханс Холбајн Млађи
+    sr_ec: Ханс Холбајн Млађи
     stq: Hans Holbein
     sv: Hans Holbein den yngre
     th: ฮันส์ ฮ็อลไบน์
@@ -320,8 +320,8 @@ dv_has_:
     wuu: 小汉斯·霍尔拜因
     yue: 小漢斯·荷拜因
     zh: 小汉斯·霍尔拜因
-    zh-hans: 小汉斯·霍尔拜因
-    zh-hk: 小漢斯·荷拜因
+    zh_hans: 小汉斯·霍尔拜因
+    zh_hk: 小漢斯·荷拜因
     zu: Hans Holbein the Younger
 ---
 # [[Hans_Holbein_the_Younger]] 

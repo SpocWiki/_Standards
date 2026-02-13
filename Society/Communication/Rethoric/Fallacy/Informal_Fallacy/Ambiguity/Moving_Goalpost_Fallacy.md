@@ -33,9 +33,9 @@ dv_has_:
     sl: premikanje vratnic
     yue: 搬龍門
     zh: 挪動門柱
-    zh-hans: 挪动门柱
-    zh-hant: 挪動門柱
-    zh-hk: 挪動門柱
+    zh_hans: 挪动门柱
+    zh_hant: 挪動門柱
+    zh_hk: 挪動門柱
 ---
 # [[Moving_Goalpost_Fallacy]] 
 

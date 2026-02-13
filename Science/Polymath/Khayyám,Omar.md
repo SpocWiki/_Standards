@@ -161,7 +161,7 @@ dv_has_:
     azb: خیام
     ba: Ғүмәр Хәйәм
     be: Амар Хаям
-    be-tarask: Амар Хаям
+    be_tarask: Амар Хаям
     bg: Омар Хаям
     bn: ওমর খৈয়াম
     bpy: ওমর খৈয়াম
@@ -177,7 +177,7 @@ dv_has_:
     diq: Umer Xeyyam
     el: Ομάρ Καγιάμ
     en: Omar Khayyám
-    en-gb: Omar Khayyam
+    en_gb: Omar Khayyam
     eo: Omar Ĥajam
     es: Omar Jayam
     et: ’Omar Khayyām
@@ -233,7 +233,7 @@ dv_has_:
     pnb: عمر خیام
     ps: عمر خيام
     pt: Omar Khayyam
-    pt-br: Omar Khayyām
+    pt_br: Omar Khayyām
     ro: Omar Khayam
     ru: Омар Хайям
     sah: Омар Хайям

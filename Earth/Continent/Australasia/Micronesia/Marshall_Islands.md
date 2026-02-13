@@ -539,7 +539,7 @@ dv_has_:
   name_:
     ab: Маршаллтәи адгьылбжьахақәа
     ace: Pulo-pulo Marshall
-    aeb-arab: جزر مارشال
+    aeb_arab: جزر مارشال
     af: Marshalleilande
     am: ማርሻል ደሴቶች
     ami: Marshall Island
@@ -556,7 +556,7 @@ dv_has_:
     ban: Kapuloan Marshall
     bcl: Islas Marshall
     be: Маршалавы Астравы
-    be-tarask: Маршалавы астравы
+    be_tarask: Маршалавы астравы
     bew: Pulo Marsal
     bg: Маршалови острови
     bho: मार्शल दीप
@@ -568,7 +568,7 @@ dv_has_:
     bs: Maršalska Ostrva
     bxr: Маршалл аралууд
     ca: Illes Marshall
-    cbk-zam: Islas Marshall
+    cbk_zam: Islas Marshall
     cdo: Marshall Gùng-dō̤
     ce: Маршаллова гlайреш
     ceb: Kapupud-ang Marshall
@@ -577,21 +577,21 @@ dv_has_:
     ckb: دوورگەکانی مارشاڵ
     co: Isuli Marshall
     crh: Marşall Adaları
-    crh-latn: Marşall Adaları
+    crh_latn: Marşall Adaları
     cs: Marshallovy ostrovy
     cy: Ynysoedd Marshall
     da: Marshalløerne
     dag: Marshall Islands
     de: Marshallinseln
     de-at: Marshallinseln
-    de-ch: Marshallinseln
+    de_ch: Marshallinseln
     diq: Adeyê Marşali
     dty: मार्सल आइल्याण्ड
     dv: މާޝަލް ޖަޒީރާ
     el: Νησιά Μάρσαλ
     en: Marshall Islands
-    en-ca: Marshall Islands
-    en-gb: Marshall Islands
+    en_ca: Marshall Islands
+    en_gb: Marshall Islands
     eo: Marŝala Insularo
     es: Islas Marshall
     et: Marshalli Saared
@@ -691,7 +691,7 @@ dv_has_:
     pnb: مارشل آئلینڈ
     ps: مارشال ټاپوګان
     pt: Ilhas Marshall
-    pt-br: Ilhas Marshall
+    pt_br: Ilhas Marshall
     qu: Marshall Wat'akuna
     ro: Insulele Marshall
     ru: Маршалловы Острова
@@ -753,14 +753,14 @@ dv_has_:
     za: Marshall Ginzdauj
     zea: Marshalleilan'n
     zh: 馬紹爾群島
-    zh-cn: 马绍尔群岛
-    zh-hans: 马绍尔群岛
-    zh-hant: 馬紹爾群島
-    zh-hk: 馬紹爾群島
-    zh-mo: 馬紹爾群島
+    zh_cn: 马绍尔群岛
+    zh_hans: 马绍尔群岛
+    zh_hant: 馬紹爾群島
+    zh_hk: 馬紹爾群島
+    zh_mo: 馬紹爾群島
     zh-my: 马绍尔群岛
-    zh-sg: 马绍尔群岛
-    zh-tw: 馬紹爾群島
+    zh_sg: 马绍尔群岛
+    zh_tw: 馬紹爾群島
     zu: i-Marshall Islands
 ---
 # [[Marshall_Islands]] 

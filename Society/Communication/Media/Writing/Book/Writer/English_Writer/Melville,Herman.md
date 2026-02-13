@@ -131,7 +131,7 @@ dv_has_:
     az: German Melvill
     azb: هرمان ملویل
     be: Герман Мелвіл
-    be-tarask: Гэрман Мэлвіл
+    be_tarask: Гэрман Мэлвіл
     bg: Херман Мелвил
     bn: হারমান মেলভিল
     br: Herman Melville
@@ -145,12 +145,12 @@ dv_has_:
     dag: Herman Melville
     de: Herman Melville
     de-at: Herman Melville
-    de-ch: Herman Melville
+    de_ch: Herman Melville
     diq: Herman Melville
     el: Χέρμαν Μέλβιλ
     en: Herman Melville
-    en-ca: Herman Melville
-    en-gb: Herman Melville
+    en_ca: Herman Melville
+    en_gb: Herman Melville
     en-us: Herman Melville
     eo: Herman Melville
     es: Herman Melville
@@ -196,7 +196,7 @@ dv_has_:
     mzn: هرمان ملویل
     nb: Herman Melville
     nds: Herman Melville
-    nds-nl: Herman Melville
+    nds_nl: Herman Melville
     new: हर्मन मेलभिल
     nl: Herman Melville
     nn: Herman Melville
@@ -206,7 +206,7 @@ dv_has_:
     pl: Herman Melville
     pms: Herman Melville
     pt: Herman Melville
-    pt-br: Herman Melville
+    pt_br: Herman Melville
     ro: Herman Melville
     ru: Герман Мелвилл
     rup: Herman Melville

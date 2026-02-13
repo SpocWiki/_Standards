@@ -186,7 +186,7 @@ dv_has_:
     ba: Арыш
     bar: Koan
     be: Жыта пасяўное
-    be-tarask: жыта пасяўное
+    be_tarask: жыта пасяўное
     bg: обикновена ръж
     bn: রাই (শস্য)
     bo: གྲོ་ནག
@@ -206,7 +206,7 @@ dv_has_:
     de: Roggen
     el: Σίκαλη
     en: Secale cereale
-    en-gb: rye
+    en_gb: rye
     eo: sekalo
     es: centeno
     et: harilik rukis
@@ -269,7 +269,7 @@ dv_has_:
     nap: Sécena
     nb: rug
     nds: Roggen
-    nds-nl: raai
+    nds_nl: raai
     nl: rogge
     nn: Rug
     oc: Segal
@@ -279,7 +279,7 @@ dv_has_:
     pms: Sèil
     pnb: رائی
     pt: centeio
-    pt-br: Secale cereale
+    pt_br: Secale cereale
     qu: Sintinu
     ro: Secară
     ru: рожь
@@ -313,8 +313,8 @@ dv_has_:
     yi: קארן
     yue: 黑麥
     zh: 裸麥
-    zh-cn: 黑麦
-    zh-tw: 黑麥
+    zh_cn: 黑麦
+    zh_tw: 黑麥
 ---
 ## #has_/text_of_/abstract 
 

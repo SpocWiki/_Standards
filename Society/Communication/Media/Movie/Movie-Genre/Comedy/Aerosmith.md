@@ -8,7 +8,7 @@ dv_has_:
     az: Aerosmith
     azb: اروسمیث
     be: Aerosmith
-    be-tarask: Aerosmith
+    be_tarask: Aerosmith
     bg: Аеросмит
     bn: অ্যারোস্মিথ
     bs: Aerosmith
@@ -20,7 +20,7 @@ dv_has_:
     el: Aerosmith
     eml: Aerosmith
     en: Aerosmith
-    en-gb: Aerosmith
+    en_gb: Aerosmith
     eo: Aerosmith
     es: Aerosmith
     et: Aerosmith
@@ -59,7 +59,7 @@ dv_has_:
     pl: Aerosmith
     pms: Aerosmith
     pt: Aerosmith
-    pt-br: Aerosmith
+    pt_br: Aerosmith
     ro: Aerosmith
     ru: Aerosmith
     sc: Aerosmith
@@ -70,8 +70,8 @@ dv_has_:
     sl: Aerosmith
     sq: Aerosmith
     sr: Аеросмит
-    sr-ec: Аеросмит
-    sr-el: Aerosmit
+    sr_ec: Аеросмит
+    sr_el: Aerosmit
     sv: Aerosmith
     ta: ஏரோஸ்மித்
     th: แอโรสมิธ
@@ -84,12 +84,12 @@ dv_has_:
     wuu: 空中铁匠
     xmf: Aerosmith
     zh: 空中铁匠
-    zh-cn: 空中铁匠
-    zh-hans: 空中铁匠
-    zh-hant: 史密斯飛船
-    zh-hk: 史密夫飛船
-    zh-sg: 史密斯飞船
-    zh-tw: 史密斯飛船
+    zh_cn: 空中铁匠
+    zh_hans: 空中铁匠
+    zh_hant: 史密斯飛船
+    zh_hk: 史密夫飛船
+    zh_sg: 史密斯飞船
+    zh_tw: 史密斯飛船
 aliases:
 - Aerosmit
 - Aerosmith

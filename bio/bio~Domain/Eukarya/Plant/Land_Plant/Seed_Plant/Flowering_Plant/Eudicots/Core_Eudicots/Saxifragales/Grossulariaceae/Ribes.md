@@ -126,7 +126,7 @@ dv_has_:
     az: Qarağat
     bar: Ribisl
     be: Парэчкі
-    be-tarask: парэчкі
+    be_tarask: парэчкі
     bg: френско грозде
     br: Kastrilhez
     bs: Ribes
@@ -180,7 +180,7 @@ dv_has_:
     mul: Ribes
     myv: Шукшторов
     nb: ripsslekta
-    nds-nl: Jodeboorn
+    nds_nl: Jodeboorn
     nl: Ribes
     nn: Ripsslekta
     oc: Ribes
@@ -188,7 +188,7 @@ dv_has_:
     pfl: Hansgetrauwe
     pl: porzeczka
     pt: Ribes
-    pt-br: Ribes
+    pt_br: Ribes
     ro: Ribes
     ru: Смородина
     sah: Крыжовниктыҥылар
@@ -199,12 +199,12 @@ dv_has_:
     sl: kosmulja, grozdičje
     sq: Ribes
     sr: рибизла
-    sr-ec: рибизла
+    sr_ec: рибизла
     stq: Säntjansbäie
     sv: Vinbärssläktet
     tr: Frenk üzümü
     tt: Карлыган
-    tt-cyrl: карлыган
+    tt_cyrl: карлыган
     udm: Сутэр
     uk: Смородина
     uz: Smorodina
@@ -216,9 +216,9 @@ dv_has_:
     wuu: 醋栗科
     yue: 醋栗屬
     zh: 茶藨子属
-    zh-cn: 茶藨子屬
-    zh-hans: 茶藨子属
-    zh-tw: 茶藨子屬
+    zh_cn: 茶藨子屬
+    zh_hans: 茶藨子属
+    zh_tw: 茶藨子屬
 ---
 # [[Ribes]] 
 

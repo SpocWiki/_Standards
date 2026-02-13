@@ -212,7 +212,7 @@ dv_has_:
     azb: داغ آسلانی
     ban: Kougar
     be: Пума
-    be-tarask: Пума
+    be_tarask: Пума
     bg: пума
     bn: কুগার
     br: Puma
@@ -231,8 +231,8 @@ dv_has_:
     diq: Puma
     el: Πούμα
     en: cougar
-    en-ca: Cougar
-    en-gb: cougar
+    en_ca: Cougar
+    en_gb: cougar
     en-us: cougar
     eo: Pumo
     es: Puma concolor
@@ -294,7 +294,7 @@ dv_has_:
     pl: puma płowa
     pnb: کوگار
     pt: puma
-    pt-br: suçuarana
+    pt_br: suçuarana
     qu: Puma
     ro: Pumă
     ru: пума
@@ -325,8 +325,8 @@ dv_has_:
     yo: Kiniun ti òkè
     yue: 美洲獅
     zh: 美洲金猫属
-    zh-cn: 美洲金猫属
-    zh-tw: 美洲金貓屬
+    zh_cn: 美洲金猫属
+    zh_tw: 美洲金貓屬
 ---
 # [[Cougar]] 
 

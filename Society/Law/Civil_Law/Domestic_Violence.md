@@ -116,7 +116,7 @@ dv_has_:
     az: Ailə daxili şiddət
     ba: өйҙә көс ҡулланыу
     be: дамашні гвалт
-    be-tarask: хатні гвалт
+    be_tarask: хатні гвалт
     bg: Домашно насилие
     bn: পারিবারিক সহিংসতা
     ca: violència domèstica
@@ -182,8 +182,8 @@ dv_has_:
     sms: piârviõkkväʹldd
     sq: Dhuna në familje
     sr: насиље у породици
-    sr-ec: Насиље у породици
-    sr-el: Nasilje u porodici
+    sr_ec: Насиље у породици
+    sr_el: Nasilje u porodici
     sv: våld i hemmet
     sw: Ukatili wa majumbani
     ta: குடும்ப வன்முறை
@@ -196,12 +196,12 @@ dv_has_:
     wuu: 家庭暴力
     yue: 家庭暴力
     zh: 家庭暴力
-    zh-cn: 家庭暴力
-    zh-hans: 家庭暴力
-    zh-hant: 家庭暴力
-    zh-hk: 家庭暴力
-    zh-sg: 家庭暴力
-    zh-tw: 家庭暴力
+    zh_cn: 家庭暴力
+    zh_hans: 家庭暴力
+    zh_hant: 家庭暴力
+    zh_hk: 家庭暴力
+    zh_sg: 家庭暴力
+    zh_tw: 家庭暴力
 ---
 # [[Domestic_Violence]] 
 

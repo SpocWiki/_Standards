@@ -7,7 +7,7 @@ dv_has_:
     arz: زغبيات
     ast: Glires
     be: Glires
-    be-tarask: Glires
+    be_tarask: Glires
     bg: Glires
     ca: Glir
     ceb: Glires
@@ -44,7 +44,7 @@ dv_has_:
     oc: Glires
     pl: siekaczowce
     pt: Glires
-    pt-br: Glires
+    pt_br: Glires
     ro: Glires
     ru: грызунообразные
     sl: Glires
@@ -59,11 +59,11 @@ dv_has_:
     vo: Glires
     war: Glires
     zh: 啮形类
-    zh-cn: 啮形类
-    zh-hans: 啮形类
-    zh-hant: 齧形類
-    zh-hk: 齧形類
-    zh-tw: 齧形類
+    zh_cn: 啮形类
+    zh_hans: 啮形类
+    zh_hant: 齧形類
+    zh_hk: 齧形類
+    zh_tw: 齧形類
 aliases:
 - Glir
 - Glires

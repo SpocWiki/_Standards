@@ -109,8 +109,8 @@ dv_has_:
     el: Τζάνετ Λι
     eml: Janet Leigh
     en: Janet Leigh
-    en-ca: Janet Leigh
-    en-gb: Janet Leigh
+    en_ca: Janet Leigh
+    en_gb: Janet Leigh
     eo: Janet Leigh
     es: Janet Leigh
     et: Janet Leigh
@@ -142,7 +142,7 @@ dv_has_:
     pl: Janet Leigh
     pms: Janet Leigh
     pt: Janet Leigh
-    pt-br: Janet Leigh
+    pt_br: Janet Leigh
     qu: Janet Leigh
     ro: Janet Leigh
     ru: Джанет Ли
@@ -151,8 +151,8 @@ dv_has_:
     sl: Janet Leigh
     sq: Janet Leigh
     sr: Џенет Ли
-    sr-ec: Џенет Ли
-    sr-el: Dženet Li
+    sr_ec: Џенет Ли
+    sr_el: Dženet Li
     sv: Janet Leigh
     th: เจเน็ต ลีห์
     tl: Janet Leigh
@@ -164,10 +164,10 @@ dv_has_:
     yo: Janet Leigh
     yue: 珍納李
     zh: 珍妮特·利
-    zh-cn: 珍妮特·利
-    zh-hk: 珍納·李
+    zh_cn: 珍妮特·利
+    zh_hk: 珍納·李
     zh-my: 珍纳·李
-    zh-sg: 珍纳·李
+    zh_sg: 珍纳·李
 ---
 # [[Leigh,Janet]] 
 

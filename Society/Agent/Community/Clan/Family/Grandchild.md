@@ -160,7 +160,7 @@ dv_has_:
     ar: حفيد أو حفيدة
     az: nəvə
     be: унук ці ўнучка
-    be-tarask: унук
+    be_tarask: унук
     bg: внук/внучка
     bn: সন্তানের সন্তান
     br: bugel-bihan
@@ -173,8 +173,8 @@ dv_has_:
     diq: Torın
     el: εγγόνι
     en: grandchild
-    en-ca: Grandchild
-    en-gb: grandchild
+    en_ca: Grandchild
+    en_gb: grandchild
     eo: nepo aŭ nepino
     es: nieto o nieta
     et: lapselaps
@@ -207,7 +207,7 @@ dv_has_:
     ml: പേരക്കുട്ടി
     mnc: ᠣᠮᠣᠯᠣ
     ms: cucu
-    ms-arab: چوچو
+    ms_arab: چوچو
     mzn: نوه
     nan: Sun
     nb: barnebarn
@@ -224,13 +224,13 @@ dv_has_:
     sl: vnuk
     sms: äkkav
     sr: унуче
-    sr-ec: унуче
-    sr-el: unuče
+    sr_ec: унуче
+    sr_el: unuče
     sv: barnbarn
     sw: mjukuu
     ta: பேரன்
     tg: набера
-    tg-cyrl: набера
+    tg_cyrl: набера
     th: หลาน
     tr: torun
     tt: онык
@@ -242,9 +242,9 @@ dv_has_:
     yi: אייניקל
     yue: 孫
     zh: 孫
-    zh-hans: 孙
-    zh-hant: 孫
-    zh-hk: 孫
+    zh_hans: 孙
+    zh_hant: 孫
+    zh_hk: 孫
 ---
 # [[Grandchild]]
 

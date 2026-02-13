@@ -41,7 +41,7 @@ dv_has_:
     oc: Euneomys
     pl: Szynszylomyszor
     pt: Euneomys
-    pt-br: Euneomys
+    pt_br: Euneomys
     ro: Euneomys
     ru: Euneomys
     sq: Euneomys
@@ -52,10 +52,10 @@ dv_has_:
     vo: Euneomys
     war: Euneomys
     zh: 巴塔戈尼亞灰鼠屬
-    zh-cn: 巴塔戈尼亚灰鼠属
-    zh-hans: 巴塔戈尼亚灰鼠属
-    zh-hant: 巴塔戈尼亞灰鼠屬
-    zh-hk: 巴塔戈尼亞灰鼠屬
+    zh_cn: 巴塔戈尼亚灰鼠属
+    zh_hans: 巴塔戈尼亚灰鼠属
+    zh_hant: 巴塔戈尼亞灰鼠屬
+    zh_hk: 巴塔戈尼亞灰鼠屬
 ---
 # Euneomys
 

@@ -182,7 +182,7 @@ dv_has_:
     az: Alkinlər
     bcl: Alkino
     be: алкіны
-    be-tarask: Алькіны
+    be_tarask: Алькіны
     bg: алкин
     bn: অ্যালকাইন
     bs: Alkini
@@ -192,11 +192,11 @@ dv_has_:
     cy: Alcyn
     da: Alkyn
     de: Alkine
-    de-ch: Alkine
+    de_ch: Alkine
     el: Αλκίνια
     en: alkyne
-    en-ca: Alkyne
-    en-gb: alkyne
+    en_ca: Alkyne
+    en_gb: alkyne
     eo: alkino
     es: alquino
     et: Alküünid
@@ -217,11 +217,11 @@ dv_has_:
     jv: Alkuna
     ka: ალკინი
     kk: Алкиндер
-    kk-arab: الكىيندەر
+    kk_arab: الكىيندەر
     kk-cn: الكىيندەر
-    kk-cyrl: Алкиндер
+    kk_cyrl: Алкиндер
     kk-kz: Алкиндер
-    kk-latn: Alkïnder
+    kk_latn: Alkïnder
     kk-tr: Alkïnder
     ko: 알카인
     ky: Алкиндер
@@ -241,7 +241,7 @@ dv_has_:
     pl: alkin
     ps: الکاين
     pt: alcino
-    pt-br: Alcino
+    pt_br: Alcino
     ro: Alchină
     ru: алкины
     rue: Алкины
@@ -252,8 +252,8 @@ dv_has_:
     sl: alkin
     sq: Alkinet
     sr: алкин
-    sr-ec: Алкин
-    sr-el: Alkin
+    sr_ec: Алкин
+    sr_el: Alkin
     su: Alkuna
     sv: alkyn
     ta: ஆல்க்கைன்
@@ -269,12 +269,12 @@ dv_has_:
     wuu: 炔烃
     yue: 炔烴
     zh: 炔烃
-    zh-cn: 炔烃
-    zh-hans: 炔烃
-    zh-hant: 炔烴
-    zh-hk: 炔烴
-    zh-sg: 炔烃
-    zh-tw: 炔烴
+    zh_cn: 炔烃
+    zh_hans: 炔烃
+    zh_hant: 炔烴
+    zh_hk: 炔烴
+    zh_sg: 炔烃
+    zh_tw: 炔烴
 ---
 # [[Alkyne]] 
 

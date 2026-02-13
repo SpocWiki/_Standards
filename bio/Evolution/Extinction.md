@@ -150,7 +150,7 @@ dv_has_:
     bas: líhmà
     bcl: Pagkapuho
     be: выміранне
-    be-tarask: вымiраньне
+    be_tarask: вымiраньне
     bg: Измиране
     bn: বিলুপ্তি
     bs: Izumiranje
@@ -196,8 +196,8 @@ dv_has_:
     kk: Қырылу
     ko: 절멸
     ku: nemabûyî
-    ku-arab: نەمابوویی
-    ku-latn: nemabûyî
+    ku_arab: نەمابوویی
+    ku_latn: nemabûyî
     kw: difeudhans
     la: Exstinctio
     lt: išnykimas
@@ -234,8 +234,8 @@ dv_has_:
     so: bakhtiyeen
     sq: zhdukja
     sr: изумирање
-    sr-ec: изумирање
-    sr-el: Izumiranje
+    sr_ec: изумирање
+    sr_el: Izumiranje
     sv: utdöd
     ta: இனஅழிவு
     te: కనుమరుగైన జాతులు
@@ -252,12 +252,12 @@ dv_has_:
     wuu: 灭绝
     yue: 絕種
     zh: 絕滅
-    zh-cn: 绝灭
-    zh-hans: 绝灭
-    zh-hant: 絕滅
-    zh-hk: 絕滅
-    zh-sg: 绝灭
-    zh-tw: 絕滅
+    zh_cn: 绝灭
+    zh_hans: 绝灭
+    zh_hant: 絕滅
+    zh_hk: 絕滅
+    zh_sg: 绝灭
+    zh_tw: 絕滅
 ---
 # [[Extinction]] 
 

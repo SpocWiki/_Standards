@@ -156,7 +156,7 @@ dv_has_:
     az: Ceyms Uotson
     azb: جیمز واتسون
     be: Джэймс Дзьюі Уотсан
-    be-tarask: Джэймз Д’юі Ўотсан
+    be_tarask: Джэймз Д’юі Ўотсан
     bg: Джеймс Уотсън
     bn: জেমস ওয়াটসন
     bs: James Watson
@@ -167,13 +167,13 @@ dv_has_:
     da: James D. Watson
     dag: James D. Watson
     de: James Watson
-    de-ch: James Watson
+    de_ch: James Watson
     diq: James Dewey Watson
     ee: James D. Watson
     el: Τζέιμς Γουάτσον
     en: James Watson
-    en-ca: James D. Watson
-    en-gb: James D. Watson
+    en_ca: James D. Watson
+    en_gb: James D. Watson
     en-us: James D. Watson
     eo: James Watson
     es: James Dewey Watson
@@ -228,7 +228,7 @@ dv_has_:
     pnb: جیمز واٹسن
     ps: جېمز واټسن
     pt: James Watson
-    pt-br: James Watson
+    pt_br: James Watson
     ro: James D. Watson
     ru: Джеймс Уотсон
     sa: जेम्स् डि व्याट्सन्
@@ -258,8 +258,8 @@ dv_has_:
     yo: James D. Watson
     yue: 占士屈臣
     zh: 詹姆斯·杜威·沃森
-    zh-hk: 占士·屈臣
-    zh-tw: 詹姆斯·華生
+    zh_hk: 占士·屈臣
+    zh_tw: 詹姆斯·華生
 ---
 # [[Watson,James]] 
 

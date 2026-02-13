@@ -276,7 +276,7 @@ dv_has_:
     bar: Sauastoff
     bcl: Oksiheno
     be: кісларод
-    be-tarask: тлен
+    be_tarask: тлен
     bg: кислород
     bho: ऑक्सीजन
     blk: အောက်သီစဲန်
@@ -299,13 +299,13 @@ dv_has_:
     cy: ocsigen
     da: ilt
     de: Sauerstoff
-    de-ch: Sauerstoff
+    de_ch: Sauerstoff
     diq: Oksicen
     dsb: kislik
     el: οξυγόνο
     en: oxygen
-    en-ca: Oxygen
-    en-gb: oxygen
+    en_ca: Oxygen
+    en_gb: oxygen
     eo: oksigeno
     es: oxígeno
     et: hapnik
@@ -327,7 +327,7 @@ dv_has_:
     gn: Tatarapo
     gom: ऑक्सिजन
     gom-deva: ऑक्सिजन
-    gom-latn: Oxygen
+    gom_latn: Oxygen
     group: Group-16-Chalcogene
     gsw: Suurstoff
     gu: પ્રાણવાયુ
@@ -399,7 +399,7 @@ dv_has_:
     mr: ऑक्सिजन
     mrj: Кислород
     ms: oksigen
-    ms-arab: اوکسيݢن
+    ms_arab: اوکسيݢن
     mt: ossiġenu
     mul: O
     my: အောက်စီဂျင်
@@ -429,7 +429,7 @@ dv_has_:
     pnb: آکسیجن
     ps: آکسيجن
     pt: oxigénio
-    pt-br: oxigênio
+    pt_br: oxigênio
     qu: Muksichaq
     rm: oxigen
     ro: oxigen
@@ -469,7 +469,7 @@ dv_has_:
     tok: ijo lili nanpa 8
     tr: oksijen
     tt: уттуар
-    tt-cyrl: уттуар
+    tt_cyrl: уттуар
     tum: Woskejeni
     udm: кислород
     ug: ئوكسىگېن
@@ -493,14 +493,14 @@ dv_has_:
     za: Yangj
     zgh: ⵓⴽⵙⵉⵊⵉⵏ
     zh: 氧
-    zh-cn: 氧
-    zh-hans: 氧
-    zh-hant: 氧
-    zh-hk: 氧
-    zh-mo: 氧
+    zh_cn: 氧
+    zh_hans: 氧
+    zh_hant: 氧
+    zh_hk: 氧
+    zh_mo: 氧
     zh-my: 氧
-    zh-sg: 氧
-    zh-tw: 氧
+    zh_sg: 氧
+    zh_tw: 氧
     zu: umoya-mpilo
   number_of_:
     period: 2

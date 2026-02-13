@@ -62,7 +62,7 @@ dv_has_:
     ast: Secale
     az: Çovdar
     be: Жыта
-    be-tarask: Жыта
+    be_tarask: Жыта
     bg: ръж
     ca: Secale
     ceb: Secale
@@ -70,10 +70,10 @@ dv_has_:
     cv: Ыраш (кăк)
     da: rug
     de: Roggen
-    de-ch: Roggen
+    de_ch: Roggen
     en: Secale
-    en-ca: Secale
-    en-gb: Secale
+    en_ca: Secale
+    en_gb: Secale
     eo: sekalo
     es: Secale
     eu: Secale
@@ -105,7 +105,7 @@ dv_has_:
     os: Сылмæнæу (мыггаг)
     pl: żyto
     pt: Secale
-    pt-br: Secale
+    pt_br: Secale
     ro: Secale
     ru: Рожь
     sk: raž
@@ -118,9 +118,9 @@ dv_has_:
     vo: Secale
     war: Secale
     zh: 黑麦属
-    zh-cn: 黑麦属
-    zh-hans: 黑麦属
-    zh-tw: 黑麥屬
+    zh_cn: 黑麦属
+    zh_hans: 黑麦属
+    zh_tw: 黑麥屬
 ---
 # [[Secale]] 
 

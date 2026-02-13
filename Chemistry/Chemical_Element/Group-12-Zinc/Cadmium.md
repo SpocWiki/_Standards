@@ -190,7 +190,7 @@ dv_has_:
     ban: Kadmium
     bcl: Kadmyo
     be: Кадмій
-    be-tarask: кадм
+    be_tarask: кадм
     bg: кадмий
     bho: कैडमियम
     bn: ক্যাডমিয়াম
@@ -207,11 +207,11 @@ dv_has_:
     cy: cadmiwm
     da: cadmium
     de: Cadmium
-    de-ch: Cadmium
+    de_ch: Cadmium
     el: κάδμιο
     en: cadmium
-    en-ca: Cadmium
-    en-gb: cadmium
+    en_ca: Cadmium
+    en_gb: cadmium
     eo: kadmio
     es: cadmio
     et: kaadmium
@@ -294,7 +294,7 @@ dv_has_:
     pnb: کیڈمیم
     ps: کادميوم
     pt: cádmio
-    pt-br: cádmio
+    pt_br: cádmio
     qu: Kadmiyu
     ro: cadmiu
     ru: кадмий
@@ -313,7 +313,7 @@ dv_has_:
     so: Kaadmiyaam
     sq: Kadmiumi
     sr: кадмијум
-    sr-ec: кадмијум
+    sr_ec: кадмијум
     stq: Cadmium
     su: Kadmium
     sv: kadmium
@@ -338,10 +338,10 @@ dv_has_:
     yo: Kadmium
     yue: 鎘
     zh: 鎘
-    zh-hans: 镉
-    zh-hant: 鎘
-    zh-hk: 鎘
-    zh-tw: 鎘
+    zh_hans: 镉
+    zh_hant: 鎘
+    zh_hk: 鎘
+    zh_tw: 鎘
     zu: UmKhathofi
   number_of_:
     period: 5

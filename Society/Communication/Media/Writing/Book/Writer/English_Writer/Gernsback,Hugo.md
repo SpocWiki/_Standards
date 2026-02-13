@@ -33,8 +33,8 @@ dv_has_:
     de: Hugo Gernsback
     el: Χιούγκο Γκέρνσμπακ
     en: Hugo Gernsback
-    en-ca: Hugo Gernsback
-    en-gb: Hugo Gernsback
+    en_ca: Hugo Gernsback
+    en_gb: Hugo Gernsback
     eo: Hugo Gernsback
     es: Hugo Gernsback
     fa: هوگو گرنسبک
@@ -61,7 +61,7 @@ dv_has_:
     pap: Hugo Gernsback
     pl: Hugo Gernsback
     pt: Hugo Gernsback
-    pt-br: Hugo Gernsback
+    pt_br: Hugo Gernsback
     ro: Hugo Gernsback
     ru: Хьюго Гернсбек
     sh: Hugo Gernsback
@@ -74,12 +74,12 @@ dv_has_:
     vi: Hugo Gernsback
     xmf: ჰიუგო გერნსბეკი
     zh: 雨果·根斯巴克
-    zh-cn: 雨果·根斯巴克
-    zh-hans: 雨果·根斯巴克
-    zh-hant: 雨果·根斯巴克
-    zh-hk: 雨果·根斯巴克
-    zh-sg: 雨果·根斯巴克
-    zh-tw: 雨果·根斯巴克
+    zh_cn: 雨果·根斯巴克
+    zh_hans: 雨果·根斯巴克
+    zh_hant: 雨果·根斯巴克
+    zh_hk: 雨果·根斯巴克
+    zh_sg: 雨果·根斯巴克
+    zh_tw: 雨果·根斯巴克
 ---
 #has_/time_/started ::  1884-08-16 
 #has_/time_/stopped ::  1967-08-19 

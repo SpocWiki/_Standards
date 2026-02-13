@@ -157,7 +157,7 @@ dv_has_:
     ba: Астероидтар билбауы
     bar: Asteroidngiatl
     be: Пояс астэроідаў
-    be-tarask: пояс астэроідаў
+    be_tarask: пояс астэроідаў
     bg: Астероиден пояс
     bho: एस्टेरॉइड बेल्ट
     bn: গ্রহাণু বেষ্টনী
@@ -170,12 +170,12 @@ dv_has_:
     cy: y gwregys asteroid
     da: Asteroidebælte
     de: Asteroidengürtel
-    de-ch: Asteroidengürtel
+    de_ch: Asteroidengürtel
     el: Κύρια Ζώνη Αστεροειδών
     eml: Fasa prinsipàla
     en: asteroid belt
-    en-ca: Asteroid belt
-    en-gb: asteroid belt
+    en_ca: Asteroid belt
+    en_gb: asteroid belt
     eo: asteroida zono
     es: Cinturón de asteroides
     et: Asteroidide vöö
@@ -231,7 +231,7 @@ dv_has_:
     pnb: نکے پاندھی پیٹی
     ps: د کوچنیو سیارو کمربند
     pt: cintura de asteroides
-    pt-br: Cintura de asteroides
+    pt_br: Cintura de asteroides
     ro: centura de asteroizi
     ru: пояс астероидов
     rue: Главный пас астероидох
@@ -243,8 +243,8 @@ dv_has_:
     sl: asteroidni pas
     sq: Brezi asteroidal
     sr: главни астероидни појас
-    sr-ec: главни астероидни појас
-    sr-el: glavni asteroidni pojas
+    sr_ec: главни астероидни појас
+    sr_el: glavni asteroidni pojas
     sv: Asteroidbältet
     sw: Ukanda wa asteroidi
     ta: சிறுகோள் பட்டை
@@ -264,9 +264,9 @@ dv_has_:
     yo: Ìgbàjá ástẹ́rọ́ìdì
     yue: 小行星帶
     zh: 主小行星帶
-    zh-cn: 主小行星带
-    zh-hans: 内层小行星轨道
-    zh-hant: 內層小行星軌道
+    zh_cn: 主小行星带
+    zh_hans: 内层小行星轨道
+    zh_hant: 內層小行星軌道
 ---
 # [[Asteroid_Belt]] 
 

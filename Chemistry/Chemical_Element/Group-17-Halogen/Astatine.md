@@ -130,7 +130,7 @@ dv_has_:
     ban: Astatin
     bcl: Astato
     be: Астат
-    be-tarask: астат
+    be_tarask: астат
     bg: астатий
     bho: एस्टाटिन
     bn: এস্টাটিন
@@ -149,8 +149,8 @@ dv_has_:
     de: Astat
     el: άστατο
     en: astatine
-    en-ca: Astatine
-    en-gb: astatine
+    en_ca: Astatine
+    en_gb: astatine
     eo: astato
     es: ástato
     et: Astaat
@@ -230,7 +230,7 @@ dv_has_:
     pnb: ایسٹاٹین
     ps: آستاتين
     pt: astato
-    pt-br: astato
+    pt_br: astato
     qu: Astatu
     ro: astatin
     ru: астат
@@ -245,7 +245,7 @@ dv_has_:
     so: Astatiin
     sq: Astati
     sr: астат
-    sr-ec: Астат
+    sr_ec: Астат
     stq: Astat
     sv: astat
     sw: Astatini
@@ -270,14 +270,14 @@ dv_has_:
     yo: Astatínì
     yue: 砹
     zh: 砹
-    zh-cn: 砹
-    zh-hans: 砹
-    zh-hant: 砈
-    zh-hk: 砈
-    zh-mo: 砹
+    zh_cn: 砹
+    zh_hans: 砹
+    zh_hant: 砈
+    zh_hk: 砈
+    zh_mo: 砹
     zh-my: 砹
-    zh-sg: 砹
-    zh-tw: 砈
+    zh_sg: 砹
+    zh_tw: 砈
     zu: IsAtsha
   number_of_:
     period: 6

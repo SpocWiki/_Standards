@@ -95,7 +95,7 @@ dv_has_:
     ast: Enfotu
     az: Etibar
     be: давер
-    be-tarask: давер
+    be_tarask: давер
     bg: Доверие — Недоверие
     br: fiziañs
     bs: Povjerenje
@@ -143,8 +143,8 @@ dv_has_:
     sn: Ruvimbo
     sq: Besimi (shkenca shoqërore)
     sr: поверење
-    sr-ec: поверење
-    sr-el: poverenje
+    sr_ec: поверење
+    sr_el: poverenje
     sv: förtroende
     tr: Güven (sosyoloji)
     tt: ышаныч
@@ -154,11 +154,11 @@ dv_has_:
     vi: Lòng tin
     yue: 信賴
     zh: 信任
-    zh-cn: 信任
-    zh-hans: 信任
-    zh-hant: 信任
-    zh-hk: 信任
-    zh-tw: 信任
+    zh_cn: 信任
+    zh_hans: 信任
+    zh_hant: 信任
+    zh_hk: 信任
+    zh_tw: 信任
 ---
 # [[Trust(social)]] 
 

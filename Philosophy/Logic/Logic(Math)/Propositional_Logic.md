@@ -84,18 +84,18 @@ dv_has_:
     ar: حساب القضايا
     ast: Lóxica proposicional
     be: Логіка выказванняў
-    be-tarask: зьлічэньне выказваньняў
+    be_tarask: зьлічэньне выказваньняў
     bg: Пропозиционна логика
     ca: lògica proposicional
     cs: výroková logika
     cv: Каланăлăхсен шутлавĕ
     cy: Rhesymeg osodiadol
     de: Aussagenlogik
-    de-ch: Aussagenlogik
+    de_ch: Aussagenlogik
     el: Προτασιακός λογισμός
     en: propositional calculus
-    en-ca: Propositional calculus
-    en-gb: Propositional calculus
+    en_ca: Propositional calculus
+    en_gb: Propositional calculus
     eo: propozicia kalkulo
     es: lógica proposicional
     et: Lauseloogika
@@ -125,14 +125,14 @@ dv_has_:
     pl: rachunek zdań
     ps: قضیوي حساب (منطق)
     pt: lógica proposicional
-    pt-br: lógica proposicional
+    pt_br: lógica proposicional
     ro: logică propozițională
     ru: исчисление высказываний
     sk: výroková logika
     sl: propozicijski račun
     sr: Исказни рачун
-    sr-ec: Исказни рачун
-    sr-el: Iskazni račun
+    sr_ec: Исказни рачун
+    sr_el: Iskazni račun
     sv: satslogik
     th: แคลคูลัสเชิงประพจน์
     tr: Önermeler mantığı
@@ -140,12 +140,12 @@ dv_has_:
     vi: Mệnh đề toán học
     yue: 命題邏輯
     zh: 命题逻辑
-    zh-cn: 命题逻辑
-    zh-hans: 命题逻辑
-    zh-hant: 命題邏輯
-    zh-hk: 命題邏輯
-    zh-sg: 命题逻辑
-    zh-tw: 命題邏輯
+    zh_cn: 命题逻辑
+    zh_hans: 命题逻辑
+    zh_hant: 命題邏輯
+    zh_hk: 命題邏輯
+    zh_sg: 命题逻辑
+    zh_tw: 命題邏輯
 ---
 # [[Propositional_Logic]] 
 

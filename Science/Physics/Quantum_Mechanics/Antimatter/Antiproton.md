@@ -72,7 +72,7 @@ dv_has_:
     ast: Antiprotón
     az: Antiproton
     be: Антыпратон
-    be-tarask: антыпратон
+    be_tarask: антыпратон
     bg: антипротон
     bn: অ্যান্টিপ্রোটন
     ca: antiprotó
@@ -82,8 +82,8 @@ dv_has_:
     de: Antiproton
     el: αντιπρωτόνιο
     en: antiproton
-    en-ca: Antiproton
-    en-gb: Antiproton
+    en_ca: Antiproton
+    en_gb: Antiproton
     eo: antiprotono
     es: antiprotón
     eu: antiprotoi
@@ -102,11 +102,11 @@ dv_has_:
     ja: 反陽子
     ka: ანტიპროტონი
     kk: Антипротон
-    kk-arab: انتىيپروتون
+    kk_arab: انتىيپروتون
     kk-cn: انتىيپروتون
-    kk-cyrl: Антипротон
+    kk_cyrl: Антипротон
     kk-kz: Антипротон
-    kk-latn: Antïproton
+    kk_latn: Antïproton
     kk-tr: Antïproton
     ko: 반양성자
     ks: اؠنٹی پرٛوٹان
@@ -119,7 +119,7 @@ dv_has_:
     oc: Antiproton
     pl: antyproton
     pt: antiprotão
-    pt-br: antipróton
+    pt_br: antipróton
     ro: antiproton
     ru: антипротон
     scn: antiprutoni
@@ -129,8 +129,8 @@ dv_has_:
     smn: antiprootoon
     sms: antiprotoon
     sr: антипротон
-    sr-ec: антипротон
-    sr-el: antiproton
+    sr_ec: антипротон
+    sr_el: antiproton
     sv: antiproton
     ta: எதிர் புரோத்தன்
     tg: Антипротон
@@ -141,12 +141,12 @@ dv_has_:
     vi: phản proton
     yue: 反質子
     zh: 反質子
-    zh-cn: 反质子
-    zh-hans: 反质子
-    zh-hant: 反質子
-    zh-hk: 反質子
-    zh-sg: 反质子
-    zh-tw: 反質子
+    zh_cn: 反质子
+    zh_hans: 反质子
+    zh_hant: 反質子
+    zh_hk: 反質子
+    zh_sg: 反质子
+    zh_tw: 反質子
 ---
 # [[Antiproton]] 
 

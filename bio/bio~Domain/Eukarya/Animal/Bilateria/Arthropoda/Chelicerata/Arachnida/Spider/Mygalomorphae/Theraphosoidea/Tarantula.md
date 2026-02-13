@@ -83,7 +83,7 @@ dv_has_:
     ast: Theraphosidae
     az: Tarantul
     be: Павукі-птушкаеды
-    be-tarask: Павукі-птушкаеды
+    be_tarask: Павукі-птушкаеды
     bg: тарантули
     bn: টারান্টুলা
     ca: Terafòsid
@@ -93,11 +93,11 @@ dv_has_:
     da: Fugleedderkop
     dag: Kusumbuli
     de: Vogelspinnen
-    de-ch: Vogelspinnen
+    de_ch: Vogelspinnen
     el: Θηραφωσίδες
     en: Theraphosidae
-    en-ca: Tarantula
-    en-gb: Tarantula
+    en_ca: Tarantula
+    en_gb: Tarantula
     eo: Tarantulo
     es: tarántula
     et: Linnutapiklased
@@ -143,7 +143,7 @@ dv_has_:
     pl: Ptasznikowate
     ps: غونډل
     pt: Tarântula
-    pt-br: Tarântula
+    pt_br: Tarântula
     qu: Apasanka
     ro: Theraphosidae
     ru: Пауки-птицееды
@@ -153,8 +153,8 @@ dv_has_:
     sl: Ptičji pajki
     sq: Theraphosidae
     sr: тарантула
-    sr-ec: тарантула
-    sr-el: tarantula
+    sr_ec: тарантула
+    sr_el: tarantula
     su: Lancah maung
     sv: fågelspindlar
     sw: Tarantula
@@ -170,12 +170,12 @@ dv_has_:
     wuu: 捕鸟蛛科
     yue: 捕鳥蛛
     zh: 捕鳥蛛科
-    zh-cn: 捕鸟蛛科
-    zh-hans: 捕鸟蛛科
-    zh-hant: 捕鳥蛛科
-    zh-hk: 捕鳥蛛科
-    zh-sg: 捕鸟蛛科
-    zh-tw: 捕鳥蛛科
+    zh_cn: 捕鸟蛛科
+    zh_hans: 捕鸟蛛科
+    zh_hant: 捕鳥蛛科
+    zh_hk: 捕鳥蛛科
+    zh_sg: 捕鸟蛛科
+    zh_tw: 捕鳥蛛科
 ---
 # [[Tarantula]] 
 

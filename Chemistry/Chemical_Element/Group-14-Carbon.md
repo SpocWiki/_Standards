@@ -99,7 +99,7 @@ dv_has_:
     az: Dövri sistemin 14-cü qrupu
     ba: углерод төркөмсәһе
     ban: Seka karbon
-    be-tarask: падгрупа вугляроду
+    be_tarask: падгрупа вугляроду
     bg: Група 14 на периодичната система
     bn: কার্বন শ্রেণী
     bs: 14. grupa hemijskih elemenata
@@ -107,11 +107,11 @@ dv_has_:
     cs: tetrely
     cy: Grŵp 14
     de: 14. Hauptgruppe des Periodensystems
-    de-ch: Kohlenstoffgruppe
+    de_ch: Kohlenstoffgruppe
     el: 14η ομάδα του περιοδικού πίνακα
     en: group 14
-    en-ca: group 14
-    en-gb: group 14
+    en_ca: group 14
+    en_gb: group 14
     eo: grupo 14
     es: carbonoideo
     eu: 14. taldeko elementu
@@ -146,7 +146,7 @@ dv_has_:
     pa: ਗਰੁੱਪ 14 ਤੱਤ
     pl: węglowce
     pt: grupo do carbono
-    pt-br: grupo do carbono
+    pt_br: grupo do carbono
     ro: Grupa Carbonului
     ru: подгруппа углерода
     scn: gruppu 14
@@ -156,8 +156,8 @@ dv_has_:
     so: Guruubka Kaarboon
     sq: Grupi i katërmbëdhjetë i elementeve kimike
     sr: 14. група хемијских елемената
-    sr-ec: 14. група хемијских елемената
-    sr-el: 14. grupa hemijskih elemenata
+    sr_ec: 14. група хемијских елемената
+    sr_el: 14. grupa hemijskih elemenata
     sv: kolgruppen
     sw: Kundi la kaboni
     ta: நெடுங்குழு 14 தனிமங்கள்
@@ -170,12 +170,12 @@ dv_has_:
     yo: Ẹgbẹ́ kárbọ̀nù
     yue: 碳族元素
     zh: 碳族元素
-    zh-cn: 碳族元素
-    zh-hans: 碳族元素
-    zh-hant: 碳族元素
-    zh-hk: 碳族元素
-    zh-sg: 碳族元素
-    zh-tw: 碳族元素
+    zh_cn: 碳族元素
+    zh_hans: 碳族元素
+    zh_hant: 碳族元素
+    zh_hk: 碳族元素
+    zh_sg: 碳族元素
+    zh_tw: 碳族元素
 ---
 # [[Group-14-Carbon]] 
 

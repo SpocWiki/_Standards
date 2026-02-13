@@ -170,7 +170,7 @@ dv_has_:
     ba: Замок (ҡаралты)
     bar: Buag
     be: замак
-    be-tarask: замак
+    be_tarask: замак
     bg: замък
     bn: দুর্গ
     br: kastell
@@ -185,12 +185,12 @@ dv_has_:
     cy: castell
     da: borg
     de: Burg
-    de-ch: Burg
+    de_ch: Burg
     diq: Qesr
     el: κάστρο
     en: castle
-    en-ca: Castle
-    en-gb: castle
+    en_ca: Castle
+    en_gb: castle
     en-us: castle
     eo: burgo
     es: castillo
@@ -227,7 +227,7 @@ dv_has_:
     kab: timidelt
     ko: 성
     ku: keleh
-    ku-latn: keleh
+    ku_latn: keleh
     kw: kastell
     la: Castellum mediaevale
     lb: Buerg
@@ -240,14 +240,14 @@ dv_has_:
     mni: ꯀꯦꯁꯇꯜ (ꯌꯨꯝ)
     mr: गढी
     ms: istana kota
-    ms-arab: ايستان کوتا
+    ms_arab: ايستان کوتا
     mt: kastell
     my: ရဲတိုက်
     mzn: دِز
     nan: Siâⁿ-pó
     nb: borg
     nds: Borg
-    nds-nl: burcht
+    nds_nl: burcht
     ne: गढी
     nl: burcht
     nn: borg
@@ -261,7 +261,7 @@ dv_has_:
     pnt: κάστρεν
     ps: کلا
     pt: castelo
-    pt-br: castelo
+    pt_br: castelo
     rki: ရဲတိုက်
     ro: castel
     rsk: Замок
@@ -278,8 +278,8 @@ dv_has_:
     sms: kuårnâc
     sq: kala
     sr: замак
-    sr-ec: замак
-    sr-el: zamak
+    sr_ec: замак
+    sr_el: zamak
     sv: borg
     sw: Ngome
     ta: கோட்டையகம்
@@ -299,14 +299,14 @@ dv_has_:
     wuu: 城堡
     yue: 城堡
     zh: 城堡
-    zh-cn: 城堡
-    zh-hans: 城堡
-    zh-hant: 城堡
-    zh-hk: 城堡
-    zh-mo: 城堡
+    zh_cn: 城堡
+    zh_hans: 城堡
+    zh_hant: 城堡
+    zh_hk: 城堡
+    zh_mo: 城堡
     zh-my: 城堡
-    zh-sg: 城堡
-    zh-tw: 城堡
+    zh_sg: 城堡
+    zh_tw: 城堡
 ---
 # [[Castle]] 🏰 
 

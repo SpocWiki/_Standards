@@ -125,7 +125,7 @@ dv_has_:
     ba: Один
     bar: Wodan
     be: Одзін
-    be-tarask: Одын
+    be_tarask: Одын
     bg: Один
     bn: ওডিন
     br: Odin
@@ -194,7 +194,7 @@ dv_has_:
     sl: Odin
     sq: Odin
     sr: Один
-    sr-ec: Один
+    sr_ec: Один
     stq: Woodan
     sv: Oden
     th: โอดินน์
@@ -202,7 +202,7 @@ dv_has_:
     tl: Odin
     tr: Odin
     tt: Один
-    tt-cyrl: Один
+    tt_cyrl: Один
     uk: Одін
     uz: Odin
     vi: Odin

@@ -124,7 +124,7 @@ dv_has_:
     az: Tour de France
     bar: Tour de France
     be: Тур дэ Франс
-    be-tarask: Тур дэ Франс
+    be_tarask: Тур дэ Франс
     bg: Обиколка на Франция
     bn: তুর দ্য ফ্রঁস
     br: Tro Bro-C'hall war varc'h-houarn
@@ -135,11 +135,11 @@ dv_has_:
     cy: Tour de France
     da: Tour de France
     de: Tour de France
-    de-ch: Tour de France
+    de_ch: Tour de France
     el: Γύρος της Γαλλίας
     en: Tour de France
-    en-ca: Tour de France
-    en-gb: Tour de France
+    en_ca: Tour de France
+    en_gb: Tour de France
     eo: Tour de France
     es: Tour de Francia
     et: Tour de France
@@ -183,7 +183,7 @@ dv_has_:
     ms: Tour de France
     nb: Tour de France
     nds: Tour de France
-    nds-nl: Roonde van Fraankriek
+    nds_nl: Roonde van Fraankriek
     ne: तुर द फँस
     nl: Ronde van Frankrijk
     nn: Tour de France
@@ -194,7 +194,7 @@ dv_has_:
     pms: Gir dla Fransa
     pnb: ٹور ڈی فرانس
     pt: Tour de France
-    pt-br: Tour de France
+    pt_br: Tour de France
     ro: Turul Franței
     ru: Тур де Франс
     scn: Tour de France
@@ -204,7 +204,7 @@ dv_has_:
     sl: Dirka po Franciji
     sq: Tour de France
     sr: Тур де Франс
-    sr-ec: Тур де Франс
+    sr_ec: Тур де Франс
     sv: Tour de France
     sw: Tour de France
     ta: தூர் த பிரான்சு
@@ -224,14 +224,14 @@ dv_has_:
     yi: טור דע פראנס
     yue: 環法單車賽
     zh: 环法自行车赛
-    zh-cn: 环法自行车赛
-    zh-hans: 环法自行车赛
-    zh-hant: 環法自由車賽
-    zh-hk: 環法單車賽
-    zh-mo: 環法單車賽
+    zh_cn: 环法自行车赛
+    zh_hans: 环法自行车赛
+    zh_hant: 環法自由車賽
+    zh_hk: 環法單車賽
+    zh_mo: 環法單車賽
     zh-my: 环法自行车赛
-    zh-sg: 环法自行车赛
-    zh-tw: 環法自由車賽
+    zh_sg: 环法自行车赛
+    zh_tw: 環法自由車賽
 ---
 # [[Tour_de_France]] 
 

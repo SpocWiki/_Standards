@@ -80,7 +80,7 @@ dv_has_:
     ba: проза
     ban: Gancaran
     be: проза
-    be-tarask: проза
+    be_tarask: проза
     bg: проза
     bn: গদ্য
     bo: ཚིག་ལྷུག
@@ -99,8 +99,8 @@ dv_has_:
     de: Prosa
     el: πεζός λόγος
     en: prose
-    en-ca: Prose
-    en-gb: prose
+    en_ca: Prose
+    en_gb: prose
     eo: prozo
     es: prosa
     et: Proosa
@@ -140,7 +140,7 @@ dv_has_:
     krc: Проза
     krj: prosa
     ku: pexşan
-    ku-latn: pexşan
+    ku_latn: pexşan
     kw: Yeth Plen
     ky: Проза
     la: Prosa
@@ -158,7 +158,7 @@ dv_has_:
     my: စကားပြေ
     nb: prosa
     nds: Prosa
-    nds-nl: proza
+    nds_nl: proza
     ne: गद्य
     new: गद्य
     nl: proza
@@ -171,7 +171,7 @@ dv_has_:
     pnb: نثر
     ps: نثر
     pt: prosa
-    pt-br: prosa
+    pt_br: prosa
     ro: proză
     ru: проза
     rue: проза
@@ -205,9 +205,9 @@ dv_has_:
     yi: פראזע
     yue: 散文
     zh: 散文
-    zh-hans: 散文
-    zh-hant: 散文
-    zh-tw: 散文
+    zh_hans: 散文
+    zh_hant: 散文
+    zh_tw: 散文
 ---
 # [[Prose]] 
 

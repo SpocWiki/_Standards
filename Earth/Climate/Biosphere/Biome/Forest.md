@@ -307,7 +307,7 @@ dv_has_:
     bar: Woid
     bcl: kadlagan
     be: лес
-    be-tarask: лес
+    be_tarask: лес
     bew: utan
     bg: гора
     bho: बन
@@ -323,7 +323,7 @@ dv_has_:
     ckb: دارستان
     co: valdu
     crh: orman
-    crh-latn: orman
+    crh_latn: orman
     cs: les
     csb: las
     cu: лѣсъ
@@ -331,12 +331,12 @@ dv_has_:
     cy: coedwig
     da: skov
     de: Wald
-    de-ch: Wald
+    de_ch: Wald
     diq: mêşe
     el: δάσος
     en: forest
-    en-ca: forest
-    en-gb: forest
+    en_ca: forest
+    en_gb: forest
     eo: arbaro
     es: bosque
     et: mets
@@ -412,7 +412,7 @@ dv_has_:
     mr: वन
     mrj: шӹргӹ
     ms: hutan
-    ms-arab: هوتن
+    ms_arab: هوتن
     my: သစ်တော
     myv: вирь
     mzn: فلورستا
@@ -420,7 +420,7 @@ dv_has_:
     nan: sim-lîm
     nb: skog
     nds: Woold
-    nds-nl: bos
+    nds_nl: bos
     ne: जङ्गल
     new: गुं
     nl: bos
@@ -440,7 +440,7 @@ dv_has_:
     pnt: ορμάν
     ps: ځنګل
     pt: floresta
-    pt-br: floresta
+    pt_br: floresta
     qu: sach'a-sach'a
     rm: guaud
     rmy: vesh
@@ -489,7 +489,7 @@ dv_has_:
     tok: ma pi kasi suli
     tr: orman
     tt: урман
-    tt-cyrl: урман
+    tt_cyrl: урман
     tw: kwaɛ
     udm: нюлэс
     ug: orman
@@ -511,9 +511,9 @@ dv_has_:
     yue: 森林
     za: ndoengfaex
     zh: 森林
-    zh-hans: 森林
-    zh-hant: 森林
-    zh-tw: 森林
+    zh_hans: 森林
+    zh_hant: 森林
+    zh_tw: 森林
     zu: ihlathi
 ---
 ## #has_/text_of_/abstract 

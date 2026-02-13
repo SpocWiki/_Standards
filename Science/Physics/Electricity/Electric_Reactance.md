@@ -75,7 +75,7 @@ dv_has_:
     af: Reaktansie
     ar: مفاعلة كهربائية
     ast: Reactancia
-    be-tarask: рэактанс
+    be_tarask: рэактанс
     bg: Реактивно съпротивление
     ca: reactància
     cs: Reaktance
@@ -132,12 +132,12 @@ dv_has_:
     wuu: 电抗
     yue: 電抗
     zh: 电抗
-    zh-cn: 电抗
-    zh-hans: 电抗
-    zh-hant: 電抗
-    zh-hk: 電抗
-    zh-sg: 电抗
-    zh-tw: 電抗
+    zh_cn: 电抗
+    zh_hans: 电抗
+    zh_hant: 電抗
+    zh_hk: 電抗
+    zh_sg: 电抗
+    zh_tw: 電抗
 ---
 # [[Electric_Reactance]] 
 

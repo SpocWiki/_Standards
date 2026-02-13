@@ -119,7 +119,7 @@ dv_has_:
     ast: Pastor alemán
     az: Alman çoban iti
     be: Нямецкая аўчарка
-    be-tarask: нямецкі аўчуган
+    be_tarask: нямецкі аўчуган
     bg: Немска овчарка
     bn: জার্মান শেফার্ড
     br: Mesaer-deñved alaman
@@ -173,7 +173,7 @@ dv_has_:
     pl: owczarek niemiecki
     pnb: السشن
     pt: Pastor-alemão
-    pt-br: Pastor-alemão
+    pt_br: Pastor-alemão
     ro: Ciobănesc german
     ru: Немецкая овчарка
     sco: German Hird
@@ -183,7 +183,7 @@ dv_has_:
     sl: nemški ovčar
     sq: Pastori Gjerman
     sr: Немачки овчар
-    sr-ec: Немачки овчар
+    sr_ec: Немачки овчар
     sv: Tysk schäferhund
     sw: Mbwa wa polisi
     ta: ஜெர்மானிய மேய்ப்பன் நாய்
@@ -204,7 +204,7 @@ dv_has_:
     xh: Inja eluhlobo lweGermanshep1
     yue: 德國狼狗
     zh: 德國牧羊犬
-    zh-hant: German shepherd
+    zh_hant: German shepherd
 ---
 # [[German_Shepherd]]
 

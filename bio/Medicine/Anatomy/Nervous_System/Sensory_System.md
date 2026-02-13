@@ -10,7 +10,7 @@ dv_has_:
     ast: sistema sensorial
     ba: Сенсор системаһы
     be: Сенсорная сістэма
-    be-tarask: сэнсорная сыстэма
+    be_tarask: сэнсорная сыстэма
     bg: Сетивна система
     bn: সংবেদী স্নায়ুতন্ত্র
     bs: Čulni sistem
@@ -72,7 +72,7 @@ dv_has_:
     pnb: سینسری پربندھ
     ps: حسي وسیله
     pt: sistema sensorial
-    pt-br: sistema sensorial
+    pt_br: sistema sensorial
     qu: Musyana yawri
     ro: sistem senzorial
     ru: сенсорная система
@@ -100,10 +100,10 @@ dv_has_:
     yi: חוש־סיסטעם
     yue: 感覺系統
     zh: 感官神經系統
-    zh-cn: 感知编码
-    zh-hans: 感知编码
-    zh-hant: 感官神經系統
-    zh-tw: 感官神經系統
+    zh_cn: 感知编码
+    zh_hans: 感知编码
+    zh_hant: 感官神經系統
+    zh_tw: 感官神經系統
     zu: Izinzwa Zomuntu
 aliases:
 - Aistinelin

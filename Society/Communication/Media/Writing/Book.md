@@ -368,7 +368,7 @@ dv_has_:
     bcl: libro
     bdr: buk
     be: кніга
-    be-tarask: кніга
+    be_tarask: кніга
     bew: kitab
     bg: книга
     bho: किताब
@@ -384,7 +384,7 @@ dv_has_:
     chr: ᎪᏪᎵ
     ckb: کتێب
     crh: kitap
-    crh-latn: kitap
+    crh_latn: kitap
     cs: kniha
     csb: knéga
     cu: кънига
@@ -393,7 +393,7 @@ dv_has_:
     da: bog
     dag: buku
     de: Buch
-    de-ch: Buch
+    de_ch: Buch
     dga: gane
     diq: kıtabi
     dsb: knigły
@@ -402,7 +402,7 @@ dv_has_:
     ee: agbale
     el: βιβλίο
     en: book
-    en-gb: book
+    en_gb: book
     en-us: book
     eo: libro
     es: libro
@@ -469,7 +469,7 @@ dv_has_:
     ks: کِتاب
     ksh: Boch
     ku: pirtûk
-    ku-latn: pirtûk
+    ku_latn: pirtûk
     kv: небӧг
     kw: lyver
     ky: китеп
@@ -499,7 +499,7 @@ dv_has_:
     mos: sebre
     mr: पुस्तक
     ms: buku
-    ms-arab: بوکو
+    ms_arab: بوکو
     mt: ktieb
     mwl: libro
     my: စာအုပ်
@@ -510,7 +510,7 @@ dv_has_:
     nap: libbro
     nb: bok
     nds: Book
-    nds-nl: boek
+    nds_nl: boek
     ne: पुस्तक
     new: सफू
     nl: boek
@@ -530,7 +530,7 @@ dv_has_:
     pnb: پوتھی
     ps: کتاب
     pt: livro
-    pt-br: livro
+    pt_br: livro
     qu: qillqamayt'u
     rmf: liin
     ro: carte
@@ -561,8 +561,8 @@ dv_has_:
     so: buug
     sq: libër
     sr: књига
-    sr-ec: књига
-    sr-el: knjiga
+    sr_ec: књига
+    sr_el: knjiga
     ss: íncwadzí
     su: buku
     sv: bok
@@ -574,7 +574,7 @@ dv_has_:
     tay: biru
     te: పుస్తకము
     tg: китоб
-    tg-cyrl: китоб
+    tg_cyrl: китоб
     th: หนังสือ
     tig: ክታብ
     tk: kitap
@@ -584,8 +584,8 @@ dv_has_:
     tpi: buk
     tr: kitap
     tt: китап
-    tt-cyrl: китап
-    tt-latn: kitap
+    tt_cyrl: китап
+    tt_latn: kitap
     tw: nwoma
     tyv: ном
     udm: книга
@@ -607,11 +607,11 @@ dv_has_:
     za: saw
     zgh: ⴰⴷⵍⵉⵙ
     zh: 图书
-    zh-cn: 图书
-    zh-hans: 图书
-    zh-hant: 圖書
-    zh-hk: 書籍
-    zh-tw: 圖書
+    zh_cn: 图书
+    zh_hans: 图书
+    zh_hant: 圖書
+    zh_hk: 書籍
+    zh_tw: 圖書
     zu: incwadi
 ---
 # [[Book]] 📖 

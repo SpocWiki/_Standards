@@ -27,7 +27,7 @@ dv_has_:
     br: Argulidae
     bs: Argulidae
     ca: Argulidae
-    cbk-zam: Argulidae
+    cbk_zam: Argulidae
     ceb: Argulidae
     co: Argulidae
     cs: Argulidae
@@ -36,13 +36,13 @@ dv_has_:
     da: Argulidae
     de: Argulidae
     de-at: Argulidae
-    de-ch: Argulidae
+    de_ch: Argulidae
     diq: Argulidae
     dsb: Argulidae
     eml: Argulidae
     en: Argulidae
-    en-ca: Argulidae
-    en-gb: Argulidae
+    en_ca: Argulidae
+    en_gb: Argulidae
     eo: Argulidae
     es: Argulidae
     et: Argulidae
@@ -104,7 +104,7 @@ dv_has_:
     nap: Argulidae
     nb: Argulidae
     nds: Argulidae
-    nds-nl: Argulidae
+    nds_nl: Argulidae
     nl: visluizen
     nn: Argulidae
     nov: Argulidae
@@ -119,7 +119,7 @@ dv_has_:
     pl: Argulidae
     pms: Argulidae
     pt: Argulidae
-    pt-br: Argulidae
+    pt_br: Argulidae
     qu: Argulidae
     rm: Argulidae
     ro: Argulidae
@@ -131,7 +131,7 @@ dv_has_:
     sl: Argulidae
     so: Argulidae
     sq: Argulidae
-    sr-el: Argulidae
+    sr_el: Argulidae
     stq: Argulidae
     su: Argulidae
     sv: Argulidae
@@ -151,9 +151,9 @@ dv_has_:
     yo: Argulidae
     zea: Argulidae
     zh: 鲺科
-    zh-cn: 鯴科
-    zh-hans: 鲺科
-    zh-tw: 鯴科
+    zh_cn: 鯴科
+    zh_hans: 鲺科
+    zh_tw: 鯴科
     zu: Argulidae
 ---
 # [[Branchiura]] 

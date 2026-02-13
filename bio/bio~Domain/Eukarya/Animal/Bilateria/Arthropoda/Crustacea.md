@@ -141,7 +141,7 @@ dv_has_:
     ba: Ҡыҫала
     bar: Crustacea
     be: ракападобныя
-    be-tarask: ракападобныя
+    be_tarask: ракападобныя
     bg: ракообразни
     br: Kresteneg
     bs: Rakovi
@@ -154,11 +154,11 @@ dv_has_:
     da: krebsdyr
     de: Krebstiere
     de-at: Crustacea
-    de-ch: Krebstiere
+    de_ch: Krebstiere
     el: Καρκινοειδή
     en: Crustacea
-    en-ca: Crustacean
-    en-gb: Crustacean
+    en_ca: Crustacean
+    en_gb: Crustacean
     en-us: Crustacean
     eo: krustacoj
     es: crustáceos
@@ -215,7 +215,7 @@ dv_has_:
     nap: Crustacea
     nb: krepsdyr
     nds: Kreefte
-    nds-nl: dwaarsloper
+    nds_nl: dwaarsloper
     nl: kreeftachtigen
     nn: krepsdyr
     nrm: Crustacea
@@ -230,7 +230,7 @@ dv_has_:
     pms: Crustacea
     ps: كلک پوستى ژوي
     pt: crustáceo
-    pt-br: Crustáceo
+    pt_br: Crustáceo
     qu: Qaraqruyuwa
     rm: Crustacea
     ro: crustacee
@@ -267,9 +267,9 @@ dv_has_:
     wuu: 甲壳亚门
     yue: 甲殼動物
     zh: 甲壳亚门
-    zh-cn: 甲壳亚门
-    zh-hans: 甲壳亚门
-    zh-tw: 甲殼亞門
+    zh_cn: 甲壳亚门
+    zh_hans: 甲壳亚门
+    zh_tw: 甲殼亞門
     zu: Crustacea
 ---
 # [[Crustacea]]

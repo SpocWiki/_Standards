@@ -153,7 +153,7 @@ dv_has_:
     ban: Lawrénsium
     bcl: Lawrensyo
     be: Лаўрэнсій
-    be-tarask: Ляўрэнс
+    be_tarask: Ляўрэнс
     bg: лоуренсий
     bho: लॉरेंशियम
     bn: লরেনসিয়াম
@@ -171,8 +171,8 @@ dv_has_:
     de: Lawrencium
     el: λωρένσιο
     en: lawrencium
-    en-ca: Lawrencium
-    en-gb: lawrencium
+    en_ca: Lawrencium
+    en_gb: lawrencium
     eo: laŭrenciumo
     es: lawrencio
     et: lavrentsium
@@ -245,7 +245,7 @@ dv_has_:
     pnb: لارنسئیم
     ps: لارېنسيوم
     pt: laurêncio
-    pt-br: laurêncio
+    pt_br: laurêncio
     qu: Lawrensyu
     ro: lawrenciu
     ru: лоуренсий
@@ -282,14 +282,14 @@ dv_has_:
     yo: Lawrencium
     yue: 鐒
     zh: 鐒
-    zh-cn: 铹
-    zh-hans: 铹
-    zh-hant: 鐒
-    zh-hk: 鐒
-    zh-mo: 鐒
+    zh_cn: 铹
+    zh_hans: 铹
+    zh_hant: 鐒
+    zh_hk: 鐒
+    zh_mo: 鐒
     zh-my: 铹
-    zh-sg: 铹
-    zh-tw: 鐒
+    zh_sg: 铹
+    zh_tw: 鐒
     zu: UmLangalambi
   number_of_:
     period: 7

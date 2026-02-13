@@ -181,7 +181,7 @@ dv_has_:
     arz: حزام البى
     az: Alp-Himalay qırışıqlıq qurşağı
     be: Альпійска-Гімалайскі пояс
-    be-tarask: Альпійскі пояс
+    be_tarask: Альпійскі пояс
     ca: Cinturó Alpídic
     cs: Alpsko-himálajský systém
     cy: llain Alpid
@@ -209,7 +209,7 @@ dv_has_:
     ko: 알프스-히말라야 조산대
     lb: Alpidesch Gebiergsceinture
     lt: Alpių kalnų juosta
-    map-bms: Sabuk Alpide
+    map_bms: Sabuk Alpide
     mk: алпско-хималајски појас
     ml: ആൽപൈഡ് ബെൽറ്റ്
     ms: Jalur Alpid
@@ -228,9 +228,9 @@ dv_has_:
     uk: Середземноморський геосинклінальний пояс
     vi: Vành đai Alp
     zh: 阿尔卑斯带
-    zh-hans: 阿尔卑斯带
-    zh-hant: 阿爾卑斯帶
-    zh-hk: 阿爾卑斯帶
+    zh_hans: 阿尔卑斯带
+    zh_hant: 阿爾卑斯帶
+    zh_hk: 阿爾卑斯帶
 ---
 # [[Alpide_Belt]] 
 

@@ -187,7 +187,7 @@ dv_has_:
     bar: Konfuzianismus
     bcl: Confucianismo
     be: канфуцыянства
-    be-tarask: канфуцыянства
+    be_tarask: канфуцыянства
     bg: Конфуцианство
     bn: কনফুসীয়বাদ
     bo: ཁུང་ཙིའི་གཞུང་ལུགས།
@@ -205,8 +205,8 @@ dv_has_:
     de: Konfuzianismus
     el: Κομφουκιανισμός
     en: Confucianism
-    en-ca: Confucianism
-    en-gb: Confucianism
+    en_ca: Confucianism
+    en_gb: Confucianism
     eo: Konfuceismo
     es: confucianismo
     et: konfutsianism
@@ -250,7 +250,7 @@ dv_has_:
     ko: 유교
     ks: کَنفیٛوشِیاسی دَرَم
     ku: konfuçyanîzm
-    ku-latn: konfuçyanîzm
+    ku_latn: konfuçyanîzm
     kw: Confusianieth
     ky: Конфуцийчилик
     la: Confucianismus
@@ -263,7 +263,7 @@ dv_has_:
     lt: Konfucianizmas
     lv: konfūcisms
     lzh: 儒家
-    map-bms: Kong Hu Cu
+    map_bms: Kong Hu Cu
     mg: Kônfosianisma
     min: Konfusianisme
     mk: конфуцијанство
@@ -290,7 +290,7 @@ dv_has_:
     pnb: کنفیوشنازم
     ps: کنفوسیانیزم
     pt: Confucionismo
-    pt-br: Confucionismo
+    pt_br: Confucionismo
     qu: Ru llup'ina
     rki: ကွန်ဖြူးရှပ်ဘာသာ
     ro: confucianism
@@ -332,14 +332,14 @@ dv_has_:
     yue: 儒家
     za: Yuzgyah
     zh: 儒家
-    zh-cn: 儒家
-    zh-hans: 儒家
-    zh-hant: 儒家
-    zh-hk: 儒家
-    zh-mo: 儒家
+    zh_cn: 儒家
+    zh_hans: 儒家
+    zh_hant: 儒家
+    zh_hk: 儒家
+    zh_mo: 儒家
     zh-my: 儒家
-    zh-sg: 儒家
-    zh-tw: 儒家
+    zh_sg: 儒家
+    zh_tw: 儒家
 ---
 # [[Confucianism]] 
 

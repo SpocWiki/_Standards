@@ -90,7 +90,7 @@ dv_has_:
     ast: Escatoloxía
     az: Esxatologiya
     be: эсхаталогія
-    be-tarask: эсхаталёгія
+    be_tarask: эсхаталёгія
     bg: Есхатология
     bn: পরকালবিদ্যা
     br: Finvezhoniezh
@@ -119,7 +119,7 @@ dv_has_:
     ia: Eschatologia
     id: eskatologi
     ike-cans: ᓯᓚᐅᕐᖏᖓ
-    ike-latn: silaurnginga
+    ike_latn: silaurnginga
     is: Heimslitafræði
     it: escatologia
     iu: ᓯᓚᐅᕐᖏᖓ
@@ -158,8 +158,8 @@ dv_has_:
     sms: eskatologia
     sq: Eskatologjia
     sr: есхатологија
-    sr-ec: Есхатологија
-    sr-el: Eshatologija
+    sr_ec: Есхатологија
+    sr_el: Eshatologija
     sv: eskatologi
     th: อวสานวิทยา
     tr: eskatoloji
@@ -173,12 +173,12 @@ dv_has_:
     wuu: 末世论
     yue: 末世論
     zh: 末世论
-    zh-cn: 末世论
-    zh-hans: 末世论
-    zh-hant: 末世論
-    zh-hk: 末世論
-    zh-sg: 末世论
-    zh-tw: 末世論
+    zh_cn: 末世论
+    zh_hans: 末世论
+    zh_hant: 末世論
+    zh_hk: 末世論
+    zh_sg: 末世论
+    zh_tw: 末世論
     zu: Umchazasiphelo
 ---
 # [[Eschatology]] 

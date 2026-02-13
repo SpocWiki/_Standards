@@ -58,9 +58,9 @@ dv_has_:
     uk: формальна помилки
     yue: 形式謬論
     zh: 形式謬誤
-    zh-hans: 形式谬误
-    zh-hant: 形式謬誤
-    zh-hk: 形式謬誤
+    zh_hans: 形式谬误
+    zh_hant: 形式謬誤
+    zh_hk: 形式謬誤
 ---
 # [[Formal_Fallacy]] 
 

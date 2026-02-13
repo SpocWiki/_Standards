@@ -79,7 +79,7 @@ dv_has_:
     oc: Symphyla
     pl: Drobnonogi
     pt: Symphyla
-    pt-br: Symphyla
+    pt_br: Symphyla
     ro: Symphyla
     ru: Симфилы
     sl: Drobnonožke

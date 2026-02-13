@@ -72,7 +72,7 @@ dv_has_:
     ar: متطابقة أويلر
     ast: Identidá d'Euler
     ba: Эйлер тождествоһы (комплекслы анализ)
-    be-tarask: тоесамасьць Ойлера
+    be_tarask: тоесамасьць Ойлера
     bg: Равенство на Ойлер
     bn: অয়লারের অভেদ
     ca: identitat d'Euler
@@ -113,8 +113,8 @@ dv_has_:
     ru: тождество Эйлера
     sl: Eulerjeva enačba
     sr: Ојлеров идентитет
-    sr-ec: Ојлеров идентитет
-    sr-el: Ojlerov identitet
+    sr_ec: Ојлеров идентитет
+    sr_el: Ojlerov identitet
     sv: Eulers identitet
     ta: ஆய்லரின் முற்றொருமை
     th: เอกลักษณ์ของอ็อยเลอร์
@@ -127,12 +127,12 @@ dv_has_:
     yi: אוילער-אידענטיטעט
     yue: 歐拉恆等式
     zh: 歐拉恆等式
-    zh-cn: 欧拉恒等式
-    zh-hans: 欧拉恒等式
-    zh-hant: 歐拉恆等式
-    zh-hk: 歐拉恆等式
-    zh-sg: 欧拉恒等式
-    zh-tw: 歐拉恆等式
+    zh_cn: 欧拉恒等式
+    zh_hans: 欧拉恒等式
+    zh_hant: 歐拉恆等式
+    zh_hk: 歐拉恆等式
+    zh_sg: 欧拉恒等式
+    zh_tw: 歐拉恆等式
 ---
 # [[Euler's_Identity]] 
 

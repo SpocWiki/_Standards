@@ -70,7 +70,7 @@ dv_has_:
     ast: xestión de recursos hídricos
     az: su resurslarının idarə olunması
     be: кіраванне воднымі рэсурсамі
-    be-tarask: водная гаспадарка
+    be_tarask: водная гаспадарка
     bg: Управление на водите
     bn: পানি সম্পদ ব্যবস্থাপনা
     ca: gestió de recursos hídrics
@@ -111,23 +111,23 @@ dv_has_:
     pl: gospodarka wodna
     ps: د اوبو د سرچينې مديريت
     pt: gestão de água
-    pt-br: gestão de água
+    pt_br: gestão de água
     ro: gestionarea apei
     ru: управление водными ресурсами
     sk: vodné hospodárstvo
     sl: vodno gospodarstvo, gospodarjenje z vodo
     sr: управљање воденим ресурсима
-    sr-ec: управљање воденим ресурсима
-    sr-el: upravljanje vodenim resursima
+    sr_ec: управљање воденим ресурсима
+    sr_el: upravljanje vodenim resursima
     sv: vattenverksamhet
     ta: water management
     tr: Su yönetimi
     uk: водне господарство
     zh: 水管理
-    zh-cn: 水管理
-    zh-hans: 水管理
-    zh-hant: 水管理
-    zh-hk: 水管理
+    zh_cn: 水管理
+    zh_hans: 水管理
+    zh_hant: 水管理
+    zh_hk: 水管理
 ---
 # [[Water_Management]] 
 

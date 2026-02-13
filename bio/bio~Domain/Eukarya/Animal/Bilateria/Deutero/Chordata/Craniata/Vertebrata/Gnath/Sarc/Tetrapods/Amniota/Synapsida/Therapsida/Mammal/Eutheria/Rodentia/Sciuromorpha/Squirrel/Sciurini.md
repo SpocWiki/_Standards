@@ -51,7 +51,7 @@ dv_has_:
     oc: Sciurini
     pl: wiewiórki
     pt: Sciurini
-    pt-br: Sciurini
+    pt_br: Sciurini
     ro: Sciurini
     ru: Sciurini
     sl: Sciurini
@@ -62,9 +62,9 @@ dv_has_:
     vo: Sciurini
     war: Sciurini
     zh: 松鼠族
-    zh-cn: 松鼠族
-    zh-hans: 松鼠族
-    zh-tw: 松鼠族
+    zh_cn: 松鼠族
+    zh_hans: 松鼠族
+    zh_tw: 松鼠族
 ---
 # [[Sciurini]] 
 

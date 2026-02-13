@@ -154,7 +154,7 @@ dv_has_:
     az: Hind okeanında zəlzələ və sunami
     ba: Һинд океанында ер тетрәүе (2004)
     be: Землетрасенне ў Індыйскім акіяне ў 2004 годзе
-    be-tarask: Землятрус у Індыйскім акіяне 2004 году
+    be_tarask: Землятрус у Індыйскім акіяне 2004 году
     bg: Земетресение в Индийския океан
     bn: ২০০৪-এর ভারত মহাসাগরে ভূমিকম্প ও সুনামি
     br: Kren-douar ha tsunami 2004 er Meurvor Indian
@@ -198,7 +198,7 @@ dv_has_:
     ml: 2004-ലെ ഇന്ത്യൻ മഹാസമുദ്രഭൂകമ്പവും സുനാമിയും
     mr: २००४ हिंदी महासागर भूकंप व त्सुनामी
     ms: Gempa bumi dan tsunami Lautan Hindi 2004
-    ms-arab: ݢمڤا بومي دان تسونامي لاءوتن هيندي 2004
+    ms_arab: ݢمڤا بومي دان تسونامي لاءوتن هيندي 2004
     my: ၂၀၀၄ အိန္ဒိယသမုဒ္ဒရာ ငလျင်
     nan: 2004 nî Ìn-tō͘-iûⁿ tē-tāng
     nb: Jordskjelvet og tsunamien i Indiahavet 2004
@@ -216,8 +216,8 @@ dv_has_:
     sk: Zemetrasenie v Indickom oceáne 26. decembra 2004
     sl: potres v Indijskem oceanu leta 2004
     sr: Цунами у Индијском океану 2004.
-    sr-ec: Цунами у Индијском океану 2004.
-    sr-el: Cunami u Indijskom okeanu 2004.
+    sr_ec: Цунами у Индијском океану 2004.
+    sr_el: Cunami u Indijskom okeanu 2004.
     su: Lini jeung sunami Samudra Indonésia 2004
     sv: Jordbävningen i Indiska oceanen 2004
     ta: 2004 இந்தியப் பெருங்கடல் நிலநடுக்கம்
@@ -232,12 +232,12 @@ dv_has_:
     yue: 2004年印度洋大地震
     zea: Zeêbeving Indische Oceaon 2004
     zh: 2004年印度洋大地震
-    zh-cn: 2004年印度洋大地震
-    zh-hans: 2004年印度洋大地震
-    zh-hant: 2004年印度洋大地震
-    zh-hk: 2004年印度洋大地震
-    zh-sg: 2004年印度洋大地震
-    zh-tw: 2004年印度洋大地震
+    zh_cn: 2004年印度洋大地震
+    zh_hans: 2004年印度洋大地震
+    zh_hant: 2004年印度洋大地震
+    zh_hk: 2004年印度洋大地震
+    zh_sg: 2004年印度洋大地震
+    zh_tw: 2004年印度洋大地震
 ---
 #[[2004-Indian_Ocean_Tsunami]]] 
 

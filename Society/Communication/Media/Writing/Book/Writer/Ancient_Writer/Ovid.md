@@ -141,7 +141,7 @@ dv_has_:
     ba: Овидий
     bar: Ovid
     be: Авідзій
-    be-tarask: Авідыюс
+    be_tarask: Авідыюс
     bg: Овидий
     bi: Ovid
     bn: পুব্লিউস ওভিদিউস নাসো
@@ -162,8 +162,8 @@ dv_has_:
     diq: Publius Ovidius Naso
     el: Οβίδιος
     en: Ovid
-    en-ca: Ovid
-    en-gb: Ovid
+    en_ca: Ovid
+    en_gb: Ovid
     eo: Ovidio
     es: Ovidio
     et: Ovidius
@@ -221,7 +221,7 @@ dv_has_:
     nan: Ovid
     nb: Ovid
     nds: Ovid
-    nds-nl: Ovidius
+    nds_nl: Ovidius
     ne: ओविड
     nl: Ovidius
     nn: Ovid
@@ -233,7 +233,7 @@ dv_has_:
     pms: Ovidi
     pnb: اووید
     pt: Ovídio
-    pt-br: Ovídio
+    pt_br: Ovídio
     ro: Publius Ovidius Naso
     ru: Овидий
     rue: Публій Овідій Насо
@@ -274,8 +274,8 @@ dv_has_:
     yue: 奧維德
     zea: Ovid
     zh: 奧維德
-    zh-hans: 奥维德
-    zh-hant: 奧維德
+    zh_hans: 奥维德
+    zh_hant: 奧維德
 ---
 # [[Ovid]] 
 

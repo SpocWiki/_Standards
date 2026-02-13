@@ -96,17 +96,17 @@ dv_has_:
     ast: llingües cushites
     az: Kuşit dilləri
     be: кушыцкія мовы
-    be-tarask: кушыцкія мовы
+    be_tarask: кушыцкія мовы
     bg: Кушитски езици
     br: yezhoù kouchitek
     ca: llengües cuixítiques
     cs: Kušitské jazyky
     de: Kuschitisch
-    de-ch: Kuschitische Sprachen
+    de_ch: Kuschitische Sprachen
     el: Κουσιτικές γλώσσες
     en: Cushitic
-    en-ca: Cushitic
-    en-gb: Cushitic
+    en_ca: Cushitic
+    en_gb: Cushitic
     eo: Kuŝida lingvaro
     es: Lenguas cushitas
     et: kuši keeled
@@ -148,7 +148,7 @@ dv_has_:
     pnb: کوشیائی زباناں
     ps: کوشي ژبې
     pt: línguas cuchíticas
-    pt-br: línguas cuchíticas
+    pt_br: línguas cuchíticas
     ru: кушитские языки
     sh: Kušitski jezici
     sk: kušitčina

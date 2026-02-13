@@ -44,7 +44,7 @@ dv_has_:
     az: Sem Rokuell
     azb: سام راکول
     be: Сэм Рокуэл
-    be-tarask: Сэм Рокўэл
+    be_tarask: Сэм Рокўэл
     bg: Сам Рокуел
     bn: স্যাম রকওয়েল
     ca: Sam Rockwell
@@ -86,7 +86,7 @@ dv_has_:
     pa: ਸੈਮ ਰੌਕਵੈਲ
     pl: Sam Rockwell
     pt: Sam Rockwell
-    pt-br: Sam Rockwell
+    pt_br: Sam Rockwell
     ro: Sam Rockwell
     ru: Сэм Рокуэлл
     sh: Sam Rockwell
@@ -99,15 +99,15 @@ dv_has_:
     th: แซม ร็อกเวลล์
     tr: Sam Rockwell
     tt: Сәм Рокуэлл
-    tt-cyrl: Сәм Рокуэлл
+    tt_cyrl: Сәм Рокуэлл
     uk: Сем Роквелл
     vi: Sam Rockwell
     xmf: სემ როკუელი
     yue: 森洛維
     zh: 山姆·洛克威尔
-    zh-cn: 萨姆·洛克维尔
-    zh-hant: 薩姆·洛克維爾
-    zh-hk: 森·洛維
+    zh_cn: 萨姆·洛克维尔
+    zh_hant: 薩姆·洛克維爾
+    zh_hk: 森·洛維
 ---
 ## #has_/text_of_/abstract 
 

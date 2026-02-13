@@ -173,7 +173,7 @@ dv_has_:
     ast: Joni Mitchell
     azb: جونی میچل
     be: Джоні Мічэл
-    be-tarask: Джоні Мітчэл
+    be_tarask: Джоні Мітчэл
     bg: Джони Мичъл
     bs: Joni Mitchell
     ca: Joni Mitchell
@@ -183,7 +183,7 @@ dv_has_:
     de: Joni Mitchell
     el: Τζόνι Μίτσελ
     en: Joni Mitchell
-    en-gb: Joni Mitchell
+    en_gb: Joni Mitchell
     eo: Joni Mitchell
     es: Joni Mitchell
     et: Joni Mitchell
@@ -219,7 +219,7 @@ dv_has_:
     pap: Joni Mitchell
     pl: Joni Mitchell
     pt: Joni Mitchell
-    pt-br: Joni Mitchell
+    pt_br: Joni Mitchell
     ro: Joni Mitchell
     ru: Джони Митчелл
     sat: ᱡᱳᱱᱤ ᱢᱮᱪᱮᱞ
@@ -246,12 +246,12 @@ dv_has_:
     wuu: 琼尼·米歇尔
     yue: 鍾妮·米曹
     zh: 琼尼·米歇尔
-    zh-cn: 琼尼·米歇尔
-    zh-hans: 琼尼·米歇尔
-    zh-hant: 瓊妮·蜜雪兒
-    zh-hk: 鍾妮·米曹
-    zh-sg: 琼尼·米歇尔
-    zh-tw: 瓊妮·蜜雪兒
+    zh_cn: 琼尼·米歇尔
+    zh_hans: 琼尼·米歇尔
+    zh_hant: 瓊妮·蜜雪兒
+    zh_hk: 鍾妮·米曹
+    zh_sg: 琼尼·米歇尔
+    zh_tw: 瓊妮·蜜雪兒
 ---
 # [[Mitchell,Joni]] 
 

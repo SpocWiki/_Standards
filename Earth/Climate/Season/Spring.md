@@ -267,7 +267,7 @@ dv_is_same_as:
 dv_has_:
   name_:
     ab: Ааҧын
-    aeb-arab: ربيع
+    aeb_arab: ربيع
     af: lente
     am: ፀደይ
     ami: Kacanglahan
@@ -289,7 +289,7 @@ dv_has_:
     bar: Fruajoa
     bcl: Tagsoli
     be: вясна
-    be-tarask: вясна
+    be_tarask: вясна
     bg: Пролет
     bho: बसंत
     bjn: Musim Sami
@@ -309,15 +309,15 @@ dv_has_:
     cy: Gwanwyn
     da: forår
     de: Frühling
-    de-ch: Frühling
+    de_ch: Frühling
     diq: Wesar
     dsb: nalěśe
     dty: वसन्त ऋतु
     el: άνοιξη
     eml: Premavèira
     en: spring
-    en-ca: Spring
-    en-gb: spring
+    en_ca: Spring
+    en_gb: spring
     eo: printempo
     es: primavera
     et: kevad
@@ -365,7 +365,7 @@ dv_has_:
     ks: سونٛتھ
     ksh: Vröschjoohr
     ku: bihar
-    ku-latn: bihar
+    ku_latn: bihar
     kv: тулыс
     kw: gwenton
     ky: Жаз
@@ -389,7 +389,7 @@ dv_has_:
     mr: वसंत
     mrj: Шошым
     ms: musim bunga
-    ms-arab: موسيم بوڠا
+    ms_arab: موسيم بوڠا
     my: နွေဦး
     myv: тундо
     mzn: باهار
@@ -398,7 +398,7 @@ dv_has_:
     nap: Primmavera
     nb: vår
     nds: Fröhjohr
-    nds-nl: lente
+    nds_nl: lente
     ne: वसन्त ऋतु
     new: वसन्त
     nl: lente
@@ -415,7 +415,7 @@ dv_has_:
     pnb: بہار
     ps: پسرلی
     pt: primavera
-    pt-br: Primavera
+    pt_br: Primavera
     qu: Ch'iraw mit'a
     rmf: vooros
     ro: primăvară
@@ -483,14 +483,14 @@ dv_has_:
     za: Cawzcin
     zgh: ⵜⴰⴼⵙⵓⵜ
     zh: 春季
-    zh-cn: 春季
-    zh-hans: 春季
-    zh-hant: 春季
-    zh-hk: 春季
-    zh-mo: 春季
+    zh_cn: 春季
+    zh_hans: 春季
+    zh_hant: 春季
+    zh_hk: 春季
+    zh_mo: 春季
     zh-my: 春季
-    zh-sg: 春季
-    zh-tw: 春季
+    zh_sg: 春季
+    zh_tw: 春季
     zu: Intwasahlobo
 ---
 # [[Spring]]

@@ -71,7 +71,7 @@ dv_has_:
     ast: sagráu
     az: müqəddəslik
     ban: sukla
-    be-tarask: сьвятасьць
+    be_tarask: сьвятасьць
     bg: сакрален
     bn: পবিত্রতা
     ca: sagrat

@@ -7,7 +7,7 @@ dv_has_:
     az: Maltoza
     azb: مالتوز
     be: мальтоза
-    be-tarask: мальтоза
+    be_tarask: мальтоза
     bg: Малтоза
     bn: ম্যালটোজ
     bs: Maltoza
@@ -39,11 +39,11 @@ dv_has_:
     ja: マルトース
     ka: მალტოზა
     kk: Мальтоза
-    kk-arab: مالتوزا
+    kk_arab: مالتوزا
     kk-cn: مالتوزا
-    kk-cyrl: Мальтоза
+    kk_cyrl: Мальтоза
     kk-kz: Мальтоза
-    kk-latn: Malʹtoza
+    kk_latn: Malʹtoza
     kk-tr: Malʹtoza
     ko: 말토스
     ky: Мальтоза
@@ -73,8 +73,8 @@ dv_has_:
     sms: maltoos
     sq: Maltoza
     sr: малтоза
-    sr-ec: Малтоза
-    sr-el: Maltoza
+    sr_ec: Малтоза
+    sr_el: Maltoza
     su: Maltosa
     sv: maltos
     th: มอลโทส
@@ -86,12 +86,12 @@ dv_has_:
     yue: 麥芽糖
     za: Dangzhaeux
     zh: 麥芽糖
-    zh-cn: 麦芽糖
-    zh-hans: 麦芽糖
-    zh-hant: 麥芽糖
-    zh-hk: 麥芽糖
-    zh-sg: 麦芽糖
-    zh-tw: 麥芽糖
+    zh_cn: 麦芽糖
+    zh_hans: 麦芽糖
+    zh_hant: 麥芽糖
+    zh_hk: 麥芽糖
+    zh_sg: 麦芽糖
+    zh_tw: 麥芽糖
     zu: I-Maltose
 aliases:
 - Be̍h-gê-thn̂g

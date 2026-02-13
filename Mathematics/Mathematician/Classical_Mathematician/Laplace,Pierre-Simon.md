@@ -203,7 +203,7 @@ dv_has_:
     azb: پیئر سیمون لاپلاس
     ba: Пьер-Симон Лаплас
     be: П’ер-Сімон Ляпляс
-    be-tarask: П’ер-Сымон Ляпляс
+    be_tarask: П’ер-Сымон Ляпляс
     bg: Пиер-Симон Лаплас
     bho: साइमन लाप्लास
     bn: পিয়ের সিমোঁ লাপ্লাস
@@ -273,7 +273,7 @@ dv_has_:
     pms: Pierre Simon de Laplace
     ps: پییر سیمون لاپلاس
     pt: Pierre Simon Laplace
-    pt-br: Pierre Simon Laplace
+    pt_br: Pierre Simon Laplace
     ro: Pierre-Simon de Laplace
     ru: Пьер-Симон Лаплас
     sa: पियर सिमों लाप्लास
@@ -300,7 +300,7 @@ dv_has_:
     xmf: პიერ-სიმონ ლაპლასი
     yue: 拉普拉斯
     zh: 皮埃爾·西蒙·拉普拉斯
-    zh-tw: 皮耶-西蒙·拉普拉斯
+    zh_tw: 皮耶-西蒙·拉普拉斯
 ---
 # [[Laplace,Pierre-Simon]] 
 

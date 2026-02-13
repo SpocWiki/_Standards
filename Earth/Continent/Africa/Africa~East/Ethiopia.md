@@ -4,7 +4,7 @@ dv_has_:
     ab: Ефиопиа
     ace: Ethiopia
     ady: Эфиопие
-    aeb-arab: أثيوبيا
+    aeb_arab: أثيوبيا
     af: Ethiopië
     am: ኢትዮጵያ
     ami: Ethiopia
@@ -29,7 +29,7 @@ dv_has_:
     bbc: Etiopia
     bcl: Etyopya
     be: Эфіопія
-    be-tarask: Этыёпія
+    be_tarask: Этыёпія
     bew: Habsi
     bg: Етиопия
     bho: इथियोपिया
@@ -44,7 +44,7 @@ dv_has_:
     btm: Ethiopia
     bxr: Этиоп
     ca: Etiòpia
-    cbk-zam: Etiopía
+    cbk_zam: Etiopía
     cdo: Ethiopia
     ce: Эфиопи
     ceb: Etiopia
@@ -52,7 +52,7 @@ dv_has_:
     ckb: ئیتیۆپیا
     co: Ettiopia
     crh: Abeşistan
-    crh-latn: Abeşistan
+    crh_latn: Abeşistan
     cs: Etiopie
     csb: Etiopiô
     cu: Єѳїопїꙗ
@@ -62,7 +62,7 @@ dv_has_:
     dag: Ethiopia
     de: Äthiopien
     de-at: Äthiopien
-    de-ch: Äthiopien
+    de_ch: Äthiopien
     din: Ethiopia
     diq: Etyopya
     dsb: Etiopiska
@@ -71,8 +71,8 @@ dv_has_:
     ee: Etiopia
     el: Αιθιοπία
     en: Ethiopia
-    en-ca: Ethiopia
-    en-gb: Ethiopia
+    en_ca: Ethiopia
+    en_gb: Ethiopia
     eo: Etiopio
     es: Etiopía
     et: Etioopia
@@ -166,7 +166,7 @@ dv_has_:
     mad: Ethiopia
     mag: इथियोपिया
     mai: इथियोपिया
-    map-bms: Ethiopia
+    map_bms: Ethiopia
     mdf: Этиопия
     mg: Etiopia
     mhr: Эфиопий
@@ -190,7 +190,7 @@ dv_has_:
     nan: Ethiopia
     nb: Etiopia
     nds: Äthiopien
-    nds-nl: Etiopie
+    nds_nl: Etiopie
     ne: इथियोपिया
     new: इथियोपिया
     nl: Ethiopië
@@ -215,7 +215,7 @@ dv_has_:
     pnb: ایتھوپیا
     ps: اېتوپيا
     pt: Etiópia
-    pt-br: Etiópia
+    pt_br: Etiópia
     pwn: Isubya
     qu: Ithiyupya
     rm: Etiopia
@@ -250,8 +250,8 @@ dv_has_:
     so: Itoobiya
     sq: Etiopia
     sr: Етиопија
-    sr-ec: Етиопија
-    sr-el: Etiopija
+    sr_ec: Етиопија
+    sr_el: Etiopija
     srn: Ethiopikondre
     ss: ITopiya
     st: Ethiopia
@@ -305,11 +305,11 @@ dv_has_:
     zea: Ethiopië
     zgh: ⵉⵜⵢⵓⴱⵢⴰ
     zh: 埃塞俄比亚
-    zh-cn: 埃塞俄比亚
-    zh-hans: 埃塞俄比亚
-    zh-hant: 衣索比亞
-    zh-hk: 埃塞俄比亞
-    zh-tw: 衣索比亞
+    zh_cn: 埃塞俄比亚
+    zh_hans: 埃塞俄比亚
+    zh_hant: 衣索比亞
+    zh_hk: 埃塞俄比亞
+    zh_tw: 衣索比亞
     zu: I-Ithiopia
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Ethiopia

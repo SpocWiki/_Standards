@@ -144,7 +144,7 @@ dv_has_:
     az: psixiatriya
     azb: سایکیاتری
     be: псіхіятрыя
-    be-tarask: псыхіятрыя
+    be_tarask: псыхіятрыя
     bg: Психиатрия
     bn: মনোরোগ বিজ্ঞান
     br: psikiatriezh
@@ -155,7 +155,7 @@ dv_has_:
     cy: seiciatreg
     da: psykiatri
     de: Psychiatrie
-    de-ch: Psychiatrie
+    de_ch: Psychiatrie
     el: ψυχιατρική
     en: psychiatry
     eo: psikiatrio
@@ -196,7 +196,7 @@ dv_has_:
     mk: психијатрија
     ml: സൈക്യാട്രി
     ms: psikiatri
-    ms-arab: ڤسيکياتري
+    ms_arab: ڤسيکياتري
     my: စိတ်ရောဂါပညာ
     mzn: روان پزشکی
     nan: Cheng-sîn-i-ha̍k
@@ -213,7 +213,7 @@ dv_has_:
     pms: Psichiatrìa
     ps: سادرملنه
     pt: psiquiatria
-    pt-br: psiquiatria
+    pt_br: psiquiatria
     rki: စိတ်ရောဂါပညာ
     ro: psihiatrie
     ru: психиатрия
@@ -248,14 +248,14 @@ dv_has_:
     yue: 精神病學
     zgh: ⵜⴰⵙⴳⵏⴼⵉⵎⴰⵏⵜ
     zh: 精神医学
-    zh-cn: 精神医学
-    zh-hans: 精神医学
-    zh-hant: 精神病學
-    zh-hk: 精神病學
-    zh-mo: 精神病學
+    zh_cn: 精神医学
+    zh_hans: 精神医学
+    zh_hant: 精神病學
+    zh_hk: 精神病學
+    zh_mo: 精神病學
     zh-my: 精神病学
-    zh-sg: 精神病学
-    zh-tw: 精神病學
+    zh_sg: 精神病学
+    zh_tw: 精神病學
 ---
 #is_/same_as :: [[../../../../WikiData/WD~Psychiatry,7867|WD~Psychiatry,7867]] 
 

@@ -88,7 +88,7 @@ dv_has_:
     ar: مستعلق
     az: Suspenziya
     be: Суспензія
-    be-tarask: суспэнзія
+    be_tarask: суспэнзія
     bg: Суспензия
     bs: Suspenzija
     ca: suspensió
@@ -137,8 +137,8 @@ dv_has_:
     sk: Suspenzia
     sl: suspenzija
     sr: суспензија
-    sr-ec: суспензија
-    sr-el: suspenzija
+    sr_ec: суспензија
+    sr_el: suspenzija
     sv: suspension
     ta: தொங்கல்
     tg: Суспензия

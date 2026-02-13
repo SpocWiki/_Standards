@@ -424,7 +424,7 @@ dv_has_:
   name_:
     ab: Палау
     ace: Palau
-    aeb-arab: پالاو
+    aeb_arab: پالاو
     af: Palau
     am: ፐላው
     ami: Palau
@@ -443,7 +443,7 @@ dv_has_:
     bar: Palau
     bcl: Palau
     be: Палау
-    be-tarask: Палаў
+    be_tarask: Палаў
     bew: Palau
     bg: Палау
     bi: Palau
@@ -455,7 +455,7 @@ dv_has_:
     bs: Palau
     bxr: Палау
     ca: Palau
-    cbk-zam: Palau
+    cbk_zam: Palau
     cdo: Palau
     ce: Палау
     ceb: Palau
@@ -464,7 +464,7 @@ dv_has_:
     ckb: پالاو
     co: Pelau
     crh: Palau
-    crh-latn: Palau
+    crh_latn: Palau
     cs: Palau
     cv: Палау
     cy: Palaw
@@ -472,15 +472,15 @@ dv_has_:
     dag: Palau
     de: Palau
     de-at: Palau
-    de-ch: Palau
+    de_ch: Palau
     diq: Palau
     dty: पलाउ
     dv: ޕަލާއޫ
     dz: པ་ལཱཝ།
     el: Παλάου
     en: Palau
-    en-ca: Palau
-    en-gb: Palau
+    en_ca: Palau
+    en_gb: Palau
     eo: Palaŭo
     es: Palaos
     et: Belau
@@ -503,7 +503,7 @@ dv_has_:
     gn: Paláu
     gom: पलाऊ
     gom-deva: पलाऊ
-    gom-latn: Palau
+    gom_latn: Palau
     got: "\U00010340\U00010330\U0001033B\U00010330\U0001033F"
     gpe: Palau
     gsw: Palau
@@ -596,7 +596,7 @@ dv_has_:
     pnb: پالاو
     ps: پالايو
     pt: Palau
-    pt-br: Palau
+    pt_br: Palau
     qu: Palaw
     rki: ပလောင်းသမ္မတနိုင်ငံ
     rm: Palau
@@ -661,13 +661,13 @@ dv_has_:
     za: Palau
     zea: Palau
     zh: 帛琉
-    zh-cn: 帕劳
-    zh-hans: 帕劳
-    zh-hant: 帛琉
-    zh-hk: 帕勞
-    zh-mo: 帕勞
-    zh-sg: 帕劳
-    zh-tw: 帛琉
+    zh_cn: 帕劳
+    zh_hans: 帕劳
+    zh_hant: 帛琉
+    zh_hk: 帕勞
+    zh_mo: 帕勞
+    zh_sg: 帕劳
+    zh_tw: 帛琉
     zu: i-Palau
 ---
 # [[Palau]] 

@@ -157,7 +157,7 @@ dv_has_:
     az: Hans Bete
     azb: هانس بته
     be: Ганс Альбрэхт Бетэ
-    be-tarask: Ганс Бэтэ
+    be_tarask: Ганс Бэтэ
     bg: Ханс Бете
     bn: হান্স বেটে
     bs: Hans Bethe
@@ -167,11 +167,11 @@ dv_has_:
     da: Hans Albrecht Bethe
     dag: Hans Bethe
     de: Hans Bethe
-    de-ch: Hans Bethe
+    de_ch: Hans Bethe
     el: Χανς Μπέτε
     en: Hans Bethe
-    en-ca: Hans Bethe
-    en-gb: Hans Bethe
+    en_ca: Hans Bethe
+    en_gb: Hans Bethe
     eo: Hans Albrecht Bethe
     es: Hans Bethe
     et: Hans Bethe
@@ -199,8 +199,8 @@ dv_has_:
     kk: Ханс Альбрехт Бете
     ko: 한스 베테
     ku: Hans Albrecht Bethe
-    ku-arab: حانسئا لبرەجهت بەتهە
-    ku-latn: Hans Albrecht Bethe
+    ku_arab: حانسئا لبرەجهت بەتهە
+    ku_latn: Hans Albrecht Bethe
     la: Ioannes Bethe
     lb: Hans Bethe
     lt: Hans Bethe
@@ -221,7 +221,7 @@ dv_has_:
     pl: Hans Bethe
     pnb: ہانز بیتھے
     pt: Hans Bethe
-    pt-br: Hans Bethe
+    pt_br: Hans Bethe
     ro: Hans Albrecht Bethe
     ru: Ханс Бете
     sa: हान्स बेथे
@@ -231,8 +231,8 @@ dv_has_:
     sl: Hans Albrecht Bethe
     sq: Hans Bethe
     sr: Ханс Бете
-    sr-ec: Ханс Бете
-    sr-el: Hans Bete
+    sr_ec: Ханс Бете
+    sr_el: Hans Bete
     sv: Hans Bethe
     sw: Hans Bethe
     ta: ஹன்ஸ் பேடா
@@ -251,12 +251,12 @@ dv_has_:
     yo: Hans Bethe
     yue: 漢斯貝特
     zh: 汉斯·贝特
-    zh-cn: 汉斯·贝特
-    zh-hans: 汉斯·贝特
-    zh-hant: 漢斯·貝特
-    zh-hk: 漢斯·貝特
-    zh-sg: 汉斯·贝特
-    zh-tw: 漢斯·貝特
+    zh_cn: 汉斯·贝特
+    zh_hans: 汉斯·贝特
+    zh_hant: 漢斯·貝特
+    zh_hk: 漢斯·貝特
+    zh_sg: 汉斯·贝特
+    zh_tw: 漢斯·貝特
 ---
 # [[Bethe,Hans]] 
 

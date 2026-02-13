@@ -193,7 +193,7 @@ dv_has_:
     az: Pol Dirak
     azb: پل دیراک
     be: Поль Дзірак
-    be-tarask: Поль Дырак
+    be_tarask: Поль Дырак
     bg: Пол Дирак
     bn: পল ডির্যাক
     bs: Paul Dirac
@@ -207,8 +207,8 @@ dv_has_:
     ee: P. A. M. Dirac
     el: Πολ Ντιράκ
     en: Paul Dirac
-    en-ca: Paul Dirac
-    en-gb: Paul Dirac
+    en_ca: Paul Dirac
+    en_gb: Paul Dirac
     en-us: Paul Dirac
     eo: Paul Dirac
     es: Paul Dirac
@@ -267,7 +267,7 @@ dv_has_:
     pnb: پال ڈیراک
     ps: پاول ادرین ماورایس دیراک
     pt: Paul Dirac
-    pt-br: Paul Dirac
+    pt_br: Paul Dirac
     qu: Paul Dirac
     rm: Paul Dirac
     ro: Paul Dirac
@@ -279,7 +279,7 @@ dv_has_:
     sl: Paul Adrien Maurice Dirac
     sq: Paul Dirac
     sr: Пол Дирак
-    sr-ec: Пол Дирак
+    sr_ec: Пол Дирак
     sv: Paul Dirac
     sw: Paul Dirac
     ta: பால் டிராக்
@@ -299,11 +299,11 @@ dv_has_:
     yo: Paul Dirac
     yue: 狄拉克
     zh: 保羅·狄拉克
-    zh-cn: 保罗·狄拉克
-    zh-hans: 保罗·狄拉克
-    zh-hant: 保羅·狄拉克
-    zh-hk: 保羅·狄拉克
-    zh-tw: 保羅·狄拉克
+    zh_cn: 保罗·狄拉克
+    zh_hans: 保罗·狄拉克
+    zh_hant: 保羅·狄拉克
+    zh_hk: 保羅·狄拉克
+    zh_tw: 保羅·狄拉克
 ---
 # [[Dirac,Paul]] 
 

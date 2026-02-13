@@ -101,7 +101,7 @@ dv_has_:
     az: klassisizm
     ba: Классицизм
     be: класіцызм
-    be-tarask: клясыцызм
+    be_tarask: клясыцызм
     bg: Класицизъм
     bs: klasicizam
     ca: classicisme
@@ -113,7 +113,7 @@ dv_has_:
     de: Klassizismus
     el: κλασικισμός
     en: Classicism
-    en-gb: classicism
+    en_gb: classicism
     eo: klasikismo
     es: clasicismo
     et: klassitsism
@@ -136,16 +136,16 @@ dv_has_:
     ja: 古典主義
     ka: კლასიციზმი
     kk: Классицизм
-    kk-arab: كلاسسىيتسىيزم
+    kk_arab: كلاسسىيتسىيزم
     kk-cn: كلاسسىيتسىيزم
-    kk-cyrl: Классицизм
+    kk_cyrl: Классицизм
     kk-kz: Классицизм
-    kk-latn: Klassïcïzm
+    kk_latn: Klassïcïzm
     kk-tr: Klassïcïzm
     ko: 고전주의
     ku: Klasîzm
-    ku-arab: کلاسیزم
-    ku-latn: Klasîzm
+    ku_arab: کلاسیزم
+    ku_latn: Klasîzm
     kw: klassygieth
     ky: Классицизм
     lb: Klassizismus
@@ -177,8 +177,8 @@ dv_has_:
     sms: klassismm
     sq: Klasicizmi
     sr: класицизам
-    sr-ec: класицизам
-    sr-el: klasicizam
+    sr_ec: класицизам
+    sr_el: klasicizam
     stq: Klassizismus
     su: Klasisme
     sv: klassicism
@@ -193,12 +193,12 @@ dv_has_:
     xmf: კლასიციზმი
     yue: 古典主義
     zh: 古典主義
-    zh-cn: 古典主义
-    zh-hans: 古典主义
-    zh-hant: 古典主義
-    zh-hk: 古典主義
-    zh-sg: 古典主义
-    zh-tw: 古典主義
+    zh_cn: 古典主义
+    zh_hans: 古典主义
+    zh_hant: 古典主義
+    zh_hk: 古典主義
+    zh_sg: 古典主义
+    zh_tw: 古典主義
 ---
 # [[Classicism]] 
 

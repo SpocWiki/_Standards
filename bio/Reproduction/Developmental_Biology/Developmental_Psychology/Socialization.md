@@ -89,7 +89,7 @@ dv_has_:
     ast: Socialización
     az: Sosializasiya
     be: сацыяльная адаптацыя
-    be-tarask: сацыялізацыя
+    be_tarask: сацыялізацыя
     bg: Социализация
     bn: সামাজিকীকরণ
     ca: socialització
@@ -120,11 +120,11 @@ dv_has_:
     ja: 社会化
     ka: სოციალური ადაპტაცია
     kk: Әлеуметтік адаптация
-    kk-arab: الەۋمەتتىك اداپتاتسىييا
+    kk_arab: الەۋمەتتىك اداپتاتسىييا
     kk-cn: الەۋمەتتىك اداپتاتسىييا
-    kk-cyrl: Әлеуметтік адаптация
+    kk_cyrl: Әлеуметтік адаптация
     kk-kz: Әлеуметтік адаптация
-    kk-latn: Älewmettik adaptacïya
+    kk_latn: Älewmettik adaptacïya
     kk-tr: Älewmettik adaptacïya
     kn: ಸಾಮಾಜೀಕರಣ
     ko: 사회화
@@ -145,8 +145,8 @@ dv_has_:
     sl: socializacija
     sq: Shoqërizimi
     sr: социјализација
-    sr-ec: Социјализација
-    sr-el: Socijalizacija
+    sr_ec: Социјализација
+    sr_el: Socijalizacija
     sv: socialisation
     szl: socjalizacyjŏ
     ta: சமூகமயமாக்கம்
@@ -160,12 +160,12 @@ dv_has_:
     wuu: 社会化
     yue: 社會化
     zh: 社會化
-    zh-cn: 社会化
-    zh-hans: 社会化
-    zh-hant: 社會化
-    zh-hk: 社會化
-    zh-sg: 社会化
-    zh-tw: 社會化
+    zh_cn: 社会化
+    zh_hans: 社会化
+    zh_hant: 社會化
+    zh_hk: 社會化
+    zh_sg: 社会化
+    zh_tw: 社會化
 ---
 # [[Socialization]] 
 

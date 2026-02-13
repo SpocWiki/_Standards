@@ -195,7 +195,7 @@ dv_has_:
     ban: Kléopatra
     bcl: Cleopatra
     be: Клеапатра
-    be-tarask: Клеапатра
+    be_tarask: Клеапатра
     bg: Клеопатра VII
     bho: क्लियोपैट्रा
     bn: ক্লিওপেট্রা
@@ -211,13 +211,13 @@ dv_has_:
     cy: Cleopatra
     da: Kleopatra 7.
     de: Kleopatra VII.
-    de-ch: Kleopatra VII.
+    de_ch: Kleopatra VII.
     diq: Kleopatra VII
     dtp: Cleopatra
     el: Κλεοπάτρα Ζ΄ της Αιγύπτου
     en: Cleopatra
-    en-ca: Cleopatra
-    en-gb: Cleopatra
+    en_ca: Cleopatra
+    en_gb: Cleopatra
     en-us: Cleopatra
     eo: Kleopatro (la 7-a)
     es: Cleopatra
@@ -266,7 +266,7 @@ dv_has_:
     ko: 클레오파트라 7세
     ks: کٔلیوپیٹرا
     ku: Kleopatra VII
-    ku-latn: Kleopatra VII
+    ku_latn: Kleopatra VII
     kw: Cleopatra VII
     la: Cleopatra VII
     lad: Kleopatra VII
@@ -277,7 +277,7 @@ dv_has_:
     lv: Kleopatra
     lzh: 克婁巴特拉七世
     mad: Klèopatra
-    map-bms: Cleopatra
+    map_bms: Cleopatra
     mg: Cléopâtre VII
     min: Kleopatra
     mk: Клеопатра
@@ -292,7 +292,7 @@ dv_has_:
     nap: Cleopatra
     nb: Kleopatra
     nds: Kleopatra VII.
-    nds-nl: Cleopatra
+    nds_nl: Cleopatra
     ne: क्लियोपेट्रा सातौं
     new: किळियोपाट्रा
     nl: Cleopatra VII
@@ -344,7 +344,7 @@ dv_has_:
     yo: Cleopatra 7k
     yue: 埃及妖后
     zh: 克娄巴特拉七世
-    zh-hk: 姬奧帕特娜七世
+    zh_hk: 姬奧帕特娜七世
 ---
 # [[Cleopatra]] 
 

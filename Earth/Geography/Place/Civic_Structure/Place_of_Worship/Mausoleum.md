@@ -107,7 +107,7 @@ dv_has_:
     azb: آنیت مزار
     ba: Кәшәнә
     be: Маўзалей
-    be-tarask: маўзалей
+    be_tarask: маўзалей
     bg: Мавзолей
     bn: সমাধিসৌধ
     br: Mozoleon
@@ -148,7 +148,7 @@ dv_has_:
     ko: 마우솔레움
     ks: مقبر
     ku: aramgeh
-    ku-latn: aramgeh
+    ku_latn: aramgeh
     ky: Мавзолей
     lb: Mausoleum
     lt: Mauzoliejus
@@ -156,7 +156,7 @@ dv_has_:
     lzh: 陵寢
     mk: мавзолеј
     ms: makam
-    ms-arab: مقام
+    ms_arab: مقام
     nan: Biō
     nb: mausoleum
     nl: mausoleum
@@ -169,7 +169,7 @@ dv_has_:
     pnb: مزار
     ps: مقبره
     pt: mausoléu
-    pt-br: mausoléu
+    pt_br: mausoléu
     ro: mausoleu
     ru: мавзолей
     sco: mausoleum
@@ -179,15 +179,15 @@ dv_has_:
     sl: mavzolej
     sq: Mauzoleu
     sr: маузолеј
-    sr-ec: Маузолеј
-    sr-el: Mauzolej
+    sr_ec: Маузолеј
+    sr_el: Mauzolej
     sv: mausoleum
     tg: мақбара
-    tg-latn: Mavzolej
+    tg_latn: Mavzolej
     th: อนุสรณ์ศพ
     tr: anıt mezar
     tt: төрбә
-    tt-cyrl: төрбә
+    tt_cyrl: төрбә
     uk: мавзолей
     ur: مزار
     uz: Mavzoley
@@ -196,12 +196,12 @@ dv_has_:
     wuu: 陵墓
     yue: 陵墓
     zh: 陵墓
-    zh-cn: 陵墓
-    zh-hans: 陵墓
-    zh-hant: 陵墓
-    zh-hk: 陵墓
-    zh-sg: 陵墓
-    zh-tw: 陵墓
+    zh_cn: 陵墓
+    zh_hans: 陵墓
+    zh_hant: 陵墓
+    zh_hk: 陵墓
+    zh_sg: 陵墓
+    zh_tw: 陵墓
 ---
 #is_/same_as :: [[_Standards/WikiData/WD~mausoleum,162875]] 
 

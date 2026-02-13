@@ -134,7 +134,7 @@ dv_has_:
     az: Tulium
     ban: Thulium
     be: тулій
-    be-tarask: Туль
+    be_tarask: Туль
     bg: тулий
     bho: थुलियम
     bn: থুলিয়াম
@@ -152,7 +152,7 @@ dv_has_:
     de: Thulium
     el: θούλιο
     en: thulium
-    en-gb: thulium
+    en_gb: thulium
     eo: tulio
     es: tulio
     et: Tuulium
@@ -226,7 +226,7 @@ dv_has_:
     pnb: تھلیم
     ps: توليوم
     pt: túlio
-    pt-br: túlio
+    pt_br: túlio
     qu: Thulyu
     ro: tuliu
     ru: тулий
@@ -240,7 +240,7 @@ dv_has_:
     sl: tulij
     sq: Tuliumi
     sr: тулијум
-    sr-ec: тулијум
+    sr_ec: тулијум
     stq: Thulium
     sv: tulium
     ta: தூலியம்
@@ -262,10 +262,10 @@ dv_has_:
     yo: Thulium
     yue: 銩
     zh: 銩
-    zh-hans: 铥
-    zh-hant: 銩
-    zh-hk: 銩
-    zh-tw: 銩
+    zh_hans: 铥
+    zh_hant: 銩
+    zh_hk: 銩
+    zh_tw: 銩
     zu: UmThuthumbi
   number_of_:
     period: 6

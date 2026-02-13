@@ -157,7 +157,7 @@ dv_has_:
     ban-bali: ᬭᬶᬙᬃᬤ᭄ᬲ᭄ᬢᬮ᭄ᬫᬦ᭄
     bar: Richard Stallman
     be: Рычард Мэцью Столман
-    be-tarask: Рычард Столман
+    be_tarask: Рычард Столман
     bg: Ричард Столман
     bn: রিচার্ড স্টলম্যান
     br: Richard Stallman
@@ -169,7 +169,7 @@ dv_has_:
     da: Richard M. Stallman
     de: Richard Stallman
     de-at: Richard Stallman
-    de-ch: Richard Stallman
+    de_ch: Richard Stallman
     el: Ρίτσαρντ Στόλλμαν
     en: Richard Stallman
     en-us: Richard Stallman
@@ -229,7 +229,7 @@ dv_has_:
     pl: Richard Stallman
     pnb: رچرڈ سٹالمان
     pt: Richard Stallman
-    pt-br: Richard Matthew Stallman
+    pt_br: Richard Matthew Stallman
     ro: Richard Stallman
     ru: Ричард Столлман
     sa: रिचार्ड स्टालमन
@@ -261,9 +261,9 @@ dv_has_:
     wuu: 理查德·斯托曼
     yue: 理查斯托曼
     zh: 理查德·斯托曼
-    zh-hans: 理查德·斯托曼
-    zh-hant: 理查·史托曼
-    zh-tw: 理查·史托曼
+    zh_hans: 理查德·斯托曼
+    zh_hant: 理查·史托曼
+    zh_tw: 理查·史托曼
 ---
 # [[Stallman,Richard]] 
 

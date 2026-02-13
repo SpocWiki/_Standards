@@ -10,7 +10,7 @@ dv_has_:
     az: podkast
     bar: Podcast
     be: падкастынг
-    be-tarask: падкастынг
+    be_tarask: падкастынг
     bew: Umrup-umrupan
     bg: Подкаст
     bho: पॉडकास्ट
@@ -21,11 +21,11 @@ dv_has_:
     cy: podlediad
     da: podcasting
     de: Podcast
-    de-ch: Podcasting
+    de_ch: Podcasting
     el: Podcasting
     en: podcast
-    en-ca: podcast
-    en-gb: podcast
+    en_ca: podcast
+    en_gb: podcast
     eo: podkasto
     es: pódcast
     et: taskuhääling
@@ -64,7 +64,7 @@ dv_has_:
     nan: Podcasting
     nb: podkasting
     nds: Podcasting
-    nds-nl: podcast
+    nds_nl: podcast
     nl: podcast
     nn: podkasting
     oc: podcasting
@@ -72,7 +72,7 @@ dv_has_:
     pl: podkast
     pnb: پوڈکاسٹ
     pt: podcasting
-    pt-br: Podcasting
+    pt_br: Podcasting
     ro: podcast
     ru: подкастинг
     scn: Podcasting
@@ -99,8 +99,8 @@ dv_has_:
     yi: פאדקעסט
     yue: Podcast
     zh: 播客
-    zh-hant: Podcast
-    zh-tw: Podcast
+    zh_hant: Podcast
+    zh_tw: Podcast
     zu: Isifayelo
 aliases:
 - "''podcasting''"

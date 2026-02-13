@@ -142,7 +142,7 @@ dv_has_:
     ast: glaciación
     az: Buz dövrü
     be: Ледніковы перыяд
-    be-tarask: ледавіковы пэрыяд
+    be_tarask: ледавіковы пэрыяд
     bg: Ледникова епоха
     blk: ထီဝခေတ်
     bn: হিমযুগ
@@ -154,11 +154,11 @@ dv_has_:
     cy: Oes yr Iâ
     da: istid
     de: Eiszeitalter
-    de-ch: Eiszeitalter
+    de_ch: Eiszeitalter
     el: Εποχή των Παγετώνων
     en: ice age
-    en-ca: ice age
-    en-gb: ice age
+    en_ca: ice age
+    en_gb: ice age
     eo: glaciepoko
     es: glaciación
     et: jääaeg
@@ -206,7 +206,7 @@ dv_has_:
     my: ရေခဲခေတ်
     nan: peng-hô-kî
     nb: istid
-    nds-nl: ystyd
+    nds_nl: ystyd
     ne: हिमयुग
     nl: ijstijdvak
     nn: Istid
@@ -216,7 +216,7 @@ dv_has_:
     pl: epoka lodowa
     ps: د کنګل زمانه
     pt: idade do gelo
-    pt-br: Era do gelo
+    pt_br: Era do gelo
     qu: Chullunku pacha
     ro: era glaciară
     ru: ледниковый период
@@ -252,14 +252,14 @@ dv_has_:
     yue: 冰河時期
     zea: Iestied
     zh: 冰河時期
-    zh-cn: 冰河時期
-    zh-hans: 冰河時期
-    zh-hant: 冰河時期
-    zh-hk: 冰河時期
-    zh-mo: 冰河時期
+    zh_cn: 冰河時期
+    zh_hans: 冰河時期
+    zh_hant: 冰河時期
+    zh_hk: 冰河時期
+    zh_mo: 冰河時期
     zh-my: 冰河時期
-    zh-sg: 冰河時期
-    zh-tw: 冰河時期
+    zh_sg: 冰河時期
+    zh_tw: 冰河時期
 ---
 # [[Ice_Age]] 
 

@@ -38,8 +38,8 @@ dv_has_:
     el: Άνκε Ενγκέλκε
     eml: Anke Engelke
     en: Anke Engelke
-    en-ca: Anke Engelke
-    en-gb: Anke Engelke
+    en_ca: Anke Engelke
+    en_gb: Anke Engelke
     eo: Anke Engelke
     es: Anke Engelke
     et: Anke Engelke
@@ -80,7 +80,7 @@ dv_has_:
     pap: Anke Engelke
     pl: Anke Engelke
     pt: Anke Engelke
-    pt-br: Anke Engelke
+    pt_br: Anke Engelke
     rm: Anke Engelke
     ro: Anke Engelke
     ru: Анке Энгельке
@@ -99,7 +99,7 @@ dv_has_:
     vo: Anke Engelke
     wa: Anke Engelke
     zh: 安克·恩戈尔克
-    zh-hant: 安克·恩戈爾克
+    zh_hant: 安克·恩戈爾克
 ---
 #has_/time_/started :: 1965-12-21 
 #has_/time_/stopped ::   

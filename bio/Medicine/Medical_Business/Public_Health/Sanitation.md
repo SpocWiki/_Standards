@@ -86,7 +86,7 @@ dv_has_:
     ar: صرف صحي
     ast: Saneamientu ambiental
     be: санітарыя
-    be-tarask: санітарыя
+    be_tarask: санітарыя
     bn: পয়ঃনিষ্কাশন ব্যবস্থা
     ca: sanejament
     cs: sanitace
@@ -115,9 +115,9 @@ dv_has_:
     ja: 衛生状態
     ka: სანიტარია
     kk: қоқыстан тазарту
-    kk-arab: قوقىستان تازارتۋ
-    kk-cyrl: Қоқыстан тазарту
-    kk-latn: qoqıstan tazartw
+    kk_arab: قوقىستان تازارتۋ
+    kk_cyrl: Қоқыстан тазарту
+    kk_latn: qoqıstan tazartw
     kn: ನಿರ್ಮಲೀಕರಣ
     ko: 위생 시설
     lua: Kusadikila nse
@@ -134,7 +134,7 @@ dv_has_:
     or: ଶୁଚିତ୍ୱ
     pa: ਸਫਾਈ
     pt: saneamento básico
-    pt-br: saneamento básico
+    pt_br: saneamento básico
     ro: asanare
     ru: санитария
     sh: sanitarije
@@ -149,8 +149,8 @@ dv_has_:
     uk: санітарія
     yue: 衞生設備
     zh: 衛生條件
-    zh-cn: 环境卫生
-    zh-hans: 环境卫生
+    zh_cn: 环境卫生
+    zh_hans: 环境卫生
 ---
 # [[Sanitation]] 
 

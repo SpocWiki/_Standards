@@ -85,8 +85,8 @@ dv_has_:
     de: Glühen
     el: Ανόπτηση
     en: annealing
-    en-ca: Annealing
-    en-gb: Annealing
+    en_ca: Annealing
+    en_gb: Annealing
     eo: varmigo
     es: recocido
     et: Lõõmutamine
@@ -101,7 +101,7 @@ dv_has_:
     it: ricottura
     ja: 焼きなまし
     kk: босаңдату
-    kk-latn: bosañdatw
+    kk_latn: bosañdatw
     ko: 어닐링
     mk: жарење
     ml: താപാനുശീതനം
@@ -121,8 +121,8 @@ dv_has_:
     uk: відпалювання
     vi: Ủ
     zh: 退火
-    zh-hant: 退火
-    zh-tw: 退火
+    zh_hant: 退火
+    zh_tw: 退火
 ---
 # [[Annealing(Materials_Science)]] 
 

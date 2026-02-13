@@ -247,7 +247,7 @@ dv_has_:
     bas: ŋ̀kɔ̀ŋɓɛ̀
     bcl: Sipon
     be: вострая рэспіраторная інфекцыя
-    be-tarask: застуда
+    be_tarask: застуда
     bg: Настинка
     bjn: Salisma
     bn: সর্দি-কাশি
@@ -267,8 +267,8 @@ dv_has_:
     el: κοινό κρυολόγημα
     eml: Ferdōr
     en: common cold
-    en-ca: Common cold
-    en-gb: common cold
+    en_ca: Common cold
+    en_gb: common cold
     eo: malvarmumo
     es: resfriado común
     et: tavaline nohu
@@ -307,7 +307,7 @@ dv_has_:
     kn: ನೆಗಡಿ
     ko: 감기
     ks: نزٕل
-    ku-latn: sermagirtin
+    ku_latn: sermagirtin
     ky: Суук тийүү
     la: Gravedo
     lez: Мекьивиляй
@@ -326,7 +326,7 @@ dv_has_:
     nap: Ciamurr
     nb: forkjølelse
     nds: Verköhlen
-    nds-nl: verköldheid
+    nds_nl: verköldheid
     ne: रुघा खोकी
     nl: verkoudheid
     nn: forkjøling
@@ -338,7 +338,7 @@ dv_has_:
     pms: Anfreidor
     pnb: زکام
     pt: constipação
-    pt-br: resfriado
+    pt_br: resfriado
     qu: Ch’uju unquy
     ro: răceală comună
     ru: простуда
@@ -360,7 +360,7 @@ dv_has_:
     sms: nuõpp
     sq: I ftohti i zakonshëm
     sr: прехлада
-    sr-ec: прехлада
+    sr_ec: прехлада
     srn: frikowtu
     su: Salésma
     sv: förkylning
@@ -386,7 +386,7 @@ dv_has_:
     yue: 傷風
     za: Dwgliengz
     zh: 普通感冒
-    zh-hant: 普通感冒
+    zh_hant: 普通感冒
 ---
 # [[Common_Cold]] 
 

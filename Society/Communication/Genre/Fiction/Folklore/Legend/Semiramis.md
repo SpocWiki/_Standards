@@ -70,7 +70,7 @@ dv_has_:
     ba: Семирамида
     bcl: Semiramis
     be: Семіраміда
-    be-tarask: Сэміраміда
+    be_tarask: Сэміраміда
     bg: Семирамида
     bs: Semiramis
     ca: Semiramis
@@ -120,8 +120,8 @@ dv_has_:
     sl: Semiramida
     sq: Semiramis
     sr: Семирамида
-    sr-ec: Семирамида
-    sr-el: Semiramida
+    sr_ec: Семирамида
+    sr_el: Semiramida
     sv: Semiramis
     tr: Semiramis
     uk: Семіраміда

@@ -125,7 +125,7 @@ dv_has_:
     ast: Alfred North Whitehead
     az: Uaythed Alfred Nort
     be: Алфрэд Норт Уайтхед
-    be-tarask: Алфрэд Норт Ўайтгэд
+    be_tarask: Алфрэд Норт Ўайтгэд
     bg: Алфред Норт Уайтхед
     bn: আলফ্রেড নর্থ হোয়াইটহেড
     bo: ཨལ་ཧྥེར་ཌི་ནོར་ཐི་ཝེ་ཊི་ཧེད།
@@ -173,7 +173,7 @@ dv_has_:
     pms: Alfred North Whitehead
     ps: الفرېډ نورث وایټهېډ
     pt: Alfred North Whitehead
-    pt-br: Alfred North Whitehead
+    pt_br: Alfred North Whitehead
     ro: Alfred North Whitehead
     ru: Альфред Норт Уайтхед
     sco: Alfred North Whitehead
@@ -182,8 +182,8 @@ dv_has_:
     sl: Alfred North Whitehead
     sq: Alfred North Whitehead
     sr: Алфред Норт Вајтхед
-    sr-ec: Алфред Норт Вајтхед
-    sr-el: Alfred Nort Vajthed
+    sr_ec: Алфред Норт Вајтхед
+    sr_el: Alfred Nort Vajthed
     sv: Alfred North Whitehead
     ta: ஆல்பிரட் நார்த் வொய்ட்ஹெட்
     tr: Alfred North Whitehead
@@ -197,12 +197,12 @@ dv_has_:
     yi: אלפרעד נארט ווייטהעד
     yue: 亞佛烈·諾夫·維希
     zh: 阿尔弗雷德·诺思·怀特海
-    zh-cn: 阿尔弗雷德·诺思·怀特海
-    zh-hans: 阿尔弗雷德·诺思·怀特黑德
-    zh-hant: 阿爾弗雷德·諾思·懷特黑德
-    zh-hk: 亞佛烈·諾夫·維希
-    zh-sg: 阿尔弗雷德·诺思·怀特黑德
-    zh-tw: 阿爾弗雷德·諾思·懷特黑德
+    zh_cn: 阿尔弗雷德·诺思·怀特海
+    zh_hans: 阿尔弗雷德·诺思·怀特黑德
+    zh_hant: 阿爾弗雷德·諾思·懷特黑德
+    zh_hk: 亞佛烈·諾夫·維希
+    zh_sg: 阿尔弗雷德·诺思·怀特黑德
+    zh_tw: 阿爾弗雷德·諾思·懷特黑德
 ---
 # [[Whitehead,Alfred_North]] 
 

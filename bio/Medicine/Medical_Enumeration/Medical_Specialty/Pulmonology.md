@@ -85,7 +85,7 @@ dv_has_:
     ast: neumoloxía
     az: pulmonologiya
     be: пульманалогія
-    be-tarask: пульманалёгія
+    be_tarask: пульманалёгія
     bg: Пулмология
     bn: ফুসফুসবিদ্যা
     bs: Pulmologija
@@ -138,7 +138,7 @@ dv_has_:
     pi: फोक्सोशास्त्र
     pl: pulmonologia
     pt: pneumologia
-    pt-br: Pneumologia
+    pt_br: Pneumologia
     ro: pneumologie
     ru: пульмонология
     sa: फोक्सोशास्त्र
@@ -163,12 +163,12 @@ dv_has_:
     war: pulmonolohiya
     yue: 胸腔科
     zh: 胸腔醫學
-    zh-cn: 胸腔医学
-    zh-hans: 胸腔医学
-    zh-hant: 胸腔醫學
-    zh-hk: 胸腔醫學
-    zh-sg: 胸腔医学
-    zh-tw: 胸腔醫學
+    zh_cn: 胸腔医学
+    zh_hans: 胸腔医学
+    zh_hant: 胸腔醫學
+    zh_hk: 胸腔醫學
+    zh_sg: 胸腔医学
+    zh_tw: 胸腔醫學
 ---
 # [[Pulmonology]] 
 

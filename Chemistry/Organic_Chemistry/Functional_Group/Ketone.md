@@ -94,7 +94,7 @@ dv_has_:
     ba: кетон
     bcl: Ketone
     be: Кетоны
-    be-tarask: кетон
+    be_tarask: кетон
     bg: Кетон
     bn: কিটোন
     bs: Keton
@@ -145,7 +145,7 @@ dv_has_:
     pl: keton
     pnb: کیٹون
     pt: cetona
-    pt-br: Cetona
+    pt_br: Cetona
     ro: cetonă
     ru: кетон
     se: ketona
@@ -156,8 +156,8 @@ dv_has_:
     smn: keetoon
     sms: ketoon
     sr: кетон
-    sr-ec: Кетон
-    sr-el: Keton
+    sr_ec: Кетон
+    sr_el: Keton
     sv: keton
     sw: Ketoni
     ta: கீட்டோன்
@@ -171,12 +171,12 @@ dv_has_:
     wuu: 酮
     yue: 酮
     zh: 酮
-    zh-cn: 酮
-    zh-hans: 酮
-    zh-hant: 酮
-    zh-hk: 酮
-    zh-sg: 酮
-    zh-tw: 酮
+    zh_cn: 酮
+    zh_hans: 酮
+    zh_hant: 酮
+    zh_hk: 酮
+    zh_sg: 酮
+    zh_tw: 酮
 dv_is_same_as:
 - '[[../../../WikiData/WD~Ketone,170744]]'
 - '[[/_Standards/Chemistry/Organic_Chemistry/Ketone|Ketone]]'

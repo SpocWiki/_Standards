@@ -134,7 +134,7 @@ dv_has_:
     az: Etan
     azb: اتان
     be: Этан
-    be-tarask: этан
+    be_tarask: этан
     bg: Етан
     blk: အီသိန်း
     bn: ইথেন
@@ -145,11 +145,11 @@ dv_has_:
     cy: Ethan
     da: Ethan
     de: Ethan
-    de-ch: Ethan
+    de_ch: Ethan
     el: αιθάνιο
     en: ethane
-    en-ca: Ethane
-    en-gb: ethane
+    en_ca: Ethane
+    en_gb: ethane
     eo: etano
     es: etano
     et: Etaan
@@ -191,7 +191,7 @@ dv_has_:
     pl: etan
     pms: Etan
     pt: etano
-    pt-br: Etano
+    pt_br: Etano
     ro: Etan
     ru: этан
     sh: Etan

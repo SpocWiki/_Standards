@@ -32,10 +32,10 @@ dv_has_:
     ceb: Sooglossus
     cs: Mahénkovití
     de: Seychellenfrösche
-    de-ch: Seychellenfrösche
+    de_ch: Seychellenfrösche
     en: Sooglossidae
-    en-ca: Sooglossidae
-    en-gb: Sooglossidae
+    en_ca: Sooglossidae
+    en_gb: Sooglossidae
     eo: Soglosedoj
     es: Sooglossidae
     eu: Sooglossidae
@@ -60,7 +60,7 @@ dv_has_:
     oc: Sooglossidae
     pl: Seszelkowate
     pt: Sooglossidae
-    pt-br: Sooglossidae
+    pt_br: Sooglossidae
     ro: Sooglossidae
     ru: Сейшельские лягушки
     sq: Sooglossidae
@@ -71,8 +71,8 @@ dv_has_:
     vo: Sooglossidae
     war: Sooglossus
     zh: 塞舌蛙科
-    zh-cn: 塞舌蛙科
-    zh-hans: 塞舌蛙科
+    zh_cn: 塞舌蛙科
+    zh_hans: 塞舌蛙科
 ---
 # [[Sooglossidae]] 
 

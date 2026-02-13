@@ -166,7 +166,7 @@ dv_has_:
     bar: Soot
     bcl: Pisog
     be: насенне
-    be-tarask: насеньне
+    be_tarask: насеньне
     bg: семе
     bho: बीया
     bjn: Paung
@@ -181,11 +181,11 @@ dv_has_:
     da: frø
     dag: Ʒi
     de: Samen
-    de-ch: Same
+    de_ch: Same
     el: σπόρος
     en: seed
-    en-ca: Seed
-    en-gb: seed
+    en_ca: Seed
+    en_gb: seed
     eo: semo
     es: semilla
     et: seeme
@@ -220,7 +220,7 @@ dv_has_:
     kn: ಬೀಜ
     ko: 씨
     ku: tov
-    ku-latn: tov
+    ku_latn: tov
     ky: Урук
     la: Semen
     lb: Som
@@ -239,7 +239,7 @@ dv_has_:
     nan: Chí
     nap: semmenta
     nb: frø
-    nds-nl: zaod
+    nds_nl: zaod
     ne: बीउ
     nl: zaad
     nn: frø
@@ -251,7 +251,7 @@ dv_has_:
     pnb: ویج
     ps: تخمونه
     pt: semente
-    pt-br: semente
+    pt_br: semente
     qu: Muru
     ro: sămânță
     ru: семя
@@ -280,7 +280,7 @@ dv_has_:
     tr: Tohum
     ts: Mbewu
     tt: орлык
-    tt-cyrl: орлык
+    tt_cyrl: орлык
     tw: aba
     ug: ئۇرۇق
     uk: насіння
@@ -294,14 +294,14 @@ dv_has_:
     yue: 籽
     za: Ceh
     zh: 種子
-    zh-cn: 种子
-    zh-hans: 种子
-    zh-hant: 種子
-    zh-hk: 種子
-    zh-mo: 種子
+    zh_cn: 种子
+    zh_hans: 种子
+    zh_hant: 種子
+    zh_hk: 種子
+    zh_mo: 種子
     zh-my: 种子
-    zh-sg: 种子
-    zh-tw: 種子
+    zh_sg: 种子
+    zh_tw: 種子
 ---
 # [[Seed]] 
 

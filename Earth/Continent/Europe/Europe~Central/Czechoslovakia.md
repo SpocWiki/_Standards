@@ -15,7 +15,7 @@ dv_has_:
     bar: Tschechoslowakei
     bcl: Tsekoslobakya
     be: Чэхаславакія
-    be-tarask: Чэхаславаччына
+    be_tarask: Чэхаславаччына
     bg: Чехословакия
     bn: চেকোস্লোভাকিয়া
     br: Tchekoslovakia
@@ -25,19 +25,19 @@ dv_has_:
     ce: Чехословаки
     ckb: چێکۆسلۆڤاکیا
     crh: Çehoslovakiya
-    crh-latn: Çehoslovakiya
+    crh_latn: Çehoslovakiya
     cs: Československo
     cv: Чехословаки
     cy: Tsiecoslofacia
     da: Tjekkoslovakiet
     de: Tschechoslowakei
-    de-ch: Tschechoslowakei
+    de_ch: Tschechoslowakei
     diq: Çekoslowakya
     dsb: Českosłowakska
     el: Τσεχοσλοβακία
     en: Czechoslovakia
-    en-ca: Czechoslovakia
-    en-gb: Czechoslovakia
+    en_ca: Czechoslovakia
+    en_gb: Czechoslovakia
     eo: Ĉeĥoslovakio
     es: Checoslovaquia
     et: Tšehhoslovakkia
@@ -118,7 +118,7 @@ dv_has_:
     pnb: چیکوسلواکیہ
     ps: چیکوسلواکيا
     pt: Checoslováquia
-    pt-br: Tchecoslováquia
+    pt_br: Tchecoslováquia
     qu: Chikusluwakya
     ro: Cehoslovacia
     ru: Чехословакия
@@ -165,14 +165,14 @@ dv_has_:
     yo: Czechoslovakia
     yue: 捷克斯洛伐克
     zh: 捷克斯洛伐克
-    zh-cn: 捷克斯洛伐克
-    zh-hans: 捷克斯洛伐克
-    zh-hant: 捷克斯洛伐克
-    zh-hk: 捷克斯洛伐克
-    zh-mo: 捷克斯洛伐克
+    zh_cn: 捷克斯洛伐克
+    zh_hans: 捷克斯洛伐克
+    zh_hant: 捷克斯洛伐克
+    zh_hk: 捷克斯洛伐克
+    zh_mo: 捷克斯洛伐克
     zh-my: 捷克斯洛伐克
-    zh-sg: 捷克斯洛伐克
-    zh-tw: 捷克斯洛伐克
+    zh_sg: 捷克斯洛伐克
+    zh_tw: 捷克斯洛伐克
   time_:
     started: 1918-10-28T00:00:00.000+01:00
     stopped: 1993-01-01T00:00:00.000+01:00

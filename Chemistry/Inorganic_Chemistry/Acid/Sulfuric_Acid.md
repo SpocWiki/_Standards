@@ -174,7 +174,7 @@ dv_has_:
     az: Sulfat turşusu
     azb: سولفوریک اسید
     be: Серная кіслата
-    be-tarask: серчаная кісьля
+    be_tarask: серчаная кісьля
     bg: сярна киселина
     bn: সালফিউরিক অ্যাসিড
     br: Trenkenn sulfurek
@@ -186,12 +186,12 @@ dv_has_:
     cy: asid swlffwrig
     da: svovlsyre
     de: Schwefelsäure
-    de-ch: Schwefelsäure
+    de_ch: Schwefelsäure
     el: Θειικό οξύ
     eml: Àcid sulfànic
     en: sulfuric acid
-    en-ca: Sulfuric acid
-    en-gb: sulphuric acid
+    en_ca: Sulfuric acid
+    en_gb: sulphuric acid
     eo: sulfata acido
     es: ácido sulfúrico
     et: Väävelhape
@@ -244,7 +244,7 @@ dv_has_:
     pl: kwas siarkowy
     pnb: گندھک دا تیزاب
     pt: ácido sulfúrico
-    pt-br: Ácido sulfúrico
+    pt_br: Ácido sulfúrico
     ro: Acid sulfuric
     ru: серная кислота
     sco: sulphuric acid
@@ -254,7 +254,7 @@ dv_has_:
     sl: žveplova kislina
     sq: Acidi sulfurik
     sr: сумпорна киселина
-    sr-ec: сумпорна киселина
+    sr_ec: сумпорна киселина
     su: Asam sulfat
     sv: svavelsyra
     ta: கந்தகக் காடி
@@ -272,14 +272,14 @@ dv_has_:
     wuu: 硫酸
     yue: 硫酸
     zh: 硫酸
-    zh-cn: 硫酸
-    zh-hans: 硫酸
-    zh-hant: 硫酸
-    zh-hk: 硫酸
-    zh-mo: 硫酸
+    zh_cn: 硫酸
+    zh_hans: 硫酸
+    zh_hant: 硫酸
+    zh_hk: 硫酸
+    zh_mo: 硫酸
     zh-my: 硫酸
-    zh-sg: 硫酸
-    zh-tw: 硫酸
+    zh_sg: 硫酸
+    zh_tw: 硫酸
 dv_is_:
   same_as:
   - '[[../../../WikiData/WD~Sulfuric_acid,4118|WD~Sulfuric_acid,4118]]'

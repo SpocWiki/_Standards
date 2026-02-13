@@ -56,7 +56,7 @@ dv_has_:
     oc: Responsa sensoriala meridiana autonòma
     pl: ASMR
     pt: resposta sensorial autónoma do meridiano
-    pt-br: resposta sensorial autônoma do meridiano
+    pt_br: resposta sensorial autônoma do meridiano
     ru: автономная сенсорная меридиональная реакция
     sd: اي ايس ايم آر
     sv: Autonomous sensory meridian response
@@ -65,9 +65,9 @@ dv_has_:
     uz: ASMR
     vi: ASMR
     zh: 自主性感官經絡反應
-    zh-hant: 自主性感官經絡反應
-    zh-hk: 自主性感官經絡反應
-    zh-tw: 自主性感官經絡反應
+    zh_hant: 自主性感官經絡反應
+    zh_hk: 自主性感官經絡反應
+    zh_tw: 自主性感官經絡反應
 ---
 ## #has_/text_of_/abstract 
 

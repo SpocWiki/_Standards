@@ -82,7 +82,7 @@ dv_has_:
     ast: Mina terrestre
     az: mina
     be: наземная міна
-    be-tarask: наземная міна
+    be_tarask: наземная міна
     bew: Borang darat
     bg: Сухопътна мина
     bn: ল্যান্ড মাইন
@@ -117,8 +117,8 @@ dv_has_:
     kk: Мина
     ko: 지뢰
     ku: Tepînk
-    ku-arab: تەپینک
-    ku-latn: Tepînk
+    ku_arab: تەپینک
+    ku_latn: Tepînk
     la: bomba subterranea
     lt: Sausumos mina
     lv: mīna
@@ -142,8 +142,8 @@ dv_has_:
     sl: kopenska mina
     sq: Mina
     sr: нагазна мина
-    sr-ec: Мина
-    sr-el: Mina
+    sr_ec: Мина
+    sr_el: Mina
     sv: landmina
     sw: Bomu ardhini
     ta: மிதிவெடி
@@ -155,12 +155,12 @@ dv_has_:
     wuu: 地雷
     yue: 地雷
     zh: 地雷
-    zh-cn: 地雷
-    zh-hans: 地雷
-    zh-hant: 地雷
-    zh-hk: 地雷
-    zh-sg: 地雷
-    zh-tw: 地雷
+    zh_cn: 地雷
+    zh_hans: 地雷
+    zh_hant: 地雷
+    zh_hk: 地雷
+    zh_sg: 地雷
+    zh_tw: 地雷
 ---
 # [[Land_Mine]] 
 

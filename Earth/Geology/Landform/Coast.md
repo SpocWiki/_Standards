@@ -137,7 +137,7 @@ dv_has_:
     ay: Lamara junt'u tuqi suyu
     bar: Gstod
     be: Узбярэжжа
-    be-tarask: узьбярэжжа
+    be_tarask: узьбярэжжа
     bew: Pesisir
     bg: Бряг
     bn: উপকূল
@@ -182,11 +182,11 @@ dv_has_:
     ja: 海岸
     ka: ნაპირის ზონა
     kk: Жағалау
-    kk-arab: جاعالاۋ
+    kk_arab: جاعالاۋ
     kk-cn: جاعالاۋ
-    kk-cyrl: Жағалау
+    kk_cyrl: Жағалау
     kk-kz: Жағалау
-    kk-latn: Jağalaw
+    kk_latn: Jağalaw
     kk-tr: Jağalaw
     kn: ಕರಾವಳಿ
     ko: 연안
@@ -223,8 +223,8 @@ dv_has_:
     so: Xeeb
     sq: bregdet
     sr: обала
-    sr-ec: обала
-    sr-el: obala
+    sr_ec: обала
+    sr_el: obala
     sv: kust
     sw: Pwani
     szl: wybrzyże
@@ -243,12 +243,12 @@ dv_has_:
     yi: ברעג ים
     yue: 海皮
     zh: 岸
-    zh-cn: 岸
-    zh-hans: 岸
-    zh-hant: 岸
-    zh-hk: 岸
-    zh-sg: 岸
-    zh-tw: 岸
+    zh_cn: 岸
+    zh_hans: 岸
+    zh_hant: 岸
+    zh_hk: 岸
+    zh_sg: 岸
+    zh_tw: 岸
 ---
 # [[Coast]] 
 

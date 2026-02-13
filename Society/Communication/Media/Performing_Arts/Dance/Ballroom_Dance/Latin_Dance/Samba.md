@@ -51,7 +51,7 @@ dv_has_:
     ba: Самба
     bar: Samba
     be: самба
-    be-tarask: самба
+    be_tarask: самба
     bg: Самба
     bn: সাম্বা
     br: Samba
@@ -103,7 +103,7 @@ dv_has_:
     nan: Samba
     nb: samba
     nds: Samba
-    nds-nl: samba
+    nds_nl: samba
     nl: samba
     nn: samba
     oc: Samba
@@ -114,7 +114,7 @@ dv_has_:
     pms: Samba
     pnb: سمبا
     pt: samba
-    pt-br: samba
+    pt_br: samba
     ro: Samba
     ru: самба
     rue: Самба
@@ -124,8 +124,8 @@ dv_has_:
     sl: samba
     sq: Samba
     sr: самба
-    sr-ec: самба
-    sr-el: samba
+    sr_ec: самба
+    sr_el: samba
     sv: samba
     sw: Samba
     ta: சாம்பா

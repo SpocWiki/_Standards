@@ -289,20 +289,20 @@ dv_has_:
     bar: Katalanisch
     bcl: Katalan
     be: каталанская мова
-    be-tarask: каталянская мова
+    be_tarask: каталянская мова
     bg: Каталонски език
     bi: Katalan
     bn: কাতালান ভাষা
     br: katalaneg
     bs: katalonski jezik
     ca: català
-    cbk-zam: Lengua catalán
+    cbk_zam: Lengua catalán
     ce: Каталанхойн мотт
     ceb: Pinulongang Katalan
     ckb: زمانی کەتەلۆنی
     co: catalanu
     crh: Katalan tili
-    crh-latn: Katalan tili
+    crh_latn: Katalan tili
     cs: katalánština
     csb: Katalońsczi jãzëk
     cy: Catalaneg
@@ -312,8 +312,8 @@ dv_has_:
     el: καταλανικά
     eml: Catalàn
     en: Catalan
-    en-ca: Catalan
-    en-gb: Catalan
+    en_ca: Catalan
+    en_gb: Catalan
     eo: kataluna lingvo
     es: catalán
     et: katalaani keel
@@ -365,7 +365,7 @@ dv_has_:
     krc: Каталан тил
     krj: Kinatalan
     ku: ketelanî
-    ku-latn: ketelanî
+    ku_latn: ketelanî
     kv: Каталан кыв
     kw: Katalanek
     la: lingua Catalana
@@ -387,7 +387,7 @@ dv_has_:
     mni: ꯀꯇꯂꯥꯟ ꯂꯣꯟ
     mr: कातालान भाषा
     ms: bahasa Catalan
-    ms-arab: بهاس کاتلن
+    ms_arab: بهاس کاتلن
     mt: Katalan
     myv: Каталанонь кель
     mzn: کاتالونیایی
@@ -397,7 +397,7 @@ dv_has_:
     nap: Lengua catalana
     nb: katalansk
     nds: Katalaansch
-    nds-nl: Kattelaans
+    nds_nl: Kattelaans
     new: क्यातालान भाषा
     nl: Catalaans
     nn: katalansk
@@ -414,7 +414,7 @@ dv_has_:
     pnb: کیٹلونی
     ps: کاتالونيايي ژبه
     pt: língua catalã
-    pt-br: língua catalã
+    pt_br: língua catalã
     qu: Katalan simi
     rm: Lingua catalana
     ro: limba catalană
@@ -436,8 +436,8 @@ dv_has_:
     sms: katalaanǩiõll
     sq: katalonisht
     sr: каталонски
-    sr-ec: каталонски
-    sr-el: katalonski jezik
+    sr_ec: каталонски
+    sr_el: katalonski jezik
     stq: Kataloansk
     sv: katalanska
     sw: Kikatalunya
@@ -451,7 +451,7 @@ dv_has_:
     tok: toki Katala
     tr: Katalanca
     tt: каталан теле
-    tt-cyrl: каталан теле
+    tt_cyrl: каталан теле
     ty: Reo Tatarūnia
     udm: Каталан кыл
     ug: كاتالان تىلى
@@ -471,13 +471,13 @@ dv_has_:
     yi: קאטאלאניש
     yue: 加泰隆尼亞文
     zh: 加泰罗尼亚语
-    zh-cn: 加泰罗尼亚语
-    zh-hans: 加泰罗尼亚语
-    zh-hant: 加泰隆尼亞語
-    zh-hk: 加泰隆尼亞語
-    zh-mo: 加泰隆尼亞語
-    zh-sg: 加泰罗尼亚语
-    zh-tw: 加泰隆尼亞語
+    zh_cn: 加泰罗尼亚语
+    zh_hans: 加泰罗尼亚语
+    zh_hant: 加泰隆尼亞語
+    zh_hk: 加泰隆尼亞語
+    zh_mo: 加泰隆尼亞語
+    zh_sg: 加泰罗尼亚语
+    zh_tw: 加泰隆尼亞語
     zu: IsiKhathalani
 ---
 # [[Lang-cat]] 

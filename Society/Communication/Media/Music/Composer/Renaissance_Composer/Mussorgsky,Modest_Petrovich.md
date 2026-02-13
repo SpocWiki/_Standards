@@ -131,7 +131,7 @@ dv_has_:
     az: Modest Musorqski
     ba: Модест Петрович Мусоргский
     be: Мадэст Пятровіч Мусаргскі
-    be-tarask: Мадэст Мусаргскі
+    be_tarask: Мадэст Мусаргскі
     bg: Модест Мусоргски
     br: Modest Mousorgskiy
     ca: Modest Mússorgski
@@ -139,11 +139,11 @@ dv_has_:
     cy: Modest Mussorgsky
     da: Modest Mussorgskij
     de: Modest Petrowitsch Mussorgski
-    de-ch: Modest Petrowitsch Mussorgski
+    de_ch: Modest Petrowitsch Mussorgski
     el: Μοντέστ Μουσόργκσκι
     en: Modest Petrovich Mussorgsky
-    en-ca: Modest Mussorgsky
-    en-gb: Modest Mussorgsky
+    en_ca: Modest Mussorgsky
+    en_gb: Modest Mussorgsky
     eo: Modest Petroviĉ Musorgskij
     es: Modest Músorgski
     et: Modest Mussorgski
@@ -165,11 +165,11 @@ dv_has_:
     ja: モデスト・ムソルグスキー
     ka: მოდესტ მუსორგსკი
     kk: Мусоргский Модест Петрович
-    kk-arab: مۋسورگسكىيي مودەست پەتروۆىيتش
+    kk_arab: مۋسورگسكىيي مودەست پەتروۆىيتش
     kk-cn: مۋسورگسكىيي مودەست پەتروۆىيتش
-    kk-cyrl: Мусоргский Модест Петрович
+    kk_cyrl: Мусоргский Модест Петрович
     kk-kz: Мусоргский Модест Петрович
-    kk-latn: Mwsorgskïý Modest Petrovïç
+    kk_latn: Mwsorgskïý Modest Petrovïç
     kk-tr: Mwsorgskïý Modest Petrovïç
     ko: 모데스트 무소륵스키
     ky: Му́соргский, Модест Петрович
@@ -191,7 +191,7 @@ dv_has_:
     pl: Modest Musorgski
     pms: Modest Musorgskij
     pt: Modest Mussorgsky
-    pt-br: Modest Mussorgsky
+    pt_br: Modest Mussorgsky
     qu: Modest Mussorgsky
     ro: Modest Petrovici Musorgski
     ru: Модест Петрович Мусоргский
@@ -201,8 +201,8 @@ dv_has_:
     sl: Modest Petrovič Musorgski
     sq: Modest Petrovich Mussorgsky
     sr: Модест Мусоргски
-    sr-ec: Модест Мусоргски
-    sr-el: Modest Musorgski
+    sr_ec: Модест Мусоргски
+    sr_el: Modest Musorgski
     sv: Modest Musorgskij
     sw: Modest Mussorgsky
     tg: Модест Мусоргский
@@ -216,12 +216,12 @@ dv_has_:
     wuu: 莫杰斯特·彼得罗维奇·穆索尔斯基
     yue: 穆索斯基
     zh: 莫杰斯特·彼得罗维奇·穆索尔斯基
-    zh-cn: 莫杰斯特·彼得罗维奇·穆索尔斯基
-    zh-hans: 莫杰斯特·彼得罗维奇·穆索尔斯基
-    zh-hant: 莫傑斯特·彼得羅維奇·穆索斯基
-    zh-hk: 莫傑斯特·彼得羅維奇·穆索斯基
-    zh-sg: 莫杰斯特·彼得罗维奇·穆索尔斯基
-    zh-tw: 莫傑斯特·彼得羅維奇·穆索斯基
+    zh_cn: 莫杰斯特·彼得罗维奇·穆索尔斯基
+    zh_hans: 莫杰斯特·彼得罗维奇·穆索尔斯基
+    zh_hant: 莫傑斯特·彼得羅維奇·穆索斯基
+    zh_hk: 莫傑斯特·彼得羅維奇·穆索斯基
+    zh_sg: 莫杰斯特·彼得罗维奇·穆索尔斯基
+    zh_tw: 莫傑斯特·彼得羅維奇·穆索斯基
 ---
 # [[Mussorgsky,Modest_Petrovich]] 
 

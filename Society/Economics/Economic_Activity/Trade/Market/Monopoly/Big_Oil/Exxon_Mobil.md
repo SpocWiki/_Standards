@@ -31,7 +31,7 @@ dv_has_:
     az: ExxonMobil
     azb: اکسانموبیل
     be: ExxonMobil
-    be-tarask: ExxonMobil
+    be_tarask: ExxonMobil
     bg: ExxonMobil
     ca: ExxonMobil
     ckb: ئێکسۆن مۆبیل
@@ -41,8 +41,8 @@ dv_has_:
     de: ExxonMobil
     el: ExxonMobil
     en: ExxonMobil
-    en-ca: ExxonMobil
-    en-gb: ExxonMobil
+    en_ca: ExxonMobil
+    en_gb: ExxonMobil
     eo: ExxonMobil
     es: ExxonMobil
     et: ExxonMobil
@@ -63,11 +63,11 @@ dv_has_:
     ja: エクソンモービル
     jv: Exxon
     kk: ExxonMobil
-    kk-arab: ExxonMobil
+    kk_arab: ExxonMobil
     kk-cn: ExxonMobil
-    kk-cyrl: ЕххонМобіл
+    kk_cyrl: ЕххонМобіл
     kk-kz: ЕххонМобіл
-    kk-latn: ExxonMobil
+    kk_latn: ExxonMobil
     kk-tr: ExxonMobil
     ko: 엑슨모빌
     la: ExxonMobil
@@ -84,7 +84,7 @@ dv_has_:
     nn: Exxon Mobil
     pl: ExxonMobil
     pt: ExxonMobil
-    pt-br: ExxonMobil
+    pt_br: ExxonMobil
     ro: ExxonMobil
     ru: ExxonMobil
     rup: Exxon Mobil
@@ -92,8 +92,8 @@ dv_has_:
     sh: ExxonMobil
     sl: ExxonMobil
     sr: Ексон мобил
-    sr-ec: Ексон мобил
-    sr-el: Ekson mobil
+    sr_ec: Ексон мобил
+    sr_el: Ekson mobil
     sv: ExxonMobil
     ta: எக்சான் மோபில்
     tg: ExxonMobil
@@ -108,14 +108,14 @@ dv_has_:
     yi: עקסאן-מאביל
     yue: 埃克森美孚
     zh: 埃克森美孚
-    zh-cn: 埃克森美孚
-    zh-hans: 埃克森美孚
-    zh-hant: 埃克森美孚
-    zh-hk: 埃克森美孚
-    zh-mo: 埃克森美孚
+    zh_cn: 埃克森美孚
+    zh_hans: 埃克森美孚
+    zh_hant: 埃克森美孚
+    zh_hk: 埃克森美孚
+    zh_mo: 埃克森美孚
     zh-my: 埃克森美孚
-    zh-sg: 埃克森美孚
-    zh-tw: 埃克森美孚
+    zh_sg: 埃克森美孚
+    zh_tw: 埃克森美孚
 ---
 # [[Exxon_Mobil]] 
 

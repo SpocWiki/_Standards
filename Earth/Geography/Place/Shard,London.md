@@ -122,11 +122,11 @@ dv_has_:
     cs: The Shard
     da: The Shard
     de: The Shard
-    de-ch: The Shard
+    de_ch: The Shard
     el: Σαρντ
     en: The Shard
-    en-ca: The Shard
-    en-gb: The Shard
+    en_ca: The Shard
+    en_gb: The Shard
     eo: Shard London Bridge
     es: Shard London Bridge
     et: The Shard
@@ -155,15 +155,15 @@ dv_has_:
     pl: Shard London Bridge
     pnb: دی شارڈ
     pt: Shard London Bridge
-    pt-br: Shard London Bridge
+    pt_br: Shard London Bridge
     ro: The Shard
     ru: The Shard
     sco: The Shard
     sk: Shard London Bridge
     sl: Črepinja
     sr: Шард
-    sr-ec: Шард
-    sr-el: Šard
+    sr_ec: Шард
+    sr_el: Šard
     sv: The Shard
     ta: ஷார்டு
     th: เดอะชาร์ด
@@ -175,9 +175,9 @@ dv_has_:
     wuu: 碎片大厦
     yue: The Shard
     zh: 碎片大厦
-    zh-cn: 碎片大厦
-    zh-hans: 碎片大厦
-    zh-hant: 碎片大廈
+    zh_cn: 碎片大厦
+    zh_hans: 碎片大厦
+    zh_hant: 碎片大廈
 ---
 # [[Shard,London]]
 

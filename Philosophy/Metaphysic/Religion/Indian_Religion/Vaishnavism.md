@@ -98,7 +98,7 @@ dv_has_:
     ast: Visnuismu
     bcl: Vaishnavismo
     be: Вайшнавізм
-    be-tarask: вішнуізм
+    be_tarask: вішнуізм
     bg: Вайшнавизъм
     bho: वैष्णव संप्रदाय
     bn: বৈষ্ণব সম্প্রদায়

@@ -137,7 +137,7 @@ dv_has_:
     ba: Романтизм
     bcl: Romantisismo
     be: рамантызм
-    be-tarask: рамантызм
+    be_tarask: рамантызм
     bg: Романтизъм
     bn: রোমান্টিকতা
     br: Romantelezh
@@ -153,7 +153,7 @@ dv_has_:
     diq: Romantizım
     el: ρομαντισμός
     en: Romanticism
-    en-gb: Romanticism
+    en_gb: Romanticism
     eo: romantikismo
     es: Romanticismo
     et: romantism
@@ -213,7 +213,7 @@ dv_has_:
     mt: romantiċiżmu
     nan: Lōng-bān-chú-gī
     nb: romantikken
-    nds-nl: romantiek
+    nds_nl: romantiek
     ne: स्वच्छन्दतावाद
     nl: romantiek
     nn: romantikken
@@ -224,7 +224,7 @@ dv_has_:
     pms: Romanticism
     pnb: رومانوی
     pt: romantismo
-    pt-br: romantismo
+    pt_br: romantismo
     rm: Romantica
     ro: romantism
     rsk: Романтизем (литература)
@@ -237,8 +237,8 @@ dv_has_:
     sl: romantika
     sq: Romantizmi
     sr: романтизам
-    sr-ec: романтизам
-    sr-el: romantizam
+    sr_ec: романтизам
+    sr_el: romantizam
     stq: Romantik
     sv: romantiken
     ta: புனைவியம்
@@ -258,8 +258,8 @@ dv_has_:
     xmf: რომანტიზმი
     yue: 浪漫主義
     zh: 浪漫主义
-    zh-hant: 浪漫主義
-    zh-tw: 浪漫主義
+    zh_hant: 浪漫主義
+    zh_tw: 浪漫主義
 ---
 # [[1800-Romanticism+1850]] 
 

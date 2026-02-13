@@ -30,7 +30,7 @@ dv_has_:
     oc: Cynarospermum
     pl: Cynarospermum
     pt: Cynarospermum
-    pt-br: Cynarospermum
+    pt_br: Cynarospermum
     ro: Cynarospermum
     ru: Cynarospermum
     sq: Cynarospermum

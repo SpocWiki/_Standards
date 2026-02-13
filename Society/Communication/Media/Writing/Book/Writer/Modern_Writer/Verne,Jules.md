@@ -194,7 +194,7 @@ dv_has_:
     ba: Жюль Верн
     bcl: Jules Verne
     be: Жуль Верн
-    be-tarask: Жуль Вэрн
+    be_tarask: Жуль Вэрн
     bg: Жул Верн
     bn: জুল ভার্ন
     br: Jules Verne
@@ -206,12 +206,12 @@ dv_has_:
     da: Jules Verne
     de: Jules Verne
     de-at: Jules Verne
-    de-ch: Jules Verne
+    de_ch: Jules Verne
     diq: Jules Verne
     el: Ιούλιος Βερν
     en: Jules Verne
-    en-ca: Jules Verne
-    en-gb: Jules Verne
+    en_ca: Jules Verne
+    en_gb: Jules Verne
     eo: Jules Verne
     es: Julio Verne
     et: Jules Verne
@@ -280,7 +280,7 @@ dv_has_:
     pms: Jules Verne
     pnb: یول ورن
     pt: Júlio Verne
-    pt-br: Júlio Verne
+    pt_br: Júlio Verne
     qu: Jules Verne
     rm: Jules Verne
     ro: Jules Verne
@@ -291,7 +291,7 @@ dv_has_:
     sco: Jules Verne
     sgs: Žiolės Verns
     sh: Jules Verne
-    sh-cyrl: Жил Верн
+    sh_cyrl: Жил Верн
     sje: Jules Verne
     sk: Jules Verne
     skr: جولس ورن
@@ -308,7 +308,7 @@ dv_has_:
     tl: Jules Verne
     tr: Jules Verne
     tt: Жүл Верн
-    tt-cyrl: Жүл Верн
+    tt_cyrl: Жүл Верн
     ug: ژىيۇل ۋېرن
     uk: Жуль Верн
     ur: جولس ورن
@@ -321,9 +321,9 @@ dv_has_:
     yo: Jules Verne
     yue: 凡爾納
     zh: 儒勒·凡尔纳
-    zh-cn: 儒勒·凡尔纳
-    zh-hans: 儒勒·凡尔纳
-    zh-hant: 儒勒·凡爾納
+    zh_cn: 儒勒·凡尔纳
+    zh_hans: 儒勒·凡尔纳
+    zh_hant: 儒勒·凡爾納
 ---
 # [[Verne,Jules]] 
 

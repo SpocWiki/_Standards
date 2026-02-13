@@ -199,7 +199,7 @@ dv_has_:
     bar: Evolution
     bas: Màhɔ̂l
     be: эвалюцыя
-    be-tarask: эвалюцыя
+    be_tarask: эвалюцыя
     bg: еволюция
     bn: বিবর্তন
     bpy: বিবর্তন
@@ -220,8 +220,8 @@ dv_has_:
     el: εξέλιξη
     eml: evoluziòun
     en: evolution
-    en-ca: evolution
-    en-gb: evolution
+    en_ca: evolution
+    en_gb: evolution
     eo: evolucio
     es: evolución
     et: evolutsioon
@@ -311,7 +311,7 @@ dv_has_:
     pnb: ایولوشن
     ps: تکامل
     pt: evolução
-    pt-br: evolução
+    pt_br: evolução
     qu: rikch'aqyay
     rki: ဆင့်ကဲဖြစ်စဉ်
     rm: evoluziun
@@ -361,11 +361,11 @@ dv_has_:
     yo: Ìtìranyàn (evolution)
     yue: 天演
     zh: 演化
-    zh-cn: 进化
-    zh-hans: 进化
-    zh-hant: 進化
-    zh-hk: 進化
-    zh-tw: 演化
+    zh_cn: 进化
+    zh_hans: 进化
+    zh_hant: 進化
+    zh_hk: 進化
+    zh_tw: 演化
 ---
 ## #has_/text_of_/abstract 
 

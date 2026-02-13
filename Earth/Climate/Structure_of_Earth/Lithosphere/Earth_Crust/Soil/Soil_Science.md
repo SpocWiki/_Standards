@@ -118,7 +118,7 @@ dv_has_:
     az: torpaqşünaslıq
     ba: тупраҡ тураһында фән
     be: глебазнаўства
-    be-tarask: глебазнаўства
+    be_tarask: глебазнаўства
     bg: Почвознание
     bho: माटी बिज्ञान
     bn: মৃত্তিকা বিজ্ঞান
@@ -130,8 +130,8 @@ dv_has_:
     de: Bodenkunde
     el: εδαφολογία
     en: soil science
-    en-ca: Soil science
-    en-gb: soil science
+    en_ca: Soil science
+    en_gb: soil science
     eo: grundoscienco
     es: ciencia del suelo
     et: mullateadus
@@ -168,7 +168,7 @@ dv_has_:
     pl: gleboznawstwo
     ps: د خاورې علم
     pt: ciências do solo
-    pt-br: ciências do solo
+    pt_br: ciências do solo
     ru: почвоведение
     si: පාංශුමය විද්යාව
     sl: veda o tleh
@@ -188,10 +188,10 @@ dv_has_:
     war: Syensya hin tuna
     yue: 泥土科學
     zh: 土壤科學
-    zh-cn: 土壤科学
-    zh-hans: 土壤科学
-    zh-hant: 土壤科學
-    zh-tw: 土壤科學
+    zh_cn: 土壤科学
+    zh_hans: 土壤科学
+    zh_hant: 土壤科學
+    zh_tw: 土壤科學
 ---
 # [[Soil_Science]] 
 

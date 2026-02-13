@@ -178,7 +178,7 @@ dv_has_:
     bar: Kommunismus
     bcl: komunismo
     be: камунізм
-    be-tarask: камунізм
+    be_tarask: камунізм
     bg: комунизъм
     bho: साम्यवाद
     bn: সাম্যবাদ
@@ -202,8 +202,8 @@ dv_has_:
     diq: Komunizm
     el: κομμουνισμός
     en: communism
-    en-ca: communism
-    en-gb: communism
+    en_ca: communism
+    en_gb: communism
     eo: komunismo
     es: comunismo
     et: kommunism
@@ -277,7 +277,7 @@ dv_has_:
     mn: коммунизм
     mr: साम्यवाद
     ms: komunisme
-    ms-arab: کومونيسمى
+    ms_arab: کومونيسمى
     mt: komuniżmu
     mwl: Quemunismo
     my: ကွန်မြူနစ်ဝါဒ
@@ -285,7 +285,7 @@ dv_has_:
     nan: Kiōng-sán-chú-gī
     nb: kommunisme
     nds: Kommunismus
-    nds-nl: kommunisme
+    nds_nl: kommunisme
     ne: साम्यवाद
     new: साम्यवाद
     nl: communisme
@@ -302,7 +302,7 @@ dv_has_:
     pnb: کمیونزم
     ps: کمونيزم
     pt: comunismo
-    pt-br: comunismo
+    pt_br: comunismo
     qu: Kumunismu
     rki: ကွန်မြူနစ်ဝါဒ
     rm: Communissem
@@ -342,7 +342,7 @@ dv_has_:
     tl: Komunismo
     tr: komünizm
     tt: коммунизм
-    tt-cyrl: каммунизем
+    tt_cyrl: каммунизем
     tyv: Коммунизм
     udm: коммунизм
     ug: كۇممۇنىزم
@@ -363,14 +363,14 @@ dv_has_:
     yue: 共產主義
     zgh: ⵜⴰⵥⵕⵙⵓⵔⵜ
     zh: 共產主義
-    zh-cn: 共产主义
-    zh-hans: 共产主义
-    zh-hant: 共產主義
-    zh-hk: 共產主義
-    zh-mo: 共產主義
+    zh_cn: 共产主义
+    zh_hans: 共产主义
+    zh_hant: 共產主義
+    zh_hk: 共產主義
+    zh_mo: 共產主義
     zh-my: 共产主义
-    zh-sg: 共产主义
-    zh-tw: 共產主義
+    zh_sg: 共产主义
+    zh_tw: 共產主義
 ---
 # [[Communism]] 
 

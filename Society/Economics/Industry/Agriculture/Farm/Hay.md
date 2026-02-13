@@ -83,7 +83,7 @@ dv_has_:
     ast: segáu
     ba: бесән
     be: сена
-    be-tarask: сена
+    be_tarask: сена
     bg: сено
     bn: শুষ্ক ঘাস
     bs: sijeno
@@ -94,12 +94,12 @@ dv_has_:
     cv: утă
     da: hø
     de: Heu
-    de-ch: Heu
+    de_ch: Heu
     diq: kıdiş
     el: άχυρο
     en: hay
-    en-ca: hay
-    en-gb: hay
+    en_ca: hay
+    en_gb: hay
     eo: fojno
     es: heno
     et: hein
@@ -123,7 +123,7 @@ dv_has_:
     ja: 干し草
     ka: თივა
     kk: пішен
-    kk-latn: pişen
+    kk_latn: pişen
     kn: ಒಣಗಿಸಿರುವ ಮೇವು
     ko: 건초
     ky: чөп
@@ -139,14 +139,14 @@ dv_has_:
     ms: rumput kering
     nb: høy
     nds: Hau
-    nds-nl: heui
+    nds_nl: heui
     nl: hooi
     nn: høy
     oc: fen
     os: Хос (кæрдæг)
     pl: siano
     pt: feno
-    pt-br: feno
+    pt_br: feno
     ro: fân
     ru: сено
     scn: frenu
@@ -156,8 +156,8 @@ dv_has_:
     sk: seno
     sl: seno
     sr: сено
-    sr-ec: Сено
-    sr-el: seno
+    sr_ec: Сено
+    sr_el: seno
     sv: hö
     te: ఎండు పశుగ్రాసం
     tg: беда
@@ -165,7 +165,7 @@ dv_has_:
     tl: dayami
     tr: saman
     tt: печән
-    tt-latn: pečän
+    tt_latn: pečän
     uk: сіно
     uz: pichan
     vec: fjen
@@ -174,12 +174,12 @@ dv_has_:
     wuu: 干草
     yue: 乾草
     zh: 乾草
-    zh-cn: 干草
-    zh-hans: 干草
-    zh-hant: 乾草
-    zh-hk: 乾草
-    zh-sg: 干草
-    zh-tw: 乾草
+    zh_cn: 干草
+    zh_hans: 干草
+    zh_hant: 乾草
+    zh_hk: 乾草
+    zh_sg: 干草
+    zh_tw: 乾草
 ---
 # [[Hay]] 
 

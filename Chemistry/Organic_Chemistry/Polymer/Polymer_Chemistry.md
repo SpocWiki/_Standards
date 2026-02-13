@@ -92,7 +92,7 @@ dv_has_:
     az: Polimerlər kimyası
     azb: پولیمر کیمیاسی
     be: хімія палімераў
-    be-tarask: палімэрная хімія
+    be_tarask: палімэрная хімія
     bg: Полимерна химия
     bn: পলিমার রসায়ন
     ca: química dels polímers
@@ -100,10 +100,10 @@ dv_has_:
     cv: Полимерсен химийĕ
     da: polymerkemi
     de: Polymerchemie
-    de-ch: Polymerchemie
+    de_ch: Polymerchemie
     en: polymer chemistry
-    en-ca: Polymer chemistry
-    en-gb: polymer chemistry
+    en_ca: Polymer chemistry
+    en_gb: polymer chemistry
     eo: polimerkemio
     es: química de los polímeros
     et: polümeeride keemia
@@ -129,7 +129,7 @@ dv_has_:
     nl: polymeerchemie
     oc: Quimia macromoleculara
     pt: química dos polímeros
-    pt-br: Química dos polímeros
+    pt_br: Química dos polímeros
     ro: chimia polimerilor
     ru: химия полимеров
     se: polymerakemiija
@@ -152,10 +152,10 @@ dv_has_:
     xmf: პოლიმერეფიშ ქიმია
     yue: 高分子化學
     zh: 高分子化学
-    zh-hans: 高分子化学
-    zh-hant: 高分子化學
-    zh-hk: 高分子化學
-    zh-tw: 高分子化學
+    zh_hans: 高分子化学
+    zh_hant: 高分子化學
+    zh_hk: 高分子化學
+    zh_tw: 高分子化學
 ---
 # [[Polymer_Chemistry]] 
 

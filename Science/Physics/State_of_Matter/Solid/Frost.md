@@ -112,7 +112,7 @@ dv_has_:
     az: Qırov
     bcl: Andap
     be: шэрань
-    be-tarask: шэрань
+    be_tarask: шэрань
     bg: слана
     bho: पाला
     bs: Mraz
@@ -122,12 +122,12 @@ dv_has_:
     cy: barrug
     da: Frost
     de: Reif
-    de-ch: Reif
+    de_ch: Reif
     dty: तुषारो
     el: Πάχνη
     en: frost
-    en-ca: Frost
-    en-gb: frost
+    en_ca: Frost
+    en_gb: frost
     eo: prujno
     es: escarcha
     et: Hall
@@ -165,7 +165,7 @@ dv_has_:
     my: နှင်းခဲ
     myv: Лекш
     nb: frost
-    nds-nl: roe-iezel
+    nds_nl: roe-iezel
     ne: तुषारो
     nl: rijp
     nn: rim
@@ -173,7 +173,7 @@ dv_has_:
     om: Waagii
     pl: szron
     pt: geada branca
-    pt-br: Geada branca
+    pt_br: Geada branca
     qu: Chhulla
     ro: Brumă
     ru: иней

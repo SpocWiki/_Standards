@@ -101,7 +101,7 @@ dv_has_:
     az: Kahinlik
     bcl: Propesiya
     be: прароцтва
-    be-tarask: прароцтва
+    be_tarask: прароцтва
     bg: Пророчество
     bn: নবুয়ত
     br: Diougan
@@ -165,12 +165,12 @@ dv_has_:
     vi: Lời tiên tri
     yue: 預言
     zh: 预言
-    zh-cn: 预言
-    zh-hans: 预言
-    zh-hant: 預言
-    zh-hk: 預言
-    zh-sg: 预言
-    zh-tw: 預言
+    zh_cn: 预言
+    zh_hans: 预言
+    zh_hant: 預言
+    zh_hk: 預言
+    zh_sg: 预言
+    zh_tw: 預言
     zu: UmQaziyelo
 ---
 # [[Prophecy]] 

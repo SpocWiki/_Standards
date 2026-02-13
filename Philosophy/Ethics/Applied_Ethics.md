@@ -58,7 +58,7 @@ dv_has_:
     ast: Ética aplicada
     ba: Ғәмәли этика
     be: прыкладная этыка
-    be-tarask: практычная этыка
+    be_tarask: практычная этыка
     bg: Приложна етика
     bn: ফলিত নীতিশাস্ত্র
     bs: primenjena etika
@@ -100,7 +100,7 @@ dv_has_:
     sv: tillämpad etik
     tr: uygulamalı etik
     tt: гамәли этика
-    tt-latn: gamäli étika
+    tt_latn: gamäli étika
     uk: прикладна етика
     zh: 應用倫理學
 ---

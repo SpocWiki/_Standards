@@ -72,8 +72,8 @@ dv_has_:
     de: Big Tech
     el: Big Tech
     en: Big Tech
-    en-ca: Big Tech
-    en-gb: Big Tech
+    en_ca: Big Tech
+    en_gb: Big Tech
     en-us: Big Tech
     eo: Gigantoj de Teĥniko
     es: gigantes tecnológicos
@@ -103,8 +103,8 @@ dv_has_:
     uz: Katta Beshlik
     vi: Bốn công ty công nghệ lớn
     zh: 科技巨擘
-    zh-hans: 科技巨头
-    zh-hant: 科技巨擘
+    zh_hans: 科技巨头
+    zh_hant: 科技巨擘
 ---
 # [[Big_Tech]] 
 

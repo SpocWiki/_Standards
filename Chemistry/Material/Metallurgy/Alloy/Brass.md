@@ -115,7 +115,7 @@ dv_has_:
     ba: баҡыр иретмәһе
     ban: Kuningan (logam)
     be: Латунь
-    be-tarask: латунь
+    be_tarask: латунь
     bg: Месинг
     bn: পিতল
     br: Laton
@@ -129,11 +129,11 @@ dv_has_:
     cy: pres
     da: messing
     de: Messing
-    de-ch: Messing
+    de_ch: Messing
     el: ορείχαλκος
     en: brass
-    en-ca: brass
-    en-gb: brass
+    en_ca: brass
+    en_gb: brass
     eo: latuno
     es: latón
     et: Messing
@@ -198,7 +198,7 @@ dv_has_:
     pl: mosiądz
     pnb: پتل
     pt: latão
-    pt-br: latão
+    pt_br: latão
     ro: alamă
     ru: латунь
     sat: ᱯᱤᱛᱳᱞ
@@ -231,9 +231,9 @@ dv_has_:
     wuu: 黄铜
     yue: 黃銅
     zh: 黃銅
-    zh-hans: 黄铜
-    zh-hant: 黃銅
-    zh-tw: 黃銅
+    zh_hans: 黄铜
+    zh_hant: 黃銅
+    zh_tw: 黃銅
   parts:
   - '[[../../../Chemical_Element/Group-11-Copper/Copper|Copper]]'
   - '[[../../../Chemical_Element/Group-12-Zinc/Zinc|Zinc]]'

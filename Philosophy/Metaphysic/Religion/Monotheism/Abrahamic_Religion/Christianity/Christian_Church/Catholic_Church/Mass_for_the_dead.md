@@ -71,18 +71,18 @@ dv_has_:
     ast: Réquiem
     az: Rekviyem
     be: рэквіем
-    be-tarask: рэквіем
+    be_tarask: рэквіем
     bg: Реквием
     ca: rèquiem
     cs: zádušní mše
     cy: offeren dros y meirw
     da: Rekviem
     de: Requiem
-    de-ch: Requiem
+    de_ch: Requiem
     el: ρέκβιεμ
     en: mass for the dead
-    en-ca: Requiem
-    en-gb: requiem
+    en_ca: Requiem
+    en_gb: requiem
     en-us: mass for the dead
     eo: rekviemo
     es: Réquiem
@@ -113,14 +113,14 @@ dv_has_:
     oc: Requiem
     pl: Requiem
     pt: réquiem
-    pt-br: Réquiem
+    pt_br: Réquiem
     ro: Recviem
     ru: реквием
     sh: Opijelo
     sl: maša zadušnica
     sr: Реквијем
-    sr-ec: реквијем
-    sr-el: rekvijem
+    sr_ec: реквијем
+    sr_el: rekvijem
     sv: Requiem
     th: เรควีเอ็ม
     tr: Requiem

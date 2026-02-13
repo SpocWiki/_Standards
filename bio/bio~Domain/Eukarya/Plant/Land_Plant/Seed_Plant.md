@@ -84,7 +84,7 @@ dv_has_:
     az: Toxumlu bitkilər
     bar: Spermatophyta
     be: Spermatophyta
-    be-tarask: насенныя
+    be_tarask: насенныя
     bg: семенни растения
     bho: बीज वाला पौधा
     bn: সবীজী উদ্ভিদ
@@ -99,11 +99,11 @@ dv_has_:
     da: Frøplanter
     de: Samenpflanzen
     de-at: Spermatophyta
-    de-ch: Spermatophyta
+    de_ch: Spermatophyta
     el: Σπερματόφυτα
     en: seed plant
-    en-ca: Spermatophyta
-    en-gb: Spermatophyta
+    en_ca: Spermatophyta
+    en_gb: Spermatophyta
     eo: Semplantoj
     es: Spermatophyta
     et: seemnetaimed
@@ -156,7 +156,7 @@ dv_has_:
     nap: Spermatophyta
     nb: frøplanter
     nds: Spermatophyta
-    nds-nl: zaodplaanten
+    nds_nl: zaodplaanten
     nl: zaadplanten
     nn: frøplantar
     nrm: Spermatophyta
@@ -165,7 +165,7 @@ dv_has_:
     pl: rośliny nasienne
     pms: Spermatophyta
     pt: espermatófita
-    pt-br: Spermatophyta
+    pt_br: Spermatophyta
     qu: Muruyuq
     rm: Spermatophyta
     ro: Spermatophyta
@@ -180,7 +180,7 @@ dv_has_:
     smn: siemâšadoh
     sq: Spermatophytina
     sr: Spermatophyta
-    sr-el: Spermatophyta
+    sr_el: Spermatophyta
     su: Tutuwuhan Siki
     sv: fröväxter
     sw: Spermatophyta

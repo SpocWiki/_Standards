@@ -91,7 +91,7 @@ dv_has_:
     af: kwaternioon
     ar: مرباع
     be: кватэрніён
-    be-tarask: кватэрніён
+    be_tarask: кватэрніён
     bg: кватернион
     ca: quaternió
     cs: kvaternion
@@ -139,7 +139,7 @@ dv_has_:
     pl: kwaterniony
     pms: quaternion
     pt: quatérnio
-    pt-br: quatérnio
+    pt_br: quatérnio
     ro: cuaternion
     ru: кватернион
     scn: quatirnioni
@@ -149,8 +149,8 @@ dv_has_:
     sl: kvaternion
     sq: kuaternion
     sr: кватернион
-    sr-ec: кватернион
-    sr-el: kvaternion
+    sr_ec: кватернион
+    sr_el: kvaternion
     sv: kvaternion
     th: ควอเทอร์เนียน
     tr: dördey
@@ -163,12 +163,12 @@ dv_has_:
     yi: קוואטערניאן
     yue: 四元數
     zh: 四元數
-    zh-cn: 四元数
-    zh-hans: 四元数
-    zh-hant: 四元數
-    zh-hk: 四元數
-    zh-sg: 四元数
-    zh-tw: 四元數
+    zh_cn: 四元数
+    zh_hans: 四元数
+    zh_hant: 四元數
+    zh_hk: 四元數
+    zh_sg: 四元数
+    zh_tw: 四元數
 ---
 # [[Quaternion]] 
 

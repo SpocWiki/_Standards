@@ -74,7 +74,7 @@ dv_has_:
     oc: Cercopithecinae
     pl: koczkodany
     pt: Cercopithecinae
-    pt-br: Cercopithecinae
+    pt_br: Cercopithecinae
     ro: Cercopitecine
     ru: мартышковые
     sl: Cercopithecinae
@@ -87,8 +87,8 @@ dv_has_:
     vo: Cercopithecinae
     war: Cercopithecinae
     zh: 獼猴亞科
-    zh-cn: 猕猴亚科
-    zh-tw: 獼猴亞科
+    zh_cn: 猕猴亚科
+    zh_tw: 獼猴亞科
 ---
 # [[Cercopithecinae]] 
 

@@ -221,7 +221,7 @@ dv_has_:
     ba: Рене Декарт
     bcl: René Descartes
     be: Рэнэ Дэкарт
-    be-tarask: Рэнэ Дэкарт
+    be_tarask: Рэнэ Дэкарт
     bg: Рене Декарт
     bho: रेने देकार्त
     bn: র্যনে দেকার্ত
@@ -239,12 +239,12 @@ dv_has_:
     cy: René Descartes
     da: René Descartes
     de: René Descartes
-    de-ch: René Descartes
+    de_ch: René Descartes
     diq: René Descartes
     el: Ρενέ Ντεκάρτ
     en: René Descartes
-    en-ca: René Descartes
-    en-gb: René Descartes
+    en_ca: René Descartes
+    en_gb: René Descartes
     en-us: René Descartes
     eo: René Descartes
     es: René Descartes
@@ -289,7 +289,7 @@ dv_has_:
     kab: René Descartes
     kbp: René Descartes
     kk: Декарт Рене
-    kk-cyrl: Декарт
+    kk_cyrl: Декарт
     km: រីណេ ដេកាត
     kn: ರೆನೆ ಡೆಸ್ಕಾರ್ಟೆ
     ko: 르네 데카르트
@@ -392,7 +392,7 @@ dv_has_:
     zgh: ⵕⵓⵏⵉ ⴷⵉⴽⴰⵔⵜ
     zh: 勒内·笛卡儿
     zh-hans: 勒内·笛卡儿
-    zh-tw: 勒內·笛卡兒
+    zh_tw: 勒內·笛卡兒
 ---
 # [[Descartes,René]] 
 

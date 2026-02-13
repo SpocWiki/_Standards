@@ -113,7 +113,7 @@ dv_has_:
     azb: جک کیلبی
     bar: Jack S. Kilby
     be: Джэк Кілбі
-    be-tarask: Джэк Кілбі
+    be_tarask: Джэк Кілбі
     bg: Джак Килби
     bn: জ্যাক কিলবি
     ca: Jack Kilby
@@ -147,8 +147,8 @@ dv_has_:
     kk: Джек Килби
     ko: 잭 킬비
     ku: Jack Kilby
-    ku-arab: ژاجک کلبی
-    ku-latn: Jack Kilby
+    ku_arab: ژاجک کلبی
+    ku_latn: Jack Kilby
     la: Iacobus Kilby
     lv: Džeks Kilbijs
     mg: Jack Kilby
@@ -168,14 +168,14 @@ dv_has_:
     pl: Jack Kilby
     pnb: جیک کلبی
     pt: Jack Kilby
-    pt-br: Jack Kilby
+    pt_br: Jack Kilby
     ro: Jack Kilby
     ru: Джек Килби
     sk: Jack Kilby
     sl: Jack St. Clair Kilby
     sq: Jack Kilby
     sr: Џек Килби
-    sr-ec: Џек Килби
+    sr_ec: Џек Килби
     sv: Jack S. Kilby
     sw: Jack Kilby
     ta: ஜாக் கில்பி
@@ -192,12 +192,12 @@ dv_has_:
     yo: Jack Kilby
     yue: 傑克·基爾比
     zh: 傑克·基爾比
-    zh-cn: 杰克·基尔比
-    zh-hans: 杰克·基尔比
-    zh-hant: 傑克·基爾比
-    zh-hk: 傑克·基爾比
-    zh-sg: 杰克·基尔比
-    zh-tw: 傑克·基爾比
+    zh_cn: 杰克·基尔比
+    zh_hans: 杰克·基尔比
+    zh_hant: 傑克·基爾比
+    zh_hk: 傑克·基爾比
+    zh_sg: 杰克·基尔比
+    zh_tw: 傑克·基爾比
 ---
 # [[Kilby,Jack]] 
 

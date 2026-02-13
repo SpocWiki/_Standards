@@ -121,7 +121,7 @@ dv_has_:
     az: Marks qardaşları
     ba: Бер туған Маркстар
     be: Браты Маркс
-    be-tarask: Браты Маркс
+    be_tarask: Браты Маркс
     bg: Братя Маркс
     br: Ar Vreudeur Marx
     bs: Braća Marx
@@ -132,7 +132,7 @@ dv_has_:
     de: Marx Brothers
     el: Αδελφοί Μαρξ
     en: Marx Brothers
-    en-gb: Marx Brothers
+    en_gb: Marx Brothers
     eo: Fratoj Marx
     es: hermanos Marx
     eu: Marx anaiak
@@ -187,7 +187,7 @@ dv_has_:
     sk: Bratia Marxovci
     sl: Bratje Marx
     sr: Браћа Маркс
-    sr-ec: Браћа Маркс
+    sr_ec: Браћа Маркс
     srn: Den Marx Brada
     sv: Bröderna Marx
     sw: Marx Brothers

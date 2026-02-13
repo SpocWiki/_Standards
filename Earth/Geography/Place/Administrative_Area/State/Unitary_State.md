@@ -138,7 +138,7 @@ dv_has_:
     azb: اونیتار دؤولت
     ba: унитар дәүләт
     be: унітарная дзяржава
-    be-tarask: унітарная дзяржава
+    be_tarask: унітарная дзяржава
     bg: Унитарна държава
     bn: এককেন্দ্রিক রাষ্ট্র
     bs: unitarna država
@@ -152,7 +152,7 @@ dv_has_:
     diq: Dewleta uniter
     el: ενιαίο κράτος
     en: unitary state
-    en-gb: unitary state
+    en_gb: unitary state
     eo: unueca ŝtato
     es: Estado unitario
     et: unitaarriik
@@ -181,16 +181,16 @@ dv_has_:
     kaa: Unitar mámleket
     kcg: Si̱tet muna̱pyia̱
     kk: Унитарлы мемлекет
-    kk-arab: ۋنىيتارلى مەملەكەت
+    kk_arab: ۋنىيتارلى مەملەكەت
     kk-cn: ۋنىيتارلى مەملەكەت
-    kk-cyrl: Унитарлы мемлекет
+    kk_cyrl: Унитарлы мемлекет
     kk-kz: Унитарлы мемлекет
-    kk-latn: Wnïtarlı memleket
+    kk_latn: Wnïtarlı memleket
     kk-tr: Wnïtarlı memleket
     kn: ಏಕೀಕೃತ ರಾಜ್ಯ
     ko: 단일 국가
     ku: dewleta yekpare
-    ku-latn: dewleta yekpare
+    ku_latn: dewleta yekpare
     ky: Унитардык мамлекет
     la: non foederalis
     lb: Eenheetsstaat
@@ -201,7 +201,7 @@ dv_has_:
     mk: унитарна држава
     mn: Нэгдмэл улс
     ms: negara kesatuan
-    ms-arab: نݢارا کساتوان
+    ms_arab: نݢارا کساتوان
     my: တစ်ပြည်ထောင်စနစ်
     nb: enhetsstat
     ne: एकात्मक राज्य
@@ -215,7 +215,7 @@ dv_has_:
     pnb: وحدانی ریاست
     ps: مرکزي حکومت
     pt: Estado unitário
-    pt-br: Estado unitário
+    pt_br: Estado unitário
     rm: Stadi unitar
     ro: stat unitar
     ru: унитарное государство
@@ -227,21 +227,21 @@ dv_has_:
     sl: enotna država
     sq: Shteti unitar
     sr: унитарна држава
-    sr-ec: унитарна држава
-    sr-el: unitarna država
+    sr_ec: унитарна држава
+    sr_el: unitarna država
     su: Nagara kahijian
     sv: enhetsstat
     ta: ஒருமுக அரசு
     te: ఐక్యప్రభుత్వం
     tg: Давлати унитарӣ
-    tg-cyrl: давлати унитари
+    tg_cyrl: давлати унитари
     th: รัฐเดี่ยว
     ti: ዘይምርዕዉ ኩነታት
     tk: Unitar döwlet
     tl: Unitaryong estado
     tr: üniter devlet
     tt: унитар дәүләт
-    tt-cyrl: унитар дәүләт
+    tt_cyrl: унитар дәүләт
     udm: унитар кун
     uk: унітарна держава
     ur: وحدانی ریاست
@@ -253,12 +253,12 @@ dv_has_:
     yue: 單一制
     za: Cidu Dan’it
     zh: 单一制
-    zh-cn: 单一制
-    zh-hans: 单一制
-    zh-hant: 單一制
-    zh-hk: 單一制
-    zh-sg: 单一制
-    zh-tw: 單一制
+    zh_cn: 单一制
+    zh_hans: 单一制
+    zh_hant: 單一制
+    zh_hk: 單一制
+    zh_sg: 单一制
+    zh_tw: 單一制
 ---
 # [[Unitary_State]] 
 

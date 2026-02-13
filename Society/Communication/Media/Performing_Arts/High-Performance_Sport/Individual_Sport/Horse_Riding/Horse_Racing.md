@@ -7,7 +7,7 @@ dv_has_:
     azb: آت یاریشی
     ba: ат сабышы
     be: конныя скачкі
-    be-tarask: конныя скачкі
+    be_tarask: конныя скачкі
     bg: Конни надбягвания
     bn: ঘোড় দৌড়
     ca: cursa de cavalls
@@ -72,8 +72,8 @@ dv_has_:
     sl: konjske dirke
     sq: Gara me kuaj
     sr: коњичке трке
-    sr-ec: коњичке трке
-    sr-el: konjičke trke
+    sr_ec: коњичке трке
+    sr_el: konjičke trke
     su: Balapan Kuda
     sv: hästkapplöpning
     ta: குதிரைப் பந்தயம்
@@ -92,12 +92,12 @@ dv_has_:
     wuu: 赛马
     yue: 賽馬
     zh: 賽馬
-    zh-cn: 赛马
-    zh-hans: 赛马
-    zh-hant: 賽馬
-    zh-hk: 賽馬
-    zh-sg: 赛马
-    zh-tw: 賽馬
+    zh_cn: 赛马
+    zh_hans: 赛马
+    zh_hant: 賽馬
+    zh_hk: 賽馬
+    zh_sg: 赛马
+    zh_tw: 賽馬
 aliases:
 - At yarışı
 - At çapyşyk

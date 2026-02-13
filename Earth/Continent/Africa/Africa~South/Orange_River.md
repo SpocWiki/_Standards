@@ -147,7 +147,7 @@ dv_has_:
     azb: نارینجی چایی
     ba: Оранж
     be: Аранжавая
-    be-tarask: Аранжавая
+    be_tarask: Аранжавая
     bg: Оранжева река
     bho: ऑरेंज नदी
     bn: অরেঞ্জ নদী
@@ -191,7 +191,7 @@ dv_has_:
     kn: ಆರೆಂಜ್ ನದಿ
     ko: 오렌지강
     ku: çemê Orange
-    ku-latn: çemê Orange
+    ku_latn: çemê Orange
     ky: Оранж
     la: Aurantium flumen
     lt: Oranžinė upė
@@ -213,8 +213,8 @@ dv_has_:
     sk: Orange River
     sl: Oranje
     sr: Орање
-    sr-ec: Орање
-    sr-el: Oranje
+    sr_ec: Орање
+    sr_el: Oranje
     ss: Umfula we-Orange
     st: Senqu
     sv: Oranjefloden
@@ -232,12 +232,12 @@ dv_has_:
     xmf: ორანჟი
     yue: 橙河
     zh: 奥兰治河
-    zh-cn: 奥兰治河
-    zh-hans: 奥兰治河
-    zh-hant: 奧蘭治河
-    zh-hk: 奧蘭治河
-    zh-sg: 奥兰治河
-    zh-tw: 奧蘭治河
+    zh_cn: 奥兰治河
+    zh_hans: 奥兰治河
+    zh_hant: 奧蘭治河
+    zh_hk: 奧蘭治河
+    zh_sg: 奥兰治河
+    zh_tw: 奧蘭治河
 ---
 # [[Orange_River]] 
 

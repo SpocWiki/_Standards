@@ -89,17 +89,17 @@ dv_has_:
     ast: Alcuerdu centroeuropéu de llibre cambéu
     az: Mərkəzi Avropa Azad Ticarət Sazişi
     ba: Үҙәк Европа ирекле сауҙа ассоциацияһы
-    be-tarask: Цэнтральнаэўрапейскае пагадненьне аб вольным гандлі
+    be_tarask: Цэнтральнаэўрапейскае пагадненьне аб вольным гандлі
     bg: Централноевропейско споразумение за свободна търговия
     bs: CEFTA
     ca: Tractat de lliure comerç centreeuropeu
     cs: CEFTA
     de: Mitteleuropäisches Freihandelsabkommen
-    de-ch: Mitteleuropäisches Freihandelsabkommen
+    de_ch: Mitteleuropäisches Freihandelsabkommen
     el: Κεντρική Ευρωπαϊκή Συμφωνία Ελεύθερου Εμπορίου
     en: Central European Free Trade Agreement
-    en-ca: Central European Free Trade Agreement
-    en-gb: Central European Free Trade Agreement
+    en_ca: Central European Free Trade Agreement
+    en_gb: Central European Free Trade Agreement
     eo: Centr-Eŭropa Liberkomerca Akordo
     es: Acuerdo centroeuropeo de libre cambio
     et: Kesk-Euroopa Vabakaubandusleping
@@ -124,7 +124,7 @@ dv_has_:
     oc: Acòrd de Liure Cambi d'Euròpa Centrala
     pl: Środkowoeuropejskie Porozumienie o Wolnym Handlu
     pt: Acordo Centro-Europeu de Livre Comércio
-    pt-br: Acordo Centro-Europeu de Livre Comércio
+    pt_br: Acordo Centro-Europeu de Livre Comércio
     ro: Acordul Central European al Comerțului Liber
     ru: Центрально-европейская ассоциация свободной торговли
     sh: CEFTA
@@ -132,21 +132,21 @@ dv_has_:
     sl: Srednjeevropski sporazum o prosti trgovini
     sq: Marrëveshja e Tregtisë së Lirë e Evropës Qendrore
     sr: Централноевропски уговор о слободној трговини
-    sr-ec: Централноевропски уговор о слободној трговини
-    sr-el: Centralnoevropski ugovor o slobodnoj trgovini
+    sr_ec: Централноевропски уговор о слободној трговини
+    sr_el: Centralnoevropski ugovor o slobodnoj trgovini
     sv: Centraleuropeiska frihandelsavtalet
     tr: Orta Avrupa Serbest Ticaret Anlaşması
     tt: Үзәк Европа ирекле сәүдә ассоциациясе
     uk: Центрально-європейська асоціація вільної торгівлі
     zh: 中歐自由貿易協定
-    zh-cn: 中欧自由贸易协定
-    zh-hans: 中欧自由贸易协定
-    zh-hant: 中歐自由貿易協定
-    zh-hk: 中歐自由貿易協定
-    zh-mo: 中歐自由貿易協定
+    zh_cn: 中欧自由贸易协定
+    zh_hans: 中欧自由贸易协定
+    zh_hant: 中歐自由貿易協定
+    zh_hk: 中歐自由貿易協定
+    zh_mo: 中歐自由貿易協定
     zh-my: 中欧自由贸易协定
-    zh-sg: 中欧自由贸易协定
-    zh-tw: 中歐自由貿易協定
+    zh_sg: 中欧自由贸易协定
+    zh_tw: 中歐自由貿易協定
 ---
 # [[CEFTA(Central_European_Free_Trade_Agreement)]] 
 

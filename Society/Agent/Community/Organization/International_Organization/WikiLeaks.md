@@ -103,9 +103,9 @@ dv_has_:
     th: วิกิลีกส์
     xmf: ვიკილიქსი
     zh: 維基解密
-    zh-hans: 维基解密
-    zh-hant: 維基解密
-    zh-tw: 維基解密
+    zh_hans: 维基解密
+    zh_hant: 維基解密
+    zh_tw: 維基解密
 ---
 # [[WikiLeaks]] 
 

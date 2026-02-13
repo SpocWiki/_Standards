@@ -66,7 +66,7 @@ dv_has_:
   name_:
     ab: Шри-Ланка
     ace: Srilanka
-    aeb-arab: سريلانكا
+    aeb_arab: سريلانكا
     af: Sri Lanka
     am: ሽሪ ላንካ
     ami: Sri lanka
@@ -87,7 +87,7 @@ dv_has_:
     bar: Sri Lanka
     bcl: Sri Lanka
     be: Шры-Ланка
-    be-tarask: Шры-Ланка
+    be_tarask: Шры-Ланка
     bew: Sélong
     bg: Шри Ланка
     bho: श्री लंका
@@ -100,14 +100,14 @@ dv_has_:
     bug: Sri Lanka
     bxr: Шри Ланка
     ca: Sri Lanka
-    cbk-zam: Sri Lanka
+    cbk_zam: Sri Lanka
     cdo: Sri Lanka
     ce: Шри-Ланка
     ceb: Esrilangka
     ckb: سریلانکا
     co: Sri Lanka
     crh: Şri Lanka
-    crh-latn: Şri Lanka
+    crh_latn: Şri Lanka
     cs: Šrí Lanka
     csb: Sri Lanka
     cv: Шри-Ланка
@@ -116,7 +116,7 @@ dv_has_:
     dag: Sri Lanka
     de: Sri Lanka
     de-at: Sri Lanka
-    de-ch: Sri Lanka
+    de_ch: Sri Lanka
     diq: Sri Lanka
     dsb: Sri Lanka
     dtp: Sri Lanka
@@ -125,8 +125,8 @@ dv_has_:
     dz: ཤྲཱྀ་ལངཀ་
     el: Σρι Λάνκα
     en: Sri Lanka
-    en-ca: Sri Lanka
-    en-gb: Sri Lanka
+    en_ca: Sri Lanka
+    en_gb: Sri Lanka
     eo: Srilanko
     es: Sri Lanka
     et: Sri Lanka
@@ -149,7 +149,7 @@ dv_has_:
     gn: Seilãu
     gom: श्रीलंका
     gom-deva: श्रीलंका
-    gom-latn: Sri Lanka
+    gom_latn: Sri Lanka
     got: "\U00010343\U00010342\U00010339-\U0001033B\U00010330\U0001033D\U0001033A\U00010330"
     gpe: Sri Lanka
     gsw: Sri Lanka
@@ -212,7 +212,7 @@ dv_has_:
     lv: Šrilanka
     lzh: 斯里蘭卡
     mai: श्रीलंका
-    map-bms: Sri Lanka
+    map_bms: Sri Lanka
     mg: Sri Lanka
     mhr: Шри-Ланка
     mi: Hiri Rānaka
@@ -223,7 +223,7 @@ dv_has_:
     mni: ꯁ꯭ꯔꯤ ꯂꯪꯀꯥ
     mr: श्रीलंका
     ms: Sri Lanka
-    ms-arab: سري لڠکا
+    ms_arab: سري لڠکا
     mt: Sri Lanka
     my: သီရိလင်္ကာနိုင်ငံ
     mzn: سری لانکا
@@ -255,7 +255,7 @@ dv_has_:
     pnb: سری لنکا
     ps: سريلانکا
     pt: Sri Lanka
-    pt-br: Sri Lanka
+    pt_br: Sri Lanka
     qu: Sri Lanka
     rmy: Shri Lanka
     ro: Sri Lanka
@@ -283,8 +283,8 @@ dv_has_:
     so: Siri Lanka
     sq: Sri Lanka
     sr: Шри Ланка
-    sr-ec: Шри Ланка
-    sr-el: Šri Lanka
+    sr_ec: Шри Ланка
+    sr_el: Šri Lanka
     ss: Siri Lanka
     su: Sri Langka
     sv: Sri Lanka
@@ -332,14 +332,14 @@ dv_has_:
     zea: Sri Lanka
     zgh: ⵙⵔⵉ ⵍⴰⵏⴽⴰ
     zh: 斯里蘭卡
-    zh-cn: 斯里兰卡
-    zh-hans: 斯里兰卡
-    zh-hant: 斯里蘭卡
-    zh-hk: 斯里蘭卡
-    zh-mo: 斯里蘭卡
+    zh_cn: 斯里兰卡
+    zh_hans: 斯里兰卡
+    zh_hant: 斯里蘭卡
+    zh_hk: 斯里蘭卡
+    zh_mo: 斯里蘭卡
     zh-my: 斯里兰卡
-    zh-sg: 斯里兰卡
-    zh-tw: 斯里蘭卡
+    zh_sg: 斯里兰卡
+    zh_tw: 斯里蘭卡
     zu: i-Sri Lanka
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Sri_Lanka

@@ -96,7 +96,7 @@ dv_has_:
     az: kompilyator
     azb: درلییجی
     be: кампілятар
-    be-tarask: кампілятар
+    be_tarask: кампілятар
     bg: компилатор
     bn: কম্পাইলার
     br: kempuner
@@ -186,9 +186,9 @@ dv_has_:
     yi: קאמפיילער
     yue: 編譯器
     zh: 編譯器
-    zh-cn: 編譯器
-    zh-hant: 編譯器
-    zh-tw: 編譯器
+    zh_cn: 編譯器
+    zh_hant: 編譯器
+    zh_tw: 編譯器
 ---
 # [[Compiler]] 
 

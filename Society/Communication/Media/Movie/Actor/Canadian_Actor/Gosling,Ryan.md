@@ -51,7 +51,7 @@ dv_has_:
     az: Rayan Qoslinq
     azb: رایان قاسلینق
     be: Раян Гослінг
-    be-tarask: Раян Госьлінг
+    be_tarask: Раян Госьлінг
     bg: Райън Гослинг
     bn: রায়ান গসলিং
     ca: Ryan Gosling
@@ -62,8 +62,8 @@ dv_has_:
     diq: Ryan Gosling
     el: Ράιαν Γκόσλινγκ
     en: Ryan Gosling
-    en-ca: Ryan Gosling
-    en-gb: Ryan Gosling
+    en_ca: Ryan Gosling
+    en_gb: Ryan Gosling
     eo: Ryan Gosling
     es: Ryan Gosling
     et: Ryan Gosling
@@ -109,7 +109,7 @@ dv_has_:
     pap: Ryan Gosling
     pl: Ryan Gosling
     pt: Ryan Gosling
-    pt-br: Ryan Gosling
+    pt_br: Ryan Gosling
     ro: Ryan Gosling
     ru: Райан Гослинг
     sco: Ryan Gosling
@@ -118,8 +118,8 @@ dv_has_:
     sl: Ryan Gosling
     sq: Ryan Gosling
     sr: Рајан Гозлинг
-    sr-ec: Рајан Гозлинг
-    sr-el: Rajan Gozling
+    sr_ec: Рајан Гозлинг
+    sr_el: Rajan Gozling
     su: Ryan Gosling
     sv: Ryan Gosling
     sw: Ryan Gosling
@@ -135,12 +135,12 @@ dv_has_:
     xmf: რაიან გოსლინგი
     yue: 賴恩高斯寧
     zh: 雷恩·葛斯林
-    zh-cn: 瑞恩·高斯林
-    zh-hans: 瑞恩·高斯林
-    zh-hant: 雷恩·葛斯林
-    zh-hk: 賴恩·高斯寧
-    zh-sg: 莱恩·葛斯林
-    zh-tw: 雷恩·葛斯林
+    zh_cn: 瑞恩·高斯林
+    zh_hans: 瑞恩·高斯林
+    zh_hant: 雷恩·葛斯林
+    zh_hk: 賴恩·高斯寧
+    zh_sg: 莱恩·葛斯林
+    zh_tw: 雷恩·葛斯林
 ---
 #has_/time_/started :: 1980-11-12 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

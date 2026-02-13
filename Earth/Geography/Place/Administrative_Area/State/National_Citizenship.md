@@ -192,7 +192,7 @@ dv_has_:
     ba: гражданлыҡ
     bcl: Pagkahimanwa
     be: грамадзянства
-    be-tarask: грамадзянства
+    be_tarask: грамадзянства
     bew: Kewarganegaraan
     bg: Гражданство
     bn: নাগরিকত্ব
@@ -253,18 +253,18 @@ dv_has_:
     lt: pilietybė
     ltg: piļsūneiba
     lv: pilsonība
-    map-bms: Kewarganegaraan
+    map_bms: Kewarganegaraan
     mhr: гражданстве
     mk: државјанство
     ml: പൗരത്വം
     mn: Иргэншил
     mr: नागरिकत्व
     ms: kewarganegaraan
-    ms-arab: کورݢانݢاراءن
+    ms_arab: کورݢانݢاراءن
     mt: ċittadinanza
     nan: Kong-bîn
     nb: statsborgerskap
-    nds-nl: burgerlikheid
+    nds_nl: burgerlikheid
     ne: नागरिकता
     nl: burgerschap
     nn: statsborgarskap
@@ -294,8 +294,8 @@ dv_has_:
     sms: meersažvuõtt
     sq: Shtetësia
     sr: држављанство
-    sr-ec: држављанство
-    sr-el: državljanstvo
+    sr_ec: држављанство
+    sr_el: državljanstvo
     sv: medborgarskap
     sw: Uraia
     ta: குடியுரிமை

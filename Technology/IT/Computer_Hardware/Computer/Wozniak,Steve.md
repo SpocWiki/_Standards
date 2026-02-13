@@ -136,7 +136,7 @@ dv_has_:
     az: Stiv Voznyak
     bar: Steve Wozniak
     be: Стыў Возняк
-    be-tarask: Стыў Возьняк
+    be_tarask: Стыў Возьняк
     bg: Стийв Возняк
     bn: স্টিভ ওজনিয়াক
     br: Steve Wozniak
@@ -148,11 +148,11 @@ dv_has_:
     da: Steve Wozniak
     dag: Steve Wozniak
     de: Steve Wozniak
-    de-ch: Steve Wozniak
+    de_ch: Steve Wozniak
     el: Στήβ Βόζνιακ
     en: Steve Wozniak
-    en-ca: Steve Wozniak
-    en-gb: Steve Wozniak
+    en_ca: Steve Wozniak
+    en_gb: Steve Wozniak
     eo: Steve Wozniak
     es: Stephen Wozniak
     et: Steve Wozniak
@@ -204,7 +204,7 @@ dv_has_:
     pnb: سٹیو وازنیاک
     ps: سټیو ووزنیاک
     pt: Steve Wozniak
-    pt-br: Steve Wozniak
+    pt_br: Steve Wozniak
     ro: Steve Wozniak
     ru: Стив Возняк
     sgs: Steve Wozniak
@@ -213,8 +213,8 @@ dv_has_:
     sl: Steve Wozniak
     sq: Steve Wozniak
     sr: Стив Вознијак
-    sr-ec: Стив Вознијак
-    sr-el: Stiv Voznijak
+    sr_ec: Стив Вознијак
+    sr_el: Stiv Voznijak
     sv: Steve Wozniak
     sw: Steve Wozniak
     ta: ஸ்டீவ் வாஸ்னியாக்
@@ -229,9 +229,9 @@ dv_has_:
     wuu: 史蒂夫·沃兹尼亚克
     yue: 史蒂夫·沃茲尼克
     zh: 史蒂夫·沃兹尼亚克
-    zh-hans: 史蒂夫·沃兹尼亚克
-    zh-hant: 史蒂夫·沃茲尼克
-    zh-hk: 史蒂夫·沃茲尼克
+    zh_hans: 史蒂夫·沃兹尼亚克
+    zh_hant: 史蒂夫·沃茲尼克
+    zh_hk: 史蒂夫·沃茲尼克
 ---
 # [[Wozniak,Steve]] 
 

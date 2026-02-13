@@ -116,7 +116,7 @@ dv_has_:
     oc: Crinoidea
     pl: liliowce
     pt: Crinoidea
-    pt-br: Crinoidea
+    pt_br: Crinoidea
     qu: Chukcha quyllur
     ro: Crinoidea
     ru: морские лилии
@@ -139,10 +139,10 @@ dv_has_:
     war: Crinoidea
     wuu: 海百合
     zh: 海百合綱
-    zh-cn: 海百合纲
-    zh-hans: 海百合纲
-    zh-hant: 海百合綱
-    zh-tw: 海百合綱
+    zh_cn: 海百合纲
+    zh_hans: 海百合纲
+    zh_hant: 海百合綱
+    zh_tw: 海百合綱
 ---
 # [[Crinoidea]] 
 

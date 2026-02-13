@@ -161,7 +161,7 @@ dv_has_:
     ba: Эдит Пиаф
     bar: Édith Piaf
     be: Эдзіт Піяф
-    be-tarask: Эдыт Піяф
+    be_tarask: Эдыт Піяф
     bg: Едит Пиаф
     bi: Édith Piaf
     bm: Édith Piaf
@@ -181,13 +181,13 @@ dv_has_:
     da: Édith Piaf
     de: Édith Piaf
     de-at: Édith Piaf
-    de-ch: Édith Piaf
+    de_ch: Édith Piaf
     dsb: Édith Piaf
     el: Εντίθ Πιάφ
     eml: Édith Piaf
     en: Édith Piaf
-    en-ca: Édith Piaf
-    en-gb: Édith Piaf
+    en_ca: Édith Piaf
+    en_gb: Édith Piaf
     eo: Édith Piaf
     es: Édith Piaf
     et: Édith Piaf
@@ -251,7 +251,7 @@ dv_has_:
     nap: Édith Piaf
     nb: Édith Piaf
     nds: Édith Piaf
-    nds-nl: Édith Piaf
+    nds_nl: Édith Piaf
     nl: Édith Piaf
     nn: Édith Piaf
     nrm: Édith Piaf
@@ -265,7 +265,7 @@ dv_has_:
     pnb: ایڈتھ پیاف
     prg: Édith Piaf
     pt: Édith Piaf
-    pt-br: Édith Piaf
+    pt_br: Édith Piaf
     qu: Édith Piaf
     rgn: Édith Piaf
     rm: Édith Piaf
@@ -309,9 +309,9 @@ dv_has_:
     yi: עדיט פיאף
     yue: 伊蒂琵雅芙
     zh: 艾迪特·皮雅芙
-    zh-hant: 愛迪·琵雅芙
-    zh-sg: 伊迪丝·琵雅芙
-    zh-tw: 愛迪·琵雅芙
+    zh_hant: 愛迪·琵雅芙
+    zh_sg: 伊迪丝·琵雅芙
+    zh_tw: 愛迪·琵雅芙
     zu: Édith Piaf
 ---
 # [[Piaf,Édith]] 

@@ -65,7 +65,7 @@ dv_has_:
     ast: Dispersión de Rayleigh
     az: Rayleigh səpələnməsi
     azb: رایلی ساچیلیمی
-    be-tarask: Рэйліва расьсеяньне
+    be_tarask: Рэйліва расьсеяньне
     bg: Разсейване на електромагнитни вълни
     bs: Rayleighovo raspršenje
     ca: Difusió de Rayleigh
@@ -115,12 +115,12 @@ dv_has_:
     vi: Tán xạ Rayleigh
     yue: 雷利散射
     zh: 瑞利散射
-    zh-cn: 瑞利散射
-    zh-hans: 瑞利散射
-    zh-hant: 瑞利散射
-    zh-hk: 瑞利散射
-    zh-sg: 瑞利散射
-    zh-tw: 瑞利散射
+    zh_cn: 瑞利散射
+    zh_hans: 瑞利散射
+    zh_hant: 瑞利散射
+    zh_hk: 瑞利散射
+    zh_sg: 瑞利散射
+    zh_tw: 瑞利散射
 ---
 # [[Rayleigh_Scattering]] 
 

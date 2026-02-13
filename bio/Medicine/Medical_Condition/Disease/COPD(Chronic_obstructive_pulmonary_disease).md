@@ -177,7 +177,7 @@ dv_has_:
     ba: Хроник обструктив үпкә ауырыуы
     bar: Rauchabeischl
     be: Хранічная абструктыўная хвароба лёгкіх
-    be-tarask: хранічная абструктыўная хвароба лёгкіх
+    be_tarask: хранічная абструктыўная хвароба лёгкіх
     bg: Хронична обструктивна белодробна болест
     bn: দীর্ঘস্থায়ী অবরোধক ফুসফুসীয় ব্যাধি
     bs: Hronična opstruktivna bolest pluća
@@ -189,8 +189,8 @@ dv_has_:
     de: chronisch obstruktive Lungenerkrankung
     el: χρόνια αποφρακτική πνευμονοπάθεια
     en: chronic obstructive pulmonary disease
-    en-ca: Chronic obstructive pulmonary disease
-    en-gb: chronic obstructive pulmonary disease
+    en_ca: Chronic obstructive pulmonary disease
+    en_gb: chronic obstructive pulmonary disease
     eo: kronika obstrukca pneŭmonopatio
     es: Enfermedad pulmonar obstructiva crónica
     et: krooniline obstruktiivne kopsuhaigus
@@ -217,7 +217,7 @@ dv_has_:
     it: broncopneumopatia cronica ostruttiva
     ja: 慢性閉塞性肺疾患
     kk: Өкпенің созылмалы обструкциялық ауруы
-    kk-cyrl: Өкпе созылмалы обструктивті ауруы
+    kk_cyrl: Өкпе созылмалы обструктивті ауруы
     kn: COPD
     ko: 만성 폐쇄성 폐질환
     la: Morbus chronicus obstructionis pulmonum
@@ -242,7 +242,7 @@ dv_has_:
     pms: Broncopneumopatìa crònica ostrutiva
     ps: د سږو اوندنه خنډيزه ناروغي
     pt: doença pulmonar obstrutiva crónica
-    pt-br: doença pulmonar obstrutiva crônica
+    pt_br: doença pulmonar obstrutiva crônica
     ro: bronho-pneumopatie obstructivă cronică
     ru: хроническая обструктивная болезнь лёгких
     sco: chronic obstructive pulmonary disease
@@ -254,8 +254,8 @@ dv_has_:
     sl: kronična obstruktivna pljučna bolezen
     sq: Sëmundjet Pulmonare Obstruktive Kronike
     sr: хронична опструктивна болест плућа
-    sr-ec: хронична опструктивна болест плућа
-    sr-el: hronična opstruktivna bolest pluća
+    sr_ec: хронична опструктивна болест плућа
+    sr_el: hronična opstruktivna bolest pluća
     sv: kroniskt obstruktiv lungsjukdom
     sw: Ugonjwa sugu wa njia za pumzi zilizofungana
     ta: நெடுங்கால சுவாச அடைப்பு நோய்
@@ -273,12 +273,12 @@ dv_has_:
     yi: כראנישע אבסטרוקטיווע לונגענקרענק
     yue: 慢性阻塞性肺病
     zh: 慢性阻塞性肺病
-    zh-cn: 慢性阻塞性肺病
-    zh-hans: 慢性阻塞性肺病
-    zh-hant: 慢性阻塞性肺病
-    zh-hk: 慢性阻塞性肺病
-    zh-sg: 慢性阻塞性肺病
-    zh-tw: 慢性阻塞性肺病
+    zh_cn: 慢性阻塞性肺病
+    zh_hans: 慢性阻塞性肺病
+    zh_hant: 慢性阻塞性肺病
+    zh_hk: 慢性阻塞性肺病
+    zh_sg: 慢性阻塞性肺病
+    zh_tw: 慢性阻塞性肺病
 ---
 # [[COPD(Chronic_obstructive_pulmonary_disease)]] 
 

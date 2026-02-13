@@ -87,7 +87,7 @@ dv_has_:
     ast: trombón
     az: trombon
     be: трамбон
-    be-tarask: трамбон
+    be_tarask: трамбон
     bg: тромбон
     br: trombon stirellek
     bs: Trombon
@@ -100,8 +100,8 @@ dv_has_:
     de: Posaune
     el: τρομπόνι
     en: trombone
-    en-ca: Trombone
-    en-gb: trombone
+    en_ca: Trombone
+    en_gb: trombone
     eo: trombono
     es: trombón
     et: Tromboon
@@ -139,16 +139,16 @@ dv_has_:
     mk: тромбон
     ml: ട്രോംബോൺ
     ms: trombon
-    ms-arab: ترومبون
+    ms_arab: ترومبون
     my: ထရွမ်းဗုန်း
     nb: trombone
-    nds-nl: skoeftrompet
+    nds_nl: skoeftrompet
     nl: trombone
     nn: trombone
     oc: Trombon
     pl: puzon
     pt: trombone
-    pt-br: Trombone
+    pt_br: Trombone
     qu: Trumpun
     ro: trombon
     ru: тромбон
@@ -169,9 +169,9 @@ dv_has_:
     wuu: 长号
     yue: 長號
     zh: 長號
-    zh-hans: 长号
-    zh-hant: 長號
-    zh-tw: 長號
+    zh_hans: 长号
+    zh_hant: 長號
+    zh_tw: 長號
 ---
 # [[Trombone]] 
 

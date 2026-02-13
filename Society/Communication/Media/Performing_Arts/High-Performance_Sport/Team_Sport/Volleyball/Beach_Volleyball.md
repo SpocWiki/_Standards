@@ -106,7 +106,7 @@ dv_has_:
     ast: Voleibol de sablera
     az: Çimərlik voleybolu
     be: пляжны валейбол
-    be-tarask: пляжны валейбол
+    be_tarask: пляжны валейбол
     bew: Bola tepok panté
     bg: Плажен волейбол
     bn: বীচ ভলিবল
@@ -117,8 +117,8 @@ dv_has_:
     de: Beachvolleyball
     el: μπιτς βόλεϊ
     en: beach volleyball
-    en-ca: Beach volleyball
-    en-gb: beach volleyball
+    en_ca: Beach volleyball
+    en_gb: beach volleyball
     eo: plaĝa flugpilkado
     es: voleibol de playa
     et: Rannavõrkpall
@@ -157,7 +157,7 @@ dv_has_:
     oc: Volèi de plaja
     pl: siatkówka plażowa
     pt: voleibol de praia
-    pt-br: voleibol de praia
+    pt_br: voleibol de praia
     qu: Makiyasiy qucha pata
     ro: volei de plajă
     ru: пляжный волейбол
@@ -165,8 +165,8 @@ dv_has_:
     sh: Odbojka na pijesku
     sl: odbojka na mivki
     sr: одбојка на песку
-    sr-ec: одбојка на песку
-    sr-el: odbojka na pesku
+    sr_ec: одбојка на песку
+    sr_el: odbojka na pesku
     sv: beachvolleyboll
     ta: கடற்கரை கைப்பந்தாட்டம்
     th: วอลเลย์บอลชายหาด
@@ -180,11 +180,11 @@ dv_has_:
     wuu: 沙滩排球
     yue: 沙灘排球
     zh: 沙滩排球
-    zh-cn: 沙滩排球
-    zh-hans: 沙滩排球
-    zh-hant: 沙灘排球
-    zh-hk: 沙灘排球
-    zh-tw: 沙灘排球
+    zh_cn: 沙滩排球
+    zh_hans: 沙滩排球
+    zh_hant: 沙灘排球
+    zh_hk: 沙灘排球
+    zh_tw: 沙灘排球
 ---
 # [[Beach_Volleyball]] 
 

@@ -74,7 +74,7 @@ dv_has_:
     as: আপ কোৱাৰ্ক
     ast: quark enriba
     be: u-кварк
-    be-tarask: u-кварк
+    be_tarask: u-кварк
     bg: горен кварк
     bn: আপ কোয়ার্ক
     ca: quark u
@@ -83,7 +83,7 @@ dv_has_:
     dag: up quark
     de: Up-Quark
     en: up quark
-    en-gb: up quark
+    en_gb: up quark
     eo: u-kvarko
     es: cuark arriba
     et: u-kvark
@@ -118,7 +118,7 @@ dv_has_:
     pl: kwark górny
     pnb: اپ کوارک
     pt: quark up
-    pt-br: quark up
+    pt_br: quark up
     ro: quark up
     ru: u-кварк
     sh: gornji kvark

@@ -42,9 +42,9 @@ dv_has_:
     vec: STMicroelectronics
     vi: STMicroelectronics
     zh: 意法半導體
-    zh-hans: 意法半导体
-    zh-hant: 意法半導體
-    zh-hk: 意法半導體
+    zh_hans: 意法半导体
+    zh_hant: 意法半導體
+    zh_hk: 意法半導體
 aliases:
 - STMicroelectronics
 - STマイクロエレクトロニクス

@@ -132,7 +132,7 @@ dv_has_:
     ba: Сельва
     ban: Wana sabeh
     be: Сельва
-    be-tarask: дажджавы лес
+    be_tarask: дажджавы лес
     bg: Дъждовна гора
     bho: बरखाबन
     bjn: Hutan hujan
@@ -196,7 +196,7 @@ dv_has_:
     nan: Ú-lîm
     nb: regnskog
     nds: Regenwoold
-    nds-nl: regenwold
+    nds_nl: regenwold
     ne: वर्षाबन
     nl: regenwoud
     nn: regnskog
@@ -243,8 +243,8 @@ dv_has_:
     yi: רעגנוואלד
     yue: 雨林
     zh: 雨林
-    zh-hans: 雨林
-    zh-hant: 雨林
+    zh_hans: 雨林
+    zh_hant: 雨林
     zu: Ihlathi Lemvula
 ---
 # [[Rainforest]] 

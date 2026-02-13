@@ -68,7 +68,7 @@ dv_has_:
     az: Lilit
     ba: Лилит
     bcl: Lilith
-    be-tarask: Ліліт
+    be_tarask: Ліліт
     bg: Лилиту
     bn: লিলথ
     ca: Lilit
@@ -81,7 +81,7 @@ dv_has_:
     diq: Lilith
     el: Λίλιθ
     en: Lilith
-    en-gb: Lilith
+    en_gb: Lilith
     eo: Lilit
     es: Lilit
     et: Lilith
@@ -117,15 +117,15 @@ dv_has_:
     oc: Lilit
     pl: Lilith
     pt: Lilith
-    pt-br: Lilith
+    pt_br: Lilith
     ro: Lilith
     ru: Лилит
     sh: Lilit
     sk: Lilit
     sl: Lilit
     sr: Лилит
-    sr-ec: Лилит
-    sr-el: Lilit
+    sr_ec: Лилит
+    sr_el: Lilit
     sv: Lilit
     sw: Lilith
     szl: Lilith
@@ -141,12 +141,12 @@ dv_has_:
     xmf: ლილითი
     yue: 莉莉絲
     zh: 莉莉絲
-    zh-cn: 莉莉丝
-    zh-hans: 莉莉斯
-    zh-hant: 莉莉斯
-    zh-hk: 莉莉斯
-    zh-sg: 莉莉斯
-    zh-tw: 莉莉絲
+    zh_cn: 莉莉丝
+    zh_hans: 莉莉斯
+    zh_hant: 莉莉斯
+    zh_hk: 莉莉斯
+    zh_sg: 莉莉斯
+    zh_tw: 莉莉絲
 ---
 # [[Lilith]] 
 

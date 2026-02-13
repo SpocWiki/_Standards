@@ -116,7 +116,7 @@ dv_has_:
     arz: مارشال ماكلوهان
     ast: Marshall McLuhan
     az: Marşall Maklyuen
-    be-tarask: Маршал Маклюэн
+    be_tarask: Маршал Маклюэн
     bg: Маршал Маклуън
     bn: মার্শাল ম্যাকলুহান
     ca: Marshall McLuhan
@@ -167,7 +167,7 @@ dv_has_:
     pl: Marshall McLuhan
     ps: مارشال مک لوهان
     pt: Marshall McLuhan
-    pt-br: Marshall McLuhan
+    pt_br: Marshall McLuhan
     ru: Маршалл Маклюэн
     sc: Marshall McLuhan
     sco: Marshall McLuhan
@@ -185,10 +185,10 @@ dv_has_:
     wuu: 马歇尔·麦克卢汉
     yue: 馬素·麥魯恆
     zh: 马歇尔·麦克卢汉
-    zh-cn: 马歇尔·麦克卢汉
-    zh-hans: 马素·麦克鲁汉
-    zh-hant: 馬歇爾·麥克盧漢
-    zh-hk: 馬素·麥魯恆
+    zh_cn: 马歇尔·麦克卢汉
+    zh_hans: 马素·麦克鲁汉
+    zh_hant: 馬歇爾·麥克盧漢
+    zh_hk: 馬素·麥魯恆
 ---
 # [[McLuhan,Marshall]] 
 

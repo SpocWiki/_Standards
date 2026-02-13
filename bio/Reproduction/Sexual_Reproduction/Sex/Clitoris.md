@@ -151,7 +151,7 @@ dv_has_:
     az: klitor
     bcl: Itil
     be: клітар
-    be-tarask: ласкацень
+    be_tarask: ласкацень
     bg: клитор
     bho: क्लाइटोरिस
     bjn: cingit
@@ -205,7 +205,7 @@ dv_has_:
     ko: 음핵
     ks: گوٗدٕ پھوٚل
     ku: Zîlik
-    ku-latn: gilik
+    ku_latn: gilik
     la: Clitoris
     lb: Klitoris
     lfn: clitoris
@@ -249,8 +249,8 @@ dv_has_:
     so: kintirka
     sq: klitoris
     sr: клиторис
-    sr-ec: клиторис
-    sr-el: klitoris
+    sr_ec: клиторис
+    sr_el: klitoris
     su: Itil
     sv: klitoris
     sw: kinembe
@@ -271,7 +271,7 @@ dv_has_:
     wuu: 阴蒂
     yue: 陰蒂
     zh: 陰蒂
-    zh-hans: 阴蒂
+    zh_hans: 阴蒂
     zu: clitoris
 ---
 # [[Clitoris]] 

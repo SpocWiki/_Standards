@@ -74,7 +74,7 @@ dv_has_:
     as: চাৰ্ম কোৱাৰ্ক
     ast: Quark encantáu
     be: C-кварк
-    be-tarask: C-кварк
+    be_tarask: C-кварк
     bg: Чаровен кварк
     bn: চার্ম কোয়ার্ক
     ca: quark c
@@ -82,7 +82,7 @@ dv_has_:
     da: Charm-kvark
     de: Charm-Quark
     en: charm quark
-    en-gb: charm quark
+    en_gb: charm quark
     eo: c-kvarko
     es: quark encantado
     et: C-kvark
@@ -132,7 +132,7 @@ dv_has_:
     wuu: c夸克
     yue: c夸克
     zh: c夸克
-    zh-hans: c夸克
+    zh_hans: c夸克
 ---
 # [[Charm Quark]] 
 

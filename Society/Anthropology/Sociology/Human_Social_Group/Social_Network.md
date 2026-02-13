@@ -104,7 +104,7 @@ dv_has_:
     az: Sosial şəbəkə
     bar: Soziale Netzweak-Portale
     be: сацыяльная сетка
-    be-tarask: сацыяльная сетка
+    be_tarask: сацыяльная сетка
     bg: Социална мрежа
     bn: সামাজিক জালব্যবস্থা
     br: Rouedad sokial
@@ -115,11 +115,11 @@ dv_has_:
     cy: rhwydweithio cymdeithasol ar-lein
     da: socialt netværk
     de: soziales Netzwerk
-    de-ch: Soziales Netzwerk
+    de_ch: Soziales Netzwerk
     el: κοινωνικό δίκτυο
     en: social network
-    en-ca: social network
-    en-gb: social network
+    en_ca: social network
+    en_gb: social network
     eo: socia reto
     es: red social
     et: sotsiaalne võrgustik
@@ -157,7 +157,7 @@ dv_has_:
     oc: Ret sociala
     pl: sieć społeczna
     pt: rede social
-    pt-br: rede social
+    pt_br: rede social
     qu: Qutukawsay llika
     ro: Rețea de socializare
     ru: социальная сеть
@@ -177,8 +177,8 @@ dv_has_:
     tl: Social network
     tr: Sosyal ağ
     tt: социаль челтәр
-    tt-cyrl: социаль челтәр
-    tt-latn: sotsial' çeltär
+    tt_cyrl: социаль челтәр
+    tt_latn: sotsial' çeltär
     uk: соціальна мережа
     ur: سماجی روابط
     vep: Socialine verk
@@ -187,9 +187,9 @@ dv_has_:
     wuu: 社会网络
     yue: 社會網絡
     zh: 社会网络
-    zh-cn: 社会网络
-    zh-hans: 社会网络
-    zh-hant: 社會網絡
+    zh_cn: 社会网络
+    zh_hans: 社会网络
+    zh_hant: 社會網絡
 ---
 # [[Social_Network]]  
 

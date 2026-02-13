@@ -37,7 +37,7 @@ dv_has_:
     oc: Antilocapra
     pl: Antilocapra
     pt: Antilocapra
-    pt-br: Antilocapra
+    pt_br: Antilocapra
     ro: Antilocapra
     ru: Antilocapra
     sq: Antilocapra

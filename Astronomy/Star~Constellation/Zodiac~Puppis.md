@@ -111,7 +111,7 @@ dv_has_:
     az: Göyərtə
     ba: Корма
     be: Карма
-    be-tarask: Карма
+    be_tarask: Карма
     bg: Кърма
     bn: পাপিস মণ্ডল
     br: Aros

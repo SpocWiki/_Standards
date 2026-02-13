@@ -110,7 +110,7 @@ dv_has_:
     ba: Азия тарихы
     bar: Gschicht vo Asien
     be: гісторыя Азіі
-    be-tarask: гісторыя Азіі
+    be_tarask: гісторыя Азіі
     bg: История на Азия
     bn: এশিয়ার ইতিহাস
     ca: història d'Àsia
@@ -176,9 +176,9 @@ dv_has_:
     wuu: 亚洲历史
     yi: היסטאריע פון אזיע
     zh: 亚洲史
-    zh-hans: 亚洲史
-    zh-hant: 亞洲史
-    zh-hk: 亞洲史
+    zh_hans: 亚洲史
+    zh_hant: 亞洲史
+    zh_hk: 亞洲史
 ---
 # [[History_of_Asia]] 
 

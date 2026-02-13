@@ -149,7 +149,7 @@ dv_has_:
     ba: Күрем (айлыҡ)
     ban: Ménstruasi
     be: менструацыя
-    be-tarask: мэнструацыя
+    be_tarask: мэнструацыя
     bg: Менструация
     bn: রজঃস্রাব
     br: Amzerioù (merc'hed)
@@ -165,14 +165,14 @@ dv_has_:
     da: menstruation
     dag: Mahim
     de: Menstruation
-    de-ch: Menstruation
+    de_ch: Menstruation
     diq: Menstruasyon
     dtp: Nohinaan
     el: έμμηνος ρύση
     eml: Mestruasiòuṅ
     en: menstruation
-    en-ca: Menstruation
-    en-gb: menstruation
+    en_ca: Menstruation
+    en_gb: menstruation
     eo: menstruo en homoj
     es: menstruación
     et: menstruatsioon
@@ -205,7 +205,7 @@ dv_has_:
     kk: Етеккір
     kn: ಮುಟ್ಟು
     ko: 월경
-    ku-latn: xwîndîtin
+    ku_latn: xwîndîtin
     ky: Этек кир
     la: Menstruatio
     lg: Okugenda mu nsonga
@@ -235,7 +235,7 @@ dv_has_:
     pnb: ماہواری
     ps: میاشتنی عادت
     pt: menstruação
-    pt-br: Menstruação
+    pt_br: Menstruação
     ro: menstruație
     ru: менструация
     sah: Менструация
@@ -277,8 +277,8 @@ dv_has_:
     yue: 月經
     za: Dawzsaeg
     zh: 月經
-    zh-hans: 月经
-    zh-hant: 月經
+    zh_hans: 月经
+    zh_hant: 月經
 ---
 # [[Menstruation]] 
 

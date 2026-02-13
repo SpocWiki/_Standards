@@ -69,15 +69,15 @@ dv_has_:
     ar: فيضانات الصين 1931
     ast: Hinchentes en China de 1931
     be: паводка ў Кітаі
-    be-tarask: паводка ў Кітаі 1931 году
+    be_tarask: паводка ў Кітаі 1931 году
     ca: Inundacions de la Xina de 1931
     cs: Povodně v Číně (1931)
     da: Oversvømmelserne i Kina 1931
     de: Flutkatastrophe in China 1931
     el: Πλημμύρες στην Κίνα το 1931
     en: 1931 China floods
-    en-ca: 1931 China floods
-    en-gb: 1931 China floods
+    en_ca: 1931 China floods
+    en_gb: 1931 China floods
     es: Inundaciones en China de 1931
     et: 1931. aasta Hiina üleujutused
     eu: 1931ko Txinako uholdeak
@@ -96,11 +96,11 @@ dv_has_:
     nl: overstroming in Centraal-China 1931
     pl: Powódź w Chinach
     pt: Inundações na China de 1931
-    pt-br: Inundações na China de 1931
+    pt_br: Inundações na China de 1931
     ro: Inundațiile din China din 1931
     ru: наводнение в Китае 1931 года
     sr: Поплаве у Кини 1931.
-    sr-ec: Поплаве у Кини 1931.
+    sr_ec: Поплаве у Кини 1931.
     sv: Översvämningskatastrofen i Kina 1931
     ta: 1931 சீன வெள்ளம்
     th: อุทกภัยในประเทศจีน พ.ศ. 2474
@@ -113,9 +113,9 @@ dv_has_:
     wuu: 1931年个江淮大水
     yue: 1931年江淮大水災
     zh: 1931年江淮大水
-    zh-hans: 1931年江淮大水
-    zh-hant: 1931年江淮大水
-    zh-hk: 1931年江淮大水
+    zh_hans: 1931年江淮大水
+    zh_hant: 1931年江淮大水
+    zh_hk: 1931年江淮大水
 ---
 #has_/time_/started :: 1931-06 
 #has_/time_/stopped  :: 1931-08-25

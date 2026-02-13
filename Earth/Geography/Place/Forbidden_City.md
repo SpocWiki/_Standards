@@ -186,7 +186,7 @@ dv_has_:
     ban: Kota Kalarang
     bar: Vabodane Stod
     be: Забаронены горад
-    be-tarask: Забаронены горад
+    be_tarask: Забаронены горад
     bg: Забранен град
     bn: নিষিদ্ধ নগরী
     br: Keoded difennet
@@ -275,14 +275,14 @@ dv_has_:
     yue: 紫禁城
     za: Gugungh
     zh: 故宫
-    zh-cn: 故宫
-    zh-hans: 故宫
-    zh-hant: 故宮
-    zh-hk: 故宮
-    zh-mo: 故宮
+    zh_cn: 故宫
+    zh_hans: 故宫
+    zh_hant: 故宮
+    zh_hk: 故宮
+    zh_mo: 故宮
     zh-my: 故宫
-    zh-sg: 故宫
-    zh-tw: 故宮
+    zh_sg: 故宫
+    zh_tw: 故宮
 ---
 # [[Forbidden_City]] 
 

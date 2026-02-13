@@ -268,7 +268,7 @@ dv_has_:
     azb: استون
     ba: ацетон
     be: ацэтон
-    be-tarask: ацэтон
+    be_tarask: ацэтон
     bg: ацетон
     bn: অ্যাসিটোন
     bs: Aceton
@@ -276,11 +276,11 @@ dv_has_:
     cs: aceton
     da: acetone
     de: Aceton
-    de-ch: Aceton
+    de_ch: Aceton
     el: προπανόνη
     en: acetone
-    en-ca: Acetone
-    en-gb: acetone
+    en_ca: Acetone
+    en_gb: acetone
     eo: acetono
     es: acetona
     et: atsetoon
@@ -319,7 +319,7 @@ dv_has_:
     pl: aceton
     pnb: ایسٹون
     pt: acetona
-    pt-br: Acetona
+    pt_br: Acetona
     ro: Acetonă
     ru: ацетон
     sh: Aceton
@@ -342,10 +342,10 @@ dv_has_:
     wuu: 丙酮
     yue: 丙酮
     zh: 丙酮
-    zh-cn: 丙酮
-    zh-hans: 丙酮
-    zh-hant: 丙酮
-    zh-tw: 丙酮
+    zh_cn: 丙酮
+    zh_hans: 丙酮
+    zh_hant: 丙酮
+    zh_tw: 丙酮
 ---
 # [[Acetone]] 
 

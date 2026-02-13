@@ -253,7 +253,7 @@ dv_has_:
     bbc: Ensiklopedia
     bcl: ensiklopedya
     be: энцыклапедыя
-    be-tarask: энцыкляпэдыя
+    be_tarask: энцыкляпэдыя
     bew: ènsiklopédi
     bg: енциклопедия
     bho: ज्ञानकोश
@@ -288,7 +288,7 @@ dv_has_:
     el: εγκυκλοπαίδεια
     eml: ensiclupedìa
     en: encyclopedia
-    en-gb: encyclopaedia
+    en_gb: encyclopaedia
     eo: enciklopedio
     es: enciclopedia
     et: entsüklopeedia
@@ -361,7 +361,7 @@ dv_has_:
     lzh: 百科全書
     mad: Ènsiklopedia
     mai: विश्वकोश
-    map-bms: ensiklopedia
+    map_bms: ensiklopedia
     mg: raki-pahalalana
     mhr: энциклопедий
     mi: mātāpunenga
@@ -372,7 +372,7 @@ dv_has_:
     mni: ꯂꯧꯁꯤꯡꯒꯤ ꯄꯨꯀꯩ
     mr: ज्ञानकोश
     ms: ensiklopedia
-    ms-arab: اينسيکلوڤيديا
+    ms_arab: اينسيکلوڤيديا
     mt: enċiklopedija
     mwl: anciclopédia
     my: စွယ်စုံကျမ်း
@@ -382,7 +382,7 @@ dv_has_:
     nap: enciclopedía
     nb: encyklopedi
     nds: Nokieksel
-    nds-nl: ensyklopedie
+    nds_nl: ensyklopedie
     ne: विश्वकोष
     new: हलिमसफु
     nl: encyclopedie
@@ -404,7 +404,7 @@ dv_has_:
     pnt: εγκυκλοπαίδεια
     ps: پوهنغونډ
     pt: enciclopédia
-    pt-br: enciclopédia
+    pt_br: enciclopédia
     ro: enciclopedie
     roa-tara: "'ngeclopedije"
     ru: энциклопедия
@@ -430,7 +430,7 @@ dv_has_:
     so: encyclopedia
     sq: enciklopedi
     sr: енциклопедија
-    sr-ec: енциклопедија
+    sr_ec: енциклопедија
     ss: Encyclopedia
     stq: Enzyklopädie
     su: ènsiklopédi
@@ -451,13 +451,13 @@ dv_has_:
     tr: ansiklopedi
     ts: encyclopediya
     tt: энциклопедия
-    tt-cyrl: энциклопедия
-    tt-latn: ensiklopediä
+    tt_cyrl: энциклопедия
+    tt_latn: ensiklopediä
     tum: Buku limanya-vyose
     udm: энциклопеди
     ug: ئېنسكلوپېدىيە
-    ug-arab: ئېنسكلوپېدىيە
-    ug-latn: Énsklopédiye
+    ug_arab: ئېنسكلوپېدىيە
+    ug_latn: Énsklopédiye
     uk: енциклопедія
     ur: دائرۃ المعارف
     uz: ensiklopediya
@@ -474,14 +474,14 @@ dv_has_:
     za: bwzgoh cenzsuh
     zgh: ⴰⵙⴰⵎⵓ
     zh: 百科全書
-    zh-cn: 百科全书
-    zh-hans: 百科全书
-    zh-hant: 百科全書
-    zh-hk: 百科全書
-    zh-mo: 百科全書
+    zh_cn: 百科全书
+    zh_hans: 百科全书
+    zh_hant: 百科全書
+    zh_hk: 百科全書
+    zh_mo: 百科全書
     zh-my: 百科全书
-    zh-sg: 百科全书
-    zh-tw: 百科全書
+    zh_sg: 百科全书
+    zh_tw: 百科全書
     zu: INgqoqelolwazi
 ---
 # [[Encyclopedia]] 

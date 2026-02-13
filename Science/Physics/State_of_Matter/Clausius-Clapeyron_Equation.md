@@ -21,9 +21,9 @@ dv_has_:
     it: equazione di Clapeyron
     ja: クラウジウス-クラペイロンの式
     kk: Клапейрон - Клаузиус теңдеуі
-    kk-arab: كلاپەيرون - كلاۋزىيۋس تەڭدەۋى
-    kk-cyrl: Клапейрон - Клаузиус теңдеуі
-    kk-latn: Klapeýron - Klawzïws teñdewi
+    kk_arab: كلاپەيرون - كلاۋزىيۋس تەڭدەۋى
+    kk_cyrl: Клапейрон - Клаузиус теңдеуі
+    kk_latn: Klapeýron - Klawzïws teñdewi
     ko: 클라우지우스-클라페이롱 방정식
     ky: Клапейрон—Клаузиус теңдемеси
     nb: Clausius-Clapeyron-ligningen
@@ -40,9 +40,9 @@ dv_has_:
     uz: Klapeyron-klauzius tenglamasi
     vi: Phương trình Clausius-Clapeyron
     zh: 克劳修斯－克拉佩龙方程
-    zh-hans: 克劳修斯－克拉佩龙方程
-    zh-hant: 克勞修斯－克拉佩龍方程
-    zh-hk: 克勞修斯－克拉佩龍方程
+    zh_hans: 克劳修斯－克拉佩龙方程
+    zh_hant: 克勞修斯－克拉佩龍方程
+    zh_hk: 克勞修斯－克拉佩龍方程
 aliases:
 - Clapeyroni-Clausiuse võrrand
 - Clausiova-Clapeyronova rovnice

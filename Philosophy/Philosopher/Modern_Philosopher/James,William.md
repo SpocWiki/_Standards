@@ -153,7 +153,7 @@ dv_has_:
     ast: William James
     az: Vilyam Ceyms
     be: Уільям Джэймс
-    be-tarask: Ўільям Джэймз
+    be_tarask: Ўільям Джэймз
     bg: Уилям Джеймс
     bn: উইলিয়াম জেমস
     br: William James
@@ -166,12 +166,12 @@ dv_has_:
     da: William James
     dag: William James
     de: William James
-    de-ch: William James
+    de_ch: William James
     ee: William James
     el: Γουΐλιαμ Τζέιμς
     en: William James
-    en-ca: William James
-    en-gb: William James
+    en_ca: William James
+    en_gb: William James
     eo: William James
     es: William James
     et: William James
@@ -196,11 +196,11 @@ dv_has_:
     ja: ウィリアム・ジェームズ
     ka: უილიამ ჯეიმსი
     kk: Уильям Джеймс
-    kk-arab: ۋىيليام دجەيمس
+    kk_arab: ۋىيليام دجەيمس
     kk-cn: ۋىيليام دجەيمس
-    kk-cyrl: Уильям Джеймс
+    kk_cyrl: Уильям Джеймс
     kk-kz: Уильям Джеймс
-    kk-latn: Wïlʹyam Djeýms
+    kk_latn: Wïlʹyam Djeýms
     kk-tr: Wïlʹyam Djeýms
     km: វីលៀម ជែម
     kn: ವಿಲಿಯಂ ಜೇಮ್ಸ್
@@ -222,7 +222,7 @@ dv_has_:
     nap: William James
     nb: William James
     nds: William James
-    nds-nl: William James
+    nds_nl: William James
     new: विलियम जेम्स
     nl: William James
     nn: William James
@@ -233,7 +233,7 @@ dv_has_:
     pnb: ولیم جیمز
     ps: وېليم جېمز
     pt: William James
-    pt-br: William James
+    pt_br: William James
     ro: William James
     ru: Уильям Джеймс
     sc: William James
@@ -245,8 +245,8 @@ dv_has_:
     sl: William James
     sq: William James
     sr: Вилијам Џејмс
-    sr-ec: Вилијам Џејмс
-    sr-el: Vilijam Džejms
+    sr_ec: Вилијам Џејмс
+    sr_el: Vilijam Džejms
     sv: William James
     ta: வில்லியம் ஜேம்ஸ்
     te: విలియం జేమ్స్
@@ -263,12 +263,12 @@ dv_has_:
     xmf: უილიამ ჯეიმსი
     yue: 威廉占士
     zh: 威廉·詹姆士
-    zh-cn: 威廉·詹姆斯
+    zh_cn: 威廉·詹姆斯
     zh-hans: 威廉·詹姆士
-    zh-hant: 威廉·詹姆士
-    zh-hk: 威廉·占士
-    zh-sg: 威廉·詹姆斯
-    zh-tw: 威廉·詹姆士
+    zh_hant: 威廉·詹姆士
+    zh_hk: 威廉·占士
+    zh_sg: 威廉·詹姆斯
+    zh_tw: 威廉·詹姆士
 ---
 # [[James,William]] 
 

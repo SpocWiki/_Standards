@@ -238,7 +238,7 @@ dv_has_:
     bbc: Sunge Nil
     bcl: Nilo
     be: Ніл
-    be-tarask: Ніл
+    be_tarask: Ніл
     bg: Нил
     bho: नील नदी
     bi: Nile
@@ -254,13 +254,13 @@ dv_has_:
     ckb: نیل
     co: Nilu
     crh: Nil
-    crh-latn: Nil
+    crh_latn: Nil
     cs: Nil
     cv: Нил
     cy: Afon Nîl
     da: Nilen
     de: Nil
-    de-ch: Nil
+    de_ch: Nil
     din: Nail
     diq: Roê Nili
     dsb: Nil
@@ -363,7 +363,7 @@ dv_has_:
     nap: Nilò
     nb: Nilen
     nds: Nil
-    nds-nl: Niel
+    nds_nl: Niel
     ne: नाइल नदी
     new: नाइल खुसि
     nl: Nijl
@@ -381,7 +381,7 @@ dv_has_:
     pnt: Νείλος
     ps: نیل سیند
     pt: Rio Nilo
-    pt-br: Rio Nilo
+    pt_br: Rio Nilo
     qu: Nilu mayu
     rm: Nil
     ro: Nil
@@ -440,10 +440,10 @@ dv_has_:
     yue: 尼羅河
     zgh: ⴰⵙⵉⴼ ⵏ ⵓⵏⵉⵍ
     zh: 尼罗河
-    zh-cn: 尼罗河
-    zh-hans: 尼罗河
-    zh-hant: 尼羅河
-    zh-tw: 尼羅河
+    zh_cn: 尼罗河
+    zh_hans: 尼罗河
+    zh_hant: 尼羅河
+    zh_tw: 尼羅河
 ---
 # [[Nile]] 
 

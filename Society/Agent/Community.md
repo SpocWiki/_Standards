@@ -148,7 +148,7 @@ dv_has_:
     ba: берләшмә
     bcl: komunidad
     be: абшчына
-    be-tarask: грамада
+    be_tarask: грамада
     bg: общност
     bn: সম্প্রদায়
     br: kumuniezh
@@ -191,12 +191,12 @@ dv_has_:
     ka: თემი
     kaa: birlespe
     kk: қауым
-    kk-latn: qawım
+    kk_latn: qawım
     km: សហគមន៍
     ko: 공동체
     ku: civat
-    ku-arab: جڤات
-    ku-latn: civat
+    ku_arab: جڤات
+    ku_latn: civat
     la: communitas
     li: Samelaeving
     lt: bendruomenė
@@ -209,7 +209,7 @@ dv_has_:
     nan: Kiōng-tông-thé
     nap: comunìtà
     nb: fellesskap
-    nds-nl: samenlaeving
+    nds_nl: samenlaeving
     ne: जाति
     new: जाति
     nl: samenleving
@@ -221,7 +221,7 @@ dv_has_:
     pl: wspólnota
     ps: ټولنه (د ژوندیو موجوداتو یوه ډله)
     pt: comunidade
-    pt-br: comunidade
+    pt_br: comunidade
     qu: ayllu
     ro: comunitate
     ru: сообщество
@@ -239,8 +239,8 @@ dv_has_:
     sms: õhttsažkåʹdd
     sq: komunitet
     sr: заједница
-    sr-ec: заједница
-    sr-el: zajednica
+    sr_ec: заједница
+    sr_el: zajednica
     su: komunitas
     sv: gemenskap
     ta: குமுகம்
@@ -259,12 +259,12 @@ dv_has_:
     yo: àgbàjọ
     yue: 社群
     zh: 社群
-    zh-cn: 群体
-    zh-hans: 群体
-    zh-hant: 群體
-    zh-hk: 群體
-    zh-sg: 群体
-    zh-tw: 社群
+    zh_cn: 群体
+    zh_hans: 群体
+    zh_hant: 群體
+    zh_hk: 群體
+    zh_sg: 群体
+    zh_tw: 社群
     zu: ukuxhumana
 ---
 # [[Community]] 

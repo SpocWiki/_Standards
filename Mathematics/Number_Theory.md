@@ -160,7 +160,7 @@ dv_has_:
     ba: һандар теорияһы
     bcl: Teorya nin bilang
     be: тэорыя лікаў
-    be-tarask: тэорыя лікаў
+    be_tarask: тэорыя лікаў
     bg: теория на числата
     bn: সংখ্যাতত্ত্ব
     br: damkaniezh an niveroù
@@ -175,7 +175,7 @@ dv_has_:
     de: Zahlentheorie
     el: θεωρία αριθμών
     en: number theory
-    en-gb: number theory
+    en_gb: number theory
     eo: nombroteorio
     es: teoría de números
     et: arvuteooria
@@ -222,7 +222,7 @@ dv_has_:
     mn: тооны онол
     mr: अंकशास्त्र
     ms: teori nombor
-    ms-arab: تيوري نومبور
+    ms_arab: تيوري نومبور
     mt: teorija tan-numri
     my: ကိန်းသီအိုရီ
     nan: Sò͘-lūn
@@ -238,7 +238,7 @@ dv_has_:
     pms: teorìa dij nùmer
     pnb: نمبر تھیوری
     pt: teoria de números
-    pt-br: teoria dos números
+    pt_br: teoria dos números
     rki: ကိန်းသီအိုရီ
     ro: teoria numerelor
     ru: теория чисел
@@ -276,7 +276,7 @@ dv_has_:
     yi: נומערן טעאריע
     yue: 數論
     zh: 数论
-    zh-hans: 数论
+    zh_hans: 数论
 ---
 # [[Number_Theory]] 
 

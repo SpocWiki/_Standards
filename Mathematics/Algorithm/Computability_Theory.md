@@ -65,7 +65,7 @@ dv_has_:
     as: কম্পিউটেবিলিটি থিয়ৰী
     ast: Teoría de la computabilidad
     az: Hesablama nəzəriyyəsi
-    be-tarask: тэорыя вылічальнасьці
+    be_tarask: тэорыя вылічальнасьці
     bg: Изчислителна теория
     bn: গণনীয়তা তত্ত্ব (কম্পিউটার বিজ্ঞান)
     ca: teoria de la computabilitat
@@ -95,7 +95,7 @@ dv_has_:
     nl: berekenbaarheidstheorie
     pl: teoria obliczalności
     pt: teoria da computabilidade
-    pt-br: teoria da computabilidade
+    pt_br: teoria da computabilidade
     ro: teoria calculabilității
     ru: теория вычислимости
     sh: Teorija izračunljivosti (računarstvo)

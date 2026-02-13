@@ -176,7 +176,7 @@ dv_has_:
     ba: Һалым
     ban: Pajeg
     be: падатак
-    be-tarask: падатак
+    be_tarask: падатак
     bew: Belasting
     bg: данък
     bn: কর
@@ -195,8 +195,8 @@ dv_has_:
     de: Steuer
     el: φορολογία
     en: tax
-    en-ca: tax
-    en-gb: tax
+    en_ca: tax
+    en_gb: tax
     eo: imposto
     es: impuesto
     et: maksud
@@ -273,7 +273,7 @@ dv_has_:
     pnb: ٹیکس
     ps: ورکړېنه
     pt: imposto
-    pt-br: tributo
+    pt_br: tributo
     qu: impuwistu
     ro: impozit
     ru: налог
@@ -293,8 +293,8 @@ dv_has_:
     so: canshuurta
     sq: tatim
     sr: порез
-    sr-ec: порез
-    sr-el: porez
+    sr_ec: порез
+    sr_el: porez
     su: pajeg
     sv: skatt
     sw: kodi
@@ -305,7 +305,7 @@ dv_has_:
     tl: buwis
     tr: vergi
     tt: салым
-    tt-cyrl: салым
+    tt_cyrl: салым
     tyv: үндүрүг
     udm: выт
     uk: податок
@@ -318,14 +318,14 @@ dv_has_:
     yi: שטייער
     yue: 稅
     zh: 稅
-    zh-cn: 稅
-    zh-hans: 稅
-    zh-hant: 稅
-    zh-hk: 稅
-    zh-mo: 稅
+    zh_cn: 稅
+    zh_hans: 稅
+    zh_hant: 稅
+    zh_hk: 稅
+    zh_mo: 稅
     zh-my: 稅
-    zh-sg: 稅
-    zh-tw: 稅
+    zh_sg: 稅
+    zh_tw: 稅
     zu: Intela
 ---
 # [[Tax]] 

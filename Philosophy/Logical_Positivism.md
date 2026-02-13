@@ -80,7 +80,7 @@ dv_has_:
     ar: الوضعية المنطقية
     ast: Empirismu lóxicu
     be: Неапазітывізм
-    be-tarask: лягічны пазытывізм
+    be_tarask: лягічны пазытывізм
     bg: логически позитивизъм
     bn: যৌক্তিক ইতিবাদ
     ca: neopositivisme
@@ -90,8 +90,8 @@ dv_has_:
     de: logischer Empirismus
     el: λογικός θετικισμός
     en: logical positivism
-    en-ca: logical positivism
-    en-gb: logical positivism
+    en_ca: logical positivism
+    en_gb: logical positivism
     eo: logika empiriismo
     es: empirismo lógico
     et: loogiline empirism
@@ -111,11 +111,11 @@ dv_has_:
     ja: 論理実証主義
     ka: ლოგიკური პოზიტივიზმი
     kk: Логикалық атомизм
-    kk-arab: لوگىيكالىق اتومىيزم
+    kk_arab: لوگىيكالىق اتومىيزم
     kk-cn: لوگىيكالىق اتومىيزم
-    kk-cyrl: Логикалық атомизм
+    kk_cyrl: Логикалық атомизм
     kk-kz: Логикалық атомизм
-    kk-latn: Logïkalıq atomïzm
+    kk_latn: Logïkalıq atomïzm
     kk-tr: Logïkalıq atomïzm
     ko: 논리실증주의
     ky: Неопозитивизм
@@ -128,7 +128,7 @@ dv_has_:
     pl: Pozytywizm logiczny
     ps: منطقي مثبت اندي
     pt: positivismo lógico
-    pt-br: Positivismo lógico
+    pt_br: Positivismo lógico
     ro: Neopozitivism
     ru: Логический позитивизм
     sco: logical positivism
@@ -149,12 +149,12 @@ dv_has_:
     uz: Neopozitivizm
     vi: Chủ nghĩa thực chứng logic
     zh: 逻辑实证主义
-    zh-cn: 逻辑实证主义
-    zh-hans: 逻辑实证主义
-    zh-hant: 邏輯實證主義
-    zh-hk: 邏輯實證主義
-    zh-sg: 逻辑实证主义
-    zh-tw: 邏輯實證主義
+    zh_cn: 逻辑实证主义
+    zh_hans: 逻辑实证主义
+    zh_hant: 邏輯實證主義
+    zh_hk: 邏輯實證主義
+    zh_sg: 逻辑实证主义
+    zh_tw: 邏輯實證主義
 ---
 # [[Logical_Positivism]] 
 

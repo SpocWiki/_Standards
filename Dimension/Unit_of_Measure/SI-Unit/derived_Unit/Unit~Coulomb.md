@@ -98,7 +98,7 @@ dv_has_:
     az: kulon
     azb: کولون
     be: кулон
-    be-tarask: кулён
+    be_tarask: кулён
     bg: кулон
     bn: কুলম্ব
     bo: ཁུ་ལོམ།
@@ -141,7 +141,7 @@ dv_has_:
     ka: კულონი
     kaa: kulon
     kk: кулон
-    kk-cyrl: кулон
+    kk_cyrl: кулон
     ko: 쿨롱
     ku: coulomb
     ky: кулон
@@ -176,7 +176,7 @@ dv_has_:
     sk: coulomb
     sl: coulomb
     sr: кулон
-    sr-ec: Кулон
+    sr_ec: Кулон
     sv: coulomb
     ta: கூலும்
     tg: кулон
@@ -192,9 +192,9 @@ dv_has_:
     yi: קולאמב
     yue: 庫倫
     zh: 库仑
-    zh-hans: 库仑
-    zh-hant: 庫侖
-    zh-hk: 庫倫
+    zh_hans: 库仑
+    zh_hant: 庫侖
+    zh_hk: 庫倫
 ---
 # [[Unit~Coulomb]] 
 

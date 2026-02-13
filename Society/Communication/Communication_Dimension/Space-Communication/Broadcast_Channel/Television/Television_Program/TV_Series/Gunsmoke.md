@@ -78,7 +78,7 @@ dv_has_:
     am: Gunsmoke
     ar: غان سموك
     ast: Gunsmoke
-    be-tarask: Дымок з руля
+    be_tarask: Дымок з руля
     ca: Gunsmoke
     cs: Gunsmoke
     de: Rauchende Colts
@@ -107,10 +107,10 @@ dv_has_:
     tr: Gunsmoke
     uk: Димок зі ствола
     zh: 鐵腕明鎗
-    zh-hant: 鐵腕明鎗
+    zh_hant: 鐵腕明鎗
     zh-my: 枪烟满西城
-    zh-sg: 枪烟满西城
-    zh-tw: 鐵腕明鎗
+    zh_sg: 枪烟满西城
+    zh_tw: 鐵腕明鎗
 ---
 # [[Gunsmoke]] 
 

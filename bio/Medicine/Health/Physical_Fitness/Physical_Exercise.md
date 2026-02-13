@@ -131,7 +131,7 @@ dv_has_:
     ast: Exerciciu físicu
     az: Fiziki məşq
     ba: физик күнекмәләр
-    be-tarask: фізычныя практыкаваньні
+    be_tarask: фізычныя практыкаваньні
     bg: физическо упражнение
     bn: শারীরিক ব্যায়াম
     ca: exercici físic
@@ -143,8 +143,8 @@ dv_has_:
     de: körperliche Bewegung
     el: Άσκηση
     en: physical exercise
-    en-ca: Physical exercise
-    en-gb: physical exercise
+    en_ca: Physical exercise
+    en_gb: physical exercise
     eo: korpekzercado
     es: ejercicio físico
     et: kehaline aktiivsus
@@ -190,7 +190,7 @@ dv_has_:
     pap: ehercicio fisico
     pl: ćwiczenia fizyczne
     pt: exercício físico
-    pt-br: Exercício físico
+    pt_br: Exercício físico
     ro: exercițiu fizic
     ru: физические упражнения
     sa: व्यायामः

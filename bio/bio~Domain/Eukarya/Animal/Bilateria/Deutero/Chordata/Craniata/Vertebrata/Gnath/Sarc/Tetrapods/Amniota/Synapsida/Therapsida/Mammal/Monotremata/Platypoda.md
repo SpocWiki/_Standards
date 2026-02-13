@@ -51,7 +51,7 @@ dv_has_:
     oc: Platypoda
     pl: Platypoda
     pt: Platypoda
-    pt-br: Platypoda
+    pt_br: Platypoda
     ro: Platypoda
     ru: Platypoda
     sl: Platypoda
@@ -61,8 +61,8 @@ dv_has_:
     vo: Platypoda
     war: Platypoda
     zh: 扁足亚目
-    zh-cn: 扁足亚目
-    zh-tw: 扁足亞目
+    zh_cn: 扁足亚目
+    zh_tw: 扁足亞目
 ---
 # [[Platypoda]] 
 

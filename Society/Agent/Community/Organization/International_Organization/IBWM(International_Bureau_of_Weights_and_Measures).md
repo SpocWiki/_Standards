@@ -111,7 +111,7 @@ dv_has_:
     af: Internasionale Buro vir Mate en Gewigte
     ar: المكتب الدولي للأوزان والمقاييس
     ast: Oficina Internacional de Peses y Midíes
-    be-tarask: Міжнароднае бюро мераў і вагаў
+    be_tarask: Міжнароднае бюро мераў і вагаў
     bg: Международно бюро за мерки и теглилки
     bn: আন্তর্জাতিক ওজন ও পরিমাপ ব্যুরো
     br: Burev Etrebroadel ar Pouezioù hag ar Muzulioù
@@ -121,11 +121,11 @@ dv_has_:
     cs: Mezinárodní úřad pro míry a váhy
     da: Bureau International des Poids et Mesures
     de: Internationales Büro für Maß und Gewicht
-    de-ch: Internationales Büro für Mass und Gewicht
+    de_ch: Internationales Büro für Mass und Gewicht
     el: Διεθνές Γραφείο Μέτρων και Σταθμών
     en: International Bureau of Weights and Measures
-    en-ca: International Bureau of Weights and Measures
-    en-gb: International Bureau of Weights and Measures
+    en_ca: International Bureau of Weights and Measures
+    en_gb: International Bureau of Weights and Measures
     eo: Internacia Buroo pri Pezoj kaj Mezuroj
     es: Oficina Internacional de Pesas y Medidas
     et: Rahvusvaheline Kaalude ja Mõõtude Büroo
@@ -153,7 +153,7 @@ dv_has_:
     oc: Burèu Internacionau dei Pes e Mesuras
     pl: Międzynarodowe Biuro Miar i Wag
     pt: Escritório Internacional de Pesos e Medidas
-    pt-br: Escritório Internacional de Pesos e Medidas
+    pt_br: Escritório Internacional de Pesos e Medidas
     ro: Biroul Internațional de Măsuri și Greutăți
     ru: Международное бюро мер и весов
     rue: Меджинародный уряд на вагы и мѣры
@@ -161,8 +161,8 @@ dv_has_:
     sk: Medzinárodný úrad pre miery a váhy
     sl: Mednarodni urad za uteži in mere
     sr: Међународни биро за тегове и мере
-    sr-ec: Међународни биро за тегове и мере
-    sr-el: Međunarodni biro za tegove i mere
+    sr_ec: Међународни биро за тегове и мере
+    sr_el: Međunarodni biro za tegove i mere
     sv: Internationella byrån för mått och vikt
     sw: Ofisi ya Kimataifa ya Vipimo
     ta: பன்னாட்டு எடைகள் மற்றும் அளவைகள் ஆணையம்
@@ -175,14 +175,14 @@ dv_has_:
     vi: Văn phòng Cân đo Quốc tế
     yue: 國際度量衡局
     zh: 國際度量衡局
-    zh-cn: 国际计量局
-    zh-hans: 国际计量局
-    zh-hant: 國際度量衡局
-    zh-hk: 國際計量局
-    zh-mo: 國際計量局
+    zh_cn: 国际计量局
+    zh_hans: 国际计量局
+    zh_hant: 國際度量衡局
+    zh_hk: 國際計量局
+    zh_mo: 國際計量局
     zh-my: 国际计量局
-    zh-sg: 国际计量局
-    zh-tw: 國際度量衡局
+    zh_sg: 国际计量局
+    zh_tw: 國際度量衡局
 ---
 # [[IBWM(International_Bureau_of_Weights_and_Measures)]] 
 

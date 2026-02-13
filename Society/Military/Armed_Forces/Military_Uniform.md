@@ -72,7 +72,7 @@ dv_has_:
     az: Hərbi geyim
     ba: хәрби форма
     be: ваенная форма
-    be-tarask: вайсковая форма
+    be_tarask: вайсковая форма
     bn: সামরিক পোশাক
     br: gwiskamant milourel
     ca: uniforme militar
@@ -106,13 +106,13 @@ dv_has_:
     oc: Unifòrme militar
     pl: mundur wojskowy
     pt: uniforme militar
-    pt-br: uniforme militar
+    pt_br: uniforme militar
     ru: военная форма
     sh: Vojna uniforma
     sl: vojaška uniforma
     sq: Uniforma ushtarake
     sr: војна униформа
-    sr-ec: војна униформа
+    sr_ec: војна униформа
     sv: uniformsdräkt
     szl: mōndur
     tg: Либоси ҳарбӣ
@@ -123,10 +123,10 @@ dv_has_:
     vi: quân phục
     yue: 軍服
     zh: 军服
-    zh-hans: 军服
-    zh-hant: 軍服
-    zh-hk: 軍服
-    zh-tw: 軍服
+    zh_hans: 军服
+    zh_hant: 軍服
+    zh_hk: 軍服
+    zh_tw: 軍服
 ---
 # [[Military_Uniform]] 
 

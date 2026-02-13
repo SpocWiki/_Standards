@@ -46,7 +46,7 @@ dv_has_:
     arz: سانجريا
     az: Sanqriya
     be: Сангрыя
-    be-tarask: Сангрыя
+    be_tarask: Сангрыя
     bg: Сангрия
     br: sangria
     bs: Sangria
@@ -87,8 +87,8 @@ dv_has_:
     ru: Сангрия
     sl: sangrija
     sr: сангрија
-    sr-ec: сангрија
-    sr-el: sangrija
+    sr_ec: сангрија
+    sr_el: sangrija
     sv: Sangria
     th: ซังกริอา
     tl: Sangria

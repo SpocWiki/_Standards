@@ -144,7 +144,7 @@ dv_has_:
     azb: سیحیربازلیق
     bcl: Pangkukulam
     be: вядзьмарства
-    be-tarask: чараўнiцтва
+    be_tarask: чараўнiцтва
     bg: Вещерство
     bn: ডাকিনীবিদ্যা
     br: Sorserezh
@@ -210,7 +210,7 @@ dv_has_:
     pl: czarostwo
     pnb: جادو ٹوݨا
     pt: bruxaria
-    pt-br: bruxaria
+    pt_br: bruxaria
     qu: Layqa
     ro: vrăjitorie
     ru: колдовство
@@ -238,7 +238,7 @@ dv_has_:
     wuu: 巫术
     yue: 符法
     zh: 巫術
-    zh-tw: 巫術
+    zh_tw: 巫術
 ---
 # [[Witchcraft]] 
 

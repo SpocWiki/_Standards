@@ -82,7 +82,7 @@ dv_has_:
     ast: Federación Aeronáutica Internacional
     az: Beynəlxalq Aviasiya Federasiyası
     be: Міжнародная авіяцыйная федэрацыя
-    be-tarask: Міжнародная авіяцыйная фэдэрацыя
+    be_tarask: Міжнародная авіяцыйная фэдэрацыя
     bs: Međunarodna vazduhoplovna federacija
     ca: Fédération Aéronautique Internationale
     cs: Mezinárodní letecká federace
@@ -117,8 +117,8 @@ dv_has_:
     scn: FAI
     sl: Mednarodna letalska zveza
     sr: Међународна ваздухопловна федерација
-    sr-ec: Међународна ваздухопловна федерација
-    sr-el: Međunarodna vazduhoplovna federacija
+    sr_ec: Међународна ваздухопловна федерација
+    sr_el: Međunarodna vazduhoplovna federacija
     sv: Fédération Aéronautique Internationale
     sw: Federation Aeronautique Internationale
     tr: Uluslararası Havacılık Federasyonu
@@ -126,12 +126,12 @@ dv_has_:
     uk: Міжнародна федерація повітроплавання
     vi: Liên đoàn Thể thao hàng không Thế giới
     zh: 国际航空联合会
-    zh-cn: 国际航空联合会
-    zh-hans: 国际航空联合会
-    zh-hant: 國際航空聯盟
-    zh-hk: 國際航空聯盟
-    zh-sg: 国际航空联合会
-    zh-tw: 國際航空聯盟
+    zh_cn: 国际航空联合会
+    zh_hans: 国际航空联合会
+    zh_hant: 國際航空聯盟
+    zh_hk: 國際航空聯盟
+    zh_sg: 国际航空联合会
+    zh_tw: 國際航空聯盟
 ---
 # [[Fédération_Aéronautique_Internationale]] 
 

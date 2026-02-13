@@ -75,7 +75,7 @@ dv_has_:
     ast: Independentismu
     az: Separatçılıq
     be: сепаратызм
-    be-tarask: сэпаратызм
+    be_tarask: сэпаратызм
     bg: Сепаратизъм
     bn: বিচ্ছিন্নতাবাদ
     br: disrannouriezh
@@ -109,11 +109,11 @@ dv_has_:
     ja: 分離主義
     ka: სეპარატიზმი
     kk: Сепаратизм
-    kk-arab: سەپاراتىيزم
+    kk_arab: سەپاراتىيزم
     kk-cn: سەپاراتىيزم
-    kk-cyrl: Сепаратизм
+    kk_cyrl: Сепаратизм
     kk-kz: Сепаратизм
-    kk-latn: Separatïzm
+    kk_latn: Separatïzm
     kk-tr: Separatïzm
     ko: 분리주의
     ky: Сепартизм
@@ -149,8 +149,8 @@ dv_has_:
     sms: separatismm
     sq: Separatizmi
     sr: сепаратизам
-    sr-ec: Сепаратизам
-    sr-el: Separatizam
+    sr_ec: Сепаратизам
+    sr_el: Separatizam
     sv: separatism
     szl: Separatyzm
     tr: ayrılıkçılık
@@ -163,12 +163,12 @@ dv_has_:
     xmf: სეპარატიზმი
     yue: 分裂主義
     zh: 分離主義
-    zh-cn: 分离主义
-    zh-hans: 分离主义
-    zh-hant: 分離主義
-    zh-hk: 分離主義
-    zh-sg: 分离主义
-    zh-tw: 分離主義
+    zh_cn: 分离主义
+    zh_hans: 分离主义
+    zh_hant: 分離主義
+    zh_hk: 分離主義
+    zh_sg: 分离主义
+    zh_tw: 分離主義
 ---
 # [[Separatism]] 
 

@@ -108,7 +108,7 @@ dv_has_:
     ba: политеизм
     bar: Polytheismus
     be: політэізм
-    be-tarask: політэізм
+    be_tarask: політэізм
     bg: политеизъм
     bn: বহু-ঈশ্বরবাদ
     bo: ལྷ་མང་ཆོས་ལུགས།
@@ -125,11 +125,11 @@ dv_has_:
     cy: amldduwiaeth
     da: polyteisme
     de: Polytheismus
-    de-ch: Polytheismus
+    de_ch: Polytheismus
     el: πολυθεϊσμός
     en: polytheism
-    en-ca: polytheism
-    en-gb: polytheism
+    en_ca: polytheism
+    en_gb: polytheism
     eo: politeismo
     es: politeísmo
     et: polüteism
@@ -181,7 +181,7 @@ dv_has_:
     ml: ബഹുദൈവവിശ്വാസം
     mn: политеизм
     ms: politeisme
-    ms-arab: ڤوليتيئيسمى
+    ms_arab: ڤوليتيئيسمى
     my: နတ်ဘုရားအမျိုးမျိုးတို့ကိုကိုးကွယ်ခြင်း
     nan: to-sîn-kàu
     nb: polyteisme
@@ -196,7 +196,7 @@ dv_has_:
     pms: politeism
     pnb: پولیتھیازم
     pt: politeísmo
-    pt-br: politeísmo
+    pt_br: politeísmo
     ro: politeism
     ru: политеизм
     rue: політеізм
@@ -213,8 +213,8 @@ dv_has_:
     sms: polyteismm
     sq: politeizmi
     sr: политеизам
-    sr-ec: политеизам
-    sr-el: politeizam
+    sr_ec: политеизам
+    sr_el: politeizam
     sv: polyteism
     sw: dini ya miungu mingi
     ta: பல கடவுட் கொள்கை
@@ -236,8 +236,8 @@ dv_has_:
     yi: פאליטעאיזם
     yue: 多神敎
     zh: 多神论
-    zh-cn: 多神论
-    zh-hans: 多神论
+    zh_cn: 多神论
+    zh_hans: 多神论
 ---
 # [[Polytheism]] 
 

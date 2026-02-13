@@ -93,7 +93,7 @@ dv_has_:
     ast: socialismu democráticu
     az: demokratik sosializm
     be: дэмакратычны сацыялізм
-    be-tarask: дэмакратычны сацыялізм
+    be_tarask: дэмакратычны сацыялізм
     bg: Демократичен социализъм
     br: sokialouriezh demokratel
     bs: demokratski socijalizam
@@ -125,11 +125,11 @@ dv_has_:
     ja: 民主社会主義
     ka: დემოკრატიული სოციალიზმი
     kk: Демократиялық социализм
-    kk-arab: دەموكراتىييالىق سوتسىيالىيزم
+    kk_arab: دەموكراتىييالىق سوتسىيالىيزم
     kk-cn: دەموكراتىييالىق سوتسىيالىيزم
-    kk-cyrl: Демократиялық социализм
+    kk_cyrl: Демократиялық социализм
     kk-kz: Демократиялық социализм
-    kk-latn: Demokratïyalıq socïalïzm
+    kk_latn: Demokratïyalıq socïalïzm
     kk-tr: Demokratïyalıq socïalïzm
     ko: 민주사회주의
     krj: Demokrasyanhën nga Sosyalismo
@@ -142,7 +142,7 @@ dv_has_:
     lv: demokrātiskais sociālisms
     mk: демократски социјализам
     ms: sosialisme demokratik
-    ms-arab: سوسياليسمى ديموکراتيک
+    ms_arab: سوسياليسمى ديموکراتيک
     mt: soċjaliżmu demokratiku
     nb: demokratisk sosialisme
     ne: लोकतान्त्रिक समाजवाद
@@ -166,8 +166,8 @@ dv_has_:
     sms: demokraattlaž sosialismm
     sq: demokracia socialiste
     sr: демократски социјализам
-    sr-ec: Демократски социјализам
-    sr-el: Demokratski socijalizam
+    sr_ec: Демократски социјализам
+    sr_el: Demokratski socijalizam
     sv: demokratisk socialism
     tl: demokratikong sosyalismo
     tr: demokratik sosyalizm
@@ -179,12 +179,12 @@ dv_has_:
     vi: chủ nghĩa xã hội dân chủ
     yue: 民主社會主義
     zh: 民主社會主義
-    zh-cn: 民主社会主义
-    zh-hans: 民主社会主义
-    zh-hant: 民主社會主義
-    zh-hk: 民主社會主義
-    zh-sg: 民主社会主义
-    zh-tw: 民主社會主義
+    zh_cn: 民主社会主义
+    zh_hans: 民主社会主义
+    zh_hant: 民主社會主義
+    zh_hk: 民主社會主義
+    zh_sg: 民主社会主义
+    zh_tw: 民主社會主義
 ---
 # [[Democratic_Socialism]] 
 

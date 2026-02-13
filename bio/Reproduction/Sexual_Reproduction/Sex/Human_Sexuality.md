@@ -141,7 +141,7 @@ dv_has_:
     ba: кешенең шәһүәтлеғе
     bcl: sekswalidad nin tawo
     be: сексуальнасць чалавека
-    be-tarask: сэксуальнасьць чалавека
+    be_tarask: сэксуальнасьць чалавека
     bg: сексуалност
     bho: मानव कामुकता
     bn: মানব যৌনতা
@@ -154,11 +154,11 @@ dv_has_:
     cy: rhywioldeb dynol
     da: seksualitet
     de: Sexualität des Menschen
-    de-ch: Sexualität des Menschen
+    de_ch: Sexualität des Menschen
     el: ανθρώπινη σεξουαλικότητα
     en: human sexuality
-    en-ca: human sexuality
-    en-gb: human sexuality
+    en_ca: human sexuality
+    en_gb: human sexuality
     eo: homa sekseco
     es: sexualidad humana
     et: Seksuaalsuhe
@@ -196,7 +196,7 @@ dv_has_:
     my: လူသားတို့၏ လိင်မှုကိစ္စ
     nan: Jîn-lūi ê sèng
     nb: menneskelig seksualitet
-    nds-nl: seksualiteit by en menske
+    nds_nl: seksualiteit by en menske
     ne: मानव यौनिकता
     nl: menselijke seksualiteit
     nn: menneskeleg seksualitet
@@ -208,7 +208,7 @@ dv_has_:
     pnb: انسانی جنسیت
     ps: د انسان جنسي غوښتنې
     pt: sexualidade humana
-    pt-br: sexualidade humana
+    pt_br: sexualidade humana
     ro: sexualitate umană
     ru: сексуальность человека
     sc: sessualidade de s'òmine
@@ -219,8 +219,8 @@ dv_has_:
     sl: človeška spolnost
     sq: seksualiteti njerezor
     sr: људска сексуалност
-    sr-ec: људска сексуалност
-    sr-el: ljudska seksualnost
+    sr_ec: људска сексуалност
+    sr_el: ljudska seksualnost
     sv: mänsklig sexualitet
     ta: மாந்த பாலுணர்வியல்
     tg: майли ҷинсӣ дар инсон
@@ -240,12 +240,12 @@ dv_has_:
     yue: 人類性文化
     zea: seksualiteit
     zh: 人类的性
-    zh-cn: 人类的性
-    zh-hans: 人类的性
-    zh-hant: 人類的性
-    zh-hk: 人類的性
-    zh-sg: 人类的性
-    zh-tw: 人類的性
+    zh_cn: 人类的性
+    zh_hans: 人类的性
+    zh_hant: 人類的性
+    zh_hk: 人類的性
+    zh_sg: 人类的性
+    zh_tw: 人類的性
 ---
 # [[Human_Sexuality]] 
 

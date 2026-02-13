@@ -131,7 +131,7 @@ dv_has_:
     ast: moñeca
     az: gəlincik
     be: лялька
-    be-tarask: лялька
+    be_tarask: лялька
     bg: кукла
     bjn: aanakan
     bn: পুতুল
@@ -175,7 +175,7 @@ dv_has_:
     kn: ಗೊಂಬೆ
     ko: 인형
     ku: bûkoke
-    ku-latn: bûkoke
+    ku_latn: bûkoke
     ky: куурчак
     la: pupa
     lb: Popp
@@ -198,7 +198,7 @@ dv_has_:
     pa: ਗੁੱਡੀ
     pl: lalka
     pt: boneca
-    pt-br: boneca
+    pt_br: boneca
     qu: urpu
     ro: păpușă
     ru: кукла
@@ -210,8 +210,8 @@ dv_has_:
     sms: kuuhlaž
     sq: kukulla
     sr: лутка
-    sr-ec: лутка
-    sr-el: lutka
+    sr_ec: лутка
+    sr_el: lutka
     su: bonéka
     sv: docka
     te: బొమ్మ
@@ -227,12 +227,12 @@ dv_has_:
     wuu: 娃娃
     yue: 公仔
     zh: 玩偶
-    zh-cn: 玩偶
-    zh-hans: 玩偶
-    zh-hant: 玩偶
-    zh-hk: 玩偶
-    zh-sg: 玩偶
-    zh-tw: 玩偶
+    zh_cn: 玩偶
+    zh_hans: 玩偶
+    zh_hant: 玩偶
+    zh_hk: 玩偶
+    zh_sg: 玩偶
+    zh_tw: 玩偶
 ---
 # [[Doll]] 
 

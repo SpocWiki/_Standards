@@ -117,7 +117,7 @@ dv_has_:
     azb: آلفرد آدلر
     bar: Alfred Adler
     be: Альфрэд Адлер
-    be-tarask: Альфрэд Адлер
+    be_tarask: Альфрэд Адлер
     bg: Алфред Адлер
     bn: আলফ্রেড এ্যাডলার
     br: Alfred Adler
@@ -133,8 +133,8 @@ dv_has_:
     dsb: Alfred Adler
     el: Άλφρεντ Άντλερ
     en: Alfred Adler
-    en-ca: Alfred Adler
-    en-gb: Alfred Adler
+    en_ca: Alfred Adler
+    en_gb: Alfred Adler
     eo: Alfred Adler
     es: Alfred Adler
     et: Alfred Adler
@@ -158,17 +158,17 @@ dv_has_:
     jv: Alfred Adler
     ka: ალფრედ ადლერი
     kk: Альфред Адлер
-    kk-arab: الفرەد ادلەر
+    kk_arab: الفرەد ادلەر
     kk-cn: الفرەد ادلەر
-    kk-cyrl: Альфред Адлер
+    kk_cyrl: Альфред Адлер
     kk-kz: Альфред Адлер
-    kk-latn: Alʹfred Adler
+    kk_latn: Alʹfred Adler
     kk-tr: Alʹfred Adler
     kn: ಆಲ್ಫ್ರೆಡ್ ಅಡ್ಲರ್
     ko: 알프레트 아들러
     ku: Alfred Adler
-    ku-arab: ئالفرەدئا دلەر
-    ku-latn: Alfred Adler
+    ku_arab: ئالفرەدئا دلەر
+    ku_latn: Alfred Adler
     ky: Адлер
     la: Alfredus Adler
     lb: Alfred Adler
@@ -194,7 +194,7 @@ dv_has_:
     pms: Alfred Adler
     ps: الفریډ اډلر
     pt: Alfred Adler
-    pt-br: Alfred Adler
+    pt_br: Alfred Adler
     rmy: Alfred Adler
     ro: Alfred Adler
     ru: Альфред Адлер
@@ -204,8 +204,8 @@ dv_has_:
     sl: Alfred Adler
     sq: Alfred Adler
     sr: Алфред Адлер
-    sr-ec: Алфред Адлер
-    sr-el: Alfred Adler
+    sr_ec: Алфред Адлер
+    sr_el: Alfred Adler
     stq: Alfred Adler
     sv: Alfred Adler
     ta: ஆல்பிரெட் ஆட்லர்
@@ -219,12 +219,12 @@ dv_has_:
     yo: Alfred Adler
     yue: 亞弗列亞德勒
     zh: 阿尔弗雷德·阿德勒
-    zh-cn: 阿尔弗雷德·阿德勒
-    zh-hans: 阿尔弗雷德·阿德勒
-    zh-hant: 阿爾弗雷德·阿德勒
-    zh-hk: 阿爾弗雷德·阿德勒
-    zh-sg: 阿尔弗雷德·阿德勒
-    zh-tw: 阿爾弗雷德·阿德勒
+    zh_cn: 阿尔弗雷德·阿德勒
+    zh_hans: 阿尔弗雷德·阿德勒
+    zh_hant: 阿爾弗雷德·阿德勒
+    zh_hk: 阿爾弗雷德·阿德勒
+    zh_sg: 阿尔弗雷德·阿德勒
+    zh_tw: 阿爾弗雷德·阿德勒
 ---
 # [[Adler,Alfred]] 
 

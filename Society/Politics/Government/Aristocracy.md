@@ -10,7 +10,7 @@ dv_has_:
     az: Aristokratiya
     azb: آریستوْکراتییا
     be: арыстакратыя
-    be-tarask: арыстакратыя
+    be_tarask: арыстакратыя
     bg: Аристокрация
     bn: আভিজাত্য
     bs: Aristokratija
@@ -52,8 +52,8 @@ dv_has_:
     ko: 귀족제
     krc: аристократия
     ku: Arîstokrasî
-    ku-arab: ئاریستۆکراسی
-    ku-latn: Arîstokrasî
+    ku_arab: ئاریستۆکراسی
+    ku_latn: Arîstokrasî
     ky: Аристократия
     la: Aristocratia
     lt: aristokratija
@@ -62,7 +62,7 @@ dv_has_:
     mk: Аристократија
     ml: അഭിജാതാധിപത്യം
     ms: aristokrasi
-    ms-arab: اريستوکراسي
+    ms_arab: اريستوکراسي
     nb: aristokrati
     ne: अभिजाततन्त्र
     nl: aristocratie
@@ -87,8 +87,8 @@ dv_has_:
     sms: aristokratia
     sq: Aristokracia
     sr: аристократија
-    sr-ec: Аристократија
-    sr-el: Aristokratija
+    sr_ec: Аристократија
+    sr_el: Aristokratija
     su: Aristokrasi
     sv: aristokrati
     tg: нухбасолорӣ
@@ -104,12 +104,12 @@ dv_has_:
     xmf: არისტოკრატია
     yue: 貴族制
     zh: 贵族制
-    zh-cn: 贵族制
-    zh-hans: 贵族制
-    zh-hant: 貴族制
-    zh-hk: 貴族制
-    zh-sg: 贵族制
-    zh-tw: 貴族制
+    zh_cn: 贵族制
+    zh_hans: 贵族制
+    zh_hant: 貴族制
+    zh_hk: 貴族制
+    zh_sg: 贵族制
+    zh_tw: 貴族制
 aliases:
 - aristocracia
 - aristocracy

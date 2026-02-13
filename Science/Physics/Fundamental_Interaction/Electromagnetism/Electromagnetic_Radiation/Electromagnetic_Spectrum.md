@@ -102,7 +102,7 @@ dv_has_:
     ar: طيف كهرطيسي
     ast: espectru electromagnéticu
     az: elektromaqnit spektr
-    be-tarask: электрамагнітны спэктар
+    be_tarask: электрамагнітны спэктар
     bg: електромагнитен спектър
     bn: তড়িৎচৌম্বক বর্ণালী
     bs: elektromagnetni spektar
@@ -136,11 +136,11 @@ dv_has_:
     ja: 電磁スペクトル
     jv: spektrum elektromagnetik
     kk: оптикалық спектр
-    kk-arab: وپتىيكالىق سپەكتر
+    kk_arab: وپتىيكالىق سپەكتر
     kk-cn: وپتىيكالىق سپەكتر
-    kk-cyrl: оптикалық спектр
+    kk_cyrl: оптикалық спектр
     kk-kz: оптикалық спектр
-    kk-latn: optïkalıq spektr
+    kk_latn: optïkalıq spektr
     kk-tr: optïkalıq spektr
     ko: 전자기 스펙트럼
     ku: şebenga karomiqnatîsî
@@ -154,7 +154,7 @@ dv_has_:
     ml: വിദ്യുത്കാന്തിക വർണ്ണരാജി
     mn: цахилгаан соронзон спектр
     ms: spektrum elektromagnet
-    ms-arab: سڤيکتروم ايليکترومݢنيت
+    ms_arab: سڤيکتروم ايليکترومݢنيت
     nb: elektromagnetisk spekter
     nl: elektromagnetisch spectrum
     nn: elektromagnetisk spektrum
@@ -172,8 +172,8 @@ dv_has_:
     smn: šleđgâmagneetlâš spektri
     sq: spektri
     sr: електромагнетски спектар
-    sr-ec: електромагнетски спектар
-    sr-el: elektromagnetski spektar
+    sr_ec: електромагнетски спектар
+    sr_el: elektromagnetski spektar
     su: spéktrum éléktromagnétik
     sv: elektromagnetiskt spektrum
     sw: spektra
@@ -189,12 +189,12 @@ dv_has_:
     wuu: 电磁波谱
     yue: 電磁波譜
     zh: 電磁波譜
-    zh-cn: 电磁波谱
-    zh-hans: 电磁波谱
-    zh-hant: 電磁波譜
-    zh-hk: 電磁波譜
-    zh-sg: 电磁波谱
-    zh-tw: 電磁波譜
+    zh_cn: 电磁波谱
+    zh_hans: 电磁波谱
+    zh_hant: 電磁波譜
+    zh_hk: 電磁波譜
+    zh_sg: 电磁波谱
+    zh_tw: 電磁波譜
 ---
 # [[Electromagnetic_Spectrum]] 
 

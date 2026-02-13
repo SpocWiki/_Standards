@@ -143,7 +143,7 @@ dv_has_:
     ba: Хафиз Ширази
     bar: Hafis
     be: Хафіз Шыразі
-    be-tarask: Гафіз
+    be_tarask: Гафіз
     bew: Hapis
     bg: Хафез
     bi: Hafez
@@ -161,11 +161,11 @@ dv_has_:
     cy: Hafez
     da: Hafez
     de: Hafis
-    de-ch: Hafis
+    de_ch: Hafis
     el: Χαφέζ
     en: Hafez
-    en-ca: Hafez
-    en-gb: Hafez
+    en_ca: Hafez
+    en_gb: Hafez
     eo: Hafizo
     es: Hafez de Shiraz
     et: Ḩāfez̧
@@ -235,7 +235,7 @@ dv_has_:
     pnb: حافظ شیرازی
     ps: حافظ شېرازي
     pt: Hafez
-    pt-br: Hafez
+    pt_br: Hafez
     ro: Hafez
     ru: Хафиз Ширази
     rue: Гафіз
@@ -247,7 +247,7 @@ dv_has_:
     sl: Hafis
     sq: Hafez
     sr: Мухамед Шемсудин Хафиз
-    sr-ec: Мухамед Шемсудин Хафиз
+    sr_ec: Мухамед Шемсудин Хафиз
     sv: Hafez
     sw: Hafez
     ta: ஹாஃபீசு

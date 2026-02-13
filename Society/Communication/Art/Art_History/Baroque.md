@@ -106,7 +106,7 @@ dv_has_:
     ba: Барокко
     bar: Barock
     be: барока
-    be-tarask: барока
+    be_tarask: барока
     bg: Барок
     bn: বারোক
     bs: Barok
@@ -174,7 +174,7 @@ dv_has_:
     nap: Barocco
     nb: barokken
     nds: Barock
-    nds-nl: barok
+    nds_nl: barok
     new: बारोक
     nl: barok
     nn: barokken
@@ -186,7 +186,7 @@ dv_has_:
     pnb: بیرک
     ps: باروک
     pt: barroco
-    pt-br: barroco
+    pt_br: barroco
     ro: baroc
     ru: барокко
     rue: Бароко
@@ -201,8 +201,8 @@ dv_has_:
     sms: barokk
     sq: Baroku
     sr: барок
-    sr-ec: барок
-    sr-el: barok
+    sr_ec: барок
+    sr_el: barok
     stq: Barock
     sv: barocken
     sw: Baroko
@@ -223,9 +223,9 @@ dv_has_:
     xmf: ბაროკო
     yue: 巴洛克
     zh: 巴洛克艺术
-    zh-hant: 巴洛克藝術
-    zh-hk: 巴洛克藝術
-    zh-tw: 巴洛克藝術
+    zh_hant: 巴洛克藝術
+    zh_hk: 巴洛克藝術
+    zh_tw: 巴洛克藝術
 ---
 # [[Baroque]] 
 

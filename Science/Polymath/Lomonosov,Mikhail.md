@@ -177,7 +177,7 @@ dv_has_:
     azb: میخاییل لومونسف
     ba: Ломоносов Михаил Васильевич
     be: Міхаіл Васілевіч Ламаносаў
-    be-tarask: Міхаіл Ламаносаў
+    be_tarask: Міхаіл Ламаносаў
     bg: Михаил Ломоносов
     bn: মিখাইল লোমোনোসভ
     bs: Mihail Vasiljevič Lomonosov
@@ -190,8 +190,8 @@ dv_has_:
     de: Michail Wassiljewitsch Lomonossow
     el: Μιχαήλ Λομονόσοφ
     en: Mikhail Lomonosov
-    en-ca: Mikhail Vassilyevich Lomonosov
-    en-gb: Mikhail Vassilyevich Lomonosov
+    en_ca: Mikhail Vassilyevich Lomonosov
+    en_gb: Mikhail Vassilyevich Lomonosov
     eo: Miĥail Lomonosov
     es: Mijaíl Lomonósov
     et: Mihhail Lomonossov
@@ -235,7 +235,7 @@ dv_has_:
     pnb: مخائیل لومونوسوف
     ps: ميخايل لومونوسوف
     pt: Mikhail Lomonossov
-    pt-br: Mikhail Lomonossov
+    pt_br: Mikhail Lomonossov
     qu: Mikhail Lomonosov
     ro: Mihail Lomonosov
     ru: Михаил Васильевич Ломоносов
@@ -250,7 +250,7 @@ dv_has_:
     sw: Mikhail Lomonosov
     ta: மிகைல் இலமனோசொவ்
     tg: Михаил Ломоносов
-    tg-cyrl: Михаил Василевич Ломоносов
+    tg_cyrl: Михаил Василевич Ломоносов
     tr: Mihail Lomonosov
     tt: Михаил Ломоносов
     tyv: Ломоносов
@@ -263,8 +263,8 @@ dv_has_:
     wuu: 米哈伊尔·瓦西里耶维奇·罗蒙诺索夫
     yue: 羅蒙諾索夫
     zh: 米哈伊爾·瓦西里耶維奇·羅蒙諾索夫
-    zh-hant: 米哈伊爾·瓦西里耶維奇·羅蒙諾索夫
-    zh-tw: 米哈伊爾·瓦西里耶維奇·羅蒙諾索夫
+    zh_hant: 米哈伊爾·瓦西里耶維奇·羅蒙諾索夫
+    zh_tw: 米哈伊爾·瓦西里耶維奇·羅蒙諾索夫
 ---
 # [[Lomonosov,Mikhail]] 
 

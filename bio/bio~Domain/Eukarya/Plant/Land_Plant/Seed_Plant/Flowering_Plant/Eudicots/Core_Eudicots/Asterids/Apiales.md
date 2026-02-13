@@ -66,7 +66,7 @@ dv_has_:
     az: Kərəvizçiçəklilər
     ba: сатыр сәскәлеләр
     be: парасонакветныя
-    be-tarask: парасонакветныя
+    be_tarask: парасонакветныя
     bg: сенникоцветни
     bs: Apiales
     ca: Apials
@@ -76,8 +76,8 @@ dv_has_:
     de: Doldenblütlerartige
     el: σελινώδη
     en: Apiales
-    en-ca: Apiales
-    en-gb: Apiales
+    en_ca: Apiales
+    en_gb: Apiales
     eo: apialoj
     es: Apiales
     et: sarikalaadsed
@@ -119,7 +119,7 @@ dv_has_:
     pl: selerowce
     pms: Apiales
     pt: Apiales
-    pt-br: Apiales
+    pt_br: Apiales
     ro: Apiales
     ru: зонтикоцветные
     sco: Apiales
@@ -140,9 +140,9 @@ dv_has_:
     wuu: 伞形目
     yue: 傘形目
     zh: 伞形目
-    zh-cn: 伞形目
-    zh-hans: 伞形目
-    zh-hant: 伞形目
+    zh_cn: 伞形目
+    zh_hans: 伞形目
+    zh_hant: 伞形目
 ---
 # [[Apiales]] 
 

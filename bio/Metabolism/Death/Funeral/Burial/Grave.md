@@ -9,7 +9,7 @@ dv_has_:
     az: qəbir
     azb: مزار
     be: магіла
-    be-tarask: магіла
+    be_tarask: магіла
     bg: гроб
     bn: কবর
     br: bez
@@ -56,16 +56,16 @@ dv_has_:
     kaa: qábir
     kcg: a̱bi
     kk: көр
-    kk-arab: موگىيلا
+    kk_arab: موگىيلا
     kk-cn: موگىيلا
-    kk-cyrl: могила
+    kk_cyrl: могила
     kk-kz: могила
-    kk-latn: mogïla
+    kk_latn: mogïla
     kk-tr: mogïla
     ko: 묘소
     ks: قبر
     ku: gor
-    ku-latn: gor
+    ku_latn: gor
     kv: гу
     lb: Graf
     lt: kapas
@@ -90,7 +90,7 @@ dv_has_:
     pnt: ταφίν
     ps: هديره
     pt: túmulo
-    pt-br: túmulo
+    pt_br: túmulo
     ro: mormânt
     ru: могила
     rup: murmintu
@@ -112,13 +112,13 @@ dv_has_:
     ta: கல்லறை
     te: సమాధి
     tg: қабр
-    tg-latn: qabr
+    tg_latn: qabr
     th: หลุมศพ
     tk: gabyr
     tr: mezar
     trv: habung
     tt: кабер
-    tt-cyrl: кабер
+    tt_cyrl: кабер
     uk: могила
     ur: قبر
     uz: qabr
@@ -129,12 +129,12 @@ dv_has_:
     yo: ibojì
     yue: 墳墓
     zh: 坟墓
-    zh-cn: 坟墓
-    zh-hans: 坟墓
-    zh-hant: 墳墓
-    zh-hk: 墳墓
-    zh-sg: 坟墓
-    zh-tw: 墳墓
+    zh_cn: 坟墓
+    zh_hans: 坟墓
+    zh_hant: 墳墓
+    zh_hk: 墳墓
+    zh_sg: 坟墓
+    zh_tw: 墳墓
 aliases:
 - a̱bi
 - balata

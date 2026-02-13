@@ -83,7 +83,7 @@ dv_has_:
     ar: تصميم المناظر الطبيعية
     ast: Arquiteutura del paisaxe
     be: ландшафтная архітэктура
-    be-tarask: ляндшафтная архітэктура
+    be_tarask: ляндшафтная архітэктура
     bg: Ландшафтна архитектура
     bs: Pejzažna arhitektura
     ca: arquitectura de paisatge
@@ -93,8 +93,8 @@ dv_has_:
     de: Landschaftsarchitektur
     el: αρχιτεκτονική τοπίου
     en: landscape architecture
-    en-ca: Landscape architecture
-    en-gb: landscape architecture
+    en_ca: Landscape architecture
+    en_gb: landscape architecture
     eo: pejzaĝarkitekturo
     es: arquitectura del paisaje
     et: maastikuarhitektuur
@@ -128,7 +128,7 @@ dv_has_:
     nn: Landskapsarkitektur
     pl: architektura krajobrazu
     pt: arquitetura paisagista
-    pt-br: arquitetura paisagística
+    pt_br: arquitetura paisagística
     ro: arhitectură peisagistică
     ru: ландшафтная архитектура
     sh: pejzažna arhitektura

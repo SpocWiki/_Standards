@@ -124,7 +124,7 @@ dv_has_:
     ba: Двигатель
     bar: Motoa
     be: рухавік
-    be-tarask: рухавік
+    be_tarask: рухавік
     bg: Двигател
     bn: ইঞ্জিন
     bo: ཤེད་འཕྲུལ།
@@ -137,11 +137,11 @@ dv_has_:
     cy: injan
     da: motor
     de: Motor
-    de-ch: Motor
+    de_ch: Motor
     el: Κινητήρας
     en: engine
-    en-ca: Engine
-    en-gb: engine
+    en_ca: Engine
+    en_gb: engine
     eo: motoro
     es: motor
     et: mootor
@@ -198,7 +198,7 @@ dv_has_:
     pms: Motor
     pnb: انجݨ
     pt: motor
-    pt-br: motor
+    pt_br: motor
     qu: Kuyuchina
     ro: motor
     ru: двигатель
@@ -221,8 +221,8 @@ dv_has_:
     so: Matoor
     sq: Motori
     sr: мотор
-    sr-ec: мотор
-    sr-el: motor
+    sr_ec: мотор
+    sr_el: motor
     sv: motor
     sw: Injini
     szl: Motor
@@ -232,7 +232,7 @@ dv_has_:
     th: เครื่องยนต์
     tr: Motor
     tt: кузгалткыч
-    tt-cyrl: йөрткеч
+    tt_cyrl: йөрткеч
     uk: двигун
     ur: انجن
     uz: Dvigatel
@@ -244,11 +244,11 @@ dv_has_:
     yi: מאטאר
     yue: 摩打
     zh: 发动机
-    zh-cn: 发动机
-    zh-hans: 发动机
-    zh-hant: 發動機
-    zh-sg: 发动机
-    zh-tw: 發動機
+    zh_cn: 发动机
+    zh_hans: 发动机
+    zh_hant: 發動機
+    zh_sg: 发动机
+    zh_tw: 發動機
     zu: Isilumbamdiki
 ---
 # [[Engine]] 

@@ -13,7 +13,7 @@ dv_has_:
     azb: سو چیچکی
     bar: Schafblattern
     be: Ветраная воспа
-    be-tarask: ветраная воспа
+    be_tarask: ветраная воспа
     bg: Варицела
     bn: জলবসন্ত
     ca: varicel·la
@@ -58,7 +58,7 @@ dv_has_:
     kn: ಗಣಜಿಲೆ
     ko: 수두
     ks: واوٕ پتؠ
-    ku-latn: xuriya mirîşkan
+    ku_latn: xuriya mirîşkan
     ky: Суу Чечек
     la: Varicella
     lb: Waasserpouken
@@ -94,7 +94,7 @@ dv_has_:
     so: Busbus
     sq: Variqela
     sr: варичела
-    sr-ec: варичела
+    sr_ec: варичела
     su: Cacar
     sv: vattkoppor
     sw: Tetekuwanga

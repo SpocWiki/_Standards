@@ -95,7 +95,7 @@ dv_has_:
     ar: تشابك كمي
     ary: تخبال كوانتي
     ast: entellazamientu cuánticu
-    be-tarask: квантавая заблытанасьць
+    be_tarask: квантавая заблытанасьць
     bg: квантово заплитане
     bn: কোয়ান্টাম বিজড়ন
     bs: kvantna zapetljanost
@@ -105,8 +105,8 @@ dv_has_:
     de: Quantenverschränkung
     el: κβαντική διεμπλοκή
     en: quantum entanglement
-    en-ca: quantum entanglement
-    en-gb: quantum entanglement
+    en_ca: quantum entanglement
+    en_gb: quantum entanglement
     eo: kvantuma impliko
     es: entrelazamiento cuántico
     et: põimumine
@@ -147,7 +147,7 @@ dv_has_:
     pa: ਕੁਆਂਟਮ ਇੰਟੈਗਲਮੈਂਟ
     pl: stan splątany
     pt: entrelaçamento quântico
-    pt-br: entrelaçamento quântico
+    pt_br: entrelaçamento quântico
     pwn: mapareumalj a quantum
     ro: entanglement cuantic
     ru: квантовая запутанность
@@ -168,12 +168,12 @@ dv_has_:
     wuu: 量子纠缠
     yue: 量子糾纏
     zh: 量子糾纏
-    zh-cn: 量子纠缠
-    zh-hans: 量子纠缠
-    zh-hant: 量子纏結
-    zh-hk: 量子纏結
-    zh-sg: 量子纠缠
-    zh-tw: 量子纏結
+    zh_cn: 量子纠缠
+    zh_hans: 量子纠缠
+    zh_hant: 量子纏結
+    zh_hk: 量子纏結
+    zh_sg: 量子纠缠
+    zh_tw: 量子纏結
     zu: Ukuphixana kohoyana
 ---
 # [[Quantum_Entanglement]] 

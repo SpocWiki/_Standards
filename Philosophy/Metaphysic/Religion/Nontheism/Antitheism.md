@@ -42,7 +42,7 @@ dv_has_:
   name_:
     ar: معاداة الألوهية
     ast: antiteísmu
-    be-tarask: антытэізм
+    be_tarask: антытэізм
     bg: Антитеизъм
     bn: আস্তিক্যবাদ বিরোধিতা
     bs: Antiteizam
@@ -53,8 +53,8 @@ dv_has_:
     diq: Antiteizm
     el: Αντιθεϊσμός
     en: antitheism
-    en-ca: Antitheism
-    en-gb: Antitheism
+    en_ca: Antitheism
+    en_gb: Antitheism
     eo: antiteismo
     es: antiteísmo
     eu: antiteismo
@@ -76,7 +76,7 @@ dv_has_:
     nl: antitheïsme
     pl: Antyteizm
     pt: Antiteísmo
-    pt-br: Antiteísmo
+    pt_br: Antiteísmo
     ro: antiteism
     ru: Антитеизм
     sh: Antiteizam
@@ -89,7 +89,7 @@ dv_has_:
     vi: Chủ nghĩa phản thần
     yi: אַנטיטעאיזם
     zh: 反神论
-    zh-tw: 反神論
+    zh_tw: 反神論
 ---
 # [[Antitheism]] 
 

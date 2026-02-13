@@ -143,7 +143,7 @@ dv_has_:
     azb: باریت
     ba: дары
     be: дымны порах
-    be-tarask: дымны порах
+    be_tarask: дымны порах
     bew: obat bedil
     bg: барут
     bho: बारूद
@@ -160,7 +160,7 @@ dv_has_:
     cy: powdwr gwn
     da: krudt
     de: Schwarzpulver
-    de-ch: Schwarzpulver
+    de_ch: Schwarzpulver
     el: Πυρίτιδα
     en: gunpowder
     eo: nigra pulvo
@@ -224,7 +224,7 @@ dv_has_:
     pnb: گن پاؤڈر
     ps: باروت
     pt: pólvora
-    pt-br: pólvora
+    pt_br: pólvora
     qu: ratata allpa
     ro: praf de pușcă
     ru: дымный порох
@@ -260,8 +260,8 @@ dv_has_:
     yi: שיספולווער
     yue: 黑火藥
     zh: 黑火藥
-    zh-hans: 黑火药
-    zh-hant: 黑火藥
+    zh_hans: 黑火药
+    zh_hant: 黑火藥
 ---
 # [[Gunpowder]] 
 

@@ -87,7 +87,7 @@ dv_has_:
     ast: física atómica
     az: atom fizikası
     be: атамная фізіка
-    be-tarask: атамная фізыка
+    be_tarask: атамная фізыка
     bg: атомна физика
     bn: পারমাণবিক পদার্থবিজ্ঞান
     bs: atomska fizika
@@ -99,8 +99,8 @@ dv_has_:
     de: Atomphysik
     el: ατομική φυσική
     en: atomic physics
-    en-ca: atomic physics
-    en-gb: atomic physics
+    en_ca: atomic physics
+    en_gb: atomic physics
     eo: atoma fiziko
     es: física atómica
     et: aatomifüüsika
@@ -143,7 +143,7 @@ dv_has_:
     oc: Fisica atomica
     pl: fizyka atomowa
     pt: física atômica
-    pt-br: física atômica
+    pt_br: física atômica
     ro: fizică atomică
     ru: атомная физика
     sh: atomska fizika
@@ -166,8 +166,8 @@ dv_has_:
     yue: 原子物理學
     zea: atoomfysica
     zh: 原子物理学
-    zh-cn: 原子物理学
-    zh-hans: 原子物理学
+    zh_cn: 原子物理学
+    zh_hans: 原子物理学
 ---
 # [[Atomic_Physics]] 
 

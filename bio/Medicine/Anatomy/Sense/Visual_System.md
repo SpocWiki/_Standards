@@ -72,7 +72,7 @@ dv_has_:
     ar: جهاز الرؤية
     az: Görmə sistemi
     be: зрок
-    be-tarask: зрокавая сыстэма
+    be_tarask: зрокавая сыстэма
     bn: দর্শন ইন্দ্রিয়
     ca: sistema visual
     cs: zrakový systém
@@ -122,16 +122,16 @@ dv_has_:
     tl: Sistemang pantanaw
     tr: Vizüel sistem
     tt: күрү
-    tt-cyrl: күрү
+    tt_cyrl: күрү
     uk: зоровий аналізатор
     uz: Insonning koʻruv tizimi
     vec: vizion
     vi: hệ thống thị giác
     yue: 視覺系統
     zh: 视觉系统
-    zh-hans: 视觉系统
-    zh-hant: 視覺系統
-    zh-hk: 視覺系統
+    zh_hans: 视觉系统
+    zh_hant: 視覺系統
+    zh_hk: 視覺系統
 ---
 # [[Visual_System]] 
 

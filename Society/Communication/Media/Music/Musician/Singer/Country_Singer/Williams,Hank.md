@@ -118,7 +118,7 @@ dv_has_:
     azb: هنک ویلیامز
     bar: Hank Williams
     be: Хэнк Уільямс
-    be-tarask: Гэнк Ўільямз
+    be_tarask: Гэнк Ўільямз
     bg: Ханк Уилямс
     bm: Hank Williams
     bn: হ্যাঙ্ক উইলিয়ামস
@@ -132,11 +132,11 @@ dv_has_:
     dag: Hank Williams
     de: Hank Williams
     de-at: Hank Williams
-    de-ch: Hank Williams
+    de_ch: Hank Williams
     el: Χανκ Γουίλιαμς
     en: Hank Williams
-    en-ca: Hank Williams
-    en-gb: Hank Williams
+    en_ca: Hank Williams
+    en_gb: Hank Williams
     en-us: Hank Williams
     eo: Hank Williams
     es: Hank Williams
@@ -181,7 +181,7 @@ dv_has_:
     nap: Hank Williams
     nb: Hank Williams
     nds: Hank Williams
-    nds-nl: Hank Williams
+    nds_nl: Hank Williams
     nl: Hank Williams
     nn: Hank Williams
     nrm: Hank Williams
@@ -194,7 +194,7 @@ dv_has_:
     pnb: ہینک ویلیمز
     prg: Hank Williams
     pt: Hank Williams
-    pt-br: Hank Williams
+    pt_br: Hank Williams
     rgn: Hank Williams
     rm: Hank Williams
     ro: Hank Williams
@@ -207,8 +207,8 @@ dv_has_:
     sl: Hank Williams
     sq: Hank Williams
     sr: Хенк Вилијамс
-    sr-ec: Хенк Вилијамс
-    sr-el: Henk Vilijams
+    sr_ec: Хенк Вилијамс
+    sr_el: Henk Vilijams
     sv: Hank Williams
     sw: Hank Williams
     th: แฮงก์ วิลเลียมส์
@@ -227,12 +227,12 @@ dv_has_:
     yue: 漢威廉斯
     zea: Hank Williams
     zh: 漢克·威廉斯
-    zh-cn: 汉克·威廉斯
-    zh-hans: 汉克·威廉斯
-    zh-hant: 漢克·威廉斯
-    zh-hk: 漢克·威廉斯
-    zh-sg: 汉克·威廉斯
-    zh-tw: 漢克·威廉斯
+    zh_cn: 汉克·威廉斯
+    zh_hans: 汉克·威廉斯
+    zh_hant: 漢克·威廉斯
+    zh_hk: 漢克·威廉斯
+    zh_sg: 汉克·威廉斯
+    zh_tw: 漢克·威廉斯
     zu: Hank Williams
 ---
 # [[Williams,Hank]] 

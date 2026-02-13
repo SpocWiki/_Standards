@@ -165,7 +165,7 @@ dv_has_:
     ban: Kresna
     bcl: Krishna
     be: Крышна
-    be-tarask: Крышна
+    be_tarask: Крышна
     bg: Кришна
     bho: कृष्ण
     bjn: Kresna
@@ -192,7 +192,7 @@ dv_has_:
     gl: Krishna
     gom: कृष्ण
     gom-deva: कृष्ण
-    gom-latn: Krishna
+    gom_latn: Krishna
     gsw: Krishna
     gu: કૃષ્ણ
     ha: Krishna
@@ -222,7 +222,7 @@ dv_has_:
     lzh: 黑天
     mag: कृष्ण
     mai: श्री कृष्ण
-    map-bms: Kresna
+    map_bms: Kresna
     mg: Krishna
     mk: Кришна
     ml: കൃഷ്ണൻ
@@ -230,7 +230,7 @@ dv_has_:
     mni: ꯀ꯭ꯔꯤꯁꯅ
     mr: कृष्ण
     ms: Krishna
-    ms-arab: کريشنا
+    ms_arab: کريشنا
     my: ကရစ်ရှနား
     nb: Krishna
     ne: श्रीकृष्ण अवतार
@@ -278,9 +278,9 @@ dv_has_:
     xmf: კრიშნა
     yue: 黑天
     zh: 黑天
-    zh-cn: 黑天
-    zh-hans: 黑天
-    zh-hant: 黑天
+    zh_cn: 黑天
+    zh_hans: 黑天
+    zh_hant: 黑天
     zu: Krishna
 ---
 # [[Krishna]] 

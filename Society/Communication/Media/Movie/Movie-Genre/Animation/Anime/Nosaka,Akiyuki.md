@@ -27,7 +27,7 @@ dv_has_:
     pap: Akiyuki Nosaka
     pl: Akiyuki Nosaka
     pt: Akiyuki Nosaka
-    pt-br: Akiyuki Nosaka
+    pt_br: Akiyuki Nosaka
     ro: Akiyuki Nosaka
     ru: Акиюки Носака
     sq: AAkiyuki Nosaka

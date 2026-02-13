@@ -7,7 +7,7 @@ dv_has_:
     ast: fotodiodu
     az: Fotodiod
     be: фотадыёд
-    be-tarask: фотадыёд
+    be_tarask: фотадыёд
     bg: Фотодиод
     ca: fotodíode
     cs: fotodioda
@@ -15,8 +15,8 @@ dv_has_:
     de: Photodiode
     el: Φωτοδίοδος
     en: photodiode
-    en-ca: Photodiode
-    en-gb: photodiode
+    en_ca: Photodiode
+    en_gb: photodiode
     eo: fotodiodo
     es: fotodiodo
     et: Fotodiood
@@ -45,7 +45,7 @@ dv_has_:
     oc: Fotodiòde
     pl: fotodioda półprzewodnikowa
     pt: fotodíodo
-    pt-br: fotodiodo
+    pt_br: fotodiodo
     ro: fotodiodă
     ru: фотодиод
     sh: Fotodioda
@@ -53,8 +53,8 @@ dv_has_:
     sl: fotodioda
     sq: Fotodioda
     sr: фотодиода
-    sr-ec: фотодиода
-    sr-el: fotodioda
+    sr_ec: фотодиода
+    sr_el: fotodioda
     sv: Fotodiod
     ta: ஒளியுணர் இருமுனையம்
     tg: Фотодиод
@@ -66,7 +66,7 @@ dv_has_:
     wuu: 光电二极管
     yue: 光電二極管
     zh: 光电二极管
-    zh-cn: 光电二极管
+    zh_cn: 光电二极管
 aliases:
 - Diode quang
 - Fotodiod

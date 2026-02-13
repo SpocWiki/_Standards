@@ -440,7 +440,7 @@ dv_has_:
     ace: Bahsa Arab
     acm: العربية
     ady: Арапыбзэ
-    aeb-arab: العربي
+    aeb_arab: العربي
     af: Arabies
     am: ዓረብኛ
     an: idioma arabe
@@ -462,7 +462,7 @@ dv_has_:
     bar: Arabisch
     bcl: Arabe
     be: арабская мова
-    be-tarask: арабская мова
+    be_tarask: арабская мова
     bew: Basa Arab
     bg: арабски език
     bho: अरबी भाषा
@@ -482,7 +482,7 @@ dv_has_:
     ckb: زمانی عەرەبی
     co: àrabu
     crh: Arap tili
-    crh-latn: Arap tili
+    crh_latn: Arap tili
     crh-ro: arapşa
     cs: arabština
     cu: Аравьскъ ѩꙁꙑкъ
@@ -497,8 +497,8 @@ dv_has_:
     el: Αραβικά
     eml: Areb
     en: Arabic
-    en-ca: Arabic
-    en-gb: Arabic
+    en_ca: Arabic
+    en_gb: Arabic
     en-us: Arabic
     eo: araba lingvo
     es: árabe
@@ -595,7 +595,7 @@ dv_has_:
     lzh: 阿拉伯語
     mad: Bhâsa Arab
     mai: अरबी भाषा
-    map-bms: Basa Arab
+    map_bms: Basa Arab
     mdf: Арабонь кяль
     mg: Fiteny arabo
     mi: Reo Ārapi
@@ -606,7 +606,7 @@ dv_has_:
     mni: ꯑꯔꯥꯕꯤꯛ ꯂꯣꯟ
     mr: अरबी भाषा
     ms: bahasa Arab
-    ms-arab: بهاس عرب
+    ms_arab: بهاس عرب
     mt: Għarbi
     my: အာရပ်ဘာသာ
     myv: Арабонь кель
@@ -616,7 +616,7 @@ dv_has_:
     nan: A-la-pek-gí
     nb: arabisk
     nds: Araabsche Spraak
-    nds-nl: Arabies
+    nds_nl: Arabies
     ne: अरबी भाषा
     new: अरबी भाषा
     nl: Arabisch
@@ -641,7 +641,7 @@ dv_has_:
     pnb: عربی
     ps: عربي ژبه
     pt: árabe
-    pt-br: árabe
+    pt_br: árabe
     qu: Arabya simi
     ro: limba arabă
     ru: арабский язык
@@ -681,7 +681,7 @@ dv_has_:
     tcy: ಅರಬ್ಬಿ ಬಾಸೆ
     te: అరబ్బీ భాష
     tg: арабӣ
-    tg-cyrl: забони арабӣ
+    tg_cyrl: забони арабӣ
     th: ภาษาอาหรับ
     ti: ዓረብኛ ፊደል
     tig: ዓረቢ
@@ -692,11 +692,11 @@ dv_has_:
     tpi: Tok Arabik
     tr: Arapça
     tt: гарәп теле
-    tt-latn: ğäräp tele
+    tt_latn: ğäräp tele
     tyv: Араб дыл
     udm: араб кыл
     ug: ئەرەب تىلى
-    ug-latn: Ereb tili
+    ug_latn: Ereb tili
     uk: арабська мова
     ur: عربی
     uz: Arab tili
@@ -718,14 +718,14 @@ dv_has_:
     zea: Araobisch
     zgh: ⵜⵓⵜⵍⴰⵢⵜ ⵜⴰⵄⵕⴰⴱⵜ
     zh: 阿拉伯语
-    zh-cn: 阿拉伯语
-    zh-hans: 阿拉伯语
-    zh-hant: 阿拉伯語
-    zh-hk: 阿拉伯語
-    zh-mo: 阿拉伯語
+    zh_cn: 阿拉伯语
+    zh_hans: 阿拉伯语
+    zh_hant: 阿拉伯語
+    zh_hk: 阿拉伯語
+    zh_mo: 阿拉伯語
     zh-my: 阿拉伯语
-    zh-sg: 阿拉伯语
-    zh-tw: 阿拉伯語
+    zh_sg: 阿拉伯语
+    zh_tw: 阿拉伯語
     zu: isi-Arabic
 ---
 # [[Lang-ara]] 

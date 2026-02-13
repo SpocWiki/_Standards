@@ -4,7 +4,7 @@ dv_has_:
   name_:
     ar: ناشر موسيقى
     be: музычны выдавец
-    be-tarask: музычнае выдавецтва
+    be_tarask: музычнае выдавецтва
     ca: editorial de música
     cs: hudební vydavatelství
     de: Musikverlag

@@ -118,7 +118,7 @@ dv_has_:
     az: Pablo Eskobar
     bcl: Pablo Emilio Escobar Gaviria
     be: Пабла Эскабар
-    be-tarask: Паблё Эскабар
+    be_tarask: Паблё Эскабар
     bg: Пабло Ескобар
     bn: পাবলো এসকোবার
     ca: Pablo Escobar Gaviria
@@ -128,12 +128,12 @@ dv_has_:
     cy: Pablo Escobar
     da: Pablo Escobar
     de: Pablo Escobar
-    de-ch: Pablo Escobar
+    de_ch: Pablo Escobar
     din: Pablo Escobar
     el: Πάμπλο Εσκομπάρ
     en: Pablo Escobar
-    en-ca: Pablo Escobar
-    en-gb: Pablo Escobar
+    en_ca: Pablo Escobar
+    en_gb: Pablo Escobar
     eo: Pablo Escobar
     es: Pablo Escobar
     et: Pablo Escobar
@@ -189,7 +189,7 @@ dv_has_:
     pnb: پابلو ایسکوبار
     ps: پبلو اېسکوبار
     pt: Pablo Escobar
-    pt-br: Pablo Escobar
+    pt_br: Pablo Escobar
     ro: Pablo Escobar
     ru: Пабло Эскобар
     sco: Pablo Escobar
@@ -199,8 +199,8 @@ dv_has_:
     sl: Pablo Escobar
     sq: Pablo Escobar
     sr: Пабло Ескобар
-    sr-ec: Пабло Ескобар
-    sr-el: Pablo Eskobar
+    sr_ec: Пабло Ескобар
+    sr_el: Pablo Eskobar
     sv: Pablo Escobar
     sw: Pablo Escobar
     ta: பப்லோ எசுகோபர்
@@ -220,12 +220,12 @@ dv_has_:
     yue: 柏保路·艾斯高巴
     zgh: ⴱⴰⴱⵍⵓ ⵉⵙⴽⵓⴱⴰⵔ
     zh: 巴勃羅·埃斯科瓦爾
-    zh-cn: 巴勃罗·埃斯科瓦尔
-    zh-hans: 巴勃罗·埃斯科瓦尔
-    zh-hant: 巴勃羅·埃斯科瓦爾
-    zh-hk: 柏保路·艾斯高巴
-    zh-sg: 巴勃罗·埃斯科瓦尔
-    zh-tw: 巴勃羅·埃斯科瓦爾
+    zh_cn: 巴勃罗·埃斯科瓦尔
+    zh_hans: 巴勃罗·埃斯科瓦尔
+    zh_hant: 巴勃羅·埃斯科瓦爾
+    zh_hk: 柏保路·艾斯高巴
+    zh_sg: 巴勃罗·埃斯科瓦尔
+    zh_tw: 巴勃羅·埃斯科瓦爾
 ---
 # [[Escobar,Pablo]] 
 

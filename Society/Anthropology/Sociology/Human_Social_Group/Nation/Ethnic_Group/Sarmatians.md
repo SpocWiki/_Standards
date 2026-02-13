@@ -95,11 +95,11 @@ dv_has_:
     azb: سرمتیلر
     ba: Сарматтар
     be: сарматы
-    be-tarask: сарматы
+    be_tarask: сарматы
     bg: Сармати
     ca: sàrmates
     crh: Sarmatlar
-    crh-latn: Sarmatlar
+    crh_latn: Sarmatlar
     cs: Sarmati
     cv: Сарматсем
     cy: Sarmatiaid
@@ -131,11 +131,11 @@ dv_has_:
     ja: サルマタイ
     ka: სარმატები
     kk: Сарматтар
-    kk-arab: سارماتتار
+    kk_arab: سارماتتار
     kk-cn: سارماتتار
-    kk-cyrl: Сарматтар
+    kk_cyrl: Сарматтар
     kk-kz: Сарматтар
-    kk-latn: Sarmattar
+    kk_latn: Sarmattar
     kk-tr: Sarmattar
     ko: 사르마티아
     la: Sarmatae
@@ -158,13 +158,13 @@ dv_has_:
     sk: Sarmati
     sl: Sarmati
     sr: Сармати
-    sr-ec: Сармати
-    sr-el: Sarmati
+    sr_ec: Сармати
+    sr_el: Sarmati
     sv: Sarmater
     th: ชาวซาร์เมเชีย
     tr: Sarmatlar
     tt: Сарматлар
-    tt-cyrl: Сарматлар
+    tt_cyrl: Сарматлар
     uk: сармати
     uz: Sarmatlar
     vec: sarmati
@@ -173,12 +173,12 @@ dv_has_:
     xmf: სარმატეფი
     yue: 薩馬提亞人
     zh: 萨尔马提亚人
-    zh-cn: 萨尔马提亚人
-    zh-hans: 萨尔马提亚人
-    zh-hant: 薩爾馬提亞人
-    zh-hk: 薩爾馬提亞人
-    zh-sg: 萨尔马提亚人
-    zh-tw: 薩爾馬提亞人
+    zh_cn: 萨尔马提亚人
+    zh_hans: 萨尔马提亚人
+    zh_hant: 薩爾馬提亞人
+    zh_hk: 薩爾馬提亞人
+    zh_sg: 萨尔马提亚人
+    zh_tw: 薩爾馬提亞人
 ---
 # [[Sarmatians]] 
 

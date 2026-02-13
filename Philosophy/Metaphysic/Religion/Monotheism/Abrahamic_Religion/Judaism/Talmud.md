@@ -81,7 +81,7 @@ dv_has_:
     az: Talmud
     azb: تلمود
     be: Талмуд
-    be-tarask: Талмуд
+    be_tarask: Талмуд
     bg: Талмуд
     bn: তালমুদ
     br: Talmud

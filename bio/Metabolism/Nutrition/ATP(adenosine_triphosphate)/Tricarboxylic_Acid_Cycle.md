@@ -133,7 +133,7 @@ dv_has_:
     ar: دورة حمض الستريك
     ast: ciclu de Krebs
     be: Цыкл трыкарбонавых кіслот
-    be-tarask: цыкль трыкарбонавых кісьляў
+    be_tarask: цыкль трыкарбонавых кісьляў
     bg: Цикъл на Кребс
     bn: সাইট্রিক অ্যাসিড চক্র
     bs: Krebsov ciklus
@@ -145,8 +145,8 @@ dv_has_:
     de: Citratzyklus
     el: Κύκλος του Κρεμπς
     en: tricarboxylic acid cycle
-    en-ca: citric acid cycle
-    en-gb: citric acid cycle
+    en_ca: citric acid cycle
+    en_gb: citric acid cycle
     eo: ciklo de Krebs
     es: ciclo de Krebs
     et: tsitraaditsükkel
@@ -170,7 +170,7 @@ dv_has_:
     ko: TCA 회로
     ks: ٹرٛا کارباکزِلِک اسیڈ سایکٕل
     ku: Çerxa Krebs
-    ku-latn: çerxa Krebs
+    ku_latn: çerxa Krebs
     ky: Кребс цикли
     la: cyclus acidi citrici
     lb: Zitratzyklus
@@ -194,8 +194,8 @@ dv_has_:
     sk: citrátový cyklus
     sl: Krebsov cikel
     sr: Кребсов циклус
-    sr-ec: Кребсов циклус
-    sr-el: Krebsov ciklus
+    sr_ec: Кребсов циклус
+    sr_el: Krebsov ciklus
     su: Daur asam sitrat
     sv: Citronsyracykeln
     ta: சிட்ரிக் அமில சுழற்சி
@@ -208,12 +208,12 @@ dv_has_:
     wuu: 三羧酸循环
     yue: 夏禮輔循環
     zh: 三羧酸循环
-    zh-cn: 三羧酸循环
-    zh-hans: 三羧酸循环
-    zh-hant: 三羧酸循環
-    zh-hk: 三羧酸循環
-    zh-sg: 三羧酸循环
-    zh-tw: 三羧酸循環
+    zh_cn: 三羧酸循环
+    zh_hans: 三羧酸循环
+    zh_hant: 三羧酸循環
+    zh_hk: 三羧酸循環
+    zh_sg: 三羧酸循环
+    zh_tw: 三羧酸循環
 ---
 # [[Tricarboxylic_Acid_Cycle]] 
 

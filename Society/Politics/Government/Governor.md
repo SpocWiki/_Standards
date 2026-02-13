@@ -132,7 +132,7 @@ dv_has_:
     az: qubernator
     bcl: Gobernador
     be: губернатар
-    be-tarask: губэрнатар
+    be_tarask: губэрнатар
     bg: губернатор
     bho: राज्यपाल
     bjn: hobnor
@@ -182,17 +182,17 @@ dv_has_:
     kaa: gubernator
     kge: Gubornur
     kk: Губернатор
-    kk-arab: گۋبەرناتور
+    kk_arab: گۋبەرناتور
     kk-cn: گۋبەرناتور
-    kk-cyrl: Губернатор
+    kk_cyrl: Губернатор
     kk-kz: Губернатор
-    kk-latn: Gwbernator
+    kk_latn: Gwbernator
     kk-tr: Gwbernator
     kn: ರಾಜ್ಯಪಾಲ
     ko: 도지사
     ks: گَوَرنَر
     ku: fermanber
-    ku-latn: fermanber
+    ku_latn: fermanber
     kw: governour
     ky: Губернатор
     la: Gubernator
@@ -202,7 +202,7 @@ dv_has_:
     lt: gubernatorius
     lua: Gouvena
     lv: gubernators
-    map-bms: gubernur
+    map_bms: gubernur
     mdf: губернатор
     min: Gubernur
     mk: управник
@@ -211,7 +211,7 @@ dv_has_:
     ms: gabenor
     nan: Ti-sū
     nb: guvernør
-    nds-nl: gouverneur
+    nds_nl: gouverneur
     ne: राज्यपाल
     nl: gouverneur
     nn: guvernør
@@ -224,7 +224,7 @@ dv_has_:
     pnb: راجپال
     ps: والي
     pt: governador
-    pt-br: governador
+    pt_br: governador
     ro: guvernator
     ru: губернатор
     sah: Губернатор
@@ -239,8 +239,8 @@ dv_has_:
     sms: kuvenõõr
     sq: Guvernatori
     sr: губернатор
-    sr-ec: губернатор
-    sr-el: gubernator
+    sr_ec: губернатор
+    sr_el: gubernator
     su: Gubernur
     sv: guvernör
     sw: Gavana
@@ -264,12 +264,12 @@ dv_has_:
     yi: גאווערנער
     yue: 政區首長
     zh: 政区首长
-    zh-cn: 政区首长
-    zh-hans: 政区首长
-    zh-hant: 政區首長
-    zh-hk: 政區首長
-    zh-sg: 政區首長
-    zh-tw: 政區首長
+    zh_cn: 政区首长
+    zh_hans: 政区首长
+    zh_hant: 政區首長
+    zh_hk: 政區首長
+    zh_sg: 政區首長
+    zh_tw: 政區首長
 ---
 # [[Governor]] 
 

@@ -64,7 +64,7 @@ dv_has_:
     az: Trilobitlər
     bar: Trilobita
     be: трылабіты
-    be-tarask: трылябіты
+    be_tarask: трылябіты
     bg: трилобити
     bn: ট্রাইলোবাইট
     bs: Trilobiti
@@ -73,7 +73,7 @@ dv_has_:
     da: trilobit
     de: Trilobiten
     de-at: Trilobita
-    de-ch: Trilobita
+    de_ch: Trilobita
     el: Τριλοβίτης
     eo: Trilobuloj
     et: Trilobiidid
@@ -108,7 +108,7 @@ dv_has_:
     nan: Sam-ia̍p-thiông
     nb: Trilobitter
     nds: Trilobita
-    nds-nl: Trilobita
+    nds_nl: Trilobita
     nl: trilobieten
     nn: trilobittar
     oc: Trilobit
@@ -134,9 +134,9 @@ dv_has_:
     wuu: 三叶虫
     yue: 三葉蟲
     zh: 三葉蟲綱
-    zh-cn: 三叶虫纲
-    zh-hans: 三叶虫纲
-    zh-tw: 三葉蟲
+    zh_cn: 三叶虫纲
+    zh_hans: 三叶虫纲
+    zh_tw: 三葉蟲
 ---
 # [[Trilobites]]
 

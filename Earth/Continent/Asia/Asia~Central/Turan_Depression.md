@@ -89,7 +89,7 @@ dv_has_:
     az: Turan ovalığı
     ba: Туран уйһыулығы
     be: Туранская нізіна
-    be-tarask: Туранская нізіна
+    be_tarask: Туранская нізіна
     bg: Туранска низина
     ca: depressió de Turan
     ceb: Turan Oypaty
@@ -112,9 +112,9 @@ dv_has_:
     ja: トゥラン低地
     ka: თურანის დაბლობი
     kk: Тұран ойпаты
-    kk-arab: تۇران ويپاتى
-    kk-cyrl: Тұран ойпаты
-    kk-latn: Turan oýpatı
+    kk_arab: تۇران ويپاتى
+    kk_cyrl: Тұран ойпаты
+    kk_latn: Turan oýpatı
     ko: 투란 저지
     ky: Туран ойдуңу
     la: Demissio Turanica
@@ -139,9 +139,9 @@ dv_has_:
     uz: Turon tekisligi
     yue: 圖蘭低地
     zh: 图兰低地
-    zh-hans: 图兰低地
-    zh-hant: 圖蘭低地
-    zh-hk: 圖蘭低地
+    zh_hans: 图兰低地
+    zh_hant: 圖蘭低地
+    zh_hk: 圖蘭低地
 ---
 # [[Turan_Depression]] 
 

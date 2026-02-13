@@ -56,8 +56,8 @@ dv_has_:
     cs: kunovcovití
     de: Raubbeutler
     en: Dasyuridae
-    en-ca: Dasyuridae
-    en-gb: Dasyuridae
+    en_ca: Dasyuridae
+    en_gb: Dasyuridae
     eo: Dasyuridae
     es: Dasyuridae
     eu: Dasyuridae
@@ -88,7 +88,7 @@ dv_has_:
     oc: Dasyuridae
     pl: Niełazowate
     pt: Dasyuridae
-    pt-br: Dasyuridae
+    pt_br: Dasyuridae
     ro: Dasyuridae
     ru: Сумчатые куницы
     sl: zverski vrečarji
@@ -101,9 +101,9 @@ dv_has_:
     vo: Dasyuridae
     war: Dasyuridae
     zh: 袋鼬科
-    zh-cn: 袋鼬科
-    zh-hans: 袋鼬科
-    zh-tw: 袋鼬科
+    zh_cn: 袋鼬科
+    zh_hans: 袋鼬科
+    zh_tw: 袋鼬科
 ---
 # [[Dasyuridae]] 
 

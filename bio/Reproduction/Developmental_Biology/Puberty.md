@@ -94,7 +94,7 @@ dv_has_:
     az: Yetkinlik dövrü
     bar: Pubertät
     be: палавое выспяванне
-    be-tarask: плоцевае высьпяваньне
+    be_tarask: плоцевае высьпяваньне
     bew: Balèg
     bg: Пубертет
     bn: বয়ঃসন্ধি
@@ -109,7 +109,7 @@ dv_has_:
     de: Pubertät
     el: εφηβεία
     en: puberty
-    en-gb: puberty
+    en_gb: puberty
     eo: pubereco
     es: pubertad
     et: puberteet
@@ -135,7 +135,7 @@ dv_has_:
     ja: 思春期
     ka: პუბერტატი
     ko: 사춘기
-    ku-latn: temenê pêgihîşti
+    ku_latn: temenê pêgihîşti
     ky: Жыныстык жетилүү
     la: Pubertas
     lb: Pubertéit
@@ -168,8 +168,8 @@ dv_has_:
     so: Baaluq
     sq: Puberteti
     sr: пубертет
-    sr-ec: Пубертет
-    sr-el: Pubertet
+    sr_ec: Пубертет
+    sr_el: Pubertet
     sv: pubertet
     sw: Ubalehe
     ta: பூப்பு
@@ -185,12 +185,12 @@ dv_has_:
     wuu: 青春期
     yue: 青春期
     zh: 青春期
-    zh-cn: 青春期
-    zh-hans: 青春期
-    zh-hant: 青春期
-    zh-hk: 青春期
-    zh-sg: 青春期
-    zh-tw: 青春期
+    zh_cn: 青春期
+    zh_hans: 青春期
+    zh_hant: 青春期
+    zh_hk: 青春期
+    zh_sg: 青春期
+    zh_tw: 青春期
 ---
 # [[Puberty]] 
 

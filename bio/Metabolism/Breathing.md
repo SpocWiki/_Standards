@@ -138,7 +138,7 @@ dv_has_:
     ba: Һулыш
     bcl: Paghangos
     be: дыханне
-    be-tarask: дыханьне
+    be_tarask: дыханьне
     bg: Дишане
     bn: শ্বাসক্রিয়া
     bs: disanje
@@ -154,8 +154,8 @@ dv_has_:
     de: Atmung
     el: αναπνοή
     en: breathing
-    en-ca: Breathing
-    en-gb: breathing
+    en_ca: Breathing
+    en_gb: breathing
     eo: spirado
     es: respiración
     et: Hingamine
@@ -205,7 +205,7 @@ dv_has_:
     nan: Ho͘-khip
     nb: respirasjon
     nds: Aam
-    nds-nl: naojem
+    nds_nl: naojem
     nl: ademhalen
     nn: anding
     oc: Respiracion
@@ -214,7 +214,7 @@ dv_has_:
     pl: oddychanie
     pnb: ساہ لیݨا
     pt: respiração
-    pt-br: Respiração
+    pt_br: Respiração
     qu: Samay
     ro: respirație
     ru: дыхание
@@ -236,7 +236,7 @@ dv_has_:
     th: การหายใจ
     tr: Nefes almak
     tt: сулыш
-    tt-cyrl: сулыш
+    tt_cyrl: сулыш
     udm: шокан
     uk: дихання
     ur: تنفس
@@ -250,8 +250,8 @@ dv_has_:
     yue: 唞氣
     za: Diemheiq
     zh: 呼吸
-    zh-hans: 呼吸
-    zh-hant: 呼吸
+    zh_hans: 呼吸
+    zh_hant: 呼吸
 ---
 ## #has_/text_of_/abstract 
 

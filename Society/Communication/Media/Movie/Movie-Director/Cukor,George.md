@@ -81,7 +81,7 @@ dv_has_:
     ast: George Cukor
     az: Corc Kyukor
     be: Джордж К'юкар
-    be-tarask: Джордж К’юкар
+    be_tarask: Джордж К’юкар
     bg: Джордж Кюкор
     bn: জর্জ কিউকর
     br: George Cukor
@@ -92,8 +92,8 @@ dv_has_:
     de: George Cukor
     el: Τζορτζ Κιούκορ
     en: George Cukor
-    en-ca: George Cukor
-    en-gb: George Cukor
+    en_ca: George Cukor
+    en_gb: George Cukor
     en-us: George Cukor
     eo: George Cukor
     es: George Cukor
@@ -129,7 +129,7 @@ dv_has_:
     pap: George Cukor
     pl: George Cukor
     pt: George Cukor
-    pt-br: George Cukor
+    pt_br: George Cukor
     ro: George Cukor
     ru: Джордж Кьюкор
     sco: George Cukor
@@ -138,7 +138,7 @@ dv_has_:
     sl: George Cukor
     sq: George Cukor
     sr: Џорџ Кјукор
-    sr-ec: Џорџ Кјукор
+    sr_ec: Џорџ Кјукор
     sv: George Cukor
     ta: ஜார்ஜ் கூகார்
     te: జార్జ్ కుకోర్
@@ -153,7 +153,7 @@ dv_has_:
     xmf: ჯორჯ კიუკორი
     yue: 佐治谷哥
     zh: 喬治·丘克
-    zh-sg: 乔治·丘克
+    zh_sg: 乔治·丘克
 ---
 # [[Cukor,George]] 
 

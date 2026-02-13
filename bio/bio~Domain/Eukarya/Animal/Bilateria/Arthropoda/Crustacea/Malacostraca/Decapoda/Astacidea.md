@@ -45,11 +45,11 @@ dv_has_:
     da: Astacidea
     de: Großkrebse
     de-at: Astacidea
-    de-ch: Astacidea
+    de_ch: Astacidea
     el: Αστακιδεία
     en: Astacidea
-    en-ca: Astacidea
-    en-gb: Astacidea
+    en_ca: Astacidea
+    en_gb: Astacidea
     eo: Astacidea
     es: Astacidea
     et: Astacidea
@@ -89,7 +89,7 @@ dv_has_:
     nap: Astacidea
     nb: Langhalekreps
     nds: Astacidea
-    nds-nl: Astacidea
+    nds_nl: Astacidea
     nl: kreeften
     nn: Langhalekreps
     nrm: Astacidea
@@ -100,7 +100,7 @@ dv_has_:
     pl: Astacidea
     pms: Astacidea
     pt: Astacidea
-    pt-br: Astacidea
+    pt_br: Astacidea
     qu: Apanqura
     rm: Astacidea
     ro: Raci mari
@@ -122,9 +122,9 @@ dv_has_:
     war: Astacidea
     wo: Astacidea
     zh: 螯虾下目
-    zh-cn: 螯蝦下目
-    zh-hans: 螯虾下目
-    zh-tw: 螯蝦下目
+    zh_cn: 螯蝦下目
+    zh_hans: 螯虾下目
+    zh_tw: 螯蝦下目
     zu: Astacidea
 ---
 # [[Astacidea]]

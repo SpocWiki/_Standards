@@ -57,7 +57,7 @@ dv_has_:
     pap: Senta Berger
     pl: Senta Berger
     pt: Senta Berger
-    pt-br: Senta Berger
+    pt_br: Senta Berger
     ro: Senta Berger
     ru: Сента Бергер
     sl: Senta Berger
@@ -66,7 +66,7 @@ dv_has_:
     tr: Senta Berger
     uk: Зента Бергер
     zh: 森塔·伯格
-    zh-hant: 姍黛·貝嘉
+    zh_hant: 姍黛·貝嘉
 ---
 #has_/spouse :: [[../../Movie-Directors/Verhoeven,Michael]] 
 #has_/time_/started :: 1941-05-13 

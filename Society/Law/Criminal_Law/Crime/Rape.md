@@ -143,7 +143,7 @@ dv_has_:
     az: Zorlama
     bcl: Panlulugos
     be: згвалтаванне
-    be-tarask: згвалтаваньне
+    be_tarask: згвалтаваньне
     bg: Изнасилване
     bn: ধর্ষণ
     bo: བཙན་གཡེམ།
@@ -190,7 +190,7 @@ dv_has_:
     ko: 강간
     ks: بےٚ صدری
     ku: tecawiz
-    ku-latn: tecawiz
+    ku_latn: tecawiz
     ky: Зордуктоо
     la: Stuprum
     lb: Vergewaltegung
@@ -225,7 +225,7 @@ dv_has_:
     sl: posilstvo
     sq: përdhunim
     sr: силовање
-    sr-ec: силовање
+    sr_ec: силовање
     sv: våldtäkt
     sw: Ubakaji
     ta: வன்கலவி
@@ -243,14 +243,14 @@ dv_has_:
     yue: 強姦
     za: Gaemhbeg
     zh: 强奸
-    zh-cn: 强奸
-    zh-hans: 强奸
-    zh-hant: 強姦
-    zh-hk: 強姦
-    zh-mo: 強姦
+    zh_cn: 强奸
+    zh_hans: 强奸
+    zh_hant: 強姦
+    zh_hk: 強姦
+    zh_mo: 強姦
     zh-my: 强奸
-    zh-sg: 强奸
-    zh-tw: 強姦
+    zh_sg: 强奸
+    zh_tw: 強姦
     zu: Ukudlwengula
 ---
 # [[Rape]] 

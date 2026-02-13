@@ -149,7 +149,7 @@ dv_has_:
     az: Rəqabət
     bcl: Kompetisyon
     be: змаганне
-    be-tarask: спаборніцтва
+    be_tarask: спаборніцтва
     bg: Състезание
     bn: প্রতিযোগিতা
     ca: competició
@@ -191,7 +191,7 @@ dv_has_:
     lv: sacensība
     mk: соперништво
     ms: pertandingan
-    ms-arab: ڤرتنديڠن
+    ms_arab: ڤرتنديڠن
     nb: konkurranse
     nl: competitie
     nn: tevling
@@ -199,7 +199,7 @@ dv_has_:
     pl: zawody
     ps: سیالي
     pt: competição
-    pt-br: competição
+    pt_br: competição
     qu: Yallinakuy
     ro: competiție
     ru: соперничество
@@ -217,8 +217,8 @@ dv_has_:
     sms: ǩeâlbb
     sq: konkurs
     sr: такмичење
-    sr-ec: такмичење
-    sr-el: takmičenje
+    sr_ec: такмичење
+    sr_el: takmičenje
     sv: tävling
     sw: Mashindano
     ta: போட்டி
@@ -227,7 +227,7 @@ dv_has_:
     tl: Paligsahan
     tr: rekabet
     tt: көндәшлек
-    tt-cyrl: көндәшлек
+    tt_cyrl: көндәшлек
     uk: змагання
     ur: competition
     vec: conpetision
@@ -235,12 +235,12 @@ dv_has_:
     yi: קאנקורענץ
     yue: 爭嘢
     zh: 竞争
-    zh-cn: 竞争
-    zh-hans: 竞争
-    zh-hant: 競爭
-    zh-hk: 競爭
-    zh-sg: 竞争
-    zh-tw: 競爭
+    zh_cn: 竞争
+    zh_hans: 竞争
+    zh_hant: 競爭
+    zh_hk: 競爭
+    zh_sg: 竞争
+    zh_tw: 競爭
 ---
 # [[Competition]] 
 

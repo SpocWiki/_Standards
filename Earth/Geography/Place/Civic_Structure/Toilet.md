@@ -185,13 +185,13 @@ dv_has_:
     bar: Klo
     bcl: kasilyasan
     be: туалет
-    be-tarask: туалет
+    be_tarask: туалет
     bg: тоалетна
     bjn: patakaian
     bn: শৌচাগার
     br: privezioù
     ca: vàter
-    cbk-zam: inodoro
+    cbk_zam: inodoro
     ceb: inodoro
     chy: o'êhnémâhéó'o
     cs: toaleta
@@ -201,8 +201,8 @@ dv_has_:
     de: Toilette
     el: λεκάνη
     en: toilet
-    en-ca: toilet
-    en-gb: toilet
+    en_ca: toilet
+    en_gb: toilet
     en-us: toilet
     eo: necesejo
     es: inodoro
@@ -251,7 +251,7 @@ dv_has_:
     mzn: جائی
     nah: cuitlacalli
     nb: toalett
-    nds-nl: uissien
+    nds_nl: uissien
     ne: शौचालय
     nl: toilet
     nn: toalett
@@ -261,7 +261,7 @@ dv_has_:
     pms: Cesso
     ps: پرېولنځی
     pt: sanita
-    pt-br: vaso sanitário
+    pt_br: vaso sanitário
     rki: ယင်လုံ အိမ်သာ
     ro: toaletă
     ru: туалетное оборудование
@@ -276,7 +276,7 @@ dv_has_:
     so: musqul
     sq: tualeti
     sr: клозетска шоља
-    sr-ec: нужник
+    sr_ec: нужник
     su: jamban
     sv: toalett
     sw: choo
@@ -289,7 +289,7 @@ dv_has_:
     tpi: Toilet
     tr: tuvalet
     tt: бәдрәф
-    tt-cyrl: бәдрәф
+    tt_cyrl: бәдрәф
     uk: туалет
     ur: بیت الخلا
     vec: cesso
@@ -301,8 +301,8 @@ dv_has_:
     yue: 座廁
     za: doengjnyouh
     zh: 馬桶
-    zh-hans: 马桶
-    zh-hant: 馬桶
+    zh_hans: 马桶
+    zh_hant: 馬桶
   parent_class: '[[../CivicStructure]]'
   properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'
 dv_is_same_as:

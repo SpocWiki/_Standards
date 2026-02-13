@@ -82,7 +82,7 @@ dv_has_:
     ast: Don Giovanni
     az: Don Covanni
     be: Дон Жуан
-    be-tarask: Дон Жуан
+    be_tarask: Дон Жуан
     bg: Дон Жуан
     ca: Don Giovanni
     cs: Don Giovanni
@@ -91,8 +91,8 @@ dv_has_:
     de: Don Giovanni
     el: Ντον Τζοβάννι
     en: Don Giovanni
-    en-ca: Don Giovanni
-    en-gb: Don Giovanni
+    en_ca: Don Giovanni
+    en_gb: Don Giovanni
     eo: Don Giovanni
     es: Don Giovanni
     et: Don Giovanni
@@ -124,7 +124,7 @@ dv_has_:
     nn: Don Giovanni
     pl: Don Giovanni
     pt: Don Giovanni
-    pt-br: Don Giovanni
+    pt_br: Don Giovanni
     ro: Don Giovanni
     ru: Дон Жуан
     sco: Don Giovanni
@@ -140,12 +140,12 @@ dv_has_:
     vi: Don Giovanni
     war: Don Giovanni
     zh: 唐·喬望尼
-    zh-cn: 唐·乔望尼
-    zh-hans: 唐·乔望尼
-    zh-hant: 唐·喬望尼
-    zh-hk: 唐·喬望尼
-    zh-sg: 唐·乔望尼
-    zh-tw: 唐·喬凡尼
+    zh_cn: 唐·乔望尼
+    zh_hans: 唐·乔望尼
+    zh_hant: 唐·喬望尼
+    zh_hk: 唐·喬望尼
+    zh_sg: 唐·乔望尼
+    zh_tw: 唐·喬凡尼
 ---
 # [[Don_Giovanni]] 
 

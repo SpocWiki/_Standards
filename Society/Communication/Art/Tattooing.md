@@ -134,7 +134,7 @@ dv_has_:
     az: Tatuirovka
     azb: تتو
     be: татуіроўка
-    be-tarask: татуіроўка
+    be_tarask: татуіроўка
     bg: Татуировка
     bjn: Tutang
     bn: উল্কি
@@ -145,11 +145,11 @@ dv_has_:
     cy: Tatŵ
     da: tatovering
     de: Tätowieren
-    de-ch: Tätowierung
+    de_ch: Tätowierung
     el: τατουάζ
     en: tattooing
-    en-ca: Tattoo
-    en-gb: tattoo
+    en_ca: Tattoo
+    en_gb: tattoo
     eo: tatuo
     es: tatuaje
     et: Tätoveering
@@ -201,7 +201,7 @@ dv_has_:
     pam: Rosang Tatu
     pl: tatuaż
     pt: tatuagem
-    pt-br: Tatuagem
+    pt_br: Tatuagem
     pwn: kivecik
     ro: Tatuaj
     ru: татуаж

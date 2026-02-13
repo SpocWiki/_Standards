@@ -146,7 +146,7 @@ dv_has_:
     ban: Hukum gerak Newton
     bar: Newtonsche Axiome
     be: Законы Ньютана
-    be-tarask: Законы Ньютана
+    be_tarask: Законы Ньютана
     bg: Закони на Нютон
     bho: न्यूटन के गति के नियम
     bn: নিউটনের গতিসূত্রসমূহ
@@ -211,7 +211,7 @@ dv_has_:
     ms: hukum-hukum gerakan Newton
     my: နယူတန်၏ ရွေ့လျားမှုဆိုင်ရာ နိယာမများ
     nb: Newtons bevegelseslover
-    nds-nl: Newton zien wetten
+    nds_nl: Newton zien wetten
     ne: न्युटनको गति नियम
     new: न्युटनया गतिया नियमत
     nl: wetten van Newton
@@ -240,7 +240,7 @@ dv_has_:
     sn: mitemo yeruhambo yaNewton
     sq: ligjet e Njutonit
     sr: Њутнови закони
-    sr-ec: Њутнови закони
+    sr_ec: Њутнови закони
     su: hukum gerak Newton
     sv: Newtons rörelselagar
     ta: நியூட்டனின் இயக்க விதிகள்
@@ -259,9 +259,9 @@ dv_has_:
     yo: àwọn òfin ìsún Newton
     yue: 牛頓運動定律
     zh: 牛顿运动定律
-    zh-cn: 牛顿运动定律
-    zh-hans: 牛顿运动定律
-    zh-hant: 牛頓運動定律
+    zh_cn: 牛顿运动定律
+    zh_hans: 牛顿运动定律
+    zh_hant: 牛頓運動定律
     zu: Imithetho yomdiki kaNewton
 ---
 # [[Newton's_Laws_of_Motion]] 

@@ -160,7 +160,7 @@ dv_has_:
     az: Daxili yanma mühərriki
     ba: Эске яныулы двигатель
     be: рухавік унутранага згарання
-    be-tarask: рухавік унутранага згараньня
+    be_tarask: рухавік унутранага згараньня
     bg: Двигател с вътрешно горене
     bn: অন্তর্দহন ইঞ্জিন
     br: Keflusker dre enleskiñ
@@ -253,8 +253,8 @@ dv_has_:
     sl: motor z notranjim zgorevanjem
     sq: Motori me djegie të brendshme
     sr: мотор са унутрашњим сагоревањем
-    sr-ec: мотор са унутрашњим сагоревањем
-    sr-el: motor sa unutrašnjim sagorevanjem
+    sr_ec: мотор са унутрашњим сагоревањем
+    sr_el: motor sa unutrašnjim sagorevanjem
     sv: intern förbränningsmotor
     sw: Injini ya mwako ndani
     ta: அக தகன விசைப்பொறி
@@ -273,7 +273,7 @@ dv_has_:
     yi: אינטערנל קאמבאסטשען ענזשין
     yue: 偈
     zh: 内燃机
-    zh-tw: 內燃機
+    zh_tw: 內燃機
 ---
 # [[Internal_Combustion_Engine]] 
 

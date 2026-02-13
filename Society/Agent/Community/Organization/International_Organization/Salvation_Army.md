@@ -213,7 +213,7 @@ dv_has_:
     ar: جيش الخلاص
     arz: جيش الخلاص
     ast: Exércitu de Salvación
-    be-tarask: Армія выратаваньня
+    be_tarask: Армія выратаваньня
     bg: Армия на спасението
     bn: দ্য স্যালভেশন আর্মি
     ca: Exèrcit de Salvació
@@ -258,7 +258,7 @@ dv_has_:
     pl: Armia Zbawienia
     pnb: سالویشن آرمی
     pt: Exército de Salvação
-    pt-br: Exército de Salvação
+    pt_br: Exército de Salvação
     qu: The Salvation Army
     ro: Armata Salvării
     ru: Армия спасения
@@ -269,8 +269,8 @@ dv_has_:
     sl: Vojska odrešitve
     sq: Ushtria e shpëtimit
     sr: Војска спаса
-    sr-ec: Војска спаса
-    sr-el: Vojska spasa
+    sr_ec: Војска спаса
+    sr_el: Vojska spasa
     sv: Frälsningsarmén
     ta: இரட்சணிய சேனை
     te: సాల్వేషన్ ఆర్మీ
@@ -282,12 +282,12 @@ dv_has_:
     wuu: 救世军
     yue: 救世軍
     zh: 救世軍
-    zh-cn: 救世军
-    zh-hans: 救世军
-    zh-hant: 救世軍
-    zh-hk: 救世軍
-    zh-sg: 救世军
-    zh-tw: 救世軍
+    zh_cn: 救世军
+    zh_hans: 救世军
+    zh_hant: 救世軍
+    zh_hk: 救世軍
+    zh_sg: 救世军
+    zh_tw: 救世軍
 ---
 # [[Salvation_Army]] 
 

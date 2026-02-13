@@ -121,7 +121,7 @@ dv_has_:
     az: Üç Koreya Krallığı
     ba: Кореяның өс батшалығы
     be: Тры карэйскія дзяржавы
-    be-tarask: Тры карэйскія дзяржавы
+    be_tarask: Тры карэйскія дзяржавы
     bg: Три царства
     ca: Tres regnes de Corea
     cdo: Săng-guók
@@ -191,12 +191,12 @@ dv_has_:
     xmf: კორეაშ სუმი ომაფე
     yue: 三國
     zh: 朝鲜三国时代
-    zh-cn: 朝鲜三国时代
-    zh-hans: 朝鲜三国时代
-    zh-hant: 朝鮮三國時代
-    zh-hk: 朝鮮三國時代
-    zh-sg: 朝鲜三国时代
-    zh-tw: 朝鮮三國時代
+    zh_cn: 朝鲜三国时代
+    zh_hans: 朝鲜三国时代
+    zh_hant: 朝鮮三國時代
+    zh_hk: 朝鮮三國時代
+    zh_sg: 朝鲜三国时代
+    zh_tw: 朝鮮三國時代
 ---
 # [[-0017-Three_Kingdoms_of_Korea+0660]] 
 

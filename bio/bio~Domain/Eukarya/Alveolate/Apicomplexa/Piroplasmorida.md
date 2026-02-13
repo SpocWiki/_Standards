@@ -40,7 +40,7 @@ dv_has_:
     oc: Piroplasmida
     pl: Piroplasmida
     pt: Piroplasmida
-    pt-br: Piroplasmida
+    pt_br: Piroplasmida
     ro: Piroplasmida
     ru: Piroplasmida
     sq: Piroplasmida
@@ -49,11 +49,11 @@ dv_has_:
     vo: Piroplasmida
     war: Piroplasmida
     zh: 梨形蟲目
-    zh-cn: 梨形虫目
-    zh-hans: 梨形虫目
-    zh-hant: 梨形蟲目
-    zh-hk: 梨形蟲目
-    zh-tw: 梨形蟲目
+    zh_cn: 梨形虫目
+    zh_hans: 梨形虫目
+    zh_hant: 梨形蟲目
+    zh_hk: 梨形蟲目
+    zh_tw: 梨形蟲目
 ---
 # [[Piroplasmorida]] 
 

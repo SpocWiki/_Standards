@@ -44,7 +44,7 @@ dv_has_:
     ast: Abbey Road
     az: Abbey Road
     be: Abbey Road
-    be-tarask: Abbey Road
+    be_tarask: Abbey Road
     bg: Abbey Road
     bn: অ্যাবি রোড
     br: Abbey Road (albom)
@@ -86,7 +86,7 @@ dv_has_:
     nn: Abbey Road
     pl: Abbey Road
     pt: Abbey Road
-    pt-br: Abbey Road
+    pt_br: Abbey Road
     ro: Abbey Road
     ru: Abbey Road
     sc: Abbey Road
@@ -96,8 +96,8 @@ dv_has_:
     sl: Abbey Road
     sq: Abbey Road
     sr: Abbey Road
-    sr-ec: Аббеy Роад
-    sr-el: Abbey Road
+    sr_ec: Аббеy Роад
+    sr_el: Abbey Road
     sv: Abbey Road
     th: แอบบีโรด
     tok: kalama musi Api Lo
@@ -106,12 +106,12 @@ dv_has_:
     vi: Abbey Road
     yue: Abbey Road
     zh: 艾比路
-    zh-cn: 阿比路
-    zh-hans: 阿比路
-    zh-hant: 艾比路
-    zh-hk: 艾比路
-    zh-sg: 阿比路
-    zh-tw: 艾比路
+    zh_cn: 阿比路
+    zh_hans: 阿比路
+    zh_hant: 艾比路
+    zh_hk: 艾比路
+    zh_sg: 阿比路
+    zh_tw: 艾比路
 ---
 # [[Abbey_Road(Beatles)]] 
 

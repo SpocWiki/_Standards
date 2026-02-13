@@ -126,7 +126,7 @@ dv_has_:
     azb: ایکینجی درجهده دنکلملر
     ba: Квадрат тигеҙләмә
     be: квадратнае ўраўненне
-    be-tarask: квадратнае раўнаньне
+    be_tarask: квадратнае раўнаньне
     bg: Квадратно уравнение
     bn: দ্বিঘাত সমীকরণ
     bs: Kvadratna jednačina
@@ -139,7 +139,7 @@ dv_has_:
     de: quadratische Gleichung
     el: δευτεροβάθμια εξίσωση
     en: quadratic equation
-    en-gb: quadratic equation
+    en_gb: quadratic equation
     eo: kvadrata ekvacio
     es: ecuación de segundo grado
     et: ruutvõrrand
@@ -186,7 +186,7 @@ dv_has_:
     pa: ਦੋ ਘਾਤੀ ਸਮੀਕਰਨ
     pl: Równanie kwadratowe
     pt: equação quadrática
-    pt-br: equação quadrática
+    pt_br: equação quadrática
     qu: Iskay kaq grado nisqa ecuación
     ro: Ecuație algebrică de gradul al doilea
     rsk: Квадратна єдначина
@@ -214,9 +214,9 @@ dv_has_:
     yi: קוואדראטישע גלייכונג
     yue: 二次方程
     zh: 一元二次方程
-    zh-cn: 一元二次方程
-    zh-hant: 一元二次方程
-    zh-tw: 二次方程
+    zh_cn: 一元二次方程
+    zh_hant: 一元二次方程
+    zh_tw: 二次方程
 ---
 # [[Quadratic_Equation]] 
 

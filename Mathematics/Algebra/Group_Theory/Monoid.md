@@ -4,7 +4,7 @@ dv_has_:
   name_:
     ar: وحدية
     az: Monoid
-    be-tarask: маноід
+    be_tarask: маноід
     bs: monoid
     ca: monoide
     cs: monoid
@@ -39,14 +39,14 @@ dv_has_:
     pl: monoid
     pms: Monòid
     pt: monoide
-    pt-br: monoide
+    pt_br: monoide
     ro: Monoid
     ru: моноид
     sh: Monoid
     sl: monoid
     sr: моноид
-    sr-ec: моноид
-    sr-el: monoid
+    sr_ec: моноид
+    sr_el: monoid
     sv: monoid
     ta: ஒற்றைக்குலம்
     tr: Birlik
@@ -55,12 +55,12 @@ dv_has_:
     yi: מאנאאיד
     yue: 幺半羣
     zh: 幺半群
-    zh-cn: 幺半群
-    zh-hans: 幺半群
-    zh-hant: 么半群
-    zh-hk: 么半群
-    zh-sg: 幺半群
-    zh-tw: 么半群
+    zh_cn: 幺半群
+    zh_hans: 幺半群
+    zh_hant: 么半群
+    zh_hk: 么半群
+    zh_sg: 幺半群
+    zh_tw: 么半群
 aliases:
 - Birlik
 - Einungur

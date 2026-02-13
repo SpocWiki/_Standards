@@ -92,7 +92,7 @@ dv_has_:
     az: Araq
     ban: Vodka
     be: гарэлка
-    be-tarask: гарэлка
+    be_tarask: гарэлка
     bg: Водка
     bn: ভদকা
     bo: ཧྥུ་ཐ་ཅ་ཨ་རག
@@ -110,8 +110,8 @@ dv_has_:
     dty: भोड्का
     el: Βότκα
     en: vodka
-    en-ca: Vodka
-    en-gb: vodka
+    en_ca: Vodka
+    en_gb: vodka
     eo: vodko
     es: vodka
     et: Viin
@@ -168,7 +168,7 @@ dv_has_:
     pl: wódka
     pnb: وڈکا
     pt: vodca
-    pt-br: vodka
+    pt_br: vodka
     ro: votcă
     ru: водка
     scn: Vodka
@@ -199,8 +199,8 @@ dv_has_:
     yue: 伏特加
     zh: 伏特加
     zh-cn: 伏特加
-    zh-hans: 伏特加
-    zh-hant: 伏特加
+    zh_hans: 伏特加
+    zh_hant: 伏特加
 ---
 # [[Vodka]] 
 

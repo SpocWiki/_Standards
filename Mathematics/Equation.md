@@ -148,7 +148,7 @@ dv_has_:
     az: tənlik
     ba: тигеҙләмә
     be: ураўненне
-    be-tarask: раўнаньне
+    be_tarask: раўнаньне
     bg: уравнение
     bn: সমীকরণ
     br: kevatalenn
@@ -219,7 +219,7 @@ dv_has_:
     mn: Тэгшитгэл
     mr: समीकरण
     ms: persamaan
-    ms-arab: ڤرساماءن
+    ms_arab: ڤرساماءن
     nan: hong-têng-sek
     nap: equazione
     nb: ligning
@@ -234,7 +234,7 @@ dv_has_:
     pms: equassion
     pnb: ترکڑی
     pt: equação
-    pt-br: equação
+    pt_br: equação
     qu: paqtachani
     ro: ecuație
     ru: уравнение
@@ -251,8 +251,8 @@ dv_has_:
     sn: tsazaniso
     sq: ekuacioni
     sr: једначина
-    sr-ec: једначина
-    sr-el: jednačina
+    sr_ec: једначина
+    sr_el: jednačina
     sv: ekvation
     sw: mlinganyo
     ta: சமன்பாடு
@@ -277,8 +277,8 @@ dv_has_:
     yo: Ìṣedọ́gba
     yue: 方程式
     zh: 方程
-    zh-hans: 方程
-    zh-hant: 方程
+    zh_hans: 方程
+    zh_hant: 方程
 ---
 ## #has_/text_of_/abstract 
 

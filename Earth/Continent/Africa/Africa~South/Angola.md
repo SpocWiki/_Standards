@@ -457,7 +457,7 @@ ITU_letter_code: AGL
 dv_has_:
   name_:
     ab: Ангола
-    aeb-arab: أنڨولا
+    aeb_arab: أنڨولا
     af: Angola
     am: አንጎላ
     ami: Angola
@@ -479,7 +479,7 @@ dv_has_:
     bar: Angola
     bcl: Angola
     be: Ангола
-    be-tarask: Ангола
+    be_tarask: Ангола
     bew: Anggola
     bg: Ангола
     bgn: انگولا
@@ -494,7 +494,7 @@ dv_has_:
     bs: Angola
     bxr: Ангола
     ca: Angola
-    cbk-zam: Angola
+    cbk_zam: Angola
     cdo: Angola
     ce: Ангола
     ceb: Angola
@@ -502,7 +502,7 @@ dv_has_:
     ckb: ئەنگۆلا
     co: Angola
     crh: Angola
-    crh-latn: Angola
+    crh_latn: Angola
     cs: Angola
     csb: Angòlô
     cv: Ангола
@@ -511,7 +511,7 @@ dv_has_:
     dag: Angola
     de: Angola
     de-at: Angola
-    de-ch: Angola
+    de_ch: Angola
     din: Aŋola
     diq: Angola
     dsb: Angola
@@ -520,8 +520,8 @@ dv_has_:
     ee: Angola
     el: Ανγκόλα
     en: Angola
-    en-ca: Angola
-    en-gb: Angola
+    en_ca: Angola
+    en_gb: Angola
     en-us: Angola
     eo: Angolo
     es: Angola
@@ -611,7 +611,7 @@ dv_has_:
     ltg: Angola
     lv: Angola
     lzh: 安哥拉
-    map-bms: Angola
+    map_bms: Angola
     mdf: Ангола
     mg: Angola
     mhr: Ангола
@@ -633,7 +633,7 @@ dv_has_:
     nan: Angola
     nb: Angola
     nds: Angola
-    nds-nl: Angola
+    nds_nl: Angola
     ne: एङ्गोला
     new: एङ्गोला
     nl: Angola
@@ -660,7 +660,7 @@ dv_has_:
     pnb: انگولا
     ps: انګولا
     pt: Angola
-    pt-br: Angola
+    pt_br: Angola
     qu: Angula
     rm: Angola
     rmy: Angola
@@ -693,8 +693,8 @@ dv_has_:
     so: Angola
     sq: Angola
     sr: Ангола
-    sr-ec: Ангола
-    sr-el: Angola
+    sr_ec: Ангола
+    sr_el: Angola
     ss: I-Angola
     st: Angola
     stq: Angola
@@ -744,14 +744,14 @@ dv_has_:
     zea: Anhola
     zgh: ⴰⵏⴳⵓⵍⴰ
     zh: 安哥拉
-    zh-cn: 安哥拉
-    zh-hans: 安哥拉
-    zh-hant: 安哥拉
-    zh-hk: 安哥拉
-    zh-mo: 安哥拉
+    zh_cn: 安哥拉
+    zh_hans: 安哥拉
+    zh_hant: 安哥拉
+    zh_hk: 安哥拉
+    zh_mo: 安哥拉
     zh-my: 安哥拉
-    zh-sg: 安哥拉
-    zh-tw: 安哥拉
+    zh_sg: 安哥拉
+    zh_tw: 安哥拉
     zu: I-Angola
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Angola

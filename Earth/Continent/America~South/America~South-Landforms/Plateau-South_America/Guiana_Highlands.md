@@ -114,7 +114,7 @@ dv_has_:
     az: Qviana yaylası
     ba: Гвиана таулығы
     be: Гвіянскае нагор'е
-    be-tarask: Гаянскае нагор’е
+    be_tarask: Гаянскае нагор’е
     bg: Гвианско плато
     bn: গুয়াইয়ানা উচ্চভূমি
     bs: Gvajana (regija)
@@ -145,11 +145,11 @@ dv_has_:
     ja: ギアナ高地
     ka: გვიანის ზეგანი
     kk: Гвиана таулы үстірті
-    kk-arab: گۆىيانا تاۋلى ٴۇستىرتى
+    kk_arab: گۆىيانا تاۋلى ٴۇستىرتى
     kk-cn: گۆىيانا تاۋلى ٴۇستىرتى
-    kk-cyrl: Гвиана таулы үстірті
+    kk_cyrl: Гвиана таулы үстірті
     kk-kz: Гвиана таулы үстірті
-    kk-latn: Gvïana tawlı üstirti
+    kk_latn: Gvïana tawlı üstirti
     kk-tr: Gvïana tawlı üstirti
     ko: 기아나 고지
     ky: Гвианa бөксө тоосу
@@ -177,12 +177,12 @@ dv_has_:
     vi: Khiên Guiana
     yue: 圭亞那盾地
     zh: 圭亚那地盾
-    zh-cn: 圭亚那地盾
-    zh-hans: 圭亚那地盾
-    zh-hant: 圭亞那地盾
-    zh-hk: 圭亞那地盾
-    zh-sg: 圭亚那地盾
-    zh-tw: 蓋亞那地盾
+    zh_cn: 圭亚那地盾
+    zh_hans: 圭亚那地盾
+    zh_hant: 圭亞那地盾
+    zh_hk: 圭亞那地盾
+    zh_sg: 圭亚那地盾
+    zh_tw: 蓋亞那地盾
 ---
 # [[Guiana_Highlands]] 
 

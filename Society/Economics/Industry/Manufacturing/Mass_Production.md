@@ -74,18 +74,18 @@ dv_has_:
     ar: إنتاج شامل
     ast: Producción en cadena
     az: kütləvi istehsal
-    be-tarask: масавая вытворчасьць
+    be_tarask: масавая вытворчасьць
     bg: Масово производство
     bn: গণ-উৎপাদন
     ca: producció en cadena
     cs: sériová výroba
     da: masseproduktion
     de: Massenproduktion
-    de-ch: Massenproduktion
+    de_ch: Massenproduktion
     el: μαζική παραγωγή
     en: mass production
-    en-ca: Mass production
-    en-gb: mass production
+    en_ca: Mass production
+    en_gb: mass production
     eo: amasproduktado
     es: producción en masa
     et: Masstootmine
@@ -113,7 +113,7 @@ dv_has_:
     pl: produkcja masowa
     pms: Produssion ëd massa
     pt: produção em massa
-    pt-br: produção em massa
+    pt_br: produção em massa
     ro: Producția în masă
     ru: поточное производство
     sl: množična proizvodnja
@@ -126,12 +126,12 @@ dv_has_:
     vi: Phương pháp tổ chức thực hiện công việc theo dây chuyền
     yue: 流水作業
     zh: 生產線
-    zh-cn: 生产线
-    zh-hans: 生产线
-    zh-hant: 生產線
-    zh-hk: 生產線
-    zh-sg: 生产线
-    zh-tw: 生產線
+    zh_cn: 生产线
+    zh_hans: 生产线
+    zh_hant: 生產線
+    zh_hk: 生產線
+    zh_sg: 生产线
+    zh_tw: 生產線
 ---
 # [[Mass_Production]] 
 

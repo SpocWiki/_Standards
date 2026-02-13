@@ -139,7 +139,7 @@ dv_has_:
     ban: Rutherfordium
     bcl: Ruterpordiyo
     be: Курчатовій
-    be-tarask: Рэзэрфорд
+    be_tarask: Рэзэрфорд
     bg: ръдърфордий
     bho: रदरफोर्डियम
     bn: রাদারফোর্ডিয়াম
@@ -158,7 +158,7 @@ dv_has_:
     de: Rutherfordium
     el: ραδερφόρντιο
     en: rutherfordium
-    en-gb: rutherfordium
+    en_gb: rutherfordium
     eo: ruterfordiumo
     es: rutherfordio
     et: rutherfordium
@@ -233,7 +233,7 @@ dv_has_:
     pnb: رتھرفورڈیم
     ps: ردرفورديوم
     pt: rutherfórdio
-    pt-br: rutherfórdio
+    pt_br: rutherfórdio
     qu: Rutherfordyu
     ro: rutherfordiu
     ru: резерфордий
@@ -248,7 +248,7 @@ dv_has_:
     so: Rutherfordium
     sq: rutherfordiumi
     sr: радерфордијум
-    sr-ec: Радерфордијум
+    sr_ec: Радерфордијум
     stq: Rutherfordium
     sv: rutherfordium
     sw: Rutherfordi
@@ -272,14 +272,14 @@ dv_has_:
     yo: Rutherfordium
     yue: 鑪
     zh: 鑪
-    zh-cn: "\U0002CB3B"
-    zh-hans: "\U0002CB3B"
-    zh-hant: 鑪
-    zh-hk: 鑪
-    zh-mo: 鑪
+    zh_cn: "\U0002CB3B"
+    zh_hans: "\U0002CB3B"
+    zh_hant: 鑪
+    zh_hk: 鑪
+    zh_mo: 鑪
     zh-my: "\U0002CB3B"
-    zh-sg: "\U0002CB3B"
-    zh-tw: 鑪
+    zh_sg: "\U0002CB3B"
+    zh_tw: 鑪
     zu: UmLefelambi
   number_of_:
     period: 7

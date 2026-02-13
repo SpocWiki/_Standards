@@ -71,7 +71,7 @@ dv_has_:
     af: Ververing
     ar: انسلاخ
     bcl: paghilono
-    be-tarask: ліняньне
+    be_tarask: ліняньне
     bg: Линеене
     bn: নির্মোচন
     bs: Linjanje
@@ -123,10 +123,10 @@ dv_has_:
     vi: Lột xác
     yue: 蛻皮
     zh: 蛻皮
-    zh-cn: 换羽
-    zh-hans: 换羽
-    zh-hk: 換羽
-    zh-sg: 换羽
+    zh_cn: 换羽
+    zh_hans: 换羽
+    zh_hk: 換羽
+    zh_sg: 换羽
 ---
 # [[Moulting]] 
 

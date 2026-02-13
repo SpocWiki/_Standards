@@ -6,7 +6,7 @@ dv_has_:
     ast: Intel Corporation
     azb: اینتل
     be: Intel
-    be-tarask: Інтэл
+    be_tarask: Інтэл
     bg: Интел
     bn: ইন্টেল কর্পোরেশন
     ca: Intel Corporation
@@ -47,7 +47,7 @@ dv_has_:
     si: ඉන්ටෙල්
     sq: Intel Corporation
     sr: Интел
-    sr-ec: Интел
+    sr_ec: Интел
     su: Intel Corporation
     ta: இன்டெல்
     te: ఇంటెల్ సంస్థ
@@ -56,14 +56,14 @@ dv_has_:
     wuu: 英特尔
     yue: 英特爾
     zh: 英特尔
-    zh-cn: 英特尔
-    zh-hans: 英特尔
-    zh-hant: 英特爾
-    zh-hk: 英特爾
-    zh-mo: 英特爾
+    zh_cn: 英特尔
+    zh_hans: 英特尔
+    zh_hant: 英特爾
+    zh_hk: 英特爾
+    zh_mo: 英特爾
     zh-my: 英特尔
-    zh-sg: 英特尔
-    zh-tw: 英特爾
+    zh_sg: 英特尔
+    zh_tw: 英特爾
 aliases:
 - Intel
 - Intel Corporation

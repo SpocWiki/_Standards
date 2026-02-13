@@ -55,7 +55,7 @@ dv_has_:
     ary: تمكنين
     ast: Mecanización
     be: Механізацыя
-    be-tarask: мэханізацыя
+    be_tarask: мэханізацыя
     ca: Maquinisme
     cs: mechanizace
     da: Mekanisering
@@ -94,18 +94,18 @@ dv_has_:
     sl: mehanizacija
     sq: Mekanizimi
     sr: механизација
-    sr-ec: Механизација
-    sr-el: Mehanizacija
+    sr_ec: Механизација
+    sr_el: Mehanizacija
     sv: Mekanisering
     tr: Mekanizasyon
     uk: механізація
     uz: Mexanizatsiya
     yue: 機械化
     zh: 機械化
-    zh-cn: 机械化
-    zh-hans: 生产机械化
-    zh-hant: 機械化
-    zh-hk: 生產機械化
+    zh_cn: 机械化
+    zh_hans: 生产机械化
+    zh_hant: 機械化
+    zh_hk: 生產機械化
 ---
 # [[Mechanization]] 
 

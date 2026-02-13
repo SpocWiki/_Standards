@@ -188,7 +188,7 @@ dv_has_:
     az: Müqəddəs Nikolay
     bar: Nikolaus vo Myra
     be: Святы Мікалай
-    be-tarask: Мікола Цудатворца
+    be_tarask: Мікола Цудатворца
     bg: Николай Чудотворец
     bn: সেন্ট নিকোলাস
     br: Nikolaz Mira
@@ -254,7 +254,7 @@ dv_has_:
     pl: Mikołaj z Miry
     pms: Nicòla ëd Myra
     pt: Nicolau de Mira
-    pt-br: Nicolau de Mira
+    pt_br: Nicolau de Mira
     ro: Sfântul Nicolae
     ru: Николай Чудотворец
     rue: Микула Чудотвориць

@@ -103,7 +103,7 @@ dv_has_:
     ast: Revolución neolítica
     az: Neolit inqilabı
     be: неалітычная рэвалюцыя
-    be-tarask: нэалітычная рэвалюцыя
+    be_tarask: нэалітычная рэвалюцыя
     bg: Неолитна революция
     bn: নব্যপ্রস্তর যুগীয় বিপ্লব
     br: Reveulzi neolitik
@@ -114,11 +114,11 @@ dv_has_:
     cs: neolitická revoluce
     da: Den neolitiske revolution
     de: neolithische Revolution
-    de-ch: Neolithische Revolution
+    de_ch: Neolithische Revolution
     el: Νεολιθική επανάσταση
     en: neolithic revolution
-    en-ca: Neolithic Revolution
-    en-gb: Neolithic Revolution
+    en_ca: Neolithic Revolution
+    en_gb: Neolithic Revolution
     en-us: neolithic revolution
     eo: neolitika revolucio
     es: Revolución neolítica
@@ -148,11 +148,11 @@ dv_has_:
     jam: Niolitik Revaluushan
     ka: ნეოლითური რევოლუცია
     kk: Неолиттік революция
-    kk-arab: نەولىيتتىك رەۆوليۋتسىييا
+    kk_arab: نەولىيتتىك رەۆوليۋتسىييا
     kk-cn: نەولىيتتىك رەۆوليۋتسىييا
-    kk-cyrl: Неолиттік революция
+    kk_cyrl: Неолиттік революция
     kk-kz: Неолиттік революция
-    kk-latn: Neolïttik revolyucïya
+    kk_latn: Neolïttik revolyucïya
     kk-tr: Neolïttik revolyucïya
     ko: 신석기 문화
     la: commutatio neolithica
@@ -172,15 +172,15 @@ dv_has_:
     pl: rewolucja neolityczna
     ps: د ډبرو د نوې دورې انقلاب
     pt: revolução neolítica
-    pt-br: Revolução neolítica
+    pt_br: Revolução neolítica
     ro: Revoluția neolitică
     ru: неолитическая революция
     sh: Neolitska revolucija
     sk: Neolitická revolúcia
     sl: neolitska revolucija
     sr: Neolitska revolucija
-    sr-ec: Неолитска револуција
-    sr-el: Neolitska revolucija
+    sr_ec: Неолитска револуција
+    sr_el: Neolitska revolucija
     sv: neolitiska revolutionen
     ta: புதுக்கற்காலப் புரட்சி
     th: การปฏิวัติยุคหินใหม่
@@ -192,12 +192,12 @@ dv_has_:
     wuu: 新石器革命
     yue: 新石器革命
     zh: 新石器革命
-    zh-cn: 新石器革命
-    zh-hans: 新石器革命
-    zh-hant: 新石器革命
-    zh-hk: 新石器革命
-    zh-sg: 新石器革命
-    zh-tw: 新石器革命
+    zh_cn: 新石器革命
+    zh_hans: 新石器革命
+    zh_hant: 新石器革命
+    zh_hk: 新石器革命
+    zh_sg: 新石器革命
+    zh_tw: 新石器革命
 ---
 # [[-9700-First_Agricultural_Revolution]] 
 

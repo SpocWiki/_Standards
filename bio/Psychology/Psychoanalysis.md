@@ -129,7 +129,7 @@ dv_has_:
     azb: سایکو آنالیتیک
     bar: psychoanalyse
     be: псіхааналіз
-    be-tarask: псыхааналіз
+    be_tarask: псыхааналіз
     bg: Психоанализа
     bn: মনোবিদ
     bs: psihoanaliza
@@ -142,8 +142,8 @@ dv_has_:
     dtp: Psikoponorindakan
     el: ψυχανάλυση
     en: psychoanalysis
-    en-ca: psychoanalysis
-    en-gb: psychoanalysis
+    en_ca: psychoanalysis
+    en_gb: psychoanalysis
     eo: psiĥoanalizo
     es: psicoanálisis
     et: psühhoanalüüs
@@ -198,7 +198,7 @@ dv_has_:
     pa: ਮਨੋਵਿਸ਼ਲੇਸ਼ਣ
     pl: psychoanaliza
     pt: psicanálise
-    pt-br: psicanálise
+    pt_br: psicanálise
     qu: sikuanalisis
     rki: စိတ်ခွဲခြားစီစစ်ရီးပညာ
     ro: psihanaliză
@@ -215,7 +215,7 @@ dv_has_:
     sms: psykoanalyys
     sq: psikoanaliza
     sr: психоанализа
-    sr-ec: психоанализа
+    sr_ec: психоанализа
     sv: psykoanalys
     sw: saikoanalisia
     ta: உளநிலைப் பகுப்பாய்வு
@@ -234,7 +234,7 @@ dv_has_:
     yue: 心理分析
     zgh: ⵜⴰⵚⵍⴹⵉⵎⴰⵏⵜ
     zh: 精神分析学
-    zh-hant: 精神分析學
+    zh_hant: 精神分析學
 ---
 # [[Psychoanalysis]] 
 

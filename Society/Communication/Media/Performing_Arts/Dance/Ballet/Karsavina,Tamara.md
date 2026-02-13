@@ -76,7 +76,7 @@ dv_has_:
     ast: Tamara Karsávina
     ba: Карсавина Тамара Платоновна
     be: Тамара Платонаўна Карсавіна
-    be-tarask: Тамара Карсавіна
+    be_tarask: Тамара Карсавіна
     ca: Tamara Karsàvina
     cs: Tamara Karsavinová
     cv: Карсавина Тамара Платоновна
@@ -112,7 +112,7 @@ dv_has_:
     pa: ਤਮਾਰਾ ਕਰਸਾਵਿਨਾ
     pl: Tamara Karsawina
     pt: Tamara Karsavina
-    pt-br: Tamara Karsavina
+    pt_br: Tamara Karsavina
     ro: Tamara Karsavina
     ru: Карсавина, Тамара Платоновна
     sk: Tamara Platonovna Karsavinová
@@ -127,9 +127,9 @@ dv_has_:
     wuu: 塔玛拉卡·莎维娜
     yue: 塔瑪拉卡莎維娜
     zh: Tamara Karsavina
-    zh-cn: 塔玛拉·卡尔萨维娜
-    zh-hans: 塔玛拉·卡尔萨维娜
-    zh-hant: 塔瑪拉·卡莎維娜
+    zh_cn: 塔玛拉·卡尔萨维娜
+    zh_hans: 塔玛拉·卡尔萨维娜
+    zh_hant: 塔瑪拉·卡莎維娜
 ---
 # [[Karsavina,Tamara]] 
 

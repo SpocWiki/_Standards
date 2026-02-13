@@ -157,7 +157,7 @@ dv_has_:
     az: Üç dərə SES
     ba: ГЭС Өс тарлауыҡ
     be: ГЭС Тры цясніны
-    be-tarask: ГЭС Тры цясьніны
+    be_tarask: ГЭС Тры цясьніны
     bg: Три клисури
     bho: थ्री गॉर्जिज डैम
     bn: তিন গিরিসংকটের বাঁধ
@@ -172,11 +172,11 @@ dv_has_:
     cy: Argae'r Tri Cheunant
     da: De Tre Slugters Dæmning
     de: Drei-Schluchten-Talsperre
-    de-ch: Drei-Schluchten-Talsperre
+    de_ch: Drei-Schluchten-Talsperre
     el: Φράγμα των Τριών Φαραγγιών
     en: Three Gorges Dam
-    en-ca: Three Gorges Dam
-    en-gb: Three Gorges Dam
+    en_ca: Three Gorges Dam
+    en_gb: Three Gorges Dam
     eo: Baraĵo Tri Gorĝoj
     es: Presa de las Tres Gargantas
     et: Kolme Kuristiku tamm
@@ -228,7 +228,7 @@ dv_has_:
     pms: Diga dle Tre Gole
     pnb: تن گلا بند
     pt: Hidrelétrica de Três Gargantas
-    pt-br: Hidrelétrica das Três Gargantas
+    pt_br: Hidrelétrica das Três Gargantas
     ro: Lacul Sanxia
     ru: Три ущелья
     sh: Brana Tri kanjona
@@ -253,14 +253,14 @@ dv_has_:
     yi: דריי-שלוכטן-דאמבע
     yue: 三峽大壩
     zh: 长江三峡水利枢纽工程
-    zh-cn: 长江三峡水利枢纽工程
-    zh-hans: 长江三峡水利枢纽工程
-    zh-hant: 長江三峽水利樞紐工程
-    zh-hk: 長江三峽水利樞紐工程
-    zh-mo: 長江三峽水利樞紐工程
+    zh_cn: 长江三峡水利枢纽工程
+    zh_hans: 长江三峡水利枢纽工程
+    zh_hant: 長江三峽水利樞紐工程
+    zh_hk: 長江三峽水利樞紐工程
+    zh_mo: 長江三峽水利樞紐工程
     zh-my: 长江三峡水利枢纽工程
-    zh-sg: 长江三峡水利枢纽工程
-    zh-tw: 長江三峽水利樞紐工程
+    zh_sg: 长江三峡水利枢纽工程
+    zh_tw: 長江三峽水利樞紐工程
 ---
 # [[Three_Gorges_Dam]]  
 

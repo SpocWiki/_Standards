@@ -155,7 +155,7 @@ dv_has_:
     ba: гандбол
     bar: Handboi
     be: гандбол
-    be-tarask: гандбол
+    be_tarask: гандбол
     bg: хандбал
     bjn: bal tangan
     bn: হ্যান্ডবল
@@ -168,13 +168,13 @@ dv_has_:
     cy: pêl-law
     da: håndbold
     de: Handball
-    de-ch: Handball
+    de_ch: Handball
     diq: hendbol
     dsb: chytańca
     el: χειροσφαίριση
     en: handball
-    en-ca: handball
-    en-gb: handball
+    en_ca: handball
+    en_gb: handball
     eo: manpilkado
     es: balonmano
     et: käsipall
@@ -220,7 +220,7 @@ dv_has_:
     ml: ഹാന്റ്ബോൾ
     mr: हँडबॉल
     ms: bola baling
-    ms-arab: بولا باليڠ
+    ms_arab: بولا باليڠ
     nb: håndball
     nds: Handball
     nl: handbal
@@ -232,7 +232,7 @@ dv_has_:
     pl: piłka ręczna
     pnb: ہینڈ بال
     pt: andebol
-    pt-br: handebol
+    pt_br: handebol
     qu: k'akcha pukllay
     rm: ballamaun
     ro: handbal
@@ -270,11 +270,11 @@ dv_has_:
     xmf: ხებურთი
     yue: 手球
     zh: 手球
-    zh-cn: 手球
-    zh-hans: 手球
-    zh-hant: 手球
-    zh-hk: 手球
-    zh-tw: 手球
+    zh_cn: 手球
+    zh_hans: 手球
+    zh_hant: 手球
+    zh_hk: 手球
+    zh_tw: 手球
 ---
 # [[Handball]] 
 

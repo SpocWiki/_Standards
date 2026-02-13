@@ -125,14 +125,14 @@ dv_has_:
     ba: Европа олимпия комитеттары
     bcl: Europeanong Olimpikong mga Komite
     be: Еўрапейскія алімпійскія камітэты
-    be-tarask: Эўрапейскія алімпійскія камітэты
+    be_tarask: Эўрапейскія алімпійскія камітэты
     ca: Comitès Olímpics Europeus
     cs: Evropský olympijský výbor
     de: Europäische Olympische Komitees
     el: Ευρωπαϊκές Ολυμπιακές Επιτροπές
     en: European Olympic Committees
-    en-ca: European Olympic Committees
-    en-gb: European Olympic Committees
+    en_ca: European Olympic Committees
+    en_gb: European Olympic Committees
     eo: Eŭropaj olimpikaj komitatoj
     es: Comités Olímpicos Europeos
     et: Euroopa Olümpiakomitee
@@ -158,7 +158,7 @@ dv_has_:
     nl: Europese Olympische Comités
     pl: Europejski Komitet Olimpijski
     pt: Comitês Olímpicos Europeus
-    pt-br: Comitês Olímpicos Europeus
+    pt_br: Comitês Olímpicos Europeus
     ru: Европейские олимпийские комитеты
     sl: Evropski olimpijski komiteji
     sq: Komiteti Olimpik Evropian
@@ -171,9 +171,9 @@ dv_has_:
     uz: Yevropa Olimpiya qoʻmitasi
     vi: Ủy ban Olympic châu Âu
     zh: 欧洲奥林匹克委员会
-    zh-hans: 欧洲奥林匹克委员会
-    zh-hant: 歐洲奧林匹克委員會
-    zh-hk: 歐洲奧林匹克委員會
+    zh_hans: 欧洲奥林匹克委员会
+    zh_hant: 歐洲奧林匹克委員會
+    zh_hk: 歐洲奧林匹克委員會
 ---
 # [[European_Olympic_Committees]] 
 

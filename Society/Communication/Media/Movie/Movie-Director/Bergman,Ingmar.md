@@ -184,7 +184,7 @@ dv_has_:
     ba: Бергман Ингмар
     bar: Ingmar Bergman
     be: Інгмар Бергман
-    be-tarask: Інгмар Бэргман
+    be_tarask: Інгмар Бэргман
     bew: Ingmar Bergman
     bg: Ингмар Бергман
     bi: Ingmar Bergman
@@ -203,12 +203,12 @@ dv_has_:
     da: Ingmar Bergman
     de: Ingmar Bergman
     de-at: Ingmar Bergman
-    de-ch: Ingmar Bergman
+    de_ch: Ingmar Bergman
     ee: Ingmar Bergman
     el: Ίνγκμαρ Μπέργκμαν
     en: Ingmar Bergman
-    en-ca: Ingmar Bergman
-    en-gb: Ingmar Bergman
+    en_ca: Ingmar Bergman
+    en_gb: Ingmar Bergman
     eo: Ingmar Bergman
     es: Ingmar Bergman
     et: Ingmar Bergman
@@ -276,7 +276,7 @@ dv_has_:
     nap: Ingmar Bergman
     nb: Ingmar Bergman
     nds: Ingmar Bergman
-    nds-nl: Ingmar Bergman
+    nds_nl: Ingmar Bergman
     nl: Ingmar Bergman
     nn: Ingmar Bergman
     nrm: Ingmar Bergman
@@ -288,7 +288,7 @@ dv_has_:
     pms: Ingmar Bergman
     pnb: انگمار برگمان
     pt: Ingmar Bergman
-    pt-br: Ingmar Bergman
+    pt_br: Ingmar Bergman
     qu: Ingmar Bergman
     rm: Ingmar Bergman
     rmf: Ingmar Bergman
@@ -314,7 +314,7 @@ dv_has_:
     sms: Ingmar Bergman
     sq: Ingmar Bergman
     sr: Ингмар Бергман
-    sr-el: Ingmar Bergman
+    sr_el: Ingmar Bergman
     sv: Ingmar Bergman
     sw: Ingmar Bergman
     syl: ꠁꠋꠝꠣꠞ ꠛꠣꠞꠉꠝꠦꠘ
@@ -340,11 +340,11 @@ dv_has_:
     yi: אינגמאר בערזשמאן
     yue: 英瑪褒曼
     zh: 英格瑪·伯格曼
-    zh-cn: 英格玛·伯格曼
-    zh-hans: 英格玛·伯格曼
-    zh-hant: 英格瑪·伯格曼
+    zh_cn: 英格玛·伯格曼
+    zh_hans: 英格玛·伯格曼
+    zh_hant: 英格瑪·伯格曼
     zh-my: 英玛·褒曼
-    zh-sg: 英格玛·柏格曼
+    zh_sg: 英格玛·柏格曼
     zu: Ingmar Bergman
 ---
 #has_/time_/started ::  1918-07-14

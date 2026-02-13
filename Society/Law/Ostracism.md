@@ -67,7 +67,7 @@ dv_has_:
     ast: Ostracismu
     az: Ostrakizm
     be: Астракізм
-    be-tarask: астракізм
+    be_tarask: астракізм
     bg: Остракизъм
     br: Ostrakism
     ca: ostracisme
@@ -95,11 +95,11 @@ dv_has_:
     it: ostracismo
     ja: 陶片追放
     kk: Остракизм
-    kk-arab: وستراكىيزم
+    kk_arab: وستراكىيزم
     kk-cn: وستراكىيزم
-    kk-cyrl: Остракизм
+    kk_cyrl: Остракизм
     kk-kz: Остракизм
-    kk-latn: Ostrakïzm
+    kk_latn: Ostrakïzm
     kk-tr: Ostrakïzm
     ko: 도편 추방
     ky: Остракизм
@@ -118,8 +118,8 @@ dv_has_:
     sk: Ostrakizmus
     sl: ostrakizem
     sr: Остракизам
-    sr-ec: Остракизам
-    sr-el: Ostrakizam
+    sr_ec: Остракизам
+    sr_el: Ostrakizam
     sv: Ostracism
     ta: விலக்கிவைத்தல்
     tr: Ostrakismos
@@ -128,12 +128,12 @@ dv_has_:
     vi: Ostracism
     yue: 陶片放逐
     zh: 陶片放逐制
-    zh-cn: 陶片放逐制
-    zh-hans: 陶片放逐制
-    zh-hant: 陶片放逐制
-    zh-hk: 陶片放逐制
-    zh-sg: 陶片放逐制
-    zh-tw: 陶片放逐制
+    zh_cn: 陶片放逐制
+    zh_hans: 陶片放逐制
+    zh_hant: 陶片放逐制
+    zh_hk: 陶片放逐制
+    zh_sg: 陶片放逐制
+    zh_tw: 陶片放逐制
 ---
 # [[Ostracism]] 
 

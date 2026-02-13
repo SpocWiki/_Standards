@@ -341,7 +341,7 @@ dv_has_:
     ba: Йоһанн Вольфганг фон Гёте
     bar: Johann Wolfgang von Goethe
     be: Іаган Вольфганг фон Гётэ
-    be-tarask: Ёган Вольфганг фон Гётэ
+    be_tarask: Ёган Вольфганг фон Гётэ
     bg: Йохан Волфганг фон Гьоте
     bho: जोहान वुल्फगैंग फॉन गोएथ
     bi: Johann Wolfgang von Goethe
@@ -480,8 +480,8 @@ dv_has_:
     sl: Johann Wolfgang von Goethe
     sq: Johann Wolfgang Goethe
     sr: Јохан Волфганг Гете
-    sr-ec: Јохан Волфганг Гете
-    sr-el: Johan Volfgang Gete
+    sr_ec: Јохан Волфганг Гете
+    sr_el: Johan Volfgang Gete
     stq: Johann Wolfgang von Goethe
     sv: Johann Wolfgang von Goethe
     sw: Johann Wolfgang von Goethe
@@ -511,7 +511,7 @@ dv_has_:
     yue: 歌德
     za: Goethe
     zh: 约翰·沃尔夫冈·冯·歌德
-    zh-tw: 約翰·沃夫岡·馮·歌德
+    zh_tw: 約翰·沃夫岡·馮·歌德
 ---
 # [[Goethe,Johann_Wolfgang_von]] 
 

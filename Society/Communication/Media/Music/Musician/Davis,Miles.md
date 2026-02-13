@@ -150,7 +150,7 @@ dv_has_:
     azb: مایلز دیویس
     bar: Miles Davis
     be: Майлс Дэйвіс
-    be-tarask: Майлз Дэйвіс
+    be_tarask: Майлз Дэйвіс
     bg: Майлс Дейвис
     bn: মাইলস ডেভিস
     bs: Miles Davis
@@ -161,12 +161,12 @@ dv_has_:
     da: Miles Davis
     dag: Miles Davis
     de: Miles Davis
-    de-ch: Miles Davis
+    de_ch: Miles Davis
     ee: Miles Davis
     el: Μάιλς Ντέιβις
     en: Miles Davis
-    en-ca: Miles Davis
-    en-gb: Miles Davis
+    en_ca: Miles Davis
+    en_gb: Miles Davis
     en-us: Miles Davis
     eo: Miles Davis
     es: Miles Davis
@@ -216,7 +216,7 @@ dv_has_:
     pl: Miles Davis
     pms: Miles Davis
     pt: Miles Davis
-    pt-br: Miles Davis
+    pt_br: Miles Davis
     qu: Miles Davis
     ro: Miles Davis
     ru: Майлз Дэвис
@@ -228,8 +228,8 @@ dv_has_:
     sl: Miles Davis
     sq: Miles Davis
     sr: Мајлс Дејвис
-    sr-ec: Мајлс Дејвис
-    sr-el: Majls Dejvis
+    sr_ec: Мајлс Дејвис
+    sr_el: Majls Dejvis
     sv: Miles Davis
     sw: Miles Davis
     te: మిలెస్ దవిస్
@@ -244,12 +244,12 @@ dv_has_:
     yo: Miles Davis
     yue: Miles Davis
     zh: 邁爾士·戴維斯
-    zh-cn: 迈尔斯·戴维斯
-    zh-hans: 迈尔斯·戴维斯
-    zh-hant: 邁爾士·戴維斯
-    zh-hk: 邁爾士·戴維斯
-    zh-sg: 迈尔士·戴维斯
-    zh-tw: 邁爾士·戴維斯
+    zh_cn: 迈尔斯·戴维斯
+    zh_hans: 迈尔斯·戴维斯
+    zh_hant: 邁爾士·戴維斯
+    zh_hk: 邁爾士·戴維斯
+    zh_sg: 迈尔士·戴维斯
+    zh_tw: 邁爾士·戴維斯
 ---
 # [[Davis,Miles]] 
 

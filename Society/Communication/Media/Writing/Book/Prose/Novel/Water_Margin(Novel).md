@@ -105,7 +105,7 @@ dv_has_:
     ast: Shuihu Zhuan
     ba: Йылға ҡултыҡтары (Ҡытай романы)
     be: Рачныя затокі
-    be-tarask: Рачныя затокі
+    be_tarask: Рачныя затокі
     bg: Речни заливи
     bo: ཆུ་ངོགས་གཏམ་རྒྱུད།
     ca: Marge d'Aigua
@@ -113,11 +113,11 @@ dv_has_:
     cs: Příběhy od jezerního břehu
     da: Fortællinger fra marsk og mose
     de: Die Räuber vom Liang-Schan-Moor
-    de-ch: Die Räuber vom Liang-Schan-Moor
+    de_ch: Die Räuber vom Liang-Schan-Moor
     dga: Kõɔ miri
     en: Water Margin
-    en-ca: Water Margin
-    en-gb: Water Margin
+    en_ca: Water Margin
+    en_gb: Water Margin
     eo: Ĉe akvorando
     es: Bandidos del pantano
     eu: Uraren bazterrean
@@ -158,14 +158,14 @@ dv_has_:
     wuu: 水浒传
     yue: 水滸傳
     zh: 水滸傳
-    zh-cn: 水浒传
-    zh-hans: 水浒传
-    zh-hant: 水滸傳
-    zh-hk: 水滸傳
-    zh-mo: 水滸傳
+    zh_cn: 水浒传
+    zh_hans: 水浒传
+    zh_hant: 水滸傳
+    zh_hk: 水滸傳
+    zh_mo: 水滸傳
     zh-my: 水浒传
-    zh-sg: 水浒传
-    zh-tw: 水滸傳
+    zh_sg: 水浒传
+    zh_tw: 水滸傳
 ---
 # [[Water_Margin(Novel)]] 
 

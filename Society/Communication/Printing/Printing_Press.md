@@ -96,7 +96,7 @@ dv_has_:
     ar: آلة الطباعة
     ast: imprenta
     az: Kitab çapı texnologiyası
-    be-tarask: друкарскі варштат
+    be_tarask: друкарскі варштат
     bg: Печатна преса
     bn: মুদ্রণযন্ত্র
     bs: Štamparska mašina
@@ -106,11 +106,11 @@ dv_has_:
     cy: Gwasg argraffu
     da: Trykpresse
     de: Druckpresse
-    de-ch: Druckpresse
+    de_ch: Druckpresse
     el: τυπογραφικό πιεστήριο
     en: printing press
-    en-ca: Printing press
-    en-gb: printing press
+    en_ca: Printing press
+    en_gb: printing press
     eo: presilo
     es: imprenta
     et: Trükimasin
@@ -154,7 +154,7 @@ dv_has_:
     pl: maszyna drukarska
     ps: د چاپ ماشین
     pt: prensa móvel
-    pt-br: prensa móvel
+    pt_br: prensa móvel
     ro: presa de tipar
     ru: ручной типографский станок
     scn: Stampa
@@ -163,8 +163,8 @@ dv_has_:
     sl: tiskarska stiskalnica
     sq: Makina e shtypit
     sr: штампарска машина
-    sr-ec: штампарска машина
-    sr-el: štamparska mašina
+    sr_ec: штампарска машина
+    sr_el: štamparska mašina
     su: Jaman mesin
     sv: boktryckarkonst
     ta: அச்சு இயந்திரம்
@@ -178,12 +178,12 @@ dv_has_:
     wuu: 印刷机
     yue: 印書盤
     zh: 印刷机
-    zh-cn: 印刷机
-    zh-hans: 印刷机
-    zh-hant: 印刷機
-    zh-hk: 印刷機
-    zh-sg: 印刷机
-    zh-tw: 印刷機
+    zh_cn: 印刷机
+    zh_hans: 印刷机
+    zh_hant: 印刷機
+    zh_hk: 印刷機
+    zh_sg: 印刷机
+    zh_tw: 印刷機
 ---
 # [[Printing_Press]] 
 

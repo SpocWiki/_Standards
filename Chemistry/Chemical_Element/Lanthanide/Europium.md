@@ -138,7 +138,7 @@ dv_has_:
     ba: Европий
     ban: Éuropium
     be: Еўропій
-    be-tarask: эўроп
+    be_tarask: эўроп
     bg: европий
     bho: युरोपियम
     bn: ইউরোপিয়াম
@@ -155,11 +155,11 @@ dv_has_:
     cy: ewropiwm
     da: europium
     de: Europium
-    de-ch: Europium
+    de_ch: Europium
     el: ευρώπιο
     en: europium
-    en-ca: Europium
-    en-gb: europium
+    en_ca: Europium
+    en_gb: europium
     eo: eŭropio
     es: europio
     et: Euroopium
@@ -238,7 +238,7 @@ dv_has_:
     pnb: یوروپیم
     ps: يوروپيوم
     pt: európio
-    pt-br: európio
+    pt_br: európio
     qu: Iwrupyu
     ro: europiu
     ru: европий
@@ -253,7 +253,7 @@ dv_has_:
     sl: evropij
     sq: Europi
     sr: еуропијум
-    sr-ec: Европијум
+    sr_ec: Европијум
     stq: Europium
     sv: europium
     sw: Europi
@@ -276,9 +276,9 @@ dv_has_:
     yo: Europium
     yue: 銪
     zh: 銪
-    zh-hans: 铕
-    zh-hant: 銪
-    zh-tw: 銪
+    zh_hans: 铕
+    zh_hant: 銪
+    zh_tw: 銪
     zu: UmNulundu
   number_of_:
     period: 6

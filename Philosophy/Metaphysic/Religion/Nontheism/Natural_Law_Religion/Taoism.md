@@ -157,7 +157,7 @@ dv_has_:
     ban: Agama Tao
     bcl: Tawismo
     be: Даасізм
-    be-tarask: даасізм
+    be_tarask: даасізм
     bew: Ajaran Tao
     bg: Даоизъм
     bn: তাওবাদ
@@ -176,12 +176,12 @@ dv_has_:
     cy: Taoaeth
     da: Taoisme
     de: Daoismus
-    de-ch: Daoismus
+    de_ch: Daoismus
     diq: Taoizm
     el: Ταοϊσμός
     en: Taoism
-    en-ca: Taoism
-    en-gb: Taoism
+    en_ca: Taoism
+    en_gb: Taoism
     eo: Taoismo
     es: taoísmo
     et: taoism
@@ -272,7 +272,7 @@ dv_has_:
     pms: Taoism
     pnb: تاؤ مت
     pt: Taoismo
-    pt-br: Taoismo
+    pt_br: Taoismo
     rki: တာအိုဘာသာ
     ro: taoism
     ru: даосизм
@@ -318,14 +318,14 @@ dv_has_:
     yue: 道教
     za: Dauhgyau
     zh: 道教
-    zh-cn: 道教
-    zh-hans: 道教
-    zh-hant: 道教
-    zh-hk: 道教
-    zh-mo: 道教
+    zh_cn: 道教
+    zh_hans: 道教
+    zh_hant: 道教
+    zh_hk: 道教
+    zh_mo: 道教
     zh-my: 道教
-    zh-sg: 道教
-    zh-tw: 道教
+    zh_sg: 道教
+    zh_tw: 道教
 ---
 # [[Taoism]] 
 

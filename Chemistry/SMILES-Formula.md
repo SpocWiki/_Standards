@@ -41,7 +41,7 @@ dv_has_:
   name_:
     ar: محددات الإدخال الخطي النصي الجزيئي المبسط
     az: SMILES
-    be-tarask: спрошчаная лінейная спэцыфікацыя запісаў малекулярнай будовы
+    be_tarask: спрошчаная лінейная спэцыфікацыя запісаў малекулярнай будовы
     bg: SMILES
     bn: সিমপ্লিফায়েড মলিকুলার-ইনপুট লাইন-এন্ট্রি সিস্টেম
     bs: SMILES
@@ -79,8 +79,8 @@ dv_has_:
     sh: SMILES
     sl: SMILES
     sr: SMILES
-    sr-ec: SMILES
-    sr-el: SMILES
+    sr_ec: SMILES
+    sr_el: SMILES
     sv: SMILES
     ta: எளிமைப்படுத்தப்பட்ட மூலக்கூறு-உள்ளீடு வரி-நுழைவு அமைப்பு
     tr: SMILES
@@ -88,12 +88,12 @@ dv_has_:
     ur: اسمائلس
     wuu: 简化分子线性输入规范
     zh: 簡化分子線型輸入規範
-    zh-cn: 简化分子线性输入规范
-    zh-hans: SMILES
-    zh-hant: SMILES
-    zh-hk: SMILES
-    zh-sg: SMILES
-    zh-tw: 簡化分子線型輸入規範
+    zh_cn: 简化分子线性输入规范
+    zh_hans: SMILES
+    zh_hant: SMILES
+    zh_hk: SMILES
+    zh_sg: SMILES
+    zh_tw: 簡化分子線型輸入規範
 ---
 ## #has_/text_of_/abstract 
 

@@ -490,7 +490,7 @@ dv_has_:
   name_:
     ab: Сиерра-Леоне
     ace: Sierra Leone
-    aeb-arab: سياراليوني
+    aeb_arab: سياراليوني
     af: Sierra Leone
     am: ሴየራ ሌዎን
     ami: Sierra leone
@@ -510,7 +510,7 @@ dv_has_:
     bar: Sierra Leone
     bcl: Sierra Leona
     be: Сьера-Леонэ
-    be-tarask: Сьера-Леонэ
+    be_tarask: Сьера-Леонэ
     bew: Gunung Singa
     bg: Сиера Леоне
     bho: सिएरा लियोन
@@ -524,7 +524,7 @@ dv_has_:
     bs: Sijera Leone
     bxr: Сьерра-Леоне
     ca: Sierra Leone
-    cbk-zam: Sierra Leona
+    cbk_zam: Sierra Leona
     cdo: Sierra Leone
     ce: Сьерра-Леоне
     ceb: Sierra Leone
@@ -532,14 +532,14 @@ dv_has_:
     ckb: سیەرالیۆن
     co: Sierra Leone
     crh: Syerra Leone
-    crh-latn: Syerra Leone
+    crh_latn: Syerra Leone
     cs: Sierra Leone
     cy: Sierra Leone
     da: Sierra Leone
     dag: Sierra Leone
     de: Sierra Leone
     de-at: Sierra Leone
-    de-ch: Sierra Leone
+    de_ch: Sierra Leone
     diq: Sierra Leone
     dsb: Sierra Leone
     dty: सियरा लियोन
@@ -547,8 +547,8 @@ dv_has_:
     ee: Sierra Leone
     el: Σιέρα Λεόνε
     en: Sierra Leone
-    en-ca: Sierra Leone
-    en-gb: Sierra Leone
+    en_ca: Sierra Leone
+    en_gb: Sierra Leone
     eo: Sieraleono
     es: Sierra Leona
     et: Sierra Leone
@@ -651,7 +651,7 @@ dv_has_:
     nan: Sierra Leone
     nb: Sierra Leone
     nds: Sierra Leone
-    nds-nl: Sierra Leone
+    nds_nl: Sierra Leone
     ne: सीयेरा लीओन
     new: सिएरा लियोन
     nl: Sierra Leone
@@ -676,7 +676,7 @@ dv_has_:
     pnb: سیرالیون
     ps: سيراليون
     pt: Serra Leoa
-    pt-br: Serra Leoa
+    pt_br: Serra Leoa
     qu: Liyun Urqu
     ro: Sierra Leone
     ru: Сьерра-Леоне
@@ -703,8 +703,8 @@ dv_has_:
     so: Sierra Leone
     sq: Siera Leone
     sr: Сијера Леоне
-    sr-ec: Сијера Леоне
-    sr-el: Sijera Leone
+    sr_ec: Сијера Леоне
+    sr_el: Sijera Leone
     ss: ISiriya-Liyoni
     st: Sierra Leone
     stq: Sierra Leone
@@ -751,14 +751,14 @@ dv_has_:
     zea: Sierra Leone
     zgh: ⵙⵉⵔⴰⵍⵢⵓⵏ
     zh: 塞拉利昂
-    zh-cn: 塞拉利昂
-    zh-hans: 塞拉利昂
-    zh-hant: 獅子山
-    zh-hk: 塞拉利昂
-    zh-mo: 塞拉利昂
+    zh_cn: 塞拉利昂
+    zh_hans: 塞拉利昂
+    zh_hant: 獅子山
+    zh_hk: 塞拉利昂
+    zh_mo: 塞拉利昂
     zh-my: 塞拉利昂
-    zh-sg: 塞拉利昂
-    zh-tw: 獅子山
+    zh_sg: 塞拉利昂
+    zh_tw: 獅子山
     zu: ISiera Liyoni
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Sierra_Leone

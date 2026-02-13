@@ -155,7 +155,7 @@ dv_has_:
     ba: поп-музыка
     bar: Popmusi
     be: поп-музыка
-    be-tarask: поп-музыка
+    be_tarask: поп-музыка
     bg: поп музика
     bn: পপ সঙ্গীত
     bo: དར་ཁྱབ་ཆེ་བའི་རོལ་དབྱངས།
@@ -172,8 +172,8 @@ dv_has_:
     diq: Muzikê popi
     el: ποπ μουσική
     en: pop music
-    en-ca: pop music
-    en-gb: pop music
+    en_ca: pop music
+    en_gb: pop music
     en-us: pop music
     eo: pop-muziko
     es: pop
@@ -218,7 +218,7 @@ dv_has_:
     ko: 팝 음악
     ks: پاپ موسیٖقی
     ku: muzîka pop
-    ku-latn: pop
+    ku_latn: pop
     kw: ilow popp
     ky: Поп-музыка
     la: Musica popularis
@@ -231,7 +231,7 @@ dv_has_:
     mn: Поп хөгжим
     mr: पॉप संगीत
     ms: pop
-    ms-arab: موزيک ڤوڤ
+    ms_arab: موزيک ڤوڤ
     mt: mużika pop
     mwl: pop
     my: ပေါ့ပ် ဂီတ
@@ -251,7 +251,7 @@ dv_has_:
     pl: muzyka pop
     pnb: پاپ میوزک
     pt: música pop
-    pt-br: música pop
+    pt_br: música pop
     qu: pop
     ro: pop
     ru: поп-музыка
@@ -289,14 +289,14 @@ dv_has_:
     yue: 波普音樂
     zea: Popmuziek
     zh: 流行音乐
-    zh-cn: 流行音乐
-    zh-hans: 流行音乐
-    zh-hant: 流行音樂
-    zh-hk: 流行音樂
-    zh-mo: 流行音樂
+    zh_cn: 流行音乐
+    zh_hans: 流行音乐
+    zh_hant: 流行音樂
+    zh_hk: 流行音樂
+    zh_mo: 流行音樂
     zh-my: 流行音乐
-    zh-sg: 流行音乐
-    zh-tw: 流行音樂
+    zh_sg: 流行音乐
+    zh_tw: 流行音樂
 ---
 # [[Pop_Music]] 
 

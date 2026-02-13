@@ -221,7 +221,7 @@ dv_has_:
     bar: Margaret Thatcher
     bcl: Margaret Thatcher
     be: Маргарэт Тэтчэр
-    be-tarask: Маргарэт Тэтчэр
+    be_tarask: Маргарэт Тэтчэр
     bg: Маргарет Тачър
     bi: Margaret Thatcher
     bn: মার্গারেট থ্যাচার
@@ -238,13 +238,13 @@ dv_has_:
     da: Margaret Thatcher
     de: Margaret Thatcher
     de-at: Margaret Thatcher
-    de-ch: Margaret Thatcher
+    de_ch: Margaret Thatcher
     diq: Margaret Thatcher
     ee: Margaret Thatcher
     el: Μάργκαρετ Θάτσερ
     en: Margaret Thatcher
-    en-ca: Margaret Thatcher
-    en-gb: Margaret Thatcher
+    en_ca: Margaret Thatcher
+    en_gb: Margaret Thatcher
     eo: Margaret Thatcher
     es: Margaret Thatcher
     et: Margaret Thatcher
@@ -317,7 +317,7 @@ dv_has_:
     nap: Margaret Thatcher
     nb: Margaret Thatcher
     nds: Margaret Thatcher
-    nds-nl: Margaret Thatcher
+    nds_nl: Margaret Thatcher
     ne: मार्गरेट थ्याचर
     new: मार्गरेट थ्याचर
     nl: Margaret Thatcher
@@ -333,7 +333,7 @@ dv_has_:
     pnb: مارگریٹ تھیچر
     ps: مارگريت تاچر
     pt: Margaret Thatcher
-    pt-br: Margaret Thatcher
+    pt_br: Margaret Thatcher
     qu: Margaret Thatcher
     rm: Margaret Thatcher
     ro: Margaret Thatcher
@@ -355,7 +355,7 @@ dv_has_:
     so: Margaret Thatcher
     sq: Margaret Thatcher
     sr: Маргарет Тачер
-    sr-el: Margaret Thatcher
+    sr_el: Margaret Thatcher
     stq: Margaret Thatcher
     su: Margaret Thatcher
     sv: Margaret Thatcher
@@ -387,11 +387,11 @@ dv_has_:
     yo: Margaret Thatcher
     yue: 戴卓爾夫人
     zh: 玛格丽特·撒切尔
-    zh-cn: 撒切尔夫人
-    zh-hans: 玛格丽特·撒切尔
-    zh-hant: 瑪嘉烈·戴卓爾
-    zh-hk: 戴卓爾夫人
-    zh-tw: 柴契爾夫人
+    zh_cn: 撒切尔夫人
+    zh_hans: 玛格丽特·撒切尔
+    zh_hant: 瑪嘉烈·戴卓爾
+    zh_hk: 戴卓爾夫人
+    zh_tw: 柴契爾夫人
     zu: Margaret Thatcher
 ---
 # [[Thatcher,Margaret]] 

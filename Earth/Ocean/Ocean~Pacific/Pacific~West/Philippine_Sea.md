@@ -153,12 +153,12 @@ dv_has_:
     ban: Segara Filipina
     bcl: Dagat Filipinas
     be: Філіпінскае мора
-    be-tarask: Філіпінскае мора
+    be_tarask: Філіпінскае мора
     bg: Филипинско море
     bn: ফিলিপাইন সাগর
     bs: Filipinsko more
     ca: mar de les Filipines
-    cbk-zam: Mar de las Filipinas
+    cbk_zam: Mar de las Filipinas
     ceb: Philippine Sea - Ngulu Atoll
     cs: Filipínské moře
     cv: Филиппин тинĕсĕ
@@ -222,8 +222,8 @@ dv_has_:
     sl: Filipinsko morje
     sq: Deti Filipine
     sr: Филипинско море
-    sr-ec: Филипинско море
-    sr-el: Filipinsko more
+    sr_ec: Филипинско море
+    sr_el: Filipinsko more
     sv: Filippinska sjön
     sw: Bahari ya Ufilipino
     ta: பிலிப்பைன் கடல்
@@ -241,12 +241,12 @@ dv_has_:
     xmf: ფილიპინიშ ზუღა
     yue: 菲律賓海
     zh: 菲律賓海
-    zh-cn: 菲律宾海
-    zh-hans: 菲律宾海
-    zh-hant: 菲律賓海
-    zh-hk: 菲律賓海
-    zh-sg: 菲律宾海
-    zh-tw: 菲律賓海
+    zh_cn: 菲律宾海
+    zh_hans: 菲律宾海
+    zh_hant: 菲律賓海
+    zh_hk: 菲律賓海
+    zh_sg: 菲律宾海
+    zh_tw: 菲律賓海
 ---
 # [[Philippine_Sea]] 
 

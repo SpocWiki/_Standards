@@ -148,7 +148,7 @@ dv_has_:
     azb: سی وی رامان
     ba: Чандрасекхара Венката Раман
     be: Чандрасекхара Венката Раман
-    be-tarask: Чандрасэкара Вэнката Раман
+    be_tarask: Чандрасэкара Вэнката Раман
     bg: Венката Раман
     bho: सी. वी. रमन
     bn: চন্দ্রশেখর ভেঙ্কট রামন
@@ -219,7 +219,7 @@ dv_has_:
     pnb: وینکٹا رامن
     ps: سي. وي. رامن
     pt: Chandrasekhara Venkata Raman
-    pt-br: Chandrasekhara Venkata Raman
+    pt_br: Chandrasekhara Venkata Raman
     qu: Chandrasekhara Raman
     ro: Chandrasekhara Venkata Raman
     ru: Чандрасекхара Венката Раман
@@ -233,7 +233,7 @@ dv_has_:
     smn: Chandrasekhara Raman
     sq: C. V. Raman
     sr: Чандрасекара Венката Раман
-    sr-ec: Чандрасекара Венката Раман
+    sr_ec: Чандрасекара Венката Раман
     sv: Chandrasekhara Venkata Raman
     sw: Chandrasekhara Raman
     ta: ச. வெ. இராமன்

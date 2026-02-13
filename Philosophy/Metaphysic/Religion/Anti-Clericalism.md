@@ -59,7 +59,7 @@ dv_has_:
     ast: anticlericalismu
     az: Antiklerikalizm
     be: антыклерыкалізм
-    be-tarask: антыклерыкалізм
+    be_tarask: антыклерыкалізм
     bg: антиклерикализъм
     bxr: Антиклерикализм
     ca: anticlericalisme
@@ -108,8 +108,8 @@ dv_has_:
     uz: Antiklerikalizm
     vec: Anticlericałismo
     zh: 反教權主義
-    zh-cn: 反教权主义
-    zh-hant: 反教權主義
+    zh_cn: 反教权主义
+    zh_hant: 反教權主義
 ---
 # [[Anti-Clericalism]] 
 

@@ -35,10 +35,10 @@ dv_has_:
     sv: Bill & Teds galna äventyr
     yue: 妙趣孖寶時空漫遊
     zh: 阿比阿弟大冒險
-    zh-cn: 亲爱的 (电影)
-    zh-hant: 阿比阿弟大冒險
-    zh-hk: 妙趣孖寶時空漫遊
-    zh-tw: 阿比阿弟大冒險
+    zh_cn: 亲爱的 (电影)
+    zh_hant: 阿比阿弟大冒險
+    zh_hk: 妙趣孖寶時空漫遊
+    zh_tw: 阿比阿弟大冒險
 aliases:
 - Bila un Teda neticamie piedzīvojumi
 - Bill & Ted's Excellent Adventure

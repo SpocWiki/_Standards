@@ -53,7 +53,7 @@ dv_has_:
     avk: kustroleem
     az: Zürafələr
     be: жырафавыя
-    be-tarask: Жырафавыя
+    be_tarask: Жырафавыя
     bg: жирафови
     br: Giraffidae
     ca: giràfids
@@ -102,7 +102,7 @@ dv_has_:
     pl: żyrafowate
     pnb: زرافہ ٹبر
     pt: Giraffidae
-    pt-br: Giraffidae
+    pt_br: Giraffidae
     ro: Giraffidae
     ru: жирафовые
     sco: Giraffidae
@@ -121,12 +121,12 @@ dv_has_:
     xmf: ჟირაფიშობურეფი
     yue: 長頸鹿科
     zh: 长颈鹿科
-    zh-cn: 长颈鹿科
-    zh-hans: 长颈鹿科
-    zh-hant: 長頸鹿科
-    zh-hk: 長頸鹿科
-    zh-sg: 长颈鹿科
-    zh-tw: 長頸鹿科
+    zh_cn: 长颈鹿科
+    zh_hans: 长颈鹿科
+    zh_hant: 長頸鹿科
+    zh_hk: 長頸鹿科
+    zh_sg: 长颈鹿科
+    zh_tw: 長頸鹿科
 ---
 # [[Giraffidae]] 
 

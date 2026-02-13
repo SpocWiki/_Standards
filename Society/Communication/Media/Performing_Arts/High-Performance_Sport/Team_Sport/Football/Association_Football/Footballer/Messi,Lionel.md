@@ -268,7 +268,7 @@ dv_has_:
     bar: Lionel Messi
     bcl: Lionel Messi
     be: Ліянель Месі
-    be-tarask: Ліянэль Мэсі
+    be_tarask: Ліянэль Мэсі
     bew: Lionel Messi
     bg: Лионел Меси
     bjn: Lionel Messi
@@ -286,15 +286,15 @@ dv_has_:
     da: Lionel Messi
     dag: Lionel Messi
     de: Lionel Messi
-    de-ch: Lionel Messi
+    de_ch: Lionel Messi
     diq: Lionel Messi
     dtp: Lionel Messi
     dty: लियोनेल मेस्सी
     el: Λιονέλ Μέσι
     eml: Lionel Messi
     en: Lionel Messi
-    en-ca: Lionel Messi
-    en-gb: Lionel Messi
+    en_ca: Lionel Messi
+    en_gb: Lionel Messi
     eo: Lionel Messi
     es: Lionel Messi
     es-419: Lionel Messi
@@ -383,7 +383,7 @@ dv_has_:
     nap: Lionel Messi
     nb: Lionel Messi
     nds: Lionel Messi
-    nds-nl: Lionel Messi
+    nds_nl: Lionel Messi
     ne: लियोनेल मेस्सी
     nl: Lionel Messi
     nn: Lionel Messi
@@ -400,7 +400,7 @@ dv_has_:
     pnb: لیونل میسی
     ps: لیونل مېسي
     pt: Lionel Messi
-    pt-br: Lionel Messi
+    pt_br: Lionel Messi
     qu: Lionel Messi
     ro: Lionel Messi
     ru: Лионель Месси
@@ -453,13 +453,13 @@ dv_has_:
     yue: 美斯
     zgh: ⵍⵢⵓⵏⵉⵍ ⵎⵉⵙⵙⵉ
     zh: 利昂内尔·梅西
-    zh-cn: 利昂内尔·梅西
-    zh-hans: 利昂内尔·梅西
-    zh-hant: 利昂内尔·梅西
-    zh-hk: 利安奴·美斯
+    zh_cn: 利昂内尔·梅西
+    zh_hans: 利昂内尔·梅西
+    zh_hant: 利昂内尔·梅西
+    zh_hk: 利安奴·美斯
     zh-my: 利昂内尔·梅西
-    zh-sg: 利昂内尔·梅西
-    zh-tw: 萊納爾·梅西
+    zh_sg: 利昂内尔·梅西
+    zh_tw: 萊納爾·梅西
 ---
 # [[Messi,Lionel]] 
 

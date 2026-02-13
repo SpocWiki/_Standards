@@ -261,7 +261,7 @@ dv_has_:
     bar: Pjotr Iljitsch Tschaikowski
     bcl: Pëtr Čajkovskij
     be: Пётр Ільіч Чайкоўскі
-    be-tarask: Пётар Чайкоўскі
+    be_tarask: Пётар Чайкоўскі
     bg: Пьотър Чайковски
     bho: प्योत्र इलिच चाइकोफ़्सकी
     bi: Pyotr Ilyich Tchaikovsky
@@ -271,7 +271,7 @@ dv_has_:
     btm: Petr Tchaikovsky
     bxr: Пётр Чайковский
     ca: Piotr Ilitx Txaikovski
-    cbk-zam: Pyotr Ilyich Tchaikovsky
+    cbk_zam: Pyotr Ilyich Tchaikovsky
     cdo: Pyotr Ilyich Tchaikovsky
     ce: Чайковский, Пётр Ильич
     ceb: Pyotr Ilyich Tchaikovsky
@@ -279,8 +279,8 @@ dv_has_:
     ckb: پیۆتەر ئیلیچ چایکۆڤسکی
     co: Pëtr Čajkovskij
     crh: Pötr Çaykovskiy
-    crh-cyrl: Пётр Чайковский
-    crh-latn: Pötr Çaykovskiy
+    crh_cyrl: Пётр Чайковский
+    crh_latn: Pötr Çaykovskiy
     cs: Pjotr Iljič Čajkovskij
     cv: Чайковский Пётр Ильич
     cy: Pyotr Ilyich Tchaikovsky
@@ -290,8 +290,8 @@ dv_has_:
     el: Πιοτρ Ιλίτς Τσαϊκόφσκι
     eml: Pëtr Il'ič Čajkovskij
     en: Pyotr Ilyich Tchaikovsky
-    en-ca: Pyotr Ilyich Tchaikovsky
-    en-gb: Pyotr Ilyich Tchaikovsky
+    en_ca: Pyotr Ilyich Tchaikovsky
+    en_gb: Pyotr Ilyich Tchaikovsky
     eo: Pjotr Iljiĉ Ĉajkovskij
     es: Piotr Ilich Chaikovski
     et: Pjotr Tšaikovski
@@ -372,7 +372,7 @@ dv_has_:
     pnb: پیٹر چائیکوسکی
     ps: پویتر اېلیچ چایکوفسکي
     pt: Piotr Ilitch Tchaikovsky
-    pt-br: Piotr Ilitch Tchaikovsky
+    pt_br: Piotr Ilitch Tchaikovsky
     qu: Pyotr Ilyich Tchaikovsky
     ro: Piotr Ilici Ceaikovski
     ru: Пётр Ильич Чайковский
@@ -413,8 +413,8 @@ dv_has_:
     yo: Pyotr Ilyich Tchaikovsky
     yue: 柴可夫斯基
     zh: 彼得·伊里奇·柴可夫斯基
-    zh-hk: 彼得·伊利治·柴可夫斯基
-    zh-tw: 彼得·柴可夫斯基
+    zh_hk: 彼得·伊利治·柴可夫斯基
+    zh_tw: 彼得·柴可夫斯基
 ---
 # [[Tchaikovsky,Pyotr_Ilyich]] 
 

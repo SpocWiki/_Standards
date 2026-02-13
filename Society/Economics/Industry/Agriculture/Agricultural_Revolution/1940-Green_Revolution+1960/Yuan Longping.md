@@ -32,7 +32,7 @@ dv_has_:
     nb: Yuan Longping
     nl: Yuan Longping
     pt: Yuan Longping
-    pt-br: Yuan Longping
+    pt_br: Yuan Longping
     ru: Юань Лунпин
     sl: Yuan Longping
     sq: Yuan Longping
@@ -42,11 +42,11 @@ dv_has_:
     wuu: 袁隆平
     yue: 袁隆平
     zh: 袁隆平
-    zh-cn: 袁隆平
-    zh-hans: 袁隆平
-    zh-hant: 袁隆平
-    zh-hk: 袁隆平
-    zh-tw: 袁隆平
+    zh_cn: 袁隆平
+    zh_hans: 袁隆平
+    zh_hant: 袁隆平
+    zh_hk: 袁隆平
+    zh_tw: 袁隆平
 aliases:
 - Jüan Lung-pching
 - Oân Liông-pêng

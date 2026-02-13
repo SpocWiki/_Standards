@@ -9,10 +9,10 @@ dv_has_:
     ca: Eric Weinstein
     da: Eric Weinstein
     de: Eric Weinstein
-    de-ch: Eric Weinstein
+    de_ch: Eric Weinstein
     en: Eric Weinstein
-    en-ca: Eric Weinstein
-    en-gb: Eric Weinstein
+    en_ca: Eric Weinstein
+    en_gb: Eric Weinstein
     es: Eric Weinstein
     fa: اریک واینستین
     fi: Eric Weinstein
@@ -26,7 +26,7 @@ dv_has_:
     nl: Eric Weinstein
     nn: Eric Weinstein
     pt: Eric Weinstein
-    pt-br: Eric Weinstein
+    pt_br: Eric Weinstein
     ro: Eric Weinstein
     ru: Эрик Вайнштейн
     sl: Eric Weinstein
@@ -34,8 +34,8 @@ dv_has_:
     sv: Eric Weinstein
     tr: Eric Weinstein
     zh: 埃里克·温斯坦
-    zh-cn: 埃里克·温斯坦
-    zh-hans: 埃里克·温斯坦
+    zh_cn: 埃里克·温斯坦
+    zh_hans: 埃里克·温斯坦
 aliases:
 - Eric Weinstein
 - Эрик Вайнштейн

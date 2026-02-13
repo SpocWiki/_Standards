@@ -77,7 +77,7 @@ dv_has_:
     ast: eutrofización
     az: evtrofikasiya
     be: эўтрафікацыя
-    be-tarask: эўтрафікацыя
+    be_tarask: эўтрафікацыя
     bg: еутрофикация
     ca: eutrofització
     cs: eutrofizace
@@ -106,8 +106,8 @@ dv_has_:
     it: eutrofizzazione
     ja: 富栄養化
     kk: эвтрофтану
-    kk-arab: ەۆتروفتانۋ
-    kk-latn: évtroftanw
+    kk_arab: ەۆتروفتانۋ
+    kk_latn: évtroftanw
     kn: ಯೂಟ್ರೋಫಿಕೇಷನ್
     ko: 부영양화
     ky: эфтрофикация
@@ -126,7 +126,7 @@ dv_has_:
     sl: evtrofikacija
     sq: eutrofizimi
     sr: цветање воде
-    sr-el: cvetanje vode
+    sr_el: cvetanje vode
     sv: övergödning
     ta: தூர்ந்துபோதல்
     tr: ötrofikasyon
@@ -134,8 +134,8 @@ dv_has_:
     vi: phú dưỡng
     yue: 超養化
     zh: 富营养化
-    zh-hans: 富营养化
-    zh-hant: 富營養化
+    zh_hans: 富营养化
+    zh_hant: 富營養化
 ---
 # [[Eutrophication]] 
 

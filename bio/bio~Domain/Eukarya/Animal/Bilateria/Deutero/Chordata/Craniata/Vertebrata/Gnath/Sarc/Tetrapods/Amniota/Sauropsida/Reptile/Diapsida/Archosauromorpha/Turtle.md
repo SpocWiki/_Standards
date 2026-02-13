@@ -211,7 +211,7 @@ dv_has_:
     azb: تیسباغا
     ban: Testudines
     be: чарапахі
-    be-tarask: чарапахі
+    be_tarask: чарапахі
     bg: костенурки
     bho: कछुआ
     bn: কচ্ছপ
@@ -235,7 +235,7 @@ dv_has_:
     el: Χελώνια
     eml: Galàna
     en: Testudines
-    en-gb: turtle
+    en_gb: turtle
     eo: Testuduloj
     es: Testudines
     et: kilpkonnalised
@@ -319,7 +319,7 @@ dv_has_:
     pnb: کھچوپڑا
     ps: کيشپ
     pt: Tartaruga
-    pt-br: Testudinata
+    pt_br: Testudinata
     qu: Qarapara
     ro: Testudines
     roa-tara: Celóne
@@ -338,7 +338,7 @@ dv_has_:
     so: Qubo
     sq: Breshka
     sr: корњача
-    sr-ec: корњача
+    sr_ec: корњача
     su: Kuya
     sv: sköldpaddor
     sw: Kobe
@@ -362,11 +362,11 @@ dv_has_:
     yue: 龜
     za: Duzgvi
     zh: 龟鳖目
-    zh-cn: 龟鳖目
-    zh-hans: 龟鳖目
-    zh-hant: 龜鱉目
-    zh-hk: 龜鱉目
-    zh-tw: 龜鱉目
+    zh_cn: 龟鳖目
+    zh_hans: 龟鳖目
+    zh_hant: 龜鱉目
+    zh_hk: 龜鱉目
+    zh_tw: 龜鱉目
 ---
 # [[Turtle]]
 

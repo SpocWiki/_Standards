@@ -41,7 +41,7 @@ dv_has_:
     oc: Aspidogastrea
     pl: Aspidogastrea
     pt: Aspidogastrea
-    pt-br: Aspidogastrea
+    pt_br: Aspidogastrea
     ro: Aspidogastrea
     ru: Аспидогастреи
     sq: Aspidogastrea
@@ -52,9 +52,9 @@ dv_has_:
     vo: Aspidogastrea
     war: Aspidogastrea
     zh: 盾腹亚纲
-    zh-cn: 盾腹亚纲
-    zh-hans: 盾腹亚纲
-    zh-tw: 盾腹亞綱
+    zh_cn: 盾腹亚纲
+    zh_hans: 盾腹亚纲
+    zh_tw: 盾腹亞綱
 ---
 ## Phylogeny 
 

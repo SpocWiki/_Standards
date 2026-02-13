@@ -84,7 +84,7 @@ dv_has_:
     oc: Tylopodes
     pl: Tylopoda
     pt: Tylopoda
-    pt-br: Tylopoda
+    pt_br: Tylopoda
     ro: Tylopoda
     ru: Мозоленогие
     sq: Tylopoda
@@ -96,11 +96,11 @@ dv_has_:
     vo: Tylopoda
     war: Tylopoda
     zh: 胼足亚目
-    zh-cn: 胼足亚目
-    zh-hans: 胼足亚目
-    zh-hant: 胼足亞目
-    zh-hk: 胼足亞目
-    zh-tw: 胼足亞目
+    zh_cn: 胼足亚目
+    zh_hans: 胼足亚目
+    zh_hant: 胼足亞目
+    zh_hk: 胼足亞目
+    zh_tw: 胼足亞目
 ---
 # [[Tylopoda]] 
 

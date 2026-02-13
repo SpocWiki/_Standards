@@ -136,7 +136,7 @@ dv_has_:
     az: Malay yarımadası
     ba: Малакка ярымутрауы
     be: Паўвостраў Малака
-    be-tarask: Малака
+    be_tarask: Малака
     bg: Малака
     bn: মালয় উপদ্বীপ
     bs: Malajsko poluostrvo
@@ -148,7 +148,7 @@ dv_has_:
     de: Malaiische Halbinsel
     el: Μαλαϊκή χερσόνησος
     en: Malay Peninsula
-    en-gb: Malay Peninsula
+    en_gb: Malay Peninsula
     eo: Malaja Duoninsulo
     es: península de Malaca
     et: Malaka poolsaar

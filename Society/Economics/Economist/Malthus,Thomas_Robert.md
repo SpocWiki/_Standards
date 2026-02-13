@@ -137,7 +137,7 @@ dv_has_:
     az: Tomas Maltus
     ba: Мальтус Томас
     be: Томас Роберт Мальтус
-    be-tarask: Томас Робэрт Малтус
+    be_tarask: Томас Робэрт Малтус
     bg: Томас Малтус
     bn: টমাস ম্যালথাস
     bs: Thomas Malthus
@@ -150,8 +150,8 @@ dv_has_:
     de: Thomas Robert Malthus
     el: Τόμας Ρόμπερτ Μάλθους
     en: Thomas Robert Malthus
-    en-ca: Thomas Robert Malthus
-    en-gb: Thomas Robert Malthus
+    en_ca: Thomas Robert Malthus
+    en_gb: Thomas Robert Malthus
     eo: Thomas Malthus
     es: Thomas Malthus
     et: Thomas Robert Malthus
@@ -198,7 +198,7 @@ dv_has_:
     pl: Thomas Malthus
     ps: توماس رابرټ مالتوس
     pt: Thomas Malthus
-    pt-br: Thomas Malthus
+    pt_br: Thomas Malthus
     qu: Thomas Malthus
     rmf: Thomas Robert Malthus
     ro: Thomas Malthus
@@ -218,7 +218,7 @@ dv_has_:
     sms: Thomas Robert Malthus
     sq: Tomas Robert Maltus
     sr: Томас Роберт Малтус
-    sr-ec: Томас Роберт Малтус
+    sr_ec: Томас Роберт Малтус
     sv: Thomas Robert Malthus
     sw: Thomas Robert Malthus
     szy: Tuo-ma-se.Luo-puo-te’. Ma-e-sa’-se
@@ -236,9 +236,9 @@ dv_has_:
     wuu: 托马斯·罗伯特·马尔萨斯
     yue: 湯馬士·馬爾薩斯
     zh: 托马斯·马尔萨斯
-    zh-cn: 托马斯·马尔萨斯
-    zh-hans: 托马斯·马尔萨斯
-    zh-hant: 托馬斯·馬爾薩斯
+    zh_cn: 托马斯·马尔萨斯
+    zh_hans: 托马斯·马尔萨斯
+    zh_hant: 托馬斯·馬爾薩斯
 ---
 # [[Malthus,Thomas_Robert]] 
 

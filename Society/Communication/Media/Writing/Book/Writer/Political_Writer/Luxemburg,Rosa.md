@@ -168,7 +168,7 @@ dv_has_:
     ba: Роза Люксембург
     bar: Rosa Luxemburg
     be: Роза Люксембург
-    be-tarask: Роза Люксэмбург
+    be_tarask: Роза Люксэмбург
     bg: Роза Люксембург
     bn: রোসা লুক্সেমবুর্গ
     br: Rosa Luxemburg
@@ -189,8 +189,8 @@ dv_has_:
     dsb: Rosa Luxemburg
     el: Ρόζα Λούξεμπουργκ
     en: Rosa Luxemburg
-    en-ca: Rosa Luxemburg
-    en-gb: Rosa Luxemburg
+    en_ca: Rosa Luxemburg
+    en_gb: Rosa Luxemburg
     eo: Roza Luksemburg
     es: Rosa Luxemburgo
     et: Rosa Luxemburg
@@ -251,7 +251,7 @@ dv_has_:
     nan: Rosa Luxemburg
     nb: Rosa Luxemburg
     nds: Rosa Luxemburg
-    nds-nl: Rosa Luxemburg
+    nds_nl: Rosa Luxemburg
     ne: रोजा लुक्सम्बर्ग
     new: रोजा लक्जेम्बर्ग
     nl: Rosa Luxemburg
@@ -268,7 +268,7 @@ dv_has_:
     pnb: روزا لکسمبرگ
     ps: روزا لوکزامبورګ
     pt: Rosa Luxemburgo
-    pt-br: Rosa Luxemburgo
+    pt_br: Rosa Luxemburgo
     qu: Rosa Luxemburg
     ro: Rosa Luxemburg
     ru: Роза Люксембург
@@ -305,7 +305,7 @@ dv_has_:
     yo: Rosa Luxemburg
     yue: 羅莎盧森堡
     zh: 羅莎·盧森堡
-    zh-hant: 羅莎·盧森堡
+    zh_hant: 羅莎·盧森堡
 ---
 ## #has_/text_of_/abstract 
 

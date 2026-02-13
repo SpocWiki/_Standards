@@ -160,7 +160,7 @@ dv_has_:
     ba: Лао-цзы
     bcl: Laozi
     be: Лаа-Цзы
-    be-tarask: Лао-Цзы
+    be_tarask: Лао-Цзы
     bg: Лао Дзъ
     bi: Laozi
     bn: লাওৎসি
@@ -181,8 +181,8 @@ dv_has_:
     de: Laozi
     el: Λάο Τσε
     en: Laozi
-    en-ca: Laozi
-    en-gb: Laozi
+    en_ca: Laozi
+    en_gb: Laozi
     eo: Laocio
     es: Laozi
     et: Laozi
@@ -304,14 +304,14 @@ dv_has_:
     yue: 老子
     za: Lauxcij
     zh: 老子
-    zh-cn: 老子
-    zh-hans: 老子
-    zh-hant: 老子
-    zh-hk: 老子
-    zh-mo: 老子
+    zh_cn: 老子
+    zh_hans: 老子
+    zh_hant: 老子
+    zh_hk: 老子
+    zh_mo: 老子
     zh-my: 老子
-    zh-sg: 老子
-    zh-tw: 老子
+    zh_sg: 老子
+    zh_tw: 老子
 ---
 # [[Laozi]] 
 

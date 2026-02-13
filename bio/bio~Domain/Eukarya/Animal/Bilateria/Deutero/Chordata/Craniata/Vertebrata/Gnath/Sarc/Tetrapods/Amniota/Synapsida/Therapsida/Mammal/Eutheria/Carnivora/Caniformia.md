@@ -11,7 +11,7 @@ dv_has_:
     az: İtkimilər
     ban: Caniformia
     be: сабакападобныя
-    be-tarask: сабакападобныя
+    be_tarask: сабакападобныя
     bg: кучеподобни
     ca: Caniforme
     ceb: Caniformia
@@ -61,7 +61,7 @@ dv_has_:
     pcd: Caniformia
     pl: psokształtne
     pt: Caniformia
-    pt-br: Caniformia
+    pt_br: Caniformia
     ro: Caniformia
     ru: собакообразные
     sa: क्यानिफ़्ओर्मिया
@@ -84,9 +84,9 @@ dv_has_:
     war: Caniformia
     wuu: 犬型亚目
     zh: 犬型亚目
-    zh-cn: 犬型亚目
-    zh-hans: 犬型亚目
-    zh-tw: 犬型亞目
+    zh_cn: 犬型亚目
+    zh_hans: 犬型亚目
+    zh_tw: 犬型亞目
 aliases:
 - Caniforme
 - Caniformi

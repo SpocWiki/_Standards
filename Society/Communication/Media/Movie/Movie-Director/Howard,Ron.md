@@ -42,7 +42,7 @@ dv_has_:
     ast: Ron Howard
     azb: ران هاوارد
     be: Рон Ховард
-    be-tarask: Рон Гаўард
+    be_tarask: Рон Гаўард
     bg: Рон Хауърд
     bn: রন হাওয়ার্ড
     br: Ron Howard
@@ -52,11 +52,11 @@ dv_has_:
     cy: Ron Howard
     da: Ron Howard
     de: Ron Howard
-    de-ch: Ron Howard
+    de_ch: Ron Howard
     el: Ρον Χάουαρντ
     en: Ron Howard
-    en-ca: Ron Howard
-    en-gb: Ron Howard
+    en_ca: Ron Howard
+    en_gb: Ron Howard
     eo: Ron Howard
     es: Ron Howard
     eu: Ron Howard
@@ -92,7 +92,7 @@ dv_has_:
     pap: Ron Howard
     pl: Ron Howard
     pt: Ron Howard
-    pt-br: Ron Howard
+    pt_br: Ron Howard
     ro: Ron Howard
     ru: Рон Ховард
     sco: Ron Howard
@@ -116,13 +116,13 @@ dv_has_:
     yue: 朗候活
     zgh: ⵔⵓⵏ ⵀⴰⵡⴰⵔⴷ
     zh: 朗·侯活
-    zh-cn: 朗·霍华德
-    zh-hans: 朗·霍华德
-    zh-hant: 朗·霍華
-    zh-hk: 朗·侯活
+    zh_cn: 朗·霍华德
+    zh_hans: 朗·霍华德
+    zh_hant: 朗·霍華
+    zh_hk: 朗·侯活
     zh-my: 朗·霍华
-    zh-sg: 朗·霍华德
-    zh-tw: 朗·霍華
+    zh_sg: 朗·霍华德
+    zh_tw: 朗·霍華
 ---
 #has_/time_/started :: 1954-03-01 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

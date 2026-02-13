@@ -106,7 +106,7 @@ dv_has_:
     az: İskənə
     ba: Ҡырҡҡыс
     be: Разец
-    be-tarask: Разец
+    be_tarask: Разец
     bg: Длето
     bn: সে-লাম মণ্ডল
     br: Kizell
@@ -189,7 +189,7 @@ dv_has_:
     wuu: 雕具座
     yue: 雕具座
     zh: 雕具座
-    zh-tw: 雕具座
+    zh_tw: 雕具座
 dv_is_:
   same_as:
   - '[[_Standards/WikiData/WD~Caelum,10488]]'

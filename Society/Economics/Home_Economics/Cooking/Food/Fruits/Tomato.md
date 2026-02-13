@@ -255,7 +255,7 @@ dv_has_:
   name_:
     ab: Атомат
     ace: Truëng Tureuki
-    aeb-arab: طماطم
+    aeb_arab: طماطم
     af: Tamatie
     ak: Anakyemoto/Ntos
     am: ቲማቲም
@@ -275,7 +275,7 @@ dv_has_:
     bar: Paradeiser
     bcl: Kamatis
     be: Тамат звычайны
-    be-tarask: памідоры
+    be_tarask: памідоры
     bg: домат
     bho: टमाटर
     bjn: Balinjan
@@ -290,7 +290,7 @@ dv_has_:
     chr: ᏔᎹᏟ
     ckb: تەماتە
     co: Pumata
-    crh-latn: pamidor
+    crh_latn: pamidor
     crh-ro: domatis
     cs: rajče jedlé
     cv: Томат
@@ -383,7 +383,7 @@ dv_has_:
     mr: टोमॅटो
     mrj: Помидор
     ms: rangam
-    ms-arab: راڠم
+    ms_arab: راڠم
     mt: tadam
     mul: Solanum lycopersicum
     mwl: tomateiro
@@ -393,7 +393,7 @@ dv_has_:
     nan: kam-á-bi̍t
     nap: Pummarola
     nb: tomatplante
-    nds-nl: tomatenplante
+    nds_nl: tomatenplante
     ne: गोलभेडा
     nl: tomatenplant
     nn: tomat
@@ -410,7 +410,7 @@ dv_has_:
     pnb: ٹماٹر
     ps: رومي بانجان
     pt: tomateiro
-    pt-br: tomate
+    pt_br: tomate
     qu: Chilltu
     rm: tomata
     rn: Tomati
@@ -478,10 +478,10 @@ dv_has_:
     yue: 番茄
     za: Makcaih
     zh: 番茄
-    zh-hans: 番茄
-    zh-hant: 番茄
-    zh-hk: 番茄
-    zh-tw: 櫻桃小番茄
+    zh_hans: 番茄
+    zh_hant: 番茄
+    zh_hk: 番茄
+    zh_tw: 櫻桃小番茄
     zu: Utamatisi
 ---
 # [[Tomato]] 🍅 

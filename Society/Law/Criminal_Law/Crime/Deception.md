@@ -104,7 +104,7 @@ dv_has_:
     af: misleiding
     ar: خداع
     be: падман
-    be-tarask: кручэньне
+    be_tarask: кручэньне
     bg: мистификация
     bn: প্রবঞ্চনা
     bs: obmana
@@ -113,11 +113,11 @@ dv_has_:
     cy: twyll
     da: vildledning
     de: Täuschung
-    de-ch: Täuschung
+    de_ch: Täuschung
     el: εξαπάτηση
     en: deception
-    en-ca: deception
-    en-gb: deception
+    en_ca: deception
+    en_gb: deception
     eo: trompo
     es: engaño
     eu: engainu
@@ -136,11 +136,11 @@ dv_has_:
     it: mistificazione
     ja: 欺騙
     kk: өтірік
-    kk-arab: وتىرىك
+    kk_arab: وتىرىك
     kk-cn: وتىرىك
-    kk-cyrl: өтірік
+    kk_cyrl: өтірік
     kk-kz: өтірік
-    kk-latn: ötirik
+    kk_latn: ötirik
     kk-tr: ötirik
     kn: ಮೋಸ
     ko: 기만
@@ -167,7 +167,7 @@ dv_has_:
     ta: கபடம்
     th: การเสแสร้ง
     tt: алдау
-    tt-cyrl: алдау
+    tt_cyrl: алдау
     uk: брехливість
     ur: فریب کاری
     vi: lừa dối
@@ -175,7 +175,7 @@ dv_has_:
     yi: אויספאפן
     yue: 呃人
     zh: 欺骗
-    zh-hant: 欺騙
+    zh_hant: 欺騙
 ---
 # [[Deception]] 
 

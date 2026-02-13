@@ -164,7 +164,7 @@ dv_has_:
     ba: социализм
     bcl: Sosyalismo
     be: сацыялізм
-    be-tarask: сацыялізм
+    be_tarask: сацыялізм
     bg: социализъм
     bho: समाजवाद
     bn: সমাজতন্ত্র
@@ -191,8 +191,8 @@ dv_has_:
     el: σοσιαλισμός
     eml: sozialîsum
     en: socialism
-    en-ca: socialism
-    en-gb: socialism
+    en_ca: socialism
+    en_gb: socialism
     eo: socialismo
     es: socialismo
     et: sotsialism
@@ -258,7 +258,7 @@ dv_has_:
     mn: социализм
     mr: समाजवाद
     ms: sosialisme
-    ms-arab: سوسياليسمى
+    ms_arab: سوسياليسمى
     mt: soċjaliżmu
     mwl: socialismo
     my: ဆိုရှယ်လစ်ဝါဒ
@@ -281,7 +281,7 @@ dv_has_:
     pnb: سوشلزم
     ps: سوسیالیزم
     pt: socialismo
-    pt-br: socialismo
+    pt_br: socialismo
     qu: susyalismu
     rm: socialissem
     ro: socialism
@@ -302,8 +302,8 @@ dv_has_:
     so: hantiwadaag
     sq: socializmi
     sr: социјализам
-    sr-ec: социјализам
-    sr-el: socijalizam
+    sr_ec: социјализам
+    sr_el: socijalizam
     sv: socialism
     sw: usoshalisti
     szl: socjalizm
@@ -331,14 +331,14 @@ dv_has_:
     yue: 社會主義
     za: seveicujyi
     zh: 社会主义
-    zh-cn: 社会主义
-    zh-hans: 社会主义
-    zh-hant: 社會主義
-    zh-hk: 社會主義
-    zh-mo: 社會主義
+    zh_cn: 社会主义
+    zh_hans: 社会主义
+    zh_hant: 社會主義
+    zh_hk: 社會主義
+    zh_mo: 社會主義
     zh-my: 社会主义
-    zh-sg: 社会主义
-    zh-tw: 社會主義
+    zh_sg: 社会主义
+    zh_tw: 社會主義
     zu: UCosulelwano
 ---
 # [[Socialism]] 

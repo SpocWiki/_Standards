@@ -52,13 +52,13 @@ dv_has_:
     oc: Haemospororida
     pl: Haemospororida
     pt: Haemospororida
-    pt-br: Haemospororida
+    pt_br: Haemospororida
     ru: Гемоспоридии
     uz: Gemosporidiyalar
     vo: Haemospororida
     zh: 血孢子虫目
-    zh-cn: 血孢子虫目
-    zh-hans: 血孢子虫目
+    zh_cn: 血孢子虫目
+    zh_hans: 血孢子虫目
 ---
 # [[Haemosporida]] 
 

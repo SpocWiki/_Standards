@@ -97,7 +97,7 @@ dv_has_:
     ast: autoridá
     atj: tiperitamowin
     az: səlahiyyət
-    be-tarask: улада
+    be_tarask: улада
     bho: अथॉरिटी
     bn: কর্তৃপক্ষ
     bs: vlast
@@ -109,8 +109,8 @@ dv_has_:
     de: Herrschaft
     el: Εξουσία
     en: authority
-    en-ca: authority
-    en-gb: authority
+    en_ca: authority
+    en_gb: authority
     eo: aŭtoritato
     es: autoridad
     et: autoriteet
@@ -132,7 +132,7 @@ dv_has_:
     it: autorità
     ja: 権威
     kk: авторитет
-    kk-arab: اۆتورىيتەت
+    kk_arab: اۆتورىيتەت
     kk-cn: اۆتورىيتەت
     kn: ಅಧಿಕಾರ
     ko: 권위
@@ -150,7 +150,7 @@ dv_has_:
     pl: władza organizacyjna
     pnb: اختیار
     pt: autoridade
-    pt-br: autoridade
+    pt_br: autoridade
     ro: autoritate
     ru: власть
     sah: аптарытыат
@@ -163,7 +163,7 @@ dv_has_:
     sn: mukondo
     so: haggaan
     sr: vlast
-    sr-el: vlast
+    sr_el: vlast
     sv: överhet
     sw: mamlaka
     te: అధికారం
@@ -176,14 +176,14 @@ dv_has_:
     yo: àṣe
     yue: 權威
     zh: 权威
-    zh-cn: 权威
-    zh-hans: 权威
-    zh-hant: 權威
-    zh-hk: 權威
-    zh-mo: 權威
+    zh_cn: 权威
+    zh_hans: 权威
+    zh_hant: 權威
+    zh_hk: 權威
+    zh_mo: 權威
     zh-my: 权威
-    zh-sg: 权威
-    zh-tw: 權威
+    zh_sg: 权威
+    zh_tw: 權威
 ---
 # [[Authority]] 
 

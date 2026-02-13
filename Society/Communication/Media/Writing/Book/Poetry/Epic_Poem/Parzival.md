@@ -4,7 +4,7 @@ dv_has_:
   name_:
     ar: بارزيفال
     ast: Parzival
-    be-tarask: Парцыфаль
+    be_tarask: Парцыфаль
     br: Parzival
     ca: Parzival
     cs: Parzival

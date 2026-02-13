@@ -313,7 +313,7 @@ dv_has_:
     ab: Жьҭаарамза
     acm: تشرين الأول
     ady: Чъэпыогъу
-    aeb-arab: أكتوبر
+    aeb_arab: أكتوبر
     af: Oktober
     agq: Ndzɔŋ è Ghuuw e Ulwɔ̀m
     alt: Ӱлӱрген ай
@@ -343,11 +343,11 @@ dv_has_:
     bas: bi√≤√≤m
     bax: mùt Octobre
     bbc: Sipaha pitu
-    bbc-latn: Sipaha Pitu
+    bbc_latn: Sipaha Pitu
     bbj: dzûʼ mkǒ
     bcl: Oktobre
     be: кастрычнік
-    be-tarask: кастрычнік
+    be_tarask: кастрычнік
     bew: Oktober
     bg: Октомври
     bho: अक्टूबर
@@ -363,7 +363,7 @@ dv_has_:
     bxr: 10 һар
     byv: bə'nswə
     ca: octubre
-    cbk-zam: Octubre
+    cbk_zam: Octubre
     cdo: 10 nguŏk
     ce: Октябрь
     ceb: Oktubre
@@ -372,7 +372,7 @@ dv_has_:
     ckb: تشرینی یەکەم
     co: Ottobre
     crh: Oktâbr
-    crh-latn: Oktâbr
+    crh_latn: Oktâbr
     cs: říjen
     csb: Pazdzérznik
     cv: Юпа уйăхĕ
@@ -380,7 +380,7 @@ dv_has_:
     da: oktober
     dag: October
     de: Oktober
-    de-ch: Oktober
+    de_ch: Oktober
     diq: Tışrino Verên
     dsb: winski
     dtp: Milau
@@ -390,8 +390,8 @@ dv_has_:
     el: Οκτώβριος
     eml: Otòber
     en: October
-    en-ca: October
-    en-gb: October
+    en_ca: October
+    en_gb: October
     en-us: October
     eo: oktobro
     es: octubre
@@ -473,7 +473,7 @@ dv_has_:
     ks: پۄہ
     ksh: Oktoober
     ku: çiriya pêşîn
-    ku-latn: çiriya pêşîn
+    ku_latn: çiriya pêşîn
     kv: Йирым тӧлысь
     kw: Mis Hedra
     ky: Октябрь
@@ -495,7 +495,7 @@ dv_has_:
     lv: oktobris
     lzh: 建亥
     mai: अक्टुबर
-    map-bms: Oktober
+    map_bms: Oktober
     mcp: ”ŋwíí akǝ ntɛk"
     mdf: тюжягов
     mg: Oktobra
@@ -510,7 +510,7 @@ dv_has_:
     mr: ऑक्टोबर महिना
     mrj: Октябрь
     ms: Oktober
-    ms-arab: اوکتوبر
+    ms_arab: اوکتوبر
     mt: Ottubru
     mua: fĩi mundaŋ
     mwl: Outubre
@@ -522,7 +522,7 @@ dv_has_:
     nap: Ottovre
     nb: oktober
     nds: Oktober
-    nds-nl: oktober
+    nds_nl: oktober
     ne: अक्टोबर
     new: अक्टोबर
     nl: oktober
@@ -550,7 +550,7 @@ dv_has_:
     pnt: Τρυγομηνάς
     ps: اکتوبر
     pt: outubro
-    pt-br: outubro
+    pt_br: outubro
     qu: Kantaray killa
     ro: octombrie
     roa-tara: Ottommre
@@ -580,7 +580,7 @@ dv_has_:
     so: Oktoobar
     sq: Tetori
     sr: октобар
-    sr-ec: октобар
+    sr_ec: октобар
     ss: ÍMphala
     su: Oktober
     sv: oktober
@@ -636,14 +636,14 @@ dv_has_:
     zea: Oktober
     zgh: ⴽⵟⵓⴱⵕ
     zh: 10月
-    zh-cn: 10月
-    zh-hans: 10月
-    zh-hant: 10月
-    zh-hk: 10月
-    zh-mo: 10月
+    zh_cn: 10月
+    zh_hans: 10月
+    zh_hant: 10月
+    zh_hk: 10月
+    zh_mo: 10月
     zh-my: 10月
-    zh-sg: 10月
-    zh-tw: 10月
+    zh_sg: 10月
+    zh_tw: 10月
     zu: UMfumfu
 ---
 # [[October]]

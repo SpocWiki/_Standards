@@ -157,7 +157,7 @@ dv_has_:
     ast: Pleurotus ostreatus
     ba: Ҡарама бәшмәге
     be: вешанка звычайная
-    be-tarask: вустрыцавае дрэўнавушка
+    be_tarask: вустрыцавае дрэўнавушка
     bg: кладница
     bo: ལེབ་ཤྭ།
     ca: Pleurotus ostreatus
@@ -166,11 +166,11 @@ dv_has_:
     cy: Wystrysen y coed
     da: Almindelig østershat
     de: Austern-Seitling
-    de-ch: Austern-Seitling
+    de_ch: Austern-Seitling
     el: Pleurotus ostreatus
     en: Pleurotus ostreatus
-    en-ca: Pleurotus ostreatus
-    en-gb: Pleurotus ostreatus
+    en_ca: Pleurotus ostreatus
+    en_gb: Pleurotus ostreatus
     eo: Ostrofungo
     es: Pleurotus ostreatus
     et: Austerservik
@@ -194,11 +194,11 @@ dv_has_:
     jv: Jamur tiram
     ka: ხეთამხალი
     kk: Устрицалық вешенка
-    kk-arab: ۋسترىيتسالىق ۆەشەنكا
+    kk_arab: ۋسترىيتسالىق ۆەشەنكا
     kk-cn: ۋسترىيتسالىق ۆەشەنكا
-    kk-cyrl: Устрицалық вешенка
+    kk_cyrl: Устрицалық вешенка
     kk-kz: Устрицалық вешенка
-    kk-latn: Wstrïcalıq veşenka
+    kk_latn: Wstrïcalıq veşenka
     kk-tr: Wstrïcalıq veşenka
     ko: 느타리
     la: Pleurotus ostreatus
@@ -219,7 +219,7 @@ dv_has_:
     pms: Pleurotus ostreatus
     ps: صدفي پوڅکۍ
     pt: Pleurotus ostreatus
-    pt-br: Shimeji-preto
+    pt_br: Shimeji-preto
     qu: Rinri q'utu qumutu
     ro: Păstrăv de fag
     ru: Вёшенка обыкновенная
@@ -228,8 +228,8 @@ dv_has_:
     sl: bukov ostrigar
     sq: Pleurotus ostreatus
     sr: Буковача
-    sr-ec: Буковача
-    sr-el: Bukovača
+    sr_ec: Буковача
+    sr_el: Bukovača
     sv: ostronmussling
     ta: பரல் கிளிஞ்சல் காளான்
     tcy: ಪೆರ್ಗೆ ಲಾಂಬು
@@ -242,12 +242,12 @@ dv_has_:
     wuu: 平菇
     yue: 蠔菇
     zh: 平菇
-    zh-cn: 平菇
-    zh-hans: 平菇
-    zh-hant: 平菇
-    zh-hk: 平菇
-    zh-sg: 平菇
-    zh-tw: 糙皮側耳
+    zh_cn: 平菇
+    zh_hans: 平菇
+    zh_hant: 平菇
+    zh_hk: 平菇
+    zh_sg: 平菇
+    zh_tw: 糙皮側耳
 ---
 # [[Pleurotus_ostreatus]] 
 

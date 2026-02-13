@@ -6,7 +6,7 @@ dv_has_:
     arz: راندوم هاوس
     ast: Penguin Random House Grupu Editorial
     be: Random House
-    be-tarask: Random House
+    be_tarask: Random House
     bg: Рандъм Хаус
     ca: Random House
     ckb: ڕاندۆم ھاوس
@@ -14,11 +14,11 @@ dv_has_:
     cy: Random House
     da: Random House
     de: Random House
-    de-ch: Random House
+    de_ch: Random House
     el: Random House
     en: Random House
-    en-ca: Random House
-    en-gb: Random House
+    en_ca: Random House
+    en_gb: Random House
     eo: Random House
     es: Random House
     eu: Random House
@@ -46,7 +46,7 @@ dv_has_:
     pl: Random House
     pms: Random House
     pt: Random House
-    pt-br: Random House
+    pt_br: Random House
     ro: Random House
     ru: Random House
     si: Random House
@@ -57,9 +57,9 @@ dv_has_:
     uk: Random House
     ur: رینڈم ہاؤس
     zh: 兰登书屋
-    zh-hans: 兰登书屋
-    zh-hant: 藍燈書屋
-    zh-hk: 蘭登書屋
+    zh_hans: 兰登书屋
+    zh_hant: 藍燈書屋
+    zh_hk: 蘭登書屋
 aliases:
 - Penguin Random House Grupu Editorial
 - Random House

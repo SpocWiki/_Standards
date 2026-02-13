@@ -442,7 +442,7 @@ dv_has_:
   name_:
     ab: Гамбиа
     ace: Gambia
-    aeb-arab: غامبيا
+    aeb_arab: غامبيا
     af: Gambië
     am: ጋምቢያ
     ami: Gambia
@@ -462,7 +462,7 @@ dv_has_:
     bar: Gambia
     bcl: Gambya
     be: Гамбія
-    be-tarask: Гамбія
+    be_tarask: Гамбія
     bew: Gambia
     bg: Гамбия
     bgn: گامبیا
@@ -477,14 +477,14 @@ dv_has_:
     bs: Gambija
     bxr: Гамби
     ca: Gàmbia
-    cbk-zam: Gambia
+    cbk_zam: Gambia
     cdo: Gambia
     ce: Гамби
     ceb: Gambia
     ckb: گامبیا
     co: Gambia
     crh: Gambiya
-    crh-latn: Gambiya
+    crh_latn: Gambiya
     cs: Gambie
     cv: Гамби
     cy: Y Gambia
@@ -492,7 +492,7 @@ dv_has_:
     dag: Gambia
     de: Gambia
     de-at: Gambia
-    de-ch: Gambia
+    de_ch: Gambia
     diq: Gambiya
     dsb: Gambija
     dty: गाम्बिया
@@ -501,8 +501,8 @@ dv_has_:
     ee: Gambia
     el: Γκάμπια
     en: The Gambia
-    en-ca: Gambia
-    en-gb: The Gambia
+    en_ca: Gambia
+    en_gb: The Gambia
     eo: Gambio
     es: Gambia
     et: Gambia
@@ -579,7 +579,7 @@ dv_has_:
     lv: Gambija
     lzh: 岡比亞
     mai: गाम्बिया
-    map-bms: Gambia
+    map_bms: Gambia
     mdf: Гамбия
     mg: Gambia
     mhr: Гамбий
@@ -601,7 +601,7 @@ dv_has_:
     nan: Gambia
     nb: Gambia
     nds: Gambia
-    nds-nl: Gambia
+    nds_nl: Gambia
     ne: गाम्बिया
     new: गाम्बिया
     nl: Gambia
@@ -626,7 +626,7 @@ dv_has_:
     pnb: گیمبیا
     ps: ګامبيا
     pt: Gâmbia
-    pt-br: Gâmbia
+    pt_br: Gâmbia
     qu: Gambya
     rki: ဂမ်ဘီယာသမ္မတနိုင်ငံ
     rm: Gambia
@@ -658,8 +658,8 @@ dv_has_:
     so: Gambia
     sq: Gambia
     sr: Гамбија
-    sr-ec: Гамбија
-    sr-el: Gambija
+    sr_ec: Гамбија
+    sr_el: Gambija
     ss: IGambiya
     st: Gambia
     stq: Gambia
@@ -706,14 +706,14 @@ dv_has_:
     zea: Gambia
     zgh: ⴳⴰⵎⴱⵢⴰ
     zh: 岡比亞
-    zh-cn: 冈比亚
-    zh-hans: 冈比亚
-    zh-hant: 甘比亞
-    zh-hk: 岡比亞
-    zh-mo: 岡比亞
+    zh_cn: 冈比亚
+    zh_hans: 冈比亚
+    zh_hant: 甘比亞
+    zh_hk: 岡比亞
+    zh_mo: 岡比亞
     zh-my: 冈比亚
-    zh-sg: 冈比亚
-    zh-tw: 甘比亞
+    zh_sg: 冈比亚
+    zh_tw: 甘比亞
     zu: IGambia
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Gambia

@@ -178,7 +178,7 @@ dv_has_:
     bar: Bedecktsama
     bcl: Tinanom na namumurak
     be: кветкавыя
-    be-tarask: кветкавыя расьліны
+    be_tarask: кветкавыя расьліны
     bg: покритосеменни
     bho: फूलदार पौधा
     bjn: Tanaman bakambang
@@ -192,14 +192,14 @@ dv_has_:
     cy: Planhigyn blodeuol
     da: Dækfrøede planter
     de: Bedecktsamer
-    de-ch: Bedecktsamer
+    de_ch: Bedecktsamer
     diq: Angiosperms
     dsb: Pókšyty semjenjak
     dtp: Angiosperma
     el: Αγγειόσπερμα
     en: flowering plant
-    en-ca: Flowering plant
-    en-gb: flowering plant
+    en_ca: Flowering plant
+    en_gb: flowering plant
     eo: Angiospermoj
     es: Magnoliophyta
     et: katteseemnetaimed
@@ -235,7 +235,7 @@ dv_has_:
     ko: 속씨식물
     ks: پوشہٕ دَر کُلؠ کٔٹؠ
     ku: riwekên tovdapoşrav
-    ku-latn: riwekên tovdapoşrav
+    ku_latn: riwekên tovdapoşrav
     ky: Жабык уруктуулар
     la: Angiospermae
     lb: Bléieplanzen
@@ -245,7 +245,7 @@ dv_has_:
     lo: ພືດດອກ
     lt: magnolijūnai
     lv: segsēkļi
-    map-bms: Tetanduran ngembang
+    map_bms: Tetanduran ngembang
     mg: Angiospermae
     mhr: Шылтымнӧшман кушкыл
     mk: скриеносеменици
@@ -253,7 +253,7 @@ dv_has_:
     mn: Цэцэгт ургамал
     mr: फुलझाडे
     ms: tumbuhan berbunga
-    ms-arab: اڠيوسڤرما
+    ms_arab: اڠيوسڤرما
     my: ပန်းပွင့်သော အပင်
     nah: Teconxinachtli
     nan: Khui-hoe si̍t-bu̍t
@@ -270,7 +270,7 @@ dv_has_:
     pnb: پُھل دار بوٹے
     ps: ګل لرونکی بوټی
     pt: angiosperma
-    pt-br: Angiosperma
+    pt_br: Angiosperma
     qu: Qatasqa muruyuq
     ro: angiosperme
     ru: цветковые растения
@@ -309,9 +309,9 @@ dv_has_:
     yo: Odóódó
     yue: 開花植物
     zh: 被子植物门
-    zh-cn: 被子植物门
-    zh-hant: 開花植物
-    zh-tw: 被子植物门
+    zh_cn: 被子植物门
+    zh_hant: 開花植物
+    zh_tw: 被子植物门
 ---
 # [[Angiosperms]] 
 

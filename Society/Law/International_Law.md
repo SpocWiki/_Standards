@@ -158,7 +158,7 @@ dv_has_:
     azb: میلتلرآراسی حوقوقو
     ba: халыҡ-ара хоҡуҡ
     be: міжнароднае права
-    be-tarask: міжнароднае права
+    be_tarask: міжнароднае права
     bg: Международно право
     bn: আন্তর্জাতিক আইন
     bs: međunarodno pravo
@@ -197,9 +197,9 @@ dv_has_:
     ka: საერთაშორისო სამართალი
     kaa: Xalıqaralıq huqıq
     kk: халықаралық құқық
-    kk-arab: حالىقارالىق قۇقىق
-    kk-cyrl: Халықаралық құқық
-    kk-latn: xalıqaralıq quqıq
+    kk_arab: حالىقارالىق قۇقىق
+    kk_cyrl: Халықаралық құқық
+    kk_latn: xalıqaralıq quqıq
     ko: 국제법
     ku: Hiqûqa navneteweyî
     ky: эларалык укук
@@ -213,7 +213,7 @@ dv_has_:
     ml: അന്താരാഷ്ട്ര നിയമം
     mn: Олон улсын эрх зүй
     ms: undang-undang antarabangsa
-    ms-arab: اوندڠ٢ انتارابڠسا
+    ms_arab: اوندڠ٢ انتارابڠسا
     mt: liġi internazzjonali
     nan: Kok-chè-hoat
     nb: folkerett
@@ -235,8 +235,8 @@ dv_has_:
     sms: meeraikõskksaž vuõiǥâs
     sq: Ligji Ndërkombëtar Publik
     sr: међународно право
-    sr-ec: међународно право
-    sr-el: međunarodno pravo
+    sr_ec: међународно право
+    sr_el: međunarodno pravo
     sv: internationell rätt
     sw: Sheria ya kimataifa
     tg: ҳуқуқи байналмилалӣ
@@ -255,11 +255,11 @@ dv_has_:
     yi: פֿעלקעררעכט
     yue: 萬國公法
     zh: 国际法
-    zh-cn: 国际法
-    zh-hans: 国际法
-    zh-hant: 國際法
-    zh-hk: 國際法
-    zh-tw: 國際法
+    zh_cn: 国际法
+    zh_hans: 国际法
+    zh_hant: 國際法
+    zh_hk: 國際法
+    zh_tw: 國際法
 ---
 # [[International_Law]] 
 

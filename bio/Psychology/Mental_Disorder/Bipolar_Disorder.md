@@ -218,7 +218,7 @@ dv_has_:
     az: bipolyar pozuntu
     azb: بی پولار پوزولماسی
     be: біпалярны афектыўны разлад
-    be-tarask: біпалярны афэктыўны разлад
+    be_tarask: біпалярны афэктыўны разлад
     bg: биполярно разстройство
     bn: দ্বিপ্রান্তিক ব্যাধি
     ca: trastorn bipolar
@@ -253,11 +253,11 @@ dv_has_:
     jv: bipolar
     ka: ბიპოლარული აფექტური აშლილობა
     kk: Желікпе-депрессиялық психоз
-    kk-arab: جەلىكپە-دەپرەسسىييالىق پسىيحوز
+    kk_arab: جەلىكپە-دەپرەسسىييالىق پسىيحوز
     kk-cn: جەلىكپە-دەپرەسسىييالىق پسىيحوز
-    kk-cyrl: Желікпе-депрессиялық психоз
+    kk_cyrl: Желікпе-депрессиялық психоз
     kk-kz: Желікпе-депрессиялық психоз
-    kk-latn: Jelikpe-depressïyalıq psïxoz
+    kk_latn: Jelikpe-depressïyalıq psïxoz
     kk-tr: Jelikpe-depressïyalıq psïxoz
     kn: ದ್ವಿಧ್ರುವಿ ಅಸ್ವಸ್ಥತೆ
     ko: 조울증
@@ -280,7 +280,7 @@ dv_has_:
     pl: zaburzenia afektywne dwubiegunowe
     pnb: بائی پولر ڈس آرڈر
     pt: perturbação bipolar
-    pt-br: transtorno bipolar
+    pt_br: transtorno bipolar
     ro: tulburare bipolară
     ru: биполярное аффективное расстройство
     sco: bipolar disorder
@@ -290,8 +290,8 @@ dv_has_:
     sl: bipolarna motnja razpoloženja
     sq: çrregullimi bipolar
     sr: манично-депресивна психоза
-    sr-ec: манично-депресивна психоза
-    sr-el: manično-depresivna psihoza
+    sr_ec: манично-депресивна психоза
+    sr_el: manično-depresivna psihoza
     su: gangguan bipolar
     sv: bipolär sjukdom
     sw: bipolar disorder
@@ -311,12 +311,12 @@ dv_has_:
     xmf: ბიპოლარული ეფექტური აკორცუაფა
     yue: 雙相障礙
     zh: 双相障碍
-    zh-cn: 双相障碍
-    zh-hans: 双相障碍
-    zh-hant: 雙相障礙
-    zh-hk: 雙相障礙
-    zh-sg: 心境障碍
-    zh-tw: 雙相障礙
+    zh_cn: 双相障碍
+    zh_hans: 双相障碍
+    zh_hant: 雙相障礙
+    zh_hk: 雙相障礙
+    zh_sg: 心境障碍
+    zh_tw: 雙相障礙
 ---
 # [[Bipolar_Disorder]] 
 

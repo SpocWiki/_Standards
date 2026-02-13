@@ -122,11 +122,11 @@ dv_has_:
     it: Jamie Oliver
     ja: ジェイミー・オリヴァー
     kk: Джеймс Оливер
-    kk-arab: دجەيمس ولىيۆەر
+    kk_arab: دجەيمس ولىيۆەر
     kk-cn: دجەيمس ولىيۆەر
-    kk-cyrl: Джеймс Оливер
+    kk_cyrl: Джеймс Оливер
     kk-kz: Джеймс Оливер
-    kk-latn: Djeýms Olïver
+    kk_latn: Djeýms Olïver
     kk-tr: Djeýms Olïver
     ko: 제이미 올리버
     mk: Џејми Оливер
@@ -137,7 +137,7 @@ dv_has_:
     nn: Jamie Oliver
     pl: Jamie Oliver
     pt: Jamie Oliver
-    pt-br: Jamie Oliver
+    pt_br: Jamie Oliver
     ro: Jamie Oliver
     ru: Джеймс Тревор Оливер
     sco: Jamie Oliver
@@ -146,8 +146,8 @@ dv_has_:
     sl: Jamie Oliver
     sq: Jamie Oliver
     sr: Џејми Оливер
-    sr-ec: Џејми Оливер
-    sr-el: Džejmi Oliver
+    sr_ec: Џејми Оливер
+    sr_el: Džejmi Oliver
     sv: Jamie Oliver
     tg: Ҷеймс Тревор Оливер
     th: เจมี ออลิเวอร์
@@ -155,12 +155,12 @@ dv_has_:
     uk: Джеймс Тревор Олівер
     vi: Jamie Oliver
     zh: 杰米·奧利弗
-    zh-cn: 杰米·奧利弗
-    zh-hans: 杰米·奧利弗
-    zh-hant: 傑米·奧利佛
-    zh-hk: 占美·奧利華
-    zh-sg: 杰米·奧利弗
-    zh-tw: 傑米·奧利佛
+    zh_cn: 杰米·奧利弗
+    zh_hans: 杰米·奧利弗
+    zh_hant: 傑米·奧利佛
+    zh_hk: 占美·奧利華
+    zh_sg: 杰米·奧利弗
+    zh_tw: 傑米·奧利佛
 ---
 # [[Oliver,Jamie]] 
 

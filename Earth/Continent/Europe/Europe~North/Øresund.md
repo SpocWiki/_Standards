@@ -105,7 +105,7 @@ dv_has_:
     az: Öresund
     ba: Эресунн
     be: Праліў Эрэсун
-    be-tarask: Эрэсунд
+    be_tarask: Эрэсунд
     bg: Йоресун
     br: Øresund
     ca: Øresund
@@ -141,8 +141,8 @@ dv_has_:
     ka: ერესუნის სრუტე
     ko: 외레순 해협
     ku: Tengava Oresund
-    ku-arab: تەنگاڤائۆ رەسوند
-    ku-latn: Tengava Oresund
+    ku_arab: تەنگاڤائۆ رەسوند
+    ku_latn: Tengava Oresund
     la: Oresundae fretum
     lt: Eresundas
     lv: Ēresunds
@@ -162,8 +162,8 @@ dv_has_:
     sk: Öresund
     sl: Øresund
     sr: Ересунд
-    sr-ec: Ересунд
-    sr-el: Eresund
+    sr_ec: Ересунд
+    sr_el: Eresund
     sv: Öresund
     sw: Oresund
     ta: ஒரிசவுண்ட்
@@ -180,12 +180,12 @@ dv_has_:
     wuu: 厄勒海峡
     yue: 松德海峽
     zh: 厄勒海峡
-    zh-cn: 厄勒海峡
-    zh-hans: 厄勒海峡
-    zh-hant: 厄勒海峽
-    zh-hk: 松德海峽
-    zh-sg: 厄勒海峡
-    zh-tw: 松德海峽
+    zh_cn: 厄勒海峡
+    zh_hans: 厄勒海峡
+    zh_hant: 厄勒海峽
+    zh_hk: 松德海峽
+    zh_sg: 厄勒海峡
+    zh_tw: 松德海峽
 ---
 # [[Øresund]] 
 

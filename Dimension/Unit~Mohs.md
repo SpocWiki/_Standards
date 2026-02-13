@@ -90,7 +90,7 @@ dv_has_:
     arz: مقياس موس
     ast: Escales de durez
     be: шкала Моаса
-    be-tarask: шкала Моаса
+    be_tarask: шкала Моаса
     bg: Скала на Моос
     bn: কাঠিন্য মাত্রা
     bs: Mohsova skala tvrdoće
@@ -146,7 +146,7 @@ dv_has_:
     sl: Mohsova trdotna lestvica
     sq: Shkalla e Mohsit për fortësinë e mineraleve
     sr: тврдоћа по Мосовој скали
-    sr-ec: Тврдоћа по Мосовој скали
+    sr_ec: Тврдоћа по Мосовој скали
     sv: Mohs hårdhetsskala
     sw: Skeli ya ugumu ya Mohs
     ta: மோவின் அளவுகோல்
@@ -159,7 +159,7 @@ dv_has_:
     wuu: 莫氏硬度
     yue: 莫氏硬度
     zh: 摩氏硬度
-    zh-hant: 摩氏硬度
+    zh_hant: 摩氏硬度
 ---
 # [[Unit~Mohs]] 
 

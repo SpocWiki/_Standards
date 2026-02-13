@@ -119,7 +119,7 @@ dv_has_:
     ast: xeomorfoloxía
     az: geomorfologiya
     be: геамарфалогія
-    be-tarask: геамарфалёгія
+    be_tarask: геамарфалёгія
     bg: Геоморфология
     bho: भूआकृति बिज्ञान
     bn: ভূমিরূপবিদ্যা
@@ -132,8 +132,8 @@ dv_has_:
     de: Geomorphologie
     el: γεωμορφολογία
     en: geomorphology
-    en-ca: Geomorphology
-    en-gb: geomorphology
+    en_ca: Geomorphology
+    en_gb: geomorphology
     en-us: geomorphology
     eo: geomorfologio
     es: geomorfología
@@ -173,7 +173,7 @@ dv_has_:
     ml: ഭൂരൂപരൂപീകരണശാസ്ത്രം
     mr: भूस्तरशास्त्र
     ms: geomorfologi
-    ms-arab: ݢيومورفولوݢي
+    ms_arab: ݢيومورفولوݢي
     mt: ġeomorfoloġija
     nan: Tē-hêng-ha̍k
     nb: geomorfologi
@@ -185,7 +185,7 @@ dv_has_:
     pl: geomorfologia
     ps: جیو مورفولوژي
     pt: geomorfologia
-    pt-br: geomorfologia
+    pt_br: geomorfologia
     ro: Geomorfologie
     ru: геоморфология
     sah: Геоморфология
@@ -199,8 +199,8 @@ dv_has_:
     sms: geomorfologia
     sq: Gjeomorfologjia
     sr: геоморфологија
-    sr-ec: геоморфологија
-    sr-el: geomorfologija
+    sr_ec: геоморфологија
+    sr_el: geomorfologija
     sv: geomorfologi
     ta: புவிப்புரவியல்
     tg: Заминрехтшиносӣ
@@ -219,8 +219,8 @@ dv_has_:
     wuu: 地貌学
     yue: 地形學
     zh: 地貌学
-    zh-hant: 地形學
-    zh-tw: 地形學
+    zh_hant: 地形學
+    zh_tw: 地形學
 ---
 # [[Geomorphology]] 
 

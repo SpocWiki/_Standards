@@ -104,7 +104,7 @@ dv_has_:
     ban: Ékidna
     bcl: Echidna
     be: Яхідны
-    be-tarask: яхідны
+    be_tarask: яхідны
     bg: ехидни
     br: Ekidne
     bs: Tachyglossidae
@@ -117,8 +117,8 @@ dv_has_:
     de: Ameisenigel
     el: Ταχυγλωσσίδες
     en: Nuckles
-    en-ca: Echidna
-    en-gb: echidna
+    en_ca: Echidna
+    en_gb: echidna
     eo: Ekidno
     es: Tachyglossidae
     et: Tachyglossidae
@@ -160,7 +160,7 @@ dv_has_:
     mul: Tachyglossidae
     nb: Maurpiggsvin
     nds: Tachyglossidae
-    nds-nl: Tachyglossidae
+    nds_nl: Tachyglossidae
     nl: mierenegels
     nn: Tachyglossidae
     nqo: ߖߎ߯ߙߎߟߋ߲
@@ -170,7 +170,7 @@ dv_has_:
     pl: Kolczatkowate
     pms: Tachyglossidae
     pt: Tachyglossidae
-    pt-br: Tachyglossidae
+    pt_br: Tachyglossidae
     ro: Echidnă
     ru: ехидновые
     sco: echidna
@@ -196,10 +196,10 @@ dv_has_:
     wuu: 针鼹
     yue: 針鼴
     zh: 针鼹科
-    zh-cn: 针鼹科
-    zh-hans: 针鼹科
-    zh-hant: 针鼹
-    zh-tw: 針鼹科
+    zh_cn: 针鼹科
+    zh_hans: 针鼹科
+    zh_hant: 针鼹
+    zh_tw: 針鼹科
 ---
 # [[Tachyglossidae]] 
 

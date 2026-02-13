@@ -52,7 +52,7 @@ dv_has_:
     ast: pianu llétricu
     az: Elektrik pianino
     be: электрычнае піяніна
-    be-tarask: электрычнае фартэпіяна
+    be_tarask: электрычнае фартэпіяна
     ca: piano elèctric
     cs: elektrické piano
     da: El-klaver
@@ -87,9 +87,9 @@ dv_has_:
     vi: Piano điện
     yue: 電鋼琴
     zh: 電鋼琴
-    zh-hans: 电钢琴
-    zh-hant: 電鋼琴
-    zh-hk: 電鋼琴
+    zh_hans: 电钢琴
+    zh_hant: 電鋼琴
+    zh_hk: 電鋼琴
 ---
 # [[Electric_Piano]] 
 

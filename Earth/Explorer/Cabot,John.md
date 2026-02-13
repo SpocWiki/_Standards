@@ -90,7 +90,7 @@ dv_has_:
     ast: Giovanni Caboto
     avk: John Cabot
     be: Джон Кабат
-    be-tarask: Джон Кабат
+    be_tarask: Джон Кабат
     bg: Джон Кабот
     bn: জোভান্নি কাবোতো
     br: John Cabot
@@ -100,11 +100,11 @@ dv_has_:
     cy: Giovanni Caboto
     da: Giovanni Caboto
     de: Giovanni Caboto
-    de-ch: Giovanni Caboto
+    de_ch: Giovanni Caboto
     el: Τζοβάννι Καμπότο
     en: John Cabot
-    en-ca: John Cabot
-    en-gb: John Cabot
+    en_ca: John Cabot
+    en_gb: John Cabot
     eo: Giovanni Caboto
     es: Juan Caboto
     et: Giovanni Caboto
@@ -141,7 +141,7 @@ dv_has_:
     pl: Giovanni Caboto
     pms: Gioann Caboto
     pt: Giovanni Caboto
-    pt-br: Giovanni Caboto
+    pt_br: Giovanni Caboto
     ro: John Cabot
     ru: Джон Кабот
     sc: Giovanni Caboto
@@ -150,8 +150,8 @@ dv_has_:
     sl: John Cabot
     sq: John Cabot
     sr: Џон Кабот
-    sr-ec: Џон Кабот
-    sr-el: Džon Kabot
+    sr_ec: Џон Кабот
+    sr_el: Džon Kabot
     sv: John Cabot
     sw: John Cabot
     ta: ஜான் கபோட்
@@ -163,12 +163,12 @@ dv_has_:
     wuu: 乔瓦尼·卡博托
     yue: 喬瓦尼·卡博托
     zh: 乔瓦尼·卡博托
-    zh-cn: 乔瓦尼·卡博托
-    zh-hans: 乔瓦尼·卡博托
-    zh-hant: 喬瓦尼·卡博托
-    zh-hk: 喬瓦尼·卡博托
-    zh-sg: 乔瓦尼·卡博托
-    zh-tw: 喬瓦尼·卡博托
+    zh_cn: 乔瓦尼·卡博托
+    zh_hans: 乔瓦尼·卡博托
+    zh_hant: 喬瓦尼·卡博托
+    zh_hk: 喬瓦尼·卡博托
+    zh_sg: 乔瓦尼·卡博托
+    zh_tw: 喬瓦尼·卡博托
 ---
 # [[Cabot,John]] 
 

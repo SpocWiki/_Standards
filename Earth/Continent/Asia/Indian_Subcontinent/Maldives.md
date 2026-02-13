@@ -65,7 +65,7 @@ dv_has_:
   name_:
     ab: Мальдив
     ace: Maladewa
-    aeb-arab: جزر المالديڥ
+    aeb_arab: جزر المالديڥ
     af: Maledive
     am: ማልዲቭስ
     ami: Maldives
@@ -86,7 +86,7 @@ dv_has_:
     bar: Maledivn
     bcl: Maldibas
     be: Мальдывы
-    be-tarask: Мальдыўскія астравы
+    be_tarask: Мальдыўскія астравы
     bew: Maladéwa
     bg: Малдиви
     bho: मालदीव
@@ -101,21 +101,21 @@ dv_has_:
     bs: Maldivi
     bxr: Мальдив
     ca: Maldives
-    cbk-zam: Maldivas
+    cbk_zam: Maldivas
     cdo: Maldives
     ce: Мальдиви
     ceb: Maldives
     ckb: ماڵدیڤ
     co: Maldivi
     crh: Maldivler
-    crh-latn: Maldivler
+    crh_latn: Maldivler
     cs: Maledivy
     csb: Malediwë
     cy: Maldives
     da: Maldiverne
     dag: Maldives
     de: Malediven
-    de-ch: Malediven
+    de_ch: Malediven
     diq: Maldiwi
     dsb: Malediwy
     dtp: Maldives
@@ -124,8 +124,8 @@ dv_has_:
     dz: མཱལ་ཌིབསི།
     el: Μαλδίβες
     en: Maldives
-    en-ca: Maldives
-    en-gb: Maldives
+    en_ca: Maldives
+    en_gb: Maldives
     en-us: Maldives
     eo: Maldivoj
     es: Maldivas
@@ -148,7 +148,7 @@ dv_has_:
     gn: Mayndíva
     gom: मालदीव
     gom-deva: मालदीव
-    gom-latn: Maldives
+    gom_latn: Maldives
     gor: Maladewa
     gpe: Maldives
     gsw: Malediven
@@ -208,7 +208,7 @@ dv_has_:
     lv: Maldīvija
     lzh: 馬爾地夫
     mai: माल्दिभ्स
-    map-bms: Maladewa
+    map_bms: Maladewa
     mg: Maldiva
     mhr: Мальдив
     mi: Maratīwi
@@ -248,7 +248,7 @@ dv_has_:
     pnb: مالدیپ
     ps: مالديپ
     pt: Maldivas
-    pt-br: Maldivas
+    pt_br: Maldivas
     qu: Maldiwakuna
     rmy: Maldive
     ro: Maldive
@@ -276,7 +276,7 @@ dv_has_:
     so: Jasiirada Maldiif
     sq: Maldivet
     sr: Малдиви
-    sr-ec: Малдиви
+    sr_ec: Малдиви
     srn: Maldivikondre
     ss: Tihlenge teMaldiva
     su: Maladéwa
@@ -322,14 +322,14 @@ dv_has_:
     zea: Mallediven
     zgh: ⵎⴰⵍⴷⵉⴼ
     zh: 馬爾代夫
-    zh-cn: 马尔代夫
-    zh-hans: 马尔代夫
-    zh-hant: 馬爾地夫
-    zh-hk: 馬爾代夫
-    zh-mo: 馬爾代夫
+    zh_cn: 马尔代夫
+    zh_hans: 马尔代夫
+    zh_hant: 馬爾地夫
+    zh_hk: 馬爾代夫
+    zh_mo: 馬爾代夫
     zh-my: 马尔代夫
-    zh-sg: 马尔代夫
-    zh-tw: 馬爾地夫
+    zh_sg: 马尔代夫
+    zh_tw: 馬爾地夫
     zu: i-Maldives
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Maldives

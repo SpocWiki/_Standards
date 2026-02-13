@@ -92,7 +92,7 @@ dv_has_:
     ba: Джунгли
     bar: Dschungl
     be: джунглі
-    be-tarask: джунглі
+    be_tarask: джунглі
     bg: джунгла
     bho: जंगल
     br: janglenn
@@ -130,11 +130,11 @@ dv_has_:
     ka: ჯუნგლი
     kaa: Toǵay
     kk: джунгли
-    kk-arab: دجۋنگلىي
+    kk_arab: دجۋنگلىي
     kk-cn: دجۋنگلىي
-    kk-cyrl: джунгли
+    kk_cyrl: джунгли
     kk-kz: джунгли
-    kk-latn: djwnglï
+    kk_latn: djwnglï
     kk-tr: djwnglï
     ko: 밀림
     ks: جنگل
@@ -155,7 +155,7 @@ dv_has_:
     pl: dżungla
     pnb: جنگل
     pt: selva
-    pt-br: selva
+    pt_br: selva
     ro: junglă
     ru: джунгли
     sa: जङ्गल
@@ -183,12 +183,12 @@ dv_has_:
     yi: דזשונגל
     yue: 叢林
     zh: 叢林
-    zh-cn: 丛林
-    zh-hans: 丛林
-    zh-hant: 叢林
-    zh-hk: 叢林
-    zh-sg: 丛林
-    zh-tw: 叢林
+    zh_cn: 丛林
+    zh_hans: 丛林
+    zh_hant: 叢林
+    zh_hk: 叢林
+    zh_sg: 丛林
+    zh_tw: 叢林
 ---
 # [[Jungle]]
 

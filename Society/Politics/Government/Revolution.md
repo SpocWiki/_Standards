@@ -131,7 +131,7 @@ dv_has_:
     ast: Revolución
     az: İnqilab
     be: рэвалюцыя
-    be-tarask: рэвалюцыя
+    be_tarask: рэвалюцыя
     bg: революция
     bn: বিপ্লব
     br: dispac'h
@@ -231,7 +231,7 @@ dv_has_:
     tl: Himagsikan
     tr: devrim
     tt: инкыйлаб
-    tt-cyrl: инкыйлаб
+    tt_cyrl: инкыйлаб
     tyv: революция
     udm: революция
     uk: революція
@@ -245,9 +245,9 @@ dv_has_:
     yi: רעוואלוציע
     yue: 革命
     zh: 革命
-    zh-hant: 革命
-    zh-hk: 革命
-    zh-tw: 革命
+    zh_hant: 革命
+    zh_hk: 革命
+    zh_tw: 革命
 ---
 # [[Revolution]] 
 

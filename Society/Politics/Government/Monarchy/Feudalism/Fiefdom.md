@@ -57,7 +57,7 @@ dv_has_:
     ar: إقطاعة
     ast: Feudu
     be: феод
-    be-tarask: фэод
+    be_tarask: фэод
     bg: Феод
     br: aotrouniezhoù
     ca: feu
@@ -67,8 +67,8 @@ dv_has_:
     de: Lehnswesen
     el: φέουδο
     en: fiefdom
-    en-ca: Fief
-    en-gb: fief
+    en_ca: Fief
+    en_gb: fief
     eo: feŭdo
     es: feudo
     et: Lään
@@ -99,14 +99,14 @@ dv_has_:
     ms: Kuripan
     nb: len
     nds: Lehn (Feudalismus)
-    nds-nl: liefeigenschop
+    nds_nl: liefeigenschop
     nl: leenstelsel
     nn: len
     nrm: Fieu
     oc: Fèu
     pl: lenno
     pt: feudo
-    pt-br: Feudo
+    pt_br: Feudo
     ro: feudă
     ru: феод
     scn: Feu
@@ -122,12 +122,12 @@ dv_has_:
     vi: lãnh địa
     wa: Fî
     zh: 采邑
-    zh-cn: 采邑制
-    zh-hans: 采邑制
-    zh-hant: 采邑制
-    zh-hk: 采邑制
-    zh-sg: 采邑制
-    zh-tw: 采邑制
+    zh_cn: 采邑制
+    zh_hans: 采邑制
+    zh_hant: 采邑制
+    zh_hk: 采邑制
+    zh_sg: 采邑制
+    zh_tw: 采邑制
 ---
 # [[Fiefdom]] 
 

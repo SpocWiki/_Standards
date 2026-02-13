@@ -125,9 +125,9 @@ dv_has_:
     uz: Xatolar komediyasi
     yue: 難得糊塗
     zh: 錯誤的喜劇
-    zh-hans: comedy of errors
-    zh-hk: 難得糊塗
-    zh-tw: 錯誤的喜劇
+    zh_hans: comedy of errors
+    zh_hk: 難得糊塗
+    zh_tw: 錯誤的喜劇
 ---
 # [[Comedy_of_Errors]] 
 

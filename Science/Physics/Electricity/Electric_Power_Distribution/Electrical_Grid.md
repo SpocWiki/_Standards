@@ -89,7 +89,7 @@ dv_has_:
   name_:
     ar: شبكة كهربائية
     ast: rede llétrica
-    be-tarask: электрычная сетка
+    be_tarask: электрычная сетка
     bg: електроснабдителна мрежа
     bs: elektroenergetski sistem
     ca: xarxa elèctrica
@@ -139,8 +139,8 @@ dv_has_:
     sl: električno omrežje
     sq: Rrjeti elektrik
     sr: Електричне мреже
-    sr-ec: Електричне мреже
-    sr-el: Električne mreže
+    sr_ec: Електричне мреже
+    sr_el: Električne mreže
     sv: elnät
     th: กริด
     tr: Elektrik şebekesi
@@ -150,10 +150,10 @@ dv_has_:
     wuu: 输电网络
     yue: 電網
     zh: 輸電網路
-    zh-cn: 输电网络
-    zh-hans: 输电网路
-    zh-hant: 輸電網路
-    zh-hk: 輸電網絡
+    zh_cn: 输电网络
+    zh_hans: 输电网路
+    zh_hant: 輸電網路
+    zh_hk: 輸電網絡
 ---
 # [[Electrical_Grid]] 
 

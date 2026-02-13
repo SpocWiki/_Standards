@@ -164,7 +164,7 @@ dv_has_:
     azb: ساده عدد
     ba: ябай һан
     be: просты лік
-    be-tarask: просты лік
+    be_tarask: просты лік
     bg: просто число
     bn: মৌলিক সংখ্যা
     br: niver kentael
@@ -176,13 +176,13 @@ dv_has_:
     cy: rhif cysefin
     da: primtal
     de: Primzahl
-    de-ch: Primzahl
+    de_ch: Primzahl
     diq: amaro primal
     el: πρώτος αριθμός
     eml: nùmer prim
     en: prime number
-    en-ca: prime number
-    en-gb: prime number
+    en_ca: prime number
+    en_gb: prime number
     eo: primo
     es: número primo
     et: algarv
@@ -258,7 +258,7 @@ dv_has_:
     pms: nùmer prim
     pnb: پرائم نمبر
     pt: número primo
-    pt-br: número primo
+    pt_br: número primo
     rki: သုဒ္ဓကိန်း
     ro: număr prim
     ru: простое число
@@ -276,7 +276,7 @@ dv_has_:
     so: tiro mutuxan
     sq: numri i thjeshtë
     sr: прост број
-    sr-ec: прост број
+    sr_ec: прост број
     sv: primtal
     sw: namba tasa
     szl: pjyrszo nůmera
@@ -305,10 +305,10 @@ dv_has_:
     yue: 質數
     zgh: ⴰⵎⴹⴰⵏ ⴰⵎⵏⵣⵓ
     zh: 質數
-    zh-cn: 质数
-    zh-hans: 质数
-    zh-hk: 質數
-    zh-tw: 質數
+    zh_cn: 质数
+    zh_hans: 质数
+    zh_hk: 質數
+    zh_tw: 質數
 ---
 # [[Prime_Number]] 
 

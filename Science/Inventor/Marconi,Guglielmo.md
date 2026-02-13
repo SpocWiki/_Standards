@@ -169,7 +169,7 @@ dv_has_:
     azb: گولیلمو مارکونی
     bar: Guglielmo Marconi
     be: Гульельма Марконі
-    be-tarask: Гульельма Марконі
+    be_tarask: Гульельма Марконі
     bg: Гулиелмо Маркони
     bn: গুলিয়েলমো মার্কোনি
     br: Guglielmo Marconi
@@ -182,14 +182,14 @@ dv_has_:
     da: Guglielmo Marconi
     de: Guglielmo Marconi
     de-at: Guglielmo Marconi
-    de-ch: Guglielmo Marconi
+    de_ch: Guglielmo Marconi
     dv: ގެގްލިއަލްމޯ މާކޯނީ
     ee: Guglielmo Marconi
     el: Γουλιέλμο Μαρκόνι
     eml: Guglielmo Marconi
     en: Guglielmo Marconi
-    en-ca: Guglielmo Marconi
-    en-gb: Guglielmo Marconi
+    en_ca: Guglielmo Marconi
+    en_gb: Guglielmo Marconi
     eo: Guglielmo Marconi
     es: Guillermo Marconi
     et: Guglielmo Marconi
@@ -248,7 +248,7 @@ dv_has_:
     nap: Gugliemo Marconi
     nb: Guglielmo Marconi
     nds: Guglielmo Marconi
-    nds-nl: Guglielmo Marconi
+    nds_nl: Guglielmo Marconi
     ne: गुग्लिल्मो मार्कोनी
     new: गुग्लिमो मार्कोनी
     nl: Guglielmo Marconi
@@ -264,7 +264,7 @@ dv_has_:
     pnb: مارکونی
     ps: ګوګلېمو مارکوني
     pt: Guglielmo Marconi
-    pt-br: Guglielmo Marconi
+    pt_br: Guglielmo Marconi
     qu: Guglielmo Marconi
     rki: ဂူဂလီရယ်မို မာကိုနီ
     rm: Guglielmo Marconi
@@ -278,7 +278,7 @@ dv_has_:
     sl: Guglielmo Marconi
     sq: Guglielmo Marconi
     sr: Гуљелмо Маркони
-    sr-el: Guglielmo Marconi
+    sr_el: Guglielmo Marconi
     su: Guglielmo Marconi
     sv: Guglielmo Marconi
     sw: Guglielmo Marconi

@@ -143,7 +143,7 @@ dv_has_:
     az: Əsl qurbağalar
     ba: Тәлмәрйендәр
     be: звычайныя жабы
-    be-tarask: звычайныя жабы
+    be_tarask: звычайныя жабы
     bg: водни жаби
     bn: ব্যাঙ
     br: Anura
@@ -158,11 +158,11 @@ dv_has_:
     cy: Llyffant
     da: Frøer
     de: Echte Frösche
-    de-ch: Echte Frösche
+    de_ch: Echte Frösche
     el: Βάτραχος
     en: Ranidae
-    en-ca: True frog
-    en-gb: True frog
+    en_ca: True frog
+    en_gb: True frog
     eo: Anuro
     es: Ranidae
     et: Konlased
@@ -215,7 +215,7 @@ dv_has_:
     mzn: وک
     nan: Chúi-ke
     nb: ekte frosker
-    nds-nl: kikvors
+    nds_nl: kikvors
     ne: भ्यागुतो
     nl: echte kikkers
     nn: Halelause padder
@@ -230,7 +230,7 @@ dv_has_:
     pnt: φορφάκα
     ps: رښتياني چونگښې
     pt: Ranidae
-    pt-br: Ranidae
+    pt_br: Ranidae
     qu: K'ayra
     ro: Broască
     roa-tara: Marajòttole
@@ -270,9 +270,9 @@ dv_has_:
     yue: 蛙科
     zea: Puut'n
     zh: 蛙科
-    zh-cn: 蛙科
-    zh-hans: 蛙科
-    zh-tw: 蛙科
+    zh_cn: 蛙科
+    zh_hans: 蛙科
+    zh_tw: 蛙科
 ---
 # [[Ranid]] 
 

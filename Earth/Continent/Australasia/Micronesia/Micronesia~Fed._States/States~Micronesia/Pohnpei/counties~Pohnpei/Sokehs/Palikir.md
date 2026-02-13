@@ -87,7 +87,7 @@ dv_has_:
     ban: Palikir
     bcl: Palikir
     be: Палікір
-    be-tarask: Палікір
+    be_tarask: Палікір
     bg: Паликир
     bn: পালিকির
     br: Palikir
@@ -188,7 +188,7 @@ dv_has_:
     xmf: პალიკირი
     yue: 帕利基爾
     zh: 帕利基尔
-    zh-cn: 帕利基尔
+    zh_cn: 帕利基尔
     zu: i-Palikir
 ---
 # [[Palikir]] 

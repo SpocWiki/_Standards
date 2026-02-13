@@ -188,11 +188,11 @@ dv_has_:
     ka: ღოლო
     kab: Tagrut
     kk: Қымыздық
-    kk-arab: قىمىزدىق
+    kk_arab: قىمىزدىق
     kk-cn: قىمىزدىق
-    kk-cyrl: Қымыздық
+    kk_cyrl: Қымыздық
     kk-kz: Қымыздық
-    kk-latn: Qımızdıq
+    kk_latn: Qımızdıq
     kk-tr: Qımızdıq
     ko: 수영속
     koi: Шомкор
@@ -211,7 +211,7 @@ dv_has_:
     olo: Varčoi
     pl: Szczaw
     pt: Rumex
-    pt-br: Rumex
+    pt_br: Rumex
     qu: Rumasa
     ro: Rumex
     ru: Щавель
@@ -231,12 +231,12 @@ dv_has_:
     war: Rumex
     wuu: 酸模属
     zh: 酸模属
-    zh-cn: 酸模属
-    zh-hans: 酸模属
-    zh-hant: 酸模屬
-    zh-hk: 酸模屬
-    zh-sg: 酸模属
-    zh-tw: 酸模屬
+    zh_cn: 酸模属
+    zh_hans: 酸模属
+    zh_hant: 酸模屬
+    zh_hk: 酸模屬
+    zh_sg: 酸模属
+    zh_tw: 酸模屬
 ---
 # [[Rumex]] 
 

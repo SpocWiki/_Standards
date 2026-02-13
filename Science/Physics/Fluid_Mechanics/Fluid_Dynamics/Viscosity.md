@@ -111,7 +111,7 @@ dv_has_:
     az: Özlülük
     azb: آغدالیک
     be: вязкасць
-    be-tarask: грузкасьць
+    be_tarask: грузкасьць
     bg: Вискозитет
     bn: সান্দ্রতা
     bs: Viskoznost
@@ -147,11 +147,11 @@ dv_has_:
     ka: სიბლანტე
     kaa: japısqaqlıq
     kk: Тұтқырлық
-    kk-arab: تۇتقىرلىق
+    kk_arab: تۇتقىرلىق
     kk-cn: تۇتقىرلىق
-    kk-cyrl: Тұтқырлық
+    kk_cyrl: Тұтқырлық
     kk-kz: Тұтқырлық
-    kk-latn: Tutqırlıq
+    kk_latn: Tutqırlıq
     kk-tr: Tutqırlıq
     kn: ಸ್ನಿಗ್ಧತೆ
     ko: 점성
@@ -181,15 +181,15 @@ dv_has_:
     sl: viskoznost
     sq: Viskoziteti
     sr: вискозност флуида
-    sr-ec: Вискозност флуида
-    sr-el: Viskoznost fluida
+    sr_ec: Вискозност флуида
+    sr_el: Viskoznost fluida
     sv: viskositet
     ta: பிசுக்குமை
     te: స్నిగ్థత
     th: ความหนืด
     tr: akmazlık
     tt: ябышкаклык
-    tt-cyrl: ябышкаклык
+    tt_cyrl: ябышкаклык
     uk: в'язкість
     ur: لزوجت
     uz: Yopishqoqlik
@@ -197,12 +197,12 @@ dv_has_:
     wuu: 黏度
     yue: 黏度
     zh: 黏度
-    zh-cn: 黏度
-    zh-hans: 黏度
-    zh-hant: 黏度
-    zh-hk: 黏度
-    zh-sg: 黏度
-    zh-tw: 黏度
+    zh_cn: 黏度
+    zh_hans: 黏度
+    zh_hant: 黏度
+    zh_hk: 黏度
+    zh_sg: 黏度
+    zh_tw: 黏度
 ---
 # [[Viscosity]] 
 

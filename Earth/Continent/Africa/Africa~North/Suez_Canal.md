@@ -221,7 +221,7 @@ dv_has_:
     bar: Sueskanal
     bcl: Kanal Suez
     be: Суэцкі канал
-    be-tarask: Суэцкі канал
+    be_tarask: Суэцкі канал
     bew: Susukan Sués
     bg: Суецки канал
     bho: स्वेज नहर
@@ -240,11 +240,11 @@ dv_has_:
     cy: Camlas Suez
     da: Suez-kanalen
     de: Suezkanal
-    de-ch: Sueskanal
+    de_ch: Sueskanal
     el: Διώρυγα Σουέζ
     en: Suez Canal
-    en-ca: Suez Canal
-    en-gb: Suez Canal
+    en_ca: Suez Canal
+    en_gb: Suez Canal
     eo: Sueza Kanalo
     es: canal de Suez
     et: Suessi kanal
@@ -292,7 +292,7 @@ dv_has_:
     ko: 수에즈 운하
     ks: سویَس کۄل
     ku: Kanala Suezê
-    ku-latn: Kanala Suezê
+    ku_latn: Kanala Suezê
     kw: Dowrgleudh Suez
     ky: Суэц каналы
     la: Canalis Suesiensis
@@ -333,7 +333,7 @@ dv_has_:
     pnb: نہر سوئز
     ps: سویز کانال
     pt: Canal de Suez
-    pt-br: Canal de Suez
+    pt_br: Canal de Suez
     ro: Canalul Suez
     roa-tara: Canale de Suez
     ru: Суэцкий канал
@@ -377,10 +377,10 @@ dv_has_:
     yue: 蘇彝士運河
     zgh: ⴰⴱⴰⴷⵓ ⵏ ⵙⴰⵡⵉⵙ
     zh: 蘇伊士運河
-    zh-cn: 苏伊士运河
-    zh-hans: 苏伊士运河
-    zh-hant: 蘇伊士運河
-    zh-hk: 蘇彝士運河
+    zh_cn: 苏伊士运河
+    zh_hans: 苏伊士运河
+    zh_hant: 蘇伊士運河
+    zh_hk: 蘇彝士運河
 ---
 # [[Suez_Canal]] 
 

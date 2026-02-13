@@ -160,7 +160,7 @@ dv_has_:
     ban: Buyung
     bar: Diptera
     be: двухкрылыя
-    be-tarask: двукрыльныя
+    be_tarask: двукрыльныя
     bg: двукрили
     bjn: Biranga
     bn: মাছি
@@ -177,12 +177,12 @@ dv_has_:
     da: tovinger
     de: Zweiflügler
     de-at: Diptera
-    de-ch: Diptera
+    de_ch: Diptera
     diq: Mêşe
     el: Δίπτερα
     en: Diptera
-    en-ca: fly
-    en-gb: fly
+    en_ca: fly
+    en_gb: fly
     eo: Dipteroj
     es: Diptera
     et: Kahetiivalised
@@ -251,7 +251,7 @@ dv_has_:
     nap: Diptera
     nb: tovinger
     nds: Diptera
-    nds-nl: Diptera
+    nds_nl: Diptera
     ne: झिँगा
     nl: tweevleugeligen
     nn: tovenger
@@ -265,7 +265,7 @@ dv_has_:
     pl: muchówki
     pms: Diptera
     pt: Mosca
-    pt-br: Diptera
+    pt_br: Diptera
     qu: Iskaylla rapra
     rm: Diptera
     ro: Diptera
@@ -305,9 +305,9 @@ dv_has_:
     yo: Esinsin
     yue: 雙翅目
     zh: 雙翅目
-    zh-cn: 双翅目
-    zh-hans: 双翅目
-    zh-tw: 雙翅目
+    zh_cn: 双翅目
+    zh_hans: 双翅目
+    zh_tw: 雙翅目
     zu: Diptera
 ---
 # [[Diptera]] 

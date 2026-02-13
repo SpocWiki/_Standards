@@ -36,7 +36,7 @@ dv_has_:
     ban: aungan
     bcl: bongag
     be: пячора
-    be-tarask: пячора
+    be_tarask: пячора
     bg: пещера
     bjn: guha
     bn: গুহা
@@ -92,7 +92,7 @@ dv_has_:
     ko: 동굴
     ks: گۄپھ
     ku: şikeft
-    ku-latn: şikeft
+    ku_latn: şikeft
     kw: fow
     ky: үңкүрлөр
     la: spelunca
@@ -122,7 +122,7 @@ dv_has_:
     pl: jaskinia
     pnb: غار
     pt: caverna
-    pt-br: caverna
+    pt_br: caverna
     qu: mach'ay
     ro: peșteră
     ru: пещера
@@ -164,8 +164,8 @@ dv_has_:
     yue: 山窿
     za: congh
     zh: 洞穴
-    zh-cn: 洞穴
-    zh-hans: 洞穴
+    zh_cn: 洞穴
+    zh_hans: 洞穴
 aliases:
 - ala
 - aungan

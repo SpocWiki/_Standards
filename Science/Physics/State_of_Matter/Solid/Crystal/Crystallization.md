@@ -83,7 +83,7 @@ dv_has_:
     ar: تبلور
     ast: cristalización
     be: крышталізацыя
-    be-tarask: крышталізацыя
+    be_tarask: крышталізацыя
     bg: Кристализация
     bn: কেলাসীভবন
     bs: kristalizacija
@@ -91,7 +91,7 @@ dv_has_:
     cs: krystalizace
     de: Kristallisation
     en: crystallization
-    en-gb: crystallisation
+    en_gb: crystallisation
     eo: kristaliĝo
     es: cristalización
     et: kristalliseerumine

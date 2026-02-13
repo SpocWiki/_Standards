@@ -54,7 +54,7 @@ dv_has_:
     oc: Bacillota
     pl: Bacillota
     pt: Bacillota
-    pt-br: Bacillota
+    pt_br: Bacillota
     ro: Bacillota
     ru: Bacillota
     sl: Bacillota
@@ -64,9 +64,9 @@ dv_has_:
     vo: Bacillota
     war: Bacillota
     zh: 芽孢杆菌门
-    zh-cn: 芽孢杆菌门
-    zh-hans: 芽孢杆菌门
-    zh-tw: 厚壁菌門
+    zh_cn: 芽孢杆菌门
+    zh_hans: 芽孢杆菌门
+    zh_tw: 厚壁菌門
 ---
 # [[Bacillota]] 
 

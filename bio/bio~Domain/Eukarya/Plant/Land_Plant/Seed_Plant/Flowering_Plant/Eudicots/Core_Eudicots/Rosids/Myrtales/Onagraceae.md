@@ -54,7 +54,7 @@ dv_has_:
     ast: Onagraceae
     az: Onaqrakimilər
     be: Скрыпнёвыя
-    be-tarask: Скрыпнёвыя
+    be_tarask: Скрыпнёвыя
     bg: върболикови
     bs: Onagraceae
     ca: onagràcies
@@ -102,7 +102,7 @@ dv_has_:
     oc: Onagraceae
     pl: wiesiołkowate
     pt: Onagraceae
-    pt-br: Onagraceae
+    pt_br: Onagraceae
     qu: Yawarch'unqa yura rikch'aq ayllu
     ro: Onagracee
     ru: Кипрейные
@@ -120,12 +120,12 @@ dv_has_:
     vo: Onagraceae
     war: Onagraceae
     zh: 柳叶菜科
-    zh-cn: 柳叶菜科
-    zh-hans: 柳叶菜科
-    zh-hant: 柳葉菜科
-    zh-hk: 柳葉菜科
-    zh-sg: 柳叶菜科
-    zh-tw: 柳葉菜科
+    zh_cn: 柳叶菜科
+    zh_hans: 柳叶菜科
+    zh_hant: 柳葉菜科
+    zh_hk: 柳葉菜科
+    zh_sg: 柳叶菜科
+    zh_tw: 柳葉菜科
 ---
 # [[Onagraceae]] 
 

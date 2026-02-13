@@ -51,10 +51,10 @@ dv_has_:
     uk: господарсько-побутові стічні води
     ur: آبنکاسی
     zh: 污水
-    zh-cn: 市區污水
-    zh-hans: 市區污水
-    zh-hant: 污水
-    zh-tw: 污水
+    zh_cn: 市區污水
+    zh_hans: 市區污水
+    zh_hant: 污水
+    zh_tw: 污水
 aliases:
 - afvalwater
 - aguas residuales

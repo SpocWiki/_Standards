@@ -4,18 +4,18 @@ dv_has_:
   name_:
     ar: حوسبة بمجموعة تعليمات مخفضة
     az: Azaldılmış göstərişlər toplusuyla hesablama
-    be-tarask: вылічэньне скарочанага набору загадаў
+    be_tarask: вылічэньне скарочанага набору загадаў
     bg: РИСК архитектура
     bs: RISC
     ca: RISC
     cs: RISC
     da: RISC
     de: Reduced Instruction Set Computer
-    de-ch: Reduced Instruction Set Computer
+    de_ch: Reduced Instruction Set Computer
     el: Reduced instruction set computer
     en: reduced instruction set computing
-    en-ca: Reduced instruction set computing
-    en-gb: reduced instruction set computing
+    en_ca: Reduced instruction set computing
+    en_gb: reduced instruction set computing
     eo: RISC
     es: RISC
     et: RISC
@@ -42,30 +42,30 @@ dv_has_:
     nn: RISC
     pl: RISC
     pt: RISC
-    pt-br: RISC
+    pt_br: RISC
     ro: Arhitectură RISC
     sco: reduced instruction set computin
     sh: Reduced instruction set computer
     sk: Reduced instruction set computer
     sl: RISC
     sr: RISC
-    sr-ec: РИСЦ
-    sr-el: RISC
+    sr_ec: РИСЦ
+    sr_el: RISC
     sv: Reduced Instruction Set Computing
     th: RISC
     tr: RISC
     tt: RISC
-    tt-cyrl: RISC
+    tt_cyrl: RISC
     uk: RISC
     vi: RISC
     wuu: 精简指令集
     zh: 精简指令集
-    zh-cn: 精简指令集
-    zh-hans: 精简指令集
-    zh-hant: 精簡指令集
-    zh-hk: 精簡指令集
-    zh-sg: 精简指令集
-    zh-tw: 精簡指令集
+    zh_cn: 精简指令集
+    zh_hans: 精简指令集
+    zh_hant: 精簡指令集
+    zh_hk: 精簡指令集
+    zh_sg: 精简指令集
+    zh_tw: 精簡指令集
 aliases:
 - Arhitectură RISC
 - Azaldılmış göstərişlər toplusuyla hesablama

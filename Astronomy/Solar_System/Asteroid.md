@@ -157,7 +157,7 @@ dv_has_:
     bar: Asteroid
     bcl: asteroyd
     be: астэроід
-    be-tarask: астэроід
+    be_tarask: астэроід
     bew: bebaton
     bg: астероид
     bho: एस्टेरॉइड्स
@@ -182,8 +182,8 @@ dv_has_:
     el: αστεροειδής
     eml: asteròid
     en: asteroid
-    en-ca: asteroid
-    en-gb: asteroid
+    en_ca: asteroid
+    en_gb: asteroid
     eo: asteroido
     es: asteroide
     et: asteroid
@@ -271,7 +271,7 @@ dv_has_:
     pnb: تارے ورگا
     ps: اسټوريوډ (کوچنۍ سياره)
     pt: asteroide
-    pt-br: asteroide
+    pt_br: asteroide
     qu: puriq quyllurcha
     ro: asteroid
     rsk: астероид
@@ -305,8 +305,8 @@ dv_has_:
     tok: kiwen lon pimeja mun
     tr: asteroit
     tt: астероид
-    tt-cyrl: астероид
-    tt-latn: asteroid
+    tt_cyrl: астероид
+    tt_latn: asteroid
     tyv: астероид
     udm: астероид
     uk: астероїд
@@ -322,14 +322,14 @@ dv_has_:
     yi: אסטערויד
     yue: 小行星
     zh: 小行星
-    zh-cn: 小行星
-    zh-hans: 小行星
-    zh-hant: 小行星
-    zh-hk: 小行星
-    zh-mo: 小行星
+    zh_cn: 小行星
+    zh_hans: 小行星
+    zh_hant: 小行星
+    zh_hk: 小行星
+    zh_mo: 小行星
     zh-my: 小行星
-    zh-sg: 小行星
-    zh-tw: 小行星
+    zh_sg: 小行星
+    zh_tw: 小行星
     zu: Umhlabana
 ---
 # [[Asteroid]] 

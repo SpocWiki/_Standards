@@ -166,7 +166,7 @@ dv_has_:
     ast: Mark Rothko
     az: Mark Rotko
     be: Марк Ротка
-    be-tarask: Марк Ротка
+    be_tarask: Марк Ротка
     bg: Марк Ротко
     bn: মার্ক রোথকো
     ca: Mark Rothko
@@ -174,10 +174,10 @@ dv_has_:
     cy: Mark Rothko
     dag: Mark Rothko
     de: Mark Rothko
-    de-ch: Mark Rothko
+    de_ch: Mark Rothko
     el: Μαρκ Ρόθκο
-    en-ca: Mark Rothko
-    en-gb: Mark Rothko
+    en_ca: Mark Rothko
+    en_gb: Mark Rothko
     eo: Mark Rothko
     es: Mark Rothko
     et: Mark Rothko
@@ -213,15 +213,15 @@ dv_has_:
     pap: Mark Rothko
     pms: Mark Rothko
     pt: Mark Rothko
-    pt-br: Mark Rothko
+    pt_br: Mark Rothko
     ru: Марк Ротко
     sc: Mark Rothko
     sh: Mark Rothko
     sl: Mark Rothko
     sq: Mark Rothko
     sr: Марк Ротко
-    sr-ec: Марк Ротко
-    sr-el: Mark Rotko
+    sr_ec: Марк Ротко
+    sr_el: Mark Rotko
     sv: Mark Rothko
     tr: Mark Rothko
     uk: Марк Ротко
@@ -231,12 +231,12 @@ dv_has_:
     yi: מארק ראטקא
     yue: 麥克·羅夫高
     zh: 马克·罗斯科
-    zh-cn: 马克·罗斯科
-    zh-hans: 马克·罗斯科
-    zh-hant: 馬克·羅斯科
-    zh-hk: 麥克·羅夫高
-    zh-sg: 马克·罗斯科
-    zh-tw: 馬克·羅斯科
+    zh_cn: 马克·罗斯科
+    zh_hans: 马克·罗斯科
+    zh_hant: 馬克·羅斯科
+    zh_hk: 麥克·羅夫高
+    zh_sg: 马克·罗斯科
+    zh_tw: 馬克·羅斯科
 ---
 # [[Rothko,Mark]] 
 

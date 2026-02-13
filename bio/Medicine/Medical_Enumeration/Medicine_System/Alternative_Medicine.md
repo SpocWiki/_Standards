@@ -99,7 +99,7 @@ dv_has_:
     ar: طب بديل
     ast: Medicina alternativa
     be: нетрадыцыйная медыцына
-    be-tarask: альтэрнатыўная мэдыцына
+    be_tarask: альтэрнатыўная мэдыцына
     bg: Алтернативна медицина
     bn: বিকল্প চিকিৎসাবিজ্ঞান
     br: medisinerezh dazeilat
@@ -149,8 +149,8 @@ dv_has_:
     sk: alternatívna medicína
     sl: zdravilstvo
     sr: алтернативна медицина
-    sr-ec: Алтернативна медицина
-    sr-el: Alternativna medicina
+    sr_ec: Алтернативна медицина
+    sr_el: Alternativna medicina
     sv: alternativmedicin
     th: การแพทย์ทางเลือก
     tl: alternatibong gamot
@@ -164,12 +164,12 @@ dv_has_:
     wuu: 替代医学
     yue: 另類醫學
     zh: 替代医学
-    zh-cn: 替代医学
-    zh-hans: 替代医学
-    zh-hant: 替代醫學
-    zh-hk: 替代醫學
-    zh-sg: 替代医学
-    zh-tw: 替代醫學
+    zh_cn: 替代医学
+    zh_hans: 替代医学
+    zh_hant: 替代醫學
+    zh_hk: 替代醫學
+    zh_sg: 替代医学
+    zh_tw: 替代醫學
 ---
 # [[Alternative_Medicine]] 
 

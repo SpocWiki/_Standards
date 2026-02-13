@@ -173,7 +173,7 @@ dv_has_:
     ban: Warak
     bcl: Rhinoceros
     be: насарогі
-    be-tarask: насарогі
+    be_tarask: насарогі
     bg: носорогови
     bho: गैंडा
     bn: গণ্ডার
@@ -309,10 +309,10 @@ dv_has_:
     yo: Àgbánréré
     yue: 犀牛
     zh: 犀科
-    zh-cn: 犀科
-    zh-hans: 犀科
-    zh-hant: 犀科
-    zh-tw: 犀科
+    zh_cn: 犀科
+    zh_hans: 犀科
+    zh_hant: 犀科
+    zh_tw: 犀科
     zu: Umkhombe
 ---
 # [[Rhinoceros]] 🦏 

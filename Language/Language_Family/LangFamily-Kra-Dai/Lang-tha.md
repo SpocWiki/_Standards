@@ -245,7 +245,7 @@ dv_has_:
     ban: Basa Thai
     bcl: Tataramon na Thai
     be: тайская мова
-    be-tarask: тайская мова
+    be_tarask: тайская мова
     bg: Тайски език
     bn: থাই ভাষা
     bo: ཏཻ་ལ་ནྡ
@@ -259,11 +259,11 @@ dv_has_:
     cy: Thai
     da: thai
     de: Thailändisch
-    de-ch: Thailändisch
+    de_ch: Thailändisch
     el: Ταϊλανδικά
     en: Thai
-    en-ca: Thai
-    en-gb: Thai
+    en_ca: Thai
+    en_gb: Thai
     eo: taja lingvo
     es: tailandés
     et: tai keel
@@ -318,7 +318,7 @@ dv_has_:
     lt: Tajų kalba
     lv: taju valoda
     mai: थाई भाषा
-    map-bms: Basa Thai
+    map_bms: Basa Thai
     mg: Fiteny thai
     min: Bahaso Thai
     mk: тајландски јазик
@@ -327,7 +327,7 @@ dv_has_:
     mni: ꯊꯥꯢ ꯂꯣꯟ
     mr: थाई भाषा
     ms: bahasa Thai
-    ms-arab: بهاس تهاي
+    ms_arab: بهاس تهاي
     mt: Tajlandiż
     my: ထိုင်းဘာသာစကား
     mzn: تایلندی
@@ -346,7 +346,7 @@ dv_has_:
     pnb: تھائی
     ps: تايي ژبه
     pt: tailandês
-    pt-br: tailandês
+    pt_br: tailandês
     qu: Thay simi
     ro: limba thailandeză
     ru: тайский язык
@@ -399,11 +399,11 @@ dv_has_:
     za: Vahdai
     zgh: ⵜⵓⵜⵍⴰⵢⵜ ⵜⴰⵜⴰⵢⵍⴰⵏⴷⵉⵜ
     zh: 泰語
-    zh-cn: 泰语
-    zh-hans: 泰语
-    zh-hant: 泰語
-    zh-hk: 泰語
-    zh-tw: 泰語
+    zh_cn: 泰语
+    zh_hans: 泰语
+    zh_hant: 泰語
+    zh_hk: 泰語
+    zh_tw: 泰語
     zu: isi-Thai
 ---
 # [[Lang-tha]] 

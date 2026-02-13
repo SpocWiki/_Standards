@@ -98,7 +98,7 @@ dv_has_:
     ba: Медуза горгона
     bcl: Medusa
     be: Гаргона Медуза
-    be-tarask: Гаргона Мэдуза
+    be_tarask: Гаргона Мэдуза
     bg: Медуза
     bn: মেডুসা
     br: Medousa
@@ -137,7 +137,7 @@ dv_has_:
     ko: 메두사
     ks: میٚڈوٗسا
     ku: Medûsa
-    ku-latn: Medûsa
+    ku_latn: Medûsa
     la: Medusa
     lo: ເມດູສາ
     lt: Medūza
@@ -164,8 +164,8 @@ dv_has_:
     sl: Meduza
     sq: Medusa
     sr: медуза
-    sr-ec: Медуза
-    sr-el: Meduza
+    sr_ec: Медуза
+    sr_el: Meduza
     sv: Medusa
     sw: Madusa
     ta: மெடூசா
@@ -180,12 +180,12 @@ dv_has_:
     wuu: 美杜莎
     yue: 美杜莎
     zh: 美杜莎
-    zh-cn: 美杜莎
-    zh-hans: 美杜莎
-    zh-hant: 美杜莎
-    zh-hk: 美杜莎
-    zh-sg: 美杜莎
-    zh-tw: 美杜莎
+    zh_cn: 美杜莎
+    zh_hans: 美杜莎
+    zh_hant: 美杜莎
+    zh_hk: 美杜莎
+    zh_sg: 美杜莎
+    zh_tw: 美杜莎
 ---
 # [[Medusa]] 
 

@@ -111,7 +111,7 @@ dv_has_:
     arz: مايوه  mayyoh
     ast: traxe de bañu
     atj: Kipacmo arakpecakan
-    be-tarask: плавальны касьцюм
+    be_tarask: плавальны касьцюм
     bg: Бански костюм
     bn: সাঁতারের স্যুট
     br: Dilhad-kouronkañ
@@ -121,7 +121,7 @@ dv_has_:
     de: Badebekleidung
     diq: Kıncê deryay
     en: swimsuit
-    en-gb: swimming costume
+    en_gb: swimming costume
     eo: bankostumo
     es: traje de baño
     et: Supeltrikoo
@@ -161,7 +161,7 @@ dv_has_:
     nn: badetøy
     pl: kostium kąpielowy
     pt: traje de banho
-    pt-br: traje de banho
+    pt_br: traje de banho
     ro: costum de baie
     ru: купальник
     sl: kopalna oblačila
@@ -175,12 +175,12 @@ dv_has_:
     vi: Đồ bơi
     yue: 游水衫
     zh: 泳衣
-    zh-cn: 泳衣
-    zh-hans: 泳衣
-    zh-hant: 泳衣
-    zh-hk: 泳衣
-    zh-sg: 泳衣
-    zh-tw: 泳衣
+    zh_cn: 泳衣
+    zh_hans: 泳衣
+    zh_hant: 泳衣
+    zh_hk: 泳衣
+    zh_sg: 泳衣
+    zh_tw: 泳衣
 ---
 # [[Swimsuit]] 🩱 
 

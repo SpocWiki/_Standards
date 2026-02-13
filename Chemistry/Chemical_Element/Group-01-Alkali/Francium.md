@@ -154,7 +154,7 @@ dv_has_:
     ban: Fransium
     bcl: Pransyo
     be: францый
-    be-tarask: франц
+    be_tarask: франц
     bg: франций
     bho: फ्रंशियम
     bn: ফ্র্যান্সিয়াম
@@ -171,11 +171,11 @@ dv_has_:
     cy: ffransiwm
     da: francium
     de: Francium
-    de-ch: Francium
+    de_ch: Francium
     el: φράγκιο
     en: francium
-    en-ca: Francium
-    en-gb: francium
+    en_ca: Francium
+    en_gb: francium
     eo: franciumo
     es: francio
     et: frantsium
@@ -260,7 +260,7 @@ dv_has_:
     pnb: فرانسیم
     ps: فرانسيوم
     pt: frâncio
-    pt-br: frâncio
+    pt_br: frâncio
     qu: Fransyu
     ro: franciu
     ru: франций
@@ -277,7 +277,7 @@ dv_has_:
     so: Faransiyaam
     sq: Franciumi
     sr: францијум
-    sr-ec: Францијум
+    sr_ec: Францијум
     stq: Francium
     su: Fransium
     sv: francium
@@ -303,10 +303,10 @@ dv_has_:
     yo: Fránsíọ̀m
     yue: 鈁
     zh: 钫
-    zh-hans: 钫
-    zh-hant: 鍅
-    zh-hk: 鈁
-    zh-tw: 鍅
+    zh_hans: 钫
+    zh_hant: 鍅
+    zh_hk: 鈁
+    zh_tw: 鍅
     zu: IShabalalambi
   number_of_:
     period: 7

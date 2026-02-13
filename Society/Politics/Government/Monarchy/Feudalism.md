@@ -11,7 +11,7 @@ dv_has_:
     azb: فئودالیسم
     ba: Феодализм
     be: феадалізм
-    be-tarask: фэадалізм
+    be_tarask: фэадалізм
     bg: Феодализъм
     blk: ပဒေႏသရာဇ်
     bn: সামন্ততন্ত্র
@@ -75,7 +75,7 @@ dv_has_:
     mt: fewdaliżmu
     my: ပဒေသရာဇ်စနစ်
     nb: føydalisme
-    nds-nl: feodalisme
+    nds_nl: feodalisme
     ne: सामन्तवाद
     new: सामन्तवाद
     nl: feodalisme
@@ -102,7 +102,7 @@ dv_has_:
     so: Dhulgoosi
     sq: Feudalizmi
     sr: феудализам
-    sr-ec: феудализам
+    sr_ec: феудализам
     su: Féodalisme
     sv: feodalism
     sw: Ukabaila
@@ -121,7 +121,7 @@ dv_has_:
     xmf: ჭკორპატჷნობა
     yue: 封建社會
     zh: 封建制度
-    zh-tw: 封建制度
+    zh_tw: 封建制度
 aliases:
 - chế độ phong kiến
 - derebeylik

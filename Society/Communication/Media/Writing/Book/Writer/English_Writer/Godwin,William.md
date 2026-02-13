@@ -110,11 +110,11 @@ dv_has_:
     cs: William Godwin
     da: William Godwin
     de: William Godwin
-    de-ch: William Godwin
+    de_ch: William Godwin
     el: Ουίλιαμ Γκόντγουιν
     en: William Godwin
-    en-ca: William Godwin
-    en-gb: William Godwin
+    en_ca: William Godwin
+    en_gb: William Godwin
     eo: William Godwin
     es: William Godwin
     eu: William Godwin
@@ -135,11 +135,11 @@ dv_has_:
     jbo: .uiliym.goduin
     ka: უილიამ გოდვინი
     kk: Годвин Уильям
-    kk-arab: گودۆىين ۋىيليام
+    kk_arab: گودۆىين ۋىيليام
     kk-cn: گودۆىين ۋىيليام
-    kk-cyrl: Годвин Уильям
+    kk_cyrl: Годвин Уильям
     kk-kz: Годвин Уильям
-    kk-latn: Godvïn Wïlʹyam
+    kk_latn: Godvïn Wïlʹyam
     kk-tr: Godvïn Wïlʹyam
     kn: ಗಾಡ್ವಿನ್, ವಿಲಿಯಂ
     ko: 윌리엄 고드윈
@@ -154,7 +154,7 @@ dv_has_:
     pl: William Godwin
     ps: ویلیام ګاډوین
     pt: William Godwin
-    pt-br: William Godwin
+    pt_br: William Godwin
     ro: William Godwin
     ru: Уильям Годвин
     sc: William Godwin
@@ -172,12 +172,12 @@ dv_has_:
     uk: Вільям Годвін
     vi: William Godwin
     zh: 威廉·戈德温
-    zh-cn: 威廉·戈德温
-    zh-hans: 威廉·戈德温
-    zh-hant: 威廉·戈德溫
-    zh-hk: 威廉·戈德溫
-    zh-sg: 威廉·戈德温
-    zh-tw: 威廉·戈德溫
+    zh_cn: 威廉·戈德温
+    zh_hans: 威廉·戈德温
+    zh_hant: 威廉·戈德溫
+    zh_hk: 威廉·戈德溫
+    zh_sg: 威廉·戈德温
+    zh_tw: 威廉·戈德溫
 ---
 # [[Godwin,William]] 
 

@@ -151,7 +151,7 @@ dv_has_:
     azb: جاناتان سوییفت
     ba: Джонатан Свифт
     be: Джонатан Свіфт
-    be-tarask: Джонатан Сўіфт
+    be_tarask: Джонатан Сўіфт
     bg: Джонатан Суифт
     bn: জোনাথন সুইফট
     br: Jonathan Swift
@@ -164,13 +164,13 @@ dv_has_:
     da: Jonathan Swift
     de: Jonathan Swift
     de-at: Jonathan Swift
-    de-ch: Jonathan Swift
+    de_ch: Jonathan Swift
     diq: Jonathan Swift
     dtp: Jonathan Swift
     el: Τζόναθαν Σουίφτ
     en: Jonathan Swift
-    en-ca: Jonathan Swift
-    en-gb: Jonathan Swift
+    en_ca: Jonathan Swift
+    en_gb: Jonathan Swift
     eo: Jonathan Swift
     es: Jonathan Swift
     et: Jonathan Swift
@@ -222,7 +222,7 @@ dv_has_:
     pl: Jonathan Swift
     pms: Jonathan Swift
     pt: Jonathan Swift
-    pt-br: Jonathan Swift
+    pt_br: Jonathan Swift
     rm: Jonathan Swift
     ro: Jonathan Swift
     ru: Джонатан Свифт

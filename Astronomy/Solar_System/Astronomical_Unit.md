@@ -190,7 +190,7 @@ dv_has_:
     az: astronomik vahid
     azb: آسترونومیک واحید
     be: астранамічная адзінка
-    be-tarask: астранамічная адзінка
+    be_tarask: астранамічная адзінка
     bg: AU
     bn: জ্যোতির্বৈজ্ঞানিক একক
     br: unanenn steredoniel
@@ -203,11 +203,11 @@ dv_has_:
     cy: uned seryddol
     da: astronomisk enhed
     de: astronomische Einheit
-    de-ch: astronomische Einheit
+    de_ch: astronomische Einheit
     el: αστρονομική μονάδα
     en: astronomical unit
-    en-ca: astronomical unit
-    en-gb: astronomical unit
+    en_ca: astronomical unit
+    en_gb: astronomical unit
     eo: astronomia unuo
     es: unidad astronómica
     et: astronoomiline ühik
@@ -252,13 +252,13 @@ dv_has_:
     mn: одон орны нэгж
     mr: खगोलीय एकक
     ms: unit astronomi
-    ms-arab: اونيت استرونومي
+    ms_arab: اونيت استرونومي
     mwl: ounidade astronómica
     my: astronomical unit
     nan: thian-bûn tan-ūi
     nb: astronomisk enhet
     nds: astronoomsch Eenheit
-    nds-nl: Astronomiske Eynheid
+    nds_nl: Astronomiske Eynheid
     nl: astronomische eenheid
     nn: astronomisk eining
     nqo: ߛߊ߲ߡߊߛߓߍ ߘߊ߲ߕߊ
@@ -272,7 +272,7 @@ dv_has_:
     pnb: اسمانی میل
     ps: نجومي واحد
     pt: unidade astronómica
-    pt-br: unidade(s) astronômica(s)
+    pt_br: unidade(s) astronômica(s)
     ro: UA
     ru: астрономическая единица
     rue: астрономична единка
@@ -297,7 +297,7 @@ dv_has_:
     tl: yunit na pang-astronomiya
     tr: astronomik birim
     tt: астрономик берәмлек
-    tt-cyrl: астрономик берәмлек
+    tt_cyrl: астрономик берәмлек
     tyv: Астрономнуг хемчеглер
     udm: астрономической единица
     uk: астрономічна одиниця
@@ -311,14 +311,14 @@ dv_has_:
     yi: אסטראנאמישע איינס
     yue: 天文單位
     zh: 天文單位
-    zh-cn: 天文单位
-    zh-hans: 天文单位
-    zh-hant: 天文單位
-    zh-hk: 天文單位
-    zh-mo: 天文單位
+    zh_cn: 天文单位
+    zh_hans: 天文单位
+    zh_hant: 天文單位
+    zh_hk: 天文單位
+    zh_mo: 天文單位
     zh-my: 天文单位
-    zh-sg: 天文单位
-    zh-tw: 天文單位
+    zh_sg: 天文单位
+    zh_tw: 天文單位
 ---
 # [[Astronomical_Unit]] 
 

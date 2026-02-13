@@ -7,7 +7,7 @@ dv_has_:
     ast: vapor
     az: Buxar
     be: пара
-    be-tarask: пара
+    be_tarask: пара
     bg: Пара
     bn: বাষ্প
     br: aezhenn
@@ -19,11 +19,11 @@ dv_has_:
     cy: vapor
     da: damp
     de: Dampf
-    de-ch: Dampf
+    de_ch: Dampf
     el: ατμός
     en: vapor
-    en-ca: vapour
-    en-gb: vapour
+    en_ca: vapour
+    en_gb: vapour
     eo: vaporo
     es: vapor
     et: aur
@@ -67,7 +67,7 @@ dv_has_:
     oc: Vapor
     pl: para cieczy
     pt: vapor
-    pt-br: vapor
+    pt_br: vapor
     ro: vapor
     ru: пар
     sah: Паар
@@ -88,7 +88,7 @@ dv_has_:
     tn: Vapor
     tr: Buhar
     tt: бу
-    tt-cyrl: бу
+    tt_cyrl: бу
     udm: пар
     uk: пара
     uz: Bugʻ

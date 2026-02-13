@@ -246,7 +246,7 @@ dv_has_:
     bar: Architektur
     bcl: arkitektura
     be: архітэктура
-    be-tarask: архітэктура
+    be_tarask: архітэктура
     bew: rancang gedong
     bg: архитектура
     bho: आर्किटेक्चर
@@ -273,7 +273,7 @@ dv_has_:
     de: Architektur
     el: αρχιτεκτονική
     en: architecture
-    en-gb: architecture
+    en_gb: architecture
     en-us: architecture
     eo: arkitekturo
     es: arquitectura
@@ -352,7 +352,7 @@ dv_has_:
     mo: архитектурэ
     mr: वास्तुशास्त्र
     ms: seni bina
-    ms-arab: سني بينا
+    ms_arab: سني بينا
     mt: arkitettura
     mwl: arquitetura
     my: ဗိသုကာပညာ
@@ -361,7 +361,7 @@ dv_has_:
     nap: architettura
     nb: arkitektur
     nds: Bokunst
-    nds-nl: architektuur
+    nds_nl: architektuur
     new: आर्किटेक्चर
     nl: architectuur
     nn: arkitektur
@@ -381,7 +381,7 @@ dv_has_:
     pnb: فن تعمیر
     ps: معماري
     pt: arquitetura
-    pt-br: arquitetura
+    pt_br: arquitetura
     qu: sumaq wasichay kamay
     ro: arhitectură
     ru: архитектура
@@ -437,9 +437,9 @@ dv_has_:
     zea: architectuur
     zgh: ⵜⴰⵎⵙⴷⴰⴳⵜ
     zh: 建筑学
-    zh-hant: 建築
-    zh-hk: 建築
-    zh-tw: 建築
+    zh_hant: 建築
+    zh_hk: 建築
+    zh_tw: 建築
 ---
 # Architecture  
 

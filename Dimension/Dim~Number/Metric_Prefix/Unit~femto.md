@@ -58,8 +58,8 @@ dv_has_:
     de: Femto
     el: φεμτο
     en: femto
-    en-ca: femto-
-    en-gb: femto
+    en_ca: femto-
+    en_gb: femto
     eo: femto
     es: femto
     et: femto-
@@ -99,7 +99,7 @@ dv_has_:
     oc: femto-
     pl: femto
     pt: femto
-    pt-br: femto
+    pt_br: femto
     ro: femto
     ru: фемто-
     rue: Фемто-
@@ -110,26 +110,26 @@ dv_has_:
     sl: femto
     sq: femto
     sr: фемто
-    sr-ec: фемто
-    sr-el: femto
+    sr_ec: фемто
+    sr_el: femto
     sv: femto
     ta: பெம்டோ
     te: ఫెమ్టో
     th: เฟมโต
     tr: femto-
     tt: фемто-
-    tt-cyrl: фемто-
+    tt_cyrl: фемто-
     uk: фемто-
     ur: فیمٹو
     vi: femtô
     yue: 飛
     zh: 飛
-    zh-cn: 飞
-    zh-hans: 飞
-    zh-hant: 飛
-    zh-hk: 飛
-    zh-sg: 飞
-    zh-tw: 飛
+    zh_cn: 飞
+    zh_hans: 飞
+    zh_hant: 飛
+    zh_hk: 飛
+    zh_sg: 飞
+    zh_tw: 飛
 ---
 #is_/same_as :: [[_Standards/WikiData/WD~femto,110791]] 
 

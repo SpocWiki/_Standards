@@ -146,7 +146,7 @@ dv_has_:
     ban: Ngabaosang
     bcl: pagtaram
     be: маўленне
-    be-tarask: маўленьне
+    be_tarask: маўленьне
     bg: реч
     bs: govor
     ca: parla
@@ -200,7 +200,7 @@ dv_has_:
     mk: говор
     mn: Яриа
     ms: pertuturan
-    ms-arab: ڤرتوتورن
+    ms_arab: ڤرتوتورن
     mt: taħdit
     nan: giân-gí
     nb: tale
@@ -216,7 +216,7 @@ dv_has_:
     pnt: λαλασία
     ps: وینا (تقرير)
     pt: fala
-    pt-br: fala encadeada
+    pt_br: fala encadeada
     ro: vorbire
     ru: говорение
     sat: ᱨᱚᱲ
@@ -228,7 +228,7 @@ dv_has_:
     so: hadal
     sq: fjalimi
     sr: говор
-    sr-ec: говор
+    sr_ec: говор
     su: biantara
     sv: tal
     ta: பேச்சு
@@ -238,7 +238,7 @@ dv_has_:
     tl: pagsasalita
     tr: konuşma
     tt: сөйләшү
-    tt-cyrl: сөйләшү
+    tt_cyrl: сөйләшү
     uk: мовлення
     ur: تقریر
     uz: nutq
@@ -248,7 +248,7 @@ dv_has_:
     yi: רעדן
     yue: 講嘢
     zh: 說話
-    zh-hant: 說話
+    zh_hant: 說話
 ---
 # [[Speech]] 🗣 
 

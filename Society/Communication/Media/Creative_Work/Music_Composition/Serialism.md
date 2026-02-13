@@ -50,7 +50,7 @@ dv_has_:
   name_:
     ar: سيرياليزم
     ast: serialismu
-    be-tarask: сэрыялізм
+    be_tarask: сэрыялізм
     ca: serialisme
     cs: serialismus
     cy: cyfresiaeth
@@ -93,9 +93,9 @@ dv_has_:
     vi: chủ nghĩa nối tiếp
     yue: 序列主義
     zh: 序列主义
-    zh-hans: 序列主义
-    zh-hant: 序列主義
-    zh-hk: 序列主義
+    zh_hans: 序列主义
+    zh_hant: 序列主義
+    zh_hk: 序列主義
 ---
 # [[Serialism]] 
 

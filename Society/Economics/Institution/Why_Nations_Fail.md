@@ -30,10 +30,10 @@ dv_has_:
     ur: قومیں ناکام کیوں ہوتی ہیں
     uz: 'Mamlakatlar tanazzuli sabablari: qudrat, farovonlik va kambagʻallik manbalari'
     zh: 国家为什么会失败？
-    zh-cn: 国家为什么会失败？
-    zh-hans: 国家为什么会失败？
-    zh-hant: 国家為什么會失败？
-    zh-tw: 國家為什麼會失敗？
+    zh_cn: 国家为什么会失败？
+    zh_hans: 国家为什么会失败？
+    zh_hant: 国家為什么會失败？
+    zh_tw: 國家為什麼會失敗？
 aliases:
 - 'Mamlakatlar tanazzuli sabablari: qudrat, farovonlik va kambagʻallik manbalari'
 - Miksi maat kaatuvat

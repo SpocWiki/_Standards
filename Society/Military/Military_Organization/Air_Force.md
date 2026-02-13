@@ -122,7 +122,7 @@ dv_has_:
     ast: fuercia aérea
     az: Hərbi hava qüvvələri
     be: ваенна-паветраныя сілы
-    be-tarask: вайскова-паветраныя сілы
+    be_tarask: вайскова-паветраныя сілы
     bew: Soldadu udara
     bg: военновъздушни сили
     bn: বিমানবাহিনী
@@ -137,8 +137,8 @@ dv_has_:
     de: Luftstreitkräfte
     el: Πολεμική αεροπορία
     en: air force
-    en-ca: Air force
-    en-gb: air force
+    en_ca: Air force
+    en_gb: air force
     eo: aerarmeo
     es: fuerza aérea
     et: lennuvägi
@@ -167,7 +167,7 @@ dv_has_:
     ko: 공군
     ks: ہَوٲیی فوج
     ku: hêzên esmanî
-    ku-latn: hêzên esmanî
+    ku_latn: hêzên esmanî
     ky: Аскер-аба күчтөрү
     la: Classis aeria
     lmo: Aeronautega
@@ -187,7 +187,7 @@ dv_has_:
     pa: ਹਵਾਈ ਸੈਨਾ
     pl: siły powietrzne
     pt: força aérea
-    pt-br: força aérea
+    pt_br: força aérea
     ro: forță aeriană
     ru: военно-воздушные силы
     sco: Airforce
@@ -200,7 +200,7 @@ dv_has_:
     so: Ciidanka Cirka
     sq: Forca Ajrore
     sr: ратно ваздухопловство
-    sr-ec: Ратно ваздухопловство
+    sr_ec: Ратно ваздухопловство
     sv: flygvapen
     sw: Jeshi la anga
     ta: வான்படை
@@ -209,7 +209,7 @@ dv_has_:
     tl: Hukbong himpapawid
     tr: hava kuvvetleri
     tt: хәрби-һава көчләре
-    tt-cyrl: хәрби-һава көчләре
+    tt_cyrl: хәрби-һава көчләре
     uk: повітряні сили
     ur: فضائیہ
     uz: Harbiy-havo kuchlari
@@ -220,14 +220,14 @@ dv_has_:
     xmf: ოურდუმე-ოჰეერე ძალეფი
     yue: 空軍
     zh: 空军
-    zh-cn: 空军
-    zh-hans: 空军
-    zh-hant: 空軍
-    zh-hk: 空軍
-    zh-mo: 空軍
+    zh_cn: 空军
+    zh_hans: 空军
+    zh_hant: 空軍
+    zh_hk: 空軍
+    zh_mo: 空軍
     zh-my: 空军
-    zh-sg: 空军
-    zh-tw: 空軍
+    zh_sg: 空军
+    zh_tw: 空軍
 ---
 # [[Air_Force]] 
 

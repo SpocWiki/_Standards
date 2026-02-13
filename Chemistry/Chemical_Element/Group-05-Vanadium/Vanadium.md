@@ -197,7 +197,7 @@ dv_has_:
     bar: Vanadium
     bcl: Banadyo
     be: Ванадый
-    be-tarask: Ванад
+    be_tarask: Ванад
     bg: ванадий
     bho: वैनेडियम
     blk: ဗနဒီယမ်
@@ -278,7 +278,7 @@ dv_has_:
     mr: व्हेनेडियम
     mrj: Ванадий
     ms: vanadium
-    ms-arab: ۏاناديوم
+    ms_arab: ۏاناديوم
     mt: vanadju
     my: ဗနေဒီယမ်
     nah: Cīmapantepoztli
@@ -303,7 +303,7 @@ dv_has_:
     pnb: ونیڈیم
     ps: وانېديوم
     pt: vanádio
-    pt-br: vanádio
+    pt_br: vanádio
     qu: Wanadyu
     ro: vanadiu
     ru: ванадий
@@ -319,7 +319,7 @@ dv_has_:
     so: Fanadhiyaam
     sq: Vanadiumi
     sr: ванадијум
-    sr-ec: Ванадијум
+    sr_ec: Ванадијум
     stq: Vanadium
     su: Vanadium
     sv: vanadin
@@ -346,11 +346,11 @@ dv_has_:
     yue: 釩
     zgh: ⴰⴱⴰⵏⴰⴷⵢⵓⵎ
     zh: 釩
-    zh-cn: 钒
-    zh-hans: 钒
-    zh-hant: 釩
-    zh-hk: 釩
-    zh-tw: 釩
+    zh_cn: 钒
+    zh_hans: 钒
+    zh_hant: 釩
+    zh_hk: 釩
+    zh_tw: 釩
     zu: UVathofi
   number_of_:
     period: 4

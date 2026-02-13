@@ -56,15 +56,15 @@ dv_has_:
     ar: نادي باريس
     ast: Club de París
     az: Paris Klubu
-    be-tarask: Парыскі клюб
+    be_tarask: Парыскі клюб
     bg: Парижки клуб
     ca: Club de París
     cs: Pařížský klub
     de: Pariser Club
     el: Λέσχη των Παρισίων
     en: Paris Club
-    en-ca: Paris Club
-    en-gb: Paris Club
+    en_ca: Paris Club
+    en_gb: Paris Club
     eo: Klubo de Parizo
     es: Club de París
     eu: Parisko Kluba
@@ -80,11 +80,11 @@ dv_has_:
     it: Club di Parigi
     ja: パリクラブ
     kk: Париж клубы
-    kk-arab: پارىيج كلۋبى
+    kk_arab: پارىيج كلۋبى
     kk-cn: پارىيج كلۋبى
-    kk-cyrl: Париж клубы
+    kk_cyrl: Париж клубы
     kk-kz: Париж клубы
-    kk-latn: Parïj klwbı
+    kk_latn: Parïj klwbı
     kk-tr: Parïj klwbı
     ko: 파리 클럽
     mk: Париски клуб
@@ -95,24 +95,24 @@ dv_has_:
     pl: Klub Paryski
     pnb: پیرس کلب
     pt: Clube de Paris
-    pt-br: Clube de Paris
+    pt_br: Clube de Paris
     ru: Парижский клуб
     sk: Parížsky klub
     sr: Париски клуб
-    sr-ec: Париски клуб
-    sr-el: Pariski klub
+    sr_ec: Париски клуб
+    sr_el: Pariski klub
     tr: Paris Kulübü
     uk: Паризький клуб
     ur: پیرس کلب
     vi: Câu lạc bộ Paris
     yi: פאריזער קלוב
     zh: 巴黎俱樂部
-    zh-cn: 巴黎俱乐部
-    zh-hans: 巴黎俱乐部
-    zh-hant: 巴黎俱樂部
-    zh-hk: 巴黎俱樂部
-    zh-sg: 巴黎俱乐部
-    zh-tw: 巴黎俱樂部
+    zh_cn: 巴黎俱乐部
+    zh_hans: 巴黎俱乐部
+    zh_hant: 巴黎俱樂部
+    zh_hk: 巴黎俱樂部
+    zh_sg: 巴黎俱乐部
+    zh_tw: 巴黎俱樂部
 ---
 # [[Paris_Club]] 
 

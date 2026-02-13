@@ -87,7 +87,7 @@ dv_has_:
     az: Romantik sevgi
     bcl: Romantikong relasyon
     be: рамантычнае каханне
-    be-tarask: рамантычнае каханьне
+    be_tarask: рамантычнае каханьне
     bg: Романс
     bn: প্রেম
     bs: romansa
@@ -148,10 +148,10 @@ dv_has_:
     vi: Lãng mạn
     yue: 浪漫關係
     zh: 浪漫关系
-    zh-cn: 浪漫关系
-    zh-hans: 浪漫关系
-    zh-hant: 浪漫關係
-    zh-hk: 浪漫關係
+    zh_cn: 浪漫关系
+    zh_hans: 浪漫关系
+    zh_hant: 浪漫關係
+    zh_hk: 浪漫關係
 ---
 # [[Romantic_Love]] 
 

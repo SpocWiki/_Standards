@@ -140,7 +140,7 @@ dv_has_:
     azb: هپاتیت
     ban: Penyakit ati layu sané nemonin gancaran miwah gancaran sedeng
     be: гепатыт
-    be-tarask: гепатыт
+    be_tarask: гепатыт
     bg: Хепатит
     bn: হেপাটাইটিস
     bo: མཆིན་ཚད།
@@ -178,11 +178,11 @@ dv_has_:
     ja: 肝炎
     jv: Hepatitis
     kk: Гепатит
-    kk-arab: گەپاتىيت
+    kk_arab: گەپاتىيت
     kk-cn: گەپاتىيت
-    kk-cyrl: Гепатит
+    kk_cyrl: Гепатит
     kk-kz: Гепатит
-    kk-latn: Gepatït
+    kk_latn: Gepatït
     kk-tr: Gepatït
     ko: 간염
     ky: Гепатит
@@ -205,7 +205,7 @@ dv_has_:
     pl: zapalenie wątroby
     pnb: ہیپاٹائٹس
     pt: hepatite
-    pt-br: hepatite
+    pt_br: hepatite
     ro: hepatită
     ru: гепатит
     sco: hepatitis
@@ -233,12 +233,12 @@ dv_has_:
     wuu: 肝炎
     yue: 肝炎
     zh: 肝炎
-    zh-cn: 肝炎
-    zh-hans: 肝炎
-    zh-hant: 肝炎
-    zh-hk: 肝炎
-    zh-sg: 肝炎
-    zh-tw: 肝炎
+    zh_cn: 肝炎
+    zh_hans: 肝炎
+    zh_hant: 肝炎
+    zh_hk: 肝炎
+    zh_sg: 肝炎
+    zh_tw: 肝炎
 ---
 # [[Hepatitis]] 
 

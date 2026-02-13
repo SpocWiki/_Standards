@@ -126,7 +126,7 @@ dv_has_:
     ay: juwri
     az: su buxarı
     bas: mbú híɓɛ̀ɛ́
-    be-tarask: вадзяная пара
+    be_tarask: вадзяная пара
     bg: водна пара
     bho: जलभाप
     bn: জলীয় বাষ্প
@@ -142,7 +142,7 @@ dv_has_:
     de: Wasserdampf
     el: υδρατμός
     en: water vapor
-    en-gb: water vapour
+    en_gb: water vapour
     eo: akvovaporo
     es: vapor de agua
     et: veeaur
@@ -182,7 +182,7 @@ dv_has_:
     nan: chúi-cheng-khì
     nap: vapore acquee
     nb: vanndamp
-    nds-nl: waoterdamp
+    nds_nl: waoterdamp
     nl: waterdamp
     nn: vassdamp
     oc: vapor d'aiga
@@ -201,14 +201,14 @@ dv_has_:
     sk: vodná para
     sl: vodna para
     sr: водена пара
-    sr-ec: водена пара
-    sr-el: vodena para
+    sr_ec: водена пара
+    sr_el: vodena para
     su: saab
     sv: vattenånga
     th: ไอน้ำ
     tr: su buharı
     tt: су буы
-    tt-cyrl: су буы
+    tt_cyrl: су буы
     uk: водяна пара
     uz: suv bugʻi
     vec: vapor de àcua
@@ -217,12 +217,12 @@ dv_has_:
     wuu: 水蒸气
     yue: 水汽
     zh: 水蒸气
-    zh-cn: 水蒸气
-    zh-hans: 水蒸气
-    zh-hant: 水蒸氣
-    zh-hk: 水蒸氣
-    zh-sg: 水蒸气
-    zh-tw: 水蒸氣
+    zh_cn: 水蒸气
+    zh_hans: 水蒸气
+    zh_hant: 水蒸氣
+    zh_hk: 水蒸氣
+    zh_sg: 水蒸气
+    zh_tw: 水蒸氣
     zu: Umhwamuko wamanzi
 ---
 # [[Water_Vapor]] 

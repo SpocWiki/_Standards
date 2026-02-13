@@ -57,7 +57,7 @@ dv_has_:
     ar: كيتزالكواتل
     ast: Quetzalcóatl
     be: Кецалькаатль
-    be-tarask: Кецалькоатль
+    be_tarask: Кецалькоатль
     bg: Кетцалкоатъл
     br: Quetzalcoatl
     bs: Quetzalcoatl
@@ -67,8 +67,8 @@ dv_has_:
     de: Quetzalcoatl
     el: Κετζαλκόατλ
     en: Quetzalcoatl
-    en-ca: Quetzalcōātl
-    en-gb: Quetzalcōātl
+    en_ca: Quetzalcōātl
+    en_gb: Quetzalcōātl
     eo: Kecalkoatlo
     es: Quetzalcóatl
     et: Quetzalcoatl
@@ -101,7 +101,7 @@ dv_has_:
     oc: Quetzalcoatl
     pl: Quetzalcoatl
     pt: Quetzalcóatl
-    pt-br: Quetzalcóatl
+    pt_br: Quetzalcóatl
     ro: Quetzalcoatl
     ru: Кетцалькоатль
     scn: Quetzalcoatl
@@ -109,8 +109,8 @@ dv_has_:
     sh: Quetzalcoatl
     sl: Kecalkoatl
     sr: Кецалкоатл
-    sr-ec: Кецалкоатл
-    sr-el: Kecalkoatl
+    sr_ec: Кецалкоатл
+    sr_el: Kecalkoatl
     sv: Quetzalcóatl
     ta: கிட்சால்குவாடலி
     th: เก็ตซัลโกอาตล์
@@ -122,12 +122,12 @@ dv_has_:
     wuu: 克察尔科亚特尔
     yue: 魁札科亞托
     zh: 魁札爾科亞特爾
-    zh-cn: 魁札尔科亚特尔
-    zh-hans: 魁札尔科亚特尔
-    zh-hant: 魁札爾科亞特爾
-    zh-hk: 魁札爾科亞特爾
-    zh-sg: 魁札尔科亚特尔
-    zh-tw: 魁札爾科亞特爾
+    zh_cn: 魁札尔科亚特尔
+    zh_hans: 魁札尔科亚特尔
+    zh_hant: 魁札爾科亞特爾
+    zh_hk: 魁札爾科亞特爾
+    zh_sg: 魁札尔科亚特尔
+    zh_tw: 魁札爾科亞特爾
 ---
 # [[Quetzalcoatl]] 
 

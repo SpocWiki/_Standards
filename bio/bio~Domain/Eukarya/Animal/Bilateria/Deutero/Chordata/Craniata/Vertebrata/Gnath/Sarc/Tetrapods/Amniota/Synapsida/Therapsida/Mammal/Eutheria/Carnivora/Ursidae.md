@@ -301,7 +301,7 @@ dv_has_:
     bbc: Gompul
     bcl: Oso
     be: мядзведзевыя
-    be-tarask: мядзьведзевыя
+    be_tarask: мядзьведзевыя
     bg: мечкови
     bi: Bear
     bn: ভাল্লুক
@@ -425,7 +425,7 @@ dv_has_:
     nap: Urzo
     nb: bjørnefamilien
     nds: Ursidae
-    nds-nl: beer
+    nds_nl: beer
     ne: भालु
     new: माकःधुँ
     nl: beren
@@ -441,7 +441,7 @@ dv_has_:
     pnb: رچھ
     ps: يږ
     pt: urso
-    pt-br: Ursidae
+    pt_br: Ursidae
     qu: Ukumari
     rmy: Meska
     ro: Urs
@@ -463,7 +463,7 @@ dv_has_:
     so: buti
     sq: Ariu
     sr: медвед
-    sr-ec: медвед
+    sr_ec: медвед
     stq: Boare
     su: Biruang
     sv: björnar
@@ -499,10 +499,10 @@ dv_has_:
     yue: 熊
     za: Mui
     zh: 熊科
-    zh-cn: 熊科
-    zh-hans: 熊科
-    zh-hant: 熊科
-    zh-tw: 熊科
+    zh_cn: 熊科
+    zh_hans: 熊科
+    zh_hant: 熊科
+    zh_tw: 熊科
 ---
 # [[Ursidae]] 
 

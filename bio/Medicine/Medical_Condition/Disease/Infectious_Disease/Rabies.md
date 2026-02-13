@@ -210,7 +210,7 @@ dv_has_:
     ban: Rabiés
     bcl: Rabies
     be: шаленства
-    be-tarask: шаленства
+    be_tarask: шаленства
     bg: Бяс
     bn: জলাতংক
     bo: ཁྱི་སྨྱོན་དུག་
@@ -270,7 +270,7 @@ dv_has_:
     lt: pasiutligė
     lv: trakumsērga
     mai: रेबिज
-    map-bms: Rabies
+    map_bms: Rabies
     mk: беснило
     ml: പേവിഷബാധ
     mn: Галзуу өвчин
@@ -291,7 +291,7 @@ dv_has_:
     pa: ਹਲਕ
     pl: wścieklizna
     pt: raiva
-    pt-br: raiva
+    pt_br: raiva
     rki: ခွီးရူးပြန်ရောဂါ
     ro: Rabie
     ru: бешенство
@@ -343,8 +343,8 @@ dv_has_:
     za: Bingh'mabag
     zgh: ⵉⵚⵉⴹ
     zh: 狂犬病
-    zh-hant: 狂犬病
-    zh-tw: 狂犬病
+    zh_hant: 狂犬病
+    zh_tw: 狂犬病
 ---
 # [[Rabies]] 
 

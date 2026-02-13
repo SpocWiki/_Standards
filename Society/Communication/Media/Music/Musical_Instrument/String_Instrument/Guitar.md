@@ -191,7 +191,7 @@ dv_has_:
     bar: Klampfen
     bcl: Gitara
     be: гітара
-    be-tarask: гітара
+    be_tarask: гітара
     bew: hitar
     bg: китара
     bho: गिटार
@@ -212,12 +212,12 @@ dv_has_:
     da: guitar
     dag: jitaa
     de: Gitarre
-    de-ch: Gitarre
+    de_ch: Gitarre
     diq: gitar
     el: κιθάρα
     en: guitar
-    en-ca: guitar
-    en-gb: guitar
+    en_ca: guitar
+    en_gb: guitar
     en-us: guitar
     eo: gitaro
     es: guitarra
@@ -292,7 +292,7 @@ dv_has_:
     mn: гитар
     mr: गिटार
     ms: gitar
-    ms-arab: ݢيتر
+    ms_arab: ݢيتر
     mt: kitarra
     my: ဂစ်တာ
     mzn: گیتار
@@ -300,7 +300,7 @@ dv_has_:
     nan: Gì-tah
     nb: gitar
     nds: Gitarr
-    nds-nl: gitaar
+    nds_nl: gitaar
     ne: गितार
     new: गितार
     nl: gitaar
@@ -317,7 +317,7 @@ dv_has_:
     pnb: گٹار
     ps: ګټار
     pt: guitarra
-    pt-br: violão
+    pt_br: violão
     qu: kitara
     rm: Ghitarra
     rmf: gitaros
@@ -370,14 +370,14 @@ dv_has_:
     yi: גיטאר
     yue: 結他
     zh: 吉他
-    zh-cn: 吉他
-    zh-hans: 吉他
-    zh-hant: 吉他
-    zh-hk: 結他
-    zh-mo: 結他
+    zh_cn: 吉他
+    zh_hans: 吉他
+    zh_hant: 吉他
+    zh_hk: 結他
+    zh_mo: 結他
     zh-my: 吉他
-    zh-sg: 吉他
-    zh-tw: 吉他
+    zh_sg: 吉他
+    zh_tw: 吉他
     zu: Isigingci
 ---
 # [[Guitar]] 🎸 

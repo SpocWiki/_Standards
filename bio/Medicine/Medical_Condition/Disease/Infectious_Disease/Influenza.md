@@ -204,7 +204,7 @@ dv_has_:
     azb: آنفولانزا
     ba: Грипп
     be: грып
-    be-tarask: грып
+    be_tarask: грып
     bg: Грип
     blk: တုတ်ကွေးရောႏဂါႏ
     bn: ইনফ্লুয়েঞ্জা
@@ -224,8 +224,8 @@ dv_has_:
     dv: އިންފުލުއެންޒާ
     el: γρίπη
     en: influenza
-    en-ca: Influenza
-    en-gb: influenza
+    en_ca: Influenza
+    en_gb: influenza
     eo: gripo
     es: gripe
     et: gripp
@@ -272,7 +272,7 @@ dv_has_:
     ko: 인플루엔자
     ks: نٔزلہٕ تَپ
     ku: grîp
-    ku-latn: grîp
+    ku_latn: grîp
     ky: Грипп
     la: Influentia
     lb: Gripp
@@ -280,7 +280,7 @@ dv_has_:
     ln: Maláli na mɔpɛpɛ
     lt: gripas
     lv: gripa
-    map-bms: Influenza
+    map_bms: Influenza
     mg: Gripa
     min: influenza
     mk: грип
@@ -354,8 +354,8 @@ dv_has_:
     yue: 流行性感冒
     za: binghlah ganjmau
     zh: 流行性感冒
-    zh-hant: 流行性感冒
-    zh-tw: 流行性感冒
+    zh_hant: 流行性感冒
+    zh_tw: 流行性感冒
     zu: umkhuhlane
 ---
 ## #has_/text_of_/abstract 

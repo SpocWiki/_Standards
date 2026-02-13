@@ -132,7 +132,7 @@ dv_has_:
     bbc: Mahara
     bcl: Capricornus
     be: Казярог
-    be-tarask: Казярог
+    be_tarask: Казярог
     bg: Козирог
     bn: মকর
     bo: ཆུ་སྲིན་སྐར་ཚོམ་
@@ -227,8 +227,8 @@ dv_has_:
     wuu: 摩羯座
     yue: 摩羯座
     zh: 摩羯座
-    zh-hans: 摩羯座
-    zh-hant: 摩羯座
+    zh_hans: 摩羯座
+    zh_hant: 摩羯座
 dv_is_:
   same_as:
   - '[[../../WikiData/WD~Capricornus,10535|WD~Capricornus,10535]]'

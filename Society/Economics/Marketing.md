@@ -129,7 +129,7 @@ dv_has_:
     az: marketinq
     bar: marketing
     be: маркетынг
-    be-tarask: маркетынг
+    be_tarask: маркетынг
     bg: маркетинг
     bho: मार्केटिंग
     bn: বিপণন
@@ -143,7 +143,7 @@ dv_has_:
     de: Vermarktung
     el: Μάρκετινγκ
     en: marketing
-    en-gb: marketing
+    en_gb: marketing
     eo: merkatiko
     es: mercadotecnia
     et: turundus
@@ -184,7 +184,7 @@ dv_has_:
     mn: Маркетинг
     mr: विपणन
     ms: pemasaran
-    ms-arab: ڤماسرن
+    ms_arab: ڤماسرن
     my: ဈေးကွက်ထိုးဖောက်ခြင်း
     nan: Hêng-siau
     nb: markedsføring
@@ -232,8 +232,8 @@ dv_has_:
     yo: ìpolówó
     yue: 市場學
     zh: 市场营销
-    zh-hant: 市場行銷
-    zh-tw: 市場行銷
+    zh_hant: 市場行銷
+    zh_tw: 市場行銷
     zu: Umdayiso
 ---
 # [[Marketing]] 

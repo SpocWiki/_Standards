@@ -76,7 +76,7 @@ dv_has_:
     ast: Deriva xenética
     ba: Гендар дрейфы
     be: Генетычны дрэйф
-    be-tarask: генэтычны дрэйф
+    be_tarask: генэтычны дрэйф
     bg: Генетичен дрейф
     bn: জিন প্রবাহ
     bs: Genetički drift
@@ -129,8 +129,8 @@ dv_has_:
     si: ජාන ප්ලාවිතය
     sl: genetski zdrs
     sr: генетички дрифт
-    sr-ec: генетички дрифт
-    sr-el: Genetički drift
+    sr_ec: генетички дрифт
+    sr_el: Genetički drift
     sv: Genetisk drift
     th: การเปลี่ยนความถี่ยีนอย่างไม่เจาะจง
     tl: Henetikong pag-agos
@@ -141,9 +141,9 @@ dv_has_:
     wuu: 遗传漂变
     yue: 基因漂變
     zh: 遗传漂变
-    zh-hans: 遗传漂变
-    zh-hant: 遺傳漂變
-    zh-hk: 遺傳漂變
+    zh_hans: 遗传漂变
+    zh_hant: 遺傳漂變
+    zh_hk: 遺傳漂變
 ---
 # [[Genetic_Drift]] 
 

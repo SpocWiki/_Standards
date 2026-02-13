@@ -151,7 +151,7 @@ dv_has_:
     ba: Дравид телдәре
     ban: Soroh basa Dravida
     be: дравідыйскія мовы
-    be-tarask: дравідыйскія мовы
+    be_tarask: дравідыйскія мовы
     bg: Дравидски езици
     bho: द्रविड़ भाषा परिवार
     bn: দ্রাবিড় ভাষাসমূহ
@@ -235,7 +235,7 @@ dv_has_:
     sl: dravidski jeziki
     sq: Gjuhët dravidiane
     sr: дравидски језици
-    sr-ec: дравидски језици
+    sr_ec: дравидски језици
     sv: dravidiska språk
     sw: Lugha za Kidravidi
     ta: திராவிட மொழிக் குடும்பம்
@@ -256,13 +256,13 @@ dv_has_:
     yue: 南印語系
     zea: Dravidische taelen
     zh: 达罗毗荼语系
-    zh-cn: 达罗毗荼语系
-    zh-hans: 达罗毗荼语系
-    zh-hant: 達羅毗荼語系
-    zh-hk: 達羅毗荼語系
-    zh-mo: 達羅毗荼語系
-    zh-sg: 达罗毗荼语系
-    zh-tw: 達羅毗荼語系
+    zh_cn: 达罗毗荼语系
+    zh_hans: 达罗毗荼语系
+    zh_hant: 達羅毗荼語系
+    zh_hk: 達羅毗荼語系
+    zh_mo: 達羅毗荼語系
+    zh_sg: 达罗毗荼语系
+    zh_tw: 達羅毗荼語系
 ---
 [SpocWebEntityId:: 238 ]
 

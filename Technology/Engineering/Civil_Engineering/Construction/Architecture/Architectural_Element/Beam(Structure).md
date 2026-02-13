@@ -85,7 +85,7 @@ dv_has_:
     ar: جائز
     az: Dirək
     be: бэлька
-    be-tarask: бэлька
+    be_tarask: бэлька
     bg: Греда
     bn: কড়ি
     br: Treust
@@ -94,11 +94,11 @@ dv_has_:
     cv: Кашта
     da: bjælke
     de: Träger
-    de-ch: Träger (Statik)
+    de_ch: Träger (Statik)
     el: δοκός
     en: beam
-    en-ca: Beam (structure)
-    en-gb: beam
+    en_ca: Beam (structure)
+    en_gb: beam
     eo: trabo
     es: viga
     et: Tala
@@ -129,7 +129,7 @@ dv_has_:
     pms: Trav
     ps: وړونکی
     pt: viga
-    pt-br: viga
+    pt_br: viga
     qu: Chakakuq
     ro: grindă
     ru: балка
@@ -138,8 +138,8 @@ dv_has_:
     shn: တူင်
     sl: nosilec
     sr: греда
-    sr-ec: греда
-    sr-el: greda
+    sr_ec: греда
+    sr_el: greda
     sv: balk
     tg: Болор
     tr: Kiriş (mimarlık)

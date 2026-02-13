@@ -120,7 +120,7 @@ dv_has_:
     azb: کنزابورو اوئه
     bcl: Kenzaburō Ōe
     be: Кэндзабура Оэ
-    be-tarask: Кэндзабура Оэ
+    be_tarask: Кэндзабура Оэ
     bg: Кендзабуро Ое
     bn: কেন্জাবুরো ওহয়ে
     br: Kenzaburō Ōe
@@ -184,7 +184,7 @@ dv_has_:
     pl: Kenzaburō Ōe
     pnb: کینزابیورو اوئی
     pt: Kenzaburo Oe
-    pt-br: Kenzaburo Oe
+    pt_br: Kenzaburo Oe
     ro: Kenzaburō Ōe
     ru: Кэндзабуро Оэ
     scn: Kenzaburō Ōe
@@ -208,8 +208,8 @@ dv_has_:
     yo: Kenzaburō Ōe
     yue: 大江健三郎
     zh: 大江健三郎
-    zh-cn: 大江健三郎
-    zh-hans: 大江健三郎
+    zh_cn: 大江健三郎
+    zh_hans: 大江健三郎
 ---
 # [[Kenzaburō_Ōe]] 
 

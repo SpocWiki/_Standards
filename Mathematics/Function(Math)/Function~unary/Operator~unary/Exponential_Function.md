@@ -93,7 +93,7 @@ dv_has_:
     ar: دالة أسية
     ba: күрһәткесле функция
     be: паказнікавая функцыя
-    be-tarask: паказальнікавая функцыя
+    be_tarask: паказальнікавая функцыя
     bg: експоненциална функция
     bn: সূচক ফাংশন
     br: Argemmvac'henn
@@ -140,7 +140,7 @@ dv_has_:
     pl: funkcja wykładnicza
     pms: Fonsion esponensial
     pt: função exponencial
-    pt-br: função exponencial
+    pt_br: função exponencial
     ro: funcție exponențială
     ru: показательная функция
     se: eksponeantafunkšuvdna
@@ -151,8 +151,8 @@ dv_has_:
     sms: eksponeʹnttfunktio
     sq: funksioni eksponencial
     sr: експоненцијална функција
-    sr-ec: експоненцијална функција
-    sr-el: eksponencijalna funkcija
+    sr_ec: експоненцијална функција
+    sr_el: eksponencijalna funkcija
     sv: exponentialfunktion
     ta: படிக்குறிச் சார்பு
     th: ฟังก์ชันเลขชี้กำลัง
@@ -166,12 +166,12 @@ dv_has_:
     wuu: 指数函数
     yue: 指數函數
     zh: 指數函數
-    zh-cn: 指数函数
-    zh-hans: 指数函数
-    zh-hant: 指數函數
-    zh-hk: 指數函數
-    zh-sg: 指数函数
-    zh-tw: 指數函數
+    zh_cn: 指数函数
+    zh_hans: 指数函数
+    zh_hant: 指數函數
+    zh_hk: 指數函數
+    zh_sg: 指数函数
+    zh_tw: 指數函數
 ---
 # [[Exponential_Function]] 
 

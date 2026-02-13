@@ -254,7 +254,7 @@ dv_has_:
     ban: Aristotélés
     bcl: Aristotle
     be: Арыстоцель
-    be-tarask: Арыстотэль
+    be_tarask: Арыстотэль
     bew: Aristo
     bg: Аристотел
     bho: अरस्तू
@@ -278,15 +278,15 @@ dv_has_:
     cy: Aristoteles
     da: Aristoteles
     de: Aristoteles
-    de-ch: Aristoteles
+    de_ch: Aristoteles
     diq: Aristoteles
     dsb: Aristoteles
     dty: अरस्तू
     el: Αριστοτέλης
     eml: Aristotel
     en: Aristotle
-    en-ca: Aristotle
-    en-gb: Aristotle
+    en_ca: Aristotle
+    en_gb: Aristotle
     en-us: Aristotle
     eo: Aristotelo
     es: Aristóteles
@@ -307,7 +307,7 @@ dv_has_:
     gn: Aristóteles
     gom: Aristotle
     gom-deva: अॅरिस्टॉटल
-    gom-latn: Aristotle
+    gom_latn: Aristotle
     gor: Aristoteles
     got: "\U00010330\U00010342\U00010339\U00010343\U00010344\U00010349\U00010344\U00010334\U0001033B\U00010330\U00010339\U00010343"
     grc: Ἀριστοτέλης
@@ -347,7 +347,7 @@ dv_has_:
     ko: 아리스토텔레스
     ksh: Aristoteles
     ku: Arîstotelês
-    ku-latn: Arîstotelês
+    ku_latn: Arîstotelês
     kw: Aristotle
     ky: Аристотель
     la: Aristoteles
@@ -365,7 +365,7 @@ dv_has_:
     lzh: 亞里士多德
     mad: Aristoteles
     mai: अरस्तू
-    map-bms: Aristoteles
+    map_bms: Aristoteles
     mdf: Аристотэль
     mg: Aristotle
     mi: Irihtu
@@ -386,7 +386,7 @@ dv_has_:
     nan: Aristotélēs
     nb: Aristoteles
     nds: Aristoteles
-    nds-nl: Aristoteles
+    nds_nl: Aristoteles
     ne: अरस्तु
     new: एरिस्टोटल
     nl: Aristoteles
@@ -473,7 +473,7 @@ dv_has_:
     zea: Aristoteles
     zgh: ⴰⵔⵉⵚⵟⵓ
     zh: 亞里士多德
-    zh-cn: 亚里士多德
+    zh_cn: 亚里士多德
     zu: Aristotile
 ---
 # [[Aristotle]] 

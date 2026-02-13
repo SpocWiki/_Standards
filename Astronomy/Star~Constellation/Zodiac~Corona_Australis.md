@@ -107,7 +107,7 @@ dv_has_:
     az: Cənub Tacı
     ba: Көньяҡ таж
     be: Паўднёвая Карона
-    be-tarask: Паўднёвая Карона
+    be_tarask: Паўднёвая Карона
     bg: Южна корона
     bn: দক্ষিণ কীরিট মণ্ডল
     br: Kurunenn ar Su
@@ -188,11 +188,11 @@ dv_has_:
     wuu: 南冕座
     yue: 南冕座
     zh: 南冕座
-    zh-cn: 南冕座
-    zh-hans: 南冕座
-    zh-hant: 南冕座
-    zh-hk: 南冕座
-    zh-tw: 南冕座
+    zh_cn: 南冕座
+    zh_hans: 南冕座
+    zh_hant: 南冕座
+    zh_hk: 南冕座
+    zh_tw: 南冕座
 dv_is_:
   same_as:
   - '[[../../WikiData/WD~Corona_Australis,10413|WD~Corona_Australis,10413]]'

@@ -63,7 +63,7 @@ dv_has_:
     oc: Macropodiformes
     pl: Kangurokształtne
     pt: Macropodiformes
-    pt-br: Macropodiformes
+    pt_br: Macropodiformes
     ro: Macropodiformes
     ru: Macropodiformes
     sl: Macropodiformes
@@ -75,10 +75,10 @@ dv_has_:
     vo: Macropodiformes
     war: Macropodiformes
     zh: 袋鼠亞目
-    zh-cn: 袋鼠亚目
-    zh-hans: 袋鼠亚目
-    zh-hant: 袋鼠亞目
-    zh-tw: 袋鼠亞目
+    zh_cn: 袋鼠亚目
+    zh_hans: 袋鼠亚目
+    zh_hant: 袋鼠亞目
+    zh_tw: 袋鼠亞目
 ---
 # [[Macropodiformes]] 
 

@@ -127,7 +127,7 @@ dv_has_:
     az: Maksvell tənlikləri
     azb: ماکسول موعادیلهلری
     be: ураўненні Максвела
-    be-tarask: раўнаньні Максўэла
+    be_tarask: раўнаньні Максўэла
     bg: уравнения на Максуел
     bn: ম্যাক্সওয়েলের সমীকরণসমূহ
     bs: Maxwellove jednačine
@@ -138,8 +138,8 @@ dv_has_:
     de: Maxwell-Gleichungen
     el: εξισώσεις Μάξγουελ
     en: Maxwell's equations
-    en-ca: Maxwell's equations
-    en-gb: Maxwell's equations
+    en_ca: Maxwell's equations
+    en_gb: Maxwell's equations
     eo: ekvacioj de Maxwell
     es: ecuaciones de Maxwell
     et: Maxwelli võrrandid
@@ -184,7 +184,7 @@ dv_has_:
     pa: ਮੈਕਸਵੈੱਲ ਦੀਆਂ ਸਮੀਕਰਨਾਂ
     pl: równania Maxwella
     pt: equações de Maxwell
-    pt-br: equações de Maxwell
+    pt_br: equações de Maxwell
     ro: ecuațiile lui Maxwell
     ru: уравнения Максвелла
     sh: Maxwellove jednadžbe
@@ -207,8 +207,8 @@ dv_has_:
     yi: מאקסוועלס גלײכונגען
     yue: 麥士維方程組
     zh: 麦克斯韦方程组
-    zh-cn: 麦克斯韦方程
-    zh-hans: 麦克斯韦方程组
+    zh_cn: 麦克斯韦方程
+    zh_hans: 麦克斯韦方程组
 ---
 # [[Maxwell_Equations]] 
 

@@ -180,7 +180,7 @@ dv_has_:
     ba: Неодим
     ban: Néodimium
     be: Неадым
-    be-tarask: Нэадым
+    be_tarask: Нэадым
     bg: неодим
     bho: नियोडाइमियम
     bn: নিওডিমিয়াম
@@ -198,8 +198,8 @@ dv_has_:
     de: Neodym
     el: νεοδύμιο
     en: neodymium
-    en-ca: Neodymium
-    en-gb: neodymium
+    en_ca: Neodymium
+    en_gb: neodymium
     eo: neodimo
     es: neodimio
     et: Neodüüm
@@ -275,7 +275,7 @@ dv_has_:
     pnb: نیوڈائمیم
     ps: نيوديموميم
     pt: neodímio
-    pt-br: neodímio
+    pt_br: neodímio
     qu: Neodimyu
     ro: neodim
     ru: неодим
@@ -289,7 +289,7 @@ dv_has_:
     sl: neodim
     sq: Neodimi
     sr: неодијум
-    sr-ec: Неодијум
+    sr_ec: Неодијум
     stq: Neodymium
     sv: neodym
     sw: Neodimi
@@ -312,8 +312,8 @@ dv_has_:
     yo: Neodymium
     yue: 釹
     zh: 钕
-    zh-hant: 釹
-    zh-tw: 釹
+    zh_hant: 釹
+    zh_tw: 釹
     zu: INdalamhonyambi
   number_of_:
     period: 6

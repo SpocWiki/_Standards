@@ -70,7 +70,7 @@ dv_has_:
   name_:
     ar: سيرك مونتي بايثون الطائر
     ast: Monty Python's Flying Circus
-    be-tarask: Лятучы цырк Монці Пайтана
+    be_tarask: Лятучы цырк Монці Пайтана
     bg: Летящият цирк на Монти Пайтън
     ca: Monty Python's Flying Circus
     cs: Monty Pythonův létající cirkus
@@ -78,7 +78,7 @@ dv_has_:
     da: Monty Pythons Flyvende Cirkus
     de: Monty Python’s Flying Circus
     en: Monty Python's Flying Circus
-    en-gb: Monty Python's Flying Circus
+    en_gb: Monty Python's Flying Circus
     es: Monty Python's Flying Circus
     eu: Monty Python's Flying Circus
     fa: سیرک پرنده مانتی پایتان
@@ -104,7 +104,7 @@ dv_has_:
     sk: Lietajúci cirkus Montyho Pythona
     sl: Leteči cirkus Montyja Pythona
     sr: Летећи циркус Монтија Пајтона
-    sr-ec: Летећи циркус Монтија Пајтона
+    sr_ec: Летећи циркус Монтија Пајтона
     sv: Monty Pythons flygande cirkus
     ta: மான்டி பய்த்தான்னின் பரக்கும் சர்கஸ்
     tr: Monty Python's Flying Circus

@@ -84,7 +84,7 @@ dv_has_:
     ar: جزازة العشب
     ast: Cortacésped
     be: Газонакасілка
-    be-tarask: Газонакасілка
+    be_tarask: Газонакасілка
     bg: Косачка
     bn: ঘাসকাটা যন্ত্র
     br: Gwilcherez
@@ -121,7 +121,7 @@ dv_has_:
     pl: kosiarka
     pms: Taja-erba
     pt: corta-relva
-    pt-br: cortador de grama
+    pt_br: cortador de grama
     ro: mașină de tuns iarba
     ru: газонокосилка
     se: suoidnečuohpan
@@ -130,8 +130,8 @@ dv_has_:
     smj: gieddetjuohppe
     smn: sinočyeppee
     sr: косилица за траву
-    sr-ec: косилица за траву
-    sr-el: kosilica za travu
+    sr_ec: косилица за траву
+    sr_el: kosilica za travu
     sv: gräsklippare
     ta: புல் அறுப்பி
     tr: Çim biçme makinesi

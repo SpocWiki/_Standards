@@ -78,7 +78,7 @@ dv_has_:
     nn: Hannes Meyer
     pl: Hannes Meyer
     pt: Hannes Meyer
-    pt-br: Hannes Meyer
+    pt_br: Hannes Meyer
     rm: Hannes Meyer
     ru: Ханнес Майер
     sh: Hannes Meyer
@@ -88,12 +88,12 @@ dv_has_:
     sv: Hannes Meyer
     vi: Hannes Meyer
     zh: 汉斯·迈耶
-    zh-cn: 汉斯·迈耶
-    zh-hans: 汉斯·迈耶
-    zh-hant: 漢斯·邁耶
-    zh-hk: 漢斯·邁耶
-    zh-sg: 汉斯·迈耶
-    zh-tw: 漢斯·邁耶
+    zh_cn: 汉斯·迈耶
+    zh_hans: 汉斯·迈耶
+    zh_hant: 漢斯·邁耶
+    zh_hk: 漢斯·邁耶
+    zh_sg: 汉斯·迈耶
+    zh_tw: 漢斯·邁耶
 ---
 # [[Meyer,Hannes]] 
 

@@ -89,7 +89,7 @@ dv_has_:
     ar: إسطبل
     ast: Caballeriza
     be: стайня
-    be-tarask: стайня
+    be_tarask: стайня
     bew: Kedogan
     bg: Конюшня
     bn: আস্তাবল
@@ -102,7 +102,7 @@ dv_has_:
     de: Stall
     el: στάβλος
     en: stable
-    en-gb: stable
+    en_gb: stable
     eo: ĉevalejo
     es: cuadra
     et: tall
@@ -126,11 +126,11 @@ dv_has_:
     ja: 厩舎
     ka: საჯინიბო
     kk: Ат қора
-    kk-arab: ات قورا
+    kk_arab: ات قورا
     kk-cn: ات قورا
-    kk-cyrl: Ат қора
+    kk_cyrl: Ат қора
     kk-kz: Ат қора
-    kk-latn: At qora
+    kk_latn: At qora
     kk-tr: At qora
     kn: ಅಶ್ವಶಾಲೆ
     ko: 축사
@@ -147,7 +147,7 @@ dv_has_:
     pl: stajnia
     pnb: اصطبل
     pt: cavalariça
-    pt-br: cavalariça
+    pt_br: cavalariça
     ro: Grajd
     rsk: Хлїв
     ru: стайня
@@ -167,7 +167,7 @@ dv_has_:
     wuu: 马棚
     yue: 馬房
     zh: 馬棚
-    zh-hans: 马棚
+    zh_hans: 马棚
 ---
 # [[Stable]] 
 

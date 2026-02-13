@@ -57,7 +57,7 @@ dv_has_:
     ar: فلسفة دينية
     ast: filosofía relixosa
     be: рэлігійная філасофія
-    be-tarask: рэлігійная філязофія
+    be_tarask: рэлігійная філязофія
     bn: ধর্মীয় দর্শন
     ca: filosofia religiosa
     cs: náboženská filozofie
@@ -83,11 +83,11 @@ dv_has_:
     mg: Filôzôfia ara-pivavahana
     mk: верска филзоофија
     ms: falsafah keagamaan
-    ms-arab: فلسفه کأݢاماءن
+    ms_arab: فلسفه کأݢاماءن
     nl: religieuze filosofie
     pl: religijna filozofia
     pt: filosofia religiosa
-    pt-br: filosofia religiosa
+    pt_br: filosofia religiosa
     ro: filozofie religioasă
     ru: религиозная философия
     sl: filozofija religije
@@ -99,7 +99,7 @@ dv_has_:
     uk: релігійна філософія
     vi: triết học tôn giáo
     zh: 宗教信仰哲學
-    zh-hant: 宗教信仰哲學
+    zh_hant: 宗教信仰哲學
 ---
 # [[Religious_Philosophy]] 
 

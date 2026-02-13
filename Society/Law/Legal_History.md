@@ -73,7 +73,7 @@ dv_has_:
     ast: Historia del derechu
     az: Dövlət və hüquq tarixi
     be: гісторыя дзяржавы і права
-    be-tarask: гісторыя дзяржавы і права
+    be_tarask: гісторыя дзяржавы і права
     bg: История на правото
     ca: història del dret
     cs: právní dějiny
@@ -109,8 +109,8 @@ dv_has_:
     sk: právne dejiny
     sl: pravna zgodovina
     sr: правна историја
-    sr-ec: правна историја
-    sr-el: pravna istorija
+    sr_ec: правна историја
+    sr_el: pravna istorija
     sv: rättshistoria
     tg: таърихи ҳуқуқ
     th: ประวัติศาสตร์กฎหมาย
@@ -120,9 +120,9 @@ dv_has_:
     vec: istòria del derito
     vi: lịch sử pháp lý
     zh: 法制史
-    zh-hans: 法制史
-    zh-hant: 法制史
-    zh-hk: 法制史
+    zh_hans: 法制史
+    zh_hant: 法制史
+    zh_hk: 法制史
 ---
 # [[Legal_History]] 
 

@@ -468,7 +468,7 @@ dv_has_:
     ba: Рембрандт
     bar: Rembrandt
     be: Рэмбрант
-    be-tarask: Рэмбрант
+    be_tarask: Рэмбрант
     bg: Рембранд ван Рейн
     bho: रेम्ब्रांट
     bi: Rembrandt
@@ -490,8 +490,8 @@ dv_has_:
     el: Ρέμπραντ
     eml: Rembrandt
     en: Rembrandt
-    en-ca: Rembrandt
-    en-gb: Rembrandt
+    en_ca: Rembrandt
+    en_gb: Rembrandt
     eo: Rembranto
     es: Rembrandt
     et: Rembrandt
@@ -572,7 +572,7 @@ dv_has_:
     nan: Rembrandt van Rijn
     nb: Rembrandt
     nds: Rembrandt van Rijn
-    nds-nl: Rembrandt van Rijn
+    nds_nl: Rembrandt van Rijn
     ne: रेमब्रन्ट
     new: रेम्ब्रान्ड्ट
     nl: Rembrandt
@@ -591,7 +591,7 @@ dv_has_:
     pms: Rembrandt
     pnb: ریمبراں
     pt: Rembrandt
-    pt-br: Rembrandt
+    pt_br: Rembrandt
     qu: Rembrandt
     ro: Rembrandt
     ru: Рембрандт
@@ -608,7 +608,7 @@ dv_has_:
     so: Rembrandt van Rijn
     sq: Rembrandt
     sr: Рембрант
-    sr-ec: Рембрант
+    sr_ec: Рембрант
     stq: Rembrandt Harmenszoon van Rijn
     sv: Rembrandt
     sw: Rembrandt
@@ -638,9 +638,9 @@ dv_has_:
     yue: 林布蘭
     zea: Rembrandt van Rijn
     zh: 伦勃朗
-    zh-hans: 伦勃朗
-    zh-hant: 倫勃朗
-    zh-tw: 林布蘭
+    zh_hans: 伦勃朗
+    zh_hant: 倫勃朗
+    zh_tw: 林布蘭
 ---
 # [[Rembrandt]]
 

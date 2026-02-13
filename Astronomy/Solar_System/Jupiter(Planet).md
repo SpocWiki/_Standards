@@ -367,7 +367,7 @@ dv_has_:
     bar: Jupiter
     bcl: Hupiter
     be: Юпітэр
-    be-tarask: Юпітэр
+    be_tarask: Юпітэр
     bew: Mustari
     bg: Юпитер
     bho: बृहस्पति ग्रह
@@ -399,8 +399,8 @@ dv_has_:
     el: Δίας
     eml: Zòbia
     en: Jupiter
-    en-ca: Jupiter
-    en-gb: Jupiter
+    en_ca: Jupiter
+    en_gb: Jupiter
     eo: Jupitero
     es: Júpiter
     et: Jupiter
@@ -495,7 +495,7 @@ dv_has_:
     mni: ꯁꯀꯣꯜꯁꯦꯟ ꯊꯄꯤ
     mr: गुरू ग्रह
     ms: Musytari
-    ms-arab: مشتري
+    ms_arab: مشتري
     mt: Ġove
     mwl: Júpiter
     my: ကြာသပတေးဂြိုဟ်
@@ -505,7 +505,7 @@ dv_has_:
     nap: Giove
     nb: Jupiter
     nds: Jupiter
-    nds-nl: Jupiter
+    nds_nl: Jupiter
     ne: बृहस्पतिग्रह
     new: वृहस्पति ग्रह
     nl: Jupiter
@@ -529,7 +529,7 @@ dv_has_:
     pnb: مشتری
     ps: مشتري
     pt: Júpiter
-    pt-br: Júpiter
+    pt_br: Júpiter
     qu: Pirwa
     rm: Jupiter
     rmy: Kuror
@@ -573,7 +573,7 @@ dv_has_:
     tok: mun Jupite
     tr: Jüpiter
     tt: Юпитер
-    tt-cyrl: Юпитер
+    tt_cyrl: Юпитер
     tum: Chanya la Themba
     tyv: Юпитер
     udm: Юпитер
@@ -601,14 +601,14 @@ dv_has_:
     zea: Jupiter
     zgh: ⴰⴷⴰⵏⴱⴰⵍⴰ
     zh: 木星
-    zh-cn: 木星
-    zh-hans: 木星
-    zh-hant: 木星
-    zh-hk: 木星
-    zh-mo: 木星
+    zh_cn: 木星
+    zh_hans: 木星
+    zh_hant: 木星
+    zh_hk: 木星
+    zh_mo: 木星
     zh-my: 木星
-    zh-sg: 木星
-    zh-tw: 木星
+    zh_sg: 木星
+    zh_tw: 木星
     zu: UJupitheri
 ---
 # [[Jupiter(Planet)]] 

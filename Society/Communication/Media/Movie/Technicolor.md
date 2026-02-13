@@ -35,7 +35,7 @@ dv_has_:
     an: Technicolor
     ar: التصوير بالألوان
     ast: Technicolor
-    be-tarask: тэхнікалар
+    be_tarask: тэхнікалар
     ca: Technicolor
     da: Technicolor
     de: Technicolor

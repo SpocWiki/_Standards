@@ -159,7 +159,7 @@ dv_has_:
     bar: Griachische Mythologie
     bcl: Mitolohiyang Griyego
     be: старажытнагрэчаская міфалогія
-    be-tarask: старажытнагрэцкая міталёгія
+    be_tarask: старажытнагрэцкая міталёгія
     bg: Древногръцка митология
     bjn: Mitologi Yunani
     bn: গ্রিক পুরাণ
@@ -211,7 +211,7 @@ dv_has_:
     kn: ಗ್ರೀಕ್ ಪುರಾಣ ಕಥೆ
     ko: 그리스 신화
     ku: mîtolojiya yewnanî
-    ku-latn: mîtolojiya yewnanî
+    ku_latn: mîtolojiya yewnanî
     la: Mythologia Graeca
     lb: Griichesch Mythologie
     lfn: mitolojia elinica
@@ -273,8 +273,8 @@ dv_has_:
     yi: גריכישע מיטאלאגיע
     yue: 希臘神話
     zh: 希臘神話
-    zh-hant: 希臘神話
-    zh-tw: 希臘神話
+    zh_hant: 希臘神話
+    zh_tw: 希臘神話
     zu: Imitholoji lamaGreki
 ---
 # [[Greek_Mythology]] 

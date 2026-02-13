@@ -133,7 +133,7 @@ dv_has_:
     az: Brijit Bardo
     ba: Брижит Бардо
     be: Брыжыт Бардо
-    be-tarask: Брыжыт Бардо
+    be_tarask: Брыжыт Бардо
     bg: Брижит Бардо
     bi: Brigitte Bardot
     bn: ব্রিজিট বার্ডো
@@ -147,12 +147,12 @@ dv_has_:
     cy: Brigitte Bardot
     da: Brigitte Bardot
     de: Brigitte Bardot
-    de-ch: Brigitte Bardot
+    de_ch: Brigitte Bardot
     diq: Brigitte Bardot
     el: Μπριζίτ Μπαρντό
     en: Brigitte Bardot
-    en-ca: Brigitte Bardot
-    en-gb: Brigitte Bardot
+    en_ca: Brigitte Bardot
+    en_gb: Brigitte Bardot
     en-us: Brigitte Bardot
     eo: Brigitte Bardot
     es: Brigitte Bardot
@@ -219,7 +219,7 @@ dv_has_:
     pms: Brigitte Bardot
     pnb: بریژیت باغدو
     pt: Brigitte Bardot
-    pt-br: Brigitte Bardot
+    pt_br: Brigitte Bardot
     qu: Brigitte Bardot
     ro: Brigitte Bardot
     ru: Брижит Бардо
@@ -233,7 +233,7 @@ dv_has_:
     sl: Brigitte Bardot
     sq: Brigitte Bardot
     sr: Брижит Бардо
-    sr-ec: Брижит Бардо
+    sr_ec: Брижит Бардо
     srn: Brigitte Bardot
     sv: Brigitte Bardot
     sw: Brigitte Bardot
@@ -258,10 +258,10 @@ dv_has_:
     yo: Brigitte Bardot
     yue: 碧姬芭鐸
     zh: 碧姬·芭铎
-    zh-hans: 碧姬·芭铎
-    zh-hant: 碧姬·芭杜
-    zh-hk: 碧姬·芭鐸
-    zh-tw: 碧姬·芭杜
+    zh_hans: 碧姬·芭铎
+    zh_hant: 碧姬·芭杜
+    zh_hk: 碧姬·芭鐸
+    zh_tw: 碧姬·芭杜
 ---
 # [[Bardot,Brigitte]] 
 

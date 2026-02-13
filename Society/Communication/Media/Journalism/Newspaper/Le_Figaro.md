@@ -55,8 +55,8 @@ dv_has_:
     kk: Ле Фигаро
     ko: 르 피가로
     ku: Le Figaro
-    ku-arab: لە فگارۆ
-    ku-latn: Le Figaro
+    ku_arab: لە فگارۆ
+    ku_latn: Le Figaro
     ky: Le Figaro
     la: Le Figaro
     lb: Le Figaro
@@ -83,12 +83,12 @@ dv_has_:
     wuu: 费加罗报
     yue: 費加羅報
     zh: 费加罗报
-    zh-cn: 费加罗报
-    zh-hans: 费加罗报
-    zh-hant: 費加羅報
-    zh-hk: 費加羅報
-    zh-sg: 费加罗报
-    zh-tw: 費加羅報
+    zh_cn: 费加罗报
+    zh_hans: 费加罗报
+    zh_hant: 費加羅報
+    zh_hk: 費加羅報
+    zh_sg: 费加罗报
+    zh_tw: 費加羅報
 ---
 ## #has_/text_of_/abstract 
 

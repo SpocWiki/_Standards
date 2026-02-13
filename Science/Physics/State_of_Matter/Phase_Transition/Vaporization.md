@@ -75,7 +75,7 @@ dv_has_:
     ar: تبخير
     ary: تبخير
     bcl: pagsangaw
-    be-tarask: параўтварэньне
+    be_tarask: параўтварэньне
     bn: বাষ্পীভবন
     bs: isparavanje
     ca: vaporització
@@ -84,7 +84,7 @@ dv_has_:
     cy: anweddu
     de: Verdampfen
     en: vaporization
-    en-gb: vaporisation
+    en_gb: vaporisation
     eo: vaporigado
     es: vaporización
     et: aurustumine
@@ -126,13 +126,13 @@ dv_has_:
     th: การกลายเป็นไอ
     tr: buharlaşma
     tt: бу хасил булу
-    tt-cyrl: бу хасил булу
+    tt_cyrl: бу хасил булу
     udm: пареберыктскон
     uk: пароутворення
     vi: hóa hơi
     zh: 汽化
-    zh-hans: 汽化
-    zh-hant: 汽化
+    zh_hans: 汽化
+    zh_hant: 汽化
     zu: vaporization
 ---
 # [[Vaporization]] 

@@ -101,7 +101,7 @@ dv_has_:
     ba: Сержант
     bcl: Sarhento
     be: сяржант
-    be-tarask: сяржант
+    be_tarask: сяржант
     bg: Сержант
     br: serjant
     bs: Vodnik
@@ -145,8 +145,8 @@ dv_has_:
     ko: 중사
     ko-kp: 중사
     ku: Sercan
-    ku-arab: سەرجان
-    ku-latn: Sercan
+    ku_arab: سەرجان
+    ku_latn: Sercan
     la: serviens
     lb: Sergeant
     lv: seržants
@@ -164,7 +164,7 @@ dv_has_:
     pl: sierżant
     pnt: τσαούσης
     pt: sargento
-    pt-br: sargento
+    pt_br: sargento
     ro: sergent
     ru: сержант
     sco: sairgant
@@ -174,11 +174,11 @@ dv_has_:
     smn: kersant
     sq: Rreshteri
     sr: млађи водник
-    sr-ec: Млађи водник
-    sr-el: Mlađi vodnik
+    sr_ec: Млађи водник
+    sr_el: Mlađi vodnik
     sv: sergeant
     tg: размдор
-    tg-latn: razmdor
+    tg_latn: razmdor
     tr: çavuş
     tt: сержант
     uk: сержант
@@ -187,12 +187,12 @@ dv_has_:
     yi: סערזשאַנט
     yue: 中士
     zh: 中士
-    zh-cn: 中士
-    zh-hans: 中士
-    zh-hant: 中士
-    zh-hk: 中士
-    zh-sg: 中士
-    zh-tw: 中士
+    zh_cn: 中士
+    zh_hans: 中士
+    zh_hant: 中士
+    zh_hk: 中士
+    zh_sg: 中士
+    zh_tw: 中士
 ---
 # [[Sergeant]] 
 

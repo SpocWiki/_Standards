@@ -125,7 +125,7 @@ dv_has_:
     azb: لیتر
     ba: литр
     be: літр
-    be-tarask: літар
+    be_tarask: літар
     bew: Batok (atuan)
     bg: литър
     bn: লিটার
@@ -140,12 +140,12 @@ dv_has_:
     cy: litr
     da: Liter
     de: Liter
-    de-ch: Liter
+    de_ch: Liter
     diq: Litre
     el: λίτρο
     en: litre
-    en-ca: litre
-    en-gb: litre
+    en_ca: litre
+    en_gb: litre
     en-us: liter
     eo: litro
     es: litro
@@ -205,7 +205,7 @@ dv_has_:
     mn: Литр
     mr: लीटर
     ms: liter
-    ms-arab: ليتر
+    ms_arab: ليتر
     mt: litru
     my: လီတာ
     nan: Li̍p
@@ -222,7 +222,7 @@ dv_has_:
     pms: Lìter
     pnb: لٹر
     pt: litro
-    pt-br: litro
+    pt_br: litro
     ro: Litru
     roa-tara: litre
     ru: литр
@@ -250,7 +250,7 @@ dv_has_:
     tr: litre
     ts: litara
     tt: литыр
-    tt-cyrl: литр
+    tt_cyrl: литр
     udm: литр
     uk: літр
     ur: لٹر
@@ -265,13 +265,13 @@ dv_has_:
     yi: ליטער
     yue: 公升
     zh: 公升
-    zh-cn: 升
-    zh-hans: 公升
-    zh-hant: 公升
-    zh-hk: 公升
-    zh-mo: 公升
-    zh-sg: 升
-    zh-tw: 公升
+    zh_cn: 升
+    zh_hans: 公升
+    zh_hant: 公升
+    zh_hk: 公升
+    zh_mo: 公升
+    zh_sg: 升
+    zh_tw: 公升
 ---
 # [[Unit~Liter]] 
 

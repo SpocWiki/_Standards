@@ -204,7 +204,7 @@ dv_has_:
     azb: ولادیمیر ناباکوف
     ba: Набоков Владимир Владимирович
     be: Уладзімір Уладзіміравіч Набокаў
-    be-tarask: Уладзімер Набокаў
+    be_tarask: Уладзімер Набокаў
     bg: Владимир Набоков
     bho: व्लादीमिर नाबोकव
     bn: ভ্লাদিমির নাবোকভ
@@ -221,8 +221,8 @@ dv_has_:
     diq: Vladimir Nabokov
     el: Βλαντιμίρ Ναμπόκοφ
     en: Vladimir Nabokov
-    en-ca: Vladimir Nabokov
-    en-gb: Vladimir Nabokov
+    en_ca: Vladimir Nabokov
+    en_gb: Vladimir Nabokov
     eo: Vladimir Nabokov
     es: Vladímir Nabókov
     et: Vladimir Nabokov
@@ -281,7 +281,7 @@ dv_has_:
     pnb: ولادیمیر نابوکوف
     ps: ولادیمیر نابوکوف
     pt: Vladimir Nabokov
-    pt-br: Vladimir Nabokov
+    pt_br: Vladimir Nabokov
     ro: Vladimir Nabokov
     ru: Владимир Владимирович Набоков
     rue: Володимир Набоков
@@ -317,9 +317,9 @@ dv_has_:
     yue: 納博哥夫
     za: Vladimir Nabokov
     zh: 弗拉基米爾·納博科夫
-    zh-cn: 弗拉基米尔·纳博科夫
-    zh-hans: 弗拉基米尔·纳博科夫
-    zh-hant: 弗拉基米爾·納博科夫
+    zh_cn: 弗拉基米尔·纳博科夫
+    zh_hans: 弗拉基米尔·纳博科夫
+    zh_hant: 弗拉基米爾·納博科夫
 ---
 # [[Nabokov,Vladimir]] 
 

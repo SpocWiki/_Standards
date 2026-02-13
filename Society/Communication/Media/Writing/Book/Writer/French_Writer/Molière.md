@@ -191,7 +191,7 @@ dv_has_:
     ba: Мольер
     bar: Molière
     be: Мальер
-    be-tarask: Мальер
+    be_tarask: Мальер
     bg: Молиер
     bi: Molière
     bn: জঁ-ব্যাপ্টিস্ট পোকেলেইঁ
@@ -209,13 +209,13 @@ dv_has_:
     cy: Molière
     da: Molière
     de: Molière
-    de-ch: Molière
+    de_ch: Molière
     diq: Molière
     el: Μολιέρος
     eml: Molière
     en: Molière
-    en-ca: Molière
-    en-gb: Molière
+    en_ca: Molière
+    en_gb: Molière
     eo: Molière
     es: Molière
     et: Molière
@@ -286,7 +286,7 @@ dv_has_:
     nap: Molière
     nb: Molière
     nds: Molière
-    nds-nl: Molière
+    nds_nl: Molière
     ne: मोलिएरे
     new: मोलियर
     nl: Molière
@@ -301,7 +301,7 @@ dv_has_:
     pms: Molière
     pnb: موليير
     pt: Molière
-    pt-br: Molière
+    pt_br: Molière
     qu: Molière
     ro: Molière
     ru: Мольер

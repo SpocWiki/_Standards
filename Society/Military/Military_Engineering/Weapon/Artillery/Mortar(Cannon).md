@@ -89,7 +89,7 @@ dv_has_:
     ar: هاون
     az: Minaatan
     be: Марціра
-    be-tarask: мартыра
+    be_tarask: мартыра
     bg: Мортира
     bn: মর্টার (অস্ত্র)
     br: Kanol-mortez
@@ -99,10 +99,10 @@ dv_has_:
     cv: Мортира
     da: Mortér
     de: Mörser
-    de-ch: Mörser
+    de_ch: Mörser
     el: Ολμοβόλο
     en: mortar
-    en-ca: Mortar
+    en_ca: Mortar
     eo: bombokanono
     es: mortero
     et: Müüser
@@ -137,7 +137,7 @@ dv_has_:
     pl: moździerz
     pms: Morté (arma)
     pt: morteiro
-    pt-br: Morteiro
+    pt_br: Morteiro
     ro: Mortier
     ru: мортира
     sh: Minobacač
@@ -147,8 +147,8 @@ dv_has_:
     sl: minomet
     sq: Mortaja
     sr: минобацач
-    sr-ec: минобацач
-    sr-el: minobacač
+    sr_ec: минобацач
+    sr_el: minobacač
     sv: mörsare
     ta: கணையெக்கி
     tg: Миномёт
@@ -160,7 +160,7 @@ dv_has_:
     vi: Súng cối
     yue: 迫擊炮
     zh: 迫击炮
-    zh-hans: 迫击炮
+    zh_hans: 迫击炮
 ---
 # [[Mortar(Cannon)]] 
 

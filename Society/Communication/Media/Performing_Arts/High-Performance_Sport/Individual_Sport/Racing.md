@@ -77,7 +77,7 @@ dv_has_:
   name_:
     ar: سباق
     az: Yarış
-    be-tarask: гонкі
+    be_tarask: гонкі
     br: redadeg
     ca: cursa
     cs: závodění
@@ -128,8 +128,8 @@ dv_has_:
     sl: dirkanje
     sn: Mujawo
     sr: трка
-    sr-ec: трка
-    sr-el: trka
+    sr_ec: трка
+    sr_el: trka
     sv: racing
     th: การแข่งความเร็ว
     tr: Yarış
@@ -140,7 +140,7 @@ dv_has_:
     yi: געיעג
     yue: 鬥快
     zh: 竞速类
-    zh-hant: 競速
+    zh_hant: 競速
 ---
 # [[Racing]] 
 

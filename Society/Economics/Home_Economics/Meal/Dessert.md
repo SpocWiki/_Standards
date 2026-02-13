@@ -112,7 +112,7 @@ dv_has_:
     az: Desert
     ba: Десерт
     be: дэсерт
-    be-tarask: дэсэрт
+    be_tarask: дэсэрт
     bg: десерт
     bn: মিষ্টান্ন
     bo: མངར་ཟས།
@@ -124,11 +124,11 @@ dv_has_:
     cy: pwdin
     da: dessert
     de: Dessert
-    de-ch: Dessert
+    de_ch: Dessert
     el: επιδόρπιο
     en: dessert
-    en-ca: Dessert
-    en-gb: dessert
+    en_ca: Dessert
+    en_gb: dessert
     eo: deserto
     es: postre
     et: magustoit
@@ -154,14 +154,14 @@ dv_has_:
     jv: Panganan cuci mulut
     ka: დესერტი
     kk: Десерт
-    kk-arab: دەسەرت
+    kk_arab: دەسەرت
     kk-cn: دەسەرت
-    kk-cyrl: Десерт
+    kk_cyrl: Десерт
     kk-kz: Десерт
-    kk-latn: Desert
+    kk_latn: Desert
     kk-tr: Desert
     ko: 후식
-    ku-latn: şîranî
+    ku_latn: şîranî
     la: Tragemata
     lb: Dessert
     lt: desertas
@@ -182,7 +182,7 @@ dv_has_:
     pl: deser
     pnb: مٹھا
     pt: sobremesa
-    pt-br: sobremesa
+    pt_br: sobremesa
     ro: desert
     ru: десерт
     sa: पश्चात्परिवेष्य
@@ -196,15 +196,15 @@ dv_has_:
     sms: mâʹŋŋveärr
     sq: ëmbëlsirë
     sr: десерт
-    sr-ec: десерт
-    sr-el: desert
+    sr_ec: десерт
+    sr_el: desert
     sv: dessert
     ta: இனிப்பு-விருந்துக்குப் பின்
     th: ของหวาน
     tl: panghimagas
     tr: tatlı
     tt: десерт
-    tt-cyrl: десерт
+    tt_cyrl: десерт
     uk: десерт
     ur: میٹھا
     uz: Desert
@@ -213,8 +213,8 @@ dv_has_:
     xh: Idessert
     yue: 甜品
     zh: 甜點
-    zh-hant: 甜點
-    zh-tw: 甜點
+    zh_hant: 甜點
+    zh_tw: 甜點
 ---
 # [[Dessert]] 
 

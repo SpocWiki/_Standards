@@ -123,7 +123,7 @@ dv_has_:
     az: Dietologiya
     bcl: Nutrisyon
     be: дыеталогія
-    be-tarask: дыеталёгія
+    be_tarask: дыеталёгія
     bg: диетология
     bn: পুষ্টি
     bs: Ishrana
@@ -137,8 +137,8 @@ dv_has_:
     dty: पोषण
     el: θρέψη
     en: nutrition
-    en-ca: nutrition
-    en-gb: nutrition
+    en_ca: nutrition
+    en_gb: nutrition
     eo: nutrado
     es: nutrición
     et: toitumine
@@ -173,7 +173,7 @@ dv_has_:
     lb: Ernierung
     lo: ໂພຊະນາການ
     lv: uzturs
-    map-bms: Gizi
+    map_bms: Gizi
     mk: исхрана
     ml: പോഷണം
     mr: पोषण
@@ -188,7 +188,7 @@ dv_has_:
     pl: dietetyka
     pnb: غذائیت
     pt: nutrição
-    pt-br: nutrição
+    pt_br: nutrição
     qu: Kawsachikuy
     ro: nutriție
     ru: питание
@@ -222,14 +222,14 @@ dv_has_:
     yo: ẹ̀kọ́ ìmọ̀ oúnjẹ
     yue: 營養作用
     zh: 营养作用
-    zh-cn: 营养作用
-    zh-hans: 营养作用
-    zh-hant: 營養作用
-    zh-hk: 營養作用
-    zh-mo: 營養作用
+    zh_cn: 营养作用
+    zh_hans: 营养作用
+    zh_hant: 營養作用
+    zh_hk: 營養作用
+    zh_mo: 營養作用
     zh-my: 营养作用
-    zh-sg: 营养作用
-    zh-tw: 營養作用
+    zh_sg: 营养作用
+    zh_tw: 營養作用
 ---
 # [[Nutrition]] 
 

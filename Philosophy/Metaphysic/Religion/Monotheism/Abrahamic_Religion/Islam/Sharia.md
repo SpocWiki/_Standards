@@ -137,7 +137,7 @@ dv_has_:
     az: Şəriət
     ba: Шәриғәт
     be: шарыят
-    be-tarask: шарыят
+    be_tarask: шарыят
     bg: Шариат
     bn: শরিয়ত
     bo: ཤ་རི་ཡ།
@@ -178,15 +178,15 @@ dv_has_:
     jv: Saréngat Islam
     ka: შარია
     kk: Шариғат
-    kk-arab: شارىيعات
-    kk-cyrl: Шариғат
-    kk-latn: Şarïğat
+    kk_arab: شارىيعات
+    kk_cyrl: Шариғат
+    kk_latn: Şarïğat
     kn: ಇಸ್ಲಾಮೀ ನ್ಯಾಯ
     ko: 샤리아
     krj: siyëriyë
     ku: Şerîet
-    ku-arab: شەریەت
-    ku-latn: Şerîet
+    ku_arab: شەریەت
+    ku_latn: Şerîet
     ky: Шарият
     la: Saria
     lt: šariatas
@@ -224,8 +224,8 @@ dv_has_:
     so: Shariicada
     sq: Sheriati
     sr: Шеријат
-    sr-ec: Шеријат
-    sr-el: Šerijat
+    sr_ec: Шеријат
+    sr_el: Šerijat
     sv: sharia
     sw: Sharia
     ta: இஸ்லாமியச் சட்ட முறைமை
@@ -247,14 +247,14 @@ dv_has_:
     yue: 回教法
     zgh: ⵛⵛⴰⵔⵉⵄⴰ
     zh: 伊斯蘭教法
-    zh-cn: 伊斯兰教法
-    zh-hans: 伊斯兰教法
-    zh-hant: 回教法
-    zh-hk: 伊斯蘭教法
-    zh-mo: 伊斯蘭教法
+    zh_cn: 伊斯兰教法
+    zh_hans: 伊斯兰教法
+    zh_hant: 回教法
+    zh_hk: 伊斯蘭教法
+    zh_mo: 伊斯蘭教法
     zh-my: 回教法
-    zh-sg: 回教法
-    zh-tw: 回教法
+    zh_sg: 回教法
+    zh_tw: 回教法
 ---
 # [[Sharia]] 
 

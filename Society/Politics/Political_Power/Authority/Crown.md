@@ -110,7 +110,7 @@ dv_has_:
     bar: Krone
     bcl: Korona
     be: Карона
-    be-tarask: карона
+    be_tarask: карона
     bg: Корона
     bn: মুকুট
     br: Kurunenn
@@ -155,7 +155,7 @@ dv_has_:
     mnc: ᠮᠠᡥᠠᡨᡠ ᠮᠠᡥᠠᡨᡠᠨ
     mr: मुकुट
     ms: mahkota
-    ms-arab: مهکوتا
+    ms_arab: مهکوتا
     my: သရဖူ
     nb: krone
     ne: श्रीपेच
@@ -166,7 +166,7 @@ dv_has_:
     os: коронæ
     pl: korona
     pt: coroa
-    pt-br: coroa
+    pt_br: coroa
     qu: Llawt'u
     rn: Urugori
     ro: coroană
@@ -182,15 +182,15 @@ dv_has_:
     sms: kruun
     sq: Kurora
     sr: круна
-    sr-ec: круна
-    sr-el: kruna
+    sr_ec: круна
+    sr_el: kruna
     su: Makuta
     sv: krona
     sw: Taji
     ta: மகுடம்
     te: కిరీటము
     tg: тоҷ
-    tg-latn: Toç
+    tg_latn: Toç
     th: มงกุฎ
     tl: Korona
     tr: taç
@@ -201,12 +201,12 @@ dv_has_:
     wuu: 冠冕
     yue: 冠冕
     zh: 冠冕
-    zh-cn: 冠冕
-    zh-hans: 冠冕
-    zh-hant: 冠冕
-    zh-hk: 冠冕
-    zh-sg: 冠冕
-    zh-tw: 冠冕
+    zh_cn: 冠冕
+    zh_hans: 冠冕
+    zh_hant: 冠冕
+    zh_hk: 冠冕
+    zh_sg: 冠冕
+    zh_tw: 冠冕
 ---
 # [[Crown]] 👑 
 

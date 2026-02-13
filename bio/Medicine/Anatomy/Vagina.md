@@ -186,8 +186,8 @@ Dewey_Decimal_Classification:
 dv_has_:
   name_:
     acm: كس
-    aeb-arab: صرم
-    aeb-latn: cerm
+    aeb_arab: صرم
+    aeb_latn: cerm
     af: vagina
     ak: Ɛtwɛ
     an: vachina
@@ -205,7 +205,7 @@ dv_has_:
     bar: Fud
     bcl: Putay
     be: похва, рэпрадуктыўная сістэма
-    be-tarask: похва
+    be_tarask: похва
     bew: Parji
     bg: Влагалище
     bho: योनि
@@ -225,13 +225,13 @@ dv_has_:
     da: skede
     dag: pani
     de: Vagina
-    de-ch: Vagina
+    de_ch: Vagina
     diq: Kısi
     dv: އަންހެނާގެ ޖިންސީ ގުނަވަން
     el: Κόλπος
     en: vagina
-    en-ca: Vagina
-    en-gb: vagina
+    en_ca: Vagina
+    en_gb: vagina
     en-us: vagina
     eo: vagino
     es: vagina
@@ -279,7 +279,7 @@ dv_has_:
     ko: 질
     ks: گوٗد
     ku: Zê
-    ku-latn: zê
+    ku_latn: zê
     kw: kons
     la: Vagina
     lb: Vagin
@@ -333,8 +333,8 @@ dv_has_:
     so: Siil
     sq: Vagina
     sr: Вагина
-    sr-ec: вагина
-    sr-el: vagina
+    sr_ec: вагина
+    sr_el: vagina
     st: Botshehadi
     su: Liang Heunceut
     sv: slida
@@ -364,8 +364,8 @@ dv_has_:
     yue: 陰道
     za: Saiyaem
     zh: 阴道
-    zh-hant: 陰道
-    zh-tw: 陰道
+    zh_hant: 陰道
+    zh_tw: 陰道
     zu: Isibunu
 ---
 # [[Vagina]] 

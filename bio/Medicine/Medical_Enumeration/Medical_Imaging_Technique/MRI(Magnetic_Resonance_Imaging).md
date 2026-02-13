@@ -118,7 +118,7 @@ dv_has_:
     arz: تصوير بالرنين المغناطيسى
     ast: resonancia magnética nuclear
     az: maqnit rezonans tomoqrafiya
-    be-tarask: магнітна-рэзанансная тамаграфія
+    be_tarask: магнітна-рэзанансная тамаграфія
     bg: магнитно-резонансна томография
     bn: চৌম্বকীয় অনুরণন প্রতিচ্ছবি
     bs: magnetna rezonanca
@@ -186,8 +186,8 @@ dv_has_:
     sl: slikanje z magnetno resonanco
     sq: imazhi me rezonancë magnetike
     sr: магнетна резонантна томографија
-    sr-ec: магнетна резонантна томографија
-    sr-el: magnetna rezonantna tomografija
+    sr_ec: магнетна резонантна томографија
+    sr_el: magnetna rezonantna tomografija
     stq: magnet-resonanz-tomographie
     sv: magnetisk resonanstomografi
     ta: காந்த அதிர்வு அலை வரைவு
@@ -204,12 +204,12 @@ dv_has_:
     wuu: 核磁共振成像
     yue: 磁力共振造影
     zh: 核磁共振成像
-    zh-cn: 核磁共振成像
-    zh-hans: 核磁共振成像
-    zh-hant: 核磁共振成像
-    zh-hk: 核磁共振成像
-    zh-sg: 核磁共振成像
-    zh-tw: 核磁共振成像
+    zh_cn: 核磁共振成像
+    zh_hans: 核磁共振成像
+    zh_hant: 核磁共振成像
+    zh_hk: 核磁共振成像
+    zh_sg: 核磁共振成像
+    zh_tw: 核磁共振成像
 ---
 Technique of Magnetic resonance imaging.
 

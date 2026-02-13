@@ -120,7 +120,7 @@ dv_has_:
     arz: هاوارد هيوز
     ast: Howard Hughes
     az: Hovard Hyuz
-    be-tarask: Гаўард Г’юз
+    be_tarask: Гаўард Г’юз
     bg: Хауърд Хюз
     bn: হাওয়ার্ড হিউজ
     ca: Howard Hughes
@@ -166,7 +166,7 @@ dv_has_:
     pnb: ہاورڈ ہیوز
     ps: هاوارد هیوز
     pt: Howard Hughes
-    pt-br: Howard Hughes
+    pt_br: Howard Hughes
     ro: Howard Hughes
     ru: Говард Хьюз
     sah: Говард Хьюз
@@ -175,12 +175,12 @@ dv_has_:
     sl: Howard Hughes
     sq: Howard Hughes
     sr: Хауард Хјуз
-    sr-ec: Хауард Хјуз
-    sr-el: Hauard Hjuz
+    sr_ec: Хауард Хјуз
+    sr_el: Hauard Hjuz
     sv: Howard Hughes
     ta: ஹோவார்ட் ஹியூஸ்
     tg: Ҳовард Ҳюз
-    tg-latn: Hovard Hjuz
+    tg_latn: Hovard Hjuz
     tl: Howard Hughes
     tr: Howard Hughes
     uk: Говард Г'юз
@@ -190,13 +190,13 @@ dv_has_:
     wuu: 霍华德·休斯
     yue: 侯活曉治
     zh: 霍华德·休斯
-    zh-cn: 霍华德·休斯
-    zh-hans: 霍华德·休斯
-    zh-hant: 霍華德·休斯
-    zh-hk: 侯活·曉治
+    zh_cn: 霍华德·休斯
+    zh_hans: 霍华德·休斯
+    zh_hant: 霍華德·休斯
+    zh_hk: 侯活·曉治
     zh-my: 侯活·晓士
-    zh-sg: 侯活·晓士
-    zh-tw: 霍華德·休斯
+    zh_sg: 侯活·晓士
+    zh_tw: 霍華德·休斯
 ---
 # [[Hughes,Howard]] 
 

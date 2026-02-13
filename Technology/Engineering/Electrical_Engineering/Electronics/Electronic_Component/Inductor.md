@@ -111,7 +111,7 @@ dv_has_:
     azb: ایلقاچی
     ba: индукция кәтүге
     be: шпуля індуктыўнасці
-    be-tarask: шпуля індуктыўнасьці
+    be_tarask: шпуля індуктыўнасьці
     bg: бобина
     bn: আবেশক
     bs: zavojnica
@@ -188,8 +188,8 @@ dv_has_:
     sl: indukcijska tuljava
     sq: induktori
     sr: пригушница
-    sr-ec: пригушница
-    sr-el: prigušnica
+    sr_ec: пригушница
+    sr_el: prigušnica
     stq: Spoulen
     sv: induktor
     sw: kidukizi

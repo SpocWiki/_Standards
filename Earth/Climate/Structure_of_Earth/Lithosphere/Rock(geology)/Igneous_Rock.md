@@ -129,7 +129,7 @@ dv_has_:
     az: maqmatik süxurlar
     ba: Магма тау тоҡомдары
     be: магматычныя горныя пароды
-    be-tarask: магматычная горная парода
+    be_tarask: магматычная горная парода
     bg: Магмени скали
     bho: अगिनचट्टान
     bn: আগ্নেয় শিলা
@@ -139,11 +139,11 @@ dv_has_:
     cy: craig igneaidd
     da: Magmatiske bjergarter
     de: magmatisches Gestein
-    de-ch: Magmatisches Gestein
+    de_ch: Magmatisches Gestein
     el: Εκρηξιγενές πέτρωμα
     en: igneous rock
-    en-ca: Igneous rock
-    en-gb: igneous rock
+    en_ca: Igneous rock
+    en_gb: igneous rock
     eo: magmorokaĵo
     es: roca ígnea
     et: tardkivim
@@ -195,7 +195,7 @@ dv_has_:
     pnb: آتشی چٹان
     ps: انګاري ګارې
     pt: rocha ígnea
-    pt-br: rocha ígnea
+    pt_br: rocha ígnea
     ro: rocă magmatică
     ru: магматические горные породы
     sco: igneous rock
@@ -206,7 +206,7 @@ dv_has_:
     sl: magmatska kamnina
     sq: Shkëmbinjtë magmatikë
     sr: магматска стена
-    sr-ec: Магматске стене
+    sr_ec: Магматске стене
     su: Batu igneus
     sv: magmatisk bergart
     sw: Mwamba wa mgando
@@ -224,7 +224,7 @@ dv_has_:
     wuu: 岩浆岩
     yue: 火成岩
     zh: 火成岩
-    zh-tw: 火成岩
+    zh_tw: 火成岩
 ---
 # [[Igneous_Rock]] 
 

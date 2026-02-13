@@ -109,7 +109,7 @@ dv_has_:
     az: Propan
     azb: پروپان
     be: прапан
-    be-tarask: прапан
+    be_tarask: прапан
     bg: пропан
     bn: প্রোপেন
     bs: Propan
@@ -138,16 +138,16 @@ dv_has_:
     it: propano
     ja: プロパン
     kk: Пропан
-    kk-arab: پروپان
+    kk_arab: پروپان
     kk-cn: پروپان
-    kk-cyrl: Пропан
+    kk_cyrl: Пропан
     kk-kz: Пропан
-    kk-latn: Propan
+    kk_latn: Propan
     kk-tr: Propan
     ko: 프로페인
     ku: Propan
-    ku-arab: پرۆپان
-    ku-latn: Propan
+    ku_arab: پرۆپان
+    ku_latn: Propan
     la: propanum
     lb: Propan
     lt: propanas
@@ -175,8 +175,8 @@ dv_has_:
     smn: proopaan
     sms: propaan
     sr: пропан
-    sr-ec: Пропан
-    sr-el: Propan
+    sr_ec: Пропан
+    sr_el: Propan
     stq: Propan
     sv: propan
     ta: புரொப்பேன்
@@ -192,12 +192,12 @@ dv_has_:
     wuu: 丙烷
     yue: 丙烷
     zh: 丙烷
-    zh-cn: 丙烷
-    zh-hans: 丙烷
-    zh-hant: 丙烷
-    zh-hk: 丙烷
-    zh-sg: 丙烷
-    zh-tw: 丙烷
+    zh_cn: 丙烷
+    zh_hans: 丙烷
+    zh_hant: 丙烷
+    zh_hk: 丙烷
+    zh_sg: 丙烷
+    zh_tw: 丙烷
 dv_is_:
   same_as:
   - '[[../../../../WikiData/WD~Propane,131189|WD~Propane,131189]]'

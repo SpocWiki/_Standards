@@ -150,7 +150,7 @@ dv_has_:
     azb: نیکلای لوباچفسکی
     ba: Лобачевский Николай Иванович
     be: Мікалай Іванавіч Лабачэўскі
-    be-tarask: Мікалай Лабачэўскі
+    be_tarask: Мікалай Лабачэўскі
     bg: Николай Лобачевски
     bn: নিকোলাই লোবাচেভস্কি
     bs: Nikolaj Ivanovič Lobačevski
@@ -184,16 +184,16 @@ dv_has_:
     jbo: nikolaus.lobatceskis
     ka: ნიკოლაი ლობაჩევსკი
     kk: Николай Иванович Лобачевский
-    kk-arab: نىيكولاي ىيۆانوۆىيتش لوباتشەۆسكىيي
+    kk_arab: نىيكولاي ىيۆانوۆىيتش لوباتشەۆسكىيي
     kk-cn: نىيكولاي ىيۆانوۆىيتش لوباتشەۆسكىيي
-    kk-cyrl: Николай Иванович Лобачевский
+    kk_cyrl: Николай Иванович Лобачевский
     kk-kz: Николай Иванович Лобачевский
-    kk-latn: Nïkolaý Ïvanovïç Lobaçevskïý
+    kk_latn: Nïkolaý Ïvanovïç Lobaçevskïý
     kk-tr: Nïkolaý Ïvanovïç Lobaçevskïý
     ko: 니콜라이 로바쳅스키
     ku: Nîkolay Îvanovîç Lobaçevskî
-    ku-arab: نیکۆلایئی ڤانۆڤیچ لۆباچەڤسکی
-    ku-latn: Nîkolay Îvanovîç Lobaçevskî
+    ku_arab: نیکۆلایئی ڤانۆڤیچ لۆباچەڤسکی
+    ku_latn: Nîkolay Îvanovîç Lobaçevskî
     ky: Лобачевский Николай Иванович
     la: Nicolaus Lobačevskij
     lfn: Nicolai Lobatxevsci
@@ -213,7 +213,7 @@ dv_has_:
     pl: Nikołaj Łobaczewski
     pms: Nikolaj Ivanovič Lobačevskij
     pt: Nikolai Lobachevsky
-    pt-br: Nikolai Lobachevsky
+    pt_br: Nikolai Lobachevsky
     ro: Nikolai Ivanovici Lobacevski
     ru: Николай Иванович Лобачевский
     rue: Николай Лобачевскый
@@ -225,8 +225,8 @@ dv_has_:
     sl: Nikolaj Lobačevski
     sq: Nikolai Ivanovich Lobachevsky
     sr: Николај Лобачевски
-    sr-ec: Николај Лобачевски
-    sr-el: Nikolaj Lobačevski
+    sr_ec: Николај Лобачевски
+    sr_el: Nikolaj Lobačevski
     sv: Nikolaj Lobatjevskij
     th: นิโคไล โลบาเชฟสกี
     tr: Nikolay İvanoviç Lobaçevski
@@ -239,12 +239,12 @@ dv_has_:
     xmf: ნიკოლაი ლობაჩევსკი
     yue: 羅巴切夫斯基
     zh: 羅巴切夫斯基
-    zh-cn: 罗巴切夫斯基
-    zh-hans: 罗巴切夫斯基
-    zh-hant: 羅巴切夫斯基
-    zh-hk: 羅巴切夫斯基
-    zh-sg: 罗巴切夫斯基
-    zh-tw: 羅巴切夫斯基
+    zh_cn: 罗巴切夫斯基
+    zh_hans: 罗巴切夫斯基
+    zh_hant: 羅巴切夫斯基
+    zh_hk: 羅巴切夫斯基
+    zh_sg: 罗巴切夫斯基
+    zh_tw: 羅巴切夫斯基
 ---
 # [[Lobachevsky,Nikolai_Ivanovich]] 
 

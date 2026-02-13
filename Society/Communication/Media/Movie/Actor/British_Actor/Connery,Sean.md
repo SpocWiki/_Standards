@@ -172,13 +172,13 @@ dv_has_:
     bar: Sean Connery
     bcl: Sean Connery
     be: Шон Конэры
-    be-tarask: Шон Конэры
+    be_tarask: Шон Конэры
     bg: Шон Конъри
     bn: শন কনারি
     br: Sean Connery
     bs: Sean Connery
     ca: Sean Connery
-    cbk-zam: Sean Connery
+    cbk_zam: Sean Connery
     ckb: شۆن کۆنەری
     co: Sean Connery
     cs: Sean Connery
@@ -187,14 +187,14 @@ dv_has_:
     da: Sean Connery
     de: Sean Connery
     de-at: Sean Connery
-    de-ch: Sean Connery
+    de_ch: Sean Connery
     dsb: Sean Connery
     dtp: Sean Connery
     el: Σον Κόνερι
     eml: Sean Connery
     en: Sean Connery
-    en-ca: Sean Connery
-    en-gb: Sean Connery
+    en_ca: Sean Connery
+    en_gb: Sean Connery
     en-us: Sean Connery
     eo: Sean Connery
     es: Sean Connery
@@ -261,7 +261,7 @@ dv_has_:
     nap: Sean Connery
     nb: Sean Connery
     nds: Sean Connery
-    nds-nl: Sean Connery
+    nds_nl: Sean Connery
     nl: Sean Connery
     nn: Sean Connery
     nov: Sean Connery
@@ -275,7 +275,7 @@ dv_has_:
     pnb: شان کونری
     ps: توماس شېن کانېري
     pt: Sean Connery
-    pt-br: Sean Connery
+    pt_br: Sean Connery
     qu: Sean Connery
     rm: Sean Connery
     ro: Sean Connery
@@ -288,8 +288,8 @@ dv_has_:
     sl: Sean Connery
     sq: Sean Connery
     sr: Шон Конери
-    sr-ec: Шон Конери
-    sr-el: Sean Connery
+    sr_ec: Шон Конери
+    sr_el: Sean Connery
     su: Sean Connery
     sv: Sean Connery
     sw: Sean Connery
@@ -314,13 +314,13 @@ dv_has_:
     yo: Sean Connery
     yue: 辛康納利
     zh: 肖恩·康纳利
-    zh-cn: 肖恩·康纳利
-    zh-hans: 肖恩·康纳利
-    zh-hant: 史恩·康納萊
-    zh-hk: 辛·康納利
+    zh_cn: 肖恩·康纳利
+    zh_hans: 肖恩·康纳利
+    zh_hant: 史恩·康納萊
+    zh_hk: 辛·康納利
     zh-my: 辛·康纳利
-    zh-sg: 辛·康纳利
-    zh-tw: 史恩·康納萊
+    zh_sg: 辛·康纳利
+    zh_tw: 史恩·康納萊
     zu: Sean Connery
 ---
 # [[Connery,Sean]] 

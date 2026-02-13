@@ -72,7 +72,7 @@ dv_has_:
     ast: Electrón de valencia
     ba: Валент электрондар
     be: валентны электрон
-    be-tarask: валентны электрон
+    be_tarask: валентны электрон
     bg: Валентен електрон
     bn: যোজ্যতা ইলেকট্রন
     bs: Valentni elektron
@@ -83,8 +83,8 @@ dv_has_:
     de: Valenzelektron
     el: Ελεύθερο ηλεκτρόνιο
     en: valence electron
-    en-ca: Valence electron
-    en-gb: Valence electron
+    en_ca: Valence electron
+    en_gb: Valence electron
     eo: valentelektrono
     es: electrón de valencia
     et: valentselektron
@@ -116,15 +116,15 @@ dv_has_:
     om: Vaalaansii elektiroonii
     pl: elektron walencyjny
     pt: electrão de valência
-    pt-br: Eletrão de valência
+    pt_br: Eletrão de valência
     ro: electron de valență
     ru: валентный электрон
     sh: Valentni elektron
     sk: Valenčný elektrón
     sms: valeʹnsselektroon
     sr: валентни електрони
-    sr-ec: валентни електрони
-    sr-el: Valentni elektroni
+    sr_ec: валентни електрони
+    sr_el: Valentni elektroni
     sv: valenselektron
     ta: இணைதிறன் எதிர்மின்னி
     th: เวเลนซ์อิเล็กตรอน
@@ -134,12 +134,12 @@ dv_has_:
     vi: Electron hóa trị
     yue: 價電子
     zh: 價電子
-    zh-cn: 价电子
-    zh-hans: 价电子
-    zh-hant: 價電子
-    zh-hk: 價電子
-    zh-sg: 价电子
-    zh-tw: 價電子
+    zh_cn: 价电子
+    zh_hans: 价电子
+    zh_hant: 價電子
+    zh_hk: 價電子
+    zh_sg: 价电子
+    zh_tw: 價電子
 ---
 # [[Valence_Electron]] 
 

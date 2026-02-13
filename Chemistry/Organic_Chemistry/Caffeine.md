@@ -261,7 +261,7 @@ dv_has_:
     ast: cafeína
     az: kofein
     be: кафеін
-    be-tarask: кафэін
+    be_tarask: кафэін
     bg: кофеин
     bn: ক্যাফেইন
     bs: kofein
@@ -271,11 +271,11 @@ dv_has_:
     cy: caffein
     da: koffein
     de: Coffein
-    de-ch: Coffein
+    de_ch: Coffein
     el: καφεΐνη
     en: caffeine
-    en-ca: caffeine
-    en-gb: caffeine
+    en_ca: caffeine
+    en_gb: caffeine
     eo: kafeino
     es: cafeína
     et: kofeiin
@@ -324,7 +324,7 @@ dv_has_:
     pnb: کیفین
     ps: کوفین
     pt: cafeína
-    pt-br: cafeína
+    pt_br: cafeína
     ro: cafeina
     ru: кофеин
     sah: кофеин

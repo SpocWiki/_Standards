@@ -40,7 +40,7 @@ dv_has_:
     oc: Isotomidae
     pl: Isotomidae
     pt: Isotomidae
-    pt-br: Isotomidae
+    pt_br: Isotomidae
     ro: Isotomidae
     ru: Изотомиды
     sq: Isotomidae
@@ -51,9 +51,9 @@ dv_has_:
     vo: Isotomidae
     war: Isotomidae
     zh: 等节跳虫科
-    zh-cn: 等节跳虫科
-    zh-hans: 等节跳虫科
-    zh-tw: 等节跳虫科
+    zh_cn: 等节跳虫科
+    zh_hans: 等节跳虫科
+    zh_tw: 等节跳虫科
 ---
 # [[Isotomidae]]  
 

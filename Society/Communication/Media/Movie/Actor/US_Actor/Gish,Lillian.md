@@ -116,7 +116,7 @@ dv_has_:
     azb: لیلین قیش
     ba: Лиллиан Гиш
     be: Ліліян Гіш
-    be-tarask: Ліліян Гіш
+    be_tarask: Ліліян Гіш
     bg: Лилиан Гиш
     bi: Lillian Gish
     bn: লিলিয়ান গিশ
@@ -129,8 +129,8 @@ dv_has_:
     de: Lillian Gish
     el: Λίλιαν Γκις
     en: Lillian Gish
-    en-ca: Lillian Gish
-    en-gb: Lillian Gish
+    en_ca: Lillian Gish
+    en_gb: Lillian Gish
     eo: Lillian Gish
     es: Lillian Gish
     et: Lillian Gish
@@ -179,7 +179,7 @@ dv_has_:
     pl: Lillian Gish
     pnb: لیلیان گیش
     pt: Lillian Gish
-    pt-br: Lillian Gish
+    pt_br: Lillian Gish
     ro: Lillian Gish
     ru: Лиллиан Гиш
     sco: Lillian Gish
@@ -203,11 +203,11 @@ dv_has_:
     wuu: 莉莲·吉什
     yue: 呂倫居殊
     zh: 莉蓮·吉許
-    zh-hant: 莉蓮·吉許
-    zh-hk: 呂倫·居殊
+    zh_hant: 莉蓮·吉許
+    zh_hk: 呂倫·居殊
     zh-my: 丽莲·姬丝
-    zh-sg: 丽琳·甘许
-    zh-tw: 莉蓮·吉許
+    zh_sg: 丽琳·甘许
+    zh_tw: 莉蓮·吉許
 ---
 # [[Gish,Lillian]] 
 

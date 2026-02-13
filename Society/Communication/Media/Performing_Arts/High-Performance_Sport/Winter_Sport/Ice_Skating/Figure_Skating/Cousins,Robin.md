@@ -45,7 +45,7 @@ dv_has_:
     ast: Robin Cousins
     ba: Робин Казинс
     bar: Robin Cousins
-    be-tarask: Робін Казынз
+    be_tarask: Робін Казынз
     bm: Robin Cousins
     br: Robin Cousins
     ca: Robin Cousins
@@ -55,10 +55,10 @@ dv_has_:
     da: Robin Cousins
     de: Robin Cousins
     de-at: Robin Cousins
-    de-ch: Robin Cousins
+    de_ch: Robin Cousins
     en: Robin Cousins
-    en-ca: Robin Cousins
-    en-gb: Robin Cousins
+    en_ca: Robin Cousins
+    en_gb: Robin Cousins
     eo: Robin Cousins
     es: Robin Cousins
     et: Robin Cousins
@@ -97,7 +97,7 @@ dv_has_:
     nap: Robin Cousins
     nb: Robin Cousins
     nds: Robin Cousins
-    nds-nl: Robin Cousins
+    nds_nl: Robin Cousins
     nl: Robin Cousins
     nn: Robin Cousins
     nrm: Robin Cousins
@@ -109,7 +109,7 @@ dv_has_:
     pms: Robin Cousins
     prg: Robin Cousins
     pt: Robin Cousins
-    pt-br: Robin Cousins
+    pt_br: Robin Cousins
     rgn: Robin Cousins
     rm: Robin Cousins
     ro: Robin Cousins

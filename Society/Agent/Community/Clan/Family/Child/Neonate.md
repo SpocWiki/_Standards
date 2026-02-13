@@ -77,7 +77,7 @@ dv_has_:
     ar: حديث الولادة
     ast: Neonato
     be: нованароджанае дзіця
-    be-tarask: навародак
+    be_tarask: навародак
     bo: ཕྲུ་གུ་སྨར་འབྱར།
     bs: Novorođenče
     ca: nounat
@@ -101,7 +101,7 @@ dv_has_:
     ja: 新生児
     kk: Емшектегі бала
     ko: 신생아
-    ku-latn: nûza
+    ku_latn: nûza
     la: Neonatus
     lt: Naujagimis
     lv: jaundzimušais
@@ -111,7 +111,7 @@ dv_has_:
     nn: nyfødd
     pl: noworodek
     pt: recém-nascido
-    pt-br: recém-nascido
+    pt_br: recém-nascido
     qu: Antaykira
     ro: nou-născut
     ru: новорождённый
@@ -120,7 +120,7 @@ dv_has_:
     sk: novorodenec
     sl: novorojenček
     sr: новорођенче
-    sr-ec: новорођенче
+    sr_ec: новорођенче
     sv: nyfödd
     tg: Навзод
     tr: Yenidoğan dönemi

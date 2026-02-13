@@ -393,7 +393,7 @@ dv_has_:
   name_:
     ab: Науру
     ace: Nauru
-    aeb-arab: ناورو
+    aeb_arab: ناورو
     af: Nauru
     am: ናውሩ
     ami: Nauru
@@ -413,7 +413,7 @@ dv_has_:
     bar: Nauru
     bcl: Nauru
     be: Науру
-    be-tarask: Науру
+    be_tarask: Науру
     bew: Nauru
     bg: Науру
     bi: Nauru
@@ -425,7 +425,7 @@ dv_has_:
     bs: Nauru
     bxr: Науру
     ca: Nauru
-    cbk-zam: Nauru
+    cbk_zam: Nauru
     cdo: Nauru
     ce: Науру
     ceb: Nauru
@@ -433,22 +433,22 @@ dv_has_:
     chy: Nauru
     ckb: نائووروو
     crh: Nauru
-    crh-latn: Nauru
+    crh_latn: Nauru
     cs: Nauru
     cu: Наоуроу
     cy: Nawrw
     da: Nauru
     de: Nauru
     de-at: Nauru
-    de-ch: Nauru
+    de_ch: Nauru
     diq: Nauru
     dsb: Nauru
     dty: नाउरु
     dv: ނައުރޫ
     el: Ναουρού
     en: Nauru
-    en-ca: Nauru
-    en-gb: Nauru
+    en_ca: Nauru
+    en_gb: Nauru
     eo: Nauro
     es: Nauru
     et: Nauru
@@ -471,7 +471,7 @@ dv_has_:
     gn: Náuru
     gom: नौरु
     gom-deva: नौरु
-    gom-latn: Nauru
+    gom_latn: Nauru
     gor: Nauru
     got: "\U0001033D\U00010330\U0001033F\U00010342\U0001033F"
     gpe: Nauru
@@ -540,7 +540,7 @@ dv_has_:
     nan: Nauru
     nb: Nauru
     nds: Nauru
-    nds-nl: Nauro
+    nds_nl: Nauro
     ne: नाउरू
     new: नाउरु
     nl: Nauru
@@ -560,7 +560,7 @@ dv_has_:
     pnb: ناورو
     ps: نايورو
     pt: Nauru
-    pt-br: Nauru
+    pt_br: Nauru
     qu: Nawru
     rm: Nauru
     rmy: Nauru
@@ -588,7 +588,7 @@ dv_has_:
     so: Nawru
     sq: Naurua
     sr: Науру
-    sr-ec: Науру
+    sr_ec: Науру
     su: Nauru
     sv: Nauru
     sw: Nauru
@@ -630,14 +630,14 @@ dv_has_:
     za: Nauru
     zea: Nauru
     zh: 瑙鲁
-    zh-cn: 瑙鲁
-    zh-hans: 瑙鲁
-    zh-hant: 瑙魯
-    zh-hk: 瑙魯
-    zh-mo: 瑙魯
+    zh_cn: 瑙鲁
+    zh_hans: 瑙鲁
+    zh_hant: 瑙魯
+    zh_hk: 瑙魯
+    zh_mo: 瑙魯
     zh-my: 瑙鲁
-    zh-sg: 瑙鲁
-    zh-tw: 諾魯
+    zh_sg: 瑙鲁
+    zh_tw: 諾魯
     zu: i-Nauru
 ---
 # [[Nauru]] 

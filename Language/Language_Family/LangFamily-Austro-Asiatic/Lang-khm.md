@@ -170,7 +170,7 @@ Glottolog_code:
 Krugosvet_article_archived_: gumanitarnye_nauki/lingvistika/KHMERSKI_YAZIK.html
 dv_has_:
   name_:
-    aeb-arab: الخميري
+    aeb_arab: الخميري
     af: Khmer
     anp: खमेर भाषा
     ar: الخميرية
@@ -183,7 +183,7 @@ dv_has_:
     ban: Basa Khmér
     bcl: Tataramon na Khmer
     be: Кхмерская мова
-    be-tarask: Кхмэрская мова
+    be_tarask: Кхмэрская мова
     bg: Кхмерски език
     bho: ख्मेर भाषा
     bn: খ্মের ভাষা
@@ -199,11 +199,11 @@ dv_has_:
     cy: Chmereg
     da: Khmer
     de: Khmer
-    de-ch: Khmer-Sprache
+    de_ch: Khmer-Sprache
     el: Καμποτζιανά
     en: Khmer
-    en-ca: Khmer
-    en-gb: Khmer
+    en_ca: Khmer
+    en_gb: Khmer
     en-us: Khmer
     eo: kmera lingvo
     es: camboyano
@@ -267,7 +267,7 @@ dv_has_:
     pnb: کھمیر
     ps: خمر ژبه
     pt: Língua khmer
-    pt-br: Língua khmer
+    pt_br: Língua khmer
     qu: Khimir simi
     ro: limba khmeră
     ru: кхмерский язык
@@ -302,9 +302,9 @@ dv_has_:
     yi: קאמבאדיש
     yue: 高棉文
     zh: 高棉语
-    zh-cn: 高棉语
-    zh-hant: 高棉語
-    zh-tw: 高棉語
+    zh_cn: 高棉语
+    zh_hant: 高棉語
+    zh_tw: 高棉語
     zu: isi-Khmer
 ---
 # [[Lang-khm]] 

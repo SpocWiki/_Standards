@@ -70,7 +70,7 @@ dv_has_:
     az: operetta
     bar: Oparettn
     be: аперэта
-    be-tarask: апэрэта
+    be_tarask: апэрэта
     bg: оперета
     bs: Opereta
     ca: opereta
@@ -103,11 +103,11 @@ dv_has_:
     ja: オペレッタ
     ka: ოპერეტა
     kk: оперетта
-    kk-arab: وپەرەتتا
+    kk_arab: وپەرەتتا
     kk-cn: وپەرەتتا
-    kk-cyrl: оперетта
+    kk_cyrl: оперетта
     kk-kz: оперетта
-    kk-latn: operetta
+    kk_latn: operetta
     kk-tr: operetta
     ko: 오페레타
     ky: оперетта
@@ -131,8 +131,8 @@ dv_has_:
     sk: opereta
     sl: opereta
     sr: оперета
-    sr-ec: оперета
-    sr-el: opereta
+    sr_ec: оперета
+    sr_el: opereta
     sv: operett
     tg: оперетта
     tr: operet
@@ -144,12 +144,12 @@ dv_has_:
     xmf: ოპერეტა
     yue: 輕歌劇
     zh: 轻歌剧
-    zh-cn: 轻歌剧
-    zh-hans: 轻歌剧
-    zh-hant: 輕歌劇
-    zh-hk: 輕歌劇
-    zh-sg: 轻歌剧
-    zh-tw: 輕歌劇
+    zh_cn: 轻歌剧
+    zh_hans: 轻歌剧
+    zh_hant: 輕歌劇
+    zh_hk: 輕歌劇
+    zh_sg: 轻歌剧
+    zh_tw: 輕歌劇
 ---
 # [[Operetta]] 
 

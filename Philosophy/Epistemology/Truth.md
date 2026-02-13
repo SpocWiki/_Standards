@@ -182,7 +182,7 @@ dv_has_:
     bar: Woarheit
     bcl: Katotoohan
     be: ісціна
-    be-tarask: ісьціна
+    be_tarask: ісьціна
     bg: Истина
     bn: সত্য
     br: gwirionez
@@ -200,8 +200,8 @@ dv_has_:
     de: Wahrheit
     el: αλήθεια
     en: truth
-    en-ca: Truth
-    en-gb: truth
+    en_ca: Truth
+    en_gb: truth
     en-us: truth
     eo: vero
     es: verdad
@@ -285,7 +285,7 @@ dv_has_:
     pnt: ορθία
     ps: حقیقت
     pt: verdade
-    pt-br: verdade
+    pt_br: verdade
     qu: Chiqap
     ro: adevăr
     ru: истина
@@ -315,7 +315,7 @@ dv_has_:
     tl: Katotohanan
     tr: gerçek
     tt: хакыйкать
-    tt-cyrl: хакыйкать
+    tt_cyrl: хакыйкать
     tw: nokware
     udm: зэмлык
     uk: істина

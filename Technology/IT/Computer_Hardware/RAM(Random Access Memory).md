@@ -131,18 +131,18 @@ dv_has_:
     az: operativ yaddaş qurğusu
     azb: رم(کامپیوتر)
     be: памяць з адвольным доступам
-    be-tarask: памяць з адвольным доступам
+    be_tarask: памяць з адвольным доступам
     bg: памет с произволен достъп
     bn: র্যান্ডম অ্যাক্সেস মেমোরি
     br: memor bresk
     ca: memòria d'accés aleatori
     ckb: بیرگەی دەستپێگەیشتن-بەھەڵکەوت
     de: Random-Access Memory
-    de-ch: Random-Access Memory
+    de_ch: Random-Access Memory
     el: μνήμη τυχαίας προσπέλασης
     en: random-access memory
-    en-ca: random-access memory
-    en-gb: random-access memory
+    en_ca: random-access memory
+    en_gb: random-access memory
     eo: ĉefmemoro
     es: memoria de acceso aleatorio
     et: muutmälu
@@ -189,7 +189,7 @@ dv_has_:
     pnb: ریم
     ps: ريم
     pt: memória de acesso aleatório
-    pt-br: memória de acesso randômico
+    pt_br: memória de acesso randômico
     ro: RAM
     ru: запоминающее устройство с произвольным доступом
     rue: операчна память
@@ -215,8 +215,8 @@ dv_has_:
     xmf: ოპერატიული შვენა
     yi: RAM זיכרון
     zh: 随机存取存储器
-    zh-hant: 隨機存取記憶體
-    zh-tw: 隨機存取記憶體
+    zh_hant: 隨機存取記憶體
+    zh_tw: 隨機存取記憶體
 ---
 # [[RAM(Random Access Memory)]] 
 

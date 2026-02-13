@@ -78,7 +78,7 @@ dv_has_:
     ar: ترمل
     az: dul
     be: удоўства
-    be-tarask: удоўства
+    be_tarask: удоўства
     br: intañvelezh
     ca: viduïtat
     cs: vdovectví
@@ -90,8 +90,8 @@ dv_has_:
     el: χηρεία
     eml: vèdev
     en: widowhood
-    en-ca: widowhood
-    en-gb: widowhood
+    en_ca: widowhood
+    en_gb: widowhood
     eo: vidveco aŭ vidvineco
     es: viudez
     eu: alarguntza
@@ -116,7 +116,7 @@ dv_has_:
     nn: enkjestand
     pl: wdowieństwo
     pt: viuvez
-    pt-br: viuvez
+    pt_br: viuvez
     ro: văduvie
     ru: вдовство
     se: leaskavuohta
@@ -124,15 +124,15 @@ dv_has_:
     smn: leskâvuotâ
     sms: liâskkvuõtt
     sr: удовство
-    sr-el: udovstvo
+    sr_el: udovstvo
     sv: änkestånd och änklingsstånd
     tr: dulluk
     uk: вдівство
     uz: bevalik
     yue: 喪偶
     zh: 丧偶
-    zh-hans: 丧偶
-    zh-hant: 喪偶
+    zh_hans: 丧偶
+    zh_hant: 喪偶
 ---
 # [[Widowhood]] 
 

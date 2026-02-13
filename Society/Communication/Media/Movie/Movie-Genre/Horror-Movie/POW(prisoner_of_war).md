@@ -95,7 +95,7 @@ dv_has_:
     az: Əsir
     azb: ساواش اسیری
     be: ваеннапалонны
-    be-tarask: ваеннапалонны
+    be_tarask: ваеннапалонны
     bg: Военнопленник
     bn: যুদ্ধবন্দি
     br: prizoniad brezel
@@ -167,8 +167,8 @@ dv_has_:
     sms: väinnpleân
     sq: rob lufte
     sr: ратни заробљеник
-    sr-ec: Ратни заробљеници
-    sr-el: ratni zarobljenici
+    sr_ec: Ратни заробљеници
+    sr_el: ratni zarobljenici
     sv: krigsfånge
     ta: போர்க் கைதி
     th: เชลยศึก
@@ -182,12 +182,12 @@ dv_has_:
     yi: געפֿאַנגענער
     yue: 戰俘
     zh: 战俘
-    zh-cn: 战俘
-    zh-hans: 战俘
-    zh-hant: 戰俘
-    zh-hk: 戰俘
-    zh-sg: 战俘
-    zh-tw: 戰俘
+    zh_cn: 战俘
+    zh_hans: 战俘
+    zh_hant: 戰俘
+    zh_hk: 戰俘
+    zh_sg: 战俘
+    zh_tw: 戰俘
 ---
 > A prisoner of war (**POW**) is a person who is held captive by a belligerent power 
 > during or immediately after an armed conflict. 

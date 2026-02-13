@@ -123,7 +123,7 @@ dv_has_:
     az: Şərqi Avropa düzənliyi
     ba: Көнсығыш-Европа тигеҙлеге
     be: Усходне-Еўрапейская раўніна
-    be-tarask: Усходне-Эўрапейская раўніна
+    be_tarask: Усходне-Эўрапейская раўніна
     bg: Източноевропейска равнина
     ca: plana europea oriental
     ce: Малхбален-Европин аре
@@ -154,11 +154,11 @@ dv_has_:
     ja: 東ヨーロッパ平原
     ka: აღმოსავლეთ ევროპის ვაკე
     kk: Шығыс Еуропа жазығы
-    kk-arab: شىعىس ەۋروپا جازىعى
+    kk_arab: شىعىس ەۋروپا جازىعى
     kk-cn: شىعىس ەۋروپا جازىعى
-    kk-cyrl: Шығыс Еуропа жазығы
+    kk_cyrl: Шығыс Еуропа жазығы
     kk-kz: Шығыс Еуропа жазығы
-    kk-latn: Şığıs Ewropa jazığı
+    kk_latn: Şığıs Ewropa jazığı
     kk-tr: Şığıs Ewropa jazığı
     ko: 동유럽 평원
     ky: Чыгыш Европа түздүгү
@@ -179,8 +179,8 @@ dv_has_:
     sk: Východoeurópska nížina
     sl: Vzhodnoevropsko nižavje
     sr: Источноевропска низија
-    sr-ec: Источноевропска низија
-    sr-el: Istočnoevropska nizija
+    sr_ec: Источноевропска низија
+    sr_el: Istočnoevropska nizija
     sv: Östeuropeiska slätten
     sw: Tambarare ya Ulaya ya Mashariki
     ta: கிழக்கு ஐரோப்பிய சமவெளி
@@ -193,12 +193,12 @@ dv_has_:
     xmf: ბჟაეიოლი ევროპაშ ვე
     yue: 東歐平原
     zh: 东欧平原
-    zh-cn: 东欧平原
-    zh-hans: 东欧平原
-    zh-hant: 東歐平原
-    zh-hk: 東歐平原
-    zh-sg: 东欧平原
-    zh-tw: 東歐平原
+    zh_cn: 东欧平原
+    zh_hans: 东欧平原
+    zh_hant: 東歐平原
+    zh_hk: 東歐平原
+    zh_sg: 东欧平原
+    zh_tw: 東歐平原
 ---
 # [[East_European_Plain]]
 

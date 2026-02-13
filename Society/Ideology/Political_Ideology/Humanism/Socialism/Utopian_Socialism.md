@@ -73,10 +73,10 @@ dv_has_:
   name_:
     ar: اشتراكية خيالية
     ast: Socialismu utópicu
-    be-tarask: утапічны сацыялізм
+    be_tarask: утапічны сацыялізм
     bn: কল্পলৌকিক সমাজতন্ত্র
     ca: socialisme utòpic
-    cbk-zam: utópico socialismo
+    cbk_zam: utópico socialismo
     ceb: Utopikong Sosyalismo
     cs: utopický socialismus
     da: Utopisk socialisme
@@ -103,11 +103,11 @@ dv_has_:
     ja: 空想的社会主義
     ka: უტოპიური სოციალიზმი
     kk: Утопиялық социализм
-    kk-arab: ۋتوپىييالىق سوتسىيالىيزم
+    kk_arab: ۋتوپىييالىق سوتسىيالىيزم
     kk-cn: ۋتوپىييالىق سوتسىيالىيزم
-    kk-cyrl: Утопиялық социализм
+    kk_cyrl: Утопиялық социализм
     kk-kz: Утопиялық социализм
-    kk-latn: Wtopïyalıq socïalïzm
+    kk_latn: Wtopïyalıq socïalïzm
     kk-tr: Wtopïyalıq socïalïzm
     ko: 공상적 사회주의
     krj: Utopiko nga Sosyalismo
@@ -139,12 +139,12 @@ dv_has_:
     vi: Chủ nghĩa xã hội không tưởng
     vls: Vroeg socialisme
     zh: 空想社会主义
-    zh-cn: 空想社会主义
-    zh-hans: 空想社会主义
-    zh-hant: 空想社會主義
-    zh-hk: 空想社會主義
-    zh-sg: 空想社会主义
-    zh-tw: 空想社會主義
+    zh_cn: 空想社会主义
+    zh_hans: 空想社会主义
+    zh_hant: 空想社會主義
+    zh_hk: 空想社會主義
+    zh_sg: 空想社会主义
+    zh_tw: 空想社會主義
 ---
 # [[Utopian_Socialism]] 
 

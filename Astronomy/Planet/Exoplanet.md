@@ -145,7 +145,7 @@ dv_has_:
     az: Ekzoplanet
     bcl: Eksoplaneta
     be: Экзапланета
-    be-tarask: экзаплянэта
+    be_tarask: экзаплянэта
     bg: Екзопланета
     bn: বহির্গ্রহ
     br: Ezplanedenn
@@ -158,11 +158,11 @@ dv_has_:
     cy: planed allheulol
     da: exoplanet
     de: Exoplanet
-    de-ch: Extrasolarer Planet
+    de_ch: Extrasolarer Planet
     el: Εξωηλιακός πλανήτης
     en: exoplanet
-    en-ca: Extrasolar planet
-    en-gb: extrasolar planet
+    en_ca: Extrasolar planet
+    en_gb: extrasolar planet
     eo: ekstersunsistema planedo
     es: planeta extrasolar
     et: eksoplaneet
@@ -218,7 +218,7 @@ dv_has_:
     pnb: سورجوں پرے پاندھی
     ps: له لمریز نظام بهر سیاره
     pt: exoplaneta
-    pt-br: Exoplaneta
+    pt_br: Exoplaneta
     ro: Exoplanetă
     ru: экзопланета
     scn: pianeta extrasulari
@@ -233,8 +233,8 @@ dv_has_:
     sms: eksoplaneʹtt
     sq: Ekzoplaneti
     sr: вансоларна планета
-    sr-ec: вансоларна планета
-    sr-el: вансоларна планета
+    sr_ec: вансоларна планета
+    sr_el: вансоларна планета
     sv: exoplanet
     sw: Sayari ya nje
     ta: புறக்கோள்

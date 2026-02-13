@@ -127,7 +127,7 @@ dv_has_:
     ast: Ana Karenina
     az: Anna Karenina
     be: Ганна Карэніна
-    be-tarask: Ганна Карэніна
+    be_tarask: Ганна Карэніна
     bg: Ана Каренина
     bn: আন্না কারেনিনা
     bo: ༄༅།། ཨན་ན་ཁ་ལི་ཉེ་ན།
@@ -184,7 +184,7 @@ dv_has_:
     pl: Anna Karenina
     pnb: انا کرینینا
     pt: Anna Karenina
-    pt-br: Anna Karenina
+    pt_br: Anna Karenina
     pwn: anna karinina
     ro: Anna Karenina
     ru: Анна Каренина
@@ -194,8 +194,8 @@ dv_has_:
     sl: Ana Karenina
     sq: Anna Karenina
     sr: Ана Карењина
-    sr-ec: Ана Карењина
-    sr-el: Ana Karenjina
+    sr_ec: Ана Карењина
+    sr_el: Ana Karenjina
     sv: Anna Karenina
     szy: ci An-na Ka-liey-ni-na
     ta: அன்னா கரேனினா
@@ -209,12 +209,12 @@ dv_has_:
     yi: אננא קארענינא
     yue: 安娜卡妲尼娜
     zh: 安娜·卡列尼娜
-    zh-cn: 安娜·卡列尼娜
-    zh-hans: 安娜·卡列尼娜
-    zh-hant: 安娜·卡列尼娜
-    zh-hk: 安娜·卡列尼娜
-    zh-sg: 安娜·卡列尼娜
-    zh-tw: 安娜·卡列尼娜
+    zh_cn: 安娜·卡列尼娜
+    zh_hans: 安娜·卡列尼娜
+    zh_hant: 安娜·卡列尼娜
+    zh_hk: 安娜·卡列尼娜
+    zh_sg: 安娜·卡列尼娜
+    zh_tw: 安娜·卡列尼娜
 ---
 # [[Anna_Karenina]] 
 

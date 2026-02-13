@@ -76,7 +76,7 @@ dv_has_:
     ast: Diploma
     az: diplom
     be: дыплом
-    be-tarask: дыплём
+    be_tarask: дыплём
     bg: Диплома
     bn: ডিপ্লোমা
     ca: diploma
@@ -109,7 +109,7 @@ dv_has_:
     kk: Диплом
     ko: 디플로마
     ku: bawername
-    ku-latn: bawername
+    ku_latn: bawername
     ky: Диплом
     la: Diploma
     ln: Lipɔlɔ́mi
@@ -128,7 +128,7 @@ dv_has_:
     pl: świadectwo
     ps: ډېپلومه
     pt: diploma
-    pt-br: diploma
+    pt_br: diploma
     ro: diplomă
     ru: диплом
     sah: Диплом
@@ -151,12 +151,12 @@ dv_has_:
     wuu: 文凭
     yue: 文憑
     zh: Diploma
-    zh-cn: Diploma
-    zh-hans: Diploma
-    zh-hant: Diploma
-    zh-hk: Diploma
-    zh-sg: Diploma
-    zh-tw: Diploma
+    zh_cn: Diploma
+    zh_hans: Diploma
+    zh_hant: Diploma
+    zh_hk: Diploma
+    zh_sg: Diploma
+    zh_tw: Diploma
 ---
 # [[Diploma]] 
 

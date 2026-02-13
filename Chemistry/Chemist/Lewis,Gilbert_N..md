@@ -119,7 +119,7 @@ dv_has_:
     az: Gilbert Nyuton Lyuis
     azb: قیلبرت لوییس
     be: Гілберт Ньютан Льюіс
-    be-tarask: Гілбэрт Ньютан Льюіс
+    be_tarask: Гілбэрт Ньютан Льюіс
     bg: Гилбърт Люис
     bn: গিলবার্ট নিউটন লুইস
     ca: Gilbert Newton Lewis
@@ -163,7 +163,7 @@ dv_has_:
     pl: Gilbert Newton Lewis
     pnb: گلبرٹ لیوس
     pt: Gilbert Newton Lewis
-    pt-br: Gilbert Newton Lewis
+    pt_br: Gilbert Newton Lewis
     ro: Gilbert Newton Lewis
     ru: Гилберт Ньютон Льюис
     sco: Gilbert N. Lewis
@@ -171,8 +171,8 @@ dv_has_:
     sl: Gilbert Newton Lewis
     sq: Gilbert Newton Lewis
     sr: Гилберт Њутн Луис
-    sr-ec: Гилберт Њутн Луис
-    sr-el: Gilbert Njutn Luis
+    sr_ec: Гилберт Њутн Луис
+    sr_el: Gilbert Njutn Luis
     sv: Gilbert Newton Lewis
     ta: கில்பர்ட் நியூட்டன் லூயிசு
     th: กิลเบิร์ต เอ็น. ลูอิส
@@ -184,12 +184,12 @@ dv_has_:
     xmf: გილბერტ ნიუტონ ლუისი
     yue: 吉爾伯特·牛頓·路易士
     zh: 吉爾伯特·牛頓·路易士
-    zh-cn: 吉尔伯特·牛顿·路易斯
-    zh-hans: 吉尔伯特·牛顿·路易斯
-    zh-hant: 吉爾伯特·牛頓·路易士
-    zh-hk: 吉爾伯特·牛頓·路易士
-    zh-sg: 吉尔伯特·牛顿·路易斯
-    zh-tw: 吉爾伯特·牛頓·路易士
+    zh_cn: 吉尔伯特·牛顿·路易斯
+    zh_hans: 吉尔伯特·牛顿·路易斯
+    zh_hant: 吉爾伯特·牛頓·路易士
+    zh_hk: 吉爾伯特·牛頓·路易士
+    zh_sg: 吉尔伯特·牛顿·路易斯
+    zh_tw: 吉爾伯特·牛頓·路易士
 ---
 # [[Lewis,Gilbert_N.]] 
 

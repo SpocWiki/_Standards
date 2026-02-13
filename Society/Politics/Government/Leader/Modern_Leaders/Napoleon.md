@@ -333,7 +333,7 @@ dv_has_:
     bar: Napoleon Bonaparte
     bcl: Napoleon I
     be: Напалеон I Банапарт
-    be-tarask: Напалеон I Банапарт
+    be_tarask: Напалеон I Банапарт
     bew: Napoléon Bonaparte
     bg: Наполеон I
     bho: नेपोलियन
@@ -345,7 +345,7 @@ dv_has_:
     btm: Napoleon Bonaparte
     bxr: Наполеон Бонапарт
     ca: Napoleó Bonaparte
-    cbk-zam: Napoleon
+    cbk_zam: Napoleon
     cdo: Napoléon Bonaparte
     ce: Наполеон I
     ceb: Napoleon I
@@ -358,15 +358,15 @@ dv_has_:
     cy: Napoleon
     da: Napoleon 1. af Frankrig
     de: Napoleon Bonaparte
-    de-ch: Napoleon Bonaparte
+    de_ch: Napoleon Bonaparte
     diq: Napoleon I
     dty: नेपोलियन बोनापार्ट
     ee: Napoleon Bonaparte
     el: Ναπολέων Α΄ της Γαλλίας
     eml: Napulèòṅ
     en: Napoleon
-    en-ca: Napoleon
-    en-gb: Napoleon
+    en_ca: Napoleon
+    en_gb: Napoleon
     eo: Napoleono Bonaparte
     es: Napoleón Bonaparte
     et: Napoleon I
@@ -462,7 +462,7 @@ dv_has_:
     nap: Napoleone Bonaparte
     nb: Napoléon Bonaparte
     nds: Napoléon Bonaparte
-    nds-nl: Napoleon Bonaparte
+    nds_nl: Napoleon Bonaparte
     ne: नेपोलियन बोनापार्ट
     new: नेपोलियन बोनापार्ट
     nl: Napoleon Bonaparte
@@ -483,7 +483,7 @@ dv_has_:
     pnb: نیپولین
     ps: ناپليون بوناپارت
     pt: Napoleão Bonaparte
-    pt-br: Napoleon Bonaparte
+    pt_br: Napoleon Bonaparte
     qu: Napoléon Bonaparte
     qug: Napolion Bionapartein
     rki: နပိုလီယန်
@@ -547,14 +547,14 @@ dv_has_:
     za: Nazbolunz
     zea: Napoleon
     zh: 拿破崙
-    zh-cn: 拿破仑
-    zh-hans: 拿破仑
-    zh-hant: 拿破崙
-    zh-hk: 拿破崙
-    zh-mo: 拿破崙
+    zh_cn: 拿破仑
+    zh_hans: 拿破仑
+    zh_hant: 拿破崙
+    zh_hk: 拿破崙
+    zh_mo: 拿破崙
     zh-my: 拿破仑
-    zh-sg: 拿破仑
-    zh-tw: 拿破崙
+    zh_sg: 拿破仑
+    zh_tw: 拿破崙
     zu: Napoleon
 ---
 # [[Napoleon]] 

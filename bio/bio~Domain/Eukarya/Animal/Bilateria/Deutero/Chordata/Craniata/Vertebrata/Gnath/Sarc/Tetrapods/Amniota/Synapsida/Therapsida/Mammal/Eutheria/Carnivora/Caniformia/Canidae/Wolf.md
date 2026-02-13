@@ -317,8 +317,8 @@ dv_has_:
   name_:
     ab: Абгаду
     ady: Тыгъужъ
-    aeb-arab: ذيب
-    aeb-latn: dh'ib
+    aeb_arab: ذيب
+    aeb_latn: dh'ib
     af: wolf
     alt: Бöрÿ
     am: ተኵላ
@@ -338,7 +338,7 @@ dv_has_:
     bar: Wuif
     bcl: Lobo
     be: воўк
-    be-tarask: воўк
+    be_tarask: воўк
     bg: вълк
     bn: নেকড়ে
     bo: སྤྱང་ཀི
@@ -365,7 +365,7 @@ dv_has_:
     el: Λύκος
     eml: Lauv
     en: Canis lupus
-    en-gb: wolf
+    en_gb: wolf
     en-us: wolf
     eo: lupo
     es: lobo
@@ -456,7 +456,7 @@ dv_has_:
     nap: Canis lupus
     nb: ulv
     nds: Wulf
-    nds-nl: wulv
+    nds_nl: wulv
     ne: ब्वाँसो
     nl: wolf
     nn: ulv
@@ -473,7 +473,7 @@ dv_has_:
     pnt: Λύκον
     ps: لېوه
     pt: lobo-cinzento
-    pt-br: Lobo
+    pt_br: Lobo
     qu: Lupu
     rm: Luf
     rmy: Ruv
@@ -529,10 +529,10 @@ dv_has_:
     za: Manaez
     zea: Wolf
     zh: 狼
-    zh-cn: 狼
-    zh-hans: 狼
-    zh-hant: 狼
-    zh-tw: 狼
+    zh_cn: 狼
+    zh_hans: 狼
+    zh_hant: 狼
+    zh_tw: 狼
 ---
 # [[Wolf]] 🐺 
 

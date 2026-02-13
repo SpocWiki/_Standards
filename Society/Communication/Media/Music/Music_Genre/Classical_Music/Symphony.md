@@ -108,7 +108,7 @@ dv_has_:
     azb: سمفونی
     ba: Симфония
     be: сімфонія
-    be-tarask: сымфонія
+    be_tarask: сымфонія
     bg: симфония
     bn: সিম্ফনি
     br: sinfonienn
@@ -171,7 +171,7 @@ dv_has_:
     nan: Kau-hiáng-khek
     nb: symfoni
     nds: Symfonie
-    nds-nl: symfony
+    nds_nl: symfony
     new: सिम्फोनी
     nl: symfonie
     nn: symfoni
@@ -215,8 +215,8 @@ dv_has_:
     yi: סימפאניע
     yue: 交響曲
     zh: 交響曲
-    zh-hans: 交响曲
-    zh-tw: 交響曲
+    zh_hans: 交响曲
+    zh_tw: 交響曲
 ---
 # [[Symphony]] 
 

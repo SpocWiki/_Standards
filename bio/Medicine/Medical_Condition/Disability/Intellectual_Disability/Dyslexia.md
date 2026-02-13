@@ -145,7 +145,7 @@ dv_has_:
     ast: Dislexa
     az: Disleksiya
     azb: دیسکلیسیا
-    be-tarask: Дысьлексія
+    be_tarask: Дысьлексія
     bg: Дислексия
     bn: পঠনবিকার
     ca: dislèxia
@@ -156,7 +156,7 @@ dv_has_:
     cy: dyslecsia
     da: ordblindhed
     de: Lese- und Rechtschreibstörung
-    de-ch: Legasthenie
+    de_ch: Legasthenie
     el: δυσλεξία
     en: dyslexia
     eo: disleksio
@@ -202,7 +202,7 @@ dv_has_:
     pa: ਡਿਸਲੇਕਸੀਆ
     pl: dysleksja
     pt: dislexia
-    pt-br: Dislexia
+    pt_br: Dislexia
     ro: dislexie
     ru: Дислексия
     sh: Disleksija
@@ -211,8 +211,8 @@ dv_has_:
     sl: disleksija
     sq: disleksia
     sr: дислексија
-    sr-ec: Дислексија
-    sr-el: Disleksija
+    sr_ec: Дислексија
+    sr_el: Disleksija
     sv: dyslexi
     ta: புரிந்தும் படிக்க இயலாமை
     te: డిస్లెక్సియా
@@ -230,12 +230,12 @@ dv_has_:
     yi: דיסלעקסיע
     yue: 讀寫障礙
     zh: 失讀症
-    zh-cn: 失读症
-    zh-hans: 失读症
-    zh-hant: 失讀症
-    zh-hk: 失讀症
-    zh-sg: 失读症
-    zh-tw: 失讀症
+    zh_cn: 失读症
+    zh_hans: 失读症
+    zh_hant: 失讀症
+    zh_hk: 失讀症
+    zh_sg: 失读症
+    zh_tw: 失讀症
 ---
 # [[Dyslexia]] 
 

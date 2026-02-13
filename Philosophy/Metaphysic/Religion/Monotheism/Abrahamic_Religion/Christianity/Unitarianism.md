@@ -100,7 +100,7 @@ dv_has_:
     arz: يونيتاريانيه
     ast: Unitarismu
     be: Унітарыянская царква
-    be-tarask: унітарыянства
+    be_tarask: унітарыянства
     bg: унитарианство
     bs: Unitarijanizam
     ca: unitarisme
@@ -168,12 +168,12 @@ dv_has_:
     ur: توحید پرستی
     vi: Nhất vị luận
     zh: 一位论派
-    zh-cn: 一位论派
-    zh-hans: 一位论派
-    zh-hant: 一位論派
-    zh-hk: 一位論派
-    zh-sg: 一位论派
-    zh-tw: 一位論派
+    zh_cn: 一位论派
+    zh_hans: 一位论派
+    zh_hant: 一位論派
+    zh_hk: 一位論派
+    zh_sg: 一位论派
+    zh_tw: 一位論派
 ---
 # [[Unitarianism]] 
 

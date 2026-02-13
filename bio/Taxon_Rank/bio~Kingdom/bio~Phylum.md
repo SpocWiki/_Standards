@@ -124,7 +124,7 @@ dv_has_:
     ban: Pilum
     bar: Stamm
     be: тып
-    be-tarask: тып
+    be_tarask: тып
     bew: Barung (èlmu hayat)
     bg: тип
     bho: संघ
@@ -140,8 +140,8 @@ dv_has_:
     de: Stamm
     el: Συνομοταξία
     en: phylum
-    en-ca: phylum
-    en-gb: phylum
+    en_ca: phylum
+    en_gb: phylum
     en-us: phylum
     eo: filumo
     es: filo
@@ -175,14 +175,14 @@ dv_has_:
     kk: Тип
     ko: 문
     ks: سۄرد
-    ku-latn: liq
+    ku_latn: liq
     la: Phylum
     lb: Stamm
     li: Stam
     lo: ຟີລຳ
     lt: tipas
     lv: tips
-    map-bms: Filum
+    map_bms: Filum
     mk: колено
     ml: ഫൈലം
     ms: Filum
@@ -219,8 +219,8 @@ dv_has_:
     so: Filuum
     sq: Filumi
     sr: раздео
-    sr-ec: раздео
-    sr-el: razdeo
+    sr_ec: раздео
+    sr_el: razdeo
     sv: fylum
     ta: தொகுதி
     te: ప్రాథమిక విభజన
@@ -229,8 +229,8 @@ dv_has_:
     tl: Lapi
     tr: Şube
     tt: тип
-    tt-cyrl: тип
-    tt-latn: tip
+    tt_cyrl: тип
+    tt_latn: tip
     udm: тип
     uk: тип
     ur: ہم نسل
@@ -245,9 +245,9 @@ dv_has_:
     zea: Stamme
     zgh: ⴰⴷⵓⵔ (ⵜⴰⵙⵏⵓⴷⵔⵜ)
     zh: 门
-    zh-cn: 门
-    zh-hant: 門
-    zh-tw: 門
+    zh_cn: 门
+    zh_hant: 門
+    zh_tw: 門
     zu: Umhibatho
 ---
 # [[bio~Phylum]] 

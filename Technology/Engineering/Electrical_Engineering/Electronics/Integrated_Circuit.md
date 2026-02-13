@@ -127,7 +127,7 @@ dv_has_:
     ast: circuitu integráu
     az: İnteqral sxem
     be: інтэгральная схема
-    be-tarask: інтэгральная схема
+    be_tarask: інтэгральная схема
     bg: интегрална схема
     bn: সমন্বিত বর্তনী
     bo: ཉིང་ལྷེབ།
@@ -139,11 +139,11 @@ dv_has_:
     cy: Cylched gyfannol
     da: integreret kredsløb
     de: integrierter Schaltkreis
-    de-ch: Integrierter Schaltkreis
+    de_ch: Integrierter Schaltkreis
     el: Ολοκληρωμένο κύκλωμα
     en: integrated circuit
-    en-ca: Integrated circuit
-    en-gb: integrated circuit
+    en_ca: Integrated circuit
+    en_gb: integrated circuit
     eo: integra cirkvito
     es: circuito integrado
     et: mikrokiip
@@ -196,7 +196,7 @@ dv_has_:
     pms: Circuit integrà
     ps: مدغم سرکېټ (IC)
     pt: circuito integrado
-    pt-br: Circuito integrado
+    pt_br: Circuito integrado
     ro: circuit integrat
     ru: интегральная схема
     scn: circuitu intigratu
@@ -206,8 +206,8 @@ dv_has_:
     sl: integrirano vezje
     sq: qark i integruar
     sr: интегрисано коло
-    sr-ec: интегрисано коло
-    sr-el: integrisano kolo
+    sr_ec: интегрисано коло
+    sr_el: integrisano kolo
     sv: integrerad krets
     ta: தொகுப்புச் சுற்று
     th: วงจรรวม
@@ -223,10 +223,10 @@ dv_has_:
     wuu: 集成电路
     yue: 集成電路
     zh: 集成电路
-    zh-cn: 集成电路
-    zh-hans: 集成电路
-    zh-hant: 積體電路
-    zh-tw: 積體電路
+    zh_cn: 集成电路
+    zh_hans: 集成电路
+    zh_hant: 積體電路
+    zh_tw: 積體電路
 ---
 # [[Integrated_Circuit]] 
 

@@ -129,7 +129,7 @@ dv_has_:
     az: Ezra Paund
     ba: Паунд Эзра
     be: Эзра Паўнд
-    be-tarask: Эзра Паўнд
+    be_tarask: Эзра Паўнд
     bg: Езра Паунд
     bn: এজরা পাউন্ড
     br: Ezra Pound
@@ -143,7 +143,7 @@ dv_has_:
     diq: Ezra Pound
     el: Έζρα Πάουντ
     en: Ezra Pound
-    en-ca: Ezra Pound
+    en_ca: Ezra Pound
     eo: Ezra Pound
     es: Ezra Pound
     et: Ezra Pound
@@ -168,8 +168,8 @@ dv_has_:
     kn: ಎಜ್ರಾ ಪೌಂಡ್
     ko: 에즈라 파운드
     ku: Ezra Pound
-    ku-arab: ئەزرا پۆوند
-    ku-latn: Ezra Pound
+    ku_arab: ئەزرا پۆوند
+    ku_latn: Ezra Pound
     kw: Ezra Pound
     la: Ezra Pound
     lfn: Ezra Pound
@@ -191,7 +191,7 @@ dv_has_:
     pms: Ezra Weston Loomis Pound
     pnb: ازرا پاؤنڈ
     pt: Ezra Pound
-    pt-br: Ezra Pound
+    pt_br: Ezra Pound
     qu: Ezra Pound
     ro: Ezra Pound
     ru: Эзра Паунд
@@ -216,12 +216,12 @@ dv_has_:
     yo: Ezra Pound
     yue: 艾茲拉龐德
     zh: 艾兹拉·庞德
-    zh-cn: 艾兹拉·庞德
-    zh-hans: 艾兹拉·庞德
-    zh-hant: 艾茲拉·龐德
-    zh-hk: 艾茲拉·龐德
-    zh-sg: 艾兹拉·庞德
-    zh-tw: 艾茲拉·龐德
+    zh_cn: 艾兹拉·庞德
+    zh_hans: 艾兹拉·庞德
+    zh_hant: 艾茲拉·龐德
+    zh_hk: 艾茲拉·龐德
+    zh_sg: 艾兹拉·庞德
+    zh_tw: 艾茲拉·龐德
 ---
 # [[Pound,Ezra]] 
 

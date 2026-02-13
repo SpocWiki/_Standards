@@ -82,11 +82,11 @@ dv_has_:
     ar: المجمع الصناعي العسكري
     ast: complexu industrial-militar
     be: Ваенна-прамысловы комплекс
-    be-tarask: вайскова-прамысловы комплекс
+    be_tarask: вайскова-прамысловы комплекс
     bg: военнопромишлен комплекс
     bs: Vojno-industrijski kompleks
     ca: complex militar-industrial
-    cbk-zam: complejo industrial–militar
+    cbk_zam: complejo industrial–militar
     ceb: kumplehong industriyal–militar
     ckb: کۆمەڵەی پیشەسازیی سەربازی
     cs: vojensko-průmyslový komplex
@@ -95,8 +95,8 @@ dv_has_:
     de: Militärisch-industrieller Komplex
     el: στρατιωτικό και βιομηχανικό σύμπλεγμα
     en: military–industrial complex
-    en-ca: military–industrial complex
-    en-gb: military–industrial complex
+    en_ca: military–industrial complex
+    en_gb: military–industrial complex
     eo: armea-industria komplekso
     es: complejo industrial-militar
     et: sõjatööstuskompleks
@@ -114,9 +114,9 @@ dv_has_:
     it: complesso militare-industriale
     ja: 軍産複合体
     kk: Әскери-өнеркәсіп кешені
-    kk-arab: اسكەرىي-وندىرىستىك كەشەن
-    kk-cyrl: Әскери-өндірістік кешен
-    kk-latn: Äskerï-öndiristik keşen
+    kk_arab: اسكەرىي-وندىرىستىك كەشەن
+    kk_cyrl: Әскери-өндірістік кешен
+    kk_latn: Äskerï-öndiristik keşen
     ko: 군산 복합체
     krj: kumpleho industriyal–militar
     la: complex militariae-industriae
@@ -130,7 +130,7 @@ dv_has_:
     pl: kompleks militarno-przemysłowy
     pnb: ملٹری انڈسٹریل کمپلیکس
     pt: complexo militar-industrial
-    pt-br: Complexo militar-industrial
+    pt_br: Complexo militar-industrial
     ro: complex militar-industrial
     ru: военно-промышленный комплекс
     sh: Vojno-industrijski kompleks
@@ -145,9 +145,9 @@ dv_has_:
     ur: ملٹری انڈسٹریل کمپلیکس
     vi: tổ hợp quân sự–công nghiệp
     zh: 军事工业复合体
-    zh-hans: 军事工业复合体
-    zh-hant: 軍事工業複合體
-    zh-hk: 軍事工業複合體
+    zh_hans: 军事工业复合体
+    zh_hant: 軍事工業複合體
+    zh_hk: 軍事工業複合體
 ---
 # [[Military–industrial_Complex]]
 

@@ -16,7 +16,7 @@ dv_has_:
     ab: Қырҭтәыла
     ace: Georgia
     ady: Грузие
-    aeb-arab: جورجيا
+    aeb_arab: جورجيا
     af: Georgië
     am: ጂዮርጂያ
     ami: Georgia
@@ -40,7 +40,7 @@ dv_has_:
     bar: Georgien
     bcl: Georgya
     be: Грузія
-    be-tarask: Грузія
+    be_tarask: Грузія
     bew: Géorgi
     bg: Грузия
     bgn: گرجستان
@@ -55,7 +55,7 @@ dv_has_:
     bs: Gruzija
     bxr: Гүрж
     ca: Geòrgia
-    cbk-zam: Georgia
+    cbk_zam: Georgia
     cdo: Gruzia
     ce: Гуьржийчоь
     ceb: Georgia
@@ -63,7 +63,7 @@ dv_has_:
     ckb: گورجستان
     co: Georgia
     crh: Gürcistan
-    crh-latn: Gürcistan
+    crh_latn: Gürcistan
     cs: Gruzie
     csb: Grëzóńskô
     cu: Гєѡргїꙗ
@@ -73,7 +73,7 @@ dv_has_:
     dag: Georgia
     de: Georgien
     de-at: Georgien
-    de-ch: Georgien
+    de_ch: Georgien
     diq: Gurcıstan
     dsb: Georgiska
     dtp: Republik Georgia
@@ -84,8 +84,8 @@ dv_has_:
     el: Γεωργία
     eml: Geòrgia
     en: Georgia
-    en-ca: Georgia
-    en-gb: Georgia
+    en_ca: Georgia
+    en_gb: Georgia
     en-us: Georgia
     eo: Kartvelio
     es: Georgia
@@ -111,7 +111,7 @@ dv_has_:
     gn: Georgia
     gom: जॉर्जिया
     gom-deva: जॉर्जिया
-    gom-latn: Georgia
+    gom_latn: Georgia
     got: "\U00010332\U00010334\U00010330\U0001033F\U00010342\U00010332\U0001033E\U00010330"
     gpe: Georgia
     gsw: Georgie
@@ -182,7 +182,7 @@ dv_has_:
     mad: Georgia
     mag: जार्जिया
     mai: जर्जिया
-    map-bms: Georgia
+    map_bms: Georgia
     mdf: Грузия
     mg: Jeorjia
     mhr: Грузий
@@ -205,7 +205,7 @@ dv_has_:
     nap: Georgia
     nb: Georgia
     nds: Georgien
-    nds-nl: Georgië
+    nds_nl: Georgië
     ne: जर्जिया
     new: ज्योर्जिया
     nl: Georgië
@@ -233,7 +233,7 @@ dv_has_:
     pnt: Γρουζία
     ps: ګرجستان
     pt: Geórgia
-    pt-br: Geórgia
+    pt_br: Geórgia
     qu: Kartulsuyu
     rki: ဂျော်ဂျီယာနိုင်ငံ
     rmy: Jorjiya (them)
@@ -265,8 +265,8 @@ dv_has_:
     so: Joorjiya
     sq: Gjeorgjia
     sr: Грузија
-    sr-ec: Грузија
-    sr-el: Gruzija
+    sr_ec: Грузија
+    sr_el: Gruzija
     srn: Georgikondre
     ss: IJojiya
     stq: Georgien
@@ -292,7 +292,7 @@ dv_has_:
     trv: Georgia
     ts: Georgia
     tt: Гөрҗистан
-    tt-cyrl: Гөрҗистан
+    tt_cyrl: Гөрҗистан
     tum: Georgia
     udm: Грузия
     ug: گرۇزىيە
@@ -318,14 +318,14 @@ dv_has_:
     zea: Georhië
     zgh: ⵊⵓⵕⵊⵢⴰ
     zh: 格鲁吉亚
-    zh-cn: 格鲁吉亚
-    zh-hans: 格鲁吉亚
-    zh-hant: 喬治亞
-    zh-hk: 格魯吉亞
-    zh-mo: 格魯吉亞
+    zh_cn: 格鲁吉亚
+    zh_hans: 格鲁吉亚
+    zh_hant: 喬治亞
+    zh_hk: 格魯吉亞
+    zh_mo: 格魯吉亞
     zh-my: 格鲁吉亚
-    zh-sg: 格鲁吉亚
-    zh-tw: 喬治亞
+    zh_sg: 格鲁吉亚
+    zh_tw: 喬治亞
     zu: i-Georgia
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Georgia

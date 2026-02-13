@@ -85,7 +85,7 @@ dv_has_:
   name_:
     ar: توايلايت زون
     ast: The Twilight Zone
-    be-tarask: Сутоньневая зона
+    be_tarask: Сутоньневая зона
     bg: Зоната на здрача
     ca: La Dimensió Desconeguda
     cs: The Twilight Zone
@@ -121,16 +121,16 @@ dv_has_:
     sh: The Twilight Zone
     sk: The Twilight Zone
     sr: Zona sumraka
-    sr-ec: Зона сумрака
-    sr-el: Zona sumraka
+    sr_ec: Зона сумрака
+    sr_el: Zona sumraka
     sv: Twilight Zone
     tr: The Twilight Zone (1959 TV dizisi)
     uk: Сутінкова зона
     zh: 陰陽魔界
-    zh-hant: 陰陽魔界
+    zh_hant: 陰陽魔界
     zh-my: 迷离境界
-    zh-sg: 迷离境界
-    zh-tw: 陰陽魔界
+    zh_sg: 迷离境界
+    zh_tw: 陰陽魔界
 ---
 # [[Twilight_Zone]] 
 

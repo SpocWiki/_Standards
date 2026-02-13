@@ -30,7 +30,7 @@ dv_has_:
     ast: Eutheria
     az: Eutheria
     azb: وتریا
-    be-tarask: Eutheria
+    be_tarask: Eutheria
     bg: еутерии
     br: Eutheria
     bs: Eutheria
@@ -41,8 +41,8 @@ dv_has_:
     de: Eutheria
     el: ευθήρια
     en: Eutheria
-    en-ca: Eutheria
-    en-gb: Eutheria
+    en_ca: Eutheria
+    en_gb: Eutheria
     eo: Eutheria
     es: Eutheria
     eu: Eutheria
@@ -80,7 +80,7 @@ dv_has_:
     oc: Eutheria
     pl: Eutheria
     pt: Eutheria
-    pt-br: Eutheria
+    pt_br: Eutheria
     ro: Eutheria
     ru: эутерии
     rue: Eutheria
@@ -102,10 +102,10 @@ dv_has_:
     war: Eutheria
     yue: 真獸亞綱
     zh: 真兽类
-    zh-cn: 真兽类
-    zh-hans: 真兽类
-    zh-hant: 有胎盤類
-    zh-tw: 真獸類
+    zh_cn: 真兽类
+    zh_hans: 真兽类
+    zh_hant: 有胎盤類
+    zh_tw: 真獸類
 ---
 # [[Eutheria]]
 

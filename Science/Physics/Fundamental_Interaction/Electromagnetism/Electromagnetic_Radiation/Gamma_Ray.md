@@ -124,7 +124,7 @@ dv_has_:
     azb: قاما ایشیقی
     ban: Sunar gamma
     be: гама-выпраменьванне
-    be-tarask: гама-выпраменьваньне
+    be_tarask: гама-выпраменьваньне
     bg: Гама-лъчи
     bn: গামা রশ্মি
     bs: Gama zračenje
@@ -188,7 +188,7 @@ dv_has_:
     pnb: گیما رے
     ps: د ګاما وړانګه
     pt: radiação gama
-    pt-br: radiação gama
+    pt_br: radiação gama
     qu: Gamma wach'i
     ro: radiație gamma
     ru: гамма-излучение
@@ -211,7 +211,7 @@ dv_has_:
     tl: Sinag gamma
     tr: gama ışını
     tt: гамма-нурланыш
-    tt-cyrl: гамма-нурланыш
+    tt_cyrl: гамма-нурланыш
     udm: гамма-сиос
     uk: гамма-промені
     uz: Gamma-nurlanish

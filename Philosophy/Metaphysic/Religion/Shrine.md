@@ -84,7 +84,7 @@ dv_has_:
   name_:
     ar: ضريح مقدس
     be: свяцілішча
-    be-tarask: сьвятыня
+    be_tarask: сьвятыня
     bg: Светилище
     bn: মন্দির, মঠ, মাজার বা দরগাহ
     ca: templet
@@ -96,8 +96,8 @@ dv_has_:
     el: βωμός
     eml: Santüäri
     en: shrine
-    en-ca: Shrine
-    en-gb: shrine
+    en_ca: Shrine
+    en_gb: shrine
     eo: sanktejo
     es: santuario
     eu: santutegi
@@ -132,7 +132,7 @@ dv_has_:
     os: кувæндон
     pl: miejsce święte
     pt: santuário
-    pt-br: santuário
+    pt_br: santuário
     ru: святилище
     sgs: Kuoplītstolpis
     sh: svetište
@@ -148,10 +148,10 @@ dv_has_:
     vi: điện thờ
     yue: 神壇
     zh: 聖祠
-    zh-cn: 圣物箱
-    zh-hans: 圣祠
-    zh-hant: 靈祠
-    zh-tw: 靈祠
+    zh_cn: 圣物箱
+    zh_hans: 圣祠
+    zh_hant: 靈祠
+    zh_tw: 靈祠
 ---
 # [[Shrine]] 
 

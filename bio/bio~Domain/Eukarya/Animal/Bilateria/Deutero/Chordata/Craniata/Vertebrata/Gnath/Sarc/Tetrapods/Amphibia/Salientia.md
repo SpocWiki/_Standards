@@ -45,7 +45,7 @@ dv_has_:
     oc: Salientia
     pl: Skaczące
     pt: Salientia
-    pt-br: Salientia
+    pt_br: Salientia
     ro: Salientia
     ru: Salientia
     sl: Salientia
@@ -56,7 +56,7 @@ dv_has_:
     vo: Salientia
     war: Salientia
     zh: 无尾类
-    zh-cn: 无尾类
+    zh_cn: 无尾类
 ---
 # [[Salientia]]
 

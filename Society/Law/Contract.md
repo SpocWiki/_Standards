@@ -144,7 +144,7 @@ dv_has_:
     az: müqavilə
     azb: سؤزلشمه
     be: дагавор
-    be-tarask: дамова
+    be_tarask: дамова
     bg: Договор
     bn: চুক্তি
     bs: Ugovor
@@ -156,11 +156,11 @@ dv_has_:
     cy: cytundeb
     da: kontrakt
     de: Vertrag
-    de-ch: Vertrag
+    de_ch: Vertrag
     el: Σύμβαση
     en: contract
-    en-ca: Contract
-    en-gb: contract
+    en_ca: Contract
+    en_gb: contract
     eo: kontrakto
     es: contrato
     et: leping
@@ -188,11 +188,11 @@ dv_has_:
     kaa: Oferta
     kcg: kwa̱nggila
     kk: Келісім-шарт
-    kk-arab: كەلىسىم-شارت
+    kk_arab: كەلىسىم-شارت
     kk-cn: كەلىسىم-شارت
-    kk-cyrl: Келісім-шарт
+    kk_cyrl: Келісім-шарт
     kk-kz: Келісім-шарт
-    kk-latn: Kelisim-şart
+    kk_latn: Kelisim-şart
     kk-tr: Kelisim-şart
     kn: ಒಪ್ಪಂದ
     ko: 계약
@@ -208,7 +208,7 @@ dv_has_:
     ml: കരാർ
     mn: Гэрээ
     ms: kontrak
-    ms-arab: کونترک
+    ms_arab: کونترک
     mt: kuntratt
     myv: Вейсэньлув
     nb: avtale
@@ -220,7 +220,7 @@ dv_has_:
     pap: kontrakt
     pl: umowa
     pt: contrato
-    pt-br: contrato
+    pt_br: contrato
     qu: Arininakuy
     ro: contract
     ru: договор
@@ -233,8 +233,8 @@ dv_has_:
     sms: suåppmõš
     sq: kontratë
     sr: уговор
-    sr-ec: Уговор
-    sr-el: Ugovor
+    sr_ec: Уговор
+    sr_el: Ugovor
     sv: avtal
     sw: Mkataba
     ta: ஒப்பந்தம்
@@ -254,14 +254,14 @@ dv_has_:
     yue: 合約
     za: habdoengz
     zh: 契约
-    zh-cn: 合同
-    zh-hans: 合同
-    zh-hant: 契約
-    zh-hk: 合約
-    zh-mo: 合約
+    zh_cn: 合同
+    zh_hans: 合同
+    zh_hant: 契約
+    zh_hk: 合約
+    zh_mo: 合約
     zh-my: 合约
-    zh-sg: 合约
-    zh-tw: 契約
+    zh_sg: 合约
+    zh_tw: 契約
 ---
 # [[Contract]] 
 

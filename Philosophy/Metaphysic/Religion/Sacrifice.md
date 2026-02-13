@@ -106,7 +106,7 @@ dv_has_:
     az: Qurbanvermə
     bar: Opfa
     be: Ахвярапрынашэнне
-    be-tarask: ахвярапрынашэньне
+    be_tarask: ахвярапрынашэньне
     bg: Жертвоприношение
     bn: উৎসর্গ
     br: Aberzh
@@ -139,11 +139,11 @@ dv_has_:
     ja: 生贄
     kcg: za̱nang
     kk: Құрбандық шалу
-    kk-arab: قۇرباندىق شالۋ
+    kk_arab: قۇرباندىق شالۋ
     kk-cn: قۇرباندىق شالۋ
-    kk-cyrl: Құрбандық шалу
+    kk_cyrl: Құрбандық шалу
     kk-kz: Құрбандық шалу
-    kk-latn: Qurbandıq şalw
+    kk_latn: Qurbandıq şalw
     kk-tr: Qurbandıq şalw
     ko: 제물
     ks: قۄربان
@@ -177,8 +177,8 @@ dv_has_:
     so: Huro
     sq: Sakrifica
     sr: Жртвовање
-    sr-ec: Жртвовање
-    sr-el: Žrtvovanje
+    sr_ec: Жртвовање
+    sr_el: Žrtvovanje
     sv: offer
     sw: Sadaka
     ta: தியாகம் செய்தல்
@@ -192,12 +192,12 @@ dv_has_:
     wuu: 牺牲
     yue: 犧牲
     zh: 牺牲
-    zh-cn: 牺牲
-    zh-hans: 牺牲
-    zh-hant: 犧牲
-    zh-hk: 犧牲
-    zh-sg: 牺牲
-    zh-tw: 犧牲
+    zh_cn: 牺牲
+    zh_hans: 牺牲
+    zh_hant: 犧牲
+    zh_hk: 犧牲
+    zh_sg: 牺牲
+    zh_tw: 犧牲
 ---
 # [[Sacrifice]] 
 

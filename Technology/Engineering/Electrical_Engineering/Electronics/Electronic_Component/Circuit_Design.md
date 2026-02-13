@@ -46,7 +46,7 @@ dv_has_:
   name_:
     ar: تصميم الدوائر الكهربائية
     ast: Diseñu de circuitos
-    be-tarask: схематэхніка
+    be_tarask: схематэхніка
     bn: বর্তনী নকশাকরণ
     ca: disseny de circuits
     de: Schaltungsdesign
@@ -72,9 +72,9 @@ dv_has_:
     wuu: 电路设计
     yue: 電路設計
     zh: 电路设计
-    zh-hans: 电路设计
-    zh-hant: 電路設計
-    zh-hk: 電路設計
+    zh_hans: 电路设计
+    zh_hant: 電路設計
+    zh_hk: 電路設計
 ---
 # [[Circuit_Design]] 
 

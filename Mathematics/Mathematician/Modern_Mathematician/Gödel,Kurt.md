@@ -156,7 +156,7 @@ dv_has_:
     az: Kurt Qodel
     azb: کورت قودل
     be: Курт Гёдэль
-    be-tarask: Курт Гёдэль
+    be_tarask: Курт Гёдэль
     bg: Курт Гьодел
     bn: কুর্ট গ্যোডেল
     bs: Kurt Gödel
@@ -224,7 +224,7 @@ dv_has_:
     pms: Kurt Gödel
     pnb: کرٹ گوڈل
     pt: Kurt Gödel
-    pt-br: Kurt Gödel
+    pt_br: Kurt Gödel
     rki: ကာ့ ဖရီးဒရစ် ဂူဒယ်
     ro: Kurt Gödel
     ru: Курт Гёдель
@@ -235,7 +235,7 @@ dv_has_:
     sl: Kurt Gödel
     sq: Kurt Gödel
     sr: Курт Гедел
-    sr-ec: Курт Гедел
+    sr_ec: Курт Гедел
     sv: Kurt Gödel
     ta: கியேடல்
     tg: Курт Гӯдел
@@ -252,7 +252,7 @@ dv_has_:
     yo: Kurt Gödel
     yue: Kurt Gödel
     zh: 庫爾特·弗雷德里希·哥德爾
-    zh-cn: 库尔特·弗雷德里希·哥德尔
+    zh_cn: 库尔特·弗雷德里希·哥德尔
 ---
 # [[Gödel,Kurt]] 
 

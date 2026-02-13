@@ -183,7 +183,7 @@ dv_has_:
     bar: Maschiin
     bcl: Makina
     be: машына
-    be-tarask: машына
+    be_tarask: машына
     bew: Mesin
     bg: Машина
     bn: যন্ত্র
@@ -200,11 +200,11 @@ dv_has_:
     cy: peiriant
     da: maskine
     de: Maschine
-    de-ch: Maschine
+    de_ch: Maschine
     el: Μηχανή
     en: machine
-    en-ca: Machine
-    en-gb: machine
+    en_ca: Machine
+    en_gb: machine
     eo: maŝino
     es: máquina
     et: masin
@@ -266,7 +266,7 @@ dv_has_:
     mni: ꯃꯦꯆꯤꯟ
     mr: यंत्र
     ms: mesin
-    ms-arab: ميسين
+    ms_arab: ميسين
     my: စက်ကိရိယာများ
     myv: Теважа
     mzn: دسگاه
@@ -289,7 +289,7 @@ dv_has_:
     pnb: مشین
     ps: ماشین
     pt: máquina
-    pt-br: máquina
+    pt_br: máquina
     qu: makiq
     qug: makiq
     rmf: maȟȟiin
@@ -314,8 +314,8 @@ dv_has_:
     so: Makiinad
     sq: makinë
     sr: машина
-    sr-ec: машина
-    sr-el: mašina
+    sr_ec: машина
+    sr_el: mašina
     su: Mesin
     sv: maskin
     sw: Mashine
@@ -328,7 +328,7 @@ dv_has_:
     tly: mašin
     tr: makine
     tt: машина
-    tt-cyrl: машина
+    tt_cyrl: машина
     tw: afidie
     udm: машина
     ug: ماشىنىسازلىق
@@ -346,14 +346,14 @@ dv_has_:
     yue: 機
     za: rok
     zh: 机械
-    zh-cn: 机械
-    zh-hans: 机械
-    zh-hant: 機械
-    zh-hk: 機械
-    zh-mo: 機械
+    zh_cn: 机械
+    zh_hans: 机械
+    zh_hant: 機械
+    zh_hk: 機械
+    zh_mo: 機械
     zh-my: 机械
-    zh-sg: 机械
-    zh-tw: 機械
+    zh_sg: 机械
+    zh_tw: 機械
     zu: INguxa
 ---
 # [[Machine]] 

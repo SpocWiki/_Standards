@@ -142,7 +142,7 @@ dv_has_:
     ban: Yoga
     bcl: Yoga
     be: Ёга
-    be-tarask: ёга
+    be_tarask: ёга
     bg: Йога
     bho: योग
     bm: Yoga
@@ -164,8 +164,8 @@ dv_has_:
     ee: Yoga
     el: γιόγκα
     en: yoga
-    en-ca: Yoga
-    en-gb: yoga
+    en_ca: Yoga
+    en_gb: yoga
     eo: jogo
     es: yoga
     et: Jooga
@@ -222,7 +222,7 @@ dv_has_:
     nan: Yoga
     nb: yoga
     nds: Yoga
-    nds-nl: yoga
+    nds_nl: yoga
     ne: योग
     new: योग
     nl: yoga
@@ -254,8 +254,8 @@ dv_has_:
     sl: joga
     sq: Joga
     sr: јога
-    sr-ec: јога
-    sr-el: joga
+    sr_ec: јога
+    sr_el: joga
     sv: yoga
     sw: Yoga
     ta: யோகாசனம்
@@ -278,7 +278,7 @@ dv_has_:
     yi: יאגא
     yue: 瑜伽
     zh: 瑜伽
-    zh-cn: 瑜伽
+    zh_cn: 瑜伽
 ---
 # [[Yoga]] 
 

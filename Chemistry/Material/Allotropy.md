@@ -105,7 +105,7 @@ dv_has_:
     ast: Alotropía
     az: allotropiya
     be: алатропія
-    be-tarask: алятрапія
+    be_tarask: алятрапія
     bg: алотропия
     bn: অ্যালোট্রপি
     bs: alotropske modifikacije
@@ -160,7 +160,7 @@ dv_has_:
     pa: ਭਿੰਨਰੂਪਤਾ
     pl: alotropia
     pt: alotropia
-    pt-br: alotropia
+    pt_br: alotropia
     ro: alotropie
     ru: аллотропия
     sco: allotropy
@@ -172,8 +172,8 @@ dv_has_:
     smn: allotropia
     sms: allotropia
     sr: алотропска модификација
-    sr-ec: алотропска модификација
-    sr-el: alotropska modifikacija
+    sr_ec: алотропска модификација
+    sr_el: alotropska modifikacija
     sv: allotropi
     ta: தனிமப் புறவேற்றுரு
     te: భిన్నరూపత
@@ -188,8 +188,8 @@ dv_has_:
     wuu: 同素异形现象
     yue: 同素異形現象
     zh: 同素異形現象
-    zh-hans: 同素异形现象
-    zh-hant: 同素異形現象
+    zh_hans: 同素异形现象
+    zh_hant: 同素異形現象
 ---
 # [[Allotropy]] 
 

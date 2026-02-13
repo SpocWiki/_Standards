@@ -91,7 +91,7 @@ dv_has_:
     ast: Educación a distancia
     az: Distant təhsil
     be: дыстанцыйнае навучанне
-    be-tarask: дыстанцыйнае навучаньне
+    be_tarask: дыстанцыйнае навучаньне
     bg: Дистанционно обучение
     ca: educació a distància
     cs: distanční vzdělávání
@@ -145,8 +145,8 @@ dv_has_:
     sms: ougglestmättʼtõs
     sq: Edukimi në distancë
     sr: Образовање на даљину
-    sr-ec: Образовање на даљину
-    sr-el: Obrazovanje na daljinu
+    sr_ec: Образовање на даљину
+    sr_el: Obrazovanje na daljinu
     sv: distansundervisning
     sw: Elimu ya umbali
     ta: தொலைநிலைக் கல்வி
@@ -159,12 +159,12 @@ dv_has_:
     vi: Giáo dục từ xa
     yue: 遙距教學
     zh: 远程教育
-    zh-cn: 远程教育
-    zh-hans: 遥距教育
-    zh-hant: 遙距教育
-    zh-hk: 遙距教育
-    zh-sg: 遥距教育
-    zh-tw: 遙距教育
+    zh_cn: 远程教育
+    zh_hans: 遥距教育
+    zh_hant: 遙距教育
+    zh_hk: 遙距教育
+    zh_sg: 遥距教育
+    zh_tw: 遙距教育
 ---
 # [[Distance_Education]] 
 

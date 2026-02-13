@@ -626,7 +626,7 @@ dv_has_:
     ab: Венесуела
     ace: Vènèzuèla
     ady: Венесуэлэ
-    aeb-arab: ڥنزويلا
+    aeb_arab: ڥنزويلا
     af: Venezuela
     am: ቬኔዝዌላ
     ami: Venezuela
@@ -650,7 +650,7 @@ dv_has_:
     bar: Venezuela
     bcl: Benesuela
     be: Венесуэла
-    be-tarask: Вэнэсуэла
+    be_tarask: Вэнэсуэла
     bew: Bénésuèla
     bg: Венецуела
     bho: वेनेजुएला
@@ -663,7 +663,7 @@ dv_has_:
     bs: Venecuela
     bxr: Венесуэла
     ca: Veneçuela
-    cbk-zam: Venezuela
+    cbk_zam: Venezuela
     cdo: Venezuela
     ce: Венесуэла
     ceb: Beneswela
@@ -672,7 +672,7 @@ dv_has_:
     ckb: ڤێنیزوێلا
     co: Venezuela
     crh: Venesuela
-    crh-latn: Venesuela
+    crh_latn: Venesuela
     cs: Venezuela
     csb: Wenezuelskô
     cv: Венесуэла
@@ -681,7 +681,7 @@ dv_has_:
     dag: Venezuela
     de: Venezuela
     de-at: Venezuela
-    de-ch: Venezuela
+    de_ch: Venezuela
     diq: Venezuela
     dsb: Venezuela
     dty: भेनेजुयला
@@ -690,8 +690,8 @@ dv_has_:
     el: Βενεζουέλα
     eml: Venesüela
     en: Venezuela
-    en-ca: Venezuela
-    en-gb: Venezuela
+    en_ca: Venezuela
+    en_gb: Venezuela
     eo: Venezuelo
     es: Venezuela
     et: Venezuela
@@ -717,7 +717,7 @@ dv_has_:
     gn: Venesuéla
     gom: व्हेनेझुएला
     gom-deva: व्हेनेझुएला
-    gom-latn: Venezuela
+    gom_latn: Venezuela
     got: "\U00010346\U00010330\U0001033D\U0001033E\U00010330\U00010345\U00010334\U00010339\U0001033D\U00010343"
     gpe: Venezuela
     gsw: Venezuela
@@ -786,7 +786,7 @@ dv_has_:
     lzh: 委內瑞拉
     mad: Venezuela
     mai: भेनेजुएला
-    map-bms: Venezuela
+    map_bms: Venezuela
     mdf: Вэнэзуэла
     mg: Venezoela
     mhr: Венесуэла
@@ -799,7 +799,7 @@ dv_has_:
     mr: व्हेनेझुएला
     mrj: Венесуэла
     ms: Venezuela
-    ms-arab: ۏينيزويلا
+    ms_arab: ۏينيزويلا
     mt: Veneżwela
     mwl: Benezuela
     my: ဗင်နီဇွဲလားနိုင်ငံ
@@ -810,7 +810,7 @@ dv_has_:
     nap: Venezuela
     nb: Venezuela
     nds: Venezuela
-    nds-nl: Venezuela
+    nds_nl: Venezuela
     ne: भेनेजुएला
     new: भेनेजुएला
     nl: Venezuela
@@ -837,7 +837,7 @@ dv_has_:
     pnb: وینزویلا
     ps: وېنزوېلا
     pt: Venezuela
-    pt-br: Venezuela
+    pt_br: Venezuela
     qu: Winisuyla
     rm: Venezuela
     rmy: Venezuela
@@ -870,8 +870,8 @@ dv_has_:
     so: Fanansuwela
     sq: Venezuela
     sr: Венецуела
-    sr-ec: Венецуела
-    sr-el: Venecuela
+    sr_ec: Венецуела
+    sr_el: Venecuela
     srn: Venswelikondre
     stq: Venezuela
     su: Vénézuéla
@@ -924,14 +924,14 @@ dv_has_:
     zea: Venezuela
     zgh: ⴼⵉⵏⵣⵡⵉⵍⵍⴰ
     zh: 委內瑞拉
-    zh-cn: 委内瑞拉
-    zh-hans: 委内瑞拉
-    zh-hant: 委內瑞拉
-    zh-hk: 委內瑞拉
-    zh-mo: 委內瑞拉
+    zh_cn: 委内瑞拉
+    zh_hans: 委内瑞拉
+    zh_hant: 委內瑞拉
+    zh_hk: 委內瑞拉
+    zh_mo: 委內瑞拉
     zh-my: 委内瑞拉
-    zh-sg: 委内瑞拉
-    zh-tw: 委內瑞拉
+    zh_sg: 委内瑞拉
+    zh_tw: 委內瑞拉
     zu: i-Venezuela
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Venezuela

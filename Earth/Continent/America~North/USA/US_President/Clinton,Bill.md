@@ -94,7 +94,7 @@ dv_has_:
     az: Bill Klinton
     azb: بیل کلینتون
     be: Уільям Джэферсан Клінтан
-    be-tarask: Біл Клінтан
+    be_tarask: Біл Клінтан
     bg: Бил Клинтън
     bi: Bill Clinton
     bn: বিল ক্লিনটন
@@ -113,7 +113,7 @@ dv_has_:
     da: Bill Clinton
     dag: Bill Clinton
     de: Bill Clinton
-    de-ch: Bill Clinton
+    de_ch: Bill Clinton
     diq: Bill Clinton
     dty: बिल क्लिन्टन
     dv: ބިލް ކްލިންޓަން
@@ -195,7 +195,7 @@ dv_has_:
     nan: Bill Clinton
     nb: Bill Clinton
     nds: Bill Clinton
-    nds-nl: Bill Clinton
+    nds_nl: Bill Clinton
     ne: बिल क्लिन्टन
     nl: Bill Clinton
     nn: Bill Clinton
@@ -212,7 +212,7 @@ dv_has_:
     pnb: بل کلنٹن
     ps: بیل کلینټن
     pt: Bill Clinton
-    pt-br: Bill Clinton
+    pt_br: Bill Clinton
     qu: Bill Clinton
     rm: Bill Clinton
     rmf: Bill Clinton
@@ -236,8 +236,8 @@ dv_has_:
     sms: Bill Clinton
     sq: Bill Klinton
     sr: Бил Клинтон
-    sr-ec: Бил Клинтон
-    sr-el: Bil Klinton
+    sr_ec: Бил Клинтон
+    sr_el: Bil Klinton
     su: Bill Clinton
     sv: Bill Clinton
     sw: Bill Clinton
@@ -264,14 +264,14 @@ dv_has_:
     yue: 克林頓
     zea: Bill Clinton
     zh: 比爾·克林頓
-    zh-cn: 比尔·克林顿
-    zh-hans: 比尔·克林顿
-    zh-hant: 比爾·克林頓
-    zh-hk: 比爾·克林頓
-    zh-mo: 比爾·克林頓
+    zh_cn: 比尔·克林顿
+    zh_hans: 比尔·克林顿
+    zh_hant: 比爾·克林頓
+    zh_hk: 比爾·克林頓
+    zh_mo: 比爾·克林頓
     zh-my: 比尔·克林顿
-    zh-sg: 比尔·克林顿
-    zh-tw: 比爾·柯林頓
+    zh_sg: 比尔·克林顿
+    zh_tw: 比爾·柯林頓
     zu: Bill Clinton
   time_: {}
 dv_is_:

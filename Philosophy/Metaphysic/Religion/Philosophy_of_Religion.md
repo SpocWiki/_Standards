@@ -102,7 +102,7 @@ dv_has_:
     az: Din fəlsəfəsi
     ba: дин фәлсәфәһе
     be: філасофія рэлігіі
-    be-tarask: філязофія рэлігіі
+    be_tarask: філязофія рэлігіі
     bn: ধর্মদর্শন
     ca: filosofia de la religió
     ckb: فەلسەفەی دین
@@ -112,7 +112,7 @@ dv_has_:
     de: Religionsphilosophie
     el: φιλοσοφία της θρησκείας
     en: philosophy of religion
-    en-gb: philosophy of religion
+    en_gb: philosophy of religion
     eo: filozofio de la religio
     es: filosofía de la religión
     et: religioonifilosoofia
@@ -143,7 +143,7 @@ dv_has_:
     mk: Филозофија на религијата
     mn: Шашны философи
     ms: falsafah agama
-    ms-arab: فلسفه اݢام
+    ms_arab: فلسفه اݢام
     nb: religionsfilosofi
     nl: godsdienstfilosofie
     os: дины философи
@@ -159,8 +159,8 @@ dv_has_:
     sl: filozofija religije
     smn: oskoldâhfilosofia
     sr: филозофија религије
-    sr-ec: Филозофија религије
-    sr-el: Filozofija religije
+    sr_ec: Филозофија религије
+    sr_el: Filozofija religije
     sv: religionsfilosofi
     sw: Falsafa ya dini
     ta: சமய மெய்யியல்
@@ -174,12 +174,12 @@ dv_has_:
     vi: triết học về tôn giáo
     yue: 宗教哲學
     zh: 宗教哲学
-    zh-cn: 宗教哲学
-    zh-hans: 宗教哲学
-    zh-hant: 宗教哲學
-    zh-hk: 宗教哲學
-    zh-sg: 宗教哲学
-    zh-tw: 宗教哲學
+    zh_cn: 宗教哲学
+    zh_hans: 宗教哲学
+    zh_hant: 宗教哲學
+    zh_hk: 宗教哲學
+    zh_sg: 宗教哲学
+    zh_tw: 宗教哲學
 ---
 # [[Philosophy_of_Religion]] 
 

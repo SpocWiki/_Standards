@@ -69,7 +69,7 @@ dv_has_:
     avk: cwoleem
     az: Dəvəkimilər
     be: вярблюдавыя
-    be-tarask: Вярблюдавыя
+    be_tarask: Вярблюдавыя
     bg: камилови
     br: Camelidae
     ca: camèlids
@@ -108,16 +108,16 @@ dv_has_:
     ka: აქლემისებრნი
     kab: Tileɣmatin
     kk: Түйетәрізділер
-    kk-arab: تۇيەتارىزدىلەر
+    kk_arab: تۇيەتارىزدىلەر
     kk-cn: تۇيەتارىزدىلەر
-    kk-cyrl: Түйетәрізділер
+    kk_cyrl: Түйетәрізділер
     kk-kz: Түйетәрізділер
-    kk-latn: Tüýetärizdiler
+    kk_latn: Tüýetärizdiler
     kk-tr: Tüýetärizdiler
     ko: 낙타과
     ku: Famîleya hêştiran
-    ku-arab: فامیلەیا هێشتران
-    ku-latn: Famîleya hêştiran
+    ku_arab: فامیلەیا هێشتران
+    ku_latn: Famîleya hêştiran
     la: Camelidae
     lb: Kaméiler
     li: Kemelechtege
@@ -134,7 +134,7 @@ dv_has_:
     pl: wielbłądowate
     pnb: اونٹھ ٹبر
     pt: Camelidae
-    pt-br: Camelidae
+    pt_br: Camelidae
     ro: Camelidae
     ru: Верблюдовые
     scn: Camelidae
@@ -154,12 +154,12 @@ dv_has_:
     wuu: 骆驼科
     yue: 駱駝科
     zh: 骆驼科
-    zh-cn: 骆驼科
-    zh-hans: 骆驼科
-    zh-hant: 駱駝科
-    zh-hk: 駱駝科
-    zh-sg: 骆驼科
-    zh-tw: 駱駝科
+    zh_cn: 骆驼科
+    zh_hans: 骆驼科
+    zh_hant: 駱駝科
+    zh_hk: 駱駝科
+    zh_sg: 骆驼科
+    zh_tw: 駱駝科
 ---
 # [[Camelidae]] 
 

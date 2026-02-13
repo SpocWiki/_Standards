@@ -96,7 +96,7 @@ dv_has_:
     arz: ڤينسينت مينيلى
     ast: Vincente Minnelli
     be: Вінсент Мінелі
-    be-tarask: Вінсэнт Мінэлі
+    be_tarask: Вінсэнт Мінэлі
     bg: Винсънт Минели
     bn: ভিনসেন্ট মিনেলি
     ca: Vincente Minnelli
@@ -104,11 +104,11 @@ dv_has_:
     cy: Vincente Minnelli
     da: Vincente Minnelli
     de: Vincente Minnelli
-    de-ch: Vincente Minnelli
+    de_ch: Vincente Minnelli
     el: Βινσέντε Μιννέλλι
     en: Vincente Minnelli
-    en-ca: Vincente Minnelli
-    en-gb: Vincente Minnelli
+    en_ca: Vincente Minnelli
+    en_gb: Vincente Minnelli
     eo: Vincente Minnelli
     es: Vincente Minnelli
     eu: Vincente Minnelli
@@ -143,7 +143,7 @@ dv_has_:
     pap: Vincente Minnelli
     pl: Vincente Minnelli
     pt: Vincente Minnelli
-    pt-br: Vincente Minnelli
+    pt_br: Vincente Minnelli
     ro: Vincente Minnelli
     ru: Винсент Миннелли
     sh: Vincente Minelli
@@ -158,9 +158,9 @@ dv_has_:
     xmf: ვინსენტ მინელი
     yue: 雲仙明里尼
     zh: 文森特·明内利
-    zh-hk: 雲仙·明里尼
+    zh_hk: 雲仙·明里尼
     zh-my: 文生·明尼里
-    zh-sg: 文生·明尼里
+    zh_sg: 文生·明尼里
 ---
 # [[Minnelli,Vincente]] 
 

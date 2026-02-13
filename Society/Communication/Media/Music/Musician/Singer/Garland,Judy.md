@@ -165,7 +165,7 @@ dv_has_:
     ba: Джуди Гарленд
     bcl: Judy Garland
     be: Джудзі Гарленд
-    be-tarask: Джудзі Гарлэнд
+    be_tarask: Джудзі Гарлэнд
     bg: Джуди Гарланд
     bi: Judy Garland
     bjn: Judy Garland
@@ -179,12 +179,12 @@ dv_has_:
     cy: Judy Garland
     da: Judy Garland
     de: Judy Garland
-    de-ch: Judy Garland
+    de_ch: Judy Garland
     diq: Judy Garland
     el: Τζούντι Γκάρλαντ
     en: Judy Garland
-    en-ca: Judy Garland
-    en-gb: Judy Garland
+    en_ca: Judy Garland
+    en_gb: Judy Garland
     eo: Judy Garland
     es: Judy Garland
     et: Judy Garland
@@ -244,7 +244,7 @@ dv_has_:
     nah: Judy Garland
     nan: Judy Garland
     nb: Judy Garland
-    nds-nl: Judy Garland
+    nds_nl: Judy Garland
     new: जुदी गार्ल्यान्द
     nl: Judy Garland
     nn: Judy Garland
@@ -258,7 +258,7 @@ dv_has_:
     pl: Judy Garland
     pms: Judy Garland
     pt: Judy Garland
-    pt-br: Judy Garland
+    pt_br: Judy Garland
     qu: Judy Garland
     ro: Judy Garland
     ru: Джуди Гарленд
@@ -295,12 +295,12 @@ dv_has_:
     yo: Judy Garland
     yue: 茱地嘉蘭
     zh: 朱迪·加兰
-    zh-cn: 朱迪·加兰
-    zh-hans: 朱迪·加兰
-    zh-hant: 茱蒂·嘉蘭
-    zh-hk: 茱地·嘉蘭
+    zh_cn: 朱迪·加兰
+    zh_hans: 朱迪·加兰
+    zh_hant: 茱蒂·嘉蘭
+    zh_hk: 茱地·嘉蘭
     zh-my: 茱蒂·嘉兰
-    zh-tw: 茱蒂·嘉蘭
+    zh_tw: 茱蒂·嘉蘭
 ---
 # [[Garland,Judy]] 
 

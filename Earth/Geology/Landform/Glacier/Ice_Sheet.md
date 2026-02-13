@@ -95,7 +95,7 @@ dv_has_:
     ar: صفيحة جليدية
     ast: Indlandsis
     az: Buzlaq örtüyü
-    be-tarask: ледавіковы шчыт
+    be_tarask: ледавіковы шчыт
     bg: леден щит
     bn: হিমচাদর
     ca: inlandsis

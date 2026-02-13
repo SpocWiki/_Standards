@@ -86,7 +86,7 @@ dv_has_:
     arz: الاتحاد البرلمانى الدولى
     ast: Unión Interparlamentaria
     az: Parlamentlərarası Birlik
-    be-tarask: Міжпарлямэнцкі саюз
+    be_tarask: Міжпарлямэнцкі саюз
     bg: Интерпарламентарен съюз
     bn: ইন্টার-পার্লামেন্টারি ইউনিয়ন
     ca: Unió Interparlamentària
@@ -132,8 +132,8 @@ dv_has_:
     vec: Union interparlamentare
     vi: Liên minh Nghị viện Thế giới
     zh: 各国议会联盟
-    zh-hans: 各国议会联盟
-    zh-hant: 各國議會聯盟
+    zh_hans: 各国议会联盟
+    zh_hant: 各國議會聯盟
 ---
 # [[Interparliamentary_Union]] 
 

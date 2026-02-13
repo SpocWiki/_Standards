@@ -135,7 +135,7 @@ dv_has_:
     bar: Monotheismus
     bcl: Monoteista
     be: монатэізм
-    be-tarask: монатэізм
+    be_tarask: монатэізм
     bg: монотеизъм
     bho: एक ईश्वर वाद
     bn: একেশ্বরবাদ
@@ -157,8 +157,8 @@ dv_has_:
     dv: އެއްކައުވަންތަކަން
     el: μονοθεϊσμός
     en: monotheism
-    en-ca: monotheism
-    en-gb: monotheism
+    en_ca: monotheism
+    en_gb: monotheism
     eo: monoteismo
     es: monoteísmo
     et: monoteism
@@ -196,7 +196,7 @@ dv_has_:
     knc: Monotheism
     ko: 일신교
     ku: yekxwedatî
-    ku-latn: yekxwedatî
+    ku_latn: yekxwedatî
     kw: Undhuwieth
     ky: Монотеизм
     la: monotheismus
@@ -215,7 +215,7 @@ dv_has_:
     mn: монотеизм
     mr: एकेश्वरवाद
     ms: monoteisme
-    ms-arab: مونوتيئيسمى
+    ms_arab: مونوتيئيسمى
     my: တစ်ဆူတည်းသောဘုရားကိုကိုးကွယ်ခြင်း
     nan: It-sîn-lūn
     nap: monoteismo
@@ -233,7 +233,7 @@ dv_has_:
     pms: monoteism
     pnb: اک اللہ نوں مننا
     pt: monoteísmo
-    pt-br: monoteísmo
+    pt_br: monoteísmo
     ro: monoteism
     ru: монотеизм
     rue: монотеізм

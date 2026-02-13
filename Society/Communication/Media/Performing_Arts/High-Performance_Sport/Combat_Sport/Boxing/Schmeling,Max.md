@@ -38,11 +38,11 @@ dv_has_:
     cy: Max Schmeling
     da: Max Schmeling
     de: Max Schmeling
-    de-ch: Max Schmeling
+    de_ch: Max Schmeling
     dsb: Max Schmeling
     en: Max Schmeling
-    en-ca: Max Schmeling
-    en-gb: Max Schmeling
+    en_ca: Max Schmeling
+    en_gb: Max Schmeling
     eo: Max Schmeling
     es: Max Schmeling
     et: Max Schmeling
@@ -73,7 +73,7 @@ dv_has_:
     mul: Max Schmeling
     nb: Max Schmeling
     nds: Max Schmeling
-    nds-nl: Max Schmeling
+    nds_nl: Max Schmeling
     nl: Max Schmeling
     nn: Max Schmeling
     oc: Max Schmeling
@@ -81,7 +81,7 @@ dv_has_:
     pl: Max Schmeling
     pms: Max Schmeling
     pt: Max Schmeling
-    pt-br: Max Schmeling
+    pt_br: Max Schmeling
     ro: Max Schmeling
     ru: Макс Шмелинг
     sk: Max Schmeling
@@ -93,9 +93,9 @@ dv_has_:
     wa: Max Schmeling
     yo: Max Schmeling
     zh: 马克斯·施梅林
-    zh-cn: 马克斯·施梅林
-    zh-hans: 马克斯·施梅林
-    zh-hant: 馬克斯·施梅林
+    zh_cn: 马克斯·施梅林
+    zh_hans: 马克斯·施梅林
+    zh_hant: 馬克斯·施梅林
 ---
 # [[Schmeling,Max]] 
 

@@ -90,7 +90,7 @@ dv_has_:
     ba: Бесән сапҡыстар
     bar: Opiliones
     be: сенакосцы
-    be-tarask: стрыгуны
+    be_tarask: стрыгуны
     bg: сенокосци
     br: Falc'heg
     ca: Opilió
@@ -101,11 +101,11 @@ dv_has_:
     da: Mejere
     de: Weberknechte
     de-at: Opiliones
-    de-ch: Opiliones
+    de_ch: Opiliones
     el: Φαλάγγι
     en: Opiliones
-    en-ca: Opiliones
-    en-gb: Opiliones
+    en_ca: Opiliones
+    en_gb: Opiliones
     eo: Opiliones
     es: Opiliones
     et: Koibikulised
@@ -152,7 +152,7 @@ dv_has_:
     nap: Opiliones
     nb: Vevkjerringer
     nds: Schoosters
-    nds-nl: Opiliones
+    nds_nl: Opiliones
     nl: hooiwagens
     nn: vevkjerringar
     nrm: Opiliones
@@ -164,7 +164,7 @@ dv_has_:
     pms: Opiliones
     ps: لوگري غڼه
     pt: Opilião
-    pt-br: Opiliones
+    pt_br: Opiliones
     qu: Chakisapa uru
     rm: Opiliones
     ro: Opiliones
@@ -194,9 +194,9 @@ dv_has_:
     wuu: 盲蛛目
     yue: 盲蛛目
     zh: 盲蛛目
-    zh-cn: 盲蛛目
-    zh-hans: 盲蛛目
-    zh-tw: 盲蛛目
+    zh_cn: 盲蛛目
+    zh_hans: 盲蛛目
+    zh_tw: 盲蛛目
     zu: Opiliones
 ---
 # [[Opiliones]] 

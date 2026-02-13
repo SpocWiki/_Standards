@@ -85,7 +85,7 @@ dv_has_:
     ast: Samosa
     az: Resept:Samsa
     ba: Самоса
-    be-tarask: самоса
+    be_tarask: самоса
     bg: Самоса
     bho: सिंघाड़ा
     bn: সমুসা
@@ -93,11 +93,11 @@ dv_has_:
     cs: samosa
     da: Samosa
     de: Samosa
-    de-ch: Samosa
+    de_ch: Samosa
     el: Σαμόσα
     en: samosa
-    en-ca: Samosa
-    en-gb: samosa
+    en_ca: Samosa
+    en_gb: samosa
     eo: Samoso
     es: samosa
     eu: Samosa
@@ -122,8 +122,8 @@ dv_has_:
     ko: 사모사
     ks: سموسہٕ
     ku: Sêmûçe
-    ku-arab: سێمووچە
-    ku-latn: Sêmûçe
+    ku_arab: سێمووچە
+    ku_latn: Sêmûçe
     la: sambusuch
     ln: Samusa
     lt: Samosa
@@ -145,7 +145,7 @@ dv_has_:
     pnb: سموسا
     ps: سمبوسه
     pt: chamuça
-    pt-br: Chamuça
+    pt_br: Chamuça
     ro: Samosa
     ru: самоса
     sco: samosa
@@ -158,7 +158,7 @@ dv_has_:
     ta: சமோசா
     te: సమోసా
     tg: Самбӯса
-    tg-latn: Sambūsa
+    tg_latn: Sambūsa
     th: ซาโมซา
     tl: Samosa
     tr: Samosa
@@ -169,9 +169,9 @@ dv_has_:
     wuu: 萨摩萨炸饺
     yue: 印度咖喱角
     zh: 咖喱角
-    zh-hans: 咖喱角
-    zh-hant: 咖喱角
-    zh-hk: 咖喱角
+    zh_hans: 咖喱角
+    zh_hant: 咖喱角
+    zh_hk: 咖喱角
 ---
 # [[Samosa]] 
 

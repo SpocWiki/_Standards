@@ -127,7 +127,7 @@ dv_has_:
     az: Altıayaqlılar
     azb: آلتی باجاکلیلار
     be: шасціногія
-    be-tarask: шасьціногія
+    be_tarask: шасьціногія
     bg: шестокраки
     bn: হেক্সাপোডা
     br: Hexapoda
@@ -137,7 +137,7 @@ dv_has_:
     cs: šestinozí
     da: Seksbenede leddyr
     de: Sechsfüßer
-    de-ch: Sechsfüsser
+    de_ch: Sechsfüsser
     el: Εξάποδα
     en: Hexapoda
     eo: Heksapodoj
@@ -188,7 +188,7 @@ dv_has_:
     pl: sześcionogi
     ps: شپږ پښې لرونکی ژوي
     pt: Hexapoda
-    pt-br: Hexapoda
+    pt_br: Hexapoda
     rm: Hexapoda
     ro: Hexapoda
     ru: шестиногие
@@ -202,8 +202,8 @@ dv_has_:
     smn: kuuđâjuálgásiih
     sq: Hexapoda
     sr: Hexapoda
-    sr-ec: Хеxапода
-    sr-el: Hexapoda
+    sr_ec: Хеxапода
+    sr_el: Hexapoda
     sv: sexfotingar
     ta: அறுகாலி
     tl: Hexapoda
@@ -216,12 +216,12 @@ dv_has_:
     wuu: 六足亚门
     yue: 六足亞門
     zh: 六足亞門
-    zh-cn: 六足亚门
-    zh-hans: 六足亚门
-    zh-hant: 六足亞門
-    zh-hk: 六足亞門
-    zh-sg: 六足亚门
-    zh-tw: 六足亞門
+    zh_cn: 六足亚门
+    zh_hans: 六足亚门
+    zh_hant: 六足亞門
+    zh_hk: 六足亞門
+    zh_sg: 六足亚门
+    zh_tw: 六足亞門
 ---
 # [[Hexapoda]] 
 

@@ -40,7 +40,7 @@ dv_has_:
     pa: ਟੋਨੀ ਹੋਏਰ
     pl: Charles Antony Richard Hoare
     pt: Charles Antony Richard Hoare
-    pt-br: Charles Antony Richard Hoare
+    pt_br: Charles Antony Richard Hoare
     ro: C. A. R. Hoare
     ru: Чарлз Энтони Ричард Хоар
     sh: Tony Hoare
@@ -48,19 +48,19 @@ dv_has_:
     sl: Charles Antony Richard Hoare
     sq: Tony Hoare
     sr: Тони Хор
-    sr-ec: Тони Хор
-    sr-el: Toni Hor
+    sr_ec: Тони Хор
+    sr_el: Toni Hor
     sv: Charles Antony Richard Hoare
     tr: Tony Hoare
     uk: Тоні Гоар
     vi: Charles Antony Richard Hoare
     zh: 東尼·霍爾
-    zh-cn: 东尼·霍尔
-    zh-hans: 东尼·霍尔
-    zh-hant: 東尼·霍爾
-    zh-hk: 東尼·霍爾
-    zh-sg: 东尼·霍尔
-    zh-tw: 東尼·霍爾
+    zh_cn: 东尼·霍尔
+    zh_hans: 东尼·霍尔
+    zh_hant: 東尼·霍爾
+    zh_hk: 東尼·霍爾
+    zh_sg: 东尼·霍尔
+    zh_tw: 東尼·霍爾
 aliases:
 - C. A. R. Hoare
 - C.A.R. Hoare

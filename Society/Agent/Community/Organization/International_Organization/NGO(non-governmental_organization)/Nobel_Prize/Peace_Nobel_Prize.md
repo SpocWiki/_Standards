@@ -76,11 +76,11 @@ dv_has_:
     cs: Seznam nositelů Nobelovy ceny za mír
     da: liste over modtagere af Nobels Fredspris
     de: Liste der Friedensnobelpreisträger
-    de-ch: Liste der Friedensnobelpreisträger
+    de_ch: Liste der Friedensnobelpreisträger
     eml: Elèinc di Prémi Nobel per la Pêś
     en: list of Nobel Peace Prize laureates
-    en-ca: list of Nobel Peace Prize laureates
-    en-gb: list of Nobel Peace Prize laureates
+    en_ca: list of Nobel Peace Prize laureates
+    en_gb: list of Nobel Peace Prize laureates
     en-us: list of Nobel Peace Prize laureates
     es: Anexo:Ganadores del Premio Nobel de la Paz
     et: Nobeli rahuauhinna laureaatide loend
@@ -125,8 +125,8 @@ dv_has_:
     vi: Danh sách người đoạt giải Nobel Hòa bình
     yue: 諾貝爾和平獎得主一覽
     zh: 諾貝爾和平獎得主列表
-    zh-hant: 諾貝爾和平獎得主列表
-    zh-hk: 諾貝爾和平獎得主列表
+    zh_hant: 諾貝爾和平獎得主列表
+    zh_hk: 諾貝爾和平獎得主列表
 ---
 ## #has_/text_of_/abstract 
 

@@ -123,7 +123,7 @@ dv_has_:
     azb: تانک
     ba: Танк
     be: танк
-    be-tarask: танк
+    be_tarask: танк
     bg: танк
     bn: ট্যাংক
     bo: ཁྲབ་ལྡན་འཁོར་ལོ།
@@ -254,9 +254,9 @@ dv_has_:
     yi: טאנק
     yue: 坦克車
     zh: 坦克
-    zh-hans: 坦克
-    zh-hant: 戰車 (坦克)
-    zh-tw: 坦克
+    zh_hans: 坦克
+    zh_hant: 戰車 (坦克)
+    zh_tw: 坦克
 ---
 # [[Tank]] 
 

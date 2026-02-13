@@ -102,7 +102,7 @@ dv_has_:
     az: müəssisə
     ba: ижтимағи институт
     be: сацыяльны інстытут
-    be-tarask: сацыяльны інстытут
+    be_tarask: сацыяльны інстытут
     bew: Tata kemasarakatan
     bg: Институция
     bn: প্রতিষ্ঠান
@@ -114,11 +114,11 @@ dv_has_:
     cy: sefydliad
     da: institution
     de: Institution
-    de-ch: Institution
+    de_ch: Institution
     el: θεσμός
     en: institution
-    en-ca: Institution
-    en-gb: institution
+    en_ca: Institution
+    en_gb: institution
     eo: institucio
     es: institución
     et: institutsioon
@@ -141,11 +141,11 @@ dv_has_:
     ka: საჯარო ინსტიტუტი
     kaa: Jámiyetlik shólkem
     kk: Әлеуметтік ұйым
-    kk-arab: الەۋمەتتىك ۇيىم
+    kk_arab: الەۋمەتتىك ۇيىم
     kk-cn: الەۋمەتتىك ۇيىم
-    kk-cyrl: Әлеуметтік ұйым
+    kk_cyrl: Әлеуметтік ұйым
     kk-kz: Әлеуметтік ұйым
-    kk-latn: Älewmettik uýım
+    kk_latn: Älewmettik uýım
     kk-tr: Älewmettik uýım
     kn: ಸಂಸ್ಥೆ
     ko: 제도
@@ -158,7 +158,7 @@ dv_has_:
     mk: установа
     mn: Нийгмийн институт
     ms: institusi
-    ms-arab: اينستيتوسي
+    ms_arab: اينستيتوسي
     my: အင်စတီကျူးရှင်း
     nan: Chè-tō͘
     nb: institusjon
@@ -170,7 +170,7 @@ dv_has_:
     pl: instytucja
     pnb: ادارہ
     pt: instituição
-    pt-br: instituição
+    pt_br: instituição
     ro: instituție
     ru: общественный институт
     scn: istituzzioni
@@ -180,8 +180,8 @@ dv_has_:
     sl: ustanova
     sq: institucion
     sr: установа
-    sr-ec: установа
-    sr-el: установа
+    sr_ec: установа
+    sr_el: установа
     sv: institution
     szl: instytucyjŏ
     ta: நிறுவனம்
@@ -197,12 +197,12 @@ dv_has_:
     yo: Ìdìmúlẹ̀
     yue: 制度
     zh: 制度
-    zh-cn: 制度
-    zh-hans: 制度
-    zh-hant: 制度
-    zh-hk: 制度
-    zh-sg: 制度
-    zh-tw: 制度
+    zh_cn: 制度
+    zh_hans: 制度
+    zh_hant: 制度
+    zh_hk: 制度
+    zh_sg: 制度
+    zh_tw: 制度
 ---
 # [[Institution]] 
 

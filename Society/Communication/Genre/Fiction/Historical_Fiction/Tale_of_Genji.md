@@ -243,7 +243,7 @@ dv_has_:
     ban: Genji Monogatari
     bcl: An Osipon ni Genji
     be: Аповесць пра Гэндзі
-    be-tarask: Аповесьць пра Гэндзі
+    be_tarask: Аповесьць пра Гэндзі
     bg: Сказание за Генджи
     bn: গেঞ্জির উপাখ্যান
     br: Genji Monogatari
@@ -261,8 +261,8 @@ dv_has_:
     de: Genji Monogatari
     el: Η ιστορία του Γκέντζι
     en: The Tale of Genji
-    en-ca: The Tale of Genji
-    en-gb: The Tale of Genji
+    en_ca: The Tale of Genji
+    en_gb: The Tale of Genji
     eo: Genĵi monogatari
     es: El relato de Genji
     et: Genji monogatari
@@ -311,7 +311,7 @@ dv_has_:
     pnb: گنجی کعانی
     ps: د ګنجي کیسه
     pt: Genji Monogatari
-    pt-br: Genji Monogatari
+    pt_br: Genji Monogatari
     ro: Povestea lui Genji
     ru: Повесть о Гэндзи
     rue: Повість за Ґендзі
@@ -339,8 +339,8 @@ dv_has_:
     yi: די מעשה פון גענזשי
     yue: 源氏物語
     zh: 源氏物語
-    zh-hans: 源氏物语
-    zh-hant: 源氏物語
+    zh_hans: 源氏物语
+    zh_hant: 源氏物語
 ---
 # [[Tale_of_Genji]] 
 

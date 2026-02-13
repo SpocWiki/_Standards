@@ -151,7 +151,7 @@ dv_has_:
     ba: шына яҙыу
     bar: Keuschrift
     be: клінапіс
-    be-tarask: клінапіс
+    be_tarask: клінапіс
     bg: клинописно писмо
     bjn: tulisan paku
     bn: কীলকাকার লিখন পদ্ধতি
@@ -219,7 +219,7 @@ dv_has_:
     pl: pismo klinowe
     ps: مېخي ليکدود
     pt: escrita cuneiforme
-    pt-br: escrita cuneiforme
+    pt_br: escrita cuneiforme
     rki: ကျူနီးဖောင်းစာ
     ro: cuneiform
     ru: клинопись
@@ -233,7 +233,7 @@ dv_has_:
     sw: mwandiko wa kikabari
     ta: ஆப்பெழுத்து
     tg: хатти мехӣ
-    tg-cyrl: хати мехӣ
+    tg_cyrl: хати мехӣ
     th: อักษรรูปลิ่ม
     tl: kuneiporma
     tr: çivi yazısı
@@ -246,9 +246,9 @@ dv_has_:
     xmf: სალიშობური ჭარალუა
     yue: 楔形字
     zh: 楔形文字
-    zh-hans: 楔形文字
-    zh-hant: 楔形文字
-    zh-tw: 楔形文字
+    zh_hans: 楔形文字
+    zh_hant: 楔形文字
+    zh_tw: 楔形文字
 ---
 # [[Cuneiform]] 
 

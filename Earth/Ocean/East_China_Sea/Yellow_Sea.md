@@ -184,7 +184,7 @@ dv_has_:
     ban: Segara Kuning
     bcl: Dagat Giyaw
     be: Жоўтае мора
-    be-tarask: Жоўтае мора
+    be_tarask: Жоўтае мора
     bg: Жълто море
     bn: পীতসাগর
     br: Mor Melen
@@ -242,7 +242,7 @@ dv_has_:
     mn: Шар тэнгис
     mr: पिवळा समुद्र
     ms: Laut Kuning
-    ms-arab: لاءوت کونيڠ
+    ms_arab: لاءوت کونيڠ
     mzn: زرد دریا
     nan: N̂g-hái
     nb: Gulehavet
@@ -285,7 +285,7 @@ dv_has_:
     xmf: ჸვინთელი ზუღა
     yue: 黃海
     zh: 黄海
-    zh-cn: 黄海
+    zh_cn: 黄海
 ---
 # [[Yellow_Sea]] 
 

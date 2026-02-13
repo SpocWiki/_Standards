@@ -77,7 +77,7 @@ dv_has_:
     arz: جو لويس
     ast: Joe Louis
     be: Джо Луіс
-    be-tarask: Джо Луіс
+    be_tarask: Джо Луіс
     bg: Джо Луис
     ca: Joe Luois
     cs: Joe Louis
@@ -86,8 +86,8 @@ dv_has_:
     de: Joe Louis
     el: Τζόε Λούις
     en: Joe Louis
-    en-ca: Joe Louis
-    en-gb: Joe Louis
+    en_ca: Joe Louis
+    en_gb: Joe Louis
     es: Joe Louis
     eu: Joe Louis
     fa: جو لوئیس
@@ -116,7 +116,7 @@ dv_has_:
     pap: Joe Louis
     pl: Joe Louis
     pt: Joe Louis
-    pt-br: Joe Louis
+    pt_br: Joe Louis
     qu: Joe Louis
     ro: Joe Louis
     ru: Джо Луис
@@ -133,12 +133,12 @@ dv_has_:
     yo: Joe Louis
     yue: 喬·路易斯
     zh: 喬·路易斯
-    zh-cn: 乔·路易斯
-    zh-hans: 乔·路易斯
-    zh-hant: 喬·路易斯
-    zh-hk: 喬·路易斯
-    zh-sg: 乔·路易斯
-    zh-tw: 喬·路易斯
+    zh_cn: 乔·路易斯
+    zh_hans: 乔·路易斯
+    zh_hant: 喬·路易斯
+    zh_hk: 喬·路易斯
+    zh_sg: 乔·路易斯
+    zh_tw: 喬·路易斯
 ---
 # [[Louis,Joe]] 
 

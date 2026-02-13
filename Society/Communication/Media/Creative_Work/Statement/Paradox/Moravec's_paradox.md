@@ -24,9 +24,9 @@ dv_has_:
     sv: Moravecs paradox
     uk: Парадокс Моравека
     zh: 莫拉維克悖論
-    zh-hans: 莫拉维克悖论
-    zh-hant: 莫拉維克悖論
-    zh-hk: 莫拉維克悖論
+    zh_hans: 莫拉维克悖论
+    zh_hant: 莫拉維克悖論
+    zh_hk: 莫拉維克悖論
 aliases:
 - Moravcův paradox
 - Moravec se paradoks

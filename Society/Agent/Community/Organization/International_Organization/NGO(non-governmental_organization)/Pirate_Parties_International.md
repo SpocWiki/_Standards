@@ -60,7 +60,7 @@ dv_has_:
     ar: أممية أحزاب القراصنة
     ast: Internacional de Partíos Pirata
     be: Пірацкі Інтэрнацыянал
-    be-tarask: Інтэрнацыянал пірацкіх партыяў
+    be_tarask: Інтэрнацыянал пірацкіх партыяў
     bg: Международна пиратска партия
     bho: पाइरेट पार्टीज इंटरनेशनल
     ca: Partits Pirata Internacional
@@ -69,8 +69,8 @@ dv_has_:
     de: Pirate Parties International
     el: Διεθνής Πειρατικών Κομμάτων
     en: Pirate Parties International
-    en-ca: Pirate Parties International
-    en-gb: Pirate Parties International
+    en_ca: Pirate Parties International
+    en_gb: Pirate Parties International
     eo: Internacia Pirata Partio
     es: Partidos Pirata Internacionales
     eu: Alderdi Piraten Internazionala
@@ -96,7 +96,7 @@ dv_has_:
     nn: Pirate Parties International
     oc: Pirate Parties International
     pl: Międzynarodowa Partia Piratów
-    pt-br: Internacional de Partidos Piratas
+    pt_br: Internacional de Partidos Piratas
     ru: Пиратский Интернационал
     sco: Pirate Pairties Internaitional
     sh: Internacionala piratskih partija
@@ -109,10 +109,10 @@ dv_has_:
     uk: Інтернаціонал Піратських Партій
     wuu: 海盗党国际
     zh: 海盜黨國際
-    zh-cn: 海盗党国际
-    zh-hans: 海盗党国际
-    zh-hant: 海盜黨國際
-    zh-tw: 海盜黨國際
+    zh_cn: 海盗党国际
+    zh_hans: 海盗党国际
+    zh_hant: 海盜黨國際
+    zh_tw: 海盜黨國際
 ---
 # [[Pirate_Parties_International]] 
 

@@ -88,7 +88,7 @@ dv_has_:
     ast: Soberbia
     az: Qürur
     be: Гонар
-    be-tarask: ганарыстасьць
+    be_tarask: ганарыстасьць
     bg: надменност
     br: Ourgouilh
     bs: Ponos
@@ -96,7 +96,7 @@ dv_has_:
     cs: pýcha
     da: hovmod
     de: Hochmut
-    de-ch: Hochmut
+    de_ch: Hochmut
     eml: Supèrbia
     en: haughtiness
     eo: fiero
@@ -116,11 +116,11 @@ dv_has_:
     id: Kesombongan
     it: superbia
     ja: 傲慢
-    kk-arab: تۇراقتى ٴۇيىر
+    kk_arab: تۇراقتى ٴۇيىر
     kk-cn: تۇراقتى ٴۇيىر
-    kk-cyrl: Тұрақты үйір
+    kk_cyrl: Тұрақты үйір
     kk-kz: Тұрақты үйір
-    kk-latn: Turaqtı üýir
+    kk_latn: Turaqtı üýir
     kk-tr: Turaqtı üýir
     kn: ಅಭಿಮಾನ
     ko: 교만
@@ -137,7 +137,7 @@ dv_has_:
     pl: pycha
     pnb: ہنکار
     pt: soberba
-    pt-br: Soberba
+    pt_br: Soberba
     ro: Mândrie
     ru: гордыня
     scn: Arrucanza (orgogghiu)
@@ -148,8 +148,8 @@ dv_has_:
     sk: Márnomyseľnosť
     sl: oholost
     sr: понос
-    sr-ec: Понос
-    sr-el: Ponos
+    sr_ec: Понос
+    sr_el: Ponos
     su: Adigung
     sv: högmod
     sw: Kiburi
@@ -164,12 +164,12 @@ dv_has_:
     wuu: 骄傲
     yue: 自豪
     zh: 骄傲
-    zh-cn: 骄傲
-    zh-hans: 骄傲
-    zh-hant: 驕傲
-    zh-hk: 驕傲
-    zh-sg: 骄傲
-    zh-tw: 驕傲
+    zh_cn: 骄傲
+    zh_hans: 骄傲
+    zh_hant: 驕傲
+    zh_hk: 驕傲
+    zh_sg: 骄傲
+    zh_tw: 驕傲
 ---
 # [[Haughtiness]] 
 

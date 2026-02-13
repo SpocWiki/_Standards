@@ -332,7 +332,7 @@ dv_has_:
     bar: Raphael
     bcl: Raphael
     be: Рафаэль Санці
-    be-tarask: Рафаэль
+    be_tarask: Рафаэль
     bg: Рафаело Санцио
     bi: Raphael
     bn: রাফায়েল
@@ -357,8 +357,8 @@ dv_has_:
     diq: Rafaello Sanzio
     el: Ραφαήλ
     en: Raphael
-    en-ca: Raphael
-    en-gb: Raphael
+    en_ca: Raphael
+    en_gb: Raphael
     eo: Rafaelo
     es: Rafael Sanzio
     et: Raffael
@@ -452,7 +452,7 @@ dv_has_:
     pms: Raffaello Sanzio
     pnb: رافیل
     pt: Rafael Sanzio
-    pt-br: Rafael Sanzio
+    pt_br: Rafael Sanzio
     qu: Raffaello Sanzio
     ro: Rafael
     roa-tara: Raffaelle Sanzio
@@ -472,7 +472,7 @@ dv_has_:
     sl: Raffaello Sanzio
     sq: Raffaello
     sr: Рафаел
-    sr-ec: Рафаело Санти
+    sr_ec: Рафаело Санти
     stq: Raffaelo Santi
     sv: Rafael
     sw: Raphael

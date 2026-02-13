@@ -119,7 +119,7 @@ dv_has_:
     ast: Presión sanguínea
     az: Qan təzyiqi
     be: крывяны ціск
-    be-tarask: крывяны ціск
+    be_tarask: крывяны ціск
     bg: Кръвно налягане
     bho: ब्लड प्रेशर
     bn: রক্তচাপ
@@ -135,8 +135,8 @@ dv_has_:
     dv: ލޭގެ ޕްރެޝަރު
     el: Πίεση αίματος
     en: blood pressure
-    en-ca: Blood pressure
-    en-gb: blood pressure
+    en_ca: Blood pressure
+    en_gb: blood pressure
     eo: sangopremo
     es: presión sanguínea
     et: vererõhk
@@ -209,7 +209,7 @@ dv_has_:
     yi: בלוט דרוק
     yue: 血壓
     zh: 血壓
-    zh-hans: 血压
+    zh_hans: 血压
 ---
 # [[Blood_Pressure]] 
 

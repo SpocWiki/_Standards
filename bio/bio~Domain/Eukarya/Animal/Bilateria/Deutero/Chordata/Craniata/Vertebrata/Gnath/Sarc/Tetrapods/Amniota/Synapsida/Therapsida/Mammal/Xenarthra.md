@@ -65,7 +65,7 @@ dv_has_:
     arz: غريبات المفاصل
     ast: Xenarthra
     az: Kəmdişlilər
-    be-tarask: Няпоўназубыя
+    be_tarask: Няпоўназубыя
     bg: непълнозъби
     bn: অনন্যসন্ধিধারী
     br: Xenarthra
@@ -76,8 +76,8 @@ dv_has_:
     de: Nebengelenktiere
     el: Ξενάρθρα
     en: Xenarthra
-    en-ca: Xenarthra
-    en-gb: Xenarthra
+    en_ca: Xenarthra
+    en_gb: Xenarthra
     eo: Ksenartroj
     es: xenartros
     eu: Xenarthra
@@ -121,7 +121,7 @@ dv_has_:
     oc: Xenarthra
     pl: szczerbaki
     pt: Xenarthra
-    pt-br: Xenarthra
+    pt_br: Xenarthra
     ro: Xenarthra
     ru: Ксенартры
     sh: Xenarthra
@@ -139,12 +139,12 @@ dv_has_:
     wuu: 异关节总目
     yue: 異關節總目
     zh: 异关节总目
-    zh-cn: 贫齿总目
-    zh-hans: 贫齿总目
-    zh-hant: 貧齒總目
-    zh-hk: 貧齒總目
-    zh-sg: 贫齿总目
-    zh-tw: 貧齒總目
+    zh_cn: 贫齿总目
+    zh_hans: 贫齿总目
+    zh_hant: 貧齒總目
+    zh_hk: 貧齒總目
+    zh_sg: 贫齿总目
+    zh_tw: 貧齒總目
 ---
 # [[Xenarthra]] 
 

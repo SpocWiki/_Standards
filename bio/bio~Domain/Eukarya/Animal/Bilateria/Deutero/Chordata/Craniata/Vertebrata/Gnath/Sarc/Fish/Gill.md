@@ -107,7 +107,7 @@ dv_has_:
     ban: Angsangan
     bcl: Hasang
     be: Шчэлепы
-    be-tarask: шчэлепы
+    be_tarask: шчэлепы
     bg: Хриле
     bs: Škrge
     ca: brànquia
@@ -144,7 +144,7 @@ dv_has_:
     kn: ಕಿವಿರುಗಳು
     ko: 아가미
     ku: rîşû
-    ku-latn: rîşû
+    ku_latn: rîşû
     la: Branchiae
     lb: Kim
     lt: Žiauna
@@ -172,14 +172,14 @@ dv_has_:
     sl: škrga
     sq: Velëza
     sr: шкрге
-    sr-ec: Шкрге
-    sr-el: Škrge
+    sr_ec: Шкрге
+    sr_el: Škrge
     su: Asang
     sv: gälar
     sw: Matamvua (samaki)
     ta: செவுள்
     tg: Ғалсама
-    tg-latn: Ƣalsama
+    tg_latn: Ƣalsama
     tr: Solungaç
     tt: саңак
     udm: жабраос
@@ -188,12 +188,12 @@ dv_has_:
     wuu: 鳃
     yue: 鰓
     zh: 鳃
-    zh-cn: 鳃
-    zh-hans: 鳃
-    zh-hant: 鰓
-    zh-hk: 鰓
-    zh-sg: 鳃
-    zh-tw: 鰓
+    zh_cn: 鳃
+    zh_hans: 鳃
+    zh_hant: 鰓
+    zh_hk: 鰓
+    zh_sg: 鳃
+    zh_tw: 鰓
 ---
 # [[Gill]] 
 

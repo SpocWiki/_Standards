@@ -62,7 +62,7 @@ dv_has_:
     ar: تاريخ البلقان
     ba: Балҡан тарихы
     be: гісторыя Балкан
-    be-tarask: гісторыя Балканаў
+    be_tarask: гісторыя Балканаў
     ca: Història dels Balcans
     de: Geschichte des Balkans
     el: Βαλκανική ιστορία
@@ -87,8 +87,8 @@ dv_has_:
     sl: zgodovina Balkana
     sq: Historia e Ballkanit
     sr: Историја Балканског полуострва
-    sr-ec: Историја Балкана
-    sr-el: Istorija Balkana
+    sr_ec: Историја Балкана
+    sr_el: Istorija Balkana
     sv: Balkans historia
     tr: Balkanlar tarihi
     uk: історія Балкан

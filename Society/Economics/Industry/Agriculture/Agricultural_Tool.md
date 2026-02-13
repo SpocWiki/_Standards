@@ -56,7 +56,7 @@ Commons_gallery: Agricultural equipment
 dv_has_:
   name_:
     ar: أداة زراعية
-    be-tarask: сельскагаспадарчая прылада
+    be_tarask: сельскагаспадарчая прылада
     bg: селскостопански инструмент
     ca: eina agrícola
     cs: zemědělský nástroj
@@ -82,7 +82,7 @@ dv_has_:
     nn: jordbruksreiskap
     pl: narzędzie rolnicze
     pt: ferramenta agrícola
-    pt-br: ferramenta agrícola
+    pt_br: ferramenta agrícola
     ru: сельскохозяйственные инструменты
     sl: kmetijsko orodje
     sr: пољопривредно оруђе

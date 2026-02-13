@@ -208,7 +208,7 @@ MeSH_tree_code:
 - J02.500.470
 dv_has_:
   name_:
-    aeb-arab: عضمة
+    aeb_arab: عضمة
     af: eier
     agq: eghum
     am: እንቁላል
@@ -225,7 +225,7 @@ dv_has_:
     bbj: pəm
     bcl: Sugok bilang kakanon
     be: яйка
-    be-tarask: яйка
+    be_tarask: яйка
     bew: Telor (makanan)
     bg: Яйце
     bkc: pàpala
@@ -250,8 +250,8 @@ dv_has_:
     ee: koklozi
     el: αυγό (τρόφιμο)
     en: egg as food
-    en-ca: egg
-    en-gb: egg
+    en_ca: egg
+    en_gb: egg
     eo: ovo
     es: huevo
     et: muna
@@ -312,14 +312,14 @@ dv_has_:
     mr: अंडी
     mrj: Мыны
     ms: telur
-    ms-arab: تلور
+    ms_arab: تلور
     mua: pãare
     myv: ал
     mzn: مرغانه
     nah: tōtoltetl
     nan: Nn̄g
     nb: egg
-    nds-nl: aai
+    nds_nl: aai
     ne: फुल
     nl: ei
     nmg: kí
@@ -366,7 +366,7 @@ dv_has_:
     tok: sike mama moku
     tr: yumurta
     tt: йомырка
-    tt-cyrl: йомырка
+    tt_cyrl: йомырка
     tvu: yɔnɔ́
     tw: kosua
     uk: яйце
@@ -386,11 +386,11 @@ dv_has_:
     yue: 蛋
     zh: 蛋
     zh-cn: 蛋
-    zh-hans: 蛋
-    zh-hant: 蛋
-    zh-hk: 蛋
-    zh-sg: 蛋
-    zh-tw: 蛋
+    zh_hans: 蛋
+    zh_hant: 蛋
+    zh_hk: 蛋
+    zh_sg: 蛋
+    zh_tw: 蛋
     zu: Amaqanda
 ---
 # [[Egg(Food)]]  🍳 

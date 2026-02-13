@@ -100,7 +100,7 @@ dv_has_:
     ar: قائمة الخضراوات الجذرية
     ast: raíz comestible
     be: карняплод
-    be-tarask: кораньплод
+    be_tarask: кораньплод
     bg: Кореноплод
     bn: শিকড় সবজি
     ca: arrel comestible
@@ -168,8 +168,8 @@ dv_has_:
     uz: Ildizmevalilar
     yue: 根菜
     zh: 根菜
-    zh-hans: 根菜
-    zh-hant: 根菜
+    zh_hans: 根菜
+    zh_hant: 根菜
 ---
 # [[Root_Vegetable]] 
 

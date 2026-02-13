@@ -231,7 +231,7 @@ dv_has_:
     bar: Margaret Atwood
     bcl: Margaret Atwood
     be: Маргарэт Этвуд
-    be-tarask: Маргарэт Этўуд
+    be_tarask: Маргарэт Этўуд
     bg: Маргарет Атууд
     bho: मार्गरेट एटवुड
     bn: মার্গারেট অ্যাটউড
@@ -245,11 +245,11 @@ dv_has_:
     da: Margaret Atwood
     de: Margaret Atwood
     de-at: Margaret Atwood
-    de-ch: Margaret Atwood
+    de_ch: Margaret Atwood
     el: Μάργκαρετ Άτγουντ
     en: Margaret Atwood
-    en-ca: Margaret Atwood
-    en-gb: Margaret Atwood
+    en_ca: Margaret Atwood
+    en_gb: Margaret Atwood
     eo: Margaret Atwood
     es: Margaret Atwood
     et: Margaret Atwood
@@ -282,8 +282,8 @@ dv_has_:
     kg: Margaret Atwood
     ko: 마거릿 애트우드
     ku: Margaret Atwood
-    ku-arab: مارگارەتئا توۆۆد
-    ku-latn: Margaret Atwood
+    ku_arab: مارگارەتئا توۆۆد
+    ku_latn: Margaret Atwood
     ky: Маргарет Этвуд
     la: Margarita Atwood
     lb: Margaret Atwood
@@ -300,7 +300,7 @@ dv_has_:
     nap: Margaret Atwood
     nb: Margaret Atwood
     nds: Margaret Atwood
-    nds-nl: Margaret Atwood
+    nds_nl: Margaret Atwood
     nl: Margaret Atwood
     nn: Margaret Atwood
     nrm: Margaret Atwood
@@ -312,7 +312,7 @@ dv_has_:
     pms: Margaret Atwood
     pnb: مارگریٹ ایٹ وڈ
     pt: Margaret Atwood
-    pt-br: Margaret Atwood
+    pt_br: Margaret Atwood
     rm: Margaret Atwood
     ro: Margaret Atwood
     ru: Маргарет Этвуд
@@ -325,7 +325,7 @@ dv_has_:
     smn: Margaret Atwood
     sq: Margaret Atwood
     sr: Маргарет Атвуд
-    sr-el: Margaret Atwood
+    sr_el: Margaret Atwood
     sv: Margaret Atwood
     sw: Margaret Atwood
     ta: மார்கரெட் அட்வுட்
@@ -343,12 +343,12 @@ dv_has_:
     wuu: 玛格丽特·阿特伍德
     yue: 瑪格麗特·愛特伍
     zh: 瑪格麗特·愛特伍
-    zh-cn: 玛格丽特·阿特伍德
-    zh-hans: 玛格丽特·阿特伍德
-    zh-hant: 瑪格麗特·愛特伍
-    zh-hk: 瑪嘉烈·艾活
-    zh-sg: 玛格丽特·阿特伍德
-    zh-tw: 瑪格麗特·愛特伍
+    zh_cn: 玛格丽特·阿特伍德
+    zh_hans: 玛格丽特·阿特伍德
+    zh_hant: 瑪格麗特·愛特伍
+    zh_hk: 瑪嘉烈·艾活
+    zh_sg: 玛格丽特·阿特伍德
+    zh_tw: 瑪格麗特·愛特伍
     zu: Margaret Atwood
 ---
 # [[Atwood,Margaret]] 

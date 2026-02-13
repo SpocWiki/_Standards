@@ -299,7 +299,7 @@ dv_has_:
     bar: Apollon
     bcl: Apollo
     be: Апалон
-    be-tarask: Апалён
+    be_tarask: Апалён
     bg: Аполон
     bn: অ্যাপোলো
     bo: ཨ་པོ་ལུའོ།
@@ -348,7 +348,7 @@ dv_has_:
     kn: ಅಪೊಲೊ
     ko: 아폴론
     ku: Apolon
-    ku-latn: Apolon
+    ku_latn: Apolon
     kw: Appolyn
     ky: Аполлон
     la: Apollo
@@ -389,7 +389,7 @@ dv_has_:
     sl: Apolon
     sq: Apoloni
     sr: Аполон
-    sr-ec: Аполон
+    sr_ec: Аполон
     sv: Apollon
     sw: Apolo
     ta: அப்போலோ
@@ -408,8 +408,8 @@ dv_has_:
     wuu: 阿波罗
     yue: 阿波羅
     zh: 阿波罗
-    zh-hant: 阿波羅
-    zh-tw: 阿波羅
+    zh_hant: 阿波羅
+    zh_tw: 阿波羅
 ---
 # [[Apollo]]  
 

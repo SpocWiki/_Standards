@@ -53,7 +53,7 @@ dv_has_:
     oc: Dasyurini
     pl: Niełazy
     pt: Dasyurini
-    pt-br: Dasyurini
+    pt_br: Dasyurini
     ro: Dasyurini
     ru: Dasyurini
     sl: Daysurini

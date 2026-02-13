@@ -350,7 +350,7 @@ dv_has_:
     da: Twitter
     de: X
     de-at: Twitter
-    de-ch: Twitter
+    de_ch: Twitter
     din: Twitter
     diq: Twitter
     dsb: Twitter
@@ -358,8 +358,8 @@ dv_has_:
     el: X
     eml: Twitter
     en: X
-    en-ca: X
-    en-gb: X
+    en_ca: X
+    en_gb: X
     en-us: X
     eo: X
     es: X
@@ -442,7 +442,7 @@ dv_has_:
     mni: ꯇ꯭ꯋꯤꯠꯇꯔ
     mr: ट्विटर
     ms: Twitter
-    ms-arab: تويتر
+    ms_arab: تويتر
     mul: X
     mwl: Twitter
     my: တွစ်တာ
@@ -453,7 +453,7 @@ dv_has_:
     nap: Twitter
     nb: X
     nds: Twitter
-    nds-nl: Twitter
+    nds_nl: Twitter
     ne: ट्विटर
     nia: Twitter
     nl: X
@@ -474,7 +474,7 @@ dv_has_:
     pnb: ٹویٹر
     ps: ټويټر
     pt: X
-    pt-br: X
+    pt_br: X
     qu: Twitter
     rm: Twitter
     rmf: Twitter
@@ -505,8 +505,8 @@ dv_has_:
     so: Twitter
     sq: Twitter
     sr: Твитер
-    sr-ec: Twitter
-    sr-el: X
+    sr_ec: Twitter
+    sr_el: X
     stq: Twitter
     su: Twitter
     sv: X
@@ -521,7 +521,7 @@ dv_has_:
     tok: lipu X
     tr: X
     tt: Twitter
-    tt-cyrl: Twitter
+    tt_cyrl: Twitter
     ug: تىۋىتتېر
     uk: Twitter
     ur: ٹویٹر
@@ -541,14 +541,14 @@ dv_has_:
     zea: Twitter
     zgh: ⵜⵡⵉⵜⵜⵔ
     zh: X
-    zh-cn: X
-    zh-hans: X
-    zh-hant: X
-    zh-hk: X
-    zh-mo: X
+    zh_cn: X
+    zh_hans: X
+    zh_hant: X
+    zh_hk: X
+    zh_mo: X
     zh-my: X
-    zh-sg: X
-    zh-tw: X
+    zh_sg: X
+    zh_tw: X
 ---
 # [[X(Twitter)]] 
 

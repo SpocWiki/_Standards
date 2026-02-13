@@ -65,7 +65,7 @@ dv_has_:
   name_:
     ar: حرب جوية
     ast: guerra aérea
-    be-tarask: паветраная вайна
+    be_tarask: паветраная вайна
     br: brezel-aer
     ca: guerra aèria
     ckb: شەڕی ئاسمانی
@@ -108,12 +108,12 @@ dv_has_:
     ur: فضائی جنگ
     yue: 空戰
     zh: 空中戰爭
-    zh-cn: 空中战争
-    zh-hans: 空战
-    zh-hant: 空戰
-    zh-hk: 空戰
-    zh-sg: 空中战争
-    zh-tw: 空戰
+    zh_cn: 空中战争
+    zh_hans: 空战
+    zh_hant: 空戰
+    zh_hk: 空戰
+    zh_sg: 空中战争
+    zh_tw: 空戰
 ---
 # [[Aerial_warfare]] 
 

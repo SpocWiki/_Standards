@@ -146,7 +146,7 @@ dv_has_:
     ba: Ураҙа байрамы
     ban: Idul Fitri
     bdr: Ari Raya' Poso
-    be-tarask: Ураза-байрам
+    be_tarask: Ураза-байрам
     bg: Рамазан байрам
     bho: ईद
     bjn: Idul Fitri
@@ -162,13 +162,13 @@ dv_has_:
     da: Eid ul-Fitr
     dag: Kɔnyuri Chuɣu
     de: Fest des Fastenbrechens
-    de-ch: Fest des Fastenbrechens
+    de_ch: Fest des Fastenbrechens
     diq: Roşanê Remezani
     dtp: Tadau Raya Aidilfitri
     el: Ιντ αλ-φιτρ
     en: Eid al-Fitr
-    en-ca: Eid al-Fitr
-    en-gb: Eid al-Fitr
+    en_ca: Eid al-Fitr
+    en_gb: Eid al-Fitr
     eo: Eid ul-Fitr
     es: Aíd al-Fitr
     eu: Eid al-Fitr
@@ -217,13 +217,13 @@ dv_has_:
     mn: Ийд ал-Фит
     mr: ईद-उल-फित्र
     ms: Hari Raya Aidilfitri
-    ms-arab: هاري راي عيدالفطري
+    ms_arab: هاري راي عيدالفطري
     mt: Għid il-Fatar
     mul: Eid al-Fitr
     mzn: عید فطر
     nan: Khai-chai-cheh
     nb: Id al-fitr
-    nds-nl: Sukerfeest
+    nds_nl: Sukerfeest
     ne: ईद
     nl: Suikerfeest
     nn: Id ul-fitr
@@ -236,7 +236,7 @@ dv_has_:
     pnb: عید الفطر
     ps: کوچنی اختر
     pt: Eid ul-Fitr
-    pt-br: Eid al-Fitr
+    pt_br: Eid al-Fitr
     ro: Aid Al-Fitr
     ru: Ураза-байрам
     sat: ᱤᱫᱽ ᱟᱞᱼᱯᱷᱤᱛᱚᱨ
@@ -271,10 +271,10 @@ dv_has_:
     wuu: 开斋节
     yue: 開齋節
     zh: 開齋節
-    zh-cn: 开斋节
-    zh-hans: 开斋节
-    zh-hant: 開齋節
-    zh-tw: 開齋節
+    zh_cn: 开斋节
+    zh_hans: 开斋节
+    zh_hant: 開齋節
+    zh_tw: 開齋節
 ---
 # [[Eid_al-Fitr]] 
 

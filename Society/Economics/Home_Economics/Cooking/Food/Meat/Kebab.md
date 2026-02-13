@@ -80,7 +80,7 @@ dv_has_:
     azb: کاباب
     ba: Кебаб
     be: Кебаб
-    be-tarask: кебаб
+    be_tarask: кебаб
     bew: Kebab
     bg: кебапче
     bn: কাবাব
@@ -130,8 +130,8 @@ dv_has_:
     ko: 케밥
     ks: کباب
     ku: Kebab
-    ku-arab: کەباب
-    ku-latn: Kebab
+    ku_arab: کەباب
+    ku_latn: Kebab
     kus: kebab
     kw: Kebab
     la: Chebeb
@@ -174,7 +174,7 @@ dv_has_:
     su: Kebab
     sv: kebab
     tg: Кабоб
-    tg-latn: Kabob
+    tg_latn: Kabob
     th: กะบาบ
     tl: Kebab
     tr: kebap
@@ -190,11 +190,11 @@ dv_has_:
     yue: 卡巴
     zh: 卡博串
     zh-cn: 卡博串
-    zh-hans: 卡博串
-    zh-hant: 卡博串
-    zh-hk: 卡博串
-    zh-sg: 卡博串
-    zh-tw: 卡博串
+    zh_hans: 卡博串
+    zh_hant: 卡博串
+    zh_hk: 卡博串
+    zh_sg: 卡博串
+    zh_tw: 卡博串
 ---
 # [[Kebab]] 
 

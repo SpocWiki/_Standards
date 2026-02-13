@@ -207,7 +207,7 @@ dv_has_:
     ba: әйләнә
     bcl: Bilog
     be: акружнасць
-    be-tarask: акружына
+    be_tarask: акружына
     bg: окръжност
     bn: বৃত্ত
     bo: སྒོར་ཐིག་
@@ -220,14 +220,14 @@ dv_has_:
     cy: cylch
     da: cirkel
     de: Kreis
-    de-ch: Kreis
+    de_ch: Kreis
     dsb: cera krejza
     egl: serć
     el: κύκλος
     eml: serć
     en: circle
-    en-ca: circle
-    en-gb: circle
+    en_ca: circle
+    en_gb: circle
     en-us: circle
     eo: cirklo
     es: circunferencia
@@ -308,7 +308,7 @@ dv_has_:
     pnb: چکر
     ps: ګردکه
     pt: circunferência
-    pt-br: círculo
+    pt_br: círculo
     qu: p'allta muyu
     ro: cerc
     ru: окружность
@@ -352,8 +352,8 @@ dv_has_:
     yue: 圈
     za: luenz
     zh: 圓
-    zh-hant: 圓
-    zh-hk: 圓
+    zh_hant: 圓
+    zh_hk: 圓
 ---
 # [[Circle]] ⭕ 
 

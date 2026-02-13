@@ -21,8 +21,8 @@ dv_has_:
     ceb: Oryzomyini
     de: Oryzomyini
     en: Oryzomyini
-    en-ca: Oryzomyini
-    en-gb: Oryzomyini
+    en_ca: Oryzomyini
+    en_gb: Oryzomyini
     eo: Oryzomyini
     es: Oryzomyini
     eu: Oryzomyini
@@ -43,7 +43,7 @@ dv_has_:
     oc: Oryzomyini
     pl: Oryzomyini
     pt: Oryzomyini
-    pt-br: Oryzomyini
+    pt_br: Oryzomyini
     ro: Oryzomyini
     ru: Oryzomyini
     sq: Oryzomyini
@@ -52,9 +52,9 @@ dv_has_:
     vo: Oryzomyini
     war: Oryzomyini
     zh: 稻鼠族
-    zh-cn: 稻鼠族
-    zh-hans: 稻鼠族
-    zh-tw: 稻鼠族
+    zh_cn: 稻鼠族
+    zh_hans: 稻鼠族
+    zh_tw: 稻鼠族
 ---
 # [[Oryzomyini]] 
 

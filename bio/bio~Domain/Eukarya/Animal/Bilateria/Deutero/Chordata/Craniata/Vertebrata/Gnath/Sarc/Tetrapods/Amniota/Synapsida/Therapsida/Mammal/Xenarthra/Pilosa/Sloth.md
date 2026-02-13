@@ -115,7 +115,7 @@ dv_has_:
     ba: Иренсәк
     ban: Sloth
     be: Ляніўцы
-    be-tarask: лянівец
+    be_tarask: лянівец
     bg: ленивци
     bn: স্লথ
     br: Lezireg
@@ -158,7 +158,7 @@ dv_has_:
     jv: Sloth
     ka: ზარმაცასებრნი
     kk: Жалқауаң
-    kk-cyrl: Жалқауаң
+    kk_cyrl: Жалқауаң
     kn: ಸ್ಲೋತ್
     ko: 나무늘보
     kw: Diegyn
@@ -207,9 +207,9 @@ dv_has_:
     wuu: 树懒
     yue: 樹懶
     zh: 树懒亚目
-    zh-cn: 树懒亚目
-    zh-hans: 树懒亚目
-    zh-tw: 樹懶亞目
+    zh_cn: 树懒亚目
+    zh_hans: 树懒亚目
+    zh_tw: 樹懶亞目
 ---
 # [[Sloth]] 🦥 
 

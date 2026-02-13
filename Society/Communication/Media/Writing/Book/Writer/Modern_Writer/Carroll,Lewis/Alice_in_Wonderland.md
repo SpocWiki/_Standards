@@ -222,7 +222,7 @@ dv_has_:
     az: Alisa möcüzələr ölkəsində
     ba: Әлисәнең Сәйерстандағы мажаралары
     be: Алісіны прыгоды ў дзівоснай краіне
-    be-tarask: Алесіны прыгоды ў дзівоснай краіне
+    be_tarask: Алесіны прыгоды ў дзівоснай краіне
     bg: Алиса в Страната на чудесата
     bjn: Alice's Adventures in Wonderland
     bn: অ্যালিসের ওয়ান্ডারল্যান্ডে রোমাঞ্চকর ভ্রমণ
@@ -234,11 +234,11 @@ dv_has_:
     cy: Anturiaethau Alys yng Ngwlad Hud
     da: Alice i Eventyrland
     de: Alice im Wunderland
-    de-ch: Alice im Wunderland
+    de_ch: Alice im Wunderland
     el: Οι Περιπέτειες της Αλίκης στη Χώρα των Θαυμάτων
     en: Alice's Adventures in Wonderland
-    en-ca: Alice's Adventures in Wonderland
-    en-gb: Alice's Adventures in Wonderland
+    en_ca: Alice's Adventures in Wonderland
+    en_gb: Alice's Adventures in Wonderland
     eo: La aventuroj de Alicio en Mirlando
     es: Alicia en el país de las maravillas
     et: Alice Imedemaal
@@ -294,7 +294,7 @@ dv_has_:
     pl: Alicja w Krainie Czarów
     pnb: ایلس ان ونڈرلینڈ
     pt: Alice no País das Maravilhas
-    pt-br: Alice no País das Maravilhas
+    pt_br: Alice no País das Maravilhas
     ro: Alice în Țara Minunilor
     ru: Алиса в Стране чудес
     sco: Alice's Adventirs in Wunnerlaund
@@ -303,8 +303,8 @@ dv_has_:
     sl: Aličine dogodivščine v čudežni deželi
     sq: Aventurat e Lizës në Botën e Çudirave
     sr: Alisa u zemlji čuda
-    sr-ec: Алиса у земљи чуда
-    sr-el: Alisa u zemlji čuda
+    sr_ec: Алиса у земљи чуда
+    sr_el: Alisa u zemlji čuda
     sv: Alice i Underlandet
     szl: Przigody ôd Alicyje we Kraju Dziwōw
     szy: u nitasepian a kakitizaan ni Alice
@@ -326,11 +326,11 @@ dv_has_:
     wuu: 爱丽丝梦游仙境
     yue: 愛麗絲夢遊仙境
     zh: 爱丽丝梦游仙境
-    zh-cn: 爱丽丝梦游仙境
-    zh-hans: 爱丽丝梦游仙境
-    zh-hant: 愛麗絲夢遊仙境
-    zh-hk: 愛麗絲夢遊仙境
-    zh-tw: 愛麗絲夢遊仙境
+    zh_cn: 爱丽丝梦游仙境
+    zh_hans: 爱丽丝梦游仙境
+    zh_hant: 愛麗絲夢遊仙境
+    zh_hk: 愛麗絲夢遊仙境
+    zh_tw: 愛麗絲夢遊仙境
 ---
 # [[Alice_in_Wonderland]] 
 

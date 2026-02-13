@@ -156,7 +156,7 @@ dv_has_:
     az: Orson Uells
     azb: اورسن ولز
     be: Орсан Уэлс
-    be-tarask: Орсан Ўэлз
+    be_tarask: Орсан Ўэлз
     bg: Орсън Уелс
     bho: ऑर्सन वेल्स
     bn: অরসন ওয়েলস
@@ -168,12 +168,12 @@ dv_has_:
     cy: Orson Welles
     da: Orson Welles
     de: Orson Welles
-    de-ch: Orson Welles
+    de_ch: Orson Welles
     diq: Orson Welles
     el: Όρσον Γουέλς
     en: Orson Welles
-    en-ca: Orson Welles
-    en-gb: Orson Welles
+    en_ca: Orson Welles
+    en_gb: Orson Welles
     eo: Orson Welles
     es: Orson Welles
     et: Orson Welles
@@ -216,7 +216,7 @@ dv_has_:
     pap: Orson Welles
     pl: Orson Welles
     pt: Orson Welles
-    pt-br: Orson Welles
+    pt_br: Orson Welles
     qu: Orson Welles
     ro: Orson Welles
     ru: Орсон Уэллс
@@ -242,12 +242,12 @@ dv_has_:
     yue: 奧遜威爾斯
     za: Orson Welles
     zh: 奧森·威爾斯
-    zh-cn: 奥森·韦尔斯
-    zh-hans: 奥逊·威尔斯
-    zh-hant: 奧遜威爾斯
+    zh_cn: 奥森·韦尔斯
+    zh_hans: 奥逊·威尔斯
+    zh_hant: 奧遜威爾斯
     zh-my: 奥逊·威尔斯
-    zh-sg: 奥逊·威尔斯
-    zh-tw: 奧森·威爾斯
+    zh_sg: 奥逊·威尔斯
+    zh_tw: 奧森·威爾斯
 ---
 # [[Welles,Orson]] 
 

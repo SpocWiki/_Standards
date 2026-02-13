@@ -145,7 +145,7 @@ dv_has_:
     ba: Көньяҡ тропик
     bcl: Tropiko kan Kaprikorn
     be: Паўднёвы тропік
-    be-tarask: тропік Казярога
+    be_tarask: тропік Казярога
     bg: Тропик на Козирога
     bho: मकर रेखा
     bn: মকরক্রান্তি
@@ -185,8 +185,8 @@ dv_has_:
     ka: სამხრეთი ტროპიკი
     ko: 남회귀선
     ku: Kelûya Karê
-    ku-arab: کەلوویا کارێ
-    ku-latn: Kelûya Karê
+    ku_arab: کەلوویا کارێ
+    ku_latn: Kelûya Karê
     la: Capricorni tropicus
     lb: Südleche Wendekrees
     lt: Ožiaragio atogrąža
@@ -217,8 +217,8 @@ dv_has_:
     sl: kozorogov povratnik
     smn: kavrâs jorgáldâskiärdu
     sr: Јужни повратник
-    sr-ec: Јужни повратник
-    sr-el: Južni povratnik
+    sr_ec: Јужни повратник
+    sr_el: Južni povratnik
     sv: Stenbockens vändkrets
     syl: ꠖꠇꠘꠧ ꠈꠞꠐ
     ta: மகர ரேகை
@@ -235,12 +235,12 @@ dv_has_:
     wuu: 南回歸線
     yue: 南回歸線
     zh: 南回归线
-    zh-cn: 南回归线
-    zh-hans: 南回归线
-    zh-hant: 南回歸線
-    zh-hk: 南回歸線
-    zh-sg: 南回归线
-    zh-tw: 南回歸線
+    zh_cn: 南回归线
+    zh_hans: 南回归线
+    zh_hant: 南回歸線
+    zh_hk: 南回歸線
+    zh_sg: 南回归线
+    zh_tw: 南回歸線
 ---
 # [[Tropic_of_Capricorn]] 
 

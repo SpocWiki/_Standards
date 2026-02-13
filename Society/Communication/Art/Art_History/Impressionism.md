@@ -110,7 +110,7 @@ dv_has_:
     az: impressionizm
     azb: امپرسیونیست
     be: імпрэсіянізм
-    be-tarask: імпрэсіянізм
+    be_tarask: імпрэсіянізм
     bg: Импресионизъм
     bn: অন্তর্মুদ্রাবাদ
     bs: Impresionizam
@@ -168,7 +168,7 @@ dv_has_:
     mzn: امپرسیونیسم
     nan: Ìn-siōng-phài
     nb: impresjonisme
-    nds-nl: impressionisme
+    nds_nl: impressionisme
     ne: प्रभाववाद
     nl: impressionisme
     nn: impresjonisme
@@ -195,8 +195,8 @@ dv_has_:
     sms: impressionismm
     sq: impresionizem
     sr: импресионизам
-    sr-ec: импресионизам
-    sr-el: impresionizam
+    sr_ec: импресионизам
+    sr_el: impresionizam
     stq: Impressionismus
     sv: impressionism
     ta: உணர்வுப்பதிவுவாதம்
@@ -214,8 +214,8 @@ dv_has_:
     xmf: იმპრესიონიზმი
     yue: 印象派
     zh: 印象派
-    zh-hant: 印象派
-    zh-tw: 印象派
+    zh_hant: 印象派
+    zh_tw: 印象派
 ---
 # [[Impressionism]] 
 

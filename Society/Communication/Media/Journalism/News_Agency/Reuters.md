@@ -192,7 +192,7 @@ dv_has_:
     az: Reuters
     azb: رویترز
     be: Рэйтэрс
-    be-tarask: Ройтэрз
+    be_tarask: Ройтэрз
     bg: Ройтерс
     bho: रायटर्स
     bn: রয়টার্স
@@ -203,11 +203,11 @@ dv_has_:
     cy: Reuters
     da: Reuters
     de: Reuters
-    de-ch: Reuters
+    de_ch: Reuters
     el: Reuters
     en: Reuters
-    en-ca: Reuters
-    en-gb: Reuters
+    en_ca: Reuters
+    en_gb: Reuters
     eo: Reuters
     es: Reuters
     et: Reuters
@@ -228,16 +228,16 @@ dv_has_:
     ja: ロイター
     ka: Reuters
     kk: Reuters
-    kk-arab: رەيتەر
+    kk_arab: رەيتەر
     kk-cn: رەيتەر
     kk-kz: Рейтер
-    kk-latn: Reýter
+    kk_latn: Reýter
     kk-tr: Reýter
     km: រ៉យទ័រ
     ko: 로이터
     ku: Reuters
-    ku-arab: رەوتەرس
-    ku-latn: Reuters
+    ku_arab: رەوتەرس
+    ku_latn: Reuters
     lb: Reuters
     lt: Reuters
     lv: Reuters
@@ -259,7 +259,7 @@ dv_has_:
     pl: Reuters
     ps: رویټرز
     pt: Reuters
-    pt-br: Reuters
+    pt_br: Reuters
     ro: Reuters
     ru: Ройтерс
     sco: Reuters
@@ -270,8 +270,8 @@ dv_has_:
     sl: Reuters
     sq: Reuters
     sr: Ројтерс
-    sr-ec: Ројтерс
-    sr-el: Rojters
+    sr_ec: Ројтерс
+    sr_el: Rojters
     sv: Reuters
     sw: Reuters
     szy: ya 路透社 hananay a iayaway nu tuluway i kitakitan pakatinengan tu tademawan a singbun
@@ -288,12 +288,12 @@ dv_has_:
     yi: רויטערס
     yue: 路透社
     zh: 路透社
-    zh-cn: 路透社
-    zh-hans: 路透社
-    zh-hant: 路透社
-    zh-hk: 路透社
-    zh-sg: 路透社
-    zh-tw: 路透社
+    zh_cn: 路透社
+    zh_hans: 路透社
+    zh_hant: 路透社
+    zh_hk: 路透社
+    zh_sg: 路透社
+    zh_tw: 路透社
 ---
 # [[Reuters]] 
 

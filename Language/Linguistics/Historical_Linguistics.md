@@ -101,7 +101,7 @@ dv_has_:
     ast: llingüística histórica
     az: tarixi linqvistika
     be: гістарычнае мовазнаўства
-    be-tarask: гістарычная лінгвістыка
+    be_tarask: гістарычная лінгвістыка
     bg: историческа лингвистика
     bn: ঐতিহাসিক ভাষাবিজ্ঞান
     ca: lingüística diacrònica
@@ -132,8 +132,8 @@ dv_has_:
     ka: ისტორიული ენათმეცნიერება
     ko: 역사언어학
     ku: zimannasiya dîrokî
-    ku-arab: زمانناسیا دیرۆکی
-    ku-latn: zimannasiya dîrokî
+    ku_arab: زمانناسیا دیرۆکی
+    ku_latn: zimannasiya dîrokî
     la: linguistica diachronica
     lt: istorinė kalbotyra
     lv: vēsturiskā valodniecība
@@ -141,7 +141,7 @@ dv_has_:
     ml: ചരിത്രാത്മക ഭാഷാശാസ്ത്രം
     mr: ऐतिहासिक भाषाशास्त्र
     ms: linguistik sejarawi
-    ms-arab: ليڠݢوءيستيک سجاراوي
+    ms_arab: ليڠݢوءيستيک سجاراوي
     nb: historisk lingvistikk
     nl: historische taalkunde
     nn: historisk lingvistikk
@@ -170,12 +170,12 @@ dv_has_:
     wuu: 历史语言学
     yue: 歷史語言學
     zh: 歷史語言學
-    zh-cn: 历史语言学
-    zh-hans: 历史语言学
-    zh-hant: 歷史語言學
-    zh-hk: 歷史語言學
-    zh-sg: 历史语言学
-    zh-tw: 歷史語言學
+    zh_cn: 历史语言学
+    zh_hans: 历史语言学
+    zh_hant: 歷史語言學
+    zh_hk: 歷史語言學
+    zh_sg: 历史语言学
+    zh_tw: 歷史語言學
 ---
 # [[Historical_Linguistics]] 
 

@@ -77,7 +77,7 @@ dv_has_:
     ast: Pinaceae
     az: Şamkimilər
     be: Хваёвыя
-    be-tarask: Хваёвыя
+    be_tarask: Хваёвыя
     bg: борови
     bs: Pinaceae
     ca: pinàcies
@@ -119,17 +119,17 @@ dv_has_:
     ja: マツ科
     ka: ფიჭვისებრნი
     kk: Қарағайлар тұқымдасы
-    kk-arab: قاراعايلار تۇقىمداسى
+    kk_arab: قاراعايلار تۇقىمداسى
     kk-cn: قاراعايلار تۇقىمداسى
-    kk-cyrl: Қарағайлар тұқымдасы
+    kk_cyrl: Қарағайлар тұқымдасы
     kk-kz: Қарағайлар тұқымдасы
-    kk-latn: Qarağaýlar tuqımdası
+    kk_latn: Qarağaýlar tuqımdası
     kk-tr: Qarağaýlar tuqımdası
     ko: 소나무과
     koi: Пожум котыр
     ku: Famîleya qajan
-    ku-arab: فامیلەیا قاژان
-    ku-latn: Famîleya qajan
+    ku_arab: فامیلەیا قاژان
+    ku_latn: Famîleya qajan
     la: Pinaceae
     lt: pušiniai
     lv: priežu dzimta
@@ -148,7 +148,7 @@ dv_has_:
     pl: sosnowate
     pnb: چیڑھ ٹبر
     pt: Pinaceae
-    pt-br: Pinaceae
+    pt_br: Pinaceae
     qu: Pinu yura rikch'aq ayllu
     ro: Pinaceae
     ru: сосновые
@@ -160,8 +160,8 @@ dv_has_:
     smn: pecišadoh
     sq: Pinaceae
     sr: Pinaceae
-    sr-ec: Pinaceae
-    sr-el: Pinaceae
+    sr_ec: Pinaceae
+    sr_el: Pinaceae
     sv: tallväxter
     sw: Msonobari
     th: วงศ์สนเขา
@@ -176,12 +176,12 @@ dv_has_:
     yue: 松樹
     za: Gocoengz
     zh: 松科
-    zh-cn: 松科
-    zh-hans: 松科
-    zh-hant: 松科
-    zh-hk: 松科
-    zh-sg: 松科
-    zh-tw: 松科
+    zh_cn: 松科
+    zh_hans: 松科
+    zh_hant: 松科
+    zh_hk: 松科
+    zh_sg: 松科
+    zh_tw: 松科
 ---
 # [[Pine]] 
 

@@ -34,7 +34,7 @@ dv_has_:
   name_:
     aa: Jürgen Klopp
     ace: Jürgen Klopp
-    aeb-latn: Jürgen Klopp
+    aeb_latn: Jürgen Klopp
     af: Jürgen Klopp
     an: Jürgen Klopp
     ang: Jürgen Klopp
@@ -45,10 +45,10 @@ dv_has_:
     az: Yurqen Klopp
     azb: یورقن کلوپ
     bar: Jürgen Klopp
-    bbc-latn: Jürgen Klopp
+    bbc_latn: Jürgen Klopp
     bcl: Jürgen Klopp
     be: Юрген Клоп
-    be-tarask: Юрген Клёп
+    be_tarask: Юрген Клёп
     bg: Юрген Клоп
     bi: Jürgen Klopp
     bjn: Jürgen Klopp
@@ -58,7 +58,7 @@ dv_has_:
     bs: Jürgen Klopp
     bug: Jürgen Klopp
     ca: Jürgen Klopp
-    cbk-zam: Jürgen Klopp
+    cbk_zam: Jürgen Klopp
     cdo: Jürgen Klopp
     ceb: Jürgen Klopp
     ch: Jürgen Klopp
@@ -66,21 +66,21 @@ dv_has_:
     chy: Jürgen Klopp
     co: Jürgen Klopp
     cr: Jürgen Klopp
-    crh-latn: Jürgen Klopp
+    crh_latn: Jürgen Klopp
     cs: Jürgen Klopp
     csb: Jürgen Klopp
     cy: Jurgen Klopp
     da: Jürgen Klopp
     de: Jürgen Klopp
     de-at: Jürgen Klopp
-    de-ch: Jürgen Klopp
+    de_ch: Jürgen Klopp
     diq: Jürgen Klopp
     dsb: Jürgen Klopp
     el: Γιούργκεν Κλοπ
     eml: Jürgen Klopp
     en: Jürgen Klopp
-    en-ca: Jürgen Klopp
-    en-gb: Jürgen Klopp
+    en_ca: Jürgen Klopp
+    en_gb: Jürgen Klopp
     eo: Jürgen Klopp
     es: Jürgen Klopp
     et: Jürgen Klopp
@@ -101,7 +101,7 @@ dv_has_:
     gd: Jürgen Klopp
     gl: Jürgen Klopp
     gn: Jürgen Klopp
-    gom-latn: Jürgen Klopp
+    gom_latn: Jürgen Klopp
     gor: Jürgen Klopp
     gsw: Jürgen Klopp
     gv: Jürgen Klopp
@@ -109,7 +109,7 @@ dv_has_:
     haw: Jürgen Klopp
     he: יורגן קלופ
     hif: Jürgen Klopp
-    hif-latn: Jürgen Klopp
+    hif_latn: Jürgen Klopp
     ho: Jürgen Klopp
     hr: Jürgen Klopp
     hrx: Jürgen Klopp
@@ -123,7 +123,7 @@ dv_has_:
     ie: Jürgen Klopp
     ig: Jürgen Klopp
     ik: Jürgen Klopp
-    ike-latn: Jürgen Klopp
+    ike_latn: Jürgen Klopp
     ilo: Jürgen Klopp
     io: Jürgen Klopp
     is: Jürgen Klopp
@@ -139,12 +139,12 @@ dv_has_:
     ki: Jürgen Klopp
     kj: Jürgen Klopp
     kk: Юрген Клопп
-    kk-latn: Jürgen Klopp
+    kk_latn: Jürgen Klopp
     kl: Jürgen Klopp
     ko: 위르겐 클로프
     kr: Jürgen Klopp
     ksh: Jürgen Klopp
-    ku-latn: Jürgen Klopp
+    ku_latn: Jürgen Klopp
     kw: Jürgen Klopp
     la: Georgius Klopp
     lad: Jürgen Klopp
@@ -159,7 +159,7 @@ dv_has_:
     lt: Jürgen Klopp
     ltg: Jürgen Klopp
     lv: Jirgens Klops
-    map-bms: Jürgen Klopp
+    map_bms: Jürgen Klopp
     mg: Jürgen Klopp
     mh: Jürgen Klopp
     mi: Jürgen Klopp
@@ -177,7 +177,7 @@ dv_has_:
     nap: Jürgen Klopp
     nb: Jürgen Klopp
     nds: Jürgen Klopp
-    nds-nl: Jürgen Klopp
+    nds_nl: Jürgen Klopp
     ne: जर्जेन क्लोप
     ng: Jürgen Klopp
     nl: Jürgen Klopp
@@ -202,7 +202,7 @@ dv_has_:
     pms: Jürgen Klopp
     prg: Jürgen Klopp
     pt: Jürgen Klopp
-    pt-br: Jürgen Klopp
+    pt_br: Jürgen Klopp
     qu: Jürgen Klopp
     rgn: Jürgen Klopp
     rm: Jürgen Klopp
@@ -211,7 +211,7 @@ dv_has_:
     ro: Jürgen Klopp
     roa-tara: Jürgen Klopp
     ru: Юрген Клопп
-    ruq-latn: Jürgen Klopp
+    ruq_latn: Jürgen Klopp
     rw: Jürgen Klopp
     sc: Jürgen Klopp
     scn: Jürgen Klopp
@@ -219,7 +219,7 @@ dv_has_:
     se: Jürgen Klopp
     sg: Jürgen Klopp
     sh: Jürgen Klopp
-    shi-latn: Jürgen Klopp
+    shi_latn: Jürgen Klopp
     sk: Jürgen Klopp
     sl: Jürgen Klopp
     sm: Jürgen Klopp
@@ -229,7 +229,7 @@ dv_has_:
     so: Jürgen Klopp
     sq: Jürgen Klopp
     sr: Јирген Клоп
-    sr-el: Jürgen Klopp
+    sr_el: Jürgen Klopp
     srn: Jürgen Klopp
     ss: Jürgen Klopp
     st: Jürgen Klopp
@@ -239,7 +239,7 @@ dv_has_:
     sw: Jürgen Klopp
     szl: Jürgen Klopp
     tet: Jürgen Klopp
-    tg-latn: Jürgen Klopp
+    tg_latn: Jürgen Klopp
     th: เยือร์เกิน คล็อพ
     tl: Jürgen Klopp
     tn: Jürgen Klopp
@@ -247,11 +247,11 @@ dv_has_:
     tpi: Jürgen Klopp
     tr: Jürgen Klopp
     ts: Jürgen Klopp
-    tt-latn: Jürgen Klopp
+    tt_latn: Jürgen Klopp
     tum: Jürgen Klopp
     tw: Jürgen Klopp
     ty: Jürgen Klopp
-    ug-latn: Jürgen Klopp
+    ug_latn: Jürgen Klopp
     uk: Юрген Клопп
     uz: Jürgen Klopp
     ve: Jürgen Klopp
@@ -273,9 +273,9 @@ dv_has_:
     za: Jürgen Klopp
     zea: Jürgen Klopp
     zh: 尤尔根·克洛普
-    zh-hant: 尤爾根·克洛普
-    zh-hk: 祖根·高普
-    zh-tw: 尤爾根·克洛普
+    zh_hant: 尤爾根·克洛普
+    zh_hk: 祖根·高普
+    zh_tw: 尤爾根·克洛普
     zu: Jürgen Klopp
 ---
 # [[Klopp,Jürgen]] 

@@ -158,7 +158,7 @@ dv_has_:
     ba: мәғлүмәт базаһы
     bar: Datenbank
     be: база даных
-    be-tarask: база зьвестак
+    be_tarask: база зьвестак
     bg: база данни
     bn: ডেটাবেজ
     br: diaz roadennoù
@@ -171,11 +171,11 @@ dv_has_:
     da: database
     de: Datenbank
     de-at: Datenbank
-    de-ch: Datenbank
+    de_ch: Datenbank
     el: βάση δεδομένων
     en: database
-    en-ca: database
-    en-gb: database
+    en_ca: database
+    en_gb: database
     eo: datumbazo
     es: base de datos
     et: andmebaas
@@ -220,7 +220,7 @@ dv_has_:
     ml: ഡാറ്റാബേസ്
     mn: Өгөгдлийн сан
     ms: pangkalan data
-    ms-arab: ڤڠکلن داتا
+    ms_arab: ڤڠکلن داتا
     mwl: base de dados
     my: ဒေတာဘေ့စ်
     nan: Chu-liāu-khò͘
@@ -236,7 +236,7 @@ dv_has_:
     pnb: ڈیٹابیس
     ps: توكبنسټ
     pt: base de dados
-    pt-br: banco de dados
+    pt_br: banco de dados
     qu: willaku tiksi
     ro: bază de date
     ru: база данных
@@ -255,7 +255,7 @@ dv_has_:
     sms: teâttvuâđđ
     sq: bazë e të dhënave
     sr: база података
-    sr-ec: база података
+    sr_ec: база података
     stq: doatenboank
     sv: databas
     sw: Hazinadata
@@ -266,8 +266,8 @@ dv_has_:
     tl: database
     tr: veritabanı
     tt: бирелмәләр нигезе
-    tt-cyrl: бирелмәләр нигезе
-    tt-latn: birelmälär nigeze
+    tt_cyrl: бирелмәләр нигезе
+    tt_latn: birelmälär nigeze
     tum: Nthamba ya data
     ug: سانلىق مەلۇمات ئامبىرى
     uk: база даних
@@ -280,12 +280,12 @@ dv_has_:
     wuu: 数据库
     yue: 資料庫
     zh: 資料庫
-    zh-cn: 数据库
-    zh-hans: 数据库
-    zh-hant: 資料庫
-    zh-hk: 資料庫
-    zh-sg: 数据库
-    zh-tw: 資料庫
+    zh_cn: 数据库
+    zh_hans: 数据库
+    zh_hant: 資料庫
+    zh_hk: 資料庫
+    zh_sg: 数据库
+    zh_tw: 資料庫
     zu: Isizindamininingo
 ---
 # [[Database]] 

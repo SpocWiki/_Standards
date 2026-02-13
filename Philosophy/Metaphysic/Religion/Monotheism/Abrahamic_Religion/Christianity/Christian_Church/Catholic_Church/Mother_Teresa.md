@@ -224,7 +224,7 @@ dv_has_:
     ban: Ibu Teresa
     bcl: Inang Teresa
     be: Маці Тэрэза
-    be-tarask: Маці Тэрэза
+    be_tarask: Маці Тэрэза
     bg: Майка Тереза
     bho: मदर टेरेसा
     bjn: Bunda Teresa
@@ -232,7 +232,7 @@ dv_has_:
     br: Mamm Tereza
     bs: Majka Tereza
     ca: Teresa de Calcuta
-    cbk-zam: Madre Teresa
+    cbk_zam: Madre Teresa
     ceb: Inahan Teresa
     ckb: دایکە تیرێسا
     cs: Matka Tereza
@@ -244,8 +244,8 @@ dv_has_:
     dty: मदर टेरेसा
     el: Μητέρα Τερέζα
     en: Mother Teresa
-    en-ca: Mother Teresa
-    en-gb: Mother Teresa
+    en_ca: Mother Teresa
+    en_gb: Mother Teresa
     eo: Patrino Teresa
     es: Teresa de Calcuta
     et: Ema Teresa
@@ -262,7 +262,7 @@ dv_has_:
     gn: Teresa de Calcuta
     gom: Mother Teresa
     gom-deva: मदर तेरेझा
-    gom-latn: Mother Teresa
+    gom_latn: Mother Teresa
     gor: Bunda Teresa
     gsw: Mutter Teresa
     gu: મધર ટેરેસા
@@ -322,7 +322,7 @@ dv_has_:
     pl: Matka Teresa z Kalkuty
     pnb: مدر ٹریزا
     pt: Madre Teresa de Calcutá
-    pt-br: Madre Teresa de Calcutá
+    pt_br: Madre Teresa de Calcutá
     qu: Mama Tirisa Kolkatamanta
     rki: မာသာ ထရီဆာ
     ro: Maica Tereza
@@ -364,7 +364,7 @@ dv_has_:
     yo: Màmá Tèrésà
     yue: 德蘭修女
     zh: 加爾各答德肋撒修女
-    zh-tw: 德蕾莎修女
+    zh_tw: 德蕾莎修女
 ---
 # [[Mother_Teresa]] 
 

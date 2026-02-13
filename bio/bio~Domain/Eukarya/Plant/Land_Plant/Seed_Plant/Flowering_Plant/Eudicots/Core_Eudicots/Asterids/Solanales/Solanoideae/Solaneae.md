@@ -33,10 +33,10 @@ dv_has_:
     da: Solaneae
     de: Solaneae
     de-at: Solaneae
-    de-ch: Solaneae
+    de_ch: Solaneae
     en: Solaneae
-    en-ca: Solaneae
-    en-gb: Solaneae
+    en_ca: Solaneae
+    en_gb: Solaneae
     eo: Solaneae
     es: Solaneae
     et: Solaneae
@@ -73,7 +73,7 @@ dv_has_:
     nap: Solaneae
     nb: Solaneae
     nds: Solaneae
-    nds-nl: Solaneae
+    nds_nl: Solaneae
     nl: Solaneae
     nn: Solaneae
     nrm: Solaneae
@@ -82,7 +82,7 @@ dv_has_:
     pl: Solaneae
     pms: Solaneae
     pt: Solaneae
-    pt-br: Solaneae
+    pt_br: Solaneae
     rm: Solaneae
     ro: Solaneae
     ru: паслёновые
@@ -92,7 +92,7 @@ dv_has_:
     sk: Solaneae
     sl: Solaneae
     sq: Solaneae
-    sr-el: Solaneae
+    sr_el: Solaneae
     sv: Solaneae
     sw: Solaneae
     uk: Solaneae

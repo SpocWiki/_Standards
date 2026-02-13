@@ -248,8 +248,8 @@ IEV_number: 845-23-001
 P8189: 987007284735905171
 dv_has_:
   name_:
-    aeb-arab: لون
-    aeb-latn: loun
+    aeb_arab: لون
+    aeb_latn: loun
     af: kleur
     am: ቀለም
     ami: cengel
@@ -270,7 +270,7 @@ dv_has_:
     ban: Warna
     bcl: kolor
     be: колер
-    be-tarask: колер
+    be_tarask: колер
     bg: цвят
     bho: रंग
     bn: রঙ
@@ -292,15 +292,15 @@ dv_has_:
     da: farve
     dag: kama
     de: Farbe
-    de-ch: Farbe
+    de_ch: Farbe
     diq: reng
     dsb: barwa
     dtp: warana
     dty: रङ्ङ
     el: χρώμα
     en: color
-    en-ca: colour
-    en-gb: colour
+    en_ca: colour
+    en_gb: colour
     en-us: color
     eo: koloro
     es: color
@@ -362,7 +362,7 @@ dv_has_:
     ko: 색
     ks: رنٛگ
     ku: reng
-    ku-latn: reng
+    ku_latn: reng
     kw: liw
     ky: түс
     la: color
@@ -391,7 +391,7 @@ dv_has_:
     mnc: ᠪᠣᠴᠣ
     mni: ꯃꯆꯨ
     ms: warna
-    ms-arab: ورنا
+    ms_arab: ورنا
     mt: kulur
     mwl: quelor
     my: အရောင်
@@ -423,7 +423,7 @@ dv_has_:
     pnb: رنگ
     ps: رنگ
     pt: cor
-    pt-br: cor
+    pt_br: cor
     pwn: quljaw
     qu: llimphi
     rki: အရောင်
@@ -452,8 +452,8 @@ dv_has_:
     so: midab
     sq: ngjyrë
     sr: боја
-    sr-ec: боја
-    sr-el: boja
+    sr_ec: боја
+    sr_el: boja
     ss: bâla
     stq: Faawe
     su: warna
@@ -473,8 +473,8 @@ dv_has_:
     tr: renk
     ts: mihlovo
     tt: төс
-    tt-cyrl: төс
-    tt-latn: tös
+    tt_cyrl: төс
+    tt_latn: tös
     tw: ahasuo
     ty: ’ū
     tyv: өң
@@ -497,14 +497,14 @@ dv_has_:
     zea: kleur
     zgh: ⵉⴽⵯⵍⴰⵏ
     zh: 顏色
-    zh-cn: 颜色
-    zh-hans: 颜色
-    zh-hant: 顏色
-    zh-hk: 顏色
-    zh-mo: 顏色
+    zh_cn: 颜色
+    zh_hans: 颜色
+    zh_hant: 顏色
+    zh_hk: 顏色
+    zh_mo: 顏色
     zh-my: 颜色
-    zh-sg: 颜色
-    zh-tw: 顏色
+    zh_sg: 颜色
+    zh_tw: 顏色
     zu: Umbala
 ---
 # [[Color]] 

@@ -146,11 +146,11 @@ dv_has_:
     da: Sammy Davis Jr.
     de: Sammy Davis, Jr.
     de-at: Sammy Davis Jr.
-    de-ch: Sammy Davis Jr.
+    de_ch: Sammy Davis Jr.
     el: Σάμι Ντέιβις Τζούνιορ
     en: Sammy Davis Jr.
-    en-ca: Sammy Davis Jr.
-    en-gb: Sammy Davis Jr.
+    en_ca: Sammy Davis Jr.
+    en_gb: Sammy Davis Jr.
     eo: Sammy Davis Jr.
     es: Sammy Davis Jr.
     et: Sammy Davis Jr.
@@ -193,7 +193,7 @@ dv_has_:
     nap: Sammy Davis Jr.
     nb: Sammy Davis jr.
     nds: Sammy Davis Jr.
-    nds-nl: Sammy Davis Jr.
+    nds_nl: Sammy Davis Jr.
     nl: Sammy Davis jr.
     nn: Sammy Davis Jr.
     nrm: Sammy Davis Jr.
@@ -204,7 +204,7 @@ dv_has_:
     pms: Sammy Davis Jr.
     prg: Sammy Davis Jr.
     pt: Sammy Davis
-    pt-br: Sammy Davis Jr.
+    pt_br: Sammy Davis Jr.
     rgn: Sammy Davis Jr.
     rm: Sammy Davis Jr.
     ro: Sammy Davis Jr.
@@ -216,7 +216,7 @@ dv_has_:
     sk: Sammy Davis Jr.
     sl: Sammy Davis mlajši
     sq: Sammy Davis Jr.
-    sr-el: Sammy Davis Jr.
+    sr_el: Sammy Davis Jr.
     sv: Sammy Davis
     sw: Sammy Davis Jr.
     tr: Sammy Davis Jr.
@@ -230,11 +230,11 @@ dv_has_:
     wo: Sammy Davis Jr.
     yo: Sammy Davis Jr.
     zh: 小森美·戴維斯
-    zh-cn: 小萨米·戴维斯
-    zh-hans: 小萨米·戴维斯
-    zh-hant: 小山米·戴維斯
+    zh_cn: 小萨米·戴维斯
+    zh_hans: 小萨米·戴维斯
+    zh_hant: 小山米·戴維斯
     zh-my: 小森美·戴维斯
-    zh-sg: 小森美·戴维斯
+    zh_sg: 小森美·戴维斯
     zu: Sammy Davis Jr.
 ---
 # [[Sammy Davis Jr]] 

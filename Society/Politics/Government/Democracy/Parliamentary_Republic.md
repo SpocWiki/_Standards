@@ -112,7 +112,7 @@ dv_has_:
     az: parlamentli respublika
     ba: парламент республикаһы
     be: парламенцкая рэспубліка
-    be-tarask: парлямэнцкая рэспубліка
+    be_tarask: парлямэнцкая рэспубліка
     bg: Парламентарна република
     bn: সংসদীয় গণতন্ত্র
     bs: parlamentarna republika
@@ -126,7 +126,7 @@ dv_has_:
     diq: Cumhuriyeto parlamenter
     el: κοινοβουλευτική δημοκρατία
     en: parliamentary republic
-    en-gb: parliamentary republic
+    en_gb: parliamentary republic
     eo: parlamenta respubliko
     es: república parlamentaria
     et: parlamentaarne vabariik
@@ -156,7 +156,7 @@ dv_has_:
     ko: 의회공화국
     ks: پارلیمانی جمہوٗریہ
     ku: komara parlamenter
-    ku-latn: komara parlamenter
+    ku_latn: komara parlamenter
     ky: Парламенттик республика
     la: Res publica parlamentaria
     lad: Repuvlika Parlamentaria
@@ -179,7 +179,7 @@ dv_has_:
     pa: ਸੰਸਦੀ ਗਣਰਾਜ
     pl: republika parlamentarna
     pt: república parlamentarista
-    pt-br: República parlamentarista
+    pt_br: República parlamentarista
     ro: republică parlamentară
     ru: парламентская республика
     scn: ripùbblica parlamintari
@@ -209,8 +209,8 @@ dv_has_:
     xmf: საპარლამენტო რესპუბლიკა
     yue: 議會共和制
     zh: 议会共和制
-    zh-hans: 议会共和制
-    zh-hant: 議會共和制
+    zh_hans: 议会共和制
+    zh_hant: 議會共和制
 ---
 # [[Parliamentary_Republic]] 
 

@@ -40,7 +40,7 @@ dv_has_:
     ast: Toyota Corolla
     az: Toyota Corolla
     be: Toyota Corolla
-    be-tarask: Таёта Карола
+    be_tarask: Таёта Карола
     bg: Toyota Corolla
     bs: Toyota Corolla
     ca: Toyota Corolla
@@ -48,11 +48,11 @@ dv_has_:
     cs: Toyota Corolla
     da: Toyota Corolla
     de: Toyota Corolla
-    de-ch: Toyota Corolla
+    de_ch: Toyota Corolla
     el: Toyota Corolla
     en: Toyota Corolla
-    en-ca: Toyota Corolla
-    en-gb: Toyota Corolla
+    en_ca: Toyota Corolla
+    en_gb: Toyota Corolla
     eo: Toyota Corolla
     es: Toyota Corolla
     eu: Toyota Corolla
@@ -82,15 +82,15 @@ dv_has_:
     pnb: ٹویوٹا کرولا
     ps: ټویوټا کرولا
     pt: Toyota Corolla
-    pt-br: Toyota Corolla
+    pt_br: Toyota Corolla
     ro: Toyota Corolla
     ru: Toyota Corolla
     sco: Toyota Corolla
     sh: Toyota Corolla
     sk: Toyota Corolla
     sr: Тојота корола
-    sr-ec: Тојота Корола
-    sr-el: Tojota Korola
+    sr_ec: Тојота Корола
+    sr_el: Tojota Korola
     su: Toyota Corolla
     sv: Toyota Corolla
     sw: Toyota Corolla
@@ -104,12 +104,12 @@ dv_has_:
     wuu-hans: 丰田卡罗拉
     yue: 豐田Corolla
     zh: 丰田卡罗拉
-    zh-cn: 丰田卡罗拉
-    zh-hans: 丰田卡罗拉
-    zh-hant: 豐田卡羅拉
-    zh-hk: 豐田卡羅拉
-    zh-sg: 丰田卡罗拉
-    zh-tw: 豐田卡羅拉
+    zh_cn: 丰田卡罗拉
+    zh_hans: 丰田卡罗拉
+    zh_hant: 豐田卡羅拉
+    zh_hk: 豐田卡羅拉
+    zh_sg: 丰田卡罗拉
+    zh_tw: 豐田卡羅拉
 ---
 # [[Toyota_Corolla]] 
 

@@ -115,7 +115,7 @@ dv_has_:
     az: Zorbalıq
     ba: Буллинг
     be: цкаванне
-    be-tarask: цкаваньне
+    be_tarask: цкаваньне
     bew: Pelécéan
     bg: Тормоз
     bn: পরপীড়ন
@@ -129,7 +129,7 @@ dv_has_:
     de: Schikane
     el: εκφοβισμός
     en: bullying
-    en-gb: bullying
+    en_gb: bullying
     eo: ĉikanado
     es: acoso psicológico
     et: kiusamine
@@ -188,8 +188,8 @@ dv_has_:
     xmf: აცირგება
     yue: 欺凌
     zh: 霸凌
-    zh-hans: 欺凌
-    zh-hant: 欺凌
+    zh_hans: 欺凌
+    zh_hant: 欺凌
 ---
 # [[Bullying]] 
 

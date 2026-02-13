@@ -85,7 +85,7 @@ dv_has_:
     ast: espaciu topolóxicu
     ba: топологик арауыҡ
     be: тапалагічная прастора
-    be-tarask: тапалягічная прастора
+    be_tarask: тапалягічная прастора
     bg: топологично пространство
     bn: টপোলজিকাল স্পেস
     bs: topološki prostor
@@ -97,8 +97,8 @@ dv_has_:
     de: topologischer Raum
     el: τοπολογικός χώρος
     en: topological space
-    en-ca: topological space
-    en-gb: topological space
+    en_ca: topological space
+    en_gb: topological space
     eo: topologia spaco
     es: espacio topológico
     et: topoloogiline ruum
@@ -118,11 +118,11 @@ dv_has_:
     ja: 位相空間
     ka: ტოპოლოგიური სივრცე
     kk: топологиялық кеңістік
-    kk-arab: توپولوگىييالىق كەڭىستىك
+    kk_arab: توپولوگىييالىق كەڭىستىك
     kk-cn: توپولوگىييالىق كەڭىستىك
-    kk-cyrl: топологиялық кеңістік
+    kk_cyrl: топологиялық кеңістік
     kk-kz: топологиялық кеңістік
-    kk-latn: topologïyalıq keñistik
+    kk_latn: topologïyalıq keñistik
     kk-tr: topologïyalıq keñistik
     ko: 위상 공간
     la: spatium topolologicum
@@ -133,7 +133,7 @@ dv_has_:
     mk: тополошки простор
     mn: Топологийн орон
     ms: ruang topologi
-    ms-arab: رواڠ توڤولوݢي
+    ms_arab: رواڠ توڤولوݢي
     nb: topologisk rom
     nl: topologische ruimte
     nn: topologisk rom
@@ -142,15 +142,15 @@ dv_has_:
     pms: spassi topològich
     pnb: ٹوپولوجیکل سپیس
     pt: espaço topológico
-    pt-br: espaço topológico
+    pt_br: espaço topológico
     ro: spațiu topologic
     ru: топологическое пространство
     sk: topologický priestor
     sl: topološki prostor
     sq: Hapësira topologjike
     sr: тополошки простор
-    sr-ec: тополошки простор
-    sr-el: topološki prostor
+    sr_ec: тополошки простор
+    sr_el: topološki prostor
     sv: topologiskt rum
     tr: topolojik uzaylar
     uk: топологічний простір
@@ -158,12 +158,12 @@ dv_has_:
     xal: харан
     yue: 拓撲空間
     zh: 拓扑空间
-    zh-cn: 拓扑空间
-    zh-hans: 拓扑空间
-    zh-hant: 拓撲空間
-    zh-hk: 拓撲空間
-    zh-sg: 拓扑空间
-    zh-tw: 拓撲空間
+    zh_cn: 拓扑空间
+    zh_hans: 拓扑空间
+    zh_hant: 拓撲空間
+    zh_hk: 拓撲空間
+    zh_sg: 拓扑空间
+    zh_tw: 拓撲空間
 ---
 # [[Topological_Space]] 
 

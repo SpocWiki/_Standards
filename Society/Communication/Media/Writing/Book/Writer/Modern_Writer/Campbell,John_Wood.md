@@ -16,8 +16,8 @@ dv_has_:
     de: John W. Campbell
     el: Τζον Γουντ Κάμπελ
     en: John W. Campbell
-    en-ca: John W. Campbell
-    en-gb: John W. Campbell
+    en_ca: John W. Campbell
+    en_gb: John W. Campbell
     es: John W. Campbell
     eu: John W. Campbell
     fa: جان وی کمبل
@@ -37,7 +37,7 @@ dv_has_:
     pap: John W. Campbell
     pl: John W. Campbell
     pt: John W. Campbell
-    pt-br: John W. Campbell
+    pt_br: John W. Campbell
     ro: John W. Campbell
     ru: Джон Вуд Кэмпбелл
     sc: John W. Campbell

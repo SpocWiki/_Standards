@@ -161,7 +161,7 @@ dv_has_:
     ba: Синтоизм
     bcl: Shinto
     be: сінтаізм
-    be-tarask: сынтаізм
+    be_tarask: сынтаізм
     bg: Шинтоизъм
     blk: ဆိဉ်တိုဘာႏသာႏ
     bn: শিন্তৌ ধর্ম
@@ -178,8 +178,8 @@ dv_has_:
     diq: Şinto
     el: Σιντοϊσμός
     en: Shinto
-    en-ca: Shinto
-    en-gb: Shinto
+    en_ca: Shinto
+    en_gb: Shinto
     eo: ŝintoo
     es: sintoísmo
     et: Sintoism
@@ -217,9 +217,9 @@ dv_has_:
     kbp: Sinto
     kg: Kisinto
     kk: Синтоизм
-    kk-arab: سىينتوىيزم
-    kk-cyrl: Синтоизм
-    kk-latn: Sïntoïzm
+    kk_arab: سىينتوىيزم
+    kk_cyrl: Синтоизм
+    kk_latn: Sïntoïzm
     km: ស៊ិនតូ
     kn: ಶಿಂಟೋ ಧರ್ಮ
     ko: 신토
@@ -232,7 +232,7 @@ dv_has_:
     lij: Scintoiximo
     lt: Šintoizmas
     lv: sintoisms
-    map-bms: Shinto
+    map_bms: Shinto
     mg: Sintôisma
     min: Shinto
     mk: Шинтоизам
@@ -241,7 +241,7 @@ dv_has_:
     mni: ꯁꯤꯟꯇꯣ ꯂꯥꯢꯅꯤꯡ
     mr: शिंतो धर्म
     ms: Syinto
-    ms-arab: شينتو
+    ms_arab: شينتو
     mt: Xintù
     mwl: Xintoísmo
     my: ရှင်တိုဘာသာ
@@ -262,7 +262,7 @@ dv_has_:
     pnb: شنتو
     ps: شينتو
     pt: Xintoísmo
-    pt-br: Xintoísmo
+    pt_br: Xintoísmo
     ro: șintoism
     ru: синтоизм
     rue: Сінтоїзм
@@ -278,8 +278,8 @@ dv_has_:
     so: Shinto
     sq: Shinto
     sr: шинтоизам
-    sr-ec: Шинтоизам
-    sr-el: Šintoizam
+    sr_ec: Шинтоизам
+    sr_el: Šintoizam
     sv: Shinto
     sw: Shinto
     ta: சின்த்தோ
@@ -306,10 +306,10 @@ dv_has_:
     za: Saenzdaugyau
     zgh: ⵜⴰⵛⵉⵏⵟⵓⵜ
     zh: 神道教
-    zh-cn: 神道教
-    zh-hans: 神道教
-    zh-hant: 神道教
-    zh-hk: 神道
+    zh_cn: 神道教
+    zh_hans: 神道教
+    zh_hant: 神道教
+    zh_hk: 神道
 ---
 # [[Shinto]] 
 

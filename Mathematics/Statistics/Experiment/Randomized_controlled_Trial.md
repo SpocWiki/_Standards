@@ -68,7 +68,7 @@ dv_has_:
   name_:
     ar: تجربة منضبطة معشاة
     ast: Prueba controlada aleatorizada
-    be-tarask: рандамаванае кантралюемае выпрабаваньне
+    be_tarask: рандамаванае кантралюемае выпрабаваньне
     bg: Рандомизирано клинично изпитване
     bn: দৈবকৃত নিয়ন্ত্রিত পরীক্ষণ
     ca: prova controlada aleatòria
@@ -99,7 +99,7 @@ dv_has_:
     nn: randomisert kontrollert studie
     pl: Randomizowane kontrolowane badania kliniczne
     pt: estudo clínico randomizado controlado
-    pt-br: estudo clínico randomizado controlado
+    pt_br: estudo clínico randomizado controlado
     ru: рандомизированное контролируемое испытание
     sl: randomizirano kontrolirano preskušanje
     sr: Randomizovano kontrolisano ispitivanje

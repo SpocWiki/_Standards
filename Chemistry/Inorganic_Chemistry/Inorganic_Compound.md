@@ -122,7 +122,7 @@ dv_has_:
     az: Qeyri-üzvi birləşmə
     bcl: Inorganikong kompuwesto
     be: неарганічнае рэчыва
-    be-tarask: неарганічнае рэчыва
+    be_tarask: неарганічнае рэчыва
     bg: Неорганично съединение
     bn: অজৈব যৌগ
     bs: Neorganski spoj
@@ -157,11 +157,11 @@ dv_has_:
     ja: 無機化合物
     ka: არაორგანული ნივთიერებები
     kk: Бейорганикалық заттар
-    kk-arab: بەيورگانىيكالىق زاتتار
+    kk_arab: بەيورگانىيكالىق زاتتار
     kk-cn: بەيورگانىيكالىق زاتتار
-    kk-cyrl: Бейорганикалық заттар
+    kk_cyrl: Бейорганикалық заттар
     kk-kz: Бейорганикалық заттар
-    kk-latn: Beýorganïkalıq zattar
+    kk_latn: Beýorganïkalıq zattar
     kk-tr: Beýorganïkalıq zattar
     ko: 무기 화합물
     la: compositio inorganica
@@ -182,7 +182,7 @@ dv_has_:
     om: Kompaawundii inorganikii
     pl: związek nieorganiczny
     pt: composto inorgânico
-    pt-br: substância inorgânica
+    pt_br: substância inorgânica
     ro: compus anorganic
     ru: неорганическое соединение
     sah: Органикаламмат холбоһуктар
@@ -207,12 +207,12 @@ dv_has_:
     wuu: 无机化合物
     yue: 無機化合物
     zh: 無機化合物
-    zh-cn: 无机化合物
-    zh-hans: 无机化合物
-    zh-hant: 無機化合物
-    zh-hk: 無機化合物
-    zh-sg: 无机化合物
-    zh-tw: 無機化合物
+    zh_cn: 无机化合物
+    zh_hans: 无机化合物
+    zh_hant: 無機化合物
+    zh_hk: 無機化合物
+    zh_sg: 无机化合物
+    zh_tw: 無機化合物
 ---
 # [[Inorganic_Compound]] 
 

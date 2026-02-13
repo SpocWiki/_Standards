@@ -160,7 +160,7 @@ dv_has_:
     ast: Pedro Abelardo
     az: Pyer Abelyar
     be: П'ер Абеляр
-    be-tarask: П’ер Абэляр
+    be_tarask: П’ер Абэляр
     bg: Пиер Абелар
     bn: পিটার এবেলার্ড
     br: Pierre Abélard
@@ -172,11 +172,11 @@ dv_has_:
     cy: Pierre Abélard
     da: Peter Abelard
     de: Petrus Abaelardus
-    de-ch: Petrus Abaelardus
+    de_ch: Petrus Abaelardus
     el: Πέτρος Αβελάρδος
     en: Peter Abelard
-    en-ca: Peter Abelard
-    en-gb: Peter Abelard
+    en_ca: Peter Abelard
+    en_gb: Peter Abelard
     eo: Abelardo
     es: Pedro Abelardo
     et: Pierre Abélard
@@ -215,7 +215,7 @@ dv_has_:
     pap: Pierre Abélard
     pl: Piotr Abelard
     pt: Pedro Abelardo
-    pt-br: Pedro Abelardo
+    pt_br: Pedro Abelardo
     rki: ပီယဲအဗေလား
     ro: Petru Abelard
     ru: Пьер Абеляр

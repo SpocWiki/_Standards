@@ -128,7 +128,7 @@ dv_has_:
     az: uzunluq dairəsi
     ba: оҙонлоҡ
     be: даўгата
-    be-tarask: даўгата
+    be_tarask: даўгата
     bg: географска дължина
     bho: देशान्तर
     blk: လောင်စီစျု
@@ -198,7 +198,7 @@ dv_has_:
     my: လောင်ဂျီကျူ
     nan: keng-tō͘
     nb: lengdegrad
-    nds-nl: lengtegraod
+    nds_nl: lengtegraod
     ne: देशान्तर
     nl: lengtegraad
     nn: lengdegrad
@@ -226,7 +226,7 @@ dv_has_:
     so: dhigaha
     sq: gjatësia gjeografike
     sr: географска дужина
-    sr-ec: географска дужина
+    sr_ec: географска дужина
     su: Garis Nangtung
     sv: longitud
     sw: longitudo
@@ -249,9 +249,9 @@ dv_has_:
     wuu: 经度
     yue: 經
     zh: 经度
-    zh-hant: 經度
-    zh-hk: 經度
-    zh-tw: 經度
+    zh_hant: 經度
+    zh_hk: 經度
+    zh_tw: 經度
 ---
 # [[Longitude]] 
 

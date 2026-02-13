@@ -129,7 +129,7 @@ dv_has_:
     bar: Speisn
     bcl: Panira
     be: страва
-    be-tarask: страва
+    be_tarask: страва
     bg: ястие
     bho: पकवान
     bn: পদ (খাদ্য)
@@ -168,7 +168,7 @@ dv_has_:
     ko: 요리
     ks: کھؠن
     ku: xarin
-    ku-latn: xarin
+    ku_latn: xarin
     kw: sand
     la: Ferculum
     lb: Plat
@@ -196,15 +196,15 @@ dv_has_:
     sn: Dhishi
     sq: pjatë
     sr: јело
-    sr-ec: јело
-    sr-el: jelo
+    sr_ec: јело
+    sr_el: jelo
     sv: maträtt
     te: వంటకం
     tg: Таом
     th: อาหารพร้อมรับประทาน
     tr: yemek
     tt: ашамлык
-    tt-cyrl: ашамлык
+    tt_cyrl: ашамлык
     uk: страва
     ur: پکوان (غزا)
     uz: taom
@@ -215,13 +215,13 @@ dv_has_:
     yue: 餸
     zh: 菜肴
     zh-cn: 菜肴
-    zh-hans: 菜肴
-    zh-hant: 菜餚
-    zh-hk: 菜餚
-    zh-mo: 菜餚
+    zh_hans: 菜肴
+    zh_hant: 菜餚
+    zh_hk: 菜餚
+    zh_mo: 菜餚
     zh-my: 菜肴
-    zh-sg: 菜肴
-    zh-tw: 菜餚
+    zh_sg: 菜肴
+    zh_tw: 菜餚
 ---
 # [[Dish]] 
 

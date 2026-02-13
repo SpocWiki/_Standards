@@ -264,7 +264,7 @@ dv_has_:
     bbc: Hambing
     bcl: Kanding
     be: каза свойская
-    be-tarask: каза
+    be_tarask: каза
     bg: домашна коза
     bho: बकरी
     bi: Goat
@@ -296,8 +296,8 @@ dv_has_:
     el: Κατσίκα
     eml: Chèvra
     en: goat
-    en-ca: Goat
-    en-gb: goat
+    en_ca: Goat
+    en_gb: goat
     eo: kapro
     es: cabra
     et: kodukits
@@ -375,7 +375,7 @@ dv_has_:
     mzn: بز
     nb: geit
     nds: Zeeg
-    nds-nl: sik
+    nds_nl: sik
     ne: बाख्रा
     new: दुगु
     nia: Nambi
@@ -399,7 +399,7 @@ dv_has_:
     pnb: بکری
     ps: وزه
     pt: Capra aegagrus hircus
-    pt-br: cabra
+    pt_br: cabra
     qu: Kawra
     rn: Impene
     ro: Capră

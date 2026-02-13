@@ -1036,7 +1036,7 @@ dv_has_:
     ace: Amirika Carékat
     acm: امريكا
     ady: Америкэ Штат Зэхэтхэр
-    aeb-arab: أمريكيا
+    aeb_arab: أمريكيا
     af: Verenigde State
     alt: Американыҥ Бириктирилген Штаттары
     am: አሜሪካ
@@ -1064,7 +1064,7 @@ dv_has_:
     bbc: Amerika Serikat
     bcl: Estados Unidos
     be: Злучаныя Штаты Амерыкі
-    be-tarask: Злучаныя Штаты Амэрыкі
+    be_tarask: Злучаныя Штаты Амэрыкі
     bew: Amerikè Serikat
     bg: САЩ
     bgn: آیالات موته هیده
@@ -1083,7 +1083,7 @@ dv_has_:
     bug: ᨕᨆᨙᨑᨗᨀ ᨔᨙᨑᨗᨀᨈ
     bxr: Америкын Нэгэдэһэн Улас
     ca: Estats Units d'Amèrica
-    cbk-zam: Estados Unidos de America
+    cbk_zam: Estados Unidos de America
     cdo: Mī-guók
     ce: Америкин Цхьаьнатоьхна Штаташ
     ceb: mga Estadong Hiniusa
@@ -1094,8 +1094,8 @@ dv_has_:
     co: Stati Uniti d'America
     cr: ᑭᐦᒋ ᒨᐦᑯᒫᓇᐢᑭᕀ
     crh: Amerika Qoşma Devletleri
-    crh-cyrl: Америка Къошма Девлетлери
-    crh-latn: Amerika Qoşma Ştatları
+    crh_cyrl: Америка Къошма Девлетлери
+    crh_latn: Amerika Qoşma Ştatları
     crh-ro: Amerika Bírleşík Dewletlerí
     cs: Spojené státy americké
     csb: Zjednóné Kraje Americzi
@@ -1106,7 +1106,7 @@ dv_has_:
     dag: America
     de: Vereinigte Staaten
     de-at: Vereinigte Staaten
-    de-ch: Vereinigte Staaten
+    de_ch: Vereinigte Staaten
     dga: United State Of America
     din: Pawuut Matiic
     diq: Dewletê Yewbiyaeyê Amerika
@@ -1177,12 +1177,12 @@ dv_has_:
     ig: Njikota Obodo Amerika
     ii: ꂯꇩ
     ik: Tannapta Nunaat
-    ike-latn: amialika
+    ike_latn: amialika
     ilo: Estados Unidos iti Amerika
     inh: Хетта Америкера Штаташ
     io: Usa
     is: Bandaríkin
-    isv-latn: Sjedinjene Štaty Ameriky
+    isv_latn: Sjedinjene Štaty Ameriky
     it: Stati Uniti d'America
     iu: ᐊᒥᐊᓕᑲ
     ja: アメリカ合衆国
@@ -1201,8 +1201,8 @@ dv_has_:
     ki: United States
     kjp: အ်ုမေရိကိုင်ခါန်ႋပ္ကုံ
     kk: Америка Құрама Штаттары
-    kk-cyrl: Америка Құрама Штаттары
-    kk-latn: Amerïka Qurama Ştattarı
+    kk_cyrl: Америка Құрама Штаттары
+    kk_latn: Amerïka Qurama Ştattarı
     kl: Naalagaaffeqatigiit
     km: សហរដ្ឋអាមេរិក
     kn: ಅಮೇರಿಕ ಸಂಯುಕ್ತ ಸಂಸ್ಥಾನ
@@ -1239,7 +1239,7 @@ dv_has_:
     lzh: 美國
     mad: Amèrika Sarikat
     mai: अमेरिका
-    map-bms: Amerika Serikat
+    map_bms: Amerika Serikat
     mdf: Америконь Соткс
     mg: Etazonia
     mhr: Ушымо Американ Штат-влак
@@ -1255,7 +1255,7 @@ dv_has_:
     mr: अमेरिकेची संयुक्त संस्थाने
     mrj: Америкын Ушымы Штатвлӓжӹ
     ms: Amerika Syarikat
-    ms-arab: اميريکا شريکت
+    ms_arab: اميريکا شريکت
     mt: Stati Uniti tal-Amerka
     mwl: Stados Ounidos de la América
     my: အမေရိကန်ပြည်ထောင်စု
@@ -1267,7 +1267,7 @@ dv_has_:
     nap: State Aunite d'Amereca
     nb: USA
     nds: Vereenigte Staten
-    nds-nl: Verienigde Staoten van Amerika
+    nds_nl: Verienigde Staoten van Amerika
     ne: संयुक्त राज्य अमेरिका
     new: अमेरिका
     nia: Amerika Sorudu
@@ -1303,7 +1303,7 @@ dv_has_:
     pnt: Ηνωμένες Πολιτείες Αμερικής
     ps: د امریکا متحده ایالات
     pt: Estados Unidos
-    pt-br: Estados Unidos
+    pt_br: Estados Unidos
     qu: Hukllachasqa Amirika Suyukuna
     qug: Shukllachishka America Suyukuna
     rm: Stadis Unids
@@ -1329,7 +1329,7 @@ dv_has_:
     sg: ÂKödörö-ôko tî Amerîka
     sgs: JAV
     sh: Sjedinjene Američke Države
-    sh-cyrl: Сједињене Америчке Државе
+    sh_cyrl: Сједињене Америчке Државе
     shi: Iwankn Munnin n Marikan
     shn: မိူင်းႁူမ်ႈတုမ် ဢမႄႇရိၵ
     si: ඇමරිකානු එක්සත් ජනපදය
@@ -1343,8 +1343,8 @@ dv_has_:
     so: Gobolada Isku Tegay ee Ameerika
     sq: Shtetet e Bashkuara të Amerikës
     sr: Сједињене Америчке Државе
-    sr-ec: Сједињене Америчке Државе
-    sr-el: Sjedinjene Američke Države
+    sr_ec: Сједињене Америчке Државе
+    sr_el: Sjedinjene Američke Države
     srn: Kondre Makandrameki
     ss: IMelika
     st: United States of America
@@ -1361,8 +1361,8 @@ dv_has_:
     te: అమెరికా సంయుక్త రాష్ట్రాలు
     tet: Estadu Naklibur Sira Amérika Nian
     tg: Иёлоти Муттаҳидаи Амрико
-    tg-cyrl: Иёлоти Муттаҳидаи Амрико
-    tg-latn: Iyoloti Muttahidai Amriko
+    tg_cyrl: Иёлоти Муттаҳидаи Амрико
+    tg_latn: Iyoloti Muttahidai Amriko
     th: สหรัฐอเมริกา
     ti: ኣመሪካ
     tig: ኣሜሪካ
@@ -1377,8 +1377,8 @@ dv_has_:
     trv: United States
     ts: Amerikha
     tt: Америка Кушма Штатлары
-    tt-cyrl: Америка Кушма Штатлары
-    tt-latn: Amerika Quşma Ştatları
+    tt_cyrl: Америка Кушма Штатлары
+    tt_latn: Amerika Quşma Ştatları
     tum: United States
     tw: Amerika
     ty: Fenua Marite
@@ -1410,14 +1410,14 @@ dv_has_:
     zea: Vereênigde Staeten
     zgh: ⵉⵡⵓⵏⴰⴽ ⵉⵎⵓⵏⵏ
     zh: 美國
-    zh-cn: 美国
-    zh-hans: 美国
-    zh-hant: 美國
-    zh-hk: 美國
-    zh-mo: 美國
+    zh_cn: 美国
+    zh_hans: 美国
+    zh_hant: 美國
+    zh_hk: 美國
+    zh_mo: 美國
     zh-my: 美国
-    zh-sg: 美国
-    zh-tw: 美國
+    zh_sg: 美国
+    zh_tw: 美國
     zu: IMelika
   sound_of_:
     anthem: '[[../../../../_public/xLarge.public/National-Anthem/Anthem-United-states.mp3]]'

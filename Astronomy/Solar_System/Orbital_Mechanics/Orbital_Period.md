@@ -117,7 +117,7 @@ dv_has_:
     ast: periodu orbital
     az: Orbital dövr
     be: сідэрычны перыяд
-    be-tarask: арбітальны пэрыяд
+    be_tarask: арбітальны пэрыяд
     bg: Орбитален период
     bn: কক্ষীয় পর্যায়কাল
     bs: Orbitalni period

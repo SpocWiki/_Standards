@@ -278,7 +278,7 @@ dv_has_:
     az: Avropa Şurası
     ba: Европа советы
     be: Савет Еўропы
-    be-tarask: Рада Эўропы
+    be_tarask: Рада Эўропы
     bg: Съвет на Европа
     bn: কাউন্সিল অফ ইউরোপ
     br: Kuzul Europa
@@ -294,8 +294,8 @@ dv_has_:
     dsb: Europska rada
     el: Συμβούλιο της Ευρώπης
     en: Council of Europe
-    en-ca: Council of Europe
-    en-gb: Council of Europe
+    en_ca: Council of Europe
+    en_gb: Council of Europe
     en-us: Council of Europe
     eo: Konsilio de Eŭropo
     es: Consejo de Europa
@@ -362,7 +362,7 @@ dv_has_:
     pl: Rada Europy
     ps: اروپايي شورا (CoE)
     pt: Conselho da Europa
-    pt-br: Conselho da Europa
+    pt_br: Conselho da Europa
     rm: Cussegl da l'Europa
     ro: Consiliul Europei
     ru: Совет Европы
@@ -381,7 +381,7 @@ dv_has_:
     sv: Europarådet
     te: యూరోప్ సమితి
     tg: Шӯрои Аврупо
-    tg-cyrl: Шӯрои Аврупо
+    tg_cyrl: Шӯрои Аврупо
     th: สภายุโรป
     tl: Konseho ng Europa
     tr: Avrupa Konseyi
@@ -397,14 +397,14 @@ dv_has_:
     yo: Council of Europe
     yue: 歐洲評議會
     zh: 欧洲委员会
-    zh-cn: 欧洲委员会
-    zh-hans: 欧洲委员会
-    zh-hant: 歐洲理事會
-    zh-hk: 歐洲委員會
-    zh-mo: 歐洲委員會
+    zh_cn: 欧洲委员会
+    zh_hans: 欧洲委员会
+    zh_hant: 歐洲理事會
+    zh_hk: 歐洲委員會
+    zh_mo: 歐洲委員會
     zh-my: 欧洲委员会
-    zh-sg: 欧洲委员会
-    zh-tw: 歐洲理事會
+    zh_sg: 欧洲委员会
+    zh_tw: 歐洲理事會
 ---
 # [[Council_of_Europe]]
 

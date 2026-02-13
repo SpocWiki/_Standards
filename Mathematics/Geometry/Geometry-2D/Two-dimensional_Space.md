@@ -80,7 +80,7 @@ dv_has_:
     ast: bidimensional
     ba: ике үлсәмле арауыҡ
     be: двухмерная прастора
-    be-tarask: дзьвюхвымерная прастора
+    be_tarask: дзьвюхвымерная прастора
     bg: двумерно пространство
     bjn: 2 diminsi
     bn: দ্বিমাত্রিক ক্ষেত্র
@@ -115,13 +115,13 @@ dv_has_:
     mk: дводимензионален простор
     ml: ദ്വിമാനം
     ms: ruang dua dimensi
-    ms-arab: رواڠ دوا ديمينسي
+    ms_arab: رواڠ دوا ديمينسي
     nb: todimensjonal
     nl: tweedimensionaal
     nn: todimensjonalt rom
     pl: przestrzeń dwuwymiarowa
     pt: espaço bidimensional
-    pt-br: espaço bidimensional
+    pt_br: espaço bidimensional
     ro: spațiu bidimensional
     ru: двумерное пространство
     scn: spazziu bidiminsiunali

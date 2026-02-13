@@ -184,7 +184,7 @@ dv_has_:
     bar: Koasa
     bcl: Emperador
     be: імператар
-    be-tarask: імпэратар
+    be_tarask: імпэратар
     bg: Император
     bn: সম্রাট
     br: Impalaer
@@ -203,8 +203,8 @@ dv_has_:
     dsb: kejžor
     el: αυτοκράτορας
     en: emperor
-    en-ca: emperor
-    en-gb: emperor
+    en_ca: emperor
+    en_gb: emperor
     eo: imperiestro
     es: emperador
     et: keiser
@@ -274,7 +274,7 @@ dv_has_:
     pnb: شہنشاہ
     ps: سترواک
     pt: imperador
-    pt-br: imperador
+    pt_br: imperador
     ro: împărat
     ru: император
     rue: Император
@@ -290,8 +290,8 @@ dv_has_:
     sms: ǩeeisar
     sq: Perandori
     sr: цар
-    sr-ec: цар
-    sr-el: car
+    sr_ec: цар
+    sr_el: car
     sv: kejsare
     sw: Kaizari
     szl: cysŏrz
@@ -312,11 +312,11 @@ dv_has_:
     xmf: იმპერატორი
     yue: 皇帝
     zh: 皇帝
-    zh-cn: 皇帝
-    zh-hans: 皇帝
-    zh-hant: 皇帝
-    zh-hk: 皇帝
-    zh-tw: 皇帝
+    zh_cn: 皇帝
+    zh_hans: 皇帝
+    zh_hant: 皇帝
+    zh_hk: 皇帝
+    zh_tw: 皇帝
 ---
 # [[Emperor]] 
 

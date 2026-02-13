@@ -12,7 +12,7 @@ dv_has_:
     az: diktatura
     bcl: Diktador
     be: дыктатар
-    be-tarask: дыктатар
+    be_tarask: дыктатар
     bg: диктатор
     bn: একনায়ক
     br: diktatour
@@ -30,8 +30,8 @@ dv_has_:
     diq: diktator
     el: δικτάτορας
     en: dictator
-    en-ca: dictator
-    en-gb: dictator
+    en_ca: dictator
+    en_gb: dictator
     eo: diktatoro
     es: dictador
     et: diktaator
@@ -57,11 +57,11 @@ dv_has_:
     jv: Diktator
     ka: დიქტატორი (ძველი რომი)
     kk: диктатор
-    kk-arab: دىيكتاتور
+    kk_arab: دىيكتاتور
     kk-cn: دىيكتاتور
-    kk-cyrl: диктатор
+    kk_cyrl: диктатор
     kk-kz: диктатор
-    kk-latn: dïktator
+    kk_latn: dïktator
     kk-tr: dïktator
     ko: 독재자
     krc: диктатор
@@ -77,13 +77,13 @@ dv_has_:
     my: အာဏာရှင်
     nan: to̍k-chhâi-chiá
     nb: diktator
-    nds-nl: diktator
+    nds_nl: diktator
     nl: dictator
     os: диктатор
     pa: ਤਾਨਾਸ਼ਾਹ
     pl: dyktator
     pt: ditador
-    pt-br: ditador
+    pt_br: ditador
     ro: dictator
     ru: диктатор
     sah: диктатор
@@ -115,12 +115,12 @@ dv_has_:
     xmf: დიქტატორი
     yue: 獨裁者
     zh: 獨裁者
-    zh-cn: 独裁者
-    zh-hans: 独裁者
-    zh-hant: 獨裁者
-    zh-hk: 獨裁者
-    zh-sg: 独裁者
-    zh-tw: 獨裁者
+    zh_cn: 独裁者
+    zh_hans: 独裁者
+    zh_hant: 獨裁者
+    zh_hk: 獨裁者
+    zh_sg: 独裁者
+    zh_tw: 獨裁者
 aliases:
 - bvʉ kɨ tsû
 - deachdaire

@@ -190,7 +190,7 @@ dv_has_:
     az: Alma
     ba: Алмағас
     be: яблыня
-    be-tarask: яблыня
+    be_tarask: яблыня
     bg: ябълка
     br: avalenn
     bs: Malus
@@ -247,7 +247,7 @@ dv_has_:
     nah: Mansana
     nb: Epleslekten
     nds: Appels
-    nds-nl: Appel
+    nds_nl: Appel
     nl: Malus
     nn: Epleslekta
     nrm: Pommyi
@@ -256,7 +256,7 @@ dv_has_:
     pcd: Punmié
     pl: jabłoń
     pt: Malus
-    pt-br: Malus
+    pt_br: Malus
     ro: Malus
     ru: яблоня
     sco: Malus
@@ -274,7 +274,7 @@ dv_has_:
     tl: Alimangong mansanas
     tr: Çiçek elması
     tt: алмагач
-    tt-cyrl: алмагач
+    tt_cyrl: алмагач
     tyv: Яблоня
     udm: Улмопу
     uk: яблуня
@@ -287,12 +287,12 @@ dv_has_:
     xmf: უშქური
     yue: 蘋果屬
     zh: 苹果属
-    zh-cn: 蘋果屬
-    zh-hans: 苹果属
-    zh-hant: 蘋果屬
-    zh-hk: 蘋果屬
-    zh-sg: 苹果属
-    zh-tw: 蘋果屬
+    zh_cn: 蘋果屬
+    zh_hans: 苹果属
+    zh_hant: 蘋果屬
+    zh_hk: 蘋果屬
+    zh_sg: 苹果属
+    zh_tw: 蘋果屬
 ---
 # [[Appletree]] 
 

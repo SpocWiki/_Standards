@@ -87,7 +87,7 @@ dv_has_:
     ast: fuercia de Lorentz
     az: Lorens qüvvəsi
     be: сіла Лорэнца
-    be-tarask: сіла Лёрэнца
+    be_tarask: сіла Лёрэнца
     bg: сила на Лоренц
     bn: লোরেন্ৎস বল
     ca: força de Lorentz
@@ -117,7 +117,7 @@ dv_has_:
     jv: gaya Lorentz
     ka: ლორენცის ძალა
     kk: Лоренц күші
-    kk-cyrl: Лоренц күші
+    kk_cyrl: Лоренц күші
     ko: 로런츠 힘
     ko-kp: 로렌쯔힘
     la: aequatio Lorentziana
@@ -142,8 +142,8 @@ dv_has_:
     sl: Lorentzova sila
     sq: forca e Lorencit
     sr: Лоренцова сила
-    sr-ec: Лоренцова сила
-    sr-el: Lorencova sila
+    sr_ec: Лоренцова сила
+    sr_el: Lorencova sila
     sv: Lorentzkraft
     ta: லாரன்சு விசை
     th: แรงลอเรนซ์
@@ -157,12 +157,12 @@ dv_has_:
     wuu: 洛伦兹力
     yue: 勞侖茲力
     zh: 洛伦兹力
-    zh-cn: 洛伦兹力
-    zh-hans: 洛伦兹力
-    zh-hant: 洛倫茲力
-    zh-hk: 勞侖茲力
-    zh-sg: 洛伦兹力
-    zh-tw: 勞侖茲力
+    zh_cn: 洛伦兹力
+    zh_hans: 洛伦兹力
+    zh_hant: 洛倫茲力
+    zh_hk: 勞侖茲力
+    zh_sg: 洛伦兹力
+    zh_tw: 勞侖茲力
 ---
 # [[Lorentz_Force]] 
 

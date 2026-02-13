@@ -46,10 +46,10 @@ dv_has_:
     uk: Nippon Animation
     vi: Nippon Animation
     zh: 日本動畫公司
-    zh-cn: 日本アニメーション株式会社
-    zh-hans: 日本动画公司
-    zh-hant: 日本動畫公司
-    zh-hk: 日本動畫公司
+    zh_cn: 日本アニメーション株式会社
+    zh_hans: 日本动画公司
+    zh_hant: 日本動畫公司
+    zh_hk: 日本動畫公司
 ---
 #has_/created :: [[Once_upon_a_Time(animations)]]
 

@@ -5,7 +5,7 @@ dv_has_:
     ar: فن اللدائن
     ast: artes plástiques
     be: пластычнае мастацтва
-    be-tarask: плястычнае мастацтва
+    be_tarask: плястычнае мастацтва
     bg: Пластично изкуство
     bn: সুনম্য কলা
     ca: arts plàstiques
@@ -40,15 +40,15 @@ dv_has_:
     oc: arts plasticas
     pl: sztuki plastyczne
     pt: artes plásticas
-    pt-br: artes plásticas
+    pt_br: artes plásticas
     ro: Arte plastice
     ru: пластические искусства
     sa: प्लस्तिक् कल
     sh: plastične umjetnosti
     sl: plastična umetnost
     sr: вајарске уметности
-    sr-ec: вајарске уметности
-    sr-el: vajarske umetnosti
+    sr_ec: вајарске уметности
+    sr_el: vajarske umetnosti
     stq: Plastik
     sv: plastik
     tr: plastik sanatlar
@@ -56,9 +56,9 @@ dv_has_:
     vec: arte plàsteghe
     yue: 造型藝術
     zh: 造型艺术
-    zh-hans: 造型艺术
-    zh-hant: 造型藝術
-    zh-hk: 造型藝術
+    zh_hans: 造型艺术
+    zh_hant: 造型藝術
+    zh_hk: 造型藝術
 aliases:
 - Arte plastice
 - Arte plastikoak

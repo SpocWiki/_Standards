@@ -72,7 +72,7 @@ dv_has_:
     az: laboratoriya avadanlığı
     ba: Лаборатор йыһаз
     be: лябараторнае абсталяванне
-    be-tarask: лябараторнае абсталяваньне
+    be_tarask: лябараторнае абсталяваньне
     ca: material de laboratori
     ckb: ئامێری تاقیگە
     cs: laboratorní vybavení
@@ -104,27 +104,27 @@ dv_has_:
     oc: Equipament de laboratòri
     pl: sprzęt laboratoryjny
     pt: material de laboratório
-    pt-br: material de laboratório
+    pt_br: material de laboratório
     ro: echipament de laborator
     ru: лабораторное оборудование
     sh: Kemijsko posuđe i pribor
     sl: laboratorijska oprema
     sr: лабораторијски прибор
-    sr-ec: лабораторијски прибор
-    sr-el: laboratorijski pribor
+    sr_ec: лабораторијски прибор
+    sr_el: laboratorijski pribor
     sv: laboratorieutrustning
     ta: ஆய்வுகூடக் கருவி
     uk: лабораторне устаткування
     yue: 實驗室設備
     zh: 實驗室設備
-    zh-cn: 实验室设备
-    zh-hans: 实验室设备
-    zh-hant: 實驗室設備
-    zh-hk: 實驗室設備
-    zh-mo: 實驗室設備
+    zh_cn: 实验室设备
+    zh_hans: 实验室设备
+    zh_hant: 實驗室設備
+    zh_hk: 實驗室設備
+    zh_mo: 實驗室設備
     zh-my: 实验室设备
-    zh-sg: 实验室设备
-    zh-tw: 實驗室設備
+    zh_sg: 实验室设备
+    zh_tw: 實驗室設備
 ---
 # [[Laboratory_Equipment]] 
 

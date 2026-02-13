@@ -54,7 +54,7 @@ dv_has_:
     ar: تلف الدماغ
     ast: mancadura cerebral
     az: beyin zədəsi
-    be-tarask: пашкоджаньне мозгу
+    be_tarask: пашкоджаньне мозгу
     ca: lesió cerebral
     cy: niwed ir ymennydd
     da: hjerneskade
@@ -95,9 +95,9 @@ dv_has_:
     vi: Chấn thương não
     yue: 腦損傷
     zh: 腦部受損
-    zh-cn: 脑损伤
-    zh-hans: 脑损伤
-    zh-hant: 腦損傷
+    zh_cn: 脑损伤
+    zh_hans: 脑损伤
+    zh_hant: 腦損傷
 ---
 # [[Brain_Damage]] 
 

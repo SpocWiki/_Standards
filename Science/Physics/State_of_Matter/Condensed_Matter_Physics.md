@@ -82,7 +82,7 @@ dv_has_:
     ar: فيزياء المواد المكثفة
     ast: Física de la materia entestada
     be: фізіка кандэнсаванага стану
-    be-tarask: фізыка кандэнсаванага стану
+    be_tarask: фізыка кандэнсаванага стану
     bg: Физика на кондензираната материя
     bn: ঘনপদার্থবিজ্ঞান
     bs: fizika kondenzovane materije
@@ -95,8 +95,8 @@ dv_has_:
     de: Kondensierte Materie
     el: Φυσική συμπυκνωμένης ύλης
     en: condensed matter physics
-    en-ca: Condensed matter physics
-    en-gb: condensed matter physics
+    en_ca: Condensed matter physics
+    en_gb: condensed matter physics
     eo: fiziko de kondensita materio
     es: física de la materia condensada
     et: tihkaine füüsika
@@ -125,7 +125,7 @@ dv_has_:
     oc: Fisica de la matèria condensada
     pl: fizyka materii skondensowanej
     pt: física da matéria condensada
-    pt-br: Física da matéria condensada
+    pt_br: Física da matéria condensada
     ro: Fizica materiei condensate
     ru: физика конденсированного состояния
     sd: ڪنڊينسڊ مادي جي فزڪس
@@ -142,12 +142,12 @@ dv_has_:
     wuu: 凝聚态物理学
     yue: 凝聚態物理學
     zh: 凝聚态物理学
-    zh-cn: 凝聚态物理学
-    zh-hans: 凝聚态物理学
-    zh-hant: 凝聚態物理學
-    zh-hk: 凝聚態物理學
-    zh-sg: 凝聚态物理学
-    zh-tw: 凝聚體物理學
+    zh_cn: 凝聚态物理学
+    zh_hans: 凝聚态物理学
+    zh_hant: 凝聚態物理學
+    zh_hk: 凝聚態物理學
+    zh_sg: 凝聚态物理学
+    zh_tw: 凝聚體物理學
 ---
 # [[Condensed_Matter_Physics]] 
 

@@ -94,18 +94,18 @@ dv_has_:
     az: Propilen
     azb: پروپیلن
     be: прапілен
-    be-tarask: прапілен
+    be_tarask: прапілен
     bg: Пропен
     bn: প্রোপিন
     ca: propè
     cs: propen
     da: Propen
     de: Propen
-    de-ch: Propen
+    de_ch: Propen
     el: Προπένιο
     en: propylene
-    en-ca: Propene
-    en-gb: propene
+    en_ca: Propene
+    en_gb: propene
     en-us: propylene
     eo: propeno
     es: propileno
@@ -137,7 +137,7 @@ dv_has_:
     nl: propeen
     pl: propen
     pt: propileno
-    pt-br: Propileno
+    pt_br: Propileno
     ro: Propenă
     ru: пропилен
     sco: propene
@@ -148,7 +148,7 @@ dv_has_:
     smn: proopeen
     sms: propeeʹn
     sr: пропен
-    sr-ec: пропен
+    sr_ec: пропен
     sv: propen
     ta: புரோப்பிலீன்
     te: ప్రొపెలిన్

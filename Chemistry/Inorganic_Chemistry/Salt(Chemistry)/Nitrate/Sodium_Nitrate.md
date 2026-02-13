@@ -132,7 +132,7 @@ dv_has_:
     ar: نترات الصوديوم
     ast: Nitratu de sodiu
     azb: سودیوم نیترات
-    be-tarask: нітрат натру
+    be_tarask: нітрат натру
     bg: Натриев нитрат
     bs: Natrijum nitrat
     ca: nitrat de sodi
@@ -161,11 +161,11 @@ dv_has_:
     ja: 硝酸ナトリウム
     jv: Natrium nitrat
     kk: Натрий нитраты
-    kk-arab: ناترىيي نىيتراتى
+    kk_arab: ناترىيي نىيتراتى
     kk-cn: ناترىيي نىيتراتى
-    kk-cyrl: Натрий нитраты
+    kk_cyrl: Натрий нитраты
     kk-kz: Натрий нитраты
-    kk-latn: Natrïý nïtratı
+    kk_latn: Natrïý nïtratı
     kk-tr: Natrïý nïtratı
     ko: 질산 나트륨
     ky: Натрий нитраты
@@ -189,8 +189,8 @@ dv_has_:
     sl: natrijev nitrat
     sq: Nitrati i natriumit
     sr: натријум нитрат
-    sr-ec: Натријум нитрат
-    sr-el: Natrijum nitrat
+    sr_ec: Натријум нитрат
+    sr_el: Natrijum nitrat
     sv: chilesalpeter
     ta: சோடியம் நைட்ரேட்டு
     tr: Sodyum nitrat
@@ -199,12 +199,12 @@ dv_has_:
     war: Sodium nitrate
     yue: 硝酸鈉
     zh: 硝酸鈉
-    zh-cn: 硝酸钠
-    zh-hans: 硝酸钠
-    zh-hant: 硝酸鈉
-    zh-hk: 硝酸鈉
-    zh-sg: 硝酸钠
-    zh-tw: 硝酸鈉
+    zh_cn: 硝酸钠
+    zh_hans: 硝酸钠
+    zh_hant: 硝酸鈉
+    zh_hk: 硝酸鈉
+    zh_sg: 硝酸钠
+    zh_tw: 硝酸鈉
 ---
 # [[Sodium_Nitrate]] 
 

@@ -67,7 +67,7 @@ dv_has_:
     ba: Ташландыҡ һыуҙы таҙартыу
     bar: Kleaolog
     be: ачыстка сцёкавых вод
-    be-tarask: ачыстка сьцёкавых водаў
+    be_tarask: ачыстка сьцёкавых водаў
     bg: Пречистване на отпадни води
     bn: পয়ঃশোধন
     ca: tractament d'aigües residuals
@@ -114,8 +114,8 @@ dv_has_:
     si: ජලය පවිත්ර කිරීම
     sl: obdelava odplak
     sr: Системи за обраду отпадних вода
-    sr-ec: Системи за обраду отпадних вода
-    sr-el: Sistemi za obradu otpadnih voda
+    sr_ec: Системи за обраду отпадних вода
+    sr_el: Sistemi za obradu otpadnih voda
     sv: avloppsvattenhantering
     sw: Matibabu ya maji taka
     ta: கழிவுநீர்த் தரமேற்றல்
@@ -126,12 +126,12 @@ dv_has_:
     wa: Rapuroe
     yue: 污水處理
     zh: 污水處理
-    zh-cn: 污水处理
-    zh-hans: 污水处理
-    zh-hant: 污水處理
-    zh-hk: 污水處理
-    zh-sg: 污水处理
-    zh-tw: 污水處理
+    zh_cn: 污水处理
+    zh_hans: 污水处理
+    zh_hant: 污水處理
+    zh_hk: 污水處理
+    zh_sg: 污水处理
+    zh_tw: 污水處理
 ---
 # [[Sewage_Treatment]] 
 

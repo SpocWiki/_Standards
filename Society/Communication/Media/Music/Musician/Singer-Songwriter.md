@@ -169,7 +169,7 @@ dv_has_:
     ast: cantautor
     az: müğənni-bəstəkar
     be: аўтар-выканаўца
-    be-tarask: аўтар-выканаўца
+    be_tarask: аўтар-выканаўца
     bg: певец-композитор
     bn: গায়ক-গীতিকার
     br: kaner-sonaozer
@@ -178,7 +178,7 @@ dv_has_:
     ckb: گۆرانیبێژ-گۆرانینووس
     co: cantautore
     crh: yırlarını yazğan yırcı
-    crh-latn: yırlarını yazğan yırcı
+    crh_latn: yırlarını yazğan yırcı
     cs: písničkář
     cv: Автор-пушкаравçă
     cy: canwr-gyfansoddwr
@@ -187,8 +187,8 @@ dv_has_:
     diq: Deyrvac-Nuştekarê deyıran
     el: τραγουδιστής-τραγουδοποιός
     en: singer-songwriter
-    en-ca: singer-songwriter
-    en-gb: singer-songwriter
+    en_ca: singer-songwriter
+    en_gb: singer-songwriter
     en-us: singer-songwriter
     eo: kantaŭtoro
     es: cantautor
@@ -222,7 +222,7 @@ dv_has_:
     ko: 싱어송라이터
     ks: گُلوکار - ریکارڈر لِکھٲرؠ
     ku: stranbêj û strannivîs
-    ku-latn: stranbêj û strannivîs
+    ku_latn: stranbêj û strannivîs
     kw: kaner-kanskrifer
     la: suorum carminum actor
     lb: Singer-Songwriter
@@ -247,7 +247,7 @@ dv_has_:
     pl: piosenkarz i autor piosenek
     ps: سندرغاړی-سندرساز
     pt: cantor-compositor
-    pt-br: cantautor
+    pt_br: cantautor
     ro: cântăreț-compozitor
     ru: автор-исполнитель
     sco: sangster-sangwriter
@@ -259,17 +259,17 @@ dv_has_:
     sms: läullai-laaulraajji
     sq: tekstshkrues
     sr: кантаутор
-    sr-ec: Кантаутор
-    sr-el: Kantautor
+    sr_ec: Кантаутор
+    sr_el: Kantautor
     sv: singer-songwriter
     tg: овозхон-таронапардоз
-    tg-cyrl: муаллиф-сароянда
+    tg_cyrl: муаллиф-сароянда
     th: นักร้องและนักแต่งเพลง
     tl: mang-aawit-manunulat
     tly: myəllif-ifo kardəkəs
     tr: şarkıcı-şarkı yazarı
     tt: автор-башкаручы
-    tt-cyrl: автор-башкаручы
+    tt_cyrl: автор-башкаручы
     uk: автор-виконавець
     ur: گلو کار-گیت نگار
     uz: Qoʻshiqchi
@@ -279,14 +279,14 @@ dv_has_:
     yue: 唱作人
     zgh: ⴰⵎⵖⵏⵏⵊ ⴷ ⵓⵎⴳⴰⵢ
     zh: 創作歌手
-    zh-cn: 创作歌手
-    zh-hans: 创作歌手
-    zh-hant: 創作歌手
-    zh-hk: 創作歌手
-    zh-mo: 創作歌手
+    zh_cn: 创作歌手
+    zh_hans: 创作歌手
+    zh_hant: 創作歌手
+    zh_hk: 創作歌手
+    zh_mo: 創作歌手
     zh-my: 创作歌手
-    zh-sg: 创作歌手
-    zh-tw: 創作歌手
+    zh_sg: 创作歌手
+    zh_tw: 創作歌手
 ---
 # [[Singer-Songwriter]] 
 

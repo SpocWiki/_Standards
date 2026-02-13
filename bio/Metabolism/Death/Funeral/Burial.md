@@ -115,7 +115,7 @@ dv_has_:
     ay: Amaya uta
     az: dəfn
     be: Інгумацыя
-    be-tarask: пахаваньне
+    be_tarask: пахаваньне
     bg: Погребение
     bn: সমাধি
     br: Interamant
@@ -156,10 +156,10 @@ dv_has_:
     mk: закоп
     ml: ശവസംസ്കാരം
     ms: pengebumian
-    ms-arab: ڤڠبومين
+    ms_arab: ڤڠبومين
     nan: Thô͘-chòng
     nb: begravelse
-    nds-nl: grove
+    nds_nl: grove
     nl: graflegging
     olo: Muahpanendu
     pdc: Leicht
@@ -174,8 +174,8 @@ dv_has_:
     sl: pokop
     sq: Varrimi
     sr: инхумација
-    sr-ec: Инхумација
-    sr-el: Inhumacija
+    sr_ec: Инхумација
+    sr_el: Inhumacija
     sv: begravning
     tay: ’’bul minhuqil
     tg: Дафн
@@ -192,12 +192,12 @@ dv_has_:
     yo: ìsìnkú
     yue: 喪事
     zh: 土葬
-    zh-cn: 土葬
-    zh-hans: 土葬
-    zh-hant: 土葬
-    zh-hk: 土葬
-    zh-sg: 土葬
-    zh-tw: 土葬
+    zh_cn: 土葬
+    zh_hans: 土葬
+    zh_hant: 土葬
+    zh_hk: 土葬
+    zh_sg: 土葬
+    zh_tw: 土葬
 ---
 # [[Burial]] 
 

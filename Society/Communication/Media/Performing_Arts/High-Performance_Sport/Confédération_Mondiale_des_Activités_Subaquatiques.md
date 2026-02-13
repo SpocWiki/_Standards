@@ -54,7 +54,7 @@ dv_has_:
   name_:
     ar: الاتحاد الدولي للأنشطة تحت المائية
     ast: Confederación Mundial d'Actividaes Subacuátiques
-    be-tarask: Сусьветная канфэдэрацыя падводнай дзейнасьці
+    be_tarask: Сусьветная канфэдэрацыя падводнай дзейнасьці
     ca: Confederació Mundial d'Activitats Subaquàtiques
     cs: Světová potápěčská konfederace
     da: CMAS
@@ -83,9 +83,9 @@ dv_has_:
     tr: Dünya Sualtı Aktiviteleri Konfederasyonu
     uk: CMAS
     zh: 國際水中運動聯合會
-    zh-hans: 国际水中运动联合会
-    zh-hant: 國際水中運動聯合會
-    zh-hk: 國際水中運動聯合會
+    zh_hans: 国际水中运动联合会
+    zh_hant: 國際水中運動聯合會
+    zh_hk: 國際水中運動聯合會
 ---
 # [[Confédération_Mondiale_des_Activités_Subaquatiques]] 
 

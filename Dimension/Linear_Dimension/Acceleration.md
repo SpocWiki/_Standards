@@ -281,7 +281,7 @@ dv_has_:
     ba: тиҙләнеш
     bcl: akselerasyon
     be: паскарэнне
-    be-tarask: паскарэньне
+    be_tarask: паскарэньне
     bg: ускорение
     bho: परवेग
     bn: ত্বরণ
@@ -301,8 +301,8 @@ dv_has_:
     el: επιτάχυνση
     eml: azeleraziån
     en: acceleration
-    en-ca: acceleration
-    en-gb: acceleration
+    en_ca: acceleration
+    en_gb: acceleration
     eo: akcelo
     es: aceleración
     et: kiirendus
@@ -355,7 +355,7 @@ dv_has_:
     mn: хурдатгал
     mr: त्वरण
     ms: pecutan
-    ms-arab: ڤچوتن
+    ms_arab: ڤچوتن
     my: အရှိန်
     myv: капшавтома
     nan: ka-sok-tō͘
@@ -375,7 +375,7 @@ dv_has_:
     pnb: اسراع
     ps: سرعت
     pt: aceleração
-    pt-br: aceleração
+    pt_br: aceleração
     qu: p'ikwachiy
     rki: ပျမ်းမျှအဟိန်
     ro: accelerație
@@ -405,7 +405,7 @@ dv_has_:
     tl: arangkada
     tr: ivme
     tt: тизләнеш
-    tt-cyrl: тизләнеш
+    tt_cyrl: тизләнеш
     tyv: Дүргедээшкин
     udm: ӝоган
     uk: прискорення
@@ -421,8 +421,8 @@ dv_has_:
     yo: ìyára
     yue: 加速度
     zh: 加速度
-    zh-hant: 加速度
-    zh-tw: 加速度
+    zh_hant: 加速度
+    zh_tw: 加速度
 ---
 # [[Acceleration]] 
 

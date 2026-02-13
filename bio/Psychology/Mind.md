@@ -151,7 +151,7 @@ dv_has_:
     bar: Geist
     bcl: Isip
     be: розум
-    be-tarask: розум
+    be_tarask: розум
     bg: Ум
     bho: मन
     bn: মন
@@ -171,8 +171,8 @@ dv_has_:
     dty: मन
     el: νους
     en: mind
-    en-ca: mind
-    en-gb: mind
+    en_ca: mind
+    en_gb: mind
     eo: menso
     es: Mente
     et: Vaim
@@ -232,7 +232,7 @@ dv_has_:
     mnw: စိုတ်
     mr: मन
     ms: akal
-    ms-arab: عقل
+    ms_arab: عقل
     mwl: Mente
     my: စိတ်
     mzn: ذهن
@@ -251,7 +251,7 @@ dv_has_:
     pnb: سیانف
     ps: ذهن
     pt: mente
-    pt-br: Mente
+    pt_br: Mente
     qu: Sunqu (yuyay)
     rki: စိတ်
     ro: minte
@@ -268,7 +268,7 @@ dv_has_:
     sn: Pfungwa
     sq: mendje
     sr: ум
-    sr-ec: ум
+    sr_ec: ум
     sv: psyke
     sw: Akili ya binadamu
     ta: மனம்
@@ -296,9 +296,9 @@ dv_has_:
     za: Simlingz
     zgh: ⵜⴰⴳⵔⵔⴰⵡⵜ
     zh: 心灵
-    zh-cn: 心灵
-    zh-hans: 心灵
-    zh-hant: 心灵
+    zh_cn: 心灵
+    zh_hans: 心灵
+    zh_hant: 心灵
     zu: Ingqondo
 ---
 # [[Mind]] 

@@ -66,7 +66,7 @@ dv_has_:
     ast: obertura
     az: uvertüra
     be: Уверцюра
-    be-tarask: увэртура
+    be_tarask: увэртура
     bg: увертюра
     ca: obertura
     ckb: ئوڤرتیور
@@ -116,12 +116,12 @@ dv_has_:
     vi: nhạc dạo đầu
     yue: 開場音樂
     zh: 序曲
-    zh-cn: 序曲
-    zh-hans: 序曲
-    zh-hant: 序曲
-    zh-hk: 序曲
-    zh-sg: 序曲
-    zh-tw: 序曲
+    zh_cn: 序曲
+    zh_hans: 序曲
+    zh_hant: 序曲
+    zh_hk: 序曲
+    zh_sg: 序曲
+    zh_tw: 序曲
 ---
 # [[Overture]] 
 

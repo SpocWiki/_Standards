@@ -172,7 +172,7 @@ dv_has_:
     ban: Pemilu
     bcl: Pirilian
     be: выбары
-    be-tarask: выбары
+    be_tarask: выбары
     bg: Избори
     bho: चुनाव
     bn: নির্বাচন
@@ -186,12 +186,12 @@ dv_has_:
     cy: etholiad
     da: valg
     de: Wahl
-    de-ch: Wahl
+    de_ch: Wahl
     diq: Weçinıtış
     el: εκλογές
     en: public election
-    en-ca: Election
-    en-gb: election
+    en_ca: Election
+    en_gb: election
     eo: voĉdono
     es: elección
     et: valimised
@@ -221,7 +221,7 @@ dv_has_:
     kk: сайлау
     kn: ಚುನಾವಣೆ
     ko: 선거
-    ku-latn: hilbijartin
+    ku_latn: hilbijartin
     kw: etholans
     ky: Шайлоо
     la: Comitia
@@ -236,7 +236,7 @@ dv_has_:
     mn: Сонгууль
     mr: निवडणूक
     ms: pilihan raya
-    ms-arab: ڤيليهن راي
+    ms_arab: ڤيليهن راي
     my: ရွေးကောက်ပွဲ
     nan: Soán-kí
     nb: valg
@@ -249,7 +249,7 @@ dv_has_:
     pl: wybory
     ps: ټولټاکنې
     pt: eleição
-    pt-br: eleição
+    pt_br: eleição
     qu: Akllanakuy
     rmf: velkiba
     ro: alegeri
@@ -267,8 +267,8 @@ dv_has_:
     so: Doorashada
     sq: Zgjedhjet
     sr: избори
-    sr-ec: избори
-    sr-el: izbori
+    sr_ec: избори
+    sr_el: izbori
     sv: val
     sw: Uchaguzi
     ta: தேர்தல்
@@ -278,7 +278,7 @@ dv_has_:
     tr: seçim
     trv: mgaaw
     tt: сайлаулар
-    tt-cyrl: сайлаулар
+    tt_cyrl: сайлаулар
     tw: Abatoɔ
     udm: быръён
     uk: вибори
@@ -296,14 +296,14 @@ dv_has_:
     yue: 選舉
     za: sienjgij
     zh: 選舉
-    zh-cn: 选举
-    zh-hans: 选举
-    zh-hant: 選舉
-    zh-hk: 選舉
-    zh-mo: 選舉
+    zh_cn: 选举
+    zh_hans: 选举
+    zh_hant: 選舉
+    zh_hk: 選舉
+    zh_mo: 選舉
     zh-my: 选举
-    zh-sg: 选举
-    zh-tw: 選舉
+    zh_sg: 选举
+    zh_tw: 選舉
 ---
 # [[Election]] 
 

@@ -132,7 +132,7 @@ dv_has_:
     az: Nüvə parçalanması
     ba: Ядро бүленеше
     be: Дзяленне ядра
-    be-tarask: Дзяленьне ядра
+    be_tarask: Дзяленьне ядра
     bg: Ядрено делене
     bn: নিউক্লীয় বিভাজন
     bs: nuklearna fisija
@@ -235,7 +235,7 @@ dv_has_:
     yi: יאדער־שפאלטונג
     yue: 核裂變
     zh: 核裂变
-    zh-cn: 核裂变
+    zh_cn: 核裂变
     zu: Ukuklewuka kwenuzi
 ---
 # [[Nuclear_Fission]] 

@@ -60,7 +60,7 @@ dv_has_:
     arz: الفن الاتروسكانى
     ast: arte etruscu
     be: этрускае мастацтва
-    be-tarask: этрускае мастацтва
+    be_tarask: этрускае мастацтва
     bs: etrurska umjetnost
     ca: art etrusc
     cs: etruské umění
@@ -94,8 +94,8 @@ dv_has_:
     sh: etrurska umjetnost
     sl: etruščanska umetnost
     sr: етрурска уметност
-    sr-ec: етрурска уметност
-    sr-el: etrurska umetnost
+    sr_ec: етрурска уметност
+    sr_el: etrurska umetnost
     sv: etruskisk konst
     uk: етруське мистецтво
     zh: 伊特魯里亞藝術

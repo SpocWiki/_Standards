@@ -104,7 +104,7 @@ dv_has_:
     azb: بیتوم
     ba: Битум
     be: бітум
-    be-tarask: бітум
+    be_tarask: бітум
     bg: Битум
     bn: বিটুমিন
     bs: Bitumen
@@ -136,17 +136,17 @@ dv_has_:
     jv: Aspal
     ka: ბიტუმი
     kk: Битум
-    kk-arab: بىيتۋم
+    kk_arab: بىيتۋم
     kk-cn: بىيتۋم
-    kk-cyrl: Битум
+    kk_cyrl: Битум
     kk-kz: Битум
-    kk-latn: Bïtwm
+    kk_latn: Bïtwm
     kk-tr: Bïtwm
     kn: ಆಸ್ಫಾಲ್ಟ್
     ko: 블랙탑
     ku: Asfalt
-    ku-arab: ئاسفالت
-    ku-latn: Asfalt
+    ku_arab: ئاسفالت
+    ku_latn: Asfalt
     ky: Битум
     lt: Bitumas
     lv: bitumens
@@ -162,7 +162,7 @@ dv_has_:
     pl: Bitumy
     pnb: لُک
     pt: betume
-    pt-br: betume
+    pt_br: betume
     ro: Bitum
     ru: битум
     scn: bitumi
@@ -170,8 +170,8 @@ dv_has_:
     sk: Bitúmen
     sl: bitumen
     sr: асфалт
-    sr-ec: Асфалт
-    sr-el: Asfalt
+    sr_ec: Асфалт
+    sr_el: Asfalt
     sv: bitumen
     ta: அசுபால்ட்டு
     tg: Битум
@@ -186,14 +186,14 @@ dv_has_:
     wuu: 沥青
     yue: 臘青
     zh: 瀝青
-    zh-cn: 沥青
-    zh-hans: 沥青
-    zh-hant: 瀝青
-    zh-hk: 瀝青
-    zh-mo: 瀝青
+    zh_cn: 沥青
+    zh_hans: 沥青
+    zh_hant: 瀝青
+    zh_hk: 瀝青
+    zh_mo: 瀝青
     zh-my: 沥青
-    zh-sg: 沥青
-    zh-tw: 瀝青
+    zh_sg: 沥青
+    zh_tw: 瀝青
 ---
 # [[Bitumen]] 
 

@@ -10,7 +10,7 @@ dv_has_:
     ban: kapercayaan
     bar: Glaum
     be: вера
-    be-tarask: вера
+    be_tarask: вера
     bg: вяра
     bn: বিশ্বাস
     br: kredenn
@@ -24,13 +24,13 @@ dv_has_:
     cy: credo
     da: tro
     de: Glauben
-    de-ch: Glauben
+    de_ch: Glauben
     diq: bawermend
     dtp: kotumbayaan
     el: πίστη
     en: belief
-    en-ca: belief
-    en-gb: belief
+    en_ca: belief
+    en_gb: belief
     eo: kredo
     es: creencia
     et: uskumus
@@ -65,10 +65,10 @@ dv_has_:
     ml: വിശ്വാസം
     mn: итгэл бишрэл
     ms: kepercayaan
-    ms-arab: کڤرچاياءن
+    ms_arab: کڤرچاياءن
     nan: sìn-liām
     nb: tro
-    nds-nl: geleuven
+    nds_nl: geleuven
     nl: geloof
     nn: tru
     nrm: crianche
@@ -77,7 +77,7 @@ dv_has_:
     pl: wiara
     ps: باور
     pt: crença
-    pt-br: crença
+    pt_br: crença
     ro: credință
     ru: вера
     rue: віра
@@ -98,7 +98,7 @@ dv_has_:
     tly: imon
     tr: inanç
     tt: иман
-    tt-cyrl: иман
+    tt_cyrl: иман
     ug: ئېتىقاد
     uk: віра
     ur: عقیدہ
@@ -109,10 +109,10 @@ dv_has_:
     yi: גלויבן
     yue: 信念
     zh: 信念
-    zh-cn: 信念
-    zh-hant: 信念
-    zh-hk: 信念
-    zh-tw: 信念
+    zh_cn: 信念
+    zh_hant: 信念
+    zh_hk: 信念
+    zh_tw: 信念
 aliases:
 - bawermend
 - bawerî

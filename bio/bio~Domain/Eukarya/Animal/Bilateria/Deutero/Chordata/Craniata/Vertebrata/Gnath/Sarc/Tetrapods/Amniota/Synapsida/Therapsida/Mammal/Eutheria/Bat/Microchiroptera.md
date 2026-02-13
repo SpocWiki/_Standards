@@ -85,7 +85,7 @@ dv_has_:
     az: yarasa
     ba: Ярғанаттар
     be: кажаны
-    be-tarask: кажаны
+    be_tarask: кажаны
     bg: Насекомоядни прилепи
     ca: microquiròpters
     ce: Бирдолаг
@@ -143,7 +143,7 @@ dv_has_:
     pl: Microchiroptera
     pnb: نکیاں چمگادڑاں
     pt: Microchiroptera
-    pt-br: Microchiroptera
+    pt_br: Microchiroptera
     rm: Utschè-mezmieur
     ro: Liliac
     ru: летучие мыши
@@ -166,9 +166,9 @@ dv_has_:
     wuu: 小蝙蝠
     yue: 小蝙蝠亞目
     zh: 小蝙蝠亞目
-    zh-cn: 小蝙蝠亚目
-    zh-hans: 小蝙蝠亚目
-    zh-tw: 小蝙蝠亞目
+    zh_cn: 小蝙蝠亚目
+    zh_hans: 小蝙蝠亚目
+    zh_tw: 小蝙蝠亞目
 ---
 # [[Microchiroptera]] 🦇 
 

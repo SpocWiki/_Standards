@@ -52,7 +52,7 @@ dv_has_:
   name_:
     ar: تعويضات
     ast: Indemnización de perxuicios
-    be-tarask: адшкадаваньне
+    be_tarask: адшкадаваньне
     ca: danys
     cs: odškodnění
     da: erstatning
@@ -79,20 +79,20 @@ dv_has_:
     nl: schadevergoeding
     nn: erstatning
     pl: odszkodowanie
-    pt-br: ressarcimento
+    pt_br: ressarcimento
     ro: despăgubire
     ru: возмещение ущерба
     sl: odškodnina
     sr: naknada štete
-    sr-ec: Штета
-    sr-el: šteta
+    sr_ec: Штета
+    sr_el: šteta
     sv: skadestånd
     tg: Зарар
     tr: tazminat
     uk: відшкодування
     ur: نقصانات کی پابجائی
     zh: 損害賠償
-    zh-cn: 损害赔偿
+    zh_cn: 损害赔偿
     zu: Inhlawulo
 ---
 # [[Damages]] 

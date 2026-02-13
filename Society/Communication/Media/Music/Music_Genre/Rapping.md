@@ -105,7 +105,7 @@ dv_has_:
     az: rep
     azb: رپ
     be: рэп
-    be-tarask: рэп
+    be_tarask: рэп
     bg: рап
     bn: র্যাপ
     br: Rap
@@ -117,12 +117,12 @@ dv_has_:
     da: rap
     dag: parimbu
     de: Rap
-    de-ch: Rap
+    de_ch: Rap
     diq: Rap
     el: Ραπ μουσική
     en: rapping
-    en-ca: rap
-    en-gb: rap
+    en_ca: rap
+    en_gb: rap
     en-us: rapping
     eo: repo
     es: rapear
@@ -175,7 +175,7 @@ dv_has_:
     pap: rap
     pl: rap
     pt: rap
-    pt-br: rap
+    pt_br: rap
     ro: rap
     ru: рэп
     sc: Musica rap
@@ -207,12 +207,12 @@ dv_has_:
     yi: ראפ מוזיק
     yue: Rap
     zh: 饒舌
-    zh-cn: 说唱
-    zh-hans: 说唱
-    zh-hant: 饒舌
+    zh_cn: 说唱
+    zh_hans: 说唱
+    zh_hant: 饒舌
     zh-my: 饶舌
-    zh-sg: 饶舌
-    zh-tw: 饒舌
+    zh_sg: 饶舌
+    zh_tw: 饒舌
 ---
 # [[Rapping]] 
 

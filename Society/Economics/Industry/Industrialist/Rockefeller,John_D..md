@@ -127,7 +127,7 @@ dv_has_:
     ba: Рокфеллер Джон Дэвисон
     bar: John D. Rockefeller
     be: Джон Дэвісан Ракфелер
-    be-tarask: Джон Дэйвісан Ракфэлер
+    be_tarask: Джон Дэйвісан Ракфэлер
     bg: Джон Рокфелер
     bi: John D. Rockefeller
     bm: John D. Rockefeller
@@ -141,11 +141,11 @@ dv_has_:
     da: John D. Rockefeller
     de: John D. Rockefeller
     de-at: John D. Rockefeller
-    de-ch: John D. Rockefeller
+    de_ch: John D. Rockefeller
     el: Τζον Ντ. Ροκφέλερ
     en: John D. Rockefeller
-    en-ca: John D. Rockefeller
-    en-gb: John D. Rockefeller
+    en_ca: John D. Rockefeller
+    en_gb: John D. Rockefeller
     eo: John D. Rockefeller
     es: John D. Rockefeller
     et: John D. Rockefeller
@@ -178,11 +178,11 @@ dv_has_:
     kab: John D. Rockefeller
     kg: John D. Rockefeller
     kk: Рокфеллер, Джон Дэвисон
-    kk-arab: روكفەللەر، دجون دەۆىيسون
+    kk_arab: روكفەللەر، دجون دەۆىيسون
     kk-cn: روكفەللەر، دجون دەۆىيسون
-    kk-cyrl: Рокфеллер, Джон Дэвисон
+    kk_cyrl: Рокфеллер, Джон Дэвисон
     kk-kz: Рокфеллер, Джон Дэвисон
-    kk-latn: Rokfeller, Djon Dévïson
+    kk_latn: Rokfeller, Djon Dévïson
     kk-tr: Rokfeller, Djon Dévïson
     ko: 존 D. 록펠러
     ky: Джон Дэвисон Рокфеллер
@@ -204,7 +204,7 @@ dv_has_:
     nap: John D. Rockefeller
     nb: John D. Rockefeller
     nds: John D. Rockefeller
-    nds-nl: John D. Rockefeller
+    nds_nl: John D. Rockefeller
     new: जन डेभिसन रकफेलर
     nl: John D. Rockefeller
     nn: John D. Rockefeller
@@ -217,7 +217,7 @@ dv_has_:
     prg: John D. Rockefeller
     ps: جان ډي راکفیلر
     pt: John Davison Rockefeller
-    pt-br: John Davison Rockefeller
+    pt_br: John Davison Rockefeller
     rgn: John D. Rockefeller
     rki: ဂျွန်ဒေးဗီဆန် ရော့ကဖဲလား
     rm: John D. Rockefeller
@@ -230,8 +230,8 @@ dv_has_:
     sl: John D. Rockefeller
     sq: John D. Rockefeller
     sr: Џон Д. Рокфелер
-    sr-ec: Џон Д. Рокфелер
-    sr-el: Džon D. Rokfeler
+    sr_ec: Џон Д. Рокфелер
+    sr_el: Džon D. Rokfeler
     sv: John D. Rockefeller
     sw: John D. Rockefeller
     ta: ஜான் டி. ராக்பெல்லர்
@@ -253,12 +253,12 @@ dv_has_:
     wuu: 约翰·戴维森·洛克菲勒
     yue: 洛克菲勒
     zh: 约翰·戴维森·洛克菲勒
-    zh-cn: 约翰·戴维森·洛克菲勒
-    zh-hans: 约翰·戴维森·洛克菲勒
-    zh-hant: 約翰·戴維森·洛克菲勒
-    zh-hk: 約翰·戴維森·洛克菲勒
-    zh-sg: 约翰·戴维森·洛克菲勒
-    zh-tw: 約翰·戴維森·洛克菲勒
+    zh_cn: 约翰·戴维森·洛克菲勒
+    zh_hans: 约翰·戴维森·洛克菲勒
+    zh_hant: 約翰·戴維森·洛克菲勒
+    zh_hk: 約翰·戴維森·洛克菲勒
+    zh_sg: 约翰·戴维森·洛克菲勒
+    zh_tw: 約翰·戴維森·洛克菲勒
     zu: John D. Rockefeller
 ---
 # [[Rockefeller,John_D.]] 

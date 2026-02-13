@@ -145,7 +145,7 @@ dv_has_:
     az: ürək-damar xəstəliyi
     azb: اورکتوتما مریضلیگی
     be: сардэчна-сасудзістае захворванне
-    be-tarask: сэрцава-судзіннае захворваньне
+    be_tarask: сэрцава-судзіннае захворваньне
     bg: Сърдечносъдови заболявания
     bho: हार्ट के बेमारी
     bn: রক্ত সংবহনতন্ত্রের রোগ
@@ -213,8 +213,8 @@ dv_has_:
     sl: srčno-žilna bolezen
     sq: Semundjet e zemres
     sr: кардиоваскуларна болест
-    sr-ec: кардиоваскуларна болест
-    sr-el: kardiovaskularna bolest
+    sr_ec: кардиоваскуларна болест
+    sr_el: kardiovaskularna bolest
     sv: hjärt- och kärlsjukdom
     sw: Ugonjwa wa moyo
     ta: இதயக் குழலிய நோய்
@@ -231,12 +231,12 @@ dv_has_:
     wuu: 心血管疾病
     yue: 心血管病
     zh: 心血管疾病
-    zh-cn: 心血管疾病
-    zh-hans: 心血管疾病
-    zh-hant: 心血管疾病
-    zh-hk: 心血管疾病
-    zh-sg: 心血管疾病
-    zh-tw: 心血管疾病
+    zh_cn: 心血管疾病
+    zh_hans: 心血管疾病
+    zh_hant: 心血管疾病
+    zh_hk: 心血管疾病
+    zh_sg: 心血管疾病
+    zh_tw: 心血管疾病
 ---
 # [[Cardiovascular_Disease]] 
 

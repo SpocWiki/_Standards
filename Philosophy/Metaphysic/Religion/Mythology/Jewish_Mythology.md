@@ -4,7 +4,7 @@ dv_has_:
   name_:
     ar: الأساطير اليهودية
     az: yəhudi mifologiyası
-    be-tarask: жыдоўская міталёгія
+    be_tarask: жыдоўская міталёгія
     ca: mitologia jueva
     de: jüdische Mythologie
     el: Εβραϊκή μυθολογία
@@ -23,7 +23,7 @@ dv_has_:
     nb: jødisk mytologi
     nl: joodse mythologie
     pt: folclore judaico
-    pt-br: mitologia judaica
+    pt_br: mitologia judaica
     ru: еврейская мифология
     sl: judovska mitologija
     sq: Mitologjia hebreje

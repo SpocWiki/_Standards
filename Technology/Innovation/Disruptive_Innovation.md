@@ -56,7 +56,7 @@ dv_has_:
   name_:
     ar: ابتكار مزعزع
     ast: Tecnoloxía disruptiva
-    be-tarask: разбуральныя інавацыі
+    be_tarask: разбуральныя інавацыі
     bg: Подривна технология
     ca: Disrupció
     cs: disruptivní inovace
@@ -64,8 +64,8 @@ dv_has_:
     de: disruptive Technologie
     el: αποδιαρθρωτική καινοτομία
     en: disruptive innovation
-    en-ca: disruptive innovation
-    en-gb: disruptive innovation
+    en_ca: disruptive innovation
+    en_gb: disruptive innovation
     es: tecnología disruptiva
     eu: Berrikuntza disruptibo
     fa: نوآوری تحول آفرین
@@ -88,7 +88,7 @@ dv_has_:
     pl: Przełomowa innowacja
     pms: Inovassion esplosiva
     pt: tecnologia disruptiva
-    pt-br: Tecnologia disruptiva
+    pt_br: Tecnologia disruptiva
     ru: подрывные инновации
     sl: disruptivna tehnologija
     sr: Remetilačka inovacija
@@ -101,9 +101,9 @@ dv_has_:
     wuu: 破坏性创新
     yue: 破壞性創新
     zh: 破壞性創新
-    zh-hans: 破坏性创新
-    zh-hant: 破壞性創新
-    zh-hk: 破壞性創新
+    zh_hans: 破坏性创新
+    zh_hant: 破壞性創新
+    zh_hk: 破壞性創新
 ---
 # [[Disruptive_Innovation]] 
 

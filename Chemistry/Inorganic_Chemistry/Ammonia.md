@@ -232,7 +232,7 @@ dv_has_:
     ba: аммиак
     bcl: amonya
     be: аміяк
-    be-tarask: аміяк
+    be_tarask: аміяк
     bg: амоняк
     bn: অ্যামোনিয়া
     bs: amonijak
@@ -244,11 +244,11 @@ dv_has_:
     cy: amonia
     da: ammoniak
     de: Ammoniak
-    de-ch: Ammoniak
+    de_ch: Ammoniak
     el: αμμωνία
     en: ammonia
-    en-ca: ammonia
-    en-gb: ammonia
+    en_ca: ammonia
+    en_gb: ammonia
     eo: amoniako
     es: amoníaco
     et: ammoniaak
@@ -309,7 +309,7 @@ dv_has_:
     pnb: امونیا
     ps: امونيا
     pt: amoníaco
-    pt-br: amônia
+    pt_br: amônia
     ro: amoniac
     ru: аммиак
     sah: аммиак
@@ -341,9 +341,9 @@ dv_has_:
     yo: ammonia
     yue: 亞摩尼亞
     zh: 氨
-    zh-cn: 氨
-    zh-hant: 氨
-    zh-tw: 氨
+    zh_cn: 氨
+    zh_hant: 氨
+    zh_tw: 氨
     zu: umthundohwe
 ---
 # [[Ammonia]] 

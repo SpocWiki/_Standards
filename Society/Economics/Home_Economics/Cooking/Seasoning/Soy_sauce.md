@@ -116,7 +116,7 @@ dv_has_:
     az: soya sousu
     bcl: tawyo
     be: соевы соус
-    be-tarask: соевая падліва
+    be_tarask: соевая падліва
     bew: kécap asin
     bg: соев сос
     bn: সয়া সস
@@ -128,7 +128,7 @@ dv_has_:
     de: Sojasauce
     el: σάλτσα σόγιας
     en: soy sauce
-    en-gb: soy sauce
+    en_gb: soy sauce
     eo: sojsaŭco
     es: salsa de soya
     et: sojakaste
@@ -176,7 +176,7 @@ dv_has_:
     pl: sos sojowy
     pms: sàussa 'd sòja
     pt: molho de soja
-    pt-br: molho de soja
+    pt_br: molho de soja
     ro: sos de soia
     ru: соевый соус
     sk: sójová omáčka
@@ -198,11 +198,11 @@ dv_has_:
     yue: 豉油
     za: ciengqyouz
     zh: 酱油
-    zh-cn: 酱油
-    zh-hans: 酱油
-    zh-hant: 醬油
-    zh-sg: 酱油
-    zh-tw: 醬油
+    zh_cn: 酱油
+    zh_hans: 酱油
+    zh_hant: 醬油
+    zh_sg: 酱油
+    zh_tw: 醬油
 ---
 # [[Soy_sauce]]
 

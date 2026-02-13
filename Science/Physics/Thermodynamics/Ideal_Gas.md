@@ -82,7 +82,7 @@ dv_has_:
     ast: Gas ideal
     az: İdeal qaz
     be: iдэальны газ
-    be-tarask: ідэальны газ
+    be_tarask: ідэальны газ
     bg: Идеален газ
     bn: আদর্শ গ্যাস
     bs: Idealni plin
@@ -113,11 +113,11 @@ dv_has_:
     ja: 理想気体
     ka: იდეალური აირი
     kk: Идеал газ
-    kk-arab: ىيدەال گاز
+    kk_arab: ىيدەال گاز
     kk-cn: ىيدەال گاز
-    kk-cyrl: Идеал газ
+    kk_cyrl: Идеал газ
     kk-kz: Идеал газ
-    kk-latn: Ïdeal gaz
+    kk_latn: Ïdeal gaz
     kk-tr: Ïdeal gaz
     ko: 이상기체
     ko-kp: 리상기체
@@ -145,8 +145,8 @@ dv_has_:
     smn: ideaalkaasu
     sq: Gazi ideal
     sr: идеални гас
-    sr-ec: идеални гас
-    sr-el: Idealni gas
+    sr_ec: идеални гас
+    sr_el: Idealni gas
     sv: ideal gas
     ta: இலட்சிய வாயு
     tg: Гази идеалӣ
@@ -158,12 +158,12 @@ dv_has_:
     wuu: 理想气体
     yue: 理想氣體
     zh: 理想氣體
-    zh-cn: 理想气体
-    zh-hans: 理想气体
-    zh-hant: 理想氣體
-    zh-hk: 理想氣體
-    zh-sg: 理想气体
-    zh-tw: 理想氣體
+    zh_cn: 理想气体
+    zh_hans: 理想气体
+    zh_hant: 理想氣體
+    zh_hk: 理想氣體
+    zh_sg: 理想气体
+    zh_tw: 理想氣體
 ---
 # [[Ideal_Gas]] 
 

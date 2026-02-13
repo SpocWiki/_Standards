@@ -121,7 +121,7 @@ dv_has_:
     az: Botulizm
     azb: بوتولیزم
     ba: Ботулизм
-    be-tarask: батулізм
+    be_tarask: батулізм
     bg: Ботулизъм
     bn: বটুলিসম
     ca: botulisme
@@ -153,11 +153,11 @@ dv_has_:
     ja: ボツリヌス中毒
     ka: ბოტულიზმი
     kk: Ботулизм
-    kk-arab: بوتۋلىيزم
+    kk_arab: بوتۋلىيزم
     kk-cn: بوتۋلىيزم
-    kk-cyrl: Ботулизм
+    kk_cyrl: Ботулизм
     kk-kz: Ботулизм
-    kk-latn: Botwlïzm
+    kk_latn: Botwlïzm
     kk-tr: Botwlïzm
     ko: 보툴리누스 중독
     ky: Ботулизм
@@ -181,8 +181,8 @@ dv_has_:
     sk: Botulizmus
     sl: botulizem
     sr: ботулизам
-    sr-ec: Ботулизам
-    sr-el: Botulizam
+    sr_ec: Ботулизам
+    sr_el: Botulizam
     sv: botulism
     ta: பாட்டுலைனியம்
     tg: Ботулизм

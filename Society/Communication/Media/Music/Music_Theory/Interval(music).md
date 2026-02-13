@@ -70,7 +70,7 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Inter
 dv_has_:
   name_:
     ar: مسافة
-    be-tarask: музычны інтэрвал
+    be_tarask: музычны інтэрвал
     bew: lat nada
     bg: Музикален интервал
     bn: সুর বিরাম
@@ -121,8 +121,8 @@ dv_has_:
     sl: interval
     sms: intervall
     sr: интервал
-    sr-ec: интервал
-    sr-el: interval
+    sr_ec: интервал
+    sr_el: interval
     sv: intervall
     tr: aralık
     uk: музичний інтервал
@@ -132,12 +132,12 @@ dv_has_:
     wuu: 音程
     yue: 音程
     zh: 音程
-    zh-cn: 音程
-    zh-hans: 音程
-    zh-hant: 音程
-    zh-hk: 音程
-    zh-sg: 音程
-    zh-tw: 音程
+    zh_cn: 音程
+    zh_hans: 音程
+    zh_hant: 音程
+    zh_hk: 音程
+    zh_sg: 音程
+    zh_tw: 音程
 ---
 # [[Interval(music)]] 
 

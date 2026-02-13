@@ -12,12 +12,12 @@ dv_has_:
     cs: Thelma a Louise
     da: Thelma og Louise
     de: Thelma & Louise
-    de-ch: Thelma & Louise
+    de_ch: Thelma & Louise
     el: Θέλμα & Λουίζ
     eml: Thelma & Louise
     en: Thelma & Louise
-    en-ca: Thelma & Louise
-    en-gb: Thelma & Louise
+    en_ca: Thelma & Louise
+    en_gb: Thelma & Louise
     eo: Thelma & Louise
     es: Thelma y Louise
     et: Thelma ja Louise
@@ -47,7 +47,7 @@ dv_has_:
     pa: ਥੈਲਮਾ ਅਤੇ ਲੁਈਸ
     pl: Thelma i Louise
     pt: Thelma e Louise
-    pt-br: Thelma and Louise
+    pt_br: Thelma and Louise
     ro: Thelma și Louise
     ru: Тельма и Луиза
     sl: Thelma & Louise
@@ -59,8 +59,8 @@ dv_has_:
     vi: Thelma & Louise
     yue: 末路狂花
     zh: 塞尔玛与路易丝
-    zh-hant: 末路狂花
-    zh-sg: 末路狂花
+    zh_hant: 末路狂花
+    zh_sg: 末路狂花
 aliases:
 - Filem Thelma & Louise
 - Telma un Luīze

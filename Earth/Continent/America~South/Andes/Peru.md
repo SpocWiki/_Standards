@@ -623,7 +623,7 @@ dv_has_:
     ab: Перу
     ace: Pèru
     ady: Перу
-    aeb-arab: پيرو
+    aeb_arab: پيرو
     af: Peru
     am: ፔሩ
     ami: Peru
@@ -645,7 +645,7 @@ dv_has_:
     bar: Peru
     bcl: Peru
     be: Перу
-    be-tarask: Пэру
+    be_tarask: Пэру
     bew: Péru
     bg: Перу
     bho: पेरू
@@ -659,7 +659,7 @@ dv_has_:
     bs: Peru
     bxr: Перу
     ca: Perú
-    cbk-zam: Peru
+    cbk_zam: Peru
     cdo: Peru
     ce: Перу
     ceb: Peru
@@ -668,7 +668,7 @@ dv_has_:
     ckb: پێروو
     co: Perù
     crh: Peru
-    crh-latn: Peru
+    crh_latn: Peru
     cs: Peru
     csb: Perú
     cv: Перу
@@ -677,7 +677,7 @@ dv_has_:
     dag: Peru
     de: Peru
     de-at: Peru
-    de-ch: Peru
+    de_ch: Peru
     diq: Peru
     dsb: Peru
     dty: पेरू
@@ -685,8 +685,8 @@ dv_has_:
     ee: Peru
     el: Περού
     en: Peru
-    en-ca: Peru
-    en-gb: Peru
+    en_ca: Peru
+    en_gb: Peru
     en-us: Peru
     eo: Peruo
     es: Perú
@@ -713,7 +713,7 @@ dv_has_:
     gn: Perũ
     gom: पेरू
     gom-deva: पेरू
-    gom-latn: Peru
+    gom_latn: Peru
     got: "\U00010340\U00010330\U00010339\U00010342\U0001033F"
     gpe: Peru
     gsw: Peru
@@ -784,7 +784,7 @@ dv_has_:
     lv: Peru
     lzh: 祕魯
     mad: Peru
-    map-bms: Peru
+    map_bms: Peru
     mdf: Пэру
     mg: Però
     mhr: Перу
@@ -807,7 +807,7 @@ dv_has_:
     nap: Perù
     nb: Peru
     nds: Peru
-    nds-nl: Peru
+    nds_nl: Peru
     ne: पेरू
     new: पेरु
     nl: Peru
@@ -834,7 +834,7 @@ dv_has_:
     pnb: پیرو
     ps: پيرو
     pt: Peru
-    pt-br: Peru
+    pt_br: Peru
     qu: Piruw
     qug: Piruw
     rm: Peru
@@ -864,8 +864,8 @@ dv_has_:
     so: Peru
     sq: Peruja
     sr: Перу
-    sr-ec: Перу
-    sr-el: Peru
+    sr_ec: Перу
+    sr_el: Peru
     ss: IPheru
     stq: Peru
     su: Péru
@@ -915,14 +915,14 @@ dv_has_:
     za: Biluj
     zea: Peru
     zh: 秘鲁
-    zh-cn: 秘鲁
-    zh-hans: 秘鲁
-    zh-hant: 秘魯
-    zh-hk: 秘魯
-    zh-mo: 秘魯
+    zh_cn: 秘鲁
+    zh_hans: 秘鲁
+    zh_hant: 秘魯
+    zh_hk: 秘魯
+    zh_mo: 秘魯
     zh-my: 秘鲁
-    zh-sg: 秘鲁
-    zh-tw: 秘魯
+    zh_sg: 秘鲁
+    zh_tw: 秘魯
     zu: i-Peru
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Peru

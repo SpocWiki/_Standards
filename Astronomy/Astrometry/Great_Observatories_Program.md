@@ -59,7 +59,7 @@ dv_has_:
     ar: برنامج المراصد الكبرى
     ast: Grandes Observatorios
     az: Böyük Rəsədxanalar proqramı
-    be-tarask: Вялікія абсэрваторыі
+    be_tarask: Вялікія абсэрваторыі
     ca: Programa dels Grans Observatoris
     cs: Velké observatoře
     da: Great Observatories program
@@ -88,9 +88,9 @@ dv_has_:
     vi: Chương trình Đài Quan sát Lớn
     yue: 大型天文台計劃
     zh: 大型轨道天文台计划
-    zh-hans: 大型轨道天文台计划
-    zh-hant: 大型軌道天文台計劃
-    zh-hk: 大型軌道天文台計劃
+    zh_hans: 大型轨道天文台计划
+    zh_hant: 大型軌道天文台計劃
+    zh_hk: 大型軌道天文台計劃
 ---
 # [[Great_Observatories_Program]] 
 

@@ -129,7 +129,7 @@ dv_has_:
     az: ticarət mərkəzi
     azb: آلیش وئریش مرکزی
     be: гандлёвы цэнтр
-    be-tarask: гандлёвы цэнтар
+    be_tarask: гандлёвы цэнтар
     bg: търговски център
     bn: বিপণি কেন্দ্র
     ca: centre comercial
@@ -139,11 +139,11 @@ dv_has_:
     cy: canolfan siopa
     da: butikscenter
     de: Einkaufszentrum
-    de-ch: Einkaufszentrum
+    de_ch: Einkaufszentrum
     el: εμπορικό κέντρο
     en: shopping center
-    en-ca: shopping centre
-    en-gb: shopping centre
+    en_ca: shopping centre
+    en_gb: shopping centre
     en-us: shopping center
     eo: vendejaro
     es: centro comercial
@@ -182,7 +182,7 @@ dv_has_:
     pap: disenjo di shoping moll
     pl: centrum handlowe
     pt: centro comercial
-    pt-br: centro comercial
+    pt_br: centro comercial
     qu: Qhatuy suntur
     ro: centru comercial
     ru: торговый центр
@@ -196,8 +196,8 @@ dv_has_:
     sms: vuäʹsttemkõõskõs
     sq: Qendra tregtare
     sr: тржни центар
-    sr-ec: тржни центар
-    sr-el: tržni centar
+    sr_ec: тржни центар
+    sr_el: tržni centar
     sv: köpcentrum
     ta: பேரங்காடி
     te: షాపింగ్ మాల్
@@ -211,14 +211,14 @@ dv_has_:
     yi: שאפינג מאלל
     yue: 商場
     zh: 商場
-    zh-cn: 商场
-    zh-hans: 商场
-    zh-hant: 商場
-    zh-hk: 商場
-    zh-mo: 商場
+    zh_cn: 商场
+    zh_hans: 商场
+    zh_hant: 商場
+    zh_hk: 商場
+    zh_mo: 商場
     zh-my: 商场
-    zh-sg: 商场
-    zh-tw: 商場
+    zh_sg: 商场
+    zh_tw: 商場
 ---
 # [[Shopping_Center]] 
 

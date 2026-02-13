@@ -49,11 +49,11 @@ dv_has_:
     vec: Fairchild Semiconductor
     wuu: 仙童半导体
     zh: 仙童半導體
-    zh-cn: 仙童半导体
-    zh-hans: 仙童半导体
-    zh-hant: 仙童半導體
-    zh-hk: 快捷半導體公司
-    zh-tw: 快捷半導體
+    zh_cn: 仙童半导体
+    zh_hans: 仙童半导体
+    zh_hant: 仙童半導體
+    zh_hk: 快捷半導體公司
+    zh_tw: 快捷半導體
 ---
 # [[Fairchild_Semiconductor]] 
 

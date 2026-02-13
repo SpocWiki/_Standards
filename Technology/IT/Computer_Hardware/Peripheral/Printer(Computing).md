@@ -142,7 +142,7 @@ dv_has_:
     az: printer
     ba: принтер
     be: прынтар
-    be-tarask: прынтэр
+    be_tarask: прынтэр
     bew: mesin apdrek
     bg: принтер
     bho: प्रिंटर
@@ -155,12 +155,12 @@ dv_has_:
     cy: argraffydd
     da: printer
     de: Drucker
-    de-ch: Drucker
+    de_ch: Drucker
     diq: neşırxaney
     el: εκτυπωτής
     en: printer
-    en-ca: printer
-    en-gb: printer
+    en_ca: printer
+    en_gb: printer
     eo: printilo
     es: impresora
     et: printer
@@ -218,7 +218,7 @@ dv_has_:
     pl: drukarka
     pnb: پرنٹر
     pt: impressora
-    pt-br: impressora
+    pt_br: impressora
     qu: antañiqiq ch'ipachina
     ro: imprimantă
     ru: принтер
@@ -236,8 +236,8 @@ dv_has_:
     sms: priʹnttjem-mašina
     sq: printeri
     sr: штампач
-    sr-ec: штампач
-    sr-el: štampač
+    sr_ec: штампач
+    sr_el: štampač
     sv: skrivare
     sw: kichapishi
     ta: கணினி அச்சுப்பொறி
@@ -258,14 +258,14 @@ dv_has_:
     yi: דרוקער
     yue: 列印機
     zh: 打印機
-    zh-cn: 打印机
-    zh-hans: 打印机
-    zh-hant: 打印機
-    zh-hk: 列印機
-    zh-mo: 列印機
+    zh_cn: 打印机
+    zh_hans: 打印机
+    zh_hant: 打印機
+    zh_hk: 列印機
+    zh_mo: 列印機
     zh-my: 打印机
-    zh-sg: 打印机
-    zh-tw: 印表機
+    zh_sg: 打印机
+    zh_tw: 印表機
 ---
 # [[Printer(Computing)]] 🖶 
 

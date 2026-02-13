@@ -184,7 +184,7 @@ dv_has_:
     ba: Ҡар ишелмәһе
     bar: Laan
     be: Лавіна
-    be-tarask: лявіна
+    be_tarask: лявіна
     bg: Лавина
     bn: হিমধস
     br: diruilhad
@@ -250,7 +250,7 @@ dv_has_:
     nan: Pang-seh
     nb: snøskred
     nds: Lawine
-    nds-nl: lawine
+    nds_nl: lawine
     ne: हिम पहिरो
     new: च्वापुहुर
     nl: sneeuwlawine
@@ -279,7 +279,7 @@ dv_has_:
     sms: muõttčäävvmõš
     sq: Reshpja
     sr: снежна лавина
-    sr-ec: снежна лавина
+    sr_ec: снежна лавина
     sv: lavin
     sw: Banguko
     ta: பனிச்சரிவு
@@ -302,7 +302,7 @@ dv_has_:
     yi: לאווינע
     yue: 雪崩
     zh: 雪崩
-    zh-hans: 雪崩
+    zh_hans: 雪崩
 ---
 # [[Avalanche]] 
 

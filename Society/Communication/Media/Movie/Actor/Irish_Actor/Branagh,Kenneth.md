@@ -39,7 +39,7 @@ dv_has_:
     az: Kennet Brana
     bar: Kenneth Branagh
     be: Кенет Брана
-    be-tarask: Кенэт Брана
+    be_tarask: Кенэт Брана
     bg: Кенет Брана
     bm: Kenneth Branagh
     bn: কেনেথ ব্র্যানা
@@ -51,12 +51,12 @@ dv_has_:
     da: Kenneth Branagh
     de: Kenneth Branagh
     de-at: Kenneth Branagh
-    de-ch: Kenneth Branagh
+    de_ch: Kenneth Branagh
     diq: Kenneth Branagh
     el: Κένεθ Μπράνα
     en: Kenneth Branagh
-    en-ca: Kenneth Branagh
-    en-gb: Kenneth Branagh
+    en_ca: Kenneth Branagh
+    en_gb: Kenneth Branagh
     eo: Kenneth Branagh
     es: Kenneth Branagh
     et: Kenneth Branagh
@@ -101,7 +101,7 @@ dv_has_:
     nap: Kenneth Branagh
     nb: Kenneth Branagh
     nds: Kenneth Branagh
-    nds-nl: Kenneth Branagh
+    nds_nl: Kenneth Branagh
     nl: Kenneth Branagh
     nn: Kenneth Branagh
     nrm: Kenneth Branagh
@@ -113,7 +113,7 @@ dv_has_:
     pms: Kenneth Branagh
     prg: Kenneth Branagh
     pt: Kenneth Branagh
-    pt-br: Kenneth Branagh
+    pt_br: Kenneth Branagh
     qu: Kenneth Branagh
     rgn: Kenneth Branagh
     rm: Kenneth Branagh
@@ -127,7 +127,7 @@ dv_has_:
     sl: Kenneth Branagh
     sq: Kenneth Branagh
     sr: Кенет Брана
-    sr-el: Kenneth Branagh
+    sr_el: Kenneth Branagh
     sv: Kenneth Branagh
     sw: Kenneth Branagh
     ta: கென்னத் பிரனாக்
@@ -135,7 +135,7 @@ dv_has_:
     tl: Kenneth Branagh
     tr: Kenneth Branagh
     tt: Кеннет Брәна
-    tt-cyrl: Кеннет Брәна
+    tt_cyrl: Кеннет Брәна
     uk: Кеннет Брана
     ur: کینتھ برانا
     uz: Kenneth Branagh
@@ -151,12 +151,12 @@ dv_has_:
     xmf: კენეთ ბრანა
     yue: 簡尼夫班納
     zh: 肯尼思·布拉纳
-    zh-cn: 肯尼思·布拉纳
-    zh-hans: 肯尼思·布拉纳
-    zh-hant: 肯尼思·布拉納
-    zh-hk: 簡尼夫·班納
-    zh-sg: 肯尼斯·布莱纳
-    zh-tw: 肯尼斯·布萊納
+    zh_cn: 肯尼思·布拉纳
+    zh_hans: 肯尼思·布拉纳
+    zh_hant: 肯尼思·布拉納
+    zh_hk: 簡尼夫·班納
+    zh_sg: 肯尼斯·布莱纳
+    zh_tw: 肯尼斯·布萊納
     zu: Kenneth Branagh
 ---
 #has_/time_/started :: 1960-12-10 

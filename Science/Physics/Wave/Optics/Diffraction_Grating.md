@@ -64,7 +64,7 @@ dv_has_:
     ar: محزز الحيود
     ast: rede de difraición
     be: дыфракцыйная рашотка
-    be-tarask: дыфракцыйная рашотка
+    be_tarask: дыфракцыйная рашотка
     bg: Дифракционна решетка
     ca: Xarxa de difracció
     ckb: درزەکی لادان
@@ -87,9 +87,9 @@ dv_has_:
     it: Reticolo di diffrazione
     ja: 回折格子
     kk: Дифракциялық тор
-    kk-arab: دىيفراكتسىييالىق تور
-    kk-cyrl: Дифракциялық тор
-    kk-latn: Dïfrakcïyalıq tor
+    kk_arab: دىيفراكتسىييالىق تور
+    kk_cyrl: Дифракциялық тор
+    kk_latn: Dïfrakcïyalıq tor
     kn: ವಿವರ್ತನೆ ದರ್ಜೆ
     ko: 회절격자
     lt: difrakcinė gardelė
@@ -112,9 +112,9 @@ dv_has_:
     vi: Lưới nhiễu xạ
     yue: 繞射光柵
     zh: 衍射光栅
-    zh-hans: 衍射光栅
-    zh-hant: 繞射光柵
-    zh-hk: 繞射光柵
+    zh_hans: 衍射光栅
+    zh_hant: 繞射光柵
+    zh_hk: 繞射光柵
 ---
 # [[Diffraction_Grating]] 
 

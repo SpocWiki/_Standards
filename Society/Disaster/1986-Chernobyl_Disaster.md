@@ -150,7 +150,7 @@ dv_has_:
     az: Çernobıl faciəsi
     azb: چرنوبیل فاجیعهسی
     be: Чарнобыльская катастрофа
-    be-tarask: Чарнобыльская катастрофа
+    be_tarask: Чарнобыльская катастрофа
     bg: Чернобилска авария
     bn: চেরনোবিলের বিপর্যয়
     bs: Černobilska katastrofa
@@ -252,10 +252,10 @@ dv_has_:
     wuu: 切尔诺贝利事故
     yue: 切爾諾貝爾核災
     zh: 切尔诺贝利核事件
-    zh-cn: 切尔诺贝利核事故
-    zh-hans: 切尔诺贝利核事故
-    zh-hant: 車諾比爾事故
-    zh-tw: 車諾比爾事故
+    zh_cn: 切尔诺贝利核事故
+    zh_hans: 切尔诺贝利核事故
+    zh_hant: 車諾比爾事故
+    zh_tw: 車諾比爾事故
 ---
 # [[1986-Chernobyl_Disaster]] 
 

@@ -7,7 +7,7 @@ dv_has_:
     ast: El mozu azul
     ba: Зәңгәр малай (картина)
     be: Хлопчык у блакітным
-    be-tarask: Хлопчык у блакітным
+    be_tarask: Хлопчык у блакітным
     bg: Момчето в синьо
     ca: El noi blau
     cs: Chlapec v modrém
@@ -34,7 +34,7 @@ dv_has_:
     pt: O menino azul
     ru: Голубой мальчик
     sr: Дечак у плавом
-    sr-ec: Дечак у плавом
+    sr_ec: Дечак у плавом
     sv: Den blå pojken
     ta: நீலப் பையன்
     tr: The Blue Boy

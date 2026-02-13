@@ -48,7 +48,7 @@ dv_has_:
     ar: وحدة الموجود
     ast: panenteísmu
     az: Panenteizm
-    be-tarask: панэнтэізм
+    be_tarask: панэнтэізм
     bn: সর্বজনীনতাবাদ
     ca: panenteisme
     cs: panenteismus
@@ -56,8 +56,8 @@ dv_has_:
     de: Panentheismus
     el: Πανενθεϊσμός
     en: Panentheism
-    en-ca: panentheism
-    en-gb: panentheism
+    en_ca: panentheism
+    en_gb: panentheism
     eo: panenteismo
     es: panenteísmo
     eu: panenteismo
@@ -81,11 +81,11 @@ dv_has_:
     mk: панентеизам
     mwl: panenteísmo
     nb: panenteisme
-    nds-nl: panentheïsme
+    nds_nl: panentheïsme
     nl: panentheïsme
     pl: panenteizm
     pt: panenteísmo
-    pt-br: panenteísmo
+    pt_br: panenteísmo
     ro: panenteism
     ru: панентеизм
     sd: ھمہ از اوست

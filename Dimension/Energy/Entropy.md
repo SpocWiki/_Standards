@@ -99,7 +99,7 @@ dv_has_:
     bar: Entropie
     bcl: Entropiya
     be: энтрапія
-    be-tarask: энтрапія
+    be_tarask: энтрапія
     bg: ентропия
     bn: বিশৃঙ্খলা-মাত্রা
     br: entropiezh
@@ -162,7 +162,7 @@ dv_has_:
     pl: entropia
     ps: اېنټروپي
     pt: entropia
-    pt-br: entropia
+    pt_br: entropia
     ro: Entropie
     ru: энтропия
     sc: Entropia
@@ -178,8 +178,8 @@ dv_has_:
     sms: entropia
     sq: Entropia
     sr: ентропија
-    sr-ec: ентропија
-    sr-el: entropija
+    sr_ec: ентропија
+    sr_el: entropija
     sv: entropi
     ta: சிதறம்
     te: ఎంట్రోపి

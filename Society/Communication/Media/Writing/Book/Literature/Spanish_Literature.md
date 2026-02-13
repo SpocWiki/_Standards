@@ -94,7 +94,7 @@ dv_has_:
     avk: Espanaf suteroteem
     az: İspan ədəbiyyatı
     be: літаратура Іспаніі
-    be-tarask: гішпанская літаратура
+    be_tarask: гішпанская літаратура
     bg: Испанска литература
     bn: স্পেনীয় সাহিত্য
     bs: Španska književnost
@@ -154,12 +154,12 @@ dv_has_:
     vi: Văn học Tây Ban Nha
     yue: 西班牙文學
     zh: 西班牙文学
-    zh-cn: 西班牙文学
-    zh-hans: 西班牙文学
-    zh-hant: 西班牙文學
-    zh-hk: 西班牙文學
-    zh-sg: 西班牙文学
-    zh-tw: 西班牙文學
+    zh_cn: 西班牙文学
+    zh_hans: 西班牙文学
+    zh_hant: 西班牙文學
+    zh_hk: 西班牙文學
+    zh_sg: 西班牙文学
+    zh_tw: 西班牙文學
 ---
 # [[Spanish_Literature]] 
 

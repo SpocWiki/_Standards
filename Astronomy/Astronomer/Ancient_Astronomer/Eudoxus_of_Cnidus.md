@@ -130,7 +130,7 @@ dv_has_:
     az: Knidli Evdoks
     azb: اودوکسوس کنیدوسی
     be: Эўдокс Кнідскі
-    be-tarask: Эўдокс Кнідзкі
+    be_tarask: Эўдокс Кнідзкі
     bg: Евдокс от Книд
     bn: ক্নিদিয়সের এউদক্সস
     ca: Eudox de Chinos
@@ -161,11 +161,11 @@ dv_has_:
     ja: エウドクソス
     ka: ევდოქსე კნიდოსელი
     kk: Книдский Евдокс
-    kk-arab: كنىيدسكىيي ەۆدوكس
+    kk_arab: كنىيدسكىيي ەۆدوكس
     kk-cn: كنىيدسكىيي ەۆدوكس
-    kk-cyrl: Книдский Евдокс
+    kk_cyrl: Книдский Евдокс
     kk-kz: Книдский Евдокс
-    kk-latn: Knïdskïý Evdoks
+    kk_latn: Knïdskïý Evdoks
     kk-tr: Knïdskïý Evdoks
     ko: 크니도스의 에우독소스
     la: Eudoxus
@@ -179,15 +179,15 @@ dv_has_:
     pms: Eudòss dë Cnido
     ps: اودوکسوس کنيدوسي
     pt: Eudoxo de Cnido
-    pt-br: Eudoxo de Cnido
+    pt_br: Eudoxo de Cnido
     ro: Eudoxus din Knidos
     ru: Евдокс Книдский
     sh: Eudoks
     sk: Eudoxos z Knidu
     sl: Evdoks
     sr: Еудокс
-    sr-ec: Еудокс
-    sr-el: Eudoks
+    sr_ec: Еудокс
+    sr_el: Eudoks
     sv: Eudoxos
     ta: நீடியோசின் யூடாக்சசு
     th: ยูโดซัสแห่งคนิดอส

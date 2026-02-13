@@ -4,7 +4,7 @@ dv_has_:
     ab: Косово
     ace: Kosovô
     acm: كوسوفو
-    aeb-arab: كوسوڥو
+    aeb_arab: كوسوڥو
     af: Kosowo
     am: ኮሶቮ
     ami: Kosovo
@@ -24,7 +24,7 @@ dv_has_:
     bar: Kosovo
     bcl: Kosobo
     be: Рэспубліка Косава
-    be-tarask: Косава
+    be_tarask: Косава
     bew: Kosowo
     bg: Косово
     bn: কসোভো
@@ -33,7 +33,7 @@ dv_has_:
     bs: Kosovo
     bxr: Косово
     ca: Kosovo
-    cbk-zam: Kosovo
+    cbk_zam: Kosovo
     cdo: Kosovo
     ce: Косово Республика
     ceb: Kosobo
@@ -41,7 +41,7 @@ dv_has_:
     ckb: کۆسۆڤۆ
     co: Kosovo
     crh: Kosovo
-    crh-latn: Kosovo
+    crh_latn: Kosovo
     cs: Kosovo
     csb: Kòsowò
     cv: Косово Республики
@@ -54,8 +54,8 @@ dv_has_:
     dz: ཀོ་སོ་བྷོ། (Kosovo)
     el: Κοσσυφοπέδιο
     en: Kosovo
-    en-ca: Kosovo
-    en-gb: Kosovo
+    en_ca: Kosovo
+    en_gb: Kosovo
     en-us: Kosovo
     eo: Kosovo
     es: Kosovo
@@ -151,7 +151,7 @@ dv_has_:
     nan: Kosovo
     nb: Kosovo
     nds: Kosovo
-    nds-nl: Kosovo
+    nds_nl: Kosovo
     ne: कोसोभो
     nl: Kosovo
     nn: Kosovo
@@ -169,7 +169,7 @@ dv_has_:
     pnt: Κόσοβο
     ps: کوسووو
     pt: Kosovo
-    pt-br: Kosovo
+    pt_br: Kosovo
     qu: Kusuwu
     rm: Cosovo
     rmy: Kosovo
@@ -198,8 +198,8 @@ dv_has_:
     so: Kosofo
     sq: Kosovë
     sr: Косово
-    sr-ec: Република Косово
-    sr-el: Republika Kosovo
+    sr_ec: Република Косово
+    sr_el: Republika Kosovo
     srn: Kosovokondre
     stq: Kosovo
     su: Kosovo
@@ -241,10 +241,10 @@ dv_has_:
     zea: Kosovo
     zgh: ⴽⵓⵙⵓⴼⵓ
     zh: 科索沃
-    zh-cn: 科索沃
-    zh-hans: 科索沃
-    zh-hant: 科索沃
-    zh-tw: 科索沃
+    zh_cn: 科索沃
+    zh_hans: 科索沃
+    zh_hant: 科索沃
+    zh_tw: 科索沃
     zu: i-Kosovo
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Kosovo

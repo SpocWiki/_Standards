@@ -84,7 +84,7 @@ dv_has_:
     ar: جبنة تشيدر
     arz: جبنه شيدر  Cheddar Cheese
     ast: Quesu cheddar
-    be-tarask: чэдар
+    be_tarask: чэдар
     bg: Чедър
     ca: Cheddar
     cs: čedar
@@ -92,11 +92,11 @@ dv_has_:
     cy: Caws Cheddar
     da: Cheddarost
     de: Cheddar
-    de-ch: Cheddar
+    de_ch: Cheddar
     el: Τσένταρ
     en: Cheddar cheese
-    en-ca: Cheddar cheese
-    en-gb: Cheddar cheese
+    en_ca: Cheddar cheese
+    en_gb: Cheddar cheese
     eo: Ĉedder
     es: queso Cheddar
     et: Cheddari juust
@@ -126,7 +126,7 @@ dv_has_:
     nl: cheddar
     pl: Cheddar
     pt: cheddar
-    pt-br: Cheddar
+    pt_br: Cheddar
     ru: Чеддер
     sk: Čedar
     sl: čedar
@@ -144,11 +144,11 @@ dv_has_:
     yue: 車打芝士
     zh: 車打芝士
     zh-cn: 切达干酪
-    zh-hans: 切达干酪
-    zh-hant: 切達乾酪
-    zh-hk: 車打芝士
-    zh-sg: 切达干酪
-    zh-tw: 切達起司
+    zh_hans: 切达干酪
+    zh_hant: 切達乾酪
+    zh_hk: 車打芝士
+    zh_sg: 切达干酪
+    zh_tw: 切達起司
 ---
 # [[Cheddar_Cheese]] 
 

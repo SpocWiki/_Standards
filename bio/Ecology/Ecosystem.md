@@ -150,7 +150,7 @@ dv_has_:
     ban: Ékosistem
     bas: ŋ̀kɔgɔ i liɓâk li mbɔk
     be: экасістэма
-    be-tarask: экасыстэма
+    be_tarask: экасыстэма
     bg: Екосистема
     bho: इकोसिस्टम
     blk: ဂေဟစနိစ်
@@ -212,7 +212,7 @@ dv_has_:
     ml: ആവാസവ്യവസ്ഥ
     mn: Эко систем
     ms: ekosistem
-    ms-arab: ايکوسيستم
+    ms_arab: ايکوسيستم
     my: ဂေဟစနစ်
     nan: Seng-thài-hē
     nb: økosystem
@@ -271,8 +271,8 @@ dv_has_:
     ybb: nnɔ mena tsem á ndo ŋgia
     yue: 生態系統
     zh: 生态系统
-    zh-hant: 生態系統
-    zh-tw: 生態系
+    zh_hant: 生態系統
+    zh_tw: 生態系
 ---
 # [[Ecosystem]] 
 

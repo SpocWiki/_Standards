@@ -98,7 +98,7 @@ dv_has_:
     az: Çinar
     azb: چینار آغاجی
     be: Платан
-    be-tarask: Плятан
+    be_tarask: Плятан
     bg: чинар
     bs: Platanus
     ca: Platanus
@@ -150,7 +150,7 @@ dv_has_:
     os: Чъандара
     pl: Platan
     pt: Plátano
-    pt-br: Plátano
+    pt_br: Plátano
     ro: Platanus
     ru: Платан
     sd: ڪچنار
@@ -158,8 +158,8 @@ dv_has_:
     sl: platana
     sq: Rrapi
     sr: Платан
-    sr-ec: Платан
-    sr-el: Platan
+    sr_ec: Платан
+    sr_el: Platan
     sv: Platansläktet
     tr: Çınar
     tt: чинар
@@ -171,12 +171,12 @@ dv_has_:
     wuu: 悬铃木属
     yue: 懸鈴木屬
     zh: 悬铃木属
-    zh-cn: 悬铃木属
-    zh-hans: 悬铃木属
-    zh-hant: 懸鈴木屬
-    zh-hk: 懸鈴木屬
-    zh-sg: 悬铃木属
-    zh-tw: 懸鈴木屬
+    zh_cn: 悬铃木属
+    zh_hans: 悬铃木属
+    zh_hant: 懸鈴木屬
+    zh_hk: 懸鈴木屬
+    zh_sg: 悬铃木属
+    zh_tw: 懸鈴木屬
 ---
 # [[Platanus]] 
 

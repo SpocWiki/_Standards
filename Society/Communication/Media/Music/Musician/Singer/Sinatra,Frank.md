@@ -195,7 +195,7 @@ dv_has_:
     azb: فرانک سیناترا
     bcl: Frank Sinatra
     be: Фрэнк Сінатра
-    be-tarask: Фрэнк Сынатра
+    be_tarask: Фрэнк Сынатра
     bg: Франк Синатра
     bi: Frank Sinatra
     bn: ফ্রাঙ্ক সিনাত্রা
@@ -208,12 +208,12 @@ dv_has_:
     cy: Frank Sinatra
     da: Frank Sinatra
     de: Frank Sinatra
-    de-ch: Frank Sinatra
+    de_ch: Frank Sinatra
     el: Φρανκ Σινάτρα
     eml: Frank Sinatra
     en: Frank Sinatra
-    en-ca: Frank Sinatra
-    en-gb: Frank Sinatra
+    en_ca: Frank Sinatra
+    en_gb: Frank Sinatra
     eo: Frank Sinatra
     es: Frank Sinatra
     et: Frank Sinatra
@@ -258,7 +258,7 @@ dv_has_:
     nah: Frank Sinatra
     nan: Frank Sinatra
     nb: Frank Sinatra
-    nds-nl: Frank Sinatra
+    nds_nl: Frank Sinatra
     new: फ्र्याङ्क सिनात्रा
     nl: Frank Sinatra
     nn: Frank Sinatra
@@ -270,7 +270,7 @@ dv_has_:
     pms: Frank Sinatra
     pnb: فرانک سناٹرا
     pt: Frank Sinatra
-    pt-br: Frank Sinatra
+    pt_br: Frank Sinatra
     qu: Frank Sinatra
     ro: Frank Sinatra
     ru: Фрэнк Синатра
@@ -301,12 +301,12 @@ dv_has_:
     yo: Frank Sinatra
     yue: 法蘭仙納杜拉
     zh: 法蘭·仙納杜拉
-    zh-cn: 弗兰克·辛纳特拉
-    zh-hant: 法蘭克·辛納屈
-    zh-hk: 法蘭·仙納杜拉
+    zh_cn: 弗兰克·辛纳特拉
+    zh_hant: 法蘭克·辛納屈
+    zh_hk: 法蘭·仙納杜拉
     zh-my: 法兰·仙纳杜拉
-    zh-sg: 法兰克·辛纳屈
-    zh-tw: 法蘭克·辛納屈
+    zh_sg: 法兰克·辛纳屈
+    zh_tw: 法蘭克·辛納屈
 ---
 # [[Sinatra,Frank]] 
 

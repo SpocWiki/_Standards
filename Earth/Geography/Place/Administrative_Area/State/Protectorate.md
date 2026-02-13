@@ -97,7 +97,7 @@ dv_has_:
     az: protektorat
     ba: протекторат
     be: пратэктарат
-    be-tarask: пратэктарат
+    be_tarask: пратэктарат
     bg: Протекторат
     bn: আশ্রিত রাজ্য
     bs: protektorat
@@ -129,11 +129,11 @@ dv_has_:
     ja: 保護国
     ka: პროტექტორატი
     kk: протекторат
-    kk-arab: پروتەكتورات
+    kk_arab: پروتەكتورات
     kk-cn: پروتەكتورات
-    kk-cyrl: протекторат
+    kk_cyrl: протекторат
     kk-kz: протекторат
-    kk-latn: Protektorat
+    kk_latn: Protektorat
     kk-tr: Protektorat
     km: អាណាព្យាបាល
     ko: 보호국
@@ -183,12 +183,12 @@ dv_has_:
     xmf: პროტექტორატი
     yue: 保護國
     zh: 保护国
-    zh-cn: 保护国
-    zh-hans: 保护国
-    zh-hant: 保護國
-    zh-hk: 保護國
-    zh-sg: 保护国
-    zh-tw: 保護國
+    zh_cn: 保护国
+    zh_hans: 保护国
+    zh_hant: 保護國
+    zh_hk: 保護國
+    zh_sg: 保护国
+    zh_tw: 保護國
 ---
 # [[Protectorate]] 
 

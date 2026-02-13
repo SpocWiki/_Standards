@@ -40,7 +40,7 @@ dv_has_:
   name_:
     ar: مرشح استقطابي
     ast: Penero polarizador
-    be-tarask: палярызатар
+    be_tarask: палярызатар
     bg: Поляризатор
     ca: polaritzador
     cs: Polarizátor
@@ -64,7 +64,7 @@ dv_has_:
     nl: polarisatiefilter
     pl: polaryzator
     pt: Filtro polarizador
-    pt-br: Filtro polarizador
+    pt_br: Filtro polarizador
     ro: polarizor
     ru: Поляризатор
     sk: Polarizátor

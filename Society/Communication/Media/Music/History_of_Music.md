@@ -85,7 +85,7 @@ dv_has_:
     ar: تاريخ الموسيقى
     ast: historia de la música
     be: гісторыя музыкі
-    be-tarask: гісторыя музыкі
+    be_tarask: гісторыя музыкі
     bg: история на музиката
     bn: সঙ্গীতের ইতিহাস
     ca: història de la música
@@ -94,11 +94,11 @@ dv_has_:
     cs: dějiny hudby
     da: musikhistorie
     de: Geschichte der Musik
-    de-ch: historische Musikwissenschaft
+    de_ch: historische Musikwissenschaft
     el: ιστορία της μουσικής
     en: history of music
-    en-ca: history of music
-    en-gb: history of music
+    en_ca: history of music
+    en_gb: history of music
     eo: historio de muziko
     es: historia de la música
     et: muusika ajalugu
@@ -128,14 +128,14 @@ dv_has_:
     lt: muzikos istorija
     ml: സംഗീതചരിത്രം
     ms: sejarah muzik
-    ms-arab: سجاره موزيک
+    ms_arab: سجاره موزيک
     nb: musikkhistorie
     nl: geschiedenis van de muziek
     oc: istòria de la musica
     pl: historia muzyki
     ps: د موسیقي تاریخ
     pt: história da música
-    pt-br: história da música
+    pt_br: história da música
     ro: istoria muzicii
     ru: история музыки
     scn: storia di la mùsica
@@ -152,9 +152,9 @@ dv_has_:
     vi: lịch sử âm nhạc
     wuu: 音乐历史
     zh: 音樂史
-    zh-hans: 音乐历史
-    zh-hant: 音樂史
-    zh-hk: 音樂歷史
+    zh_hans: 音乐历史
+    zh_hant: 音樂史
+    zh_hk: 音樂歷史
 ---
 # [[History_of_Music]] 
 

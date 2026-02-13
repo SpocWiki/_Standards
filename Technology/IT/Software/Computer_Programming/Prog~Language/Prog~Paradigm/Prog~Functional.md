@@ -83,7 +83,7 @@ dv_has_:
     ar: برمجة وظيفية
     ast: programación funcional
     be: Функцыйнае праграмаванне
-    be-tarask: функцыйнае праграмаваньне
+    be_tarask: функцыйнае праграмаваньне
     bg: Функционално програмиране
     bn: ফাংশনভিত্তিক প্রোগ্রামিং
     bs: Funkcionalno programiranje
@@ -133,24 +133,24 @@ dv_has_:
     sl: funkcionalno programiranje
     sq: Programimi funksional
     sr: функционално програмирање
-    sr-ec: Функционално програмирање
-    sr-el: Funkcionalno programiranje
+    sr_ec: Функционално програмирање
+    sr_el: Funkcionalno programiranje
     sv: funktionell programmering
     sw: Uprogramishaji kikadhia
     ta: பணிமுறை நிரல் மொழி
     th: การเขียนโปรแกรมเชิงฟังก์ชัน
     tr: fonksiyonel programlama
     tt: функциональ програмлаштыру
-    tt-cyrl: функциональ програмлаштыру
+    tt_cyrl: функциональ програмлаштыру
     uk: функційне програмування
     vi: lập trình hàm
     yue: 函數程式設計
     zh: 函数式编程
-    zh-cn: 函数式编程
-    zh-hans: 函数式编程
-    zh-hant: 函數式編程
-    zh-hk: 函數式編程
-    zh-sg: 函数式编程
+    zh_cn: 函数式编程
+    zh_hans: 函数式编程
+    zh_hant: 函數式編程
+    zh_hk: 函數式編程
+    zh_sg: 函数式编程
 ---
 # [[Prog~Functional]] 
 

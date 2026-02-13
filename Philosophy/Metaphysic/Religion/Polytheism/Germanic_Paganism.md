@@ -56,7 +56,7 @@ dv_has_:
     ar: وثنية جرمانية
     arz: وثنيه جرمانيه
     be: германскае язычніцтва
-    be-tarask: германскае паганства
+    be_tarask: германскае паганства
     br: Paganiezh c'herman
     ca: paganisme germànic
     cs: Germánské náboženství
@@ -92,8 +92,8 @@ dv_has_:
     tr: Cermen paganizmi
     uk: Дохристиянські вірування германців
     zh: 日耳曼異教
-    zh-cn: 日耳曼异教
-    zh-hans: 日耳曼异教
+    zh_cn: 日耳曼异教
+    zh_hans: 日耳曼异教
 ---
 # [[Germanic_Paganism]] 
 

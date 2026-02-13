@@ -93,7 +93,7 @@ dv_has_:
     ast: númberu Mach
     az: Max
     be: Лік Маха
-    be-tarask: лік Маха
+    be_tarask: лік Маха
     bg: Число на Мах
     bn: মাখ সংখ্যা
     bs: Machov broj
@@ -136,7 +136,7 @@ dv_has_:
     mn: Махын тоо
     mr: माख क्रमांक
     ms: nombor Mach
-    ms-arab: نومبور مخ
+    ms_arab: نومبور مخ
     nb: Mach
     nl: machgetal
     nn: Mach
@@ -150,8 +150,8 @@ dv_has_:
     sl: Machovo število
     sq: Numri Mak
     sr: Махов број
-    sr-ec: Махов број
-    sr-el: Mahov broj
+    sr_ec: Махов број
+    sr_el: Mahov broj
     sv: mach
     ta: மாக் எண்
     th: เลขมัค
@@ -162,12 +162,12 @@ dv_has_:
     wuu: 马赫
     yue: 馬赫
     zh: 马赫
-    zh-cn: 马赫
-    zh-hans: 马赫
-    zh-hant: 馬赫
-    zh-hk: 馬赫
-    zh-sg: 马赫
-    zh-tw: 馬赫
+    zh_cn: 马赫
+    zh_hans: 马赫
+    zh_hant: 馬赫
+    zh_hk: 馬赫
+    zh_sg: 马赫
+    zh_tw: 馬赫
 ---
 # [[Mach_Number]] 
 

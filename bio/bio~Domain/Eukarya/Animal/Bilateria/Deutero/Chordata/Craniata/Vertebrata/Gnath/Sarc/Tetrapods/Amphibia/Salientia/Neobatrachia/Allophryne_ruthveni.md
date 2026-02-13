@@ -43,7 +43,7 @@ dv_has_:
     oc: Allophryne ruthveni
     pl: Allophryne ruthveni
     pt: Allophryne ruthveni
-    pt-br: Allophryne ruthveni
+    pt_br: Allophryne ruthveni
     ro: Allophryne ruthveni
     ru: Безухая квакша
     sq: Allophryne ruthveni

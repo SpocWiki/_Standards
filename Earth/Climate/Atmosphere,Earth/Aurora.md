@@ -150,7 +150,7 @@ dv_has_:
     ba: Һаҙағай
     bcl: Aurora (astronomiya)
     be: Палярнае ззянне
-    be-tarask: Канцавоснае зьзяньне
+    be_tarask: Канцавоснае зьзяньне
     bg: Полярно сияние
     bn: মেরুজ্যোতি
     br: Tarzh-gouloù
@@ -217,7 +217,7 @@ dv_has_:
     pl: zorza polarna
     pms: Aurora boreal e austral
     pt: aurora polar
-    pt-br: aurora polar
+    pt_br: aurora polar
     ro: Auroră polară
     ru: полярное сияние
     sah: Дьүкээбил уота

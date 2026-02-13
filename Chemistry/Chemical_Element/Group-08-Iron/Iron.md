@@ -318,7 +318,7 @@ dv_has_:
     bar: Eisn
     bcl: bakal
     be: жалеза
-    be-tarask: жалеза
+    be_tarask: жалеза
     bew: Besi
     bg: желязо
     bho: आइरन
@@ -345,14 +345,14 @@ dv_has_:
     da: jern
     dag: kurugu
     de: Eisen
-    de-ch: Eisen
+    de_ch: Eisen
     din: wëu
     diq: asın
     dv: ދަގަނޑު
     el: σίδηρος
     en: iron
-    en-ca: iron
-    en-gb: iron
+    en_ca: iron
+    en_gb: iron
     eo: fero
     es: hierro
     et: raud
@@ -453,7 +453,7 @@ dv_has_:
     nap: fierro
     nb: jern
     nds: Iesen
-    nds-nl: iezer
+    nds_nl: iezer
     ne: फलाम
     new: नँ
     nl: ijzer
@@ -474,7 +474,7 @@ dv_has_:
     pnb: لوہا
     ps: اوسپنه
     pt: ferro
-    pt-br: ferro
+    pt_br: ferro
     qu: khillay
     ro: fier
     ru: железо
@@ -516,7 +516,7 @@ dv_has_:
     tok: ijo lili nanpa 26
     tr: demir
     tt: тимер
-    tt-cyrl: тимер
+    tt_cyrl: тимер
     udm: корт
     ug: تۆمۈر
     uk: залізо
@@ -539,10 +539,10 @@ dv_has_:
     za: diet
     zgh: ⵓⵣⵣⴰⵍ
     zh: 鐵
-    zh-hans: 铁
-    zh-hant: 鐵
-    zh-hk: 鐵
-    zh-tw: 鐵
+    zh_hans: 铁
+    zh_hant: 鐵
+    zh_hk: 鐵
+    zh_tw: 鐵
     zu: insimbi
   number_of_:
     period: 4

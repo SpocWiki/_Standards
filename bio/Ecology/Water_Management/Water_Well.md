@@ -172,7 +172,7 @@ dv_has_:
     bar: Brunn
     bcl: Bubon
     be: калодзеж
-    be-tarask: студня
+    be_tarask: студня
     bg: кладенец
     bho: ईनार
     bn: কূপ
@@ -262,7 +262,7 @@ dv_has_:
     pnt: κουή
     ps: د ابو څاګانې
     pt: poço
-    pt-br: poço
+    pt_br: poço
     qu: Yaku hurquna
     ro: puț de apă
     rsk: Студня
@@ -295,9 +295,9 @@ dv_has_:
     wuu: 水井
     yue: 水井
     zh: 水井
-    zh-hans: 水井
-    zh-hant: 水井
-    zh-tw: 水井
+    zh_hans: 水井
+    zh_hant: 水井
+    zh_tw: 水井
 ---
 # [[Water_Well]] 
 

@@ -82,7 +82,7 @@ dv_has_:
     az: Dəniz hörümçəkləri
     azb: دنیز هؤرومچکلری
     be: Марскія павукі
-    be-tarask: марскія павукі
+    be_tarask: марскія павукі
     bg: Морски паяци
     ca: Picnogònid
     ceb: Kaka sa dagat
@@ -127,14 +127,14 @@ dv_has_:
     pl: kikutnice
     ps: سمندري غڼې
     pt: Aranha-do-mar
-    pt-br: Pycnogonida
+    pt_br: Pycnogonida
     ro: Pycnogonida
     ru: морские пауки
     sco: sea speeder
     sl: Nogači
     sq: Pycnogonida
     sr: морски пауци
-    sr-ec: морски пауци
+    sr_ec: морски пауци
     sv: havsspindlar
     sw: Bui-bahari
     ta: கடற்சிலந்தி
@@ -148,8 +148,8 @@ dv_has_:
     wuu: 海蜘蛛
     yue: 海蜘蛛
     zh: 海蜘蛛纲
-    zh-cn: 海蜘蛛纲
-    zh-hans: 海蜘蛛纲
+    zh_cn: 海蜘蛛纲
+    zh_hans: 海蜘蛛纲
 ---
 # [[Sea_Spider]]
 

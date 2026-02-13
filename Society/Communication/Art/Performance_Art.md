@@ -75,7 +75,7 @@ dv_has_:
     arz: فن الاداء
     ast: Performance
     be: перформанс
-    be-tarask: пэрформанс
+    be_tarask: пэрформанс
     bg: пърформанс
     bn: সম্পাদনী কলা
     bo: སྤྱོད་ལམ་སྒྱུ་རྩལ་ཐོག
@@ -109,15 +109,15 @@ dv_has_:
     it: performance art
     ja: パフォーマンス・アート
     kk: Перфоманс
-    kk-arab: پەرفومانس
+    kk_arab: پەرفومانس
     kk-cn: پەرفومانس
-    kk-cyrl: Перфоманс
+    kk_cyrl: Перфоманс
     kk-kz: Перфоманс
-    kk-latn: Perfomans
+    kk_latn: Perfomans
     kk-tr: Perfomans
     ko: 행위 예술
     ku: hunera performans
-    ku-latn: hunera performans
+    ku_latn: hunera performans
     la: Ars actionis
     lt: performansas
     mk: перформанс
@@ -137,8 +137,8 @@ dv_has_:
     sk: Performance Art
     sl: uprizoritvena umetnost
     sr: перформанс
-    sr-ec: Перформанс
-    sr-el: Performans
+    sr_ec: Перформанс
+    sr_el: Performans
     su: Seni Pintonan
     sv: performance
     th: ศิลปะการแสดง
@@ -149,14 +149,14 @@ dv_has_:
     vi: nghệ thuật trình diễn
     yue: 行為藝術
     zh: 行为艺术
-    zh-cn: 行为艺术
-    zh-hans: 行为艺术
-    zh-hant: 行為藝術
-    zh-hk: 行為藝術
-    zh-mo: 行為藝術
+    zh_cn: 行为艺术
+    zh_hans: 行为艺术
+    zh_hant: 行為藝術
+    zh_hk: 行為藝術
+    zh_mo: 行為藝術
     zh-my: 行为艺术
-    zh-sg: 行为艺术
-    zh-tw: 行為藝術
+    zh_sg: 行为艺术
+    zh_tw: 行為藝術
 ---
 # [[Performance_Art]] 
 

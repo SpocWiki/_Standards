@@ -633,7 +633,7 @@ dv_has_:
     ab: Танзаниа
     ace: Tanzania
     ady: Танзание
-    aeb-arab: تنزانيا
+    aeb_arab: تنزانيا
     af: Tanzanië
     am: ታንዛኒያ
     ami: Tanzania
@@ -655,7 +655,7 @@ dv_has_:
     bar: Tansania
     bcl: Tansaniya
     be: Танзанія
-    be-tarask: Танзанія
+    be_tarask: Танзанія
     bew: Tansania
     bg: Танзания
     bho: तंजानिया
@@ -670,7 +670,7 @@ dv_has_:
     btm: Tanzania
     bxr: Танзани
     ca: Tanzània
-    cbk-zam: Tanzania
+    cbk_zam: Tanzania
     cdo: Tanzania
     ce: Танзани
     ceb: Tanzania
@@ -678,7 +678,7 @@ dv_has_:
     ckb: تانزانیا
     co: Tanzana
     crh: Tanzaniya
-    crh-latn: Tanzaniya
+    crh_latn: Tanzaniya
     cs: Tanzanie
     csb: Tanzaniô
     cv: Танзани
@@ -687,7 +687,7 @@ dv_has_:
     dag: Tanzania
     de: Tansania
     de-at: Tansania
-    de-ch: Tansania
+    de_ch: Tansania
     din: Tandhania
     diq: Tanzanya
     dsb: Tansanija
@@ -696,8 +696,8 @@ dv_has_:
     ee: Tanzania
     el: Τανζανία
     en: Tanzania
-    en-ca: Tanzania
-    en-gb: Tanzania
+    en_ca: Tanzania
+    en_gb: Tanzania
     eo: Tanzanio
     es: Tanzania
     et: Tansaania
@@ -782,7 +782,7 @@ dv_has_:
     lv: Tanzānija
     lzh: 坦桑尼亞
     mag: तञ्जानिया
-    map-bms: Tanzania
+    map_bms: Tanzania
     mdf: Танзания
     mg: Tanzania
     mhr: Танзаний
@@ -806,7 +806,7 @@ dv_has_:
     nan: Tanzania
     nb: Tanzania
     nds: Tansania
-    nds-nl: Tanzania
+    nds_nl: Tanzania
     ne: तन्जानिया
     new: ताञ्जानिया
     nl: Tanzania
@@ -830,7 +830,7 @@ dv_has_:
     pnb: تنزانیا
     ps: تانزانيا
     pt: Tanzânia
-    pt-br: Tanzânia
+    pt_br: Tanzânia
     qu: Tansanya
     rm: Tansania
     rmy: Tanzania
@@ -862,8 +862,8 @@ dv_has_:
     so: Tansaaniya
     sq: Tanzania
     sr: Танзанија
-    sr-ec: Танзанија
-    sr-el: Tanzanija
+    sr_ec: Танзанија
+    sr_el: Tanzanija
     ss: IThanzaniya
     st: Tanzania
     stq: Tansania
@@ -912,11 +912,11 @@ dv_has_:
     zea: Tanzânia
     zgh: ⵟⴰⵏⵥⴰⵏⵢⴰ
     zh: 坦桑尼亞
-    zh-cn: 坦桑尼亚
-    zh-hans: 坦桑尼亚
-    zh-hant: 坦尚尼亞
-    zh-hk: 坦桑尼亞
-    zh-tw: 坦尚尼亞
+    zh_cn: 坦桑尼亚
+    zh_hans: 坦桑尼亚
+    zh_hant: 坦尚尼亞
+    zh_hk: 坦桑尼亞
+    zh_tw: 坦尚尼亞
     zu: ITanzania
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Tanzania

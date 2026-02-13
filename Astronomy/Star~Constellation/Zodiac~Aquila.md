@@ -120,7 +120,7 @@ dv_has_:
     az: Qartal
     ba: Бөркөт
     be: Арол
-    be-tarask: Арол
+    be_tarask: Арол
     bg: Орел
     bn: গরুড় মণ্ডল
     bo: བྱ་རྒོད་སྐར་ཚོམ་

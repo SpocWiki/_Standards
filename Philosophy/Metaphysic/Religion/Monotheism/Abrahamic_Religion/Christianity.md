@@ -336,7 +336,7 @@ dv_has_:
     bbc: Kristen
     bcl: Kristianismo
     be: хрысціянства
-    be-tarask: хрысьціянства
+    be_tarask: хрысьціянства
     bew: Serani
     bg: християнство
     bho: ईसाई धर्म
@@ -352,14 +352,14 @@ dv_has_:
     btm: Karisten
     bxr: Христосой шажан
     ca: cristianisme
-    cbk-zam: Cristianismo
+    cbk_zam: Cristianismo
     cdo: Gĭ-dók-gáu
     ce: насаралла
     ceb: Kristiyanismo
     ckb: مەسیحییەت
     co: Cristianisimu
     crh: Hristianlıq
-    crh-latn: Hristianlıq
+    crh_latn: Hristianlıq
     crh-ro: kristiyanlîk
     cs: křesťanství
     csb: chrzescëjaństwò
@@ -378,7 +378,7 @@ dv_has_:
     dz: ཡེ་ཤུ་
     el: Χριστιανισμός
     en: Christianity
-    en-gb: Christianity
+    en_gb: Christianity
     eo: kristanismo
     es: cristianismo
     et: kristlus
@@ -451,7 +451,7 @@ dv_has_:
     krj: Kristiyanismo
     ks: عِیسٲیَتھ
     ku: mesîhîtî
-    ku-latn: mesîhîtî
+    ku_latn: mesîhîtî
     kw: Kristoneth
     ky: Машаякчылык
     la: Religio Christiana
@@ -473,7 +473,7 @@ dv_has_:
     lzh: 基督教
     mad: Kakrèstenan
     mai: ईसाई धर्म
-    map-bms: Kristen
+    map_bms: Kristen
     mdf: Кристозши
     mg: Kristianisma
     mhr: христианлык
@@ -487,7 +487,7 @@ dv_has_:
     mos: Christianity
     mr: ख्रिश्चन धर्म
     ms: Kristian
-    ms-arab: کريستيان
+    ms_arab: کريستيان
     mt: Twemmin Nisrani
     mwl: Cristandade
     my: ခရစ်ယာန်ဘာသာ
@@ -498,7 +498,7 @@ dv_has_:
     nap: Cristianesimo
     nb: kristendom
     nds: Christendom
-    nds-nl: christendom
+    nds_nl: christendom
     ne: ईसाई धर्म
     nia: Banua niha Keriso
     nl: christendom
@@ -575,8 +575,8 @@ dv_has_:
     tr: Hristiyanlık
     ts: Vukreste
     tt: христианлык
-    tt-cyrl: христианлык
-    tt-latn: xristianlıq
+    tt_cyrl: христианлык
+    tt_latn: xristianlıq
     tw: Kristosom
     udm: христианство
     ug: مەسىھچىلىك
@@ -600,10 +600,10 @@ dv_has_:
     zea: Christendom
     zgh: ⵜⴰⵎⴰⵙⵉⵃⵜ (ⴰⵙⴳⴷ )
     zh: 基督教
-    zh-cn: 基督教
-    zh-hans: 基督教
-    zh-hant: 基督教
-    zh-hk: 基督教
+    zh_cn: 基督教
+    zh_hans: 基督教
+    zh_hant: 基督教
+    zh_hk: 基督教
     zu: UbuKhrestu
 ---
 # [[Christianity]] 

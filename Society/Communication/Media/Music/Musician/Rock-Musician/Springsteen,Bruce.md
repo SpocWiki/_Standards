@@ -149,7 +149,7 @@ dv_has_:
     azb: بروس اسپرینقستین
     bar: Bruce Springsteen
     be: Брус Спрынгсцін
-    be-tarask: Брус Спрынгстын
+    be_tarask: Брус Спрынгстын
     bg: Брус Спрингстийн
     bn: ব্রুস স্প্রিংস্টিন
     br: Bruce Springsteen
@@ -165,14 +165,14 @@ dv_has_:
     dag: Bruce Springsteen
     de: Bruce Springsteen
     de-at: Bruce Springsteen
-    de-ch: Bruce Springsteen
+    de_ch: Bruce Springsteen
     diq: Bruce Springsteen
     dsb: Bruce Springsteen
     el: Μπρους Σπρίνγκστιν
     eml: Bruce Springsteen
     en: Bruce Springsteen
-    en-ca: Bruce Springsteen
-    en-gb: Bruce Springsteen
+    en_ca: Bruce Springsteen
+    en_gb: Bruce Springsteen
     eo: Bruce Springsteen
     es: Bruce Springsteen
     et: Bruce Springsteen
@@ -237,7 +237,7 @@ dv_has_:
     pl: Bruce Springsteen
     pms: Bruce Springsteen
     pt: Bruce Springsteen
-    pt-br: Bruce Springsteen
+    pt_br: Bruce Springsteen
     qu: Bruce Springsteen
     rm: Bruce Springsteen
     ro: Bruce Springsteen
@@ -251,7 +251,7 @@ dv_has_:
     sl: Bruce Springsteen
     sq: Bruce Springsteen
     sr: Брус Спрингстин
-    sr-ec: Брус Спрингстин
+    sr_ec: Брус Спрингстин
     su: Bruce Springsteen
     sv: Bruce Springsteen
     sw: Bruce Springsteen

@@ -191,7 +191,7 @@ dv_has_:
     ba: Никола Тесла
     ban: Nikola Tesla
     be: Нікола Тэсла
-    be-tarask: Нікола Тэсла
+    be_tarask: Нікола Тэсла
     bg: Никола Тесла
     bho: निकोला टेस्ला
     bn: নিকোলা টেসলা
@@ -209,12 +209,12 @@ dv_has_:
     cy: Nikola Tesla
     da: Nikola Tesla
     de: Nikola Tesla
-    de-ch: Nikola Tesla
+    de_ch: Nikola Tesla
     diq: Nikola Tesla
     el: Νίκολα Τέσλα
     en: Nikola Tesla
-    en-ca: Nikola Tesla
-    en-gb: Nikola Tesla
+    en_ca: Nikola Tesla
+    en_gb: Nikola Tesla
     eo: Nikola Tesla
     es: Nikola Tesla
     et: Nikola Tesla
@@ -302,7 +302,7 @@ dv_has_:
     pnb: نکولا ٹیسلا
     ps: نیکولا تسلا
     pt: Nikola Tesla
-    pt-br: Nikola Tesla
+    pt_br: Nikola Tesla
     qu: Nikola Tesla
     ro: Nikola Tesla
     ru: Никола Тесла
@@ -321,8 +321,8 @@ dv_has_:
     sl: Nikola Tesla
     sq: Nikola Tesla
     sr: Никола Тесла
-    sr-ec: Никола Тесла
-    sr-el: Nikola Tesla
+    sr_ec: Никола Тесла
+    sr_el: Nikola Tesla
     su: Nikola Tésla
     sv: Nikola Tesla
     sw: Nikola Tesla
@@ -354,9 +354,9 @@ dv_has_:
     yue: 特斯拉
     zgh: ⵏⵉⴽⵓⵍⴰ ⵜⵉⵙⵍⴰ
     zh: 尼古拉·特斯拉
-    zh-cn: 尼古拉·特斯拉
-    zh-hans: 尼古拉·特斯拉
-    zh-hant: 尼科拉·特斯拉
+    zh_cn: 尼古拉·特斯拉
+    zh_hans: 尼古拉·特斯拉
+    zh_hant: 尼科拉·特斯拉
 ---
 # [[Tesla,Nikola]] 
 

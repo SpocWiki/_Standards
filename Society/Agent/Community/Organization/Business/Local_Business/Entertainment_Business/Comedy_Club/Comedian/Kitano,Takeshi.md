@@ -139,7 +139,7 @@ dv_has_:
     az: Takeşi Kitano
     ba: Китано Такэси
     be: Такесі Кітана
-    be-tarask: Такесі Кітана
+    be_tarask: Такесі Кітана
     bg: Такеши Китано
     bn: তাকেশি কিতানো
     ca: Takeshi Kitano
@@ -200,8 +200,8 @@ dv_has_:
     wuu: 北野武
     yue: 北野武
     zh: 北野武
-    zh-hant: 北野武
-    zh-tw: 北野武
+    zh_hant: 北野武
+    zh_tw: 北野武
 ---
 # [[Kitano,Takeshi]] 
 

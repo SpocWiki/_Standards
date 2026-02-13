@@ -80,9 +80,9 @@ dv_has_:
     it: reputazione
     ja: 名声
     kk: Репутация
-    kk-arab: رەپۋتاتسىييا
-    kk-cyrl: Репутация
-    kk-latn: Repwtacïya
+    kk_arab: رەپۋتاتسىييا
+    kk_cyrl: Репутация
+    kk_latn: Repwtacïya
     ko: 명성
     lb: Reputatioun
     lt: Reputacija
@@ -105,9 +105,9 @@ dv_has_:
     vi: Uy tín
     yi: רעפוטאציע
     zh: 信譽
-    zh-hans: 信誉
-    zh-hant: 信譽
-    zh-hk: 信譽
+    zh_hans: 信誉
+    zh_hant: 信譽
+    zh_hk: 信譽
 ---
 # [[Reputation]] 
 

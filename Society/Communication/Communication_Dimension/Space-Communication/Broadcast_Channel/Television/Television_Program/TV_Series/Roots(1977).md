@@ -77,7 +77,7 @@ dv_has_:
   name_:
     ar: الجذور
     arz: روتس (1977)
-    be-tarask: Карані
+    be_tarask: Карані
     ca: Roots
     cs: Kořeny
     da: Rødder
@@ -106,8 +106,8 @@ dv_has_:
     uk: Корені
     ur: روٹس (ٹی وی سیریل 1977)
     zh: 尋根
-    zh-hans: 根（1977短剧）
-    zh-hant: 根（1977短劇）
+    zh_hans: 根（1977短剧）
+    zh_hant: 根（1977短劇）
 ---
 # [[Roots(1977)]] 
 

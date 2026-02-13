@@ -142,7 +142,7 @@ dv_has_:
     ast: biblioteconomia
     az: kitabxanaşünaslıq
     be: бібліятэказнаўства
-    be-tarask: бібліятэчная справа
+    be_tarask: бібліятэчная справа
     bn: গ্রন্থাগার বিজ্ঞান
     br: Levraouegouriezh
     bs: bibliotekarstvo
@@ -154,8 +154,8 @@ dv_has_:
     de: Bibliothekswissenschaft
     el: βιβλιοθηκονομία
     en: library science
-    en-ca: library science
-    en-gb: library science
+    en_ca: library science
+    en_gb: library science
     eo: bibliotekscienco
     es: biblioteconomía y documentación
     et: raamatukoguteadus
@@ -189,7 +189,7 @@ dv_has_:
     ml: ഗ്രന്ഥാലയ വിവര ശാസ്ത്രം
     mr: ग्रंथालयशास्त्र
     ms: sains perpustakaan
-    ms-arab: ساءينس ڤرڤوستاکاءن
+    ms_arab: ساءينس ڤرڤوستاکاءن
     nb: bibliotek- og informasjonsvitenskap
     ne: पुस्तकालय विज्ञान
     nl: bibliotheekwetenschap
@@ -199,7 +199,7 @@ dv_has_:
     pl: bibliotekoznawstwo
     ps: د کتابتون معلوماتو ساینس
     pt: biblioteconomia
-    pt-br: biblioteconomia
+    pt_br: biblioteconomia
     ro: biblioteconomie
     ru: библиотековедение
     sco: librar science
@@ -212,8 +212,8 @@ dv_has_:
     sms: ǩeʹrjjpõrtt-tiođ
     sq: shkencë e bibliotekës
     sr: библиотекарство
-    sr-ec: библиотекарство
-    sr-el: bibliotekarstvo
+    sr_ec: библиотекарство
+    sr_el: bibliotekarstvo
     sv: biblioteks- och informationsvetenskap
     ta: நூலகவியல்
     tg: илми китобдонӣ
@@ -232,12 +232,12 @@ dv_has_:
     wuu: 图书馆学
     yue: 圖書館學
     zh: 圖書館學
-    zh-cn: 图书馆学
-    zh-hans: 图书馆学
-    zh-hant: 圖書館學
-    zh-hk: 圖書館信息學
-    zh-sg: 图书馆信息学
-    zh-tw: 圖書館學
+    zh_cn: 图书馆学
+    zh_hans: 图书馆学
+    zh_hant: 圖書館學
+    zh_hk: 圖書館信息學
+    zh_sg: 图书馆信息学
+    zh_tw: 圖書館學
 ---
 # [[Library_Science]] 
 

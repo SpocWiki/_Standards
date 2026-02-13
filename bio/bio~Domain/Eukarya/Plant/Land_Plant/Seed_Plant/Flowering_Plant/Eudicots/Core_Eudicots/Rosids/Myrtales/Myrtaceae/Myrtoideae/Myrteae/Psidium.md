@@ -75,7 +75,7 @@ dv_has_:
     ast: Psidium
     az: Psidium
     be: Псідыум
-    be-tarask: гуаява
+    be_tarask: гуаява
     bg: гуава
     bho: अमरुत
     bn: পেয়ারা
@@ -127,7 +127,7 @@ dv_has_:
     pl: Gujawa
     pnb: امرود
     pt: Psidium
-    pt-br: Psidium
+    pt_br: Psidium
     qu: Wayawa
     ro: Psidium
     ru: псидиум
@@ -150,9 +150,9 @@ dv_has_:
     war: Psidium
     wuu: 番石榴属
     zh: 番石榴属
-    zh-cn: 番石榴属
-    zh-hans: 番石榴属
-    zh-tw: 番石榴属
+    zh_cn: 番石榴属
+    zh_hans: 番石榴属
+    zh_tw: 番石榴属
 ---
 # [[Psidium]] 
 

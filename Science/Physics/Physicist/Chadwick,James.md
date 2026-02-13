@@ -137,7 +137,7 @@ dv_has_:
     azb: جیمز چادویک
     ban: James Chadwick
     be: Джэймс Чэдвік
-    be-tarask: Джэймз Чадўік
+    be_tarask: Джэймз Чадўік
     bg: Джеймс Чадуик
     bn: জেমস চ্যাডউইক
     br: James Chadwick
@@ -147,11 +147,11 @@ dv_has_:
     cs: James Chadwick
     da: James Chadwick
     de: James Chadwick
-    de-ch: James Chadwick
+    de_ch: James Chadwick
     el: Τζέιμς Τσάντγουικ
     en: James Chadwick
-    en-ca: James Chadwick
-    en-gb: James Chadwick
+    en_ca: James Chadwick
+    en_gb: James Chadwick
     eo: James Chadwick
     es: James Chadwick
     et: James Chadwick
@@ -201,7 +201,7 @@ dv_has_:
     pms: James Chadwick
     pnb: جیمز چیڈوک
     pt: James Chadwick
-    pt-br: James Chadwick
+    pt_br: James Chadwick
     qu: James Chadwick
     ro: James Chadwick
     ru: Джеймс Чедвик
@@ -213,7 +213,7 @@ dv_has_:
     sl: James Chadwick
     sq: James Chadwick
     sr: Џејмс Чедвик
-    sr-ec: Џејмс Чедвик
+    sr_ec: Џејмс Чедвик
     su: James Chadwick
     sv: James Chadwick
     sw: James Chadwick
@@ -231,8 +231,8 @@ dv_has_:
     yo: James Chadwick
     yue: 查域
     zh: 詹姆斯·查德威克
-    zh-hk: 占士·查域
-    zh-tw: 詹姆斯·查兌克
+    zh_hk: 占士·查域
+    zh_tw: 詹姆斯·查兌克
 ---
 # [[Chadwick,James]] 
 

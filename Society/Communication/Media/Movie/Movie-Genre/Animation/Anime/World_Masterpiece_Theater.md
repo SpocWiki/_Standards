@@ -31,9 +31,9 @@ dv_has_:
     tr: World Masterpiece Theater
     uk: Кінотеатр світових шедеврів
     zh: 世界名作劇場
-    zh-hans: 世界名作剧场
-    zh-hant: 世界名作劇場
-    zh-hk: 世界名作劇場
+    zh_hans: 世界名作剧场
+    zh_hant: 世界名作劇場
+    zh_hk: 世界名作劇場
 ---
 > **World Masterpiece Theater** (世界名作劇場, Sekai Meisaku Gekijō) is a Japanese TV animated series 
 > that showcased an animated version of a different classical book or story 

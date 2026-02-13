@@ -95,7 +95,7 @@ dv_has_:
     ast: Compasión
     atj: kitimakerimiwewin
     be: Спачуванне
-    be-tarask: спачуваньне
+    be_tarask: спачуваньне
     bg: Състрадание
     bho: करुणा
     bn: সমবেদনা
@@ -132,7 +132,7 @@ dv_has_:
     mi: Aroha
     mn: өрөвч сэтгэл
     ms: belas kasihan
-    ms-arab: بلس کاسيهن
+    ms_arab: بلس کاسيهن
     mt: mogħdrija
     my: ကြင်နာမှု
     nan: Tông-chêng
@@ -142,7 +142,7 @@ dv_has_:
     pa: ਹਮਦਰਦੀ
     pl: Współczucie
     pt: compaixão
-    pt-br: compaixão
+    pt_br: compaixão
     ro: compasiune
     ru: сочувствие
     shn: လွင်ႈဢီးလူ

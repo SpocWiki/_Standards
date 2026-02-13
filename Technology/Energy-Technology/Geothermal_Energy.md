@@ -110,7 +110,7 @@ dv_has_:
     az: Geoistilik enerji
     bcl: Enerhiyang heotermal
     be: Геатэрмальная энергія
-    be-tarask: геатэрмальная энэргія
+    be_tarask: геатэрмальная энэргія
     bg: Геотермална енергия
     bn: ভূ-তাপীয় শক্তি
     ca: energia geotèrmica
@@ -178,8 +178,8 @@ dv_has_:
     smn: geotermisâš energia
     sq: Energjia gjeotermike
     sr: Geotermalna energija
-    sr-ec: Геотермална енергија
-    sr-el: Geotermalna energija
+    sr_ec: Геотермална енергија
+    sr_el: Geotermalna energija
     su: Géotérmal
     sv: geotermisk energi
     sw: Joto kutoka ardhi
@@ -195,12 +195,12 @@ dv_has_:
     wuu: 地热能
     yue: 地熱能
     zh: 地熱能
-    zh-cn: 地热能
-    zh-hans: 地热能
-    zh-hant: 地熱能
-    zh-hk: 地熱能
-    zh-sg: 地热能
-    zh-tw: 地熱能
+    zh_cn: 地热能
+    zh_hans: 地热能
+    zh_hant: 地熱能
+    zh_hk: 地熱能
+    zh_sg: 地热能
+    zh_tw: 地熱能
 ---
 # [[Geothermal_Energy]] 
 

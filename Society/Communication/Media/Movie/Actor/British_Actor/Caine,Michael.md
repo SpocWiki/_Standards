@@ -108,25 +108,25 @@ dv_has_:
     ba: Майкл Кейн
     bcl: Michael Caine
     be: Майкл Кейн
-    be-tarask: Майкл Кейн
+    be_tarask: Майкл Кейн
     bg: Майкъл Кейн
     bn: মাইকেল কেইন
     br: Michael Caine
     bs: Michael Caine
     ca: Michael Caine
-    cbk-zam: Michael Caine
+    cbk_zam: Michael Caine
     ckb: مایکڵ کەین
     cs: Michael Caine
     cy: Michael Caine
     da: Michael Caine
     de: Michael Caine
-    de-ch: Michael Caine
+    de_ch: Michael Caine
     dsb: Michael Caine
     el: Μάικλ Κέιν
     eml: Michael Caine
     en: Michael Caine
-    en-ca: Michael Caine
-    en-gb: Michael Caine
+    en_ca: Michael Caine
+    en_gb: Michael Caine
     eo: Michael Caine
     es: Michael Caine
     et: Michael Caine
@@ -179,7 +179,7 @@ dv_has_:
     pms: Michael Caine
     pnb: مائیکل کین
     pt: Michael Caine
-    pt-br: Michael Caine
+    pt_br: Michael Caine
     qu: Michael Caine
     rmy: Michael Caine
     ro: Michael Caine
@@ -190,8 +190,8 @@ dv_has_:
     sl: Michael Caine
     sq: Michael Caine
     sr: Мајкл Кејн
-    sr-ec: Мајкл Кејн
-    sr-el: Majkl Kejn
+    sr_ec: Мајкл Кејн
+    sr_el: Majkl Kejn
     su: Michael Caine
     sv: Michael Caine
     ta: மைக்கேல் கெயின்
@@ -211,12 +211,12 @@ dv_has_:
     yo: Michael Caine
     yue: 米高堅
     zh: 米高·肯恩
-    zh-cn: 迈克尔·凯恩
-    zh-hans: 迈克尔·凯恩
-    zh-hant: 米高·肯恩
-    zh-hk: 米高堅
-    zh-sg: 麦克·凯恩
-    zh-tw: 米高·肯恩
+    zh_cn: 迈克尔·凯恩
+    zh_hans: 迈克尔·凯恩
+    zh_hant: 米高·肯恩
+    zh_hk: 米高堅
+    zh_sg: 麦克·凯恩
+    zh_tw: 米高·肯恩
 ---
 # [[Caine,Michael]] 
 

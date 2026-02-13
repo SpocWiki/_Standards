@@ -106,7 +106,7 @@ dv_has_:
     ast: Declinación
     az: meyl
     be: схіленне
-    be-tarask: схіленьне
+    be_tarask: схіленьне
     bg: Деклинация
     bn: বিষুবলম্ব
     bs: Deklinacija

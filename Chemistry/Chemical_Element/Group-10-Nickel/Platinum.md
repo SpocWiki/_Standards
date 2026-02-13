@@ -160,7 +160,7 @@ dv_has_:
     bar: Platin
     bcl: Platino
     be: Плаціна
-    be-tarask: плятына
+    be_tarask: плятына
     bew: Emas kodok
     bg: платина
     bho: प्लैटिनम
@@ -182,7 +182,7 @@ dv_has_:
     de: Platin
     el: λευκόχρυσος
     en: platinum
-    en-gb: platinum
+    en_gb: platinum
     eo: plateno
     es: platino
     et: Plaatina
@@ -267,7 +267,7 @@ dv_has_:
     pnb: پلاٹینم
     ps: پلاټينيوم
     pt: platina
-    pt-br: platina
+    pt_br: platina
     qu: Qullqiya
     ro: platină
     ru: платина
@@ -283,7 +283,7 @@ dv_has_:
     so: Balatiniyaam
     sq: Platina
     sr: платина
-    sr-ec: Платина
+    sr_ec: Платина
     stq: Platin
     su: Platinum
     sv: platina
@@ -297,8 +297,8 @@ dv_has_:
     tt: Агалтын
     udm: платина
     ug: ئاق ئالتۇن
-    ug-arab: ئاق ئالتۇن
-    ug-latn: Platina
+    ug_arab: ئاق ئالتۇن
+    ug_latn: Platina
     uk: платина
     ur: پلاٹینیم
     uz: Platina
@@ -312,11 +312,11 @@ dv_has_:
     yue: 白金
     za: Gimhau
     zh: 铂
-    zh-cn: 铂
-    zh-hans: 铂
-    zh-hant: 鉑
-    zh-hk: 鉑
-    zh-tw: 鉑
+    zh_cn: 铂
+    zh_hans: 铂
+    zh_hant: 鉑
+    zh_hk: 鉑
+    zh_tw: 鉑
     zu: IKhazi
   number_of_:
     period: 6

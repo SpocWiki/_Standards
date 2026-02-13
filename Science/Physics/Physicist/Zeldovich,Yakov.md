@@ -146,7 +146,7 @@ dv_has_:
     az: Yakov Zeldoviç
     azb: یاکوف زلدوویچ
     be: Якаў Барысавіч Зяльдовіч
-    be-tarask: Якаў Зяльдовіч
+    be_tarask: Якаў Зяльдовіч
     bg: Яков Зелдович
     ca: Iàkov Zeldóvitx
     cs: Jakov Borisovič Zeldovič
@@ -184,7 +184,7 @@ dv_has_:
     nl: Jakov Borisovitsj Zeljdovitsj
     pl: Jakow Borysowicz Zeldowicz
     pt: Jakov Seldovich
-    pt-br: Jakov Seldovich
+    pt_br: Jakov Seldovich
     ro: Iakov Borisovici Zeldovici
     ru: Яков Борисович Зельдович
     sl: Jakov Borisovič Zeljdovič
@@ -196,12 +196,12 @@ dv_has_:
     uz: Yakov Zeldovich
     yue: 雅可夫·澤爾多維奇
     zh: 雅可夫·澤爾多維奇
-    zh-cn: 雅可夫·泽尔多维奇
-    zh-hans: 雅可夫·泽尔多维奇
-    zh-hant: 雅可夫·澤爾多維奇
-    zh-hk: 雅可夫·澤爾多維奇
-    zh-sg: 雅可夫·泽尔多维奇
-    zh-tw: 雅可夫·澤爾多維奇
+    zh_cn: 雅可夫·泽尔多维奇
+    zh_hans: 雅可夫·泽尔多维奇
+    zh_hant: 雅可夫·澤爾多維奇
+    zh_hk: 雅可夫·澤爾多維奇
+    zh_sg: 雅可夫·泽尔多维奇
+    zh_tw: 雅可夫·澤爾多維奇
 ---
 # [[Zeldovich,Yakov]] 
 

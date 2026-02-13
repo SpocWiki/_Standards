@@ -146,7 +146,7 @@ dv_has_:
     ba: Тарма
     bar: Hanf
     be: каноплі
-    be-tarask: каноплі
+    be_tarask: каноплі
     bg: коноп
     bn: গাঁজা
     bs: Konoplja
@@ -224,7 +224,7 @@ dv_has_:
     pl: konopie
     ps: بنګ
     pt: Cannabis
-    pt-br: Cannabis
+    pt_br: Cannabis
     qu: Kañamu
     rmy: Cannabis
     ro: Cannabis
@@ -238,7 +238,7 @@ dv_has_:
     sm: Kanapisi
     sq: Konopi
     sr: конопља
-    sr-ec: конопља
+    sr_ec: конопља
     st: Cannabis
     stq: Hoamp
     sv: hampa
@@ -261,8 +261,8 @@ dv_has_:
     xmf: კიფი
     yue: 大麻
     zh: 大麻属
-    zh-cn: 大麻属
-    zh-hans: 大麻属
+    zh_cn: 大麻属
+    zh_hans: 大麻属
     zu: insango
 ---
 # [[Cannabis]] 

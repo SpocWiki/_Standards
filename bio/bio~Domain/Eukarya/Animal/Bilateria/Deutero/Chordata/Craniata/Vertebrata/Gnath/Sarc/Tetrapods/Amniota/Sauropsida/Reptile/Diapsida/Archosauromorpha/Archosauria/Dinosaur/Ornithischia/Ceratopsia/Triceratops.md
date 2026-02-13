@@ -80,7 +80,7 @@ dv_has_:
     az: Triseratops
     ban: Triceratops
     be: Трыцэратапсы
-    be-tarask: трыцэратапс
+    be_tarask: трыцэратапс
     bg: трицератопси
     bn: ট্রাইসেরাটপস
     br: Triseratops
@@ -94,8 +94,8 @@ dv_has_:
     de: Triceratops
     el: Τρικεράτωψ
     en: Triceratops
-    en-ca: Triceratops
-    en-gb: Triceratops
+    en_ca: Triceratops
+    en_gb: Triceratops
     en-us: Triceratops
     eo: Triceratopo
     es: Triceratops
@@ -135,7 +135,7 @@ dv_has_:
     pnb: تریسراٹاپس
     ps: تریسراتوپس
     pt: Tricerátopo
-    pt-br: Tricerátopo
+    pt_br: Tricerátopo
     ro: Triceratops
     ru: Трицератопсы
     rue: Тріцератопс
@@ -158,9 +158,9 @@ dv_has_:
     wuu: 三角龙属
     yue: 三角龍
     zh: 三角龙属
-    zh-cn: 三角龙属
-    zh-hans: 三角龙属
-    zh-tw: 三角龍屬
+    zh_cn: 三角龙属
+    zh_hans: 三角龙属
+    zh_tw: 三角龍屬
 ---
 # [[Triceratops]] 
 

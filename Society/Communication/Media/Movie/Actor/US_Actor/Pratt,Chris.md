@@ -49,13 +49,13 @@ dv_has_:
     azb: کریس پرات
     bcl: Chris Pratt
     be: Крыс Прат
-    be-tarask: Крыс Прат
+    be_tarask: Крыс Прат
     bg: Крис Прат
     bn: ক্রিস প্রাট
     br: Chris Pratt
     bs: Chris Pratt
     ca: Chris Pratt
-    cbk-zam: Chris Pratt
+    cbk_zam: Chris Pratt
     ceb: Chris Pratt
     ckb: کریس پرات
     co: Chris Pratt
@@ -64,13 +64,13 @@ dv_has_:
     cy: Chris Pratt
     da: Chris Pratt
     de: Chris Pratt
-    de-ch: Chris Pratt
+    de_ch: Chris Pratt
     dsb: Chris Pratt
     el: Κρις Πρατ
     eml: Chris Pratt
     en: Chris Pratt
-    en-ca: Chris Pratt
-    en-gb: Chris Pratt
+    en_ca: Chris Pratt
+    en_gb: Chris Pratt
     eo: Chris Pratt
     es: Chris Pratt
     et: Chris Pratt
@@ -118,7 +118,7 @@ dv_has_:
     lt: Chris Pratt
     lv: Kriss Prats
     mai: क्रिस प्राट
-    map-bms: Chris Pratt
+    map_bms: Chris Pratt
     mg: Chris Pratt
     mk: Крис Прат
     ml: ക്രിസ് പ്രാറ്റ്
@@ -143,7 +143,7 @@ dv_has_:
     pl: Chris Pratt
     pms: Chris Pratt
     pt: Chris Pratt
-    pt-br: Chris Pratt
+    pt_br: Chris Pratt
     qu: Chris Pratt
     ro: Chris Pratt
     ru: Крис Прэтт
@@ -166,7 +166,7 @@ dv_has_:
     tl: Chris Pratt
     tr: Chris Pratt
     tt: Крис Прәтт
-    tt-cyrl: Крис Прәтт
+    tt_cyrl: Крис Прәтт
     uk: Кріс Пратт
     ur: کرس پراٹ
     uz: Chris Pratt
@@ -182,10 +182,10 @@ dv_has_:
     yo: Chris Pratt
     yue: Chris Pratt
     zh: 克里斯·普瑞特
-    zh-cn: 克里斯·帕拉特
-    zh-hant: 克里斯·普瑞特
-    zh-hk: 基斯柏特
-    zh-tw: 克里斯·普瑞特
+    zh_cn: 克里斯·帕拉特
+    zh_hant: 克里斯·普瑞特
+    zh_hk: 基斯柏特
+    zh_tw: 克里斯·普瑞特
 ---
 #has_/time_/started :: 1979-06-21 
 

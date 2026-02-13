@@ -84,7 +84,7 @@ dv_has_:
     ast: mantega de gochu
     bar: Schmoiz
     be: шмалец
-    be-tarask: шмалец
+    be_tarask: шмалец
     bg: свинска мас
     ca: saïm
     cs: sádlo

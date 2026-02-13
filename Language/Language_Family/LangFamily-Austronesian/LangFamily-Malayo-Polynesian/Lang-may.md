@@ -256,7 +256,7 @@ dv_has_:
     ban: Basa Melayu
     bcl: Tataramon na Malay
     be: малайская мова
-    be-tarask: малайская мова
+    be_tarask: малайская мова
     bg: Малайски език
     bjn: Bahasa Malayu
     bn: মালয় ভাষা
@@ -271,13 +271,13 @@ dv_has_:
     cy: Maleieg
     da: malajisk
     de: Malaiisch
-    de-ch: Malaiisch
+    de_ch: Malaiisch
     diq: Malayki
     dtp: boros Malayu
     el: Μαλαϊκά
     en: Malay
-    en-ca: Malay
-    en-gb: Malay
+    en_ca: Malay
+    en_gb: Malay
     en-us: Malay
     eo: malaja lingvo
     es: malayo
@@ -336,7 +336,7 @@ dv_has_:
     lt: malajų kalba
     lv: malajiešu valoda
     mad: Bhâsa Malaju
-    map-bms: Basa Melayu
+    map_bms: Basa Melayu
     mdf: малай
     mg: Fiteny Malay
     mi: Reo Marēo
@@ -347,7 +347,7 @@ dv_has_:
     mni: ꯃꯂꯦ ꯂꯣꯟ
     mr: मलाय भाषा
     ms: bahasa Melayu
-    ms-arab: بهاس ملايو
+    ms_arab: بهاس ملايو
     mt: Malasjan
     my: ပသျှူးဘာသာစကား
     mzn: مالایی
@@ -416,14 +416,14 @@ dv_has_:
     yue: 馬來話
     zgh: ⵜⵓⵜⵍⴰⵢⵜ ⵜⴰⵎⴰⵍⴰⵢⵜ
     zh: 马来语
-    zh-cn: 马来语
-    zh-hans: 马来语
-    zh-hant: 馬來語
-    zh-hk: 馬來語
-    zh-mo: 馬來語
+    zh_cn: 马来语
+    zh_hans: 马来语
+    zh_hant: 馬來語
+    zh_hk: 馬來語
+    zh_mo: 馬來語
     zh-my: 马来语
-    zh-sg: 马来语
-    zh-tw: 馬來語
+    zh_sg: 马来语
+    zh_tw: 馬來語
     zu: IsiMalay
 ---
 # [[Lang-may]] 

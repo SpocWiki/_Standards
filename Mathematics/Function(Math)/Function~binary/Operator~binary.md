@@ -33,7 +33,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Basic%20arithmetic%20o
 Commons_category: Symbols for binary operations
 dv_has_:
   name_:
-    be-tarask: бінарны апэратар
+    be_tarask: бінарны апэратар
     ca: operador binari
     cs: binární operátor
     da: binær operator

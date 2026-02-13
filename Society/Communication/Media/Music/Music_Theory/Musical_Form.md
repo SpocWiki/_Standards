@@ -81,7 +81,7 @@ dv_has_:
     ast: forma musical
     ba: музыкаль структура
     be: музычная форма
-    be-tarask: музычная форма
+    be_tarask: музычная форма
     bg: Музикална форма
     bn: সঙ্গীত ধারা
     bs: muzička forma
@@ -124,14 +124,14 @@ dv_has_:
     pap-aw: forma musical
     pl: forma muzyczna
     pt: forma musical
-    pt-br: forma musical
+    pt_br: forma musical
     ro: formă muzicală
     ru: музыкальная форма
     sh: Muzička forma
     sl: glasbena oblika
     sr: музички облик
-    sr-ec: музички облик
-    sr-el: muzički oblik
+    sr_ec: музички облик
+    sr_el: muzički oblik
     sv: musikalisk form
     ta: இசை வடிவம்
     tg: сохтори мусиқӣ
@@ -142,9 +142,9 @@ dv_has_:
     yo: ẹ̀dà orin
     yue: 音樂形式
     zh: 音樂形式
-    zh-hans: 音乐形式
-    zh-hant: 音樂形式
-    zh-hk: 音樂形式
+    zh_hans: 音乐形式
+    zh_hant: 音樂形式
+    zh_hk: 音樂形式
 ---
 # [[Musical_Form]] 
 

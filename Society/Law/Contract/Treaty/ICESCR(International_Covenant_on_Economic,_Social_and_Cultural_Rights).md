@@ -126,7 +126,7 @@ dv_has_:
     az: İqtisadi, sosial və mədəni hüquqlar haqqında beynəlxalq pakt
     bcl: Internasyunal na Tipan sa Ekonomiko, Sosyal, asin Kultural na mga Karapatan
     be: Міжнародны пакт аб эканамічных, сацыяльных і культурных правах
-    be-tarask: Міжнародны пакт аб эканамічых, сацыяльных і культурных правах
+    be_tarask: Міжнародны пакт аб эканамічых, сацыяльных і культурных правах
     bg: Международен пакт за икономически, социални и културни права
     bn: অর্থনৈতিক, সামাজিক ও সাংস্কৃতিক অধিকার বিষয়ক আন্তর্জাতিক চুক্তি
     ca: Pacte Internacional dels Drets Econòmics, Socials i Culturals
@@ -183,14 +183,14 @@ dv_has_:
     vi: Công ước Quốc tế về các Quyền Kinh tế, Xã hội và Văn hóa
     yue: 經濟、社會及文化權利國際公約
     zh: 经济、社会及文化权利国际公约
-    zh-cn: 经济、社会及文化权利国际公约
-    zh-hans: 经济、社会及文化权利国际公约
-    zh-hant: 經濟、社會及文化權利國際公約
-    zh-hk: 經濟、社會及文化權利國際公約
-    zh-mo: 經濟、社會及文化權利國際公約
+    zh_cn: 经济、社会及文化权利国际公约
+    zh_hans: 经济、社会及文化权利国际公约
+    zh_hant: 經濟、社會及文化權利國際公約
+    zh_hk: 經濟、社會及文化權利國際公約
+    zh_mo: 經濟、社會及文化權利國際公約
     zh-my: 经济、社会及文化权利国际公约
-    zh-sg: 经济、社会及文化权利国际公约
-    zh-tw: 經濟社會文化權利國際公約
+    zh_sg: 经济、社会及文化权利国际公约
+    zh_tw: 經濟社會文化權利國際公約
 ---
 # [[ICESCR(International_Covenant_on_Economic,_Social_and_Cultural_Rights)]] 
 

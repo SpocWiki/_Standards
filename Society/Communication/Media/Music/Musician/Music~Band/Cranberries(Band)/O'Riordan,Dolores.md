@@ -34,7 +34,7 @@ dv_has_:
     az: Dolores O'Riordan
     azb: دلارس اریوردن
     be: Далорэс О’Рыардан
-    be-tarask: Далорэс О’Рыярдан
+    be_tarask: Далорэс О’Рыярдан
     bg: Долорес О’Риърдън
     br: Dolores O'Riordan
     ca: Dolores O'Riordan
@@ -45,8 +45,8 @@ dv_has_:
     el: Ντολόρες Ο' Ρίορνταν
     eml: Dolores O'Riordan
     en: Dolores O'Riordan
-    en-ca: Dolores O'Riordan
-    en-gb: Dolores O'Riordan
+    en_ca: Dolores O'Riordan
+    en_gb: Dolores O'Riordan
     eo: Dolores O'Riordan
     es: Dolores O'Riordan
     et: Dolores O'Riordan
@@ -84,7 +84,7 @@ dv_has_:
     pl: Dolores O’Riordan
     pms: Dolores O'Riordan
     pt: Dolores O'Riordan
-    pt-br: Dolores O'Riordan
+    pt_br: Dolores O'Riordan
     ro: Dolores O'Riordan
     ru: Долорес О’Риордан
     sk: Dolores O’Riordan

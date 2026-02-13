@@ -105,7 +105,7 @@ dv_has_:
     az: numizmatika
     ba: нумизматика
     be: нумізматыка
-    be-tarask: нумізматыка
+    be_tarask: нумізматыка
     bg: нумизматика
     bn: মুদ্রাবিজ্ঞান
     br: Moneizoniezh
@@ -162,7 +162,7 @@ dv_has_:
     pl: numizmatyka
     pnb: سکہ پڑھت
     pt: numismática
-    pt-br: numismática
+    pt_br: numismática
     ro: numismatică
     ru: нумизматика
     sah: нумизматика
@@ -178,8 +178,8 @@ dv_has_:
     sms: numismatikk
     sq: numizmatika
     sr: нумизматика
-    sr-ec: нумизматика
-    sr-el: numizmatika
+    sr_ec: нумизматика
+    sr_el: numizmatika
     sv: numismatik
     ta: நாணயவியல்
     te: నాణేల సేకరణ శాస్త్రం
@@ -196,9 +196,9 @@ dv_has_:
     xmf: ნუმიზმატიკა
     yue: 錢幣學
     zh: 錢幣學
-    zh-hans: 钱币学
-    zh-hant: 錢幣學
-    zh-hk: 錢幣學
+    zh_hans: 钱币学
+    zh_hant: 錢幣學
+    zh_hk: 錢幣學
 ---
 # [[Numismatics]] 
 

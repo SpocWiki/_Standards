@@ -77,7 +77,7 @@ dv_has_:
     ast: tensoactivo
     az: səthi-aktiv maddələr
     azb: سورفکتانت
-    be-tarask: паверхнева-актыўныя рэчывы
+    be_tarask: паверхнева-актыўныя рэчывы
     bg: повърхностно активно вещество
     bn: পৃষ্ঠতল সক্রিয় পদার্থ
     bs: surfaktant
@@ -107,11 +107,11 @@ dv_has_:
     jv: surfaktan
     kcg: sofaktan
     kk: беттік-активті заттектер
-    kk-arab: بەتتىك-اكتىيۆتى زاتتەكتەر
+    kk_arab: بەتتىك-اكتىيۆتى زاتتەكتەر
     kk-cn: بەتتىك-اكتىيۆتى زاتتەكتەر
-    kk-cyrl: беттік-активті заттектер
+    kk_cyrl: беттік-активті заттектер
     kk-kz: беттік-активті заттектер
-    kk-latn: bettik-aktïvti zattekter
+    kk_latn: bettik-aktïvti zattekter
     kk-tr: bettik-aktïvti zattekter
     ko: 계면활성제
     lmo: tensioativ
@@ -139,12 +139,12 @@ dv_has_:
     vi: chất hoạt động bề mặt
     yue: 界面活性劑
     zh: 表面活性剂
-    zh-cn: 表面活性剂
-    zh-hans: 表面活性剂
-    zh-hant: 表面活性劑
-    zh-hk: 表面活性劑
-    zh-sg: 表面活性剂
-    zh-tw: 表面活性劑
+    zh_cn: 表面活性剂
+    zh_hans: 表面活性剂
+    zh_hant: 表面活性劑
+    zh_hk: 表面活性劑
+    zh_sg: 表面活性剂
+    zh_tw: 表面活性劑
 ---
 # [[Surfactant]] 
 

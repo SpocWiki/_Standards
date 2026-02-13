@@ -21,7 +21,7 @@ dv_has_:
   name_:
     ar: الطريق السريع للبلدان الأمريكية
     be: Панамерыканская шаша
-    be-tarask: Панамэрыканская шаша
+    be_tarask: Панамэрыканская шаша
     bg: Панамериканска магистрала
     bn: প্যান আমেরিকান মহাসড়ক
     cs: Panamericana
@@ -68,12 +68,12 @@ dv_has_:
     ur: پین امریکن ہائی وے
     vi: Xa lộ Liên Mỹ
     zh: 泛美公路
-    zh-cn: 泛美公路
-    zh-hans: 泛美公路
-    zh-hant: 泛美公路
-    zh-hk: 泛美公路
-    zh-sg: 泛美公路
-    zh-tw: 泛美公路
+    zh_cn: 泛美公路
+    zh_hans: 泛美公路
+    zh_hant: 泛美公路
+    zh_hk: 泛美公路
+    zh_sg: 泛美公路
+    zh_tw: 泛美公路
 aliases:
 - Ameríkuvegurinn
 - Carretera Panamericana

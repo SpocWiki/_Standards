@@ -130,7 +130,7 @@ dv_has_:
     azb: دنیز قولدورلوغو
     bcl: Pirata
     be: пірацтва
-    be-tarask: пірацтва
+    be_tarask: пірацтва
     bg: пиратство
     bn: জলদস্যুতা
     br: morlaer
@@ -145,11 +145,11 @@ dv_has_:
     cy: môr-ladrad
     da: pirateri
     de: Piraterie
-    de-ch: Piraterie
+    de_ch: Piraterie
     el: πειρατεία
     en: sea piracy
-    en-ca: piracy
-    en-gb: piracy
+    en_ca: piracy
+    en_gb: piracy
     eo: marpiratado
     es: piratería
     et: piraadid
@@ -200,7 +200,7 @@ dv_has_:
     pa: ਪਾਇਰੇਸੀ
     pl: piractwo
     pt: pirataria marítima
-    pt-br: pirata
+    pt_br: pirata
     ro: piraterie maritimă
     ru: пиратство
     sco: piracy
@@ -228,7 +228,7 @@ dv_has_:
     yo: Ìjalèlókun
     yue: 海賊
     zh: 海盗行为
-    zh-hant: 海盜行為
+    zh_hant: 海盜行為
 ---
 # [[Sea_Piracy]] 
 

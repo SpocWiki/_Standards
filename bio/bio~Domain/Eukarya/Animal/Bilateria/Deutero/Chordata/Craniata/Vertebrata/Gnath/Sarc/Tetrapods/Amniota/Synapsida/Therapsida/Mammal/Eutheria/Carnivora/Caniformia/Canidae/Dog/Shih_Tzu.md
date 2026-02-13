@@ -39,7 +39,7 @@ dv_has_:
     ar: تشيه تزو
     arz: تشيه تزو
     ast: Shih Tzu
-    be-tarask: шы-цу
+    be_tarask: шы-цу
     bg: ши тцу
     ca: shih-tzu
     cs: Shih-tzu
@@ -86,8 +86,8 @@ dv_has_:
     vi: Shih Tzu
     yue: 西施狗
     zh: 西施犬
-    zh-cn: 西施犬
-    zh-hans: 西施犬
+    zh_cn: 西施犬
+    zh_hans: 西施犬
 ---
 # [[Shih_Tzu]]  
 

@@ -47,7 +47,7 @@ dv_has_:
     oc: Crocoideae
     pl: Crocoideae
     pt: Crocoideae
-    pt-br: Crocoideae
+    pt_br: Crocoideae
     ro: Crocoideae
     ru: Crocoideae
     sl: Crocoideae

@@ -92,14 +92,14 @@ dv_has_:
     oc: Sipuncula
     pl: Sikwiaki
     pt: Sipuncula
-    pt-br: Sipuncula
+    pt_br: Sipuncula
     ro: Sipuncula
     ru: сипункулиды
     sk: Sipunkuly
     sq: Sipuncula
     sr: Сипункулиде
-    sr-ec: Сипункулиде
-    sr-el: Sipunkulide
+    sr_ec: Сипункулиде
+    sr_el: Sipunkulide
     sv: stjärnmaskar
     sw: Daa-njugu
     th: หนอนถั่ว
@@ -111,12 +111,12 @@ dv_has_:
     vo: Sipuncula
     war: Sipuncula
     zh: 星虫动物门
-    zh-cn: 星虫动物门
-    zh-hans: 星虫动物门
-    zh-hant: 星蟲動物門
-    zh-hk: 星蟲動物門
-    zh-sg: 星虫动物门
-    zh-tw: 星蟲動物門
+    zh_cn: 星虫动物门
+    zh_hans: 星虫动物门
+    zh_hant: 星蟲動物門
+    zh_hk: 星蟲動物門
+    zh_sg: 星虫动物门
+    zh_tw: 星蟲動物門
 ---
 # [[Sipuncula]] 
 

@@ -87,7 +87,7 @@ dv_has_:
     azb: یورد (چادیر)
     ba: Тирмә
     be: Юрта
-    be-tarask: Юрта
+    be_tarask: Юрта
     bg: Юрта
     bxr: Гэр
     ca: iurta
@@ -97,8 +97,8 @@ dv_has_:
     de: Jurte
     el: Γιούρτα
     en: yurt
-    en-ca: Yurt
-    en-gb: yurt
+    en_ca: Yurt
+    en_gb: yurt
     eo: jurto
     es: yurta
     et: Jurta
@@ -136,7 +136,7 @@ dv_has_:
     oc: Iorta
     pl: jurta
     pt: yurt
-    pt-br: Yurt
+    pt_br: Yurt
     ro: iurtă
     ru: юрта
     sah: Балаҕан
@@ -159,8 +159,8 @@ dv_has_:
     wuu: 蒙古包
     yue: 蒙古包
     zh: 蒙古包
-    zh-hans: 蒙古包
-    zh-hant: 蒙古包
+    zh_hans: 蒙古包
+    zh_hant: 蒙古包
 ---
 # [[Yurt]] 
 

@@ -113,7 +113,7 @@ dv_has_:
     ban: Kelih
     bcl: nasa edad na
     be: дарослы
-    be-tarask: дарослы
+    be_tarask: дарослы
     bg: възрастен индивид
     bn: প্রাপ্তবয়স্ক
     bo: ན་སོ་ལོན་པ།
@@ -179,7 +179,7 @@ dv_has_:
     oc: adult
     pl: dorosły
     pt: adulto
-    pt-br: adulto
+    pt_br: adulto
     qu: sayaq runa
     ro: maturitate
     ru: взрослый
@@ -190,8 +190,8 @@ dv_has_:
     so: qaangaadh
     sq: rritur
     sr: одрасли
-    sr-ec: одрасли
-    sr-el: odrasli
+    sr_ec: одрасли
+    sr_el: odrasli
     su: sawawa
     sv: vuxen
     sw: watu wazima
@@ -214,9 +214,9 @@ dv_has_:
     yue: 大人
     za: bouxgaenqhung
     zh: 成年人
-    zh-hant: 成年人
-    zh-hk: 成年人
-    zh-tw: 成年人
+    zh_hant: 成年人
+    zh_hk: 成年人
+    zh_tw: 成年人
 ---
 # [[Adult]] 
 

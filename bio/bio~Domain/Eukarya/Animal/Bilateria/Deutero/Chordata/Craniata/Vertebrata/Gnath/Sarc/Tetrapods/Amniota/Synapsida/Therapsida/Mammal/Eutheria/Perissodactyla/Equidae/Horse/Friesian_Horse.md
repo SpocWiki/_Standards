@@ -62,7 +62,7 @@ dv_has_:
     ar: الخيل الفريزيان
     az: Friz atı
     be: Фрызскі конь
-    be-tarask: конь фрыскі
+    be_tarask: конь фрыскі
     ca: cavall frisó
     cs: Fríský kůň
     cv: Фриз лаши
@@ -103,9 +103,9 @@ dv_has_:
     wuu: 弗里西亚马
     yue: 菲士蘭馬
     zh: 弗里斯兰马
-    zh-cn: 弗里西亚马
-    zh-hans: 弗里西亚马
-    zh-hant: 弗里西亞馬
+    zh_cn: 弗里西亚马
+    zh_hans: 弗里西亚马
+    zh_hant: 弗里西亞馬
 ---
 # [[Friesian_Horse]] 
 

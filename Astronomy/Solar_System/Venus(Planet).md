@@ -315,7 +315,7 @@ dv_has_:
     bar: Venus
     bcl: Venus
     be: Планета Венера
-    be-tarask: Вэнэра
+    be_tarask: Вэнэра
     bew: Jorah
     bg: Венера
     bho: शुक्र ग्रह
@@ -335,7 +335,7 @@ dv_has_:
     co: Stedda Diana
     cr: ᐋᐧᓭ ᐊᑖᕁ
     crh: Çolpan
-    crh-latn: Çolpan
+    crh_latn: Çolpan
     cs: Venuše
     csb: Wenus
     cu: Прѣходьница
@@ -353,8 +353,8 @@ dv_has_:
     el: Αφροδίτη
     eml: Vèner
     en: Venus
-    en-ca: Venus
-    en-gb: Venus
+    en_ca: Venus
+    en_gb: Venus
     eo: Venuso
     es: Venus
     et: Veenus
@@ -443,7 +443,7 @@ dv_has_:
     lv: Venera
     lzh: 金星
     mad: Vènus
-    map-bms: Venus
+    map_bms: Venus
     mdf: Циле
     mg: Venosy
     mhr: Чолпан
@@ -466,7 +466,7 @@ dv_has_:
     nap: Venere
     nb: Venus
     nds: Venus
-    nds-nl: Venus
+    nds_nl: Venus
     ne: शुक्रग्रह
     new: शुक्र
     nl: Venus
@@ -489,7 +489,7 @@ dv_has_:
     pnb: وینس
     ps: زهره
     pt: Vénus
-    pt-br: Vênus
+    pt_br: Vênus
     qu: Ch'aska
     rm: Venus
     rmy: Shukor
@@ -533,7 +533,7 @@ dv_has_:
     tok: mun Wenu
     tr: Çoban Yıldızı
     tt: Чулпан
-    tt-cyrl: Чулпан
+    tt_cyrl: Чулпан
     tum: Vinasi
     ty: Taùrua
     tyv: Венера
@@ -562,14 +562,14 @@ dv_has_:
     zea: Venus
     zgh: ⴰⵎⴰⴹⴰⵏ
     zh: 金星
-    zh-cn: 金星
-    zh-hans: 金星
-    zh-hant: 金星
-    zh-hk: 金星
-    zh-mo: 金星
+    zh_cn: 金星
+    zh_hans: 金星
+    zh_hant: 金星
+    zh_hk: 金星
+    zh_mo: 金星
     zh-my: 金星
-    zh-sg: 金星
-    zh-tw: 金星
+    zh_sg: 金星
+    zh_tw: 金星
     zu: UVenusi
 ---
 # [[Venus(Planet)]] 

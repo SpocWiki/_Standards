@@ -93,7 +93,7 @@ dv_has_:
     oc: Stomatopoda
     pl: Ustonogie
     pt: Tamarutaca
-    pt-br: Stomatopoda
+    pt_br: Stomatopoda
     ro: Stomatopoda
     ru: ротоногие
     sl: Bogomolčarji
@@ -108,12 +108,12 @@ dv_has_:
     war: Stomatopoda
     yue: 攋尿蝦
     zh: 口足目
-    zh-cn: 口足目
-    zh-hans: 口足目
-    zh-hant: 蝦蛄
-    zh-hk: 蝦蛄
-    zh-sg: 虾蛄
-    zh-tw: 口足目
+    zh_cn: 口足目
+    zh_hans: 口足目
+    zh_hant: 蝦蛄
+    zh_hk: 蝦蛄
+    zh_sg: 虾蛄
+    zh_tw: 口足目
 ---
 # [[Stomatopoda]] 
 

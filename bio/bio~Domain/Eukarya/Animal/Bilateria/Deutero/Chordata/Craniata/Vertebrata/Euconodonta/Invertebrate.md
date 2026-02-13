@@ -135,7 +135,7 @@ dv_has_:
     az: Onurğasızlar
     azb: اونورغاسیزلار
     be: беспазваночныя
-    be-tarask: бесхрыбетныя
+    be_tarask: бесхрыбетныя
     bg: Безгръбначни
     bn: অমেরুদণ্ডী প্রাণী
     br: Divellkeineg
@@ -148,11 +148,11 @@ dv_has_:
     cy: Infertebrat
     da: hvirvelløse dyr
     de: Wirbellose
-    de-ch: Wirbellose
+    de_ch: Wirbellose
     el: Ασπόνδυλο
     en: invertebrate
-    en-ca: Invertebrate
-    en-gb: invertebrate
+    en_ca: Invertebrate
+    en_gb: invertebrate
     eo: Senvertebruloj
     es: invertebrados
     et: selgrootud
@@ -184,7 +184,7 @@ dv_has_:
     km: សត្វឥតឆ្អឹងកង
     kn: ಅಕಶೇರುಕ
     ko: 무척추동물
-    ku-latn: bêbirrbirredar
+    ku_latn: bêbirrbirredar
     kw: Divellkeynek
     ky: Омурткасыздар
     la: invertebrata
@@ -214,7 +214,7 @@ dv_has_:
     pnb: انکنگریڑے
     ps: د ملا تیر نه لرونکي موجودات
     pt: invertebrados
-    pt-br: invertebrados
+    pt_br: invertebrados
     ro: Nevertebrate
     ru: беспозвоночные
     sa: अकशेरुकाः
@@ -229,7 +229,7 @@ dv_has_:
     sms: čiõʹljteʹmes jieʹlli
     sq: Jovertebrorë
     sr: бескичмењаци
-    sr-ec: бескичмењаци
+    sr_ec: бескичмењаци
     su: Invertebrata
     sv: ryggradslösa djur
     ta: முதுகெலும்பிலி
@@ -249,7 +249,7 @@ dv_has_:
     yo: Aláìléegunẹ̀yìn
     yue: 無脊椎動物
     zh: 无脊椎动物
-    zh-hant: 無脊椎動物
+    zh_hant: 無脊椎動物
 ---
 # [[Invertebrate]] 
 

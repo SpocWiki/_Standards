@@ -235,7 +235,7 @@ dv_has_:
     azb: ورنر کارل هایزنبرگ
     bar: Werner Heisenberg
     be: Вернер Карл Гейзенберг
-    be-tarask: Вэрнэр Карл Гайзэнбэрг
+    be_tarask: Вэрнэр Карл Гайзэнбэрг
     bg: Вернер Хайзенберг
     bn: ভের্নার কার্ল হাইজেনবের্গ
     bs: Werner Heisenberg
@@ -249,8 +249,8 @@ dv_has_:
     de-at: Werner Heisenberg
     el: Βέρνερ Χάιζενμπεργκ
     en: Werner Heisenberg
-    en-ca: Werner Heisenberg
-    en-gb: Werner Heisenberg
+    en_ca: Werner Heisenberg
+    en_gb: Werner Heisenberg
     en-us: Werner Heisenberg
     eo: Werner Heisenberg
     es: Werner Heisenberg
@@ -310,7 +310,7 @@ dv_has_:
     pnb: ورنر ہائسنبرگ
     ps: وايرنر هايزنبرګ
     pt: Werner Heisenberg
-    pt-br: Werner Heisenberg
+    pt_br: Werner Heisenberg
     qu: Werner Heisenberg
     ro: Werner Heisenberg
     ru: Вернер Гейзенберг
@@ -343,9 +343,9 @@ dv_has_:
     yo: Werner Heisenberg
     yue: 海森堡
     zh: 维尔纳·海森堡
-    zh-hans: 维尔纳·海森堡
-    zh-hant: 維爾納·海森堡
-    zh-hk: 華納·海森堡
+    zh_hans: 维尔纳·海森堡
+    zh_hant: 維爾納·海森堡
+    zh_hk: 華納·海森堡
 ---
 # [[Heisenberg,Werner]]  
 

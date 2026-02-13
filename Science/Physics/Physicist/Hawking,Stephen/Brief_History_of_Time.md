@@ -131,12 +131,12 @@ dv_has_:
     vi: Lược sử thời gian
     xmf: A Brief History of Time
     zh: 时间简史
-    zh-cn: 时间简史
-    zh-hans: 时间简史
-    zh-hant: 時間簡史
-    zh-hk: 時間簡史
-    zh-sg: 时间简史
-    zh-tw: 時間簡史
+    zh_cn: 时间简史
+    zh_hans: 时间简史
+    zh_hant: 時間簡史
+    zh_hk: 時間簡史
+    zh_sg: 时间简史
+    zh_tw: 時間簡史
 ---
 # [[Brief_History_of_Time]] 
 

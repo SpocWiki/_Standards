@@ -59,7 +59,7 @@ dv_has_:
   name_:
     af: pneumatika
     ar: الهوائيات
-    be-tarask: пнэўматыка
+    be_tarask: пнэўматыка
     bg: пневматика
     bn: সংনমিত বায়ুচালন বিজ্ঞান
     bs: Pneumatika
@@ -113,9 +113,9 @@ dv_has_:
     vi: Khí nén học
     war: Nyumatika
     zh: 气动
-    zh-cn: 气动
-    zh-hans: 气动
-    zh-hant: 氣體力學
+    zh_cn: 气动
+    zh_hans: 气动
+    zh_hant: 氣體力學
 ---
 # [[Pneumatics]] 
 

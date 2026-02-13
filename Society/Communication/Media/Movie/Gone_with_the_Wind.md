@@ -272,7 +272,7 @@ dv_has_:
     az: Küləklə sovrulanlar
     azb: کولکله سوورولانلار
     be: Панесеныя ветрам
-    be-tarask: Зьнесеныя ветрам
+    be_tarask: Зьнесеныя ветрам
     bg: Отнесени от вихъра
     bn: গন উইথ দ্য উইন্ড
     br: Gone with the Wind (film)
@@ -287,8 +287,8 @@ dv_has_:
     de: Vom Winde verweht
     el: Όσα παίρνει ο άνεμος
     en: Gone with the Wind
-    en-ca: Gone with the Wind
-    en-gb: Gone with the Wind
+    en_ca: Gone with the Wind
+    en_gb: Gone with the Wind
     eo: Forigita per la vento
     es: Lo que el viento se llevó
     et: Tuulest viidud
@@ -327,7 +327,7 @@ dv_has_:
     pa: हवा के साथ उड़ गया
     pl: Przeminęło z wiatrem
     pt: Gone with the Wind
-    pt-br: Gone with the Wind
+    pt_br: Gone with the Wind
     qu: Gone with the Wind
     ro: Pe aripile vântului
     ru: Унесённые ветром
@@ -351,13 +351,13 @@ dv_has_:
     wuu: 乱世佳人
     yue: 亂世佳人
     zh: 乱世佳人
-    zh-cn: 乱世佳人
-    zh-hans: 乱世佳人
-    zh-hant: 亂世佳人
-    zh-hk: 亂世佳人
+    zh_cn: 乱世佳人
+    zh_hans: 乱世佳人
+    zh_hant: 亂世佳人
+    zh_hk: 亂世佳人
     zh-my: 乱世佳人
-    zh-sg: 乱世佳人
-    zh-tw: 亂世佳人
+    zh_sg: 乱世佳人
+    zh_tw: 亂世佳人
 ---
 # [[Gone_with_the_Wind]] 
 

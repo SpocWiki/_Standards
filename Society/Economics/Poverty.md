@@ -184,7 +184,7 @@ dv_has_:
     ba: Ярлылыҡ
     bcl: Katikapohan
     be: беднасць
-    be-tarask: беднасьць
+    be_tarask: беднасьць
     bg: Бедност
     bho: गरीबी
     bn: দারিদ্র্য
@@ -202,8 +202,8 @@ dv_has_:
     de: Armut
     el: φτώχεια
     en: poverty
-    en-ca: Poverty
-    en-gb: poverty
+    en_ca: Poverty
+    en_gb: poverty
     eo: malriĉeco
     es: pobreza
     et: vaesus
@@ -260,7 +260,7 @@ dv_has_:
     mnc: ᠶᠠᡩᠠᡥᡡᠨ
     mni: ꯂꯥꯏꯔꯕ
     ms: kemiskinan
-    ms-arab: کميسکينن
+    ms_arab: کميسکينن
     my: ဆင်းရဲမွဲတေမှု
     nan: Sàn-chhiah
     nb: fattigdom
@@ -280,7 +280,7 @@ dv_has_:
     pnb: غربت
     ps: بېوزلي
     pt: pobreza
-    pt-br: pobreza
+    pt_br: pobreza
     qu: Wakcha
     ro: sărăcie
     ru: бедность
@@ -300,8 +300,8 @@ dv_has_:
     so: Sabool
     sq: Varfëria
     sr: сиромаштво
-    sr-ec: сиромаштво
-    sr-el: siromaštvo
+    sr_ec: сиромаштво
+    sr_el: siromaštvo
     sv: fattigdom
     sw: Umaskini
     ta: வறுமை
@@ -312,7 +312,7 @@ dv_has_:
     tok: jo lili
     tr: yoksulluk
     tt: ярлылык
-    tt-cyrl: ярлылык
+    tt_cyrl: ярлылык
     udm: куанерлык
     uk: бідність
     ur: غربت
@@ -327,9 +327,9 @@ dv_has_:
     yo: Àìní
     yue: 窮
     zh: 貧窮
-    zh-cn: 贫穷
-    zh-hans: 贫穷
-    zh-hant: 貧窮
+    zh_cn: 贫穷
+    zh_hans: 贫穷
+    zh_hant: 貧窮
 ---
 # [[Poverty]] 
 

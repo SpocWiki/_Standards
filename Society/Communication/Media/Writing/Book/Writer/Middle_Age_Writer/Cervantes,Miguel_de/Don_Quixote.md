@@ -220,7 +220,7 @@ dv_has_:
     ba: Дон Кихот
     bar: Don Quijote
     be: Дон Кіхот
-    be-tarask: Хітрамудры ідальга Дон Кіхот Ляманчаскі
+    be_tarask: Хітрамудры ідальга Дон Кіхот Ляманчаскі
     bg: Дон Кихот
     bn: ডন কিহোতে
     bo: ཐང་རྗི་ཁོཏ།
@@ -232,11 +232,11 @@ dv_has_:
     cy: Don Quixote
     da: Don Quijote
     de: Don Quijote
-    de-ch: Don Quijote
+    de_ch: Don Quijote
     el: Δον Κιχώτης
     en: Don Quixote
-    en-ca: Don Quixote
-    en-gb: Don Quixote
+    en_ca: Don Quixote
+    en_gb: Don Quixote
     eo: La inĝenia kavaliro Don Kiĥoto el Manĉo
     es: Don Quijote de la Mancha
     et: Don Quijote
@@ -304,7 +304,7 @@ dv_has_:
     pl: Don Kichot
     pnb: خدائی فوجدار
     pt: Dom Quixote
-    pt-br: Dom Quixote
+    pt_br: Dom Quixote
     qu: Don Quijote
     ro: Don Quijote
     ru: Дон Кихот
@@ -339,8 +339,8 @@ dv_has_:
     yi: דאן קיכאטע
     yue: 唐吉訶德
     zh: 堂吉诃德
-    zh-cn: 堂吉诃德
-    zh-hans: 堂吉诃德
+    zh_cn: 堂吉诃德
+    zh_hans: 堂吉诃德
 ---
 # [[Don_Quixote]] 
 

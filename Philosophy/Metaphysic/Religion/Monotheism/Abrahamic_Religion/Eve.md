@@ -144,7 +144,7 @@ dv_has_:
     ba: Һауа
     bcl: Eva
     be: Ева
-    be-tarask: Эва
+    be_tarask: Эва
     bew: Hawa (Kitab)
     bg: Ева
     bn: হাওয়া
@@ -212,7 +212,7 @@ dv_has_:
     pl: Ewa
     pnb: حوّا
     pt: Eva
-    pt-br: Eva
+    pt_br: Eva
     ro: Eva
     ru: Ева
     sah: Ева
@@ -235,7 +235,7 @@ dv_has_:
     tl: Eba
     tr: Havva
     tt: Һава
-    tt-cyrl: Һава
+    tt_cyrl: Һава
     ug: ھەۋۋا
     uk: Єва
     ur: حوا
@@ -250,11 +250,11 @@ dv_has_:
     yi: חווה
     yue: 夏娃
     zh: 夏娃
-    zh-cn: 夏娃
-    zh-hans: 夏娃
-    zh-hant: 夏娃
-    zh-hk: 夏娃
-    zh-tw: 夏娃
+    zh_cn: 夏娃
+    zh_hans: 夏娃
+    zh_hant: 夏娃
+    zh_hk: 夏娃
+    zh_tw: 夏娃
 ---
 # [[Eve]] 
 

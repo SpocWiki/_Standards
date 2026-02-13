@@ -34,7 +34,7 @@ dv_has_:
     oc: Poecilostomatoida
     pl: Poecilostomatoida
     pt: Poecilostomatoida
-    pt-br: Poecilostomatoida
+    pt_br: Poecilostomatoida
     ro: Poecilostomatoida
     ru: Poecilostomatoida
     sq: Poecilostomatoida
@@ -45,9 +45,9 @@ dv_has_:
     vo: Poecilostomatoida
     war: Poecilostomatoida
     zh: 杯口水蚤目
-    zh-cn: 杯口水蚤目
-    zh-hans: 杯口水蚤目
-    zh-tw: 杯口水蚤目
+    zh_cn: 杯口水蚤目
+    zh_hans: 杯口水蚤目
+    zh_tw: 杯口水蚤目
 ---
 # [[Poecilostomatoida]] 
 ![Sapphirina_darwinii](Poecilostomatoida/Sapphirina_darwinii.jpg))  ![Oncaea_venusta](Poecilostomatoida/Oncaea_venusta.jpg) 

@@ -44,7 +44,7 @@ dv_has_:
     oc: Symphypleona
     pl: Zrosłopierścieniowe
     pt: Symphypleona
-    pt-br: Symphypleona
+    pt_br: Symphypleona
     ro: Symphypleona
     ru: Symphypleona
     sq: Symphypleona

@@ -111,7 +111,7 @@ dv_has_:
     ast: llei de Hubble
     az: Habbl qanunu
     be: закон Хабла
-    be-tarask: закон Габла
+    be_tarask: закон Габла
     bg: закон на Хъбъл
     bn: হাবলের সূত্র
     bs: Hubbleov zakon
@@ -165,8 +165,8 @@ dv_has_:
     sk: Hubblov zákon
     sl: Hubblov čas
     sr: Hablov zakon
-    sr-ec: Хаблов закон
-    sr-el: Hablov zakon
+    sr_ec: Хаблов закон
+    sr_el: Hablov zakon
     sv: Hubbles lag
     ta: ஹபிள் விதி
     th: กฎของฮับเบิล
@@ -179,10 +179,10 @@ dv_has_:
     wuu: 哈勃定律
     yue: 哈勃定律
     zh: 哈勃–勒梅特定律
-    zh-cn: 哈勃–勒梅特定律
-    zh-hk: 哈勃–勒梅特定律
-    zh-sg: 哈勃–勒梅特定律
-    zh-tw: 哈伯–勒梅特定律
+    zh_cn: 哈勃–勒梅特定律
+    zh_hk: 哈勃–勒梅特定律
+    zh_sg: 哈勃–勒梅特定律
+    zh_tw: 哈伯–勒梅特定律
 ---
 # [[Hubble–Lemaître_Law]] 
 

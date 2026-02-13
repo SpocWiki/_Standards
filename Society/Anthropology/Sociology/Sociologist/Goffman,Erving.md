@@ -84,7 +84,7 @@ dv_has_:
     ast: Erving Goffman
     az: İrvinq Hofman
     azb: اروینق قافمن
-    be-tarask: Ірвінг Гофман
+    be_tarask: Ірвінг Гофман
     bg: Ървинг Гофман
     bs: Erving Goffman
     ca: Erving Goffman
@@ -124,7 +124,7 @@ dv_has_:
     pl: Erving Goffman
     ps: اروینګ ګافمن
     pt: Erving Goffman
-    pt-br: Erving Goffman
+    pt_br: Erving Goffman
     ro: Erving Goffman
     ru: Ирвинг Гофман
     sk: Erving Goffman
@@ -139,9 +139,9 @@ dv_has_:
     wuu: 厄文·高夫曼
     yue: 艾榮·高夫曼
     zh: 厄文·高夫曼
-    zh-cn: 欧文·戈夫曼
-    zh-hk: 艾榮·高夫曼
-    zh-tw: 厄文·高夫曼
+    zh_cn: 欧文·戈夫曼
+    zh_hk: 艾榮·高夫曼
+    zh_tw: 厄文·高夫曼
 ---
 # [[Goffman,Erving]] 
 

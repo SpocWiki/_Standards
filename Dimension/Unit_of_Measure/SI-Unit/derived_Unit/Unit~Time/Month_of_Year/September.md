@@ -314,7 +314,7 @@ dv_has_:
     abr: Ɛbɔ
     acm: أيلول
     ady: Ӏоныгъомаз
-    aeb-arab: سبتمبر
+    aeb_arab: سبتمبر
     af: September
     agq: Ndzɔŋ è tə̀fʉ̀ghà dzughù
     alt: Сыгын ай
@@ -343,11 +343,11 @@ dv_has_:
     bas: dipos
     bax: mùt Septembre
     bbc: Sipaha onom
-    bbc-latn: Sipaha Onom
+    bbc_latn: Sipaha Onom
     bbj: ŋkə̂mbiyɛ́
     bcl: Setyembre
     be: верасень
-    be-tarask: верасень
+    be_tarask: верасень
     bew: Sèptèmber
     bg: Септември
     bho: सितंबर
@@ -363,7 +363,7 @@ dv_has_:
     bxr: 9 һар
     byv: njâgcu
     ca: setembre
-    cbk-zam: Setiembre
+    cbk_zam: Setiembre
     cdo: 9 nguŏk
     ce: Тав бутт
     ceb: Septiyembre
@@ -372,7 +372,7 @@ dv_has_:
     ckb: ئەیلوول
     co: Settembre
     crh: Sentâbr
-    crh-latn: Sentâbr
+    crh_latn: Sentâbr
     cs: září
     csb: Séwnik
     cv: Авăн
@@ -380,7 +380,7 @@ dv_has_:
     da: september
     dag: September
     de: September
-    de-ch: September
+    de_ch: September
     diq: Keşkelun
     dsb: požnjenc
     dtp: Manom
@@ -391,8 +391,8 @@ dv_has_:
     el: Σεπτέμβριος
     eml: Setèmber
     en: September
-    en-ca: September
-    en-gb: September
+    en_ca: September
+    en_gb: September
     en-us: September
     eo: septembro
     es: septiembre
@@ -473,7 +473,7 @@ dv_has_:
     ks: مۄنٛجہور
     ksh: Sepptämmber
     ku: îlon
-    ku-latn: îlon
+    ku_latn: îlon
     kv: Кӧч тӧлысь
     kw: Mis Gwyngala
     ky: Сентябрь
@@ -495,7 +495,7 @@ dv_has_:
     lv: septembris
     lzh: 建戌
     mai: सितम्बर
-    map-bms: September
+    map_bms: September
     mcp: ”ŋwíí akǝ táanin"
     mdf: иможков
     mg: Septambra
@@ -510,7 +510,7 @@ dv_has_:
     mr: सप्टेंबर महिना
     mrj: Сентябрь
     ms: September
-    ms-arab: سيڤتيمبر
+    ms_arab: سيڤتيمبر
     mt: Settembru
     mua: fĩi dǝɓlii
     mwl: Setembre
@@ -522,7 +522,7 @@ dv_has_:
     nap: Settembre
     nb: september
     nds: September
-    nds-nl: september
+    nds_nl: september
     ne: सेप्टेम्बर
     new: सेप्टेम्बर
     nl: september
@@ -550,7 +550,7 @@ dv_has_:
     pnt: Σταυρίτες
     ps: سېپتمبر
     pt: setembro
-    pt-br: setembro
+    pt_br: setembro
     qu: Tarpuy killa
     rmf: hyöstako tšoon
     ro: septembrie
@@ -582,8 +582,8 @@ dv_has_:
     so: Sebteembar
     sq: Shtatori
     sr: септембар
-    sr-ec: септембар
-    sr-el: septembar
+    sr_ec: септембар
+    sr_el: septembar
     ss: ÍNyoni
     su: Séptémber
     sv: september
@@ -638,14 +638,14 @@ dv_has_:
     zea: September
     zgh: ⵛⵓⵜⴰⵏⴱⵉⵔ
     zh: 9月
-    zh-cn: 9月
-    zh-hans: 9月
-    zh-hant: 9月
-    zh-hk: 9月
-    zh-mo: 9月
+    zh_cn: 9月
+    zh_hans: 9月
+    zh_hant: 9月
+    zh_hk: 9月
+    zh_mo: 9月
     zh-my: 9月
-    zh-sg: 9月
-    zh-tw: 9月
+    zh_sg: 9月
+    zh_tw: 9月
     zu: UMandulo
 ---
 # [[September]]

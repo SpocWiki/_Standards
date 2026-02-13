@@ -65,7 +65,7 @@ dv_has_:
     az: Veber
     azb: وبر (بیریم)
     be: вебер
-    be-tarask: вэбэр
+    be_tarask: вэбэр
     bg: Вебер
     bn: ওয়েবার (একক)
     bs: veber
@@ -118,8 +118,8 @@ dv_has_:
     sl: veber
     sq: weber
     sr: вебер
-    sr-ec: Вебер
-    sr-el: Veber
+    sr_ec: Вебер
+    sr_el: Veber
     sv: weber
     ta: வெபர்
     tg: Вебер
@@ -131,12 +131,12 @@ dv_has_:
     wuu: 韦伯 (单位)
     yue: 韋伯
     zh: 韦伯
-    zh-cn: 韦伯
-    zh-hans: 韦伯
-    zh-hant: 韋伯
-    zh-hk: 韋伯
-    zh-sg: 韦伯
-    zh-tw: 韋伯
+    zh_cn: 韦伯
+    zh_hans: 韦伯
+    zh_hant: 韋伯
+    zh_hk: 韋伯
+    zh_sg: 韦伯
+    zh_tw: 韋伯
 ---
 # [[Unit~Weber]] 
 

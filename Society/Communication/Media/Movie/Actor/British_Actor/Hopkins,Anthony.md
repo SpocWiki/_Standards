@@ -180,7 +180,7 @@ dv_has_:
     ba: Энтони Хопкинс
     bar: Anthony Hopkins
     be: Энтані Хопкінс
-    be-tarask: Энтані Гопкінз
+    be_tarask: Энтані Гопкінз
     bg: Антъни Хопкинс
     bho: एंथनी हॉपकिंस
     bm: Anthony Hopkins
@@ -196,13 +196,13 @@ dv_has_:
     da: Anthony Hopkins
     de: Anthony Hopkins
     de-at: Anthony Hopkins
-    de-ch: Anthony Hopkins
+    de_ch: Anthony Hopkins
     diq: Anthony Hopkins
     el: Άντονι Χόπκινς
     eml: Anthony Hopkins
     en: Anthony Hopkins
-    en-ca: Anthony Hopkins
-    en-gb: Anthony Hopkins
+    en_ca: Anthony Hopkins
+    en_gb: Anthony Hopkins
     eo: Anthony Hopkins
     es: Anthony Hopkins
     et: Anthony Hopkins
@@ -259,7 +259,7 @@ dv_has_:
     nap: Anthony Hopkins
     nb: Anthony Hopkins
     nds: Anthony Hopkins
-    nds-nl: Anthony Hopkins
+    nds_nl: Anthony Hopkins
     nl: Anthony Hopkins
     nn: Anthony Hopkins
     nrm: Anthony Hopkins
@@ -274,7 +274,7 @@ dv_has_:
     prg: Anthony Hopkins
     ps: انتوني هوپکينز
     pt: Anthony Hopkins
-    pt-br: Anthony Hopkins
+    pt_br: Anthony Hopkins
     qu: Anthony Hopkins
     rgn: Anthony Hopkins
     rm: Anthony Hopkins
@@ -289,7 +289,7 @@ dv_has_:
     sl: Anthony Hopkins
     sq: Entoni Hopkins
     sr: Ентони Хопкинс
-    sr-el: Anthony Hopkins
+    sr_el: Anthony Hopkins
     sv: Anthony Hopkins
     sw: Anthony Hopkins
     ta: அந்தோணி ஹோப்கின்ஸ்
@@ -299,7 +299,7 @@ dv_has_:
     tl: Anthony Hopkins
     tr: Anthony Hopkins
     tt: Әнтони Һопкинс
-    tt-cyrl: Әнтони Һопкинс
+    tt_cyrl: Әнтони Һопкинс
     uk: Ентоні Гопкінс
     ur: انتھنی ہوپکنز
     uz: Anthony Hopkins
@@ -316,10 +316,10 @@ dv_has_:
     yo: Anthony Hopkins
     yue: 安東尼鶴堅斯
     zh: 安東尼·霍普金斯
-    zh-hant: 安東尼·霍普金斯
-    zh-hk: 安東尼鶴健士
+    zh_hant: 安東尼·霍普金斯
+    zh_hk: 安東尼鶴健士
     zh-my: 安东尼·鹤坚斯
-    zh-sg: 安东尼·霍金斯
+    zh_sg: 安东尼·霍金斯
     zu: Anthony Hopkins
 ---
 # [[Hopkins,Anthony]] 

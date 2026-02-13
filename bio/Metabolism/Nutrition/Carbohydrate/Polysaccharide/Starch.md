@@ -160,7 +160,7 @@ dv_has_:
     azb: نشاسته
     ba: Крахмал
     be: крухмал
-    be-tarask: крухмал
+    be_tarask: крухмал
     bg: Нишесте
     bn: শ্বেতসার
     bs: Škrob
@@ -171,7 +171,7 @@ dv_has_:
     de: Stärke
     el: Άμυλο
     en: starch
-    en-gb: starch
+    en_gb: starch
     eo: amelo
     es: almidón
     et: Tärklis
@@ -225,7 +225,7 @@ dv_has_:
     pl: skrobia
     pnb: نشاستا
     pt: amido
-    pt-br: amido
+    pt_br: amido
     qu: Miqu
     ro: Amidon
     ru: крахмал
@@ -253,8 +253,8 @@ dv_has_:
     yi: קראכמל
     yue: 澱粉
     zh: 淀粉
-    zh-hant: 澱粉
-    zh-tw: 澱粉
+    zh_hant: 澱粉
+    zh_tw: 澱粉
 ---
 # [[Starch]] 
 

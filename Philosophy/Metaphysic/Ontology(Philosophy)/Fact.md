@@ -85,7 +85,7 @@ dv_has_:
     ar: واقعة
     az: fakt
     ba: факт
-    be-tarask: факт
+    be_tarask: факт
     bg: факт
     bn: বাস্তব সত্য
     bs: činjenica
@@ -96,7 +96,7 @@ dv_has_:
     de: Tatsache
     el: γεγονός
     en: fact
-    en-gb: fact
+    en_gb: fact
     eo: fakto
     es: hecho
     et: fakt
@@ -119,11 +119,11 @@ dv_has_:
     ka: ფაქტი
     ki: cara (fact)
     kk: факт
-    kk-arab: فاكت
+    kk_arab: فاكت
     kk-cn: فاكت
-    kk-cyrl: факт
+    kk_cyrl: факт
     kk-kz: факт
-    kk-latn: fakt
+    kk_latn: fakt
     kk-tr: fakt
     ko: 사실
     ky: факт
@@ -135,7 +135,7 @@ dv_has_:
     mk: факт
     mn: баримт
     ms: fakta
-    ms-arab: فکتا
+    ms_arab: فکتا
     mt: fatti
     nan: sū-si̍t
     nb: faktum
@@ -146,7 +146,7 @@ dv_has_:
     pl: fakt
     ps: واقعیت
     pt: facto
-    pt-br: fato
+    pt_br: fato
     ro: fapt
     ru: факт
     scn: fattu
@@ -173,12 +173,12 @@ dv_has_:
     yi: פאקט
     yue: 事實
     zh: 事實
-    zh-cn: 事实
-    zh-hans: 事实
-    zh-hant: 事實
-    zh-hk: 事實
-    zh-sg: 事实
-    zh-tw: 事實
+    zh_cn: 事实
+    zh_hans: 事实
+    zh_hant: 事實
+    zh_hk: 事實
+    zh_sg: 事实
+    zh_tw: 事實
 ---
 # [[Fact]] 
 

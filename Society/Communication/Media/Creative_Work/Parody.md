@@ -82,7 +82,7 @@ dv_has_:
     az: parodiya
     ba: Пародия
     be: пародыя
-    be-tarask: пародыя
+    be_tarask: пародыя
     bg: Пародия
     bs: Parodija
     ca: paròdia
@@ -91,11 +91,11 @@ dv_has_:
     cy: parodi
     da: parodi
     de: Parodie
-    de-ch: Parodie
+    de_ch: Parodie
     el: παρωδία
     en: parody
-    en-ca: Parody
-    en-gb: parody
+    en_ca: Parody
+    en_gb: parody
     eo: parodio
     es: parodia
     et: paroodia
@@ -121,11 +121,11 @@ dv_has_:
     ka: პაროდია
     kab: asmejger
     kk: Пародия
-    kk-arab: پارودىييا
+    kk_arab: پارودىييا
     kk-cn: پارودىييا
-    kk-cyrl: Пародия
+    kk_cyrl: Пародия
     kk-kz: Пародия
-    kk-latn: Parodïya
+    kk_latn: Parodïya
     kk-tr: Parodïya
     kn: ಅಣಕುಬರೆಹ
     ko: 패러디
@@ -144,7 +144,7 @@ dv_has_:
     pa: ਪੈਰੋਡੀ
     pl: parodia
     pt: paródia
-    pt-br: paródia
+    pt_br: paródia
     ro: parodie
     ru: пародия
     sd: پيئروڊي
@@ -156,8 +156,8 @@ dv_has_:
     sms: parodia
     sq: Parodia
     sr: пародија
-    sr-ec: пародија
-    sr-el: parodija
+    sr_ec: пародија
+    sr_el: parodija
     sv: parodi
     ta: நையாண்டிப் போலி
     te: అపహాస్యం
@@ -165,7 +165,7 @@ dv_has_:
     th: วรรณกรรมล้อ
     tr: Parodi
     tt: охшатым
-    tt-cyrl: охшатым
+    tt_cyrl: охшатым
     uk: пародія
     ur: پیروڈی
     uz: Parodiya
@@ -174,12 +174,12 @@ dv_has_:
     yi: פאראדיע
     yue: 戲仿
     zh: 戲仿
-    zh-cn: 戏仿
-    zh-hans: 戏仿
-    zh-hant: 戲仿
-    zh-hk: 戲仿
-    zh-sg: 戏仿
-    zh-tw: 戲仿
+    zh_cn: 戏仿
+    zh_hans: 戏仿
+    zh_hant: 戲仿
+    zh_hk: 戲仿
+    zh_sg: 戏仿
+    zh_tw: 戲仿
 ---
 # [[Parody]] 
 

@@ -13,11 +13,11 @@ dv_has_:
     cy: Octopussy
     da: Octopussy
     de: James Bond 007 – Octopussy
-    de-ch: James Bond 007 – Octopussy
+    de_ch: James Bond 007 – Octopussy
     el: 'Τζέιμς Μποντ, πράκτωρ 007: Επιχείρηση Οκτάπουσι'
     en: Octopussy
-    en-ca: Octopussy
-    en-gb: Octopussy
+    en_ca: Octopussy
+    en_gb: Octopussy
     es: Octopussy
     et: '007: Kaheksajalg'
     eu: Octopussy
@@ -48,15 +48,15 @@ dv_has_:
     pl: Ośmiorniczka
     pnb: آکٹوپسی
     pt: Octopussy
-    pt-br: Octopussy
+    pt_br: Octopussy
     ro: Octopussy
     ru: Осьминожка
     sh: Octopussy
     sk: Chobotnička
     sq: Octopussy
     sr: Октопуси
-    sr-ec: Октопуси
-    sr-el: Oktopusi
+    sr_ec: Октопуси
+    sr_el: Oktopusi
     sv: Octopussy
     th: 007 เพชฌฆาตปลาหมึกยักษ์
     tr: Ahtapot
@@ -65,12 +65,12 @@ dv_has_:
     uz: Sakkizoyoq
     yue: 鐵金剛勇破爆炸黨
     zh: 鐵金剛勇破爆炸黨
-    zh-cn: 铁金刚勇破爆炸党
-    zh-hans: 铁金刚勇破爆炸党
-    zh-hant: 八爪女
-    zh-hk: 鐵金剛勇破爆炸黨
-    zh-sg: 铁金刚勇破爆炸党
-    zh-tw: 八爪女
+    zh_cn: 铁金刚勇破爆炸党
+    zh_hans: 铁金刚勇破爆炸党
+    zh_hant: 八爪女
+    zh_hk: 鐵金剛勇破爆炸黨
+    zh_sg: 铁金刚勇破爆炸党
+    zh_tw: 八爪女
 aliases:
 - 007 เพชฌฆาตปลาหมึกยักษ์
 - 007 オクトパシー

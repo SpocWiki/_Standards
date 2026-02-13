@@ -185,7 +185,7 @@ dv_has_:
     ast: Conde Drácula
     az: Qraf Drakula
     bar: Graf Dracula
-    be-tarask: Дракула
+    be_tarask: Дракула
     bs: Grof Drakula
     ca: comte Dràcula
     cs: Hrabě Drákula
@@ -193,8 +193,8 @@ dv_has_:
     de: Graf Dracula
     el: Δράκουλας (φανταστικός χαρακτήρας)
     en: Count Dracula
-    en-ca: Count Dracula
-    en-gb: Count Dracula
+    en_ca: Count Dracula
+    en_gb: Count Dracula
     eo: grafo Drakula
     es: Conde Drácula
     es-419: conde Drácula
@@ -228,7 +228,7 @@ dv_has_:
     pa: ਕਾਊਂਟ ਡਰੈਕੁਲਾ
     pl: Drakula
     pt: Conde Drácula
-    pt-br: Conde Drácula
+    pt_br: Conde Drácula
     ro: Contele Dracula
     ru: граф Дракула
     sco: Coont Dracula
@@ -236,7 +236,7 @@ dv_has_:
     sl: grof Drakula
     sq: Konti Dracula
     sr: Дракула
-    sr-ec: Дракула
+    sr_ec: Дракула
     sv: Greve Dracula
     th: เคานต์แดรกคูลา
     tr: Kont Drakula
@@ -248,7 +248,7 @@ dv_has_:
     wuu: 德古拉
     yue: 德古拉伯爵
     zh: 德拉库拉
-    zh-tw: 德古拉伯爵
+    zh_tw: 德古拉伯爵
 ---
 # [[Count_Dracula]] 
 

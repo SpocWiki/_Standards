@@ -59,7 +59,7 @@ dv_has_:
     ar: حلقة تبادلية
     ast: Aníu conmutativu
     ba: Коммутатив ҡулса
-    be-tarask: камутатыўнае колца
+    be_tarask: камутатыўнае колца
     ca: anell commutatiu
     cs: komutativní okruh
     da: Kommutativ ring
@@ -88,14 +88,14 @@ dv_has_:
     nn: kommutativ ring
     pl: pierścień przemienny
     pt: anel comutativo
-    pt-br: anel comutativo
+    pt_br: anel comutativo
     ro: Inel comutativ
     ru: коммутативное кольцо
     sh: Komutativni prsten
     sl: komutativni kolobar
     sr: Комутативни прстен
-    sr-ec: Комутативни прстен
-    sr-el: Komutativni prsten
+    sr_ec: Комутативни прстен
+    sr_el: Komutativni prsten
     sv: kommutativ ring
     ta: பரிமாற்று வளையம்
     tr: Değişmeli halka
@@ -103,9 +103,9 @@ dv_has_:
     vi: vành giao hoán
     yue: 交換環
     zh: 交换环
-    zh-hans: 交换环
-    zh-hant: 交換環
-    zh-hk: 交換環
+    zh_hans: 交换环
+    zh_hant: 交換環
+    zh_hk: 交換環
 ---
 # [[Commutative_Ring]] 
 

@@ -241,7 +241,7 @@ GitHub_topic: indonesian
 dv_has_:
   name_:
     ace: Basa Indônèsia
-    aeb-arab: الإندونيسي
+    aeb_arab: الإندونيسي
     af: Indonesies
     am: ኢንዶኔዥኛ
     an: Idioma indonesio
@@ -258,7 +258,7 @@ dv_has_:
     bbc: Hata Indonesia
     bcl: Bahasa Indonesia
     be: інданезійская мова
-    be-tarask: інданэзійская мова
+    be_tarask: інданэзійская мова
     bew: Basa Indonésia
     bg: Индонезийски език
     bho: इंडोनेशियाई भाषा
@@ -283,8 +283,8 @@ dv_has_:
     dtp: Boros Indonesia
     el: Ινδονησιακά
     en: Indonesian
-    en-ca: Indonesian
-    en-gb: Indonesian
+    en_ca: Indonesian
+    en_gb: Indonesian
     en-us: Indonesian
     eo: indonezia lingvo
     es: indonesio
@@ -330,7 +330,7 @@ dv_has_:
     krj: Inindonesyanhën
     ks: اِنٛڈونیشِیٲے زَبان
     ku: îndonezî
-    ku-latn: îndonezî
+    ku_latn: îndonezî
     kv: Индонезия кыв
     kw: Indonesek
     la: lingua Indonesia
@@ -342,7 +342,7 @@ dv_has_:
     lv: indonēziešu valoda
     mad: Bhâsa Inḍonèsia
     mai: इन्डोनेशियन भाषा
-    map-bms: Basa Indonesia
+    map_bms: Basa Indonesia
     mg: Fiteny indoneziana
     mhr: индонезийысе йылме
     mi: Reo Initonīhia
@@ -352,7 +352,7 @@ dv_has_:
     mni: ꯏꯟꯗꯣꯅꯦꯁꯤꯌꯥꯟ ꯂꯣꯟ
     mr: बहासा इंडोनेशिया
     ms: bahasa Indonesia
-    ms-arab: بهاس ايندونيسيا
+    ms_arab: بهاس ايندونيسيا
     mt: Indoneżjan
     my: အင်ဒိုနီးရှားဘာသာစကား
     mzn: اندونزیایی
@@ -373,7 +373,7 @@ dv_has_:
     pnb: انڈونیشی
     ps: اېندونېزيايي ژبه
     pt: língua indonésia
-    pt-br: língua indonésia
+    pt_br: língua indonésia
     qu: Indunisya simi
     rki: အင်ဒိုနီးရှားသမ္မတနိုင်ငံ
     ro: indoneziană
@@ -412,7 +412,7 @@ dv_has_:
     tr: Endonezyaca
     trv: Kari Intunisiya
     tt: индонезия теле
-    tt-cyrl: индонезия теле
+    tt_cyrl: индонезия теле
     ug: ھىندونېزىيە تىلى
     uk: індонезійська мова
     ur: انڈونیشیائی زبان
@@ -428,11 +428,11 @@ dv_has_:
     yue: 印尼文
     za: Vah Yindunizsihya
     zh: 印尼語
-    zh-cn: 印尼语
-    zh-hans: 印尼语
-    zh-hant: 印尼語
-    zh-hk: 印尼語
-    zh-tw: 印尼語
+    zh_cn: 印尼语
+    zh_hans: 印尼语
+    zh_hant: 印尼語
+    zh_hk: 印尼語
+    zh_tw: 印尼語
     zu: Isi-Indonesia
 ---
 # [[Lang-ind]] 

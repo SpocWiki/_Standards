@@ -159,7 +159,7 @@ dv_has_:
     az: Yun
     ba: Йөн (материал)
     be: воўна
-    be-tarask: воўна
+    be_tarask: воўна
     bg: Вълна
     bn: পশম
     bs: vuna
@@ -173,8 +173,8 @@ dv_has_:
     diq: Peşm
     el: Μαλλί
     en: wool
-    en-ca: wool
-    en-gb: wool
+    en_ca: wool
+    en_gb: wool
     en-us: wool
     eo: lano
     es: lana
@@ -236,7 +236,7 @@ dv_has_:
     pnb: اُنّ
     ps: وړۍ
     pt: lã
-    pt-br: lã
+    pt_br: lã
     qu: Millma
     rmf: džarali
     ro: Lână
@@ -255,7 +255,7 @@ dv_has_:
     so: Dhogor
     sq: lesh
     sr: Вуна
-    sr-ec: вуна
+    sr_ec: вуна
     su: Wol
     sv: ull
     sw: Sufu
@@ -266,7 +266,7 @@ dv_has_:
     tl: Lana
     tr: Yün
     tt: йон
-    tt-cyrl: йон
+    tt_cyrl: йон
     uk: вовна
     ur: اون
     uz: Pilik
@@ -279,8 +279,8 @@ dv_has_:
     yi: וואל
     yue: 羊毛
     zh: 羊毛
-    zh-hant: 羊毛
-    zh-hk: 羊毛
+    zh_hant: 羊毛
+    zh_hk: 羊毛
 ---
 # [[Wool]] 
 

@@ -52,7 +52,7 @@ dv_has_:
   name_:
     ar: الانطباعية في الموسيقى
     ast: impresionismu musical
-    be-tarask: імпрэсіянізм у музыцы
+    be_tarask: імпрэсіянізм у музыцы
     ca: impressionisme musical
     cs: hudební impresionismus
     cy: cerddoriaeth fynegiadol
@@ -96,9 +96,9 @@ dv_has_:
     vi: âm nhạc ấn tượng
     yue: 印象派音樂
     zh: 印象主义音乐
-    zh-hans: 印象主义音乐
-    zh-hant: 印象主義音樂
-    zh-hk: 印象主義音樂
+    zh_hans: 印象主义音乐
+    zh_hant: 印象主義音樂
+    zh_hk: 印象主義音樂
 ---
 # [[Impressionism_in_Music]] 
 

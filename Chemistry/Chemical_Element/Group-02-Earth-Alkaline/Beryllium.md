@@ -223,7 +223,7 @@ dv_has_:
     ban: Bérilium
     bcl: Berilyo
     be: Берылій
-    be-tarask: бэрыль
+    be_tarask: бэрыль
     bg: берилий
     bho: बेरिलियम
     blk: ဘယ်ရီလီယမ်
@@ -242,13 +242,13 @@ dv_has_:
     cy: beriliwm
     da: beryllium
     de: Beryllium
-    de-ch: Beryllium
+    de_ch: Beryllium
     egl: Berìli
     el: βηρύλλιο
     eml: Berìli
     en: beryllium
-    en-ca: Beryllium
-    en-gb: beryllium
+    en_ca: Beryllium
+    en_gb: beryllium
     eo: berilio
     es: berilio
     et: berüllium
@@ -343,7 +343,7 @@ dv_has_:
     pnb: بیریلیم
     ps: بيرېليوم
     pt: berílio
-    pt-br: berílio
+    pt_br: berílio
     qu: Berilyu
     ro: beriliu
     ru: бериллий
@@ -400,14 +400,14 @@ dv_has_:
     yue: 鈹
     zgh: ⴰⴱⵉⵔⵉⵍⵢⵓⵎ
     zh: 鈹
-    zh-cn: 铍
-    zh-hans: 铍
-    zh-hant: 鈹
-    zh-hk: 鈹
-    zh-mo: 鈹
+    zh_cn: 铍
+    zh_hans: 铍
+    zh_hant: 鈹
+    zh_hk: 鈹
+    zh_mo: 鈹
     zh-my: 铍
-    zh-sg: 铍
-    zh-tw: 鈹
+    zh_sg: 铍
+    zh_tw: 鈹
     zu: IBehlezani
   number_of_:
     period: 2

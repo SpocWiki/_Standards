@@ -107,7 +107,7 @@ dv_has_:
     az: Vestqotlar
     azb: ویزی قوتلار
     be: Вестготы
-    be-tarask: Вэстготы
+    be_tarask: Вэстготы
     bg: Вестготи
     br: Wizigoted
     bs: Vizigoti
@@ -157,7 +157,7 @@ dv_has_:
     nap: Visigotì
     nb: Vestgotere
     nds: Westgoten
-    nds-nl: Visigoten
+    nds_nl: Visigoten
     nl: Visigoten
     nn: Vestgotarar
     oc: Visigòts

@@ -58,15 +58,15 @@ dv_has_:
     ast: Conflictu étnicu
     az: etnik münaqişə
     be: Міжэтнічны канфлікт
-    be-tarask: этнічны канфлікт
+    be_tarask: этнічны канфлікт
     bg: Етнически конфликт
     ca: conflicte ètnic
     cs: etnický konflikt
     cy: Gwrthdaro ethnig
     de: ethnischer Konflikt
     en: ethnic conflict
-    en-ca: ethnic conflict
-    en-gb: ethnic conflict
+    en_ca: ethnic conflict
+    en_gb: ethnic conflict
     eo: interetna milito
     es: conflicto étnico
     eu: gatazka etniko
@@ -96,7 +96,7 @@ dv_has_:
     pl: konflikt etniczny
     pnb: نسلی ٹکراؤ
     pt: conflito étnico
-    pt-br: Conflito étnico
+    pt_br: Conflito étnico
     ru: межэтнический конфликт
     si: ජනවාර්ගික අර්බුදය
     sl: etnični konflikt

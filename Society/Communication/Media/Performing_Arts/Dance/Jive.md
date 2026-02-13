@@ -26,7 +26,7 @@ dv_has_:
   name_:
     ar: جيف
     ast: Jive
-    be-tarask: джайва
+    be_tarask: джайва
     bg: Джайв
     ca: jive
     cs: jive

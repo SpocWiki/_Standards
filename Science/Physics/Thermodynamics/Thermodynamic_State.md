@@ -50,7 +50,7 @@ dv_has_:
     af: Termodinamiese toestand
     ar: حالة ثرموديناميكية
     ast: Estáu termodinámicu
-    be-tarask: тэрмадынамічны стан
+    be_tarask: тэрмадынамічны стан
     ca: estat termodinàmic
     cs: Stav systému
     de: thermodynamischer Zustand
@@ -71,7 +71,7 @@ dv_has_:
     mag: ऊष्मागतिक अवस्था
     mk: термодинамичка состојба
     ms: keadaan termodinamik
-    ms-arab: کأداءن ترموديناميک
+    ms_arab: کأداءن ترموديناميک
     nan: Jia̍t-le̍k-ha̍k chōng-thài
     nb: termodynamisk tilstand
     nn: termodynamisk tilstand
@@ -90,14 +90,14 @@ dv_has_:
     vi: trạng thái nhiệt động
     yue: 熱力學狀態
     zh: 熱力學狀態
-    zh-cn: 热力学状态
-    zh-hans: 热力学状态
-    zh-hant: 熱力學狀態
-    zh-hk: 熱力學狀態
-    zh-mo: 熱力學狀態
+    zh_cn: 热力学状态
+    zh_hans: 热力学状态
+    zh_hant: 熱力學狀態
+    zh_hk: 熱力學狀態
+    zh_mo: 熱力學狀態
     zh-my: 热力学状态
-    zh-sg: 热力学状态
-    zh-tw: 熱力學狀態
+    zh_sg: 热力学状态
+    zh_tw: 熱力學狀態
 ---
 # [[Thermodynamic_State]] 
 

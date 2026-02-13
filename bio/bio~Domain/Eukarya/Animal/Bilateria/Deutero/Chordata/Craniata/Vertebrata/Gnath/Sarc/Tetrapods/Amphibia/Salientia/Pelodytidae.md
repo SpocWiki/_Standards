@@ -36,8 +36,8 @@ dv_has_:
     vi: Pelodytidae
     war: Pelodytidae
     zh: 合附蟾科
-    zh-cn: 合附蟾科
-    zh-hans: 合附蟾科
+    zh_cn: 合附蟾科
+    zh_hans: 合附蟾科
 ---
 # [[Pelodytidae]]
 

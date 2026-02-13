@@ -143,7 +143,7 @@ dv_has_:
     az: Hans Ersted
     azb: هانس کریستین اورستد
     be: Ганс Хрысціян Эрстэд
-    be-tarask: Ганс Крыстыян Эрстэд
+    be_tarask: Ганс Крыстыян Эрстэд
     bg: Ханс Кристиан Оерстед
     bn: হান্স ক্রিশ্চিয়ান ওরস্টেড
     bs: Hans Christian Oersted
@@ -203,7 +203,7 @@ dv_has_:
     pl: Hans Christian Ørsted
     pnb: ہانز کرسچن اورسٹڈ
     pt: Hans Christian Ørsted
-    pt-br: Hans Christian Ørsted
+    pt_br: Hans Christian Ørsted
     ro: Hans Christian Ørsted
     ru: Ханс Кристиан Эрстед
     sa: हान्स कृस्टियन ओर्स्टेड
@@ -213,7 +213,7 @@ dv_has_:
     sl: Hans Christian Ørsted
     sq: Hans Christian Ørsted
     sr: Ханс Кристијан Ерстед
-    sr-ec: Ханс Кристијан Ерстед
+    sr_ec: Ханс Кристијан Ерстед
     su: Hans Christian Ørsted
     sv: Hans Christian Ørsted
     ta: ஆன்சு கிருத்தியான் ஆர்ஸ்டெட்

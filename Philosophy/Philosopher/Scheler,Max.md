@@ -85,7 +85,7 @@ dv_has_:
     az: Maks Şeler
     azb: ماکس شلر
     be: Макс Шэлер
-    be-tarask: Макс Шэлер
+    be_tarask: Макс Шэлер
     bg: Макс Шелер
     bs: Max Scheler
     ca: Max Scheler
@@ -129,7 +129,7 @@ dv_has_:
     pa: ਮੈਕਸ ਸ਼ੈਲਰ
     pl: Max Scheler
     pt: Max Scheler
-    pt-br: Max Scheler
+    pt_br: Max Scheler
     qu: Max Scheler
     ro: Max Scheler
     ru: Макс Шелер

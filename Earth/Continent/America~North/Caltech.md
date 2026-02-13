@@ -27,7 +27,7 @@ dv_has_:
     azb: کالیفورنیا تکنولوژی انستیتوسو
     ban: Institut Téknologi California
     be: Каліфарнійскі тэхналагічны інстытут
-    be-tarask: Каліфарнійскі тэхналягічны інстытут
+    be_tarask: Каліфарнійскі тэхналягічны інстытут
     bew: Institut Tèhnolohi Kaliporni
     bg: Калифорнийски технологичен институт
     bn: ক্যালিফোর্নিয়া ইন্সটিটিউট অব টেকনোলজি
@@ -39,8 +39,8 @@ dv_has_:
     de: California Institute of Technology
     el: Τεχνολογικό Ινστιτούτο της Καλιφόρνιας
     en: California Institute of Technology
-    en-ca: California Institute of Technology
-    en-gb: California Institute of Technology
+    en_ca: California Institute of Technology
+    en_gb: California Institute of Technology
     eo: Kalifornia Instituto de Teĥnologio
     es: Instituto de Tecnología de California
     et: California Tehnoloogiainstituut
@@ -65,11 +65,11 @@ dv_has_:
     ja: カリフォルニア工科大学
     ka: კალიფორნიის ტექნოლოგიის ინსტიტუტი
     kk: Калифорния Технология Институты
-    kk-arab: كالىيفورنىييا تەحنولوگىييا ىينستىيتۋتى
+    kk_arab: كالىيفورنىييا تەحنولوگىييا ىينستىيتۋتى
     kk-cn: كالىيفورنىييا تەحنولوگىييا ىينستىيتۋتى
-    kk-cyrl: Калифорния Технология Институты
+    kk_cyrl: Калифорния Технология Институты
     kk-kz: Калифорния Технология Институты
-    kk-latn: Kalïfornïya Texnologïya Ïnstïtwtı
+    kk_latn: Kalïfornïya Texnologïya Ïnstïtwtı
     kk-tr: Kalïfornïya Texnologïya Ïnstïtwtı
     kl: California Institute of Technology
     ko: 캘리포니아 공과대학교
@@ -93,15 +93,15 @@ dv_has_:
     pl: California Institute of Technology
     pnb: کیلیفورنیا انسٹیٹیوٹ آف ٹیکنالوجی
     pt: Instituto de Tecnologia da Califórnia
-    pt-br: Instituto de Tecnologia da Califórnia
+    pt_br: Instituto de Tecnologia da Califórnia
     ro: California Institute of Technology
     ru: Калифорнийский технологический институт
     sh: Kalifornijski tehnološki institut
     sk: California Institute of Technology
     sl: Kalifornijski tehnološki inštitut
     sr: Калифорнијски технолошки институт
-    sr-ec: Калифорнијски технолошки институт
-    sr-el: Kalifornijski tehnološki institut
+    sr_ec: Калифорнијски технолошки институт
+    sr_el: Kalifornijski tehnološki institut
     su: Caltech
     sv: California Institute of Technology
     ta: கலிபோர்னியா தொழில்நுட்பக் கல்வி நிலையம்
@@ -123,12 +123,12 @@ dv_has_:
     yo: California Institute of Technology
     yue: 加州理工學院
     zh: 加州理工學院
-    zh-cn: 加州理工学院
-    zh-hans: 加州理工学院
-    zh-hant: 加州理工學院
-    zh-hk: 加州理工學院
-    zh-sg: 加州理工学院
-    zh-tw: 加州理工學院
+    zh_cn: 加州理工学院
+    zh_hans: 加州理工学院
+    zh_hant: 加州理工學院
+    zh_hk: 加州理工學院
+    zh_sg: 加州理工学院
+    zh_tw: 加州理工學院
 aliases:
 - California Institute of Technology
 - California Tehnoloogiainstituut

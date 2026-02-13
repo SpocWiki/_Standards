@@ -116,7 +116,7 @@ dv_has_:
     ast: pediatría
     az: pediatriya
     be: педыятрыя
-    be-tarask: пэдыятрыя
+    be_tarask: пэдыятрыя
     bg: Педиатрия
     bn: শিশুচিকিৎসাবিজ্ঞান
     bs: Pedijatrija
@@ -127,8 +127,8 @@ dv_has_:
     de: Pädiatrie
     el: παιδιατρική
     en: pediatrics
-    en-ca: paediatrics
-    en-gb: paediatrics
+    en_ca: paediatrics
+    en_gb: paediatrics
     en-us: pediatrics
     eo: pediatrio
     es: pediatría
@@ -174,7 +174,7 @@ dv_has_:
     pi: बालरोगशास्त्र
     pl: pediatria
     pt: pediatria
-    pt-br: pediatria
+    pt_br: pediatria
     qu: Wawa hampikamayuq
     ro: pediatrie
     ru: педиатрия
@@ -187,8 +187,8 @@ dv_has_:
     sms: pediatria
     sq: Pediatria
     sr: педијатрија
-    sr-ec: Педијатрија
-    sr-el: Pedijatrija
+    sr_ec: Педијатрија
+    sr_el: Pedijatrija
     sv: pediatrik
     th: กุมารเวชศาสตร์
     tl: pedyatriya
@@ -204,12 +204,12 @@ dv_has_:
     xmf: პედიატრია
     yue: 兒科
     zh: 小兒科
-    zh-cn: 小儿科
-    zh-hans: 小儿科
-    zh-hant: 小兒科
-    zh-hk: 小兒科
-    zh-sg: 小儿科
-    zh-tw: 小兒科
+    zh_cn: 小儿科
+    zh_hans: 小儿科
+    zh_hant: 小兒科
+    zh_hk: 小兒科
+    zh_sg: 小儿科
+    zh_tw: 小兒科
 ---
 # [[Pediatric]] 
 

@@ -3,7 +3,7 @@ has_id_wikidata: Q66793593
 dv_has_:
   name_:
     ar: كوكا
-    be-tarask: кока
+    be_tarask: кока
     bg: Кока
     ca: coca
     de: Kokapflanze

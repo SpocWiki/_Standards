@@ -76,7 +76,7 @@ dv_has_:
     ar: حقل
     az: sahə
     be: поле
-    be-tarask: поле
+    be_tarask: поле
     bg: поле
     bn: ক্ষেত্র
     ca: camp
@@ -107,11 +107,11 @@ dv_has_:
     ka: ფიზიკური ველი
     kaa: fizikalıq maydan
     kk: Физикалық өріс
-    kk-arab: فىيزىيكالىق ٴورىس
+    kk_arab: فىيزىيكالىق ٴورىس
     kk-cn: فىيزىيكالىق ٴورىس
-    kk-cyrl: физикалық өріс
+    kk_cyrl: физикалық өріс
     kk-kz: физикалық өріс
-    kk-latn: fïzïkalıq öris
+    kk_latn: fïzïkalıq öris
     kk-tr: fïzïkalıq öris
     ko: 장
     la: campus physicus
@@ -127,7 +127,7 @@ dv_has_:
     pl: pole
     ps: ميدان
     pt: campo
-    pt-br: campo
+    pt_br: campo
     ro: câmp
     ru: поле
     scn: campu
@@ -149,14 +149,14 @@ dv_has_:
     wuu: 场 (物理)
     yue: 場 (物理)
     zh: 场
-    zh-cn: 场
-    zh-hans: 场
-    zh-hant: 場
-    zh-hk: 場
-    zh-mo: 場
+    zh_cn: 场
+    zh_hans: 场
+    zh_hant: 場
+    zh_hk: 場
+    zh_mo: 場
     zh-my: 场
-    zh-sg: 场
-    zh-tw: 場
+    zh_sg: 场
+    zh_tw: 場
 ---
 # [[Field(Physics)]] 
 

@@ -189,7 +189,7 @@ dv_has_:
     bar: Blaise Pascal
     bcl: Blaise Pascal
     be: Блез Паскаль
-    be-tarask: Блез Паскаль
+    be_tarask: Блез Паскаль
     bg: Блез Паскал
     bn: ব্লেজ পাস্কাল
     bo: ཕི་ལེ་ཟི་ཕ་སི་ཁལ།
@@ -203,13 +203,13 @@ dv_has_:
     cy: Blaise Pascal
     da: Blaise Pascal
     de: Blaise Pascal
-    de-ch: Blaise Pascal
+    de_ch: Blaise Pascal
     diq: Blaise Pascal
     dsb: Blaise Pascal
     el: Μπλεζ Πασκάλ
     en: Blaise Pascal
-    en-ca: Blaise Pascal
-    en-gb: Blaise Pascal
+    en_ca: Blaise Pascal
+    en_gb: Blaise Pascal
     en-us: Blaise Pascal
     eo: Blaise Pascal
     es: Blaise Pascal
@@ -285,7 +285,7 @@ dv_has_:
     pnb: بلیس پاسکل
     ps: بلیز پاسکال
     pt: Blaise Pascal
-    pt-br: Blaise Pascal
+    pt_br: Blaise Pascal
     qu: Blaise Pascal
     ro: Blaise Pascal
     ru: Блез Паскаль
@@ -326,14 +326,14 @@ dv_has_:
     yo: Blaise Pascal
     yue: 布萊士帕斯卡
     zh: 布萊茲·帕斯卡
-    zh-cn: 布莱兹·帕斯卡
-    zh-hans: 布莱兹·帕斯卡
-    zh-hant: 布莱兹·帕斯卡
-    zh-hk: 布莱兹·帕斯卡
-    zh-mo: 布莱兹·帕斯卡
+    zh_cn: 布莱兹·帕斯卡
+    zh_hans: 布莱兹·帕斯卡
+    zh_hant: 布莱兹·帕斯卡
+    zh_hk: 布莱兹·帕斯卡
+    zh_mo: 布莱兹·帕斯卡
     zh-my: 布莱兹·帕斯卡
-    zh-sg: 布莱兹·帕斯卡
-    zh-tw: 布萊茲·帕斯卡
+    zh_sg: 布莱兹·帕斯卡
+    zh_tw: 布萊茲·帕斯卡
 ---
 # [[Pascal,Blaise]] 
 

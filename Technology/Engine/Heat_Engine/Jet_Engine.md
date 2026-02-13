@@ -102,7 +102,7 @@ dv_has_:
     ast: motor de reaición
     az: Reaktiv mühərrik
     azb: جت موتور
-    be-tarask: рэактыўны рухавік
+    be_tarask: рэактыўны рухавік
     bg: Турбореактивен двигател
     bn: জেট ইঞ্জিন
     bs: Mlazni motor
@@ -114,8 +114,8 @@ dv_has_:
     de: Strahltriebwerk
     el: κινητήρας αεριώθησης
     en: jet engine
-    en-ca: Jet engine
-    en-gb: jet engine
+    en_ca: Jet engine
+    en_gb: jet engine
     eo: jetmotoro
     es: motor de reacción
     et: Reaktiivmootor
@@ -137,11 +137,11 @@ dv_has_:
     jam: Jet injin
     ka: ჰაერრეაქტიული ძრავა
     kk: Реактивті әуе қозғалтқышы
-    kk-arab: رەاكتىيۆتى اۋە قوزعالتقىشى
+    kk_arab: رەاكتىيۆتى اۋە قوزعالتقىشى
     kk-cn: رەاكتىيۆتى اۋە قوزعالتقىشى
-    kk-cyrl: Реактивті әуе қозғалтқышы
+    kk_cyrl: Реактивті әуе қозғалтқышы
     kk-kz: Реактивті әуе қозғалтқышы
-    kk-latn: Reaktïvti äwe qozğaltqışı
+    kk_latn: Reaktïvti äwe qozğaltqışı
     kk-tr: Reaktïvti äwe qozğaltqışı
     ko: 제트 엔진
     ku: Motora jet
@@ -164,7 +164,7 @@ dv_has_:
     pl: silnik odrzutowy
     pnb: جیٹ انجن
     pt: motor a reação
-    pt-br: motor a reação
+    pt_br: motor a reação
     ro: motor cu reacție
     ru: реактивный двигатель
     sco: jet ingine
@@ -174,8 +174,8 @@ dv_has_:
     sl: reaktivni motor
     sq: Motori reaktiv
     sr: млазни мотор
-    sr-ec: млазни мотор
-    sr-el: mlazni motor
+    sr_ec: млазни мотор
+    sr_el: mlazni motor
     sv: jetmotor
     ta: தாரைப் பொறி
     tg: Муҳаррики реактивӣ
@@ -189,12 +189,12 @@ dv_has_:
     wuu: 喷气发动机
     yue: 噴射引擎
     zh: 喷气发动机
-    zh-cn: 喷气发动机
-    zh-hans: 喷气发动机
-    zh-hant: 噴射發動機
-    zh-hk: 噴射引擎
-    zh-sg: 喷气发动机
-    zh-tw: 噴射發動機
+    zh_cn: 喷气发动机
+    zh_hans: 喷气发动机
+    zh_hant: 噴射發動機
+    zh_hk: 噴射引擎
+    zh_sg: 喷气发动机
+    zh_tw: 噴射發動機
     zu: Isilumbamdiki somtshazo
 ---
 # [[Jet_Engine]] 

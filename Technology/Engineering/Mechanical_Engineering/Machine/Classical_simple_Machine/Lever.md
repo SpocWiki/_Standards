@@ -109,7 +109,7 @@ dv_has_:
     ast: palanca
     az: ling
     be: Рычаг
-    be-tarask: рычаг
+    be_tarask: рычаг
     bew: Dongkèl
     bg: Лост
     bn: লিভার (যন্ত্র)
@@ -205,9 +205,9 @@ dv_has_:
     wuu: 杠杆
     yue: 槓桿
     zh: 杠杆
-    zh-hant: 槓桿
-    zh-hk: 槓桿
-    zh-tw: 槓桿
+    zh_hant: 槓桿
+    zh_hk: 槓桿
+    zh_tw: 槓桿
 ---
 # [[Lever]] 
 

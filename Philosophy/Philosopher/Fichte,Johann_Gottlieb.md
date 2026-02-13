@@ -157,7 +157,7 @@ dv_has_:
     az: Yohann Qotlib Fixte
     azb: یوهان قوتلیب فیشته
     be: Іаган Готліб Фіхтэ
-    be-tarask: Ёган Готліб Фіхтэ
+    be_tarask: Ёган Готліб Фіхтэ
     bg: Йохан Готлиб Фихте
     bn: ইয়োহান গটলিব ফিখটে
     bs: Johann Gottlieb Fichte
@@ -194,11 +194,11 @@ dv_has_:
     jv: Johann Gottlieb Fichte
     ka: იოჰან გოტლიბ ფიხტე
     kk: Йоһанн Готтлиб Фихте
-    kk-arab: يوحانن گوتتلىيب فىيحتە
+    kk_arab: يوحانن گوتتلىيب فىيحتە
     kk-cn: يوحانن گوتتلىيب فىيحتە
-    kk-cyrl: Йоһанн Готтлиб Фихте
+    kk_cyrl: Йоһанн Готтлиб Фихте
     kk-kz: Йоһанн Готтлиб Фихте
-    kk-latn: Ýohann Gottlïb Fïxte
+    kk_latn: Ýohann Gottlïb Fïxte
     kk-tr: Ýohann Gottlïb Fïxte
     ko: 요한 고틀리프 피히테
     ky: Фихте, Иоганн Готлиб
@@ -220,7 +220,7 @@ dv_has_:
     pnb: جوہان گوٹلِب فِشٹ
     ps: یوهان ګوټليب فيشته
     pt: Johann Gottlieb Fichte
-    pt-br: Johann Gottlieb Fichte
+    pt_br: Johann Gottlieb Fichte
     ro: Johann Gottlieb Fichte
     ru: Иоганн Готлиб Фихте
     sco: Johann Gottlieb Fichte
@@ -229,8 +229,8 @@ dv_has_:
     sl: Johann Gottlieb Fichte
     sq: Johann Gottlieb Fichte
     sr: Johan Gotlib Fihte
-    sr-ec: Јохан Готлиб Фихте
-    sr-el: Johan Gotlib Fihte
+    sr_ec: Јохан Готлиб Фихте
+    sr_el: Johan Gotlib Fihte
     sv: Johann Gottlieb Fichte
     ta: யோஃகான் ஃவிக்டெ
     th: โยฮัน ก็อทลีพ ฟิชเทอ
@@ -246,12 +246,12 @@ dv_has_:
     yue: 費希特
     zgh: ⵢⵓⵀⴰⵏ ⴳⵓⵜⵍⵉⴱ ⴼⵉⵅⵜ
     zh: 約翰·戈特利布·費希特
-    zh-cn: 约翰·戈特利布·费希特
+    zh_cn: 约翰·戈特利布·费希特
     zh-hans: 约翰·戈特利布·费希特
-    zh-hant: 約翰·戈特利布·費希特
-    zh-hk: 約翰·戈特利布·費希特
-    zh-sg: 约翰·戈特利布·费希特
-    zh-tw: 約翰·戈特利布·費希特
+    zh_hant: 約翰·戈特利布·費希特
+    zh_hk: 約翰·戈特利布·費希特
+    zh_sg: 约翰·戈特利布·费希特
+    zh_tw: 約翰·戈特利布·費希特
 ---
 # [[Fichte,Johann_Gottlieb]] 
 

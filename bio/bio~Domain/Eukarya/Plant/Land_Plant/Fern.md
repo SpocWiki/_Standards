@@ -141,7 +141,7 @@ dv_has_:
     ast: Filicopsida
     bcl: Pako
     be: папаратнікі
-    be-tarask: папаратнікі
+    be_tarask: папаратнікі
     bg: папрат
     bjn: Paku
     bn: ফার্ন
@@ -188,7 +188,7 @@ dv_has_:
     ko: 양치류
     koi: Ошсьӧктан
     ku: Serxes
-    ku-latn: serxes
+    ku_latn: serxes
     kw: reden
     ky: Папоротниктер
     la: Filix
@@ -209,7 +209,7 @@ dv_has_:
     nan: Koeh-lūi
     nap: Févece
     nb: bregner
-    nds-nl: adderblad
+    nds_nl: adderblad
     ne: उन्यू
     nl: varens
     nn: bregne
@@ -232,7 +232,7 @@ dv_has_:
     sl: praprotnice
     sq: Fiere
     sr: папрати
-    sr-ec: папрати
+    sr_ec: папрати
     su: Tutuwuhan Paku
     sv: Ormbunksväxter
     sw: Jimbi (ngeli ya mimea)
@@ -243,7 +243,7 @@ dv_has_:
     to: ʻakau tengaefuefu
     tr: Eğrelti
     tt: абагасыманнар
-    tt-cyrl: абагасыманнар
+    tt_cyrl: абагасыманнар
     tw: Aya
     uk: папороті
     vi: Ngành Dương xỉ
@@ -252,9 +252,9 @@ dv_has_:
     wuu: 真蕨类
     yue: 真蕨類
     zh: 真蕨類
-    zh-cn: 真蕨类
-    zh-hans: 真蕨类
-    zh-hant: 真蕨類
+    zh_cn: 真蕨类
+    zh_hans: 真蕨类
+    zh_hant: 真蕨類
 ---
 # [[Fern]]
 

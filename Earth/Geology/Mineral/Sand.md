@@ -197,7 +197,7 @@ dv_has_:
     bar: Sond
     bcl: basud
     be: пясок
-    be-tarask: пясок
+    be_tarask: пясок
     bew: pasir
     bg: пясък
     bjn: karangan
@@ -278,7 +278,7 @@ dv_has_:
     nah: xālli
     nb: sand
     nds: Sand
-    nds-nl: zaand
+    nds_nl: zaand
     ne: बालुवा
     new: फि
     nl: zand
@@ -291,7 +291,7 @@ dv_has_:
     pl: piasek
     pnb: ریت
     pt: areia
-    pt-br: areia
+    pt_br: areia
     qu: aqu
     ro: nisip
     roa-tara: réne
@@ -333,7 +333,7 @@ dv_has_:
     yo: iyanrìn
     yue: 沙
     zh: 沙
-    zh-hans: 沙
+    zh_hans: 沙
 ---
 # [[Sand]] 
 

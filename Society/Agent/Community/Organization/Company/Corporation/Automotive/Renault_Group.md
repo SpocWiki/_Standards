@@ -223,7 +223,7 @@ dv_has_:
     az: Renault
     azb: رنو
     be: Рэно
-    be-tarask: Рэно
+    be_tarask: Рэно
     bg: Рено
     bho: रेनो
     bn: রেনোঁ
@@ -240,8 +240,8 @@ dv_has_:
     el: Renault
     eml: Renault
     en: Renault
-    en-ca: Renault
-    en-gb: Renault
+    en_ca: Renault
+    en_gb: Renault
     eo: Renault
     es: Renault
     et: Renault
@@ -299,7 +299,7 @@ dv_has_:
     pl: Renault
     pms: Renault
     pt: Renault
-    pt-br: Renault
+    pt_br: Renault
     rm: Renault
     ro: Renault
     roa-tara: Renault
@@ -326,9 +326,9 @@ dv_has_:
     yue: 雷諾
     zea: Renault
     zh: 雷诺
-    zh-cn: 雷诺
-    zh-hans: 雷诺
-    zh-hant: 雷諾
+    zh_cn: 雷诺
+    zh_hans: 雷诺
+    zh_hant: 雷諾
 ---
 # [[Renault_Group]] 
 

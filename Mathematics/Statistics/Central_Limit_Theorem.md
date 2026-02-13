@@ -58,14 +58,14 @@ dv_has_:
     ar: مبرهنة النهاية المركزية
     ast: Teorema de la llende central
     be: цэнтральная лімітавая тэарэма
-    be-tarask: цэнтральная гранічная тэарэма
+    be_tarask: цэнтральная гранічная тэарэма
     ca: teorema del límit central
     cs: Centrální limitní věta
     de: zentraler Grenzwertsatz
     el: Θεώρημα κεντρικού ορίου
     en: central limit theorem
-    en-ca: Central limit theorem
-    en-gb: Central limit theorem
+    en_ca: Central limit theorem
+    en_gb: Central limit theorem
     eo: centra limesa teoremo
     es: teorema del límite central
     et: Tsentraalne piirteoreem
@@ -88,7 +88,7 @@ dv_has_:
     nl: centrale limietstelling
     pl: centralne twierdzenie graniczne
     pt: teorema do limite central
-    pt-br: teorema do limite central
+    pt_br: teorema do limite central
     ru: Центральная предельная теорема
     sl: centralni limitni izrek
     sq: Teorema Qëndrore Limite

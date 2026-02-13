@@ -523,12 +523,12 @@ dv_has_:
     yue: 維基數據
     za: Veizgiek Soqgi
     zh: 维基数据
-    zh-cn: 维基数据
-    zh-hk: 維基數據
-    zh-mo: 維基數據
+    zh_cn: 维基数据
+    zh_hk: 維基數據
+    zh_mo: 維基數據
     zh-my: 维基数据
-    zh-sg: 维基数据
-    zh-tw: 維基數據
+    zh_sg: 维基数据
+    zh_tw: 維基數據
     kaa: Wikimaǵlıwmatlar
     tt: Викимәгълүматлар
     igl: túyú éwú kúmà dó lébél
@@ -538,8 +538,8 @@ dv_has_:
     sjd: Викида̄ннэ
     ps: ويکياومتوک
     en: Wikidata
-    zh-hans: 维基数据
-    zh-hant: 維基數據
+    zh_hans: 维基数据
+    zh_hant: 維基數據
     cs: Wikidata
     ko: 위키데이터
     fa: ویکیداده
@@ -551,12 +551,12 @@ dv_has_:
     tok: lipu Wikinanpa
     mul: Wikidata
     ar: ويكي بيانات
-    be-tarask: Вікізьвесткі
+    be_tarask: Вікізьвесткі
     ka: ვიკიმონაცემები
     cdo: 維基數據
     ru: Викиданные
     ab: Авикидыррақәа
-    aeb-arab: ويكي معلومة
+    aeb_arab: ويكي معلومة
     arz: ويكى داتا
     as: ৱিকিতথ্য
     az: Vikidata
@@ -592,7 +592,7 @@ dv_has_:
     ko-kp: 위키자료
     ks: وِکیٖڈیٹا
     ku: Wîkîdane
-    ku-latn: Wîkîdane
+    ku_latn: Wîkîdane
     ky: Викимаалымат
     lfn: Vicidatos
     lt: Vikiduomenys
@@ -601,7 +601,7 @@ dv_has_:
     mhr: Викидата
     mk: Википодатоци
     mr: विकिडाटा
-    ms-arab: ويکيتداتا
+    ms_arab: ويکيتداتا
     mt: Wikidata
     my: ဝီကီဒေတာ
     mzn: ویکیدیتا
@@ -619,8 +619,8 @@ dv_has_:
     sk: Wikiúdaje
     sl: Wikipodatki
     sr: Википодаци
-    sr-ec: Википодаци
-    sr-el: Vikipodaci
+    sr_ec: Википодаци
+    sr_el: Vikipodaci
     syl: ꠃꠁꠇꠤꠒꠣꠐꠣ
     ta: விக்கித்தரவு
     tdd: ᥝᥤᥱ ᥑᥤᥱ ᥖᥥᥱ ᥖᥣᥱ
@@ -628,8 +628,8 @@ dv_has_:
     th: วิกิสนเทศ
     ti: ዊኪዳታ
     tr: Vikiveri
-    tt-cyrl: Викибирелмәләр
-    tt-latn: Wikibirelmälär
+    tt_cyrl: Викибирелмәләр
+    tt_latn: Wikibirelmälär
     udm: Викитодэтъёсы
     uk: Вікідані
     ur: ویکیڈیٹا

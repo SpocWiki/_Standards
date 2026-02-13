@@ -2,7 +2,7 @@
 has_id_wikidata: Q81881
 dv_has_:
   name_:
-    aeb-arab: فرشيطة
+    aeb_arab: فرشيطة
     an: forqueta
     ar: شوكة
     arq: فرشيطة
@@ -12,7 +12,7 @@ dv_has_:
     az: çəngəl
     bcl: tinidor
     be: відэлец
-    be-tarask: відэлец
+    be_tarask: відэлец
     bew: garpu
     bg: вилица
     bn: কাঁটা চামচ
@@ -24,13 +24,13 @@ dv_has_:
     cy: fforc
     da: gaffel
     de: Gabel
-    de-ch: Gabel
+    de_ch: Gabel
     diq: çatale
     el: πιρούνι
     eml: fursèina
     en: fork
-    en-ca: fork
-    en-gb: fork
+    en_ca: fork
+    en_gb: fork
     en-us: fork
     eo: forko
     es: tenedor
@@ -78,7 +78,7 @@ dv_has_:
     my: ခက်ရင်း
     nan: chhiám-á
     nb: gaffel
-    nds-nl: vorke
+    nds_nl: vorke
     nl: vork
     nn: gaffel
     oc: forqueta
@@ -86,7 +86,7 @@ dv_has_:
     pl: widelec
     ps: غاښۍ
     pt: garfo
-    pt-br: garfo
+    pt_br: garfo
     qu: tinirur
     ro: furculiță
     rsk: Видлїчка
@@ -101,8 +101,8 @@ dv_has_:
     sl: vilice
     sq: pirun
     sr: виљушка
-    sr-ec: виљушка
-    sr-el: viljuška
+    sr_ec: виљушка
+    sr_el: viljuška
     su: garpu
     sv: gaffel
     sw: uma

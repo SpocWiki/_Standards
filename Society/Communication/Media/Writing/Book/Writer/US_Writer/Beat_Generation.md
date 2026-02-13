@@ -66,7 +66,7 @@ dv_has_:
     ar: جيل بيت
     az: Bit cərəyanı
     be: Разбітае пакаленне
-    be-tarask: Разьбітае пакаленьне
+    be_tarask: Разьбітае пакаленьне
     bg: Бийт поколение
     bn: বিট প্রজন্ম
     ca: generació beat
@@ -117,12 +117,12 @@ dv_has_:
     uk: біт-покоління
     uz: Sindirilgan avlod
     zh: 垮掉的一代
-    zh-cn: 垮掉的一代
-    zh-hans: 垮掉的一代
-    zh-hant: 垮掉的一代
-    zh-hk: 垮掉的一代
-    zh-sg: 垮掉的一代
-    zh-tw: 垮掉的一代
+    zh_cn: 垮掉的一代
+    zh_hans: 垮掉的一代
+    zh_hant: 垮掉的一代
+    zh_hk: 垮掉的一代
+    zh_sg: 垮掉的一代
+    zh_tw: 垮掉的一代
 ---
 # [[Beat_Generation]] 
 

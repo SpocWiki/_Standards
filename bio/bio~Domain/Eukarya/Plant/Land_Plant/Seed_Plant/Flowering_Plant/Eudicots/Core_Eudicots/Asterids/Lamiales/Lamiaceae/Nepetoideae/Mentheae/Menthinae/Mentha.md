@@ -160,7 +160,7 @@ dv_has_:
     azb: نانه
     ba: Мөртлөк
     be: Мята
-    be-tarask: мята
+    be_tarask: мята
     bg: мента
     bn: মেন্থা
     br: Bent
@@ -242,7 +242,7 @@ dv_has_:
     pam: Mentha
     pl: mięta
     pt: Mentha
-    pt-br: Mentha
+    pt_br: Mentha
     ro: Mentă
     roa-tara: mende
     ru: мята
@@ -256,8 +256,8 @@ dv_has_:
     sl: meta
     sq: nenexhik
     sr: нана
-    sr-ec: нана
-    sr-el: nana
+    sr_ec: нана
+    sr_el: nana
     su: Mentha
     sv: myntasläktet
     ta: புதினா
@@ -283,10 +283,10 @@ dv_has_:
     yue: 薄荷
     za: Bozhoz
     zh: 薄荷属
-    zh-cn: 薄荷属
-    zh-hans: 薄荷属
-    zh-hant: 薄荷屬
-    zh-tw: 薄荷屬
+    zh_cn: 薄荷属
+    zh_hans: 薄荷属
+    zh_hant: 薄荷屬
+    zh_tw: 薄荷屬
 ---
 # [[Mentha]] 
 

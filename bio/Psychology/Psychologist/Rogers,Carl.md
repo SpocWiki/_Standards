@@ -87,7 +87,7 @@ dv_has_:
     az: Karl Rensom Rocers
     azb: کارل راجرز
     ba: Карл Роджерс
-    be-tarask: Карл Роджэрз
+    be_tarask: Карл Роджэрз
     bg: Карл Роджърс
     bn: কার্ল রজার্স
     cy: Carl Ransom Rogers
@@ -116,12 +116,12 @@ dv_has_:
     wuu: 卡尔·罗哲斯
     yue: 卡爾·羅哲斯
     zh: 卡爾·羅哲斯
-    zh-cn: 卡尔·罗哲斯
-    zh-hans: 卡尔·罗哲斯
-    zh-hant: 卡爾·羅哲斯
-    zh-hk: 卡爾·羅哲斯
-    zh-sg: 卡尔·罗哲斯
-    zh-tw: 卡爾·羅哲斯
+    zh_cn: 卡尔·罗哲斯
+    zh_hans: 卡尔·罗哲斯
+    zh_hant: 卡爾·羅哲斯
+    zh_hk: 卡爾·羅哲斯
+    zh_sg: 卡尔·罗哲斯
+    zh_tw: 卡爾·羅哲斯
 ---
 # [[Rogers,Carl]] 
 

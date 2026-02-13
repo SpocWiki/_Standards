@@ -93,7 +93,7 @@ dv_has_:
     ast: Emulsión
     az: Emulsiya
     be: эмульсія
-    be-tarask: эмульсія
+    be_tarask: эмульсія
     bg: Емулсия
     bn: অবদ্রব
     bs: Emulzija
@@ -144,8 +144,8 @@ dv_has_:
     sl: emulzija
     sq: Emulsioni
     sr: емулзија
-    sr-ec: емулзија
-    sr-el: Emulzija
+    sr_ec: емулзија
+    sr_el: Emulzija
     sv: emulsion
     ta: பால்மம்
     th: อิมัลชัน
@@ -157,12 +157,12 @@ dv_has_:
     wuu: 乳浊液
     yue: 乳化液
     zh: 乳浊液
-    zh-cn: 乳浊液
-    zh-hans: 乳浊液
-    zh-hant: 乳濁液
-    zh-hk: 乳濁液
-    zh-sg: 乳浊液
-    zh-tw: 乳濁液
+    zh_cn: 乳浊液
+    zh_hans: 乳浊液
+    zh_hant: 乳濁液
+    zh_hk: 乳濁液
+    zh_sg: 乳浊液
+    zh_tw: 乳濁液
 ---
 # [[Emulsion]] 
 

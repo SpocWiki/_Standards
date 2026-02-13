@@ -129,7 +129,7 @@ dv_has_:
     ast: Alexis de Tocqueville
     az: Aleksis de Tokvil
     be: Алексіс дэ Таквіль
-    be-tarask: Алексіс дэ Таквіль
+    be_tarask: Алексіс дэ Таквіль
     bg: Алексис дьо Токвил
     br: Alexis de Tocqueville
     bs: Alexis de Tocqueville
@@ -164,17 +164,17 @@ dv_has_:
     ja: アレクシ・ド・トクヴィル
     ka: ალექსის დე ტოკვილი
     kk: Токвиль Алексис
-    kk-arab: توكۆىيل الەكسىيس
+    kk_arab: توكۆىيل الەكسىيس
     kk-cn: توكۆىيل الەكسىيس
-    kk-cyrl: Токвиль Алексис
+    kk_cyrl: Токвиль Алексис
     kk-kz: Токвиль Алексис
-    kk-latn: Tokvïlʹ Aleksïs
+    kk_latn: Tokvïlʹ Aleksïs
     kk-tr: Tokvïlʹ Aleksïs
     kn: ಅಲೆಕ್ಸಿಸ್ ಡ ಟಾಕ್ವೀಲ್
     ko: 알렉시 드 토크빌
     ku: Alexis de Tocqueville
-    ku-arab: ئالەخس دە تۆجقوەڤللە
-    ku-latn: Alexis de Tocqueville
+    ku_arab: ئالەخس دە تۆجقوەڤللە
+    ku_latn: Alexis de Tocqueville
     ky: Токвиль Алексис
     la: Alexis de Tocqueville
     lb: Alexis de Tocqueville
@@ -197,7 +197,7 @@ dv_has_:
     pms: Alexis de Tocqueville
     ps: الېکسي دو توکوېل
     pt: Alexis de Tocqueville
-    pt-br: Alexis de Tocqueville
+    pt_br: Alexis de Tocqueville
     ro: Alexis de Tocqueville
     ru: Алексис де Токвиль
     sco: Alexis de Tocqueville
@@ -206,8 +206,8 @@ dv_has_:
     sl: Alexis de Tocqueville
     sq: Alexis de Tocqueville
     sr: Алексис де Токвил
-    sr-ec: Алексис де Токвил
-    sr-el: Aleksis de Tokvil
+    sr_ec: Алексис де Токвил
+    sr_el: Aleksis de Tokvil
     sv: Alexis de Tocqueville
     th: อาแล็กซี เดอ ต็อกวีล
     tr: Alexis de Tocqueville
@@ -216,12 +216,12 @@ dv_has_:
     wuu: 亚历西斯·德·托克维尔
     yue: 亞歷西斯·德·托克維爾
     zh: 亞歷西斯·托克維爾
-    zh-cn: 亚历西斯·德·托克维尔
-    zh-hans: 亚历西斯·德·托克维尔
-    zh-hant: 亞歷西斯·德·托克維爾
-    zh-hk: 亞歷西斯·德·托克維爾
-    zh-sg: 亚历西斯·德·托克维尔
-    zh-tw: 亞歷西斯·德·托克維爾
+    zh_cn: 亚历西斯·德·托克维尔
+    zh_hans: 亚历西斯·德·托克维尔
+    zh_hant: 亞歷西斯·德·托克維爾
+    zh_hk: 亞歷西斯·德·托克維爾
+    zh_sg: 亚历西斯·德·托克维尔
+    zh_tw: 亞歷西斯·德·托克維爾
 ---
 # [[Tocqueville,Alexis_de]] 
 

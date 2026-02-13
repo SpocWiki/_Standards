@@ -138,7 +138,7 @@ native_label: ܠܫܢܐ ܣܘܪܝܝܐ
 Dewey_Decimal_Classification: 492.3
 dv_has_:
   name_:
-    aeb-arab: السريانية
+    aeb_arab: السريانية
     af: Siries
     ar: السريانية
     arc: ܠܫܢܐ ܣܘܪܝܝܐ
@@ -148,7 +148,7 @@ dv_has_:
     azb: سریانی دیلی
     ba: Сүриә теле
     be: сірыйская мова
-    be-tarask: сырыйская мова
+    be_tarask: сырыйская мова
     bg: Сирийски език
     bn: সিরীয় ভাষা
     br: sirieg
@@ -162,8 +162,8 @@ dv_has_:
     diq: Suryanki
     el: Συριακή γλώσσα
     en: Syriac
-    en-ca: Syriac
-    en-gb: Syriac
+    en_ca: Syriac
+    en_gb: Syriac
     eo: siria lingvo
     es: siríaco
     et: Vanasüüria keel
@@ -212,7 +212,7 @@ dv_has_:
     pnb: سیریائی
     ps: سرياني ژبه
     pt: Língua siríaca
-    pt-br: língua siríaca
+    pt_br: língua siríaca
     ro: Limba siriacă
     ru: сирийский язык
     scn: sirìacu
@@ -240,9 +240,9 @@ dv_has_:
     wuu: 叙利亚语
     yue: 敘利亞文
     zh: 敘利亞語
-    zh-cn: 叙利亚语
-    zh-hans: 叙利亚语
-    zh-hant: 敘利亞語
+    zh_cn: 叙利亚语
+    zh_hans: 叙利亚语
+    zh_hant: 敘利亞語
 ---
 # [[Syriac]] 
 

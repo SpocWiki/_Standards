@@ -203,7 +203,7 @@ dv_has_:
     ba: Рихард Вагнер
     bar: Richard Wagner
     be: Вільгельм Рыхард Вагнер
-    be-tarask: Рыхард Вагнэр
+    be_tarask: Рыхард Вагнэр
     bg: Рихард Вагнер
     bho: रिचार्ड वैगनर
     bi: Richard Wagner
@@ -224,12 +224,12 @@ dv_has_:
     cy: Richard Wagner
     da: Richard Wagner
     de: Richard Wagner
-    de-ch: Richard Wagner
+    de_ch: Richard Wagner
     diq: Richard Wagner
     el: Ρίχαρντ Βάγκνερ
     en: Richard Wagner
-    en-ca: Richard Wagner
-    en-gb: Richard Wagner
+    en_ca: Richard Wagner
+    en_gb: Richard Wagner
     eo: Richard Wagner
     es: Richard Wagner
     et: Richard Wagner
@@ -285,7 +285,7 @@ dv_has_:
     lmo: Richard Wagner
     lt: Richard Wagner
     lv: Rihards Vāgners
-    map-bms: Richard Wagner
+    map_bms: Richard Wagner
     mg: Richard Wagner
     min: Richard Wagner
     mk: Рихард Вагнер
@@ -314,7 +314,7 @@ dv_has_:
     pms: Richard Wagner
     pnb: رچرڈ ویگنر
     pt: Richard Wagner
-    pt-br: Richard Wagner
+    pt_br: Richard Wagner
     qu: Richard Wagner
     rm: Richard Wagner
     ro: Richard Wagner
@@ -357,10 +357,10 @@ dv_has_:
     yo: Richard Wagner
     yue: 華格納
     zh: 理查德·瓦格納
-    zh-cn: 理查德·瓦格纳
-    zh-hans: 理查德·瓦格纳
-    zh-hant: 理查德·瓦格納
-    zh-tw: 理查·華格納
+    zh_cn: 理查德·瓦格纳
+    zh_hans: 理查德·瓦格纳
+    zh_hant: 理查德·瓦格納
+    zh_tw: 理查·華格納
 ---
 # [[Wagner,Richard]] 
 

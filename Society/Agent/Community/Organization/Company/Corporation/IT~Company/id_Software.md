@@ -25,11 +25,11 @@ dv_has_:
     cs: id Software
     da: id Software
     de: id Software
-    de-ch: Id Software
+    de_ch: Id Software
     el: id Software
     en: id Software
-    en-ca: Id Software
-    en-gb: id Software
+    en_ca: Id Software
+    en_gb: id Software
     eo: id Software
     es: id Software
     fa: اید سافتویر
@@ -54,26 +54,26 @@ dv_has_:
     nl: id Software
     pl: id Software
     pt: id Software
-    pt-br: Id Software
+    pt_br: Id Software
     ro: Id Software
     ru: id Software
     sk: id Software
     sl: id Software
     sr: Id Software
-    sr-ec: id Software
-    sr-el: id Software
+    sr_ec: id Software
+    sr_el: id Software
     sv: Id Software
     tr: id Software
     uk: id Software
     vi: Id Software
     wuu: Id Software
     zh: Id Software
-    zh-cn: id Software
-    zh-hans: id Software
-    zh-hant: id Software
-    zh-hk: id Software
-    zh-sg: id Software
-    zh-tw: id Software
+    zh_cn: id Software
+    zh_hans: id Software
+    zh_hant: id Software
+    zh_hk: id Software
+    zh_sg: id Software
+    zh_tw: id Software
 ---
 ## #has_/text_of_/abstract 
 

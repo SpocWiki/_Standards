@@ -37,7 +37,7 @@ dv_has_:
     oc: Dictyoglomus
     pl: Dictyoglomus
     pt: Dictyoglomus
-    pt-br: Dictyoglomus
+    pt_br: Dictyoglomus
     ro: Dictyoglomus
     ru: Dictyoglomus
     sq: Dictyoglomus

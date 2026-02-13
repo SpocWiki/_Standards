@@ -160,7 +160,7 @@ dv_has_:
     ast: Jackson Pollock
     az: Cekson Pollok
     be: Джэксан Полак
-    be-tarask: Джэксан Полак
+    be_tarask: Джэксан Полак
     bg: Джаксън Полък
     bn: জ্যাকসন পোলক
     bpy: জ্যাকসন পলক
@@ -227,7 +227,7 @@ dv_has_:
     pl: Jackson Pollock
     pnb: جیکسن پولاک
     pt: Jackson Pollock
-    pt-br: Jackson Pollock
+    pt_br: Jackson Pollock
     ro: Jackson Pollock
     ru: Джексон Поллок
     sah: Поллок Джексон
@@ -254,7 +254,7 @@ dv_has_:
     xmf: ჯექსონ პოლოკი
     yue: 積臣普樂
     zh: 杰克逊·波洛克
-    zh-hk: 積遜·波歷
+    zh_hk: 積遜·波歷
 ---
 # [[Pollock,Jackson]] 
 

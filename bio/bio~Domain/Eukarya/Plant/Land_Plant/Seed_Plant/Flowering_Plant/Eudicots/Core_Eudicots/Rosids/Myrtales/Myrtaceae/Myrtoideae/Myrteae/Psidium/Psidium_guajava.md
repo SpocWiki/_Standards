@@ -168,7 +168,7 @@ dv_has_:
     ban: Sotong
     bdr: Biabas
     be: Гуаява
-    be-tarask: гуаява звыйчаная
+    be_tarask: гуаява звыйчаная
     bg: Psidium guajava
     bjn: Jambu karantukal
     bm: Buyaki
@@ -236,7 +236,7 @@ dv_has_:
     pam: Bayabas
     pl: gujawa pospolita
     pt: Goiabeira
-    pt-br: Psidium guajava
+    pt_br: Psidium guajava
     pwn: ljaves
     qu: Sawintu
     ro: Psidium guajava
@@ -273,12 +273,12 @@ dv_has_:
     yue: 番石榴
     za: Maknimhenj
     zh: 番石榴
-    zh-cn: 番石榴
-    zh-hans: 番石榴
-    zh-hant: 番石榴
-    zh-hk: 番石榴
-    zh-sg: 番石榴
-    zh-tw: 番石榴
+    zh_cn: 番石榴
+    zh_hans: 番石榴
+    zh_hant: 番石榴
+    zh_hk: 番石榴
+    zh_sg: 番石榴
+    zh_tw: 番石榴
 ---
 # [[Psidium_guajava]] 
 

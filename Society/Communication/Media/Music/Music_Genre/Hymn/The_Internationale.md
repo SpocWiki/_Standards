@@ -151,7 +151,7 @@ dv_has_:
     az: İnternasional
     ban: Internasionale
     be: Інтэрнацыянал
-    be-tarask: Інтэрнацыянал
+    be_tarask: Інтэрнацыянал
     bew: Keantérobangsaan
     bg: Интернационалът
     br: Kan Etrebroadel al Labourerien
@@ -161,12 +161,12 @@ dv_has_:
     cy: Yr Undeb Rhyngwladol
     da: Internationale
     de: Die Internationale
-    de-ch: Die Internationale
+    de_ch: Die Internationale
     dsb: Internacionala
     el: Η Διεθνής
     en: The Internationale
-    en-ca: The Internationale
-    en-gb: The Internationale
+    en_ca: The Internationale
+    en_gb: The Internationale
     eo: La Internacio
     es: La Internacional
     et: Internatsionaal
@@ -221,7 +221,7 @@ dv_has_:
     pa: ਇੰਤਰਨਾਸਿਓਨਾਲ
     pl: Międzynarodówka
     pt: A Internacional
-    pt-br: A Internacional
+    pt_br: A Internacional
     ro: Internaționala
     ru: Интернационал
     rue: Интернационала
@@ -238,7 +238,7 @@ dv_has_:
     tok: kalama musi Intenasijonale
     tr: Enternasyonal
     tt: Интернационал
-    tt-cyrl: Интернационал
+    tt_cyrl: Интернационал
     udm: Интернационал
     uk: Інтернаціонал
     ur: انترناسیونال
@@ -250,10 +250,10 @@ dv_has_:
     yue: 國際歌
     za: Fwen Lajbiengz
     zh: 國際歌
-    zh-cn: 国际歌
-    zh-hans: 国际歌
-    zh-hant: 國際歌
-    zh-hk: 國際歌
+    zh_cn: 国际歌
+    zh_hans: 国际歌
+    zh_hant: 國際歌
+    zh_hk: 國際歌
 ---
 # [[The_Internationale]] 
 

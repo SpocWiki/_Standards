@@ -11,7 +11,7 @@ dv_has_:
     az: xoşbəxtlik
     bcl: kaugmahan
     be: шчасце
-    be-tarask: шчасьце
+    be_tarask: шчасьце
     bg: щастие
     bho: खुसी
     bn: সুখ
@@ -28,13 +28,13 @@ dv_has_:
     da: lykke
     dag: suhupiɛlli
     de: Glück
-    de-ch: Glück
+    de_ch: Glück
     dsb: gluka
     el: ευτυχία
     eml: cuntintèsa
     en: happiness
-    en-ca: happiness
-    en-gb: happiness
+    en_ca: happiness
+    en_gb: happiness
     eo: feliĉo
     es: felicidad
     et: õnn
@@ -78,7 +78,7 @@ dv_has_:
     kn: ಸಂತೋಷ
     ko: 행복
     ks: خۄشی
-    ku-latn: bextewarî
+    ku_latn: bextewarî
     ky: бакыт
     la: felicitas
     lb: Gléck
@@ -113,7 +113,7 @@ dv_has_:
     pnb: خوشی
     ps: خوښي
     pt: felicidade
-    pt-br: felicidade
+    pt_br: felicidade
     qu: kusikuy
     rn: Umunezero
     ro: fericire
@@ -134,7 +134,7 @@ dv_has_:
     so: farxad
     sq: lumturia
     sr: срећа
-    sr-ec: срећа
+    sr_ec: срећа
     su: kebahagiaan
     sv: lycka
     sw: furaha
@@ -163,14 +163,14 @@ dv_has_:
     yi: פרייד
     yue: 開心
     zh: 快樂
-    zh-cn: 快乐
-    zh-hans: 快乐
-    zh-hant: 快樂
-    zh-hk: 快樂
-    zh-mo: 快樂
+    zh_cn: 快乐
+    zh_hans: 快乐
+    zh_hant: 快樂
+    zh_hk: 快樂
+    zh_mo: 快樂
     zh-my: 快乐
-    zh-sg: 快乐
-    zh-tw: 快樂
+    zh_sg: 快乐
+    zh_tw: 快樂
 aliases:
 - aevhkie
 - anigyeɛ

@@ -89,7 +89,7 @@ dv_has_:
     as: সামাজিক পৰিৱৰ্তন
     ast: cambéu social
     az: Sosial dəyişiklik
-    be-tarask: сацыяльная зьмена
+    be_tarask: сацыяльная зьмена
     bg: социална промяна
     bn: সামাজিক পরিবর্তন
     bs: društvena promjena
@@ -101,8 +101,8 @@ dv_has_:
     diq: Vuriyayışo sosyal
     el: κοινωνική αλλαγή
     en: social change
-    en-ca: social change
-    en-gb: social change
+    en_ca: social change
+    en_gb: social change
     eo: socia ŝanĝo
     es: cambio social
     eu: Gizarte aldaketa
@@ -130,7 +130,7 @@ dv_has_:
     mn: Нийгмийн өөрчлөлт
     mr: सामाजिक बदल
     ms: perubahan sosial
-    ms-arab: ڤراوبهن سوسيال
+    ms_arab: ڤراوبهن سوسيال
     nb: sosial endring
     ne: सामाजिक परिवर्तन
     nl: sociale verandering
@@ -153,7 +153,7 @@ dv_has_:
     vec: cànbio sociałe
     vi: biến đổi xã hội
     zh: 社会变迁
-    zh-hant: 社會變遷
+    zh_hant: 社會變遷
 ---
 # [[Social_Change]] 
 

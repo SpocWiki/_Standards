@@ -88,18 +88,18 @@ dv_has_:
     ast: xeometríes non euclídees
     az: Qeyri-Evklid həndəsəsi
     ba: Евклидтыҡы булмаған геометрия
-    be-tarask: неэўклідава геамэтрыя
+    be_tarask: неэўклідава геамэтрыя
     bg: Неевклидова геометрия
     ca: geometria no euclidiana
     cs: neeukleidovská geometrie
     cv: Евклидла мар геометри
     da: ikke-euklidisk geometri
     de: nichteuklidische Geometrie
-    de-ch: Nichteuklidische Geometrie
+    de_ch: Nichteuklidische Geometrie
     el: Μη ευκλείδειες γεωμετρίες
     en: non-Euclidean geometry
-    en-ca: Non-Euclidean geometry
-    en-gb: non-Euclidean geometry
+    en_ca: Non-Euclidean geometry
+    en_gb: non-Euclidean geometry
     eo: neeŭklida geometrio
     es: geometría no euclidiana
     et: mitteeukleidiline geomeetria
@@ -133,7 +133,7 @@ dv_has_:
     os: нæевклидон геометри
     pl: geometria nieeuklidesowa
     pt: geometria não euclidiana
-    pt-br: geometria não euclidiana
+    pt_br: geometria não euclidiana
     ro: geometrii neeuclidiene
     ru: неевклидова геометрия
     sh: Neeuklidska geometrija
@@ -142,8 +142,8 @@ dv_has_:
     smn: epieuklidisâš geometria
     sq: Gjeometria jo-Euklidiane
     sr: Neeuklidska geometrija
-    sr-ec: Нееуклидска геометрија
-    sr-el: Neeuklidska geometrija
+    sr_ec: Нееуклидска геометрија
+    sr_el: Neeuklidska geometrija
     sv: icke-euklidisk geometri
     tg: Ҳандасаи ноуқлидусӣ
     th: เรขาคณิตนอกแบบยุคลิด
@@ -154,12 +154,12 @@ dv_has_:
     wuu: 非欧几里得几何
     yue: 非歐幾里得幾何
     zh: 非欧几里得几何
-    zh-cn: 非欧几里得几何
-    zh-hans: 非欧几里得几何
-    zh-hant: 非歐幾里得幾何
-    zh-hk: 非歐幾里得幾何
-    zh-sg: 非欧几里得几何
-    zh-tw: 非歐幾里得幾何
+    zh_cn: 非欧几里得几何
+    zh_hans: 非欧几里得几何
+    zh_hant: 非歐幾里得幾何
+    zh_hk: 非歐幾里得幾何
+    zh_sg: 非欧几里得几何
+    zh_tw: 非歐幾里得幾何
 ---
 # [[Non-Euclidean_Geometry]] 
 

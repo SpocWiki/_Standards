@@ -9,8 +9,8 @@ dv_has_:
     de: falsche Erinnerungen
     el: παραμνησία
     en: false memory
-    en-ca: False memory
-    en-gb: false memory
+    en_ca: False memory
+    en_gb: false memory
     eo: falsa memoro
     es: Falsos recuerdos
     et: Valemälestus
@@ -39,8 +39,8 @@ dv_has_:
     vi: Ký ức giả
     yue: 虛假記憶
     zh: 虛假記憶
-    zh-hans: 错误的图像和记忆
-    zh-hant: 錯誤的影象和記憶
+    zh_hans: 错误的图像和记忆
+    zh_hant: 錯誤的影象和記憶
 aliases:
 - fals record
 - falsa memoro

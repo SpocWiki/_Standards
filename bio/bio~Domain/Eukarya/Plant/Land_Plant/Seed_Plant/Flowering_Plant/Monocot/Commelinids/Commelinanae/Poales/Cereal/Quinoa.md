@@ -127,7 +127,7 @@ dv_has_:
     az: Kinoa
     bcl: Quinoa
     be: кіноа
-    be-tarask: кіноа
+    be_tarask: кіноа
     bg: киноа
     bjn: Kinoa
     ca: quinoa
@@ -177,7 +177,7 @@ dv_has_:
     pam: Quinoa
     pl: komosa ryżowa
     pt: Quinoa
-    pt-br: Chenopodium quinoa
+    pt_br: Chenopodium quinoa
     qu: Kinwa
     ro: Chenopodium quinoa
     ru: киноа

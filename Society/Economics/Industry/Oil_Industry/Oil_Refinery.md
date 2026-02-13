@@ -87,7 +87,7 @@ dv_has_:
     arz: تكرير بترول
     ast: refinería de petroleu
     ba: Нефть эшкәртеү заводы
-    be-tarask: нафтаперапрацоўчы завод
+    be_tarask: нафтаперапрацоўчы завод
     bg: Петролна рафинерия
     bn: তেল শোধনাগার
     ca: planta petroquímica
@@ -96,11 +96,11 @@ dv_has_:
     cy: purfa olew
     da: olieraffinaderi
     de: Erdölraffinerie
-    de-ch: Erdölraffinerie
+    de_ch: Erdölraffinerie
     el: διυλιστήριο πετρελαίου
     en: oil refinery
-    en-ca: Oil refinery
-    en-gb: oil refinery
+    en_ca: Oil refinery
+    en_gb: oil refinery
     eo: nafta rafinejo
     es: refinería de petróleo
     eu: Petrolio findegi
@@ -133,7 +133,7 @@ dv_has_:
     pap: Refineria di zeta
     pl: rafineria ropy naftowej
     pt: refinaria
-    pt-br: refinaria
+    pt_br: refinaria
     ro: rafinărie de petrol
     ru: нефтеперерабатывающий завод
     sh: rafinerija nafte

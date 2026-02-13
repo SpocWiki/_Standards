@@ -6,7 +6,7 @@ dv_has_:
     ast: iconoclasta
     az: İkonoborçuluq
     ban: Ikonoklasme
-    be-tarask: іканаборства
+    be_tarask: іканаборства
     bg: иконоборство
     bn: প্রতিমাপূজা বিরোধিতা
     ca: iconoclàstia
@@ -16,7 +16,7 @@ dv_has_:
     de: Ikonoklasmus
     el: εικονομαχία
     en: iconoclasm
-    en-gb: iconoclasm
+    en_gb: iconoclasm
     eo: ikonrompismo
     es: iconoclasia
     et: Ikonoklasm
@@ -58,8 +58,8 @@ dv_has_:
     sl: ikonoklazem
     sq: ikonoklastia
     sr: иконоборство
-    sr-ec: иконоборство
-    sr-el: ikonoborstvo
+    sr_ec: иконоборство
+    sr_el: ikonoborstvo
     sv: ikonoklasm
     ta: உருவ அழிப்பு
     th: ลัทธิทำลายรูปเคารพ
@@ -71,12 +71,12 @@ dv_has_:
     wuu: 圣像破坏主义
     yue: 聖像破壞主義
     zh: 聖像破壞主義
-    zh-cn: 圣像破坏主义
-    zh-hans: 圣像破坏主义
-    zh-hant: 聖像破壞主義
-    zh-hk: 聖像破壞主義
-    zh-sg: 圣像破坏主义
-    zh-tw: 聖像破壞主義
+    zh_cn: 圣像破坏主义
+    zh_hans: 圣像破坏主义
+    zh_hant: 聖像破壞主義
+    zh_hk: 聖像破壞主義
+    zh_sg: 圣像破坏主义
+    zh_tw: 聖像破壞主義
 aliases:
 - bài trừ ảnh tượng
 - delwddrylliad

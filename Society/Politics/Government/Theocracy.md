@@ -119,7 +119,7 @@ dv_has_:
     ba: теократия
     bcl: Teokrasya
     be: тэакратыя
-    be-tarask: тэакратыя
+    be_tarask: тэакратыя
     bg: Теокрация
     bn: ধর্মরাষ্ট্র
     bo: ལྷ་དབང་ཆབ་སྲིད་ལམ་ལུགས།
@@ -132,11 +132,11 @@ dv_has_:
     cy: Theocrataeth
     da: teokrati
     de: Theokratie
-    de-ch: Theokratie
+    de_ch: Theokratie
     el: θεοκρατία
     en: theocracy
-    en-ca: Theocracy
-    en-gb: theocracy
+    en_ca: Theocracy
+    en_gb: theocracy
     eo: teokratio
     es: teocracia
     et: teokraatia
@@ -169,7 +169,7 @@ dv_has_:
     km: ច្បាប់សាសនា
     ko: 신정 정치
     ku: teokrasî
-    ku-latn: teokrasî
+    ku_latn: teokrasî
     ky: Теократия
     la: Theocratia
     lb: Theokratie
@@ -193,7 +193,7 @@ dv_has_:
     pl: Teokracja
     ps: تیوکراسي
     pt: teocracia
-    pt-br: Teocracia
+    pt_br: Teocracia
     ro: teocrație
     ru: теократия
     scn: Teocrazzìa

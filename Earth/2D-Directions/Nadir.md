@@ -71,19 +71,19 @@ dv_has_:
     ast: Nadir
     ba: Надир
     be: Надзір
-    be-tarask: надзір
+    be_tarask: надзір
     bg: Надир
     bn: কুবিন্দু
     ca: nadir
     cs: nadir
     da: Nadir
     de: Nadir
-    de-ch: Nadir
+    de_ch: Nadir
     dsb: Nadir
     el: ναδίρ
     en: nadir
-    en-ca: Nadir
-    en-gb: nadir
+    en_ca: Nadir
+    en_gb: nadir
     eo: nadiro
     es: nadir
     et: Nadiir
@@ -124,7 +124,7 @@ dv_has_:
     os: надир
     pl: nadir
     pt: nadir
-    pt-br: Nadir
+    pt_br: Nadir
     ro: Nadir
     ru: надир
     rue: Надир
@@ -132,8 +132,8 @@ dv_has_:
     sk: Nadir
     sl: podnožišče
     sr: надир
-    sr-ec: надир
-    sr-el: nadir
+    sr_ec: надир
+    sr_el: nadir
     sv: nadir
     th: จุดจอมดิน
     tl: Nadir
@@ -147,12 +147,12 @@ dv_has_:
     wuu: 天底
     yue: 天底
     zh: 天底
-    zh-cn: 天底
-    zh-hans: 天底
-    zh-hant: 天底
-    zh-hk: 天底
-    zh-sg: 天底
-    zh-tw: 天底
+    zh_cn: 天底
+    zh_hans: 天底
+    zh_hant: 天底
+    zh_hk: 天底
+    zh_sg: 天底
+    zh_tw: 天底
 ---
 # [[Nadir]] 
 

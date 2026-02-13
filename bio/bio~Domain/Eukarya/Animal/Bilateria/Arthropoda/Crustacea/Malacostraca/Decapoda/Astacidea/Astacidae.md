@@ -44,11 +44,11 @@ dv_has_:
     da: Astacidae
     de: Astacidae
     de-at: Astacidae
-    de-ch: Astacidae
+    de_ch: Astacidae
     el: Αστακίδες
     en: Astacidae
-    en-ca: Astacidae
-    en-gb: Astacidae
+    en_ca: Astacidae
+    en_gb: Astacidae
     eo: Astacidae
     es: Astacidae
     et: Jõevähklased
@@ -88,7 +88,7 @@ dv_has_:
     nap: Astacidae
     nb: Astacidae
     nds: Astacidae
-    nds-nl: Astacidae
+    nds_nl: Astacidae
     nl: Astacidae
     nn: Astacidae
     nrm: Astacidae
@@ -99,7 +99,7 @@ dv_has_:
     pl: Rakowate
     pms: Astacidae
     pt: Astacidae
-    pt-br: Astacidae
+    pt_br: Astacidae
     rm: Astacidae
     ro: Astacidae
     ru: Astacidae
@@ -121,9 +121,9 @@ dv_has_:
     war: Astacidae
     wo: Astacidae
     zh: 正螯虾科
-    zh-cn: 正螯虾科
-    zh-hans: 正螯虾科
-    zh-tw: 正螯蝦科
+    zh_cn: 正螯虾科
+    zh_hans: 正螯虾科
+    zh_tw: 正螯蝦科
     zu: Astacidae
 ---
 # [[Astacidae]] 

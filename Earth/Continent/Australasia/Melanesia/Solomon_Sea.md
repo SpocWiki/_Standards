@@ -109,7 +109,7 @@ dv_has_:
     az: Solomon dənizi
     ba: Соломон диңгеҙе
     be: Саламонава мора
-    be-tarask: Саламонава мора
+    be_tarask: Саламонава мора
     bg: Соломоново море
     bn: সলোমন সাগর
     bs: Solomonsko more
@@ -164,8 +164,8 @@ dv_has_:
     sk: Šalamúnovo more
     sl: Salomonovo morje
     sr: Соломоново море
-    sr-ec: Соломоново море
-    sr-el: Solomonovo more
+    sr_ec: Соломоново море
+    sr_el: Solomonovo more
     sv: Salomonsjön
     sw: Bahari ya Solomon
     th: ทะเลโซโลมอน
@@ -179,12 +179,12 @@ dv_has_:
     xmf: სოლომონიშ ზუღა
     yue: 所羅門海
     zh: 所罗门海
-    zh-cn: 所罗门海
-    zh-hans: 所罗门海
-    zh-hant: 所羅門海
-    zh-hk: 所羅門海
-    zh-sg: 所罗门海
-    zh-tw: 所羅門海
+    zh_cn: 所罗门海
+    zh_hans: 所罗门海
+    zh_hant: 所羅門海
+    zh_hk: 所羅門海
+    zh_sg: 所罗门海
+    zh_tw: 所羅門海
 ---
 # [[Solomon_Sea]] 
 

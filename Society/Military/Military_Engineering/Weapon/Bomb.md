@@ -7,7 +7,7 @@ dv_has_:
     ar: قنبلة
     arq: بومبا
     az: Bomba
-    be-tarask: бомба
+    be_tarask: бомба
     bg: Бомба
     bn: বোমা
     br: Bombezenn
@@ -48,11 +48,11 @@ dv_has_:
     ka: ბომბი
     kcg: bom
     kk: Бомба
-    kk-arab: بومبا
+    kk_arab: بومبا
     kk-cn: بومبا
-    kk-cyrl: Бомба
+    kk_cyrl: Бомба
     kk-kz: Бомба
-    kk-latn: Bomba
+    kk_latn: Bomba
     kk-tr: Bomba
     ko: 폭탄
     ky: Бомба
@@ -67,7 +67,7 @@ dv_has_:
     mk: бомба
     ml: ബോംബ്
     ms: bom
-    ms-arab: بوم
+    ms_arab: بوم
     my: မိုင်းဗုံး
     mzn: بامب
     nb: bombe
@@ -80,7 +80,7 @@ dv_has_:
     pl: bomba
     pms: Bomba
     pt: bomba
-    pt-br: bomba
+    pt_br: bomba
     ro: bombă
     ru: бомба
     scn: Bumma
@@ -94,8 +94,8 @@ dv_has_:
     sn: Bhomba
     sq: Bomba
     sr: бомба
-    sr-ec: бомба
-    sr-el: bomba
+    sr_ec: бомба
+    sr_el: bomba
     su: Bom
     sv: bomb
     sw: Bomu
@@ -112,12 +112,12 @@ dv_has_:
     yi: באמבע
     yue: 炸彈
     zh: 炸弹
-    zh-cn: 炸弹
-    zh-hans: 炸弹
-    zh-hant: 炸彈
-    zh-hk: 炸彈
-    zh-sg: 炸弹
-    zh-tw: 炸彈
+    zh_cn: 炸弹
+    zh_hans: 炸弹
+    zh_hant: 炸彈
+    zh_hk: 炸彈
+    zh_sg: 炸弹
+    zh_tw: 炸彈
 aliases:
 - Baomba
 - Bhomba

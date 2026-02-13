@@ -80,7 +80,7 @@ dv_has_:
     arz: غريزه
     ast: Instintu
     az: İnstinkt
-    be-tarask: інстынкт
+    be_tarask: інстынкт
     bg: инстинкт
     bn: সহজাত প্রবৃত্তি
     bs: Instinkt
@@ -148,7 +148,7 @@ dv_has_:
     tl: Instinto
     tr: İçgüdü
     tt: инстинкт
-    tt-cyrl: инстинкт
+    tt_cyrl: инстинкт
     udm: инстинкт
     uk: інстинкт
     uz: Instinkt

@@ -126,7 +126,7 @@ dv_has_:
     ast: Brassica oleracea var italica
     az: Brokkoli
     ban: Brokoli
-    be-tarask: брокалі
+    be_tarask: брокалі
     bg: броколи
     bho: ब्रोकली
     bn: ব্রকলি
@@ -197,7 +197,7 @@ dv_has_:
     pl: brokuł
     pnb: بروکلی
     pt: brócolos
-    pt-br: brócolis
+    pt_br: brócolis
     ro: broccoli
     ru: брокколи
     sat: ᱦᱟ.ᱨᱭᱟ.ᱲ ᱵᱟᱦᱟᱠᱩᱯᱤ
@@ -209,7 +209,7 @@ dv_has_:
     sl: brokoli
     sq: Brassica oleracea var. italica
     sr: броколи
-    sr-ec: брокуле
+    sr_ec: брокуле
     su: Brokoli
     sv: broccoli
     ta: புரோக்கோலி
@@ -227,10 +227,10 @@ dv_has_:
     wuu: 西兰花
     yue: 西蘭花
     zh: 西蘭花
-    zh-cn: 西兰花
-    zh-hans: 西兰花
-    zh-hant: 青花菜
-    zh-tw: 青花菜
+    zh_cn: 西兰花
+    zh_hans: 西兰花
+    zh_hant: 青花菜
+    zh_tw: 青花菜
     zu: umBumane
 ---
 # [[Broccoli]] 🥦 

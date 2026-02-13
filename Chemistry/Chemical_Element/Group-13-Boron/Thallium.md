@@ -154,7 +154,7 @@ dv_has_:
     ban: Thallium
     bcl: Talyo
     be: Талій
-    be-tarask: таль
+    be_tarask: таль
     bg: талий
     bho: थैलियम
     bn: থ্যালিয়াম
@@ -249,7 +249,7 @@ dv_has_:
     pnb: تھیلیم
     ps: تاليوم
     pt: tálio
-    pt-br: tálio
+    pt_br: tálio
     qu: Thalyu
     ro: taliu
     ru: таллий
@@ -264,7 +264,7 @@ dv_has_:
     sl: talij
     sq: Taliumi
     sr: талијум
-    sr-ec: Талијум
+    sr_ec: Талијум
     stq: Thallium
     sv: tallium
     sw: Tali
@@ -288,11 +288,11 @@ dv_has_:
     yo: Thallium
     yue: 鉈
     zh: 铊
-    zh-cn: 铊
-    zh-hans: 铊
-    zh-hant: 鉈
-    zh-hk: 鉈
-    zh-tw: 鉈
+    zh_cn: 铊
+    zh_hans: 铊
+    zh_hant: 鉈
+    zh_hk: 鉈
+    zh_tw: 鉈
     zu: UmThohla
   number_of_:
     period: 6

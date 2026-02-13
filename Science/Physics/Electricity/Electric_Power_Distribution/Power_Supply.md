@@ -84,7 +84,7 @@ dv_has_:
     ar: مزود الطاقة
     ast: Fonte d'alimentación
     az: Güc mənbəyi və soyutma sistemləri SFX/SFX 12 V güc mənbəyi
-    be-tarask: крыніца сілкаваньня
+    be_tarask: крыніца сілкаваньня
     bg: Уикипедия:Инкубатор/Статии/Захранващо устроство(PSU)
     bn: শক্তি সরবরাহ
     bs: Napojna jedinica
@@ -129,8 +129,8 @@ dv_has_:
     sl: napajalnik
     sq: Furnizuesi i rrymës
     sr: јединица напајања
-    sr-ec: Јединица напајања
-    sr-el: Jedinica napajanja
+    sr_ec: Јединица напајања
+    sr_el: Jedinica napajanja
     sv: nätaggregat
     ta: power supply
     th: แหล่งจ่ายไฟ
@@ -141,12 +141,12 @@ dv_has_:
     vi: bộ nguồn
     yue: 電源供應器
     zh: 電源供應
-    zh-cn: 电源供应
-    zh-hans: 电源供应
-    zh-hant: 電源供應
-    zh-hk: 電源供應
-    zh-sg: 电源供应
-    zh-tw: 電源供應
+    zh_cn: 电源供应
+    zh_hans: 电源供应
+    zh_hant: 電源供應
+    zh_hk: 電源供應
+    zh_sg: 电源供应
+    zh_tw: 電源供應
 ---
 # [[Power_Supply]] 
 

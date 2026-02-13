@@ -94,7 +94,7 @@ dv_has_:
     ast: Lleche de cocu
     bcl: Guta
     be: Какосавае малако
-    be-tarask: какосавае малако
+    be_tarask: какосавае малако
     bew: santen
     bg: Кокосово мляко
     bn: নারকেল দুধ
@@ -104,7 +104,7 @@ dv_has_:
     da: kokosmælk
     de: Kokosmilch
     de-at: Kokosmilch
-    de-ch: Kokosmilch
+    de_ch: Kokosmilch
     dtp: santan
     el: Γάλα καρύδας
     en: coconut milk
@@ -168,9 +168,9 @@ dv_has_:
     war: Hatok
     yue: 椰汁
     zh: 椰漿
-    zh-hans: 椰浆
-    zh-hant: 椰漿
-    zh-hk: 椰漿
+    zh_hans: 椰浆
+    zh_hant: 椰漿
+    zh_hk: 椰漿
 ---
 # [[Coconut_Milk]] 
 

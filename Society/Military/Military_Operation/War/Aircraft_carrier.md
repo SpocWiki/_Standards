@@ -121,7 +121,7 @@ dv_has_:
     azb: اوچاق داشییان ساواش گمیسی
     ba: авиаташыусы
     be: авіяносец
-    be-tarask: авіяносец
+    be_tarask: авіяносец
     bg: Самолетоносач
     bn: এয়ারক্র্যাফট ক্যারিয়ার
     br: Douger-nijerezioù
@@ -134,11 +134,11 @@ dv_has_:
     cy: cludydd awyrennau
     da: hangarskib
     de: Flugzeugträger
-    de-ch: Flugzeugträger
+    de_ch: Flugzeugträger
     el: Αεροπλανοφόρο
     en: aircraft carrier
-    en-ca: aircraft carrier
-    en-gb: aircraft carrier
+    en_ca: aircraft carrier
+    en_gb: aircraft carrier
     eo: aviadila ŝipo
     es: portaaviones
     et: lennukikandja
@@ -176,7 +176,7 @@ dv_has_:
     mn: Нисэх онгоц тээгч хөлөг онгоц
     mr: विमानवाहू नौका
     ms: kapal induk pesawat udara
-    ms-arab: کاڤل ايندوق ڤساوت اودارا
+    ms_arab: کاڤل ايندوق ڤساوت اودارا
     my: လေယာဉ်တင်သင်္ဘော
     nan: Hâng-khong-bú-lām
     nb: hangarskip
@@ -188,7 +188,7 @@ dv_has_:
     pl: lotniskowiec
     pms: Pòrta-avion
     pt: porta-aviões
-    pt-br: Porta-aviões
+    pt_br: Porta-aviões
     ro: Portavion
     ru: авианосец
     sh: Nosač aviona
@@ -212,11 +212,11 @@ dv_has_:
     yi: אעראפלאנען שיף
     yue: 航空母艦
     zh: 航空母舰
-    zh-cn: 航空母舰
-    zh-hans: 航空母舰
-    zh-hant: 航空母艦
-    zh-hk: 航空母艦
-    zh-tw: 航空母艦
+    zh_cn: 航空母舰
+    zh_hans: 航空母舰
+    zh_hant: 航空母艦
+    zh_hk: 航空母艦
+    zh_tw: 航空母艦
 ---
 # [[Aircraft_carrier]] 
 

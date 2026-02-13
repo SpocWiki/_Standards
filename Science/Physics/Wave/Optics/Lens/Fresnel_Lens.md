@@ -64,15 +64,15 @@ dv_has_:
     ar: عدسة فرينل
     ast: lente de Fresnel
     ba: Френель линзаһы
-    be-tarask: Фрэнэлева лінза
+    be_tarask: Фрэнэлева лінза
     bg: Френелова леща
     ca: Lent de Fresnel
     cs: Fresnelova čočka
     da: Fresnellinse
     de: Fresnel-Linse
     en: Fresnel lens
-    en-ca: Fresnel lens
-    en-gb: Fresnel lens
+    en_ca: Fresnel lens
+    en_gb: Fresnel lens
     eo: Fresnel-lenso
     es: lente de Fresnel
     et: Fresneli lääts
@@ -100,7 +100,7 @@ dv_has_:
     nl: Fresnellens
     pl: Soczewka Fresnela
     pt: Lente de Fresnel
-    pt-br: Lente de Fresnel
+    pt_br: Lente de Fresnel
     ro: lentilă Fresnel
     ru: Линза Френеля
     sk: Fresnelova šošovka

@@ -97,7 +97,7 @@ dv_has_:
     az: Kabel
     ba: Кабель
     be: Кабель
-    be-tarask: кабэль
+    be_tarask: кабэль
     bew: Tali kabel
     bg: Кабел
     ca: cable elèctric
@@ -127,11 +127,11 @@ dv_has_:
     ja: 電線
     jv: Kabel
     kk: Кабель
-    kk-arab: كابەل
+    kk_arab: كابەل
     kk-cn: كابەل
-    kk-cyrl: Кабель
+    kk_cyrl: Кабель
     kk-kz: Кабель
-    kk-latn: Kabelʹ
+    kk_latn: Kabelʹ
     kk-tr: Kabelʹ
     ko: 케이블
     ky: Кабель
@@ -160,31 +160,31 @@ dv_has_:
     so: Koronto - xadhig
     sq: Kabllo elektrike
     sr: кабл
-    sr-ec: Кабл
-    sr-el: Kabl
+    sr_ec: Кабл
+    sr_el: Kabl
     stq: Koabel
     sv: kabel
     sw: Kebo
     ta: கம்பி வடம்
     te: కేబుల్
     tg: Кабели электрикӣ
-    tg-latn: Kabeli elektrikī
+    tg_latn: Kabeli elektrikī
     th: เคเบิลไฟฟ้า
     tr: Kablo
     tt: Кабель
-    tt-cyrl: электр кабеле
+    tt_cyrl: электр кабеле
     uk: кабель
     uz: Kabel
     vi: dây cáp
     wuu: 电缆
     yue: 電線
     zh: 电缆
-    zh-cn: 网线
-    zh-hans: 网线
-    zh-hant: 網線
-    zh-hk: 網線
-    zh-sg: 网线
-    zh-tw: 網線
+    zh_cn: 网线
+    zh_hans: 网线
+    zh_hant: 網線
+    zh_hk: 網線
+    zh_sg: 网线
+    zh_tw: 網線
 ---
 # [[Electrical_Cable]] 
 

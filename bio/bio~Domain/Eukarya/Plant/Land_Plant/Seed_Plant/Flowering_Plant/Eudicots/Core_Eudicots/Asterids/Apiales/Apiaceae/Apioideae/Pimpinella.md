@@ -60,7 +60,7 @@ dv_has_:
     ast: Pimpinella
     az: Xırdazirə
     be: Бядрынец
-    be-tarask: бядрынец
+    be_tarask: бядрынец
     bg: Pimpinella
     bs: Pimpinella
     ca: Pimpinella
@@ -69,10 +69,10 @@ dv_has_:
     csb: Biedrzón
     da: Pimpinelle
     de: Bibernellen
-    de-ch: Bibernellen
+    de_ch: Bibernellen
     en: Pimpinella
-    en-ca: Pimpinella
-    en-gb: Pimpinella
+    en_ca: Pimpinella
+    en_gb: Pimpinella
     eo: Pimpinelo
     es: Pimpinella
     et: Näär
@@ -104,7 +104,7 @@ dv_has_:
     oc: Pimpinella
     pl: biedrzeniec
     pt: Pimpinella
-    pt-br: Pimpinella
+    pt_br: Pimpinella
     ro: Pimpinella
     ru: Бедренец
     sh: Pimpinella
@@ -119,9 +119,9 @@ dv_has_:
     vo: Pimpinella
     war: Pimpinella
     zh: 茴芹属
-    zh-cn: 茴芹属
-    zh-hans: 茴芹属
-    zh-tw: 茴芹屬
+    zh_cn: 茴芹属
+    zh_hans: 茴芹属
+    zh_tw: 茴芹屬
 ---
 # [[Pimpinella]] 
 

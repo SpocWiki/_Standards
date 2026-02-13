@@ -74,7 +74,7 @@ dv_has_:
     arz: روبرت وايز
     ast: Robert Wise
     be: Роберт Уайз
-    be-tarask: Робэрт Ўайз
+    be_tarask: Робэрт Ўайз
     bg: Робърт Уайз
     bn: রবার্ট ওয়াইজ
     ca: Robert Wise
@@ -82,11 +82,11 @@ dv_has_:
     cy: Robert Wise
     da: Robert Wise
     de: Robert Wise
-    de-ch: Robert Wise
+    de_ch: Robert Wise
     el: Ρόμπερτ Γουάιζ
     en: Robert Wise
-    en-ca: Robert Wise
-    en-gb: Robert Wise
+    en_ca: Robert Wise
+    en_gb: Robert Wise
     eo: Robert Wise
     es: Robert Wise
     eu: Robert Wise
@@ -122,7 +122,7 @@ dv_has_:
     pl: Robert Wise
     pms: Robert Wise
     pt: Robert Wise
-    pt-br: Robert Wise
+    pt_br: Robert Wise
     ro: Robert Wise
     ru: Роберт Уайз
     sh: Robert Wise
@@ -137,7 +137,7 @@ dv_has_:
     vi: Robert Wise
     war: Robert Wise
     zh: 罗伯特·怀斯
-    zh-sg: 罗勃·怀斯
+    zh_sg: 罗勃·怀斯
 ---
 # [[Wise,Robert]]  
 

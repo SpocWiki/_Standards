@@ -123,7 +123,7 @@ dv_has_:
     azb: موطلق شاهلیق
     ba: абсолют монархия
     be: абсалютная манархія
-    be-tarask: абсалютная манархія
+    be_tarask: абсалютная манархія
     bg: Абсолютна монархия
     bn: নিরঙ্কুশ রাজতন্ত্র
     br: monarkiezh hollveliek
@@ -161,7 +161,7 @@ dv_has_:
     ka: აბსოლუტური მონარქია
     kab: tageldawt tamagdezt
     kk: Абсолюттік монархия
-    kk-arab: ابسوليۋتىيزم
+    kk_arab: ابسوليۋتىيزم
     kk-cn: ابسوليۋتىيزم
     ko: 절대군주제
     ku: keyîtiya serberdayî
@@ -205,8 +205,8 @@ dv_has_:
     sms: absoluuttlaž monarkia
     sq: monarkia absolute
     sr: апсолутна монархија
-    sr-ec: апсолутна монархија
-    sr-el: apsolutna monarhija
+    sr_ec: апсолутна монархија
+    sr_el: apsolutna monarhija
     su: monarki absolut
     sv: absolut monarki
     tg: подшоҳии мутлақ
@@ -225,12 +225,12 @@ dv_has_:
     yi: אַבסאָלוטע מאָנאַרכיע
     yue: 帝制
     zh: 君主專制
-    zh-cn: 绝对君主制
-    zh-hans: 绝对君主制
-    zh-hant: 絕對君主制
-    zh-hk: 絕對君主制
-    zh-sg: 绝对君主制
-    zh-tw: 絕對君主制
+    zh_cn: 绝对君主制
+    zh_hans: 绝对君主制
+    zh_hant: 絕對君主制
+    zh_hk: 絕對君主制
+    zh_sg: 绝对君主制
+    zh_tw: 絕對君主制
 ---
 # [[Absolute_Monarchy]] 
 

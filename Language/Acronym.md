@@ -6,7 +6,7 @@ dv_has_:
     ar: لفظة أوائلية
     ast: acrónimu
     be: акронім
-    be-tarask: акронім
+    be_tarask: акронім
     bg: акроним
     bn: মুণ্ডমাল শব্দ
     br: gwreskanv
@@ -51,7 +51,7 @@ dv_has_:
     mi: kupu rāpoto
     mk: акроним
     ms: akronim
-    ms-arab: اکرونيم
+    ms_arab: اکرونيم
     nan: thâu-jī-gí
     nb: akronym
     nds: Akronym
@@ -62,7 +62,7 @@ dv_has_:
     pl: skrótowiec
     pnb: ترخیمہ
     pt: acrónimo
-    pt-br: sigla
+    pt_br: sigla
     ro: acronim
     ru: акроним
     sah: акроним
@@ -74,8 +74,8 @@ dv_has_:
     sl: akronim
     sq: akronimi
     sr: акроним
-    sr-ec: акроним
-    sr-el: akronim
+    sr_ec: акроним
+    sr_el: akronim
     sv: akronym
     sw: akronimu
     te: ఇతర పదాల మొదటి అక్షరాల నుండి పుట్టిన పదం (ఏక్రానిం) మరియు ఇనీష్యలిజం
@@ -90,12 +90,12 @@ dv_has_:
     yi: ראשי תיבות
     yue: 頭字語
     zh: 首字母縮略字
-    zh-cn: 首字母缩略字
-    zh-hans: 首字母缩略字
-    zh-hant: 首字母縮略字
-    zh-hk: 首字母縮略字
-    zh-sg: 首字母缩略字
-    zh-tw: 首字母縮略字
+    zh_cn: 首字母缩略字
+    zh_hans: 首字母缩略字
+    zh_hant: 首字母縮略字
+    zh_hk: 首字母縮略字
+    zh_sg: 首字母缩略字
+    zh_tw: 首字母縮略字
 aliases:
 - acrainm
 - acroniem

@@ -102,7 +102,7 @@ dv_has_:
     ar: نطاق صالح للحياة
     ast: Zona de habitabilidad
     be: Зона
-    be-tarask: зона прыдатная да жыцьця
+    be_tarask: зона прыдатная да жыцьця
     bg: Обитаема зона
     bn: বৃত্তাকার বাসযোগ্য অঞ্চল
     ca: zona d'habitabilitat
@@ -110,11 +110,11 @@ dv_has_:
     cy: parth cyfanheddol cylchol
     da: Den beboelige zone
     de: habitable Zone
-    de-ch: Habitable Zone
+    de_ch: Habitable Zone
     el: ζώνη κατοικισιμότητας
     en: circumstellar habitable zone
-    en-ca: Circumstellar habitable zone
-    en-gb: Circumstellar habitable zone
+    en_ca: Circumstellar habitable zone
+    en_gb: Circumstellar habitable zone
     eo: ĉirkaŭstela enloĝebla zono
     es: zona de habitabilidad
     eu: zona zirkunestelar bizigarri
@@ -149,7 +149,7 @@ dv_has_:
     pl: ekosfera
     pnb: جیون تھاں
     pt: zona habitável
-    pt-br: zona habitável
+    pt_br: zona habitável
     ro: Zona locuibilă circumstelară
     ru: зона обитаемости
     scn: zona abbitàbbili
@@ -158,8 +158,8 @@ dv_has_:
     sk: obývateľná zóna
     sl: obzvezdno naseljivo območje
     sr: настањиви појас
-    sr-ec: циркумстеларна настањива зона
-    sr-el: nastanjivi pojas
+    sr_ec: циркумстеларна настањива зона
+    sr_el: nastanjivi pojas
     sv: beboelig zon
     ta: உயிரினங்களின் வாழ்தகமைப் பிரதேசம்
     th: เขตอาศัยได้
@@ -170,12 +170,12 @@ dv_has_:
     wuu: 适居带
     yue: 可住帶
     zh: 適居帶
-    zh-cn: 适居带
-    zh-hans: 适居带
-    zh-hant: 適居帶
-    zh-hk: 適居帶
-    zh-sg: 适居带
-    zh-tw: 適居帶
+    zh_cn: 适居带
+    zh_hans: 适居带
+    zh_hant: 適居帶
+    zh_hk: 適居帶
+    zh_sg: 适居带
+    zh_tw: 適居帶
 ---
 # [[Circumstellar_habitable_Zone]] 
 

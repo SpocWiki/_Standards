@@ -132,7 +132,7 @@ dv_has_:
     az: İntellekt
     azb: ذکاء
     be: інтэлект
-    be-tarask: інтэлект
+    be_tarask: інтэлект
     bg: Интелект
     bn: বুদ্ধিমত্তা
     bs: inteligencija
@@ -195,7 +195,7 @@ dv_has_:
     pl: inteligencja
     ps: ځیرکتیا
     pt: inteligência
-    pt-br: inteligência
+    pt_br: inteligência
     qu: Hamu
     ro: inteligență
     ru: интеллект
@@ -210,13 +210,13 @@ dv_has_:
     so: caqli
     sq: inteligjenca
     sr: интелигенција
-    sr-ec: интелигенција
+    sr_ec: интелигенција
     sv: intelligens
     sw: akili
     ta: நுண்ணறிவு
     te: intelligence
     tg: ҳуш
-    tg-cyrl: ҳуш
+    tg_cyrl: ҳуш
     th: เชาวน์ปัญญา
     tl: katalinuhan
     tr: zeka

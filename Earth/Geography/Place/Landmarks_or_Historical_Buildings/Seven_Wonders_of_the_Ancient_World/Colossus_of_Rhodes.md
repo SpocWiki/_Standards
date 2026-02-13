@@ -28,7 +28,7 @@ dv_has_:
     az: Rodoslu Kolossun heykəli
     ba: Колосс Родосский
     be: Калос Радоскі
-    be-tarask: Калёс Радоскі
+    be_tarask: Калёс Радоскі
     bg: Родоски колос
     bn: রোডস এর মূর্তি
     br: Keurzelwenn Rodos
@@ -112,8 +112,8 @@ dv_has_:
     xmf: როდოსიშ კოლოსი
     yue: 羅得島太陽神銅像
     zh: 罗得岛巨像
-    zh-cn: 罗得岛巨像
-    zh-hans: 罗得岛巨像
+    zh_cn: 罗得岛巨像
+    zh_hans: 罗得岛巨像
 aliases:
 - Coloso de Rodas
 - Coloso han Rodas

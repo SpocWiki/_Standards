@@ -326,7 +326,7 @@ dv_has_:
     abr: Kitawonsa
     acm: تموز
     ady: Бэдзэогъу
-    aeb-arab: جويلية
+    aeb_arab: جويلية
     af: Julie
     agq: Ndzɔŋ è Kwǔu zə̀ Àsò
     alt: Јаан изӱ ай
@@ -356,11 +356,11 @@ dv_has_:
     bas: njeba
     bax: mùt Juillet
     bbc: Sipaha opat
-    bbc-latn: Sipaha Opat
+    bbc_latn: Sipaha Opat
     bbj: fə̀fə̀
     bcl: Hulyo
     be: ліпень
-    be-tarask: ліпень
+    be_tarask: ліпень
     bew: Juli
     bg: Юли
     bho: जुलाई
@@ -377,7 +377,7 @@ dv_has_:
     bxr: 7 һар
     byv: ntôngə̀fələ
     ca: juliol
-    cbk-zam: Julio
+    cbk_zam: Julio
     cdo: 7 nguŏk
     ce: Мятсел бутт
     ceb: Hulyo
@@ -386,7 +386,7 @@ dv_has_:
     ckb: تەممووز
     co: lugliu
     crh: İyül
-    crh-latn: İyül
+    crh_latn: İyül
     cs: červenec
     csb: lëpińc
     cu: июл҄ь
@@ -395,7 +395,7 @@ dv_has_:
     da: juli
     dag: July
     de: Juli
-    de-ch: Juli
+    de_ch: Juli
     diq: Temuze
     dsb: žnjojski
     dtp: Madas
@@ -405,8 +405,8 @@ dv_has_:
     el: Ιούλιος
     eml: Lój
     en: July
-    en-ca: July
-    en-gb: July
+    en_ca: July
+    en_gb: July
     en-us: July
     eo: julio
     es: julio
@@ -486,7 +486,7 @@ dv_has_:
     ks: ٲشِد
     ksh: Juuli
     ku: tîrmeh
-    ku-latn: tîrmeh
+    ku_latn: tîrmeh
     kv: Сора тӧлысь
     kw: Mis Gortheren
     ky: Июль
@@ -508,7 +508,7 @@ dv_has_:
     lv: jūlijs
     lzh: 建申
     mai: जुलाई
-    map-bms: Juli
+    map_bms: Juli
     mcp: ”ŋwíí akǝ táabɛɛ"
     mdf: псиков
     mg: Jolay
@@ -523,7 +523,7 @@ dv_has_:
     mr: जुलै महिना
     mrj: Июль
     ms: Julai
-    ms-arab: جولاي
+    ms_arab: جولاي
     mt: Lulju
     mua: maməŋgwãalii
     mwl: Júlio
@@ -535,7 +535,7 @@ dv_has_:
     nap: Luglio
     nb: juli
     nds: Juli
-    nds-nl: juli
+    nds_nl: juli
     ne: जुलाई
     new: जुलाई
     nl: juli
@@ -564,7 +564,7 @@ dv_has_:
     pnt: Χορτοθέρτς
     ps: جولای
     pt: julho
-    pt-br: julho
+    pt_br: julho
     qu: Anta situwa killa
     ro: iulie
     roa-tara: Luglie
@@ -595,7 +595,7 @@ dv_has_:
     so: Luuliyo
     sq: Korriku
     sr: Јул
-    sr-ec: Јул
+    sr_ec: Јул
     ss: Khólwáne
     su: Juli
     sv: juli
@@ -650,14 +650,14 @@ dv_has_:
     zea: Juli
     zgh: ⵢⵓⵍⵢⵓⵣ
     zh: 7月
-    zh-cn: 7月
-    zh-hans: 7月
-    zh-hant: 7月
-    zh-hk: 7月
-    zh-mo: 7月
+    zh_cn: 7月
+    zh_hans: 7月
+    zh_hant: 7月
+    zh_hk: 7月
+    zh_mo: 7月
     zh-my: 7月
-    zh-sg: 7月
-    zh-tw: 7月
+    zh_sg: 7月
+    zh_tw: 7月
     zu: UNtulikazi (uJulayi)
 ---
 # [[July]]

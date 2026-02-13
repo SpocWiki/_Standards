@@ -226,7 +226,7 @@ dv_has_:
     ba: Ғәрәп лигаһы
     bar: Arabische Liga
     be: Ліга арабскіх дзяржаў
-    be-tarask: Арабская ліга
+    be_tarask: Арабская ліга
     bg: Лига на арабските държави
     bn: আরব লিগ
     br: Kevre ar Stadoù Arab
@@ -240,12 +240,12 @@ dv_has_:
     cy: Y Cynghrair Arabaidd
     da: Den Arabiske Liga
     de: Arabische Liga
-    de-ch: Arabische Liga
+    de_ch: Arabische Liga
     diq: Liga Ereban
     el: Αραβικός Σύνδεσμος
     en: League of Arab States
-    en-ca: League of Arab States
-    en-gb: League of Arab States
+    en_ca: League of Arab States
+    en_gb: League of Arab States
     en-us: League of Arab States
     eo: Ligo de Arabaj Ŝtatoj
     es: Liga Árabe
@@ -279,7 +279,7 @@ dv_has_:
     ka: არაბული ქვეყნების ლიგა
     kbp: Araabʋ waa ŋgbɛyɛ
     kk: Араб жамағаты
-    kk-latn: Arab jamaǧatı
+    kk_latn: Arab jamaǧatı
     km: សម្ព័ន្ធអារ៉ាប់
     knc: Arab League
     ko: 아랍 연맹
@@ -322,7 +322,7 @@ dv_has_:
     pnb: عرب لیگ
     ps: عربي ټولنه
     pt: Liga Árabe
-    pt-br: Liga Árabe
+    pt_br: Liga Árabe
     ro: Liga Arabă
     ru: Лига арабских государств
     rue: Арабска ліґа
@@ -360,10 +360,10 @@ dv_has_:
     yue: 阿剌伯聯盟
     zea: Araobische Liga
     zh: 阿拉伯国家联盟
-    zh-cn: 阿拉伯国家联盟
-    zh-hans: 阿拉伯国家联盟
-    zh-hant: 阿拉伯國家聯盟
-    zh-tw: 阿拉伯國家聯盟
+    zh_cn: 阿拉伯国家联盟
+    zh_hans: 阿拉伯国家联盟
+    zh_hant: 阿拉伯國家聯盟
+    zh_tw: 阿拉伯國家聯盟
 ---
 # [[Arab_League]] 
 

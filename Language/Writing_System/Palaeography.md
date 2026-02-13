@@ -85,7 +85,7 @@ dv_has_:
     az: Paleoqrafiya
     ba: палеография
     be: палеаграфія
-    be-tarask: палеаграфія
+    be_tarask: палеаграфія
     bg: палеография
     ca: paleografia
     cs: paleografie
@@ -141,8 +141,8 @@ dv_has_:
     sms: paleografia
     sq: Paleografia
     sr: палеографија
-    sr-ec: палеографија
-    sr-el: paleografija
+    sr_ec: палеографија
+    sr_el: paleografija
     sv: paleografi
     ta: தொல்லெழுத்துக் கலை
     tk: Paleografiýa
@@ -156,12 +156,12 @@ dv_has_:
     yi: פאלעאגראפיע
     yue: 古文書
     zh: 古文字学
-    zh-cn: 古文字学
-    zh-hans: 古文字学
-    zh-hant: 古文字學
-    zh-hk: 古文字學
-    zh-sg: 古文字学
-    zh-tw: 古文字學
+    zh_cn: 古文字学
+    zh_hans: 古文字学
+    zh_hant: 古文字學
+    zh_hk: 古文字學
+    zh_sg: 古文字学
+    zh_tw: 古文字學
 ---
 # [[Palaeography]] 
 

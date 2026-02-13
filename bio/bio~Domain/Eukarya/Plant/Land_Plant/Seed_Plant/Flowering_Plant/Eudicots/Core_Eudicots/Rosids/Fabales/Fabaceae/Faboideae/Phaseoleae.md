@@ -46,7 +46,7 @@ dv_has_:
     oc: Phaseoleae
     pl: Phaseoleae
     pt: Phaseoleae
-    pt-br: Phaseoleae
+    pt_br: Phaseoleae
     ro: Phaseoleae
     ru: фасолевые
     sl: Phaseoleae

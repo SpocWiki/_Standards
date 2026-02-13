@@ -32,18 +32,18 @@ dv_has_:
     sh: Rafinoza
     sk: Rafinóza
     sr: рафиноза
-    sr-ec: Рафиноза
-    sr-el: Rafinoza
+    sr_ec: Рафиноза
+    sr_el: Rafinoza
     sv: Raffinos
     th: ราฟฟิโนส
     tr: Raffinoz
     zh: 棉子糖
-    zh-cn: 棉子糖
-    zh-hans: 棉子糖
-    zh-hant: 棉子糖
-    zh-hk: 棉子糖
-    zh-sg: 棉子糖
-    zh-tw: 棉子糖
+    zh_cn: 棉子糖
+    zh_hans: 棉子糖
+    zh_hant: 棉子糖
+    zh_hk: 棉子糖
+    zh_sg: 棉子糖
+    zh_tw: 棉子糖
 aliases:
 - Errafinosa
 - raffinoosi

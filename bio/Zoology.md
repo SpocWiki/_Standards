@@ -177,7 +177,7 @@ dv_has_:
     bar: Zoologie
     bcl: solohiya
     be: заалогія
-    be-tarask: заалёгія
+    be_tarask: заалёгія
     bg: зоология
     bho: जंतु बिज्ञान
     blk: သတ္တဗေဒ
@@ -192,12 +192,12 @@ dv_has_:
     cy: sŵoleg
     da: zoologi
     de: Zoologie
-    de-ch: Zoologie
+    de_ch: Zoologie
     diq: heywanşınasiye
     el: ζωολογία
     en: zoology
-    en-ca: zoology
-    en-gb: zoology
+    en_ca: zoology
+    en_gb: zoology
     eo: zoologio
     es: zoología
     et: zooloogia
@@ -256,7 +256,7 @@ dv_has_:
     lt: zoologija
     lv: zooloģija
     mai: जन्तु विज्ञान
-    map-bms: zoologi
+    map_bms: zoologi
     mg: Zôôlôjia
     mhr: зоологий
     mk: зоологија
@@ -265,7 +265,7 @@ dv_has_:
     mr: प्राणिशास्त्र
     mrj: зоологи
     ms: zoologi
-    ms-arab: زولوݢي
+    ms_arab: زولوݢي
     mt: żooloġija
     mwl: zoologie
     my: သတ္တဗေဒ
@@ -289,7 +289,7 @@ dv_has_:
     pnb: زوالوجی
     ps: ژوپوهنه
     pt: zoologia
-    pt-br: zoologia
+    pt_br: zoologia
     qu: uywa yachay
     rki: သတ္တဗေဒ
     rmf: kreatuurosko džaaniba
@@ -313,7 +313,7 @@ dv_has_:
     sn: ketamhuka
     sq: zoologji
     sr: зоологија
-    sr-ec: зоологија
+    sr_ec: зоологија
     su: zoologi
     sv: zoologi
     sw: zoolojia
@@ -326,7 +326,7 @@ dv_has_:
     tl: soolohiya
     tr: hayvan bilimi
     tt: зоология
-    tt-cyrl: хайванатбелем
+    tt_cyrl: хайванатбелем
     udm: зоология
     uk: зоологія
     ur: حیوانیات
@@ -342,14 +342,14 @@ dv_has_:
     yue: 動物學
     zgh: ⵜⴰⵙⵏⵎⵓⴷⵔⵜ
     zh: 動物學
-    zh-cn: 动物学
-    zh-hans: 动物学
-    zh-hant: 動物學
-    zh-hk: 動物學
-    zh-mo: 動物學
+    zh_cn: 动物学
+    zh_hans: 动物学
+    zh_hant: 動物學
+    zh_hk: 動物學
+    zh_mo: 動物學
     zh-my: 动物学
-    zh-sg: 动物学
-    zh-tw: 動物學
+    zh_sg: 动物学
+    zh_tw: 動物學
 ---
 # [[Zoology]] 
 

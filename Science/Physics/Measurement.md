@@ -169,7 +169,7 @@ dv_has_:
     bar: Messung
     bcl: Pagsukol
     be: вымярэнне
-    be-tarask: вымярэньне
+    be_tarask: вымярэньне
     bg: Измерване
     bho: नापजोख
     bn: পরিমাপ
@@ -188,7 +188,7 @@ dv_has_:
     dsb: měrjenje
     el: μέτρηση
     en: measurement
-    en-gb: measurement
+    en_gb: measurement
     en-us: measurement
     eo: mezuro
     es: medición
@@ -246,7 +246,7 @@ dv_has_:
     mn: Хэмжилт
     mnw: အကြိုက်
     ms: pengukuran
-    ms-arab: ڤڠوکورن
+    ms_arab: ڤڠوکورن
     mwl: Mediçon
     my: အတိုင်းအတာ
     nan: Chhek-tēng
@@ -266,7 +266,7 @@ dv_has_:
     pnb: ناپ تول
     ps: اندازه کول
     pt: medição
-    pt-br: medição
+    pt_br: medição
     rki: တိုင်းတာမူတိ
     ro: măsurare
     ru: измерение
@@ -283,8 +283,8 @@ dv_has_:
     sn: Upimo
     sq: matje
     sr: мерење
-    sr-ec: мерење
-    sr-el: merenje
+    sr_ec: мерење
+    sr_el: merenje
     sv: mätning
     sw: Upimaji
     szy: ditek
@@ -295,7 +295,7 @@ dv_has_:
     tr: ölçme
     ts: Mpimo
     tt: үлчәү
-    tt-cyrl: үлчәү
+    tt_cyrl: үлчәү
     udm: мертан
     uk: вимірювання
     ur: پیمائش
@@ -309,14 +309,14 @@ dv_has_:
     yi: מאס
     yue: 量度
     zh: 量度
-    zh-cn: 量度
-    zh-hans: 量度
-    zh-hant: 量度
-    zh-hk: 量度
-    zh-mo: 量度
+    zh_cn: 量度
+    zh_hans: 量度
+    zh_hant: 量度
+    zh_hk: 量度
+    zh_mo: 量度
     zh-my: 量度
-    zh-sg: 量度
-    zh-tw: 量度
+    zh_sg: 量度
+    zh_tw: 量度
     zu: Isilinganiso
 ---
 # [[Measurement]] 

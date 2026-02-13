@@ -176,7 +176,7 @@ dv_has_:
     ast: General Electric
     azb: جنرال الکتریک
     be: General Electric
-    be-tarask: General Electric
+    be_tarask: General Electric
     bg: Дженерал Илектрик
     bn: জেনারেল ইলেকট্রিক
     bs: General Electric
@@ -187,8 +187,8 @@ dv_has_:
     de: General Electric
     el: General Electric
     en: General Electric
-    en-ca: General Electric
-    en-gb: General Electric
+    en_ca: General Electric
+    en_gb: General Electric
     eo: General Electric
     es: General Electric
     et: General Electric
@@ -223,7 +223,7 @@ dv_has_:
     pa: ਜਨਰਲ ਇਲੈੱਕਟਰਿਕ
     pl: General Electric
     pt: General Electric
-    pt-br: General Electric
+    pt_br: General Electric
     ro: General Electric
     ru: General Electric
     sah: General Electric
@@ -246,11 +246,11 @@ dv_has_:
     wuu: 通用电气
     yue: 通用電氣
     zh: 通用電氣
-    zh-cn: 通用电气
-    zh-hans: 通用电气
-    zh-hant: 奇異
-    zh-hk: 通用電氣
-    zh-tw: 奇異
+    zh_cn: 通用电气
+    zh_hans: 通用电气
+    zh_hant: 奇異
+    zh_hk: 通用電氣
+    zh_tw: 奇異
 ---
 # [[GE(General_Electric)]] 
 

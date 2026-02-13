@@ -201,7 +201,7 @@ dv_has_:
     bar: Hinfållets
     bcl: Subi-subi
     be: эпілепсія
-    be-tarask: эпілепсія
+    be_tarask: эпілепсія
     bg: Епилепсия
     bjn: Gila babi
     blk: လိုꩻပေႏသဲင်ႏထင်ႏ
@@ -216,12 +216,12 @@ dv_has_:
     cy: epilepsi
     da: epilepsi
     de: Epilepsie
-    de-ch: Epilepsie
+    de_ch: Epilepsie
     din: Nok
     el: επιληψία
     en: epilepsy
-    en-ca: Epilepsy
-    en-gb: epilepsy
+    en_ca: Epilepsy
+    en_gb: epilepsy
     eo: epilepsio
     es: epilepsia
     et: epilepsia
@@ -290,7 +290,7 @@ dv_has_:
     pms: Epilessìa
     pnb: مرگی
     pt: epilepsia
-    pt-br: Epilepsia
+    pt_br: Epilepsia
     ro: epilepsie
     ru: эпилепсия
     scn: epilissìa
@@ -306,7 +306,7 @@ dv_has_:
     so: Qallal
     sq: Epilepsia
     sr: епилепсија
-    sr-ec: епилепсија
+    sr_ec: епилепсија
     srn: stoipi-siki
     su: Épilépsi
     sv: epilepsi
@@ -318,7 +318,7 @@ dv_has_:
     tl: epilepsiya
     tr: Epilepsi
     tt: өянәк авыруы
-    tt-cyrl: өянәк авыруы
+    tt_cyrl: өянәк авыруы
     udm: кулыса усьылон
     uk: епілепсія
     ur: مرگی
@@ -332,11 +332,11 @@ dv_has_:
     yue: 發羊吊
     za: Fatyiengzdien
     zh: 癫痫
-    zh-cn: 癫痫
-    zh-hans: 癫痫
-    zh-hant: 癲癇症
-    zh-hk: 腦癇症
-    zh-tw: 癲癇
+    zh_cn: 癫痫
+    zh_hans: 癫痫
+    zh_hant: 癲癇症
+    zh_hk: 腦癇症
+    zh_tw: 癲癇
 ---
 # [[Epilepsy]] 
 

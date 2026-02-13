@@ -112,7 +112,7 @@ dv_has_:
     ar: قيادة
     ast: lideralgu
     az: liderlik
-    be-tarask: лідарства
+    be_tarask: лідарства
     bg: лидерство
     bn: নেতৃত্ব
     br: aotrouniezh
@@ -121,11 +121,11 @@ dv_has_:
     cs: vůdcovství
     da: lederskab/førerskab
     de: Personalführung
-    de-ch: Menschenführung
+    de_ch: Menschenführung
     el: ηγεσία
     en: leadership
-    en-ca: leadership
-    en-gb: leadership
+    en_ca: leadership
+    en_gb: leadership
     eo: gvidado-estreco
     es: liderazgo
     et: juhtimine
@@ -145,9 +145,9 @@ dv_has_:
     it: arte del comando
     ja: リーダーシップ
     kk: көшбасшылық
-    kk-arab: لىيدەرلىك
-    kk-cyrl: лидерлік
-    kk-latn: lïderlik
+    kk_arab: لىيدەرلىك
+    kk_cyrl: лидерлік
+    kk_latn: lïderlik
     km: លក្ខណៈសម្បត្តិនៃអ្នកដឹកនាំ
     kn: ನಾಯಕತ್ವ
     ko: 지도력
@@ -160,7 +160,7 @@ dv_has_:
     mn: манлайлал
     mr: नेतृत्व
     ms: kepimpinan
-    ms-arab: کڤيمڤينن
+    ms_arab: کڤيمڤينن
     my: ခေါင်းဆောင်မှု
     nan: thâu-lâng
     nb: lederskap
@@ -172,7 +172,7 @@ dv_has_:
     pa: ਨੇਤਾਗਿਰੀ
     pl: przywództwo
     pt: liderança
-    pt-br: liderança
+    pt_br: liderança
     qu: uma kay
     ro: leadership
     ru: лидерство
@@ -182,8 +182,8 @@ dv_has_:
     sl: vodenje
     sq: udhëheqja
     sr: вођство
-    sr-ec: вођа
-    sr-el: vođa
+    sr_ec: вођа
+    sr_el: vođa
     sv: ledarskap
     sw: uongozi
     ta: தலைமைத்துவம்
@@ -201,14 +201,14 @@ dv_has_:
     yo: ìdarí
     yue: 領導才能
     zh: 領導
-    zh-cn: 领导
-    zh-hans: 领导
-    zh-hant: 領導
-    zh-hk: 領導
-    zh-mo: 領導
+    zh_cn: 领导
+    zh_hans: 领导
+    zh_hant: 領導
+    zh_hk: 領導
+    zh_mo: 領導
     zh-my: 领导
-    zh-sg: 领导
-    zh-tw: 領導
+    zh_sg: 领导
+    zh_tw: 領導
 ---
 # [[Leadership]] 
 

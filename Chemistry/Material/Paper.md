@@ -248,7 +248,7 @@ dv_has_:
     bcl: papel
     bdr: Keratas
     be: папера
-    be-tarask: папера
+    be_tarask: папера
     bew: Kertas
     bg: хартия
     bho: कागज
@@ -271,14 +271,14 @@ dv_has_:
     da: papir
     dag: takara
     de: Papier
-    de-ch: Papier
+    de_ch: Papier
     diq: kağıde
     dtp: kalatas
     dv: ކަރުދާސް
     ee: agbale
     el: χαρτί
     en: paper
-    en-gb: paper
+    en_gb: paper
     eo: papero
     es: papel
     et: paber
@@ -347,7 +347,7 @@ dv_has_:
     mni: ꯆꯦ
     mr: कागद
     ms: kertas
-    ms-arab: کرتس
+    ms_arab: کرتس
     mt: karta
     my: စက္ကူ
     myv: конёв
@@ -355,7 +355,7 @@ dv_has_:
     nan: choá
     nb: papir
     nds: Papeer
-    nds-nl: papyr
+    nds_nl: papyr
     ne: कागज
     new: भ्वं
     nia: karate
@@ -374,7 +374,7 @@ dv_has_:
     pnt: χαρτίν
     ps: ليکپاڼه
     pt: papel
-    pt-br: papel
+    pt_br: papel
     qu: qillqana p'anqa
     ro: hârtie
     ru: бумага
@@ -393,8 +393,8 @@ dv_has_:
     so: xaansho
     sq: letër
     sr: хартија
-    sr-ec: хартија
-    sr-el: hartija
+    sr_ec: хартија
+    sr_el: hartija
     su: kertas
     sv: papper
     sw: karatasi
@@ -408,8 +408,8 @@ dv_has_:
     tly: koǧəz
     tr: kağıt
     tt: кәгазь
-    tt-cyrl: кәгазь
-    tt-latn: käğäz
+    tt_cyrl: кәгазь
+    tt_latn: käğäz
     udm: кагаз
     uk: папір
     ur: کاغذ
@@ -427,14 +427,14 @@ dv_has_:
     yue: 紙
     za: ceij
     zh: 纸
-    zh-cn: 纸
-    zh-hans: 纸
-    zh-hant: 紙
-    zh-hk: 紙
-    zh-mo: 紙
+    zh_cn: 纸
+    zh_hans: 纸
+    zh_hant: 紙
+    zh_hk: 紙
+    zh_mo: 紙
     zh-my: 纸
-    zh-sg: 纸
-    zh-tw: 紙
+    zh_sg: 纸
+    zh_tw: 紙
 ---
 # [[Paper]] 
 

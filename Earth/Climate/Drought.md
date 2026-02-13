@@ -176,7 +176,7 @@ dv_has_:
     bas: Ŋ̀kot
     bcl: Tag-alang
     be: засуха
-    be-tarask: засуха
+    be_tarask: засуха
     bg: суша
     bho: सूखा
     bn: খরা
@@ -191,7 +191,7 @@ dv_has_:
     de: Dürre
     el: Ξηρασία
     en: drought
-    en-gb: drought
+    en_gb: drought
     eo: trosekeco
     es: sequía
     et: Põud

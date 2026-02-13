@@ -87,7 +87,7 @@ dv_has_:
     az: sabun opera
     bcl: Teleserye
     be: мыльная опера
-    be-tarask: мыльная опэра
+    be_tarask: мыльная опэра
     bg: сапунена опера
     ca: fulletó
     ckb: ئۆپێرای سابوون
@@ -96,11 +96,11 @@ dv_has_:
     cy: opera sebon
     da: sæbeopera
     de: Seifenoper
-    de-ch: Seifenoper
+    de_ch: Seifenoper
     el: σαπουνόπερα
     en: soap opera
-    en-ca: soap opera
-    en-gb: soap opera
+    en_ca: soap opera
+    en_gb: soap opera
     eo: sapopero
     es: serial televisivo
     et: seebiooper
@@ -132,12 +132,12 @@ dv_has_:
     ml: സോപ്പ് ഓപ്പറ
     ms: drama lipur lara
     nb: såpeopera
-    nds-nl: soapserie
+    nds_nl: soapserie
     nl: soapserie
     nn: såpeopera
     pl: opera mydlana
     pt: soap opera
-    pt-br: soap opera
+    pt_br: soap opera
     ro: soap opera
     ru: мыльная опера
     sh: sapunica
@@ -149,7 +149,7 @@ dv_has_:
     sv: såpopera
     ta: தொலைக்காட்சி நாடகத் தொடர்
     tg: Операи собунӣ
-    tg-cyrl: операи собунӣ
+    tg_cyrl: операи собунӣ
     tr: pembe dizi
     tt: сабын операсы
     uk: мильна опера
@@ -158,14 +158,14 @@ dv_has_:
     wuu: 肥皂剧
     yue: 肥皂劇
     zh: 肥皂劇
-    zh-cn: 肥皂剧
-    zh-hans: 肥皂剧
-    zh-hant: 肥皂劇
-    zh-hk: 肥皂劇
-    zh-mo: 肥皂劇
+    zh_cn: 肥皂剧
+    zh_hans: 肥皂剧
+    zh_hant: 肥皂劇
+    zh_hk: 肥皂劇
+    zh_mo: 肥皂劇
     zh-my: 肥皂剧
-    zh-sg: 肥皂剧
-    zh-tw: 肥皂劇
+    zh_sg: 肥皂剧
+    zh_tw: 肥皂劇
 ---
 # [[Soap_Opera]] 
 

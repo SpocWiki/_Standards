@@ -160,7 +160,7 @@ dv_has_:
     azb: آیریمجیلیق
     bcl: Diskriminasyon
     be: дыскрымінацыя
-    be-tarask: дыскрымінацыя
+    be_tarask: дыскрымінацыя
     bg: дискриминация
     bho: भेदभाव
     bn: বৈষম্য
@@ -174,12 +174,12 @@ dv_has_:
     cy: gwahaniaethu
     da: diskrimination
     de: Diskriminierung
-    de-ch: Diskriminierung
+    de_ch: Diskriminierung
     diq: Diskriminasyon
     el: διάκριση
     en: discrimination
-    en-ca: discrimination
-    en-gb: discrimination
+    en_ca: discrimination
+    en_gb: discrimination
     eo: diskriminacio
     es: discriminación
     et: diskrimineerimine
@@ -210,11 +210,11 @@ dv_has_:
     jam: Diskriminieshan
     ka: დისკრიმინაცია
     kk: Кемсіту
-    kk-arab: كەمسىتۋ
+    kk_arab: كەمسىتۋ
     kk-cn: كەمسىتۋ
-    kk-cyrl: Кемсіту
+    kk_cyrl: Кемсіту
     kk-kz: Кемсіту
-    kk-latn: Kemsitw
+    kk_latn: Kemsitw
     kk-tr: Kemsitw
     kn: ತಾರತಮ್ಯ
     ko: 차별
@@ -231,7 +231,7 @@ dv_has_:
     my: ခွဲခြားဆက်ဆံခြင်း
     nb: forskjellsbehandling
     nds: Diskriminatschoon
-    nds-nl: diskriminatie
+    nds_nl: diskriminatie
     new: भेद
     nl: discriminatie
     nn: ulik behandling
@@ -241,7 +241,7 @@ dv_has_:
     pms: Discriminassion
     ps: تبعیض
     pt: discriminação
-    pt-br: discriminação
+    pt_br: discriminação
     rki: ခွဲခြားဆက်ဆံခြင်း
     rmy: Diskriminaciya
     ro: discriminare
@@ -259,8 +259,8 @@ dv_has_:
     so: Takoornimo
     sq: diskriminim
     sr: дискриминација
-    sr-ec: дискриминација
-    sr-el: diskriminacija
+    sr_ec: дискриминација
+    sr_el: diskriminacija
     sv: diskriminering
     ta: பாகுபாடு
     tg: Табъиз
@@ -278,12 +278,12 @@ dv_has_:
     yi: דיסקרימינאציע
     yue: 歧視
     zh: 歧視
-    zh-cn: 歧视
-    zh-hans: 歧视
-    zh-hant: 歧視
-    zh-hk: 歧視
-    zh-sg: 歧视
-    zh-tw: 歧視
+    zh_cn: 歧视
+    zh_hans: 歧视
+    zh_hant: 歧視
+    zh_hk: 歧視
+    zh_sg: 歧视
+    zh_tw: 歧視
 ---
 # [[Discrimination]] 
 

@@ -265,8 +265,8 @@ Unicode_character:
 dv_has_:
   name_:
     ace: Mata
-    aeb-arab: عين
-    aeb-latn: 3in
+    aeb_arab: عين
+    aeb_latn: 3in
     af: oog
     am: አይን
     ami: Mata
@@ -289,7 +289,7 @@ dv_has_:
     bbc: Simalolong
     bcl: Mata
     be: вока
-    be-tarask: вока
+    be_tarask: вока
     bew: Mata
     bg: Око
     bho: आँखि
@@ -323,8 +323,8 @@ dv_has_:
     el: Μάτι
     eml: Òć
     en: eye
-    en-ca: Eye
-    en-gb: eye
+    en_ca: Eye
+    en_gb: eye
     eo: okulo
     es: ojo
     et: silm
@@ -345,7 +345,7 @@ dv_has_:
     gn: Tesa
     gom: Dollo
     gom-deva: दोळो
-    gom-latn: Dollo
+    gom_latn: Dollo
     got: "\U00010330\U0001033F\U00010332\U00010349"
     gsw: Auge
     gu: આંખ
@@ -425,7 +425,7 @@ dv_has_:
     nap: Uocchie
     nb: øye
     nds: Oog
-    nds-nl: oge
+    nds_nl: oge
     ne: आँखा
     nia: Hörö
     nl: oog
@@ -493,7 +493,7 @@ dv_has_:
     tr: göz
     trv: Doriq
     tt: күз
-    tt-cyrl: күз
+    tt_cyrl: күз
     tum: Jiso
     tw: Aniwa
     udm: син
@@ -518,9 +518,9 @@ dv_has_:
     za: Da
     zgh: ⵜⵉⵟⵟ
     zh: 眼
-    zh-hans: 眼
-    zh-hant: 眼
-    zh-tw: 眼
+    zh_hans: 眼
+    zh_hant: 眼
+    zh_tw: 眼
     zu: Iso
 ---
 # [[Eye]] 👁 

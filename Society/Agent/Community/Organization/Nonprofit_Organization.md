@@ -175,7 +175,7 @@ dv_has_:
     az: qeyri-kommersiya təşkilatı
     ba: коммерцияға ҡарамаған ойошма
     be: некамерцыйная арганізацыя
-    be-tarask: некамэрцыйная арганізацыя
+    be_tarask: некамэрцыйная арганізацыя
     bg: организация с нестопанска цел
     bn: অলাভজনক সংগঠন
     br: aozadur hep pal kenwerzhel
@@ -188,7 +188,7 @@ dv_has_:
     de: Non-Profit-Organisation
     el: μη κερδοσκοπικός οργανισμός
     en: nonprofit organization
-    en-gb: non-profit organisation
+    en_gb: non-profit organisation
     en-us: non-profit organization
     eo: neprofitcela organizaĵo
     es: organización sin fines de lucro
@@ -218,15 +218,15 @@ dv_has_:
     ka: არაკომერციული ორგანიზაცია
     kab: tuddsa tarfarest
     kk: коммерциялық емес ұйым
-    kk-arab: كوممەرتسىييالىق ەمەس ۇيىم
+    kk_arab: كوممەرتسىييالىق ەمەس ۇيىم
     kk-cn: كوممەرتسىييالىق ەمەس ۇيىم
-    kk-cyrl: коммерциялық емес ұйым
+    kk_cyrl: коммерциялық емес ұйым
     kk-kz: коммерциялық емес ұйым
-    kk-latn: kommercïyalıq emes uýım
+    kk_latn: kommercïyalıq emes uýım
     kk-tr: kommercïyalıq emes uýım
     ko: 비영리 단체
     ku: rêxistina bê qezenc
-    ku-latn: rêxistina bê qezenc
+    ku_latn: rêxistina bê qezenc
     kw: kowethyans heb budh
     ky: коммерциялык эмес уюм
     la: societas non lucrativa
@@ -240,7 +240,7 @@ dv_has_:
     mn: ашгийн бус байгууллага
     mr: विना-नफा संस्था
     ms: pertubuhan bukan untung
-    ms-arab: ڤرتوبوهن بوکن اونتوڠ
+    ms_arab: ڤرتوبوهن بوکن اونتوڠ
     nan: hui êng-lī cho͘-chit
     nb: ideell organisasjon
     ne: गैह्रनाफामुखी संस्था
@@ -252,7 +252,7 @@ dv_has_:
     pl: organizacja non-profit
     ps: سازمان چي اړین ټکی يې ګټه نده
     pt: organização sem fins lucrativos
-    pt-br: organização sem fins lucrativos
+    pt_br: organização sem fins lucrativos
     ro: organizație non-profit
     ru: некоммерческая организация
     sah: нон-профит
@@ -264,8 +264,8 @@ dv_has_:
     sl: neprofitna organizacija
     sq: organizatë jofitimprurëse
     sr: непрофитна организација
-    sr-ec: непрофитна организација
-    sr-el: neprofitna organizacija
+    sr_ec: непрофитна организација
+    sr_el: neprofitna organizacija
     sv: ideell organisation
     sw: shirika lisilo la faida
     ta: இலாப நோக்கற்ற அமைப்பு
@@ -286,14 +286,14 @@ dv_has_:
     yo: àgbájọ aláìjẹ́-tìèrè
     yue: 非牟利組織
     zh: 非營利組織
-    zh-cn: 非营利组织
-    zh-hans: 非营利组织
-    zh-hant: 非營利組織
-    zh-hk: 非牟利組織
-    zh-mo: 非牟利組織
+    zh_cn: 非营利组织
+    zh_hans: 非营利组织
+    zh_hant: 非營利組織
+    zh_hk: 非牟利組織
+    zh_mo: 非牟利組織
     zh-my: 非营利组织
-    zh-sg: 非营利组织
-    zh-tw: 非營利組織
+    zh_sg: 非营利组织
+    zh_tw: 非營利組織
     zu: inhlangano engenzi nzuzo
 ---
 #is_/same_as :: [[WD~Nonprofit_organization,163740]] 

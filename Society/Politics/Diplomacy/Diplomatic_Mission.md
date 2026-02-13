@@ -96,7 +96,7 @@ dv_has_:
     az: səfirlik
     bcl: Diplomatikong misyon
     be: дыпламатычнае прадстаўніцтва
-    be-tarask: дыпляматычная місія
+    be_tarask: дыпляматычная місія
     bg: Дипломатическа мисия
     bn: কূটনৈতিক মিশন
     br: Kannati
@@ -138,7 +138,7 @@ dv_has_:
     mk: дипломатско претставништво
     mn: Элчин сайдын яам
     ms: misi diplomatik
-    ms-arab: کدوتاءن
+    ms_arab: کدوتاءن
     nb: diplomatisk utsending
     nl: diplomatieke missie
     nn: diplomatisk utsending
@@ -154,7 +154,7 @@ dv_has_:
     sl: veleposlaništvo
     sq: Misioni diplomatik
     sr: дипломатско представништво
-    sr-ec: дипломатско представништво
+    sr_ec: дипломатско представништво
     sv: beskickning
     th: คณะผู้แทนทางทูต
     tl: Misyong diplomatiko
@@ -167,12 +167,12 @@ dv_has_:
     wuu: 外交代表机构
     yue: 外交代表機構
     zh: 外交代表機構
-    zh-cn: 外交代表机构
-    zh-hans: 外交代表机构
-    zh-hant: 外交代表機構
-    zh-hk: 外交代表機構
-    zh-sg: 外交代表机构
-    zh-tw: 外交代表機構
+    zh_cn: 外交代表机构
+    zh_hans: 外交代表机构
+    zh_hant: 外交代表機構
+    zh_hk: 外交代表機構
+    zh_sg: 外交代表机构
+    zh_tw: 外交代表機構
 ---
 # [[Diplomatic_Mission]] 
 

@@ -55,7 +55,7 @@ dv_has_:
     ast: Uzi
     az: Uzi
     be: Uzi
-    be-tarask: Uzi
+    be_tarask: Uzi
     bg: Узи
     bn: উজি
     br: Uzi
@@ -96,7 +96,7 @@ dv_has_:
     pnb: اوزی
     ps: یوزي
     pt: Uzi
-    pt-br: Uzi
+    pt_br: Uzi
     ro: Pistol-mitralieră Uzi
     ru: Uzi
     sco: Uzi
@@ -115,12 +115,12 @@ dv_has_:
     yi: עוזי
     yue: 烏茲衝鋒槍
     zh: 烏茲衝鋒槍
-    zh-cn: 乌兹冲锋枪
-    zh-hans: 乌兹冲锋枪
-    zh-hant: 烏茲衝鋒槍
-    zh-hk: 烏茲衝鋒槍
-    zh-sg: 乌兹冲锋枪
-    zh-tw: 烏茲衝鋒槍
+    zh_cn: 乌兹冲锋枪
+    zh_hans: 乌兹冲锋枪
+    zh_hant: 烏茲衝鋒槍
+    zh_hk: 烏茲衝鋒槍
+    zh_sg: 乌兹冲锋枪
+    zh_tw: 烏茲衝鋒槍
 ---
 # [[Uzi]] 
 

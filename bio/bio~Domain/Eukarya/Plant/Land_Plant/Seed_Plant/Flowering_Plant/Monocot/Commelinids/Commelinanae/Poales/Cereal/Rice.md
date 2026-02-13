@@ -231,7 +231,7 @@ water_footprint:
 - 2172
 dv_has_:
   name_:
-    aeb-arab: روز
+    aeb_arab: روز
     af: Rys
     am: ሩዝ
     ami: panay
@@ -256,7 +256,7 @@ dv_has_:
     bcl: paroy
     bdr: Buas
     be: рыс
-    be-tarask: рыс
+    be_tarask: рыс
     bg: ориз
     bho: चाउर
     bjn: banih
@@ -275,7 +275,7 @@ dv_has_:
     ckb: برنج
     co: risu
     crh: pirinç
-    crh-latn: pirinç
+    crh_latn: pirinç
     crh-ro: píríj
     cs: rýže
     csb: riz
@@ -284,7 +284,7 @@ dv_has_:
     da: ris
     dag: shinkafa
     de: Reis
-    de-ch: Reis
+    de_ch: Reis
     din: lop
     diq: rız
     dsb: rajs
@@ -294,8 +294,8 @@ dv_has_:
     el: ρύζι
     eml: rîs
     en: rice
-    en-ca: rice
-    en-gb: rice
+    en_ca: rice
+    en_gb: rice
     eo: rizo
     es: arroz
     et: riis
@@ -371,7 +371,7 @@ dv_has_:
     lzh: 稻
     mad: Bherrâs
     mai: धान
-    map-bms: Sega
+    map_bms: Sega
     mg: vary
     mi: raihi
     min: bareh
@@ -390,7 +390,7 @@ dv_has_:
     nan: bí
     nb: ris
     nds: Ries
-    nds-nl: ries
+    nds_nl: ries
     ne: धान
     new: जाकि
     nl: rijst
@@ -408,7 +408,7 @@ dv_has_:
     pl: ryż
     pnb: چوݪ
     pt: arroz
-    pt-br: arroz
+    pt_br: arroz
     qu: arrus
     rn: umuceri
     ro: orez
@@ -435,8 +435,8 @@ dv_has_:
     so: bariis
     sq: orizi
     sr: пиринач
-    sr-ec: пиринач
-    sr-el: pirinač
+    sr_ec: пиринач
+    sr_el: pirinač
     srn: aleysi
     st: raese
     su: béas
@@ -455,7 +455,7 @@ dv_has_:
     tr: pirinç
     trv: masu
     tt: дөге
-    tt-cyrl: дөге
+    tt_cyrl: дөге
     udm: рис
     ug: گۈرۈچ
     uk: рис
@@ -475,9 +475,9 @@ dv_has_:
     yue: 稻米
     za: haeuxbieg
     zh: 稻
-    zh-cn: 稻米
-    zh-hans: 稻
-    zh-hant: 稻米
+    zh_cn: 稻米
+    zh_hans: 稻
+    zh_hant: 稻米
     zu: ilayisi
 ---
 # [[Rice]] 🍚 

@@ -198,7 +198,7 @@ dv_has_:
     ban: Gas mulia
     bar: Edlgase
     be: Інертныя газы
-    be-tarask: інэртныя газы
+    be_tarask: інэртныя газы
     bg: Благороден газ
     bho: नोबल गैस
     bn: নিষ্ক্রিয় গ্যাস
@@ -212,12 +212,12 @@ dv_has_:
     cy: Nwy nobl
     da: ædelgas
     de: Edelgas
-    de-ch: Edelgase
+    de_ch: Edelgase
     diq: Qazo bêtesirın
     el: 18η ομάδα του περιοδικού πίνακα
     en: noble gases
-    en-ca: Noble gas
-    en-gb: noble gas
+    en_ca: Noble gas
+    en_gb: noble gas
     eo: nobla gaso
     es: gases nobles
     et: väärisgaasid
@@ -289,7 +289,7 @@ dv_has_:
     pl: gazy szlachetne
     pnb: نوبل گیساں
     pt: gás nobre
-    pt-br: Gás nobre
+    pt_br: Gás nobre
     qu: Umiña wapsi
     ro: gaz nobil
     ru: инертные газы
@@ -305,7 +305,7 @@ dv_has_:
     so: Neefta Gobta
     sq: Grupi i tetëmbëdhjetë i elementeve kimike
     sr: племенити гас
-    sr-ec: Племенити гас
+    sr_ec: Племенити гас
     su: Gas mulya
     sv: ädelgaser
     sw: Gesi adimu
@@ -326,9 +326,9 @@ dv_has_:
     yo: Ẹ̀fúùfù abíire
     yue: 惰性氣體
     zh: 貴氣體
-    zh-cn: 稀有气体
-    zh-hans: 稀有气体
-    zh-hant: 貴氣體
+    zh_cn: 稀有气体
+    zh_hans: 稀有气体
+    zh_hant: 貴氣體
 ---
 # [[Group-18-Nobel-Gases]]
 

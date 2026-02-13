@@ -82,12 +82,12 @@ dv_has_:
     vi: Bộ Cung thú
     war: Therapsida
     zh: 獸孔類
-    zh-cn: 獸孔類
-    zh-hans: 兽孔类
-    zh-hant: 獸孔目
-    zh-hk: 獸孔目
-    zh-sg: 兽孔目
-    zh-tw: 獸孔目
+    zh_cn: 獸孔類
+    zh_hans: 兽孔类
+    zh_hant: 獸孔目
+    zh_hk: 獸孔目
+    zh_sg: 兽孔目
+    zh_tw: 獸孔目
 ---
 # [[Therapsida]]
 

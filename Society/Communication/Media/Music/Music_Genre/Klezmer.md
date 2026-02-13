@@ -33,7 +33,7 @@ dv_has_:
     arz: كليزمر
     ast: Klezmer
     bar: Klesmer
-    be-tarask: Клезьмер
+    be_tarask: Клезьмер
     bg: Клезмер
     ca: klezmer
     cs: klezmer

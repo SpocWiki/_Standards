@@ -114,7 +114,7 @@ dv_has_:
     ban: Pokemon
     bar: Pokemon
     be: Пакемон
-    be-tarask: пакемон
+    be_tarask: пакемон
     bew: Pokémon
     bg: Покемон
     bho: पॉकेमॉन
@@ -122,7 +122,7 @@ dv_has_:
     br: Pokémon
     bs: Pokémon
     ca: Pokémon
-    cbk-zam: Pokémon
+    cbk_zam: Pokémon
     ce: Покемон
     ceb: Pokémon
     chr: ᏉᎨᎼᏂ
@@ -131,12 +131,12 @@ dv_has_:
     cy: Pokémon
     da: Pokémon
     de: Pokémon-Franchise
-    de-ch: Pokémon
+    de_ch: Pokémon
     diq: Pokemon
     el: Pokémon
     en: Pokémon
-    en-ca: Pokémon
-    en-gb: Pokémon
+    en_ca: Pokémon
+    en_gb: Pokémon
     eo: Pokemono
     es: Pokémon
     et: Pokémon
@@ -203,7 +203,7 @@ dv_has_:
     pl: Pokémon
     pnb: پوکیمون
     pt: Pokémon
-    pt-br: Pokémon
+    pt_br: Pokémon
     rki: ပိုကီမွန်
     ro: Pokémon
     ru: Покемон
@@ -235,14 +235,14 @@ dv_has_:
     yi: פאקעמאן
     yue: 寵物小精靈
     zh: 寶可夢系列
-    zh-cn: 宝可梦系列
-    zh-hans: 精灵宝可梦
-    zh-hant: 寶可夢系列
-    zh-hk: 寶可夢
-    zh-mo: 寵物小精靈
+    zh_cn: 宝可梦系列
+    zh_hans: 精灵宝可梦
+    zh_hant: 寶可夢系列
+    zh_hk: 寶可夢
+    zh_mo: 寵物小精靈
     zh-my: 神奇宝贝
-    zh-sg: 神奇宝贝
-    zh-tw: 寶可夢系列
+    zh_sg: 神奇宝贝
+    zh_tw: 寶可夢系列
 ---
 # [[Pokémon]] 
 

@@ -165,7 +165,7 @@ dv_has_:
     ban: Butuh
     bcl: Bayag
     be: яечкі
-    be-tarask: яечкі
+    be_tarask: яечкі
     bew: Biji pelèr
     bg: Тестис
     bn: শুক্রাশয়
@@ -185,8 +185,8 @@ dv_has_:
     dv: އޮށް
     el: Όρχεις
     en: testicle
-    en-ca: Testicle
-    en-gb: testicle
+    en_ca: Testicle
+    en_gb: testicle
     en-us: testicle
     eo: testiko
     es: testículo
@@ -248,7 +248,7 @@ dv_has_:
     pl: jądro
     pnb: ٹٹے
     pt: testículo
-    pt-br: Testículo
+    pt_br: Testículo
     pwn: karai
     qu: Q'uruta
     ro: Testicul
@@ -268,7 +268,7 @@ dv_has_:
     so: Xiniinyaha
     sq: Testikuli
     sr: тестис
-    sr-ec: Тестис
+    sr_ec: Тестис
     su: Téstis
     sv: testikel
     ta: விந்தகம்
@@ -289,11 +289,11 @@ dv_has_:
     wuu: 睾丸
     yue: 膥 (身)
     zh: 睾丸
-    zh-cn: 睾丸
-    zh-hans: 睾丸
-    zh-hant: 睪丸
-    zh-hk: 睾丸
-    zh-tw: 睪丸
+    zh_cn: 睾丸
+    zh_hans: 睾丸
+    zh_hant: 睪丸
+    zh_hk: 睾丸
+    zh_tw: 睪丸
 ---
 # [[Testicle]] 
 

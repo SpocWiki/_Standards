@@ -93,7 +93,7 @@ dv_has_:
     bar: Hotdogs
     bcl: hotdog
     be: хот-дог
-    be-tarask: хот-дог
+    be_tarask: хот-дог
     bg: хотдог
     bn: হট ডগ
     br: hot dog
@@ -106,8 +106,8 @@ dv_has_:
     de: Hotdog
     el: χοτ ντογκ
     en: hot dog
-    en-ca: hot dog
-    en-gb: hot dog
+    en_ca: hot dog
+    en_gb: hot dog
     eo: kolbasobulko
     es: perro caliente
     et: hot dog
@@ -134,8 +134,8 @@ dv_has_:
     kn: ಹಾಟ್ ಡಾಗ್
     ko: 핫도그
     ku: Hot dog
-    ku-arab: حۆت دۆگ
-    ku-latn: hot dog
+    ku_arab: حۆت دۆگ
+    ku_latn: hot dog
     la: hilla calens
     lb: Hotdog
     lmo: hot dog
@@ -154,7 +154,7 @@ dv_has_:
     pa: ਹੌਟ ਡੌਗ
     pl: hot dog
     pt: cachorro-quente
-    pt-br: cachorro-quente
+    pt_br: cachorro-quente
     ro: hotdog
     ru: хот-дог
     sei: 4 agosto
@@ -163,8 +163,8 @@ dv_has_:
     sl: hot dog
     sq: Hot dog
     sr: виршла
-    sr-ec: виршла
-    sr-el: viršla
+    sr_ec: виршла
+    sr_el: viršla
     sv: varmkorv
     te: హాట్ డాగ్
     th: ฮอตดอก
@@ -183,11 +183,11 @@ dv_has_:
     yue: 熱狗
     zh: 熱狗
     zh-cn: 热狗
-    zh-hans: 热狗
-    zh-hant: 熱狗
-    zh-hk: 熱狗
-    zh-sg: 热狗
-    zh-tw: 熱狗
+    zh_hans: 热狗
+    zh_hant: 熱狗
+    zh_hk: 熱狗
+    zh_sg: 热狗
+    zh_tw: 熱狗
 ---
 # [[Hot_Dog]] 
 

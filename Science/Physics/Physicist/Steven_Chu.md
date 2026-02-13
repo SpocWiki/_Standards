@@ -134,7 +134,7 @@ dv_has_:
     az: Stiven Çu
     azb: استیون چو
     be: Стывен Чу
-    be-tarask: Стывэн Чу
+    be_tarask: Стывэн Чу
     bg: Стивън Чу
     bn: স্টিভেন চু
     ca: Steven Chu
@@ -171,8 +171,8 @@ dv_has_:
     kl: Steven Chu
     ko: 스티븐 추
     ku: Steven Chu
-    ku-arab: ستەڤەن جهو
-    ku-latn: Steven Chu
+    ku_arab: ستەڤەن جهو
+    ku_latn: Steven Chu
     la: Stephanus Chu
     lb: Steven Chu
     lt: Steven Chu
@@ -193,7 +193,7 @@ dv_has_:
     pl: Steven Chu
     pnb: سٹیون چو
     pt: Steven Chu
-    pt-br: Steven Chu
+    pt_br: Steven Chu
     ro: Steven Chu
     ru: Стивен Чу
     sa: स्टीवन चू
@@ -217,12 +217,12 @@ dv_has_:
     yo: Steven Chu
     yue: 朱棣文
     zh: 朱棣文
-    zh-cn: 朱棣文
-    zh-hans: 朱棣文
-    zh-hant: 朱棣文
-    zh-hk: 朱棣文
-    zh-sg: 朱棣文
-    zh-tw: 朱棣文
+    zh_cn: 朱棣文
+    zh_hans: 朱棣文
+    zh_hant: 朱棣文
+    zh_hk: 朱棣文
+    zh_sg: 朱棣文
+    zh_tw: 朱棣文
 ---
 # [[Steven_Chu]] 
 

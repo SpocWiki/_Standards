@@ -108,7 +108,7 @@ dv_has_:
     azb: ایمی اؤدولو
     bar: Emmy
     be: Эмі
-    be-tarask: Эмі
+    be_tarask: Эмі
     bg: Еми
     bn: এমি পুরস্কার
     br: Emmy Awards
@@ -124,8 +124,8 @@ dv_has_:
     el: βραβεία Έμμυ
     eml: Emmy Award
     en: Emmy Award
-    en-ca: Emmy Award
-    en-gb: Emmy Award
+    en_ca: Emmy Award
+    en_gb: Emmy Award
     en-us: Emmy Award
     eo: Premio Emmy
     es: Premios Emmy
@@ -174,7 +174,7 @@ dv_has_:
     pnb: ایمی انعام
     ps: امی جایزه
     pt: Emmy
-    pt-br: Emmy
+    pt_br: Emmy
     ro: Premiul Emmy
     ru: Эмми
     sh: Emmy Award
@@ -183,8 +183,8 @@ dv_has_:
     skr: ایمی اعزاز
     sl: emmy
     sr: Еми
-    sr-ec: Еми
-    sr-el: Emi
+    sr_ec: Еми
+    sr_el: Emi
     sv: Emmy Award
     sw: Emmy
     ta: எம்மி விருது
@@ -202,12 +202,12 @@ dv_has_:
     xmf: ემიშ ჯილდო
     yue: 艾美獎
     zh: 艾美奖
-    zh-cn: 艾美奖
-    zh-hans: 艾美奖
-    zh-hant: 艾美獎
-    zh-hk: 艾美獎
-    zh-sg: 艾美奖
-    zh-tw: 艾美獎
+    zh_cn: 艾美奖
+    zh_hans: 艾美奖
+    zh_hant: 艾美獎
+    zh_hk: 艾美獎
+    zh_sg: 艾美奖
+    zh_tw: 艾美獎
 ---
 # [[Emmy_Award]] 
 

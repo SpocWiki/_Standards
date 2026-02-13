@@ -88,7 +88,7 @@ dv_has_:
     ar: قانون حفظ الكتلة
     ast: Llei de caltenimientu de la materia
     be: Закон захавання масы
-    be-tarask: закон захаваньня масы
+    be_tarask: закон захаваньня масы
     bg: Закон за запазване на масата
     bs: Zakon održanja mase
     ca: llei de conservació de la massa
@@ -146,8 +146,8 @@ dv_has_:
     sl: zakon o ohranitvi mase
     sq: Ligji i ruajtjes së masës
     sr: закон одржања масе
-    sr-ec: Закон о одржању масе
-    sr-el: Zakon o održanju mase
+    sr_ec: Закон о одржању масе
+    sr_el: Zakon o održanju mase
     sv: Lagen om massans bevarande
     ta: திணிவுக் காப்பு விதி
     te: ద్రవ్య నిశ్చత్వ నియమము
@@ -161,9 +161,9 @@ dv_has_:
     wuu: 质量守恒定律
     yue: 質量守恆定律
     zh: 质量守恒定律
-    zh-hans: 质量守恒定律
-    zh-hant: 質量守恆定律
-    zh-hk: 質量守恆定律
+    zh_hans: 质量守恒定律
+    zh_hant: 質量守恆定律
+    zh_hk: 質量守恆定律
 ---
 # [[Conservation_of_Mass]] 
 

@@ -171,27 +171,27 @@ dv_has_:
     azb: رولینق استونز
     bar: The Rolling Stones
     be: The Rolling Stones
-    be-tarask: The Rolling Stones
+    be_tarask: The Rolling Stones
     bg: Ролинг Стоунс
     bn: দ্য রোলিং স্টোন্স
     br: The Rolling Stones
     bs: The Rolling Stones
     ca: The Rolling Stones
-    cbk-zam: The Rolling Stones
+    cbk_zam: The Rolling Stones
     ceb: The Rolling Stones
     co: The Rolling Stones
     cs: The Rolling Stones
     cy: The Rolling Stones
     da: The Rolling Stones
     de: The Rolling Stones
-    de-ch: The Rolling Stones
+    de_ch: The Rolling Stones
     diq: The Rolling Stones
     dsb: The Rolling Stones
     el: The Rolling Stones
     eml: The Rolling Stones
     en: The Rolling Stones
-    en-ca: The Rolling Stones
-    en-gb: The Rolling Stones
+    en_ca: The Rolling Stones
+    en_gb: The Rolling Stones
     eo: The Rolling Stones
     es: The Rolling Stones
     et: The Rolling Stones
@@ -242,7 +242,7 @@ dv_has_:
     nan: The Rolling Stones
     nb: The Rolling Stones
     nds: The Rolling Stones
-    nds-nl: The Rolling Stones
+    nds_nl: The Rolling Stones
     ne: द रोलिङ्ग स्टोन्स
     nl: The Rolling Stones
     nn: The Rolling Stones
@@ -254,7 +254,7 @@ dv_has_:
     pl: The Rolling Stones
     pms: The Rolling Stones
     pt: The Rolling Stones
-    pt-br: The Rolling Stones
+    pt_br: The Rolling Stones
     qu: The Rolling Stones
     ro: The Rolling Stones
     ru: The Rolling Stones
@@ -290,8 +290,8 @@ dv_has_:
     yue: 滾石樂隊
     zea: The Rolling Stones
     zh: 滚石乐队
-    zh-hant: 滾石樂隊
-    zh-tw: 滾石樂團
+    zh_hant: 滾石樂隊
+    zh_tw: 滾石樂團
 ---
 # [[Rolling_Stones]] 
 

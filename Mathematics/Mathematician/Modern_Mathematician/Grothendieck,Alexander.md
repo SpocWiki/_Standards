@@ -38,7 +38,7 @@ dv_has_:
     ast: Alexander Grothendieck
     azb: الکساندر قروتندیک
     be: Аляксандр Гратэндзік
-    be-tarask: Аляксандар Гратэндык
+    be_tarask: Аляксандар Гратэндык
     bg: Александър Гротендик
     bo: ཨ་ལེག་ཟན་ཌར་གྷོས་རོ་ཐེན་ཌིག
     ca: Alexander Grothendieck
@@ -47,11 +47,11 @@ dv_has_:
     da: Alexander Grothendieck
     dag: Alexander Grothendieck
     de: Alexander Grothendieck
-    de-ch: Alexander Grothendieck
+    de_ch: Alexander Grothendieck
     el: Αλεξάντερ Γρότντικ
     en: Alexander Grothendieck
-    en-ca: Alexander Grothendieck
-    en-gb: Alexander Grothendieck
+    en_ca: Alexander Grothendieck
+    en_gb: Alexander Grothendieck
     eo: Alexander Grothendieck
     es: Alexander Grothendieck
     et: Alexander Grothendieck
@@ -84,7 +84,7 @@ dv_has_:
     pnb: ایلیگزنڈر گروتھنڈائیک
     ps: الکساند ګروټنډیک
     pt: Alexander Grothendieck
-    pt-br: Alexander Grothendieck
+    pt_br: Alexander Grothendieck
     ro: Alexandre Grothendieck
     ru: Александр Гротендик
     scn: Alexandre Grothendieck
@@ -102,8 +102,8 @@ dv_has_:
     vi: Alexander Grothendieck
     yue: 戈騰狄
     zh: 亚历山大·格罗滕迪克
-    zh-hans: 亚历山大·格罗滕迪克
-    zh-hant: 亞歷山大·格羅滕迪克
+    zh_hans: 亚历山大·格罗滕迪克
+    zh_hant: 亞歷山大·格羅滕迪克
 ---
 #has_/time_/started :: 1928-03-28 
 #has_/time_/stopped :: 2014-11-13

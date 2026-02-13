@@ -95,7 +95,7 @@ dv_has_:
     ba: Майкл Фелпс
     bcl: Michael Phelps
     be: Майкл Фелпс
-    be-tarask: Майкл Фэлпс
+    be_tarask: Майкл Фэлпс
     bg: Майкъл Фелпс
     bn: মাইকেল ফেলপস
     bs: Michael Phelps
@@ -108,8 +108,8 @@ dv_has_:
     diq: Michael Phelps
     el: Μάικλ Φελπς
     en: Michael Phelps
-    en-ca: Michael Phelps
-    en-gb: Michael Phelps
+    en_ca: Michael Phelps
+    en_gb: Michael Phelps
     eo: Michael Phelps
     es: Michael Phelps
     et: Michael Phelps
@@ -161,7 +161,7 @@ dv_has_:
     pl: Michael Phelps
     pnb: مائیکل فیلپس
     pt: Michael Phelps
-    pt-br: Michael Phelps
+    pt_br: Michael Phelps
     qu: Michael Phelps
     ro: Michael Phelps
     ru: Майкл Фелпс
@@ -188,8 +188,8 @@ dv_has_:
     xmf: მაიკლ ფელპსი
     yue: 菲比斯
     zh: 迈克尔·菲尔普斯
-    zh-hk: 米高·菲比斯
-    zh-tw: 麥可·菲爾普斯
+    zh_hk: 米高·菲比斯
+    zh_tw: 麥可·菲爾普斯
 ---
 # [[Phelps,Michael]] 
 

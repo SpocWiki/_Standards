@@ -231,7 +231,7 @@ dv_has_:
     bar: Rocky Mountains
     bcl: Kabukidan kan Rocky
     be: Скалістыя горы
-    be-tarask: Скалістыя горы
+    be_tarask: Скалістыя горы
     bg: Скалисти планини
     bho: रॉकी परबत
     bn: রকি পর্বতমালা
@@ -252,8 +252,8 @@ dv_has_:
     diq: Koyê Salekıni
     el: Βραχώδη Όρη
     en: Rocky Mountains
-    en-ca: Rocky Mountains
-    en-gb: Rocky Mountains
+    en_ca: Rocky Mountains
+    en_gb: Rocky Mountains
     eo: Roka Montaro
     es: Montañas Rocosas
     et: Kaljumäestik
@@ -328,7 +328,7 @@ dv_has_:
     pms: Montagne Rocose
     pnb: روکی پہاڑ
     pt: Montanhas Rochosas
-    pt-br: Montanhas Rochosas
+    pt_br: Montanhas Rochosas
     ro: Munții Stâncoși
     roa-tara: Mundagne Rocciose
     ru: Скалистые горы
@@ -344,8 +344,8 @@ dv_has_:
     smn: Källeeväärih
     sq: Malet Shkëmbore
     sr: Стеновите планине
-    sr-ec: Стеновите планине
-    sr-el: Stenovite planine
+    sr_ec: Стеновите планине
+    sr_el: Stenovite planine
     sv: Klippiga bergen
     sw: Rocky Mountains
     ta: ராக்கி மலைத்தொடர்
@@ -370,9 +370,9 @@ dv_has_:
     yue: 洛磯山脈
     zgh: ⵉⴷⵓⵔⴰⵔ ⵏ ⵔⵓⴽⵉ
     zh: 洛磯山脈
-    zh-cn: 落基山脉
-    zh-hans: 落基山脉
-    zh-hant: 洛磯山脈
+    zh_cn: 落基山脉
+    zh_hans: 落基山脉
+    zh_hant: 洛磯山脈
 ---
 # [[Rocky_Mountains]] 
 

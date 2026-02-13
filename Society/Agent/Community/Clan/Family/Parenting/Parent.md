@@ -240,7 +240,7 @@ dv_has_:
     ba: ата-әсә
     bcl: magurang
     be: бацька
-    be-tarask: бацька
+    be_tarask: бацька
     bg: родител
     bjn: kuitan
     bn: পিতামাতা
@@ -262,8 +262,8 @@ dv_has_:
     ee: dzilawo
     el: γονέας
     en: parent
-    en-ca: parent
-    en-gb: parent
+    en_ca: parent
+    en_gb: parent
     eo: generinto
     es: progenitor
     es-419: padre
@@ -312,7 +312,7 @@ dv_has_:
     ks: مول موج
     ksh: Vatter
     ku: dê û bav
-    ku-latn: dê û bav
+    ku_latn: dê û bav
     la: parens
     lb: Elterendeel
     lfn: jenitor
@@ -333,14 +333,14 @@ dv_has_:
     mnc: ᠨᡳᠶᠠᠮᠠᠨ
     mr: वडील
     ms: orang tua
-    ms-arab: باڤ
+    ms_arab: باڤ
     mt: missier
     my: ဖခင်
     mzn: پییر
     nan: pē-bú
     nb: forelder
     nds: Vader
-    nds-nl: vader
+    nds_nl: vader
     ne: आमा
     nl: ouder
     nn: foreldre
@@ -358,7 +358,7 @@ dv_has_:
     pnb: والدین
     ps: والدين
     pt: progenitor
-    pt-br: pais
+    pt_br: pais
     rm: bab
     rmf: daj
     ro: părinte
@@ -377,8 +377,8 @@ dv_has_:
     so: waalid
     sq: prindi
     sr: родитељ
-    sr-ec: родитељ
-    sr-el: otac
+    sr_ec: родитељ
+    sr_el: otac
     su: indung
     sv: förälder
     sw: wazazi
@@ -386,15 +386,15 @@ dv_has_:
     ta: பெற்றோர்
     te: తండ్రి
     tg: падар
-    tg-cyrl: падар
+    tg_cyrl: падар
     th: บุพการี
     tl: magulang
     tok: mama
     tr: ebeveyn
     ts: tata wakwe
     tt: ата-ана
-    tt-cyrl: ата-ана
-    tt-latn: ata-ana
+    tt_cyrl: ата-ана
+    tt_latn: ata-ana
     tw: ɔwofoɔ
     udm: атаез
     uk: батьки
@@ -415,14 +415,14 @@ dv_has_:
     yue-hans: 父母
     yue-hant: 父母
     zh: 父母
-    zh-cn: 父母
-    zh-hans: 亲本
-    zh-hant: 父母
-    zh-hk: 父母
-    zh-mo: 父母
+    zh_cn: 父母
+    zh_hans: 亲本
+    zh_hant: 父母
+    zh_hk: 父母
+    zh_mo: 父母
     zh-my: 父母
-    zh-sg: 父母
-    zh-tw: 父母
+    zh_sg: 父母
+    zh_tw: 父母
     zu: ubaba
 ---
 # [[Parent]] 

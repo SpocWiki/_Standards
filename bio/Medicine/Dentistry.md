@@ -151,7 +151,7 @@ dv_has_:
     ba: Стоматология
     bcl: Dentistriya
     be: стаматалогія
-    be-tarask: стаматалёгія
+    be_tarask: стаматалёгія
     bg: Дентална медицина
     bn: দন্তবিজ্ঞান
     br: Dentouriezh
@@ -165,11 +165,11 @@ dv_has_:
     cy: Deintyddiaeth
     da: tandlægevidenskab
     de: Zahnmedizin
-    de-ch: Zahnmedizin
+    de_ch: Zahnmedizin
     el: οδοντιατρική
     en: dentistry
-    en-ca: dentistry
-    en-gb: dentistry
+    en_ca: dentistry
+    en_gb: dentistry
     eo: dentokuracado
     es: odontología
     et: stomatoloogia
@@ -226,7 +226,7 @@ dv_has_:
     pnb: دنداں دا علاج
     ps: د غاښونو درملنه
     pt: medicina dentária
-    pt-br: odontologia
+    pt_br: odontologia
     qu: Kiru hampikamayuq
     ro: odontologie
     ru: стоматология
@@ -242,8 +242,8 @@ dv_has_:
     sms: pääʹnntaalkâstiõđ
     sq: Stomatologjia
     sr: стоматологија
-    sr-ec: стоматологија
-    sr-el: stomatologija
+    sr_ec: стоматологија
+    sr_el: stomatologija
     sv: tandvård
     sw: Uganga wa meno
     ta: பல் மருத்துவம்
@@ -266,8 +266,8 @@ dv_has_:
     yi: ציינדאקטעריי
     yue: 牙科
     zh: 牙醫學
-    zh-hant: 牙醫學
-    zh-tw: 牙醫學
+    zh_hant: 牙醫學
+    zh_tw: 牙醫學
 ---
 # [[Dentistry]] 
 

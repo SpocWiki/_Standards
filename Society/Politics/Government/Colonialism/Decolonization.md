@@ -82,7 +82,7 @@ dv_has_:
     ast: descolonización
     az: Müstəmləkəçilikdən azad olma
     be: дэкаланізацыя
-    be-tarask: дэкалянізацыя
+    be_tarask: дэкалянізацыя
     bg: деколонизация
     bn: বিউপনিবেশায়ন
     br: didrevadennerezh
@@ -92,12 +92,12 @@ dv_has_:
     cy: datrefedigaethu
     da: afkolonisering
     de: Dekolonisation
-    de-ch: Dekolonisation
+    de_ch: Dekolonisation
     diq: Dekolonizasyon
     el: αποαποικιοποίηση
     en: decolonization
-    en-ca: Decolonization
-    en-gb: decolonisation
+    en_ca: Decolonization
+    en_gb: decolonisation
     eo: malkoloniigo
     es: descolonización
     et: dekolonisatsioon
@@ -136,7 +136,7 @@ dv_has_:
     pl: dekolonizacja
     ps: د استعمار له منځه وړنه
     pt: descolonização
-    pt-br: Descolonização
+    pt_br: Descolonização
     ro: decolonizare
     ru: деколонизация
     sc: decolonizatzione
@@ -162,12 +162,12 @@ dv_has_:
     xh: I-Decolonization
     yue: 去殖民化
     zh: 非殖民化
-    zh-cn: 非殖民化
-    zh-hans: 非殖民化
-    zh-hant: 非殖民化
-    zh-hk: 非殖民化
-    zh-sg: 非殖民化
-    zh-tw: 非殖民化
+    zh_cn: 非殖民化
+    zh_hans: 非殖民化
+    zh_hant: 非殖民化
+    zh_hk: 非殖民化
+    zh_sg: 非殖民化
+    zh_tw: 非殖民化
 ---
 # [[Decolonization]] 
 

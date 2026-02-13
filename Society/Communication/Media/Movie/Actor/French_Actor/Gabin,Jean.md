@@ -112,7 +112,7 @@ dv_has_:
     azb: ژان قابن
     ba: Жан Габен
     be: Жан Габэн
-    be-tarask: Жан Габэн
+    be_tarask: Жан Габэн
     bg: Жан Габен
     bi: Jean Gabin
     bn: জঁ গাবাঁ
@@ -125,8 +125,8 @@ dv_has_:
     de: Jean Gabin
     el: Ζαν Γκαμπέν
     en: Jean Gabin
-    en-ca: Jean Gabin
-    en-gb: Jean Gabin
+    en_ca: Jean Gabin
+    en_gb: Jean Gabin
     eo: Jean Gabin
     es: Jean Gabin
     et: Jean Gabin
@@ -167,7 +167,7 @@ dv_has_:
     pl: Jean Gabin
     pms: Jean Gabin
     pt: Jean Gabin
-    pt-br: Jean Gabin
+    pt_br: Jean Gabin
     ro: Jean Gabin
     ru: Жан Габен
     sco: Jean Gabin
@@ -188,12 +188,12 @@ dv_has_:
     xmf: ჟან გაბენი
     yue: 尚加賓
     zh: 尚·嘉賓
-    zh-cn: 让·迦本
-    zh-hant: 尚·蓋賓
-    zh-hk: 尚·嘉賓
+    zh_cn: 让·迦本
+    zh_hant: 尚·蓋賓
+    zh_hk: 尚·嘉賓
     zh-my: 尚·嘉宾
-    zh-sg: 尚·嘉宾
-    zh-tw: 尚·蓋賓
+    zh_sg: 尚·嘉宾
+    zh_tw: 尚·蓋賓
 ---
 # [[Gabin,Jean]] 
 

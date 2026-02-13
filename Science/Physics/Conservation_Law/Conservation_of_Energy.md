@@ -133,7 +133,7 @@ dv_has_:
     azb: انرژینین ساخلانماسی قانونو
     ba: Энергия һаҡланыу законы
     be: Закон захавання энергіі
-    be-tarask: Закон захаваньня энэргіі
+    be_tarask: Закон захаваньня энэргіі
     bg: Закон за запазване на енергията
     bn: শক্তির নিত্যতা
     bs: Zakon očuvanja energije
@@ -171,7 +171,7 @@ dv_has_:
     ja: エネルギー保存の法則
     ka: ენერგიის მუდმივობის კანონი
     kk: энергияның сақталу заңы
-    kk-latn: énergïyanıñ saqtalw zañı
+    kk_latn: énergïyanıñ saqtalw zañı
     kn: ಶಕ್ತಿಯ ಸ೦ರಕ್ಷಣೆ
     ko: 에너지 보존 법칙
     krc: Энергия сакълауну закону
@@ -218,7 +218,7 @@ dv_has_:
     th: กฎทรงพลังงาน
     tr: enerjinin korunumu yasası
     tt: энергия саклану кануны
-    tt-latn: énergiâ saklanu kanuny
+    tt_latn: énergiâ saklanu kanuny
     tyv: Энергияның кадагалаттынарының хоойлузу
     udm: энерги возён но берытскон закон
     uk: закон збереження енергії

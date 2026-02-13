@@ -99,7 +99,7 @@ dv_has_:
     ar: جذر كيميائي
     az: Radikal (kimya)
     be: радыкал
-    be-tarask: радыкал
+    be_tarask: радыкал
     bg: Радикал
     bn: মুক্ত মূলক
     bs: Radikal
@@ -144,7 +144,7 @@ dv_has_:
     pl: rodnik
     ps: راديکال
     pt: radical
-    pt-br: radical
+    pt_br: radical
     ro: Radical
     ru: свободные радикалы
     rue: Радикал
@@ -154,8 +154,8 @@ dv_has_:
     sl: radikal
     sq: Radikali (kimi)
     sr: радикал
-    sr-ec: Радикал
-    sr-el: Radikal
+    sr_ec: Радикал
+    sr_el: Radikal
     su: Radikal
     sv: fri radikal
     ta: தனி மின்னுருபு
@@ -169,12 +169,12 @@ dv_has_:
     wuu: 自由基
     yue: 游離基
     zh: 自由基
-    zh-cn: 自由基
-    zh-hans: 自由基
-    zh-hant: 自由基
-    zh-hk: 自由基
-    zh-sg: 自由基
-    zh-tw: 自由基
+    zh_cn: 自由基
+    zh_hans: 自由基
+    zh_hant: 自由基
+    zh_hk: 自由基
+    zh_sg: 自由基
+    zh_tw: 自由基
 ---
 # [[Radical(Chemistry)]] 
 

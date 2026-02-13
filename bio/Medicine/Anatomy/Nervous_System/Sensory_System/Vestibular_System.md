@@ -47,7 +47,7 @@ dv_has_:
     ar: جهاز دهليزي
     az: Vestibulyar aparat
     be: вестыбулярны апарат
-    be-tarask: вэстыбулярны апарат
+    be_tarask: вэстыбулярны апарат
     bg: вестибуларна система
     bs: Vestibulumski sistem
     ca: sistema vestibular
@@ -77,7 +77,7 @@ dv_has_:
     nl: evenwichtsorgaan
     nn: det vestibulære systemet
     pt: aparelho vestibular
-    pt-br: sistema vestibular
+    pt_br: sistema vestibular
     ru: вестибулярный аппарат
     sl: ravnotežni sistem
     sr: Физиологија одржавања равнотеже

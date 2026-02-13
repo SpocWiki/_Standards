@@ -98,7 +98,7 @@ dv_has_:
     ast: En attendant Godot
     az: Qodonu gözləyərkən
     be: У чаканні Гадо
-    be-tarask: У чаканьні Гадо
+    be_tarask: У чаканьні Гадо
     bg: В очакване на Годо
     bn: ওয়েটিং ফর গোডো
     ca: Tot esperant Godot
@@ -109,8 +109,8 @@ dv_has_:
     de: Warten auf Godot
     el: Περιμένοντας τον Γκοντό
     en: Waiting for Godot
-    en-ca: Waiting for Godot
-    en-gb: Waiting for Godot
+    en_ca: Waiting for Godot
+    en_gb: Waiting for Godot
     eo: Atendante Godot
     es: Esperando a Godot
     et: Godot'd oodates
@@ -165,11 +165,11 @@ dv_has_:
     wuu: 等待戈多
     yue: 等緊高鐸
     zh: 等待戈多
-    zh-cn: 等待戈多
-    zh-hans: 等待戈多
-    zh-hant: 等待果陀
+    zh_cn: 等待戈多
+    zh_hans: 等待戈多
+    zh_hant: 等待果陀
     zh-my: 等待果陀
-    zh-sg: 等待果陀
+    zh_sg: 等待果陀
 ---
 # [[Waiting_for_Godot]] 
 

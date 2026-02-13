@@ -39,7 +39,7 @@ dv_has_:
     ar: أخلاقيات الهندسة
     ast: Ética de la inxeniería
     be: Інжынерная этыка
-    be-tarask: інжынэрная этыка
+    be_tarask: інжынэрная этыка
     bg: Инженерна етика
     ca: ètica de l'enginyeria
     en: engineering ethics
@@ -68,8 +68,8 @@ dv_has_:
     uz: Muhandislik etikasi
     yue: 工程學倫理
     zh: 工程倫理
-    zh-hant: 工程倫理
-    zh-hk: 工程倫理
+    zh_hant: 工程倫理
+    zh_hk: 工程倫理
 ---
 #has_/parent_class_ :: [[../../Philosophy/Ethics|Ethics]] 
 #is_/facet_of_ :: [[../Engineering|Engineering]] 

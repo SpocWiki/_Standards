@@ -97,7 +97,7 @@ dv_has_:
     ar: ثقب أسود فائق الكتلة
     ary: محفر كحل مݣضر
     ast: Furacu negru supermasivu
-    be-tarask: Звышмасіўная чорная дзірка
+    be_tarask: Звышмасіўная чорная дзірка
     bew: lobang item gedé gambrèng
     bg: Супермасивна черна дупка
     bn: অতিভারী কৃষ্ণগহ্বর
@@ -107,8 +107,8 @@ dv_has_:
     de: supermassereiches Schwarzes Loch
     el: υπερμεγέθης μαύρη τρύπα
     en: supermassive black hole
-    en-ca: Supermassive black hole
-    en-gb: supermassive black hole
+    en_ca: Supermassive black hole
+    en_gb: supermassive black hole
     en-us: supermassive black hole
     eo: pezega nigra truo
     es: agujero negro supermasivo
@@ -139,7 +139,7 @@ dv_has_:
     pa: ਮਹਾਂਵਿਸ਼ਾਲ ਬਲੈਕ ਹੋਲ
     pl: supermasywna czarna dziura
     pt: buraco negro supermassivo
-    pt-br: buraco negro supermaciço
+    pt_br: buraco negro supermaciço
     ro: Gaură neagră supermasivă
     ru: сверхмассивная чёрная дыра
     sh: Supermasivna crna rupa
@@ -147,8 +147,8 @@ dv_has_:
     sk: Supermasívna čierna diera
     sl: supermasivna črna luknja
     sr: супермасивна црна рупа
-    sr-ec: супермасивна црна рупа
-    sr-el: supermasivna crna rupa
+    sr_ec: супермасивна црна рупа
+    sr_el: supermasivna crna rupa
     su: Liang hideung badag kacida
     sv: supermassiva svarta hål
     ta: மீப்பெரும் நிறை கருந்துளை
@@ -160,11 +160,11 @@ dv_has_:
     xmf: სუპერმასიური უჩა რხვილი
     yue: 超大質量黑洞
     zh: 超大質量黑洞
-    zh-cn: 超大质量黑洞
-    zh-hant: 超大質量黑洞
-    zh-hk: 超大質量黑洞
-    zh-mo: 超大質量黑洞
-    zh-tw: 超大質量黑洞
+    zh_cn: 超大质量黑洞
+    zh_hant: 超大質量黑洞
+    zh_hk: 超大質量黑洞
+    zh_mo: 超大質量黑洞
+    zh_tw: 超大質量黑洞
 ---
 # [[Supermassive_Black_Hole]] 
 

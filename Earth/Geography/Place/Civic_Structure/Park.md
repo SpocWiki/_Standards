@@ -139,7 +139,7 @@ dv_has_:
     az: park
     azb: پارک
     be: парк
-    be-tarask: парк
+    be_tarask: парк
     bg: парк
     bn: উদ্যান
     bs: parkovi
@@ -150,8 +150,8 @@ dv_has_:
     de: Park
     el: πάρκο
     en: park
-    en-ca: park
-    en-gb: park
+    en_ca: park
+    en_gb: park
     eo: parko
     es: parque
     et: park
@@ -196,7 +196,7 @@ dv_has_:
     mk: парк
     ml: ഉദ്യാനം
     ms: taman
-    ms-arab: تامن
+    ms_arab: تامن
     my: ဥယျာဉ်
     mzn: پارک
     nah: chināncalli
@@ -216,7 +216,7 @@ dv_has_:
     pnb: میدان تفریح
     ps: دپارکونو ډولونه
     pt: parque
-    pt-br: parque
+    pt_br: parque
     qu: q'umir pampa
     ro: parc
     ru: парк
@@ -237,13 +237,13 @@ dv_has_:
     sv: park
     szy: aidangan
     ta: பூங்கா
-    tg-cyrl: бӯстон
+    tg_cyrl: бӯстон
     th: สวนสาธารณะ
     tl: liwasan
     tok: ma kasi
     tr: park
     tt: парк
-    tt-cyrl: парк
+    tt_cyrl: парк
     uk: парк
     ur: پارک
     uz: park
@@ -253,14 +253,14 @@ dv_has_:
     xh: IPaki
     yue: 公園
     zh: 公園
-    zh-cn: 公园
-    zh-hans: 公园
-    zh-hant: 公園
-    zh-hk: 公園
-    zh-mo: 公園
+    zh_cn: 公园
+    zh_hans: 公园
+    zh_hant: 公園
+    zh_hk: 公園
+    zh_mo: 公園
     zh-my: 公园
-    zh-sg: 公园
-    zh-tw: 公園
+    zh_sg: 公园
+    zh_tw: 公園
   parent_class: '[[../CivicStructure]]'
   properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'
 dv_is_:

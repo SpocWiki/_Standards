@@ -77,7 +77,7 @@ dv_has_:
     az: möhkəmlik
     ba: материалдар ҡаршылығы
     be: супраціўленне матэрыялаў
-    be-tarask: супраціўленьне матэрыялаў
+    be_tarask: супраціўленьне матэрыялаў
     bg: якост
     bn: পদার্থের শক্তি
     ca: resistència de materials
@@ -105,11 +105,11 @@ dv_has_:
     ja: 材料力学
     ka: მასალათა გამძლეობა
     kk: беріктік
-    kk-arab: بەرىكتىك
+    kk_arab: بەرىكتىك
     kk-cn: بەرىكتىك
-    kk-cyrl: беріктік
+    kk_cyrl: беріктік
     kk-kz: беріктік
-    kk-latn: beriktik
+    kk_latn: beriktik
     kk-tr: beriktik
     ko: 재료역학
     lv: materiālu pretestība
@@ -138,12 +138,12 @@ dv_has_:
     wuu: 材料力学
     yue: 材料力學
     zh: 材料力学
-    zh-cn: 材料力学
-    zh-hans: 材料力学
-    zh-hant: 材料力學
-    zh-hk: 材料力學
-    zh-sg: 材料力学
-    zh-tw: 材料力學
+    zh_cn: 材料力学
+    zh_hans: 材料力学
+    zh_hant: 材料力學
+    zh_hk: 材料力學
+    zh_sg: 材料力学
+    zh_tw: 材料力學
 ---
 # [[Strength_of_Material]] 
 

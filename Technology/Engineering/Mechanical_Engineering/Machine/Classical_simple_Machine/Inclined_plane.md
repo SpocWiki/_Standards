@@ -90,7 +90,7 @@ dv_has_:
     anp: आनत तल
     ar: سطح منحدر
     ast: planu inclináu
-    be-tarask: нахіленая роўніца
+    be_tarask: нахіленая роўніца
     bg: Наклонена равнина
     bn: আনত তল
     bs: kosa ravan
@@ -162,12 +162,12 @@ dv_has_:
     wuu: 斜面
     yue: 斜面
     zh: 斜面
-    zh-cn: 斜面
-    zh-hans: 斜面
-    zh-hant: 斜面
-    zh-hk: 斜面
-    zh-sg: 斜面
-    zh-tw: 斜面
+    zh_cn: 斜面
+    zh_hans: 斜面
+    zh_hant: 斜面
+    zh_hk: 斜面
+    zh_sg: 斜面
+    zh_tw: 斜面
 ---
 # [[Inclined_plane]] 
 

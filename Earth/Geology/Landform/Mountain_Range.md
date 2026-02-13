@@ -204,7 +204,7 @@ dv_has_:
     ba: тау һырты
     bcl: Kabukidan
     be: горны хрыбет
-    be-tarask: горны сьцяг
+    be_tarask: горны сьцяг
     bg: планинска верига
     bho: परबत माला
     bn: পর্বতমালা
@@ -276,7 +276,7 @@ dv_has_:
     mni: ꯆꯤꯡꯁꯥꯡ ꯄꯥꯔꯦꯡ
     mr: पर्वतरांग
     ms: banjaran
-    ms-arab: بنجرن
+    ms_arab: بنجرن
     nan: Soaⁿ-me̍h
     nb: fjellkjede
     nds: Bargkeed
@@ -292,7 +292,7 @@ dv_has_:
     pnb: پہاڑی دھارا
     ps: غرونو لړۍ
     pt: cordilheira
-    pt-br: cordilheira
+    pt_br: cordilheira
     qu: Walla
     ro: lanț muntos
     ru: горный хребет
@@ -310,8 +310,8 @@ dv_has_:
     sn: Mandundu
     sq: vargmal
     sr: планински масив
-    sr-ec: планински венац
-    sr-el: planinski venac
+    sr_ec: планински венац
+    sr_el: planinski venac
     sv: bergskedja
     sw: Safu ya milima
     ta: மலைத் தொடர்
@@ -322,7 +322,7 @@ dv_has_:
     tok: kulupu pi nena ma
     tr: sıradağ
     tt: тау сырты
-    tt-cyrl: тау сырты
+    tt_cyrl: тау сырты
     udm: гурезь чур
     uk: гірський хребет
     ur: سلسلہ کوہ
@@ -335,14 +335,14 @@ dv_has_:
     yi: בערג־קייט
     yue: 山脈
     zh: 山脉
-    zh-cn: 山脉
-    zh-hans: 山脉
-    zh-hant: 山脈
-    zh-hk: 山脈
-    zh-mo: 山脈
+    zh_cn: 山脉
+    zh_hans: 山脉
+    zh_hant: 山脈
+    zh_hk: 山脈
+    zh_mo: 山脈
     zh-my: 山脉
-    zh-sg: 山脉
-    zh-tw: 山脈
+    zh_sg: 山脉
+    zh_tw: 山脈
 ---
 # [[Mountain_Range]] 
 

@@ -40,7 +40,7 @@ dv_has_:
     oc: Hylinae
     pl: Hylinae
     pt: Hylinae
-    pt-br: Hylinae
+    pt_br: Hylinae
     ro: Hylinae
     ru: Hylinae
     sl: Hylinae
@@ -51,8 +51,8 @@ dv_has_:
     vo: Hylinae
     war: Hylinae
     zh: 树蟾亚科
-    zh-cn: 树蟾亚科
-    zh-hans: 树蟾亚科
+    zh_cn: 树蟾亚科
+    zh_hans: 树蟾亚科
 ---
 # [[Hylinae]] 
 

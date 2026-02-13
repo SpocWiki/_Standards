@@ -104,7 +104,7 @@ dv_has_:
     ast: Estuariu
     az: Estuari
     be: Эстуарый
-    be-tarask: эстуарый
+    be_tarask: эстуарый
     bew: Sungapan
     bg: Естуар
     bho: नदी मुहाना
@@ -174,8 +174,8 @@ dv_has_:
     sl: estuarij
     sq: Estuarët
     sr: естуар
-    sr-ec: естуар
-    sr-el: estuar
+    sr_ec: естуар
+    sr_el: estuar
     sv: estuarium
     ta: கயவாய்
     th: ชะวากทะเล
@@ -192,7 +192,7 @@ dv_has_:
     yi: לעפצונג
     yue: 入海口
     zh: 河口湾
-    zh-hant: 河口灣
+    zh_hant: 河口灣
 ---
 # [[Estuary]] 
 

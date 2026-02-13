@@ -101,7 +101,7 @@ dv_has_:
     az: Döyüş topu
     azb: توپ (سیلاح)
     be: Пушка
-    be-tarask: гармата
+    be_tarask: гармата
     bg: Топ
     bn: কামান
     br: Kanol (kanolierezh)
@@ -115,7 +115,7 @@ dv_has_:
     de: Kanone
     el: κανόνι
     en: cannon
-    en-ca: Cannon
+    en_ca: Cannon
     eo: kanono
     es: cañón
     et: kahur
@@ -170,7 +170,7 @@ dv_has_:
     pl: armata
     pnb: توپ
     pt: canhão
-    pt-br: canhão
+    pt_br: canhão
     qu: Hatun illapa
     ro: tun
     ru: пушка
@@ -183,8 +183,8 @@ dv_has_:
     smn: kanuuna
     sq: Topi
     sr: топ
-    sr-ec: топ
-    sr-el: top
+    sr_ec: топ
+    sr_el: top
     stq: Kenunne
     sv: kanon
     sw: Mzinga

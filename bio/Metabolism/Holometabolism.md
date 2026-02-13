@@ -56,9 +56,9 @@ dv_has_:
     sl: holometabolizem
     yue: 完全變態
     zh: 完全变态
-    zh-hans: 完全变态
-    zh-hant: 完全變態
-    zh-hk: 完全變態
+    zh_hans: 完全变态
+    zh_hant: 完全變態
+    zh_hk: 完全變態
 ---
 # [[Holometabolism]] 
 

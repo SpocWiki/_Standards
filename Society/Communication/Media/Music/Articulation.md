@@ -46,7 +46,7 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Artik
 dv_has_:
   name_:
     ar: نطق موسيقي
-    be-tarask: артыкуляцыя
+    be_tarask: артыкуляцыя
     bg: артикулация
     ca: articulació
     cs: artikulace
@@ -78,7 +78,7 @@ dv_has_:
     sh: artikulacija
     sl: artikulacija
     sr: артикулација
-    sr-ec: артикулација
+    sr_ec: артикулација
     sv: artikulering
     tg: артикулятсия
     tr: artikülasyon

@@ -96,7 +96,7 @@ dv_has_:
     az: Con Lord
     azb: جان لرد
     be: Джон Лорд
-    be-tarask: Джон Лорд
+    be_tarask: Джон Лорд
     bg: Джон Лорд
     br: Jon Lord
     ca: Jon Lord
@@ -133,7 +133,7 @@ dv_has_:
     pa: ਜੌਨ ਲਾਰਡ
     pl: Jon Lord
     pt: Jon Lord
-    pt-br: Jon Lord
+    pt_br: Jon Lord
     ro: Jon Lord
     ru: Джон Лорд
     sh: Jon Lord
@@ -152,12 +152,12 @@ dv_has_:
     xmf: ჯონ ლორდი
     yue: 瓊·洛德
     zh: 瓊·洛德
-    zh-cn: 琼·洛德
-    zh-hans: 琼·洛德
-    zh-hant: 瓊·洛德
-    zh-hk: 瓊·洛德
-    zh-sg: 琼·洛德
-    zh-tw: 瓊·洛德
+    zh_cn: 琼·洛德
+    zh_hans: 琼·洛德
+    zh_hant: 瓊·洛德
+    zh_hk: 瓊·洛德
+    zh_sg: 琼·洛德
+    zh_tw: 瓊·洛德
 ---
 # [[Lord,Jon]] 
 

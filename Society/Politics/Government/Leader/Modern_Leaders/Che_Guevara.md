@@ -191,7 +191,7 @@ dv_has_:
     ba: Че Гевара
     bar: Ernesto Che Guevara
     be: Эрнэста Гевара
-    be-tarask: Чэ Гевара
+    be_tarask: Чэ Гевара
     bg: Че Гевара
     bn: আর্নেস্তো গেভারা
     br: Che Guevara
@@ -213,8 +213,8 @@ dv_has_:
     el: Ερνέστο Τσε Γκεβάρα
     eml: Ernesto Che Guevara
     en: Che Guevara
-    en-ca: Che Guevara
-    en-gb: Che Guevara
+    en_ca: Che Guevara
+    en_gb: Che Guevara
     en-us: Che Guevara
     eo: Che Guevara
     es: Che Guevara
@@ -355,9 +355,9 @@ dv_has_:
     yue: 哲古華拉
     zea: Che Guevara
     zh: 切·格瓦拉
-    zh-cn: 切·格瓦拉
-    zh-hans: 切·格瓦拉
-    zh-hant: 切·格瓦拉
+    zh_cn: 切·格瓦拉
+    zh_hans: 切·格瓦拉
+    zh_hant: 切·格瓦拉
 ---
 # [[Che_Guevara]] 
 

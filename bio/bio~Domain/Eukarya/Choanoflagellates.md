@@ -57,7 +57,7 @@ dv_has_:
     cs: Trubénky
     da: Choanoflagellat
     de: Kragengeißeltierchen
-    de-ch: Kragengeisseltierchen
+    de_ch: Kragengeisseltierchen
     en: Choanoflagellatea
     en-us: Choanoflagellatea
     eo: Funelflageluloj
@@ -95,15 +95,15 @@ dv_has_:
     pcm: Choanoflagellatea
     pl: wiciowce kołnierzykowe
     pt: Choanoflagellata
-    pt-br: Choanoflagellatea
+    pt_br: Choanoflagellatea
     ro: Choanoflagellate
     ru: хоанофлагеллаты
     sh: Hoanoflagelate
     sl: Bičkarji ovratničarji
     sq: Choanoflagellate
     sr: хоанофлагелате
-    sr-ec: Хоанофлагелате
-    sr-el: Hoanoflagelate
+    sr_ec: Хоанофлагелате
+    sr_el: Hoanoflagelate
     sv: Choanoflagellater
     tr: Choanoflagellate
     uk: Хоанофлагеляти
@@ -111,12 +111,12 @@ dv_has_:
     vo: Choanoflagellatea
     war: Choanoflagellate
     zh: 领鞭毛虫纲
-    zh-cn: 领鞭毛虫纲
-    zh-hans: 领鞭毛虫纲
-    zh-hant: 領鞭毛蟲
-    zh-hk: 領鞭毛蟲
-    zh-sg: 领鞭毛虫
-    zh-tw: 領鞭毛蟲
+    zh_cn: 领鞭毛虫纲
+    zh_hans: 领鞭毛虫纲
+    zh_hant: 領鞭毛蟲
+    zh_hk: 領鞭毛蟲
+    zh_sg: 领鞭毛虫
+    zh_tw: 領鞭毛蟲
 ---
 # [[Choanoflagellates]] 
 

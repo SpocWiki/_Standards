@@ -75,7 +75,7 @@ dv_has_:
     azb: توبا
     bar: Tuba
     be: Туба
-    be-tarask: туба
+    be_tarask: туба
     bg: Туба
     bo: འཁྱིལ་ཆེན།
     bs: Tuba
@@ -110,11 +110,11 @@ dv_has_:
     ja: チューバ
     kbp: Tiibaa
     kk: Туба
-    kk-arab: تۋبا
+    kk_arab: تۋبا
     kk-cn: تۋبا
-    kk-cyrl: Туба
+    kk_cyrl: Туба
     kk-kz: Туба
-    kk-latn: Twba
+    kk_latn: Twba
     kk-tr: Twba
     ko: 튜바
     ky: Туба
@@ -128,7 +128,7 @@ dv_has_:
     ms: Tuba
     my: ကျူဗာ
     nb: tuba
-    nds-nl: tuba
+    nds_nl: tuba
     nl: tuba
     nn: tuba
     oc: Tuba
@@ -146,8 +146,8 @@ dv_has_:
     smn: tuubâ
     sms: tuuba
     sr: туба
-    sr-ec: Туба
-    sr-el: Tuba
+    sr_ec: Туба
+    sr_el: Tuba
     stq: Tuba
     sv: tuba
     th: ทูบา
@@ -160,12 +160,12 @@ dv_has_:
     wuu: 大号
     yue: 大號
     zh: 大号
-    zh-cn: 大号
-    zh-hans: 大号
-    zh-hant: 大號
-    zh-hk: 大號
-    zh-sg: 大号
-    zh-tw: 低音號
+    zh_cn: 大号
+    zh_hans: 大号
+    zh_hant: 大號
+    zh_hk: 大號
+    zh_sg: 大号
+    zh_tw: 低音號
 ---
 # [[Tuba]] 
 

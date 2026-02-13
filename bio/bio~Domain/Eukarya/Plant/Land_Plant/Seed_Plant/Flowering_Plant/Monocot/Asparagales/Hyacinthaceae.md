@@ -72,14 +72,14 @@ dv_has_:
     oc: Scilloideae
     pl: hiacyntowate
     pt: Hyacinthaceae
-    pt-br: scilloideae
+    pt_br: scilloideae
     ro: Scilloideae
     ru: пролесковые
     sl: Scilloideae
     sq: Scilloideae
     sr: Hyacinthaceae
-    sr-ec: Hyacinthaceae
-    sr-el: Hyacinthaceae
+    sr_ec: Hyacinthaceae
+    sr_el: Hyacinthaceae
     sv: Hyacintväxter
     tr: Scilloideae
     uk: Scilloideae
@@ -87,12 +87,12 @@ dv_has_:
     vo: Scilloideae
     war: Scilloideae
     zh: 风信子科
-    zh-cn: 风信子科
-    zh-hans: 风信子科
-    zh-hant: 風信子科
-    zh-hk: 風信子科
-    zh-sg: 风信子科
-    zh-tw: 風信子科
+    zh_cn: 风信子科
+    zh_hans: 风信子科
+    zh_hant: 風信子科
+    zh_hk: 風信子科
+    zh_sg: 风信子科
+    zh_tw: 風信子科
 ---
 ## Phylogeny 
 

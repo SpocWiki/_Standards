@@ -109,7 +109,7 @@ dv_has_:
     ast: Lloru
     az: Ağlamaq
     bcl: Paghibi
-    be-tarask: плач
+    be_tarask: плач
     bg: Плач
     bn: ক্রন্দন
     bs: plač
@@ -118,12 +118,12 @@ dv_has_:
     cs: pláč
     dag: kuhigu
     de: Weinen
-    de-ch: Weinen
+    de_ch: Weinen
     dtp: Mihad
     el: Κλάμα
     en: crying
-    en-ca: Crying
-    en-gb: crying
+    en_ca: Crying
+    en_gb: crying
     eo: ploro
     es: llanto
     et: Nutt
@@ -169,7 +169,7 @@ dv_has_:
     pl: płacz
     ps: ژړا
     pt: choro
-    pt-br: choro
+    pt_br: choro
     qu: Waqay
     ro: Plânset
     ru: плач
@@ -195,12 +195,12 @@ dv_has_:
     yue: 喊
     za: Daej
     zh: 哭
-    zh-cn: 哭
-    zh-hans: 哭
-    zh-hant: 哭
-    zh-hk: 哭
-    zh-sg: 哭
-    zh-tw: 哭
+    zh_cn: 哭
+    zh_hans: 哭
+    zh_hant: 哭
+    zh_hk: 哭
+    zh_sg: 哭
+    zh_tw: 哭
 ---
 # [[Crying]] 😭 
 

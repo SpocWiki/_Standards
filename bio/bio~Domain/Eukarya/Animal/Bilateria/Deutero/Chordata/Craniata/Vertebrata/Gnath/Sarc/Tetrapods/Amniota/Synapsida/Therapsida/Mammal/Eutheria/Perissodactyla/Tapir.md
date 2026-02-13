@@ -98,7 +98,7 @@ dv_has_:
     ban: Tapir
     bcl: Tapir
     be: Тапіры
-    be-tarask: Тапір
+    be_tarask: Тапір
     bg: Тапири
     bn: টাপির
     br: Tapir
@@ -163,7 +163,7 @@ dv_has_:
     os: Тапиртæ
     pl: Tapirowate
     pt: Tapirídeos
-    pt-br: Tapirídeos
+    pt_br: Tapirídeos
     qu: Sach'awaka
     ro: Tapir
     ru: тапиры
@@ -174,8 +174,8 @@ dv_has_:
     smn: taapiir
     sq: Tapirus
     sr: тапири
-    sr-ec: Тапири
-    sr-el: Tapiri
+    sr_ec: Тапири
+    sr_el: Tapiri
     sv: tapirer
     ta: தும்பிப்பன்றி
     th: สมเสร็จ
@@ -189,12 +189,12 @@ dv_has_:
     yi: טאפיר
     yue: 貘
     zh: 貘属
-    zh-cn: 貘属
-    zh-hans: 貘属
-    zh-hant: 貘屬
-    zh-hk: 貘屬
-    zh-sg: 貘属
-    zh-tw: 貘屬
+    zh_cn: 貘属
+    zh_hans: 貘属
+    zh_hant: 貘屬
+    zh_hk: 貘屬
+    zh_sg: 貘属
+    zh_tw: 貘屬
 ---
 # [[Tapir]] 
 

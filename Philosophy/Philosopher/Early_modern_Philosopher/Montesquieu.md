@@ -151,7 +151,7 @@ dv_has_:
     azb: مونتسکیو
     ba: Шарль де Монтескьё
     be: Шарль Луі дэ Мантэск'ё
-    be-tarask: Шарль Люі дэ Мантэск’ё
+    be_tarask: Шарль Люі дэ Мантэск’ё
     bg: Шарл дьо Монтескьо
     bn: মন্তেস্কু
     br: Charles Louis de Secondat
@@ -164,12 +164,12 @@ dv_has_:
     da: Charles-Louis de Secondat Montesquieu
     de: Charles de Secondat, Baron de Montesquieu
     de-at: Montesquieu
-    de-ch: Charles de Secondat, Baron de Montesquieu
+    de_ch: Charles de Secondat, Baron de Montesquieu
     diq: Montesquieu
     el: Μοντεσκιέ
     en: Montesquieu
-    en-ca: Montesquieu
-    en-gb: Montesquieu
+    en_ca: Montesquieu
+    en_gb: Montesquieu
     eo: Charles Montesquieu
     es: Montesquieu
     et: Charles de Montesquieu
@@ -227,7 +227,7 @@ dv_has_:
     pnb: مونٹیسکیو
     ps: مونټېسکیو
     pt: Charles de Montesquieu
-    pt-br: Montesquieu
+    pt_br: Montesquieu
     qu: Montesquieu
     ro: Montesquieu
     ru: Шарль де Монтескьё
@@ -262,10 +262,10 @@ dv_has_:
     yue: 孟德斯鳩
     zea: Charles Montesquieu
     zh: 孟德斯鸠
-    zh-cn: 孟德斯鸠
+    zh_cn: 孟德斯鸠
     zh-hans: 孟德斯鸠
-    zh-hant: 孟德斯鸠
-    zh-tw: 孟德斯鳩
+    zh_hant: 孟德斯鸠
+    zh_tw: 孟德斯鳩
 ---
 # [[Montesquieu]] 
 

@@ -66,7 +66,7 @@ dv_has_:
     ab: Монголиа
     ace: Mongolia
     ady: Монголие
-    aeb-arab: منڨوليا
+    aeb_arab: منڨوليا
     af: Mongolië
     am: ሞንጎልያ
     ami: Mongolia
@@ -87,7 +87,7 @@ dv_has_:
     bbc: Mongolia
     bcl: Mongolya
     be: Манголія
-    be-tarask: Манголія
+    be_tarask: Манголія
     bew: Monggoli
     bg: Монголия
     bho: मंगोलिया
@@ -102,7 +102,7 @@ dv_has_:
     bug: ᨆᨚᨂᨚᨒᨗᨐ
     bxr: Монгол Улас
     ca: Mongòlia
-    cbk-zam: Mongolia
+    cbk_zam: Mongolia
     cdo: Mùng-gū
     ce: Монголи
     ceb: Monggolya
@@ -110,7 +110,7 @@ dv_has_:
     ckb: مەنگۆلیا
     co: Mungolia
     crh: Moñğol Ulusı
-    crh-latn: Moğolistan
+    crh_latn: Moğolistan
     cs: Mongolsko
     csb: Mòngolskô
     cu: Мѫголи
@@ -120,7 +120,7 @@ dv_has_:
     dag: Mongolia
     de: Mongolei
     de-at: Mongolei
-    de-ch: Mongolei
+    de_ch: Mongolei
     diq: Moğolıstan
     dsb: Mongolska
     dtp: Mongolia
@@ -130,8 +130,8 @@ dv_has_:
     ee: Mongolia
     el: Μογγολία
     en: Mongolia
-    en-ca: Mongolia
-    en-gb: Mongolia
+    en_ca: Mongolia
+    en_gb: Mongolia
     en-us: Mongolia
     eo: Mongolio
     es: Mongolia
@@ -156,7 +156,7 @@ dv_has_:
     gn: Mongolia
     gom: मंगोलिया
     gom-deva: मंगोलिया
-    gom-latn: Mongolia
+    gom_latn: Mongolia
     gor: Mongolia
     gpe: Mongolia
     gsw: Mongolei
@@ -249,7 +249,7 @@ dv_has_:
     nan: Bông-kó͘
     nb: Mongolia
     nds: Mongolei
-    nds-nl: Mongolië
+    nds_nl: Mongolië
     ne: मङ्गोलिया
     new: मंगोलिया
     nl: Mongolië
@@ -273,7 +273,7 @@ dv_has_:
     pnb: منگولیا
     ps: منګوليا
     pt: Mongólia
-    pt-br: Mongólia
+    pt_br: Mongólia
     qu: Mungul suyu
     rmy: Mongolia
     ro: Mongolia
@@ -301,8 +301,8 @@ dv_has_:
     so: Mongolia
     sq: Mongolia
     sr: Монголија
-    sr-ec: Монголија
-    sr-el: Mongolija
+    sr_ec: Монголија
+    sr_el: Mongolija
     srn: Mongolikondre
     ss: IMongoliya
     su: Mongolia
@@ -350,12 +350,12 @@ dv_has_:
     za: Mungzguj
     zea: Monholië
     zh: 蒙古國
-    zh-cn: 蒙古国
-    zh-hans: 蒙古国
-    zh-hant: 蒙古國
-    zh-hk: 蒙古國
+    zh_cn: 蒙古国
+    zh_hans: 蒙古国
+    zh_hant: 蒙古國
+    zh_hk: 蒙古國
     zh-my: 蒙古国
-    zh-tw: 蒙古國
+    zh_tw: 蒙古國
     zu: i-Mongolia
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Mongolia

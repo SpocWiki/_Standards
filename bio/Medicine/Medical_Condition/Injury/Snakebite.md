@@ -96,7 +96,7 @@ dv_has_:
     arz: لدغة تعبان
     as: সৰ্পদংশন
     ast: Mordedura de culiebra
-    be-tarask: зьмяіны ўкус
+    be_tarask: зьмяіны ўкус
     bg: ухапване от змия
     bn: সর্পদংশন
     ca: picada de serp
@@ -105,8 +105,8 @@ dv_has_:
     de: Schlangenbiss
     el: δάγκωμα φιδιού
     en: snakebite
-    en-ca: Snakebite
-    en-gb: Snakebite
+    en_ca: Snakebite
+    en_gb: Snakebite
     eo: serpenta mordo
     es: mordedura de serpiente
     et: Maohammustus
@@ -144,7 +144,7 @@ dv_has_:
     pl: ukąszenie węża
     ps: مارچيچل
     pt: mordedura de serpente
-    pt-br: Mordedura de serpente
+    pt_br: Mordedura de serpente
     ru: змеиный укус
     sat: ᱵᱤᱧᱜᱮᱨ
     sco: snakebite
@@ -152,8 +152,8 @@ dv_has_:
     sl: kačji ugriz
     sq: Kafshimi i gjarprit
     sr: змијски ујед
-    sr-ec: змијски ујед
-    sr-el: zmijski ujed
+    sr_ec: змијски ујед
+    sr_el: zmijski ujed
     ta: பாம்புக் கடி
     te: పాముకాటు
     tr: Yılan ısırığı
@@ -164,9 +164,9 @@ dv_has_:
     vi: Rắn cắn
     yue: 蛇咬傷
     zh: 蛇咬傷
-    zh-hans: 蛇咬伤
-    zh-hant: 蛇咬傷
-    zh-tw: 蛇咬傷
+    zh_hans: 蛇咬伤
+    zh_hant: 蛇咬傷
+    zh_tw: 蛇咬傷
 ---
 # [[Snakebite]] 
 

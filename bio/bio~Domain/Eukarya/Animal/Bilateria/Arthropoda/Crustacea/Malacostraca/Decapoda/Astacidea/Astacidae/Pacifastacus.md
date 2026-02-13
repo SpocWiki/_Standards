@@ -35,7 +35,7 @@ dv_has_:
     oc: Pacifastacus
     pl: Pacifastacus
     pt: Pacifastacus
-    pt-br: Pacifastacus
+    pt_br: Pacifastacus
     ro: Pacifastacus
     ru: Pacifastacus
     sl: Pacifastacus

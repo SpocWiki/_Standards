@@ -56,8 +56,8 @@ dv_has_:
     uk: The Alan Parsons Project
     vi: The Alan Parsons Project
     zh: 亞倫派森實驗樂團
-    zh-hans: 亚伦·派森计划
-    zh-hant: 亚伦·派森計畫
+    zh_hans: 亚伦·派森计划
+    zh_hant: 亚伦·派森計畫
 ---
 # [[Alan_Parsons_Project]] 
 

@@ -83,7 +83,7 @@ dv_has_:
     ur: ڈاکسنگ
     vi: đánh cắp thông tin
     zh: 人肉搜索
-    zh-hant: 人肉搜尋
+    zh_hant: 人肉搜尋
 ---
 ## #has_/text_of_/abstract 
 

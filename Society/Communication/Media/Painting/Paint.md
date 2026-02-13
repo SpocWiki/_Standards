@@ -121,7 +121,7 @@ dv_has_:
     ast: pintura
     bcl: Pintura
     be: фарбы
-    be-tarask: фарба
+    be_tarask: фарба
     bg: Боя
     bn: রঙ
     br: liv
@@ -134,7 +134,7 @@ dv_has_:
     de: Malfarbe
     el: Βαφές
     en: paint
-    en-gb: paint
+    en_gb: paint
     eo: farbo
     es: pintura
     et: värv
@@ -163,11 +163,11 @@ dv_has_:
     jv: Cèt
     kcg: A̱bwuan
     kk: Автомобиль косметикасы
-    kk-arab: اۆتوموبىيل كوسمەتىيكاسى
+    kk_arab: اۆتوموبىيل كوسمەتىيكاسى
     kk-cn: اۆتوموبىيل كوسمەتىيكاسى
-    kk-cyrl: Автомобиль косметикасы
+    kk_cyrl: Автомобиль косметикасы
     kk-kz: Автомобиль косметикасы
-    kk-latn: Avtomobïlʹ kosmetïkası
+    kk_latn: Avtomobïlʹ kosmetïkası
     kk-tr: Avtomobïlʹ kosmetïkası
     knc: Féntì
     ko: 도료
@@ -184,7 +184,7 @@ dv_has_:
     my: ဆေး
     nan: Thô͘-liāu
     nb: maling
-    nds-nl: varve
+    nds_nl: varve
     nl: verf
     nn: måling
     nrm: Peintuthe
@@ -201,8 +201,8 @@ dv_has_:
     so: Rinji
     sq: bojë
     sr: фарба
-    sr-ec: фарба
-    sr-el: farba
+    sr_ec: фарба
+    sr_el: farba
     su: Cét
     sv: målarfärg
     ta: வண்ணப்பூச்சு
@@ -210,7 +210,7 @@ dv_has_:
     tg: Краски
     tr: boya
     tt: буяу
-    tt-cyrl: буяу
+    tt_cyrl: буяу
     udm: буёл
     uk: фарба
     ur: پینٹ
@@ -221,12 +221,12 @@ dv_has_:
     yo: Ọ̀dà
     yue: 油漆
     zh: 涂料
-    zh-cn: 涂料
-    zh-hans: 涂料
-    zh-hant: 塗料
-    zh-hk: 塗料
-    zh-sg: 涂料
-    zh-tw: 塗料
+    zh_cn: 涂料
+    zh_hans: 涂料
+    zh_hant: 塗料
+    zh_hk: 塗料
+    zh_sg: 涂料
+    zh_tw: 塗料
 ---
 # [[Paint]] 
 

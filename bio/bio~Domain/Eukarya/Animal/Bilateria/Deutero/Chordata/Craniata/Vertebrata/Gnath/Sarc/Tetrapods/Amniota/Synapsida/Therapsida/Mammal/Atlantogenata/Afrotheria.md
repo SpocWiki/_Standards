@@ -38,7 +38,7 @@ dv_has_:
     arz: وحشيات افريقيه
     ast: Afrotheria
     az: Afroterilər
-    be-tarask: Afrotheria
+    be_tarask: Afrotheria
     bg: Afrotheria
     ca: afroteris
     ceb: Afrotheria
@@ -79,7 +79,7 @@ dv_has_:
     oc: Afrotheria
     pl: afrotery
     pt: Afrotheria
-    pt-br: Afrotheria
+    pt_br: Afrotheria
     ro: Afrotheria
     ru: афротерии
     sah: Afrotheria
@@ -95,9 +95,9 @@ dv_has_:
     vo: Afrotheria
     war: Afrotheria
     zh: 非洲兽总目
-    zh-cn: 非洲兽总目
-    zh-hans: 非洲兽总目
-    zh-tw: 非洲獸總目
+    zh_cn: 非洲兽总目
+    zh_hans: 非洲兽总目
+    zh_tw: 非洲獸總目
 ---
 # [[Afrotheria]] 
 

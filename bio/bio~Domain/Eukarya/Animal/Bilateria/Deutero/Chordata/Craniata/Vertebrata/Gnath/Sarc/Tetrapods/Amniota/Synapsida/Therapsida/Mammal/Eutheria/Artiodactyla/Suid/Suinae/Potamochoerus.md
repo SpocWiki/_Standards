@@ -66,7 +66,7 @@ dv_has_:
     oc: Potamochoerus
     pl: Dzikan
     pt: Potamochoerus
-    pt-br: Potamochoerus
+    pt_br: Potamochoerus
     ro: Potamochoerus
     ru: Кистеухие свиньи
     sl: povodna svinja
@@ -78,8 +78,8 @@ dv_has_:
     war: Potamochoerus
     yue: 非洲野豬
     zh: 非洲野猪属
-    zh-cn: 非洲野猪属
-    zh-tw: 非洲野豬屬
+    zh_cn: 非洲野猪属
+    zh_tw: 非洲野豬屬
 ---
 # [[Potamochoerus]] 
 ![ ](Potamochoerus/126136127_3fa04e5125_o.jpg) 

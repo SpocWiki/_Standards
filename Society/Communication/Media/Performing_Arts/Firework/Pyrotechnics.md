@@ -65,7 +65,7 @@ dv_has_:
     ast: Pirotecnia
     ba: Пиротехника
     be: піратэхніка
-    be-tarask: піратэхніка
+    be_tarask: піратэхніка
     bg: Пиротехника
     ca: pirotècnia
     cs: pyrotechnika
@@ -73,8 +73,8 @@ dv_has_:
     da: pyroteknik
     de: Pyrotechnik
     en: pyrotechnics
-    en-ca: Pyrotechnics
-    en-gb: Pyrotechnics
+    en_ca: Pyrotechnics
+    en_gb: Pyrotechnics
     eo: Pirotekniko
     es: pirotecnia
     et: Pürotehnika
@@ -94,11 +94,11 @@ dv_has_:
     it: pirotecnica
     ja: パイロテクニクス
     kk: Пиротехника
-    kk-arab: پىيروتەحنىيكا
+    kk_arab: پىيروتەحنىيكا
     kk-cn: پىيروتەحنىيكا
-    kk-cyrl: Пиротехника
+    kk_cyrl: Пиротехника
     kk-kz: Пиротехника
-    kk-latn: Pïrotexnïka
+    kk_latn: Pïrotexnïka
     kk-tr: Pïrotexnïka
     kn: ಪೈರೋಟೆಕ್ನಿಕ್ಸ್
     ko: 파이로테크닉스
@@ -112,7 +112,7 @@ dv_has_:
     oc: Pirotecnia
     pl: pirotechnika
     pt: pirotecnia
-    pt-br: Pirotecnia
+    pt_br: Pirotecnia
     ro: Pirotehnie
     ru: пиротехника
     sh: Pirotehnika
@@ -127,12 +127,12 @@ dv_has_:
     xmf: პიროტექნიკა
     yue: 煙花製作技術
     zh: 烟火制造术
-    zh-cn: 烟火制造术
-    zh-hans: 烟火制造术
-    zh-hant: 煙火製造術
-    zh-hk: 煙火製造術
-    zh-sg: 烟火制造术
-    zh-tw: 煙火製造術
+    zh_cn: 烟火制造术
+    zh_hans: 烟火制造术
+    zh_hant: 煙火製造術
+    zh_hk: 煙火製造術
+    zh_sg: 烟火制造术
+    zh_tw: 煙火製造術
 ---
 # [[Pyrotechnics]] 
 

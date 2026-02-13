@@ -73,7 +73,7 @@ dv_has_:
     ar: كاره للماء
     ast: hidrófobu
     az: Hidrofobiya
-    be-tarask: гідрафобы
+    be_tarask: гідрафобы
     bn: পানিবিকর্ষী
     bs: Hidrofobnost
     ca: hidrofòbia
@@ -82,8 +82,8 @@ dv_has_:
     de: hydrophob
     el: Υδρόφοβος
     en: hydrophobe
-    en-ca: Hydrophobe
-    en-gb: Hydrophobe
+    en_ca: Hydrophobe
+    en_gb: Hydrophobe
     eo: hidrofobaĵo
     es: hidrófobo
     eu: hidrofobia
@@ -125,12 +125,12 @@ dv_has_:
     wuu: 疏水性
     yue: 疏水性
     zh: 疏水性
-    zh-cn: 疏水性
-    zh-hans: 疏水性
-    zh-hant: 疏水性
-    zh-hk: 疏水性
-    zh-sg: 疏水性
-    zh-tw: 疏水性
+    zh_cn: 疏水性
+    zh_hans: 疏水性
+    zh_hant: 疏水性
+    zh_hk: 疏水性
+    zh_sg: 疏水性
+    zh_tw: 疏水性
 ---
 # [[Hydrophobe]] 
 

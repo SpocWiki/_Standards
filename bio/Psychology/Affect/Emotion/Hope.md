@@ -106,7 +106,7 @@ dv_has_:
     az: Ümid
     bcl: Paglaom
     be: надзея
-    be-tarask: надзея
+    be_tarask: надзея
     bg: Надежда
     bn: আশা
     bpy: এসপেরান্সা
@@ -180,8 +180,8 @@ dv_has_:
     sl: upanje
     sq: Shpresa
     sr: нада
-    sr-ec: Нада
-    sr-el: Nada
+    sr_ec: Нада
+    sr_el: Nada
     sv: hopp
     sw: Tumaini
     te: ఆశ
@@ -196,12 +196,12 @@ dv_has_:
     wuu: 希望
     yue: 希望
     zh: 希望
-    zh-cn: 希望
-    zh-hans: 希望
-    zh-hant: 希望
-    zh-hk: 希望
-    zh-sg: 希望
-    zh-tw: 希望
+    zh_cn: 希望
+    zh_hans: 希望
+    zh_hant: 希望
+    zh_hk: 希望
+    zh_sg: 希望
+    zh_tw: 希望
 ---
 # [[Hope]] 
 

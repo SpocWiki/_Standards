@@ -42,7 +42,7 @@ dv_has_:
     ast: National Book Award
     az: Milli kitab mükafatı
     be: Нацыянальная кніжная прэмія
-    be-tarask: Нацыянальная кніжная прэмія
+    be_tarask: Нацыянальная кніжная прэмія
     bn: জাতীয় পুস্তক পুরস্কার
     ca: National Book Award
     cs: Národní knižní cena
@@ -90,7 +90,7 @@ dv_has_:
     ur: نیشنل بک ایوارڈ
     vi: Giải Sách quốc gia Mỹ
     zh: 美國國家圖書獎
-    zh-tw: 美國國家圖書獎
+    zh_tw: 美國國家圖書獎
 ---
 #has_/time_/started :: 1936-11-15 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)`

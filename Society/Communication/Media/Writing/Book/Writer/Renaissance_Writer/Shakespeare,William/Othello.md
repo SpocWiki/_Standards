@@ -107,7 +107,7 @@ dv_has_:
     ast: Otelo
     az: Otello
     be: Атэла
-    be-tarask: Атэльлё
+    be_tarask: Атэльлё
     bg: Отело
     bn: ওথেলো
     bo: ༄༅།། ཨོ་སེ་ལོ།
@@ -119,11 +119,11 @@ dv_has_:
     cy: Othello
     da: Othello
     de: Othello
-    de-ch: Othello
+    de_ch: Othello
     el: Οθέλλος
     en: Othello
-    en-ca: Othello
-    en-gb: Othello
+    en_ca: Othello
+    en_gb: Othello
     en-us: Othello
     eo: Otelo
     es: Otelo
@@ -164,7 +164,7 @@ dv_has_:
     pa: ਉਥੈਲੋ
     pl: Otello
     pt: Otelo, o Mouro de Veneza
-    pt-br: Otelo, o Mouro de Veneza
+    pt_br: Otelo, o Mouro de Veneza
     ro: Othello
     ru: Отелло
     sco: Othello
@@ -173,7 +173,7 @@ dv_has_:
     sl: Othello
     sq: Otello i
     sr: Отело
-    sr-ec: Отело
+    sr_ec: Отело
     sv: Othello
     szy: Aw-say-low
     ta: ஒத்தெல்லோ
@@ -188,10 +188,10 @@ dv_has_:
     yi: אטעלא
     yue: 奧賽羅
     zh: 奧賽羅
-    zh-cn: 奥赛罗
-    zh-hans: 奥赛罗
-    zh-hant: 奧賽羅
-    zh-hk: 奧德羅
+    zh_cn: 奥赛罗
+    zh_hans: 奥赛罗
+    zh_hant: 奧賽羅
+    zh_hk: 奧德羅
 ---
 # [[Othello]] 
 

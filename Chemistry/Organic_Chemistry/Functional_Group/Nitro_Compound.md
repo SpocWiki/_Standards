@@ -87,11 +87,11 @@ dv_has_:
     ja: ニトロ化合物
     ka: ნიტრო ნაერთი
     kk: Нитроқосылыстар
-    kk-arab: نىيتروقوسىلىستار
+    kk_arab: نىيتروقوسىلىستار
     kk-cn: نىيتروقوسىلىستار
-    kk-cyrl: Нитроқосылыстар
+    kk_cyrl: Нитроқосылыстар
     kk-kz: Нитроқосылыстар
-    kk-latn: Nïtroqosılıstar
+    kk_latn: Nïtroqosılıstar
     kk-tr: Nïtroqosılıstar
     ko: 나이트로 화합물
     lv: Nitrosavienojumi
@@ -107,19 +107,19 @@ dv_has_:
     sk: Nitrozlúčenina
     sl: nitro spojina
     sr: Nitro jedinjenje
-    sr-ec: Нитро једињење
-    sr-el: Nitro jedinjenje
+    sr_ec: Нитро једињење
+    sr_el: Nitro jedinjenje
     sv: Nitroförening
     tr: Nitro bileşiği
     udm: нитрогерӟетъёс
     uk: Нітросполуки
     zh: 硝基化合物
-    zh-cn: 硝基化合物
-    zh-hans: 硝基化合物
-    zh-hant: 硝基化合物
-    zh-hk: 硝基化合物
-    zh-sg: 硝基化合物
-    zh-tw: 硝基化合物
+    zh_cn: 硝基化合物
+    zh_hans: 硝基化合物
+    zh_hant: 硝基化合物
+    zh_hk: 硝基化合物
+    zh_sg: 硝基化合物
+    zh_tw: 硝基化合物
 ---
 # [[Nitro_Compound]] 
 

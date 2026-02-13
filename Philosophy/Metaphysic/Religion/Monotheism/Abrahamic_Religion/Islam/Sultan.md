@@ -105,7 +105,7 @@ dv_has_:
     ba: Солтан
     bcl: Sultan
     be: султан
-    be-tarask: султан
+    be_tarask: султан
     bg: Султан
     bjn: Sultan
     bn: সুলতান
@@ -120,12 +120,12 @@ dv_has_:
     da: Sultan
     de: Sultan
     de-at: Sultan
-    de-ch: Sultan
+    de_ch: Sultan
     diq: Sultan
     el: σουλτάνος
     en: sultan
-    en-ca: sultan
-    en-gb: sultan
+    en_ca: sultan
+    en_gb: sultan
     eo: sultano
     es: sultán
     et: sultan
@@ -168,7 +168,7 @@ dv_has_:
     ml: സുൽത്താൻ
     mn: Султан
     ms: sultan
-    ms-arab: سلطان
+    ms_arab: سلطان
     mzn: سلطون
     nan: So͘-tan
     nb: sultan
@@ -193,7 +193,7 @@ dv_has_:
     sms: sulttaan
     sq: Sulltani
     sr: султан
-    sr-ec: султан
+    sr_ec: султан
     sv: sultan
     sw: Usultani
     ta: சுல்தான்
@@ -213,9 +213,9 @@ dv_has_:
     yi: סולטאַן
     yue: 蘇丹
     zh: 苏丹
-    zh-hans: 苏丹
-    zh-hant: 蘇丹
-    zh-tw: 蘇丹 (稱謂)
+    zh_hans: 苏丹
+    zh_hant: 蘇丹
+    zh_tw: 蘇丹 (稱謂)
 ---
 # [[Sultan]] 
 

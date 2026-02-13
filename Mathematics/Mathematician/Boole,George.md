@@ -104,7 +104,7 @@ dv_has_:
     ast: George Boole
     az: Corc Bul
     be: Джордж Буль
-    be-tarask: Джордж Бул
+    be_tarask: Джордж Бул
     bg: Джордж Бул
     bn: জর্জ বুল
     bs: George Boole
@@ -115,8 +115,8 @@ dv_has_:
     da: George Boole
     diq: George Boole
     el: Τζορτζ Μπουλ
-    en-ca: George Boole
-    en-gb: George Boole
+    en_ca: George Boole
+    en_gb: George Boole
     eo: George Boole
     es: George Boole
     et: George Boole
@@ -141,8 +141,8 @@ dv_has_:
     kn: ಜಾರ್ಜ್ ಬೂಲ್
     ko: 조지 불
     ku: George Boole
-    ku-arab: گەۆرگە بۆۆلە
-    ku-latn: George Boole
+    ku_arab: گەۆرگە بۆۆلە
+    ku_latn: George Boole
     ky: Буль
     la: Georgius Boole
     lt: George Boole
@@ -161,7 +161,7 @@ dv_has_:
     pms: George Boole
     ps: جورج بول
     pt: George Boole
-    pt-br: George Boole
+    pt_br: George Boole
     ro: George Boole
     ru: Джордж Буль
     sco: George Boole
@@ -171,8 +171,8 @@ dv_has_:
     sl: George Boole
     sq: george boole
     sr: Џорџ Бул
-    sr-ec: Џорџ Бул
-    sr-el: Džordž Bul
+    sr_ec: Џорџ Бул
+    sr_el: Džordž Bul
     sv: George Boole
     ta: ஜார்ஜ் பூல்
     te: జార్జ్ బూలె
@@ -188,12 +188,12 @@ dv_has_:
     wuu: 乔治·布尔
     yue: 布爾
     zh: 乔治·布尔
-    zh-cn: 乔治·布尔
-    zh-hans: 乔治·布尔
-    zh-hant: 喬治·布爾
-    zh-hk: 喬治·布爾
-    zh-sg: 乔治·布尔
-    zh-tw: 喬治·布爾
+    zh_cn: 乔治·布尔
+    zh_hans: 乔治·布尔
+    zh_hant: 喬治·布爾
+    zh_hk: 喬治·布爾
+    zh_sg: 乔治·布尔
+    zh_tw: 喬治·布爾
 ---
 # [[Boole,George]] 
 

@@ -91,7 +91,7 @@ dv_has_:
     az: Pulitser mükafatı
     azb: پولیتزئر اؤدولو
     be: Пулітцэраўская прэмія
-    be-tarask: Пулітцэраўская прэмія
+    be_tarask: Пулітцэраўская прэмія
     bg: Пулицър
     bn: পুলিৎজার পুরস্কার
     br: Priz Pulitzer
@@ -102,11 +102,11 @@ dv_has_:
     cy: Gwobr Pulitzer
     da: Pulitzerprisen
     de: Pulitzer-Preis
-    de-ch: Pulitzer-Preis
+    de_ch: Pulitzer-Preis
     el: βραβείο Πούλιτζερ
     en: Pulitzer Prize
-    en-ca: Pulitzer Prize
-    en-gb: Pulitzer Prize
+    en_ca: Pulitzer Prize
+    en_gb: Pulitzer Prize
     eo: Premio Pulitzer
     es: Premio Pulitzer
     et: Pulitzeri preemia
@@ -153,7 +153,7 @@ dv_has_:
     pl: Nagroda Pulitzera
     pnb: پلتزر انعام
     pt: Prémio Pulitzer
-    pt-br: Prêmio Pulitzer
+    pt_br: Prêmio Pulitzer
     ro: Premiul Pulitzer
     ru: Пулитцеровская премия
     sah: Пулитцер бириэмийэтэ
@@ -180,10 +180,10 @@ dv_has_:
     yo: Ẹ̀bùn Pulitzer
     yue: 普立茲獎
     zh: 普利策奖
-    zh-cn: 普利策奖
-    zh-hans: 普利策奖
-    zh-hant: 普立茲獎
-    zh-tw: 普立茲獎
+    zh_cn: 普利策奖
+    zh_hans: 普利策奖
+    zh_hant: 普立茲獎
+    zh_tw: 普立茲獎
 ---
 ## #has_/text_of_/abstract 
 

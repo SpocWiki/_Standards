@@ -16,8 +16,8 @@ dv_has_:
     cs: Planctomycetota
     de: Planctomyceten
     en: Planctomycetota
-    en-ca: Planctomycetota
-    en-gb: Planctomycetota
+    en_ca: Planctomycetota
+    en_gb: Planctomycetota
     eo: Planctomycetota
     es: Planctomycetota
     eu: Planctomycetota
@@ -36,7 +36,7 @@ dv_has_:
     oc: Planctomycetota
     pl: Planctomycetota
     pt: Planctomycetota
-    pt-br: Planctomycetota
+    pt_br: Planctomycetota
     ro: Planctomycetota
     ru: Planctomycetota
     sq: Planctomycetota

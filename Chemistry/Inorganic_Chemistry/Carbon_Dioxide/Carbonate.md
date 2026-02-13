@@ -74,7 +74,7 @@ dv_has_:
     az: Karbonatlar
     azb: کربونات
     be: карбанат
-    be-tarask: карбаняк
+    be_tarask: карбаняк
     bg: Карбонат
     bn: কার্বনেট
     bs: Karbonat
@@ -86,8 +86,8 @@ dv_has_:
     de: Carbonate
     el: Ανθρακικό άλας
     en: carbonate
-    en-ca: Carbonate
-    en-gb: carbonate
+    en_ca: Carbonate
+    en_gb: carbonate
     eo: karbonato
     es: carbonato
     et: Karbonaadid
@@ -106,11 +106,11 @@ dv_has_:
     it: carbonati
     ja: 炭酸塩
     kk: Карбонат
-    kk-arab: كاربونات
+    kk_arab: كاربونات
     kk-cn: كاربونات
-    kk-cyrl: Карбонат
+    kk_cyrl: Карбонат
     kk-kz: Карбонат
-    kk-latn: Karbonat
+    kk_latn: Karbonat
     kk-tr: Karbonat
     kn: ಕಾರ್ಬೋನೇಟುಗಳು
     ko: 탄산염
@@ -120,7 +120,7 @@ dv_has_:
     mi: pākawa waro
     mk: Карбонат
     ms: karbonat
-    ms-arab: کربونت
+    ms_arab: کربونت
     nan: Thòaⁿ-sng-iâm
     nb: karbonat
     nl: carbonaat
@@ -128,7 +128,7 @@ dv_has_:
     pa: ਕਾਰਬੋਨੇਟ
     pl: węglan
     pt: carbonato
-    pt-br: Carbonato
+    pt_br: Carbonato
     ro: Carbonați
     ru: карбонаты
     sco: carbonate
@@ -136,8 +136,8 @@ dv_has_:
     sk: Uhličitan
     sl: karbonat
     sr: карбонат
-    sr-ec: Карбонат
-    sr-el: Karbonat
+    sr_ec: Карбонат
+    sr_el: Karbonat
     sv: karbonat
     sw: Kabonati
     ta: கார்பனேட்டு
@@ -147,12 +147,12 @@ dv_has_:
     wuu: 碳酸根
     yue: 碳酸鹽
     zh: 碳酸根
-    zh-cn: 碳酸根
-    zh-hans: 碳酸盐
-    zh-hant: 碳酸鹽
-    zh-hk: 碳酸鹽
-    zh-sg: 碳酸盐
-    zh-tw: 碳酸根
+    zh_cn: 碳酸根
+    zh_hans: 碳酸盐
+    zh_hant: 碳酸鹽
+    zh_hk: 碳酸鹽
+    zh_sg: 碳酸盐
+    zh_tw: 碳酸根
 dv_is_:
   same_as:
   - '[[../../../WikiData/WD~Carbonate,181699|WD~Carbonate,181699]]'

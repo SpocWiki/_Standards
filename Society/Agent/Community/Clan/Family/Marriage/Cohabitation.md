@@ -77,18 +77,18 @@ dv_has_:
   name_:
     ar: مساكنة
     az: Vətəndaş nikahı
-    be-tarask: нефармальны шлюб
+    be_tarask: нефармальны шлюб
     bg: Съвместно съжителство
     bn: অবৈবাহিক একত্রবাস
     ca: Convivència
     ckb: ھاوبەشیکردنی ماڵ
     cs: nesezdané soužití
     de: eheähnliche Gemeinschaft
-    de-ch: Eheähnliche Gemeinschaft
+    de_ch: Eheähnliche Gemeinschaft
     el: Συμβίωση
     en: cohabitation
-    en-ca: Cohabitation
-    en-gb: cohabitation
+    en_ca: Cohabitation
+    en_gb: cohabitation
     eo: kontrakta geedzeco
     es: cohabitación
     eu: Elkarrekin bizi
@@ -109,14 +109,14 @@ dv_has_:
     la: unio libera
     lt: Sugyventinis
     ms: sekedudukan
-    ms-arab: سکدودوقن
+    ms_arab: سکدودوقن
     nb: samboerskap
     nl: samenwonen
     nn: sambuarskap
     pa: ਸਹਿਵਾਸ
     pl: kohabitacja
     pt: Coabitação
-    pt-br: Coabitação
+    pt_br: Coabitação
     ro: conviețuire (sociologie)
     ru: незарегистрированный брак
     sat: ᱥᱟᱹᱜᱟᱹᱭ ᱨᱮ ᱛᱟᱦᱮᱱ (ᱞᱤᱣ ᱤᱱ ᱨᱤᱞᱮᱥᱟᱱᱥᱤᱯ)

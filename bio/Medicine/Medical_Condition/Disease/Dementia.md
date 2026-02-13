@@ -157,7 +157,7 @@ MeSH_tree_code:
 Dewey_Decimal_Classification: 362.19683
 dv_has_:
   name_:
-    aeb-arab: خرف
+    aeb_arab: خرف
     af: demensie
     ar: خرف
     arz: ديمينشا
@@ -165,7 +165,7 @@ dv_has_:
     az: demensiya
     azb: دیمئنسییا
     be: дэменцыя
-    be-tarask: дэмэнцыя
+    be_tarask: дэмэнцыя
     bg: Деменция
     bn: চিত্তভ্রংশ
     bs: demencija
@@ -177,8 +177,8 @@ dv_has_:
     diq: Demans
     el: άνοια
     en: dementia
-    en-ca: Dementia
-    en-gb: dementia
+    en_ca: Dementia
+    en_gb: dementia
     eo: demenco
     es: demencia
     et: dementsus
@@ -230,7 +230,7 @@ dv_has_:
     pnb: زوال عقل
     ps: عقل زوال
     pt: demência
-    pt-br: Demência
+    pt_br: Demência
     ro: Demență senilă
     ru: деменция
     sah: Деменция
@@ -246,7 +246,7 @@ dv_has_:
     so: Xusuusla'aanta
     sq: Demenca
     sr: деменција
-    sr-ec: деменција
+    sr_ec: деменција
     su: Déménsia
     sv: demens
     sw: Dimenshia
@@ -267,14 +267,14 @@ dv_has_:
     yue: 痴呆
     za: Binghfatmwnh
     zh: 失智症
-    zh-cn: 痴呆症
-    zh-hans: 痴呆症
-    zh-hant: 失智症
-    zh-hk: 認知障礙症
-    zh-mo: 腦退化症
+    zh_cn: 痴呆症
+    zh_hans: 痴呆症
+    zh_hant: 失智症
+    zh_hk: 認知障礙症
+    zh_mo: 腦退化症
     zh-my: 痴呆症
-    zh-sg: 痴呆症
-    zh-tw: 失智症
+    zh_sg: 痴呆症
+    zh_tw: 失智症
 ---
 # [[Dementia]] 
 

@@ -9,8 +9,8 @@ dv_has_:
     de: RRR
     el: RRR
     en: RRR
-    en-ca: RRR
-    en-gb: RRR
+    en_ca: RRR
+    en_gb: RRR
     es: RRR
     eu: RRR (filma)
     fa: آرآرآر
@@ -37,7 +37,7 @@ dv_has_:
     or: ଆର୍ ଆର୍ ଆର୍
     pa: ਆਰਆਰਆਰ
     pt: RRR (filme)
-    pt-br: RRR
+    pt_br: RRR
     ru: RRR
     sa: रौद्रम् रणम् रुधिरम्
     sl: RRR

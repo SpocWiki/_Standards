@@ -117,7 +117,7 @@ dv_has_:
     azb: گوتیلر
     bar: Gotn
     be: Готы
-    be-tarask: Готы
+    be_tarask: Готы
     bg: Готи
     br: Goted
     bs: Goti
@@ -171,7 +171,7 @@ dv_has_:
     nan: Goth lâng
     nb: gotere
     nds: Goten
-    nds-nl: Goten
+    nds_nl: Goten
     nl: Goten
     nn: gotarar
     oc: Goths
@@ -205,8 +205,8 @@ dv_has_:
     wuu: 哥特人
     yue: 哥德人
     zh: 哥特人
-    zh-cn: 哥特人
-    zh-tw: 歌德人
+    zh_cn: 哥特人
+    zh_tw: 歌德人
 ---
 # [[Goths]] 
 

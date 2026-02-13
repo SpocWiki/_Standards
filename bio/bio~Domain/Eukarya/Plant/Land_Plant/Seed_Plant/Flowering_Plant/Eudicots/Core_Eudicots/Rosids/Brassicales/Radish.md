@@ -202,7 +202,7 @@ this_taxon_is_source_of: '[[_Standards/WikiData/WD~radish,33669098]]'
 dv_has_:
   name_:
     ace: Mula
-    aeb-arab: فجل
+    aeb_arab: فجل
     am: ፍጁል
     an: Raphanus sativus
     ar: فجل
@@ -214,7 +214,7 @@ dv_has_:
     bar: Radi
     bcl: Labanos
     be: рэдзька пасяўная
-    be-tarask: агародная рэдзька
+    be_tarask: агародная рэдзька
     bg: репичка
     bho: मुरई
     bn: মূলা
@@ -231,12 +231,12 @@ dv_has_:
     cy: Rhuddygl y gerddi
     da: Radise
     de: Garten-Rettich
-    de-ch: Radieschen
+    de_ch: Radieschen
     el: Ρεπάνι
     eml: Rómlasén
     en: Raphanus sativus
-    en-ca: Radish
-    en-gb: radish
+    en_ca: Radish
+    en_gb: radish
     eo: Kultiva rafano
     es: rábano
     et: aedrõigas
@@ -304,7 +304,7 @@ dv_has_:
     pnb: مولی
     ps: مولۍ
     pt: Rabanete
-    pt-br: Rabanete
+    pt_br: Rabanete
     qu: Rawanushcu
     ro: Ridiche
     ru: редис
@@ -322,7 +322,7 @@ dv_has_:
     smn: reetiis
     sq: Rrepa
     sr: ротквица
-    sr-ec: ротквица
+    sr_ec: ротквица
     su: Lobak
     sv: rädisa
     szl: Radiska
@@ -348,10 +348,10 @@ dv_has_:
     yue: 蘿蔔
     za: lauxbaeg
     zh: 萝卜
-    zh-cn: 萝卜
-    zh-hans: 萝卜
-    zh-hant: 蘿蔔
-    zh-tw: 蘿蔔
+    zh_cn: 萝卜
+    zh_hans: 萝卜
+    zh_hant: 蘿蔔
+    zh_tw: 蘿蔔
 ---
 # [[Radish]] 
 

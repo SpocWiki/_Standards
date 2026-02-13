@@ -63,7 +63,7 @@ dv_has_:
     ast: Fight Club
     az: Döyüş klubu
     be: Байцоўскі клуб (фільм)
-    be-tarask: Байцоўскі клюб
+    be_tarask: Байцоўскі клюб
     bg: Боен клуб
     bn: ফাইট ক্লাব
     ca: Fight Club
@@ -117,7 +117,7 @@ dv_has_:
     pcd: Fight club
     pl: Podziemny krąg
     pt: Clube de Combate
-    pt-br: Fight Club
+    pt_br: Fight Club
     ro: Fight Club
     ru: Бойцовский клуб
     sah: Охсуһааччылар клубтара
@@ -127,8 +127,8 @@ dv_has_:
     smn: Fight Club
     sq: Fight Club
     sr: Борилачки клуб
-    sr-ec: Борилачки клуб
-    sr-el: Borilački klub
+    sr_ec: Борилачки клуб
+    sr_el: Borilački klub
     sv: Fight Club
     th: ไฟท์ คลับ ดิบดวลดิบ
     tr: Dövüş Kulübü
@@ -141,13 +141,13 @@ dv_has_:
     xmf: მალჷმორეფიშ კლუბი
     yue: 搏擊會
     zh: 鬥陣俱樂部
-    zh-cn: 搏击俱乐部
-    zh-hans: 搏击俱乐部
-    zh-hant: 鬥陣俱樂部
-    zh-hk: 搏擊會
+    zh_cn: 搏击俱乐部
+    zh_hans: 搏击俱乐部
+    zh_hant: 鬥陣俱樂部
+    zh_hk: 搏擊會
     zh-my: 斗阵俱乐部
-    zh-sg: 搏击会
-    zh-tw: 鬥陣俱樂部
+    zh_sg: 搏击会
+    zh_tw: 鬥陣俱樂部
 ---
 ## #has_/text_of_/abstract 
 

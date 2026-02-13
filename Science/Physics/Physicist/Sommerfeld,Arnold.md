@@ -205,7 +205,7 @@ dv_has_:
     ast: Arnold Sommerfeld
     azb: آرنولد زومرفلد
     be: Арнальд Зомерфельд
-    be-tarask: Арнольд Зомэрфэльд
+    be_tarask: Арнольд Зомэрфэльд
     bg: Арнолд Зомерфелд
     bn: আর্নল্ড সমারফেল্ড
     bs: Arnold Sommerfeld
@@ -251,7 +251,7 @@ dv_has_:
     pms: Arnold Sommerfeld
     ps: آرنولډ سومرفیلډ
     pt: Arnold Sommerfeld
-    pt-br: Arnold Sommerfeld
+    pt_br: Arnold Sommerfeld
     qu: Arnold Sommerfeld
     ro: Arnold Sommerfeld
     ru: Арнольд Зоммерфельд

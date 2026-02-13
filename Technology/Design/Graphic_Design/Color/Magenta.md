@@ -76,7 +76,7 @@ dv_has_:
     azb: آچیٛق بنؤشهیی
     ban: Magénta
     be: Маджэнта
-    be-tarask: маджэнт
+    be_tarask: маджэнт
     bg: маджента
     bn: ম্যাজেন্টা
     br: magenta
@@ -86,11 +86,11 @@ dv_has_:
     cy: majenta
     da: magenta
     de: Magenta
-    de-ch: Magenta
+    de_ch: Magenta
     el: ματζέντα
     en: magenta
-    en-ca: Magenta
-    en-gb: magenta
+    en_ca: Magenta
+    en_gb: magenta
     eo: magenta
     es: magenta
     et: Magentapunane
@@ -127,7 +127,7 @@ dv_has_:
     pl: magenta
     pnb: مجینٹا
     pt: magenta
-    pt-br: magenta
+    pt_br: magenta
     ro: magenta
     ru: маджента
     sco: Magenta
@@ -150,7 +150,7 @@ dv_has_:
     yi: מאדזשענטא
     yue: 桃紅
     zh: 洋紅色
-    zh-hans: 洋红色
+    zh_hans: 洋红色
     zu: I-Magenta
 ---
 # [[Magenta]] 

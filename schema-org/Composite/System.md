@@ -147,7 +147,7 @@ dv_has_:
     ba: система
     bar: Sysdem
     be: сістэма
-    be-tarask: сыстэма
+    be_tarask: сыстэма
     bg: Система
     bho: सिस्टम
     bn: ব্যবস্থা
@@ -162,7 +162,7 @@ dv_has_:
     de: System
     el: σύστημα
     en: system
-    en-gb: system
+    en_gb: system
     eo: sistemo
     es: sistema
     et: süsteem
@@ -196,7 +196,7 @@ dv_has_:
     ko: 시스템
     krc: Низам
     ku: sîstem
-    ku-latn: sîstem
+    ku_latn: sîstem
     kw: kevreyth
     ky: Система
     la: systema
@@ -210,7 +210,7 @@ dv_has_:
     mk: систем
     ml: വ്യവസ്ഥിതി
     ms: sistem
-    ms-arab: سيستم
+    ms_arab: سيستم
     mwl: Sistema
     my: စနစ်
     nb: system
@@ -224,7 +224,7 @@ dv_has_:
     pms: Sistema
     ps: سېسټم
     pt: sistema
-    pt-br: sistema
+    pt_br: sistema
     qu: llikacha
     ro: sistem
     ru: система
@@ -240,7 +240,7 @@ dv_has_:
     sn: Gumbapamwe
     sq: sistem
     sr: систем
-    sr-ec: систем
+    sr_ec: систем
     su: Sistem
     sv: system
     ta: ஒருங்கியம்
@@ -249,8 +249,8 @@ dv_has_:
     th: ระบบ
     tr: sistem
     tt: система
-    tt-cyrl: система
-    tt-latn: sistema
+    tt_cyrl: система
+    tt_latn: sistema
     uk: система
     ur: نظام
     uz: Sistema
@@ -263,14 +263,14 @@ dv_has_:
     yi: סיסטעם
     yue: 系統
     zh: 系統
-    zh-cn: 系统
-    zh-hans: 系统
-    zh-hant: 系統
-    zh-hk: 系統
-    zh-mo: 系統
+    zh_cn: 系统
+    zh_hans: 系统
+    zh_hant: 系統
+    zh_hk: 系統
+    zh_mo: 系統
     zh-my: 系统
-    zh-sg: 系统
-    zh-tw: 系統
+    zh_sg: 系统
+    zh_tw: 系統
 ---
 # [[System]] 
 

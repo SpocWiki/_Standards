@@ -111,7 +111,7 @@ dv_has_:
     avk: Iera (2) (trutca ke Munch)
     az: Çığırtı
     be: Крык, карціна
-    be-tarask: Крык
+    be_tarask: Крык
     bg: Викът
     bjn: Kuciakan
     br: Skrik
@@ -164,7 +164,7 @@ dv_has_:
     sl: Krik (Edvard Munch)
     sq: Britma
     sr: Крик
-    sr-ec: Крик
+    sr_ec: Крик
     sv: Skriet
     ta: அலறல்
     th: เสียงกรีดร้อง

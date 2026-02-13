@@ -43,8 +43,8 @@ dv_has_:
     de: Martin Heinrich Klaproth
     el: Μάρτιν Χάινριχ Κλάπροτ
     en: Martin Heinrich Klaproth
-    en-ca: Martin Heinrich Klaproth
-    en-gb: Martin Heinrich Klaproth
+    en_ca: Martin Heinrich Klaproth
+    en_gb: Martin Heinrich Klaproth
     eo: Martin Heinrich Klaproth
     es: Martin Heinrich Klaproth
     et: Martin Heinrich Klaproth
@@ -72,7 +72,7 @@ dv_has_:
     nn: Martin Heinrich Klaproth
     pl: Martin Heinrich Klaproth
     pt: Martin Heinrich Klaproth
-    pt-br: Martin Heinrich Klaproth
+    pt_br: Martin Heinrich Klaproth
     ro: Martin Heinrich Klaproth
     ru: Мартин Генрих Клапрот
     sk: Martin Heinrich Klaproth
@@ -87,8 +87,8 @@ dv_has_:
     ur: مارٹن ہینرک کلاپروتھ
     yue: 馬丁·克拉普羅特
     zh: 馬丁·克拉普羅特
-    zh-cn: 马丁·海因里希·克拉普罗特
-    zh-hant: 馬丁·海因里希·克拉普羅特
+    zh_cn: 马丁·海因里希·克拉普罗特
+    zh_hant: 馬丁·海因里希·克拉普羅特
   time_:
     started: 1743-12-01T00:00:00.000+00:53
     stopped: 1817-01-01T00:00:00.000+00:53

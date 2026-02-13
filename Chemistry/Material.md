@@ -124,7 +124,7 @@ dv_has_:
     az: material
     ba: материал
     be: матэрыял
-    be-tarask: матэрыял
+    be_tarask: матэрыял
     bg: материал
     bn: উপাদান
     bs: materijal
@@ -135,11 +135,11 @@ dv_has_:
     cy: deunydd
     da: materiale
     de: Material
-    de-ch: Material
+    de_ch: Material
     el: υλικό
     en: material
-    en-ca: material
-    en-gb: material
+    en_ca: material
+    en_gb: material
     eo: materialo
     es: material
     et: materjal
@@ -166,11 +166,11 @@ dv_has_:
     ka: მასალა
     kaa: material
     kk: материалдар
-    kk-arab: ماتەرىيالدار
+    kk_arab: ماتەرىيالدار
     kk-cn: ماتەرىيالدار
-    kk-cyrl: материалдар
+    kk_cyrl: материалдар
     kk-kz: материалдар
-    kk-latn: materïaldar
+    kk_latn: materïaldar
     kk-tr: materïaldar
     ko: 재료
     ks: مَواد
@@ -183,7 +183,7 @@ dv_has_:
     mn: материал
     mni: ꯄꯣꯠꯂꯝ
     ms: bahan
-    ms-arab: باهن
+    ms_arab: باهن
     my: ပစ္စည်း
     nan: châi-liāu
     nb: materiale
@@ -193,7 +193,7 @@ dv_has_:
     oc: material
     pl: materiał
     pt: material
-    pt-br: material
+    pt_br: material
     qu: imaykana
     ro: material de bază
     ru: материал
@@ -210,8 +210,8 @@ dv_has_:
     sms: materiaal
     sq: materiali
     sr: материјал
-    sr-ec: материјал
-    sr-el: materijal
+    sr_ec: материјал
+    sr_el: materijal
     sv: material
     sw: Maunzi
     tg: мавод
@@ -219,7 +219,7 @@ dv_has_:
     tly: material
     tr: temel malzeme
     tt: материал
-    tt-cyrl: материал
+    tt_cyrl: материал
     udm: материал
     ug: ماتېرىيال
     uk: матеріал
@@ -234,13 +234,13 @@ dv_has_:
     yo: ohun èlò
     yue: 料
     zh: 材料
-    zh-cn: 材料
-    zh-hans: 材料
-    zh-hant: 材料
-    zh-hk: 材料
+    zh_cn: 材料
+    zh_hans: 材料
+    zh_hant: 材料
+    zh_hk: 材料
     zh-my: 材料
-    zh-sg: 材料
-    zh-tw: 材料
+    zh_sg: 材料
+    zh_tw: 材料
     zu: isithako
 ---
 # [[Material]] 

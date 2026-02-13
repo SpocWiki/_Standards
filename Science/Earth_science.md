@@ -174,7 +174,7 @@ dv_has_:
     az: yer haqqında elmlər
     ba: Ерҙе өйрәнеүсе фәндәр
     be: навукі аб Зямлі
-    be-tarask: навукі пра Зямлю
+    be_tarask: навукі пра Зямлю
     bg: Науки за Земята
     bho: पृथ्वी विज्ञान
     blk: ကမ္ဘာႏဟံႏသိပ္ပံ
@@ -189,12 +189,12 @@ dv_has_:
     cy: gwyddorau daear
     da: geovidenskab
     de: Geowissenschaften
-    de-ch: Geowissenschaften
+    de_ch: Geowissenschaften
     dv: ބިމުގެ އިލްމު
     el: επιστήμες γης και περιβάλλοντος
     en: Earth science
-    en-ca: Earth science
-    en-gb: Earth science
+    en_ca: Earth science
+    en_gb: Earth science
     eo: terscienco
     es: ciencias de la Tierra
     et: maateadus
@@ -241,14 +241,14 @@ dv_has_:
     mk: науки за Земјата
     mn: Дэлхий судлал
     ms: sains bumi
-    ms-arab: ساءينس بومي
+    ms_arab: ساءينس بومي
     mt: xjenza tad-Dinja
     mwl: Ciéncia de la Tierra
     my: ကမ္ဘာမြေ သိပ္ပံ
     nan: Tē-kiû kho-ha̍k
     nb: geovitenskap
     nds: Eerdwetenschoppen
-    nds-nl: eerdwetenschoppen
+    nds_nl: eerdwetenschoppen
     ne: पृथ्वी विज्ञान
     nl: aardwetenschappen
     nn: geofag
@@ -261,7 +261,7 @@ dv_has_:
     pl: nauki o Ziemi
     ps: ځمکپوهنې
     pt: ciências da terra
-    pt-br: ciências da terra
+    pt_br: ciências da terra
     rm: Scienzas da la Terra
     ro: științele Pământului
     ru: науки о Земле
@@ -293,8 +293,8 @@ dv_has_:
     tr: yer bilimleri
     ts: Sayensi ya Misava
     tt: җирне өйрәнүче фәннәр
-    tt-cyrl: Җирне өйрәнүче фәннәр
-    tt-latn: Cirne öyränüçe fännär
+    tt_cyrl: Җирне өйрәнүче фәннәр
+    tt_latn: Cirne öyränüçe fännär
     uk: науки про Землю
     ur: زمینیات
     vec: siense de ła tera
@@ -307,11 +307,11 @@ dv_has_:
     yo: sáyẹ́nsì àgbáyé
     yue: 地球科學
     zh: 地球科學
-    zh-cn: 地球科学
-    zh-hans: 地球科学
-    zh-hant: 地球科學
-    zh-hk: 地球科學
-    zh-tw: 地球科學
+    zh_cn: 地球科学
+    zh_hans: 地球科学
+    zh_hant: 地球科學
+    zh_hk: 地球科學
+    zh_tw: 地球科學
 ---
 # [[Earth_science]]
 

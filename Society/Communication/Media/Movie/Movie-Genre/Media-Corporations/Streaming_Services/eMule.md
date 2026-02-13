@@ -40,12 +40,12 @@ dv_has_:
     vi: eMule
     wuu: EMule
     zh: EMule
-    zh-cn: eMule
-    zh-hans: eMule
-    zh-hant: eMule
-    zh-hk: eMule
-    zh-sg: eMule
-    zh-tw: eMule
+    zh_cn: eMule
+    zh_hans: eMule
+    zh_hant: eMule
+    zh_hk: eMule
+    zh_sg: eMule
+    zh_tw: eMule
 aliases:
 - eMule
 - إي ميول

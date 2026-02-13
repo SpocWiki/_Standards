@@ -82,7 +82,7 @@ dv_has_:
     oc: Thysanura
     pl: szczeciogonki
     pt: Thysanura
-    pt-br: Thysanura
+    pt_br: Thysanura
     ro: Tizanure
     ru: Thysanura
     sl: Ščetinorepke
@@ -94,8 +94,8 @@ dv_has_:
     vo: Thysanura
     war: Thysanura
     zh: 纓尾目
-    zh-cn: 缨尾目
-    zh-hans: 缨尾目
+    zh_cn: 缨尾目
+    zh_hans: 缨尾目
 ---
 # [[Thysanura]] 
 

@@ -60,7 +60,7 @@ dv_has_:
     ast: Cámara escura
     az: Kamera-obskura
     be: Камера абскура
-    be-tarask: камэра-абскура
+    be_tarask: камэра-абскура
     bg: Камера обскура
     bn: ক্যামেরা অবস্কিউরা
     ca: Cambra obscura
@@ -70,7 +70,7 @@ dv_has_:
     de: Camera obscura
     el: Σκοτεινός θάλαμος
     en: camera obscura
-    en-gb: camera obscura
+    en_gb: camera obscura
     eo: Senluma kamero
     es: cámara oscura
     et: Camera obscura
@@ -105,7 +105,7 @@ dv_has_:
     pl: Camera obscura
     pms: Stansia sombra
     pt: câmara escura
-    pt-br: câmera escura
+    pt_br: câmera escura
     ro: cameră obscură
     ru: камера-обскура
     scn: Càmmira oscura
@@ -113,8 +113,8 @@ dv_has_:
     sk: Camera obscura
     sl: camera obscura
     sr: Камера опскура
-    sr-ec: Камера опскура
-    sr-el: Kamera opskura
+    sr_ec: Камера опскура
+    sr_el: Kamera opskura
     sv: Camera obscura
     te: కెమెరా అబ్స్క్యూరా
     th: กล้องทาบเงา

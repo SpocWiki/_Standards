@@ -542,7 +542,7 @@ dv_has_:
   name_:
     ab: Замбиа
     ace: Zambia
-    aeb-arab: زامبيا
+    aeb_arab: زامبيا
     af: Zambië
     am: ዛምቢያ
     ami: Zambia
@@ -563,7 +563,7 @@ dv_has_:
     bar: Sambia
     bcl: Sambya
     be: Замбія
-    be-tarask: Замбія
+    be_tarask: Замбія
     bew: Sambia
     bg: Замбия
     bho: जांबिया
@@ -577,7 +577,7 @@ dv_has_:
     bs: Zambija
     bxr: Замби
     ca: Zàmbia
-    cbk-zam: Zambia
+    cbk_zam: Zambia
     cdo: Zambia
     ce: Замби
     ceb: Zambia
@@ -586,7 +586,7 @@ dv_has_:
     ckb: زامبیا
     co: Zamibia
     crh: Zambiya
-    crh-latn: Zambiya
+    crh_latn: Zambiya
     crh-ro: Zambiye
     cs: Zambie
     csb: Zambiô
@@ -596,7 +596,7 @@ dv_has_:
     dag: Zambia
     de: Sambia
     de-at: Sambia
-    de-ch: Sambia
+    de_ch: Sambia
     din: Dhambia
     diq: Zambiya
     dsb: Sambija
@@ -605,8 +605,8 @@ dv_has_:
     ee: Zambia
     el: Ζάμπια
     en: Zambia
-    en-ca: Zambia
-    en-gb: Zambia
+    en_ca: Zambia
+    en_gb: Zambia
     en-us: Zambia
     eo: Zambio
     es: Zambia
@@ -707,7 +707,7 @@ dv_has_:
     nan: Zambia
     nb: Zambia
     nds: Sambia
-    nds-nl: Zambia
+    nds_nl: Zambia
     ne: जाम्बिया
     new: जाम्बिया
     nl: Zambia
@@ -763,8 +763,8 @@ dv_has_:
     so: Saambiya
     sq: Zambia
     sr: Замбија
-    sr-ec: Замбија
-    sr-el: Zambija
+    sr_ec: Замбија
+    sr_el: Zambija
     ss: IZambiya
     st: Zambia
     stq: Sambia
@@ -812,11 +812,11 @@ dv_has_:
     zea: Zambia
     zgh: ⵥⴰⵎⴱⵢⴰ
     zh: 贊比亞
-    zh-cn: 赞比亚
-    zh-hans: 赞比亚
-    zh-hant: 尚比亞
-    zh-hk: 贊比亞
-    zh-tw: 尚比亞
+    zh_cn: 赞比亚
+    zh_hans: 赞比亚
+    zh_hant: 尚比亞
+    zh_hk: 贊比亞
+    zh_tw: 尚比亞
     zu: IZambiya
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Zambia

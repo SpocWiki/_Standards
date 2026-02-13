@@ -118,7 +118,7 @@ dv_has_:
     azb: شرلی تمپل
     ba: Темпл Ширли
     be: Шырлі Тэмпл
-    be-tarask: Шырлі Тэмпл
+    be_tarask: Шырлі Тэмпл
     bg: Шърли Темпъл
     bi: Shirley Temple
     bn: শার্লি টেম্পল
@@ -128,11 +128,11 @@ dv_has_:
     cy: Shirley Temple
     da: Shirley Temple
     de: Shirley Temple
-    de-ch: Shirley Temple
+    de_ch: Shirley Temple
     el: Σίρλεϊ Τέμπλ
     en: Shirley Temple
-    en-ca: Shirley Temple
-    en-gb: Shirley Temple
+    en_ca: Shirley Temple
+    en_gb: Shirley Temple
     eo: Shirley Temple
     es: Shirley Temple
     et: Shirley Temple
@@ -177,7 +177,7 @@ dv_has_:
     pap: Shirley Temple
     pl: Shirley Temple
     pt: Shirley Temple
-    pt-br: Shirley Temple
+    pt_br: Shirley Temple
     ro: Shirley Temple
     ru: Ширли Темпл
     sco: Shirley Temple
@@ -187,8 +187,8 @@ dv_has_:
     sl: Shirley Temple
     sq: Shirley Temple
     sr: Ширли Темпл
-    sr-ec: Ширли Темпл
-    sr-el: Širli Templ
+    sr_ec: Ширли Темпл
+    sr_el: Širli Templ
     sv: Shirley Temple
     ta: சிர்லி டெம்பிள்
     tl: Shirley Temple
@@ -202,12 +202,12 @@ dv_has_:
     yo: Shirley Temple
     yue: 莎莉譚寶
     zh: 秀兰·邓波儿
-    zh-cn: 秀兰·邓波儿
-    zh-hans: 秀兰·邓波儿
-    zh-hant: 秀蘭·鄧波爾
-    zh-hk: 莎莉譚寶
-    zh-sg: 秀兰·邓波儿
-    zh-tw: 秀蘭·鄧波爾
+    zh_cn: 秀兰·邓波儿
+    zh_hans: 秀兰·邓波儿
+    zh_hant: 秀蘭·鄧波爾
+    zh_hk: 莎莉譚寶
+    zh_sg: 秀兰·邓波儿
+    zh_tw: 秀蘭·鄧波爾
 ---
 # [[Shirley_Temple]] 
 

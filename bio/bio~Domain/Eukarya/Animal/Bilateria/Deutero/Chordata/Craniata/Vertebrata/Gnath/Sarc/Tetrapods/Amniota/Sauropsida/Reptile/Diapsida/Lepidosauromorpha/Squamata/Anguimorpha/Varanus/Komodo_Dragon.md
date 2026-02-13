@@ -163,7 +163,7 @@ dv_has_:
     bbc: Komodo
     bcl: Butiki sa Komodo
     be: Варан камодскі
-    be-tarask: Варан камодзкі
+    be_tarask: Варан камодзкі
     bg: комодски варан
     bjn: Komodo
     bn: কোমোডো ড্রাগন
@@ -205,7 +205,7 @@ dv_has_:
     jv: Komodho
     ka: კომოდოს ვარანი
     kk: Комодо кеселі
-    kk-cyrl: dragon Komodo
+    kk_cyrl: dragon Komodo
     ko: 코모도왕도마뱀
     ku: Ejdehayê Komodoyê
     la: Varanus komodoensis
@@ -222,7 +222,7 @@ dv_has_:
     mul: Varanus komodoensis
     my: ကိုမိုဒိုနဂါး
     nb: komodovaran
-    nds-nl: komodovaraan
+    nds_nl: komodovaraan
     ne: गोहोरो
     nl: komodovaraan
     nv: Tiníléítsoh
@@ -231,7 +231,7 @@ dv_has_:
     pl: waran z Komodo
     pnb: کوموڈو
     pt: dragão-de-komodo
-    pt-br: dragão-de-komodo
+    pt_br: dragão-de-komodo
     ro: Varanus komodoensis
     ru: комодский варан
     sco: Komodo draigon
@@ -258,11 +258,11 @@ dv_has_:
     wuu: 科摩多巨蜥
     yue: 科莫多巨蜥
     zh: 科摩多巨蜥
-    zh-cn: 科摩多巨蜥
-    zh-hans: 科摩多巨蜥
-    zh-hant: 科摩多巨蜥
-    zh-hk: 科莫多巨蜥
-    zh-tw: 科摩多巨蜥
+    zh_cn: 科摩多巨蜥
+    zh_hans: 科摩多巨蜥
+    zh_hant: 科摩多巨蜥
+    zh_hk: 科莫多巨蜥
+    zh_tw: 科摩多巨蜥
 ---
 # [[Komodo_Dragon]] 
 

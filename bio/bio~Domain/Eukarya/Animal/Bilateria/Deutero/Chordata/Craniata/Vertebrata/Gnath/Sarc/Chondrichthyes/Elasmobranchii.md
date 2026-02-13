@@ -9,7 +9,7 @@ dv_has_:
     ast: Elasmobranchii
     az: Yastıqəlsəməlilər
     be: пласцінажаберныя
-    be-tarask: пласьцінажабравыя
+    be_tarask: пласьцінажабравыя
     bg: пластинчатохрили
     ca: Elasmobranqui
     ceb: Iho ug pagi
@@ -52,7 +52,7 @@ dv_has_:
     oc: Elasmobranchii
     pl: spodouste
     pt: Elasmobrânquios
-    pt-br: Elasmobranchii
+    pt_br: Elasmobranchii
     ro: Elasmobranchii
     ru: пластиножаберные
     sd: اليسموبرينڪياء
@@ -71,12 +71,12 @@ dv_has_:
     wuu: 板鳃亚纲
     yue: 板鰓亞綱
     zh: 板鳃亚纲
-    zh-cn: 板鳃亚纲
-    zh-hans: 板鳃亚纲
-    zh-hant: 板鰓亞綱
-    zh-hk: 板鰓亞綱
-    zh-sg: 板鳃亚纲
-    zh-tw: 板鰓亞綱
+    zh_cn: 板鳃亚纲
+    zh_hans: 板鳃亚纲
+    zh_hant: 板鰓亞綱
+    zh_hk: 板鰓亞綱
+    zh_sg: 板鳃亚纲
+    zh_tw: 板鰓亞綱
 aliases:
 - cápák és ráják
 - Elasmobranchi

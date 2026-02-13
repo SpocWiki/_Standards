@@ -3,7 +3,7 @@ dv_has_:
   name_:
     ab: Камерун
     ady: Камерун
-    aeb-arab: الكاميرون
+    aeb_arab: الكاميرون
     af: Kameroen
     am: ካሜሩን
     ami: Kamiron
@@ -25,7 +25,7 @@ dv_has_:
     bbc: Kamerun
     bcl: Kameron
     be: Камерун
-    be-tarask: Камэрун
+    be_tarask: Камэрун
     bew: Kamérun
     bg: Камерун
     bgn: کامیرون
@@ -41,7 +41,7 @@ dv_has_:
     bs: Kamerun
     bxr: Камерун
     ca: Camerun
-    cbk-zam: Camerún
+    cbk_zam: Camerún
     cdo: Cameroon
     ce: Камерун
     ceb: Cameroon
@@ -49,7 +49,7 @@ dv_has_:
     ckb: کامیروون
     co: Camerun
     crh: Kamerun
-    crh-latn: Kamerun
+    crh_latn: Kamerun
     cs: Kamerun
     cv: Камерун
     cy: Camerŵn
@@ -57,7 +57,7 @@ dv_has_:
     dag: Cameroon
     de: Kamerun
     de-at: Kamerun
-    de-ch: Kamerun
+    de_ch: Kamerun
     din: Kameroon
     diq: Kamerun
     dsb: Kamerun
@@ -67,8 +67,8 @@ dv_has_:
     ee: Cameroon
     el: Καμερούν
     en: Cameroon
-    en-ca: Cameroon
-    en-gb: Cameroon
+    en_ca: Cameroon
+    en_gb: Cameroon
     eo: Kameruno
     es: Camerún
     et: Kamerun
@@ -153,7 +153,7 @@ dv_has_:
     lv: Kamerūna
     lzh: 喀麥隆
     mad: Kamerun
-    map-bms: Kamerun
+    map_bms: Kamerun
     mdf: Камэрун
     mg: Kamerona
     mhr: Камерун
@@ -176,7 +176,7 @@ dv_has_:
     nan: Cameroon
     nb: Kamerun
     nds: Kamerun
-    nds-nl: Kameroen
+    nds_nl: Kameroen
     ne: क्यामेरून
     new: क्यामेरून
     nl: Kameroen
@@ -204,7 +204,7 @@ dv_has_:
     prg: Kamerūns
     ps: کامرون
     pt: Camarões
-    pt-br: Camarões
+    pt_br: Camarões
     qu: Kamirun
     rm: Camerun
     ro: Camerun
@@ -236,8 +236,8 @@ dv_has_:
     so: Kamiruun
     sq: Kameruni
     sr: Камерун
-    sr-ec: Камерун
-    sr-el: Kamerun
+    sr_ec: Камерун
+    sr_el: Kamerun
     ss: IKhameruni
     st: Cameroon
     stq: Kamerun
@@ -282,14 +282,14 @@ dv_has_:
     zea: Kammeroen
     zgh: ⴽⴰⵎⵉⵔⵓⵏ
     zh: 喀麦隆
-    zh-cn: 喀麦隆
-    zh-hans: 喀麦隆
-    zh-hant: 喀麥隆
-    zh-hk: 喀麥隆
-    zh-mo: 喀麥隆
+    zh_cn: 喀麦隆
+    zh_hans: 喀麦隆
+    zh_hant: 喀麥隆
+    zh_hk: 喀麥隆
+    zh_mo: 喀麥隆
     zh-my: 喀麦隆
-    zh-sg: 喀麦隆
-    zh-tw: 喀麥隆
+    zh_sg: 喀麦隆
+    zh_tw: 喀麥隆
     zu: IKamerooni
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Cameroon

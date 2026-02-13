@@ -112,7 +112,7 @@ dv_has_:
     az: Boşbuynuzlular
     azb: بوش بوینوزلولار
     be: пустарогія
-    be-tarask: пустарогія
+    be_tarask: пустарогія
     bg: кухороги
     bn: বোভিডি
     br: Ejeneged
@@ -124,11 +124,11 @@ dv_has_:
     cy: Bufilod
     da: Skedehornede
     de: Hornträger
-    de-ch: Hornträger
+    de_ch: Hornträger
     el: Βοοειδή
     en: Bovidae
-    en-ca: Bovid
-    en-gb: Bovid
+    en_ca: Bovid
+    en_gb: Bovid
     eo: Bovedoj
     es: bóvidos
     et: veislased
@@ -181,7 +181,7 @@ dv_has_:
     pl: wołowate
     pnb: گانواں
     pt: Bovídeos
-    pt-br: Bovídeos
+    pt_br: Bovídeos
     ro: Bovidae
     ru: полорогие
     sco: bovid
@@ -205,9 +205,9 @@ dv_has_:
     wuu: 牛科
     yue: 牛科
     zh: 牛科
-    zh-cn: 牛科
-    zh-hans: 牛科
-    zh-tw: 牛科
+    zh_cn: 牛科
+    zh_hans: 牛科
+    zh_tw: 牛科
 ---
 # [[Bovidae]]
 

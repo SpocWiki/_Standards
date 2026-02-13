@@ -136,7 +136,7 @@ dv_has_:
     ban: Wéda
     bcl: Veda
     be: Веды
-    be-tarask: Вэды
+    be_tarask: Вэды
     bg: Веди
     bho: वेद
     bn: বেদ
@@ -165,7 +165,7 @@ dv_has_:
     gl: Vedas
     gom: वेद
     gom-deva: वेद
-    gom-latn: Vedas
+    gom_latn: Vedas
     gu: વેદ
     he: ודות
     hi: वेद
@@ -226,7 +226,7 @@ dv_has_:
     sl: Vede
     sq: Vedat
     sr: Веде
-    sr-ec: Веде
+    sr_ec: Веде
     stq: Veda
     su: Weda
     sv: Veda

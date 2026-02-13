@@ -75,7 +75,7 @@ dv_has_:
     ast: Sincretismu
     az: Sinkretizm
     be: Сінкрэтызм
-    be-tarask: сынкрэтызм
+    be_tarask: сынкрэтызм
     bg: Синкретизъм
     bn: সমন্বয়বাদ
     ca: sincretisme
@@ -84,8 +84,8 @@ dv_has_:
     de: Synkretismus
     el: Συγκριτισμός
     en: syncretism
-    en-ca: syncretism
-    en-gb: syncretism
+    en_ca: syncretism
+    en_gb: syncretism
     eo: sinkretismo
     es: sincretismo
     et: sünkretism
@@ -108,11 +108,11 @@ dv_has_:
     ja: シンクレティズム
     ka: რელიგიური სინკრეტიზმი
     kk: Синкретизм
-    kk-arab: سىينكرەتىيزم
+    kk_arab: سىينكرەتىيزم
     kk-cn: سىينكرەتىيزم
-    kk-cyrl: Синкретизм
+    kk_cyrl: Синкретизм
     kk-kz: Синкретизм
-    kk-latn: Sïnkretïzm
+    kk_latn: Sïnkretïzm
     kk-tr: Sïnkretïzm
     ko: 혼합주의
     ky: Синкретизм
@@ -138,8 +138,8 @@ dv_has_:
     smn: synkretism
     sms: synkretismm
     sr: синкретизам
-    sr-ec: синкретизам
-    sr-el: Sinkretizam
+    sr_ec: синкретизам
+    sr_el: Sinkretizam
     sv: synkretism
     sw: Sinkretisimo
     th: การผสานความเชื่อ
@@ -154,12 +154,12 @@ dv_has_:
     xmf: რელიგიური სინკრეტიზმი
     yue: 混合主義
     zh: 綜攝
-    zh-cn: 综摄
-    zh-hans: 综摄
-    zh-hant: 綜攝
-    zh-hk: 綜攝
-    zh-sg: 综摄
-    zh-tw: 綜攝
+    zh_cn: 综摄
+    zh_hans: 综摄
+    zh_hant: 綜攝
+    zh_hk: 綜攝
+    zh_sg: 综摄
+    zh_tw: 綜攝
 ---
 # [[Syncretism]] 
 

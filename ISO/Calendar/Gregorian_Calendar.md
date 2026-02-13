@@ -251,7 +251,7 @@ dv_has_:
     bar: Gregorianischa Kalenda
     bcl: Gregoryanong kalendaryo
     be: Грыгарыянскі каляндар
-    be-tarask: грыгарыянскі каляндар
+    be_tarask: грыгарыянскі каляндар
     bg: Григориански календар
     bho: ग्रेगरियन कैलेंडर
     bjn: Almanak Gregorius
@@ -262,7 +262,7 @@ dv_has_:
     btm: Kalender Gregorian
     bxr: Григориин литэ
     ca: calendari gregorià
-    cbk-zam: Calendario Gregoriano
+    cbk_zam: Calendario Gregoriano
     cdo: Gregorius Lĭk-huák
     ce: Григорианан рузма
     ceb: Kalendaryong Gregoryano
@@ -349,7 +349,7 @@ dv_has_:
     lv: Gregora kalendārs
     lzh: 格里曆
     mai: ग्रेगोरियन क्यालेन्डर
-    map-bms: Kalendher Gregorian
+    map_bms: Kalendher Gregorian
     mg: Tetiandro gregoriana
     mhr: Григориан кечышот
     mk: грегоријански календар
@@ -366,7 +366,7 @@ dv_has_:
     nap: Calannario greguriano
     nb: gregoriansk kalender
     nds: Gregoriaansch Klenner
-    nds-nl: gregoriaanse kalender
+    nds_nl: gregoriaanse kalender
     ne: ग्रेगोरी क्यालेण्डर
     new: ग्रेगोरियन पात्रो
     nl: gregoriaanse kalender
@@ -386,7 +386,7 @@ dv_has_:
     pnt: Γρηγοριανόν ημερολόγιον
     ps: ګرېګوري کلیز
     pt: Calendário gregoriano
-    pt-br: Calendário gregoriano
+    pt_br: Calendário gregoriano
     qu: Griguryanu kalindaryu
     ro: calendarul gregorian
     ru: григорианский календарь
@@ -411,7 +411,7 @@ dv_has_:
     so: Kalandarka Miilaadiga
     sq: Kalendari gregorian
     sr: Грегоријански календар
-    sr-ec: Грегоријански календар
+    sr_ec: Грегоријански календар
     su: Kalénder Grégori
     sv: gregorianska kalendern
     sw: Kalenda ya Gregori
@@ -426,7 +426,7 @@ dv_has_:
     tok: nasin tenpo Kekoli
     tr: Miladî takvim
     tt: милади тәкъвим
-    tt-cyrl: милади тәкъвим
+    tt_cyrl: милади тәкъвим
     udm: григориан дырпус
     uk: Григоріанський календар
     ur: عیسوی تقویم
@@ -446,9 +446,9 @@ dv_has_:
     zea: Gregoriaonse kalender
     zgh: ⴰⵙⵎⵍⵓⵙⵙⴰⵏ ⴰⴳⵔⵉⴳⵓⵔ
     zh: 公历
-    zh-hant: 公曆
-    zh-hk: 公曆
-    zh-tw: 公曆
+    zh_hant: 公曆
+    zh_hk: 公曆
+    zh_tw: 公曆
 ---
 # [[Gregorian_Calendar]] 
 

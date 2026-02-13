@@ -141,7 +141,7 @@ dv_has_:
     ba: социология
     bcl: Sosyolohiya
     be: сацыялогія
-    be-tarask: сацыялёгія
+    be_tarask: сацыялёгія
     bew: Èlmu kemasarakatan
     bg: социология
     bho: समाजशास्त्र
@@ -164,8 +164,8 @@ dv_has_:
     el: κοινωνιολογία
     eml: sociologìa
     en: sociology
-    en-ca: sociology
-    en-gb: sociology
+    en_ca: sociology
+    en_gb: sociology
     eo: sociologio
     es: sociología
     et: sotsioloogia
@@ -237,14 +237,14 @@ dv_has_:
     mn: Социологи
     mr: समाजशास्त्र
     ms: sosiologi
-    ms-arab: سوسيولوݢي
+    ms_arab: سوسيولوݢي
     mt: soċjoloġija
     mwl: sociologie
     my: လူမှုဗေဒ
     nan: siā-hoē-ha̍k
     nb: sosiologi
     nds: Soziologie
-    nds-nl: sosjologie
+    nds_nl: sosjologie
     ne: समाजशास्त्र
     new: समाजशास्त्र
     nl: sociologie
@@ -264,7 +264,7 @@ dv_has_:
     pnb: عمرانیات
     ps: ټولنپوهنه
     pt: sociologia
-    pt-br: sociologia
+    pt_br: sociologia
     ro: sociologie
     ru: социология
     rue: соціолоґія
@@ -294,14 +294,14 @@ dv_has_:
     ta: சமூகவியல்
     te: సామాజిక శాస్త్రం
     tg: ҷомеашиносӣ
-    tg-cyrl: ҷамъиятшиносӣ
+    tg_cyrl: ҷамъиятшиносӣ
     th: สังคมวิทยา
     tk: sosiologiýa
     tl: sosyolohiya
     tpi: sosiolosi
     tr: sosyoloji
     tt: социология
-    tt-cyrl: җәмгыятьбелем
+    tt_cyrl: җәмгыятьбелем
     ug: جەمئىيەتشۇناسلىق
     uk: соціологія
     ur: معاشریات
@@ -321,14 +321,14 @@ dv_has_:
     zea: sociolohie
     zgh: ⵜⴰⵙⵏⴰⵎⵓⵏⵜ
     zh: 社會學
-    zh-cn: 社会学
-    zh-hans: 社会学
-    zh-hant: 社會學
-    zh-hk: 社會學
-    zh-mo: 社會學
+    zh_cn: 社会学
+    zh_hans: 社会学
+    zh_hant: 社會學
+    zh_hk: 社會學
+    zh_mo: 社會學
     zh-my: 社会学
-    zh-sg: 社会学
-    zh-tw: 社會學
+    zh_sg: 社会学
+    zh_tw: 社會學
 ---
 # [[Sociologist]] 
 

@@ -32,7 +32,7 @@ dv_has_:
     ast: Michael Madsen
     azb: مایکل مدسن
     be: Майкл Мэдсен
-    be-tarask: Майкл Мэдсэн
+    be_tarask: Майкл Мэдсэн
     bg: Майкъл Медсън
     ca: Michael Madsen
     ckb: مایکڵ مادسن
@@ -70,7 +70,7 @@ dv_has_:
     nn: Michael Madsen
     pap: Michael Madsen
     pt: Michael Madsen
-    pt-br: Michael Madsen
+    pt_br: Michael Madsen
     ro: Michael Madsen
     ru: Майкл Мэдсен
     sh: Michael Madsen
@@ -78,23 +78,23 @@ dv_has_:
     sl: Michael Madsen
     sq: Michael Madsen
     sr: Мајкл Мадсен
-    sr-ec: Мајкл Мадсен
-    sr-el: Majkl Madsen
+    sr_ec: Мајкл Мадсен
+    sr_el: Majkl Madsen
     sv: Michael Madsen
     te: మైఖేల్ మ్యాడ్సెన్
-    tg-cyrl: Майкл Мэдсен
+    tg_cyrl: Майкл Мэдсен
     tr: Michael Madsen
     uk: Майкл Медсен
     vo: Michael Madsen
     xmf: მაიკლ მედსენი
     yo: Michael Madsen
     zh: 迈克尔·马德森
-    zh-cn: 迈克尔·马德森
-    zh-hans: 迈克尔·马德森
-    zh-hant: 邁克爾·馬德森
-    zh-hk: 米高·密臣
-    zh-sg: 迈克尔·马德森
-    zh-tw: 麥可·馬德森
+    zh_cn: 迈克尔·马德森
+    zh_hans: 迈克尔·马德森
+    zh_hant: 邁克爾·馬德森
+    zh_hk: 米高·密臣
+    zh_sg: 迈克尔·马德森
+    zh_tw: 麥可·馬德森
 ---
 #is_/different_from :: [[Marsden,James]] 
 

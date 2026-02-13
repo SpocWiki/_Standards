@@ -7,7 +7,7 @@ dv_has_:
     az: Lucasfilm
     azb: لوکاس فیلم
     be: Lucasfilm
-    be-tarask: Lucasfilm
+    be_tarask: Lucasfilm
     bg: Лукасфилм
     bn: লুকাসফিল্ম
     br: Lucasfilm
@@ -50,7 +50,7 @@ dv_has_:
     nl: Lucasfilm
     pl: Lucasfilm
     pt: Lucasfilm
-    pt-br: Lucasfilm
+    pt_br: Lucasfilm
     ro: Lucasfilm
     ru: Lucasfilm
     sah: Lucasfilm
@@ -63,19 +63,19 @@ dv_has_:
     th: ลูคัสฟิล์ม
     tr: Lucasfilm
     tt: Lucasfilm
-    tt-cyrl: Lucasfilm
+    tt_cyrl: Lucasfilm
     uk: Lucasfilm
     vi: Lucasfilm
     wuu: 卢卡斯影业
     xmf: Lucasfilm
     yue: 盧卡斯影業
     zh: 卢卡斯影业
-    zh-cn: 卢卡斯影业
-    zh-hans: 卢卡斯影业
-    zh-hant: 盧卡斯影業
-    zh-hk: 盧卡斯影業
-    zh-sg: 卢卡斯影业
-    zh-tw: 盧卡斯影業
+    zh_cn: 卢卡斯影业
+    zh_hans: 卢卡斯影业
+    zh_hant: 盧卡斯影業
+    zh_hk: 盧卡斯影業
+    zh_sg: 卢卡斯影业
+    zh_tw: 盧卡斯影業
 aliases:
 - Lucasfilm
 - LucasFilm Ltd.

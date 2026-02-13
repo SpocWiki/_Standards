@@ -92,7 +92,7 @@ dv_has_:
     ar: تفاعل حمض-قاعدة
     as: এচিড-ক্ষাৰ বিক্ৰিয়া
     ast: Reacción acedu-base
-    be-tarask: кісьлява-асноўная рэакцыя
+    be_tarask: кісьлява-асноўная рэакцыя
     bn: অম্ল-ক্ষার বিক্রিয়া
     ca: reacció àcid-base
     cs: acidobazická reakce
@@ -138,7 +138,7 @@ dv_has_:
     sl: kislinsko-bazična reakcija
     sq: Acidet dhe Bazat
     sr: теорије киселина и база
-    sr-ec: теорије киселина и база
+    sr_ec: теорије киселина и база
     su: Téori réaksi asam-basa
     sv: syra–bas-reaktion
     ta: அமில-கார வினைகள்

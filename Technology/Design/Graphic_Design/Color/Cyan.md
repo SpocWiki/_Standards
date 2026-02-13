@@ -94,7 +94,7 @@ dv_has_:
     ba: зәңгәр
     ban: sian
     be: сіне-зялёны колер
-    be-tarask: цыянавы колер
+    be_tarask: цыянавы колер
     bg: синьо-зелен цвят
     bn: সায়ান
     br: cyan
@@ -107,7 +107,7 @@ dv_has_:
     de: Cyan
     el: γαλάζιο
     en: cyan
-    en-gb: cyan
+    en_gb: cyan
     eo: cejanbluo
     es: cian
     et: tsüaansinine
@@ -149,7 +149,7 @@ dv_has_:
     pl: cyjan
     pnt: γερανέεν
     pt: ciano
-    pt-br: ciano
+    pt_br: ciano
     ro: cyan
     ru: зеленовато-голубой
     scn: cianu
@@ -165,19 +165,19 @@ dv_has_:
     tr: camgöbeği
     ts: wasi-lwandle
     tt: зәңгәр
-    tt-cyrl: зәңгәр
+    tt_cyrl: зәңгәр
     uk: ціановий
     vi: xanh lơ
     wuu: 青色
     yi: ציאן
     yue: 青色
     zh: 青色
-    zh-cn: 青色
-    zh-hans: 青色
-    zh-hant: 青色
-    zh-hk: 青色
-    zh-sg: 青色
-    zh-tw: 青色
+    zh_cn: 青色
+    zh_hans: 青色
+    zh_hant: 青色
+    zh_hk: 青色
+    zh_sg: 青色
+    zh_tw: 青色
     zu: I-Cyan
 ---
 # [[Cyan]] 

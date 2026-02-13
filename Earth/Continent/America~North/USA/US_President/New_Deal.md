@@ -6,7 +6,7 @@ dv_has_:
     ast: New Deal
     az: Ruzveltin yeni kursu
     be: Новы курс Рузвельта
-    be-tarask: Новы курс
+    be_tarask: Новы курс
     bg: Нов курс на Рузвелт
     bs: New Deal
     ca: New Deal
@@ -55,8 +55,8 @@ dv_has_:
     sl: New Deal
     sq: New Deal
     sr: Њу дил
-    sr-ec: Њу дил
-    sr-el: Nju dil
+    sr_ec: Њу дил
+    sr_el: Nju dil
     sv: New Deal
     sw: New Deal
     th: สัญญาใหม่
@@ -69,12 +69,12 @@ dv_has_:
     yi: ניו דיל
     yue: 羅斯福新政
     zh: 罗斯福新政
-    zh-cn: 罗斯福新政
-    zh-hans: 罗斯福新政
-    zh-hant: 羅斯福新政
-    zh-hk: 羅斯福新政
-    zh-sg: 罗斯福新政
-    zh-tw: 羅斯福新政
+    zh_cn: 罗斯福新政
+    zh_hans: 罗斯福新政
+    zh_hant: 羅斯福新政
+    zh_hk: 羅斯福新政
+    zh_sg: 罗斯福新政
+    zh_tw: 羅斯福新政
 dv_is_:
   same_as:
   - '[[../../../../WikiData/WD~New_Deal,186356|WD~New_Deal,186356]]'

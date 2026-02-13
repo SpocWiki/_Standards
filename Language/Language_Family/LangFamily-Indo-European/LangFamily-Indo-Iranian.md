@@ -153,7 +153,7 @@ dv_has_:
     azb: هیند-ایران دیللری
     ba: Һинд-иран телдәре
     be: арыйскія мовы
-    be-tarask: індаіранскія мовы
+    be_tarask: індаіранскія мовы
     bg: Индоирански езици
     bho: इंडो-ईरानियन भाषा
     bn: ইন্দো-ইরানি ভাষাসমূহ
@@ -242,8 +242,8 @@ dv_has_:
     sl: indoiranski jeziki
     sq: Gjuhët indo-iraniane
     sr: индо-ирански језици
-    sr-ec: индо-ирански језици
-    sr-el: indo-iranski jezici
+    sr_ec: индо-ирански језици
+    sr_el: indo-iranski jezici
     sv: indoiranska språk
     sw: Lugha za Kihindi-Kiajemi
     ta: இந்திய-ஈரானிய மொழிகள்
@@ -260,8 +260,8 @@ dv_has_:
     xmf: ინდოირანული ნინეფი
     yue: 印度-伊朗語族
     zh: 印度－伊朗语族
-    zh-hant: 印度－伊朗語族
-    zh-tw: 印度－伊朗語族
+    zh_hant: 印度－伊朗語族
+    zh_tw: 印度－伊朗語族
 ---
 # [[LangFamily-Indo-Iranian/Lang-ira]] 
 

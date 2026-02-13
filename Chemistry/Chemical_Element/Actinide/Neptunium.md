@@ -142,7 +142,7 @@ dv_has_:
     ba: Нептуний
     ban: Néptunium
     be: Нептуній
-    be-tarask: Нэптун
+    be_tarask: Нэптун
     bg: нептуний
     bho: नेप्चुनियम
     bn: নেপচুনিয়াম
@@ -238,7 +238,7 @@ dv_has_:
     pnb: نیپچونیم
     ps: نېپټونيوم
     pt: neptúnio
-    pt-br: netúnio
+    pt_br: netúnio
     qu: Neptunyu
     ro: neptuniu
     ru: нептуний
@@ -256,7 +256,7 @@ dv_has_:
     sms: neptunium
     sq: Neptuni (element kimik)
     sr: нептунијум
-    sr-ec: Нептунијум
+    sr_ec: Нептунијум
     stq: Neptunium
     sv: neptunium
     sw: neptuni
@@ -280,14 +280,14 @@ dv_has_:
     yo: Nẹ́ptúníọ̀m
     yue: 錼
     zh: 錼
-    zh-cn: 镎
-    zh-hans: 镎
-    zh-hant: 錼
-    zh-hk: 錼
-    zh-mo: 錼
+    zh_cn: 镎
+    zh_hans: 镎
+    zh_hant: 錼
+    zh_hk: 錼
+    zh_mo: 錼
     zh-my: 镎
-    zh-sg: 镎
-    zh-tw: 錼
+    zh_sg: 镎
+    zh_tw: 錼
     zu: UmNaphangana
   number_of_:
     period: 7

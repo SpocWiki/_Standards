@@ -165,7 +165,7 @@ dv_has_:
     bar: Wirtschafd
     bcl: ekonomiya
     be: эканоміка
-    be-tarask: гаспадарка
+    be_tarask: гаспадарка
     bew: Atur banda
     bg: икономика
     bi: economi
@@ -186,12 +186,12 @@ dv_has_:
     cy: economi
     da: økonomi
     de: Wirtschaft
-    de-ch: Wirtschaft
+    de_ch: Wirtschaft
     diq: ekonomiye
     el: οικονομία
     en: economy
-    en-ca: economy
-    en-gb: economy
+    en_ca: economy
+    en_gb: economy
     en-us: economy
     eo: ekonomio
     es: economía
@@ -228,11 +228,11 @@ dv_has_:
     kab: tadamsa
     kbp: tɔsʊʊ
     kk: экономика
-    kk-arab: ەكونومىيكا
+    kk_arab: ەكونومىيكا
     kk-cn: ەكونومىيكا
-    kk-cyrl: экономика
+    kk_cyrl: экономика
     kk-kz: экономика
-    kk-latn: ékonomïka
+    kk_latn: ékonomïka
     kk-tr: ékonomïka
     kn: ಅರ್ಥ ವ್ಯವಸ್ಥೆ
     ko: 경제
@@ -256,7 +256,7 @@ dv_has_:
     mn: эдийн засаг
     mr: अर्थव्यवस्था
     ms: ekonomi
-    ms-arab: ايکونومي
+    ms_arab: ايکونومي
     mwl: eiquenomie
     my: စီးပွားရေး
     mzn: اقتصاد
@@ -294,8 +294,8 @@ dv_has_:
     sms: ekonomia
     sq: ekonomi
     sr: привреда
-    sr-ec: привреда
-    sr-el: privreda
+    sr_ec: привреда
+    sr_el: privreda
     sv: ekonomi
     sw: uchumi
     szy: kalisiway
@@ -309,7 +309,7 @@ dv_has_:
     tr: ekonomi
     ts: economy
     tt: икътисад
-    tt-cyrl: икътисад
+    tt_cyrl: икътисад
     uk: економіка
     ur: معیشت
     uz: iqtisodiyot
@@ -325,14 +325,14 @@ dv_has_:
     za: ginghci
     zgh: ⵜⴰⴷⴰⵎⵙⴰ
     zh: 经济
-    zh-cn: 经济
-    zh-hans: 经济
-    zh-hant: 經濟
-    zh-hk: 經濟
-    zh-mo: 經濟
+    zh_cn: 经济
+    zh_hans: 经济
+    zh_hant: 經濟
+    zh_hk: 經濟
+    zh_mo: 經濟
     zh-my: 经济
-    zh-sg: 经济
-    zh-tw: 經濟
+    zh_sg: 经济
+    zh_tw: 經濟
 ---
 # [[Economy]] 
 

@@ -142,7 +142,7 @@ dv_has_:
     ba: Эритроциттар
     bcl: Pulang selula kan dugo
     be: эрытрацыты
-    be-tarask: эрытрацыт
+    be_tarask: эрытрацыт
     bg: Еритроцит
     bn: লোহিত রক্তকণিকা
     br: Eritrokit
@@ -186,7 +186,7 @@ dv_has_:
     kn: ಕೆಂಪು ರಕ್ತ ಕಣ
     ko: 적혈구
     ku: xiroka sor
-    ku-latn: xiroka sor
+    ku_latn: xiroka sor
     kw: kell rudh an goos
     la: Erythrocytus
     lb: Erythrozyt
@@ -212,7 +212,7 @@ dv_has_:
     pnb: سرخ خونی خلیہ
     ps: د وینې سره کرویات
     pt: hemácia
-    pt-br: hemácia
+    pt_br: hemácia
     qu: Puka yawar kawsaykuq
     ro: Eritrocit
     ru: эритроциты
@@ -228,7 +228,7 @@ dv_has_:
     sms: ruõʹpsses-sell
     sq: Eritrociti
     sr: Црвена крвна зрнца
-    sr-ec: Црвена крвна зрнца
+    sr_ec: Црвена крвна зрнца
     su: Sél getih beureum
     sv: röd blodkropp
     sw: Seli nyekundu za damu
@@ -250,9 +250,9 @@ dv_has_:
     xmf: ერითროციტეფი
     yue: 紅血球
     zh: 紅血球
-    zh-cn: 红细胞
-    zh-hant: 紅血球
-    zh-tw: 紅血球
+    zh_cn: 红细胞
+    zh_hant: 紅血球
+    zh_tw: 紅血球
 ---
 # [[Red_Blood_Cell]] 
 

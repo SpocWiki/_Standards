@@ -18,8 +18,8 @@ dv_has_:
     cs: Bacteroidota
     de: Bacteroidota
     en: Bacteroidota
-    en-ca: Bacteroidota
-    en-gb: Bacteroidota
+    en_ca: Bacteroidota
+    en_gb: Bacteroidota
     eo: Bacteroidota
     es: Bacteroidota
     eu: Bacteroidota
@@ -40,7 +40,7 @@ dv_has_:
     oc: Bacteroidota
     pl: Bacteroidota
     pt: Bacteroidota
-    pt-br: Bacteroidota
+    pt_br: Bacteroidota
     ro: Bacteroidota
     ru: Bacteroidota
     sq: Bacteroidota

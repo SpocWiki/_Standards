@@ -43,13 +43,13 @@ dv_has_:
     ba: Джон Траволта
     bcl: John Travolta
     be: Джон Траволта
-    be-tarask: Джон Траволта
+    be_tarask: Джон Траволта
     bg: Джон Траволта
     bi: John Travolta
     bn: জন ট্রাভোল্টা
     bs: John Travolta
     ca: John Travolta
-    cbk-zam: John Travolta
+    cbk_zam: John Travolta
     ceb: John Travolta
     ckb: جۆن تراڤۆڵتا
     co: John Travolta
@@ -97,7 +97,7 @@ dv_has_:
     lb: John Travolta
     lt: John Travolta
     lv: Džons Travolta
-    map-bms: John Travolta
+    map_bms: John Travolta
     mg: John Travolta
     mk: Џон Траволта
     ml: ജോൺ ട്രവോൾട്ട
@@ -115,7 +115,7 @@ dv_has_:
     pl: John Travolta
     pms: John Travolta
     pt: John Travolta
-    pt-br: John Travolta
+    pt_br: John Travolta
     ro: John Travolta
     ru: Джон Траволта
     sco: John Travolta
@@ -144,12 +144,12 @@ dv_has_:
     yo: John Travolta
     yue: 尊特拉華達
     zh: 约翰·特拉沃尔塔
-    zh-cn: 约翰·特拉沃尔塔
-    zh-hans: 约翰·特拉沃尔塔
-    zh-hant: 約翰・屈伏塔
-    zh-hk: 尊·特拉華達
+    zh_cn: 约翰·特拉沃尔塔
+    zh_hans: 约翰·特拉沃尔塔
+    zh_hant: 約翰・屈伏塔
+    zh_hk: 尊·特拉華達
     zh-my: 尊·特拉华达
-    zh-sg: 约翰·特拉华达
+    zh_sg: 约翰·特拉华达
 ---
 ## #has_/text_of_/abstract 
 

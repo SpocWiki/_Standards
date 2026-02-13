@@ -87,7 +87,7 @@ dv_has_:
     af: Europese integrasie
     ar: تكامل أوروبي
     be: Еўрапейская інтэграцыя
-    be-tarask: эўрапейская інтэграцыя
+    be_tarask: эўрапейская інтэграцыя
     bg: Европейска интеграция
     bs: Evropske integracije
     ca: integració europea
@@ -137,8 +137,8 @@ dv_has_:
     wuu: 欧洲一体化
     yue: 歐洲一體化
     zh: 歐洲統合
-    zh-hant: 歐洲統合
-    zh-tw: 歐洲整合
+    zh_hant: 歐洲統合
+    zh_tw: 歐洲整合
 ---
 # [[European_Integration]] 
 

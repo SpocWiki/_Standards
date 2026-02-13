@@ -118,7 +118,7 @@ dv_has_:
     ba: Калидаса
     bar: Kalidasa
     be: Калідаса
-    be-tarask: Калідаса
+    be_tarask: Калідаса
     bg: Калидаса
     bho: कालिदास
     bi: Kālidāsa
@@ -137,8 +137,8 @@ dv_has_:
     de: Kalidasa
     el: Καλιντάσα
     en: Kalidasa
-    en-ca: Kālidāsa
-    en-gb: Kālidāsa
+    en_ca: Kālidāsa
+    en_gb: Kālidāsa
     eo: Kalidaso
     es: Kalidasa
     et: Kālidāsa
@@ -209,7 +209,7 @@ dv_has_:
     pms: Kalidasa
     pnb: کالیداس
     pt: Kalidasa
-    pt-br: Kalidasa
+    pt_br: Kalidasa
     ro: Kālidāsa
     roa-tara: Kālidāsa
     ru: Калидаса
@@ -250,8 +250,8 @@ dv_has_:
     yue: 迦梨陀娑
     za: Kālidāsa
     zh: 迦梨陀娑
-    zh-cn: 迦梨陀娑
-    zh-hans: 迦梨陀娑
+    zh_cn: 迦梨陀娑
+    zh_hans: 迦梨陀娑
 ---
 ## #has_/text_of_/abstract 
 

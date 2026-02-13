@@ -59,7 +59,7 @@ dv_has_:
     ar: دستورانية
     ast: constitucionalismu
     be: канстытуцыяналізм
-    be-tarask: канстытуцыяналізм
+    be_tarask: канстытуцыяналізм
     bg: Конституционализъм
     bn: সংবিধানবাদ
     ca: constitucionalisme
@@ -105,8 +105,8 @@ dv_has_:
     sk: konštitucionalizmus
     sl: konstitucionalizem
     sr: конституционализам
-    sr-ec: конституционализам
-    sr-el: konstitucionalizam
+    sr_ec: конституционализам
+    sr_el: konstitucionalizam
     sv: konstitutionalism
     th: รัฐธรรมนูญนิยม
     tr: Desturiyetçilik
@@ -114,9 +114,9 @@ dv_has_:
     ur: دستوریت
     vec: constitusionałismo
     zh: 宪政主义
-    zh-hans: 宪政主义
-    zh-hant: 憲政主義
-    zh-hk: 憲政主義
+    zh_hans: 宪政主义
+    zh_hant: 憲政主義
+    zh_hk: 憲政主義
 ---
 # [[Constitutionalism]] 
 

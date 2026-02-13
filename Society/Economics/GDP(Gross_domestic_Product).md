@@ -176,7 +176,7 @@ dv_has_:
     ba: эске тулайым продукт
     bar: Bruttoinlandsprodukt
     be: валавы ўнутраны прадукт
-    be-tarask: сукупны ўнутраны прадукт
+    be_tarask: сукупны ўнутраны прадукт
     bg: брутен вътрешен продукт
     bho: सकल घरेलू उत्पाद
     blk: စီဒီပီ
@@ -196,8 +196,8 @@ dv_has_:
     de: Bruttoinlandsprodukt
     el: Ακαθάριστο Εγχώριο Προϊόν
     en: gross domestic product
-    en-ca: gross domestic product
-    en-gb: gross domestic product
+    en_ca: gross domestic product
+    en_gb: gross domestic product
     eo: malneta enlanda produkto
     es: producto interno bruto
     es-419: producto interno bruto
@@ -275,7 +275,7 @@ dv_has_:
     pnb: خام ملکی پیداوار
     ps: د کورنيو توليداتو ټوليز ارزښت
     pt: produto interno bruto
-    pt-br: produto interno bruto
+    pt_br: produto interno bruto
     ro: produs intern brut
     ru: валовой внутренний продукт
     rue: Грубый домашный продукт
@@ -297,7 +297,7 @@ dv_has_:
     so: Wax soo saarka gudaha
     sq: Bruto prodhimi vendor
     sr: бруто домаћи производ
-    sr-ec: Бруто домаћи производ
+    sr_ec: Бруто домаћи производ
     stq: Bruttoinloundsprodukt
     su: Produk doméstik bruto
     sv: bruttonationalprodukt
@@ -327,11 +327,11 @@ dv_has_:
     yue: 本地生產總值
     zgh: ⴰⴼⴰⵔⵙ ⴰⵎⴰⴷⴷⴰⵢ ⵓⵙⵜⵉⵢ
     zh: 国内生产总值
-    zh-cn: 国内生产总值
-    zh-hans: 国内生产总值
-    zh-hant: 本地生產總值
-    zh-hk: 本地生產總值
-    zh-tw: 國內生產毛額
+    zh_cn: 国内生产总值
+    zh_hans: 国内生产总值
+    zh_hant: 本地生產總值
+    zh_hk: 本地生產總值
+    zh_tw: 國內生產毛額
 ---
 # [[GDP(Gross_domestic_Product)]] 
 

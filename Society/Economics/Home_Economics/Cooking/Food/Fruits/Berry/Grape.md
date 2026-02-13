@@ -209,7 +209,7 @@ UNII: 6X543N684K
 Colon_Classification: J374
 dv_has_:
   name_:
-    aeb-arab: عنب
+    aeb_arab: عنب
     af: druiwe
     am: ወይን
     ami: fadisusu'
@@ -230,7 +230,7 @@ dv_has_:
     bar: Weimer
     bcl: ubas
     be: вінаградзіна
-    be-tarask: вінаград
+    be_tarask: вінаград
     bg: грозде
     bho: अंगूर
     bn: আঙ্গুর
@@ -248,15 +248,15 @@ dv_has_:
     cy: grawnwin
     da: vindrue
     de: Weintraube
-    de-ch: Weintraube
+    de_ch: Weintraube
     diq: engur
     dty: अङ्गूर
     dv: މޭބިސްކަދުރު
     el: σταφύλι
     eml: ua
     en: grape
-    en-ca: grape
-    en-gb: grape
+    en_ca: grape
+    en_gb: grape
     eo: vinbero
     es: uva
     et: viinamari
@@ -273,7 +273,7 @@ dv_has_:
     gn: úva
     gom: dako
     gom-deva: द्राक्ष
-    gom-latn: dako
+    gom_latn: dako
     gsw: Wiitrybel
     gu: દ્રાક્ષ
     gv: smeyr-feeyney
@@ -316,7 +316,7 @@ dv_has_:
     lv: vīnogas
     lzh: 葡萄
     mai: अङ्गूर
-    map-bms: anggur
+    map_bms: anggur
     mg: voaloboka
     mk: грозје
     ml: മുന്തിരിങ്ങ
@@ -333,7 +333,7 @@ dv_has_:
     nan-latn-tailo: phû-tô
     nb: druer
     nds: Druuv
-    nds-nl: droeve
+    nds_nl: droeve
     ne: अङ्गूर
     new: अंगुर
     nl: druif
@@ -352,7 +352,7 @@ dv_has_:
     pnb: انگور
     ps: انګور
     pt: uva
-    pt-br: uva
+    pt_br: uva
     pwn: budu
     qu: uwas
     ro: strugure
@@ -406,9 +406,9 @@ dv_has_:
     yue: 提子
     za: makit
     zh: 葡萄
-    zh-hans: 葡萄
-    zh-hant: 葡萄
-    zh-tw: 葡萄
+    zh_hans: 葡萄
+    zh_hant: 葡萄
+    zh_tw: 葡萄
 ---
 # [[Grape]] 🍇 
 

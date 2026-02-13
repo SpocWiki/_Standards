@@ -4,7 +4,7 @@ dv_has_:
   name_:
     af: ISO 8601
     ar: ايزو 8601
-    be-tarask: ISO 8601
+    be_tarask: ISO 8601
     bg: ISO 8601
     bn: আইএসও ৮৬০১
     br: ISO 8601
@@ -12,10 +12,10 @@ dv_has_:
     cs: ISO 8601
     da: ISO 8601
     de: ISO 8601
-    de-ch: ISO 8601
+    de_ch: ISO 8601
     en: ISO 8601
-    en-ca: ISO 8601
-    en-gb: ISO 8601
+    en_ca: ISO 8601
+    en_gb: ISO 8601
     eo: ISO 8601
     es: ISO 8601
     et: ISO 8601
@@ -46,13 +46,13 @@ dv_has_:
     oc: ISO 8601
     pl: ISO 8601
     pt: ISO 8601
-    pt-br: ISO 8601
+    pt_br: ISO 8601
     ru: ISO 8601
     sk: ISO 8601
     sl: ISO 8601
     sq: ISO 8601
     sr: ISO 8601
-    sr-ec: ISO 8601
+    sr_ec: ISO 8601
     sv: ISO 8601
     sw: ISO 8601
     th: ISO 8601
@@ -64,8 +64,8 @@ dv_has_:
     xmf: ISO 8601
     yo: ISO 8601
     zh: ISO 8601
-    zh-hans: ISO 8601
-    zh-hant: 時間國際標準ISO 8601
+    zh_hans: ISO 8601
+    zh_hant: 時間國際標準ISO 8601
 aliases:
 - ISO 8601
 - nasin ISO 8601

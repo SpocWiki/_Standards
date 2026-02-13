@@ -166,7 +166,7 @@ dv_has_:
     az: Cozef Pristli
     bar: Joseph Priestley
     be: Джозеф Прыстлі
-    be-tarask: Джозэф Прыстлі
+    be_tarask: Джозэф Прыстлі
     bg: Джоузеф Пристли
     bn: যোশেফ প্রিস্টলি
     br: Joseph Priestley
@@ -180,8 +180,8 @@ dv_has_:
     ee: Joseph Priestley
     el: Τζόζεφ Πρίστλυ
     en: Joseph Priestley
-    en-ca: Joseph Priestley
-    en-gb: Joseph Priestley
+    en_ca: Joseph Priestley
+    en_gb: Joseph Priestley
     eo: Joseph Priestley
     es: Joseph Priestley
     et: Joseph Priestley
@@ -222,7 +222,7 @@ dv_has_:
     my: ဂျိုးဇက် ပရီးစ်လီ
     nb: Joseph Priestley
     nds: Joseph Priestley
-    nds-nl: Joseph Priestley
+    nds_nl: Joseph Priestley
     nl: Joseph Priestley
     nn: Joseph Priestley
     pam: Joseph Priestley
@@ -230,7 +230,7 @@ dv_has_:
     pms: Joseph Priestley
     ps: جوزف پریسټلي
     pt: Joseph Priestley
-    pt-br: Joseph Priestley
+    pt_br: Joseph Priestley
     rki: ဂျိုးဇက် ပရီးစ်တ်လီ
     ro: Joseph Priestley
     ru: Джозеф Пристли
@@ -242,15 +242,15 @@ dv_has_:
     sl: Joseph Priestley
     sq: Joseph Priestley
     sr: Џозеф Пристли
-    sr-ec: Џозеф Пристли
-    sr-el: Džozef Pristli
+    sr_ec: Џозеф Пристли
+    sr_el: Džozef Pristli
     sv: Joseph Priestley
     ta: சோசப்பு பிரீசிட்லி
     te: జోసెఫ్ ప్రీస్ట్లీ
     tl: Joseph Priestley
     tr: Joseph Priestley
     tt: Җозеф Пристли
-    tt-cyrl: Җозеф Пристли
+    tt_cyrl: Җозеф Пристли
     uk: Джозеф Прістлі
     ur: جوزف پریسٹلی
     vec: Joseph Priestley
@@ -261,12 +261,12 @@ dv_has_:
     xmf: ჟოზეფ პრისტლი
     yue: 普利斯特里
     zh: 约瑟夫·普利斯特里
-    zh-cn: 约瑟夫·普利斯特里
-    zh-hans: 约瑟夫·普利斯特里
-    zh-hant: 約瑟夫·普利斯特里
-    zh-hk: 約瑟夫·普利斯特里
-    zh-sg: 约瑟夫·普利斯特里
-    zh-tw: 約瑟夫·卜利士力
+    zh_cn: 约瑟夫·普利斯特里
+    zh_hans: 约瑟夫·普利斯特里
+    zh_hant: 約瑟夫·普利斯特里
+    zh_hk: 約瑟夫·普利斯特里
+    zh_sg: 约瑟夫·普利斯特里
+    zh_tw: 約瑟夫·卜利士力
   time_:
     started: 1733-03-24T00:00:00.000+00:53
     stopped: 1804-02-06T00:00:00.000+00:53

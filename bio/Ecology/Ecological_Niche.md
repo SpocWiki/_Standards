@@ -79,7 +79,7 @@ dv_has_:
     ar: نمط حياتي
     ast: nichu ecolóxicu
     be: экалагічная ніша
-    be-tarask: экалягічная ніша
+    be_tarask: экалягічная ніша
     bg: Екологична ниша
     bho: इकोलॉजिकल निच
     bs: ekološka niša
@@ -109,11 +109,11 @@ dv_has_:
     ja: ニッチ
     kab: Allun areygaman
     kk: Экологиялық қуыс
-    kk-arab: ەكولوگىييالىق قۋىس
+    kk_arab: ەكولوگىييالىق قۋىس
     kk-cn: ەكولوگىييالىق قۋىس
-    kk-cyrl: Экологиялық қуыс
+    kk_cyrl: Экологиялық қуыс
     kk-kz: Экологиялық қуыс
-    kk-latn: Ékologïyalıq qwıs
+    kk_latn: Ékologïyalıq qwıs
     kk-tr: Ékologïyalıq qwıs
     ko: 생태적 지위
     la: oecothesis
@@ -136,8 +136,8 @@ dv_has_:
     sk: ekologická nika
     sl: ekološka niša
     sr: еколошка ниша
-    sr-ec: еколошка ниша
-    sr-el: еkološka niša
+    sr_ec: еколошка ниша
+    sr_el: еkološka niša
     stq: Ökologiske Niske
     sv: ekologisk nisch
     ta: சூழலியல் முடுக்கு
@@ -149,12 +149,12 @@ dv_has_:
     wuu: 生态位
     yue: 生態位
     zh: 生态位
-    zh-cn: 生态位
-    zh-hans: 生态位
-    zh-hant: 生態位
-    zh-hk: 生態位
-    zh-sg: 生态位
-    zh-tw: 生態棲位
+    zh_cn: 生态位
+    zh_hans: 生态位
+    zh_hant: 生態位
+    zh_hk: 生態位
+    zh_sg: 生态位
+    zh_tw: 生態棲位
 ---
 # [[Ecological_Niche]] 
 

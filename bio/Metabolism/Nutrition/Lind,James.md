@@ -46,21 +46,21 @@ dv_has_:
     nn: James Lind
     pl: James Lind
     pt: James Lind
-    pt-br: James Lind
+    pt_br: James Lind
     ru: Джеймс Линд
     sh: James Lind
     sl: James Lind
     sq: A. James Lind
     sr: Džejms Lind
-    sr-ec: Џејмс Линд
-    sr-el: Džejms Lind
+    sr_ec: Џејмс Линд
+    sr_el: Džejms Lind
     sv: James Lind
     tl: James Lind
     uk: Джеймс Лінд
     zh: 詹姆斯·林德
-    zh-hans: 詹姆斯·林德
-    zh-hant: 詹姆斯·林德
-    zh-hk: 詹姆斯·林德
+    zh_hans: 詹姆斯·林德
+    zh_hant: 詹姆斯·林德
+    zh_hk: 詹姆斯·林德
 ---
 #has_/time_/started ::  1716-10-04 
 #has_/time_/started ::  1794-07-13 

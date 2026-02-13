@@ -77,10 +77,10 @@ dv_has_:
     vi: Nautiloidea
     war: Nautiloidea
     zh: 鹦鹉螺亚纲
-    zh-cn: 鹦鹉螺亚纲
-    zh-hans: 鹦鹉螺亚纲
-    zh-hant: 鸚鵡螺亞綱
-    zh-hk: 鸚鵡螺亞綱
+    zh_cn: 鹦鹉螺亚纲
+    zh_hans: 鹦鹉螺亚纲
+    zh_hant: 鸚鵡螺亞綱
+    zh_hk: 鸚鵡螺亞綱
 ---
 ## [[Nautiloidea]] 
 

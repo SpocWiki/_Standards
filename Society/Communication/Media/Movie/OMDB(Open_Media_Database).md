@@ -25,7 +25,7 @@ official_website: https://www.omdb.org/
 dv_has_:
   name_:
     ar: قاعدة بيانات الوسائط المفتوحة
-    be-tarask: Адкрытая база мэдыязьвестак
+    be_tarask: Адкрытая база мэдыязьвестак
     ca: Open Media Database
     da: Open Media Database
     de: Open Media Database
@@ -39,7 +39,7 @@ dv_has_:
     sl: Open Media Database
     sv: Open Media Database
     uk: Open Media Database
-    zh-hans: 开放媒体数据库
+    zh_hans: 开放媒体数据库
 ---
 # [[OMDB(Open_Media_Database)]] 
 

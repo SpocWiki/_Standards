@@ -154,7 +154,7 @@ dv_has_:
     ba: Ҡылыҡ
     bar: Vahoidn
     be: паводзіны
-    be-tarask: паводзіны
+    be_tarask: паводзіны
     bg: Поведение
     bn: আচরণ
     br: emzalc'h
@@ -170,8 +170,8 @@ dv_has_:
     de: Verhalten
     el: συμπεριφορά
     en: behavior
-    en-ca: behaviour
-    en-gb: behaviour
+    en_ca: behaviour
+    en_gb: behaviour
     en-us: behavior
     eo: konduto
     es: comportamiento
@@ -227,7 +227,7 @@ dv_has_:
     mn: Зан араншин
     mnw: အကာဲအရာ
     ms: tingkah laku
-    ms-arab: تيڠکه لاکو
+    ms_arab: تيڠکه لاکو
     my: အမူအကျင့်
     nan: Hêng-ûi
     nb: atferd
@@ -241,7 +241,7 @@ dv_has_:
     pms: Comportament
     pnb: سلوک
     pt: comportamento
-    pt-br: comportamento
+    pt_br: comportamento
     ro: comportament
     ru: поведение
     rue: Хованя ся
@@ -256,8 +256,8 @@ dv_has_:
     sl: vedenje
     sq: sjellje
     sr: понашање
-    sr-ec: понашање
-    sr-el: ponašanje
+    sr_ec: понашање
+    sr_el: ponašanje
     sv: beteende
     sw: Tabia
     szy: wayway
@@ -268,7 +268,7 @@ dv_has_:
     tl: Ugali
     tr: davranış
     tt: тотыш
-    tt-cyrl: тотыш
+    tt_cyrl: тотыш
     udm: астэ ачид возён
     uk: поведінка
     ur: سلوک
@@ -283,14 +283,14 @@ dv_has_:
     yue: 行為
     za: Hingzveiz
     zh: 行為
-    zh-cn: 行为
-    zh-hans: 行为
-    zh-hant: 行為
-    zh-hk: 行為
-    zh-mo: 行為
+    zh_cn: 行为
+    zh_hans: 行为
+    zh_hant: 行為
+    zh_hk: 行為
+    zh_mo: 行為
     zh-my: 行为
-    zh-sg: 行为
-    zh-tw: 行為
+    zh_sg: 行为
+    zh_tw: 行為
 ---
 # [[Behavior]] 
 

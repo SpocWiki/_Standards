@@ -50,7 +50,7 @@ dv_has_:
     af: Hereford
     ar: هيريفورد
     arz: هيريفورد
-    be-tarask: гэрэфардзкая карова
+    be_tarask: гэрэфардзкая карова
     ca: Hereford
     cs: Herefordský skot
     da: Herefordkvæg
@@ -74,9 +74,9 @@ dv_has_:
     ja: ヘレフォード種
     ka: ჰერიფორდული ჯიში
     kk: Герефорд сиыры
-    kk-arab: گەرەفورد سىيىرى
-    kk-cyrl: Герефорд сиыры
-    kk-latn: Gereford sïırı
+    kk_arab: گەرەفورد سىيىرى
+    kk_cyrl: Герефорд сиыры
+    kk_latn: Gereford sïırı
     ky: Герефорд Ую
     lt: Herefordai
     nb: Herefordkveg
@@ -96,9 +96,9 @@ dv_has_:
     wuu: 海福特牛
     yue: 禧福牛
     zh: 海福特牛
-    zh-hans: 海福特牛
-    zh-hant: 海福特牛
-    zh-hk: 海福特牛
+    zh_hans: 海福特牛
+    zh_hant: 海福特牛
+    zh_hk: 海福特牛
 ---
 # [[Hereford_Cattle]] 
 

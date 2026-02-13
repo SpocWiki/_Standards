@@ -52,7 +52,7 @@ dv_has_:
   name_:
     ar: مقدمة
     ast: Preludiu
-    be-tarask: прэлюдыя
+    be_tarask: прэлюдыя
     bg: Прелюд
     ca: preludi
     ckb: پرێلوود
@@ -84,7 +84,7 @@ dv_has_:
     nn: preludium
     pl: preludium
     pt: prelúdio
-    pt-br: prelúdio
+    pt_br: prelúdio
     ro: preludiu
     ru: прелюдия
     sk: Prelúdium
@@ -98,12 +98,12 @@ dv_has_:
     vi: Prelude
     yue: 前奏曲
     zh: 前奏曲
-    zh-cn: 前奏曲
-    zh-hans: 前奏曲
-    zh-hant: 前奏曲
-    zh-hk: 前奏曲
-    zh-sg: 前奏曲
-    zh-tw: 前奏曲
+    zh_cn: 前奏曲
+    zh_hans: 前奏曲
+    zh_hant: 前奏曲
+    zh_hk: 前奏曲
+    zh_sg: 前奏曲
+    zh_tw: 前奏曲
 ---
 # [[Prelude]] 
 

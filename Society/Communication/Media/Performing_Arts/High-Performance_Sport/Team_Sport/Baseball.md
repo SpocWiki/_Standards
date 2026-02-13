@@ -20,7 +20,7 @@ dv_has_:
     ban: Bisbol
     bar: Baseball
     be: бейсбол
-    be-tarask: бэйсбол
+    be_tarask: бэйсбол
     bew: Bola hong
     bg: Бейзбол
     bn: বেসবল
@@ -35,11 +35,11 @@ dv_has_:
     cy: pêl fas
     da: baseball
     de: Baseball
-    de-ch: Baseball
+    de_ch: Baseball
     el: Μπέιζμπολ
     en: baseball
-    en-ca: baseball
-    en-gb: baseball
+    en_ca: baseball
+    en_gb: baseball
     eo: basbalo
     es: béisbol
     et: pesapall
@@ -117,7 +117,7 @@ dv_has_:
     pms: Baseball
     pnb: بیس بال
     pt: basebol
-    pt-br: beisebol
+    pt_br: beisebol
     ro: Baseball
     ru: бейсбол
     rue: Бейсбал
@@ -132,7 +132,7 @@ dv_has_:
     smn: pesipállu
     sq: Bejsbolli
     sr: бејзбол
-    sr-ec: бејзбол
+    sr_ec: бејзбол
     sv: baseboll
     sw: Baseball
     szy: pangciw
@@ -145,7 +145,7 @@ dv_has_:
     tok: musi sike pi lipu tu tu
     tr: Beyzbol
     tt: бейсбол
-    tt-cyrl: бейсбол
+    tt_cyrl: бейсбол
     uk: бейсбол
     ur: بیس بال
     uz: Beysbol
@@ -158,10 +158,10 @@ dv_has_:
     yi: בעיסבאל
     yue: 棒球
     zh: 棒球
-    zh-cn: 棒球
-    zh-hant: 棒球
-    zh-hk: 棒球
-    zh-tw: 棒球
+    zh_cn: 棒球
+    zh_hant: 棒球
+    zh_hk: 棒球
+    zh_tw: 棒球
 aliases:
 - Ball-stèidhe
 - basbalo

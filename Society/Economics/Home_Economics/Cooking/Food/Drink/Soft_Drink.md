@@ -131,7 +131,7 @@ dv_has_:
     ba: йомшаҡ эсемлек
     bcl: Inomong pampalipot
     be: асвяжальны напой
-    be-tarask: асьвяжальны напой
+    be_tarask: асьвяжальны напой
     bho: कोल्ड ड्रिंक
     bjn: minuman hampul
     bn: কোমল পানীয়
@@ -142,11 +142,11 @@ dv_has_:
     cy: diod feddal
     da: sodavand
     de: Erfrischungsgetränk
-    de-ch: Erfrischungsgetränk
+    de_ch: Erfrischungsgetränk
     el: ανθρακούχο ποτό
     en: soft drink
-    en-ca: soft drink
-    en-gb: soft drink
+    en_ca: soft drink
+    en_gb: soft drink
     en-us: soft drink
     eo: refreŝigaĵo
     es: gaseosa
@@ -165,13 +165,13 @@ dv_has_:
     id: minuman ringan
     ik: imiġaaq
     ike-cans: ᐃᒥᒐᖅ
-    ike-latn: imigaq
+    ike_latn: imigaq
     is: gosdrykkur
     it: bibita
     iu: ᐃᒥᒐᖅ
     ja: ソフトドリンク
     jv: Ombènan alus
-    kk-arab: الكوگولسىز سۋسىندار
+    kk_arab: الكوگولسىز سۋسىندار
     kk-cn: الكوگولسىز سۋسىندار
     ko: 청량 음료
     ku: saremenî
@@ -195,7 +195,7 @@ dv_has_:
     oc: gasosa
     pap: refresco
     pt: refrigerante
-    pt-br: refrigerante
+    pt_br: refrigerante
     ro: băutură răcoritoare
     ru: освежающий напиток
     sa: सिद्धपेयम्
@@ -225,11 +225,11 @@ dv_has_:
     yue: 汽水
     zh: 軟性飲料
     zh-cn: 软性饮料
-    zh-hans: 软性饮料
-    zh-hant: 軟性飲料
-    zh-hk: 軟性飲料
-    zh-sg: 软性饮料
-    zh-tw: 軟性飲料
+    zh_hans: 软性饮料
+    zh_hant: 軟性飲料
+    zh_hk: 軟性飲料
+    zh_sg: 软性饮料
+    zh_tw: 軟性飲料
 ---
 # [[Soft_Drink]] 
 

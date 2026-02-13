@@ -74,18 +74,18 @@ dv_has_:
     az: Karst
     ba: Карст
     be: Карст
-    be-tarask: карст
+    be_tarask: карст
     bg: Карст
     ca: carst
     cs: kras
     cy: carst
     da: Karst
     de: Karst
-    de-ch: Pseudokarst
+    de_ch: Pseudokarst
     el: Καρστ
     en: karst
-    en-ca: Karst
-    en-gb: karst
+    en_ca: Karst
+    en_gb: karst
     eo: karsto
     es: karst
     et: karst
@@ -108,11 +108,11 @@ dv_has_:
     ka: კარსტი
     kaa: Karst
     kk: Карст
-    kk-arab: كارست
+    kk_arab: كارست
     kk-cn: كارست
-    kk-cyrl: Карст
+    kk_cyrl: Карст
     kk-kz: Карст
-    kk-latn: Karst
+    kk_latn: Karst
     kk-tr: Karst
     ko: 카르스트 지형
     kw: Tirfurv karst
@@ -138,8 +138,8 @@ dv_has_:
     smn: karsti
     so: Karst
     sr: крас
-    sr-ec: крас
-    sr-el: kras
+    sr_ec: крас
+    sr_el: kras
     sv: karst
     ta: சுண்ணாம்புக் கரடு
     th: คาสต์
@@ -153,12 +153,12 @@ dv_has_:
     wuu: 喀斯特地形
     yue: 岩溶地貌
     zh: 喀斯特地形
-    zh-cn: 喀斯特地形
-    zh-hans: 喀斯特地形
-    zh-hant: 喀斯特地形
-    zh-hk: 喀斯特地形
-    zh-sg: 喀斯特地形
-    zh-tw: 喀斯特地形
+    zh_cn: 喀斯特地形
+    zh_hans: 喀斯特地形
+    zh_hant: 喀斯特地形
+    zh_hk: 喀斯特地形
+    zh_sg: 喀斯特地形
+    zh_tw: 喀斯特地形
 ---
 # [[Karst]] 
 

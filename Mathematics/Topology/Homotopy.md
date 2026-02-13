@@ -38,15 +38,15 @@ dv_has_:
   name_:
     ar: تحاول
     ast: homotopía
-    be-tarask: гаматопія
+    be_tarask: гаматопія
     ca: homotopia
     cs: homotopie
     de: Homotopie
-    de-ch: Homotopie
+    de_ch: Homotopie
     el: ομοτοπία
     en: homotopy
-    en-ca: homotopy
-    en-gb: homotopy
+    en_ca: homotopy
+    en_gb: homotopy
     eo: homotopio
     es: homotopía
     et: homotoopia
@@ -67,7 +67,7 @@ dv_has_:
     nn: homotopi
     pl: homotopia
     pt: homotopia
-    pt-br: homotopia
+    pt_br: homotopia
     ro: omotopie
     ru: гомотопия
     se: homotopiija
@@ -85,8 +85,8 @@ dv_has_:
     wuu: 同伦
     yue: 同倫
     zh: 同倫
-    zh-hant: 同倫
-    zh-tw: 同倫
+    zh_hant: 同倫
+    zh_tw: 同倫
 ---
 # [[Homotopy]] 
 

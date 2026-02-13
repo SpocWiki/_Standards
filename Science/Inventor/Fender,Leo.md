@@ -52,7 +52,7 @@ dv_has_:
   name_:
     ar: ليو فيندر
     ast: Leo Fender
-    be-tarask: Лео Фэндэр
+    be_tarask: Лео Фэндэр
     bg: Лео Фендер
     br: Leo Fender
     ca: Leo Fender
@@ -85,7 +85,7 @@ dv_has_:
     nn: Leo Fender
     pl: Leo Fender
     pt: Leo Fender
-    pt-br: Leo Fender
+    pt_br: Leo Fender
     ru: Лео Фендер
     sh: Leo Fender
     sk: Clarence Leonidas Fender

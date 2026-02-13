@@ -93,7 +93,7 @@ dv_has_:
     ba: Уле-Эйнар Бьёрндален
     bar: Ole Einar Bjørndalen
     be: Уле-Эйнар Б'ёрндален
-    be-tarask: Уле Эйнар Б’ёрндален
+    be_tarask: Уле Эйнар Б’ёрндален
     bg: Оле Ейнар Бьорндален
     bs: Ole Einar Bjørndalen
     ca: Ole Einar Bjørndalen
@@ -102,11 +102,11 @@ dv_has_:
     cy: Ole Einar Bjørndalen
     da: Ole Einar Bjørndalen
     de: Ole Einar Bjørndalen
-    de-ch: Ole Einar Bjørndalen
+    de_ch: Ole Einar Bjørndalen
     dsb: Ole Einar Bjørndalen
     en: Ole Einar Bjørndalen
-    en-ca: Ole Einar Bjørndalen
-    en-gb: Ole Einar Bjørndalen
+    en_ca: Ole Einar Bjørndalen
+    en_gb: Ole Einar Bjørndalen
     eo: Ole Einar Bjørndalen
     es: Ole Einar Bjørndalen
     et: Ole Einar Bjørndalen
@@ -130,11 +130,11 @@ dv_has_:
     ja: オーレ・アイナル・ビョルンダーレン
     ka: ულე-ეინარ ბიორნდალენი
     kk: Уле-Эйнар Бьорндален
-    kk-arab: ۋلە-ەينار بورندالەن
+    kk_arab: ۋلە-ەينار بورندالەن
     kk-cn: ۋلە-ەينار بورندالەن
-    kk-cyrl: Уле-Эйнар Бьорндален
+    kk_cyrl: Уле-Эйнар Бьорндален
     kk-kz: Уле-Эйнар Бьорндален
-    kk-latn: Wle-Éýnar Bʹorndalen
+    kk_latn: Wle-Éýnar Bʹorndalen
     kk-tr: Wle-Éýnar Bʹorndalen
     ko: 올레 에이나르 비에른달렌
     ksh: Ole Einar Bjørndalen
@@ -154,7 +154,7 @@ dv_has_:
     mwl: Ole Einar Bjørndalen
     nb: Ole Einar Bjørndalen
     nds: Ole Einar Bjørndalen
-    nds-nl: Ole Einar Bjørndalen
+    nds_nl: Ole Einar Bjørndalen
     nl: Ole Einar Bjørndalen
     nn: Ole Einar Bjørndalen
     nrm: Ole Einar Bjørndalen
@@ -167,7 +167,7 @@ dv_has_:
     pl: Ole Einar Bjørndalen
     pms: Ole Einar Bjørndalen
     pt: Ole Einar Bjørndalen
-    pt-br: Ole Einar Bjørndalen
+    pt_br: Ole Einar Bjørndalen
     rm: Ole Einar Bjørndalen
     ro: Ole Einar Bjørndalen
     ru: Уле-Эйнар Бьерндален
@@ -178,8 +178,8 @@ dv_has_:
     sl: Ole Einar Bjørndalen
     sq: Ole Einar Bjørndalen
     sr: Оле Ејнар Бјерндален
-    sr-ec: Оле Ејнар Бјерндален
-    sr-el: Ole Ejnar Bjerndalen
+    sr_ec: Оле Ејнар Бјерндален
+    sr_el: Ole Ejnar Bjerndalen
     stq: Ole Einar Bjørndalen
     sv: Ole Einar Bjørndalen
     szl: Ole Einar Bjørndalen

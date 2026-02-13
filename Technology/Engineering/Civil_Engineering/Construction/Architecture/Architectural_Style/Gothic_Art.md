@@ -107,7 +107,7 @@ dv_has_:
     az: qotik
     bar: Gotik
     be: готыка
-    be-tarask: готыка
+    be_tarask: готыка
     bg: Готика
     bho: गोथिक कला
     bn: গথিক শিল্প
@@ -121,8 +121,8 @@ dv_has_:
     de: Gotik
     el: Γοτθική τέχνη
     en: Gothic art
-    en-ca: Gothic art
-    en-gb: Gothic art
+    en_ca: Gothic art
+    en_gb: Gothic art
     eo: gotika arto
     es: arte gótico
     et: Gooti stiil
@@ -163,7 +163,7 @@ dv_has_:
     mt: Gotiku
     nb: gotisk kunst
     nds: Gotik
-    nds-nl: gotiek
+    nds_nl: gotiek
     new: गथिक कला
     nl: gotiek
     nn: Gotisk kunst
@@ -175,7 +175,7 @@ dv_has_:
     pnb: گوتھک آرٹ
     ps: ګوتيک هنر
     pt: Estilo gótico
-    pt-br: Estilo gótico
+    pt_br: Estilo gótico
     ro: arta gotică
     ru: готика
     sco: Gothic airt
@@ -190,21 +190,21 @@ dv_has_:
     tg: Готика
     th: ศิลปะกอทิก
     tr: Gotik sanat
-    tt-cyrl: готика
+    tt_cyrl: готика
     uk: готика
     uz: Gotika
     vi: nghệ thuật Gothic
     wuu: 哥特式艺术
     yue: 哥德式
     zh: 哥特式艺术
-    zh-cn: 哥特式艺术
-    zh-hans: 哥特式艺术
-    zh-hant: 哥特式艺术
-    zh-hk: 哥特式艺术
-    zh-mo: 哥特式艺术
+    zh_cn: 哥特式艺术
+    zh_hans: 哥特式艺术
+    zh_hant: 哥特式艺术
+    zh_hk: 哥特式艺术
+    zh_mo: 哥特式艺术
     zh-my: 哥特式艺术
-    zh-sg: 哥特式艺术
-    zh-tw: 哥德式藝術
+    zh_sg: 哥特式艺术
+    zh_tw: 哥德式藝術
 ---
 # [[Gothic_Art]] 
 

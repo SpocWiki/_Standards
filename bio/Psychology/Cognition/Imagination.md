@@ -107,7 +107,7 @@ dv_has_:
     ar: مخيلة
     ast: Imaxinación
     az: Xəyal
-    be-tarask: выабражэньне
+    be_tarask: выабражэньне
     bg: Въображение
     bn: কল্পনা
     bs: Mašta
@@ -119,7 +119,7 @@ dv_has_:
     de: Imagination
     el: φαντασία
     en: imagination
-    en-ca: Imagination
+    en_ca: Imagination
     en-us: imagination
     eo: imago
     es: imaginación
@@ -162,7 +162,7 @@ dv_has_:
     pa: ਕਲਪਨਾ
     pl: wyobraźnia
     pt: imaginação
-    pt-br: imaginação
+    pt_br: imaginação
     ro: imaginație
     ru: воображение
     sd: تخيل
@@ -189,8 +189,8 @@ dv_has_:
     wuu: 想象
     yue: 想像
     zh: 想象
-    zh-hant: 想像
-    zh-hk: 想像
+    zh_hant: 想像
+    zh_hk: 想像
 ---
 # [[Imagination]] 
 

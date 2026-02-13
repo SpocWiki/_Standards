@@ -90,7 +90,7 @@ dv_has_:
     as: ভাৰতীয় দৰ্শন
     az: Hind fəlsəfəsi
     ba: Һинд фәлсәфәһе
-    be-tarask: Індыйская філязофія
+    be_tarask: Індыйская філязофія
     bg: Индийска философия
     bho: भारतीय दर्शन
     bn: ভারতীয় দর্শন
@@ -124,11 +124,11 @@ dv_has_:
     ka: ინდური ფილოსოფია
     kaa: Hindistan filosofiyası
     kk: Үнді пәлсапасы
-    kk-arab: ٴۇندى ٴپالساپاسى
+    kk_arab: ٴۇندى ٴپالساپاسى
     kk-cn: ٴۇندى ٴپالساپاسى
-    kk-cyrl: Үнді пәлсапасы
+    kk_cyrl: Үнді пәлсапасы
     kk-kz: Үнді пәлсапасы
-    kk-latn: Ündi pälsapası
+    kk_latn: Ündi pälsapası
     kk-tr: Ündi pälsapası
     kn: ಹಿಂದೂ ಸಿದ್ಧಾಂತ
     ko: 인도 철학
@@ -163,12 +163,12 @@ dv_has_:
     yue: 印度哲學
     zgh: ⵜⴰⴼⵍⵙⴰⴼⵜ ⵜⴰⵀⵉⵏⴷⵉⵜ
     zh: 印度哲学
-    zh-cn: 印度哲学
-    zh-hans: 印度哲学
-    zh-hant: 印度哲學
-    zh-hk: 印度哲學
-    zh-sg: 印度哲学
-    zh-tw: 印度哲學
+    zh_cn: 印度哲学
+    zh_hans: 印度哲学
+    zh_hant: 印度哲學
+    zh_hk: 印度哲學
+    zh_sg: 印度哲学
+    zh_tw: 印度哲學
 ---
 # [[Indian_Philosophy]] 
 

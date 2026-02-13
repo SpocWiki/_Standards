@@ -60,7 +60,7 @@ dv_has_:
     az: qabılgan
     ba: Әүермән
     be: пярэварацень
-    be-tarask: ваўкалак
+    be_tarask: ваўкалак
     ca: metamorfosi en la ficció
     cs: měňavec
     da: formskifter
@@ -97,10 +97,10 @@ dv_has_:
     tr: kabulgan
     uk: перевертень
     zh: 變身人
-    zh-hans: 变身人
-    zh-hant: 變身人
-    zh-hk: 變身人
-    zh-tw: 具變身能力者
+    zh_hans: 变身人
+    zh_hant: 變身人
+    zh_hk: 變身人
+    zh_tw: 具變身能力者
 ---
 # [[Shapeshifter]] 
 

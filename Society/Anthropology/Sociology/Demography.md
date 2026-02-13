@@ -108,7 +108,7 @@ dv_has_:
     ba: демография
     bcl: Demograpiya
     be: дэмаграфія
-    be-tarask: дэмаграфія
+    be_tarask: дэмаграфія
     bg: демография
     bn: জনসংখ্যাতত্ত্ব
     br: poblañsouriezh
@@ -172,7 +172,7 @@ dv_has_:
     ml: ജനസംഖ്യാപഠനം
     mr: जनगणनाशास्त्र
     ms: demografi
-    ms-arab: ديموݢرافي
+    ms_arab: ديموݢرافي
     myv: Демография
     nan: Jîn-kháu-ha̍k
     nb: demografi
@@ -186,7 +186,7 @@ dv_has_:
     pl: demografia
     ps: وګړشمېرنه
     pt: demografia
-    pt-br: demografia
+    pt_br: demografia
     qu: runayupay
     ro: demografie
     ru: демография
@@ -202,7 +202,7 @@ dv_has_:
     sms: narodtiõđ
     sq: demografi
     sr: демографија
-    sr-ec: Демографија
+    sr_ec: Демографија
     su: démografi
     sv: demografi
     sw: demografia
@@ -226,9 +226,9 @@ dv_has_:
     yue: 人口統計學
     zgh: ⵜⴰⵔⴰⵎⵣⴷⴰⵖⵜ
     zh: 人口学
-    zh-cn: 人口学
-    zh-hans: 人口学
-    zh-hant: 人口學
+    zh_cn: 人口学
+    zh_hans: 人口学
+    zh_hant: 人口學
 ---
 # [[Demography]] 
 

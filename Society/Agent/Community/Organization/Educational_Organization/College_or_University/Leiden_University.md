@@ -202,7 +202,7 @@ dv_has_:
     ba: Лейден университеты
     ban: Univérsitas Leiden
     be: Лейдэнскі ўніверсітэт
-    be-tarask: Лейдэнскі ўнівэрсытэт
+    be_tarask: Лейдэнскі ўнівэрсытэт
     bg: Лайденски университет
     bn: লাইডেন বিশ্ববিদ্যালয়
     ca: Universitat de Leiden
@@ -211,11 +211,11 @@ dv_has_:
     cy: Prifysgol Leiden
     da: Universiteit Leiden
     de: Universität Leiden
-    de-ch: Universität Leiden
+    de_ch: Universität Leiden
     el: Πανεπιστήμιο του Λέιντεν
     en: Leiden University
-    en-ca: Leiden University
-    en-gb: Leiden University
+    en_ca: Leiden University
+    en_gb: Leiden University
     eo: Universitato de Lejdeno
     es: Universidad de Leiden
     et: Leideni Ülikool
@@ -242,7 +242,7 @@ dv_has_:
     kab: Tasdawit n Leyde
     ko: 레이던 대학교
     ku: Zanîngeha Leidenê
-    ku-latn: Zanîngeha Leidenê
+    ku_latn: Zanîngeha Leidenê
     kw: Pennskol Leiden
     ky: Лейден университети
     la: Academia Lugduno-Batava
@@ -268,7 +268,7 @@ dv_has_:
     pl: Uniwersytet w Lejdzie
     pnb: لائڈن یونیورسٹی
     pt: Universidade de Leiden
-    pt-br: Universidade de Leiden
+    pt_br: Universidade de Leiden
     ro: Universitatea din Leiden
     ru: Лейденский университет
     sco: Leiden Varsity
@@ -298,12 +298,12 @@ dv_has_:
     yo: Leiden University
     yue: 萊頓大學
     zh: 萊頓大學
-    zh-cn: 莱顿大学
-    zh-hans: 莱顿大学
-    zh-hant: 萊頓大學
-    zh-hk: 萊頓大學
-    zh-sg: 莱顿大学
-    zh-tw: 萊登大學
+    zh_cn: 莱顿大学
+    zh_hans: 莱顿大学
+    zh_hant: 萊頓大學
+    zh_hk: 萊頓大學
+    zh_sg: 莱顿大学
+    zh_tw: 萊登大學
 ---
 # [[Leiden_University]] 
 

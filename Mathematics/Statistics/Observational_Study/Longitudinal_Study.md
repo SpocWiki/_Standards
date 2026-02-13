@@ -67,7 +67,7 @@ dv_has_:
     nn: Longitudinell studie
     pl: Strategia porównań podłużnych
     pt: estudo longitudinal
-    pt-br: estudo longitudinal
+    pt_br: estudo longitudinal
     ru: Лонгитюдное исследование
     sl: vzdolžna raziskava
     sv: longitudinell studie
@@ -75,10 +75,10 @@ dv_has_:
     uk: Лонгітюдне дослідження
     yue: 縱向研究
     zh: 縱向研究
-    zh-cn: 追踪研究
-    zh-hans: 追踪研究
-    zh-hant: 追蹤研究
-    zh-tw: 縱貫研究
+    zh_cn: 追踪研究
+    zh_hans: 追踪研究
+    zh_hant: 追蹤研究
+    zh_tw: 縱貫研究
 ---
 #is_/better_than :: [[Cross-sectional_Study]] 
 #is_/different_from :: [[../Experiment]]

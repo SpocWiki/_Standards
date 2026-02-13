@@ -653,7 +653,7 @@ dv_has_:
     ab: Канада
     ace: Kanada
     ady: Канадэ
-    aeb-arab: كندا
+    aeb_arab: كندا
     af: Kanada
     am: ካናዳ
     ami: Canada
@@ -678,7 +678,7 @@ dv_has_:
     bbc: Kanada
     bcl: Kanada
     be: Канада
-    be-tarask: Канада
+    be_tarask: Канада
     bew: Kanada
     bg: Канада
     bgn: کانادا
@@ -694,7 +694,7 @@ dv_has_:
     btm: Kanada
     bxr: Канада
     ca: Canadà
-    cbk-zam: Canada
+    cbk_zam: Canada
     cdo: Gă-nā-dâi
     ce: Канада
     ceb: Canada
@@ -705,7 +705,7 @@ dv_has_:
     co: Canadà
     cr: ᑳᓇᑕ
     crh: Kanada
-    crh-latn: Kanada
+    crh_latn: Kanada
     crh-ro: Kanada
     cs: Kanada
     csb: Kanada
@@ -716,7 +716,7 @@ dv_has_:
     dag: Canada
     de: Kanada
     de-at: Kanada
-    de-ch: Kanada
+    de_ch: Kanada
     diq: Kanada
     dsb: Kanada
     dtp: Kanada
@@ -753,7 +753,7 @@ dv_has_:
     gn: Kanatã
     gom: ಕೆನಡಾ
     gom-deva: कॅनडा
-    gom-latn: Canada
+    gom_latn: Canada
     gor: Kanada
     got: "\U0001033A\U00010330\U0001033D\U00010330\U00010333\U00010330"
     gpe: Canada
@@ -834,7 +834,7 @@ dv_has_:
     lzh: 加拿大
     mad: Kanada
     mai: क्यानाडा
-    map-bms: Kanada
+    map_bms: Kanada
     mdf: Канада
     mg: Kanada
     mhr: Канада
@@ -848,7 +848,7 @@ dv_has_:
     mr: कॅनडा
     mrj: Канада
     ms: Kanada
-    ms-arab: کانادا
+    ms_arab: کانادا
     mt: Kanada
     mwl: Canadá
     my: ကနေဒါနိုင်ငံ
@@ -860,7 +860,7 @@ dv_has_:
     nap: Canadà
     nb: Canada
     nds: Kanada
-    nds-nl: Kanneda
+    nds_nl: Kanneda
     ne: क्यानाडा
     new: क्यानाडा
     nl: Canada
@@ -891,7 +891,7 @@ dv_has_:
     pnt: Καναδάς
     ps: کاناډا
     pt: Canadá
-    pt-br: Canadá
+    pt_br: Canadá
     qu: Kanada
     rm: Canada
     rmy: Kanada
@@ -917,7 +917,7 @@ dv_has_:
     shi: Kanaḍa
     shn: မိူင်းၶႅၼ်ႇၼေႇတႃႇ
     shy: ⴽⴰⵏⴰⴷⴰ
-    shy-latn: Kanada
+    shy_latn: Kanada
     si: කැනඩාව
     sk: Kanada
     skr: کینیڈا
@@ -930,8 +930,8 @@ dv_has_:
     so: Kanada
     sq: Kanadaja
     sr: Канада
-    sr-ec: Канада
-    sr-el: Kanada
+    sr_ec: Канада
+    sr_el: Kanada
     srn: Kanadakondre
     ss: IKhanada
     st: Canada
@@ -947,7 +947,7 @@ dv_has_:
     te: కెనడా
     tet: Kanadá
     tg: Конодо
-    tg-cyrl: Канада
+    tg_cyrl: Канада
     th: ประเทศแคนาดา
     ti: ካናዳ
     tk: Kanada
@@ -960,7 +960,7 @@ dv_has_:
     trv: Canada
     ts: Canada
     tt: Канада
-    tt-cyrl: Канада
+    tt_cyrl: Канада
     tum: Canada
     tw: Kanada
     ty: Tanata
@@ -990,14 +990,14 @@ dv_has_:
     zea: Canada
     zgh: ⴽⴰⵏⴰⴷⴰ
     zh: 加拿大
-    zh-cn: 加拿大
-    zh-hans: 加拿大
-    zh-hant: 加拿大
-    zh-hk: 加拿大
-    zh-mo: 加拿大
+    zh_cn: 加拿大
+    zh_hans: 加拿大
+    zh_hant: 加拿大
+    zh_hk: 加拿大
+    zh_mo: 加拿大
     zh-my: 加拿大
-    zh-sg: 加拿大
-    zh-tw: 加拿大
+    zh_sg: 加拿大
+    zh_tw: 加拿大
     zu: IKhanada
   sound_of_:
     anthem: '[[../../../../_public/xLarge.public/National-Anthem/Anthem-Canada.mp3|Anthem-Canada.mp3]]'

@@ -63,7 +63,7 @@ dv_has_:
     arz: فلفليات
     ast: Piperales
     az: İstiotçiçəklilər
-    be-tarask: Перачнакветныя
+    be_tarask: Перачнакветныя
     bg: пипероцветни
     bs: Piperales
     ca: Piperals
@@ -107,7 +107,7 @@ dv_has_:
     oc: Piperales
     pl: pieprzowce
     pt: Piperales
-    pt-br: Piperales
+    pt_br: Piperales
     ro: Piperales
     ru: Перечноцветные
     sco: Piperales
@@ -127,7 +127,7 @@ dv_has_:
     war: Piperales
     yue: 胡椒目
     zh: 胡椒目
-    zh-cn: 胡椒目
+    zh_cn: 胡椒目
 ---
 # [[Piperales]] 
 

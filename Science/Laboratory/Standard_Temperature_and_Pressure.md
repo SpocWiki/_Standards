@@ -95,7 +95,7 @@ dv_has_:
     ast: Condiciones normales de presión y temperatura
     ba: стандарт шарттар
     be: Нармальныя ўмовы
-    be-tarask: нармальныя ўмовы
+    be_tarask: нармальныя ўмовы
     bg: Стандартни температура и налягане
     bn: আদর্শ তাপমাত্রা ও চাপ
     ca: condicions estàndard de pressió i temperatura
@@ -103,11 +103,11 @@ dv_has_:
     cy: Tymheredd a Gwasgedd Safonol
     da: Standardbetingelser
     de: Standardbedingungen
-    de-ch: Standardbedingungen
+    de_ch: Standardbedingungen
     el: Κανονικές συνθήκες
     en: standard temperature and pressure
-    en-ca: Standard conditions for temperature and pressure
-    en-gb: Standard conditions for temperature and pressure
+    en_ca: Standard conditions for temperature and pressure
+    en_gb: Standard conditions for temperature and pressure
     eo: normaj kondiĉoj
     es: condiciones normalizadas de presión y temperatura
     et: normaaltingimused
@@ -127,11 +127,11 @@ dv_has_:
     ja: 標準状態
     ka: ნორმალური და სტანდარტული პირობები
     kk: Қалыпты шарттар
-    kk-arab: قالىپتى شارتتار
+    kk_arab: قالىپتى شارتتار
     kk-cn: قالىپتى شارتتار
-    kk-cyrl: Қалыпты шарттар
+    kk_cyrl: Қалыпты шарттар
     kk-kz: Қалыпты шарттар
-    kk-latn: Qalıptı şarttar
+    kk_latn: Qalıptı şarttar
     kk-tr: Qalıptı şarttar
     ko: 표준 온도 압력
     ky: Стандарттуу шарттар
@@ -140,7 +140,7 @@ dv_has_:
     mk: стандардни услови
     mn: Стандарт температур ба даралт
     ms: suhu dan tekanan piawai
-    ms-arab: سوهو دان تکنن ڤياواي
+    ms_arab: سوهو دان تکنن ڤياواي
     nan: Piau-chún chōng-hóng
     nb: standard trykk og temperatur
     nds: Standardbedingen
@@ -149,7 +149,7 @@ dv_has_:
     oc: condicions normalas de temperatura e de pression
     pl: warunki standardowe
     pt: condições normais de temperatura e pressão
-    pt-br: Condições normais de temperatura e pressão
+    pt_br: Condições normais de temperatura e pressão
     ro: Condiții standard de temperatură și presiune
     ru: стандартные условия
     sco: staundart condeetions for temperatur an pressur
@@ -159,8 +159,8 @@ dv_has_:
     sl: standardni pogoji
     smn: normaalliegâsvuotâ já -teedâ
     sr: Нормални услови
-    sr-ec: Нормални услови
-    sr-el: Normalni uslovi
+    sr_ec: Нормални услови
+    sr_el: Normalni uslovi
     sv: standardtryck och -temperatur
     ta: திட்ட வெப்ப அழுத்தம்
     th: ภาวะมาตรฐาน
@@ -171,11 +171,11 @@ dv_has_:
     wuu: 标准状况
     yue: 標準狀況
     zh: 标准状况
-    zh-cn: 标准状况
-    zh-hant: 標準狀況
-    zh-hk: 標準狀況
-    zh-sg: 标准状况
-    zh-tw: 標準狀況
+    zh_cn: 标准状况
+    zh_hant: 標準狀況
+    zh_hk: 標準狀況
+    zh_sg: 标准状况
+    zh_tw: 標準狀況
 ---
 # [[Standard_Temperature_and_Pressure]] 
 

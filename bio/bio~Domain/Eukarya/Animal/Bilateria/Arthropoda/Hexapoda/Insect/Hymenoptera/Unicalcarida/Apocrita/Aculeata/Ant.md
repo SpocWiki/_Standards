@@ -278,7 +278,7 @@ dv_has_:
     bbc: Porhis
     bcl: Tanga
     be: мурашкі
-    be-tarask: мурашкі
+    be_tarask: мурашкі
     bg: мравки
     bgn: مور
     bjn: samut
@@ -301,7 +301,7 @@ dv_has_:
     da: Myre
     dag: Guluŋgua
     de: Ameisen
-    de-ch: Ameisen
+    de_ch: Ameisen
     dga: Nyiraa
     din: Acuk
     diq: Morcela
@@ -309,8 +309,8 @@ dv_has_:
     el: μυρμήγκια
     eml: Furmîga
     en: Formicidae
-    en-ca: Ant
-    en-gb: ant
+    en_ca: Ant
+    en_gb: ant
     eo: formiko
     es: hormiga
     et: Sipelglased
@@ -364,7 +364,7 @@ dv_has_:
     ks: رے
     ksh: Omöseck
     ku: morî
-    ku-latn: morî
+    ku_latn: morî
     kv: Кодзувкот
     kw: muryonen
     ky: Кумурскалар
@@ -379,7 +379,7 @@ dv_has_:
     lv: skudru dzimta
     lzh: 蟻
     mad: Bilis
-    map-bms: Semut
+    map_bms: Semut
     mcn: ti᷅lɛ᷅ltà
     mdf: панжам
     mg: Vitsika
@@ -399,7 +399,7 @@ dv_has_:
     nan: káu-hiā
     nb: maur
     nds: Miegeems
-    nds-nl: miegamp
+    nds_nl: miegamp
     ne: कमिला
     new: इमू
     nia: sikhö
@@ -418,7 +418,7 @@ dv_has_:
     pnb: کیڑی
     ps: مېږی
     pt: Formiga
-    pt-br: Formiga
+    pt_br: Formiga
     pwn: sasiq
     qu: Sisi
     rm: Furmiclas
@@ -479,10 +479,10 @@ dv_has_:
     yue: 蟻
     za: Moed
     zh: 蚁科
-    zh-cn: 蚁科
-    zh-hans: 蚁科
-    zh-hant: 螞蟻
-    zh-tw: 螞蟻
+    zh_cn: 蚁科
+    zh_hans: 蚁科
+    zh_hant: 螞蟻
+    zh_tw: 螞蟻
 ---
 # [[Ant]] 
 

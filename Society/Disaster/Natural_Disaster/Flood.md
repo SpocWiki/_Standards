@@ -252,7 +252,7 @@ dv_has_:
     bcl: Baha
     bdr: Liud
     be: паводка
-    be-tarask: паводка
+    be_tarask: паводка
     bg: наводнение
     bho: दाहार
     bjn: Baah
@@ -320,7 +320,7 @@ dv_has_:
     krc: суу къобуу
     ks: سٔہلاب
     ku: lehî
-    ku-latn: lehî
+    ku_latn: lehî
     kw: liv
     ky: Ташкын
     la: Inundatio
@@ -331,7 +331,7 @@ dv_has_:
     lzh: 水災
     mad: Bânjir
     mai: बाढ़ि
-    map-bms: Banjir
+    map_bms: Banjir
     mg: Tondra-drano
     min: Aia ampuah
     mk: поплава
@@ -339,7 +339,7 @@ dv_has_:
     mn: Үер
     mr: पूर
     ms: banjir
-    ms-arab: بنجير
+    ms_arab: بنجير
     my: ရေကြီးခြင်း
     mzn: لاهیز
     nan: Tōa-chúi
@@ -358,7 +358,7 @@ dv_has_:
     pnb: سلھاب
     ps: سيلاب
     pt: inundação
-    pt-br: inundação
+    pt_br: inundação
     qu: Nuyuy
     ro: inundație
     ru: наводнение
@@ -379,8 +379,8 @@ dv_has_:
     so: Daad
     sq: përmbytja
     sr: поплава
-    sr-ec: поплава
-    sr-el: poplava
+    sr_ec: поплава
+    sr_el: poplava
     su: Caah
     sv: översvämning
     sw: Mafuriko
@@ -409,8 +409,8 @@ dv_has_:
     yue: 洪水
     za: Raemxrongz
     zh: 洪灾
-    zh-hans: 洪灾
-    zh-hant: 洪災
+    zh_hans: 洪灾
+    zh_hant: 洪災
 ---
 # [[Flood]] 
 

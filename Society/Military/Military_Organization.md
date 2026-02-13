@@ -87,7 +87,7 @@ dv_has_:
     arz: وحدات عسكريه
     az: Hərbi təşkilat
     be: арганізацыя войскаў
-    be-tarask: вайсковая арганізацыйная структура
+    be_tarask: вайсковая арганізацыйная структура
     bg: военна организация
     bn: সামরিক সংগঠন
     br: urzhiadur milourel
@@ -98,8 +98,8 @@ dv_has_:
     de: Formation
     el: στρατιωτικός οργανισμός
     en: military organization
-    en-ca: military organization
-    en-gb: military organisation
+    en_ca: military organization
+    en_gb: military organisation
     eo: armea organizaĵo
     es: organización militar
     et: väeüksus
@@ -122,7 +122,7 @@ dv_has_:
     ko: 군사 조직
     ks: فوجی تنظیٖم
     ku: rêxistina leşkerî
-    ku-latn: rêxistina leşkerî
+    ku_latn: rêxistina leşkerî
     lt: karinė organizacija
     lv: militārā organizācija
     mk: воена организација
@@ -135,15 +135,15 @@ dv_has_:
     oc: organizacion militara
     pl: jednostka organizacyjna wojska
     pt: organização militar
-    pt-br: organização militar
+    pt_br: organização militar
     ro: unități de organizare militară
     ru: организация войск
     si: හමුදාමය සංවිධානය
     sl: vojaška organizacija
     sq: organizatë ushtarake
     sr: војна организација
-    sr-ec: војна организација
-    sr-el: vojna organizacija
+    sr_ec: војна организација
+    sr_el: vojna organizacija
     sv: militär organisation
     tg: созмони низомӣ
     th: หน่วยทางทหาร
@@ -154,14 +154,14 @@ dv_has_:
     vi: tổ chức quân đội
     wuu: 军事组织
     zh: 軍事組織
-    zh-cn: 军事组织
-    zh-hans: 军事组织
-    zh-hant: 軍事組織
-    zh-hk: 軍事組織
-    zh-mo: 軍事組織
+    zh_cn: 军事组织
+    zh_hans: 军事组织
+    zh_hant: 軍事組織
+    zh_hk: 軍事組織
+    zh_mo: 軍事組織
     zh-my: 军事组织
-    zh-sg: 军事组织
-    zh-tw: 軍事組織
+    zh_sg: 军事组织
+    zh_tw: 軍事組織
 ---
 # [[Military_Organization]] 
 

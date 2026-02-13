@@ -91,18 +91,18 @@ dv_has_:
     ast: rellación social
     az: sosial əlaqə
     be: сацыяльныя адносіны
-    be-tarask: сацыяльныя стасункі
+    be_tarask: сацыяльныя стасункі
     bg: Обществени отношения
     bn: সামাজিক সম্পর্ক
     ca: relació social
     cs: sociální vztah
     da: social relation
     de: soziale Beziehung
-    de-ch: soziale Beziehung
+    de_ch: soziale Beziehung
     el: κοινωνικές σχέσεις
     en: social relation
-    en-ca: social relation
-    en-gb: social relation
+    en_ca: social relation
+    en_gb: social relation
     eo: sociaj rilatoj
     es: relación social
     et: seltsielu
@@ -125,9 +125,9 @@ dv_has_:
     ja: 社会関係
     kaa: jámiyetlik múnásibetler
     kk: əлеуметтік қарым-қатыныстар
-    kk-arab: الەۋمەتتىك قارىم-قاتىنىستار
-    kk-cyrl: əлеуметтік қарым-қатыныстар
-    kk-latn: älewmettik qarım-qatınıstar
+    kk_arab: الەۋمەتتىك قارىم-قاتىنىستار
+    kk_cyrl: əлеуметтік қарым-қатыныстар
+    kk_latn: älewmettik qarım-qatınıstar
     ko: 사회 관계
     ky: коомдук мамилелер
     lb: sozial Bezéiung
@@ -136,14 +136,14 @@ dv_has_:
     mk: општествен однос
     mn: Нийгмийн харилцаа
     ms: hubungan sosial
-    ms-arab: هوبوڠن سوسيال
+    ms_arab: هوبوڠن سوسيال
     myv: велесядонь сюлмавомат
     nb: sosial relasjon
     ne: सामाजिक सम्बन्ध
     nl: sociale relatie
     pl: stosunek społeczny
     pt: relação social
-    pt-br: relação social
+    pt_br: relação social
     ro: relație socială
     ru: общественные отношения
     se: sosiála gaskavuohta
@@ -152,20 +152,20 @@ dv_has_:
     smn: sosiaallâš koskâvuotâ
     sms: sosiaalʼlaž kõskkvuõtt
     sr: друштвени однос
-    sr-ec: друштвени односи
-    sr-el: društveni odnosi
+    sr_ec: друштвени односи
+    sr_el: društveni odnosi
     sv: gemenskap
     th: ความสัมพันธ์ทางสังคม
     tr: sosyal ilişki
     tt: иҗтимагый мөнәсәбәтләр
-    tt-latn: iğtimagyj mönäsäbätlär
+    tt_latn: iğtimagyj mönäsäbätlär
     uk: соціальні стосунки
     uz: Ijtimoiy munosabatlar
     vi: quan hệ xã hội
     zh: 社会关系
-    zh-hans: 社会关系
-    zh-hant: 社會關係
-    zh-hk: 社會關係
+    zh_hans: 社会关系
+    zh_hant: 社會關係
+    zh_hk: 社會關係
 ---
 # [[Social_Relation]] 
 

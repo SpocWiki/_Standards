@@ -73,7 +73,7 @@ dv_has_:
     ast: Xeoide
     az: Geoid
     be: геоід
-    be-tarask: геоід
+    be_tarask: геоід
     bg: Геоид
     bho: ज्याॅइड
     bn: ভূগোলক
@@ -103,11 +103,11 @@ dv_has_:
     ka: გეოიდი
     kaa: Geoid
     kk: Геоид
-    kk-arab: گەوىيد
+    kk_arab: گەوىيد
     kk-cn: گەوىيد
-    kk-cyrl: Геоид
+    kk_cyrl: Геоид
     kk-kz: Геоид
-    kk-latn: Geoïd
+    kk_latn: Geoïd
     kk-tr: Geoïd
     ko: 지오이드
     ky: Геоид
@@ -132,8 +132,8 @@ dv_has_:
     sl: geoid
     sq: Gjeoidi
     sr: геоид
-    sr-ec: Геоид
-    sr-el: Geoid
+    sr_ec: Геоид
+    sr_el: Geoid
     sv: geoid
     ta: பூமிவடிவம்
     tg: Заминвора
@@ -145,12 +145,12 @@ dv_has_:
     wuu: 大地水准面
     yue: 大地水準面
     zh: 大地水准面
-    zh-cn: 大地水准面
-    zh-hans: 大地水准面
-    zh-hant: 大地水準面
-    zh-hk: 大地水準面
-    zh-sg: 大地水准面
-    zh-tw: 大地水準面
+    zh_cn: 大地水准面
+    zh_hans: 大地水准面
+    zh_hant: 大地水準面
+    zh_hk: 大地水準面
+    zh_sg: 大地水准面
+    zh_tw: 大地水準面
 ---
 # [[Geoid]] 
 

@@ -152,7 +152,7 @@ dv_has_:
     az: Kann kinofestivalı
     ba: Канн кинофестивале
     be: Канскі кінафестываль
-    be-tarask: Канскі кінафэстываль
+    be_tarask: Канскі кінафэстываль
     bg: Кан
     bho: कान फिलिम फेस्टिवल
     bn: কান চলচ্চিত্র উৎসব
@@ -221,7 +221,7 @@ dv_has_:
     pa: ਕਾਨ ਫ਼ਿਲਮ ਫੈਸਟੀਵਲ
     pl: Festiwal filmowy w Cannes
     pt: Festival de Cannes
-    pt-br: Festival de Cannes
+    pt_br: Festival de Cannes
     ro: Festivalul Internațional de Film de la Cannes
     ru: Каннский кинофестиваль
     scn: Fèstival Ntirnazziunali di Cannes
@@ -235,7 +235,7 @@ dv_has_:
     sms: Cannes jieʹllikarttfestivaal
     sq: Festivali i Filmit në Kanë
     sr: Кански филмски фестивал
-    sr-ec: Кански филмски фестивал
+    sr_ec: Кански филмски фестивал
     sv: Filmfestivalen i Cannes
     sw: Tamasha la Filamu la Cannes
     ta: கான் திரைப்பட விழா
@@ -255,14 +255,14 @@ dv_has_:
     yi: קאן פילם-פעסטיוואל
     yue: 康城影展
     zh: 戛纳电影节
-    zh-cn: 戛纳电影节
-    zh-hans: 戛纳电影节
-    zh-hant: 坎城影展
-    zh-hk: 康城影展
-    zh-mo: 康城影展
+    zh_cn: 戛纳电影节
+    zh_hans: 戛纳电影节
+    zh_hant: 坎城影展
+    zh_hk: 康城影展
+    zh_mo: 康城影展
     zh-my: 康城影展
-    zh-sg: 康城影展
-    zh-tw: 坎城影展
+    zh_sg: 康城影展
+    zh_tw: 坎城影展
 ---
 # [[Cannes_Film_Festival]] 
 

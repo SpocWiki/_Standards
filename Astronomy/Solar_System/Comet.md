@@ -187,7 +187,7 @@ dv_has_:
     bar: Komet
     bcl: kometa
     be: камета
-    be-tarask: камэта
+    be_tarask: камэта
     bew: Bintang sapu
     bg: комета
     bho: पुच्छल तारा
@@ -215,8 +215,8 @@ dv_has_:
     el: κομήτης
     eml: cuméta
     en: comet
-    en-ca: comet
-    en-gb: comet
+    en_ca: comet
+    en_gb: comet
     eo: kometo
     es: cometa
     et: komeet
@@ -315,7 +315,7 @@ dv_has_:
     pnb: دم دار ستارہ
     ps: لکۍ لرونکی ستوری
     pt: cometa
-    pt-br: cometa
+    pt_br: cometa
     qu: aquchinchay
     rki: ကြယ်တံခွန်
     ro: cometă
@@ -338,8 +338,8 @@ dv_has_:
     sms: komeʹtt
     sq: kometa
     sr: комета
-    sr-ec: комета
-    sr-el: kometa
+    sr_ec: комета
+    sr_el: kometa
     stq: Komete
     su: komét
     sv: komet
@@ -369,14 +369,14 @@ dv_has_:
     yue: 彗星
     za: ndaundeiqsauqbaet
     zh: 彗星
-    zh-cn: 彗星
-    zh-hans: 彗星
-    zh-hant: 彗星
-    zh-hk: 彗星
-    zh-mo: 彗星
+    zh_cn: 彗星
+    zh_hans: 彗星
+    zh_hant: 彗星
+    zh_hk: 彗星
+    zh_mo: 彗星
     zh-my: 彗星
-    zh-sg: 彗星
-    zh-tw: 彗星
+    zh_sg: 彗星
+    zh_tw: 彗星
     zu: ubhaqanyezi
 ---
 # [[Comet]] 

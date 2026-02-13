@@ -33,7 +33,7 @@ dv_has_:
     oc: Vaejovidae
     pl: Vaejovidae
     pt: Vaejovidae
-    pt-br: Vaejovidae
+    pt_br: Vaejovidae
     ro: Vaejovidae
     ru: Vaejovidae
     sq: Vaejovidae
@@ -43,9 +43,9 @@ dv_has_:
     vo: Vaejovidae
     war: Vaejovidae
     zh: 狱神蝎科
-    zh-cn: 狱神蝎科
-    zh-hans: 狱神蝎科
-    zh-tw: 獄神蠍科
+    zh_cn: 狱神蝎科
+    zh_hans: 狱神蝎科
+    zh_tw: 獄神蠍科
 ---
 # [[Vaejovidae]] 
 

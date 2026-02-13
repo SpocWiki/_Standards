@@ -167,7 +167,7 @@ Commons_compatible_image_available_at_URL:
 - https://inaturalist-open-data.s3.amazonaws.com/photos/5132987/original.jpeg
 dv_has_:
   name_:
-    aeb-arab: كلافس
+    aeb_arab: كلافس
     af: Seldery
     am: ሰለሪ
     ar: كرفس
@@ -178,7 +178,7 @@ dv_has_:
     ba: Сельдерей
     ban: seladri
     be: сельдэрэй пахучы
-    be-tarask: сялера звычайная
+    be_tarask: сялера звычайная
     bg: обикновена целина
     bjn: Daun sop
     bn: পাথুনি শাক
@@ -240,7 +240,7 @@ dv_has_:
     my: တရုတ်နံနံပင်
     nap: Accio
     nb: selleri
-    nds-nl: selderie
+    nds_nl: selderie
     nl: selderij
     nn: hageselleri
     nv: Hazaʼaleehtsoh
@@ -252,7 +252,7 @@ dv_has_:
     pl: selery zwyczajne
     pnb: اجمود
     pt: Aipo
-    pt-br: salsão
+    pt_br: salsão
     qu: Apiyu
     ro: Țelină
     ru: сельдерей
@@ -271,7 +271,7 @@ dv_has_:
     sms: seller
     sq: Selinoja
     sr: целер
-    sr-ec: целер
+    sr_ec: целер
     su: Salédri
     sv: selleri
     ta: சிவரிக்கீரை
@@ -295,10 +295,10 @@ dv_has_:
     yue: 西芹
     za: ginzcaiq
     zh: 旱芹
-    zh-cn: 旱芹
-    zh-hans: 旱芹
-    zh-hant: 旱芹
-    zh-tw: 旱芹
+    zh_cn: 旱芹
+    zh_hans: 旱芹
+    zh_hant: 旱芹
+    zh_tw: 旱芹
 ---
 # [[Celery]] 
 

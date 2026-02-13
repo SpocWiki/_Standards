@@ -49,7 +49,7 @@ dv_has_:
     oc: Arales
     pl: Obrazkowce
     pt: Arales
-    pt-br: Arales
+    pt_br: Arales
     ro: Arales
     ru: Arales
     sl: Arales

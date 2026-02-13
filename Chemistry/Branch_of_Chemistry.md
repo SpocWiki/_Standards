@@ -86,7 +86,7 @@ dv_has_:
   name_:
     ar: فروع الكيمياء
     be: раздзел хіміі
-    be-tarask: разьдзел хіміі
+    be_tarask: разьдзел хіміі
     bn: রসায়নের শাখা
     br: skourr ar gimiezh
     ca: branca de la química
@@ -113,20 +113,20 @@ dv_has_:
     kn: ರಸಾಯನಶಾಸ್ತ್ರದ ಶಾಖೆ
     ko: 화학 분야
     ku: beşa kîmyayê
-    ku-latn: beşa kîmyayê
+    ku_latn: beşa kîmyayê
     kw: skorren kymygieth
     lb: Deelgebitt vun der Chimie
     lv: ķīmijas nozare
     mk: гранка на хемијата
     ms: cabang kimia
-    ms-arab: چابڠ کيميا
+    ms_arab: چابڠ کيميا
     nb: gren av kjemien
     nl: tak van de chemie
     nn: grein av kjemien
     os: химийы къабаз
     pl: nauki chemiczne
     pt: ramo da química
-    pt-br: ramo da química
+    pt_br: ramo da química
     ru: раздел химии
     se: kemiija suorgi
     sl: področje kemije
@@ -141,9 +141,9 @@ dv_has_:
     vec: branca de ła chìmega
     xmf: ქიმიაშ გჷმნართი
     zh: 化学分支领域
-    zh-cn: 化学分支领域
-    zh-hant: 化學分支領域
-    zh-tw: 化學分支領域
+    zh_cn: 化学分支领域
+    zh_hant: 化學分支領域
+    zh_tw: 化學分支領域
 ---
 # [[Branch_of_Chemistry]] 
 

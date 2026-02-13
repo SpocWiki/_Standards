@@ -234,7 +234,7 @@ USDA_NDB_number: 11303
 water_footprint: 1979
 dv_has_:
   name_:
-    aeb-arab: جلبانة
+    aeb_arab: جلبانة
     af: ertjie
     am: ኣተር
     an: Pisum sativum
@@ -244,7 +244,7 @@ dv_has_:
     az: Əkin noxudu
     azb: اکین نوخودو
     be: гарох пасяўны
-    be-tarask: гарох пасяўны
+    be_tarask: гарох пасяўны
     bg: обикновен грах
     bho: केराइ
     bn: মটরশুঁটি
@@ -267,8 +267,8 @@ dv_has_:
     el: αρακάς
     eml: Révioòt
     en: Pisum sativum
-    en-ca: Pea
-    en-gb: pea
+    en_ca: Pea
+    en_gb: pea
     eo: ĝardena pizo
     es: guisante
     et: põldhernes
@@ -332,7 +332,7 @@ dv_has_:
     myv: Видема кснав
     nap: Pesiello
     nb: ert
-    nds-nl: atepoele
+    nds_nl: atepoele
     ne: केराउ
     nl: erwt
     nn: erter
@@ -344,7 +344,7 @@ dv_has_:
     pl: groch zwyczajny
     pnb: مٹر
     pt: Ervilha
-    pt-br: Ervilha
+    pt_br: Ervilha
     qu: Allwirha
     ro: Mazăre
     roa-tara: piselle
@@ -377,7 +377,7 @@ dv_has_:
     to: Pī
     tr: bezelye
     tt: Чәчү борчагы
-    tt-cyrl: борчак
+    tt_cyrl: борчак
     uk: горох посівний
     ur: مٹر
     uz: Koʻknoʻxat
@@ -392,9 +392,9 @@ dv_has_:
     za: Duhlanhdouq
     zea: Erten
     zh: 豌豆
-    zh-cn: 豌豆
-    zh-hans: 豌豆
-    zh-tw: 豌豆
+    zh_cn: 豌豆
+    zh_hans: 豌豆
+    zh_tw: 豌豆
 ---
 # [[Pea]] 🫛 
 

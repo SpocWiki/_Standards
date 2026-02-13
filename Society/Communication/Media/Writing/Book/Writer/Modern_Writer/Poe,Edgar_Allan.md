@@ -189,7 +189,7 @@ dv_has_:
     azb: ادقار آلن پو
     ba: Эдгар По
     be: Эдгар Алан По
-    be-tarask: Эдгар Алан По
+    be_tarask: Эдгар Алан По
     bg: Едгар Алън По
     bho: एडगर एलन पो
     bn: এডগার অ্যালান পো
@@ -205,13 +205,13 @@ dv_has_:
     da: Edgar Allan Poe
     dag: Edgar Allan Poe
     de: Edgar Allan Poe
-    de-ch: Edgar Allan Poe
+    de_ch: Edgar Allan Poe
     diq: Edgar Allan Poe
     el: Έντγκαρ Άλλαν Πόε
     eml: Edgar Allan Poe
     en: Edgar Allan Poe
-    en-ca: Edgar Allan Poe
-    en-gb: Edgar Allan Poe
+    en_ca: Edgar Allan Poe
+    en_gb: Edgar Allan Poe
     eo: Edgar Allan Poe
     es: Edgar Allan Poe
     et: Edgar Allan Poe
@@ -276,7 +276,7 @@ dv_has_:
     nap: Edgar Allan Poe
     nb: Edgar Allan Poe
     nds: Edgar Allan Poe
-    nds-nl: Edgar Allan Poe
+    nds_nl: Edgar Allan Poe
     ne: एड्गार एलेन पो
     new: एड्गार एलेन पोए
     nl: Edgar Allan Poe
@@ -295,7 +295,7 @@ dv_has_:
     pnb: ایڈگر ایلن پو
     ps: ادګار آلن پو
     pt: Edgar Allan Poe
-    pt-br: Edgar Allan Poe
+    pt_br: Edgar Allan Poe
     qu: Edgar Allan Poe
     ro: Edgar Allan Poe
     ru: Эдгар По
@@ -334,7 +334,7 @@ dv_has_:
     yue: 愛倫坡
     zgh: ⵉⴷⴳⴰⵔ ⴰⵍⴰⵏ ⴱⵓⵡ
     zh: 爱伦·坡
-    zh-hant: 愛倫·坡
+    zh_hant: 愛倫·坡
 ---
 # [[Poe,Edgar_Allan]] 
 

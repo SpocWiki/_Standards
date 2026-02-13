@@ -53,7 +53,7 @@ dv_has_:
     as: দলিত
     az: Dalit
     be: Даліты
-    be-tarask: даліты
+    be_tarask: даліты
     bg: Далит
     bho: दलित
     bn: দলিত
@@ -118,12 +118,12 @@ dv_has_:
     wuu: 贱民 (印度)
     yue: 印度賤民
     zh: 贱民
-    zh-cn: 贱民
-    zh-hans: 贱民
-    zh-hant: 賤民
-    zh-hk: 賤民
-    zh-sg: 贱民
-    zh-tw: 賤民
+    zh_cn: 贱民
+    zh_hans: 贱民
+    zh_hant: 賤民
+    zh_hk: 賤民
+    zh_sg: 贱民
+    zh_tw: 賤民
 ---
 # [[Dalit]] 
 

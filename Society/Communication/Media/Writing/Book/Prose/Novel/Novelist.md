@@ -12,7 +12,7 @@ dv_has_:
     ast: novelista
     az: romançı
     be: раманіст
-    be-tarask: навэліст
+    be_tarask: навэліст
     bg: романист
     bn: ঔপন্যাসিক
     br: romanter
@@ -20,7 +20,7 @@ dv_has_:
     ca: novel·lista
     ckb: ڕۆماننووس
     crh: roman yazıcı
-    crh-latn: roman yazıcı
+    crh_latn: roman yazıcı
     cs: romanopisec
     cy: nofelydd
     da: romanforfatter
@@ -77,7 +77,7 @@ dv_has_:
     ml: എഴുത്തുകാരൻ
     mr: कादंबरीकार
     ms: penulis novel
-    ms-arab: ڤنوليس نوۏل
+    ms_arab: ڤنوليس نوۏل
     mt: rumanzier
     nan: Sió-soat-ka
     nb: romanforfatter
@@ -103,8 +103,8 @@ dv_has_:
     sms: romaanǩeeʹrjteei
     sq: romancier
     sr: романописац
-    sr-ec: романописац
-    sr-el: romanopisac
+    sr_ec: романописац
+    sr_el: romanopisac
     sv: romanförfattare
     ta: புதின எழுத்தாளர்
     te: నవలాకారుడు
@@ -122,11 +122,11 @@ dv_has_:
     wa: Romantî
     yue: 小說家
     zh: 小说家
-    zh-cn: 小说家
-    zh-hans: 小说家
-    zh-hant: 小說家
-    zh-hk: 小說家
-    zh-tw: 小說家
+    zh_cn: 小说家
+    zh_hans: 小说家
+    zh_hant: 小說家
+    zh_hk: 小說家
+    zh_tw: 小說家
 aliases:
 - aneggal
 - banaa sɔna

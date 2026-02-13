@@ -40,7 +40,7 @@ dv_has_:
     oc: Sphaerotheriida
     pl: Sphaerotheriida
     pt: Sphaerotheriida
-    pt-br: Sphaerotheriida
+    pt_br: Sphaerotheriida
     ro: Sphaerotheriida
     ru: Sphaerotheriida
     sq: Sphaerotheriida
@@ -50,9 +50,9 @@ dv_has_:
     vo: Sphaerotheriida
     war: Sphaerotheriida
     zh: 蟠马陆目
-    zh-cn: 蟠马陆目
-    zh-hans: 蟠马陆目
-    zh-tw: 蟠馬陸目
+    zh_cn: 蟠马陆目
+    zh_hans: 蟠马陆目
+    zh_tw: 蟠馬陸目
 ---
 # [[Sphaerotheriida]] 
 

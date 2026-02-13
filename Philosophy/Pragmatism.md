@@ -107,7 +107,7 @@ dv_has_:
     az: praqmatizm
     azb: پراقماتیزم
     be: прагматызм
-    be-tarask: прагматызм
+    be_tarask: прагматызм
     bg: прагматизъм
     bn: দরকারবাদ
     bs: pragmatizam
@@ -143,11 +143,11 @@ dv_has_:
     jv: pragmatik
     ka: პრაგმატიზმი
     kk: прагматизм
-    kk-arab: پراگماتىيزم
+    kk_arab: پراگماتىيزم
     kk-cn: پراگماتىيزم
-    kk-cyrl: прагматизм
+    kk_cyrl: прагматизм
     kk-kz: прагматизм
-    kk-latn: pragmatïzm
+    kk_latn: pragmatïzm
     kk-tr: pragmatïzm
     kn: ವಾಸ್ತವಿಕವಾದ
     ko: 실용주의
@@ -183,8 +183,8 @@ dv_has_:
     sms: pragmatismm
     sq: pragmatizmi
     sr: прагматизам
-    sr-ec: прагматизам
-    sr-el: pragmatizam
+    sr_ec: прагматизам
+    sr_el: pragmatizam
     sv: pragmatism
     ta: நடைமுறைவாதம்
     te: వ్యావహారికసత్తావాదం
@@ -201,12 +201,12 @@ dv_has_:
     xmf: პრაგმატიზმი
     yue: 實用主義
     zh: 实用主义
-    zh-cn: 实用主义
+    zh_cn: 实用主义
     zh-hans: 实用主义
-    zh-hant: 實用主義
-    zh-hk: 實用主義
-    zh-sg: 实用主义
-    zh-tw: 實用主義
+    zh_hant: 實用主義
+    zh_hk: 實用主義
+    zh_sg: 实用主义
+    zh_tw: 實用主義
 ---
 # [[Pragmatism]] 
 

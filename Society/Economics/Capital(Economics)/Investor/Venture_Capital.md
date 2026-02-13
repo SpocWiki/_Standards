@@ -61,7 +61,7 @@ dv_has_:
     az: vençur kapitalı
     ba: венчурлы капитал
     be: пачатковыя ўкладанні
-    be-tarask: пачатковыя ўкладаньні
+    be_tarask: пачатковыя ўкладаньні
     bg: Рисков капитал
     bn: ভেঞ্ছের ক্যাপিটাল
     bs: rizični kapital
@@ -110,12 +110,12 @@ dv_has_:
     vi: đầu tư mạo hiểm
     yue: 冒險資本
     zh: 风险投资
-    zh-cn: 风险投资
-    zh-hans: 风险投资
-    zh-hant: 創業投資
-    zh-hk: 創業投資
-    zh-sg: 风险投资
-    zh-tw: 創業投資
+    zh_cn: 风险投资
+    zh_hans: 风险投资
+    zh_hant: 創業投資
+    zh_hk: 創業投資
+    zh_sg: 风险投资
+    zh_tw: 創業投資
 ---
 One Problem of EarlyBird Venture Capital Investors is the asymmetric Cost Matrix, i.e. 
 - it is much more 'expensive' to overlook an Opportunity 

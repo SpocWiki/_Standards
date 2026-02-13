@@ -210,7 +210,7 @@ dv_has_:
     ban: Enrico Fermi
     bcl: Enrico Fermi
     be: Энрыка Фермі
-    be-tarask: Энрыка Фэрмі
+    be_tarask: Энрыка Фэрмі
     bg: Енрико Ферми
     bn: এনরিকো ফের্মি
     br: Enrico Fermi
@@ -228,12 +228,12 @@ dv_has_:
     da: Enrico Fermi
     dag: Enrico Fermi
     de: Enrico Fermi
-    de-ch: Enrico Fermi
+    de_ch: Enrico Fermi
     diq: Enrico Fermi
     el: Ενρίκο Φέρμι
     en: Enrico Fermi
-    en-ca: Enrico Fermi
-    en-gb: Enrico Fermi
+    en_ca: Enrico Fermi
+    en_gb: Enrico Fermi
     en-us: Enrico Fermi
     eo: Enrico Fermi
     es: Enrico Fermi
@@ -267,7 +267,7 @@ dv_has_:
     jv: Enrico Fermi
     ka: ენრიკო ფერმი
     kk: Энрико Ферми
-    kk-cyrl: Энрико Ферми
+    kk_cyrl: Энрико Ферми
     km: អង់រីកូ ហ្វែរមី
     kn: ಎನ್ರಿಕೊ ಫರ್ಮಿ
     ko: 엔리코 페르미
@@ -352,8 +352,8 @@ dv_has_:
     yo: Enrico Fermi
     yue: 費米
     zh: 恩里科·费米
-    zh-hant: 恩里科·費米
-    zh-hk: 恩利高·費米
+    zh_hant: 恩里科·費米
+    zh_hk: 恩利高·費米
 ---
 # [[Fermi,Enrico]] 
 

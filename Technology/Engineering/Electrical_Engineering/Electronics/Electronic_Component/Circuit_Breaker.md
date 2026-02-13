@@ -84,14 +84,14 @@ dv_has_:
     ast: Disyuntor
     az: Avtomat açar
     be: аўтаматычны перамыкач
-    be-tarask: аўтаматычны выключальнік
+    be_tarask: аўтаматычны выключальнік
     bg: Електрически прекъсвач
     ca: tallacircuit
     cs: elektrický jistič
     de: Leitungsschutzschalter
     en: circuit breaker
-    en-ca: circuit breaker
-    en-gb: circuit breaker
+    en_ca: circuit breaker
+    en_gb: circuit breaker
     eo: cirkvitrompilo
     es: Disyuntor
     et: Automaatkaitselüliti
@@ -114,14 +114,14 @@ dv_has_:
     pl: Wyłącznik instalacyjny
     pms: Interutor automàtich
     pt: disjuntor
-    pt-br: disjuntor
+    pt_br: disjuntor
     ro: întrerupător automat
     ru: автоматический выключатель
     sk: Istič
     sl: odklopnik tokokroga
     sr: Аутоматски прекидач
-    sr-ec: Аутоматски прекидач
-    sr-el: automatski prekidač
+    sr_ec: Аутоматски прекидач
+    sr_el: automatski prekidač
     sv: dvärgbrytare
     szl: Szteker
     ta: சுற்றமைப்புப் பிரிகலன்
@@ -131,12 +131,12 @@ dv_has_:
     vi: cầu dao
     yue: 水氣掣
     zh: 斷路器
-    zh-cn: 断路器
-    zh-hans: 断路器
-    zh-hant: 斷路器
-    zh-hk: 斷路器
-    zh-sg: 断路器
-    zh-tw: 斷路器
+    zh_cn: 断路器
+    zh_hans: 断路器
+    zh_hant: 斷路器
+    zh_hk: 斷路器
+    zh_sg: 断路器
+    zh_tw: 斷路器
 ---
 # [[Circuit_Breaker]] 
 

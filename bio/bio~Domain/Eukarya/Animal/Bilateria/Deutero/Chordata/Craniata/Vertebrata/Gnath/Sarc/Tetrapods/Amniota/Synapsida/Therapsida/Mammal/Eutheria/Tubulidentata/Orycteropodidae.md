@@ -55,7 +55,7 @@ dv_has_:
     arz: انبوبيات الاسنان
     ast: Orycteropodidae
     avk: sperdoleem
-    be-tarask: трубказубавыя
+    be_tarask: трубказубавыя
     bg: тръбозъбови
     br: Tubulidentata
     ca: Tubulidentat
@@ -64,8 +64,8 @@ dv_has_:
     de: Orycteropodidae
     el: Ορυκτεροποδίδες
     en: Orycteropodidae
-    en-ca: Orycteropodidae
-    en-gb: Orycteropodidae
+    en_ca: Orycteropodidae
+    en_gb: Orycteropodidae
     eo: Tubetodentuloj
     es: oricteropódidos
     eu: Orycteropodidae
@@ -85,9 +85,9 @@ dv_has_:
     ja: ツチブタ目
     ka: მილკბილები
     kk: Түтіктістілер
-    kk-arab: تۇتىكتىستىلەر
-    kk-cyrl: Түтіктістілер
-    kk-latn: Tütiktistiler
+    kk_arab: تۇتىكتىستىلەر
+    kk_cyrl: Түтіктістілер
+    kk_latn: Tütiktistiler
     ko: 관치목
     la: Orycteropodidae
     lv: Cauruļzobji
@@ -100,7 +100,7 @@ dv_has_:
     oc: Tubulidentata
     pl: mrównikowate
     pt: Orycteropodidae
-    pt-br: Orycteropodidae
+    pt_br: Orycteropodidae
     ro: Orycteropodidae
     ru: трубкозубовые
     sah: Түтүк тиистээхтэр
@@ -117,9 +117,9 @@ dv_has_:
     war: Orycteropodidae
     yue: 土豚科
     zh: 土豚科
-    zh-cn: 土豚科
-    zh-hans: 土豚科
-    zh-tw: 土豚科
+    zh_cn: 土豚科
+    zh_hans: 土豚科
+    zh_tw: 土豚科
 ---
 # [[Orycteropodidae]] 
 

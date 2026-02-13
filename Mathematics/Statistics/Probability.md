@@ -207,13 +207,13 @@ dv_has_:
     ba: Ихтималлыҡ
     bar: Woarscheinlichkeit
     be: імавернасць
-    be-tarask: імавернасьць
+    be_tarask: імавернасьць
     bg: Вероятност
     bn: সম্ভাবনা
     bs: Vjerovatnoća
     bxr: Магадлал
     ca: probabilitat
-    cbk-zam: Probabilidad
+    cbk_zam: Probabilidad
     ce: Хила тардалар
     ckb: ئەگەر
     crh: İhtimal
@@ -224,8 +224,8 @@ dv_has_:
     de: Wahrscheinlichkeit
     el: πιθανότητα
     en: probability
-    en-ca: Probability
-    en-gb: probability
+    en_ca: Probability
+    en_gb: probability
     eo: probablo
     es: probabilidad
     et: tõenäosus
@@ -271,7 +271,7 @@ dv_has_:
     ml: സംഭാവ്യത
     mn: Магадлалын онол
     ms: kebarangkalian
-    ms-arab: کبارڠکالين
+    ms_arab: کبارڠکالين
     mt: Probabbiltà
     my: ဖြစ်နိုင်ခြေ
     nan: Ki-lu̍t
@@ -288,7 +288,7 @@ dv_has_:
     pnb: ہون شک
     ps: احتمال
     pt: probabilidade
-    pt-br: probabilidade
+    pt_br: probabilidade
     ro: probabilitate
     ru: вероятность
     scn: Prubbabbilità
@@ -327,14 +327,14 @@ dv_has_:
     yi: משמעותדיקייט
     yue: 或然率
     zh: 概率
-    zh-cn: 概率
-    zh-hans: 概率
-    zh-hant: 概率
-    zh-hk: 概率
-    zh-mo: 概率
+    zh_cn: 概率
+    zh_hans: 概率
+    zh_hant: 概率
+    zh_hk: 概率
+    zh_mo: 概率
     zh-my: 概率
-    zh-sg: 概率
-    zh-tw: 概率
+    zh_sg: 概率
+    zh_tw: 概率
 ---
 # [[Probability]] 
 

@@ -45,7 +45,7 @@ dv_has_:
     ar: روبرت جارفيك
     arz: روبرت جارفيك
     ast: Robert Jarvik
-    be-tarask: Робэрт Джарвік
+    be_tarask: Робэрт Джарвік
     bg: Роберт Джарвик
     ca: Robert Jarvik
     cs: Robert Jarvik
@@ -71,7 +71,7 @@ dv_has_:
     nn: Robert Jarvik
     pl: Robert Jarvik
     pt: Robert Jarvik
-    pt-br: Robert Jarvik
+    pt_br: Robert Jarvik
     ro: Robert Jarvik
     ru: Роберт Джарвик
     sl: Robert Jarvik

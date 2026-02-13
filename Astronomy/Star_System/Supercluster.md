@@ -89,7 +89,7 @@ dv_has_:
     ar: عنقود مجري فائق
     ast: Supercúmulo
     be: звышскопішча галактык
-    be-tarask: галяктычнае звышскопішча
+    be_tarask: галяктычнае звышскопішча
     bg: Галактичен свръхкуп
     bn: মহাস্তবক
     ca: supercúmul
@@ -97,11 +97,11 @@ dv_has_:
     cy: uwch glwstwr
     da: Superhob
     de: Superhaufen
-    de-ch: Superhaufen
+    de_ch: Superhaufen
     el: Υπερσμήνος
     en: supercluster
-    en-ca: Supercluster
-    en-gb: supercluster
+    en_ca: Supercluster
+    en_gb: supercluster
     eo: superamaso
     es: supercúmulo
     et: Galaktikate superparv
@@ -133,7 +133,7 @@ dv_has_:
     nn: superhop
     pl: supergromada
     pt: superaglomerado de galáxias
-    pt-br: Superaglomerado de galáxias
+    pt_br: Superaglomerado de galáxias
     ro: Super-roi de galaxii
     ru: сверхскопление галактик
     scn: suprammassu di galassî
@@ -141,8 +141,8 @@ dv_has_:
     sk: superkopa galaxií
     sl: nadjata
     sr: супер звездано јато
-    sr-ec: супер звездано јато
-    sr-el: super zvezdano jato
+    sr_ec: супер звездано јато
+    sr_el: super zvezdano jato
     su: Supergugus
     sv: superhop
     ta: விண்மீன் பெருந்திரள்

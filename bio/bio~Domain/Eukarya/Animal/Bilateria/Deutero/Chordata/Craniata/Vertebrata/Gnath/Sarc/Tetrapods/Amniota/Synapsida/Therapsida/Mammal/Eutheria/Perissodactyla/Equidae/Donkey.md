@@ -207,7 +207,7 @@ dv_has_:
     bar: Grischer
     bcl: Asno
     be: хатні асёл
-    be-tarask: хатні асёл
+    be_tarask: хатні асёл
     bg: магаре
     bm: Fali
     bn: গাধা
@@ -233,8 +233,8 @@ dv_has_:
     el: γάιδαρος
     eml: Èsen
     en: Equus africanus asinus
-    en-ca: donkey
-    en-gb: donkey
+    en_ca: donkey
+    en_gb: donkey
     en-us: donkey
     eo: azeno
     es: Equus africanus asinus
@@ -320,7 +320,7 @@ dv_has_:
     pnt: γαϊδούρ'
     ps: خر
     pt: asno
-    pt-br: asno
+    pt_br: asno
     qu: Asnu
     ro: Măgar
     rsk: маґарец
@@ -373,9 +373,9 @@ dv_has_:
     yue: 家驢
     zgh: ⴰⵖⵢⵓⵍ
     zh: 家驴
-    zh-cn: 家驴
-    zh-hans: 家驴
-    zh-hant: 家驢
+    zh_cn: 家驴
+    zh_hans: 家驴
+    zh_hant: 家驢
 ---
 # [[Donkey]] 
 

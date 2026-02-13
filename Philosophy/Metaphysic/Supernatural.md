@@ -83,7 +83,7 @@ dv_has_:
     az: fövqəltəbiilik
     bcl: Sobrenatural
     be: Звышнатуральнае
-    be-tarask: звышнатуральнае
+    be_tarask: звышнатуральнае
     bg: Свръхестественост
     bn: অতিপ্রাকৃত
     ca: sobrenatural
@@ -92,11 +92,11 @@ dv_has_:
     cy: Goruwchnaturiol
     da: Supranaturalisme
     de: Supranaturalismus
-    de-ch: Supranaturalismus
+    de_ch: Supranaturalismus
     el: υπερφυσικό
     en: supernatural
-    en-ca: supernatural
-    en-gb: supernatural
+    en_ca: supernatural
+    en_gb: supernatural
     eo: supernaturo
     es: sobrenatural
     et: Üleloomulik
@@ -135,7 +135,7 @@ dv_has_:
     pl: zjawiska nadprzyrodzone
     pms: Dzornatural
     pt: sobrenatural
-    pt-br: Sobrenatural
+    pt_br: Sobrenatural
     ro: supranatural
     ru: сверхъестественное
     sco: supernaitural
@@ -158,8 +158,8 @@ dv_has_:
     wuu: 超自然现象
     yue: 超自然
     zh: 超自然现象
-    zh-hant: 超自然現象
-    zh-tw: 超自然現象
+    zh_hant: 超自然現象
+    zh_tw: 超自然現象
 ---
 # [[Supernatural]] 
 

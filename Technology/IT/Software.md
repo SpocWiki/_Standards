@@ -244,7 +244,7 @@ dv_has_:
     azb: یازیلیم
     ba: программа менән тәьмин итеү
     be: праграмнае забеспячэнне
-    be-tarask: праграмнае забесьпячэньне
+    be_tarask: праграмнае забесьпячэньне
     bg: софтуер
     bho: सॉफ्टवेयर
     bjn: pakakas bayut
@@ -264,11 +264,11 @@ dv_has_:
     cy: meddalwedd
     da: computerprogram
     de: Software
-    de-ch: Software
+    de_ch: Software
     el: λογισμικό
     en: software
-    en-ca: software
-    en-gb: software
+    en_ca: software
+    en_gb: software
     eo: programaro
     es: software
     et: tarkvara
@@ -329,7 +329,7 @@ dv_has_:
     mn: програм хангамж
     mr: सॉफ्टवेअर
     ms: perisian
-    ms-arab: ڤريسين
+    ms_arab: ڤريسين
     mt: softwer
     mwl: software
     my: ကွန်ပျူတာ ဆော့ဖ်ဝဲလ်
@@ -350,7 +350,7 @@ dv_has_:
     pnb: سوفٹ وئر
     ps: ساوتری
     pt: programa
-    pt-br: software
+    pt_br: software
     qu: llamp'u kaq
     rki: ကွန်ပျူတာ ဆော့ဝဲ
     ro: software
@@ -373,21 +373,21 @@ dv_has_:
     so: software
     sq: softuer
     sr: софтвер
-    sr-ec: софтвер
+    sr_ec: софтвер
     st: software
     sv: programvara
     sw: programu
     ta: மென்பொருள்
     te: కంప్యూటర్ సాఫ్ట్ వేర్
     tg: нармафзор
-    tg-cyrl: нармафзор
+    tg_cyrl: нармафзор
     th: ซอฟต์แวร์
     ti: ሶፍትዌር
     tl: software
     tok: ilo kon
     tr: yazılım
     tt: програм тәэминат
-    tt-cyrl: програм тәэминат
+    tt_cyrl: програм тәэминат
     tum: machisko
     udm: программной юрттэт
     uk: програмне забезпечення
@@ -400,11 +400,11 @@ dv_has_:
     yi: ווייכווארג
     yue: 電腦軟件
     zh: 软件
-    zh-cn: 软件
-    zh-hans: 软件
-    zh-hant: 軟體
-    zh-hk: 軟件
-    zh-tw: 軟體
+    zh_cn: 软件
+    zh_hans: 软件
+    zh_hant: 軟體
+    zh_hk: 軟件
+    zh_tw: 軟體
 ---
 # [[Software]] 
 

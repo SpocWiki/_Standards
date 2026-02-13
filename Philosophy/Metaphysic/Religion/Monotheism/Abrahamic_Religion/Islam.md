@@ -341,7 +341,7 @@ dv_has_:
     bcl: Islam
     bdr: Islam
     be: іслам
-    be-tarask: іслам
+    be_tarask: іслам
     bew: Selam
     bg: ислям
     bho: इस्लाम
@@ -364,7 +364,7 @@ dv_has_:
     ckb: ئیسلام
     co: Islamu
     crh: İslâm
-    crh-latn: İslâm
+    crh_latn: İslâm
     crh-ro: islam
     cs: islám
     csb: Islam
@@ -382,8 +382,8 @@ dv_has_:
     el: Ισλάμ
     eml: Ìślam
     en: Islam
-    en-ca: Islam
-    en-gb: Islam
+    en_ca: Islam
+    en_gb: Islam
     en-us: Islam
     eo: islamo
     es: islam
@@ -409,7 +409,7 @@ dv_has_:
     gn: Islã
     gom: Islam
     gom-deva: इस्लाम
-    gom-latn: Islam
+    gom_latn: Islam
     gor: Islam
     got: "\U00010339\U00010343\U0001033B\U00010330\U0001033C"
     gpe: Islam
@@ -461,7 +461,7 @@ dv_has_:
     krc: Ислам
     ks: اِسلام
     ku: îslam
-    ku-latn: îslam
+    ku_latn: îslam
     kv: Ислам
     kw: Islam
     ky: Ислам
@@ -484,7 +484,7 @@ dv_has_:
     mad: Islam
     mag: इस्लाम्
     mai: इस्लाम
-    map-bms: Islam
+    map_bms: Islam
     mdf: Ислам
     mg: Silamo
     mi: Ihirama
@@ -497,7 +497,7 @@ dv_has_:
     mo: Ислам
     mr: इस्लाम धर्म
     ms: Islam
-    ms-arab: إسلام
+    ms_arab: إسلام
     mt: Iżlam
     mwl: Eislan
     my: အစ္စလာမ်ဘာသာ
@@ -507,7 +507,7 @@ dv_has_:
     nap: Islam
     nb: islam
     nds: Islam
-    nds-nl: islam
+    nds_nl: islam
     ne: इस्लाम धर्म
     new: इस्लाम
     nl: islam
@@ -533,7 +533,7 @@ dv_has_:
     pnb: اسلام
     ps: اسلام
     pt: islamismo
-    pt-br: Islã
+    pt_br: Islã
     qu: Islam
     rki: အစ္စလာမ်ဘာသာ
     rm: Islam
@@ -565,7 +565,7 @@ dv_has_:
     so: Islaam
     sq: Islam
     sr: ислам
-    sr-ec: ислам
+    sr_ec: ислам
     su: Islam
     sv: islam
     sw: Uislamu
@@ -575,7 +575,7 @@ dv_has_:
     tcy: ಇಸ್ಲಾಮ್ ಧರ್ಮ
     te: ఇస్లాం
     tg: ислом
-    tg-latn: Islom
+    tg_latn: Islom
     th: ศาสนาอิสลาม
     ti: ኣስላም
     tk: Yslam
@@ -586,8 +586,8 @@ dv_has_:
     tr: İslam
     ts: Vusurumani
     tt: ислам
-    tt-cyrl: Ислам
-    tt-latn: İslam
+    tt_cyrl: Ислам
+    tt_latn: İslam
     tw: Nkramosom
     udm: ислам
     ug: ئىسلام دىنى
@@ -613,14 +613,14 @@ dv_has_:
     zea: Islam
     zgh: ⵉⵙⵍⴰⵎ
     zh: 伊斯兰教
-    zh-cn: 伊斯兰教
-    zh-hans: 伊斯兰教
-    zh-hant: 伊斯蘭教
-    zh-hk: 伊斯蘭教
-    zh-mo: 伊斯兰教
+    zh_cn: 伊斯兰教
+    zh_hans: 伊斯兰教
+    zh_hant: 伊斯蘭教
+    zh_hk: 伊斯蘭教
+    zh_mo: 伊斯兰教
     zh-my: 伊斯兰教
-    zh-sg: 伊斯兰教
-    zh-tw: 伊斯蘭教
+    zh_sg: 伊斯兰教
+    zh_tw: 伊斯蘭教
     zu: Islam
 ---
 # [[Islam]] 

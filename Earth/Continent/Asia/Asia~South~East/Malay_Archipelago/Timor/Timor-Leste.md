@@ -570,7 +570,7 @@ dv_has_:
   name_:
     ab: Мрагыларатәи Тимор
     ace: Timor Leste
-    aeb-arab: تيمور الشرقية
+    aeb_arab: تيمور الشرقية
     af: Oos-Timor
     am: ምሥራቅ ቲሞር
     ami: Timor-leste
@@ -589,7 +589,7 @@ dv_has_:
     bar: Osttimor
     bcl: Subangan na Timor
     be: Усходні Тымор
-    be-tarask: Усходні Тымор
+    be_tarask: Усходні Тымор
     bew: Timor Wètan
     bg: Източен Тимор
     bho: पूर्ब तिमोर
@@ -604,7 +604,7 @@ dv_has_:
     bug: Timor Leste
     bxr: Зүүн Тимор
     ca: Timor Oriental
-    cbk-zam: Timor Oriental
+    cbk_zam: Timor Oriental
     cdo: Dĕ̤ng Timor
     ce: Малкхбалехьара Тимор
     ceb: Sidlakang Timor
@@ -613,7 +613,7 @@ dv_has_:
     ckb: تیمۆری ڕۆژھەڵات
     co: Timor Este
     crh: Şarqiy Timor
-    crh-latn: Şarqiy Timor
+    crh_latn: Şarqiy Timor
     cs: Východní Timor
     csb: Pòrënkòwi Timor
     cy: Dwyrain Timor
@@ -621,7 +621,7 @@ dv_has_:
     dag: Timor Est
     de: Osttimor
     de-at: Osttimor
-    de-ch: Osttimor
+    de_ch: Osttimor
     diq: Timurê Rocvetışi
     dsb: Pódzajtšny Timor
     dtp: Timor Leste
@@ -629,8 +629,8 @@ dv_has_:
     dv: އިރުމަތީ ޓިމޯރު
     el: Ανατολικό Τιμόρ
     en: Timor-Leste
-    en-ca: Timor-Leste
-    en-gb: East Timor
+    en_ca: Timor-Leste
+    en_gb: East Timor
     en-us: Timor-Leste
     eo: Orienta Timoro
     es: Timor Oriental
@@ -654,7 +654,7 @@ dv_has_:
     gn: Kuarahyresẽ Timor
     gom: पूर्व तिमोर
     gom-deva: उदेंत तिमोर
-    gom-latn: Udent Timor
+    gom_latn: Udent Timor
     gpe: Timor-Leste
     gsw: Osttimor
     gu: પૂર્વ તિમોર
@@ -710,7 +710,7 @@ dv_has_:
     lv: Austrumtimora
     lzh: 東帝汶
     mai: पूर्वी तिमोर
-    map-bms: Timor Leste
+    map_bms: Timor Leste
     mg: Timôro Atsinanana
     mhr: Эрвел Тимор
     mi: Tīmoa-ki-te-Rāwhiti
@@ -722,7 +722,7 @@ dv_has_:
     mnw: ကၟိန်ဍုင်သမ္မတဒဳမံက်ကရေဇြဳ ထဳမဝ်လေဝ်သ်တေ
     mr: पूर्व तिमोर
     ms: Timor Leste
-    ms-arab: تيمور ليستي
+    ms_arab: تيمور ليستي
     mt: Timor Leste
     mwl: Timor-Leste
     my: အရှေ့တီမောနိုင်ငံ
@@ -753,7 +753,7 @@ dv_has_:
     pnb: چڑھدا تیمور
     ps: ختيځ تيمور
     pt: Timor-Leste
-    pt-br: Timor-Leste
+    pt_br: Timor-Leste
     qu: Anti Timur
     ro: Timorul de Est
     ru: Восточный Тимор
@@ -782,8 +782,8 @@ dv_has_:
     so: Bariga Timor
     sq: Timori Lindor
     sr: Источни Тимор
-    sr-ec: Источни Тимор
-    sr-el: Istočni Timor
+    sr_ec: Источни Тимор
+    sr_el: Istočni Timor
     stq: Aast-Timor
     su: Timor Lésté
     sv: Östtimor
@@ -830,14 +830,14 @@ dv_has_:
     zea: Oôst-Timor
     zgh: ⵜⵉⵎⵓⵔ ⵏ ⵓⴳⵎⵓⴹ
     zh: 東帝汶
-    zh-cn: 东帝汶
-    zh-hans: 东帝汶
-    zh-hant: 東帝汶
-    zh-hk: 東帝汶
-    zh-mo: 東帝汶
+    zh_cn: 东帝汶
+    zh_hans: 东帝汶
+    zh_hant: 東帝汶
+    zh_hk: 東帝汶
+    zh_mo: 東帝汶
     zh-my: 东帝汶
-    zh-sg: 东帝汶
-    zh-tw: 東帝汶
+    zh_sg: 东帝汶
+    zh_tw: 東帝汶
     zu: i-East Timor
 ---
 # [[Timor-Leste]] 

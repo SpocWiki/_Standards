@@ -232,7 +232,7 @@ dv_has_:
     ban: Nusa Greenland
     bar: Grönland
     be: Грэнландыя
-    be-tarask: Грэнляндыя
+    be_tarask: Грэнляндыя
     bew: Grunlan
     bg: Гренландия
     bn: গ্রিনল্যান্ড
@@ -241,7 +241,7 @@ dv_has_:
     br: Greunland
     bs: Grenland
     ca: Groenlàndia
-    cbk-zam: Groenlandia
+    cbk_zam: Groenlandia
     cdo: Greenland
     ce: Гренланди
     ceb: Greenland
@@ -256,15 +256,15 @@ dv_has_:
     dag: Greenland
     de: Grönland
     de-at: Grönland
-    de-ch: Grönland
+    de_ch: Grönland
     diq: Gronlanda
     dsb: Grönlandska
     dtp: Greenland
     dv: ގުރީންލޭންޑު
     el: Γροιλανδία
     en: Greenland
-    en-ca: Greenland
-    en-gb: Greenland
+    en_ca: Greenland
+    en_gb: Greenland
     en-us: Greenland
     eo: Gronlando
     es: Groenlandia
@@ -286,7 +286,7 @@ dv_has_:
     gn: Kyoẽlándia
     gom: ग्रीनलँड
     gom-deva: ग्रीनलँड
-    gom-latn: Greenland
+    gom_latn: Greenland
     gpe: Greenland
     gsw: Grönland
     gu: ગ્રીનલેન્ડ
@@ -356,7 +356,7 @@ dv_has_:
     nan: Greenland
     nb: Grønland
     nds: Gröönland
-    nds-nl: Gruunlaand
+    nds_nl: Gruunlaand
     ne: ग्रिनल्यान्ड
     new: ग्रिनल्यान्ड
     nl: Groenland
@@ -378,7 +378,7 @@ dv_has_:
     pnb: گرین لینڈ
     ps: ګرينلينډ
     pt: Gronelândia
-    pt-br: Groelândia
+    pt_br: Groelândia
     qu: Kalalit Nunat
     ro: Groenlanda
     ru: Гренландия
@@ -445,9 +445,9 @@ dv_has_:
     yue: 格陵蘭
     zea: Hroenland
     zh: 格陵兰
-    zh-hans: 格陵兰
-    zh-hant: 格陵蘭
-    zh-tw: 格陵蘭
+    zh_hans: 格陵兰
+    zh_hant: 格陵蘭
+    zh_tw: 格陵蘭
     zu: i-Greenland
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Greenland

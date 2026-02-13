@@ -4,13 +4,13 @@ dv_has_:
   name_:
     ar: الرقابة على الأسلحة النارية
     be: кантроль за абаротам зброі
-    be-tarask: кантроль за абарачэньнем зброі
+    be_tarask: кантроль за абарачэньнем зброі
     ca: control d'armes de foc
     cs: kontrola zbraní
     da: våbenkontrol
     de: Waffenkontrolle
     en: gun control
-    en-gb: gun control
+    en_gb: gun control
     eo: limigo de pafiloj
     es: control de armas de fuego
     eu: arma kontrola
@@ -37,8 +37,8 @@ dv_has_:
     vi: kiểm soát súng
     yue: 槍械管制
     zh: 槍枝管制
-    zh-cn: 枪支管控
-    zh-hant: 槍枝管制
+    zh_cn: 枪支管控
+    zh_hant: 槍枝管制
 aliases:
 - arma kontrola
 - aserajoitukset

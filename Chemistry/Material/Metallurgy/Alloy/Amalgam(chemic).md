@@ -76,7 +76,7 @@ dv_has_:
     af: amalgaam
     ar: ملغمة
     be: амальгама
-    be-tarask: амальгама
+    be_tarask: амальгама
     bg: амалгама
     ca: amalgama
     crh: amalgama
@@ -106,11 +106,11 @@ dv_has_:
     ja: アマルガム
     ka: ამალგამი
     kk: амальгама
-    kk-arab: امالگاما
+    kk_arab: امالگاما
     kk-cn: امالگاما
-    kk-cyrl: амальгама
+    kk_cyrl: амальгама
     kk-kz: амальгама
-    kk-latn: amalʹgama
+    kk_latn: amalʹgama
     kk-tr: amalʹgama
     kn: ಅಮಾಲ್ಗಂ
     ko: 아말감
@@ -134,8 +134,8 @@ dv_has_:
     sk: amalgám
     sl: amalgam
     sr: амалгам
-    sr-ec: амалгам
-    sr-el: amalgam
+    sr_ec: амалгам
+    sr_el: amalgam
     sv: amalgam
     ta: இரசக்கலவை
     tr: amalgam
@@ -147,12 +147,12 @@ dv_has_:
     wuu: 汞齐
     yue: 汞齊
     zh: 汞齊
-    zh-cn: 汞齐
-    zh-hans: 汞齐
-    zh-hant: 汞齊
-    zh-hk: 汞齊
-    zh-sg: 汞齐
-    zh-tw: 汞齊
+    zh_cn: 汞齐
+    zh_hans: 汞齐
+    zh_hant: 汞齊
+    zh_hk: 汞齊
+    zh_sg: 汞齐
+    zh_tw: 汞齊
 ---
 # [[Amalgam(chemic)]] 
 

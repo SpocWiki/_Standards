@@ -148,7 +148,7 @@ dv_has_:
     ban: néon
     bcl: neon
     be: неон
-    be-tarask: нэон
+    be_tarask: нэон
     bg: неон
     bho: नियॉन
     blk: နီယွန်
@@ -262,7 +262,7 @@ dv_has_:
     pnb: نیون
     ps: نيون
     pt: néon
-    pt-br: neônio
+    pt_br: neônio
     qu: Niyun
     ro: neon
     ru: неон
@@ -286,7 +286,7 @@ dv_has_:
     so: Niyoon
     sq: Neoni
     sr: неон
-    sr-ec: Неон
+    sr_ec: Неон
     stq: Neon
     su: Néon
     sv: neon
@@ -317,14 +317,14 @@ dv_has_:
     yo: Neon
     yue: 氖
     zh: 氖
-    zh-cn: 氖
-    zh-hans: 氖
-    zh-hant: 氖
-    zh-hk: 氖
-    zh-mo: 氖
+    zh_cn: 氖
+    zh_hans: 氖
+    zh_hant: 氖
+    zh_hk: 氖
+    zh_mo: 氖
     zh-my: 氖
-    zh-sg: 氖
-    zh-tw: 氖
+    zh_sg: 氖
+    zh_tw: 氖
     zu: INkanyihwe
   number_of_:
     period: 2

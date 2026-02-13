@@ -142,7 +142,7 @@ dv_has_:
     ban: Zinedine Zidane
     bar: Zinedine Zidane
     be: Зінедзін Зідан
-    be-tarask: Зынэдын Зыдан
+    be_tarask: Зынэдын Зыдан
     bg: Зинедин Зидан
     bn: জিনেদিন জিদান
     br: Zinedine Zidane
@@ -156,14 +156,14 @@ dv_has_:
     da: Zinedine Zidane
     dag: Zinedine Zidane
     de: Zinédine Zidane
-    de-ch: Zinédine Zidane
+    de_ch: Zinédine Zidane
     diq: Zinédine Zidane
     dsb: Zinedine Zidane
     el: Ζινεντίν Ζιντάν
     eml: Zinedine Zidane
     en: Zinedine Zidane
-    en-ca: Zinedine Zidane
-    en-gb: Zinedine Zidane
+    en_ca: Zinedine Zidane
+    en_gb: Zinedine Zidane
     eo: Zinedine Zidane
     es: Zinedine Zidane
     et: Zinédine Zidane
@@ -236,7 +236,7 @@ dv_has_:
     pms: Zinedine Zidane
     pnb: زین الدین زیدان
     pt: Zinédine Zidane
-    pt-br: Zinédine Zidane
+    pt_br: Zinédine Zidane
     qu: Zinedine Zidane
     rm: Zinedine Zidane
     ro: Zinedine Zidane
@@ -279,8 +279,8 @@ dv_has_:
     yue: 施丹
     zgh: ⵣⵉⵏⴷⴷⵉⵏ ⵣⵉⴷⴰⵏ
     zh: 齐内丁·齐达内
-    zh-hk: 薛尼丁·施丹
-    zh-tw: 席內丁·席丹
+    zh_hk: 薛尼丁·施丹
+    zh_tw: 席內丁·席丹
 ---
 # [[Zidane,Zinedine]] 
 

@@ -28,7 +28,7 @@ dv_has_:
     oc: Cocoseae
     pl: Cocoseae
     pt: Cocoseae
-    pt-br: Cocoseae
+    pt_br: Cocoseae
     ro: Cocoseae
     ru: Cocoseae
     sl: Cocoseae
@@ -38,9 +38,9 @@ dv_has_:
     vo: Cocoseae
     war: Cocoseae
     zh: 椰子族
-    zh-cn: 椰子族
-    zh-hans: 椰子族
-    zh-hant: 椰族
+    zh_cn: 椰子族
+    zh_hans: 椰子族
+    zh_hant: 椰族
 aliases:
 - Cocoseae
 - Kokoseoj

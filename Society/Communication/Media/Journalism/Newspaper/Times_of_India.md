@@ -75,7 +75,7 @@ dv_has_:
     ast: The Times of India
     az: The Times of India
     ba: The Times of India
-    be-tarask: The Times of India
+    be_tarask: The Times of India
     bho: दि टाइम्स ऑफ इंडिया
     bn: দ্য টাইমস অব ইন্ডিয়া
     br: The Times of India
@@ -85,10 +85,10 @@ dv_has_:
     da: The Times of India
     de: The Times of India
     de-at: The Times of India
-    de-ch: The Times of India
+    de_ch: The Times of India
     en: The Times of India
-    en-ca: The Times of India
-    en-gb: The Times of India
+    en_ca: The Times of India
+    en_gb: The Times of India
     eo: The Times of India
     es: The Times of India
     eu: The Times of India
@@ -118,7 +118,7 @@ dv_has_:
     pl: The Times of India
     pnb: دی ٹائمز آف انڈیا
     pt: The Times of India
-    pt-br: The Times of India
+    pt_br: The Times of India
     ru: Таймс оф Индиа
     sa: द टाइम्स ओफ इण्डिया
     sd: دي ٽائمز آف انڊيا
@@ -135,9 +135,9 @@ dv_has_:
     vi: The Times of India
     yue: 印度時報
     zh: 印度时报
-    zh-cn: 印度时报
-    zh-hans: 印度时报
-    zh-hant: 印度時報
+    zh_cn: 印度时报
+    zh_hans: 印度时报
+    zh_hant: 印度時報
 ---
 # [[Times_of_India]] 
 

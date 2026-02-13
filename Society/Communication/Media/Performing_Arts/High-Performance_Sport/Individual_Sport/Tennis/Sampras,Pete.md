@@ -84,7 +84,7 @@ dv_has_:
     ay: Pete Sampras
     ba: Пит Сампрас
     be: Піт Сампрас
-    be-tarask: Піт Сампрас
+    be_tarask: Піт Сампрас
     bg: Пийт Сампрас
     bn: পিট সাম্প্রাস
     bs: Pete Sampras
@@ -94,11 +94,11 @@ dv_has_:
     cy: Pete Sampras
     da: Pete Sampras
     de: Pete Sampras
-    de-ch: Pete Sampras
+    de_ch: Pete Sampras
     el: Πιτ Σάμπρας
     en: Pete Sampras
-    en-ca: Pete Sampras
-    en-gb: Pete Sampras
+    en_ca: Pete Sampras
+    en_gb: Pete Sampras
     en-us: Pete Sampras
     eo: Pete Sampras
     es: Pete Sampras
@@ -140,7 +140,7 @@ dv_has_:
     pa: ਪੀਟ ਸੈਮਪਰਾਸ
     pl: Pete Sampras
     pt: Pete Sampras
-    pt-br: Pete Sampras
+    pt_br: Pete Sampras
     qu: Pete Sampras
     rmf: Pete Sampras
     ro: Pete Sampras

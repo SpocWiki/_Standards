@@ -65,7 +65,7 @@ dv_has_:
     ar: الإمبراطور جايد
     ast: Emperador de Jade
     ba: Юй-ди
-    be-tarask: Ю-Дзі
+    be_tarask: Ю-Дзі
     bn: জেড সম্রাট
     ca: Emperador de Jade
     cdo: Ngṳ̆k-huòng-siông-dá̤
@@ -113,10 +113,10 @@ dv_has_:
     wuu: 玉皇上帝
     yue: 玉皇大帝
     zh: 玉皇上帝
-    zh-hans: 玉皇大帝
-    zh-hant: 玉皇上帝
-    zh-hk: 玉皇大帝
-    zh-tw: 玉皇上帝
+    zh_hans: 玉皇大帝
+    zh_hant: 玉皇上帝
+    zh_hk: 玉皇大帝
+    zh_tw: 玉皇上帝
 ---
 # [[Jade_Emperor]] 
 

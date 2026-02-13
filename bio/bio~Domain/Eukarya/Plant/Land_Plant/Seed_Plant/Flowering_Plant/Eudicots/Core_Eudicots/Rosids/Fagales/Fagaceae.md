@@ -117,7 +117,7 @@ dv_has_:
     ast: Fagaceae
     az: Fıstıqkimilər
     be: букавыя
-    be-tarask: букавыя
+    be_tarask: букавыя
     bg: букови
     bs: Fagaceae
     ca: fagàcies
@@ -153,17 +153,17 @@ dv_has_:
     ka: წიფლისებრნი
     kab: Tazzant
     kk: Шамшаттықтар
-    kk-arab: شامشاتتىقتار
+    kk_arab: شامشاتتىقتار
     kk-cn: شامشاتتىقتار
-    kk-cyrl: Шамшаттықтар
+    kk_cyrl: Шамшаттықтар
     kk-kz: Шамшаттықтар
-    kk-latn: Şamşattıqtar
+    kk_latn: Şamşattıqtar
     kk-tr: Şamşattıqtar
     ko: 참나무과
     koi: Fagaceae
     ku: Famîleya narewanan
-    ku-arab: فامیلەیا نارەوانان
-    ku-latn: Famîleya narewanan
+    ku_arab: فامیلەیا نارەوانان
+    ku_latn: Famîleya narewanan
     kw: Fagaceae
     la: Fagaceae
     lb: Bicheplanzen
@@ -182,7 +182,7 @@ dv_has_:
     pl: bukowate
     pnb: بلوط ٹبر
     pt: Fagaceae
-    pt-br: Fagaceae
+    pt_br: Fagaceae
     qu: Haya yura rikch'aq ayllu
     ro: Fagaceae
     ru: буковые
@@ -204,12 +204,12 @@ dv_has_:
     wuu: 山毛榉科
     yue: 殼斗科
     zh: 壳斗科
-    zh-cn: 壳斗科
-    zh-hans: 壳斗科
-    zh-hant: 山毛櫸科
-    zh-hk: 山毛櫸科
-    zh-sg: 山毛榉科
-    zh-tw: 山毛櫸科
+    zh_cn: 壳斗科
+    zh_hans: 壳斗科
+    zh_hant: 山毛櫸科
+    zh_hk: 山毛櫸科
+    zh_sg: 山毛榉科
+    zh_tw: 山毛櫸科
 ---
 # [[Fagaceae]] 
 

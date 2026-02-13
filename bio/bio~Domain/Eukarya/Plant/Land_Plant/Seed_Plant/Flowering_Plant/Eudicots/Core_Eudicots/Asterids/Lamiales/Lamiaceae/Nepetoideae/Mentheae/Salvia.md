@@ -153,7 +153,7 @@ dv_has_:
     az: Adaçayı
     azb: آدا چایی
     be: Шалфей
-    be-tarask: шалфей
+    be_tarask: шалфей
     bg: пламъче
     br: Saoj
     ca: Salvia
@@ -191,11 +191,11 @@ dv_has_:
     ka: სალბი
     kab: Tazzurt
     kk: Сәлбен
-    kk-arab: سالبەن
+    kk_arab: سالبەن
     kk-cn: سالبەن
-    kk-cyrl: Сәлбен
+    kk_cyrl: Сәлбен
     kk-kz: Сәлбен
-    kk-latn: Sälben
+    kk_latn: Sälben
     kk-tr: Sälben
     ko: 배암차즈기속
     ky: Көк шимүүр, көк катын
@@ -211,7 +211,7 @@ dv_has_:
     pcd: Sale
     pl: Szałwia
     pt: Salvia
-    pt-br: Salvia
+    pt_br: Salvia
     qu: Ñukch'u
     ro: Salvia
     ru: шалфей
@@ -222,8 +222,8 @@ dv_has_:
     sl: kadulja
     sq: Sherebela
     sr: Salvia
-    sr-ec: Салвиа
-    sr-el: Salvia
+    sr_ec: Салвиа
+    sr_el: Salvia
     sv: Salviasläktet
     te: సాల్వియా
     th: Salvia
@@ -239,12 +239,12 @@ dv_has_:
     wuu: 鼠尾草属
     yue: 鼠尾草屬
     zh: 鼠尾草属
-    zh-cn: 鼠尾草属
-    zh-hans: 鼠尾草属
-    zh-hant: 鼠尾草屬
-    zh-hk: 鼠尾草屬
-    zh-sg: 鼠尾草属
-    zh-tw: 鼠尾草屬
+    zh_cn: 鼠尾草属
+    zh_hans: 鼠尾草属
+    zh_hant: 鼠尾草屬
+    zh_hk: 鼠尾草屬
+    zh_sg: 鼠尾草属
+    zh_tw: 鼠尾草屬
 ---
 # [[Salvia]] 
 

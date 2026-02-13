@@ -146,7 +146,7 @@ dv_has_:
     az: Peter Qustav Lejyon Dirixle
     azb: یوهان پتر قوستاف لوژون دیریکله
     be: Іаган Петэр Густаў Лежон Дзірыхле
-    be-tarask: Ёган Пэтэр Густаў Лёжэн Дырыхле
+    be_tarask: Ёган Пэтэр Густаў Лёжэн Дырыхле
     bg: Петер Густав Льожон Дирихле
     bs: Johann Peter Gustav Lejeune Dirichlet
     ca: Johann Peter Gustav Lejeune Dirichlet
@@ -196,7 +196,7 @@ dv_has_:
     pms: Peter Gustav Lejeune Dirichlet
     pnb: پیٹر ڈرچلٹ
     pt: Johann Peter Gustav Lejeune Dirichlet
-    pt-br: Johann Peter Gustav Lejeune Dirichlet
+    pt_br: Johann Peter Gustav Lejeune Dirichlet
     ro: Johann Peter Gustav Lejeune Dirichlet
     ru: Петер Густав Лежён Дирихле
     sco: Peter Gustav Lejeune Dirichlet
@@ -204,7 +204,7 @@ dv_has_:
     sl: Johann Peter Gustav Lejeune Dirichlet
     sq: Johann Peter Gustav Lejeune Dirichlet
     sr: Јохан Петер Густав Лежен Дирихле
-    sr-ec: Јохан Петер Густав Лежен Дирихле
+    sr_ec: Јохан Петер Густав Лежен Дирихле
     sv: Johann Peter Gustav Lejeune Dirichlet
     ta: டிரிஃக்லெ
     tr: Peter Gustav Lejeune Dirichlet
@@ -217,7 +217,7 @@ dv_has_:
     xmf: პეტერ გუსტავ ლეჟენ დირიხლე
     yue: 狄利克雷
     zh: 約翰·彼得·古斯塔夫·勒熱納·狄利克雷
-    zh-cn: 约翰·彼得·古斯塔夫·勒热纳·狄利克雷
+    zh_cn: 约翰·彼得·古斯塔夫·勒热纳·狄利克雷
 ---
 # [[Dirichlet,Johann_Peter_Gustav_Lejeune]] 
 

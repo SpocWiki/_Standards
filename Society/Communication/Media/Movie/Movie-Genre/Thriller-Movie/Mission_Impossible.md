@@ -31,7 +31,7 @@ dv_has_:
     tr: 'Görevimiz: Tehlike'
     uk: Місія нездійсненна (франшиза)
     zh: 不可能任務情報局
-    zh-hant: 不可能任務情報局
+    zh_hant: 不可能任務情報局
 ---
 # [[Mission_Impossible]] 
 

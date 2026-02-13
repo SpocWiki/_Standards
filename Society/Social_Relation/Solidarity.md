@@ -70,7 +70,7 @@ dv_has_:
     az: həmrəylik
     ba: Теләктәшлек
     be: салідарнасць
-    be-tarask: салідарнасьць
+    be_tarask: салідарнасьць
     bg: Солидарност
     ca: solidaritat
     cs: solidarita
@@ -120,8 +120,8 @@ dv_has_:
     so: Wadajirka
     sq: Solidariteti
     sr: солидарност
-    sr-ec: солидарност
-    sr-el: Solidarnost
+    sr_ec: солидарност
+    sr_el: Solidarnost
     sv: solidaritet
     tr: Dayanışma
     uk: Солідарність
@@ -129,9 +129,9 @@ dv_has_:
     wuu: 团结
     yue: 團結
     zh: 团结
-    zh-hans: 有机团结
-    zh-hant: 有機團結
-    zh-hk: 有機團結
+    zh_hans: 有机团结
+    zh_hant: 有機團結
+    zh_hk: 有機團結
 ---
 # [[Solidarity]] 
 

@@ -172,7 +172,7 @@ dv_has_:
     ba: Луций Анней Сенека
     bcl: Seneca the Younger
     be: Сенека
-    be-tarask: Сэнэка
+    be_tarask: Сэнэка
     bg: Луций Аней Сенека
     br: Seneca ar Yaouankañ
     bs: Seneka
@@ -183,12 +183,12 @@ dv_has_:
     cy: Seneca'r Ieuaf
     da: Lucius Annaeus Seneca
     de: Seneca
-    de-ch: Seneca
+    de_ch: Seneca
     diq: Lucius Anneus Seneca
     el: Σενέκας ο Νεότερος
     en: Seneca
-    en-ca: Seneca the Younger
-    en-gb: Seneca the Younger
+    en_ca: Seneca the Younger
+    en_gb: Seneca the Younger
     en-us: Seneca the Younger
     eo: Seneko la pli juna
     es: Séneca
@@ -243,7 +243,7 @@ dv_has_:
     pa: ਛੋਟਾ ਸੇਨੇਕਾ
     pl: Seneka Młodszy
     pt: Séneca
-    pt-br: Sêneca
+    pt_br: Sêneca
     ro: Seneca
     ru: Луций Анней Сенека
     scn: Luciu Anneu Sèneca
@@ -266,9 +266,9 @@ dv_has_:
     wuu: 塞内家
     yue: 塞內卡
     zh: 塞內卡
-    zh-cn: 塞內卡
-    zh-hans: 塞內卡
-    zh-hant: 塞內卡
+    zh_cn: 塞內卡
+    zh_hans: 塞內卡
+    zh_hant: 塞內卡
 ---
 #is_/same_as :: [[../../../WikiData/WD~Seneca,2054|WD~Seneca,2054]]  
 

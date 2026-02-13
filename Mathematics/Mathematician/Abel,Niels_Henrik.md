@@ -139,7 +139,7 @@ dv_has_:
     azb: نیلس هنریک آبل
     bar: Niels Henrik Abel
     be: Нільс Хенрык Абель
-    be-tarask: Нільс Хэнрык Абэль
+    be_tarask: Нільс Хэнрык Абэль
     bg: Нилс Абел
     bn: নিল্স হেনরিক আবেল
     br: Niels Henrik Abel
@@ -152,11 +152,11 @@ dv_has_:
     da: Niels Henrik Abel
     de: Niels Henrik Abel
     de-at: Niels Henrik Abel
-    de-ch: Niels Henrik Abel
+    de_ch: Niels Henrik Abel
     el: Νιλς Χένρικ Άμπελ
     en: Niels Henrik Abel
-    en-ca: Niels Henrik Abel
-    en-gb: Niels Henrik Abel
+    en_ca: Niels Henrik Abel
+    en_gb: Niels Henrik Abel
     eo: Niels Henrik Abel
     es: Niels Henrik Abel
     et: Niels Henrik Abel
@@ -186,11 +186,11 @@ dv_has_:
     ka: ნილს აბელი
     kg: Niels Henrik Abel
     kk: Абель Нильс Хенрик
-    kk-arab: ابەل نىيلس حەنرىيك
+    kk_arab: ابەل نىيلس حەنرىيك
     kk-cn: ابەل نىيلس حەنرىيك
-    kk-cyrl: Абель Нильс Хенрик
+    kk_cyrl: Абель Нильс Хенрик
     kk-kz: Абель Нильс Хенрик
-    kk-latn: Abelʹ Nïlʹs Xenrïk
+    kk_latn: Abelʹ Nïlʹs Xenrïk
     kk-tr: Abelʹ Nïlʹs Xenrïk
     ko: 닐스 헨리크 아벨
     ky: Абель Нильс Хенрик
@@ -211,7 +211,7 @@ dv_has_:
     nap: Niels Henrik Abel
     nb: Niels Henrik Abel
     nds: Niels Henrik Abel
-    nds-nl: Niels Henrik Abel
+    nds_nl: Niels Henrik Abel
     nl: Niels Henrik Abel
     nn: Niels Henrik Abel
     nov: Niels Abel
@@ -221,7 +221,7 @@ dv_has_:
     pl: Niels Henrik Abel
     pms: Niels Henrik Abel
     pt: Niels Henrik Abel
-    pt-br: Niels Henrik Abel
+    pt_br: Niels Henrik Abel
     rm: Niels Henrik Abel
     ro: Niels Henrik Abel
     ru: Нильс Хенрик Абель
@@ -235,8 +235,8 @@ dv_has_:
     sl: Niels Henrik Abel
     sq: Niels Henrik Abel
     sr: Нилс Абел
-    sr-ec: Нилс Абел
-    sr-el: Nils Abel
+    sr_ec: Нилс Абел
+    sr_el: Nils Abel
     sv: Niels Henrik Abel
     sw: Niels Henrik Abel
     ta: niels henrik abel
@@ -259,12 +259,12 @@ dv_has_:
     xmf: ნილს ჰენრიკ აბელი
     yue: Niels Henrik Abel
     zh: 尼尔斯·阿贝尔
-    zh-cn: 尼尔斯·阿贝尔
-    zh-hans: 尼尔斯·阿贝尔
-    zh-hant: 尼爾斯·阿貝爾
-    zh-hk: 尼爾斯·阿貝爾
-    zh-sg: 尼尔斯·阿贝尔
-    zh-tw: 尼爾斯·阿貝爾
+    zh_cn: 尼尔斯·阿贝尔
+    zh_hans: 尼尔斯·阿贝尔
+    zh_hant: 尼爾斯·阿貝爾
+    zh_hk: 尼爾斯·阿貝爾
+    zh_sg: 尼尔斯·阿贝尔
+    zh_tw: 尼爾斯·阿貝爾
     zu: Niels Henrik Abel
 ---
 # [[Abel,Niels_Henrik]] 

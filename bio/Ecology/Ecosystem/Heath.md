@@ -74,7 +74,7 @@ dv_has_:
     ast: Gorbizal
     bar: Hoad
     be: пустка
-    be-tarask: пустка
+    be_tarask: пустка
     bg: пустош
     br: Lanneg
     ca: landa
@@ -109,7 +109,7 @@ dv_has_:
     mk: вресиште
     nb: hede
     nds: Heid
-    nds-nl: heed
+    nds_nl: heed
     nl: heide
     nn: hei
     pl: wrzosowisko

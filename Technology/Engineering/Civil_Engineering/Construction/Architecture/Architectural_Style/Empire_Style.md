@@ -56,7 +56,7 @@ dv_has_:
     az: Ampir
     ba: Ампир
     be: ампір
-    be-tarask: ампір
+    be_tarask: ампір
     bg: Ампир
     ca: estil Imperi
     cs: empír
@@ -84,11 +84,11 @@ dv_has_:
     ja: 帝政様式
     ka: ამპირის სტილი
     kk: Ампир
-    kk-arab: امپىير
+    kk_arab: امپىير
     kk-cn: امپىير
-    kk-cyrl: Ампир
+    kk_cyrl: Ампир
     kk-kz: Ампир
-    kk-latn: Ampïr
+    kk_latn: Ampïr
     kk-tr: Ampïr
     ko: 앙피르 양식
     ky: Ампир
@@ -109,8 +109,8 @@ dv_has_:
     sk: Empír
     sl: empir
     sr: ампир
-    sr-ec: Ампир
-    sr-el: Ampir
+    sr_ec: Ампир
+    sr_el: Ampir
     sv: Empir
     tr: ampir
     tt: ампир

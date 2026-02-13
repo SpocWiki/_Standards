@@ -113,7 +113,7 @@ dv_has_:
     atj: mackowerimowin
     az: Cəsarət
     bar: Muad
-    be-tarask: мужнасьць
+    be_tarask: мужнасьць
     bg: Смелост — Храброст — Мъжество
     bjn: Kawanian
     bn: সাহস
@@ -178,8 +178,8 @@ dv_has_:
     so: Gaaninimo
     sq: Guximi
     sr: храброст
-    sr-ec: храброст
-    sr-el: hrabrost
+    sr_ec: храброст
+    sr_el: hrabrost
     st: Sebete
     sv: mod
     ta: வீரம்
@@ -195,12 +195,12 @@ dv_has_:
     wuu: 勇气
     yue: 膽量
     zh: 勇氣
-    zh-cn: 勇气
-    zh-hans: 勇气
-    zh-hant: 勇氣
-    zh-hk: 勇氣
-    zh-sg: 勇气
-    zh-tw: 勇氣
+    zh_cn: 勇气
+    zh_hans: 勇气
+    zh_hant: 勇氣
+    zh_hk: 勇氣
+    zh_sg: 勇气
+    zh_tw: 勇氣
 ---
 # [[Courage]] 
 

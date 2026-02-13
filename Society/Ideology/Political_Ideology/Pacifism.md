@@ -84,7 +84,7 @@ dv_has_:
     ast: Pacifismu
     az: Pasifizm
     be: пацыфізм
-    be-tarask: пацыфізм
+    be_tarask: пацыфізм
     bew: Cinta damé
     bg: пацифизъм
     bn: শান্তিবাদ
@@ -154,7 +154,7 @@ dv_has_:
     so: Coodtabin
     sq: Pacifizmi
     sr: пацифизам
-    sr-ec: пацифизам
+    sr_ec: пацифизам
     sv: pacifism
     tg: Патсифизм
     th: สันตินิยม

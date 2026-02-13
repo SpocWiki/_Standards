@@ -83,7 +83,7 @@ dv_has_:
     bar: John Tyler
     bcl: John Tyler
     be: Джэймс Тайлер
-    be-tarask: Джон Тайлэр
+    be_tarask: Джон Тайлэр
     bg: Джон Тайлър
     bi: John Tyler
     bn: জন টাইলার
@@ -104,8 +104,8 @@ dv_has_:
     dv: ޖޯން ޓައިލަރ
     el: Τζον Τάιλερ
     en: John Tyler
-    en-ca: John Tyler
-    en-gb: John Tyler
+    en_ca: John Tyler
+    en_gb: John Tyler
     eo: John Tyler
     es: John Tyler
     et: John Tyler
@@ -177,7 +177,7 @@ dv_has_:
     pnb: جان ٹائلر
     ps: جان ټایلر
     pt: John Tyler
-    pt-br: John Tyler
+    pt_br: John Tyler
     qu: John Tyler
     rmf: John Tyler
     ro: John Tyler

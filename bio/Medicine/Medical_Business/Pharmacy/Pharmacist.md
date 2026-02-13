@@ -174,7 +174,7 @@ dv_has_:
     ast: farmacéuticu
     az: təbib
     be: фармацэўт
-    be-tarask: фармацэўт
+    be_tarask: фармацэўт
     bg: фармацевт
     bn: ঔষধ প্রস্তুতি ও ব্যবহারবিদ
     br: apotiker
@@ -184,11 +184,11 @@ dv_has_:
     da: farmaceut
     de: Apotheker
     de-at: Apotheker
-    de-ch: Apotheker
+    de_ch: Apotheker
     el: φαρμακοποιός
     en: pharmacist
-    en-ca: Pharmacist
-    en-gb: pharmacist
+    en_ca: Pharmacist
+    en_gb: pharmacist
     en-us: pharmacist
     eo: farmaciisto
     es: farmacéutico
@@ -213,7 +213,7 @@ dv_has_:
     ka: ფარმაცევტი
     ko: 약사
     ku: dermansaz
-    ku-latn: dermansaz
+    ku_latn: dermansaz
     la: medicamentarius
     lb: Apdikter
     lfn: farmasiste
@@ -236,7 +236,7 @@ dv_has_:
     pa: ਫਾਰਮਾਸਿਸਟ
     pl: farmaceuta
     pt: farmacêutico
-    pt-br: farmacêutico
+    pt_br: farmacêutico
     qu: Hampiqhatuq
     ro: farmacist
     ru: аптекарь
@@ -250,8 +250,8 @@ dv_has_:
     sms: apteekkar
     sq: Farmacisti
     sr: фармацеут
-    sr-ec: фармацеут
-    sr-el: farmaceut
+    sr_ec: фармацеут
+    sr_el: farmaceut
     sv: apotekare
     sw: Daktari wa dawa
     te: ఫార్మసిస్ట్
@@ -260,7 +260,7 @@ dv_has_:
     tl: parmaseutiko
     tr: eczacı
     tt: фармацевт
-    tt-cyrl: даруханәче
+    tt_cyrl: даруханәче
     tw: Odufrani
     uk: фармацевт
     ur: ماہرِ دوا سازی
@@ -271,14 +271,14 @@ dv_has_:
     wuu: 药剂师
     yue: 藥劑師
     zh: 藥劑師
-    zh-cn: 药师
-    zh-hans: 药师
-    zh-hant: 藥師
-    zh-hk: 藥劑師
-    zh-mo: 藥劑師
+    zh_cn: 药师
+    zh_hans: 药师
+    zh_hant: 藥師
+    zh_hk: 藥劑師
+    zh_mo: 藥劑師
     zh-my: 药师
-    zh-sg: 药师
-    zh-tw: 藥師
+    zh_sg: 药师
+    zh_tw: 藥師
 ---
 # [[Pharmacist]] 
 

@@ -222,7 +222,7 @@ dv_has_:
     bar: Archäologie
     bcl: Arkiyolohiya
     be: археалогія
-    be-tarask: археалёгія
+    be_tarask: археалёгія
     bg: археология
     bho: आर्कियोलॉजी
     blk: သုတေသနစခါပညာႏ
@@ -310,7 +310,7 @@ dv_has_:
     mnw: ကွတ်ပေါရာန်
     mr: पुरातत्त्वशास्त्र
     ms: kaji purba
-    ms-arab: كاجي ڤوربا
+    ms_arab: كاجي ڤوربا
     mt: arkeoloġija
     mwl: Arqueologie
     my: ရှေးဟောင်းသုတေသနပညာ
@@ -318,7 +318,7 @@ dv_has_:
     nap: Archeologgia
     nb: arkeologi
     nds: Archäologie
-    nds-nl: ooldheaidkeunde
+    nds_nl: ooldheaidkeunde
     ne: पुरातत्त्वशास्त्र
     new: पुरातत्व
     nl: archeologie
@@ -335,7 +335,7 @@ dv_has_:
     pnb: آثاریات
     ps: لرغونپوهنه
     pt: arqueologia
-    pt-br: arqueologia
+    pt_br: arqueologia
     rm: Archeologia
     ro: arheologie
     ru: археология
@@ -359,8 +359,8 @@ dv_has_:
     sms: arkeologia
     sq: arkeologji
     sr: археологија
-    sr-ec: археологија
-    sr-el: arheologija
+    sr_ec: археологија
+    sr_el: arheologija
     su: Arkéologi
     sv: arkeologi
     sw: Akiolojia
@@ -393,10 +393,10 @@ dv_has_:
     zea: Archeolohie
     zgh: ⵜⴰⵙⵏⵣⵉⴽⵜ
     zh: 考古學
-    zh-cn: 考古学
-    zh-hans: 考古学
-    zh-hant: 考古學
-    zh-hk: 考古學
+    zh_cn: 考古学
+    zh_hans: 考古学
+    zh_hant: 考古學
+    zh_hk: 考古學
 ---
 # [[Archaeology]] 
 

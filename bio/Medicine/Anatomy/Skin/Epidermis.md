@@ -135,8 +135,8 @@ dv_has_:
     sl: epidermis
     sms: epideʹrmm
     sr: Покожица
-    sr-ec: Покожица
-    sr-el: Pokožica
+    sr_ec: Покожица
+    sr_el: Pokožica
     sv: överhud
     sw: Epidemisi
     ta: மேற்றோல்
@@ -149,12 +149,12 @@ dv_has_:
     war: Epidermis
     wuu: 表皮 (皮肤)
     zh: 表皮
-    zh-cn: 表皮
-    zh-hans: 表皮
-    zh-hant: 表皮
-    zh-hk: 表皮
-    zh-sg: 表皮
-    zh-tw: 表皮
+    zh_cn: 表皮
+    zh_hans: 表皮
+    zh_hant: 表皮
+    zh_hk: 表皮
+    zh_sg: 表皮
+    zh_tw: 表皮
 ---
 # [[Epidermis]] 
 

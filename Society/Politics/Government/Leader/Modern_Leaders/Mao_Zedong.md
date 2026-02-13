@@ -223,7 +223,7 @@ dv_has_:
     bar: Mao Tse-tung
     bcl: Mao Zedong
     be: Маа Цзэдун
-    be-tarask: Мао Дзэ-дун
+    be_tarask: Мао Дзэ-дун
     bew: Mao Cetung
     bg: Мао Дзъдун
     bho: माओ त्से तुंग
@@ -248,8 +248,8 @@ dv_has_:
     diq: Mao Zedong
     el: Μάο Τσετούνγκ
     en: Mao Zedong
-    en-ca: Mao Zedong
-    en-gb: Mao Zedong
+    en_ca: Mao Zedong
+    en_gb: Mao Zedong
     en-us: Mao Tse-toung
     eo: Mao Zedong
     es: Mao Zedong
@@ -297,7 +297,7 @@ dv_has_:
     ko-kp: 모택동
     ksh: Mao Zedong
     ku: Mao Zedong
-    ku-latn: Mao Zedong
+    ku_latn: Mao Zedong
     kus: Mao Zedong
     kv: Мао Цзэдун
     kw: Mao Zedong
@@ -342,7 +342,7 @@ dv_has_:
     pnb: ماؤ زے تنگ
     ps: مائو تسه تونګ
     pt: Mao Tsé-Tung
-    pt-br: Mao Tsé-Tung
+    pt_br: Mao Tsé-Tung
     qu: Mao Zedong
     rmy: Mao Zedong
     ro: Mao Zedong
@@ -364,8 +364,8 @@ dv_has_:
     so: Mao Zedong
     sq: Mao Zedong
     sr: Мао Цедунг
-    sr-ec: Мао Цедунг
-    sr-el: Mao Cedung
+    sr_ec: Мао Цедунг
+    sr_el: Mao Cedung
     sv: Mao Zedong
     sw: Mao Zedong
     szy: Maw-ce-tun
@@ -398,14 +398,14 @@ dv_has_:
     za: Mauz Cwzdungh
     zgh: ⵎⴰⵡ ⵜⵙⵉ ⵜⵓⵏⴳ
     zh: 毛泽东
-    zh-cn: 毛泽东
-    zh-hans: 毛泽东
-    zh-hant: 毛澤東
-    zh-hk: 毛澤東
-    zh-mo: 毛澤東
+    zh_cn: 毛泽东
+    zh_hans: 毛泽东
+    zh_hant: 毛澤東
+    zh_hk: 毛澤東
+    zh_mo: 毛澤東
     zh-my: 毛泽东
-    zh-sg: 毛泽东
-    zh-tw: 毛澤東
+    zh_sg: 毛泽东
+    zh_tw: 毛澤東
 ---
 # [[Mao_Zedong]] 
 

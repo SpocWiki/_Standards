@@ -101,7 +101,7 @@ dv_has_:
   name_:
     aa: Karl Jaspers
     ace: Karl Jaspers
-    aeb-latn: Karl Jaspers
+    aeb_latn: Karl Jaspers
     af: Karl Jaspers
     an: Karl Jaspers
     ang: Karl Jaspers
@@ -111,10 +111,10 @@ dv_has_:
     ay: Karl Jaspers
     az: Karl Yaspers
     bar: Karl Jaspers
-    bbc-latn: Karl Jaspers
+    bbc_latn: Karl Jaspers
     bcl: Karl Jaspers
     be: Карл Тэадор Ясперс
-    be-tarask: Карл Тэадор Яспэрс
+    be_tarask: Карл Тэадор Яспэрс
     bg: Карл Ясперс
     bi: Karl Jaspers
     bjn: Karl Jaspers
@@ -123,7 +123,7 @@ dv_has_:
     bs: Karl Jaspers
     bug: Karl Jaspers
     ca: Karl Jaspers
-    cbk-zam: Karl Jaspers
+    cbk_zam: Karl Jaspers
     cdo: Karl Jaspers
     ceb: Karl Jaspers
     ch: Karl Jaspers
@@ -132,7 +132,7 @@ dv_has_:
     ckb: کارڵ یاسپرس
     co: Karl Jaspers
     cr: Karl Jaspers
-    crh-latn: Karl Jaspers
+    crh_latn: Karl Jaspers
     cs: Karl Jaspers
     csb: Karl Jaspers
     cv: Карл Ясперс
@@ -141,15 +141,15 @@ dv_has_:
     dag: Karl Jaspers
     de: Karl Jaspers
     de-at: Karl Jaspers
-    de-ch: Karl Jaspers
+    de_ch: Karl Jaspers
     diq: Karl Jaspers
     dsb: Karl Jaspers
     ee: Karl Jaspers
     el: Καρλ Γιάσπερς
     eml: Karl Jaspers
     en: Karl Jaspers
-    en-ca: Karl Jaspers
-    en-gb: Karl Jaspers
+    en_ca: Karl Jaspers
+    en_gb: Karl Jaspers
     eo: Karl Jaspers
     es: Karl Jaspers
     et: Karl Jaspers
@@ -170,7 +170,7 @@ dv_has_:
     gd: Karl Jaspers
     gl: Karl Jaspers
     gn: Karl Jaspers
-    gom-latn: Karl Jaspers
+    gom_latn: Karl Jaspers
     gor: Karl Jaspers
     gsw: Karl Jaspers
     gv: Karl Jaspers
@@ -178,7 +178,7 @@ dv_has_:
     he: קרל יאספרס
     hi: KARL JSPERS
     hif: Karl Jaspers
-    hif-latn: Karl Jaspers
+    hif_latn: Karl Jaspers
     ho: Karl Jaspers
     hr: Karl Jaspers
     hrx: Karl Jaspers
@@ -192,7 +192,7 @@ dv_has_:
     ie: Karl Jaspers
     ig: Karl Jaspers
     ik: Karl Jaspers
-    ike-latn: Karl Jaspers
+    ike_latn: Karl Jaspers
     ilo: Karl Jaspers
     io: Karl Jaspers
     is: Karl Jaspers
@@ -208,11 +208,11 @@ dv_has_:
     ki: Karl Jaspers
     kj: Karl Jaspers
     kk: Ясперс Карл
-    kk-latn: Karl Jaspers
+    kk_latn: Karl Jaspers
     kl: Karl Jaspers
     ko: 카를 야스퍼스
     ksh: Karl Jaspers
-    ku-latn: Karl Jaspers
+    ku_latn: Karl Jaspers
     kw: Karl Jaspers
     ky: Ясперс, Карл
     la: Carolus Theodorus Jaspers
@@ -228,7 +228,7 @@ dv_has_:
     lt: Karl Jaspers
     ltg: Karl Jaspers
     lv: Kārlis Jasperss
-    map-bms: Karl Jaspers
+    map_bms: Karl Jaspers
     mg: Karl Jaspers
     mh: Karl Jaspers
     mi: Karl Jaspers
@@ -244,7 +244,7 @@ dv_has_:
     nap: Karl Jaspers
     nb: Karl Jaspers
     nds: Karl Jaspers
-    nds-nl: Karl Jaspers
+    nds_nl: Karl Jaspers
     ng: Karl Jaspers
     nl: Karl Jaspers
     nn: Karl Jaspers
@@ -269,7 +269,7 @@ dv_has_:
     pms: Karl Jaspers
     prg: Karl Jaspers
     pt: Karl Jaspers
-    pt-br: Karl Jaspers
+    pt_br: Karl Jaspers
     qu: Karl Jaspers
     rgn: Karl Jaspers
     rm: Karl Jaspers
@@ -278,7 +278,7 @@ dv_has_:
     ro: Karl Jaspers
     roa-tara: Karl Jaspers
     ru: Карл Ясперс
-    ruq-latn: Karl Jaspers
+    ruq_latn: Karl Jaspers
     rw: Karl Jaspers
     sc: Karl Jaspers
     scn: Karl Jaspers
@@ -286,7 +286,7 @@ dv_has_:
     se: Karl Jaspers
     sg: Karl Jaspers
     sh: Karl Jaspers
-    shi-latn: Karl Jaspers
+    shi_latn: Karl Jaspers
     sk: Karl Jaspers
     sl: Karl Theodor Jaspers
     sm: Karl Jaspers
@@ -296,7 +296,7 @@ dv_has_:
     so: Karl Jaspers
     sq: Karl Jaspers
     sr: Karl Jaspers
-    sr-el: Karl Jaspers
+    sr_el: Karl Jaspers
     srn: Karl Jaspers
     ss: Karl Jaspers
     st: Karl Jaspers
@@ -307,18 +307,18 @@ dv_has_:
     szl: Karl Jaspers
     ta: கார்ல் ஜாஸ்பெர்ஸ்
     tet: Karl Jaspers
-    tg-latn: Karl Jaspers
+    tg_latn: Karl Jaspers
     tl: Karl Jaspers
     tn: Karl Jaspers
     to: Karl Jaspers
     tpi: Karl Jaspers
     tr: Karl Jaspers
     ts: Karl Jaspers
-    tt-latn: Karl Jaspers
+    tt_latn: Karl Jaspers
     tum: Karl Jaspers
     tw: Karl Jaspers
     ty: Karl Jaspers
-    ug-latn: Karl Jaspers
+    ug_latn: Karl Jaspers
     uk: Карл Ясперс
     uz: Yaspers Karl
     ve: Karl Jaspers

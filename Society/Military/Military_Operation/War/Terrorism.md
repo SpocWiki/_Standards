@@ -146,7 +146,7 @@ dv_has_:
     ba: терроризм
     bcl: Terorismo
     be: тэрарызм
-    be-tarask: тэрарызм
+    be_tarask: тэрарызм
     bg: тероризъм
     bho: आतंकवाद
     bn: সন্ত্রাসবাদ
@@ -163,12 +163,12 @@ dv_has_:
     cy: terfysgaeth
     da: terrorisme
     de: Terrorismus
-    de-ch: Terrorismus
+    de_ch: Terrorismus
     diq: terorizm
     el: τρομοκρατία
     en: terrorism
-    en-ca: terrorism
-    en-gb: terrorism
+    en_ca: terrorism
+    en_gb: terrorism
     eo: terorismo
     es: terrorismo
     et: terrorism
@@ -230,13 +230,13 @@ dv_has_:
     mn: Терроризм
     mr: दहशतवाद
     ms: pengganasan
-    ms-arab: ڤڠݢانسن
+    ms_arab: ڤڠݢانسن
     my: အကြမ်းဖက်ဝါဒ
     mzn: تروریسم
     nan: Khióng-pò͘-chú-gī
     nb: terrorisme
     nds: Terrorismus
-    nds-nl: terrorisme
+    nds_nl: terrorisme
     ne: आतंकवाद
     new: आतङ्कवाद
     nl: terrorisme
@@ -249,7 +249,7 @@ dv_has_:
     pms: terorism
     pnb: دہشت گردی
     pt: terrorismo
-    pt-br: terrorismo
+    pt_br: terrorismo
     ro: terorism
     ru: терроризм
     rue: терорізм
@@ -278,7 +278,7 @@ dv_has_:
     tl: terorismo
     tr: terörizm
     tt: террорчылык
-    tt-cyrl: террорчылык
+    tt_cyrl: террорчылык
     udm: терроризм
     uk: тероризм
     ur: دہشت گردی
@@ -292,14 +292,14 @@ dv_has_:
     yi: טעראריזם
     yue: 恐怖主義
     zh: 恐怖主義
-    zh-cn: 恐怖主义
-    zh-hans: 恐怖主义
-    zh-hant: 恐怖主義
-    zh-hk: 恐怖主義
-    zh-mo: 恐怖主義
+    zh_cn: 恐怖主义
+    zh_hans: 恐怖主义
+    zh_hant: 恐怖主義
+    zh_hk: 恐怖主義
+    zh_mo: 恐怖主義
     zh-my: 恐怖主义
-    zh-sg: 恐怖主义
-    zh-tw: 恐怖主義
+    zh_sg: 恐怖主义
+    zh_tw: 恐怖主義
 ---
 # [[Terrorism]] 
 

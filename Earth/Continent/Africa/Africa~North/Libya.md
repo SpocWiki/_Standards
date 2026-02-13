@@ -64,7 +64,7 @@ dv_has_:
     ab: Ливиа
     ace: Libya
     ady: Ливие
-    aeb-arab: ليبيا
+    aeb_arab: ليبيا
     af: Libië
     am: ሊቢያ
     ami: Libya
@@ -86,7 +86,7 @@ dv_has_:
     bar: Libyen
     bcl: Libya
     be: Лівія
-    be-tarask: Лібія
+    be_tarask: Лібія
     bew: Libi
     bg: Либия
     bgn: لیبیا
@@ -102,14 +102,14 @@ dv_has_:
     bug: ᨒᨗᨅᨗᨐ
     bxr: Ливи
     ca: Líbia
-    cbk-zam: Libya
+    cbk_zam: Libya
     cdo: Libya
     ce: Ливи
     ceb: Libya
     ckb: لیبیا
     co: Libia
     crh: Libiya
-    crh-latn: Libiya
+    crh_latn: Libiya
     cs: Libye
     csb: Libiô
     cv: Ливи
@@ -125,8 +125,8 @@ dv_has_:
     ee: Libya
     el: Λιβύη
     en: Libya
-    en-ca: Libya
-    en-gb: Libya
+    en_ca: Libya
+    en_gb: Libya
     eo: Libio
     es: Libia
     et: Liibüa
@@ -213,7 +213,7 @@ dv_has_:
     lzh: 利比亞
     mad: Libya
     mai: लीबिया
-    map-bms: Libya
+    map_bms: Libya
     mdf: Либия
     mg: Libia
     mhr: Ливий
@@ -236,7 +236,7 @@ dv_has_:
     nap: Libbia
     nb: Libya
     nds: Libyen
-    nds-nl: Libië
+    nds_nl: Libië
     ne: लिबिया
     new: लिब्या
     nl: Libië
@@ -262,7 +262,7 @@ dv_has_:
     pnb: لبیا
     ps: لېبيا
     pt: Líbia
-    pt-br: Líbia
+    pt_br: Líbia
     qu: Libya
     rmy: Libiya
     ro: Libia
@@ -292,8 +292,8 @@ dv_has_:
     so: Libiya
     sq: Libia
     sr: Либија
-    sr-ec: Либија
-    sr-el: Libija
+    sr_ec: Либија
+    sr_el: Libija
     ss: ILibhiya
     st: Libya
     stq: Libyen
@@ -343,11 +343,11 @@ dv_has_:
     zea: Libië
     zgh: ⵍⵉⴱⵢⴰ
     zh: 利比亞
-    zh-cn: 利比亚
-    zh-hans: 利比亚
-    zh-hant: 利比亞
-    zh-hk: 利比亞
-    zh-tw: 利比亞
+    zh_cn: 利比亚
+    zh_hans: 利比亚
+    zh_hant: 利比亞
+    zh_hk: 利比亞
+    zh_tw: 利比亞
     zu: ILibiya
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Libya

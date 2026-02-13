@@ -97,7 +97,7 @@ dv_has_:
     ar: ضغط بيانات
     ast: compresión de datos
     az: verilənlərin sıxlaşdırılması
-    be-tarask: сьцісканьне зьвестак
+    be_tarask: сьцісканьне зьвестак
     bg: Компресиране на данни
     bn: উপাত্ত সংকোচন
     bs: sažimanje podataka
@@ -107,7 +107,7 @@ dv_has_:
     cv: Панăлăхсене хĕсесси
     da: datakompression
     de: Datenkompression
-    de-ch: Datenkompression
+    de_ch: Datenkompression
     el: συμπίεση δεδομένων
     en: data compression
     eo: datumdensigo
@@ -146,7 +146,7 @@ dv_has_:
     pms: Compression dij dàit
     ps: د ډېټا نښتیځه (کمپرېشن)
     pt: compressão de dados
-    pt-br: compressão de dados
+    pt_br: compressão de dados
     ro: compresie de date
     ru: сжатие данных
     sco: data compression
@@ -161,15 +161,15 @@ dv_has_:
     th: การบีบอัดข้อมูล
     tr: veri sıkıştırma
     tt: бирелмәләрне кысу
-    tt-cyrl: бирелмәләрне кысу
+    tt_cyrl: бирелмәләрне кысу
     uk: стиснення даних
     ur: معطیاتی دابیت
     vi: Nén dữ liệu
     wuu: 数据压缩
     yue: 數據壓縮
     zh: 数据压缩
-    zh-hant: 資料壓縮
-    zh-tw: 資料壓縮
+    zh_hant: 資料壓縮
+    zh_tw: 資料壓縮
 ---
 # [[Data_Compression]] 
 

@@ -235,7 +235,7 @@ dv_has_:
     azb: برتراند راسل
     bcl: Bertrand Russell
     be: Бертран Артур Уільям Расэл
-    be-tarask: Бэртран Расэл
+    be_tarask: Бэртран Расэл
     bg: Бъртранд Ръсел
     bn: বারট্রান্ড রাসেল
     br: Bertrand Russell
@@ -249,7 +249,7 @@ dv_has_:
     diq: Bertrand Russell
     el: Μπέρτραντ Ράσελ
     en: Bertrand Russell
-    en-gb: Bertrand Russell
+    en_gb: Bertrand Russell
     eo: Bertrand Russell
     es: Bertrand Russell
     et: Bertrand Russell
@@ -309,7 +309,7 @@ dv_has_:
     mzn: برتراند راسل
     nan: Bertrand Russell
     nb: Bertrand Russell
-    nds-nl: Bertrand Russell
+    nds_nl: Bertrand Russell
     ne: बर्टेण्ड रसेल
     new: बर्टान्ड रसेल
     nl: Bertrand Russell
@@ -323,7 +323,7 @@ dv_has_:
     pnb: برٹرینڈ رسل
     ps: برټرانډ راسل
     pt: Bertrand Russell
-    pt-br: Bertrand Russell
+    pt_br: Bertrand Russell
     qu: Bertrand Russell
     rki: ဗာထဖို့ ရပ်ဆဲ
     ro: Bertrand Russell
@@ -358,8 +358,8 @@ dv_has_:
     yue: 羅素
     zgh: ⴱⵉⵔⵜⵔⴰⵏⴷ ⵕⵓⵚⵍ
     zh: 伯特兰·罗素
-    zh-cn: 伯特兰·罗素
-    zh-hans: 伯特兰·罗素
+    zh_cn: 伯特兰·罗素
+    zh_hans: 伯特兰·罗素
 ---
 # [[Russell,Bertrand]] 
 

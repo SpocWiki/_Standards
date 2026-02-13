@@ -97,7 +97,7 @@ dv_has_:
     ast: I Ching
     az: Dəyişikliklər kitabı
     ba: Үҙгәрештәр китабы
-    be-tarask: Кніга пераменаў
+    be_tarask: Кніга пераменаў
     ca: Yijing
     cdo: Ciŭ-ĭk
     cs: I-ťing
@@ -147,8 +147,8 @@ dv_has_:
     sk: I-ťing
     sl: ji džing
     sr: Ји Ђинг
-    sr-ec: Ји Ђинг
-    sr-el: Ji Đing
+    sr_ec: Ји Ђинг
+    sr_el: Ji Đing
     sv: I Ching
     tg: Китоби Дигаргуниҳо
     th: อี้จิง
@@ -160,12 +160,12 @@ dv_has_:
     wuu: 周易
     yue: 易經
     zh: 易經
-    zh-cn: 易经
-    zh-hans: 易经
-    zh-hant: 易經
-    zh-hk: 易經
-    zh-sg: 易经
-    zh-tw: 易經
+    zh_cn: 易经
+    zh_hans: 易经
+    zh_hant: 易經
+    zh_hk: 易經
+    zh_sg: 易经
+    zh_tw: 易經
 ---
 # [[I_Ching]] 
 

@@ -93,15 +93,15 @@ dv_has_:
     ast: Llingües papúes
     az: Papua dilləri
     be: Папуаскія мовы
-    be-tarask: папуаскія мовы
+    be_tarask: папуаскія мовы
     br: yezhoù papouek
     ca: llengües papús
     cs: papuánské jazyky
     de: Papua-Sprachen
     el: Παπούα γλώσσες
     en: Papuan
-    en-ca: Papuan
-    en-gb: Papuan
+    en_ca: Papuan
+    en_gb: Papuan
     eo: Papua lingvaro
     es: lenguas papúes
     et: Paapua keeled
@@ -152,12 +152,12 @@ dv_has_:
     xmf: პაპუასური ნინეფი
     zea: Papoeataelen
     zh: 巴布亞諸語言
-    zh-cn: 巴布亚诸语言
-    zh-hans: 巴布亚诸语言
-    zh-hant: 巴布亞諸語言
-    zh-hk: 巴布亞諸語言
-    zh-sg: 巴布亚诸语言
-    zh-tw: 巴布亞諸語言
+    zh_cn: 巴布亚诸语言
+    zh_hans: 巴布亚诸语言
+    zh_hant: 巴布亞諸語言
+    zh_hk: 巴布亞諸語言
+    zh_sg: 巴布亚诸语言
+    zh_tw: 巴布亞諸語言
 ---
 # [[LangFamily~Papuan]] 
 

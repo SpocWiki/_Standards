@@ -61,7 +61,7 @@ dv_has_:
     arz: مينيماليزم
     ast: Minimalismu
     az: minimalizm
-    be-tarask: мінімалізм
+    be_tarask: мінімалізм
     bg: Минимализъм
     bn: স্বল্পবাদ (মিনিমালিজম)
     br: Arz bihanañ
@@ -114,8 +114,8 @@ dv_has_:
     sl: minimalizem
     sq: Minimalizmi
     sr: минимализам
-    sr-ec: минимализам
-    sr-el: minimalizam
+    sr_ec: минимализам
+    sr_el: minimalizam
     sv: minimalism
     th: ลัทธิจุลนิยม
     tok: nasin pali pi ijo lili
@@ -126,12 +126,12 @@ dv_has_:
     wuu: 极简主义
     yue: 極簡主義
     zh: 極簡主義
-    zh-cn: 极简主义
-    zh-hans: 极简主义
-    zh-hant: 極簡主義
-    zh-hk: 極簡主義
-    zh-sg: 极简主义
-    zh-tw: 極簡主義
+    zh_cn: 极简主义
+    zh_hans: 极简主义
+    zh_hant: 極簡主義
+    zh_hk: 極簡主義
+    zh_sg: 极简主义
+    zh_tw: 極簡主義
 ---
 # [[Minimalism]] 
 

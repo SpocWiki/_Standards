@@ -197,7 +197,7 @@ dv_has_:
     ba: Әбүғәлисина
     bar: Avicenna
     be: Авіцэна
-    be-tarask: Авіцэна
+    be_tarask: Авіцэна
     bew: Ibnu Sina
     bg: Авицена
     bho: इब्न सीना
@@ -221,8 +221,8 @@ dv_has_:
     diq: İbn Sina
     el: Αβικέννας
     en: Avicenna
-    en-ca: Avicenna
-    en-gb: Avicenna
+    en_ca: Avicenna
+    en_gb: Avicenna
     eo: Aviceno
     es: Avicena
     et: Ibn Sīnā
@@ -286,7 +286,7 @@ dv_has_:
     mn: Авиценна
     mr: इब्न सिना
     ms: Ibnu Sina
-    ms-arab: ابن سينا
+    ms_arab: ابن سينا
     mwl: Abicena
     my: အာဗီဆန်နာ
     myv: Авиценна
@@ -305,7 +305,7 @@ dv_has_:
     pnb: ابن سینا
     ps: ابن سينا بلخي
     pt: Avicena
-    pt-br: Avicena
+    pt_br: Avicena
     ro: Avicenna
     ru: Ибн Сина
     rue: Авіценна

@@ -89,7 +89,7 @@ dv_has_:
     az: Devid Koperfild
     azb: دیوید کاپرفیلد
     ba: Дэвид Копперфильд
-    be-tarask: Дэйвід Копэрфілд
+    be_tarask: Дэйвід Копэрфілд
     bg: Дейвид Копърфийлд
     bn: ডেভিড কপারফিল্ড
     br: David Copperfield
@@ -141,7 +141,7 @@ dv_has_:
     pap: David Copperfield
     pl: David Copperfield
     pt: David Copperfield
-    pt-br: David Copperfield
+    pt_br: David Copperfield
     ro: David Copperfield
     ru: Дэвид Копперфильд
     sh: David Copperfield
@@ -149,8 +149,8 @@ dv_has_:
     sl: David Copperfield
     sq: David Copperfield
     sr: Дејвид Коперфилд
-    sr-ec: Дејвид Коперфилд
-    sr-el: Dejvid Koperfild
+    sr_ec: Дејвид Коперфилд
+    sr_el: Dejvid Koperfild
     su: David Copperfield
     sv: David Copperfield
     th: เดวิด คอปเปอร์ฟิลด์
@@ -163,13 +163,13 @@ dv_has_:
     wuu: 大卫·科波菲尔
     yue: 大衛·高帕菲
     zh: 大衛·考柏菲
-    zh-cn: 大卫·科波菲尔
-    zh-hans: 大卫·科波菲尔
-    zh-hant: 大衛·考柏菲
-    zh-hk: 大衛·高柏飛
+    zh_cn: 大卫·科波菲尔
+    zh_hans: 大卫·科波菲尔
+    zh_hant: 大衛·考柏菲
+    zh_hk: 大衛·高柏飛
     zh-my: 大卫·考柏菲
-    zh-sg: 大卫·考柏菲
-    zh-tw: 大衛·考柏菲
+    zh_sg: 大卫·考柏菲
+    zh_tw: 大衛·考柏菲
 ---
 # [[Copperfield,David]]  
 

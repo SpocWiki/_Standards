@@ -330,7 +330,7 @@ dv_has_:
     ba: Франсиско Гойя
     bar: Francisco de Goya
     be: Франсіска Гойя
-    be-tarask: Франсыска Гоя
+    be_tarask: Франсыска Гоя
     bg: Франсиско Гоя
     bi: Francisco Goya
     bn: ফ্রান্সিস্কো গোয়া
@@ -353,8 +353,8 @@ dv_has_:
     diq: Francisco Goya
     el: Φρανθίσκο Γκόγια
     en: Francisco Goya
-    en-ca: Francisco Goya
-    en-gb: Francisco Goya
+    en_ca: Francisco Goya
+    en_gb: Francisco Goya
     eo: Francisco de Goya
     es: Francisco de Goya
     et: Francisco de Goya
@@ -441,7 +441,7 @@ dv_has_:
     pms: Francisco Goya
     pnb: فرانسسکو گویا
     pt: Francisco de Goya
-    pt-br: Francisco de Goya
+    pt_br: Francisco de Goya
     qu: Francisco Goya
     ro: Goya
     ru: Франсиско Гойя
@@ -458,7 +458,7 @@ dv_has_:
     sl: Francisco de Goya y Lucientes
     sq: Francisco Goya
     sr: Франсиско Гоја
-    sr-ec: Франсиско Гоја
+    sr_ec: Франсиско Гоја
     srn: Francisco Goya
     stq: Francisco de Goya
     sv: Francisco de Goya
@@ -485,8 +485,8 @@ dv_has_:
     yi: פראנסיסקא גאיא
     yue: 弗朗西斯科哥雅
     zh: 弗朗西斯科·戈雅
-    zh-hans: 弗朗西斯科·德·戈雅
-    zh-hant: 法蘭西斯科·德·戈雅
+    zh_hans: 弗朗西斯科·德·戈雅
+    zh_hant: 法蘭西斯科·德·戈雅
 ---
 # [[Goya,Francisco]] 
 

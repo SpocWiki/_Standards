@@ -38,7 +38,7 @@ dv_has_:
     ast: Alicia Silverstone
     azb: آلیسیا سیلورستون
     bar: Alicia Silverstone
-    be-tarask: Алісія Сылвэрстоўн
+    be_tarask: Алісія Сылвэрстоўн
     bg: Алиша Силвърстоун
     ca: Alicia Silverstone
     cs: Alicia Silverstoneová
@@ -80,7 +80,7 @@ dv_has_:
     pam: Alicia Silverstone
     pl: Alicia Silverstone
     pt: Alicia Silverstone
-    pt-br: Alicia Silverstone
+    pt_br: Alicia Silverstone
     ro: Alicia Silverstone
     ru: Алисия Сильверстоун
     sco: Alicia Silverstone
@@ -91,8 +91,8 @@ dv_has_:
     so: Alicia Silverstone
     sq: Alicia Silverstone
     sr: Алиша Силверстон
-    sr-ec: Алиша Силверстон
-    sr-el: Ališa Silverston
+    sr_ec: Алиша Силверстон
+    sr_el: Ališa Silverston
     sv: Alicia Silverstone
     th: อลิเซีย ซิลเวอร์สโตน
     tl: Alicia Silverstone
@@ -103,12 +103,12 @@ dv_has_:
     vi: Alicia Silverstone
     xmf: ალისია სილვერსტოუნი
     zh: 艾莉西亞·席薇史東
-    zh-cn: 艾丽西亚·希尔维斯通
-    zh-hans: 艾丽西亚·希尔维斯通
-    zh-hant: 艾莉西亞·席薇史東
-    zh-hk: 雅麗茜雅·絲華史東
-    zh-sg: 艾莉西亚·席维史东
-    zh-tw: 艾莉西亞·席薇史東
+    zh_cn: 艾丽西亚·希尔维斯通
+    zh_hans: 艾丽西亚·希尔维斯通
+    zh_hant: 艾莉西亞·席薇史東
+    zh_hk: 雅麗茜雅·絲華史東
+    zh_sg: 艾莉西亚·席维史东
+    zh_tw: 艾莉西亞·席薇史東
 ---
 #has_/time_/started :: 1976-10-04 
 

@@ -48,7 +48,7 @@ dv_has_:
     ast: Liliales
     az: Zanbaqçiçəklilər
     be: лілеякветныя
-    be-tarask: Лілеякветныя
+    be_tarask: Лілеякветныя
     bg: лилиецветни
     bs: Liliales
     ca: Lilials
@@ -99,7 +99,7 @@ dv_has_:
     os: Хъоппæгдидинонтæ
     pl: liliowce
     pt: Liliales
-    pt-br: Liliales
+    pt_br: Liliales
     ro: Liliales
     ru: лилиецветные
     sco: Liliales

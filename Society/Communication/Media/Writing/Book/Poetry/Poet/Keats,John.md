@@ -132,7 +132,7 @@ dv_has_:
     azb: جان کیتس
     bar: John Keats
     be: Джон Кітс
-    be-tarask: Джон Кітс
+    be_tarask: Джон Кітс
     bg: Джон Кийтс
     bho: जॉन कीट्स
     bm: John Keats
@@ -148,11 +148,11 @@ dv_has_:
     da: John Keats
     de: John Keats
     de-at: John Keats
-    de-ch: John Keats
+    de_ch: John Keats
     el: Τζον Κητς
     en: John Keats
-    en-ca: John Keats
-    en-gb: John Keats
+    en_ca: John Keats
+    en_gb: John Keats
     eo: John Keats
     es: John Keats
     et: John Keats
@@ -207,7 +207,7 @@ dv_has_:
     nap: John Keats
     nb: John Keats
     nds: John Keats
-    nds-nl: John Keats
+    nds_nl: John Keats
     ne: जोन किट्स
     nl: John Keats
     nn: John Keats
@@ -221,7 +221,7 @@ dv_has_:
     pnb: کیٹس
     prg: John Keats
     pt: John Keats
-    pt-br: John Keats
+    pt_br: John Keats
     rgn: John Keats
     rm: John Keats
     ro: John Keats
@@ -236,8 +236,8 @@ dv_has_:
     sl: John Keats
     sq: A. John Keats
     sr: Џон Китс
-    sr-ec: Џон Китс
-    sr-el: John Keats
+    sr_ec: Џон Китс
+    sr_el: John Keats
     sv: John Keats
     sw: John Keats
     ta: ஜோன் கீற்ஸ்
@@ -261,8 +261,8 @@ dv_has_:
     yue: 濟慈
     za: John Keats
     zh: 约翰·济慈
-    zh-cn: 约翰·济慈
-    zh-hans: 约翰·济慈
+    zh_cn: 约翰·济慈
+    zh_hans: 约翰·济慈
     zu: John Keats
 ---
 # [[Keats,John]]

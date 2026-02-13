@@ -79,7 +79,7 @@ dv_has_:
     ast: impeachment
     az: impiçment
     be: імпічмент
-    be-tarask: імпічмэнт
+    be_tarask: імпічмэнт
     bg: импийчмънт
     bho: महाभियोग
     bn: অভিশংসন
@@ -89,11 +89,11 @@ dv_has_:
     cy: uchelgyhuddiad
     da: rigsret
     de: Amtsenthebungsverfahren
-    de-ch: Amtsenthebungsverfahren
+    de_ch: Amtsenthebungsverfahren
     el: διαδικασία μομφής
     en: impeachment
-    en-ca: Impeachment
-    en-gb: impeachment
+    en_ca: Impeachment
+    en_gb: impeachment
     eo: elpostenigo
     es: proceso de destitución
     et: impeachment
@@ -135,13 +135,13 @@ dv_has_:
     pnb: مواخذہ
     ps: استیضاح
     pt: impeachment
-    pt-br: impeachment
+    pt_br: impeachment
     ro: impeachment
     ru: импичмент
     sh: opoziv
     sl: ustavna obtožba
     sr: импичмент
-    sr-ec: импичмент
+    sr_ec: импичмент
     sv: riksrätt
     th: การฟ้องให้ขับออกจากตำแหน่ง
     tl: pagsasakdal
@@ -154,8 +154,8 @@ dv_has_:
     wuu: 弹劾
     yue: 彈劾
     zh: 弹劾
-    zh-hans: 弹劾
-    zh-hant: 彈劾
+    zh_hans: 弹劾
+    zh_hant: 彈劾
 ---
 # [[Impeachment]] 
 

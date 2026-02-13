@@ -97,7 +97,7 @@ dv_has_:
     ast: obsidiana
     az: obsidian
     be: Абсідыян
-    be-tarask: абсыдыян
+    be_tarask: абсыдыян
     bg: Обсидиан
     ca: obsidiana
     ckb: ئابسیدیەن
@@ -105,11 +105,11 @@ dv_has_:
     cs: obsidián
     da: Obsidian
     de: Obsidian
-    de-ch: Obsidian
+    de_ch: Obsidian
     el: Οψιανός
     en: obsidian
-    en-ca: obsidian
-    en-gb: obsidian
+    en_ca: obsidian
+    en_gb: obsidian
     eo: obsidiano
     es: obsidiana
     et: obsidiaan
@@ -152,7 +152,7 @@ dv_has_:
     pnb: اوبسیڈین
     ps: ابسيډين
     pt: obsidiana
-    pt-br: obsidiana
+    pt_br: obsidiana
     qu: Q'ispi rumi
     ro: obsidian
     ru: обсидиан

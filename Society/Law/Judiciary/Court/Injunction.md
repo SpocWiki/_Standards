@@ -45,15 +45,15 @@ dv_has_:
   name_:
     ar: أمر قضائي
     ast: Midida cautelar
-    be-tarask: судовая забарона
+    be_tarask: судовая забарона
     ca: mesura cautelar
     da: påbud
     de: Verfügung
-    de-ch: Verfügung
+    de_ch: Verfügung
     el: Ασφαλιστικά μέτρα
     en: injunction
-    en-ca: Injunction
-    en-gb: injunction
+    en_ca: Injunction
+    en_gb: injunction
     es: medida cautelar
     eu: kautela-neurri
     fa: حکم قضایی
@@ -68,7 +68,7 @@ dv_has_:
     ko: 금지명령
     nb: forføyning
     pt: processo cautelar
-    pt-br: Processo cautelar
+    pt_br: Processo cautelar
     ru: судебный запрет
     sl: sodna prepoved
     so: Dacaree

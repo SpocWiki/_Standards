@@ -142,7 +142,7 @@ dv_has_:
     ban: Zébra
     bcl: Zebra
     be: зебра
-    be-tarask: зэбра
+    be_tarask: зэбра
     bg: зебра
     bn: জেব্রা
     bo: རྐྱང་ཁྲ།
@@ -159,14 +159,14 @@ dv_has_:
     cy: sebra
     da: zebra
     de: Zebras
-    de-ch: zebra
+    de_ch: zebra
     dga: Mɔwiri
     diq: zebra
     ee: Zibra
     el: Ζέβρα
     en: zebra
-    en-ca: zebra
-    en-gb: zebra
+    en_ca: zebra
+    en_gb: zebra
     eo: zebro
     es: cebra
     et: sebrad
@@ -245,7 +245,7 @@ dv_has_:
     pl: zebra
     pnb: زیبرا
     pt: zebra
-    pt-br: zebra
+    pt_br: zebra
     qu: siwra
     ro: zebră
     ru: зебра
@@ -265,7 +265,7 @@ dv_has_:
     so: Dameer farow
     sq: zebra
     sr: зебра
-    sr-ec: Зебра
+    sr_ec: Зебра
     su: zébra
     sv: zebror
     sw: punda milia
@@ -295,7 +295,7 @@ dv_has_:
     yo: Kẹ́tẹ́kẹ́tẹ́ abilà
     yue: 斑馬
     zh: 斑馬
-    zh-hant: 斑馬
+    zh_hant: 斑馬
     zu: Idube
 ---
 # [[Zebra]] 🦓 

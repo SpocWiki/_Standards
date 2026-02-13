@@ -107,7 +107,7 @@ dv_has_:
     arz: حركة هارى كريشنا
     ast: Asociación Internacional pa la Conciencia de Krishna
     be: Міжнароднае таварыства свядомасці Крышны
-    be-tarask: Міжнароднае таварыства сьвядомасьці Крышны
+    be_tarask: Міжнароднае таварыства сьвядомасьці Крышны
     bg: Международно общество за Кришна-съзнание
     bn: আন্তর্জাতিক কৃষ্ণভাবনামৃত সংঘ
     br: ISKCON
@@ -157,8 +157,8 @@ dv_has_:
     sk: Medzinárodná spoločnosť pre Krišnovo vedomie
     sl: Hare Krišna
     sr: Харе Кришна
-    sr-ec: Харе Кришна
-    sr-el: Hare Krišna
+    sr_ec: Харе Кришна
+    sr_el: Hare Krišna
     sv: Hare Krishna
     ta: அகில உலக கிருஷ்ண பக்திக் கழகம்
     te: అంతర్జాతీయ కృష్ణ చైతన్య సంఘం
@@ -171,7 +171,7 @@ dv_has_:
     wuu: 国际奎师那知觉协会
     yue: 國際奎師那知覺協會
     zh: 国际奎师那知觉协会
-    zh-tw: 國際奎師那知覺協會
+    zh_tw: 國際奎師那知覺協會
 ---
 # [[International_Society_for_Krishna_Consciousness]]   
 

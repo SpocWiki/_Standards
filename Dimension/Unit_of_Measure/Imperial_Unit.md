@@ -76,7 +76,7 @@ Commons_category: British Imperial units
 dv_has_:
   name_:
     ar: وحدات إمبراطورية
-    be-tarask: імпэрская сыстэма адзінак
+    be_tarask: імпэрская сыстэма адзінак
     bg: Имперска единица
     ca: Sistema Imperial d'Unitats
     ckb: یەکە ئیمپراتۆرییەکان
@@ -131,7 +131,7 @@ dv_has_:
     war: Yunit Imperyal
     yue: 英制單位
     zh: 英制單位
-    zh-hant: 英制單位
+    zh_hant: 英制單位
 ---
 # [[Imperial_Unit]] 
 

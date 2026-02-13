@@ -38,7 +38,7 @@ dv_has_:
     oc: Dissorophoidea
     pl: Dissorophoidea
     pt: Dissorophoidea
-    pt-br: Dissorophoidea
+    pt_br: Dissorophoidea
     ro: Dissorophoidea
     ru: Диссорофоиды
     sq: Dissorophoidea
@@ -48,9 +48,9 @@ dv_has_:
     vo: Dissorophoidea
     war: Dissorophoidea
     zh: 双顶螈总科
-    zh-cn: 双顶螈总科
-    zh-hans: 双顶螈总科
-    zh-tw: 雙頂螈總科
+    zh_cn: 双顶螈总科
+    zh_hans: 双顶螈总科
+    zh_tw: 雙頂螈總科
 ---
 # [[Dissorophoidea]] 
 [Bolt 1969]

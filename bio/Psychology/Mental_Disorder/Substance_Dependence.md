@@ -8,14 +8,14 @@ dv_has_:
     arz: ادمان المخدرات
     az: narkomaniya
     be: наркаманія
-    be-tarask: нарказалежнасьць
+    be_tarask: нарказалежнасьць
     bg: Наркомания
     bn: মাদক নির্ভরতা
     ca: drogoaddicció
     cs: drogová závislost
     da: narkomani
     de: Abhängigkeitssyndrom durch psychotrope Substanzen
-    de-ch: Abhängigkeitssyndrom durch psychotrope Substanzen
+    de_ch: Abhängigkeitssyndrom durch psychotrope Substanzen
     el: Τοξικομανία
     en: substance dependence
     eo: droga dependeco
@@ -48,7 +48,7 @@ dv_has_:
     os: Наркомани
     pl: narkomania
     pt: toxicodependência
-    pt-br: drogadição
+    pt_br: drogadição
     ro: narcomanie
     ru: наркомания
     sh: narkomanija
@@ -56,7 +56,7 @@ dv_has_:
     so: Qabatinka daroogada
     sq: varësia nga substancat
     sr: наркоманија
-    sr-ec: наркоманија
+    sr_ec: наркоманија
     sv: drogmissbruk
     tl: drugadiksyon
     tr: Madde bağımlılığı
@@ -66,7 +66,7 @@ dv_has_:
     xmf: ნარკომანია
     yue: 物質成癮
     zh: 物質依賴
-    zh-hant: 物質依賴
+    zh_hant: 物質依賴
 aliases:
 - Abhängigkeitssyndrom durch psychotrope Substanzen
 - andúil i ndrugaí

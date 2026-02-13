@@ -104,7 +104,7 @@ dv_has_:
     ast: estratigrafía
     az: stratiqrafiya
     be: стратыграфія
-    be-tarask: стратыграфія
+    be_tarask: стратыграфія
     bg: стратиграфия
     bs: stratigrafija
     ca: estratigrafia
@@ -116,8 +116,8 @@ dv_has_:
     de: Stratigraphie
     el: στρωματογραφία
     en: stratigraphy
-    en-ca: stratigraphy
-    en-gb: stratigraphy
+    en_ca: stratigraphy
+    en_gb: stratigraphy
     eo: stratigrafio
     es: estratigrafía
     et: stratigraafia
@@ -138,11 +138,11 @@ dv_has_:
     ja: 層序学
     ka: სტრატიგრაფია
     kk: стратиграфия
-    kk-arab: ستراتىيگرافىييا
+    kk_arab: ستراتىيگرافىييا
     kk-cn: ستراتىيگرافىييا
-    kk-cyrl: стратиграфия
+    kk_cyrl: стратиграфия
     kk-kz: стратиграфия
-    kk-latn: stratïgrafïya
+    kk_latn: stratïgrafïya
     kk-tr: stratïgrafïya
     ko: 층서학
     la: stratigraphia geologica
@@ -159,7 +159,7 @@ dv_has_:
     pl: stratygrafia
     pnb: سٹریٹیگرافی
     pt: estratigrafia
-    pt-br: estratigrafia
+    pt_br: estratigrafia
     ro: stratigrafie
     ru: стратиграфия
     rue: стратиграфия
@@ -170,8 +170,8 @@ dv_has_:
     so: istaratigaraafi
     sq: stratigrafia
     sr: стратиграфија
-    sr-ec: стратиграфија
-    sr-el: stratigrafija
+    sr_ec: стратиграфија
+    sr_el: stratigrafija
     stq: Stratigraphie
     sv: stratigrafi
     ta: பாறைப்படிவியல்
@@ -187,12 +187,12 @@ dv_has_:
     wuu: 地层学
     yue: 地層學
     zh: 地层学
-    zh-cn: 地层学
-    zh-hans: 地层学
-    zh-hant: 地層學
-    zh-hk: 地層學
-    zh-sg: 地层学
-    zh-tw: 地層學
+    zh_cn: 地层学
+    zh_hans: 地层学
+    zh_hant: 地層學
+    zh_hk: 地層學
+    zh_sg: 地层学
+    zh_tw: 地層學
 ---
 # [[Stratigraphy]] 
 

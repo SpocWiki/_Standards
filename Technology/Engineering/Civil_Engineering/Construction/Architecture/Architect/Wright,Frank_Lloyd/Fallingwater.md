@@ -87,7 +87,7 @@ dv_has_:
     ast: Casa de la catarata
     ba: Шарлауыҡ өҫтөндәге йорт
     ban: Fallingwater
-    be-tarask: Фолінгўотэр
+    be_tarask: Фолінгўотэр
     bg: Къща над водопада
     bn: ফলিংওয়াটার
     ca: Casa de la Cascada
@@ -127,7 +127,7 @@ dv_has_:
     pl: Fallingwater
     pnb: فالنگواٹر
     pt: Casa da Cascata
-    pt-br: Casa da cascata
+    pt_br: Casa da cascata
     ro: Vila Kaufmann
     ru: Дом над водопадом
     sco: Fallingwater
@@ -144,12 +144,12 @@ dv_has_:
     war: Fallingwater
     yue: 落水山莊
     zh: 落水山莊
-    zh-cn: 落水山庄
-    zh-hans: 落水山庄
-    zh-hant: 落水山莊
-    zh-hk: 落水山莊
-    zh-sg: 落水山庄
-    zh-tw: 落水山莊
+    zh_cn: 落水山庄
+    zh_hans: 落水山庄
+    zh_hant: 落水山莊
+    zh_hk: 落水山莊
+    zh_sg: 落水山庄
+    zh_tw: 落水山莊
 ---
 # [[Fallingwater]]  
 

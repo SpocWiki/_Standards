@@ -65,14 +65,14 @@ dv_has_:
     az: soul
     bar: Soul
     be: соўл
-    be-tarask: соўл
+    be_tarask: соўл
     bg: соул
     bn: সোল সঙ্গীত
     bs: Soul music
     ca: soul
     ckb: مۆسیقای سۆڵ
     crh: Soul
-    crh-latn: Soul
+    crh_latn: Soul
     cs: soul
     cy: cerddoriaeth yr enaid
     da: soul
@@ -105,7 +105,7 @@ dv_has_:
     ka: სოული
     ko: 솔 음악
     ku: soul
-    ku-latn: soul
+    ku_latn: soul
     kw: ilow enev
     la: Musica pectoralis
     lb: Soul
@@ -126,7 +126,7 @@ dv_has_:
     pl: soul
     pnb: سول موسیقی
     pt: soul
-    pt-br: soul
+    pt_br: soul
     ro: soul
     ru: соул
     se: soul
@@ -137,8 +137,8 @@ dv_has_:
     sms: soul
     sq: muzike soul
     sr: соул
-    sr-ec: соул
-    sr-el: soul
+    sr_ec: соул
+    sr_el: soul
     sv: soulmusik
     ta: உள்ளுணர்வு இசை
     th: โซล
@@ -152,12 +152,12 @@ dv_has_:
     yo: Orin Soul
     yue: 靈魂樂
     zh: 靈魂樂
-    zh-cn: 灵魂乐
-    zh-hans: 灵魂乐
-    zh-hant: 靈魂樂
-    zh-hk: 靈魂樂
-    zh-sg: 灵魂乐
-    zh-tw: 靈魂樂
+    zh_cn: 灵魂乐
+    zh_hans: 灵魂乐
+    zh_hant: 靈魂樂
+    zh_hk: 靈魂樂
+    zh_sg: 灵魂乐
+    zh_tw: 靈魂樂
 ---
 # [[Soul_Music]] 
 

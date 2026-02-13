@@ -116,7 +116,7 @@ dv_has_:
     az: Yüz ilin tənhalığı
     azb: یوز ایللیک یالنیزلیق
     be: Сто гадоў адзіноты
-    be-tarask: Сто гадоў адзіноты
+    be_tarask: Сто гадоў адзіноты
     bg: Сто години самота
     bjn: Saratus Tahun Kasunyian (novel)
     bn: নিঃসঙ্গতার একশ বছর
@@ -126,11 +126,11 @@ dv_has_:
     cs: Sto roků samoty
     da: Hundrede års ensomhed
     de: Hundert Jahre Einsamkeit
-    de-ch: Hundert Jahre Einsamkeit
+    de_ch: Hundert Jahre Einsamkeit
     el: Εκατό Χρόνια Μοναξιά
     en: One Hundred Years of Solitude
-    en-ca: One Hundred Years of Solitude
-    en-gb: One Hundred Years of Solitude
+    en_ca: One Hundred Years of Solitude
+    en_gb: One Hundred Years of Solitude
     eo: Cent jaroj da soleco
     es: Cien años de soledad
     et: Sada aastat üksildust
@@ -173,7 +173,7 @@ dv_has_:
     pl: Sto lat samotności
     pnb: اکلاپے دے سو سال
     pt: Cem Anos de Solidão
-    pt-br: Cem Anos de Solidão
+    pt_br: Cem Anos de Solidão
     qu: Cien años de soledad
     ro: Un veac de singurătate
     ru: Сто лет одиночества
@@ -187,8 +187,8 @@ dv_has_:
     smn: Ihečyeđe ohtuuvuotâ
     sq: Njëqind vjet vetmi
     sr: Сто година самоће
-    sr-ec: Сто година самоће
-    sr-el: Sto godina samoće
+    sr_ec: Сто година самоће
+    sr_el: Sto godina samoće
     su: One Hundred Years of Solitude
     sv: Hundra år av ensamhet
     ta: தனிமையின் நூறு ஆண்டுகள்
@@ -204,12 +204,12 @@ dv_has_:
     xmf: ხვალახობაშ ოში წანმოწანა
     yue: 百年孤寂
     zh: 百年孤独
-    zh-cn: 百年孤独
-    zh-hans: 百年孤独
-    zh-hant: 百年孤寂
-    zh-hk: 百年孤寂
-    zh-sg: 百年孤独
-    zh-tw: 百年孤寂
+    zh_cn: 百年孤独
+    zh_hans: 百年孤独
+    zh_hant: 百年孤寂
+    zh_hk: 百年孤寂
+    zh_sg: 百年孤独
+    zh_tw: 百年孤寂
 ---
 # [[One_Hundred_Years_of_Solitude]] 
 

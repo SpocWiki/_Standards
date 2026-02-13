@@ -210,7 +210,7 @@ dv_has_:
     ba: Күҙәнәк
     bcl: Selula
     be: клетка
-    be-tarask: вуза
+    be_tarask: вуза
     bg: Клетка
     bho: कोष
     blk: သဲလ်
@@ -283,7 +283,7 @@ dv_has_:
     ko: 세포
     ks: سؠل
     ku: xane
-    ku-latn: xane
+    ku_latn: xane
     kw: Kell
     ky: клетка
     la: Cellula
@@ -308,7 +308,7 @@ dv_has_:
     mn: Эс
     mr: पेशी
     ms: sel
-    ms-arab: سيل
+    ms_arab: سيل
     my: ကလာပ်စည်း
     myv: Човэриця
     mzn: سلول
@@ -333,7 +333,7 @@ dv_has_:
     pnb: خلیہ
     ps: ژونکه
     pt: célula
-    pt-br: célula
+    pt_br: célula
     qu: Kawsaykuq
     rki: ဆဲလ်
     ro: Celulă
@@ -359,8 +359,8 @@ dv_has_:
     so: Unug
     sq: qelizë
     sr: ћелија
-    sr-ec: ћелија
-    sr-el: ćelija
+    sr_ec: ћелија
+    sr_el: ćelija
     stq: Sälle
     su: Sél
     sv: cell
@@ -376,7 +376,7 @@ dv_has_:
     tpi: Sel
     tr: hücre
     tt: күзәнәк
-    tt-cyrl: күзәнәк
+    tt_cyrl: күзәнәк
     udm: лулпыры
     uk: клітина
     ur: خلیہ
@@ -395,10 +395,10 @@ dv_has_:
     za: Sibau
     zgh: ⵜⴰⵖⵔⴰⵙⵜ
     zh: 细胞
-    zh-cn: 细胞
-    zh-hant: 細胞
-    zh-hk: 細胞
-    zh-tw: 細胞
+    zh_cn: 细胞
+    zh_hant: 細胞
+    zh_hk: 細胞
+    zh_tw: 細胞
     zu: Amasosha Omzimba
 ---
 # [[Cell(Biology)]] 

@@ -185,7 +185,7 @@ dv_has_:
     ast: Donatello
     az: Donatello
     be: Данатэла
-    be-tarask: Данатэльлё
+    be_tarask: Данатэльлё
     bg: Донатело
     bn: দোনাতেল্লো
     br: Donatello
@@ -198,8 +198,8 @@ dv_has_:
     de: Donatello
     el: Ντονατέλλο
     en: Donatello
-    en-ca: Donatello
-    en-gb: Donatello
+    en_ca: Donatello
+    en_gb: Donatello
     eo: Donatello
     es: Donatello
     et: Donatello
@@ -252,7 +252,7 @@ dv_has_:
     pl: Donatello
     pms: Donatello
     pt: Donatello
-    pt-br: Donatello
+    pt_br: Donatello
     ro: Donatello
     roa-tara: Donatelle
     ru: Донателло
@@ -283,7 +283,7 @@ dv_has_:
     yi: דאנאטעלא
     yue: 多那太羅
     zh: 多那太羅
-    zh-hant: 多那太羅
+    zh_hant: 多那太羅
 ---
 # [[Donatello]] 
 

@@ -121,7 +121,7 @@ dv_has_:
     az: şalğam
     azb: شلغم
     be: турнэпс
-    be-tarask: турнэпс
+    be_tarask: турнэпс
     bg: ряпа
     bho: शलजम
     bn: শালগম
@@ -135,11 +135,11 @@ dv_has_:
     cy: erfinen
     da: majroe
     de: Speiserübe
-    de-ch: Speiserübe
+    de_ch: Speiserübe
     el: ρέβα
     en: turnip
-    en-ca: turnip
-    en-gb: turnip
+    en_ca: turnip
+    en_gb: turnip
     eo: Rapo
     es: nabo
     et: naeris
@@ -190,7 +190,7 @@ dv_has_:
     pl: rzepa
     pnb: گونگلو
     pt: nabo
-    pt-br: nabo
+    pt_br: nabo
     ro: nap
     ru: репа
     sco: Neep
@@ -217,8 +217,8 @@ dv_has_:
     yi: ברוקווע
     yue: 蕪菁
     zh: 芜菁
-    zh-hans: 芜菁
-    zh-hant: 蕪菁
+    zh_hans: 芜菁
+    zh_hant: 蕪菁
 ---
 # [[Turnip]]
 

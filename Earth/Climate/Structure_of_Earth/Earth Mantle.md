@@ -112,7 +112,7 @@ dv_has_:
     ast: Mantu terrestre
     az: Mantiya
     be: мантыя Зямлі
-    be-tarask: мантыя Зямлі
+    be_tarask: мантыя Зямлі
     bg: Земна мантия
     bho: मैंटल
     bs: Zemljin plašt
@@ -147,11 +147,11 @@ dv_has_:
     jam: Mangkl
     ka: დედამიწის მანტია
     kk: Мантия
-    kk-arab: مانتىييا
+    kk_arab: مانتىييا
     kk-cn: مانتىييا
-    kk-cyrl: Мантия
+    kk_cyrl: Мантия
     kk-kz: Мантия
-    kk-latn: Mantïya
+    kk_latn: Mantïya
     kk-tr: Mantïya
     ko: 맨틀
     li: Aerdmantjel
@@ -180,8 +180,8 @@ dv_has_:
     sk: Zemský plášť
     sl: Zemljin plašč
     sr: мантл
-    sr-ec: мантл
-    sr-el: mantl
+    sr_ec: мантл
+    sr_el: mantl
     sv: Manteln
     ta: மூடகம்
     th: เนื้อโลก
@@ -196,12 +196,12 @@ dv_has_:
     wuu: 地幔
     yue: 地幔
     zh: 地幔
-    zh-cn: 地幔
-    zh-hans: 地幔
-    zh-hant: 地函
-    zh-hk: 地幔
-    zh-sg: 地幔
-    zh-tw: 地函
+    zh_cn: 地幔
+    zh_hans: 地幔
+    zh_hant: 地函
+    zh_hk: 地幔
+    zh_sg: 地幔
+    zh_tw: 地函
 ---
 # [[Earth Mantle]] 
 

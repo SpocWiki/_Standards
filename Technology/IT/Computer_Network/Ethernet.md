@@ -78,7 +78,7 @@ dv_has_:
     ar: إيثرنت
     ast: Ethernet
     az: Ethernet
-    be-tarask: Ethernet
+    be_tarask: Ethernet
     bg: Етернет
     bn: ইথারনেট
     br: Ethernet
@@ -131,7 +131,7 @@ dv_has_:
     pl: Ethernet
     ps: اېترنټ
     pt: Ethernet
-    pt-br: Ethernet
+    pt_br: Ethernet
     ro: Ethernet
     sco: Ethernet
     sh: Ethernet
@@ -146,7 +146,7 @@ dv_has_:
     tl: Ethernet
     tr: Ethernet
     tt: Ethernet
-    tt-cyrl: Ethernet
+    tt_cyrl: Ethernet
     ur: اثیرجال
     uz: Ethernet
     vi: Ethernet
@@ -155,11 +155,11 @@ dv_has_:
     yi: Ethernet
     yue: 乙太網
     zh: 以太网
-    zh-cn: 以太网
-    zh-hans: 以太网
-    zh-hant: 乙太網路
-    zh-hk: 乙太網路
-    zh-tw: 乙太網路
+    zh_cn: 以太网
+    zh_hans: 以太网
+    zh_hant: 乙太網路
+    zh_hk: 乙太網路
+    zh_tw: 乙太網路
 ---
 # [[Ethernet]] 
 

@@ -201,7 +201,7 @@ dv_has_:
     bar: Ozeanien
     bbc: Oseania
     be: Аўстралія і Акіянія
-    be-tarask: Акіянія
+    be_tarask: Акіянія
     bew: Oséani
     bg: Океания
     bi: Osenia
@@ -211,13 +211,13 @@ dv_has_:
     bs: Okeanija
     btm: Oseania
     ca: Oceania
-    cbk-zam: Oceania
+    cbk_zam: Oceania
     cdo: Dâi-iòng-ciŭ
     ce: Океани
     ckb: ئۆقیانووسیا
     co: Oceania
     crh: Okeaniya
-    crh-latn: Okeaniya
+    crh_latn: Okeaniya
     cs: Oceánie
     cu: Ѡкєанїꙗ и Аѵстралїꙗ
     cy: Oceania
@@ -227,8 +227,8 @@ dv_has_:
     dtp: Oceania
     el: Ωκεανία
     en: Oceania
-    en-ca: Oceania
-    en-gb: Oceania
+    en_ca: Oceania
+    en_gb: Oceania
     eo: Oceanio
     es: Oceanía
     et: Okeaania ja Austraalia
@@ -293,7 +293,7 @@ dv_has_:
     nan: Tāi-iûⁿ-chiu
     nb: Oseania
     nds: Australien un Ozeanien
-    nds-nl: Oceanië
+    nds_nl: Oceanië
     nl: Oceanië
     nn: Oseania
     nqo: ߏߛߑߕߙߊߟߌ߫ ߣߌ߫ ߏߛߌߦߊߣߌ߫
@@ -336,8 +336,8 @@ dv_has_:
     tly: Avstraliyə de Okeaniyə
     tr: Okyanusya
     tt: Океанлык һәм Австралия
-    tt-cyrl: Океанлык һәм Австралия
-    tt-latn: Okeanlıq häm Avstraliä
+    tt_cyrl: Океанлык һәм Австралия
+    tt_latn: Okeanlıq häm Avstraliä
     udm: Океания
     uk: Океанія i Австралія
     ur: آسٹریلیا اور اوقیانوسیہ
@@ -351,10 +351,10 @@ dv_has_:
     zea: Oceanië
     zgh: ⵓⵇⵢⴰⵏⵓⵙⵢⴰ
     zh: 大洋洲
-    zh-hans: 大洋洲
-    zh-hant: 大洋洲
-    zh-hk: 大洋洲
-    zh-tw: 大洋洲
+    zh_hans: 大洋洲
+    zh_hant: 大洋洲
+    zh_hk: 大洋洲
+    zh_tw: 大洋洲
   url_for_:
     code_repository: https://github.com/SpocWiki/Oceania
 dv_is_:

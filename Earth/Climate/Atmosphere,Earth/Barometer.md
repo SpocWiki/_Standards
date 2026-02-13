@@ -106,7 +106,7 @@ dv_has_:
     ast: barómetru
     az: barometr
     be: барометр
-    be-tarask: баромэтар
+    be_tarask: баромэтар
     bg: барометър
     bn: ব্যারোমিটার
     bs: barometar
@@ -163,7 +163,7 @@ dv_has_:
     pnb: بیرومیٹر
     ps: بارومتر/فشار سنجونکې آله
     pt: barómetro
-    pt-br: barômetro
+    pt_br: barômetro
     ro: barometru
     ru: барометр
     se: baromehter

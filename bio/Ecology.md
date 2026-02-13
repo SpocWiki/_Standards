@@ -199,7 +199,7 @@ dv_has_:
     bar: Ekologie
     bcl: ekolohiya
     be: экалогія
-    be-tarask: экалёгія
+    be_tarask: экалёгія
     bg: екология
     bho: इकोलॉजी
     blk: ဂေဟဗေဒ
@@ -222,13 +222,13 @@ dv_has_:
     cy: ecoleg
     da: økologi
     de: Ökologie
-    de-ch: Ökologie
+    de_ch: Ökologie
     diq: ekolociye
     dv: އިކޮލޮޖީ
     el: οικολογία
     en: ecology
-    en-ca: ecology
-    en-gb: ecology
+    en_ca: ecology
+    en_gb: ecology
     eo: ekologio
     es: ecología
     et: ökoloogia
@@ -280,7 +280,7 @@ dv_has_:
     knc: Ecology
     ko: 생태학
     ku: ekolojî
-    ku-latn: jîngehzanî
+    ku_latn: jîngehzanî
     kw: ekologieth
     ky: экология
     la: oecologia
@@ -305,14 +305,14 @@ dv_has_:
     ml: പരിതഃസ്ഥിതിക ശാസ്ത്രം
     mn: экологи
     ms: kaji alam hayat
-    ms-arab: ايکولوݢي
+    ms_arab: ايکولوݢي
     mt: ekoloġija
     my: ဂေဟဗေဒ
     nan: seng-thài-ha̍k
     nan-hant: 生態學
     nb: økologi
     nds: Ökologie
-    nds-nl: ekology
+    nds_nl: ekology
     ne: इकोलोजी
     new: इकोलोजी
     nl: ecologie
@@ -331,7 +331,7 @@ dv_has_:
     pnb: ایکالوجی
     ps: چاپېريالپوهنه
     pt: ecologia
-    pt-br: ecologia
+    pt_br: ecologia
     qu: kawsay pacha yachay
     rki: ဂေဟဗေဒ
     ro: ecologie
@@ -357,8 +357,8 @@ dv_has_:
     sn: uronzanhanga
     sq: ekologji
     sr: eкологија
-    sr-ec: eкологија
-    sr-el: ekologija
+    sr_ec: eкологија
+    sr_el: ekologija
     su: ékologi
     sv: ekologi
     sw: ekolojia
@@ -388,9 +388,9 @@ dv_has_:
     yi: עקאלאגיע
     yue: 生態學
     zh: 生态学
-    zh-cn: 生态学
-    zh-hans: 生态学
-    zh-hant: 生態學
+    zh_cn: 生态学
+    zh_hans: 生态学
+    zh_hant: 生態學
 ---
 # [[Ecology]] 
 

@@ -152,7 +152,7 @@ dv_has_:
     bar: Zheng He
     bcl: Zheng He
     be: Чжэн Хэ
-    be-tarask: Чжэн Хэ
+    be_tarask: Чжэн Хэ
     bg: Джън Хъ
     bn: চেং হো
     br: Zheng He
@@ -172,8 +172,8 @@ dv_has_:
     diq: Zheng He
     el: Τσενκ Χι
     en: Zheng He
-    en-ca: Zheng He
-    en-gb: Zheng He
+    en_ca: Zheng He
+    en_gb: Zheng He
     en-us: Zheng He
     eo: Ĉeng He
     es: Zheng He
@@ -224,7 +224,7 @@ dv_has_:
     lv: Džens He
     lzh: 鄭和
     mad: Cheng Ho
-    map-bms: Cheng Ho
+    map_bms: Cheng Ho
     mg: Zheng He
     min: Zheng He
     mk: Џенг Хе
@@ -249,7 +249,7 @@ dv_has_:
     pms: Zheng He
     pnb: ینگ ہی
     pt: Zheng He
-    pt-br: Zheng He
+    pt_br: Zheng He
     qu: Ch'en Huw
     ro: Zheng He
     roa-tara: Zheng He
@@ -287,14 +287,14 @@ dv_has_:
     yue: 鄭和
     za: Cwng Hoz
     zh: 鄭和
-    zh-cn: 郑和
-    zh-hans: 郑和
-    zh-hant: 鄭和
-    zh-hk: 鄭和
-    zh-mo: 鄭和
+    zh_cn: 郑和
+    zh_hans: 郑和
+    zh_hant: 鄭和
+    zh_hk: 鄭和
+    zh_mo: 鄭和
     zh-my: 郑和
-    zh-sg: 郑和
-    zh-tw: 鄭和
+    zh_sg: 郑和
+    zh_tw: 鄭和
 ---
 ---
 aliases:

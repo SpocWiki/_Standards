@@ -4,7 +4,7 @@ dv_has_:
     ab: Лаос
     ace: Laos
     ady: Лаос
-    aeb-arab: لاوس
+    aeb_arab: لاوس
     af: Laos
     am: ላዎስ
     ami: Laos
@@ -26,7 +26,7 @@ dv_has_:
     bar: Laos
     bcl: Laos
     be: Лаос
-    be-tarask: Лаос
+    be_tarask: Лаос
     bew: Laos
     bg: Лаос
     bho: लाओस
@@ -41,14 +41,14 @@ dv_has_:
     bug: ᨒᨕᨚ
     bxr: Лаос
     ca: Laos
-    cbk-zam: Laos
+    cbk_zam: Laos
     cdo: Lō̤-kuŏ
     ce: Лаос
     ceb: Kalawán
     ckb: لاوس
     co: Laos
     crh: Laos
-    crh-latn: Laos
+    crh_latn: Laos
     cs: Laos
     csb: Laòs
     cv: Лаос
@@ -57,7 +57,7 @@ dv_has_:
     dag: Laos
     de: Laos
     de-at: Laos
-    de-ch: Laos
+    de_ch: Laos
     diq: Laos
     dsb: Laos
     dtp: Laos
@@ -66,8 +66,8 @@ dv_has_:
     ee: Laos
     el: Λάος
     en: Laos
-    en-ca: Laos
-    en-gb: Laos
+    en_ca: Laos
+    en_gb: Laos
     eo: Laoso
     es: Laos
     et: Laos
@@ -92,7 +92,7 @@ dv_has_:
     gn: Láo
     gom: लाओस
     gom-deva: लाओस
-    gom-latn: Laos
+    gom_latn: Laos
     gpe: Laos
     gsw: Laos
     gu: લાઓસ
@@ -157,7 +157,7 @@ dv_has_:
     lzh: 老撾
     mad: Laos
     mai: लाओस
-    map-bms: Laos
+    map_bms: Laos
     mdf: Лаос
     mg: Laôsa
     mhr: Лаос
@@ -179,7 +179,7 @@ dv_has_:
     nap: Laos
     nb: Laos
     nds: Laos
-    nds-nl: Laos
+    nds_nl: Laos
     ne: लाओस
     new: लाओस
     nia: Laos
@@ -205,7 +205,7 @@ dv_has_:
     pnb: لاؤس
     ps: لاوس
     pt: Laos
-    pt-br: Laos
+    pt_br: Laos
     qu: Law suyu
     rki: လာအို ပြည်သူ့ဒီမိုကရက်တစ်သမ္မတနိုင်ငံတော်
     rm: Laos
@@ -236,8 +236,8 @@ dv_has_:
     so: Laos
     sq: Laosi
     sr: Лаос
-    sr-ec: Лаос
-    sr-el: Laos
+    sr_ec: Лаос
+    sr_el: Laos
     ss: ILawoso
     su: Laos
     sv: Laos
@@ -286,14 +286,14 @@ dv_has_:
     za: Lao
     zea: Laos
     zh: 老撾
-    zh-cn: 老挝
-    zh-hans: 老挝
-    zh-hant: 寮國
-    zh-hk: 老撾
-    zh-mo: 老撾
+    zh_cn: 老挝
+    zh_hans: 老挝
+    zh_hant: 寮國
+    zh_hk: 老撾
+    zh_mo: 老撾
     zh-my: 寮国
-    zh-sg: 寮国
-    zh-tw: 寮國
+    zh_sg: 寮国
+    zh_tw: 寮國
     zu: i-Laos
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Laos

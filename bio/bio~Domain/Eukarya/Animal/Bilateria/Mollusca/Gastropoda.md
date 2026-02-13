@@ -97,7 +97,7 @@ dv_has_:
     ban: Gastropoda
     bar: Schneckn
     be: бруханогія малюскі
-    be-tarask: чэраваногія
+    be_tarask: чэраваногія
     bg: коремоноги
     bjn: Gondang
     bn: উদরপদী
@@ -112,11 +112,11 @@ dv_has_:
     da: snegl
     de: Schnecken
     de-at: Gastropoda
-    de-ch: Schnecken
+    de_ch: Schnecken
     el: Γαστερόποδα
     en: Gastropoda
-    en-ca: Gastropoda
-    en-gb: Gastropoda
+    en_ca: Gastropoda
+    en_gb: Gastropoda
     eo: Gastropodoj
     es: gastrópodos
     et: Teod
@@ -175,7 +175,7 @@ dv_has_:
     nap: Gastropoda
     nb: snegler
     nds: Gastropoda
-    nds-nl: slekke
+    nds_nl: slekke
     nl: slakken
     nn: sniglar
     nrm: Gastropoda
@@ -190,7 +190,7 @@ dv_has_:
     pl: brzuchonogi
     pms: Gastropoda
     pt: Gastrópodes
-    pt-br: Gastrópodes
+    pt_br: Gastrópodes
     qu: Wiksachaki
     rm: Gastropoda
     ro: Gastropoda
@@ -203,7 +203,7 @@ dv_has_:
     sl: polži
     sq: Kërmilli
     sr: пужеви
-    sr-ec: пужеви
+    sr_ec: пужеви
     sv: snäckor
     sw: Gastropoda
     ta: குடற்காலி
@@ -226,9 +226,9 @@ dv_has_:
     yi: פוילע רוילע
     yue: 腹足綱
     zh: 腹足纲
-    zh-cn: 腹足纲
-    zh-hans: 腹足纲
-    zh-tw: 腹足綱
+    zh_cn: 腹足纲
+    zh_hans: 腹足纲
+    zh_tw: 腹足綱
     zu: Gastropoda
 ---
 ## Phylogeny 

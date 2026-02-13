@@ -26,7 +26,7 @@ dv_has_:
     ar: أخطبوطيات الشكل
     arz: اخطبوطيات الشكل
     ast: Vampyropoda
-    be-tarask: Octopodiformes
+    be_tarask: Octopodiformes
     bg: Vampyropoda
     ca: Octopodiforme
     ceb: Octopodiformes
@@ -62,7 +62,7 @@ dv_has_:
     oc: Octopodiformes
     pl: Octopodiformes
     pt: Octopodiformes
-    pt-br: Octopodiformes
+    pt_br: Octopodiformes
     ro: Octopodiformes
     ru: восьмирукие
     sl: Octopodiformes
@@ -74,8 +74,8 @@ dv_has_:
     vo: Octopodiformes
     war: Octopodiformes
     zh: 八腕總目
-    zh-cn: 八腕总目
-    zh-hans: 八腕总目
+    zh_cn: 八腕总目
+    zh_hans: 八腕总目
 ---
 ## Phylogeny 
 

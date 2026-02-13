@@ -144,7 +144,7 @@ dv_has_:
     azb: رشیدی خیلافتی
     ba: Хаҡ хәлифәт
     be: Праведны халіфат
-    be-tarask: Праведны халіфат
+    be_tarask: Праведны халіфат
     bg: Праведен халифат
     bjn: Kakhalifahan Rasyidin
     bn: খিলাফতে রাশিদা
@@ -157,8 +157,8 @@ dv_has_:
     diq: Xilafetê Raşidun
     el: Χαλιφάτο των Ρασιντούν
     en: Rashidun Caliphate
-    en-ca: Rashidun Caliphate
-    en-gb: Rashidun Caliphate
+    en_ca: Rashidun Caliphate
+    en_gb: Rashidun Caliphate
     en-us: Rashidun Caliphate
     eo: Raŝiduna Kaliflando
     es: Califato ortodoxo
@@ -183,7 +183,7 @@ dv_has_:
     ko: 정통 칼리파국
     ks: خلافتِ راشِدہ
     ku: xelîfeyên Raşidûn
-    ku-latn: xelîfeyên Raşidûn
+    ku_latn: xelîfeyên Raşidûn
     lez: Дугъри халифат
     lt: Rašidų kalifatas
     lv: Rāšidunu kalifāts
@@ -201,7 +201,7 @@ dv_has_:
     pnb: خلافت راشدہ
     ps: خلفای راشدينو واکمني
     pt: Califado Rashidun
-    pt-br: Califado Rashidun
+    pt_br: Califado Rashidun
     ro: Califatul Rashidun
     ru: Праведный халифат
     sco: Rashidun Caliphate
@@ -212,8 +212,8 @@ dv_has_:
     so: Khilaafada Raashidiinta
     sq: Kalifati Rashidun
     sr: Праведни халифат
-    sr-ec: Праведни калифат
-    sr-el: Pravedni kalifat
+    sr_ec: Праведни калифат
+    sr_el: Pravedni kalifat
     sv: Rashidunkalifatet
     ta: ராசிதீன் கலீபாக்கள்
     tg: Хилофати Рошидин

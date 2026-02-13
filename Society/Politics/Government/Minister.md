@@ -135,7 +135,7 @@ dv_has_:
     az: nazir
     ba: министр
     be: міністр
-    be-tarask: міністар
+    be_tarask: міністар
     bg: министър
     bn: মন্ত্রী
     br: ministr
@@ -147,12 +147,12 @@ dv_has_:
     da: minister
     dag: fukumsi kpambali
     de: Minister
-    de-ch: Minister
+    de_ch: Minister
     diq: nazır
     el: υπουργός
     en: minister
-    en-ca: minister
-    en-gb: minister
+    en_ca: minister
+    en_gb: minister
     eo: ministro
     es: ministro
     et: minister
@@ -188,7 +188,7 @@ dv_has_:
     krc: министр
     ks: ؤزیٖر
     ku: wezîr
-    ku-latn: wezîr
+    ku_latn: wezîr
     ky: министр
     la: administer
     lb: Minister
@@ -202,7 +202,7 @@ dv_has_:
     mn: сайд
     mr: मंत्री
     ms: menteri
-    ms-arab: منتري
+    ms_arab: منتري
     mt: ministru
     my: ဝန်ကြီး
     nb: minister
@@ -215,7 +215,7 @@ dv_has_:
     pnb: وزیر
     ps: وزير
     pt: ministro
-    pt-br: ministro
+    pt_br: ministro
     rmf: ministerios
     ro: ministru
     ru: министр
@@ -238,10 +238,10 @@ dv_has_:
     th: รัฐมนตรี
     tr: bakan
     tt: министр
-    tt-cyrl: министр
+    tt_cyrl: министр
     uk: міністр
     ur: وزیر
-    uz-cyrl: министр
+    uz_cyrl: министр
     vec: ministro
     vi: bộ trưởng
     vo: ministeran
@@ -249,14 +249,14 @@ dv_has_:
     yi: מיניסטער
     yue: 部長
     zh: 部長
-    zh-cn: 部长
-    zh-hans: 部长
-    zh-hant: 部長
-    zh-hk: 部長
-    zh-mo: 部長
+    zh_cn: 部长
+    zh_hans: 部长
+    zh_hant: 部長
+    zh_hk: 部長
+    zh_mo: 部長
     zh-my: 部长
-    zh-sg: 部长
-    zh-tw: 部長
+    zh_sg: 部长
+    zh_tw: 部長
 ---
 # [[Minister]]
 

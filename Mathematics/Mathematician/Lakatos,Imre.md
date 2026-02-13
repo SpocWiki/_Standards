@@ -92,7 +92,7 @@ dv_has_:
     arz: اِمره لاكاتوش
     ast: Imre Lakatos
     az: İmre Lakatos
-    be-tarask: Імрэ Лакаташ
+    be_tarask: Імрэ Лакаташ
     bg: Имре Лакатош
     ca: Imre Lakatos
     cs: Imre Lakatos
@@ -119,11 +119,11 @@ dv_has_:
     it: Imre Lakatos
     ja: ラカトシュ・イムレ
     kk: Лакатош Имре Лакатос
-    kk-arab: لاكاتوش ىيمرە لاكاتوس
+    kk_arab: لاكاتوش ىيمرە لاكاتوس
     kk-cn: لاكاتوش ىيمرە لاكاتوس
-    kk-cyrl: Лакатош Имре Лакатос
+    kk_cyrl: Лакатош Имре Лакатос
     kk-kz: Лакатош Имре Лакатос
-    kk-latn: Lakatoş Ïmre Lakatos
+    kk_latn: Lakatoş Ïmre Lakatos
     kk-tr: Lakatoş Ïmre Lakatos
     ko: 러커토시 임레
     lfn: Imre Lakatos
@@ -138,7 +138,7 @@ dv_has_:
     pms: Imre Lakatos
     pnb: ایمرے کلاتوس
     pt: Imre Lakatos
-    pt-br: Imre Lakatos
+    pt_br: Imre Lakatos
     ro: Imre Lakatos
     ru: Имре Лакатос
     sco: Imre Lakatos
@@ -154,12 +154,12 @@ dv_has_:
     wuu: 拉卡托什·伊姆雷
     yue: 伊姆雷·拉卡托斯
     zh: 伊姆雷·拉卡托斯
-    zh-cn: 伊姆雷·拉卡托斯
-    zh-hans: 伊姆雷·拉卡托斯
-    zh-hant: 伊姆雷·拉卡托斯
-    zh-hk: 伊姆雷·拉卡托斯
-    zh-sg: 伊姆雷·拉卡托斯
-    zh-tw: 伊姆雷·拉卡托斯
+    zh_cn: 伊姆雷·拉卡托斯
+    zh_hans: 伊姆雷·拉卡托斯
+    zh_hant: 伊姆雷·拉卡托斯
+    zh_hk: 伊姆雷·拉卡托斯
+    zh_sg: 伊姆雷·拉卡托斯
+    zh_tw: 伊姆雷·拉卡托斯
 ---
 # [[Lakatos,Imre]] 
 

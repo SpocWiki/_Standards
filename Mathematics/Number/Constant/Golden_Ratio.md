@@ -133,7 +133,7 @@ dv_has_:
     ba: Алтын киҫелеш
     bar: Goidner Schnitt
     be: Залатое сячэнне
-    be-tarask: Залатое сечыва
+    be_tarask: Залатое сечыва
     bg: Златно сечение
     bn: সোনালী অনুপাত
     bs: Zlatni rez
@@ -186,7 +186,7 @@ dv_has_:
     ml: സുവർണ്ണ അനുപാതം
     ms: Nisbah Keemasan
     nb: det gyldne snitt
-    nds-nl: geuldene snede
+    nds_nl: geuldene snede
     nl: gulden snede
     nn: Det gylne snittet
     oc: Nombre d'aur
@@ -194,7 +194,7 @@ dv_has_:
     pl: złoty podział
     pms: Nùmer d'òr
     pt: proporção áurea
-    pt-br: proporção áurea
+    pt_br: proporção áurea
     ro: secțiunea de aur
     ru: золотое сечение
     scn: Nùmmuru d'oru
@@ -204,7 +204,7 @@ dv_has_:
     sl: zlati rez
     sq: Prerja e artë
     sr: златни пресек
-    sr-ec: златни пресек
+    sr_ec: златни пресек
     sv: gyllene snittet
     ta: பொன் விகிதம்
     te: స్వర్ణ నిష్పత్తి

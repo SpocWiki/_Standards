@@ -150,7 +150,7 @@ dv_has_:
     ba: Бела Барток
     bar: Béla Bartók
     be: Бела Бартак
-    be-tarask: Бэла Бартак
+    be_tarask: Бэла Бартак
     bg: Бела Барток
     br: Béla Bartók
     ca: Béla Bartók
@@ -159,12 +159,12 @@ dv_has_:
     da: Béla Bartók
     dag: Béla Bartók
     de: Béla Bartók
-    de-ch: Béla Bartók
+    de_ch: Béla Bartók
     diq: Béla Bartók
     el: Μπέλα Μπάρτοκ
     en: Béla Bartók
-    en-ca: Béla Bartók
-    en-gb: Béla Bartók
+    en_ca: Béla Bartók
+    en_gb: Béla Bartók
     eo: Béla Bartók
     es: Béla Bartók
     et: Béla Bartók
@@ -211,7 +211,7 @@ dv_has_:
     pap: Béla Bartók
     pl: Béla Bartók
     pt: Béla Bartók
-    pt-br: Béla Bartók
+    pt_br: Béla Bartók
     qu: Béla Bartók
     ro: Béla Bartók
     ru: Бела Барток
@@ -235,7 +235,7 @@ dv_has_:
     wuu: 巴托克·贝洛
     yue: 巴托
     zh: 巴托克·贝拉
-    zh-hk: 巴托·貝拉
+    zh_hk: 巴托·貝拉
 ---
 # [[Bartók,Béla]] 
 

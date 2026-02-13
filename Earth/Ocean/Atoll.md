@@ -110,7 +110,7 @@ dv_has_:
     ban: Atol
     bar: Atoll
     be: Атол
-    be-tarask: атол
+    be_tarask: атол
     bg: Атол
     bho: एटॉल
     bn: প্রবাল বলয়
@@ -206,9 +206,9 @@ dv_has_:
     xmf: ატოლი
     yue: 環礁
     zh: 環礁
-    zh-cn: 环礁
-    zh-hans: 环礁
-    zh-hant: 環礁
+    zh_cn: 环礁
+    zh_hans: 环礁
+    zh_hant: 環礁
 ---
 # [[Atoll]] 
 

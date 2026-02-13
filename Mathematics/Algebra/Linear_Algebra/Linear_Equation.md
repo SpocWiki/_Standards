@@ -110,7 +110,7 @@ dv_has_:
     ast: Ecuación de primer grau
     ba: Һыҙыҡлы тигеҙләмә
     be: лінейнае ўраўненне
-    be-tarask: лінейнае раўнаньне
+    be_tarask: лінейнае раўнаньне
     bg: Линейно уравнение
     bho: रेखीय समीकरण
     bn: রৈখিক সমীকরণ
@@ -167,7 +167,7 @@ dv_has_:
     om: Hima walqixaa sararaawaa
     pl: równanie liniowe
     pt: equação linear
-    pt-br: equação linear
+    pt_br: equação linear
     ro: Ecuație de gradul întâi
     ru: линейное уравнение
     se: vuosttaš vuoimmi ovttamahtodat
@@ -194,9 +194,9 @@ dv_has_:
     wuu: 一次方程
     yue: 線性方程式
     zh: 一次方程
-    zh-hans: 一次方程
-    zh-hant: 一次方程
-    zh-hk: 一次方程
+    zh_hans: 一次方程
+    zh_hant: 一次方程
+    zh_hk: 一次方程
 ---
 # [[Linear_Equation]] 
 

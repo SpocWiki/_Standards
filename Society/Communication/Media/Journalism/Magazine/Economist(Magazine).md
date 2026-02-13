@@ -86,7 +86,7 @@ dv_has_:
     azb: اکونومیست
     ba: The Economist
     be: Эканаміст
-    be-tarask: The Economist
+    be_tarask: The Economist
     bg: The Economist
     bho: द इकोनॉमिस्ट
     bn: দি ইকোনমিস্ট
@@ -140,7 +140,7 @@ dv_has_:
     sl: The Economist
     sq: The Economist
     sr: Економист
-    sr-ec: The Economist
+    sr_ec: The Economist
     su: The Economist
     sv: The Economist
     ta: தி எக்கொனொமிஸ்ட்
@@ -154,12 +154,12 @@ dv_has_:
     wuu: 经济学人
     yue: 經濟學人
     zh: 经济学人
-    zh-cn: 经济学人
-    zh-hans: 经济学人
-    zh-hant: 經濟學人
-    zh-hk: 經濟學人
-    zh-sg: 经济学人
-    zh-tw: 經濟學人
+    zh_cn: 经济学人
+    zh_hans: 经济学人
+    zh_hant: 經濟學人
+    zh_hk: 經濟學人
+    zh_sg: 经济学人
+    zh_tw: 經濟學人
 ---
 # [[Economist(Magazine)]] 
 

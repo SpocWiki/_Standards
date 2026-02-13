@@ -447,7 +447,7 @@ dv_has_:
     bbc: Bibel
     bcl: Bibliya
     be: Біблія
-    be-tarask: Біблія
+    be_tarask: Біблія
     bew: Kitab Mugadas
     bg: Библия
     bho: बाइबिल
@@ -460,7 +460,7 @@ dv_has_:
     bs: Biblija
     bxr: Библи
     ca: Bíblia
-    cbk-zam: Biblia
+    cbk_zam: Biblia
     cdo: Séng-gĭng
     ce: Библи
     ceb: Bibliya
@@ -475,7 +475,7 @@ dv_has_:
     da: Bibelen
     dag: Bible
     de: Bibel
-    de-ch: Bibel
+    de_ch: Bibel
     dga: Bible
     din: Wɛ̈t de Nhialic
     diq: İncil
@@ -487,8 +487,8 @@ dv_has_:
     el: Αγία Γραφή
     eml: Bébia
     en: Bible
-    en-ca: Bible
-    en-gb: Bible
+    en_ca: Bible
+    en_gb: Bible
     eo: Biblio
     es: Biblia
     et: Piibel
@@ -512,7 +512,7 @@ dv_has_:
     gn: Tupã ñe'ẽngue ryru
     gom: Povitr Pustok
     gom-deva: बायबल
-    gom-latn: Povitr Pustok
+    gom_latn: Povitr Pustok
     gpe: Bible
     gsw: Bibel
     gu: બાઇબલ
@@ -590,7 +590,7 @@ dv_has_:
     mr: बायबल
     mrj: Библи
     ms: Alkitab
-    ms-arab: الکتاب
+    ms_arab: الکتاب
     mt: Bibbja
     mwl: Bíblia
     my: သမ္မာကျမ်းစာ
@@ -600,7 +600,7 @@ dv_has_:
     nap: Bibbia
     nb: Bibelen
     nds: Bibel
-    nds-nl: biebel
+    nds_nl: biebel
     ne: बाइबल
     new: बाइबल
     ng: Ombimbeli
@@ -629,7 +629,7 @@ dv_has_:
     pnb: بائبل
     ps: مقدس کتاب
     pt: Bíblia
-    pt-br: Bíblia
+    pt_br: Bíblia
     pwn: Kai nua Cemas
     qu: Dyuspa Simin Qillqa
     rm: Bibla
@@ -715,11 +715,11 @@ dv_has_:
     za: Swnggingh
     zea: Biebel
     zh: 聖經
-    zh-cn: 圣经
-    zh-hans: 圣经
-    zh-hant: 聖經
-    zh-hk: 聖經
-    zh-tw: 聖經
+    zh_cn: 圣经
+    zh_hans: 圣经
+    zh_hant: 聖經
+    zh_hk: 聖經
+    zh_tw: 聖經
     zu: IBhayibheli
 ---
 # [[Bible]] 

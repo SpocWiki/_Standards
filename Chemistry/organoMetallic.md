@@ -22,7 +22,7 @@ dv_has_:
     af: Organometaalchemie
     ar: كيمياء عضوية فلزية
     ast: Química organometálica
-    be-tarask: мэталаарганічная хімія
+    be_tarask: мэталаарганічная хімія
     bg: Металоорганична химия
     bn: জৈব-ধাতব রসায়ন
     ca: química organometàl·lica
@@ -69,12 +69,12 @@ dv_has_:
     vi: hóa học cơ kim
     yue: 有機金屬化學
     zh: 有机金属化学
-    zh-cn: 有机金属化学
-    zh-hans: 有机金属化学
-    zh-hant: 有機金屬化學
-    zh-hk: 有機金屬化學
-    zh-sg: 有机金属化学
-    zh-tw: 有機金屬化學
+    zh_cn: 有机金属化学
+    zh_hans: 有机金属化学
+    zh_hant: 有機金屬化學
+    zh_hk: 有機金屬化學
+    zh_sg: 有机金属化学
+    zh_tw: 有機金屬化學
 aliases:
 - chemia metaloorganiczna
 - Chemia organometallica

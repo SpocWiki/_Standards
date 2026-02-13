@@ -100,7 +100,7 @@ dv_has_:
     az: Fernandel
     ba: Фернандель
     be: Фернандэль
-    be-tarask: Фэрнандэль
+    be_tarask: Фэрнандэль
     bg: Фернандел
     bi: Fernandel
     bs: Fernandel
@@ -153,7 +153,7 @@ dv_has_:
     pl: Fernandel
     pms: Fernandel
     pt: Fernandel
-    pt-br: Fernandel
+    pt_br: Fernandel
     ro: Fernandel
     ru: Фернандель
     sh: Fernandel
@@ -171,10 +171,10 @@ dv_has_:
     wuu: 费南代尔
     yue: 范南杜
     zh: 費南代爾
-    zh-hans: 费南代尔
-    zh-hant: 費南代爾
-    zh-hk: 范南杜
-    zh-tw: 費南代爾
+    zh_hans: 费南代尔
+    zh_hant: 費南代爾
+    zh_hk: 范南杜
+    zh_tw: 費南代爾
 ---
 # [[Fernandel]] 
 

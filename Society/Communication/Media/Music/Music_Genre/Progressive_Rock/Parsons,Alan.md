@@ -75,7 +75,7 @@ dv_has_:
     arz: الان بارسونس
     ast: Alan Parsons
     azb: الن پارسونز
-    be-tarask: Алан Парсанз
+    be_tarask: Алан Парсанз
     bg: Алън Парсънс
     bn: অ্যালান পারসন্স
     br: Alan Parsons
@@ -111,7 +111,7 @@ dv_has_:
     pa: ਐਲਨ ਪਾਰਸਨਜ਼
     pl: Alan Parsons
     pt: Alan Parsons
-    pt-br: Alan Parsons
+    pt_br: Alan Parsons
     ro: Alan Parsons
     ru: Алан Парсонс
     sk: Alan Parsons

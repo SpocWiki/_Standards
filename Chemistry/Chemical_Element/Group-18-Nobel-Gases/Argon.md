@@ -144,7 +144,7 @@ dv_has_:
     ban: Argon
     bcl: Argon
     be: Аргон
-    be-tarask: аргон
+    be_tarask: аргон
     bg: аргон
     bho: आर्गन
     blk: အာဂွန်
@@ -163,12 +163,12 @@ dv_has_:
     cy: argon
     da: argon
     de: Argon
-    de-ch: Argon
+    de_ch: Argon
     diq: Argon
     el: αργό
     en: argon
-    en-ca: Argon
-    en-gb: argon
+    en_ca: Argon
+    en_gb: argon
     eo: argono
     es: argón
     et: argoon
@@ -230,7 +230,7 @@ dv_has_:
     mr: आरगॉन
     mrj: Аргон
     ms: argon
-    ms-arab: ارݢون
+    ms_arab: ارݢون
     mt: argon
     my: အာဂွန်
     myv: Аргон
@@ -256,7 +256,7 @@ dv_has_:
     pnb: آرگون
     ps: آرگون
     pt: árgon
-    pt-br: argônio
+    pt_br: argônio
     qu: Argun
     ro: argon
     ru: аргон
@@ -289,7 +289,7 @@ dv_has_:
     tok: ijo lili nanpa 18
     tr: Argon
     tt: аргон
-    tt-cyrl: аргон
+    tt_cyrl: аргон
     udm: аргон
     ug: ئارگون
     uk: аргон
@@ -305,14 +305,14 @@ dv_has_:
     yue: 氬
     zgh: ⴰⵔⴳⵓⵏ
     zh: 氬
-    zh-cn: 氩
-    zh-hans: 氩
-    zh-hant: 氬
-    zh-hk: 氬
-    zh-mo: 氬
+    zh_cn: 氩
+    zh_hans: 氩
+    zh_hant: 氬
+    zh_hk: 氬
+    zh_mo: 氬
     zh-my: 氩
-    zh-sg: 氩
-    zh-tw: 氬
+    zh_sg: 氩
+    zh_tw: 氬
     zu: IsAlahwe
   number_of_:
     period: 3

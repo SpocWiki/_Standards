@@ -171,7 +171,7 @@ dv_has_:
     ba: Пол Кругман
     bar: Paul Krugman
     be: Пол Кругман
-    be-tarask: Пол Кругман
+    be_tarask: Пол Кругман
     bg: Пол Кругман
     bn: পল ক্রুগম্যান
     ca: Paul Krugman
@@ -226,7 +226,7 @@ dv_has_:
     pl: Paul Krugman
     pnb: پال کرگمان
     pt: Paul Krugman
-    pt-br: Paul Krugman
+    pt_br: Paul Krugman
     ro: Paul Krugman
     ru: Пол Кругман
     sco: Paul Krugman
@@ -250,12 +250,12 @@ dv_has_:
     yo: Paul Krugman
     yue: 克魯明
     zh: 保羅·克魯格曼
-    zh-cn: 保罗·克鲁格曼
-    zh-hans: 保罗·克鲁格曼
-    zh-hant: 保羅·克魯曼
-    zh-hk: 保羅·克魯明
-    zh-sg: 保罗·克鲁格曼
-    zh-tw: 保羅·克魯曼
+    zh_cn: 保罗·克鲁格曼
+    zh_hans: 保罗·克鲁格曼
+    zh_hant: 保羅·克魯曼
+    zh_hk: 保羅·克魯明
+    zh_sg: 保罗·克鲁格曼
+    zh_tw: 保羅·克魯曼
 ---
 # [[Krugman,Paul]]
 

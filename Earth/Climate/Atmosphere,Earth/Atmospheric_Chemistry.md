@@ -81,7 +81,7 @@ dv_has_:
     ast: Química de l'atmósfera
     ba: Атмосфера химияһы
     be: атмасферная хімія
-    be-tarask: атмасфэрная хімія
+    be_tarask: атмасфэрная хімія
     bs: Atmosferska hemija
     ca: química atmosfèrica
     cdo: Dâi-ké Huá-hŏk
@@ -123,12 +123,12 @@ dv_has_:
     xmf: ატმოსფერული ქიმია
     yue: 大氣化學
     zh: 大气化学
-    zh-cn: 大气化学
-    zh-hans: 大气化学
-    zh-hant: 大氣化學
-    zh-hk: 大氣化學
-    zh-sg: 大气化学
-    zh-tw: 大氣化學
+    zh_cn: 大气化学
+    zh_hans: 大气化学
+    zh_hant: 大氣化學
+    zh_hk: 大氣化學
+    zh_sg: 大气化学
+    zh_tw: 大氣化學
 ---
 # [[Atmospheric_Chemistry]] 
 

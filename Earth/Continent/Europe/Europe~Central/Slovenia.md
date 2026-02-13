@@ -65,7 +65,7 @@ dv_has_:
     ab: Словениа
     ace: Slovenia
     ady: Словение
-    aeb-arab: سلوڥينيا
+    aeb_arab: سلوڥينيا
     af: Slowenië
     am: ስሎቬኒያ
     ami: Slovenia
@@ -88,7 +88,7 @@ dv_has_:
     bar: Slowénien
     bcl: Slobinya
     be: Славенія
-    be-tarask: Славенія
+    be_tarask: Славенія
     bew: Slowéni
     bg: Словения
     bgn: سلوانیا
@@ -101,7 +101,7 @@ dv_has_:
     bs: Slovenija
     bxr: Словен
     ca: Eslovènia
-    cbk-zam: Eslovenia
+    cbk_zam: Eslovenia
     cdo: Slovenia
     ce: Словени
     ceb: Eslobenya
@@ -111,7 +111,7 @@ dv_has_:
     ckb: سلۆڤێنیا
     co: Sluvenia
     crh: Sloveniya
-    crh-latn: Sloveniya
+    crh_latn: Sloveniya
     cs: Slovinsko
     csb: Sloweńskô
     cu: Їллѷрїиска Словѣнїꙗ
@@ -121,7 +121,7 @@ dv_has_:
     dag: Slovenia
     de: Slowenien
     de-at: Slowenien
-    de-ch: Slowenien
+    de_ch: Slowenien
     diq: Slowenya
     dsb: Słowjeńska
     dty: स्लोभेनिया
@@ -131,8 +131,8 @@ dv_has_:
     el: Σλοβενία
     eml: Śluvègna
     en: Slovenia
-    en-ca: Slovenia
-    en-gb: Slovenia
+    en_ca: Slovenia
+    en_gb: Slovenia
     eo: Slovenio
     es: Eslovenia
     et: Sloveenia
@@ -156,7 +156,7 @@ dv_has_:
     gn: Eloveña
     gom: स्लोव्हेनिया
     gom-deva: स्लोव्हेनिया
-    gom-latn: Slovenia
+    gom_latn: Slovenia
     got: "\U00010343\U0001033B\U00010330\U0001033F\U00010331\U00010330\U00010339\U0001033D\U0001033E\U00010330"
     gpe: Slovenia
     gsw: Slowenia
@@ -223,7 +223,7 @@ dv_has_:
     lv: Slovēnija
     lzh: 斯洛維尼亞
     mad: Slovenia
-    map-bms: Slovenia
+    map_bms: Slovenia
     mdf: Словэния
     mg: Silaovenia
     mhr: Словений
@@ -247,7 +247,7 @@ dv_has_:
     nap: Slovenia
     nb: Slovenia
     nds: Slowenien
-    nds-nl: Sloveniën
+    nds_nl: Sloveniën
     ne: स्लोभेनिया
     new: स्लोभेनिया
     nl: Slovenië
@@ -274,7 +274,7 @@ dv_has_:
     pnt: Σλοβενία
     ps: سلووانيا
     pt: Eslovénia
-    pt-br: Eslovênia
+    pt_br: Eslovênia
     qu: Isluwinya
     rki: ဆလိုဗေးနီးယားသမ္မတနိုင်ငံ
     rm: Slovenia
@@ -308,8 +308,8 @@ dv_has_:
     so: Isloveeniya
     sq: Sllovenia
     sr: Словенија
-    sr-ec: Словенија
-    sr-el: Slovenija
+    sr_ec: Словенија
+    sr_el: Slovenija
     srn: Slovenikondre
     ss: Siloveni
     st: Slovenia
@@ -362,11 +362,11 @@ dv_has_:
     zea: Slovenië
     zgh: ⵚⵍⵓⴼⵉⵏⵢⴰ
     zh: 斯洛文尼亞
-    zh-cn: 斯洛文尼亚
-    zh-hans: 斯洛文尼亚
-    zh-hant: 斯洛維尼亞
-    zh-hk: 斯洛文尼亞
-    zh-tw: 斯洛維尼亞
+    zh_cn: 斯洛文尼亚
+    zh_hans: 斯洛文尼亚
+    zh_hant: 斯洛維尼亞
+    zh_hk: 斯洛文尼亞
+    zh_tw: 斯洛維尼亞
     zu: ISloveniya
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Slovenia

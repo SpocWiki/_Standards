@@ -168,7 +168,7 @@ dv_has_:
     ban: Kapibara
     bcl: Capybara
     be: капібара
-    be-tarask: капібара
+    be_tarask: капібара
     bew: Tapir butek
     bg: капибара
     bn: ক্যাপিবারা
@@ -182,8 +182,8 @@ dv_has_:
     de: Capybara
     el: Καπιμπάρα
     en: Capybara
-    en-ca: Capybara
-    en-gb: capybara
+    en_ca: Capybara
+    en_gb: capybara
     eo: kapibaro
     es: Hydrochoerus hydrochaeris
     et: kapibaara
@@ -243,7 +243,7 @@ dv_has_:
     pnb: کیپی بارا
     ps: کاپيوره
     pt: capivara
-    pt-br: Capivara
+    pt_br: Capivara
     qu: Kapiwara
     ro: Capibara
     ru: капибара
@@ -254,8 +254,8 @@ dv_has_:
     smn: Kapybara
     sq: Hydrochoerus hydrochaeris
     sr: капибара
-    sr-ec: Капибара
-    sr-el: Kapibara
+    sr_ec: Капибара
+    sr_el: Kapibara
     stq: Meen Woaterswien
     su: Kapibara
     sv: Kapybara
@@ -273,12 +273,12 @@ dv_has_:
     wuu: 水豚
     yue: 水豚
     zh: 水豚
-    zh-cn: 水豚
-    zh-hans: 水豚
-    zh-hant: 水豚
-    zh-hk: 水豚
-    zh-sg: 水豚
-    zh-tw: 水豚
+    zh_cn: 水豚
+    zh_hans: 水豚
+    zh_hant: 水豚
+    zh_hk: 水豚
+    zh_sg: 水豚
+    zh_tw: 水豚
 ---
 #has_/parent_taxon :: [[Hydrochoerinae]] 
 #is_/same_as :: [[WikiData/WD~Hydrochoerus_hydrochaeris,131538|WD~Hydrochoerus_hydrochaeris,131538]] 

@@ -67,7 +67,7 @@ dv_has_:
     ast: cámara de videu
     az: Videokamera
     be: відэакамера
-    be-tarask: відэакамэра
+    be_tarask: відэакамэра
     bg: Видеокамера
     bn: ভিডিও ক্যামেরা
     ca: càmera de vídeo
@@ -99,13 +99,13 @@ dv_has_:
     mk: видеокамера
     ml: വീഡിയോ ക്യാമറ
     ms: kamera video
-    ms-arab: کاميرا ۏيديو
+    ms_arab: کاميرا ۏيديو
     my: ဗွီဒီယိုကင်မရာ
     nl: videocamera
     pl: kamera wideo
     pnb: وڈیو کیمرہ
     pt: câmara de vídeo
-    pt-br: câmera de vídeo
+    pt_br: câmera de vídeo
     qu: Widyu rikch'a hap'ina
     ro: cameră de luat vederi
     ru: видеокамера
@@ -121,7 +121,7 @@ dv_has_:
     th: กล้องวิดีโอ
     tr: video kamera
     tt: видеокамера
-    tt-cyrl: видеокамера
+    tt_cyrl: видеокамера
     uk: відеокамера
     ur: وڈیو کیمرا
     uz: Videokamera
@@ -129,11 +129,11 @@ dv_has_:
     wuu: 摄像机
     yue: 攝影機
     zh: 攝影機
-    zh-cn: 摄像机
-    zh-hans: 摄像机
-    zh-hant: 攝影機
-    zh-hk: 攝影機
-    zh-tw: 攝影機
+    zh_cn: 摄像机
+    zh_hans: 摄像机
+    zh_hant: 攝影機
+    zh_hk: 攝影機
+    zh_tw: 攝影機
 ---
 # [[Video_Camera]] 
 

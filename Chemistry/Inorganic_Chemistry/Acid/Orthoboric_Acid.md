@@ -133,7 +133,7 @@ dv_has_:
     ast: Ácidu bórico
     azb: بوریک اسید
     be: Борная кіслата
-    be-tarask: борная кісьля
+    be_tarask: борная кісьля
     bg: Борна киселина
     br: Trenkenn vorek
     ca: àcid bòric
@@ -161,11 +161,11 @@ dv_has_:
     jv: Asem borat
     ka: ბორმჟავა
     kk: Бор қышқылы
-    kk-arab: بور قىشقىلى
+    kk_arab: بور قىشقىلى
     kk-cn: بور قىشقىلى
-    kk-cyrl: Бор қышқылы
+    kk_cyrl: Бор қышқылы
     kk-kz: Бор қышқылы
-    kk-latn: Bor qışqılı
+    kk_latn: Bor qışqılı
     kk-tr: Bor qışqılı
     kn: ಬೋರಿಕ್ ಆಮ್ಲ
     ko: 붕산
@@ -189,8 +189,8 @@ dv_has_:
     sh: Borna kiselina
     sl: borova kislina
     sr: борна киселина
-    sr-ec: Борна киселина
-    sr-el: Borna kiselina
+    sr_ec: Борна киселина
+    sr_el: Borna kiselina
     sv: borsyra
     sw: Asidi boriki
     ta: போரிக் அமிலம்
@@ -204,12 +204,12 @@ dv_has_:
     wuu: 硼酸
     yue: 硼酸
     zh: 硼酸
-    zh-cn: 硼酸
-    zh-hans: 硼酸
-    zh-hant: 硼酸
-    zh-hk: 硼酸
-    zh-sg: 硼酸
-    zh-tw: 硼酸
+    zh_cn: 硼酸
+    zh_hans: 硼酸
+    zh_hant: 硼酸
+    zh_hk: 硼酸
+    zh_sg: 硼酸
+    zh_tw: 硼酸
 dv_is_:
   same_as:
   - '[[../../../WikiData/WD~Orthoboric_acid,187045]]'

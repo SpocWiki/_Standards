@@ -269,7 +269,7 @@ studied_by:
 topic_has_template: '[[_Standards/WikiData/WD~Template_Death,10728979]]'
 dv_has_:
   name_:
-    aeb-arab: موتة
+    aeb_arab: موتة
     af: dood
     am: ሞት
     an: Muerte
@@ -287,7 +287,7 @@ dv_has_:
     bar: Doud
     bcl: Kagadanan
     be: смерць
-    be-tarask: сьмерць
+    be_tarask: сьмерць
     bg: смърт
     bho: मौत
     bjn: Kamatian
@@ -313,13 +313,13 @@ dv_has_:
     dag: kpibu
     de: Tod
     de-at: Tod
-    de-ch: Tod
+    de_ch: Tod
     diq: Merg
     dv: މަރު
     el: θάνατος
     en: death
-    en-ca: death
-    en-gb: death
+    en_ca: death
+    en_gb: death
     en-us: death
     eo: morto
     es: muerte
@@ -372,12 +372,12 @@ dv_has_:
     kcg: a̱khwu
     ki: Gĩkuũ
     kk: өлім
-    kk-cyrl: өлім
+    kk_cyrl: өлім
     km: មរណភាព
     kn: ಮರಣ
     ko: 죽음
     ku: mirin
-    ku-latn: mirin
+    ku_latn: mirin
     kw: mernans
     ky: Өлүм
     la: mors
@@ -430,7 +430,7 @@ dv_has_:
     pnt: ατσάλ'
     ps: مړینه
     pt: morte
-    pt-br: morte
+    pt_br: morte
     qu: Wañuy
     ro: moarte
     ru: смерть
@@ -458,8 +458,8 @@ dv_has_:
     so: Geeri
     sq: Vdekja
     sr: смрт
-    sr-ec: смрт
-    sr-el: smrt
+    sr_ec: смрт
+    sr_el: smrt
     su: Paéh
     sv: döden
     sw: Mauti
@@ -474,7 +474,7 @@ dv_has_:
     tok: moli
     tr: ölüm
     tt: үлем
-    tt-cyrl: үлем
+    tt_cyrl: үлем
     tw: owuo
     udm: кулон
     uk: смерть
@@ -495,14 +495,14 @@ dv_has_:
     za: Dai
     zgh: ⵜⴰⵎⵜⵜⴰⵏⵜ
     zh: 死亡
-    zh-cn: 死亡
-    zh-hans: 死亡
-    zh-hant: 死亡
-    zh-hk: 死亡
-    zh-mo: 死亡
+    zh_cn: 死亡
+    zh_hans: 死亡
+    zh_hant: 死亡
+    zh_hk: 死亡
+    zh_mo: 死亡
     zh-my: 死亡
-    zh-sg: 死亡
-    zh-tw: 死亡
+    zh_sg: 死亡
+    zh_tw: 死亡
     zu: Ukufa
 ---
 # [[Death]] ☠ 

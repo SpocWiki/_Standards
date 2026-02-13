@@ -46,12 +46,12 @@ dv_has_:
     da: Wilhelm Busch
     de: Wilhelm Busch
     de-at: Wilhelm Busch
-    de-ch: Wilhelm Busch
+    de_ch: Wilhelm Busch
     ee: Wilhelm Busch
     el: Βίλχελμ Μπους
     en: Wilhelm Busch
-    en-ca: Wilhelm Busch
-    en-gb: Wilhelm Busch
+    en_ca: Wilhelm Busch
+    en_gb: Wilhelm Busch
     eo: Wilhelm Busch
     es: Wilhelm Busch
     et: Wilhelm Busch
@@ -91,7 +91,7 @@ dv_has_:
     nap: Wilhelm Busch
     nb: Wilhelm Busch
     nds: Willem Busch
-    nds-nl: Wilhelm Busch
+    nds_nl: Wilhelm Busch
     nl: Wilhelm Busch
     nn: Wilhelm Busch
     nrm: Wilhelm Busch
@@ -100,7 +100,7 @@ dv_has_:
     pl: Wilhelm Busch
     pms: Wilhelm Busch
     pt: Wilhelm Busch
-    pt-br: Wilhelm Busch
+    pt_br: Wilhelm Busch
     rm: Wilhelm Busch
     ro: Wilhelm Busch
     ru: Вильгельм Буш
@@ -112,13 +112,13 @@ dv_has_:
     sl: Wilhelm Busch
     sq: Wilhelm Busch
     sr: Вилхелм Буш
-    sr-ec: Вилхелм Буш
-    sr-el: Vilhelm Buš
+    sr_ec: Вилхелм Буш
+    sr_el: Vilhelm Buš
     stq: Heinrich Christian Wilhelm Busch
     sv: Wilhelm Busch
     sw: Wilhelm Busch
     tg: Вилҳелм Буш
-    tg-latn: Vilhelm Buş
+    tg_latn: Vilhelm Buş
     tr: Wilhelm Busch
     uk: Вільгельм Буш
     vec: Wilhelm Busch
@@ -128,12 +128,12 @@ dv_has_:
     wa: Wilhelm Busch
     wo: Wilhelm Busch
     zh: 威廉·布施
-    zh-cn: 威廉·布施
-    zh-hans: 威廉·布施
-    zh-hant: 威廉·布施
-    zh-hk: 威廉·布施
-    zh-sg: 威廉·布施
-    zh-tw: 威廉·布施
+    zh_cn: 威廉·布施
+    zh_hans: 威廉·布施
+    zh_hant: 威廉·布施
+    zh_hk: 威廉·布施
+    zh_sg: 威廉·布施
+    zh_tw: 威廉·布施
     zu: Wilhelm Busch
 ---
 # [[Busch,Wilhelm]] 

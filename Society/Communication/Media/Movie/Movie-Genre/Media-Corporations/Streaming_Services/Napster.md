@@ -43,12 +43,12 @@ dv_has_:
     uk: Napster
     vi: Napster
     zh: Napster
-    zh-cn: Napster
-    zh-hans: Napster
-    zh-hant: Napster
-    zh-hk: Napster
-    zh-sg: Napster
-    zh-tw: Napster
+    zh_cn: Napster
+    zh_hans: Napster
+    zh_hant: Napster
+    zh_hk: Napster
+    zh_sg: Napster
+    zh_tw: Napster
 aliases:
 - Napster
 - נאפסטר

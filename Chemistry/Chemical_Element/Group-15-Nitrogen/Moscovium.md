@@ -127,7 +127,7 @@ dv_has_:
     ba: Московий
     ban: Moskovium
     be: масковій
-    be-tarask: Маскоў
+    be_tarask: Маскоў
     bg: московий
     bho: मॉस्कोवियम
     bn: মস্কোভিয়াম
@@ -145,8 +145,8 @@ dv_has_:
     de: Moscovium
     el: μοσκόβιο
     en: moscovium
-    en-ca: Ununpentium
-    en-gb: moscovium
+    en_ca: Ununpentium
+    en_gb: moscovium
     eo: moskovio
     es: moscovio
     et: moskoovium
@@ -213,7 +213,7 @@ dv_has_:
     pl: moskow
     ps: مسکوويم
     pt: moscóvio
-    pt-br: moscóvio
+    pt_br: moscóvio
     qu: Ununpentyu
     ro: moscoviu
     ru: московий
@@ -226,7 +226,7 @@ dv_has_:
     so: Ununbentiyaam
     sq: moskoviumi
     sr: московијум
-    sr-ec: Московијум
+    sr_ec: Московијум
     sv: moskovium
     sw: Moskovi
     ta: மாசுக்கோவியம்
@@ -249,11 +249,11 @@ dv_has_:
     yo: Ununpentium
     yue: 鏌
     zh: 鏌
-    zh-cn: 镆
-    zh-hans: 镆
-    zh-hant: 鏌
-    zh-hk: 鏌
-    zh-tw: 鏌
+    zh_cn: 镆
+    zh_hans: 镆
+    zh_hant: 鏌
+    zh_hk: 鏌
+    zh_tw: 鏌
     zu: UMcombi
 ---
 # [[Moscovium]] 

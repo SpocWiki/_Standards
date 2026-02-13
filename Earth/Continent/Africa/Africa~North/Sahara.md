@@ -198,7 +198,7 @@ dv_has_:
     ban: Gurun Sahara
     bar: Sahara
     be: Пустыня Сахара
-    be-tarask: Сахара
+    be_tarask: Сахара
     bew: Sahara
     bg: Сахара
     bho: सहारा
@@ -216,7 +216,7 @@ dv_has_:
     ckb: بیابانی مەزن
     co: Sahara
     crh: Büyük Sahra
-    crh-latn: Büyük Sahra
+    crh_latn: Büyük Sahra
     cs: Sahara
     csb: Sahara
     cv: Сахара
@@ -224,15 +224,15 @@ dv_has_:
     da: Sahara
     dag: Amaada
     de: Sahara
-    de-ch: Sahara
+    de_ch: Sahara
     din: Panliɛ̈tdït
     diq: Sehra
     dsb: Sahara
     dty: सहारा मरुभूमी
     el: Σαχάρα
     en: Sahara
-    en-ca: Sahara
-    en-gb: Sahara
+    en_ca: Sahara
+    en_gb: Sahara
     eo: Saharo
     es: Sahara
     et: Sahara
@@ -319,7 +319,7 @@ dv_has_:
     nan: Sahara
     nb: Sahara
     nds: Sahara
-    nds-nl: Sahara
+    nds_nl: Sahara
     ne: सहारा मरुभूमी
     new: सहारा
     nl: Sahara
@@ -336,7 +336,7 @@ dv_has_:
     pnb: صحراۓ اعظم
     ps: د افریقا صحرا
     pt: deserto do Saara
-    pt-br: deserto do Saara
+    pt_br: deserto do Saara
     qu: Sahara
     ro: Sahara
     roa-tara: Deserte d'u Sahara
@@ -393,9 +393,9 @@ dv_has_:
     yo: Sàhárà
     yue: 撒哈拉
     zh: 撒哈拉沙漠
-    zh-cn: 撒哈拉沙漠
-    zh-hans: 撒哈拉沙漠
-    zh-hant: 撒哈拉沙漠
+    zh_cn: 撒哈拉沙漠
+    zh_hans: 撒哈拉沙漠
+    zh_hant: 撒哈拉沙漠
 ---
 # [[Sahara]] 
 

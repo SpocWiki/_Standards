@@ -149,7 +149,7 @@ dv_has_:
     azb: یئرآلتی سولار
     ba: Ер аҫты һыуҙары
     be: падземныя воды
-    be-tarask: падземныя воды
+    be_tarask: падземныя воды
     bg: Грунтови води
     bn: ভূগর্ভস্থ পানি
     bs: Podzemna voda
@@ -225,7 +225,7 @@ dv_has_:
     sms: påʹnnčääʹcc
     sq: Ujrat nenetoksore
     sr: подземне воде
-    sr-ec: подземне воде
+    sr_ec: подземне воде
     ss: Emantimhlaba
     su: Cai taneuh
     sv: grundvatten
@@ -244,7 +244,7 @@ dv_has_:
     wuu: 地下水
     yue: 地下水
     zh: 地下水
-    zh-hant: 地下水
+    zh_hant: 地下水
 ---
 # [[Groundwater]] 
 

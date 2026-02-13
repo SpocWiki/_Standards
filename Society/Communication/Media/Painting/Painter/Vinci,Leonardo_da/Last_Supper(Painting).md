@@ -167,7 +167,7 @@ dv_has_:
     arz: العشاء الاخير (لوحه)
     az: Sonuncu şam yeməyi
     be: Тайная вячэра
-    be-tarask: Тайная вячэра
+    be_tarask: Тайная вячэра
     bg: Тайната вечеря
     bn: দ্যা লাস্ট সাপার
     br: L'Ultima Cena
@@ -232,8 +232,8 @@ dv_has_:
     sl: Zadnja večerja
     sq: Darka e Fundit
     sr: Тајна вечера
-    sr-ec: Тајна вечера
-    sr-el: Tajna večera
+    sr_ec: Тајна вечера
+    sr_el: Tajna večera
     su: Viimeinen ehtoollinen
     sv: Nattvarden
     szy: sazikuzay a nikalabi
@@ -249,12 +249,12 @@ dv_has_:
     wuu: 最后的晚餐
     yue: 最後晚餐
     zh: 最後的晚餐
-    zh-cn: 最后的晚餐
-    zh-hans: 最后的晚餐
-    zh-hant: 最後的晚餐
-    zh-hk: 最後的晚餐
-    zh-sg: 最后的晚餐
-    zh-tw: 最後的晚餐
+    zh_cn: 最后的晚餐
+    zh_hans: 最后的晚餐
+    zh_hant: 最後的晚餐
+    zh_hk: 最後的晚餐
+    zh_sg: 最后的晚餐
+    zh_tw: 最後的晚餐
     zu: The Last Supper
 ---
 # [[Last_Supper(Painting)]]

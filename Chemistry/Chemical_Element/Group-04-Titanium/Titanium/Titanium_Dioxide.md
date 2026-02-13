@@ -151,7 +151,7 @@ dv_has_:
     az: titan dioksid
     azb: تیتانیوم دی اوکسید
     be: аксід тытану(IV)
-    be-tarask: дыяаксыд тытану
+    be_tarask: дыяаксыд тытану
     bg: титанов диоксид
     bs: titanij dioksid
     ca: òxid de titani(IV)
@@ -202,8 +202,8 @@ dv_has_:
     sk: oxid titaničitý
     sl: titanov dioksid
     sr: титанијум диоксид
-    sr-ec: титанијум диоксид
-    sr-el: titanijum dioksid
+    sr_ec: титанијум диоксид
+    sr_el: titanijum dioksid
     sv: titandioxid
     ta: தைட்டானியம் ஈராக்சைடு
     th: TiO2
@@ -216,12 +216,12 @@ dv_has_:
     wuu: 二氧化钛
     yue: 鈦白粉
     zh: 二氧化鈦
-    zh-cn: 二氧化钛
-    zh-hans: 二氧化钛
-    zh-hant: 二氧化鈦
-    zh-hk: 二氧化鈦
-    zh-sg: 二氧化钛
-    zh-tw: 二氧化鈦
+    zh_cn: 二氧化钛
+    zh_hans: 二氧化钛
+    zh_hant: 二氧化鈦
+    zh_hk: 二氧化鈦
+    zh_sg: 二氧化钛
+    zh_tw: 二氧化鈦
 ---
 # [[Titanium_Dioxide]] 
 

@@ -101,7 +101,7 @@ dv_has_:
     az: marşal
     bar: Mareschallo
     be: маршал
-    be-tarask: маршал
+    be_tarask: маршал
     bg: Маршал
     bs: Generalfeldmaršal
     ca: mariscal
@@ -114,8 +114,8 @@ dv_has_:
     dsb: maršal
     el: στρατάρχης
     en: marshal
-    en-ca: Marshal
-    en-gb: marshall
+    en_ca: Marshal
+    en_gb: marshall
     eo: marŝalo
     es: mariscal
     et: Marssal
@@ -140,7 +140,7 @@ dv_has_:
     kk: Маршал
     ko: 원수
     ku: mereşal
-    ku-latn: mereşal
+    ku_latn: mereşal
     ky: Маршал
     la: Marescalcus
     lb: Marschall
@@ -157,7 +157,7 @@ dv_has_:
     pl: marszałek
     ps: مارشال
     pt: marechal
-    pt-br: Marechal
+    pt_br: Marechal
     ro: Mareșal
     ru: маршал
     sco: marshal
@@ -165,8 +165,8 @@ dv_has_:
     sk: Maršal
     sl: maršal
     sr: маршал
-    sr-ec: маршал
-    sr-el: maršal
+    sr_ec: маршал
+    sr_el: maršal
     sv: marskalk
     tg: маршал
     th: จอมพล
@@ -181,12 +181,12 @@ dv_has_:
     yi: מארשאל
     yue: 元帥
     zh: 元帅
-    zh-cn: 元帅
-    zh-hans: 元帅
-    zh-hant: 元帥
-    zh-hk: 元帥
-    zh-sg: 元帅
-    zh-tw: 元帥
+    zh_cn: 元帅
+    zh_hans: 元帅
+    zh_hant: 元帥
+    zh_hk: 元帥
+    zh_sg: 元帅
+    zh_tw: 元帥
 ---
 # [[Marshal]] 
 

@@ -135,7 +135,7 @@ dv_has_:
     az: Orion
     ba: Орион
     be: Арыён
-    be-tarask: Арыён
+    be_tarask: Арыён
     bg: Орион
     bn: কালপুরুষ
     bo: རྔོན་པའི་སྐར་ཚོམ་
@@ -153,7 +153,7 @@ dv_has_:
     diq: Seydwan
     el: Ωρίων
     en: Orion
-    en-gb: Orion
+    en_gb: Orion
     en-us: Orion
     eo: Oriono
     es: Orión
@@ -234,7 +234,7 @@ dv_has_:
     sl: Orion
     so: Orida
     sr: Орион
-    sr-ec: Орион
+    sr_ec: Орион
     sv: Orion
     sw: Jabari
     ta: ஒரியன்

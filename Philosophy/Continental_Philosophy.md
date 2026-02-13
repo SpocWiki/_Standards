@@ -63,7 +63,7 @@ dv_has_:
     ast: Filosofía continental
     az: Qitə fəlsəfəsi
     azb: قاره فلسفهسی
-    be-tarask: кантынэнтальная філязофія
+    be_tarask: кантынэнтальная філязофія
     bg: Континентална философия
     ca: filosofia continental
     ckb: فەلسەفەی کیشوەری
@@ -106,7 +106,7 @@ dv_has_:
     sh: Kontinentalna filozofija
     sl: kontinentalna filozofija
     sr: континентална филозофија
-    sr-ec: континентална филозофија
+    sr_ec: континентална филозофија
     sv: kontinental filosofi
     tl: Pilosopiyang pangkontinente
     tr: Kıta felsefesi

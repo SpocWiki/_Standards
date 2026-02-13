@@ -8,7 +8,7 @@ dv_has_:
     azb: لیدل
     bar: Lidl
     be: Lidl
-    be-tarask: Lidl
+    be_tarask: Lidl
     bg: Лидл
     br: Lidl
     ca: Lidl
@@ -59,12 +59,12 @@ dv_has_:
     uk: Lidl
     vec: Lidl
     zh: Lidl
-    zh-cn: Lidl
-    zh-hans: Lidl
-    zh-hant: Lidl
-    zh-hk: Lidl
-    zh-sg: Lidl
-    zh-tw: Lidl
+    zh_cn: Lidl
+    zh_hans: Lidl
+    zh_hant: Lidl
+    zh_hk: Lidl
+    zh_sg: Lidl
+    zh_tw: Lidl
 aliases:
 - Lidl
 - Лидл

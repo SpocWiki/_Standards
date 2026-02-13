@@ -78,7 +78,7 @@ dv_has_:
     arz: سام والتون (رجال اعمال)
     ast: Samuel Moore Walton
     bar: Samuel Moore Walton
-    be-tarask: Сэм Ўолтан
+    be_tarask: Сэм Ўолтан
     bg: Сам Уолтън
     bm: Samuel Moore Walton
     bn: স্যাম ওয়ালটন
@@ -91,11 +91,11 @@ dv_has_:
     da: Sam Walton
     de: Sam Walton
     de-at: Samuel Moore Walton
-    de-ch: Samuel Moore Walton
+    de_ch: Samuel Moore Walton
     el: Σαμ Γουόλτον
     en: Sam Walton
-    en-ca: Samuel Moore Walton
-    en-gb: Samuel Moore Walton
+    en_ca: Samuel Moore Walton
+    en_gb: Samuel Moore Walton
     eo: Sam Walton
     es: Sam Walton
     et: Samuel Moore Walton
@@ -139,7 +139,7 @@ dv_has_:
     nap: Samuel Moore Walton
     nb: Sam Walton
     nds: Samuel Moore Walton
-    nds-nl: Samuel Moore Walton
+    nds_nl: Samuel Moore Walton
     nl: Sam Walton
     nn: Sam Walton
     nrm: Samuel Moore Walton
@@ -151,7 +151,7 @@ dv_has_:
     pms: Samuel Moore Walton
     prg: Samuel Moore Walton
     pt: Sam Walton
-    pt-br: Samuel Moore Walton
+    pt_br: Samuel Moore Walton
     rgn: Samuel Moore Walton
     rm: Samuel Moore Walton
     ro: Samuel Moore Walton
@@ -163,7 +163,7 @@ dv_has_:
     sl: Sam Walton
     sq: Sam Walton
     sr: Sam Volton
-    sr-el: Samuel Moore Walton
+    sr_el: Samuel Moore Walton
     sv: Sam Walton
     sw: Samuel Moore Walton
     ta: சாம் வோல்ற்றன்
@@ -182,9 +182,9 @@ dv_has_:
     wo: Samuel Moore Walton
     yue: 山姆·沃爾頓
     zh: 山姆·沃尔顿
-    zh-hans: 山姆·沃尔顿
-    zh-hant: 山姆·沃爾頓
-    zh-hk: 山姆·沃爾頓
+    zh_hans: 山姆·沃尔顿
+    zh_hant: 山姆·沃爾頓
+    zh_hk: 山姆·沃爾頓
     zu: Samuel Moore Walton
 ---
 # [[Walton,Sam]] 

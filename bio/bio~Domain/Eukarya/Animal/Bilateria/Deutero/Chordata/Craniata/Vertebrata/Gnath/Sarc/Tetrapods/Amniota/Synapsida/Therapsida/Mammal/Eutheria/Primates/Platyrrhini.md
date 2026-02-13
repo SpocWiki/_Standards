@@ -104,7 +104,7 @@ dv_has_:
     pl: małpy szerokonose
     pnb: نویں دنیا دے باندر
     pt: Platyrrhini
-    pt-br: Platyrrhini
+    pt_br: Platyrrhini
     ro: Platirinieni
     ru: широконосые обезьяны
     sh: Majmuni Novog svijeta
@@ -121,12 +121,12 @@ dv_has_:
     vo: Platyrrhini
     war: Platyrrhini
     zh: 闊鼻小目
-    zh-cn: 阔鼻小目
-    zh-hans: 阔鼻小目
-    zh-hant: 闊鼻小目
-    zh-hk: 闊鼻小目
-    zh-sg: 阔鼻小目
-    zh-tw: 闊鼻小目
+    zh_cn: 阔鼻小目
+    zh_hans: 阔鼻小目
+    zh_hant: 闊鼻小目
+    zh_hk: 闊鼻小目
+    zh_sg: 阔鼻小目
+    zh_tw: 闊鼻小目
 ---
 # [[Platyrrhini]]
 

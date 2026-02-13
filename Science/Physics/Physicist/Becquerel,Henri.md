@@ -150,7 +150,7 @@ dv_has_:
     ban: Henri Becquerel
     bar: Henri Becquerel
     be: Антуан Анры Бекерэль
-    be-tarask: Антуан Анры Бэкерэль
+    be_tarask: Антуан Анры Бэкерэль
     bg: Анри Бекерел
     bn: অঁরি বেক্যরেল
     bs: Henri Becquerel
@@ -219,7 +219,7 @@ dv_has_:
     pms: Henri Antoine Becquerel
     pnb: ہینری بیکرل
     pt: Antoine Henri Becquerel
-    pt-br: Antoine Henri Becquerel
+    pt_br: Antoine Henri Becquerel
     qu: Henri Becquerel
     rmf: Henri Becquerel
     ro: Henri Becquerel
@@ -260,7 +260,7 @@ dv_has_:
     yue: 貝可勒爾
     za: Henri Becquerel
     zh: 亨利·贝可勒尔
-    zh-cn: 亨利·贝可勒尔
+    zh_cn: 亨利·贝可勒尔
 ---
 # [[Becquerel,Henri]] 
 

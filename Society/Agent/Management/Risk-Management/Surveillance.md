@@ -55,7 +55,7 @@ dv_has_:
     ar: مراقبة
     az: Nəzarət
     be: назіранне
-    be-tarask: назіраньне
+    be_tarask: назіраньне
     bn: নজরদারি
     ca: vigilància
     co: surveglianza
@@ -89,7 +89,7 @@ dv_has_:
     pnb: نگہداری
     ps: څارنه
     pt: vigilância
-    pt-br: vigilância
+    pt_br: vigilância
     ro: supraveghere
     ru: негласное наблюдение
     sk: sledovanie
@@ -99,14 +99,14 @@ dv_has_:
     sv: övervakning
     tr: Gözetim
     tt: күзәтү
-    tt-cyrl: күзәтү
+    tt_cyrl: күзәтү
     uk: спостереження (негласне)
     ur: نگہداری
     vec: viziłansa
     vi: giám sát
     zh: 監視
-    zh-hant: 監視
-    zh-tw: 監視
+    zh_hant: 監視
+    zh_tw: 監視
     zu: Indlozabukhoma
 ---
 # [[Surveillance]] 

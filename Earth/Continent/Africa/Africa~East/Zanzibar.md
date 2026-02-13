@@ -145,7 +145,7 @@ dv_has_:
     ba: Занзибар
     ban: Zanzibar
     be: Занзібар
-    be-tarask: Занзыбар
+    be_tarask: Занзыбар
     bg: Занзибар
     bn: জাঞ্জিবার
     br: Zanzibar
@@ -156,11 +156,11 @@ dv_has_:
     cy: Sansibar
     da: Zanzibar
     de: Sansibar
-    de-ch: Sansibar
+    de_ch: Sansibar
     el: Ζανζιβάρη
     en: Zanzibar Islands
-    en-ca: Zanzibar
-    en-gb: Zanzibar
+    en_ca: Zanzibar
+    en_gb: Zanzibar
     eo: Zanzibaro
     es: Zanzíbar
     et: Sansibar
@@ -220,7 +220,7 @@ dv_has_:
     pnb: زنجبار
     ps: زنجبار
     pt: Zanzibar
-    pt-br: Zanzibar
+    pt_br: Zanzibar
     ro: Zanzibar
     ru: Занзибар
     rw: Zanzibar
@@ -234,8 +234,8 @@ dv_has_:
     so: Sinjibaar
     sq: Zanzibari
     sr: Занзибар
-    sr-ec: Занзибар
-    sr-el: Zanzibar
+    sr_ec: Занзибар
+    sr_el: Zanzibar
     sv: Zanzibar
     sw: Jamhuri ya Watu wa Zanzibar
     ta: சன்சிபார்
@@ -257,7 +257,7 @@ dv_has_:
     yo: Zanzibar
     yue: 桑給巴爾
     zh: 桑給巴爾
-    zh-hans: 桑给巴尔
+    zh_hans: 桑给巴尔
     zu: Zanzibar
 ---
 # [[Zanzibar]] 

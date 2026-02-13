@@ -237,7 +237,7 @@ dv_has_:
     ba: Көнсығыш Европа
     bcl: Subangan na Europa
     be: Усходняя Еўропа
-    be-tarask: Усходняя Эўропа
+    be_tarask: Усходняя Эўропа
     bg: Източна Европа
     bn: পূর্ব ইউরোপ
     br: Europa ar Reter
@@ -305,7 +305,7 @@ dv_has_:
     lo: ເອີຣົບຕາເວັນອອກ
     lt: Rytų Europa
     lv: Austrumeiropa
-    map-bms: Eropa Timur
+    map_bms: Eropa Timur
     mdf: Шистяма Эвропа
     mg: Eorôpa Atsinanana
     mk: Источна Европа
@@ -313,11 +313,11 @@ dv_has_:
     mn: Зүүн Европ
     mr: पूर्व युरोप
     ms: Eropah Timur
-    ms-arab: ايروڤه تيمور
+    ms_arab: ايروڤه تيمور
     mt: Ewropa tal-Lvant
     nan: Tang-au
     nb: Øst-Europa
-    nds-nl: Oost-Europa
+    nds_nl: Oost-Europa
     nl: Oost-Europa
     nn: Aust-Europa
     nqo: ߋߙߐߔߎ߬ ߕߟߋ߬ߓߐ
@@ -331,7 +331,7 @@ dv_has_:
     pnb: چڑھدا یورپ
     ps: ختيځه اروپا
     pt: Europa de Leste
-    pt-br: Leste Europeu
+    pt_br: Leste Europeu
     ro: Europa de Est
     ru: Восточная Европа
     rue: Выходна Европа
@@ -348,7 +348,7 @@ dv_has_:
     sms: Nuõrtt-Europp
     sq: Evropa lindore
     sr: Источна Европа
-    sr-ec: Источна Европа
+    sr_ec: Источна Европа
     su: Éropa Wétan
     sv: Östeuropa
     sw: Ulaya ya Mashariki
@@ -360,8 +360,8 @@ dv_has_:
     tok: ma Elopa pi open suno
     tr: Doğu Avrupa
     tt: Көнчыгыш Европа
-    tt-cyrl: Көнчыгыш Аурупа
-    tt-latn: Könçığış Awrupa
+    tt_cyrl: Көнчыгыш Аурупа
+    tt_latn: Könçığış Awrupa
     udm: Ӵукпал Европа
     uk: Східна Європа
     ur: مشرقی یورپ
@@ -379,10 +379,10 @@ dv_has_:
     zea: Oôst-Europa
     zgh: ⵜⵓⵕⵓⴱⴱⵜ ⵜⴰⴳⵎⵓⴹⴰⵏⵜ
     zh: 东欧
-    zh-cn: 东欧
-    zh-hans: 东欧
-    zh-hant: 東歐
-    zh-hk: 東歐
+    zh_cn: 东欧
+    zh_hans: 东欧
+    zh_hant: 東歐
+    zh_hk: 東歐
 ---
 # [[Europe~East]] 
 

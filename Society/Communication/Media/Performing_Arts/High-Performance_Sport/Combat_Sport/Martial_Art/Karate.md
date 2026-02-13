@@ -96,7 +96,7 @@ dv_has_:
     ba: Карате
     ban: Karaté
     be: каратэ
-    be-tarask: каратэ
+    be_tarask: каратэ
     bg: Карате
     bi: Karate
     bn: কারাতে
@@ -125,7 +125,7 @@ dv_has_:
     gl: Karate
     gom: Karate
     gom-deva: कराटे
-    gom-latn: Karate
+    gom_latn: Karate
     gsw: Karate
     gu: કરાટે
     he: קראטה
@@ -179,7 +179,7 @@ dv_has_:
     pms: Karate
     pnb: کراٹے
     pt: caraté
-    pt-br: caratê
+    pt_br: caratê
     rki: ကိုယ်ခံပညာ
     rm: Karate
     ro: karate
@@ -207,7 +207,7 @@ dv_has_:
     tok: nasin Kalate
     tr: karate
     tt: карате
-    tt-cyrl: карате
+    tt_cyrl: карате
     uk: карате
     ur: کراٹے
     uz: Karate
@@ -219,9 +219,9 @@ dv_has_:
     yi: קאראטע
     yue: 空手道
     zh: 空手道
-    zh-cn: 空手道
-    zh-hant: 空手道
-    zh-tw: 空手道
+    zh_cn: 空手道
+    zh_hant: 空手道
+    zh_tw: 空手道
 ---
 # [[Karate]]  🥋
 

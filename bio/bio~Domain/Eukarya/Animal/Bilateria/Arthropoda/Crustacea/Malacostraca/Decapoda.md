@@ -95,7 +95,7 @@ dv_has_:
     azb: اوْن ایاقلیلار
     bar: Decapoda
     be: дзесяціногія ракападобныя
-    be-tarask: дзесяціногія ракападобныя
+    be_tarask: дзесяціногія ракападобныя
     bg: десетоноги
     br: Decapoda
     ca: decàpode
@@ -107,11 +107,11 @@ dv_has_:
     da: Tibenede krebsdyr
     de: Zehnfußkrebse
     de-at: Decapoda
-    de-ch: Zehnfusskrebse
+    de_ch: Zehnfusskrebse
     el: Δεκάποδα
     en: Decapoda
-    en-ca: Decapoda
-    en-gb: Decapoda
+    en_ca: Decapoda
+    en_gb: Decapoda
     eo: Dekpieduloj
     es: Decapoda
     et: kümnejalalised
@@ -164,7 +164,7 @@ dv_has_:
     nap: Decapoda
     nb: tifotkreps
     nds: Decapoda
-    nds-nl: Decapoda
+    nds_nl: Decapoda
     nl: tienpotigen
     nn: tifotkreps
     nrm: Decapoda
@@ -177,7 +177,7 @@ dv_has_:
     pms: Decapoda
     ps: لس پښې لرونکی ژوي
     pt: Decapoda
-    pt-br: Decapoda
+    pt_br: Decapoda
     rm: Decapoda
     ro: Decapoda
     ru: десятиногие ракообразные
@@ -210,10 +210,10 @@ dv_has_:
     wuu: 十足目
     yue: 十腳目
     zh: 十足目
-    zh-cn: 十足目
-    zh-hans: 十足目
-    zh-hk: 十足目
-    zh-tw: 十足目
+    zh_cn: 十足目
+    zh_hans: 十足目
+    zh_hk: 十足目
+    zh_tw: 十足目
     zu: Decapoda
 ---
 # [[Decapoda]]  

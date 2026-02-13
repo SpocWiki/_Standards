@@ -90,7 +90,7 @@ dv_has_:
     ar: السمفونية الخامسة
     az: Beşinci simfoniya
     ba: Симфония № 5 (Бетховен)
-    be-tarask: сымфонія №5
+    be_tarask: сымфонія №5
     bs: Simfonija br. 5
     ca: Simfonia núm. 5
     ceb: Symphony No. 5
@@ -101,8 +101,8 @@ dv_has_:
     de: 5. Sinfonie
     el: Συμφωνία αρ. 5
     en: Symphony No. 5
-    en-ca: Symphony No. 5
-    en-gb: Symphony No. 5
+    en_ca: Symphony No. 5
+    en_gb: Symphony No. 5
     eo: Simfonio n-ro 5 en C-minoro
     es: Sinfonía n.º 5
     eu: Bosgarren Sinfonia
@@ -129,14 +129,14 @@ dv_has_:
     pl: V symfonia Beethovena
     pnb: سمفنی نمبر 5
     pt: Sinfonia n.º 5
-    pt-br: Sinfonia n.º 5
+    pt_br: Sinfonia n.º 5
     ro: Simfonia a V-a de Beethoven
     ru: Симфония № 5
     sk: Symfónia č. 5
     sl: Simfonija št. 5
     sr: Симфонија бр. 5
-    sr-ec: Симфонија бр. 5
-    sr-el: Simfonija br. 5
+    sr_ec: Симфонија бр. 5
+    sr_el: Simfonija br. 5
     sv: Symfoni nr 5
     sw: Symphony No. 5
     ta: சிம்பொனி 5
@@ -148,12 +148,12 @@ dv_has_:
     wuu: 第5号交响曲 (贝多芬)
     yue: 第 5 號交響曲 (貝多芬)
     zh: 第5號交響曲
-    zh-cn: 第5号交响曲
-    zh-hans: 第5号交响曲
-    zh-hant: 第5號交響曲
-    zh-hk: 第5號交響曲
-    zh-sg: 第5号交响曲
-    zh-tw: 第5號交響曲
+    zh_cn: 第5号交响曲
+    zh_hans: 第5号交响曲
+    zh_hant: 第5號交響曲
+    zh_hk: 第5號交響曲
+    zh_sg: 第5号交响曲
+    zh_tw: 第5號交響曲
 ---
 # [[Symphony_5(Beethoven)]] 
 

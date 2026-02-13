@@ -51,7 +51,7 @@ dv_has_:
     avk: megoleem ke Balaenidae yasa
     az: Əsl balinalar
     ban: Balaenidae
-    be-tarask: Кітовыя
+    be_tarask: Кітовыя
     bg: Гладки китове
     br: Balaenidae
     ca: balènids
@@ -97,7 +97,7 @@ dv_has_:
     oc: Balaenidae
     pl: walowate
     pt: Baleia-franca
-    pt-br: Balaenidae
+    pt_br: Balaenidae
     ro: Balaenidae
     ru: Гладкие киты
     sh: Glatki kitovi
@@ -111,9 +111,9 @@ dv_has_:
     vo: Balaenidae
     war: Balaenidae
     zh: 露脊鲸科
-    zh-cn: 露脊鲸科
-    zh-hans: 露脊鲸科
-    zh-tw: 露脊鲸科
+    zh_cn: 露脊鲸科
+    zh_hans: 露脊鲸科
+    zh_tw: 露脊鲸科
 ---
 # [[Balaenidae]]
 

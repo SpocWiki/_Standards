@@ -178,7 +178,7 @@ dv_has_:
     az: Jan Kalvin
     ba: Кальвин Жан
     be: Жан Кальвін
-    be-tarask: Жан Кальвін
+    be_tarask: Жан Кальвін
     bg: Жан Калвин
     bi: John Calvin
     bn: জঁ কালভা
@@ -244,7 +244,7 @@ dv_has_:
     nan: Jean Calvin
     nb: Jean Calvin
     nds: Johannes Calvin
-    nds-nl: Johannes Calvijn
+    nds_nl: Johannes Calvijn
     nl: Johannes Calvijn
     nn: Jean Calvin
     oc: Joan Calvin
@@ -256,7 +256,7 @@ dv_has_:
     pnb: جان کالون
     ps: جان کالوین
     pt: João Calvino
-    pt-br: João Calvino
+    pt_br: João Calvino
     rki: ဂျွန်ကယ်လ်ဗင်
     rm: Johannes Calvin
     ro: Jean Calvin
@@ -269,7 +269,7 @@ dv_has_:
     sm: Ioane Kalavini
     sq: John Calvin
     sr: Жан Калвин
-    sr-ec: Жан Калвин
+    sr_ec: Жан Калвин
     stq: Johannes Calvin
     sv: Jean Calvin
     sw: Calvin
@@ -289,7 +289,7 @@ dv_has_:
     yue: 加爾文
     zea: Jewannes Calvijn
     zh: 约翰·加尔文
-    zh-hans: 约翰·加尔文
+    zh_hans: 约翰·加尔文
 ---
 # [[John_Calvin]] 
 

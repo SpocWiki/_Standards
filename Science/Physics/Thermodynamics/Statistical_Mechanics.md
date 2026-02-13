@@ -97,7 +97,7 @@ dv_has_:
     ast: mecánica estadística
     az: Statistik mexanika
     be: статыстычная механіка
-    be-tarask: статыстычная мэханіка
+    be_tarask: статыстычная мэханіка
     bg: статистическа механика
     bn: পরিসংখ্যানিক বলবিজ্ঞান
     ca: mecànica estadística
@@ -127,11 +127,11 @@ dv_has_:
     it: meccanica statistica
     ja: 統計力学
     kk: Статистикалық механика
-    kk-arab: ستاتىيستىيكالىق مەحانىيكا
+    kk_arab: ستاتىيستىيكالىق مەحانىيكا
     kk-cn: ستاتىيستىيكالىق مەحانىيكا
-    kk-cyrl: Статистикалық механика
+    kk_cyrl: Статистикалық механика
     kk-kz: Статистикалық механика
-    kk-latn: Statïstïkalıq mexanïka
+    kk_latn: Statïstïkalıq mexanïka
     kk-tr: Statïstïkalıq mexanïka
     ko: 통계역학
     lt: statistinė mechanika
@@ -160,8 +160,8 @@ dv_has_:
     sms: statistiikklaž mekanikk
     sq: mekanika statistike
     sr: Статистичка механика
-    sr-ec: Статистичка механика
-    sr-el: statistička mehanika
+    sr_ec: Статистичка механика
+    sr_el: statistička mehanika
     sv: statistisk mekanik
     ta: புள்ளியியல் எந்திரவியல்
     th: กลศาสตร์สถิติ
@@ -174,12 +174,12 @@ dv_has_:
     wuu: 统计力学
     yue: 統計力學
     zh: 统计力学
-    zh-cn: 统计力学
-    zh-hans: 统计力学
-    zh-hant: 統計力學
-    zh-hk: 統計力學
-    zh-sg: 统计力学
-    zh-tw: 統計力學
+    zh_cn: 统计力学
+    zh_hans: 统计力学
+    zh_hant: 統計力學
+    zh_hk: 統計力學
+    zh_sg: 统计力学
+    zh_tw: 統計力學
 ---
 # [[Statistical_Mechanics]] 
 

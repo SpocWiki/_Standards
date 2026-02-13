@@ -122,7 +122,7 @@ dv_has_:
     ba: туҡмас
     bar: Nuul
     be: локшына
-    be-tarask: локшына
+    be_tarask: локшына
     bew: mi
     bg: нудли
     bn: নুডলস
@@ -190,7 +190,7 @@ dv_has_:
     pa: ਨੂਡਲ
     pnb: نوڈل
     pt: talharim
-    pt-br: talharim
+    pt_br: talharim
     qu: hiryus
     ro: macaroane
     ru: лапша
@@ -199,8 +199,8 @@ dv_has_:
     sl: rezanec
     sq: noodle
     sr: кнедла
-    sr-ec: кнедла
-    sr-el: knedla
+    sr_ec: кнедла
+    sr_el: knedla
     su: emih
     sv: nudlar
     sw: tambi
@@ -218,11 +218,11 @@ dv_has_:
     za: mienh
     zh: 面条
     zh-cn: 面条
-    zh-hans: 面条
-    zh-hant: 麵條
-    zh-hk: 麵條
-    zh-sg: 面条
-    zh-tw: 麵條
+    zh_hans: 面条
+    zh_hant: 麵條
+    zh_hk: 麵條
+    zh_sg: 面条
+    zh_tw: 麵條
 ---
 # [[Noodle]] 🍜 
 

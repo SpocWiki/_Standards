@@ -113,7 +113,7 @@ dv_has_:
     ba: литосфера
     bcl: Litospera
     be: літасфера
-    be-tarask: літасфэра
+    be_tarask: літасфэра
     bg: литосфера
     bho: थलमंडल
     bn: অশ্মমণ্ডল
@@ -127,8 +127,8 @@ dv_has_:
     de: Lithosphäre
     el: λιθόσφαιρα
     en: lithosphere
-    en-ca: lithosphere
-    en-gb: lithosphere
+    en_ca: lithosphere
+    en_gb: lithosphere
     eo: litosfero
     es: litosfera
     et: litosfäär
@@ -163,7 +163,7 @@ dv_has_:
     mk: литосфера
     mn: Чулуун мандал
     ms: litosfera
-    ms-arab: ليتوسفيرا
+    ms_arab: ليتوسفيرا
     nan: Gâm-chio̍h-khoan
     nb: litosfære
     nl: lithosfeer
@@ -175,7 +175,7 @@ dv_has_:
     pl: litosfera
     ps: ليتوسفير
     pt: litosfera
-    pt-br: litosfera
+    pt_br: litosfera
     ro: litosferă
     ru: литосфера
     rue: Литосфера
@@ -191,8 +191,8 @@ dv_has_:
     so: Litosfeer
     sq: litosfera
     sr: литосфера
-    sr-ec: литосфера
-    sr-el: litosfera
+    sr_ec: литосфера
+    sr_el: litosfera
     su: litosfer
     sv: litosfär
     sw: Tabakamwamba

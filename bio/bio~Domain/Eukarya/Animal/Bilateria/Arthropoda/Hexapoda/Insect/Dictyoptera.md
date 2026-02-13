@@ -79,7 +79,7 @@ dv_has_:
     oc: Dictioptèrs
     pl: Dictyoptera
     pt: Dictyoptera
-    pt-br: Dictyoptera
+    pt_br: Dictyoptera
     ro: Dictyoptera
     ru: тараканообразные
     sl: Dictyoptera
@@ -92,9 +92,9 @@ dv_has_:
     vo: Dictyoptera
     war: Dictyoptera
     zh: 網翅總目
-    zh-cn: 网翅总目
-    zh-hans: 网翅总目
-    zh-tw: 網翅總目
+    zh_cn: 网翅总目
+    zh_hans: 网翅总目
+    zh_tw: 網翅總目
 ---
 # [[Dictyoptera]] 
 

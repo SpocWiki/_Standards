@@ -238,7 +238,7 @@ dv_has_:
     ban: Niels Bohr
     bcl: Niels Bohr
     be: Нільс Бор
-    be-tarask: Нільс Бор
+    be_tarask: Нільс Бор
     bg: Нилс Бор
     bn: নিলস বোর
     br: Niels Bohr
@@ -251,13 +251,13 @@ dv_has_:
     cy: Niels Bohr
     da: Niels Bohr
     de: Niels Bohr
-    de-ch: Niels Bohr
+    de_ch: Niels Bohr
     diq: Niels Bohr
     ee: Niels Bohr
     el: Νιλς Μπορ
     en: Niels Bohr
-    en-ca: Niels Bohr
-    en-gb: Niels Bohr
+    en_ca: Niels Bohr
+    en_gb: Niels Bohr
     en-us: Niels Bohr
     eo: Niels Bohr
     es: Niels Bohr
@@ -313,7 +313,7 @@ dv_has_:
     lmo: Niels Bohr
     lt: Niels Bohr
     lv: Nīlss Bors
-    map-bms: Niels Bohr
+    map_bms: Niels Bohr
     mg: Niels Bohr
     mk: Нилс Бор
     ml: നീൽസ് ബോർ
@@ -340,7 +340,7 @@ dv_has_:
     pnb: نیلز بوہر
     ps: نيلز بوهر
     pt: Niels Bohr
-    pt-br: Niels Bohr
+    pt_br: Niels Bohr
     qu: Niels Bohr
     ro: Niels Bohr
     ru: Нильс Бор
@@ -357,8 +357,8 @@ dv_has_:
     smj: Niels Bohr
     sq: Niels Bohr
     sr: Нилс Бор
-    sr-ec: Нилс Бор
-    sr-el: Nils Bor
+    sr_ec: Нилс Бор
+    sr_el: Nils Bor
     su: Niels Bohr
     sv: Niels Bohr
     sw: Niels Bohr

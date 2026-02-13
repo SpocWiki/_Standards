@@ -51,15 +51,15 @@ dv_has_:
     ar: زراعة صناعية
     ast: Agricultura industrial
     az: Aqrar-sənaye kompleksi
-    be-tarask: аграпрамысловы комплекс
+    be_tarask: аграпрамысловы комплекс
     bg: Аграрно-промишлен комплекс
     ca: Agricultura industrial
     cs: konvenční zemědělství
     da: Konventionelt landbrug
     de: industrielle Landwirtschaft
     en: industrial agriculture
-    en-ca: Industrial agriculture
-    en-gb: Industrial agriculture
+    en_ca: Industrial agriculture
+    en_gb: Industrial agriculture
     eo: Industria agrikulturo
     es: agricultura industrial
     et: Agraar-tööstuskompleks
@@ -71,9 +71,9 @@ dv_has_:
     id: Agroindustri
     ja: 工業型農業
     kk: Аграрлық-өнеркәсіптік кешен
-    kk-arab: اگرارلىق-ونەركاسىپتىك كەشەن
-    kk-cyrl: Аграрлық-өнеркәсіптік кешен
-    kk-latn: Agrarlıq-önerkäsiptik keşen
+    kk_arab: اگرارلىق-ونەركاسىپتىك كەشەن
+    kk_cyrl: Аграрлық-өнеркәсіптік кешен
+    kk_latn: Agrarlıq-önerkäsiptik keşen
     ko: 집약농업
     nan: Kang-gia̍p-hòa lông-gia̍p
     nb: industrielt jordbruk

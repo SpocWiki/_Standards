@@ -102,7 +102,7 @@ dv_has_:
     ast: Simbolismu
     az: simvolizm
     be: сімвалізм
-    be-tarask: сымбалізм
+    be_tarask: сымбалізм
     bg: символизъм
     bn: প্রতীকীবাদ
     br: arouezouriezh
@@ -113,11 +113,11 @@ dv_has_:
     cy: Symbolaeth (celf)
     da: symbolisme
     de: Symbolismus
-    de-ch: Symbolismus
+    de_ch: Symbolismus
     el: Συμβολισμός
     en: Symbolism
-    en-ca: symbolism
-    en-gb: symbolism
+    en_ca: symbolism
+    en_gb: symbolism
     en-us: Symbolism
     eo: simbolismo
     es: simbolismo
@@ -143,8 +143,8 @@ dv_has_:
     kk: символизм
     ko: 상징주의
     ku: sembolîzm
-    ku-arab: سەمبۆلیزم
-    ku-latn: sembolîzm
+    ku_arab: سەمبۆلیزم
+    ku_latn: sembolîzm
     kw: Symbolieth
     ky: символизм
     la: Symbolismus
@@ -164,7 +164,7 @@ dv_has_:
     pnb: سمبولزم
     ps: سمبوليزم
     pt: simbolismo
-    pt-br: simbolismo
+    pt_br: simbolismo
     ro: simbolism
     ru: символизм
     rue: символизм
@@ -181,8 +181,8 @@ dv_has_:
     sms: symbolismm
     sq: simbolizmi
     sr: симболизам
-    sr-ec: симболизам
-    sr-el: simbolizam
+    sr_ec: симболизам
+    sr_el: simbolizam
     stq: Symbolismus
     su: Simbolik
     sv: symbolism
@@ -196,12 +196,12 @@ dv_has_:
     wuu: 象征主义
     yue: 象徵主義
     zh: 象征主义
-    zh-cn: 象征主义
-    zh-hans: 象征主义
-    zh-hant: 象徵主義
-    zh-hk: 象徵主義
-    zh-sg: 象征主义
-    zh-tw: 象徵主義
+    zh_cn: 象征主义
+    zh_hans: 象征主义
+    zh_hant: 象徵主義
+    zh_hk: 象徵主義
+    zh_sg: 象征主义
+    zh_tw: 象徵主義
 ---
 # [[Symbolism]] 
 

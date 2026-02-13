@@ -42,7 +42,7 @@ dv_has_:
     az: Ketrin Ohara
     azb: کاترین اوهارا
     be: Кэтрын О’Хара
-    be-tarask: Кэтрын О’Гара
+    be_tarask: Кэтрын О’Гара
     bg: Катрин О'Хара
     bn: ক্যাথরিন ওহ্যারা
     ca: Catherine O'Hara
@@ -86,7 +86,7 @@ dv_has_:
     nn: Catherine O’Hara
     pap: Catherine O'Hara
     pt: Catherine O’Hara
-    pt-br: Catherine O’Hara
+    pt_br: Catherine O’Hara
     ro: Catherine O'Hara
     ru: Кэтрин О’Хара
     sk: Catherine O’Harová
@@ -100,8 +100,8 @@ dv_has_:
     uz: Catherine O'Hara
     yo: Catherine O'Hara
     zh: 凱薩琳·歐哈洛
-    zh-cn: 凯瑟琳·欧·哈拉
-    zh-hant: 凱瑟琳·歐哈拉
+    zh_cn: 凯瑟琳·欧·哈拉
+    zh_hant: 凱瑟琳·歐哈拉
 ---
 ## #has_/text_of_/abstract 
 

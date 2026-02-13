@@ -39,7 +39,7 @@ dv_has_:
     ba: күк
     bas: ŋgiì
     be: неба
-    be-tarask: неба
+    be_tarask: неба
     bg: небе
     bho: आसमान
     bn: আকাশ
@@ -64,7 +64,7 @@ dv_has_:
     dz: ནམ༌མཁའ
     el: ουρανός
     en: sky
-    en-gb: sky
+    en_gb: sky
     en-us: sky
     eo: ĉielo
     es: cielo
@@ -149,7 +149,7 @@ dv_has_:
     pnb: آسمان
     ps: آسمان
     pt: céu
-    pt-br: céu
+    pt_br: céu
     pwn: kalevelevan
     qu: hanaq pacha
     rmy: bollepen
@@ -171,7 +171,7 @@ dv_has_:
     so: cir
     sq: qiell
     sr: небо
-    sr-ec: небо
+    sr_ec: небо
     su: langit
     sv: himmel
     sw: mbingu
@@ -201,9 +201,9 @@ dv_has_:
     yue: 天
     za: mbwn
     zh: 天空
-    zh-cn: 天空
-    zh-hans: 天空
-    zh-hant: 天空
+    zh_cn: 天空
+    zh_hans: 天空
+    zh_hant: 天空
 aliases:
 - adhar
 - asamaan

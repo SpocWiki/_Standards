@@ -5,7 +5,7 @@ dv_has_:
     ar: طاقة غيبس الحرة
     ast: Enerxía de Gibbs
     az: Gibbs enerjisi
-    be-tarask: энэргія Гібса
+    be_tarask: энэргія Гібса
     bg: Свободна енергия на Гибс
     bn: গিবস মুক্ত শক্তি
     bs: Gibbsova slobodna energija
@@ -59,12 +59,12 @@ dv_has_:
     vi: Năng lượng tự do Gibbs
     yue: 吉布士自由能
     zh: 吉布斯自由能
-    zh-cn: 吉布斯自由能
-    zh-hans: 吉布斯自由能
-    zh-hant: 吉布斯自由能
-    zh-hk: 吉布士自由能
-    zh-sg: 吉布斯自由能
-    zh-tw: 吉布士自由能
+    zh_cn: 吉布斯自由能
+    zh_hans: 吉布斯自由能
+    zh_hant: 吉布斯自由能
+    zh_hk: 吉布士自由能
+    zh_sg: 吉布斯自由能
+    zh_tw: 吉布士自由能
 aliases:
 - Energi bebas Gibbs
 - Energia de Gibbs

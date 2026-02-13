@@ -133,7 +133,7 @@ dv_has_:
     azb: مشروطیت
     ba: Конституцион монархия
     be: канстытуцыйная манархія
-    be-tarask: канстытуцыйная манархія
+    be_tarask: канстытуцыйная манархія
     bg: Конституционна монархия
     bn: সাংবিধানিক রাজতন্ত্র
     br: Monarkiezh vonreizhel
@@ -150,8 +150,8 @@ dv_has_:
     diq: Monarşiya Qanuni
     el: συνταγματική μοναρχία
     en: constitutional monarchy
-    en-ca: constitutional monarchy
-    en-gb: constitutional monarchy
+    en_ca: constitutional monarchy
+    en_gb: constitutional monarchy
     eo: konstitucia monarkio
     es: monarquía constitucional
     et: konstitutsiooniline monarhia
@@ -186,7 +186,7 @@ dv_has_:
     krc: Конституциялы монархия
     ks: ٲئینی بادشاہت
     ku: keyîtiya makeqanûnî
-    ku-latn: keyîtiya makeqanûnî
+    ku_latn: keyîtiya makeqanûnî
     la: Monarchia constitutionalis
     lb: Konstitutionell Monarchie
     lfn: monarcia constitual
@@ -203,7 +203,7 @@ dv_has_:
     mn: Үндсэн хуульт хаант засаг
     mr: संविधानिक राजेशाही
     ms: raja berperlembagaan
-    ms-arab: راج برڤرلمباݢاءن
+    ms_arab: راج برڤرلمباݢاءن
     my: စည်းမျဉ်းခံဘုရင်စနစ်
     mzn: مشروطه سلطنت
     nan: Kun-chú li̍p-hiàn
@@ -220,7 +220,7 @@ dv_has_:
     pnb: آئینی بادشاہت
     ps: مشروطه پاچهي
     pt: monarquia constitucional
-    pt-br: monarquia constitucional
+    pt_br: monarquia constitucional
     ro: monarhie constituțională
     ru: конституционная монархия
     scn: munarchìa custituzziunali
@@ -256,11 +256,11 @@ dv_has_:
     yue: 君主立憲制
     zgh: ⵜⴰⴳⵍⴷⴰⵏⵜ ⵜⴰⴷⵙⵜⴰⵔⵜ
     zh: 君主立憲制
-    zh-cn: 君主立宪制
-    zh-hans: 君主立宪制
-    zh-hant: 君主立憲制
-    zh-hk: 君主立憲制
-    zh-tw: 君主立憲制
+    zh_cn: 君主立宪制
+    zh_hans: 君主立宪制
+    zh_hant: 君主立憲制
+    zh_hk: 君主立憲制
+    zh_tw: 君主立憲制
 ---
 # [[Constitutional_Monarchy]] 
 

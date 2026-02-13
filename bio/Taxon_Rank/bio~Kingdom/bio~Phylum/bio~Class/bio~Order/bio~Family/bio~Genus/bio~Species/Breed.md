@@ -85,7 +85,7 @@ Commons_category: Breeds
 dv_has_:
   name_:
     ar: سلالة حيوان أليف
-    be-tarask: завод
+    be_tarask: завод
     bg: порода
     ca: raça
     ce: тайпа
@@ -93,11 +93,11 @@ dv_has_:
     cv: ăрат
     da: husdyrrace
     de: Rasse
-    de-ch: Rasse
+    de_ch: Rasse
     el: φυλή
     en: breed
-    en-ca: breed
-    en-gb: breed
+    en_ca: breed
+    en_gb: breed
     eo: raso de hejmigita besto
     es: raza
     et: tõug
@@ -120,7 +120,7 @@ dv_has_:
     kab: iri
     ko: 품종
     ku: cure
-    ku-latn: cure
+    ku_latn: cure
     la: seminium
     lt: veislė
     lv: šķirne
@@ -135,7 +135,7 @@ dv_has_:
     pap: rasa
     pl: rasa
     pt: raça
-    pt-br: raça
+    pt_br: raça
     ro: rasă
     ru: порода
     sco: breed

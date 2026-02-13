@@ -208,7 +208,7 @@ dv_has_:
     ba: Ерҙең атмосфераһы
     bas: Mbɛ̀bi
     be: атмасфера Зямлі
-    be-tarask: атмасфэра Зямлі
+    be_tarask: атмасфэра Зямлі
     bg: атмосфера на Земята
     bho: वायुमंडल
     bn: পৃথিবীর বায়ুমণ্ডল
@@ -221,12 +221,12 @@ dv_has_:
     cy: atmosffer y Ddaear
     da: Jordens atmosfære
     de: Erdatmosphäre
-    de-ch: Erdatmosphäre
+    de_ch: Erdatmosphäre
     diq: hewa
     el: ατμόσφαιρα
     en: atmosphere of Earth
-    en-ca: atmosphere of Earth
-    en-gb: atmosphere of Earth
+    en_ca: atmosphere of Earth
+    en_gb: atmosphere of Earth
     eo: Tera atmosfero
     es: atmósfera terrestre
     et: atmosfäär
@@ -268,18 +268,18 @@ dv_has_:
     lo: ບັນຍາກາດຂອງໂລກ
     lt: Žemės atmosfera
     lv: Zemes atmosfēra
-    map-bms: atmosfer
+    map_bms: atmosfer
     mg: Soson-drivotry ny tany
     mk: Земјина атмосфера
     ml: ഭൗമാന്തരീക്ഷം
     mn: Дэлхийн агаар мандал
     mr: पृथ्वीचे वातावरण
     ms: atmosfera Bumi
-    ms-arab: اتموسفيرا بومي
+    ms_arab: اتموسفيرا بومي
     my: လေ
     nan: Tē-kiû ê tāi-khì-khoan
     nb: jordens atmosfære
-    nds-nl: dampkring
+    nds_nl: dampkring
     ne: पृथ्वीको वायुमण्डल
     nl: aardatmosfeer
     nn: jordatmosfæren
@@ -294,7 +294,7 @@ dv_has_:
     pnb: ہوا
     ps: د ځمکې اتموسپير
     pt: atmosfera da Terra
-    pt-br: atmosfera terrestre
+    pt_br: atmosfera terrestre
     qu: Wayra pacha
     rm: atmosfera da la terra
     ro: atmosfera Pământului
@@ -339,11 +339,11 @@ dv_has_:
     yue: 地球大氣層
     zea: atmosfeêr
     zh: 地球大气层
-    zh-cn: 地球大气层
-    zh-hans: 地球大气层
-    zh-hant: 地球大氣層
-    zh-hk: 地球大氣層
-    zh-tw: 地球大氣層
+    zh_cn: 地球大气层
+    zh_hans: 地球大气层
+    zh_hant: 地球大氣層
+    zh_hk: 地球大氣層
+    zh_tw: 地球大氣層
     zu: Umoyambulunga Womhlaba
 ---
 # [[Atmosphere,Earth]] 

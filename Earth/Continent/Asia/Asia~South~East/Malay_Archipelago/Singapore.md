@@ -65,7 +65,7 @@ dv_has_:
   name_:
     ace: Singapura
     ady: Сингапур
-    aeb-arab: سنغافورة
+    aeb_arab: سنغافورة
     af: Singapoer
     am: ሲንጋፖር
     ami: Singapore
@@ -88,7 +88,7 @@ dv_has_:
     bcl: Singapore
     bdr: Singapura
     be: Сінгапур
-    be-tarask: Сынгапур
+    be_tarask: Сынгапур
     bew: Singapur
     bg: Сингапур
     bho: सिंगापुर
@@ -105,14 +105,14 @@ dv_has_:
     bug: Singapura
     bxr: Сингапур
     ca: Singapur
-    cbk-zam: Singapur
+    cbk_zam: Singapur
     cdo: Sĭng-gă-pŏ̤
     ce: Сингапур
     ceb: Singgapura
     ckb: سینگاپوور
     co: Singapore
     crh: Singapur
-    crh-latn: Singapur
+    crh_latn: Singapur
     cs: Singapur
     csb: Singapùr
     cv: Сингапур
@@ -121,7 +121,7 @@ dv_has_:
     dag: Singapore
     de: Singapur
     de-at: Singapur
-    de-ch: Singapur
+    de_ch: Singapur
     diq: Singapur
     dsb: Singapur
     dtp: Singapura
@@ -131,8 +131,8 @@ dv_has_:
     ee: Singapore
     el: Σιγκαπούρη
     en: Singapore
-    en-ca: Singapore
-    en-gb: Singapore
+    en_ca: Singapore
+    en_gb: Singapore
     en-us: Singapore
     eo: Singapuro
     es: Singapur
@@ -158,7 +158,7 @@ dv_has_:
     gn: Singapur
     gom: सिंगापूर
     gom-deva: सिंगापूर
-    gom-latn: Singapore
+    gom_latn: Singapore
     gor: Singapura
     gpe: Singapore
     gsw: Singapùùr
@@ -199,7 +199,7 @@ dv_has_:
     kge: Singapur
     ki: Singapore
     kk: Сингапур
-    kk-cyrl: Сингапур
+    kk_cyrl: Сингапур
     kl: Singapore
     km: សិង្ហបុរី
     kn: ಸಿಂಗಾಪುರ್
@@ -228,7 +228,7 @@ dv_has_:
     lzh: 新加坡
     mad: Singapura
     mai: सिंगापुर
-    map-bms: Singapura
+    map_bms: Singapura
     mdf: Сингапур
     mg: Singapaoro
     mhr: Сингапур
@@ -240,7 +240,7 @@ dv_has_:
     mni: ꯁꯤꯡꯒꯥꯄꯣꯔ
     mr: सिंगापूर
     ms: Singapura
-    ms-arab: سيڠاڤورا
+    ms_arab: سيڠاڤورا
     mt: Singapore
     mwl: Singapura
     my: စင်ကာပူနိုင်ငံ
@@ -274,7 +274,7 @@ dv_has_:
     pnb: سنگاپور
     ps: سنګاپور
     pt: Singapura
-    pt-br: Singapura
+    pt_br: Singapura
     pwn: Singapura
     qu: Singapur
     rmy: Singapore
@@ -307,7 +307,7 @@ dv_has_:
     so: Singabuur
     sq: Singapori
     sr: Сингапур
-    sr-ec: Сингапур
+    sr_ec: Сингапур
     ss: ISingapholo
     su: Singapura
     sv: Singapore
@@ -321,7 +321,7 @@ dv_has_:
     te: సింగపూరు
     tet: Singapura
     tg: Сингапур
-    tg-cyrl: Сингапур
+    tg_cyrl: Сингапур
     th: ประเทศสิงคโปร์
     tk: Singapur
     tl: Singapore
@@ -357,14 +357,14 @@ dv_has_:
     za: Saengyabo
     zea: Singapoor
     zh: 新加坡
-    zh-cn: 新加坡
-    zh-hans: 新加坡
-    zh-hant: 新加坡
-    zh-hk: 新加坡
-    zh-mo: 新加坡
+    zh_cn: 新加坡
+    zh_hans: 新加坡
+    zh_hant: 新加坡
+    zh_hk: 新加坡
+    zh_mo: 新加坡
     zh-my: 新加坡
-    zh-sg: 新加坡
-    zh-tw: 新加坡
+    zh_sg: 新加坡
+    zh_tw: 新加坡
     zu: i-Singapore
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Singapore

@@ -36,7 +36,7 @@ dv_has_:
     oc: Eosentomidae
     pl: Eosentomidae
     pt: Eosentomidae
-    pt-br: Eosentomidae
+    pt_br: Eosentomidae
     ro: Eosentomidae
     ru: Eosentomidae
     sq: Eosentomidae
@@ -48,9 +48,9 @@ dv_has_:
     war: Eosentomidae
     yo: Eosentomidae
     zh: 古蚖科
-    zh-cn: 古蚖科
-    zh-hans: 古蚖科
-    zh-tw: 古蚖科
+    zh_cn: 古蚖科
+    zh_hans: 古蚖科
+    zh_tw: 古蚖科
 ---
 # [[Eosentomidae]] 
 

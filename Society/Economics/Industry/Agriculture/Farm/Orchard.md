@@ -91,7 +91,7 @@ dv_has_:
     ar: بستان
     ast: Güertu frutal
     be: пладовы сад
-    be-tarask: пладовы сад
+    be_tarask: пладовы сад
     bg: Овощна градина
     bjn: Kabun
     bs: Agrošumarstvo
@@ -100,12 +100,12 @@ dv_has_:
     cy: perllan
     da: frugthave
     de: Streuobstwiese
-    de-ch: Streuobstwiese
+    de_ch: Streuobstwiese
     diq: Bostan
     el: οπωρώνας
     en: orchard
-    en-ca: Orchard
-    en-gb: orchard
+    en_ca: Orchard
+    en_gb: orchard
     eo: fruktoĝardeno
     es: huerto frutal
     eu: Fruitu-baratze
@@ -134,14 +134,14 @@ dv_has_:
     ml: ഫല വൃക്ഷത്തോപ്പ്
     ms: Dusun
     my: စိုက်ပျိုးခြံ
-    nds-nl: boengerd
+    nds_nl: boengerd
     nl: boomgaard
     nn: fruktdyrking
     pdc: Baamgaarde
     pl: sad
     pnb: پھݪدار باغ
     pt: pomar
-    pt-br: Pomar
+    pt_br: Pomar
     qu: Mallki-mallki
     ro: Livadă
     ru: фруктовый сад

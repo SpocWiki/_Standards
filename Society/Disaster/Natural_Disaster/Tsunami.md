@@ -171,7 +171,7 @@ dv_has_:
     bar: Tsunami
     bcl: Dolnop
     be: цунамі
-    be-tarask: цунамі
+    be_tarask: цунамі
     bg: Цунами
     bho: सुनामी
     bjn: Tsunami
@@ -187,13 +187,13 @@ dv_has_:
     cy: tswnami
     da: tsunami
     de: Tsunami
-    de-ch: Tsunami
+    de_ch: Tsunami
     diq: Tsunami
     dty: सुनामी
     el: Τσουνάμι
     en: tsunami
-    en-ca: Tsunami
-    en-gb: tsunami
+    en_ca: Tsunami
+    en_gb: tsunami
     eo: cunamo
     es: tsunami
     et: tsunami
@@ -246,7 +246,7 @@ dv_has_:
     lt: cunamis
     lv: cunami
     lzh: 海溢
-    map-bms: Tsunami
+    map_bms: Tsunami
     mi: tai āniwhaniwha
     min: Tsunami
     mk: цунами
@@ -260,7 +260,7 @@ dv_has_:
     nan: Hái-tiòng
     nb: tsunami
     nds: Tsunami
-    nds-nl: vleuigolve
+    nds_nl: vleuigolve
     ne: सुनामी
     new: शुनामी
     nia: Tsunami
@@ -277,7 +277,7 @@ dv_has_:
     pnb: سونامی
     ps: سونامي
     pt: tsunâmi
-    pt-br: Tsunami
+    pt_br: Tsunami
     ro: tsunami
     ru: цунами
     rue: Цунамі
@@ -323,14 +323,14 @@ dv_has_:
     yue: 海嘯
     za: Haij Rongx
     zh: 海啸
-    zh-cn: 海啸
-    zh-hans: 海啸
-    zh-hant: 海嘯
-    zh-hk: 海嘯
-    zh-mo: 海嘯
+    zh_cn: 海啸
+    zh_hans: 海啸
+    zh_hant: 海嘯
+    zh_hk: 海嘯
+    zh_mo: 海嘯
     zh-my: 海啸
-    zh-sg: 海啸
-    zh-tw: 海嘯
+    zh_sg: 海啸
+    zh_tw: 海嘯
 ---
 # [[Tsunami]] 🌊 
 

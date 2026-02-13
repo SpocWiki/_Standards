@@ -69,7 +69,7 @@ dv_has_:
     az: Damanlar
     ban: Hiraks
     be: даманы
-    be-tarask: даман
+    be_tarask: даман
     bg: дамани
     br: Daman
     ca: damans
@@ -77,11 +77,11 @@ dv_has_:
     cs: damani
     da: Klippegrævlinger
     de: Schliefer
-    de-ch: Schliefer
+    de_ch: Schliefer
     el: ύραξ
     en: Hyracoidea
-    en-ca: Hyrax
-    en-gb: hyrax
+    en_ca: Hyrax
+    en_gb: hyrax
     eo: prokaviuloj
     es: Hyracoidea
     et: küüniskabjalised
@@ -128,7 +128,7 @@ dv_has_:
     oc: Hyracoidea
     pl: góralkowce
     pt: hyracoidea
-    pt-br: Hyracoidea
+    pt_br: Hyracoidea
     ro: Hiracoidee
     ru: даманы
     sco: Hyrax
@@ -153,9 +153,9 @@ dv_has_:
     xh: Imbila
     yue: 蹄兔目
     zh: 蹄兔目
-    zh-cn: 蹄兔目
-    zh-hans: 蹄兔目
-    zh-tw: 蹄兔目
+    zh_cn: 蹄兔目
+    zh_hans: 蹄兔目
+    zh_tw: 蹄兔目
 ---
 # Hyracoidea
 

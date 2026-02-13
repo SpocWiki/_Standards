@@ -93,7 +93,7 @@ dv_has_:
   name_:
     ar: رعاية اجتماعية
     be: сацыяльнае забеспячэнне
-    be-tarask: сацыяльнае забесьпячэньне
+    be_tarask: сацыяльнае забесьпячэньне
     bg: Социална защита
     bn: সমাজকল্যাণ
     ca: protecció social
@@ -101,11 +101,11 @@ dv_has_:
     cs: sociální péče
     da: velfærd
     de: Wohlfahrt
-    de-ch: Sozialhilfe
+    de_ch: Sozialhilfe
     el: κοινωνική ασφάλιση
     en: welfare spending
-    en-ca: welfare
-    en-gb: welfare
+    en_ca: welfare
+    en_gb: welfare
     eo: bonfaro
     es: bienestar social
     et: Sotsiaaltoetus
@@ -139,7 +139,7 @@ dv_has_:
     pl: zabezpieczenie społeczne
     ps: سوکالي
     pt: previdência social
-    pt-br: previdência social
+    pt_br: previdência social
     ro: ajutor social
     ru: социальное обеспечение
     sat: ᱵᱷᱟ.ᱞᱟ.ᱭ
@@ -159,8 +159,8 @@ dv_has_:
     yue: 社會福利
     zea: Biestand
     zh: 社會福利
-    zh-hant: 社會福利
-    zh-tw: 社會福利
+    zh_hant: 社會福利
+    zh_tw: 社會福利
 ---
 # [[Welfare_Spending]] 
 

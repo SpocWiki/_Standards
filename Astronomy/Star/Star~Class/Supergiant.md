@@ -81,7 +81,7 @@ dv_has_:
     ar: نجم فائق العملقة
     ast: superxigante
     az: ifratnəhəng ulduzlar
-    be-tarask: звышгігант
+    be_tarask: звышгігант
     bg: свръхгигант
     ca: supergegant
     cs: veleobr
@@ -122,8 +122,8 @@ dv_has_:
     sk: nadobor
     sl: nadorjakinja
     sr: суперџин
-    sr-ec: суперџин
-    sr-el: superdžin
+    sr_ec: суперџин
+    sr_el: superdžin
     sv: superjätte
     ta: பேரரக்கன்
     th: ดาวยักษ์ใหญ่
@@ -134,12 +134,12 @@ dv_has_:
     vi: Sao siêu khổng lồ
     yue: 超巨星
     zh: 超巨星
-    zh-cn: 超巨星
-    zh-hans: 超巨星
-    zh-hant: 超巨星
-    zh-hk: 超巨星
-    zh-sg: 超巨星
-    zh-tw: 超巨星
+    zh_cn: 超巨星
+    zh_hans: 超巨星
+    zh_hant: 超巨星
+    zh_hk: 超巨星
+    zh_sg: 超巨星
+    zh_tw: 超巨星
 ---
 # [[Supergiant]] 
 

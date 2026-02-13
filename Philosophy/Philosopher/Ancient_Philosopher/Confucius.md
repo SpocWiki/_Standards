@@ -304,7 +304,7 @@ dv_has_:
     bar: Konfuzius
     bcl: Confucius
     be: Канфуцый
-    be-tarask: Канфуцый
+    be_tarask: Канфуцый
     bew: Konghucu (pilsup)
     bg: Конфуций
     bho: कन्फ्यूशियस
@@ -317,7 +317,7 @@ dv_has_:
     btm: Konghucu
     bxr: Күнзы
     ca: Confuci
-    cbk-zam: Confucius
+    cbk_zam: Confucius
     cdo: Kūng-cṳ̄
     ce: Конфуци
     ceb: Confucio
@@ -331,15 +331,15 @@ dv_has_:
     cy: Conffiwsiws
     da: Konfutse
     de: Konfuzius
-    de-ch: Konfuzius
+    de_ch: Konfuzius
     diq: Konfuçius
     dsb: Konfucius
     dv: ކޮންފޫޝާ
     el: Κομφούκιος
     eml: Confûci
     en: Confucius
-    en-ca: Confucius
-    en-gb: Confucius
+    en_ca: Confucius
+    en_gb: Confucius
     en-us: Confucius
     eo: Konfuceo
     es: Confucio
@@ -399,7 +399,7 @@ dv_has_:
     ko: 공자
     ks: کَنفیٛوشِیاس
     ku: Konfuçyus
-    ku-latn: Konfuçyus
+    ku_latn: Konfuçyus
     kw: Confucius
     ky: Конфуций
     la: Confucius
@@ -416,7 +416,7 @@ dv_has_:
     lzh: 孔子
     mad: Konfusius
     mai: कन्फुसियस
-    map-bms: Konfusius
+    map_bms: Konfusius
     mdf: Конфуций
     mg: Confucius
     min: Konfusius
@@ -434,7 +434,7 @@ dv_has_:
     nap: Confucio
     nb: Konfucius
     nds: Konfuzius
-    nds-nl: Konfusius
+    nds_nl: Konfusius
     ne: कन्फुसियस
     new: कन्फ्युसियस
     nl: Confucius
@@ -530,14 +530,14 @@ dv_has_:
     zea: Confucius
     zgh: ⴽⵓⵏⴼⵓⵛⵢⵓⵙ
     zh: 孔子
-    zh-cn: 孔子
-    zh-hans: 孔子
-    zh-hant: 孔子
-    zh-hk: 孔子
-    zh-mo: 孔子
+    zh_cn: 孔子
+    zh_hans: 孔子
+    zh_hant: 孔子
+    zh_hk: 孔子
+    zh_mo: 孔子
     zh-my: 孔子
-    zh-sg: 孔子
-    zh-tw: 孔子
+    zh_sg: 孔子
+    zh_tw: 孔子
 ---
 # [[Confucius]] 
 

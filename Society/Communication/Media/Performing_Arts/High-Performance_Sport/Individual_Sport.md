@@ -99,7 +99,7 @@ dv_has_:
     nn: individuelle idrettsgreiner
     pl: sport indywidualny
     pt: desporto individual
-    pt-br: esporte individual
+    pt_br: esporte individual
     ro: sport individual
     ru: индивидуальный спорт
     scn: sport innividuali
@@ -115,14 +115,14 @@ dv_has_:
     vi: thể thao cá nhân
     yue: 個人運動
     zh: 個人運動
-    zh-cn: 个人运动
-    zh-hans: 个人运动
-    zh-hant: 個人運動
-    zh-hk: 個人運動
-    zh-mo: 個人運動
+    zh_cn: 个人运动
+    zh_hans: 个人运动
+    zh_hant: 個人運動
+    zh_hk: 個人運動
+    zh_mo: 個人運動
     zh-my: 个人运动
-    zh-sg: 个人运动
-    zh-tw: 個人運動
+    zh_sg: 个人运动
+    zh_tw: 個人運動
 ---
 # [[Individual_Sport]] 
 

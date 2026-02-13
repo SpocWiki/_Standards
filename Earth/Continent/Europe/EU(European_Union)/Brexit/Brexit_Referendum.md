@@ -109,12 +109,12 @@ dv_has_:
     cy: Refferendwm y Deyrnas Unedig ar aelodaeth o'r Undeb Ewropeaidd, 2016
     da: folkeafstemningen om Storbritanniens EU-medlemskab 2016
     de: EU-Mitgliedschaftsreferendum im Vereinigten Königreich 2016
-    de-ch: Referendum über den Verbleib des Vereinigten Königreichs in der Europäischen Union
+    de_ch: Referendum über den Verbleib des Vereinigten Königreichs in der Europäischen Union
     el: Βρετανικό δημοψήφισμα για την παραμονή στην Ευρωπαϊκή Ένωση
     eml: Brexit
     en: 2016 United Kingdom European Union membership referendum
-    en-ca: United Kingdom European Union membership referendum, 2016
-    en-gb: United Kingdom European Union membership referendum, 2016
+    en_ca: United Kingdom European Union membership referendum, 2016
+    en_gb: United Kingdom European Union membership referendum, 2016
     eo: Britelira referendumo de 2016
     es: referéndum sobre la permanencia del Reino Unido en la Unión Europea
     et: 2016. aasta Suurbritannia Euroopa Liidu liikmesuse referendum
@@ -149,7 +149,7 @@ dv_has_:
     pl: referendum w Wielkiej Brytanii w 2016
     pnb: برطانوی ریفرنڈم برائے یورپی یونین رکنیت 2016
     pt: referendo sobre a permanência do Reino Unido na União Europeia em 2016
-    pt-br: Referendo sobre a permanência do Reino Unido na União Europeia em 2016
+    pt_br: Referendo sobre a permanência do Reino Unido na União Europeia em 2016
     ro: Referendumul asupra menținerii Regatului Unit în Uniunea Europeană
     ru: референдум о членстве Великобритании в Европейском союзе
     sco: Unitit Kinrick European Union membership referendum, 2016

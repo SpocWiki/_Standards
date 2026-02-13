@@ -47,7 +47,7 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Sleight%20
 dv_has_:
   name_:
     ar: خفة اليد
-    be-tarask: прэстыдыжытацыя
+    be_tarask: прэстыдыжытацыя
     ca: prestidigitació
     cs: kouzelnický trik
     de: Taschenspiel

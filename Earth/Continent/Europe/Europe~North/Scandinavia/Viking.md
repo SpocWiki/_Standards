@@ -174,7 +174,7 @@ dv_has_:
     ba: Викингтар
     ban: Viking
     be: вікінгі
-    be-tarask: вікінгі
+    be_tarask: вікінгі
     bg: Викинги
     bn: ভাইকিং
     br: Vikinged
@@ -192,8 +192,8 @@ dv_has_:
     diq: Vikingi
     el: Βίκινγκ
     en: Vikings
-    en-ca: Viking
-    en-gb: Viking
+    en_ca: Viking
+    en_gb: Viking
     eo: vikingoj
     es: vikingo
     et: viikingid
@@ -254,7 +254,7 @@ dv_has_:
     nan: Viking-lâng
     nb: vikinger
     nds: Wikinger
-    nds-nl: Vikings
+    nds_nl: Vikings
     ne: भाइकिङहरू
     new: भाइकिङ
     nl: vikingen
@@ -267,7 +267,7 @@ dv_has_:
     pnb: وائی کنگ
     ps: وايکينګز (وايکينګيان)
     pt: Vikings
-    pt-br: Vikings
+    pt_br: Vikings
     rm: Vikings
     ro: Vikingi
     ru: викинги
@@ -292,7 +292,7 @@ dv_has_:
     ta: வைக்கிங்
     te: వైకింగ్స్
     tg: Викингҳо
-    tg-cyrl: Викингҳо
+    tg_cyrl: Викингҳо
     th: ชาวไวกิง
     tk: Wikingler
     tl: Viking
@@ -314,8 +314,8 @@ dv_has_:
     za: Vunz Veizging
     zgh: ⴼⴰⵢⴽⵉⵏⴳ
     zh: 維京人
-    zh-hant: 維京人
-    zh-tw: 維京人
+    zh_hant: 維京人
+    zh_tw: 維京人
 ---
 # [[Viking]] 
 

@@ -72,7 +72,7 @@ dv_has_:
     azb: وزیر
     ba: Вәзир
     be: візір
-    be-tarask: візір
+    be_tarask: візір
     bg: Везир
     bn: উজির
     bs: Vezir
@@ -107,8 +107,8 @@ dv_has_:
     kk: Уәзір
     ko: 와지르
     ku: Wezîr
-    ku-arab: وەزیر
-    ku-latn: Wezîr
+    ku_arab: وەزیر
+    ku_latn: Wezîr
     kw: veysyr
     ky: Вазир
     la: vezirus
@@ -132,8 +132,8 @@ dv_has_:
     sl: vezir
     sq: Veziri i madh
     sr: везир
-    sr-ec: Везир
-    sr-el: Vezir
+    sr_ec: Везир
+    sr_el: Vezir
     sv: vesir
     tg: вазир
     tr: kubbealtı veziri
@@ -145,12 +145,12 @@ dv_has_:
     wuu: 维齐尔
     yue: 維齊爾
     zh: 維齊爾
-    zh-cn: 维齐尔
-    zh-hans: 维齐尔
-    zh-hant: 維齊爾
-    zh-hk: 維齊爾
-    zh-sg: 维齐尔
-    zh-tw: 維齊爾
+    zh_cn: 维齐尔
+    zh_hans: 维齐尔
+    zh_hant: 維齊爾
+    zh_hk: 維齊爾
+    zh_sg: 维齐尔
+    zh_tw: 維齊爾
 ---
 # [[Vizier]] 
 

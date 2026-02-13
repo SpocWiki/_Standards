@@ -92,13 +92,13 @@ dv_has_:
     ba: Тхэквондо
     bcl: Taekwondo
     be: тэквандо
-    be-tarask: тэквандо
+    be_tarask: тэквандо
     bg: Таекуондо
     bn: তায়কোয়ান্দো
     br: Taekwondo
     bs: Taekwondo
     ca: taekwondo
-    cbk-zam: Taekwondo
+    cbk_zam: Taekwondo
     ce: Тхэквондо
     ceb: Taekwondo
     ckb: تایکواندۆ
@@ -204,11 +204,11 @@ dv_has_:
     wuu: 跆拳道
     yue: 跆拳道
     zh: 跆拳道
-    zh-cn: 跆拳道
-    zh-hans: 跆拳道
-    zh-hant: 跆拳道
-    zh-hk: 跆拳道
-    zh-tw: 跆拳道
+    zh_cn: 跆拳道
+    zh_hans: 跆拳道
+    zh_hant: 跆拳道
+    zh_hk: 跆拳道
+    zh_tw: 跆拳道
 ---
 # [[Taekwondo]] 
 

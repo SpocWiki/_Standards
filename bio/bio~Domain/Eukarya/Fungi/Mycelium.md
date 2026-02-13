@@ -68,7 +68,7 @@ dv_has_:
     ar: غزل فطري
     ast: miceliu
     be: міцэлій
-    be-tarask: грыбня
+    be_tarask: грыбня
     bg: мицел
     bn: মাইসেলিয়াম
     br: miseliom
@@ -80,8 +80,8 @@ dv_has_:
     de: Myzel
     el: μυκήλιο
     en: mycelium
-    en-ca: mycelium
-    en-gb: mycelium
+    en_ca: mycelium
+    en_gb: mycelium
     eo: micelio
     es: micelio
     et: mütseel
@@ -115,7 +115,7 @@ dv_has_:
     nn: mycel
     pl: grzybnia
     pt: micélio
-    pt-br: micélio
+    pt_br: micélio
     qu: k'allampa llika
     ro: miceliu
     ru: мицелий

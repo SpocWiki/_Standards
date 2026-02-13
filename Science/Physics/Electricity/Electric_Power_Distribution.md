@@ -95,7 +95,7 @@ dv_has_:
   name_:
     ar: توزيع الكهرباء
     ast: rede de distribución d'enerxía llétrico
-    be-tarask: разьмеркаваньне электраэнэргіі
+    be_tarask: разьмеркаваньне электраэнэргіі
     bg: разпределение на електрическа енергия
     bn: বিদ্যুৎ সরবরাহ
     ca: xarxa de transport d'energia elèctrica
@@ -133,8 +133,8 @@ dv_has_:
     sl: distribucija električne energije
     sq: Shpërndarja e energjisë elektrike
     sr: пренос електричне енергије
-    sr-ec: пренос електричне енергије
-    sr-el: prenos električne energije
+    sr_ec: пренос електричне енергије
+    sr_el: prenos električne energije
     ta: மின் வழங்கல்
     tr: Elektrik dağıtımı
     uk: розподільна мережа
@@ -142,9 +142,9 @@ dv_has_:
     wuu: 配电系统
     yue: 配電
     zh: 配電系統
-    zh-hans: 配电系统
-    zh-hant: 配電系統
-    zh-hk: 配電系統
+    zh_hans: 配电系统
+    zh_hant: 配電系統
+    zh_hk: 配電系統
 ---
 # [[Electric_Power_Distribution]] 
 

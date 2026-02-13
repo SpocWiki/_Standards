@@ -26,7 +26,7 @@ dv_has_:
     arz: مارڤيل اينترتينمينت
     ast: Marvel Entertainment
     azb: مارول ایلهنجه
-    be-tarask: Marvel Entertainment
+    be_tarask: Marvel Entertainment
     bn: মার্ভেল এন্টারটেইনমেন্ট
     ca: Marvel Entertainment
     ckb: مارڤڵ ئینتەرتەیمێنت
@@ -75,16 +75,16 @@ dv_has_:
     th: มาร์เวลเอนเตอร์เทนเมนต์
     tr: Marvel Entertainment
     tt: Marvel Entertainment
-    tt-cyrl: Marvel Entertainment
+    tt_cyrl: Marvel Entertainment
     uk: Marvel Entertainment
     uz: Marvel Entertainment
     vec: Marvel Entertainment
     vi: Marvel Entertainment
     wuu: 漫威娱乐
     zh: 漫威娛樂
-    zh-hans: 漫威娱乐
-    zh-hant: 漫威娛樂
-    zh-hk: 漫威娛樂
+    zh_hans: 漫威娱乐
+    zh_hant: 漫威娛樂
+    zh_hk: 漫威娛樂
 ---
 ## #has_/text_of_/abstract 
 

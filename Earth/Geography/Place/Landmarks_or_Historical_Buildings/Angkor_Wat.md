@@ -124,7 +124,7 @@ dv_has_:
     ban: Angkor Wat
     bcl: Angkor Wat
     be: Ангкор-Ват
-    be-tarask: Ангкор-Ват
+    be_tarask: Ангкор-Ват
     bg: Ангкор Ват
     bho: अंकोर वाट
     bn: আংকর বাট
@@ -241,10 +241,10 @@ dv_has_:
     yi: אנגקאר וואט
     yue: 吳哥窟
     zh: 吴哥窟
-    zh-cn: 吴哥窟
-    zh-hans: 吴哥窟
-    zh-hant: 吳哥窟
-    zh-hk: 吳哥窟
+    zh_cn: 吴哥窟
+    zh_hans: 吴哥窟
+    zh_hant: 吳哥窟
+    zh_hk: 吳哥窟
 ---
 # [[Angkor_Wat]] 
 

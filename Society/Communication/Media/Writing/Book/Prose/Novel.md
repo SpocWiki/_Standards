@@ -145,7 +145,7 @@ dv_has_:
     bar: Kuazgschicht
     bcl: Nobela
     be: раман
-    be-tarask: раман
+    be_tarask: раман
     bg: роман
     bho: उपन्यास
     bn: উপন্যাস
@@ -165,12 +165,12 @@ dv_has_:
     cy: nofel
     da: roman
     de: Roman
-    de-ch: Roman
+    de_ch: Roman
     diq: Roman
     el: μυθιστόρημα
     en: novel
-    en-ca: novel
-    en-gb: novel
+    en_ca: novel
+    en_gb: novel
     eo: romano
     es: novela
     et: romaan
@@ -236,7 +236,7 @@ dv_has_:
     mni: ꯋꯥꯔꯤ-ꯂꯤꯁꯥꯡ
     mr: कादंबरी
     ms: novel
-    ms-arab: نوۏل
+    ms_arab: نوۏل
     mt: rumanz
     mwl: remanse
     my: ဝတ္ထု
@@ -245,7 +245,7 @@ dv_has_:
     nan: Tn̂g-phiⁿ siáu-soat
     nb: roman
     nds: Roman
-    nds-nl: roman
+    nds_nl: roman
     ne: उपन्यास
     new: उपन्यास
     nl: roman
@@ -260,7 +260,7 @@ dv_has_:
     pnb: ناول
     ps: ناول
     pt: romance
-    pt-br: romance
+    pt_br: romance
     qu: kawsay rikch'a
     ro: roman
     ru: роман
@@ -283,7 +283,7 @@ dv_has_:
     sms: romaan
     sq: roman
     sr: роман
-    sr-ec: роман
+    sr_ec: роман
     su: novel
     sv: roman
     sw: riwaya
@@ -309,12 +309,12 @@ dv_has_:
     yue: 長篇小說
     zgh: ⵓⵏⴳⴰⵍ
     zh: 長篇小說
-    zh-cn: 长篇小说
-    zh-hans: 长篇小说
-    zh-hant: 長篇小說
-    zh-hk: 長篇小說
-    zh-mo: 長篇小說
-    zh-tw: 長篇小說
+    zh_cn: 长篇小说
+    zh_hans: 长篇小说
+    zh_hant: 長篇小說
+    zh_hk: 長篇小說
+    zh_mo: 長篇小說
+    zh_tw: 長篇小說
     zu: Itshelo
 ---
 # [[Novel]] 

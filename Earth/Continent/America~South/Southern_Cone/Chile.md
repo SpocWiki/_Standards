@@ -555,7 +555,7 @@ dv_has_:
     ab: Чили
     ace: Chili
     ady: Чили
-    aeb-arab: تشيلي
+    aeb_arab: تشيلي
     af: Chili
     am: ቺሌ
     ami: Chile
@@ -580,7 +580,7 @@ dv_has_:
     bbc: Chili
     bcl: Tsile
     be: Чылі
-    be-tarask: Чылі
+    be_tarask: Чылі
     bew: Cili
     bg: Чили
     bgn: چیلی
@@ -597,7 +597,7 @@ dv_has_:
     bug: Chili
     bxr: Чили
     ca: Xile
-    cbk-zam: Chile
+    cbk_zam: Chile
     cdo: Chile
     ce: Чили
     ceb: Tsile
@@ -607,7 +607,7 @@ dv_has_:
     ckb: چیلی
     co: Cile
     crh: Çile
-    crh-latn: Çile
+    crh_latn: Çile
     cs: Chile
     csb: Chile
     cu: Чилє
@@ -617,7 +617,7 @@ dv_has_:
     dag: Chile
     de: Chile
     de-at: Chile
-    de-ch: Chile
+    de_ch: Chile
     din: Cile
     diq: Şili
     dsb: Chilska
@@ -656,7 +656,7 @@ dv_has_:
     gn: Chile
     gom: चिली
     gom-deva: चिली
-    gom-latn: Chile
+    gom_latn: Chile
     got: "\U00010343\U00010337\U00010339\U0001033B\U00010334"
     gpe: Chile
     gsw: Chile
@@ -733,7 +733,7 @@ dv_has_:
     lzh: 智利
     mad: Chili
     mai: चिली
-    map-bms: Chile
+    map_bms: Chile
     mdf: Чили
     mg: Silia
     mhr: Чили
@@ -757,7 +757,7 @@ dv_has_:
     nap: Cile
     nb: Chile
     nds: Chile
-    nds-nl: Chili
+    nds_nl: Chili
     ne: चिली
     new: चिली
     nl: Chili
@@ -788,7 +788,7 @@ dv_has_:
     pnt: Χιλε
     ps: چيلي
     pt: Chile
-    pt-br: Chile
+    pt_br: Chile
     qu: Chili
     rm: Chile
     rmy: Chile
@@ -822,8 +822,8 @@ dv_has_:
     so: Jili
     sq: Kili
     sr: Чиле
-    sr-ec: Чиле
-    sr-el: Čile
+    sr_ec: Чиле
+    sr_el: Čile
     srn: Sili
     ss: IShile
     st: Chile
@@ -883,14 +883,14 @@ dv_has_:
     zea: Chili
     zgh: ⵛⵉⵍⵉ
     zh: 智利
-    zh-cn: 智利
-    zh-hans: 智利
-    zh-hant: 智利
-    zh-hk: 智利
-    zh-mo: 智利
+    zh_cn: 智利
+    zh_hans: 智利
+    zh_hant: 智利
+    zh_hk: 智利
+    zh_mo: 智利
     zh-my: 智利
-    zh-sg: 智利
-    zh-tw: 智利
+    zh_sg: 智利
+    zh_tw: 智利
     zu: Chili
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Chile

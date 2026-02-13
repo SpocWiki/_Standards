@@ -130,7 +130,7 @@ dv_has_:
     ay: Francisco Pizarro
     az: Fransisko Pizarro
     be: Франсіска Пісара
-    be-tarask: Франсыска Пісара
+    be_tarask: Франсыска Пісара
     bg: Франсиско Писаро
     bn: ফ্রান্সিসকো পিসার্রো
     br: Francisco Pizarro
@@ -185,7 +185,7 @@ dv_has_:
     pap: Francisco Pizarro
     pl: Francisco Pizarro
     pt: Francisco Pizarro
-    pt-br: Francisco Pizarro
+    pt_br: Francisco Pizarro
     qu: Francisco Pizarro
     ro: Francisco Pizarro
     ru: Франсиско Писарро
@@ -195,7 +195,7 @@ dv_has_:
     sl: Francisco Pizarro
     sq: Francisco Pizarro
     sr: Франсиско Пизаро
-    sr-ec: Франсиско Пизаро
+    sr_ec: Франсиско Пизаро
     stq: Francisco Pizarro
     sv: Francisco Pizarro
     sw: Francisco Pizarro
@@ -212,8 +212,8 @@ dv_has_:
     xmf: ფრანსისკო პისარო
     yue: 皮澤洛
     zh: 法蘭西斯克·皮澤洛
-    zh-cn: 法兰西斯克·皮泽洛
-    zh-hans: 法兰西斯克·皮泽洛
+    zh_cn: 法兰西斯克·皮泽洛
+    zh_hans: 法兰西斯克·皮泽洛
 ---
 # [[Pizarro,Francisco]] 
 

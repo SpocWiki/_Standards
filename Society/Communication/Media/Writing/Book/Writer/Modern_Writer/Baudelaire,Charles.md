@@ -154,7 +154,7 @@ dv_has_:
     azb: شارل بودلر
     ba: Шарль Бодлер
     be: Шарль Бадлер
-    be-tarask: Шарль Бадлер
+    be_tarask: Шарль Бадлер
     bg: Шарл Бодлер
     bn: শার্ল বোদলেয়ার
     bpy: বোদলেয়ার
@@ -167,12 +167,12 @@ dv_has_:
     cy: Charles Baudelaire
     da: Charles Baudelaire
     de: Charles Baudelaire
-    de-ch: Charles Baudelaire
+    de_ch: Charles Baudelaire
     diq: Charles Baudelaire
     el: Σαρλ Μπωντλαίρ
     en: Charles Baudelaire
-    en-ca: Charles Baudelaire
-    en-gb: Charles Baudelaire
+    en_ca: Charles Baudelaire
+    en_gb: Charles Baudelaire
     en-us: Charles Baudelaire
     eo: Charles Baudelaire
     es: Charles Baudelaire
@@ -222,7 +222,7 @@ dv_has_:
     nan: Charles Baudelaire
     nb: Charles Baudelaire
     nds: Charles Baudelaire
-    nds-nl: Charles Baudelaire
+    nds_nl: Charles Baudelaire
     ne: चार्ल्स बाउडेलायर
     nl: Charles Baudelaire
     nn: Charles Baudelaire
@@ -235,7 +235,7 @@ dv_has_:
     pms: Charles Baudelaire
     pnb: شارل بودیلیر
     pt: Charles Baudelaire
-    pt-br: Charles Baudelaire
+    pt_br: Charles Baudelaire
     qu: Charles Baudelaire
     ro: Charles Baudelaire
     ru: Шарль Бодлер
@@ -247,7 +247,7 @@ dv_has_:
     sl: Charles Baudelaire
     sq: Charles Baudelaire
     sr: Шарл Бодлер
-    sr-ec: Шарл Бодлер
+    sr_ec: Шарл Бодлер
     sv: Charles Baudelaire
     ta: சார்ல் போதலேர்
     te: చార్లెస్ బాడిలేర్
@@ -266,8 +266,8 @@ dv_has_:
     yi: שארל בּאָדלער
     yue: 波德萊爾
     zh: 夏尔·波德莱尔
-    zh-hk: 沙魯·波杜黎
-    zh-tw: 夏爾·波特萊爾
+    zh_hk: 沙魯·波杜黎
+    zh_tw: 夏爾·波特萊爾
 ---
 # [[Baudelaire,Charles]] 
 

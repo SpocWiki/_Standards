@@ -93,7 +93,7 @@ dv_has_:
     azb: چؤل
     ba: Дала
     be: стэп
-    be-tarask: стэп
+    be_tarask: стэп
     bg: Степ
     bho: स्टेप
     bn: স্তেপ
@@ -105,11 +105,11 @@ dv_has_:
     cy: Stepdir
     da: Steppe
     de: Steppe
-    de-ch: Steppe
+    de_ch: Steppe
     el: Στέπα
     en: steppe
-    en-ca: Steppe
-    en-gb: steppe
+    en_ca: Steppe
+    en_gb: steppe
     eo: stepo
     es: estepa
     et: Stepp
@@ -137,11 +137,11 @@ dv_has_:
     ka: ველი
     kbd: Ежьыгу
     kk: Дала
-    kk-arab: دالا
+    kk_arab: دالا
     kk-cn: دالا
-    kk-cyrl: Дала
+    kk_cyrl: Дала
     kk-kz: Дала
-    kk-latn: Dala
+    kk_latn: Dala
     kk-tr: Dala
     ko: 스텝
     ky: Жарым чөл зоналары
@@ -167,7 +167,7 @@ dv_has_:
     pl: step
     pnb: گیاہستان
     pt: estepe
-    pt-br: Estepe
+    pt_br: Estepe
     ro: stepă
     ru: степь
     scn: Steppa
@@ -176,8 +176,8 @@ dv_has_:
     sl: stepa
     sq: Stepa
     sr: степа
-    sr-ec: Степа
-    sr-el: Stepa
+    sr_ec: Степа
+    sr_el: Stepa
     sv: stäpp
     sw: Mbuga baridi
     ta: ஸ்டெப்பிப் புல்வெளிகள்
@@ -194,12 +194,12 @@ dv_has_:
     wuu: 沙地
     yue: 乾草原
     zh: 干草原
-    zh-cn: 干草原
-    zh-hans: 干草原
-    zh-hant: 乾草原
-    zh-hk: 乾草原
-    zh-sg: 干草原
-    zh-tw: 乾草原
+    zh_cn: 干草原
+    zh_hans: 干草原
+    zh_hant: 乾草原
+    zh_hk: 乾草原
+    zh_sg: 干草原
+    zh_tw: 乾草原
 ---
 # [[Steppe]] 
 

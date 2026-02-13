@@ -156,7 +156,7 @@ dv_has_:
     ba: Беринг боғаҙы
     ban: Selat Béring
     be: Берынгаў праліў
-    be-tarask: Бэрынгаў праліў
+    be_tarask: Бэрынгаў праліў
     bg: Берингов проток
     bho: बेरिंग जलजोड़
     bn: বেরিং প্রণালী
@@ -170,11 +170,11 @@ dv_has_:
     cy: Culfor Bering
     da: Beringstrædet
     de: Beringstraße
-    de-ch: Beringstrasse
+    de_ch: Beringstrasse
     el: Βερίγγειος πορθμός
     en: Bering Strait
-    en-ca: Bering Strait
-    en-gb: Bering Strait
+    en_ca: Bering Strait
+    en_gb: Bering Strait
     eo: Beringa Markolo
     es: Estrecho de Bering
     et: Beringi väin
@@ -219,7 +219,7 @@ dv_has_:
     mzn: برینگ دریا
     nan: Bering Hái-kiap
     nb: Beringstredet
-    nds-nl: Beringstroat
+    nds_nl: Beringstroat
     ne: बेरिंग जलसन्धि
     new: बेरिङ जलसन्धि
     nl: Beringstraat
@@ -231,7 +231,7 @@ dv_has_:
     pl: Cieśnina Beringa
     pnb: آبنائے بیرنگ
     pt: Estreito de Bering
-    pt-br: Estreito de Bering
+    pt_br: Estreito de Bering
     ro: Strâmtoarea Bering
     ru: Берингов пролив
     scn: Strittu di Bering
@@ -260,7 +260,7 @@ dv_has_:
     xmf: ბერინგიშ საროტი
     yue: 白令海峽
     zh: 白令海峡
-    zh-tw: 白令海峽
+    zh_tw: 白令海峽
 ---
 # [[Bering_Strait]] 
 

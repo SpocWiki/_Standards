@@ -151,7 +151,7 @@ dv_has_:
     azb: بوریس پاسترناک
     ba: Пастернак Борис Леонидович
     be: Барыс Леанідавіч Пастарнак
-    be-tarask: Барыс Пастарнак
+    be_tarask: Барыс Пастарнак
     bg: Борис Пастернак
     bn: বরিস লেয়োনিদভিচ পাস্তের্নাক
     br: Boris Pasternak
@@ -166,8 +166,8 @@ dv_has_:
     diq: Boris Pasternak
     el: Μπορίς Παστερνάκ
     en: Boris Pasternak
-    en-ca: Boris Pasternak
-    en-gb: Boris Pasternak
+    en_ca: Boris Pasternak
+    en_gb: Boris Pasternak
     eo: Boris Pasternak
     es: Borís Pasternak
     et: Boriss Pasternak
@@ -227,7 +227,7 @@ dv_has_:
     pnb: بورس پاسٹرنک
     ps: باريس ولاديميروويچ پاسترناک
     pt: Boris Pasternak
-    pt-br: Boris Pasternak
+    pt_br: Boris Pasternak
     ro: Boris Pasternak
     ru: Борис Леонидович Пастернак
     sh: Boris Pasternak
@@ -235,7 +235,7 @@ dv_has_:
     sl: Boris Leonidovič Pasternak
     sq: Boris Pasternak
     sr: Борис Пастернак
-    sr-ec: Борис Пастернак
+    sr_ec: Борис Пастернак
     sv: Boris Pasternak
     sw: Boris Leonidovich Pasternak
     ta: போரிஸ் பாஸ்ரர்நாக்

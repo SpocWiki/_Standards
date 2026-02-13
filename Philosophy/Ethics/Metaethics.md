@@ -50,18 +50,18 @@ dv_has_:
     ar: أخلاقيات فوقية
     ast: Metaética
     ba: Метаэтика
-    be-tarask: мэтаэтыка
+    be_tarask: мэтаэтыка
     bg: Мета-етика
     bn: পরানীতিশাস্ত্র
     ca: metaètica
     cs: metaetika
     da: metaetik
     de: Metaethik
-    de-ch: Metaethik
+    de_ch: Metaethik
     el: μεταηθική
     en: metaethics
-    en-ca: Meta-ethics
-    en-gb: meta-ethics
+    en_ca: Meta-ethics
+    en_gb: meta-ethics
     eo: metaetiko
     es: metaética
     et: metaeetika
@@ -90,7 +90,7 @@ dv_has_:
     pms: Metaética
     ps: ستر اخلاق
     pt: metaética
-    pt-br: Metaética
+    pt_br: Metaética
     ro: metaetică
     ru: метаэтика
     se: metaetihkka

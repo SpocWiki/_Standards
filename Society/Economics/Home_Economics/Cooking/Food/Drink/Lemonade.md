@@ -110,7 +110,7 @@ dv_has_:
     bas: limonad
     bbj: mluʼ
     be: ліманад
-    be-tarask: ліманад
+    be_tarask: ліманад
     bg: лимонада
     bkc: pe na dàdì màpulɔ̀
     bkh: bijɛpán
@@ -129,8 +129,8 @@ dv_has_:
     dua: limonad
     el: λεμονάδα
     en: lemonade
-    en-ca: lemonade
-    en-gb: lemonade
+    en_ca: lemonade
+    en_gb: lemonade
     eo: limonado
     es: limonada
     et: limonaad
@@ -211,8 +211,8 @@ dv_has_:
     yue: 檸檬水
     zh: 檸檬水
     zh-cn: 檸檬水
-    zh-hans: 檸檬水
-    zh-hant: 檸檬水
+    zh_hans: 檸檬水
+    zh_hant: 檸檬水
 ---
 # [[Lemonade]]
 

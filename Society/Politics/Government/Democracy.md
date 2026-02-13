@@ -213,7 +213,7 @@ dv_has_:
     bar: Demokratie
     bcl: Demokrasya
     be: дэмакратыя
-    be-tarask: дэмакратыя
+    be_tarask: дэмакратыя
     bg: Демокрация
     bho: लोकतंत्र
     blk: ဒီမိုကရေသီ
@@ -225,7 +225,7 @@ dv_has_:
     btm: Demokrasi
     bxr: Арадшалал
     ca: democràcia
-    cbk-zam: Democracia
+    cbk_zam: Democracia
     cdo: Mìng-ciō
     ce: Демократи
     ceb: Demokrasya
@@ -242,8 +242,8 @@ dv_has_:
     dv: ޑިމޮކްރަސީ
     el: δημοκρατία
     en: democracy
-    en-ca: Democracy
-    en-gb: democracy
+    en_ca: Democracy
+    en_gb: democracy
     eo: demokratio
     es: democracia
     et: demokraatia
@@ -305,7 +305,7 @@ dv_has_:
     krj: demokrasya
     ksh: Demokratie
     ku: demokrasî
-    ku-latn: demokrasî
+    ku_latn: demokrasî
     kw: Gwerinieth
     ky: демократия
     la: democratia
@@ -331,7 +331,7 @@ dv_has_:
     mnw: ဒဳမဝ်ကရေသဳ
     mr: लोकशाही
     ms: kerakyatan
-    ms-arab: كرعيتن
+    ms_arab: كرعيتن
     mt: demokrazija
     mwl: Democracie
     my: ဒီမိုကရေစီ
@@ -340,7 +340,7 @@ dv_has_:
     nan: Bîn-chú
     nb: demokrati
     nds: Demokratie
-    nds-nl: demokraty
+    nds_nl: demokraty
     ne: लोकतन्त्र
     new: मक्कळाट्चि
     nl: democratie
@@ -363,7 +363,7 @@ dv_has_:
     pnb: لوک راج
     ps: ولسواکي
     pt: democracia
-    pt-br: Democracia
+    pt_br: Democracia
     qu: Akllanakuspa kamachinakuy
     rm: Democrazia
     ro: democrație
@@ -428,14 +428,14 @@ dv_has_:
     za: Minzcuj
     zgh: ⵜⴰⴷⵉⵎⵓⵇⵕⴰⵟⵉⵜ
     zh: 民主制
-    zh-cn: 民主
-    zh-hans: 民主
-    zh-hant: 民主制
-    zh-hk: 民主
-    zh-mo: 民主
+    zh_cn: 民主
+    zh_hans: 民主
+    zh_hant: 民主制
+    zh_hk: 民主
+    zh_mo: 民主
     zh-my: 民主
-    zh-sg: 民主
-    zh-tw: 民主制
+    zh_sg: 民主
+    zh_tw: 民主制
     zu: Umbuso wabantu
 ---
 # [[Democracy]] 

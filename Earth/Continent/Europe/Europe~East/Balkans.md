@@ -210,7 +210,7 @@ dv_has_:
     azb: بالکان
     ba: Балҡан ярымутрауы
     be: Балканскі паўвостраў
-    be-tarask: Балканскі паўвостраў
+    be_tarask: Балканскі паўвостраў
     bg: Балкански полуостров
     bn: বলকান অঞ্চল
     br: Balkanioù
@@ -221,7 +221,7 @@ dv_has_:
     ckb: بالکان
     co: Balcani
     crh: Balqan yarımadası
-    crh-latn: Balqan yarımadası
+    crh_latn: Balqan yarımadası
     cs: Balkán
     csb: Bałkanë
     cu: Балкани
@@ -229,13 +229,13 @@ dv_has_:
     cy: Balcanau
     da: Balkanhalvøen
     de: Balkanhalbinsel
-    de-ch: Balkanhalbinsel
+    de_ch: Balkanhalbinsel
     diq: Balkanan
     dsb: Balkańska połkupa
     el: Βαλκάνια
     en: Balkans
-    en-ca: Balkans
-    en-gb: Balkans
+    en_ca: Balkans
+    en_gb: Balkans
     eo: Balkana duoninsulo
     es: península balcánica
     et: Balkani poolsaar
@@ -299,7 +299,7 @@ dv_has_:
     nap: Balcane
     nb: Balkan
     nds: Balkan
-    nds-nl: Balkan
+    nds_nl: Balkan
     ne: बाल्कन
     new: बाल्कन
     nl: Balkan
@@ -314,7 +314,7 @@ dv_has_:
     pnt: Βαλκανικόν Χερσόνησος
     ps: بالکان
     pt: Bálcãs
-    pt-br: Bálcãs
+    pt_br: Bálcãs
     qu: Walkan yaqa wat'a
     rm: Peninsla dal Balcan
     ro: Peninsula Balcanică
@@ -334,7 +334,7 @@ dv_has_:
     so: Jasiiradda Balkaan
     sq: Ballkani
     sr: Балканско полуострво
-    sr-ec: Балкан
+    sr_ec: Балкан
     sv: Balkanhalvön
     sw: Balkani
     szl: Bałkany
@@ -346,7 +346,7 @@ dv_has_:
     tl: Balkan
     tr: Balkanlar
     tt: Балкан ярымутравы
-    tt-cyrl: Балкан ярымутравы
+    tt_cyrl: Балкан ярымутравы
     ug: بالقانلار
     uk: Балканський півострів
     ur: بلقان
@@ -362,8 +362,8 @@ dv_has_:
     yue: 巴爾幹半島
     za: Bahwjgan buendauj
     zh: 巴尔干半岛
-    zh-hant: 巴爾幹半島
-    zh-tw: 巴爾幹半島
+    zh_hant: 巴爾幹半島
+    zh_tw: 巴爾幹半島
 ---
 # [[Balkans]] 
 

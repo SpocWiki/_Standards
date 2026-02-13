@@ -8,7 +8,7 @@ dv_has_:
     az: Asteridlər
     bcl: Asterids
     be: Asteridae
-    be-tarask: астэрыды
+    be_tarask: астэрыды
     bg: астериди
     bs: Asteride
     ca: Astèrides
@@ -61,7 +61,7 @@ dv_has_:
     wuu: 菊类植物
     yue: 菊類
     zh: 菊类植物
-    zh-cn: 菊类植物
+    zh_cn: 菊类植物
 aliases:
 - Asterid
 - Asteridae

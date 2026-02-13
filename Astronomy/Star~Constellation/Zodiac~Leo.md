@@ -150,7 +150,7 @@ dv_has_:
     bbc: Singa (pormesa na sampulu dua)
     bcl: Leo (konstelasyon)
     be: Леў
-    be-tarask: Леў
+    be_tarask: Леў
     bg: Лъв
     bn: সিংহ
     bo: སེང་གེའི་སྐར་ཚོམ་
@@ -231,7 +231,7 @@ dv_has_:
     sl: Lev
     sq: Luani
     sr: Лав
-    sr-ec: лав
+    sr_ec: лав
     sv: Lejonet
     sw: Asadi
     ta: சிம்மம்

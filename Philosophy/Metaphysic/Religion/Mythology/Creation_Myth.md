@@ -95,7 +95,7 @@ dv_has_:
     ar: أسطورة الخلق
     ast: Mitu de la creación
     az: Yayguçı
-    be-tarask: стварэньне Сусьвету
+    be_tarask: стварэньне Сусьвету
     bg: Сътворение на света
     bn: সৃষ্টিপুরাণ
     ca: Creació
@@ -157,12 +157,12 @@ dv_has_:
     war: Mito han Paghimo
     yue: 創世神話
     zh: 創世神話
-    zh-cn: 创世神话
-    zh-hans: 创世神话
-    zh-hant: 創世神話
-    zh-hk: 創世神話
-    zh-sg: 创世神话
-    zh-tw: 創世神話
+    zh_cn: 创世神话
+    zh_hans: 创世神话
+    zh_hant: 創世神話
+    zh_hk: 創世神話
+    zh_sg: 创世神话
+    zh_tw: 創世神話
 ---
 # [[Creation_Myth]] 
 

@@ -171,7 +171,7 @@ dv_has_:
     ban: télativitas umum
     bar: oigmoane Relativitetstheorie
     be: агульная тэорыя адноснасці
-    be-tarask: агульная тэорыя адноснасьці
+    be_tarask: агульная тэорыя адноснасьці
     bg: обща теория на относителността
     bho: सधारन सापेक्षता
     bn: সাধারণ আপেক্ষিকতা
@@ -189,8 +189,8 @@ dv_has_:
     de: allgemeine Relativitätstheorie
     el: γενική θεωρία της σχετικότητας
     en: general relativity
-    en-ca: general relativity
-    en-gb: general relativity
+    en_ca: general relativity
+    en_gb: general relativity
     eo: ĝenerala teorio de relativeco
     es: relatividad general
     et: üldrelatiivsusteooria
@@ -232,7 +232,7 @@ dv_has_:
     ml: സാമാന്യ ആപേക്ഷികതാസിദ്ധാന്തം
     mr: साधारण सापेक्षता
     ms: kerelatifan am
-    ms-arab: کريلاتيفن عام
+    ms_arab: کريلاتيفن عام
     mt: relattività ġenerali
     my: ယေဘုယျနှိုင်းရသီအိုရီ
     nan: It-poaⁿ siong-tùi-sèng lí-lūn
@@ -251,7 +251,7 @@ dv_has_:
     pnb: جنرل ریلیٹویٹی
     ps: عام نسبيت
     pt: relatividade geral
-    pt-br: relatividade geral
+    pt_br: relatividade geral
     ro: teoria relativității generale
     ru: общая теория относительности
     sco: general relativity
@@ -262,8 +262,8 @@ dv_has_:
     sl: splošna teorija relativnosti
     sq: relativiteti i përgjithshëm
     sr: општа теорија релативности
-    sr-ec: општа теорија релативности
-    sr-el: opšta teorija relativnosti
+    sr_ec: општа теорија релативности
+    sr_el: opšta teorija relativnosti
     sv: allmänna relativitetsteorin
     ta: பொதுச் சார்புக் கோட்பாடு
     te: సాధారణ సాపేక్షత
@@ -284,9 +284,9 @@ dv_has_:
     yue: 廣義相對論
     zgh: ⵜⵉⵎⵎⴰⵙⵖⵜ ⵜⴰⵎⴰⵜⴰⵢⵜ
     zh: 廣義相對論
-    zh-cn: 广义相对论
-    zh-hans: 广义相对论
-    zh-hant: 廣義相對論
+    zh_cn: 广义相对论
+    zh_hans: 广义相对论
+    zh_hant: 廣義相對論
 ---
 # [[General_Relativity]] 
 

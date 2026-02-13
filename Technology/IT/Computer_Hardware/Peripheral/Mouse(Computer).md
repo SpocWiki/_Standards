@@ -185,7 +185,7 @@ dv_has_:
     az: kompüter siçanı
     azb: ماوس
     be: камп’ютарная мыш
-    be-tarask: кампутарная мыш
+    be_tarask: кампутарная мыш
     bew: Cecurut
     bg: мишка
     bn: কম্পিউটার মাউস
@@ -200,8 +200,8 @@ dv_has_:
     de: Computermaus
     el: ποντίκι
     en: computer mouse
-    en-ca: computer mouse
-    en-gb: computer mouse
+    en_ca: computer mouse
+    en_gb: computer mouse
     eo: komputila muso
     es: mouse
     et: arvutihiir
@@ -257,7 +257,7 @@ dv_has_:
     mn: компьютерийн хулгана
     mr: माउस
     ms: tetikus
-    ms-arab: تتيکوس
+    ms_arab: تتيکوس
     my: ကြွက်
     mzn: ماؤس
     nan: ku̍t-chhí
@@ -274,7 +274,7 @@ dv_has_:
     pms: giarin
     pnt: πεντικόν
     pt: rato
-    pt-br: mouse
+    pt_br: mouse
     qu: antañiqiq ukucha
     ro: mouse
     ru: компьютерная мышь
@@ -290,8 +290,8 @@ dv_has_:
     sl: računalniška miška
     sq: mouse
     sr: рачунарски миш
-    sr-ec: рачунарски миш
-    sr-el: računarski miš
+    sr_ec: рачунарски миш
+    sr_el: računarski miš
     su: beubeuritan
     sv: datormus
     sw: puku
@@ -300,12 +300,12 @@ dv_has_:
     tcy: ಮೌಸ್
     te: మౌస్
     tg: мушвора
-    tg-latn: muşaki royona
+    tg_latn: muşaki royona
     th: เมาส์
     tl: maws
     tr: fare
     tt: санак тычканы
-    tt-cyrl: компьютер тычканы
+    tt_cyrl: компьютер тычканы
     ty: Kiore roro uira
     uk: комп'ютерна миша
     ur: فارہ
@@ -321,12 +321,12 @@ dv_has_:
     yue: 滑鼠
     za: Aennou
     zh: 鼠标
-    zh-cn: 鼠标
-    zh-hant: 滑鼠
-    zh-hk: 滑鼠
+    zh_cn: 鼠标
+    zh_hant: 滑鼠
+    zh_hk: 滑鼠
     zh-my: 滑鼠
-    zh-sg: 滑鼠
-    zh-tw: 滑鼠
+    zh_sg: 滑鼠
+    zh_tw: 滑鼠
     zu: Isikhwence
 ---
 # [[Mouse(Computer)]] 🖯 

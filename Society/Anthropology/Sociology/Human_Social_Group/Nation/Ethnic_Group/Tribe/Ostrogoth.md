@@ -81,7 +81,7 @@ dv_has_:
     az: Ostroqotlar
     ba: Остготтар
     be: Остготы
-    be-tarask: остготы
+    be_tarask: остготы
     bg: Остготи
     br: Ostrogoted
     ca: ostrogots
@@ -141,8 +141,8 @@ dv_has_:
     sl: Ostrogoti
     sq: Ostrogotët
     sr: Остроготи
-    sr-ec: Остроготи
-    sr-el: Ostrogoti
+    sr_ec: Остроготи
+    sr_el: Ostrogoti
     sv: ostrogoter
     sw: Waostrogoti
     th: ชาวออสโตรกอท
@@ -156,12 +156,12 @@ dv_has_:
     wuu: 东哥特人
     yue: 東哥德人
     zh: 東哥德人
-    zh-cn: 东哥特人
-    zh-hans: 东哥特人
-    zh-hant: 東哥德人
-    zh-hk: 東哥德人
-    zh-sg: 东哥德人
-    zh-tw: 東哥德人
+    zh_cn: 东哥特人
+    zh_hans: 东哥特人
+    zh_hant: 東哥德人
+    zh_hk: 東哥德人
+    zh_sg: 东哥德人
+    zh_tw: 東哥德人
 ---
 # [[Ostrogoth]] 
 

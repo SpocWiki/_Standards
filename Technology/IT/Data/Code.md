@@ -85,7 +85,7 @@ dv_has_:
     az: Kod
     bcl: Kodigo
     be: код
-    be-tarask: код
+    be_tarask: код
     bg: Код
     bn: কোড
     br: kod
@@ -117,22 +117,22 @@ dv_has_:
     ja: 符号
     kcg: zwunzwuo-a̱muup
     kk: Кода
-    kk-arab: كودا
+    kk_arab: كودا
     kk-cn: كودا
-    kk-cyrl: Кода
+    kk_cyrl: Кода
     kk-kz: Кода
-    kk-latn: Koda
+    kk_latn: Koda
     kk-tr: Koda
     ko: 부호
     ku: kod
-    ku-latn: kod
+    ku_latn: kod
     ky: Код
     la: Codex
     lv: kods
     mk: код
     ml: കോഡ്
     ms: kod
-    ms-arab: کود
+    ms_arab: کود
     nan: Hû-hō
     nb: kode
     nl: code
@@ -151,8 +151,8 @@ dv_has_:
     sl: koda
     sq: Kodi
     sr: код
-    sr-ec: Код
-    sr-el: Kod
+    sr_ec: Код
+    sr_el: Kod
     sv: kodning
     sw: Usimbaji
     ta: குறியீடு
@@ -161,7 +161,7 @@ dv_has_:
     tl: Code
     tr: kod
     tt: код
-    tt-cyrl: код
+    tt_cyrl: код
     udm: Код
     uk: код
     ur: رمز
@@ -171,14 +171,14 @@ dv_has_:
     wuu: 代码
     yue: 編碼
     zh: 代码
-    zh-cn: 代码
-    zh-hans: 代码
-    zh-hant: 代碼
-    zh-hk: 代碼
-    zh-mo: 代碼
+    zh_cn: 代码
+    zh_hans: 代码
+    zh_hant: 代碼
+    zh_hk: 代碼
+    zh_mo: 代碼
     zh-my: 代码
-    zh-sg: 代码
-    zh-tw: 編碼
+    zh_sg: 代码
+    zh_tw: 編碼
     zu: Inguqukezo
 ---
 # [[Code]] 

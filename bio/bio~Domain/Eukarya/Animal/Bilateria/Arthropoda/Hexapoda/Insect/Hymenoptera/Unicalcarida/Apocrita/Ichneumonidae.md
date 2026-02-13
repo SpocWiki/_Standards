@@ -76,13 +76,13 @@ dv_has_:
     my: အစ်ကနျူမန်နကျယ်
     nb: darwinvepser
     nds: Sluppwöpsen
-    nds-nl: sloepwapse
+    nds_nl: sloepwapse
     nl: gewone sluipwespen
     nv: Jáád neishoodítsʼóóz
     oc: Ichneumonidae
     pl: gąsienicznikowate
     pt: Ichneumonidae
-    pt-br: Ichneumonidae
+    pt_br: Ichneumonidae
     ro: Ichneumonidae
     ru: Ихневмониды
     sq: Ichneumonidae
@@ -96,9 +96,9 @@ dv_has_:
     vo: Ichneumonidae
     war: Ichneumonidae
     zh: 姬蜂科
-    zh-cn: 姬蜂科
-    zh-hans: 姬蜂科
-    zh-tw: 姬蜂科
+    zh_cn: 姬蜂科
+    zh_hans: 姬蜂科
+    zh_tw: 姬蜂科
 ---
 # [[Ichneumonidae]] 
 

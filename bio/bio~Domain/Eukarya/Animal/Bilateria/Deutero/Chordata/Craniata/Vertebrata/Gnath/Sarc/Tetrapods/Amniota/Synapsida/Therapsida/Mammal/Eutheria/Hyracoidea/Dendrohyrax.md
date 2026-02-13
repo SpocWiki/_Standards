@@ -59,9 +59,9 @@ dv_has_:
     vi: Dendrohyrax
     war: Dendrohyrax
     zh: 树蹄兔属
-    zh-hans: 树蹄兔属
-    zh-hant: 樹蹄兔屬
-    zh-hk: 樹蹄兔屬
+    zh_hans: 树蹄兔属
+    zh_hant: 樹蹄兔屬
+    zh_hk: 樹蹄兔屬
 ---
 # [[Dendrohyrax]]
 

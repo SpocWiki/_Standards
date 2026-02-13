@@ -160,7 +160,7 @@ dv_has_:
     az: şiddət
     bcl: Kadahasan
     be: гвалт
-    be-tarask: гвалт
+    be_tarask: гвалт
     bg: hасилие
     bn: হিংসা
     bo: ལོག་གཡེམ་མམ་ཉེས་སྤྱོད།
@@ -230,7 +230,7 @@ dv_has_:
     pl: przemoc
     pms: violensa
     pt: violência
-    pt-br: violência
+    pt_br: violência
     qu: atipakuy
     ro: violență
     ru: насилие
@@ -247,8 +247,8 @@ dv_has_:
     sn: Mhanda (Kurwa)
     sq: dhunë
     sr: насиље
-    sr-ec: насиље
-    sr-el: nasilje
+    sr_ec: насиље
+    sr_el: nasilje
     sv: våld
     ta: வன்முறை
     tg: Зӯроварӣ
@@ -264,12 +264,12 @@ dv_has_:
     wuu: 暴力
     yue: 暴力
     zh: 暴力
-    zh-cn: 暴力
-    zh-hans: 暴力
-    zh-hant: 暴力
-    zh-hk: 暴力
-    zh-sg: 暴力
-    zh-tw: 暴力
+    zh_cn: 暴力
+    zh_hans: 暴力
+    zh_hant: 暴力
+    zh_hk: 暴力
+    zh_sg: 暴力
+    zh_tw: 暴力
 ---
 # [[Violence]] 
 

@@ -49,7 +49,7 @@ dv_has_:
     ast: Adoxaceae
     az: Adokskimilər
     be: Адоксавыя
-    be-tarask: Адоксавыя
+    be_tarask: Адоксавыя
     bg: мешковицови
     bs: Adoxaceae
     ca: adoxàcies
@@ -86,8 +86,8 @@ dv_has_:
     kk: Байсаттар тұқымдасы
     ko: 연복초과
     ku: Famîleya adoksasiyan
-    ku-arab: فامیلەیائا دۆکساسیان
-    ku-latn: Famîleya adoksasiyan
+    ku_arab: فامیلەیائا دۆکساسیان
+    ku_latn: Famîleya adoksasiyan
     la: Adoxaceae
     lt: Ūksmininiai
     lv: Bezslavīšu dzimta
@@ -99,7 +99,7 @@ dv_has_:
     oc: Adoxaceae
     pl: Piżmaczkowate
     pt: Adoxaceae
-    pt-br: Adoxaceae
+    pt_br: Adoxaceae
     ro: Adoxaceae
     ru: Адоксовые
     sk: pižmovkovité
@@ -113,12 +113,12 @@ dv_has_:
     vo: Adoxaceae
     war: Adoxaceae
     zh: 五福花科
-    zh-cn: 五福花科
-    zh-hans: 五福花科
-    zh-hant: 五福花科
-    zh-hk: 五福花科
-    zh-sg: 五福花科
-    zh-tw: 五福花科
+    zh_cn: 五福花科
+    zh_hans: 五福花科
+    zh_hant: 五福花科
+    zh_hk: 五福花科
+    zh_sg: 五福花科
+    zh_tw: 五福花科
 ---
 # [[Adoxaceae]] 
 

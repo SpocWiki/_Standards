@@ -88,7 +88,7 @@ dv_has_:
     az: Oktant
     ba: Октант
     be: Актант
-    be-tarask: Актант
+    be_tarask: Актант
     bg: Октант
     bn: অষ্টাংশ মণ্ডল
     br: Oktant

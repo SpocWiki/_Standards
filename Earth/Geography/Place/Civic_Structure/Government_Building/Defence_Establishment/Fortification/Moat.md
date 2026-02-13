@@ -103,7 +103,7 @@ dv_has_:
     azb: خندق
     bcl: Atbong
     be: роў
-    be-tarask: роў
+    be_tarask: роў
     bg: Ров
     ca: fossat
     cs: příkop
@@ -111,11 +111,11 @@ dv_has_:
     cy: ffos
     da: voldgrav
     de: Wehrgraben
-    de-ch: Burggraben
+    de_ch: Burggraben
     el: τάφρος
     en: moat
-    en-ca: moat
-    en-gb: moat
+    en_ca: moat
+    en_gb: moat
     eo: fosaĵo
     es: foso
     et: vallikraav
@@ -148,7 +148,7 @@ dv_has_:
     pl: fosa
     pnb: خندق
     pt: fosso
-    pt-br: Fosso
+    pt_br: Fosso
     ro: Șanț
     ru: ров
     sh: šanac

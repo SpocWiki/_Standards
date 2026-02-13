@@ -108,7 +108,7 @@ dv_has_:
     ban: pangaweruh indik parilaksana nenten patut
     bcl: Kriminolohiya
     be: крыміналогія
-    be-tarask: крыміналёгія
+    be_tarask: крыміналёгія
     bg: Криминология
     bn: অপরাধ বিজ্ঞান
     br: Torfedouriezh
@@ -121,7 +121,7 @@ dv_has_:
     de: Kriminologie
     el: εγκληματολογία
     en: criminology
-    en-gb: criminology
+    en_gb: criminology
     eo: krimscienco
     es: criminología
     et: kriminoloogia
@@ -142,11 +142,11 @@ dv_has_:
     jv: Kriminologi
     kaa: Kriminologiya
     kk: Криминология
-    kk-arab: كرىيمىينولوگىييا
+    kk_arab: كرىيمىينولوگىييا
     kk-cn: كرىيمىينولوگىييا
-    kk-cyrl: Криминология
+    kk_cyrl: Криминология
     kk-kz: Криминология
-    kk-latn: Krïmïnologïya
+    kk_latn: Krïmïnologïya
     kk-tr: Krïmïnologïya
     kn: ಅಪರಾಧ-ಶಾಸ್ತ್ರ
     ko: 범죄학
@@ -171,7 +171,7 @@ dv_has_:
     pl: kryminologia
     ps: جرمپوهنه
     pt: criminologia
-    pt-br: criminologia
+    pt_br: criminologia
     ro: criminologie
     ru: криминология
     rue: Криминология
@@ -189,8 +189,8 @@ dv_has_:
     sms: kriminologia
     sq: kriminologjia
     sr: криминологија
-    sr-ec: Криминологија
-    sr-el: Kriminologija
+    sr_ec: Криминологија
+    sr_el: Kriminologija
     sv: kriminologi
     tg: Ҷурмшиносӣ
     th: อาชญาวิทยา
@@ -204,12 +204,12 @@ dv_has_:
     wuu: 犯罪学
     yue: 犯罪學
     zh: 犯罪學
-    zh-cn: 犯罪学
-    zh-hans: 犯罪学
-    zh-hant: 犯罪學
-    zh-hk: 犯罪學
-    zh-sg: 犯罪学
-    zh-tw: 犯罪學
+    zh_cn: 犯罪学
+    zh_hans: 犯罪学
+    zh_hant: 犯罪學
+    zh_hk: 犯罪學
+    zh_sg: 犯罪学
+    zh_tw: 犯罪學
 ---
 # [[Criminology]] 
 

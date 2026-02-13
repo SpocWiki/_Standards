@@ -30,7 +30,7 @@ dv_has_:
     ab: Польша
     ace: Polandia
     ady: Лэхьый
-    aeb-arab: پولونيا
+    aeb_arab: پولونيا
     af: Pole
     am: ፖላንድ
     ami: Poland
@@ -55,7 +55,7 @@ dv_has_:
     bcl: Polonya
     bdr: Poland
     be: Польшча
-    be-tarask: Польшча
+    be_tarask: Польшча
     bew: Polen
     bg: Полша
     bgn: پولنڈ
@@ -72,7 +72,7 @@ dv_has_:
     bug: Poland
     bxr: Польш
     ca: Polònia
-    cbk-zam: Polonia
+    cbk_zam: Polonia
     cdo: Pŏ̤-làng
     ce: Польша
     ceb: Poland
@@ -82,7 +82,7 @@ dv_has_:
     ckb: پۆڵەندا
     co: Polonia
     crh: Lehistan
-    crh-latn: Lehistan
+    crh_latn: Lehistan
     cs: Polsko
     csb: Pòlskô
     cu: Пол҄ьска
@@ -101,8 +101,8 @@ dv_has_:
     el: Πολωνία
     eml: Pulógna
     en: Poland
-    en-ca: Poland
-    en-gb: Poland
+    en_ca: Poland
+    en_gb: Poland
     eo: Pollando
     es: Polonia
     et: Poola
@@ -128,7 +128,7 @@ dv_has_:
     gn: Poloña
     gom: पोलंड
     gom-deva: पोलंड
-    gom-latn: Poland
+    gom_latn: Poland
     gor: Polandia
     got: "\U00010340\U00010349\U0001033B\U00010330\U0001033B\U00010330\U0001033D\U00010333"
     gpe: Poland
@@ -210,7 +210,7 @@ dv_has_:
     lzh: 波蘭
     mad: Polandia
     mai: पोल्यान्ड
-    map-bms: Polandia
+    map_bms: Polandia
     mdf: Польска мастор
     mg: Polonia
     mhr: Польша
@@ -225,7 +225,7 @@ dv_has_:
     mr: पोलंड
     mrj: Польша
     ms: Poland
-    ms-arab: ڤولند
+    ms_arab: ڤولند
     mt: Polonja
     mwl: Polónia
     my: ပိုလန်နိုင်ငံ
@@ -237,7 +237,7 @@ dv_has_:
     nap: Pulonnia
     nb: Polen
     nds: Polen
-    nds-nl: Pooln
+    nds_nl: Pooln
     ne: पोल्यान्ड
     new: पोल्याण्ड
     nl: Polen
@@ -269,7 +269,7 @@ dv_has_:
     prg: Pōli
     ps: پولنډ
     pt: Polónia
-    pt-br: Polônia
+    pt_br: Polônia
     qu: Pulunya
     rm: Pologna
     rmy: Polska
@@ -308,8 +308,8 @@ dv_has_:
     so: Boland
     sq: Polonia
     sr: Пољска
-    sr-ec: Пољска
-    sr-el: Poljska
+    sr_ec: Пољска
+    sr_el: Poljska
     srn: Polikondre
     ss: IPholandi
     st: Poland
@@ -337,8 +337,8 @@ dv_has_:
     trv: Poland
     ts: Poland
     tt: Польша
-    tt-cyrl: Польша
-    tt-latn: Pülşä
+    tt_cyrl: Польша
+    tt_latn: Pülşä
     tum: Poland
     tw: Poland
     ty: Pōrana
@@ -369,14 +369,14 @@ dv_has_:
     zea: Poôl'n
     zgh: ⴱⵓⵍⴰⵏⴷⴰ
     zh: 波蘭
-    zh-cn: 波兰
-    zh-hans: 波兰
-    zh-hant: 波蘭
-    zh-hk: 波蘭
-    zh-mo: 波蘭
+    zh_cn: 波兰
+    zh_hans: 波兰
+    zh_hant: 波蘭
+    zh_hk: 波蘭
+    zh_mo: 波蘭
     zh-my: 波兰
-    zh-sg: 波兰
-    zh-tw: 波蘭
+    zh_sg: 波兰
+    zh_tw: 波蘭
     zu: IPolandi
   sound_of_:
     anthem: '[[../../../../../_public/xLarge.public/National-Anthem/Anthem-Poland.mp3|Anthem-Poland.mp3]]'

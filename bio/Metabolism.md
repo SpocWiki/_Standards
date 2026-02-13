@@ -129,7 +129,7 @@ dv_has_:
     ba: Матдәләр алмашыу
     bcl: Metabolismo
     be: метабалізм
-    be-tarask: мэтабалізм
+    be_tarask: мэтабалізм
     bg: Метаболизъм
     bho: मेटाबॉलिज्म
     bn: বিপাক
@@ -137,7 +137,7 @@ dv_has_:
     bs: metabolizam
     btm: Metabolisme
     ca: metabolisme
-    cbk-zam: Metabolismo
+    cbk_zam: Metabolismo
     ce: Метаболизм
     ckb: مێتابۆلیزم
     crh: metabolizm
@@ -146,11 +146,11 @@ dv_has_:
     cy: metabolaeth
     da: stofskifte
     de: Stoffwechsel
-    de-ch: Stoffwechsel
+    de_ch: Stoffwechsel
     el: μεταβολισμός
     en: metabolism
-    en-ca: Metabolism
-    en-gb: metabolism
+    en_ca: Metabolism
+    en_gb: metabolism
     eo: metabolo
     es: metabolismo
     et: Metabolism
@@ -223,7 +223,7 @@ dv_has_:
     pnb: میٹابولزم
     ps: استقلاب
     pt: metabolismo
-    pt-br: Metabolismo
+    pt_br: Metabolismo
     qu: Imayay yamkiy
     rki: ဇီဝဖြစ်စဉ်
     ro: metabolism
@@ -236,7 +236,7 @@ dv_has_:
     sl: presnova
     sq: Metabolizmi
     sr: метаболизам
-    sr-ec: метаболизам
+    sr_ec: метаболизам
     su: Métabolisme
     sv: metabolism
     sw: Metaboli
@@ -258,9 +258,9 @@ dv_has_:
     yi: מעטאבאליזם
     yue: 新陳代謝
     zh: 代謝
-    zh-cn: 代谢
-    zh-hk: 新陳代謝
-    zh-tw: 代謝
+    zh_cn: 代谢
+    zh_hk: 新陳代謝
+    zh_tw: 代謝
 ---
 # [[Metabolism]] 
 

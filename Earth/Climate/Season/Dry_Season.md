@@ -99,7 +99,7 @@ dv_has_:
     ast: Estación seca
     ban: Lahru (masan)
     bas: ndèè sèp
-    be-tarask: сухі сэзон
+    be_tarask: сухі сэзон
     bg: Сух сезон
     bn: হেমন্ত
     ca: estació seca
@@ -109,8 +109,8 @@ dv_has_:
     dsb: Suchy cas
     el: Ξηρή εποχή
     en: dry season
-    en-ca: Dry season
-    en-gb: dry season
+    en_ca: Dry season
+    en_gb: dry season
     eo: seka sezono
     es: estación seca
     eu: Urtaro lehor
@@ -144,7 +144,7 @@ dv_has_:
     oc: Sason eissucha
     pl: pora sucha
     pt: estação seca
-    pt-br: Estação seca
+    pt_br: Estação seca
     qu: Ch'aki mit'a
     rn: Ici
     ro: Sezon secetos
@@ -171,12 +171,12 @@ dv_has_:
     yo: Ọyẹ́
     yue: 乾季
     zh: 旱季
-    zh-cn: 旱季
-    zh-hans: 旱季
-    zh-hant: 旱季
-    zh-hk: 旱季
-    zh-sg: 旱季
-    zh-tw: 旱季
+    zh_cn: 旱季
+    zh_hans: 旱季
+    zh_hant: 旱季
+    zh_hk: 旱季
+    zh_sg: 旱季
+    zh_tw: 旱季
 ---
 # [[Dry_Season]] 
 

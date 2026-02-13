@@ -60,18 +60,18 @@ dv_has_:
     ar: عمق الحقل
     ast: Fondura de campu
     bar: Schärfndiaf
-    be-tarask: глыбіня рэзкасьці
+    be_tarask: глыбіня рэзкасьці
     bg: Дълбочина на рязкост
     bn: ক্ষেত্রের গভীরতা
     ca: profunditat de camp
     cs: Hloubka ostrosti
     da: skarphedsdybde
     de: Schärfentiefe
-    de-ch: Schärfentiefe
+    de_ch: Schärfentiefe
     el: Βάθος πεδίου
     en: depth of field
-    en-ca: Depth of field
-    en-gb: depth of field
+    en_ca: Depth of field
+    en_gb: depth of field
     eo: Kampa profundo
     es: Profundidad de campo
     eu: eremu sakontasun
@@ -95,7 +95,7 @@ dv_has_:
     nn: djupneskarpleik
     pl: głębia ostrości
     pt: profundidade de campo
-    pt-br: Profundidade de campo
+    pt_br: Profundidade de campo
     ru: Глубина резко изображаемого пространства
     si: ක්ෂේත්ර ගැඹුර
     sl: globinska ostrina
@@ -109,12 +109,12 @@ dv_has_:
     vi: Độ sâu trường ảnh
     yue: 景深
     zh: 景深
-    zh-cn: 景深
-    zh-hans: 景深
-    zh-hant: 景深
-    zh-hk: 景深
-    zh-sg: 景深
-    zh-tw: 景深
+    zh_cn: 景深
+    zh_hans: 景深
+    zh_hant: 景深
+    zh_hk: 景深
+    zh_sg: 景深
+    zh_tw: 景深
 ---
 # [[Depth_of_Field]] 
 

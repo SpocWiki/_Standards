@@ -30,7 +30,7 @@ dv_has_:
     bar: Melanesien
     bcl: Melanesya
     be: Меланезія
-    be-tarask: Мэланэзія
+    be_tarask: Мэланэзія
     bg: Меланезия
     bn: মেলানেশিয়া
     br: Melanezia
@@ -45,8 +45,8 @@ dv_has_:
     de: Melanesien
     el: Μελανησία
     en: Melanesia
-    en-ca: Melanesia
-    en-gb: Melanesia
+    en_ca: Melanesia
+    en_gb: Melanesia
     eo: Melanezio
     es: Melanesia
     et: Melaneesia
@@ -110,7 +110,7 @@ dv_has_:
     pl: Melanezja
     pnb: میلانیشیا
     pt: Melanésia
-    pt-br: Melanésia
+    pt_br: Melanésia
     qu: Milanisya
     ro: Melanezia
     ru: Меланезия
@@ -149,7 +149,7 @@ dv_has_:
     yo: Melanésíà
     yue: 美拉尼西亞
     zh: 美拉尼西亞
-    zh-tw: 美拉尼西亞
+    zh_tw: 美拉尼西亞
 aliases:
 - An Mheilinéis
 - Melaneesi

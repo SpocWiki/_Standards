@@ -128,7 +128,7 @@ dv_has_:
     az: Paxlakimilər
     ba: Ҡуҙаҡлылар ғаиләһе
     be: бабовыя
-    be-tarask: бабовыя
+    be_tarask: бабовыя
     bg: бобови
     bs: Fabaceae
     ca: Lleguminosa
@@ -203,7 +203,7 @@ dv_has_:
     pl: bobowate
     pnb: پھلیاں
     pt: Fabaceae
-    pt-br: Fabaceae
+    pt_br: Fabaceae
     qu: Chaqallu yura rikch'aq ayllu
     ro: Fabaceae
     ru: бобовые
@@ -214,7 +214,7 @@ dv_has_:
     sl: metuljnice
     sq: Fabaceae
     sr: Fabaceae
-    sr-ec: Лептирњаче
+    sr_ec: Лептирњаче
     su: Fabaceae
     sv: Ärtväxter
     sw: Fabaceae
@@ -237,9 +237,9 @@ dv_has_:
     yi: קטניות
     yue: 豆科
     zh: 豆科
-    zh-cn: 豆科
-    zh-hans: 豆科
-    zh-tw: 豆科
+    zh_cn: 豆科
+    zh_hans: 豆科
+    zh_tw: 豆科
 ---
 # [[Fabaceae]]
 

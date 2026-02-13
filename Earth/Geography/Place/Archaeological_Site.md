@@ -154,7 +154,7 @@ dv_has_:
     az: arxeoloji ərazi
     ba: археологик урын
     be: археалагічнае месца
-    be-tarask: археалягічны помнік
+    be_tarask: археалягічны помнік
     bg: археологически обект
     bho: पुरतत्व स्थल
     bn: প্রত্নতাত্ত্বিক স্থল
@@ -169,8 +169,8 @@ dv_has_:
     diq: Sita arkeolocik
     el: αρχαιολογική θέση
     en: archaeological site
-    en-ca: archaeological site
-    en-gb: archaeological site
+    en_ca: archaeological site
+    en_gb: archaeological site
     eo: arkeologia loko
     es: yacimiento arqueológico
     et: muistis
@@ -209,7 +209,7 @@ dv_has_:
     ml: പുരാവസ്തു കേന്ദ്രം
     mr: पुरातत्व स्थळ
     ms: tapak arkeologi
-    ms-arab: تاڤق ارکيولوݢي
+    ms_arab: تاڤق ارکيولوݢي
     mt: sit arkeoloġiku
     mzn: باستانی سایت
     nan: uî-jiah
@@ -222,7 +222,7 @@ dv_has_:
     pl: stanowisko archeologiczne
     ps: د لرغون پېژندنې ځای
     pt: sítio arqueológico
-    pt-br: sítio arqueológico
+    pt_br: sítio arqueológico
     ro: sit arheologic
     ru: археологический памятник
     sah: Археология мэҥэлэрэ
@@ -234,8 +234,8 @@ dv_has_:
     sl: arheološko najdišče
     sq: lokalitet arkeologjik
     sr: археолошко налазиште
-    sr-ec: Археолошко налазиште
-    sr-el: Arheološko nalazište
+    sr_ec: Археолошко налазиште
+    sr_el: Arheološko nalazište
     sv: arkeologisk lokal
     ta: தொல்லியல் களம்
     te: పురాతత్వ ప్రదేశం
@@ -249,10 +249,10 @@ dv_has_:
     vec: sito archeołòzego
     vi: di chỉ
     zh: 考古遗址
-    zh-hans: 考古遗址
-    zh-hant: 遺跡
-    zh-hk: 遺蹟
-    zh-tw: 遺跡
+    zh_hans: 考古遗址
+    zh_hant: 遺跡
+    zh_hk: 遺蹟
+    zh_tw: 遺跡
 ---
 # [[Archaeological_Site]] 
 

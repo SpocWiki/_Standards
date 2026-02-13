@@ -52,7 +52,7 @@ dv_has_:
   name_:
     ar: بريدج
     ba: бридж
-    be-tarask: брыдж
+    be_tarask: брыдж
     bg: бридж
     ca: bridge
     cs: bridž
@@ -60,8 +60,8 @@ dv_has_:
     de: Bridge
     el: Μπριτζ
     en: contract bridge
-    en-ca: contract bridge
-    en-gb: contract bridge
+    en_ca: contract bridge
+    en_gb: contract bridge
     eo: briĝo
     es: bridge
     et: bridž
@@ -91,7 +91,7 @@ dv_has_:
     nn: bridge
     pl: brydż
     pt: bridge
-    pt-br: bridge
+    pt_br: bridge
     ro: bridge
     ru: бридж
     scn: bridge
@@ -110,12 +110,12 @@ dv_has_:
     wuu: 定约桥牌
     yue: 橋牌
     zh: 合約橋牌
-    zh-cn: 桥牌
-    zh-hans: 桥牌
-    zh-hant: 橋牌
-    zh-hk: 橋牌
-    zh-sg: 桥牌
-    zh-tw: 橋牌
+    zh_cn: 桥牌
+    zh_hans: 桥牌
+    zh_hant: 橋牌
+    zh_hk: 橋牌
+    zh_sg: 桥牌
+    zh_tw: 橋牌
 ---
 # [[Contract_bridge]] 
 

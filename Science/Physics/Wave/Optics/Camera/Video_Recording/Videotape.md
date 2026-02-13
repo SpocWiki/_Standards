@@ -72,15 +72,15 @@ dv_has_:
     ast: cinta de videu
     az: videolent
     be: відэазапіс
-    be-tarask: відэакасэта
+    be_tarask: відэакасэта
     ca: cinta de vídeo
     cs: videokazeta
     de: Videoband
-    de-ch: Videokassette
+    de_ch: Videokassette
     el: βιντεοταινία
     en: videotape
-    en-ca: videotape
-    en-gb: videotape
+    en_ca: videotape
+    en_gb: videotape
     eo: videobendo
     es: videocinta
     eu: bideo-zinta
@@ -107,7 +107,7 @@ dv_has_:
     nn: videoband
     pl: kaseta wideo
     pt: videoteipe
-    pt-br: videoteipe
+    pt_br: videoteipe
     qu: rikch'a waqaychana sinta
     ro: casetă video
     ru: видеокассета
@@ -129,9 +129,9 @@ dv_has_:
     wuu: 录像带
     yue: 錄影帶
     zh: 录影带
-    zh-hans: 录像带
-    zh-hant: 錄影帶
-    zh-hk: 錄影帶
+    zh_hans: 录像带
+    zh_hant: 錄影帶
+    zh_hk: 錄影帶
 ---
 # [[Videotape]] 
 

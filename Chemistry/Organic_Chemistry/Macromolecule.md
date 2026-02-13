@@ -85,7 +85,7 @@ dv_has_:
     ast: macromolécula
     az: Makromolekul
     be: макрамалекула
-    be-tarask: макрамалекула
+    be_tarask: макрамалекула
     bg: Макромолекула
     bn: বৃহদাণু
     bs: Makromolekula
@@ -118,11 +118,11 @@ dv_has_:
     jv: Makromolekul
     ka: მაკრომოლეკულა
     kk: Макромолекула
-    kk-arab: ماكرومولەكۋلا
+    kk_arab: ماكرومولەكۋلا
     kk-cn: ماكرومولەكۋلا
-    kk-cyrl: Макромолекула
+    kk_cyrl: Макромолекула
     kk-kz: Макромолекула
-    kk-latn: Makromolekwla
+    kk_latn: Makromolekwla
     kk-tr: Makromolekwla
     ko: 고분자
     ku: Makromolekûl
@@ -134,7 +134,7 @@ dv_has_:
     mk: макромолекула
     mn: Макромолекул
     ms: makromolekul
-    ms-arab: مکروموليکول
+    ms_arab: مکروموليکول
     nan: Ko-hun-chú
     nb: makromolekyl
     nl: macromolecuul
@@ -157,8 +157,8 @@ dv_has_:
     sms: makromolekyyl
     sq: Makromolekula
     sr: Makromolekul
-    sr-ec: Макромолекул
-    sr-el: Makromolekul
+    sr_ec: Макромолекул
+    sr_el: Makromolekul
     su: Makromolekul
     sv: makromolekyl
     ta: பருமூலக்கூறு
@@ -172,12 +172,12 @@ dv_has_:
     xmf: მაკრომოლეკულა
     yue: 大分子
     zh: 高分子
-    zh-cn: 高分子
-    zh-hans: 高分子
-    zh-hant: 高分子
-    zh-hk: 高分子
-    zh-sg: 高分子
-    zh-tw: 高分子
+    zh_cn: 高分子
+    zh_hans: 高分子
+    zh_hant: 高分子
+    zh_hk: 高分子
+    zh_sg: 高分子
+    zh_tw: 高分子
 ---
 # [[Macromolecule]] 
 

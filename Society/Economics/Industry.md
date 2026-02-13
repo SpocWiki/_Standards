@@ -151,7 +151,7 @@ dv_has_:
     azb: صنعت
     ba: сәнәғәт
     be: прамысловасць
-    be-tarask: прамысловасьць
+    be_tarask: прамысловасьць
     bg: Промишленост
     bho: इंडस्ट्री
     bn: শিল্পোদ্যোগ
@@ -171,12 +171,12 @@ dv_has_:
     cy: diwydiant
     da: industri
     de: Industriesektor
-    de-ch: Industrie
+    de_ch: Industrie
     diq: Endustriye
     el: βιομηχανία
     en: industrial sector
-    en-ca: Industry
-    en-gb: industry
+    en_ca: Industry
+    en_gb: industry
     eo: industrio
     es: industria
     et: tööstus
@@ -238,7 +238,7 @@ dv_has_:
     mn: Аж үйлдвэр
     mr: उद्योग
     ms: perusahaan
-    ms-arab: ڤراوسهاءن
+    ms_arab: ڤراوسهاءن
     mwl: Andústria
     my: ကုန်ထုတ်လုပ်ငန်း
     mzn: صنعت
@@ -256,7 +256,7 @@ dv_has_:
     pnb: انڈسٹری
     ps: رغاوه
     pt: indústria
-    pt-br: indústria
+    pt_br: indústria
     qu: Ruraychaqa
     ro: industrie
     ru: промышленность
@@ -277,8 +277,8 @@ dv_has_:
     so: Warshad
     sq: industri
     sr: индустрија
-    sr-ec: индустрија
-    sr-el: industrija
+    sr_ec: индустрија
+    sr_el: industrija
     su: Industri
     sv: industri
     sw: Sekta ya viwanda
@@ -291,7 +291,7 @@ dv_has_:
     tr: sanayi
     ts: Tinkomponi
     tt: сәнәгать
-    tt-cyrl: сәнәгать
+    tt_cyrl: сәнәгать
     uk: промисловість
     ur: صنعت
     uz: Sanoat
@@ -308,14 +308,14 @@ dv_has_:
     yue: 工業
     za: Honggoeng
     zh: 工业
-    zh-cn: 工业
-    zh-hans: 工业
-    zh-hant: 工業
-    zh-hk: 工業
-    zh-mo: 工業
+    zh_cn: 工业
+    zh_hans: 工业
+    zh_hant: 工業
+    zh_hk: 工業
+    zh_mo: 工業
     zh-my: 工业
-    zh-sg: 工业
-    zh-tw: 工業
+    zh_sg: 工业
+    zh_tw: 工業
 ---
 # [[Industry]] 
 

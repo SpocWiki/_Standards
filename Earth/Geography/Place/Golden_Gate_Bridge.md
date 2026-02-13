@@ -198,7 +198,7 @@ dv_has_:
     ban: Kreteg Golden Gate
     bcl: Tulay Golden Gate
     be: Залатыя Вароты
-    be-tarask: Залатыя Вароты
+    be_tarask: Залатыя Вароты
     bg: Голдън Гейт
     bn: গোল্ডেন গেট ব্রিজ
     bs: Golden Gate most
@@ -208,13 +208,13 @@ dv_has_:
     cy: Pont Golden Gate
     da: Golden Gate-broen
     de: Golden Gate Bridge
-    de-ch: Golden Gate Bridge
+    de_ch: Golden Gate Bridge
     diq: Pırdê Golden Gatei
     dv: ރަން ދޮރާށި ފާލަން
     el: Γέφυρα Γκόλντεν Γκέιτ
     en: Golden Gate Bridge
-    en-ca: Golden Gate Bridge
-    en-gb: Golden Gate Bridge
+    en_ca: Golden Gate Bridge
+    en_gb: Golden Gate Bridge
     eo: Golden-Gate-Ponto
     es: puente Golden Gate
     et: Kuldvärava sild
@@ -267,7 +267,7 @@ dv_has_:
     pnb: گولڈن گیٹ پل
     ps: ګلدن ګیټ پل
     pt: Ponte Golden Gate
-    pt-br: Ponte Golden Gate
+    pt_br: Ponte Golden Gate
     ro: Podul Golden Gate
     ru: Золотые Ворота
     scn: ponti d'u Golden Gate
@@ -298,14 +298,14 @@ dv_has_:
     yi: גילדערנער-טויער בריק
     yue: 金門大橋
     zh: 金门大桥
-    zh-cn: 金门大桥
-    zh-hans: 金门大桥
-    zh-hant: 金門大橋
-    zh-hk: 金門大橋
-    zh-mo: 金門大橋
+    zh_cn: 金门大桥
+    zh_hans: 金门大桥
+    zh_hant: 金門大橋
+    zh_hk: 金門大橋
+    zh_mo: 金門大橋
     zh-my: 金门大桥
-    zh-sg: 金门大桥
-    zh-tw: 金門大橋
+    zh_sg: 金门大桥
+    zh_tw: 金門大橋
 ---
 # [[Golden_Gate_Bridge]] 
 

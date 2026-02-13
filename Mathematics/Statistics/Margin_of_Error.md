@@ -45,14 +45,14 @@ dv_has_:
   name_:
     ar: هامش الخطأ
     ast: marxe d'error
-    be-tarask: мяжа хібнасьці
+    be_tarask: мяжа хібнасьці
     bn: ত্রুটিসীমা
     ca: marge d'error
     de: Fehlerspanne
     el: Περιθώριο σφάλματος
     en: margin of error
-    en-ca: Margin of error
-    en-gb: margin of error
+    en_ca: Margin of error
+    en_gb: margin of error
     eo: erarmarĝeno
     es: margen de error
     eu: Errore-marjina
@@ -68,10 +68,10 @@ dv_has_:
     ko: 허용 오차
     mk: граница на грешка
     ms: jidar selisih
-    ms-arab: جيدر سليسيه
+    ms_arab: جيدر سليسيه
     nb: Feilmargin
     pt: margem de erro
-    pt-br: Margem de erro
+    pt_br: Margem de erro
     ro: marjă de eroare
     ru: предел погрешности
     sr: Margina greške
@@ -80,9 +80,9 @@ dv_has_:
     uk: Межа похибки
     yue: 誤差範圍
     zh: 误差范围
-    zh-hans: 误差范围
-    zh-hant: 誤差範圍
-    zh-hk: 誤差範圍
+    zh_hans: 误差范围
+    zh_hant: 誤差範圍
+    zh_hk: 誤差範圍
 ---
 # [[Margin_of_Error]] 
 

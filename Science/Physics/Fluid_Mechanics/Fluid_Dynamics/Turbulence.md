@@ -82,7 +82,7 @@ dv_has_:
     ast: turbulencia
     az: türbülans
     be: турбулентнае цячэнне
-    be-tarask: турбулентнасьць
+    be_tarask: турбулентнасьць
     bg: турбулентност
     bs: turbulencija
     ca: turbulència
@@ -91,11 +91,11 @@ dv_has_:
     cv: турбулентлăх
     da: turbulens
     de: Turbulenz
-    de-ch: Turbulenz
+    de_ch: Turbulenz
     el: τύρβη
     en: turbulence
-    en-ca: turbulence
-    en-gb: turbulence
+    en_ca: turbulence
+    en_gb: turbulence
     eo: turbulo
     es: turbulencia
     et: turbulents
@@ -116,11 +116,11 @@ dv_has_:
     ja: 乱流現象
     ka: ტურბულენტობა
     kk: турбуленттілік
-    kk-arab: تۋربۋلەنتتىلىك
+    kk_arab: تۋربۋلەنتتىلىك
     kk-cn: تۋربۋلەنتتىلىك
-    kk-cyrl: турбуленттілік
+    kk_cyrl: турбуленттілік
     kk-kz: турбуленттілік
-    kk-latn: twrbwlenttilik
+    kk_latn: twrbwlenttilik
     kk-tr: twrbwlenttilik
     ko: 난류 현상
     ko-kp: 란류현상
@@ -138,15 +138,15 @@ dv_has_:
     nn: turbulens
     pl: turbulencja
     pt: turbulência
-    pt-br: turbulência
+    pt_br: turbulência
     ro: turbulență
     ru: турбулентность
     sh: turbulencija
     sk: turbulencia
     sl: turbulenca
     sr: турбуленција
-    sr-ec: турбуленција
-    sr-el: turbulencija
+    sr_ec: турбуленција
+    sr_el: turbulencija
     su: galura
     sv: turbulens
     ta: கொந்தளிப்பு ஓட்டம்
@@ -160,12 +160,12 @@ dv_has_:
     wuu: 湍流
     yue: 亂流
     zh: 湍流
-    zh-cn: 湍流
-    zh-hans: 湍流
-    zh-hant: 亂流
-    zh-hk: 亂流
-    zh-sg: 湍流
-    zh-tw: 亂流
+    zh_cn: 湍流
+    zh_hans: 湍流
+    zh_hant: 亂流
+    zh_hk: 亂流
+    zh_sg: 湍流
+    zh_tw: 亂流
 ---
 # [[Turbulence]] 
 

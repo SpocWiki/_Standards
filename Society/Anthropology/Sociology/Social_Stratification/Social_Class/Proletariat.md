@@ -82,7 +82,7 @@ dv_has_:
     ba: пролетариат
     bcl: Proletaryat
     be: пралетарыят
-    be-tarask: пралетарыят
+    be_tarask: пралетарыят
     bg: пролетариат
     bn: সর্বহারা
     ca: proletariat
@@ -92,13 +92,13 @@ dv_has_:
     cy: proletariat
     da: proletariat
     de: Proletariat
-    de-ch: Proletariat
+    de_ch: Proletariat
     diq: proletarya
     dsb: proletariat
     el: προλεταριάτο
     en: proletariat
-    en-ca: proletariat
-    en-gb: proletariat
+    en_ca: proletariat
+    en_gb: proletariat
     eo: proleto
     es: proletariado
     et: proletariaat
@@ -120,17 +120,17 @@ dv_has_:
     ja: プロレタリアート
     ka: პროლეტარიატი
     kk: пролетариат
-    kk-arab: پرولەتارىيات گەگەمونىيياسى
+    kk_arab: پرولەتارىيات گەگەمونىيياسى
     kk-cn: پرولەتارىيات گەگەمونىيياسى
-    kk-cyrl: пролетариат
+    kk_cyrl: пролетариат
     kk-kz: пролетариат
-    kk-latn: proletarïat
+    kk_latn: proletarïat
     kk-tr: proletarïat
     ko: 프롤레타리아
     ko-kp: 프로레타리아트
     ku: prolêtar
-    ku-arab: پرۆلێتار
-    ku-latn: prolêtar
+    ku_arab: پرۆلێتار
+    ku_latn: prolêtar
     ky: пролетариат
     la: proletariatus
     lo: ຊົນກັມມາຊີບ
@@ -151,7 +151,7 @@ dv_has_:
     pl: proletariat
     pnb: پرولتاریہ
     pt: proletariado
-    pt-br: proletariado
+    pt_br: proletariado
     ro: proletariat
     ru: пролетариат
     rue: пролетариат
@@ -160,15 +160,15 @@ dv_has_:
     sl: proletariat
     sq: Proletariati
     sr: пролетаријат
-    sr-ec: пролетаријат
-    sr-el: proletarijat
+    sr_ec: пролетаријат
+    sr_el: proletarijat
     sv: proletariat
     ta: பாட்டாளி வருக்கம்
     th: ชนกรรมาชีพ
     tl: proletariat
     tr: proletarya
     tt: пырлитарият
-    tt-latn: pırlitariät
+    tt_latn: pırlitariät
     uk: пролетаріат
     ur: پرولتاریہ
     uz: Proletariat
@@ -176,12 +176,12 @@ dv_has_:
     wuu: 无产阶级
     yue: 無產階級
     zh: 无产阶级
-    zh-cn: 无产阶级
-    zh-hans: 无产阶级
-    zh-hant: 無產階級
-    zh-hk: 無產階級
-    zh-sg: 无产阶级
-    zh-tw: 無產階級
+    zh_cn: 无产阶级
+    zh_hans: 无产阶级
+    zh_hant: 無產階級
+    zh_hk: 無產階級
+    zh_sg: 无产阶级
+    zh_tw: 無產階級
 ---
 # [[Proletariat]] 
 

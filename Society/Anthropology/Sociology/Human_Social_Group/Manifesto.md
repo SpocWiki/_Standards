@@ -55,7 +55,7 @@ dv_has_:
     ar: بيان
     ast: manifiestu
     az: Manifest
-    be-tarask: маніфэст
+    be_tarask: маніфэст
     bn: ইশতেহার
     bs: manifest
     ca: manifest
@@ -65,8 +65,8 @@ dv_has_:
     de: Manifest
     el: Μανιφέστο
     en: manifesto
-    en-ca: Manifesto
-    en-gb: Manifesto
+    en_ca: Manifesto
+    en_gb: Manifesto
     eo: manifesto
     es: manifiesto
     et: Manifest
@@ -100,7 +100,7 @@ dv_has_:
     pa: ਚੋਣ ਮੈਨੀਫੈਸਟੋ
     pl: manifest
     pt: manifesto
-    pt-br: Manifesto
+    pt_br: Manifesto
     ro: manifest
     ru: манифест
     sd: منشور
@@ -108,8 +108,8 @@ dv_has_:
     sl: manifest
     sq: Manifesti
     sr: манифест
-    sr-ec: манифест
-    sr-el: manifest
+    sr_ec: манифест
+    sr_el: manifest
     sv: manifest
     tg: Манифест
     tl: Manipesto

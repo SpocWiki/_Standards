@@ -146,7 +146,7 @@ dv_has_:
     ast: Beta vulgaris subsp. vulgaris Conditiva Group
     bar: Ranna
     be: буракі сталовыя
-    be-tarask: бурак
+    be_tarask: бурак
     bg: червено цвекло
     bn: বীট-পালং
     br: beterabez
@@ -161,7 +161,7 @@ dv_has_:
     de-at: Rote Rübe
     el: παντζάρι
     en: beet
-    en-gb: beetroot
+    en_gb: beetroot
     eo: ruĝa beto
     es: remolacha
     et: punapeet
@@ -215,7 +215,7 @@ dv_has_:
     pnt: σέφτελον
     ps: چغندر
     pt: beterraba
-    pt-br: beterraba
+    pt_br: beterraba
     ro: sfeclă
     ru: свёкла столовая
     rw: Beterave
@@ -229,8 +229,8 @@ dv_has_:
     so: Dabocase
     sq: panxhari
     sr: Цвекла
-    sr-ec: Цвекла
-    sr-el: Cvekla
+    sr_ec: Цвекла
+    sr_el: Cvekla
     sv: rödbeta
     ta: பீட்ரூட்
     te: బీటుదుంప

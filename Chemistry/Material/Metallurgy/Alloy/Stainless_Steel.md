@@ -139,7 +139,7 @@ dv_has_:
     azb: پاسلانماز پولاد
     ba: тутыҡмай торған ҡорос
     be: нержавеючая сталь
-    be-tarask: нержавейная сталь
+    be_tarask: нержавейная сталь
     bg: Неръждаема стомана
     bjn: Baja tahan tagar
     bn: মরিচাবিহীন ইস্পাত
@@ -152,7 +152,7 @@ dv_has_:
     cy: dur gwrthstaen
     da: rustfrit stål
     de: rostfreier Stahl
-    de-ch: rostfreier Stahl
+    de_ch: rostfreier Stahl
     el: ανοξείδωτος χάλυβας
     en: stainless steel
     eo: rustorezista ŝtalo
@@ -176,11 +176,11 @@ dv_has_:
     ja: ステンレス鋼
     ka: უჟანგავი ფოლადი
     kk: Тоттанбайтын болат
-    kk-arab: توتتانبايتىن بولات
+    kk_arab: توتتانبايتىن بولات
     kk-cn: توتتانبايتىن بولات
-    kk-cyrl: Тоттанбайтын болат
+    kk_cyrl: Тоттанбайтын болат
     kk-kz: Тоттанбайтын болат
-    kk-latn: Tottanbaýtın bolat
+    kk_latn: Tottanbaýtın bolat
     kk-tr: Tottanbaýtın bolat
     ko: 스테인리스강
     lt: nerūdijantis plienas
@@ -199,7 +199,7 @@ dv_has_:
     pl: stal nierdzewna
     ps: د زنګ ضد فولاد
     pt: aço inoxidável
-    pt-br: aço inoxidável
+    pt_br: aço inoxidável
     ro: oțel inoxidabil
     ru: нержавеющая сталь
     sh: Nehrđajući čelik
@@ -207,8 +207,8 @@ dv_has_:
     sl: nerjavno jeklo
     sq: Çeliku i pandryshkshëm
     sr: нерђајући челик
-    sr-ec: нерђајући челик
-    sr-el: nerđajući čelik
+    sr_ec: нерђајући челик
+    sr_el: nerđajući čelik
     sv: rostfritt stål
     sw: Feleji isiopatadoa
     ta: துருவேறா எஃகு
@@ -224,12 +224,12 @@ dv_has_:
     yi: זשאווערפריי שטאל
     yue: 不鏽鋼
     zh: 不鏽鋼
-    zh-cn: 不锈钢
-    zh-hans: 不锈钢
-    zh-hant: 不鏽鋼
-    zh-hk: 不鏽鋼
-    zh-sg: 不锈钢
-    zh-tw: 不鏽鋼
+    zh_cn: 不锈钢
+    zh_hans: 不锈钢
+    zh_hant: 不鏽鋼
+    zh_hk: 不鏽鋼
+    zh_sg: 不锈钢
+    zh_tw: 不鏽鋼
 ---
 # [[Stainless_Steel]] 
 

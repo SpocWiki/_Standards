@@ -91,7 +91,7 @@ dv_has_:
     az: Ksilofon
     azb: سیلوفون
     be: ксілафон
-    be-tarask: ксыляфон
+    be_tarask: ксыляфон
     bg: Ксилофон
     bo: ཤིང་དཀྲོལ།
     br: Zilofon
@@ -159,8 +159,8 @@ dv_has_:
     sms: ksylofoon
     sq: ksilofon
     sr: ксилофон
-    sr-ec: ксилофон
-    sr-el: ksilofon
+    sr_ec: ксилофон
+    sr_el: ksilofon
     sv: xylofon
     sw: Marimba
     szl: Ksylofůn
@@ -175,12 +175,12 @@ dv_has_:
     wuu: 木琴
     yue: 木琴
     zh: 木琴
-    zh-cn: 木琴
-    zh-hans: 木琴
-    zh-hant: 木琴
-    zh-hk: 木琴
-    zh-sg: 木琴
-    zh-tw: 木琴
+    zh_cn: 木琴
+    zh_hans: 木琴
+    zh_hant: 木琴
+    zh_hk: 木琴
+    zh_sg: 木琴
+    zh_tw: 木琴
 ---
 # [[Xylophone]] 
 

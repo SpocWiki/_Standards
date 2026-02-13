@@ -33,7 +33,7 @@ dv_has_:
     oc: Chrysillini
     pl: Chrysillini
     pt: Chrysillini
-    pt-br: Chrysillini
+    pt_br: Chrysillini
     ro: Chrysillini
     ru: Chrysillini
     sq: Chrysillini
@@ -42,8 +42,8 @@ dv_has_:
     vo: Chrysillini
     war: Chrysillini
     zh: 丽跳蛛族
-    zh-cn: 丽跳蛛族
-    zh-hans: 丽跳蛛族
+    zh_cn: 丽跳蛛族
+    zh_hans: 丽跳蛛族
 ---
 # [[Heliophaninae]]
 

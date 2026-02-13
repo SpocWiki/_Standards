@@ -57,7 +57,7 @@ dv_has_:
   name_:
     ar: إدارة الطوارئ
     as: জৰুৰীকালীন ব্যৱস্থাপনা
-    be-tarask: аварыйнае кіраваньне
+    be_tarask: аварыйнае кіраваньне
     bg: Мениджмънт на бедствията
     ca: gestió d'emergències
     cs: nouzové řízení
@@ -85,14 +85,14 @@ dv_has_:
     mk: управување со кризи
     ml: ദുരന്ത നിവാരണം
     ms: pengurusan kecemasan
-    ms-arab: ڤڠوروسن کچمسن
+    ms_arab: ڤڠوروسن کچمسن
     my: အရေးပေါ်အခြေအနေ စီမံခန့်ခွဲမှု
     nan: Chai-hāi Koán-lí
     nb: krisehåndtering
     nl: rampenbestrijding
     nn: krisehandtering
     pl: zarządzanie kryzysowe
-    pt-br: gestão de emergência
+    pt_br: gestão de emergência
     ro: managementul situațiilor de urgență
     ru: предупреждение и ликвидация чрезвычайных ситуаций
     si: ව් යසන කළමනාකරණය
@@ -104,11 +104,11 @@ dv_has_:
     uk: Єдина державна система запобігання і реагування на надзвичайні ситуації техногенного і природного характеру
     vec: zestion de l'emerzensa
     zh: 災害管理
-    zh-cn: 应急管理
-    zh-hans: 灾害管理
-    zh-hant: 災害管理
-    zh-hk: 災害管理
-    zh-tw: 災害管理
+    zh_cn: 应急管理
+    zh_hans: 灾害管理
+    zh_hant: 災害管理
+    zh_hk: 災害管理
+    zh_tw: 災害管理
 ---
 # [[Emergency_Management]] 
 

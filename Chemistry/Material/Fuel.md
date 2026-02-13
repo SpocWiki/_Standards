@@ -166,7 +166,7 @@ dv_has_:
     azb: یاناجاق
     ba: яғыулыҡ
     be: паліва
-    be-tarask: паліва
+    be_tarask: паліва
     bg: Гориво
     bn: জ্বালানি
     bs: gorivo
@@ -225,7 +225,7 @@ dv_has_:
     ml: ഇന്ധനം
     mr: इंधन
     ms: jirim boleh bakar
-    ms-arab: جيريم بوليه باکر
+    ms_arab: جيريم بوليه باکر
     my: လောင်စာ
     nb: brensel
     ne: इन्धन
@@ -261,7 +261,7 @@ dv_has_:
     tok: telo wawa
     tr: yanıcı madde
     tt: ягулык
-    tt-cyrl: ягулык
+    tt_cyrl: ягулык
     udm: эстон
     uk: паливо
     ur: ایندھن

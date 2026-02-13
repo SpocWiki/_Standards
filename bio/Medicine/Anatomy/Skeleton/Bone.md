@@ -169,8 +169,8 @@ title: is_a_bone Class
 type: Type
 dv_has_:
   name_:
-    aeb-arab: عظمة
-    aeb-latn: 3a4ma
+    aeb_arab: عظمة
+    aeb_latn: 3a4ma
     af: Been
     agq: ndzi
     am: አጥንት
@@ -191,7 +191,7 @@ dv_has_:
     bar: Boan
     bcl: Tulang
     be: косць
-    be-tarask: косьць
+    be_tarask: косьць
     bew: Tulang
     bg: Кост
     bn: হাড়
@@ -211,7 +211,7 @@ dv_has_:
     diq: Este
     el: οστό
     en: bone
-    en-gb: bone
+    en_gb: bone
     eo: osto
     es: hueso
     et: luu
@@ -256,7 +256,7 @@ dv_has_:
     ko: 뼈
     ks: أڈِج
     ku: Hestî
-    ku-latn: hestî
+    ku_latn: hestî
     kw: askorn
     la: os
     lad: Gueso
@@ -269,7 +269,7 @@ dv_has_:
     lt: kaulas
     lv: kauls
     lzh: 骨
-    map-bms: Balung
+    map_bms: Balung
     mcn: zòkŋà
     mdf: Пакарь
     mg: Taolana
@@ -281,7 +281,7 @@ dv_has_:
     mnc: ᡤᡳᡵᠠᠩᡤᡳ
     mr: अस्थि
     ms: tulang
-    ms-arab: تولڠ
+    ms_arab: تولڠ
     my: အရိုး
     myv: ловажа
     mzn: استکا
@@ -302,7 +302,7 @@ dv_has_:
     pnt: στουδ'
     ps: هډوکی
     pt: osso
-    pt-br: osso
+    pt_br: osso
     qu: Tullu
     ro: Os
     ru: кость
@@ -333,7 +333,7 @@ dv_has_:
     tn: Lerapo
     tr: Kemik doku
     tt: сөяк
-    tt-cyrl: сөяк
+    tt_cyrl: сөяк
     uk: кістка
     ur: ہڈی
     uz: Suyak
@@ -349,9 +349,9 @@ dv_has_:
     yue: 骨
     za: Ndok
     zh: 骨骼
-    zh-cn: 骨骼
-    zh-hans: 骨组织
-    zh-hant: 骨組織
+    zh_cn: 骨骼
+    zh_hans: 骨组织
+    zh_hant: 骨組織
 ---
 # [[Bone]] 
 

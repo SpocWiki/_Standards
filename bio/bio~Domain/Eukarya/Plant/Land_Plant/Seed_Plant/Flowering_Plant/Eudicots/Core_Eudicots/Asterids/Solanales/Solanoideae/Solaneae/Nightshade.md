@@ -104,13 +104,13 @@ dv_has_:
     da: natskygge
     de: Nachtschatten
     de-at: Solanum
-    de-ch: Solanum
+    de_ch: Solanum
     diq: Solanum
     dsb: Ronica
     el: Σολάνο
     en: Solanum
-    en-ca: Solanum
-    en-gb: Solanum
+    en_ca: Solanum
+    en_gb: Solanum
     eo: Solano
     es: Solanum
     et: Maavits
@@ -144,11 +144,11 @@ dv_has_:
     kab: Tuccanin (tawsit)
     kg: Solanum
     kk: Алқа өсімдік
-    kk-arab: القا وسىمدىك
+    kk_arab: القا وسىمدىك
     kk-cn: القا وسىمدىك
-    kk-cyrl: Алқа өсімдік
+    kk_cyrl: Алқа өсімдік
     kk-kz: Алқа өсімдік
-    kk-latn: Alqa ösimdik
+    kk_latn: Alqa ösimdik
     kk-tr: Alqa ösimdik
     ko: 가지속
     la: Solanum
@@ -166,7 +166,7 @@ dv_has_:
     nap: Solanum
     nb: søtvierslekten
     nds: Solanum
-    nds-nl: Solanum
+    nds_nl: Solanum
     nl: nachtschade
     nn: søtvierslekta
     nrm: Solanum
@@ -176,7 +176,7 @@ dv_has_:
     pl: psianka
     pms: Solanum
     pt: Solanum
-    pt-br: Solanum
+    pt_br: Solanum
     qu: Papa rikch'ana
     rm: Solanum
     ro: Solanum
@@ -188,7 +188,7 @@ dv_has_:
     sl: razhudnik
     sq: Solanum
     sr: Solanum
-    sr-el: Solanum
+    sr_el: Solanum
     stq: Noachtskaade
     sv: skattor
     sw: Solanum
@@ -210,12 +210,12 @@ dv_has_:
     wuu: 茄属
     yue: 茄屬
     zh: 茄属
-    zh-cn: 茄属
-    zh-hans: 茄属
-    zh-hant: 茄屬
-    zh-hk: 茄屬
-    zh-sg: 茄属
-    zh-tw: 茄屬
+    zh_cn: 茄属
+    zh_hans: 茄属
+    zh_hant: 茄屬
+    zh_hk: 茄屬
+    zh_sg: 茄属
+    zh_tw: 茄屬
     zu: Solanum
 ---
 # [[Nightshade]] 

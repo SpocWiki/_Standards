@@ -139,7 +139,7 @@ dv_has_:
     ba: nорлаҡ‐гражданлыҡ төҙөлөшө
     bcl: Inhinyeriyang sibil
     be: будаўнічая інжынерыя
-    be-tarask: цывільнае будаўніцтва
+    be_tarask: цывільнае будаўніцтва
     bg: строителен инженер
     bn: পুরকৌশল
     bs: Građevinarstvo
@@ -149,11 +149,11 @@ dv_has_:
     cy: Peiriannydd sifil
     da: bygningsvidenskab
     de: Bauingenieurwesen
-    de-ch: Bauingenieurwesen
+    de_ch: Bauingenieurwesen
     el: επιστήμη πολιτικού μηχανικού
     en: civil engineering
-    en-ca: Civil engineering
-    en-gb: civil engineering
+    en_ca: Civil engineering
+    en_gb: civil engineering
     eo: konstrua inĝenierarto
     es: ingeniería civil
     et: tsiviilehitus
@@ -191,7 +191,7 @@ dv_has_:
     mo: Inginerie civilă
     mr: स्थापत्य अभियांत्रिकी
     ms: kejuruteraan awam
-    ms-arab: کجوروتراءن عوام
+    ms_arab: کجوروتراءن عوام
     mt: inġinerija ċivili
     my: မြို့ပြ အင်ဂျင်နီယာ ဘာသာရပ်
     nan: Thó͘-bo̍k kang-têng
@@ -201,7 +201,7 @@ dv_has_:
     pl: inżynieria lądowa
     ps: ښاري انجنيري
     pt: engenharia civil
-    pt-br: engenharia civil
+    pt_br: engenharia civil
     ro: inginerie civilă
     ru: гражданское строительство
     sd: سول انجنيئرنگ
@@ -211,8 +211,8 @@ dv_has_:
     sl: gradbeno inženirstvo
     sq: Inxhinieria e ndërtimit
     sr: грађевинарство
-    sr-ec: грађевинарство
-    sr-el: građevinarstvo
+    sr_ec: грађевинарство
+    sr_el: građevinarstvo
     su: Rékayasa sipil
     sv: väg- och vattenbyggnadsteknik
     sw: uhandisi wa kiraia
@@ -231,11 +231,11 @@ dv_has_:
     wuu: 土木工程
     yue: 土木工程
     zh: 土木工程
-    zh-cn: 土木工程
-    zh-hans: 土木工程
-    zh-hant: 土木工程
-    zh-hk: 土木工程
-    zh-tw: 土木工程
+    zh_cn: 土木工程
+    zh_hans: 土木工程
+    zh_hant: 土木工程
+    zh_hk: 土木工程
+    zh_tw: 土木工程
 ---
 # [[Civil_Engineering]] 
 

@@ -28,7 +28,7 @@ dv_has_:
   name_:
     ar: مامبو
     as: মাম্বো (নৃত্য)
-    be-tarask: мамба
+    be_tarask: мамба
     bg: мамбо
     br: Mambo
     ca: mambo
@@ -61,15 +61,15 @@ dv_has_:
     ru: мамбо
     sh: Mambo
     sr: Мамбо
-    sr-ec: Мамбо
-    sr-el: Mambo
+    sr_ec: Мамбо
+    sr_el: Mambo
     sv: mambo
     th: มัมโบ
     uk: Мамбо
     ur: میمبو
     yue: 曼波舞
     zh: 曼波舞
-    zh-tw: 曼波舞
+    zh_tw: 曼波舞
 ---
 # [[Mambo]] 
 

@@ -171,7 +171,7 @@ dv_has_:
     azb: جین قودال
     bar: Jane Goodall
     be: Джэйн Гудал
-    be-tarask: Джэйн Гудал
+    be_tarask: Джэйн Гудал
     bg: Джейн Гудол
     bn: জেন গুডঅল
     br: Jane Goodall
@@ -184,7 +184,7 @@ dv_has_:
     de-at: Jane Goodall
     el: Τζέιν Γκούντολ
     en: Jane Goodall
-    en-gb: Jane Goodall
+    en_gb: Jane Goodall
     eo: Jane Goodall
     es: Jane Goodall
     et: Jane Goodall
@@ -219,7 +219,7 @@ dv_has_:
     ko: 제인 구달
     ks: جین گُڈال
     ku: Jane Goodall
-    ku-latn: Jane Goodall
+    ku_latn: Jane Goodall
     kw: Jane Goodall
     la: Ioanna Goodall
     lb: Jane Goodall
@@ -240,7 +240,7 @@ dv_has_:
     pnb: جین گڈال
     ps: جين ګوډل
     pt: Jane Goodall
-    pt-br: Jane Goodall
+    pt_br: Jane Goodall
     ro: Jane Goodall
     ru: Джейн Гудолл
     sco: Jane Goodall
@@ -265,12 +265,12 @@ dv_has_:
     wuu: 珍·古道尔
     yue: 珍·古德
     zh: 珍·古道尔
-    zh-cn: 简·古多尔
-    zh-hans: 珍·古德
-    zh-hant: 珍·古德
-    zh-hk: 珍·古德
-    zh-sg: 珍·古德
-    zh-tw: 珍·古德
+    zh_cn: 简·古多尔
+    zh_hans: 珍·古德
+    zh_hant: 珍·古德
+    zh_hk: 珍·古德
+    zh_sg: 珍·古德
+    zh_tw: 珍·古德
 ---
 # [[Goodall,Jane]] 
 

@@ -205,7 +205,7 @@ dv_has_:
     azb: آلبر کامو
     ban: Albert Camus
     be: Альбер Камю
-    be-tarask: Альбэр Камю
+    be_tarask: Альбэр Камю
     bg: Албер Камю
     bjn: Albert Camus
     bn: আলবের কাম্যু
@@ -224,7 +224,7 @@ dv_has_:
     ee: Albert Camus
     el: Αλμπέρ Καμύ
     en: Albert Camus
-    en-gb: Albert Camus
+    en_gb: Albert Camus
     eo: Albert Camus
     es: Albert Camus
     et: Albert Camus
@@ -307,7 +307,7 @@ dv_has_:
     pnb: البرٹ کامیو
     ps: البېرټ کامو
     pt: Albert Camus
-    pt-br: Albert Camus
+    pt_br: Albert Camus
     qu: Albert Camus
     ro: Albert Camus
     ru: Альбер Камю
@@ -344,11 +344,11 @@ dv_has_:
     yue: 卡繆
     zgh: ⴰⵍⴱⵉⵔ ⴽⴰⵎⵓ
     zh: 阿尔贝·加缪
-    zh-cn: 阿尔贝·加缪
+    zh_cn: 阿尔贝·加缪
     zh-hans: 阿尔贝·加缪
-    zh-hant: 阿爾貝·卡繆
-    zh-hk: 艾拔·卡繆
-    zh-tw: 阿爾貝·卡繆
+    zh_hant: 阿爾貝·卡繆
+    zh_hk: 艾拔·卡繆
+    zh_tw: 阿爾貝·卡繆
 ---
 # [[Camus,Albert]] 
 

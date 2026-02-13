@@ -54,7 +54,7 @@ dv_has_:
     ast: Mandu y control
     az: Komandanlıq və nəzarət
     be: Кіраванне войскамі
-    be-tarask: кіраваньне войскам
+    be_tarask: кіраваньне войскам
     ca: comandament i control
     ckb: فەرمان و کۆنتڕۆڵ
     cs: velení a řízení
@@ -78,7 +78,7 @@ dv_has_:
     oc: Comandament e contraròtle
     pl: dowodzenie
     pt: Comando e controlo
-    pt-br: Comando e controle
+    pt_br: Comando e controle
     ru: управление войсками
     sh: Vojna komanda
     sl: poveljevanje in kontrola
@@ -89,7 +89,7 @@ dv_has_:
     tr: Komuta ve kontrol
     uk: військове управління
     zh: 指揮及管制
-    zh-hans: 命令与控制
+    zh_hans: 命令与控制
 ---
 # [[Command_and_Control]] 
 

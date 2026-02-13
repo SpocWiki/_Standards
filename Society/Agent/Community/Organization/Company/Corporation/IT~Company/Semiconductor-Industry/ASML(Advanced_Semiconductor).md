@@ -88,7 +88,7 @@ dv_has_:
     nl: ASML
     pl: ASML
     pt: ASML
-    pt-br: ASML
+    pt_br: ASML
     ro: ASML
     ru: ASML
     sk: ASML
@@ -99,10 +99,10 @@ dv_has_:
     vi: ASML Holding
     wuu: 阿斯麦
     zh: 阿斯麦
-    zh-cn: 阿斯麦
-    zh-hans: 阿斯麦
-    zh-hant: 阿斯麦
-    zh-tw: 艾司摩爾
+    zh_cn: 阿斯麦
+    zh_hans: 阿斯麦
+    zh_hant: 阿斯麦
+    zh_tw: 艾司摩爾
 ---
 # [[ASML(Advanced_Semiconductor)]] 
 

@@ -52,7 +52,7 @@ dv_has_:
     ast: Talk show
     az: Tok-şou
     be: ток-шоу
-    be-tarask: ток-шоў
+    be_tarask: ток-шоў
     bg: Токшоу
     bjn: Badapatan pandir
     bn: আলোচনা অনুষ্ঠান
@@ -95,7 +95,7 @@ dv_has_:
     nn: talkshow
     pl: Talk-show
     pt: programa de entrevistas
-    pt-br: programa de entrevistas
+    pt_br: programa de entrevistas
     ro: Talk-show
     ru: ток-шоу
     sh: Talk show
@@ -112,12 +112,12 @@ dv_has_:
     vi: Talk show
     yue: 清談節目
     zh: 談話節目
-    zh-hans: 谈话节目
-    zh-hant: 脱口秀
-    zh-hk: 清談節目
+    zh_hans: 谈话节目
+    zh_hant: 脱口秀
+    zh_hk: 清談節目
     zh-my: 清谈节目
-    zh-sg: 清谈节目
-    zh-tw: 談話節目
+    zh_sg: 清谈节目
+    zh_tw: 談話節目
 ---
 # [[Talk-Show]] 
 

@@ -60,8 +60,8 @@ dv_has_:
     da: Akantus-familien
     de: Akanthusgewächse
     en: Acanthaceae
-    en-ca: Acanthaceae
-    en-gb: Acanthaceae
+    en_ca: Acanthaceae
+    en_gb: Acanthaceae
     eo: Akantacoj
     es: Acanthaceae
     et: akantuselised
@@ -102,7 +102,7 @@ dv_has_:
     pam: Acanthaceae
     pl: Akantowate
     pt: Acanthaceae
-    pt-br: Acanthaceae
+    pt_br: Acanthaceae
     ro: Acantacee
     ru: акантовые
     sl: akantovke
@@ -119,9 +119,9 @@ dv_has_:
     war: Acanthaceae
     yue: 爵床科
     zh: 爵床科
-    zh-cn: 爵床科
-    zh-hans: 爵床科
-    zh-tw: 爵床科
+    zh_cn: 爵床科
+    zh_hans: 爵床科
+    zh_tw: 爵床科
 ---
 # [[Acanthaceae]] 
 

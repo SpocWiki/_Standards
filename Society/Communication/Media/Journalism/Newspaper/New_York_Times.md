@@ -338,14 +338,14 @@ dv_has_:
     yi: ניו יארק טיימס
     yue: 紐約時報
     zh: 纽约时报
-    zh-cn: 纽约时报
-    zh-hans: 纽约时报
-    zh-hant: 紐約時報
-    zh-hk: 紐約時報
-    zh-mo: 紐約時報
+    zh_cn: 纽约时报
+    zh_hans: 纽约时报
+    zh_hant: 紐約時報
+    zh_hk: 紐約時報
+    zh_mo: 紐約時報
     zh-my: 纽约时报
-    zh-sg: 纽约时报
-    zh-tw: 紐約時報
+    zh_sg: 纽约时报
+    zh_tw: 紐約時報
 ---
 # [[New_York_Times]] 
 

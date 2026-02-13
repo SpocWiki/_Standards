@@ -316,7 +316,7 @@ dv_has_:
     ban: Gottfried Wilhelm Leibniz
     bcl: Gottfried Wilhelm Leibniz
     be: Готфрыд Лейбніц
-    be-tarask: Готфрыд Ляйбніц
+    be_tarask: Готфрыд Ляйбніц
     bg: Готфрид Лайбниц
     bho: गॉटफ्रीड विल्हेम लाइब्नित्ज
     bn: গটফ্রিড ভিলহেল্ম লাইবনিৎস
@@ -341,8 +341,8 @@ dv_has_:
     ee: Gottfried Wilhelm Leibniz
     el: Γκότφριντ Βίλχελμ Λάιμπνιτς
     en: Gottfried Wilhelm Leibniz
-    en-ca: Gottfried Wilhelm Leibniz
-    en-gb: Gottfried Wilhelm Leibniz
+    en_ca: Gottfried Wilhelm Leibniz
+    en_gb: Gottfried Wilhelm Leibniz
     en-us: Gottfried Wilhelm Leibniz
     eo: Gottfried Wilhelm Leibniz
     es: Gottfried Leibniz
@@ -427,7 +427,7 @@ dv_has_:
     pnb: گوٹفرائیڈ لیبنز
     ps: ګوټفرېډ وېلهلم لایبنېتس
     pt: Gottfried Leibniz
-    pt-br: Gottfried Leibniz
+    pt_br: Gottfried Leibniz
     ro: Gottfried Wilhelm von Leibniz
     ru: Готфрид Вильгельм Лейбниц
     rue: Ґотфрід Вільгельм Лейбніц
@@ -466,8 +466,8 @@ dv_has_:
     yo: Gottfried Leibniz
     yue: 萊布尼茲
     zh: 戈特弗里德·威廉·莱布尼茨
-    zh-cn: 哥特弗里德·威廉·莱布尼茨
-    zh-hant: 哥特佛萊德·萊布尼茲
+    zh_cn: 哥特弗里德·威廉·莱布尼茨
+    zh_hant: 哥特佛萊德·萊布尼茲
 ---
 - [[#has_/time_/started :: 1646-07-01]]  [#has_/place_/started :: [[Leipzig]] ]
 - [[#has_/time_/stopped :: 1716-11-14]] [#has_/place_/stopped :: [[../../../Earth/Continent/America~Caribbean/Greater_Antilles/Jamaica/Parishes~Jamaica/Hanover]] ] 

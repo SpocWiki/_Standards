@@ -132,11 +132,11 @@ dv_has_:
     cs: One World Trade Center
     da: One World Trade Center
     de: One World Trade Center
-    de-ch: One World Trade Center
+    de_ch: One World Trade Center
     el: Παγκόσμιο Κέντρο Εμπορίου 1
     en: One World Trade Center
-    en-ca: One World Trade Center
-    en-gb: One World Trade Center
+    en_ca: One World Trade Center
+    en_gb: One World Trade Center
     en-us: One World Trade Center
     eo: One World Trade Center
     es: One World Trade Center
@@ -177,7 +177,7 @@ dv_has_:
     pl: One World Trade Center
     pnb: فریڈم ٹاور
     pt: One World Trade Center
-    pt-br: 1 World Trade Center
+    pt_br: 1 World Trade Center
     ro: Freedom Tower
     ru: Всемирный торговый центр 1
     sat: ᱢᱤᱫ ᱡᱮᱜᱮᱛ ᱵᱮᱯᱟᱨ ᱛᱟᱞᱢᱟ
@@ -199,9 +199,9 @@ dv_has_:
     wuu: 世界贸易中心一号大楼
     yue: 世界貿易中心一號大樓
     zh: 世界貿易中心一號大樓
-    zh-hans: 世界贸易中心一号大楼
-    zh-hant: 世界貿易中心一號大樓
-    zh-tw: 世界貿易中心一號大樓
+    zh_hans: 世界贸易中心一号大楼
+    zh_hant: 世界貿易中心一號大樓
+    zh_tw: 世界貿易中心一號大樓
 ---
 # [[One World Trade Center]] 
 

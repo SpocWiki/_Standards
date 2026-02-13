@@ -16,7 +16,7 @@ dv_has_:
     bar: Kinäsische Schrift
     bbc: Leter Cina
     be: кітайскае пісьмо
-    be-tarask: кітайскае пісьмо
+    be_tarask: кітайскае пісьмо
     bg: Китайска логограма
     bjn: aksara Cina
     bn: চীনা অক্ষর
@@ -38,8 +38,8 @@ dv_has_:
     diq: Karakterê Çinki
     el: κινέζικοι χαρακτήρες
     en: Chinese characters
-    en-ca: Chinese characters
-    en-gb: Chinese characters
+    en_ca: Chinese characters
+    en_gb: Chinese characters
     eo: ĉina skribo
     es: caracteres chinos
     et: hiina kiri
@@ -110,7 +110,7 @@ dv_has_:
     pnb: چینی لپی
     ps: چيني ليکنښې
     pt: Caracteres chineses
-    pt-br: Caracteres chineses
+    pt_br: Caracteres chineses
     ro: caractere chineze
     ru: китайское письмо
     rue: Китайськоє писаня
@@ -132,12 +132,12 @@ dv_has_:
     szl: Chiński szrajbůnek
     ta: சீன எழுத்துமுறை
     te: చైనీస్ లిపి
-    tg-cyrl: хатти чинӣ
+    tg_cyrl: хатти чинӣ
     th: อักษรจีน
     tok: sitelen Kan
     tr: Çince karakter
     tt: кытай язуы
-    tt-cyrl: кытай язуы
+    tt_cyrl: кытай язуы
     udm: китай пусъёс
     ug: خەنزۇ يېزىقى
     uk: китайська писемність
@@ -153,14 +153,14 @@ dv_has_:
     za: Sawgun
     zgh: ⴰⴳⵎⵎⴰⵢ ⴰⵛⵉⵏⵡⵉ
     zh: 汉字
-    zh-cn: 汉字
-    zh-hans: 汉字
-    zh-hant: 漢字
-    zh-hk: 漢字
-    zh-mo: 漢字
+    zh_cn: 汉字
+    zh_hans: 汉字
+    zh_hant: 漢字
+    zh_hk: 漢字
+    zh_mo: 漢字
     zh-my: 汉字
-    zh-sg: 汉字
-    zh-tw: 漢字
+    zh_sg: 汉字
+    zh_tw: 漢字
 aliases:
 - aksara Cina
 - Aksara Cinten

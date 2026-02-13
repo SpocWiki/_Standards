@@ -27,7 +27,7 @@ dv_has_:
     azb: سودیوم کربونات
     ba: натрий карбонаты
     be: карбанат натрыю
-    be-tarask: карбанат натру
+    be_tarask: карбанат натру
     bg: натриев карбонат
     bn: সোডিয়াম কার্বনেট
     bs: natrij-karbonat
@@ -84,8 +84,8 @@ dv_has_:
     sl: natrijev karbonat
     sq: karbonati i natriumit
     sr: натријум карбонат
-    sr-ec: натријум карбонат
-    sr-el: natrijum karbonat
+    sr_ec: натријум карбонат
+    sr_el: natrijum karbonat
     sv: natriumkarbonat
     ta: சோடியம் காபனேற்று
     te: సోడియమ్ కార్బొనేట్
@@ -100,12 +100,12 @@ dv_has_:
     wuu: 碳酸钠
     yue: 鹼粉
     zh: 碳酸钠
-    zh-cn: 碳酸钠
-    zh-hans: 碳酸钠
-    zh-hant: 碳酸鈉
-    zh-hk: 碳酸鈉
-    zh-sg: 碳酸钠
-    zh-tw: 碳酸鈉
+    zh_cn: 碳酸钠
+    zh_hans: 碳酸钠
+    zh_hant: 碳酸鈉
+    zh_hk: 碳酸鈉
+    zh_sg: 碳酸钠
+    zh_tw: 碳酸鈉
 aliases:
 - carbonaid hodjum
 - carbonat de sodi

@@ -89,8 +89,8 @@ dv_has_:
     ru: Небесный замок Лапута
     sh: Castle in the Sky
     sr: Замак на небу
-    sr-ec: Замак на небу
-    sr-el: Zamak na nebu
+    sr_ec: Замак на небу
+    sr_el: Zamak na nebu
     sv: Laputa – slottet i himlen
     szy: tapukuwanay a buluku
     th: ลาพิวต้า พลิกตำนานเหนือเวหา
@@ -101,9 +101,9 @@ dv_has_:
     yue: 天空之城
     za: Gwnzmbwn Singz
     zh: 天空之城
-    zh-hans: 天空之城
-    zh-hant: 天空之城
-    zh-hk: 天空之城
+    zh_hans: 天空之城
+    zh_hant: 天空之城
+    zh_hk: 天空之城
 ---
 ## #has_/text_of_/abstract 
 

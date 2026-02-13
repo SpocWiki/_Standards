@@ -167,7 +167,7 @@ dv_has_:
     azb: سیکیزم
     ba: Сикхизм
     be: сікхізм
-    be-tarask: Сыкхізм
+    be_tarask: Сыкхізм
     bew: Sik
     bg: Сикхизъм
     bho: सिख धर्म
@@ -193,8 +193,8 @@ dv_has_:
     el: Σιχισμός
     eml: Sikhîsum
     en: Sikhism
-    en-ca: Sikhism
-    en-gb: Sikhism
+    en_ca: Sikhism
+    en_gb: Sikhism
     eo: Sikismo
     es: Sijismo
     et: Sikhism
@@ -279,7 +279,7 @@ dv_has_:
     pnb: سکھ مت
     ps: سکهيزم
     pt: Sikhismo
-    pt-br: Sikhismo
+    pt_br: Sikhismo
     rki: ဆစ်ခ်ဘာသာ
     rmy: Sihkâpen
     ro: Sikhism
@@ -301,13 +301,13 @@ dv_has_:
     so: Siikhismi
     sq: Sikh
     sr: сикизам
-    sr-ec: сикизам
-    sr-el: sikizam
+    sr_ec: сикизам
+    sr_el: sikizam
     sv: Sikhism
     sw: Kalasinga
     ta: சீக்கியம்
     te: సిక్కుమతం
-    tg-cyrl: Сикҳизм
+    tg_cyrl: Сикҳизм
     th: ศาสนาซิกข์
     tl: Sikhismo
     tly: Sikxizm
@@ -328,14 +328,14 @@ dv_has_:
     yi: סיקהיזם
     yue: 錫克教
     zh: 锡克教
-    zh-cn: 锡克教
-    zh-hans: 锡克教
-    zh-hant: 錫克教
-    zh-hk: 錫克教
-    zh-mo: 錫克教
+    zh_cn: 锡克教
+    zh_hans: 锡克教
+    zh_hant: 錫克教
+    zh_hk: 錫克教
+    zh_mo: 錫克教
     zh-my: 锡克教
-    zh-sg: 锡克教
-    zh-tw: 錫克教
+    zh_sg: 锡克教
+    zh_tw: 錫克教
 ---
 # [[Sikhism]] 
 

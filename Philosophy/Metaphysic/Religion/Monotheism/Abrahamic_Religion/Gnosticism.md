@@ -94,7 +94,7 @@ dv_has_:
     azb: قنوسیسم
     bar: Gnosis
     be: гнастыцызм
-    be-tarask: гнастыцызм
+    be_tarask: гнастыцызм
     bg: гностицизъм
     bn: জ্ঞানবাদ
     bs: gnosticizam
@@ -105,7 +105,7 @@ dv_has_:
     de: Gnosis
     el: Γνωστικισμός
     en: gnosticism
-    en-gb: gnosticism
+    en_gb: gnosticism
     eo: gnostikismo
     es: gnosticismo
     et: gnostitsism
@@ -144,7 +144,7 @@ dv_has_:
     ml: ജ്ഞാനവാദം
     ms: gnostikisme
     nb: gnostisisme
-    nds-nl: gnostik
+    nds_nl: gnostik
     nl: gnosticisme
     nn: gnostisisme
     oc: gnosticisme
@@ -158,7 +158,7 @@ dv_has_:
     sl: gnosticizem
     sq: gnosticizmi
     sr: гностицизам
-    sr-ec: Гностицизам
+    sr_ec: Гностицизам
     sv: gnosticism
     sw: Ujuzilio
     ta: ஞானக் கொள்கை
@@ -175,8 +175,8 @@ dv_has_:
     wuu: 诺斯底主义
     yue: 諾斯底主義
     zh: 諾斯底主義
-    zh-hant: 諾斯底主義
-    zh-tw: 諾斯底主義
+    zh_hant: 諾斯底主義
+    zh_tw: 諾斯底主義
 ---
 # [[Gnosticism]]
 

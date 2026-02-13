@@ -39,7 +39,7 @@ dv_has_:
     oc: Heleophryne
     pl: Heleophryne
     pt: Heleophryne
-    pt-br: Heleophryne
+    pt_br: Heleophryne
     ro: Heleophryne
     ru: Лягушки-привидения
     sq: Heleophryne
@@ -49,8 +49,8 @@ dv_has_:
     vo: Heleophryne
     war: Heleophryne
     zh: 沼蟾属
-    zh-cn: 沼蟾属
-    zh-tw: 沼蟾屬
+    zh_cn: 沼蟾属
+    zh_tw: 沼蟾屬
 ---
 # [[Heleophryne]]
 

@@ -52,7 +52,7 @@ dv_has_:
     ast: anxoloxía
     az: angiologiya
     be: ангіялогія
-    be-tarask: ангіялёгія
+    be_tarask: ангіялёгія
     bg: ангиология
     bs: Angiologija
     ca: angiologia
@@ -97,7 +97,7 @@ dv_has_:
     sms: angiologia
     sq: angiologia
     sr: Ангиологија
-    sr-ec: Ангиологија
+    sr_ec: Ангиологија
     sv: angiologi
     ta: உடற் குழலியல்
     tg: Ангиология
@@ -109,7 +109,7 @@ dv_has_:
     wuu: 血管学
     yue: 血管學
     zh: 血管學
-    zh-hant: 血管學
+    zh_hant: 血管學
 ---
 # [[Angiology]] 
 

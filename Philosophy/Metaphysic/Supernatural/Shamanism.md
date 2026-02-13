@@ -116,7 +116,7 @@ dv_has_:
     ba: шаманлыҡ
     ban: Kapercayaan shamanisme
     be: Шаманізм
-    be-tarask: шаманізм
+    be_tarask: шаманізм
     bg: Шаманизъм
     bn: ওঝাবাদ
     ca: xamanisme
@@ -126,11 +126,11 @@ dv_has_:
     cy: siamanaeth
     da: shamanisme
     de: Schamanismus
-    de-ch: Schamanismus
+    de_ch: Schamanismus
     el: σαμανισμός
     en: shamanism
-    en-ca: shamanism
-    en-gb: shamanism
+    en_ca: shamanism
+    en_gb: shamanism
     eo: ŝamanismo
     es: chamanismo
     et: šamanism
@@ -179,7 +179,7 @@ dv_has_:
     pl: szamanizm
     ps: شمن باوري
     pt: xamanismo
-    pt-br: xamanismo
+    pt_br: xamanismo
     qu: Paqu yachaq
     ro: șamanism
     ru: шаманизм

@@ -152,7 +152,7 @@ dv_has_:
     azb: فرد آستر
     ba: Фред Астер
     be: Фрэд Астэр
-    be-tarask: Фрэд Астэр
+    be_tarask: Фрэд Астэр
     bg: Фред Астер
     bi: Fred Astaire
     bn: ফ্রেড অ্যাস্টেয়ার
@@ -166,7 +166,7 @@ dv_has_:
     de: Fred Astaire
     el: Φρεντ Αστέρ
     en: Fred Astaire
-    en-gb: Fred Astaire
+    en_gb: Fred Astaire
     eo: Fred Astaire
     es: Fred Astaire
     et: Fred Astaire
@@ -212,7 +212,7 @@ dv_has_:
     pap: Fred Astaire
     pl: Fred Astaire
     pt: Fred Astaire
-    pt-br: Fred Astaire
+    pt_br: Fred Astaire
     qu: Fred Astaire
     ro: Fred Astaire
     ru: Фред Астер
@@ -222,8 +222,8 @@ dv_has_:
     sl: Fred Astaire
     sq: Fred Astaire
     sr: Фред Астер
-    sr-ec: Фред Астер
-    sr-el: Fred Aster
+    sr_ec: Фред Астер
+    sr_el: Fred Aster
     sv: Fred Astaire
     sw: Fred Astaire
     ta: பிரெட் அஸ்ரயர்
@@ -241,13 +241,13 @@ dv_has_:
     yo: Fred Astaire
     yue: 佛烈雅士堤
     zh: 弗雷德·阿斯泰爾
-    zh-cn: 弗雷德·阿斯泰尔
-    zh-hans: 弗雷德·阿斯泰尔
-    zh-hant: 佛雷·亞斯坦
-    zh-hk: 佛烈·雅士提
+    zh_cn: 弗雷德·阿斯泰尔
+    zh_hans: 弗雷德·阿斯泰尔
+    zh_hant: 佛雷·亞斯坦
+    zh_hk: 佛烈·雅士提
     zh-my: 佛烈·雅士提
-    zh-sg: 佛烈·雅士提
-    zh-tw: 佛雷·亞斯坦
+    zh_sg: 佛烈·雅士提
+    zh_tw: 佛雷·亞斯坦
 ---
 # [[Astaire,Fred]] 
 

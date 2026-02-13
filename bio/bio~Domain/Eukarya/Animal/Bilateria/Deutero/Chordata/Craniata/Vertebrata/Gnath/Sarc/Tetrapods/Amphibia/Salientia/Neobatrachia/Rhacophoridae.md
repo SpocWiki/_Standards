@@ -36,18 +36,18 @@ dv_has_:
     arz: حاملات الجعد
     ast: Rhacophoridae
     be: Весланогі
-    be-tarask: весланогі
+    be_tarask: весланогі
     bg: веслоноги жаби
     ca: Racofòrid
     ceb: Rhacophoridae
     cs: létavkovití
     da: Rhacophoridae
     de: Ruderfrösche
-    de-ch: Ruderfrösche
+    de_ch: Ruderfrösche
     el: Ρακοφορίδες
     en: Rhacophoridae
-    en-ca: Rhacophoridae
-    en-gb: Rhacophoridae
+    en_ca: Rhacophoridae
+    en_gb: Rhacophoridae
     eo: Rakoforedoj
     es: Rhacophoridae
     eu: Rhacophoridae
@@ -79,7 +79,7 @@ dv_has_:
     oc: Rhacophoridae
     pl: Nogolotkowate
     pt: Rhacophoridae
-    pt-br: Rhacophoridae
+    pt_br: Rhacophoridae
     ro: Rhacophoridae
     ru: веслоногие лягушки
     sl: Jadralke
@@ -93,9 +93,9 @@ dv_has_:
     vo: Rhacophoridae
     war: Rhacophoridae
     zh: 树蛙科
-    zh-cn: 树蛙科
-    zh-hans: 树蛙科
-    zh-tw: 樹蛙科
+    zh_cn: 树蛙科
+    zh_hans: 树蛙科
+    zh_tw: 樹蛙科
 ---
 # [[Rhacophoridae]]
 

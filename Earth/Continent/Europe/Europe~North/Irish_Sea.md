@@ -32,7 +32,7 @@ dv_has_:
     ba: Ирландия диңгеҙе
     bar: Irische Sää
     be: Ірландскае мора
-    be-tarask: Ірляндзкае мора
+    be_tarask: Ірляндзкае мора
     bg: Ирландско море
     bho: आयरिश सागर
     bn: আইরিশ সাগর
@@ -46,11 +46,11 @@ dv_has_:
     cy: Môr Iwerddon
     da: Irske Hav
     de: Irische See
-    de-ch: Irische See
+    de_ch: Irische See
     el: Ιρλανδική θάλασσα
     en: Irish Sea
-    en-ca: Irish Sea
-    en-gb: Irish Sea
+    en_ca: Irish Sea
+    en_gb: Irish Sea
     eo: Irlanda Maro
     es: mar de Irlanda
     et: Iiri meri
@@ -96,7 +96,7 @@ dv_has_:
     nan-hant: 愛爾蘭海
     nb: Irskesjøen
     nds: Irische See
-    nds-nl: Ierse Zee
+    nds_nl: Ierse Zee
     new: आइरिश सागर
     nl: Ierse Zee
     nn: Irskesjøen
@@ -107,7 +107,7 @@ dv_has_:
     pl: Morze Irlandzkie
     pnb: آئری سمندر
     pt: Mar da Irlanda
-    pt-br: Mar da Irlanda
+    pt_br: Mar da Irlanda
     ro: Marea Irlandeză
     ru: Ирландское море
     rue: Ірьске море

@@ -58,7 +58,7 @@ dv_has_:
     ar: سلحفاة سوداء
     ast: Genbu
     ba: Ҡара гөбөргәйел
-    be-tarask: сюань-ву
+    be_tarask: сюань-ву
     ca: Xuanwu
     cdo: Hièng-ū
     de: Schwarze Schildkröte

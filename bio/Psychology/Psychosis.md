@@ -143,7 +143,7 @@ dv_has_:
     azb: سایکوسیس
     ban: Psikosis
     be: псіхоз
-    be-tarask: псыхоз
+    be_tarask: псыхоз
     bg: Психоза
     bn: মনোব্যাধি
     br: Psikosis
@@ -156,8 +156,8 @@ dv_has_:
     diq: Psîkoz
     el: ψύχωση
     en: psychosis
-    en-ca: Psychosis
-    en-gb: psychosis
+    en_ca: Psychosis
+    en_gb: psychosis
     eo: psiĥozo
     es: psicosis
     et: psühhoos
@@ -185,8 +185,8 @@ dv_has_:
     ko: 정신증
     koi: Psikoz
     ku: Psîkoz
-    ku-arab: پسیکۆز
-    ku-latn: Psîkoz
+    ku_arab: پسیکۆز
+    ku_latn: Psîkoz
     lt: psichozė
     lv: Psihoze
     mad: Psikosis
@@ -194,7 +194,7 @@ dv_has_:
     mk: Психоза
     ml: ചിത്തവിഭ്രാന്തി
     ms: psikosis
-    ms-arab: ڤسيکوسيس
+    ms_arab: ڤسيکوسيس
     mwl: Sicosis
     nb: psykose
     ne: पागलपन
@@ -206,7 +206,7 @@ dv_has_:
     pl: psychoza
     pnt: ψύχωμαν
     pt: psicose
-    pt-br: Psicose
+    pt_br: Psicose
     ro: psihoză
     ru: психоз
     se: psykosa
@@ -221,8 +221,8 @@ dv_has_:
     so: Hindiso
     sq: Psikoza
     sr: психоза
-    sr-ec: Психоза
-    sr-el: Psihoza
+    sr_ec: Психоза
+    sr_el: Psihoza
     sv: psykos
     te: సైకోసిస్
     th: โรคจิต
@@ -237,12 +237,12 @@ dv_has_:
     yi: פסיכאז
     yue: 思覺失調
     zh: 精神病
-    zh-cn: 精神病
-    zh-hans: 精神病
-    zh-hant: 思覺失調
-    zh-hk: 思覺失調
-    zh-sg: 思觉失调
-    zh-tw: 思覺失調
+    zh_cn: 精神病
+    zh_hans: 精神病
+    zh_hant: 思覺失調
+    zh_hk: 思覺失調
+    zh_sg: 思觉失调
+    zh_tw: 思覺失調
 ---
 # [[Psychosis]] 
 

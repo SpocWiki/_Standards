@@ -86,7 +86,7 @@ dv_has_:
     ast: iconu
     az: i̇kona
     be: ікона
-    be-tarask: абраз
+    be_tarask: абраз
     bg: икона
     bn: প্রতিমা
     br: ikonenn
@@ -99,8 +99,8 @@ dv_has_:
     de: Ikone
     el: αγιογραφία
     en: icon
-    en-ca: icon
-    en-gb: icon
+    en_ca: icon
+    en_gb: icon
     eo: ikono
     es: icono
     et: ikoon
@@ -123,11 +123,11 @@ dv_has_:
     ja: イコン
     ka: ხატი
     kk: икона
-    kk-arab: ىيكونا
+    kk_arab: ىيكونا
     kk-cn: ىيكونا
-    kk-cyrl: икона
+    kk_cyrl: икона
     kk-kz: икона
-    kk-latn: ïkona
+    kk_latn: ïkona
     kk-tr: ïkona
     km: បដិមា
     ko: 이콘
@@ -147,7 +147,7 @@ dv_has_:
     os: иконæ
     pl: ikona
     pt: ícone
-    pt-br: icone
+    pt_br: icone
     ro: icoană
     ru: икона
     rup: icoanâ
@@ -158,8 +158,8 @@ dv_has_:
     sl: ikona
     sq: ikonat
     sr: икона
-    sr-ec: икона
-    sr-el: ikona
+    sr_ec: икона
+    sr_el: ikona
     su: Ikon
     sv: ikon
     sw: picha takatifu
@@ -174,12 +174,12 @@ dv_has_:
     wuu: 圣像画
     yue: 聖像
     zh: 聖像畫
-    zh-cn: 圣像画
-    zh-hans: 圣像画
-    zh-hant: 聖像畫
-    zh-hk: 聖像畫
-    zh-sg: 圣像画
-    zh-tw: 聖像畫
+    zh_cn: 圣像画
+    zh_hans: 圣像画
+    zh_hant: 聖像畫
+    zh_hk: 聖像畫
+    zh_sg: 圣像画
+    zh_tw: 聖像畫
 ---
 # [[Icon]] 
 

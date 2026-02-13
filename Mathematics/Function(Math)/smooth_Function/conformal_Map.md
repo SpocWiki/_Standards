@@ -62,9 +62,9 @@ dv_has_:
     it: mappa conforme
     ja: 等角写像
     kk: Конформды бейнелеу
-    kk-arab: كونفورمدى بەينەلەۋ
-    kk-cyrl: Конформды бейнелеу
-    kk-latn: Konformdı beýnelew
+    kk_arab: كونفورمدى بەينەلەۋ
+    kk_cyrl: Конформды бейнелеу
+    kk_latn: Konformdı beýnelew
     ko: 등각 사상
     nb: Konform avbildning
     nl: hoekgetrouwe projectie
@@ -80,9 +80,9 @@ dv_has_:
     vi: Ánh xạ bảo giác
     yue: 保角映射
     zh: 共形映射
-    zh-hans: 共形映射
-    zh-hant: 共形映射
-    zh-hk: 共形映射
+    zh_hans: 共形映射
+    zh_hant: 共形映射
+    zh_hk: 共形映射
 ---
 # [[conformal_Map]] 
 

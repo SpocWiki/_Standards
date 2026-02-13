@@ -13,7 +13,7 @@ dv_has_:
     az: toraks
     bcl: toraks
     be: торакс
-    be-tarask: торакс
+    be_tarask: торакс
     bew: dada
     bg: гръден кош
     bjn: dada
@@ -94,7 +94,7 @@ dv_has_:
     pl: tułów
     ps: ټټر
     pt: peito
-    pt-br: peito
+    pt_br: peito
     qu: qhasqu
     ro: piept
     ru: торакс
@@ -133,8 +133,8 @@ dv_has_:
     yue: 胸
     za: aek
     zh: 胸部
-    zh-hans: 胸部
-    zh-hant: 胸部
+    zh_hans: 胸部
+    zh_hant: 胸部
 aliases:
 - acota
 - aek

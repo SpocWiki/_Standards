@@ -147,7 +147,7 @@ dv_has_:
     az: İspan qripi
     ba: испан киҙеүе
     be: Іспанскі грып
-    be-tarask: гішпанскі грып
+    be_tarask: гішпанскі грып
     bg: Испански грип
     bn: স্প্যানিশ ফ্লু
     bs: Španska groznica
@@ -159,11 +159,11 @@ dv_has_:
     cy: Pandemig ffliw 1918
     da: Den Spanske Syge
     de: Spanische Grippe
-    de-ch: Spanische Grippe
+    de_ch: Spanische Grippe
     el: Ισπανική γρίπη
     en: 1918–1920 flu pandemic
-    en-ca: 1918 flu pandemic
-    en-gb: 1918 flu pandemic
+    en_ca: 1918 flu pandemic
+    en_gb: 1918 flu pandemic
     eo: Hispana gripo
     es: pandemia de gripe de 1918
     et: Hispaania gripp
@@ -216,7 +216,7 @@ dv_has_:
     pnb: ہسپانوی فلو
     ps: اسپانيايي انفلونزا
     pt: gripe de 1918
-    pt-br: Gripe de 1918
+    pt_br: Gripe de 1918
     ro: gripa spaniolă
     ru: испанский грипп
     sc: Influèntzia ispagnola
@@ -246,14 +246,14 @@ dv_has_:
     wuu: 1918年流感大流行
     yue: 西班牙流感
     zh: 西班牙流感
-    zh-cn: 西班牙流感
-    zh-hans: 西班牙流感
-    zh-hant: 西班牙流感
-    zh-hk: 西班牙流感
-    zh-mo: 西班牙流感
+    zh_cn: 西班牙流感
+    zh_hans: 西班牙流感
+    zh_hant: 西班牙流感
+    zh_hk: 西班牙流感
+    zh_mo: 西班牙流感
     zh-my: 西班牙流感
-    zh-sg: 西班牙流感
-    zh-tw: 西班牙流感
+    zh_sg: 西班牙流感
+    zh_tw: 西班牙流感
 ---
 # [[1918-1920_flu_pandemic]] 
 

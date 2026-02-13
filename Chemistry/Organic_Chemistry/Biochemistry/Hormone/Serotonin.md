@@ -26,7 +26,7 @@ dv_has_:
     azb: سروتونین
     ban: Serotonin
     be: Сератанін
-    be-tarask: Сэратанін
+    be_tarask: Сэратанін
     bg: Серотонин
     bn: সেরোটোনিন
     bs: Serotonin
@@ -36,7 +36,7 @@ dv_has_:
     de: Serotonin
     el: σεροτονίνη
     en: serotonin
-    en-gb: serotonin
+    en_gb: serotonin
     eo: serotonino
     es: serotonina
     et: Serotoniin
@@ -58,11 +58,11 @@ dv_has_:
     it: serotonina
     ja: セロトニン
     kk: Серотонин
-    kk-arab: سەروتونىين
+    kk_arab: سەروتونىين
     kk-cn: سەروتونىين
-    kk-cyrl: Серотонин
+    kk_cyrl: Серотонин
     kk-kz: Серотонин
-    kk-latn: Serotonïn
+    kk_latn: Serotonïn
     kk-tr: Serotonïn
     ko: 세로토닌
     ky: Серотонин
@@ -86,8 +86,8 @@ dv_has_:
     sk: Serotonín
     sl: serotonin
     sr: серотонин
-    sr-ec: Серотонин
-    sr-el: Serotonin
+    sr_ec: Серотонин
+    sr_el: Serotonin
     sv: serotonin
     ta: செரோடோனின்
     te: సెరటోనిన్
@@ -101,12 +101,12 @@ dv_has_:
     war: Serotonin
     wuu: 血清素
     zh: 血清素
-    zh-cn: 血清素
-    zh-hans: 血清素
-    zh-hant: 血清素
-    zh-hk: 血清素
-    zh-sg: 血清素
-    zh-tw: 血清素
+    zh_cn: 血清素
+    zh_hans: 血清素
+    zh_hant: 血清素
+    zh_hk: 血清素
+    zh_sg: 血清素
+    zh_tw: 血清素
 aliases:
 - 5-हाइड्रॉक्सिट्रिप्टामिन
 - Seratonin

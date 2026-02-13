@@ -161,7 +161,7 @@ dv_has_:
     pms: Ian Fleming
     ps: ایان فلمینګ
     pt: Ian Fleming
-    pt-br: Ian Fleming
+    pt_br: Ian Fleming
     qu: Ian Fleming
     ro: Ian Fleming
     ru: Ян Флеминг

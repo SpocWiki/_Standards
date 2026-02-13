@@ -88,7 +88,7 @@ dv_has_:
     azb: نیهیلیسم
     ba: нигилизм
     be: нігілізм
-    be-tarask: нігілізм
+    be_tarask: нігілізм
     bg: нихилизъм
     bjn: nihilisme
     bn: শূন্যবাদ
@@ -140,7 +140,7 @@ dv_has_:
     ml: നിഹിലിസം
     ms: Nihilisme
     nb: nihilisme
-    nds-nl: nihilisme
+    nds_nl: nihilisme
     ne: शुन्यवाद
     nl: nihilisme
     nn: nihilisme
@@ -164,8 +164,8 @@ dv_has_:
     so: dalankac
     sq: nihilizmi
     sr: нихилизам
-    sr-ec: нихилизам
-    sr-el: nihilizam
+    sr_ec: нихилизам
+    sr_el: nihilizam
     sv: nihilism
     ta: இல்லாமை தத்துவம்
     th: สุญนิยม

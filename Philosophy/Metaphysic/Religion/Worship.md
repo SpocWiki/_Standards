@@ -83,7 +83,7 @@ dv_has_:
     azb: عیبادت
     bcl: Pagsamba
     be: богаслужэнне
-    be-tarask: пакланеньне
+    be_tarask: пакланеньне
     bn: উপাসনা
     ca: adoració religiosa
     cs: bohoslužba
@@ -125,8 +125,8 @@ dv_has_:
     sk: bohoslužba
     sl: bogoslužje
     sr: обожавање
-    sr-ec: обожавање
-    sr-el: obožavanje
+    sr_ec: обожавање
+    sr_el: obožavanje
     sv: dyrkan
     sw: Ibada
     ta: வழிபாடு
@@ -138,8 +138,8 @@ dv_has_:
     vi: Thờ cúng
     yue: 禮拜
     zh: 崇拜
-    zh-hant: 崇拜
-    zh-tw: 崇拜
+    zh_hant: 崇拜
+    zh_tw: 崇拜
 ---
 # [[Worship]] 
 

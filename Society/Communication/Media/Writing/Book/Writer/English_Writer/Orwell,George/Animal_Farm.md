@@ -101,7 +101,7 @@ dv_has_:
     az: Heyvanıstan
     azb: حئیوانلار قالاسی
     be: Жывёльны двор
-    be-tarask: Фэрма
+    be_tarask: Фэрма
     bg: Фермата на животните (роман)
     bn: অ্যানিম্যাল ফার্ম
     br: Kêr al loened
@@ -116,7 +116,7 @@ dv_has_:
     de: Farm der Tiere
     el: Η Φάρμα των Ζώων
     en: Animal Farm
-    en-ca: Animal Farm
+    en_ca: Animal Farm
     en-us: Animal Farm
     eo: La Besto-Farmo
     es: Rebelión en la granja
@@ -166,7 +166,7 @@ dv_has_:
     pa: ਐਨੀਮਲ ਫ਼ਾਰਮ
     pl: Folwark zwierzęcy
     pt: O Triunfo dos Porcos
-    pt-br: Revolução dos Bichos
+    pt_br: Revolução dos Bichos
     ro: Ferma animalelor
     ru: Скотный двор
     sc: S'asïenda de is béstias
@@ -196,9 +196,9 @@ dv_has_:
     yue: 動物農莊
     zgh: ⵜⵓⵔⵜⵉⵜ ⵏ ⵉⵎⵓⴷⴰⵔ (ⴰⴷⵍⵉⵙ)
     zh: 动物庄园
-    zh-hant: 動物農莊
+    zh_hant: 動物農莊
     zh-my: 万牲园
-    zh-sg: 万牲园
+    zh_sg: 万牲园
 ---
 #has_/creator :: [[../Orwell,George|Orwell,George]] 
 #has_/time_/started :: 1945-08-17 

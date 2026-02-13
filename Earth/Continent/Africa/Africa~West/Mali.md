@@ -529,7 +529,7 @@ dv_has_:
     ab: Мали
     ace: Mali
     ady: Мали
-    aeb-arab: مالي
+    aeb_arab: مالي
     af: Mali
     am: ማሊ
     ami: Mali
@@ -551,7 +551,7 @@ dv_has_:
     bar: Mali
     bcl: Mali
     be: Малі
-    be-tarask: Малі
+    be_tarask: Малі
     bew: Mali
     bg: Мали
     bho: माली देस
@@ -565,14 +565,14 @@ dv_has_:
     bs: Mali
     bxr: Мали
     ca: Mali
-    cbk-zam: Malí
+    cbk_zam: Malí
     cdo: Mali
     ce: Мали
     ceb: Mali
     ckb: مالی
     co: Mali
     crh: Mali
-    crh-latn: Mali
+    crh_latn: Mali
     cs: Mali
     cv: Мали
     cy: Mali
@@ -580,7 +580,7 @@ dv_has_:
     dag: Mali
     de: Mali
     de-at: Mali
-    de-ch: Mali
+    de_ch: Mali
     dga: Mali
     diq: Mali
     dsb: Mali
@@ -590,8 +590,8 @@ dv_has_:
     ee: Mali
     el: Μάλι
     en: Mali
-    en-ca: Mali
-    en-gb: Mali
+    en_ca: Mali
+    en_gb: Mali
     eo: Malio
     es: Mali
     et: Mali
@@ -688,7 +688,7 @@ dv_has_:
     mr: माली
     mrj: Мали
     ms: Mali
-    ms-arab: مالي
+    ms_arab: مالي
     mt: Mali
     mwl: Mali
     my: မာလီနိုင်ငံ
@@ -698,7 +698,7 @@ dv_has_:
     nan: Mali
     nb: Mali
     nds: Mali
-    nds-nl: Mali
+    nds_nl: Mali
     ne: माली
     new: माली
     nl: Mali
@@ -724,7 +724,7 @@ dv_has_:
     pnb: مالی
     ps: مالي
     pt: Mali
-    pt-br: Mali
+    pt_br: Mali
     qu: Mali
     rmy: Mali
     ro: Mali
@@ -755,8 +755,8 @@ dv_has_:
     so: Maali
     sq: Mali
     sr: Мали
-    sr-ec: Мали
-    sr-el: Mali
+    sr_ec: Мали
+    sr_el: Mali
     ss: IMali
     st: Mali
     stq: Mali
@@ -806,12 +806,12 @@ dv_has_:
     zea: Mali
     zgh: ⵎⴰⵍⵉ
     zh: 马里
-    zh-cn: 马里共和国
-    zh-hans: 马里
-    zh-hant: 馬利
-    zh-hk: 馬里共和國
-    zh-sg: 马里共和国
-    zh-tw: 馬利
+    zh_cn: 马里共和国
+    zh_hans: 马里
+    zh_hant: 馬利
+    zh_hk: 馬里共和國
+    zh_sg: 马里共和国
+    zh_tw: 馬利
     zu: IMali
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Mali

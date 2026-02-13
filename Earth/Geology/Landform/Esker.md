@@ -76,7 +76,7 @@ dv_has_:
     ast: Esker
     az: Ozlar
     be: озы
-    be-tarask: озы
+    be_tarask: озы
     bg: Ескер
     ca: Esker
     cs: esker
@@ -102,11 +102,11 @@ dv_has_:
     ja: エスカー
     ka: ოზები
     kk: Эскерлер
-    kk-arab: ەسكەرلەر
+    kk_arab: ەسكەرلەر
     kk-cn: ەسكەرلەر
-    kk-cyrl: Эскерлер
+    kk_cyrl: Эскерлер
     kk-kz: Эскерлер
-    kk-latn: Éskerler
+    kk_latn: Éskerler
     kk-tr: Éskerler
     ko: 에스커
     kw: Esker
@@ -129,12 +129,12 @@ dv_has_:
     vro: Säländü
     yue: 蛇形丘
     zh: 蛇形丘
-    zh-cn: 蛇形丘
-    zh-hans: 蛇形丘
-    zh-hant: 蛇形丘
-    zh-hk: 蛇形丘
-    zh-sg: 蛇形丘
-    zh-tw: 蛇形丘
+    zh_cn: 蛇形丘
+    zh_hans: 蛇形丘
+    zh_hant: 蛇形丘
+    zh_hk: 蛇形丘
+    zh_sg: 蛇形丘
+    zh_tw: 蛇形丘
 ---
 # [[Esker]] 
 

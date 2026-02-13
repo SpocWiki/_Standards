@@ -149,7 +149,7 @@ dv_has_:
     ba: йогурт
     ban: Yoghurt
     be: ёгурт
-    be-tarask: ёгурт
+    be_tarask: ёгурт
     bew: Taèru
     bg: Кисело мляко
     bn: দই
@@ -164,12 +164,12 @@ dv_has_:
     cy: iogwrt
     da: yoghurt
     de: Joghurt
-    de-ch: Joghurt
+    de_ch: Joghurt
     diq: Mast
     el: Γιαούρτι
     en: yogurt
-    en-ca: yogurt
-    en-gb: yoghurt
+    en_ca: yogurt
+    en_gb: yoghurt
     eo: jogurto
     es: yogur
     et: jogurt
@@ -215,7 +215,7 @@ dv_has_:
     mwl: Yagurte
     my: ဒိန်ချဉ်
     nb: yoghurt
-    nds-nl: joggert
+    nds_nl: joggert
     ne: दही
     new: धौ
     nl: yoghurt
@@ -229,7 +229,7 @@ dv_has_:
     pnt: ξύγαλαν
     ps: مستې
     pt: iogurte
-    pt-br: Iogurte
+    pt_br: Iogurte
     qu: Yugur
     ro: iaurt
     ru: йогурт
@@ -246,8 +246,8 @@ dv_has_:
     so: Yoghurt
     sq: Jogurti
     sr: јогурт
-    sr-ec: јогурт
-    sr-el: jogurt
+    sr_ec: јогурт
+    sr_el: jogurt
     su: Yoghurt
     sv: yoghurt
     sw: Mtindi
@@ -260,7 +260,7 @@ dv_has_:
     tl: Yogurt
     tr: yoğurt
     tt: катык
-    tt-cyrl: йогырт
+    tt_cyrl: йогырт
     tum: Chambiko chakukhoma padoko (Yogati)
     tw: Yogurt
     uk: йогурт
@@ -273,8 +273,8 @@ dv_has_:
     yue: 乳酪
     zh: 優格
     zh-cn: 酸奶
-    zh-hans: 酸奶
-    zh-hant: 優格
+    zh_hans: 酸奶
+    zh_hant: 優格
 ---
 # [[Yogurt]]
 

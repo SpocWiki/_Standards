@@ -139,7 +139,7 @@ dv_has_:
     az: şərqi ortodoks xristianlıq
     ba: православие дине
     be: праваслаўе
-    be-tarask: праваслаўе
+    be_tarask: праваслаўе
     bg: православие
     bs: pravoslavlje
     bxr: Үнэн алдарта шажан
@@ -147,7 +147,7 @@ dv_has_:
     ce: керста
     ckb: مەسیحییەتی ئۆرتۆدۆکس
     crh: Ortodokslıq
-    crh-latn: Ortodokslıq
+    crh_latn: Ortodokslıq
     cs: pravoslaví
     csb: Prawòsławié
     cu: Православиѥ
@@ -216,8 +216,8 @@ dv_has_:
     sl: pravoslavje
     sq: Ortodoksia Lindore
     sr: православље
-    sr-ec: Православље
-    sr-el: Pravoslavlje
+    sr_ec: Православље
+    sr_el: Pravoslavlje
     sv: ortodox kristendom
     sw: Waorthodoksi
     tg: масеҳияти православӣ
@@ -225,7 +225,7 @@ dv_has_:
     tl: Ortodoksiya
     tr: Doğu Ortodoksluk
     tt: православие дине
-    tt-cyrl: праваслаулык
+    tt_cyrl: праваслаулык
     udm: православие
     ug: پراۋوسلاۋىيە دىنى
     uk: православ'я
@@ -236,7 +236,7 @@ dv_has_:
     xmf: მართმადიდებელობა
     yi: ארטאדאקסע קריסטנטום
     zh: 正教
-    zh-hant: 正教
+    zh_hant: 正教
 ---
 # [[Eastern_Orthodoxy]] 
 

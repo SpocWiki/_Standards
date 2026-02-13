@@ -90,7 +90,7 @@ dv_has_:
     ar: شك
     ast: Dulda
     az: Şübhə
-    be-tarask: сумнеў
+    be_tarask: сумнеў
     bg: Съмнение
     bn: সন্দেহ
     br: Mar
@@ -103,11 +103,11 @@ dv_has_:
     da: tvivl
     dag: Biɛhiŋ
     de: Zweifel
-    de-ch: Zweifel
+    de_ch: Zweifel
     el: Αμφιβολία - Αμφισβήτηση
     en: doubt
-    en-ca: Doubt
-    en-gb: doubt
+    en_ca: Doubt
+    en_gb: doubt
     eo: dubo
     es: duda
     et: Kahtlus
@@ -139,7 +139,7 @@ dv_has_:
     nn: Tvil
     pl: Wątpienie
     pt: dúvida
-    pt-br: dúvida
+    pt_br: dúvida
     ro: Îndoială
     ru: сомнение
     scn: Dubbiu
@@ -148,13 +148,13 @@ dv_has_:
     sl: dvom
     sq: Dyshimi
     sr: сумња
-    sr-ec: сумња
-    sr-el: sumnja
+    sr_ec: сумња
+    sr_el: sumnja
     sv: tvivel
     ta: ஐயம்
     tr: Şüpheli
     tt: шик
-    tt-cyrl: шик
+    tt_cyrl: шик
     uk: сумнів
     ur: شبہ
     vec: dùbio

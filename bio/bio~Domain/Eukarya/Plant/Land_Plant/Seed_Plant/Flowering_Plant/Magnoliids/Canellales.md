@@ -26,7 +26,7 @@ dv_has_:
     arz: كانلال
     ast: Canellales
     az: Canellales
-    be-tarask: Канэлакветныя
+    be_tarask: Канэлакветныя
     bg: канелоцветни
     bs: Canellales
     ca: Canel·lals
@@ -36,8 +36,8 @@ dv_has_:
     de: Canellales
     el: Κανελλώδη
     en: Canellales
-    en-ca: Canellales
-    en-gb: Canellales
+    en_ca: Canellales
+    en_gb: Canellales
     eo: Kanelaaloj
     es: Canellales
     eu: Canellales
@@ -67,7 +67,7 @@ dv_has_:
     oc: Canellales
     pl: Kanellowce
     pt: Canellales
-    pt-br: Canellales
+    pt_br: Canellales
     ro: Canellales
     ru: Канеллоцветные
     sl: Canellales

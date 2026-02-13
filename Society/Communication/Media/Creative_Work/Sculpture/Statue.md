@@ -130,7 +130,7 @@ dv_has_:
     ban: Togog
     bcl: Pararangpan
     be: статуя
-    be-tarask: статуя
+    be_tarask: статуя
     bg: статуя
     bjn: Hampatung
     bn: মূর্তি
@@ -146,7 +146,7 @@ dv_has_:
     dtp: Arca
     el: άγαλμα
     en: statue
-    en-gb: statue
+    en_gb: statue
     en-us: statue
     eo: statuo
     es: estatua
@@ -184,7 +184,7 @@ dv_has_:
     kaa: háykel
     km: រូបចំលាក់
     ko: 상
-    ku-latn: peyker
+    ku_latn: peyker
     ky: Статуя
     la: statua
     lb: Statu
@@ -212,7 +212,7 @@ dv_has_:
     pam: rebultu
     pl: posąg
     pt: estátua
-    pt-br: estátua
+    pt_br: estátua
     qu: Wank'a
     ro: statuie
     ru: статуя
@@ -248,12 +248,12 @@ dv_has_:
     yue: 雕像
     za: Diuhsieng
     zh: 塑像
-    zh-cn: 塑像
-    zh-hans: 塑像
-    zh-hant: 塑像
-    zh-hk: 塑像
-    zh-sg: 塑像
-    zh-tw: 塑像
+    zh_cn: 塑像
+    zh_hans: 塑像
+    zh_hant: 塑像
+    zh_hk: 塑像
+    zh_sg: 塑像
+    zh_tw: 塑像
 ---
 # [[Statue]] 
 

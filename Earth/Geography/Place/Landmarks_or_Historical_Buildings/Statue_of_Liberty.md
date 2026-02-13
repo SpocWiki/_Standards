@@ -298,7 +298,7 @@ dv_has_:
     ban: Patung Liberty
     bcl: Estatuwa nin Katalingkasan
     be: Статуя Свабоды
-    be-tarask: Статуя Свабоды
+    be_tarask: Статуя Свабоды
     bg: Статуя на Свободата
     bho: स्टैच्यू ऑफ लिबर्टी
     bn: স্ট্যাচু অব লিবার্টি
@@ -316,12 +316,12 @@ dv_has_:
     cy: Cerflun Rhyddid
     da: Frihedsgudinden
     de: Freiheitsstatue
-    de-ch: Freiheitsstatue
+    de_ch: Freiheitsstatue
     diq: Heykelê Xoseriye
     el: Άγαλμα της Ελευθερίας
     en: Statue of Liberty
-    en-ca: Statue of Liberty
-    en-gb: Statue of Liberty
+    en_ca: Statue of Liberty
+    en_gb: Statue of Liberty
     eo: Statuo de Libereco
     es: Estatua de la Libertad
     et: Vabadussammas
@@ -395,7 +395,7 @@ dv_has_:
     pnb: مجسمہ آزادی
     ps: د ازادۍ مجسمه
     pt: Estátua da Liberdade
-    pt-br: Estátua da Liberdade
+    pt_br: Estátua da Liberdade
     ro: Statuia Libertății din New York
     ru: Статуя Свободы
     rue: Статуя Слободы
@@ -436,10 +436,10 @@ dv_has_:
     yue: 自由神像
     zgh: ⴰⵙⴼⵔⵉⵙ ⵏ ⵜⵍⴻⵍⵍⵉ
     zh: 自由女神像
-    zh-cn: 自由女神像
-    zh-hans: 自由女神像
-    zh-hk: 自由女神像
-    zh-tw: 自由女神像
+    zh_cn: 自由女神像
+    zh_hans: 自由女神像
+    zh_hk: 自由女神像
+    zh_tw: 自由女神像
 ---
 # [[Statue_of_Liberty]] 🗽 
 

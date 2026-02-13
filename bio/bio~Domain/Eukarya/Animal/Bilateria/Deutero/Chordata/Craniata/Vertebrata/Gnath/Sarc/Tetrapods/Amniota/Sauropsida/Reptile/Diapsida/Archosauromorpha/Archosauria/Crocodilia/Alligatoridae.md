@@ -92,7 +92,7 @@ dv_has_:
     atj: matci kakatarakw
     az: Alliqator
     be: Алігатары
-    be-tarask: Алігатары
+    be_tarask: Алігатары
     bg: алигатори
     bn: অ্যালিগেটর
     bo: ཨེ་ལི་གེ་ཊར།
@@ -151,7 +151,7 @@ dv_has_:
     os: аллигатортæ
     pl: Alligator
     pt: Alligator
-    pt-br: Alligator
+    pt_br: Alligator
     ro: Aligator
     ru: аллигаторы
     sco: alligator
@@ -178,8 +178,8 @@ dv_has_:
     yo: Alegba
     yue: 短吻鱷
     zh: 短吻鳄属
-    zh-cn: 短吻鳄属
-    zh-tw: 短吻鱷屬
+    zh_cn: 短吻鳄属
+    zh_tw: 短吻鱷屬
 ---
 # [[Alligatoridae]] 
 

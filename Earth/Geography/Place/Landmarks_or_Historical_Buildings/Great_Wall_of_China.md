@@ -271,7 +271,7 @@ dv_has_:
     ban: Témbok Ageng Cina
     bcl: An Dakilang Pader kan Tsina
     be: Вялікая Кітайская сцяна
-    be-tarask: Вялікая кітайская сьцяна
+    be_tarask: Вялікая кітайская сьцяна
     bg: Велика китайска стена
     bho: चीन के देवाल
     bn: চীনের মহাপ্রাচীর
@@ -368,7 +368,7 @@ dv_has_:
     nan: Tn̂g-siâⁿ
     nb: Den kinesiske mur
     nds: Chineesche Muur
-    nds-nl: Sinese muur
+    nds_nl: Sinese muur
     ne: चीनको विशाल पर्खाल
     new: चीनयागु तधंगु पखा
     nl: Chinese Muur
@@ -433,10 +433,10 @@ dv_has_:
     yue: 萬里長城
     za: Cangzcwngz
     zh: 长城
-    zh-cn: 长城
-    zh-hans: 长城
-    zh-hant: 長城
-    zh-hk: 長城
+    zh_cn: 长城
+    zh_hans: 长城
+    zh_hant: 長城
+    zh_hk: 長城
 ---
 # [[Great_Wall_of_China]] 
 

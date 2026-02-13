@@ -250,7 +250,7 @@ dv_has_:
     bar: Walt Disney
     bcl: Walt Disney
     be: Уолт Дысней
-    be-tarask: Ўолт Дыснэй
+    be_tarask: Ўолт Дыснэй
     bew: Walt Disney
     bg: Уолт Дисни
     bho: वाल्ट डिज्नी
@@ -260,7 +260,7 @@ dv_has_:
     bs: Walt Disney
     bxr: Уолт Дисней
     ca: Walt Disney
-    cbk-zam: Walt Disney
+    cbk_zam: Walt Disney
     ce: Дисней, Уолт
     ceb: Walt Disney
     ckb: واڵت دیزنی
@@ -272,13 +272,13 @@ dv_has_:
     da: Walt Disney
     de: Walt Disney
     de-at: Walt Disney
-    de-ch: Walt Disney
+    de_ch: Walt Disney
     diq: Walt Disney
     dsb: Walt Disney
     el: Γουώλτ Ντίσνεϋ
     en: Walt Disney
-    en-ca: Walt Disney
-    en-gb: Walt Disney
+    en_ca: Walt Disney
+    en_gb: Walt Disney
     en-us: Walt Disney
     eo: Walt Disney
     es: Walt Disney
@@ -409,7 +409,7 @@ dv_has_:
     tt: Уолт Дисней
     tyv: Дисней, Уолт
     ug: ۋالتېر دىسنېي
-    ug-arab: ۋالتېر دىسنېي
+    ug_arab: ۋالتېر دىسنېي
     uk: Волт Дісней
     ur: والٹ ڈزنی
     uz: Walt Disney
@@ -427,14 +427,14 @@ dv_has_:
     yue: 和路迪士尼
     zgh: ⵡⴰⵍⵜ ⴷⵉⵣⵏⵉ
     zh: 華特·迪士尼
-    zh-cn: 沃尔特·迪斯尼
-    zh-hans: 华特·迪士尼
-    zh-hant: 華特·迪士尼
-    zh-hk: 和路·迪士尼
-    zh-mo: 華特·迪士尼
+    zh_cn: 沃尔特·迪斯尼
+    zh_hans: 华特·迪士尼
+    zh_hant: 華特·迪士尼
+    zh_hk: 和路·迪士尼
+    zh_mo: 華特·迪士尼
     zh-my: 华特·迪士尼
-    zh-sg: 华特·迪士尼
-    zh-tw: 華特·迪士尼
+    zh_sg: 华特·迪士尼
+    zh_tw: 華特·迪士尼
 ---
 # [[Disney,Walt]] 
 

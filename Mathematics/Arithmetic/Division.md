@@ -146,7 +146,7 @@ dv_has_:
     ba: бүлеү
     bcl: pagbanga
     be: дзяленне
-    be-tarask: дзяленьне
+    be_tarask: дзяленьне
     bg: деление
     bn: ভাগ
     bo: བགོ་རྩིས།
@@ -226,7 +226,7 @@ dv_has_:
     pl: dzielenie
     ps: تقسيم
     pt: divisão
-    pt-br: divisão
+    pt_br: divisão
     qu: rakiy
     ro: împărțire
     ru: деление
@@ -240,8 +240,8 @@ dv_has_:
     so: u qeybin
     sq: pjesëtimi
     sr: дељење
-    sr-ec: дељење
-    sr-el: deljenje
+    sr_ec: дељење
+    sr_el: deljenje
     sv: division
     sw: mgawanyiko
     ta: வகுத்தல்
@@ -263,7 +263,7 @@ dv_has_:
     yue: 除
     za: cawzfap
     zh: 除法
-    zh-hans: 除法
+    zh_hans: 除法
 ---
 # [[Division]] 
 

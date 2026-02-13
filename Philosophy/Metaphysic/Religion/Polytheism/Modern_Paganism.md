@@ -98,7 +98,7 @@ dv_has_:
     ast: neopaganismu
     az: neopaqanizm
     be: неапаганства
-    be-tarask: нэапаганства
+    be_tarask: нэапаганства
     bg: неопаганизъм
     bn: আধুনিক পৌত্তলিকতা
     ca: neopaganisme
@@ -137,7 +137,7 @@ dv_has_:
     mk: Неопаганство
     ms: Paganisme Moden
     nb: neopaganisme
-    nds-nl: Ny Heidendom
+    nds_nl: Ny Heidendom
     nl: neopaganisme
     oc: Neopaganisme
     os: неомуртатдзинад
@@ -150,8 +150,8 @@ dv_has_:
     sl: staroverstvo
     sq: Neopaganizmi
     sr: неопаганизам
-    sr-ec: Неопаганизам
-    sr-el: Neopaganizam
+    sr_ec: Неопаганизам
+    sr_el: Neopaganizam
     sv: nyhedendom
     sw: Upagani mamboleo
     tr: Neopaganizm
@@ -161,12 +161,12 @@ dv_has_:
     vi: Pagan giáo hiện đại
     yue: 現代異教
     zh: 新異教主義
-    zh-cn: 新异教主义
-    zh-hans: 新异教主义
-    zh-hant: 新異教主義
-    zh-hk: 新異教主義
-    zh-sg: 新异教主义
-    zh-tw: 新異教主義
+    zh_cn: 新异教主义
+    zh_hans: 新异教主义
+    zh_hant: 新異教主義
+    zh_hk: 新異教主義
+    zh_sg: 新异教主义
+    zh_tw: 新異教主義
 ---
 # [[Modern_Paganism]] 
 

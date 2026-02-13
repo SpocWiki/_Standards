@@ -128,7 +128,7 @@ dv_has_:
     ba: ижад
     bcl: Pagkamalinalang
     be: творчасць
-    be-tarask: творчасьць
+    be_tarask: творчасьць
     bg: Творчество
     bn: সৃজনশীলতা
     br: krouusted
@@ -138,11 +138,11 @@ dv_has_:
     cv: Хайласлăх
     da: kreativitet
     de: Kreativität
-    de-ch: Kreativität
+    de_ch: Kreativität
     el: δημιουργικότητα
     en: creativity
-    en-ca: creativity
-    en-gb: creativity
+    en_ca: creativity
+    en_gb: creativity
     en-us: creativity
     eo: krepovo
     es: creatividad
@@ -188,7 +188,7 @@ dv_has_:
     pl: kreatywność
     pnb: تخلیق کاری
     pt: criatividade
-    pt-br: criatividade
+    pt_br: criatividade
     qu: Kamakuy
     ro: creativitate
     ru: творчество
@@ -199,8 +199,8 @@ dv_has_:
     sl: ustvarjalnost
     sq: krijimtari
     sr: стваралаштво
-    sr-ec: стваралаштво
-    sr-el: stvaralaštvo
+    sr_ec: стваралаштво
+    sr_el: stvaralaštvo
     sv: kreativitet
     ta: படைப்பாற்றல்
     te: సృజనాత్మకత
@@ -208,8 +208,8 @@ dv_has_:
     tl: Pagkamalikhain
     tr: yaratıcılık
     tt: иҗат
-    tt-cyrl: иҗат
-    tt-latn: iğat
+    tt_cyrl: иҗат
+    tt_latn: iğat
     uk: творчість
     ur: تخلیق کاری
     uz: Ijod
@@ -219,12 +219,12 @@ dv_has_:
     wuu: 创造力
     yue: 創意
     zh: 創造力
-    zh-cn: 创造力
-    zh-hans: 创造力
-    zh-hant: 創造力
-    zh-hk: 創造力
-    zh-sg: 创造力
-    zh-tw: 創造力
+    zh_cn: 创造力
+    zh_hans: 创造力
+    zh_hant: 創造力
+    zh_hk: 創造力
+    zh_sg: 创造力
+    zh_tw: 創造力
 ---
 # [[Creativity]] 
 

@@ -173,7 +173,7 @@ dv_has_:
     az: tikinti
     ba: төҙөлөш
     be: будаўніцтва
-    be-tarask: будаўніцтва
+    be_tarask: будаўніцтва
     bg: строителство
     bn: নির্মাণ শিল্প
     br: saverezh
@@ -216,14 +216,14 @@ dv_has_:
     jv: konstruksi
     ka: მშენებლობა
     kk: құрылыс
-    kk-arab: قۇرىلىس
-    kk-cyrl: кұрылыс
-    kk-latn: qurılıs
+    kk_arab: قۇرىلىس
+    kk_cyrl: кұрылыс
+    kk_latn: qurılıs
     km: ការសាងសង់
     kn: ನಿರ್ಮಾಣ
     ko: 건설
     ku: avahî
-    ku-latn: avahî
+    ku_latn: avahî
     ky: курулуш
     lb: Bau
     lo: ການກໍ່ສ້າງ
@@ -234,7 +234,7 @@ dv_has_:
     mn: барилгажилт
     mr: बांधकाम
     ms: pembinaan
-    ms-arab: ڤمبيناءن
+    ms_arab: ڤمبيناءن
     my: ဆောက်လုပ်ရေး
     nan: kiàn-siat
     nap: fraveca
@@ -248,7 +248,7 @@ dv_has_:
     pl: roboty budowlane
     ps: رغاونه
     pt: construção civil
-    pt-br: construção civil
+    pt_br: construção civil
     ro: construcție
     ru: строительство
     scn: edilizzia
@@ -260,8 +260,8 @@ dv_has_:
     so: dhisid
     sq: ndërtimtaria
     sr: изградња
-    sr-ec: изградња
-    sr-el: izgradnja
+    sr_ec: изградња
+    sr_el: izgradnja
     sv: byggnadskonstruktion
     sw: ujenzi
     szy: sanga'
@@ -271,7 +271,7 @@ dv_has_:
     tl: konstruksiyon
     tr: inşaat
     tt: төзелеш
-    tt-cyrl: төзелеш
+    tt_cyrl: төзелеш
     uk: будівництво
     uz: qurilish
     vec: costrusion
@@ -284,14 +284,14 @@ dv_has_:
     yo: ìkọ́lé
     yue: 建築地盤
     zh: 建筑施工
-    zh-cn: 建筑施工
-    zh-hans: 建筑施工
-    zh-hant: 建築施工
-    zh-hk: 建築施工
-    zh-mo: 建築施工
+    zh_cn: 建筑施工
+    zh_hans: 建筑施工
+    zh_hant: 建築施工
+    zh_hk: 建築施工
+    zh_mo: 建築施工
     zh-my: 建筑施工
-    zh-sg: 建筑施工
-    zh-tw: 建築施工
+    zh_sg: 建筑施工
+    zh_tw: 建築施工
 ---
 # [[Construction]] 
 

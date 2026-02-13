@@ -91,18 +91,18 @@ dv_has_:
     az: Ədəbiyyat nəzəriyyəsi
     ba: Әҙәбиәт теорияһы
     be: тэорыя літаратуры
-    be-tarask: літаратурная тэорыя
+    be_tarask: літаратурная тэорыя
     bg: Литературна теория
     ca: teoria de la literatura
     cs: literární teorie
     cy: damcaniaeth lenyddol
     da: litteraturteori
     de: Literaturtheorie
-    de-ch: Literaturtheorie
+    de_ch: Literaturtheorie
     el: Θεωρία της λογοτεχνίας
     en: literary theory
-    en-ca: Literary theory
-    en-gb: literary theory
+    en_ca: Literary theory
+    en_gb: literary theory
     eo: literatura teorio
     es: teoría literaria
     et: kirjandusteooria
@@ -136,7 +136,7 @@ dv_has_:
     pl: teoria literatury
     ps: ادبي تیوري (نظریه)
     pt: teoria da literatura
-    pt-br: Teoria da literatura
+    pt_br: Teoria da literatura
     ro: teoria literaturii
     ru: теория литературы
     sco: leeterar theory
@@ -148,11 +148,11 @@ dv_has_:
     sms: ǩeerjlažvuõtt-teoria
     sq: teori e letërsisë
     sr: теорија књижевности
-    sr-ec: теорија књижевности
-    sr-el: teorija književnosti
+    sr_ec: теорија књижевности
+    sr_el: teorija književnosti
     sv: litteraturteori
     tg: назарияи адабӣ
-    tg-latn: Adabijotşinosī
+    tg_latn: Adabijotşinosī
     th: ทฤษฎีวรรณกรรม
     tl: Teoriyang pampanitikan
     tr: Edebiyat teorisi
@@ -163,12 +163,12 @@ dv_has_:
     vi: lý luận văn học
     yue: 文學理論
     zh: 文學理論
-    zh-cn: 西方文学理论
-    zh-hans: 西方文学理论
-    zh-hant: 西方文學理論
-    zh-hk: 西方文學理論
-    zh-sg: 西方文学理论
-    zh-tw: 西方文學理論
+    zh_cn: 西方文学理论
+    zh_hans: 西方文学理论
+    zh_hant: 西方文學理論
+    zh_hk: 西方文學理論
+    zh_sg: 西方文学理论
+    zh_tw: 西方文學理論
 ---
 # [[Literary_Theory]] 
 

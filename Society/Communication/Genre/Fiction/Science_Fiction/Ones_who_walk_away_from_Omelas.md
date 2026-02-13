@@ -46,7 +46,7 @@ dv_has_:
     pt: The Ones Who Walk Away from Omelas
     ro: Cei care pleacă din Omelas
     ru: Уходящие из Омеласа
-    sr-el: Oni što odlaze iz Omelasa
+    sr_el: Oni što odlaze iz Omelasa
     tr: Omelas'ı Bırakıp Gidenler
     uk: Ті, хто покидають Омелас
     zh: 離開奧美拉城的人

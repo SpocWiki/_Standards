@@ -39,7 +39,7 @@ dv_has_:
     ar: عشريات الشكل
     ast: Decapodiformes
     be: дзесяціногія малюскі
-    be-tarask: дзесяціногія малюскі
+    be_tarask: дзесяціногія малюскі
     bg: Decapodiformes
     ca: Decapodiformes
     ceb: Decapodiformes
@@ -81,7 +81,7 @@ dv_has_:
     oc: Decapodiformes
     pl: dziesięciornice
     pt: Decapodiformes
-    pt-br: Decapodiformes
+    pt_br: Decapodiformes
     ro: Decapodiformes
     ru: десятирукие
     sk: Desaťramenné dvojžiabrovce
@@ -94,8 +94,8 @@ dv_has_:
     vo: Decapodiformes
     war: Decapodiformes
     zh: 十腕總目
-    zh-cn: 十腕總目
-    zh-hans: 十腕总目
+    zh_cn: 十腕總目
+    zh_hans: 十腕总目
 ---
 # [[Decapodiformes]] 
 

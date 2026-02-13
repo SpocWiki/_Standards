@@ -7,8 +7,8 @@ dv_has_:
     bn: অপকার নীতি
     de: Prinzip des Schadens
     en: harm principle
-    en-ca: Harm principle
-    en-gb: harm principle
+    en_ca: Harm principle
+    en_gb: harm principle
     fa: اصل آزار
     fr: harm principle
     he: עקרון ההיזק

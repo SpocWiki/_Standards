@@ -53,7 +53,7 @@ dv_has_:
     ast: Tiristor
     az: Tiristor
     be: Тырыстар
-    be-tarask: Тырыстар
+    be_tarask: Тырыстар
     bg: Тиристор
     bn: থাইরিস্টর
     bs: Tiristor
@@ -78,11 +78,11 @@ dv_has_:
     it: tiristore
     ja: サイリスタ
     kk: Тиристор
-    kk-arab: تىيرىيستور
+    kk_arab: تىيرىيستور
     kk-cn: تىيرىيستور
-    kk-cyrl: Тиристор
+    kk_cyrl: Тиристор
     kk-kz: Тиристор
-    kk-latn: Tïrïstor
+    kk_latn: Tïrïstor
     kk-tr: Tïrïstor
     ko: 사이리스터
     lv: Tiristors
@@ -100,8 +100,8 @@ dv_has_:
     sl: tiristor
     sq: Tiristori
     sr: тиристор
-    sr-ec: тиристор
-    sr-el: tiristor
+    sr_ec: тиристор
+    sr_el: tiristor
     sv: tyristor
     tg: Тиристор
     tr: Tristör
@@ -111,12 +111,12 @@ dv_has_:
     wuu: 晶闸管
     yue: 閘流器
     zh: 晶閘管
-    zh-cn: 晶闸管
-    zh-hans: 晶闸管
-    zh-hant: 閘流體
-    zh-hk: 閘流體
-    zh-sg: 晶闸管
-    zh-tw: 閘流體
+    zh_cn: 晶闸管
+    zh_hans: 晶闸管
+    zh_hant: 閘流體
+    zh_hk: 閘流體
+    zh_sg: 晶闸管
+    zh_tw: 閘流體
 ---
 # [[Thyristor]]  
 

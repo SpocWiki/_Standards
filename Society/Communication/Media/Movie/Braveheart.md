@@ -10,7 +10,7 @@ dv_has_:
     az: Cəsur ürək
     azb: جسور اورک
     be: Храбрае сэрца
-    be-tarask: Адважнае сэрца
+    be_tarask: Адважнае сэрца
     bg: Смело сърце
     bn: ব্রেভহার্ট
     br: Braveheart
@@ -43,11 +43,11 @@ dv_has_:
     ja: ブレイブハート
     ka: მამაცი გული
     kk: Ер жүрек
-    kk-arab: ەر جۇرەك
+    kk_arab: ەر جۇرەك
     kk-cn: ەر جۇرەك
-    kk-cyrl: Ер жүрек
+    kk_cyrl: Ер жүрек
     kk-kz: Ер жүрек
-    kk-latn: Er jürek
+    kk_latn: Er jürek
     kk-tr: Er jürek
     km: បេះដូងវីរជន
     ko: 브레이브하트
@@ -72,8 +72,8 @@ dv_has_:
     sl: Pogumno srce
     sq: Braveheart
     sr: Храбро срце
-    sr-ec: Храбро срце
-    sr-el: Hrabro srce
+    sr_ec: Храбро срце
+    sr_el: Hrabro srce
     sv: Braveheart
     ta: பிரேவ் ஹார்ட்
     th: เบรฟฮาร์ท วีรบุรุษหัวใจมหากาฬ
@@ -86,13 +86,13 @@ dv_has_:
     xmf: უშქურანჯი გური
     yue: 驚世未了緣
     zh: 勇敢的心
-    zh-cn: 勇敢的心
-    zh-hans: 勇敢的心
-    zh-hant: 梅爾吉勃遜之英雄本色
-    zh-hk: 驚世未了緣
+    zh_cn: 勇敢的心
+    zh_hans: 勇敢的心
+    zh_hant: 梅爾吉勃遜之英雄本色
+    zh_hk: 驚世未了緣
     zh-my: 惊世未了缘
-    zh-sg: 铁血英雄
-    zh-tw: 梅爾吉勃遜之英雄本色
+    zh_sg: 铁血英雄
+    zh_tw: 梅爾吉勃遜之英雄本色
 aliases:
 - A rettenthetetlen
 - Braveheart

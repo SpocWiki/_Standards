@@ -119,7 +119,7 @@ dv_has_:
     ban: Radon
     bcl: Radon
     be: радон
-    be-tarask: радон
+    be_tarask: радон
     bg: радон
     bho: रेडान
     bn: রেডন
@@ -136,11 +136,11 @@ dv_has_:
     cy: radon
     da: radon
     de: Radon
-    de-ch: Radon
+    de_ch: Radon
     el: ραδόνιο
     en: radon
-    en-ca: Radon
-    en-gb: radon
+    en_ca: Radon
+    en_gb: radon
     eo: radono
     es: radón
     et: radoon
@@ -223,7 +223,7 @@ dv_has_:
     pnb: ریڈون
     ps: راډون
     pt: radão
-    pt-br: radônio
+    pt_br: radônio
     qu: radun
     ro: radon
     ru: радон
@@ -241,7 +241,7 @@ dv_has_:
     so: raadhoon
     sq: radoni
     sr: радон
-    sr-ec: Радон
+    sr_ec: Радон
     stq: Radon
     sv: radon
     sw: radoni
@@ -266,14 +266,14 @@ dv_has_:
     yo: radon
     yue: 氡
     zh: 氡
-    zh-cn: 氡
-    zh-hans: 氡
-    zh-hant: 氡
-    zh-hk: 氡
-    zh-mo: 氡
+    zh_cn: 氡
+    zh_hans: 氡
+    zh_hant: 氡
+    zh_hk: 氡
+    zh_mo: 氡
     zh-my: 氡
-    zh-sg: 氡
-    zh-tw: 氡
+    zh_sg: 氡
+    zh_tw: 氡
     zu: UmLahwe
   number_of_:
     period: 6

@@ -90,7 +90,7 @@ dv_has_:
     ar: طنبور
     ast: torniellu d'Arquímedes
     be: Архімедаў вінт
-    be-tarask: Архімэдава шруба
+    be_tarask: Архімэдава шруба
     bg: Архимедов винт
     ca: Caragol d'Arquimedes
     cs: Archimédův šroub
@@ -150,12 +150,12 @@ dv_has_:
     wuu: 阿基米德式螺旋抽水机
     yue: 阿基米德螺旋泵
     zh: 阿基米德式螺旋抽水机
-    zh-cn: 阿基米德式螺旋抽水机
-    zh-hans: 阿基米德式螺旋抽水机
-    zh-hant: 阿基米德式螺旋抽水機
-    zh-hk: 阿基米德式螺旋抽水機
-    zh-sg: 阿基米德式螺旋抽水机
-    zh-tw: 阿基米德式螺旋抽水機
+    zh_cn: 阿基米德式螺旋抽水机
+    zh_hans: 阿基米德式螺旋抽水机
+    zh_hant: 阿基米德式螺旋抽水機
+    zh_hk: 阿基米德式螺旋抽水機
+    zh_sg: 阿基米德式螺旋抽水机
+    zh_tw: 阿基米德式螺旋抽水機
 ---
 # [[Archimedes'_screw]] 
 

@@ -155,7 +155,7 @@ dv_has_:
     azb: اولیور استون
     ba: Оливер Стоун
     be: Олівер Стоўн
-    be-tarask: Олівэр Стоўн
+    be_tarask: Олівэр Стоўн
     bg: Оливър Стоун
     bn: অলিভার স্টোন
     bs: Oliver Stone
@@ -165,11 +165,11 @@ dv_has_:
     cy: Oliver Stone
     da: Oliver Stone
     de: Oliver Stone
-    de-ch: Oliver Stone
+    de_ch: Oliver Stone
     el: Όλιβερ Στόουν
     en: Oliver Stone
-    en-ca: Oliver Stone
-    en-gb: Oliver Stone
+    en_ca: Oliver Stone
+    en_gb: Oliver Stone
     eo: Oliver Stone
     es: Oliver Stone
     et: Oliver Stone
@@ -206,7 +206,7 @@ dv_has_:
     pap: Oliver Stone
     pl: Oliver Stone
     pt: Oliver Stone
-    pt-br: Oliver Stone
+    pt_br: Oliver Stone
     qu: Oliver Stone
     ro: Oliver Stone
     ru: Оливер Стоун
@@ -216,12 +216,12 @@ dv_has_:
     sl: Oliver Stone
     sq: Oliver Stone
     sr: Оливер Стоун
-    sr-ec: Оливер Стоун
-    sr-el: Oliver Stoun
+    sr_ec: Оливер Стоун
+    sr_el: Oliver Stoun
     sv: Oliver Stone
     sw: Oliver Stone
     tg: Оливер Стон
-    tg-latn: Oliver Ston
+    tg_latn: Oliver Ston
     th: โอลิเวอร์ สโตน
     tr: Oliver Stone
     uk: Олівер Стоун
@@ -233,13 +233,13 @@ dv_has_:
     yo: Oliver Stone
     yue: 奧利華史東
     zh: 奧利華·史東
-    zh-cn: 奥利弗·斯通
-    zh-hans: 奥利弗·斯通
-    zh-hant: 奧利佛·史東
-    zh-hk: 奧利華·史東
+    zh_cn: 奥利弗·斯通
+    zh_hans: 奥利弗·斯通
+    zh_hant: 奧利佛·史東
+    zh_hk: 奧利華·史東
     zh-my: 奥利华·史东
-    zh-sg: 奥利华·史东
-    zh-tw: 奧利佛·史東
+    zh_sg: 奥利华·史东
+    zh_tw: 奧利佛·史東
 ---
 # [[Stone,Oliver]] 
 

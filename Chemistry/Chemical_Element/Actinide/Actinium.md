@@ -161,7 +161,7 @@ dv_has_:
     ban: Aktinium
     bcl: Aktinyo
     be: актыній
-    be-tarask: актын
+    be_tarask: актын
     bg: актиний
     bho: एक्टिनियम
     bn: অ্যাক্টিনিয়াম
@@ -255,7 +255,7 @@ dv_has_:
     pnb: ایکٹینیم
     ps: آکټېنيوم
     pt: actínio
-    pt-br: actínio
+    pt_br: actínio
     qu: Aktinyu
     ro: actiniu
     ru: актиний
@@ -274,7 +274,7 @@ dv_has_:
     so: Aktiiniyaam
     sq: aktiniumi
     sr: актинијум
-    sr-ec: Актинијум
+    sr_ec: Актинијум
     stq: Aktinium
     sv: aktinium
     sw: Aktini
@@ -299,11 +299,11 @@ dv_has_:
     yo: Àktíníọ̀m
     yue: 錒
     zh: 锕
-    zh-cn: 锕
-    zh-hans: 锕
-    zh-hant: 錒
-    zh-hk: 錒
-    zh-tw: 錒
+    zh_cn: 锕
+    zh_hans: 锕
+    zh_hant: 錒
+    zh_hk: 錒
+    zh_tw: 錒
     zu: IsAcagu
   number_of_:
     period: 7

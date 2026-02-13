@@ -90,7 +90,7 @@ dv_has_:
     ast: ciencies de la relixón
     az: dinşünaslıq
     be: рэлігіязнаўства
-    be-tarask: рэлігіязнаўства
+    be_tarask: рэлігіязнаўства
     bn: ধর্মবিদ্যা
     ca: estudis religiosos
     ckb: دینناسی
@@ -127,7 +127,7 @@ dv_has_:
     mk: религиологија
     mn: Шашин судлал
     ms: pengajian agama
-    ms-arab: ڤڠاجين اݢام
+    ms_arab: ڤڠاجين اݢام
     nb: religionsvitenskap
     nl: godsdienstwetenschap
     nn: religionsvitskap
@@ -155,7 +155,7 @@ dv_has_:
     vec: siensa de ła rełijon
     vi: nghiên cứu tôn giáo
     zh: 宗教学
-    zh-cn: 宗教学
+    zh_cn: 宗教学
 ---
 # [[Religious_Studies]] 
 

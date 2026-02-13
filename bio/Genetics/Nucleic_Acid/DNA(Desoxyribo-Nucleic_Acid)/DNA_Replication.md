@@ -132,7 +132,7 @@ dv_has_:
     kk: ДНҚ репликациясы
     ko: DNA 복제
     ku: Duhendebûna ADN
-    ku-latn: Duhendebûna ADN
+    ku_latn: Duhendebûna ADN
     ky: Репликация
     lt: replikacija
     lv: DNS replikācija
@@ -152,8 +152,8 @@ dv_has_:
     sk: Replikácia DNA
     sl: podvojevanje DNK
     sr: репликација ДНК
-    sr-ec: Репликација ДНК
-    sr-el: Replikacija DNK
+    sr_ec: Репликација ДНК
+    sr_el: Replikacija DNK
     sv: replikation
     ta: டி. என். ஏ இரட்டித்தல்
     th: การถ่ายแบบดีเอ็นเอ
@@ -165,12 +165,12 @@ dv_has_:
     wuu: DNA复制
     yue: DNA複製
     zh: 脫氧核糖核酸複製
-    zh-cn: 脱氧核糖核酸复制
-    zh-hans: 脱氧核糖核酸复制
-    zh-hant: 脫氧核糖核酸複製
-    zh-hk: 脫氧核糖核酸複製
-    zh-sg: 脱氧核糖核酸复制
-    zh-tw: 脫氧核糖核酸複製
+    zh_cn: 脱氧核糖核酸复制
+    zh_hans: 脱氧核糖核酸复制
+    zh_hant: 脫氧核糖核酸複製
+    zh_hk: 脫氧核糖核酸複製
+    zh_sg: 脱氧核糖核酸复制
+    zh_tw: 脫氧核糖核酸複製
 ---
 #is_/same_as :: [[WD~DNA_Replication,130996]] 
 

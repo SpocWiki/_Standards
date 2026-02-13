@@ -101,7 +101,7 @@ dv_has_:
     ary: النقل د الدم
     ast: Tresfusión de sangre
     az: Qanköçürmə
-    be-tarask: пераліваньне крыві
+    be_tarask: пераліваньне крыві
     bg: Кръвопреливане
     bn: রক্ত সঞ্চারণ
     bo: རྐང་བརྗེ་
@@ -111,12 +111,12 @@ dv_has_:
     cy: Trallwysiad gwaed
     da: blodtransfusion
     de: Bluttransfusion
-    de-ch: Bluttransfusion
+    de_ch: Bluttransfusion
     dv: ލޭއެޅުން
     el: Μετάγγιση αίματος
     en: blood transfusion
-    en-ca: Blood transfusion
-    en-gb: blood transfusion
+    en_ca: Blood transfusion
+    en_gb: blood transfusion
     eo: transfuzo
     es: transfusión de sangre
     et: Vereülekanne
@@ -143,7 +143,7 @@ dv_has_:
     kn: ರಕ್ತಪೂರಣ
     ko: 수혈
     ku: xwînguhaztin
-    ku-arab: كواستنه وه ى خوىن
+    ku_arab: كواستنه وه ى خوىن
     ky: Кан куюу
     la: Transfusio sanguinis
     lt: kraujo perpylimas
@@ -158,15 +158,15 @@ dv_has_:
     pl: transfuzja krwi
     ps: د وینې تېرَونه
     pt: transfusão de sangue
-    pt-br: Transfusão de sangue
+    pt_br: Transfusão de sangue
     ro: Transfuzie de sânge
     ru: переливание крови
     sh: transfuzija krvi
     sl: transfuzija krvi
     sq: Transfuzioni i gjakut
     sr: Трансфузија крви
-    sr-ec: Трансфузија крви
-    sr-el: Transfuzija krvi
+    sr_ec: Трансфузија крви
+    sr_el: Transfuzija krvi
     sv: blodtransfusion
     ta: குருதி மாற்றீடு
     tg: Хунгузаронӣ
@@ -180,12 +180,12 @@ dv_has_:
     wuu: 输血
     yue: 輸血
     zh: 輸血
-    zh-cn: 输血
-    zh-hans: 输血
-    zh-hant: 輸血
-    zh-hk: 輸血
-    zh-sg: 输血
-    zh-tw: 輸血
+    zh_cn: 输血
+    zh_hans: 输血
+    zh_hant: 輸血
+    zh_hk: 輸血
+    zh_sg: 输血
+    zh_tw: 輸血
 ---
 # [[Blood_Transfusion]] 
 

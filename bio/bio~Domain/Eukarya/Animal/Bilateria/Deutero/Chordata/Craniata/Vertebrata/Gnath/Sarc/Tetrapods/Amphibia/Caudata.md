@@ -83,7 +83,7 @@ dv_has_:
     az: Suda-quruda yaşayan quyruqlular
     bbc: Salamander
     be: Хвастатыя земнаводныя
-    be-tarask: Хвастатыя земнаводныя
+    be_tarask: Хвастатыя земнаводныя
     bg: Опашати земноводни
     br: Urodela
     ca: Urodels
@@ -94,11 +94,11 @@ dv_has_:
     cy: Salamandr
     da: halepadde
     de: Schwanzlurche
-    de-ch: Schwanzlurche
+    de_ch: Schwanzlurche
     el: Σαλαμάνδρα
     en: Caudata
-    en-ca: Salamander
-    en-gb: Salamander
+    en_ca: Salamander
+    en_gb: Salamander
     eo: Caudata
     es: Urodela
     et: Salamandrid
@@ -149,7 +149,7 @@ dv_has_:
     pl: płazy ogoniaste
     pnb: سیلامینڈر
     pt: caudados
-    pt-br: Caudados
+    pt_br: Caudados
     qu: Wata-wata
     ro: Salamandră
     ru: хвостатые земноводные
@@ -178,9 +178,9 @@ dv_has_:
     wuu: 有尾目
     yue: 有尾目
     zh: 有尾目
-    zh-cn: 有尾目
-    zh-hans: 有尾目
-    zh-tw: 有尾目
+    zh_cn: 有尾目
+    zh_hans: 有尾目
+    zh_tw: 有尾目
 ---
 # [[Caudata]]
 

@@ -192,7 +192,7 @@ dv_has_:
     bar: Euro
     bcl: Euro
     be: еўра
-    be-tarask: эўра
+    be_tarask: эўра
     bg: евро
     blk: ယူရို
     bn: ইউরো
@@ -206,21 +206,21 @@ dv_has_:
     ckb: یۆرۆ
     co: euru
     crh: Avro
-    crh-latn: Avro
+    crh_latn: Avro
     cs: euro
     csb: Eùro
     cu: Єѵрѡ
     cv: Евро
     cy: Ewro
     de: Euro
-    de-ch: Euro
+    de_ch: Euro
     dga: Yuro
     diq: Ewro
     dsb: Euro
     el: ευρώ
     en: euro
-    en-ca: Euro
-    en-gb: euro
+    en_ca: Euro
+    en_gb: euro
     en-us: euro
     eo: eŭro
     es: Euro
@@ -301,7 +301,7 @@ dv_has_:
     ml: യൂറോ
     mn: Евро
     mr: युरो
-    ms-arab: اييورو
+    ms_arab: اييورو
     mt: ewro
     mul: euro
     mwl: Ouro
@@ -312,7 +312,7 @@ dv_has_:
     nan: Euro
     nap: Euro
     nds: Euro
-    nds-nl: uro
+    nds_nl: uro
     ne: युरो
     new: युरो
     nrm: Étchu
@@ -349,8 +349,8 @@ dv_has_:
     sms: euʹrr
     so: Euro
     sr: евро
-    sr-ec: евро
-    sr-el: evro
+    sr_ec: евро
+    sr_el: evro
     st: Euro
     stq: Euro
     sw: Euro
@@ -364,7 +364,7 @@ dv_has_:
     tpi: Euro
     tr: Euro
     tt: евро
-    tt-cyrl: евро
+    tt_cyrl: евро
     udm: евро
     ug: ياۋرۇ
     uk: євро
@@ -386,11 +386,11 @@ dv_has_:
     zea: Euro
     zgh: ⵢⵓⵕⵓ
     zh: 歐元
-    zh-cn: 欧元
-    zh-hans: 欧元
-    zh-hant: 歐元
-    zh-hk: 歐元
-    zh-tw: 歐元
+    zh_cn: 欧元
+    zh_hans: 欧元
+    zh_hant: 歐元
+    zh_hk: 歐元
+    zh_tw: 歐元
     zu: Euro
 ---
 # [[Euro]] 

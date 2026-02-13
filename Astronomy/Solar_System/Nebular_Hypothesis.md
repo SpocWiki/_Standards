@@ -76,14 +76,14 @@ dv_has_:
     ar: فرضية السديم
     ast: Hipótesis nebular
     az: Nebulyar hipotez
-    be-tarask: нэбулярная гіпотэза
+    be_tarask: нэбулярная гіпотэза
     bn: নীহারিকা অনুকল্প
     ca: hipòtesi nebular
     cs: mlhovinová hypotéza
     de: Nebularhypothese
     en: nebular hypothesis
-    en-ca: Nebular hypothesis
-    en-gb: Nebular hypothesis
+    en_ca: Nebular hypothesis
+    en_gb: Nebular hypothesis
     eo: nebuloza hipotezo
     es: hipotesis nebular
     eu: Hipotesi nebular
@@ -104,7 +104,7 @@ dv_has_:
     nl: nevelhypothese
     nn: Nebularhypotesen
     pt: hipótese nebular
-    pt-br: Hipótese nebular
+    pt_br: Hipótese nebular
     ro: Nebuloasă solară
     ru: Небулярная гипотеза
     sh: Nebularna teorija

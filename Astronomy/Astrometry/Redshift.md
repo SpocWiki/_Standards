@@ -134,7 +134,7 @@ dv_has_:
     ast: desplazamientu al bermeyu
     az: qırmızı yerdəyişmə
     be: чырвонае зрушэнне
-    be-tarask: чырвонае зрушэньне
+    be_tarask: чырвонае зрушэньне
     bg: червено отместване
     bn: লোহিত সরণ
     bo: དམར་སྤོ།
@@ -193,20 +193,20 @@ dv_has_:
     pl: przesunięcie ku czerwieni
     ps: سور رنګ ته لېږد
     pt: desvio para o vermelho
-    pt-br: desvio para o vermelho
+    pt_br: desvio para o vermelho
     ro: deplasare spre roșu
     ru: красное смещение
     sat: ᱨᱮᱰ ᱥᱤᱯᱷᱴ
     scn: spustamentu versu lu russu
     sco: reidshift
     sh: crveni pomak
-    sh-cyrl: црвени помак
+    sh_cyrl: црвени помак
     sk: červený posun
     sl: rdeči premik
     sq: zhvendosja në të kuqe
     sr: црвени помак
-    sr-ec: црвени помак
-    sr-el: crveni pomak
+    sr_ec: црвени помак
+    sr_el: crveni pomak
     sv: rödförskjutning
     sw: msogeo mwekundu
     te: రెడ్షిఫ్ట్
@@ -214,16 +214,16 @@ dv_has_:
     tl: pulangpaglipat
     tr: kırmızıya kayma
     tt: кызыл тайпылма
-    tt-cyrl: кызыл тайпылма
-    tt-latn: qızıl taypılma
+    tt_cyrl: кызыл тайпылма
+    tt_latn: qızıl taypılma
     uk: червоний зсув
     vi: dịch chuyển đỏ
     wuu: 红移
     yue: 紅移
     za: hoengzsenj
     zh: 紅移
-    zh-hans: 红移
-    zh-hant: 紅移
+    zh_hans: 红移
+    zh_hant: 紅移
 ---
 # [[Redshift]] 
 

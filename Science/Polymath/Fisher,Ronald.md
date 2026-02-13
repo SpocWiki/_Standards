@@ -135,7 +135,7 @@ dv_has_:
     azb: رانلد فیشر
     bar: Ronald Fisher
     be: Рональд Фішэр
-    be-tarask: Роналд Фішэр
+    be_tarask: Роналд Фішэр
     bg: Роналд Фишер
     bm: Ronald Fisher
     bn: রোনাল্ড ফিশার
@@ -147,11 +147,11 @@ dv_has_:
     da: Ronald Fisher
     de: Ronald Aylmer Fisher
     de-at: Ronald Fisher
-    de-ch: Ronald Fisher
+    de_ch: Ronald Fisher
     el: Ρόναλντ Φίσερ
     en: Ronald Fisher
-    en-ca: Ronald Fisher
-    en-gb: Ronald Fisher
+    en_ca: Ronald Fisher
+    en_gb: Ronald Fisher
     eo: Ronald Fisher
     es: Ronald Fisher
     et: Ronald Fisher
@@ -198,7 +198,7 @@ dv_has_:
     nap: Ronald Fisher
     nb: Ronald Fisher
     nds: Ronald Fisher
-    nds-nl: Ronald Fisher
+    nds_nl: Ronald Fisher
     nl: Ronald Aylmer Fisher
     nn: Ronald Fisher
     nrm: Ronald Fisher
@@ -211,7 +211,7 @@ dv_has_:
     prg: Ronald Fisher
     ps: رونالډ فیشر
     pt: Ronald Fisher
-    pt-br: Ronald Fisher
+    pt_br: Ronald Fisher
     rgn: Ronald Fisher
     rm: Ronald Fisher
     ro: Ronald Fisher
@@ -223,7 +223,7 @@ dv_has_:
     sl: Ronald Aylmer Fisher
     sq: Ronald Fisher
     sr: Роналд Фишер
-    sr-ec: Роналд Фишер
+    sr_ec: Роналд Фишер
     su: Ronald Fisher
     sv: Ronald Fisher
     sw: Ronald Fisher
@@ -241,12 +241,12 @@ dv_has_:
     xmf: რონალდ ფიშერი
     yue: 羅納德·費雪
     zh: 羅納德·費雪
-    zh-cn: 罗纳德·费希尔
-    zh-hans: 罗纳德·费希尔
-    zh-hant: 羅納德·費雪
-    zh-hk: 羅納德·費雪
-    zh-sg: 罗纳德·费希尔
-    zh-tw: 羅納德·費雪
+    zh_cn: 罗纳德·费希尔
+    zh_hans: 罗纳德·费希尔
+    zh_hant: 羅納德·費雪
+    zh_hk: 羅納德·費雪
+    zh_sg: 罗纳德·费希尔
+    zh_tw: 羅納德·費雪
     zu: Ronald Fisher
 ---
 # [[Fisher,Ronald]] 

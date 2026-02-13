@@ -219,7 +219,7 @@ dv_has_:
     bar: Pluto
     bcl: Pluto
     be: Плутон
-    be-tarask: Плютон
+    be_tarask: Плютон
     bg: Плутон
     bho: प्लूटो
     bn: প্লুটো
@@ -243,8 +243,8 @@ dv_has_:
     el: Πλούτωνας
     eml: Plutån
     en: Pluto
-    en-ca: Pluto
-    en-gb: Pluto
+    en_ca: Pluto
+    en_gb: Pluto
     eo: Plutono
     es: Plutón
     et: Pluuto
@@ -312,7 +312,7 @@ dv_has_:
     lt: Plutonas
     lv: Plutons
     lzh: 冥王星
-    map-bms: Pluto
+    map_bms: Pluto
     mdf: Плутон
     mg: Ploto
     mhr: Плутон
@@ -324,7 +324,7 @@ dv_has_:
     mr: प्लूटो
     mrj: Плутон
     ms: Pluto
-    ms-arab: ڤلوتو
+    ms_arab: ڤلوتو
     mt: Pluto (astronomija)
     mwl: Pluton
     my: ပလူတို
@@ -334,7 +334,7 @@ dv_has_:
     nap: Plutone
     nb: Pluto
     nds: Pluto
-    nds-nl: Pluto
+    nds_nl: Pluto
     ne: यम
     new: प्लुटो
     nl: Pluto
@@ -352,7 +352,7 @@ dv_has_:
     pnb: پلوٹو
     ps: پلوتون
     pt: Plutão
-    pt-br: Plutão
+    pt_br: Plutão
     qu: Plutun
     rm: Pluto
     rmy: Yama
@@ -371,8 +371,8 @@ dv_has_:
     so: Buluuto
     sq: Plutoni
     sr: Плутон
-    sr-ec: Плутон
-    sr-el: Плутон
+    sr_ec: Плутон
+    sr_el: Плутон
     stq: Pluto
     su: Pluto
     sv: Pluto
@@ -388,7 +388,7 @@ dv_has_:
     tok: mun Puto
     tr: Plüton
     tt: Плутон
-    tt-cyrl: Плутон
+    tt_cyrl: Плутон
     tum: Chanya la Nthuzi
     tyv: Плутон
     udm: Плутон
@@ -412,14 +412,14 @@ dv_has_:
     zea: Pluto
     zgh: ⴱⵍⵓⵜⵓ
     zh: 冥王星
-    zh-cn: 冥王星
-    zh-hans: 冥王星
-    zh-hant: 冥王星
-    zh-hk: 冥王星
-    zh-mo: 冥王星
+    zh_cn: 冥王星
+    zh_hans: 冥王星
+    zh_hant: 冥王星
+    zh_hk: 冥王星
+    zh_mo: 冥王星
     zh-my: 冥王星
-    zh-sg: 冥王星
-    zh-tw: 冥王星
+    zh_sg: 冥王星
+    zh_tw: 冥王星
     zu: UPluto
 ---
 # [[Pluto(Planet)]] 

@@ -340,7 +340,7 @@ dv_has_:
     bar: Kinschtlicha Intelligenz
     bcl: Artipisyal na intelihensya
     be: штучны інтэлект
-    be-tarask: штучны інтэлект
+    be_tarask: штучны інтэлект
     bew: Calakan bikinan
     bg: Изкуствен интелект
     bho: आर्टिफिशियल इंटेलिजेंस
@@ -360,13 +360,13 @@ dv_has_:
     da: kunstig intelligens
     de: künstliche Intelligenz
     de-at: künstliche Intelligenz
-    de-ch: Künstliche Intelligenz
+    de_ch: Künstliche Intelligenz
     diq: Viro vıraştıkên
     dtp: Kabaalan Tinanda
     el: τεχνητή νοημοσύνη
     en: artificial intelligence
-    en-ca: artificial intelligence
-    en-gb: artificial intelligence
+    en_ca: artificial intelligence
+    en_gb: artificial intelligence
     en-us: artificial intelligence
     eo: artefarita intelekto
     es: inteligencia artificial
@@ -421,7 +421,7 @@ dv_has_:
     ks: بَنٲومٕژ ذَہٲنِیَتھ
     ksh: Artificial Intelligence
     ku: jîriya çêkirî
-    ku-latn: jîriya destkarî
+    ku_latn: jîriya destkarî
     ky: Жасалма интеллект
     la: Intellegentia artificialis
     lb: kënschtlech Intelligenz
@@ -441,7 +441,7 @@ dv_has_:
     mn: Хиймэл оюун ухаан
     mr: कृत्रिम बुद्धिमत्ता
     ms: kecerdasan buatan
-    ms-arab: کچردسن بواتن
+    ms_arab: کچردسن بواتن
     mt: intelliġenza artifiċjali
     my: ဉာဏ်တု
     nan: jîn-kang tì-huī
@@ -449,7 +449,7 @@ dv_has_:
     nan-hant: 人工智慧
     nb: kunstig intelligens
     nds: Künstlike Intelligenz
-    nds-nl: keunstklookte
+    nds_nl: keunstklookte
     ne: कृत्रिम बौद्धिकता
     new: आर्टिफिसियल इन्टेलिजेन्स
     nl: kunstmatige intelligentie
@@ -464,7 +464,7 @@ dv_has_:
     pnb: بنائی گئی ذہانت
     ps: مصنوعي ځيرکتیا
     pt: inteligência artificial
-    pt-br: inteligência artificial
+    pt_br: inteligência artificial
     qu: Kapchisqa yachay
     qug: Artifitial inteligenci
     ro: inteligență artificială
@@ -488,8 +488,8 @@ dv_has_:
     sms: kuånsttjeäʹrmm
     sq: Inteligjenca artificiale
     sr: вјештачка интелигенција
-    sr-ec: вјештачка интелигенција
-    sr-el: vještačka inteligencija
+    sr_ec: вјештачка интелигенција
+    sr_el: vještačka inteligencija
     sv: artificiell intelligens
     sw: Akili bandia
     syl: ꠀꠉ꠆ꠟꠣ ꠀꠇꠟꠖꠣꠞ
@@ -497,13 +497,13 @@ dv_has_:
     ta: செயற்கை அறிவுத்திறன்
     te: కృత్రిమ మేధస్సు
     tg: ҳӯши маснуъӣ
-    tg-cyrl: Ҳӯши маснӯӣ
+    tg_cyrl: Ҳӯши маснӯӣ
     th: ปัญญาประดิษฐ์
     tk: Ýasama akyl
     tl: artipisyal na katalinuhan
     tr: yapay zekâ
     tt: ясалма интеллект
-    tt-cyrl: ясалма интеллект
+    tt_cyrl: ясалма интеллект
     ty: Intelligence artificiel
     udm: ӧнерлыко визьбур
     ug: سۈنئى ئىدىراك
@@ -521,14 +521,14 @@ dv_has_:
     yue: 人工智能
     zgh: ⵜⵉⵖⵉⵙⵜ ⵜⴰⵙⵎⴳⵓⵔⵜ
     zh: 人工智能
-    zh-cn: 人工智能
-    zh-hans: 人工智能
-    zh-hant: 人工智能
-    zh-hk: 人工智能
-    zh-mo: 人工智能
+    zh_cn: 人工智能
+    zh_hans: 人工智能
+    zh_hant: 人工智能
+    zh_hk: 人工智能
+    zh_mo: 人工智能
     zh-my: 人工智能
-    zh-sg: 人工智能
-    zh-tw: 人工智慧
+    zh_sg: 人工智能
+    zh_tw: 人工智慧
     zu: UHlakahlisombulu
 ---
 # [[AI(Artificial_Intelligence)]] 

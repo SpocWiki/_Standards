@@ -89,7 +89,7 @@ dv_has_:
     ast: terremotu de Shaanxi de 1556
     az: Şensi zəlzələsi
     ba: Ҡытайҙа ер тетрәүе (1556)
-    be-tarask: землятрус у Шэньсі
+    be_tarask: землятрус у Шэньсі
     bg: Земетресение в Шънси
     br: Kren-douar Shaanxi
     bs: Zemljotres u Shaanxiju 1556.
@@ -144,12 +144,12 @@ dv_has_:
     wuu: 嘉靖大地震
     yue: 華縣地震
     zh: 嘉靖大地震
-    zh-cn: 嘉靖大地震
-    zh-hans: 嘉靖大地震
-    zh-hant: 嘉靖大地震
-    zh-hk: 嘉靖大地震
-    zh-sg: 嘉靖大地震
-    zh-tw: 嘉靖大地震
+    zh_cn: 嘉靖大地震
+    zh_hans: 嘉靖大地震
+    zh_hant: 嘉靖大地震
+    zh_hk: 嘉靖大地震
+    zh_sg: 嘉靖大地震
+    zh_tw: 嘉靖大地震
 ---
 #[[1556-Shaanxi_earthquake]]] 
 

@@ -24,7 +24,7 @@ dv_has_:
     da: Gomortega keule
     de: Gomortega keule
     en: Gomortega keule
-    en-gb: Gomortega
+    en_gb: Gomortega
     eo: Gomortega keule
     es: Gomortega keule
     eu: Gomortega keule
@@ -49,13 +49,13 @@ dv_has_:
     oc: Gomortega keule
     pl: Gomortega keule
     pt: Gomortegaceae
-    pt-br: Gomortega keule
+    pt_br: Gomortega keule
     ro: Gomortega keule
     ru: Gomortega keule
     sq: Gomortega keule
     sr: Gomortega keule
-    sr-ec: Gomortega keule
-    sr-el: Gomortega keule
+    sr_ec: Gomortega keule
+    sr_el: Gomortega keule
     sv: Gomortega keule
     uk: Gomortega keule
     vi: Gomortega keule

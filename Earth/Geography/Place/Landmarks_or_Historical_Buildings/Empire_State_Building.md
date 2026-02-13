@@ -170,7 +170,7 @@ dv_has_:
     ba: Эмпайр-стейт-билдинг
     ban: Gedung Empire State
     be: Эмпайр Стэйт Білдынг
-    be-tarask: Эмпайр-Стэйт-Білдынг
+    be_tarask: Эмпайр-Стэйт-Білдынг
     bg: Емпайър Стейт Билдинг
     bn: এম্পায়ার স্টেট বিল্ডিং
     br: Empire State Building
@@ -183,12 +183,12 @@ dv_has_:
     cy: Adeilad Empire State
     da: Empire State Building
     de: Empire State Building
-    de-ch: Empire State Building
+    de_ch: Empire State Building
     dv: އެމްޕައަރ ސްޓޭޓް ބިލްޑިންގ
     el: Εμπάιρ Στέιτ Μπίλντινγκ
     en: Empire State Building
-    en-ca: Empire State Building
-    en-gb: Empire State Building
+    en_ca: Empire State Building
+    en_gb: Empire State Building
     eo: Imperia-Ŝtata Konstruaĵo
     es: Empire State Building
     et: Empire State Building
@@ -248,7 +248,7 @@ dv_has_:
     pnb: ایمپائیر سٹیٹ بلڈنگ
     ps: اېمپاير سټېټ ودانۍ
     pt: Empire State Building
-    pt-br: Empire State Building
+    pt_br: Empire State Building
     ro: Empire State Building Tate
     ru: Эмпайр-стейт-билдинг
     sgs: Empire State Building
@@ -258,7 +258,7 @@ dv_has_:
     sl: Empire State Building
     sq: Empire State Building
     sr: Емпајер стејт билдинг
-    sr-ec: Емпајер стејт билдинг
+    sr_ec: Емпајер стејт билдинг
     sv: Empire State Building
     sw: Jengo la Empire State
     ta: எம்பயர் ஸ்டேட் கட்டிடம்
@@ -278,10 +278,10 @@ dv_has_:
     yi: עמפייער סטעיט בילדינג
     yue: 帝國大廈
     zh: 帝國大廈
-    zh-cn: 帝国大厦
-    zh-hans: 帝国大厦
-    zh-hant: 帝國大廈
-    zh-tw: 帝國大廈
+    zh_cn: 帝国大厦
+    zh_hans: 帝国大厦
+    zh_hant: 帝國大廈
+    zh_tw: 帝國大廈
 ---
 # [[Empire_State_Building]] 
 

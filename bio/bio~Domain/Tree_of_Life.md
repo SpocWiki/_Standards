@@ -77,7 +77,7 @@ dv_has_:
     lt: Gyvybės medis
     lv: Dzīvības koks
     ms: Pohon kehidupan
-    nds-nl: leavensboom
+    nds_nl: leavensboom
     nl: levensboom
     pl: Drzewo Życia
     pt: Árvore da vida
@@ -87,8 +87,8 @@ dv_has_:
     sl: drevo življenja
     sq: Pema e jetës
     sr: Дрво живота
-    sr-ec: Дрво живота
-    sr-el: Drvo života
+    sr_ec: Дрво живота
+    sr_el: Drvo života
     sv: Livets träd
     ta: தி ட்ரீ ஆஃப் லைப்
     tr: Yaşam ağacı

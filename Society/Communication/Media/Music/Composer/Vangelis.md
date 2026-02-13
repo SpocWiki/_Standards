@@ -136,7 +136,7 @@ dv_has_:
     azb: ونقلیس
     ba: Вангелис
     be: Вангеліс
-    be-tarask: Вангеліс
+    be_tarask: Вангеліс
     bg: Вангелис
     br: Vangelis
     bs: Vangelis
@@ -184,7 +184,7 @@ dv_has_:
     pap: Vangelis
     pl: Vangelis
     pt: Vangelis
-    pt-br: Vangelis
+    pt_br: Vangelis
     ro: Vangelis
     ru: Вангелис
     sco: Vangelis
@@ -194,8 +194,8 @@ dv_has_:
     sl: Vangelis
     sq: Vangelis
     sr: Вангелис
-    sr-ec: Вангелис
-    sr-el: Vangelis
+    sr_ec: Вангелис
+    sr_el: Vangelis
     sv: Vangelis
     szl: Vangelis
     th: แวนเจลิส
@@ -207,12 +207,12 @@ dv_has_:
     wuu: 范吉利斯
     yue: 范吉利斯
     zh: 范吉利斯
-    zh-cn: 范吉利斯
-    zh-hans: 范吉利斯
-    zh-hant: 范吉利斯
-    zh-hk: 范吉利斯
-    zh-sg: 范吉利斯
-    zh-tw: 范吉利斯
+    zh_cn: 范吉利斯
+    zh_hans: 范吉利斯
+    zh_hant: 范吉利斯
+    zh_hk: 范吉利斯
+    zh_sg: 范吉利斯
+    zh_tw: 范吉利斯
 ---
 # [[Vangelis]] 
 

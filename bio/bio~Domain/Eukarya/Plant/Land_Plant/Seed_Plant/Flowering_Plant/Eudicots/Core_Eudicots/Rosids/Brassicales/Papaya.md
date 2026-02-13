@@ -188,7 +188,7 @@ dv_has_:
     bcl: Tapayas
     bdr: Kepayas
     be: Дыннае дрэва
-    be-tarask: папая
+    be_tarask: папая
     bg: папая
     bho: पपीता
     bi: Pawpaw
@@ -265,7 +265,7 @@ dv_has_:
     lv: papaija
     mad: Katès
     mai: अरनेबा
-    map-bms: Katès
+    map_bms: Katès
     mg: Papay
     min: kaliki
     mk: папаја
@@ -292,7 +292,7 @@ dv_has_:
     pl: melonowiec właściwy
     pnb: پپیتا
     pt: mamão
-    pt-br: Mamão
+    pt_br: Mamão
     qu: Papaya
     ro: papaya
     ru: папайя
@@ -339,9 +339,9 @@ dv_has_:
     yo: Èso ìbẹ́pẹ
     yue: 木瓜
     zh: 番木瓜
-    zh-cn: 番木瓜
-    zh-hans: 木瓜
-    zh-tw: 番木瓜
+    zh_cn: 番木瓜
+    zh_hans: 木瓜
+    zh_tw: 番木瓜
 ---
 # [[Papaya]] 
 

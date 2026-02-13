@@ -139,7 +139,7 @@ dv_has_:
     bar: Poista
     bcl: Ulunan
     be: падушка
-    be-tarask: падушка
+    be_tarask: падушка
     bg: Възглавница
     bn: বালিশ
     br: Goubenner
@@ -153,12 +153,12 @@ dv_has_:
     dag: dufiɛli
     de: Kissen
     de-at: Polster
-    de-ch: Kissen
+    de_ch: Kissen
     el: μαξιλάρι
     eml: Cusèin
     en: pillow
-    en-ca: Pillow
-    en-gb: pillow
+    en_ca: Pillow
+    en_gb: pillow
     eo: kuseno
     es: almohada
     et: Padi
@@ -208,7 +208,7 @@ dv_has_:
     mzn: سرین
     nan: Chím-thâu
     nb: pute
-    nds-nl: kussing
+    nds_nl: kussing
     ne: सिरानी
     new: फुंगा
     nl: kussen
@@ -216,7 +216,7 @@ dv_has_:
     pa: ਸਰ੍ਹਾਣਾ
     pl: poduszka
     pt: travesseiro
-    pt-br: travesseiro
+    pt_br: travesseiro
     qu: Sawna
     ro: Pernă
     ru: подушка
@@ -246,8 +246,8 @@ dv_has_:
     wuu: 枕头
     yue: 枕頭
     zh: 枕頭
-    zh-hans: 枕头
-    zh-hant: 枕頭
+    zh_hans: 枕头
+    zh_hant: 枕頭
 ---
 # [[Pillow]] 
 

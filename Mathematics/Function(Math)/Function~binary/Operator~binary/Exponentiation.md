@@ -122,7 +122,7 @@ dv_has_:
     ba: дәрәжәгә күтәреү
     bcl: eksponentasyon
     be: ступеняванне
-    be-tarask: ступеняваньне
+    be_tarask: ступеняваньне
     bg: степенуване
     bn: সূচকীকরণ
     bs: stepenovanje
@@ -134,11 +134,11 @@ dv_has_:
     cy: esbonydd
     da: potens
     de: Potenzierung
-    de-ch: Potenz
+    de_ch: Potenz
     el: ύψωση σε δύναμη
     en: exponentiation
-    en-ca: exponentiation
-    en-gb: exponentiation
+    en_ca: exponentiation
+    en_gb: exponentiation
     eo: potenco
     es: potenciación
     et: astendamine
@@ -186,7 +186,7 @@ dv_has_:
     pa: ਘਾਤ ਅੰਕ
     pl: potęgowanie
     pt: exponenciação
-    pt-br: exponenciação
+    pt_br: exponenciação
     qu: yupa huqariy
     ro: exponențiere
     ru: возведение в степень
@@ -213,9 +213,9 @@ dv_has_:
     yi: מדריגה
     yue: 次方
     zh: 冪運算
-    zh-hans: 幂运算
-    zh-hant: 指數化
-    zh-tw: 指數化
+    zh_hans: 幂运算
+    zh_hant: 指數化
+    zh_tw: 指數化
 ---
 # [[Exponentiation]] 
 

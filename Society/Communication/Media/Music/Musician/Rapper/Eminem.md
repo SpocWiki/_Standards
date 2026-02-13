@@ -188,7 +188,7 @@ dv_has_:
     bar: Eminem
     bcl: Eminem
     be: Eminem
-    be-tarask: Эмінэм
+    be_tarask: Эмінэм
     bg: Еминем
     bi: Eminem
     bjn: Eminem
@@ -197,7 +197,7 @@ dv_has_:
     bs: Eminem
     bxr: Эминем
     ca: Eminem
-    cbk-zam: Eminem
+    cbk_zam: Eminem
     ce: Эминем
     ceb: Eminem
     ckb: ئێمینێم
@@ -211,8 +211,8 @@ dv_has_:
     dty: इमिनेम
     el: Eminem
     eml: Eminem
-    en-ca: Eminem
-    en-gb: Eminem
+    en_ca: Eminem
+    en_gb: Eminem
     eo: Eminem
     es: Eminem
     et: Eminem
@@ -291,7 +291,7 @@ dv_has_:
     pdc: Eminem
     ps: اېمينېم
     pt: Eminem
-    pt-br: Eminem
+    pt_br: Eminem
     ro: Eminem
     ru: Эминем
     rue: Емiнем
@@ -337,9 +337,9 @@ dv_has_:
     yo: Eminem
     yue: 阿姆
     zh: 阿姆
-    zh-hant: 阿姆
+    zh_hant: 阿姆
     zh-my: 伊米能
-    zh-sg: 阿姆
+    zh_sg: 阿姆
     zu: Eminem
 ---
 # [[Eminem]] 

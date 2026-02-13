@@ -100,7 +100,7 @@ dv_has_:
     ast: pentatlón modernu
     az: müasir beşnövçülük
     be: сучаснае пяцібор'е
-    be-tarask: сучаснае пяціборства
+    be_tarask: сучаснае пяціборства
     bg: модерен петобой
     bn: আধুনিক পেন্টাথলন
     ca: pentatló modern
@@ -163,8 +163,8 @@ dv_has_:
     wuu: 现代五项
     yue: 現代五項
     zh: 現代五項
-    zh-hans: 现代五项
-    zh-hant: 現代五項
+    zh_hans: 现代五项
+    zh_hant: 現代五項
 ---
 # [[Modern_Pentathlon]] 
 

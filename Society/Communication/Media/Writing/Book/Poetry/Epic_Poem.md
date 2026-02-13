@@ -120,7 +120,7 @@ dv_has_:
     ban: Wiracarita
     bar: Epos
     be: эпас
-    be-tarask: эпас
+    be_tarask: эпас
     bg: Епопея
     bn: মহাকাব্য
     br: Meurgan
@@ -135,8 +135,8 @@ dv_has_:
     de: Epos
     el: έπος
     en: epic poem
-    en-ca: Epic poetry
-    en-gb: epic poem
+    en_ca: Epic poetry
+    en_gb: epic poem
     eo: epopeo
     es: epopeya
     et: eepos
@@ -172,7 +172,7 @@ dv_has_:
     kk: эпос
     ko: 서사시
     ku: helbesta epîk
-    ku-latn: helbesta epîk
+    ku_latn: helbesta epîk
     kw: bardhonieth epyk
     ky: Эпос
     la: Poësis epica
@@ -181,7 +181,7 @@ dv_has_:
     lld: Poem epich
     lt: epas
     lv: eposs
-    map-bms: Wiracarita
+    map_bms: Wiracarita
     mdf: Эпоссь
     mk: еп
     ml: ഇതിഹാസം
@@ -204,7 +204,7 @@ dv_has_:
     pl: epos
     ps: حماسه
     pt: epopeia
-    pt-br: poesia épica
+    pt_br: poesia épica
     ro: epopee
     ru: эпос
     rue: Епос
@@ -216,8 +216,8 @@ dv_has_:
     sl: ep
     sq: Poezia epike
     sr: епска поезија
-    sr-ec: поема
-    sr-el: poema
+    sr_ec: поема
+    sr_el: poema
     su: Wiracarita
     sv: epos
     sw: Vigano
@@ -235,8 +235,8 @@ dv_has_:
     wuu: 史诗
     yue: 史詩
     zh: 史詩
-    zh-hk: 史詩
-    zh-tw: 史詩
+    zh_hk: 史詩
+    zh_tw: 史詩
 ---
 # [[Epic_Poem]] 
 

@@ -100,7 +100,7 @@ dv_has_:
     ast: Polítiques públiques
     az: İctimai Politika
     be: дзяржаўная палітыка
-    be-tarask: дзяржаўная палітыка
+    be_tarask: дзяржаўная палітыка
     bg: Държавна политика
     bn: জননীতি
     ca: política pública
@@ -111,7 +111,7 @@ dv_has_:
     de: Public Policy
     el: δημόσια πολιτική
     en: public policy
-    en-gb: public policy
+    en_gb: public policy
     eo: publika politiko
     es: política pública
     eu: politika publiko
@@ -135,7 +135,7 @@ dv_has_:
     mk: јавна политика
     mn: Төрийн бодлого
     ms: dasar awam
-    ms-arab: داسر عوام
+    ms_arab: داسر عوام
     nan: Kong-kiōng chèng-chhek
     nb: offentlig politikk
     ne: सार्वजनिक नीति
@@ -159,11 +159,11 @@ dv_has_:
     vec: pułìtega pùblega
     vi: chính sách công
     zh: 公共政策
-    zh-cn: 公共政策
-    zh-hans: 公共政策
-    zh-hant: 公共政策
-    zh-hk: 公共政策
-    zh-tw: 公共政策
+    zh_cn: 公共政策
+    zh_hans: 公共政策
+    zh_hant: 公共政策
+    zh_hk: 公共政策
+    zh_tw: 公共政策
 ---
 # [[Public_Policy]] 
 

@@ -147,7 +147,7 @@ dv_has_:
     ast: baraxa
     az: Oyun kartları
     be: ігральныя карты
-    be-tarask: гульнёвая карта
+    be_tarask: гульнёвая карта
     bew: Rèmi
     bg: Карти за игра
     bn: তাস
@@ -159,11 +159,11 @@ dv_has_:
     cy: Cerdyn chwarae
     da: spillekort
     de: Spielkarte
-    de-ch: Spielkarte
+    de_ch: Spielkarte
     el: Τράπουλα
     en: playing card
-    en-ca: Playing card
-    en-gb: Playing card
+    en_ca: Playing card
+    en_gb: Playing card
     eo: ludkarto
     es: naipe
     et: Mängukaardid
@@ -216,7 +216,7 @@ dv_has_:
     pl: karta do gry
     pnb: تاش
     pt: carta
-    pt-br: carta
+    pt_br: carta
     ro: carte de joc
     ru: игральные карты
     sah: Хаарты
@@ -224,8 +224,8 @@ dv_has_:
     sk: Hracia karta
     sl: igralna karta
     sr: играчка карта
-    sr-ec: играчка карта
-    sr-el: igračka karta
+    sr_ec: играчка карта
+    sr_el: igračka karta
     sv: spelkort
     sw: Kadi ya karata
     szl: Szpilkarty
@@ -242,9 +242,9 @@ dv_has_:
     wuu: 游戏牌
     yue: 啤牌
     zh: 扑克牌
-    zh-hans: 扑克牌
-    zh-hant: 撲克牌
-    zh-tw: 撲克牌
+    zh_hans: 扑克牌
+    zh_hant: 撲克牌
+    zh_tw: 撲克牌
 ---
 # [[Playing_Card]] 
 

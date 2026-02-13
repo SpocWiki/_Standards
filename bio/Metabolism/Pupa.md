@@ -84,7 +84,7 @@ dv_has_:
     ast: Pupa
     bcl: Pupa
     be: Кукалка
-    be-tarask: кукалка
+    be_tarask: кукалка
     bg: какавида
     bn: মূককীট
     ca: pupa
@@ -141,8 +141,8 @@ dv_has_:
     sk: Kukla
     sl: buba
     sr: Lutka
-    sr-ec: Лутка
-    sr-el: Lutka
+    sr_ec: Лутка
+    sr_el: Lutka
     sv: puppa
     sw: Pupa
     ta: கூட்டுப்புழு
@@ -157,12 +157,12 @@ dv_has_:
     yue: 蛹
     za: Duzreh
     zh: 蛹
-    zh-cn: 蛹
-    zh-hans: 蛹
-    zh-hant: 蛹
-    zh-hk: 蛹
-    zh-sg: 蛹
-    zh-tw: 蛹
+    zh_cn: 蛹
+    zh_hans: 蛹
+    zh_hant: 蛹
+    zh_hk: 蛹
+    zh_sg: 蛹
+    zh_tw: 蛹
 ---
 # [[Pupa]] 
 

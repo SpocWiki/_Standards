@@ -101,8 +101,8 @@ dv_has_:
     da: interiør design
     de: Interieur design
     en: interior design
-    en-ca: Interior design
-    en-gb: interior design
+    en_ca: Interior design
+    en_gb: interior design
     en-us: interior design
     eo: interna dekoracio
     es: diseño interior
@@ -131,12 +131,12 @@ dv_has_:
     mn: Интерьер дизайн
     mr: गृहशोभन
     ms: reka bentuk dalaman
-    ms-arab: ريک بنتوق دالمن
+    ms_arab: ريک بنتوق دالمن
     mt: disinn ta' ġewwa
     nb: interiør
     nl: interieurarchitectuur
     pt: design de interiores
-    pt-br: Design de interiores
+    pt_br: Design de interiores
     ro: design interior
     ru: дизайн интерьера
     sh: Dizajn enterijera
@@ -145,8 +145,8 @@ dv_has_:
     smn: siskiistemvuávám
     sq: Dizajn i brendshem
     sr: дизајн ентеријера
-    sr-ec: Дизајн ентеријера
-    sr-el: Dizajn enterijera
+    sr_ec: Дизајн ентеријера
+    sr_el: Dizajn enterijera
     sv: inredning
     sw: Usanifu wa ndani
     ta: உட்புற வடிவமைப்பு
@@ -163,12 +163,12 @@ dv_has_:
     war: Pagdesinyo pansakob
     yue: 室內設計
     zh: 室内设计
-    zh-cn: 室内设计
-    zh-hans: 室内设计
-    zh-hant: 室內設計
-    zh-hk: 室內設計
-    zh-sg: 室内设计
-    zh-tw: 室內設計
+    zh_cn: 室内设计
+    zh_hans: 室内设计
+    zh_hant: 室內設計
+    zh_hk: 室內設計
+    zh_sg: 室内设计
+    zh_tw: 室內設計
 ---
 # [[Interior_Design]] 
 

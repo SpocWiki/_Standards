@@ -246,7 +246,7 @@ dv_has_:
     ba: Изге Пётр соборы
     bcl: Basilika ni San Pedro
     be: Сабор Святога Пятра
-    be-tarask: базыліка сьвятога Пятра
+    be_tarask: базыліка сьвятога Пятра
     bg: Свети Петър
     bho: सेंट पीटर्स बसिलिका
     bn: সেন্ট পিটারের ব্যাসিলিকা
@@ -262,7 +262,7 @@ dv_has_:
     de: Petersdom
     el: Βασιλική του Αγίου Πέτρου
     en: St. Peter's Basilica
-    en-gb: St Peter's Basilica
+    en_gb: St Peter's Basilica
     eo: Baziliko de Sankta Petro en Romo
     es: basílica de San Pedro
     et: Rooma Peetri kirik
@@ -329,7 +329,7 @@ dv_has_:
     pms: Basìlica ëd San Pé
     pnb: پیٹر گرجا روم
     pt: Basílica de São Pedro
-    pt-br: Basílica de São Pedro
+    pt_br: Basílica de São Pedro
     rm: Dom da s. Peder
     ro: Bazilica Sfântul Petru din Roma
     ru: собор Святого Петра
@@ -365,7 +365,7 @@ dv_has_:
     yi: פעטראס באסיליקע
     yue: 聖伯多祿大殿
     zh: 聖伯多祿大殿
-    zh-hans: 圣彼得大教堂
+    zh_hans: 圣彼得大教堂
 ---
 # [[St.Peter's_Basilica]] 
 

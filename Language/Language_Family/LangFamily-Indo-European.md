@@ -289,7 +289,7 @@ dv_has_:
     bar: indoeiropäische Sprochn
     bcl: Mga tataramon na Indo-Europeo
     be: індаеўрапейскія мовы
-    be-tarask: індаэўрапейскія мовы
+    be_tarask: індаэўрапейскія мовы
     bew: Rungkun basa Indo-Èropa
     bg: Индоевропейски езици
     bn: ইন্দো-ইউরোপীয় ভাষাসমূহ
@@ -303,7 +303,7 @@ dv_has_:
     ckb: زمانە ھیندی و ئەورووپییەکان
     co: lingui indoauropei
     crh: İnd-Avropa tilleri
-    crh-latn: İnd-Avropa tilleri
+    crh_latn: İnd-Avropa tilleri
     cs: indoevropské jazyky
     cu: Їндоєѵрѡпьсци ѩꙁꙑци
     cv: Инди-европа чĕлхисем
@@ -315,8 +315,8 @@ dv_has_:
     dty: भारोपेली भाषा परिवार
     el: Ινδοευρωπαϊκές γλώσσες
     en: Indo-European
-    en-ca: Indo-European
-    en-gb: Indo-European
+    en_ca: Indo-European
+    en_gb: Indo-European
     eo: hindeŭropa lingvaro
     es: lenguas indoeuropeas
     et: indoeuroopa keeled
@@ -412,7 +412,7 @@ dv_has_:
     nap: Lengue innoeuropee
     nb: indoeuropeiske språk
     nds: Indoeuropääsche Spraken
-    nds-nl: Indo-Uropese taolen
+    nds_nl: Indo-Uropese taolen
     ne: भारोपेली भाषा परिवार
     new: भारोपेली भाषा परिवार
     nl: Indo-Europese talen
@@ -430,7 +430,7 @@ dv_has_:
     pnb: ہند یورپی بولیاں
     ps: اندو-اروپايي ژبې
     pt: línguas indo-europeias
-    pt-br: língua indo-europeia
+    pt_br: língua indo-europeia
     qu: Indu iwrupiyu rimaykuna
     rmy: Indo-Europikane chhiba
     ro: limbi indo-europene
@@ -456,8 +456,8 @@ dv_has_:
     so: Luqada Hindo Yurub
     sq: gjuhë indo-evropiane
     sr: индоевропски језици
-    sr-ec: индоевропски језици
-    sr-el: indoevropski jezici
+    sr_ec: индоевропски језици
+    sr_el: indoevropski jezici
     stq: Indogermaniske Sproaken
     sv: indoeuropeiska språk
     sw: Lugha za Kihindi-Kiulaya
@@ -473,7 +473,7 @@ dv_has_:
     tpi: Indo-Yuropien famili bilong tokples
     tr: Hint-Avrupa dil ailesi
     tt: һинд-аурупа телләре
-    tt-cyrl: һинд-аурупа телләре
+    tt_cyrl: һинд-аурупа телләре
     ug: ھىندى-ياۋروپا تىل سېستىمىسى
     uk: індоєвропейські мови
     ur: ہند۔یورپی زبانیں
@@ -492,14 +492,14 @@ dv_has_:
     za: Vahhaeh Yin-Ouh
     zea: Indo-Europese taelen
     zh: 印欧语系
-    zh-cn: 印欧语系
-    zh-hans: 印欧语系
-    zh-hant: 印歐語系
-    zh-hk: 印歐語系
-    zh-mo: 印歐語系
+    zh_cn: 印欧语系
+    zh_hans: 印欧语系
+    zh_hant: 印歐語系
+    zh_hk: 印歐語系
+    zh_mo: 印歐語系
     zh-my: 印欧语系
-    zh-sg: 印欧语系
-    zh-tw: 印歐語系
+    zh_sg: 印欧语系
+    zh_tw: 印歐語系
 ---
 # [[LangFamily-Indo-European]] 
 

@@ -147,7 +147,7 @@ dv_has_:
     ba: Густав Малер
     bar: Gustav Mahler
     be: Густаў Малер
-    be-tarask: Густаў Малер
+    be_tarask: Густаў Малер
     bg: Густав Малер
     bi: Gustav Mahler
     bn: গুস্তাভ মালার
@@ -168,8 +168,8 @@ dv_has_:
     ee: Gustav Mahler
     el: Γκούσταβ Μάλερ
     en: Gustav Mahler
-    en-ca: Gustav Mahler
-    en-gb: Gustav Mahler
+    en_ca: Gustav Mahler
+    en_gb: Gustav Mahler
     eo: Gustav Mahler
     es: Gustav Mahler
     et: Gustav Mahler
@@ -231,7 +231,7 @@ dv_has_:
     pms: Gustav Mahler
     pnb: گستاف ماہلر
     pt: Gustav Mahler
-    pt-br: Gustav Mahler
+    pt_br: Gustav Mahler
     qu: Gustav Mahler
     ro: Gustav Mahler
     ru: Густав Малер
@@ -264,9 +264,9 @@ dv_has_:
     yi: גוסטאוו מאהלער
     yue: 馬勒
     zh: 古斯塔夫·馬勒
-    zh-cn: 古斯塔夫·马勒
-    zh-hans: 古斯塔夫·马勒
-    zh-hant: 古斯塔夫·馬勒
+    zh_cn: 古斯塔夫·马勒
+    zh_hans: 古斯塔夫·马勒
+    zh_hant: 古斯塔夫·馬勒
 ---
 # [[Mahler,Gustav]] 
 

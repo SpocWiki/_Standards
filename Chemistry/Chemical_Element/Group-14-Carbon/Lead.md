@@ -259,7 +259,7 @@ dv_has_:
     bas: ɓàǎ
     bcl: tingga
     be: свінец
-    be-tarask: волава
+    be_tarask: волава
     bg: олово
     bho: सीसा
     bn: সীসা
@@ -277,12 +277,12 @@ dv_has_:
     cy: plwm
     da: bly
     de: Blei
-    de-ch: Blei
+    de_ch: Blei
     din: yöm thiɛk
     el: μόλυβδος
     en: lead
-    en-ca: lead
-    en-gb: lead
+    en_ca: lead
+    en_gb: lead
     eo: plumbo
     es: plomo
     et: plii
@@ -383,7 +383,7 @@ dv_has_:
     pnb: سیسہ
     ps: لېډ
     pt: chumbo
-    pt-br: chumbo
+    pt_br: chumbo
     qu: titi
     rki: lead
     ro: plumb
@@ -436,11 +436,11 @@ dv_has_:
     yue: 鉛
     za: yienz
     zh: 铅
-    zh-cn: 铅
-    zh-hans: 铅
-    zh-hant: 鉛
-    zh-hk: 鉛
-    zh-tw: 鉛
+    zh_cn: 铅
+    zh_hans: 铅
+    zh_hant: 鉛
+    zh_hk: 鉛
+    zh_tw: 鉛
     zu: umthofu
   number_of_:
     period: 6

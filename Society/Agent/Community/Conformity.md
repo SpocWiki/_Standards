@@ -78,18 +78,18 @@ dv_has_:
     ast: conformidá
     az: konformizm
     be: канфармізм
-    be-tarask: канфармізм
+    be_tarask: канфармізм
     bg: Конформизъм
     bn: প্রথানুবর্তিতা
     ca: conformitat
     cs: konformita
     da: konformitet
     de: Konformität
-    de-ch: Konformität
+    de_ch: Konformität
     el: Κομφορμισμός
     en: conformity
-    en-ca: conformity
-    en-gb: conformity
+    en_ca: conformity
+    en_gb: conformity
     eo: konformeco
     es: conformidad
     et: konformsus
@@ -114,7 +114,7 @@ dv_has_:
     lt: konformizmas
     lv: konformitāte
     ms: keakuran
-    ms-arab: کأکورن
+    ms_arab: کأکورن
     nb: konformitet
     nl: conformisme
     nn: konformitet
@@ -122,15 +122,15 @@ dv_has_:
     pl: konformizm
     pnb: آمادگی
     pt: conformidade
-    pt-br: conformidade
+    pt_br: conformidade
     ro: conformitate
     ru: конформность
     sh: konformizam
     sk: konformizmus
     sl: konformnost
     sr: конформизам
-    sr-ec: конформизам
-    sr-el: konformizam
+    sr_ec: конформизам
+    sr_el: konformizam
     sv: konformism
     th: การคล้อยตาม
     tr: uydumculuk
@@ -138,7 +138,7 @@ dv_has_:
     uz: Konformizm
     yue: 埋堆
     zh: 從眾行為
-    zh-cn: 从众
+    zh_cn: 从众
 ---
 # [[Conformity]] 
 

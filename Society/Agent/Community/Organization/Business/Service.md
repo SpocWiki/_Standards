@@ -111,7 +111,7 @@ dv_has_:
     az: xidmət
     ba: хеҙмәт
     be: паслуга
-    be-tarask: паслуга
+    be_tarask: паслуга
     bg: услуга
     bn: পরিষেবা
     br: servij
@@ -124,7 +124,7 @@ dv_has_:
     de: Dienstleistung
     el: υπηρεσία
     en: service
-    en-gb: service
+    en_gb: service
     en-us: service
     eo: servo
     es: servicio
@@ -165,7 +165,7 @@ dv_has_:
     ml: സേവനം
     mr: सेवा (अर्थशास्त्र)
     ms: perkhidmatan
-    ms-arab: ڤرخدمتن
+    ms_arab: ڤرخدمتن
     my: ဝန်ဆောင်မှု
     mzn: خدمات
     nan: Ho̍k-bū
@@ -177,7 +177,7 @@ dv_has_:
     pa: ਸੇਵਾ (ਅਰਥ ਸ਼ਾਸਤਰ)
     pl: usługi
     pt: serviço
-    pt-br: serviço
+    pt_br: serviço
     ro: serviciu
     ru: услуга
     sah: Өҥө
@@ -189,8 +189,8 @@ dv_has_:
     sms: kääzzkõs
     sq: shërbim
     sr: услуга
-    sr-ec: услуга
-    sr-el: usluga
+    sr_ec: услуга
+    sr_el: usluga
     sv: tjänst
     ta: சேவை
     tg: хадамот
@@ -198,7 +198,7 @@ dv_has_:
     tl: serbisyo
     tr: hizmet
     tt: хезмәт
-    tt-cyrl: хезмәт
+    tt_cyrl: хезмәт
     uk: послуга
     ur: خدمت
     uz: Servis
@@ -208,10 +208,10 @@ dv_has_:
     wuu: 服务
     yue: 服務
     zh: 服務
-    zh-hans: 服务
-    zh-hant: 服務
-    zh-hk: 服務
-    zh-tw: 服務
+    zh_hans: 服务
+    zh_hant: 服務
+    zh_hk: 服務
+    zh_tw: 服務
     zu: Inkonzo (kwezomnotho)
 ---
 # [[Service]] 

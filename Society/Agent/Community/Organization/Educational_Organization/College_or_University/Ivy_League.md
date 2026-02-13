@@ -67,7 +67,7 @@ dv_has_:
     ast: Ivy League
     az: Sarmaşıq liqası
     be: Ліга плюшчу
-    be-tarask: Ліга блюшчу
+    be_tarask: Ліга блюшчу
     bg: Бръшлянова лига
     bn: আইভি লিগ
     ca: Ivy League
@@ -76,11 +76,11 @@ dv_has_:
     cy: Ivy League
     da: Ivy League
     de: Ivy League
-    de-ch: Ivy League
+    de_ch: Ivy League
     el: Ivy League
     en: Ivy League
-    en-ca: Ivy League
-    en-gb: Ivy League
+    en_ca: Ivy League
+    en_gb: Ivy League
     eo: Ivy League
     es: Ivy League
     et: Ivy League
@@ -118,7 +118,7 @@ dv_has_:
     pa: ਆਈਵੀ ਲੀਗ
     pl: Ivy League
     pt: Ivy League
-    pt-br: Ivy League
+    pt_br: Ivy League
     ro: Ivy League
     ru: Лига плюща
     rue: Блющова лига
@@ -140,14 +140,14 @@ dv_has_:
     wuu: 常春藤盟校
     yue: 長春藤聯盟
     zh: 常春藤盟校
-    zh-cn: 常春藤盟校
-    zh-hans: 常春藤盟校
-    zh-hant: 常春藤盟校
-    zh-hk: 常春藤盟校
-    zh-mo: 常春藤盟校
+    zh_cn: 常春藤盟校
+    zh_hans: 常春藤盟校
+    zh_hant: 常春藤盟校
+    zh_hk: 常春藤盟校
+    zh_mo: 常春藤盟校
     zh-my: 常春藤盟校
-    zh-sg: 常春藤盟校
-    zh-tw: 常春藤盟校
+    zh_sg: 常春藤盟校
+    zh_tw: 常春藤盟校
 ---
 # [[Ivy_League]] 
 

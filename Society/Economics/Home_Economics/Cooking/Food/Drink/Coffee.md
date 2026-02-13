@@ -258,7 +258,7 @@ dv_has_:
     bcl: kape
     bdr: kupi'
     be: кава
-    be-tarask: кава
+    be_tarask: кава
     bew: gahwa
     bg: кафе
     bi: kofi
@@ -280,7 +280,7 @@ dv_has_:
     ckb: قاوە
     co: caffè
     crh: qave
-    crh-latn: qave
+    crh_latn: qave
     cs: káva
     csb: kawa
     cv: кофе
@@ -393,7 +393,7 @@ dv_has_:
     mn: кофе
     mr: कॉफी
     ms: kopi
-    ms-arab: کوڤي
+    ms_arab: کوڤي
     mt: kafè
     mwl: café
     my: ကော်ဖီ
@@ -403,7 +403,7 @@ dv_has_:
     nap: ccafè
     nb: kaffe
     nds: Kaffe
-    nds-nl: koffie
+    nds_nl: koffie
     ne: कफी
     ng: okoofi
     nia: kofi
@@ -428,7 +428,7 @@ dv_has_:
     pnb: کافی (مشروب)
     ps: قهوه
     pt: café
-    pt-br: café
+    pt_br: café
     qu: kaphiy
     rm: café
     rmf: kaali
@@ -513,13 +513,13 @@ dv_has_:
     zea: koffie
     zh: 咖啡
     zh-cn: 咖啡
-    zh-hans: 咖啡
-    zh-hant: 咖啡
-    zh-hk: 咖啡
-    zh-mo: 咖啡
+    zh_hans: 咖啡
+    zh_hant: 咖啡
+    zh_hk: 咖啡
+    zh_mo: 咖啡
     zh-my: 咖啡
-    zh-sg: 咖啡
-    zh-tw: 咖啡
+    zh_sg: 咖啡
+    zh_tw: 咖啡
     zu: ikhofi
 ---
 # [[Coffee]] 

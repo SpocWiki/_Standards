@@ -336,7 +336,7 @@ dv_has_:
     bar: Stean
     bcl: bitoon
     be: зорка
-    be-tarask: зорка
+    be_tarask: зорка
     bew: bintang
     bg: звезда
     bho: तारा
@@ -372,8 +372,8 @@ dv_has_:
     el: αστέρας
     eml: strèla
     en: star
-    en-ca: star
-    en-gb: star
+    en_ca: star
+    en_gb: star
     en-us: star
     eo: stelo
     es: estrella
@@ -460,7 +460,7 @@ dv_has_:
     lv: zvaigzne
     lzh: 恆星
     mag: तारा
-    map-bms: lintang
+    map_bms: lintang
     mdf: тяште
     mg: kintana
     mi: whetū
@@ -473,7 +473,7 @@ dv_has_:
     mr: तारा
     mrj: шӹдӹр
     ms: bintang
-    ms-arab: بينتڠ
+    ms_arab: بينتڠ
     mt: stilla
     mwl: streilha
     my: ကြယ်
@@ -485,7 +485,7 @@ dv_has_:
     nap: stella
     nb: stjerne
     nds: Steern
-    nds-nl: steern
+    nds_nl: steern
     ne: तारा
     new: नगु
     nl: ster
@@ -510,7 +510,7 @@ dv_has_:
     pnb: تارا
     ps: ستوری
     pt: estrela
-    pt-br: estrela
+    pt_br: estrela
     pwn: vitjuqan
     qu: quyllur
     rki: ကြယ်
@@ -544,8 +544,8 @@ dv_has_:
     so: xidig
     sq: yll
     sr: звезда
-    sr-ec: звезда
-    sr-el: zvezda
+    sr_ec: звезда
+    sr_el: zvezda
     stq: Stiern
     su: béntang
     sv: stjärna
@@ -562,7 +562,7 @@ dv_has_:
     tr: yıldız
     trv: pngerah
     tt: йолдыз
-    tt-cyrl: йолдыз
+    tt_cyrl: йолдыз
     tw: nsoroma
     udm: кизили
     uk: зоря
@@ -586,14 +586,14 @@ dv_has_:
     za: ndaundeiq
     zgh: ⵜⵉⵜⵔⵉⵜ
     zh: 恒星
-    zh-cn: 恒星
-    zh-hans: 恒星
-    zh-hant: 恆星
-    zh-hk: 恆星
-    zh-mo: 恆星
+    zh_cn: 恒星
+    zh_hans: 恒星
+    zh_hant: 恆星
+    zh_hk: 恆星
+    zh_mo: 恆星
     zh-my: 恒星
-    zh-sg: 恒星
-    zh-tw: 恆星
+    zh_sg: 恒星
+    zh_tw: 恆星
     zu: inkanyezi
 ---
 # [[Star]] 

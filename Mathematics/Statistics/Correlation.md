@@ -83,7 +83,7 @@ dv_has_:
     ast: correllación
     az: korrelyasiya
     be: карэляцыя
-    be-tarask: карэляцыя
+    be_tarask: карэляцыя
     bg: Корелация
     bho: कोरिलेशन
     bn: সংশ্লেষ ও নির্ভরশীলতা
@@ -127,7 +127,7 @@ dv_has_:
     pap: Korelashon
     pl: korelacja
     pt: correlação
-    pt-br: correlação
+    pt_br: correlação
     ro: corelație
     ru: корреляция
     sd: گڏيل لاڳاپو
@@ -139,8 +139,8 @@ dv_has_:
     sms: korrelaatio
     sq: Korrelacioni
     sr: корелација
-    sr-ec: Корелација
-    sr-el: Korelacija
+    sr_ec: Корелација
+    sr_el: Korelacija
     su: Korélasi
     sv: korrelation
     sw: Uhusiano (Takwimu)
@@ -155,12 +155,12 @@ dv_has_:
     wuu: 相关
     yue: 統計相關
     zh: 相关
-    zh-cn: 相关
-    zh-hans: 相关
-    zh-hant: 相關
-    zh-hk: 相關
-    zh-sg: 相关
-    zh-tw: 相關
+    zh_cn: 相关
+    zh_hans: 相关
+    zh_hant: 相關
+    zh_hk: 相關
+    zh_sg: 相关
+    zh_tw: 相關
 ---
 # [[Correlation]] 
 

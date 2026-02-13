@@ -55,7 +55,7 @@ dv_has_:
     ast: teoría de l'arquiteutura
     ba: Архитектура теорияһы
     be: тэорыя архітэктуры
-    be-tarask: тэорыя архітэктуры
+    be_tarask: тэорыя архітэктуры
     ca: teoria de l'arquitectura
     cs: teorie architektury
     da: Arkitekturteori

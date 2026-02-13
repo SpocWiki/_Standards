@@ -89,7 +89,7 @@ dv_has_:
     nl: hebzucht
     pi: "\U0001102E\U00011044\U0001102A"
     pt: ganância
-    pt-br: ganância
+    pt_br: ganância
     ru: жадность
     sl: pohlep
     smj: hánesvuohta

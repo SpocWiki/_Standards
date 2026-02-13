@@ -17,7 +17,7 @@ dv_has_:
     azb: قازاق تورکجهسی
     ba: Ҡаҙаҡ теле
     be: казахская мова
-    be-tarask: казаская мова
+    be_tarask: казаская мова
     bg: казахски език
     bho: कजाक भाषा
     bn: কাজাখ ভাষা
@@ -29,7 +29,7 @@ dv_has_:
     ckb: زمانی کازاخی
     co: Lingua Quazak
     crh: Qazah tili
-    crh-latn: Qazah tili
+    crh_latn: Qazah tili
     cs: kazaština
     csb: Kazachsczi jãzëk
     cu: Каꙁачьскъ ѩꙁꙑкъ
@@ -37,12 +37,12 @@ dv_has_:
     cy: Casacheg
     da: kasakhisk
     de: Kasachisch
-    de-ch: Kasachisch
+    de_ch: Kasachisch
     diq: Qazaxki
     el: Καζακικά
     en: Kazakh
-    en-ca: Kazakh
-    en-gb: Kazakh
+    en_ca: Kazakh
+    en_gb: Kazakh
     en-us: Kazakh
     eo: kazaĥa lingvo
     es: kazajo
@@ -80,11 +80,11 @@ dv_has_:
     kbd: Къазахъыбзэ
     kge: Bahasa Kazakh
     kk: қазақ тілі
-    kk-latn: qazaq tılı
+    kk_latn: qazaq tılı
     ko: 카자흐어
     koi: Казах кыв
     ku: zimanê qazaxî
-    ku-latn: zimanê qazaxî
+    ku_latn: zimanê qazaxî
     kv: Казах кыв
     ky: казак тили
     la: lingua Cazachica
@@ -110,7 +110,7 @@ dv_has_:
     nan: Kazakh-gí
     nb: kasakhisk
     nds: Kasachsche Spraak
-    nds-nl: Kazaks
+    nds_nl: Kazaks
     new: कजाख भाषा
     nl: Kazachs
     nn: kasakhisk
@@ -125,7 +125,7 @@ dv_has_:
     pnb: قازق
     ps: کزاخي ژبه
     pt: língua cazaque
-    pt-br: língua cazaque
+    pt_br: língua cazaque
     qu: Qasaq simi
     ro: limba kazahă
     ru: казахский язык
@@ -156,8 +156,8 @@ dv_has_:
     tok: toki Kasatan
     tr: Kazakça
     tt: казакъ теле
-    tt-cyrl: казакъ теле
-    tt-latn: qazaq tele
+    tt_cyrl: казакъ теле
+    tt_latn: qazaq tele
     tyv: Казах дыл
     udm: Казах кыл
     ug: قازاق تىلى
@@ -173,9 +173,9 @@ dv_has_:
     yo: Èdè Kàsákhì
     yue: 哈薩克文
     zh: 哈薩克語
-    zh-cn: 哈萨克语
-    zh-hans: 哈萨克语
-    zh-hant: 哈薩克語
+    zh_cn: 哈萨克语
+    zh_hans: 哈萨克语
+    zh_hant: 哈薩克語
     zu: isi-Kazakh
 aliases:
 - an Chasaicis

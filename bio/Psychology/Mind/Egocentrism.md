@@ -59,7 +59,7 @@ dv_has_:
     ast: Egocentrismu
     az: Eqosentrizm
     be: Эгацэнтрызм
-    be-tarask: эгацэнтрызм
+    be_tarask: эгацэнтрызм
     bg: Егоцентризъм
     ca: egocentrisme
     cs: Egocentrismus
@@ -84,11 +84,11 @@ dv_has_:
     it: egocentrismo
     ja: 自己中心性
     kk: Эгоцентризм
-    kk-arab: ەگوتسەنترىيزم
+    kk_arab: ەگوتسەنترىيزم
     kk-cn: ەگوتسەنترىيزم
-    kk-cyrl: Эгоцентризм
+    kk_cyrl: Эгоцентризм
     kk-kz: Эгоцентризм
-    kk-latn: Égocentrïzm
+    kk_latn: Égocentrïzm
     kk-tr: Égocentrïzm
     ko: 자아중심주의
     lv: egocentrisms
@@ -104,8 +104,8 @@ dv_has_:
     sk: Egocentrizmus
     sl: egocentrizem
     sr: Егоцентризам
-    sr-ec: Егоцентризам
-    sr-el: Egocentrizam
+    sr_ec: Егоцентризам
+    sr_el: Egocentrizam
     sv: Egocentrism
     ta: தன் மையச் சிந்தனைப் போக்கு
     tr: egosantrizm
@@ -113,12 +113,12 @@ dv_has_:
     uz: Egotsentrizm
     yue: 自我中心
     zh: 自我中心主義
-    zh-cn: 自我中心主义
-    zh-hans: 自我中心主义
-    zh-hant: 自我中心主義
-    zh-hk: 自我中心主義
-    zh-sg: 自我中心主义
-    zh-tw: 自我中心主義
+    zh_cn: 自我中心主义
+    zh_hans: 自我中心主义
+    zh_hant: 自我中心主義
+    zh_hk: 自我中心主義
+    zh_sg: 自我中心主义
+    zh_tw: 自我中心主義
 ---
 # [[Egocentrism]] 
 

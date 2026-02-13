@@ -185,7 +185,7 @@ dv_has_:
     bar: Himalaya
     bcl: Himalaya
     be: Гімалаі
-    be-tarask: Гімалаі
+    be_tarask: Гімалаі
     bew: Himalaya
     bg: Хималаи
     bho: हिमालय
@@ -202,7 +202,7 @@ dv_has_:
     ckb: ھیمالایا
     co: Himalaia
     crh: Himalayalar
-    crh-latn: Himalayalar
+    crh_latn: Himalayalar
     cs: Himálaj
     cv: Гималай тăвĕсем
     cy: Himalaya
@@ -213,8 +213,8 @@ dv_has_:
     dz: ཧི་མ་ལ་ཡ།
     el: Ιμαλάια
     en: Himalayas
-    en-ca: Himalayas
-    en-gb: Himalayas
+    en_ca: Himalayas
+    en_gb: Himalayas
     eo: Himalajo
     es: Himalaya
     et: Himaalaja
@@ -288,7 +288,7 @@ dv_has_:
     mr: हिमालय
     mrj: Гималайвлӓ
     ms: Himalaya
-    ms-arab: هيمالايا
+    ms_arab: هيمالايا
     my: ဟိမဝန္တာ တောင်တန်း
     nan: Himalaya Soaⁿ-lêng
     nb: Himalaya
@@ -308,7 +308,7 @@ dv_has_:
     pnb: ہمالیا
     ps: هېمالیا
     pt: Himalaias
-    pt-br: Himalaia
+    pt_br: Himalaia
     qu: Himalaya
     ro: Himalaya
     roa-tara: Himalaya
@@ -329,7 +329,7 @@ dv_has_:
     smn: Himalaja
     sq: Himalajet
     sr: Хималаји
-    sr-ec: Хималаји
+    sr_ec: Хималаји
     stq: Himalaya
     sv: Himalaya
     sw: Himalaya
@@ -345,7 +345,7 @@ dv_has_:
     tok: ma Imalaja
     tr: Himalaya Dağları
     tt: Һималайлар
-    tt-cyrl: Һималайлар
+    tt_cyrl: Һималайлар
     ug: ھىمالايا تاغ تىزمىسى
     uk: Гімалаї
     ur: ہمالیہ
@@ -363,10 +363,10 @@ dv_has_:
     za: Megbya Hijmajlahyajsanh
     zgh: ⵀⵉⵎⴰⵍⴰⵢⴰ
     zh: 喜马拉雅山脉
-    zh-cn: 喜马拉雅山脉
-    zh-hans: 喜马拉雅山脉
-    zh-hant: 喜馬拉雅山脈
-    zh-tw: 喜馬拉雅山脈
+    zh_cn: 喜马拉雅山脉
+    zh_hans: 喜马拉雅山脉
+    zh_hant: 喜馬拉雅山脈
+    zh_tw: 喜馬拉雅山脈
 ---
 # [[Himalayas]] 
 

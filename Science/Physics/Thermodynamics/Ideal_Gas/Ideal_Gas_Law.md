@@ -102,7 +102,7 @@ dv_has_:
     ast: Llei de los gases ideales
     az: İdeal qazın hal tənliyi
     be: ураўненне стану ідэальнага газу
-    be-tarask: раўнаньне стану ідэальнага газу
+    be_tarask: раўнаньне стану ідэальнага газу
     bg: Уравнение на Клапейрон – Менделеев
     bn: আদর্শ গ্যাস সূত্র
     bs: Zakon idealnog plina
@@ -156,8 +156,8 @@ dv_has_:
     sl: splošna plinska enačba
     sq: Ligji i gazit ideal
     sr: Једначина стања идеалног гаса
-    sr-ec: Једначина стања идеалног гаса
-    sr-el: Jednačina stanja idealnog gasa
+    sr_ec: Једначина стања идеалног гаса
+    sr_el: Jednačina stanja idealnog gasa
     sv: Ideala gaslagen
     ta: கருத்தியல் வளிம விதி
     th: กฎของแก๊สอุดมคติ
@@ -170,12 +170,12 @@ dv_has_:
     wuu: 理想气体状态方程
     yue: 理想氣體狀態方程式
     zh: 理想气体状态方程
-    zh-cn: 理想气体状态方程
-    zh-hans: 理想气体状态方程
-    zh-hant: 理想氣體狀態方程
-    zh-hk: 理想氣體狀態方程式
-    zh-sg: 理想气体状态方程
-    zh-tw: 理想氣體狀態方程式
+    zh_cn: 理想气体状态方程
+    zh_hans: 理想气体状态方程
+    zh_hant: 理想氣體狀態方程
+    zh_hk: 理想氣體狀態方程式
+    zh_sg: 理想气体状态方程
+    zh_tw: 理想氣體狀態方程式
 ---
 # [[Ideal_Gas_Law]] 
 

@@ -92,7 +92,7 @@ dv_has_:
     ast: Epiteliu
     az: Epitel toxuması
     be: Эпітэлій
-    be-tarask: эпітэль
+    be_tarask: эпітэль
     bg: Епителна тъкан
     bn: আবরণী কলা
     bs: Epitel
@@ -141,7 +141,7 @@ dv_has_:
     pl: Tkanka nabłonkowa
     ps: بشروي نسجونه
     pt: epitélio
-    pt-br: epitélio
+    pt_br: epitélio
     ro: epiteliu
     ru: эпителий
     sco: epithelium
@@ -150,7 +150,7 @@ dv_has_:
     sk: Epitel
     sl: epitelij
     sr: епителско ткиво
-    sr-ec: епителско ткиво
+    sr_ec: епителско ткиво
     su: Jaringan Epitel
     sv: epitel
     ta: புறவணியிழையம்

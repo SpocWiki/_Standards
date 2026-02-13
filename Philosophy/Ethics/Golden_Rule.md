@@ -78,7 +78,7 @@ dv_has_:
     ar: القاعدة الذهبية
     arz: القاعده الذهبيه
     bar: Goidane Regl
-    be-tarask: залатое правіла
+    be_tarask: залатое правіла
     bg: Златно правило
     bn: গোল্ডেন রুল
     bs: Zlatno pravilo
@@ -88,11 +88,11 @@ dv_has_:
     cv: Кăмăл-сипетĕн ылтăн йĕркевĕ
     da: Den Gyldne Regel
     de: Goldene Regel
-    de-ch: Goldene Regel
+    de_ch: Goldene Regel
     el: Χρυσός Κανόνας
     en: Golden Rule
-    en-ca: Golden Rule
-    en-gb: Golden Rule
+    en_ca: Golden Rule
+    en_gb: Golden Rule
     eo: Ora regulo
     es: regla de oro
     et: Kuldreegel
@@ -109,11 +109,11 @@ dv_has_:
     it: etica della reciprocità
     ja: 黄金律
     kk: Алтын ереже
-    kk-arab: التىن ەرەجە
+    kk_arab: التىن ەرەجە
     kk-cn: التىن ەرەجە
-    kk-cyrl: Алтын ереже
+    kk_cyrl: Алтын ереже
     kk-kz: Алтын ереже
-    kk-latn: Altın ereje
+    kk_latn: Altın ereje
     kk-tr: Altın ereje
     ko: 황금률
     la: regula aurea
@@ -124,14 +124,14 @@ dv_has_:
     pl: złota reguła etyczna
     ps: زرین قانون
     pt: Ética da reciprocidade
-    pt-br: Ética da reciprocidade
+    pt_br: Ética da reciprocidade
     ro: Regula de aur
     ru: Золотое правило нравственности
     sh: Zlatno pravilo
     sl: zlato pravilo
     sr: Zlatno pravilo
-    sr-ec: Златно правило
-    sr-el: Zlatno pravilo
+    sr_ec: Златно правило
+    sr_el: Zlatno pravilo
     sv: Den gyllene regeln
     ta: பொன் விதி
     tl: Ginintuang patakaran
@@ -140,12 +140,12 @@ dv_has_:
     ur: سنہری اصول
     vi: Nguyên tắc vàng
     zh: 恕道
-    zh-cn: 恕道
-    zh-hans: 恕道
-    zh-hant: 恕道
-    zh-hk: 恕道
-    zh-sg: 恕道
-    zh-tw: 恕道
+    zh_cn: 恕道
+    zh_hans: 恕道
+    zh_hant: 恕道
+    zh_hk: 恕道
+    zh_sg: 恕道
+    zh_tw: 恕道
 ---
 # [[Golden_Rule]] 
 

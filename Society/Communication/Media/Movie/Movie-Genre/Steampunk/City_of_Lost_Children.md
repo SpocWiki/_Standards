@@ -48,11 +48,11 @@ dv_has_:
     cy: La Cité Des Enfants Perdus
     da: De fortabte børns by
     de: Die Stadt der verlorenen Kinder
-    de-ch: Die Stadt der verlorenen Kinder
+    de_ch: Die Stadt der verlorenen Kinder
     el: Η Πόλη των Χαμένων Παιδιών
     en: The City of Lost Children
-    en-ca: The City of Lost Children
-    en-gb: The City of Lost Children
+    en_ca: The City of Lost Children
+    en_gb: The City of Lost Children
     eo: La cité des enfants perdus
     es: La ciudad de los niños perdidos
     et: Kadunud laste linn
@@ -74,7 +74,7 @@ dv_has_:
     nn: De fortapte barns by
     pl: Miasto zaginionych dzieci
     pt: A Cidade das Crianças Perdidas
-    pt-br: Ladrão de Sonhos
+    pt_br: Ladrão de Sonhos
     ro: La cité des enfants perdus
     ru: Город потерянных детей
     sk: Mesto stratených detí
@@ -84,7 +84,7 @@ dv_has_:
     tr: Kayıp Çocuklar Şehri
     uk: Місто загублених дітей (фільм)
     zh: 驚異狂想曲
-    zh-sg: 失童之城
+    zh_sg: 失童之城
 ---
 # [[City_of_Lost_Children]]
 

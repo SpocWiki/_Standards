@@ -73,7 +73,7 @@ dv_has_:
     azb: پاراپسیکولوژی
     bcl: Parasikolohiya
     be: парапсіхалогія
-    be-tarask: парапсыхалёгія
+    be_tarask: парапсыхалёгія
     bg: Парапсихология
     bn: পরামনোবিজ্ঞান
     ca: parapsicologia
@@ -123,8 +123,8 @@ dv_has_:
     sl: parapsihologija
     sq: Parapsikologjia
     sr: парапсихологија
-    sr-ec: Парапсихологија
-    sr-el: Parapsihologija
+    sr_ec: Парапсихологија
+    sr_el: Parapsihologija
     sv: parapsykologi
     ta: ஆன்மிக உளவியல்
     th: พลังจิต
@@ -137,12 +137,12 @@ dv_has_:
     wuu: 超心理学
     yue: 超心理學
     zh: 超心理学
-    zh-cn: 超心理学
-    zh-hans: 超心理学
-    zh-hant: 超心理學
-    zh-hk: 超心理學
-    zh-sg: 超心理学
-    zh-tw: 超心理學
+    zh_cn: 超心理学
+    zh_hans: 超心理学
+    zh_hant: 超心理學
+    zh_hk: 超心理學
+    zh_sg: 超心理学
+    zh_tw: 超心理學
 ---
 # [[Parapsychology]] 
 

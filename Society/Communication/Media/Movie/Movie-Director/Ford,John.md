@@ -122,7 +122,7 @@ dv_has_:
     ast: John Ford
     az: Con Ford
     be: Джон Форд
-    be-tarask: Джон Форд
+    be_tarask: Джон Форд
     bg: Джон Форд
     bn: জন ফোর্ড
     br: John Ford
@@ -134,8 +134,8 @@ dv_has_:
     de: John Ford
     el: Τζον Φορντ
     en: John Ford
-    en-ca: John Ford
-    en-gb: John Ford
+    en_ca: John Ford
+    en_gb: John Ford
     eo: John Ford
     es: John Ford
     et: John Ford
@@ -179,7 +179,7 @@ dv_has_:
     pl: John Ford
     pms: John Ford
     pt: John Ford
-    pt-br: John Ford
+    pt_br: John Ford
     qu: John Ford
     ro: John Ford
     ru: Джон Форд
@@ -190,7 +190,7 @@ dv_has_:
     sl: John Ford
     sq: John Ford
     sr: Џон Форд
-    sr-ec: Џон Форд
+    sr_ec: Џон Форд
     sv: John Ford
     ta: ஜான் போர்டு
     te: జాన్ ఫోర్డ్
@@ -204,7 +204,7 @@ dv_has_:
     xmf: ჯონ ფორდი
     yue: 尊福
     zh: 約翰·福特
-    zh-hk: 尊·福
+    zh_hk: 尊·福
 ---
 # [[Ford,John]] 
 

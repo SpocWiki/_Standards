@@ -131,7 +131,7 @@ dv_has_:
     az: Sahel
     ba: Сәхил
     be: Сахель
-    be-tarask: Сагэль
+    be_tarask: Сагэль
     bg: Сахел
     bn: সাহিল
     br: Sahel
@@ -142,7 +142,7 @@ dv_has_:
     da: Sahel
     de: Sahelzone
     de-at: Sahelzone
-    de-ch: Sahelzone
+    de_ch: Sahelzone
     diq: Sahel
     el: Σαχέλ
     en: Sahel
@@ -220,11 +220,11 @@ dv_has_:
     xmf: საჰელი
     yue: 沙希爾
     zh: 萨赫勒
-    zh-cn: 萨赫勒
-    zh-hans: 萨赫勒
-    zh-hant: 薩赫爾
-    zh-hk: 薩赫勒
-    zh-tw: 薩赫爾
+    zh_cn: 萨赫勒
+    zh_hans: 萨赫勒
+    zh_hant: 薩赫爾
+    zh_hk: 薩赫勒
+    zh_tw: 薩赫爾
 ---
 # [[Sahel]] 
 

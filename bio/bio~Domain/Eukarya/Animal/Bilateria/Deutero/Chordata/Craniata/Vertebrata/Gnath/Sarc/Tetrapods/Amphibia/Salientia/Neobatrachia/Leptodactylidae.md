@@ -39,10 +39,10 @@ dv_has_:
     ceb: Leptodactylidae
     cs: hvízdalkovití
     de: Pfeiffrösche
-    de-ch: Leptodactylidae
+    de_ch: Leptodactylidae
     en: Leptodactylidae
-    en-ca: Leptodactylidae
-    en-gb: Leptodactylidae
+    en_ca: Leptodactylidae
+    en_gb: Leptodactylidae
     eo: Leptodaktiledoj
     es: Leptodactylidae
     eu: Leptodactylidae
@@ -69,7 +69,7 @@ dv_has_:
     oc: Leptodactylidae
     pl: Świstkowate
     pt: Leptodactylidae
-    pt-br: Leptodactylidae
+    pt_br: Leptodactylidae
     ro: Leptodactylidae
     ru: Свистуновые
     sl: Žvižgovke
@@ -81,9 +81,9 @@ dv_has_:
     vo: Leptodactylidae
     war: Leptodactylidae
     zh: 细趾蟾科
-    zh-cn: 细趾蟾科
-    zh-hans: 细趾蟾科
-    zh-tw: 細趾蟾科
+    zh_cn: 细趾蟾科
+    zh_hans: 细趾蟾科
+    zh_tw: 細趾蟾科
 ---
 # [[Leptodactylidae]] 
 

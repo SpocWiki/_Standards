@@ -96,14 +96,14 @@ dv_has_:
     ast: Inxeniería biomédica
     az: Biotibbi mühəndislik
     ba: Биомедицина инженерияһы
-    be-tarask: біямэдычная інжынэрыя
+    be_tarask: біямэдычная інжынэрыя
     bg: Биомедицинско инженерство
     bn: জৈবচিকিৎসা প্রকৌশল
     ca: enginyeria biomèdica
     cs: biomedicínské inženýrství
     de: Medizintechnik
     de-at: Medizintechnik
-    de-ch: Medizintechnik
+    de_ch: Medizintechnik
     el: Βιοϊατρική τεχνολογία
     en: biomedical engineering
     eo: biomedicina inĝenierio
@@ -141,8 +141,8 @@ dv_has_:
     sl: biomedicinsko inženirstvo
     sq: Inxhinieria mjekësore
     sr: биомедицински инжењеринг
-    sr-ec: биомедицински инжењеринг
-    sr-el: biomedicinski inženjering
+    sr_ec: биомедицински инжењеринг
+    sr_el: biomedicinski inženjering
     su: Téknik biomédis
     sw: uhandisi wa Matibabu
     ta: உயிர்மருத்துவப் பொறியியல்
@@ -156,12 +156,12 @@ dv_has_:
     vi: kỹ thuật y sinh
     yue: 生物醫學工程
     zh: 生物医学工程
-    zh-cn: 生物医学工程
-    zh-hans: 生物医学工程
-    zh-hant: 生物醫學工程
-    zh-hk: 生物醫學工程
-    zh-sg: 生物医学工程
-    zh-tw: 生物醫學工程
+    zh_cn: 生物医学工程
+    zh_hans: 生物医学工程
+    zh_hant: 生物醫學工程
+    zh_hk: 生物醫學工程
+    zh_sg: 生物医学工程
+    zh_tw: 生物醫學工程
 ---
 # [[Biomedical_Engineering]] 
 

@@ -96,7 +96,7 @@ dv_has_:
     ast: Ilesies evanxéliques
     azb: اوانجلیکال
     be: евангельскія хрысціяне
-    be-tarask: эвангелізм
+    be_tarask: эвангелізм
     bg: Евангелизъм
     ca: evangelicalisme
     ceb: Ebanghelikalismo
@@ -107,8 +107,8 @@ dv_has_:
     diq: Evanjelikalizm
     el: Ευαγγελικοί
     en: Evangelicalism
-    en-ca: Evangelicalism
-    en-gb: Evangelicalism
+    en_ca: Evangelicalism
+    en_gb: Evangelicalism
     eo: Evangeliismo
     es: evangelicalismo
     eu: kristautasun ebanjeliko
@@ -144,7 +144,7 @@ dv_has_:
     pl: Ewangelikalizm
     pnb: انجیلی مسیحیت
     pt: evangelicalismo
-    pt-br: Evangelicalismo
+    pt_br: Evangelicalismo
     ro: evanghelism
     ru: евангелизм
     sah: Евангелизм
@@ -154,8 +154,8 @@ dv_has_:
     sl: evangeličanstvo
     sq: Evangjelikalizmi
     sr: евангелизам
-    sr-ec: Евангелизам
-    sr-el: Evangelizam
+    sr_ec: Евангелизам
+    sr_el: Evangelizam
     sv: evangelikalism
     sw: Ukristo wa Kiinjilisti
     ta: நற்செய்தி இயக்கம்

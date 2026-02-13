@@ -119,7 +119,7 @@ dv_has_:
     az: tağ
     ba: арка
     be: арка
-    be-tarask: арка
+    be_tarask: арка
     bg: дъга
     bho: मेहराब
     bn: খিলান
@@ -134,11 +134,11 @@ dv_has_:
     cy: bwa
     da: bue
     de: Bogen
-    de-ch: Bogen
+    de_ch: Bogen
     el: αψίδα
     en: arch
-    en-ca: arch
-    en-gb: arch
+    en_ca: arch
+    en_gb: arch
     eo: arko
     es: arco
     et: kaar
@@ -174,7 +174,7 @@ dv_has_:
     kn: ಕಮಾನು
     ko: 아치
     ku: qentirme
-    ku-latn: kevane
+    ku_latn: kevane
     kw: gwarak
     ky: аpкa
     la: arcus
@@ -203,7 +203,7 @@ dv_has_:
     pnb: ڈاٹ
     ps: محراب
     pt: arco
-    pt-br: arco
+    pt_br: arco
     qu: k'ukti
     ro: arc
     ru: арка
@@ -224,8 +224,8 @@ dv_has_:
     tok: noka tomo sike
     tr: kemer
     tt: арка
-    tt-cyrl: арка
-    tt-latn: arka
+    tt_cyrl: арка
+    tt_latn: arka
     udm: арка
     uk: арка
     ur: محراب

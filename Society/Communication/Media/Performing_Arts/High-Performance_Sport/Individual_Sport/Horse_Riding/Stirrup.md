@@ -80,7 +80,7 @@ dv_has_:
     az: Üzəngi
     ba: Өҙәңге
     be: стрэмя
-    be-tarask: стрэмя
+    be_tarask: стрэмя
     bg: Стреме
     br: Stleug
     ca: estrep
@@ -90,8 +90,8 @@ dv_has_:
     de: Steigbügel
     el: Αναβολέας
     en: stirrup
-    en-ca: Stirrup
-    en-gb: Stirrup
+    en_ca: Stirrup
+    en_gb: Stirrup
     eo: piedingo
     es: Estribo
     eu: estribu
@@ -111,11 +111,11 @@ dv_has_:
     ja: 鐙
     ka: უზანგი
     kk: Үзеңгі
-    kk-arab: ۇزەڭگى
+    kk_arab: ۇزەڭگى
     kk-cn: ۇزەڭگى
-    kk-cyrl: Үзеңгі
+    kk_cyrl: Үзеңгі
     kk-kz: Үзеңгі
-    kk-latn: Üzeñgi
+    kk_latn: Üzeñgi
     kk-tr: Üzeñgi
     kn: ರಿಕಾಪು
     ko: 등자
@@ -128,14 +128,14 @@ dv_has_:
     pl: Strzemię
     pms: Stafa
     pt: estribo
-    pt-br: Estribo
+    pt_br: Estribo
     ro: Scăriță
     ru: стремя
     sh: Stremen
     sl: streme
     sr: Узенгија
-    sr-ec: Узенгија
-    sr-el: Uzengija
+    sr_ec: Узенгија
+    sr_el: Uzengija
     sv: stigbygel
     ta: அங்கவடி
     te: అంకెము
@@ -145,12 +145,12 @@ dv_has_:
     war: Tamakan ha hayop
     yue: 鐙
     zh: 镫
-    zh-cn: 镫
-    zh-hans: 镫
-    zh-hant: 鐙
-    zh-hk: 鐙
-    zh-sg: 镫
-    zh-tw: 鐙
+    zh_cn: 镫
+    zh_hans: 镫
+    zh_hant: 鐙
+    zh_hk: 鐙
+    zh_sg: 镫
+    zh_tw: 鐙
 ---
 # [[Stirrup]] 
 

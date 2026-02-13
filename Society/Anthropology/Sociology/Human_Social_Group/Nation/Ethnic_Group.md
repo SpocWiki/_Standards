@@ -195,7 +195,7 @@ dv_has_:
     azb: ائتنیک قوروپ
     ba: этнос
     be: этнас
-    be-tarask: этнічная супольнасьць
+    be_tarask: этнічная супольнасьць
     bg: етническа група
     bho: एथ्निसिटी
     bn: নৃগোষ্ঠী
@@ -208,14 +208,14 @@ dv_has_:
     da: etnisk gruppe
     dag: balli
     de: Ethnie
-    de-ch: Ethnie
+    de_ch: Ethnie
     diq: gruba etnike
     dsb: etnija
     dtp: Simpung tinaru
     el: εθνοτική ομάδα
     en: ethnic group
-    en-ca: ethnic group
-    en-gb: ethnic group
+    en_ca: ethnic group
+    en_gb: ethnic group
     eo: etno
     es: etnia
     et: rahvus
@@ -252,13 +252,13 @@ dv_has_:
     kab: azdar
     kcg: nwap
     kk: этникалық топ
-    kk-latn: étnïkalıq top
+    kk_latn: étnïkalıq top
     km: ក្រុមជនជាតិ
     kn: ಜನಾಂಗೀಯ ಗುಂಪುಗಳು
     ko: 민족
     ks: نٕسلی جَماتھ
     ku: koma etnîk
-    ku-latn: koma etnîk
+    ku_latn: koma etnîk
     kw: bagas ethnek
     ky: этнос
     la: ethnos
@@ -275,7 +275,7 @@ dv_has_:
     mnc: ᡠᡴᠰᡠᡵᠠ
     mr: वांशिक समूह
     ms: kelompok etnik
-    ms-arab: کلومڤوق ايتنيک
+    ms_arab: کلومڤوق ايتنيک
     my: လူမျိုးစု
     nan: cho̍k-kûn
     nb: etnisk gruppe
@@ -291,7 +291,7 @@ dv_has_:
     pl: grupa etniczna
     ps: توکمډله
     pt: grupo étnico
-    pt-br: grupo étnico
+    pt_br: grupo étnico
     ro: etnie
     ru: этническая группа
     rue: етнічна ґрупа
@@ -311,7 +311,7 @@ dv_has_:
     sn: rudzi
     sq: grup etnik
     sr: етничка група
-    sr-ec: етничка група
+    sr_ec: етничка група
     su: kelompok étnik
     sv: etnisk grupp
     sw: kikundi cha kikabila
@@ -319,16 +319,16 @@ dv_has_:
     szy: binacadan
     ta: இனக் குழு
     tg: гурӯҳи қавмӣ
-    tg-cyrl: гурӯҳи этникӣ
-    tg-latn: gurūhi etnikī
+    tg_cyrl: гурӯҳи этникӣ
+    tg_latn: gurūhi etnikī
     th: กลุ่มชาติพันธุ์
     tl: pangkat etniko
     tly: etnik grup
     tok: kulupu jan
     tr: etnik gruplar
     tt: этник төркем
-    tt-cyrl: этник төркем
-    tt-latn: étnik törkem
+    tt_cyrl: этник төркем
+    tt_latn: étnik törkem
     uk: етнічна група
     ur: نسلی گروہ
     uz: etnik guruh
@@ -343,14 +343,14 @@ dv_has_:
     za: minzcuz
     zgh: ⵜⴰⴳⴳⴰⵢⵜ ⵜⴰⵏⵡⵙⵉⵜ
     zh: 族群
-    zh-cn: 族群
-    zh-hans: 族群
-    zh-hant: 族群
-    zh-hk: 族群
-    zh-mo: 族群
+    zh_cn: 族群
+    zh_hans: 族群
+    zh_hant: 族群
+    zh_hk: 族群
+    zh_mo: 族群
     zh-my: 族群
-    zh-sg: 族群
-    zh-tw: 族群
+    zh_sg: 族群
+    zh_tw: 族群
 ---
 # [[Ethnic_Group]] 
 

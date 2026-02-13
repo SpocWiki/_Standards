@@ -111,7 +111,7 @@ dv_has_:
     ba: Дзюдо
     bar: Judo
     be: дзюдо
-    be-tarask: дзюдо
+    be_tarask: дзюдо
     bg: джудо
     bn: জুডো
     bo: འབོལ་འཇུ།
@@ -194,7 +194,7 @@ dv_has_:
     pnb: جوڈو
     ps: جودو
     pt: judo
-    pt-br: judô
+    pt_br: judô
     rki: ဂျူဒို
     rm: judo
     ro: judo
@@ -233,10 +233,10 @@ dv_has_:
     yi: דזשודא
     yue: 柔道
     zh: 柔道
-    zh-cn: 柔道
-    zh-hans: 柔道
-    zh-hant: 柔道
-    zh-tw: 柔道
+    zh_cn: 柔道
+    zh_hans: 柔道
+    zh_hant: 柔道
+    zh_tw: 柔道
 ---
 # [[Judo]] 
 

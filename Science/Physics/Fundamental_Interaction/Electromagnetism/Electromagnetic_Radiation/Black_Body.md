@@ -88,7 +88,7 @@ dv_has_:
     ast: cuerpu prietu
     az: Mütləq qara cisim
     be: абсалютна чорнае цела
-    be-tarask: абсолютна чорнае цела
+    be_tarask: абсолютна чорнае цела
     bg: Абсолютно черно тяло
     bn: কৃষ্ণবস্তু
     bs: Crno tijelo
@@ -120,11 +120,11 @@ dv_has_:
     ja: 黒体
     ka: შავი სხეული
     kk: Абсолют қара дене
-    kk-arab: ابسوليۋت قارا دەنە
+    kk_arab: ابسوليۋت قارا دەنە
     kk-cn: ابسوليۋت قارا دەنە
-    kk-cyrl: Абсолют қара дене
+    kk_cyrl: Абсолют қара дене
     kk-kz: Абсолют қара дене
-    kk-latn: Absolyut qara dene
+    kk_latn: Absolyut qara dene
     kk-tr: Absolyut qara dene
     kn: ಬ್ಲ್ಯಾಕ್ ಬಾಡಿ
     ko: 흑체
@@ -161,12 +161,12 @@ dv_has_:
     wuu: 黑体
     yue: 黑體
     zh: 黑体
-    zh-cn: 黑体
-    zh-hans: 黑体
-    zh-hant: 黑體
-    zh-hk: 黑體
-    zh-sg: 黑体
-    zh-tw: 黑體
+    zh_cn: 黑体
+    zh_hans: 黑体
+    zh_hant: 黑體
+    zh_hk: 黑體
+    zh_sg: 黑体
+    zh_tw: 黑體
 ---
 # [[Black_Body]] 
 

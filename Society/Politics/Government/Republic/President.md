@@ -204,7 +204,7 @@ dv_has_:
     ba: президент
     bbc: Presiden
     be: прэзідэнт
-    be-tarask: прэзыдэнт
+    be_tarask: прэзыдэнт
     bew: Persidèn
     bg: Президент
     bho: राष्ट्रपति
@@ -214,23 +214,23 @@ dv_has_:
     bs: predsjednik
     bxr: Түрын тэргүүн
     ca: president
-    cbk-zam: Presidente
+    cbk_zam: Presidente
     cdo: Cūng-tūng
     ce: Президент
     ckb: سەرۆک کۆمار
     crh: prezident
-    crh-latn: prezident
+    crh_latn: prezident
     cs: prezident
     cv: Президент
     cy: arlywydd
     da: præsident
     dag: tingban zuɣulana
     de: Präsident
-    de-ch: Präsident
+    de_ch: Präsident
     el: πρόεδρος
     en: president
-    en-ca: President
-    en-gb: president
+    en_ca: President
+    en_gb: president
     eo: prezidanto
     es: presidente
     et: president
@@ -279,7 +279,7 @@ dv_has_:
     ko: 대통령
     krc: Президент
     ku: serokkomar
-    ku-latn: serokkomar
+    ku_latn: serokkomar
     kw: lewydh
     ky: Мамлекет башчысы
     la: Praeses
@@ -291,7 +291,7 @@ dv_has_:
     lv: prezidents
     lzh: 總統
     mag: राष्ट्रपति
-    map-bms: Presiden
+    map_bms: Presiden
     mg: filoha
     mhr: президент
     mk: претседател
@@ -299,7 +299,7 @@ dv_has_:
     mn: Ерөнхийлөгч
     mr: राष्ट्राध्यक्ष
     ms: presiden
-    ms-arab: ڤريسيدن
+    ms_arab: ڤريسيدن
     mt: President
     my: သမ္မတ (အစိုးရရာထူး)
     mzn: رئیس
@@ -322,7 +322,7 @@ dv_has_:
     prg: prezidēnts
     ps: ولسمشر
     pt: presidente
-    pt-br: presidente
+    pt_br: presidente
     qu: Umalliq
     rmf: presidentos
     ro: președinte
@@ -345,8 +345,8 @@ dv_has_:
     so: Madaxweyne
     sq: president
     sr: председник
-    sr-ec: председник
-    sr-el: predsednik
+    sr_ec: председник
+    sr_el: predsednik
     sv: president
     sw: Rais
     szy: cung-tung
@@ -359,7 +359,7 @@ dv_has_:
     tl: Pangulo
     tr: başkan
     tt: президент
-    tt-cyrl: президент
+    tt_cyrl: президент
     tum: Prezident
     tw: ɔmanpanin
     udm: азьмурт
@@ -376,11 +376,11 @@ dv_has_:
     yo: Ààrẹ
     yue: 總統
     zh: 总统
-    zh-cn: 总统
-    zh-hans: 总统
-    zh-hant: 總統
-    zh-hk: 總統
-    zh-tw: 總統
+    zh_cn: 总统
+    zh_hans: 总统
+    zh_hant: 總統
+    zh_hk: 總統
+    zh_tw: 總統
     zu: UMengameli (isiqu sakuhulumeni)
 ---
 # [[President]] 

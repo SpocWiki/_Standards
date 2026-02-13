@@ -88,7 +88,7 @@ dv_has_:
     pa: ਰਾਸਮਸ ਲਰਡੋਰਫ
     pl: Rasmus Lerdorf
     pt: Rasmus Lerdorf
-    pt-br: Rasmus Lerdorf
+    pt_br: Rasmus Lerdorf
     ro: Rasmus Lerdorf
     ru: Расмус Лердорф
     se: Rasmus Lerdorf
@@ -99,8 +99,8 @@ dv_has_:
     smj: Rasmus Lerdorf
     sq: Rasmus Lerdorf
     sr: Расмус Лердорф
-    sr-ec: Расмус Лердорф
-    sr-el: Rasmus Lerdorf
+    sr_ec: Расмус Лердорф
+    sr_el: Rasmus Lerdorf
     sv: Rasmus Lerdorf
     sw: Rasmus Lerdorf
     ta: ரஸ்மஸ் லெர்டெர்ஃப்
@@ -108,12 +108,12 @@ dv_has_:
     tr: Rasmus Lerdorf
     uk: Расмус Лердорф
     zh: 拉斯姆斯·勒多夫
-    zh-cn: 拉斯姆斯·勒多夫
-    zh-hans: 拉斯姆斯·勒多夫
-    zh-hant: 拉斯姆斯·勒多夫
-    zh-hk: 拉斯姆斯·勒多夫
-    zh-sg: 拉斯姆斯·勒多夫
-    zh-tw: 拉斯姆斯·勒多夫
+    zh_cn: 拉斯姆斯·勒多夫
+    zh_hans: 拉斯姆斯·勒多夫
+    zh_hant: 拉斯姆斯·勒多夫
+    zh_hk: 拉斯姆斯·勒多夫
+    zh_sg: 拉斯姆斯·勒多夫
+    zh_tw: 拉斯姆斯·勒多夫
 ---
 # [[Lerdorf,Rasmus]] 
 

@@ -72,7 +72,7 @@ dv_has_:
     ast: Rococó
     az: rokoko
     be: ракако
-    be-tarask: ракако
+    be_tarask: ракако
     bg: Рококо
     bs: Rokoko
     ca: rococó
@@ -83,7 +83,7 @@ dv_has_:
     de: Rokoko
     el: Ροκοκό
     en: Rococo
-    en-gb: Rococo
+    en_gb: Rococo
     eo: Rokoko
     es: Rococó
     et: Rokokoo
@@ -123,7 +123,7 @@ dv_has_:
     ms: rokoko
     mt: Rococò
     nb: rokokko
-    nds-nl: rokoko
+    nds_nl: rokoko
     nl: rococo
     nn: rokokko
     oc: Rococo
@@ -133,15 +133,15 @@ dv_has_:
     pnb: رکوکو
     ps: روکوکو
     pt: rococó
-    pt-br: rococó
+    pt_br: rococó
     ro: Rococo
     ru: рококо
     sh: rokoko
     sk: Rokoko
     sl: rokoko
     sr: рококо
-    sr-ec: рококо
-    sr-el: rokoko
+    sr_ec: рококо
+    sr_el: rokoko
     stq: Rokoko
     sv: rokoko
     th: โรโกโก
@@ -154,12 +154,12 @@ dv_has_:
     wuu: 洛可可
     yue: 洛可可
     zh: 洛可可
-    zh-cn: 洛可可
-    zh-hans: 洛可可
-    zh-hant: 洛可可
-    zh-hk: 洛可可
-    zh-sg: 洛可可
-    zh-tw: 洛可可
+    zh_cn: 洛可可
+    zh_hans: 洛可可
+    zh_hant: 洛可可
+    zh_hk: 洛可可
+    zh_sg: 洛可可
+    zh_tw: 洛可可
 ---
 # [[Rococo]] 
 

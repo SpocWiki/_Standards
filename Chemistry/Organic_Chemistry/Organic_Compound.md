@@ -143,7 +143,7 @@ dv_has_:
     azb: اورقانیک بیلشیک
     bcl: organikong kompuwesto
     be: арганічныя рэчывы
-    be-tarask: арганічнае рэчыва
+    be_tarask: арганічнае рэчыва
     bg: органично съединение
     bn: জৈব যৌগ
     bs: organski spoj
@@ -182,11 +182,11 @@ dv_has_:
     ka: ორგანული ნივთიერებები
     kab: uddis agman
     kk: органикалық қосылыстар
-    kk-arab: ورگانىيكالىق قوسىلىستار
+    kk_arab: ورگانىيكالىق قوسىلىستار
     kk-cn: ورگانىيكالىق قوسىلىستار
-    kk-cyrl: органикалық қосылыстар
+    kk_cyrl: органикалық қосылыстар
     kk-kz: органикалық қосылыстар
-    kk-latn: organïkalıq qosılıstar
+    kk_latn: organïkalıq qosılıstar
     kk-tr: organïkalıq qosılıstar
     ko: 유기 화합물
     kw: kesstoff organek
@@ -201,7 +201,7 @@ dv_has_:
     ml: കാർബണിക സംയുക്തം
     mn: органик нэгдэл
     ms: sebatian organik
-    ms-arab: سباتين اورݢانيک
+    ms_arab: سباتين اورݢانيک
     mt: kimiċi organiċi
     my: သက်ရှိနွယ် ဒြပ်ပေါင်း
     nan: iú-ki hòa-ha̍p-bu̍t
@@ -214,7 +214,7 @@ dv_has_:
     pl: związek organiczny
     pnb: آرگینک کمپاؤنڈ
     pt: composto orgânico
-    pt-br: composto orgânico
+    pt_br: composto orgânico
     ro: compus organic
     ru: органическое соединение
     rue: органичны злученины
@@ -228,8 +228,8 @@ dv_has_:
     smn: orgaanlâš ovtâstâh
     sq: komponime organike
     sr: органско једињење
-    sr-ec: органско једињење
-    sr-el: organsko jedinjenje
+    sr_ec: органско једињење
+    sr_el: organsko jedinjenje
     su: sanyawa organik
     sv: organisk förening
     sw: kampaundi ogania
@@ -248,12 +248,12 @@ dv_has_:
     yi: ארגאנישע פארבינדונג
     yue: 有機化合物
     zh: 有机化合物
-    zh-cn: 有机化合物
-    zh-hans: 有机化合物
-    zh-hant: 有機化合物
-    zh-hk: 有機化合物
-    zh-sg: 有机化合物
-    zh-tw: 有機化合物
+    zh_cn: 有机化合物
+    zh_hans: 有机化合物
+    zh_hant: 有機化合物
+    zh_hk: 有機化合物
+    zh_sg: 有机化合物
+    zh_tw: 有機化合物
 ---
 # [[Organic_Compound]] 
 

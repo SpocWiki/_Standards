@@ -191,7 +191,7 @@ dv_has_:
     bar: Andn
     bcl: Andes
     be: Анды
-    be-tarask: Анды
+    be_tarask: Анды
     bg: Анди
     bho: एंडीज
     bn: আন্দিজ পর্বতমালা
@@ -211,8 +211,8 @@ dv_has_:
     dty: एन्डिज
     el: Άνδεις
     en: Andes
-    en-ca: Andes
-    en-gb: Andes
+    en_ca: Andes
+    en_gb: Andes
     en-us: Andes
     eo: Andoj
     es: Cordillera de Los Andes
@@ -286,7 +286,7 @@ dv_has_:
     nan: Andes Soaⁿ-me̍h
     nb: Andes
     nds: Anden
-    nds-nl: Andes
+    nds_nl: Andes
     ne: एन्डिज
     new: एन्डेज
     nl: Andes
@@ -301,7 +301,7 @@ dv_has_:
     pms: Ande
     pnb: انڈیز
     pt: Andes
-    pt-br: Cordilheira dos Andes
+    pt_br: Cordilheira dos Andes
     qu: Antikuna
     ro: Anzii
     roa-tara: Ande
@@ -348,11 +348,11 @@ dv_has_:
     yue: 安第斯山脈
     zgh: ⵉⴷⵓⵔⴰⵔ ⵏ ⴰⵏⴷⵉⵣ
     zh: 安地斯山脈
-    zh-cn: 安第斯山脉
-    zh-hans: 安第斯山脉
-    zh-hant: 安地斯山脈
-    zh-hk: 安第斯山脈
-    zh-tw: 安地斯山脈
+    zh_cn: 安第斯山脉
+    zh_hans: 安第斯山脉
+    zh_hant: 安地斯山脈
+    zh_hk: 安第斯山脈
+    zh_tw: 安地斯山脈
 ---
 # [[Andes]] 
 

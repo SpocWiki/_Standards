@@ -129,7 +129,7 @@ dv_has_:
     ban: Mont-Saint-Michel
     bar: Le Mont-Saint-Michel
     be: Мон-Сен-Мішэль
-    be-tarask: Мон-Сэн-Мішэль
+    be_tarask: Мон-Сэн-Мішэль
     bg: Мон Сен Мишел
     bm: Le Mont-Saint-Michel
     br: Menez Mikael ar Mor
@@ -144,12 +144,12 @@ dv_has_:
     da: Mont Saint-Michel
     de: Le Mont-Saint-Michel
     de-at: Le Mont-Saint-Michel
-    de-ch: Le Mont-Saint-Michel
+    de_ch: Le Mont-Saint-Michel
     diq: Mont Saint-Michel
     el: Μον-Σαιν-Μισέλ
     en: Le Mont Saint-Michel
-    en-ca: Mont Saint-Michel
-    en-gb: Le Mont-Saint-Michel
+    en_ca: Mont Saint-Michel
+    en_gb: Le Mont-Saint-Michel
     en-us: Le Mont Saint-Michel
     eo: Monto Sankta Mikaelo
     es: Monte Saint-Michel
@@ -205,7 +205,7 @@ dv_has_:
     nap: Le Mont-Saint-Michel
     nb: Mont-Saint-Michel
     nds: Le Mont-Saint-Michel
-    nds-nl: Le Mont-Saint-Michel
+    nds_nl: Le Mont-Saint-Michel
     nl: Le Mont-Saint-Michel
     nn: Mont Saint-Michel
     nrm: Mont Saint Miché
@@ -217,7 +217,7 @@ dv_has_:
     pnb: ماؤنٹ سینٹ مائیکل
     prg: Le Mont-Saint-Michel
     pt: Monte Saint-Michel
-    pt-br: Monte Saint-Michel
+    pt_br: Monte Saint-Michel
     rgn: Le Mont-Saint-Michel
     rm: Le Mont-Saint-Michel
     ro: Mont Saint-Michel
@@ -230,7 +230,7 @@ dv_has_:
     sl: Mont Saint-Michel
     sq: Le Mont Saint-Michel
     sr: Мон Сен Мишел
-    sr-el: Le Mont-Saint-Michel
+    sr_el: Le Mont-Saint-Michel
     sv: Le Mont-Saint-Michel
     sw: Le Mont-Saint-Michel
     ta: புனித மிக்கேல் மலை
@@ -251,9 +251,9 @@ dv_has_:
     xmf: მონ-სენ-მიშელი
     yue: 勒蒙聖米歇爾
     zh: 勒蒙-圣米歇尔
-    zh-cn: 勒蒙-圣米歇尔
-    zh-hans: 勒蒙-圣米歇尔
-    zh-hant: 勒蒙-聖米歇爾
+    zh_cn: 勒蒙-圣米歇尔
+    zh_hans: 勒蒙-圣米歇尔
+    zh_hant: 勒蒙-聖米歇爾
     zu: Le Mont-Saint-Michel
 ---
 # [[Mont_Saint-Michel]]

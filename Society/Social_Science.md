@@ -215,7 +215,7 @@ dv_has_:
     bar: Sozialwissnschåft
     bcl: Siyensyang pangsosyedad
     be: грамадскія навукі
-    be-tarask: грамадзкія навукі
+    be_tarask: грамадзкія навукі
     bg: Обществени науки
     bho: सामाजिक बिज्ञान
     bn: সামাজিক বিজ্ঞান
@@ -232,8 +232,8 @@ dv_has_:
     de: Sozialwissenschaft
     el: κοινωνικές επιστήμες
     en: social science
-    en-ca: Social science
-    en-gb: social science
+    en_ca: Social science
+    en_gb: social science
     eo: socia scienco
     es: ciencias sociales
     et: sotsiaalteadused
@@ -276,7 +276,7 @@ dv_has_:
     kn: ಸಮಾಜ ವಿಜ್ಞಾನ
     ko: 사회과학
     ku: Zanistên civakî
-    ku-latn: civaknasî
+    ku_latn: civaknasî
     la: scientia socialis
     lad: sensias sosiales
     lb: Sozialwëssenschaft
@@ -295,7 +295,7 @@ dv_has_:
     mn: Нийгмийн шинжлэх ухаан
     mr: सामाजिक शास्त्र
     ms: sains sosial
-    ms-arab: ساءينس سوسيال
+    ms_arab: ساءينس سوسيال
     mt: xjenzi soċjali
     mwl: Ciéncias Sociales
     my: လူမှုသိပ္ပံ
@@ -303,7 +303,7 @@ dv_has_:
     mzn: علوم اجتماعی
     nan: Siā-hoē kho-ha̍k
     nb: samfunnsvitenskap
-    nds-nl: sociaole wetenschop
+    nds_nl: sociaole wetenschop
     ne: समाजिक विज्ञान
     new: सामाजिक विज्ञान
     nl: sociale wetenschappen
@@ -318,7 +318,7 @@ dv_has_:
     pms: Siense sociaj
     ps: ټولنيزې پوهنې
     pt: ciências sociais
-    pt-br: ciências sociais
+    pt_br: ciências sociais
     qu: Runa kawsaykamay
     ro: științe sociale
     ru: общественные науки
@@ -339,21 +339,21 @@ dv_has_:
     so: Cilmiga bulshada
     sq: shkencë shoqërore
     sr: друштвене науке
-    sr-ec: друштвене науке
-    sr-el: Društvene nauke
+    sr_ec: друштвене науке
+    sr_el: Društvene nauke
     sv: samhällsvetenskap
     sw: Sayansi ya Jamii
     ta: சமூக அறிவியல்
     te: సాంఘిక శాస్త్రం
     tg: улуми иҷтимоӣ
-    tg-cyrl: улуми иҷтимоӣ
+    tg_cyrl: улуми иҷтимоӣ
     th: สังคมศาสตร์
     tl: Agham panlipunan
     tly: Sosial elmon
     tr: sosyal bilimler
     ts: Sayensi ya mahanyele
     tt: иҗтимагый фәннәр
-    tt-cyrl: иҗтимагый фәннәр
+    tt_cyrl: иҗтимагый фәннәр
     uk: суспільні науки
     ur: معاشرتی علوم
     uz: Ijtimoiy fanlar
@@ -368,14 +368,14 @@ dv_has_:
     yue: 社會科學
     zgh: ⵜⵉⵎⴰⵙⵙⴰⵏⵉⵏ ⵜⵉⵏⴰⵎⵓⵏⵉⵏ
     zh: 社會科學
-    zh-cn: 社会科学
-    zh-hans: 社会科学
-    zh-hant: 社會科學
-    zh-hk: 社會科學
-    zh-mo: 社會科學
+    zh_cn: 社会科学
+    zh_hans: 社会科学
+    zh_hant: 社會科學
+    zh_hk: 社會科學
+    zh_mo: 社會科學
     zh-my: 社会科学
-    zh-sg: 社会科学
-    zh-tw: 社會科學
+    zh_sg: 社会科学
+    zh_tw: 社會科學
 ---
 # [[Social_Science]] 
 

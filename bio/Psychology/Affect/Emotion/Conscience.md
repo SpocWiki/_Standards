@@ -109,7 +109,7 @@ dv_has_:
     ast: conciencia
     az: bulunc
     be: сумленне
-    be-tarask: сумленьне
+    be_tarask: сумленьне
     bg: съвест
     bn: বিবেক
     bs: savjest
@@ -162,7 +162,7 @@ dv_has_:
     pl: sumienie
     pnb: ضمیر
     pt: consciência
-    pt-br: consciência
+    pt_br: consciência
     ro: conștiință
     ru: совесть
     rue: совѣсть
@@ -179,7 +179,7 @@ dv_has_:
     ta: மனச்சான்று
     te: మనస్సాక్షి
     tg: вичдон
-    tg-latn: vicdon
+    tg_latn: vicdon
     th: มโนธรรม
     tl: budhi
     tr: vicdan
@@ -193,12 +193,12 @@ dv_has_:
     yi: געוויסן
     yue: 良心
     zh: 良心
-    zh-cn: 良心
-    zh-hans: 良心
-    zh-hant: 良心
-    zh-hk: 良心
-    zh-sg: 良心
-    zh-tw: 良心
+    zh_cn: 良心
+    zh_hans: 良心
+    zh_hant: 良心
+    zh_hk: 良心
+    zh_sg: 良心
+    zh_tw: 良心
 ---
 # [[Conscience]] 
 

@@ -128,7 +128,7 @@ dv_has_:
     azb: کنوت هامسون
     ba: Кнут Гамсун
     be: Кнут Гамсун
-    be-tarask: Кнут Гамсун
+    be_tarask: Кнут Гамсун
     bg: Кнут Хамсун
     bn: নাট হামসুন
     br: Knut Hamsun
@@ -198,7 +198,7 @@ dv_has_:
     pl: Knut Hamsun
     pnb: کنٹ ہامسن
     pt: Knut Hamsun
-    pt-br: Knut Hamsun
+    pt_br: Knut Hamsun
     qu: Knut Hamsun
     ro: Knut Hamsun
     ru: Кнут Гамсун
@@ -212,7 +212,7 @@ dv_has_:
     smj: Knut Hamsun
     sq: Knut Hamsun
     sr: Кнут Хамсун
-    sr-ec: Кнут Хамсун
+    sr_ec: Кнут Хамсун
     sv: Knut Hamsun
     sw: Knut Hamsun
     tg: Кнут Ҳомсун
@@ -231,7 +231,7 @@ dv_has_:
     yo: Knut Hamsun
     yue: 克努特漢姆生
     zh: 克努特·汉姆生
-    zh-hant: 克努特·漢森
+    zh_hant: 克努特·漢森
 ---
 # [[Hamsun,Knut]] 
 

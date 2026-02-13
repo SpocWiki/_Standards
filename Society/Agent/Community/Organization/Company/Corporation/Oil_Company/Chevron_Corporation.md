@@ -117,7 +117,7 @@ dv_has_:
     az: Şevron Korporasiyası
     azb: شورون
     ba: Chevron
-    be-tarask: Chevron
+    be_tarask: Chevron
     bg: Шеврон корпорейшън
     ca: Chevron Corporation
     cs: Chevron
@@ -177,14 +177,14 @@ dv_has_:
     yo: Chevron
     yue: 雪佛龍
     zh: 雪佛龍股份有限公司
-    zh-cn: 雪佛龙股份有限公司
-    zh-hans: 雪佛龙股份有限公司
-    zh-hant: 雪佛龍股份有限公司
-    zh-hk: 雪佛龍股份有限公司
-    zh-mo: 雪佛龍股份有限公司
+    zh_cn: 雪佛龙股份有限公司
+    zh_hans: 雪佛龙股份有限公司
+    zh_hant: 雪佛龍股份有限公司
+    zh_hk: 雪佛龍股份有限公司
+    zh_mo: 雪佛龍股份有限公司
     zh-my: 雪佛龙股份有限公司
-    zh-sg: 雪佛龙股份有限公司
-    zh-tw: 雪佛龍股份有限公司
+    zh_sg: 雪佛龙股份有限公司
+    zh_tw: 雪佛龍股份有限公司
 ---
 # [[Chevron_Corporation]] 
 

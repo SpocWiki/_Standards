@@ -160,7 +160,7 @@ dv_has_:
     ba: Фекерләү
     bar: Denga
     be: мысленне
-    be-tarask: мысьленьне
+    be_tarask: мысьленьне
     bg: Мислене
     bn: চিন্তা
     bs: misao
@@ -174,12 +174,12 @@ dv_has_:
     cy: meddyliau
     da: tænkning
     de: Denken
-    de-ch: Denken
+    de_ch: Denken
     diq: Fıkri
     el: Σκέψη
     en: thought
-    en-ca: Thought
-    en-gb: thought
+    en_ca: Thought
+    en_gb: thought
     eo: pensado
     es: pensamiento
     et: mõtlemine
@@ -256,7 +256,7 @@ dv_has_:
     pnb: سوچ
     ps: آند
     pt: pensamento
-    pt-br: Pensamento
+    pt_br: Pensamento
     qu: Yuyaychakuy
     ro: Gândire
     ru: мышление
@@ -284,7 +284,7 @@ dv_has_:
     tr: düşünce
     ts: Mi anakanyo
     tt: уй
-    tt-cyrl: уй
+    tt_cyrl: уй
     udm: малпан
     uk: мислення
     ur: خیال
@@ -298,8 +298,8 @@ dv_has_:
     yue: 思維
     za: Swhsiengj
     zh: 思维
-    zh-hant: 思想
-    zh-tw: 思想
+    zh_hant: 思想
+    zh_tw: 思想
 ---
 ## #has_/text_of_/abstract 
 

@@ -156,7 +156,7 @@ dv_has_:
     azb: آدام ایسمیت
     ba: Адам Смит
     be: Адам Сміт
-    be-tarask: Адам Сьміт
+    be_tarask: Адам Сьміт
     bg: Адам Смит
     bho: एडम स्मिथ
     bn: অ্যাডাম স্মিথ
@@ -173,13 +173,13 @@ dv_has_:
     cy: Adam Smith
     da: Adam Smith
     de: Adam Smith
-    de-ch: Adam Smith
+    de_ch: Adam Smith
     diq: Adam Smith
     dty: एडम स्मिथ
     el: Άνταμ Σμιθ
     en: Adam Smith
-    en-ca: Adam Smith
-    en-gb: Adam Smith
+    en_ca: Adam Smith
+    en_gb: Adam Smith
     en-us: Adam Smith
     eo: Adam Smith
     es: Adam Smith
@@ -311,10 +311,10 @@ dv_has_:
     yo: Adam Smith
     yue: 亞當史密夫
     zh: 亚当·斯密
-    zh-cn: 亚当·斯密
-    zh-hans: 亚当·斯密
-    zh-hant: 亞當·斯密
-    zh-tw: 亞當·斯密
+    zh_cn: 亚当·斯密
+    zh_hans: 亚当·斯密
+    zh_hant: 亞當·斯密
+    zh_tw: 亞當·斯密
 ---
 # [[Smith,Adam]] 
 

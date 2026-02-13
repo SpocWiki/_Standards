@@ -66,7 +66,7 @@ dv_has_:
     ab: Нигериа
     ace: Nigeria
     ady: Нигерие
-    aeb-arab: نيجيريا
+    aeb_arab: نيجيريا
     af: Nigerië
     am: ናይጄሪያ
     ami: Nigeria
@@ -90,7 +90,7 @@ dv_has_:
     bbc: Nigeria
     bcl: Nigerya
     be: Нігерыя
-    be-tarask: Нігерыя
+    be_tarask: Нігерыя
     bew: Nigéria
     bg: Нигерия
     bho: नाइजीरिया
@@ -105,7 +105,7 @@ dv_has_:
     btm: Nigeria
     bxr: Нигери
     ca: Nigèria
-    cbk-zam: Nigeria
+    cbk_zam: Nigeria
     cdo: Nigeria
     ce: Нигери
     ceb: Niherya
@@ -113,7 +113,7 @@ dv_has_:
     ckb: نێجیریا
     co: Nigeria
     crh: Nigeriya
-    crh-latn: Nigeriya
+    crh_latn: Nigeriya
     cs: Nigérie
     cv: Нигери
     cy: Nigeria
@@ -121,7 +121,7 @@ dv_has_:
     dag: Nigeria
     de: Nigeria
     de-at: Nigeria
-    de-ch: Nigeria
+    de_ch: Nigeria
     din: Naijeria
     diq: Nicerya
     dsb: Nigerija
@@ -130,8 +130,8 @@ dv_has_:
     ee: Naidzeria
     el: Νιγηρία
     en: Nigeria
-    en-ca: Nigeria
-    en-gb: Nigeria
+    en_ca: Nigeria
+    en_gb: Nigeria
     en-us: Nigeria
     eo: Niĝerio
     es: Nigeria
@@ -225,7 +225,7 @@ dv_has_:
     lv: Nigērija
     lzh: 尼日利亞
     mad: Nigeria
-    map-bms: Nigeria
+    map_bms: Nigeria
     mdf: Нигэрия
     mg: Nizeria
     mhr: Нигерий
@@ -239,7 +239,7 @@ dv_has_:
     mr: नायजेरिया
     mrj: Нигери
     ms: Nigeria
-    ms-arab: نايجيريا
+    ms_arab: نايجيريا
     mt: Niġerja
     mwl: Nigéria
     my: နိုင်ဂျီးရီးယားနိုင်ငံ
@@ -250,7 +250,7 @@ dv_has_:
     nan: Nigeria
     nb: Nigeria
     nds: Nigeria
-    nds-nl: Nigeria
+    nds_nl: Nigeria
     ne: नाइजेरिया
     new: नाइजेरिया
     nl: Nigeria
@@ -277,7 +277,7 @@ dv_has_:
     pnb: نائیجیریا
     ps: نايجېريا
     pt: Nigéria
-    pt-br: Nigéria
+    pt_br: Nigéria
     pwn: INigeria
     qu: Niqirya
     rki: နိုင်ဂျီးရီးယားနိုင်ငံ
@@ -311,8 +311,8 @@ dv_has_:
     so: Nayjeeriya
     sq: Nigeria
     sr: Нигерија
-    sr-ec: Нигерија
-    sr-el: Nigerija
+    sr_ec: Нигерија
+    sr_el: Nigerija
     srn: Nigeria
     ss: INayijeriya
     st: Nigeria
@@ -328,7 +328,7 @@ dv_has_:
     te: నైజీరియా
     tet: Nijéria
     tg: Нигерия
-    tg-latn: Nigeriya
+    tg_latn: Nigeriya
     th: ประเทศไนจีเรีย
     ti: ናይጂሪያ
     tk: Nigeriýa
@@ -367,12 +367,12 @@ dv_has_:
     zea: Niheria
     zgh: ⵏⵉⵊⵉⵔⵢⴰ
     zh: 奈及利亞
-    zh-cn: 尼日利亚
-    zh-hans: 尼日利亚
-    zh-hant: 奈及利亞
-    zh-hk: 尼日利亞
-    zh-sg: 尼日利亚
-    zh-tw: 奈及利亞
+    zh_cn: 尼日利亚
+    zh_hans: 尼日利亚
+    zh_hant: 奈及利亞
+    zh_hk: 尼日利亞
+    zh_sg: 尼日利亚
+    zh_tw: 奈及利亞
     zu: INigeria
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Nigeria

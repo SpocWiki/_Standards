@@ -142,7 +142,7 @@ dv_has_:
     bar: Heterosexualität
     bcl: Heterosekswalidad
     be: гетэрасексуальнасць
-    be-tarask: гетэрасэксуальнасьць
+    be_tarask: гетэрасэксуальнасьць
     bg: Хетеросексуалност
     bn: বিপরীতকামিতা
     br: Arallrevelezh
@@ -157,7 +157,7 @@ dv_has_:
     el: ετεροφυλοφιλία
     eml: eterosesuêl
     en: heterosexuality
-    en-gb: heterosexuality
+    en_gb: heterosexuality
     eo: aliseksemo
     es: heterosexualidad
     et: heteroseksuaalsus
@@ -219,7 +219,7 @@ dv_has_:
     pl: heteroseksualność
     pms: eterossessualità
     pt: heterossexualidade
-    pt-br: heterossexual
+    pt_br: heterossexual
     rm: eterosexualitad
     ro: oameni normali
     ru: гетеросексуальность
@@ -234,7 +234,7 @@ dv_has_:
     sms: heteroseksuaal’lažvuõtt
     sq: Heteroseksualiteti
     sr: хетеросексуалност
-    sr-ec: хетеросексуалност
+    sr_ec: хетеросексуалност
     sv: heterosexualitet
     ta: எதிர்பால்சேர்க்கை
     tg: Гетеро
@@ -252,8 +252,8 @@ dv_has_:
     yi: העטראסעקסואליטעט
     yue: 異性戀
     zh: 异性恋
-    zh-hant: 異性戀
-    zh-tw: 異性戀
+    zh_hant: 異性戀
+    zh_tw: 異性戀
 ---
 # [[Heterosexuality]] 
 

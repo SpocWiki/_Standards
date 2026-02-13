@@ -100,7 +100,7 @@ dv_has_:
     azb: مدنی توپلوم
     ba: Граждандар йәмғиәте
     be: грамадзянская супольнасць
-    be-tarask: грамадзянская супольнасьць
+    be_tarask: грамадзянская супольнасьць
     bg: гражданско общество
     bn: সুশীল সমাজ
     bo: དམངས་ཀྱི་སྤྱི་ཚོགས་
@@ -133,11 +133,11 @@ dv_has_:
     ka: სამოქალაქო საზოგადოება
     kaa: Puqaralıq jámiyet
     kk: Азаматтық қоғам
-    kk-arab: ازاماتتىق قوعام
+    kk_arab: ازاماتتىق قوعام
     kk-cn: ازاماتتىق قوعام
-    kk-cyrl: Азаматтық қоғам
+    kk_cyrl: Азаматтық қоғам
     kk-kz: Азаматтық қоғам
-    kk-latn: Azamattıq qoğam
+    kk_latn: Azamattıq qoğam
     kk-tr: Azamattıq qoğam
     km: សង្គមស៊ីវិល
     ko: 시민 사회
@@ -163,8 +163,8 @@ dv_has_:
     sl: civilna družba
     sq: Shoqëria Civile
     sr: грађанско друштво
-    sr-ec: грађанско друштво
-    sr-el: Građansko društvo
+    sr_ec: грађанско друштво
+    sr_el: Građansko društvo
     sv: civilsamhället
     tg: Ҷомеаи шаҳрвандӣ
     th: ประชาสังคม
@@ -180,12 +180,12 @@ dv_has_:
     yue: 公民社會
     zgh: ⴰⵎⵓⵏ ⴰⵖⴰⵔⵉⵎ
     zh: 公民社会
-    zh-cn: 公民社会
-    zh-hans: 公民社会
-    zh-hant: 公民社會
-    zh-hk: 公民社會
-    zh-sg: 公民社会
-    zh-tw: 公民社會
+    zh_cn: 公民社会
+    zh_hans: 公民社会
+    zh_hant: 公民社會
+    zh_hk: 公民社會
+    zh_sg: 公民社会
+    zh_tw: 公民社會
 ---
 # [[Civil_Society]] 
 

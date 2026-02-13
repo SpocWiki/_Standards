@@ -120,8 +120,8 @@ dv_has_:
     ko: 외향성과 내향성
     ks: ٹاس پٹأسؠ تہٕ أنٛدرٕ ہۆمَل
     ku: Întroversiyon
-    ku-arab: ئینترۆڤەرسیۆن
-    ku-latn: Întroversiyon
+    ku_arab: ئینترۆڤەرسیۆن
+    ku_latn: Întroversiyon
     lt: Asmenybės tipas
     ml: അന്തർമുഖത
     mzn: برونگرا
@@ -133,8 +133,8 @@ dv_has_:
     ru: Интроверсия — экстраверсия
     sl: ekstravertnost in introvertnost
     sr: Екстраверзија и интроверзија
-    sr-ec: Екстраверзија и интроверзија
-    sr-el: Ekstraverzija i introverzija
+    sr_ec: Екстраверзија и интроверзија
+    sr_el: Ekstraverzija i introverzija
     sv: Extraversion och introversion
     sw: Silika kadiri ya C. G. Jung
     ta: அகமுகம் புறமுகம்
@@ -148,12 +148,12 @@ dv_has_:
     vi: Hướng nội và hướng ngoại
     yue: 外向度同內向度
     zh: 外向性与内向性
-    zh-cn: 外向性与内向性
-    zh-hans: 外向性与内向性
-    zh-hant: 外向性與內向性
-    zh-hk: 外向性與內向性
-    zh-sg: 外向性与内向性
-    zh-tw: 外向性與內向性
+    zh_cn: 外向性与内向性
+    zh_hans: 外向性与内向性
+    zh_hant: 外向性與內向性
+    zh_hk: 外向性與內向性
+    zh_sg: 外向性与内向性
+    zh_tw: 外向性與內向性
 ---
 # [[Big5~X-Extraversion]] 
 

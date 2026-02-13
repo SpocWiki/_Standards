@@ -67,7 +67,7 @@ dv_has_:
     ab: Сомали
     ace: Somalia
     ady: Сомали
-    aeb-arab: الصومال
+    aeb_arab: الصومال
     af: Somalië
     am: ሶማሊያ
     ami: Somalia
@@ -89,7 +89,7 @@ dv_has_:
     bar: Somalia
     bcl: Somalya
     be: Самалі
-    be-tarask: Самалі
+    be_tarask: Самалі
     bew: Somali
     bg: Сомалия
     bgn: سومالیا
@@ -104,7 +104,7 @@ dv_has_:
     bs: Somalija
     bxr: Сомали
     ca: Somàlia
-    cbk-zam: Somalia
+    cbk_zam: Somalia
     cdo: Somalia
     ce: Сомали
     ceb: Somalia
@@ -112,14 +112,14 @@ dv_has_:
     ckb: سۆماڵیا
     co: Somalia
     crh: Somaliya
-    crh-latn: Somaliya
+    crh_latn: Somaliya
     cs: Somálsko
     cy: Somalia
     da: Somalia
     dag: Somalia
     de: Somalia
     de-at: Somalia
-    de-ch: Somalia
+    de_ch: Somalia
     din: Thomalia
     diq: Somalya
     dsb: Somalija
@@ -128,8 +128,8 @@ dv_has_:
     ee: Somalia
     el: Σομαλία
     en: Somalia
-    en-ca: Somalia
-    en-gb: Somalia
+    en_ca: Somalia
+    en_gb: Somalia
     en-us: Somalia
     eo: Somalio
     es: Somalia
@@ -236,7 +236,7 @@ dv_has_:
     nan: Somalia
     nb: Somalia
     nds: Somalia
-    nds-nl: Somalie
+    nds_nl: Somalie
     ne: सोमालिया
     new: सोमालिया
     nl: Somalië
@@ -261,7 +261,7 @@ dv_has_:
     pnb: صومالیا
     ps: سوماليا
     pt: Somália
-    pt-br: Somália
+    pt_br: Somália
     qu: Sumalya
     rm: Somalia
     rmy: Somaliya
@@ -291,8 +291,8 @@ dv_has_:
     so: Soomaaliya
     sq: Somalia
     sr: Сомалија
-    sr-ec: Сомалија
-    sr-el: Somalija
+    sr_ec: Сомалија
+    sr_el: Somalija
     ss: ISomaliya
     st: Somalia
     stq: Somalia
@@ -340,14 +340,14 @@ dv_has_:
     zea: Somaolië
     zgh: ⵚⵓⵎⴰⵍⵢⴰ
     zh: 索馬里
-    zh-cn: 索马里
-    zh-hans: 索马里
-    zh-hant: 索馬利亞
-    zh-hk: 索馬里
-    zh-mo: 索马里
+    zh_cn: 索马里
+    zh_hans: 索马里
+    zh_hant: 索馬利亞
+    zh_hk: 索馬里
+    zh_mo: 索马里
     zh-my: 索马里
-    zh-sg: 索马里
-    zh-tw: 索馬利亞
+    zh_sg: 索马里
+    zh_tw: 索馬利亞
     zu: ISomalia
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Reunion

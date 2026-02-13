@@ -180,7 +180,7 @@ dv_has_:
     bbj: blək
     bcl: keyk
     be: пірожнае
-    be-tarask: пірожнае
+    be_tarask: пірожнае
     bg: кейк
     bjn: kelembén
     bkc: mapa na ngbu
@@ -199,12 +199,12 @@ dv_has_:
     cy: teisen
     da: kage
     de: Kuchen
-    de-ch: Kuchen
+    de_ch: Kuchen
     din: kek
     el: κέικ
     en: cake
-    en-ca: cake
-    en-gb: cake
+    en_ca: cake
+    en_gb: cake
     eo: kuko
     es: pastel
     et: kook
@@ -274,7 +274,7 @@ dv_has_:
     pcd: watieu
     pl: ciasto
     pt: bolo
-    pt-br: bolo
+    pt_br: bolo
     qu: pastil
     ro: tort
     ru: пирожное
@@ -289,8 +289,8 @@ dv_has_:
     sli: Kucha
     sq: tortë
     sr: торта
-    sr-ec: торта
-    sr-el: torta
+    sr_ec: торта
+    sr_el: torta
     su: bolu
     sv: kaka
     sw: keki
@@ -318,8 +318,8 @@ dv_has_:
     yi: קוכן
     yue: 蛋糕
     zh: 蛋糕
-    zh-hant: 蛋糕
-    zh-tw: 蛋糕
+    zh_hant: 蛋糕
+    zh_tw: 蛋糕
 ---
 # [[Cake]] 🍰 
 

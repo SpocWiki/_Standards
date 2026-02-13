@@ -175,7 +175,7 @@ dv_has_:
     ba: Джон Мейнард Кейнс
     bar: John Maynard Keynes
     be: Джон Мейнард Кейнс
-    be-tarask: Джон Мэйнард Кейнз
+    be_tarask: Джон Мэйнард Кейнз
     bg: Джон Мейнард Кейнс
     bho: जॉन मेनार्ड कीन्स
     bi: John Maynard Keynes
@@ -195,7 +195,7 @@ dv_has_:
     da: Victor Aadal
     de: John Maynard Keynes
     de-at: John Maynard Keynes
-    de-ch: John Maynard Keynes
+    de_ch: John Maynard Keynes
     diq: John Maynard Keynes
     dsb: John Maynard Keynes
     ee: John Maynard Keynes
@@ -203,8 +203,8 @@ dv_has_:
     el: Τζων Κέυνς
     eml: John Maynard Keynes
     en: John Maynard Keynes
-    en-ca: John Maynard Keynes
-    en-gb: John Maynard Keynes
+    en_ca: John Maynard Keynes
+    en_gb: John Maynard Keynes
     en-us: John Maynard Keynes
     eo: John Maynard Keynes
     es: John Maynard Keynes
@@ -266,7 +266,7 @@ dv_has_:
     lo: ຈອນ ເມນາດ ເຄນ
     lt: John Maynard Keynes
     lv: Džons Meinards Keinss
-    map-bms: John Maynard Keynes
+    map_bms: John Maynard Keynes
     mg: John Maynard Keynes
     min: John Maynard Keynes
     mk: Џон Мејнард Кејнс
@@ -281,7 +281,7 @@ dv_has_:
     nap: John Maynard Keynes
     nb: John Maynard Keynes
     nds: John Maynard Keynes
-    nds-nl: John Maynard Keynes
+    nds_nl: John Maynard Keynes
     ne: जन मेनार्ड कीन्स
     new: जोन् मेनार्ड कीन्स्
     nl: John Maynard Keynes
@@ -303,7 +303,7 @@ dv_has_:
     pnb: جان مینارڈ کینز
     ps: جان مینارډ کینز
     pt: John Maynard Keynes
-    pt-br: John Maynard Keynes
+    pt_br: John Maynard Keynes
     rm: John Maynard Keynes
     rmy: John Maynard Keynes
     ro: John Maynard Keynes
@@ -326,7 +326,7 @@ dv_has_:
     sli: John Maynard Keynes
     sq: John Maynard Keynes
     sr: Џон Мејнард Кејнс
-    sr-el: John Maynard Keynes
+    sr_el: John Maynard Keynes
     stq: John Maynard Keynes
     su: John Maynard Keynes
     sv: John Maynard Keynes

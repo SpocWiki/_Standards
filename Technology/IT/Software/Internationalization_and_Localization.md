@@ -75,17 +75,17 @@ dv_has_:
     ar: تدويل وتوطين
     ast: internacionalización y llocalización
     ba: программа тәьминәтен локалләштереү
-    be-tarask: інтэрнацыяналізацыя і лякалізацыя
+    be_tarask: інтэрнацыяналізацыя і лякалізацыя
     ca: internacionalització i localització
     cs: internacionalizace a lokalizace
     cy: rhyngwladoli a lleoleiddio
     da: Internationalisering og lokalisering
     de: Internationalisierung
-    de-ch: internationalisierung
+    de_ch: internationalisierung
     el: διεθνοποίηση και τοπική προσαρμογή
     en: internationalization and localization
-    en-ca: internationalisation and localisation
-    en-gb: internationalisation and localisation
+    en_ca: internationalisation and localisation
+    en_gb: internationalisation and localisation
     en-us: internationalization and localization
     eo: internaciigo
     es: internacionalización y localización
@@ -115,7 +115,7 @@ dv_has_:
     pl: internacjonalizacja
     pms: Internassionalisassion e localisassion
     pt: Internacionalização e tradução
-    pt-br: Internacionalização e tradução
+    pt_br: Internacionalização e tradução
     ro: internaționalizare și localizare
     ru: интернационализация
     sk: internacionalizácia a lokalizácia
@@ -131,11 +131,11 @@ dv_has_:
     wuu: 國際化與本地化
     yue: 國際化同本地化
     zh: 國際化與本地化
-    zh-cn: 国际化与本地化
-    zh-hans: 国际化与本地化
-    zh-hant: 國際化與在地化
-    zh-hk: 國際化與本地化
-    zh-tw: 國際化與在地化
+    zh_cn: 国际化与本地化
+    zh_hans: 国际化与本地化
+    zh_hant: 國際化與在地化
+    zh_hk: 國際化與本地化
+    zh_tw: 國際化與在地化
 ---
 # [[Internationalization_and_Localization]] 
 

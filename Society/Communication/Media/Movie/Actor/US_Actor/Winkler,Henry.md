@@ -26,16 +26,16 @@ dv_has_:
     ast: Henry Winkler
     azb: هنری وینکلر
     bcl: Henry Winkler
-    be-tarask: Гэнры Ўінклер
+    be_tarask: Гэнры Ўінклер
     ca: Henry Winkler
     ckb: ھێنری وینکلێر
     cs: Henry Winkler
     da: Henry Winkler
     de: Henry Winkler
-    de-ch: Henry Winkler
+    de_ch: Henry Winkler
     en: Henry Winkler
-    en-ca: Henry Winkler
-    en-gb: Henry Winkler
+    en_ca: Henry Winkler
+    en_gb: Henry Winkler
     es: Henry Winkler
     et: Henry Winkler
     eu: Henry Winkler
@@ -61,7 +61,7 @@ dv_has_:
     pap: Henry Winkler
     pl: Henry Winkler
     pt: Henry Winkler
-    pt-br: Henry Winkler
+    pt_br: Henry Winkler
     ru: Генри Уинклер
     sh: Henry Winkler
     sl: Henry Winkler
@@ -75,7 +75,7 @@ dv_has_:
     vo: Henry Winkler
     yo: Henry Winkler
     zh: 亨利·温克勒
-    zh-hant: 亨利·溫克勒
+    zh_hant: 亨利·溫克勒
 ---
 #has_/time_/started :: 1945-10-30 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)`  

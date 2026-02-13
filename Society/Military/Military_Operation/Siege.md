@@ -110,7 +110,7 @@ dv_has_:
     ast: Asediu
     az: Mühasirə
     be: аблога
-    be-tarask: аблога
+    be_tarask: аблога
     bg: обсада
     br: seziz
     bs: opsada
@@ -120,11 +120,11 @@ dv_has_:
     cy: gwarchae
     da: belejring
     de: Belagerung
-    de-ch: Belagerung
+    de_ch: Belagerung
     diq: Çorşmegirewtiş
     el: πολιορκία
     en: siege
-    en-ca: siege
+    en_ca: siege
     eo: sieĝo
     es: asedio
     et: Piiramine
@@ -154,14 +154,14 @@ dv_has_:
     ms: Pengepungan
     nan: Pau-ûi-chiàn
     nb: beleiring
-    nds-nl: belegeringe
+    nds_nl: belegeringe
     nl: belegering
     nn: kringsetjing
     nqo: ߘߟߊߛߌ߯ߟߌ
     oc: Sètge
     pl: oblężenie
     pt: cerco
-    pt-br: cerco
+    pt_br: cerco
     ro: asediu militar
     ru: осада
     scn: Assèdiu
@@ -170,8 +170,8 @@ dv_has_:
     sl: obleganje
     sq: Rrethimi
     sr: опсада
-    sr-ec: опсада
-    sr-el: opsada
+    sr_ec: опсада
+    sr_el: opsada
     sv: belägring
     ta: முற்றுகை
     te: ముట్టడి
@@ -187,12 +187,12 @@ dv_has_:
     yi: באלאגערונג
     yue: 攻城戰
     zh: 攻城戰
-    zh-cn: 攻城战
-    zh-hans: 攻城战
-    zh-hant: 攻城戰
-    zh-hk: 攻城戰
-    zh-sg: 攻城战
-    zh-tw: 攻城戰
+    zh_cn: 攻城战
+    zh_hans: 攻城战
+    zh_hant: 攻城戰
+    zh_hk: 攻城戰
+    zh_sg: 攻城战
+    zh_tw: 攻城戰
 ---
 # [[Siege]] 
 

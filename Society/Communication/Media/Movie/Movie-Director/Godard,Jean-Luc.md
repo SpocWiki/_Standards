@@ -140,7 +140,7 @@ dv_has_:
     az: Jan Lyuk Qodar
     bar: Jean-Luc Godard
     be: Жан-Люк Гадар
-    be-tarask: Жан-Люк Гадар
+    be_tarask: Жан-Люк Гадар
     bg: Жан-Люк Годар
     bm: Jean-Luc Godard
     bn: জঁ-লুক গদার
@@ -153,11 +153,11 @@ dv_has_:
     da: Jean-Luc Godard
     de: Jean-Luc Godard
     de-at: Jean-Luc Godard
-    de-ch: Jean-Luc Godard
+    de_ch: Jean-Luc Godard
     el: Ζαν-Λικ Γκοντάρ
     en: Jean-Luc Godard
-    en-ca: Jean-Luc Godard
-    en-gb: Jean-Luc Godard
+    en_ca: Jean-Luc Godard
+    en_gb: Jean-Luc Godard
     eo: Jean-Luc Godard
     es: Jean-Luc Godard
     et: Jean-Luc Godard
@@ -211,7 +211,7 @@ dv_has_:
     nap: Jean-Luc Godard
     nb: Jean-Luc Godard
     nds: Jean-Luc Godard
-    nds-nl: Jean-Luc Godard
+    nds_nl: Jean-Luc Godard
     nl: Jean-Luc Godard
     nn: Jean-Luc Godard
     nrm: Jean-Luc Godard
@@ -224,7 +224,7 @@ dv_has_:
     pnb: جاں لوک گودار
     prg: Jean-Luc Godard
     pt: Jean-Luc Godard
-    pt-br: Jean-Luc Godard
+    pt_br: Jean-Luc Godard
     rgn: Jean-Luc Godard
     rm: Jean-Luc Godard
     ro: Jean-Luc Godard
@@ -237,7 +237,7 @@ dv_has_:
     sl: Jean-Luc Godard
     sq: Jean-Luc Godard
     sr: Жан-Лик Годар
-    sr-el: Jean-Luc Godard
+    sr_el: Jean-Luc Godard
     sv: Jean-Luc Godard
     sw: Jean-Luc Godard
     te: జేన్ లూక్ గొడార్డ్
@@ -255,12 +255,12 @@ dv_has_:
     wuu: 让·吕克·戈达尔
     yue: 尚盧·高達
     zh: 尚-盧·高達
-    zh-cn: 让·吕克·戈达尔
-    zh-hans: 让-吕克·戈达尔
-    zh-hk: 尚-盧·高達
+    zh_cn: 让·吕克·戈达尔
+    zh_hans: 让-吕克·戈达尔
+    zh_hk: 尚-盧·高達
     zh-my: 尚卢·高达
-    zh-sg: 尚卢·高达
-    zh-tw: 尚盧·高達
+    zh_sg: 尚卢·高达
+    zh_tw: 尚盧·高達
     zu: Jean-Luc Godard
 ---
 # [[Godard,Jean-Luc]] 

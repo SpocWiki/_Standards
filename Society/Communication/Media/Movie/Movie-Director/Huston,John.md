@@ -125,7 +125,7 @@ dv_has_:
     ast: John Huston
     azb: جان هیوستون
     be: Джон Х'юстан
-    be-tarask: Джон Г’юстан
+    be_tarask: Джон Г’юстан
     bg: Джон Хюстън
     bn: জন হিউস্টন
     bs: John Huston
@@ -135,12 +135,12 @@ dv_has_:
     cy: John Huston
     da: John Huston
     de: John Huston
-    de-ch: John Huston
+    de_ch: John Huston
     ee: John Huston
     el: Τζον Χιούστον
     en: John Huston
-    en-ca: John Huston
-    en-gb: John Huston
+    en_ca: John Huston
+    en_gb: John Huston
     eo: John Huston
     es: John Huston
     eu: John Huston
@@ -176,7 +176,7 @@ dv_has_:
     pap: John Huston
     pl: John Huston
     pt: John Huston
-    pt-br: John Huston
+    pt_br: John Huston
     qu: John Huston
     ro: John Huston
     ru: Джон Хьюстон
@@ -202,8 +202,8 @@ dv_has_:
     yo: John Huston
     yue: 約翰·休斯頓
     zh: 约翰·休斯顿
-    zh-cn: 约翰·休斯顿
-    zh-hant: 約翰·休斯頓
+    zh_cn: 约翰·休斯顿
+    zh_hant: 約翰·休斯頓
 ---
 # [[Huston,John]] 
 

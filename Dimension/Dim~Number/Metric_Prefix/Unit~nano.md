@@ -59,8 +59,8 @@ dv_has_:
     de: Nano
     el: νανο
     en: nano
-    en-ca: nano-
-    en-gb: nano-
+    en_ca: nano-
+    en_gb: nano-
     eo: nano
     es: nano
     et: nano-
@@ -95,7 +95,7 @@ dv_has_:
     ml: നാനോ-
     mr: नॅनो
     ms: nano
-    ms-arab: نانو
+    ms_arab: نانو
     my: နန်နို
     nb: nano
     nds: Nano
@@ -105,7 +105,7 @@ dv_has_:
     pl: nano
     ps: نانو
     pt: nano
-    pt-br: nano
+    pt_br: nano
     ro: nano
     ru: нано-
     rue: Нано-
@@ -116,26 +116,26 @@ dv_has_:
     sl: nano
     sq: nano
     sr: нано
-    sr-ec: нано
-    sr-el: nano
+    sr_ec: нано
+    sr_el: nano
     sv: nano
     ta: நானோ
     te: నానో-
     th: นาโน
     tr: nano
     tt: нано-
-    tt-cyrl: нано-
+    tt_cyrl: нано-
     uk: нано-
     ur: نینو
     vi: nanô
     yue: 納
     zh: 奈
-    zh-cn: 纳
-    zh-hans: 纳
-    zh-hant: 奈
-    zh-hk: 納
-    zh-sg: 纳
-    zh-tw: 奈
+    zh_cn: 纳
+    zh_hans: 纳
+    zh_hant: 奈
+    zh_hk: 納
+    zh_sg: 纳
+    zh_tw: 奈
 ---
 #is_/same_as :: [[_Standards/WikiData/WD~nano,154357]] 
 

@@ -223,7 +223,7 @@ dv_has_:
     ban: Kidung
     bcl: Rawitdawit
     be: паэзія
-    be-tarask: паэзія
+    be_tarask: паэзія
     bew: Sair
     bg: поезия
     bho: कबिता
@@ -249,14 +249,14 @@ dv_has_:
     cy: barddoniaeth
     da: poesi
     de: Dichtkunst
-    de-ch: Poesie
+    de_ch: Poesie
     diq: Şıir
     dsb: poezija
     dtp: Sisindiron
     el: ποίηση
     en: poetry
-    en-ca: Poetry
-    en-gb: poetry
+    en_ca: Poetry
+    en_gb: poetry
     en-us: poetry
     eo: poezio
     es: poesía
@@ -314,7 +314,7 @@ dv_has_:
     krc: Поэзия
     ks: شٲیِری
     ku: helbest
-    ku-latn: helbest
+    ku_latn: helbest
     kw: bardhonieth
     ky: Поэзия
     la: poësis
@@ -348,7 +348,7 @@ dv_has_:
     nan: Koa-si
     nb: poesi
     nds: Poesie
-    nds-nl: dichtkünst
+    nds_nl: dichtkünst
     ne: कविता
     new: कवितै
     nl: poëzie
@@ -369,7 +369,7 @@ dv_has_:
     pnt: Ποιητικήν
     ps: شعر
     pt: poesia
-    pt-br: poesia
+    pt_br: poesia
     qu: Harawi
     ro: poezie
     ru: поэзия
@@ -405,7 +405,7 @@ dv_has_:
     tr: şiir
     ts: VUTLHOKOVETSERI
     tt: шигърият
-    tt-cyrl: шигърият
+    tt_cyrl: шигърият
     tw: anwonsɛm
     udm: кылбурет
     ug: شېئىر
@@ -426,14 +426,14 @@ dv_has_:
     yue: 詩
     za: Sei
     zh: 詩歌
-    zh-cn: 诗歌
-    zh-hans: 诗歌
-    zh-hant: 詩歌
-    zh-hk: 詩歌
-    zh-mo: 詩歌
+    zh_cn: 诗歌
+    zh_hans: 诗歌
+    zh_hant: 詩歌
+    zh_hk: 詩歌
+    zh_mo: 詩歌
     zh-my: 诗歌
-    zh-sg: 诗歌
-    zh-tw: 詩歌
+    zh_sg: 诗歌
+    zh_tw: 詩歌
     zu: Inkondlo
 ---
 # [[Poetry]] 

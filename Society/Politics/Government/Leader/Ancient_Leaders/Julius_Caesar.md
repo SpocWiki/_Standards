@@ -319,7 +319,7 @@ dv_has_:
     azb: ژولیوس سزار
     ba: Юлий Цезарь
     be: Гай Юлій Цэзар
-    be-tarask: Гай Юліюс Цэзар
+    be_tarask: Гай Юліюс Цэзар
     bew: Julius Kaèsar
     bg: Юлий Цезар
     bho: जूलियस सिजर
@@ -339,7 +339,7 @@ dv_has_:
     cy: Iŵl Cesar
     da: Julius Cæsar
     de: Gaius Iulius Caesar
-    de-ch: Gaius Iulius Caesar
+    de_ch: Gaius Iulius Caesar
     diq: Caesar
     el: Ιούλιος Καίσαρ
     en: Julius Caesar
@@ -476,11 +476,11 @@ dv_has_:
     za: Gaejsa
     zgh: ⵢⵓⵍⵢⵓⵙ ⵇⴰⵢⵚⴰⵕ
     zh: 凯撒
-    zh-cn: 凯撒
-    zh-hans: 凯撒
-    zh-hant: 凱撒
-    zh-hk: 凱撒
-    zh-tw: 凱撒
+    zh_cn: 凯撒
+    zh_hans: 凯撒
+    zh_hant: 凱撒
+    zh_hk: 凱撒
+    zh_tw: 凱撒
 ---
 # [[Julius_Caesar]] 
 

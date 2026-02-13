@@ -14,7 +14,7 @@ dv_has_:
     ba: IKEA
     bcl: IKEA
     be: IKEA
-    be-tarask: IKEA
+    be_tarask: IKEA
     bg: ИКЕА
     br: Ikea
     bs: Ikea
@@ -23,11 +23,11 @@ dv_has_:
     cy: IKEA
     da: IKEA
     de: IKEA
-    de-ch: IKEA
+    de_ch: IKEA
     el: IKEA
     en: IKEA
-    en-ca: IKEA
-    en-gb: IKEA
+    en_ca: IKEA
+    en_gb: IKEA
     eo: IKEA
     es: IKEA
     et: IKEA
@@ -75,7 +75,7 @@ dv_has_:
     pl: IKEA
     pms: Ikea
     pt: IKEA
-    pt-br: IKEA
+    pt_br: IKEA
     qu: IKEA
     ro: IKEA
     ru: IKEA
@@ -106,14 +106,14 @@ dv_has_:
     wuu: 艾奇亚
     yue: 宜家家居
     zh: 宜家家居
-    zh-cn: 宜家家居
-    zh-hans: 宜家家居
-    zh-hant: 宜家家居
-    zh-hk: 宜家家居
-    zh-mo: 宜家家居
+    zh_cn: 宜家家居
+    zh_hans: 宜家家居
+    zh_hant: 宜家家居
+    zh_hk: 宜家家居
+    zh_mo: 宜家家居
     zh-my: 宜家家居
-    zh-sg: 宜家家居
-    zh-tw: 宜家家居
+    zh_sg: 宜家家居
+    zh_tw: 宜家家居
 aliases:
 - IKEA
 - İkea

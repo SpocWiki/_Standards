@@ -257,7 +257,7 @@ dv_has_:
     bar: Fernsehn
     bcl: telebisyon
     be: тэлебачанне
-    be-tarask: тэлебачаньне
+    be_tarask: тэлебачаньне
     bew: Tipi
     bg: телевизия
     bho: टेलीविजन
@@ -273,7 +273,7 @@ dv_has_:
     ckb: تەلەڤیزیۆن
     co: televisione
     crh: telekörüv
-    crh-latn: telekörüv
+    crh_latn: telekörüv
     cs: televize
     csb: telewizëjô
     cv: телекурăм
@@ -281,14 +281,14 @@ dv_has_:
     da: fjernsyn
     dag: ninliha kpanjɔɣu
     de: Fernsehen
-    de-ch: Fernsehen
+    de_ch: Fernsehen
     dga: sinii
     din: atoockïït
     diq: têlevizyon
     el: τηλεόραση
     eml: televisiån
     en: television
-    en-gb: television
+    en_gb: television
     eo: televido
     es: televisión
     et: televisioon
@@ -362,7 +362,7 @@ dv_has_:
     lv: televīzija
     lzh: 電視
     mai: टेलिभिजन
-    map-bms: televisi
+    map_bms: televisi
     mg: televiziona
     min: televisi
     mk: телевизија
@@ -370,7 +370,7 @@ dv_has_:
     mn: телевиз
     mr: दूरचित्रवाणी
     ms: televisyen
-    ms-arab: تيليۏيشن
+    ms_arab: تيليۏيشن
     mwl: telbison
     my: တယ်လီဗစ်ရှင်း
     mzn: تیلوزیون
@@ -378,7 +378,7 @@ dv_has_:
     nan: tiān-sī
     nb: TV
     nds: Feernseher
-    nds-nl: televisy
+    nds_nl: televisy
     ne: टेलिभिजन
     new: टेलेभिजन
     nl: televisie
@@ -402,7 +402,7 @@ dv_has_:
     pnb: ٹی وی
     ps: تلويزون
     pt: televisão
-    pt-br: televisão
+    pt_br: televisão
     qu: ñawikaruy
     ro: televiziune
     ru: телевидение
@@ -445,7 +445,7 @@ dv_has_:
     tr: televizyon
     trv: terebi
     tt: телевизия
-    tt-cyrl: телевизион
+    tt_cyrl: телевизион
     udm: телевидение
     ug: تېلېۋىزور
     uk: телебачення
@@ -467,14 +467,14 @@ dv_has_:
     za: ngaeuz gyae
     zea: tillevisie
     zh: 電視
-    zh-cn: 电视
-    zh-hans: 电视
-    zh-hant: 電視
-    zh-hk: 電視
-    zh-mo: 電視
+    zh_cn: 电视
+    zh_hans: 电视
+    zh_hant: 電視
+    zh_hk: 電視
+    zh_mo: 電視
     zh-my: 电视
-    zh-sg: 电视
-    zh-tw: 電視
+    zh_sg: 电视
+    zh_tw: 電視
     zu: UMabonakude
 ---
 # [[Television]] 📺 

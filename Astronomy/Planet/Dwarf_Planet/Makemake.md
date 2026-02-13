@@ -118,7 +118,7 @@ dv_has_:
     az: Makemake
     bar: Makemake
     be: Макемаке
-    be-tarask: Макемаке
+    be_tarask: Макемаке
     bg: Макемаке
     bn: মাকেমাকে
     br: Makemake
@@ -131,12 +131,12 @@ dv_has_:
     cy: Makemake
     da: Makemake
     de: (136472) Makemake
-    de-ch: Makemake
+    de_ch: Makemake
     el: Μακεμάκε
     eml: Makemake (astrunumìa)
     en: 136472 Makemake
-    en-ca: Makemake
-    en-gb: Makemake
+    en_ca: Makemake
+    en_gb: Makemake
     eo: Makemako
     es: Makemake
     et: Makemake
@@ -195,7 +195,7 @@ dv_has_:
     pl: Makemake
     pnb: میکمیک
     pt: Makemake
-    pt-br: Makemake
+    pt_br: Makemake
     qu: Makemake
     rm: Makemake
     ro: Makemake
@@ -226,9 +226,9 @@ dv_has_:
     xmf: მაკიმაკი
     yue: 鳥神星
     zh: 鸟神星
-    zh-cn: 鸟神星
-    zh-hans: 鸟神星
-    zh-hant: 鸟神星
+    zh_cn: 鸟神星
+    zh_hans: 鸟神星
+    zh_hant: 鸟神星
 ---
 # [[Makemake]] 
 

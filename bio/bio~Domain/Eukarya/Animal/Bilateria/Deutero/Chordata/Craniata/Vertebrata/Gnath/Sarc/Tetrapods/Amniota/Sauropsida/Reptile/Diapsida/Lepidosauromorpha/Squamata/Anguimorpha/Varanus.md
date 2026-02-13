@@ -99,7 +99,7 @@ dv_has_:
     bbc: Lobar
     bcl: Gotô
     be: Вараны
-    be-tarask: Вараны
+    be_tarask: Вараны
     bg: варани
     bho: बिलगोह
     bn: গুই সাপ
@@ -164,7 +164,7 @@ dv_has_:
     pl: Varanus
     ps: سمساره
     pt: Varanus
-    pt-br: Varanus
+    pt_br: Varanus
     ro: Varanidae
     ru: Вараны
     sco: monitor lizard
@@ -189,10 +189,10 @@ dv_has_:
     wuu: 巨蜥
     yue: 巨蜥屬
     zh: 巨蜥属
-    zh-cn: 巨蜥属
-    zh-hans: 巨蜥属
-    zh-hk: 巨蜥屬
-    zh-tw: 巨蜥屬
+    zh_cn: 巨蜥属
+    zh_hans: 巨蜥属
+    zh_hk: 巨蜥屬
+    zh_tw: 巨蜥屬
 ---
 # [[Varanus]] 
 

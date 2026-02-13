@@ -84,7 +84,7 @@ dv_has_:
     az: Pavo Nurmi
     bar: Paavo Nurmi
     be: Паава Нурмі
-    be-tarask: Паава Нурмі
+    be_tarask: Паава Нурмі
     bg: Пааво Нурми
     bn: পাভো নুরমি
     br: Paavo Nurmi
@@ -96,11 +96,11 @@ dv_has_:
     da: Paavo Nurmi
     de: Paavo Nurmi
     de-at: Paavo Nurmi
-    de-ch: Paavo Nurmi
+    de_ch: Paavo Nurmi
     el: Πάαβο Νούρμι
     en: Paavo Nurmi
-    en-ca: Paavo Nurmi
-    en-gb: Paavo Nurmi
+    en_ca: Paavo Nurmi
+    en_gb: Paavo Nurmi
     en-us: Paavo the Great
     eo: Paavo Nurmi
     es: Paavo Nurmi
@@ -143,7 +143,7 @@ dv_has_:
     nap: Paavo Nurmi
     nb: Paavo Nurmi
     nds: Paavo Nurmi
-    nds-nl: Paavo Nurmi
+    nds_nl: Paavo Nurmi
     nl: Paavo Nurmi
     nn: Paavo Nurmi
     nrm: Paavo Nurmi
@@ -154,7 +154,7 @@ dv_has_:
     pms: Paavo Nurmi
     pnb: پاوو نرمی
     pt: Paavo Nurmi
-    pt-br: Paavo Nurmi
+    pt_br: Paavo Nurmi
     rm: Paavo Nurmi
     ro: Paavo Nurmi
     ru: Пааво Нурми
@@ -166,8 +166,8 @@ dv_has_:
     sl: Paavo Nurmi
     sq: Paavo Nurmi
     sr: Паво Нурми
-    sr-ec: Паво Нурми
-    sr-el: Pavo Nurmi
+    sr_ec: Паво Нурми
+    sr_el: Pavo Nurmi
     sv: Paavo Nurmi
     sw: Paavo Nurmi
     te: పావో నూర్మి
@@ -184,12 +184,12 @@ dv_has_:
     wuu: 帕沃·努尔米
     yue: 巴禾·魯米
     zh: 帕沃·努尔米
-    zh-cn: 帕沃·努尔米
-    zh-hans: 帕沃·努尔米
-    zh-hant: 帕沃·努爾米
-    zh-hk: 巴禾·魯米
-    zh-sg: 帕沃·努尔米
-    zh-tw: 帕沃·努爾米
+    zh_cn: 帕沃·努尔米
+    zh_hans: 帕沃·努尔米
+    zh_hant: 帕沃·努爾米
+    zh_hk: 巴禾·魯米
+    zh_sg: 帕沃·努尔米
+    zh_tw: 帕沃·努爾米
     zu: Paavo Nurmi
 ---
 # [[Nurmi,Paavo]] 

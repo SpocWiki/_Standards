@@ -117,7 +117,7 @@ dv_has_:
     az: onkologiya
     azb: اونکولوژی
     be: анкалогія
-    be-tarask: анкалёгія
+    be_tarask: анкалёгія
     bg: онкология
     bn: ক্যান্সারবিজ্ঞান
     br: onkologiezh
@@ -155,11 +155,11 @@ dv_has_:
     jv: onkologi
     ka: ონკოლოგია
     kk: онкология
-    kk-arab: ونكولوگىييا
+    kk_arab: ونكولوگىييا
     kk-cn: ونكولوگىييا
-    kk-cyrl: онкология
+    kk_cyrl: онкология
     kk-kz: онкология
-    kk-latn: onkologïya
+    kk_latn: onkologïya
     kk-tr: onkologïya
     ko: 종양학
     ks: اونکولوجی
@@ -182,7 +182,7 @@ dv_has_:
     pl: onkologia
     ps: سرطانپوهنه
     pt: oncologia
-    pt-br: oncologia
+    pt_br: oncologia
     ro: oncologie
     ru: онкология
     rw: kanseri
@@ -199,8 +199,8 @@ dv_has_:
     sms: onkologia
     sq: onkologjia
     sr: онкологија
-    sr-ec: онкологија
-    sr-el: onkologija
+    sr_ec: онкологија
+    sr_el: onkologija
     sv: onkologi
     ta: புற்றுநோயியல்
     tg: саратоншиносӣ
@@ -218,12 +218,12 @@ dv_has_:
     yi: אנקאלאגיע
     yue: 腫瘤學
     zh: 肿瘤学
-    zh-cn: 肿瘤学
-    zh-hans: 肿瘤学
-    zh-hant: 腫瘤學
-    zh-hk: 腫瘤學
-    zh-sg: 肿瘤学
-    zh-tw: 腫瘤學
+    zh_cn: 肿瘤学
+    zh_hans: 肿瘤学
+    zh_hant: 腫瘤學
+    zh_hk: 腫瘤學
+    zh_sg: 肿瘤学
+    zh_tw: 腫瘤學
 ---
 # [[Oncology]] 
 

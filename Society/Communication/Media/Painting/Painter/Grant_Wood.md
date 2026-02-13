@@ -122,7 +122,7 @@ dv_has_:
     az: Qrant Vud
     bar: Grant Wood
     be: Грант Вуд
-    be-tarask: Грант Ўуд
+    be_tarask: Грант Ўуд
     bg: Грант Ууд
     br: Grant Wood
     ca: Grant Wood
@@ -165,7 +165,7 @@ dv_has_:
     pap: Grant Wood
     pl: Grant Wood
     pt: Grant Wood
-    pt-br: Grant Wood
+    pt_br: Grant Wood
     ro: Grant Wood
     ru: Грант Вуд
     sco: Grant Wood
@@ -173,7 +173,7 @@ dv_has_:
     sl: Grant Wood
     sq: Grant Wood
     sr: Grant Vud
-    sr-ec: Грант Вуд
+    sr_ec: Грант Вуд
     sv: Grant Wood
     tr: Grant Wood
     ty: Grant Wood
@@ -183,12 +183,12 @@ dv_has_:
     war: Grant Wood
     yue: 格蘭特·伍德
     zh: 格兰特·伍德
-    zh-cn: 格兰特·伍德
-    zh-hans: 格兰特·伍德
-    zh-hant: 格蘭特·伍德
-    zh-hk: 格蘭特·伍德
-    zh-sg: 格兰特·伍德
-    zh-tw: 格蘭特·伍德
+    zh_cn: 格兰特·伍德
+    zh_hans: 格兰特·伍德
+    zh_hant: 格蘭特·伍德
+    zh_hk: 格蘭特·伍德
+    zh_sg: 格兰特·伍德
+    zh_tw: 格蘭特·伍德
 ---
 # [[Grant_Wood]] 
 

@@ -108,7 +108,7 @@ dv_has_:
     ba: бишмөйөш
     bcl: pentagono
     be: пяцівугольнік
-    be-tarask: пяцікутнік
+    be_tarask: пяцікутнік
     bg: петоъгълник
     bn: পঞ্চভুজ
     br: pempkorneg
@@ -168,7 +168,7 @@ dv_has_:
     pl: pięciokąt
     ps: پينځڅنډی
     pt: pentágono
-    pt-br: pentágono
+    pt_br: pentágono
     ro: pentagon
     ru: пятиугольник
     rue: пятокутник
@@ -179,8 +179,8 @@ dv_has_:
     sl: peterokotnik
     so: bentagoon
     sr: петоугао
-    sr-ec: петоугао
-    sr-el: petougao
+    sr_ec: петоугао
+    sr_el: petougao
     su: juru lima
     sv: femhörning
     ta: ஐங்கோணம்
@@ -190,7 +190,7 @@ dv_has_:
     tl: pentagono
     tr: beşgen
     tt: бишпочмак
-    tt-cyrl: бишпочмак
+    tt_cyrl: бишпочмак
     uk: п'ятикутник
     ur: مخمس (ہندسہ)
     uz: pentagon
@@ -200,12 +200,12 @@ dv_has_:
     yi: פינפעק
     yue: 五邊形
     zh: 五边形
-    zh-cn: 五边形
-    zh-hans: 五边形
-    zh-hant: 五邊形
-    zh-hk: 五邊形
-    zh-sg: 五边形
-    zh-tw: 五邊形
+    zh_cn: 五边形
+    zh_hans: 五边形
+    zh_hant: 五邊形
+    zh_hk: 五邊形
+    zh_sg: 五边形
+    zh_tw: 五邊形
 ---
 # [[Pentagon]] 
 

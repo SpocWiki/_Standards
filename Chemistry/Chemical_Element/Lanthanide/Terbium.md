@@ -139,7 +139,7 @@ dv_has_:
     ba: Тербий
     ban: Terbium
     be: Тэрбій
-    be-tarask: Тэрб
+    be_tarask: Тэрб
     bg: тербий
     bho: टर्बियम
     bn: টারবিয়াম
@@ -157,7 +157,7 @@ dv_has_:
     de: Terbium
     el: τέρβιο
     en: terbium
-    en-gb: terbium
+    en_gb: terbium
     eo: terbio
     es: terbio
     et: Terbium
@@ -231,7 +231,7 @@ dv_has_:
     pnb: ٹربیم
     ps: تېربيوم
     pt: térbio
-    pt-br: térbio
+    pt_br: térbio
     qu: Terbyu
     ro: terbiu
     ru: тербий
@@ -245,7 +245,7 @@ dv_has_:
     sl: terbij
     sq: Terbiumi
     sr: тербијум
-    sr-ec: Тербијум
+    sr_ec: Тербијум
     stq: Terbium
     sv: terbium
     sw: Terbi
@@ -268,8 +268,8 @@ dv_has_:
     yo: Terbium
     yue: 鋱
     zh: 铽
-    zh-hant: 鋱
-    zh-tw: 鋱
+    zh_hant: 鋱
+    zh_tw: 鋱
     zu: UmThabathofi
   number_of_:
     period: 6

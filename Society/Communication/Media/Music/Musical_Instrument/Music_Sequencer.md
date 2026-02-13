@@ -52,7 +52,7 @@ dv_has_:
   name_:
     ar: مرتب موسيقي
     ast: secuenciador
-    be-tarask: сэквэнсар
+    be_tarask: сэквэнсар
     bg: Секвенсер
     ca: seqüenciador musical
     ckb: ڕیزبەندکەری مۆسیقا

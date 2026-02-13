@@ -17,7 +17,7 @@ dv_has_:
     ace: Yaman
     acm: اليمن
     ady: Йемен
-    aeb-arab: اليمن
+    aeb_arab: اليمن
     af: Jemen
     am: የመን
     ami: Yemen
@@ -39,7 +39,7 @@ dv_has_:
     bar: Jemen
     bcl: Yemen
     be: Емен
-    be-tarask: Емэн
+    be_tarask: Емэн
     bew: Yaman
     bg: Йемен
     bgn: یمن
@@ -55,14 +55,14 @@ dv_has_:
     bug: Yaman
     bxr: Йемен
     ca: Iemen
-    cbk-zam: Yemen
+    cbk_zam: Yemen
     cdo: Yemen
     ce: Йемен
     ceb: Yemen
     ckb: یەمەن
     co: Yemen
     crh: Yemen
-    crh-latn: Yemen
+    crh_latn: Yemen
     cs: Jemen
     csb: Jemen
     cv: Йемен
@@ -71,7 +71,7 @@ dv_has_:
     dag: Yemen
     de: Jemen
     de-at: Jemen
-    de-ch: Jemen
+    de_ch: Jemen
     diq: Yemen
     dsb: Jemen
     dtp: Yaman
@@ -79,8 +79,8 @@ dv_has_:
     dv: ޔަމަން
     el: Υεμένη
     en: Yemen
-    en-ca: Yemen
-    en-gb: Yemen
+    en_ca: Yemen
+    en_gb: Yemen
     eo: Jemeno
     es: Yemen
     et: Jeemen
@@ -103,7 +103,7 @@ dv_has_:
     gn: Jemẽ
     gom: येमेन
     gom-deva: यॅमॅन
-    gom-latn: Yemen
+    gom_latn: Yemen
     gpe: Yemen
     gsw: Jemen
     gu: યેમેન
@@ -176,7 +176,7 @@ dv_has_:
     mni: ꯌꯦꯃꯦꯟ
     mr: येमेनचे प्रजासत्ताक
     ms: Yaman
-    ms-arab: يمن
+    ms_arab: يمن
     mt: Jemen
     mwl: Iémen
     my: ယီမင်နိုင်ငံ
@@ -208,7 +208,7 @@ dv_has_:
     pnb: یمن
     ps: يمن
     pt: Iémen
-    pt-br: Iêmen
+    pt_br: Iêmen
     qu: Yaman
     rmy: Yemen
     ro: Yemen
@@ -237,8 +237,8 @@ dv_has_:
     so: Yemen
     sq: Jemeni
     sr: Јемен
-    sr-ec: Јемен
-    sr-el: Jemen
+    sr_ec: Јемен
+    sr_el: Jemen
     ss: IYemeni
     stq: Jemen
     su: Yaman
@@ -266,8 +266,8 @@ dv_has_:
     tum: Yemen
     udm: Йемен
     ug: يەمەن
-    ug-arab: يەمەن
-    ug-latn: Yemen
+    ug_arab: يەمەن
+    ug_latn: Yemen
     uk: Ємен
     ur: یمن
     uz: Yaman
@@ -289,14 +289,14 @@ dv_has_:
     zea: Jeem’n
     zgh: ⵢⴰⵎⴰⵏ
     zh: 也门
-    zh-cn: 也门
-    zh-hans: 也门
-    zh-hant: 葉門
-    zh-hk: 也門
-    zh-mo: 也門
+    zh_cn: 也门
+    zh_hans: 也门
+    zh_hant: 葉門
+    zh_hk: 也門
+    zh_mo: 也門
     zh-my: 也门
-    zh-sg: 也门
-    zh-tw: 葉門
+    zh_sg: 也门
+    zh_tw: 葉門
     zu: IYemen
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Yemen

@@ -58,7 +58,7 @@ dv_has_:
   name_:
     ar: هندسة التشييد والبناء
     az: İnşaat mühəndisliyi
-    be-tarask: будаўнічная інжынэрыя
+    be_tarask: будаўнічная інжынэрыя
     bn: নির্মাণ প্রকৌশল
     ca: enginyeria de la construcció
     ckb: ئەندازیاری و بەڕێوەبەرایەتیی کردنەوە

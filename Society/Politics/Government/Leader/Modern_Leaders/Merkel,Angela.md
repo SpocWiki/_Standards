@@ -73,7 +73,7 @@ dv_has_:
     bar: Angela Merkel
     bcl: Si Angela Merkel
     be: Ангела Меркель
-    be-tarask: Ангела Мэркель
+    be_tarask: Ангела Мэркель
     bg: Ангела Меркел
     bho: अंगेला मैर्केल
     bi: Angela Merkel
@@ -94,7 +94,7 @@ dv_has_:
     dag: Angela Merkel
     de: Angela Merkel
     de-at: Angela Merkel
-    de-ch: Angela Merkel
+    de_ch: Angela Merkel
     diq: Angela Merkel
     dsb: Angela Merkel
     dty: एन्जेला मर्केल
@@ -103,8 +103,8 @@ dv_has_:
     el: Άνγκελα Μέρκελ
     eml: Angela Merkel
     en: Angela Merkel
-    en-ca: Angela Merkel
-    en-gb: Angela Merkel
+    en_ca: Angela Merkel
+    en_gb: Angela Merkel
     eo: Angela Merkel
     es: Angela Merkel
     et: Angela Merkel
@@ -171,7 +171,7 @@ dv_has_:
     lt: Angela Merkel
     lv: Angela Merkele
     mai: एन्जेला मर्केल
-    map-bms: Angela Merkel
+    map_bms: Angela Merkel
     mg: Angela Merkel
     mhr: Меркель, Аҥгела
     min: Angela Merkel
@@ -191,7 +191,7 @@ dv_has_:
     nap: Angela Merkel
     nb: Angela Merkel
     nds: Angela Merkel
-    nds-nl: Angela Merkel
+    nds_nl: Angela Merkel
     ne: एन्जेला मर्केल
     nia: Angela Merkel
     nl: Angela Merkel
@@ -215,7 +215,7 @@ dv_has_:
     pnb: اینجلا مرکل
     ps: انګېلا مېرکل
     pt: Angela Merkel
-    pt-br: Angela Merkel
+    pt_br: Angela Merkel
     qu: Angela Merkel
     rm: Angela Merkel
     rmy: Angela Merkel
@@ -239,7 +239,7 @@ dv_has_:
     so: Angela Merkel
     sq: Angela Merkel
     sr: Ангела Меркел
-    sr-ec: Ангела Меркел
+    sr_ec: Ангела Меркел
     stq: Angela Merkel
     su: Angela Merkel
     sv: Angela Merkel
@@ -275,11 +275,11 @@ dv_has_:
     yue: 默克爾
     zea: Angela Merkel
     zh: 安格拉·默克爾
-    zh-cn: 安格拉·默克尔
-    zh-hans: 安格拉·默克尔
-    zh-hant: 安格拉·梅克爾
-    zh-hk: 安格拉·默克爾
-    zh-tw: 安格拉·梅克爾
+    zh_cn: 安格拉·默克尔
+    zh_hans: 安格拉·默克尔
+    zh_hant: 安格拉·梅克爾
+    zh_hk: 安格拉·默克爾
+    zh_tw: 安格拉·梅克爾
     zu: Angela Merkel
 ---
 ## #has_/text_of_/abstract 

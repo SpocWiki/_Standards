@@ -98,7 +98,7 @@ dv_has_:
     az: Avrasiya İqtisadi Qrupu
     ba: Евразия иҡтисади берләшмәһе
     be: Еўразійская эканамічная супольнасць
-    be-tarask: Эўразійская эканамічная супольнасьць
+    be_tarask: Эўразійская эканамічная супольнасьць
     bg: Евразийска икономическа общност
     ca: Comunitat Econòmica Euroasiàtica
     de: Eurasische Wirtschaftsgemeinschaft
@@ -119,9 +119,9 @@ dv_has_:
     ja: ユーラシア経済共同体
     ka: ევრაზიული ეკონომიკური საზოგადოება
     kk: Еуразиялық Экономикалық Қауымдастығы
-    kk-cyrl: Еуразиялық Экономикалық Қауымдастығы
+    kk_cyrl: Еуразиялық Экономикалық Қауымдастығы
     kk-kz: Еуразиялық Экономикалық Қауымдастығы
-    kk-latn: Ewrazïyalıq Ékonomïkalıq Qawımdastığı
+    kk_latn: Ewrazïyalıq Ékonomïkalıq Qawımdastığı
     kk-tr: Ewrazïyalıq Ékonomïkalıq Qawımdastığı
     ko: 유라시아 경제 공동체
     lt: Eurazijos ekonominė bendrija
@@ -135,7 +135,7 @@ dv_has_:
     sr: Евроазијска економска заједница
     sv: Eurasiska ekonomiska unionen
     tg: Иттиҳоди иқтисодии Евразия
-    tg-latn: Ittihodi iqtisodiji Evrazija
+    tg_latn: Ittihodi iqtisodiji Evrazija
     tr: Avrasya Ekonomi Topluluğu
     tt: Евразия икътисади җәмгыяте
     uk: ЄврАзЕС
@@ -144,12 +144,12 @@ dv_has_:
     vi: Cộng đồng Kinh tế Á Âu
     xmf: ევრაზიული ეკონომიკური ჯარალუა
     zh: 歐亞經濟合作組織
-    zh-cn: 欧亚经济共同体
-    zh-hans: 欧亚经济共同体
-    zh-hant: 歐亞經濟共同體
-    zh-hk: 歐亞經濟共同體
-    zh-sg: 欧亚经济共同体
-    zh-tw: 歐亞經濟共同體
+    zh_cn: 欧亚经济共同体
+    zh_hans: 欧亚经济共同体
+    zh_hant: 歐亞經濟共同體
+    zh_hk: 歐亞經濟共同體
+    zh_sg: 欧亚经济共同体
+    zh_tw: 歐亞經濟共同體
 ---
 # [[Eurasian_Economic_Community]] 
 

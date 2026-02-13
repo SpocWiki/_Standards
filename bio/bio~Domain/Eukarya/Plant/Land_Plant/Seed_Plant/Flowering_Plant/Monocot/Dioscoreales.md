@@ -69,8 +69,8 @@ dv_has_:
     ja: ヤマノイモ目
     ko: 마목
     ku: Dioscoreales
-    ku-arab: دۆسجۆرەالەس
-    ku-latn: Dioscoreales
+    ku_arab: دۆسجۆرەالەس
+    ku_latn: Dioscoreales
     la: Dioscoreales
     lv: Dioskoreju rinda
     mk: блуждовидни
@@ -82,7 +82,7 @@ dv_has_:
     oc: Dioscoreales
     pl: Pochrzynowce
     pt: Dioscoreales
-    pt-br: Dioscoreales
+    pt_br: Dioscoreales
     ro: Dioscoreales
     ru: диоскореецветные
     sk: dioskoreotvaré
@@ -98,10 +98,10 @@ dv_has_:
     yue: 薯蕷目
     za: Moeg Maenzbya
     zh: 薯蓣目
-    zh-cn: 薯蓣目
-    zh-hans: 薯蓣目
-    zh-hant: 薯蕷目
-    zh-hk: 薯蕷目
+    zh_cn: 薯蓣目
+    zh_hans: 薯蓣目
+    zh_hant: 薯蕷目
+    zh_hk: 薯蕷目
 ---
 # [[Dioscoreales]] 
 

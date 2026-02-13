@@ -101,7 +101,7 @@ dv_has_:
     az: Örtük sistemi
     ba: Тән япмаһы системаһы
     be: покрыўная сістэма
-    be-tarask: покрыўная сыстэма
+    be_tarask: покрыўная сыстэма
     bg: Покривна система
     bn: আচ্ছাদন তন্ত্র
     bs: Pokrovni sistem
@@ -134,7 +134,7 @@ dv_has_:
     ja: 外皮系
     jv: Sistem integumen
     ko: 피부계
-    ku-latn: koendama poşerê
+    ku_latn: koendama poşerê
     la: Systema integumentarium
     lg: Ensengekera y'ekikugiro
     li: Integumentair systeem
@@ -160,8 +160,8 @@ dv_has_:
     sk: krycia sústava
     sl: integument
     sr: Покровни систем
-    sr-ec: Покровни систем
-    sr-el: Pokrovni sistem
+    sr_ec: Покровни систем
+    sr_el: Pokrovni sistem
     sv: Integumentsystemet
     ta: புறவுறைத் தொகுதி
     th: ระบบผิวหนัง
@@ -174,9 +174,9 @@ dv_has_:
     wuu: 表皮系统
     yue: 外皮系統
     zh: 表皮系統
-    zh-hans: 表皮系统
-    zh-hant: 表皮系統
-    zh-hk: 表皮系統
+    zh_hans: 表皮系统
+    zh_hant: 表皮系統
+    zh_hk: 表皮系統
 ---
 # [[Integumentary_System]] 
 

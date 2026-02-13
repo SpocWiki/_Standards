@@ -95,7 +95,7 @@ dv_has_:
     ast: Conseyu de Ministros
     az: Nazirlər Kabineti
     be: кабінет міністраў
-    be-tarask: кабінэт міністраў
+    be_tarask: кабінэт міністраў
     bg: Правителство
     bn: মন্ত্রীসভা
     br: kabined
@@ -141,7 +141,7 @@ dv_has_:
     mnc: ᡩᠣᡵᡤᡳ ᠶᠠᠮᡠᠨ
     mr: केंद्रीय मंत्रिमंडळ
     ms: kabinet
-    ms-arab: کابينيت
+    ms_arab: کابينيت
     nan: Lōe-koh
     nb: kabinett
     nl: kabinet
@@ -153,7 +153,7 @@ dv_has_:
     pl: gabinet ministrów
     pnb: کبینا
     pt: conselho de ministros
-    pt-br: conselho de ministros
+    pt_br: conselho de ministros
     ro: cabinet
     ru: кабинет министров
     sh: Vlada
@@ -165,21 +165,21 @@ dv_has_:
     th: คณะรัฐมนตรี
     tr: Bakanlar Kurulu
     tt: министрлар кабинеты
-    tt-cyrl: министрлар кабинеты
+    tt_cyrl: министрлар кабинеты
     uk: кабінет міністрів
     ur: کابینہ
     vec: gabineto de goerno
     vi: nội các
     yue: 內閣
     zh: 內閣
-    zh-cn: 内阁
-    zh-hans: 内阁
-    zh-hant: 內閣
-    zh-hk: 內閣
-    zh-mo: 內閣
+    zh_cn: 内阁
+    zh_hans: 内阁
+    zh_hant: 內閣
+    zh_hk: 內閣
+    zh_mo: 內閣
     zh-my: 内阁
-    zh-sg: 内阁
-    zh-tw: 內閣
+    zh_sg: 内阁
+    zh_tw: 內閣
 ---
 # [[Cabinet(Government)]] 
 

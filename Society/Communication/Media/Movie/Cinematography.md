@@ -121,7 +121,7 @@ dv_has_:
     az: kinematoqrafiya
     ba: кинематограф
     be: кінематограф
-    be-tarask: кінэматограф
+    be_tarask: кінэматограф
     bg: кинематография
     bn: চলচ্চিত্রগ্রহণশিল্প
     br: sinema
@@ -134,12 +134,12 @@ dv_has_:
     cy: sinematograffeg
     da: kinematografi
     de: Cinematografie
-    de-ch: Kinematographie
+    de_ch: Kinematographie
     diq: Sinematografi
     el: κινηματογράφος
     en: cinematography
-    en-ca: cinematography
-    en-gb: cinematography
+    en_ca: cinematography
+    en_gb: cinematography
     eo: Filmarto
     es: cinematografía
     et: filmikunst
@@ -188,7 +188,7 @@ dv_has_:
     mo: Филм
     mr: छायांकन
     ms: sinematografi
-    ms-arab: سينيماتوݢرافي
+    ms_arab: سينيماتوݢرافي
     my: ရုပ်ရှင်ပညာရပ်
     myv: эрямартграфия
     nah: Īxiptlayōlcāyōtl
@@ -207,7 +207,7 @@ dv_has_:
     pap: sinematografia
     pl: kinematografia
     pt: cinematografia
-    pt-br: cinematografia
+    pt_br: cinematografia
     ro: cinematografie
     ru: кинематограф
     sah: кинематограф
@@ -219,7 +219,7 @@ dv_has_:
     sl: kinematografija
     sq: Kinemaja
     sr: кинематографија
-    sr-ec: кинематографија
+    sr_ec: кинематографија
     sv: filmfotografi
     ta: ஒளிப்பதிவு
     te: సినిమాటోగ్రఫీ
@@ -230,8 +230,8 @@ dv_has_:
     tly: kinematoqrafiya
     tr: sinematografi
     tt: кинематограф
-    tt-cyrl: кинематограф
-    tt-latn: kinematoğraf
+    tt_cyrl: кинематограф
+    tt_latn: kinematoğraf
     uk: кінематограф
     ur: cinematography
     uz: kinematograf
@@ -241,9 +241,9 @@ dv_has_:
     wuu: 电影摄影
     yue: 電影攝影
     zh: 电影摄影
-    zh-hans: 电影摄影
-    zh-hant: 電影攝影
-    zh-tw: 電影攝影
+    zh_hans: 电影摄影
+    zh_hant: 電影攝影
+    zh_tw: 電影攝影
 ---
 # [[Cinematography]] 
 

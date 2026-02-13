@@ -106,7 +106,7 @@ dv_has_:
     azb: موستملکه
     ba: Колония
     be: калонія
-    be-tarask: калёнія
+    be_tarask: калёнія
     bg: Колония
     bn: উপনিবেশ
     br: Trevadenn
@@ -146,17 +146,17 @@ dv_has_:
     ka: კოლონია
     kaa: koloniya
     kk: Отарлау саясаты
-    kk-arab: وتارلاۋ ساياساتى
+    kk_arab: وتارلاۋ ساياساتى
     kk-cn: وتارلاۋ ساياساتى
-    kk-cyrl: Отарлау саясаты
+    kk_cyrl: Отарлау саясаты
     kk-kz: Отарлау саясаты
-    kk-latn: Otarlaw sayasatı
+    kk_latn: Otarlaw sayasatı
     kk-tr: Otarlaw sayasatı
     kn: ವಸಾಹತು
     ko: 식민지
     ku: kolonî
-    ku-arab: کۆلۆنی
-    ku-latn: kolonî
+    ku_arab: کۆلۆنی
+    ku_latn: kolonî
     ky: Бодондук
     la: Colonia
     li: Kolonie (staotkundeg)
@@ -180,7 +180,7 @@ dv_has_:
     pl: kolonia
     ps: مستعمره
     pt: colónia
-    pt-br: colônia
+    pt_br: colônia
     qu: Kulunya
     ro: colonie
     ru: колония
@@ -198,8 +198,8 @@ dv_has_:
     smn: sirdoeennâm
     sq: Kolonia
     sr: колонија
-    sr-ec: колонија
-    sr-el: kolonija
+    sr_ec: колонија
+    sr_el: kolonija
     sv: koloni
     sw: Koloni
     tg: колония
@@ -216,14 +216,14 @@ dv_has_:
     xmf: კოლონია
     yue: 殖民地
     zh: 殖民地
-    zh-cn: 殖民地
-    zh-hans: 殖民地
-    zh-hant: 殖民地
-    zh-hk: 殖民地
-    zh-mo: 殖民地
+    zh_cn: 殖民地
+    zh_hans: 殖民地
+    zh_hant: 殖民地
+    zh_hk: 殖民地
+    zh_mo: 殖民地
     zh-my: 殖民地
-    zh-sg: 殖民地
-    zh-tw: 殖民地
+    zh_sg: 殖民地
+    zh_tw: 殖民地
 ---
 # [[Colony]] 
 

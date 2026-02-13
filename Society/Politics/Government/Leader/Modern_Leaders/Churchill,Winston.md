@@ -319,7 +319,7 @@ dv_has_:
     ban: Winston Churchill
     bcl: Winston Churchill
     be: Уінстан Чэрчыль
-    be-tarask: Ўінстан Чэрчыль
+    be_tarask: Ўінстан Чэрчыль
     bg: Уинстън Чърчил
     bho: विंस्टन चर्चिल
     bi: Winston Churchill
@@ -339,11 +339,11 @@ dv_has_:
     cy: Winston Churchill
     da: Winston Churchill
     de: Winston Churchill
-    de-ch: Winston Churchill
+    de_ch: Winston Churchill
     el: Ουίνστον Τσώρτσιλ
     en: Winston Churchill
-    en-ca: Winston Churchill
-    en-gb: Winston Churchill
+    en_ca: Winston Churchill
+    en_gb: Winston Churchill
     en-us: Winston Churchill
     eo: Winston Churchill
     es: Winston Churchill
@@ -472,7 +472,7 @@ dv_has_:
     uk: Вінстон Черчилль
     ur: ونسٹن چرچل
     uz: Winston Churchill
-    uz-cyrl: Уинстон Черчилл
+    uz_cyrl: Уинстон Черчилл
     vec: Winston Churchill
     vep: Čerčill' Uinston
     vi: Winston Churchill
@@ -487,7 +487,7 @@ dv_has_:
     yue: 邱吉爾
     zea: Winston Churchill
     zh: 温斯顿·丘吉尔
-    zh-cn: 温斯顿·丘吉尔
+    zh_cn: 温斯顿·丘吉尔
     zu: Winston Churchill
 ---
 # [[Churchill,Winston]] 

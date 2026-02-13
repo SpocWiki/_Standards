@@ -71,7 +71,7 @@ dv_has_:
     ary: تشيواوا (سلالة د لكلب)
     arz: شيواوا
     be: Чыхуахуа
-    be-tarask: чыхуахуа
+    be_tarask: чыхуахуа
     bg: Чихуахуа
     br: Chihuahua
     ca: chihuahua
@@ -81,12 +81,12 @@ dv_has_:
     cy: Shiwawa
     da: chihuahua
     de: Chihuahua
-    de-ch: Chihuahua
+    de_ch: Chihuahua
     diq: Chihuahua
     el: Τσιουάουα
     en: Chihuahua
-    en-ca: Chihuahua
-    en-gb: Chihuahua
+    en_ca: Chihuahua
+    en_gb: Chihuahua
     eo: Ĉivava hundo
     es: Chihuahua
     et: Chihuahua
@@ -125,7 +125,7 @@ dv_has_:
     pl: Chihuahua
     pnb: چی ہواہوا
     pt: Chihuahua
-    pt-br: Chihuahua
+    pt_br: Chihuahua
     ro: Chihuahua
     ru: чихуахуа
     sco: Chihuahua
@@ -147,9 +147,9 @@ dv_has_:
     wuu: 吉娃娃
     yue: 芝娃娃
     zh: 吉娃娃
-    zh-hant: 吉娃娃
-    zh-hk: 芝娃娃
-    zh-tw: 吉娃娃
+    zh_hant: 吉娃娃
+    zh_hk: 芝娃娃
+    zh_tw: 吉娃娃
 ---
 # [[Chihuahua]] 
 

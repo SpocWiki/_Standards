@@ -166,7 +166,7 @@ dv_has_:
     azb: جک لندن
     ba: Джек Лондон
     be: Джэк Лондан
-    be-tarask: Джэк Лёндан
+    be_tarask: Джэк Лёндан
     bg: Джек Лондон
     bn: জ্যাক লন্ডন
     br: Jack London
@@ -179,12 +179,12 @@ dv_has_:
     cy: Jack London
     da: Jack London
     de: Jack London
-    de-ch: Jack London
+    de_ch: Jack London
     diq: Jack London
     el: Τζακ Λόντον
     en: Jack London
-    en-ca: Jack London
-    en-gb: Jack London
+    en_ca: Jack London
+    en_gb: Jack London
     eo: Jack London
     es: Jack London
     et: Jack London
@@ -227,7 +227,7 @@ dv_has_:
     mzn: جک لندن
     nb: Jack London
     nds: Jack London
-    nds-nl: Jack London
+    nds_nl: Jack London
     new: ज्याक लन्डन
     nl: Jack London
     nn: Jack London
@@ -239,7 +239,7 @@ dv_has_:
     pms: Jack London
     pnb: جیک لندن
     pt: Jack London
-    pt-br: Jack London
+    pt_br: Jack London
     ro: Jack London
     ru: Джек Лондон
     rup: Jack London
@@ -250,7 +250,7 @@ dv_has_:
     sl: Jack London
     sq: Jack London
     sr: Џек Лондон
-    sr-ec: Џек Лондон
+    sr_ec: Џек Лондон
     sv: Jack London
     ta: ஜாக் லண்டன்
     te: జాక్ లండన్
@@ -269,9 +269,9 @@ dv_has_:
     xmf: ჯეკ ლონდონი
     yue: 積倫敦
     zh: 杰克·伦敦
-    zh-cn: 杰克·伦敦
-    zh-hans: 杰克·伦敦
-    zh-hant: 傑克·倫敦
+    zh_cn: 杰克·伦敦
+    zh_hans: 杰克·伦敦
+    zh_hant: 傑克·倫敦
 ---
 # [[London,Jack]] 
 

@@ -252,7 +252,7 @@ dv_has_:
     bar: David Bowie
     bcl: David Bowie
     be: Дэвід Боўі
-    be-tarask: Дэйвід Боўі
+    be_tarask: Дэйвід Боўі
     bg: Дейвид Боуи
     bho: डेविड बोवी
     bn: ডেভিড বোয়ি
@@ -268,13 +268,13 @@ dv_has_:
     dag: David Bowie
     de: David Bowie
     de-at: David Bowie
-    de-ch: David Bowie
+    de_ch: David Bowie
     diq: David Bowie
     el: Ντέιβιντ Μπόουι
     eml: David Bowie
     en: David Bowie
-    en-ca: David Bowie
-    en-gb: David Bowie
+    en_ca: David Bowie
+    en_gb: David Bowie
     en-us: David Bowie
     eo: David Bowie
     es: David Bowie
@@ -338,7 +338,7 @@ dv_has_:
     nap: David Bowie
     nb: David Bowie
     nds: David Bowie
-    nds-nl: David Bowie
+    nds_nl: David Bowie
     nl: David Bowie
     nn: David Bowie
     nrm: David Bowie
@@ -348,7 +348,7 @@ dv_has_:
     pl: David Bowie
     pms: David Bowie
     pt: David Bowie
-    pt-br: David Bowie
+    pt_br: David Bowie
     qu: David Bowie
     rm: David Bowie
     ro: David Bowie
@@ -364,7 +364,7 @@ dv_has_:
     smn: David Bowie
     sq: David Bowie
     sr: Дејвид Боуи
-    sr-el: David Bowie
+    sr_el: David Bowie
     sv: David Bowie
     sw: David Bowie
     szl: David Bowie
@@ -391,14 +391,14 @@ dv_has_:
     xmf: დევიდ ბოუი
     yue: 大衛寶兒
     zh: 大卫·鲍伊
-    zh-cn: 大卫·鲍伊
-    zh-hans: 大卫·鲍伊
-    zh-hant: 大衛·鮑伊
-    zh-hk: 大衛寶兒
-    zh-mo: 大衛·鮑伊
+    zh_cn: 大卫·鲍伊
+    zh_hans: 大卫·鲍伊
+    zh_hant: 大衛·鮑伊
+    zh_hk: 大衛寶兒
+    zh_mo: 大衛·鮑伊
     zh-my: 大卫·鲍伊
-    zh-sg: 大卫·鲍威
-    zh-tw: 大衛·鮑伊
+    zh_sg: 大卫·鲍威
+    zh_tw: 大衛·鮑伊
     zu: David Bowie
 ---
 # [[Bowie,David]] 

@@ -51,7 +51,7 @@ dv_has_:
   name_:
     ar: السير على الحبل المشدود
     ast: Funambulismu
-    be-tarask: канатаходзтва
+    be_tarask: канатаходзтва
     bo: ཐག་འགྲོས།
     ca: funambulisme
     cs: Chůze po laně
@@ -69,11 +69,11 @@ dv_has_:
     it: funambolismo
     ja: 綱渡り
     kk: Даршы
-    kk-arab: دارشى
+    kk_arab: دارشى
     kk-cn: دارشى
-    kk-cyrl: Даршы
+    kk_cyrl: Даршы
     kk-kz: Даршы
-    kk-latn: Darşı
+    kk_latn: Darşı
     kk-tr: Darşı
     ko: 줄타기
     la: Funem extentum ire
@@ -88,12 +88,12 @@ dv_has_:
     uz: Dorbozlik
     yue: 踩鋼線
     zh: 走钢丝
-    zh-cn: 走钢丝
-    zh-hans: 走钢丝
-    zh-hant: 走鋼絲
-    zh-hk: 走鋼絲
-    zh-sg: 走钢丝
-    zh-tw: 走鋼絲
+    zh_cn: 走钢丝
+    zh_hans: 走钢丝
+    zh_hant: 走鋼絲
+    zh_hk: 走鋼絲
+    zh_sg: 走钢丝
+    zh_tw: 走鋼絲
 ---
 # [[Tightrope_Walking]] 
 

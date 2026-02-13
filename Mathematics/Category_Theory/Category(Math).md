@@ -57,7 +57,7 @@ dv_has_:
   name_:
     af: kategorie
     ar: فئة
-    be-tarask: катэгорыя
+    be_tarask: катэгорыя
     bg: категория
     ca: categoria
     cs: kategorie
@@ -90,14 +90,14 @@ dv_has_:
     lzh: 範疇
     mk: категорија
     ms: kategori
-    ms-arab: کاتݢوري
+    ms_arab: کاتݢوري
     nb: kategori
     nl: categorie
     nn: kategori
     nov: kategorie
     pl: kategoria
     pt: categoria
-    pt-br: categoria
+    pt_br: categoria
     ro: categorie
     ru: категория
     se: kategoriija
@@ -106,8 +106,8 @@ dv_has_:
     smn: kategoria
     sms: kategoria
     sr: категорија
-    sr-ec: категорија
-    sr-el: kategorija
+    sr_ec: категорија
+    sr_el: kategorija
     sv: kategori
     tl: kategorya
     tr: ulam
@@ -117,9 +117,9 @@ dv_has_:
     wuu: 范畴
     yue: 範疇
     zh: 範疇
-    zh-hans: 范畴
-    zh-hant: 範疇
-    zh-hk: 範疇
+    zh_hans: 范畴
+    zh_hant: 範疇
+    zh_hk: 範疇
 ---
 # [[Category(Math)]] 
 

@@ -86,7 +86,7 @@ dv_has_:
     ba: Эмпатия
     ban: Rasa milu ngasanin
     be: эмпатыя
-    be-tarask: эмпатыя
+    be_tarask: эмпатыя
     bg: Съчувствие
     bn: সমানুভূতি
     ca: empatia
@@ -124,7 +124,7 @@ dv_has_:
     mk: Емпатија
     ml: സഹാനുഭൂതി
     ms: empati
-    ms-arab: ايمڤاتي
+    ms_arab: ايمڤاتي
     nan: Tông-lí-sim
     nb: empati
     nl: empathie
@@ -144,8 +144,8 @@ dv_has_:
     so: Turaal
     sq: Empatia
     sr: емпатија
-    sr-ec: емпатија
-    sr-el: empatija
+    sr_ec: емпатија
+    sr_el: empatija
     su: Émpati
     sv: empati
     syl: ꠀꠞꠇꠞꠦ ꠛꠥꠎꠣ
@@ -159,12 +159,12 @@ dv_has_:
     wuu: 同理心
     yue: 將心比己
     zh: 同理心
-    zh-cn: 同理心
-    zh-hans: 同理心
-    zh-hant: 同理心
-    zh-hk: 同理心
-    zh-sg: 同理心
-    zh-tw: 同理心
+    zh_cn: 同理心
+    zh_hans: 同理心
+    zh_hant: 同理心
+    zh_hk: 同理心
+    zh_sg: 同理心
+    zh_tw: 同理心
 ---
 # [[Empathy]] 
 

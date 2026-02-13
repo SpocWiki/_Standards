@@ -111,7 +111,7 @@ dv_has_:
     ba: килеш
     bar: Kasus
     be: склон
-    be-tarask: склон
+    be_tarask: склон
     bg: падеж
     bn: কারক
     br: troad
@@ -156,11 +156,11 @@ dv_has_:
     ka: ბრუნვა
     kaa: seplik
     kk: септік
-    kk-arab: سەپتىك
+    kk_arab: سەپتىك
     kk-cn: سەپتىك
-    kk-cyrl: септік
+    kk_cyrl: септік
     kk-kz: септік
-    kk-latn: septik
+    kk_latn: septik
     kk-tr: septik
     kl: kasus
     ko: 격
@@ -177,7 +177,7 @@ dv_has_:
     ml: വിഭക്തി
     mn: тийн ялгалын ай
     ms: kasus
-    ms-arab: کاسوس
+    ms_arab: کاسوس
     mt: Każ (lingwistika)
     my: ကာရက
     nb: kasus
@@ -193,7 +193,7 @@ dv_has_:
     pl: przypadek
     pnb: حالت
     pt: caso gramatical
-    pt-br: caso gramatical
+    pt_br: caso gramatical
     ro: caz
     ru: падеж
     rue: пад
@@ -209,15 +209,15 @@ dv_has_:
     sms: sââʹjjååʹbleǩ
     sq: rasa gramatikore
     sr: падеж
-    sr-ec: падеж
-    sr-el: padež
+    sr_ec: падеж
+    sr_el: padež
     sv: kasus
     szl: przipŏdek gramatyczny
     ta: வேற்றுமை
     th: การก
     tr: dilbilgisel durum
     tt: килеш
-    tt-cyrl: килеш
+    tt_cyrl: килеш
     tyv: падеж
     uk: відмінок
     uz: kelishik
@@ -227,12 +227,12 @@ dv_has_:
     wuu: 格 (语法)
     yue: 格
     zh: 格
-    zh-cn: 格
-    zh-hans: 格
-    zh-hant: 格
-    zh-hk: 格
-    zh-sg: 格
-    zh-tw: 格
+    zh_cn: 格
+    zh_hans: 格
+    zh_hant: 格
+    zh_hk: 格
+    zh_sg: 格
+    zh_tw: 格
 ---
 # [[Grammatical_Case]] 
 

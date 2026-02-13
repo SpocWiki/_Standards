@@ -212,7 +212,7 @@ dv_has_:
     ban: Éurasia
     bcl: Eurasya
     be: Еўразія
-    be-tarask: Эўразія
+    be_tarask: Эўразія
     bg: Евразия
     bho: यूरेशिया
     bn: ইউরেশিয়া
@@ -330,7 +330,7 @@ dv_has_:
     pnb: یوریشیا
     ps: اوراسيا
     pt: Eurásia
-    pt-br: Eurásia
+    pt_br: Eurásia
     qu: Iwrasya
     rmy: Eurasiya
     ro: Eurasia
@@ -367,8 +367,8 @@ dv_has_:
     tpi: Yuresia
     tr: Avrasya
     tt: Евразия
-    tt-cyrl: Ауразия
-    tt-latn: Awraziä
+    tt_cyrl: Ауразия
+    tt_latn: Awraziä
     udm: Евразия
     ug: ياۋروئاسىيا
     uk: Євразія
@@ -388,11 +388,11 @@ dv_has_:
     yue: 歐亞大陸
     zgh: ⵓⵕⴰⵙⵢⴰ
     zh: 歐亞大陸
-    zh-cn: 亚欧大陆
-    zh-hant: 歐亞大陸
-    zh-hk: 歐亞大陸
-    zh-mo: 歐亞大陸
-    zh-tw: 歐亞大陸
+    zh_cn: 亚欧大陆
+    zh_hant: 歐亞大陸
+    zh_hk: 歐亞大陸
+    zh_mo: 歐亞大陸
+    zh_tw: 歐亞大陸
 ---
 # [[Eurasia]] 
 

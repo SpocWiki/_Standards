@@ -57,18 +57,18 @@ dv_has_:
     as: টেন্ছ’ৰ
     ast: Cálculu tensorial
     az: Tenzor
-    be-tarask: тэнзар
+    be_tarask: тэнзар
     bg: Тензор
     bn: টেন্সর
     ca: tensor
     cs: tenzor
     cv: тензор
     de: Tensor
-    de-ch: Tensor
+    de_ch: Tensor
     el: Τανυστής
     en: tensor
-    en-ca: Tensor
-    en-gb: tensor
+    en_ca: Tensor
+    en_gb: tensor
     eo: tensoro
     es: tensor
     et: Tensor
@@ -88,11 +88,11 @@ dv_has_:
     ja: テンソル
     jbo: nacrtensori
     kk: Тензор
-    kk-arab: تەنزور
+    kk_arab: تەنزور
     kk-cn: تەنزور
-    kk-cyrl: Тензор
+    kk_cyrl: Тензор
     kk-kz: Тензор
-    kk-latn: Tenzor
+    kk_latn: Tenzor
     kk-tr: Tenzor
     ko: 텐서
     ko-kp: 텐소르
@@ -110,7 +110,7 @@ dv_has_:
     pa: ਟੈਂਸਰ
     pl: tensor
     pt: tensor
-    pt-br: tensor
+    pt_br: tensor
     ro: tensor
     ru: тензор
     scn: tinsuri
@@ -119,8 +119,8 @@ dv_has_:
     sl: tenzor
     sq: Trajtimi klasik i tensorëve
     sr: тензор
-    sr-ec: Тензор
-    sr-el: Tenzor
+    sr_ec: Тензор
+    sr_el: Tenzor
     sv: tensor
     szl: Tensor
     tl: Tensor
@@ -132,12 +132,12 @@ dv_has_:
     wuu: 张量
     yue: 張量
     zh: 張量
-    zh-cn: 张量
-    zh-hans: 张量
-    zh-hant: 張量
-    zh-hk: 張量
-    zh-sg: 张量
-    zh-tw: 張量
+    zh_cn: 张量
+    zh_hans: 张量
+    zh_hant: 張量
+    zh_hk: 張量
+    zh_sg: 张量
+    zh_tw: 張量
 ---
 # [[Tensor]] 
 

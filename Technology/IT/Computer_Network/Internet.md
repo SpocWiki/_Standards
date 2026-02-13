@@ -208,7 +208,7 @@ dv_has_:
     ba: Интернет
     bar: Internetz
     be: Інтэрнэт
-    be-tarask: Інтэрнэт
+    be_tarask: Інтэрнэт
     bew: Internèt
     bg: Интернет
     bho: इंटरनेट
@@ -299,7 +299,7 @@ dv_has_:
     mn: Интернэт
     mni: ꯂꯥꯡꯁꯦꯜ
     mr: महाजाल
-    ms-arab: اينترنيت
+    ms_arab: اينترنيت
     mul: Internet
     mwl: Anternete
     my: အင်တာနက်
@@ -343,7 +343,7 @@ dv_has_:
     so: Xuubcaaro (Internet)
     sq: Interneti
     sr: интернет
-    sr-ec: интернет
+    sr_ec: интернет
     su: Internét
     sv: internet
     sw: Intaneti
@@ -362,7 +362,7 @@ dv_has_:
     tr: internet
     ts: Inthaneti
     tt: Интернет
-    tt-cyrl: Интернет
+    tt_cyrl: Интернет
     tum: Intaneti
     tw: intanɛt
     ug: خەلقارالىق تور
@@ -379,14 +379,14 @@ dv_has_:
     za: Hulenzvangj
     zgh: ⴰⵏⵜⵉⵔⵏⵉⵜ
     zh: 互聯網
-    zh-cn: 互联网
-    zh-hans: 互联网
-    zh-hant: 網際網路
-    zh-hk: 互聯網
-    zh-mo: 互聯網
+    zh_cn: 互联网
+    zh_hans: 互联网
+    zh_hant: 網際網路
+    zh_hk: 互聯網
+    zh_mo: 互聯網
     zh-my: 互联网
-    zh-sg: 互联网
-    zh-tw: 網際網路
+    zh_sg: 互联网
+    zh_tw: 網際網路
     zu: Intanethi
 ---
 # [[Internet]] 

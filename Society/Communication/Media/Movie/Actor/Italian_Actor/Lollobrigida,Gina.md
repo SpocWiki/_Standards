@@ -106,7 +106,7 @@ dv_has_:
     ba: Джина Лоллобриджида
     bcl: Gina Lollobrigida
     be: Джына Лалабрыджыда
-    be-tarask: Джына Лёлябрыджыда
+    be_tarask: Джына Лёлябрыджыда
     bg: Джина Лолобриджида
     bn: জিনা লল্লোব্রিজিদা
     br: Gina Lollobrigida
@@ -114,11 +114,11 @@ dv_has_:
     cs: Gina Lollobrigida
     da: Gina Lollobrigida
     de: Gina Lollobrigida
-    de-ch: Gina Lollobrigida
+    de_ch: Gina Lollobrigida
     el: Τζίνα Λολομπρίτζιντα
     en: Gina Lollobrigida
-    en-ca: Gina Lollobrigida
-    en-gb: Gina Lollobrigida
+    en_ca: Gina Lollobrigida
+    en_gb: Gina Lollobrigida
     en-us: Gina Lollobrigida
     eo: Gina Lollobrigida
     es: Gina Lollobrigida
@@ -163,7 +163,7 @@ dv_has_:
     pap: Gina Lollobrigida
     pl: Gina Lollobrigida
     pt: Gina Lollobrigida
-    pt-br: Gina Lollobrigida
+    pt_br: Gina Lollobrigida
     qu: Gina Lollobrigida
     rmf: Gina Lollobrigida
     ro: Gina Lollobrigida
@@ -181,11 +181,11 @@ dv_has_:
     sms: Gina Lollobrigida
     sq: Gina Lollobrigida
     sr: Ђина Лолобриђида
-    sr-ec: Ђина Лолобриђида
+    sr_ec: Ђина Лолобриђида
     sv: Gina Lollobrigida
     tr: Gina Lollobrigida
     tt: Джина Лоллобриджида
-    tt-cyrl: Джина Лоллобриджида
+    tt_cyrl: Джина Лоллобриджида
     uk: Джина Лоллобриджида
     uz: Gina Lollobrigida
     vi: Gina Lollobrigida
@@ -194,9 +194,9 @@ dv_has_:
     xmf: ჯინა ლოლობრიჯიდა
     yue: 珍娜羅露寶烈吉妲
     zh: 珍娜·露露布莉姬妲
-    zh-cn: 吉娜·洛洛布里吉达
+    zh_cn: 吉娜·洛洛布里吉达
     zh-my: 珍娜·罗露宝烈吉妲
-    zh-sg: 珍娜·罗露宝烈吉妲
+    zh_sg: 珍娜·罗露宝烈吉妲
 ---
 # [[Lollobrigida,Gina]] 
 

@@ -39,7 +39,7 @@ dv_has_:
   name_:
     ar: برمجة غير خطية
     ast: programación non llinial
-    be-tarask: нелінейнае праграмаваньне
+    be_tarask: нелінейнае праграмаваньне
     ca: programació no lineal
     cs: Nelineární programování
     de: nichtlineare Optimierung
@@ -60,7 +60,7 @@ dv_has_:
     ko: 비선형 계획법
     pl: programowanie nieliniowe
     pt: Programação não linear
-    pt-br: programação não linear
+    pt_br: programação não linear
     ro: programare neliniară
     ru: нелинейное программирование
     sl: nelinearno programiranje

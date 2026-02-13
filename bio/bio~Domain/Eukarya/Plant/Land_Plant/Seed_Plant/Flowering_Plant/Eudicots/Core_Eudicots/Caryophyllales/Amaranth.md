@@ -140,7 +140,7 @@ dv_has_:
     ban: Bayem
     bcl: Amaranth
     be: аксамітнік
-    be-tarask: аксамітнік
+    be_tarask: аксамітнік
     bg: щир
     bjn: Bayam
     bm: Buraburaba
@@ -155,7 +155,7 @@ dv_has_:
     de: Amarant
     el: αμάρανθος
     en: Amaranthus
-    en-gb: Amaranthus
+    en_gb: Amaranthus
     en-us: Amaranthus
     eo: Amaranto
     es: Amaranthus
@@ -184,11 +184,11 @@ dv_has_:
     ka: ჯიჯლაყა
     kcg: nyinyep
     kk: Амарант
-    kk-arab: امارانت
+    kk_arab: امارانت
     kk-cn: امارانت
-    kk-cyrl: Амарант
+    kk_cyrl: Амарант
     kk-kz: Амарант
-    kk-latn: Amarant
+    kk_latn: Amarant
     kk-tr: Amarant
     kn: ದಂಟು
     ko: 아마란스
@@ -220,7 +220,7 @@ dv_has_:
     pl: Szarłat
     pnb: کیویچا
     pt: Amaranto
-    pt-br: Amaranthus
+    pt_br: Amaranthus
     qu: Sankurachi
     ro: Amaranth
     ru: амарант
@@ -230,7 +230,7 @@ dv_has_:
     sl: ščir
     sq: Amaranthus
     sr: Amarant
-    sr-el: amarant
+    sr_el: amarant
     su: Bayem
     sv: Amarantsläktet
     sw: Mchicha
@@ -249,12 +249,12 @@ dv_has_:
     xmf: ჯუმენია
     yue: 莧屬
     zh: 苋属
-    zh-cn: 苋属
-    zh-hans: 苋属
-    zh-hant: 莧屬
-    zh-hk: 莧屬
-    zh-sg: 苋属
-    zh-tw: 莧屬
+    zh_cn: 苋属
+    zh_hans: 苋属
+    zh_hant: 莧屬
+    zh_hk: 莧屬
+    zh_sg: 苋属
+    zh_tw: 莧屬
 ---
 # [[Amaranth]]
 

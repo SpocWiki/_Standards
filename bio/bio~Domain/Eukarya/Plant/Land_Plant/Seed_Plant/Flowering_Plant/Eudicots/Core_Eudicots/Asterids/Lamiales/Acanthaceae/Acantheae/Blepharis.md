@@ -41,7 +41,7 @@ dv_has_:
     oc: Blepharis
     pl: Blepharis
     pt: Blepharis
-    pt-br: Blepharis
+    pt_br: Blepharis
     ro: Blepharis
     ru: Blepharis
     sq: Blepharis
@@ -52,8 +52,8 @@ dv_has_:
     vo: Blepharis
     war: Blepharis
     zh: 百簕花属
-    zh-cn: 百簕花属
-    zh-hans: 百簕花属
+    zh_cn: 百簕花属
+    zh_hans: 百簕花属
 ---
 # [[Blepharis]] 
 

@@ -39,7 +39,7 @@ dv_has_:
   name_:
     af: unêre funksie
     ar: دالة وحيدة العمدة
-    be-tarask: унарная функцыя
+    be_tarask: унарная функцыя
     bs: unarna funkcija
     ca: funció unària
     cs: unární funkce
@@ -56,15 +56,15 @@ dv_has_:
     nl: functie van één variabele
     nn: funksjon med éin variabel
     pt: função unária
-    pt-br: função unária
+    pt_br: função unária
     ru: унарная функция
     sl: unarna funkcija
     uk: унарна функція
     vec: funsion unària
     zh: 一元函数
-    zh-cn: 一元函数
-    zh-hans: 一元函数
-    zh-hant: 一元函式
+    zh_cn: 一元函数
+    zh_hans: 一元函数
+    zh_hant: 一元函式
 ---
 # [[Function~unary]] 
 

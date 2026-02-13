@@ -109,7 +109,7 @@ dv_has_:
     az: Gənələr
     ba: Талпандар
     be: кляшчы
-    be-tarask: клешч
+    be_tarask: клешч
     bg: акари
     bpy: আকারি
     br: Akarian
@@ -168,7 +168,7 @@ dv_has_:
     pl: roztocze
     ps: خمنډک ډوله ژوې
     pt: Ácaro
-    pt-br: Acari
+    pt_br: Acari
     qu: Khiki
     rm: Chariels
     ro: Acarina
@@ -190,7 +190,7 @@ dv_has_:
     ti: ሚተ
     tr: Akarlar
     tt: талпаннар
-    tt-cyrl: талпаннар
+    tt_cyrl: талпаннар
     udm: Лемтэй
     uk: кліщі
     ur: علم حلم
@@ -202,9 +202,9 @@ dv_has_:
     wuu: 蜱螨亚纲
     yue: 蜱蟎亞綱
     zh: 蜱蟎亞綱
-    zh-cn: 蜱螨亚纲
-    zh-hans: 蜱螨亚纲
-    zh-tw: 蜱蟎亞綱
+    zh_cn: 蜱螨亚纲
+    zh_hans: 蜱螨亚纲
+    zh_tw: 蜱蟎亞綱
 ---
 # [[Mite]] 
 

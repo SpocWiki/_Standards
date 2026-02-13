@@ -451,7 +451,7 @@ dv_has_:
   name_:
     ab: Микронезиа
     ace: Mikronesia
-    aeb-arab: ميكرونيسيا
+    aeb_arab: ميكرونيسيا
     af: Mikronesië
     am: ማይክሮኔዥያ
     ami: Federated States of Micronesia
@@ -467,7 +467,7 @@ dv_has_:
     ban: Negara Féderasi Mikronésia
     bcl: Maykronisya
     be: Федэратыўныя Штаты Мікранезіі
-    be-tarask: Фэдэратыўныя Штаты Мікранэзіі
+    be_tarask: Фэдэратыўныя Штаты Мікранэзіі
     bew: Mikronési
     bg: Микронезия (държава)
     bi: Mikronesia
@@ -478,7 +478,7 @@ dv_has_:
     bs: Savezne Države Mikronezije
     bxr: Микронези
     ca: Estats Federats de Micronèsia
-    cbk-zam: Federados Estados de Micronesia
+    cbk_zam: Federados Estados de Micronesia
     cdo: Micronesia Lièng-băng
     ce: Хlоьттина долу Мехкаш Микронези
     ceb: Pederadong Estados sa Micronesia
@@ -488,7 +488,7 @@ dv_has_:
     ckb: ویلایەتە فیدراڵییەکانی مایکرۆنیزیا
     co: Federazione di i Stati Micronesiani
     crh: Mikroneziya
-    crh-latn: Mikroneziya
+    crh_latn: Mikroneziya
     cs: Mikronésie
     cv: Микронези
     cy: Micronesia
@@ -496,14 +496,14 @@ dv_has_:
     dag: Micronesia
     de: Föderierte Staaten von Mikronesien
     de-at: Mikronesien
-    de-ch: Mikronesien
+    de_ch: Mikronesien
     diq: Dewletê Mikronezyayê Federali
     dty: माइक्रोनेसिया
     dv: މައިކްރޮނޭޝިއާ
     el: Ομόσπονδες Πολιτείες της Μικρονησίας
     en: Federated States of Micronesia
-    en-ca: Federated States of Micronesia
-    en-gb: Federated States of Micronesia
+    en_ca: Federated States of Micronesia
+    en_gb: Federated States of Micronesia
     eo: Federacio de Mikronezio
     es: Estados Federados de Micronesia
     et: Mikroneesia
@@ -603,7 +603,7 @@ dv_has_:
     pnb: مائکرونیشیا
     ps: ميکرونزي فدرالي ايالات
     pt: Micronésia
-    pt-br: Micronésia
+    pt_br: Micronésia
     qu: Mikrunisya
     ro: Micronezia
     ru: Федеративные Штаты Микронезии
@@ -627,7 +627,7 @@ dv_has_:
     sn: Federated States of Micronesia
     sq: Federata Mikroneziane
     sr: Микронезија
-    sr-ec: Микронезија
+    sr_ec: Микронезија
     su: Féderasi Mikronésia
     sv: Mikronesiska federationen
     sw: Mikronesia
@@ -664,14 +664,14 @@ dv_has_:
     za: Micronesia Lienzbangh
     zea: Micronesia
     zh: 密克罗尼西亚联邦
-    zh-cn: 密克罗尼西亚联邦
-    zh-hans: 密克罗尼西亚联邦
-    zh-hant: 密克羅尼西亞聯邦
-    zh-hk: 密克羅尼西亞聯邦
-    zh-mo: 密克羅尼西亞聯邦
+    zh_cn: 密克罗尼西亚联邦
+    zh_hans: 密克罗尼西亚联邦
+    zh_hant: 密克羅尼西亞聯邦
+    zh_hk: 密克羅尼西亞聯邦
+    zh_mo: 密克羅尼西亞聯邦
     zh-my: 密克罗尼西亚联邦
-    zh-sg: 密克罗尼西亚联邦
-    zh-tw: 密克羅尼西亞聯邦
+    zh_sg: 密克罗尼西亚联邦
+    zh_tw: 密克羅尼西亞聯邦
     zu: i-Federated States of Micronesia
 ---
 # [[Micronesia~Fed._States]] 

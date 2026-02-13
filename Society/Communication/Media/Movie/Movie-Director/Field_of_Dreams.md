@@ -75,9 +75,9 @@ dv_has_:
     vi: Field of Dreams
     yue: 幻夢成真
     zh: 夢幻成真
-    zh-hans: 与梦共舞
-    zh-hk: 幻夢成真
-    zh-sg: 与梦共舞
+    zh_hans: 与梦共舞
+    zh_hk: 幻夢成真
+    zh_sg: 与梦共舞
 ---
 ## #has_/text_of_/abstract 
 

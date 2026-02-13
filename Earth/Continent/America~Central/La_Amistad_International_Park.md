@@ -94,7 +94,7 @@ dv_has_:
     ast: Parque internacional La Amistad
     ba: Ла-Амистад
     ban: Taman Internasional La Amistad
-    be-tarask: Ля-Амістад
+    be_tarask: Ля-Амістад
     bg: Резерват Ла Амистад и планинска верига Талманка
     ca: Parque Internacional La Amistad
     cs: La Amistad

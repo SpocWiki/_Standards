@@ -166,8 +166,8 @@ subclass_of:
 Unicode_character: ∠
 dv_has_:
   name_:
-    aeb-arab: تنقورة
-    aeb-latn: tangoura
+    aeb_arab: تنقورة
+    aeb_latn: tangoura
     af: hoek
     an: anglo
     ar: زاوية
@@ -182,7 +182,7 @@ dv_has_:
     ba: мөйөш
     bcl: angulo
     be: вугал
-    be-tarask: кут
+    be_tarask: кут
     bg: ъгъл
     bn: কোণ
     br: korn
@@ -199,11 +199,11 @@ dv_has_:
     da: vinkel
     de: Winkel
     de-at: Winkel
-    de-ch: Winkel
+    de_ch: Winkel
     el: γωνία
     en: angle
-    en-ca: angle
-    en-gb: angle
+    en_ca: angle
+    en_gb: angle
     eo: angulo
     es: ángulo
     et: nurk
@@ -245,7 +245,7 @@ dv_has_:
     kn: ಕೋನ
     ko: 각도
     ku: hoke
-    ku-latn: hoke
+    ku_latn: hoke
     kw: angle
     ky: бурч
     la: angulus
@@ -282,7 +282,7 @@ dv_has_:
     pnb: زاویہ
     ps: زاويه
     pt: ângulo
-    pt-br: ângulo
+    pt_br: ângulo
     qu: chhuka
     ro: unghi
     ru: угол

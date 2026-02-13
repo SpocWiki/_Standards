@@ -6,7 +6,7 @@ dv_has_:
     az: Qəribə şeylər
     azb: غریبه شئیلر
     be: Дзіўныя рэчы
-    be-tarask: Дзіўныя рэчы
+    be_tarask: Дзіўныя рэчы
     bg: Странни неща
     bn: স্ট্রেঞ্জার থিংস
     bs: Čudnije Stvari
@@ -41,7 +41,7 @@ dv_has_:
     ne: स्ट्रेन्जर थिङ्स
     pa: ਸਟਰੇਂਜਰ ਥਿੰਗਜ਼
     pt: Stranger Things
-    pt-br: Stranger Things
+    pt_br: Stranger Things
     ru: Очень странные дела
     sq: gjëra të huaja
     sr: Чудније ствари
@@ -54,9 +54,9 @@ dv_has_:
     vi: Cậu bé mất tích
     wuu: 怪奇物语
     zh: 怪奇物语
-    zh-hans: 怪奇物语
-    zh-hant: 怪奇物語
-    zh-tw: 怪奇物語
+    zh_hans: 怪奇物语
+    zh_hant: 怪奇物語
+    zh_tw: 怪奇物語
 aliases:
 - Abubuwan Baƙi
 - Cậu bé mất tích

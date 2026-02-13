@@ -14,8 +14,8 @@ dv_has_:
     de: Dromaeosauridae
     el: Δρομαιοσαυρίδες
     en: Dromaeosauridae
-    en-ca: Dromaeosauridae
-    en-gb: Dromaeosauridae
+    en_ca: Dromaeosauridae
+    en_gb: Dromaeosauridae
     eo: Dromeosaŭredoj
     es: Dromaeosauridae
     eu: Dromaeosauridae
@@ -41,7 +41,7 @@ dv_has_:
     or: Dromaeosaur
     pl: Dromeozaury
     pt: Dromaeosauridae
-    pt-br: Dromaeosauridae
+    pt_br: Dromaeosauridae
     ro: Dromaeosauridae
     ru: Дромеозавриды
     sco: Dromaeosauridae
@@ -58,12 +58,12 @@ dv_has_:
     vo: Dromaeosauridae
     war: Dromaeosauridae
     zh: 驰龙科
-    zh-cn: 驰龙科
-    zh-hans: 驰龙科
-    zh-hant: 馳龍科
-    zh-hk: 馳龍科
-    zh-sg: 驰龙科
-    zh-tw: 馳龍科
+    zh_cn: 驰龙科
+    zh_hans: 驰龙科
+    zh_hant: 馳龍科
+    zh_hk: 馳龍科
+    zh_sg: 驰龙科
+    zh_tw: 馳龍科
 aliases:
 - Dromaeosaur
 - Dromaeosauridae

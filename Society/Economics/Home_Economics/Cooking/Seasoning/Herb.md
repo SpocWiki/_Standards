@@ -118,7 +118,7 @@ dv_has_:
     ar: عشب
     ast: yerba
     be: зеляніна
-    be-tarask: зёлка
+    be_tarask: зёлка
     bg: билка
     bn: ভেষজ উদ্ভিদ
     br: geot
@@ -130,12 +130,12 @@ dv_has_:
     cy: perlysieuyn
     da: krydderurt
     de: Kraut
-    de-ch: Küchenkraut
+    de_ch: Küchenkraut
     el: βότανο
     eml: erba
     en: herb
-    en-ca: Herb
-    en-gb: herb
+    en_ca: Herb
+    en_gb: herb
     eo: spicherbo
     es: hierba
     et: ürt
@@ -161,7 +161,7 @@ dv_has_:
     ka: მწვანილი
     kn: ಮೂಲಿಕೆ
     ko: 허브
-    ku-latn: giya
+    ku_latn: giya
     ky: Жашылча
     la: Herba
     lb: Kichekraut

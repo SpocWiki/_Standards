@@ -4,7 +4,7 @@ dv_has_:
     ab: Белоруссиа
     ace: Bèlarusia
     ady: Белоруссие
-    aeb-arab: روسيا البيضا
+    aeb_arab: روسيا البيضا
     af: Belarus
     am: ቤላሩስ
     ami: Belarus
@@ -29,7 +29,7 @@ dv_has_:
     bar: Weißrussland
     bcl: Belarus
     be: Беларусь
-    be-tarask: Беларусь
+    be_tarask: Беларусь
     bew: Ruslan Puti
     bg: Беларус
     bgn: بیلاروسیه
@@ -44,7 +44,7 @@ dv_has_:
     bs: Bjelorusija
     bxr: Белоросууд
     ca: Belarús
-    cbk-zam: Bielorusia
+    cbk_zam: Bielorusia
     cdo: Belarus
     ce: Белорусси
     ceb: Belarus
@@ -52,7 +52,7 @@ dv_has_:
     ckb: بیلاڕووس
     co: Bielorussia
     crh: Belarus
-    crh-latn: Belarus
+    crh_latn: Belarus
     crh-ro: Belurus
     cs: Bělorusko
     csb: Biôłorëskô
@@ -63,7 +63,7 @@ dv_has_:
     dag: Belarus
     de: Belarus
     de-at: Weißrussland
-    de-ch: Weissrussland
+    de_ch: Weissrussland
     din: Belaruc
     diq: Belarus
     dsb: Běłoruska
@@ -74,8 +74,8 @@ dv_has_:
     el: Λευκορωσία
     eml: Bielurùsia
     en: Belarus
-    en-ca: Belarus
-    en-gb: Belarus
+    en_ca: Belarus
+    en_gb: Belarus
     eo: Belorusio
     es: Bielorrusia
     et: Valgevene
@@ -99,7 +99,7 @@ dv_has_:
     gn: Vielorrusia
     gom: बेलारूस
     gom-deva: बेलारूस
-    gom-latn: Belarus
+    gom_latn: Belarus
     gor: Belarus
     got: "\U00010348\U00010334\U00010339\U00010344\U00010330\U00010342\U0001033F\U00010343\U00010330\U0001033B\U00010330\U0001033D\U00010333"
     gpe: Belarus
@@ -173,7 +173,7 @@ dv_has_:
     lzh: 白俄羅斯
     mad: Belarus
     mai: बेलारूस
-    map-bms: Belarus
+    map_bms: Belarus
     mdf: Беларузь
     mg: Belarosia
     mhr: Белоруссий
@@ -198,7 +198,7 @@ dv_has_:
     nap: Bielorussia
     nb: Belarus
     nds: Wittrussland
-    nds-nl: Wit-Ruslaand
+    nds_nl: Wit-Ruslaand
     ne: बेलारुस
     new: बेलारुस
     nl: Wit-Rusland
@@ -224,7 +224,7 @@ dv_has_:
     pnt: Λευκορουσία
     ps: بېلاروس
     pt: Bielorrússia
-    pt-br: Belarus
+    pt_br: Belarus
     qu: Bilarus
     rm: Bielorussia
     rmy: Belarus
@@ -258,8 +258,8 @@ dv_has_:
     so: Belarus
     sq: Bjellorusia
     sr: Белорусија
-    sr-ec: Белорусија
-    sr-el: Belorusija
+    sr_ec: Белорусија
+    sr_el: Belorusija
     srn: Belarusikondre
     ss: IBhelalasi
     st: Belarus
@@ -275,7 +275,7 @@ dv_has_:
     te: బెలారస్
     tet: Bielorúsia
     tg: Беларус
-    tg-latn: Belarus
+    tg_latn: Belarus
     th: ประเทศเบลารุส
     ti: ቤላሩስ
     tk: Belarus
@@ -288,7 +288,7 @@ dv_has_:
     trv: Belarus
     ts: Belarus
     tt: Беларусь
-    tt-cyrl: Беларус
+    tt_cyrl: Беларус
     tum: Belarus
     tw: Belarus
     ty: Belarus
@@ -317,11 +317,11 @@ dv_has_:
     zea: Wit-Rusland
     zgh: ⴱⵉⵍⴰⵔⵓⵙ
     zh: 白俄羅斯
-    zh-cn: 白俄罗斯
-    zh-hans: 白俄罗斯
-    zh-hant: 白俄羅斯
-    zh-hk: 白俄羅斯
-    zh-tw: 白俄羅斯
+    zh_cn: 白俄罗斯
+    zh_hans: 白俄罗斯
+    zh_hant: 白俄羅斯
+    zh_hk: 白俄羅斯
+    zh_tw: 白俄羅斯
     zu: IBelarusi
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Belarus

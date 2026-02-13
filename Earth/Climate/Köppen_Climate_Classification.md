@@ -117,7 +117,7 @@ dv_has_:
     ast: Clasificación climática de Köppen
     bcl: Klasipikasyon nin klima ni Köppen
     be: Класіфікацыя кліматаў Кёпена
-    be-tarask: клясыфікацыя кліматаў Кёпэна
+    be_tarask: клясыфікацыя кліматаў Кёпэна
     bg: Климатична класификация на Кьопен
     bho: कोपेन के जलवायु वर्गीकरण
     bn: কোপেন জলবায়ু শ্রেণীবিন্যাস
@@ -129,8 +129,8 @@ dv_has_:
     de: Klimaklassifikation nach Köppen und Geiger
     el: Κλιματική ταξινόμηση Κέππεν
     en: Köppen climate classification
-    en-ca: Köppen climate classification
-    en-gb: Köppen climate classification
+    en_ca: Köppen climate classification
+    en_gb: Köppen climate classification
     en-us: Köppen climate classification
     eo: Klimata klasifiko de Köppen
     es: clasificación climática de Köppen-Geiger
@@ -176,7 +176,7 @@ dv_has_:
     pl: Klasyfikacja klimatów Köppena
     pnb: کوپن موسمی زمرہ بندی
     pt: classificação climática de Köppen-Geiger
-    pt-br: Classificação climática de Köppen-Geiger
+    pt_br: Classificação climática de Köppen-Geiger
     ro: clasificarea climatică Köppen
     ru: классификация климатов Кёппена
     sco: Köppen climate classification

@@ -60,7 +60,7 @@ dv_has_:
     pap: Carl Wilhelm Scheele
     pl: Carl Scheele
     pt: Carl Wilhelm Scheele
-    pt-br: Carl Wilhelm Scheele
+    pt_br: Carl Wilhelm Scheele
     ro: Carl Wilhelm Scheele
     ru: Карл Вильгельм Шееле
     sd: ڪارل ولهيلم شيلئ
@@ -75,7 +75,7 @@ dv_has_:
     tl: Carl Wilhelm Scheele
     tr: Carl Wilhelm Scheele
     tt: Карл Вилһелм Шееле
-    tt-cyrl: Карл Вилһелм Шееле
+    tt_cyrl: Карл Вилһелм Шееле
     uk: Карл Вільгельм Шеєле
     uz: Sheyele Karl Vilgelm
     vi: Carl Wilhelm Scheele

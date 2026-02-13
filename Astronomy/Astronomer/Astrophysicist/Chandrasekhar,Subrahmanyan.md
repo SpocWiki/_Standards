@@ -205,7 +205,7 @@ dv_has_:
     azb: سابراهمانین چاندراسکار
     ba: Субраманьян Чандрасекар
     be: Субрахманьян Чандрасекар
-    be-tarask: Субрагманьян Чандрасэкар
+    be_tarask: Субрагманьян Чандрасэкар
     bg: Субраманиан Чандрасекар
     bn: সুব্রহ্মণ্যন চন্দ্রশেখর
     ca: Subrahmanyan Chandrasekhar
@@ -216,8 +216,8 @@ dv_has_:
     de: Subrahmanyan Chandrasekhar
     el: Σουμπραμανιάν Τσαντρασεκάρ
     en: Subrahmanyan Chandrasekhar
-    en-ca: Subrahmanyan Chandrasekhar
-    en-gb: Subrahmanyan Chandrasekhar
+    en_ca: Subrahmanyan Chandrasekhar
+    en_gb: Subrahmanyan Chandrasekhar
     eo: Subramanyan Chandrasekhar
     es: Subrahmanyan Chandrasekhar
     et: Subrahmanyan Chandrasekhar
@@ -266,7 +266,7 @@ dv_has_:
     pl: Subramanyan Chandrasekhar
     pnb: سبرامنین چندراشیکھر
     pt: Subrahmanyan Chandrasekhar
-    pt-br: Subrahmanyan Chandrasekhar
+    pt_br: Subrahmanyan Chandrasekhar
     ro: Subrahmanyan Chandrasekhar
     ru: Субраманьян Чандрасекар
     sa: सुब्रह्मण्यन् चन्द्रशेखरः
@@ -276,8 +276,8 @@ dv_has_:
     sl: Subrahmanyan Chandrasekhar
     sq: Subrahmanyan Chandrasekhar
     sr: Субраманијан Чандрасекар
-    sr-ec: Субраманијан Чандрасекар
-    sr-el: Padma Subramanijan Čandrasekar
+    sr_ec: Субраманијан Чандрасекар
+    sr_el: Padma Subramanijan Čandrasekar
     sv: Subramanyan Chandrasekhar
     sw: Subrahmanyan Chandrasekhar
     ta: சுப்பிரமணியன் சந்திரசேகர்
@@ -295,12 +295,12 @@ dv_has_:
     yo: Subrahmanyan Chandrasekhar
     yue: 錢德拉錫卡
     zh: 蘇布拉馬尼揚·錢德拉塞卡
-    zh-cn: 苏布拉马尼扬·钱德拉塞卡
-    zh-hans: 苏布拉马尼扬·钱德拉塞卡
-    zh-hant: 蘇布拉馬尼揚·錢德拉塞卡
-    zh-hk: 蘇布拉馬尼揚·錢德拉塞卡
-    zh-sg: 苏布拉马尼扬·钱德拉塞卡
-    zh-tw: 蘇布拉馬尼揚·錢德拉塞卡
+    zh_cn: 苏布拉马尼扬·钱德拉塞卡
+    zh_hans: 苏布拉马尼扬·钱德拉塞卡
+    zh_hant: 蘇布拉馬尼揚·錢德拉塞卡
+    zh_hk: 蘇布拉馬尼揚·錢德拉塞卡
+    zh_sg: 苏布拉马尼扬·钱德拉塞卡
+    zh_tw: 蘇布拉馬尼揚·錢德拉塞卡
 ---
 # [[Chandrasekhar,Subrahmanyan]] 
 

@@ -94,7 +94,7 @@ dv_has_:
     ast: Cimentación
     ba: Фундамент
     be: падмурак
-    be-tarask: падмурак
+    be_tarask: падмурак
     bew: Pondamèn (tèhnik)
     bg: Фундамент
     br: diazez
@@ -103,11 +103,11 @@ dv_has_:
     cs: základy
     da: fundament
     de: Gründung
-    de-ch: Gründung
+    de_ch: Gründung
     el: θεμέλιο κατασκευής
     en: foundation
-    en-ca: Foundation
-    en-gb: foundation
+    en_ca: Foundation
+    en_gb: foundation
     eo: fundamento
     es: cimiento
     et: Vundament
@@ -128,17 +128,17 @@ dv_has_:
     ja: 基礎
     kcg: kuntyin
     kk: іргетас
-    kk-arab: ىرگەتاس
+    kk_arab: ىرگەتاس
     kk-cn: ىرگەتاس
-    kk-cyrl: Іргетас
+    kk_cyrl: Іргетас
     kk-kz: Іргетас
-    kk-latn: İrgetas
+    kk_latn: İrgetas
     kk-tr: İrgetas
     kn: ಅಡಿಪಾಯ
     ko: 기초
     ku: Bingeh
-    ku-arab: بنگەه
-    ku-latn: Bingeh
+    ku_arab: بنگەه
+    ku_latn: Bingeh
     ky: фундамент
     lt: pamatas
     min: Pondasi (bangunan)
@@ -154,7 +154,7 @@ dv_has_:
     pnb: بنیاد
     pnt: θεμέλ'
     pt: fundação
-    pt-br: fundação
+    pt_br: fundação
     ro: Fundament
     ru: фундамент
     sah: Акылаат
@@ -166,12 +166,12 @@ dv_has_:
     so: Gun
     sq: themel
     sr: темељ
-    sr-ec: темељ
-    sr-el: Temelj
+    sr_ec: темељ
+    sr_el: Temelj
     sv: grundläggning
     ta: அடித்தளம்
     tg: Асоси иншоот
-    tg-cyrl: порно
+    tg_cyrl: порно
     tr: temel
     tt: Фундамент
     udm: инъет
@@ -181,12 +181,12 @@ dv_has_:
     wuu: 地基
     yue: 地基
     zh: 地基
-    zh-cn: 地基
-    zh-hans: 地基
-    zh-hant: 地基
-    zh-hk: 地基
-    zh-sg: 地基
-    zh-tw: 地基
+    zh_cn: 地基
+    zh_hans: 地基
+    zh_hant: 地基
+    zh_hk: 地基
+    zh_sg: 地基
+    zh_tw: 地基
 ---
 # [[Foundation(Engineering)]] 
 

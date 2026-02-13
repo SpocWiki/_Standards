@@ -39,7 +39,7 @@ dv_has_:
     oc: Symbion
     pl: Symbion
     pt: Symbion
-    pt-br: Symbion
+    pt_br: Symbion
     ro: Symbion
     ru: Symbion
     sk: Symbion

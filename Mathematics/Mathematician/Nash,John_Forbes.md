@@ -143,7 +143,7 @@ dv_has_:
     az: Con Neş
     azb: جان فوربز نش
     be: Джон Форбс Нэш
-    be-tarask: Джон Форбс Нэш
+    be_tarask: Джон Форбс Нэш
     bg: Джон Наш
     bn: জন ফর্ব্স ন্যাশ
     br: John F. Nash Jr.
@@ -154,11 +154,11 @@ dv_has_:
     da: John Forbes Nash
     dag: John Forbes Nash
     de: John Forbes Nash Jr.
-    de-ch: John Forbes Nash Jr.
+    de_ch: John Forbes Nash Jr.
     el: Τζον Φορμπς Νας
     en: John Forbes Nash
-    en-ca: John Forbes Nash, Jr.
-    en-gb: John Forbes Nash, Jr.
+    en_ca: John Forbes Nash, Jr.
+    en_gb: John Forbes Nash, Jr.
     eo: John Nash
     es: John Forbes Nash
     et: John Forbes Nash
@@ -211,7 +211,7 @@ dv_has_:
     pnb: جان فوربس نیش
     ps: جان فوربز نش
     pt: John Forbes Nash
-    pt-br: John Forbes Nash
+    pt_br: John Forbes Nash
     ro: John Nash
     ru: Джон Форбс Нэш
     scn: John Nash
@@ -222,8 +222,8 @@ dv_has_:
     sl: John Forbes Nash
     sq: John Forbes Nash
     sr: Džon Neš
-    sr-ec: Џон Неш
-    sr-el: Džon Neš
+    sr_ec: Џон Неш
+    sr_el: Džon Neš
     sv: John Forbes Nash
     ta: ஜான் ஃபோர்ப்ஸ் நாஷ்
     te: జాన్ నాష్
@@ -240,12 +240,12 @@ dv_has_:
     yo: John Forbes Nash
     yue: 莊·科比斯·拿殊
     zh: 约翰·福布斯·纳什
-    zh-cn: 约翰·福布斯·纳什
-    zh-hans: 约翰·福布斯·纳什
-    zh-hant: 約翰·福布斯·納什
-    zh-hk: 約翰·福布斯·拿殊
-    zh-sg: 约翰·福布斯·纳什
-    zh-tw: 約翰·福布斯·納許
+    zh_cn: 约翰·福布斯·纳什
+    zh_hans: 约翰·福布斯·纳什
+    zh_hant: 約翰·福布斯·納什
+    zh_hk: 約翰·福布斯·拿殊
+    zh_sg: 约翰·福布斯·纳什
+    zh_tw: 約翰·福布斯·納許
 ---
 # [[Nash,John_Forbes]] 
 

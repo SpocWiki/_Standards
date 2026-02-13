@@ -45,7 +45,7 @@ dv_has_:
     uz: Mortal Engines
     vi: Mortal Engines
     zh: 移動城市1：致命引擎
-    zh-hant: 移動城市1：致命引擎
+    zh_hant: 移動城市1：致命引擎
 aliases:
 - De rullende byer
 - De vandrande städerna

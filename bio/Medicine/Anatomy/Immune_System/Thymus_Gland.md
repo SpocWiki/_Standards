@@ -81,7 +81,7 @@ dv_has_:
   name_:
     ar: غدة زعترية
     az: çəngələbənzər vəzi
-    be-tarask: вілаватая залоза
+    be_tarask: вілаватая залоза
     bg: тимус
     bn: থাইমাস
     bs: grudna žlijezda
@@ -91,11 +91,11 @@ dv_has_:
     cy: Thymws
     da: brissel
     de: Thymus
-    de-ch: Thymus
+    de_ch: Thymus
     el: θύμος αδένας
     en: thymus
-    en-ca: Thymus
-    en-gb: thymus
+    en_ca: Thymus
+    en_gb: thymus
     eo: timuso
     es: timo
     et: tüümus
@@ -119,11 +119,11 @@ dv_has_:
     ja: 胸腺
     jv: timus
     kk: айырша без
-    kk-arab: ايىرشا بەز
+    kk_arab: ايىرشا بەز
     kk-cn: ايىرشا بەز
-    kk-cyrl: айырша без
+    kk_cyrl: айырша без
     kk-kz: айырша без
-    kk-latn: aýırşa bez
+    kk_latn: aýırşa bez
     kk-tr: aýırşa bez
     km: ក្រពេញទីមុស
     ko: 가슴샘
@@ -134,7 +134,7 @@ dv_has_:
     lmo: tim
     lt: užkrūčio liauka
     lv: aizkrūtes dziedzeris
-    map-bms: Timus
+    map_bms: Timus
     mk: градна жлезда
     ml: തൈമസ് ഗ്രന്ഥി
     ms: timus
@@ -143,7 +143,7 @@ dv_has_:
     nn: brissel
     pl: grasica
     pt: timo
-    pt-br: timo
+    pt_br: timo
     ro: timus
     ru: тимус
     sco: thymus
@@ -151,8 +151,8 @@ dv_has_:
     sk: detská žľaza
     sl: timus
     sr: грудна жлезда
-    sr-ec: грудна жлезда
-    sr-el: grudna žlezda
+    sr_ec: грудна жлезда
+    sr_el: grudna žlezda
     sv: bräss
     ta: தைமஸ் சுரப்பி
     te: బాలగ్రంధి
@@ -169,12 +169,12 @@ dv_has_:
     wuu: 胸腺
     yue: 胸腺
     zh: 胸腺
-    zh-cn: 胸腺
-    zh-hans: 胸腺
-    zh-hant: 胸腺
-    zh-hk: 胸腺
-    zh-sg: 胸腺
-    zh-tw: 胸腺
+    zh_cn: 胸腺
+    zh_hans: 胸腺
+    zh_hant: 胸腺
+    zh_hk: 胸腺
+    zh_sg: 胸腺
+    zh_tw: 胸腺
 ---
 # [[Thymus_Gland]] 
 

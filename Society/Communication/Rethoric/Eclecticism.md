@@ -64,7 +64,7 @@ dv_has_:
     az: eklektizm
     azb: اکلئکتيزم
     be: эклектызм
-    be-tarask: эклектызм
+    be_tarask: эклектызм
     bg: Еклектика
     ca: eclecticisme
     ckb: ئیکلێکتیزم
@@ -110,8 +110,8 @@ dv_has_:
     sms: eklektisismm
     sq: eklektizmi
     sr: еклектицизам
-    sr-ec: Еклектицизам
-    sr-el: eklekticizam
+    sr_ec: Еклектицизам
+    sr_el: eklekticizam
     sv: eklekticism
     th: คตินิยมสรรผสาน
     tr: eklektisizm
@@ -119,12 +119,12 @@ dv_has_:
     uz: eklektizm
     vi: chủ nghĩa chiết trung
     zh: 折衷主義
-    zh-cn: 折衷主义
-    zh-hans: 折衷主义
-    zh-hant: 折衷主義
-    zh-hk: 折衷主義
-    zh-sg: 折衷主义
-    zh-tw: 折衷主義
+    zh_cn: 折衷主义
+    zh_hans: 折衷主义
+    zh_hant: 折衷主義
+    zh_hk: 折衷主義
+    zh_sg: 折衷主义
+    zh_tw: 折衷主義
 ---
 # [[Eclecticism]] 
 

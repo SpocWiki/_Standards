@@ -80,7 +80,7 @@ dv_has_:
     ast: Regadera
     bar: Bloachsempara
     be: Палівачка
-    be-tarask: палівачка
+    be_tarask: палівачка
     bew: Èmbrat
     bg: Лейка
     bn: সেচনী
@@ -88,11 +88,11 @@ dv_has_:
     cs: konev
     da: vandkande
     de: Gießkanne
-    de-ch: Giesskanne
+    de_ch: Giesskanne
     el: ποτιστήρι
     en: watering can
-    en-ca: Watering can
-    en-gb: watering can
+    en_ca: Watering can
+    en_gb: watering can
     eo: Akvumilo
     es: Regadera
     et: Kastekann
@@ -120,14 +120,14 @@ dv_has_:
     nrm: Arouseus
     pl: Konewka
     pt: regador
-    pt-br: Regador
+    pt_br: Regador
     ro: Stropitoare
     ru: Лейка
     scn: Arruciaturi
     sk: Kanva
     sl: zalivalka
     sr: канта за заливање
-    sr-ec: канта за заливање
+    sr_ec: канта за заливање
     sv: vattenkanna
     szl: Giskana
     ta: நீர்க்குடுவை
@@ -137,8 +137,8 @@ dv_has_:
     vi: Bình tưới
     yue: 園藝花灑
     zh: 澆水器
-    zh-hant: 澆水器
-    zh-tw: 澆水器
+    zh_hant: 澆水器
+    zh_tw: 澆水器
 ---
 # [[Watering_Can]]
 

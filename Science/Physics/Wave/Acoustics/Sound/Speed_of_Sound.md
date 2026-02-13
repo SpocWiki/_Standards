@@ -110,7 +110,7 @@ dv_has_:
     az: Səs sürəti
     bar: Schoigschwindigkeit
     be: хуткасць гуку
-    be-tarask: хуткасьць гуку
+    be_tarask: хуткасьць гуку
     bg: скорост на звука
     bn: শব্দের গতি
     bs: Brzina zvuka
@@ -146,15 +146,15 @@ dv_has_:
     jv: Kacepetan swara
     ka: ბგერის სიჩქარე
     kk: Дыбыс Жылдамдығы
-    kk-arab: دىبىس جىلدامدىعى
+    kk_arab: دىبىس جىلدامدىعى
     kk-cn: دىبىس جىلدامدىعى
-    kk-cyrl: Дыбыс Жылдамдығы
+    kk_cyrl: Дыбыс Жылдамдығы
     kk-kz: Дыбыс Жылдамдығы
-    kk-latn: Dıbıs Jıldamdığı
+    kk_latn: Dıbıs Jıldamdığı
     kk-tr: Dıbıs Jıldamdığı
     ko: 음속
     ku: Leza dengî
-    ku-latn: Leza dengê
+    ku_latn: Leza dengê
     la: celeritas soni
     lmo: velocità del son
     lt: garso greitis
@@ -164,7 +164,7 @@ dv_has_:
     mn: Дууны хурд
     mr: आवाजाचा वेग
     ms: laju bunyi
-    ms-arab: لاجو بوڽي
+    ms_arab: لاجو بوڽي
     my: အသံ၏အမြန်နှုန်း
     nan: Im-sok
     nb: lydens hastighet
@@ -185,8 +185,8 @@ dv_has_:
     smn: jienâ liähtu
     sq: Shpejtësia e zërit
     sr: брзина звука
-    sr-ec: Брзина звука
-    sr-el: Brzina zvuka
+    sr_ec: Брзина звука
+    sr_el: Brzina zvuka
     sv: ljudhastighet
     ta: ஒலியின் விரைவு
     th: อัตราเร็วของเสียง
@@ -200,12 +200,12 @@ dv_has_:
     wuu: 声速
     yue: 音速
     zh: 音速
-    zh-cn: 音速
-    zh-hans: 音速
-    zh-hant: 音速
-    zh-hk: 音速
-    zh-sg: 音速
-    zh-tw: 音速
+    zh_cn: 音速
+    zh_hans: 音速
+    zh_hant: 音速
+    zh_hk: 音速
+    zh_sg: 音速
+    zh_tw: 音速
 ---
 # [[Speed_of_Sound]] 
 

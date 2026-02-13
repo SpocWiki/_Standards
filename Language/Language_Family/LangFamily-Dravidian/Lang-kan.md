@@ -161,7 +161,7 @@ dv_has_:
     azb: کانادا دیلی
     bcl: Kannada
     be: канада
-    be-tarask: канадзкая мова
+    be_tarask: канадзкая мова
     bg: Каннада
     bho: कन्नड
     bn: কন্নড় ভাষা
@@ -179,7 +179,7 @@ dv_has_:
     dv: ކައްނަޑާ
     el: Κανάντα γλώσσα
     en: Kannada
-    en-gb: Kannada
+    en_gb: Kannada
     en-us: Canada
     eo: kanara lingvo
     es: canarés
@@ -268,14 +268,14 @@ dv_has_:
     sms: kannadaǩiõll
     sq: Gjuha kanada
     sr: канада језик
-    sr-ec: канада језик
+    sr_ec: канада језик
     sv: kannada
     sw: Kikannada
     ta: கன்னடம்
     tcy: ಕನ್ನಡ ಬಾಸೆ
     te: కన్నడ భాష
     tg: Забони каннада
-    tg-cyrl: Каннада
+    tg_cyrl: Каннада
     th: ภาษากันนาดา
     tl: Wikang Kannada
     tok: toki Kanata
@@ -295,10 +295,10 @@ dv_has_:
     yi: קאנאדא
     yue: 卡納達文
     zh: 卡纳达语
-    zh-cn: 卡纳达语
-    zh-hans: 卡纳达语
-    zh-hant: 康納達語
-    zh-tw: 康納達語
+    zh_cn: 卡纳达语
+    zh_hans: 卡纳达语
+    zh_hant: 康納達語
+    zh_tw: 康納達語
     zu: isi-Kannada
 ---
 # [[Lang-kan]] 

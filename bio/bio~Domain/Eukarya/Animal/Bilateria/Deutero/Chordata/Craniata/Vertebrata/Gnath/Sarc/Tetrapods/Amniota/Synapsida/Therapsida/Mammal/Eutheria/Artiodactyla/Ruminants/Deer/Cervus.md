@@ -69,11 +69,11 @@ dv_has_:
     da: Cervus
     de: Cervus
     de-at: Cervus
-    de-ch: Cervus
+    de_ch: Cervus
     el: Cervus
     en: Cervus
-    en-ca: Cervus
-    en-gb: Cervus
+    en_ca: Cervus
+    en_gb: Cervus
     eo: Cervo
     es: Cervus
     et: Hirv
@@ -117,7 +117,7 @@ dv_has_:
     nap: Cervus
     nb: Cervus
     nds: Cervus
-    nds-nl: Cervus
+    nds_nl: Cervus
     nl: Cervus
     nn: Cervus
     nrm: Cervus
@@ -128,7 +128,7 @@ dv_has_:
     pl: jeleń
     pms: Cervus
     pt: Cervus
-    pt-br: Cervus
+    pt_br: Cervus
     rm: Cervus
     ro: Cervus
     ru: Настоящие олени
@@ -153,9 +153,9 @@ dv_has_:
     wo: Cervus
     xmf: ერემი
     zh: 鹿屬
-    zh-cn: 鹿属
-    zh-hans: 鹿属
-    zh-tw: 鹿屬
+    zh_cn: 鹿属
+    zh_hans: 鹿属
+    zh_tw: 鹿屬
     zu: Cervus
 ---
 # [[Cervus]] 

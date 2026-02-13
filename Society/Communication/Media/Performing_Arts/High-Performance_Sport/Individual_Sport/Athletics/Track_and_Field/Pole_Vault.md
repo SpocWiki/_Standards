@@ -112,7 +112,7 @@ dv_has_:
     ast: saltu con piértiga
     ba: ҡолға менән һикереү
     be: скачок з шастом
-    be-tarask: скокі з шастом
+    be_tarask: скокі з шастом
     bg: овчарски скок
     bn: পোল ভল্ট
     bs: Skok s motkom
@@ -143,11 +143,11 @@ dv_has_:
     it: salto con l'asta
     ja: 棒高跳
     kk: таяқпен секiру
-    kk-arab: تاياقپەن سەكiرۋ
+    kk_arab: تاياقپەن سەكiرۋ
     kk-cn: تاياقپەن سەكiرۋ
-    kk-cyrl: таяқпен секіру
+    kk_cyrl: таяқпен секіру
     kk-kz: таяқпен секіру
-    kk-latn: tayaqpen sekirw
+    kk_latn: tayaqpen sekirw
     kk-tr: tayaqpen sekirw
     ko: 장대높이뛰기
     la: saltus perticarius
@@ -174,8 +174,8 @@ dv_has_:
     sl: skok s palico
     smn: stávránjuškim
     sr: скок мотком
-    sr-ec: скок мотком
-    sr-el: skok motkom
+    sr_ec: скок мотком
+    sr_el: skok motkom
     sv: stavhopp
     sw: kuruka kwa upondo
     ta: தடியூன்றித் தாண்டுதல்
@@ -189,12 +189,12 @@ dv_has_:
     yi: שפרינגען מיט א טיטשקע
     yue: 撐竿跳高
     zh: 撑竿跳高
-    zh-cn: 撑竿跳高
-    zh-hans: 撑竿跳高
-    zh-hant: 撐竿跳高
-    zh-hk: 撐竿跳高
-    zh-sg: 撑竿跳高
-    zh-tw: 撐竿跳高
+    zh_cn: 撑竿跳高
+    zh_hans: 撑竿跳高
+    zh_hant: 撐竿跳高
+    zh_hk: 撐竿跳高
+    zh_sg: 撑竿跳高
+    zh_tw: 撐竿跳高
 ---
 # [[Pole_Vault]] 
 

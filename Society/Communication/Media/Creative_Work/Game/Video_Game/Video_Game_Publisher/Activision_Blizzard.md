@@ -126,7 +126,7 @@ dv_has_:
     nl: Activision Blizzard
     pl: Activision Blizzard
     pt: Activision Blizzard
-    pt-br: Activision Blizzard
+    pt_br: Activision Blizzard
     ru: Activision Blizzard
     sah: Activision Blizzard
     sk: Activision Blizzard
@@ -141,8 +141,8 @@ dv_has_:
     uk: Activision Blizzard
     vi: Activision Blizzard
     zh: 動視暴雪
-    zh-hant: 動視暴雪
-    zh-hk: 動視暴雪
+    zh_hant: 動視暴雪
+    zh_hk: 動視暴雪
 ---
 # [[Activision_Blizzard]] 
 

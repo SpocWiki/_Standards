@@ -143,7 +143,7 @@ dv_has_:
     az: kəmiyyət
     ba: иҫәп
     be: колькасць
-    be-tarask: колькасьць
+    be_tarask: колькасьць
     bg: количество
     bn: পরিমাণ
     br: kementad
@@ -156,7 +156,7 @@ dv_has_:
     de: Quantität
     el: ποσότητα
     en: quantity
-    en-gb: quantity
+    en_gb: quantity
     eo: kvanto
     es: cantidad
     et: kvantiteet
@@ -192,7 +192,7 @@ dv_has_:
     mk: количество
     ml: അളവ്
     ms: kuantiti
-    ms-arab: کوانتيتي
+    ms_arab: کوانتيتي
     my: မတ္တာ
     nb: mengde
     nl: grootheid
@@ -201,7 +201,7 @@ dv_has_:
     oc: quantitat
     pl: ilość
     pt: quantidade
-    pt-br: quantidade
+    pt_br: quantidade
     ro: cantitate
     ru: количество
     scn: quantitati
@@ -213,8 +213,8 @@ dv_has_:
     sms: mieʹrr
     sq: sasi
     sr: количина
-    sr-ec: количина
-    sr-el: količina
+    sr_ec: количина
+    sr_el: količina
     sv: kvantitet
     sw: idadi
     tg: миқдор
@@ -232,12 +232,12 @@ dv_has_:
     yo: ìwọ̀n
     yue: 量
     zh: 量
-    zh-cn: 量
-    zh-hans: 量
-    zh-hant: 量
-    zh-hk: 量
-    zh-sg: 量
-    zh-tw: 量
+    zh_cn: 量
+    zh_hans: 量
+    zh_hant: 量
+    zh_hk: 量
+    zh_sg: 量
+    zh_tw: 量
     zu: umngakaniso
   properties: '[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]'
 dv_is_same_as:

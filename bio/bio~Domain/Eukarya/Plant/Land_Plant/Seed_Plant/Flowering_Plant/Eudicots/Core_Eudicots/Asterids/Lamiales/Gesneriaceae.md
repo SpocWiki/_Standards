@@ -84,16 +84,16 @@ dv_has_:
     ja: イワタバコ科
     ka: გესნერიასებრნი
     kk: Глоксиния
-    kk-arab: گلوكسىينىييا
+    kk_arab: گلوكسىينىييا
     kk-cn: گلوكسىينىييا
-    kk-cyrl: Глоксиния
+    kk_cyrl: Глоксиния
     kk-kz: Глоксиния
-    kk-latn: Gloksïnïya
+    kk_latn: Gloksïnïya
     kk-tr: Gloksïnïya
     ko: 게스네리아과
     ku: Famîleya gloksînyayan
-    ku-arab: فامیلەیا گلۆکسینیایان
-    ku-latn: Famîleya gloksînyayan
+    ku_arab: فامیلەیا گلۆکسینیایان
+    ku_latn: Famîleya gloksînyayan
     la: Gesneriaceae
     lt: Gesnerijiniai
     lv: Gesnēriju dzimta
@@ -104,14 +104,14 @@ dv_has_:
     oc: Gesneriaceae
     pl: Ostrojowate
     pt: Gesneriaceae
-    pt-br: Gesneriaceae
+    pt_br: Gesneriaceae
     ro: Gesneriaceae
     ru: Геснериевые
     sl: gesnerijevke
     sq: Gesneriaceae
     sr: Gesneriaceae
-    sr-ec: Gesneriaceae
-    sr-el: Gesneriaceae
+    sr_ec: Gesneriaceae
+    sr_el: Gesneriaceae
     sv: Gloxiniaväxter
     th: วงศ์ว่านไก่แดง
     tr: Gesneriaceae
@@ -122,12 +122,12 @@ dv_has_:
     war: Gesneriaceae
     yue: 苦苣苔科
     zh: 苦苣苔科
-    zh-cn: 苦苣苔科
-    zh-hans: 苦苣苔科
-    zh-hant: 苦苣苔科
-    zh-hk: 苦苣苔科
-    zh-sg: 苦苣苔科
-    zh-tw: 苦苣苔科
+    zh_cn: 苦苣苔科
+    zh_hans: 苦苣苔科
+    zh_hant: 苦苣苔科
+    zh_hk: 苦苣苔科
+    zh_sg: 苦苣苔科
+    zh_tw: 苦苣苔科
 ---
 # [[Gesneriaceae]] 
 

@@ -88,7 +88,7 @@ dv_has_:
     ba: Ожмах
     bcl: Paraiso
     be: рай
-    be-tarask: рай
+    be_tarask: рай
     bg: Рай
     bn: স্বর্গোদ্যান
     br: Paradoz
@@ -165,7 +165,7 @@ dv_has_:
     tl: Paraiso
     tr: cennet
     tt: җәннәт
-    tt-cyrl: җәннәт
+    tt_cyrl: җәннәт
     uk: рай
     ur: فردوس
     vi: Vườn cực lạc

@@ -122,7 +122,7 @@ dv_has_:
     az: Heliosentrik sistem
     ba: Гелиоцентризм
     be: Геліяцэнтрычная сістэма свету
-    be-tarask: геліяцэнтрычная сыстэма
+    be_tarask: геліяцэнтрычная сыстэма
     bg: Хелиоцентрична система
     bn: সৌরকেন্দ্রিক মতবাদ
     bo: ས་འགུལ་སྨྲ་བ་
@@ -154,11 +154,11 @@ dv_has_:
     ja: 地動説
     ka: ჰელიოცენტრული სისტემა
     kk: Геоцентрлік санақ жүйесі
-    kk-arab: گەوتسەنترلىك ساناق جۇيەسى
+    kk_arab: گەوتسەنترلىك ساناق جۇيەسى
     kk-cn: گەوتسەنترلىك ساناق جۇيەسى
-    kk-cyrl: Геоцентрлік санақ жүйесі
+    kk_cyrl: Геоцентрлік санақ жүйесі
     kk-kz: Геоцентрлік санақ жүйесі
-    kk-latn: Geocentrlik sanaq jüýesi
+    kk_latn: Geocentrlik sanaq jüýesi
     kk-tr: Geocentrlik sanaq jüýesi
     ko: 태양중심설
     ky: Гелиоцентризм
@@ -203,12 +203,12 @@ dv_has_:
     xmf: ჰელიოცენტრიზმი
     yue: 日心說
     zh: 日心体系
-    zh-cn: 日心说
-    zh-hans: 日心体系
-    zh-hant: 地動說
-    zh-hk: 日心說
-    zh-sg: 日心说
-    zh-tw: 地動說
+    zh_cn: 日心说
+    zh_hans: 日心体系
+    zh_hant: 地動說
+    zh_hk: 日心說
+    zh_sg: 日心说
+    zh_tw: 地動說
 ---
 # [[Heliocentrism]] 
 

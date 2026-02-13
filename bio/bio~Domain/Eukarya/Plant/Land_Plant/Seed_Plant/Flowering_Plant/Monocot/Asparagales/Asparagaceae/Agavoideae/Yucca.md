@@ -79,7 +79,7 @@ dv_has_:
     arz: يكه
     ast: Yucca
     az: Yukka
-    be-tarask: юка
+    be_tarask: юка
     bg: юка
     bs: juka
     ca: iuca
@@ -124,7 +124,7 @@ dv_has_:
     oc: Yucca
     pl: jukka
     pt: Yucca
-    pt-br: Yucca
+    pt_br: Yucca
     ro: Yucca
     ru: Юкка
     sco: Yucca
@@ -145,12 +145,12 @@ dv_has_:
     war: Yucca
     yue: 絲蘭屬
     zh: 丝兰属
-    zh-cn: 丝兰属
-    zh-hans: 丝兰属
-    zh-hant: 絲蘭屬
-    zh-hk: 絲蘭屬
-    zh-sg: 丝兰属
-    zh-tw: 絲蘭屬
+    zh_cn: 丝兰属
+    zh_hans: 丝兰属
+    zh_hant: 絲蘭屬
+    zh_hk: 絲蘭屬
+    zh_sg: 丝兰属
+    zh_tw: 絲蘭屬
 ---
 # [[Yucca]] 
 

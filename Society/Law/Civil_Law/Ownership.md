@@ -9,7 +9,7 @@ dv_has_:
     ban: Kaduenang
     bcl: Pagsadiri
     be: уласнасць
-    be-tarask: уласнасьць
+    be_tarask: уласнасьць
     bg: Собственост
     ca: propietat
     ckb: خاوەندارێتی
@@ -20,7 +20,7 @@ dv_has_:
     de: Inhaber
     el: ιδιοκτησία
     en: ownership
-    en-gb: ownership
+    en_gb: ownership
     eo: posedanteco
     es: propiedad
     fa: مالکیت
@@ -47,7 +47,7 @@ dv_has_:
     mk: сопственост
     mn: Өмчлөгч
     ms: pemilikan
-    ms-arab: ڤميليقن
+    ms_arab: ڤميليقن
     myv: Эрьме
     nan: Só͘-iú-khoân
     nb: eierskap
@@ -63,14 +63,14 @@ dv_has_:
     sl: lastništvo
     sq: zotërim
     sr: својина
-    sr-ec: својина
-    sr-el: svojina
+    sr_ec: својина
+    sr_el: svojina
     sv: ägande
     ta: சொத்துரிமை
     tok: jo
     tr: mülkiyet
     tt: милек
-    tt-cyrl: милек
+    tt_cyrl: милек
     uk: власність
     uz: Mulk
     vec: propietà
@@ -78,8 +78,8 @@ dv_has_:
     yi: באזיץ
     yue: 擁有權
     zh: 所有权
-    zh-hans: 所有权
-    zh-hant: 所有權
+    zh_hans: 所有权
+    zh_hant: 所有權
 aliases:
 - direito de propriedade
 - eierskap

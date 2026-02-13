@@ -66,7 +66,7 @@ dv_has_:
   name_:
     ar: تيار دوامي
     ast: Corriente de Foucault
-    be-tarask: віхравыя токі
+    be_tarask: віхравыя токі
     bg: Токове на Фуко
     bn: ঘূর্ণি বিদ্যুৎপ্রবাহ
     ca: Corrents de Foucault
@@ -76,8 +76,8 @@ dv_has_:
     de: Wirbelstrom
     el: Δινορεύμα
     en: eddy current
-    en-ca: Eddy current
-    en-gb: Eddy current
+    en_ca: Eddy current
+    en_gb: Eddy current
     eo: kirlokurento
     es: corriente de Foucault
     et: Pöörisvool
@@ -106,15 +106,15 @@ dv_has_:
     pa: ਐਡੀ ਕਰੰਟ
     pl: Prąd wirowy
     pt: corrente de Foucault
-    pt-br: Corrente de Foucault
+    pt_br: Corrente de Foucault
     ro: Curenți Foucault
     ru: Вихревые токи
     sh: Vrtložne struje
     sk: Vírivý prúd
     sl: vrtinčni tok
     sr: Вртложне струје
-    sr-ec: Вртложне струје
-    sr-el: Vrtložne struje
+    sr_ec: Вртложне струје
+    sr_el: Vrtložne struje
     sv: virvelström
     ta: சுழல் மின்னோட்டம்
     th: กระแสเอ็ดดี้
@@ -124,12 +124,12 @@ dv_has_:
     wuu: 涡电流
     yue: 渦電流
     zh: 渦電流
-    zh-cn: 涡电流
-    zh-hans: 涡电流
-    zh-hant: 渦電流
-    zh-hk: 渦電流
-    zh-sg: 涡电流
-    zh-tw: 渦電流
+    zh_cn: 涡电流
+    zh_hans: 涡电流
+    zh_hant: 渦電流
+    zh_hk: 渦電流
+    zh_sg: 涡电流
+    zh_tw: 渦電流
 ---
 # [[Eddy_Current]] 
 

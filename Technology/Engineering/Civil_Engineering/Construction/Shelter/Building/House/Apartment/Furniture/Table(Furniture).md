@@ -164,7 +164,7 @@ dv_has_:
     az: stol
     bcl: lamesa
     be: стол
-    be-tarask: стол
+    be_tarask: стол
     bew: méja
     bg: маса
     bho: मेज
@@ -181,14 +181,14 @@ dv_has_:
     cy: bwrdd
     da: bord
     de: Tisch
-    de-ch: Tisch
+    de_ch: Tisch
     dsb: blido
     dv: މޭޒު
     el: τραπέζι
     eml: tèvel
     en: table
-    en-ca: table
-    en-gb: table
+    en_ca: table
+    en_gb: table
     eo: tablo
     es: mesa
     et: laud
@@ -251,7 +251,7 @@ dv_has_:
     nap: mesa
     nb: bord
     nds: Disch
-    nds-nl: tåfel
+    nds_nl: tåfel
     nl: tafel
     nn: bord
     nqo: ߛߌ߰ߥߟߊ
@@ -264,7 +264,7 @@ dv_has_:
     pl: stół
     pnb: میز
     pt: mesa
-    pt-br: mesa
+    pt_br: mesa
     qu: hamp'ara
     ro: masă
     ru: стол
@@ -286,7 +286,7 @@ dv_has_:
     so: miis
     sq: tryezë
     sr: сто
-    sr-ec: сто
+    sr_ec: сто
     su: méja
     sv: bord
     sw: meza
@@ -299,7 +299,7 @@ dv_has_:
     tl: hapag
     tr: masa
     tt: өстәл
-    tt-cyrl: өстәл
+    tt_cyrl: өстәл
     uk: стіл
     ur: ميز
     vi: bàn
@@ -311,10 +311,10 @@ dv_has_:
     yue: 檯
     za: daiz
     zh: 桌子
-    zh-hans: 桌子
-    zh-hant: 桌子
-    zh-hk: 桌子
-    zh-tw: 桌子
+    zh_hans: 桌子
+    zh_hant: 桌子
+    zh_hk: 桌子
+    zh_tw: 桌子
 ---
 # [[Table(Furniture)]] 
 

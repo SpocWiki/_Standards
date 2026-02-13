@@ -68,11 +68,11 @@ dv_has_:
     ja: 鎧竜類
     ka: ანკილოზავრები
     kk: Анкилозаврлар
-    kk-arab: انكىيلوزاۆرلار
+    kk_arab: انكىيلوزاۆرلار
     kk-cn: انكىيلوزاۆرلار
-    kk-cyrl: Анкилозаврлар
+    kk_cyrl: Анкилозаврлар
     kk-kz: Анкилозаврлар
-    kk-latn: Ankïlozavrlar
+    kk_latn: Ankïlozavrlar
     kk-tr: Ankïlozavrlar
     ko: 곡룡류
     la: Ankylosauria
@@ -83,7 +83,7 @@ dv_has_:
     or: Ankylosauria
     pl: ankylozaury
     pt: Ankylosauria
-    pt-br: Ankylosauria
+    pt_br: Ankylosauria
     ro: Ankylosauria
     ru: анкилозавры
     sh: Ankilosauri
@@ -101,12 +101,12 @@ dv_has_:
     vo: Ankylosauria
     war: Ankylosauria
     zh: 甲龍下目
-    zh-cn: 甲龙下目
-    zh-hans: 甲龙下目
-    zh-hant: 甲龍下目
-    zh-hk: 甲龍下目
-    zh-sg: 甲龙下目
-    zh-tw: 甲龍下目
+    zh_cn: 甲龙下目
+    zh_hans: 甲龙下目
+    zh_hant: 甲龍下目
+    zh_hk: 甲龍下目
+    zh_sg: 甲龙下目
+    zh_tw: 甲龍下目
 ---
 # [[Ankylosauromorpha]] 
 

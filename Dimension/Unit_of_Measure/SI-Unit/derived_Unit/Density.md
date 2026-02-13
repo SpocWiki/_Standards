@@ -277,7 +277,7 @@ dv_has_:
     bar: Dichtn
     bcl: Densidad
     be: шчыльнасць
-    be-tarask: шчыльнасьць
+    be_tarask: шчыльнасьць
     bg: плътност
     bho: घनत्व
     bn: ঘনত্ব
@@ -289,11 +289,11 @@ dv_has_:
     cy: dwysedd
     da: massefylde
     de: Dichte
-    de-ch: Dichte
+    de_ch: Dichte
     el: πυκνότητα
     en: mass density
-    en-ca: density
-    en-gb: density
+    en_ca: density
+    en_gb: density
     eo: denso
     es: densidad
     et: tihedus
@@ -345,7 +345,7 @@ dv_has_:
     mn: нягт
     mr: घनता
     ms: ketumpatan
-    ms-arab: کتومڤتن
+    ms_arab: کتومڤتن
     mt: densità
     my: သိပ်သည်းခြင်း
     nan: bi̍t-tō͘
@@ -361,7 +361,7 @@ dv_has_:
     pl: gęstość
     ps: ټينګوالی
     pt: densidade
-    pt-br: densidade
+    pt_br: densidade
     ro: densitate
     rsk: Густосц
     ru: плотность
@@ -378,8 +378,8 @@ dv_has_:
     so: jirmiga
     sq: dendësia
     sr: густина
-    sr-ec: густина
-    sr-el: gustina
+    sr_ec: густина
+    sr_el: gustina
     sv: densitet
     sw: densiti
     szl: gynstość
@@ -388,7 +388,7 @@ dv_has_:
     th: ความหนาแน่น
     tr: yoğunluk
     tt: тыгызлык
-    tt-cyrl: тыгызлык
+    tt_cyrl: тыгызлык
     uk: густина
     ur: کثافت
     vec: densità
@@ -399,14 +399,14 @@ dv_has_:
     yo: kíkisí
     yue: 密度
     zh: 密度
-    zh-cn: 密度
-    zh-hans: 密度
-    zh-hant: 密度
-    zh-hk: 密度
-    zh-mo: 密度
+    zh_cn: 密度
+    zh_hans: 密度
+    zh_hant: 密度
+    zh_hk: 密度
+    zh_mo: 密度
     zh-my: 密度
-    zh-sg: 密度
-    zh-tw: 密度
+    zh_sg: 密度
+    zh_tw: 密度
 ---
 # [[Density]] 
 

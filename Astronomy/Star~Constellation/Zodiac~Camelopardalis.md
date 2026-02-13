@@ -103,7 +103,7 @@ dv_has_:
     az: Zürafə
     ba: Жираф
     be: Жырафа
-    be-tarask: Жырафа
+    be_tarask: Жырафа
     bg: Жираф
     bn: চিত্রক্রমেল মণ্ডল
     br: Jirafenn
@@ -115,12 +115,12 @@ dv_has_:
     cy: Camelopardalis
     da: Giraffen
     de: Giraffe
-    de-ch: Giraffe
+    de_ch: Giraffe
     diq: Zurafa
     el: Καμηλοπάρδαλις
     en: Camelopardalis
-    en-ca: Camelopardalis
-    en-gb: Camelopardalis
+    en_ca: Camelopardalis
+    en_gb: Camelopardalis
     eo: Ĝirafo
     es: Camelopardalis
     et: Kaelkirjak
@@ -163,7 +163,7 @@ dv_has_:
     nn: Sjiraffen
     pl: Gwiazdozbiór Żyrafy
     pt: Camelopardalis
-    pt-br: Camelopardalis
+    pt_br: Camelopardalis
     ro: Girafa
     ru: Жираф
     sah: Жирафа

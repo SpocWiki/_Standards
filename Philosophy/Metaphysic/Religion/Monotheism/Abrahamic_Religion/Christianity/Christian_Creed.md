@@ -85,7 +85,7 @@ dv_has_:
     ar: عقيدة دينية
     ast: Creu
     be: Сімвал веры
-    be-tarask: сымбаль веры
+    be_tarask: сымбаль веры
     bg: Верую
     br: Kredo
     ca: credo
@@ -117,11 +117,11 @@ dv_has_:
     it: credo cristiano
     ja: 信条
     kk: Сенім символы
-    kk-arab: سەنىم سىيمۆولى
+    kk_arab: سەنىم سىيمۆولى
     kk-cn: سەنىم سىيمۆولى
-    kk-cyrl: Сенім символы
+    kk_cyrl: Сенім символы
     kk-kz: Сенім символы
-    kk-latn: Senim sïmvolı
+    kk_latn: Senim sïmvolı
     kk-tr: Senim sïmvolı
     ko: 신조
     ky: Христиан ишеним
@@ -155,12 +155,12 @@ dv_has_:
     vi: bản tuyên tín
     yue: 信經
     zh: 信經
-    zh-cn: 信经
-    zh-hans: 信经
-    zh-hant: 信經
-    zh-hk: 信經
-    zh-sg: 信经
-    zh-tw: 信經
+    zh_cn: 信经
+    zh_hans: 信经
+    zh_hant: 信經
+    zh_hk: 信經
+    zh_sg: 信经
+    zh_tw: 信經
 ---
 # [[Christian_Creed]] 
 

@@ -9,7 +9,7 @@ dv_has_:
     ast: arte del Renacimientu
     az: intibah dövrü təsviri incəsənəti
     be: выяўленчае мастацтва Адраджэння
-    be-tarask: выяўленчае мастацтва Адраджэньня
+    be_tarask: выяўленчае мастацтва Адраджэньня
     bg: Ренесансово изкуство
     bn: রেনেসাঁ শিল্প
     br: Azginivelezh arzel
@@ -52,15 +52,15 @@ dv_has_:
     sl: renesančna umetnost
     sq: arti i Rilindjes
     sr: ренесансно сликарство
-    sr-ec: Ренесансна уметност
+    sr_ec: Ренесансна уметност
     sv: renässansens konst
     te: సాంస్కృతిక పునరుజ్జీవనం
     tr: Rönesans sanatı
     uk: культура епохи Відродження
     vi: Nghệ thuật thời kỳ Phục Hưng
     zh: 文藝復興藝術
-    zh-hant: 文藝復興藝術
-    zh-hk: 文藝復興藝術
+    zh_hant: 文藝復興藝術
+    zh_hk: 文藝復興藝術
 aliases:
 - art de la Renaissance
 - art del Renaixement

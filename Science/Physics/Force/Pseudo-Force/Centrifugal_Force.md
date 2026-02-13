@@ -102,7 +102,7 @@ dv_has_:
     ast: fuercia centrífuga
     az: mərkəzdənqaçma qüvvəsi
     be: цэнтрабежная сіла
-    be-tarask: адцэнтравая сіла
+    be_tarask: адцэнтравая сіла
     bg: центробежна сила
     bn: কেন্দ্রবিমুখী বল
     bs: ploca
@@ -134,11 +134,11 @@ dv_has_:
     ja: 遠心力
     ka: ცენტრიდანული ძალა
     kk: центрден тепкіш күш
-    kk-arab: تسەنتردەن تەپكىش كۇش
+    kk_arab: تسەنتردەن تەپكىش كۇش
     kk-cn: تسەنتردەن تەپكىش كۇش
-    kk-cyrl: центрден тепкіш күш
+    kk_cyrl: центрден тепкіш күш
     kk-kz: центрден тепкіш күш
-    kk-latn: centrden tepkiş küş
+    kk_latn: centrden tepkiş küş
     kk-tr: centrden tepkiş küş
     ko: 원심력
     la: vis centrifugalis
@@ -164,7 +164,7 @@ dv_has_:
     sl: centrifugalna sila
     sn: rukwarapakati
     sr: центрифугална сила
-    sr-ec: центрифугална сила
+    sr_ec: центрифугална сила
     sv: centrifugalkraft
     sw: kani nje
     ta: மையவிலக்கு விசை
@@ -172,7 +172,7 @@ dv_has_:
     th: แรงหนีศูนย์กลาง
     tr: merkezkaç kuvveti
     tt: үзәктән куу көче
-    tt-cyrl: үзәктән куу көче
+    tt_cyrl: үзәктән куу көче
     udm: шорлось кошкись кужым
     uk: відцентрова сила
     ur: مرکز گریز قوت
@@ -180,12 +180,12 @@ dv_has_:
     wuu: 离心力
     yue: 離心力
     zh: 離心力
-    zh-cn: 离心力
-    zh-hans: 离心力
-    zh-hant: 離心力
-    zh-hk: 離心力
-    zh-sg: 离心力
-    zh-tw: 離心力
+    zh_cn: 离心力
+    zh_hans: 离心力
+    zh_hant: 離心力
+    zh_hk: 離心力
+    zh_sg: 离心力
+    zh_tw: 離心力
 ---
 # [[Centrifugal_Force]] 
 

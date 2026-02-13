@@ -318,7 +318,7 @@ dv_has_:
   name_:
     ab: Папуа-Гвинеиа ҿыц
     ace: Papua New Guinea
-    aeb-arab: پاپوا غينيا الجديدة
+    aeb_arab: پاپوا غينيا الجديدة
     af: Papoea-Nieu-Guinee
     am: ፓፑዋ ኒው ጊኒ
     ami: Papua new guinea
@@ -338,7 +338,7 @@ dv_has_:
     bar: Papua-Neuguinea
     bcl: Papua Bagong Guineya
     be: Папуа — Новая Гвінея
-    be-tarask: Папуа — Новая Гвінэя
+    be_tarask: Папуа — Новая Гвінэя
     bew: Papua Nugini
     bg: Папуа Нова Гвинея
     bi: Papua New Guinea
@@ -349,7 +349,7 @@ dv_has_:
     bs: Papua Nova Gvineja
     bxr: Папуа-Шэнэ Гвинея
     ca: Papua Nova Guinea
-    cbk-zam: Papua Nueva Guinea
+    cbk_zam: Papua Nueva Guinea
     cdo: Papua New Guinea
     ce: Папуа — Керла Гвине
     ceb: Papua New Guinea
@@ -357,7 +357,7 @@ dv_has_:
     chy: Papua New Guinea
     ckb: پاپوا گینێی نوێ
     crh: Papua Yañı Gvineya
-    crh-latn: Papua Yañı Gvineya
+    crh_latn: Papua Yañı Gvineya
     cs: Papua Nová Guinea
     cu: Папоуа · Нова Гвинєꙗ
     cv: Папуа - Ҫӗнӗ Гвинея
@@ -365,7 +365,7 @@ dv_has_:
     da: Papua Ny Guinea
     dag: Papua New Guinea
     de: Papua-Neuguinea
-    de-ch: Papua-Neuguinea
+    de_ch: Papua-Neuguinea
     din: Papua New Guinea
     diq: Papua Gineya Newiye
     dsb: Papua-Neuguinea
@@ -374,8 +374,8 @@ dv_has_:
     dv: ޕަޕުއާ ނިއު ގިނީ
     el: Παπούα Νέα Γουινέα
     en: Papua New Guinea
-    en-ca: Papua New Guinea
-    en-gb: Papua New Guinea
+    en_ca: Papua New Guinea
+    en_gb: Papua New Guinea
     en-us: Papua New Guinea
     eo: Papuo-Nov-Gvineo
     es: Papúa Nueva Guinea
@@ -399,7 +399,7 @@ dv_has_:
     gn: Papúa Gynéa Pyahu
     gom: पापुआ न्यू गिनी
     gom-deva: पापुआ न्यू गिनी
-    gom-latn: Papua New Guinea
+    gom_latn: Papua New Guinea
     gpe: Papua New Guinea
     gsw: Papua-Neiginea
     gu: પપુઆ ન્યુ ગીની
@@ -457,7 +457,7 @@ dv_has_:
     lv: Papua-Jaungvineja
     lzh: 巴布亚新几内亚
     mad: Papua Nugini
-    map-bms: Papua Nugini
+    map_bms: Papua Nugini
     mg: Papoa Ginea Vao
     mhr: Папуа-У Гвиней
     mi: Papua Nūkini
@@ -479,7 +479,7 @@ dv_has_:
     nan: Papua New Guinea
     nb: Papua Ny-Guinea
     nds: Papua-Niegguinea
-    nds-nl: Papua Nyguinea
+    nds_nl: Papua Nyguinea
     ne: पपुवा न्यु गिनिया
     new: पपुवा न्हु गिनिया
     nia: Papua Nugini
@@ -502,7 +502,7 @@ dv_has_:
     pnb: پاپوانیوگنی
     ps: نوې پاپواګينه
     pt: Papua-Nova Guiné
-    pt-br: Papua-Nova Guiné
+    pt_br: Papua-Nova Guiné
     qu: Papwa Ñukini
     rki: ပါပူအာနယူးဂီနီနိုင်ငံ
     rmy: Papua Nevo Guiney
@@ -532,8 +532,8 @@ dv_has_:
     so: Papua New Guinea
     sq: Papua Guinea e Re
     sr: Папуа Нова Гвинеја
-    sr-ec: Папуа Нова Гвинеја
-    sr-el: Papua Nova Gvineja
+    sr_ec: Папуа Нова Гвинеја
+    sr_el: Papua Nova Gvineja
     su: Papua Nugini
     sv: Papua Nya Guinea
     sw: Papua Guinea Mpya
@@ -577,11 +577,11 @@ dv_has_:
     zea: Papoea Nieuw-Hunea
     zgh: ⴱⴰⴱⵡⴰ ⴳⵉⵏⵢⴰ ⵜⴰⵎⴰⵢⵏⵓⵜ
     zh: 巴布亚新几内亚
-    zh-cn: 巴布亚新几内亚
-    zh-hans: 巴布亚新几内亚
-    zh-hant: 巴布亞紐幾內亞
-    zh-hk: 巴布亞新畿內亞
-    zh-tw: 巴布亞紐幾內亞
+    zh_cn: 巴布亚新几内亚
+    zh_hans: 巴布亚新几内亚
+    zh_hant: 巴布亞紐幾內亞
+    zh_hk: 巴布亞新畿內亞
+    zh_tw: 巴布亞紐幾內亞
     zu: I-Papua Nyugini
 ---
 # [[Papua-New_Guinea]] 

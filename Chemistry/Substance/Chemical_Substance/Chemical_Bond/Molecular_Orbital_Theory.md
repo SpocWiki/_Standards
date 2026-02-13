@@ -68,7 +68,7 @@ dv_has_:
     ar: نظرية مدار جزيئ
     ast: Teoría de los orbitales moleculares
     az: Molekulyar orbitallar nəzəriyyəsi
-    be-tarask: тэорыя малекулярных арбіталяў
+    be_tarask: тэорыя малекулярных арбіталяў
     bg: Метод на молекулните орбитали
     bn: আণবিক কাক্ষিক তত্ত্ব
     ca: teoria dels orbitals moleculars
@@ -76,7 +76,7 @@ dv_has_:
     de: Molekülorbitaltheorie
     el: Θεωρία των μοριακών τροχιακών
     en: molecular orbital theory
-    en-gb: Molecular orbital theory
+    en_gb: Molecular orbital theory
     eo: molekula orbita teorio
     es: teoría de los orbitales moleculares
     et: Molekulaarorbitaalide teooria
@@ -110,9 +110,9 @@ dv_has_:
     uk: Метод молекулярних орбіталей
     wuu: 分子轨道理论
     zh: 分子轨道理论
-    zh-hans: 分子轨道理论
-    zh-hant: 分子軌道理論
-    zh-hk: 分子軌道理論
+    zh_hans: 分子轨道理论
+    zh_hant: 分子軌道理論
+    zh_hk: 分子軌道理論
 ---
 # [[Molecular_Orbital_Theory]] 
 

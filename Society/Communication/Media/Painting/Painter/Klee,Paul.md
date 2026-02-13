@@ -236,7 +236,7 @@ dv_has_:
     ast: Paul Klee
     bar: Paul Klee
     be: Паўль Клее
-    be-tarask: Паўль Клеэ
+    be_tarask: Паўль Клеэ
     bg: Паул Клее
     br: Paul Klee
     ca: Paul Klee
@@ -246,11 +246,11 @@ dv_has_:
     da: Paul Klee
     de: Paul Klee
     de-at: Paul Klee
-    de-ch: Paul Klee
+    de_ch: Paul Klee
     el: Πάουλ Κλέε
     en: Paul Klee
-    en-ca: Paul Klee
-    en-gb: Paul Klee
+    en_ca: Paul Klee
+    en_gb: Paul Klee
     eo: Paul Klee
     es: Paul Klee
     et: Paul Klee
@@ -298,7 +298,7 @@ dv_has_:
     nap: Paul Klee
     nb: Paul Klee
     nds: Paul Klee
-    nds-nl: Paul Klee
+    nds_nl: Paul Klee
     nl: Paul Klee
     nn: Paul Klee
     nrm: Paul Klee
@@ -308,7 +308,7 @@ dv_has_:
     pl: Paul Klee
     pms: Paul Klee
     pt: Paul Klee
-    pt-br: Paul Klee
+    pt_br: Paul Klee
     rm: Paul Klee
     ro: Paul Klee
     ru: Пауль Клее
@@ -321,8 +321,8 @@ dv_has_:
     sl: Paul Klee
     sq: Paul Klee
     sr: Паул Кле
-    sr-ec: Паул Кле
-    sr-el: Paul Klee
+    sr_ec: Паул Кле
+    sr_el: Paul Klee
     stq: Paul Klee
     sv: Paul Klee
     sw: Paul Klee

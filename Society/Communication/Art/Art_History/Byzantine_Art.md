@@ -79,7 +79,7 @@ dv_has_:
     ast: arte bizantín
     az: Bizans incəsənəti
     be: Мастацтва Візантыі
-    be-tarask: бізантыйскае мастацтва
+    be_tarask: бізантыйскае мастацтва
     bg: Византийско изкуство
     bho: बाइजेंटाइन आर्ट
     bs: bizantska umjetnost
@@ -90,7 +90,7 @@ dv_has_:
     de: Byzantinische Kunst
     el: Βυζαντινή τέχνη
     en: Byzantine art
-    en-gb: Byzantine art
+    en_gb: Byzantine art
     eo: Bizancia arto
     es: arte bizantino
     eu: bizantziar arte
@@ -126,14 +126,14 @@ dv_has_:
     smn: bysantlâš taaiđâ
     sms: bysaantlaž čeäppõs
     sr: византијска уметност
-    sr-ec: Византијска уметност
-    sr-el: Vizantijska umetnost
+    sr_ec: Византијска уметност
+    sr_el: Vizantijska umetnost
     sv: bysantinsk konst
     ta: பைசன்டியக் கலை
     th: ศิลปะไบแซนไทน์
     tr: Bizans sanatı
     tt: Византия сәнгате
-    tt-cyrl: Византия сәнгате
+    tt_cyrl: Византия сәнгате
     uk: візантійське мистецтво
     vi: nghệ thuật Byzantine
     xmf: ბიზანტიური ხელუანობა

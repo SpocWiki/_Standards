@@ -168,12 +168,12 @@ dv_has_:
     azb: ماریا کری
     bcl: Mariah Carey
     be: Мэрая Кэры
-    be-tarask: Мэрая Кэры
+    be_tarask: Мэрая Кэры
     bg: Марая Кери
     bi: Mariah Carey
     bn: মারিয়া ক্যারি
     ca: Mariah Carey
-    cbk-zam: Mariah Carey
+    cbk_zam: Mariah Carey
     ckb: ماریا کێری
     cs: Mariah Carey
     cy: Mariah Carey
@@ -245,7 +245,7 @@ dv_has_:
     pap: Mariah Carey
     pl: Mariah Carey
     pt: Mariah Carey
-    pt-br: Mariah Carey
+    pt_br: Mariah Carey
     qu: Mariah Carey
     ro: Mariah Carey
     ru: Мэрайя Кэри
@@ -275,10 +275,10 @@ dv_has_:
     yo: Mariah Carey
     yue: 瑪麗亞·凱莉
     zh: 瑪麗亞·凱莉
-    zh-cn: 玛丽亚·凯莉
-    zh-hant: 瑪麗亞·凱莉
-    zh-hk: 瑪麗·嘉兒
-    zh-tw: 瑪麗亞·凱莉
+    zh_cn: 玛丽亚·凯莉
+    zh_hant: 瑪麗亞·凱莉
+    zh_hk: 瑪麗·嘉兒
+    zh_tw: 瑪麗亞·凱莉
 ---
 # [[Carey,Mariah]] 
 

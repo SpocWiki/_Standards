@@ -614,7 +614,7 @@ dv_has_:
     ab: Португалиа
     ace: Portugéh
     ady: Португалие
-    aeb-arab: البرتڨال
+    aeb_arab: البرتڨال
     af: Portugal
     am: ፖርቱጋል
     ami: Portugal
@@ -642,7 +642,7 @@ dv_has_:
     bbc: Portugal
     bcl: Portugal
     be: Партугалія
-    be-tarask: Партугалія
+    be_tarask: Партугалія
     bew: Portugal
     bg: Португалия
     bho: पुर्तगाल
@@ -656,7 +656,7 @@ dv_has_:
     bug: Portugis
     bxr: Португал
     ca: Portugal
-    cbk-zam: Portugal
+    cbk_zam: Portugal
     cdo: Buò-dò̤-ngà
     ce: Португали
     ceb: Portugal
@@ -665,7 +665,7 @@ dv_has_:
     ckb: پورتوگال
     co: Portugallu
     crh: Portugaliya
-    crh-latn: Portugaliya
+    crh_latn: Portugaliya
     cs: Portugalsko
     csb: Pòrtugalskô
     cu: Портогалїꙗ
@@ -675,7 +675,7 @@ dv_has_:
     dag: Portugal
     de: Portugal
     de-at: Portugal
-    de-ch: Portugal
+    de_ch: Portugal
     diq: Portekiz
     dsb: Portugalska
     dtp: Portugal
@@ -686,8 +686,8 @@ dv_has_:
     el: Πορτογαλία
     eml: Purtugàl
     en: Portugal
-    en-ca: Portugal
-    en-gb: Portugal
+    en_ca: Portugal
+    en_gb: Portugal
     en-us: Portugal
     eo: Portugalio
     es: Portugal
@@ -713,7 +713,7 @@ dv_has_:
     gn: Poytuga
     gom: Portugal
     gom-deva: पोर्तुगाल
-    gom-latn: Portugal
+    gom_latn: Portugal
     got: "\U00010340\U00010330\U0001033F\U00010342\U00010344\U0001033F\U00010332\U00010330\U0001033B\U0001033E\U00010330"
     gpe: Portugal
     gsw: Portugal
@@ -790,7 +790,7 @@ dv_has_:
     lzh: 葡萄牙
     mad: Portugal
     mai: पोर्चुगल
-    map-bms: Portugal
+    map_bms: Portugal
     mdf: Португалия
     mg: Pôrtogaly
     mhr: Португалий
@@ -803,7 +803,7 @@ dv_has_:
     mo: Португалия
     mr: पोर्तुगाल
     ms: Portugal
-    ms-arab: ڤورتوݢل
+    ms_arab: ڤورتوݢل
     mt: Portugall
     mwl: Pertual
     my: ပေါ်တူဂီနိုင်ငံ
@@ -815,7 +815,7 @@ dv_has_:
     nap: Purtuallo
     nb: Portugal
     nds: Portugal
-    nds-nl: Portugal
+    nds_nl: Portugal
     ne: पोर्चुगल
     new: पोर्चुगल
     nia: Portugal
@@ -845,7 +845,7 @@ dv_has_:
     pnt: Πορτογαλία
     ps: پرتګال
     pt: Portugal
-    pt-br: Portugal
+    pt_br: Portugal
     qu: Purtugal
     rm: Portugal
     rmy: Portugaliya
@@ -881,8 +881,8 @@ dv_has_:
     so: Bortuqaal
     sq: Portugalia
     sr: Португалија
-    sr-ec: Португалија
-    sr-el: Portugalija
+    sr_ec: Португалија
+    sr_el: Portugalija
     srn: Portugesokondre
     ss: IPhuthukezi
     st: Portugal
@@ -938,14 +938,14 @@ dv_has_:
     zea: Portuhal
     zgh: ⴱⵔⵜⵇⵇⵉⵣ
     zh: 葡萄牙
-    zh-cn: 葡萄牙
-    zh-hans: 葡萄牙
-    zh-hant: 葡萄牙
-    zh-hk: 葡萄牙
-    zh-mo: 葡萄牙
+    zh_cn: 葡萄牙
+    zh_hans: 葡萄牙
+    zh_hant: 葡萄牙
+    zh_hk: 葡萄牙
+    zh_mo: 葡萄牙
     zh-my: 葡萄牙
-    zh-sg: 葡萄牙
-    zh-tw: 葡萄牙
+    zh_sg: 葡萄牙
+    zh_tw: 葡萄牙
     zu: IPhothugali
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Portugal

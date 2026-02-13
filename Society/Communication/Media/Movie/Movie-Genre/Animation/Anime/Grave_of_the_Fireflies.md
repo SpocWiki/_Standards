@@ -15,8 +15,8 @@ dv_has_:
     da: Grave of the Fireflies
     de: Die letzten Glühwürmchen
     en: Grave of the Fireflies
-    en-ca: Grave of the Fireflies
-    en-gb: Grave of the Fireflies
+    en_ca: Grave of the Fireflies
+    en_gb: Grave of the Fireflies
     eo: Hotaru no haka
     es: La tumba de las luciérnagas
     eu: Hotaru no Haka
@@ -44,14 +44,14 @@ dv_has_:
     nl: Grave of the Fireflies
     pl: Grobowiec świetlików
     pt: Hotaru no Haka
-    pt-br: Hotaru no Haka
+    pt_br: Hotaru no Haka
     ro: Mormântul licuricilor
     ru: Могила светлячков
     sc: Hotaru no Haka
     sh: Grave of the Fireflies
     sr: Гробље свитаца
-    sr-ec: Гробље свитаца
-    sr-el: Groblje svitaca
+    sr_ec: Гробље свитаца
+    sr_el: Groblje svitaca
     sv: Eldflugornas grav
     th: สุสานหิ่งห้อย
     tr: Ateşböceklerinin Mezarı
@@ -60,14 +60,14 @@ dv_has_:
     vi: Mộ đom đóm
     yue: 再見螢火蟲
     zh: 螢火蟲之墓
-    zh-cn: 萤火虫之墓
-    zh-hans: 萤火虫之墓
-    zh-hant: 螢火蟲之墓
-    zh-hk: 再見螢火蟲
-    zh-mo: 再見螢火蟲
+    zh_cn: 萤火虫之墓
+    zh_hans: 萤火虫之墓
+    zh_hant: 螢火蟲之墓
+    zh_hk: 再見螢火蟲
+    zh_mo: 再見螢火蟲
     zh-my: 萤火虫之墓
-    zh-sg: 萤火虫之墓
-    zh-tw: 螢火蟲之墓
+    zh_sg: 萤火虫之墓
+    zh_tw: 螢火蟲之墓
 aliases:
 - Ateşböceklerinin Mezarı
 - Atəşböcəklərinin məzarı

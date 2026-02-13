@@ -115,7 +115,7 @@ dv_has_:
     as: মৌলকক্ষ
     az: matris
     be: матрыца
-    be-tarask: матрыца
+    be_tarask: матрыца
     bg: матрица
     bn: ম্যাট্রিক্স
     bs: matrica
@@ -128,8 +128,8 @@ dv_has_:
     de: Matrix
     el: πίνακας
     en: matrix
-    en-ca: matrix
-    en-gb: matrix
+    en_ca: matrix
+    en_gb: matrix
     eo: matrico
     es: matriz
     et: maatriks
@@ -182,7 +182,7 @@ dv_has_:
     pms: matris
     pnb: ماٹرکس
     pt: matriz
-    pt-br: matriz
+    pt_br: matriz
     ro: matrice
     ru: матрица
     sah: матрица
@@ -197,7 +197,7 @@ dv_has_:
     so: taxane
     sq: matrica
     sr: матрица
-    sr-ec: матрица
+    sr_ec: матрица
     sv: matris
     ta: அணி
     th: เมทริกซ์
@@ -210,8 +210,8 @@ dv_has_:
     wuu: 矩阵
     yue: 矩陣
     zh: 矩阵
-    zh-hans: 矩阵
-    zh-hant: 矩陣
+    zh_hans: 矩阵
+    zh_hant: 矩陣
 ---
 # [[Matrix]] 
 

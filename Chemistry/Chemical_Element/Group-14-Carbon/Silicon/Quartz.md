@@ -157,7 +157,7 @@ dv_has_:
     ast: cuarzu
     az: kvars
     be: кварц
-    be-tarask: кварц
+    be_tarask: кварц
     bg: кварц
     bho: क्वार्ट्ज
     bs: kvarc
@@ -228,7 +228,7 @@ dv_has_:
     pnb: کوارٹز
     ps: کوارتز
     pt: quartzo
-    pt-br: quartzo
+    pt_br: quartzo
     qu: qhisqa
     ro: cuarț
     ru: кварц
@@ -263,7 +263,7 @@ dv_has_:
     yo: quartz
     yue: 石英
     zh: 石英
-    zh-tw: 石英
+    zh_tw: 石英
 ---
 # [[Quartz]] 
 

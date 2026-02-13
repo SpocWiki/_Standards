@@ -110,7 +110,7 @@ dv_has_:
     ast: Xigante colorada
     az: Qırmızı nəhənglər
     be: Чырвоны гігант
-    be-tarask: чырвоны гігант
+    be_tarask: чырвоны гігант
     bg: Червен гигант
     bn: লোহিত দানব
     bs: Crveni div
@@ -121,12 +121,12 @@ dv_has_:
     cy: cawr coch
     da: Rød kæmpe
     de: Roter Riese
-    de-ch: Roter Riese
+    de_ch: Roter Riese
     diq: Dêwo sûr
     el: Ερυθρός γίγαντας
     en: red giant
-    en-ca: Red giant
-    en-gb: red giant
+    en_ca: Red giant
+    en_gb: red giant
     eo: ruĝa giganto
     es: gigante roja
     et: punane hiid
@@ -165,7 +165,7 @@ dv_has_:
     pl: czerwony olbrzym
     pnb: لال جن
     pt: gigante vermelha
-    pt-br: Gigante vermelha
+    pt_br: Gigante vermelha
     rki: ဧရာမ ကြယ်နီ
     ro: gigantă roșie
     ru: красный гигант

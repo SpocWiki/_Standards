@@ -144,7 +144,7 @@ dv_has_:
     ba: Празеодим
     ban: Praséodimium
     be: Празеадым
-    be-tarask: Празэадым
+    be_tarask: Празэадым
     bg: празеодим
     bho: प्रासियोडाइमियम
     bn: প্রাসিওডিমিয়াম
@@ -215,7 +215,7 @@ dv_has_:
     mr: प्रासिओडायमियम
     mrj: Празеодим
     ms: praseodimium
-    ms-arab: ڤراسيوديميوم
+    ms_arab: ڤراسيوديميوم
     mt: prasedimju
     my: ပရာဆီယိုဒိုင်ယမ်
     myv: Празеодим
@@ -237,7 +237,7 @@ dv_has_:
     pnb: پریزیڈومیم
     ps: پراسيوديموميم
     pt: praseodímio
-    pt-br: praseodímio
+    pt_br: praseodímio
     qu: Praseodimyu
     ro: praseodim
     ru: празеодим
@@ -273,9 +273,9 @@ dv_has_:
     yo: Praseodymium
     yue: 鐠
     zh: 镨
-    zh-hans: 镨
-    zh-hant: 鐠
-    zh-tw: 鐠
+    zh_hans: 镨
+    zh_hant: 鐠
+    zh_tw: 鐠
     zu: UmPhahlazambi
   number_of_:
     period: 6

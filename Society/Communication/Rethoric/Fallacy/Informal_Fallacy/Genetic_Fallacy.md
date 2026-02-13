@@ -37,7 +37,7 @@ dv_has_:
   name_:
     af: Genetiese denkfout
     ar: مغالطة المنشأ
-    be-tarask: генэтычная хіба
+    be_tarask: генэтычная хіба
     de: genetischer Fehlschluss
     en: genetic fallacy
     eo: sofismo de origino
@@ -60,9 +60,9 @@ dv_has_:
     th: เหตุผลวิบัติโดยกำเนิด
     uk: Генетична омана
     zh: 起源謬誤
-    zh-hans: 起源谬误
-    zh-hant: 起源謬誤
-    zh-hk: 起源謬誤
+    zh_hans: 起源谬误
+    zh_hant: 起源謬誤
+    zh_hk: 起源謬誤
 ---
 # [[Genetic_Fallacy]] 
 

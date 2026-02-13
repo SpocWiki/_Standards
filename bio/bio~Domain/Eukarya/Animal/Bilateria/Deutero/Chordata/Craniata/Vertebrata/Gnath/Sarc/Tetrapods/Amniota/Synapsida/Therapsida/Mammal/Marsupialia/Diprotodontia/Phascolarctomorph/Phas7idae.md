@@ -80,7 +80,7 @@ dv_has_:
     oc: Fascolarctids
     pl: Koalowate
     pt: Phascolarctidae
-    pt-br: Phascolarctidae
+    pt_br: Phascolarctidae
     ro: Phascolarctidae
     ru: коаловые
     sq: Phascolarctidae
@@ -91,14 +91,14 @@ dv_has_:
     war: Phascolarctidae
     yue: 樹熊科
     zh: 树袋熊科
-    zh-cn: 树袋熊科
-    zh-hans: 树袋熊科
-    zh-hant: 樹袋熊科
-    zh-hk: 樹熊科
-    zh-mo: 樹熊科
+    zh_cn: 树袋熊科
+    zh_hans: 树袋熊科
+    zh_hant: 樹袋熊科
+    zh_hk: 樹熊科
+    zh_mo: 樹熊科
     zh-my: 无尾熊科
-    zh-sg: 无尾熊科
-    zh-tw: 無尾熊科
+    zh_sg: 无尾熊科
+    zh_tw: 無尾熊科
 ---
 # Phascolarctidae 
 

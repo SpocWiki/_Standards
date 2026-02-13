@@ -347,7 +347,7 @@ dv_has_:
     bbc: Hata Sina
     bcl: Intsik
     be: кітайская мова
-    be-tarask: кітайская мова
+    be_tarask: кітайская мова
     bew: Basa Tionghoa
     bg: Китайски език
     bho: चीनी भाषा
@@ -365,7 +365,7 @@ dv_has_:
     chy: Chinese
     ckb: زمانی چینی
     crh: Çin tili
-    crh-latn: Çin tili
+    crh_latn: Çin tili
     crh-ro: kîtayğa
     cs: čínština
     cu: Срѣдиньскъ ѩꙁꙑкъ
@@ -373,14 +373,14 @@ dv_has_:
     cy: Tsieineeg
     da: kinesisk
     de: Chinesisch
-    de-ch: Chinesische Sprachen
+    de_ch: Chinesische Sprachen
     diq: Çinki
     dsb: Chinšćina
     dv: ސީނީ
     el: Κινεζικά
     en: Chinese
-    en-ca: Chinese
-    en-gb: Chinese
+    en_ca: Chinese
+    en_gb: Chinese
     eo: ĉina lingvo
     es: chino
     et: hiina keel
@@ -464,7 +464,7 @@ dv_has_:
     lzh: 漢語
     mad: Bhâsa Tiongkok
     mai: चीनी भाषा
-    map-bms: Basa Cina
+    map_bms: Basa Cina
     mg: Fiteny sinoa
     mi: Reo Hainamana
     min: Bahaso Cino
@@ -475,7 +475,7 @@ dv_has_:
     mni: ꯈꯥꯀꯤ ꯂꯣꯟ
     mr: चिनी भाषा
     ms: bahasa Cina
-    ms-arab: بهاس چينا
+    ms_arab: بهاس چينا
     mt: Ċiniż
     mwl: Lhéngua chinesa
     my: တရုတ်ဘာသာ
@@ -504,7 +504,7 @@ dv_has_:
     pnb: چینی
     ps: چينايي ژبه
     pt: língua chinesa
-    pt-br: língua chinesa
+    pt_br: língua chinesa
     pwn: ciniukukuan
     qu: Chunu simi
     rki: တရုတ်ဘာသာ
@@ -535,7 +535,7 @@ dv_has_:
     sn: Chichayina
     sq: kinezisht
     sr: кинески
-    sr-ec: кинески
+    sr_ec: кинески
     st: Se-china
     stq: Han-Chinesiske Sproaken
     su: Basa Tionghoa
@@ -556,7 +556,7 @@ dv_has_:
     tr: Çince
     trv: Kari Tlu
     tt: кытай теле
-    tt-cyrl: кытай теле
+    tt_cyrl: кытай теле
     tw: Chinese
     ty: Reo Tinitō
     tyv: Кыдат дыл
@@ -582,14 +582,14 @@ dv_has_:
     zea: Chineês
     zgh: ⵜⵓⵜⵍⴰⵢⵜ ⵜⴰⵛⵉⵏⵡⵉⵜ
     zh: 中文
-    zh-cn: 中文
-    zh-hans: 中文
-    zh-hant: 中文
-    zh-hk: 中文
-    zh-mo: 中文
+    zh_cn: 中文
+    zh_hans: 中文
+    zh_hant: 中文
+    zh_hk: 中文
+    zh_mo: 中文
     zh-my: 中文
-    zh-sg: 中文
-    zh-tw: 中文
+    zh_sg: 中文
+    zh_tw: 中文
     zu: IsiShayina
 ---
 # [[LangFamily-Sinitic]] 

@@ -155,7 +155,7 @@ dv_has_:
     ban: ténis
     bar: Tennis
     be: тэніс
-    be-tarask: тэніс
+    be_tarask: тэніс
     bew: Tènes
     bg: тенис
     bho: टेनिस
@@ -174,12 +174,12 @@ dv_has_:
     cy: tenis
     da: tennis
     de: Tennis
-    de-ch: Tennis
+    de_ch: Tennis
     diq: tenis
     el: αντισφαίριση
     en: tennis
-    en-ca: tennis
-    en-gb: tennis
+    en_ca: tennis
+    en_gb: tennis
     eo: teniso
     es: tenis
     et: tennis
@@ -242,7 +242,7 @@ dv_has_:
     mn: теннис
     mr: टेनिस
     ms: tenis
-    ms-arab: تينيس
+    ms_arab: تينيس
     mwl: ténis
     my: တင်းနစ်
     nan: the-ní-suh
@@ -265,7 +265,7 @@ dv_has_:
     pms: Tennis
     pnb: ٹینس
     pt: ténis
-    pt-br: tênis
+    pt_br: tênis
     qu: Thinis
     rm: tennis
     ro: tenis
@@ -295,7 +295,7 @@ dv_has_:
     so: Ciyaarta Teeniska
     sq: tenisi
     sr: тенис
-    sr-ec: тенис
+    sr_ec: тенис
     su: ténis
     sv: tennis
     sw: tennis
@@ -324,14 +324,14 @@ dv_has_:
     yo: tẹ́nìs
     yue: 網球
     zh: 网球
-    zh-cn: 网球
-    zh-hans: 网球
-    zh-hant: 網球
-    zh-hk: 網球
-    zh-mo: 网球
+    zh_cn: 网球
+    zh_hans: 网球
+    zh_hant: 網球
+    zh_hk: 網球
+    zh_mo: 网球
     zh-my: 网球
-    zh-sg: 网球
-    zh-tw: 網球
+    zh_sg: 网球
+    zh_tw: 網球
 ---
 # [[Tennis]] 
 

@@ -188,7 +188,7 @@ dv_has_:
     ban: Patih Agung
     bcl: Primer ministro
     be: прэм’ер-міністр
-    be-tarask: прэм’ер-міністар
+    be_tarask: прэм’ер-міністар
     bew: Wajiralam
     bg: Министър-председател
     bho: परधानमंत्री
@@ -204,8 +204,8 @@ dv_has_:
     de: Premierminister
     el: πρωθυπουργός
     en: prime minister
-    en-ca: prime minister
-    en-gb: prime minister
+    en_ca: prime minister
+    en_gb: prime minister
     eo: ĉefministro
     es: primer ministro
     et: peaminister
@@ -265,7 +265,7 @@ dv_has_:
     mn: Ерөнхий сайд
     mr: पंतप्रधान
     ms: perdana menteri
-    ms-arab: ڤردان منتري
+    ms_arab: ڤردان منتري
     mt: Prim Ministru
     my: ဝန်ကြီးချုပ်
     na: Prime Minister
@@ -285,7 +285,7 @@ dv_has_:
     pnb: وزیر اعظم
     ps: لومړی وزیر
     pt: primeiro-ministro
-    pt-br: Primeiro-ministro
+    pt_br: Primeiro-ministro
     qu: Uma kamayuq
     rmf: ȟeeruno ministerios
     ro: prim-ministru
@@ -316,7 +316,7 @@ dv_has_:
     tl: Punong ministro
     tr: başbakan
     tt: премьер-министр
-    tt-cyrl: премьер-министр
+    tt_cyrl: премьер-министр
     udm: Премьер-министр
     uk: прем'єр-міністр
     ur: وزیر اعظم
@@ -331,14 +331,14 @@ dv_has_:
     yo: Alákòóso àgbà
     yue: 首相
     zh: 总理
-    zh-cn: 总理
-    zh-hans: 总理
-    zh-hant: 總理
-    zh-hk: 總理
-    zh-mo: 總理
+    zh_cn: 总理
+    zh_hans: 总理
+    zh_hant: 總理
+    zh_hk: 總理
+    zh_mo: 總理
     zh-my: 总理
-    zh-sg: 总理
-    zh-tw: 總理
+    zh_sg: 总理
+    zh_tw: 總理
 ---
 # [[Prime_Minister]] 
 

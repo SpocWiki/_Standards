@@ -147,7 +147,7 @@ dv_has_:
     az: Robert Huk
     azb: رابرت هوک
     be: Роберт Гук
-    be-tarask: Робэрт Гук
+    be_tarask: Робэрт Гук
     bg: Робърт Хук
     bn: রবার্ট হুক
     bs: Robert Hooke
@@ -210,7 +210,7 @@ dv_has_:
     pnb: رابرٹ ہک
     ps: رابرټ هوک
     pt: Robert Hooke
-    pt-br: Robert Hooke
+    pt_br: Robert Hooke
     ro: Robert Hooke
     ru: Роберт Гук
     sa: राबर्ट् हुक्
@@ -222,7 +222,7 @@ dv_has_:
     sl: Robert Hooke
     sq: Robert Huk
     sr: Роберт Хук
-    sr-ec: Роберт Хук
+    sr_ec: Роберт Хук
     sv: Robert Hooke
     sw: Robert Hooke
     ta: ராபர்ட் ஹூக்
@@ -239,8 +239,8 @@ dv_has_:
     xmf: რობერტ ჰუკი
     yue: 羅拔虎克
     zh: 罗伯特·胡克
-    zh-hans: 罗伯特·胡克
-    zh-hk: 羅拔·虎克
+    zh_hans: 罗伯特·胡克
+    zh_hk: 羅拔·虎克
 ---
 # [[Hooke,Robert]] 
 

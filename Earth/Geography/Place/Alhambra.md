@@ -27,7 +27,7 @@ dv_has_:
     az: Əlhambra sarayı
     ba: Әл-Хәмрә ҡәлғәһе
     be: Альгамбра
-    be-tarask: Альгамбра
+    be_tarask: Альгамбра
     bg: Алхамбра
     bho: अल हम्ब्रा
     bn: আলহাম্বরা
@@ -109,8 +109,8 @@ dv_has_:
     xmf: ალაჰამბრა
     yue: 阿爾罕布拉宮
     zh: 阿尔罕布拉宫
-    zh-hans: 阿尔罕布拉宫
-    zh-hant: 阿爾罕布拉宮
+    zh_hans: 阿尔罕布拉宫
+    zh_hant: 阿爾罕布拉宮
 aliases:
 - Al-humro saroyi
 - Alambra

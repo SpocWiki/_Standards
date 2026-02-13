@@ -161,7 +161,7 @@ dv_has_:
     ba: Шайбалы хоккей
     bar: Eishockey
     be: хакей з шайбай
-    be-tarask: хакей з шайбай
+    be_tarask: хакей з шайбай
     bg: Хокей на лед
     bn: আইস হকি
     br: hockey war skorn
@@ -177,7 +177,7 @@ dv_has_:
     diq: Hokeyê cemedi
     el: χόκεϊ επί πάγου
     en: ice hockey
-    en-ca: hockey
+    en_ca: hockey
     eo: glacihokeo
     es: hockey sobre hielo
     et: jäähoki
@@ -269,10 +269,10 @@ dv_has_:
     yi: אייז האקי
     yue: 冰球
     zh: 冰球
-    zh-cn: 冰球
-    zh-hans: 冰球
-    zh-hant: 冰球
-    zh-tw: 冰球
+    zh_cn: 冰球
+    zh_hans: 冰球
+    zh_hant: 冰球
+    zh_tw: 冰球
 ---
 # [[Ice_Hockey]] 🏒 
 

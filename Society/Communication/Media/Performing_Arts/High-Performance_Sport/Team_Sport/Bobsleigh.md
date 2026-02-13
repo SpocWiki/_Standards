@@ -81,7 +81,7 @@ dv_has_:
     ba: Бобслей
     bcl: Bobsled
     be: бабслей
-    be-tarask: бобслэй
+    be_tarask: бобслэй
     bg: Бобслей
     bn: ববস্লেই
     bs: Bob
@@ -92,8 +92,8 @@ dv_has_:
     de: Bobsport
     el: Αγωνιστικό έλκηθρο
     en: bobsleigh
-    en-ca: Bobsleigh
-    en-gb: bobsleigh
+    en_ca: Bobsleigh
+    en_gb: bobsleigh
     eo: bobado
     es: bobsleigh
     et: bobisõit
@@ -114,11 +114,11 @@ dv_has_:
     ja: ボブスレー
     ka: ბობსლეი
     kk: Бобслей
-    kk-arab: بوبسلەي
+    kk_arab: بوبسلەي
     kk-cn: بوبسلەي
-    kk-cyrl: Бобслей
+    kk_cyrl: Бобслей
     kk-kz: Бобслей
-    kk-latn: Bobsleý
+    kk_latn: Bobsleý
     kk-tr: Bobsleý
     ko: 봅슬레이
     ky: Бобслей
@@ -135,7 +135,7 @@ dv_has_:
     oc: Bobsleigh
     pl: bobsleje
     pt: bobsleigh
-    pt-br: Bobsleigh
+    pt_br: Bobsleigh
     ro: bob
     ru: бобслей
     scn: Bob
@@ -144,8 +144,8 @@ dv_has_:
     sk: boby
     sl: bob
     sr: боб
-    sr-ec: боб
-    sr-el: bob
+    sr_ec: боб
+    sr_el: bob
     sv: bob
     sw: Bobsledi
     tg: Бобслей
@@ -160,12 +160,12 @@ dv_has_:
     wuu: 有舵雪橇
     yue: 長雪橇
     zh: 有舵雪橇
-    zh-cn: 雪车
-    zh-hans: 有舵雪橇
-    zh-hant: 有舵雪橇
-    zh-hk: 有舵雪橇
-    zh-sg: 有舵雪橇
-    zh-tw: 有舵雪橇
+    zh_cn: 雪车
+    zh_hans: 有舵雪橇
+    zh_hant: 有舵雪橇
+    zh_hk: 有舵雪橇
+    zh_sg: 有舵雪橇
+    zh_tw: 有舵雪橇
 ---
 # [[Bobsleigh]] 
 

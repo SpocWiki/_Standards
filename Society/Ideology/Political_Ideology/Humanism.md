@@ -119,7 +119,7 @@ dv_has_:
     azb: اومانیسم
     ba: Гуманизм
     be: Гуманізм
-    be-tarask: гуманізм
+    be_tarask: гуманізм
     bg: Хуманизъм
     bn: মানবতাবাদ
     br: Humanouriezh
@@ -132,12 +132,12 @@ dv_has_:
     cy: Dyneiddiaeth
     da: humanisme
     de: Humanismus
-    de-ch: Humanismus
+    de_ch: Humanismus
     diq: Humanizm
     el: ουμανισμός
     en: humanism
-    en-ca: Humanism
-    en-gb: humanism
+    en_ca: Humanism
+    en_gb: humanism
     eo: humanismo
     es: humanismo
     et: humanism
@@ -182,13 +182,13 @@ dv_has_:
     mk: хуманизам
     ml: മാനവതാവാദം
     ms: humanisme
-    ms-arab: هومانيسمى
+    ms_arab: هومانيسمى
     mt: umaniżmu
     mwl: Houmanismo
     nan: Jîn-bûn-chú-gī
     nb: humanisme
     nds: humanismus
-    nds-nl: humanisme
+    nds_nl: humanisme
     nl: humanisme
     nn: humanisme
     nrm: Humanîme
@@ -198,7 +198,7 @@ dv_has_:
     pl: humanizm
     ps: بشرپالنه
     pt: humanismo
-    pt-br: Humanismo
+    pt_br: Humanismo
     ro: umanism
     ru: гуманизм
     sc: Umanesimu
@@ -217,7 +217,7 @@ dv_has_:
     sms: humanismm
     sq: humanizmi
     sr: хуманизам
-    sr-ec: хуманизам
+    sr_ec: хуманизам
     su: Humanisme
     sv: humanism
     ta: மனிதநேயம்

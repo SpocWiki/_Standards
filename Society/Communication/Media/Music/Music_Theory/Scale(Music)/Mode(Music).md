@@ -66,7 +66,7 @@ dv_has_:
     ast: Manera musical
     az: Məqam
     be: лад
-    be-tarask: музычны лад
+    be_tarask: музычны лад
     bg: Лад
     ca: mode
     cs: modus
@@ -113,9 +113,9 @@ dv_has_:
     wuu: 调式
     yue: 調式
     zh: 调式
-    zh-hans: 调式
-    zh-hant: 調式
-    zh-hk: 調式
+    zh_hans: 调式
+    zh_hant: 調式
+    zh_hk: 調式
 ---
 # [[Mode(Music)]] 
 

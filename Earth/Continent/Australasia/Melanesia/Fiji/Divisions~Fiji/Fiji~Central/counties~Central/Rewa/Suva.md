@@ -130,7 +130,7 @@ dv_has_:
     ba: Сува
     ban: Suva
     be: Сува
-    be-tarask: Сува
+    be_tarask: Сува
     bg: Сува
     bn: সুভা
     bo: སུ་ཝ།
@@ -178,7 +178,7 @@ dv_has_:
     ka: სუვა
     kge: Suva
     kk: Сува
-    kk-cyrl: Сува
+    kk_cyrl: Сува
     km: ស៊ូវ៉ា
     kn: ಸುವಾ
     ko: 수바
@@ -227,7 +227,7 @@ dv_has_:
     sn: Suva
     sq: Suva
     sr: Сува
-    sr-ec: Сува
+    sr_ec: Сува
     sv: Suva
     sw: Suva
     szl: Suva
@@ -235,7 +235,7 @@ dv_has_:
     ta: சுவா
     te: సూవా
     tg: Сува (шаҳр)
-    tg-cyrl: Сува
+    tg_cyrl: Сува
     th: ซูวา
     tk: Suwa
     tl: Suva
@@ -253,11 +253,11 @@ dv_has_:
     xmf: სუვა
     yue: 蘇瓦
     zh: 蘇瓦
-    zh-cn: 苏瓦
-    zh-hans: 苏瓦
-    zh-hant: 蘇瓦
-    zh-hk: 蘇瓦
-    zh-tw: 蘇瓦
+    zh_cn: 苏瓦
+    zh_hans: 苏瓦
+    zh_hant: 蘇瓦
+    zh_hk: 蘇瓦
+    zh_tw: 蘇瓦
     zu: i-Suva
 ---
 # [[Suva]] 

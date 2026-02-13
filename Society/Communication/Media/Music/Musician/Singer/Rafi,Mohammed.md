@@ -103,7 +103,7 @@ dv_has_:
     ast: Mohammed Rafi
     azb: محمد رفیع
     ba: Мөхәммәд Рафи
-    be-tarask: Магамэд Рафі
+    be_tarask: Магамэд Рафі
     bn: মোহাম্মদ রফি
     ca: Mohammed Rafi
     cs: Mohammed Rafi
@@ -144,7 +144,7 @@ dv_has_:
     pnb: محمد رفیع
     ps: محمد رفيع
     pt: Mohammed Rafi
-    pt-br: Mohammed Rafi
+    pt_br: Mohammed Rafi
     ru: Мохаммед Рафи
     sa: मोहम्मद रफी
     sd: محمد رفيع

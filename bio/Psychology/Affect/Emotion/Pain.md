@@ -262,7 +262,7 @@ dv_has_:
     ba: ауыртыу
     bcl: kulog
     be: боль
-    be-tarask: боль
+    be_tarask: боль
     bg: болка
     bn: ব্যথা
     br: poan
@@ -350,8 +350,8 @@ dv_has_:
     sn: kurwadziwa
     sq: dhimbja
     sr: бол
-    sr-ec: бол
-    sr-el: bol
+    sr_ec: бол
+    sr_el: bol
     sv: smärta
     ta: வலி
     te: నొప్పి
@@ -360,7 +360,7 @@ dv_has_:
     tl: kirot
     tr: ağrı
     tt: авырту
-    tt-cyrl: авырту
+    tt_cyrl: авырту
     tw: ɛyaw
     uk: біль
     ur: تکلیف

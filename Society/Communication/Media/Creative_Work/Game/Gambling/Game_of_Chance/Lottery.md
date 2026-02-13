@@ -77,7 +77,7 @@ dv_has_:
     ast: llotería
     az: Lotereya
     be: латарэя
-    be-tarask: лятарэя
+    be_tarask: лятарэя
     bg: Лотария
     bs: Lutrija
     ca: loteria
@@ -127,14 +127,14 @@ dv_has_:
     pap: loteria
     pl: loteria
     pt: lotaria
-    pt-br: loteria
+    pt_br: loteria
     ro: loterie
     ru: лотерея
     sk: Lotéria
     sl: loterija
     sr: Лото
-    sr-ec: Лото
-    sr-el: Loto
+    sr_ec: Лото
+    sr_el: Loto
     sv: lotteri
     ta: குலுக்கல் பரிசுச் சீட்டு
     te: లాటరీ
@@ -150,12 +150,12 @@ dv_has_:
     yi: לאטעריע
     yue: 彩券
     zh: 彩票
-    zh-cn: 彩票
-    zh-hans: 彩票
-    zh-hant: 彩票
-    zh-hk: 彩票
-    zh-sg: 彩票
-    zh-tw: 彩票
+    zh_cn: 彩票
+    zh_hans: 彩票
+    zh_hant: 彩票
+    zh_hk: 彩票
+    zh_sg: 彩票
+    zh_tw: 彩票
 ---
 # [[Lottery]] 
 

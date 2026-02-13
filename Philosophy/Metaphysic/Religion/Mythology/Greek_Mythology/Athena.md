@@ -77,7 +77,7 @@ dv_has_:
     bbc: Aten
     bcl: Athena
     be: Афіна
-    be-tarask: Атэна
+    be_tarask: Атэна
     bg: Атина
     bn: আথিনা
     bo: ཨ་ཧྥན་ན།
@@ -124,7 +124,7 @@ dv_has_:
     kn: ಅಥೀನ
     ko: 아테나
     ku: Atêna
-    ku-latn: Atêna
+    ku_latn: Atêna
     ky: Афина
     la: Athena
     lb: Athene
@@ -183,9 +183,9 @@ dv_has_:
     wuu: 雅典娜
     yue: 雅典娜
     zh: 雅典娜
-    zh-cn: 雅典娜
-    zh-hant: 雅典娜
-    zh-tw: 雅典娜
+    zh_cn: 雅典娜
+    zh_hant: 雅典娜
+    zh_tw: 雅典娜
 ---
 # [[Athena]] 
 

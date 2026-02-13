@@ -49,12 +49,12 @@ dv_has_:
     ru: нефтяная компания
     sl: naftna družba
     sr: нафтно предузеће
-    sr-ec: нафтно предузеће
-    sr-el: naftno preduzeće
+    sr_ec: нафтно предузеће
+    sr_el: naftno preduzeće
     th: บริษัทน้ำมัน
     uk: нафтова компанія
-    zh-hans: 石油公司
-    zh-hant: 石油公司
+    zh_hans: 石油公司
+    zh_hant: 石油公司
 ---
 # [[Oil_Company]] 
 

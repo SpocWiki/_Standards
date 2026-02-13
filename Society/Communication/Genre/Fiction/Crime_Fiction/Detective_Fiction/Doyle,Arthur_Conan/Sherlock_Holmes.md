@@ -163,7 +163,7 @@ dv_has_:
     az: Şerlok Holms
     bcl: Sherlock Holmes
     be: Шэрлак Холмс
-    be-tarask: Шэрлак Голмз
+    be_tarask: Шэрлак Голмз
     bg: Шерлок Холмс
     bn: শার্লক হোমস
     br: Sherlock Holmes
@@ -176,12 +176,12 @@ dv_has_:
     cy: Sherlock Holmes
     da: Sherlock Holmes
     de: Sherlock Holmes
-    de-ch: Sherlock Holmes
+    de_ch: Sherlock Holmes
     diq: Sherlock Holmes
     el: Σέρλοκ Χολμς
     en: Sherlock Holmes
-    en-ca: Sherlock Holmes
-    en-gb: Sherlock Holmes
+    en_ca: Sherlock Holmes
+    en_gb: Sherlock Holmes
     eo: Sherlock Holmes
     es: Sherlock Holmes
     et: Sherlock Holmes
@@ -238,7 +238,7 @@ dv_has_:
     pnb: شرلاک ہولمز
     ps: شرلوک هولمز
     pt: Sherlock Holmes
-    pt-br: Sherlock Holmes
+    pt_br: Sherlock Holmes
     rm: Sherlock Holmes
     ro: Sherlock Holmes
     ru: Шерлок Холмс
@@ -253,8 +253,8 @@ dv_has_:
     sl: Sherlock Holmes
     sq: Sherlock Holmes
     sr: Шерлок Холмс
-    sr-ec: Шерлок Холмс
-    sr-el: Šerlok Holms
+    sr_ec: Шерлок Холмс
+    sr_el: Šerlok Holms
     sv: Sherlock Holmes
     ta: செர்லக் ஓம்சு
     te: షెర్లాక్ హోమ్స్
@@ -263,7 +263,7 @@ dv_has_:
     tl: Sherlock Holmes
     tr: Sherlock Holmes
     tt: Шерлок Һолмс
-    tt-cyrl: Шерлок Һолмс
+    tt_cyrl: Шерлок Һолмс
     uk: Шерлок Голмс
     ur: شرلاک ہومز
     uz: Sherlok Xolms
@@ -273,12 +273,12 @@ dv_has_:
     yi: שערלאק האלמס
     yue: 福爾摩斯
     zh: 歇洛克·福尔摩斯
-    zh-cn: 歇洛克·福尔摩斯
-    zh-hant: 夏洛克·福爾摩斯
-    zh-hk: 夏洛克·福爾摩斯
+    zh_cn: 歇洛克·福尔摩斯
+    zh_hant: 夏洛克·福爾摩斯
+    zh_hk: 夏洛克·福爾摩斯
     zh-my: 夏洛克·福尔摩斯
-    zh-sg: 夏洛克·福尔摩斯
-    zh-tw: 夏洛克·福爾摩斯
+    zh_sg: 夏洛克·福尔摩斯
+    zh_tw: 夏洛克·福爾摩斯
 ---
 # [[Sherlock_Holmes]] 
 

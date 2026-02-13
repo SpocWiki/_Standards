@@ -75,7 +75,7 @@ dv_has_:
     az: dualizm
     ba: дуализм
     be: дуалізм
-    be-tarask: дуалізм
+    be_tarask: дуалізм
     bg: Дуализъм
     bn: দ্বিত্ববাদ
     bs: Dualizam
@@ -85,11 +85,11 @@ dv_has_:
     cy: Deuoliaeth
     da: dualisme
     de: Dualismus
-    de-ch: Dualismus
+    de_ch: Dualismus
     el: δυϊσμός
     en: dualism
-    en-ca: Dualism
-    en-gb: dualism
+    en_ca: Dualism
+    en_gb: dualism
     eo: dualismo
     es: dualismo
     et: dualism
@@ -114,8 +114,8 @@ dv_has_:
     kk: Дуализм
     ko: 이원론
     ku: Dualîzm
-    ku-arab: دوالیزم
-    ku-latn: dualîzm
+    ku_arab: دوالیزم
+    ku_latn: dualîzm
     ky: Дуализм
     la: dualismus
     lv: duālisms
@@ -128,7 +128,7 @@ dv_has_:
     oc: Dualisme
     pl: dualizm
     pt: dualismo
-    pt-br: dualismo
+    pt_br: dualismo
     ro: dualism
     ru: дуализм
     se: dualisma
@@ -141,8 +141,8 @@ dv_has_:
     sms: dualismm
     sq: Dualizmi
     sr: дуализам
-    sr-ec: Дуализам
-    sr-el: Dualizam
+    sr_ec: Дуализам
+    sr_el: Dualizam
     sv: dualism
     ta: இருமையியம்
     tg: дуализм
@@ -158,12 +158,12 @@ dv_has_:
     yo: méjì-méjì
     yue: 二元論
     zh: 二元論
-    zh-cn: 二元论
-    zh-hans: 二元论
-    zh-hant: 二元論
-    zh-hk: 二元論
-    zh-sg: 二元论
-    zh-tw: 二元論
+    zh_cn: 二元论
+    zh_hans: 二元论
+    zh_hant: 二元論
+    zh_hk: 二元論
+    zh_sg: 二元论
+    zh_tw: 二元論
 ---
 # [[Dualism]] 
 

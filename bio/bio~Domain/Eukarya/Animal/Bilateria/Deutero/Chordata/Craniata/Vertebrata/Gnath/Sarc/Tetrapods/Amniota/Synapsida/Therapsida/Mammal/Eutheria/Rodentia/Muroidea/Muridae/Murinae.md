@@ -90,7 +90,7 @@ dv_has_:
     oc: Murinae
     pl: myszy
     pt: Murinae
-    pt-br: Murinae
+    pt_br: Murinae
     ro: Murinae
     ru: мышиные
     sk: Myšorodé
@@ -105,10 +105,10 @@ dv_has_:
     vo: Murinae
     war: Murinae
     zh: 鼠亞科
-    zh-cn: 鼠亚科
-    zh-hans: 鼠亚科
-    zh-hant: 鼠亞科
-    zh-tw: 鼠亞科
+    zh_cn: 鼠亚科
+    zh_hans: 鼠亚科
+    zh_hant: 鼠亞科
+    zh_tw: 鼠亞科
 ---
 # [[Murinae]] 
 

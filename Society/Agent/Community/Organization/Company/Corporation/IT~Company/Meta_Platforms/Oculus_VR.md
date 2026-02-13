@@ -42,7 +42,7 @@ dv_has_:
     sv: Reality Labs
     tr: Oculus VR
     zh: 歐酷拉
-    zh-hans: Oculus VR
+    zh_hans: Oculus VR
 ---
 #has_/time_/started :: 2012-06 
 #is_/part_of ::[[../Meta_Platforms]]] 

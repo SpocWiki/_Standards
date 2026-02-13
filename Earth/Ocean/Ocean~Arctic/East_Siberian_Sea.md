@@ -162,7 +162,7 @@ dv_has_:
     azb: دوْغو سیبیر دنیزی
     ba: Көнсығыш Себер диңгеҙе
     be: Усходне-Сібірскае мора
-    be-tarask: Усходнесыбірскае мора
+    be_tarask: Усходнесыбірскае мора
     bg: Източносибирско море
     bn: পূর্ব সাইবেরীয় সাগর
     br: Mor Sibiria ar Reter
@@ -203,8 +203,8 @@ dv_has_:
     ko-kp: 동씨비리해
     krc: Кюнчыгъыш-Сибирь тенгиз
     ku: Deryaya Sîbîryaya Rojhilat
-    ku-arab: دەریایا سیبریایا رۆژهەلات
-    ku-latn: Deryaya Sîbiryaya Rojhelat
+    ku_arab: دەریایا سیبریایا رۆژهەلات
+    ku_latn: Deryaya Sîbiryaya Rojhelat
     la: Mare Sibiricum Orientale
     li: Oeës-Siberische Zieë
     lt: Rytų Sibiro jūra
@@ -235,8 +235,8 @@ dv_has_:
     sl: Vzhodnosibirsko morje
     sq: Deti Siberian Lindor
     sr: Источносибирско море
-    sr-ec: Источносибирско море
-    sr-el: Istočnosibirsko more
+    sr_ec: Источносибирско море
+    sr_el: Istočnosibirsko more
     sv: Östsibiriska havet
     sw: Bahari ya Mashariki ya Siberia
     ta: கிழக்கு சைபீரியக் கடல்
@@ -255,12 +255,12 @@ dv_has_:
     yo: Òkun Ìlàòrùn Siberia
     yue: 東西伯利亞海
     zh: 东西伯利亚海
-    zh-cn: 东西伯利亚海
-    zh-hans: 东西伯利亚海
-    zh-hant: 東西伯利亞海
-    zh-hk: 東西伯利亞海
-    zh-sg: 东西伯利亚海
-    zh-tw: 東西伯利亞海
+    zh_cn: 东西伯利亚海
+    zh_hans: 东西伯利亚海
+    zh_hant: 東西伯利亞海
+    zh_hk: 東西伯利亞海
+    zh_sg: 东西伯利亚海
+    zh_tw: 東西伯利亞海
 ---
 # [[East_Siberian_Sea]]
 

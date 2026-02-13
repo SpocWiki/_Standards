@@ -100,7 +100,7 @@ dv_has_:
     az: çar
     azb: تزار
     be: цар
-    be-tarask: цар
+    be_tarask: цар
     bg: цар
     bn: জার
     bs: Car

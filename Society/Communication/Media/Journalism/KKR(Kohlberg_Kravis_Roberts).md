@@ -49,9 +49,9 @@ dv_has_:
     tr: Kohlberg Kravis Roberts
     vec: Kohlberg Kravis Roberts
     zh: 科尔伯格－克拉维斯－罗伯茨
-    zh-hans: 科尔伯格－克拉维斯－罗伯茨
-    zh-hant: 科爾伯格－克拉維斯－羅伯茨
-    zh-hk: 科爾伯格－克拉維斯－羅伯茨
+    zh_hans: 科尔伯格－克拉维斯－罗伯茨
+    zh_hant: 科爾伯格－克拉維斯－羅伯茨
+    zh_hk: 科爾伯格－克拉維斯－羅伯茨
 ---
 ## #has_/text_of_/abstract 
 

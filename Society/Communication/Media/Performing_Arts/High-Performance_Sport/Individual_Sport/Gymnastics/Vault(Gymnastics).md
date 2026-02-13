@@ -50,7 +50,7 @@ dv_has_:
   name_:
     ar: منصة القفز
     ast: saltu de caballu
-    be-tarask: апорны скачок
+    be_tarask: апорны скачок
     bg: Прескок
     ca: salt sobre cavall
     cy: Llofnaid

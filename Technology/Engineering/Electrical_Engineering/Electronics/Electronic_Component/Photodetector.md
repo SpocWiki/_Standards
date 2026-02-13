@@ -51,7 +51,7 @@ dv_has_:
     ar: مستشعر ضوئي
     ast: fotodetector
     az: Fotodetektor
-    be-tarask: фотадэтэктар
+    be_tarask: фотадэтэктар
     bg: Фотодетектор
     ca: fotoreceptor
     cs: detektor záření

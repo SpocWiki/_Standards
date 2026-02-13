@@ -190,7 +190,7 @@ Wolfram_Language_unit_code: '"Meters"'
 dv_has_:
   name_:
     ab: аметр
-    aeb-arab: ميترو
+    aeb_arab: ميترو
     af: meter
     am: ሜትር
     an: metro
@@ -208,7 +208,7 @@ dv_has_:
     ban: Méter
     bar: m
     be: метр
-    be-tarask: мэтар
+    be_tarask: мэтар
     bg: метър
     bho: मीटर
     bjn: Meter
@@ -230,13 +230,13 @@ dv_has_:
     da: meter
     de: Meter
     de-at: m
-    de-ch: m
+    de_ch: m
     dv: މީޓަރު
     el: μέτρο
     eml: mēter
     en: metre
-    en-ca: metre
-    en-gb: metre
+    en_ca: metre
+    en_gb: metre
     en-us: meter
     eo: metro
     es: metro
@@ -319,7 +319,7 @@ dv_has_:
     mnw: မဳတာ
     mr: मीटर
     ms: meter
-    ms-arab: ميتر
+    ms_arab: ميتر
     mt: metru
     my: မီတာ
     mzn: متر
@@ -328,7 +328,7 @@ dv_has_:
     nap: m
     nb: meter
     nds: Meter
-    nds-nl: m
+    nds_nl: m
     ne: मिटर
     new: मिटर
     nl: meter
@@ -347,7 +347,7 @@ dv_has_:
     pnb: میٹر
     ps: متر
     pt: metro
-    pt-br: metro
+    pt_br: metro
     qu: mitru
     rm: m
     ro: metru
@@ -373,8 +373,8 @@ dv_has_:
     so: mitir
     sq: metër
     sr: метар
-    sr-ec: метар
-    sr-el: metar
+    sr_ec: метар
+    sr_el: metar
     su: méter
     sv: meter
     sw: mita
@@ -382,15 +382,15 @@ dv_has_:
     ta: மீற்றர்
     te: మీటరు
     tg: метр
-    tg-cyrl: метр
+    tg_cyrl: метр
     th: เมตร
     tl: metro
     tok: linja pi mute weka pi ma ale
     tr: metre
     ts: mitara
     tt: метр
-    tt-cyrl: метр
-    tt-latn: miter
+    tt_cyrl: метр
+    tt_latn: miter
     udm: метр
     uk: м
     ur: میٹر
@@ -410,14 +410,14 @@ dv_has_:
     yue: 米
     zgh: ⵎⵉⵜⵔⵓ
     zh: 米
-    zh-cn: 米
-    zh-hans: 米
-    zh-hant: 公尺
-    zh-hk: 米
-    zh-mo: 米
+    zh_cn: 米
+    zh_hans: 米
+    zh_hant: 公尺
+    zh_hk: 米
+    zh_mo: 米
     zh-my: 米
-    zh-sg: 米
-    zh-tw: 公尺
+    zh_sg: 米
+    zh_tw: 公尺
     zu: m
 ---
 # [[Unit~Meter]] 

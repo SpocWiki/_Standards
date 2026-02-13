@@ -65,7 +65,7 @@ dv_has_:
     ab: Сербиа
     ace: Sèrbia
     ady: Сербие
-    aeb-arab: صربيا
+    aeb_arab: صربيا
     af: Serwië
     am: ሰርቢያ
     ami: Serbia
@@ -89,7 +89,7 @@ dv_has_:
     bbc: Serbia
     bcl: Serbya
     be: Сербія
-    be-tarask: Сэрбія
+    be_tarask: Сэрбія
     bew: Sèrwi
     bg: Сърбия
     bgn: سربستان
@@ -103,7 +103,7 @@ dv_has_:
     bs: Srbija
     bxr: Серби
     ca: Sèrbia
-    cbk-zam: Serbia
+    cbk_zam: Serbia
     cdo: Serbia
     ce: Серби
     ceb: Serbya
@@ -113,7 +113,7 @@ dv_has_:
     ckb: سڕبیا
     co: Serbia
     crh: Sırbistan
-    crh-latn: Sırbistan
+    crh_latn: Sırbistan
     crh-ro: Sîrbîstan
     cs: Srbsko
     csb: Serbskô
@@ -124,7 +124,7 @@ dv_has_:
     dag: Serbia
     de: Serbien
     de-at: Serbien
-    de-ch: Serbien
+    de_ch: Serbien
     diq: Sırbıstan
     dsb: Serbiska
     dty: सर्बिया
@@ -134,8 +134,8 @@ dv_has_:
     el: Σερβία
     eml: Sèrbia
     en: Serbia
-    en-ca: Serbia
-    en-gb: Serbia
+    en_ca: Serbia
+    en_gb: Serbia
     en-us: Serbia
     eo: Serbio
     es: Serbia
@@ -160,7 +160,7 @@ dv_has_:
     gn: Sévia
     gom: सर्बिया
     gom-deva: सर्बिया
-    gom-latn: Serbia
+    gom_latn: Serbia
     got: "\U00010343\U00010330\U00010339\U00010342\U00010331\U0001033E\U00010330"
     gpe: Serbia
     gsw: Serbie
@@ -232,7 +232,7 @@ dv_has_:
     lzh: 塞爾維亞
     mad: Serbia
     mai: सर्बिया
-    map-bms: Serbia
+    map_bms: Serbia
     mdf: Сербия
     mg: Serbia
     mhr: Сербий
@@ -255,7 +255,7 @@ dv_has_:
     nap: Serbia
     nb: Serbia
     nds: Serbien
-    nds-nl: Servië
+    nds_nl: Servië
     ne: सर्बिया
     new: सर्बिया
     nl: Servië
@@ -283,7 +283,7 @@ dv_has_:
     prg: Serbija
     ps: سربيا
     pt: Sérvia
-    pt-br: Sérvia
+    pt_br: Sérvia
     qu: Sirbya
     rm: Serbia
     rmy: Serbiya
@@ -317,8 +317,8 @@ dv_has_:
     so: Serbia
     sq: Serbia
     sr: Србија
-    sr-ec: Србија
-    sr-el: Srbija
+    sr_ec: Србија
+    sr_el: Srbija
     srn: Srbiyakondre
     ss: ISebhiya
     st: Serbia
@@ -350,8 +350,8 @@ dv_has_:
     ty: Terepia
     udm: Сербия
     ug: سېربىيە
-    ug-arab: سېربىيە
-    ug-latn: Sérbiye
+    ug_arab: سېربىيە
+    ug_latn: Sérbiye
     uk: Сербія
     ur: سرویا
     uz: Serbiya
@@ -374,11 +374,11 @@ dv_has_:
     zea: Servië
     zgh: ⵚⵉⵕⴱⵢⴰ
     zh: 塞爾維亞
-    zh-cn: 塞尔维亚
-    zh-hans: 塞尔维亚
-    zh-hant: 塞爾維亞
-    zh-hk: 塞爾維亞
-    zh-tw: 塞爾維亞
+    zh_cn: 塞尔维亚
+    zh_hans: 塞尔维亚
+    zh_hant: 塞爾維亞
+    zh_hk: 塞爾維亞
+    zh_tw: 塞爾維亞
     zu: ISerbiya
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Serbia

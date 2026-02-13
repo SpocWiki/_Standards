@@ -154,7 +154,7 @@ dv_has_:
     ba: Дидро Дени
     bar: Denis Diderot
     be: Дэні Дзідро
-    be-tarask: Дэні Дыдро
+    be_tarask: Дэні Дыдро
     bg: Дени Дидро
     bo: ཏེའུ་ཏེ་རོ།
     br: Denis Diderot
@@ -168,12 +168,12 @@ dv_has_:
     da: Denis Diderot
     de: Denis Diderot
     de-at: Denis Diderot
-    de-ch: Denis Diderot
+    de_ch: Denis Diderot
     diq: Denis Diderot
     el: Ντενί Ντιντερό
     en: Denis Diderot
-    en-ca: Denis Diderot
-    en-gb: Denis Diderot
+    en_ca: Denis Diderot
+    en_gb: Denis Diderot
     eo: Denis Diderot
     es: Denis Diderot
     et: Denis Diderot
@@ -230,7 +230,7 @@ dv_has_:
     nap: Denis Diderot
     nb: Denis Diderot
     nds: Denis Diderot
-    nds-nl: Denis Diderot
+    nds_nl: Denis Diderot
     ne: डेनिस डिडेरोट
     nl: Denis Diderot
     nn: Denis Diderot
@@ -244,7 +244,7 @@ dv_has_:
     pnb: دنی دیدغو
     ps: دېنیس دیدېروت
     pt: Denis Diderot
-    pt-br: Denis Diderot
+    pt_br: Denis Diderot
     qu: Denis Diderot
     rm: Denis Diderot
     ro: Denis Diderot
@@ -258,8 +258,8 @@ dv_has_:
     sl: Denis Diderot
     sq: Denis Diderot
     sr: Дени Дидро
-    sr-ec: Дени Дидро
-    sr-el: Denis Diderot
+    sr_ec: Дени Дидро
+    sr_el: Denis Diderot
     sv: Denis Diderot
     sw: Denis Diderot
     ta: டெனிஸ் டிடெராட்

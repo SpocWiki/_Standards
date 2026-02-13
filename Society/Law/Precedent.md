@@ -61,18 +61,18 @@ dv_has_:
     ar: سابقة قضائية
     ast: precedente
     az: hüquqi presedent
-    be-tarask: прэцэдэнт
+    be_tarask: прэцэдэнт
     bg: прецедент
     ca: precedent
     cs: precedens
     cy: cynsail barnwrol
     da: præcedens
     de: Stare decisis
-    de-ch: Präzedenzfall
+    de_ch: Präzedenzfall
     el: δεδικασμένο
     en: precedent
-    en-ca: precedent
-    en-gb: precedent
+    en_ca: precedent
+    en_gb: precedent
     eo: antecedento
     es: precedente
     et: Pretsedent

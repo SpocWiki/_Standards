@@ -268,7 +268,7 @@ dv_has_:
     bar: Ohrwaschl
     bcl: talinga
     be: вуха
-    be-tarask: вуха
+    be_tarask: вуха
     bew: kuping
     bg: ухо
     bjn: talinga
@@ -296,8 +296,8 @@ dv_has_:
     ee: ayto
     el: αφτί
     en: ear
-    en-ca: ear
-    en-gb: ear
+    en_ca: ear
+    en_gb: ear
     eo: orelo
     es: oído
     et: kõrv
@@ -317,7 +317,7 @@ dv_has_:
     gn: apysa
     gom: कान
     gom-deva: कान
-    gom-latn: kan
+    gom_latn: kan
     gor: bulonga
     gsw: Ohr
     gu: કાન
@@ -386,7 +386,7 @@ dv_has_:
     nan: hīⁿ
     nb: øre
     nds: Ohr
-    nds-nl: our
+    nds_nl: our
     ne: कान
     new: न्हाय्पं
     nia: Fiso
@@ -404,7 +404,7 @@ dv_has_:
     pnt: ωτίν
     ps: غوږ
     pt: orelha
-    pt-br: orelha
+    pt_br: orelha
     pwn: calinga
     qu: rinri
     rki: နား
@@ -452,7 +452,7 @@ dv_has_:
     tr: kulak
     trv: birac
     tt: колак
-    tt-cyrl: колак
+    tt_cyrl: колак
     tw: aso
     udm: пель
     ug: قۇلاق
@@ -474,11 +474,11 @@ dv_has_:
     yue: 耳
     za: rwz
     zh: 耳
-    zh-cn: 耳
-    zh-hans: 耳
-    zh-hant: 耳
-    zh-hk: 耳
-    zh-tw: 耳
+    zh_cn: 耳
+    zh_hans: 耳
+    zh_hant: 耳
+    zh_hk: 耳
+    zh_tw: 耳
 ---
 # Ear 👂 
 

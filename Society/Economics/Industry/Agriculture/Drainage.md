@@ -72,7 +72,7 @@ dv_has_:
     az: Drenaj
     bas: lìɓàk màlép
     be: дрэнаж
-    be-tarask: дрэнаж
+    be_tarask: дрэнаж
     bg: Дренаж
     ca: drenatge
     cs: odvodňování
@@ -107,7 +107,7 @@ dv_has_:
     nl: drainage
     pl: drenaż
     pt: drenagem
-    pt-br: drenagem
+    pt_br: drenagem
     ro: Scurgere
     ru: дренаж
     sco: Cundie

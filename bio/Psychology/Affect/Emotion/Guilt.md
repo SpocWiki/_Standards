@@ -94,7 +94,7 @@ dv_has_:
     ar: شعور بالذنب
     arz: شعور بالذنب
     az: Borc
-    be-tarask: правіна
+    be_tarask: правіна
     bg: Вина — Виновност
     bo: ནག་ཉེས།
     ca: culpabilitat
@@ -131,7 +131,7 @@ dv_has_:
     kea: cúlpa
     ko: 죄책감
     ku: sûc
-    ku-latn: sûc
+    ku_latn: sûc
     la: Culpa (animi motus)
     lt: kaltė
     mk: Вина
@@ -147,8 +147,8 @@ dv_has_:
     sl: krivda
     sq: faji
     sr: кривица
-    sr-ec: Осећање кривице
-    sr-el: Osećanje krivice
+    sr_ec: Осећање кривице
+    sr_el: Osećanje krivice
     sv: skuld
     ta: குற்றுணர்வு
     tg: гуноҳ
@@ -159,9 +159,9 @@ dv_has_:
     yi: שולד
     yue: 內疚
     zh: 罪疚感
-    zh-hans: 罪疚感
-    zh-hant: 罪疚感
-    zh-hk: 罪疚感
+    zh_hans: 罪疚感
+    zh_hant: 罪疚感
+    zh_hk: 罪疚感
 ---
 # [[Guilt]] 
 

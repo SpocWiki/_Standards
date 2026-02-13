@@ -9,7 +9,7 @@ dv_has_:
     az: Səhnə incəsənəti
     ba: сәнғәт башҡарыу төрҙәре
     be: выканальніцкія віды мастацтва
-    be-tarask: сцэнічнае мастацтва
+    be_tarask: сцэнічнае мастацтва
     bg: Сценично изкуство
     bho: शारीरिक कला
     bn: পরিবেশন শিল্পকলা
@@ -23,8 +23,8 @@ dv_has_:
     de: darstellende Kunst
     el: τέχνες του θεάματος
     en: performing arts
-    en-ca: performing arts
-    en-gb: performing arts
+    en_ca: performing arts
+    en_gb: performing arts
     eo: teatra arto
     es: artes escénicas
     et: etenduskunstid
@@ -64,7 +64,7 @@ dv_has_:
     mk: сценска уметност
     ml: പ്രകടന കലകൾ
     ms: seni pentas
-    ms-arab: سني ڤرسمبهن
+    ms_arab: سني ڤرسمبهن
     mt: arti performattiva
     nb: scenekunst
     nl: podiumkunst
@@ -74,7 +74,7 @@ dv_has_:
     pl: sztuki widowiskowe
     pnb: پرفارمنگ آرٹس
     pt: artes cénicas
-    pt-br: artes cênicas
+    pt_br: artes cênicas
     ro: artele spectacolului
     ru: исполнительские искусства
     rue: сценичны умѣня
@@ -87,8 +87,8 @@ dv_has_:
     sm: Faʻatino galuega
     sq: Artet skenike
     sr: сценска уметност
-    sr-ec: сценска уметност
-    sr-el: scenska umetnost
+    sr_ec: сценска уметност
+    sr_el: scenska umetnost
     sv: scenkonst
     ta: நிகழ்த்து கலை
     te: నృత్యరూపకం
@@ -106,12 +106,12 @@ dv_has_:
     yo: eré oríìtàgé
     yue: 演藝
     zh: 表演艺术
-    zh-cn: 表演艺术
-    zh-hans: 表演艺术
-    zh-hant: 表演藝術
-    zh-hk: 表演藝術
-    zh-sg: 表演艺术
-    zh-tw: 表演藝術
+    zh_cn: 表演艺术
+    zh_hans: 表演艺术
+    zh_hant: 表演藝術
+    zh_hk: 表演藝術
+    zh_sg: 表演艺术
+    zh_tw: 表演藝術
 aliases:
 - Ars activa
 - arte eszeniko

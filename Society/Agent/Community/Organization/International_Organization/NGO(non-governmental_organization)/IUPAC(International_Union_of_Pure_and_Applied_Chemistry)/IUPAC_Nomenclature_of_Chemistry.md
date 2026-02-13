@@ -44,7 +44,7 @@ dv_has_:
     ast: Nomenclatura IUPAC
     az: IUPAC kimyəvi nomenklaturası
     be: Наменклатура ІЮПАК
-    be-tarask: намэнклятура ІЮПАК
+    be_tarask: намэнклятура ІЮПАК
     bg: Номенклатура на Международния съюз за чиста и приложна химия
     ca: nomenclatura IUPAC
     da: IUPAC-nomenklatur

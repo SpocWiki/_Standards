@@ -4,7 +4,7 @@ dv_has_:
   name_:
     ar: محرك احتراق خارجي
     be: Рухавік знешняга згарання
-    be-tarask: Рухавік вонкавага згараньня
+    be_tarask: Рухавік вонкавага згараньня
     bg: Двигател с външно горене
     ca: motor de combustió externa
     ckb: بزوێنەری سووتانی دەرەکی
@@ -46,10 +46,10 @@ dv_has_:
     vi: Động cơ đốt ngoài
     yue: 外燃機
     zh: 外燃机
-    zh-hans: 外燃机
-    zh-hant: 外燃機
-    zh-hk: 外燃機
-    zh-tw: 外燃機
+    zh_hans: 外燃机
+    zh_hant: 外燃機
+    zh_hk: 外燃機
+    zh_tw: 外燃機
 aliases:
 - Dıştan yanmalı motor
 - ekstera eksplodmotoro

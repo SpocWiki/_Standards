@@ -78,7 +78,7 @@ dv_has_:
     ar: الاتحاد اللاتيني
     arz: الاتحاد اللاتينى
     ast: Xunión Llatina
-    be-tarask: Лацінскі зьвяз
+    be_tarask: Лацінскі зьвяз
     br: Unvaniezh Latin
     bs: Latinska unija
     ca: Unió Llatina
@@ -87,8 +87,8 @@ dv_has_:
     de: Lateinische Union
     el: Λατινική Ένωση
     en: Latin Union
-    en-ca: Latin Union
-    en-gb: Latin Union
+    en_ca: Latin Union
+    en_gb: Latin Union
     eo: Latinida Unuiĝo
     es: Unión Latina
     eu: Batasun Latinoa
@@ -115,7 +115,7 @@ dv_has_:
     oc: Union Latina
     pl: Unia Łacińska
     pt: União Latina
-    pt-br: União Latina
+    pt_br: União Latina
     ro: Uniunea Latină
     ru: Латинский Союз
     scn: Unioni latina

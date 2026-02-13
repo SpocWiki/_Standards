@@ -89,7 +89,7 @@ dv_has_:
     az: mayor
     ba: Майор
     be: маёр
-    be-tarask: маёр
+    be_tarask: маёр
     bg: майор
     bn: মেজর
     bs: Major
@@ -128,7 +128,7 @@ dv_has_:
     ko: 소령
     ko-kp: 소좌
     ku: serdar
-    ku-latn: serdar
+    ku_latn: serdar
     ky: Миң башы
     lb: Majouer
     lo: ພັນຕີ
@@ -156,8 +156,8 @@ dv_has_:
     sl: major
     sq: Major
     sr: мајор
-    sr-ec: мајор
-    sr-el: major
+    sr_ec: мајор
+    sr_el: major
     sv: major
     sw: Meja
     tg: саргурд
@@ -171,8 +171,8 @@ dv_has_:
     wuu: 少校
     yue: 少校
     zh: 少校
-    zh-hant: 少校
-    zh-tw: 少校
+    zh_hant: 少校
+    zh_tw: 少校
 ---
 # [[Major(Rank)]] 
 

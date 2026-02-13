@@ -93,7 +93,7 @@ dv_has_:
     ast: Combate
     az: hərbi toqquşma
     be: бой
-    be-tarask: бой
+    be_tarask: бой
     bg: Бой
     bho: मार
     bn: মার
@@ -110,7 +110,7 @@ dv_has_:
     de: Kampf
     el: μάχη
     en: combat
-    en-gb: combat
+    en_gb: combat
     eo: batalo
     es: combate
     eu: borroka
@@ -144,7 +144,7 @@ dv_has_:
     nqo: ߞߟߊߓߍ߬
     pl: walka
     pt: combate
-    pt-br: combate
+    pt_br: combate
     ro: luptă
     ru: бой
     scn: Cummattimentu
@@ -154,8 +154,8 @@ dv_has_:
     so: Dagaal
     sq: Luftimi
     sr: бој
-    sr-ec: бој
-    sr-el: boj
+    sr_ec: бој
+    sr_el: boj
     sv: strid
     szl: bōj
     ta: போராட்டம்
@@ -163,14 +163,14 @@ dv_has_:
     th: การรบ
     tr: vuruşma
     tt: сугышу
-    tt-cyrl: сугышу
+    tt_cyrl: сугышу
     uk: бій
     vi: đánh nhau
     yue: 戰鬥
     zh: 戰鬥
-    zh-hans: 战斗
-    zh-hant: 戰鬥
-    zh-hk: 戰鬥
+    zh_hans: 战斗
+    zh_hant: 戰鬥
+    zh_hk: 戰鬥
 ---
 # [[Combat]] 
 

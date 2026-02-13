@@ -92,7 +92,7 @@ dv_has_:
     az: qara çay
     ba: Ҡара сәй
     be: Чорны чай
-    be-tarask: чорны чай
+    be_tarask: чорны чай
     bg: Черен чай
     blk: နိန်းအနွိုးသဲင်
     bn: কালো চা
@@ -145,8 +145,8 @@ dv_has_:
     sl: črni čaj
     sq: Çaji i Zi
     sr: црни чај
-    sr-ec: црни чај
-    sr-el: crni čaj
+    sr_ec: црни чај
+    sr_el: crni čaj
     sv: svart te
     ta: பிளாக் டீ
     th: ชาดำ
@@ -162,11 +162,11 @@ dv_has_:
     za: Caz nding
     zh: 红茶
     zh-cn: 红茶
-    zh-hans: 红茶
-    zh-hant: 紅茶
-    zh-hk: 紅茶
-    zh-sg: 红茶
-    zh-tw: 紅茶
+    zh_hans: 红茶
+    zh_hant: 紅茶
+    zh_hk: 紅茶
+    zh_sg: 红茶
+    zh_tw: 紅茶
 ---
 # [[Black_Tea]] 
 

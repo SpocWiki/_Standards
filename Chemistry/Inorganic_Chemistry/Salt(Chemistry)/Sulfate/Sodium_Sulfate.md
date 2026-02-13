@@ -125,7 +125,7 @@ dv_has_:
     ar: كبريتات الصوديوم
     ast: sulfatu de sodiu
     azb: سودیوم سولفات
-    be-tarask: сульфат натру
+    be_tarask: сульфат натру
     bg: натриев сулфат
     bn: সোডিয়াম সালফেট
     bs: natrijum sulfat
@@ -135,8 +135,8 @@ dv_has_:
     de: Natriumsulfat
     el: Θειικό νάτριο
     en: sodium sulfate
-    en-ca: sodium sulfate
-    en-gb: sodium sulphate
+    en_ca: sodium sulfate
+    en_gb: sodium sulphate
     eo: natria sulfato
     es: sulfato de sodio
     et: naatriumsulfaat
@@ -166,15 +166,15 @@ dv_has_:
     nl: natriumsulfaat
     pl: siarczan sodu
     pt: sulfato de sódio
-    pt-br: sulfato de sódio
+    pt_br: sulfato de sódio
     ro: sulfat de sodiu
     ru: сульфат натрия
     sh: natrijum sulfat
     sk: síran sodný
     sl: natrijev sulfat
     sr: натријум сулфат
-    sr-ec: натријум сулфат
-    sr-el: natrijum sulfat
+    sr_ec: натријум сулфат
+    sr_el: natrijum sulfat
     sv: natriumsulfat
     ta: சோடியம் சல்பேட்டு
     th: โซเดียมซัลเฟต
@@ -186,12 +186,12 @@ dv_has_:
     war: sodium sulfate
     yue: 硫酸鈉
     zh: 硫酸钠
-    zh-cn: 硫酸钠
-    zh-hans: 硫酸钠
-    zh-hant: 硫酸鈉
-    zh-hk: 硫酸鈉
-    zh-sg: 硫酸钠
-    zh-tw: 硫酸鈉
+    zh_cn: 硫酸钠
+    zh_hans: 硫酸钠
+    zh_hant: 硫酸鈉
+    zh_hk: 硫酸鈉
+    zh_sg: 硫酸钠
+    zh_tw: 硫酸鈉
 ---
 # [[Sodium_Sulfate]] 
 

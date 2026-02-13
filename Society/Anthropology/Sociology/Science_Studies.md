@@ -50,7 +50,7 @@ dv_has_:
     az: Elmi tədqiqatlar
     ba: фән ғилеме
     be: навуказнаўства
-    be-tarask: навуказнаўства
+    be_tarask: навуказнаўства
     ca: estudis científics
     da: videnskabsteori
     de: Wissenschaftsforschung

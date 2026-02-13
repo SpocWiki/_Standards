@@ -90,7 +90,7 @@ dv_has_:
     ba: Брахмагупта
     bar: Brahmagupta
     be: Брахмагупта
-    be-tarask: Брагмагупта
+    be_tarask: Брагмагупта
     bg: Брахмагупта
     bho: ब्रह्मगुप्त
     bi: Brahmagupta
@@ -180,8 +180,8 @@ dv_has_:
     sl: Brahmagupta
     sq: Brahmagupta
     sr: Брамагупта
-    sr-ec: Брамагупта
-    sr-el: Bramagupta
+    sr_ec: Брамагупта
+    sr_el: Bramagupta
     sv: Brahmagupta
     sw: Brahmagupta
     ta: பிரம்மகுப்தர்
@@ -202,12 +202,12 @@ dv_has_:
     yi: בראַהמאַגופטאַ
     yue: 婆羅摩笈多
     zh: 婆羅摩笈多
-    zh-cn: 婆罗摩笈多
-    zh-hans: 婆罗摩笈多
-    zh-hant: 婆羅摩笈多
-    zh-hk: 婆羅摩笈多
-    zh-sg: 婆罗摩笈多
-    zh-tw: 婆羅摩笈多
+    zh_cn: 婆罗摩笈多
+    zh_hans: 婆罗摩笈多
+    zh_hant: 婆羅摩笈多
+    zh_hk: 婆羅摩笈多
+    zh_sg: 婆罗摩笈多
+    zh_tw: 婆羅摩笈多
 ---
 ---
 audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Brahmagupta.ogg"

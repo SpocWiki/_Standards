@@ -41,7 +41,7 @@ dv_has_:
     ast: magnoliids
     az: Maqnolidlər
     bcl: Magnoliids
-    be-tarask: Магнолііды
+    be_tarask: Магнолііды
     bg: Магнолииди
     bs: Magnoliidae
     ca: Magnòlida
@@ -67,8 +67,8 @@ dv_has_:
     jv: Magnoliids
     ko: 목련군
     ku: Magnolîdiyan
-    ku-arab: ماگنۆلیدیان
-    ku-latn: Magnolîdiyan
+    ku_arab: ماگنۆلیدیان
+    ku_latn: Magnolîdiyan
     la: Magnoliidae
     lt: magnolijažiedžiai
     mg: Magnoliidae
@@ -93,9 +93,9 @@ dv_has_:
     vi: phân lớp Mộc lan
     war: magnoliids
     zh: 木兰类植物
-    zh-hans: 木兰类植物
-    zh-hant: 木蘭類植物
-    zh-hk: 木蘭類植物
+    zh_hans: 木兰类植物
+    zh_hant: 木蘭類植物
+    zh_hk: 木蘭類植物
 ---
 # [[Magnoliids]] 
 

@@ -77,7 +77,7 @@ dv_has_:
     ast: Terremotu de Lisboa de 1755
     az: Lissabon zəlzələsi
     be: Лісабонскае землетрасенне
-    be-tarask: Лісабонскі землятрус 1755 году
+    be_tarask: Лісабонскі землятрус 1755 году
     bg: Лисабонско земетресение
     br: Kren-douar ar 1añ a viz Du 1755 e Lisbon
     bs: Veliki potres u Lisabonu
@@ -123,8 +123,8 @@ dv_has_:
     sk: Zemetrasenie v Lisabone
     sl: lizbonski potres
     sr: Земљотрес у Лисабону 1755.
-    sr-ec: Земљотрес у Лисабону 1755.
-    sr-el: Zemljotres u Lisabonu 1755.
+    sr_ec: Земљотрес у Лисабону 1755.
+    sr_el: Zemljotres u Lisabonu 1755.
     sv: Jordbävningen i Lissabon 1755
     th: แผ่นดินไหวในลิสบอน พ.ศ. 2298
     tr: 1755 Lizbon Depremi
@@ -134,12 +134,12 @@ dv_has_:
     wuu: 1755年里斯本大地震
     yue: 里斯本地震
     zh: 1755年里斯本大地震
-    zh-cn: 1755年里斯本大地震
-    zh-hans: 1755年里斯本大地震
-    zh-hant: 1755年里斯本大地震
-    zh-hk: 1755年里斯本大地震
-    zh-sg: 1755年里斯本大地震
-    zh-tw: 1755年里斯本大地震
+    zh_cn: 1755年里斯本大地震
+    zh_hans: 1755年里斯本大地震
+    zh_hant: 1755年里斯本大地震
+    zh_hk: 1755年里斯本大地震
+    zh_sg: 1755年里斯本大地震
+    zh_tw: 1755年里斯本大地震
 ---
 #[[1755-Lisbon_earthquake]]]
 

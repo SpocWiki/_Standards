@@ -173,8 +173,8 @@ dv_has_:
     sk: izoprén
     sl: izopren
     sr: изопрен
-    sr-ec: Изопрен
-    sr-el: Izopren
+    sr_ec: Изопрен
+    sr_el: Izopren
     sv: Isopren
     ta: ஐசோபிரீன்
     tg: Изопрениҳо
@@ -184,12 +184,12 @@ dv_has_:
     vi: Isopren
     yue: 2-甲基-1,3-丁二烯
     zh: 異戊二烯
-    zh-cn: 异戊二烯
-    zh-hans: 异戊二烯
-    zh-hant: 異戊二烯
-    zh-hk: 異戊二烯
-    zh-sg: 异戊二烯
-    zh-tw: 異戊二烯
+    zh_cn: 异戊二烯
+    zh_hans: 异戊二烯
+    zh_hant: 異戊二烯
+    zh_hk: 異戊二烯
+    zh_sg: 异戊二烯
+    zh_tw: 異戊二烯
 dv_is_:
   same_as:
   - '[[WD~Isoprene,271943]]'

@@ -3,7 +3,7 @@ dv_has_:
   name_:
     ab: Кипр
     ace: Siprus
-    aeb-arab: قبرص
+    aeb_arab: قبرص
     af: Siprus
     am: ቆጵሮስ
     ami: Cyprus
@@ -26,7 +26,7 @@ dv_has_:
     bar: Republik Zypern
     bcl: Siprus
     be: Кіпр
-    be-tarask: Кіпр
+    be_tarask: Кіпр
     bew: Kibris
     bg: Кипър
     bgn: قیبریس
@@ -40,7 +40,7 @@ dv_has_:
     bs: Kipar
     bxr: Кипр
     ca: Xipre
-    cbk-zam: Chipre
+    cbk_zam: Chipre
     cdo: Gṳ̆-bī-lô
     ce: Кипр
     ceb: Cyprus
@@ -48,7 +48,7 @@ dv_has_:
     ckb: قوبرس
     co: Cipru
     crh: Qıbrız Cumhuriyeti
-    crh-latn: Qıbrız Cumhuriyeti
+    crh_latn: Qıbrız Cumhuriyeti
     cs: Kypr
     csb: Cyper
     cu: Кѷпръ
@@ -58,7 +58,7 @@ dv_has_:
     dag: Cyprus
     de: Zypern
     de-at: Republik Zypern
-    de-ch: Republik Zypern
+    de_ch: Republik Zypern
     diq: Qıbrıs
     dsb: Cypern
     dtp: Cyprus
@@ -66,8 +66,8 @@ dv_has_:
     ee: Cyprus
     el: Κύπρος
     en: Cyprus
-    en-ca: Cyprus
-    en-gb: Cyprus
+    en_ca: Cyprus
+    en_gb: Cyprus
     en-us: Cyprus
     eo: Kipro
     es: Chipre
@@ -92,7 +92,7 @@ dv_has_:
     gn: Chipre
     gom: सायप्रस
     gom-deva: सायप्रस
-    gom-latn: Cyprus
+    gom_latn: Cyprus
     got: "\U0001033A\U0001033F\U00010340\U00010342\U00010345\U00010343"
     gpe: Cyprus
     grc: Κύπρος
@@ -137,7 +137,7 @@ dv_has_:
     krc: Кипр
     ks: قبرص
     ku: Qibris
-    ku-latn: Qibris
+    ku_latn: Qibris
     kv: Кипр
     kw: Kobros
     ky: Кипр
@@ -160,7 +160,7 @@ dv_has_:
     lzh: 賽普勒斯
     mag: साइप्रस
     mai: साइप्रस
-    map-bms: Siprus
+    map_bms: Siprus
     mdf: Кипра
     mg: Repoblikan'i Kipra
     mhr: Кипр
@@ -183,7 +183,7 @@ dv_has_:
     nap: Cipro
     nb: Kypros
     nds: Republiek Zypern
-    nds-nl: Cyprus
+    nds_nl: Cyprus
     ne: साइप्रस
     new: साइप्रस
     nl: Cyprus
@@ -209,7 +209,7 @@ dv_has_:
     pnt: Κύπρος
     ps: قبرس
     pt: Chipre
-    pt-br: Chipre
+    pt_br: Chipre
     qu: Kipru
     rm: Cipra
     rmy: Cyprus
@@ -242,8 +242,8 @@ dv_has_:
     so: Jasiirada Qabrus
     sq: Qiproja
     sr: Кипар
-    sr-ec: Кипар
-    sr-el: Kipar
+    sr_ec: Кипар
+    sr_el: Kipar
     srn: Sipruskondre
     ss: ISayiphro
     stq: Zypern
@@ -268,7 +268,7 @@ dv_has_:
     trv: Cyprus
     ts: Cyprus
     tt: Кипр Республикасы
-    tt-cyrl: Кипр
+    tt_cyrl: Кипр
     tum: Cyprus
     tw: Cyprus
     udm: Кипр
@@ -295,14 +295,14 @@ dv_has_:
     zea: Cyprus
     zgh: ⵇⵓⴱⵕⵓⵚ
     zh: 塞浦路斯
-    zh-cn: 塞浦路斯
-    zh-hans: 塞浦路斯
-    zh-hant: 賽普勒斯
-    zh-hk: 塞浦路斯
-    zh-mo: 塞浦路斯
+    zh_cn: 塞浦路斯
+    zh_hans: 塞浦路斯
+    zh_hant: 賽普勒斯
+    zh_hk: 塞浦路斯
+    zh_mo: 塞浦路斯
     zh-my: 塞浦路斯
-    zh-sg: 塞浦路斯
-    zh-tw: 賽普勒斯
+    zh_sg: 塞浦路斯
+    zh_tw: 賽普勒斯
     zu: i-Cyprus
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Cyprus

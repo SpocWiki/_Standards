@@ -126,7 +126,7 @@ dv_has_:
     azb: احتیمال نظریهسی
     ba: Ихтималлыҡ теорияһы
     be: тэорыя імавернасцей
-    be-tarask: тэорыя імавернасьцяў
+    be_tarask: тэорыя імавернасьцяў
     bg: Теория на вероятностите
     bn: সম্ভবনা তত্ত্ব
     btm: Probabilitas
@@ -137,11 +137,11 @@ dv_has_:
     cy: damcaniaeth tebygolrwydd
     da: sandsynlighedsregning
     de: Wahrscheinlichkeitstheorie
-    de-ch: Wahrscheinlichkeitstheorie
+    de_ch: Wahrscheinlichkeitstheorie
     el: Θεωρία πιθανοτήτων
     en: probability theory
-    en-ca: Probability theory
-    en-gb: probability theory
+    en_ca: Probability theory
+    en_gb: probability theory
     eo: probabloteorio
     es: teoría de la probabilidad
     et: tõenäosusteooria
@@ -183,7 +183,7 @@ dv_has_:
     pa: ਪ੍ਰੋਬੇਬਿਲਟੀ ਥਿਊਰੀ
     pl: teoria prawdopodobieństwa
     pt: teoria das probabilidades
-    pt-br: teoria das probabilidades
+    pt_br: teoria das probabilidades
     ro: Teoria probabilităților
     ru: теория вероятностей
     sco: probability theory
@@ -194,7 +194,7 @@ dv_has_:
     smn: tuođânálásâšteoria
     sq: Teoria e probabilitetit
     sr: теорија вероватноће
-    sr-ec: теорија вероватноће
+    sr_ec: теорија вероватноће
     su: Téori probabilitas
     sv: sannolikhetsteori
     ta: நிகழ்தகவுக் கோட்பாடு

@@ -156,7 +156,7 @@ dv_has_:
     arz: التمريض
     ast: Enfermería
     be: сястрынская справа
-    be-tarask: сястрынская справа
+    be_tarask: сястрынская справа
     bew: Keperawatan
     bg: Медицинска сестра
     bn: নার্সিং
@@ -167,11 +167,11 @@ dv_has_:
     cy: nyrsio
     da: sygepleje
     de: Pflege
-    de-ch: Gesundheits- und Krankenpflege
+    de_ch: Gesundheits- und Krankenpflege
     el: νοσηλευτική
     en: nursing
-    en-ca: Nursing
-    en-gb: nursing
+    en_ca: Nursing
+    en_gb: nursing
     eo: flegado
     es: enfermería
     et: Õendus
@@ -218,7 +218,7 @@ dv_has_:
     pnb: نرس
     ps: رنځورپالنه
     pt: enfermagem
-    pt-br: enfermagem
+    pt_br: enfermagem
     ro: asistent medical
     ru: сестринское дело
     si: හෙද සේවාව
@@ -242,12 +242,12 @@ dv_has_:
     wuu: 护理学
     yue: 護理學
     zh: 护理学
-    zh-cn: 护理学
-    zh-hans: 护理学
-    zh-hant: 護理學
-    zh-hk: 護理學
-    zh-sg: 护理学
-    zh-tw: 護理學
+    zh_cn: 护理学
+    zh_hans: 护理学
+    zh_hant: 護理學
+    zh_hk: 護理學
+    zh_sg: 护理学
+    zh_tw: 護理學
 ---
 # [[Nursing]] 👨⚕️ 
 

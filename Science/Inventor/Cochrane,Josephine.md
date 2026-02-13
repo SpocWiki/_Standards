@@ -49,7 +49,7 @@ dv_has_:
     ar: جوزفين كوكران
     arz: جوزفين كوكران
     ast: Josephine Cochrane
-    be-tarask: Джазэфіна Какрэйн
+    be_tarask: Джазэфіна Какрэйн
     bg: Джоузефин Кокрейн
     ca: Josephine Cochrane
     cs: Josephine Cochraneová
@@ -57,8 +57,8 @@ dv_has_:
     da: Josephine Cochrane
     de: Josephine Cochrane
     en: Josephine Cochrane
-    en-ca: Josephine Cochrane
-    en-gb: Josephine Cochrane
+    en_ca: Josephine Cochrane
+    en_gb: Josephine Cochrane
     es: Josephine Cochrane
     eu: Josephine Cochrane
     ext: Josephine Cochrane
@@ -85,7 +85,7 @@ dv_has_:
     pa: ਜੋਸੇਫਾਈਨ ਕੋਚਰੇਨ
     pl: Josephine Cochrane
     pt: Josephine Cochrane
-    pt-br: Josephine Cochrane
+    pt_br: Josephine Cochrane
     ro: Josephine Cochrane
     ru: Джозефина Кокрейн
     sl: Josephine Cochrane
@@ -98,7 +98,7 @@ dv_has_:
     vi: Josephine Cochrane
     war: Josephine Cochrane
     zh: 約瑟芬·科克倫
-    zh-hant: 約瑟芬·科克倫
+    zh_hant: 約瑟芬·科克倫
 ---
 # [[Cochrane,Josephine]] 
 

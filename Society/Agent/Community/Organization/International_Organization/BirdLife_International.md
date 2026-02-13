@@ -83,7 +83,7 @@ dv_has_:
     arz: بيردلايف انترناشونال
     ast: BirdLife International
     be: BirdLife International
-    be-tarask: BirdLife International
+    be_tarask: BirdLife International
     bg: БърдЛайф Интернешънъл
     bho: बर्डलाइफ इंटरनेशनल
     bn: বার্ডলাইফ ইন্টারন্যাশনাল
@@ -94,7 +94,7 @@ dv_has_:
     de: BirdLife International
     el: BirdLife International
     en: BirdLife International
-    en-gb: BirdLife International
+    en_gb: BirdLife International
     eo: Birda Vivo Internacie
     es: BirdLife International
     et: BirdLife International
@@ -143,12 +143,12 @@ dv_has_:
     vi: BirdLife International
     yue: 國際鳥盟
     zh: 國際鳥盟
-    zh-cn: 国际鸟盟
-    zh-hans: 国际鸟盟
-    zh-hant: 國際鳥盟
-    zh-hk: 國際鳥盟
-    zh-sg: 国际鸟盟
-    zh-tw: 國際鳥盟
+    zh_cn: 国际鸟盟
+    zh_hans: 国际鸟盟
+    zh_hant: 國際鳥盟
+    zh_hk: 國際鳥盟
+    zh_sg: 国际鸟盟
+    zh_tw: 國際鳥盟
 ---
 # [[BirdLife_International]] 
 

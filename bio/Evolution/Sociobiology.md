@@ -5,17 +5,17 @@ dv_has_:
     ar: علم الأحياء الاجتماعي
     ast: Sociobiología
     be: сацыябіялогія
-    be-tarask: соцыябіялёгія
+    be_tarask: соцыябіялёгія
     bn: সমাজজীববিজ্ঞান
     ca: sociobiologia
     cs: sociobiologie
     da: sociobiologi
     de: Soziobiologie
-    de-ch: Soziobiologie
+    de_ch: Soziobiologie
     el: κοινωνιοβιολογία
     en: sociobiology
-    en-ca: sociobiology
-    en-gb: sociobiology
+    en_ca: sociobiology
+    en_gb: sociobiology
     eo: Socibiologio
     es: sociobiología
     et: sotsiobioloogia
@@ -34,11 +34,11 @@ dv_has_:
     it: sociobiologia
     ja: 社会生物学
     kk: Социобиология
-    kk-arab: سوتسىيوبىيولوگىييا
+    kk_arab: سوتسىيوبىيولوگىييا
     kk-cn: سوتسىيوبىيولوگىييا
-    kk-cyrl: Социобиология
+    kk_cyrl: Социобиология
     kk-kz: Социобиология
-    kk-latn: Socïobïologïya
+    kk_latn: Socïobïologïya
     kk-tr: Socïobïologïya
     ko: 사회생물학
     la: Sociobiologia
@@ -52,7 +52,7 @@ dv_has_:
     pms: Sociobiologìa
     ps: ټولنيزه بيالوژي
     pt: sociobiologia
-    pt-br: Sociobiologia
+    pt_br: Sociobiologia
     ro: sociobiologie
     ru: социобиология
     se: sosiobiologiija
@@ -72,12 +72,12 @@ dv_has_:
     wuu: 社会生物学
     yue: 社會生物學
     zh: 社會生物學
-    zh-cn: 社会生物学
-    zh-hans: 社会生物学
-    zh-hant: 社會生物學
-    zh-hk: 社會生物學
-    zh-sg: 社会生物学
-    zh-tw: 社會生物學
+    zh_cn: 社会生物学
+    zh_hans: 社会生物学
+    zh_hant: 社會生物學
+    zh_hk: 社會生物學
+    zh_sg: 社会生物学
+    zh_tw: 社會生物學
 aliases:
 - sinh học xã hội
 - sochbhitheolaíocht

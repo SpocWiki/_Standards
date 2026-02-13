@@ -89,7 +89,7 @@ dv_has_:
     oc: Odocoileinae
     pl: Sarny
     pt: Capreolinae
-    pt-br: capreolinae
+    pt_br: capreolinae
     ro: Capreolinae
     ru: Capreolinae
     sl: Capreolinae
@@ -100,9 +100,9 @@ dv_has_:
     vo: Capreolinae
     war: Capreolinae
     zh: 空齿鹿亚科
-    zh-cn: 空齿鹿亚科
-    zh-hans: 空齿鹿亚科
-    zh-tw: 空齒鹿亞科
+    zh_cn: 空齿鹿亚科
+    zh_hans: 空齿鹿亚科
+    zh_tw: 空齒鹿亞科
 ---
 # [[Capreolinae]] 
 

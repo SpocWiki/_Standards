@@ -317,7 +317,7 @@ dv_has_:
     bcl: tulay
     bdr: Jambatan
     be: мост
-    be-tarask: мост
+    be_tarask: мост
     bew: Sasak
     bg: мост
     bho: पुल
@@ -339,13 +339,13 @@ dv_has_:
     cy: pont
     da: bro
     de: Brücke
-    de-ch: Brücke
+    de_ch: Brücke
     diq: pırd
     dtp: sunsuyon
     el: γέφυρα
     en: bridge
-    en-ca: bridge
-    en-gb: bridge
+    en_ca: bridge
+    en_gb: bridge
     eo: ponto
     es: puente
     et: sild
@@ -423,7 +423,7 @@ dv_has_:
     mnc: ᡩᠣᠣᡥᠠᠨ
     mr: पूल
     ms: jambatan
-    ms-arab: جمبتن
+    ms_arab: جمبتن
     mt: pont
     mwl: puonte
     my: တံတား
@@ -432,7 +432,7 @@ dv_has_:
     nan: kiô
     nb: bro
     nds: Brügg
-    nds-nl: brogge
+    nds_nl: brogge
     ne: पुल
     new: तां
     nl: brug
@@ -449,7 +449,7 @@ dv_has_:
     pms: Pont
     pnb: پُل
     pt: ponte
-    pt-br: ponte
+    pt_br: ponte
     qu: chaka
     ro: pod
     ru: мост
@@ -473,7 +473,7 @@ dv_has_:
     so: buundo
     sq: urë
     sr: мост
-    sr-ec: мост
+    sr_ec: мост
     stq: Brääch
     su: sasak
     sv: bro
@@ -504,11 +504,11 @@ dv_has_:
     yo: afárá
     yue: 橋
     zh: 桥
-    zh-cn: 桥
-    zh-hans: 桥
-    zh-hant: 橋
-    zh-hk: 橋
-    zh-tw: 橋
+    zh_cn: 桥
+    zh_hans: 桥
+    zh_hant: 橋
+    zh_hk: 橋
+    zh_tw: 橋
     zu: UmCabeko
   parent_class: '[[../CivicStructure]]'
   properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'

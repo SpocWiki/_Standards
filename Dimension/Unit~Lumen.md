@@ -60,7 +60,7 @@ dv_has_:
     ar: لومن
     ast: lumen
     be: люмен
-    be-tarask: люмэн
+    be_tarask: люмэн
     bg: лумен
     bn: লুমেন
     bo: ལུ་མེན །
@@ -117,8 +117,8 @@ dv_has_:
     smn: luumen
     sq: lumeni
     sr: лумен
-    sr-ec: лумен
-    sr-el: lumen
+    sr_ec: лумен
+    sr_el: lumen
     sv: lumen
     ta: லூமன்
     te: ల్యూమెన్
@@ -132,9 +132,9 @@ dv_has_:
     xmf: ლუმენი
     yue: 流明
     zh: 流明
-    zh-hans: 流明
-    zh-hant: 流明
-    zh-hk: 流明
+    zh_hans: 流明
+    zh_hant: 流明
+    zh_hk: 流明
 ---
 # [[Unit~Lumen]]  
 

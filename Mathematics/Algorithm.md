@@ -166,7 +166,7 @@ dv_has_:
     ba: алгоритм
     bcl: algoritmo
     be: алгарытм
-    be-tarask: альгарытм
+    be_tarask: альгарытм
     bg: алгоритъм
     bho: एल्गोरिदम
     bn: অ্যালগরিদম
@@ -181,12 +181,12 @@ dv_has_:
     cy: algorithm
     da: algoritme
     de: Algorithmus
-    de-ch: Algorithmus
+    de_ch: Algorithmus
     diq: algoritma
     el: αλγόριθμος
     en: algorithm
-    en-ca: algorithm
-    en-gb: algorithm
+    en_ca: algorithm
+    en_gb: algorithm
     eo: algoritmo
     es: algoritmo
     et: algoritm
@@ -244,7 +244,7 @@ dv_has_:
     mn: алгоритм
     mr: अल्गोरिदम
     ms: algoritma
-    ms-arab: الݢوريتما
+    ms_arab: الݢوريتما
     mwl: algoritmo
     my: အယ်လ်ဂေါ်ရစ်သမ်
     nan: ián-sǹg-hoat
@@ -261,7 +261,7 @@ dv_has_:
     pms: Algoritm
     pnb: ایلگوردم
     pt: algoritmo
-    pt-br: algoritmo
+    pt_br: algoritmo
     qu: allquritmu
     rki: အဆင့်ချင်းတွက်နည်း
     ro: algoritm
@@ -283,8 +283,8 @@ dv_has_:
     sn: gwarazima
     sq: algoritëm
     sr: алгоритам
-    sr-ec: алгоритам
-    sr-el: algoritam
+    sr_ec: алгоритам
+    sr_el: algoritam
     su: algoritma
     sv: algoritm
     sw: algorithm
@@ -308,9 +308,9 @@ dv_has_:
     yi: אלגאריטם
     yue: 演算法
     zh: 算法
-    zh-hans: 算法
-    zh-hant: 演算法
-    zh-tw: 演算法
+    zh_hans: 算法
+    zh_hant: 演算法
+    zh_tw: 演算法
     zu: umkholezima
 ---
 # [[Algorithm]] 

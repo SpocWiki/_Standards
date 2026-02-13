@@ -87,7 +87,7 @@ dv_has_:
     ba: Тундра
     ban: Tundra
     be: Тундра
-    be-tarask: тундра
+    be_tarask: тундра
     bg: Тундра
     bn: তুন্দ্রা
     bs: Tundra
@@ -152,7 +152,7 @@ dv_has_:
     pl: tundra
     pnb: ٹنڈرا
     pt: tundra
-    pt-br: Tundra
+    pt_br: Tundra
     ro: tundră
     ru: тундра
     rue: Тундра

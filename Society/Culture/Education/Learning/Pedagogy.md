@@ -10,14 +10,14 @@ dv_has_:
     ba: педагогика
     bcl: pedagohiya
     be: педагогіка
-    be-tarask: пэдагогіка
+    be_tarask: пэдагогіка
     bg: Педагогика
     bho: शिक्षाशास्त्र
     bn: শিক্ষাতত্ত্ব
     br: Pedagogiezh
     bs: Pedagogija
     ca: pedagogia
-    cbk-zam: pedagogía
+    cbk_zam: pedagogía
     ceb: pedagohiya
     ckb: زانستی وانەگوتنەوە
     cs: pedagogika
@@ -29,8 +29,8 @@ dv_has_:
     el: παιδαγωγική
     eml: Pedagogìa
     en: pedagogy
-    en-ca: pedagogy
-    en-gb: pedagogy
+    en_ca: pedagogy
+    en_gb: pedagogy
     eo: pedagogio
     es: pedagogía
     et: kasvatusteadus
@@ -78,7 +78,7 @@ dv_has_:
     mn: Сурган хүмүүжүүлэх ухаан
     mr: अध्यापन शास्त्र
     ms: pedagogi
-    ms-arab: ڤيداݢوݢي
+    ms_arab: ڤيداݢوݢي
     mzn: پرورش
     nan: Kàu-io̍k-ha̍k
     nb: pedagogikk
@@ -95,7 +95,7 @@ dv_has_:
     pnb: تدریسیات
     ps: روزنپوهنه
     pt: pedagogia
-    pt-br: pedagogia
+    pt_br: pedagogia
     ro: pedagogie
     ru: педагогика
     rue: педаґоґіка
@@ -110,8 +110,8 @@ dv_has_:
     sms: pedagogikk
     sq: pedagogji
     sr: педагогија
-    sr-ec: педагогија
-    sr-el: pedagogija
+    sr_ec: педагогија
+    sr_el: pedagogija
     su: pédagogi
     sv: pedagogik
     ta: கற்பித்தல் பணி
@@ -132,14 +132,14 @@ dv_has_:
     yue: 教育學
     zgh: ⵜⴰⴱⵉⴷⴰⴳⵓⵊⵉⵜ
     zh: 教育学
-    zh-cn: 教育学
-    zh-hans: 教育学
-    zh-hant: 教育學
-    zh-hk: 教育學
-    zh-mo: 教育學
+    zh_cn: 教育学
+    zh_hans: 教育学
+    zh_hant: 教育學
+    zh_hk: 教育學
+    zh_mo: 教育學
     zh-my: 教育学
-    zh-sg: 教育学
-    zh-tw: 教育學
+    zh_sg: 教育学
+    zh_tw: 教育學
 aliases:
 - Addysgeg
 - Ariā whakaako

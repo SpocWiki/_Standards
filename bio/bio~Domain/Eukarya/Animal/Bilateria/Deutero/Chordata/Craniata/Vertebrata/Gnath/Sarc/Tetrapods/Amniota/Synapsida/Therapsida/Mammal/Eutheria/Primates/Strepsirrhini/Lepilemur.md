@@ -78,7 +78,7 @@ dv_has_:
     pl: Lepilemur
     pnb: نیولا لیمر
     pt: Lepilemur
-    pt-br: Lepilemur
+    pt_br: Lepilemur
     ro: Lepilemur
     ru: лепилемуры
     sh: Lepilemuri
@@ -91,11 +91,11 @@ dv_has_:
     vo: Lepilemur
     war: Lepilemur
     zh: 鼬狐猴屬
-    zh-cn: 鼬狐猴属
-    zh-hans: 鼬狐猴属
-    zh-hant: 鼬狐猴屬
-    zh-hk: 鼬狐猴屬
-    zh-tw: 鼬狐猴屬
+    zh_cn: 鼬狐猴属
+    zh_hans: 鼬狐猴属
+    zh_hant: 鼬狐猴屬
+    zh_hk: 鼬狐猴屬
+    zh_tw: 鼬狐猴屬
 ---
 # [[Lepilemur]]
 

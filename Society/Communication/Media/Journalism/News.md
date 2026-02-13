@@ -178,7 +178,7 @@ dv_has_:
     azb: خبر
     bcl: bareta
     be: навіны
-    be-tarask: навіны
+    be_tarask: навіны
     bg: новини
     bho: खबर
     bn: সংবাদ
@@ -195,7 +195,7 @@ dv_has_:
     diq: xeberi
     el: ειδησεογραφία
     en: news
-    en-gb: news
+    en_gb: news
     en-us: news
     eo: novaĵo
     es: noticia
@@ -229,7 +229,7 @@ dv_has_:
     kk: жаңалық
     kn: ವಾರ್ತೆ
     ko: 뉴스
-    ku-latn: nûçe
+    ku_latn: nûçe
     la: Nuntius
     lb: Aktualitéit
     li: In 't nuujs
@@ -244,7 +244,7 @@ dv_has_:
     mn: мэдээ
     mr: बातमी
     ms: berita
-    ms-arab: بريتا
+    ms_arab: بريتا
     my: သတင်း
     mzn: خورون
     na: Imwin
@@ -282,7 +282,7 @@ dv_has_:
     so: war
     sq: Lajmi
     sr: вест
-    sr-ec: вести
+    sr_ec: вести
     su: warta
     sv: nyheter
     sw: habari
@@ -294,8 +294,8 @@ dv_has_:
     tl: balita
     tr: haber
     tt: яңалыклар
-    tt-cyrl: яңалыклар
-    tt-latn: yañalıqlar
+    tt_cyrl: яңалыклар
+    tt_latn: yañalıqlar
     uk: новини
     ur: خبر
     uz: yangiliklar
@@ -311,9 +311,9 @@ dv_has_:
     yue: 新聞
     za: sinhvwnz
     zh: 新闻
-    zh-hans: 新闻
-    zh-hant: 新聞
-    zh-tw: 新聞
+    zh_hans: 新闻
+    zh_hant: 新聞
+    zh_tw: 新聞
 ---
 # [[News]] 
 

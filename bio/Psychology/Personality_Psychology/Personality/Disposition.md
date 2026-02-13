@@ -59,7 +59,7 @@ dv_has_:
     ar: استعداد
     az: meyl
     be: схільнасць
-    be-tarask: схільнасьць
+    be_tarask: схільнасьць
     bg: Диспозиция
     bs: dispozicija
     ca: disposició
@@ -100,14 +100,14 @@ dv_has_:
     sco: disposeetion
     sl: nagnjenje
     sr: диспозиција
-    sr-ec: диспозиција
-    sr-el: dispozicija
+    sr_ec: диспозиција
+    sr_el: dispozicija
     sv: disposition
     tr: eğilim
     uk: диспозиція
     vec: dispozision
     zh: 性情
-    zh-hant: 性情
+    zh_hant: 性情
 ---
 # [[Disposition]] 
 

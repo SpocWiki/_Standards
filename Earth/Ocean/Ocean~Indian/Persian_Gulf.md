@@ -236,7 +236,7 @@ dv_has_:
     ban: Celukan Persia
     bcl: Golpo Persiko
     be: Персідскі заліў
-    be-tarask: Пэрсыдзкая затока
+    be_tarask: Пэрсыдзкая затока
     bg: Персийски залив
     bho: फारस के खाड़ी
     bn: পারস্য উপসাগর
@@ -255,8 +255,8 @@ dv_has_:
     dsb: Persiski zalew
     el: Περσικός Κόλπος
     en: Persian Gulf
-    en-ca: Persian Gulf
-    en-gb: Persian Gulf
+    en_ca: Persian Gulf
+    en_gb: Persian Gulf
     eo: Persa Golfo
     es: golfo Pérsico
     et: Pärsia laht
@@ -333,7 +333,7 @@ dv_has_:
     pnb: خلیج فارس
     ps: عربي خلیج
     pt: Golfo Pérsico
-    pt-br: Golfo Pérsico
+    pt_br: Golfo Pérsico
     ro: Golful Persic
     ru: Персидский залив
     rue: Персийскый залив
@@ -374,9 +374,9 @@ dv_has_:
     yo: Gulf Pẹ́rsíà
     yue: 波斯灣
     zh: 波斯湾
-    zh-cn: 波斯湾
-    zh-hans: 波斯湾
-    zh-hant: 波斯灣
+    zh_cn: 波斯湾
+    zh_hans: 波斯湾
+    zh_hant: 波斯灣
 ---
 # [[Persian_Gulf]] 
 

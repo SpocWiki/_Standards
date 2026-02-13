@@ -88,7 +88,7 @@ dv_has_:
     az: Tukan
     ba: Тукан
     be: Тукан
-    be-tarask: Тукан
+    be_tarask: Тукан
     bg: Тукан
     bn: টুকানা মণ্ডল
     br: Toukan

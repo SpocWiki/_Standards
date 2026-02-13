@@ -232,7 +232,7 @@ dv_has_:
     ban: Paguyuban Negara Asia Kelod Kangin
     bcl: Asosasyon kan mga Nasyon sa Sur-Subangan na Asya
     be: АСЕАН
-    be-tarask: Асацыяцыя дзяржаваў Паўднёва-Ўсходняй Азіі
+    be_tarask: Асацыяцыя дзяржаваў Паўднёва-Ўсходняй Азіі
     bew: Paguyuban Bangsa-Bangsa Asia Kidul-wètan
     bg: Асоциация на страните от Югоизточна Азия
     bho: दक्खिन-पूरबी एशियाई राष्ट्र सभ के संगठन
@@ -251,8 +251,8 @@ dv_has_:
     dtp: Koisaan Pogun-pogun Asia Kaabatan-Kosilaon
     el: Ένωση Χωρών της Νοτιοανατολικής Ασίας
     en: Association of Southeast Asian Nations
-    en-ca: Association of Southeast Asian Nations
-    en-gb: Association of Southeast Asian Nations
+    en_ca: Association of Southeast Asian Nations
+    en_gb: Association of Southeast Asian Nations
     en-us: Association of South-East Asian Nations
     es: Asociación de las Naciones de Asia Sudoriental
     et: Kagu-Aasia Maade Assotsiatsioon
@@ -291,7 +291,7 @@ dv_has_:
     lzh: 東南亞國家協會
     mad: ASÈAN
     mai: दक्षिण पूर्वी एसियाली राष्ट्रसभक सङ्गठन
-    map-bms: Perhimpunan Bangsa-bangsa Asia Tenggara
+    map_bms: Perhimpunan Bangsa-bangsa Asia Tenggara
     mg: Fikambanan'ny Firenena any Azia Atsimo-Atsinanana
     min: Pasatuan Banso-banso Asia Tenggara
     mk: Здружение на нации од Југоисточна Азија
@@ -299,7 +299,7 @@ dv_has_:
     mn: АСЕАН
     mr: आसियान
     ms: Persatuan Negara-negara Asia Tenggara
-    ms-arab: ڤرساتوان نݢارا٢ اسيا تڠݢارا
+    ms_arab: ڤرساتوان نݢارا٢ اسيا تڠݢارا
     mul: ASEAN
     mwl: Associaçon de Naciones de l Sudeste Asiático
     my: အာစီယံ
@@ -348,14 +348,14 @@ dv_has_:
     yue: 東南亞國家聯盟
     za: Doengnamzya guekgya lenzmungz
     zh: 东南亚国家联盟
-    zh-cn: 东南亚国家联盟
-    zh-hans: 东南亚国家联盟
-    zh-hant: 東南亞國家協會
-    zh-hk: 東南亞國家聯盟
-    zh-mo: 東南亞國家聯盟
+    zh_cn: 东南亚国家联盟
+    zh_hans: 东南亚国家联盟
+    zh_hant: 東南亞國家協會
+    zh_hk: 東南亞國家聯盟
+    zh_mo: 東南亞國家聯盟
     zh-my: 东南亚国家联盟
-    zh-sg: 亚细安组织
-    zh-tw: 東南亞國家協會
+    zh_sg: 亚细安组织
+    zh_tw: 東南亞國家協會
 ---
 # [[ASEAN]] 
 

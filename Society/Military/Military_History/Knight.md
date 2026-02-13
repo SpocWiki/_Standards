@@ -121,7 +121,7 @@ dv_has_:
     ast: caballeru
     az: cəngavər
     be: рыцар
-    be-tarask: рыцар
+    be_tarask: рыцар
     bg: Рицар
     bn: নাইট
     br: marc'heg
@@ -133,11 +133,11 @@ dv_has_:
     cy: marchog
     da: ridder
     de: Ritter
-    de-ch: Ritter
+    de_ch: Ritter
     el: ιππότης
     en: knight
-    en-ca: Knight
-    en-gb: knight
+    en_ca: Knight
+    en_gb: knight
     eo: kavaliro
     es: caballero
     et: Rüütel
@@ -168,8 +168,8 @@ dv_has_:
     kn: ಅಶ್ವಾರೋಹಿ ಸೈನಿಕ
     ko: 기사
     ku: Şovalye
-    ku-arab: شۆڤالیە
-    ku-latn: Şovalye
+    ku_arab: شۆڤالیە
+    ku_latn: Şovalye
     ky: Рыцарь
     la: Eques
     lb: Ritter
@@ -190,7 +190,7 @@ dv_has_:
     pl: rycerz
     pms: cavalier
     pt: cavaleiro
-    pt-br: cavaleiro
+    pt_br: cavaleiro
     ro: Cavaler
     ru: рыцарь
     scn: Cavaleri
@@ -200,8 +200,8 @@ dv_has_:
     sl: vitez
     sq: Kalorësi
     sr: витез
-    sr-ec: Витез
-    sr-el: Vitez
+    sr_ec: Витез
+    sr_el: Vitez
     sv: riddare
     ta: வீரத்திருத்தகை
     tg: Ритсар
@@ -218,12 +218,12 @@ dv_has_:
     wuu: 骑士
     yue: 騎士
     zh: 骑士
-    zh-cn: 骑士
-    zh-hans: 骑士
-    zh-hant: 騎士
-    zh-hk: 騎士
-    zh-sg: 骑士
-    zh-tw: 騎士
+    zh_cn: 骑士
+    zh_hans: 骑士
+    zh_hant: 騎士
+    zh_hk: 騎士
+    zh_sg: 骑士
+    zh_tw: 騎士
 ---
 # [[Knight]] 
 

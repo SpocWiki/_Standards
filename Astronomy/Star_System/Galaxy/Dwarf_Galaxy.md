@@ -89,7 +89,7 @@ dv_has_:
     af: dwergsterrestelsel
     ar: مجرة قزمة
     ast: Galaxa nana
-    be-tarask: карлікавая галяктыка
+    be_tarask: карлікавая галяктыка
     bg: галактика джудже
     bn: বামন ছায়াপথ
     bs: patuljasta galaksija
@@ -139,8 +139,8 @@ dv_has_:
     sk: trpasličia galaxia
     sl: pritlikava galaksija
     sr: патуљаста галаксија
-    sr-ec: патуљаста галаксија
-    sr-el: patuljasta galaksija
+    sr_ec: патуљаста галаксија
+    sr_el: patuljasta galaksija
     sv: dvärggalax
     ta: குறு ஒளிர்வண்டம்
     th: ดาราจักรแคระ
@@ -152,12 +152,12 @@ dv_has_:
     wuu: 矮星系
     yue: 矮星系
     zh: 矮星系
-    zh-cn: 矮星系
-    zh-hans: 矮星系
-    zh-hant: 矮星系
-    zh-hk: 矮星系
-    zh-sg: 矮星系
-    zh-tw: 矮星系
+    zh_cn: 矮星系
+    zh_hans: 矮星系
+    zh_hant: 矮星系
+    zh_hk: 矮星系
+    zh_sg: 矮星系
+    zh_tw: 矮星系
 ---
 # [[Dwarf_Galaxy]] 
 

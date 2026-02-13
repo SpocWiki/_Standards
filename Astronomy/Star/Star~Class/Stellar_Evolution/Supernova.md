@@ -119,7 +119,7 @@ dv_has_:
     ast: supernova
     az: İfrat yeni ulduz
     be: звышновая зорка
-    be-tarask: звышновая зорка
+    be_tarask: звышновая зорка
     bg: свръхнова
     bho: सुपरनोवा
     bn: অতিনবতারা
@@ -131,11 +131,11 @@ dv_has_:
     cy: uwchnofa
     da: supernova
     de: Supernova
-    de-ch: Supernova
+    de_ch: Supernova
     el: υπερκαινοφανείς αστέρες
     en: supernova
-    en-ca: supernova
-    en-gb: supernova
+    en_ca: supernova
+    en_gb: supernova
     eo: supernovao
     es: supernova
     et: supernoova
@@ -190,7 +190,7 @@ dv_has_:
     pnb: سپرنووا
     ps: د ستورو لویه چاودنه
     pt: supernova
-    pt-br: supernova
+    pt_br: supernova
     ro: supernovă
     ru: сверхновая звезда
     scn: supernova
@@ -205,8 +205,8 @@ dv_has_:
     sms: supernova
     sq: yjet supernova
     sr: супернова
-    sr-ec: супернова
-    sr-el: supernova
+    sr_ec: супернова
+    sr_el: supernova
     su: supernova
     sv: supernova
     ta: மீயொளிர் விண்மீன் வெடிப்பு

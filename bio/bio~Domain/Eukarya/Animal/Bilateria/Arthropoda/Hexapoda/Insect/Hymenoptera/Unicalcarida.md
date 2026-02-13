@@ -11,7 +11,7 @@ dv_has_:
     ba: Яры ҡанатлылар
     bar: Hymenoptera
     be: перапончатакрылыя
-    be-tarask: балонкакрылыя
+    be_tarask: балонкакрылыя
     bg: ципокрили
     bn: হাইমেনোপটেরা
     br: Hymenoptera
@@ -25,11 +25,11 @@ dv_has_:
     da: årevingede
     de: Hautflügler
     de-at: Hymenoptera
-    de-ch: Hymenoptera
+    de_ch: Hymenoptera
     el: Υμενόπτερα
     en: Hymenoptera
-    en-ca: Hymenoptera
-    en-gb: Hymenoptera
+    en_ca: Hymenoptera
+    en_gb: Hymenoptera
     eo: himenopteroj
     es: himenópteros
     et: kiletiivalised
@@ -82,7 +82,7 @@ dv_has_:
     nap: menòttere
     nb: Vepser
     nds: Huudflunken
-    nds-nl: Hymenoptera
+    nds_nl: Hymenoptera
     nl: vliesvleugeligen
     nn: Årevenger
     nrm: Hymenoptera
@@ -96,7 +96,7 @@ dv_has_:
     pnb: چھلڑ پر
     ps: پرده وزری خوځندکې
     pt: Hymenoptera
-    pt-br: Hymenoptera
+    pt_br: Hymenoptera
     qu: Qaralla rapra
     rm: Hymenoptera
     ro: hymenoptera
@@ -129,9 +129,9 @@ dv_has_:
     wuu: 膜翅目
     yue: 膜翅目
     zh: 膜翅目
-    zh-cn: 膜翅目
-    zh-hans: 膜翅目
-    zh-tw: 膜翅目
+    zh_cn: 膜翅目
+    zh_hans: 膜翅目
+    zh_tw: 膜翅目
     zu: Hymenoptera
 aliases:
 - Blanokrídlovce

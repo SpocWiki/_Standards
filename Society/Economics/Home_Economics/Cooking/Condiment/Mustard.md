@@ -103,7 +103,7 @@ dv_has_:
     ast: mostaza
     bar: Semf
     be: гарчыца
-    be-tarask: гарчыца
+    be_tarask: гарчыца
     bew: Mustardi
     bg: горчица
     bn: সরিষার আচার
@@ -144,8 +144,8 @@ dv_has_:
     ka: მდოგვი
     ko: 머스터드
     ku: gormiz
-    ku-arab: گۆرمز
-    ku-latn: gormiz
+    ku_arab: گۆرمز
+    ku_latn: gormiz
     la: sinapi
     lb: moschter
     lt: garstyčios
@@ -175,8 +175,8 @@ dv_has_:
     sms: sinapp
     sq: mustardë kuzhine
     sr: сенф
-    sr-ec: сенф
-    sr-el: senf
+    sr_ec: сенф
+    sr_el: senf
     sv: senap
     szl: zymft
     ta: கடுகு
@@ -189,12 +189,12 @@ dv_has_:
     wuu: 芥末酱
     yue: 芥辣
     zh: 芥菜醬
-    zh-cn: 芥末酱
-    zh-hans: 芥末酱
-    zh-hant: 芥末醬
-    zh-hk: 芥末醬
-    zh-sg: 芥末酱
-    zh-tw: 芥末醬
+    zh_cn: 芥末酱
+    zh_hans: 芥末酱
+    zh_hant: 芥末醬
+    zh_hk: 芥末醬
+    zh_sg: 芥末酱
+    zh_tw: 芥末醬
     zu: umasitadi
 ---
 # [[Mustard]] 

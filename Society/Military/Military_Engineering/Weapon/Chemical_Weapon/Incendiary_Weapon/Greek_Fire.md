@@ -81,7 +81,7 @@ dv_has_:
     ast: Fueu griego
     az: Yunan alovu
     be: Грэчаскі агонь
-    be-tarask: грэцкі агонь
+    be_tarask: грэцкі агонь
     bg: Гръцки огън
     br: Tan gresian
     bs: Grčka vatra
@@ -130,8 +130,8 @@ dv_has_:
     sk: Grécky oheň
     sl: Grški ogenj
     sr: Грчка ватра
-    sr-ec: Грчка ватра
-    sr-el: Grčka vatra
+    sr_ec: Грчка ватра
+    sr_el: Grčka vatra
     sv: Grekisk eld
     th: ไฟกรีก
     tr: Rum Ateşi
@@ -139,12 +139,12 @@ dv_has_:
     vi: Lửa Hy Lạp
     yue: 希臘火
     zh: 希腊火
-    zh-cn: 希腊火
-    zh-hans: 希腊火
-    zh-hant: 希臘火
-    zh-hk: 希臘火
-    zh-sg: 希腊火
-    zh-tw: 希臘火
+    zh_cn: 希腊火
+    zh_hans: 希腊火
+    zh_hant: 希臘火
+    zh_hk: 希臘火
+    zh_sg: 希腊火
+    zh_tw: 希臘火
 ---
 # [[Greek_Fire]] 
 

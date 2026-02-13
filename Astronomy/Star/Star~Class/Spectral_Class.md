@@ -94,7 +94,7 @@ dv_has_:
     ast: Tipu espectral
     az: Ulduz təsnifatı
     be: спектральныя класы зорак
-    be-tarask: спэктральная кляса
+    be_tarask: спэктральная кляса
     bg: Спектрален клас
     bn: বর্ণালীগত শ্রেণী
     ca: tipus espectral
@@ -149,18 +149,18 @@ dv_has_:
     tl: Pag-uuring pambituin
     tr: yıldız sınıflandırma
     tt: спектраль сыйныф
-    tt-cyrl: спектрал сыйныф
+    tt_cyrl: спектрал сыйныф
     uk: спектральний клас
     vi: phân loại sao
     wuu: 恒星光谱
     yue: 光譜類型
     zh: 恒星光谱
-    zh-cn: 恒星光谱
-    zh-hans: 恒星光谱
-    zh-hant: 恆星光譜
-    zh-hk: 恆星光譜
-    zh-sg: 恒星光谱
-    zh-tw: 恆星光譜
+    zh_cn: 恒星光谱
+    zh_hans: 恒星光谱
+    zh_hant: 恆星光譜
+    zh_hk: 恆星光譜
+    zh_sg: 恒星光谱
+    zh_tw: 恆星光譜
 ---
 # [[Spectral_Class]] 
 

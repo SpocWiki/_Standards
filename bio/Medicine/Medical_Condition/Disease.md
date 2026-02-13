@@ -286,7 +286,7 @@ dv_has_:
     ban: Pinakit
     bcl: Helang
     be: хвароба
-    be-tarask: хвароба
+    be_tarask: хвароба
     bg: Болест
     bho: रोग
     bjn: garing
@@ -312,7 +312,7 @@ dv_has_:
     ee: d)lele
     el: νόσος
     en: disease
-    en-gb: disease
+    en_gb: disease
     eo: malsano
     es: enfermedad
     et: haigus
@@ -377,7 +377,7 @@ dv_has_:
     lzh: 疾病
     mad: Panyakè'
     mai: रोग
-    map-bms: Penyakit
+    map_bms: Penyakit
     mcn: mo᷅ynà
     mdf: урма
     mg: aretina
@@ -390,7 +390,7 @@ dv_has_:
     mnw: ယဲ
     mr: रोग
     ms: penyakit
-    ms-arab: ڤڽاکيت
+    ms_arab: ڤڽاکيت
     mt: mard
     my: ရောဂါ
     myv: орма
@@ -412,7 +412,7 @@ dv_has_:
     pnb: روگ
     ps: ناروغي
     pt: doença
-    pt-br: doença
+    pt_br: doença
     qu: Unquy
     rmf: duk
     ro: boală
@@ -438,8 +438,8 @@ dv_has_:
     so: Cudur
     sq: sëmundje
     sr: болест
-    sr-ec: болест
-    sr-el: bolest
+    sr_ec: болест
+    sr_el: bolest
     srn: siki
     sv: sjukdom
     sw: ugonjwa
@@ -453,7 +453,7 @@ dv_has_:
     tr: hastalık
     ts: Mavabyi
     tt: авыру
-    tt-cyrl: авыру
+    tt_cyrl: авыру
     tw: Nyarewa
     udm: висён
     uk: хвороба
@@ -475,14 +475,14 @@ dv_has_:
     za: Bingh
     zgh: ⵜⴰⵎⴰⴹⵓⵏⵜ
     zh: 疾病
-    zh-cn: 疾病
-    zh-hans: 疾病
-    zh-hant: 疾病
-    zh-hk: 疾病
-    zh-mo: 疾病
+    zh_cn: 疾病
+    zh_hans: 疾病
+    zh_hant: 疾病
+    zh_hk: 疾病
+    zh_mo: 疾病
     zh-my: 疾病
-    zh-sg: 疾病
-    zh-tw: 疾病
+    zh_sg: 疾病
+    zh_tw: 疾病
     zu: isifo
 ---
 # [[Disease]] 

@@ -160,7 +160,7 @@ dv_has_:
     ban: Propinsi
     bcl: Probinsya
     be: правінцыя
-    be-tarask: правінцыя
+    be_tarask: правінцыя
     bg: Провинция
     bho: राज्य
     bjn: paropinsi
@@ -169,7 +169,7 @@ dv_has_:
     br: proviñs
     bs: pokrajina
     ca: província
-    cbk-zam: Provincia
+    cbk_zam: Provincia
     cdo: Sēng
     ce: провинци
     ceb: Lalawigan
@@ -180,12 +180,12 @@ dv_has_:
     cy: talaith
     da: provins
     de: Provinz
-    de-ch: Provinz
+    de_ch: Provinz
     diq: Wılayet
     el: επαρχία
     en: province
-    en-ca: Province
-    en-gb: province
+    en_ca: Province
+    en_gb: province
     en-us: province
     eo: provinco
     es: provincia
@@ -236,7 +236,7 @@ dv_has_:
     lrc: آستون
     lt: Provincija
     lv: province
-    map-bms: propinsi
+    map_bms: propinsi
     mdf: провинциясь
     mg: Faritany
     min: provinsi
@@ -250,7 +250,7 @@ dv_has_:
     nan: Séng
     nap: Pruvincia
     nb: provins
-    nds-nl: pervincie
+    nds_nl: pervincie
     ne: प्रदेश
     new: प्रान्त
     nl: provincie
@@ -268,7 +268,7 @@ dv_has_:
     pnb: صوبہ
     ps: ولايت
     pt: província
-    pt-br: província
+    pt_br: província
     qu: pruwinsiya
     ro: provincie
     ru: провинция
@@ -285,8 +285,8 @@ dv_has_:
     sn: Dunhu
     sq: Provinca
     sr: покрајина
-    sr-ec: покрајина
-    sr-el: pokrajina
+    sr_ec: покрајина
+    sr_el: pokrajina
     su: propinsi
     sv: provins
     sw: Jimbo
@@ -313,10 +313,10 @@ dv_has_:
     yue: 省
     zea: Provincie
     zh: 省
-    zh-cn: 省
-    zh-hans: 省
-    zh-hant: 省
-    zh-tw: 省份
+    zh_cn: 省
+    zh_hans: 省
+    zh_hant: 省
+    zh_tw: 省份
 ---
 # [[Province]] 
 

@@ -279,8 +279,8 @@ water_footprint:
 dv_has_:
   name_:
     ady: хэтэрыкӏхэр
-    aeb-arab: خضرة
-    aeb-latn: 5o4ra
+    aeb_arab: خضرة
+    aeb_latn: 5o4ra
     af: groente
     agq: tuūwfʉ̄ghā
     ak: atosode
@@ -306,7 +306,7 @@ dv_has_:
     bcl: gulay
     bdr: gulay
     be: гародніна
-    be-tarask: гародніна
+    be_tarask: гародніна
     bg: зеленчукови култури
     bho: सब्जी
     bkc: jàbùkà
@@ -324,7 +324,7 @@ dv_has_:
     ch: gollai siha
     ckb: سەوزە
     crh: sebze
-    crh-latn: sebze
+    crh_latn: sebze
     cs: zelenina
     cv: пахча çимĕç
     cy: llysieuyn
@@ -335,8 +335,8 @@ dv_has_:
     dua: bewudu
     el: λαχανικό
     en: vegetable
-    en-ca: vegetable
-    en-gb: vegetable
+    en_ca: vegetable
+    en_gb: vegetable
     eo: legomo
     es: verdura
     et: köögivili
@@ -400,7 +400,7 @@ dv_has_:
     ks: سَبزی
     ksh: Jemöss
     ku: sebze
-    ku-latn: sebze
+    ku_latn: sebze
     kw: losowen
     ky: жашылча
     la: holus
@@ -435,7 +435,7 @@ dv_has_:
     mr: फळभाजी
     mrj: кавштавичӹ кушкышвлӓ
     ms: sayur
-    ms-arab: سايور
+    ms_arab: سايور
     mt: ħaxix
     mua: goo naa
     my: ဟင်းသီးဟင်းရွက်
@@ -444,7 +444,7 @@ dv_has_:
     nan: chhài-se
     nb: grønnsak
     nds: Grööntüüch
-    nds-nl: greunte
+    nds_nl: greunte
     ne: सागसब्जी
     new: उंचः
     nl: groente
@@ -466,7 +466,7 @@ dv_has_:
     pnb: سبزی
     ps: سابه
     pt: vegetal
-    pt-br: vegetal
+    pt_br: vegetal
     qu: yuyu
     ro: legumă
     roa-tara: verdure
@@ -494,7 +494,7 @@ dv_has_:
     so: khudaar
     sq: perimet
     sr: поврће
-    sr-ec: поврће
+    sr_ec: поврће
     srn: gruntu
     su: sayuran
     sv: grönsak
@@ -508,7 +508,7 @@ dv_has_:
     tn: merogo
     tr: sebze
     tt: яшелчә
-    tt-cyrl: яшелчә
+    tt_cyrl: яшелчә
     tvu: bihunjeke
     tyv: ногаа
     udm: бакча сиён
@@ -538,14 +538,14 @@ dv_has_:
     yue: 菜
     za: byaek
     zh: 蔬菜
-    zh-cn: 蔬菜
-    zh-hans: 蔬菜
-    zh-hant: 蔬菜
-    zh-hk: 蔬菜
-    zh-mo: 蔬菜
+    zh_cn: 蔬菜
+    zh_hans: 蔬菜
+    zh_hant: 蔬菜
+    zh_hk: 蔬菜
+    zh_mo: 蔬菜
     zh-my: 蔬菜
-    zh-sg: 蔬菜
-    zh-tw: 蔬菜
+    zh_sg: 蔬菜
+    zh_tw: 蔬菜
     zu: imifino
 ---
 # [[Vegetable]] 

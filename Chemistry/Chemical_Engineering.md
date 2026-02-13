@@ -150,7 +150,7 @@ dv_has_:
     ba: химик технология
     bcl: Inhinyeriyang pangkimika
     be: хімічная тэхналогія
-    be-tarask: хімічная інжынэрыя
+    be_tarask: хімічная інжынэрыя
     bg: Химично инженерство
     bn: রসায়ন প্রকৌশল
     ca: enginyeria química
@@ -185,7 +185,7 @@ dv_has_:
     kn: ಕೆಮಿಕಲ್ ಇಂಜಿನಿಯರಿಂಗ್
     ko: 화학공학
     ku: Kîmendaze
-    ku-arab: بةندي ئايونى
+    ku_arab: بةندي ئايونى
     la: Ars chemica
     lt: cheminė technologija
     lv: ķīmijas tehnoloģija
@@ -229,10 +229,10 @@ dv_has_:
     wuu: 化学工程
     yue: 化學工程
     zh: 化学工程
-    zh-cn: 化学工程
-    zh-hans: 化学工程
-    zh-hant: 化學工程
-    zh-tw: 化學工程
+    zh_cn: 化学工程
+    zh_hans: 化学工程
+    zh_hant: 化學工程
+    zh_tw: 化學工程
 ---
 # [[Chemical_Engineering]] 
 

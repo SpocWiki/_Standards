@@ -131,7 +131,7 @@ dv_has_:
     ast: documental
     az: sənədli film
     be: дакументальны фільм
-    be-tarask: дакумэнтальны фільм
+    be_tarask: дакумэнтальны фільм
     bg: документален филм
     bn: প্রামাণ্য চলচ্চিত্র
     bs: Dokumentarni film
@@ -144,8 +144,8 @@ dv_has_:
     de: Dokumentarfilm
     el: ντοκιμαντέρ
     en: documentary film
-    en-ca: documentary film
-    en-gb: documentary film
+    en_ca: documentary film
+    en_gb: documentary film
     en-us: documentary film
     eo: dokumenta filmo
     es: documental
@@ -197,7 +197,7 @@ dv_has_:
     pl: film dokumentalny
     pnb: دستاویزی فلم
     pt: filme documental
-    pt-br: documentário
+    pt_br: documentário
     ro: film documentar
     ru: документальный фильм
     scn: Ducumintariu
@@ -211,8 +211,8 @@ dv_has_:
     sms: dokumeʹnttjieʹllikartt
     sq: Filmi dokumentar
     sr: документарни филм
-    sr-ec: Документарни филм
-    sr-el: Dokumentarni film
+    sr_ec: Документарни филм
+    sr_el: Dokumentarni film
     sv: dokumentärfilm
     ta: விபரணத் திரைப்படம்
     te: డాక్యుమెంటరీ చిత్రం
@@ -220,7 +220,7 @@ dv_has_:
     th: ภาพยนตร์สารคดี
     tr: belgesel film
     tt: документаль фильм
-    tt-cyrl: документаль фильм
+    tt_cyrl: документаль фильм
     uk: документальний фільм
     ur: ڈاکیومنٹری
     uz: Hujjatli film
@@ -232,12 +232,12 @@ dv_has_:
     yi: דאקומענטארער פילם
     yue: 紀錄電影
     zh: 紀錄影片
-    zh-cn: 纪录电影
-    zh-hans: 纪录影片
-    zh-hant: 紀錄片
-    zh-hk: 紀錄片
-    zh-sg: 纪录片
-    zh-tw: 紀錄片
+    zh_cn: 纪录电影
+    zh_hans: 纪录影片
+    zh_hant: 紀錄片
+    zh_hk: 紀錄片
+    zh_sg: 纪录片
+    zh_tw: 紀錄片
     zu: idokhumentari
 ---
 # [[Documentary_Film]] 

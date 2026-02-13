@@ -272,7 +272,7 @@ dv_has_:
     bar: Schwefl
     bcl: asupre
     be: сера
-    be-tarask: серка
+    be_tarask: серка
     bg: сяра
     bho: गंधक
     blk: ကန်ꩻ
@@ -292,12 +292,12 @@ dv_has_:
     da: svovl
     dag: chilibi
     de: Schwefel
-    de-ch: Schwefel
+    de_ch: Schwefel
     dv: ސަލްފަރު
     el: θείο
     en: sulfur
-    en-ca: sulphur
-    en-gb: sulphur
+    en_ca: sulphur
+    en_gb: sulphur
     eo: sulfuro
     es: azufre
     et: väävel
@@ -346,7 +346,7 @@ dv_has_:
     ko: 황
     ko-kp: 류황
     ku: kewkurd
-    ku-latn: gogird
+    ku_latn: gogird
     kv: тэг
     kw: sulfur
     ky: күкүрт
@@ -373,7 +373,7 @@ dv_has_:
     mr: गंधक
     mrj: сера
     ms: belerang
-    ms-arab: بليرڠ
+    ms_arab: بليرڠ
     mt: kubrit
     mul: S
     mwl: alxofre
@@ -403,7 +403,7 @@ dv_has_:
     pnb: گندھک
     ps: گوگړ
     pt: enxofre
-    pt-br: enxofre
+    pt_br: enxofre
     qu: salina
     ro: sulf
     ru: сера
@@ -442,7 +442,7 @@ dv_has_:
     tok: ijo lili nanpa 16
     tr: kükürt
     tt: күкерт
-    tt-cyrl: күкерт
+    tt_cyrl: күкерт
     udm: сера
     ug: گۈڭگۈرت
     uk: сірка
@@ -464,14 +464,14 @@ dv_has_:
     za: vuengzcungq
     zgh: ⴰⵡⴹⵉⵙ
     zh: 硫
-    zh-cn: 硫
-    zh-hans: 硫
-    zh-hant: 硫
-    zh-hk: 硫
-    zh-mo: 硫
+    zh_cn: 硫
+    zh_hans: 硫
+    zh_hant: 硫
+    zh_hk: 硫
+    zh_mo: 硫
     zh-my: 硫
-    zh-sg: 硫
-    zh-tw: 硫
+    zh_sg: 硫
+    zh_tw: 硫
     zu: isibabuli
   number_of_:
     period: 3

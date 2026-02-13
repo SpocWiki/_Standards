@@ -165,8 +165,8 @@ GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=27448
 UNII: 1WZA4Y92EX
 dv_has_:
   name_:
-    aeb-arab: معدْنوس
-    aeb-latn: ma3dnous
+    aeb_arab: معدْنوس
+    aeb_latn: ma3dnous
     af: pietersielie
     an: Petroselinum crispum
     ar: بقدونس
@@ -178,7 +178,7 @@ dv_has_:
     bar: Petersilie
     bcl: Parsley
     be: Petroselinum crispum
-    be-tarask: пятрушка звычайная
+    be_tarask: пятрушка звычайная
     bg: обикновен магданоз
     bn: পার্সলে
     br: perisilh
@@ -248,7 +248,7 @@ dv_has_:
     pl: pietruszka zwyczajna
     pnt: γάραμσον
     pt: salsa
-    pt-br: salsinha
+    pt_br: salsinha
     qu: Qhurita
     ro: Pătrunjel
     rsk: Петрушка
@@ -263,7 +263,7 @@ dv_has_:
     sl: navadni peteršilj
     sq: Majdanozi
     sr: першун
-    sr-ec: першун
+    sr_ec: першун
     sv: persilja
     ta: வோக்கோசு
     tg: Ҷаъфарӣ
@@ -284,7 +284,7 @@ dv_has_:
     yi: פעטרישקע
     yue: 番茜
     zh: 歐芹
-    zh-tw: 香芹
+    zh_tw: 香芹
 ---
 # [[Parsley]] 
 

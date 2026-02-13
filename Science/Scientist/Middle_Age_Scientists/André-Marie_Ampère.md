@@ -158,7 +158,7 @@ dv_has_:
     azb: آندره-ماری آمپر
     ba: Андре-Мари Ампер
     be: Андрэ Мары Ампер
-    be-tarask: Андрэ-Мары Ампэр
+    be_tarask: Андрэ-Мары Ампэр
     bg: Андре-Мари Ампер
     bn: অঁদ্রে-মারি অম্পেয়্যার
     br: André-Marie Ampère
@@ -171,7 +171,7 @@ dv_has_:
     cy: André-Marie Ampère
     da: André-Marie Ampère
     de: André-Marie Ampère
-    de-ch: André-Marie Ampère
+    de_ch: André-Marie Ampère
     el: Αντρέ-Μαρί Αμπέρ
     en: André-Marie Ampère
     eo: André-Marie Ampère
@@ -225,7 +225,7 @@ dv_has_:
     nan: André-Marie Ampère
     nb: André-Marie Ampère
     nds: André-Marie Ampère
-    nds-nl: André-Marie Ampère
+    nds_nl: André-Marie Ampère
     ne: आन्द्रेम्यारी एम्पियर
     new: आन्द्रे मेरी एम्पिएर
     nl: André-Marie Ampère
@@ -264,14 +264,14 @@ dv_has_:
     yo: André-Marie Ampère
     yue: 安德烈瑪麗安培
     zh: 安德烈-馬里·安培
-    zh-cn: 安德烈-马里·安培
-    zh-hans: 安德烈-马里·安培
-    zh-hant: 安德烈-馬里·安培
-    zh-hk: 安德烈-馬里·安培
-    zh-mo: 安德烈-馬里·安培
+    zh_cn: 安德烈-马里·安培
+    zh_hans: 安德烈-马里·安培
+    zh_hant: 安德烈-馬里·安培
+    zh_hk: 安德烈-馬里·安培
+    zh_mo: 安德烈-馬里·安培
     zh-my: 安德烈-马里·安培
-    zh-sg: 安德烈-马里·安培
-    zh-tw: 安德烈-馬里·安培
+    zh_sg: 安德烈-马里·安培
+    zh_tw: 安德烈-馬里·安培
 ---
 # [[André-Marie_Ampère]] 
 

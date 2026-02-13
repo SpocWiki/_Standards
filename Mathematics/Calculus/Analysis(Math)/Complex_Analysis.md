@@ -73,7 +73,7 @@ dv_has_:
     az: Kompleks analiz
     ba: Комплекслы анализ
     be: камплексны аналіз
-    be-tarask: камплексны аналіз
+    be_tarask: камплексны аналіз
     bg: Комплексен анализ
     bn: জটিল বিশ্লেষণ
     ca: anàlisi complexa
@@ -115,7 +115,7 @@ dv_has_:
     os: Комплексон анализ
     pl: analiza zespolona
     pt: análise complexa
-    pt-br: análise complexa
+    pt_br: análise complexa
     ro: analiza complexă
     ru: комплексный анализ
     sco: Complex analysis
@@ -124,8 +124,8 @@ dv_has_:
     sl: kompleksna analiza
     sq: analiza Komplekse
     sr: Комплексна анализа
-    sr-ec: комплексна анализа
-    sr-el: kompleksna analiza
+    sr_ec: комплексна анализа
+    sr_el: kompleksna analiza
     sv: komplex analys
     th: การวิเคราะห์เชิงซ้อน
     tr: Karmaşık analiz
@@ -136,12 +136,12 @@ dv_has_:
     xmf: კომპლექსური ანალიზი
     yue: 複分析
     zh: 複分析
-    zh-cn: 复分析
-    zh-hans: 复分析
-    zh-hant: 複分析
-    zh-hk: 複分析
-    zh-sg: 复分析
-    zh-tw: 複分析
+    zh_cn: 复分析
+    zh_hans: 复分析
+    zh_hant: 複分析
+    zh_hk: 複分析
+    zh_sg: 复分析
+    zh_tw: 複分析
 ---
 # [[Complex_Analysis]] 
 

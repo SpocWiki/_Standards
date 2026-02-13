@@ -135,7 +135,7 @@ dv_has_:
     azb: اویون تئوریسی
     bar: Spuitheorie
     be: тэорыя гульняў
-    be-tarask: тэорыя гульняў
+    be_tarask: тэорыя гульняў
     bg: теория на игрите
     bn: ক্রীড়া তত্ত্ব
     ca: teoria de jocs
@@ -145,11 +145,11 @@ dv_has_:
     da: spilteori
     de: Spieltheorie
     de-at: Spieltheorie
-    de-ch: Spieltheorie
+    de_ch: Spieltheorie
     el: θεωρία παιγνίων
     en: game theory
-    en-ca: game theory
-    en-gb: game theory
+    en_ca: game theory
+    en_gb: game theory
     eo: ludoteorio
     es: teoría de juegos
     et: mänguteooria
@@ -186,7 +186,7 @@ dv_has_:
     ml: മത്സര സിദ്ധാന്തം
     mn: тоглоомын онол
     ms: teori permainan
-    ms-arab: تيوري ڤرماءينن
+    ms_arab: تيوري ڤرماءينن
     nan: iû-hì lí-lūn
     nb: spillteori
     nl: speltheorie
@@ -198,7 +198,7 @@ dv_has_:
     pl: teoria gier
     ps: د لوبی نظریه
     pt: teoria dos jogos
-    pt-br: teoria dos jogos
+    pt_br: teoria dos jogos
     ro: teoria jocului
     ru: теория игр
     scn: tiurìa di li joca
@@ -212,8 +212,8 @@ dv_has_:
     sms: speâllteoria
     sq: teoria e lojërave
     sr: теорија игара
-    sr-ec: теорија игара
-    sr-el: teorija igara
+    sr_ec: теорија игара
+    sr_el: teorija igara
     sv: spelteori
     ta: ஆட்டக் கோட்பாடு
     th: ทฤษฎีเกม
@@ -231,9 +231,9 @@ dv_has_:
     yi: שפיל טעאריע
     yue: 博弈論
     zh: 博弈论
-    zh-cn: 博弈论
-    zh-hans: 博弈论
-    zh-hant: 博奕論
+    zh_cn: 博弈论
+    zh_hans: 博弈论
+    zh_hant: 博奕論
 ---
 # [[Game_Theory]] 
 

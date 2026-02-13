@@ -79,7 +79,7 @@ dv_has_:
     arz: طاغيه
     az: Çığıran sərçələr
     azb: تیران
-    be-tarask: тыран
+    be_tarask: тыран
     bg: Тиран
     bn: অপস্বৈরশাসক
     br: Tirant
@@ -108,7 +108,7 @@ dv_has_:
     it: tiranno
     ja: 僭主
     ka: ტირანია
-    kk-arab: تىيرانىييا
+    kk_arab: تىيرانىييا
     kk-cn: تىيرانىييا
     ko: 참주
     ky: Тиран
@@ -132,8 +132,8 @@ dv_has_:
     sl: Tiran
     sq: Tirani
     sr: тиранија
-    sr-ec: тиранија
-    sr-el: Tiranin
+    sr_ec: тиранија
+    sr_el: Tiranin
     sv: tyrann
     ta: tyrant
     th: ทรราช
@@ -145,12 +145,12 @@ dv_has_:
     vep: Tiran
     vi: Bạo chúa
     zh: 僭主
-    zh-cn: 僭主
-    zh-hans: 僭主
-    zh-hant: 僭主
-    zh-hk: 僭主
-    zh-sg: 僭主
-    zh-tw: 僭主
+    zh_cn: 僭主
+    zh_hans: 僭主
+    zh_hant: 僭主
+    zh_hk: 僭主
+    zh_sg: 僭主
+    zh_tw: 僭主
 ---
 # [[Tyrant]] 
 

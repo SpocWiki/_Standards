@@ -123,7 +123,7 @@ dv_has_:
     azb: رودلف خامتویچ نوریف
     ba: Рудольф Нуриев
     be: Рудольф Хаметавіч Нурыеў
-    be-tarask: Рудольф Нурыеў
+    be_tarask: Рудольф Нурыеў
     bg: Рудолф Нуреев
     bjn: Rudolf Nureyev
     bug: Rudolf Nureyev
@@ -160,7 +160,7 @@ dv_has_:
     ky: Рудольф Нуреев
     la: Rudolphus Nureyev
     lv: Rūdolfs Nurejevs
-    map-bms: Rudolf Nureyev
+    map_bms: Rudolf Nureyev
     mg: Rudolf Nureyev
     min: Rudolf Nureyev
     mn: Рудольф Нуриев
@@ -172,7 +172,7 @@ dv_has_:
     pap: Rudolf Nureyev
     pl: Rudolf Nuriejew
     pt: Rudolf Nureyev
-    pt-br: Rudolf Nureyev
+    pt_br: Rudolf Nureyev
     ro: Rudolf Nuriev
     ru: Нуреев, Рудольф Хаметович
     sah: Рудольф Нуриев
@@ -180,8 +180,8 @@ dv_has_:
     sl: Rudolf Nureyev
     sq: Rudolf Nurejev
     sr: Рудолф Нурејев
-    sr-ec: Рудолф Нурејев
-    sr-el: Rudolf Nurejev
+    sr_ec: Рудолф Нурејев
+    sr_el: Rudolf Nurejev
     su: Rudolf Nureyev
     sv: Rudolf Nurejev
     tet: Rudolf Nureyev
@@ -195,12 +195,12 @@ dv_has_:
     wuu: 鲁道夫·纽瑞耶夫
     yue: 雷里耶夫
     zh: 魯道夫·紐瑞耶夫
-    zh-cn: 紐瑞耶夫
-    zh-hans: 紐瑞耶夫
-    zh-hant: 紐瑞耶夫
-    zh-hk: 雷里耶夫
-    zh-sg: 紐瑞耶夫
-    zh-tw: 紐瑞耶夫
+    zh_cn: 紐瑞耶夫
+    zh_hans: 紐瑞耶夫
+    zh_hant: 紐瑞耶夫
+    zh_hk: 雷里耶夫
+    zh_sg: 紐瑞耶夫
+    zh_tw: 紐瑞耶夫
 ---
 # [[Nureyev,Rudolf]] 
 

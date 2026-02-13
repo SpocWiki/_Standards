@@ -139,7 +139,7 @@ dv_has_:
     ba: Автоспорт
     bar: Autorenna
     be: аўтаспорт
-    be-tarask: аўтамабільныя гонкі
+    be_tarask: аўтамабільныя гонкі
     bg: Автомобилни спортове
     bn: অটো রেসিং
     br: Redadegoù kirri
@@ -152,11 +152,11 @@ dv_has_:
     cy: rasio ceir
     da: bilsport
     de: Automobilsport
-    de-ch: Automobilsport
+    de_ch: Automobilsport
     el: αγώνας αυτοκινήτων
     en: auto racing
-    en-ca: auto racing
-    en-gb: motor racing
+    en_ca: auto racing
+    en_gb: motor racing
     eo: aŭtosporto
     es: automovilismo
     et: autosport
@@ -207,7 +207,7 @@ dv_has_:
     pms: Corse automobilìstiche
     pnb: گڈیاں دی دوڑ
     pt: automobilismo
-    pt-br: Automobilismo
+    pt_br: Automobilismo
     qu: Antawa llallinakuy
     ro: curse auto
     ru: автомобильные гонки
@@ -220,7 +220,7 @@ dv_has_:
     sl: avtomobilistično dirkanje
     sq: Garat automobilistike
     sr: аутомобилизам
-    sr-ec: аутомобилизам
+    sr_ec: аутомобилизам
     sv: bilsport
     sw: Mashindano ya magari
     ta: தானுந்து விளையாட்டுக்கள்
@@ -228,7 +228,7 @@ dv_has_:
     tl: Karera ng mga sasakyang de-motor
     tr: otomobil yarışı
     tt: автоспорт
-    tt-cyrl: автоспорт
+    tt_cyrl: автоспорт
     uk: автомобільні перегони
     ur: گاڑیوں کی دوڑ
     uz: Avtomobil sporti
@@ -240,8 +240,8 @@ dv_has_:
     yi: אויטאספארט
     yue: 賽車
     zh: 賽車
-    zh-hant: 賽車
-    zh-tw: 汽車競賽
+    zh_hant: 賽車
+    zh_tw: 汽車競賽
 ---
 # [[Auto_Racing]] 
 

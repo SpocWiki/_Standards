@@ -101,7 +101,7 @@ dv_has_:
     azb: سرمایه
     ba: капитал
     be: капітал
-    be-tarask: капітал
+    be_tarask: капітал
     bew: Punci
     bg: капитал
     bn: পুঁজি
@@ -120,8 +120,8 @@ dv_has_:
     diq: Kapital
     el: Κεφάλαιο
     en: capital
-    en-ca: capital
-    en-gb: capital
+    en_ca: capital
+    en_gb: capital
     eo: kapitalo
     es: capital
     et: kapital
@@ -183,7 +183,7 @@ dv_has_:
     pnb: کیپیٹل
     ps: پانګه
     pt: capital
-    pt-br: capital
+    pt_br: capital
     ro: capital
     ru: капитал
     rue: капітал
@@ -217,14 +217,14 @@ dv_has_:
     yi: קאפיטאל
     yue: 資本
     zh: 资本
-    zh-cn: 资本
-    zh-hans: 资本
-    zh-hant: 資本
-    zh-hk: 資本
-    zh-mo: 資本
+    zh_cn: 资本
+    zh_hans: 资本
+    zh_hant: 資本
+    zh_hk: 資本
+    zh_mo: 資本
     zh-my: 资本
-    zh-sg: 资本
-    zh-tw: 資本
+    zh_sg: 资本
+    zh_tw: 資本
 ---
 # [[Capital(Economics)]] 
 

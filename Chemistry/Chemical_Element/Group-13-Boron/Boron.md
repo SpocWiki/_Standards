@@ -166,7 +166,7 @@ dv_has_:
     ban: Boron
     bcl: Boron
     be: Бор
-    be-tarask: бор
+    be_tarask: бор
     bg: бор
     bho: बोरॉन
     blk: ဘိုရွန်
@@ -185,12 +185,12 @@ dv_has_:
     cy: boron
     da: bor
     de: Bor
-    de-ch: Bor
+    de_ch: Bor
     dv: ބޯރޯން
     el: βόριο
     en: boron
-    en-ca: Boron
-    en-gb: boron
+    en_ca: Boron
+    en_gb: boron
     en-us: boron
     eo: boro
     es: boro
@@ -260,7 +260,7 @@ dv_has_:
     mr: बोरॉन
     mrj: Бор
     ms: boron
-    ms-arab: بورون
+    ms_arab: بورون
     mt: boru
     my: ဘိုရွန်
     myv: Бор
@@ -287,7 +287,7 @@ dv_has_:
     pnb: بورون
     ps: بورون
     pt: boro
-    pt-br: boro
+    pt_br: boro
     qu: Purun
     ro: bor
     ru: бор
@@ -338,14 +338,14 @@ dv_has_:
     yue: 硼
     zgh: ⴰⴱⵓⵔ
     zh: 硼
-    zh-cn: 硼
-    zh-hans: 硼
-    zh-hant: 硼
-    zh-hk: 硼
-    zh-mo: 硼
+    zh_cn: 硼
+    zh_hans: 硼
+    zh_hant: 硼
+    zh_hk: 硼
+    zh_mo: 硼
     zh-my: 硼
-    zh-sg: 硼
-    zh-tw: 硼
+    zh_sg: 硼
+    zh_tw: 硼
     zu: UmBohlwa
   number_of_:
     period: 2

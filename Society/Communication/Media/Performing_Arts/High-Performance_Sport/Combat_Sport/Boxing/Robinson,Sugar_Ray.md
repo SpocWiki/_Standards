@@ -73,7 +73,7 @@ dv_has_:
     ar: شوجار ري روبنسون
     arz: شوجار رى روبنسون
     ast: Sugar Ray Robinson
-    be-tarask: Шугар Рэй Робінсан
+    be_tarask: Шугар Рэй Робінсан
     bg: Шугар Рей Робинсън
     bs: Sugar Ray Robinson
     ca: Sugar Ray Robinson
@@ -108,7 +108,7 @@ dv_has_:
     nn: Sugar Ray Robinson
     pl: Sugar Ray Robinson
     pt: Sugar Ray Robinson
-    pt-br: Sugar Ray Robinson
+    pt_br: Sugar Ray Robinson
     ro: Sugar Ray Robinson
     ru: Шугар Рэй Робинсон
     sl: Sugar Ray Robinson

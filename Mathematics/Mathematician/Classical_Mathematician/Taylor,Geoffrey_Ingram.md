@@ -124,7 +124,7 @@ dv_has_:
     ar: جيفري إنغرام تايلور
     arz: جيفرى انجرام تايلور
     azb: جی آی تیلور
-    be-tarask: Джэфры Інграм Тэйлар
+    be_tarask: Джэфры Інграм Тэйлар
     bg: Джефри Инграм Тейлор
     ca: Geoffrey Ingram Taylor
     cs: Geoffrey Ingram Taylor
@@ -152,7 +152,7 @@ dv_has_:
     nn: Geoffrey Ingram Taylor
     pl: Geoffrey Ingram Taylor
     pt: Geoffrey Ingram Taylor
-    pt-br: Geoffrey Ingram Taylor
+    pt_br: Geoffrey Ingram Taylor
     ru: Джефри Инграм Тейлор
     sl: Geoffrey Ingram Taylor
     sq: Geoffrey Ingram Taylor
@@ -163,9 +163,9 @@ dv_has_:
     xmf: ჯეფრი ინგრამ ტეილორი
     yue: 傑弗里·泰勒
     zh: 傑弗里·泰勒
-    zh-hans: 杰弗里·泰勒
-    zh-hant: 傑弗里·泰勒
-    zh-hk: 傑弗里·泰勒
+    zh_hans: 杰弗里·泰勒
+    zh_hant: 傑弗里·泰勒
+    zh_hk: 傑弗里·泰勒
 ---
 # [[Taylor,Geoffrey_Ingram]]
 

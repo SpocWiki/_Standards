@@ -130,7 +130,7 @@ dv_has_:
     az: Zenon
     ba: Зенон Китийский
     be: Зянон з Кітыёна
-    be-tarask: Зянон з Кітыёна
+    be_tarask: Зянон з Кітыёна
     bg: Зенон от Китион
     bs: Zenon Kitijski
     ca: Zenó de Cítion
@@ -158,11 +158,11 @@ dv_has_:
     ja: ゼノン
     ka: ზენონ კიტიონელი
     kk: Зенон Китионнан
-    kk-arab: زەنون كىيتىيوننان
+    kk_arab: زەنون كىيتىيوننان
     kk-cn: زەنون كىيتىيوننان
-    kk-cyrl: Зенон Китионнан
+    kk_cyrl: Зенон Китионнан
     kk-kz: Зенон Китионнан
-    kk-latn: Zenon Kïtïonnan
+    kk_latn: Zenon Kïtïonnan
     kk-tr: Zenon Kïtïonnan
     ko: 키티온의 제논
     ky: Китиондук Зенон
@@ -181,7 +181,7 @@ dv_has_:
     pl: Zenon z Kition
     pnb: زینون رواقی
     pt: Zenão de Cítio
-    pt-br: Zenão de Cítio
+    pt_br: Zenão de Cítio
     ro: Zenon din Kition
     ru: Зенон Китийский
     sh: Zenon iz Kitijuma
@@ -189,8 +189,8 @@ dv_has_:
     sl: Zenon iz Kitija
     sq: Zenoni nga Citiumi
     sr: Zenon iz Kitijuma
-    sr-ec: Зенон из Китијума
-    sr-el: Zenon iz Kitijuma
+    sr_ec: Зенон из Китијума
+    sr_el: Zenon iz Kitijuma
     sv: Zenon från Kition
     th: เซโนแห่งซิเทียม
     tl: Seno ng Sityum
@@ -204,12 +204,12 @@ dv_has_:
     wuu: 季蒂昂个芝诺
     yue: 芝諾 (前四世紀)
     zh: 季蒂昂的芝诺
-    zh-cn: 季蒂昂的芝诺
+    zh_cn: 季蒂昂的芝诺
     zh-hans: 季蒂昂的芝诺
-    zh-hant: 季蒂昂的芝諾
-    zh-hk: 季蒂昂的芝諾
-    zh-sg: 季蒂昂的芝诺
-    zh-tw: 季蒂昂的芝諾
+    zh_hant: 季蒂昂的芝諾
+    zh_hk: 季蒂昂的芝諾
+    zh_sg: 季蒂昂的芝诺
+    zh_tw: 季蒂昂的芝諾
 ---
 # [[Zeno_of_Citium]] 
 

@@ -27,7 +27,7 @@ dv_has_:
     sr: Зилог
     sv: ZiLOG
     tt: Zilog
-    tt-cyrl: Zilog
+    tt_cyrl: Zilog
     uk: Zilog
     vec: Zilog
 aliases:

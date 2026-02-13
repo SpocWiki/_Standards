@@ -211,7 +211,7 @@ dv_has_:
     bar: Speiseeis
     bcl: sorbetes
     be: марозіва
-    be-tarask: марозіва
+    be_tarask: марозіва
     bg: сладолед
     bho: आइसक्रीम
     bjn: is krim
@@ -223,18 +223,18 @@ dv_has_:
     chr: ꭴꮑꮝꮣꮃꮧꮝꮤꮕꭿꭴꮕꮧ
     chy: tsétóno
     ckb: ئایسکرێم
-    crh-latn: dondurma
+    crh_latn: dondurma
     cs: zmrzlina
     cy: hufen iâ
     da: is
     de: Speiseeis
-    de-ch: Glace
+    de_ch: Glace
     dtp: sokirim
     el: παγωτό
     eml: ślâ
     en: ice cream
-    en-ca: ice cream
-    en-gb: ice cream
+    en_ca: ice cream
+    en_gb: ice cream
     en-us: ice cream
     eo: glaciaĵo
     es: helado
@@ -251,7 +251,7 @@ dv_has_:
     gn: typy'are'ẽ
     gom: Ice cream
     gom-deva: आइस-क्रीम
-    gom-latn: ice cream
+    gom_latn: ice cream
     gu: આઇસક્રીમ
     gv: key riojey
     hak: pîn-kî-lîn
@@ -296,7 +296,7 @@ dv_has_:
     mn: цэцгийн мэхээлдэс
     mr: आईसक्रीम
     ms: aiskrim
-    ms-arab: اءيسکريم
+    ms_arab: اءيسکريم
     mt: ġelat
     my: ရေခဲမုန့်
     nan: peng-kî-lîm
@@ -311,7 +311,7 @@ dv_has_:
     pl: lody
     pnb: آئس کریم
     pt: gelado
-    pt-br: sorvete
+    pt_br: sorvete
     rki: ရီခဲမုန့်
     rm: glatsch
     ro: înghețată
@@ -331,8 +331,8 @@ dv_has_:
     so: jalaato
     sq: akullorja
     sr: сладолед
-    sr-ec: сладолед
-    sr-el: sladoled
+    sr_ec: сладолед
+    sr_el: sladoled
     st: aesekerimi
     su: éskrim
     sv: glass
@@ -365,13 +365,13 @@ dv_has_:
     za: gaunae
     zh: 冰淇淋
     zh-cn: 冰淇淋
-    zh-hans: 冰激凌
-    zh-hant: 冰淇淋
-    zh-hk: 雪糕
-    zh-mo: 雪糕
+    zh_hans: 冰激凌
+    zh_hant: 冰淇淋
+    zh_hk: 雪糕
+    zh_mo: 雪糕
     zh-my: 冰淇淋
-    zh-sg: 冰淇淋
-    zh-tw: 冰淇淋
+    zh_sg: 冰淇淋
+    zh_tw: 冰淇淋
     zu: u-ayisikhilimu
 ---
 # [[Ice_Cream]] 

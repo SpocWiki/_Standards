@@ -198,13 +198,13 @@ dv_has_:
     ba: Ҡояш тотолоу
     ban: Gerhana Matahari
     be: сонечнае зацьменне
-    be-tarask: сонечнае зацьменьне
+    be_tarask: сонечнае зацьменьне
     bg: Слънчево затъмнение
     bn: সূর্যগ্রহণ
     bo: ཉི་འཛིན་
     bs: Pomračenje Sunca
     ca: eclipsi solar
-    cbk-zam: Solar eclipse
+    cbk_zam: Solar eclipse
     chr: ᏅᏓ ᎠᏥᎩᏍᎬ
     ckb: ڕۆژگیران
     cs: zatmění Slunce
@@ -292,7 +292,7 @@ dv_has_:
     pnb: سورج گرہن
     ps: لمریز خسوف
     pt: eclipse solar
-    pt-br: eclipse solar
+    pt_br: eclipse solar
     qu: Inti wañuy
     ro: eclipsă de Soare
     ru: солнечное затмение
@@ -311,7 +311,7 @@ dv_has_:
     so: Qorax madoobaad
     sq: Zënia e Diellit 20 mars 2015
     sr: помрачење Сунца
-    sr-ec: помрачење Сунца
+    sr_ec: помрачење Сунца
     su: Samagaha
     sv: solförmörkelse
     sw: kupatwa kwa jua
@@ -338,7 +338,7 @@ dv_has_:
     yo: Ìsúlẹ̀ Òòrùn
     yue: 日食
     zh: 日食
-    zh-cn: 日食
+    zh_cn: 日食
 ---
 # [[Solar_Eclipse]] 
 

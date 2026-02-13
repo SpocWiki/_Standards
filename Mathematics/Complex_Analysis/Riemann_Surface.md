@@ -56,7 +56,7 @@ dv_has_:
     ar: أسطح ريمان للدالة
     ast: superficie de Riemann
     ba: Риман йөҙө
-    be-tarask: рыманава паверхня
+    be_tarask: рыманава паверхня
     bg: Риманова повърхнина
     ca: Superfície de Riemann
     cs: Riemannova plocha
@@ -79,9 +79,9 @@ dv_has_:
     it: superficie di Riemann
     ja: リーマン面
     kk: Риман беті
-    kk-arab: رىيمان بەتى
-    kk-cyrl: Риман беті
-    kk-latn: Rïman beti
+    kk_arab: رىيمان بەتى
+    kk_cyrl: Риман беті
+    kk_latn: Rïman beti
     ko: 리만 곡면
     la: superficies Riemanniana
     lfn: surfas de Riemann
@@ -102,9 +102,9 @@ dv_has_:
     wuu: 黎曼曲面
     yue: 黎曼曲面
     zh: 黎曼曲面
-    zh-hans: 黎曼曲面
-    zh-hant: 黎曼曲面
-    zh-hk: 黎曼曲面
+    zh_hans: 黎曼曲面
+    zh_hant: 黎曼曲面
+    zh_hk: 黎曼曲面
 ---
 # [[Riemann_Surface]] 
 

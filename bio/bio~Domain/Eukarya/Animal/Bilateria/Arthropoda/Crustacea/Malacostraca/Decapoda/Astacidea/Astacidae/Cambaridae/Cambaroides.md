@@ -39,7 +39,7 @@ dv_has_:
     oc: Cambaroides
     pl: Cambaroides
     pt: Cambaroides
-    pt-br: Cambaroides
+    pt_br: Cambaroides
     ro: Cambaroides
     ru: Cambaroides
     sq: Cambaroides
@@ -48,11 +48,11 @@ dv_has_:
     vo: Cambaroides
     war: Cambaroides
     zh: 拟螯虾属
-    zh-cn: 拟螯虾属
-    zh-hans: 黑螯虾
-    zh-hant: 黑螯蝦
-    zh-hk: 黑螯蝦
-    zh-tw: 擬螯蝦屬
+    zh_cn: 拟螯虾属
+    zh_hans: 黑螯虾
+    zh_hant: 黑螯蝦
+    zh_hk: 黑螯蝦
+    zh_tw: 擬螯蝦屬
 ---
 # [[Cambaroides]] 
 

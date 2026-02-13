@@ -553,7 +553,7 @@ dv_has_:
     bar: Donau
     bcl: Danubio
     be: Дунай
-    be-tarask: Дунай
+    be_tarask: Дунай
     bg: Дунав
     bho: डेन्यूब नदी
     bn: দানিউব নদী
@@ -578,7 +578,7 @@ dv_has_:
     dsb: Dunaj
     el: Δούναβης
     en: Danube
-    en-gb: Danube
+    en_gb: Danube
     eo: Danubo
     es: Danubio
     et: Doonau
@@ -720,7 +720,7 @@ dv_has_:
     yo: Odò Dánúbì
     yue: 多瑙河
     zh: 多瑙河
-    zh-tw: 多瑙河
+    zh_tw: 多瑙河
 ---
 # [[Danube]] 
 

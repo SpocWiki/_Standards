@@ -273,7 +273,7 @@ dv_has_:
     ast: cónxuge
     bcl: Agom
     be: сужэнец
-    be-tarask: сужэнец
+    be_tarask: сужэнец
     bn: দাম্পত্য সঙ্গী
     br: Pried
     ca: cònjuge
@@ -284,11 +284,11 @@ dv_has_:
     da: ægtefælle
     de: Ehegatte
     de-at: Ehegatte
-    de-ch: Ehegatte
+    de_ch: Ehegatte
     el: σύζυγος
     en: spouse
-    en-ca: spouse
-    en-gb: spouse
+    en_ca: spouse
+    en_gb: spouse
     eo: geedzo
     es: cónyuge
     et: abikaasa
@@ -314,7 +314,7 @@ dv_has_:
     jbo: selspe
     kcg: a̱tyunswat
     ko: 배우자
-    ku-latn: hevser
+    ku_latn: hevser
     la: coniunx
     lfn: spos
     lt: sutuoktinis
@@ -323,7 +323,7 @@ dv_has_:
     ml: പങ്കാളി
     mr: spouse
     ms: pasangan
-    ms-arab: ڤاسڠن
+    ms_arab: ڤاسڠن
     nb: ektefelle
     nl: huwelijkspartner
     pl: małżonek
@@ -351,10 +351,10 @@ dv_has_:
     wuu: 配偶
     yue: 配偶
     zh: 配偶
-    zh-hans: 配偶
-    zh-hant: 配偶
-    zh-hk: 配偶
-    zh-tw: 配偶
+    zh_hans: 配偶
+    zh_hant: 配偶
+    zh_hk: 配偶
+    zh_tw: 配偶
 ---
 # [[Spouse]] 
 

@@ -142,7 +142,7 @@ dv_has_:
     az: Qozbel balina
     ban: Paus dengkuk
     be: Гарбаты кіт
-    be-tarask: Гарбаты кіт
+    be_tarask: Гарбаты кіт
     bg: гърбат кит
     bn: কুঁজো তিমি
     br: Balum askellek
@@ -152,11 +152,11 @@ dv_has_:
     cy: Morfil Cefngrwm
     da: Pukkelhval
     de: Buckelwal
-    de-ch: Buckelwal
+    de_ch: Buckelwal
     el: Μεγάπτερη
     en: humpback whale
-    en-ca: Humpback whale
-    en-gb: Humpback whale
+    en_ca: Humpback whale
+    en_gb: Humpback whale
     en-us: humpback whale
     eo: Ĝiba baleno
     es: Megaptera novaeangliae
@@ -204,7 +204,7 @@ dv_has_:
     pl: długopłetwiec oceaniczny
     pnb: کبی وہیل
     pt: baleia-jubarte
-    pt-br: baleia-jubarte
+    pt_br: baleia-jubarte
     ro: Balenă cu cocoașă
     ru: Горбатый кит
     sco: Humfback Whaul
@@ -213,8 +213,8 @@ dv_has_:
     sl: kit grbavec
     sq: Balena gungaçe
     sr: Грбави кит
-    sr-ec: Грбави кит
-    sr-el: Грбави кит
+    sr_ec: Грбави кит
+    sr_el: Грбави кит
     sv: knölval
     ta: கூனல் முதுகுத் திமிங்கலம்
     th: วาฬหลังค่อม
@@ -227,12 +227,12 @@ dv_has_:
     wuu: 大翅鲸
     yue: 大翅鯨
     zh: 大翅鲸
-    zh-cn: 大翅鯨
-    zh-hans: 大翅鲸
-    zh-hant: 大翅鯨
-    zh-hk: 大翅鯨
-    zh-sg: 大翅鲸
-    zh-tw: 大翅鯨
+    zh_cn: 大翅鯨
+    zh_hans: 大翅鲸
+    zh_hant: 大翅鯨
+    zh_hk: 大翅鯨
+    zh_sg: 大翅鲸
+    zh_tw: 大翅鯨
 ---
 # [[Humpback_Whale]] 
 

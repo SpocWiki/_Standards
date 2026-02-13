@@ -164,7 +164,7 @@ dv_has_:
     ba: Үрсеү
     bcl: Reproduksyon
     be: размнажэнне
-    be-tarask: размнажэньне
+    be_tarask: размнажэньне
     bg: Размножаване
     bn: প্রজনন
     br: Gouennañ
@@ -180,8 +180,8 @@ dv_has_:
     de: Fortpflanzung
     el: αναπαραγωγή
     en: reproduction
-    en-ca: Reproduction
-    en-gb: reproduction
+    en_ca: Reproduction
+    en_gb: reproduction
     eo: reproduktado
     es: reproducción
     et: Paljunemine
@@ -221,7 +221,7 @@ dv_has_:
     kn: 'ಪ್ರಜನನ : ಲಿಂಗಾಣುಗಳು'
     ko: 생식
     krc: Кёблениу
-    ku-latn: pirbûn
+    ku_latn: pirbûn
     kw: Dinythians
     ky: Көбөйүү
     la: Procreatio
@@ -237,7 +237,7 @@ dv_has_:
     ml: പ്രത്യുൽപ്പാദനം
     mr: प्रजनन
     ms: pembiakan
-    ms-arab: ڤمبياقن
+    ms_arab: ڤمبياقن
     my: မျိုးပွားခြင်း
     nan: Seⁿ-thoàⁿ
     nb: formering
@@ -254,7 +254,7 @@ dv_has_:
     pnb: تولید
     ps: بيا توليد (د خپل مثل زېږول)
     pt: reprodução
-    pt-br: reprodução
+    pt_br: reprodução
     qu: Miraykuy
     rki: မျိုးပွားခြင်း
     ro: reproducere
@@ -270,7 +270,7 @@ dv_has_:
     sn: Sikarudzi
     sq: Riprodhimi
     sr: репродукција
-    sr-ec: репродукција
+    sr_ec: репродукција
     su: Baranahan
     sv: fortplantning
     sw: Uzazi
@@ -295,14 +295,14 @@ dv_has_:
     yi: רעפראדוקציע
     yue: 生殖
     zh: 繁殖
-    zh-cn: 繁殖
-    zh-hans: 繁殖
-    zh-hant: 繁殖
-    zh-hk: 繁殖
-    zh-mo: 繁殖
+    zh_cn: 繁殖
+    zh_hans: 繁殖
+    zh_hant: 繁殖
+    zh_hk: 繁殖
+    zh_mo: 繁殖
     zh-my: 繁殖
-    zh-sg: 繁殖
-    zh-tw: 繁殖
+    zh_sg: 繁殖
+    zh_tw: 繁殖
 ---
 # [[Reproduction]] 
 

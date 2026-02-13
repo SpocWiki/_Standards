@@ -111,7 +111,7 @@ dv_has_:
     ast: Pericles
     az: Perikl
     be: Перыкл
-    be-tarask: Пэрыкл
+    be_tarask: Пэрыкл
     bg: Перикъл
     bn: পেরিক্লিস
     br: Perikles
@@ -174,7 +174,7 @@ dv_has_:
     pms: Péricle
     pnb: پیریکلیز
     pt: Péricles
-    pt-br: Péricles
+    pt_br: Péricles
     ro: Pericle
     ru: Перикл
     scn: Pèricli

@@ -92,7 +92,7 @@ dv_has_:
     az: diviziya
     ba: дивизия
     be: дывізія
-    be-tarask: дывізія
+    be_tarask: дывізія
     bg: дивизия
     bn: ডিভিশন
     bs: divizija
@@ -105,8 +105,8 @@ dv_has_:
     dsb: diwizija
     el: μεραρχία
     en: military division
-    en-ca: division
-    en-gb: division
+    en_ca: division
+    en_gb: division
     eo: armea divizio
     es: división militar
     et: diviis
@@ -127,16 +127,16 @@ dv_has_:
     ja: 師団
     jv: divisi
     kk: дивизия
-    kk-arab: دىيۆىيزىييا
+    kk_arab: دىيۆىيزىييا
     kk-cn: دىيۆىيزىييا
-    kk-cyrl: дивизия
+    kk_cyrl: дивизия
     kk-kz: дивизия
-    kk-latn: dïvïzïya
+    kk_latn: dïvïzïya
     kk-tr: dïvïzïya
     ko: 사단
     ku: firqe
-    ku-arab: فرقە
-    ku-latn: firqe
+    ku_arab: فرقە
+    ku_latn: firqe
     ky: дивизия
     lt: divizija
     lv: divīzija
@@ -158,8 +158,8 @@ dv_has_:
     sl: divizija
     sq: Divizioni (njësi ushtarake)
     sr: дивизија
-    sr-ec: дивизија
-    sr-el: divizija
+    sr_ec: дивизија
+    sr_el: divizija
     sv: armédivision
     szl: dywizyjŏ
     ta: டிவிசன்
@@ -175,12 +175,12 @@ dv_has_:
     yi: דיוויזיע
     yue: 師 (軍隊編制)
     zh: 師
-    zh-cn: 师
-    zh-hans: 师
-    zh-hant: 師
-    zh-hk: 師
-    zh-sg: 师
-    zh-tw: 師
+    zh_cn: 师
+    zh_hans: 师
+    zh_hant: 師
+    zh_hk: 師
+    zh_sg: 师
+    zh_tw: 師
 ---
 # [[Division(Military)]] 
 

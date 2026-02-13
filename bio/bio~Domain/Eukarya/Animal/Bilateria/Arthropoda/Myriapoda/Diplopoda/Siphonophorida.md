@@ -38,7 +38,7 @@ dv_has_:
     oc: Siphonophorida
     pl: Siphonophorida
     pt: Siphonophorida
-    pt-br: Siphonophorida
+    pt_br: Siphonophorida
     ro: Siphonophorida
     ru: Siphonophorida
     sq: Siphonophorida
@@ -49,9 +49,9 @@ dv_has_:
     vo: Siphonophorida
     war: Siphonophorida
     zh: 具管马陆目
-    zh-cn: 具管马陆目
-    zh-hans: 具管马陆目
-    zh-tw: 管馬陸目
+    zh_cn: 具管马陆目
+    zh_hans: 具管马陆目
+    zh_tw: 管馬陸目
 ---
 # [[Siphonophorida]] 
 

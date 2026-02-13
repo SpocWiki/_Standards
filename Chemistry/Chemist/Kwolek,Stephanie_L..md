@@ -95,7 +95,7 @@ dv_has_:
     ast: Stephanie Kwolek
     azb: استفانی کولک
     be: Стэфані Кволек
-    be-tarask: Стэфані Кўолек
+    be_tarask: Стэфані Кўолек
     bg: Стефани Куолек
     ca: Stephanie Kwolek
     cs: Stephanie Kwoleková
@@ -104,8 +104,8 @@ dv_has_:
     de: Stephanie Kwolek
     el: Στέφανι Κουόλεκ
     en: Stephanie L. Kwolek
-    en-ca: Stephanie L. Kwolek
-    en-gb: Stephanie L. Kwolek
+    en_ca: Stephanie L. Kwolek
+    en_gb: Stephanie L. Kwolek
     eo: Stephanie Kwolek
     es: Stephanie Kwolek
     eu: Stephanie Kwolek
@@ -134,7 +134,7 @@ dv_has_:
     pap: Stephanie Kwolek
     pl: Stephanie Kwolek
     pt: Stephanie Kwolek
-    pt-br: Stephanie Kwolek
+    pt_br: Stephanie Kwolek
     qu: Stephanie Kwolek
     ro: Stephanie Kwolek
     ru: Стефани Кволек
@@ -149,7 +149,7 @@ dv_has_:
     war: Stephanie Kwolek
     yue: 斯蒂芬妮·克沃勒克
     zh: 斯蒂芬妮·克沃勒克
-    zh-hant: 斯蒂芬妮·克沃勒克
+    zh_hant: 斯蒂芬妮·克沃勒克
 ---
 # [[Kwolek,Stephanie_L.]] 
 

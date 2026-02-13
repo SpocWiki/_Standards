@@ -95,7 +95,7 @@ dv_has_:
     az: Qlenn Miller
     azb: قلن میلر
     be: Глен Мілер
-    be-tarask: Глен Мілер
+    be_tarask: Глен Мілер
     bg: Глен Милър
     bn: গ্লেন মিলার
     ca: Glenn Miller
@@ -105,8 +105,8 @@ dv_has_:
     de: Glenn Miller
     el: Γκλεν Μίλερ
     en: Glenn Miller
-    en-ca: Glenn Miller
-    en-gb: Glenn Miller
+    en_ca: Glenn Miller
+    en_gb: Glenn Miller
     eo: Glenn Miller
     es: Glenn Miller
     et: Glenn Miller
@@ -142,7 +142,7 @@ dv_has_:
     pap: Glenn Miller
     pl: Glenn Miller
     pt: Glenn Miller
-    pt-br: Glenn Miller
+    pt_br: Glenn Miller
     ro: Glen Miller
     ru: Гленн Миллер
     sh: Glenn Miller
@@ -159,8 +159,8 @@ dv_has_:
     wuu: 格伦·米勒
     yue: 格倫·米勒
     zh: 格伦·米勒
-    zh-hant: 格倫·米勒
-    zh-tw: 格倫·米勒
+    zh_hant: 格倫·米勒
+    zh_tw: 格倫·米勒
 ---
 # [[Glenn_Miller]] 
 

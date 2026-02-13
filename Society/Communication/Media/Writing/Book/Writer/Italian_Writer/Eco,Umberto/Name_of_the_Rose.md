@@ -63,11 +63,11 @@ dv_has_:
     cy: Enw'r Rhosyn
     da: Rosens navn
     de: Der Name der Rose
-    de-ch: Der Name der Rose
+    de_ch: Der Name der Rose
     el: Το όνομα του ρόδου
     en: The Name of the Rose
-    en-ca: The Name of the Rose
-    en-gb: The Name of the Rose
+    en_ca: The Name of the Rose
+    en_gb: The Name of the Rose
     en-us: The Name of the Rose
     eo: La nomo de la rozo
     es: El nombre de la rosa
@@ -104,7 +104,7 @@ dv_has_:
     pa: ਦ ਨੇਮ ਆਫ ਦ ਰੋਜ
     pl: Imię róży
     pt: O Nome da Rosa
-    pt-br: O Nome da Rosa
+    pt_br: O Nome da Rosa
     ro: Numele trandafirului
     ru: Имя розы
     sc: Su nòmini de sa Rosa
@@ -113,20 +113,20 @@ dv_has_:
     sl: Ime rože
     sq: The Name of the Rose (roman)
     sr: Il nome della rosa
-    sr-ec: Име руже
-    sr-el: Ime ruže
+    sr_ec: Име руже
+    sr_el: Ime ruže
     sv: Rosens namn
     tr: Gülün Adı
     uk: Ім'я рози
     ur: دی نیم آف دی روز
     vi: Tên của đóa hồng
     zh: 玫瑰之名
-    zh-cn: 玫瑰之名
-    zh-hans: 玫瑰之名
-    zh-hant: 玫瑰之名
-    zh-hk: 玫瑰之名
-    zh-sg: 玫瑰之名
-    zh-tw: 玫瑰之名
+    zh_cn: 玫瑰之名
+    zh_hans: 玫瑰之名
+    zh_hant: 玫瑰之名
+    zh_hk: 玫瑰之名
+    zh_sg: 玫瑰之名
+    zh_tw: 玫瑰之名
 ---
 ## #has_/text_of_/abstract 
 

@@ -16,7 +16,7 @@ dv_has_:
     ab: Аладатәи Кореиа
     ace: Korèa Seulatan
     acm: كوريا الجنوبية
-    aeb-arab: كوريا الجنوبية
+    aeb_arab: كوريا الجنوبية
     af: Suid-Korea
     am: ደቡብ ኮርያ
     ami: Korea, south
@@ -37,7 +37,7 @@ dv_has_:
     bbc: Korea Dangsina
     bcl: Sur nin Korea
     be: Паўднёвая Карэя
-    be-tarask: Рэспубліка Карэя
+    be_tarask: Рэспубліка Карэя
     bew: Koréa Kidul
     bg: Южна Корея
     bho: दक्खिन कोरिया
@@ -53,7 +53,7 @@ dv_has_:
     bug: ᨀᨚᨑᨙᨐ ᨑᨗᨐᨈ
     bxr: Өмнөд Солонгос
     ca: Corea del Sud
-    cbk-zam: Corea del Sur
+    cbk_zam: Corea del Sur
     cdo: Hàng-guók
     ce: Къилба Корей
     ceb: Habagatang Korea
@@ -62,7 +62,7 @@ dv_has_:
     ckb: کۆریای باشوور
     co: Corea di u Sudu
     crh: Cenübiy Koreya
-    crh-latn: Cenübiy Koreya
+    crh_latn: Cenübiy Koreya
     crh-ro: Kúnbetí-Kore
     cs: Jižní Korea
     csb: Repùblika Kòreji
@@ -73,7 +73,7 @@ dv_has_:
     dag: South Korea
     de: Südkorea
     de-at: Südkorea
-    de-ch: Südkorea
+    de_ch: Südkorea
     diq: Korya Veroci
     dsb: Pódpołdnjowa Koreja
     dtp: Korea Kabaatan
@@ -83,8 +83,8 @@ dv_has_:
     ee: South Korea
     el: Νότια Κορέα
     en: South Korea
-    en-ca: South Korea
-    en-gb: South Korea
+    en_ca: South Korea
+    en_gb: South Korea
     en-us: South Korea
     eo: Sud-Koreio
     es: Corea del Sur
@@ -110,7 +110,7 @@ dv_has_:
     gn: Yvykorea
     gom: दक्षिण कोरिया
     gom-deva: दक्षिण कोरिया
-    gom-latn: Dakshin Korea
+    gom_latn: Dakshin Korea
     gor: Korea Selatan
     got: "\U00010343\U0001033F\U0001033D\U00010338\U00010342\U00010330\U0001033A\U00010330\U0001033F\U00010342\U00010339\U00010330"
     gpe: South Korea
@@ -187,7 +187,7 @@ dv_has_:
     lzh: 大韓民國
     mad: Korèa Lao'
     mai: दक्षिण कोरिया
-    map-bms: Korea Kidul
+    map_bms: Korea Kidul
     mdf: Лямбеширень Корэя
     mg: Korea Atsimo
     mhr: Кечывалвел Корей
@@ -201,7 +201,7 @@ dv_has_:
     mos: South Korea
     mr: दक्षिण कोरिया
     ms: Korea Selatan
-    ms-arab: کوريا سلاتن
+    ms_arab: کوريا سلاتن
     mt: Korea t'Isfel
     mwl: Coreia de l Sul
     my: ကိုရီးယားသမ္မတနိုင်ငံ
@@ -213,7 +213,7 @@ dv_has_:
     nap: Corea d''o Sud
     nb: Sør-Korea
     nds: Süüdkorea
-    nds-nl: Zuud-Korea
+    nds_nl: Zuud-Korea
     ne: दक्षिण कोरिया
     new: दक्षिण कोरिया
     nia: Korea Raya
@@ -238,7 +238,7 @@ dv_has_:
     pnb: جنوبی کوریا
     ps: سوېلي کوريا
     pt: Coreia do Sul
-    pt-br: Coreia do Sul
+    pt_br: Coreia do Sul
     qu: Tayhan Republika
     rm: Corea dal Sid
     rmy: Sudutni Koreya
@@ -270,8 +270,8 @@ dv_has_:
     so: Koonfur Kuuriya
     sq: Koreja e Jugut
     sr: Јужна Кореја
-    sr-ec: Јужна Кореја
-    sr-el: Južna Koreja
+    sr_ec: Јужна Кореја
+    sr_el: Južna Koreja
     srn: Bofuben-Korea
     ss: IKhoriya leseNingizimu
     su: ᮛᮦᮕᮥᮘᮣᮤᮊ᮪ ᮊᮧᮛᮦᮃ
@@ -324,14 +324,14 @@ dv_has_:
     zea: Zuud-Korea
     zgh: ⴽⵓⵔⵢⴰ ⵏ ⵉⴼⴼⵓⵙ
     zh: 大韩民国
-    zh-cn: 大韩民国
-    zh-hans: 大韩民国
-    zh-hant: 大韓民國
-    zh-hk: 大韓民國
-    zh-mo: 大韓民國
+    zh_cn: 大韩民国
+    zh_hans: 大韩民国
+    zh_hant: 大韓民國
+    zh_hk: 大韓民國
+    zh_mo: 大韓民國
     zh-my: 大韩民国
-    zh-sg: 大韩民国
-    zh-tw: 大韓民國
+    zh_sg: 大韩民国
+    zh_tw: 大韓民國
     zu: i-South Korea
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Korea~South

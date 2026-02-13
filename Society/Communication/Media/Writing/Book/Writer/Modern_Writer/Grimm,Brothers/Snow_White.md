@@ -153,7 +153,7 @@ dv_has_:
     az: Ağbəniz və yeddi cırtdan
     bcl: Snow White
     be: Беласнежка
-    be-tarask: Беласьнежка
+    be_tarask: Беласьнежка
     bg: Снежанка
     bn: স্নো হোয়াইট
     bo: ༄༅།། གངས་དཀར་སྲས་མོ།
@@ -167,8 +167,8 @@ dv_has_:
     dsb: Sněžeńka a sedym krotušow
     el: Η Χιονάτη και οι Επτά Νάνοι
     en: Snow White
-    en-ca: Snow White
-    en-gb: Snow White
+    en_ca: Snow White
+    en_gb: Snow White
     eo: Neĝblankulino
     es: Blancanieves
     et: Lumivalgeke
@@ -241,9 +241,9 @@ dv_has_:
     wuu: 白雪公主
     yue: 白雪公主
     zh: 白雪公主
-    zh-cn: 白雪公主
-    zh-hans: 白雪公主
-    zh-hant: 白雪公主
+    zh_cn: 白雪公主
+    zh_hans: 白雪公主
+    zh_hant: 白雪公主
 ---
 # [[Snow_White]] 
 

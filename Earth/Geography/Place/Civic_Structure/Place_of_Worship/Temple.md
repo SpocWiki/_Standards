@@ -29,7 +29,7 @@ dv_has_:
     az: məbəd
     azb: معبد
     be: храм
-    be-tarask: храм
+    be_tarask: храм
     bg: храм
     bho: टेम्पल
     bn: মন্দির
@@ -46,8 +46,8 @@ dv_has_:
     dsb: swětnica
     el: ναός
     en: temple
-    en-ca: temple
-    en-gb: temple
+    en_ca: temple
+    en_gb: temple
     eo: templo
     es: templo
     et: tempel
@@ -82,7 +82,7 @@ dv_has_:
     kn: ದೇವಸ್ಥಾನ
     ko: 사원
     ku: perestgeh
-    ku-latn: perestgeh
+    ku_latn: perestgeh
     la: templum
     lb: Tempel
     lfn: templo
@@ -97,7 +97,7 @@ dv_has_:
     mni: ꯂꯥꯢꯁꯪ
     mr: मंदिर
     ms: kuil
-    ms-arab: کوءيل
+    ms_arab: کوءيل
     my: ဘုရားကျောင်း
     myv: озномакудо
     mzn: پرسسشگا
@@ -114,7 +114,7 @@ dv_has_:
     pnb: مندر
     ps: معبد
     pt: templo
-    pt-br: templo
+    pt_br: templo
     qu: manqus wasi
     rmf: templos
     ro: templu
@@ -132,7 +132,7 @@ dv_has_:
     so: Xawaad
     sq: tempull
     sr: храм
-    sr-ec: храм
+    sr_ec: храм
     sv: tempel
     sw: hekalu
     szl: świōntynia
@@ -144,7 +144,7 @@ dv_has_:
     tl: templo
     tr: tapınak
     tt: гыйбадәтханә
-    tt-cyrl: гыйбадәтханә
+    tt_cyrl: гыйбадәтханә
     uk: храм
     ur: معبد
     uz: ibodatxona
@@ -154,11 +154,11 @@ dv_has_:
     xmf: ოხიდა
     yue: 廟
     zh: 寺庙
-    zh-cn: 庙宇
-    zh-hans: 庙
-    zh-hant: 神廟
-    zh-hk: 神廟
-    zh-tw: 神廟
+    zh_cn: 庙宇
+    zh_hans: 庙
+    zh_hant: 神廟
+    zh_hk: 神廟
+    zh_tw: 神廟
 aliases:
 - chrám
 - hekalu

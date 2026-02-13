@@ -58,16 +58,16 @@ dv_has_:
     azb: توتمیسم
     ba: Тотемизм
     be: Татэмізм
-    be-tarask: Татэмізм
+    be_tarask: Татэмізм
     bn: টোটেমবাদ
     ca: totemisme
     ckb: تۆتێمیزم
     cs: Totemismus
     de: Totemismus
-    de-ch: Totemismus
+    de_ch: Totemismus
     en: totemism
-    en-ca: Totemism
-    en-gb: Totemism
+    en_ca: Totemism
+    en_gb: Totemism
     eo: Totemismo
     es: totemismo
     et: totemism

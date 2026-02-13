@@ -45,8 +45,8 @@ dv_has_:
     tt: Нөтер теоремасы
     uk: теорема Нетер
     zh: 诺特定理
-    zh-hans: 诺特定理
-    zh-hant: 諾特定理
+    zh_hans: 诺特定理
+    zh_hant: 諾特定理
 aliases:
 - Noether kuramı
 - Noether's theorem

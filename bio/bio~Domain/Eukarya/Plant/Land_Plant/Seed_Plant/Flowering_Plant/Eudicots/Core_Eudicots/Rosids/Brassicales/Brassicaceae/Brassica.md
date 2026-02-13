@@ -100,7 +100,7 @@ dv_has_:
     az: Kələm
     azb: کلم
     be: капуста
-    be-tarask: капуста
+    be_tarask: капуста
     bg: зеле
     bs: Brassica
     ca: Brassica
@@ -155,7 +155,7 @@ dv_has_:
     oc: Brassica
     pl: kapusta
     pt: Brassica
-    pt-br: Brassica
+    pt_br: Brassica
     qu: Amkirya
     ro: Brassica
     ru: капуста
@@ -172,7 +172,7 @@ dv_has_:
     th: สกุลแบรสซิกา
     tr: Brassica
     tt: кәбестә
-    tt-cyrl: кәбестә
+    tt_cyrl: кәбестә
     ug: قىچا
     uk: капуста
     uz: Karam
@@ -184,10 +184,10 @@ dv_has_:
     wuu: 芸薹属
     yue: 蕓薹屬
     zh: 芸薹属
-    zh-cn: 芸薹属
-    zh-hans: 芸苔属
-    zh-hant: 蕓薹屬
-    zh-tw: 蕓薹屬
+    zh_cn: 芸薹属
+    zh_hans: 芸苔属
+    zh_hant: 蕓薹屬
+    zh_tw: 蕓薹屬
 ---
 # [[Brassica]] 
 

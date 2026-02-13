@@ -106,7 +106,7 @@ dv_has_:
     ba: йәшәйеш
     ban: Kawentenan
     be: існаванне
-    be-tarask: экзыстэнцыя
+    be_tarask: экзыстэнцыя
     bg: съществуване
     bn: অস্তিত্ব
     br: bezañs
@@ -121,8 +121,8 @@ dv_has_:
     diq: Biyayiyey
     el: ύπαρξη
     en: existence
-    en-ca: existence
-    en-gb: existence
+    en_ca: existence
+    en_gb: existence
     eo: ekzisto
     es: existencia
     et: olemasolu
@@ -156,10 +156,10 @@ dv_has_:
     kab: Tilit
     kbp: Ɛkɩzisitaɣsɩ
     kk: болу
-    kk-cyrl: болу
+    kk_cyrl: болу
     kn: ಅಸ್ತಿತ್ವ
     ko: 실존
-    ku-latn: hebûn
+    ku_latn: hebûn
     ky: Экзистенция
     la: exsistentia
     lb: Existenz
@@ -170,7 +170,7 @@ dv_has_:
     mk: постоење
     mni: ꯂꯩꯕ
     ms: kewujudan
-    ms-arab: کوجودن
+    ms_arab: کوجودن
     myv: Эрсема
     nb: eksistens
     nl: bestaan
@@ -180,7 +180,7 @@ dv_has_:
     pl: istnienie
     pms: Esistensa
     pt: existência
-    pt-br: existência
+    pt_br: existência
     ro: existență
     ru: существование
     sh: egzistencija
@@ -197,7 +197,7 @@ dv_has_:
     tok: lon
     tr: varoluş
     tt: яшәү
-    tt-cyrl: яшәү
+    tt_cyrl: яшәү
     uk: існування
     ur: وجود
     uz: Mavjudlik
@@ -208,14 +208,14 @@ dv_has_:
     yue: 存在
     zgh: ⵜⵉⵍⵍⵉⵜ
     zh: 存在
-    zh-cn: 存在
-    zh-hans: 存在
-    zh-hant: 存在
-    zh-hk: 存在
-    zh-mo: 存在
+    zh_cn: 存在
+    zh_hans: 存在
+    zh_hant: 存在
+    zh_hk: 存在
+    zh_mo: 存在
     zh-my: 存在
-    zh-sg: 存在
-    zh-tw: 存在
+    zh_sg: 存在
+    zh_tw: 存在
     zu: Ubukhona
 ---
 # [[Existence]] 

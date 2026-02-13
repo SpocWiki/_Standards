@@ -75,7 +75,7 @@ dv_has_:
     arz: الخيانه الزوجيه
     ast: Infidelidá
     az: Aldatmaq
-    be-tarask: шлюбная здрада
+    be_tarask: шлюбная здрада
     bho: बेवफाई
     ca: Infidelitat
     cs: nevěra
@@ -117,7 +117,7 @@ dv_has_:
     sl: nezvestoba
     sq: Pabesia
     sr: Прељуба
-    sr-ec: невера
+    sr_ec: невера
     sv: otrohet
     tr: Aldatma
     uk: подружня зрада

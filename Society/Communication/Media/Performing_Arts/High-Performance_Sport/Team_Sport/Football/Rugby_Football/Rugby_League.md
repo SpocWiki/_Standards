@@ -7,7 +7,7 @@ dv_has_:
     arz: دورى الرجبى
     ast: rugby league
     az: reqbi liqası
-    be-tarask: рэгбіліга
+    be_tarask: рэгбіліга
     bn: রাগবি লিগ
     ca: rugbi a 13
     ceb: Liga sa rugby
@@ -17,7 +17,7 @@ dv_has_:
     de: Rugby League
     el: ράγκμπυ Λιγκ
     en: rugby league
-    en-gb: rugby league
+    en_gb: rugby league
     eo: rugbeo 13
     es: rugby a 13
     eu: hamahiruko errugbi
@@ -51,8 +51,8 @@ dv_has_:
     sk: rugby league
     sl: ragbi 13
     sr: рагби лига
-    sr-ec: рагби лига
-    sr-el: ragbi liga
+    sr_ec: рагби лига
+    sr_el: ragbi liga
     sv: rugby league
     tr: Ragbi ligi
     uk: регбіліг
@@ -62,9 +62,9 @@ dv_has_:
     wuu: 联盟式橄榄球
     yue: 聯盟式欖球
     zh: 聯盟式橄欖球
-    zh-hans: 联盟式橄榄球
-    zh-hant: 聯盟式橄欖球
-    zh-hk: 聯盟式欖球
+    zh_hans: 联盟式橄榄球
+    zh_hant: 聯盟式橄欖球
+    zh_hk: 聯盟式欖球
 aliases:
 - bóng bầu dục liên minh
 - hamahiruko errugbi

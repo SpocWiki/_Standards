@@ -83,7 +83,7 @@ dv_has_:
     ast: mosquete
     az: Muşket
     be: Мушкет
-    be-tarask: мушкет
+    be_tarask: мушкет
     bg: Мускет
     br: Mousked
     ca: mosquet
@@ -112,11 +112,11 @@ dv_has_:
     it: moschetto
     ja: マスケット銃
     kk: Мушкет
-    kk-arab: مۋشكەت
+    kk_arab: مۋشكەت
     kk-cn: مۋشكەت
-    kk-cyrl: Мушкет
+    kk_cyrl: Мушкет
     kk-kz: Мушкет
-    kk-latn: Mwşket
+    kk_latn: Mwşket
     kk-tr: Mwşket
     ko: 머스켓
     ku: Huske
@@ -139,7 +139,7 @@ dv_has_:
     pms: Moschèt
     pnb: تفنگ قدیم
     pt: mosquete
-    pt-br: mosquete
+    pt_br: mosquete
     ro: Muschetă
     ru: Мушкет
     sh: Musketa
@@ -147,8 +147,8 @@ dv_has_:
     sl: mušketa
     sq: Mushqetë (armë)
     sr: Мускета
-    sr-ec: Мускета
-    sr-el: Musketa
+    sr_ec: Мускета
+    sr_el: Musketa
     sv: musköt
     ta: தெறாடி
     th: ปืนคาบศิลา
@@ -159,12 +159,12 @@ dv_has_:
     wuu: 鸟铳
     yue: 滑膛槍
     zh: 鳥銃
-    zh-cn: 鸟铳
-    zh-hans: 鸟铳
-    zh-hant: 鳥銃
-    zh-hk: 鳥銃
-    zh-sg: 鸟铳
-    zh-tw: 鳥銃
+    zh_cn: 鸟铳
+    zh_hans: 鸟铳
+    zh_hant: 鳥銃
+    zh_hk: 鳥銃
+    zh_sg: 鸟铳
+    zh_tw: 鳥銃
 ---
 # [[Musket]] 
 

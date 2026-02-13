@@ -67,7 +67,7 @@ dv_has_:
     ar: الفلوجستون
     ast: floxistu
     ba: флогистон
-    be-tarask: флягістон
+    be_tarask: флягістон
     bg: Флогистон
     ca: flogist
     cs: flogiston
@@ -119,12 +119,12 @@ dv_has_:
     vi: phlogiston
     yue: 燃素
     zh: 燃素
-    zh-cn: 燃素
-    zh-hans: 燃素
-    zh-hant: 燃素
-    zh-hk: 燃素
-    zh-sg: 燃素
-    zh-tw: 燃素
+    zh_cn: 燃素
+    zh_hans: 燃素
+    zh_hant: 燃素
+    zh_hk: 燃素
+    zh_sg: 燃素
+    zh_tw: 燃素
 ---
 # [[Phlogiston]] 
 

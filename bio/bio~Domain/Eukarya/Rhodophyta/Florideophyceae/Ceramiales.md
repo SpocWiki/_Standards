@@ -38,7 +38,7 @@ dv_has_:
     oc: Ceramiales
     pl: Ceramiales
     pt: Ceramiales
-    pt-br: Ceramiales
+    pt_br: Ceramiales
     ro: Ceramiales
     ru: Ceramiales
     sl: Ceramiales
@@ -49,9 +49,9 @@ dv_has_:
     vo: Ceramiales
     war: Ceramiales
     zh: 仙菜目
-    zh-cn: 仙菜目
-    zh-hans: 仙菜目
-    zh-tw: 仙菜目
+    zh_cn: 仙菜目
+    zh_hans: 仙菜目
+    zh_tw: 仙菜目
 ---
 # [[Ceramiales]] 
 

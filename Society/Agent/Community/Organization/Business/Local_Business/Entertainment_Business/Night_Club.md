@@ -97,7 +97,7 @@ dv_has_:
     arz: كباريه
     az: Gecə klubu
     be: начны клуб
-    be-tarask: начны клюб
+    be_tarask: начны клюб
     bew: Suhian
     bg: нощен клуб
     bn: নৈশক্লাব
@@ -107,12 +107,12 @@ dv_has_:
     cy: clwb nos
     da: natklub
     de: Nachtclub
-    de-ch: Nachtclub
+    de_ch: Nachtclub
     diq: Klubê şewe
     el: νυχτερινό κέντρο διασκέδασης
     en: nightclub
-    en-ca: nightclub
-    en-gb: nightclub
+    en_ca: nightclub
+    en_gb: nightclub
     eo: noktoklubo
     es: club nocturno
     et: ööklubi
@@ -138,7 +138,7 @@ dv_has_:
     mk: ноќен клуб
     ml: നിശാ ക്ലബ്
     ms: kelab malam
-    ms-arab: کلب مالم
+    ms_arab: کلب مالم
     my: နိုက်ကလပ်
     nb: nattklubb
     ne: रोधी घर
@@ -166,10 +166,10 @@ dv_has_:
     vi: hộp đêm
     yue: 夜總會
     zh: 夜店
-    zh-hans: 夜总会
-    zh-hant: 夜總會
-    zh-hk: 夜總會
-    zh-tw: 夜總會
+    zh_hans: 夜总会
+    zh_hant: 夜總會
+    zh_hk: 夜總會
+    zh_tw: 夜總會
 ---
 # [[Night_Club]] 
 

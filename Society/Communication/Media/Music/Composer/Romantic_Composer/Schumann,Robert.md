@@ -156,7 +156,7 @@ dv_has_:
     ba: Роберт Шуман
     bar: Robert Schumann
     be: Роберт Шуман
-    be-tarask: Робэрт Шуман
+    be_tarask: Робэрт Шуман
     bg: Роберт Шуман
     bi: Robert Schumann
     br: Robert Schumann
@@ -171,7 +171,7 @@ dv_has_:
     da: Robert Schumann
     de: Robert Schumann
     de-at: Robert Schumann
-    de-ch: Robert Schumann
+    de_ch: Robert Schumann
     diq: Robert Schumann
     dsb: Robert Schumann
     ee: Robert Schumann
@@ -179,8 +179,8 @@ dv_has_:
     el: Ρόμπερτ Σούμαν
     eml: Robert Schumann
     en: Robert Schumann
-    en-ca: Robert Schumann
-    en-gb: Robert Schumann
+    en_ca: Robert Schumann
+    en_gb: Robert Schumann
     eo: Robert Schumann
     es: Robert Schumann
     et: Robert Schumann
@@ -236,7 +236,7 @@ dv_has_:
     lij: Robert Schumann
     lt: Robert Schumann
     lv: Roberts Šūmanis
-    map-bms: Robert Schumann
+    map_bms: Robert Schumann
     mg: Robert Schumann
     min: Robert Schumann
     mk: Роберт Шуман
@@ -252,7 +252,7 @@ dv_has_:
     nap: Robert Schumann
     nb: Robert Schumann
     nds: Robert Schumann
-    nds-nl: Robert Schumann
+    nds_nl: Robert Schumann
     new: रोबर्ट शुमन
     nl: Robert Schumann
     nn: Robert Schumann
@@ -269,7 +269,7 @@ dv_has_:
     pl: Robert Schumann
     pms: Robert Schumann
     pt: Robert Schumann
-    pt-br: Robert Schumann
+    pt_br: Robert Schumann
     qu: Robert Schumann
     rm: Robert Schumann
     rmy: Robert Schumann
@@ -290,7 +290,7 @@ dv_has_:
     sli: Robert Schumann
     sq: Robert Shumann
     sr: Роберт Шуман
-    sr-el: Robert Schumann
+    sr_el: Robert Schumann
     stq: Robert Schumann
     su: Robert Schumann
     sv: Robert Schumann
@@ -320,10 +320,10 @@ dv_has_:
     yue: 舒曼
     zea: Robert Schumann
     zh: 罗伯特·舒曼
-    zh-cn: 罗伯特·舒曼
-    zh-hans: 罗伯特·舒曼
-    zh-hant: 羅伯特·舒曼
-    zh-tw: 羅伯特·舒曼
+    zh_cn: 罗伯特·舒曼
+    zh_hans: 罗伯特·舒曼
+    zh_hant: 羅伯特·舒曼
+    zh_tw: 羅伯特·舒曼
     zu: Robert Schumann
 ---
 # [[Schumann,Robert]] 

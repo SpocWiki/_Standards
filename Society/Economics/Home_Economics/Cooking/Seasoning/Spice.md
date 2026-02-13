@@ -160,7 +160,7 @@ dv_has_:
     bar: Gwiaz
     bcl: Rekado
     be: прыправы
-    be-tarask: затаўка
+    be_tarask: затаўка
     bg: Подправка
     bn: মসলা
     br: spis
@@ -171,11 +171,11 @@ dv_has_:
     cy: sbeis
     da: krydderi
     de: Gewürz
-    de-ch: Gewürz
+    de_ch: Gewürz
     el: Μπαχαρικό
     en: spice
-    en-ca: Spice
-    en-gb: spice
+    en_ca: Spice
+    en_gb: spice
     eo: spico
     es: especia
     et: Vürtsid
@@ -223,7 +223,7 @@ dv_has_:
     ml: സുഗന്ധവ്യഞ്ജനം
     mr: मसाला
     ms: rempah
-    ms-arab: رمڤه
+    ms_arab: رمڤه
     mt: ħwawar
     my: ဟင်းခတ်အမွှေးအကြိုင်
     nan: phang-hiam-liāu
@@ -241,7 +241,7 @@ dv_has_:
     pnb: مسالا
     ps: مساله
     pt: especiaria
-    pt-br: especiaria
+    pt_br: especiaria
     qu: Q'apachana
     ro: condiment
     ru: пряности
@@ -259,7 +259,7 @@ dv_has_:
     so: Xawaash
     sq: Erëzat
     sr: зачин
-    sr-ec: зачин
+    sr_ec: зачин
     sv: krydda
     sw: Jamii:Viungo
     ta: மசாலாப் பொருள்
@@ -278,9 +278,9 @@ dv_has_:
     yi: געווירץ
     yue: 香料
     zh: 香辛料
-    zh-hans: 香辛料
-    zh-hant: 香辛料
-    zh-tw: 香辛料
+    zh_hans: 香辛料
+    zh_hant: 香辛料
+    zh_tw: 香辛料
     zu: Isinongo
 ---
 # [[Spice]] 

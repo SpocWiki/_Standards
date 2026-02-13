@@ -159,7 +159,7 @@ dv_has_:
     bar: Echte Håsn
     bcl: Liebre
     be: зайцы
-    be-tarask: заяц
+    be_tarask: заяц
     bg: зайци
     bm: Sonsan
     bn: বুনো খরগোশ
@@ -177,8 +177,8 @@ dv_has_:
     el: Λαγός
     eml: Lévra
     en: hare
-    en-ca: Hare
-    en-gb: Hare
+    en_ca: Hare
+    en_gb: Hare
     en-us: Lepus
     eo: Leporo
     es: liebre
@@ -243,7 +243,7 @@ dv_has_:
     os: Тæрхъус
     pl: zając
     pt: lebre
-    pt-br: Lebre
+    pt_br: Lebre
     qu: Liwri
     ro: Iepure propriu-zis
     ru: зайцы
@@ -256,8 +256,8 @@ dv_has_:
     sl: pravi zajec
     sq: Lepuri
     sr: зец
-    sr-ec: Зец
-    sr-el: Zec
+    sr_ec: Зец
+    sr_el: Zec
     sv: Harar
     szl: Hazŏk
     ta: முயல்
@@ -280,9 +280,9 @@ dv_has_:
     wuu: 兔属
     yue: 兔屬
     zh: 兔属
-    zh-cn: 兔属
-    zh-hans: 兔属
-    zh-tw: 兔屬
+    zh_cn: 兔属
+    zh_hans: 兔属
+    zh_tw: 兔屬
 ---
 # [[Hare]] 
 

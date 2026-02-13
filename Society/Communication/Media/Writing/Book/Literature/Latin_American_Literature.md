@@ -50,7 +50,7 @@ dv_has_:
     ar: أدب أمريكا اللاتينية
     ast: Lliteratura llatinoamericana
     ba: Латин Америкаһы әҙәбиәте
-    be-tarask: лацінаамэрыканская літаратура
+    be_tarask: лацінаамэрыканская літаратура
     bg: Латиноамериканска литература
     ca: literatura latinoamericana
     cs: Latinskoamerická literatura
@@ -80,9 +80,9 @@ dv_has_:
     uk: література Латинської Америки
     yue: 拉丁美洲文學
     zh: 拉丁美洲文学
-    zh-cn: 拉丁美洲文学
-    zh-hans: 拉丁美洲文学
-    zh-hant: 拉丁美洲文學
+    zh_cn: 拉丁美洲文学
+    zh_hans: 拉丁美洲文学
+    zh_hant: 拉丁美洲文學
 ---
 # [[Latin_American_Literature]] 
 

@@ -73,7 +73,7 @@ dv_has_:
     ba: Ниндзя
     bcl: Ninja
     be: ніндзя
-    be-tarask: ніндзя
+    be_tarask: ніндзя
     bg: Нинджа
     bn: নিনজা
     bs: Nindža
@@ -85,8 +85,8 @@ dv_has_:
     de: Ninja
     el: Νίντζα
     en: ninja
-    en-ca: Ninja
-    en-gb: ninja
+    en_ca: Ninja
+    en_gb: ninja
     eo: ninĵo
     es: ninja
     et: Ninja
@@ -128,7 +128,7 @@ dv_has_:
     pl: Ninja
     pnb: ننجا
     pt: ninja
-    pt-br: ninja
+    pt_br: ninja
     qu: Nincha
     ro: Ninja
     ru: ниндзя
@@ -156,9 +156,9 @@ dv_has_:
     yi: נינדזשא
     yue: 忍者
     zh: 忍者
-    zh-hant: 忍者
-    zh-hk: 忍者
-    zh-tw: 忍者
+    zh_hant: 忍者
+    zh_hk: 忍者
+    zh_tw: 忍者
 ---
 # [[Ninja]] 🥷 
 

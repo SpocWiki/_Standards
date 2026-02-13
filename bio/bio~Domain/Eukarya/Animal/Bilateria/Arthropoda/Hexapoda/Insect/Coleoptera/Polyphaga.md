@@ -44,11 +44,11 @@ dv_has_:
     da: Polyphaga
     de: Polyphaga
     de-at: Polyphaga
-    de-ch: Polyphaga
+    de_ch: Polyphaga
     el: Πολυφάγα
     en: Polyphaga
-    en-ca: Polyphaga
-    en-gb: Polyphaga
+    en_ca: Polyphaga
+    en_gb: Polyphaga
     eo: Polyphaga
     es: Polyphaga
     et: Polyphaga
@@ -90,7 +90,7 @@ dv_has_:
     nap: Polyphaga
     nb: Polyphaga
     nds: Polyphaga
-    nds-nl: Polyphaga
+    nds_nl: Polyphaga
     nl: Polyphaga
     nn: Polyphaga
     nrm: Polyphaga
@@ -100,7 +100,7 @@ dv_has_:
     pl: chrząszcze wielożerne
     pms: Polyphaga
     pt: Polyphaga
-    pt-br: Polyphaga
+    pt_br: Polyphaga
     rm: Polyphaga
     ro: Polyphaga
     ru: разноядные жуки
@@ -125,12 +125,12 @@ dv_has_:
     wo: Polyphaga
     yue: 多食亞目
     zh: 多食亞目
-    zh-cn: 多食亚目
-    zh-hans: 多食亚目
-    zh-hant: 多食亞目
-    zh-hk: 多食亞目
-    zh-sg: 多食亚目
-    zh-tw: 多食亞目
+    zh_cn: 多食亚目
+    zh_hans: 多食亚目
+    zh_hant: 多食亞目
+    zh_hk: 多食亞目
+    zh_sg: 多食亚目
+    zh_tw: 多食亞目
     zu: Polyphaga
 ---
 # [[Polyphaga]] 

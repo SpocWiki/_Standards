@@ -139,7 +139,7 @@ dv_has_:
     az: Beynəlxalq müqavilələr haqqında
     azb: موعاهیده
     be: міжнародны дагавор
-    be-tarask: міжнародная дамова
+    be_tarask: міжнародная дамова
     bg: Международен договор
     bn: সন্ধি
     br: Feur-emglev etrebroadel
@@ -152,7 +152,7 @@ dv_has_:
     de: völkerrechtlicher Vertrag
     el: διεθνής συνθήκη
     en: treaty
-    en-gb: treaty
+    en_gb: treaty
     eo: traktato
     es: tratado
     et: rahvusvaheline leping
@@ -180,11 +180,11 @@ dv_has_:
     kaa: Xalıqaralıq sha'rtnama
     kbp: Ɖama nɩnaʊ takayaɣ
     kk: Халықаралық келiсiмдер
-    kk-arab: حالىقارالىق كەلiسiمدەر
+    kk_arab: حالىقارالىق كەلiسiمدەر
     kk-cn: حالىقارالىق كەلiسiمدەر
-    kk-cyrl: Халықаралық келісімдер
+    kk_cyrl: Халықаралық келісімдер
     kk-kz: Халықаралық келісімдер
-    kk-latn: Xalıqaralıq kelisimder
+    kk_latn: Xalıqaralıq kelisimder
     kk-tr: Xalıqaralıq kelisimder
     ko: 조약
     ku: Peyman
@@ -208,7 +208,7 @@ dv_has_:
     pa: ਸੁਲ੍ਹਾਨਾਮਾ
     pl: umowa międzynarodowa
     pt: tratado
-    pt-br: tratado
+    pt_br: tratado
     ro: tratat
     ru: международный договор
     sco: treaty
@@ -221,8 +221,8 @@ dv_has_:
     sms: riikksuåppmõš
     sq: Traktati
     sr: међународни уговор
-    sr-ec: међународни уговор
-    sr-el: međunarodni ugovor
+    sr_ec: међународни уговор
+    sr_el: međunarodni ugovor
     su: Perjangjian internasional
     sv: traktat
     th: สนธิสัญญา
@@ -238,14 +238,14 @@ dv_has_:
     yi: אפמאך
     yue: 條約
     zh: 条约
-    zh-cn: 条约
-    zh-hans: 条约
-    zh-hant: 條約
-    zh-hk: 條約
-    zh-mo: 條約
+    zh_cn: 条约
+    zh_hans: 条约
+    zh_hant: 條約
+    zh_hk: 條約
+    zh_mo: 條約
     zh-my: 条约
-    zh-sg: 条约
-    zh-tw: 條約
+    zh_sg: 条约
+    zh_tw: 條約
 ---
 # [[Treaty]] 
 

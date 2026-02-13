@@ -133,7 +133,7 @@ dv_has_:
     ban: Putri duyung
     bcl: Magindara
     be: вадзяны каралеўна
-    be-tarask: вадзяная каралеўна
+    be_tarask: вадзяная каралеўна
     bg: морска сирена
     bn: মৎস্যকন্যা
     br: morganez
@@ -187,11 +187,11 @@ dv_has_:
     ml: മത്സ്യകന്യക
     mr: जलपरी
     ms: ikan duyung
-    ms-arab: ايکن دويوڠ
+    ms_arab: ايکن دويوڠ
     my: ရေသူမ
     mzn: مانیلیا
     nb: havfrue
-    nds-nl: zeewiefke
+    nds_nl: zeewiefke
     ne: मत्स्यकन्या
     nl: zeemeermin
     nn: Havfrue
@@ -212,8 +212,8 @@ dv_has_:
     so: gabareey-maanyo
     sq: Sirena
     sr: сирена
-    sr-ec: сирена
-    sr-el: sirena
+    sr_ec: сирена
+    sr_el: sirena
     sv: sjöjungfru
     szy: masatademaway a buting
     ta: கடற்கன்னி
@@ -230,12 +230,12 @@ dv_has_:
     wuu: 美人魚
     yue: 美人魚
     zh: 人魚
-    zh-cn: 人鱼
-    zh-hans: 人鱼
-    zh-hant: 人魚
-    zh-hk: 人魚
-    zh-sg: 人鱼
-    zh-tw: 人魚
+    zh_cn: 人鱼
+    zh_hans: 人鱼
+    zh_hant: 人魚
+    zh_hk: 人魚
+    zh_sg: 人鱼
+    zh_tw: 人魚
 ---
 # [[Mermaid]] 
 

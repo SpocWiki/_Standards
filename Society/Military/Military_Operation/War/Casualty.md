@@ -48,7 +48,7 @@ dv_has_:
     ast: Baxa
     ba: хәрби юғалтыуҙар
     be: ваенныя страты
-    be-tarask: ваенныя страты
+    be_tarask: ваенныя страты
     ca: baixa
     cs: ztráta
     de: Verlust

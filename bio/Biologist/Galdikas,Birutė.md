@@ -61,7 +61,7 @@ dv_has_:
     nn: Birutė Galdikas
     pl: Birute Galdikas
     pt: Birutė Galdikas
-    pt-br: Birutė Galdikas
+    pt_br: Birutė Galdikas
     ro: Birutė Galdikas
     ru: Бируте Галдикас
     sl: Birutė Galdikas
@@ -73,8 +73,8 @@ dv_has_:
     tr: Birutė Galdikas
     uk: Біруте Галдікас
     zh: 碧露蒂·高蒂卡絲
-    zh-hant: 碧露蒂·高蒂卡絲
-    zh-tw: 碧露蒂·高蒂卡絲
+    zh_hant: 碧露蒂·高蒂卡絲
+    zh_tw: 碧露蒂·高蒂卡絲
 ---
 # [[Galdikas,Birutė]] 
 

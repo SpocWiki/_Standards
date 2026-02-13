@@ -148,7 +148,7 @@ dv_has_:
     az: Beynəlxalq Əfv
     bar: Amnesty International
     be: Міжнародная Амністыя
-    be-tarask: Міжнародная амністыя
+    be_tarask: Міжнародная амністыя
     bg: Амнести Интернешънъл
     bho: एमनेस्टी इंटरनेशनल
     bn: অ্যামনেস্টি ইন্টারন্যাশনাল
@@ -161,12 +161,12 @@ dv_has_:
     cy: Amnest Rhyngwladol
     da: Amnesty International
     de: Amnesty International
-    de-ch: Amnesty International
+    de_ch: Amnesty International
     diq: Teşkılatê Bexşiyo Enternasyonal
     el: Διεθνής Αμνηστία
     en: Amnesty International
-    en-ca: Amnesty International
-    en-gb: Amnesty International
+    en_ca: Amnesty International
+    en_gb: Amnesty International
     en-us: Amnesty International
     eo: Amnestio Internacia
     es: Amnistía Internacional
@@ -220,7 +220,7 @@ dv_has_:
     pms: Amnesty International
     pnb: ایمنیسٹی
     pt: Amnistia Internacional
-    pt-br: Anistia Internacional
+    pt_br: Anistia Internacional
     rm: Amnesty International
     rmf: Amnesty International
     ro: Amnesty International
@@ -255,10 +255,10 @@ dv_has_:
     yo: Amnesty International
     yue: 國際特赦組織
     zh: 國際特赦組織
-    zh-cn: 国际特赦组织
-    zh-hans: 国际特赦组织
-    zh-hant: 國際特赦組織
-    zh-tw: 國際特赦組織
+    zh_cn: 国际特赦组织
+    zh_hans: 国际特赦组织
+    zh_hant: 國際特赦組織
+    zh_tw: 國際特赦組織
 ---
 # [[Amnesty_International]] 
 

@@ -91,7 +91,7 @@ dv_has_:
     az: Təhsil təqaüdü
     ba: стипендия
     be: стыпендыя
-    be-tarask: стыпэндыя
+    be_tarask: стыпэндыя
     bg: Стипендия
     bn: শিক্ষাবৃত্তি
     br: yalc'had
@@ -101,11 +101,11 @@ dv_has_:
     cy: ysgoloriaeth
     da: stipendium
     de: Stipendium
-    de-ch: Stipendium
+    de_ch: Stipendium
     el: υποτροφία
     en: scholarship
-    en-ca: scholarship
-    en-gb: scholarship
+    en_ca: scholarship
+    en_gb: scholarship
     eo: stipendio
     es: beca
     et: stipendium
@@ -127,11 +127,11 @@ dv_has_:
     jv: Beasiswa
     ka: სტიპენდია
     kk: Стипендия
-    kk-arab: ستىيپەندىييا
+    kk_arab: ستىيپەندىييا
     kk-cn: ستىيپەندىييا
-    kk-cyrl: Стипендия
+    kk_cyrl: Стипендия
     kk-kz: Стипендия
-    kk-latn: Stïpendïya
+    kk_latn: Stïpendïya
     kk-tr: Stïpendïya
     kn: ವಿದ್ಯಾರ್ಥಿವೇತನ
     ko: 장학금
@@ -151,7 +151,7 @@ dv_has_:
     pl: stypendium
     ps: تحصيلي بورس
     pt: bolsa de estudo
-    pt-br: bolsa de estudo
+    pt_br: bolsa de estudo
     ro: bursă de studii
     ru: стипендия
     sc: bussa de istùdiu
@@ -178,12 +178,12 @@ dv_has_:
     wuu: 奖学金
     yue: 獎學金
     zh: 獎學金
-    zh-cn: 奖学金
-    zh-hans: 奖学金
-    zh-hant: 獎學金
-    zh-hk: 獎學金
-    zh-sg: 奖学金
-    zh-tw: 獎學金
+    zh_cn: 奖学金
+    zh_hans: 奖学金
+    zh_hant: 獎學金
+    zh_hk: 獎學金
+    zh_sg: 奖学金
+    zh_tw: 獎學金
 ---
 # [[Scholarship]] 
 

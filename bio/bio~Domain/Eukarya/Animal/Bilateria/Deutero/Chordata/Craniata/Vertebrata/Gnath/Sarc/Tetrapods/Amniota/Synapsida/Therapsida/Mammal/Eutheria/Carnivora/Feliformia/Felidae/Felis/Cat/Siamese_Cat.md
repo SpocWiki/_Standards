@@ -96,7 +96,7 @@ dv_has_:
     arz: قط سيامى
     ast: Gatu siamés
     az: Siam pişiyi
-    be-tarask: сіямская котка
+    be_tarask: сіямская котка
     bg: Сиамска котка
     bn: সাইমিজ বিড়াল
     ca: gat siamès
@@ -104,11 +104,11 @@ dv_has_:
     cv: Сиам кушакĕ
     da: Siameser
     de: Siamkatze
-    de-ch: Siamkatze
+    de_ch: Siamkatze
     el: Γάτα του Σιάμ
     en: Siamese
-    en-ca: Siamese cat
-    en-gb: Siamese cat
+    en_ca: Siamese cat
+    en_gb: Siamese cat
     eo: Siama kato
     es: Gato siamés
     et: Siiami kass
@@ -141,7 +141,7 @@ dv_has_:
     pl: Kot syjamski
     pnb: سیامی
     pt: Gato siamês
-    pt-br: Siamês
+    pt_br: Siamês
     ro: Pisică siameză
     ru: Сиамская кошка
     sh: Sijamska mačka
@@ -160,8 +160,8 @@ dv_has_:
     wuu: 暹罗猫
     yue: 暹羅貓
     zh: 暹罗猫
-    zh-cn: 暹罗猫
-    zh-hans: 暹罗猫
+    zh_cn: 暹罗猫
+    zh_hans: 暹罗猫
 ---
 # [[Siamese_Cat]] 
 

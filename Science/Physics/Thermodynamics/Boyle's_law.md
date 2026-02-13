@@ -200,7 +200,7 @@ dv_has_:
     ast: Llei de Boyle-Mariotte
     az: Boyl-Mariott qanunu
     be: Закон Бойля-Марыота
-    be-tarask: закон Бойла—Марыёта
+    be_tarask: закон Бойла—Марыёта
     bg: Закон на Бойл – Мариот
     bn: বয়েলের সূত্র
     bs: Boyle-Mariotteov zakon
@@ -213,8 +213,8 @@ dv_has_:
     de: Gesetz von Boyle-Mariotte
     el: Νόμος του Μπόιλ
     en: Boyle's law
-    en-ca: Boyle's law
-    en-gb: Boyle's law
+    en_ca: Boyle's law
+    en_gb: Boyle's law
     eo: leĝo de Boyle
     es: Ley de Boyle-Mariotte
     et: Boyle'i-Mariotte'i seadus
@@ -254,7 +254,7 @@ dv_has_:
     pms: Laj ëd Boyle-Mariotte
     pnb: بوائل دا قنون
     pt: Lei de Boyle-Mariotte
-    pt-br: Lei de Boyle-Mariotte
+    pt_br: Lei de Boyle-Mariotte
     ro: Legea Boyle-Mariotte
     ru: Закон Бойля — Мариотта
     sd: بوائل جو گيس جو قانون
@@ -264,8 +264,8 @@ dv_has_:
     sl: Boylov zakon
     sq: Ligji i Bojl-Mariotit
     sr: Бојл-Мариотов закон
-    sr-ec: Бојл-Мариотов закон
-    sr-el: Bojl-Mariotov zakon
+    sr_ec: Бојл-Мариотов закон
+    sr_el: Bojl-Mariotov zakon
     sv: Boyles lag
     ta: பாயிலின் விதி
     tl: Batas ni Boyle
@@ -278,12 +278,12 @@ dv_has_:
     wuu: 玻意耳-马略特定律
     yue: 波爾定律
     zh: 玻意耳-马略特定律
-    zh-cn: 玻意耳－马略特定律
-    zh-hans: 玻意耳－马略特定律
-    zh-hant: 玻意耳－馬略特定律
-    zh-hk: 玻意耳－馬略特定律
-    zh-sg: 玻意耳－马略特定律
-    zh-tw: 玻意耳－馬略特定律
+    zh_cn: 玻意耳－马略特定律
+    zh_hans: 玻意耳－马略特定律
+    zh_hant: 玻意耳－馬略特定律
+    zh_hk: 玻意耳－馬略特定律
+    zh_sg: 玻意耳－马略特定律
+    zh_tw: 玻意耳－馬略特定律
 ---
 # [[Boyle's_law]] 
 

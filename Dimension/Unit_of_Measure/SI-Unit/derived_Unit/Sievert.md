@@ -69,7 +69,7 @@ dv_has_:
   name_:
     ar: زيفرت
     be: зіверт
-    be-tarask: зывэрт
+    be_tarask: зывэрт
     bg: Сиверт
     bn: সিভার্ট
     bo: སི་ཝེད།
@@ -82,8 +82,8 @@ dv_has_:
     de: Sievert
     el: σίβερτ
     en: sievert
-    en-ca: Sievert
-    en-gb: Sievert
+    en_ca: Sievert
+    en_gb: Sievert
     eo: siverto
     es: sievert
     et: siivert
@@ -120,7 +120,7 @@ dv_has_:
     oc: sievert
     pl: siwert
     pt: sievert
-    pt-br: Sievert
+    pt_br: Sievert
     ro: Sievert
     ru: зиверт
     scn: Sievert
@@ -129,8 +129,8 @@ dv_has_:
     sl: sievert
     sq: Siverti
     sr: сиверт
-    sr-ec: Сиверт
-    sr-el: Sivert
+    sr_ec: Сиверт
+    sr_el: Sivert
     sv: sievert
     ta: ஃசீவெர்ட்
     th: ซีเวิร์ต
@@ -140,12 +140,12 @@ dv_has_:
     wuu: 希沃特
     yue: 希沃特
     zh: 西弗
-    zh-cn: 希沃特
-    zh-hans: 希沃特
-    zh-hant: 西弗
-    zh-hk: 希沃特
-    zh-sg: 希沃特
-    zh-tw: 西弗
+    zh_cn: 希沃特
+    zh_hans: 希沃特
+    zh_hant: 西弗
+    zh_hk: 希沃特
+    zh_sg: 希沃特
+    zh_tw: 西弗
 ---
 # [[Sievert]] 
 

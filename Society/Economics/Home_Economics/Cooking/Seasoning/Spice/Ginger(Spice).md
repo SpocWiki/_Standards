@@ -108,7 +108,7 @@ dv_has_:
     arc: ܚܡܣܐ
     arz: جنزبيل
     bcl: Laya
-    be-tarask: імбір
+    be_tarask: імбір
     br: Jinjebr
     ca: gingebre
     cs: zázvor
@@ -127,7 +127,7 @@ dv_has_:
     gl: xenxibre
     gom: Alem vo Suntt
     gom-deva: आलें
-    gom-latn: Alem vo Suntt
+    gom_latn: Alem vo Suntt
     gu: આદુ
     gur: Kakadure
     ha: citta
@@ -152,7 +152,7 @@ dv_has_:
     mr: आले
     my: ချင်းပင်
     nb: ingefær
-    nds-nl: gember
+    nds_nl: gember
     ne: अदुवा
     nl: gember
     nrm: Gengivre

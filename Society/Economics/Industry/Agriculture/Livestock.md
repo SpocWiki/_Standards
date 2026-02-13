@@ -124,7 +124,7 @@ dv_has_:
     ast: Ganáu
     ba: Ауыл хужалығы хайуандары
     be: сельскагаспадарчыя жывёлы
-    be-tarask: сельскагаспадарчыя жывёлы
+    be_tarask: сельскагаспадарчыя жывёлы
     bg: Добитък
     bn: প্রাণিসম্পদ
     bo: སྒོ་ཕྱུགས་སེམས་ཅན།
@@ -170,8 +170,8 @@ dv_has_:
     kn: ಜಾನುವಾರು
     ko: 가축
     ku: Ajalên kedî
-    ku-arab: ئاژالێن کەدی
-    ku-latn: Ajalên kedî
+    ku_arab: ئاژالێن کەدی
+    ku_latn: Ajalên kedî
     la: Ctenos
     lb: Véi
     li: Vieë
@@ -198,7 +198,7 @@ dv_has_:
     pl: Zwierzęta gospodarskie
     pnb: ڈنگر
     pt: gado
-    pt-br: gado
+    pt_br: gado
     ro: animale economice
     ru: сельскохозяйственные животные
     sco: fermstockin
@@ -211,8 +211,8 @@ dv_has_:
     so: Xoolo
     sq: Bagëtia
     sr: стока
-    sr-ec: стока
-    sr-el: stoka
+    sr_ec: стока
+    sr_el: stoka
     su: Ingon-ingon
     sv: boskap
     ta: கால்நடை
@@ -228,12 +228,12 @@ dv_has_:
     yi: בהמה
     yue: 牲畜
     zh: 家畜
-    zh-cn: 家畜
-    zh-hans: 家畜
-    zh-hant: 家畜
-    zh-hk: 家畜
-    zh-sg: 家畜
-    zh-tw: 家畜
+    zh_cn: 家畜
+    zh_hans: 家畜
+    zh_hant: 家畜
+    zh_hk: 家畜
+    zh_sg: 家畜
+    zh_tw: 家畜
 ---
 # [[Livestock]] 
 

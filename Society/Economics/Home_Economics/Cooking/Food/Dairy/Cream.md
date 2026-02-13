@@ -154,7 +154,7 @@ dv_has_:
     ba: ҡаймаҡ
     bar: Rahm
     be: вяршкі
-    be-tarask: вяршкі
+    be_tarask: вяршкі
     bg: сметана
     bn: ক্রিম
     br: dienn
@@ -169,8 +169,8 @@ dv_has_:
     dsb: zmjatana
     el: κρέμα γάλακτος
     en: cream
-    en-ca: cream
-    en-gb: cream
+    en_ca: cream
+    en_gb: cream
     eo: kremo
     es: crema de leche
     et: koor
@@ -215,11 +215,11 @@ dv_has_:
     mn: цөцгий
     mr: साय
     ms: krim
-    ms-arab: کريم
+    ms_arab: کريم
     mt: krema
     my: နို့ဆီ
     nb: fløte
-    nds-nl: vlödde
+    nds_nl: vlödde
     nl: room
     nn: kremfløyte
     nup: Cream
@@ -232,7 +232,7 @@ dv_has_:
     pl: śmietanka
     pnb: ملائی
     pt: nata
-    pt-br: nata
+    pt_br: nata
     qu: nata
     ro: smântână
     roa-tara: panne
@@ -254,7 +254,7 @@ dv_has_:
     so: labeen
     sq: pana
     sr: павлака
-    sr-ec: павлака
+    sr_ec: павлака
     sv: grädde
     sw: samli
     ta: பாலாடை
@@ -278,13 +278,13 @@ dv_has_:
     yue: 忌廉
     zh: 鮮奶油
     zh-cn: 奶油
-    zh-hans: 奶油
-    zh-hant: 鮮奶油
-    zh-hk: 忌廉
-    zh-mo: 忌廉
+    zh_hans: 奶油
+    zh_hant: 鮮奶油
+    zh_hk: 忌廉
+    zh_mo: 忌廉
     zh-my: 奶油
-    zh-sg: 奶油
-    zh-tw: 鮮奶油
+    zh_sg: 奶油
+    zh_tw: 鮮奶油
     zu: ulaza
 ---
 # [[Cream]] 

@@ -106,7 +106,7 @@ dv_has_:
     as: আলোক তন্তু
     ast: fibra óptica
     az: optik lif
-    be-tarask: оптавалакно
+    be_tarask: оптавалакно
     bg: оптично влакно
     bho: ऑप्टिकल फाइबर
     bn: অপটিক্যাল ফাইবার
@@ -118,12 +118,12 @@ dv_has_:
     cy: ffibr optig
     da: lysleder
     de: Lichtwellenleiter
-    de-ch: Lichtwellenleiter
+    de_ch: Lichtwellenleiter
     dty: अप्टिकल फाइबर
     el: οπτική ίνα
     en: optical fiber
-    en-ca: optical fibre
-    en-gb: optical fibre
+    en_ca: optical fibre
+    en_gb: optical fibre
     en-us: optical fiber
     eo: optika fibro
     es: fibra óptica
@@ -169,7 +169,7 @@ dv_has_:
     pl: światłowód
     ps: نوري فایبر
     pt: fibra óptica
-    pt-br: fibra óptica
+    pt_br: fibra óptica
     ro: fibră optică
     ru: оптическое волокно
     scn: fibbra ottica
@@ -190,7 +190,7 @@ dv_has_:
     tl: fiber optics
     tr: fiberoptik
     tt: оптик сүс
-    tt-cyrl: оптик сүс
+    tt_cyrl: оптик сүс
     uk: оптоволокно
     uz: optik tola
     vi: sợi quang học
@@ -199,9 +199,9 @@ dv_has_:
     yi: אפטישע פֿיברע
     yue: 光纖
     zh: 光導纖維
-    zh-hans: 光导纤维
-    zh-hant: 光導纖維
-    zh-tw: 光導纖維
+    zh_hans: 光导纤维
+    zh_hant: 光導纖維
+    zh_tw: 光導纖維
 ---
 # [[Optical_Fiber]] 
 

@@ -69,7 +69,7 @@ dv_has_:
     az: Submədəniyyət
     bcl: Subkultura
     be: субкультура
-    be-tarask: субкультура
+    be_tarask: субкультура
     bg: субкултура
     bn: উপসংস্কৃতি
     br: Issevenadur
@@ -82,8 +82,8 @@ dv_has_:
     de: Subkultur
     el: υποκουλτούρα
     en: subculture
-    en-ca: subculture
-    en-gb: subculture
+    en_ca: subculture
+    en_gb: subculture
     eo: subkulturo
     es: subcultura
     et: subkultuur
@@ -140,7 +140,7 @@ dv_has_:
     wuu: 次文化
     yue: 次文化
     zh: 次文化
-    zh-hant: 次文化
+    zh_hant: 次文化
 ---
 # [[Subculture]] 
 

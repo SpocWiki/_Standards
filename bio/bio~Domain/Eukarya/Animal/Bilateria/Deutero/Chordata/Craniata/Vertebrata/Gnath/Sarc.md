@@ -115,7 +115,7 @@ dv_has_:
     az: Xoanlar
     azb: ائت یوزگئچلی لر
     be: лопасцевапёрыя рыбы
-    be-tarask: лопасьцепёрыя
+    be_tarask: лопасьцепёрыя
     bg: ръкоперки
     bn: সার্কোপটেরিজি
     ca: sarcopterigis
@@ -149,11 +149,11 @@ dv_has_:
     ja: 肉鰭類
     ka: მტევანფარფლიანები
     kk: Қалаққанаттылар
-    kk-arab: قالاققاناتتىلار
+    kk_arab: قالاققاناتتىلار
     kk-cn: قالاققاناتتىلار
-    kk-cyrl: Қалаққанаттылар
+    kk_cyrl: Қалаққанаттылар
     kk-kz: Қалаққанаттылар
-    kk-latn: Qalaqqanattılar
+    kk_latn: Qalaqqanattılar
     kk-tr: Qalaqqanattılar
     ko: 육기어류
     ky: Бараканаттар
@@ -169,7 +169,7 @@ dv_has_:
     oc: Sarcopterygii
     pl: mięśniopłetwe
     pt: Sarcopterygii
-    pt-br: Sarcopterygii
+    pt_br: Sarcopterygii
     qu: Aycha wayt'ana
     ro: Sarcopterigieni
     ru: лопастепёрые рыбы
@@ -179,8 +179,8 @@ dv_has_:
     sl: mesnatoplavutarice
     sq: Sarcopterygii
     sr: Саркоптеригије
-    sr-ec: Саркоптеригије
-    sr-el: Sarkopterigije
+    sr_ec: Саркоптеригије
+    sr_el: Sarkopterigije
     sv: lobfeniga fiskar
     th: ปลาที่มีครีบเป็นพู่
     tl: Sarcopterygii
@@ -194,12 +194,12 @@ dv_has_:
     yue: 肉鰭魚
     zea: Kwastvinnigen
     zh: 肉鳍鱼总纲
-    zh-cn: 肉鳍鱼总纲
-    zh-hans: 肉鳍鱼总纲
-    zh-hant: 肉鰭魚
-    zh-hk: 肉鰭魚
-    zh-sg: 肉鳍鱼
-    zh-tw: 肉鰭魚總綱
+    zh_cn: 肉鳍鱼总纲
+    zh_hans: 肉鳍鱼总纲
+    zh_hant: 肉鰭魚
+    zh_hk: 肉鰭魚
+    zh_sg: 肉鳍鱼
+    zh_tw: 肉鰭魚總綱
 ---
 # [[Sarc]] 
 

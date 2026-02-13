@@ -152,7 +152,7 @@ dv_has_:
     bar: Wassan
     bas: lìɓàk màlép
     be: арашэнне
-    be-tarask: арашэньне
+    be_tarask: арашэньне
     bg: Напояване
     bn: সেচ
     br: Dourañ
@@ -225,7 +225,7 @@ dv_has_:
     pnb: آبپاشی
     ps: اوبه خور (پڼه کول)
     pt: irrigação
-    pt-br: irrigação
+    pt_br: irrigação
     qu: Parquy
     ro: irigație
     ru: орошение

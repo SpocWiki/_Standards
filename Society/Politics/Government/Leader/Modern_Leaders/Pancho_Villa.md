@@ -80,7 +80,7 @@ dv_has_:
     ast: Pancho Villa
     ay: Pancho Villa
     az: Panço Vilya
-    be-tarask: Панча Вільля
+    be_tarask: Панча Вільля
     bg: Панчо Виля
     br: Pancho Villa
     bs: Pancho Villa
@@ -92,8 +92,8 @@ dv_has_:
     de: Pancho Villa
     el: Πάντσο Βίγια
     en: Pancho Villa
-    en-ca: Pancho Villa
-    en-gb: Pancho Villa
+    en_ca: Pancho Villa
+    en_gb: Pancho Villa
     eo: Francisco Villa
     es: Pancho Villa
     eu: Pancho Villa
@@ -128,7 +128,7 @@ dv_has_:
     pa: ਪਾਂਚੋ ਬੀਆ
     pl: Pancho Villa
     pt: Pancho Villa
-    pt-br: Pancho Villa
+    pt_br: Pancho Villa
     qu: Pancho Villa
     ro: Pancho Villa
     ru: Панчо Вилья (генерал)
@@ -136,8 +136,8 @@ dv_has_:
     sl: Pancho Villa
     sq: Pancho Villa
     sr: Панчо Виља
-    sr-ec: Панчо Виља
-    sr-el: Pančo Vilja
+    sr_ec: Панчо Виља
+    sr_el: Pančo Vilja
     sv: Pancho Villa
     tl: Pancho Villa
     tr: Pancho Villa
@@ -148,12 +148,12 @@ dv_has_:
     xmf: პანჩო ვილია
     yue: 微拉
     zh: 潘乔·比利亚
-    zh-cn: 微拉
-    zh-hans: 微拉
-    zh-hant: 微拉
-    zh-hk: 微拉
-    zh-sg: 微拉
-    zh-tw: 微拉
+    zh_cn: 微拉
+    zh_hans: 微拉
+    zh_hant: 微拉
+    zh_hk: 微拉
+    zh_sg: 微拉
+    zh_tw: 微拉
 ---
 # [[Pancho_Villa]] 
 

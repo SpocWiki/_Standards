@@ -84,7 +84,7 @@ dv_has_:
     ast: Herciu
     az: Hers
     be: герц
-    be-tarask: гэрц
+    be_tarask: гэрц
     bg: Херц
     bn: হার্জ
     bo: ཧེར་ཚི།
@@ -99,8 +99,8 @@ dv_has_:
     de: Hertz
     el: Χερτζ
     en: hertz
-    en-ca: hertz
-    en-gb: hertz
+    en_ca: hertz
+    en_gb: hertz
     eo: herco
     es: hercio
     et: Herts
@@ -154,7 +154,7 @@ dv_has_:
     pnb: ہرٹز
     ps: هرټز
     pt: hertz
-    pt-br: hertz
+    pt_br: hertz
     rm: Hz
     ro: hertz
     ru: герц
@@ -166,7 +166,7 @@ dv_has_:
     smn: herz
     sq: Herci
     sr: херц
-    sr-ec: Херц
+    sr_ec: Херц
     su: Hertz
     sv: hertz
     sw: Hertz
@@ -185,8 +185,8 @@ dv_has_:
     wuu: 赫兹
     yue: 赫茲
     zh: 赫兹
-    zh-hant: 赫茲
-    zh-tw: 赫茲
+    zh_hant: 赫茲
+    zh_tw: 赫茲
 ---
 # [[Hertz]] 
 

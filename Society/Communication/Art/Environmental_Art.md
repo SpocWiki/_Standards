@@ -45,7 +45,7 @@ dv_has_:
   name_:
     ar: فن بيئي
     ast: arte ambiental
-    be-tarask: мастацтва асяродзьдзя
+    be_tarask: мастацтва асяродзьдзя
     bo: ཁོར་ཡུག་སྒྱུ་རྩལ།
     ca: art ecològic
     de: Environment

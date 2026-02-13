@@ -139,7 +139,7 @@ dv_has_:
     ban: Kripton
     bcl: Krypton
     be: крыптон
-    be-tarask: крыптон
+    be_tarask: крыптон
     bg: криптон
     bho: क्रिप्टन
     bn: ক্রিপ্টন
@@ -157,11 +157,11 @@ dv_has_:
     cy: crypton
     da: krypton
     de: Krypton
-    de-ch: Krypton
+    de_ch: Krypton
     el: κρυπτό
     en: krypton
-    en-ca: Krypton
-    en-gb: krypton
+    en_ca: Krypton
+    en_gb: krypton
     eo: kriptono
     es: kriptón
     et: krüptoon
@@ -242,7 +242,7 @@ dv_has_:
     pnb: کرپٹون
     ps: کرېپټون
     pt: crípton
-    pt-br: criptônio
+    pt_br: criptônio
     qu: Kriptun
     ro: kripton
     ru: криптон
@@ -262,7 +262,7 @@ dv_has_:
     so: Kiribtoon
     sq: Kriptoni
     sr: криптон
-    sr-ec: Криптон
+    sr_ec: Криптон
     stq: Krypton
     su: Kripton
     sv: krypton
@@ -289,10 +289,10 @@ dv_has_:
     yue: 氪
     zgh: ⴰⴽⵔⵉⴱⵜⵓⵏ
     zh: 氪
-    zh-hans: 氪
-    zh-hant: 氪
-    zh-hk: 氪
-    zh-tw: 氪
+    zh_hans: 氪
+    zh_hant: 氪
+    zh_hk: 氪
+    zh_tw: 氪
     zu: UmKhalahwe
   number_of_:
     period: 4

@@ -87,7 +87,7 @@ dv_has_:
     ast: Lleis de Kirchhoff
     az: Kirxhoff qanunları
     be: Правілы Кірхгофа
-    be-tarask: правілы Кірхгофа
+    be_tarask: правілы Кірхгофа
     bg: Закони на Кирхоф
     bn: কার্শফের বর্তনীর সমীকরণসমূহ
     bs: Kirchhoffovi zakoni
@@ -137,7 +137,7 @@ dv_has_:
     sl: Kirchhoffova zakona
     sq: Kirchhoff's circuit laws
     sr: Кирхофови закони
-    sr-ec: Кирхофови закони
+    sr_ec: Кирхофови закони
     sv: Kirchhoffs lagar
     ta: கிர்க்காஃபின் மின்சுற்று விதிகள்
     tl: Mga batas ng sirkito ni Kirchhoff
@@ -150,12 +150,12 @@ dv_has_:
     wuu: 基尔霍夫电路定律
     yue: 基爾霍夫電路定律
     zh: 基爾霍夫電路定律
-    zh-cn: 基尔霍夫电路定律
-    zh-hans: 基尔霍夫电路定律
-    zh-hant: 基爾霍夫電路定律
-    zh-hk: 基爾霍夫電路定律
-    zh-sg: 基尔霍夫电路定律
-    zh-tw: 克希荷夫電路定律
+    zh_cn: 基尔霍夫电路定律
+    zh_hans: 基尔霍夫电路定律
+    zh_hant: 基爾霍夫電路定律
+    zh_hk: 基爾霍夫電路定律
+    zh_sg: 基尔霍夫电路定律
+    zh_tw: 克希荷夫電路定律
 ---
 # [[Kirchhoff's_Circuit_Laws]] 
 

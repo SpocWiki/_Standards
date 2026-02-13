@@ -105,7 +105,7 @@ dv_has_:
     ar: انعكاس
     as: প্ৰতিফলন
     az: İşığın qayıtması
-    be-tarask: адбіцьцё
+    be_tarask: адбіцьцё
     bew: Tèktokan
     bg: Отражение
     bn: আলোর প্রতিফলন
@@ -159,7 +159,7 @@ dv_has_:
     pms: Arflession
     pnb: جھلکارا
     pt: reflexão
-    pt-br: reflexão
+    pt_br: reflexão
     ro: reflexie
     ru: отражение
     sa: परावर्तनम्
@@ -173,8 +173,8 @@ dv_has_:
     so: Hummaag noqod
     sq: Reflektimi
     sr: рефлексија
-    sr-ec: рефлексија
-    sr-el: refleksija
+    sr_ec: рефлексија
+    sr_el: refleksija
     sv: reflexion
     ta: எதிரொளிப்பு
     te: paravartanam
@@ -190,12 +190,12 @@ dv_has_:
     wuu: 光个反射
     yue: 反射
     zh: 反射
-    zh-cn: 反射
-    zh-hans: 反射
-    zh-hant: 反射
-    zh-hk: 反射
-    zh-sg: 反射
-    zh-tw: 反射
+    zh_cn: 反射
+    zh_hans: 反射
+    zh_hant: 反射
+    zh_hk: 反射
+    zh_sg: 反射
+    zh_tw: 反射
     zu: Ukukhwentuza (kumchazandalo)
 ---
 # [[Reflection]] 

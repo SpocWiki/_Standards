@@ -174,7 +174,7 @@ dv_has_:
     ba: Остин Джейн
     bcl: Jane Austen
     be: Джэйн Осцін
-    be-tarask: Джэйн Остын
+    be_tarask: Джэйн Остын
     bg: Джейн Остин
     bi: Jane Austen
     bn: জেন অস্টেন
@@ -187,13 +187,13 @@ dv_has_:
     cy: Jane Austen
     da: Jane Austen
     de: Jane Austen
-    de-ch: Jane Austen
+    de_ch: Jane Austen
     diq: Jane Austen
     dtp: Jane Austen
     el: Τζέιν Όστεν
     en: Jane Austen
-    en-ca: Jane Austen
-    en-gb: Jane Austen
+    en_ca: Jane Austen
+    en_gb: Jane Austen
     en-us: Jane Austen
     eo: Jane Austen
     es: Jane Austen

@@ -95,7 +95,7 @@ dv_has_:
     az: Cənub Xaçı
     ba: Көньяҡ Тәре
     be: Паўднёвы Крыж
-    be-tarask: Крыж
+    be_tarask: Крыж
     bg: Южен кръст
     bn: ত্রিশঙ্কু মণ্ডল
     br: Kroaz ar Su
@@ -162,7 +162,7 @@ dv_has_:
     pa: ਕ੍ਰਕਸ (ਤਾਰਾ-ਸਮੂਹ)
     pl: Gwiazdozbiór Krzyża Południa
     pt: Crux
-    pt-br: Cruzeiro do Sul
+    pt_br: Cruzeiro do Sul
     qu: Chakana warani
     ro: Crucea Sudului
     ru: Южный Крест
@@ -172,7 +172,7 @@ dv_has_:
     sk: Južný kríž
     sl: Južni križ
     sr: Јужни крст
-    sr-ec: Јужни крст
+    sr_ec: Јужни крст
     sv: Södra korset
     sw: Salibu
     ta: தென்சிலுவை

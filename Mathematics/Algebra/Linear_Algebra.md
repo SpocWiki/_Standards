@@ -129,7 +129,7 @@ dv_has_:
     az: Xətti cəbr
     ba: һыҙыҡлы алгебра
     be: лінейная алгебра
-    be-tarask: лінейная альгебра
+    be_tarask: лінейная альгебра
     bg: Линейна алгебра
     bn: রৈখিক বীজগণিত
     bs: Linearna algebra
@@ -143,8 +143,8 @@ dv_has_:
     de: lineare Algebra
     el: Γραμμική άλγεβρα
     en: linear algebra
-    en-ca: Linear algebra
-    en-gb: linear algebra
+    en_ca: Linear algebra
+    en_gb: linear algebra
     eo: lineara algebro
     es: álgebra lineal
     et: lineaaralgebra
@@ -173,7 +173,7 @@ dv_has_:
     jam: Linia haljibra
     ka: წრფივი ალგებრა
     kk: сызықтық алгебра
-    kk-latn: sızıqtıq algebra
+    kk_latn: sızıqtıq algebra
     ko: 선형대수학
     la: Algebra linearis
     lez: ЦӀарцӀин алгебра
@@ -193,7 +193,7 @@ dv_has_:
     pl: algebra liniowa
     pms: Àlgebra linear
     pt: álgebra linear
-    pt-br: álgebra linear
+    pt_br: álgebra linear
     ro: algebră liniară
     ru: линейная алгебра
     scn: Algibbra liniari

@@ -51,7 +51,7 @@ dv_has_:
     oc: Karl Valentin
     pl: Karl Valentin
     pt: Karl Valentin
-    pt-br: Karl Valentin
+    pt_br: Karl Valentin
     ru: Карл Валентин
     sl: Karl Valentin
     sq: Karl Valentin
@@ -59,7 +59,7 @@ dv_has_:
     tr: Karl Valentin
     vi: Karl Valentin
     zh: 卡爾‧瓦倫丁
-    zh-hant: 卡爾‧瓦倫丁
+    zh_hant: 卡爾‧瓦倫丁
 ---
 #has_/created_/quote :: Jedes Problem hat drei Seiten: eine positive, eine negative und eine komische. 
 

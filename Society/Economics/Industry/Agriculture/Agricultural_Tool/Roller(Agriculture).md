@@ -53,7 +53,7 @@ dv_has_:
   name_:
     an: Ruello d'era
     ar: مدحلة
-    be-tarask: валец
+    be_tarask: валец
     br: Roll
     ca: Corró
     csb: Walc na rolã

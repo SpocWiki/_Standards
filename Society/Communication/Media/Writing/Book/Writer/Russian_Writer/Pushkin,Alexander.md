@@ -289,7 +289,7 @@ dv_has_:
     ba: Пушкин Александр Сергеевич
     bar: Alexander Sergejewitsch Puschkin
     be: Аляксандр Сяргеевіч Пушкін
-    be-tarask: Аляксандар Пушкін
+    be_tarask: Аляксандар Пушкін
     bew: Iskandar Puskin
     bg: Александър Пушкин
     bi: Alexander Pushkin
@@ -306,19 +306,19 @@ dv_has_:
     ckb: ئەلێکساندر پووشکین
     co: Aleksandr Sergeevič Puškin
     crh: Aleksandr Puşkin
-    crh-latn: Aleksandr Puşkin
+    crh_latn: Aleksandr Puşkin
     cs: Alexandr Sergejevič Puškin
     cu: Алєѯандръ Поушькинъ
     cv: Пушкин Александр Сергеевич
     cy: Alexandr Pushkin
     da: Aleksandr Pusjkin
     de: Alexander Sergejewitsch Puschkin
-    de-ch: Alexander Sergejewitsch Puschkin
+    de_ch: Alexander Sergejewitsch Puschkin
     diq: Aleksandr Pushkin
     el: Αλεξάντρ Σεργκέγεβιτς Πούσκιν
     en: Alexander Pushkin
-    en-ca: Alexander Pushkin
-    en-gb: Alexander Pushkin
+    en_ca: Alexander Pushkin
+    en_gb: Alexander Pushkin
     eo: Aleksandr Puŝkin
     es: Aleksandr Pushkin
     et: Aleksandr Puškin
@@ -359,7 +359,7 @@ dv_has_:
     kbd: Александр Пушкин
     kbp: Alexandre Pouchkine
     kk: Александр Сергеевич Пушкин
-    kk-cyrl: Александр Сергеевич Пушкин
+    kk_cyrl: Александр Сергеевич Пушкин
     knc: Alexander Pushkin
     ko: 알렉산드르 푸시킨
     ku: Pûşkîn
@@ -409,7 +409,7 @@ dv_has_:
     pms: Aleksandr Puškin
     pnb: پشکن
     pt: Alexandre Pushkin
-    pt-br: Alexandre Pushkin
+    pt_br: Alexandre Pushkin
     qu: Aleksandr Puxkin
     ro: Aleksandr Pușkin
     ru: Александр Сергеевич Пушкин
@@ -456,10 +456,10 @@ dv_has_:
     yo: Alexander Pushkin
     yue: 普希金
     zh: 亞歷山大·普希金
-    zh-cn: 亚历山大·普希金
-    zh-hans: 亚历山大·谢尔盖耶维奇·普希金
-    zh-hant: 亞歷山大·謝爾蓋耶維奇·普希金
-    zh-tw: 亞歷山大·謝爾蓋耶維奇·普希金
+    zh_cn: 亚历山大·普希金
+    zh_hans: 亚历山大·谢尔盖耶维奇·普希金
+    zh_hant: 亞歷山大·謝爾蓋耶維奇·普希金
+    zh_tw: 亞歷山大·謝爾蓋耶維奇·普希金
 ---
 # [[Pushkin,Alexander]] 
 

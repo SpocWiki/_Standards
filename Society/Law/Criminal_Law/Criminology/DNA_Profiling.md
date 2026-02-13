@@ -73,7 +73,7 @@ dv_has_:
   name_:
     ar: بصمة وراثية
     ast: Buelga xenética
-    be-tarask: адбітак ДНК
+    be_tarask: адбітак ДНК
     bn: ডিএনএ আলেখন
     bs: DNK-analiza
     ca: empremta genètica
@@ -83,8 +83,8 @@ dv_has_:
     de: genetischer Fingerabdruck
     el: Εξέταση DNA
     en: DNA profiling
-    en-ca: DNA profiling
-    en-gb: DNA profiling
+    en_ca: DNA profiling
+    en_gb: DNA profiling
     eo: gena spuro
     es: huella genética
     et: DNA tüpiseerimine
@@ -116,14 +116,14 @@ dv_has_:
     oc: Emprenta genetica
     pl: Profilowanie DNA
     pt: impressão genética
-    pt-br: impressão genética
+    pt_br: impressão genética
     ro: amprentă genetică
     ru: ДНК-дактилоскопия
     sh: DNK analiza
     sl: profiliranje DNK
     sr: ДНК анализа
-    sr-ec: ДНК анализа
-    sr-el: DNK analiza
+    sr_ec: ДНК анализа
+    sr_el: DNK analiza
     su: Idéntifikasi DNA
     sv: genetiskt fingeravtryck
     ta: டிஎன்ஏ விவரக்குறிப்பு
@@ -135,12 +135,12 @@ dv_has_:
     wuu: 遗传指纹分析
     yue: 遺傳指紋分析
     zh: 遺傳指紋分析
-    zh-cn: 遗传指纹分析
-    zh-hans: 遗传指纹分析
-    zh-hant: 遺傳指紋分析
-    zh-hk: 遺傳指紋分析
-    zh-sg: 遗传指纹分析
-    zh-tw: 遺傳指紋分析
+    zh_cn: 遗传指纹分析
+    zh_hans: 遗传指纹分析
+    zh_hant: 遺傳指紋分析
+    zh_hk: 遺傳指紋分析
+    zh_sg: 遗传指纹分析
+    zh_tw: 遺傳指紋分析
 ---
 # [[DNA_Profiling]] 
 

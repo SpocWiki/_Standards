@@ -149,7 +149,7 @@ dv_has_:
     bar: Konsonant
     bcl: katanog
     be: зычныя
-    be-tarask: зычны
+    be_tarask: зычны
     bg: съгласна
     bho: व्यंजन
     bn: ব্যঞ্জনধ্বনি
@@ -165,11 +165,11 @@ dv_has_:
     da: konsonant
     dag: kɔnsonantinima
     de: Konsonant
-    de-ch: Konsonant
+    de_ch: Konsonant
     el: σύμφωνο
     en: consonant
-    en-ca: consonant
-    en-gb: consonant
+    en_ca: consonant
+    en_gb: consonant
     eo: konsonanto
     es: consonante
     et: kaashäälik
@@ -250,7 +250,7 @@ dv_has_:
     pl: spółgłoska
     pnb: حروف صحیح
     pt: consoante
-    pt-br: consoante
+    pt_br: consoante
     qu: kunkawaki
     rmf: konsonantos
     ro: consoană
@@ -271,7 +271,7 @@ dv_has_:
     sn: nzvanyira
     sq: bashkëtingëllorja
     sr: сугласник
-    sr-ec: сугласник
+    sr_ec: сугласник
     sv: konsonant
     sw: konsonanti
     syl: ꠀꠝꠥꠀꠔꠤꠢꠞꠚ
@@ -298,8 +298,8 @@ dv_has_:
     yi: קאנסאנאנט
     yue: 啞音
     zh: 辅音
-    zh-hant: 輔音
-    zh-tw: 輔音
+    zh_hant: 輔音
+    zh_tw: 輔音
 ---
 # [[Consonant]] 
 

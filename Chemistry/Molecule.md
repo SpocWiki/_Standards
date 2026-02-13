@@ -165,7 +165,7 @@ dv_has_:
     bar: Molekui
     bcl: Molekula
     be: малекула
-    be-tarask: малекула
+    be_tarask: малекула
     bg: Молекула
     bn: অণু
     br: Molekulenn
@@ -186,7 +186,7 @@ dv_has_:
     el: μόριο
     eml: Molècula
     en: molecule
-    en-gb: molecule
+    en_gb: molecule
     eo: molekulo
     es: molécula
     et: molekul
@@ -258,7 +258,7 @@ dv_has_:
     mn: Молекул
     mr: रेणू
     ms: molekul
-    ms-arab: موليکول
+    ms_arab: موليکول
     my: မော်လီကျူး
     nan: Hun-chú
     nb: molekyl
@@ -280,7 +280,7 @@ dv_has_:
     pnb: مالیکیول
     ps: مالیکول
     pt: molécula
-    pt-br: molécula
+    pt_br: molécula
     qu: Iñuwa
     rki: မော်လီဂျူး
     ro: moleculă
@@ -302,8 +302,8 @@ dv_has_:
     sms: molekyyl
     sq: Molekula
     sr: молекул
-    sr-ec: молекул
-    sr-el: molekul
+    sr_ec: молекул
+    sr_el: molekul
     su: Molekul
     sv: molekyl
     sw: Molekuli
@@ -318,7 +318,7 @@ dv_has_:
     tpi: Molekel
     tr: Molekül
     tt: молекула
-    tt-cyrl: молекул
+    tt_cyrl: молекул
     udm: молекула
     ug: مولېكۇلا
     uk: молекула
@@ -337,8 +337,8 @@ dv_has_:
     yi: מאלעקול
     yue: 分子
     zh: 分子
-    zh-cn: 分子
-    zh-hk: 分子
+    zh_cn: 分子
+    zh_hk: 分子
     zu: Imizwayi
 ---
 # [[Molecule]] 

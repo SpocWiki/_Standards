@@ -70,7 +70,7 @@ dv_has_:
     ar: كابل اتصالات بحري
     arz: كابل اتصالات بحري
     az: Sualtı kommunikasiya kabeli
-    be-tarask: падводны камунікацыйны кабэль
+    be_tarask: падводны камунікацыйны кабэль
     bg: Подводен комуникационен кабел
     bn: সাবমেরিন কমিউনিকেশন্স ক্যাবল
     ca: cable de comunicacions submarí
@@ -79,8 +79,8 @@ dv_has_:
     de: Seekabel
     el: Υποβρύχιο καλώδιο
     en: submarine communications cable
-    en-ca: Submarine communications cable
-    en-gb: submarine communications cable
+    en_ca: Submarine communications cable
+    en_gb: submarine communications cable
     eo: submara komunikada kablo
     es: Cable Submarino de Comunicaciones
     et: veealune sidekaabel
@@ -116,9 +116,9 @@ dv_has_:
     uk: Підводний комунікаційний кабель
     vec: Cavo sotomarin
     zh: 海底電纜
-    zh-hans: 海底电缆
-    zh-hant: 海底電纜
-    zh-hk: 海底電纜
+    zh_hans: 海底电缆
+    zh_hant: 海底電纜
+    zh_hk: 海底電纜
 ---
 # [[Submarine_Communications_Cable]] 
 

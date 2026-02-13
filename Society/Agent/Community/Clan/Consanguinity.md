@@ -84,7 +84,7 @@ dv_has_:
     az: qan qohumluğu
     ban: Masemeton
     be: крэўнае сваяцтва
-    be-tarask: крэўнае сваяцтва
+    be_tarask: крэўнае сваяцтва
     bg: Кръвни връзки
     bn: বংশ
     ca: consanguinitat
@@ -126,8 +126,8 @@ dv_has_:
     sl: kosangvinost
     so: Hilbawadaag
     sr: Укрштање у сродству
-    sr-ec: Укрштање у сродству
-    sr-el: Ukrštanje u srodstvu
+    sr_ec: Укрштање у сродству
+    sr_el: Ukrštanje u srodstvu
     sv: blodsband
     tr: kan hısımlığı
     tt: кан кардәшлек
@@ -138,9 +138,9 @@ dv_has_:
     wuu: 血亲
     yue: 血緣關係
     zh: 血親
-    zh-hans: 血亲
-    zh-hant: 血親
-    zh-hk: 血親
+    zh_hans: 血亲
+    zh_hant: 血親
+    zh_hk: 血親
 ---
 # [[Consanguinity]] 
 

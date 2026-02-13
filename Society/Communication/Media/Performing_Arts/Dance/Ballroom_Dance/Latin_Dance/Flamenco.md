@@ -86,7 +86,7 @@ dv_has_:
     ba: Фламенко
     bcl: Flamenco
     be: Фламенка
-    be-tarask: флямэнка
+    be_tarask: флямэнка
     bg: фламенко
     bn: ফ্লামেনকো
     br: Flamenco
@@ -140,7 +140,7 @@ dv_has_:
     nan: Flamenco
     nb: flamenco
     nds: Flamenco
-    nds-nl: flamenco
+    nds_nl: flamenco
     new: फ्लामेङ्को
     nl: flamenco
     nn: flamenco
@@ -150,7 +150,7 @@ dv_has_:
     pms: Flamenco
     pnb: فلامنکو
     pt: flamenco
-    pt-br: flamenco
+    pt_br: flamenco
     qu: Flamenco
     qug: flamenco
     rmy: Flamenko
@@ -186,9 +186,9 @@ dv_has_:
     yi: פלאמענקא
     yue: 佛蘭明歌
     zh: 弗拉明戈
-    zh-hant: 佛朗明哥
+    zh_hant: 佛朗明哥
     zh-my: 法兰明歌
-    zh-sg: 弗拉明戈
+    zh_sg: 弗拉明戈
 ---
 ## #has_/text_of_/abstract 
 

@@ -128,7 +128,7 @@ dv_has_:
     az: Kit Riçards
     azb: کیت ریچاردز
     be: Кіт Рычардс
-    be-tarask: Кіт Рычардз
+    be_tarask: Кіт Рычардз
     bg: Кийт Ричардс
     bn: কিথ রিচার্ডস
     ca: Keith Richards
@@ -176,7 +176,7 @@ dv_has_:
     pam: Keith Richards
     pl: Keith Richards
     pt: Keith Richards
-    pt-br: Keith Richards
+    pt_br: Keith Richards
     qu: Keith Richards
     ro: Keith Richards
     ru: Кит Ричардс
@@ -186,8 +186,8 @@ dv_has_:
     sl: Keith Richards
     sq: Keith Richards
     sr: Кит Ричардс
-    sr-ec: Кит Ричардс
-    sr-el: Kit Ričards
+    sr_ec: Кит Ричардс
+    sr_el: Kit Ričards
     sv: Keith Richards
     sw: Keith Richards
     th: คีท ริชาดส์
@@ -200,8 +200,8 @@ dv_has_:
     yo: Keith Richards
     yue: 基夫·李察斯
     zh: 基思·理查兹
-    zh-hant: 凱斯·李察
-    zh-hk: 基夫·李察斯
+    zh_hant: 凱斯·李察
+    zh_hk: 基夫·李察斯
 ---
 # [[Richards,Keith]] 
 

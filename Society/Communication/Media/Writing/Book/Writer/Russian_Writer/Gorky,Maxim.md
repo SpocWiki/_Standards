@@ -188,7 +188,7 @@ dv_has_:
     azb: ماکسیم قورکی
     ba: Максим Горький
     be: Максім Горкі
-    be-tarask: Максім Горкі
+    be_tarask: Максім Горкі
     bg: Максим Горки
     bn: ম্যাক্সিম গোর্কি
     br: Maksim Gorkiy
@@ -203,12 +203,12 @@ dv_has_:
     cy: Maxim Gorki
     da: Maksim Gorkij
     de: Maxim Gorki
-    de-ch: Maxim Gorki
+    de_ch: Maxim Gorki
     diq: Maksim Gorki
     el: Μαξίμ Γκόρκι
     en: Maxim Gorky
-    en-ca: Maxim Gorky
-    en-gb: Maxim Gorky
+    en_ca: Maxim Gorky
+    en_gb: Maxim Gorky
     en-us: Maxim Gorky
     eo: Maksim Gorkij
     es: Máximo Gorki
@@ -265,7 +265,7 @@ dv_has_:
     pl: Maksim Gorki
     pnb: میکسم گورکی
     pt: Máximo Gorki
-    pt-br: Máximo Gorki
+    pt_br: Máximo Gorki
     qu: Maxim Gorky
     ro: Maxim Gorki
     ru: Максим Горький
@@ -286,7 +286,7 @@ dv_has_:
     tl: Maxim Gorky
     tr: Maksim Gorki
     tt: Максим Горьки
-    tt-cyrl: Максим Горьки
+    tt_cyrl: Максим Горьки
     uk: Максим Горький
     ur: میکسم گورکی
     uz: Gorkiy Maksim
@@ -297,7 +297,7 @@ dv_has_:
     xmf: მაქსიმ გორკი
     yue: 高爾基
     zh: 马克西姆·高尔基
-    zh-cn: 马克西姆·高尔基
+    zh_cn: 马克西姆·高尔基
 ---
 # [[Gorky,Maxim]] 
 

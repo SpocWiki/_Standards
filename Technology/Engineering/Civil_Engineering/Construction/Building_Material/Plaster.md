@@ -90,17 +90,17 @@ dv_has_:
     an: Cheso
     ar: قصارة
     be: тынкоўка
-    be-tarask: тынкоўка
+    be_tarask: тынкоўка
     bg: Мазилка
     br: Plastr
     ca: guix
     cs: omítka
     de: Putz
-    de-ch: Abrieb
+    de_ch: Abrieb
     el: γύψος
     en: plaster
-    en-ca: plaster
-    en-gb: plaster
+    en_ca: plaster
+    en_gb: plaster
     eo: gipso
     es: yeso
     et: krohv
@@ -120,8 +120,8 @@ dv_has_:
     ja: 漆喰
     ko: 플라스터
     ku: Şêl
-    ku-arab: شێل
-    ku-latn: Şêl
+    ku_arab: شێل
+    ku_latn: Şêl
     lmo: Stabilidura
     lt: Tinkas
     mk: гипс
@@ -133,7 +133,7 @@ dv_has_:
     nl: pleister
     pl: gładź szpachlowa
     pt: gesso
-    pt-br: gesso
+    pt_br: gesso
     ro: ipsos
     ru: штукатурка
     scn: jissu
@@ -142,8 +142,8 @@ dv_has_:
     sl: mavec
     sq: Suva (arkitekturë)
     sr: гипс
-    sr-ec: гипс
-    sr-el: gips
+    sr_ec: гипс
+    sr_el: gips
     sv: puts
     ta: சுண்ணாம்புக்கலவை
     te: ప్లాస్టర్
@@ -156,12 +156,12 @@ dv_has_:
     vi: vữa thạch cao
     yue: 熟石膏
     zh: 灰泥
-    zh-cn: 灰泥
-    zh-hans: 灰泥
-    zh-hant: 灰泥
-    zh-hk: 灰泥
-    zh-sg: 灰泥
-    zh-tw: 灰泥
+    zh_cn: 灰泥
+    zh_hans: 灰泥
+    zh_hant: 灰泥
+    zh_hk: 灰泥
+    zh_sg: 灰泥
+    zh_tw: 灰泥
 ---
 # [[Plaster]] 
 

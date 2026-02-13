@@ -24,7 +24,7 @@ dv_has_:
     an: Loseta
     ar: أردواز
     be: аспідны сланец
-    be-tarask: асьпідны лупняк
+    be_tarask: асьпідны лупняк
     bn: স্লেট
     ca: llicorella
     cs: břidlice
@@ -81,8 +81,8 @@ dv_has_:
     sk: bridlica
     sl: skril
     sr: аргилошист
-    sr-ec: Аргилошист
-    sr-el: Argilošist
+    sr_ec: Аргилошист
+    sr_el: Argilošist
     sv: skiffer
     sw: Grife
     ta: சிலேட்டுக் கல்
@@ -93,12 +93,12 @@ dv_has_:
     wa: Schaye
     yue: 板岩
     zh: 板岩
-    zh-cn: 板岩
-    zh-hans: 板岩
-    zh-hant: 板岩
-    zh-hk: 板岩
-    zh-sg: 板岩
-    zh-tw: 板岩
+    zh_cn: 板岩
+    zh_hans: 板岩
+    zh_hant: 板岩
+    zh_hk: 板岩
+    zh_sg: 板岩
+    zh_tw: 板岩
 aliases:
 - Arbel
 - ardesia

@@ -75,7 +75,7 @@ dv_has_:
     ar: قابض
     ast: embrague
     az: Mufta
-    be-tarask: счапленьне
+    be_tarask: счапленьне
     bg: Съединител
     ca: embragatge
     cs: spojka
@@ -114,7 +114,7 @@ dv_has_:
     pl: Sprzęgło
     pms: Frission
     pt: embraiagem
-    pt-br: embreagem
+    pt_br: embreagem
     ro: ambreiaj
     ru: сцепление
     sh: Tarna spojka
@@ -122,8 +122,8 @@ dv_has_:
     sk: Spojka
     sl: sklopka
     sr: спојница
-    sr-ec: Спојница
-    sr-el: Spojnica
+    sr_ec: Спојница
+    sr_el: Spojnica
     sv: koppling
     ta: உரசிணைப்பி
     th: คลัตช์
@@ -132,12 +132,12 @@ dv_has_:
     vi: ly hợp
     yue: 極力子
     zh: 離合器
-    zh-cn: 离合器
-    zh-hans: 离合器
-    zh-hant: 離合器
-    zh-hk: 離合器
-    zh-sg: 离合器
-    zh-tw: 離合器
+    zh_cn: 离合器
+    zh_hans: 离合器
+    zh_hant: 離合器
+    zh_hk: 離合器
+    zh_sg: 离合器
+    zh_tw: 離合器
 ---
 # [[Clutch]] 
 

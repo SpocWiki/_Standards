@@ -136,7 +136,7 @@ dv_has_:
     az: Daniil Bernulli
     azb: دانیل برنولی
     be: Данііл Бернулі
-    be-tarask: Даніель Бэрнульлі
+    be_tarask: Даніель Бэрнульлі
     bg: Даниел Бернули
     bn: দানিয়েল বার্নুয়ি
     bs: Daniel Bernoulli
@@ -189,7 +189,7 @@ dv_has_:
     pms: Daniel Bernoulli
     pnb: ڈینیال برنولی
     pt: Daniel Bernoulli
-    pt-br: Daniel Bernoulli
+    pt_br: Daniel Bernoulli
     rm: Daniel Bernoulli
     ro: Daniel Bernoulli
     ru: Даниил Бернулли
@@ -201,8 +201,8 @@ dv_has_:
     sl: Daniel Bernoulli
     sq: Daniel Bernoulli
     sr: Данијел Бернули
-    sr-ec: Данијел Бернули
-    sr-el: Danijel Bernuli
+    sr_ec: Данијел Бернули
+    sr_el: Danijel Bernuli
     su: Daniel Bernoulli
     sv: Daniel Bernoulli
     ta: டேனியல் பெர்னூலி
@@ -219,12 +219,12 @@ dv_has_:
     yo: Daniel Bernoulli
     yue: 丹尼爾白努利
     zh: 丹尼尔·伯努利
-    zh-cn: 丹尼尔·伯努利
-    zh-hans: 丹尼尔·伯努利
-    zh-hant: 丹尼爾·白努利
-    zh-hk: 丹尼爾·白努利
-    zh-sg: 丹尼尔·伯努利
-    zh-tw: 丹尼爾·白努利
+    zh_cn: 丹尼尔·伯努利
+    zh_hans: 丹尼尔·伯努利
+    zh_hant: 丹尼爾·白努利
+    zh_hk: 丹尼爾·白努利
+    zh_sg: 丹尼尔·伯努利
+    zh_tw: 丹尼爾·白努利
 ---
 # [[Bernoulli,Daniel]] 
 

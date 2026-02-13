@@ -37,7 +37,7 @@ dv_has_:
     ast: Harvey Keitel
     az: Harvi Keytel
     azb: هاروی کایتل
-    be-tarask: Гарві Кейтэл
+    be_tarask: Гарві Кейтэл
     bg: Харви Кайтел
     bn: হার্ভি কাইটেল
     ca: Harvey Keitel
@@ -80,7 +80,7 @@ dv_has_:
     pap: Harvey Keitel
     pl: Harvey Keitel
     pt: Harvey Keitel
-    pt-br: Harvey Keitel
+    pt_br: Harvey Keitel
     ro: Harvey Keitel
     ru: Харви Кейтель
     sco: Harvey Keitel
@@ -88,8 +88,8 @@ dv_has_:
     sl: Harvey Keitel
     sq: Harvey Keitel
     sr: Харви Кајтел
-    sr-ec: Харви Кајтел
-    sr-el: Harvi Kajtel
+    sr_ec: Харви Кајтел
+    sr_el: Harvi Kajtel
     sv: Harvey Keitel
     sw: Harvey Keitel
     tl: Harvey Keitel
@@ -99,12 +99,12 @@ dv_has_:
     yo: Harvey Keitel
     yue: 夏菲基圖
     zh: 哈维·凯特尔
-    zh-cn: 哈维·凯特尔
-    zh-hans: 哈维·凯特尔
-    zh-hant: 哈維·凱托
-    zh-hk: 夏菲基圖
-    zh-sg: 哈维·凯托
-    zh-tw: 哈維·凱托
+    zh_cn: 哈维·凯特尔
+    zh_hans: 哈维·凯特尔
+    zh_hant: 哈維·凱托
+    zh_hk: 夏菲基圖
+    zh_sg: 哈维·凯托
+    zh_tw: 哈維·凱托
 ---
 #has_/time_/started :: 1939-05-13 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

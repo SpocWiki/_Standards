@@ -115,7 +115,7 @@ dv_has_:
     azb: تکدیرناقلیلار
     ban: Buron makuku gasal
     be: няпарнакапытныя
-    be-tarask: Няпарнакапытныя
+    be_tarask: Няпарнакапытныя
     bg: нечифтокопитни
     bn: অযুগ্ম ক্ষুরযুক্ত চতুষ্পদ
     br: Perisodaktiled
@@ -130,8 +130,8 @@ dv_has_:
     de: Unpaarhufer
     el: Περισσοδάκτυλα
     en: odd-toed ungulate
-    en-ca: Odd-toed ungulate
-    en-gb: odd-toed ungulate
+    en_ca: Odd-toed ungulate
+    en_gb: odd-toed ungulate
     eo: Neparhufuloj
     es: Perissodactyla
     et: kabjalised
@@ -177,7 +177,7 @@ dv_has_:
     my: ခွာမစုံသော တိရစ္ဆာန်များ
     nb: hovdyr
     nds: Perissodactyla
-    nds-nl: Perissodactyla
+    nds_nl: Perissodactyla
     nl: onevenhoevigen
     nn: hovdyr
     nov: Perissodactyla
@@ -187,7 +187,7 @@ dv_has_:
     pms: Perissodactyla
     pnb: انپدھرے کھر
     pt: perissodáctilos
-    pt-br: Perissodáctilos
+    pt_br: Perissodáctilos
     qu: Ch'ulla ruk'anayuq
     rmf: houvako kriatuuri
     ro: Perissodactyla
@@ -200,14 +200,14 @@ dv_has_:
     sl: lihoprsti kopitarji
     sq: Perissodactyla
     sr: копитари
-    sr-ec: непарнопрсти копитари
+    sr_ec: непарнопрсти копитари
     sv: uddatåiga hovdjur
     ta: ஒற்றைப்படைக் குளம்பி
     th: สัตว์กีบคี่
     tl: Perissodactyla
     tr: Tek toynaklılar
     tt: тактояклылар
-    tt-cyrl: тактояклылар
+    tt_cyrl: тактояклылар
     uk: конеподібні
     uz: Toq tuyoqlilar
     vec: Perissodactyla
@@ -219,10 +219,10 @@ dv_has_:
     xmf: ცანდჩორქოამეფი
     yue: 奇蹄目
     zh: 奇蹄目
-    zh-cn: 奇蹄目
-    zh-hans: 奇蹄目
-    zh-hant: 奇蹄目
-    zh-tw: 奇蹄目
+    zh_cn: 奇蹄目
+    zh_hans: 奇蹄目
+    zh_hant: 奇蹄目
+    zh_tw: 奇蹄目
 ---
 # [[Perissodactyla]]
 

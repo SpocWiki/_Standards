@@ -53,7 +53,7 @@ dv_has_:
     ast: Eulipotyphla
     az: Həşəratyeyənlər
     be: Eulipotyphla
-    be-tarask: мошкаедныя
+    be_tarask: мошкаедныя
     bg: насекомоядни
     bs: Bubojedi
     ca: eulipotifles
@@ -64,8 +64,8 @@ dv_has_:
     de: Eulipotyphla
     el: Ευλιπότυφλα
     en: Eulipotyphla
-    en-ca: Eulipotyphla
-    en-gb: Eulipotyphla
+    en_ca: Eulipotyphla
+    en_gb: Eulipotyphla
     eo: Eulipotyphla
     es: Eulipotyphla
     et: putuktoidulised
@@ -97,7 +97,7 @@ dv_has_:
     os: Саскхортæ
     pl: Owadożery
     pt: Soricota
-    pt-br: Soricota
+    pt_br: Soricota
     ro: Eulipotyphla
     ru: насекомоядные
     sl: Eulipotyphla
@@ -112,10 +112,10 @@ dv_has_:
     vo: Eulipotyphla
     war: Eulipotyphla
     zh: 真盲缺目
-    zh-cn: 真盲缺目
-    zh-hans: 真盲缺目
-    zh-hant: 真盲缺目
-    zh-tw: 真盲缺目
+    zh_cn: 真盲缺目
+    zh_hans: 真盲缺目
+    zh_hant: 真盲缺目
+    zh_tw: 真盲缺目
 ---
 # [[Eulipotyphla]] 
 

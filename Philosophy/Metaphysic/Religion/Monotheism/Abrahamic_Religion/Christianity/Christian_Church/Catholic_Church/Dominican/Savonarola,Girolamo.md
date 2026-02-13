@@ -109,7 +109,7 @@ dv_has_:
     ast: Girolamo Savonarola
     az: Cirolamo Savonarola
     be: Джыралама Саванарола
-    be-tarask: Джыраляма Саванароля
+    be_tarask: Джыраляма Саванароля
     bg: Джироламо Савонарола
     br: Girolamo Savonarola
     bs: Girolamo Savonarola
@@ -119,11 +119,11 @@ dv_has_:
     cy: Girolamo Savonarola
     da: Girolamo Savonarola
     de: Girolamo Savonarola
-    de-ch: Girolamo Savonarola
+    de_ch: Girolamo Savonarola
     el: Τζιρόλαμο Σαβοναρόλα
     en: Girolamo Savonarola
-    en-ca: Girolamo Savonarola
-    en-gb: Girolamo Savonarola
+    en_ca: Girolamo Savonarola
+    en_gb: Girolamo Savonarola
     en-us: Girolamo Savonarola
     eo: Girolamo Savonarola
     es: Girolamo Savonarola
@@ -162,7 +162,7 @@ dv_has_:
     pl: Girolamo Savonarola
     pms: Giròni Savonaròla
     pt: Girolamo Savonarola
-    pt-br: Girolamo Savonarola
+    pt_br: Girolamo Savonarola
     rki: ဂျီရော်လာမို ဆားဗိုနာရော်လာ
     ro: Girolamo Savonarola
     ru: Джироламо Савонарола
@@ -172,8 +172,8 @@ dv_has_:
     sl: Girolamo Savonarola
     sq: Girolamo Savonarola
     sr: Ђироламо Савонарола
-    sr-ec: Ђироламо Савонарола
-    sr-el: Đirolamo Savonarola
+    sr_ec: Ђироламо Савонарола
+    sr_el: Đirolamo Savonarola
     sv: Girolamo Savonarola
     th: จีโรลาโม ซาโวนาโรลา
     tr: Girolamo Savonarola
@@ -183,12 +183,12 @@ dv_has_:
     wuu: 吉罗拉莫·萨佛纳罗拉
     yue: 薩佛納羅拉
     zh: 薩佛納羅拉
-    zh-cn: 萨佛纳罗拉
-    zh-hans: 萨佛纳罗拉
-    zh-hant: 薩佛納羅拉
-    zh-hk: 薩佛納羅拉
-    zh-sg: 萨佛纳罗拉
-    zh-tw: 薩佛納羅拉
+    zh_cn: 萨佛纳罗拉
+    zh_hans: 萨佛纳罗拉
+    zh_hant: 薩佛納羅拉
+    zh_hk: 薩佛納羅拉
+    zh_sg: 萨佛纳罗拉
+    zh_tw: 薩佛納羅拉
 ---
 # [[Savonarola,Girolamo]] 
 

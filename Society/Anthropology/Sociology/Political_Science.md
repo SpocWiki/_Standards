@@ -140,7 +140,7 @@ dv_has_:
     ba: политология
     bcl: politolohiya
     be: паліталогія
-    be-tarask: паліталёгія
+    be_tarask: паліталёгія
     bg: политология
     bho: राजनीति विज्ञान
     bn: রাষ্ট্রবিজ্ঞান
@@ -148,7 +148,7 @@ dv_has_:
     bs: političke nauke
     btm: elmu politik
     ca: ciències polítiques
-    cbk-zam: politología
+    cbk_zam: politología
     ceb: politolohiya
     ckb: زانستی سیاسی
     cs: politologie
@@ -201,7 +201,7 @@ dv_has_:
     ko: 정치학
     krj: politolohiya
     ku: siyasetnasî
-    ku-latn: siyasetnasî
+    ku_latn: siyasetnasî
     ky: саясий илимдер
     la: scientia civilis
     lb: Politikwëssenschaft
@@ -218,7 +218,7 @@ dv_has_:
     mn: улс төрийн шинжлэх ухаан
     mr: राज्यशास्त्र
     ms: sains politik
-    ms-arab: ساءينس ڤوليتيک
+    ms_arab: ساءينس ڤوليتيک
     mwl: ciéncia política
     my: နိုင်ငံရေးသိပ္ပံ
     nb: statsvitenskap
@@ -237,7 +237,7 @@ dv_has_:
     pl: politologia
     ps: سیاسي علوم
     pt: ciência política
-    pt-br: ciência política
+    pt_br: ciência política
     ro: știință politică
     ru: политология
     rue: політолоґія
@@ -255,7 +255,7 @@ dv_has_:
     sms: valdiamätt
     sq: shkenca politike
     sr: политичке науке
-    sr-ec: политичке науке
+    sr_ec: политичке науке
     sv: statsvetenskap
     szl: politologijŏ
     ta: அரசறிவியல்
@@ -277,14 +277,14 @@ dv_has_:
     yue: 政治學
     za: cwngciyoz
     zh: 政治學
-    zh-cn: 政治学
-    zh-hans: 政治学
-    zh-hant: 政治學
-    zh-hk: 政治學
-    zh-mo: 政治學
+    zh_cn: 政治学
+    zh_hans: 政治学
+    zh_hant: 政治學
+    zh_hk: 政治學
+    zh_mo: 政治學
     zh-my: 政治学
-    zh-sg: 政治学
-    zh-tw: 政治學
+    zh_sg: 政治学
+    zh_tw: 政治學
 ---
 # [[Political_Science]] 
 

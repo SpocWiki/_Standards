@@ -188,7 +188,7 @@ dv_has_:
     az: tərcümə
     ba: тәржемә
     be: пераклад
-    be-tarask: пераклад
+    be_tarask: пераклад
     bg: превод
     bho: अनुबाद
     bn: অনুবাদ
@@ -207,11 +207,11 @@ dv_has_:
     da: oversættelse
     dag: lɛbigibu
     de: Übersetzung
-    de-ch: Übersetzung
+    de_ch: Übersetzung
     el: μετάφραση
     en: translation
-    en-ca: translation
-    en-gb: translation
+    en_ca: translation
+    en_gb: translation
     eo: traduko
     es: traducción
     et: tõlkimine
@@ -250,7 +250,7 @@ dv_has_:
     kn: ಭಾಷಾಂತರ
     ko: 번역
     ku: werger
-    ku-latn: werger
+    ku_latn: werger
     kw: Treylyans
     la: Interpretatio
     lb: Iwwersetzung
@@ -267,7 +267,7 @@ dv_has_:
     mnw: ပွမကၠာဲဘာသာ
     mr: अनुवाद
     ms: terjemahan
-    ms-arab: ترجمهن
+    ms_arab: ترجمهن
     mt: traduzzjoni
     myv: Ютавтома
     nan: Hoan-e̍k
@@ -290,7 +290,7 @@ dv_has_:
     pnb: ترجمہ
     ps: ژباړه
     pt: tradução
-    pt-br: tradução
+    pt_br: tradução
     qu: Rimay t'ikray
     ro: traducere
     ru: перевод
@@ -327,7 +327,7 @@ dv_has_:
     tr: Çeviri
     ts: Vuhundzuluxeri
     tt: тәрҗемә
-    tt-cyrl: тәрҗемә
+    tt_cyrl: тәрҗемә
     udm: кылысь кылэ берыктон
     uk: переклад
     ur: ترجمہ
@@ -345,11 +345,11 @@ dv_has_:
     za: Hoiz
     zgh: ⴰⵙⵓⵖⵍ
     zh: 翻譯
-    zh-cn: 翻译
-    zh-hans: 翻译
-    zh-hant: 翻譯
-    zh-hk: 翻譯
-    zh-tw: 翻譯
+    zh_cn: 翻译
+    zh_hans: 翻译
+    zh_hant: 翻譯
+    zh_hk: 翻譯
+    zh_tw: 翻譯
     zu: Ukuhumusha
 ---
 # [[Translation]] 

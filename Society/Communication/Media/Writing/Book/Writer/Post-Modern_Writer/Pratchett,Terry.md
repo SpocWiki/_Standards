@@ -49,11 +49,11 @@ dv_has_:
     da: Terry Pratchett
     de: Terry Pratchett
     de-at: Terry Pratchett
-    de-ch: Terry Pratchett
+    de_ch: Terry Pratchett
     el: Τέρι Πράτσετ
     en: Terry Pratchett
-    en-ca: Terry Pratchett
-    en-gb: Terry Pratchett
+    en_ca: Terry Pratchett
+    en_gb: Terry Pratchett
     eo: Terry Pratchett
     es: Terry Pratchett
     et: Terry Pratchett
@@ -98,7 +98,7 @@ dv_has_:
     pl: Terry Pratchett
     pms: Terry Pratchett
     pt: Terry Pratchett
-    pt-br: Terry Pratchett
+    pt_br: Terry Pratchett
     ro: Terry Pratchett
     ru: Терри Пратчетт
     sc: Terry Pratchett

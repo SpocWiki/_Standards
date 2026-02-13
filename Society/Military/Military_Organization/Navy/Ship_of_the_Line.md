@@ -64,7 +64,7 @@ dv_has_:
     ar: سفينة خطية
     ast: Navío de llínea
     az: Xətt gəmisi
-    be-tarask: лінейны карабель
+    be_tarask: лінейны карабель
     bg: Линеен кораб
     br: Lestr eus al linenn
     bs: Linijski brod
@@ -108,8 +108,8 @@ dv_has_:
     sl: linijska ladja
     sq: anije e linjës
     sr: линијски брод
-    sr-ec: линијски брод
-    sr-el: linijski brod
+    sr_ec: линијски брод
+    sr_el: linijski brod
     sv: linjeskepp
     th: เรือรบแนวเส้นประจัญบาน
     tr: Hat gemisi
@@ -117,12 +117,12 @@ dv_has_:
     vi: Tàu chiến tuyến
     yue: 風帆戰列艦
     zh: 风帆战列舰
-    zh-cn: 风帆战列舰
-    zh-hans: 风帆战列舰
-    zh-hant: 風帆戰列艦
-    zh-hk: 風帆戰列艦
-    zh-sg: 风帆战列舰
-    zh-tw: 風帆戰艦
+    zh_cn: 风帆战列舰
+    zh_hans: 风帆战列舰
+    zh_hant: 風帆戰列艦
+    zh_hk: 風帆戰列艦
+    zh_sg: 风帆战列舰
+    zh_tw: 風帆戰艦
 ---
 # [[Ship_of_the_Line]] 
 

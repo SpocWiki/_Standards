@@ -150,7 +150,7 @@ dv_has_:
     ba: Металлургия
     bar: Metoikunde
     be: металургія
-    be-tarask: мэталюргія
+    be_tarask: мэталюргія
     bg: Металургия
     bn: ধাতুবিদ্যা
     br: Metalouriezh
@@ -166,8 +166,8 @@ dv_has_:
     diq: Metallurciye
     el: μεταλλουργία
     en: metallurgy
-    en-ca: Metallurgy
-    en-gb: metallurgy
+    en_ca: Metallurgy
+    en_gb: metallurgy
     eo: metalurgio
     es: metalurgia
     et: metallurgia
@@ -229,7 +229,7 @@ dv_has_:
     pnb: میٹلرجی
     ps: متالورژي
     pt: metalurgia
-    pt-br: Metalurgia
+    pt_br: Metalurgia
     qu: Q'illay llamk'ay
     ro: metalurgie
     ru: металлургия

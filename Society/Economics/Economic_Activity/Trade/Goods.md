@@ -118,7 +118,7 @@ dv_has_:
     azb: مال
     ba: тауарҙар
     be: эканамічныя каштоўнасці
-    be-tarask: тавар
+    be_tarask: тавар
     bg: благо
     bn: পণ্য
     br: madoù
@@ -133,7 +133,7 @@ dv_has_:
     de: Gut
     el: αγαθό
     en: goods
-    en-gb: goods
+    en_gb: goods
     eo: varo
     es: bienes
     eu: ondasun
@@ -169,7 +169,7 @@ dv_has_:
     mni: ꯑꯐꯕ
     mr: व्यापारमाल
     ms: barang
-    ms-arab: بارڠ
+    ms_arab: بارڠ
     my: ကုန်စည်
     nan: Châi-hoè
     nb: vare
@@ -180,7 +180,7 @@ dv_has_:
     pl: dobra
     ps: توکي
     pt: bem
-    pt-br: bem
+    pt_br: bem
     ro: bunuri
     ru: экономическое благо
     sah: Быйаҥ
@@ -191,8 +191,8 @@ dv_has_:
     sl: dobrina
     sq: mall
     sr: добро
-    sr-ec: добро
-    sr-el: dobro
+    sr_ec: добро
+    sr_el: dobro
     sv: vara
     sw: Bidhaa
     ta: பண்டம்
@@ -200,7 +200,7 @@ dv_has_:
     th: เศรษฐทรัพย์
     tr: mal
     tt: мал
-    tt-cyrl: икътисадый яхшылык
+    tt_cyrl: икътисадый яхшылык
     uk: благо економічне
     ur: اشیاء
     vec: ben
@@ -209,8 +209,8 @@ dv_has_:
     yo: ọjà
     yue: 貨
     zh: 商品
-    zh-hant: 商品
-    zh-tw: 商品
+    zh_hant: 商品
+    zh_tw: 商品
     zu: Izingudla
 ---
 # [[Goods]] 

@@ -64,7 +64,7 @@ dv_has_:
     az: Robert Dauni
     azb: رابرت داونی جونیور
     be: Роберт Даўні-мал.
-    be-tarask: Робэрт Даўні-малодшы
+    be_tarask: Робэрт Даўні-малодшы
     bg: Робърт Дауни Джуниър
     bn: রবার্ট ডাউনি জুনিয়র
     br: Robert Downey Jr.
@@ -75,13 +75,13 @@ dv_has_:
     cy: Robert Downey
     da: Robert Downey Jr.
     de: Robert Downey Jr.
-    de-ch: Robert Downey Jr.
+    de_ch: Robert Downey Jr.
     diq: Robert Downey Jr.
     el: Ρόμπερτ Ντάουνι Τζούνιορ
     eml: Robert Downey Jr.
     en: Robert Downey Jr.
-    en-ca: Robert Downey, Jr.
-    en-gb: Robert Downey, Jr.
+    en_ca: Robert Downey, Jr.
+    en_gb: Robert Downey, Jr.
     en-us: Robert Downey Jr.
     eo: Robert Downey Jr.
     es: Robert Downey Jr.
@@ -134,7 +134,7 @@ dv_has_:
     pap: Robert Downey
     pl: Robert Downey Jr.
     pt: Robert Downey Jr.
-    pt-br: Robert Downey Jr.
+    pt_br: Robert Downey Jr.
     qu: Robert Downey Jr.
     ro: Robert Downey
     ru: Роберт Дауни-младший
@@ -144,8 +144,8 @@ dv_has_:
     sl: Robert Downey
     sq: Robert Downey Jr
     sr: Роберт Дауни млађи
-    sr-ec: Роберт Дауни млађи
-    sr-el: Robert Dauni mlađi
+    sr_ec: Роберт Дауни млађи
+    sr_el: Robert Dauni mlađi
     su: Robert Downey Jr.
     sv: Robert Downey Jr.
     sw: Robert Downey Jr.
@@ -155,7 +155,7 @@ dv_has_:
     tl: Robert Downey
     tr: Robert Downey Jr.
     tt: Роберт Дауни-кече
-    tt-cyrl: Роберт Дауни-кече
+    tt_cyrl: Роберт Дауни-кече
     uk: Роберт Дауні-молодший
     ur: رابرٹ ڈاؤنی جونیئر
     uz: Robert Downey Jr.
@@ -167,13 +167,13 @@ dv_has_:
     yo: Robert Downey Jr.
     yue: 羅拔唐尼
     zh: 小勞勃·道尼
-    zh-cn: 小罗伯特·唐尼
-    zh-hans: 小罗伯特·唐尼
-    zh-hant: 小勞勃·道尼
-    zh-hk: 羅拔·唐尼
+    zh_cn: 小罗伯特·唐尼
+    zh_hans: 小罗伯特·唐尼
+    zh_hant: 小勞勃·道尼
+    zh_hk: 羅拔·唐尼
     zh-my: 小罗拔·道尼
-    zh-sg: 小劳勃·道尼
-    zh-tw: 小勞勃·道尼
+    zh_sg: 小劳勃·道尼
+    zh_tw: 小勞勃·道尼
 ---
 #has_/time_/started :: 1965-04-04 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

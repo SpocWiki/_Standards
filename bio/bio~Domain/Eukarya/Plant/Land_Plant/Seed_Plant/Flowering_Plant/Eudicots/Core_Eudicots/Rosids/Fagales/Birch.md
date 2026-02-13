@@ -174,7 +174,7 @@ dv_has_:
     az: Tozağacı
     ba: Ҡайын
     be: бяроза
-    be-tarask: бяроза
+    be_tarask: бяроза
     bg: бреза
     bn: বার্চ
     bo: ཤིང་སྟག་པ།
@@ -189,10 +189,10 @@ dv_has_:
     cy: Bedwen
     da: birk
     de: Birken
-    de-ch: Birken
+    de_ch: Birken
     el: Σημύδα
     en: Betula
-    en-ca: Birch
+    en_ca: Birch
     eo: Betulo
     es: Betula
     et: kask
@@ -249,7 +249,7 @@ dv_has_:
     myv: килей
     nb: bjørkeslekten
     nds: Bark
-    nds-nl: birk
+    nds_nl: birk
     ne: सउर
     nl: berk
     nn: bjørk
@@ -261,7 +261,7 @@ dv_has_:
     pl: brzoza
     pnb: برچ
     pt: Bétula
-    pt-br: Bétula
+    pt_br: Bétula
     qu: Awidul
     ro: mesteacăn
     ru: берёза
@@ -283,7 +283,7 @@ dv_has_:
     tl: Betula
     tr: Huş
     tt: каен
-    tt-cyrl: каен
+    tt_cyrl: каен
     tyv: Хадың
     udm: кызьпу
     uk: береза
@@ -298,10 +298,10 @@ dv_has_:
     wuu: 桦木属
     yue: 樺樹
     zh: 桦木属
-    zh-cn: 桦木属
-    zh-hans: 桦木属
-    zh-hant: 樺木屬
-    zh-tw: 樺屬
+    zh_cn: 桦木属
+    zh_hans: 桦木属
+    zh_hant: 樺木屬
+    zh_tw: 樺屬
 ---
 # [[Birch]] 
 

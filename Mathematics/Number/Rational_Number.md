@@ -155,7 +155,7 @@ dv_has_:
     azb: راسیونال ساییلار
     ba: рациональ һан
     be: рацыянальны лік
-    be-tarask: рацыянальны лік
+    be_tarask: рацыянальны лік
     bg: рационално число
     bn: মূলদ সংখ্যা
     br: niver feurek
@@ -170,8 +170,8 @@ dv_has_:
     el: ρητός αριθμός
     eml: nómmer raziunèl
     en: rational number
-    en-ca: rational number
-    en-gb: rational number
+    en_ca: rational number
+    en_gb: rational number
     eo: racionala nombro
     es: número racional
     et: ratsionaalarvud
@@ -238,7 +238,7 @@ dv_has_:
     pms: nùmer rassional
     pnb: ریشنل نمبر
     pt: número racional
-    pt-br: número racional
+    pt_br: número racional
     rki: ရာရှင်နယ်ကိန်း
     ro: număr rațional
     ru: рациональное число
@@ -255,7 +255,7 @@ dv_has_:
     sn: nhamba svinu
     sq: numër racional
     sr: рационалан број
-    sr-ec: рационалан број
+    sr_ec: рационалан број
     sv: rationella tal
     ta: விகிதமுறு எண்
     tg: адади ратсионалӣ
@@ -277,14 +277,14 @@ dv_has_:
     yo: nọ́mbà oníìpín
     yue: 有理數
     zh: 有理数
-    zh-cn: 有理数
-    zh-hans: 有理数
-    zh-hant: 有理數
-    zh-hk: 有理數
-    zh-mo: 有理數
+    zh_cn: 有理数
+    zh_hans: 有理数
+    zh_hant: 有理數
+    zh_hk: 有理數
+    zh_mo: 有理數
     zh-my: 有理数
-    zh-sg: 有理数
-    zh-tw: 有理數
+    zh_sg: 有理数
+    zh_tw: 有理數
 ---
 # [[Rational_Number]] 
 

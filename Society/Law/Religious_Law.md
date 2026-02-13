@@ -62,7 +62,7 @@ dv_has_:
     ar: قانون ديني
     ast: derechu relixosu
     be: рэлігійнае права
-    be-tarask: рэлігійнае права
+    be_tarask: рэлігійнае права
     bg: Религиозно право
     ca: dret religiós
     ckb: شەریعەت
@@ -71,8 +71,8 @@ dv_has_:
     de: Kirchenrecht
     el: θρησκευτικός νόμος
     en: religious law
-    en-ca: religious law
-    en-gb: religious law
+    en_ca: religious law
+    en_gb: religious law
     en-us: religious law
     eo: religia juro
     es: derecho religioso
@@ -99,14 +99,14 @@ dv_has_:
     oc: Drech religiós
     pl: prawo wyznaniowe
     pt: direito religioso
-    pt-br: direito religioso
+    pt_br: direito religioso
     ro: drept bisericesc
     ru: Религиозное право
     sk: konfesné právo
     sl: versko pravo
     sq: Ligji fetar
     sr: Верски закон
-    sr-ec: верски закон
+    sr_ec: верски закон
     sv: religiös lag
     tg: Аҳкоми дин
     tr: dinî hukuk

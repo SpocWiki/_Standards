@@ -89,7 +89,7 @@ dv_has_:
     ar: دوران الغلاف الجوي
     ast: circulación atmosférica
     az: atmosfer sirkulyasiyası
-    be-tarask: цыркуляцыя атмасфэры
+    be_tarask: цыркуляцыя атмасфэры
     bn: বায়ুপ্রবাহ
     ca: circulació atmosfèrica
     cs: globální cirkulace atmosféry
@@ -98,8 +98,8 @@ dv_has_:
     de: planetarische Zirkulation
     el: ατμοσφαιρική κυκλοφορία
     en: atmospheric circulation
-    en-ca: atmospheric circulation
-    en-gb: atmospheric circulation
+    en_ca: atmospheric circulation
+    en_gb: atmospheric circulation
     es: circulación atmosférica
     et: üldine õhuringlus
     eu: mundu mailako haize-sistemak
@@ -122,13 +122,13 @@ dv_has_:
     mn: агаар мандлын эргэлт
     mr: वायुवीजन
     ms: peredaran atmosfera
-    ms-arab: ڤرايدرن اتموسفيرا
+    ms_arab: ڤرايدرن اتموسفيرا
     nb: atmosfærisk sirkulasjon
     nl: atmosferische circulatie
     nn: atmosfærisk sirkulasjon
     pl: cyrkulacja powietrza
     pt: circulação atmosférica
-    pt-br: circulação atmosférica
+    pt_br: circulação atmosférica
     ro: circulația atmosferică
     ru: циркуляция атмосферы
     sl: atmosfersko kroženje

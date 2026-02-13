@@ -78,14 +78,14 @@ dv_has_:
     ar: جاذب عظيم
     ast: Gran Atractor
     be: Вялікі атрактар
-    be-tarask: вялікі атрактар
+    be_tarask: вялікі атрактар
     bn: মহা আকর্ষক
     ca: Gran Atractor
     cs: Velký atraktor
     cy: Atynydd Mawr
     da: Den store tiltrækker
     de: Großer Attraktor
-    de-ch: Grosser Attraktor
+    de_ch: Grosser Attraktor
     el: Μέγας Ελκυστής
     en: Great Attractor
     eo: Granda Altiranto
@@ -125,9 +125,9 @@ dv_has_:
     wuu: 巨引源
     yue: 巨引源
     zh: 巨引源
-    zh-hans: 巨引源
-    zh-hant: 巨引源
-    zh-hk: 巨引源
+    zh_hans: 巨引源
+    zh_hant: 巨引源
+    zh_hk: 巨引源
 ---
 # [[Great_Attractor]] 
 

@@ -119,7 +119,7 @@ dv_has_:
     ba: әсетмә
     ban: oksidator
     be: акісляльнік
-    be-tarask: затляняльнік
+    be_tarask: затляняльнік
     bg: окислител
     bn: জারক
     bs: oksidans
@@ -132,7 +132,7 @@ dv_has_:
     de: Oxidationsmittel
     el: οξειδοαναγωγικά σώματα
     en: oxidizing agent
-    en-gb: oxidising agent
+    en_gb: oxidising agent
     eo: oksidanto
     es: oxidante
     et: oksüdeerija
@@ -153,11 +153,11 @@ dv_has_:
     it: ossidante
     ja: 酸化剤
     kk: тотықтырғыш
-    kk-arab: توتىقتىرعىش
+    kk_arab: توتىقتىرعىش
     kk-cn: توتىقتىرعىش
-    kk-cyrl: тотықтырғыш
+    kk_cyrl: тотықтырғыш
     kk-kz: тотықтырғыш
-    kk-latn: totıqtırğış
+    kk_latn: totıqtırğış
     kk-tr: totıqtırğış
     ko: 산화제
     la: agens oxidizax
@@ -179,8 +179,8 @@ dv_has_:
     sk: oxidačné činidlo
     sl: oksidacijsko sredstvo
     sr: oksidacioni angens
-    sr-ec: оксидациони ангенс
-    sr-el: oksidacioni angens
+    sr_ec: оксидациони ангенс
+    sr_el: oksidacioni angens
     sv: oxidationsmedel
     ta: ஆக்சிசனேற்றி
     th: ตัวออกซิไดซ์
@@ -194,12 +194,12 @@ dv_has_:
     wuu: 氧化剂
     yue: 氧化劑
     zh: 氧化剂
-    zh-cn: 氧化剂
-    zh-hans: 氧化剂
-    zh-hant: 氧化劑
-    zh-hk: 氧化劑
-    zh-sg: 氧化剂
-    zh-tw: 氧化劑
+    zh_cn: 氧化剂
+    zh_hans: 氧化剂
+    zh_hant: 氧化劑
+    zh_hk: 氧化劑
+    zh_sg: 氧化剂
+    zh_tw: 氧化劑
 ---
 # [[Oxidizing_Agent]] 
 

@@ -81,7 +81,7 @@ dv_has_:
     ast: guerra psicolóxica
     az: psixoloji müharibə
     be: псіхалагічная вайна
-    be-tarask: псыхалягічная вайна
+    be_tarask: псыхалягічная вайна
     bg: Психологическа война
     bn: মনস্তাত্ত্বিক যুদ্ধবিগ্রহ
     ca: guerra psicològica
@@ -111,8 +111,8 @@ dv_has_:
     kk: Психологиялық соғыс
     ko: 심리전
     ku: șerê psîkolojîk
-    ku-arab: شەرێ پسیکۆلۆژیک
-    ku-latn: șerê psîkolojîk
+    ku_arab: شەرێ پسیکۆلۆژیک
+    ku_latn: șerê psîkolojîk
     la: bellum psychicum
     lv: psiholoģiskais karš
     mk: Психолошка војна
@@ -139,12 +139,12 @@ dv_has_:
     vi: Chiến tranh tâm lý
     yue: 心理戰
     zh: 心理战
-    zh-cn: 心理战
-    zh-hans: 心理战
-    zh-hant: 心理戰
-    zh-hk: 心理戰
-    zh-sg: 心理战
-    zh-tw: 心理戰
+    zh_cn: 心理战
+    zh_hans: 心理战
+    zh_hant: 心理戰
+    zh_hk: 心理戰
+    zh_sg: 心理战
+    zh_tw: 心理戰
 ---
 # [[Psychological_Warfare]] 
 

@@ -86,7 +86,7 @@ dv_has_:
     ast: protoestrella
     az: protoulduz
     be: протазорка
-    be-tarask: пратазорка
+    be_tarask: пратазорка
     bg: протозвезда
     bn: আদ্যনক্ষত্র
     bs: protozvijezda
@@ -97,8 +97,8 @@ dv_has_:
     de: Protostern
     el: πρωτοαστέρας
     en: protostar
-    en-ca: protostar
-    en-gb: protostar
+    en_ca: protostar
+    en_gb: protostar
     eo: proto-stelo
     es: protoestrella
     et: prototäht
@@ -132,15 +132,15 @@ dv_has_:
     nn: protostjerne
     pl: protogwiazda
     pt: protoestrela
-    pt-br: protoestrela
+    pt_br: protoestrela
     ro: protostea
     ru: протозвезда
     sh: protozvezda
     sk: protohviezda
     sl: protozvezda
     sr: протозвезда
-    sr-ec: протозвезда
-    sr-el: protozvezda
+    sr_ec: протозвезда
+    sr_el: protozvezda
     sv: protostjärna
     ta: முகிழ் மீன்
     th: ดาวฤกษ์ก่อนเกิด
@@ -152,12 +152,12 @@ dv_has_:
     wuu: 原恒星
     yue: 原恆星
     zh: 原恆星
-    zh-cn: 原恒星
-    zh-hans: 原恒星
-    zh-hant: 原恆星
-    zh-hk: 原恆星
-    zh-sg: 原恒星
-    zh-tw: 原恆星
+    zh_cn: 原恒星
+    zh_hans: 原恒星
+    zh_hant: 原恆星
+    zh_hk: 原恆星
+    zh_sg: 原恒星
+    zh_tw: 原恆星
 ---
 # [[Protostar]] 
 

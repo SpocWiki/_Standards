@@ -117,14 +117,14 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/20160520-RD-LSC-0803%2
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Lieslipning%20p%C3%A5%20Skansen.webm
 dv_has_:
   name_:
-    aeb-arab: محشّة
+    aeb_arab: محشّة
     af: Sens
     an: Dallo
     ar: محش
     ast: Gadaña
     bar: Sans
     be: каса
-    be-tarask: каса
+    be_tarask: каса
     bg: Коса
     br: Falc'h
     ca: dalla
@@ -195,8 +195,8 @@ dv_has_:
     sl: kosa
     sq: Kosa
     sr: Коса
-    sr-ec: коса
-    sr-el: kosa
+    sr_ec: коса
+    sr_el: kosa
     stq: Saise
     sv: lie
     sw: Fyekeo
@@ -212,12 +212,12 @@ dv_has_:
     wuu: 大镰
     yue: 大鐮刀
     zh: 大镰
-    zh-cn: 大镰
-    zh-hans: 大镰
-    zh-hant: 大鐮
-    zh-hk: 大鐮
-    zh-sg: 大镰
-    zh-tw: 大鐮
+    zh_cn: 大镰
+    zh_hans: 大镰
+    zh_hant: 大鐮
+    zh_hk: 大鐮
+    zh_sg: 大镰
+    zh_tw: 大鐮
 ---
 # [[Scythe]] 
 

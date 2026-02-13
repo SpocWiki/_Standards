@@ -42,12 +42,12 @@ dv_has_:
     cy: Red Bull
     da: Red Bull
     de: Red Bull
-    de-ch: Red Bull
+    de_ch: Red Bull
     el: Red Bull
     eml: Red Bull
     en: Red Bull
-    en-ca: Red Bull
-    en-gb: Red Bull
+    en_ca: Red Bull
+    en_gb: Red Bull
     en-us: Red Bull
     eo: Red Bull
     es: Red Bull
@@ -89,7 +89,7 @@ dv_has_:
     pl: Red Bull
     ps: ریډ بول
     pt: Red Bull
-    pt-br: Red Bull
+    pt_br: Red Bull
     rm: Red Bull
     ro: Red Bull
     ru: Red Bull
@@ -108,11 +108,11 @@ dv_has_:
     vi: Red Bull
     yue: 紅牛
     zh: 紅牛
-    zh-cn: 红牛
-    zh-hans: 红牛
-    zh-hant: 紅牛
-    zh-sg: 红牛
-    zh-tw: 紅牛
+    zh_cn: 红牛
+    zh_hans: 红牛
+    zh_hant: 紅牛
+    zh_sg: 红牛
+    zh_tw: 紅牛
 ---
 > **Red Bull** is a brand of energy drinks created and owned by the Austrian company Red Bull GmbH. 
 > With a market share of 43%, it is the most popular energy drink brand as of 2020, 

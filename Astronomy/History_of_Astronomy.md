@@ -102,7 +102,7 @@ dv_has_:
     ast: Historia de l'astronomía
     az: Astronomiya tarixi
     be: гісторыя астраноміі
-    be-tarask: гісторыя астраноміі
+    be_tarask: гісторыя астраноміі
     bg: история на астрономията
     bn: জ্যোতির্বিজ্ঞানের ইতিহাস
     ca: història de l'astronomia
@@ -152,7 +152,7 @@ dv_has_:
     sms: täʹsnntiõtti historia
     sq: Historia e Astronomisë
     sr: историја астрономије
-    sr-ec: историја астрономије
+    sr_ec: историја астрономије
     sv: astronomins historia
     tr: gök bilimi tarihi
     tt: астрономия тарихы
@@ -161,9 +161,9 @@ dv_has_:
     vi: lịch sử thiên văn học
     yue: 天文史
     zh: 天文学史
-    zh-cn: 天文学史
-    zh-hans: 天文学史
-    zh-hant: 天文學史
+    zh_cn: 天文学史
+    zh_hans: 天文学史
+    zh_hant: 天文學史
 ---
 # [[History_of_Astronomy]] 
 

@@ -80,7 +80,7 @@ dv_has_:
     av: бидул хӀалтӀи
     az: nəbz
     be: пульс
-    be-tarask: пульс
+    be_tarask: пульс
     bg: пулс
     bn: নাড়ির স্পন্দন
     ca: pols arterial
@@ -139,7 +139,7 @@ dv_has_:
     sk: pulz
     sl: pulz
     sr: пулс
-    sr-ec: пулс
+    sr_ec: пулс
     sv: puls
     ta: இதயத் துடிப்பு
     tg: Набз
@@ -152,12 +152,12 @@ dv_has_:
     wuu: 脉搏
     yue: 脈搏
     zh: 脉搏
-    zh-cn: 脉搏
-    zh-hans: 脉搏
-    zh-hant: 脈搏
-    zh-hk: 脈搏
-    zh-sg: 脉搏
-    zh-tw: 脈搏
+    zh_cn: 脉搏
+    zh_hans: 脉搏
+    zh_hant: 脈搏
+    zh_hk: 脈搏
+    zh_sg: 脉搏
+    zh_tw: 脈搏
 ---
 # [[Pulse]] 
 

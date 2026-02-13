@@ -116,7 +116,7 @@ dv_has_:
     az: Tritium
     ban: Tritium
     be: трыцій
-    be-tarask: трыт
+    be_tarask: трыт
     bg: Тритий
     bn: ট্রিটিয়াম
     br: Tritiom
@@ -127,11 +127,11 @@ dv_has_:
     cy: tritiwm
     da: tritium
     de: Tritium
-    de-ch: Tritium
+    de_ch: Tritium
     el: τρίτιο
     en: tritium
-    en-ca: Tritium
-    en-gb: tritium
+    en_ca: Tritium
+    en_gb: tritium
     eo: tricio
     es: tritio
     et: triitium
@@ -171,7 +171,7 @@ dv_has_:
     pl: tryt
     pnb: ٹریٹیم
     pt: trítio
-    pt-br: trítio
+    pt_br: trítio
     ro: tritiu
     ru: тритий
     sh: Tricijum
@@ -191,9 +191,9 @@ dv_has_:
     wuu: 氚
     yue: 氚
     zh: 氚
-    zh-cn: 氚
-    zh-hans: 氚
-    zh-hant: 氚
+    zh_cn: 氚
+    zh_hans: 氚
+    zh_hant: 氚
 ---
 # [[Tritium]] 
 

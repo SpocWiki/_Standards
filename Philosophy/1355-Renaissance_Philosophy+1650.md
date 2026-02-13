@@ -87,7 +87,7 @@ dv_has_:
     ast: Filosofía renacentista
     az: İntibah dövrü fəlsəfəsi
     ba: Яңырыу фәлсәфәһе
-    be-tarask: філязофія Адраджэньня
+    be_tarask: філязофія Адраджэньня
     bg: Философия на Ренесанса
     bn: রেনেসাঁ দর্শন
     bs: Filozofija renesanse
@@ -125,7 +125,7 @@ dv_has_:
     pl: Filozofia renesansu
     pms: Filosofìa rinassimental
     pt: Filosofia do renascimento
-    pt-br: Filosofia do renascimento
+    pt_br: Filosofia do renascimento
     ru: философия Возрождения
     sk: renesančná filozofia
     sl: renesančna filozofija
@@ -137,9 +137,9 @@ dv_has_:
     uk: філософія Відродження
     vi: Triết học Phục hưng
     zh: 文艺复兴时期哲学
-    zh-cn: 文艺复兴哲学
-    zh-hans: 文艺复兴哲学
-    zh-hant: 文藝復興哲學
+    zh_cn: 文艺复兴哲学
+    zh_hans: 文艺复兴哲学
+    zh_hant: 文藝復興哲學
 ---
 # [[1355-Renaissance_Philosophy+1650]] 
 

@@ -73,7 +73,7 @@ dv_has_:
     ar: مجموعة ماندلبرو
     ast: Conxuntu de Mandelbrot
     ba: Мандельброт күплеге
-    be-tarask: мноства Мандэльброта
+    be_tarask: мноства Мандэльброта
     bg: Множество на Манделброт
     bn: ম্যান্ডেলব্রট সেট
     ca: Conjunt de Mandelbrot
@@ -81,11 +81,11 @@ dv_has_:
     cs: Mandelbrotova množina
     da: mandelbrotmængden
     de: Mandelbrot-Menge
-    de-ch: Mandelbrot-Menge
+    de_ch: Mandelbrot-Menge
     el: Σύνολο Μάντελμπροτ
     en: Mandelbrot set
-    en-ca: Mandelbrot set
-    en-gb: Mandelbrot set
+    en_ca: Mandelbrot set
+    en_gb: Mandelbrot set
     eo: aro de Mandelbrot
     es: conjunto de Mandelbrot
     et: Mandelbroti fraktal
@@ -113,7 +113,7 @@ dv_has_:
     oc: Ensemble de Mandelbrot
     pl: zbiór Mandelbrota
     pt: conjunto de Mandelbrot
-    pt-br: conjunto de Mandelbrot
+    pt_br: conjunto de Mandelbrot
     ro: Mulțimea lui Mandelbrot
     ru: множество Мандельброта
     sco: Mandelbrot set
@@ -131,8 +131,8 @@ dv_has_:
     wuu: 曼德博集合
     yue: 曼德博集合
     zh: 曼德博集合
-    zh-hans: 曼德博集合
-    zh-hant: 曼德博集合
+    zh_hans: 曼德博集合
+    zh_hant: 曼德博集合
 ---
 # [[Mandelbrot_Set]] 
 

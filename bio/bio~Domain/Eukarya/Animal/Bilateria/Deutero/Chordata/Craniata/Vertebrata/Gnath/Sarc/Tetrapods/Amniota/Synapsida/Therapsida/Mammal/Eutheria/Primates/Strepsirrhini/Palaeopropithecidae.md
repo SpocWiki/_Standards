@@ -44,9 +44,9 @@ dv_has_:
     vi: Palaeopropithecidae
     war: Palaeopropithecidae
     zh: 古原狐猴科
-    zh-cn: 古原狐猴科
-    zh-hans: 古原狐猴科
-    zh-tw: 古原狐猴科
+    zh_cn: 古原狐猴科
+    zh_hans: 古原狐猴科
+    zh_tw: 古原狐猴科
 ---
 ## Phylogeny 
 

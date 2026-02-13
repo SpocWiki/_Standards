@@ -198,7 +198,7 @@ dv_has_:
     azb: قره آغاج
     ba: Ҡарама
     be: вяз
-    be-tarask: вяз
+    be_tarask: вяз
     bg: бряст
     bo: ཡོམ་འབོག་ཤིང་།
     br: Oulm
@@ -242,11 +242,11 @@ dv_has_:
     ja: ニレ
     ka: თელა
     kk: Шегіршін
-    kk-arab: شەگىرشىن
+    kk_arab: شەگىرشىن
     kk-cn: شەگىرشىن
-    kk-cyrl: Шегіршін
+    kk_cyrl: Шегіршін
     kk-kz: Шегіршін
-    kk-latn: Şegirşin
+    kk_latn: Şegirşin
     kk-tr: Şegirşin
     kn: ಎಲ್ಮ್ ಗಿಡ
     ko: 느릅나무속
@@ -270,7 +270,7 @@ dv_has_:
     pcd: Orme
     pl: wiąz
     pt: Ulmeiro
-    pt-br: Ulmus
+    pt_br: Ulmus
     ro: Ulm
     ru: вяз
     se: jálvvit
@@ -281,8 +281,8 @@ dv_has_:
     smn: jaalvah
     sq: Ulmus
     sr: брест
-    sr-ec: брест
-    sr-el: brest
+    sr_ec: брест
+    sr_el: brest
     sv: almsläktet
     ta: எல்ம்
     tly: Vyzym
@@ -297,12 +297,12 @@ dv_has_:
     wuu: 榆属
     yue: 榆屬
     zh: 榆属
-    zh-cn: 榆屬
-    zh-hans: 榆属
-    zh-hant: 榆屬
-    zh-hk: 榆屬
-    zh-sg: 榆属
-    zh-tw: 榆屬
+    zh_cn: 榆屬
+    zh_hans: 榆属
+    zh_hant: 榆屬
+    zh_hk: 榆屬
+    zh_sg: 榆属
+    zh_tw: 榆屬
 ---
 # [[Elm]] 
 

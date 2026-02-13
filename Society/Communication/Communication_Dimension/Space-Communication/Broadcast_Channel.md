@@ -128,7 +128,7 @@ dv_has_:
     az: yayım
     ba: телерадиотапшырыу
     be: тэле- і радыёвяшчанне
-    be-tarask: тэлерадыёвяшчаньне
+    be_tarask: тэлерадыёвяшчаньне
     bew: Umrup
     bn: সম্প্রচার
     br: skignañ
@@ -174,7 +174,7 @@ dv_has_:
     nn: kringkasting
     pl: transmitowanie
     pt: radiodifusão
-    pt-br: radiodifusão
+    pt_br: radiodifusão
     ro: Radioteleviziune
     ru: телерадиовещание
     sco: broadcastin
@@ -189,7 +189,7 @@ dv_has_:
     th: การแพร่สัญญาณ
     tr: yayıncılık
     tt: телерадиотапшыру
-    tt-cyrl: телерадиотапшыру
+    tt_cyrl: телерадиотапшыру
     uk: телерадіомовлення
     ur: نشریہ
     uz: radioeshittirish
@@ -198,14 +198,14 @@ dv_has_:
     wuu: 广播
     yue: 廣播
     zh: 廣播
-    zh-cn: 广播
-    zh-hans: 广播
-    zh-hant: 廣播
-    zh-hk: 廣播
-    zh-mo: 廣播
+    zh_cn: 广播
+    zh_hans: 广播
+    zh_hant: 廣播
+    zh_hk: 廣播
+    zh_mo: 廣播
     zh-my: 广播
-    zh-sg: 广播
-    zh-tw: 廣播
+    zh_sg: 广播
+    zh_tw: 廣播
     zu: Ukusakaza
 ---
 # [[Broadcast_Channel]]

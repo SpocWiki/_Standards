@@ -203,7 +203,7 @@ dv_has_:
     ast: Søren Kierkegaard
     az: Sorn Kyerkeqor
     be: Сёрэн Абю К'еркегор
-    be-tarask: Сёрэн Абю К’еркегор
+    be_tarask: Сёрэн Абю К’еркегор
     bg: Сьорен Киркегор
     bjn: Søren Kierkegaard
     bn: সোরেন কিয়ের্কেগার্ড
@@ -216,11 +216,11 @@ dv_has_:
     cy: Søren Kierkegaard
     da: Søren Kierkegaard
     de: Søren Kierkegaard
-    de-ch: Søren Kierkegaard
+    de_ch: Søren Kierkegaard
     el: Σαίρεν Κίρκεγκωρ
     en: Søren Kierkegaard
-    en-ca: Søren Kierkegaard
-    en-gb: Søren Kierkegaard
+    en_ca: Søren Kierkegaard
+    en_gb: Søren Kierkegaard
     eo: Søren Kierkegaard
     es: Søren Kierkegaard
     et: Søren Kierkegaard
@@ -274,7 +274,7 @@ dv_has_:
     nan: Søren Kierkegaard
     nap: Søren Kierkegaard
     nb: Søren Kierkegaard
-    nds-nl: Søren Kierkegaard
+    nds_nl: Søren Kierkegaard
     new: सोररेन आब्ये किर्केगार्ड
     nl: Søren Kierkegaard
     nn: Søren Kierkegaard
@@ -285,7 +285,7 @@ dv_has_:
     pnb: سورین کیرکیگارد
     ps: سورن کی یرکګارډ
     pt: Søren Kierkegaard
-    pt-br: Søren Kierkegaard
+    pt_br: Søren Kierkegaard
     qu: Søren Kierkegaard
     rm: Søren Kierkegaard
     ro: Søren Kierkegaard
@@ -323,10 +323,10 @@ dv_has_:
     yo: Søren Kierkegaard
     yue: 祁克果
     zh: 索倫·克爾凱郭爾
-    zh-cn: 索伦·克尔凯郭尔
+    zh_cn: 索伦·克尔凯郭尔
     zh-hans: 索伦·克尔凯郭尔
-    zh-hk: 索倫·祁克果
-    zh-tw: 索倫·齊克果
+    zh_hk: 索倫·祁克果
+    zh_tw: 索倫·齊克果
 ---
 # [[Kierkegaard,Søren]] 
 

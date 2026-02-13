@@ -143,7 +143,7 @@ dv_has_:
     ba: Джованни Пьерлуиджи Палестрина
     bar: Giovanni Pierluigi da Palestrina
     be: Джавані П'ерлуіджы да Палестрына
-    be-tarask: Джаваньні П’ерлюіджы да Палестрына
+    be_tarask: Джаваньні П’ерлюіджы да Палестрына
     bg: Джовани Пиерлуиджи да Палестрина
     bi: Giovanni Pierluigi da Palestrina
     bn: জোভান্নি পিয়েরলুইজি দা পালেস্ত্রিনা
@@ -209,7 +209,7 @@ dv_has_:
     pl: Giovanni Pierluigi da Palestrina
     pnb: گیوانی پرلوگی ڈا پالسٹرینا
     pt: Giovanni Pierluigi da Palestrina
-    pt-br: Giovanni Pierluigi da Palestrina
+    pt_br: Giovanni Pierluigi da Palestrina
     ro: Giovanni Pierluigi da Palestrina
     ru: Джованни Пьерлуиджи Палестрина
     rue: Джованні Пєрлуїджі да Палестріна
@@ -220,8 +220,8 @@ dv_has_:
     sl: Giovanni Pierluigi da Palestrina
     sq: Giovanni Pierluigi da Palestrina
     sr: Ђовани Пјерлуиђи да Палестрина
-    sr-ec: Ђовани Пјерлуиђи да Палестрина
-    sr-el: Đovani Pjerluiđi da Palestrina
+    sr_ec: Ђовани Пјерлуиђи да Палестрина
+    sr_el: Đovani Pjerluiđi da Palestrina
     sv: Giovanni Pierluigi da Palestrina
     sw: Giovanni da Palestrina
     szy: pulaysetelina帕萊斯特里納
@@ -241,12 +241,12 @@ dv_has_:
     yi: דזיאוואני דא פאלעסטרינא
     yue: 巴勒斯天連拿
     zh: 乔瓦尼·皮耶路易吉·达·帕莱斯特里纳
-    zh-cn: 乔瓦尼·皮耶路易吉·达·帕莱斯特里纳
-    zh-hans: 乔瓦尼·皮耶路易吉·达·帕莱斯特里纳
-    zh-hant: 喬瓦尼·皮耶路易吉·達·帕萊斯特里納
-    zh-hk: 喬瓦尼·皮耶路易吉·達·帕萊斯特里納
-    zh-sg: 乔瓦尼·皮耶路易吉·达·帕莱斯特里纳
-    zh-tw: 喬瓦尼·皮耶路易吉·達·帕萊斯特里納
+    zh_cn: 乔瓦尼·皮耶路易吉·达·帕莱斯特里纳
+    zh_hans: 乔瓦尼·皮耶路易吉·达·帕莱斯特里纳
+    zh_hant: 喬瓦尼·皮耶路易吉·達·帕萊斯特里納
+    zh_hk: 喬瓦尼·皮耶路易吉·達·帕萊斯特里納
+    zh_sg: 乔瓦尼·皮耶路易吉·达·帕莱斯特里纳
+    zh_tw: 喬瓦尼·皮耶路易吉·達·帕萊斯特里納
 ---
 ## #has_/text_of_/abstract 
 

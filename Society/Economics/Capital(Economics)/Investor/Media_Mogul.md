@@ -66,7 +66,7 @@ dv_has_:
   name_:
     ar: مالك وسائل الإعلام
     ast: empresariu de medios
-    be-tarask: мэдыямагнат
+    be_tarask: мэдыямагнат
     ca: empresari de mitjans
     cs: mediální magnát
     cv: Медиа-магнат
@@ -74,7 +74,7 @@ dv_has_:
     da: medieindehaver
     de: Medienunternehmer
     en: media proprietor
-    en-gb: media proprietor
+    en_gb: media proprietor
     eo: amaskomunikila posedanto
     es: empresario de medios
     eu: euskarriaren jabea
@@ -103,10 +103,10 @@ dv_has_:
     vec: inprezàrio de mèdia
     vi: Trùm truyền thông
     zh: 媒體大亨
-    zh-cn: 媒体大亨
-    zh-hans: 媒体大亨
-    zh-hant: 媒體大亨
-    zh-tw: 媒體大亨
+    zh_cn: 媒体大亨
+    zh_hans: 媒体大亨
+    zh_hant: 媒體大亨
+    zh_tw: 媒體大亨
 ---
 # [[Media_Mogul]] 
 

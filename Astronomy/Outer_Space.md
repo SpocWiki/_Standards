@@ -194,7 +194,7 @@ dv_has_:
     az: kosmik fəza
     azb: فضا
     be: касмічная прастора
-    be-tarask: касьмічная прастора
+    be_tarask: касьмічная прастора
     bg: космическо пространство
     bho: अंतरिक्ष
     bn: মহাকাশ
@@ -210,7 +210,7 @@ dv_has_:
     cy: Y gofod
     da: ydre rum
     de: Weltraum
-    de-ch: Extraterrestrisch
+    de_ch: Extraterrestrisch
     el: διάστημα
     en: outer space
     eo: ekstertero
@@ -276,7 +276,7 @@ dv_has_:
     pnb: خلا
     ps: بهرنی تشیال
     pt: espaço sideral
-    pt-br: espaço sideral
+    pt_br: espaço sideral
     qu: Ch'usaq pacha
     ro: spațiul cosmic
     ru: космическое пространство
@@ -293,8 +293,8 @@ dv_has_:
     so: Fagaagga
     sq: hapësirë kozmike
     sr: свемирско пространство
-    sr-ec: свемирско пространство
-    sr-el: svemirsko prostranstvo
+    sr_ec: свемирско пространство
+    sr_el: svemirsko prostranstvo
     sv: rymden
     sw: Anga la nje
     szl: Przestrzyństwo kosmiczne
@@ -322,14 +322,14 @@ dv_has_:
     yo: Òfurufú
     yue: 太空
     zh: 外太空
-    zh-cn: 外层空间
-    zh-hans: 外太空
-    zh-hant: 外太空
-    zh-hk: 外太空
-    zh-mo: 外太空
+    zh_cn: 外层空间
+    zh_hans: 外太空
+    zh_hant: 外太空
+    zh_hk: 外太空
+    zh_mo: 外太空
     zh-my: 外太空
-    zh-sg: 外太空
-    zh-tw: 外太空
+    zh_sg: 外太空
+    zh_tw: 外太空
 ---
 # [[Outer_Space]] 
 

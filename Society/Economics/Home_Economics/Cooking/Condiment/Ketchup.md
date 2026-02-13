@@ -93,7 +93,7 @@ dv_has_:
     bar: Ketchup
     bcl: Ketsap
     be: кетчуп
-    be-tarask: кетчуп
+    be_tarask: кетчуп
     bew: Caos tomat
     bg: кетчуп
     ca: quètxup
@@ -104,7 +104,7 @@ dv_has_:
     de: Ketchup
     el: κέτσαπ
     en: ketchup
-    en-gb: tomato sauce
+    en_gb: tomato sauce
     eo: keĉupo
     es: kétchup
     et: ketšup
@@ -131,8 +131,8 @@ dv_has_:
     kn: ಕೆಚಪ್
     ko: 케첩
     ku: ketçap
-    ku-arab: کەتچاپ
-    ku-latn: ketçap
+    ku_arab: کەتچاپ
+    ku_latn: ketçap
     la: liquamen lycopersici
     lfn: cetxap
     lt: kečupas
@@ -167,12 +167,12 @@ dv_has_:
     yi: קעטשאפ
     yue: 番茄醬
     zh: 番茄醬
-    zh-cn: 番茄酱
-    zh-hans: 番茄酱
-    zh-hant: 番茄醬
-    zh-hk: 番茄醬
-    zh-sg: 番茄酱
-    zh-tw: 番茄醬
+    zh_cn: 番茄酱
+    zh_hans: 番茄酱
+    zh_hant: 番茄醬
+    zh_hk: 番茄醬
+    zh_sg: 番茄酱
+    zh_tw: 番茄醬
 ---
 # [[Ketchup]] 
 

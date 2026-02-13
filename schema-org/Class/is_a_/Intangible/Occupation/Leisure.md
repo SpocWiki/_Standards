@@ -148,7 +148,7 @@ dv_has_:
     az: Asudə
     ba: буш ваҡыт
     be: вольны час
-    be-tarask: вольны час
+    be_tarask: вольны час
     bg: Свободно време
     bn: অবসর
     ca: lleure
@@ -200,7 +200,7 @@ dv_has_:
     mwl: Lhazer
     nan: Êng-kang
     nb: fritid
-    nds-nl: vrieje tied
+    nds_nl: vrieje tied
     new: झासु
     nl: vrije tijd
     nn: fritid
@@ -220,8 +220,8 @@ dv_has_:
     sms: âsttäiʹǧǧ
     sq: Koha e lirë
     sr: слободно време
-    sr-ec: слободно време
-    sr-el: slobodno vreme
+    sr_ec: слободно време
+    sr_el: slobodno vreme
     sv: fritid
     ta: பொழுதுபோக்கு
     te: విశ్రాంతి
@@ -229,7 +229,7 @@ dv_has_:
     tl: pagliliwaliw
     tr: boş zaman
     tt: буш вакыт
-    tt-cyrl: буш вакыт
+    tt_cyrl: буш вакыт
     uk: відпочинок
     vi: nhàn rỗi
     wa: Tins fouzeure
@@ -237,12 +237,12 @@ dv_has_:
     yi: פרײַצײַט
     yue: 得閒
     zh: 餘暇
-    zh-cn: 休闲
-    zh-hans: 休闲
-    zh-hant: 餘暇
-    zh-hk: 休閒
-    zh-sg: 休闲
-    zh-tw: 餘暇
+    zh_cn: 休闲
+    zh_hans: 休闲
+    zh_hant: 餘暇
+    zh_hk: 休閒
+    zh_sg: 休闲
+    zh_tw: 餘暇
 ---
 # [[Leisure]] 
 

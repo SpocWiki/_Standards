@@ -93,7 +93,7 @@ dv_has_:
     ast: péndulu de Foucault
     az: Fuko kəfkiri
     be: маятнік Фуко
-    be-tarask: хiстальнiк Фуко
+    be_tarask: хiстальнiк Фуко
     bg: махало на Фуко
     bn: ফুকোর দোলক
     ca: Pèndol de Foucault
@@ -123,11 +123,11 @@ dv_has_:
     ja: フーコーの振り子
     ka: ფუკოს ქანქარა
     kk: Фуко маятнигі
-    kk-arab: فۋكو ماياتنىيگى
+    kk_arab: فۋكو ماياتنىيگى
     kk-cn: فۋكو ماياتنىيگى
-    kk-cyrl: Фуко маятнигі
+    kk_cyrl: Фуко маятнигі
     kk-kz: Фуко маятнигі
-    kk-latn: Fwko mayatnïgi
+    kk_latn: Fwko mayatnïgi
     kk-tr: Fwko mayatnïgi
     ko: 푸코의 진자
     ky: Фуко маятниги
@@ -149,8 +149,8 @@ dv_has_:
     sk: Foucaultovo kyvadlo
     sl: Foucaultovo nihalo
     sr: Фукоово клатно
-    sr-ec: Фукоово клатно
-    sr-el: Fukoovo klatno
+    sr_ec: Фукоово клатно
+    sr_el: Fukoovo klatno
     sv: Foucaults pendel
     ta: பூக்கோ தனி ஊசல்
     te: ఫోకాల్ట్ లోలకం
@@ -162,12 +162,12 @@ dv_has_:
     wuu: 傅科摆
     yue: 傅科擺
     zh: 傅科摆
-    zh-cn: 傅科摆
-    zh-hans: 傅科摆
-    zh-hant: 傅科擺
-    zh-hk: 傅科擺
-    zh-sg: 傅科摆
-    zh-tw: 傅科擺
+    zh_cn: 傅科摆
+    zh_hans: 傅科摆
+    zh_hant: 傅科擺
+    zh_hk: 傅科擺
+    zh_sg: 傅科摆
+    zh_tw: 傅科擺
 ---
 # [[Foucault_Pendulum]] 
 

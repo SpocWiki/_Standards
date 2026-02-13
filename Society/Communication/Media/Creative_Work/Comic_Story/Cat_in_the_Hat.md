@@ -71,7 +71,7 @@ dv_has_:
     ar: القط ذو القبعة
     ast: El gatu nel sombreru
     ba: Ҡалпаҡлы Бесәй
-    be-tarask: Кот у капелюшы
+    be_tarask: Кот у капелюшы
     ca: El gat Disbarat
     cs: Kocour v klobouku
     cy: The Cat in the Hat
@@ -115,9 +115,9 @@ dv_has_:
     yi: די קאץ דער פאיאץ
     yue: 反斗靈貓
     zh: 魔法靈貓
-    zh-cn: 戴帽子的猫
-    zh-hans: 戴帽子的猫
-    zh-hant: 戴帽子的貓
+    zh_cn: 戴帽子的猫
+    zh_hans: 戴帽子的猫
+    zh_hant: 戴帽子的貓
 ---
 # [[Cat_in_the_Hat]] 
 

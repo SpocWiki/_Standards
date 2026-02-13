@@ -84,7 +84,7 @@ dv_has_:
     az: bitki seleksiyası
     ba: үҫемлектәр селекцияһы
     be: селекцыя раслін
-    be-tarask: сэлекцыя расьлінаў
+    be_tarask: сэлекцыя расьлінаў
     ca: millora vegetal
     ckb: گۆڕینی بۆماوەییی ڕوەکەکان
     cs: šlechtění rostlin
@@ -132,7 +132,7 @@ dv_has_:
     vi: Nhân giống cây trồng
     yue: 植物配種
     zh: 作物育种
-    zh-tw: 作物育種
+    zh_tw: 作物育種
 ---
 # [[Plant_Breeding]] 
 

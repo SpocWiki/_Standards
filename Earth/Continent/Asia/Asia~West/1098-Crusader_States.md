@@ -111,7 +111,7 @@ dv_has_:
     az: Səlibçi dövlətlər
     ba: Тәре йөрөтөүселәр дәүләттәре
     be: Дзяржавы крыжакоў
-    be-tarask: крыжацкая дзяржава
+    be_tarask: крыжацкая дзяржава
     bg: Кръстоносни държави
     br: Stadoù latin ar Reter
     ca: Estats croats
@@ -138,8 +138,8 @@ dv_has_:
     ja: 十字軍国家
     ko: 십자군 국가
     ku: Dewletên Xaçperestan
-    ku-arab: دەولەتێن خاچپەرەستان
-    ku-latn: Dewletên Xaçperestan
+    ku_arab: دەولەتێن خاچپەرەستان
+    ku_latn: Dewletên Xaçperestan
     lt: kryžiuočių valstybės
     lv: krustnešu valsts
     mg: Fanjakana Latina Atsinanana
@@ -161,8 +161,8 @@ dv_has_:
     sk: Križiacky štát
     sl: križarske države
     sr: крсташка држава
-    sr-ec: крсташка држава
-    sr-el: krstaška država
+    sr_ec: крсташка држава
+    sr_el: krstaška država
     sv: korsfararstater
     th: รัฐนักรบครูเสด
     tl: Mga estado ng nagkrusada
@@ -173,12 +173,12 @@ dv_has_:
     vi: Quốc gia Thập tự chinh
     yue: 十字軍國
     zh: 十字軍國家
-    zh-cn: 十字军国家
-    zh-hans: 十字军国家
-    zh-hant: 十字軍國家
-    zh-hk: 十字軍國家
-    zh-sg: 十字军国家
-    zh-tw: 十字軍國家
+    zh_cn: 十字军国家
+    zh_hans: 十字军国家
+    zh_hant: 十字軍國家
+    zh_hk: 十字軍國家
+    zh_sg: 十字军国家
+    zh_tw: 十字軍國家
 ---
 # [[1098-Crusader_States]] 
 

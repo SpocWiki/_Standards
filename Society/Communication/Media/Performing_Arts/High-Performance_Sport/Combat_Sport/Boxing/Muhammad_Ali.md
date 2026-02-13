@@ -173,7 +173,7 @@ dv_has_:
     bar: Muhammad Ali
     bcl: Muhammad Ali
     be: Махамед Алі
-    be-tarask: Махамад Алі
+    be_tarask: Махамад Алі
     bg: Мохамед Али
     bn: মুহাম্মদ আলী
     br: Mohamed Ali
@@ -188,12 +188,12 @@ dv_has_:
     da: Muhammad Ali
     de: Muhammad Ali
     de-at: Muhammad Ali
-    de-ch: Muhammad Ali
+    de_ch: Muhammad Ali
     diq: Muhammad Ali
     el: Μοχάμεντ Άλι
     en: Muhammad Ali
-    en-ca: Muhammad Ali
-    en-gb: Muhammad Ali
+    en_ca: Muhammad Ali
+    en_gb: Muhammad Ali
     eo: Muhammad Ali
     es: Muhammad Ali
     et: Muhammad Ali
@@ -250,7 +250,7 @@ dv_has_:
     lt: Muhammad Ali
     lv: Muhameds Ali
     mai: मोहम्मद अली
-    map-bms: Muhammad Ali
+    map_bms: Muhammad Ali
     mg: Muhammad Ali
     min: Muhammad Ali
     mk: Мухамед Али
@@ -258,7 +258,7 @@ dv_has_:
     mn: Мохаммед Али
     mr: महम्मद अली
     ms: Muhammad Ali
-    ms-arab: محمد علي
+    ms_arab: محمد علي
     mt: Muhammad Ali
     mul: Muhammad Ali
     my: အလီ၊ မိုဟာမက်
@@ -280,7 +280,7 @@ dv_has_:
     pnb: محمد علی
     ps: محمد علي کلي
     pt: Muhammad Ali
-    pt-br: Muhammad Ali
+    pt_br: Muhammad Ali
     qu: Muhammad Ali
     rm: Muhammad Ali
     ro: Muhammad Ali
@@ -296,7 +296,7 @@ dv_has_:
     so: Mohammed ali Clay
     sq: Muhammad Ali
     sr: Мухамед Али
-    sr-el: Muhammad Ali
+    sr_el: Muhammad Ali
     su: Muhammad Ali
     sv: Muhammad Ali
     sw: Muhammad Ali

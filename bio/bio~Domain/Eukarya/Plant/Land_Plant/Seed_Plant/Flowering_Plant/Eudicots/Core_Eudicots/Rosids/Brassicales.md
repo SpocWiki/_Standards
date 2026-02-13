@@ -60,7 +60,7 @@ dv_has_:
     ast: Brassicales
     az: Kələmçiçəklilər
     be: Капустакветныя
-    be-tarask: Капустакветныя
+    be_tarask: Капустакветныя
     bg: Brassicales
     bs: Brassicales
     ca: Brassicals
@@ -72,8 +72,8 @@ dv_has_:
     de: Kreuzblütlerartige
     el: Κραμβώδη
     en: Brassicales
-    en-ca: Brassicales
-    en-gb: Brassicales
+    en_ca: Brassicales
+    en_gb: Brassicales
     eo: Brasikaloj
     es: Brassicales
     et: Kapsalaadsed
@@ -112,7 +112,7 @@ dv_has_:
     oc: Brassicales
     pl: kapustowce
     pt: Brassicales
-    pt-br: Brassicales
+    pt_br: Brassicales
     ro: Brassicales
     ru: капустоцветные
     sco: Brassicales
@@ -133,10 +133,10 @@ dv_has_:
     wuu: 十字花目
     yue: 白花菜目
     zh: 十字花目
-    zh-cn: 十字花目
-    zh-hans: 十字花目
-    zh-hant: 十字花目
-    zh-tw: 十字花目
+    zh_cn: 十字花目
+    zh_hans: 十字花目
+    zh_hant: 十字花目
+    zh_tw: 十字花目
 ---
 # [[Brassicales]] 
 

@@ -85,7 +85,7 @@ dv_has_:
     arz: طب المسنين
     ast: Xeriatría
     be: герыятрыя
-    be-tarask: герыятрыя
+    be_tarask: герыятрыя
     bg: гериатрия
     bn: বৃদ্ধ চিকিৎসা
     bs: gerijatrija
@@ -97,8 +97,8 @@ dv_has_:
     de: Geriatrie
     el: Γηριατρική
     en: geriatrics
-    en-ca: geriatrics
-    en-gb: geriatrics
+    en_ca: geriatrics
+    en_gb: geriatrics
     eo: geriatrio
     es: geriatría
     et: geriaatria
@@ -128,7 +128,7 @@ dv_has_:
     nn: geriatri
     pl: geriatria
     pt: geriatria
-    pt-br: geriatria
+    pt_br: geriatria
     ro: geriatrie
     ru: гериатрия
     se: geriatriija
@@ -151,8 +151,8 @@ dv_has_:
     war: heriyatrika
     yue: 老人科
     zh: 老人醫學
-    zh-hant: 老人醫學
-    zh-tw: 老人醫學
+    zh_hant: 老人醫學
+    zh_tw: 老人醫學
 ---
 # [[Geriatrics]] 
 

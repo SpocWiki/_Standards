@@ -94,7 +94,7 @@ dv_has_:
     awa: रिमोट सेंसिंग
     az: Uzaqdan müəyyən etmə
     be: дыстанцыйныя метады даследавання
-    be-tarask: дыстанцыйнае зандаваньне Зямлі
+    be_tarask: дыстанцыйнае зандаваньне Зямлі
     bg: Дистанционни изследвания
     bho: रिमोट सेंसिंग
     bn: দূর অনুধাবন
@@ -103,11 +103,11 @@ dv_has_:
     cs: dálkový průzkum Země
     da: Telemåling
     de: Fernerkundung
-    de-ch: Fernerkundung
+    de_ch: Fernerkundung
     el: τηλεπισκόπηση
     en: remote sensing
-    en-ca: remote sensing
-    en-gb: remote sensing
+    en_ca: remote sensing
+    en_gb: remote sensing
     eo: distanca sondado
     es: teledetección
     et: Kaugseire
@@ -141,7 +141,7 @@ dv_has_:
     oc: Teledeteccion
     pl: teledetekcja
     pt: detecção remota
-    pt-br: sensoriamento remoto
+    pt_br: sensoriamento remoto
     ro: Teledetecție
     ru: дистанционное зондирование Земли
     sd: ڏُور اِندريات
@@ -150,8 +150,8 @@ dv_has_:
     sk: Diaľkový prieskum Zeme
     sl: daljinsko zaznavanje
     sr: Даљинска детекција
-    sr-ec: Даљинска детекција
-    sr-el: Daljinska detekcija
+    sr_ec: Даљинска детекција
+    sr_el: Daljinska detekcija
     sv: fjärranalys
     ta: தொலையுணர்தல்
     te: రిమోట్ సెన్సింగ్
@@ -162,12 +162,12 @@ dv_has_:
     wuu: 遥感
     yue: 遙測
     zh: 遥感
-    zh-cn: 遥感
-    zh-hans: 遥感
-    zh-hant: 遙測
-    zh-hk: 遙測
-    zh-sg: 遥感
-    zh-tw: 遙測
+    zh_cn: 遥感
+    zh_hans: 遥感
+    zh_hant: 遙測
+    zh_hk: 遙測
+    zh_sg: 遥感
+    zh_tw: 遙測
 ---
 # [[Remote_Sensing]] 
 

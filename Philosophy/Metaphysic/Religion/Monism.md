@@ -88,7 +88,7 @@ dv_has_:
     ast: Monismu
     az: Monizm
     be: манізм
-    be-tarask: манізм
+    be_tarask: манізм
     bg: Монизъм
     bn: অদ্বয়বাদ
     bs: Monizam
@@ -122,11 +122,11 @@ dv_has_:
     ja: 一元論
     ka: მონიზმი
     kk: Монизм
-    kk-arab: مونىيزم
+    kk_arab: مونىيزم
     kk-cn: مونىيزم
-    kk-cyrl: Монизм
+    kk_cyrl: Монизм
     kk-kz: Монизм
-    kk-latn: Monïzm
+    kk_latn: Monïzm
     kk-tr: Monïzm
     kn: ಏಕತ್ವವಾದ
     ko: 일원론
@@ -157,8 +157,8 @@ dv_has_:
     smj: monissma
     sms: monismm
     sr: монизам
-    sr-ec: Монизам
-    sr-el: Monizam
+    sr_ec: Монизам
+    sr_el: Monizam
     sv: monism
     tg: Монизм
     th: เอกนิยม
@@ -171,12 +171,12 @@ dv_has_:
     wuu: 一元论
     yue: 一元論
     zh: 一元论
-    zh-cn: 一元论
-    zh-hans: 一元论
-    zh-hant: 一元論
-    zh-hk: 一元論
-    zh-sg: 一元论
-    zh-tw: 一元論
+    zh_cn: 一元论
+    zh_hans: 一元论
+    zh_hant: 一元論
+    zh_hk: 一元論
+    zh_sg: 一元论
+    zh_tw: 一元論
 ---
 # [[Monism]] 
 

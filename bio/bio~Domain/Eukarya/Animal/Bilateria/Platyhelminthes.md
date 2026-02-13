@@ -102,11 +102,11 @@ dv_has_:
     da: Fladorme
     de: Plattwürmer
     de-at: Platyhelminthes
-    de-ch: Platyhelminthes
+    de_ch: Platyhelminthes
     el: Πλατυέλμινθες
     en: Platyhelminthes
-    en-ca: Platyhelminthes
-    en-gb: Platyhelminthes
+    en_ca: Platyhelminthes
+    en_gb: Platyhelminthes
     eo: Platvermoj
     es: Platyhelminthes
     et: Lameussid
@@ -140,7 +140,7 @@ dv_has_:
     kk: Жалпақ құрттар
     kn: ಚಪ್ಪಟೆ ಹುಳುಗಳು
     ko: 편형동물문
-    ku-latn: kurmên pan
+    ku_latn: kurmên pan
     ky: Жалпак курттар
     la: Platyhelminthes
     lb: Plattwierm
@@ -158,7 +158,7 @@ dv_has_:
     nap: Platyhelminthes
     nb: flatormer
     nds: Plattwörmer
-    nds-nl: Platyhelminthes
+    nds_nl: Platyhelminthes
     nl: platwormen
     nn: flatmakkar
     nrm: Platyhelminthes
@@ -171,7 +171,7 @@ dv_has_:
     pms: Platyhelminthes
     pnb: پدھرے جنور
     pt: Platelmintos
-    pt-br: Platyhelminthes
+    pt_br: Platyhelminthes
     qu: Pampa kuru
     rm: Platyhelminthes
     ro: Platyhelminthes
@@ -185,15 +185,15 @@ dv_has_:
     sl: ploski črvi
     sq: Platyhelminthes
     sr: пљоснати црви
-    sr-ec: Пљоснати црви
-    sr-el: Pljosnati crvi
+    sr_ec: Пљоснати црви
+    sr_el: Pljosnati crvi
     su: Platyhelminthes
     sv: plattmaskar
     sw: Mnyoo-bapa
     ta: தட்டைப் புழு
     te: ప్లాటీహెల్మింథిస్
     tg: Паҳнкирмҳо
-    tg-latn: Pahnkirmho
+    tg_latn: Pahnkirmho
     th: หนอนตัวแบน
     tl: Platyhelminthes
     tr: Yassı solucanlar
@@ -208,12 +208,12 @@ dv_has_:
     wuu: 扁形动物门
     yue: 扁形動物門
     zh: 扁形动物门
-    zh-cn: 扁形动物门
-    zh-hans: 扁形动物门
-    zh-hant: 扁形動物門
-    zh-hk: 扁形動物門
-    zh-sg: 扁形动物门
-    zh-tw: 扁形動物門
+    zh_cn: 扁形动物门
+    zh_hans: 扁形动物门
+    zh_hant: 扁形動物門
+    zh_hk: 扁形動物門
+    zh_sg: 扁形动物门
+    zh_tw: 扁形動物門
     zu: Platyhelminthes
 ---
 # [[Platyhelminthes]] 

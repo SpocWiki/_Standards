@@ -33,7 +33,7 @@ dv_has_:
     oc: Ruellia humilis
     pl: Ruellia humilis
     pt: Ruellia humilis
-    pt-br: Ruellia humilis
+    pt_br: Ruellia humilis
     ro: Ruellia humilis
     ru: Ruellia humilis
     sq: Ruellia humilis

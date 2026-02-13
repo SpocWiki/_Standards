@@ -153,7 +153,7 @@ dv_has_:
     az: arteriyalar
     ba: артерия
     be: артэрыя
-    be-tarask: артэрыя
+    be_tarask: артэрыя
     bg: Артерия
     bn: ধমনি
     bs: arterija
@@ -167,8 +167,8 @@ dv_has_:
     de: Arterie
     el: αρτηρία
     en: artery
-    en-ca: artery
-    en-gb: artery
+    en_ca: artery
+    en_gb: artery
     eo: arterio
     es: arteria
     et: arter
@@ -211,7 +211,7 @@ dv_has_:
     ml: ധമനികൾ
     mn: Артерийн судас
     ms: arteri
-    ms-arab: ارتري
+    ms_arab: ارتري
     my: သွေးလွှတ်ကြော
     nan: Tōng-me̍h
     nb: arterie
@@ -226,7 +226,7 @@ dv_has_:
     pl: tętnica
     pms: arteria
     pt: artéria
-    pt-br: artéria
+    pt_br: artéria
     qu: Tawna sirk'a
     ro: arteră
     ru: артерия
@@ -259,7 +259,7 @@ dv_has_:
     xmf: არტერია
     yue: 動脈
     zh: 动脉
-    zh-hant: 動脈
+    zh_hant: 動脈
 ---
 # [[Artery]] 
 

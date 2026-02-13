@@ -94,7 +94,7 @@ dv_has_:
     as: কাৰ্টুন
     ast: dibuxu humorísticu
     be: гісторыі ў малюнках
-    be-tarask: гумарыстычна-сатырычны малюнак
+    be_tarask: гумарыстычна-сатырычны малюнак
     bew: Gambar cèmèn
     bjn: Kemos
     bn: ব্যঙ্গচিত্র
@@ -105,10 +105,10 @@ dv_has_:
     cy: cartŵn
     da: tegneserie
     de: Cartoon
-    de-ch: Cartoon
+    de_ch: Cartoon
     en: cartoon
-    en-ca: cartoon
-    en-gb: cartoon
+    en_ca: cartoon
+    en_gb: cartoon
     eo: kartuno
     es: dibujo humorístico
     et: Karikatuur
@@ -149,7 +149,7 @@ dv_has_:
     pnb: کارٹون
     ps: کارتون
     pt: cartoon
-    pt-br: cartoon
+    pt_br: cartoon
     ro: desen animat
     ru: истории в картинках
     sah: Көр-күлүү
@@ -174,10 +174,10 @@ dv_has_:
     yue: 卡通
     zgh: ⴰⴽⴰⵔⵜⵓⵏ
     zh: 卡通
-    zh-hans: 卡通
-    zh-hant: 卡通
-    zh-hk: 卡通
-    zh-tw: 卡通
+    zh_hans: 卡通
+    zh_hant: 卡通
+    zh_hk: 卡通
+    zh_tw: 卡通
 ---
 # [[Cartoon]] 
 

@@ -106,7 +106,7 @@ dv_has_:
     az: Soba
     ba: Мейес
     be: Печ
-    be-tarask: Печ
+    be_tarask: Печ
     bg: Пещ
     bn: যজ্ঞকুণ্ড মণ্ডল
     br: Forn
@@ -121,8 +121,8 @@ dv_has_:
     diq: Soba
     el: Κάμινος
     en: Fornax
-    en-ca: Fornax
-    en-gb: Fornax
+    en_ca: Fornax
+    en_gb: Fornax
     eo: Forno
     es: Fornax
     et: Ahi
@@ -168,7 +168,7 @@ dv_has_:
     oc: Forn
     pl: Gwiazdozbiór Pieca
     pt: Fornax
-    pt-br: Fornax
+    pt_br: Fornax
     rki: ဖော်နပ်စ်
     ro: Cuptorul
     ru: Печь
@@ -182,7 +182,7 @@ dv_has_:
     th: กลุ่มดาวเตาหลอม
     tr: Fornax
     tt: Мич
-    tt-cyrl: Мич
+    tt_cyrl: Мич
     udm: Гур
     uk: Піч
     ur: آتش دان

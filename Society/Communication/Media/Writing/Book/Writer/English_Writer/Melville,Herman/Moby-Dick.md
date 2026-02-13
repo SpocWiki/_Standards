@@ -193,7 +193,7 @@ dv_has_:
     ast: Moby-Dick
     avk: Moby Dick (suterot)
     be: Мобі Дзік
-    be-tarask: Мобі Дык
+    be_tarask: Мобі Дык
     bg: Моби Дик
     bn: মবি-ডিক
     bs: Moby Dick
@@ -202,11 +202,11 @@ dv_has_:
     cs: Bílá velryba
     da: Moby Dick
     de: Moby-Dick
-    de-ch: Moby-Dick
+    de_ch: Moby-Dick
     el: Μόμπι Ντικ
     en: Moby-Dick
-    en-ca: Moby-Dick
-    en-gb: Moby-Dick
+    en_ca: Moby-Dick
+    en_gb: Moby-Dick
     eo: Moby-Dick
     es: Moby Dick
     et: Moby Dick ehk Valge Vaal
@@ -244,7 +244,7 @@ dv_has_:
     pa: ਮੋਬੀ ਡਿੱਕ
     pl: Moby Dick
     pt: Moby Dick
-    pt-br: Moby Dick
+    pt_br: Moby Dick
     ro: Moby Dick
     ru: Моби Дик
     sco: Moby-Dick
@@ -255,8 +255,8 @@ dv_has_:
     sl: Moby Dick
     sq: Moby-Dick
     sr: Моби Дик
-    sr-ec: Моби Дик
-    sr-el: Mobi Dik
+    sr_ec: Моби Дик
+    sr_el: Mobi Dik
     sv: Moby Dick
     szy: salengacay a isu’ nacudadan
     th: โมบิดิก
@@ -270,12 +270,12 @@ dv_has_:
     xmf: მობი დიკი
     yue: 無比敵
     zh: 白鯨記
-    zh-cn: 白鲸
-    zh-hans: 白鲸
-    zh-hant: 白鯨記
-    zh-hk: 白鯨記
-    zh-sg: 白鲸记
-    zh-tw: 白鯨記
+    zh_cn: 白鲸
+    zh_hans: 白鲸
+    zh_hant: 白鯨記
+    zh_hk: 白鯨記
+    zh_sg: 白鲸记
+    zh_tw: 白鯨記
 ---
 # [[Moby-Dick]] 
 

@@ -81,7 +81,7 @@ dv_has_:
     az: hadisə üfüqü
     azb: حادیثه اوفوقو
     be: гарызонт падзей
-    be-tarask: гарызонт падзеяў
+    be_tarask: гарызонт падзеяў
     bg: хоризонт на събитията
     bn: ঘটনা দিগন্ত
     br: dremmwel eus an darvoudoù
@@ -128,15 +128,15 @@ dv_has_:
     pa: ਘਟਨਾ ਖਤਿਜ
     pl: horyzont zdarzeń
     pt: horizonte de eventos
-    pt-br: horizonte de eventos
+    pt_br: horizonte de eventos
     ro: orizont de evenimente
     ru: горизонт событий
     sh: horizont događaja
     sk: horizont udalostí
     sl: dogodkovni horizont
     sr: хоризонт догађаја
-    sr-ec: хоризонт догађаја
-    sr-el: horizont događaja
+    sr_ec: хоризонт догађаја
+    sr_el: horizont događaja
     sv: händelsehorisont
     ta: நிகழ்வெல்லை
     th: ขอบฟ้าเหตุการณ์
@@ -150,12 +150,12 @@ dv_has_:
     wuu: 事体视界
     yue: 事件視界
     zh: 事件視界
-    zh-cn: 事件视界
-    zh-hans: 事件视界
-    zh-hant: 事件視界
-    zh-hk: 事件視界
-    zh-sg: 事件视界
-    zh-tw: 事件視界
+    zh_cn: 事件视界
+    zh_hans: 事件视界
+    zh_hant: 事件視界
+    zh_hk: 事件視界
+    zh_sg: 事件视界
+    zh_tw: 事件視界
 ---
 # [[Event_Horizon]] 
 

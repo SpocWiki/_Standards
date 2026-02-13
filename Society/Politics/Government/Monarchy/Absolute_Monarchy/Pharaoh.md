@@ -135,7 +135,7 @@ dv_has_:
     azb: فرعون
     ba: Фирғәүен
     be: фараон
-    be-tarask: фараон
+    be_tarask: фараон
     bg: Фараон
     bn: ফারাও
     br: Faraon
@@ -152,8 +152,8 @@ dv_has_:
     de: Pharao
     el: Φαραώ
     en: pharaoh
-    en-ca: Pharaoh
-    en-gb: pharaoh
+    en_ca: Pharaoh
+    en_gb: pharaoh
     eo: faraono
     es: faraón
     et: vaarao
@@ -211,7 +211,7 @@ dv_has_:
     mt: faragħun
     nan: Hoat-ló
     nb: farao
-    nds-nl: farao
+    nds_nl: farao
     nl: farao
     nn: farao
     oc: Faraon
@@ -221,7 +221,7 @@ dv_has_:
     pnb: فرعون
     ps: فرعون
     pt: faraó
-    pt-br: faraó
+    pt_br: faraó
     ro: faraon
     ru: фараон
     scn: Farauni
@@ -237,7 +237,7 @@ dv_has_:
     so: Fircoon
     sq: Faraoni
     sr: фараон
-    sr-ec: фараон
+    sr_ec: фараон
     su: firaun
     sv: farao
     sw: Farao
@@ -262,8 +262,8 @@ dv_has_:
     yue: 法老王
     zea: Farao
     zh: 法老
-    zh-hant: 法老
-    zh-tw: 法老
+    zh_hant: 法老
+    zh_tw: 法老
 ---
 # [[Pharaoh]] 
 

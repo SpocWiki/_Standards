@@ -89,7 +89,7 @@ dv_has_:
     ban: James A. Garfield
     bcl: James A. Garfield
     be: Джэймс Эйбрам Гарфілд
-    be-tarask: Джэймз Эйбрам Гарфілд
+    be_tarask: Джэймз Эйбрам Гарфілд
     bg: Джеймс Гарфийлд
     bho: जेम्स ए. गारफील्ड
     bi: James A. Garfield
@@ -108,13 +108,13 @@ dv_has_:
     da: James A. Garfield
     dag: James A. Garfield
     de: James A. Garfield
-    de-ch: James A. Garfield
+    de_ch: James A. Garfield
     diq: James A. Garfield
     dv: ޖޭމްސް ގަރފީލްޑް
     el: Τζέιμς Γκάρφιλντ
     en: James A. Garfield
-    en-ca: James A. Garfield
-    en-gb: James A. Garfield
+    en_ca: James A. Garfield
+    en_gb: James A. Garfield
     eo: James A. Garfield
     es: James A. Garfield
     et: James Garfield
@@ -186,7 +186,7 @@ dv_has_:
     pnb: جیمز گارفیلڈ
     ps: جیمز ابرام ګارفیلډ
     pt: James A. Garfield
-    pt-br: James A. Garfield
+    pt_br: James A. Garfield
     rm: James A. Garfield
     rmf: James A. Garfield
     ro: James Abram Garfield

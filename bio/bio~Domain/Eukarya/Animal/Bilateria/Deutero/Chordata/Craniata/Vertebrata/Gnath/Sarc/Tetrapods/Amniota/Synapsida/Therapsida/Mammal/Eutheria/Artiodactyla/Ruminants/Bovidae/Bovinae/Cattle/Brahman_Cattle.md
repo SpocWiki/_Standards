@@ -41,7 +41,7 @@ dv_has_:
     af: Brahman
     ar: ماشية براهمان
     arz: بقر براهمان
-    be-tarask: брагман
+    be_tarask: брагман
     bn: ব্রাহ্মণ (গরুর জাত)
     ca: Brahman
     cs: brahmanský skot

@@ -180,7 +180,7 @@ dv_has_:
     bar: Buidhauarei
     bcl: iskultura
     be: скульптура
-    be-tarask: скульптура
+    be_tarask: скульптура
     bg: скулптура
     bn: ভাস্কর্য
     br: Kizellañ
@@ -195,11 +195,11 @@ dv_has_:
     cy: cerfluniaeth
     da: skulpturkunst
     de: Bildhauerkunst
-    de-ch: Skulptur
+    de_ch: Skulptur
     diq: Heykel
     el: γλυπτική
     en: art of sculpture
-    en-gb: art of sculpture
+    en_gb: art of sculpture
     eo: skulptarto
     es: escultura
     et: skulptuur
@@ -239,7 +239,7 @@ dv_has_:
     kn: ಮೂರ್ತಿಶಿಲ್ಪ
     ko: 조각
     ku: peyker
-    ku-latn: peyker
+    ku_latn: peyker
     kw: Gravyans
     ky: Скульптура
     la: sculptura
@@ -276,7 +276,7 @@ dv_has_:
     pnt: Γλυπτικήν
     ps: مجسمه سازي
     pt: escultura
-    pt-br: escultura
+    pt_br: escultura
     qu: Ch'iquy
     ro: sculptură
     rsk: Скулпторство
@@ -319,11 +319,11 @@ dv_has_:
     yue: 雕塑
     zea: Beêldouwkunst
     zh: 雕塑藝術
-    zh-cn: 雕塑艺术
-    zh-hans: 雕塑艺术
-    zh-hant: 雕塑藝術
-    zh-hk: 雕塑藝術
-    zh-tw: 雕塑藝術
+    zh_cn: 雕塑艺术
+    zh_hans: 雕塑艺术
+    zh_hant: 雕塑藝術
+    zh_hk: 雕塑藝術
+    zh_tw: 雕塑藝術
 ---
 # [[Sculpture]] 
 

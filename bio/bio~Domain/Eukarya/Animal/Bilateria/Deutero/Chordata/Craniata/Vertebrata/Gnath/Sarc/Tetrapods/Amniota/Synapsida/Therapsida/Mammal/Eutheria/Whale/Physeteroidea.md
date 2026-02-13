@@ -40,7 +40,7 @@ dv_has_:
     oc: Physeteroidea
     pl: Physeteroidea
     pt: Physeteroidea
-    pt-br: Physeteroidea
+    pt_br: Physeteroidea
     ro: Physeteroidea
     ru: Physeteroidea
     sl: Physeteroidea
@@ -50,9 +50,9 @@ dv_has_:
     vo: Physeteroidea
     war: Physeteroidea
     zh: 抹香鯨總科
-    zh-cn: 抹香鲸总科
-    zh-hans: 抹香鲸总科
-    zh-tw: 抹香鯨總科
+    zh_cn: 抹香鲸总科
+    zh_hans: 抹香鲸总科
+    zh_tw: 抹香鯨總科
 aliases:
 - Fiseteroideos
 - fiseteroïdeus

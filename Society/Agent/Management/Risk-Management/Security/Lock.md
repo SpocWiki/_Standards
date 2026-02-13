@@ -7,7 +7,7 @@ dv_has_:
     ar: قفل
     ast: Pesllera
     az: Açar
-    be-tarask: замок
+    be_tarask: замок
     bg: Катинар
     bn: তালা
     br: Krogenn-alc'hwez
@@ -22,8 +22,8 @@ dv_has_:
     el: Κλειδαριά
     eml: Ciavadùra
     en: lock
-    en-ca: Lock and key
-    en-gb: lock
+    en_ca: Lock and key
+    en_gb: lock
     eo: seruro
     es: cerradura
     eu: sarraila
@@ -65,7 +65,7 @@ dv_has_:
     pnb: جِندرا
     pnt: σάγκα
     pt: tranca
-    pt-br: tranca
+    pt_br: tranca
     qu: Wichq'ana
     ro: broască
     ru: замок
@@ -92,12 +92,12 @@ dv_has_:
     wuu: 锁
     yue: 鎖
     zh: 锁
-    zh-cn: 锁
-    zh-hans: 锁
-    zh-hant: 鎖
-    zh-hk: 鎖
-    zh-sg: 锁
-    zh-tw: 鎖
+    zh_cn: 锁
+    zh_hans: 锁
+    zh_hant: 鎖
+    zh_hk: 鎖
+    zh_sg: 锁
+    zh_tw: 鎖
 aliases:
 - Açar
 - Brava

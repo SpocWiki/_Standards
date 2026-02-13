@@ -86,7 +86,7 @@ dv_has_:
     ast: Zingiberaceae
     az: Zəncəfilkimilər
     be: Імбірныя
-    be-tarask: імбірныя
+    be_tarask: імбірныя
     bg: джинджифилови
     bs: Zingiberaceae
     ca: zingiberàcies
@@ -142,7 +142,7 @@ dv_has_:
     pl: Imbirowate
     pnb: ادرکی
     pt: Zingiberaceae
-    pt-br: Zingiberaceae
+    pt_br: Zingiberaceae
     ro: Zingiberaceae
     ru: Имбирные
     sco: Zingiberaceae
@@ -163,9 +163,9 @@ dv_has_:
     wuu: 姜科
     yue: 薑科
     zh: 姜科
-    zh-cn: 姜科
-    zh-hans: 姜科
-    zh-tw: 薑科
+    zh_cn: 姜科
+    zh_hans: 姜科
+    zh_tw: 薑科
 ---
 # [[Zingiberaceae]] 
 

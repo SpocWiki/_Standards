@@ -77,7 +77,7 @@ dv_has_:
     ar: القيم الذاتية والمتجهات الذاتية
     ast: Vector propiu y valor propiu
     be: уласнае значэннем і ўласны вектар
-    be-tarask: уласныя лікі, вэктары і прасторы
+    be_tarask: уласныя лікі, вэктары і прасторы
     bg: Собствени стойности и собствени вектори
     ca: valor propi, vector propi i espai propi
     cs: vlastní vektory a vlastní čísla
@@ -85,7 +85,7 @@ dv_has_:
     de: Eigenvektor und Eigenwert
     el: Ιδιοτιμές και Ιδιοδιανύσματα
     en: eigenvectors and eigenvalues
-    en-gb: eigenvectors and eigenvalues
+    en_gb: eigenvectors and eigenvalues
     eo: ejgeno kaj ejgenvektoro
     es: vector propio y valor propio
     et: Omaväärtus ja omavektor
@@ -114,7 +114,7 @@ dv_has_:
     pl: wektory i wartości własne
     pnb: ویژہ قدر
     pt: valores próprios e vectores próprios
-    pt-br: autovalores e autovetores
+    pt_br: autovalores e autovetores
     ro: Vectori și valori proprii
     ru: собственные вектора и собственные числа
     sh: Svojstvene vrijednosti i svojstveni vektori

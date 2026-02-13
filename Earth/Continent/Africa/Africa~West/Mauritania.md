@@ -533,7 +533,7 @@ dv_has_:
     ace: Mauritania
     acm: موريتانيا
     ady: Мауритание
-    aeb-arab: موريتانيا
+    aeb_arab: موريتانيا
     af: Mauritanië
     am: ሞሪታኒያ
     ami: Mauritania
@@ -555,7 +555,7 @@ dv_has_:
     bar: Mauretanien
     bcl: Mauritanya
     be: Маўрытанія
-    be-tarask: Маўрытанія
+    be_tarask: Маўрытанія
     bew: Moritani
     bg: Мавритания
     bgn: موریتانیا
@@ -570,14 +570,14 @@ dv_has_:
     bs: Mauritanija
     bxr: Мавритан
     ca: Mauritània
-    cbk-zam: Mauritania
+    cbk_zam: Mauritania
     cdo: Mauritania
     ce: Мавритани
     ceb: Mauritania
     ckb: مۆریتانیا
     co: Muritania
     crh: Muritaniya
-    crh-latn: Muritaniya
+    crh_latn: Muritaniya
     cs: Mauritánie
     cv: Мавритани
     cy: Mawritania
@@ -585,7 +585,7 @@ dv_has_:
     dag: Mauritania
     de: Mauretanien
     de-at: Mauretanien
-    de-ch: Mauretanien
+    de_ch: Mauretanien
     diq: Moritanya
     dsb: Mauretańska
     dty: मोरिटानिया
@@ -593,8 +593,8 @@ dv_has_:
     ee: Mauritania
     el: Μαυριτανία
     en: Mauritania
-    en-ca: Mauritania
-    en-gb: Mauritania
+    en_ca: Mauritania
+    en_gb: Mauritania
     en-us: Mauritania
     eo: Maŭritanio
     es: Mauritania
@@ -698,7 +698,7 @@ dv_has_:
     nan: Mauritania
     nb: Mauritania
     nds: Mauretanien
-    nds-nl: Mauritanie
+    nds_nl: Mauritanie
     ne: मौरिटानिया
     new: माउरी तानिया
     nl: Mauritanië
@@ -722,7 +722,7 @@ dv_has_:
     pnb: موریطانیا
     ps: موريتانيا
     pt: Mauritânia
-    pt-br: Mauritânia
+    pt_br: Mauritânia
     qu: Muritaniya
     rmy: Mauritaniya
     ro: Mauritania
@@ -753,8 +753,8 @@ dv_has_:
     so: Mauritania
     sq: Mauritania
     sr: Мауританија
-    sr-ec: Мауританија
-    sr-el: Mauritanija
+    sr_ec: Мауританија
+    sr_el: Mauritanija
     ss: IMolithaniya
     st: Mauritania
     stq: Mauretanien
@@ -803,14 +803,14 @@ dv_has_:
     zea: Mauritanië
     zgh: ⵎⵓⵔⵉⵜⴰⵏⵢⴰ
     zh: 毛里塔尼亞
-    zh-cn: 毛里塔尼亚
-    zh-hans: 毛里塔尼亚
-    zh-hant: 茅利塔尼亞
-    zh-hk: 毛里塔尼亞
-    zh-mo: 毛里塔尼亚
+    zh_cn: 毛里塔尼亚
+    zh_hans: 毛里塔尼亚
+    zh_hant: 茅利塔尼亞
+    zh_hk: 毛里塔尼亞
+    zh_mo: 毛里塔尼亚
     zh-my: 毛里塔尼亚
-    zh-sg: 毛里塔尼亚
-    zh-tw: 茅利塔尼亞
+    zh_sg: 毛里塔尼亚
+    zh_tw: 茅利塔尼亞
     zu: IMoritaniya
   url_for_:
     code_repository: https://github.com/SpocWiki/Africa-Mauritania

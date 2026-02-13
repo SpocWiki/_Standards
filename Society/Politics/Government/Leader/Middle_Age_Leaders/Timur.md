@@ -164,7 +164,7 @@ dv_has_:
     azb: تیمور
     ba: Аҡһаҡ Тимер
     be: Тамерлан
-    be-tarask: Тымур
+    be_tarask: Тымур
     bew: Timur
     bg: Тимур
     bn: তৈমুর লং
@@ -185,8 +185,8 @@ dv_has_:
     diq: Timurleng
     el: Ταμερλάνος
     en: Timur
-    en-ca: Timur
-    en-gb: Timur
+    en_ca: Timur
+    en_gb: Timur
     en-us: Timur
     eo: Timuro
     es: Tamerlán
@@ -263,7 +263,7 @@ dv_has_:
     pnb: تیمور
     ps: ګوډ تېمور
     pt: Tamerlão
-    pt-br: Tamerlão
+    pt_br: Tamerlão
     ro: Timur
     ru: Тамерлан
     rue: Тімур
@@ -302,8 +302,8 @@ dv_has_:
     yi: טימור
     yue: 帖木兒
     zh: 帖木尔
-    zh-hans: 帖木尔
-    zh-hant: 帖木兒
+    zh_hans: 帖木尔
+    zh_hant: 帖木兒
 ---
 # [[Timur]] 
 

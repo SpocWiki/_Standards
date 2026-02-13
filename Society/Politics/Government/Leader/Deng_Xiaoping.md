@@ -135,7 +135,7 @@ dv_has_:
     ba: Дэн Сяопин
     ban: Deng Xiaoping
     be: Дэн Сяапін
-    be-tarask: Дэн Сяопін
+    be_tarask: Дэн Сяопін
     bg: Дън Сяопин
     bn: তেং শিয়াওফিং
     bo: ཏེང་ཞའོ་ཕིན།
@@ -149,7 +149,7 @@ dv_has_:
     da: Deng Xiaoping
     dag: Deng Xiaoping
     de: Deng Xiaoping
-    de-ch: Deng Xiaoping
+    de_ch: Deng Xiaoping
     el: Τενγκ Σιαοπίνγκ
     en: Deng Xiaoping
     en-us: Teng Hsiao-ping
@@ -213,7 +213,7 @@ dv_has_:
     pap: Deng Xiaoping
     pl: Deng Xiaoping
     pt: Deng Xiaoping
-    pt-br: Deng Xiaoping
+    pt_br: Deng Xiaoping
     qu: Deng Xiaoping
     ro: Deng Xiaoping
     ru: Дэн Сяопин
@@ -224,8 +224,8 @@ dv_has_:
     sl: Deng Šjaoping
     sq: Deng Xiaoping
     sr: Денг Сјаопинг
-    sr-ec: Денг Сјаопинг
-    sr-el: Deng Sjaoping
+    sr_ec: Денг Сјаопинг
+    sr_el: Deng Sjaoping
     sv: Deng Xiaoping
     sw: Deng Xiaoping
     ta: டங் சியாவுபிங்
@@ -246,14 +246,14 @@ dv_has_:
     yue: 鄧小平
     za: Dwng Siujbingz
     zh: 邓小平
-    zh-cn: 邓小平
-    zh-hans: 邓小平
-    zh-hant: 鄧小平
-    zh-hk: 鄧小平
-    zh-mo: 鄧小平
+    zh_cn: 邓小平
+    zh_hans: 邓小平
+    zh_hant: 鄧小平
+    zh_hk: 鄧小平
+    zh_mo: 鄧小平
     zh-my: 邓小平
-    zh-sg: 邓小平
-    zh-tw: 鄧小平
+    zh_sg: 邓小平
+    zh_tw: 鄧小平
 ---
 # [[Deng_Xiaoping]] 
 

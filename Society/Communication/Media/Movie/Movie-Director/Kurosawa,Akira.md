@@ -167,7 +167,7 @@ dv_has_:
     ba: Куросава, Акира
     bar: Akira Kurosawa
     be: Акіра Курасава
-    be-tarask: Акіра Курасава
+    be_tarask: Акіра Курасава
     bew: Akira Kurosawa
     bg: Акира Куросава
     bho: अकीरा कुरोसावा
@@ -191,8 +191,8 @@ dv_has_:
     dsb: Akira Kurosawa
     el: Ακίρα Κουροσάβα
     en: Akira Kurosawa
-    en-ca: Akira Kurosawa
-    en-gb: Akira Kurosawa
+    en_ca: Akira Kurosawa
+    en_gb: Akira Kurosawa
     eo: Kurosawa Akira
     es: Akira Kurosawa
     et: Akira Kurosawa
@@ -266,7 +266,7 @@ dv_has_:
     pms: Akira Kurosawa
     pnb: اکیرا کوروساوا
     pt: Akira Kurosawa
-    pt-br: Akira Kurosawa
+    pt_br: Akira Kurosawa
     qu: Akira Kurosawa
     ro: Akira Kurosawa
     roa-tara: Akira Kurosawa
@@ -309,9 +309,9 @@ dv_has_:
     yi: אקירא קוראסאווא
     yue: 黑澤明
     zh: 黑澤明
-    zh-cn: 黑泽明
-    zh-hk: 黑澤明
-    zh-tw: 黑澤明
+    zh_cn: 黑泽明
+    zh_hk: 黑澤明
+    zh_tw: 黑澤明
     zu: Akira Kurosawa
 ---
 # [[Kurosawa,Akira]] 

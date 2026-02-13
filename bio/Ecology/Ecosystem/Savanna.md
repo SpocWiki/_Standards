@@ -76,7 +76,7 @@ dv_has_:
     ast: sabana
     az: savanna
     be: саванна
-    be-tarask: саванна
+    be_tarask: саванна
     bg: савана
     bho: सवाना
     bn: সাভানা
@@ -143,7 +143,7 @@ dv_has_:
     pl: Sawanna
     pnb: سوانا
     pt: savana
-    pt-br: savana
+    pt_br: savana
     rki: ဆာဗာနား မြက်ခင်းပြင်
     ro: Savană
     ru: саванна
@@ -157,7 +157,7 @@ dv_has_:
     so: Dhuldaaqsiin
     sq: Savana
     sr: савана
-    sr-ec: савана
+    sr_ec: савана
     su: Sabana
     sv: savann
     sw: Savana
@@ -174,8 +174,8 @@ dv_has_:
     wuu: 疏林草原
     yue: 熱帶草原氣候
     zh: 疏林草原
-    zh-cn: 稀树草原
-    zh-hant: 疏林草原
+    zh_cn: 稀树草原
+    zh_hant: 疏林草原
 ---
 # [[Savanna]] 
 

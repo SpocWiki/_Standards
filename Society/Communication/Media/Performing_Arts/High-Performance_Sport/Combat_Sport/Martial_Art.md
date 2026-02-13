@@ -159,13 +159,13 @@ dv_has_:
     azb: شرق دؤیوش هۆنرلری
     ba: Яугирлыҡ сәнғәте
     be: баявыя мастацтвы
-    be-tarask: баявое мастацтва
+    be_tarask: баявое мастацтва
     bg: Бойно изкуство
     bn: সমরকলা
     br: Arzoù emgannañ
     bs: Borilačke vještine
     ca: art marcial
-    cbk-zam: Arte marcial
+    cbk_zam: Arte marcial
     ce: Вовшахлатар
     ckb: ھونەری جەنگی
     co: Arti marziali
@@ -269,11 +269,11 @@ dv_has_:
     yi: קאמפקונסט
     yue: 功夫
     zh: 武術
-    zh-cn: 武术
-    zh-hans: 武术
-    zh-hant: 武術
-    zh-hk: 武術
-    zh-tw: 武術
+    zh_cn: 武术
+    zh_hans: 武术
+    zh_hant: 武術
+    zh_hk: 武術
+    zh_tw: 武術
 ---
 # [[Martial_Art]] 
 

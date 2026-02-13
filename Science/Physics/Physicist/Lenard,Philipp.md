@@ -199,7 +199,7 @@ dv_has_:
     ba: Филипп Ленард
     bar: Philipp Lenard
     be: Філіп Эдуард Антон фон Ленард
-    be-tarask: Філіп Ленард
+    be_tarask: Філіп Ленард
     bg: Филип Ленард
     bn: ফিলিপ লেনার্ড
     bs: Philipp Lenard
@@ -260,7 +260,7 @@ dv_has_:
     nan: Philipp Lenard
     nb: Philipp von Lenard
     nds: Philipp Lenard
-    nds-nl: Philipp Lenard
+    nds_nl: Philipp Lenard
     new: फिलिप लेनार्ड
     nl: Philipp Eduard Anton Lenard
     nn: Philipp Eduard Anton von Lenard
@@ -271,7 +271,7 @@ dv_has_:
     pms: Philipp Lenard
     pnb: فلپ لینارڈ
     pt: Philipp Lenard
-    pt-br: Philipp Lenard
+    pt_br: Philipp Lenard
     ro: Philipp Lenard
     ru: Филипп Эдуард Антон фон Ленард
     sa: फिलिप लेनार्ड
@@ -282,7 +282,7 @@ dv_has_:
     sl: Philipp Eduard Anton von Lenard
     sq: Philipp Lenard
     sr: Филип Едуард Антон фон Ленард
-    sr-ec: Филип Ленард
+    sr_ec: Филип Ленард
     sv: Philipp Lenard
     sw: Philipp Lenard
     ta: பிலிப் எட்வர்ட் ஆன்டன் வான் லெனார்ட்

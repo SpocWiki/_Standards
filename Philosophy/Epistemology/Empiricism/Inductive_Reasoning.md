@@ -127,7 +127,7 @@ dv_has_:
     pnb: استقرا
     ps: قیاسي استدلال
     pt: raciocínio indutivo
-    pt-br: raciocínio indutivo
+    pt_br: raciocínio indutivo
     ro: Raționament
     ru: индуктивное умозаключение
     sco: inductive raisonin
@@ -139,8 +139,8 @@ dv_has_:
     sms: induktio
     sq: Induksioni
     sr: Индукција
-    sr-ec: Индукција
-    sr-el: Indukcija
+    sr_ec: Индукција
+    sr_el: Indukcija
     sv: induktion
     ta: தொகுப்புவழிப் பகுத்தறிதல்
     tg: Истиқроъ
@@ -155,9 +155,9 @@ dv_has_:
     wuu: 归纳推理
     yue: 歸納
     zh: 归纳推理
-    zh-hans: 归纳推理
-    zh-hant: 歸納推理
-    zh-hk: 歸納推理
+    zh_hans: 归纳推理
+    zh_hant: 歸納推理
+    zh_hk: 歸納推理
 ---
 # [[Inductive_Reasoning]] 
 

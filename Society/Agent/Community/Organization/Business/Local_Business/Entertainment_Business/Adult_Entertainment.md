@@ -94,7 +94,7 @@ dv_has_:
     az: Seks sənayesi
     bcl: Industriyang pagdurog
     be: секс-індустрыя
-    be-tarask: сэкс-індустрыя
+    be_tarask: сэкс-індустрыя
     bg: Секс индустрия
     bn: যৌনশিল্প
     ca: indústria del sexe
@@ -102,10 +102,10 @@ dv_has_:
     cy: Diwydiant rhyw
     da: pornoindustrien
     de: Sexindustrie
-    de-ch: Sexindustrie
+    de_ch: Sexindustrie
     en: sex industry
-    en-ca: Sex industry
-    en-gb: Sex industry
+    en_ca: Sex industry
+    en_gb: Sex industry
     eo: sekskomerco
     es: industria del sexo
     eu: Sexu industria
@@ -130,23 +130,23 @@ dv_has_:
     pl: Przemysł seksualny
     pnb: جنسی صنعت
     pt: indústria do sexo
-    pt-br: Indústria do sexo
+    pt_br: Indústria do sexo
     ru: секс-индустрия
     sh: Industrija seksa
     sk: Sexbiznis
     sl: industrija spolnosti
     sr: секс индустрија
-    sr-ec: секс индустрија
-    sr-el: seks industrija
+    sr_ec: секс индустрија
+    sr_el: seks industrija
     sv: sexbranschen
     tr: seks sektörü
     uk: секс-індустрія
     ur: جنسی صنعت
     vi: công nghệ tình dục
     zh: 色情產業
-    zh-hans: 色情产业
-    zh-hant: 色情產業
-    zh-hk: 色情產業
+    zh_hans: 色情产业
+    zh_hant: 色情產業
+    zh_hk: 色情產業
 ---
 # [[Adult_Entertainment]]
 

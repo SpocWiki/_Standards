@@ -175,7 +175,7 @@ MeSH_tree_code:
 dv_has_:
   name_:
     ace: sirosis ate
-    aeb-arab: شياح كبدة
+    aeb_arab: شياح كبدة
     af: lewersirrose
     ar: تشمع الكبد
     arz: تليف الكبد
@@ -184,7 +184,7 @@ dv_has_:
     az: Sirroz
     azb: سیروز
     be: цыроз печані
-    be-tarask: цыроз печані
+    be_tarask: цыроз печані
     bg: цироза
     bn: সিরোসিস
     bs: ciroza
@@ -197,8 +197,8 @@ dv_has_:
     diq: siroz
     el: κίρρωση
     en: liver cirrhosis
-    en-ca: cirrhosis
-    en-gb: cirrhosis
+    en_ca: cirrhosis
+    en_gb: cirrhosis
     en-us: liver cirrhosis
     eo: cirozo
     es: cirrosis hepática
@@ -226,11 +226,11 @@ dv_has_:
     ja: 肝硬変
     ka: ღვიძლის ციროზი
     kk: бауыр циррозы
-    kk-arab: باۋىر تسىيرروزى
+    kk_arab: باۋىر تسىيرروزى
     kk-cn: باۋىر تسىيرروزى
-    kk-cyrl: бауыр циррозы
+    kk_cyrl: бауыр циррозы
     kk-kz: бауыр циррозы
-    kk-latn: bawır cïrrozı
+    kk_latn: bawır cïrrozı
     kk-tr: bawır cïrrozı
     ko: 간경화증
     ks: کرٛیٚہنہٕ ماز بِہُن
@@ -259,7 +259,7 @@ dv_has_:
     pap: sirósis
     pl: marskość wątroby
     pt: cirrose hepática
-    pt-br: cirrose hepática
+    pt_br: cirrose hepática
     ro: ciroză
     ru: цирроз печени
     sah: Быар цирроһа
@@ -271,8 +271,8 @@ dv_has_:
     sms: vuõivâskirroos
     sq: cirroza
     sr: цироза јетре
-    sr-ec: цироза јетре
-    sr-el: ciroza jetre
+    sr_ec: цироза јетре
+    sr_el: ciroza jetre
     sv: skrumplever
     ta: கல்லீரல் இழைநார் வளர்ச்சி
     th: ตับแข็ง
@@ -288,12 +288,12 @@ dv_has_:
     xmf: ჩხონჩხიშ ციროზი
     yue: 肝硬化
     zh: 肝硬化
-    zh-cn: 肝硬化
-    zh-hans: 肝硬化
-    zh-hant: 肝硬化
-    zh-hk: 肝硬化
-    zh-sg: 肝硬化
-    zh-tw: 肝硬化
+    zh_cn: 肝硬化
+    zh_hans: 肝硬化
+    zh_hant: 肝硬化
+    zh_hk: 肝硬化
+    zh_sg: 肝硬化
+    zh_tw: 肝硬化
 ---
 # [[Liver_cirrhosis]] 
 

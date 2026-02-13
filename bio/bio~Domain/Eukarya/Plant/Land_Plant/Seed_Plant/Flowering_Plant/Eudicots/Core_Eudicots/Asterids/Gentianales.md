@@ -60,7 +60,7 @@ dv_has_:
     az: Acıçiçəklilər
     bar: Gentianales
     be: гарычкакветныя
-    be-tarask: Гарычкакветныя
+    be_tarask: Гарычкакветныя
     bg: тинтявоцветни
     br: Gentianales
     bs: Gentianales
@@ -71,11 +71,11 @@ dv_has_:
     cy: Gentianales
     da: Ensian-ordenen
     de: Enzianartige
-    de-ch: Gentianales
+    de_ch: Gentianales
     el: Γενθιανώδη
     en: Gentianales
-    en-ca: Gentianales
-    en-gb: Gentianales
+    en_ca: Gentianales
+    en_gb: Gentianales
     eo: Gencianaloj
     es: Gentianales
     et: Emajuurelaadsed
@@ -123,7 +123,7 @@ dv_has_:
     nap: Gentianales
     nb: Gentianales
     nds: Gentianales
-    nds-nl: Gentianales
+    nds_nl: Gentianales
     nl: Gentianales
     nn: søteordenen
     nrm: Gentianales
@@ -133,7 +133,7 @@ dv_has_:
     pl: goryczkowce
     pms: Gentianales
     pt: Gentianales
-    pt-br: Gentianales
+    pt_br: Gentianales
     rm: Gentianales
     ro: Gentianales
     ru: горечавкоцветные
@@ -161,10 +161,10 @@ dv_has_:
     wuu: 龙胆目
     yue: 龍膽目
     zh: 龙胆目
-    zh-cn: 龙胆目
-    zh-hans: 龍膽目
-    zh-hant: 龍膽目
-    zh-tw: 龍膽目
+    zh_cn: 龙胆目
+    zh_hans: 龍膽目
+    zh_hant: 龍膽目
+    zh_tw: 龍膽目
     zu: Gentianales
 ---
 # [[Gentianales]] 

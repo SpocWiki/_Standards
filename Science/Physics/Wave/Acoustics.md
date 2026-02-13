@@ -81,7 +81,7 @@ dv_has_:
     az: akustika
     bar: Akustik
     be: акустыка
-    be-tarask: акустыка
+    be_tarask: акустыка
     bg: акустика
     bn: শব্দবিজ্ঞান
     bo: སྒྲ་རླབས་རིག་པ།
@@ -96,8 +96,8 @@ dv_has_:
     diq: akustik
     el: ακουστική
     en: acoustics
-    en-ca: acoustics
-    en-gb: acoustics
+    en_ca: acoustics
+    en_gb: acoustics
     eo: akustiko
     es: acústica
     et: akustika
@@ -140,7 +140,7 @@ dv_has_:
     pl: akustyka
     pms: acùstica
     pt: acústica
-    pt-br: acústica
+    pt_br: acústica
     ro: acustică
     rsk: акустика
     ru: акустика
@@ -173,7 +173,7 @@ dv_has_:
     wuu: 声学
     yue: 聲學
     zh: 声学
-    zh-tw: 聲學
+    zh_tw: 聲學
 ---
 # [[Acoustics]] 
 

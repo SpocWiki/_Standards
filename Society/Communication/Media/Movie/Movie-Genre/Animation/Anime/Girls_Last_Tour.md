@@ -36,10 +36,10 @@ dv_has_:
     uk: Остання подорож дівчат
     vi: Girls' Last Tour
     zh: 少女終末旅行
-    zh-hans: 少女终末旅行
-    zh-hant: 少女終末旅行
-    zh-hk: 少女終末旅行
-    zh-tw: 少女終末旅行
+    zh_hans: 少女终末旅行
+    zh_hant: 少女終末旅行
+    zh_hk: 少女終末旅行
+    zh_tw: 少女終末旅行
 ---
 ## #has_/text_of_/abstract 
 

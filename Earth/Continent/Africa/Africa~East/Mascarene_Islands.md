@@ -121,7 +121,7 @@ dv_has_:
     ast: Islles Mascareñes
     ba: Маскарен утрауҙары
     be: Маскарэнскія астравы
-    be-tarask: Маскарэны
+    be_tarask: Маскарэны
     bg: Маскаренски острови
     br: Maskaregnez
     ca: illes Mascarenyes
@@ -167,8 +167,8 @@ dv_has_:
     sk: Maskarény
     sl: Maskareni
     sr: Маскаренска острва
-    sr-ec: Маскаренска острва
-    sr-el: Maskarenska ostrva
+    sr_ec: Маскаренска острва
+    sr_el: Maskarenska ostrva
     sv: Maskarenerna
     sw: Maskarena
     th: หมู่เกาะแมสคารีน
@@ -181,12 +181,12 @@ dv_has_:
     wuu: 馬斯克林群島
     yue: 馬斯克林群島
     zh: 马斯克林群岛
-    zh-cn: 马斯克林群岛
-    zh-hans: 马斯克林群岛
-    zh-hant: 馬斯克林群島
-    zh-hk: 馬斯克林群島
-    zh-sg: 马斯克林群岛
-    zh-tw: 馬斯克林群島
+    zh_cn: 马斯克林群岛
+    zh_hans: 马斯克林群岛
+    zh_hant: 馬斯克林群島
+    zh_hk: 馬斯克林群島
+    zh_sg: 马斯克林群岛
+    zh_tw: 馬斯克林群島
 ---
 # [[Mascarene_Islands]] 
 

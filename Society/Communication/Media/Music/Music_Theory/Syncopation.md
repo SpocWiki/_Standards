@@ -28,7 +28,7 @@ dv_has_:
     lv: Sinkopācija
     mk: Синкопа (музика)
     nb: Synkope
-    nds-nl: synkoop
+    nds_nl: synkoop
     nl: syncope
     nn: Synkopering
     pl: synkopa
@@ -39,19 +39,19 @@ dv_has_:
     sh: Sinkopa
     sk: Synkopa
     sr: Синкопа
-    sr-ec: Синкопа
-    sr-el: Sinkopa
+    sr_ec: Синкопа
+    sr_el: Sinkopa
     sv: synkop
     tr: Senkop (müzik)
     uk: Синкопа
     yue: 切分音
     zh: 切分音
-    zh-cn: 切分音
-    zh-hans: 切分音
-    zh-hant: 切分音
-    zh-hk: 切分音
-    zh-sg: 切分音
-    zh-tw: 切分音
+    zh_cn: 切分音
+    zh_hans: 切分音
+    zh_hant: 切分音
+    zh_hk: 切分音
+    zh_sg: 切分音
+    zh_tw: 切分音
 aliases:
 - erritmo sinkopatu
 - ritmo sincopado

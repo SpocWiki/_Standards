@@ -179,7 +179,7 @@ dv_has_:
     bar: Gebeadnsproch
     bcl: palba
     be: жэставая мова
-    be-tarask: мова жэстаў
+    be_tarask: мова жэстаў
     bg: жестомимичен език
     bho: सांकेतिक भाषा
     bjn: utau
@@ -229,7 +229,7 @@ dv_has_:
     kk: Ым тілі
     ko: 수어
     ku: zimanê hêmayan
-    ku-latn: zimanê hêmayan
+    ku_latn: zimanê hêmayan
     ky: жест тили
     la: lingua gesticulatoria
     lfn: lingua de sinia
@@ -241,7 +241,7 @@ dv_has_:
     mk: знаковен јазик
     mn: Дохионы хэл
     ms: bahasa isyarat
-    ms-arab: بهاس اشارت
+    ms_arab: بهاس اشارت
     mt: lingwa tas-sinjali
     nan: chhiú-gí
     nap: lenguaggio d"e signe
@@ -258,7 +258,7 @@ dv_has_:
     pnb: اشاری زبان
     ps: اشاروي ژبه
     pt: língua gestual
-    pt-br: língua de sinais
+    pt_br: língua de sinais
     rm: lingua da segns
     ro: limbaj al semnelor
     ru: жестовый язык
@@ -299,14 +299,14 @@ dv_has_:
     yi: שטום לשון
     yue: 手語
     zh: 手語
-    zh-cn: 手语
-    zh-hans: 手语
-    zh-hant: 手語
-    zh-hk: 手語
-    zh-mo: 手語
+    zh_cn: 手语
+    zh_hans: 手语
+    zh_hant: 手語
+    zh_hk: 手語
+    zh_mo: 手語
     zh-my: 手语
-    zh-sg: 手语
-    zh-tw: 手語
+    zh_sg: 手语
+    zh_tw: 手語
     zu: ngolimi iwezandla
 ---
 # [[Sign_Language]] 

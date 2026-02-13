@@ -74,14 +74,14 @@ dv_has_:
     an: Exploración fisica
     ar: فحص سريري
     ast: esploración física
-    be-tarask: фізычная дыягностыка
+    be_tarask: фізычная дыягностыка
     bs: klinički pregled
     ca: exploració física
     cs: fyzikální vyšetření
     de: körperliche Untersuchung
     el: σωματική εξέταση
     en: physical examination
-    en-gb: physical examination
+    en_gb: physical examination
     eo: korpa ekzameno
     es: exploración física
     et: tervisekontroll
@@ -119,10 +119,10 @@ dv_has_:
     wuu: 体格检查
     yue: 驗身
     zh: 体格检查
-    zh-hans: 体格检查
-    zh-hant: 身體檢查
-    zh-hk: 體格檢查
-    zh-tw: 身體檢查
+    zh_hans: 体格检查
+    zh_hant: 身體檢查
+    zh_hk: 體格檢查
+    zh_tw: 身體檢查
 ---
 # [[Medical_Examination]] 
 

@@ -9,7 +9,7 @@ dv_has_:
     az: Filogenetika
     ban: Filogenetika
     be: філагенетыка
-    be-tarask: філягенэтыка
+    be_tarask: філягенэтыка
     bg: Филогения
     bs: filogeneza
     ca: filogènia
@@ -19,7 +19,7 @@ dv_has_:
     de: Phylogenetik
     el: Φυλογένεση
     en: phylogenetics
-    en-gb: phylogeny
+    en_gb: phylogeny
     eo: Filogenetiko
     es: filogenia
     et: fülogenees
@@ -72,8 +72,8 @@ dv_has_:
     sms: fylogenetikk
     sq: Filogjenetika
     sr: филогенија
-    sr-ec: Филогенија
-    sr-el: Filogenija
+    sr_ec: Филогенија
+    sr_el: Filogenija
     sv: fylogenetik
     ta: தொகுதிப் பிறப்பு
     th: วิวัฒนาการชาติพันธุ์
@@ -86,12 +86,12 @@ dv_has_:
     wuu: 系统发生学
     yue: 親緣關係學
     zh: 系统发生学
-    zh-cn: 系统发生学
-    zh-hans: 系统发生学
-    zh-hant: 系統發生學
-    zh-hk: 親緣關係學
-    zh-sg: 系统发生学
-    zh-tw: 親緣關係學
+    zh_cn: 系统发生学
+    zh_hans: 系统发生学
+    zh_hant: 系統發生學
+    zh_hk: 親緣關係學
+    zh_sg: 系统发生学
+    zh_tw: 親緣關係學
 aliases:
 - Azɣerẓar
 - Filochenia

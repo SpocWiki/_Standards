@@ -179,7 +179,7 @@ dv_has_:
     ban: fluorin
     bcl: plurina
     be: фтор
-    be-tarask: фтор
+    be_tarask: фтор
     bg: флуор
     bho: फ्लोरीन
     blk: ဖလိုရဉ်း
@@ -198,11 +198,11 @@ dv_has_:
     cy: fflworin
     da: fluor
     de: Fluor
-    de-ch: Fluor
+    de_ch: Fluor
     el: φθόριο
     en: fluorine
-    en-ca: Fluorine
-    en-gb: fluorine
+    en_ca: Fluorine
+    en_gb: fluorine
     en-us: fluorine
     eo: fluoro
     es: flúor
@@ -271,7 +271,7 @@ dv_has_:
     mr: फ्लोरिन
     mrj: фтор
     ms: fluorin
-    ms-arab: فلورين
+    ms_arab: فلورين
     mt: fluworin
     mul: F
     my: ဖလိုရင်း
@@ -298,7 +298,7 @@ dv_has_:
     pnb: فلورین
     ps: فلورين
     pt: flúor
-    pt-br: flúor
+    pt_br: flúor
     qu: flur
     ro: fluor
     ru: фтор
@@ -318,7 +318,7 @@ dv_has_:
     so: foloriin
     sq: fluori
     sr: флуор
-    sr-ec: флуор
+    sr_ec: флуор
     stq: Fluor
     su: fluor
     sv: fluor
@@ -349,14 +349,14 @@ dv_has_:
     yue: 氟
     zgh: ⴰⴼⵍⵢⵓⵔ
     zh: 氟
-    zh-cn: 氟
-    zh-hans: 氟
-    zh-hant: 氟
-    zh-hk: 氟
-    zh-mo: 氟
+    zh_cn: 氟
+    zh_hans: 氟
+    zh_hant: 氟
+    zh_hk: 氟
+    zh_mo: 氟
     zh-my: 氟
-    zh-sg: 氟
-    zh-tw: 氟
+    zh_sg: 氟
+    zh_tw: 氟
     zu: UFusihwe
   number_of_:
     period: 2

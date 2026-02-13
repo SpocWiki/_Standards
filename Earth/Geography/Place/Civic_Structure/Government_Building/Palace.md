@@ -153,7 +153,7 @@ dv_has_:
     az: saray
     azb: سارای(قصر)
     be: палац
-    be-tarask: палац
+    be_tarask: палац
     bg: Дворец
     bn: প্রাসাদ
     br: palez
@@ -164,12 +164,12 @@ dv_has_:
     cy: palas
     da: palads
     de: Palast
-    de-ch: Palast
+    de_ch: Palast
     diq: Palas
     el: ανάκτορο
     en: palace
-    en-ca: palace
-    en-gb: palace
+    en_ca: palace
+    en_gb: palace
     eo: palaco
     es: palacio
     et: palee
@@ -215,12 +215,12 @@ dv_has_:
     ml: കൊട്ടാരം
     mni: ꯅꯤꯡꯊꯧ ꯀꯣꯅꯨꯡ
     ms: istana
-    ms-arab: ايستان
+    ms_arab: ايستان
     mt: palazz
     mzn: کوشک
     nan: Kiong-tiān
     nb: palass
-    nds-nl: paleis
+    nds_nl: paleis
     nl: paleis
     nrm: Palais
     oc: Palais
@@ -231,7 +231,7 @@ dv_has_:
     pnt: γονάχ'
     ps: قصر
     pt: palácio
-    pt-br: palácio
+    pt_br: palácio
     ro: palat
     ru: дворец
     rup: Pâlati
@@ -245,8 +245,8 @@ dv_has_:
     sn: Muzinda
     sq: pallat
     sr: сарај
-    sr-ec: сарај
-    sr-el: saraj
+    sr_ec: сарај
+    sr_el: saraj
     sv: palats
     sw: housing
     ta: அரண்மனை
@@ -256,7 +256,7 @@ dv_has_:
     tl: Palasyo
     tr: saray
     tt: сарай
-    tt-cyrl: сарай
+    tt_cyrl: сарай
     uk: палац
     ur: محل
     uz: Saroy
@@ -270,10 +270,10 @@ dv_has_:
     yo: ààfin
     yue: 宮
     zh: 宮殿
-    zh-cn: 宫殿
-    zh-hans: 宫殿
-    zh-hant: 宮殿
-    zh-tw: 宮殿
+    zh_cn: 宫殿
+    zh_hans: 宫殿
+    zh_hant: 宮殿
+    zh_tw: 宮殿
 ---
 # [[Palace]] 
 

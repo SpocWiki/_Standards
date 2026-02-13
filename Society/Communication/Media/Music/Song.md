@@ -242,7 +242,7 @@ dv_has_:
     bar: Liad
     bcl: Kanta
     be: песня
-    be-tarask: песьня
+    be_tarask: песьня
     bg: песен
     bn: গান
     br: kanaouenn
@@ -265,14 +265,14 @@ dv_has_:
     da: sang
     de: Lied
     de-at: Lied
-    de-ch: Lied
+    de_ch: Lied
     dga: yieluu
     diq: deyır
     dsb: pěseń
     el: τραγούδι
     en: song
-    en-ca: song
-    en-gb: song
+    en_ca: song
+    en_gb: song
     en-us: song
     eo: kanto
     es: canción
@@ -341,7 +341,7 @@ dv_has_:
     mni: ꯏꯁꯩ
     mr: गीत
     ms: lagu
-    ms-arab: لاݢو
+    ms_arab: لاݢو
     my: သီချင်း
     myv: моро
     nah: Cuīcatl
@@ -368,7 +368,7 @@ dv_has_:
     pnb: گاݨا
     ps: سندره
     pt: canção
-    pt-br: canção
+    pt_br: canção
     qu: Rimay taki
     rmf: džambiba
     ro: cântec
@@ -411,7 +411,7 @@ dv_has_:
     tl: kanta
     tr: şarkı
     tt: җыр
-    tt-cyrl: җыр
+    tt_cyrl: җыр
     udm: кырӟан
     uk: пісня
     ur: گیت
@@ -427,14 +427,14 @@ dv_has_:
     yo: orin
     yue: 歌
     zh: 歌曲
-    zh-cn: 歌曲
-    zh-hans: 歌曲
-    zh-hant: 歌曲
-    zh-hk: 歌曲
-    zh-mo: 歌曲
+    zh_cn: 歌曲
+    zh_hans: 歌曲
+    zh_hant: 歌曲
+    zh_hk: 歌曲
+    zh_mo: 歌曲
     zh-my: 歌曲
-    zh-sg: 歌曲
-    zh-tw: 歌曲
+    zh_sg: 歌曲
+    zh_tw: 歌曲
 ---
 # [[Song]]
 

@@ -41,7 +41,7 @@ dv_has_:
     af: Hells Angels
     ar: ملائكة الجحيم
     ast: Hells Angels
-    be-tarask: Анёлы пекла
+    be_tarask: Анёлы пекла
     bn: হেলস অ্যাঞ্জেলস
     ca: Àngels de l'infern
     cs: Hells Angels

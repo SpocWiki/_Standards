@@ -123,7 +123,7 @@ dv_has_:
     az: Hirs
     bcl: Kaanggotan
     be: гнеў
-    be-tarask: гнеў
+    be_tarask: гнеў
     bg: Гняв
     bn: ক্রোধ
     bo: ཁོང་ཁྲོ།
@@ -141,7 +141,7 @@ dv_has_:
     el: θυμός
     eml: Arlìa
     en: anger
-    en-gb: anger
+    en_gb: anger
     eo: kolero
     es: ira
     et: Viha
@@ -216,8 +216,8 @@ dv_has_:
     so: Xanaaq
     sq: Inati
     sr: бес
-    sr-ec: бес
-    sr-el: bes
+    sr_ec: бес
+    sr_el: bes
     ss: Intfukutselo
     sv: vrede
     sw: hasira
@@ -237,9 +237,9 @@ dv_has_:
     yue: 嬲
     za: Ndatheiq
     zh: 憤怒
-    zh-cn: 愤怒
-    zh-hans: 愤怒
-    zh-hant: 憤怒
+    zh_cn: 愤怒
+    zh_hans: 愤怒
+    zh_hant: 憤怒
 ---
 # [[Anger]] 
 

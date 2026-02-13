@@ -16,10 +16,10 @@ aliases:
 has_id_wikidata: Q6630017
 dv_has_:
   name_:
-    be-tarask: сьпіс тыпаў музычных гуртоў
+    be_tarask: сьпіс тыпаў музычных гуртоў
     en: list of musical band types
-    en-ca: list of musical band types
-    en-gb: list of musical band types
+    en_ca: list of musical band types
+    en_gb: list of musical band types
     fr: liste de type d'ensemble/groupe musical
     ms: senarai jenis kumpulan muzik
     pl: lista rodzajów zespołów muzycznych
@@ -28,7 +28,7 @@ dv_has_:
     sl: seznam vrst glasbenih skupin
     tr: müzik grubu türlerinin listesi
     zh: 音乐乐队类型列表
-    zh-hant: 音樂樂隊類型列表
+    zh_hant: 音樂樂隊類型列表
 ---
 # [[Music~Band]]
 

@@ -114,7 +114,7 @@ dv_has_:
     ast: yarda
     az: yard
     be: ярд
-    be-tarask: ярд
+    be_tarask: ярд
     bg: ярд
     bn: গজ
     bs: jard
@@ -150,13 +150,13 @@ dv_has_:
     ka: იარდი
     kcg: Yadi
     kk: ярд
-    kk-arab: يارد
-    kk-cyrl: ярд
-    kk-latn: yard
+    kk_arab: يارد
+    kk_cyrl: ярд
+    kk_latn: yard
     ko: 야드
     ku: yard
-    ku-arab: یارد
-    ku-latn: yard
+    ku_arab: یارد
+    ku_latn: yard
     la: virga
     lt: jardas
     lv: jards
@@ -179,8 +179,8 @@ dv_has_:
     sl: jard
     sq: jardi
     sr: јард
-    sr-ec: јард
-    sr-el: jard
+    sr_ec: јард
+    sr_el: jard
     sv: yard
     ta: யார்
     te: గజము
@@ -200,14 +200,14 @@ dv_has_:
     yo: òpá
     yue: 碼
     zh: 码
-    zh-cn: 码
-    zh-hans: 码
-    zh-hant: 碼
-    zh-hk: 碼
-    zh-mo: 碼
+    zh_cn: 码
+    zh_hans: 码
+    zh_hant: 碼
+    zh_hk: 碼
+    zh_mo: 碼
     zh-my: 码
-    zh-sg: 码
-    zh-tw: 碼
+    zh_sg: 码
+    zh_tw: 碼
 ---
 # [[Yard]]
 

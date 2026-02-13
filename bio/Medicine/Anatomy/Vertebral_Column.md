@@ -173,7 +173,7 @@ dv_has_:
     ba: умыртҡа һөйәге
     bcl: Odog
     be: пазваночнік
-    be-tarask: хрыбетнік
+    be_tarask: хрыбетнік
     bg: Гръбначен стълб
     bn: মেরুদণ্ড
     br: gwalenn ar c'hein
@@ -217,15 +217,15 @@ dv_has_:
     ka: ხერხემალი
     kab: Ajgu n uzagur
     kk: Омыртқа бағанасы
-    kk-arab: ومىرتقا باعاناسى
-    kk-cyrl: Омыртқа бағанасы
-    kk-latn: Omırtqa bağanası
+    kk_arab: ومىرتقا باعاناسى
+    kk_cyrl: Омыртқа бағанасы
+    kk_latn: Omırtqa bağanası
     kn: ಬೆನ್ನುಮೂಳೆ
     ko: 척주
     ks: تٔھر کۆنڈ
     ku: birrbirre
-    ku-arab: ماسیا پشتێ
-    ku-latn: birrbirreya piştê
+    ku_arab: ماسیا پشتێ
+    ku_latn: birrbirreya piştê
     kv: Сюрса лы
     kw: Mellkeyn
     la: Columna vertebralis
@@ -270,20 +270,20 @@ dv_has_:
     so: Lafdhabar
     sq: Vertebra
     sr: кичма
-    sr-ec: кичма
-    sr-el: kičma
+    sr_ec: кичма
+    sr_el: kičma
     su: Tulang tonggong
     sv: ryggrad
     sw: Uti wa mgongo
     ta: முள்ளந்தண்டு நிரல்
     te: వెన్నెముక
     tg: Сутунмӯҳра
-    tg-latn: Sutunmūhra
+    tg_latn: Sutunmūhra
     th: กระดูกสันหลัง
     tl: Gulugod
     tr: omurga
     tt: умырткалык
-    tt-cyrl: умырткалык
+    tt_cyrl: умырткалык
     ug: ئومۇرتقا
     uk: хребет
     ur: ریڑھ کی ہڈی
@@ -297,9 +297,9 @@ dv_has_:
     yue: 脊骨
     za: Ndoksaen
     zh: 脊椎
-    zh-hans: 脊椎
-    zh-hant: 脊椎
-    zh-hk: 脊椎
+    zh_hans: 脊椎
+    zh_hant: 脊椎
+    zh_hk: 脊椎
 ---
 # [[Vertebral_Column]] 
 

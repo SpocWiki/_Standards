@@ -98,7 +98,7 @@ dv_has_:
     azb: دیسکرت ریاضیات
     ba: дискрет математика
     be: дыскрэтная матэматыка
-    be-tarask: дыскрэтная матэматыка
+    be_tarask: дыскрэтная матэматыка
     bg: Дискретна математика
     bn: বিচ্ছিন্ন গণিত
     bs: Diskretna matematika
@@ -128,11 +128,11 @@ dv_has_:
     ja: 離散数学
     ka: დისკრეტული მათემატიკა
     kk: Дискреттік математика
-    kk-arab: دىيسكرەتتىك ماتەماتىيكا
+    kk_arab: دىيسكرەتتىك ماتەماتىيكا
     kk-cn: دىيسكرەتتىك ماتەماتىيكا
-    kk-cyrl: Дискреттік математика
+    kk_cyrl: Дискреттік математика
     kk-kz: Дискреттік математика
-    kk-latn: Dïskrettik matematïka
+    kk_latn: Dïskrettik matematïka
     kk-tr: Dïskrettik matematïka
     ko: 이산수학
     ko-kp: 리산수학
@@ -153,7 +153,7 @@ dv_has_:
     pl: matematyka dyskretna
     pms: Matemàtica discreta
     pt: matemática discreta
-    pt-br: matemática discreta
+    pt_br: matemática discreta
     rki: ပိုင်းစသီးခြားသင်္ချာ
     ro: matematică discretă
     ru: дискретная математика
@@ -162,12 +162,12 @@ dv_has_:
     sl: diskretna matematika
     sq: Matematika diskrete
     sr: дискретна математика
-    sr-ec: Дискретна математика
-    sr-el: Diskretna matematika
+    sr_ec: Дискретна математика
+    sr_el: Diskretna matematika
     sv: diskret matematik
     ta: இலக்கமியல் கணிதம்
     tg: Математикаи дискретӣ
-    tg-latn: Matematikai diskretī
+    tg_latn: Matematikai diskretī
     th: วิยุตคณิต
     tl: Diskretong matematika
     tr: ayrık matematik
@@ -179,12 +179,12 @@ dv_has_:
     yi: דיסקרעטע מאטעמאטיק
     yue: 離散數學
     zh: 离散数学
-    zh-cn: 离散数学
-    zh-hans: 离散数学
-    zh-hant: 離散數學
-    zh-hk: 離散數學
-    zh-sg: 离散数学
-    zh-tw: 離散數學
+    zh_cn: 离散数学
+    zh_hans: 离散数学
+    zh_hant: 離散數學
+    zh_hk: 離散數學
+    zh_sg: 离散数学
+    zh_tw: 離散數學
 ---
 # [[Discrete_Mathematics]] 
 

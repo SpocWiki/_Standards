@@ -73,7 +73,7 @@ dv_has_:
   name_:
     ar: قناة
     be: канал сувязі
-    be-tarask: канал сувязі
+    be_tarask: канал сувязі
     bg: Комуникационен канал
     bn: প্রণালি
     bs: kanal
@@ -82,11 +82,11 @@ dv_has_:
     cy: sianel
     da: kommunikationskanal
     de: Übertragungskanal
-    de-ch: Kanal
+    de_ch: Kanal
     el: Κανάλι μετάδοσης
     en: channel
-    en-ca: channel
-    en-gb: channel
+    en_ca: channel
+    en_gb: channel
     eo: komunika kanalo
     es: canal de comunicación
     et: sidekanal
@@ -112,14 +112,14 @@ dv_has_:
     lv: kanāls
     mk: канал
     ms: saluran
-    ms-arab: سالورن
+    ms_arab: سالورن
     mwl: Canhal
     nb: kanal
     nl: communicatiekanaal
     nn: kommunikasjonskanal
     pl: kanał komunikacyjny
     pt: canal
-    pt-br: Canal
+    pt_br: Canal
     ru: канал связи
     se: kanála
     si: සන්නිවේදන නාලිකාව
@@ -127,12 +127,12 @@ dv_has_:
     sl: kanal
     smn: kanava
     sr: канал
-    sr-ec: канал
-    sr-el: kanal
+    sr_ec: канал
+    sr_el: kanal
     sv: kanal
     tr: kanal
     tt: элемтә каналы
-    tt-cyrl: элемтә каналы
+    tt_cyrl: элемтә каналы
     uk: канал зв'язку
     ur: چینل
     uz: Aloqa kanali
@@ -141,9 +141,9 @@ dv_has_:
     wuu: 信道
     yue: 頻道
     zh: 信道
-    zh-hans: 信道
-    zh-hant: 通道
-    zh-hk: 頻道
+    zh_hans: 信道
+    zh_hant: 通道
+    zh_hk: 頻道
     zu: Umgudu wokuxhumana
 ---
 # [[Communication_Channel]] 

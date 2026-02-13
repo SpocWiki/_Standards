@@ -233,7 +233,7 @@ dv_has_:
     ba: Сәйәси фирҡә
     bar: politische Partei
     be: палітычная партыя
-    be-tarask: палітычная партыя
+    be_tarask: палітычная партыя
     bew: Parté pulitik
     bg: политическа партия
     bn: রাজনৈতিক দল
@@ -252,12 +252,12 @@ dv_has_:
     cy: plaid wleidyddol
     da: politisk parti
     de: politische Partei
-    de-ch: politische Partei
+    de_ch: politische Partei
     diq: Partiy
     el: πολιτικό κόμμα
     en: political party
-    en-ca: political party
-    en-gb: political party
+    en_ca: political party
+    en_gb: political party
     en-us: political party
     eo: partio
     es: partido político
@@ -304,7 +304,7 @@ dv_has_:
     krc: Политика партия
     krj: partido politikanhën
     ks: سِیٲسی جَماتھ
-    ku-latn: partiya siyasî
+    ku_latn: partiya siyasî
     kw: parti politek
     ky: Саясий партия
     la: factio politica
@@ -325,7 +325,7 @@ dv_has_:
     mn: Улс төрийн нам
     mr: राजकीय पक्ष
     ms: parti politik
-    ms-arab: ڤرتي ڤوليتيک
+    ms_arab: ڤرتي ڤوليتيک
     mt: partit politiku
     my: နိုင်ငံရေးပါတီ
     nan: Chèng-tóng
@@ -347,7 +347,7 @@ dv_has_:
     pnb: سیاسی پارٹی
     ps: سياسي گوند
     pt: partido político
-    pt-br: partido político
+    pt_br: partido político
     qu: Partidu
     ro: partid politic
     ru: политическая партия
@@ -370,8 +370,8 @@ dv_has_:
     so: Xisbi
     sq: parti politike
     sr: Политичка странка
-    sr-ec: политичка странка
-    sr-el: politička stranka
+    sr_ec: политичка странка
+    sr_el: politička stranka
     sv: politiskt parti
     sw: Chama cha kisiasa
     syl: ꠞꠣꠎꠘꠤꠔꠤꠇ ꠙꠣꠐꠤ
@@ -384,7 +384,7 @@ dv_has_:
     tl: partidong politikal
     tr: siyasi parti
     tt: сәяси фирка
-    tt-cyrl: сәяси фирка
+    tt_cyrl: сәяси фирка
     tw: Amanyɔ kuo
     udm: политик парти
     ug: پارتىيە
@@ -402,14 +402,14 @@ dv_has_:
     yo: Ẹgbẹ́ olóṣèlú
     yue: 政黨
     zh: 政黨
-    zh-cn: 政党
-    zh-hans: 政党
-    zh-hant: 政黨
-    zh-hk: 政黨
-    zh-mo: 政黨
+    zh_cn: 政党
+    zh_hans: 政党
+    zh_hant: 政黨
+    zh_hk: 政黨
+    zh_mo: 政黨
     zh-my: 政党
-    zh-sg: 政党
-    zh-tw: 政黨
+    zh_sg: 政党
+    zh_tw: 政黨
 ---
 # [[Political_Party]] 
 

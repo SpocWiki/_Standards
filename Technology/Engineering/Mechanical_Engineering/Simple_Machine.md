@@ -86,7 +86,7 @@ dv_has_:
     ar: آلة بسيطة
     as: সৰল যন্ত্ৰ
     ast: Máquina cenciella
-    be-tarask: просты мэханізм
+    be_tarask: просты мэханізм
     bg: Прост механизъм
     bn: সরল যন্ত্র
     bs: Jednostavne mašine
@@ -145,8 +145,8 @@ dv_has_:
     sk: Jednoduchý stroj
     sl: preprosti stroj
     sr: проста машина
-    sr-ec: проста машина
-    sr-el: prosta mašina
+    sr_ec: проста машина
+    sr_el: prosta mašina
     sv: enkel maskin
     ta: எளிய இயந்திரம்
     te: సరళ యంత్రం
@@ -158,12 +158,12 @@ dv_has_:
     wuu: 简单机械
     yue: 簡單機械
     zh: 简单机械
-    zh-cn: 简单机械
-    zh-hans: 简单机械
-    zh-hant: 簡單機械
-    zh-hk: 簡單機械
-    zh-sg: 简单机械
-    zh-tw: 簡單機械
+    zh_cn: 简单机械
+    zh_hans: 简单机械
+    zh_hant: 簡單機械
+    zh_hk: 簡單機械
+    zh_sg: 简单机械
+    zh_tw: 簡單機械
     zu: INguxa elula
 ---
 # [[Simple_Machine]] 

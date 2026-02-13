@@ -102,7 +102,7 @@ dv_has_:
     az: Karib Ölkələri Birliyi
     ba: Кариб берләшмәһе
     be: Карыбская супольнасць
-    be-tarask: Карыбская супольнасьць
+    be_tarask: Карыбская супольнасьць
     bg: Карибска общност
     ca: Comunitat del Carib
     cs: Karibské společenství
@@ -111,8 +111,8 @@ dv_has_:
     de: Karibische Gemeinschaft
     el: Καραϊβική Κοινότητα
     en: Caribbean Community
-    en-ca: Caribbean Community
-    en-gb: Caribbean Community
+    en_ca: Caribbean Community
+    en_gb: Caribbean Community
     en-us: Caribbean Community
     eo: Karibia Komunumo
     es: Comunidad del Caribe
@@ -150,7 +150,7 @@ dv_has_:
     pnb: کیربین کمیونٹی
     ps: کارابين ټولنه
     pt: Comunidade das Caraíbas
-    pt-br: Comunidade do Caribe
+    pt_br: Comunidade do Caribe
     ro: Comunitatea Caraibelor
     ru: Карибское сообщество
     sl: Karibska skupnost
@@ -165,14 +165,14 @@ dv_has_:
     vi: Cộng đồng Caribe
     yue: 加勒比共同體
     zh: 加勒比共同體
-    zh-cn: 加勒比共同体
-    zh-hans: 加勒比共同体
-    zh-hant: 加勒比共同體
-    zh-hk: 加勒比共同體
-    zh-mo: 加勒比共同體
+    zh_cn: 加勒比共同体
+    zh_hans: 加勒比共同体
+    zh_hant: 加勒比共同體
+    zh_hk: 加勒比共同體
+    zh_mo: 加勒比共同體
     zh-my: 加勒比共同体
-    zh-sg: 加勒比共同体
-    zh-tw: 加勒比共同體
+    zh_sg: 加勒比共同体
+    zh_tw: 加勒比共同體
 ---
 # [[Caribbean_Community]] 
 

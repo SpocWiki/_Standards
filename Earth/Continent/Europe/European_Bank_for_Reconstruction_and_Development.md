@@ -120,7 +120,7 @@ dv_has_:
     ast: Bancu Européu pa la Reconstrucción y el Desenvolvimientu
     az: Avropa Yenidənqurma və İnkişaf Bankı
     be: Еўрапейскі банк рэканструкцыі і развіцця
-    be-tarask: Эўрапейскі банк рэканструкцыі і разьвіцьця
+    be_tarask: Эўрапейскі банк рэканструкцыі і разьвіцьця
     bg: Европейска банка за възстановяване и развитие
     ca: Banc Europeu de Reconstrucció i Desenvolupament
     cs: Evropská banka pro obnovu a rozvoj
@@ -166,8 +166,8 @@ dv_has_:
     sl: Evropska banka za obnovo in razvoj
     sq: Banka Evropiane për Rindërtim dhe Zhvillim
     sr: Европска банка за обнову и развој
-    sr-ec: Европска банка за обнову и развој
-    sr-el: Evropska banka za obnovu i razvoj
+    sr_ec: Европска банка за обнову и развој
+    sr_el: Evropska banka za obnovu i razvoj
     sv: Europeiska banken för återuppbyggnad och utveckling
     tg: Бонки аврупоии бозсозӣ ва тавсеъа
     tr: Avrupa İmar ve Kalkınma Bankası
@@ -177,9 +177,9 @@ dv_has_:
     vec: Banca Eoropea de Recostrusion e Desviłupo
     vi: Ngân hàng Tái thiết và Phát triển châu Âu
     zh: 欧洲复兴开发银行
-    zh-hans: 欧洲复兴开发银行
-    zh-hant: 歐洲復興開發銀行
-    zh-hk: 歐洲復興開發銀行
+    zh_hans: 欧洲复兴开发银行
+    zh_hant: 歐洲復興開發銀行
+    zh_hk: 歐洲復興開發銀行
 ---
 # [[European_Bank_for_Reconstruction_and_Development]] 
 

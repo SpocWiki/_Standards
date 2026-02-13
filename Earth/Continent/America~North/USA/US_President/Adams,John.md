@@ -96,7 +96,7 @@ dv_has_:
     ban: John Adams
     bcl: John Adams
     be: Джон Адамс
-    be-tarask: Джон Адамз
+    be_tarask: Джон Адамз
     bg: Джон Адамс
     bi: John Adams
     bn: জন অ্যাডামস
@@ -121,8 +121,8 @@ dv_has_:
     ee: John Adams
     el: Τζον Άνταμς
     en: John Adams
-    en-ca: John Adams
-    en-gb: John Adams
+    en_ca: John Adams
+    en_gb: John Adams
     eo: John Adams
     es: John Adams
     et: John Adams
@@ -192,7 +192,7 @@ dv_has_:
     nan: John Adams
     nb: John Adams
     nds: John Adams
-    nds-nl: John Adams
+    nds_nl: John Adams
     ne: जोन एडाम्स
     new: जन एदम्स
     nl: John Adams
@@ -208,7 +208,7 @@ dv_has_:
     pnb: جان ایڈمز
     ps: جان اډمز
     pt: John Adams
-    pt-br: John Adams
+    pt_br: John Adams
     qu: John Adams
     rmf: John Adams
     ro: John Adams
@@ -256,7 +256,7 @@ dv_has_:
     yo: John Adams
     yue: 約翰亞當斯
     zh: 約翰·亞當斯
-    zh-hant: 約翰亞當斯
+    zh_hant: 約翰亞當斯
     zu: Nqubani
   time_:
     started: 1735-10-30T00:00:00.000+00:53

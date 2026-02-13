@@ -197,7 +197,7 @@ dv_has_:
     bar: Elizabeth Taylor
     bcl: Elizabeth Taylor
     be: Элізабет Тэйлар
-    be-tarask: Элізабэт Тэйлар
+    be_tarask: Элізабэт Тэйлар
     bg: Елизабет Тейлър
     bi: Elizabeth Taylor
     bjn: Elizabeth Taylor
@@ -215,12 +215,12 @@ dv_has_:
     dag: Elizabeth Taylor
     de: Elizabeth Taylor
     de-at: Elizabeth Taylor
-    de-ch: Elizabeth Taylor
+    de_ch: Elizabeth Taylor
     ee: Elizabeth Taylor
     el: Ελίζαμπεθ Τέιλορ
     en: Elizabeth Taylor
-    en-ca: Elizabeth Taylor
-    en-gb: Elizabeth Taylor
+    en_ca: Elizabeth Taylor
+    en_gb: Elizabeth Taylor
     eo: Elizabeth Taylor
     es: Elizabeth Taylor
     et: Elizabeth Taylor
@@ -289,7 +289,7 @@ dv_has_:
     nap: Elizabeth Taylor
     nb: Elizabeth Taylor
     nds: Elizabeth Taylor
-    nds-nl: Elizabeth Taylor
+    nds_nl: Elizabeth Taylor
     ne: एलिजाबेथ टेलर
     new: एलिजाबेथ टेलर
     nl: Elizabeth Taylor
@@ -304,7 +304,7 @@ dv_has_:
     pnb: الزبتھ ٹیلر
     prg: Elizabeth Taylor
     pt: Elizabeth Taylor
-    pt-br: Elizabeth Taylor
+    pt_br: Elizabeth Taylor
     qu: Elizabeth Taylor
     rgn: Elizabeth Taylor
     rm: Elizabeth Taylor
@@ -318,8 +318,8 @@ dv_has_:
     sl: Elizabeth Taylor
     sq: Elizabet Tejlor
     sr: Елизабет Тејлор
-    sr-ec: Елизабет Тејлор
-    sr-el: Elizabeth Taylor
+    sr_ec: Елизабет Тејлор
+    sr_el: Elizabeth Taylor
     sv: Elizabeth Taylor
     sw: Elizabeth Taylor
     ta: எலிசபெத் டெய்லர்
@@ -346,13 +346,13 @@ dv_has_:
     yo: Elizabeth Taylor
     yue: 伊利沙伯泰萊
     zh: 伊丽莎白·泰勒
-    zh-cn: 伊丽莎白·泰勒
-    zh-hans: 伊丽莎白·泰勒
-    zh-hant: 伊莉莎白·泰勒
-    zh-hk: 伊利沙伯·泰萊
+    zh_cn: 伊丽莎白·泰勒
+    zh_hans: 伊丽莎白·泰勒
+    zh_hant: 伊莉莎白·泰勒
+    zh_hk: 伊利沙伯·泰萊
     zh-my: 伊莉莎白·泰莱
-    zh-sg: 伊丽莎白·泰勒
-    zh-tw: 伊莉莎白·泰勒
+    zh_sg: 伊丽莎白·泰勒
+    zh_tw: 伊莉莎白·泰勒
     zu: Elizabeth Taylor
 ---
 # [[Elizabeth_Taylor]] 

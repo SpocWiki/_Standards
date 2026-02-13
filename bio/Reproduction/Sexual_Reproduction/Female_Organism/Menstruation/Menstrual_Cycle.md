@@ -95,7 +95,7 @@ dv_has_:
     ast: ciclu menstrual
     az: Heyz
     bcl: Siklo nin mga menstrual
-    be-tarask: мэнструальны цыкль
+    be_tarask: мэнструальны цыкль
     bg: Менструален цикъл
     bs: menstrualni ciklus
     ca: cicle sexual femení
@@ -129,7 +129,7 @@ dv_has_:
     kn: ಋತುಚಕ್ರ
     ko: 월경 주기
     ku: Çerxa mehane
-    ku-latn: çerxa mehane
+    ku_latn: çerxa mehane
     la: Cyclus menstrualis
     lt: mėnesinių ciklas
     lv: Menstruālais cikls

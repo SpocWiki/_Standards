@@ -163,7 +163,7 @@ dv_has_:
     azb: پله
     ba: Пеле
     be: Пеле
-    be-tarask: Пэле
+    be_tarask: Пэле
     bg: Пеле
     bho: पेले
     bn: পেলে
@@ -263,11 +263,11 @@ dv_has_:
     xmf: პელე
     yue: 比利
     zh: 贝利
-    zh-cn: 贝利
-    zh-hans: 贝利
-    zh-hant: 貝利
-    zh-hk: 比利
-    zh-tw: 比利
+    zh_cn: 贝利
+    zh_hans: 贝利
+    zh_hant: 貝利
+    zh_hk: 比利
+    zh_tw: 比利
 ---
 # [[Pelé]] 
 

@@ -10,7 +10,7 @@ dv_has_:
     az: fotoqrafiya
     bcl: retrato
     be: фатаграфія
-    be-tarask: фатаздымак
+    be_tarask: фатаздымак
     bg: снимка
     bn: আলোকচিত্র
     br: luc'hskeudenn
@@ -92,7 +92,7 @@ dv_has_:
     pnb: فوٹو
     ps: انځور
     pt: fotografia
-    pt-br: fotografia
+    pt_br: fotografia
     qu: lantiqillqa
     ro: fotografie
     ru: фотография
@@ -112,8 +112,8 @@ dv_has_:
     so: sawir
     sq: fotografi
     sr: фотографија
-    sr-ec: фотографија
-    sr-el: fotografija
+    sr_ec: фотографија
+    sr_el: fotografija
     su: poto
     sv: fotografi
     sw: picha mgando
@@ -135,14 +135,14 @@ dv_has_:
     yo: photography
     yue: 相
     zh: 相片
-    zh-cn: 相片
-    zh-hans: 相片
-    zh-hant: 相片
-    zh-hk: 相片
-    zh-mo: 相片
+    zh_cn: 相片
+    zh_hans: 相片
+    zh_hant: 相片
+    zh_hk: 相片
+    zh_mo: 相片
     zh-my: 相片
-    zh-sg: 相片
-    zh-tw: 相片
+    zh_sg: 相片
+    zh_tw: 相片
     zu: izithombe
 aliases:
 - argazki

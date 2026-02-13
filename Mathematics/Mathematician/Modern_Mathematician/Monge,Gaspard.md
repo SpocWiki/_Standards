@@ -129,7 +129,7 @@ dv_has_:
     azb: قاسپار مونژ
     bar: Gaspard Monge
     be: Гаспар Монж
-    be-tarask: Гаспар Монж
+    be_tarask: Гаспар Монж
     bg: Гаспар Монж
     bm: Gaspard Monge
     br: Gaspard Monge
@@ -141,11 +141,11 @@ dv_has_:
     da: Gaspard Monge
     de: Gaspard Monge
     de-at: Gaspard Monge
-    de-ch: Gaspard Monge
+    de_ch: Gaspard Monge
     el: Γκασπάρ Μονζ
     en: Gaspard Monge
-    en-ca: Gaspard Monge
-    en-gb: Gaspard Monge
+    en_ca: Gaspard Monge
+    en_gb: Gaspard Monge
     eo: Gaspard Monge
     es: Gaspard Monge
     et: Gaspard Monge
@@ -188,7 +188,7 @@ dv_has_:
     nap: Gaspard Monge
     nb: Gaspard Monge
     nds: Gaspard Monge
-    nds-nl: Gaspard Monge
+    nds_nl: Gaspard Monge
     nl: Gaspard Monge
     nn: Gaspard Monge
     nrm: Gaspard Monge
@@ -199,7 +199,7 @@ dv_has_:
     pms: Gaspard Monge
     prg: Gaspard Monge
     pt: Gaspard Monge
-    pt-br: Gaspard Monge
+    pt_br: Gaspard Monge
     rgn: Gaspard Monge
     rm: Gaspard Monge
     ro: Gaspard Monge
@@ -211,7 +211,7 @@ dv_has_:
     sl: Gaspard Monge
     sq: Gaspard Monge
     sr: Gaspar Monž
-    sr-el: Gaspard Monge
+    sr_el: Gaspard Monge
     sv: Gaspard Monge
     sw: Gaspard Monge
     tr: Gaspard Monge
@@ -225,12 +225,12 @@ dv_has_:
     wo: Gaspard Monge
     yue: 加斯帕爾·蒙日
     zh: 加斯帕尔·蒙日
-    zh-cn: 加斯帕尔·蒙日
-    zh-hans: 加斯帕尔·蒙日
-    zh-hant: 加斯帕爾·蒙日
-    zh-hk: 加斯帕爾·蒙日
-    zh-sg: 加斯帕尔·蒙日
-    zh-tw: 加斯帕爾·蒙日
+    zh_cn: 加斯帕尔·蒙日
+    zh_hans: 加斯帕尔·蒙日
+    zh_hant: 加斯帕爾·蒙日
+    zh_hk: 加斯帕爾·蒙日
+    zh_sg: 加斯帕尔·蒙日
+    zh_tw: 加斯帕爾·蒙日
     zu: Gaspard Monge
 ---
 # [[Monge,Gaspard]] 

@@ -144,7 +144,7 @@ dv_has_:
     az: Con Bardin
     azb: جان باردین
     be: Джон Бардзін
-    be-tarask: Джон Бардын
+    be_tarask: Джон Бардын
     bg: Джон Бардийн
     bn: জন বারডিন
     bs: John Bardeen
@@ -155,11 +155,11 @@ dv_has_:
     da: John Bardeen
     dag: John Bardeen
     de: John Bardeen
-    de-ch: John Bardeen
+    de_ch: John Bardeen
     el: Τζον Μπαρντίν
     en: John Bardeen
-    en-ca: John Bardeen
-    en-gb: John Bardeen
+    en_ca: John Bardeen
+    en_gb: John Bardeen
     eo: John Bardeen
     es: John Bardeen
     et: John Bardeen
@@ -210,7 +210,7 @@ dv_has_:
     pl: John Bardeen
     pnb: جان بردین
     pt: John Bardeen
-    pt-br: John Bardeen
+    pt_br: John Bardeen
     qu: John Bardeen
     ro: John Bardeen
     ru: Джон Бардин
@@ -239,9 +239,9 @@ dv_has_:
     yo: John Bardeen
     yue: 尊巴甸
     zh: 约翰·巴丁
-    zh-cn: 约翰·巴丁
-    zh-hans: 约翰·巴丁
-    zh-hant: 约翰·巴丁
+    zh_cn: 约翰·巴丁
+    zh_hans: 约翰·巴丁
+    zh_hant: 约翰·巴丁
 ---
 # [[Bardeen,John]] 
 

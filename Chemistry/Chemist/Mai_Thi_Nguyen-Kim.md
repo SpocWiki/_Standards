@@ -17,11 +17,11 @@ dv_has_:
     da: Mai Thi Nguyen-Kim
     de: Mai Thi Nguyen-Kim
     de-at: Mai Thi Nguyen-Kim
-    de-ch: Mai Thi Nguyen-Kim
+    de_ch: Mai Thi Nguyen-Kim
     el: Μάι Τζι Νγκουγιέν-Κιμ
     en: Mai Thi Nguyen-Kim
-    en-ca: Mai Thi Nguyen-Kim
-    en-gb: Mai Thi Nguyen-Kim
+    en_ca: Mai Thi Nguyen-Kim
+    en_gb: Mai Thi Nguyen-Kim
     eo: Mai Thi Nguyen-Kim
     es: Mai Thi Nguyen-Kim
     et: Mai Thi Nguyen-Kim
@@ -58,7 +58,7 @@ dv_has_:
     nap: Mai Thi Nguyen-Kim
     nb: Mai Thi Nguyen-Kim
     nds: Mai Thi Nguyen-Kim
-    nds-nl: Mai Thi Nguyen-Kim
+    nds_nl: Mai Thi Nguyen-Kim
     nl: Mai Thi Nguyen-Kim
     nn: Mai Thi Nguyen-Kim
     nrm: Mai Thi Nguyen-Kim
@@ -69,7 +69,7 @@ dv_has_:
     pms: Mai Thi Nguyen-Kim
     prg: Mai Thi Nguyen-Kim
     pt: Mai Thi Nguyen-Kim
-    pt-br: Mai Thi Nguyen-Kim
+    pt_br: Mai Thi Nguyen-Kim
     rgn: Mai Thi Nguyen-Kim
     rm: Mai Thi Nguyen-Kim
     ro: Mai Thi Nguyen-Kim

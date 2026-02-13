@@ -44,7 +44,7 @@ dv_has_:
     ast: Cucurbitales
     az: Balqabaqçiçəklilər
     be: Гарбузакветныя
-    be-tarask: Гарбузакветныя
+    be_tarask: Гарбузакветныя
     bg: тиквоцветни
     bs: Cucurbitales
     ca: Cucurbitals
@@ -56,8 +56,8 @@ dv_has_:
     de: Kürbisartige
     el: Κολοκυνθώδη
     en: Cucurbitales
-    en-ca: Cucurbitales
-    en-gb: Cucurbitales
+    en_ca: Cucurbitales
+    en_gb: Cucurbitales
     eo: Kukurbaloj
     es: Cucurbitales
     et: Kõrvitsalaadsed
@@ -94,7 +94,7 @@ dv_has_:
     oc: Cucurbitales
     pl: dyniowce
     pt: Cucurbitales
-    pt-br: Cucurbitales
+    pt_br: Cucurbitales
     ro: Cucurbitales
     ru: тыквоцветные
     sco: Cucurbitales
@@ -111,9 +111,9 @@ dv_has_:
     wuu: 葫芦目
     yue: 葫蘆目
     zh: 葫芦目
-    zh-cn: 葫芦目
-    zh-hans: 葫芦目
-    zh-hant: 葫芦目
+    zh_cn: 葫芦目
+    zh_hans: 葫芦目
+    zh_hant: 葫芦目
 ---
 # [[Cucurbitales]] 
 

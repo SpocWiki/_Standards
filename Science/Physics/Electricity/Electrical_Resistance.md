@@ -128,7 +128,7 @@ dv_has_:
     az: elektrik müqaviməti
     bar: elektrischa Widastaund
     be: электрычнае супраціўленне
-    be-tarask: супор
+    be_tarask: супор
     bg: електрическо съпротивление
     bn: রোধ
     bs: električni otpor
@@ -219,10 +219,10 @@ dv_has_:
     wuu: 电阻
     yue: 電阻
     zh: 電阻
-    zh-hans: 电阻
-    zh-hant: 電阻
-    zh-hk: 電阻
-    zh-tw: 電阻
+    zh_hans: 电阻
+    zh_hant: 電阻
+    zh_hk: 電阻
+    zh_tw: 電阻
 ---
 # [[Electrical_Resistance]] 
 

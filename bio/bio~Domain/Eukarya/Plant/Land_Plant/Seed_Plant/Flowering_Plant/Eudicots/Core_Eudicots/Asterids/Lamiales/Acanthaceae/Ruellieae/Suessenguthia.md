@@ -31,7 +31,7 @@ dv_has_:
     oc: Suessenguthia
     pl: Suessenguthia
     pt: Suessenguthia
-    pt-br: Suessenguthia
+    pt_br: Suessenguthia
     ro: Suessenguthia
     ru: Suessenguthia
     sq: Suessenguthia

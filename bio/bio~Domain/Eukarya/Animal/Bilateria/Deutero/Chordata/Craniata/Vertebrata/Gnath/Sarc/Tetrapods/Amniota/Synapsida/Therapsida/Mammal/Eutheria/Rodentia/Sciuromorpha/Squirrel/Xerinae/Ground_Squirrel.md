@@ -88,7 +88,7 @@ dv_has_:
     oc: Marmotini
     pl: świstaki
     pt: esquilo-terrestre
-    pt-br: Marmotini
+    pt_br: Marmotini
     ro: Marmotini
     ru: Marmotini
     sl: Marmotini
@@ -100,9 +100,9 @@ dv_has_:
     vo: Marmotini
     war: Marmotini
     zh: 地松鼠族
-    zh-cn: 地松鼠族
-    zh-hans: 地松鼠族
-    zh-tw: 地松鼠族
+    zh_cn: 地松鼠族
+    zh_hans: 地松鼠族
+    zh_tw: 地松鼠族
 ---
 # [[Ground_Squirrel]]  
 

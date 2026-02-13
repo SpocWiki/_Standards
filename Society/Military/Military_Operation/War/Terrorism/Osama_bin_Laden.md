@@ -178,7 +178,7 @@ dv_has_:
     azb: اسامه بن لادن
     bcl: Osama bin Laden
     be: Усама бін Ладэн
-    be-tarask: Усама бін Ладэн
+    be_tarask: Усама бін Ладэн
     bg: Осама бин Ладен
     bho: ओसामा बिन लादेन
     bn: ওসামা বিন লাদেন
@@ -193,13 +193,13 @@ dv_has_:
     cy: Osama bin Laden
     da: Osama bin Laden
     de: Osama bin Laden
-    de-ch: Osama bin Laden
+    de_ch: Osama bin Laden
     diq: Usama bın Ladın
     dsb: Osama bin Laden
     el: Οσάμα μπιν Λάντεν
     en: Osama bin Laden
-    en-ca: Osama bin Laden
-    en-gb: Osama bin Laden
+    en_ca: Osama bin Laden
+    en_gb: Osama bin Laden
     en-us: Osama bin Laden
     eo: Usama bin Laden
     es: Osama bin Laden
@@ -249,7 +249,7 @@ dv_has_:
     lv: Osama bin Ladens
     lzh: 拉登
     mai: ओसामा बिन लादेन
-    map-bms: Usamah bin Ladin
+    map_bms: Usamah bin Ladin
     mg: Osama Bin Laden
     mhr: Усама бен Ладен
     mk: Осама бин Ладен
@@ -257,7 +257,7 @@ dv_has_:
     mn: Осама бен Ладен
     mr: ओसामा बिन लादेन
     ms: Osama bin Laden
-    ms-arab: أسامة بن لادن
+    ms_arab: أسامة بن لادن
     mt: Osama Bin Laden
     mwl: Osama bin Laden
     my: အိုစမာ ဘင်လာဒင်
@@ -281,7 +281,7 @@ dv_has_:
     pnb: اسامہ بن لادن
     ps: اسامه بن لادن
     pt: Osama bin Laden
-    pt-br: Osama bin Laden
+    pt_br: Osama bin Laden
     ro: Osama bin Laden
     ru: Усама бен Ладен
     rw: Osama Bin Laden
@@ -322,10 +322,10 @@ dv_has_:
     yue: 賓拉登
     zea: Osama bin Laden
     zh: 奥萨马·本·拉登
-    zh-cn: 奥萨马·本·拉登
-    zh-hans: 奥萨马·本·拉登
-    zh-hant: 奧薩馬·本·拉登
-    zh-tw: 奧薩瑪·賓·拉登
+    zh_cn: 奥萨马·本·拉登
+    zh_hans: 奥萨马·本·拉登
+    zh_hant: 奧薩馬·本·拉登
+    zh_tw: 奧薩瑪·賓·拉登
 ---
 # [[Osama_bin_Laden]] 
 

@@ -269,7 +269,7 @@ dv_has_:
     bar: Nikolaus Kopernikus
     bcl: Nicolaus Copernicus
     be: Мікалай Капернік
-    be-tarask: Мікалай Капэрнік
+    be_tarask: Мікалай Капэрнік
     bg: Николай Коперник
     bi: Nicolaus Copernicus
     bn: নিকোলাস কোপার্নিকাস
@@ -286,12 +286,12 @@ dv_has_:
     cy: Nicolaus Copernicus
     da: Nicolaus Kopernikus
     de: Nikolaus Kopernikus
-    de-ch: Nikolaus Kopernikus
+    de_ch: Nikolaus Kopernikus
     diq: Nicolaus Copernicus
     el: Νικόλαος Κοπέρνικος
     en: Nicolaus Copernicus
-    en-ca: Nicolaus Copernicus
-    en-gb: Nicolaus Copernicus
+    en_ca: Nicolaus Copernicus
+    en_gb: Nicolaus Copernicus
     en-us: Nicolaus Copernicus
     eo: Nikolao Koperniko
     es: Nicolás Copérnico
@@ -359,7 +359,7 @@ dv_has_:
     mr: निकोलस कोपर्निकस
     mrj: Коперник, Миколай
     ms: Nicolaus Copernicus
-    ms-arab: نيکولاءوس کوڤرنيکس
+    ms_arab: نيکولاءوس کوڤرنيکس
     mul: Nicolaus Copernicus
     mwl: Nicolau Copérnico
     my: ကော်ပါးနိကပ်စ်၊ နီကိုလာ့စ်
@@ -368,7 +368,7 @@ dv_has_:
     nan: Nicolaus Copernicus
     nb: Nikolaus Kopernikus
     nds: Nikolaus Kopernikus
-    nds-nl: Niklaos Kopernikus
+    nds_nl: Niklaos Kopernikus
     ne: निकोलस कोपर्निकस
     new: निकोलस कपरनिकस
     nia: Nikola Koförniku
@@ -439,8 +439,8 @@ dv_has_:
     yue: 哥白尼
     zea: Nicolaus Copernicus
     zh: 尼古拉·哥白尼
-    zh-hk: 尼古拉·哥白尼
-    zh-tw: 尼古拉·哥白尼
+    zh_hk: 尼古拉·哥白尼
+    zh_tw: 尼古拉·哥白尼
 ---
 [[Copernicus,Nicolaus]] 
 

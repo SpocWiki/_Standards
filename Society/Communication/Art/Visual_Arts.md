@@ -170,7 +170,7 @@ dv_has_:
     ba: Һынлы сәнғәт
     bar: Buidnde Kunst
     be: выяўленчае мастацтва
-    be-tarask: выяўленчае мастацтва
+    be_tarask: выяўленчае мастацтва
     bg: Изобразително изкуство
     bho: विजुअल आर्ट
     bn: দৃশ্যকলা
@@ -184,11 +184,11 @@ dv_has_:
     da: billedkunst
     dag: Visual art
     de: Bildende Kunst
-    de-ch: Bildende Kunst
+    de_ch: Bildende Kunst
     el: εικαστικές τέχνες
     en: visual arts
-    en-ca: visual arts
-    en-gb: visual arts
+    en_ca: visual arts
+    en_gb: visual arts
     eo: vidigaj artoj
     es: artes visuales
     et: visuaalkunst
@@ -232,18 +232,18 @@ dv_has_:
     li: Beeldende kuns
     lt: dailė
     lv: tēlotāja māksla
-    map-bms: Seni rupa
+    map_bms: Seni rupa
     mi: ngā toi ataata
     mk: ликовна уметност
     ml: ദൃശ്യ കലകൾ
     ms: seni tampak
-    ms-arab: سني تمڤق
+    ms_arab: سني تمڤق
     mt: arti viżiva
     mwl: Artes Bisuales
     nan: Sī-kak gē-su̍t
     nap: Arte visuale
     nb: billedkunst
-    nds-nl: beeldende keunst
+    nds_nl: beeldende keunst
     new: दृश्य कला
     nl: beeldende kunst
     nn: biletkunst
@@ -252,7 +252,7 @@ dv_has_:
     pa: ਵਿਜੂਅਲ ਆਰਟਸ
     pl: sztuki wizualne
     pt: artes visuais
-    pt-br: artes visuais
+    pt_br: artes visuais
     qu: Rikch'a kapchiy
     ro: arte vizuale
     ru: изобразительное искусство
@@ -281,7 +281,7 @@ dv_has_:
     tly: Təsvirijə nəčiməsənət
     tr: görsel sanatlar
     tt: тасвирый сәнгать
-    tt-cyrl: тасвири сәнгать
+    tt_cyrl: тасвири сәнгать
     uk: образотворче мистецтво
     ur: بصری فنون
     uz: tasviriy sanʼat
@@ -294,11 +294,11 @@ dv_has_:
     yi: וויזועלע קונסטן
     yue: 視覺藝術
     zh: 視覺藝術
-    zh-cn: 视觉艺术
-    zh-hans: 视觉艺术
-    zh-hant: 視覺藝術
-    zh-hk: 視覺藝術
-    zh-tw: 視覺藝術
+    zh_cn: 视觉艺术
+    zh_hans: 视觉艺术
+    zh_hant: 視覺藝術
+    zh_hk: 視覺藝術
+    zh_tw: 視覺藝術
 ---
 # [[Visual_Arts]]
 

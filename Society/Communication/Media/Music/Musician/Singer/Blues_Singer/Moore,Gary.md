@@ -102,7 +102,7 @@ dv_has_:
     ast: Gary Moore
     az: Qari Mur
     azb: قری مور
-    be-tarask: Гэры Мур
+    be_tarask: Гэры Мур
     bg: Гери Мур
     ca: Gary Moore
     cs: Gary Moore
@@ -139,7 +139,7 @@ dv_has_:
     nn: Gary Moore
     pl: Gary Moore
     pt: Gary Moore
-    pt-br: Gary Moore
+    pt_br: Gary Moore
     ro: Gary Moore
     ru: Гэри Мур
     sh: Gary Moore
@@ -147,8 +147,8 @@ dv_has_:
     sl: Gary Moore
     sq: Gary Moore
     sr: Гари Мур
-    sr-ec: Гари Мур
-    sr-el: Gari Mur
+    sr_ec: Гари Мур
+    sr_el: Gari Mur
     sv: Gary Moore
     th: แกรี มัวร์
     tr: Gary Moore
@@ -158,7 +158,7 @@ dv_has_:
     wuu: 盖瑞·摩尔
     yue: 蓋瑞·摩爾
     zh: 盖瑞·摩尔
-    zh-hant: 蓋瑞·摩爾
+    zh_hant: 蓋瑞·摩爾
 ---
 # [[Moore,Gary]] 
 

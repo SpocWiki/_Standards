@@ -118,7 +118,7 @@ dv_has_:
     af: Dewey klassifikasiestelsel
     ar: تصنيف ديوي العشري
     atj: e ici actek Dewey
-    be-tarask: дзесятковая клясыфікацыя Д’юі
+    be_tarask: дзесятковая клясыфікацыя Д’юі
     bg: Десетична класификация на Дюи
     bn: ডিউই ডেসিমাল শ্রেণীবিন্যাস
     bs: Dewey decimalna klasifikacija
@@ -130,8 +130,8 @@ dv_has_:
     de: Dewey-Dezimalklassifikation
     el: Δεκαδικό Σύστημα Ταξινόμησης Ντιούι
     en: Dewey Decimal Classification
-    en-ca: Dewey Decimal Classification
-    en-gb: Dewey Decimal Classification
+    en_ca: Dewey Decimal Classification
+    en_gb: Dewey Decimal Classification
     eo: Dewey dekuma klasifiko
     es: sistema Dewey de clasificación
     eu: Dewey sailkapen sistema
@@ -157,7 +157,7 @@ dv_has_:
     ml: ഡ്യൂയി ഡെസിമൽ വർഗ്ഗീകരണം
     mn: Дюигийн аравтын ангилал
     ms: Pengelasan Perpuluhan Dewey
-    ms-arab: ڤڠلسن ڤرڤولوهن دووي
+    ms_arab: ڤڠلسن ڤرڤولوهن دووي
     nan: Dewey Si̍p-chìn Hun-lūi-hoat
     nb: Deweys desimalklassifikasjon
     nl: Dewey Decimale Classificatie
@@ -166,7 +166,7 @@ dv_has_:
     pag: Dewey classification system
     pl: klasyfikacja dziesiętna Deweya
     pt: Classificação Decimal de Dewey
-    pt-br: Classificação Decimal de Dewey
+    pt_br: Classificação Decimal de Dewey
     ro: Clasificarea zecimală Dewey
     ru: десятичная классификация Дьюи
     scn: classificazzioni dicimali di Dewey
@@ -176,7 +176,7 @@ dv_has_:
     sk: Deweyho desatinné triedenie
     sl: Deweyjeva decimalna klasifikacija
     sr: Dewey Decimal Classification
-    sr-ec: Dewey Decimal Classification
+    sr_ec: Dewey Decimal Classification
     sv: Dewey Decimal Classification
     ta: தூவி தசம வகைப்படுத்தல்
     th: การจัดหมู่ระบบทศนิยมดิวอี้
@@ -185,9 +185,9 @@ dv_has_:
     ur: ڈیوی اعشاریائی درجہ بندی
     yue: 杜威十進制圖書分類法
     zh: 杜威十进制图书分类法
-    zh-cn: 杜威十进制图书分类法
-    zh-hans: 杜威十进制图书分类法
-    zh-hant: 杜威十進制圖書分類法
+    zh_cn: 杜威十进制图书分类法
+    zh_hans: 杜威十进制图书分类法
+    zh_hant: 杜威十進制圖書分類法
     zu: UMjinjo wezishumi womtapolwazi
 ---
 # [[Dewey_Decimal_Classification]]

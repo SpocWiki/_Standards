@@ -128,7 +128,7 @@ dv_has_:
     ast: Dahlia
     az: Soğangülü
     be: вяргіня
-    be-tarask: юргіня
+    be_tarask: юргіня
     bg: далия
     bn: ডালিয়া
     bs: Dalija
@@ -143,8 +143,8 @@ dv_has_:
     el: Ντάλια
     eml: Giurgìna
     en: Dahlia
-    en-ca: Dahlia
-    en-gb: Dahlia
+    en_ca: Dahlia
+    en_gb: Dahlia
     eo: Dalio
     es: Dahlia
     et: Daalia
@@ -203,7 +203,7 @@ dv_has_:
     pl: Dalia
     pnb: ڈہلیا
     pt: Dahlia
-    pt-br: Dahlia
+    pt_br: Dahlia
     ro: Dahlia
     ru: Георгина
     sco: Dahlia
@@ -231,12 +231,12 @@ dv_has_:
     wuu: 大丽菊
     yue: 大麗花
     zh: 大丽花属
-    zh-cn: 大丽花属
-    zh-hans: 大丽花属
-    zh-hant: 大麗花屬
-    zh-hk: 大麗花屬
-    zh-sg: 大丽花属
-    zh-tw: 大麗花屬
+    zh_cn: 大丽花属
+    zh_hans: 大丽花属
+    zh_hant: 大麗花屬
+    zh_hk: 大麗花屬
+    zh_sg: 大丽花属
+    zh_tw: 大麗花屬
 ---
 # [[Dahlia]] 
 

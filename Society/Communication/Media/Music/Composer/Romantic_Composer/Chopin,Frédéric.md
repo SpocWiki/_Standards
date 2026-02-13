@@ -230,7 +230,7 @@ dv_has_:
     ba: Фредерик Шопен
     bar: Frédéric Chopin
     be: Фрыдэрык Шапен
-    be-tarask: Фрыдэрык Шапэн
+    be_tarask: Фрыдэрык Шапэн
     bg: Фредерик Шопен
     bho: फ्रेडरिक शोपें
     bn: ফ্রেদেরিক শোপাঁ
@@ -248,14 +248,14 @@ dv_has_:
     cy: Frédéric Chopin
     da: Frédéric Chopin
     de: Frédéric Chopin
-    de-ch: Frédéric Chopin
+    de_ch: Frédéric Chopin
     diq: Frédéric Chopin
     dsb: Fryderyk Chopin
     ee: Frédéric Chopin
     el: Φρεντερίκ Σοπέν
     en: Frédéric Chopin
-    en-ca: Frédéric Chopin
-    en-gb: Frédéric Chopin
+    en_ca: Frédéric Chopin
+    en_gb: Frédéric Chopin
     en-us: Frédéric Chopin
     eo: Frédéric Chopin
     es: Frédéric Chopin
@@ -332,7 +332,7 @@ dv_has_:
     nan: Frédéric Chopin
     nb: Frédéric Chopin
     nds: Frédéric Chopin
-    nds-nl: Frédéric Chopin
+    nds_nl: Frédéric Chopin
     new: फ्रेडेरिक चोपिन
     nl: Frédéric Chopin
     nn: Frédéric Chopin
@@ -347,7 +347,7 @@ dv_has_:
     pnb: فریڈرک شوپن
     ps: فرېډریک چوپېن
     pt: Frédéric Chopin
-    pt-br: Frédéric Chopin
+    pt_br: Frédéric Chopin
     qu: Frédéric Chopin
     ro: Frédéric Chopin
     ru: Фредерик Шопен
@@ -389,7 +389,7 @@ dv_has_:
     yo: Frédéric Chopin
     yue: 蕭邦
     zh: 弗雷德里克·肖邦
-    zh-hk: 費德烈·蕭邦
+    zh_hk: 費德烈·蕭邦
 ---
 # [[Chopin,Frédéric]] 
 

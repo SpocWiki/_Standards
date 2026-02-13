@@ -177,7 +177,7 @@ dv_has_:
     az: Anri Berqson
     bar: Henri Bergson
     be: Анры Бергсон
-    be-tarask: Анры Бэргсон
+    be_tarask: Анры Бэргсон
     bg: Анри Бергсон
     bjn: Henri Bergson
     bm: Henri Bergson
@@ -192,11 +192,11 @@ dv_has_:
     da: Henri Bergson
     de: Henri Bergson
     de-at: Henri Bergson
-    de-ch: Henri Bergson
+    de_ch: Henri Bergson
     el: Ανρί Μπεργκσόν
     en: Henri Bergson
-    en-ca: Henri Bergson
-    en-gb: Henri Bergson
+    en_ca: Henri Bergson
+    en_gb: Henri Bergson
     eo: Henri Bergson
     es: Henri Bergson
     et: Henri Bergson
@@ -252,7 +252,7 @@ dv_has_:
     nap: Henri Bergson
     nb: Henri Bergson
     nds: Henri Bergson
-    nds-nl: Henri Bergson
+    nds_nl: Henri Bergson
     ne: हेनरी बर्गसन
     new: हेनरी-लुइस बर्गसन
     nl: Henri Bergson
@@ -268,7 +268,7 @@ dv_has_:
     prg: Henri Bergson
     ps: هنري برګسون
     pt: Henri Bergson
-    pt-br: Henri Bergson
+    pt_br: Henri Bergson
     rgn: Henri Bergson
     rm: Henri Bergson
     ro: Henri Bergson

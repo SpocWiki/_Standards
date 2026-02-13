@@ -89,7 +89,7 @@ dv_has_:
     ar: كمء
     az: Dombalan
     be: труфель
-    be-tarask: труфэль
+    be_tarask: труфэль
     bg: Трюфел
     bn: ট্রাফল
     bs: Tartufi
@@ -98,11 +98,11 @@ dv_has_:
     cs: lanýž
     da: trøffel
     de: Trüffel
-    de-ch: Echte Trüffeln
+    de_ch: Echte Trüffeln
     el: Τρούφα
     en: truffle
-    en-ca: Truffle
-    en-gb: truffle
+    en_ca: Truffle
+    en_gb: truffle
     eo: trufo
     es: trufa
     et: trühvel
@@ -140,7 +140,7 @@ dv_has_:
     pa: ਟ੍ਰਫ਼ਲ
     pl: Trufla
     pt: trufa
-    pt-br: Trufa
+    pt_br: Trufa
     ro: Trufă
     ru: трюфели
     scn: Tartufu

@@ -144,24 +144,24 @@ dv_has_:
     azb: حسابدارلیق
     bar: Rechnungswesn
     be: бухгалтарскі ўлік
-    be-tarask: бугальтарскі ўлік
+    be_tarask: бугальтарскі ўлік
     bg: Счетоводство
     bn: হিসাববিজ্ঞান
     bs: Računovodstvo
     ca: comptabilitat
-    cbk-zam: Contabilida
+    cbk_zam: Contabilida
     cdo: Guói-gié
     ckb: ژمێریاری
     cs: účetnictví
     cy: Cyfrifeg
     da: regnskabsførsel
     de: Rechnungswesen
-    de-ch: Rechnungswesen
+    de_ch: Rechnungswesen
     diq: Mıhasebe
     el: Λογιστική
     en: accounting
-    en-ca: accountancy
-    en-gb: accountancy
+    en_ca: accountancy
+    en_gb: accountancy
     eo: kontado
     es: contabilidad
     et: raamatupidamine
@@ -189,9 +189,9 @@ dv_has_:
     ka: ბუხჰალტრული აღრიცხვა
     kaa: buxgalteriya esabı
     kk: Бухгалтерлік есеп
-    kk-arab: بۋحگالتەرلىك ەسەپ
-    kk-cyrl: Бухгалтерлік есеп
-    kk-latn: Bwxgalterlik esep
+    kk_arab: بۋحگالتەرلىك ەسەپ
+    kk_cyrl: Бухгалтерлік есеп
+    kk_latn: Bwxgalterlik esep
     km: accounting
     kn: ಲೆಕ್ಕಪತ್ರ ನಿರ್ವಹಣೆ
     ko: 회계
@@ -208,7 +208,7 @@ dv_has_:
     ml: അക്കൗണ്ടൻസി
     mn: Нягтлан бодох бүртгэл
     ms: perakaunan
-    ms-arab: ڤراکاءونن
+    ms_arab: ڤراکاءونن
     my: စာရင်းကိုင်ပညာ
     nan: Hōe-kè
     nb: regnskapsførsel
@@ -219,7 +219,7 @@ dv_has_:
     pl: rachunkowość
     ps: گڼنه
     pt: contabilidade
-    pt-br: contabilidade
+    pt_br: contabilidade
     ro: Contabilitate
     ru: бухгалтерский учёт
     sco: Accoontin
@@ -235,8 +235,8 @@ dv_has_:
     sms: ǩeeʹrjtuõʹllʼjõs
     sq: Kontabiliteti
     sr: рачуноводство
-    sr-ec: Рачуноводство
-    sr-el: Računovodstvo
+    sr_ec: Рачуноводство
+    sr_el: Računovodstvo
     su: Akuntansi
     sv: redovisning
     sw: Uhasibu
@@ -255,8 +255,8 @@ dv_has_:
     yi: בוך האלטעריי
     yue: 會計
     zh: 会计学
-    zh-hant: 會計學
-    zh-tw: 會計
+    zh_hant: 會計學
+    zh_tw: 會計
     zu: Ukudandanisa
 ---
 # [[Accounting]] 

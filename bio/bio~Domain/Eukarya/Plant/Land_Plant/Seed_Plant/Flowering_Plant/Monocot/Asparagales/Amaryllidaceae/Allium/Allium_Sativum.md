@@ -254,8 +254,8 @@ Wikidata_usage_instructions: this is about species, see Q21546392 for the ingred
 short_name: A. sativum
 dv_has_:
   name_:
-    aeb-arab: ثوم
-    aeb-latn: th'oum
+    aeb_arab: ثوم
+    aeb_latn: th'oum
     af: Knoffel
     am: ነጭ ሽንኩርት
     an: Allium sativum
@@ -272,7 +272,7 @@ dv_has_:
     bar: Knofe
     bcl: Bawang
     be: часнок
-    be-tarask: часнок
+    be_tarask: часнок
     bg: чесън
     bi: Galik
     bjn: Bawang putih
@@ -402,7 +402,7 @@ dv_has_:
     pnb: تھوم
     ps: هوږه
     pt: alho
-    pt-br: Allium sativum
+    pt_br: Allium sativum
     qu: Ahus
     rmy: Sir
     ro: Usturoi
@@ -428,8 +428,8 @@ dv_has_:
     so: Toon
     sq: hudhra
     sr: бели лук
-    sr-ec: бели лук
-    sr-el: beli luk
+    sr_ec: бели лук
+    sr_el: beli luk
     srn: kunofroku
     su: bawang bodas
     sv: vitlök
@@ -464,10 +464,10 @@ dv_has_:
     yue: 蒜頭
     za: suenq
     zh: 蒜
-    zh-cn: 大蒜
-    zh-hans: 蒜
-    zh-hant: 蒜
-    zh-tw: 大蒜
+    zh_cn: 大蒜
+    zh_hans: 蒜
+    zh_hant: 蒜
+    zh_tw: 大蒜
     zu: UmVithu
 ---
 # [[Allium_Sativum]] 

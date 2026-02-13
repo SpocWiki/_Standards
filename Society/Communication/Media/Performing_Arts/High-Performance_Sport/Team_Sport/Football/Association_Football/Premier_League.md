@@ -135,7 +135,7 @@ dv_has_:
     azb: اینگیلیسین پرمیر لیگاسی
     ban: Liga Utama Inggris
     be: Англійская Прэм’ер-ліга
-    be-tarask: Прэм’ер-Ліга
+    be_tarask: Прэм’ер-Ліга
     bg: Английска висша лига
     bn: প্রিমিয়ার লিগ
     bs: Premijer liga Engleske
@@ -145,7 +145,7 @@ dv_has_:
     diq: Liga premiere
     el: Πρέμιερ Λιγκ
     en: Premier League
-    en-gb: Premier League
+    en_gb: Premier League
     eo: F.A. Supra Ligo
     fa: لیگ برتر انگلستان
     fi: Englannin Valioliiga
@@ -206,9 +206,9 @@ dv_has_:
     wuu: 英格兰足球超级联赛
     yue: 英格蘭超級足球聯賽
     zh: 英格兰足球超级联赛
-    zh-hans: 英格兰足球超级联赛
-    zh-hant: 英格蘭超級足球聯賽
-    zh-tw: 英格蘭足球超級聯賽
+    zh_hans: 英格兰足球超级联赛
+    zh_hant: 英格蘭超級足球聯賽
+    zh_tw: 英格蘭足球超級聯賽
 ---
 # [[Premier_League]] 
 

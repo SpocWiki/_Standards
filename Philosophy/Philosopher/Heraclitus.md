@@ -142,7 +142,7 @@ dv_has_:
     az: Efesli Heraklit
     azb: هراکلیتوس
     be: Геракліт
-    be-tarask: Геракліт
+    be_tarask: Геракліт
     bg: Хераклит
     bn: হেরাক্লিটাস
     bo: ཧེ་རཱ་ཁི་ལེ་ཁྲི་ཟི།
@@ -187,7 +187,7 @@ dv_has_:
     kn: ಹೆರಾಕ್ಲೈಟಸ್
     ko: 헤라클레이토스
     ku: Hêrakleitos
-    ku-latn: Hêrakleitos
+    ku_latn: Hêrakleitos
     ky: Эфесский
     la: Heraclitus
     lb: Heraklit
@@ -212,7 +212,7 @@ dv_has_:
     pnb: ہیراکلیٹس
     ps: هېراکلیتوس
     pt: Heraclito de Éfeso
-    pt-br: Heráclito de Éfeso
+    pt_br: Heráclito de Éfeso
     ro: Heraclit
     ru: Гераклит Эфесский
     scn: Eràclitu
@@ -241,7 +241,7 @@ dv_has_:
     xmf: ჰერაკლიტე
     yue: 赫拉克利特
     zh: 赫拉克利特
-    zh-hant: 海勒克萊特斯
+    zh_hant: 海勒克萊特斯
 ---
 # [[Heraclitus]] 
 

@@ -88,7 +88,7 @@ dv_has_:
     ast: síndrome d'Estocolmu
     az: Stokholm sindromu
     be: Стакгольмскі сіндром
-    be-tarask: Стакгольмскі сындром
+    be_tarask: Стакгольмскі сындром
     bg: Стокхолмски синдром
     bn: স্টকহোম সিনড্রোম
     br: azoniad Stockholm
@@ -100,7 +100,7 @@ dv_has_:
     de: Stockholm-Syndrom
     el: Σύνδρομο της Στοκχόλμης
     en: Stockholm syndrome
-    en-ca: Stockholm Syndrome
+    en_ca: Stockholm Syndrome
     eo: Stokholm-sindromo
     es: síndrome de Estocolmo
     et: Stockholmi sündroom
@@ -125,7 +125,7 @@ dv_has_:
     kk: Стокгольм синдромы
     ko: 스톡홀름 증후군
     ku: Sendroma Stokholmê
-    ku-latn: Sendroma Stokholmê
+    ku_latn: Sendroma Stokholmê
     la: Syndroma Holmiensis
     lt: Stokholmo sindromas
     lv: Stokholmas sindroms
@@ -146,8 +146,8 @@ dv_has_:
     sl: stockholmski sindrom
     sq: sindromi i stokholmit
     sr: Стокхолмски синдром
-    sr-ec: Стокхолмски синдром
-    sr-el: Stokholmski sindrom
+    sr_ec: Стокхолмски синдром
+    sr_el: Stokholmski sindrom
     sv: Stockholmssyndromet
     ta: இசுட்டாக்குஃகோம் நோய்க்கூட்டறிகுறி
     th: กลุ่มอาการสต็อกโฮล์ม
@@ -159,12 +159,12 @@ dv_has_:
     wuu: 斯德哥尔摩综合征
     yue: 斯德哥爾摩綜合症
     zh: 斯德哥爾摩綜合症
-    zh-cn: 斯德哥尔摩综合征
-    zh-hans: 斯德哥尔摩综合征
-    zh-hant: 斯德哥爾摩症候群
-    zh-hk: 斯德哥爾摩症候群
-    zh-sg: 斯德哥尔摩综合征
-    zh-tw: 斯德哥爾摩症候群
+    zh_cn: 斯德哥尔摩综合征
+    zh_hans: 斯德哥尔摩综合征
+    zh_hant: 斯德哥爾摩症候群
+    zh_hk: 斯德哥爾摩症候群
+    zh_sg: 斯德哥尔摩综合征
+    zh_tw: 斯德哥爾摩症候群
 ---
 # [[Stockholm_Syndrome]] 
 

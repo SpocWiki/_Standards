@@ -64,7 +64,7 @@ dv_has_:
     ar: الكساد الطويل
     ca: Depressió prolongada
     de: Große Depression
-    de-ch: Grosse Depression
+    de_ch: Grosse Depression
     en: Long Depression
     eo: Longa depresio
     es: Gran Depresión (1873-1896)

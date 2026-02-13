@@ -109,7 +109,7 @@ dv_has_:
     az: reqbi ittifaqı
     azb: راگبی بیرلیگی
     be: рэгбі-15
-    be-tarask: рэгбійны зьвяз
+    be_tarask: рэгбійны зьвяз
     bn: রাগবি ইউনিয়ন
     ca: rugbi a 15
     ceb: Rugby union
@@ -119,8 +119,8 @@ dv_has_:
     de: Rugby Union
     el: ράγκμπι γιούνιον
     en: rugby union
-    en-ca: rugby union
-    en-gb: rugby union
+    en_ca: rugby union
+    en_gb: rugby union
     eo: rugbeo 15
     es: rugby a 15
     eu: hamabosteko errugbi
@@ -164,7 +164,7 @@ dv_has_:
     pl: rugby union
     pnb: رگبی یونین
     pt: râguebi de quinze
-    pt-br: rugby union
+    pt_br: rugby union
     ro: Rugby în XV
     ru: регби-15
     sco: Rugby union
@@ -186,14 +186,14 @@ dv_has_:
     xh: Ibhola yombhoxo
     yue: 聯合式欖球
     zh: 聯合式橄欖球
-    zh-cn: 联合式橄榄球
-    zh-hans: 联合式橄榄球
-    zh-hant: 聯合式橄欖球
-    zh-hk: 聯合式欖球
-    zh-mo: 聯合式欖球
+    zh_cn: 联合式橄榄球
+    zh_hans: 联合式橄榄球
+    zh_hant: 聯合式橄欖球
+    zh_hk: 聯合式欖球
+    zh_mo: 聯合式欖球
     zh-my: 联合式橄榄球
-    zh-sg: 联合式橄榄球
-    zh-tw: 聯合式橄欖球
+    zh_sg: 联合式橄榄球
+    zh_tw: 聯合式橄欖球
     zu: Umbhoxo
 ---
 # [[Rugby_Union]] 

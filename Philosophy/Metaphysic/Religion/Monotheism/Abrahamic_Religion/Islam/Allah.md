@@ -113,7 +113,7 @@ dv_has_:
     bcl: Allah
     bdr: Allah
     be: Алах
-    be-tarask: Алаг
+    be_tarask: Алаг
     bg: Аллах
     bho: अल्ला
     bn: আল্লাহ
@@ -123,7 +123,7 @@ dv_has_:
     ce: Аллахl
     ckb: خوا لە ئیسلامدا
     crh: Allah
-    crh-latn: Allah
+    crh_latn: Allah
     cs: Alláh
     cy: Al-lâh
     da: Allah
@@ -188,7 +188,7 @@ dv_has_:
     mr: अल्ला
     mrj: Аллах
     ms: Allah
-    ms-arab: الله
+    ms_arab: الله
     mt: Allaħ
     mul: Allah
     my: အလ္လာဟ်အရှင်မြတ်သခင်
@@ -196,7 +196,7 @@ dv_has_:
     mzn: الله
     nan: Allāh
     nb: Allah
-    nds-nl: Allah
+    nds_nl: Allah
     ne: अल्ला
     new: अल्लाह्
     nl: Allah
@@ -207,7 +207,7 @@ dv_has_:
     pl: Allah
     pnb: الله
     pt: Alá
-    pt-br: Alá
+    pt_br: Alá
     ro: Allah
     ru: Аллах
     rue: Аллаг
@@ -227,7 +227,7 @@ dv_has_:
     so: Ilaahay
     sq: Allah
     sr: Алах
-    sr-ec: Алах
+    sr_ec: Алах
     ss: Allah
     su: Alloh
     sv: Allah
@@ -255,8 +255,8 @@ dv_has_:
     yue: 阿拉
     zgh: ⴰⵍⵍⴰⵀ
     zh: 安拉
-    zh-hant: 阿拉
-    zh-tw: 阿拉
+    zh_hant: 阿拉
+    zh_tw: 阿拉
 ---
 # [[Allah]] 
 

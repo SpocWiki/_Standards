@@ -77,7 +77,7 @@ dv_has_:
     ast: Pintura del Sieglu d'oru neerlandés
     az: Holland rəssamlığının qızıl dövrü
     be: Залаты век галандскага жывапісу
-    be-tarask: Залаты век нідэрляндзкага жывапісу
+    be_tarask: Залаты век нідэрляндзкага жывапісу
     bg: Нидерландски Златен век в изобразителното изкуство
     bn: ওলন্দাজ স্বর্ণযুগীয় চিত্রকর্ম
     bs: Slikarstvo baroka u Holandiji
@@ -113,22 +113,22 @@ dv_has_:
     nl: Nederlandse schilderkunst in de Gouden Eeuw
     pl: Złoty wiek malarstwa holenderskiego
     pt: pintura do Século de Ouro neerlandês
-    pt-br: pintura do Século de Ouro dos Países Baixos
+    pt_br: pintura do Século de Ouro dos Países Baixos
     ro: pictura Secolului de Aur Olandez
     ru: Золотой век голландской живописи
     sl: nizozemska zlata doba v slikarstvu
     sr: златно доба холандског сликарства
-    sr-ec: златно доба холандског сликарства
-    sr-el: zlatno doba holandskog slikarstva
+    sr_ec: златно доба холандског сликарства
+    sr_el: zlatno doba holandskog slikarstva
     sv: Nederländsk guldålderkonst
     th: จิตรกรรมยุคทองของเนเธอร์แลนด์
     tr: Hollanda Altın Çağı resmi
     uk: Золота доба голландського живопису
     vi: hội họa Hà Lan thời hoàng kim
     zh: 荷蘭黃金時代繪畫
-    zh-cn: 荷兰黄金时代油画
-    zh-hans: 荷兰黄金时代油画
-    zh-hant: 荷蘭黃金時代油畫
+    zh_cn: 荷兰黄金时代油画
+    zh_hans: 荷兰黄金时代油画
+    zh_hant: 荷蘭黃金時代油畫
 ---
 # [[Dutch_Golden_Age_painting]] 
 

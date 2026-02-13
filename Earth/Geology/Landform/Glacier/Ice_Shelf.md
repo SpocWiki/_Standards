@@ -91,7 +91,7 @@ dv_has_:
     ast: Plataforma de xelu
     az: Şelf buzlağı
     be: Шэльфавы ледавік
-    be-tarask: Шэльфавы ледавік
+    be_tarask: Шэльфавы ледавік
     bg: Шелфов ледник
     ca: plataforma de gel
     cs: šelfový ledovec

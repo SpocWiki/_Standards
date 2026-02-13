@@ -110,7 +110,7 @@ dv_has_:
     az: Ammonium sulfat
     azb: آمونیوم سولفات
     be: сульфат амонію
-    be-tarask: сульфат амонію
+    be_tarask: сульфат амонію
     bg: Амониев сулфат
     bn: অ্যামোনিয়াম সালফেট
     ca: Sulfat d'amoni
@@ -118,8 +118,8 @@ dv_has_:
     da: Svovlsur ammoniak
     de: Ammoniumsulfat
     en: ammonium sulfate
-    en-ca: ammonium sulfate
-    en-gb: ammonium sulphate
+    en_ca: ammonium sulfate
+    en_gb: ammonium sulphate
     eo: amonia sulfato
     es: Sulfato de amonio
     eu: Amonio sulfato
@@ -135,11 +135,11 @@ dv_has_:
     ja: 硫酸アンモニウム
     jv: Amonium sulfat
     kk: Аммоний сульфаты
-    kk-arab: اممونىيي سۋلفاتى
+    kk_arab: اممونىيي سۋلفاتى
     kk-cn: اممونىيي سۋلفاتى
-    kk-cyrl: Аммоний сульфаты
+    kk_cyrl: Аммоний сульфаты
     kk-kz: Аммоний сульфаты
-    kk-latn: Ammonïý swlʹfatı
+    kk_latn: Ammonïý swlʹfatı
     kk-tr: Ammonïý swlʹfatı
     ko: 황산 암모늄
     lt: Amonio sulfatas
@@ -159,8 +159,8 @@ dv_has_:
     sk: Síran amónny
     sl: Amonijev sulfat
     sr: амонијум сулфат
-    sr-ec: Амонијум сулфат
-    sr-el: Amonijum sulfat
+    sr_ec: Амонијум сулфат
+    sr_el: Amonijum sulfat
     sv: Ammoniumsulfat
     ta: அம்மோனியம் சல்பேட்டு
     te: అమ్మోనియం సల్ఫేట్
@@ -171,12 +171,12 @@ dv_has_:
     war: Ammonium sulfate
     yue: 硫酸銨
     zh: 硫酸铵
-    zh-cn: 硫酸铵
-    zh-hans: 硫酸铵
-    zh-hant: 硫酸銨
-    zh-hk: 硫酸銨
-    zh-sg: 硫酸铵
-    zh-tw: 硫酸銨
+    zh_cn: 硫酸铵
+    zh_hans: 硫酸铵
+    zh_hant: 硫酸銨
+    zh_hk: 硫酸銨
+    zh_sg: 硫酸铵
+    zh_tw: 硫酸銨
   text_of_:
     molecular_formula: (NH4)2SO4
 dv_is_same_as:

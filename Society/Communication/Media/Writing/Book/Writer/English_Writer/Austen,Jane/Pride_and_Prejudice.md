@@ -229,7 +229,7 @@ dv_has_:
     avk: Intotcuca is abdimalyeks (suterot)
     az: Qürur və Qərəz
     be: Пыха і перадузятасць
-    be-tarask: Пыха і перадузятасьць
+    be_tarask: Пыха і перадузятасьць
     bg: Гордост и предразсъдъци
     bn: প্রাইড অ্যান্ড প্রেজুডিস
     bo: ཁེངས་རློམ་དང་ཕྱོགས་རེས།
@@ -242,8 +242,8 @@ dv_has_:
     de: Stolz und Vorurteil
     el: Περηφάνια και προκατάληψη
     en: Pride and Prejudice
-    en-ca: Pride and Prejudice
-    en-gb: Pride and Prejudice
+    en_ca: Pride and Prejudice
+    en_gb: Pride and Prejudice
     eo: Fiero kaj antaŭjuĝo
     es: Orgullo y prejuicio
     et: Uhkus ja eelarvamus
@@ -287,7 +287,7 @@ dv_has_:
     pl: Duma i uprzedzenie
     pnb: تکبر تے تعصب (ناول)
     pt: Orgulho e Preconceito
-    pt-br: Orgulho e Preconceito
+    pt_br: Orgulho e Preconceito
     ro: Mândrie și prejudecată
     ru: Гордость и предубеждение
     sa: अभिमानः पूर्वाग्रहः च
@@ -296,8 +296,8 @@ dv_has_:
     sk: Pýcha a predsudok
     sl: Prevzetnost in pristranost
     sr: Гордост и предрасура
-    sr-ec: Гордост и предрасуда
-    sr-el: Gordost i predrasuda
+    sr_ec: Гордост и предрасуда
+    sr_el: Gordost i predrasuda
     su: Pride and Prejudice
     sv: Stolthet och fördom
     szy: cayay kasikaz atu misakinihay
@@ -312,12 +312,12 @@ dv_has_:
     wuu: 傲慢搭偏见
     yue: 傲慢與偏見
     zh: 傲慢與偏見
-    zh-cn: 傲慢与偏见
-    zh-hans: 傲慢与偏见
-    zh-hant: 傲慢與偏見
-    zh-hk: 傲慢與偏見
-    zh-sg: 傲慢与偏见
-    zh-tw: 傲慢與偏見
+    zh_cn: 傲慢与偏见
+    zh_hans: 傲慢与偏见
+    zh_hant: 傲慢與偏見
+    zh_hk: 傲慢與偏見
+    zh_sg: 傲慢与偏见
+    zh_tw: 傲慢與偏見
 ---
 # [[Pride_and_Prejudice]] 
 

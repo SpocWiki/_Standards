@@ -91,7 +91,7 @@ dv_has_:
     ast: Llei marcial
     az: Hərbi vəziyyət
     be: ваеннае становішча
-    be-tarask: ваенны стан
+    be_tarask: ваенны стан
     bg: Военно положение
     bn: সামরিক শাসন
     br: lezenn vrezel
@@ -101,8 +101,8 @@ dv_has_:
     de: Kriegsrecht
     el: Στρατιωτικός νόμος
     en: martial law
-    en-ca: Martial law
-    en-gb: martial law
+    en_ca: Martial law
+    en_gb: martial law
     eo: militleĝo
     es: ley marcial
     et: sõjaseisukord
@@ -139,7 +139,7 @@ dv_has_:
     pa: ਫ਼ੌਜੀ ਕਨੂੰਨ
     pl: stan wojenny
     pt: lei marcial
-    pt-br: Lei marcial
+    pt_br: Lei marcial
     ro: Lege marțială
     ru: военное положение
     sd: فوجي راڄ
@@ -163,9 +163,9 @@ dv_has_:
     wuu: 戒严
     yue: 戒嚴
     zh: 戒严
-    zh-hans: 戒严
-    zh-hant: 戒嚴
-    zh-hk: 戒嚴
+    zh_hans: 戒严
+    zh_hant: 戒嚴
+    zh_hk: 戒嚴
 ---
 # [[Martial_Law]] 
 

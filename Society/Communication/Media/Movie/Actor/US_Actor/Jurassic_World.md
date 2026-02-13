@@ -49,11 +49,11 @@ dv_has_:
     cy: Jurassic World
     da: Jurassic World
     de: Jurassic World
-    de-ch: Jurassic World
+    de_ch: Jurassic World
     el: Jurassic World
     en: Jurassic World
-    en-ca: Jurassic World
-    en-gb: Jurassic World
+    en_ca: Jurassic World
+    en_gb: Jurassic World
     eo: Jurassic World
     es: Jurassic World
     eu: Jurassic World
@@ -87,7 +87,7 @@ dv_has_:
     nl: Jurassic World
     pl: Jurassic World
     pt: Jurassic Park 4
-    pt-br: 'Jurassic World: O Mundo dos Dinossauros'
+    pt_br: 'Jurassic World: O Mundo dos Dinossauros'
     qu: Jurassic World
     ro: Jurassic World
     ru: Мир юрского периода
@@ -105,9 +105,9 @@ dv_has_:
     vi: Jurassic World
     yue: 侏羅紀世界
     zh: 侏羅紀世界
-    zh-hant: 侏羅紀世界
-    zh-hk: 侏羅紀世界
-    zh-tw: 侏羅紀世界
+    zh_hant: 侏羅紀世界
+    zh_hk: 侏羅紀世界
+    zh_tw: 侏羅紀世界
 ---
 ## #has_/text_of_/abstract 
 

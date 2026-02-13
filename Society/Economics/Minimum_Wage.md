@@ -84,7 +84,7 @@ dv_has_:
     ast: Salariu mínimu
     az: Minimum əmək haqqı
     be: мінімальная зарплата
-    be-tarask: мінімальная зарплата
+    be_tarask: мінімальная зарплата
     bg: Минимална работна заплата
     bs: Minimalna plaća
     ca: Salari mínim
@@ -92,11 +92,11 @@ dv_has_:
     cv: Минималлă шалу
     da: minimumsløn
     de: Mindestlohn
-    de-ch: Mindestlohn
+    de_ch: Mindestlohn
     el: κατώτατος μισθός
     en: minimum wage
-    en-ca: minimum wage
-    en-gb: minimum wage
+    en_ca: minimum wage
+    en_gb: minimum wage
     eo: minimuma salajro
     es: salario mínimo
     et: Alampalk
@@ -115,11 +115,11 @@ dv_has_:
     it: salario minimo
     ja: 最低賃金
     kk: Ең төмен жалақы
-    kk-arab: ەڭ تومەن جالاقى
+    kk_arab: ەڭ تومەن جالاقى
     kk-cn: ەڭ تومەن جالاقى
-    kk-cyrl: Ең төмен жалақы
+    kk_cyrl: Ең төмен жалақы
     kk-kz: Ең төмен жалақы
-    kk-latn: Eñ tömen jalaqı
+    kk_latn: Eñ tömen jalaqı
     kk-tr: Eñ tömen jalaqı
     ko: 최저임금
     la: Salarium minimum
@@ -137,7 +137,7 @@ dv_has_:
     pl: płaca minimalna
     ps: د معاش تر ټولو لږ کچه
     pt: salário mínimo
-    pt-br: salário mínimo
+    pt_br: salário mínimo
     ro: salariul minim
     ru: минимальный размер оплаты труда
     sh: Minimalna plata
@@ -145,8 +145,8 @@ dv_has_:
     sl: minimalna plača
     sq: Paga minimale
     sr: минимални приход
-    sr-ec: минимални приход
-    sr-el: Minimalni prihod
+    sr_ec: минимални приход
+    sr_el: Minimalni prihod
     sv: Minimilön
     tg: Ҳадди ақали музди меҳнат
     th: ค่าจ้างขั้นต่ำ
@@ -157,14 +157,14 @@ dv_has_:
     wuu: 最低工资
     yue: 最低工資
     zh: 最低工資
-    zh-cn: 最低工资
-    zh-hans: 最低工资
-    zh-hant: 最低工資
-    zh-hk: 最低工資
-    zh-mo: 最低工資
+    zh_cn: 最低工资
+    zh_hans: 最低工资
+    zh_hant: 最低工資
+    zh_hk: 最低工資
+    zh_mo: 最低工資
     zh-my: 最低工资
-    zh-sg: 最低工资
-    zh-tw: 最低工資
+    zh_sg: 最低工资
+    zh_tw: 最低工資
 ---
 # [[Minimum_Wage]] 
 

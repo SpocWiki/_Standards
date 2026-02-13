@@ -214,7 +214,7 @@ name_in_native_language: "\U00010854\U0001084C\U0001084F\U00010845\U0001084D \U0
 dv_has_:
   name_:
     ace: Petrus
-    aeb-arab: بطرس
+    aeb_arab: بطرس
     af: Simon Petrus
     am: ቅዱስ ጴጥሮስ
     an: Sant Pero
@@ -227,7 +227,7 @@ dv_has_:
     bar: Petrus
     bcl: Pedro
     be: Пётр
-    be-tarask: Пётар
+    be_tarask: Пётар
     bg: Петър
     bn: প্রেরিত পিতর
     bo: པེ་ཏྲོ།
@@ -247,7 +247,7 @@ dv_has_:
     dtp: Santo Peter
     el: Απόστολος Πέτρος
     en: Saint Peter
-    en-gb: Peter
+    en_gb: Peter
     en-us: Saint Peter
     eo: Simono Petro
     es: Pedro
@@ -283,7 +283,7 @@ dv_has_:
     ka: პეტრე
     ko: 베드로
     ku: Petrûs
-    ku-latn: Petrûs
+    ku_latn: Petrûs
     kv: Петыр лун
     kw: Peder
     la: Petrus
@@ -311,7 +311,7 @@ dv_has_:
     nan: Pí-tek
     nb: Apostelen Peter
     nds: Simon Petrus
-    nds-nl: Petrus
+    nds_nl: Petrus
     nl: Petrus
     nn: Apostelen Peter
     nrm: Saint Pierre l'Apôtouère
@@ -320,7 +320,7 @@ dv_has_:
     pms: Simon-Pero
     pnb: پطرس
     pt: São Pedro
-    pt-br: São Pedro
+    pt_br: São Pedro
     qu: Simun Pidru
     rm: Simon Petrus
     ro: Simon Petru
@@ -335,7 +335,7 @@ dv_has_:
     sl: sveti Peter
     sq: Shën Pjetri
     sr: Свети Петар
-    sr-ec: Апостол Петар
+    sr_ec: Апостол Петар
     sv: Petrus
     sw: Mtume Petro
     szl: Pyjter Apostoł

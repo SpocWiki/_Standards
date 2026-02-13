@@ -117,7 +117,7 @@ dv_has_:
     ar: حمى قلاعية
     azb: دابباغ
     ba: Бешмә
-    be-tarask: яшчур
+    be_tarask: яшчур
     bg: Шап
     ca: glossopeda
     ce: Авсал
@@ -150,11 +150,11 @@ dv_has_:
     jv: Penyakit Mulut lan Kuku (PMK)
     ka: თურქული
     kk: Аусыл
-    kk-arab: اۋسىل
+    kk_arab: اۋسىل
     kk-cn: اۋسىل
-    kk-cyrl: Аусыл
+    kk_cyrl: Аусыл
     kk-kz: Аусыл
-    kk-latn: Awsıl
+    kk_latn: Awsıl
     kk-tr: Awsıl
     kn: ಕಾಲುಬಾಯಿ ಜ್ವರ
     ko: 구제역
@@ -167,7 +167,7 @@ dv_has_:
     ml: കുളമ്പുരോഗം
     ms: Penyakit kaki dan mulut
     nb: munn- og klovsyke
-    nds-nl: tongblaor
+    nds_nl: tongblaor
     nl: mond-en-klauwzeer
     nn: munn-og-klauvsjuke
     pa: ਮੂੰਹ-ਖੁਰ ਦਾ ਰੋਗ
@@ -189,12 +189,12 @@ dv_has_:
     wa: Cocote
     wuu: 口蹄疫
     zh: 口蹄疫
-    zh-cn: 口蹄疫
-    zh-hans: 口蹄疫
-    zh-hant: 口蹄疫
-    zh-hk: 口蹄疫
-    zh-sg: 口蹄疫
-    zh-tw: 口蹄疫
+    zh_cn: 口蹄疫
+    zh_hans: 口蹄疫
+    zh_hant: 口蹄疫
+    zh_hk: 口蹄疫
+    zh_sg: 口蹄疫
+    zh_tw: 口蹄疫
 ---
 # [[Hoof-and-Mouth_Disease]] 
 

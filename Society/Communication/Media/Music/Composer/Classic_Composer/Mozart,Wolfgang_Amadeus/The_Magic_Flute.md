@@ -115,7 +115,7 @@ dv_has_:
     ast: La flauta máxica
     az: Sehirli fleyta
     be: Чароўная флейта
-    be-tarask: Чароўная флейта
+    be_tarask: Чароўная флейта
     bg: Вълшебната флейта
     br: Die Zauberflöte
     ca: La flauta màgica
@@ -125,8 +125,8 @@ dv_has_:
     de: Die Zauberflöte
     el: Ο Μαγικός Αυλός
     en: The Magic Flute
-    en-ca: The Magic Flute
-    en-gb: The Magic Flute
+    en_ca: The Magic Flute
+    en_gb: The Magic Flute
     eo: Die Zauberflöte
     es: La flauta mágica
     et: Võluflööt
@@ -157,7 +157,7 @@ dv_has_:
     nn: Tryllefløyta
     pl: Czarodziejski flet
     pt: Die Zauberflöte
-    pt-br: A Flauta Mágica
+    pt_br: A Flauta Mágica
     ro: Flautul fermecat
     ru: Волшебная флейта
     sco: The Magic Flute
@@ -176,8 +176,8 @@ dv_has_:
     wuu: 魔笛
     yue: 魔笛
     zh: 魔笛
-    zh-hant: 魔笛
-    zh-tw: 魔笛
+    zh_hant: 魔笛
+    zh_tw: 魔笛
 ---
 # [[The_Magic_Flute]] 
 

@@ -46,16 +46,16 @@ dv_has_:
     pap: Donald Fagen
     pl: Donald Fagen
     pt: Donald Fagen
-    pt-br: Donald Fagen
+    pt_br: Donald Fagen
     ru: Дональд Фейген
     sl: Donald Fagen
     sq: Donald Fagen
     sv: Donald Fagen
     tr: Donald Fagen
     zh: 唐納德·費根
-    zh-cn: 唐纳德·费根
-    zh-hans: 唐纳德·费根
-    zh-hant: 唐納德·費根
+    zh_cn: 唐纳德·费根
+    zh_hans: 唐纳德·费根
+    zh_hant: 唐納德·費根
 ---
 #has_/time_/started :: 1948-01-10 
 

@@ -80,7 +80,7 @@ dv_has_:
     ar: لحن
     ast: Melodía
     be: мелодыя
-    be-tarask: мэлёдыя
+    be_tarask: мэлёдыя
     bg: Мелодия
     bn: স্বরমাধুর্য
     bs: Melodija
@@ -90,11 +90,11 @@ dv_has_:
     cv: кĕвĕ
     da: melodi
     de: Melodie
-    de-ch: Melodie
+    de_ch: Melodie
     el: Μελωδία
     en: melody
-    en-ca: Melody
-    en-gb: melody
+    en_ca: Melody
+    en_gb: melody
     eo: melodio
     es: melodía
     et: Meloodia
@@ -114,11 +114,11 @@ dv_has_:
     it: melodia
     ja: メロディ
     kk: Мелодия
-    kk-arab: مەلودىييا
+    kk_arab: مەلودىييا
     kk-cn: مەلودىييا
-    kk-cyrl: Мелодия
+    kk_cyrl: Мелодия
     kk-kz: Мелодия
-    kk-latn: Melodïya
+    kk_latn: Melodïya
     kk-tr: Melodïya
     ko: 선율
     ky: Обон
@@ -138,7 +138,7 @@ dv_has_:
     pl: melodia
     pnb: سُر
     pt: melodia
-    pt-br: melodia
+    pt_br: melodia
     qu: Takina
     ro: melodie
     ru: мелодия
@@ -149,8 +149,8 @@ dv_has_:
     so: Laxan
     sq: Melodia
     sr: Мелодија
-    sr-ec: Мелодија
-    sr-el: Melodija
+    sr_ec: Мелодија
+    sr_el: Melodija
     sv: melodi
     ta: மெல்லிசை
     te: మెలోడీ
@@ -166,12 +166,12 @@ dv_has_:
     wuu: 旋律
     yue: 旋律
     zh: 旋律
-    zh-cn: 旋律
-    zh-hans: 旋律
-    zh-hant: 旋律
-    zh-hk: 旋律
-    zh-sg: 旋律
-    zh-tw: 旋律
+    zh_cn: 旋律
+    zh_hans: 旋律
+    zh_hant: 旋律
+    zh_hk: 旋律
+    zh_sg: 旋律
+    zh_tw: 旋律
 ---
 # [[Melody]] 
 

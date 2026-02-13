@@ -90,7 +90,7 @@ dv_has_:
     az: Hipoksiya
     azb: هیپوکسیا(ساغلیق بیلیمی)
     be: гіпаксія
-    be-tarask: гіпаксія
+    be_tarask: гіпаксія
     bg: Хипоксия
     bho: हाइपोक्सिया
     bn: অক্সিজেন স্বল্পতা (চিকিৎসাবিজ্ঞান)
@@ -143,8 +143,8 @@ dv_has_:
     sl: hipoksija
     sms: happvääʹnn
     sr: Хипоксија
-    sr-ec: Хипоксија
-    sr-el: Hipoksija
+    sr_ec: Хипоксија
+    sr_el: Hipoksija
     sv: hypoxi
     ta: தாழாக்சியம்
     th: ภาวะพร่องออกซิเจน
@@ -158,12 +158,12 @@ dv_has_:
     wuu: 缺氧
     yue: 缺氧
     zh: 缺氧
-    zh-cn: 缺氧
-    zh-hans: 缺氧
-    zh-hant: 缺氧
-    zh-hk: 缺氧
-    zh-sg: 缺氧
-    zh-tw: 缺氧
+    zh_cn: 缺氧
+    zh_hans: 缺氧
+    zh_hant: 缺氧
+    zh_hk: 缺氧
+    zh_sg: 缺氧
+    zh_tw: 缺氧
 ---
 # [[Hypoxia]] 
 

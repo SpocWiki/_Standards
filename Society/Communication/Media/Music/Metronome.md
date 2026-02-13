@@ -69,7 +69,7 @@ dv_has_:
     ar: مِسرع
     ast: Metrónomu
     be: метраном
-    be-tarask: мэтраном
+    be_tarask: мэтраном
     bg: Метроном
     ca: metrònom
     cs: Metronom
@@ -107,7 +107,7 @@ dv_has_:
     ms: Metronom
     my: နရီချိန်စက်
     nb: metronom
-    nds-nl: metronoom
+    nds_nl: metronoom
     nl: metronoom
     nn: metronom
     oc: Metronòm
@@ -121,8 +121,8 @@ dv_has_:
     sk: Metronóm
     sl: metronom
     sr: Метроном
-    sr-ec: Метроном
-    sr-el: Metronom
+    sr_ec: Метроном
+    sr_el: Metronom
     sv: Metronom
     te: మెట్రోనోమ్
     th: เครื่องกำหนดอัตราความเร็ว
@@ -132,12 +132,12 @@ dv_has_:
     wuu: 节拍器
     yue: 拍子機
     zh: 節拍器
-    zh-cn: 节拍器
-    zh-hans: 节拍器
-    zh-hant: 節拍器
-    zh-hk: 節拍器
-    zh-sg: 节拍器
-    zh-tw: 節拍器
+    zh_cn: 节拍器
+    zh_hans: 节拍器
+    zh_hant: 節拍器
+    zh_hk: 節拍器
+    zh_sg: 节拍器
+    zh_tw: 節拍器
 ---
 # [[Metronome]] 
 

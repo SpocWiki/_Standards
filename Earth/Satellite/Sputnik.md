@@ -104,7 +104,7 @@ dv_has_:
     ast: Sputnik 1
     az: Sputnik-1
     be: Спутнік-1
-    be-tarask: Спутнік-1
+    be_tarask: Спутнік-1
     bg: Спутник-1
     bn: স্পুটনিক ১
     bs: Sputnjik 1
@@ -114,11 +114,11 @@ dv_has_:
     cy: Sputnik I
     da: Sputnik 1
     de: Sputnik 1
-    de-ch: Sputnik 1
+    de_ch: Sputnik 1
     el: Σπούτνικ 1
     en: Sputnik 1
-    en-ca: Sputnik 1
-    en-gb: Sputnik 1
+    en_ca: Sputnik 1
+    en_gb: Sputnik 1
     eo: Sputnik 1
     es: Sputnik 1
     et: Sputnik 1
@@ -164,7 +164,7 @@ dv_has_:
     pnb: سپوتنک 1
     ps: سپوټنیک-۱
     pt: Sputnik I
-    pt-br: Sputnik I
+    pt_br: Sputnik I
     ro: Sputnik 1
     ru: Спутник-1
     sh: Sputnjik 1
@@ -173,7 +173,7 @@ dv_has_:
     sl: Sputnik 1
     sq: Sputnik 1
     sr: Спутњик-1
-    sr-ec: Спутњик 1
+    sr_ec: Спутњик 1
     sv: Sputnik 1
     sw: Sputnik 1
     ta: இசுப்புட்னிக் 1
@@ -189,7 +189,7 @@ dv_has_:
     wuu: 斯普特尼克1号
     yue: 史撥尼克1號
     zh: 斯普特尼克1号
-    zh-hant: 史潑尼克1號
+    zh_hant: 史潑尼克1號
 ---
 # [[Sputnik]] 
 

@@ -81,7 +81,7 @@ dv_has_:
     ast: interferencia
     az: dalğaların interferensiyası
     be: інтэрферэнцыя хваль
-    be-tarask: інтэрфэрэнцыя
+    be_tarask: інтэрфэрэнцыя
     bg: интерференция
     bn: তরঙ্গ ব্যতিচার
     bs: interferencija talasa
@@ -142,8 +142,8 @@ dv_has_:
     smn: interferens
     sms: interfereʹnss
     sr: интерференција
-    sr-ec: интерференција
-    sr-el: interferencija
+    sr_ec: интерференција
+    sr_el: interferencija
     sv: interferens
     ta: அலைகளின் குறுக்கீடு
     th: การแทรกสอด
@@ -157,12 +157,12 @@ dv_has_:
     wuu: 干涉
     yue: 干涉
     zh: 干涉
-    zh-cn: 干涉
-    zh-hans: 干涉
-    zh-hant: 干涉
-    zh-hk: 干涉
-    zh-sg: 干涉
-    zh-tw: 干涉
+    zh_cn: 干涉
+    zh_hans: 干涉
+    zh_hant: 干涉
+    zh_hk: 干涉
+    zh_sg: 干涉
+    zh_tw: 干涉
 ---
 # [[Wave_Interference]] 
 

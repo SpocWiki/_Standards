@@ -74,7 +74,7 @@ dv_has_:
   name_:
     ar: سلم موسيقي
     ast: escala musical
-    be-tarask: гама
+    be_tarask: гама
     bg: Музикална гама
     bn: স্বরগ্রাম
     br: Skeulenn
@@ -109,8 +109,8 @@ dv_has_:
     kk: Гамма (музыка)
     ko: 음계
     ku: Gam
-    ku-arab: گام
-    ku-latn: Gam
+    ku_arab: گام
+    ku_latn: Gam
     la: Diagramma (musica)
     lt: gama
     lv: gamma
@@ -118,7 +118,7 @@ dv_has_:
     mk: скала
     ml: മ്യൂസിക്കൽ സ്കെയിൽ
     ms: skala
-    ms-arab: سکالا
+    ms_arab: سکالا
     nan: Im-kai
     nb: skala
     nl: toonladder
@@ -126,7 +126,7 @@ dv_has_:
     pa: ਸਕੇਲ (ਸੰਗੀਤ)
     pl: skala
     pt: escala musical
-    pt-br: escala musical
+    pt_br: escala musical
     ro: gamă muzicală
     rsk: Музична скала
     ru: гамма
@@ -137,8 +137,8 @@ dv_has_:
     sl: lestvica
     sms: ceäkkõk
     sr: Музичка лествица
-    sr-ec: Музичка лествица
-    sr-el: Muzička lestvica
+    sr_ec: Музичка лествица
+    sr_el: Muzička lestvica
     sv: skala
     tg: Гамма
     th: บันไดเสียง
@@ -150,12 +150,12 @@ dv_has_:
     wuu: 音阶
     yue: 音階
     zh: 音阶
-    zh-cn: 音阶
-    zh-hans: 音阶
-    zh-hant: 音階
-    zh-hk: 音階
-    zh-sg: 音阶
-    zh-tw: 音階
+    zh_cn: 音阶
+    zh_hans: 音阶
+    zh_hant: 音階
+    zh_hk: 音階
+    zh_sg: 音阶
+    zh_tw: 音階
 ---
 # [[Scale(Music)]] 
 

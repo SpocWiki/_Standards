@@ -70,14 +70,14 @@ dv_has_:
     ast: Compuestu de organoazufre
     az: Kükürdlü üzvi birləşmələr
     be: Сераарганічныя злучэнні
-    be-tarask: сэраарганічнае злучэньне
+    be_tarask: сэраарганічнае злучэньне
     bs: Organosumporni spoj
     ca: compost organosulfurat
     cs: organosírové sloučeniny
     de: Organoschwefelverbindungen
     en: organosulfur compound
-    en-ca: Organosulfur chemistry
-    en-gb: organosulphur compound
+    en_ca: Organosulfur chemistry
+    en_gb: organosulphur compound
     eo: organiksulfura kombinaĵo
     es: compuesto de organoazufre
     eu: Organosufre-konposatu
@@ -93,7 +93,7 @@ dv_has_:
     nn: organisk svovelsambinding
     pl: związek siarkoorganiczny
     pt: composto organossulfurado
-    pt-br: Composto organossulfurado
+    pt_br: Composto organossulfurado
     ro: Compus organosulfurat
     ru: сероорганические соединения
     sl: organožveplova spojina
@@ -104,12 +104,12 @@ dv_has_:
     uk: Сульфурорганічні сполуки
     yue: 有機硫化學
     zh: 有机硫化学
-    zh-cn: 有机硫化学
-    zh-hans: 有机硫化学
-    zh-hant: 有機硫化學
-    zh-hk: 有機硫化學
-    zh-sg: 有机硫化学
-    zh-tw: 有機硫化學
+    zh_cn: 有机硫化学
+    zh_hans: 有机硫化学
+    zh_hant: 有機硫化學
+    zh_hk: 有機硫化學
+    zh_sg: 有机硫化学
+    zh_tw: 有機硫化學
 ---
 # [[../Chemistry/Organosilicon_Compound|Organosilicon_Compound]] 
 

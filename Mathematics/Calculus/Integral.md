@@ -10,7 +10,7 @@ dv_has_:
     azb: انتقرال
     ba: Интеграл
     be: інтэграл
-    be-tarask: інтэграл
+    be_tarask: інтэграл
     bg: интеграл
     bn: সমাকলন
     bs: Integral
@@ -21,13 +21,13 @@ dv_has_:
     cy: Integryn
     da: integralregning
     de: Integral
-    de-ch: Integralrechnung
+    de_ch: Integralrechnung
     diq: İntegral
     dtp: Ponompuuvan
     el: ολοκλήρωμα
     en: integral
-    en-ca: Integral
-    en-gb: integral
+    en_ca: Integral
+    en_gb: integral
     eo: integralo
     es: integración
     et: Integraal
@@ -80,7 +80,7 @@ dv_has_:
     pl: całka
     pnb: انٹیگرل
     pt: integral
-    pt-br: integral
+    pt_br: integral
     ro: integrală
     ru: интеграл
     scn: Intiggrali

@@ -47,7 +47,7 @@ dv_has_:
     nn: Ronald Knox
     pl: Ronald Knox
     pt: Ronald Knox
-    pt-br: Ronald Knox
+    pt_br: Ronald Knox
     ru: Рональд Нокс
     sk: Ronald Knox
     sl: Ronald Knox
@@ -55,9 +55,9 @@ dv_has_:
     sv: Ronald Knox
     tr: Ronald Knox
     zh: 隆納德‧諾克斯
-    zh-cn: 罗纳德·诺克斯
-    zh-hans: 罗纳德·诺克斯
-    zh-hant: 羅納德·諾克斯
+    zh_cn: 罗纳德·诺克斯
+    zh_hans: 罗纳德·诺克斯
+    zh_hant: 羅納德·諾克斯
 ---
 # [[Knox,Ronald]] 
 

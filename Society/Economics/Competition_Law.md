@@ -84,11 +84,11 @@ dv_has_:
     it: norme giuridiche sulla concorrenza
     ja: 独占禁止法
     kk: Монополияга қарсы заңнама
-    kk-arab: مونوپولىيياگا قارسى زاڭناما
+    kk_arab: مونوپولىيياگا قارسى زاڭناما
     kk-cn: مونوپولىيياگا قارسى زاڭناما
-    kk-cyrl: Монополияга қарсы заңнама
+    kk_cyrl: Монополияга қарсы заңнама
     kk-kz: Монополияга қарсы заңнама
-    kk-latn: Monopolïyaga qarsı zañnama
+    kk_latn: Monopolïyaga qarsı zañnama
     kk-tr: Monopolïyaga qarsı zañnama
     ko: 경쟁법
     lt: konkurencijos teisė
@@ -111,12 +111,12 @@ dv_has_:
     vi: Luật cạnh tranh
     war: Balaud kompetisyon
     zh: 競爭法
-    zh-cn: 竞争法
-    zh-hans: 竞争法
-    zh-hant: 競爭法
-    zh-hk: 競爭法
-    zh-sg: 竞争法
-    zh-tw: 競爭法
+    zh_cn: 竞争法
+    zh_hans: 竞争法
+    zh_hant: 競爭法
+    zh_hk: 競爭法
+    zh_sg: 竞争法
+    zh_tw: 競爭法
 ---
 # [[Competition_Law]] 
 

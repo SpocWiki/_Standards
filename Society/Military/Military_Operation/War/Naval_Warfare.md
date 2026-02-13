@@ -61,7 +61,7 @@ dv_has_:
   name_:
     ar: حرب بحرية
     ast: Guerra naval
-    be-tarask: вайна на моры
+    be_tarask: вайна на моры
     bg: Военноморско дело
     br: brezel war vor
     ca: guerra naval
@@ -96,15 +96,15 @@ dv_has_:
     oc: Guèrra navala
     pl: wojna morska
     pt: guerra naval
-    pt-br: guerra naval
+    pt_br: guerra naval
     ro: Război naval
     ru: война на море
     sh: pomorsko ratovanje
     sl: pomorsko vojskovanje
     sq: Lufta detare
     sr: поморска битка
-    sr-ec: поморска битка
-    sr-el: pomorska bitka
+    sr_ec: поморска битка
+    sr_el: pomorska bitka
     sv: sjökrigföring
     tr: Deniz savaşları
     uk: війна на морі
@@ -112,9 +112,9 @@ dv_has_:
     vi: Hải chiến
     yue: 海戰
     zh: 海战
-    zh-hans: 海战
-    zh-hant: 海戰
-    zh-hk: 海戰
+    zh_hans: 海战
+    zh_hant: 海戰
+    zh_hk: 海戰
 ---
 # [[Naval_Warfare]] 
 

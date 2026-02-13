@@ -6,7 +6,7 @@ dv_has_:
     arz: ماجى
     ast: Maggi
     be: Maggi
-    be-tarask: Maggi
+    be_tarask: Maggi
     bg: Maggi
     bn: ম্যাগি
     ca: Maggi

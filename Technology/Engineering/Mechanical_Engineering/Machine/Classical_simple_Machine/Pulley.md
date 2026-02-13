@@ -111,7 +111,7 @@ dv_has_:
     az: Blok
     bcl: Moton
     be: Блок
-    be-tarask: Блёк
+    be_tarask: Блёк
     bew: Kèrèkan
     bg: Макара
     bjn: Takal
@@ -173,7 +173,7 @@ dv_has_:
     pl: Krążek linowy
     pms: Tajòla
     pt: polia
-    pt-br: polia
+    pt_br: polia
     qu: Phiruru
     ro: Scripete
     ru: блок
@@ -183,8 +183,8 @@ dv_has_:
     sk: Kladka
     sl: škripec
     sr: чекрк
-    sr-ec: чекрк
-    sr-el: čekrk
+    sr_ec: чекрк
+    sr_el: čekrk
     sv: block
     ta: கப்பி
     tcy: ರಾಟೆ

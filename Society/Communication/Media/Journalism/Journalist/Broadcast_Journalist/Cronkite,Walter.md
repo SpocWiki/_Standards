@@ -94,7 +94,7 @@ dv_has_:
     ast: Walter Cronkite
     az: Valter Kronkite
     be: Уолтэр Кронкайт
-    be-tarask: Ўолтэр Кронкайт
+    be_tarask: Ўолтэр Кронкайт
     bn: ওয়াল্টার ক্রনকাইট
     ca: Walter Cronkite
     cs: Walter Cronkite
@@ -133,7 +133,7 @@ dv_has_:
     pa: ਵਾਲਟਰ ਕ੍ਰੋਨਕਾਈਟ
     pl: Walter Cronkite
     pt: Walter Cronkite
-    pt-br: Walter Cronkite
+    pt_br: Walter Cronkite
     ro: Walter Cronkite
     ru: Уолтер Кронкайт
     sco: Walter Cronkite

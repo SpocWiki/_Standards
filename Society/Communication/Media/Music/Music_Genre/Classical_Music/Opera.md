@@ -163,7 +163,7 @@ dv_has_:
     bar: Oper
     bcl: Opera
     be: опера
-    be-tarask: опэра
+    be_tarask: опэра
     bg: опера
     bn: গীতিনাট্য
     br: C'hoarigan
@@ -177,12 +177,12 @@ dv_has_:
     cy: opera
     da: opera
     de: Oper
-    de-ch: Oper
+    de_ch: Oper
     diq: Opera
     el: όπερα
     en: opera
-    en-ca: Opera
-    en-gb: opera
+    en_ca: Opera
+    en_gb: opera
     eo: opero
     es: ópera
     et: ooper
@@ -225,7 +225,7 @@ dv_has_:
     kn: ಒಪೇರ
     ko: 오페라
     ku: opera
-    ku-latn: opera
+    ku_latn: opera
     kw: Opera
     ky: Опера
     la: melodrama
@@ -239,7 +239,7 @@ dv_has_:
     mn: Дуурь
     mr: ऑपेरा
     ms: opera
-    ms-arab: اوڤرا
+    ms_arab: اوڤرا
     mt: opra
     my: အော်ပရာဇာတ်ပွဲ
     nah: Opera
@@ -260,7 +260,7 @@ dv_has_:
     pnb: اوپیرا
     ps: اوپرا
     pt: ópera
-    pt-br: ópera
+    pt_br: ópera
     qu: Taki aranway
     ro: operă
     ru: опера
@@ -307,10 +307,10 @@ dv_has_:
     yi: אפערע
     yue: 歌劇
     zh: 歌劇
-    zh-hans: 歌剧
-    zh-hant: 歌劇
-    zh-hk: 歌劇
-    zh-tw: 歌劇
+    zh_hans: 歌剧
+    zh_hant: 歌劇
+    zh_hk: 歌劇
+    zh_tw: 歌劇
 ---
 # [[Opera]] 
 

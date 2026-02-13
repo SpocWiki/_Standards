@@ -251,7 +251,7 @@ dv_has_:
     bar: Astronomie
     bcl: astronomiya
     be: астраномія
-    be-tarask: астраномія
+    be_tarask: астраномія
     bew: Èlmu palak
     bg: астрономия
     bho: खगोलिकी
@@ -265,7 +265,7 @@ dv_has_:
     btm: Astronomi
     bxr: одон орон шудалал
     ca: astronomia
-    cbk-zam: Astronomia
+    cbk_zam: Astronomia
     cdo: tiĕng-ùng
     ce: астрономи
     ceb: astronomiya
@@ -279,7 +279,7 @@ dv_has_:
     cy: seryddiaeth
     da: astronomi
     de: Astronomie
-    de-ch: Astronomie
+    de_ch: Astronomie
     din: ŋiɛ̈ckanhial
     diq: asmênşınasiye
     dsb: astronomija
@@ -289,8 +289,8 @@ dv_has_:
     el: αστρονομία
     eml: astronomî
     en: astronomy
-    en-ca: astronomy
-    en-gb: astronomy
+    en_ca: astronomy
+    en_gb: astronomy
     eo: astronomio
     es: astronomía
     et: astronoomia
@@ -374,7 +374,7 @@ dv_has_:
     lzh: 天文學
     mad: astronomi
     mag: खगोलशास्त्र
-    map-bms: astronomi
+    map_bms: astronomi
     mg: hainkintana
     mhr: астрономий
     mi: tātai arorangi
@@ -386,7 +386,7 @@ dv_has_:
     mo: астрономие ши астрофизикэ
     mr: खगोलशास्त्र
     ms: astronomi
-    ms-arab: استرونومي
+    ms_arab: استرونومي
     mt: astronomija
     mwl: astronomie
     my: နက္ခတ္တဗေဒ
@@ -396,7 +396,7 @@ dv_has_:
     nap: astronumia
     nb: astronomi
     nds: Astronomie
-    nds-nl: steernskunde
+    nds_nl: steernskunde
     ne: खगोल विज्ञान
     new: खगोलशास्त्र
     nia: astronomi
@@ -423,7 +423,7 @@ dv_has_:
     pnt: αστρονομία
     ps: ستورپوهنه
     pt: astronomia
-    pt-br: astronomia
+    pt_br: astronomia
     qu: quyllur yachay
     rki: နက္ခတ္တဗေဒ
     rm: astronomia
@@ -467,7 +467,7 @@ dv_has_:
     te: ఖగోళ శాస్త్రము
     tet: astronomia
     tg: ахтаршиносӣ
-    tg-cyrl: астрономия
+    tg_cyrl: астрономия
     th: ดาราศาสตร์
     ti: አስትሮኖሚ
     tk: astronomiýa
@@ -478,8 +478,8 @@ dv_has_:
     tr: gök bilimi
     ts: Dyondzo-Tinyeleti
     tt: астрономия
-    tt-cyrl: астрономия
-    tt-latn: astronomiä
+    tt_cyrl: астрономия
+    tt_latn: astronomiä
     udm: астрономия
     ug: ئاسترونومىيە
     uk: астрономія
@@ -504,14 +504,14 @@ dv_has_:
     zea: staerrekunde
     zgh: ⵜⴰⵙⵏⵉⵜⵔⵉⵜ
     zh: 天文學
-    zh-cn: 天文学
-    zh-hans: 天文学
-    zh-hant: 天文學
-    zh-hk: 天文學
-    zh-mo: 天文學
+    zh_cn: 天文学
+    zh_hans: 天文学
+    zh_hant: 天文學
+    zh_hk: 天文學
+    zh_mo: 天文學
     zh-my: 天文學
-    zh-sg: 天文學
-    zh-tw: 天文學
+    zh_sg: 天文學
+    zh_tw: 天文學
     zu: izinkanyezi
 ---
 # [[Astronomy]] 

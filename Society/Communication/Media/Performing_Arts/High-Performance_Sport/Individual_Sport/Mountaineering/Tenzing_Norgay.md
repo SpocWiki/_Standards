@@ -102,7 +102,7 @@ dv_has_:
     az: Tensinq Norgey
     azb: تنزینق نورقای
     be: Тэнцынг Норгэй
-    be-tarask: Тэнцынг Норгэй
+    be_tarask: Тэнцынг Норгэй
     bg: Тенсинг Норгей
     bn: তেনজিং নোরগে
     bs: Tenzing Norgay
@@ -115,7 +115,7 @@ dv_has_:
     dty: तेन्जिङ नोर्गे शेर्पा
     el: Τένσινγκ Νοργκέι
     en: Tenzing Norgay
-    en-gb: Tenzing Norgay
+    en_gb: Tenzing Norgay
     eo: Tenzing Norgay
     es: Tenzing Norgay
     et: Tenzing Norgay
@@ -169,7 +169,7 @@ dv_has_:
     pms: Tenzing Norgay
     pnb: تینزنگ نارگے
     pt: Tenzing Norgay
-    pt-br: Tenzing Norgay
+    pt_br: Tenzing Norgay
     rm: Tenzing Norgay
     ro: Tenzing Norgay
     ru: Тенцинг Норгей
@@ -179,7 +179,7 @@ dv_has_:
     sl: Tenzing Norgay
     sq: Tenzing Norgay
     sr: Тензинг Норгај
-    sr-ec: Тензинг Норгај
+    sr_ec: Тензинг Норгај
     sv: Tenzing Norgay
     sw: Tenzing Norgay
     ta: டென்சிங் நோர்கே

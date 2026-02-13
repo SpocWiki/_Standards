@@ -194,7 +194,7 @@ dv_has_:
     bar: Gmoa
     bcl: Munisipalidad
     be: муніцыпалітэт
-    be-tarask: муніцыпалітэт
+    be_tarask: муніцыпалітэт
     bew: Haminté
     bg: муниципалитет
     bho: नगरपालिका
@@ -203,7 +203,7 @@ dv_has_:
     bs: općina
     bxr: нютагай байгууламжа
     ca: municipi
-    cbk-zam: municipalidad
+    cbk_zam: municipalidad
     ceb: lungsod
     ckb: شارەوانی
     co: municipalità
@@ -212,13 +212,13 @@ dv_has_:
     cy: bwrdeistref
     da: kommune
     de: Gemeinde
-    de-ch: Gemeinde
+    de_ch: Gemeinde
     diq: Belediya
     dsb: Gmejna
     el: δήμος
     en: municipality
-    en-ca: municipality
-    en-gb: municipality
+    en_ca: municipality
+    en_gb: municipality
     eo: komunumo
     es: municipio
     et: omavalitsusüksus
@@ -257,7 +257,7 @@ dv_has_:
     ko: 지방자치체
     ks: شَہَردٲری
     ku: şaredarî
-    ku-latn: şaredarî
+    ku_latn: şaredarî
     ky: Муниципалитет
     la: municipium
     lad: Belediye
@@ -279,7 +279,7 @@ dv_has_:
     nan: Ki-chân chèng-koân
     nb: kommune
     nds: Gemeen
-    nds-nl: gemeente
+    nds_nl: gemeente
     ne: नगरपालिका
     nl: gemeente
     nn: kommune
@@ -292,7 +292,7 @@ dv_has_:
     pnb: میونسپلٹی
     ps: ښاروالي
     pt: município
-    pt-br: municipalidade
+    pt_br: municipalidade
     qu: Munisipyu
     rgn: cumón
     rm: vischnanca
@@ -311,7 +311,7 @@ dv_has_:
     so: Dowlad Hoose
     sq: komunë
     sr: општина
-    sr-ec: општина
+    sr_ec: општина
     stq: Meente
     su: Munisipalitas
     sv: kommun
@@ -324,7 +324,7 @@ dv_has_:
     tl: bayan
     tr: belediye
     tt: муниципалитет
-    tt-cyrl: муниципалитет
+    tt_cyrl: муниципалитет
     tw: Munisipal
     uk: муніципалітет
     ur: بلدیہ
@@ -340,8 +340,8 @@ dv_has_:
     zea: Gemeênte
     zgh: ⵜⴰⴳⵔⴰⵡⵜ ⵜⴰⵖⵔⵎⴰⵏⵜ
     zh: 市镇
-    zh-hans: 市镇
-    zh-hant: 市鎮
+    zh_hans: 市镇
+    zh_hant: 市鎮
     zu: UMkhandlusidlidli
 ---
 # [[Municipality]] 

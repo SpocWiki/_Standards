@@ -47,7 +47,7 @@ dv_has_:
   name_:
     ar: كسر التناظر التلقائي
     be: спантаннае парушэнне сіметрыі
-    be-tarask: спантаннае парушэньне сымэтрыі
+    be_tarask: спантаннае парушэньне сымэтрыі
     bg: Спонтанно нарушение на симетрията
     ca: ruptura espontània de simetria
     cs: spontánní narušení symetrie
@@ -65,9 +65,9 @@ dv_has_:
     it: rottura spontanea di simmetria
     ja: 自発的対称性の破れ
     kk: симметрияның өздігінен бұзылуы
-    kk-arab: سىيممەترىييانىڭ وزدىگىنەن بۇزىلۋى
-    kk-cyrl: симметрияның өздігінен бұзылуы
-    kk-latn: sïmmetrïyanıñ özdiginen buzılwı
+    kk_arab: سىيممەترىييانىڭ وزدىگىنەن بۇزىلۋى
+    kk_cyrl: симметрияның өздігінен бұзылуы
+    kk_latn: sïmmetrïyanıñ özdiginen buzılwı
     ko: 자발 대칭 깨짐
     la: ruptura spontanea symmetriae
     mk: спотано нарушување на симетријата
@@ -86,9 +86,9 @@ dv_has_:
     uk: спонтанне порушення симетрії
     yue: 自發對稱性破缺
     zh: 自发对称性破缺
-    zh-hans: 自发对称性破缺
-    zh-hant: 自發對稱性破缺
-    zh-hk: 自發對稱性破缺
+    zh_hans: 自发对称性破缺
+    zh_hant: 自發對稱性破缺
+    zh_hk: 自發對稱性破缺
 ---
 # [[Spontaneous_Symmetry_Breaking]] 
 

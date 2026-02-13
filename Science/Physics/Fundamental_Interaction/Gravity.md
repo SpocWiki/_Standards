@@ -227,7 +227,7 @@ dv_has_:
     bar: Schwaakroft
     bcl: Grabidad
     be: гравітацыя
-    be-tarask: гравітацыя
+    be_tarask: гравітацыя
     bew: Gaya sènggèt
     bg: Гравитация
     bjn: Gravitasi
@@ -244,12 +244,12 @@ dv_has_:
     cy: disgyrchiant
     da: gravitation
     de: Gravitation
-    de-ch: Gravitation
+    de_ch: Gravitation
     diq: Antışê erdi
     el: βαρύτητα
     en: gravity
-    en-ca: Gravitation
-    en-gb: gravity
+    en_ca: Gravitation
+    en_gb: gravity
     eo: gravito
     es: gravedad
     et: gravitatsioon
@@ -317,7 +317,7 @@ dv_has_:
     mn: Гравитаци
     mr: गुरुत्वाकर्षण
     ms: graviti
-    ms-arab: ݢراۏيتي
+    ms_arab: ݢراۏيتي
     mt: gravità
     mwl: Grabidade
     my: အာကဍ္ဎနသတ္တိ
@@ -339,7 +339,7 @@ dv_has_:
     pnb: گریوٹی
     ps: د جاذبې قوه
     pt: gravidade
-    pt-br: gravidade
+    pt_br: gravidade
     qu: Llasaturaku
     ro: gravitație
     rsk: Ґравитация
@@ -363,8 +363,8 @@ dv_has_:
     so: Cuf is-jiidad
     sq: graviteti
     sr: гравитација
-    sr-ec: гравитација
-    sr-el: gravitacija
+    sr_ec: гравитација
+    sr_el: gravitacija
     stq: Sweerkraft
     su: Gravitasi
     sv: gravitation
@@ -393,13 +393,13 @@ dv_has_:
     yi: גראוויטאציע
     yue: 萬有引力
     zh: 引力
-    zh-cn: 引力
-    zh-hans: 引力
-    zh-hant: 引力
-    zh-hk: 重力
-    zh-mo: 重力
-    zh-sg: 引力
-    zh-tw: 重力
+    zh_cn: 引力
+    zh_hans: 引力
+    zh_hant: 引力
+    zh_hk: 重力
+    zh_mo: 重力
+    zh_sg: 引力
+    zh_tw: 重力
     zu: UmNyondo
 ---
 # [[Gravity]] 

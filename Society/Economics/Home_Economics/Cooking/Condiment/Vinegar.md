@@ -152,7 +152,7 @@ dv_has_:
     az: sirkə
     bcl: suka
     be: воцат
-    be-tarask: воцат
+    be_tarask: воцат
     bg: оцет
     bn: ভিনেগার
     br: gwinegr
@@ -212,7 +212,7 @@ dv_has_:
     nan: chhò͘
     nap: acito
     nb: eddik
-    nds-nl: edik
+    nds_nl: edik
     ne: भिनेगर
     nl: azijn
     nn: eddik
@@ -240,7 +240,7 @@ dv_has_:
     so: khal
     sq: uthulla
     sr: сирће
-    sr-ec: сирће
+    sr_ec: сирће
     su: cuka
     sv: vinäger
     ta: புளிங்காடி
@@ -261,7 +261,7 @@ dv_has_:
     yi: עסיג
     yue: 醋
     zh: 醋
-    zh-hans: 醋
+    zh_hans: 醋
 ---
 # [[Vinegar]] 
 

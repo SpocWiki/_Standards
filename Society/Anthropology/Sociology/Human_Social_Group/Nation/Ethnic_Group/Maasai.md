@@ -97,7 +97,7 @@ dv_has_:
     azb: ماسایلر
     ba: Маасайҙар
     be: Масаі
-    be-tarask: Масаі
+    be_tarask: Масаі
     bg: Масаи
     bo: མ་སེའི་མི།
     br: Masaied
@@ -154,8 +154,8 @@ dv_has_:
     sl: Masaji
     so: Maasaay
     sr: Масаји
-    sr-ec: Масаји
-    sr-el: Masaji
+    sr_ec: Масаји
+    sr_el: Masaji
     sv: massajer
     sw: Wamasai
     ta: மாசாய் இனக்குழு
@@ -172,12 +172,12 @@ dv_has_:
     yo: Maasai
     yue: 馬賽人
     zh: 马赛人
-    zh-cn: 马赛人
-    zh-hans: 马赛人
-    zh-hant: 馬賽人
-    zh-hk: 馬賽人
-    zh-sg: 马赛人
-    zh-tw: 馬賽人
+    zh_cn: 马赛人
+    zh_hans: 马赛人
+    zh_hant: 馬賽人
+    zh_hk: 馬賽人
+    zh_sg: 马赛人
+    zh_tw: 馬賽人
 ---
 # [[Maasai]] 
 

@@ -210,7 +210,7 @@ dv_has_:
     bax: li'shu
     bbj: láʼ
     be: частка горада
-    be-tarask: квартал
+    be_tarask: квартал
     bg: квартал
     bho: मोहल्ला
     bkc: gaje na dotò
@@ -231,8 +231,8 @@ dv_has_:
     dua: kwata
     el: συνοικία
     en: neighborhood
-    en-ca: neighbourhood
-    en-gb: neighbourhood
+    en_ca: neighbourhood
+    en_gb: neighbourhood
     en-us: neighborhood
     eo: kvartalo
     es: barrio
@@ -274,7 +274,7 @@ dv_has_:
     ks: محلہٕ
     ksh: Veedel
     ku: tax
-    ku-latn: tax
+    ku_latn: tax
     la: vicus urbanus
     lb: Quartier
     lem: eelue
@@ -305,7 +305,7 @@ dv_has_:
     pnb: گوانڈھ
     ps: ګاونډيتوب
     pt: bairro
-    pt-br: bairro
+    pt_br: bairro
     ro: cartier
     ru: отдельная часть города
     sat: ᱴᱚᱞᱟ
@@ -317,8 +317,8 @@ dv_has_:
     sl: soseska
     sq: lagje
     sr: суседство
-    sr-ec: суседство
-    sr-el: susedstvo
+    sr_ec: суседство
+    sr_el: susedstvo
     sv: område
     sw: Mtaa
     tg: ноҳияи шаҳр
@@ -340,12 +340,12 @@ dv_has_:
     yi: געגנט
     yue: 分區
     zh: 近鄰社區
-    zh-cn: 近邻社区
-    zh-hans: 近邻社区
-    zh-hant: 近鄰社區
-    zh-hk: 近鄰社區
-    zh-sg: 近邻社区
-    zh-tw: 近鄰社區
+    zh_cn: 近邻社区
+    zh_hans: 近邻社区
+    zh_hant: 近鄰社區
+    zh_hk: 近鄰社區
+    zh_sg: 近邻社区
+    zh_tw: 近鄰社區
 ---
 # [[Neighborhood]] 
 

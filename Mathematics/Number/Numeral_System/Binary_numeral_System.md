@@ -128,7 +128,7 @@ dv_has_:
     ba: Икеле иҫәпләү системаһы
     bar: Binärzoihn
     be: двайковая сістэма злічэння
-    be-tarask: двайковая сыстэма зьлічэньня
+    be_tarask: двайковая сыстэма зьлічэньня
     bg: Двоична бройна система
     bn: দ্বিমিক সংখ্যাপদ্ধতি
     br: Enbonegañ daouredel
@@ -139,11 +139,11 @@ dv_has_:
     cy: Rhif deuaidd
     da: Binære talsystem
     de: Dualsystem
-    de-ch: Dualsystem
+    de_ch: Dualsystem
     el: Δυαδικό σύστημα
     en: binary numeral system
-    en-ca: Binary numeral system
-    en-gb: binary numeral system
+    en_ca: Binary numeral system
+    en_gb: binary numeral system
     eo: duuma sistemo
     es: sistema binario
     et: Kahendsüsteem
@@ -200,7 +200,7 @@ dv_has_:
     pa: ਬਾਇਨਰੀ ਨੰਬਰ ਸਿਸਟਮ
     pl: dwójkowy system liczbowy
     pt: sistema de numeração binário
-    pt-br: sistema de numeração binário
+    pt_br: sistema de numeração binário
     ro: sistem binar
     ru: двоичная система счисления
     sd: انگن جو ڏونائي سرشتو
@@ -213,7 +213,7 @@ dv_has_:
     so: Tiro labaale
     sq: Sistemi binar
     sr: бинарни систем
-    sr-ec: Бинарни систем
+    sr_ec: Бинарни систем
     su: Sistim panomeran binér
     sv: binära talsystemet
     th: เลขฐานสอง
@@ -229,10 +229,10 @@ dv_has_:
     yi: בינארישע סיסטעם
     yue: 二進制
     zh: 二進制
-    zh-hans: 二进制
-    zh-hant: 二進制
-    zh-hk: 二進制
-    zh-tw: 二進制
+    zh_hans: 二进制
+    zh_hant: 二進制
+    zh_hk: 二進制
+    zh_tw: 二進制
 ---
 # [[Binary_numeral_System]] 
 

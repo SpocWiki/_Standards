@@ -115,7 +115,7 @@ dv_has_:
     az: hissəciklər fizikası
     ba: элементар өлөшсәләр физикаһы
     be: фізіка элементарных часціц
-    be-tarask: фізыка элемэнтарных часьцінак
+    be_tarask: фізыка элемэнтарных часьцінак
     bg: Физика на елементарните частици
     bho: कण भौतिकी
     bn: কণা পদার্থবিজ্ঞান
@@ -128,8 +128,8 @@ dv_has_:
     de: Teilchenphysik
     el: σωματιδιακή φυσική
     en: particle physics
-    en-ca: Particle physics
-    en-gb: particle physics
+    en_ca: Particle physics
+    en_gb: particle physics
     eo: partikla fiziko
     es: física de partículas
     et: osakestefüüsika
@@ -169,7 +169,7 @@ dv_has_:
     ml: കണികാഭൗതികം
     mr: मूलकण भौतिकशास्त्र
     ms: fizik zarah
-    ms-arab: فيزيک ذره
+    ms_arab: فيزيک ذره
     my: အမှုန်ရူပဗေဒ
     nb: partikkelfysikk
     nl: deeltjesfysica
@@ -181,7 +181,7 @@ dv_has_:
     pl: fizyka cząstek elementarnych
     ps: د ذراتو فزیک
     pt: física de partículas
-    pt-br: física de partículas
+    pt_br: física de partículas
     rki: အမှုန်ရူပဗေဒ
     ro: Fizica particulelor elementare
     ru: физика элементарных частиц
@@ -212,8 +212,8 @@ dv_has_:
     xh: I-Particle physics
     yue: 粒子物理學
     zh: 粒子物理學
-    zh-hans: 粒子物理学
-    zh-hant: 粒子物理學
+    zh_hans: 粒子物理学
+    zh_hant: 粒子物理學
 ---
 # [[Particle_Physics]] 
 

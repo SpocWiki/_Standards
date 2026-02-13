@@ -68,7 +68,7 @@ dv_has_:
     as: ন'বেল বঁটা বিজয়ী
     az: Tibb və Fiziologiya üzrə Nobel mükafatçılarının siyahısı
     be: Спіс лаўрэатаў Нобелеўскай прэміі па фізіялогіі і медыцыне
-    be-tarask: сьпіс Нобэлеўскіх ляўрэатаў у фізыялёгіі ці мэдыцыне
+    be_tarask: сьпіс Нобэлеўскіх ляўрэатаў у фізыялёгіі ці мэдыцыне
     bn: চিকিৎসাবিজ্ঞানে নোবেল বিজয়ীদের তালিকা
     bs: Spisak dobitnika Nobelove nagrade za fiziologiju ili medicinu
     ca: llista de guardonats amb el Premi Nobel de Medicina o Fisiologia
@@ -76,11 +76,11 @@ dv_has_:
     cs: Seznam nositelů Nobelovy ceny za fyziologii a lékařství
     da: liste over modtagere af Nobelprisen i fysiologi eller medicin
     de: Liste der Nobelpreisträger für Physiologie oder Medizin
-    de-ch: Liste der Nobelpreisträger für Physiologie oder Medizin
+    de_ch: Liste der Nobelpreisträger für Physiologie oder Medizin
     el: Κατάλογος αποδεκτών Βραβείου Νόμπελ Φυσιολογίας και Ιατρικής
     en: list of Nobel laureates in Physiology or Medicine
-    en-ca: list of Nobel laureates in Physiology or Medicine
-    en-gb: list of Nobel laureates in Physiology or Medicine
+    en_ca: list of Nobel laureates in Physiology or Medicine
+    en_gb: list of Nobel laureates in Physiology or Medicine
     es: Ganadores del Premio Nobel de Fisiología o Medicina
     eu: Zerrenda:Medikuntzako Nobel Saria
     fa: فهرست برندگان جایزه نوبل فیزیولوژی و پزشکی

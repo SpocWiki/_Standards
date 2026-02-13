@@ -141,7 +141,7 @@ dv_has_:
     azb: جان مککارتی
     bcl: John McCarthy (siyentipiko kan kompyuter)
     be: Джон Макарці
-    be-tarask: Джон Макарці
+    be_tarask: Джон Макарці
     bg: Джон Маккарти
     bn: জন ম্যাকার্থি
     bs: John McCarthy
@@ -154,8 +154,8 @@ dv_has_:
     de: John McCarthy
     el: Τζον Μακάρθι
     en: John McCarthy
-    en-ca: John McCarthy
-    en-gb: John McCarthy
+    en_ca: John McCarthy
+    en_gb: John McCarthy
     eo: John McCarthy
     es: John McCarthy
     eu: John McCarthy
@@ -190,7 +190,7 @@ dv_has_:
     pa: ਜੋਹਨ ਮਕਕਰਥੀ
     pl: John McCarthy
     pt: John McCarthy
-    pt-br: John McCarthy
+    pt_br: John McCarthy
     ro: John McCarthy
     ru: Джон Маккарти
     sco: John McCarthy
@@ -199,8 +199,8 @@ dv_has_:
     sl: John McCarthy
     sq: John McCarthy
     sr: Џон Макарти
-    sr-ec: Џон Макарти
-    sr-el: Džon Makarti
+    sr_ec: Џон Макарти
+    sr_el: Džon Makarti
     sv: John McCarthy
     ta: ஜோன் மெக்கார்த்தி
     te: జాన్ మెక్కార్తి
@@ -212,12 +212,12 @@ dv_has_:
     vo: John McCarthy
     xmf: ჯონ მაკარტი
     zh: 约翰·麦卡锡
-    zh-cn: 约翰·麦卡锡
-    zh-hans: 约翰·麦卡锡
-    zh-hant: 約翰·麥卡錫
-    zh-hk: 約翰·麥卡錫
-    zh-sg: 约翰·麦卡锡
-    zh-tw: 約翰·麥卡錫
+    zh_cn: 约翰·麦卡锡
+    zh_hans: 约翰·麦卡锡
+    zh_hant: 約翰·麥卡錫
+    zh_hk: 約翰·麥卡錫
+    zh_sg: 约翰·麦卡锡
+    zh_tw: 約翰·麥卡錫
 ---
 # [[McCarthy,John]]
 

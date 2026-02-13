@@ -100,7 +100,7 @@ dv_has_:
     ar: لامركزية
     ast: Descentralización
     az: desentralizasiya
-    be-tarask: дэцэнтралізацыя
+    be_tarask: дэцэнтралізацыя
     bg: Децентрализация
     bn: বিকেন্দ্রীকরণ
     bs: Decentralizacija
@@ -113,7 +113,7 @@ dv_has_:
     de: Dezentralisation
     el: Διοικητική αποκέντρωση
     en: decentralization
-    en-gb: decentralisation
+    en_gb: decentralisation
     eo: malcentralizado
     es: descentralización
     eu: Deszentralizazio
@@ -133,11 +133,11 @@ dv_has_:
     ja: 地方分権
     ka: დეცენტრალიზაცია
     kk: Орталықсыздандыру
-    kk-arab: ورتالىقسىزداندىرۋ
+    kk_arab: ورتالىقسىزداندىرۋ
     kk-cn: ورتالىقسىزداندىرۋ
-    kk-cyrl: Орталықсыздандыру
+    kk_cyrl: Орталықсыздандыру
     kk-kz: Орталықсыздандыру
-    kk-latn: Ortalıqsızdandırw
+    kk_latn: Ortalıqsızdandırw
     kk-tr: Ortalıqsızdandırw
     kn: ವಿಕೇಂದ್ರೀಕರಣ
     ko: 분권화
@@ -164,8 +164,8 @@ dv_has_:
     sl: decentralizacija
     sq: Decentralizimi
     sr: децентрализација
-    sr-ec: Децентрализација
-    sr-el: Decentralizacija
+    sr_ec: Децентрализација
+    sr_el: Decentralizacija
     sv: decentralisering
     ta: பரவலாக்கம்
     th: การกระจายอำนาจ

@@ -106,7 +106,7 @@ dv_has_:
     az: tropik iqlim
     bcl: Klimang tropiko
     be: Трапічны клімат
-    be-tarask: трапічны клімат
+    be_tarask: трапічны клімат
     bg: Тропичен климат
     bn: ক্রান্তীয় জলবায়ু
     ca: clima tropical
@@ -141,11 +141,11 @@ dv_has_:
     ka: ტროპიკული სარტყლები
     kab: Anezwu amezzay
     kk: Тропиктік климат
-    kk-arab: تروپىيكتىك كلىيمات
+    kk_arab: تروپىيكتىك كلىيمات
     kk-cn: تروپىيكتىك كلىيمات
-    kk-cyrl: Тропиктік климат
+    kk_cyrl: Тропиктік климат
     kk-kz: Тропиктік климат
-    kk-latn: Tropïktik klïmat
+    kk_latn: Tropïktik klïmat
     kk-tr: Tropïktik klïmat
     ko: 열대 기후
     lt: Atogrąžų klimatas
@@ -154,7 +154,7 @@ dv_has_:
     mk: Тропска клима
     ml: ഉഷ്ണമേഖലാ കാലാവസ്ഥ
     ms: iklim tropika
-    ms-arab: اقليم تروڤيکا
+    ms_arab: اقليم تروڤيکا
     nb: tropisk klima
     ne: उष्णकटिबन्धीय जलवायु
     nl: tropisch klimaat
@@ -170,8 +170,8 @@ dv_has_:
     sl: tropsko podnebje
     sq: Klima tropikale
     sr: Тропски влажни климат
-    sr-ec: тропска клима
-    sr-el: tropski vlažni klimat
+    sr_ec: тропска клима
+    sr_el: tropski vlažni klimat
     sv: tropiskt klimat
     syl: ꠃꠡ꠆ꠝꠣꠁꠀ ꠎꠟꠛꠣꠁꠃ
     tg: Иқлими гармсерӣ

@@ -126,7 +126,7 @@ dv_has_:
     az: melanoma
     azb: مئلانوما
     be: меланома
-    be-tarask: мэлянома
+    be_tarask: мэлянома
     bg: меланома
     br: melanom
     bs: melanom
@@ -161,11 +161,11 @@ dv_has_:
     ja: 悪性黒色腫
     ka: მელანომა
     kk: меланома
-    kk-arab: مەلانوما
+    kk_arab: مەلانوما
     kk-cn: مەلانوما
-    kk-cyrl: меланома
+    kk_cyrl: меланома
     kk-kz: меланома
-    kk-latn: melanoma
+    kk_latn: melanoma
     kk-tr: melanoma
     ko: 흑색종
     ky: меланома
@@ -176,7 +176,7 @@ dv_has_:
     mai: मेलानोमा
     mk: меланом
     ms: melanoma
-    ms-arab: ميلانوما
+    ms_arab: ميلانوما
     nan: o͘-sek-sò͘-liû
     nb: malignt melanom
     new: मेलानोमा
@@ -193,8 +193,8 @@ dv_has_:
     sh: melanom
     sl: melanom
     sr: меланом
-    sr-ec: меланом
-    sr-el: melanom
+    sr_ec: меланом
+    sr_el: melanom
     su: mélanoma
     sv: malignt melanom
     ta: கரும்புற்றுநோய்
@@ -202,7 +202,7 @@ dv_has_:
     th: เมลาโนมา
     tr: malign melanom
     tt: миланумы
-    tt-cyrl: меланома
+    tt_cyrl: меланома
     uk: меланома
     ur: اسودینومہ
     uz: melanoma
@@ -210,12 +210,12 @@ dv_has_:
     wuu: 黑色素瘤
     yue: 黑色素瘤
     zh: 黑色素瘤
-    zh-cn: 黑色素瘤
-    zh-hans: 黑色素瘤
-    zh-hant: 黑色素瘤
-    zh-hk: 黑色素瘤
-    zh-sg: 黑色素瘤
-    zh-tw: 黑色素瘤
+    zh_cn: 黑色素瘤
+    zh_hans: 黑色素瘤
+    zh_hant: 黑色素瘤
+    zh_hk: 黑色素瘤
+    zh_sg: 黑色素瘤
+    zh_tw: 黑色素瘤
 ---
 # [[Melanoma]] 
 

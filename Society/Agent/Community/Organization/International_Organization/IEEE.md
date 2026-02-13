@@ -202,7 +202,7 @@ dv_has_:
     az: Elektrotexnika və Elektronika Mühəndisləri İnstitutu
     azb: برق و الکترونیک موهندیس قورومو
     be: Інстытут інжынераў электратэхнікі і электронікі
-    be-tarask: Інстытут інжынэраў электратэхнікі і электронікі
+    be_tarask: Інстытут інжынэраў электратэхнікі і электронікі
     bg: Институт на инженерите по електротехника и електроника
     bn: ইনস্টিটিউট অব ইলেকট্রিক্যাল অ্যান্ড ইলেকট্রনিক্স ইঞ্জিনিয়ার্স
     br: IEEE
@@ -235,16 +235,16 @@ dv_has_:
     ja: IEEE
     ka: ელექტროტექნიკის და ელექტრონიკის ინჟინერთა ინსტიტუტი
     kk: Электротехника және Электроника Инженерлер Институты
-    kk-arab: ەلەكتروتەحنىيكا جانە ەلەكترونىيكا ىينجەنەرلەر ىينستىيتۋتى
+    kk_arab: ەلەكتروتەحنىيكا جانە ەلەكترونىيكا ىينجەنەرلەر ىينستىيتۋتى
     kk-cn: ەلەكتروتەحنىيكا جانە ەلەكترونىيكا ىينجەنەرلەر ىينستىيتۋتى
-    kk-cyrl: Электротехника және Электроника Инженерлер Институты
+    kk_cyrl: Электротехника және Электроника Инженерлер Институты
     kk-kz: Электротехника және Электроника Инженерлер Институты
-    kk-latn: Élektrotexnïka jäne Élektronïka Ïnjenerler Ïnstïtwtı
+    kk_latn: Élektrotexnïka jäne Élektronïka Ïnjenerler Ïnstïtwtı
     kk-tr: Élektrotexnïka jäne Élektronïka Ïnjenerler Ïnstïtwtı
     ko: 전기전자기술자협회
     ku: The Institute of Electrical and Electronics Engineers
-    ku-arab: تهە Iنستتوتەئۆ فئە لەجترجالئا ندئە لەجترۆنجسئە نگنەەرس
-    ku-latn: The Institute of Electrical and Electronics Engineers
+    ku_arab: تهە Iنستتوتەئۆ فئە لەجترجالئا ندئە لەجترۆنجسئە نگنەەرس
+    ku_latn: The Institute of Electrical and Electronics Engineers
     la: IEEE
     lv: Elektronikas un Elektrotehnikas inženieru institūts
     mk: Институт на елетротехнички и електронски инженери
@@ -260,7 +260,7 @@ dv_has_:
     pl: Institute of Electrical and Electronics Engineers
     pms: IEEE
     pt: Instituto de Engenheiros Eletricistas e Eletrônicos
-    pt-br: Instituto de Engenheiros Eletricistas e Eletrônicos
+    pt_br: Instituto de Engenheiros Eletricistas e Eletrônicos
     qu: Institute of Electrical and Electronics Engineers
     ro: Institutul Inginerilor Electrotehniști și Electroniști
     ru: Институт инженеров электротехники и электроники
@@ -269,8 +269,8 @@ dv_has_:
     sl: Inštitut inženirjev elektrotehnike in elektronike
     sq: IEEE
     sr: IEEE
-    sr-ec: IEEE
-    sr-el: IEEE
+    sr_ec: IEEE
+    sr_el: IEEE
     sv: Institute of Electrical and Electronics Engineers
     ta: ஐஇஇஇ
     th: สถาบันวิชาชีพวิศวกรไฟฟ้าและอิเล็กทรอนิกส์
@@ -284,12 +284,12 @@ dv_has_:
     yo: Afidimule awon Onimose-ero Onitanna ati Ero-aloitanna
     yue: 電機電子工程師學會
     zh: 电气电子工程师学会
-    zh-cn: 电气电子工程师学会
-    zh-hans: 电气电子工程师学会
-    zh-hant: 電機電子工程師學會
-    zh-hk: 電機電子工程師學會
-    zh-sg: 电气电子工程师学会
-    zh-tw: 電機電子工程師學會
+    zh_cn: 电气电子工程师学会
+    zh_hans: 电气电子工程师学会
+    zh_hant: 電機電子工程師學會
+    zh_hk: 電機電子工程師學會
+    zh_sg: 电气电子工程师学会
+    zh_tw: 電機電子工程師學會
 ---
 # [[IEEE]] 
 

@@ -144,7 +144,7 @@ dv_has_:
     ba: Койпер билбауы
     bar: Kuipergiatl
     be: Пояс Койпера
-    be-tarask: Пояс Койпэра
+    be_tarask: Пояс Койпэра
     bew: Lingkeran Kèper
     bg: Пояс на Кайпер
     bjn: Pendéng Kuiper
@@ -197,7 +197,7 @@ dv_has_:
     lt: Koiperio juosta
     lv: Koipera josla
     lzh: 柯伊伯帶
-    map-bms: Sabuk Kuiper
+    map_bms: Sabuk Kuiper
     mk: Кајперов Појас
     ml: കൈപ്പർ വലയം
     mn: Күйпер бүслүүр
@@ -217,7 +217,7 @@ dv_has_:
     pnb: کائپر پٹی
     ps: د کویپر کمربند
     pt: Cintura de Kuiper
-    pt-br: Cinturão de Kuiper
+    pt_br: Cinturão de Kuiper
     ro: centura Kuiper
     ru: пояс Койпера
     scn: cintura di Kuiper

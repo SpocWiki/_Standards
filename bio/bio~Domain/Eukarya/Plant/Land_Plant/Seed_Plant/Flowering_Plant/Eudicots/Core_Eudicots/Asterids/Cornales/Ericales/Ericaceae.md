@@ -99,7 +99,7 @@ dv_has_:
     ba: Арса һымаҡтар
     bar: Ericaceae
     be: верасовыя
-    be-tarask: верасавыя
+    be_tarask: верасавыя
     bg: пиренови
     br: Ericaceae
     bs: Ericaceae
@@ -111,11 +111,11 @@ dv_has_:
     da: lyngfamilien
     de: Ericaceae
     de-at: Ericaceae
-    de-ch: Ericaceae
+    de_ch: Ericaceae
     el: ερεικοειδή
     en: Ericaceae
-    en-ca: Ericaceae
-    en-gb: Ericaceae
+    en_ca: Ericaceae
+    en_gb: Ericaceae
     eo: Erikacoj
     es: Ericaceae
     et: Kanarbikulised
@@ -164,7 +164,7 @@ dv_has_:
     nap: Ericaceae
     nb: Lyngfamilien
     nds: Ericaceae
-    nds-nl: heedfemilie
+    nds_nl: heedfemilie
     nl: heifamilie
     nn: lyngfamilien
     nrm: Ericaceae
@@ -175,7 +175,7 @@ dv_has_:
     pl: wrzosowate
     pms: Ericaceae
     pt: Ericaceae
-    pt-br: Ericaceae
+    pt_br: Ericaceae
     qu: Thumana yura rikch'aq ayllu
     rm: Ericaceae
     ro: Ericaceae
@@ -206,9 +206,9 @@ dv_has_:
     xmf: მანანაშობურეფი
     yue: 杜鵑花科
     zh: 杜鹃花科
-    zh-cn: 杜鹃花科
-    zh-hans: 杜鹃花科
-    zh-tw: 杜鹃花科
+    zh_cn: 杜鹃花科
+    zh_hans: 杜鹃花科
+    zh_tw: 杜鹃花科
     zu: Ericaceae
 ---
 # [[Ericaceae]] 

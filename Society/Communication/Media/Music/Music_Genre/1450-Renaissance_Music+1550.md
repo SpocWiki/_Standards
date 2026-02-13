@@ -78,7 +78,7 @@ dv_has_:
     arz: موسيقى عصر النهضه
     ast: Música del Renacimientu
     be: музыка эпохі Адраджэння
-    be-tarask: музыка эпохі Адраджэньня
+    be_tarask: музыка эпохі Адраджэньня
     bg: Ренесансова музика
     ca: música del Renaixement
     cs: renesanční hudba
@@ -130,12 +130,12 @@ dv_has_:
     vi: âm nhạc phục hưng
     yue: 文藝復興音樂
     zh: 文艺复兴音乐
-    zh-cn: 文艺复兴音乐
-    zh-hans: 文艺复兴音乐
-    zh-hant: 文藝復興音樂
-    zh-hk: 文藝復興音樂
-    zh-sg: 文艺复兴音乐
-    zh-tw: 文藝復興音樂
+    zh_cn: 文艺复兴音乐
+    zh_hans: 文艺复兴音乐
+    zh_hant: 文藝復興音樂
+    zh_hk: 文藝復興音樂
+    zh_sg: 文艺复兴音乐
+    zh_tw: 文藝復興音樂
 ---
 # [[1450-Renaissance_Music+1550]] 
 

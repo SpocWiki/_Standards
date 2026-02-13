@@ -122,7 +122,7 @@ dv_has_:
     azb: ازوپ
     ba: Эзоп
     be: Эзоп
-    be-tarask: Эзоп
+    be_tarask: Эзоп
     bg: Езоп
     bn: ঈসপ
     br: Aisopos
@@ -137,7 +137,7 @@ dv_has_:
     diq: Aisopos
     el: Αίσωπος
     en: Aesop
-    en-gb: Aesop
+    en_gb: Aesop
     eo: Ezopo
     es: Esopo
     et: Aisopos
@@ -193,7 +193,7 @@ dv_has_:
     pms: Esòp
     pnb: ایسوپ
     pt: Esopo
-    pt-br: Esopo
+    pt_br: Esopo
     qu: Esopus
     ro: Esop
     ru: Эзоп
@@ -204,7 +204,7 @@ dv_has_:
     sl: Ezop
     sq: Ezopi
     sr: Езоп
-    sr-ec: Езоп
+    sr_ec: Езоп
     stq: Aísōpos
     sv: Aisopos
     sw: Esopi

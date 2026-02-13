@@ -568,7 +568,7 @@ dv_has_:
     ab: Аргентина
     ace: Argentina
     ady: Аргентинэ
-    aeb-arab: الأرجنتين
+    aeb_arab: الأرجنتين
     af: Argentinië
     am: አርጀንቲና
     ami: Argentina
@@ -592,7 +592,7 @@ dv_has_:
     bbc: Argentina
     bcl: Argentina
     be: Аргенціна
-    be-tarask: Аргентына
+    be_tarask: Аргентына
     bew: Arhèntini
     bg: Аржентина
     bgn: ارحنٹاین
@@ -609,7 +609,7 @@ dv_has_:
     bug: ᨕᨑᨁᨙᨈᨗᨊ
     bxr: Аргентин
     ca: Argentina
-    cbk-zam: Argentina
+    cbk_zam: Argentina
     cdo: Argentina
     ce: Аргентина
     ceb: Arhentina
@@ -619,7 +619,7 @@ dv_has_:
     ckb: ئەرژەنتین
     co: Argentina
     crh: Argentina
-    crh-latn: Argentina
+    crh_latn: Argentina
     cs: Argentina
     csb: Argentina
     cv: Аргентина
@@ -628,7 +628,7 @@ dv_has_:
     dag: Argentina
     de: Argentinien
     de-at: Argentinien
-    de-ch: Argentinien
+    de_ch: Argentinien
     diq: Arcantin
     dsb: Argentinska
     dty: अर्जेन्टिना
@@ -638,7 +638,7 @@ dv_has_:
     el: Αργεντινή
     eml: Argintìna
     en: Argentina
-    en-gb: Argentina
+    en_gb: Argentina
     eo: Argentino
     es: Argentina
     et: Argentina
@@ -664,7 +664,7 @@ dv_has_:
     gn: Argentina
     gom: आर्जेन्टिना
     gom-deva: आर्जेन्टिना
-    gom-latn: Argentina
+    gom_latn: Argentina
     got: "\U00010343\U00010339\U0001033B\U00010331\U0001033F\U00010342\U0001033B\U00010330\U0001033D\U00010333"
     gpe: Argentina
     grc: Ἀργεντινή
@@ -740,7 +740,7 @@ dv_has_:
     lzh: 阿根廷
     mad: Argentina
     mai: अर्जेन्टिना
-    map-bms: Argentina
+    map_bms: Argentina
     mdf: Аргэнтина
     mg: Arjentina
     mhr: Аргентина
@@ -754,7 +754,7 @@ dv_has_:
     mr: आर्जेन्टिना
     mrj: Аргентина
     ms: Argentina
-    ms-arab: ارجنتينا
+    ms_arab: ارجنتينا
     mt: Arġentina
     mwl: Argentina
     my: အာဂျင်တီးနားနိုင်ငံ
@@ -766,7 +766,7 @@ dv_has_:
     nap: Argentina
     nb: Argentina
     nds: Argentinien
-    nds-nl: Argentinië
+    nds_nl: Argentinië
     ne: अर्जेन्टिना
     new: अर्जेन्तिना
     nl: Argentinië
@@ -830,8 +830,8 @@ dv_has_:
     so: Arjantiina
     sq: Argjentina
     sr: Аргентина
-    sr-ec: Аргентина
-    sr-el: Argentina
+    sr_ec: Аргентина
+    sr_el: Argentina
     srn: Argentinikondre
     ss: I-Argentina
     stq: Argentinien
@@ -887,14 +887,14 @@ dv_has_:
     zea: Arhentinië
     zgh: ⴰⵔⵊⵓⵏⵜⵉⵏ
     zh: 阿根廷
-    zh-cn: 阿根廷
-    zh-hans: 阿根廷
-    zh-hant: 阿根廷
-    zh-hk: 阿根廷
-    zh-mo: 阿根廷
+    zh_cn: 阿根廷
+    zh_hans: 阿根廷
+    zh_hant: 阿根廷
+    zh_hk: 阿根廷
+    zh_mo: 阿根廷
     zh-my: 阿根廷
-    zh-sg: 阿根廷
-    zh-tw: 阿根廷
+    zh_sg: 阿根廷
+    zh_tw: 阿根廷
     zu: I-Argentina
   url_for_:
     code_repository: https://github.com/SpocWiki/America-Argentina

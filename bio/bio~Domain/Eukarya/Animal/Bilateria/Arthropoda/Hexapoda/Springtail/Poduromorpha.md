@@ -41,7 +41,7 @@ dv_has_:
     oc: Poduromorpha
     pl: Poduromorpha
     pt: Poduromorpha
-    pt-br: Poduromorpha
+    pt_br: Poduromorpha
     ro: Poduromorfe
     ru: Poduromorpha
     sq: Poduromorpha
@@ -50,8 +50,8 @@ dv_has_:
     vo: Poduromorpha
     war: Poduromorpha
     zh: 原䖴目
-    zh-cn: 原䖴目
-    zh-hans: 原䖴目
+    zh_cn: 原䖴目
+    zh_hans: 原䖴目
 ---
 # [[Poduromorpha]] 
 

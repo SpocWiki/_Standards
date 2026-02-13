@@ -63,7 +63,7 @@ dv_has_:
     ar: نسيج وعائي
     as: সংবহন কলা
     ast: Texíu vascular
-    be-tarask: судзінкавая тканіна
+    be_tarask: судзінкавая тканіна
     bg: Проводяща тъкан
     bn: সংবহনতান্ত্রিক কলা
     ca: vasos llenyosos
@@ -71,8 +71,8 @@ dv_has_:
     de: Leitgewebe
     el: Αγωγός ιστός
     en: vascular tissue
-    en-ca: Vascular tissue
-    en-gb: Vascular tissue
+    en_ca: Vascular tissue
+    en_gb: Vascular tissue
     eo: vaskula histo
     es: tejido vascular
     et: juhtkude
@@ -89,7 +89,7 @@ dv_has_:
     ka: გამტარი ქსოვილი
     kk: Өткізгіш ұлпа
     ku: şaneya lûleyî
-    ku-latn: şaneya lûleyî
+    ku_latn: şaneya lûleyî
     lv: Vadaudi
     mi: pūtautau tariwai
     ml: സംവഹന കലകൾ
@@ -113,9 +113,9 @@ dv_has_:
     wuu: 维管组织
     yue: 維管組織
     zh: 维管组织
-    zh-cn: 维管组织
-    zh-hant: 維管組織
-    zh-tw: 維管束組織
+    zh_cn: 维管组织
+    zh_hant: 維管組織
+    zh_tw: 維管束組織
 ---
 # [[Vascular_Tissue]] 
 

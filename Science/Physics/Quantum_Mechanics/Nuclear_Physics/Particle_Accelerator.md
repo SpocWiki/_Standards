@@ -96,7 +96,7 @@ dv_has_:
     ar: مسرع جسيمات
     ast: Acelerador de partícules
     be: Паскаральнік зараджаных часціц
-    be-tarask: паскаральнік зараджаных часьцінак
+    be_tarask: паскаральнік зараджаных часьцінак
     bg: Ускорител на частици
     bn: কণা ত্বরক
     bo: མྱུར་སྣོན་སྐྱེད་བྱེད་ ཀྱི་ཡོ་ཆས།
@@ -128,11 +128,11 @@ dv_has_:
     it: acceleratore di particelle
     ja: 加速器
     kk: зарядталған бөлшектердің үдеткіші
-    kk-arab: زاريادتالعان بولشەكتەردىڭ ۇدەتكىشى
+    kk_arab: زاريادتالعان بولشەكتەردىڭ ۇدەتكىشى
     kk-cn: زاريادتالعان بولشەكتەردىڭ ۇدەتكىشى
-    kk-cyrl: Зарядталған бөлшектердің үдеткіші
+    kk_cyrl: Зарядталған бөлшектердің үдеткіші
     kk-kz: Зарядталған бөлшектердің үдеткіші
-    kk-latn: zaryadtalğan bölşekterdiñ üdetkişi
+    kk_latn: zaryadtalğan bölşekterdiñ üdetkişi
     kk-tr: Zaryadtalğan bölşekterdiñ üdetkişi
     kn: ಕಣ ಉತ್ಕರ್ಷಕ
     ko: 입자 가속기
@@ -159,8 +159,8 @@ dv_has_:
     sk: Urýchľovač častíc
     sl: pospeševalnik
     sr: aкцелератор
-    sr-ec: Акцелератор
-    sr-el: Akcelerator
+    sr_ec: Акцелератор
+    sr_el: Akcelerator
     sv: partikelaccelerator
     sw: Kichapuzi chembe
     ta: துகள் முடுக்கி
@@ -177,12 +177,12 @@ dv_has_:
     wuu: 粒子加速器
     yue: 粒子加速器
     zh: 粒子加速器
-    zh-cn: 粒子加速器
-    zh-hans: 粒子加速器
-    zh-hant: 粒子加速器
-    zh-hk: 粒子加速器
-    zh-sg: 粒子加速器
-    zh-tw: 粒子加速器
+    zh_cn: 粒子加速器
+    zh_hans: 粒子加速器
+    zh_hant: 粒子加速器
+    zh_hk: 粒子加速器
+    zh_sg: 粒子加速器
+    zh_tw: 粒子加速器
 ---
 # [[Particle_Accelerator]] 
 

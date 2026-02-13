@@ -166,7 +166,7 @@ dv_has_:
     az: əmək
     bar: Oabat
     be: праца
-    be-tarask: праца
+    be_tarask: праца
     bg: труд
     bn: শ্রমিক
     br: labour
@@ -182,7 +182,7 @@ dv_has_:
     diq: cefa werdış
     el: εργασία
     en: work
-    en-gb: labour
+    en_gb: labour
     eo: laboro
     es: trabajo
     et: töö
@@ -229,7 +229,7 @@ dv_has_:
     mk: труд
     mr: मजूर
     ms: pekerjaan
-    ms-arab: ڤکرجاءن
+    ms_arab: ڤکرجاءن
     nan: Lô-tōng
     nb: arbeid
     ne: काम
@@ -241,7 +241,7 @@ dv_has_:
     pl: praca
     pnb: دھندا
     pt: trabalho
-    pt-br: trabalho
+    pt_br: trabalho
     qu: ch'amanaku
     ro: muncă
     ru: труд
@@ -265,7 +265,7 @@ dv_has_:
     tok: pali
     tr: emek
     tt: хезмәт
-    tt-cyrl: хезмәт
+    tt_cyrl: хезмәт
     uk: праця
     ur: کام (انسانی سرگرمی)
     uz: mehnat
@@ -276,14 +276,14 @@ dv_has_:
     yo: iṣé ara
     yue: 勞動
     zh: 劳动
-    zh-cn: 劳动
-    zh-hans: 劳动
-    zh-hant: 勞動
-    zh-hk: 勞動
-    zh-mo: 勞動
+    zh_cn: 劳动
+    zh_hans: 劳动
+    zh_hant: 勞動
+    zh_hk: 勞動
+    zh_mo: 勞動
     zh-my: 劳动
-    zh-sg: 劳动
-    zh-tw: 勞動
+    zh_sg: 劳动
+    zh_tw: 勞動
 ---
 # [[Work]] 
 

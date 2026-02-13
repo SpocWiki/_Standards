@@ -65,7 +65,7 @@ dv_has_:
     ast: Apatosaurus
     az: Apatozavr
     be: Апатазаўр
-    be-tarask: апатазаўр
+    be_tarask: апатазаўр
     bg: апатозаври
     ca: apatosaure
     ceb: Apatosaurus
@@ -77,8 +77,8 @@ dv_has_:
     de: Apatosaurus
     el: Απατόσαυρος
     en: Apatosaurus
-    en-ca: Apatosaurus
-    en-gb: Apatosaurus
+    en_ca: Apatosaurus
+    en_gb: Apatosaurus
     en-us: Apatosaurus
     es: Apatosaurus
     et: Apatosaurus
@@ -116,7 +116,7 @@ dv_has_:
     pl: Apatozaur
     pnb: اپاٹوسارس
     pt: apatossauro
-    pt-br: apatossauro
+    pt_br: apatossauro
     ro: Apatosaurus
     ru: апатозавр
     sa: ब्रान्टोसारस्
@@ -126,7 +126,7 @@ dv_has_:
     sl: Apatozaver
     sq: Apatosaurus
     sr: апатосаурус
-    sr-ec: Апатосаурус
+    sr_ec: Апатосаурус
     sv: Apatosaurus
     th: อะแพโทซอรัส
     tk: Apatozawr
@@ -139,8 +139,8 @@ dv_has_:
     wuu: 迷惑龙属
     yue: 迷惑龍
     zh: 迷惑龙属
-    zh-cn: 迷惑龙属
-    zh-hans: 迷惑龙属
+    zh_cn: 迷惑龙属
+    zh_hans: 迷惑龙属
 ---
 # [[Apatosaurus]] 
 

@@ -75,15 +75,15 @@ dv_has_:
   name_:
     ar: لطاخة بابانيكولاو
     ast: Prueba de Papanicolaou
-    be-tarask: змазак Папанікаляў
+    be_tarask: змазак Папанікаляў
     bg: ПАП тест
     ca: Frotis de Papanicolau
     de: Pap-Test
-    de-ch: Pap-Test
+    de_ch: Pap-Test
     el: Τεστ Παπ
     en: Pap test
-    en-ca: Pap test
-    en-gb: smear test
+    en_ca: Pap test
+    en_gb: smear test
     eo: cervika ŝmiro
     es: Prueba de Papanicolaou
     et: Papanicolau test
@@ -109,7 +109,7 @@ dv_has_:
     nl: uitstrijkje
     pl: Badanie cytologiczne
     pt: Teste de Papanicolau
-    pt-br: Teste de Papanicolau
+    pt_br: Teste de Papanicolau
     ro: test PAP
     ru: Мазок Папаниколау
     sh: Papanikolau test
@@ -117,8 +117,8 @@ dv_has_:
     sms: pååđsellčuäjtõs
     sq: pap test
     sr: Papanikolau test
-    sr-ec: Папаниколау тест
-    sr-el: Papanikolau test
+    sr_ec: Папаниколау тест
+    sr_el: Papanikolau test
     sv: gynekologiskt cellprov
     ta: பாப் சோதனை
     th: การทดสอบแพป
@@ -127,9 +127,9 @@ dv_has_:
     vi: Phết tế bào cổ tử cung
     yue: 柏氏抹片
     zh: 巴氏涂片检查
-    zh-cn: 子宫颈抹片检查
-    zh-hans: 子宫颈抹片检查
-    zh-hant: 子宮頸抹片檢查
+    zh_cn: 子宫颈抹片检查
+    zh_hans: 子宫颈抹片检查
+    zh_hant: 子宮頸抹片檢查
 ---
 # [[Pap_Test]] 
 

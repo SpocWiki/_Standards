@@ -45,7 +45,7 @@ has_id_wikidata: Q931092
 dv_has_:
   name_:
     ar: مقلب
-    be-tarask: розыгрыш
+    be_tarask: розыгрыш
     bs: Šala
     ca: broma
     cs: recese
@@ -86,7 +86,7 @@ dv_has_:
     vi: Trò chơi khăm
     yue: 惡作劇
     zh: 惡作劇
-    zh-hant: 惡作劇
+    zh_hant: 惡作劇
 ---
 # [[Practical_Joke]] 
 

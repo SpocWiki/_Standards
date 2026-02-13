@@ -133,7 +133,7 @@ dv_has_:
     pa: ਵਿਟਾਮਿਨ ਈ
     pl: witamina E
     pt: vitamina E
-    pt-br: vitamina E
+    pt_br: vitamina E
     ro: Vitamina E
     ru: витамин E
     sh: vitamin E
@@ -141,8 +141,8 @@ dv_has_:
     sk: vitamín E
     sl: vitamin E
     sr: витамин Е
-    sr-ec: витамин Е
-    sr-el: vitamin E
+    sr_ec: витамин Е
+    sr_el: vitamin E
     sv: vitamin E
     ta: உயிர்ச்சத்து ஈ
     te: విటమిన్ ఇ
@@ -155,12 +155,12 @@ dv_has_:
     vi: vitamin E
     wuu: 维生素E
     zh: 维生素E
-    zh-cn: 维生素E
-    zh-hans: 维生素E
-    zh-hant: 維生素E
-    zh-hk: 維生素E
-    zh-sg: 维生素E
-    zh-tw: 維生素E
+    zh_cn: 维生素E
+    zh_hans: 维生素E
+    zh_hant: 維生素E
+    zh_hk: 維生素E
+    zh_sg: 维生素E
+    zh_tw: 維生素E
 ---
 # [[Vitamin_E]] 
 

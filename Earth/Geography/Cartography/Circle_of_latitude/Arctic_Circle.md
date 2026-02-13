@@ -154,7 +154,7 @@ dv_has_:
     ban: Lingkehan Arktik
     bcl: Sirkulong Arktiko
     be: Паўночны палярны круг
-    be-tarask: Паўночны палярны круг
+    be_tarask: Паўночны палярны круг
     bg: Северен полярен кръг
     bjn: Lingkar Arktik
     bn: সুমেরু বৃত্ত
@@ -193,11 +193,11 @@ dv_has_:
     ja: 北極圏
     ka: არქტიკული წრე
     kk: Арктика белдеуі
-    kk-arab: اركتىيكا بەلدەۋى
+    kk_arab: اركتىيكا بەلدەۋى
     kk-cn: اركتىيكا بەلدەۋى
-    kk-cyrl: Арктика белдеуі
+    kk_cyrl: Арктика белдеуі
     kk-kz: Арктика белдеуі
-    kk-latn: Arktïka beldewi
+    kk_latn: Arktïka beldewi
     kk-tr: Arktïka beldewi
     kn: ಆರ್ಕ್ಟಿಕ್ ವೃತ್ತ
     ko: 북극권
@@ -231,8 +231,8 @@ dv_has_:
     sl: severni tečajnik
     smn: taavaapiälááš näpikiärdu
     sr: Арктички круг
-    sr-ec: Северни поларник
-    sr-el: Severni polarnik
+    sr_ec: Северни поларник
+    sr_el: Severni polarnik
     sv: norra polcirkeln
     sw: Mzingo aktiki
     ta: ஆர்க்டிக் வட்டம்
@@ -252,14 +252,14 @@ dv_has_:
     wuu: 北極圈
     yue: 北極圈
     zh: 北極圈
-    zh-cn: 北极圈
-    zh-hans: 北极圈
-    zh-hant: 北極圈
-    zh-hk: 北極圈
-    zh-mo: 北極圈
+    zh_cn: 北极圈
+    zh_hans: 北极圈
+    zh_hant: 北極圈
+    zh_hk: 北極圈
+    zh_mo: 北極圈
     zh-my: 北极圈
-    zh-sg: 北极圈
-    zh-tw: 北極圈
+    zh_sg: 北极圈
+    zh_tw: 北極圈
 ---
 # [[Arctic_Circle]] 
 

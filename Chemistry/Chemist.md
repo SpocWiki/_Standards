@@ -214,26 +214,26 @@ dv_has_:
     azb: بؤلمه:کیمیا چیلار
     ba: химик
     be: хімік
-    be-tarask: хімік
+    be_tarask: хімік
     bg: химик
     bn: রসায়নবিদ
     bs: Hemičar
     ca: químic
     ckb: کیمیازان
-    crh-latn: himiyacı
+    crh_latn: himiyacı
     cs: chemik
     cv: Химик
     cy: cemegydd
     da: kemiker
     de: Chemiker
     de-at: Chemiker
-    de-ch: Chemiker
+    de_ch: Chemiker
     diq: kimyager
     dsb: chemikaŕ
     el: χημικός
     en: chemist
-    en-ca: Chemist
-    en-gb: chemist
+    en_ca: Chemist
+    en_gb: chemist
     en-us: chemist
     eo: ĥemiisto
     es: químico
@@ -268,7 +268,7 @@ dv_has_:
     kn: ರಸಾಯನ ವಿಜ್ಞಾನಿ
     ko: 화학자
     ks: رساێن دان
-    ku-latn: kîmyager
+    ku_latn: kîmyager
     kw: kymygydh
     la: chemicus
     lb: Cheemiker
@@ -282,7 +282,7 @@ dv_has_:
     ml: രസതന്ത്രശാസ്ത്രജ്ഞൻ
     mr: रसायनशास्त्रज्ञ
     ms: ahli kimia
-    ms-arab: اهلي کيميا
+    ms_arab: اهلي کيميا
     mt: kimiku
     my: ဓာတု
     nb: kjemiker
@@ -297,7 +297,7 @@ dv_has_:
     pap: kimiko
     pl: chemik
     pt: químico
-    pt-br: químico(a)
+    pt_br: químico(a)
     ro: chimist
     ru: химик
     sah: Химик
@@ -309,8 +309,8 @@ dv_has_:
     sms: ǩeʹmistt
     sq: kimist
     sr: хемичар
-    sr-ec: хемичар
-    sr-el: hemičar
+    sr_ec: хемичар
+    sr_el: hemičar
     sv: kemist
     sw: Mwanakemia
     szl: chymik
@@ -334,11 +334,11 @@ dv_has_:
     yi: כעמיקער
     yue: 化學家
     zh: 化学家
-    zh-cn: 化学家
-    zh-hans: 化学家
-    zh-hant: 化學家
-    zh-hk: 化學家
-    zh-tw: 化學家
+    zh_cn: 化学家
+    zh_hans: 化学家
+    zh_hant: 化學家
+    zh_hk: 化學家
+    zh_tw: 化學家
 ---
 # [[Chemist]]  
 

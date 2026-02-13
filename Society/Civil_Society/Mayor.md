@@ -238,13 +238,13 @@ dv_has_:
     bar: Burgamoasta
     bcl: alkalde
     be: мэр
-    be-tarask: мэр
+    be_tarask: мэр
     bg: кмет
     bn: নগরপ্রধান
     br: maer
     bs: gradonačelnik
     ca: alcalde
-    cbk-zam: alcalde
+    cbk_zam: alcalde
     ceb: alkalde
     ckb: سەرۆکی شارەوانی
     cs: starosta
@@ -254,12 +254,12 @@ dv_has_:
     da: borgmester
     de: Bürgermeister
     de-at: Bürgermeister
-    de-ch: Bürgermeister
+    de_ch: Bürgermeister
     dsb: měsćański šołta
     el: δήμαρχος
     en: mayor
-    en-ca: mayor
-    en-gb: mayor
+    en_ca: mayor
+    en_gb: mayor
     en-us: mayor
     eo: urbestro
     es: alcalde
@@ -301,7 +301,7 @@ dv_has_:
     kl: Borgmesteri
     ko: 시장
     krj: alkalde
-    ku-latn: şaredar
+    ku_latn: şaredar
     ky: Мэр
     la: Demarchus
     lb: Buergermeeschter
@@ -321,13 +321,13 @@ dv_has_:
     ml: മേയർ
     mr: महापौर
     ms: datuk bandar
-    ms-arab: داتوق باندر
+    ms_arab: داتوق باندر
     mt: sindku
     my: မြို့တော်ဝန်
     mzn: شهردار
     nb: ordfører
     nds: Börgermeester
-    nds-nl: borgemeister
+    nds_nl: borgemeister
     ne: मेयर
     nl: burgemeester
     nn: ordførar
@@ -344,7 +344,7 @@ dv_has_:
     pnb: میئر
     ps: ښاروال
     pt: prefeito
-    pt-br: prefeito
+    pt_br: prefeito
     qu: Kuraka
     rgn: sèndic
     ro: primar
@@ -365,8 +365,8 @@ dv_has_:
     so: Duqa
     sq: kryetar
     sr: градоначелник
-    sr-ec: жупан
-    sr-el: župan
+    sr_ec: жупан
+    sr_el: župan
     su: Walikota
     sv: borgmästare
     sw: Meya
@@ -378,7 +378,7 @@ dv_has_:
     tok: jan lawa pi ma tomo
     tr: belediye başkanı
     tt: мэр
-    tt-cyrl: мэр
+    tt_cyrl: мэр
     tyv: Бургомистр
     uk: мер міста
     ur: ناظم شہر
@@ -396,14 +396,14 @@ dv_has_:
     yo: Baálẹ̀
     yue: 市長
     zh: 市长
-    zh-cn: 市长
-    zh-hans: 市长
-    zh-hant: 市長
-    zh-hk: 市長
-    zh-mo: 市長
+    zh_cn: 市长
+    zh_hans: 市长
+    zh_hant: 市長
+    zh_hk: 市長
+    zh_mo: 市長
     zh-my: 市长
-    zh-sg: 市长
-    zh-tw: 市長
+    zh_sg: 市长
+    zh_tw: 市長
 ---
 # [[Mayor]] 
 

@@ -183,7 +183,7 @@ dv_has_:
     ast: ferreru
     az: dəmirçi
     be: каваль
-    be-tarask: каваль
+    be_tarask: каваль
     bg: ковач
     bho: लोहार
     bjn: Tukang panitikan
@@ -194,7 +194,7 @@ dv_has_:
     cdo: Páh-tiék-gì
     chy: Tonôhené-mâhéó'o
     crh: demirci
-    crh-latn: demirci
+    crh_latn: demirci
     cs: kovář
     csb: Kòwôl
     cv: Тимĕрçĕ
@@ -203,12 +203,12 @@ dv_has_:
     dag: machɛli
     de: Grobschmied
     de-at: Schmied
-    de-ch: Schmied
+    de_ch: Schmied
     diq: Asınger
     el: σιδηρουργός
     en: blacksmith
-    en-ca: blacksmith
-    en-gb: blacksmith
+    en_ca: blacksmith
+    en_gb: blacksmith
     eo: forĝisto
     es: herrero
     et: Sepp
@@ -271,7 +271,7 @@ dv_has_:
     pms: Fré
     pnb: لوہار
     pt: ferreiro
-    pt-br: ferreiro
+    pt_br: ferreiro
     qu: Irriru
     ro: fierar
     rsk: Коваль
@@ -294,7 +294,7 @@ dv_has_:
     th: ช่างตีเหล็ก
     tr: Nalbant
     tt: тимерче
-    tt-cyrl: тимерче
+    tt_cyrl: тимерче
     uk: коваль
     ur: لوہار
     uz: Temirchilik
@@ -305,8 +305,8 @@ dv_has_:
     yue: 打鐵佬
     zea: Smid
     zh: 鐵匠
-    zh-hans: 铁匠
-    zh-hant: 鐵匠
+    zh_hans: 铁匠
+    zh_hant: 鐵匠
 ---
 # [[Blacksmith]] 
 

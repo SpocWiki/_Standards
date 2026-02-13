@@ -68,7 +68,7 @@ dv_has_:
     arz: هيپ هوپ
     az: Hip-hop
     be: хіп-хоп
-    be-tarask: гіп-гоп
+    be_tarask: гіп-гоп
     bg: Хип-хоп
     bi: Hip-hop
     ca: hip-hop
@@ -125,7 +125,7 @@ dv_has_:
     tl: Hip hop
     tr: Hip hop
     tt: һип-һоп
-    tt-cyrl: һип-һоп
+    tt_cyrl: һип-һоп
     uk: гіпгоп
     ur: ہپ ہاپ
     vi: Văn hóa hip hop
@@ -133,7 +133,7 @@ dv_has_:
     wuu: 嘻哈
     yue: Hip Hop 文化
     zh: 嘻哈
-    zh-hant: 嘻哈
+    zh_hant: 嘻哈
 ---
 # [[Hip_Hop_Culture]] 
 

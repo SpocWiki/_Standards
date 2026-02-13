@@ -85,7 +85,7 @@ dv_has_:
     ast: empanada
     ba: бәлеш
     be: пірог
-    be-tarask: пірог
+    be_tarask: пірог
     bg: пай
     ca: coca farcida
     cs: páj
@@ -94,8 +94,8 @@ dv_has_:
     de: Kuchen oder Auflauf
     el: πίτα
     en: pie
-    en-ca: Pie
-    en-gb: pie
+    en_ca: Pie
+    en_gb: pie
     eo: Pajo
     es: pay
     et: pirukas
@@ -135,30 +135,30 @@ dv_has_:
     pa: ਪਾਈ
     pl: ciasto
     pt: tarte
-    pt-br: torta
+    pt_br: torta
     ro: prăjitură cu fructe
     ru: пирог
     sco: pie
     sh: pita
     sl: pita
     sr: пита
-    sr-ec: пита
-    sr-el: pita
+    sr_ec: пита
+    sr_el: pita
     sv: paj
     th: พาย
     tl: pay
     tok: pan suwi
     tr: turta
     tt: бәлеш
-    tt-cyrl: бәлеш
+    tt_cyrl: бәлеш
     uk: пиріг
     vep: pirg
     vi: pie
     wuu: 西式馅饼
     yue: 批
     zh: 西式餡餅
-    zh-hant: 西式餡餅
-    zh-tw: 西式餡餅
+    zh_hant: 西式餡餅
+    zh_tw: 西式餡餅
 ---
 # [[Pie]] 
 

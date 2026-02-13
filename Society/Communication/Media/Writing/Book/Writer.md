@@ -338,7 +338,7 @@ dv_has_:
     bar: Schriftstella
     bcl: parasurat
     be: пісьменнік
-    be-tarask: пісьменьнік
+    be_tarask: пісьменьнік
     bg: писател
     bjn: panulis
     bn: লেখক
@@ -353,7 +353,7 @@ dv_has_:
     chr: ᎪᏪᎵᏍᎩ
     ckb: نووسەر
     crh: yazıcı
-    crh-latn: yazıcı
+    crh_latn: yazıcı
     cs: spisovatel
     csb: pisôrz
     cv: çыравçă
@@ -365,8 +365,8 @@ dv_has_:
     dsb: spisowaśel
     el: συγγραφέας
     en: writer
-    en-ca: writer
-    en-gb: writer
+    en_ca: writer
+    en_gb: writer
     en-us: writer
     eo: verkisto
     es: escritor
@@ -424,7 +424,7 @@ dv_has_:
     krj: manunulat
     ks: لِکھٲرؠ
     ku: nivîskar
-    ku-latn: nivîskar
+    ku_latn: nivîskar
     kv: гижысь
     kw: skrifer
     ky: жазуучу
@@ -451,7 +451,7 @@ dv_has_:
     mr: लेखक
     mrj: сирӹзӹ
     ms: penulis
-    ms-arab: ڤنوليس
+    ms_arab: ڤنوليس
     mt: kittieb
     my: စာရေးဆရာ
     myv: сёрмадей
@@ -460,7 +460,7 @@ dv_has_:
     nan: сhok-ka
     nb: skribent
     nds: Schriever
-    nds-nl: skriever
+    nds_nl: skriever
     ne: लेखक
     nl: schrijver
     nn: skribent
@@ -519,7 +519,7 @@ dv_has_:
     tr: yazar
     ts: mutsari
     tt: язучы
-    tt-cyrl: язучы
+    tt_cyrl: язучы
     tw: Ɔkyerɛwfoɔ
     tyv: чогаалчы
     udm: гожъяськись
@@ -540,14 +540,14 @@ dv_has_:
     yue: 作家
     zgh: ⴰⵎⴰⵔⴰ
     zh: 作家
-    zh-cn: 作家
-    zh-hans: 作家
-    zh-hant: 作家
-    zh-hk: 作家
-    zh-mo: 作家
+    zh_cn: 作家
+    zh_hans: 作家
+    zh_hant: 作家
+    zh_hk: 作家
+    zh_mo: 作家
     zh-my: 作家
-    zh-sg: 作家
-    zh-tw: 作家
+    zh_sg: 作家
+    zh_tw: 作家
     zu: umbhali
 ---
 # [[Writer]] 

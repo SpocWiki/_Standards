@@ -49,7 +49,7 @@ dv_has_:
     arz: باسودوبل
     ast: agarráu
     az: Pasodobl
-    be-tarask: пасадобль
+    be_tarask: пасадобль
     bg: Пасо добле
     ca: pasdoble
     cs: paso doble
@@ -57,8 +57,8 @@ dv_has_:
     de: Paso Doble
     el: Πάσο ντόμπλε
     en: pasodoble
-    en-ca: Pasodoble
-    en-gb: Pasodoble
+    en_ca: Pasodoble
+    en_gb: Pasodoble
     en-us: pasodoble
     eo: Pasodoblo
     es: pasodoble
@@ -83,15 +83,15 @@ dv_has_:
     nl: paso doble
     pl: Paso doble
     pt: pasodoble
-    pt-br: Pasodoble
+    pt_br: Pasodoble
     ro: paso doble
     ru: пасодобль
     sh: Paso doble
     sk: pasodoble
     sl: Paso doble
     sr: Пасо добле
-    sr-ec: пасо добле
-    sr-el: paso doble
+    sr_ec: пасо добле
+    sr_el: paso doble
     sv: pasodoble
     th: ปาโซโดเบล
     tl: Paso Doble
@@ -99,12 +99,12 @@ dv_has_:
     uk: пасодобль
     yue: 鬥牛舞
     zh: 鬥牛舞
-    zh-cn: 斗牛舞
-    zh-hans: 斗牛舞
-    zh-hant: 鬥牛舞
-    zh-hk: 鬥牛舞
-    zh-sg: 斗牛舞
-    zh-tw: 鬥牛舞
+    zh_cn: 斗牛舞
+    zh_hans: 斗牛舞
+    zh_hant: 鬥牛舞
+    zh_hk: 鬥牛舞
+    zh_sg: 斗牛舞
+    zh_tw: 鬥牛舞
 ---
 # [[Pasodoble]] 
 

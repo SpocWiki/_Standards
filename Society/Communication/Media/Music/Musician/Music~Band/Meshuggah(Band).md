@@ -12,11 +12,11 @@ dv_has_:
     cy: Meshuggah
     da: Meshuggah
     de: Meshuggah
-    de-ch: Meshuggah
+    de_ch: Meshuggah
     el: Meshuggah
     en: Meshuggah
-    en-ca: Meshuggah
-    en-gb: Meshuggah
+    en_ca: Meshuggah
+    en_gb: Meshuggah
     es: Meshuggah
     eu: Meshuggah
     fa: مشوگا
@@ -41,7 +41,7 @@ dv_has_:
     nn: Meshuggah
     pl: Meshuggah
     pt: Meshuggah
-    pt-br: Meshuggah
+    pt_br: Meshuggah
     ro: Meshuggah
     ru: Meshuggah
     se: Meshuggah

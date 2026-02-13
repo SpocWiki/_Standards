@@ -35,7 +35,7 @@ dv_has_:
     oc: Stauroteuthis
     pl: Stauroteuthis
     pt: Stauroteuthis
-    pt-br: Stauroteuthis
+    pt_br: Stauroteuthis
     ro: Stauroteuthis
     ru: Stauroteuthis
     sq: Stauroteuthis

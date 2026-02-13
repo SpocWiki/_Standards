@@ -93,7 +93,7 @@ dv_has_:
     ast: Eclíptica
     az: ekliptika
     be: экліптыка
-    be-tarask: экліптыка
+    be_tarask: экліптыка
     bg: Еклиптика
     bn: সূর্যপথ
     br: Ekliptik

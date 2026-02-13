@@ -170,7 +170,7 @@ dv_has_:
     bar: Seej
     bcl: kalag
     be: душа
-    be-tarask: душа
+    be_tarask: душа
     bg: душа
     bho: आत्मा
     bn: অন্তরাত্মা
@@ -194,8 +194,8 @@ dv_has_:
     dty: आत्मा
     el: ψυχή
     en: soul
-    en-ca: soul
-    en-gb: soul
+    en_ca: soul
+    en_gb: soul
     eo: animo
     es: alma
     et: hing
@@ -275,7 +275,7 @@ dv_has_:
     pms: ànima
     pnb: روح
     pt: alma
-    pt-br: alma
+    pt_br: alma
     qu: nuna
     rm: olma
     ro: suflet
@@ -294,8 +294,8 @@ dv_has_:
     so: naf
     sq: shpirti
     sr: душа
-    sr-ec: душа
-    sr-el: duša
+    sr_ec: душа
+    sr_el: duša
     sv: själ
     sw: mizimu
     ta: உயிர்
@@ -322,8 +322,8 @@ dv_has_:
     za: hoenz
     zgh: ⵜⴰⵏⴼⴼⵓⵜ
     zh: 灵魂
-    zh-hans: 灵魂
-    zh-hant: 靈魂
+    zh_hans: 灵魂
+    zh_hant: 靈魂
 ---
 # [[Soul]] 
 

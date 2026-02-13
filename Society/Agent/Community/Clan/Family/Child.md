@@ -262,7 +262,7 @@ dv_has_:
     bar: Kindl
     bcl: aki
     be: дзіця
-    be-tarask: дзіця
+    be_tarask: дзіця
     bg: дете
     bjn: kakanakan
     bm: den
@@ -286,14 +286,14 @@ dv_has_:
     da: barn
     dag: bia
     de: Kind
-    de-ch: Kind
+    de_ch: Kind
     diq: qıc
     dsb: źiśe
     el: παιδί
     eml: putèṅ
     en: child
-    en-ca: child
-    en-gb: child
+    en_ca: child
+    en_gb: child
     eo: infano
     es: niño
     et: laps
@@ -368,7 +368,7 @@ dv_has_:
     mn: хүүхэд
     mni: ꯑꯉꯥꯡ
     ms: kanak-kanak
-    ms-arab: کانق٢
+    ms_arab: کانق٢
     mt: tifel
     mwl: nino
     my: ကလေးများ
@@ -377,7 +377,7 @@ dv_has_:
     nan: gín-á
     nb: barn
     nds: Göör
-    nds-nl: kiend
+    nds_nl: kiend
     ne: बालक
     new: मचा
     nl: kind
@@ -396,7 +396,7 @@ dv_has_:
     pnb: جواک
     pnt: παιδάς
     pt: criança
-    pt-br: criança
+    pt_br: criança
     qu: wawa
     rmf: kentos
     rmy: chave
@@ -426,7 +426,7 @@ dv_has_:
     sn: vana
     sq: fëmija
     sr: дете
-    sr-ec: дете
+    sr_ec: дете
     su: budak
     sv: barn
     sw: mtoto
@@ -442,7 +442,7 @@ dv_has_:
     tr: çocuk
     ts: n'wana
     tt: бала
-    tt-cyrl: бала
+    tt_cyrl: бала
     tw: mmɔfra
     udm: нылпи
     uk: дитина
@@ -463,14 +463,14 @@ dv_has_:
     za: lwgnyez
     zea: guus
     zh: 儿童
-    zh-cn: 儿童
-    zh-hans: 儿童
-    zh-hant: 兒童
-    zh-hk: 兒童
-    zh-mo: 兒童
+    zh_cn: 儿童
+    zh_hans: 儿童
+    zh_hant: 兒童
+    zh_hk: 兒童
+    zh_mo: 兒童
     zh-my: 儿童
-    zh-sg: 儿童
-    zh-tw: 兒童
+    zh_sg: 儿童
+    zh_tw: 兒童
 ---
 # [[Child]] 
 

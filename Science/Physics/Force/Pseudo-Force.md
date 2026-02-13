@@ -74,11 +74,11 @@ dv_has_:
     it: forza apparente
     ja: 慣性力
     kk: Күштерді қосу
-    kk-arab: كۇشتەردى قوسۋ
+    kk_arab: كۇشتەردى قوسۋ
     kk-cn: كۇشتەردى قوسۋ
-    kk-cyrl: Күштерді қосу
+    kk_cyrl: Күштерді қосу
     kk-kz: Күштерді қосу
-    kk-latn: Küşterdi qosw
+    kk_latn: Küşterdi qosw
     kk-tr: Küşterdi qosw
     kn: ಕಾಲ್ಪನಿಕ ಶಕ್ತಿ
     ko: 관성력
@@ -101,12 +101,12 @@ dv_has_:
     uz: Xayoliy kuch
     vi: lực quán tính
     zh: 慣性力
-    zh-cn: 惯性力
-    zh-hans: 惯性力
-    zh-hant: 慣性力
-    zh-hk: 慣性力
-    zh-sg: 惯性力
-    zh-tw: 慣性力
+    zh_cn: 惯性力
+    zh_hans: 惯性力
+    zh_hant: 慣性力
+    zh_hk: 慣性力
+    zh_sg: 惯性力
+    zh_tw: 慣性力
 ---
 # [[Pseudo-Force]] 
 

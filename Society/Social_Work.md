@@ -103,7 +103,7 @@ dv_has_:
     ast: trabayu social
     az: Sosial iş
     be: сацыяльная работа
-    be-tarask: сацыяльная работа
+    be_tarask: сацыяльная работа
     bg: Социални дейности
     bn: সমাজকর্ম
     ca: treball social
@@ -116,7 +116,7 @@ dv_has_:
     diq: Karo sosyal
     el: κοινωνική εργασία
     en: social work
-    en-gb: social work
+    en_gb: social work
     eo: sociala laboro
     es: trabajo social
     et: sotsiaaltöö
@@ -168,8 +168,8 @@ dv_has_:
     sms: sosiaaltuâjj
     sq: Nëpunës i shërbimeve sociale
     sr: социјални рад
-    sr-ec: Социјални рад
-    sr-el: Socijalni rad
+    sr_ec: Социјални рад
+    sr_el: Socijalni rad
     sv: socialt arbete
     ta: சமூகப்பணி
     th: สังคมสงเคราะห์
@@ -184,12 +184,12 @@ dv_has_:
     wuu: 社会工作
     yue: 社會工作
     zh: 社會工作
-    zh-cn: 社会工作
-    zh-hans: 社会工作
-    zh-hant: 社會工作
-    zh-hk: 社會工作
-    zh-sg: 社会工作
-    zh-tw: 社會工作
+    zh_cn: 社会工作
+    zh_hans: 社会工作
+    zh_hant: 社會工作
+    zh_hk: 社會工作
+    zh_sg: 社会工作
+    zh_tw: 社會工作
 ---
 # [[Social_Work]] 
 

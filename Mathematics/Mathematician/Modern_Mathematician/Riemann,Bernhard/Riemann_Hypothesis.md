@@ -72,7 +72,7 @@ dv_has_:
     ar: فرضية ريمان
     ast: Hipótesis de Riemann
     be: гіпотэза Рымана
-    be-tarask: рыманава гіпотэза
+    be_tarask: рыманава гіпотэза
     bg: Хипотеза на Риман
     bn: রিম্যান হাইপোথিসিস
     ca: Hipòtesi de Riemann
@@ -80,11 +80,11 @@ dv_has_:
     cs: Riemannova hypotéza
     da: Riemann-hypotesen
     de: Riemannsche Vermutung
-    de-ch: Riemannsche Vermutung
+    de_ch: Riemannsche Vermutung
     el: Υπόθεση Ρίμαν
     en: Riemann hypothesis
-    en-ca: Riemann hypothesis
-    en-gb: Riemann hypothesis
+    en_ca: Riemann hypothesis
+    en_gb: Riemann hypothesis
     eo: rimana hipotezo
     es: Hipótesis de Riemann
     eu: Riemannen hipotesi
@@ -113,7 +113,7 @@ dv_has_:
     nn: Riemannhypotesen
     pl: hipoteza Riemanna
     pt: hipótese de Riemann
-    pt-br: hipótese de Riemann
+    pt_br: hipótese de Riemann
     ro: ipoteza Riemann
     ru: гипотеза Римана
     scn: Ipòtisi di Riemann
@@ -121,8 +121,8 @@ dv_has_:
     sl: Riemannova domneva
     sq: Hipoteza e Riemannit
     sr: Риманова хипотеза
-    sr-ec: Риманова хипотеза
-    sr-el: Rimanova hipoteza
+    sr_ec: Риманова хипотеза
+    sr_el: Rimanova hipoteza
     sv: Riemannhypotesen
     ta: ரீமான் கருதுகோள்
     te: రీమాన్ దత్తాంశం
@@ -132,12 +132,12 @@ dv_has_:
     wuu: 黎曼猜想
     yue: 黎曼猜想
     zh: 黎曼猜想
-    zh-cn: 黎曼猜想
-    zh-hans: 黎曼猜想
-    zh-hant: 黎曼猜想
-    zh-hk: 黎曼猜想
-    zh-sg: 黎曼猜想
-    zh-tw: 黎曼猜想
+    zh_cn: 黎曼猜想
+    zh_hans: 黎曼猜想
+    zh_hant: 黎曼猜想
+    zh_hk: 黎曼猜想
+    zh_sg: 黎曼猜想
+    zh_tw: 黎曼猜想
 ---
 # [[Riemann_Hypothesis]]
 

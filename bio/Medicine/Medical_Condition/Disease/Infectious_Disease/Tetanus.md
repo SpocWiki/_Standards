@@ -167,7 +167,7 @@ dv_has_:
     azb: کوزاز
     bcl: tetanus
     be: слупняк
-    be-tarask: слупняк
+    be_tarask: слупняк
     bg: тетанус
     bn: ধনুষ্টঙ্কার
     bo: རྩ་འཁུམ་ནད།
@@ -238,7 +238,7 @@ dv_has_:
     sl: tetanus
     sq: tetanosi
     sr: тетанус
-    sr-ec: тетанус
+    sr_ec: тетанус
     su: tétanus
     sv: stelkramp
     sw: tetanasi
@@ -258,7 +258,7 @@ dv_has_:
     yue: 破傷風
     zea: tetanus
     zh: 破傷風
-    zh-hant: 破傷風
+    zh_hant: 破傷風
 ---
 # [[Tetanus]] 
 

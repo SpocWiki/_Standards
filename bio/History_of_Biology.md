@@ -67,7 +67,7 @@ dv_has_:
     ar: تاريخ علم الأحياء
     ast: Historia de la bioloxía
     be: гісторыя біялогіі
-    be-tarask: гісторыя біялёгіі
+    be_tarask: гісторыя біялёгіі
     bho: जीव बिज्ञान क इतिहास
     bn: জীববিজ্ঞানের ইতিহাস
     ca: història de la biologia
@@ -114,9 +114,9 @@ dv_has_:
     vi: lịch sử sinh học
     yue: 生物學史
     zh: 生物学史
-    zh-hans: 生物学史
-    zh-hant: 生物學史
-    zh-hk: 生物學史
+    zh_hans: 生物学史
+    zh_hant: 生物學史
+    zh_hk: 生物學史
 ---
 # [[History_of_Biology]] 
 

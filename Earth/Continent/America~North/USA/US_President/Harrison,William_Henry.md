@@ -87,7 +87,7 @@ dv_has_:
     bar: William Henry Harrison
     bcl: William Henry Harrison
     be: Уільям Генры Гарысан
-    be-tarask: Ўільям Генры Гарысан
+    be_tarask: Ўільям Генры Гарысан
     bg: Уилям Хенри Харисън
     bi: William Henry Harrison
     bn: উইলিয়াম হেনরি হ্যারিসন
@@ -109,8 +109,8 @@ dv_has_:
     ee: William Henry Harrison
     el: Ουίλιαμ Χένρι Χάρισον
     en: William Henry Harrison
-    en-ca: William Henry Harrison
-    en-gb: William Henry Harrison
+    en_ca: William Henry Harrison
+    en_gb: William Henry Harrison
     eo: William Henry Harrison
     es: William Henry Harrison
     et: William Henry Harrison
@@ -180,7 +180,7 @@ dv_has_:
     pnb: ولیم ہنری ہیریسن
     ps: ویلیام هېنري هارېسن
     pt: William Henry Harrison
-    pt-br: William Henry Harrison
+    pt_br: William Henry Harrison
     qu: William Harrison
     rmf: William Henry Harrison
     ro: William Henry Harrison
@@ -224,7 +224,7 @@ dv_has_:
     yo: William Henry Harrison
     yue: 威廉亨利哈里臣
     zh: 威廉·亨利·哈里森
-    zh-hk: 威廉·亨利·夏里遜
+    zh_hk: 威廉·亨利·夏里遜
   time_:
     started: 1773-02-09T00:00:00.000+00:53
     stopped: 1841-04-04T00:00:00.000+00:53

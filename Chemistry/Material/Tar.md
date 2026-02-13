@@ -24,7 +24,7 @@ dv_has_:
     ar: قطران
     az: qarayağ
     be: дзёгаць
-    be-tarask: дзёгаць
+    be_tarask: дзёгаць
     bg: катран
     blk: ကတ္တရာ
     bn: আলকাতরা
@@ -70,7 +70,7 @@ dv_has_:
     oc: quitran
     pl: dziegieć
     pt: alcatrão
-    pt-br: alcatrão
+    pt_br: alcatrão
     ro: gudron
     ru: дёготь
     sgs: smala
@@ -90,12 +90,12 @@ dv_has_:
     wuu: 焦油
     yi: פעך
     zh: 焦油
-    zh-cn: 焦油
-    zh-hans: 焦油
-    zh-hant: 焦油
-    zh-hk: 焦油
-    zh-sg: 焦油
-    zh-tw: 焦油
+    zh_cn: 焦油
+    zh_hans: 焦油
+    zh_hant: 焦油
+    zh_hk: 焦油
+    zh_sg: 焦油
+    zh_tw: 焦油
 aliases:
 - Alcatrán
 - alcatrão

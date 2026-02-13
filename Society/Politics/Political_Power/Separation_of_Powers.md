@@ -116,18 +116,18 @@ dv_has_:
     ast: separación de poderes
     az: Hakimiyyət bölgüsü
     be: падзяленне ўлады
-    be-tarask: падзяленьне ўлады
+    be_tarask: падзяленьне ўлады
     bg: Разделение на властите
     ca: separació de poders
     ckb: جیاکردنەوەی دەسەڵاتەکان
     cs: dělba moci
     da: magtdeling
     de: Gewaltenteilung
-    de-ch: Gewaltenteilung
+    de_ch: Gewaltenteilung
     el: Διάκριση των εξουσιών
     en: separation of powers
-    en-ca: Separation of powers
-    en-gb: separation of powers
+    en_ca: Separation of powers
+    en_gb: separation of powers
     eo: disigo de povoj
     es: separación de poderes
     et: Võimude lahusus
@@ -177,7 +177,7 @@ dv_has_:
     pl: podział władz
     ps: د دولتي واکونو وېش
     pt: teoria da separação dos poderes
-    pt-br: Teoria da separação dos poderes
+    pt_br: Teoria da separação dos poderes
     qu: Kimsantin atiy
     rm: Separaziun da las pussanzas
     ro: separația puterilor
@@ -204,14 +204,14 @@ dv_has_:
     yue: 權力分立
     zgh: ⵜⵉⵟⵟⵉⵜ ⵏ ⵜⴱⴰⴹⵉⵡⵉⵏ
     zh: 權力分立
-    zh-cn: 权力分立
-    zh-hans: 权力分立
-    zh-hant: 權力分立
-    zh-hk: 權力分立
-    zh-mo: 權力分立
+    zh_cn: 权力分立
+    zh_hans: 权力分立
+    zh_hant: 權力分立
+    zh_hk: 權力分立
+    zh_mo: 權力分立
     zh-my: 权力分立
-    zh-sg: 权力分立
-    zh-tw: 權力分立
+    zh_sg: 权力分立
+    zh_tw: 權力分立
 ---
 # [[Separation_of_Powers]] 
 

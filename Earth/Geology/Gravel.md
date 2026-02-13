@@ -117,7 +117,7 @@ dv_has_:
     ast: Grava
     bcl: Graba
     be: Жвір
-    be-tarask: Жвір
+    be_tarask: Жвір
     bew: Krikil
     bg: Баластра
     ca: grava
@@ -130,7 +130,7 @@ dv_has_:
     de: Kiesel
     el: Γαρμπίλι
     en: gravel
-    en-gb: gravel
+    en_gb: gravel
     eo: gruzo
     es: grava
     et: kruus
@@ -175,7 +175,7 @@ dv_has_:
     pap: granson
     pl: Żwir
     pt: cascalho
-    pt-br: cascalho
+    pt_br: cascalho
     ro: pietriș
     ru: гравий
     scn: Agghiara
@@ -187,8 +187,8 @@ dv_has_:
     sl: gramoz
     sq: Zhavorri
     sr: шљунак
-    sr-ec: Шљунак
-    sr-el: Šljunak
+    sr_ec: Шљунак
+    sr_el: Šljunak
     sv: grus
     sw: Changarawe
     ta: சரளைக் கல்
@@ -202,12 +202,12 @@ dv_has_:
     wuu: 砾石
     yue: 碎石
     zh: 砾石
-    zh-cn: 砾石
-    zh-hans: 砾石
-    zh-hant: 礫石
-    zh-hk: 礫石
-    zh-sg: 砾石
-    zh-tw: 礫石
+    zh_cn: 砾石
+    zh_hans: 砾石
+    zh_hant: 礫石
+    zh_hk: 礫石
+    zh_sg: 砾石
+    zh_tw: 礫石
 ---
 # [[Gravel]] 
 

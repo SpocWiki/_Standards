@@ -161,7 +161,7 @@ dv_has_:
     bar: Stååtsobahaupt
     bcl: Pamayo kan estado
     be: кіраўнік дзяржавы
-    be-tarask: кіраўнік дзяржавы
+    be_tarask: кіраўнік дзяржавы
     bew: Hop negara
     bg: Държавен глава
     bn: রাষ্ট্রপ্রধান
@@ -179,7 +179,7 @@ dv_has_:
     dsb: głowa stata
     el: αρχηγός κράτους
     en: head of state
-    en-gb: head of state
+    en_gb: head of state
     eo: ŝtatestro
     es: jefe de Estado
     et: riigipea
@@ -214,7 +214,7 @@ dv_has_:
     ko: 국가원수
     krc: Къралны башчысы
     ku: serokdewlet
-    ku-latn: serokdewlet
+    ku_latn: serokdewlet
     ky: Мамлекет башчысы
     la: Dux civitatis
     li: Sjtaotshouf
@@ -228,7 +228,7 @@ dv_has_:
     mn: Төрийн тэргүүн
     mr: राष्ट्रप्रमुख
     ms: ketua negara
-    ms-arab: کتوا نݢارا
+    ms_arab: کتوا نݢارا
     mt: kap ta' stat
     my: နိုင်ငံတော်၏ ခေါင်းဆောင်
     nan: Goân-siú
@@ -271,7 +271,7 @@ dv_has_:
     tl: Pinuno ng estado
     tr: Devlet başkanı
     tt: дәүләт башлыгы
-    tt-cyrl: дәүләт башлыгы
+    tt_cyrl: дәүләт башлыгы
     uk: голова держави
     ur: سربراہ ریاست
     uz: Davlat boshligʻi
@@ -282,14 +282,14 @@ dv_has_:
     yo: olórí orílẹ̀-èdè
     yue: 元首
     zh: 國家元首
-    zh-cn: 国家元首
-    zh-hans: 国家元首
-    zh-hant: 國家元首
-    zh-hk: 國家元首
-    zh-mo: 國家元首
+    zh_cn: 国家元首
+    zh_hans: 国家元首
+    zh_hant: 國家元首
+    zh_hk: 國家元首
+    zh_mo: 國家元首
     zh-my: 国家元首
-    zh-sg: 国家元首
-    zh-tw: 國家元首
+    zh_sg: 国家元首
+    zh_tw: 國家元首
 ---
 # [[Head_of_State]] 
 

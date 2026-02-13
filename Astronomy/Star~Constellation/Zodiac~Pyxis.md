@@ -89,7 +89,7 @@ dv_has_:
     az: Kompas
     ba: Ҡибланма
     be: Компас
-    be-tarask: Компас
+    be_tarask: Компас
     bg: Компас
     bn: পিক্সিস মণ্ডল
     br: Kompas Martolod
@@ -158,7 +158,7 @@ dv_has_:
     tl: Pyxis
     tr: Pyxis
     tt: Компас йолдызлыгы
-    tt-cyrl: Компас йолдызлыгы
+    tt_cyrl: Компас йолдызлыгы
     udm: Компас
     uk: Компас
     ur: قطب نما

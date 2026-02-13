@@ -92,7 +92,7 @@ dv_has_:
     avk: Juan Ponce de León
     az: Xuan Pons de Leon
     be: Хуан Понсэ дэ Леон
-    be-tarask: Хуан Понсэ дэ Леон
+    be_tarask: Хуан Понсэ дэ Леон
     bg: Хуан Понсе де Леон
     br: Juan Ponce de León
     ca: Juan Ponce de León
@@ -134,7 +134,7 @@ dv_has_:
     pap: Juan Ponce de León
     pl: Juan Ponce de León
     pt: Juan Ponce de León
-    pt-br: Juan Ponce de León
+    pt_br: Juan Ponce de León
     qu: Juan Ponce de León
     ro: Juan Ponce de León
     ru: Хуан Понсе де Леон
@@ -142,8 +142,8 @@ dv_has_:
     sl: Juan Ponce de León
     sq: Juan Ponce de León
     sr: Хуан Понсе де Леон
-    sr-ec: Хуан Понсе де Леон
-    sr-el: Huan Ponse de Leon
+    sr_ec: Хуан Понсе де Леон
+    sr_el: Huan Ponse de Leon
     sv: Juan Ponce de León
     szy: Huang Pens Le-aw
     th: ควน ปอนเซ เด เลออน
@@ -155,12 +155,12 @@ dv_has_:
     wuu: 胡安 庞德隆
     yue: 環龐斯德利昂
     zh: 胡安·庞塞·德莱昂
-    zh-cn: 胡安·庞塞·德莱昂
-    zh-hans: 胡安·庞塞·德莱昂
-    zh-hant: 胡安·龐塞·德萊昂
-    zh-hk: 胡安·龐塞·德萊昂
-    zh-sg: 胡安·庞塞·德莱昂
-    zh-tw: 胡安·龐塞·德萊昂
+    zh_cn: 胡安·庞塞·德莱昂
+    zh_hans: 胡安·庞塞·德莱昂
+    zh_hant: 胡安·龐塞·德萊昂
+    zh_hk: 胡安·龐塞·德萊昂
+    zh_sg: 胡安·庞塞·德莱昂
+    zh_tw: 胡安·龐塞·德萊昂
 ---
 # [[Ponce_de_León,Juan]] 
 

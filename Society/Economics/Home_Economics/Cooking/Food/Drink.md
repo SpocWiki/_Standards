@@ -179,7 +179,7 @@ dv_has_:
     bar: Drangl
     bcl: inomon
     be: напой
-    be-tarask: напой
+    be_tarask: напой
     bg: напитка
     bho: पेय
     bn: পানীয়
@@ -195,13 +195,13 @@ dv_has_:
     da: drik
     dag: lamalee
     de: Getränk
-    de-ch: Getränk
+    de_ch: Getränk
     dsb: piśe
     dty: पेयपदार्थ
     el: ποτό
     en: drink
-    en-ca: drink
-    en-gb: drink
+    en_ca: drink
+    en_gb: drink
     en-us: drink
     eo: trinkaĵo
     es: bebida
@@ -256,7 +256,7 @@ dv_has_:
     mni: ꯊꯛꯄ
     mos: bumb-yũur
     ms: minuman
-    ms-arab: مينومن
+    ms_arab: مينومن
     nan: ím-liāu
     nb: drikke
     nds: Drinken
@@ -271,7 +271,7 @@ dv_has_:
     pnb: مشروب
     ps: څښاک
     pt: bebida
-    pt-br: bebida
+    pt_br: bebida
     qu: upyana
     rmf: piibe
     ro: băutură
@@ -293,8 +293,8 @@ dv_has_:
     so: cabitaan
     sq: pije
     sr: пиће
-    sr-ec: пиће
-    sr-el: piće
+    sr_ec: пиће
+    sr_el: piće
     su: Inuman
     sv: dryck
     sw: kinywaji
@@ -306,8 +306,8 @@ dv_has_:
     tl: inumin
     tr: içecek
     tt: эчемлек
-    tt-cyrl: эчемлек
-    tt-latn: eçemlek
+    tt_cyrl: эчемлек
+    tt_latn: eçemlek
     tw: nom
     uk: напій
     ur: مشروب
@@ -323,13 +323,13 @@ dv_has_:
     yue: 嘢飲
     zh: 饮料
     zh-cn: 饮料
-    zh-hans: 饮料
-    zh-hant: 飲料
-    zh-hk: 飲品
-    zh-mo: 飲料
+    zh_hans: 饮料
+    zh_hant: 飲料
+    zh_hk: 飲品
+    zh_mo: 飲料
     zh-my: 饮料
-    zh-sg: 饮料
-    zh-tw: 飲料
+    zh_sg: 饮料
+    zh_tw: 飲料
 ---
 # [[Drink]] 
 

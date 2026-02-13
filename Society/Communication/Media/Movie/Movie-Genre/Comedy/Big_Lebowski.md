@@ -191,8 +191,8 @@ dv_has_:
     de: The Big Lebowski
     el: Ο Μεγάλος Λεμπόφσκι
     en: The Big Lebowski
-    en-ca: The Big Lebowski
-    en-gb: The Big Lebowski
+    en_ca: The Big Lebowski
+    en_gb: The Big Lebowski
     eo: The Big Lebowski
     es: El gran Lebowski
     et: Suur Lebowski
@@ -223,7 +223,7 @@ dv_has_:
     pa: ਦ ਬਿਗ ਲੈਬੋਵਸਕੀ
     pl: Big Lebowski
     pt: O Grande Lebowski
-    pt-br: O Grande Lebowski
+    pt_br: O Grande Lebowski
     ro: Marele Lebowski
     ru: Большой Лебовски
     sco: The Big Lebowski
@@ -231,17 +231,17 @@ dv_has_:
     sk: Big Lebowski
     sl: Veliki Lebowski
     sr: Велики Лебовски
-    sr-ec: Велики Лебовски
-    sr-el: Veliki Lebovski
+    sr_ec: Велики Лебовски
+    sr_el: Veliki Lebovski
     sv: The Big Lebowski
     tr: Büyük Lebowski
     uk: Великий Лебовські
     vi: The Big Lebowski
     yue: 大保齡離奇綁架
     zh: 谋杀绿脚趾
-    zh-hk: 大保齡離奇綁架
-    zh-sg: 离奇绑架
-    zh-tw: 謀殺綠腳趾
+    zh_hk: 大保齡離奇綁架
+    zh_sg: 离奇绑架
+    zh_tw: 謀殺綠腳趾
 ---
 # [[Big_Lebowski]] 
 

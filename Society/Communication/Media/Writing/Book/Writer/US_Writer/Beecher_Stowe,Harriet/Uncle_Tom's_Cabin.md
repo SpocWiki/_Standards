@@ -118,8 +118,8 @@ dv_has_:
     de: Onkel Toms Hütte
     el: Η Καλύβα του Μπαρμπα-Θωμά
     en: Uncle Tom's Cabin
-    en-ca: Uncle Tom's Cabin
-    en-gb: Uncle Tom's Cabin
+    en_ca: Uncle Tom's Cabin
+    en_gb: Uncle Tom's Cabin
     eo: La Kabano de Onklo Tom
     es: La cabaña del tío Tom
     et: Onu Tomi onnike
@@ -154,7 +154,7 @@ dv_has_:
     nl: De negerhut van Oom Tom
     pl: Chata wuja Toma
     pt: Uncle Tom's Cabin
-    pt-br: A cabana do Pai Tomás
+    pt_br: A cabana do Pai Tomás
     ro: Coliba unchiului Tom
     ru: Хижина дяди Тома
     sh: Čiča Tomina koliba
@@ -171,14 +171,14 @@ dv_has_:
     vi: Túp lều bác Tôm
     xmf: ჯიჯი თომაშ ქოხი
     zh: 汤姆叔叔的小屋
-    zh-cn: 汤姆叔叔的小屋
-    zh-hans: 汤姆叔叔的小屋
-    zh-hant: 湯姆叔叔的小屋
-    zh-hk: 湯姆叔叔的小屋
-    zh-mo: 湯姆叔叔的小屋
+    zh_cn: 汤姆叔叔的小屋
+    zh_hans: 汤姆叔叔的小屋
+    zh_hant: 湯姆叔叔的小屋
+    zh_hk: 湯姆叔叔的小屋
+    zh_mo: 湯姆叔叔的小屋
     zh-my: 汤姆叔叔的小屋
-    zh-sg: 汤姆叔叔的小屋
-    zh-tw: 湯姆叔叔的小屋
+    zh_sg: 汤姆叔叔的小屋
+    zh_tw: 湯姆叔叔的小屋
 ---
 # [[Uncle_Tom's_Cabin]] 
 

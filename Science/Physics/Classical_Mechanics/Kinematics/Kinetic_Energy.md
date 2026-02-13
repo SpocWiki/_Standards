@@ -134,7 +134,7 @@ dv_has_:
     az: kinetik enerji
     bcl: enerhiyang kinetika
     be: кінетычная энергія
-    be-tarask: кінэтычная энэргія
+    be_tarask: кінэтычная энэргія
     bg: кинетична енергия
     bn: গতিশক্তি
     bs: kinetička energija
@@ -187,7 +187,7 @@ dv_has_:
     ml: ഗതികോർജ്ജം
     mr: गतिज ऊर्जा
     ms: tenaga kinetik
-    ms-arab: تناݢ کينيتيک
+    ms_arab: تناݢ کينيتيک
     my: အရွေ့စွမ်းအင်
     nb: kinetisk energi
     ne: चाल शक्ति

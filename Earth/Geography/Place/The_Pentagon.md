@@ -141,7 +141,7 @@ dv_has_:
     ban: Pentagon
     bcl: Pentagon
     be: Пентагон
-    be-tarask: Пэнтагон
+    be_tarask: Пэнтагон
     bg: Пентагон
     bn: পেন্টাগন
     br: Pentagon
@@ -152,11 +152,11 @@ dv_has_:
     cy: Y Pentagon
     da: Pentagon-bygningen
     de: Pentagon
-    de-ch: Pentagon
+    de_ch: Pentagon
     el: Πεντάγωνο
     en: The Pentagon
-    en-ca: The Pentagon
-    en-gb: The Pentagon
+    en_ca: The Pentagon
+    en_gb: The Pentagon
     en-us: The Pentagon
     eo: Pentagono
     es: El Pentágono
@@ -205,7 +205,7 @@ dv_has_:
     pnb: پینٹاگون
     ps: پنټاګون
     pt: O Pentágono
-    pt-br: O Pentágono
+    pt_br: O Pentágono
     qu: Pisqa k’uchu kaq
     ro: Pentagon, Washington D.C.
     ru: Пентагон
@@ -217,8 +217,8 @@ dv_has_:
     sl: Pentagon
     sq: Pentagoni
     sr: Пентагон
-    sr-ec: Пентагон
-    sr-el: Pentagon
+    sr_ec: Пентагон
+    sr_el: Pentagon
     sv: Pentagon
     sw: The Pentagon
     ta: பென்டகன்
@@ -237,11 +237,11 @@ dv_has_:
     yi: פענטאגאן
     yue: 五角大樓
     zh: 五角大樓
-    zh-cn: 五角大楼
-    zh-hans: 五角大楼
-    zh-hant: 五角大廈
-    zh-hk: 五角大樓
-    zh-tw: 五角大廈
+    zh_cn: 五角大楼
+    zh_hans: 五角大楼
+    zh_hant: 五角大廈
+    zh_hk: 五角大樓
+    zh_tw: 五角大廈
 ---
 # [[The_Pentagon]] 
 

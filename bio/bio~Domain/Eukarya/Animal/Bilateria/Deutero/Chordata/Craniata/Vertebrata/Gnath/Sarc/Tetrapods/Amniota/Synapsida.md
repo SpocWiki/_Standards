@@ -49,7 +49,7 @@ dv_has_:
     ast: Synapsida
     azb: سیناپسیدا
     be: сінапсіды
-    be-tarask: сынапсіды
+    be_tarask: сынапсіды
     bg: синапсиди
     bs: sinapsidi
     ca: sinàpsids
@@ -57,11 +57,11 @@ dv_has_:
     cs: Synapsida
     da: Pattedyrlignende krybdyr
     de: Synapsiden
-    de-ch: Synapsiden
+    de_ch: Synapsiden
     el: Συναψιδωτά
     en: Synapsida
-    en-ca: Synapsid
-    en-gb: synapsid
+    en_ca: Synapsid
+    en_gb: synapsid
     eo: sinapsidoj
     es: Synapsida
     eu: Synapsida
@@ -81,11 +81,11 @@ dv_has_:
     jv: Synapsida
     ka: თერომორფები
     kk: Аңтәрізділер
-    kk-arab: اڭتارىزدىلەر
+    kk_arab: اڭتارىزدىلەر
     kk-cn: اڭتارىزدىلەر
-    kk-cyrl: Аңтәрізділер
+    kk_cyrl: Аңтәрізділер
     kk-kz: Аңтәрізділер
-    kk-latn: Añtärizdiler
+    kk_latn: Añtärizdiler
     kk-tr: Añtärizdiler
     ko: 단궁류
     ky: Айбан сыяктуулар
@@ -101,7 +101,7 @@ dv_has_:
     or: Synapsid
     pl: synapsydy
     pt: Synapsida
-    pt-br: Synapsida
+    pt_br: Synapsida
     ro: Synapsida
     ru: синапсиды
     scn: Synapsida
@@ -118,12 +118,12 @@ dv_has_:
     war: Synapsida
     wuu: 合弓纲
     zh: 合弓綱
-    zh-cn: 合弓纲
-    zh-hans: 合弓纲
-    zh-hant: 合弓綱
-    zh-hk: 合弓綱
-    zh-sg: 合弓纲
-    zh-tw: 合弓綱
+    zh_cn: 合弓纲
+    zh_hans: 合弓纲
+    zh_hant: 合弓綱
+    zh_hk: 合弓綱
+    zh_sg: 合弓纲
+    zh_tw: 合弓綱
 ---
 # [[Synapsida]]
 

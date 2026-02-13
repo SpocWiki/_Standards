@@ -113,7 +113,7 @@ dv_has_:
     ast: Guéiser
     az: Qeyzer
     be: гейзер
-    be-tarask: гейзэр
+    be_tarask: гейзэр
     bg: Гейзер
     bho: गीजर
     bn: উষ্ণপ্রস্রবণ

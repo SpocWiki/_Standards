@@ -6,7 +6,7 @@ dv_has_:
     ar: عشوائية
     az: Təsadüf
     be: выпадковасць
-    be-tarask: выпадковасьць
+    be_tarask: выпадковасьць
     bg: Случайност
     br: chañs
     ca: aleatorietat
@@ -61,8 +61,8 @@ dv_has_:
     vi: ngẫu nhiên
     yue: 隨機性
     zh: 随机
-    zh-hant: 隨機性
-    zh-tw: 隨機性
+    zh_hant: 隨機性
+    zh_tw: 隨機性
 aliases:
 - aleatoriedad
 - aleatoriedade

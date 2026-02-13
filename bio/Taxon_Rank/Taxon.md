@@ -91,7 +91,7 @@ dv_has_:
     ba: таксон
     bar: Taxon
     be: таксон
-    be-tarask: таксон
+    be_tarask: таксон
     bg: таксон
     bn: ট্যাক্সন
     br: takson
@@ -103,12 +103,12 @@ dv_has_:
     da: takson
     de: Taxon
     de-at: Taxon
-    de-ch: Taxon
+    de_ch: Taxon
     diq: taksonomik obje
     el: τάξη
     en: taxon
-    en-ca: taxon
-    en-gb: taxon
+    en_ca: taxon
+    en_gb: taxon
     en-us: taxon
     eo: taksono
     es: taxón
@@ -142,7 +142,7 @@ dv_has_:
     kab: tamsartut
     ko: 분류군
     ks: ٹؠکزان
-    ku-latn: takson
+    ku_latn: takson
     la: taxon
     lb: Taxon
     li: Taxon
@@ -155,7 +155,7 @@ dv_has_:
     mr: टॅक्सॉन
     mrj: таксон
     ms: takson
-    ms-arab: تکسون
+    ms_arab: تکسون
     mt: takson
     my: တက်ဆွန်
     mzn: تاکسون
@@ -175,7 +175,7 @@ dv_has_:
     pnb: ٹیکسون
     ps: ټاکسون
     pt: táxon
-    pt-br: táxon
+    pt_br: táxon
     ro: taxon
     ru: таксон
     rue: таксон
@@ -189,23 +189,23 @@ dv_has_:
     sl: takson
     sq: takson
     sr: таксон
-    sr-ec: таксон
-    sr-el: takson
+    sr_ec: таксон
+    sr_el: takson
     stq: Taxon
     sv: taxon
     szl: taksōn
     ta: உயிரலகு
     te: టాక్సన్
     tg: таксон
-    tg-cyrl: таксон
+    tg_cyrl: таксон
     th: หน่วยอนุกรมวิธาน
     tl: takson
     tly: takson
     tok: kulupu pi ijo lon pi sama lukin
     tr: takson
     tt: таксон
-    tt-cyrl: таксон
-    tt-latn: taqson
+    tt_cyrl: таксон
+    tt_latn: taqson
     udm: таксон
     uk: таксон
     ur: ٹیکزون
@@ -217,11 +217,11 @@ dv_has_:
     yi: טאקסאן
     zgh: ⴰⵙⵏⵎⴰⵍⴰ
     zh: 生物分類單元
-    zh-cn: 生物分类单元
-    zh-hans: 生物分类单元
-    zh-hant: 生物分類單元
-    zh-hk: 生物分類單元
-    zh-tw: 生物分類單元
+    zh_cn: 生物分类单元
+    zh_hans: 生物分类单元
+    zh_hant: 生物分類單元
+    zh_hk: 生物分類單元
+    zh_tw: 生物分類單元
 ---
 # [[Taxon]] 
 

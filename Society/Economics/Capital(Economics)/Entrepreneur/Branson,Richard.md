@@ -113,7 +113,7 @@ dv_has_:
     arz: ريتشارد برانسون
     ast: Richard Branson
     az: Riçard Brenson
-    be-tarask: Рычард Брэнсан
+    be_tarask: Рычард Брэнсан
     bg: Ричард Брансън
     bn: রিচার্ড ব্রানসন
     ca: Richard Branson
@@ -122,11 +122,11 @@ dv_has_:
     cy: Richard Branson
     da: Richard Branson
     de: Richard Branson
-    de-ch: Richard Branson
+    de_ch: Richard Branson
     el: Ρίτσαρντ Μπράνσον
     en: Richard Branson
-    en-ca: Richard Branson
-    en-gb: Richard Branson
+    en_ca: Richard Branson
+    en_gb: Richard Branson
     en-us: Richard Branson
     eo: Richard Branson
     es: Richard Branson
@@ -168,7 +168,7 @@ dv_has_:
     pam: Richard Branson
     pl: Richard Branson
     pt: Richard Branson
-    pt-br: Richard Branson
+    pt_br: Richard Branson
     ro: Richard Branson
     ru: Ричард Брэнсон
     sco: Richard Branson
@@ -190,12 +190,12 @@ dv_has_:
     wuu: 理查德·布兰森
     yue: 李察·布蘭遜
     zh: 理查德·布蘭森
-    zh-cn: 理查德·布兰森
-    zh-hans: 理查德·布兰森
-    zh-hant: 李察·布蘭遜
-    zh-hk: 李察·布蘭遜
-    zh-sg: 理查德·布兰森
-    zh-tw: 李察·布蘭遜
+    zh_cn: 理查德·布兰森
+    zh_hans: 理查德·布兰森
+    zh_hant: 李察·布蘭遜
+    zh_hk: 李察·布蘭遜
+    zh_sg: 理查德·布兰森
+    zh_tw: 李察·布蘭遜
 ---
 # [[Branson,Richard]] 
 

@@ -227,7 +227,7 @@ hashtag_: snake
 dv_has_:
   name_:
     ady: блэ
-    aeb-arab: حنش
+    aeb_arab: حنش
     af: slang
     am: እባብ
     an: serpients
@@ -249,7 +249,7 @@ dv_has_:
     ban: lelipi
     bcl: halas
     be: змеі
-    be-tarask: зьмеі
+    be_tarask: зьмеі
     bew: ula
     bg: змии
     bjn: tadung
@@ -273,7 +273,7 @@ dv_has_:
     da: slange
     dag: wahu
     de: Schlange
-    de-ch: Schlangen
+    de_ch: Schlangen
     dga: wao
     diq: mar
     dtp: tulanut
@@ -281,8 +281,8 @@ dv_has_:
     ee: edha
     el: φίδι
     en: snake
-    en-ca: snake
-    en-gb: snake
+    en_ca: snake
+    en_gb: snake
     eo: serpento
     es: serpiente
     et: maolised
@@ -392,7 +392,7 @@ dv_has_:
     pnb: سپ
     ps: مار
     pt: serpente
-    pt-br: serpente
+    pt_br: serpente
     qu: mach'aqway
     rki: မြွီ
     ro: șarpe
@@ -451,9 +451,9 @@ dv_has_:
     za: ngwz
     zgh: ⵉⴼⵉⵖⵔ
     zh: 蛇
-    zh-hans: 蛇
-    zh-hant: 蛇
-    zh-tw: 蛇
+    zh_hans: 蛇
+    zh_hant: 蛇
+    zh_tw: 蛇
 ---
 # [[Snake]] 🐍 
 

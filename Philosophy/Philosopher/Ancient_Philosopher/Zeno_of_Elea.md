@@ -132,7 +132,7 @@ dv_has_:
     ast: Zenón d'Elea
     az: Eleyli Zenon
     be: Зянон Элейскі
-    be-tarask: Зянон Элейскі
+    be_tarask: Зянон Элейскі
     bg: Зенон от Елея
     bn: এলেয়ার জিনো
     br: Zenon Elea
@@ -166,15 +166,15 @@ dv_has_:
     it: Zenone di Elea
     ja: ゼノン
     kk: Зенон
-    kk-arab: زەنون
+    kk_arab: زەنون
     kk-cn: زەنون
-    kk-cyrl: Зенон
+    kk_cyrl: Зенон
     kk-kz: Зенон
-    kk-latn: Zenon
+    kk_latn: Zenon
     kk-tr: Zenon
     ko: 엘레아의 제논
     ku: Zenonê Eleayî
-    ku-latn: Zenonê Eleayî
+    ku_latn: Zenonê Eleayî
     ky: Элейлик Зенон
     la: Zeno Eleates
     lfn: Zeno de Elea
@@ -193,7 +193,7 @@ dv_has_:
     pl: Zenon z Elei
     pms: Zenon
     pt: Zenão de Eleia
-    pt-br: Zenão de Eleia
+    pt_br: Zenão de Eleia
     ro: Zenon din Eleea
     ru: Зенон Элейский
     sco: Zeno o Elea
@@ -202,8 +202,8 @@ dv_has_:
     sl: Zenon
     sq: Zenoni
     sr: Зенон из Елеје
-    sr-ec: Зенон из Елеје
-    sr-el: Zenon iz Eleje
+    sr_ec: Зенон из Елеје
+    sr_el: Zenon iz Eleje
     sv: Zenon från Elea
     ta: எலியாவின் சீனோ
     te: జీనో
@@ -219,12 +219,12 @@ dv_has_:
     xmf: ზენონ ელეიარი
     yue: 芝諾 (前五世紀)
     zh: 埃利亚的芝诺
-    zh-cn: 埃利亚的芝诺
+    zh_cn: 埃利亚的芝诺
     zh-hans: 埃利亚的芝诺
-    zh-hant: 埃利亞的芝諾
-    zh-hk: 埃利亞的芝諾
-    zh-sg: 埃利亚的芝诺
-    zh-tw: 埃利亞的芝諾
+    zh_hant: 埃利亞的芝諾
+    zh_hk: 埃利亞的芝諾
+    zh_sg: 埃利亚的芝诺
+    zh_tw: 埃利亞的芝諾
 ---
 # [[Zeno_of_Elea]] 
 

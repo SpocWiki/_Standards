@@ -10,7 +10,7 @@ dv_has_:
     az: Byork
     azb: بیورک
     be: Б'ёрк
-    be-tarask: Björk
+    be_tarask: Björk
     bg: Бьорк
     br: Björk
     ca: Björk
@@ -22,12 +22,12 @@ dv_has_:
     cy: Björk
     da: Björk
     de: Björk
-    de-ch: Björk
+    de_ch: Björk
     dsb: Björk
     el: Μπιορκ
     en: Björk
-    en-ca: Björk
-    en-gb: Björk
+    en_ca: Björk
+    en_gb: Björk
     en-us: Björk
     eo: Björk
     es: Björk
@@ -78,7 +78,7 @@ dv_has_:
     pl: Björk
     pms: Björk
     pt: Björk
-    pt-br: Björk
+    pt_br: Björk
     ro: Björk
     ru: Бьорк
     sc: Björk
@@ -103,10 +103,10 @@ dv_has_:
     yi: בזשאָרק
     yue: 碧玉
     zh: 碧玉
-    zh-cn: 比约克
-    zh-hant: 碧玉
+    zh_cn: 比约克
+    zh_hant: 碧玉
     zh-my: 碧玉
-    zh-sg: 碧玉
+    zh_sg: 碧玉
 aliases:
 - biork
 - Bjork

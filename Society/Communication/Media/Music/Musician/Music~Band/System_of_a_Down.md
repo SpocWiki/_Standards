@@ -56,7 +56,7 @@ dv_has_:
     azb: سیستم او ا داون
     bar: System of a Down
     be: System of a Down
-    be-tarask: System of a Down
+    be_tarask: System of a Down
     bg: Систъм ъф ъ Даун
     br: System of a Down
     bs: System of a Down
@@ -64,7 +64,7 @@ dv_has_:
     ckb: سیستەم ئۆف ئە داون
     co: System of a Down
     crh: System of a Down
-    crh-latn: System of a Down
+    crh_latn: System of a Down
     cs: System of a Down
     cy: System of a Down
     da: System of a Down
@@ -72,7 +72,7 @@ dv_has_:
     diq: System of a Down
     el: System of a Down
     en: System of a Down
-    en-gb: System of a Down
+    en_gb: System of a Down
     en-us: System Of A Down
     eo: System of a Down
     es: System of a Down
@@ -108,7 +108,7 @@ dv_has_:
     oc: System of a Down
     pl: System of a Down
     pt: System of a Down
-    pt-br: System of a Down
+    pt_br: System of a Down
     ro: System of a Down
     ru: System of a Down
     sco: System of a Down
@@ -130,8 +130,8 @@ dv_has_:
     wa: System of a Down
     wuu: 堕落体制
     zh: 堕落体制
-    zh-hant: 墮落體制
-    zh-tw: 墮落體制
+    zh_hant: 墮落體制
+    zh_tw: 墮落體制
 ---
 # [[System_of_a_Down]] 
 

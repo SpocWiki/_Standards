@@ -165,7 +165,7 @@ dv_has_:
     ban: Lutésium
     bcl: Lutesyo
     be: лютэцый
-    be-tarask: Лютэц
+    be_tarask: Лютэц
     bg: лутеций
     bho: लुटेटियम
     bn: লুটিশিয়াম
@@ -259,7 +259,7 @@ dv_has_:
     pnb: لتیتیم
     ps: لوتيتيوم
     pt: lutécio
-    pt-br: lutécio
+    pt_br: lutécio
     qu: Lutesyu
     ro: lutețiu
     ru: лютеций
@@ -276,7 +276,7 @@ dv_has_:
     so: Luteetiyaam
     sq: Lutetiumi
     sr: лутецијум
-    sr-ec: Лутецијум
+    sr_ec: Лутецијум
     stq: Lutetium
     sv: lutetium
     sw: Luteti
@@ -299,8 +299,8 @@ dv_has_:
     yo: Lutetium
     yue: 鑥
     zh: 镥
-    zh-hant: 鎦
-    zh-tw: 鎦
+    zh_hant: 鎦
+    zh_tw: 鎦
     zu: UmLuthambi
   number_of_:
     period: 6

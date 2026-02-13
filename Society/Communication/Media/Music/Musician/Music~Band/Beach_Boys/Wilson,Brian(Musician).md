@@ -37,7 +37,7 @@ dv_has_:
     az: Brayan Vilson
     azb: برایان ویلسون
     bar: Brian Wilson
-    be-tarask: Браян Ўільсан
+    be_tarask: Браян Ўільсан
     bm: Brian Wilson
     bn: ব্রায়ান উইলসন
     br: Brian Wilson
@@ -49,12 +49,12 @@ dv_has_:
     da: Brian Wilson
     de: Brian Wilson
     de-at: Brian Wilson
-    de-ch: Brian Wilson
+    de_ch: Brian Wilson
     dv: ބްރައިއަން ވިލްސަން
     el: Μπράιαν Γουίλσον
     en: Brian Wilson
-    en-ca: Brian Wilson
-    en-gb: Brian Wilson
+    en_ca: Brian Wilson
+    en_gb: Brian Wilson
     eo: Brian Wilson
     es: Brian Wilson
     et: Brian Wilson
@@ -102,7 +102,7 @@ dv_has_:
     nap: Brian Wilson
     nb: Brian Wilson
     nds: Brian Wilson
-    nds-nl: Brian Wilson
+    nds_nl: Brian Wilson
     nl: Brian Wilson
     nn: Brian Wilson
     nrm: Brian Wilson
@@ -113,7 +113,7 @@ dv_has_:
     pms: Brian Wilson
     prg: Brian Wilson
     pt: Brian Wilson
-    pt-br: Brian Wilson
+    pt_br: Brian Wilson
     qu: Brian Wilson
     rgn: Brian Wilson
     rm: Brian Wilson
@@ -143,11 +143,11 @@ dv_has_:
     wuu: 布賴恩·道格拉斯·威爾遜
     yo: Brian Wilson
     zh: 布赖恩·威尔逊
-    zh-cn: 布赖恩·道格拉斯·威尔逊
-    zh-hans: 布赖恩·威尔逊
-    zh-hant: 布萊恩·威爾森
-    zh-hk: 拜恩·韋遜
-    zh-tw: 布萊恩·威爾森
+    zh_cn: 布赖恩·道格拉斯·威尔逊
+    zh_hans: 布赖恩·威尔逊
+    zh_hant: 布萊恩·威爾森
+    zh_hk: 拜恩·韋遜
+    zh_tw: 布萊恩·威爾森
     zu: Brian Wilson
 ---
 # [[Wilson,Brian(Musician)]] 

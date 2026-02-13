@@ -123,7 +123,7 @@ dv_has_:
     azb: رونالدو
     ba: Роналдо
     be: Раналду
-    be-tarask: Раналду
+    be_tarask: Раналду
     bg: Роналдо
     bho: रोनाल्डो
     bn: রোনালদো
@@ -140,8 +140,8 @@ dv_has_:
     diq: Ronaldo
     el: Ρονάλντο
     en: Ronaldo
-    en-ca: Ronaldo
-    en-gb: Ronaldo
+    en_ca: Ronaldo
+    en_gb: Ronaldo
     eo: Ronaldo
     es: Ronaldo
     et: Ronaldo
@@ -195,7 +195,7 @@ dv_has_:
     pap: Ronaldo
     pl: Ronaldo
     pt: Ronaldo
-    pt-br: Ronaldo
+    pt_br: Ronaldo
     qu: Ronaldo
     ro: Ronaldo
     ru: Роналдо
@@ -227,11 +227,11 @@ dv_has_:
     wuu: 罗纳尔多
     yue: 朗拿度
     zh: 罗纳尔多
-    zh-hans: 罗纳尔多
-    zh-hant: 羅納爾多
-    zh-hk: 朗拿度
-    zh-sg: 罗纳尔多
-    zh-tw: 羅納度
+    zh_hans: 罗纳尔多
+    zh_hant: 羅納爾多
+    zh_hk: 朗拿度
+    zh_sg: 罗纳尔多
+    zh_tw: 羅納度
 ---
 # [[Ronaldo]] 
 

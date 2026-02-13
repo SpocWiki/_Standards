@@ -269,7 +269,7 @@ dv_has_:
     bar: Philosophie
     bcl: pilosopiya
     be: філасофія
-    be-tarask: філязофія
+    be_tarask: філязофія
     bew: pilsapat
     bg: философия
     bho: दर्शन
@@ -303,8 +303,8 @@ dv_has_:
     el: φιλοσοφία
     eml: filosofî
     en: philosophy
-    en-ca: philosophy
-    en-gb: philosophy
+    en_ca: philosophy
+    en_gb: philosophy
     en-us: philosophy
     eo: filozofio
     es: filosofía
@@ -369,7 +369,7 @@ dv_has_:
     ko: 철학
     ks: فَلاسفی
     ku: felsefe
-    ku-latn: felsefe
+    ku_latn: felsefe
     kw: filosofieth
     ky: философия
     la: philosophia
@@ -401,7 +401,7 @@ dv_has_:
     mni: ꯋꯥꯡꯎꯂꯣꯟ
     mr: तत्त्वज्ञान
     ms: falsafah
-    ms-arab: فلسفه
+    ms_arab: فلسفه
     mt: il-filosofija
     mwl: filosofie
     my: သဘာဝတ္ထဗေဒ
@@ -411,7 +411,7 @@ dv_has_:
     nan: tiat-ha̍k
     nb: filosofi
     nds: Philosophie
-    nds-nl: filesefie
+    nds_nl: filesefie
     ne: दर्शन
     new: दर्शन
     nia: filosofi
@@ -436,7 +436,7 @@ dv_has_:
     pnt: φιλοσοφία
     ps: فلسفه
     pt: filosofia
-    pt-br: filosofia
+    pt_br: filosofia
     qu: yachay wayllukuy
     rki: ဖီလိုဆိုဖီ
     rm: filosofia
@@ -469,7 +469,7 @@ dv_has_:
     so: filasoof
     sq: filozofi
     sr: филозофија
-    sr-ec: филозофија
+    sr_ec: филозофија
     srn: sabi fu denki
     st: filosofi
     stq: Philosophie
@@ -481,7 +481,7 @@ dv_has_:
     te: తత్వశాస్త్రం
     tet: filisofia
     tg: фалсафа
-    tg-cyrl: фалсафа
+    tg_cyrl: фалсафа
     th: ปรัชญา
     ti: ፍልስፍና
     tk: pelsepe
@@ -491,8 +491,8 @@ dv_has_:
     tr: felsefe
     ts: filosofi
     tt: фәлсәфә
-    tt-cyrl: фәлсәфә
-    tt-latn: fälsäfä
+    tt_cyrl: фәлсәфә
+    tt_latn: fälsäfä
     tyv: философия
     udm: философия
     ug: پەلسەپە
@@ -517,14 +517,14 @@ dv_has_:
     zea: filosofie
     zgh: ⵜⴰⴼⵍⵙⴰⴼⵜ
     zh: 哲學
-    zh-cn: 哲学
+    zh_cn: 哲学
     zh-hans: 哲学
-    zh-hant: 哲學
-    zh-hk: 哲學
-    zh-mo: 哲學
+    zh_hant: 哲學
+    zh_hk: 哲學
+    zh_mo: 哲學
     zh-my: 哲学
-    zh-sg: 哲学
-    zh-tw: 哲學
+    zh_sg: 哲学
+    zh_tw: 哲學
     zu: ifilosofi
 ---
 # [[Philosophy]] 

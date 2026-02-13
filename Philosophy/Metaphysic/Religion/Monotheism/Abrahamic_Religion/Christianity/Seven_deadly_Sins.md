@@ -112,12 +112,12 @@ dv_has_:
     cy: y Saith Pechod Marwol
     da: Syv dødssynder
     de: Sieben Todsünden
-    de-ch: Todsünde
+    de_ch: Todsünde
     el: Επτά θανάσιμα αμαρτήματα
     eml: Vìsi capitêl
     en: seven deadly sins
-    en-ca: Seven deadly sins
-    en-gb: seven deadly sins
+    en_ca: Seven deadly sins
+    en_gb: seven deadly sins
     eo: sep gravegaj pekoj
     es: pecado capital
     et: seitse surmapattu
@@ -153,7 +153,7 @@ dv_has_:
     pcd: Sèt pétchès capitals
     pl: siedem grzechów głównych
     pt: pecado capital
-    pt-br: Pecado capital
+    pt_br: Pecado capital
     ro: păcat capital
     ru: главные грехи
     se: jápminsuddu
@@ -162,8 +162,8 @@ dv_has_:
     sk: Sedem hlavných hriechov
     sl: sedem smrtnih grehov
     sr: седам смртних грехова
-    sr-ec: седам смртних грехова
-    sr-el: sedam smrtnih grehova
+    sr_ec: седам смртних грехова
+    sr_el: sedam smrtnih grehova
     sv: de sju dödssynderna
     sw: Mizizi ya dhambi
     ta: ஏழு கொடிய பாவங்கள்
@@ -178,12 +178,12 @@ dv_has_:
     wuu: 七宗罪
     yue: 七宗罪
     zh: 七宗罪
-    zh-cn: 七宗罪
-    zh-hans: 七宗罪
-    zh-hant: 七宗罪
-    zh-hk: 七宗罪
-    zh-sg: 七宗罪
-    zh-tw: 七宗罪
+    zh_cn: 七宗罪
+    zh_hans: 七宗罪
+    zh_hant: 七宗罪
+    zh_hk: 七宗罪
+    zh_sg: 七宗罪
+    zh_tw: 七宗罪
 ---
 ## #has_/text_of_/abstract 
 

@@ -69,7 +69,7 @@ dv_has_:
     ast: Sociedá abierta
     az: Açıq Cəmiyyət
     be: Адкрытае грамадства
-    be-tarask: адкрытае грамадзтва
+    be_tarask: адкрытае грамадзтва
     bg: Отворено общество
     ca: Open society
     ckb: کۆمەڵگەی کراوە
@@ -93,9 +93,9 @@ dv_has_:
     it: società aperta
     ja: 開かれた社会
     kk: Ашық қоғам
-    kk-arab: اشىق قوعام
-    kk-cyrl: Ашық қоғам
-    kk-latn: Aşıq qoğam
+    kk_arab: اشىق قوعام
+    kk_cyrl: Ашық қоғам
+    kk_latn: Aşıq qoğam
     ko: 열린 사회
     lt: Atvira visuomenė
     lv: atvērta sabiedrība
@@ -112,8 +112,8 @@ dv_has_:
     sk: otvorená spoločnosť
     sl: odprta družba
     sr: отворено друштво
-    sr-ec: отворено друштво
-    sr-el: Otvoreno društvo
+    sr_ec: отворено друштво
+    sr_el: Otvoreno društvo
     sv: öppet samhälle
     ta: திறந்த சமுதாயம்
     tr: açık toplum
@@ -121,9 +121,9 @@ dv_has_:
     vec: socetà verta
     vi: Xã hội mở
     zh: 开放社会
-    zh-hans: 开放社会
-    zh-hant: 開放社會
-    zh-hk: 開放社會
+    zh_hans: 开放社会
+    zh_hant: 開放社會
+    zh_hk: 開放社會
 ---
 # [[Open_Society]] 
 

@@ -159,7 +159,7 @@ dv_has_:
     azb: ماده حالتلری
     ba: агрегат хәл
     be: агрэгатны стан
-    be-tarask: агрэгатны стан
+    be_tarask: агрэгатны стан
     bg: агрегатно състояние
     bn: পদার্থের অবস্থা
     bs: agregatno stanje
@@ -175,8 +175,8 @@ dv_has_:
     de: Aggregatzustand
     el: κατάσταση της ύλης
     en: state of matter
-    en-ca: state of matter
-    en-gb: state of matter
+    en_ca: state of matter
+    en_gb: state of matter
     eo: stato de materio
     es: estado de la materia
     et: agregaatolek
@@ -226,7 +226,7 @@ dv_has_:
     mn: бодисын төлөв
     mr: द्रव्याच्या अवस्था
     ms: keadaan jirim
-    ms-arab: کأداءن جيريم
+    ms_arab: کأداءن جيريم
     my: ဒြပ်တို့၏ အခြေအနေ
     nan: bu̍t-chit chōng-thài
     nb: aggregattilstand
@@ -244,7 +244,7 @@ dv_has_:
     pms: Fase (materia)
     pnb: مادے دی ونڈ
     pt: estados físicos da matéria
-    pt-br: estados físicos da matéria
+    pt_br: estados físicos da matéria
     qu: t'inki kachkay
     ro: stare de agregare
     ru: агрегатное состояние вещества
@@ -279,9 +279,9 @@ dv_has_:
     yi: צושטאנד פון מאטעריע
     yue: 相態
     zh: 物质状态
-    zh-cn: 物质状态
-    zh-hans: 物质状态
-    zh-hant: 物质状态
+    zh_cn: 物质状态
+    zh_hans: 物质状态
+    zh_hant: 物质状态
     zu: Izinhlobo Ze Matter
 ---
 # [[State_of_Matter]] 

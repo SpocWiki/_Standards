@@ -199,7 +199,7 @@ dv_has_:
     bar: Noadpoi
     bcl: Amihanan na Polo
     be: Паўночны полюс
-    be-tarask: Паўночны полюс
+    be_tarask: Паўночны полюс
     bg: Северен полюс
     bjn: Kutub Utara
     bn: উত্তর মেরু
@@ -215,7 +215,7 @@ dv_has_:
     cy: Pegwn y Gogledd
     da: Nordpolen
     de: Nordpol
-    de-ch: Nordpol
+    de_ch: Nordpol
     el: Βόρειος Πόλος
     en: North Pole
     eo: Norda poluso
@@ -289,7 +289,7 @@ dv_has_:
     pms: Pòl Nòrd
     pnb: شمالی قطب
     pt: Polo Norte
-    pt-br: Polo Norte
+    pt_br: Polo Norte
     qu: Chinchay qhipa
     ro: Polul Nord
     roa-tara: Pole nord
@@ -313,7 +313,7 @@ dv_has_:
     so: Cirifka waqooyi
     sq: Poli i Veriut
     sr: сјеверни пол
-    sr-ec: сјеверни пол
+    sr_ec: сјеверни пол
     sv: Nordpolen
     sw: Ncha ya kaskazini
     ta: வட துருவம்

@@ -249,7 +249,7 @@ dv_has_:
     azb: باب دیلن
     bar: Dylan Bob
     be: Боб Дылан
-    be-tarask: Боб Дылан
+    be_tarask: Боб Дылан
     bg: Боб Дилън
     bn: বব ডিলান
     bo: བྷོབ་ཌེལིན་
@@ -301,12 +301,12 @@ dv_has_:
     xmf: ბობ დილანი
     yue: 卜戴倫
     zh: 鲍勃·迪伦
-    zh-cn: 鲍勃·迪伦
-    zh-hans: 鲍勃·迪伦
-    zh-hant: 巴布·狄倫
-    zh-hk: 卜·戴倫
+    zh_cn: 鲍勃·迪伦
+    zh_hans: 鲍勃·迪伦
+    zh_hant: 巴布·狄倫
+    zh_hk: 卜·戴倫
     zh-my: 卜·狄伦
-    zh-sg: 鲍勃·迪伦
+    zh_sg: 鲍勃·迪伦
 ---
 # [[Dylan,Bob]] 
 

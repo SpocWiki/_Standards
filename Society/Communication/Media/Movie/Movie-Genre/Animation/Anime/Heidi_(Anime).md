@@ -6,11 +6,11 @@ dv_has_:
     ast: Heidi, Girl of the Alps
     ca: Heidi
     de: Heidi
-    de-ch: Heidi
+    de_ch: Heidi
     el: Χάιντι
     en: Heidi, Girl of the Alps
-    en-ca: Heidi, Girl of the Alps
-    en-gb: Heidi, Girl of the Alps
+    en_ca: Heidi, Girl of the Alps
+    en_gb: Heidi, Girl of the Alps
     eo: Alps no Shōjo Heidi
     es: Heidi
     eu: Heidi
@@ -29,17 +29,17 @@ dv_has_:
     nl: Heidi
     pl: Heidi
     pt: Heidi
-    pt-br: Heidi
+    pt_br: Heidi
     ru: Heidi, Girl of the Alps
     sh: Heidi
     tr: Heidi
     uk: Гайді
     vi: Heidi, Cô bé đến từ vùng núi Alps
     zh: 阿尔卑斯山的少女
-    zh-hans: 阿尔卑斯山的少女
-    zh-hant: 小天使
-    zh-hk: 飄零燕
-    zh-sg: 小天使
+    zh_hans: 阿尔卑斯山的少女
+    zh_hant: 小天使
+    zh_hk: 飄零燕
+    zh_sg: 小天使
 aliases:
 - Alps no Shōjo Heidi
 - Heidi

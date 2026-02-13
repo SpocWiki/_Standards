@@ -104,7 +104,7 @@ dv_has_:
     az: anqlikanizm
     bar: Anglikanismus
     be: англіканства
-    be-tarask: англіканства
+    be_tarask: англіканства
     bew: Gerèja Angglikan
     bg: англиканство
     bn: অ্যাংলিকানবাদ
@@ -112,15 +112,15 @@ dv_has_:
     ca: anglicanisme
     ckb: ئەنگلیکانیزم
     crh: Anglikanlıq
-    crh-latn: Anglikanlıq
+    crh_latn: Anglikanlıq
     cs: anglikánství
     cy: Anglicaniaeth
     da: Den anglikanske kirke
     de: Anglikanismus
-    de-ch: Anglikanismus
+    de_ch: Anglikanismus
     el: Αγγλικανική Εκκλησία
     en: Anglicanism
-    en-gb: Anglicanism
+    en_gb: Anglicanism
     eo: Anglikanismo
     es: anglicanismo
     et: Anglikaani kirik
@@ -150,7 +150,7 @@ dv_has_:
     ka: ანგლიკანიზმი
     kbp: Aŋglɩkan Ɛsɔ sɛtʊ ŋgbɛyɛ
     ko: 성공회
-    ku-latn: anglîkanîzm
+    ku_latn: anglîkanîzm
     la: Anglicanismus
     lad: anglikanizmo
     lb: Anglikanismus
@@ -174,7 +174,7 @@ dv_has_:
     pms: Anglicanism
     pnb: انگلیکانیت
     pt: anglicanismo
-    pt-br: anglicanismo
+    pt_br: anglicanismo
     ro: anglicanism
     ru: англиканство
     sco: Anglicanism
@@ -201,9 +201,9 @@ dv_has_:
     yo: Ìṣeìjọánglíkánì
     yue: 聖公宗
     zh: 聖公宗
-    zh-hant: 聖公宗
-    zh-hk: 聖公宗
-    zh-tw: 聖公宗
+    zh_hant: 聖公宗
+    zh_hk: 聖公宗
+    zh_tw: 聖公宗
 ---
 # [[Anglicanism]] 
 

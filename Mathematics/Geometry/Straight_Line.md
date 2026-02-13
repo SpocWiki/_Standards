@@ -144,8 +144,8 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Lineline.jpg
 IEV_number: 102-04-02
 dv_has_:
   name_:
-    aeb-arab: خط
-    aeb-latn: 5a66
+    aeb_arab: خط
+    aeb_latn: 5a66
     am: መስመር
     ar: خط مستقيم
     as: ৰেখা
@@ -155,7 +155,7 @@ dv_has_:
     ba: тура һыҙыҡ
     bcl: linya
     be: прамая
-    be-tarask: простая
+    be_tarask: простая
     bg: права
     bn: রেখা
     br: eeunenn
@@ -222,7 +222,7 @@ dv_has_:
     ml: നേർരേഖ
     mn: шулуун
     ms: garis
-    ms-arab: ݢاريس
+    ms_arab: ݢاريس
     my: မျဉ်း
     nan: ti̍t-soàⁿ
     nb: linje
@@ -238,7 +238,7 @@ dv_has_:
     pl: prosta
     ps: کرښه
     pt: reta
-    pt-br: reta
+    pt_br: reta
     qu: siwk siq'i
     ro: dreaptă
     ru: прямая
@@ -250,7 +250,7 @@ dv_has_:
     sn: mutsetse
     sq: drejtëza
     sr: права
-    sr-ec: права
+    sr_ec: права
     sv: rät linje
     sw: mstari mnyoofu
     ta: கோடு
@@ -258,7 +258,7 @@ dv_has_:
     tl: guhit
     tr: doğru
     tt: туры
-    tt-cyrl: туры
+    tt_cyrl: туры
     uk: пряма
     ur: خطوط مستقیم
     uz: chiziq
@@ -270,8 +270,8 @@ dv_has_:
     yo: ilà
     yue: 直綫
     zh: 直线
-    zh-hk: 直線
-    zh-tw: 直線
+    zh_hk: 直線
+    zh_tw: 直線
 ---
 # [[Straight_Line]] 
 

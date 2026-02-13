@@ -107,7 +107,7 @@ dv_has_:
     ast: Apartamentu
     bas: bũ̌-bũ̌
     be: кватэра
-    be-tarask: кватэра
+    be_tarask: кватэра
     bg: Апартамент
     bn: অ্যাপার্টমেন্ট
     br: Ranndi
@@ -121,8 +121,8 @@ dv_has_:
     diq: Apartman
     el: διαμέρισμα
     en: apartment
-    en-ca: Apartment
-    en-gb: flat
+    en_ca: Apartment
+    en_gb: flat
     en-us: apartment
     eo: apartamento
     es: apartamento
@@ -164,7 +164,7 @@ dv_has_:
     nl: appartement
     pl: mieszkanie
     pt: apartamento
-    pt-br: Apartamento
+    pt_br: Apartamento
     ro: apartament
     ru: квартира
     sat: ᱠᱟᱱᱰᱦᱟ
@@ -174,8 +174,8 @@ dv_has_:
     sl: stanovanje
     sq: Apartamenti
     sr: стан
-    sr-ec: стан
-    sr-el: stan
+    sr_ec: стан
+    sr_el: stan
     su: Apartemén
     sv: lägenhet
     ta: அடுக்குமாடி வீட்டுத்தொகுதி
@@ -183,7 +183,7 @@ dv_has_:
     th: อะพาร์ตเมนต์
     tr: apartman
     tt: фатир
-    tt-cyrl: фатир
+    tt_cyrl: фатир
     uk: квартира
     ur: فلیٹ
     vec: Apartamento
@@ -191,12 +191,12 @@ dv_has_:
     wuu: 公寓
     yue: 柏文
     zh: 公寓
-    zh-cn: 公寓
-    zh-hans: 公寓
-    zh-hant: 公寓
-    zh-hk: 公寓
-    zh-sg: 公寓
-    zh-tw: 公寓
+    zh_cn: 公寓
+    zh_hans: 公寓
+    zh_hant: 公寓
+    zh_hk: 公寓
+    zh_sg: 公寓
+    zh_tw: 公寓
 ---
 # [[Apartment]] 
 

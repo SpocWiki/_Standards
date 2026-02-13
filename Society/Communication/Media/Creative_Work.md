@@ -129,7 +129,7 @@ dv_has_:
     az: yaradıcı iş
     ba: әҫәр
     be: твор
-    be-tarask: твор
+    be_tarask: твор
     bg: произведение
     bn: সৃষ্টিকর্ম
     br: oberenn
@@ -141,11 +141,11 @@ dv_has_:
     cy: gwaith
     da: værk
     de: Werk
-    de-ch: Œuvre
+    de_ch: Œuvre
     el: έργο
     en: work
-    en-ca: creative work
-    en-gb: work
+    en_ca: creative work
+    en_gb: work
     eo: verko
     es: obra
     et: teos
@@ -189,13 +189,13 @@ dv_has_:
     mk: творечко дело
     ml: സൃഷ്ടി
     ms: karya
-    ms-arab: کاريا
+    ms_arab: کاريا
     my: အလုပ်
     mzn: مهم کارون
     nan: Chok-phín
     nb: verk
     nds: Wark
-    nds-nl: wark
+    nds_nl: wark
     nl: werk
     nn: verk
     nqo: ߓߊ߯ߙߊ
@@ -204,7 +204,7 @@ dv_has_:
     pl: utwór
     pnb: کم
     pt: obra
-    pt-br: obra
+    pt_br: obra
     rm: ovra
     ro: operă
     ru: произведение
@@ -216,18 +216,18 @@ dv_has_:
     smn: tyeji
     sq: vepër
     sr: стваралачко дело
-    sr-ec: стваралачко дело
-    sr-el: stvaralačko delo
+    sr_ec: стваралачко дело
+    sr_el: stvaralačko delo
     stq: Wierk
     sv: verk
     ta: ஆக்கவேலை
     te: సృజనాత్మక కృతి
     tg: осор
-    tg-cyrl: асар
+    tg_cyrl: асар
     th: ผลงาน
     tr: yaratıcı çalışma
     tt: әсәр
-    tt-cyrl: әсәр
+    tt_cyrl: әсәр
     uk: твір
     ur: کام
     vec: òpara
@@ -235,14 +235,14 @@ dv_has_:
     yi: שעפערישע ווערק
     yo: isé
     zh: 作品
-    zh-cn: 作品
-    zh-hans: 作品
-    zh-hant: 作品
-    zh-hk: 作品
-    zh-mo: 作品
+    zh_cn: 作品
+    zh_hans: 作品
+    zh_hant: 作品
+    zh_hk: 作品
+    zh_mo: 作品
     zh-my: 作品
-    zh-sg: 作品
-    zh-tw: 作品
+    zh_sg: 作品
+    zh_tw: 作品
 ---
 # [[Creative_Work]] 
 

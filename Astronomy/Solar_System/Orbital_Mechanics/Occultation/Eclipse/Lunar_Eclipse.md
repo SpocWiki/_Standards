@@ -214,7 +214,7 @@ dv_has_:
     ba: Ай тотолоу
     ban: Gerhana Bulan
     be: месячнае зацьменне
-    be-tarask: зацьменьне месяца
+    be_tarask: зацьменьне месяца
     bg: Лунно затъмнение
     bho: चनरगरहन
     bjn: Garaha bulan
@@ -222,7 +222,7 @@ dv_has_:
     bo: ཟླ་འཛིན་
     bs: Pomračenje Mjeseca
     ca: eclipsi de Lluna
-    cbk-zam: Lunar eclipse
+    cbk_zam: Lunar eclipse
     ckb: مانگگیران
     cs: zatmění Měsíce
     csb: Zacmienié Ksãżëca
@@ -231,8 +231,8 @@ dv_has_:
     de: Mondfinsternis
     el: Έκλειψη Σελήνης
     en: lunar eclipse
-    en-ca: Lunar eclipse
-    en-gb: lunar eclipse
+    en_ca: Lunar eclipse
+    en_gb: lunar eclipse
     eo: Luna eklipso
     es: eclipse lunar
     et: kuuvarjutus
@@ -284,7 +284,7 @@ dv_has_:
     nan: sit-goe̍h
     nb: måneformørkelse
     nds: Maanddüüsternis
-    nds-nl: bloodmåne
+    nds_nl: bloodmåne
     ne: चन्द्रग्रहण
     nl: maansverduistering
     nn: måneformørking
@@ -296,7 +296,7 @@ dv_has_:
     pl: zaćmienie Księżyca
     pnb: چند گرہن
     pt: eclipse lunar
-    pt-br: Eclipse lunar
+    pt_br: Eclipse lunar
     qu: Killa unquy
     ro: Eclipsă de Lună
     ru: лунное затмение
@@ -334,7 +334,7 @@ dv_has_:
     yi: ליקוי לבנה
     yue: 月食
     zh: 月食
-    zh-tw: 月食
+    zh_tw: 月食
     zu: UNyezibomvu
 ---
 # [[Lunar_Eclipse]] 

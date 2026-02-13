@@ -79,7 +79,7 @@ dv_has_:
     ban: sesuunan
     bar: Respekt
     be: павага
-    be-tarask: павага
+    be_tarask: павага
     bg: уважение
     bn: শ্রদ্ধা
     bs: respekt
@@ -112,7 +112,7 @@ dv_has_:
     it: rispetto
     ja: 尊敬
     kk: құрмет
-    kk-cyrl: қадір
+    kk_cyrl: қадір
     ko: 존경
     ku: rêzgirtin
     lt: pagarba

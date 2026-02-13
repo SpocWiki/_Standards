@@ -47,21 +47,21 @@ dv_has_:
     oc: Osteostraci
     pl: Kostnopancerne
     pt: Osteostraci
-    pt-br: Osteostraci
+    pt_br: Osteostraci
     ro: Osteostraci
     ru: Osteostraci
     sk: Kostnopanciernatce
     sq: Osteostraci
     sr: Остеостраци
-    sr-ec: Остеостраци
-    sr-el: Osteostraci
+    sr_ec: Остеостраци
+    sr_el: Osteostraci
     uk: Osteostraci
     vi: Cá giáp xương
     vo: Osteostraci
     war: Osteostraci
     zh: 骨甲魚綱
-    zh-cn: 骨甲鱼纲
-    zh-hans: 骨甲鱼纲
+    zh_cn: 骨甲鱼纲
+    zh_hans: 骨甲鱼纲
 ---
 # [[Osteostraci]]
 

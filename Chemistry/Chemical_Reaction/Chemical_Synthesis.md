@@ -104,7 +104,7 @@ dv_has_:
     ast: Síntesis química
     az: Sintez metodları
     be: хімічны сінтэз
-    be-tarask: хімічны сынтэз
+    be_tarask: хімічны сынтэз
     bg: Химичен синтез
     bs: Hemijska sinteza
     ca: síntesi química
@@ -154,8 +154,8 @@ dv_has_:
     smn: kemiallâš syntees
     sms: kemiaalʼlaž synteeʹs
     sr: хемијска синтеза
-    sr-ec: Хемијска синтеза
-    sr-el: Hemijska sinteza
+    sr_ec: Хемијска синтеза
+    sr_el: Hemijska sinteza
     sv: kemisk syntes
     ta: வேதித் தொகுப்பு
     tr: Kimyasal sentez
@@ -166,12 +166,12 @@ dv_has_:
     vi: Tổng hợp hóa học
     yue: 化學合成
     zh: 化学合成
-    zh-cn: 化学合成
-    zh-hans: 化学合成
-    zh-hant: 化學合成
-    zh-hk: 化學合成
-    zh-sg: 化学合成
-    zh-tw: 化學合成
+    zh_cn: 化学合成
+    zh_hans: 化学合成
+    zh_hant: 化學合成
+    zh_hk: 化學合成
+    zh_sg: 化学合成
+    zh_tw: 化學合成
 ---
 # [[Chemical_Synthesis]] 
 

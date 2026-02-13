@@ -147,7 +147,7 @@ dv_has_:
     azb: ازون
     ba: озон
     be: азон
-    be-tarask: азон
+    be_tarask: азон
     bg: озон
     bho: ओजोन
     bn: ওজোন
@@ -212,7 +212,7 @@ dv_has_:
     pnb: اوزون
     ps: اوزون
     pt: ozono
-    pt-br: ozônio
+    pt_br: ozônio
     qu: achiksamaytu
     ro: ozon
     ru: озон

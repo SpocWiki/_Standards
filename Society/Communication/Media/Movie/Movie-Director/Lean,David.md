@@ -105,7 +105,7 @@ dv_has_:
     arz: ديفيد لين
     ast: David Lean
     be: Дэвід Лін
-    be-tarask: Дэйвід Лін
+    be_tarask: Дэйвід Лін
     bg: Дейвид Лийн
     bn: ডেভিড লিন
     bs: David Lean
@@ -114,11 +114,11 @@ dv_has_:
     cs: David Lean
     da: David Lean
     de: David Lean
-    de-ch: David Lean
+    de_ch: David Lean
     el: Ντέιβιντ Λιν
     en: David Lean
-    en-ca: David Lean
-    en-gb: David Lean
+    en_ca: David Lean
+    en_gb: David Lean
     en-us: David Lean
     eo: David Lean
     es: David Lean
@@ -154,7 +154,7 @@ dv_has_:
     pa: ਡੇਵਿਡ ਲੀਨ
     pl: David Lean
     pt: David Lean
-    pt-br: David Lean
+    pt_br: David Lean
     ro: David Lean
     ru: Дэвид Лин
     sco: David Lean
@@ -163,7 +163,7 @@ dv_has_:
     sl: David Lean
     sq: David Lean
     sr: Дејвид Лин
-    sr-ec: Дејвид Лин
+    sr_ec: Дејвид Лин
     sv: David Lean
     ta: தாவீது லீன்
     te: డేవిడ్ లీన్
@@ -176,11 +176,11 @@ dv_has_:
     xmf: დევიდ ლინი
     yue: 大衛連
     zh: 大卫·利恩
-    zh-cn: 大卫·利恩
-    zh-hans: 大卫·利恩
-    zh-hk: 大衛·連
+    zh_cn: 大卫·利恩
+    zh_hans: 大卫·利恩
+    zh_hk: 大衛·連
     zh-my: 大卫·连
-    zh-sg: 大卫·连
+    zh_sg: 大卫·连
 ---
 #is_/same_as :: [[../../../../../WikiData/WD~David_Lean,55260|WD~David_Lean,55260]]
 

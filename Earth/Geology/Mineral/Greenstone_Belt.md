@@ -53,8 +53,8 @@ dv_has_:
     ca: cinturó de roca verda
     de: Grünsteingürtel
     en: greenstone belt
-    en-ca: Greenstone belt
-    en-gb: greenstone belt
+    en_ca: Greenstone belt
+    en_gb: greenstone belt
     eo: verdroka zono
     es: cinturón de rocas verdes
     eu: Arroka berdeen gerriko
@@ -68,15 +68,15 @@ dv_has_:
     nl: greenstone belt
     pl: Pas zieleńcowy
     pt: cinturão de rochas verdes
-    pt-br: Cinturão de rochas verdes
+    pt_br: Cinturão de rochas verdes
     ru: Зеленокаменный пояс
     sl: pas zelenega kamna
     sv: grönstensbälte
     tr: Yeşil kaya kuşağı
     uk: Зеленокам'яні пояси
     zh: 绿岩带
-    zh-hans: 绿岩带
-    zh-hant: 綠巖帶
+    zh_hans: 绿岩带
+    zh_hant: 綠巖帶
 ---
 # [[Greenstone_Belt]] 
 

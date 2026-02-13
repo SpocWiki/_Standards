@@ -15,8 +15,8 @@ dv_has_:
     cs: Gemmatimonadota
     de: Gemmatimonadota
     en: Gemmatimonadota
-    en-ca: Gemmatimonadota
-    en-gb: Gemmatimonadota
+    en_ca: Gemmatimonadota
+    en_gb: Gemmatimonadota
     eo: Gemmatimonadota
     es: Gemmatimonadota
     eu: Gemmatimonadota
@@ -36,7 +36,7 @@ dv_has_:
     oc: Gemmatimonadota
     pl: Gemmatimonadota
     pt: Gemmatimonadota
-    pt-br: Gemmatimonadota
+    pt_br: Gemmatimonadota
     ro: Gemmatimonadota
     ru: Gemmatimonadota
     sq: Gemmatimonadota

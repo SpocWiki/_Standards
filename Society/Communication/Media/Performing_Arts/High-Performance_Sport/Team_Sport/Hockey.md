@@ -97,7 +97,7 @@ dv_has_:
     ba: Хоккей
     bcl: Hockey
     be: хакей
-    be-tarask: хакей
+    be_tarask: хакей
     bn: হকি
     bs: Hokej
     ca: hoquei
@@ -110,7 +110,7 @@ dv_has_:
     dtp: Hoki
     el: Χόκεϊ
     en: hockey
-    en-gb: hockey
+    en_gb: hockey
     en-us: hockey
     eo: hokeo
     es: hockey
@@ -143,7 +143,7 @@ dv_has_:
     mk: Хокеј
     mn: Хоккей
     ms: hoki
-    ms-arab: هوکي
+    ms_arab: هوکي
     nan: Kau-kiû
     nb: hockey
     nl: hockey
@@ -159,7 +159,7 @@ dv_has_:
     scn: hockey
     sco: hockey
     sh: Hokej
-    shy-latn: takurt
+    shy_latn: takurt
     si: හොකී
     sk: hokej
     sl: hokej
@@ -185,7 +185,7 @@ dv_has_:
     xmf: ჰოკეი
     yue: 曲棍球
     zh: 曲棍球
-    zh-hant: 曲棍球
+    zh_hant: 曲棍球
 ---
 # [[Hockey]] 
 

@@ -164,7 +164,7 @@ dv_has_:
     azb: تایلند کؤرفزی
     ba: Сиам ҡултығы
     be: Сіямскі заліў
-    be-tarask: Сіямская затока
+    be_tarask: Сіямская затока
     bg: Тайландски залив
     bn: থাইল্যান্ড উপসাগর
     br: Pleg-mor Thailand
@@ -206,8 +206,8 @@ dv_has_:
     km: ឈូងសមុទ្រថៃ
     ko: 타이만
     ku: Kendava Taylendayê
-    ku-arab: کەنداڤا تایلاندێ
-    ku-latn: Kendava Taylendayê
+    ku_arab: کەنداڤا تایلاندێ
+    ku_latn: Kendava Taylendayê
     la: Sinus Siamensis
     li: Golf van Thailand
     lo: ອ່າວໄທ
@@ -239,8 +239,8 @@ dv_has_:
     sk: Thajský záliv
     sl: Tajski zaliv
     sr: Тајландски залив
-    sr-ec: Тајландски залив
-    sr-el: Tajlandski zaliv
+    sr_ec: Тајландски залив
+    sr_el: Tajlandski zaliv
     sv: Thailandviken
     sw: Ghuba ya Uthai
     ta: தாய்லாந்து வளைகுடா
@@ -259,12 +259,12 @@ dv_has_:
     yue: 泰國灣
     za: Vanh Daigoz
     zh: 泰國灣
-    zh-cn: 泰国湾
-    zh-hans: 泰国湾
-    zh-hant: 泰國灣
-    zh-hk: 泰國灣
-    zh-sg: 泰国湾
-    zh-tw: 泰國灣
+    zh_cn: 泰国湾
+    zh_hans: 泰国湾
+    zh_hant: 泰國灣
+    zh_hk: 泰國灣
+    zh_sg: 泰国湾
+    zh_tw: 泰國灣
 ---
 # [[Gulf_of_Thailand]] 
 

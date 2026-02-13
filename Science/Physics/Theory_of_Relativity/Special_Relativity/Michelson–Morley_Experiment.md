@@ -88,7 +88,7 @@ dv_has_:
     as: মাইকেলচন-ম'ৰ্লি পৰীক্ষা
     ast: esperimentu de Michelson y Morley
     be: Вопыт Майкельсана
-    be-tarask: экспэрымэнт Мікелсана
+    be_tarask: экспэрымэнт Мікелсана
     bg: опит на Майкелсън-Морли
     bn: মাইকেলসন - মোরলে পরীক্ষা
     ca: experiment de Michelson-Morley
@@ -97,8 +97,8 @@ dv_has_:
     de: Michelson-Morley-Experiment
     el: Πείραμα των Μάικελσον και Μόρλεϋ
     en: Michelson–Morley experiment
-    en-ca: Michelson–Morley experiment
-    en-gb: Michelson–Morley experiment
+    en_ca: Michelson–Morley experiment
+    en_gb: Michelson–Morley experiment
     eo: eksperimento de Michelson-Morley
     es: Experimento de Michelson y Morley
     et: Michelsoni-Morley eksperiment
@@ -118,11 +118,11 @@ dv_has_:
     ja: マイケルソン・モーリーの実験
     ka: მაიკელსონი-მორლის ცდა
     kk: Майкельсон тәжірибесі
-    kk-arab: مايكەلسون تاجىرىيبەسى
+    kk_arab: مايكەلسون تاجىرىيبەسى
     kk-cn: مايكەلسون تاجىرىيبەسى
-    kk-cyrl: Майкельсон тәжірибесі
+    kk_cyrl: Майкельсон тәжірибесі
     kk-kz: Майкельсон тәжірибесі
-    kk-latn: Maýkelʹson täjirïbesi
+    kk_latn: Maýkelʹson täjirïbesi
     kk-tr: Maýkelʹson täjirïbesi
     ko: 마이컬슨-몰리 실험
     lt: Maikelsono-Morlio eksperimentas
@@ -133,7 +133,7 @@ dv_has_:
     oc: Experiéncia de Michelson–Morley
     pl: doświadczenie Michelsona-Morleya
     pt: experiência de Michelson-Morley
-    pt-br: experiência de Michelson-Morley
+    pt_br: experiência de Michelson-Morley
     ro: experimentul Michelson-Morley
     ru: Опыты Майкельсона
     sh: Michelson–Morleyev eksperiment
@@ -141,8 +141,8 @@ dv_has_:
     sk: Michelsonov-Morleyho pokus
     sl: Michelson-Morleyjev eksperiment
     sr: Majkelson-Morlijev eksperiment
-    sr-ec: Мајкелсон-Морлијев експеримент
-    sr-el: Majkelson-Morlijev eksperiment
+    sr_ec: Мајкелсон-Морлијев експеримент
+    sr_el: Majkelson-Morlijev eksperiment
     sv: Michelson–Morleys experiment
     ta: மைக்கல்சன்-மோர்லி பரிசோதனை
     tr: Michelson-Morley deneyi
@@ -150,12 +150,12 @@ dv_has_:
     vi: Thí nghiệm Michelson-Morley
     yue: 邁克生-莫雷實驗
     zh: 迈克耳孙-莫雷实验
-    zh-cn: 迈克耳孙－莫雷实验
-    zh-hans: 迈克耳孙-莫雷实验
-    zh-hant: 邁克耳孫-莫雷實驗
-    zh-hk: 邁克生－莫立實驗
-    zh-sg: 迈克耳孙－莫雷实验
-    zh-tw: 邁克生－莫立實驗
+    zh_cn: 迈克耳孙－莫雷实验
+    zh_hans: 迈克耳孙-莫雷实验
+    zh_hant: 邁克耳孫-莫雷實驗
+    zh_hk: 邁克生－莫立實驗
+    zh_sg: 迈克耳孙－莫雷实验
+    zh_tw: 邁克生－莫立實驗
 ---
 # [[Michelson–Morley_Experiment]] 
 

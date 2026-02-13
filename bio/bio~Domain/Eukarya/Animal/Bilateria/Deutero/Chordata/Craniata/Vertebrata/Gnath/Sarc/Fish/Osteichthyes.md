@@ -113,7 +113,7 @@ dv_has_:
     ba: Һөйәкле балыҡтар
     bar: Osteichthyes
     be: касцявыя рыбы
-    be-tarask: касьцявыя рыбы
+    be_tarask: касьцявыя рыбы
     bg: Костни риби
     bn: অসটিকথিস
     br: Osteiktied
@@ -127,11 +127,11 @@ dv_has_:
     da: Benfisk
     de: Knochenfische
     de-at: Osteichthyes
-    de-ch: Osteichthyes
+    de_ch: Osteichthyes
     el: Οστεϊχθύες
     en: Osteichthyes
-    en-ca: Osteichthyes
-    en-gb: Osteichthyes
+    en_ca: Osteichthyes
+    en_gb: Osteichthyes
     eo: Ostaj fiŝoj
     es: Osteichthyes
     et: luukalad
@@ -181,7 +181,7 @@ dv_has_:
     nap: Osteichthyes
     nb: beinfisker
     nds: Osteichthyes
-    nds-nl: Osteichthyes
+    nds_nl: Osteichthyes
     new: ओस्टिक्थिस
     nl: beenvisachtigen
     nn: beinfiskar
@@ -194,7 +194,7 @@ dv_has_:
     pnb: ہڈی مچھی
     ps: کبان
     pt: Osteichthyes
-    pt-br: Osteichthyes
+    pt_br: Osteichthyes
     qu: Tullu challwa
     rm: Osteichthyes
     ro: Osteichthyes
@@ -217,8 +217,8 @@ dv_has_:
     tl: Osteichthyes
     tr: Kemikli balıklar
     tt: кылчыклы балыклар
-    tt-cyrl: кылчыклы балыклар
-    tt-latn: qılçıqlı balıqlar
+    tt_cyrl: кылчыклы балыклар
+    tt_latn: qılçıqlı balıqlar
     uk: кісткові риби
     uz: Suyakli baliqlar
     vec: Osteichthyes
@@ -232,10 +232,10 @@ dv_has_:
     yi: ביינערדיקע פיש
     yue: 硬骨魚
     zh: 硬骨魚高綱
-    zh-cn: 硬骨鱼高纲
-    zh-hans: 硬骨鱼高纲
-    zh-hant: 硬骨魚
-    zh-tw: 硬骨魚高綱
+    zh_cn: 硬骨鱼高纲
+    zh_hans: 硬骨鱼高纲
+    zh_hant: 硬骨魚
+    zh_tw: 硬骨魚高綱
     zu: Osteichthyes
 ---
 # [[Osteichthyes]] 

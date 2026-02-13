@@ -114,7 +114,7 @@ dv_has_:
     az: Çəmənlik
     bar: Wiesn
     be: луг
-    be-tarask: луг
+    be_tarask: луг
     bg: Ливада
     br: Peurvan
     bs: livada
@@ -123,11 +123,11 @@ dv_has_:
     cv: Çаран
     da: eng
     de: Wiese
-    de-ch: Wiese
+    de_ch: Wiese
     el: Λιβάδι
     en: meadow
-    en-ca: Meadow
-    en-gb: meadow
+    en_ca: Meadow
+    en_gb: meadow
     eo: herbejo
     es: prado
     et: Aas
@@ -175,7 +175,7 @@ dv_has_:
     pl: łąka
     pnb: جوہ
     pt: prado
-    pt-br: prado
+    pt_br: prado
     qu: Waylla
     rki: မြက်ခင်း
     ro: pajiște
@@ -188,8 +188,8 @@ dv_has_:
     sl: travnik
     sq: Livadhet dhe kullosat
     sr: ливада
-    sr-ec: ливада
-    sr-el: livada
+    sr_ec: ливада
+    sr_el: livada
     stq: Mäid
     sv: äng
     tg: Алафзор

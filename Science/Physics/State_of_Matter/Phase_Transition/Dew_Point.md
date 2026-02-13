@@ -89,7 +89,7 @@ dv_has_:
     ast: Puntu de rosada
     ba: Ысыҡ нөктәһе
     be: кропка расы
-    be-tarask: пункт расы
+    be_tarask: пункт расы
     bg: Точка на оросяване
     bn: শিশিরাঙ্ক
     ca: punt de rosada
@@ -120,11 +120,11 @@ dv_has_:
     it: punto di rugiada
     ja: 露点温度
     kk: Шық нүктесі
-    kk-arab: شىق نۇكتەسى
+    kk_arab: شىق نۇكتەسى
     kk-cn: شىق نۇكتەسى
-    kk-cyrl: Шық нүктесі
+    kk_cyrl: Шық нүктесі
     kk-kz: Шық нүктесі
-    kk-latn: Şıq nüktesi
+    kk_latn: Şıq nüktesi
     kk-tr: Şıq nüktesi
     ko: 이슬점
     lmo: Pont de rosada
@@ -146,8 +146,8 @@ dv_has_:
     sl: rosišče
     sq: Pika e vesës
     sr: Тачка росе
-    sr-ec: Тачка росе
-    sr-el: Tačka rose
+    sr_ec: Тачка росе
+    sr_el: Tačka rose
     sv: daggpunkt
     ta: உறைபனிப் புள்ளி
     tr: çiy noktası
@@ -158,12 +158,12 @@ dv_has_:
     wuu: 露点
     yue: 露點
     zh: 露点
-    zh-cn: 露点
-    zh-hans: 露点
-    zh-hant: 露點
-    zh-hk: 露點
-    zh-sg: 露点
-    zh-tw: 露點
+    zh_cn: 露点
+    zh_hans: 露点
+    zh_hant: 露點
+    zh_hk: 露點
+    zh_sg: 露点
+    zh_tw: 露點
 ---
 # [[Dew_Point]] 
 

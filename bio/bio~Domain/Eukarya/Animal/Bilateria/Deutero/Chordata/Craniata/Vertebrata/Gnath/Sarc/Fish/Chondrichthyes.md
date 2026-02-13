@@ -105,7 +105,7 @@ dv_has_:
     azb: قیغیرداقلی بالیقلار
     ba: Chondrichthyes
     be: храстковыя рыбы
-    be-tarask: храстковыя рыбы
+    be_tarask: храстковыя рыбы
     bg: хрущялни риби
     bn: কনড্রিকথিস
     br: Kondriktied
@@ -148,7 +148,7 @@ dv_has_:
     kk: Шеміршекті балықтар
     kn: ಕಾಂಡ್ರಿಕ್ತೈಸ್
     ko: 연골어류
-    ku-latn: masiyên kirkirkdar
+    ku_latn: masiyên kirkirkdar
     ky: Кемирчектүү балыктар
     la: Chondrichthyes
     lb: Knorpelfësch
@@ -172,7 +172,7 @@ dv_has_:
     pnb: مڑکنی مچھیاں
     ps: غضروفی کبان
     pt: Chondrichthyes
-    pt-br: Chondrichthyes
+    pt_br: Chondrichthyes
     qu: K'apa challwa
     ro: Chondrichthyes
     ru: хрящевые рыбы
@@ -188,8 +188,8 @@ dv_has_:
     to: Ika niuniu
     tr: Kıkırdaklı balıklar
     tt: Кимерчәкле балыклар
-    tt-cyrl: Кимерчәкле-кылчыклы балыклар
-    tt-latn: Kimerçäkle-qılçıqlı balıqlar
+    tt_cyrl: Кимерчәкле-кылчыклы балыклар
+    tt_latn: Kimerçäkle-qılçıqlı balıqlar
     uk: хрящові риби
     uz: Togʻayli baliqlar
     vi: Lớp Cá sụn
@@ -199,9 +199,9 @@ dv_has_:
     wuu: 软骨鱼纲
     yue: 軟骨魚綱
     zh: 软骨鱼纲
-    zh-cn: 软骨鱼纲
-    zh-hans: 软骨鱼纲
-    zh-tw: 軟骨魚綱
+    zh_cn: 软骨鱼纲
+    zh_hans: 软骨鱼纲
+    zh_tw: 軟骨魚綱
 ---
 # [[Chondrichthyes]] 
 

@@ -176,7 +176,7 @@ dv_has_:
     bar: Vaschwearungstheorie
     bcl: Teorya nin sabwatan
     be: тэорыя змовы
-    be-tarask: тэорыя змовы
+    be_tarask: тэорыя змовы
     bew: téori kongkalikong
     bg: Конспиративна теория
     bn: ষড়যন্ত্র তত্ত্ব
@@ -220,7 +220,7 @@ dv_has_:
     ko: 음모론
     krj: teoriya konspiratibo
     ku: teoriya komployê
-    ku-latn: teoriya komployê
+    ku_latn: teoriya komployê
     la: theoria conspirationis
     lfn: Teoria de conspira
     lt: sąmokslo teorija
@@ -238,7 +238,7 @@ dv_has_:
     pnb: نظریہ سازش
     ps: د توطیې تیوري
     pt: teoria da conspiração
-    pt-br: teoria conspiratória
+    pt_br: teoria conspiratória
     ro: teorie conspirativă
     ru: теория заговора
     sa: दुर्गोष्ठ्याः सिद्धान्तः
@@ -249,8 +249,8 @@ dv_has_:
     sl: teorija zarote
     sq: Teoria e komplotit
     sr: теорија завере
-    sr-ec: Теорија завере
-    sr-el: Teorija zavere
+    sr_ec: Теорија завере
+    sr_el: Teorija zavere
     sv: konspirationsteori
     sw: Nadharia ya njama
     te: కుట్ర సిద్ధాంతం
@@ -267,12 +267,12 @@ dv_has_:
     yue: 陰謀論
     zgh: ⵜⵉⵥⵉⵕⵜ ⵏ ⵓⵏⴳⵓⵣ
     zh: 陰謀論
-    zh-cn: 阴谋论
-    zh-hans: 阴谋论
-    zh-hant: 陰謀論
-    zh-hk: 陰謀論
-    zh-sg: 阴谋论
-    zh-tw: 陰謀論
+    zh_cn: 阴谋论
+    zh_hans: 阴谋论
+    zh_hant: 陰謀論
+    zh_hk: 陰謀論
+    zh_sg: 阴谋论
+    zh_tw: 陰謀論
     zu: Imbono yozungu
 ---
 # [[Conspiracy_Theory]] 

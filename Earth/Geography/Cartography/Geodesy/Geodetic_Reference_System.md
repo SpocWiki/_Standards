@@ -69,7 +69,7 @@ dv_has_:
     ar: مسند جيوديسي
     ast: Datum
     ba: датум
-    be-tarask: геадэзічная сыстэма каардынатаў
+    be_tarask: геадэзічная сыстэма каардынатаў
     bn: ভূগাণিতিক উপাত্ত
     ca: datum
     cs: souřadnicový systém
@@ -107,7 +107,7 @@ dv_has_:
     uk: Геодезична референцна система
     yue: 測量基準
     zh: 测量基准
-    zh-hans: 测量基准
+    zh_hans: 测量基准
 ---
 # [[Geodetic_Reference_System]] 
 

@@ -85,7 +85,7 @@ dv_has_:
     ar: كرنب بروكسل
     arz: كرنب بروكسل
     ast: Brassica oleracea var gemmifera
-    be-tarask: брусэльская капуста
+    be_tarask: брусэльская капуста
     bg: брюкселско зеле
     bn: ব্রাসেলস স্প্রাউট
     br: kaol-bihan
@@ -119,11 +119,11 @@ dv_has_:
     ja: メキャベツ
     ka: ბრიუსელის კომბოსტო
     kk: Брюссель қырыққабаты
-    kk-arab: بريۋسسەل قىرىققاباتى
+    kk_arab: بريۋسسەل قىرىققاباتى
     kk-cn: بريۋسسەل قىرىققاباتى
-    kk-cyrl: Брюссель қырыққабаты
+    kk_cyrl: Брюссель қырыққабаты
     kk-kz: Брюссель қырыққабаты
-    kk-latn: Bryusselʹ qırıqqabatı
+    kk_latn: Bryusselʹ qırıqqabatı
     kk-tr: Bryusselʹ qırıqqabatı
     ko: 방울다다기
     ksh: Spruut
@@ -138,7 +138,7 @@ dv_has_:
     mt: kaboċċi ta' Brussell
     mul: Brassica oleracea var. gemmifera
     nb: rosenkål
-    nds-nl: keulkes
+    nds_nl: keulkes
     nl: spruitkool
     nn: Rosenkål
     nv: atʼééké bijish yázhí
@@ -156,8 +156,8 @@ dv_has_:
     sms: rååʹzkapus
     sq: Brassica oleracea var. gemmifera
     sr: Прокељ
-    sr-ec: Прокељ
-    sr-el: Prokelj
+    sr_ec: Прокељ
+    sr_el: Prokelj
     sv: brysselkål
     ta: கிளைக்கோசு
     tg: Ғужмкарам
@@ -172,12 +172,12 @@ dv_has_:
     wuu: 抱子甘蓝
     yue: 椰菜仔
     zh: 抱子甘藍
-    zh-cn: 抱子甘蓝
-    zh-hans: 抱子甘蓝
-    zh-hant: 抱子甘藍
-    zh-hk: 抱子甘藍
-    zh-sg: 抱子甘蓝
-    zh-tw: 抱子甘藍
+    zh_cn: 抱子甘蓝
+    zh_hans: 抱子甘蓝
+    zh_hant: 抱子甘藍
+    zh_hk: 抱子甘藍
+    zh_sg: 抱子甘蓝
+    zh_tw: 抱子甘藍
 ---
 # [[Brussels_sprout]] 
 

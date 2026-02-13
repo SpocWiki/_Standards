@@ -141,7 +141,7 @@ dv_has_:
     ast: linfoma
     az: limfoma
     azb: لیمفوم
-    be-tarask: лімфома
+    be_tarask: лімфома
     bg: Лимфома
     bn: লিম্ফোমা
     bs: Limfom
@@ -204,8 +204,8 @@ dv_has_:
     sms: njiimmâmkoođõspoorrikõpp
     sq: Limfoma
     sr: лимфом
-    sr-ec: Лимфом
-    sr-el: Limfom
+    sr_ec: Лимфом
+    sr_el: Limfom
     su: Limfoma
     sv: lymfom
     szy: alutid a pucu’
@@ -221,12 +221,12 @@ dv_has_:
     yue: 淋巴癌
     za: Binghbaeznou
     zh: 淋巴瘤
-    zh-cn: 淋巴瘤
-    zh-hans: 淋巴瘤
-    zh-hant: 淋巴瘤
-    zh-hk: 淋巴瘤
-    zh-sg: 淋巴瘤
-    zh-tw: 淋巴瘤
+    zh_cn: 淋巴瘤
+    zh_hans: 淋巴瘤
+    zh_hant: 淋巴瘤
+    zh_hk: 淋巴瘤
+    zh_sg: 淋巴瘤
+    zh_tw: 淋巴瘤
 ---
 # [[Lymphoma]] 
 

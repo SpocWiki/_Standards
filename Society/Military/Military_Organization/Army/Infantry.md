@@ -119,7 +119,7 @@ dv_has_:
     ba: пехота
     bar: Infanterie
     be: пяхота
-    be-tarask: пяхота
+    be_tarask: пяхота
     bg: пехота
     bn: পদাতিক সেনা
     br: troadegiezh
@@ -131,12 +131,12 @@ dv_has_:
     cy: troedfilwyr
     da: infanteri
     de: Infanterie
-    de-ch: Infanterie
+    de_ch: Infanterie
     dsb: infantrija
     el: πεζικό
     en: infantry
-    en-ca: Infantry
-    en-gb: infantry
+    en_ca: Infantry
+    en_gb: infantry
     en-us: infantry
     eo: infanterio
     es: infantería
@@ -184,7 +184,7 @@ dv_has_:
     os: фистæгæфсад
     pl: piechota
     pt: infantaria
-    pt-br: Infantaria
+    pt_br: Infantaria
     ro: infanterie
     ru: пехота
     sco: infantry
@@ -193,8 +193,8 @@ dv_has_:
     sl: pehota
     sq: Këmbësoria
     sr: пешадија
-    sr-ec: пешадија
-    sr-el: pešadija
+    sr_ec: пешадија
+    sr_el: pešadija
     sv: Infanteri
     sw: Askari wa miguu
     szl: infanteryjŏ
@@ -212,9 +212,9 @@ dv_has_:
     yi: פוס מיליטער
     yue: 步兵
     zh: 步兵
-    zh-hans: 歩兵
-    zh-hant: 步兵
-    zh-tw: 步兵
+    zh_hans: 歩兵
+    zh_hant: 步兵
+    zh_tw: 步兵
 ---
 # [[Infantry]] 
 

@@ -44,11 +44,11 @@ dv_has_:
     ceb: Pipidae
     cs: pipovití
     de: Zungenlose
-    de-ch: Zungenlose
+    de_ch: Zungenlose
     ee: Akotsovi
     en: Pipidae
-    en-ca: Pipidae
-    en-gb: Pipidae
+    en_ca: Pipidae
+    en_gb: Pipidae
     eo: Pipedoj
     es: Pipidae
     eu: Pipidae
@@ -79,7 +79,7 @@ dv_has_:
     pl: Grzbietorodowate
     pnb: انجیبا ڈڈو
     pt: Pipidae
-    pt-br: Pipidae
+    pt_br: Pipidae
     ro: Pipide
     ru: Пиповые
     sl: Pipidae
@@ -92,9 +92,9 @@ dv_has_:
     vo: Pipidae
     war: Pipidae
     zh: 负子蟾科
-    zh-cn: 负子蟾科
-    zh-hans: 负子蟾科
-    zh-tw: 負子蟾科
+    zh_cn: 负子蟾科
+    zh_hans: 负子蟾科
+    zh_tw: 負子蟾科
     zu: Idwi
 ---
 # [[Pipid]]

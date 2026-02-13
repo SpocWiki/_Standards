@@ -139,12 +139,12 @@ dv_has_:
     ar: حمض التانيك
     ast: Ácidu tánico
     azb: تانیک اسید
-    be-tarask: гарбавальная кісьля
+    be_tarask: гарбавальная кісьля
     ca: àcid tànnic
     de: Tanninsäure
     en: tannic acid
-    en-ca: Tannic acid
-    en-gb: Tannic acid
+    en_ca: Tannic acid
+    en_gb: Tannic acid
     eo: tana acido
     es: Ácido tánico
     eu: Azido taniko
@@ -159,7 +159,7 @@ dv_has_:
     nn: tanninsyre
     pl: Kwas taninowy
     pt: Ácido tânico
-    pt-br: Ácido tânico
+    pt_br: Ácido tânico
     ro: Acid tanic
     ru: дубильная кислота
     sh: Taninska kiselina

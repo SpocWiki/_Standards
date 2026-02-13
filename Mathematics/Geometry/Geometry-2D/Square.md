@@ -172,7 +172,7 @@ dv_has_:
     ba: квадрат
     bcl: Kwadrado
     be: квадрат
-    be-tarask: квадрат
+    be_tarask: квадрат
     bg: квадрат
     bho: वर्ग
     bn: বর্গক্ষেত্র
@@ -182,19 +182,19 @@ dv_has_:
     ca: quadrat
     ckb: چوارگۆشە
     crh: Murabba
-    crh-latn: murabba
+    crh_latn: murabba
     cs: čtverec
     cv: тăваткал
     cy: sgwâr
     da: kvadrat
     de: Quadrat
-    de-ch: quadrat
+    de_ch: quadrat
     dsb: kwadrat
     el: τετράγωνο
     eml: quadrê
     en: square
-    en-ca: square
-    en-gb: square
+    en_ca: square
+    en_gb: square
     en-us: square
     eo: kvadrato
     es: cuadrado
@@ -267,7 +267,7 @@ dv_has_:
     pnb: مربع
     ps: څلوريځ
     pt: quadrado
-    pt-br: quadrado
+    pt_br: quadrado
     qu: t'asra
     ro: pătrat
     ru: квадрат
@@ -284,8 +284,8 @@ dv_has_:
     so: labajibaarane
     sq: katrori
     sr: квадрат
-    sr-ec: квадрат
-    sr-el: kvadrat
+    sr_ec: квадрат
+    sr_el: kvadrat
     su: pasagi bener
     sv: kvadrat
     sw: mraba
@@ -298,7 +298,7 @@ dv_has_:
     tok: leko supa pona
     tr: kare
     tt: квадрат
-    tt-cyrl: квадрат
+    tt_cyrl: квадрат
     udm: квадрат
     uk: квадрат
     ur: مربع
@@ -316,10 +316,10 @@ dv_has_:
     yue: 正方形
     zgh: ⴰⵎⴽⴽⵓⵥ
     zh: 正方形
-    zh-cn: 正方形
-    zh-hans: 正方形
-    zh-hant: 正方形
-    zh-hk: 正方形
+    zh_cn: 正方形
+    zh_hans: 正方形
+    zh_hant: 正方形
+    zh_hk: 正方形
     zu: IGcagcane
 ---
 # [[Square]] 

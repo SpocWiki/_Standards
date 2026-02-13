@@ -185,7 +185,7 @@ dv_has_:
     bar: Soaffa
     bcl: Sabon
     be: Мыла
-    be-tarask: мыла
+    be_tarask: мыла
     bew: Sabun
     bg: Сапун
     bn: সাবান
@@ -275,7 +275,7 @@ dv_has_:
     nah: Āmōlli
     nan: sap-bûn
     nb: såpe
-    nds-nl: ziepe
+    nds_nl: ziepe
     ne: साबुन
     nl: zeep
     nn: såpe
@@ -330,10 +330,10 @@ dv_has_:
     yo: Ọṣẹ
     yue: 番梘
     zh: 肥皂
-    zh-cn: 肥皂
-    zh-hans: 肥皂
-    zh-hant: 肥皂
-    zh-tw: 肥皂
+    zh_cn: 肥皂
+    zh_hans: 肥皂
+    zh_hant: 肥皂
+    zh_tw: 肥皂
     zu: Insipho
 ---
 # [[Soap]] 

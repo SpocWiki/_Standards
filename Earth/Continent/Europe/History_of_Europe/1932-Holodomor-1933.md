@@ -7,7 +7,7 @@ dv_has_:
     az: Qolodomor
     ba: Украиналағы аслыҡ
     be: Галадаморы (Украіна)
-    be-tarask: Галадамор ва Ўкраіне
+    be_tarask: Галадамор ва Ўкраіне
     bg: Гладомор
     bn: হলোডোমোর
     br: Holodomor
@@ -75,8 +75,8 @@ dv_has_:
     so: Holodomor
     sq: Holodomori
     sr: Голодомор
-    sr-ec: Голодомор
-    sr-el: Golodomor
+    sr_ec: Голодомор
+    sr_el: Golodomor
     sv: Holodomor
     ta: கோலதமோர்
     tg: Ҳолодомор
@@ -91,12 +91,12 @@ dv_has_:
     xmf: ჰოლოდომორი
     yue: 烏克蘭大饑荒
     zh: 乌克兰大饥荒
-    zh-cn: 乌克兰大饥荒
-    zh-hans: 乌克兰大饥荒
-    zh-hant: 烏克蘭大飢荒
-    zh-hk: 烏克蘭大飢荒
-    zh-sg: 乌克兰大饥荒
-    zh-tw: 烏克蘭大飢荒
+    zh_cn: 乌克兰大饥荒
+    zh_hans: 乌克兰大饥荒
+    zh_hant: 烏克蘭大飢荒
+    zh_hk: 烏克蘭大飢荒
+    zh_sg: 乌克兰大饥荒
+    zh_tw: 烏克蘭大飢荒
   time_:
     started: 1932-06-01T00:00:00.000+01:00
     stopped: 1933-06-01T00:00:00.000+01:00

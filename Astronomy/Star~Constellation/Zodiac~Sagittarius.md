@@ -143,7 +143,7 @@ dv_has_:
     bbc: Dano
     bcl: Sagittarius (konstelasyon)
     be: Стралец
-    be-tarask: Стралец
+    be_tarask: Стралец
     bg: Стрелец
     bn: ধনু
     br: Saezhataer
@@ -159,7 +159,7 @@ dv_has_:
     diq: Timkan
     el: Τοξότης
     en: Sagittarius
-    en-gb: Sagittarius
+    en_gb: Sagittarius
     eo: Sagitario
     es: Sagitario
     et: Ambur
@@ -242,7 +242,7 @@ dv_has_:
     wuu: 人马座
     yue: 人馬座
     zh: 人马座
-    zh-hant: 人馬座
+    zh_hant: 人馬座
 dv_is_:
   same_as:
   - '[[../../WikiData/WD~Sagittarius,8866|WD~Sagittarius,8866]]'

@@ -41,7 +41,7 @@ dv_has_:
     azb: تونی کرتیس
     bcl: Tony Curtis
     be: Тоні Кёртыс
-    be-tarask: Тоні Кэртыс
+    be_tarask: Тоні Кэртыс
     bg: Тони Къртис
     bn: টনি কার্টিস
     br: Tony Curtis
@@ -51,11 +51,11 @@ dv_has_:
     cy: Tony Curtis
     da: Tony Curtis
     de: Tony Curtis
-    de-ch: Tony Curtis
+    de_ch: Tony Curtis
     el: Τόνι Κέρτις
     en: Tony Curtis
-    en-ca: Tony Curtis
-    en-gb: Tony Curtis
+    en_ca: Tony Curtis
+    en_gb: Tony Curtis
     en-us: Tony Curtis
     eo: Tony Curtis
     es: Tony Curtis
@@ -92,7 +92,7 @@ dv_has_:
     pl: Tony Curtis
     pms: Tony Curtis
     pt: Tony Curtis
-    pt-br: Tony Curtis
+    pt_br: Tony Curtis
     qu: Tony Curtis
     ro: Tony Curtis
     ru: Тони Кёртис
@@ -102,8 +102,8 @@ dv_has_:
     sl: Tony Curtis
     sq: Tony Curtis
     sr: Тони Кертис
-    sr-ec: Тони Кертис
-    sr-el: Toni Kertis
+    sr_ec: Тони Кертис
+    sr_el: Toni Kertis
     sv: Tony Curtis
     sw: Tony Curtis
     th: โทนี เคอร์ติส
@@ -117,13 +117,13 @@ dv_has_:
     wuu: 托尼·柯蒂斯
     yo: Tony Curtis
     zh: 托尼·柯蒂斯
-    zh-cn: 托尼·柯蒂斯
-    zh-hans: 托尼·柯蒂斯
-    zh-hant: 湯尼·寇蒂斯
-    zh-hk: 東尼·柯蒂斯
+    zh_cn: 托尼·柯蒂斯
+    zh_hans: 托尼·柯蒂斯
+    zh_hant: 湯尼·寇蒂斯
+    zh_hk: 東尼·柯蒂斯
     zh-my: 东尼·寇蒂斯
-    zh-sg: 东尼·寇蒂斯
-    zh-tw: 湯尼·寇蒂斯
+    zh_sg: 东尼·寇蒂斯
+    zh_tw: 湯尼·寇蒂斯
 ---
 #has_/time_/started :: 1925-06-03 
 #has_/time_/stopped :: 2010-09-29 

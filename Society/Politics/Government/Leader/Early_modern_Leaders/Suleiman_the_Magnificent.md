@@ -206,7 +206,7 @@ dv_has_:
     azb: سلیمان قانونی
     ba: Сөләймән I
     be: Сулейман I
-    be-tarask: Сулейман I
+    be_tarask: Сулейман I
     bew: Suléman Kanuni
     bg: Сюлейман I
     bn: সুলতান সুলাইমান
@@ -227,8 +227,8 @@ dv_has_:
     diq: Sılêman I
     el: Σουλεϊμάν Α΄ ο Μεγαλοπρεπής
     en: Suleiman the Magnificent
-    en-ca: Suleiman the Magnificent
-    en-gb: Suleiman the Magnificent
+    en_ca: Suleiman the Magnificent
+    en_gb: Suleiman the Magnificent
     en-us: Suleiman the Magnificent
     eo: Sulejmano la 1-a
     es: Solimán el Magnífico
@@ -298,7 +298,7 @@ dv_has_:
     pnb: سلیمان اعظم
     ps: سلیمان ۱
     pt: Solimão, o Magnífico
-    pt-br: Solimão, o Magnífico
+    pt_br: Solimão, o Magnífico
     ro: Soliman Magnificul
     ru: Сулейман I
     rue: Сулейман Пышный

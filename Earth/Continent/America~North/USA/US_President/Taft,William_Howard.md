@@ -88,7 +88,7 @@ dv_has_:
     ban: William Howard Taft
     bcl: William Howard Taft
     be: Уільям Говард Тафт
-    be-tarask: Ўільям Говард Тафт
+    be_tarask: Ўільям Говард Тафт
     bg: Уилям Тафт
     bi: William Howard Taft
     bn: উইলিয়াম হাওয়ার্ড ট্যাফ্ট
@@ -107,12 +107,12 @@ dv_has_:
     da: William H. Taft
     dag: William Howard Taft
     de: William Howard Taft
-    de-ch: William Howard Taft
+    de_ch: William Howard Taft
     diq: William Howard Taft
     el: Ουίλιαμ Χάουαρντ Ταφτ
     en: William Howard Taft
-    en-ca: William Howard Taft
-    en-gb: William Howard Taft
+    en_ca: William Howard Taft
+    en_gb: William Howard Taft
     eo: William H. Taft
     es: William Howard Taft
     et: William Howard Taft
@@ -182,7 +182,7 @@ dv_has_:
     pnb: ولیم ہاورڈ ٹافٹ
     ps: ویلیم هاورډ ټافت
     pt: William Howard Taft
-    pt-br: William Howard Taft
+    pt_br: William Howard Taft
     rm: William Howard Taft
     rmf: William Howard Taft
     ro: William Howard Taft
@@ -225,7 +225,7 @@ dv_has_:
     yo: William Howard Taft
     yue: 塔虎脫
     zh: 威廉·霍华德·塔夫脱
-    zh-hant: 威廉·霍華德·塔虎脫
+    zh_hant: 威廉·霍華德·塔虎脫
   time_:
     started: 1857-09-15T00:00:00.000+00:53
     stopped: 1930-03-08T00:00:00.000+01:00

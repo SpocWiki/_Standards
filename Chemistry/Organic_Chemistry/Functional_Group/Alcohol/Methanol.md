@@ -215,7 +215,7 @@ dv_has_:
     az: metanol
     azb: متانول
     be: метанол
-    be-tarask: мэтаноль
+    be_tarask: мэтаноль
     bg: метанол
     bn: মিথানল
     bs: metanol
@@ -224,11 +224,11 @@ dv_has_:
     cy: methanol
     da: metanol
     de: Methanol
-    de-ch: Methanol
+    de_ch: Methanol
     el: μεθανόλη
     en: methanol
-    en-ca: methanol
-    en-gb: methanol
+    en_ca: methanol
+    en_gb: methanol
     eo: metanolo
     es: metanol
     et: metanool
@@ -269,7 +269,7 @@ dv_has_:
     oc: metanòl
     pl: metanol
     pt: metanol
-    pt-br: metanol
+    pt_br: metanol
     qu: methanul
     ro: metanol
     ru: метанол
@@ -291,8 +291,8 @@ dv_has_:
     wuu: 甲醇
     yue: 甲醇
     zh: 甲醇
-    zh-hant: 甲醇
-    zh-tw: 甲醇
+    zh_hant: 甲醇
+    zh_tw: 甲醇
 ---
 # [[Methanol]] 
 

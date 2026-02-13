@@ -110,7 +110,7 @@ dv_has_:
     ar: لعب
     bcl: kawat
     bdr: kekuri
-    be-tarask: забаўляньне
+    be_tarask: забаўляньне
     bho: खेल
     bn: খেলা
     ca: joc
@@ -155,7 +155,7 @@ dv_has_:
     nn: leik
     pl: zabawa
     pt: brincadeira
-    pt-br: brincadeira
+    pt_br: brincadeira
     ru: игровая активность
     sc: giogu
     scn: jucari
@@ -173,11 +173,11 @@ dv_has_:
     wuu: 孛相
     yue: 玩
     zh: 玩耍
-    zh-cn: 玩耍
-    zh-hans: 玩耍
-    zh-hant: 玩耍
-    zh-hk: 玩耍
-    zh-tw: 玩耍
+    zh_cn: 玩耍
+    zh_hans: 玩耍
+    zh_hant: 玩耍
+    zh_hk: 玩耍
+    zh_tw: 玩耍
     zu: umfeketho
 ---
 # [[Play(Activity)]] 

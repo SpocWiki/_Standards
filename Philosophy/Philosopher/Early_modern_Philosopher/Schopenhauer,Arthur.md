@@ -166,7 +166,7 @@ dv_has_:
     azb: آرتور شوپنهاور
     ba: Шопенгауэр Артур
     be: Артур Шапенгаўэр
-    be-tarask: Артур Шапэнгаўэр
+    be_tarask: Артур Шапэнгаўэр
     bg: Артур Шопенхауер
     bn: আর্টুর শোপনহাউয়ার
     br: Arthur Schopenhauer
@@ -181,8 +181,8 @@ dv_has_:
     de: Arthur Schopenhauer
     el: Άρτουρ Σοπενχάουερ
     en: Arthur Schopenhauer
-    en-ca: Arthur Schopenhauer
-    en-gb: Arthur Schopenhauer
+    en_ca: Arthur Schopenhauer
+    en_gb: Arthur Schopenhauer
     eo: Arthur Schopenhauer
     es: Arthur Schopenhauer
     et: Arthur Schopenhauer
@@ -236,7 +236,7 @@ dv_has_:
     pnb: شوپنہائر
     ps: ارتر شوپنهاور
     pt: Arthur Schopenhauer
-    pt-br: Arthur Schopenhauer
+    pt_br: Arthur Schopenhauer
     qu: Arthur Schopenhauer
     rm: Arthur Schopenhauer
     ro: Arthur Schopenhauer

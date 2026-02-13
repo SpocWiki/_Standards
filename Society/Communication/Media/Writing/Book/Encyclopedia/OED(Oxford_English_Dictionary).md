@@ -11,7 +11,7 @@ dv_has_:
     az: Oksford İngiliscə Lüğəti
     ba: Оксфорд инглиз теле һүҙлеге
     be: Оксфардскі слоўнік англійскай мовы
-    be-tarask: Оксфардзкі слоўнік ангельскай мовы
+    be_tarask: Оксфардзкі слоўнік ангельскай мовы
     bg: Оксфордски английски речник
     bn: অক্সফোর্ড ইংরেজি অভিধান
     br: Oxford English Dictionary
@@ -23,7 +23,7 @@ dv_has_:
     de: Oxford English Dictionary
     el: Oxford English Dictionary
     en: Oxford English Dictionary
-    en-gb: The Oxford English Dictionary
+    en_gb: The Oxford English Dictionary
     eo: Oxford English Dictionary
     es: Oxford English Dictionary
     et: Oxfordi inglise keele sõnaraamat
@@ -97,7 +97,7 @@ dv_has_:
     yi: אקספארד ענגליש ווערטערבוך
     yue: 牛津英文字典
     zh: 牛津英語詞典
-    zh-cn: 牛津英语大词典
+    zh_cn: 牛津英语大词典
 aliases:
 - caphochae
 - lipu nimi Opo pi toki Inli

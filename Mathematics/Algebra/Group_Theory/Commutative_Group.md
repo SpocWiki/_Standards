@@ -88,7 +88,7 @@ dv_has_:
     az: Abel ortalamaları
     ba: Абель төркөмө
     be: Абелева група
-    be-tarask: абэлева група
+    be_tarask: абэлева група
     bg: Абелева група
     bn: আবেলীয় গ্রুপ
     ca: Grup abelià
@@ -128,15 +128,15 @@ dv_has_:
     oc: grop abelian
     pl: grupa abelowa
     pt: grupo abeliano
-    pt-br: grupo abeliano
+    pt_br: grupo abeliano
     ro: grup abelian
     ru: абелева группа
     sh: Abelova grupa
     sk: abelovská grupa
     sl: abelovska grupa
     sr: Абелова група
-    sr-ec: Абелова група
-    sr-el: Abelova grupa
+    sr_ec: Абелова група
+    sr_el: Abelova grupa
     sv: abelsk grupp
     ta: பரிமாற்றுக் குலம்
     tr: değişmeli grup
@@ -144,12 +144,12 @@ dv_has_:
     vi: nhóm giao hoán
     yue: 阿標羣
     zh: 阿贝尔群
-    zh-cn: 阿贝尔群
-    zh-hans: 阿贝尔群
-    zh-hant: 阿貝爾群
-    zh-hk: 阿貝爾群
-    zh-sg: 阿贝尔群
-    zh-tw: 阿貝爾群
+    zh_cn: 阿贝尔群
+    zh_hans: 阿贝尔群
+    zh_hant: 阿貝爾群
+    zh_hk: 阿貝爾群
+    zh_sg: 阿贝尔群
+    zh_tw: 阿貝爾群
 ---
 # [[Commutative_Group]] 
 

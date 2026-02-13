@@ -171,7 +171,7 @@ dv_has_:
     az: Qələvi metallar
     ban: Logam alkali
     be: шчолачныя металы
-    be-tarask: лужныя мэталы
+    be_tarask: лужныя мэталы
     bg: Група 1 на периодичната система
     bho: एल्कली धातु
     bn: ক্ষার ধাতু
@@ -186,8 +186,8 @@ dv_has_:
     de: Alkalimetalle
     el: αλκάλια
     en: alkali metal
-    en-ca: Alkali metal
-    en-gb: alkali metal
+    en_ca: Alkali metal
+    en_gb: alkali metal
     eo: alkala metalo
     es: alcalino
     et: leelismetallid
@@ -236,7 +236,7 @@ dv_has_:
     mn: Шүлтийн металл
     mr: अल्क धातू
     ms: logam alkali
-    ms-arab: لوݢم الکالي
+    ms_arab: لوݢم الکالي
     my: အယ်လ်ကာလီ သတ္တုများ
     nan: Kiⁿ-kim-sio̍k
     nb: alkalimetall
@@ -284,10 +284,10 @@ dv_has_:
     yo: Mẹ́tàlì álkálì
     yue: 鹼金屬
     zh: 碱金属
-    zh-cn: 碱金属
-    zh-hans: 碱金属
-    zh-hant: 鹼金屬
-    zh-tw: 鹼金屬
+    zh_cn: 碱金属
+    zh_hans: 碱金属
+    zh_hant: 鹼金屬
+    zh_tw: 鹼金屬
 ---
 # [[Group-01-Alkali]] 
 

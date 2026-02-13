@@ -120,7 +120,7 @@ dv_has_:
     az: rəsədxana
     ba: обсерватория
     be: абсерваторыя
-    be-tarask: абсэрваторыя
+    be_tarask: абсэрваторыя
     bg: обсерватория
     bn: মানমন্দির
     br: arsellva
@@ -130,7 +130,7 @@ dv_has_:
     cy: arsyllfa
     da: observatorium
     de: Observatorium
-    de-ch: Observatorium
+    de_ch: Observatorium
     diq: banê çımnayışi
     el: αστεροσκοπείο
     en: observatory
@@ -172,7 +172,7 @@ dv_has_:
     ml: വാനനിലയം
     mr: वेधशाळा
     ms: balai cerap
-    ms-arab: بالاي چرڤ
+    ms_arab: بالاي چرڤ
     nb: observatorium
     nl: observatorium
     nn: observatorium
@@ -181,7 +181,7 @@ dv_has_:
     pl: obserwatorium
     pnb: رصد گاہ
     pt: observatório
-    pt-br: observatório
+    pt_br: observatório
     ro: observator astronomic
     ru: обсерватория
     scn: ossirvatoriu
@@ -194,7 +194,7 @@ dv_has_:
     sv: observatorium
     ta: நோக்காய்வகம்
     te: ఖగోళ వేధశాల
-    tg-cyrl: расадхона
+    tg_cyrl: расадхона
     th: หอดูดาว
     tl: obserbatoryo
     tr: gözlemevi
@@ -209,11 +209,11 @@ dv_has_:
     yi: אבסערוואטאריע
     yue: 觀象臺
     zh: 观测台
-    zh-cn: 观测台
-    zh-hans: 观测台
-    zh-hant: 觀測台
-    zh-hk: 觀測台
-    zh-tw: 觀測台
+    zh_cn: 观测台
+    zh_hans: 观测台
+    zh_hant: 觀測台
+    zh_hk: 觀測台
+    zh_tw: 觀測台
 ---
 # [[Observatory]] 
 

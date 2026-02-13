@@ -153,7 +153,7 @@ dv_has_:
     azb: آمریکالی فوتبال
     ba: Америка футболы
     be: амерыканскі футбол
-    be-tarask: амэрыканскі футбол
+    be_tarask: амэрыканскі футбол
     bg: Американски футбол
     bn: মার্কিন ফুটবল
     br: mell-droad Amerika
@@ -237,7 +237,7 @@ dv_has_:
     sms: äʹmmrik-kâripäll
     sq: Futboll Amerikan
     sr: амерички фудбал
-    sr-ec: Амерички фудбал
+    sr_ec: Амерички фудбал
     sv: amerikansk fotboll
     sw: Futiboli ya Marekani
     ta: அமெரிக்கக் காற்பந்தாட்டம்
@@ -257,11 +257,11 @@ dv_has_:
     yo: Amẹ́ríkàn futbọ́ọ̀lù
     yue: 美式足球
     zh: 美式橄榄球
-    zh-cn: 美式橄榄球
-    zh-hans: 美式橄榄球
-    zh-hant: 美式足球
-    zh-hk: 美式足球
-    zh-tw: 美式足球
+    zh_cn: 美式橄榄球
+    zh_hans: 美式橄榄球
+    zh_hant: 美式足球
+    zh_hk: 美式足球
+    zh_tw: 美式足球
 ---
 # [[American Football]] 🏈 
 

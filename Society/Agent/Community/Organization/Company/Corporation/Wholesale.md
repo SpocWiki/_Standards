@@ -108,7 +108,7 @@ dv_has_:
     ar: بيع بالجملة
     az: Topdansatış
     be: аптовы гандаль
-    be-tarask: гуртовы гандаль
+    be_tarask: гуртовы гандаль
     bg: Търговия на едро
     bn: পাইকারি ব্যবসা
     ca: comerç a l'engròs
@@ -116,7 +116,7 @@ dv_has_:
     cs: velkoobchod
     da: engroshandel
     de: Großhandel
-    de-ch: Grosshandel
+    de_ch: Grosshandel
     el: Χονδρική πώληση
     en: wholesale
     eo: Pogranda komerco
@@ -134,7 +134,7 @@ dv_has_:
     it: vendita all'ingrosso
     ja: 卸売
     kk: көтерме сауда
-    kk-latn: köterme sawda
+    kk_latn: köterme sawda
     kn: ಸಗಟು ವ್ಯಾಪಾರ
     ko: 도매
     lij: groscìsta
@@ -169,12 +169,12 @@ dv_has_:
     vi: bán buôn
     yue: 批發
     zh: 批發
-    zh-cn: 批发
-    zh-hans: 批发
-    zh-hant: 批發
-    zh-hk: 批發
-    zh-sg: 批发
-    zh-tw: 批發
+    zh_cn: 批发
+    zh_hans: 批发
+    zh_hant: 批發
+    zh_hk: 批發
+    zh_sg: 批发
+    zh_tw: 批發
 ---
 # [[Wholesale]] 
 

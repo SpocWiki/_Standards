@@ -123,7 +123,7 @@ dv_has_:
     ast: Interacción débil
     ba: көсһөҙ үҙ-ара тәьҫир итешеү
     be: слабое ўзаемадзеянне
-    be-tarask: слабое ўзаемадзеяньне
+    be_tarask: слабое ўзаемадзеяньне
     bg: Слабо ядрено взаимодействие
     bn: দুর্বল নিউক্লিয় বল
     bs: Slaba nuklearna sila
@@ -196,8 +196,8 @@ dv_has_:
     sl: šibka jedrska sila
     sq: bashkëveprimi i dobët
     sr: слаба интеракција
-    sr-ec: слаба интеракција
-    sr-el: slaba interakcija
+    sr_ec: слаба интеракција
+    sr_el: slaba interakcija
     su: Gaya nuklir lemah
     sv: svag växelverkan
     sw: Mwingiliano dhaifu

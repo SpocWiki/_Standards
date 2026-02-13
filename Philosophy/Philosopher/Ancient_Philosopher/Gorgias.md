@@ -94,7 +94,7 @@ dv_has_:
     ast: Gorgias
     az: Qorqi
     azb: قورگیاس
-    be-tarask: Гаргіяс
+    be_tarask: Гаргіяс
     bg: Горгий
     bs: Gorgija
     ca: Gòrgies de Leontins
@@ -102,11 +102,11 @@ dv_has_:
     cy: Gorgias
     da: Gorgias
     de: Gorgias
-    de-ch: Gorgias von Leontinoi
+    de_ch: Gorgias von Leontinoi
     el: Γοργίας
     en: Gorgias
-    en-ca: Gorgias
-    en-gb: Gorgias
+    en_ca: Gorgias
+    en_gb: Gorgias
     eo: Gorgio
     es: Gorgias
     et: Gorgias
@@ -142,7 +142,7 @@ dv_has_:
     pnb: گارگیاس
     ps: ګورجېس
     pt: Górgias
-    pt-br: Górgias
+    pt_br: Górgias
     ro: Gorgias
     ru: Горгий
     scn: Gorgia
@@ -152,8 +152,8 @@ dv_has_:
     sl: Gorgija
     sq: Gorgias
     sr: Горгија
-    sr-ec: Горгија
-    sr-el: Gorgija
+    sr_ec: Горгија
+    sr_el: Gorgija
     sv: Gorgias
     ta: கார்ஜியஸ்
     tg: Горгий
@@ -165,12 +165,12 @@ dv_has_:
     wuu: 高尔吉亚
     yue: 高基亞
     zh: 高爾吉亞
-    zh-cn: 高尔吉亚
-    zh-hans: 高尔吉亚
-    zh-hant: 高爾吉亞
-    zh-hk: 高爾吉亞
-    zh-sg: 高尔吉亚
-    zh-tw: 高爾吉亞
+    zh_cn: 高尔吉亚
+    zh_hans: 高尔吉亚
+    zh_hant: 高爾吉亞
+    zh_hk: 高爾吉亞
+    zh_sg: 高尔吉亚
+    zh_tw: 高爾吉亞
 ---
 # [[Gorgias]] 
 

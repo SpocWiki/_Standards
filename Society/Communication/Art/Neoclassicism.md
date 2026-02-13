@@ -94,7 +94,7 @@ dv_has_:
     ast: Neoclasicismu
     az: neoklassisizm
     be: неакласіцызм
-    be-tarask: нэаклясыцызм
+    be_tarask: нэаклясыцызм
     bg: Неокласицизъм
     bs: Neoklasicizam
     ca: neoclassicisme
@@ -103,11 +103,11 @@ dv_has_:
     cy: Neoglasuriaeth
     da: nyklassicisme
     de: Klassizismus
-    de-ch: Neoklassizismus
+    de_ch: Neoklassizismus
     el: νεοκλασσικισμός
     en: Neoclassicism
-    en-ca: Neoclassicism
-    en-gb: neoclassicism
+    en_ca: Neoclassicism
+    en_gb: neoclassicism
     eo: Novklasikismo
     es: neoclasicismo
     et: uusklassitsism
@@ -150,7 +150,7 @@ dv_has_:
     pl: neoklasycyzm
     ps: نيو کلاسيکيزم
     pt: neoclassicismo
-    pt-br: Neoclassicismo
+    pt_br: Neoclassicismo
     ro: neoclasicism
     ru: неоклассицизм
     scn: Neuclassicismu
@@ -161,8 +161,8 @@ dv_has_:
     sl: klasicizem
     sms: ođđklassismm
     sr: неокласицизам
-    sr-ec: неокласицизам
-    sr-el: neoklasicizam
+    sr_ec: неокласицизам
+    sr_el: neoklasicizam
     sv: nyklassicism
     tg: неокласситсизм
     th: ลัทธิคลาสสิกใหม่
@@ -174,8 +174,8 @@ dv_has_:
     wuu: 新古典主义
     yue: 新古典主義
     zh: 新古典主義
-    zh-cn: 新古典主义
-    zh-hant: 新古典主義
+    zh_cn: 新古典主义
+    zh_hant: 新古典主義
 ---
 # [[Neoclassicism]] 
 

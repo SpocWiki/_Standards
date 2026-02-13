@@ -316,7 +316,7 @@ dv_has_:
   name_:
     ab: Соломон идгьылбжьахақәа
     ace: Pulo-pulo Solomon
-    aeb-arab: جزر سليمان
+    aeb_arab: جزر سليمان
     af: Solomoneilande
     am: ሰለሞን ደሴቶች
     ami: Solomon
@@ -333,7 +333,7 @@ dv_has_:
     ba: Соломон Утрауҙары
     bcl: Islas Solomon
     be: Саламонавы Астравы
-    be-tarask: Саламонавы астравы
+    be_tarask: Саламонавы астравы
     bew: Pulo Suléman
     bg: Соломонови острови
     bi: Solomon Aelan
@@ -344,7 +344,7 @@ dv_has_:
     bs: Solomonska Ostrva
     bxr: Соломон аралууд
     ca: illes Salomó
-    cbk-zam: Islas Solomon
+    cbk_zam: Islas Solomon
     cdo: Solomon Gùng-dō̤
     ce: Соломонан гӀайренаш
     ceb: Kapupud-ang Solomon
@@ -353,7 +353,7 @@ dv_has_:
     ckb: دوورگەکانی سولەیمان
     co: Xalomonu
     crh: Solomon Adaları
-    crh-latn: Solomon Adaları
+    crh_latn: Solomon Adaları
     cs: Šalomounovy ostrovy
     csb: Òstrowë Salomóna
     cv: Соломон Утравĕсем
@@ -362,15 +362,15 @@ dv_has_:
     dag: Solomon Islands
     de: Salomonen
     de-at: Salomonen
-    de-ch: Salomonen
+    de_ch: Salomonen
     diq: Adey Solomani
     dsb: Salomony
     dty: सोलोमन आइल्याण्ड
     dv: ސޮލޮމޮން ޖަޒީރާ
     el: Νησιά Σολομώντα
     en: Solomon Islands
-    en-ca: Solomon Islands
-    en-gb: Solomon Islands
+    en_ca: Solomon Islands
+    en_gb: Solomon Islands
     eo: Salomonoj
     es: Islas Salomón
     et: Saalomoni Saared
@@ -477,7 +477,7 @@ dv_has_:
     pnb: سولومن آئلینڈ
     ps: سولومون ټاپوګان
     pt: Ilhas Salomão
-    pt-br: Ilhas Salomão
+    pt_br: Ilhas Salomão
     qu: Salumun wat'akuna
     ro: Insulele Solomon
     ru: Соломоновы Острова
@@ -502,7 +502,7 @@ dv_has_:
     so: Jasiiradaha Solomon
     sq: Ishujt Solomon
     sr: Соломонова Острва
-    sr-ec: Соломонова Острва
+    sr_ec: Соломонова Острва
     su: Kapuloan Solomon
     sv: Salomonöarna
     sw: Visiwa vya Solomon
@@ -540,14 +540,14 @@ dv_has_:
     za: Solomon Ginzdauj
     zea: Salomonseilan'n
     zh: 所罗门群岛
-    zh-cn: 所罗门群岛
-    zh-hans: 所罗门群岛
-    zh-hant: 索羅門群島
-    zh-hk: 所羅門群島
-    zh-mo: 所羅門群島
+    zh_cn: 所罗门群岛
+    zh_hans: 所罗门群岛
+    zh_hant: 索羅門群島
+    zh_hk: 所羅門群島
+    zh_mo: 所羅門群島
     zh-my: 所罗门群岛
-    zh-sg: 所罗门群岛
-    zh-tw: 索羅門群島
+    zh_sg: 所罗门群岛
+    zh_tw: 索羅門群島
     zu: i-Solomon Islands
 ---
 # [[Solomon_Islands]] 

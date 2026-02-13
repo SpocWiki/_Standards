@@ -91,7 +91,7 @@ dv_has_:
     ar: فضاء إقليدي
     ast: espaciu euclídeu
     ba: Евклид арауығы
-    be-tarask: эўклідава прастора
+    be_tarask: эўклідава прастора
     bg: Евклидово пространство
     bn: ইউক্লিডীয় স্থান
     ca: espai euclidià
@@ -102,7 +102,7 @@ dv_has_:
     da: Euklidisk rum
     de: euklidischer Raum
     de-at: euklidischer Raum
-    de-ch: euklidischer Raum
+    de_ch: euklidischer Raum
     el: Ευκλείδειος χώρος
     en: Euclidean space
     eo: Eŭklida spaco
@@ -139,7 +139,7 @@ dv_has_:
     pl: przestrzeń euklidesowa
     pnb: اقلیدسی سپیس
     pt: espaço euclidiano
-    pt-br: espaço euclidiano
+    pt_br: espaço euclidiano
     ro: spațiu euclidian
     ru: евклидово пространство
     sh: Euklidski prostor
@@ -148,7 +148,7 @@ dv_has_:
     sl: evklidski prostor
     sq: Hapësira Euklidiane
     sr: Еуклидов простор
-    sr-ec: Еуклидов простор
+    sr_ec: Еуклидов простор
     sv: Euklidiskt rum
     ta: யூக்ளிடிய வெளி
     th: ปริภูมิแบบยุคลิด
@@ -161,7 +161,7 @@ dv_has_:
     wuu: 欧几里得空间
     yue: 歐幾里得空間
     zh: 欧几里得空间
-    zh-hant: 歐幾里得空間
+    zh_hant: 歐幾里得空間
 ---
 # [[Euclidean_Space]] 
 

@@ -77,8 +77,8 @@ dv_has_:
     de: Vermittlungsschicht
     el: Επίπεδο δικτύου
     en: network layer
-    en-ca: network layer
-    en-gb: network layer
+    en_ca: network layer
+    en_gb: network layer
     eo: reta tavolo
     es: capa de red
     et: Võrgukiht
@@ -105,27 +105,27 @@ dv_has_:
     nn: nettverkslaget
     pl: warstwa sieciowa
     pt: camada de rede
-    pt-br: camada de rede
+    pt_br: camada de rede
     ru: протоколы сетевого уровня
     sh: Sloj mreže
     si: ජාලකරණයේ ක්රම - පුළුල් ප්රදේශ ජාලය
     sk: Sieťová vrstva
     sl: omrežna plast
     sr: слој мреже
-    sr-ec: Слој мреже
-    sr-el: sloj mreže
+    sr_ec: Слој мреже
+    sr_el: sloj mreže
     sv: nätverksskikt
     tr: Ağ katmanı
     uk: мережевий рівень
     vi: tầng mạng
     wuu: 网络层
     zh: 网络层
-    zh-cn: 网络层
-    zh-hans: 网络层
-    zh-hant: 網絡層
-    zh-hk: 網絡層
-    zh-sg: 网络层
-    zh-tw: 網路層
+    zh_cn: 网络层
+    zh_hans: 网络层
+    zh_hant: 網絡層
+    zh_hk: 網絡層
+    zh_sg: 网络层
+    zh_tw: 網路層
 ---
 # [[OSI~3-Network]] 
 

@@ -89,7 +89,7 @@ dv_has_:
     ast: vitral
     az: vitraj
     be: вітраж
-    be-tarask: вітраж
+    be_tarask: вітраж
     bg: стъклопис
     br: gwerenn-livet
     bs: vitraž
@@ -137,7 +137,7 @@ dv_has_:
     pa: ਲਿਬੜਿਅਾ ਗਲਾਸ
     pl: witraż
     pt: vitral
-    pt-br: vitral
+    pt_br: vitral
     ro: vitraliu
     ru: витраж
     sh: vitraj

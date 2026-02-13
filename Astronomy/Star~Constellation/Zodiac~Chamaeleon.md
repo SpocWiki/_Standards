@@ -95,7 +95,7 @@ dv_has_:
     az: Buqələmun
     ba: Хамелеон
     be: Хамелеон
-    be-tarask: Хамэлеон
+    be_tarask: Хамэлеон
     bg: Хамелеон
     bn: কৃকলাস মণ্ডল
     br: Kameleon
@@ -173,8 +173,8 @@ dv_has_:
     wuu: 蝘蜓座
     yue: 蝘蜓座
     zh: 蝘蜓座
-    zh-cn: 蝘蜓座
-    zh-hans: 蝘蜓座
+    zh_cn: 蝘蜓座
+    zh_hans: 蝘蜓座
 dv_is_:
   same_as:
   - '[[_Standards/WikiData/WD~Chamaeleon,10457]]'

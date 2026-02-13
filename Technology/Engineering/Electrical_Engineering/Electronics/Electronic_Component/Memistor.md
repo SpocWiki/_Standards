@@ -10,9 +10,9 @@ dv_has_:
     uk: Мемістор
     vi: Memistor
     zh: 存储电阻器
-    zh-cn: 存储电阻器
-    zh-hans: 存储电阻器
-    zh-hant: 儲存電阻器
+    zh_cn: 存储电阻器
+    zh_hans: 存储电阻器
+    zh_hant: 儲存電阻器
 aliases:
 - Memistor
 - memistore

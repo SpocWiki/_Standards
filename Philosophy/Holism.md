@@ -55,7 +55,7 @@ dv_has_:
     ar: كلانية
     ast: holismu
     ban: Holisme
-    be-tarask: халізм
+    be_tarask: халізм
     bg: холизъм
     bn: হলিজম
     ca: holisme
@@ -100,8 +100,8 @@ dv_has_:
     so: Dhammaystiran
     sq: holizmi
     sr: Холизам
-    sr-ec: Холизам
-    sr-el: holizam
+    sr_ec: Холизам
+    sr_el: holizam
     sv: holism
     ta: முழுதளாவியம்
     th: คตินิยมองค์รวม
@@ -111,12 +111,12 @@ dv_has_:
     uk: Холізм
     yue: 整體主義
     zh: 整全觀
-    zh-cn: 整全观
-    zh-hans: 整全观
-    zh-hant: 整全觀
-    zh-hk: 整全觀
-    zh-sg: 整全观
-    zh-tw: 整全觀
+    zh_cn: 整全观
+    zh_hans: 整全观
+    zh_hant: 整全觀
+    zh_hk: 整全觀
+    zh_sg: 整全观
+    zh_tw: 整全觀
 ---
 # [[Holism]] 
 

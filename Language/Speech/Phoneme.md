@@ -104,7 +104,7 @@ dv_has_:
     ba: фонема
     bar: Phonem
     be: фанема
-    be-tarask: фанэма
+    be_tarask: фанэма
     bg: фонема
     bn: স্বনিম
     bo: སྒྲ་ཚན།
@@ -170,7 +170,7 @@ dv_has_:
     mk: фонема
     ml: സ്വനിമം
     ms: fonem
-    ms-arab: فونيم
+    ms_arab: فونيم
     nan: im-sò͘
     nb: fonem
     nds: Phoneem
@@ -212,7 +212,7 @@ dv_has_:
     tok: kalama lili
     tr: fonem
     tt: фаним
-    tt-cyrl: фаним
+    tt_cyrl: фаним
     udm: куара
     uk: фонема
     ur: صوتیہ
@@ -226,8 +226,8 @@ dv_has_:
     yue: 音位
     zgh: ⴰⴼⵓⵏⵉⵎ
     zh: 音位
-    zh-hant: 音位
-    zh-tw: 音位
+    zh_hant: 音位
+    zh_tw: 音位
 ---
 # [[Phoneme]] 
 

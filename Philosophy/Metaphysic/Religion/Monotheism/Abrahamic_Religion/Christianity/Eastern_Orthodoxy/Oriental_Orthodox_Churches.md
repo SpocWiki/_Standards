@@ -99,18 +99,18 @@ dv_has_:
     ast: Ilesies ortodoxes orientales
     az: Antixalkidon kilsələr
     be: старажытныя ўсходнія цэрквы
-    be-tarask: старажытныя ўсходнія цэрквы
+    be_tarask: старажытныя ўсходнія цэрквы
     bg: нехалкедонски църкви
     ca: Esglésies ortodoxes orientals
     cs: Východní pravoslavné společenství
     cy: Eglwysi'r tri cyngor
     de: Orientalisch-orthodoxe Kirchen
-    de-ch: Altorientalische Kirchen
+    de_ch: Altorientalische Kirchen
     diq: Ortodoksiya Rocvetışi
     el: Προχαλκηδόνιες Εκκλησίες
     en: Oriental Orthodox Churches
-    en-ca: oriental orthodoxy
-    en-gb: oriental orthodoxy
+    en_ca: oriental orthodoxy
+    en_gb: oriental orthodoxy
     eo: Orientaj ortodoksaj eklezioj
     es: Iglesias ortodoxas orientales
     et: Vanad oriendikirikud
@@ -150,7 +150,7 @@ dv_has_:
     pl: Kościoły orientalne
     pnb: اورینٹل راسخ الاعتقادی
     pt: Igrejas não calcedonianas
-    pt-br: Igrejas não calcedonianas
+    pt_br: Igrejas não calcedonianas
     ro: Bisericile vechi orientale
     ru: древневосточные православные церкви
     scn: Chiesa Ortudossa Urientali
@@ -169,14 +169,14 @@ dv_has_:
     wuu: 东方正统教会
     yue: 東方正統教會
     zh: 東方正統教會
-    zh-cn: 東方正統教會
-    zh-hans: 東方正統教會
-    zh-hant: 東方正統教會
-    zh-hk: 東方正統教會
-    zh-mo: 東方正統教會
+    zh_cn: 東方正統教會
+    zh_hans: 東方正統教會
+    zh_hant: 東方正統教會
+    zh_hk: 東方正統教會
+    zh_mo: 東方正統教會
     zh-my: 東方正統教會
-    zh-sg: 東方正統教會
-    zh-tw: 東方正統教會
+    zh_sg: 東方正統教會
+    zh_tw: 東方正統教會
 ---
 # [[Oriental_Orthodox_Churches]]
 

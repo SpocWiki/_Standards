@@ -460,7 +460,7 @@ dv_has_:
     ar: توزيع احتمالي ثنائي
     ast: distribución binómica
     be: Біномнае размеркаванне
-    be-tarask: біномнае разьмеркаваньне
+    be_tarask: біномнае разьмеркаваньне
     bn: দ্বিপদী বন্টন
     ca: Distribució binomial
     cs: binomické rozdělení
@@ -482,11 +482,11 @@ dv_has_:
     it: distribuzione binomiale
     ja: 二項分布
     kk: Биномдық үлестірілу
-    kk-arab: بىينومدىق ۇلەستىرىلۋ
+    kk_arab: بىينومدىق ۇلەستىرىلۋ
     kk-cn: بىينومدىق ۇلەستىرىلۋ
-    kk-cyrl: Биномдық үлестірілу
+    kk_cyrl: Биномдық үлестірілу
     kk-kz: Биномдық үлестірілу
-    kk-latn: Bïnomdıq ülestirilw
+    kk_latn: Bïnomdıq ülestirilw
     kk-tr: Bïnomdıq ülestirilw
     ko: 이항 분포
     lt: binominis skirstinys
@@ -517,12 +517,12 @@ dv_has_:
     vi: Phân phối nhị thức
     yue: 二項分佈
     zh: 二項分佈
-    zh-cn: 二项分布
-    zh-hans: 二项分布
-    zh-hant: 二項分佈
-    zh-hk: 二項分佈
-    zh-sg: 二项分布
-    zh-tw: 二項分佈
+    zh_cn: 二项分布
+    zh_hans: 二项分布
+    zh_hant: 二項分佈
+    zh_hk: 二項分佈
+    zh_sg: 二项分布
+    zh_tw: 二項分佈
 ---
 # [[Binomial_Distribution]] 
 

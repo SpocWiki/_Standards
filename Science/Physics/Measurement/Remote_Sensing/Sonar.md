@@ -70,7 +70,7 @@ dv_has_:
     ast: Sonar
     az: Sonar
     azb: سونار
-    be-tarask: гідралякатар
+    be_tarask: гідралякатар
     bg: Сонар
     ca: sonar
     chr: ᎤᏃᏴᏨ ᎠᏣᏘᏍᎩ
@@ -108,11 +108,11 @@ dv_has_:
     jam: Suonaar
     ki: Rũbete
     kk: Гидролокация
-    kk-arab: گىيدرولوكاتسىييا
+    kk_arab: گىيدرولوكاتسىييا
     kk-cn: گىيدرولوكاتسىييا
-    kk-cyrl: Гидролокация
+    kk_cyrl: Гидролокация
     kk-kz: Гидролокация
-    kk-latn: Gïdrolokacïya
+    kk_latn: Gïdrolokacïya
     kk-tr: Gïdrolokacïya
     kn: ಸೋನಾರ್
     ko: 소나
@@ -135,7 +135,7 @@ dv_has_:
     pl: Sonar
     pms: Sònar
     pt: Sonar
-    pt-br: sonar
+    pt_br: sonar
     ro: Sonar
     ru: Гидролокатор
     sh: Sonar
@@ -143,8 +143,8 @@ dv_has_:
     sl: Sonar
     sq: Sonari
     sr: Сонар
-    sr-ec: Сонар
-    sr-el: Sonar
+    sr_ec: Сонар
+    sr_el: Sonar
     sv: sonar
     ta: ஒலிச் செலுத்துவழி மற்றும் வீச்சளவு
     tcy: ಸೋನಾರ್
@@ -158,12 +158,12 @@ dv_has_:
     wuu: 声纳
     yue: 聲納
     zh: 声呐
-    zh-cn: 声呐
-    zh-hans: 声呐
-    zh-hant: 聲納
-    zh-hk: 聲納
-    zh-sg: 声呐
-    zh-tw: 聲納
+    zh_cn: 声呐
+    zh_hans: 声呐
+    zh_hant: 聲納
+    zh_hk: 聲納
+    zh_sg: 声呐
+    zh_tw: 聲納
 ---
 # [[Sonar]] 
 

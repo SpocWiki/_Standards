@@ -157,7 +157,7 @@ dv_has_:
     ba: Төньяҡ тропик
     bcl: Tropiko kan Kanser
     be: Паўночны тропік
-    be-tarask: тропік Рака
+    be_tarask: тропік Рака
     bg: Тропик на Рака
     bho: कर्क रेखा
     bn: কর্কটক্রান্তি
@@ -173,8 +173,8 @@ dv_has_:
     el: Τροπικός του Καρκίνου
     eml: Tròpic dal Càncar
     en: Tropic of Cancer
-    en-ca: Tropic of Cancer
-    en-gb: Tropic of Cancer
+    en_ca: Tropic of Cancer
+    en_gb: Tropic of Cancer
     eo: Tropiko de Kankro
     es: Trópico de Cáncer
     et: vähi pöörijoon
@@ -222,7 +222,7 @@ dv_has_:
     pl: zwrotnik Raka
     pnb: خط سرطان
     pt: Trópico de Câncer
-    pt-br: Trópico de Câncer
+    pt_br: Trópico de Câncer
     ro: Tropicul Racului
     ru: Северный тропик
     rue: Зворотник Рака
@@ -233,8 +233,8 @@ dv_has_:
     sl: rakov povratnik
     smn: rapu jorgáldâskiärdu
     sr: Северни повратник
-    sr-ec: Северни повратник
-    sr-el: Severni povratnik
+    sr_ec: Северни повратник
+    sr_el: Severni povratnik
     sv: kräftans vändkrets
     szy: amislic
     ta: கடக ரேகை
@@ -251,14 +251,14 @@ dv_has_:
     wuu: 北回歸線
     yue: 北回歸線
     zh: 北回归线
-    zh-cn: 北回归线
-    zh-hans: 北回归线
-    zh-hant: 北回歸線
-    zh-hk: 北回歸線
-    zh-mo: 北回歸線
+    zh_cn: 北回归线
+    zh_hans: 北回归线
+    zh_hant: 北回歸線
+    zh_hk: 北回歸線
+    zh_mo: 北回歸線
     zh-my: 北回归线
-    zh-sg: 北回归线
-    zh-tw: 北回歸線
+    zh_sg: 北回归线
+    zh_tw: 北回歸線
 ---
 # [[Tropic_of_Cancer]] 
 

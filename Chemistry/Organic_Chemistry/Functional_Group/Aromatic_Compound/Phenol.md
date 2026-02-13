@@ -215,7 +215,7 @@ dv_has_:
     azb: فنول
     ba: фенол
     be: фенол
-    be-tarask: фэнол
+    be_tarask: фэнол
     bg: фенол
     bn: ফেনল
     bs: fenol
@@ -280,8 +280,8 @@ dv_has_:
     sl: fenol
     sq: fenolet
     sr: фенол
-    sr-ec: фенол
-    sr-el: fenol
+    sr_ec: фенол
+    sr_el: fenol
     sv: fenol
     ta: பீனால்
     tg: фенол
@@ -296,12 +296,12 @@ dv_has_:
     wuu: 苯酚
     yue: 苯酚
     zh: 苯酚
-    zh-cn: 苯酚
-    zh-hans: 苯酚
-    zh-hant: 苯酚
-    zh-hk: 苯酚
-    zh-sg: 苯酚
-    zh-tw: 苯酚
+    zh_cn: 苯酚
+    zh_hans: 苯酚
+    zh_hant: 苯酚
+    zh_hk: 苯酚
+    zh_sg: 苯酚
+    zh_tw: 苯酚
 dv_is_:
   same_as:
   - '[[../../../../WikiData/WD~Phenol,130336]]'

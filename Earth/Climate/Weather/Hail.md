@@ -170,7 +170,7 @@ dv_is_same_as:
 dv_has_:
   name_:
     acm: حالوب
-    aeb-arab: تبروري
+    aeb_arab: تبروري
     af: hael
     an: piedra
     anp: ओले
@@ -183,7 +183,7 @@ dv_has_:
     ba: Боҙборсаҡ
     ban: Sabeh és
     be: град
-    be-tarask: град
+    be_tarask: град
     bg: Градушка
     bn: শিলাবৃষ্টি
     bs: grad
@@ -260,7 +260,7 @@ dv_has_:
     pl: grad
     pnb: ژالا باری
     pt: granizo
-    pt-br: granizo
+    pt_br: granizo
     qu: chikchi
     ro: grindină
     ru: град
@@ -277,8 +277,8 @@ dv_has_:
     sn: chivhuramabwe
     sq: breshëri
     sr: град
-    sr-ec: град
-    sr-el: grad
+    sr_ec: град
+    sr_el: grad
     ss: Sangcotfo
     sv: hagel
     sw: Mvua ya mawe

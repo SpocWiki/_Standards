@@ -124,7 +124,7 @@ dv_has_:
     az: ətyeyənlər
     ban: carnivora
     be: мясаедныя
-    be-tarask: мясажэр
+    be_tarask: мясажэр
     bg: месоядни
     bn: শ্বাপদ
     bs: mesožderi
@@ -134,12 +134,12 @@ dv_has_:
     cy: cigysydd
     da: kødæder
     de: Fleischfresser
-    de-ch: Fleischfresser
+    de_ch: Fleischfresser
     diq: goştwerdoğ
     el: σαρκοφάγα
     en: carnivore
-    en-ca: carnivore
-    en-gb: carnivore
+    en_ca: carnivore
+    en_gb: carnivore
     eo: karnvorulo
     es: carnívoro
     et: karnivoor
@@ -196,7 +196,7 @@ dv_has_:
     pam: karníboru
     pl: mięsożerca
     pt: carnívoro
-    pt-br: carnívoro
+    pt_br: carnívoro
     qu: aycha mikhuq
     ro: carnivor
     ru: плотоядные

@@ -153,7 +153,7 @@ dv_has_:
     bar: Bua
     bcl: Aking lalaki (edad)
     be: хлопчык
-    be-tarask: хлопчык
+    be_tarask: хлопчык
     bg: момче
     bho: लइका
     bn: ছেলে
@@ -168,14 +168,14 @@ dv_has_:
     da: dreng
     dag: bidibiga
     de: Junge
-    de-ch: Junge
+    de_ch: Junge
     dga: dɔɔbile
     dsb: Gólc
     dty: केटा
     el: αγόρι
     en: boy
-    en-ca: Boy
-    en-gb: boy
+    en_ca: Boy
+    en_gb: boy
     eo: knabo
     es: niño
     et: poiss
@@ -228,7 +228,7 @@ dv_has_:
     nan: Cha-po͘ gín-á
     nb: gutt
     nds: Jung
-    nds-nl: jong
+    nds_nl: jong
     ne: केटा
     new: मिजंमचा
     nl: jongen
@@ -238,7 +238,7 @@ dv_has_:
     pap: mucha hòmber
     pl: chłopiec
     pt: menino
-    pt-br: menino
+    pt_br: menino
     rn: Umuhungu
     ro: Băiat
     ru: мальчик
@@ -254,8 +254,8 @@ dv_has_:
     so: Wiil
     sq: Djali
     sr: дечак
-    sr-ec: дечак
-    sr-el: dečak
+    sr_ec: дечак
+    sr_el: dečak
     st: moshanyana
     sv: pojke
     sw: Mvulana
@@ -265,7 +265,7 @@ dv_has_:
     th: เด็กชาย
     tr: oğlan
     tt: малай
-    tt-cyrl: малай
+    tt_cyrl: малай
     tw: Abarimaa
     udm: пи
     uk: хлопець (особа)
@@ -278,14 +278,14 @@ dv_has_:
     yo: Ọmọkùnrin
     yue: 男仔
     zh: 男孩
-    zh-cn: 男孩
-    zh-hans: 男孩
-    zh-hant: 男孩
-    zh-hk: 男孩
-    zh-mo: 男孩
+    zh_cn: 男孩
+    zh_hans: 男孩
+    zh_hant: 男孩
+    zh_hk: 男孩
+    zh_mo: 男孩
     zh-my: 男孩
-    zh-sg: 男孩
-    zh-tw: 男孩
+    zh_sg: 男孩
+    zh_tw: 男孩
 ---
 # [[Boy]] 👦 
 

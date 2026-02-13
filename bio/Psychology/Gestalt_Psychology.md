@@ -81,7 +81,7 @@ dv_has_:
     ast: Psicoloxía de la Gestalt
     az: Geştaltpsixologiya
     be: гештальтпсіхалогія
-    be-tarask: гештальтпсыхалёгія
+    be_tarask: гештальтпсыхалёгія
     bg: Гещалт психология
     ca: psicologia de la Gestalt
     cs: gestaltismus
@@ -108,11 +108,11 @@ dv_has_:
     ja: ゲシュタルト心理学
     ka: გეშტალტფსიქოლოგია
     kk: Гештальт
-    kk-arab: گەشتالت
+    kk_arab: گەشتالت
     kk-cn: گەشتالت
-    kk-cyrl: Гештальт
+    kk_cyrl: Гештальт
     kk-kz: Гештальт
-    kk-latn: Geştalʹt
+    kk_latn: Geştalʹt
     kk-tr: Geştalʹt
     kn: ಗೆಸ್ಟಾಲ್ಟ್ ಮನೋವಿಜ್ಞಾನ
     ko: 게슈탈트 심리학
@@ -149,12 +149,12 @@ dv_has_:
     wuu: 格式塔学派
     yue: 完形心理學
     zh: 格式塔学派
-    zh-cn: 格式塔学派
-    zh-hans: 格式塔学派
-    zh-hant: 格式塔學派
-    zh-hk: 格式塔學派
-    zh-sg: 格式塔学派
-    zh-tw: 格式塔學派
+    zh_cn: 格式塔学派
+    zh_hans: 格式塔学派
+    zh_hant: 格式塔學派
+    zh_hk: 格式塔學派
+    zh_sg: 格式塔学派
+    zh_tw: 格式塔學派
 ---
 # [[Gestalt_Psychology]] 
 

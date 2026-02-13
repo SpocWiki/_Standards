@@ -151,7 +151,7 @@ dv_has_:
     bag: búrúbúrú
     bax: zero
     bbj: ywə̂ně
-    be-tarask: нуль
+    be_tarask: нуль
     bg: нула
     bho: जीरो
     bkc: kòkolo
@@ -216,7 +216,7 @@ dv_has_:
     ml: പൂജ്യം
     mni: ꯰
     mr: शून्य
-    ms-arab: صفر
+    ms_arab: صفر
     mua: tə kolle
     mul: 0
     my: ၀
@@ -235,7 +235,7 @@ dv_has_:
     pa: ੦
     pnb: صفر
     ps: ۰
-    pt-br: zero
+    pt_br: zero
     qu: ch'usaq yupay
     rn: ubusa
     ro: zero

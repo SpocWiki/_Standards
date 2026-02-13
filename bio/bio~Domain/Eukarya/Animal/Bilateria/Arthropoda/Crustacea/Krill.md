@@ -53,7 +53,7 @@ dv_has_:
     ban: Krill
     bcl: Balaw
     be: Крыль
-    be-tarask: крыль
+    be_tarask: крыль
     bg: крил
     br: Krill
     bs: Kril
@@ -106,7 +106,7 @@ dv_has_:
     pl: Szczętki
     ps: کریل
     pt: Krill
-    pt-br: Euphausiacea
+    pt_br: Euphausiacea
     ro: Krill
     ru: эвфаузиевые
     sh: Kril
@@ -126,8 +126,8 @@ dv_has_:
     wuu: 磷虾
     yue: 磷蝦
     zh: 磷蝦目
-    zh-cn: 磷虾目
-    zh-tw: 磷蝦目
+    zh_cn: 磷虾目
+    zh_tw: 磷蝦目
 ---
 # [[Krill]] 
 

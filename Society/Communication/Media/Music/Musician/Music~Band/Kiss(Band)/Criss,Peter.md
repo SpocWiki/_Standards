@@ -44,7 +44,7 @@ dv_has_:
     pap: Peter Criss
     pl: Peter Criss
     pt: Peter Criss
-    pt-br: Peter Criss
+    pt_br: Peter Criss
     ru: Питер Крисс
     sk: Peter Criss
     sl: Peter Criss

@@ -53,7 +53,7 @@ dv_has_:
     oc: Microgale
     pl: Tenreczek
     pt: Microgale
-    pt-br: Microgale
+    pt_br: Microgale
     ro: Microgale
     ru: Длиннохвостые тенреки
     sq: Microgale
@@ -63,8 +63,8 @@ dv_has_:
     vo: Microgale
     war: Microgale
     zh: 鼬猬属
-    zh-cn: 鼬猬属
-    zh-hans: 鼬猬属
+    zh_cn: 鼬猬属
+    zh_hans: 鼬猬属
 ---
 # [[Microgale]]
 

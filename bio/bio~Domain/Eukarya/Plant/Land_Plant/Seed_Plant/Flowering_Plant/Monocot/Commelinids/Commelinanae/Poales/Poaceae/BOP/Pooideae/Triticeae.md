@@ -35,17 +35,17 @@ dv_has_:
     ast: Triticeae
     az: Buğdakimilər
     be: Triticeae
-    be-tarask: Triticeae
+    be_tarask: Triticeae
     bg: пшеницови
     ca: Tritícia
     ceb: Triticeae
     cs: Triticeae
     de: Triticeae
-    de-ch: Triticeae
+    de_ch: Triticeae
     el: Triticeae
     en: Triticeae
-    en-ca: Triticeae
-    en-gb: Triticeae
+    en_ca: Triticeae
+    en_gb: Triticeae
     eo: Tritikeoj
     es: Triticeae
     eu: Triticeae
@@ -68,22 +68,22 @@ dv_has_:
     oc: Triticeae
     pl: Triticeae
     pt: Triticeae
-    pt-br: Triticeae
+    pt_br: Triticeae
     ro: Triticeae
     ru: пшеницевые
     sl: Triticeae
     sq: Triticeae
     tt: бодайчалар
-    tt-cyrl: бодайчалар
+    tt_cyrl: бодайчалар
     uk: Пшеничні
     vi: Triticeae
     vo: Triticeae
     war: Triticeae
     zh: 小麦族
-    zh-cn: 小麦族
-    zh-hans: 小麦族
-    zh-hant: 小麥族
-    zh-tw: 小麥族
+    zh_cn: 小麦族
+    zh_hans: 小麦族
+    zh_hant: 小麥族
+    zh_tw: 小麥族
 ---
 # [[Triticeae]] 
 

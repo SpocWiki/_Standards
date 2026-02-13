@@ -182,7 +182,7 @@ dv_has_:
     az: Donald Knut
     azb: دانلد کنوت
     be: Дональд Эрвін Кнут
-    be-tarask: Дональд Кнут
+    be_tarask: Дональд Кнут
     bg: Доналд Кнут
     bn: ডোনাল্ড কানুথ
     br: Donald Knuth
@@ -193,12 +193,12 @@ dv_has_:
     da: Donald E. Knuth
     dag: Donald Knuth
     de: Donald E. Knuth
-    de-ch: Donald E. Knuth
+    de_ch: Donald E. Knuth
     diq: Donald Knuth
     el: Ντόναλντ Κνουθ
     en: Donald Knuth
-    en-ca: Donald Knuth
-    en-gb: Donald Knuth
+    en_ca: Donald Knuth
+    en_gb: Donald Knuth
     eo: Donald Knuth
     es: Donald Knuth
     et: Donald E. Knuth
@@ -245,7 +245,7 @@ dv_has_:
     pap: Donald Knuth
     pl: Donald Knuth
     pt: Donald Knuth
-    pt-br: Donald Knuth
+    pt_br: Donald Knuth
     ro: Donald E. Knuth
     ru: Дональд Эрвин Кнут
     sco: Donald Knuth
@@ -268,9 +268,9 @@ dv_has_:
     yo: Donald Knuth
     yue: 高德納
     zh: 高德纳
-    zh-hans: 高德納
-    zh-hant: 高德纳
-    zh-tw: 高德納
+    zh_hans: 高德納
+    zh_hant: 高德纳
+    zh_tw: 高德納
 ---
 # [[Knuth,Donald]] 
 

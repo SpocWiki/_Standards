@@ -118,7 +118,7 @@ dv_has_:
     az: ədədi analiz
     ba: иҫәпләү математикаһы
     be: лікавы аналіз
-    be-tarask: лікавы аналіз
+    be_tarask: лікавы аналіз
     bg: числен анализ
     bn: সাংখ্যিক বিশ্লেষণ
     bs: numerička analiza
@@ -128,11 +128,11 @@ dv_has_:
     cy: dadansoddiad rhifiadol
     da: numerisk analyse
     de: numerische Mathematik
-    de-ch: Numerische Mathematik
+    de_ch: Numerische Mathematik
     el: αριθμητική ανάλυση
     en: numerical analysis
-    en-ca: numerical analysis
-    en-gb: numerical analysis
+    en_ca: numerical analysis
+    en_gb: numerical analysis
     eo: cifereca analitiko
     es: análisis numérico
     et: arvutusmatemaatika
@@ -177,7 +177,7 @@ dv_has_:
     pms: Anàlisi numérica
     pnb: نمبری انیلیسز
     pt: análise numérica
-    pt-br: análise numérica
+    pt_br: análise numérica
     ro: analiză numerică
     ru: численный анализ
     sc: anàlisi numèrica
@@ -189,7 +189,7 @@ dv_has_:
     sl: numerična matematika
     sq: analiza numerike
     sr: нумеричка анализа
-    sr-ec: нумеричка анализа
+    sr_ec: нумеричка анализа
     su: analisis numeris
     sv: numerisk analys
     sw: uchambuzi namba
@@ -209,7 +209,7 @@ dv_has_:
     yi: נומערישער אנאליז
     yue: 數值分析
     zh: 数值分析
-    zh-hant: 数值分析
+    zh_hant: 数值分析
 ---
 # [[Numerical_Analysis]] 
 

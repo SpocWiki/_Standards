@@ -77,7 +77,7 @@ dv_has_:
     ast: Salú reproductiva
     az: reproduktiv sağlamlıq
     ba: Енси сәләмәтлек
-    be-tarask: рэпрадукцыйнае здароўе
+    be_tarask: рэпрадукцыйнае здароўе
     bn: প্রজনন স্বাস্থ্য
     ca: salut reproductiva
     cs: reprodukční zdraví
@@ -121,7 +121,7 @@ dv_has_:
     sl: reproduktivno zdravje
     sms: šõkknemtiõrvâsvuõtt
     sr: репродуктивно здравље
-    sr-ec: репродуктивно здравље
+    sr_ec: репродуктивно здравље
     sv: reproduktiv hälsa
     sw: afya ya uzazi
     tr: Üreme sağlığı

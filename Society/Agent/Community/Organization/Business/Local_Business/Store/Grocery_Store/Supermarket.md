@@ -91,7 +91,7 @@ dv_has_:
     ast: supermercáu
     az: supermarket
     be: супермаркет
-    be-tarask: супэрмаркет
+    be_tarask: супэрмаркет
     bg: супермаркет
     bn: সুপারমার্কেট
     bs: Supermarket
@@ -121,7 +121,7 @@ dv_has_:
     ia: Supermercato
     id: pasaraya
     ike-cans: ᓂᕿᓂᐅᕕᕐᕕᒃ
-    ike-latn: niqiniuvirvik
+    ike_latn: niqiniuvirvik
     io: Supermerkato
     is: Stórmarkaður
     it: supermercato
@@ -175,12 +175,12 @@ dv_has_:
     yue: 超級市場
     za: Hawciengz Ciugaep
     zh: 超級市場
-    zh-cn: 超级市场
-    zh-hans: 超级市场
-    zh-hant: 超級市場
-    zh-hk: 超級市場
-    zh-sg: 超级市场
-    zh-tw: 超級市場
+    zh_cn: 超级市场
+    zh_hans: 超级市场
+    zh_hant: 超級市場
+    zh_hk: 超級市場
+    zh_sg: 超级市场
+    zh_tw: 超級市場
 ---
 # [[Supermarket]] 
 

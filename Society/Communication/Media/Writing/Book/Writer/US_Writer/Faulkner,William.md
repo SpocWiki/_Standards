@@ -139,7 +139,7 @@ dv_has_:
     azb: ویلیام فاکنر
     bar: William Faulkner
     be: Уільям Катберт Фолкнер
-    be-tarask: Ўільям Фолкнэр
+    be_tarask: Ўільям Фолкнэр
     bg: Уилям Фокнър
     bn: উইলিয়াম ফকনার
     br: William Faulkner
@@ -152,12 +152,12 @@ dv_has_:
     da: William Faulkner
     de: William Faulkner
     de-at: William Faulkner
-    de-ch: William Faulkner
+    de_ch: William Faulkner
     diq: William Faulkner
     el: Γουίλιαμ Φόκνερ
     en: William Faulkner
-    en-ca: William Faulkner
-    en-gb: William Faulkner
+    en_ca: William Faulkner
+    en_gb: William Faulkner
     eo: William Faulkner
     es: William Faulkner
     et: William Faulkner
@@ -214,7 +214,7 @@ dv_has_:
     nap: William Faulkner
     nb: William Faulkner
     nds: William Faulkner
-    nds-nl: William Faulkner
+    nds_nl: William Faulkner
     new: विलियम फल्कनर
     nl: William Faulkner
     nn: William Faulkner
@@ -229,7 +229,7 @@ dv_has_:
     pnb: وِلیئم فاکنر
     ps: ويليم فاکنر
     pt: William Faulkner
-    pt-br: William Faulkner
+    pt_br: William Faulkner
     qu: William Faulkner
     rm: William Faulkner
     ro: William Faulkner
@@ -242,7 +242,7 @@ dv_has_:
     sl: William Faulkner
     sq: William Faulkner
     sr: Вилијам Фокнер
-    sr-el: William Faulkner
+    sr_el: William Faulkner
     sv: William Faulkner
     sw: William Faulkner
     ta: வில்லியம் பால்க்னர்
@@ -265,8 +265,8 @@ dv_has_:
     yo: William Faulkner
     yue: 威廉福克納
     zh: 威廉·福克納
-    zh-cn: 威廉·福克纳
-    zh-hant: 威廉·福克納
+    zh_cn: 威廉·福克纳
+    zh_hant: 威廉·福克納
     zu: William Faulkner
 ---
 # [[Faulkner,William]] 

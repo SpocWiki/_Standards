@@ -233,7 +233,7 @@ this_taxon_is_source_of:
 - '[[_Standards/WikiData/WD~barley_bran,104219028]]'
 dv_has_:
   name_:
-    aeb-arab: شعير
+    aeb_arab: شعير
     af: gars
     alt: Арба
     am: ገብስ
@@ -253,7 +253,7 @@ dv_has_:
     ban: Barli
     bar: Geaschtn
     be: Ячмень звычайны
-    be-tarask: ячмень звычайны
+    be_tarask: ячмень звычайны
     bg: обикновен ечемик
     bjn: Jawawut
     bn: যব
@@ -277,8 +277,8 @@ dv_has_:
     dv: ހިމަ ގޮދަން
     el: Κριθάρι
     en: Hordeum vulgare
-    en-ca: Barley
-    en-gb: barley
+    en_ca: Barley
+    en_gb: barley
     eo: Ordinara hordeo
     es: cebada
     et: harilik oder
@@ -362,7 +362,7 @@ dv_has_:
     pnb: جوں
     ps: وربشې
     pt: cevada
-    pt-br: Cevada
+    pt_br: Cevada
     qu: Siwara
     ro: Orz
     ru: ячмень обыкновенный
@@ -410,9 +410,9 @@ dv_has_:
     yue: 大麥
     za: Mienhhaeux
     zh: 大麦
-    zh-hans: 大麦
-    zh-hant: 大麥
-    zh-tw: 大麥
+    zh_hans: 大麦
+    zh_hant: 大麥
+    zh_tw: 大麥
 ---
 # [[Barley]] 
 

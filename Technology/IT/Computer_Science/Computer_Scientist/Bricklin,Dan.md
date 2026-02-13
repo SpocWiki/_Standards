@@ -64,7 +64,7 @@ dv_has_:
     ar: دان بريكلن
     arz: دان بريكلن
     ast: Dan Bricklin
-    be-tarask: Дэніел Брыклін
+    be_tarask: Дэніел Брыклін
     bn: ড্যান ব্রিকলিন
     ca: Dan Bricklin
     cs: Dan Bricklin
@@ -72,8 +72,8 @@ dv_has_:
     da: Dan Bricklin
     de: Dan Bricklin
     en: Dan Bricklin
-    en-ca: Dan Bricklin
-    en-gb: Dan Bricklin
+    en_ca: Dan Bricklin
+    en_gb: Dan Bricklin
     es: Dan Bricklin
     eu: Dan Bricklin
     fi: Dan Bricklin
@@ -94,7 +94,7 @@ dv_has_:
     oc: Dan Bricklin
     pl: Dan Bricklin
     pt: Dan Bricklin
-    pt-br: Dan Bricklin
+    pt_br: Dan Bricklin
     ru: Даниэль Бриклин
     sl: Dan Bricklin
     sq: Dan Bricklin

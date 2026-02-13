@@ -60,7 +60,7 @@ dv_has_:
     ar: إعلان حرب
     ast: Declaración de guerra
     be: Абвяшчэнне вайны
-    be-tarask: абвяшчэньне вайны
+    be_tarask: абвяшчэньне вайны
     br: Disklêriadur brezel
     ca: declaració de guerra
     ckb: ڕاگەیاندنی شەڕ
@@ -104,12 +104,12 @@ dv_has_:
     uk: оголошення війни
     vi: Tuyên bố chiến tranh
     zh: 宣戰
-    zh-cn: 宣战
-    zh-hans: 宣战
-    zh-hant: 宣戰
-    zh-hk: 宣戰
-    zh-sg: 宣战
-    zh-tw: 宣戰
+    zh_cn: 宣战
+    zh_hans: 宣战
+    zh_hant: 宣戰
+    zh_hk: 宣戰
+    zh_sg: 宣战
+    zh_tw: 宣戰
 ---
 # [[Declaration_of_War]] 
 

@@ -62,7 +62,7 @@ dv_has_:
     ast: Poética
     az: poetika
     be: Паэтыка
-    be-tarask: паэтыка
+    be_tarask: паэтыка
     bg: Поетика
     ca: poètica
     cs: poetika
@@ -107,8 +107,8 @@ dv_has_:
     sk: Poetika
     sl: poetika
     sr: поетика
-    sr-ec: поетика
-    sr-el: poetika
+    sr_ec: поетика
+    sr_el: poetika
     sv: poetik
     uk: поетика
     ur: شعریات

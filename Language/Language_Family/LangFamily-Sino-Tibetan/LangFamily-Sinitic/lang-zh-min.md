@@ -79,7 +79,7 @@ dv_has_:
     ast: Chinu min
     awa: मिन भाषा
     ba: Минь телдәре
-    be-tarask: міньскія мовы
+    be_tarask: міньскія мовы
     bg: Мин
     br: Mineg
     btm: Saro Min
@@ -138,8 +138,8 @@ dv_has_:
     wuu: 闽语
     yue: 閩語
     zh: 闽语
-    zh-hant: 閩語支
-    zh-tw: 閩語支
+    zh_hant: 閩語支
+    zh_tw: 閩語支
 ---
 # [[lang-zh-min]] 
 

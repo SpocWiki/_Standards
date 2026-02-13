@@ -113,7 +113,7 @@ dv_has_:
     az: Fundamental qarşılıqlı təsirlər
     bar: Grundkräft fu da Physik
     be: фундаментальныя ўзаемадзеянні
-    be-tarask: фундамэнтальнае ўзаемадзеяньне
+    be_tarask: фундамэнтальнае ўзаемадзеяньне
     bg: Фундаментални взаимодействия
     bn: মৌলিক বল
     bs: Fundamentalne sile
@@ -124,7 +124,7 @@ dv_has_:
     da: naturkræfter
     de: fundamentale Wechselwirkung
     de-at: fundamentale Wechselwirkung
-    de-ch: fundamentale Wechselwirkung
+    de_ch: fundamentale Wechselwirkung
     el: θεμελιώδης αλληλεπίδραση
     en: fundamental interaction
     eo: fundamenta forto
@@ -158,7 +158,7 @@ dv_has_:
     ml: അടിസ്ഥാനബലങ്ങൾ
     mn: Үндсэн харилцан үйлчлэл
     ms: interaksi asas
-    ms-arab: اينترکسي اساس
+    ms_arab: اينترکسي اساس
     my: အခြေခံ သက်ရောက်မှုကြီး
     nan: Ki-pún-la̍t
     nb: fundamentalkraft
@@ -169,7 +169,7 @@ dv_has_:
     pa: ਮੁੱਢਲਾ ਮੇਲ-ਜੋਲ
     pl: oddziaływania podstawowe
     pt: força fundamental
-    pt-br: força fundamental
+    pt_br: força fundamental
     ro: Interacțiune fundamentală
     ru: фундаментальные взаимодействия
     scn: intirazzioni funnamintali
@@ -178,8 +178,8 @@ dv_has_:
     sk: základná interakcia
     sl: osnovna sila
     sr: основне интеракције
-    sr-ec: основне интеракције
-    sr-el: osnovne interakcije
+    sr_ec: основне интеракције
+    sr_el: osnovne interakcije
     sv: fundamental växelverkan
     ta: அடிப்படை விசைகள்
     te: నాలుగు ప్రాథమిక బలాలు
@@ -187,7 +187,7 @@ dv_has_:
     tl: Pundamental na interaksiyon
     tr: temel kuvvet
     tt: фундаменталь тәэсир итешүләр
-    tt-cyrl: фундаменталь тәэсир итешүләр
+    tt_cyrl: фундаменталь тәэсир итешүләр
     udm: Фундаментальной герӟаськонъёс
     uk: фундаментальні взаємодії
     ur: بنیادی تفاعل
@@ -197,12 +197,12 @@ dv_has_:
     wuu: 基本相互作用
     yue: 基本相互作用
     zh: 基本相互作用
-    zh-cn: 基本相互作用
-    zh-hans: 基本相互作用
-    zh-hant: 基本交互作用
-    zh-hk: 基本交互作用
-    zh-sg: 基本相互作用
-    zh-tw: 基本交互作用
+    zh_cn: 基本相互作用
+    zh_hans: 基本相互作用
+    zh_hant: 基本交互作用
+    zh_hk: 基本交互作用
+    zh_sg: 基本相互作用
+    zh_tw: 基本交互作用
 ---
 # [[Fundamental_Interaction]] 
 

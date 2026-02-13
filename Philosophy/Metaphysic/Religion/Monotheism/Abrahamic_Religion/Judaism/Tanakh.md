@@ -112,7 +112,7 @@ dv_has_:
     azb: تنخ
     bar: Tanach
     be: Танах
-    be-tarask: Танах
+    be_tarask: Танах
     bg: Танах
     bho: तानाख
     bn: হিব্রু বাইবেল
@@ -179,7 +179,7 @@ dv_has_:
     pl: Tanach
     pnb: تنک
     pt: Tanakh
-    pt-br: Tanakh
+    pt_br: Tanakh
     ro: Tanak
     ru: Танах
     rue: Танах
@@ -208,8 +208,8 @@ dv_has_:
     yue: 塔納赫
     zea: Tenach
     zh: 塔納赫
-    zh-hans: 塔纳赫
-    zh-hant: 塔納赫
+    zh_hans: 塔纳赫
+    zh_hant: 塔納赫
 ---
 # [[Tanakh]] 
 

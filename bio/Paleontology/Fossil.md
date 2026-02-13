@@ -125,7 +125,7 @@ dv_has_:
     az: qalıq
     azb: فوسیل
     be: акамянеласці
-    be-tarask: акамянеласьць
+    be_tarask: акамянеласьць
     bg: фосил
     bho: फॉसिल
     blk: ရုက်ခြုံထွာလုံး
@@ -143,7 +143,7 @@ dv_has_:
     de: Fossil
     el: απολίθωμα
     en: fossil
-    en-gb: fossil
+    en_gb: fossil
     eo: fosilio
     es: fósil
     et: kivistis
@@ -182,7 +182,7 @@ dv_has_:
     lt: fosilija
     lv: fosilijas
     lzh: 化石
-    map-bms: fosil
+    map_bms: fosil
     mg: fôsily
     mk: фосил
     ml: ജീവാശ്മം
@@ -238,8 +238,8 @@ dv_has_:
     yi: פאסיל
     yue: 化石
     zh: 化石
-    zh-hans: 恐龙骨骼
-    zh-hant: 化石
+    zh_hans: 恐龙骨骼
+    zh_hant: 化石
     zu: Intshicwa
 ---
 # [[Fossil]] 

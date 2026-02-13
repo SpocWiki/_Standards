@@ -165,7 +165,7 @@ dv_has_:
     ba: фотосинтез
     bcl: Potosintesis
     be: фотасінтэз
-    be-tarask: фотасынтэз
+    be_tarask: фотасынтэз
     bg: фотосинтеза
     bho: प्रकाश संश्लेषण
     bn: সালোকসংশ্লেষণ
@@ -229,7 +229,7 @@ dv_has_:
     kn: ದ್ಯುತಿಸಂಶ್ಲೇಷಣೆ
     ko: 광합성
     ku: fotosentez
-    ku-latn: fotosentez
+    ku_latn: fotosentez
     ky: фотосинтез
     la: photosynthesis
     lez: фотосинтез
@@ -254,7 +254,7 @@ dv_has_:
     nan: kng-ha̍p-sêng
     nb: fotosyntese
     nds: Photosynthees
-    nds-nl: fotosyntese
+    nds_nl: fotosyntese
     ne: प्रकाश संश्लेषण
     new: फोटोसिन्थेसिस
     nl: fotosynthese
@@ -291,7 +291,7 @@ dv_has_:
     so: habka samayska cuntada
     sq: fotosinteza
     sr: фотосинтеза
-    sr-ec: фотосинтеза
+    sr_ec: фотосинтеза
     su: potosintésis
     sv: fotosyntes
     sw: usanisinuru

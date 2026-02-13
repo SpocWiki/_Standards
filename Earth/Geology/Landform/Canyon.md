@@ -123,7 +123,7 @@ dv_has_:
     ast: canga
     az: kanyon
     bcl: Ranggas
-    be-tarask: каньён
+    be_tarask: каньён
     bew: Gawir
     bg: каньони
     bho: कैनियन
@@ -137,7 +137,7 @@ dv_has_:
     de: Schlucht
     el: φαράγγι
     en: canyon
-    en-gb: gorge
+    en_gb: gorge
     eo: kanjono
     es: cañón
     et: kanjon
@@ -183,7 +183,7 @@ dv_has_:
     os: каньон
     pl: przełom rzeki
     pt: canhão
-    pt-br: cânion
+    pt_br: cânion
     ro: Defileu
     ru: каньон
     sah: Каньон
@@ -193,8 +193,8 @@ dv_has_:
     sl: soteska
     sq: kanjon
     sr: кањон
-    sr-ec: јањон
-    sr-el: kanjon
+    sr_ec: јањон
+    sr_el: kanjon
     sv: kanjon
     szy: helun
     ta: செங்குத்துப் பள்ளத்தாக்கு
@@ -211,12 +211,12 @@ dv_has_:
     xmf: კანიონი
     yue: 峽谷
     zh: 峡谷
-    zh-cn: 峡谷
-    zh-hans: 峡谷
-    zh-hant: 峽谷
-    zh-hk: 峽谷
-    zh-sg: 峡谷
-    zh-tw: 峽谷
+    zh_cn: 峡谷
+    zh_hans: 峡谷
+    zh_hant: 峽谷
+    zh_hk: 峽谷
+    zh_sg: 峡谷
+    zh_tw: 峽谷
 ---
 # [[Canyon]] 
 

@@ -42,10 +42,10 @@ dv_has_:
     cs: GlobalFoundries
     da: GlobalFoundries
     de: Globalfoundries
-    de-ch: Globalfoundries
+    de_ch: Globalfoundries
     en: GlobalFoundries
-    en-ca: GlobalFoundries
-    en-gb: GlobalFoundries
+    en_ca: GlobalFoundries
+    en_gb: GlobalFoundries
     es: GlobalFoundries
     fa: گلوبالفوندریز
     fi: GlobalFoundries
@@ -62,13 +62,13 @@ dv_has_:
     ru: GlobalFoundries
     sk: GlobalFoundries
     tt: GlobalFoundries
-    tt-cyrl: GlobalFoundries
+    tt_cyrl: GlobalFoundries
     vec: GlobalFoundries
     wuu: 格罗方德
     zh: 格羅方德
-    zh-hans: 格罗方德
-    zh-hant: 格羅方德
-    zh-hk: 格羅方德
+    zh_hans: 格罗方德
+    zh_hant: 格羅方德
+    zh_hk: 格羅方德
 ---
 # [[GlobalFoundries]] 
 

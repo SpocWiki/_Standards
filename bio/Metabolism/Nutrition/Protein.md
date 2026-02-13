@@ -240,7 +240,7 @@ dv_has_:
     ban: protéin
     bcl: protina
     be: бялок
-    be-tarask: бялок
+    be_tarask: бялок
     bg: протеин
     bho: प्रोटीन
     bjn: parotéin
@@ -332,7 +332,7 @@ dv_has_:
     mn: уураг
     mr: प्रथिने
     ms: protein
-    ms-arab: ڤروتين
+    ms_arab: ڤروتين
     mt: proteina
     my: ပရိုတိန်း
     myv: ашовт
@@ -355,7 +355,7 @@ dv_has_:
     pnb: پروٹین
     ps: پروټين
     pt: proteína
-    pt-br: proteína
+    pt_br: proteína
     qu: prutina
     rki: ပရိုတိန်း
     ro: proteină
@@ -379,8 +379,8 @@ dv_has_:
     so: borotiin
     sq: proteinë
     sr: протеин
-    sr-ec: протеин
-    sr-el: protein
+    sr_ec: протеин
+    sr_el: protein
     stq: oaiwiete
     su: protéin
     sv: protein
@@ -393,7 +393,7 @@ dv_has_:
     tl: protina
     tr: protein
     tt: аксым
-    tt-cyrl: аксым
+    tt_cyrl: аксым
     tyv: белок
     udm: белок
     uk: білок
@@ -411,11 +411,11 @@ dv_has_:
     yi: פראטעין
     yue: 蛋白質
     zh: 蛋白质
-    zh-cn: 蛋白质
-    zh-hans: 蛋白质
-    zh-hant: 蛋白質
-    zh-hk: 蛋白質
-    zh-tw: 蛋白質
+    zh_cn: 蛋白质
+    zh_hans: 蛋白质
+    zh_hant: 蛋白質
+    zh_hk: 蛋白質
+    zh_tw: 蛋白質
     zu: isakhamzimba
 ---
 # [[Protein]] 

@@ -22,7 +22,7 @@ dv_has_:
     ab: Финлиандиа
     ace: Finlandia
     ady: Финланд
-    aeb-arab: فنلندا
+    aeb_arab: فنلندا
     af: Finland
     alt: Финляндия
     am: ፊንላንድ
@@ -50,7 +50,7 @@ dv_has_:
     bbc: Pinlandia
     bcl: Finlandya
     be: Фінляндыя
-    be-tarask: Фінляндыя
+    be_tarask: Фінляндыя
     bew: Pinlan
     bg: Финландия
     bgn: پینلانڈ
@@ -66,7 +66,7 @@ dv_has_:
     bug: Finland
     bxr: Финланд
     ca: Finlàndia
-    cbk-zam: Finlandia
+    cbk_zam: Finlandia
     cdo: Hŭng-làng
     ce: Финлянди
     ceb: Finlandia
@@ -77,7 +77,7 @@ dv_has_:
     co: Finlandia
     cr: ᐃᓇᐣᐟ
     crh: Finlandiya
-    crh-latn: Finlandiya
+    crh_latn: Finlandiya
     cs: Finsko
     csb: Fińskô
     cu: Соумь
@@ -87,7 +87,7 @@ dv_has_:
     dag: Finland
     de: Finnland
     de-at: Finnland
-    de-ch: Finnland
+    de_ch: Finnland
     din: Pinlɛn
     diq: Finlanda
     dsb: Finska
@@ -99,8 +99,8 @@ dv_has_:
     el: Φινλανδία
     eml: Finlàndia
     en: Finland
-    en-ca: Finland
-    en-gb: Finland
+    en_ca: Finland
+    en_gb: Finland
     eo: Finnlando
     es: Finlandia
     et: Soome
@@ -127,7 +127,7 @@ dv_has_:
     gn: Hĩlandia
     gom: फिनलंड
     gom-deva: फिनलॅंड
-    gom-latn: Finland
+    gom_latn: Finland
     gor: Finlandia
     got: "\U00010346\U00010339\U0001033D\U0001033D\U00010330\U0001033B\U00010330\U0001033D\U00010333"
     gpe: Finland
@@ -207,7 +207,7 @@ dv_has_:
     lzh: 芬蘭
     mad: Finlandia
     mai: फिनल्यान्ड
-    map-bms: Finlandia
+    map_bms: Finlandia
     mdf: Суоми
     mg: Finlandy
     mhr: Суоми
@@ -222,7 +222,7 @@ dv_has_:
     mr: फिनलंड
     mrj: Финлянди
     ms: Finland
-    ms-arab: فينلند
+    ms_arab: فينلند
     mt: Finlandja
     mwl: Finlándia
     my: ဖင်လန်နိုင်ငံ
@@ -234,7 +234,7 @@ dv_has_:
     nap: Finlandia
     nb: Finland
     nds: Finnland
-    nds-nl: Finlaand
+    nds_nl: Finlaand
     ne: फिनल्यान्ड
     new: फिनल्यान्ड
     nia: Finlandia
@@ -268,7 +268,7 @@ dv_has_:
     pnt: Φινλανδία
     ps: فينلينډ
     pt: Finlândia
-    pt-br: Finlândia
+    pt_br: Finlândia
     pwn: vinlan
     qu: Phinsuyu
     rm: Finlanda
@@ -309,8 +309,8 @@ dv_has_:
     so: Finland
     sq: Finlanda
     sr: Финска
-    sr-ec: Финска
-    sr-el: Finska
+    sr_ec: Финска
+    sr_el: Finska
     srn: Finland
     ss: IFini
     st: Finland
@@ -326,7 +326,7 @@ dv_has_:
     te: ఫిన్ లాండ్
     tet: Finlándia
     tg: Финланд
-    tg-cyrl: Ҷумҳурии Финланд
+    tg_cyrl: Ҷумҳурии Финланд
     th: ประเทศฟินแลนด์
     ti: የፊንላንድ
     tk: Finlýandiýa
@@ -370,14 +370,14 @@ dv_has_:
     zea: Finland
     zgh: ⴼⵉⵏⵍⴰⵏⴷⴰ
     zh: 芬蘭
-    zh-cn: 芬兰
-    zh-hans: 芬兰
-    zh-hant: 芬蘭
-    zh-hk: 芬蘭
-    zh-mo: 芬蘭
+    zh_cn: 芬兰
+    zh_hans: 芬兰
+    zh_hant: 芬蘭
+    zh_hk: 芬蘭
+    zh_mo: 芬蘭
     zh-my: 芬兰
-    zh-sg: 芬兰
-    zh-tw: 芬蘭
+    zh_sg: 芬兰
+    zh_tw: 芬蘭
     zu: IFinlandi
   url_for_:
     code_repository: https://github.com/SpocWiki/Europe-Finland

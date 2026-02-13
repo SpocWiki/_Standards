@@ -255,7 +255,7 @@ dv_has_:
     bar: zugga
     bcl: asukar
     be: цукар
-    be-tarask: цукар
+    be_tarask: цукар
     bew: gula
     bg: захар
     bho: चीनी
@@ -272,7 +272,7 @@ dv_has_:
     ckb: شەکر
     co: zuccheru
     crh: şeker
-    crh-latn: şeker
+    crh_latn: şeker
     cs: cukr
     csb: cëczer
     cv: сахăр
@@ -282,8 +282,8 @@ dv_has_:
     dsb: cukor
     el: ζάχαρη
     en: sugar
-    en-ca: sugar
-    en-gb: sugar
+    en_ca: sugar
+    en_gb: sugar
     eo: sukero
     es: azúcar
     et: suhkrud
@@ -358,7 +358,7 @@ dv_has_:
     lzh: 糖
     mad: ghulâ
     mai: चिनी
-    map-bms: gula
+    map_bms: gula
     mdf: захар
     mg: siramamy
     min: gulo
@@ -367,7 +367,7 @@ dv_has_:
     mn: элсэн чихэр
     mr: साखर
     ms: gula
-    ms-arab: ݢولا
+    ms_arab: ݢولا
     mt: zokkor
     my: သကြား
     myv: ламбо
@@ -390,7 +390,7 @@ dv_has_:
     pnb: شکر
     ps: بوره
     pt: açúcar
-    pt-br: açúcar
+    pt_br: açúcar
     qu: asukar
     rki: သကြား
     rn: Isukari
@@ -417,8 +417,8 @@ dv_has_:
     so: sonkor
     sq: sheqeri
     sr: шећер
-    sr-ec: шећер
-    sr-el: šećer
+    sr_ec: шећер
+    sr_el: šećer
     srn: sukru
     su: gula
     sv: socker
@@ -433,7 +433,7 @@ dv_has_:
     tly: qənd
     tr: şeker
     tt: шикәр
-    tt-cyrl: шикәр
+    tt_cyrl: шикәр
     tyv: чиъгир
     udm: сакыр
     ug: شېكەر
@@ -454,10 +454,10 @@ dv_has_:
     yue: 糖
     za: dangz
     zh: 糖
-    zh-cn: 糖
-    zh-hans: 糖
-    zh-hant: 糖
-    zh-tw: 糖
+    zh_cn: 糖
+    zh_hans: 糖
+    zh_hant: 糖
+    zh_tw: 糖
     zu: ushukela
 ---
 # [[Sugar]] 

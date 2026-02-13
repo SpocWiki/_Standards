@@ -84,7 +84,7 @@ dv_has_:
     ar: نقطة حرجة
     ast: puntu críticu
     be: крытычны пункт
-    be-tarask: крытычны пункт
+    be_tarask: крытычны пункт
     bg: критична точка
     bn: ক্রান্তিবিন্দু
     bs: kritična temperatura
@@ -112,11 +112,11 @@ dv_has_:
     it: punto critico
     ja: 臨界点
     kk: фазалық өту температурасы
-    kk-arab: فازالىق ٴوتۋ تەمپەراتۋراسى
+    kk_arab: فازالىق ٴوتۋ تەمپەراتۋراسى
     kk-cn: فازالىق ٴوتۋ تەمپەراتۋراسى
-    kk-cyrl: фазалық өту температурасы
+    kk_cyrl: фазалық өту температурасы
     kk-kz: фазалық өту температурасы
-    kk-latn: fazalıq ötw temperatwrası
+    kk_latn: fazalıq ötw temperatwrası
     kk-tr: fazalıq ötw temperatwrası
     kn: ಅಧಿವಾಹಕತೆ
     ko: 임계점
@@ -142,8 +142,8 @@ dv_has_:
     sl: kritična točka
     smn: kriittisâš čuogâstâh
     sr: критична тачка
-    sr-ec: критична тачка
-    sr-el: kritična tačka
+    sr_ec: критична тачка
+    sr_el: kritična tačka
     sv: kritisk punkt
     tg: нуқтаи буҳронӣ
     th: อุณหภูมิวิกฤต
@@ -156,14 +156,14 @@ dv_has_:
     wuu: 临界点
     yue: 臨界點
     zh: 临界点
-    zh-cn: 临界点
-    zh-hans: 临界点
-    zh-hant: 臨界點
-    zh-hk: 臨界點
-    zh-mo: 臨界點
+    zh_cn: 临界点
+    zh_hans: 临界点
+    zh_hant: 臨界點
+    zh_hk: 臨界點
+    zh_mo: 臨界點
     zh-my: 临界点
-    zh-sg: 临界点
-    zh-tw: 臨界點
+    zh_sg: 临界点
+    zh_tw: 臨界點
 ---
 # [[Critical_Point]] 
 

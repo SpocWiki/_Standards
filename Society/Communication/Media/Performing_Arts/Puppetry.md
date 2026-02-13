@@ -104,7 +104,7 @@ dv_has_:
     ast: títeres
     az: Kukla Teatrı
     be: лялечны тэатр
-    be-tarask: лялькавы тэатар
+    be_tarask: лялькавы тэатар
     bg: Куклен театър
     bn: পুতুল নাচ
     ca: titelles
@@ -168,8 +168,8 @@ dv_has_:
     wa: Teyåte di marionetes
     yue: 公仔戲
     zh: 木偶戲
-    zh-hant: 木偶戲
-    zh-tw: 木偶戲
+    zh_hant: 木偶戲
+    zh_tw: 木偶戲
 ---
 # [[Puppetry]] 
 

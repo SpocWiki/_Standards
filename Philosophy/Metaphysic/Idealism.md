@@ -89,7 +89,7 @@ dv_has_:
     az: idealizm
     azb: ایدئالیسم
     be: Ідэалізм
-    be-tarask: ідэалізм
+    be_tarask: ідэалізм
     bg: Идеализъм
     bn: ভাববাদ
     bs: Idealizam

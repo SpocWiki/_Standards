@@ -101,7 +101,7 @@ dv_has_:
     az: Faktorial
     ba: факториал
     be: фактарыял
-    be-tarask: фактарыял
+    be_tarask: фактарыял
     bg: Факториел
     bn: গৌণিক
     bs: Faktorijel
@@ -113,8 +113,8 @@ dv_has_:
     de: Fakultät
     el: Παραγοντικό
     en: factorial
-    en-ca: Factorial
-    en-gb: factorial
+    en_ca: Factorial
+    en_gb: factorial
     eo: faktorialo
     es: factorial
     et: Faktoriaal
@@ -140,11 +140,11 @@ dv_has_:
     jbo: ne'o
     ka: მათემატიკური ფაქტორიალი
     kk: Факториал
-    kk-arab: فاكتورىيال
+    kk_arab: فاكتورىيال
     kk-cn: فاكتورىيال
-    kk-cyrl: Факториал
+    kk_cyrl: Факториал
     kk-kz: Факториал
-    kk-latn: Faktorïal
+    kk_latn: Faktorïal
     kk-tr: Faktorïal
     kn: ಫ್ಯಾಕ್ಟೋರಿಯಲ್
     ko: 계승
@@ -167,7 +167,7 @@ dv_has_:
     pl: silnia
     pms: Fatorial
     pt: fatorial
-    pt-br: fatorial
+    pt_br: fatorial
     ro: factorial
     ru: факториал
     scn: Fatturiali
@@ -177,8 +177,8 @@ dv_has_:
     sl: fakulteta
     sq: Faktoriali
     sr: факторијел
-    sr-ec: Факторијел
-    sr-el: Faktorijel
+    sr_ec: Факторијел
+    sr_el: Faktorijel
     sv: fakultet
     ta: தொடர் பெருக்கம்
     th: แฟกทอเรียล
@@ -191,12 +191,12 @@ dv_has_:
     wuu: 阶乘
     yue: 階乘
     zh: 階乘
-    zh-cn: 阶乘
-    zh-hans: 阶乘
-    zh-hant: 階乘
-    zh-hk: 階乘
-    zh-sg: 阶乘
-    zh-tw: 階乘
+    zh_cn: 阶乘
+    zh_hans: 阶乘
+    zh_hant: 階乘
+    zh_hk: 階乘
+    zh_sg: 阶乘
+    zh_tw: 階乘
 ---
 # [[Factorial]] 
 

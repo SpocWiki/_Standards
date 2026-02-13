@@ -87,7 +87,7 @@ dv_has_:
     az: mexaniki emal
     ba: металдарҙы эшкәртеү
     be: металаапрацоўка
-    be-tarask: мэталаапрацоўка
+    be_tarask: мэталаапрацоўка
     bg: металообработка
     ca: treball dels metalls
     cs: kovodělnictví
@@ -122,14 +122,14 @@ dv_has_:
     nn: metallsløyd
     pl: obróbka metali
     pt: indústria metalomecânica
-    pt-br: indústria metal-mecânica
+    pt_br: indústria metal-mecânica
     ro: prelucrarea metalelor
     ru: металлообработка
     sh: obrada metala
     sl: kovinarstvo
     sr: металургија
-    sr-ec: металургија
-    sr-el: metalurgija
+    sr_ec: металургија
+    sr_el: metalurgija
     sv: metallbearbetning
     te: లోహక్రియ
     th: การแปรรูปโลหะ
@@ -139,10 +139,10 @@ dv_has_:
     vi: Gia công cơ khí
     yue: 金工
     zh: 金属加工
-    zh-cn: 金属加工
-    zh-hans: 冶金工程
-    zh-hant: 冶金工程
-    zh-hk: 冶金工程
+    zh_cn: 金属加工
+    zh_hans: 冶金工程
+    zh_hant: 冶金工程
+    zh_hk: 冶金工程
 ---
 # [[Metalworking]] 
 

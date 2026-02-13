@@ -56,7 +56,7 @@ dv_has_:
     ar: مكبس
     ast: prensa mecánica
     az: Pressləmə
-    be-tarask: прэс
+    be_tarask: прэс
     bg: Преса
     ca: premsa mecànica
     cs: lis

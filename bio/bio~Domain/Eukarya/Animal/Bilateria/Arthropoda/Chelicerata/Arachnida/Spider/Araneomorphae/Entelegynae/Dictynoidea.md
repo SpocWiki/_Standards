@@ -18,8 +18,8 @@ dv_has_:
     ceb: Dictynoidea
     de: Dictynoidea
     en: Dictynoidea
-    en-ca: Dictynoidea
-    en-gb: Dictynoidea
+    en_ca: Dictynoidea
+    en_gb: Dictynoidea
     eo: Dictynoidea
     es: Dictynoidea
     eu: Dictynoidea
@@ -38,7 +38,7 @@ dv_has_:
     oc: Dictynoidea
     pl: Dictynoidea
     pt: Dictynoidea
-    pt-br: Dictynoidea
+    pt_br: Dictynoidea
     ro: Dictynoidea
     ru: Dictynoidea
     sq: Dictynoidea
@@ -48,8 +48,8 @@ dv_has_:
     vo: Dictynoidea
     war: Dictynoidea
     zh: 叶蛛总科
-    zh-cn: 叶蛛总科
-    zh-hans: 叶蛛总科
+    zh_cn: 叶蛛总科
+    zh_hans: 叶蛛总科
 ---
 # [[Dictynoidea]] 
 

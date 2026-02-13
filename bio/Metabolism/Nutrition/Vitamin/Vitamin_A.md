@@ -71,7 +71,7 @@ GitHub_topic: elearning
 dv_has_:
   name_:
     ar: تعلم إلكتروني
-    be-tarask: электроннае навучаньне
+    be_tarask: электроннае навучаньне
     bg: Електронно обучение
     br: kelenn niverel
     ca: aprenentatge virtual
@@ -113,8 +113,8 @@ dv_has_:
     sl: e-učenje
     sq: E-mësimi
     sr: електронско учење
-    sr-ec: Електронско учење
-    sr-el: Elektronsko učenje
+    sr_ec: Електронско учење
+    sr_el: Elektronsko učenje
     sv: E-lärande
     ta: மின் கற்றல்
     th: บทเรียนอิเล็กทรอนิกส์
@@ -125,12 +125,12 @@ dv_has_:
     vi: Giáo dục trực tuyến
     wuu: 在线学习
     zh: 線上學習
-    zh-cn: 在线学习
-    zh-hans: 在线学习
-    zh-hant: 線上學習
-    zh-hk: 線上學習
-    zh-sg: 在线学习
-    zh-tw: 線上學習
+    zh_cn: 在线学习
+    zh_hans: 在线学习
+    zh_hant: 線上學習
+    zh_hk: 線上學習
+    zh_sg: 在线学习
+    zh_tw: 線上學習
 ---
 # [[Vitamin_A]] 
 

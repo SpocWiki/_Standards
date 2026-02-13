@@ -92,7 +92,7 @@ dv_has_:
     az: hevi-metal
     bar: Metal
     be: метал
-    be-tarask: мэтал
+    be_tarask: мэтал
     bg: хевиметъл
     bn: হেভি মেটাল সঙ্গীত
     br: heavy metal
@@ -107,8 +107,8 @@ dv_has_:
     el: χέβι μέταλ
     eml: heavy metal
     en: heavy metal
-    en-ca: heavy metal music
-    en-gb: heavy metal
+    en_ca: heavy metal music
+    en_gb: heavy metal
     en-us: heavy metal
     eo: metalroko
     es: heavy metal
@@ -159,7 +159,7 @@ dv_has_:
     nan: tāng-kim-sio̍k im-ga̍k
     nb: heavy metal
     nds: heavy metal
-    nds-nl: metal
+    nds_nl: metal
     new: हेभी मेटल संगीत
     nl: heavy metal
     nn: heavy metal
@@ -167,7 +167,7 @@ dv_has_:
     pcd: heavy metal
     pl: heavy metal
     pt: heavy metal
-    pt-br: heavy metal
+    pt_br: heavy metal
     qu: heavy metal
     ro: heavy metal
     ru: метал
@@ -198,7 +198,7 @@ dv_has_:
     xmf: მონკა მეტალი
     yue: 重金屬音樂
     zh: 重金属音乐
-    zh-hant: 重金屬音樂
+    zh_hant: 重金屬音樂
 ---
 # [[Heavy_Metal]] 
 

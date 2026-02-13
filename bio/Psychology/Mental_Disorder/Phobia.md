@@ -109,7 +109,7 @@ dv_has_:
     ast: Fobia
     az: fobiya
     bcl: Pobya
-    be-tarask: фобія
+    be_tarask: фобія
     bg: Фобия
     bn: অমূলক ভীতি
     bs: fobija
@@ -147,17 +147,17 @@ dv_has_:
     ja: 恐怖症
     ka: ფობია
     kk: Фобия
-    kk-arab: فوبىييا
+    kk_arab: فوبىييا
     kk-cn: فوبىييا
-    kk-cyrl: Фобия
+    kk_cyrl: Фобия
     kk-kz: Фобия
-    kk-latn: fobïya
+    kk_latn: fobïya
     kk-tr: fobïya
     kn: ಫೋಬಿಯಾ
     ko: 공포 장애
     ku: fobî
-    ku-arab: فۆبی
-    ku-latn: fobî
+    ku_arab: فۆبی
+    ku_latn: fobî
     ky: Фобия
     la: phobia
     lfn: Fobia
@@ -168,7 +168,7 @@ dv_has_:
     ml: അകാരണഭീതി
     mn: Айдас
     ms: fobia
-    ms-arab: فوبيا
+    ms_arab: فوبيا
     my: အကြောက်လွန်ခြင်း
     nb: fobi
     ne: भय
@@ -192,8 +192,8 @@ dv_has_:
     sms: fobia
     sq: fobia
     sr: фобија
-    sr-ec: Фобија
-    sr-el: fobija
+    sr_ec: Фобија
+    sr_el: fobija
     sv: fobi
     szy: kapilpilan
     ta: அச்சக் கோளாறு
@@ -214,12 +214,12 @@ dv_has_:
     yi: פאביע
     yue: 恐懼症
     zh: 恐懼症
-    zh-cn: 恐惧症
-    zh-hans: 恐惧症
-    zh-hant: 恐懼症
-    zh-hk: 恐懼症
-    zh-sg: 畏惧症
-    zh-tw: 恐懼症
+    zh_cn: 恐惧症
+    zh_hans: 恐惧症
+    zh_hant: 恐懼症
+    zh_hk: 恐懼症
+    zh_sg: 畏惧症
+    zh_tw: 恐懼症
 ---
 # [[Phobia]] 
 

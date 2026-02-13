@@ -54,7 +54,7 @@ dv_has_:
     oc: Neobatrachia
     pl: Neobatrachia
     pt: Neobatrachia
-    pt-br: Neobatrachia
+    pt_br: Neobatrachia
     ro: Neobatrachia
     ru: Neobatrachia
     sl: Neobatrachia
@@ -67,12 +67,12 @@ dv_has_:
     vo: Neobatrachia
     war: Neobatrachia
     zh: 新蛙亞目
-    zh-cn: 新蛙亚目
-    zh-hans: 新蛙亚目
-    zh-hant: 新蛙亞目
-    zh-hk: 新蛙亞目
-    zh-sg: 新蛙亚目
-    zh-tw: 新蛙亞目
+    zh_cn: 新蛙亚目
+    zh_hans: 新蛙亚目
+    zh_hant: 新蛙亞目
+    zh_hk: 新蛙亞目
+    zh_sg: 新蛙亚目
+    zh_tw: 新蛙亞目
 ---
 # [[Neobatrachia]]
 

@@ -75,7 +75,7 @@ dv_has_:
     ban: Om
     bcl: Om
     be: Ом
-    be-tarask: ом
+    be_tarask: ом
     bg: Ом
     bho: ॐ
     bn: ওঁ
@@ -84,11 +84,11 @@ dv_has_:
     cs: Óm
     da: Aum
     de: Om
-    de-ch: Om
+    de_ch: Om
     el: Ωμ
     en: om
-    en-ca: Om
-    en-gb: Om
+    en_ca: Om
+    en_gb: Om
     eo: Om
     es: Om
     et: Om (silp)
@@ -130,7 +130,7 @@ dv_has_:
     pa: ਓਮ
     pl: Mantra Om
     pt: Om
-    pt-br: Om
+    pt_br: Om
     ro: Aum
     ru: Ом
     sa: ॐ
@@ -141,8 +141,8 @@ dv_has_:
     sl: Aum
     sq: Om
     sr: Aum
-    sr-ec: Аум
-    sr-el: Aum
+    sr_ec: Аум
+    sr_el: Aum
     sv: Aum
     ta: ஓம்
     te: ఓం
@@ -158,12 +158,12 @@ dv_has_:
     xmf: აუმი
     yue: 唵
     zh: 唵
-    zh-cn: 唵
-    zh-hans: 唵
-    zh-hant: 唵
-    zh-hk: 唵
-    zh-sg: 唵
-    zh-tw: 唵
+    zh_cn: 唵
+    zh_hans: 唵
+    zh_hant: 唵
+    zh_hk: 唵
+    zh_sg: 唵
+    zh_tw: 唵
 ---
 # [[Om]] 
 

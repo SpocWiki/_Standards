@@ -65,7 +65,7 @@ dv_has_:
   name_:
     ace: Pakistan
     ady: Пакистан
-    aeb-arab: پاكستان
+    aeb_arab: پاكستان
     af: Pakistan
     am: ፓኪስታን
     ami: Pakistan
@@ -88,7 +88,7 @@ dv_has_:
     bar: Pakistan
     bcl: Pakistan
     be: Пакістан
-    be-tarask: Пакістан
+    be_tarask: Пакістан
     bew: Pakistan
     bg: Пакистан
     bgn: پاکستان
@@ -105,7 +105,7 @@ dv_has_:
     bug: ᨄᨀᨗᨔᨗᨈ
     bxr: Пакистан
     ca: Pakistan
-    cbk-zam: Pakistan
+    cbk_zam: Pakistan
     cdo: Pakistan
     ce: Пакистан
     ceb: Pakistan
@@ -113,7 +113,7 @@ dv_has_:
     chr: ᏆᎩᏍᏖᏂ
     ckb: پاکستان
     crh: Pakistan
-    crh-latn: Pakistan
+    crh_latn: Pakistan
     crh-ro: Pakîstan
     cs: Pákistán
     csb: Pakistan
@@ -124,7 +124,7 @@ dv_has_:
     dag: Pakistan
     de: Pakistan
     de-at: Pakistan
-    de-ch: Pakistan
+    de_ch: Pakistan
     diq: Pakıstan
     dsb: Pakistan
     dtp: Pakistan
@@ -133,8 +133,8 @@ dv_has_:
     dz: པཱ་ཀིསི་ཐན།
     el: Πακιστάν
     en: Pakistan
-    en-ca: Pakistan
-    en-gb: Pakistan
+    en_ca: Pakistan
+    en_gb: Pakistan
     eo: Pakistano
     es: Pakistán
     et: Pakistan
@@ -158,7 +158,7 @@ dv_has_:
     gn: Pakistán
     gom: पाकिस्तान
     gom-deva: पाकिस्तान
-    gom-latn: Pakistan
+    gom_latn: Pakistan
     gor: Pakistan
     gpe: Pakistan
     gsw: Pakistan
@@ -227,7 +227,7 @@ dv_has_:
     lzh: 巴基斯坦
     mad: Pakistan
     mai: पाकिस्तान
-    map-bms: Pakistan
+    map_bms: Pakistan
     mdf: Пакистан
     mg: Pakistan
     mhr: Пакистан
@@ -240,7 +240,7 @@ dv_has_:
     mos: Pakistan
     mr: पाकिस्तान
     ms: Pakistan
-    ms-arab: ڤاکيستن
+    ms_arab: ڤاکيستن
     mt: Pakistan
     mwl: Paquistan
     my: ပါကစ္စတန်နိုင်ငံ
@@ -252,7 +252,7 @@ dv_has_:
     nap: Pakistan
     nb: Pakistan
     nds: Pakistan
-    nds-nl: Pakistan
+    nds_nl: Pakistan
     ne: पाकिस्तान
     new: पाकिस्तान
     nia: Pakistan
@@ -278,7 +278,7 @@ dv_has_:
     pnb: پاکستان
     ps: پاکستان
     pt: Paquistão
-    pt-br: Paquistão
+    pt_br: Paquistão
     qu: Pakistan
     rmy: Pakistan
     ro: Pakistan
@@ -311,8 +311,8 @@ dv_has_:
     so: Bakistaan
     sq: Pakistani
     sr: Пакистан
-    sr-ec: Пакистан
-    sr-el: Pakistan
+    sr_ec: Пакистан
+    sr_el: Pakistan
     srn: Pakistan
     ss: IPhakhistani
     stq: Pakistan
@@ -339,7 +339,7 @@ dv_has_:
     tr: Pakistan
     trv: Pakistan
     tt: Пакьстан
-    tt-cyrl: Пакьстан
+    tt_cyrl: Пакьстан
     tum: Pakistan
     tw: Pakistan
     udm: Пакистан
@@ -366,14 +366,14 @@ dv_has_:
     zea: Pakistan
     zgh: ⴱⴰⴽⵉⵙⵜⴰⵏ
     zh: 巴基斯坦
-    zh-cn: 巴基斯坦
-    zh-hans: 巴基斯坦
-    zh-hant: 巴基斯坦
-    zh-hk: 巴基斯坦
-    zh-mo: 巴基斯坦
+    zh_cn: 巴基斯坦
+    zh_hans: 巴基斯坦
+    zh_hant: 巴基斯坦
+    zh_hk: 巴基斯坦
+    zh_mo: 巴基斯坦
     zh-my: 巴基斯坦
-    zh-sg: 巴基斯坦
-    zh-tw: 巴基斯坦
+    zh_sg: 巴基斯坦
+    zh_tw: 巴基斯坦
     zu: IPakistani
   url_for_:
     code_repository: https://github.com/SpocWiki/Asia-Pakistan

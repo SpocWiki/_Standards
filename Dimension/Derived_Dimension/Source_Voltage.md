@@ -99,7 +99,7 @@ dv_has_:
     ast: fuercia electromotriz
     az: elektrohərəkət qüvvəsi
     be: электрарухальная сіла
-    be-tarask: электраруховая сіла
+    be_tarask: электраруховая сіла
     bg: електродвижеща сила
     bn: তড়িচ্চালক শক্তি
     bs: elektromotorna sila
@@ -155,15 +155,15 @@ dv_has_:
     sl: napajalna napetost
     sq: forca elektromotore
     sr: електромоторна сила
-    sr-ec: електромоторна сила
-    sr-el: elektromotorna sila
+    sr_ec: електромоторна сила
+    sr_el: elektromotorna sila
     sv: elektromotorisk spänning
     ta: மின்னியக்கு விசை
     te: విద్యుచ్ఛాలక బలం
     th: แรงเคลื่อนไฟฟ้า
     tr: elektromotor kuvvet
     tt: электр йөртү көче
-    tt-cyrl: электр йөртү көче
+    tt_cyrl: электр йөртү көче
     uk: електрорушійна сила
     ur: برحرکی قوت
     uz: elektr yurituvchi kuch
@@ -171,12 +171,12 @@ dv_has_:
     wuu: 电动势
     yue: 電動勢
     zh: 電動勢
-    zh-cn: 电动势
-    zh-hans: 电动势
-    zh-hant: 電動勢
-    zh-hk: 電動勢
-    zh-sg: 电动势
-    zh-tw: 電動勢
+    zh_cn: 电动势
+    zh_hans: 电动势
+    zh_hant: 電動勢
+    zh_hk: 電動勢
+    zh_sg: 电动势
+    zh_tw: 電動勢
 ---
 # [[Source_Voltage]] 
 

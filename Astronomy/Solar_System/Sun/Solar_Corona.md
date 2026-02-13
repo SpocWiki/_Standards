@@ -97,7 +97,7 @@ dv_has_:
     azb: گونش تاجی
     bar: Korona
     be: Сонечная карона
-    be-tarask: сонечная карона
+    be_tarask: сонечная карона
     bg: Слънчева корона
     bho: कोरोना
     ca: corona solar
@@ -151,8 +151,8 @@ dv_has_:
     sk: Koróna
     sl: korona
     sr: корона
-    sr-ec: Корона
-    sr-el: Korona
+    sr_ec: Корона
+    sr_el: Korona
     sv: korona
     ta: கொரோனா
     th: โคโรนา
@@ -167,12 +167,12 @@ dv_has_:
     wuu: 日冕
     yue: 日冕
     zh: 日冕
-    zh-cn: 日冕
-    zh-hans: 日冕
-    zh-hant: 冕 (恆星大氣層)
-    zh-hk: 日冕
-    zh-sg: 日冕
-    zh-tw: 冕 (恆星大氣層)
+    zh_cn: 日冕
+    zh_hans: 日冕
+    zh_hant: 冕 (恆星大氣層)
+    zh_hk: 日冕
+    zh_sg: 日冕
+    zh_tw: 冕 (恆星大氣層)
 ---
 # [[Solar_Corona]] 
 

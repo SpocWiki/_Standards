@@ -70,7 +70,7 @@ dv_has_:
     ast: mate
     ba: мате
     be: матэ
-    be-tarask: матэ
+    be_tarask: матэ
     bg: мате
     br: mate
     ca: mate
@@ -117,7 +117,7 @@ dv_has_:
     pa: ਮਾਟੇ
     pl: yerba mate
     pt: chimarrão
-    pt-br: Chimarrão
+    pt_br: Chimarrão
     qu: mati upyana
     ro: mate
     ru: мате
@@ -132,9 +132,9 @@ dv_has_:
     vi: mate
     yue: 瑪黛
     zh: 瑪黛
-    zh-hans: 马黛
-    zh-hant: 瑪黛
-    zh-tw: 瑪黛
+    zh_hans: 马黛
+    zh_hant: 瑪黛
+    zh_tw: 瑪黛
 ---
 # [[Mate(Drink)]] 
 

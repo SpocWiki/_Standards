@@ -84,7 +84,7 @@ dv_has_:
     az: Kino tarixi
     ba: Кинематограф тарихы
     be: гісторыя кіно
-    be-tarask: гісторыя кіно
+    be_tarask: гісторыя кіно
     bn: চলচ্চিত্রের ইতিহাস
     br: Istor ar Sinema
     ca: història del cinema
@@ -113,7 +113,7 @@ dv_has_:
     ja: 映画史
     ko: 영화의 역사
     ku: dîroka sînemageriyê
-    ku-latn: dîroka sînemageriyê
+    ku_latn: dîroka sînemageriyê
     lb: Geschicht vum Film
     lt: kino istorija
     lv: kinovēsture
@@ -136,8 +136,8 @@ dv_has_:
     sl: zgodovina filma
     sq: Historia e kinemasë botërore
     sr: Историја филма
-    sr-ec: Историја филма
-    sr-el: Istorija filma
+    sr_ec: Историја филма
+    sr_el: Istorija filma
     sv: filmens historia
     ta: திரைப்பட வரலாறு
     tr: sinema tarihi
@@ -145,12 +145,12 @@ dv_has_:
     vi: lịch sử điện ảnh
     wuu: 电影历史
     zh: 电影史
-    zh-cn: 电影史
-    zh-hans: 电影史
-    zh-hant: 電影史
-    zh-hk: 電影史
-    zh-sg: 电影史
-    zh-tw: 電影史
+    zh_cn: 电影史
+    zh_hans: 电影史
+    zh_hant: 電影史
+    zh_hk: 電影史
+    zh_sg: 电影史
+    zh_tw: 電影史
 ---
 # [[History_of_Film]] 
 

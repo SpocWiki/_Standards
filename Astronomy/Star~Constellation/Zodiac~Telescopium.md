@@ -93,7 +93,7 @@ dv_has_:
     az: Teleskop
     ba: Телескоп
     be: Тэлескоп
-    be-tarask: Тэлескоп
+    be_tarask: Тэлескоп
     bg: Телескоп
     bn: দূরবীক্ষণ মণ্ডল
     br: Teleskop

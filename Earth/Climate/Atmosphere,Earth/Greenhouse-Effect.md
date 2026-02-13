@@ -137,13 +137,13 @@ dv_has_:
     cy: Effaith tŷ gwydr
     da: drivhuseffekt
     de: Treibhauseffekt
-    de-ch: Treibhauseffekt
+    de_ch: Treibhauseffekt
     diq: Tesirê sera
     dty: हरितगृह प्रभाव
     el: Φαινόμενο του θερμοκηπίου
     en: greenhouse effect
-    en-ca: Greenhouse effect
-    en-gb: greenhouse effect
+    en_ca: Greenhouse effect
+    en_gb: greenhouse effect
     eo: forceja efiko
     es: efecto invernadero
     et: kasvuhooneefekt
@@ -173,7 +173,7 @@ dv_has_:
     kk: Көшетхана эффектісі
     kn: ಹಸಿರುಮನೆ ಪರಿಣಾಮ
     ko: 온실 효과
-    ku-arab: greenhouse efect
+    ku_arab: greenhouse efect
     ky: Парник эффектиси
     la: Effectus thermocepicus
     lb: Zäreneffekt
@@ -186,7 +186,7 @@ dv_has_:
     mn: Хүлэмжийн эффект
     mr: हरितगृह परिणाम
     ms: kesan rumah hijau
-    ms-arab: کسن رومه هيجاو
+    ms_arab: کسن رومه هيجاو
     nan: Un-sek hāu-èng
     nb: drivhuseffekt
     ne: हरितगृह प्रभाव
@@ -197,7 +197,7 @@ dv_has_:
     pl: efekt cieplarniany
     ps: د شنې خونې اغېزه
     pt: efeito de estufa
-    pt-br: efeito estufa
+    pt_br: efeito estufa
     qu: Pacha q'uñichiy
     ro: Efect de seră
     ru: парниковый эффект
@@ -226,9 +226,9 @@ dv_has_:
     wuu: 温室效应
     yue: 溫室效應
     zh: 温室效应
-    zh-cn: 温室效应
-    zh-hk: 溫室效應
-    zh-tw: 溫室效應
+    zh_cn: 温室效应
+    zh_hk: 溫室效應
+    zh_tw: 溫室效應
 ---
 # [[Greenhouse-Effect]] 
 

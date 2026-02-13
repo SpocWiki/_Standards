@@ -128,7 +128,7 @@ dv_has_:
     ba: социаль төркөм
     bcl: grupong sosyal
     be: сацыяльная група
-    be-tarask: сацыяльная група
+    be_tarask: сацыяльная група
     bg: cоциална група
     bn: সামাজিক গোষ্ঠী
     br: strollad sokial
@@ -172,7 +172,7 @@ dv_has_:
     kk: әлеуметтік топ
     kn: ಗುಂಪುಗಳು
     ko: 사회 집단
-    ku-latn: koma civakî
+    ku_latn: koma civakî
     lb: sozial Grupp
     lt: socialinė grupė
     lv: sabiedrības grupa
@@ -190,7 +190,7 @@ dv_has_:
     pl: grupa społeczna
     ps: ټولنيزه ډله
     pt: grupo social
-    pt-br: grupo social
+    pt_br: grupo social
     ro: grup social
     ru: социальная группа
     sat: ᱥᱟᱶᱛᱟ ᱜᱟᱫᱮᱞ
@@ -205,13 +205,13 @@ dv_has_:
     sv: grupp
     te: సామాజిక సమూహం
     tg: гурӯҳи ҷамъиятӣ
-    tg-cyrl: гурӯҳи ҷамъиятӣ
+    tg_cyrl: гурӯҳи ҷамъиятӣ
     th: กลุ่มทางสังคม
     tl: grupong sosyal
     tr: sosyal grup
     tt: җәмгыяви төркем
-    tt-cyrl: җәмгыяви төркем
-    tt-latn: cämğıyäwi törkem
+    tt_cyrl: җәмгыяви төркем
+    tt_latn: cämğıyäwi törkem
     uk: соціальна група
     ur: سماجی گروہ
     uz: Ijtimoiy guruhlar
@@ -222,14 +222,14 @@ dv_has_:
     yo: ẹgbẹ́ àwùjọ
     yue: 社會團體
     zh: 人类社会团体
-    zh-cn: 人类社会团体
-    zh-hans: 人类社会团体
-    zh-hant: 人類社會團體
-    zh-hk: 人類社會團體
-    zh-mo: 人類社會團體
+    zh_cn: 人类社会团体
+    zh_hans: 人类社会团体
+    zh_hant: 人類社會團體
+    zh_hk: 人類社會團體
+    zh_mo: 人類社會團體
     zh-my: 人类社会团体
-    zh-sg: 人类社会团体
-    zh-tw: 人類社會團體
+    zh_sg: 人类社会团体
+    zh_tw: 人類社會團體
 ---
 # [[Human_Social_Group]] 
 

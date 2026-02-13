@@ -85,7 +85,7 @@ dv_has_:
     ast: George Eastman
     az: Corc İstmen
     be: Джордж Істмен
-    be-tarask: Джордж Істман
+    be_tarask: Джордж Істман
     bg: Джордж Истман
     bn: জর্জ ইস্টম্যান
     ca: George Eastman
@@ -126,7 +126,7 @@ dv_has_:
     pa: ਜਾਰਜ ਈਸਟਮੈਨ
     pl: George Eastman
     pt: George Eastman
-    pt-br: George Eastman
+    pt_br: George Eastman
     ro: George Eastman
     ru: Джордж Истмен
     sh: George Eastman
@@ -146,12 +146,12 @@ dv_has_:
     wuu: 乔治·伊士曼
     yue: 喬治·伊士曼
     zh: 喬治·伊士曼
-    zh-cn: 乔治·伊士曼
-    zh-hans: 乔治·伊士曼
-    zh-hant: 喬治·伊士曼
-    zh-hk: 佐治·伊士曼
-    zh-sg: 乔治·伊士曼
-    zh-tw: 喬治·伊士曼
+    zh_cn: 乔治·伊士曼
+    zh_hans: 乔治·伊士曼
+    zh_hant: 喬治·伊士曼
+    zh_hk: 佐治·伊士曼
+    zh_sg: 乔治·伊士曼
+    zh_tw: 喬治·伊士曼
 ---
 # [[Eastman,George]] 
 

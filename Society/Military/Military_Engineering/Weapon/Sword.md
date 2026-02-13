@@ -189,7 +189,7 @@ dv_has_:
     bbc: podang
     bcl: espada
     be: меч
-    be-tarask: меч
+    be_tarask: меч
     bg: меч
     bn: তরবারি
     bo: དཔའ་དམ།
@@ -209,8 +209,8 @@ dv_has_:
     de: Schwert
     el: ξίφος
     en: sword
-    en-ca: Sword
-    en-gb: Sword
+    en_ca: Sword
+    en_gb: Sword
     eo: glavo
     es: espada
     et: mõõk
@@ -292,7 +292,7 @@ dv_has_:
     pnb: تلوار
     ps: توره
     pt: espada
-    pt-br: espada
+    pt_br: espada
     qu: khillaychuki
     ro: sabie
     ru: меч
@@ -313,8 +313,8 @@ dv_has_:
     so: seef
     sq: shpatë
     sr: мач
-    sr-ec: мач
-    sr-el: mač
+    sr_ec: мач
+    sr_el: mač
     stq: Swäid
     su: pedang
     sv: svärd
@@ -343,8 +343,8 @@ dv_has_:
     yi: שווערד
     yue: 刀劍
     zh: 刀劍
-    zh-cn: 刀剑
-    zh-hant: 刀劍
+    zh_cn: 刀剑
+    zh_hant: 刀劍
 ---
 # [[Sword]] 
 

@@ -140,7 +140,7 @@ dv_has_:
     az: Qılıncoynatma
     ba: фехтование
     be: фехтаванне
-    be-tarask: фэхтаваньне
+    be_tarask: фэхтаваньне
     bg: Фехтовка
     bjn: Turai padang
     bo: གྲི་རྩེད།
@@ -154,7 +154,7 @@ dv_has_:
     de: Fechten
     el: ξιφασκία
     en: fencing
-    en-gb: fencing
+    en_gb: fencing
     eo: skermado
     es: esgrima
     et: vehklemine
@@ -209,7 +209,7 @@ dv_has_:
     pap-aw: esgrima
     pl: szermierka
     pt: esgrima
-    pt-br: esgrima
+    pt_br: esgrima
     rm: Scrima
     ro: scrimă
     ru: фехтование
@@ -221,7 +221,7 @@ dv_has_:
     sl: sabljanje
     smn: miähástâllâm
     sr: мачевање
-    sr-ec: мачевање
+    sr_ec: мачевање
     su: Anggar
     sv: fäktning
     ta: வாள்வீச்சு
@@ -232,7 +232,7 @@ dv_has_:
     tly: Ǧylynčlovne
     tr: Eskrim
     tt: фехтование
-    tt-cyrl: кылычбазлык
+    tt_cyrl: кылычбазлык
     uk: фехтування
     ur: شمشیر بازی
     uz: Qilichbozlik
@@ -244,14 +244,14 @@ dv_has_:
     wuu: 击剑
     yue: 劍擊
     zh: 击剑
-    zh-cn: 击剑
-    zh-hans: 击剑
-    zh-hant: 擊劍
-    zh-hk: 劍擊
-    zh-mo: 劍擊
+    zh_cn: 击剑
+    zh_hans: 击剑
+    zh_hant: 擊劍
+    zh_hk: 劍擊
+    zh_mo: 劍擊
     zh-my: 击剑
-    zh-sg: 击剑
-    zh-tw: 擊劍
+    zh_sg: 击剑
+    zh_tw: 擊劍
 ---
 # [[Fencing]] 🤺 
 

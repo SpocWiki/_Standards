@@ -163,7 +163,7 @@ dv_has_:
     ast: rede d'ordenadores
     az: kompüter şəbəkəsi
     be: камп'ютарная сетка
-    be-tarask: кампутарная сетка
+    be_tarask: кампутарная сетка
     bg: компютърна мрежа
     bho: कंप्यूटर नेटवर्क
     bn: কম্পিউটার নেটওয়ার্ক
@@ -221,7 +221,7 @@ dv_has_:
     mn: компьютерийн сүлжээ
     mr: कॉम्प्यूटर नेटवर्क
     ms: rangkaian komputer
-    ms-arab: رڠکاين کومڤوتر
+    ms_arab: رڠکاين کومڤوتر
     mwl: rede de cumputadores
     my: ကွန်ပျူတာ ကွန်ယက်
     myv: ловиця сёксть
@@ -239,7 +239,7 @@ dv_has_:
     pnb: کمپیوٹر نیٹ ورک
     ps: کمپيوټر نيټورک
     pt: rede de computadores
-    pt-br: rede de computadores
+    pt_br: rede de computadores
     qu: antañiqiq llika
     ro: rețea de calculatoare
     ru: компьютерная сеть
@@ -261,8 +261,8 @@ dv_has_:
     tl: network ng kompyuter
     tr: bilgisayar ağı
     tt: компьютер челтәре
-    tt-cyrl: компьютер челтәре
-    tt-latn: komp'yüter çeltäre
+    tt_cyrl: компьютер челтәре
+    tt_latn: komp'yüter çeltäre
     tum: mpilingizgoli
     tw: kɔmputa so nkitahodie
     uk: комп'ютерна мережа
@@ -275,8 +275,8 @@ dv_has_:
     yi: קאמפיוטער נעצווערק
     yue: 電腦網絡
     zh: 計算機網絡
-    zh-hant: 電腦網路
-    zh-tw: 電腦網路
+    zh_hant: 電腦網路
+    zh_tw: 電腦網路
     zu: uXhoxho lwesiCikizi
 ---
 # [[Computer_Network]] 

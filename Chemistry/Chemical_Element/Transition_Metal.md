@@ -135,7 +135,7 @@ dv_has_:
     az: Keçid metallar
     ban: Logam transisi
     be: пераходны метал
-    be-tarask: пераходны мэтал
+    be_tarask: пераходны мэтал
     bg: Преходни метали
     bn: অবস্থান্তর ধাতু
     bs: prelazni metal
@@ -190,7 +190,7 @@ dv_has_:
     ml: സംക്രമണ ലോഹം
     mn: Шилжилтийн металл
     ms: logam peralihan
-    ms-arab: لوݢم ڤراليهن
+    ms_arab: لوݢم ڤراليهن
     my: Transition metal
     nan: Kòe-tō͘ kim-sio̍k
     nb: innskuddsmetall
@@ -211,7 +211,7 @@ dv_has_:
     sn: Nhangande Dzakadarikira
     so: Transitional Metal
     sr: прелазни метал
-    sr-ec: прелазни метал
+    sr_ec: прелазни метал
     sv: övergångsmetall
     sw: Metali ya mpito
     ta: தாண்டல் உலோகங்கள்

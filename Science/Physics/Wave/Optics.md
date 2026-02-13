@@ -111,7 +111,7 @@ dv_has_:
     bar: Optik
     bcl: Optika
     be: оптыка
-    be-tarask: оптыка
+    be_tarask: оптыка
     bg: Оптика
     bn: আলোকবিজ্ঞান
     bo: འོད་རིག་པ་
@@ -166,7 +166,7 @@ dv_has_:
     ml: പ്രകാശശാസ്ത്രം
     mn: Оптик
     ms: optik
-    ms-arab: اوڤتيک
+    ms_arab: اوڤتيک
     mwl: Ótica
     my: အလင်းဗေဒ
     nb: optikk
@@ -181,7 +181,7 @@ dv_has_:
     pms: Òtica
     ps: د نور فزیک
     pt: óptica
-    pt-br: óptica
+    pt_br: óptica
     ro: optică
     ru: оптика
     rue: Оптіка
@@ -224,8 +224,8 @@ dv_has_:
     yue: 光學
     zgh: ⵜⴰⵙⵏⵉⵥⵕⵉ
     zh: 光学
-    zh-cn: 光学
-    zh-hans: 光学
+    zh_cn: 光学
+    zh_hans: 光学
     zu: Ezomkhanyizo
 ---
 # [[Optics]] 

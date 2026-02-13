@@ -55,7 +55,7 @@ dv_has_:
     ar: تذرية
     ast: Peñerada
     bcl: Pagtahop
-    be-tarask: веяньне
+    be_tarask: веяньне
     bg: отвяване
     ca: garbell
     ckb: بەبادان
@@ -83,7 +83,7 @@ dv_has_:
     nn: drøfting
     pl: wianie zboża
     pt: peneirar
-    pt-br: peneirar
+    pt_br: peneirar
     ru: веяние
     scn: Criveddu
     sd: ڇڄ

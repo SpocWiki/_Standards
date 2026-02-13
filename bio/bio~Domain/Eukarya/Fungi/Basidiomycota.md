@@ -64,7 +64,7 @@ dv_has_:
     ba: Basidiomycota
     bar: Basidiomycota
     be: базідыяльныя грыбы
-    be-tarask: базідыяльныя грыбы
+    be_tarask: базідыяльныя грыбы
     bg: базидиеви гъби
     br: Basidiomycota
     bs: Basidiomycota
@@ -76,11 +76,11 @@ dv_has_:
     da: Basidiesvampe
     de: Ständerpilze
     de-at: Basidiomycota
-    de-ch: Basidiomycota
+    de_ch: Basidiomycota
     el: Βασιδιομύκητες
     en: Basidiomycota
-    en-ca: Basidiomycota
-    en-gb: Basidiomycota
+    en_ca: Basidiomycota
+    en_gb: Basidiomycota
     eo: Bazidiomikotoj
     es: Basidiomycota
     et: kandseened
@@ -110,11 +110,11 @@ dv_has_:
     ka: ბაზიდიუმიანი სოკოები
     kg: Basidiomycota
     kk: Базидиомицеттер
-    kk-arab: بازىيدىيومىيتسەتتەر
+    kk_arab: بازىيدىيومىيتسەتتەر
     kk-cn: بازىيدىيومىيتسەتتەر
-    kk-cyrl: Базидиомицеттер
+    kk_cyrl: Базидиомицеттер
     kk-kz: Базидиомицеттер
-    kk-latn: Bazïdïomïcetter
+    kk_latn: Bazïdïomïcetter
     kk-tr: Bazïdïomïcetter
     ko: 담자균류
     ku: Bazîdiyomikot
@@ -133,7 +133,7 @@ dv_has_:
     nap: Basidiomycota
     nb: Stilksporesopper
     nds: Basidiomycota
-    nds-nl: Basidiomycota
+    nds_nl: Basidiomycota
     nl: Basidiomycota
     nn: stilksporesoppar
     nrm: Basidiomycota
@@ -144,7 +144,7 @@ dv_has_:
     pms: Basidiomycota
     pnb: کھمبیاں
     pt: Basidiomycota
-    pt-br: Basidiomycota
+    pt_br: Basidiomycota
     qu: Tiksicha k'allampa
     rm: Basidiomycota
     ro: Basidiomycota
@@ -177,12 +177,12 @@ dv_has_:
     wuu: 担子菌门
     yue: 擔子菌門
     zh: 担子菌门
-    zh-cn: 担子菌门
-    zh-hans: 担子菌门
-    zh-hant: 擔子菌門
-    zh-hk: 擔子菌門
-    zh-sg: 担子菌门
-    zh-tw: 擔子菌門
+    zh_cn: 担子菌门
+    zh_hans: 担子菌门
+    zh_hant: 擔子菌門
+    zh_hk: 擔子菌門
+    zh_sg: 担子菌门
+    zh_tw: 擔子菌門
     zu: Basidiomycota
 ---
 # [[Basidiomycota]]

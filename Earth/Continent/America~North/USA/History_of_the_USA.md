@@ -153,7 +153,7 @@ dv_has_:
     az: Amerika Birləşmiş Ştatları tarixi
     ba: АҠШ тарихы
     be: Гісторыя ЗША
-    be-tarask: гісторыя ЗША
+    be_tarask: гісторыя ЗША
     bg: История на САЩ
     bn: মার্কিন যুক্তরাষ্ট্রের ইতিহাস
     bs: Historija Sjedinjenih Američkih Država
@@ -163,7 +163,7 @@ dv_has_:
     cy: Hanes yr Unol Daleithiau
     da: USA's historie
     de: Geschichte der Vereinigten Staaten
-    de-ch: Geschichte der Vereinigten Staaten
+    de_ch: Geschichte der Vereinigten Staaten
     el: Ιστορία των Ηνωμένων Πολιτειών
     en: history of the United States
     en-us: history of the United States
@@ -219,7 +219,7 @@ dv_has_:
     pnb: ریاستہائے متحدہ دی تریخ
     ps: د متحده ايالاتو تاريخچه
     pt: história dos Estados Unidos
-    pt-br: história dos Estados Unidos
+    pt_br: história dos Estados Unidos
     ro: istoria Statelor Unite ale Americii
     ru: история США
     se: Amerihká ovttastuvvan stáhtaid historjá
@@ -231,8 +231,8 @@ dv_has_:
     sms: Ameriikk õhttõõvvâmvaaʹldi historia
     sq: Historia e Shteteve të Bashkuara të Amerikës
     sr: историја Сједињених Америчких Држава
-    sr-ec: Историја Сједињених Америчких Држава
-    sr-el: Istorija Sjedinjenih Američkih Država
+    sr_ec: Историја Сједињених Америчких Држава
+    sr_el: Istorija Sjedinjenih Američkih Država
     sv: USA:s historia
     sw: Historia ya Marekani
     szy: a laylay nu Amilika
@@ -241,7 +241,7 @@ dv_has_:
     tk: Amerikanyň Birleşen Ştatlary XX asyryň 2-nji ýarymynda
     tr: Amerika Birleşik Devletleri tarihi
     tt: АКШ тарихы
-    tt-cyrl: АКШ тарихы
+    tt_cyrl: АКШ тарихы
     uk: історія США
     ur: تاریخ ریاستہائے متحدہ
     uz: Amerika Qoʻshma Shtatlari tarixi
@@ -253,12 +253,12 @@ dv_has_:
     yi: היסטאריע פון די פאראייניגטע שטאַטן
     yue: 美國史
     zh: 美國歷史
-    zh-cn: 美国历史
-    zh-hans: 美国历史
-    zh-hant: 美國歷史
-    zh-hk: 美國歷史
-    zh-sg: 美国历史
-    zh-tw: 美國歷史
+    zh_cn: 美国历史
+    zh_hans: 美国历史
+    zh_hant: 美國歷史
+    zh_hk: 美國歷史
+    zh_sg: 美国历史
+    zh_tw: 美國歷史
 ---
 # [[History_of_the_USA]] 
 

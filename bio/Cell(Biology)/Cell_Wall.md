@@ -93,7 +93,7 @@ dv_has_:
     ast: Paré celular
     az: Hüceyrə qılafı
     be: клетачная сценка
-    be-tarask: вузная сьценка
+    be_tarask: вузная сьценка
     bg: Клетъчна стена
     bn: কোষ প্রাচীর
     bs: Ćelijski zid
@@ -158,8 +158,8 @@ dv_has_:
     smn: sellâseini
     sms: sellseiʹnn
     sr: Ћелијски зид
-    sr-ec: Ћелијски зид
-    sr-el: Ćelijski zid
+    sr_ec: Ћелијски зид
+    sr_el: Ćelijski zid
     su: Pinding sél
     sv: cellvägg
     ta: கலச்சுவர்
@@ -174,12 +174,12 @@ dv_has_:
     wuu: 细胞壁
     yue: 細胞壁
     zh: 細胞壁
-    zh-cn: 细胞壁
-    zh-hans: 细胞壁
-    zh-hant: 細胞壁
-    zh-hk: 細胞壁
-    zh-sg: 细胞壁
-    zh-tw: 細胞壁
+    zh_cn: 细胞壁
+    zh_hans: 细胞壁
+    zh_hant: 細胞壁
+    zh_hk: 細胞壁
+    zh_sg: 细胞壁
+    zh_tw: 細胞壁
 ---
 # [[Cell_Wall]] 
 

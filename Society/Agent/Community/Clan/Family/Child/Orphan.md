@@ -119,7 +119,7 @@ dv_has_:
     ast: orfandá
     az: yetim
     be: сірата
-    be-tarask: сірата
+    be_tarask: сірата
     bg: сирак
     bn: অনাথ
     br: emzivad
@@ -133,7 +133,7 @@ dv_has_:
     de: Waise
     el: ορφανό
     en: orphan
-    en-gb: orphan
+    en_gb: orphan
     eo: orfo
     es: huérfano
     et: vaeslaps
@@ -157,11 +157,11 @@ dv_has_:
     ja: 孤児
     jv: Bocah lola
     kk: жетім
-    kk-arab: جەتىم
+    kk_arab: جەتىم
     kk-cn: جەتىم
-    kk-cyrl: жетім
+    kk_cyrl: жетім
     kk-kz: жетім
-    kk-latn: jetim
+    kk_latn: jetim
     kk-tr: jetim
     kn: ಅನಾಥ
     ko: 고아
@@ -176,14 +176,14 @@ dv_has_:
     ms: anak yatim
     mzn: صغیر
     nb: foreldreløs
-    nds-nl: wees
+    nds_nl: wees
     ne: अनाथ
     nl: wees
     oc: orfanèl
     pa: ਅਨਾਥ
     pl: sierota
     pt: órfão
-    pt-br: órfão
+    pt_br: órfão
     ro: orfan
     ru: сирота
     sah: тулаайах оҕо
@@ -212,12 +212,12 @@ dv_has_:
     yi: יתום
     yue: 孤兒
     zh: 孤兒
-    zh-cn: 孤儿
-    zh-hans: 孤儿
-    zh-hant: 孤兒
-    zh-hk: 孤兒
-    zh-sg: 孤儿
-    zh-tw: 孤兒
+    zh_cn: 孤儿
+    zh_hans: 孤儿
+    zh_hant: 孤兒
+    zh_hk: 孤兒
+    zh_sg: 孤儿
+    zh_tw: 孤兒
 ---
 # [[Orphan]] 
 

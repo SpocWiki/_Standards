@@ -80,7 +80,7 @@ dv_has_:
     az: parabola
     ba: парабола
     be: парабала
-    be-tarask: парабала
+    be_tarask: парабала
     bg: парабола
     bn: পরাবৃত্ত
     bs: parabola
@@ -132,7 +132,7 @@ dv_has_:
     ml: പരാബൊള
     mr: परवलय
     ms: parabola
-    ms-arab: ڤارابولا
+    ms_arab: ڤارابولا
     nb: parabel
     nl: parabool
     nn: parabel
@@ -141,7 +141,7 @@ dv_has_:
     pl: parabola
     pms: paràbola
     pt: parábola
-    pt-br: parábola
+    pt_br: parábola
     ro: parabolă
     ru: парабола
     rue: парабола
@@ -152,7 +152,7 @@ dv_has_:
     sl: parabola
     sq: parabola
     sr: парабола
-    sr-ec: парабола
+    sr_ec: парабола
     sv: parabel
     ta: பரவளைவு
     te: పారబోలా

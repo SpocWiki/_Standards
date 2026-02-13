@@ -104,7 +104,7 @@ dv_has_:
     azb: فوتوالکتریک
     ba: фотоэффект
     be: фотаэфект
-    be-tarask: фотаэфэкт
+    be_tarask: фотаэфэкт
     bg: Фотоелектричен ефект
     bn: আলোক তড়িৎ ক্রিয়া
     br: efed luc'htredanel
@@ -117,8 +117,8 @@ dv_has_:
     de: photoelektrischer Effekt
     el: Φωτοηλεκτρικό φαινόμενο
     en: photoelectric effect
-    en-ca: Photoelectric effect
-    en-gb: photoelectric effect
+    en_ca: Photoelectric effect
+    en_gb: photoelectric effect
     eo: fotoelektra efiko
     es: efecto fotoeléctrico
     et: Fotoefekt
@@ -163,7 +163,7 @@ dv_has_:
     pms: Efet fotoelétrich
     pnb: فوٹو الیکٹرک ایفیکٹ
     pt: efeito fotoelétrico
-    pt-br: Efeito fotoelétrico
+    pt_br: Efeito fotoelétrico
     ro: efect fotoelectric
     ru: фотоэффект
     sd: ڦوٽو اليڪٽرڪ اثر
@@ -172,7 +172,7 @@ dv_has_:
     sl: fotoelektrični pojav
     sq: Fotoefekti
     sr: фотоелектрични ефекат
-    sr-ec: фотоелектрични ефекат
+    sr_ec: фотоелектрични ефекат
     su: Éfék fotolistrik
     sv: fotoelektrisk effekt
     ta: ஒளிமின் விளைவு
@@ -187,8 +187,8 @@ dv_has_:
     wuu: 光电效应
     yue: 光電效應
     zh: 光電效應
-    zh-hant: 光電效應
-    zh-hk: 光電效應
+    zh_hant: 光電效應
+    zh_hk: 光電效應
 ---
 # [[Photoelectric_Effect]] 
 

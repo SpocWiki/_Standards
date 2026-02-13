@@ -127,7 +127,7 @@ dv_has_:
     ast: Maxa
     az: sehr
     be: магія
-    be-tarask: магія
+    be_tarask: магія
     bg: Магия
     bjn: Séhér
     bn: জাদু
@@ -142,8 +142,8 @@ dv_has_:
     de: Magie
     el: μαγεία
     en: magic
-    en-ca: Magic
-    en-gb: magic
+    en_ca: Magic
+    en_gb: magic
     eo: magio
     es: magia
     et: Maagia
@@ -198,7 +198,7 @@ dv_has_:
     pnb: جادو
     ps: جادو
     pt: magia
-    pt-br: Magia
+    pt_br: Magia
     ro: magie
     ru: магия
     sah: Алып
@@ -212,8 +212,8 @@ dv_has_:
     so: Sixir
     sq: Magjia
     sr: магија
-    sr-ec: магија
-    sr-el: magija
+    sr_ec: магија
+    sr_el: magija
     sv: magi
     ta: மந்திரம்
     th: เวทมนตร์
@@ -229,8 +229,8 @@ dv_has_:
     yi: כישוף
     yue: 魔法
     zh: 魔法
-    zh-hans: 魔法
-    zh-tw: 魔法
+    zh_hans: 魔法
+    zh_tw: 魔法
 ---
 # [[Magic(supernatural)]]
 

@@ -86,7 +86,7 @@ dv_has_:
     ar: حظر التجول
     ast: Toque de queda
     az: Komendant saatı
-    be-tarask: камэнданцкая гадзіна
+    be_tarask: камэнданцкая гадзіна
     bg: вечерен час
     bjn: Jam malam
     bn: সান্ধ্য আইন
@@ -155,12 +155,12 @@ dv_has_:
     wuu: 宵禁
     yue: 宵禁
     zh: 宵禁
-    zh-cn: 宵禁
-    zh-hans: 宵禁
-    zh-hant: 宵禁
-    zh-hk: 宵禁
-    zh-sg: 宵禁
-    zh-tw: 宵禁
+    zh_cn: 宵禁
+    zh_hans: 宵禁
+    zh_hant: 宵禁
+    zh_hk: 宵禁
+    zh_sg: 宵禁
+    zh_tw: 宵禁
 ---
 # [[Curfew]] 
 

@@ -57,7 +57,7 @@ dv_has_:
     az: süita
     ba: Сюита
     be: сюіта
-    be-tarask: сюіта
+    be_tarask: сюіта
     bg: Сюита
     ca: suite
     cs: suita
@@ -110,12 +110,12 @@ dv_has_:
     vi: Tổ khúc
     yue: 組曲
     zh: 组曲
-    zh-cn: 组曲
-    zh-hans: 组曲
-    zh-hant: 組曲
-    zh-hk: 組曲
-    zh-sg: 组曲
-    zh-tw: 組曲
+    zh_cn: 组曲
+    zh_hans: 组曲
+    zh_hant: 組曲
+    zh_hk: 組曲
+    zh_sg: 组曲
+    zh_tw: 組曲
 ---
 # [[Suite(Music)]] 
 

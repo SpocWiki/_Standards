@@ -81,7 +81,7 @@ dv_has_:
     ar: إثبات
     az: Sübut (hüquq)
     be: Судовыя доказы
-    be-tarask: довад
+    be_tarask: довад
     bg: Доказателство
     ca: prova
     cs: důkaz
@@ -89,8 +89,8 @@ dv_has_:
     de: Beweis
     el: Αποδεικτικά μέσα
     en: evidence
-    en-ca: Evidence
-    en-gb: evidence
+    en_ca: Evidence
+    en_gb: evidence
     eo: pruvobjekto
     es: prueba
     et: Asitõend
@@ -106,11 +106,11 @@ dv_has_:
     it: prova
     ja: 証拠
     kk: Дәлелдемелер
-    kk-arab: دالەلدەمەلەر
+    kk_arab: دالەلدەمەلەر
     kk-cn: دالەلدەمەلەر
-    kk-cyrl: Дәлелдемелер
+    kk_cyrl: Дәлелдемелер
     kk-kz: Дәлелдемелер
-    kk-latn: Däleldemeler
+    kk_latn: Däleldemeler
     kk-tr: Däleldemeler
     ko: 증거
     lt: įrodymai
@@ -121,14 +121,14 @@ dv_has_:
     nl: bewijs
     pl: dowód
     pt: prova
-    pt-br: Prova jurídica
+    pt_br: Prova jurídica
     ro: Dovadă
     ru: доказательство
     shn: သၢၵ်ႈသေႇၶူဝ်းၶွင်
     sl: dokaz
     sr: доказ
-    sr-ec: Доказ
-    sr-el: Dokaz
+    sr_ec: Доказ
+    sr_el: Dokaz
     su: Bukti
     sv: bevis
     tr: delil
@@ -138,12 +138,12 @@ dv_has_:
     vi: bằng chứng
     wa: Prouve
     zh: 證據
-    zh-cn: 证据
-    zh-hans: 证据
-    zh-hant: 證據
-    zh-hk: 證據
-    zh-sg: 证据
-    zh-tw: 證據
+    zh_cn: 证据
+    zh_hans: 证据
+    zh_hant: 證據
+    zh_hk: 證據
+    zh_sg: 证据
+    zh_tw: 證據
 ---
 # [[Evidence]] 
 

@@ -75,7 +75,7 @@ dv_has_:
     ast: asociación estelar
     az: Ulduz assosiasiyaları
     be: зорная асацыяцыя
-    be-tarask: зорная асацыяцыя
+    be_tarask: зорная асацыяцыя
     bs: Zvjezdana asocijacija
     ca: associació estel·lar
     cs: hvězdná asociace
@@ -110,8 +110,8 @@ dv_has_:
     sk: Hviezdna asociácia
     sl: zvezdna asociacija
     sr: звездано удружење
-    sr-ec: звездано удружење
-    sr-el: zvezdano udruženje
+    sr_ec: звездано удружење
+    sr_el: zvezdano udruženje
     tg: Ассотсиатсияҳои ситорагӣ
     th: ชุมนุมดาว
     tr: Yıldız topluluğu

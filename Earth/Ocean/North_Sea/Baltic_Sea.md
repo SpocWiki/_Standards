@@ -316,7 +316,7 @@ dv_has_:
     ban: Segara Baltik
     bar: Ostsee
     be: Балтыйскае мора
-    be-tarask: Балтыйскае мора
+    be_tarask: Балтыйскае мора
     bew: Laot Baltik
     bg: Балтийско море
     bho: बाल्टिक सागर
@@ -338,8 +338,8 @@ dv_has_:
     dsb: Baltiske mórjo
     el: Βαλτική Θάλασσα
     en: Baltic Sea
-    en-ca: Baltic Sea
-    en-gb: Baltic Sea
+    en_ca: Baltic Sea
+    en_gb: Baltic Sea
     en-us: Baltic Sea
     eo: Balta Maro
     es: Mar Báltico
@@ -424,7 +424,7 @@ dv_has_:
     nan: Baltic Hái
     nb: Østersjøen
     nds: Oostsee
-    nds-nl: Oostzee
+    nds_nl: Oostzee
     ne: बाल्टिक समुद्र
     new: बाल्टिक सागर
     nl: Oostzee
@@ -441,7 +441,7 @@ dv_has_:
     pnb: بالٹک سمندر
     ps: بالتيک سمندر
     pt: Mar Báltico
-    pt-br: Mar Báltico
+    pt_br: Mar Báltico
     qu: Baltiku hatun qucha
     rm: Mar da l'Ost
     ro: Marea Baltică
@@ -466,7 +466,7 @@ dv_has_:
     so: Bada Baldiiqa
     sq: Deti Baltik
     sr: Балтичко море
-    sr-ec: Балтичко море
+    sr_ec: Балтичко море
     stq: Aastsee
     sv: Östersjön
     sw: Bahari ya Baltiki
@@ -495,14 +495,14 @@ dv_has_:
     yi: באלטישער ים
     yue: 波羅的海
     zh: 波罗的海
-    zh-cn: 波罗的海
-    zh-hans: 波罗的海
-    zh-hant: 波羅的海
-    zh-hk: 波羅的海
-    zh-mo: 波羅的海
+    zh_cn: 波罗的海
+    zh_hans: 波罗的海
+    zh_hant: 波羅的海
+    zh_hk: 波羅的海
+    zh_mo: 波羅的海
     zh-my: 波罗的海
-    zh-sg: 波罗的海
-    zh-tw: 波羅的海
+    zh_sg: 波罗的海
+    zh_tw: 波羅的海
 ---
 # [[Baltic_Sea]] 
 

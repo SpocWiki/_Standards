@@ -128,7 +128,7 @@ dv_has_:
     bar: Richard Burton
     bcl: Richard Burton
     be: Рычард Бёртан (акцёр)
-    be-tarask: Рычард Бэртан
+    be_tarask: Рычард Бэртан
     bg: Ричард Бъртън
     bm: Richard Burton
     bn: রিচার্ড বার্টন
@@ -141,11 +141,11 @@ dv_has_:
     da: Richard Burton
     de: Richard Burton
     de-at: Richard Burton
-    de-ch: Richard Burton
+    de_ch: Richard Burton
     el: Ρίτσαρντ Μπάρτον
     en: Richard Burton
-    en-ca: Richard Burton
-    en-gb: Richard Burton
+    en_ca: Richard Burton
+    en_gb: Richard Burton
     eo: Richard Burton
     es: Richard Burton
     et: Richard Burton
@@ -198,7 +198,7 @@ dv_has_:
     nap: Richard Burton
     nb: Richard Burton
     nds: Richard Burton
-    nds-nl: Richard Burton
+    nds_nl: Richard Burton
     nl: Richard Burton
     nn: Richard Burton
     nrm: Richard Burton
@@ -210,7 +210,7 @@ dv_has_:
     pms: Richard Burton
     prg: Richard Burton
     pt: Richard Burton
-    pt-br: Richard Burton
+    pt_br: Richard Burton
     qu: Richard Burton
     rgn: Richard Burton
     rm: Richard Burton
@@ -224,8 +224,8 @@ dv_has_:
     sl: Richard Burton
     sq: Richard Burton
     sr: Ричард Бартон
-    sr-ec: Ричард Бартон
-    sr-el: Ričard Barton
+    sr_ec: Ричард Бартон
+    sr_el: Ričard Barton
     sv: Richard Burton
     sw: Richard Burton
     ta: ரிச்சர்ட் பர்டன்
@@ -246,13 +246,13 @@ dv_has_:
     wuu: 理查德·伯顿
     yue: 李察波頓
     zh: 理查德·伯顿
-    zh-cn: 理查德·伯顿
-    zh-hans: 理查德·伯顿
-    zh-hant: 李察·波頓
-    zh-hk: 李察·波頓
+    zh_cn: 理查德·伯顿
+    zh_hans: 理查德·伯顿
+    zh_hant: 李察·波頓
+    zh_hk: 李察·波頓
     zh-my: 李察·波顿
-    zh-sg: 李察·波顿
-    zh-tw: 李察·波頓
+    zh_sg: 李察·波顿
+    zh_tw: 李察·波頓
     zu: Richard Burton
 ---
 # [[Burton,Richard]] 

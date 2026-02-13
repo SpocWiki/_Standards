@@ -148,7 +148,7 @@ dv_has_:
     az: Berklium
     ban: Berkélium
     be: Берклій
-    be-tarask: Бэркль
+    be_tarask: Бэркль
     bg: берклий
     bho: बर्केलियम
     bn: বার্কিলিয়াম
@@ -164,11 +164,11 @@ dv_has_:
     cy: Berceliwm
     da: berkelium
     de: Berkelium
-    de-ch: Berkelium
+    de_ch: Berkelium
     el: μπερκέλιο
     en: berkelium
-    en-ca: Berkelium
-    en-gb: berkelium
+    en_ca: Berkelium
+    en_gb: berkelium
     eo: berkeliumo
     es: berkelio
     et: berkeelium
@@ -241,7 +241,7 @@ dv_has_:
     pnb: برکیلیم
     ps: بېرکېليوم
     pt: berquélio
-    pt-br: berquélio
+    pt_br: berquélio
     qu: Berkelyu
     ro: berkeliu
     ru: берклий
@@ -255,7 +255,7 @@ dv_has_:
     sl: berkelij
     sq: Berkeliumi
     sr: берклијум
-    sr-ec: Берклијум
+    sr_ec: Берклијум
     stq: Berkelium
     su: Berkelium
     sv: berkelium
@@ -281,14 +281,14 @@ dv_has_:
     yo: Bẹ́rkẹ́líọ̀m
     yue: 鉳
     zh: 锫
-    zh-cn: 锫
-    zh-hans: 锫
-    zh-hant: 鉳
-    zh-hk: 錇
-    zh-mo: 錇
+    zh_cn: 锫
+    zh_hans: 锫
+    zh_hant: 鉳
+    zh_hk: 錇
+    zh_mo: 錇
     zh-my: 锫
-    zh-sg: 锫
-    zh-tw: 鉳
+    zh_sg: 锫
+    zh_tw: 鉳
     zu: ImBeke
   number_of_:
     period: 7

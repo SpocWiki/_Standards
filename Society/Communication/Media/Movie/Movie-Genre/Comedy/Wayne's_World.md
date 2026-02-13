@@ -9,9 +9,9 @@ dv_has_:
   name_:
     en: Wayne's World
     zh: 反斗智多星
-    zh-cn: 反斗智多星
-    zh-hans: 反斗智多星
-    zh-hant: 反鬥智多星
+    zh_cn: 反斗智多星
+    zh_hans: 反斗智多星
+    zh_hant: 反鬥智多星
 ---
 #has_/time_/started :: 1992-06 
 

@@ -89,7 +89,7 @@ dv_has_:
     ast: shivaísmu
     bcl: Shaivismo
     be: Шываізм
-    be-tarask: шываізм
+    be_tarask: шываізм
     bg: Шиваизъм
     bho: शैव मत
     bn: শৈবধর্ম
@@ -159,12 +159,12 @@ dv_has_:
     xmf: შივაიზმი
     yue: 濕婆派
     zh: 濕婆教
-    zh-cn: 湿婆教
-    zh-hans: 湿婆教
-    zh-hant: 濕婆教
-    zh-hk: 濕婆教
-    zh-sg: 湿婆教
-    zh-tw: 濕婆教
+    zh_cn: 湿婆教
+    zh_hans: 湿婆教
+    zh_hant: 濕婆教
+    zh_hk: 濕婆教
+    zh_sg: 湿婆教
+    zh_tw: 濕婆教
 ---
 # [[Shaivism]] 
 

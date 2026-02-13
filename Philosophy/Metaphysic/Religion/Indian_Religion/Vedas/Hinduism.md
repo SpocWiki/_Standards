@@ -243,7 +243,7 @@ dv_has_:
     bbc: Hindu
     bcl: Hinduismo
     be: індуізм
-    be-tarask: індуізм
+    be_tarask: індуізм
     bg: индуизъм
     bho: हिंदू धर्म
     bi: Hinduisim
@@ -269,14 +269,14 @@ dv_has_:
     cy: Hindŵaeth
     da: hinduisme
     de: Hinduismus
-    de-ch: Hinduismus
+    de_ch: Hinduismus
     diq: Hinduizm
     dty: हिन्दू धर्म
     dv: ހިންދޫދީން
     el: Ινδουισμός
     en: Hinduism
-    en-ca: Hinduism
-    en-gb: Hinduism
+    en_ca: Hinduism
+    en_gb: Hinduism
     eo: hinduismo
     es: hinduismo
     et: hinduism
@@ -354,7 +354,7 @@ dv_has_:
     lzh: 印度教
     mad: Aghâma Hinḍu
     mai: हिन्दू धर्म
-    map-bms: Hindu
+    map_bms: Hindu
     mdf: Индуизмась
     mg: Hindoisma
     mhr: Индуизм
@@ -373,7 +373,7 @@ dv_has_:
     nan: Ìn-tō͘-kàu
     nb: hinduisme
     nds: Hinduismus
-    nds-nl: hindoeïsme
+    nds_nl: hindoeïsme
     ne: हिन्दू धर्म
     new: हिन्दू धर्म
     nl: hindoeïsme
@@ -460,14 +460,14 @@ dv_has_:
     zea: Hindoeïsme
     zgh: ⵜⴰⵀⵉⵏⴷⵓⵙⵜ
     zh: 印度教
-    zh-cn: 印度教
-    zh-hans: 印度教
-    zh-hant: 印度教
-    zh-hk: 印度教
-    zh-mo: 印度教
+    zh_cn: 印度教
+    zh_hans: 印度教
+    zh_hant: 印度教
+    zh_hk: 印度教
+    zh_mo: 印度教
     zh-my: 印度教
-    zh-sg: 印度教
-    zh-tw: 印度教
+    zh_sg: 印度教
+    zh_tw: 印度教
     zu: UbuHindu
 ---
 # [[Hinduism]] 

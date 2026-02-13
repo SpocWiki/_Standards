@@ -48,10 +48,10 @@ dv_has_:
     cs: parosničkovití
     cv: Пĕчĕк туталлисем
     de: Engmaulfrösche
-    de-ch: Engmaulfrösche
+    de_ch: Engmaulfrösche
     en: Microhylidae
-    en-ca: Microhylidae
-    en-gb: Microhylidae
+    en_ca: Microhylidae
+    en_gb: Microhylidae
     eo: Mikrohiledoj
     es: Microhylidae
     eu: Microhylidae
@@ -85,7 +85,7 @@ dv_has_:
     oc: Microhylidae
     pl: Wąskopyskowate
     pt: Microhylidae
-    pt-br: Microhylidae
+    pt_br: Microhylidae
     ro: Microhylidae
     ru: Узкороты
     sq: Microhylidae
@@ -100,8 +100,8 @@ dv_has_:
     vo: Microhylidae
     war: Microhylidae
     zh: 姬蛙科
-    zh-cn: 姬蛙科
-    zh-tw: 姬蛙科
+    zh_cn: 姬蛙科
+    zh_tw: 姬蛙科
 ---
 # [[Microhylidae]]
 

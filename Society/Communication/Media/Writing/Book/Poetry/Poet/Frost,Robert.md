@@ -144,7 +144,7 @@ dv_has_:
     az: Robert Li Frost
     azb: رابرت فراست
     be: Роберт Фрост
-    be-tarask: Робэрт Фрост
+    be_tarask: Робэрт Фрост
     bg: Робърт Фрост
     bn: রবার্ট ফ্রস্ট
     bs: Robert Frost
@@ -154,11 +154,11 @@ dv_has_:
     cy: Robert Frost
     da: Robert Frost
     de: Robert Frost
-    de-ch: Robert Frost
+    de_ch: Robert Frost
     el: Ρόμπερτ Φροστ
     en: Robert Frost
-    en-ca: Robert Frost
-    en-gb: Robert Frost
+    en_ca: Robert Frost
+    en_gb: Robert Frost
     eo: Robert Frost
     es: Robert Frost
     et: Robert Frost
@@ -183,8 +183,8 @@ dv_has_:
     ko: 로버트 프로스트
     ks: روبٲرٛٹ فرٛوسٛٹ
     ku: Robert Frost
-    ku-arab: رۆبەرت فرۆست
-    ku-latn: Robert Frost
+    ku_arab: رۆبەرت فرۆست
+    ku_latn: Robert Frost
     la: Robertus Frost
     li: Robert Frost
     lt: Robertas Frostas
@@ -204,7 +204,7 @@ dv_has_:
     pl: Robert Frost
     pnb: رابرٹ فراسٹ
     pt: Robert Frost
-    pt-br: Robert Frost
+    pt_br: Robert Frost
     ro: Robert Frost
     ru: Роберт Фрост
     sco: Robert Frost
@@ -215,14 +215,14 @@ dv_has_:
     sl: Robert Frost
     sq: Robert Frost
     sr: Роберт Фрост
-    sr-ec: Роберт Фрост
-    sr-el: Robert Frost
+    sr_ec: Роберт Фрост
+    sr_el: Robert Frost
     sv: Robert Frost
     sw: Robert Frost
     ta: இராபர்ட் புரொஸ்ட்
     te: రోబెర్ట్ ఫ్రోస్ట్
     tg: Роберт Фрост
-    tg-latn: Robert Frost
+    tg_latn: Robert Frost
     th: รอเบิร์ต ฟรอสต์
     tl: Robert Frost
     tr: Robert Frost
@@ -234,12 +234,12 @@ dv_has_:
     xmf: რობერტ ფროსტი
     yue: 佛洛斯特
     zh: 羅伯特·佛洛斯特
-    zh-cn: 罗伯特·弗罗斯特
-    zh-hans: 罗伯特·弗罗斯特
-    zh-hant: 羅伯特·佛洛斯特
-    zh-hk: 羅拔·佛羅斯特
-    zh-sg: 罗伯特·弗罗斯特
-    zh-tw: 羅伯特·佛洛斯特
+    zh_cn: 罗伯特·弗罗斯特
+    zh_hans: 罗伯特·弗罗斯特
+    zh_hant: 羅伯特·佛洛斯特
+    zh_hk: 羅拔·佛羅斯特
+    zh_sg: 罗伯特·弗罗斯特
+    zh_tw: 羅伯特·佛洛斯特
 ---
 # [[Frost,Robert]] 
 

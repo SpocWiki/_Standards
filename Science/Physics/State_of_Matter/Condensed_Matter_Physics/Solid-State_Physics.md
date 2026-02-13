@@ -80,7 +80,7 @@ dv_has_:
     ast: Física del estáu sólidu
     az: bərk cisimlər fizikası
     be: фізіка цвёрдага цела
-    be-tarask: фізыка цьвёрдага цела
+    be_tarask: фізыка цьвёрдага цела
     bg: Физика на твърдото тяло
     bn: কঠিন অবস্থা পদার্থবিজ্ঞান
     bs: Fizika čvrstog stanja
@@ -111,7 +111,7 @@ dv_has_:
     ja: 固体物理学
     ka: მყარი სხეულის ფიზიკა
     kk: қатты дене физикасы
-    kk-latn: qattı dene fïzïkası
+    kk_latn: qattı dene fïzïkası
     kn: ಘನಸ್ಥಿತಿ ಭೌತವಿಜ್ಞಾನ
     ko: 고체물리학
     ky: катуу абал физикасы
@@ -135,15 +135,15 @@ dv_has_:
     ta: திண்மப்பொருள் இயற்பியல்
     tr: katı hal fiziği
     tt: каты матдә физикасы
-    tt-latn: katy matdä fizikasy
+    tt_latn: katy matdä fizikasy
     uk: фізика твердого тіла
     ur: سالڈ سٹیٹ فزکس
     vi: Vật lý chất rắn
     wuu: 固体物理学
     zh: 固体物理学
-    zh-hans: 固体物理学
-    zh-hant: 固體物理學
-    zh-hk: 固體物理學
+    zh_hans: 固体物理学
+    zh_hant: 固體物理學
+    zh_hk: 固體物理學
 ---
 # [[Solid-State_Physics]] 
 

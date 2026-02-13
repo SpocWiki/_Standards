@@ -296,7 +296,7 @@ dv_has_:
     bar: NATO
     bcl: NATO
     be: НАТА
-    be-tarask: Арганізацыя Паўночнаатлянтычнай дамовы
+    be_tarask: Арганізацыя Паўночнаатлянтычнай дамовы
     bg: НАТО
     bho: नाटो
     bn: ন্যাটো
@@ -305,7 +305,7 @@ dv_has_:
     btm: NATO
     bxr: НАТО
     ca: Organització del Tractat de l'Atlàntic Nord
-    cbk-zam: Organización del Tratado del Atlántico Norte
+    cbk_zam: Organización del Tratado del Atlántico Norte
     cdo: Báe̤k Dâi-să̤-iòng Gŭng-iók Cū-cék
     ce: Къилбаседа Атлантикин бартан организаци
     ceb: NATO
@@ -318,13 +318,13 @@ dv_has_:
     cy: NATO
     da: NATO
     de: NATO
-    de-ch: NATO
+    de_ch: NATO
     diq: NATO
     dtp: Koisaan Pibatasan Koibutan Atlantik
     el: ΝΑΤΟ
     en: NATO
-    en-ca: NATO
-    en-gb: NATO
+    en_ca: NATO
+    en_gb: NATO
     en-us: NATO
     eo: NATO
     es: OTAN
@@ -410,7 +410,7 @@ dv_has_:
     nap: NATO
     nb: NATO
     nds: NATO
-    nds-nl: Noord-Atlantische Verdragsorganisaotie
+    nds_nl: Noord-Atlantische Verdragsorganisaotie
     ne: उत्तरी एट्लान्टिक सन्धि सङ्गठन
     new: नेटो
     nl: Noord-Atlantische Verdragsorganisatie
@@ -430,7 +430,7 @@ dv_has_:
     prg: Zeimanatlāntis Traktātan Ōrganizaciōni
     ps: ناټو
     pt: Organização do Tratado do Atlântico Norte
-    pt-br: Organização do Tratado do Atlântico Norte
+    pt_br: Organização do Tratado do Atlântico Norte
     rm: NATO
     rmy: Organizaciya le Tratatosko le Nordutne Atlantikosko
     ro: NATO
@@ -445,7 +445,7 @@ dv_has_:
     se: NATO
     sgs: NATO
     sh: NATO
-    sh-cyrl: НАТО
+    sh_cyrl: НАТО
     shi: Tamaddast n tmyaqqant n ugafa aṭlanti
     si: නේටෝ
     sk: Organizácia Severoatlantickej zmluvy
@@ -454,8 +454,8 @@ dv_has_:
     so: Gaashaanbuurta NATO
     sq: NATO
     sr: НАТО
-    sr-ec: НАТО
-    sr-el: NATO
+    sr_ec: НАТО
+    sr_el: NATO
     stq: NATO
     sv: Nato
     sw: NATO
@@ -490,14 +490,14 @@ dv_has_:
     zea: NAVO
     zgh: ⵏⴰⵜⵓ
     zh: 北大西洋公約組織
-    zh-cn: 北大西洋公约组织
-    zh-hans: 北大西洋公约组织
-    zh-hant: 北大西洋公約組織
-    zh-hk: 北大西洋公約組織
-    zh-mo: 北大西洋公約組織
+    zh_cn: 北大西洋公约组织
+    zh_hans: 北大西洋公约组织
+    zh_hant: 北大西洋公約組織
+    zh_hk: 北大西洋公約組織
+    zh_mo: 北大西洋公約組織
     zh-my: 北大西洋公约组织
-    zh-sg: 北大西洋公约组织
-    zh-tw: 北大西洋公約組織
+    zh_sg: 北大西洋公约组织
+    zh_tw: 北大西洋公約組織
 ---
 # [[NATO]] 
 

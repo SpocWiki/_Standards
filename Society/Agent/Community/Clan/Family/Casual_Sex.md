@@ -51,7 +51,7 @@ dv_has_:
   name_:
     ar: جنس عرضي
     bcl: Kaswal na pagkitoan
-    be-tarask: адносіны для сэксу
+    be_tarask: адносіны для сэксу
     ca: sexe casual
     cs: nezávazný sex
     de: Casual Sex
@@ -88,9 +88,9 @@ dv_has_:
     vi: tình dục ngẫu hứng
     yue: 隨意性行為
     zh: 休閒性愛
-    zh-cn: 随意性关系
-    zh-hans: 随意性行为
-    zh-hant: 性開放
+    zh_cn: 随意性关系
+    zh_hans: 随意性行为
+    zh_hant: 性開放
 ---
 # [[Casual_Sex]] 
 

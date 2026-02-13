@@ -34,11 +34,11 @@ dv_has_:
     it: corrispondenza biunivoca
     ja: 全単射
     kk: өзара бірмәнді сәйкестік
-    kk-arab: ٴوزارا ٴبىرماندى سايكەستىك
+    kk_arab: ٴوزارا ٴبىرماندى سايكەستىك
     kk-cn: ٴوزارا ٴبىرماندى سايكەستىك
-    kk-cyrl: өзара бірмәнді сәйкестік
+    kk_cyrl: өзара бірмәнді сәйкестік
     kk-kz: өзара бірмәнді сәйкестік
-    kk-latn: özara birmändi säýkestik
+    kk_latn: özara birmändi säýkestik
     kk-tr: özara birmändi säýkestik
     ko: 전단사 함수
     la: functio biiectiva
@@ -52,15 +52,15 @@ dv_has_:
     oc: bijeccion
     pl: funkcja wzajemnie jednoznaczna
     pt: função bijectiva
-    pt-br: bijeção
+    pt_br: bijeção
     ro: corespondență biunivocă
     ru: биекция
     sco: bijection
     sk: bijektívne zobrazenie
     sl: bijektivna preslikava
     sr: бијекција
-    sr-ec: бијекција
-    sr-el: bijekcija
+    sr_ec: бијекција
+    sr_el: bijekcija
     sv: bijektiv funktion
     ta: இருவழிக்கோப்பு
     th: ฟังก์ชันหนึ่งต่อหนึ่งทั่วถึง
@@ -69,12 +69,12 @@ dv_has_:
     vi: song ánh
     yue: 對射函數
     zh: 双射
-    zh-cn: 双射
-    zh-hans: 双射
-    zh-hant: 雙射
-    zh-hk: 對射
-    zh-sg: 双射
-    zh-tw: 對射
+    zh_cn: 双射
+    zh_hans: 双射
+    zh_hant: 雙射
+    zh_hk: 對射
+    zh_sg: 双射
+    zh_tw: 對射
 aliases:
 - bigezziú
 - biiezzioni

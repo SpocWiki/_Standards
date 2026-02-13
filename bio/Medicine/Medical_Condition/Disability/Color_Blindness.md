@@ -134,7 +134,7 @@ dv_has_:
     az: daltonizm
     azb: رنگ کؤرلوغی
     be: дальтанізм
-    be-tarask: дальтанізм
+    be_tarask: дальтанізм
     bg: цветна слепота
     bn: বর্ণান্ধতা
     bs: sljepilo za boje
@@ -148,7 +148,7 @@ dv_has_:
     de: Farbenblindheit
     el: αχρωματοψία
     en: color blindness
-    en-gb: colour blindness
+    en_gb: colour blindness
     en-us: color blindness
     eo: kolorblindeco
     es: daltonismo
@@ -172,17 +172,17 @@ dv_has_:
     ja: 色覚異常
     ka: დალტონიზმი
     kk: дальтонизм
-    kk-arab: دالتونىيزم
+    kk_arab: دالتونىيزم
     kk-cn: دالتونىيزم
-    kk-cyrl: дальтонизм
+    kk_cyrl: дальтонизм
     kk-kz: дальтонизм
-    kk-latn: dalʹtonïzm
+    kk_latn: dalʹtonïzm
     kk-tr: dalʹtonïzm
     ko: 색각 이상
     ks: رنٛگہٕ اۆن
     ku: rengkorî
-    ku-arab: رەنگکۆری
-    ku-latn: rengkorî
+    ku_arab: رەنگکۆری
+    ku_latn: rengkorî
     ky: түс тааныбоо
     lb: Faarweblannheet
     lt: daltonizmas
@@ -211,8 +211,8 @@ dv_has_:
     sl: barvna slepota
     sq: verbëria e ngjyrave
     sr: далтонизам
-    sr-ec: далтонизам
-    sr-el: daltonizam
+    sr_ec: далтонизам
+    sr_el: daltonizam
     su: lolong warna
     sv: defekt färgseende
     sw: upofu wa rangi
@@ -229,12 +229,12 @@ dv_has_:
     wuu: 色盲
     yue: 色盲
     zh: 色盲
-    zh-cn: 色盲
-    zh-hans: 色盲
-    zh-hant: 色盲
-    zh-hk: 色盲
-    zh-sg: 色盲
-    zh-tw: 色盲
+    zh_cn: 色盲
+    zh_hans: 色盲
+    zh_hant: 色盲
+    zh_hk: 色盲
+    zh_sg: 色盲
+    zh_tw: 色盲
 ---
 # [[Color_Blindness]] 
 

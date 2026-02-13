@@ -126,7 +126,7 @@ dv_has_:
     ba: диктатура
     bcl: Diktadura
     be: дыктатура
-    be-tarask: дыктатура
+    be_tarask: дыктатура
     bg: диктатура
     bn: একনায়কতন্ত্র
     br: diktatouriezh
@@ -144,8 +144,8 @@ dv_has_:
     de: Diktatur
     el: δικτατορία
     en: dictatorship
-    en-ca: dictatorship
-    en-gb: dictatorship
+    en_ca: dictatorship
+    en_gb: dictatorship
     eo: diktatoreco
     es: dictadura
     et: diktatuur
@@ -223,7 +223,7 @@ dv_has_:
     pnb: ڈکٹیٹرشپ
     ps: زورواکي
     pt: ditadura
-    pt-br: ditadura
+    pt_br: ditadura
     qu: diktatura
     rm: dictatura
     ro: dictatură
@@ -263,9 +263,9 @@ dv_has_:
     yue: 專政
     za: ciencwng
     zh: 专政政体
-    zh-hans: 独裁政体
-    zh-hant: 獨裁政體
-    zh-tw: 獨裁政體
+    zh_hans: 独裁政体
+    zh_hant: 獨裁政體
+    zh_tw: 獨裁政體
 ---
 # [[Dictatorship]] 
 

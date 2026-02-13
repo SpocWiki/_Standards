@@ -130,7 +130,7 @@ dv_has_:
     ast: Iridaceae
     az: Süsənkimilər
     be: Касачовыя
-    be-tarask: Касачовыя
+    be_tarask: Касачовыя
     bg: перуникови
     bs: Iridaceae
     ca: iridàcies
@@ -167,8 +167,8 @@ dv_has_:
     kk: Құртқашаштар тұқымдасы
     ko: 붓꽃과
     ku: Famîleya sosinan
-    ku-arab: فامیلەیا سۆسنان
-    ku-latn: Famîleya sosinan
+    ku_arab: فامیلەیا سۆسنان
+    ku_latn: Famîleya sosinan
     ky: Чекилдектер тукуму
     la: Iridaceae
     lmo: Iridaceae
@@ -184,7 +184,7 @@ dv_has_:
     pl: Kosaćcowate
     pnb: ست رنگی
     pt: Iridaceae
-    pt-br: Iridaceae
+    pt_br: Iridaceae
     qu: Hamachi yura rikch'aq ayllu
     ro: Iridaceae
     ru: ирисовые
@@ -192,8 +192,8 @@ dv_has_:
     sh: Iridaceae
     sq: Iridaceae
     sr: Ириси
-    sr-ec: Ириси
-    sr-el: Iridaceae
+    sr_ec: Ириси
+    sr_el: Iridaceae
     sv: irisväxter
     te: ఇరిడేసి
     th: วงศ์ว่านแม่ยับ
@@ -206,12 +206,12 @@ dv_has_:
     wuu: 鸢尾科
     yue: 蝴蝶花科
     zh: 鸢尾科
-    zh-cn: 鸢尾科
-    zh-hans: 鸢尾科
-    zh-hant: 鳶尾科
-    zh-hk: 鳶尾科
-    zh-sg: 鸢尾科
-    zh-tw: 鳶尾科
+    zh_cn: 鸢尾科
+    zh_hans: 鸢尾科
+    zh_hant: 鳶尾科
+    zh_hk: 鳶尾科
+    zh_sg: 鸢尾科
+    zh_tw: 鳶尾科
 ---
 # [[Iridaceae]] 
 

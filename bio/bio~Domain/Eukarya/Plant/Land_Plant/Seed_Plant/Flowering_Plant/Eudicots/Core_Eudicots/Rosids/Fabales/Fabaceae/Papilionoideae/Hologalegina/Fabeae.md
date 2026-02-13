@@ -47,13 +47,13 @@ dv_has_:
     oc: Fabeae
     pl: Fabeae
     pt: Fabeae
-    pt-br: Fabeae
+    pt_br: Fabeae
     ro: Fabeae
     ru: бобовые
     sl: Fabeae
     sq: Fabeae
     tt: кузаклылар
-    tt-cyrl: кузаклылар
+    tt_cyrl: кузаклылар
     uk: Fabeae
     vi: Tông Đậu
     vo: Fabeae

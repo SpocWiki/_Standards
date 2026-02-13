@@ -141,7 +141,7 @@ dv_has_:
     az: I Afonso
     azb: بیرینجی آفونسو
     be: Афонсу I Вялікі
-    be-tarask: Афонсу I Вялікі
+    be_tarask: Афонсу I Вялікі
     bg: Афонсу I
     bn: ডোম আফোনসো হেনরিকস
     br: Afonso Iañ Portugal
@@ -188,7 +188,7 @@ dv_has_:
     pap: Afonso I de Portugal
     pl: Alfons I Zdobywca
     pt: Afonso Henriques
-    pt-br: Afonso I de Portugal
+    pt_br: Afonso I de Portugal
     ro: Afonso I al Portugaliei
     ru: Афонсу I Великий
     scn: Fonziu I di Portugallu
@@ -196,7 +196,7 @@ dv_has_:
     sl: Afonso I de Portugal
     sq: Afonso I of Portugal
     sr: Афонсо I Португалски
-    sr-ec: Афонсо I Португалски
+    sr_ec: Афонсо I Португалски
     sv: Alfons I av Portugal
     th: พระเจ้าอาฟองโซที่ 1 แห่งโปรตุเกส
     tr: I. Afonso

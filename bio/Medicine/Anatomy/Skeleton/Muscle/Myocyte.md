@@ -54,7 +54,7 @@ dv_has_:
   name_:
     ar: خلية عضلية
     ast: Fibra muscular
-    be-tarask: міяцыт
+    be_tarask: міяцыт
     bn: পেশীকোষ
     bs: Miocit
     ca: fibra muscular
@@ -63,8 +63,8 @@ dv_has_:
     de: Muskelfaser
     el: Μυικό κύτταρο
     en: myocyte
-    en-ca: Muscle cell
-    en-gb: Muscle cell
+    en_ca: Muscle cell
+    en_gb: Muscle cell
     eo: Muskolĉelo
     es: fibra muscular
     eu: muskulu-zuntz
@@ -82,7 +82,7 @@ dv_has_:
     ja: 筋細胞
     kk: Бұлшықет талшығы
     ko: 근육세포
-    ku-latn: masûlkexane
+    ku_latn: masûlkexane
     la: Myocytus
     ms: Sel otot
     nb: muskelcelle
@@ -91,7 +91,7 @@ dv_has_:
     oc: Miocit
     pl: Miocyt
     pt: miócito
-    pt-br: Fibra muscular
+    pt_br: Fibra muscular
     ro: Miocit
     ru: миоциты
     sk: myocyt

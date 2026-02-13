@@ -309,7 +309,7 @@ dv_has_:
     bar: Wissnschåft
     bcl: siyensya
     be: навука
-    be-tarask: навука
+    be_tarask: навука
     bg: наука
     bho: बिज्ञान
     bi: saens
@@ -332,7 +332,7 @@ dv_has_:
     ckb: زانست
     co: scienza
     crh: ilim
-    crh-latn: ilim
+    crh_latn: ilim
     cs: věda
     csb: ùczba
     cv: ăслăх
@@ -340,7 +340,7 @@ dv_has_:
     da: videnskab
     dag: tabibi
     de: Wissenschaft
-    de-ch: Wissenschaft
+    de_ch: Wissenschaft
     diq: şınasiye
     dsb: wědomnosć
     dtp: Sains
@@ -415,7 +415,7 @@ dv_has_:
     krc: илму
     ks: ساینَس
     ku: zanist
-    ku-latn: zanist
+    ku_latn: zanist
     kw: godhonieth
     ky: илим
     la: scientia
@@ -435,7 +435,7 @@ dv_has_:
     mad: Èlmo
     mag: विज्ञान
     mai: विज्ञान
-    map-bms: ilmu
+    map_bms: ilmu
     mdf: тонадома
     mg: siansa
     mhr: шанче
@@ -448,7 +448,7 @@ dv_has_:
     mnw: သိပ္ပံ
     mr: विज्ञान
     ms: sains
-    ms-arab: ساءينس
+    ms_arab: ساءينس
     mt: xjenza
     mwl: ciéncia
     my: သိပ္ပံပညာ
@@ -457,7 +457,7 @@ dv_has_:
     nan: kho-ha̍k
     nb: vitenskap
     nds: Wetenschop
-    nds-nl: wetenschop
+    nds_nl: wetenschop
     ne: विज्ञान
     new: विज्ञान
     nl: wetenschap
@@ -480,7 +480,7 @@ dv_has_:
     pnb: سائنس
     ps: پوهنه
     pt: ciência
-    pt-br: ciência
+    pt_br: ciência
     qu: hamut'ay
     rki: Category:သိပ္ပံ
     rm: scienza
@@ -513,8 +513,8 @@ dv_has_:
     so: saynis
     sq: shkencë
     sr: наука
-    sr-ec: наука
-    sr-el: nauka
+    sr_ec: наука
+    sr_el: nauka
     srn: skoro
     ss: isayensi
     st: sayense
@@ -526,7 +526,7 @@ dv_has_:
     tcy: ವಿಜ್ಞಾನೊ
     te: విజ్ఞానశాస్త్రం
     tg: илм
-    tg-cyrl: илм
+    tg_cyrl: илм
     th: วิทยาศาสตร์
     tk: ylym
     tl: agham
@@ -536,8 +536,8 @@ dv_has_:
     tr: bilim
     ts: sciences
     tt: фән
-    tt-cyrl: фән
-    tt-latn: fän
+    tt_cyrl: фән
+    tt_latn: fän
     tum: sayansi
     tw: nyansahu
     udm: наука
@@ -564,13 +564,13 @@ dv_has_:
     zea: Weêtenschap
     zgh: ⵜⴰⵎⴰⵙⵙⴰⵏⵜ
     zh: 科學
-    zh-cn: 科学
-    zh-hans: 科学
-    zh-hant: 科學
-    zh-hk: 科學
-    zh-mo: 科学
-    zh-sg: 科学
-    zh-tw: 科學
+    zh_cn: 科学
+    zh_hans: 科学
+    zh_hant: 科學
+    zh_hk: 科學
+    zh_mo: 科学
+    zh_sg: 科学
+    zh_tw: 科學
     zu: isayensi
 ---
 ## #has_/text_of_/abstract 

@@ -168,7 +168,7 @@ dv_has_:
     azb: آنارشیسم
     ba: анархизм
     be: анархізм
-    be-tarask: анархізм
+    be_tarask: анархізм
     bew: keurakanan
     bg: анархизъм
     bn: নৈরাজ্যবাদ
@@ -193,8 +193,8 @@ dv_has_:
     dtp: anarkisme
     el: αναρχισμός
     en: anarchism
-    en-ca: anarchism
-    en-gb: anarchism
+    en_ca: anarchism
+    en_gb: anarchism
     en-us: anarchism
     eo: anarĥiismo
     es: anarquismo
@@ -261,7 +261,7 @@ dv_has_:
     mn: анархизм
     mr: अराजकता
     ms: anarkisme
-    ms-arab: انرکيسمى
+    ms_arab: انرکيسمى
     mt: anarkiżmu
     mwl: anarquismo
     my: မင်းမဲ့စရိုက်
@@ -282,7 +282,7 @@ dv_has_:
     pnb: انارکی
     ps: انارشيزم
     pt: anarquismo
-    pt-br: anarquismo
+    pt_br: anarquismo
     ro: anarhism
     ru: анархизм
     rue: анархізм
@@ -330,10 +330,10 @@ dv_has_:
     yue: 無政府主義
     za: fouzcwngfujcujyi
     zh: 無政府主義
-    zh-cn: 无政府主义
-    zh-hans: 无政府主义
-    zh-hant: 無政府主義
-    zh-tw: 無政府主義
+    zh_cn: 无政府主义
+    zh_hans: 无政府主义
+    zh_hant: 無政府主義
+    zh_tw: 無政府主義
 ---
 # [[Anarchism]] 
 

@@ -63,7 +63,7 @@ dv_has_:
     arz: بروتوكولات حكماء صهيون
     az: Sion müdriklərinin protokolları
     be: Пратаколы сіёнскіх мудрацоў
-    be-tarask: Пратаколы сыёнскіх мудрацоў
+    be_tarask: Пратаколы сыёнскіх мудрацоў
     bg: Протоколи на Ционските мъдреци
     bs: Protokoli sionskih mudraca
     ca: Els protocols dels savis de Sió

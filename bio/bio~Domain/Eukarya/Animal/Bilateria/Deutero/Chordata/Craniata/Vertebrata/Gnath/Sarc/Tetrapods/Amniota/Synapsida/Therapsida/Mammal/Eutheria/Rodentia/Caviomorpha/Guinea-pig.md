@@ -155,7 +155,7 @@ dv_has_:
     azb: دنیز دونوزجوغو
     ban: Marmut
     be: Марская свінка
-    be-tarask: Марская сьвінка
+    be_tarask: Марская сьвінка
     bg: Морско свинче
     bn: গিনিপিগ
     br: Razh-Indez
@@ -168,8 +168,8 @@ dv_has_:
     de: Hausmeerschweinchen
     el: Ινδικό χοιρίδιο
     en: guinea pig
-    en-ca: guinea pig
-    en-gb: guinea pig
+    en_ca: guinea pig
+    en_gb: guinea pig
     eo: kobajo
     es: Cavia porcellus
     et: merisiga
@@ -228,7 +228,7 @@ dv_has_:
     pam: Dagis sungsung
     pl: kawia domowa
     pt: Porquinho-da-índia
-    pt-br: Porquinho-da-índia
+    pt_br: Porquinho-da-índia
     qu: Wasi quwi
     ro: Cobai
     ru: морская свинка
@@ -260,9 +260,9 @@ dv_has_:
     wuu: 豚鼠
     yue: 天竺鼠
     zh: 家养豚鼠
-    zh-cn: 家养豚鼠
-    zh-hant: 豚鼠
-    zh-tw: 家养豚鼠
+    zh_cn: 家养豚鼠
+    zh_hant: 豚鼠
+    zh_tw: 家养豚鼠
 ---
 # [[Guinea-pig]]
 

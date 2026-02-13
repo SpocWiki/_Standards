@@ -77,7 +77,7 @@ dv_has_:
     af: Markovketting
     ar: سلسلة ماركوف
     ast: Cadena de Márkov
-    be-tarask: Маркавы ланцуг
+    be_tarask: Маркавы ланцуг
     bg: Марковска верига
     ca: cadena de Màrkov
     cs: Markovův řetězec
@@ -85,8 +85,8 @@ dv_has_:
     de: Markow-Kette
     el: Αλυσίδα Μαρκόφ
     en: Markov chain
-    en-ca: Markov chain
-    en-gb: Markov chain
+    en_ca: Markov chain
+    en_gb: Markov chain
     en-us: Markov chain
     eo: Markov-a ĉeno
     es: cadena de Markov
@@ -114,7 +114,7 @@ dv_has_:
     nn: Markov-kjede
     pl: łańcuch Markowa
     pt: cadeias de Markov
-    pt-br: cadeia de Markov
+    pt_br: cadeia de Markov
     ro: Lanț Markov
     ru: цепь Маркова
     sh: Markovljev lanac
@@ -130,9 +130,9 @@ dv_has_:
     vi: Xích Markov
     yue: 馬可夫鏈
     zh: 马尔可夫链
-    zh-cn: 马尔可夫链
-    zh-hans: 马尔可夫链
-    zh-hant: 馬爾可夫過程
+    zh_cn: 马尔可夫链
+    zh_hans: 马尔可夫链
+    zh_hant: 馬爾可夫過程
 ---
 # [[Markov_Chain]] 
 

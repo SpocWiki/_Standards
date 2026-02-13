@@ -140,7 +140,7 @@ dv_has_:
     azb: مارقارت مید
     bar: Margaret Mead
     be: Маргарэт Мід
-    be-tarask: Маргарэт Мід
+    be_tarask: Маргарэт Мід
     bg: Маргарет Мид
     bm: Margaret Mead
     bn: মার্গারেট মিড
@@ -153,11 +153,11 @@ dv_has_:
     da: Margaret Mead
     de: Margaret Mead
     de-at: Margaret Mead
-    de-ch: Margaret Mead
+    de_ch: Margaret Mead
     el: Μάργκαρετ Μιντ
     en: Margaret Mead
-    en-ca: Margaret Mead
-    en-gb: Margaret Mead
+    en_ca: Margaret Mead
+    en_gb: Margaret Mead
     eo: Margaret Mead
     es: Margaret Mead
     et: Margaret Mead
@@ -193,11 +193,11 @@ dv_has_:
     kab: Margaret Mead
     kg: Margaret Mead
     kk: Мид Маргарет
-    kk-arab: مىيد مارگارەت
+    kk_arab: مىيد مارگارەت
     kk-cn: مىيد مارگارەت
-    kk-cyrl: Мид Маргарет
+    kk_cyrl: Мид Маргарет
     kk-kz: Мид Маргарет
-    kk-latn: Mïd Margaret
+    kk_latn: Mïd Margaret
     kk-tr: Mïd Margaret
     ko: 마거릿 미드
     la: Margarita Mead
@@ -214,7 +214,7 @@ dv_has_:
     nap: Margaret Mead
     nb: Margaret Mead
     nds: Margaret Mead
-    nds-nl: Margaret Mead
+    nds_nl: Margaret Mead
     nl: Margaret Mead
     nn: Margaret Mead
     nrm: Margaret Mead
@@ -228,7 +228,7 @@ dv_has_:
     prg: Margaret Mead
     ps: مارګارېت مید
     pt: Margaret Mead
-    pt-br: Margaret Mead
+    pt_br: Margaret Mead
     rgn: Margaret Mead
     rm: Margaret Mead
     ro: Margaret Mead
@@ -242,7 +242,7 @@ dv_has_:
     sl: Margaret Mead
     sq: Margaret Mead
     sr: Маргарет Мид
-    sr-ec: Маргарет Мид
+    sr_ec: Маргарет Мид
     sv: Margaret Mead
     sw: Margaret Mead
     ta: மார்கரெட் மீட்
@@ -259,12 +259,12 @@ dv_has_:
     wuu: 玛格丽特·米德
     yue: 瑪格麗特·米德
     zh: 瑪格麗特·米德
-    zh-cn: 玛格丽特·米德
-    zh-hans: 玛格丽特·米德
-    zh-hant: 瑪格麗特·米德
-    zh-hk: 瑪格麗特·米德
-    zh-sg: 玛格丽特·米德
-    zh-tw: 瑪格麗特·米德
+    zh_cn: 玛格丽特·米德
+    zh_hans: 玛格丽特·米德
+    zh_hant: 瑪格麗特·米德
+    zh_hk: 瑪格麗特·米德
+    zh_sg: 玛格丽特·米德
+    zh_tw: 瑪格麗特·米德
     zu: Margaret Mead
 ---
 # [[Mead,Margaret]] 

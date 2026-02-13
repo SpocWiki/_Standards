@@ -44,7 +44,7 @@ dv_has_:
     ar: منك
     arz: قط المانكس
     ast: Gatu Manx
-    be-tarask: мэнкс
+    be_tarask: мэнкс
     ca: gat manx
     cs: manská kočka
     de: Manx

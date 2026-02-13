@@ -135,7 +135,7 @@ dv_has_:
     ba: Нанотехнология
     bar: Nanotechnologie
     be: нанатэхналогія
-    be-tarask: нанатэхналёгіі
+    be_tarask: нанатэхналёгіі
     bg: Нанотехнология
     bn: ন্যানোপ্রযুক্তি
     br: Nanoteknologiezh
@@ -211,7 +211,7 @@ dv_has_:
     pnb: نینوٹیکنالوجی
     ps: نانو تکنالوژي
     pt: nanotecnologia
-    pt-br: nanotecnologia
+    pt_br: nanotecnologia
     ro: nanotehnologie
     ru: нанотехнология
     sd: نينو ٽيڪنالاجي
@@ -253,8 +253,8 @@ dv_has_:
     yue: 納米科技
     zgh: ⵜⴰⵏⴰⵏⵓⵙⵏⵜⵡⵉⵍⵜ
     zh: 纳米技术
-    zh-hant: 納米科技
-    zh-tw: 奈米科技
+    zh_hant: 納米科技
+    zh_tw: 奈米科技
 ---
 # [[Nanotechnology]] 
 

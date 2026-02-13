@@ -180,7 +180,7 @@ dv_has_:
     ban: Oprah Winfrey
     bcl: Oprah Winfrey
     be: Опра Уінфры
-    be-tarask: Опра Ўінфры
+    be_tarask: Опра Ўінфры
     bg: Опра Уинфри
     bn: অপরাহ উইনফ্রে
     br: Oprah Winfrey
@@ -191,13 +191,13 @@ dv_has_:
     cy: Oprah Winfrey
     da: Oprah Winfrey
     de: Oprah Winfrey
-    de-ch: Oprah Winfrey
+    de_ch: Oprah Winfrey
     diq: Oprah Winfrey
     dtp: Oprah Winfrey
     el: Όπρα Γουίνφρεϊ
     en: Oprah Winfrey
-    en-ca: Oprah Winfrey
-    en-gb: Oprah Winfrey
+    en_ca: Oprah Winfrey
+    en_gb: Oprah Winfrey
     eo: Oprah Winfrey
     es: Oprah Winfrey
     et: Oprah Winfrey
@@ -251,7 +251,7 @@ dv_has_:
     pl: Oprah Winfrey
     pnb: اوپرا ونفرے
     pt: Oprah Winfrey
-    pt-br: Oprah Winfrey
+    pt_br: Oprah Winfrey
     ro: Oprah Winfrey
     ru: Опра Уинфри
     sco: Oprah Winfrey
@@ -280,9 +280,9 @@ dv_has_:
     yo: Oprah Winfrey
     yue: 奧花雲費
     zh: 奧花·雲費
-    zh-hk: 奧花·雲費
+    zh_hk: 奧花·雲費
     zh-my: 奥普拉·云菲利
-    zh-sg: 奥普拉·温弗里
+    zh_sg: 奥普拉·温弗里
     zu: U-Oprah Winfrey
 ---
 # [[Winfrey,Oprah]] 

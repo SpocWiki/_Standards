@@ -168,7 +168,7 @@ dv_has_:
     az: Normal paylanma
     azb: نرمال داغیلیم
     be: Нармальнае размеркаванне
-    be-tarask: нармальнае разьмеркаваньне
+    be_tarask: нармальнае разьмеркаваньне
     bg: Нормално разпределение
     bs: Normalna distribucija
     ca: Distribució normal
@@ -201,11 +201,11 @@ dv_has_:
     ja: 正規分布
     ka: ნორმალური განაწილება
     kk: Қалыпты дисперсия
-    kk-arab: قالىپتى دىيسپەرسىييا
+    kk_arab: قالىپتى دىيسپەرسىييا
     kk-cn: قالىپتى دىيسپەرسىييا
-    kk-cyrl: Қалыпты дисперсия
+    kk_cyrl: Қалыпты дисперсия
     kk-kz: Қалыпты дисперсия
-    kk-latn: Qalıptı dïspersïya
+    kk_latn: Qalıptı dïspersïya
     kk-tr: Qalıptı dïspersïya
     ko: 정규 분포
     kw: kevrannans normal
@@ -224,7 +224,7 @@ dv_has_:
     pl: Rozkład normalny
     pms: Distribussion ëd Gauss
     pt: distribuição normal
-    pt-br: Distribuição Normal
+    pt_br: Distribuição Normal
     ro: distribuție normală
     ru: нормальное распределение
     sh: Normalna raspodela
@@ -232,8 +232,8 @@ dv_has_:
     sl: normalna porazdelitev
     sq: Shpërndarja normale
     sr: нормална расподела
-    sr-ec: Нормална расподела
-    sr-el: Normalna raspodela
+    sr_ec: Нормална расподела
+    sr_el: Normalna raspodela
     su: Sebaran normal
     sv: normalfördelning
     ta: இயல்நிலைப் பரவல்
@@ -249,12 +249,12 @@ dv_has_:
     yi: נארמאלע פארטיילונג
     yue: 常態分佈
     zh: 正态分布
-    zh-cn: 正态分布
-    zh-hans: 正态分布
-    zh-hant: 正態分布
-    zh-hk: 正態分佈
-    zh-sg: 正态分布
-    zh-tw: 常態分佈
+    zh_cn: 正态分布
+    zh_hans: 正态分布
+    zh_hant: 正態分布
+    zh_hk: 正態分佈
+    zh_sg: 正态分布
+    zh_tw: 常態分佈
 ---
 #is_/same_as :: [[../../../../WikiData/WD~Normal_distribution,133871|WD~Normal_distribution,133871]]  
 # [[Normal_Distribution]] 

@@ -34,7 +34,7 @@ dv_has_:
     oc: Betoideae
     pl: Betoideae
     pt: Betoideae
-    pt-br: Betoideae
+    pt_br: Betoideae
     ro: Betoideae
     ru: Betoideae
     sq: Betoideae

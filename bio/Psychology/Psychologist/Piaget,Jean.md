@@ -139,7 +139,7 @@ dv_has_:
     azb: ژان پیاژه
     bar: Jean Piaget
     be: Жан Піяжэ
-    be-tarask: Жан Піяжэ
+    be_tarask: Жан Піяжэ
     bg: Жан Пиаже
     bho: जीन पियाजे
     bn: জঁ পিয়াজে
@@ -153,12 +153,12 @@ dv_has_:
     da: Jean Piaget
     de: Jean Piaget
     de-at: Jean Piaget
-    de-ch: Jean Piaget
+    de_ch: Jean Piaget
     diq: Jean Piaget
     el: Ζαν Πιαζέ
     en: Jean Piaget
-    en-ca: Jean Piaget
-    en-gb: Jean Piaget
+    en_ca: Jean Piaget
+    en_gb: Jean Piaget
     eo: Jean Piaget
     es: Jean Piaget
     et: Jean Piaget
@@ -192,8 +192,8 @@ dv_has_:
     kn: ಜೀನ್ ಪಿಯಾಗೆಟ್
     ko: 장 피아제
     ku: Jean Piaget
-    ku-arab: ژەان پاگەت
-    ku-latn: Jean Piaget
+    ku_arab: ژەان پاگەت
+    ku_latn: Jean Piaget
     ky: Пиаже Жан
     la: Ioannes Piaget
     lb: Jean Piaget
@@ -212,7 +212,7 @@ dv_has_:
     nap: Jean Piaget
     nb: Jean Piaget
     nds: Jean Piaget
-    nds-nl: Jean Piaget
+    nds_nl: Jean Piaget
     nl: Jean Piaget
     nn: Jean Piaget
     nrm: Jean Piaget
@@ -223,7 +223,7 @@ dv_has_:
     pms: Jean Piaget
     ps: ژان پیاژه
     pt: Jean Piaget
-    pt-br: Jean Piaget
+    pt_br: Jean Piaget
     qu: Jean Piaget
     rm: Jean Piaget
     ro: Jean Piaget
@@ -237,8 +237,8 @@ dv_has_:
     sl: Jean Piaget
     sq: Jean Piaget
     sr: Жан Пијаже
-    sr-ec: Жан Пијаже
-    sr-el: Žan Pijaže
+    sr_ec: Жан Пијаже
+    sr_el: Žan Pijaže
     sv: Jean Piaget
     sw: Jean Piaget
     ta: ஜீன் பியாஜே
@@ -258,12 +258,12 @@ dv_has_:
     wuu: 让·皮亚杰
     yue: 尚•皮亞傑
     zh: 讓·皮亞傑
-    zh-cn: 让·皮亚杰
-    zh-hans: 让·皮亚杰
-    zh-hant: 尚·皮亞傑
-    zh-hk: 尚·皮亞傑
-    zh-sg: 让·皮亚杰
-    zh-tw: 尚·皮亞傑
+    zh_cn: 让·皮亚杰
+    zh_hans: 让·皮亚杰
+    zh_hant: 尚·皮亞傑
+    zh_hk: 尚·皮亞傑
+    zh_sg: 让·皮亚杰
+    zh_tw: 尚·皮亞傑
     zu: Jean Piaget
 ---
 # [[Piaget,Jean]] 

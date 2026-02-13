@@ -158,7 +158,7 @@ dv_has_:
     bar: Soft
     bcl: juice
     be: сок
-    be-tarask: сок
+    be_tarask: сок
     bg: сок
     bn: রস
     bo: སིལ་ཁུ།
@@ -225,7 +225,7 @@ dv_has_:
     ml: പഴച്ചാറ്
     mni: ꯍꯩ ꯃꯍꯤ
     ms: jus
-    ms-arab: جوس
+    ms_arab: جوس
     my: ဖျော်ရည်
     nah: pātzcatl
     nan: Kóe-chí-chiap
@@ -245,7 +245,7 @@ dv_has_:
     pnb: رس
     ps: د میوې شربت
     pt: sumo
-    pt-br: suco
+    pt_br: suco
     qu: hilli
     ro: suc
     ru: сок
@@ -286,8 +286,8 @@ dv_has_:
     yi: זאפט
     yue: 菓汁
     zh: 蔬果汁
-    zh-hant: 果汁
-    zh-hk: 果汁
+    zh_hant: 果汁
+    zh_hk: 果汁
 ---
 #  [[Juice]]
 

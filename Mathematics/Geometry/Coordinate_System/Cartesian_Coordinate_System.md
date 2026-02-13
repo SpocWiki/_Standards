@@ -98,7 +98,7 @@ dv_has_:
     az: Karteziyan koordinant sistemi
     ba: Тура мөйөшлө координаталар системаһы
     be: прамавугольная сістэма каардынат
-    be-tarask: прастакутная сыстэма каардынат
+    be_tarask: прастакутная сыстэма каардынат
     bg: Декартова координатна система
     bn: কার্তেসীয় স্থানাঙ্ক ব্যবস্থা
     bs: Descartesov koordinatni sistem
@@ -152,7 +152,7 @@ dv_has_:
     pa: ਕਾਰਟੇਜ਼ੀ ਗੁਣਕ ਪ੍ਰਬੰਧ
     pl: układ współrzędnych kartezjańskich
     pt: sistema de coordenadas cartesiano
-    pt-br: sistema de coordenadas cartesiano
+    pt_br: sistema de coordenadas cartesiano
     ro: coordonate carteziene
     ru: прямоугольная система координат
     scn: sistema di rifirimentu cartisianu
@@ -161,7 +161,7 @@ dv_has_:
     sl: kartezični koordinatni sistem
     sq: Sistemi koordinativ kartezian
     sr: Декартов координатни систем
-    sr-ec: Декартов координатни систем
+    sr_ec: Декартов координатни систем
     sv: kartesiskt koordinatsystem
     ta: காட்டீசியன் ஆள்கூற்று முறைமை
     th: ระบบพิกัดคาร์ทีเซียน

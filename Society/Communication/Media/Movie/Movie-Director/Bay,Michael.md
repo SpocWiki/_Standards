@@ -48,12 +48,12 @@ dv_has_:
     cy: Michael Bay
     da: Michael Bay
     de: Michael Bay
-    de-ch: Michael Bay
+    de_ch: Michael Bay
     dty: माइकल बे
     el: Μάικλ Μπέι
     en: Michael Bay
-    en-ca: Michael Bay
-    en-gb: Michael Bay
+    en_ca: Michael Bay
+    en_gb: Michael Bay
     es: Michael Bay
     et: Michael Bay
     eu: Michael Bay
@@ -86,7 +86,7 @@ dv_has_:
     pap: Michael Bay
     pl: Michael Bay
     pt: Michael Bay
-    pt-br: Michael Bay
+    pt_br: Michael Bay
     ro: Michael Bay
     ru: Майкл Бэй
     sco: Michael Bay
@@ -99,7 +99,7 @@ dv_has_:
     ta: மைக்கேல் பே
     te: మైఖేల్ బే
     tg: Майкл Бэй
-    tg-cyrl: Майкл Бэй
+    tg_cyrl: Майкл Бэй
     th: ไมเคิล เบย์
     tr: Michael Bay
     uk: Майкл Бей
@@ -112,12 +112,12 @@ dv_has_:
     yo: Michael Bay
     yue: 米高比爾
     zh: 米高·比爾
-    zh-cn: 迈克尔·贝
-    zh-hans: 迈克尔·贝
-    zh-hant: 麥可·貝
-    zh-hk: 米高·比爾
+    zh_cn: 迈克尔·贝
+    zh_hans: 迈克尔·贝
+    zh_hant: 麥可·貝
+    zh_hk: 米高·比爾
     zh-my: 麦可·贝
-    zh-tw: 麥可·貝
+    zh_tw: 麥可·貝
 ---
 #has_/time_/started :: 1965-02-17 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)`
