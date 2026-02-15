@@ -573,9 +573,14 @@ dv_has_:
     zh_tw: 科學
     zu: isayensi
 ---
+# [[Science]] 
+
 ## #has_/text_of_/abstract 
 
-> **Science** is a systematic discipline that builds and organises knowledge in the form of testable hypotheses and predictions about the universe. Modern science is typically divided into two or three major branches: the natural sciences (e.g., physics, chemistry, and biology), which study the physical world; and the social sciences (e.g., economics, psychology, and sociology), which study individuals and societies. The formal sciences (e.g., logic, mathematics, and theoretical computer science), which study formal systems governed by axioms and rules, are sometimes described as being sciences as well; however, they are often regarded as a separate field because they rely on deductive reasoning instead of the scientific method or empirical evidence as their main methodology. Applied sciences are disciplines that use scientific knowledge for practical purposes, such as engineering and medicine.
+> **Science** is a systematic discipline that builds and organizes knowledge 
+> in the form of testable hypotheses and predictions about the universe. 
+> 
+> Modern science is typically divided into two or three major branches: the natural sciences (e.g., physics, chemistry, and biology), which study the physical world; and the social sciences (e.g., economics, psychology, and sociology), which study individuals and societies. The formal sciences (e.g., logic, mathematics, and theoretical computer science), which study formal systems governed by axioms and rules, are sometimes described as being sciences as well; however, they are often regarded as a separate field because they rely on deductive reasoning instead of the scientific method or empirical evidence as their main methodology. Applied sciences are disciplines that use scientific knowledge for practical purposes, such as engineering and medicine.
 >
 > The history of science spans the majority of the historical record, with the earliest identifiable predecessors to modern science dating to the Bronze Age in Egypt and Mesopotamia (c. 3000–1200 BCE). Their contributions to mathematics, astronomy, and medicine entered and shaped the Greek natural philosophy of classical antiquity, whereby formal attempts were made to provide explanations of events in the physical world based on natural causes, while further advancements, including the introduction of the Hindu–Arabic numeral system, were made during the Golden Age of India.: 12  Scientific research deteriorated in these regions after the fall of the Western Roman Empire during the Early Middle Ages (400–1000 CE), but in the Medieval renaissances (Carolingian Renaissance, Ottonian Renaissance and the Renaissance of the 12th century) scholarship flourished again. Some Greek manuscripts lost in Western Europe were preserved and expanded upon in the Middle East during the Islamic Golden Age, along with the later efforts of Byzantine Greek scholars who brought Greek manuscripts from the dying Byzantine Empire to Western Europe at the start of the Renaissance.
 >

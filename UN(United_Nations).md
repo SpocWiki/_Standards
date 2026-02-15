@@ -866,8 +866,10 @@ dv_has_:
     zh_sg: 联合国
     zh_tw: 聯合國
     zu: Amazwe Ohlangeneyo
+Unicode_Character: 🇺🇳
 ---
-# [[UN(United_Nations)]] 
+# [[UN(United_Nations)]] 🇺🇳
+
 
 #has_/previous_/item :: [[UN(United_Nations)/League_of_Nations|League_of_Nations]] 
 #is_/same_as :: [[WikiData/WD~United_Nations,1065|WD~United_Nations,1065]] 
@@ -884,14 +886,17 @@ dv_has_:
 >  
 >  The UN is headquartered in [[Earth/Continent/America~North/USA/USA~Eastern/New_York,State/counties~New_York/New_York,City|New York-City]]  
 >  (in the United States, but with certain extraterritorial privileges), 
->  and the UN has other offices in [[Geneva]], [[Kenya/Counties/Nairobi.County]], [[Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/Wien,City|Wien,City]], 
->  and [[The_Hague]], where the [[UN(United_Nations)/ICJ(International_Court_of_Justice)]] is headquartered.
+>  and the UN has other offices in [[Geneva]], [[Kenya/Counties/Nairobi.County|Nairobi]], [[Earth/Continent/Europe/Europe~Central/Austria/Austrias_States/Wien,State/Wien,City|Wien,City]], and [[The_Hague]], 
+>  where the [[UN(United_Nations)/ICJ(International_Court_of_Justice)|ICJ(International_Court_of_Justice)]] is headquartered.
 >
 > The UN was established after World War II with the aim of preventing future world wars, 
-> and succeeded the [[UN(United_Nations)/League_of_Nations]], which was characterized as ineffective. 
+> and succeeded the [[UN(United_Nations)/League_of_Nations|League_of_Nations]], which was characterized as ineffective. 
+> 
 > On 25 April 1945, 50 nations met in San Francisco, California for a conference 
 > and started drafting the UN Charter, which was adopted on 25 June 1945. 
-> The charter took effect on 24 October 1945, when the UN began operations. The UN's objectives, as defined by its charter, include maintaining international peace and security, protecting human rights, delivering humanitarian aid, promoting sustainable development, and upholding international law. At its founding, the UN had 51 member states; as of 2023, it has 193 – almost all of the world's sovereign states.The UN's mission to preserve world peace was complicated in its early decades due in part to Cold War tensions that existed between the United States and Soviet Union and their respective allies. Its mission has included the provision of primarily unarmed military observers and lightly armed troops charged with primarily monitoring, reporting and confidence-building roles. UN membership grew significantly following widespread decolonization in the 1960s. Since then, 80 former colonies have gained independence, including 11 trust territories that had been monitored by the Trusteeship Council. By the 1970s, the UN's budget for economic and social development programmes vastly exceeded its spending on peacekeeping. After the end of the Cold War in 1991, the UN shifted and expanded its field operations, undertaking a wide variety of complex tasks.The UN has six principal operational organizations: the General Assembly, the Security Council, the Economic and Social Council, the International Court of Justice, the UN Secretariat, and the Trusteeship Council, although the Trusteeship Council has been inactive since 1994. The UN System includes a multitude of specialized agencies, funds, and programmes, including the World Bank Group, the World Health Organization, the World Food Programme, UNESCO, and UNICEF. Additionally, non-governmental organizations may be granted consultative status with the Economic and Social Council and other agencies.
+> 
+> The charter took effect on 24 October 1945, when the UN began operations. 
+> The UN's objectives, as defined by its charter, include maintaining international peace and security, protecting human rights, delivering humanitarian aid, promoting sustainable development, and upholding international law. At its founding, the UN had 51 member states; as of 2023, it has 193 – almost all of the world's sovereign states.The UN's mission to preserve world peace was complicated in its early decades due in part to Cold War tensions that existed between the United States and Soviet Union and their respective allies. Its mission has included the provision of primarily unarmed military observers and lightly armed troops charged with primarily monitoring, reporting and confidence-building roles. UN membership grew significantly following widespread decolonization in the 1960s. Since then, 80 former colonies have gained independence, including 11 trust territories that had been monitored by the Trusteeship Council. By the 1970s, the UN's budget for economic and social development programmes vastly exceeded its spending on peacekeeping. After the end of the Cold War in 1991, the UN shifted and expanded its field operations, undertaking a wide variety of complex tasks.The UN has six principal operational organizations: the General Assembly, the Security Council, the Economic and Social Council, the International Court of Justice, the UN Secretariat, and the Trusteeship Council, although the Trusteeship Council has been inactive since 1994. The UN System includes a multitude of specialized agencies, funds, and programmes, including the World Bank Group, the World Health Organization, the World Food Programme, UNESCO, and UNICEF. Additionally, non-governmental organizations may be granted consultative status with the Economic and Social Council and other agencies.
 >
 > The UN's chief administrative officer is the secretary-general, currently Portuguese politician and diplomat António Guterres, who began his first five year-term on 1 January 2017 and was re-elected on 8 June 2021. The organization is financed by assessed and voluntary contributions from its member states.
 >
