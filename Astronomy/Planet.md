@@ -484,6 +484,7 @@ dv_has_:
     zh_hk: 行星
     zh_tw: 行星
     zu: iplanethi
+Unicode_Character: 🪐
 ---
 # [[Planet]] 🪐 
 
