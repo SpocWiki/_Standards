@@ -1,144 +1,144 @@
 ---
 aliases:
-- Caitliceachas
-- Caitligeachd
-- Catholicism
-- Catholicisme
-- Catholicismo
-- Catholicismus
-- Catholigiaeth
-- Catoleaghys
-- Catolicesim
-- Catolicime
-- Catolicisim
-- catolicism
-- Catolicisme
-- Catolicismo
-- catolicismu
-- Catolicisse
-- Catolicésim
-- catołicismo
-- cattolecesime
-- cattolicesimo
-- Cattoliçeximo
-- cattulicèsimu
-- Cemānāuhtic Quixtianayōtl
-- Công giáo
-- Gereja Katolik
-- Kakōlika
-- kaltolisis
-- katalikybė
-- Katalėkībė
-- katholicisme
-- Katholizismus
-- katolicism
-- katolicisme
-- katolicismus
-- katolicizem
-- katolicizm
-- Katolicizmus
-- katolicyzm
-- Katoliekisme
-- Katoligiezh
-- katoliiklus
-- Katolik
-- Katolik dini
-- Katolika
-- Katoliki
-- katolikismo
-- Katoliklik
-- katolilâšvuotâ
-- Katolisisma
-- katolisisme
-- katolisismo
-- katolisissma
-- katolisizm
-- katolisuus
-- Katolitsizm
-- katolizismo
-- katoličanstvo
-- katolëcëzm
-- katolîk
-- katoolʼlažvuõtt
-- katoļticība
-- Kattoliċiżmu
-- Katulik
-- Katuoļu ticeiba
-- katóliko
-- kaþólska
-- Kiaklikizim
-- Kong-kàu
-- Mumpɛ́
-- rimokatoličanstvo
-- Roôms-katholicisme
-- Takatulikt
-- Tiĕng-cuō-gáu
-- Ɖoomu Krɩstʊ samaɣ Ɛsɔ tɔm
-- Καθολικισμός
-- каталіцтва
-- Католик
-- католицизам
-- Католицизм
-- католицизъм
-- католицтво
-- котулисизм
-- Римьскъ Каѳолїкїсмъ
-- Կաթոլիկութիւն
-- կաթոլիկություն
-- נצרות קתולית
-- קאטאליציזם
-- كاتوليك
-- كاثوليكية
-- كاطوليكية
-- کاتوليک
-- کاتولیسیزم
-- کاتولیسیسم
-- کاتولیک
-- کاتھولکیت
-- کاسۆلیکی
-- ߝߓߊ߬ߟߊ߬ߞߊ
-- कॅथलिक धर्म
-- कैथोलिक धर्म
-- ক্যাথোলিক ধর্ম
-- கத்தோலிக்கம்
-- కాథలిక్ మతం
-- കത്തോലിക്കാ മതം
-- කතෝලික ධර්මය
-- คาทอลิก
-- ກາໂຕລິກ
-- კათოლიციზმი
-- កាតូលិក
-- ᱠᱟᱹᱛᱞᱤᱠ ᱪᱟᱨᱪ
-- カトリシズム
-- 天主敎
-- 天主教
-- 가톨릭교
+  - Caitliceachas
+  - Caitligeachd
+  - Catholicism
+  - Catholicisme
+  - Catholicismo
+  - Catholicismus
+  - Catholigiaeth
+  - Catoleaghys
+  - Catolicesim
+  - Catolicime
+  - Catolicisim
+  - catolicism
+  - Catolicisme
+  - Catolicismo
+  - catolicismu
+  - Catolicisse
+  - Catolicésim
+  - catołicismo
+  - cattolecesime
+  - cattolicesimo
+  - Cattoliçeximo
+  - cattulicèsimu
+  - Cemānāuhtic Quixtianayōtl
+  - Công giáo
+  - Gereja Katolik
+  - Kakōlika
+  - kaltolisis
+  - katalikybė
+  - Katalėkībė
+  - katholicisme
+  - Katholizismus
+  - katolicism
+  - katolicisme
+  - katolicismus
+  - katolicizem
+  - katolicizm
+  - Katolicizmus
+  - katolicyzm
+  - Katoliekisme
+  - Katoligiezh
+  - katoliiklus
+  - Katolik
+  - Katolik dini
+  - Katolika
+  - Katoliki
+  - katolikismo
+  - Katoliklik
+  - katolilâšvuotâ
+  - Katolisisma
+  - katolisisme
+  - katolisismo
+  - katolisissma
+  - katolisizm
+  - katolisuus
+  - Katolitsizm
+  - katolizismo
+  - katoličanstvo
+  - katolëcëzm
+  - katolîk
+  - katoolʼlažvuõtt
+  - katoļticība
+  - Kattoliċiżmu
+  - Katulik
+  - Katuoļu ticeiba
+  - katóliko
+  - kaþólska
+  - Kiaklikizim
+  - Kong-kàu
+  - Mumpɛ́
+  - rimokatoličanstvo
+  - Roôms-katholicisme
+  - Takatulikt
+  - Tiĕng-cuō-gáu
+  - Ɖoomu Krɩstʊ samaɣ Ɛsɔ tɔm
+  - Καθολικισμός
+  - каталіцтва
+  - Католик
+  - католицизам
+  - Католицизм
+  - католицизъм
+  - католицтво
+  - котулисизм
+  - Римьскъ Каѳолїкїсмъ
+  - Կաթոլիկութիւն
+  - կաթոլիկություն
+  - נצרות קתולית
+  - קאטאליציזם
+  - كاتوليك
+  - كاثوليكية
+  - كاطوليكية
+  - کاتوليک
+  - کاتولیسیزم
+  - کاتولیسیسم
+  - کاتولیک
+  - کاتھولکیت
+  - کاسۆلیکی
+  - ߝߓߊ߬ߟߊ߬ߞߊ
+  - कॅथलिक धर्म
+  - कैथोलिक धर्म
+  - ক্যাথোলিক ধর্ম
+  - கத்தோலிக்கம்
+  - కాథలిక్ మతం
+  - കത്തോലിക്കാ മതം
+  - කතෝලික ධර්මය
+  - คาทอลิก
+  - ກາໂຕລິກ
+  - კათოლიციზმი
+  - កាតូលិក
+  - ᱠᱟᱹᱛᱞᱤᱠ ᱪᱟᱨᱪ
+  - カトリシズム
+  - 天主敎
+  - 天主教
+  - 가톨릭교
 has_id_wikidata: Q1841
 has_part_s_:
-- '[[_Standards/WikiData/WD~Independent_Catholicism,159108]]'
-- '[[_Standards/WikiData/WD~Old_Catholics,5169816]]'
-- '[[_Standards/WikiData/WD~folk_Catholicism,5464420]]'
-- '[[_Standards/WikiData/WD~Liberal_Catholic_movement,6540599]]'
-- '[[_Standards/WikiData/WD~Catholic_Church,9592]]'
+  - "[[_Standards/WikiData/WD~Independent_Catholicism,159108]]"
+  - "[[_Standards/WikiData/WD~Old_Catholics,5169816]]"
+  - "[[_Standards/WikiData/WD~folk_Catholicism,5464420]]"
+  - "[[_Standards/WikiData/WD~Liberal_Catholic_movement,6540599]]"
+  - "[[_Standards/WikiData/WD~Catholic_Church,9592]]"
 described_by_source:
-- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+  - "[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
 subclass_of:
-- '[[_Standards/WikiData/WD~Western_Christianity,842798]]'
-- '[[_Standards/WikiData/WD~Chalcedonian_Christianity,2711500]]'
-Christian_liturgical_rite: '[[_Standards/WikiData/WD~Catholic_liturgical_rite,1049377]]'
-opposite_of: '[[_Standards/WikiData/WD~anti_Catholicism,1063123]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Catholic_Church_footer,6866551]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Catholic_Church,7779176]]'
-practiced_by: '[[_Standards/WikiData/WD~Catholic,17549077]]'
-different_from: '[[_Standards/WikiData/WD~Catholicism,38455700]]'
+  - "[[_Standards/WikiData/WD~Western_Christianity,842798]]"
+  - "[[_Standards/WikiData/WD~Chalcedonian_Christianity,2711500]]"
+Christian_liturgical_rite: "[[_Standards/WikiData/WD~Catholic_liturgical_rite,1049377]]"
+opposite_of: "[[_Standards/WikiData/WD~anti_Catholicism,1063123]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Catholic_Church_footer,6866551]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Catholic_Church,7779176]]"
+practiced_by: "[[_Standards/WikiData/WD~Catholic,17549077]]"
+different_from: "[[_Standards/WikiData/WD~Catholicism,38455700]]"
 instance_of:
-- '[[_Standards/WikiData/WD~religion_or_world_view,71966963]]'
-- '[[_Standards/WikiData/WD~Christian_denominational_family,123129246]]'
+  - "[[_Standards/WikiData/WD~religion_or_world_view,71966963]]"
+  - "[[_Standards/WikiData/WD~Christian_denominational_family,123129246]]"
 inception:
-- 1054-01-01T00:00:00Z
-- 0033-01-01T00:00:00Z
+  - 1054-01-01T00:00:00Z
+  - 0033-01-01T00:00:00Z
 member_count: 1.345
 Unicode_character: ✝
 distribution_map: http://commons.wikimedia.org/wiki/Special:FilePath/Distribution%20of%20Catholics.png
@@ -333,7 +333,7 @@ dv_has_:
     zh_sg: 天主教
     zh_tw: 天主教
 ---
-# [[Catholicism]] 
+# [[Catholicism]] ✝ 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Catholicism,1841|WD~Catholicism,1841]] 
 

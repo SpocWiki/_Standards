@@ -282,7 +282,7 @@ dv_has_:
     zh_tw: 電子計算機
     zu: IsiQaqululi
 ---
-# [[Calculator]] 
+# [[Calculator]] 🖩 
 
 #is_/same_as :: [[../../WikiData/WD~Calculator,31087|WD~Calculator,31087]] 
 

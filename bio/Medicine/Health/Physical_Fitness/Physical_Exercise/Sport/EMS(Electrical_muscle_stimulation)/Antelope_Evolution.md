@@ -640,6 +640,8 @@ Das geht auf zwei Wegen:
 Aktiviere dafür den Regler „Daten synchronisieren“ unter „Körper&shy;werte“ am Ende des Screens. 
 ## PROGRAMME 
 
+ ![[EMS-Table_Spalten]]
+
 ### Warm Up & Cool Down 
 Unser Warm Up Programm bereitet deinen Körper auf das Workout vor. 
 Es sorgt so für einen guten Trainingseinstieg. 
@@ -718,7 +720,6 @@ Du erkennst die Intensität am Trainingsnamen.
 EMS hilft dir dabei, dich nach einem Training oder Workout zu erholen. 
 Diese Programme senden auflockernde und entspannende Stimulationen in deine Muskeln, 
 die wie eine Massage funktionieren. 
-
 Das tut Körper und Geist gut und fördert die Regeneration. 
 
 | Training                        | Beschreibung                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |     Hz |  µs |  ms | Duty Cycle                                      | Min                  |
@@ -732,51 +733,6 @@ Das tut Körper und Geist gut und fördert die Regeneration.
 | Metabolismus                    | Das Metabolismus-Programm hat zwei Funktionen: Zum einen regt es deinen Stoffwechsel, zum anderen die Durchblutung der Haut und der darunterliegenden Fettschichten an. Dazu wird eine niedrige Frequenz von 7 Hertz verwendet.                                                                                                                                                                                                                                                                       |      7 | 350 |   5 | –                                               | 5, 10, 15, 20, 25    |
 | Mindful Regeneration            | Vereine Achtsamkeit und Erholung mit „Mindful Regeneration“. Eine Welle der Entspannung und Regeneration für dich: Dieses einzigartige Programm steuert die Elektroden nachein&shy;ander an und verschafft dir ein einmaliges Erlebnis. Tipp: Lass zusätzlich Entspannungsmusik laufen, mach eine Atem- oder Meditationsübung und lass dich Welle für Welle davontreiben.                                                                                                                             |     50 | 200 |  20 | –                                               | 5, 10, 15, 20, 25    |
 | Massage                         | Lehne dich zurück und genieße die niedrigen Frequenzen mit dem Massage-Programm. Das lockert deine Muskeln auf und fördert so die Regeneration. Du musst währenddessen auch keine Übungen machen, sondern kannst dich auf die Reize konzentrieren.                                                                                                                                                                                                                                                    |    1-5 | 200 |   2 | –                                               | 5, 10, 15, 20, 25 28 |
-
-### Spalten 
-
-#### Intensität in %
-
-Die Intensität bestimmt die Impulsstärke, das heißt, 
-wie viel elektrische Ladung in einer bestimmten Zeit fließt. 
-Je intensiver, desto mehr Muskelfasern werden angesprochen. 
-
-#### Frequenz in Hz
-
-Die Frequenz bestimmt, wie oft ein elektrischer Impuls innerhalb einer bestimmten Zeit auftritt. 
-Dar&shy;aus ergibt sich, wie oft einzelne Muskelfasern kontrahieren. 
-Diesen Wert kannst du bei den Antelope Programmen nicht ändern. 
-
-#### Impulslänge (Impulsdauer) in µs 
-
-Die Impulslänge oder auch Impulsdauer beschreibt die Zeit, in der elektrische Impulse in die Muskulatur fließen. 
-Je länger, desto intensiver und tiefer wird der Muskel angesprochen. 
-
-#### GesamtImpulslänge in ms/s  
-
-Das Produkt aus Frequenz und Impulslänge ergibt den Gesamtanteil in ms von 1000 pro Sekunde. 
-Wie man sehen kann, werden Muskeln max. 80ms/s also 8% der Zeit aktiviert.  
-
-#### Duty Cycle in s 
-
-Das Stimulationsintervall, auch Duty Cycle genannt, 
-bestimmt das Verhältnis der Stimulationsphasen und der Stimulationspausen während eines Trainings. 
-Einige EMS Programme erfordern diese Pausen für deine Muskulatur. 
-
-Du findest in der App zwei Varianten: 
-BEISPIEL ON TIME = 4 Sekunden Stimulationsphase OFF TIME = 4 Sekunden Stimulationspause Ein Stimulationsintervall (Duty Cycle) 4S ON 4S ON 4S ON 4S OFF 4S OFF 4S OFF 
-IMPULS ZEIT ON TIME = konstant und durchgängig ON IMPULS ZEIT 
-
-##### Programme mit Duty Cycle: 
-
-Bei einigen Programmen ist ein Stimulations-Intervall notwendig. Dieser könnte so aussehen: Beispiel: Du wählst ein Programm mit dem Duty Cycle „4 Sek ON, 4 Sek OFF“. 
-Dieses läuft nun mit einem sich wiederholenden Intervall aus vier Sekunden Stimulation und vier Sekunden Pause. 
-In dieser Zeit füllt sich der LED-Ring des Boosters, bzw. leert sich in der Pause wieder. Du kannst das auch im Steuerungsscreen der App erkennen. 
-Bei manchen Programmen ist der Duty Cycle fest vorgegeben, bei anderen darfst du wählen. Pro&shy;biere aus, wie es sich für dich gut anfühlt! 
-
-##### Programme ohne Duty Cycle: 
-
-Bei manchen Programmen gibt es keinen Duty Cycle. Hier werden deine Muskeln durchgängig stimuliert. 
 
 ## REINIGUNG UND PFLEGE 
 
@@ -818,40 +774,7 @@ Folgende Produkte kannst du bei uns erwerben:
 - Elektrodenkontaktgel
 - Elektrodenkontaktspray Du findest alle Produkte in unserem Shop auf www.antelope-shop.com. 
 
-## ENTSORGUNG 
-
-Im Interesse des Umweltschutzes darf das Gerät am Ende seiner Lebensdauer nicht mit dem Haus&shy;müll entfernt werden. 
-Die Entsorgung kann über entsprechende Sammelstellen in deinem Land erfolgen. 
-Entsorge das Gerät gemäß der Elektro- und Elektronik-Altgeräte EG-Richtlinie – WEEE (Waste Electrical and Electronic Equipment). 
-Bei Rückfragen wende dich an die für die Entsorgung zuständige kommunale Behörde. 
-
-Die verbrauchten, vollkommen entladenen Batterien musst du über speziell gekennzeichnete Sammel&shy;behälter, Sondermüllannahmestellen oder über den Elektrohändler entsorgen. 
-Du bist gesetzlich dazu verpflichtet, die Batterien zu entsorgen. 
-
-Hinweis: Diese Zeichen findest du auf schadstoffhaltigen Akkus:
-- Pb = Batterie enthält Blei
-- Cd = Batterie enthält Cadmium
-- Hg = Batterie enthält Quecksilber 
-
-### Hinweise für Verbraucher zur Altgeräteentsorgung und Verschrottung in Deutschland 
-
-Besitzer von Altgeräten können diese im Rahmen der durch die öffentlich-rechtlichen Entsorgungs&shy;träger eingerichteten und zur Verfügung stehenden Möglichkeiten der Rückgabe oder Sammlung von Altgeräten unentgeltlich abgeben, damit eine ordnungsgemäße Entsorgung der Altgeräte si&shy;chergestellt ist. 
-Die Rückgabe ist gesetzlich vorgeschrieben. 
-Außerdem ist die Rückgabe unter bestimmten Voraussetzungen auch bei Vertreibern möglich. 
-Gemäß Elektro- und Elektronikgerätegesetz (ElektroG) 
-sind die folgenden Vertreiber zur unentgeltlichen Rück&shy;nahme von Altgeräten verpflichtet:
-- Elektro-Fachgeschäfte, mit einer Verkaufsfläche für Elektro- und Elektronikgeräte von mindestens 400 Quadratmetern
-- Lebensmitteläden mit einer Gesamtverkaufsfläche von mindestens 800 Quadratmetern, die mehr&shy;mals pro Jahr oder dauerhaft Elektro- und Elektronikgeräte anbieten und auf dem Markt bereit&shy;stellen.
-- Versandhandel, wobei die Pflicht zur 1:1-Rücknahme im privaten Haushalt nur für Wärme&shy;überträger (Kühl-/Gefriergeräte, Klimageräte u.a.), Bildschirmgeräte und Großgeräte gilt. Für die 1:1-Rücknahme von Lampen, Kleingeräten und kleinen IT- u. Telekommunikationsgeräten sowie die 0:1-Rücknahme müssen Versandhändler Rückgabemöglichkeiten in zumutbarer Entfernung zum Endverbraucher bereitstellen. 
-
-Diese Vertreiber sind verpflichtet,
-- bei der Abgabe eines neuen Elektro- oder Elektronikgerätes an einen Endnutzer ein Altgerät des Endnutzers der gleichen Geräteart, das im Wesentlichen die gleichen Funktionen wie das neue Ge&shy;rät erfüllt, am Ort der Abgabe oder in unmittelbarer Nähe hierzu unentgeltlich zurückzunehmen und
-- auf Verlangen des Endnutzers Altgeräte, die in keiner äußeren Abmessung größer als 25 Zentime&shy;ter sind, im Einzelhandelsgeschäft oder in unmittelbarer Nähe hierzu unentgeltlich zurückzuneh&shy;men; die Rücknahme darf nicht an den Kauf eines Elektro- oder Elektronikgerätes geknüpft werden und ist auf drei Altgeräte pro Geräteart beschränkt. 
-
-Enthalten die Produkte Batterien und Akkus oder Lampen, die aus dem Altgerät zerstörungsfrei ent&shy;nommen werden können, 
-müssen diese vor der Entsorgung entnommen werden und getrennt als Batterie bzw. Lampe entsorgt werden. 
-Sofern das alte Elektro- bzw. Elektronikgerät personenbezogene Daten enthält, 
-sind Sie selbst für deren Löschung verantwortlich, bevor Sie es zurückgeben. 
+![[EMS~ENTSORGUNG]] 
 
 ## TECHNISCHE ANGABEN 
 

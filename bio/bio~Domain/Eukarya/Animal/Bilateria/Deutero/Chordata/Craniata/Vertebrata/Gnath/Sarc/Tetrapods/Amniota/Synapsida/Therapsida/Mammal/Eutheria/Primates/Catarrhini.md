@@ -1,233 +1,233 @@
 ---
 aliases:
-- aap
-- aapakaaq
-- abe
-- adoe
-- Affe
-- Affen
-- ahv
-- amo
-- apa
-- apag
-- apaköttur
-- Ape
-- apekatt
-- Apes
-- apina
-- atò
-- bakes
-- beždiuonė
-- beždžionės
-- biri
-- Bodat
-- bojog
-- catarrhine monkeys
-- Catarrhini
-- cigak
-- enwe
-- gobuk
-- golo
-- gàu
-- hèu-è
-- Ibki
-- Inguge
-- Inkende
-- jɛŋa
-- k'usillu
-- k3s3
-- ka'i
-- kema
-- Kera
-- kethèk
-- Khỉ
-- kima
-- kuya'
-- kâu
-- kâu-á
-- Lambas
-- lingz
-- lotong
-- macaco
-- maimuță
-- majmun
-- majmuni
-- majom
-- makak
-- maki
-- marmouz
-- marmoûset
-- maymal
-- maymona
-- Maymun
-- maymunlar
-- maymıl
-- małpy
-- maјmun
-- meymun
-- mico
-- moncaí
-- Monkey
-- Monkeys
-- Mono
-- Monyet
-- monyét
-- muncaidh
-- munkhwele
-- mwnci
-- mákohe
-- məjmun
-- Ngĩma
-- nyoka
-- Old World anthropoids
-- Old World monkeys
-- opica
-- opice
-- ozomahtli
-- primate
-- pug
-- pērtiķi
-- rajako
-- scimia
-- scimmia
-- shoko
-- sim
-- Simia
-- Simio
-- sinche
-- Singe
-- sumia
-- séndje
-- tximino
-- tɩgbayʋ
-- ukay
-- unggoy
-- vi᷆r
-- warik
-- wopica
-- wãamba
-- yapi yapi
-- yungay
-- zeam
-- áhppa
-- ŋmaaŋa
-- Μαϊμού
-- мајмун
-- Мавпи
-- маймалак
-- маймалаш
-- маймули
-- маймун
-- маймыл
-- малпа
-- мамун
-- мечин
-- мөчн
-- нечовекоподобни маймуни
-- обезьян
-- обезьяны (без человека)
-- сармагчин
-- упӑтесем
-- կապիկներ
-- מאלפע
-- קופים
-- باندر
-- بندر
-- سعدان
-- شادی
-- قرد
-- مايمۇن
-- میمون
-- مەیموون
-- پونٛز
-- ܩܘܦܐ
-- बंदर
-- बाँदर
-- बानर
-- माकः
-- माकड
-- বানর
-- ਬਾਂਦਰ
-- વાંદરો
-- ମାଙ୍କଡ଼
-- குரங்கு
-- కోతి
-- ಕೋತಿ
-- ಮಂಗೆ
-- കുരങ്ങ്
-- ลิง
-- སྤྲེའུ།
-- ကၞုဲ
-- မျောက်
-- လိင်း
-- ህበይ
-- ጦጣ
-- ᎠᏓᎵᏍᎩᏱᏍᎩ
-- ᠪᠣᠨᡳᠣ
-- ᥘᥤᥒᥰ
-- ᱦᱟ.ᱬᱩ
-- ọ̀bọ
-- サル
-- 猢狲
-- 猴
-- 猴仔
-- 猿猴
-- 馬騮
-- ꯌꯣꯡ
-- 원숭이
+  - aap
+  - aapakaaq
+  - abe
+  - adoe
+  - Affe
+  - Affen
+  - ahv
+  - amo
+  - apa
+  - apag
+  - apaköttur
+  - Ape
+  - apekatt
+  - Apes
+  - apina
+  - atò
+  - bakes
+  - beždiuonė
+  - beždžionės
+  - biri
+  - Bodat
+  - bojog
+  - catarrhine monkeys
+  - Catarrhini
+  - cigak
+  - enwe
+  - gobuk
+  - golo
+  - gàu
+  - hèu-è
+  - Ibki
+  - Inguge
+  - Inkende
+  - jɛŋa
+  - k'usillu
+  - k3s3
+  - ka'i
+  - kema
+  - Kera
+  - kethèk
+  - Khỉ
+  - kima
+  - kuya'
+  - kâu
+  - kâu-á
+  - Lambas
+  - lingz
+  - lotong
+  - macaco
+  - maimuță
+  - majmun
+  - majmuni
+  - majom
+  - makak
+  - maki
+  - marmouz
+  - marmoûset
+  - maymal
+  - maymona
+  - Maymun
+  - maymunlar
+  - maymıl
+  - małpy
+  - maјmun
+  - meymun
+  - mico
+  - moncaí
+  - Monkey
+  - Monkeys
+  - Mono
+  - Monyet
+  - monyét
+  - muncaidh
+  - munkhwele
+  - mwnci
+  - mákohe
+  - məjmun
+  - Ngĩma
+  - nyoka
+  - Old World anthropoids
+  - Old World monkeys
+  - opica
+  - opice
+  - ozomahtli
+  - primate
+  - pug
+  - pērtiķi
+  - rajako
+  - scimia
+  - scimmia
+  - shoko
+  - sim
+  - Simia
+  - Simio
+  - sinche
+  - Singe
+  - sumia
+  - séndje
+  - tximino
+  - tɩgbayʋ
+  - ukay
+  - unggoy
+  - vi᷆r
+  - warik
+  - wopica
+  - wãamba
+  - yapi yapi
+  - yungay
+  - zeam
+  - áhppa
+  - ŋmaaŋa
+  - Μαϊμού
+  - мајмун
+  - Мавпи
+  - маймалак
+  - маймалаш
+  - маймули
+  - маймун
+  - маймыл
+  - малпа
+  - мамун
+  - мечин
+  - мөчн
+  - нечовекоподобни маймуни
+  - обезьян
+  - обезьяны (без человека)
+  - сармагчин
+  - упӑтесем
+  - կապիկներ
+  - מאלפע
+  - קופים
+  - باندر
+  - بندر
+  - سعدان
+  - شادی
+  - قرد
+  - مايمۇن
+  - میمون
+  - مەیموون
+  - پونٛز
+  - ܩܘܦܐ
+  - बंदर
+  - बाँदर
+  - बानर
+  - माकः
+  - माकड
+  - বানর
+  - ਬਾਂਦਰ
+  - વાંદરો
+  - ମାଙ୍କଡ଼
+  - குரங்கு
+  - కోతి
+  - ಕೋತಿ
+  - ಮಂಗೆ
+  - കുരങ്ങ്
+  - ลิง
+  - སྤྲེའུ།
+  - ကၞုဲ
+  - မျောက်
+  - လိင်း
+  - ህበይ
+  - ጦጣ
+  - ᎠᏓᎵᏍᎩᏱᏍᎩ
+  - ᠪᠣᠨᡳᠣ
+  - ᥘᥤᥒᥰ
+  - ᱦᱟ.ᱬᱩ
+  - ọ̀bọ
+  - サル
+  - 猢狲
+  - 猴
+  - 猴仔
+  - 猿猴
+  - 馬騮
+  - ꯌꯣꯡ
+  - 원숭이
 has_id_wikidata: Q1367
 title: Catarrhini
-taxon_known_by_this_common_name: '[[_Standards/WikiData/WD~Cercopithecidae,182968]]'
+taxon_known_by_this_common_name: "[[_Standards/WikiData/WD~Cercopithecidae,182968]]"
 described_by_source:
-- '[[../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-subclass_of: '[[_Standards/WikiData/WD~non_human_animal,24249370]]'
-instance_of: '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]'
+  - "[[../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+subclass_of: "[[_Standards/WikiData/WD~non_human_animal,24249370]]"
+instance_of: "[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]"
 depicted_by:
-- '[[_Standards/WikiData/WD~Monkey_from_the_Iseum_Campense,131588037]]'
-- '[[_Standards/WikiData/WD~Fontana_delle_scimmie,131812862]]'
-- '[[_Standards/WikiData/WD~Sala_delle_Scimmie,131813529]]'
+  - "[[_Standards/WikiData/WD~Monkey_from_the_Iseum_Campense,131588037]]"
+  - "[[_Standards/WikiData/WD~Fontana_delle_scimmie,131812862]]"
+  - "[[_Standards/WikiData/WD~Sala_delle_Scimmie,131813529]]"
 OmegaWiki_Defined_Meaning: 5870
 Commons_gallery: Monkey
 U_S_National_Archives_Identifier: 10646707
 image:
-- http://commons.wikimedia.org/wiki/Special:FilePath/Cebus%20albifrons%20edit.jpg
-- http://commons.wikimedia.org/wiki/Special:FilePath/Squirrel%20monkey.jpg
-- http://commons.wikimedia.org/wiki/Special:FilePath/Tamarin.monkey.500pix.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Cebus%20albifrons%20edit.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Squirrel%20monkey.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Tamarin.monkey.500pix.jpg
 taxon_common_name:
-- Monkey
-- குரங்கு
-- サル
-- बंदर
-- 원숭이
-- 猴
-- Singe
-- Mono
-- Khỉ
-- बानर
-- Μαϊμού
-- Monyet
-- 猴仔
-- kâu-á
-- opica
-- కోతి
-- ลิง
-- Maymun
-- Мавпи
+  - Monkey
+  - குரங்கு
+  - サル
+  - बंदर
+  - 원숭이
+  - 猴
+  - Singe
+  - Mono
+  - Khỉ
+  - बानर
+  - Μαϊμού
+  - Monyet
+  - 猴仔
+  - kâu-á
+  - opica
+  - కోతి
+  - ลิง
+  - Maymun
+  - Мавпи
 pronunciation_audio:
-- http://commons.wikimedia.org/wiki/Special:FilePath/De-Affe2.ogg
-- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33070%20%28ban%29-Carma%20citrawati-Bojog.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/De-Affe2.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33070%20%28ban%29-Carma%20citrawati-Bojog.wav
 Commons_category: Monkeys
 Unicode_character:
-- "\U0001F412"
-- "\U0001F435"
+  - 🐒
+  - 🐵
 Iconclass_notation: 43A3741
 Krugosvet_article_archived_: nauka_i_tehnika/biologiya/OBEZYANI.html
 dv_has_:
@@ -436,7 +436,7 @@ dv_has_:
     zh_sg: 猴
     zh_tw: 猴
 ---
-# [[Catarrhini]] 🐵 
+# [[Catarrhini]] 🐵 🐒
 
 #is_/instance_of :: [[ParvOrder]] 
 ## Humans, great apes, gibbons, Old World monkeys 

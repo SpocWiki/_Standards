@@ -1,131 +1,131 @@
 ---
 aliases:
-- Abarimaa
-- Aking lalaki (edad)
-- Anak lelaki
-- bachgen
-- berniukas
-- bidibiga
-- Boy
-- Bua
-- buachaill
-- budak lelaki
-- Budibela
-- Băiat
-- Carusu
-- Cha-po͘ gín-á
-- chlapec
-- chłopiec
-- con trai
-- Dečak
-- deček
-- Djali
-- Dječak
-- dreng
-- Dòng-buŏ-giāng
-- dɔɔbile
-- Ficioru
-- fiú
-- garçon
-- Gason
-- gut
-- gutt
-- gòr djùf
-- Gólc
-- Hólc
-- Jaka
-- jong
-- Jonge
-- jongen
-- Jung
-- Junge
-- knabo
-- Knôp
-- Lad
-- mainat
-- menino
-- minínu
-- moshanyana
-- mucha hòmber
-- Mukomana
-- Mutil
-- Mvulana
-- nggwoseam
-- niño
-- noi
-- nwata nwoke
-- oğlan
-- Paotr
-- poika
-- Poiss
-- pojke
-- Prihaine
-- puer
-- puero
-- Puerulo
-- ragazzo
-- rapaz
-- Se-lai-é
-- sgiovinot
-- Umuhungu
-- wawama
-- Wiil
-- yaro
-- Yigit
-- zēns
-- αγόρι
-- παῖς
-- Арçын ача
-- дечак
-- малай
-- мальчик
-- момче
-- пи
-- хлопець (особа)
-- хлопчык
-- цёра
-- տղա
-- ילד
-- اوغلان
-- رئک
-- ریکا
-- صبي
-- لٔڑکہٕ
-- لڑکا
-- ولد
-- پسر
-- کوڕ
-- केटा
-- 'बाल:'
-- बेटवा
-- मिजंमचा
-- मुलगा
-- लइका
-- लड़का
-- ছেলে
-- ল'ৰা
-- சிறுவன்
-- అబ్బాయి
-- ಹುಡುಗ
-- ആൺകുട്ടി
-- เด็กชาย
-- ᨯᩮᩢ᩠ᨠᨩᩣ᩠ᨿ
-- ᱠᱚᱲᱟ ᱜᱤᱫᱽᱨᱟᱹ
-- Ọmọkùnrin
-- 少年
-- 男仔
-- 男仔子
-- 男孩
-- 소년
+  - Abarimaa
+  - Aking lalaki (edad)
+  - Anak lelaki
+  - bachgen
+  - berniukas
+  - bidibiga
+  - Boy
+  - Bua
+  - buachaill
+  - budak lelaki
+  - Budibela
+  - Băiat
+  - Carusu
+  - Cha-po͘ gín-á
+  - chlapec
+  - chłopiec
+  - con trai
+  - Dečak
+  - deček
+  - Djali
+  - Dječak
+  - dreng
+  - Dòng-buŏ-giāng
+  - dɔɔbile
+  - Ficioru
+  - fiú
+  - garçon
+  - Gason
+  - gut
+  - gutt
+  - gòr djùf
+  - Gólc
+  - Hólc
+  - Jaka
+  - jong
+  - Jonge
+  - jongen
+  - Jung
+  - Junge
+  - knabo
+  - Knôp
+  - Lad
+  - mainat
+  - menino
+  - minínu
+  - moshanyana
+  - mucha hòmber
+  - Mukomana
+  - Mutil
+  - Mvulana
+  - nggwoseam
+  - niño
+  - noi
+  - nwata nwoke
+  - oğlan
+  - Paotr
+  - poika
+  - Poiss
+  - pojke
+  - Prihaine
+  - puer
+  - puero
+  - Puerulo
+  - ragazzo
+  - rapaz
+  - Se-lai-é
+  - sgiovinot
+  - Umuhungu
+  - wawama
+  - Wiil
+  - yaro
+  - Yigit
+  - zēns
+  - αγόρι
+  - παῖς
+  - Арçын ача
+  - дечак
+  - малай
+  - мальчик
+  - момче
+  - пи
+  - хлопець (особа)
+  - хлопчык
+  - цёра
+  - տղա
+  - ילד
+  - اوغلان
+  - رئک
+  - ریکا
+  - صبي
+  - لٔڑکہٕ
+  - لڑکا
+  - ولد
+  - پسر
+  - کوڕ
+  - केटा
+  - "बाल:"
+  - बेटवा
+  - मिजंमचा
+  - मुलगा
+  - लइका
+  - लड़का
+  - ছেলে
+  - ল'ৰা
+  - சிறுவன்
+  - అబ్బాయి
+  - ಹುಡುಗ
+  - ആൺകുട്ടി
+  - เด็กชาย
+  - ᨯᩮᩢ᩠ᨠᨩᩣ᩠ᨿ
+  - ᱠᱚᱲᱟ ᱜᱤᱫᱽᱨᱟᱹ
+  - Ọmọkùnrin
+  - 少年
+  - 男仔
+  - 男仔子
+  - 男孩
+  - 소년
 has_id_wikidata: Q3010
 subclass_of:
-- '[[_Standards/WikiData/WD~male_human,84048850]]'
-- '[[_Standards/WikiData/WD~child,7569]]'
-follows: '[[_Standards/WikiData/WD~baby_boy,96780034]]'
-described_by_source: '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-depicted_by: '[[_Standards/WikiData/WD~Old_man_and_boy,131449694]]'
-opposite_of: '[[_Standards/WikiData/WD~girl,3031]]'
-followed_by: '[[_Standards/WikiData/WD~man,8441]]'
+  - "[[_Standards/WikiData/WD~male_human,84048850]]"
+  - "[[_Standards/WikiData/WD~child,7569]]"
+follows: "[[_Standards/WikiData/WD~baby_boy,96780034]]"
+described_by_source: "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+depicted_by: "[[_Standards/WikiData/WD~Old_man_and_boy,131449694]]"
+opposite_of: "[[_Standards/WikiData/WD~girl,3031]]"
+followed_by: "[[_Standards/WikiData/WD~man,8441]]"
 minimum_age: 2
 maximum_age: 18
 OmegaWiki_Defined_Meaning: 5905
@@ -136,9 +136,9 @@ U_S_National_Archives_Identifier: 10637162
 Iconclass_notation: 31D11221
 Commons_category: Boys
 exact_match:
-- http://wordnet-rdf.princeton.edu/wn30/10624074-n
-- http://wordnet-rdf.princeton.edu/wn31/110558142-n
-Unicode_character: "\U0001F466"
+  - http://wordnet-rdf.princeton.edu/wn30/10624074-n
+  - http://wordnet-rdf.princeton.edu/wn31/110558142-n
+Unicode_character: 👦
 P8189: 987007283981505200
 dv_has_:
   name_:
@@ -243,7 +243,7 @@ dv_has_:
     ro: Băiat
     ru: мальчик
     rup: Ficioru
-    sa: 'बाल:'
+    sa: "बाल:"
     sat: ᱠᱚᱲᱟ ᱜᱤᱫᱽᱨᱟᱹ
     scn: Carusu
     sco: Lad

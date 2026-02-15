@@ -1,161 +1,161 @@
 ---
 aliases:
-- acı biber
-- ardei iute
-- ata ṣọ̀mbọ̀
-- atakín
-- azeedíchʼííʼ
-- besbaas
-- bitxo
-- cabbhi
-- cabe merah
-- cabi
-- cabé
-- Campli
-- Capsicum
-- chabi
-- chile
-- chili
-- Chili pepper
-- chili qalampiri
-- Chili-pimento
-- Chili-pipar
-- chilipepar
-- chilipeper
-- chilipeppar
-- chilipepper
-- Chilipfeffer
-- Chili_Pepper
-- chilli paprička
-- chilli pepper
-- cili
-- csilipaprika
-- guindilla
-- harang
-- kaani
-- kapsiketo
-- kipare
-- kpɛɛnzʊʊ
-- Ky'ỹi
-- kìwàysi᷆rtà
-- lada soyo
-- lado
-- lara
-- lombok
-- lombok abang
-- losun
-- mhiripiri
-- mircha
-- Ose
-- papryka chili
-- pemento chile
-- peperoncino
-- pilipilí
-- piman
-- pimant
-- piment
-- pimenta
-- piobar sillí
-- pipermin
-- pipi ardenti
-- puber chili
-- pupur tsili
-- raudonasis pipiras
-- sakay
-- sili
-- specë e djegëst
-- tabia
-- tšilli
-- utsu
-- îsot
-- čili
-- čili pipari
-- τσίλι
-- калемпир
-- кызыл борыч
-- лута пиперка
-- люта чушка
-- острый перец
-- перець чилі
-- Хаяр хĕрлĕ пăрăç
-- цывзы
-- чырвоны перац
-- қаламфури тунд
-- կարմիր պղպեղ
-- פלפלת צ'ילי
-- اخلاد
-- بیبەری تیژ
-- فلفل تند
-- فلفل حار
-- قىزىلمۇچ
-- مرچ
-- مرژٕ وانٛگن
-- ڳاڙھا مرچ
-- ߝߙߏ߬ߕߏ
-- खुर्सानी
-- मरीचिका
-- मर्चाई
-- मल्ता
-- मिरची
-- मिर्च
-- জলকীয়া
-- মরিচ
-- ਮਿਰਚ
-- મરચું
-- ଲଙ୍କା ମରୀଚ
-- பச்சை மிளகாய்
-- మిరపకాయ
-- ಮುಂಚಿ
-- ಮೆಣಸಿನಕಾಯಿ
-- ചുവന്നമുളക്
-- මිරිස්
-- พริก
-- ໝາກເຜັດ
-- ငရုတ်
-- ငရုတ်ပင်
-- မြေက်
-- မၢၵ်ႇၽိတ်ႉ
-- ზაფანა
-- წიწაკა
-- ᱢᱟᱺᱨᱤᱪ
-- ớt
-- 唐辛子
-- 辣椒
-- 辣椒 (果实)
-- 고추
+  - acı biber
+  - ardei iute
+  - ata ṣọ̀mbọ̀
+  - atakín
+  - azeedíchʼííʼ
+  - besbaas
+  - bitxo
+  - cabbhi
+  - cabe merah
+  - cabi
+  - cabé
+  - Campli
+  - Capsicum
+  - chabi
+  - chile
+  - chili
+  - Chili pepper
+  - chili qalampiri
+  - Chili-pimento
+  - Chili-pipar
+  - chilipepar
+  - chilipeper
+  - chilipeppar
+  - chilipepper
+  - Chilipfeffer
+  - Chili_Pepper
+  - chilli paprička
+  - chilli pepper
+  - cili
+  - csilipaprika
+  - guindilla
+  - harang
+  - kaani
+  - kapsiketo
+  - kipare
+  - kpɛɛnzʊʊ
+  - Ky'ỹi
+  - kìwàysi᷆rtà
+  - lada soyo
+  - lado
+  - lara
+  - lombok
+  - lombok abang
+  - losun
+  - mhiripiri
+  - mircha
+  - Ose
+  - papryka chili
+  - pemento chile
+  - peperoncino
+  - pilipilí
+  - piman
+  - pimant
+  - piment
+  - pimenta
+  - piobar sillí
+  - pipermin
+  - pipi ardenti
+  - puber chili
+  - pupur tsili
+  - raudonasis pipiras
+  - sakay
+  - sili
+  - specë e djegëst
+  - tabia
+  - tšilli
+  - utsu
+  - îsot
+  - čili
+  - čili pipari
+  - τσίλι
+  - калемпир
+  - кызыл борыч
+  - лута пиперка
+  - люта чушка
+  - острый перец
+  - перець чилі
+  - Хаяр хĕрлĕ пăрăç
+  - цывзы
+  - чырвоны перац
+  - қаламфури тунд
+  - կարմիր պղպեղ
+  - פלפלת צ'ילי
+  - اخلاد
+  - بیبەری تیژ
+  - فلفل تند
+  - فلفل حار
+  - قىزىلمۇچ
+  - مرچ
+  - مرژٕ وانٛگن
+  - ڳاڙھا مرچ
+  - ߝߙߏ߬ߕߏ
+  - खुर्सानी
+  - मरीचिका
+  - मर्चाई
+  - मल्ता
+  - मिरची
+  - मिर्च
+  - জলকীয়া
+  - মরিচ
+  - ਮਿਰਚ
+  - મરચું
+  - ଲଙ୍କା ମରୀଚ
+  - பச்சை மிளகாய்
+  - మిరపకాయ
+  - ಮುಂಚಿ
+  - ಮೆಣಸಿನಕಾಯಿ
+  - ചുവന്നമുളക്
+  - මිරිස්
+  - พริก
+  - ໝາກເຜັດ
+  - ငရုတ်
+  - ငရုတ်ပင်
+  - မြေက်
+  - မၢၵ်ႇၽိတ်ႉ
+  - ზაფანა
+  - წიწაკა
+  - ᱢᱟᱺᱨᱤᱪ
+  - ớt
+  - 唐辛子
+  - 辣椒
+  - 辣椒 (果实)
+  - 고추
 has_id_wikidata: Q165199
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~peperoncino,181572]]'
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~peperoncino,181572]]"
 natural_product_of_taxon:
-- '[[_Standards/WikiData/WD~Capsicum,201959]]'
-- '[[_Standards/WikiData/WD~Capsicum_annuum,1380]]'
-different_from: '[[_Standards/WikiData/WD~bell_pepper,1548030]]'
+  - "[[_Standards/WikiData/WD~Capsicum,201959]]"
+  - "[[_Standards/WikiData/WD~Capsicum_annuum,1380]]"
+different_from: "[[_Standards/WikiData/WD~bell_pepper,1548030]]"
 subclass_of:
-- '[[_Standards/WikiData/WD~condiment,2596997]]'
-- '[[_Standards/WikiData/WD~fruit,1364]]'
-- '[[_Standards/WikiData/WD~spice,42527]]'
-this_taxon_is_source_of: '[[_Standards/WikiData/WD~Mirchi,3315932]]'
+  - "[[_Standards/WikiData/WD~condiment,2596997]]"
+  - "[[_Standards/WikiData/WD~fruit,1364]]"
+  - "[[_Standards/WikiData/WD~spice,42527]]"
+this_taxon_is_source_of: "[[_Standards/WikiData/WD~Mirchi,3315932]]"
 instance_of:
-- '[[_Standards/WikiData/WD~food_ingredient,25403900]]'
-- '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Chili_peppers,100890114]]'
+  - "[[_Standards/WikiData/WD~food_ingredient,25403900]]"
+  - "[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]"
+topic_has_template: "[[_Standards/WikiData/WD~Template_Chili_peppers,100890114]]"
 water_footprint:
-- 379
-- 7365
+  - 379
+  - 7365
 PLU_code: 4686
 OmegaWiki_Defined_Meaning: 392603
 image:
-- http://commons.wikimedia.org/wiki/Special:FilePath/Piment%C3%B3n%20Tap%20de%20Cort%C3%AD.jpg
-- http://commons.wikimedia.org/wiki/Special:FilePath/Madame%20Jeanette%20and%20other%20chillies.jpg
-- http://commons.wikimedia.org/wiki/Special:FilePath/Piment%20%28pilipily%29%2001.jpg
-Unicode_character: "\U0001F336"
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Piment%C3%B3n%20Tap%20de%20Cort%C3%AD.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Madame%20Jeanette%20and%20other%20chillies.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Piment%20%28pilipily%29%2001.jpg
+Unicode_character: 🌶
 Commons_gallery: Capsicum
 pronunciation_audio:
-- http://commons.wikimedia.org/wiki/Special:FilePath/Nl-chilipeper.ogg
-- http://commons.wikimedia.org/wiki/Special:FilePath/Sv-chilipeppar.ogg
-- http://commons.wikimedia.org/wiki/Special:FilePath/Wo-kaani.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Nl-chilipeper.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Sv-chilipeppar.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Wo-kaani.ogg
 Amazon_com_browse_node:
-- 16319701
-- 6507133011
+  - 16319701
+  - 6507133011
 Commons_category: Chili peppers
 Wolfram_Language_entity_code: Entity["FoodType", "ChiliPepper"]
 dv_has_:

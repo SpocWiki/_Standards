@@ -1,220 +1,220 @@
 ---
 aliases:
-- almanak
-- Almenak
-- alminak
-- arapapaha
-- arminaat
-- asmlussan
-- biejjielåhkoe
-- calandario
-- calandáriu
-- Calendar
-- calendar system
-- Calendari
-- calendario
-- calendariu
-- calendarium
-- calender
-- calendièr
-- calendr
-- calendri
-- calendrier
-- calendàriu
-- calendário
-- calindrî
-- calinnariu
-- całendàrio
-- dagatal
-- deiziadur
-- dhaha
-- egutegi
-- Elaŋgɛ mbú
-- fenasɩ takayaɣ
-- féilire
-- hoéstoneéše'he
-- isibalizinsuku
-- kalanda
-- kalandar
-- kalandriyé
-- kaleandar
-- kaled
-- kalenda
-- kalendar
-- kalendar'
-- kalendari
-- kalendario
-- kalendaro
-- kalendaryo
-- kalendarz
-- kalendaŕ
-- kalender
-- kalendersystem
-- kalendorius
-- kalendár
-- kalendář
-- kalendārs
-- Kalenner
-- kalenteri
-- kalindaryu
-- kalinder
-- kallendri
-- kalyndŏrz
-- kalãndôrz
-- kalènder
-- kalénder
-- kalėnduorios
-- karenda
-- kaʹlndar
-- klender
-- Klenner
-- koledar
-- kúnsayîm
-- la̍k-fap
-- le̍k-hoat
-- ligfap
-- lunèri
-- lönàre
-- lûnäio
-- lĭk-huák
-- lịch
-- manáka
-- Manâka
-- maramataka
-- naptár
-- nasin pi tenpo suno
-- pananggalan
-- protyka
-- rijmmo
-- salname
-- serrename
-- Sunzanhiawe
-- takvim
-- takwim
-- taqvim
-- taswast
-- tetiandro
-- tšhupamabaka
-- təqvim
-- ullorsiut
-- Òfuk-acha
-- ȝerīmbōc
-- ημερολόγιο
-- гоҳшуморӣ
-- дырпус
-- жылнаама
-- календар
-- календарь
-- каляндар
-- ковгярькссь
-- ковкерькс
-- къалиндар
-- күнтізбе
-- лит
-- литэ
-- махуэ гъэпс
-- орузлама
-- рузма
-- тәкъвим
-- халандаар
-- Ханорг
-- цагалбар
-- үени хемчээри
-- Օրացոյց
-- օրացույց
-- לוח שנה
-- קאלענדאר
-- تقويم
-- تقویم
-- تەقۋىم
-- ڕۆژژمێر
-- کليز
-- کیلنڈر
-- ڪئلينڊر
-- گاهشماری
-- ܣܘܪܓܕܐ
-- कालदर्शक
-- कैलेंडर
-- कैलेण्डर
-- पञ्चाङ्गः
-- पात्रो
-- দিনপঞ্জী
-- বর্ষপঞ্জি
-- ਜੰਤਰੀ
-- நாட்காட்டி
-- కేలండరు
-- ಪಂಚಾಂಗ
-- കലണ്ടർ
-- දින දසුන්
-- ปฏิทิน
-- ປະຕິທິນ
-- ကြက္ကဒိန်
-- ပြက္ခဒိန်
-- ပၵ်းယဵမ်ႈဝၼ်း
-- კალენდარი
-- የቀን መቁጠሪያ
-- ᏅᏙ ᏗᏎᏗ
-- ᱢᱟᱸᱦᱟ ᱢᱟ.ᱦᱤᱛ
-- ⴰⵙⵎⵍⵓⵙⵙⴰⵏ
-- 历
-- 历法
-- 暦
-- 曆
-- 曆法
-- ꠚꠣꠁꠘ꠆ꠎꠤ
-- ꯊꯄꯥꯂꯣꯟ
-- 역법
+  - almanak
+  - Almenak
+  - alminak
+  - arapapaha
+  - arminaat
+  - asmlussan
+  - biejjielåhkoe
+  - calandario
+  - calandáriu
+  - Calendar
+  - calendar system
+  - Calendari
+  - calendario
+  - calendariu
+  - calendarium
+  - calender
+  - calendièr
+  - calendr
+  - calendri
+  - calendrier
+  - calendàriu
+  - calendário
+  - calindrî
+  - calinnariu
+  - całendàrio
+  - dagatal
+  - deiziadur
+  - dhaha
+  - egutegi
+  - Elaŋgɛ mbú
+  - fenasɩ takayaɣ
+  - féilire
+  - hoéstoneéše'he
+  - isibalizinsuku
+  - kalanda
+  - kalandar
+  - kalandriyé
+  - kaleandar
+  - kaled
+  - kalenda
+  - kalendar
+  - kalendar'
+  - kalendari
+  - kalendario
+  - kalendaro
+  - kalendaryo
+  - kalendarz
+  - kalendaŕ
+  - kalender
+  - kalendersystem
+  - kalendorius
+  - kalendár
+  - kalendář
+  - kalendārs
+  - Kalenner
+  - kalenteri
+  - kalindaryu
+  - kalinder
+  - kallendri
+  - kalyndŏrz
+  - kalãndôrz
+  - kalènder
+  - kalénder
+  - kalėnduorios
+  - karenda
+  - kaʹlndar
+  - klender
+  - Klenner
+  - koledar
+  - kúnsayîm
+  - la̍k-fap
+  - le̍k-hoat
+  - ligfap
+  - lunèri
+  - lönàre
+  - lûnäio
+  - lĭk-huák
+  - lịch
+  - manáka
+  - Manâka
+  - maramataka
+  - naptár
+  - nasin pi tenpo suno
+  - pananggalan
+  - protyka
+  - rijmmo
+  - salname
+  - serrename
+  - Sunzanhiawe
+  - takvim
+  - takwim
+  - taqvim
+  - taswast
+  - tetiandro
+  - tšhupamabaka
+  - təqvim
+  - ullorsiut
+  - Òfuk-acha
+  - ȝerīmbōc
+  - ημερολόγιο
+  - гоҳшуморӣ
+  - дырпус
+  - жылнаама
+  - календар
+  - календарь
+  - каляндар
+  - ковгярькссь
+  - ковкерькс
+  - къалиндар
+  - күнтізбе
+  - лит
+  - литэ
+  - махуэ гъэпс
+  - орузлама
+  - рузма
+  - тәкъвим
+  - халандаар
+  - Ханорг
+  - цагалбар
+  - үени хемчээри
+  - Օրացոյց
+  - օրացույց
+  - לוח שנה
+  - קאלענדאר
+  - تقويم
+  - تقویم
+  - تەقۋىم
+  - ڕۆژژمێر
+  - کليز
+  - کیلنڈر
+  - ڪئلينڊر
+  - گاهشماری
+  - ܣܘܪܓܕܐ
+  - कालदर्शक
+  - कैलेंडर
+  - कैलेण्डर
+  - पञ्चाङ्गः
+  - पात्रो
+  - দিনপঞ্জী
+  - বর্ষপঞ্জি
+  - ਜੰਤਰੀ
+  - நாட்காட்டி
+  - కేలండరు
+  - ಪಂಚಾಂಗ
+  - കലണ്ടർ
+  - දින දසුන්
+  - ปฏิทิน
+  - ປະຕິທິນ
+  - ကြက္ကဒိန်
+  - ပြက္ခဒိန်
+  - ပၵ်းယဵမ်ႈဝၼ်း
+  - კალენდარი
+  - የቀን መቁጠሪያ
+  - ᏅᏙ ᏗᏎᏗ
+  - ᱢᱟᱸᱦᱟ ᱢᱟ.ᱦᱤᱛ
+  - ⴰⵙⵎⵍⵓⵙⵙⴰⵏ
+  - 历
+  - 历法
+  - 暦
+  - 曆
+  - 曆法
+  - ꠚꠣꠁꠘ꠆ꠎꠤ
+  - ꯊꯄꯥꯂꯣꯟ
+  - 역법
 has_id_wikidata: Q12132
 Colon_Classification: B9:17
 Commons_category: Calendars
 Commons_gallery: Calendar
 described_by_source:
-- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Ukraïnsʹka_bibliotechna_encyclopedia,97441485]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+  - "[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]"
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - "[[_Standards/WikiData/WD~Ukraïnsʹka_bibliotechna_encyclopedia,97441485]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 Dewey_Decimal_Classification:
-- 529.3
-- 741.682
+  - 529.3
+  - 741.682
 different_from:
-- '[[_Standards/WikiData/WD~calender,1365679]]'
-- '[[_Standards/WikiData/WD~calendar,12027715]]'
-- '[[_Standards/WikiData/WD~list_of_centuries_and_millennia,27305]]'
+  - "[[_Standards/WikiData/WD~calender,1365679]]"
+  - "[[_Standards/WikiData/WD~calendar,12027715]]"
+  - "[[_Standards/WikiData/WD~list_of_centuries_and_millennia,27305]]"
 GitHub_topic: calendar
-has_part_s_: '[[_Standards/WikiData/WD~calendar_date,205892]]'
+has_part_s_: "[[_Standards/WikiData/WD~calendar_date,205892]]"
 Iconclass_notation: 23U1
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Revolution%20kalendar.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-- '[[_Standards/WikiData/WD~field_of_study,2267705]]'
+  - "[[_Standards/WikiData/WD~field_of_study,1047113]]"
+  - "[[_Standards/WikiData/WD~field_of_study,2267705]]"
 Krugosvet_article: istoriya/KALENDAR.html
 MeSH_tree_code: V02.220
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q11090509,11090509]]'
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q11090509,11090509]]"
 Provenio_UUID: ff6f97d2-f969-4a1c-914f-b51a2aeb6040
 subclass_of:
-- '[[_Standards/WikiData/WD~chronology,130788]]'
-- '[[_Standards/WikiData/WD~conceptual_system,3622126]]'
+  - "[[_Standards/WikiData/WD~chronology,130788]]"
+  - "[[_Standards/WikiData/WD~conceptual_system,3622126]]"
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Months,5613734]]'
-- '[[_Standards/WikiData/WD~Template_Calendars,6260721]]'
-- '[[_Standards/WikiData/WD~Template_Calendar,6396244]]'
+  - "[[_Standards/WikiData/WD~Template_Months,5613734]]"
+  - "[[_Standards/WikiData/WD~Template_Calendars,6260721]]"
+  - "[[_Standards/WikiData/WD~Template_Calendar,6396244]]"
 UMLS_CUI:
-- C4277698
-- C1516147
+  - C4277698
+  - C1516147
 Unicode_character:
-- "\U0001F4C5"
-- "\U0001F5D3"
+  - 📅
+  - 🗓
 U_S_National_Archives_Identifier: 10638843
 dv_has_:
   name_:
@@ -443,7 +443,8 @@ dv_has_:
     zh_tw: 曆法
     zu: isibalizinsuku
 ---
-# [[Calendar]] 📅  
+# [[Calendar]] 📅 🗓
+
 
 #is_/same_as :: [[../WikiData/WD~Calendar,12132|WD~Calendar,12132]] 
 

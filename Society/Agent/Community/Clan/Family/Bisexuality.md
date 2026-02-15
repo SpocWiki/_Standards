@@ -277,7 +277,7 @@ dv_has_:
     zh_sg: 双性恋向
     zh_tw: 雙性戀
 ---
-# [[Bisexuality]] 
+# [[Bisexuality]]  ⚥
 
 #is_/same_as :: [[../../../../../WikiData/WD~Bisexuality,43200|WD~Bisexuality,43200]] 
 

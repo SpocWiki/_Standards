@@ -1,152 +1,152 @@
 ---
 aliases:
-- Abbili
-- Abufuo
-- Anger
-- Angga
-- Arlìa
-- ashıw
-- A̱fi̱ri̱m
-- bes
-- Buanegezh
-- carraxe
-- colère
-- Cĕ̤ng
-- dicter
-- dusmas
-- enuig
-- fearg
-- Fushi
-- gniew
-- gniéw
-- Gʻazab
-- harag
-- haserre
-- Hasha
-- hasira
-- Hirs
-- hnev
-- hněv
-- hněw
-- Hêrs
-- Inati
-- Intfukutselo
-- ira
-- Iraco
-- jeza
-- Kaanggotan
-- Kemarahan
-- Khí-pháiⁿ-bīn
-- kiciwasiwin
-- kolero
-- Kolèr
-- Kòlè
-- kızgınlık
-- Lilkens
-- Ljutnja
-- marah
-- mânie
-- Ndatheiq
-- Nesu
-- Nkándá
-- Phiñakuy
-- Pochy
-- Poot
-- Pot-at
-- pyktis
-- raiva
-- reiði
-- Roxura
-- Rábia
-- sinne
-- suuttumus
-- Tshinji
-- tức giận
-- Viha
-- vrede
-- Vukarhi
-- Woede
-- Xanaaq
-- Zlastis
-- Zorn
-- θυμός
-- μῆνις
-- Ашушаңдық
-- бес
-- гнів
-- Гнїв
-- гнеў
-- гнев
-- Гняв
-- Тарăху
-- Уур уцаар
-- Ғазаб
-- כעס
-- צארן
-- تووڕەیی
-- خشم
-- شَرارَتھ
-- غصہ
-- غضب
-- ߡߐߣߍ
-- क्रोध
-- तं
-- राग
-- ক্রোধ
-- ਗ਼ੁੱਸਾ
-- கோபம்
-- క్రోధం
-- ಕೋಪ
-- ความโกรธ
-- ཁོང་ཁྲོ།
-- ᠵᡳᠯᡳ
-- ᱨᱟᱹᱜᱤ
-- 嬲
-- 怒り
-- 愤怒
-- 憤怒
-- 著氣
-- 노여움
+  - Abbili
+  - Abufuo
+  - Anger
+  - Angga
+  - Arlìa
+  - ashıw
+  - A̱fi̱ri̱m
+  - bes
+  - Buanegezh
+  - carraxe
+  - colère
+  - Cĕ̤ng
+  - dicter
+  - dusmas
+  - enuig
+  - fearg
+  - Fushi
+  - gniew
+  - gniéw
+  - Gʻazab
+  - harag
+  - haserre
+  - Hasha
+  - hasira
+  - Hirs
+  - hnev
+  - hněv
+  - hněw
+  - Hêrs
+  - Inati
+  - Intfukutselo
+  - ira
+  - Iraco
+  - jeza
+  - Kaanggotan
+  - Kemarahan
+  - Khí-pháiⁿ-bīn
+  - kiciwasiwin
+  - kolero
+  - Kolèr
+  - Kòlè
+  - kızgınlık
+  - Lilkens
+  - Ljutnja
+  - marah
+  - mânie
+  - Ndatheiq
+  - Nesu
+  - Nkándá
+  - Phiñakuy
+  - Pochy
+  - Poot
+  - Pot-at
+  - pyktis
+  - raiva
+  - reiði
+  - Roxura
+  - Rábia
+  - sinne
+  - suuttumus
+  - Tshinji
+  - tức giận
+  - Viha
+  - vrede
+  - Vukarhi
+  - Woede
+  - Xanaaq
+  - Zlastis
+  - Zorn
+  - θυμός
+  - μῆνις
+  - Ашушаңдық
+  - бес
+  - гнів
+  - Гнїв
+  - гнеў
+  - гнев
+  - Гняв
+  - Тарăху
+  - Уур уцаар
+  - Ғазаб
+  - כעס
+  - צארן
+  - تووڕەیی
+  - خشم
+  - شَرارَتھ
+  - غصہ
+  - غضب
+  - ߡߐߣߍ
+  - क्रोध
+  - तं
+  - राग
+  - ক্রোধ
+  - ਗ਼ੁੱਸਾ
+  - கோபம்
+  - క్రోధం
+  - ಕೋಪ
+  - ความโกรธ
+  - ཁོང་ཁྲོ།
+  - ᠵᡳᠯᡳ
+  - ᱨᱟᱹᱜᱤ
+  - 嬲
+  - 怒り
+  - 愤怒
+  - 憤怒
+  - 著氣
+  - 노여움
 has_id_wikidata: Q79871
 instance_of:
-- '[[_Standards/WikiData/WD~seven_deadly_sins,166502]]'
-- '[[_Standards/WikiData/WD~basic_emotion,16748867]]'
-- '[[_Standards/WikiData/WD~negative_emotion,60539481]]'
+  - "[[_Standards/WikiData/WD~seven_deadly_sins,166502]]"
+  - "[[_Standards/WikiData/WD~basic_emotion,16748867]]"
+  - "[[_Standards/WikiData/WD~negative_emotion,60539481]]"
 different_from:
-- '[[_Standards/WikiData/WD~Outrage,537026]]'
-- '[[_Standards/WikiData/WD~Q33056248,33056248]]'
-handled_mitigated_or_managed_by: '[[_Standards/WikiData/WD~anger_management,574559]]'
+  - "[[_Standards/WikiData/WD~Outrage,537026]]"
+  - "[[_Standards/WikiData/WD~Q33056248,33056248]]"
+handled_mitigated_or_managed_by: "[[_Standards/WikiData/WD~anger_management,574559]]"
 described_by_source:
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 part_of:
-- '[[_Standards/WikiData/WD~theory_of_emotion,9357054]]'
-- '[[_Standards/WikiData/WD~primary_emotion,28481737]]'
-- '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
-opposite_of: '[[_Standards/WikiData/WD~patience,12846123]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~anger,16700267]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~Anger_of_God_in_Islam,125946849]]'
-subclass_of: '[[_Standards/WikiData/WD~emotions,9415]]'
+  - "[[_Standards/WikiData/WD~theory_of_emotion,9357054]]"
+  - "[[_Standards/WikiData/WD~primary_emotion,28481737]]"
+  - "[[_Standards/WikiData/WD~psychology_terminology,77468620]]"
+opposite_of: "[[_Standards/WikiData/WD~patience,12846123]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~anger,16700267]]"
+partially_coincident_with: "[[_Standards/WikiData/WD~Anger_of_God_in_Islam,125946849]]"
+subclass_of: "[[_Standards/WikiData/WD~emotions,9415]]"
 social_media_followers: 37765
 OmegaWiki_Defined_Meaning: 1156554
 subreddit:
-- angry
-- Anger
+  - angry
+  - Anger
 hashtag: angry
 Commons_category: Anger
 IMDb_keyword:
-- anger
-- wrath
+  - anger
+  - wrath
 PhilPapers_topic: anger
 Unicode_character:
-- "\U0001F4A2"
-- "\U0001F620"
-- "\U0001F621"
+  - 💢
+  - 😠
+  - 😡
 Dewey_Decimal_Classification: 152.47
 image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20frontal%20outline%20and%20a%20profile%20of%20faces%20expressing%20anger.%20E%20Wellcome%20V0009398.jpg
 label_in_sign_language: http://commons.wikimedia.org/wiki/Special:FilePath/Colere%20Nf%201%201%201%20-%20Elix.webm
@@ -284,7 +284,6 @@ dv_has_:
 # [[Anger]] 😡 
 
 #is_/same_as :: [[../../../../WikiData/WD~Anger,79871]] 
-
 
 ## #has_/text_of_/abstract 
 

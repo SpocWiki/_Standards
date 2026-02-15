@@ -1,205 +1,205 @@
 ---
 aliases:
-- alos
-- alus
-- Beer
-- beoir
-- bere
-- Bia
-- bier
-- biera
-- biero
-- Biir
-- bir
-- bira
-- bire
-- birje
-- biro
-- birra
-- birâ
-- bizhééʼ hólóní
-- bière
-- bièrra
-- biére
-- biéthe
-- Bjoor
-- bjyr
-- bjór
-- byala
-- byè
-- Béier
-- bì-ciū
-- bì-luh
-- bîra
-- bïra
-- bēor
-- cerveja
-- cervesa
-- cervesia
-- cervexa
-- cerveza
-- cwrw
-- doro
-- faarso
-- garagardo
-- giya
-- héesevo'tamahpe
-- inzoga
-- kaguyjúi
-- korev
-- labiera
-- labyè
-- laeujbizciuj
-- leann
-- lhune
-- maluvu
-- napier
-- olud
-- oluq
-- olut
-- phî-lu
-- pia
-- pivo
-- pivə
-- piwo
-- piwò
-- pɩyɛɛrɩ
-- serbesa
-- serbisa
-- sirwisa
-- sör
-- telo nasa pan
-- ubhiya
-- voelege
-- vuola
-- yoltexhuino
-- õlu
-- öl
-- øl
-- ζῦθος
-- μπίρα
-- бæгæны
-- бира
-- йий
-- оби ҷав
-- піва
-- пиво
-- пивэ
-- пиибэ
-- сăра
-- сур
-- сыра
-- шар айраг
-- һыра
-- գարեջուր
-- ביר
-- בירה
-- آبجو
-- بير
-- بيره
-- بیئر
-- بیر
-- بیرە
-- جعة
-- پىۋا
-- پیوه
-- ܦܙܐ
-- बियर
-- यवसुरा
-- বিয়ার
-- বিয়েৰ
-- ਬੀਅਰ
-- બીયર
-- ବିଅର
-- பியர்
-- బీరు
-- ಬಿಯರ್
-- ബിയർ
-- බියර්
-- เบียร์
-- ເບຍ
-- སྦི་རག
-- ပီႇယႃႇ
-- ဘီယာ
-- ლუდი
-- ቢራ
-- ᎤᏬᎩᎵ
-- ビール
-- 啤酒
-- 맥주
-- "\U00010330\U0001033B\U0001033F\U00010338"
+  - alos
+  - alus
+  - Beer
+  - beoir
+  - bere
+  - Bia
+  - bier
+  - biera
+  - biero
+  - Biir
+  - bir
+  - bira
+  - bire
+  - birje
+  - biro
+  - birra
+  - birâ
+  - bizhééʼ hólóní
+  - bière
+  - bièrra
+  - biére
+  - biéthe
+  - Bjoor
+  - bjyr
+  - bjór
+  - byala
+  - byè
+  - Béier
+  - bì-ciū
+  - bì-luh
+  - bîra
+  - bïra
+  - bēor
+  - cerveja
+  - cervesa
+  - cervesia
+  - cervexa
+  - cerveza
+  - cwrw
+  - doro
+  - faarso
+  - garagardo
+  - giya
+  - héesevo'tamahpe
+  - inzoga
+  - kaguyjúi
+  - korev
+  - labiera
+  - labyè
+  - laeujbizciuj
+  - leann
+  - lhune
+  - maluvu
+  - napier
+  - olud
+  - oluq
+  - olut
+  - phî-lu
+  - pia
+  - pivo
+  - pivə
+  - piwo
+  - piwò
+  - pɩyɛɛrɩ
+  - serbesa
+  - serbisa
+  - sirwisa
+  - sör
+  - telo nasa pan
+  - ubhiya
+  - voelege
+  - vuola
+  - yoltexhuino
+  - õlu
+  - öl
+  - øl
+  - ζῦθος
+  - μπίρα
+  - бæгæны
+  - бира
+  - йий
+  - оби ҷав
+  - піва
+  - пиво
+  - пивэ
+  - пиибэ
+  - сăра
+  - сур
+  - сыра
+  - шар айраг
+  - һыра
+  - գարեջուր
+  - ביר
+  - בירה
+  - آبجو
+  - بير
+  - بيره
+  - بیئر
+  - بیر
+  - بیرە
+  - جعة
+  - پىۋا
+  - پیوه
+  - ܦܙܐ
+  - बियर
+  - यवसुरा
+  - বিয়ার
+  - বিয়েৰ
+  - ਬੀਅਰ
+  - બીયર
+  - ବିଅର
+  - பியர்
+  - బీరు
+  - ಬಿಯರ್
+  - ബിയർ
+  - බියර්
+  - เบียร์
+  - ເບຍ
+  - སྦི་རག
+  - ပီႇယႃႇ
+  - ဘီယာ
+  - ლუდი
+  - ቢራ
+  - ᎤᏬᎩᎵ
+  - ビール
+  - 啤酒
+  - 맥주
+  - 𐌰𐌻𐌿𐌸
 has_id_wikidata: Q44
 2022_Harmonized_System_Code: 2203
 Amazon_com_browse_node: 2983385011
 carbon_footprint:
-- 1
-- 0.9
+  - 1
+  - 0.9
 Colon_Classification: F548
 Commons_category: Beer
 Commons_gallery: Beer
 described_by_source:
-- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]'
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+  - "[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]"
+  - "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
 Dewey_Decimal_Classification:
-- 641.23
-- 641.623
-- 641.873
-- 663.42
+  - 641.23
+  - 641.623
+  - 641.873
+  - 663.42
 different_from:
-- '[[_Standards/WikiData/WD~Bier,421231]]'
-- '[[_Standards/WikiData/WD~Piwo,20034664]]'
-disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+  - "[[_Standards/WikiData/WD~Bier,421231]]"
+  - "[[_Standards/WikiData/WD~Piwo,20034664]]"
+disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
 equivalent_class:
-- http://aims.fao.org/aos/agrovoc/c_864
-- http://dbpedia.org/ontology/Beer
+  - http://aims.fao.org/aos/agrovoc/c_864
+  - http://dbpedia.org/ontology/Beer
 exact_match: http://purl.obolibrary.org/obo/ENVO_01000015
 GitHub_topic: beer
 GS1_GPC_code: 10000159
-has_characteristic: '[[_Standards/WikiData/WD~bitterness,1517187]]'
+has_characteristic: "[[_Standards/WikiData/WD~bitterness,1517187]]"
 has_part_s_:
-- '[[_Standards/WikiData/WD~hops,3214940]]'
-- '[[_Standards/WikiData/WD~barley,61665121]]'
-- '[[_Standards/WikiData/WD~water,283]]'
-- '[[_Standards/WikiData/WD~yeast,45422]]'
+  - "[[_Standards/WikiData/WD~hops,3214940]]"
+  - "[[_Standards/WikiData/WD~barley,61665121]]"
+  - "[[_Standards/WikiData/WD~water,283]]"
+  - "[[_Standards/WikiData/WD~yeast,45422]]"
 has_time_started: -3500
-history_of_topic: '[[_Standards/WikiData/WD~history_of_beer,1517305]]'
+history_of_topic: "[[_Standards/WikiData/WD~history_of_beer,1517305]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/NCI%20Visuals%20Food%20Beer.jpg
 Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/PIVO.html
 label_in_sign_language: http://commons.wikimedia.org/wiki/Special:FilePath/Csc-cervesa-spreadthesign.ogv
-made_from_material: '[[_Standards/WikiData/WD~hops,3214940]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Beer,13341435]]'
+made_from_material: "[[_Standards/WikiData/WD~hops,3214940]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Beer,13341435]]"
 MeSH_tree_code:
-- G07.203.100.100.200
-- J02.200.100.200
-- G07.203.100.559.500
-- G07.203.200.563.500
-- J02.200.559.500
-- J02.350.594.500
+  - G07.203.100.100.200
+  - J02.200.100.200
+  - G07.203.100.559.500
+  - G07.203.200.563.500
+  - J02.200.559.500
+  - J02.350.594.500
 OmegaWiki_Defined_Meaning: 6715
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Beer%20Beer%20glasses%20at%20Oktoberfest.png
-produced_by: '[[_Standards/WikiData/WD~brewery,131734]]'
+produced_by: "[[_Standards/WikiData/WD~brewery,131734]]"
 Provenio_UUID: c232cd2d-2b67-4fe8-914b-a04bc8eccad9
 social_media_followers: 458316
 Stadtwiki_Dresden_article: Bier
 start_time: -3500
 subclass_of:
-- '[[_Standards/WikiData/WD~commodity,317088]]'
-- '[[_Standards/WikiData/WD~alcopop,1571448]]'
-- '[[_Standards/WikiData/WD~malt_beverage,6744639]]'
-- '[[_Standards/WikiData/WD~fermented_alcoholic_beverage,11258817]]'
+  - "[[_Standards/WikiData/WD~commodity,317088]]"
+  - "[[_Standards/WikiData/WD~alcopop,1571448]]"
+  - "[[_Standards/WikiData/WD~malt_beverage,6744639]]"
+  - "[[_Standards/WikiData/WD~fermented_alcoholic_beverage,11258817]]"
 subreddit: beer
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_beer,11202881]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Beer,8289204]]'
+topic_s_main_template: "[[_Standards/WikiData/WD~Template_Infobox_beer,11202881]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Beer,8289204]]"
 UMLS_CUI: C0004922
 Unicode_character:
-- "\U0001F37A"
-- "\U0001F37B"
+  - 🍺
+  - 🍻
 U_S_National_Archives_Identifier: 10646278
 Wolfram_Language_entity_code: Entity["FoodType", "Beer"]
 dv_has_:
@@ -274,7 +274,7 @@ dv_has_:
     gd: leann
     gl: cervexa
     gn: kaguyjúi
-    got: "\U00010330\U0001033B\U0001033F\U00010338"
+    got: 𐌰𐌻𐌿𐌸
     grc: ζῦθος
     gsw: Bier
     gu: બીયર
@@ -426,7 +426,7 @@ dv_has_:
     zh_tw: 啤酒
     zu: ubhiya
 ---
-# [[Beer]] 🍺 
+# [[Beer]] 🍺 🍻
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Beer,44|WD~Beer,44]] 
 

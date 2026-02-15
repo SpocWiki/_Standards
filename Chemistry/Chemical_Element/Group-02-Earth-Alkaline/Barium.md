@@ -391,6 +391,9 @@ dv_has_number_of_electrons: 56
 dv_has_number_of_period: 6
 dv_has_number_of_group: 2
 ---
+
+# [[Barium]] 鋇 
+
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Barium,1112]] 
 

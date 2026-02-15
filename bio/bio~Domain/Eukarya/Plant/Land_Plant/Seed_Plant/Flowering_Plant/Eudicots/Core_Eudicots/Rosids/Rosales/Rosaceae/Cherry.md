@@ -1,186 +1,186 @@
 ---
 aliases:
-- Albalı
-- anh đào
-- Aṛedlim
-- ceiriosen
-- cel
-- Cerasa
-- cerase
-- Cerasus
-- Cereija
-- cereixa
-- cereja
-- ceresia
-- cereza
-- ceri
-- cerise
-- cerizo
-- Cerièra
-- Ceréjhe
-- cheri
-- Cherries
-- Cherry
-- Chjarasgia
-- Chriesi
-- Chrisse
-- ciliegia
-- Cirasa
-- cireashã
-- cireașă
-- cirera
-- cjariese
-- cseresznye
-- Cuŏ-ĕng
-- czereśnie
-- Cèri
-- Didzéchííʼ
-- gerezi
-- gêlaz
-- keres
-- Kerez
-- kers
-- kiesj
-- Kiischt
-- kiraz
-- Kirsche
-- kirsebær
-- kirsiber
-- kirsikka
-- kirss
-- Kirsuber
-- Krzesznia
-- körsbär
-- miko cwemin
-- Olcha
-- qershia
-- Rinda
-- Sareza
-- Sciresa
-- Seresa
-- Seriz
-- shillish
-- Shiye
-- silín
-- siris
-- Sirësa
-- sëriis
-- Trešnja
-- trzyśńa
-- třešně
-- tšhêri
-- vyšnia
-- vīšne
-- Vīšnė
-- wišnja
-- ziresa
-- Çëxa
-- ĉerizo
-- ċirasa
-- čerešňa
-- češnja
-- čirsa
-- ķirši
-- Κεράσι
-- κεράσιον
-- арча
-- Атямарь
-- Бал
-- Боал
-- вішня
-- вишня
-- Вишняву
-- гелос
-- Интоор
-- Сейә
-- трешња
-- цреша
-- чарэшня
-- череша
-- черешьнѧ
-- чие
-- чия
-- шие
-- үлҗе
-- բալ
-- דובדבן
-- آلو بالو
-- شاہ دانہ
-- كرز
-- كريز
-- هلی کاک
-- پرَٛبٕدٔر
-- گىلاس
-- گیلاس
-- گێلاس
-- आलूबालू
-- चेरी
-- চেরি
-- ਚੈਰੀ
-- ચેરી
-- ଚେରୀ
-- செர்ரி
-- చెర్రీ
-- ಚೆರಿ
-- ചെറി
-- เชอร์รี่
-- ໝາກເຊີຣິ
-- སེའུ།
-- ချယ်ရီသီး
-- မၢၵ်ႇၵွၼ်
-- ალუბალი
-- ᎩᏔᏯ
-- ᡳᠩᡨᠣᡵᡳ
-- ⴰⵔⴷⵍⵉⵎ
-- サクランボ
-- 樱
-- 樱桃
-- 櫻桃
-- 車厘子
-- 버찌
+  - Albalı
+  - anh đào
+  - Aṛedlim
+  - ceiriosen
+  - cel
+  - Cerasa
+  - cerase
+  - Cerasus
+  - Cereija
+  - cereixa
+  - cereja
+  - ceresia
+  - cereza
+  - ceri
+  - cerise
+  - cerizo
+  - Cerièra
+  - Ceréjhe
+  - cheri
+  - Cherries
+  - Cherry
+  - Chjarasgia
+  - Chriesi
+  - Chrisse
+  - ciliegia
+  - Cirasa
+  - cireashã
+  - cireașă
+  - cirera
+  - cjariese
+  - cseresznye
+  - Cuŏ-ĕng
+  - czereśnie
+  - Cèri
+  - Didzéchííʼ
+  - gerezi
+  - gêlaz
+  - keres
+  - Kerez
+  - kers
+  - kiesj
+  - Kiischt
+  - kiraz
+  - Kirsche
+  - kirsebær
+  - kirsiber
+  - kirsikka
+  - kirss
+  - Kirsuber
+  - Krzesznia
+  - körsbär
+  - miko cwemin
+  - Olcha
+  - qershia
+  - Rinda
+  - Sareza
+  - Sciresa
+  - Seresa
+  - Seriz
+  - shillish
+  - Shiye
+  - silín
+  - siris
+  - Sirësa
+  - sëriis
+  - Trešnja
+  - trzyśńa
+  - třešně
+  - tšhêri
+  - vyšnia
+  - vīšne
+  - Vīšnė
+  - wišnja
+  - ziresa
+  - Çëxa
+  - ĉerizo
+  - ċirasa
+  - čerešňa
+  - češnja
+  - čirsa
+  - ķirši
+  - Κεράσι
+  - κεράσιον
+  - арча
+  - Атямарь
+  - Бал
+  - Боал
+  - вішня
+  - вишня
+  - Вишняву
+  - гелос
+  - Интоор
+  - Сейә
+  - трешња
+  - цреша
+  - чарэшня
+  - череша
+  - черешьнѧ
+  - чие
+  - чия
+  - шие
+  - үлҗе
+  - բալ
+  - דובדבן
+  - آلو بالو
+  - شاہ دانہ
+  - كرز
+  - كريز
+  - هلی کاک
+  - پرَٛبٕدٔر
+  - گىلاس
+  - گیلاس
+  - گێلاس
+  - आलूबालू
+  - चेरी
+  - চেরি
+  - ਚੈਰੀ
+  - ચેરી
+  - ଚେରୀ
+  - செர்ரி
+  - చెర్రీ
+  - ಚೆರಿ
+  - ചെറി
+  - เชอร์รี่
+  - ໝາກເຊີຣິ
+  - སེའུ།
+  - ချယ်ရီသီး
+  - မၢၵ်ႇၵွၼ်
+  - ალუბალი
+  - ᎩᏔᏯ
+  - ᡳᠩᡨᠣᡵᡳ
+  - ⴰⵔⴷⵍⵉⵎ
+  - サクランボ
+  - 樱
+  - 樱桃
+  - 櫻桃
+  - 車厘子
+  - 버찌
 has_id_wikidata: Q196
 Amazon_com_browse_node:
-- 16319021
-- 6464952011
-- 6507137011
-color: '[[_Standards/WikiData/WD~red,3142]]'
+  - 16319021
+  - 6464952011
+  - 6507137011
+color: "[[_Standards/WikiData/WD~red,3142]]"
 Commons_category: Cherries
 CosIng_number: 89317
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 different_from:
-- '[[_Standards/WikiData/WD~Prunus_avium,165137]]'
-- '[[_Standards/WikiData/WD~Cereza,1055207]]'
+  - "[[_Standards/WikiData/WD~Prunus_avium,165137]]"
+  - "[[_Standards/WikiData/WD~Cereza,1055207]]"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cherry%20Stella444.jpg
 natural_product_of_taxon:
-- '[[_Standards/WikiData/WD~Prunus_cerasus,131517]]'
-- '[[_Standards/WikiData/WD~Prunus_avium,165137]]'
-- '[[_Standards/WikiData/WD~Prunus_subg._Cerasus,2946681]]'
+  - "[[_Standards/WikiData/WD~Prunus_cerasus,131517]]"
+  - "[[_Standards/WikiData/WD~Prunus_avium,165137]]"
+  - "[[_Standards/WikiData/WD~Prunus_subg._Cerasus,2946681]]"
 OmegaWiki_Defined_Meaning: 398842
 PLU_code:
-- 4045
-- 3358
-- 3357
+  - 4045
+  - 3358
+  - 3357
 pronunciation_audio:
-- http://commons.wikimedia.org/wiki/Special:FilePath/Ka-alubali.ogg
-- http://commons.wikimedia.org/wiki/Special:FilePath/Ta-%E0%AE%9A%E0%AF%87%E0%AE%B2%E0%AE%BE%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%B4%E0%AE%AE%E0%AF%8D.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Ka-alubali.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Ta-%E0%AE%9A%E0%AF%87%E0%AE%B2%E0%AE%BE%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%B4%E0%AE%AE%E0%AF%8D.ogg
 sectional_view: http://commons.wikimedia.org/wiki/Special:FilePath/Cross-section%20cherry.jpg
-subclass_of: '[[_Standards/WikiData/WD~drupe,14712]]'
-Unicode_character: "\U0001F352"
+subclass_of: "[[_Standards/WikiData/WD~drupe,14712]]"
+Unicode_character: 🍒
 UNII: 93T4562ZI3
 USDA_NDB_number:
-- 9073
-- 9076
-- 9367
-- 9074
-- 9070
-- 9071
-- 9072
-- 9075
+  - 9073
+  - 9076
+  - 9367
+  - 9074
+  - 9070
+  - 9071
+  - 9072
+  - 9075
 dv_has_:
   name_:
     an: ziresa

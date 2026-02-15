@@ -1,159 +1,159 @@
 ---
 aliases:
-- Abacate
-- abacateiro
-- abhacád
-- Abokado
-- Abokato
-- Abukado
-- Abukadu
-- acovade
-- Afakadho
-- afocado
-- Aguacate
-- Alagatapeha'
-- Albhukat
-- alligator pear
-- Alpukat
-- Alpuket
-- alvocat
-- Amerika avokadosu
-- Amerikinė persėja
-- Apokad
-- Apokat
-- avacatal
-- avakado
-- Avhokadho
-- Avocad
-- Avocado
-- avocatier
-- Avoka
-- avokaado
-- avokadiero
-- avokado
-- avokadovec
-- avokádó
-- avoukez
-- Beallucperu
-- Bơ
-- Chʼil akʼahí
-- hedelmäavokado
-- hruškovec americký
-- hruškovec přelahodný
-- Jambu Pukat
-- Lárpera
-- Mapeyala
-- Mparachichi
-- Palta
-- Paya
-- Persea americana
-- Pye zaboka
-- Sabúká
-- smaczliwka wdzięczna
-- ube oyibo
-- Zavoka
-- Âvōta
-- Āhuacacuahuitl
-- ʻĀvoka
-- Αβοκάντο
-- Авакада
-- авокадо
-- Авокодо
-- ավոկադո
-- Աւկատանձ
-- אבוקדו
-- אוואקאדא
-- آمریکا آووکادوسو
-- آووکادو
-- آووکاڈو
-- أفوكادو
-- ئاۋكادۇر
-- ئەڤۆکادۆ
-- افوكادو
-- مگر ناشپاتی
-- ߔߌߦߊ
-- अॅव्होकॅडो
-- एभोकाडो
-- मक्खनफल
-- অ্যাভোকাডো
-- আভাকাডো
-- ਆਵਾਕੈਡੋ
-- ଆଭୋକାଡୋ
-- வெண்ணெய்ப் பழம்
-- వెన్న పండు
-- ಆವಕಾಡೊ
-- വെണ്ണപ്പഴം
-- อาโวคาโด
-- ສາລີ້ແຂ້
-- ထောပတ်ပင်
-- ავოკადო
-- አቡካዶ
-- ኣቮካዶ
-- ប៊័រ
-- アボカド
-- 樟梨
-- 油梨
-- 牛油果
-- 酪梨
-- 鳄梨
-- 아보카도
+  - Abacate
+  - abacateiro
+  - abhacád
+  - Abokado
+  - Abokato
+  - Abukado
+  - Abukadu
+  - acovade
+  - Afakadho
+  - afocado
+  - Aguacate
+  - Alagatapeha'
+  - Albhukat
+  - alligator pear
+  - Alpukat
+  - Alpuket
+  - alvocat
+  - Amerika avokadosu
+  - Amerikinė persėja
+  - Apokad
+  - Apokat
+  - avacatal
+  - avakado
+  - Avhokadho
+  - Avocad
+  - Avocado
+  - avocatier
+  - Avoka
+  - avokaado
+  - avokadiero
+  - avokado
+  - avokadovec
+  - avokádó
+  - avoukez
+  - Beallucperu
+  - Bơ
+  - Chʼil akʼahí
+  - hedelmäavokado
+  - hruškovec americký
+  - hruškovec přelahodný
+  - Jambu Pukat
+  - Lárpera
+  - Mapeyala
+  - Mparachichi
+  - Palta
+  - Paya
+  - Persea americana
+  - Pye zaboka
+  - Sabúká
+  - smaczliwka wdzięczna
+  - ube oyibo
+  - Zavoka
+  - Âvōta
+  - Āhuacacuahuitl
+  - ʻĀvoka
+  - Αβοκάντο
+  - Авакада
+  - авокадо
+  - Авокодо
+  - ավոկադո
+  - Աւկատանձ
+  - אבוקדו
+  - אוואקאדא
+  - آمریکا آووکادوسو
+  - آووکادو
+  - آووکاڈو
+  - أفوكادو
+  - ئاۋكادۇر
+  - ئەڤۆکادۆ
+  - افوكادو
+  - مگر ناشپاتی
+  - ߔߌߦߊ
+  - अॅव्होकॅडो
+  - एभोकाडो
+  - मक्खनफल
+  - অ্যাভোকাডো
+  - আভাকাডো
+  - ਆਵਾਕੈਡੋ
+  - ଆଭୋକାଡୋ
+  - வெண்ணெய்ப் பழம்
+  - వెన్న పండు
+  - ಆವಕಾಡೊ
+  - വെണ്ണപ്പഴം
+  - อาโวคาโด
+  - ສາລີ້ແຂ້
+  - ထောပတ်ပင်
+  - ავოკადო
+  - አቡካዶ
+  - ኣቮካዶ
+  - ប៊័រ
+  - アボカド
+  - 樟梨
+  - 油梨
+  - 牛油果
+  - 酪梨
+  - 鳄梨
+  - 아보카도
 has_id_wikidata: Q37153
 GenBank_assembly_accession_number:
-- GCA_018408905.1
-- GCA_023638045.1
+  - GCA_018408905.1
+  - GCA_023638045.1
 Krugosvet_article: nauka_i_tehnika/biologiya/AVOKADO.html
 NBN_System_Key: NHMSYS0000461590
 EPPO_Code: PEBAM
 Commons_gallery: Persea americana
 Commons_category: Persea americana
 taxon_name: Persea americana
-Unicode_character: "\U0001F951"
+Unicode_character: 🥑
 taxon_common_name:
-- avacatal
-- alligator pear
-- hedelmäavokado
-- avocatier
-- 酪梨
-- 鳄梨
-- 樟梨
-- 油梨
-- 鳄梨
-- avocado
-- אבוקדו
-- 樟梨
-- Avocado
-parent_taxon: '[[_Standards/WikiData/WD~Persea,132039]]'
+  - avacatal
+  - alligator pear
+  - hedelmäavokado
+  - avocatier
+  - 酪梨
+  - 鳄梨
+  - 樟梨
+  - 油梨
+  - 鳄梨
+  - avocado
+  - אבוקדו
+  - 樟梨
+  - Avocado
+parent_taxon: "[[_Standards/WikiData/WD~Persea,132039]]"
 has_use:
-- '[[_Standards/WikiData/WD~medicinal_plant,188840]]'
-- '[[_Standards/WikiData/WD~fruit_vegetable,1470762]]'
-- '[[_Standards/WikiData/WD~afforestation,2384419]]'
-IUCN_conservation_status: '[[_Standards/WikiData/WD~Least_Concern,211005]]'
+  - "[[_Standards/WikiData/WD~medicinal_plant,188840]]"
+  - "[[_Standards/WikiData/WD~fruit_vegetable,1470762]]"
+  - "[[_Standards/WikiData/WD~afforestation,2384419]]"
+IUCN_conservation_status: "[[_Standards/WikiData/WD~Least_Concern,211005]]"
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_31,112869410]]'
-different_from: '[[_Standards/WikiData/WD~avocado,961769]]'
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_31,112869410]]"
+different_from: "[[_Standards/WikiData/WD~avocado,961769]]"
 this_taxon_is_source_of:
-- '[[_Standards/WikiData/WD~avocado,961769]]'
-- '[[_Standards/WikiData/WD~avocado_oil,2918735]]'
-- '[[_Standards/WikiData/WD~avocado_seed,104821994]]'
+  - "[[_Standards/WikiData/WD~avocado,961769]]"
+  - "[[_Standards/WikiData/WD~avocado_oil,2918735]]"
+  - "[[_Standards/WikiData/WD~avocado_seed,104821994]]"
 fruit_color:
-- '[[_Standards/WikiData/WD~purple,3257809]]'
-- '[[_Standards/WikiData/WD~dark_green,22963901]]'
-- '[[_Standards/WikiData/WD~purplish_black,115413654]]'
-- '[[_Standards/WikiData/WD~green,3133]]'
-- '[[_Standards/WikiData/WD~black,23445]]'
-subclass_of: '[[_Standards/WikiData/WD~useful_plant,11992872]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
-hardiness_of_plant: '[[_Standards/WikiData/WD~10,99549892]]'
+  - "[[_Standards/WikiData/WD~purple,3257809]]"
+  - "[[_Standards/WikiData/WD~dark_green,22963901]]"
+  - "[[_Standards/WikiData/WD~purplish_black,115413654]]"
+  - "[[_Standards/WikiData/WD~green,3133]]"
+  - "[[_Standards/WikiData/WD~black,23445]]"
+subclass_of: "[[_Standards/WikiData/WD~useful_plant,11992872]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
+hardiness_of_plant: "[[_Standards/WikiData/WD~10,99549892]]"
 start_time: -15000000-06
-taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
-has_fruit_type: '[[_Standards/WikiData/WD~drupe,14712]]'
+taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
+has_fruit_type: "[[_Standards/WikiData/WD~drupe,14712]]"
 taxon_range:
-- '[[_Standards/WikiData/WD~Guangdong,15175]]'
-- '[[_Standards/WikiData/WD~Fujian,41705]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-country_of_origin: '[[_Standards/WikiData/WD~Mexico,96]]'
+  - "[[_Standards/WikiData/WD~Guangdong,15175]]"
+  - "[[_Standards/WikiData/WD~Fujian,41705]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+country_of_origin: "[[_Standards/WikiData/WD~Mexico,96]]"
 ITIS_TSN: 18154
 OmegaWiki_Defined_Meaning: 1323693
 taxon_author_citation: Mill.
@@ -161,8 +161,8 @@ subreddit: avocado
 short_name: P. americana
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/3DAvocado001%20HQ-4K-PNG.stl
 pronunciation_audio:
-- http://commons.wikimedia.org/wiki/Special:FilePath/Fr-avocatier.ogg
-- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-avocatier.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Fr-avocatier.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-avocatier.wav
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Persea%20americana%20fruit%202.JPG
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=27393
 P8189: 987007282448105200

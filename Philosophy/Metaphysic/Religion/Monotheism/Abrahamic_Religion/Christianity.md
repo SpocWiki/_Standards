@@ -1,234 +1,234 @@
 ---
 has_time_started: 0033-01-01
 aliases:
-- Agama Kristen
-- Agama Kristian
-- an Chríostaíocht
-- Banua niha Keriso
-- Boklísto
-- Buena Kilisto
-- Bukhristu
-- Chitendero chechiKristu
-- Christendom
-- Christendóm
-- Christentum
-- Christetum
-- christian
-- christianisme
-- Christianismo
-- Christianity
-- Christndom
-- chrzescëjaństwò
-- chrześcijaństwo
-- Chrêtchienneté
-- Chrëschtentum
-- Crestianêximo
-- creștinism
-- Crishinizmo
-- Cristandade
-- Cristianejim
-- Cristianesim
-- Cristianesimo
-- Cristianime
-- Cristianisimu
-- Cristianisme
-- Cristianismo
-- cristianismu
-- Cristianissem
-- Cristianoyōtl
-- Cristianèsimu
-- cristianèzemo
-- Cristianésim
-- Cristnogaeth
-- Crustinnisse
-- Crìosdaidheachd
-- Crīstendōm
-- Geidoekgauq
-- Gĭ-dók-gáu
-- Hesu rape
-- Hristanuskond
-- Hristianlık
-- Hristianlıq
-- Hristianskoi usko
-- Hristiyanlık
-- hrišćanstvo
-- Ikolo yamakhrestu
-- Isai Dharam
-- Kakrèstenan
-- Karisten
-- Kekristenan
-- Kerecɛnya
-- Kerestén
-- kereszténység
-- Kerisiano
-- Khwikristi
-- Ki-tok-kàu
-- Kiristaaloŋ
-- Kiristaanummaa
-- Kiristanci
-- Kiristien
-- Kitô giáo
-- Kiyesu
-- Krastendoom
-- Kreschenitii
-- Kresťanstvo
-- Krgatsonik
-- krikščionybė
-- krishterim
-- Kristanismo
-- Kristaniti
-- Kristanvponn
-- Kristatali
-- kristautasun
-- Kristen
-- Kristendom
-- Kristendum
-- kristeniezh
-- Kristeva
-- Kristian
-- Kristianidad
-- Kristianisma
-- Kristianisme
-- kristianismo
-- Kristianismu
-- Kristianiti
-- kristietība
-- Kristindómur
-- kristinusko
-- Kristiyanismo
-- kristiyanlîk
-- Kristiyanu iñiy
-- kristlus
-- Kristndum
-- kristni
-- Kristohanon
-- Kristoneth
-- Kristosom
-- kristtalašvuohta
-- Kristyanism
-- Kristyanismo
-- Krisyanis
-- Krit
-- krześcijōństwo
-- Krėkštiuonībė
-- kršćanstvo
-- krščanstvo
-- Krɩstiyaniism
-- Kërëthänuɔɔi
-- Kî-tuk-kau
-- křesćanstwo
-- křesťanství
-- Kśesćijaństwo
-- Lotu Kristen
-- Lotu Vakaristo
-- Masihiylik
-- Masiixiyad
-- mesîhîtî
-- Nasaaraankore
-- nasin sewi pi jan Jesu
-- Religio Christiana
-- Ristiusk
-- risttveârr
-- ristâosko
-- Sekeresete
-- Sekriste
-- Serani
-- Tamasiḥit
-- Twemmin Nisrani
-- UbuKhrestu
-- Ubukirisitu
-- Ukristo
-- Vukreste
-- Whakapono Karaitiana
-- xacpərəstəti
-- xi'ojda
-- xristianlıq
-- Xıristiyaniye
-- y Chreestiaght
-- Ísáí
-- Ũkristiano
-- Χριστιανισμός
-- ақьырсианра
-- Кераста ди
-- Крештинизм
-- Кристаньчи
-- Кристозши
-- масеҳият
-- Машаякчылык
-- Мәсіхшілік
-- насаралла
-- Хашпара дин
-- хрістіанство
-- Хрїстїаньство
-- христијанство
-- Христиан јаҥ
-- Христианлăх
-- Христианлъи
-- христианлык
-- Христианлыкъ
-- Христианлыҡ
-- Христианство
-- Христийн шашин
-- християнство
-- Христосой шажан
-- хришћанство
-- хрысціянства
-- хрысьціянства
-- ххачпарас дин
-- чыристан дин
-- Чыристэныгъэ
-- чырыстон дин
-- քրիստոնեություն
-- քրիստոնէութիւն
-- נצרות
-- קריסטנטום
-- المسيحية
-- دأرآسونه:مأسییأت
-- عيسويت
-- عِیسٲیَتھ
-- عیسائیت
-- مسيحية
-- مسيحيه
-- مسیحی دین
-- مسیحیت
-- مەسىھچىلىك
-- مەسیحییەت
-- کريستيان
-- ܡܫܝܚܝܘܬܐ
-- މަސީހީދީން
-- ߌߛߟߊߞߊ
-- ईसाई धर्म
-- क्रैस्तमतम्
-- ख्रिश्चन धर्म
-- খ্রিস্টধর্ম
-- খ্ৰীষ্টান ধৰ্ম
-- ਇਸਾਈ ਧਰਮ
-- ખ્રિસ્તી ધર્મ
-- ଖ୍ରୀଷ୍ଟିଆନ ଧର୍ମ
-- கிறித்தவம்
-- క్రైస్తవ మతం
-- ಕ್ರಿಶ್ಚಿಯನ್ ಧರ್ಮ
-- ಕ್ರೈಸ್ತ ಧರ್ಮ
-- ക്രിസ്തുമതം
-- ක් රිස්තියානි ආගම
-- ศาสนาคริสต์
-- ຄິດຕະສາສະໜາ
-- ཡེ་ཤུ་
-- ཡེ་ཤུའི་ཆོས་ལུགས།
-- ခရစ်ယာန်ဘာသာ
-- ခရိယာန်ႏဘာႏသာႏ
-- ခရေတ်ယာန်
-- ქირსიანობა
-- ქრისტიანობა
-- ክርስትና
-- គ្រិស្តសាសនា
-- ᥚᥣᥱ ᥔᥣᥱ ᥑᥣ ᥘᥤᥖᥳ ᥕᥣᥢᥱ
-- ᱤᱥᱟᱹᱭ ᱫᱷᱚᱨᱚᱢ
-- ẹ̀sìn Krístì
-- ⵜⴰⵎⴰⵙⵉⵃⵜ (ⴰⵙⴳⴷ )
-- キリスト教
-- 基督教
-- 기독교
+  - Agama Kristen
+  - Agama Kristian
+  - an Chríostaíocht
+  - Banua niha Keriso
+  - Boklísto
+  - Buena Kilisto
+  - Bukhristu
+  - Chitendero chechiKristu
+  - Christendom
+  - Christendóm
+  - Christentum
+  - Christetum
+  - christian
+  - christianisme
+  - Christianismo
+  - Christianity
+  - Christndom
+  - chrzescëjaństwò
+  - chrześcijaństwo
+  - Chrêtchienneté
+  - Chrëschtentum
+  - Crestianêximo
+  - creștinism
+  - Crishinizmo
+  - Cristandade
+  - Cristianejim
+  - Cristianesim
+  - Cristianesimo
+  - Cristianime
+  - Cristianisimu
+  - Cristianisme
+  - Cristianismo
+  - cristianismu
+  - Cristianissem
+  - Cristianoyōtl
+  - Cristianèsimu
+  - cristianèzemo
+  - Cristianésim
+  - Cristnogaeth
+  - Crustinnisse
+  - Crìosdaidheachd
+  - Crīstendōm
+  - Geidoekgauq
+  - Gĭ-dók-gáu
+  - Hesu rape
+  - Hristanuskond
+  - Hristianlık
+  - Hristianlıq
+  - Hristianskoi usko
+  - Hristiyanlık
+  - hrišćanstvo
+  - Ikolo yamakhrestu
+  - Isai Dharam
+  - Kakrèstenan
+  - Karisten
+  - Kekristenan
+  - Kerecɛnya
+  - Kerestén
+  - kereszténység
+  - Kerisiano
+  - Khwikristi
+  - Ki-tok-kàu
+  - Kiristaaloŋ
+  - Kiristaanummaa
+  - Kiristanci
+  - Kiristien
+  - Kitô giáo
+  - Kiyesu
+  - Krastendoom
+  - Kreschenitii
+  - Kresťanstvo
+  - Krgatsonik
+  - krikščionybė
+  - krishterim
+  - Kristanismo
+  - Kristaniti
+  - Kristanvponn
+  - Kristatali
+  - kristautasun
+  - Kristen
+  - Kristendom
+  - Kristendum
+  - kristeniezh
+  - Kristeva
+  - Kristian
+  - Kristianidad
+  - Kristianisma
+  - Kristianisme
+  - kristianismo
+  - Kristianismu
+  - Kristianiti
+  - kristietība
+  - Kristindómur
+  - kristinusko
+  - Kristiyanismo
+  - kristiyanlîk
+  - Kristiyanu iñiy
+  - kristlus
+  - Kristndum
+  - kristni
+  - Kristohanon
+  - Kristoneth
+  - Kristosom
+  - kristtalašvuohta
+  - Kristyanism
+  - Kristyanismo
+  - Krisyanis
+  - Krit
+  - krześcijōństwo
+  - Krėkštiuonībė
+  - kršćanstvo
+  - krščanstvo
+  - Krɩstiyaniism
+  - Kërëthänuɔɔi
+  - Kî-tuk-kau
+  - křesćanstwo
+  - křesťanství
+  - Kśesćijaństwo
+  - Lotu Kristen
+  - Lotu Vakaristo
+  - Masihiylik
+  - Masiixiyad
+  - mesîhîtî
+  - Nasaaraankore
+  - nasin sewi pi jan Jesu
+  - Religio Christiana
+  - Ristiusk
+  - risttveârr
+  - ristâosko
+  - Sekeresete
+  - Sekriste
+  - Serani
+  - Tamasiḥit
+  - Twemmin Nisrani
+  - UbuKhrestu
+  - Ubukirisitu
+  - Ukristo
+  - Vukreste
+  - Whakapono Karaitiana
+  - xacpərəstəti
+  - xi'ojda
+  - xristianlıq
+  - Xıristiyaniye
+  - y Chreestiaght
+  - Ísáí
+  - Ũkristiano
+  - Χριστιανισμός
+  - ақьырсианра
+  - Кераста ди
+  - Крештинизм
+  - Кристаньчи
+  - Кристозши
+  - масеҳият
+  - Машаякчылык
+  - Мәсіхшілік
+  - насаралла
+  - Хашпара дин
+  - хрістіанство
+  - Хрїстїаньство
+  - христијанство
+  - Христиан јаҥ
+  - Христианлăх
+  - Христианлъи
+  - христианлык
+  - Христианлыкъ
+  - Христианлыҡ
+  - Христианство
+  - Христийн шашин
+  - християнство
+  - Христосой шажан
+  - хришћанство
+  - хрысціянства
+  - хрысьціянства
+  - ххачпарас дин
+  - чыристан дин
+  - Чыристэныгъэ
+  - чырыстон дин
+  - քրիստոնեություն
+  - քրիստոնէութիւն
+  - נצרות
+  - קריסטנטום
+  - المسيحية
+  - دأرآسونه:مأسییأت
+  - عيسويت
+  - عِیسٲیَتھ
+  - عیسائیت
+  - مسيحية
+  - مسيحيه
+  - مسیحی دین
+  - مسیحیت
+  - مەسىھچىلىك
+  - مەسیحییەت
+  - کريستيان
+  - ܡܫܝܚܝܘܬܐ
+  - މަސީހީދީން
+  - ߌߛߟߊߞߊ
+  - ईसाई धर्म
+  - क्रैस्तमतम्
+  - ख्रिश्चन धर्म
+  - খ্রিস্টধর্ম
+  - খ্ৰীষ্টান ধৰ্ম
+  - ਇਸਾਈ ਧਰਮ
+  - ખ્રિસ્તી ધર્મ
+  - ଖ୍ରୀଷ୍ଟିଆନ ଧର୍ମ
+  - கிறித்தவம்
+  - క్రైస్తవ మతం
+  - ಕ್ರಿಶ್ಚಿಯನ್ ಧರ್ಮ
+  - ಕ್ರೈಸ್ತ ಧರ್ಮ
+  - ക്രിസ്തുമതം
+  - ක් රිස්තියානි ආගම
+  - ศาสนาคริสต์
+  - ຄິດຕະສາສະໜາ
+  - ཡེ་ཤུ་
+  - ཡེ་ཤུའི་ཆོས་ལུགས།
+  - ခရစ်ယာန်ဘာသာ
+  - ခရိယာန်ႏဘာႏသာႏ
+  - ခရေတ်ယာန်
+  - ქირსიანობა
+  - ქრისტიანობა
+  - ክርስትና
+  - គ្រិស្តសាសនា
+  - ᥚᥣᥱ ᥔᥣᥱ ᥑᥣ ᥘᥤᥖᥳ ᥕᥣᥢᥱ
+  - ᱤᱥᱟᱹᱭ ᱫᱷᱚᱨᱚᱢ
+  - ẹ̀sìn Krístì
+  - ⵜⴰⵎⴰⵙⵉⵃⵜ (ⴰⵙⴳⴷ )
+  - キリスト教
+  - 基督教
+  - 기독교
 has_id_wikidata: Q5043
 Provenio_UUID: 737face9-8d0c-4573-8f11-fffb295f2ab8
 P8189: 987007285740005100
@@ -236,56 +236,56 @@ UMLS_CUI: C0008530
 GitHub_topic: christianity
 hashtag_: christianity
 MeSH_tree_code:
-- K01.844.188
+  - K01.844.188
 Krugosvet_article: kultura_i_obrazovanie/religiya/HRISTIANSTVO.html
 IPTC_NewsCode: mediatopic/20000659
 OpenStreetMap_tag_or_key: Tag:religion=christian
 practiced_by:
-- '[[_Standards/WikiData/WD~Christian,106039]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_Christianity,235329]]'
+  - "[[_Standards/WikiData/WD~Christian,106039]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Christianity,235329]]"
 has_part_s_:
-- '[[_Standards/WikiData/WD~Eastern_Christianity,245177]]'
-- '[[_Standards/WikiData/WD~Western_Christianity,842798]]'
-- '[[_Standards/WikiData/WD~Christian_denomination,879146]]'
-- '[[_Standards/WikiData/WD~Christian_movement,995347]]'
-- '[[_Standards/WikiData/WD~Christian_denominational_family,123129246]]'
+  - "[[_Standards/WikiData/WD~Eastern_Christianity,245177]]"
+  - "[[_Standards/WikiData/WD~Western_Christianity,842798]]"
+  - "[[_Standards/WikiData/WD~Christian_denomination,879146]]"
+  - "[[_Standards/WikiData/WD~Christian_movement,995347]]"
+  - "[[_Standards/WikiData/WD~Christian_denominational_family,123129246]]"
 named_after:
-- '[[_Standards/WikiData/WD~Nazareth,430776]]'
-- '[[_Standards/WikiData/WD~Christ,642420]]'
-- '[[_Standards/WikiData/WD~Jesus_Christ,302]]'
+  - "[[_Standards/WikiData/WD~Nazareth,430776]]"
+  - "[[_Standards/WikiData/WD~Christ,642420]]"
+  - "[[_Standards/WikiData/WD~Jesus_Christ,302]]"
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Christianity,4587240]]'
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Vlastenský_slovník_historický,19538713]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Christianity,4587240]]"
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Christianity_sidebar,5881848]]'
-- '[[_Standards/WikiData/WD~Template_Christianity_footer,6923874]]'
+  - "[[_Standards/WikiData/WD~Template_Christianity_sidebar,5881848]]"
+  - "[[_Standards/WikiData/WD~Template_Christianity_footer,6923874]]"
 instance_of:
-- '[[_Standards/WikiData/WD~major_religious_group,6957341]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Christianity,7112229]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Christianity,8586708]]'
-locations: '[[_Standards/WikiData/WD~worldwide,13780930]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828226,22828226]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q33096581,33096581]]'
+  - "[[_Standards/WikiData/WD~major_religious_group,6957341]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Christianity,7112229]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Christianity,8586708]]"
+locations: "[[_Standards/WikiData/WD~worldwide,13780930]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q22828226,22828226]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Q33096581,33096581]]"
 founded_by:
-- '[[_Standards/WikiData/WD~Jesus_Christ,302]]'
-- '[[_Standards/WikiData/WD~Mary,345]]'
-- '[[_Standards/WikiData/WD~Paul_the_Apostle,9200]]'
-- '[[_Standards/WikiData/WD~Saint_Peter,33923]]'
-location_of_formation: '[[_Standards/WikiData/WD~Jerusalem,1218]]'
+  - "[[_Standards/WikiData/WD~Jesus_Christ,302]]"
+  - "[[_Standards/WikiData/WD~Mary,345]]"
+  - "[[_Standards/WikiData/WD~Paul_the_Apostle,9200]]"
+  - "[[_Standards/WikiData/WD~Saint_Peter,33923]]"
+location_of_formation: "[[_Standards/WikiData/WD~Jerusalem,1218]]"
 foundational_text:
-- '[[_Standards/WikiData/WD~Bible,1845]]'
-- '[[_Standards/WikiData/WD~New_Testament,18813]]'
+  - "[[_Standards/WikiData/WD~Bible,1845]]"
+  - "[[_Standards/WikiData/WD~New_Testament,18813]]"
 has_characteristic:
-- '[[_Standards/WikiData/WD~monotheism,9159]]'
-separated_from: '[[_Standards/WikiData/WD~Judaism,9268]]'
+  - "[[_Standards/WikiData/WD~monotheism,9159]]"
+separated_from: "[[_Standards/WikiData/WD~Judaism,9268]]"
 member_count: 2400000000
 subclass_of:
-- '[[_Standards/WikiData/WD~Abrahamic_religion,47280]]'
+  - "[[_Standards/WikiData/WD~Abrahamic_religion,47280]]"
 Universal_Decimal_Classification: 27
 Iconclass_notation: 11
 IAB_code: 459
@@ -293,11 +293,11 @@ OmegaWiki_Defined_Meaning: 799124
 Colon_Classification: Q6
 Unicode_character: ✝
 montage_image:
-- http://commons.wikimedia.org/wiki/Special:FilePath/Christian%20Civilization%201.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Christian%20Civilization%201.jpg
 IMDb_keyword: christian
 Archive_of_Our_Own_tag: Christianity
 subreddit:
-- Christianity
+  - Christianity
 Commons_category: Christianity
 U_S_National_Archives_Identifier: 10644483
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Latin%20cross%20%28bold%29.svg
@@ -306,7 +306,7 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Christianity-ban
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Jerusalem%20Holy-Sepulchre%20Jesus-Detail-01.png
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Christendom-article.ogg
 Mastodon_instance_URL:
-- https://theres.life
+  - https://theres.life
 dv_has_:
   name_:
     ab: ақьырсианра
@@ -606,7 +606,7 @@ dv_has_:
     zh_hk: 基督教
     zu: UbuKhrestu
 ---
-# [[Christianity]] 
+# [[Christianity]] ✝ 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Christianity,5043|WD~Christianity,5043]] 
 

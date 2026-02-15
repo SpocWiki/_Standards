@@ -33,7 +33,7 @@ aliases:
 - bil
 - bilar
 - bïjle
-- car
+  - car
 - chidí
 - chū-tōng-chhia
 - càr
@@ -47,7 +47,7 @@ aliases:
 - ilo tawa
 - imodoka
 - imoto
-- is_a_car
+  - is_a_car
 - ka
 - karce
 - karozza
@@ -80,7 +80,7 @@ aliases:
 - motor
 - Motor car
 - motorvoertuig
-- Motor_car
+  - Motor_car
 - mubil
 - mótuka
 - otapan
@@ -178,21 +178,21 @@ aliases:
 has_id_wikidata: Q1420
 confidential: public
 cssclasses:
-- Type
+  - Type
 draft: false
 expiryDate: ''
 isDeleted: false
 isReadOnly: false
 keywords:
-- car
+  - car
 layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_car Class
 publish: true
 publishDate: ''
 tags:
-- class/Class
-- schema-org/Class
+  - class/Class
+  - schema-org/Class
 title: is_a_car Class
 type: Type
 uses:
@@ -256,7 +256,7 @@ described_by_source:
 - '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
 - '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
 - '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
 - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 - '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 - '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
@@ -295,11 +295,11 @@ IAB_code: 25
 OmegaWiki_Defined_Meaning: 482
 Nomenclature_for_Museum_Cataloging: 12173
 subreddit:
-- cars
-- auto
-- Autos
-- carporn
-- Cartalk
+  - cars
+  - auto
+  - Autos
+  - carporn
+  - Cartalk
 Commons_gallery: Car
 IMDb_keyword: car
 hashtag: car
@@ -569,7 +569,8 @@ dv_has_:
     zh-tw: 汽車
     zu: imoto
 ---
-# [[Car]] 🚗 
+# [[Car]] 🚗🚘
+
 
 [[../../../../Class|Class]] of all cars.
 

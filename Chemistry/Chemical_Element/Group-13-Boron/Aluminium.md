@@ -547,6 +547,9 @@ dv_has_number_of_group: 13
 dv_has_name_abbreviated: Al
 dv_has_number_of_electrons: 13
 ---
+
+# [[Aluminium]] 鋁 
+
 #is_/same_as :: [[../../../WikiData/WD~Aluminium,663]] 
 #chemic/Element 
 

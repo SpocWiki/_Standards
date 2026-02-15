@@ -159,7 +159,7 @@ dv_has_:
     zh_sg: 埃格斯特朗
     zh_tw: 埃格斯特朗
 ---
-# [[Ångström]] 
+# [[Ångström]] Å 
 
 #is_/same_as :: [[../../../WikiData/WD~Ångström,81454|WD~Ångström,81454]] 
 

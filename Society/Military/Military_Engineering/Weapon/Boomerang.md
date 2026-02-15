@@ -1,61 +1,61 @@
 ---
 aliases:
-- Boemerang
-- Boomerang
-- bumerang
-- Bumerangas
-- bumerangi
-- bumerango
-- bumerangs
-- bumerangue
-- Bumeranq
-- bumeraŋŋ
-- bumerán
-- bumeráng
-- búmaraing
-- Búmerang
-- Dabjin
-- kylie
-- Μπούμερανγκ
-- бумеранг
-- бумэранг
-- Բումերանգ
-- בומרנג
-- بمرنغ
-- بومئرانق
-- بومر ینگ
-- بومرنگ
-- بومرینگ
-- بوميرانݣ
-- बूमरैंग
-- বুমেরাং
-- ਬੂਮਰੈਂਗ
-- બૂમરેંગ
-- బూమరాంగ్
-- ಬೂಮ್ರಾಂಗ್
-- ബൂമറാങ്ങ്
-- บูมเมอแรง
-- ᎤᎳᏍᏈᏗ ᏛᎠᏨᏍᎩ
-- ブーメラン
-- 回力棒
-- 回力標
-- 回力镖
-- 葡蛮郎
-- 飞去来器
-- 부메랑
+  - Boemerang
+  - Boomerang
+  - bumerang
+  - Bumerangas
+  - bumerangi
+  - bumerango
+  - bumerangs
+  - bumerangue
+  - Bumeranq
+  - bumeraŋŋ
+  - bumerán
+  - bumeráng
+  - búmaraing
+  - Búmerang
+  - Dabjin
+  - kylie
+  - Μπούμερανγκ
+  - бумеранг
+  - бумэранг
+  - Բումերանգ
+  - בומרנג
+  - بمرنغ
+  - بومئرانق
+  - بومر ینگ
+  - بومرنگ
+  - بومرینگ
+  - بوميرانݣ
+  - बूमरैंग
+  - বুমেরাং
+  - ਬੂਮਰੈਂਗ
+  - બૂમરેંગ
+  - బూమరాంగ్
+  - ಬೂಮ್ರಾಂಗ್
+  - ബൂമറാങ്ങ്
+  - บูมเมอแรง
+  - ᎤᎳᏍᏈᏗ ᏛᎠᏨᏍᎩ
+  - ブーメラン
+  - 回力棒
+  - 回力標
+  - 回力镖
+  - 葡蛮郎
+  - 飞去来器
+  - 부메랑
 has_id_wikidata: Q131536
 subclass_of:
-- '[[_Standards/WikiData/WD~ranged_weapon,153556]]'
-- '[[_Standards/WikiData/WD~throwing_stick,659691]]'
+  - "[[_Standards/WikiData/WD~ranged_weapon,153556]]"
+  - "[[_Standards/WikiData/WD~throwing_stick,659691]]"
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-different_from: '[[_Standards/WikiData/WD~Bumerang,851923]]'
-instance_of: '[[_Standards/WikiData/WD~weapon_family,15142889]]'
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+different_from: "[[_Standards/WikiData/WD~Bumerang,851923]]"
+instance_of: "[[_Standards/WikiData/WD~weapon_family,15142889]]"
 Nomenclature_for_Museum_Cataloging: 8351
 GS1_GPC_code: 10001772
 OmegaWiki_Defined_Meaning: 1285089
@@ -64,11 +64,11 @@ Commons_category: Boomerangs
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Boomerang2%20%28PSF%29.jpg
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Bumerang%2020230519%20001.stl
 subreddit: boomerangs
-Unicode_character: "\U0001FA83"
+Unicode_character: 🪃
 Dewey_Decimal_Classification:
-- 799.20282
-- 796.4350284
-- 688.76435
+  - 799.20282
+  - 796.4350284
+  - 688.76435
 dv_has_:
   name_:
     af: Boemerang
@@ -162,7 +162,7 @@ dv_has_:
     zh_sg: 回力棒
     zh_tw: 回力棒
 ---
-# [[Boomerang]] 
+# [[Boomerang]] 🪃 
 
 #is_/same_as :: [[../../../../WikiData/WD~Boomerang,131536|WD~Boomerang,131536]] 
 

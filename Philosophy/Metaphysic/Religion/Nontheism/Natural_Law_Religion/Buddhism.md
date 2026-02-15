@@ -1,157 +1,157 @@
 ---
 aliases:
-- Agama Buddha
-- Agamo Buddha
-- an Búdachas
-- Bodisma
-- Bodisme
-- Boeddhisme
-- Boedisme
-- Boudaegezh
-- bouddhisme
-- Bouddhisteth
-- Boudime
-- Boudis
-- Boudism
-- Boudismo
-- Boudisse
-- bu'ojda
-- Buda
-- Budadiinɛ
-- budağîlîk
-- Buddadamma
-- Buddapen
-- Buddaçylyk
-- Buddha
-- Buddhachd
-- Buddhadharma
-- Buddhaghys
-- buddhalaisuus
-- buddhalaižus
-- Buddhism
-- buddhisma
-- Buddhisme
-- Buddhismo
-- Buddhismu
-- Buddhismus
-- buddhizmus
-- Buddisimu
-- Buddisma
-- buddismo
-- Buddismu
-- Buddiximo
-- Buddizm
-- Buddiżmu
-- buddyzm
-- Buddëdëmmë
-- Budhisme
-- budhismo
-- Budhizmus
-- Budisim
-- Budisime
-- Budism
-- Budisme
-- budismo
-- budisms
-- Budismu
-- Budissem
-- Budizam
-- budizem
-- Budizim
-- Budizimii
-- Budizm
-- budizmas
-- budizmo
-- budizëm
-- Budîzm
-- Budėzmos
-- Buudiyism
-- Bwdhaeth
-- búddismi
-- Būddendōm
-- Dharmavinaya
-- Fozgyau
-- Fu̍t-kau
-- Hoʻomana Buda
-- Hu̍t-kàu
-- Hŭk-gáu
-- Khwibuda
-- nasin sewi Puta
-- Phật giáo
-- Sebuda
-- Tabudayt
-- Ubhudha
-- UbuBudha
-- Ubuddha
-- Ugama Buddha
-- Vubhuda
-- Vudismo
-- Βουδισμός
-- Будгізм
-- буддизм
-- Буддизмась
-- буддогароӣ
-- Буддын шажан
-- будизам
-- Будизъм
-- будызм
-- Бурканчылык
-- Бурханы шашин
-- Бурхн Багшин ном
-- բուդդայականություն
-- Պուտտայականութիւն
-- בודהיזם
-- البوذية
-- بدھ مت
-- بوداييزم
-- بوداگرایی
-- بودایی دین
-- بودية
-- بودیزم
-- بوذيه
-- بُدھ مَت
-- بۇددا دىنى
-- ٻڌمت
-- बुद्ध धर्म
-- बौद्ध धर्म
-- बौद्धदर्शनम्
-- বৌদ্ধ ধৰ্ম
-- বৌদ্ধ লিচেত
-- বৌদ্ধধর্ম
-- ਬੁੱਧ ਧਰਮ
-- બૌદ્ધ ધર્મ
-- ବୌଦ୍ଧ ଧର୍ମ
-- பௌத்தம்
-- బౌద్ధ మతం
-- ಬುದ್ಧ
-- ಬೌದ್ಧ ಧರ್ಮ
-- ബുദ്ധമതം
-- බුදු දහම සහ බුද්ධාගම
-- ศาสนาพุทธ
-- ພຸດທະສາດສະໜາ
-- ནང་ཆོས།
-- ནང་བསྟན།
-- ဂၠံင်ဍာန်ဗုဒ္ဓဘာသာ
-- ပုတ်ႉထၽႃႇသႃႇ
-- ဗုဒ္ဓဘာသာ
-- ဗုဒ္ဓဘာႏသာႏ
-- ბუდიზმი
-- ቡዲስም
-- ព្រះពុទ្ធសាសនា
-- ᥚᥣᥱ ᥔᥣᥱ ᥙᥧᥐ ᥗᥣᥳ
-- ᱵᱩᱫᱫᱷᱚ ᱫᱷᱚᱨᱚᱢ
-- Ẹ̀sìn Búddà
-- ⵜⴰⴱⵓⴷⵉⵜ
-- 仏教
-- 佛教
-- ꯕꯧꯙ ꯂꯥꯢꯅꯤꯡ
-- 불교
-- "\U00011025\U0001102B\U00011046\U0001102B\U0001102F\U0001103A\U00011026\U0001102C"
+  - Agama Buddha
+  - Agamo Buddha
+  - an Búdachas
+  - Bodisma
+  - Bodisme
+  - Boeddhisme
+  - Boedisme
+  - Boudaegezh
+  - bouddhisme
+  - Bouddhisteth
+  - Boudime
+  - Boudis
+  - Boudism
+  - Boudismo
+  - Boudisse
+  - bu'ojda
+  - Buda
+  - Budadiinɛ
+  - budağîlîk
+  - Buddadamma
+  - Buddapen
+  - Buddaçylyk
+  - Buddha
+  - Buddhachd
+  - Buddhadharma
+  - Buddhaghys
+  - buddhalaisuus
+  - buddhalaižus
+  - Buddhism
+  - buddhisma
+  - Buddhisme
+  - Buddhismo
+  - Buddhismu
+  - Buddhismus
+  - buddhizmus
+  - Buddisimu
+  - Buddisma
+  - buddismo
+  - Buddismu
+  - Buddiximo
+  - Buddizm
+  - Buddiżmu
+  - buddyzm
+  - Buddëdëmmë
+  - Budhisme
+  - budhismo
+  - Budhizmus
+  - Budisim
+  - Budisime
+  - Budism
+  - Budisme
+  - budismo
+  - budisms
+  - Budismu
+  - Budissem
+  - Budizam
+  - budizem
+  - Budizim
+  - Budizimii
+  - Budizm
+  - budizmas
+  - budizmo
+  - budizëm
+  - Budîzm
+  - Budėzmos
+  - Buudiyism
+  - Bwdhaeth
+  - búddismi
+  - Būddendōm
+  - Dharmavinaya
+  - Fozgyau
+  - Fu̍t-kau
+  - Hoʻomana Buda
+  - Hu̍t-kàu
+  - Hŭk-gáu
+  - Khwibuda
+  - nasin sewi Puta
+  - Phật giáo
+  - Sebuda
+  - Tabudayt
+  - Ubhudha
+  - UbuBudha
+  - Ubuddha
+  - Ugama Buddha
+  - Vubhuda
+  - Vudismo
+  - Βουδισμός
+  - Будгізм
+  - буддизм
+  - Буддизмась
+  - буддогароӣ
+  - Буддын шажан
+  - будизам
+  - Будизъм
+  - будызм
+  - Бурканчылык
+  - Бурханы шашин
+  - Бурхн Багшин ном
+  - բուդդայականություն
+  - Պուտտայականութիւն
+  - בודהיזם
+  - البوذية
+  - بدھ مت
+  - بوداييزم
+  - بوداگرایی
+  - بودایی دین
+  - بودية
+  - بودیزم
+  - بوذيه
+  - بُدھ مَت
+  - بۇددا دىنى
+  - ٻڌمت
+  - बुद्ध धर्म
+  - बौद्ध धर्म
+  - बौद्धदर्शनम्
+  - বৌদ্ধ ধৰ্ম
+  - বৌদ্ধ লিচেত
+  - বৌদ্ধধর্ম
+  - ਬੁੱਧ ਧਰਮ
+  - બૌદ્ધ ધર્મ
+  - ବୌଦ୍ଧ ଧର୍ମ
+  - பௌத்தம்
+  - బౌద్ధ మతం
+  - ಬುದ್ಧ
+  - ಬೌದ್ಧ ಧರ್ಮ
+  - ബുദ്ധമതം
+  - බුදු දහම සහ බුද්ධාගම
+  - ศาสนาพุทธ
+  - ພຸດທະສາດສະໜາ
+  - ནང་ཆོས།
+  - ནང་བསྟན།
+  - ဂၠံင်ဍာန်ဗုဒ္ဓဘာသာ
+  - ပုတ်ႉထၽႃႇသႃႇ
+  - ဗုဒ္ဓဘာသာ
+  - ဗုဒ္ဓဘာႏသာႏ
+  - ბუდიზმი
+  - ቡዲስም
+  - ព្រះពុទ្ធសាសនា
+  - ᥚᥣᥱ ᥔᥣᥱ ᥙᥧᥐ ᥗᥣᥳ
+  - ᱵᱩᱫᱫᱷᱚ ᱫᱷᱚᱨᱚᱢ
+  - Ẹ̀sìn Búddà
+  - ⵜⴰⴱⵓⴷⵉⵜ
+  - 仏教
+  - 佛教
+  - ꯕꯧꯙ ꯂꯥꯢꯅꯤꯡ
+  - 불교
+  - 𑀥𑀫𑁆𑀫𑀯𑀺𑀦𑀬
 has_id_wikidata: Q748
 Stack_Exchange_site_URL: https://buddhism.stackexchange.com
 Stack_Exchange_tag:
-- https://christianity.stackexchange.com/tags/buddhism
-- https://hinduism.stackexchange.com/tags/buddhism
+  - https://christianity.stackexchange.com/tags/buddhism
+  - https://hinduism.stackexchange.com/tags/buddhism
 Dewey_Decimal_Classification: 294.3
 Antique_Chinese_and_Japanese_Porcelain_Dictionary_and_Glossary_of_Terms_entry: buddhism
 IMDb_keyword: buddhism
@@ -161,55 +161,55 @@ MeSH_tree_code: K01.844.117
 Krugosvet_article_archived_: kultura_i_obrazovanie/religiya/BUDDA_I_BUDDIZM.html
 IPTC_NewsCode: mediatopic/20000658
 OpenStreetMap_tag: religion=buddhist
-location_of_formation: '[[_Standards/WikiData/WD~Bodh_Gaya,176767]]'
+location_of_formation: "[[_Standards/WikiData/WD~Bodh_Gaya,176767]]"
 history_of_topic:
-- '[[_Standards/WikiData/WD~timeline_of_Buddhism,186955]]'
-- '[[_Standards/WikiData/WD~history_of_Buddhism,464200]]'
-different_from: '[[_Standards/WikiData/WD~Lama,191421]]'
+  - "[[_Standards/WikiData/WD~timeline_of_Buddhism,186955]]"
+  - "[[_Standards/WikiData/WD~history_of_Buddhism,464200]]"
+different_from: "[[_Standards/WikiData/WD~Lama,191421]]"
 practiced_by:
-- '[[_Standards/WikiData/WD~saṅgha,193944]]'
-- '[[_Standards/WikiData/WD~Buddhists,6926246]]'
-separated_from: '[[_Standards/WikiData/WD~Historical_Vedic_religion,194497]]'
-follows: '[[_Standards/WikiData/WD~Historical_Vedic_religion,194497]]'
-has_part_s_: '[[_Standards/WikiData/WD~school_of_Buddhism,222516]]'
+  - "[[_Standards/WikiData/WD~saṅgha,193944]]"
+  - "[[_Standards/WikiData/WD~Buddhists,6926246]]"
+separated_from: "[[_Standards/WikiData/WD~Historical_Vedic_religion,194497]]"
+follows: "[[_Standards/WikiData/WD~Historical_Vedic_religion,194497]]"
+has_part_s_: "[[_Standards/WikiData/WD~school_of_Buddhism,222516]]"
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-studied_by: '[[_Standards/WikiData/WD~Buddhist_studies,1000976]]'
-flag: '[[_Standards/WikiData/WD~Buddhist_flag,1130142]]'
-foundational_text: '[[_Standards/WikiData/WD~Tripitaka,1321432]]'
+  - "[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]"
+  - "[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]"
+  - "[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+studied_by: "[[_Standards/WikiData/WD~Buddhist_studies,1000976]]"
+flag: "[[_Standards/WikiData/WD~Buddhist_flag,1130142]]"
+foundational_text: "[[_Standards/WikiData/WD~Tripitaka,1321432]]"
 subclass_of:
-- '[[_Standards/WikiData/WD~Indian_religions,1651597]]'
-- '[[_Standards/WikiData/WD~subject_of_depiction,53001749]]'
-has_characteristic: '[[_Standards/WikiData/WD~religious_philosophy,2054106]]'
+  - "[[_Standards/WikiData/WD~Indian_religions,1651597]]"
+  - "[[_Standards/WikiData/WD~subject_of_depiction,53001749]]"
+has_characteristic: "[[_Standards/WikiData/WD~religious_philosophy,2054106]]"
 instance_of:
-- '[[_Standards/WikiData/WD~philosophical_movement,2915955]]'
-- '[[_Standards/WikiData/WD~major_religious_group,6957341]]'
-- '[[_Standards/WikiData/WD~religion,9174]]'
-- '[[_Standards/WikiData/WD~lifestyle,32090]]'
-- '[[_Standards/WikiData/WD~world_view,49447]]'
+  - "[[_Standards/WikiData/WD~philosophical_movement,2915955]]"
+  - "[[_Standards/WikiData/WD~major_religious_group,6957341]]"
+  - "[[_Standards/WikiData/WD~religion,9174]]"
+  - "[[_Standards/WikiData/WD~lifestyle,32090]]"
+  - "[[_Standards/WikiData/WD~world_view,49447]]"
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Buddhism,6328236]]'
-- '[[_Standards/WikiData/WD~Template_Buddhism_topics,6731904]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Buddhism,7112212]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Buddhism,8207681]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Buddhism,11008004]]'
-location: '[[_Standards/WikiData/WD~worldwide,13780930]]'
+  - "[[_Standards/WikiData/WD~Template_Buddhism,6328236]]"
+  - "[[_Standards/WikiData/WD~Template_Buddhism_topics,6731904]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Buddhism,7112212]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Buddhism,8207681]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Buddhism,11008004]]"
+location: "[[_Standards/WikiData/WD~worldwide,13780930]]"
 inception: http://www.wikidata.org/.well-known/genid/773771617a6bd6932df3429addcc4dac
 official_religion:
-- '[[_Standards/WikiData/WD~Myanmar,836]]'
-- '[[_Standards/WikiData/WD~Sri_Lanka,854]]'
-- '[[_Standards/WikiData/WD~Thailand,869]]'
-- '[[_Standards/WikiData/WD~Bhutan,917]]'
-named_after: '[[_Standards/WikiData/WD~Buddha,7055]]'
-founded_by: '[[_Standards/WikiData/WD~The_Buddha,9441]]'
+  - "[[_Standards/WikiData/WD~Myanmar,836]]"
+  - "[[_Standards/WikiData/WD~Sri_Lanka,854]]"
+  - "[[_Standards/WikiData/WD~Thailand,869]]"
+  - "[[_Standards/WikiData/WD~Bhutan,917]]"
+named_after: "[[_Standards/WikiData/WD~Buddha,7055]]"
+founded_by: "[[_Standards/WikiData/WD~The_Buddha,9441]]"
 Universal_Decimal_Classification: 24
 IAB_code: 458
 U_S_National_Archives_Identifier: 10644225
@@ -224,12 +224,12 @@ subreddit: Buddhism
 Basisklassifikation: 11.93
 Unicode_character: ☸︎
 detail_map:
-- http://commons.wikimedia.org/wiki/Special:FilePath/A%20buddhizmus%20elterjed%C3%A9se%20%C3%81zsi%C3%A1ban.png
-- http://commons.wikimedia.org/wiki/Special:FilePath/Buddhism%20Map.png
+  - http://commons.wikimedia.org/wiki/Special:FilePath/A%20buddhizmus%20elterjed%C3%A9se%20%C3%81zsi%C3%A1ban.png
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Buddhism%20Map.png
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Boeddhisme.ogg
 distribution_map:
-- http://commons.wikimedia.org/wiki/Special:FilePath/Buddhist%20World.png
-- http://commons.wikimedia.org/wiki/Special:FilePath/The%20Refuge%20in%20Three%20Jewels%20%28Buddhism%29.png
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Buddhist%20World.png
+  - http://commons.wikimedia.org/wiki/Special:FilePath/The%20Refuge%20in%20Three%20Jewels%20%28Buddhism%29.png
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Dharma%20Wheel%20%282%29.svg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Ho%20Chi%20Minh%20city%20banner%20Bai%20Buddhas.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%AC%E0%A5%8C%E0%A4%A6%E0%A5%8D%E0%A4%A7%20%E0%A4%A7%E0%A4%B0%E0%A5%8D%E0%A4%AE.wav
@@ -403,7 +403,7 @@ dv_has_:
     pam: Buddadamma
     pap: Budismo
     pcd: Boudime
-    pi: "\U00011025\U0001102B\U00011046\U0001102B\U0001102F\U0001103A\U00011026\U0001102C"
+    pi: 𑀥𑀫𑁆𑀫𑀯𑀺𑀦𑀬
     pih: Budism
     pl: buddyzm
     pms: Budism
@@ -483,7 +483,7 @@ dv_has_:
     zh_tw: 佛教
     zu: UbuBudha
 ---
-# [[Buddhism]] 
+# [[Buddhism]] ☸︎ 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Buddhism,748|WD~Buddhism,748]] 
 #has_/complement :: [[../../../../../bio/Psychology/Mind/Meditation/FOMO]]  

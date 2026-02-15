@@ -1,214 +1,214 @@
 ---
 aliases:
-- ama-vuta
-- amann
-- amanyn
-- amavuta
-- Anke
-- argivoi
-- bata
-- beurre
-- beuter
-- boter
-- botro
-- Botter
-- boure
-- Budan
-- burre
-- burro
-- butere
-- butero
-- butir
-- butiro
-- butirru
-- butiru
-- butirulu
-- butra
-- butre
-- butro
-- butter
-- buttre
-- butyro
-- butyrum
-- butér
-- buure
-- Buutere
-- bá-tah
-- báter
-- bè
-- bër
-- bótter
-- bör
-- bûter
-- bơ
-- Dibera
-- eeym
-- gjalpë
-- gurin
-- heóveamêške
-- ibhotela
-- im
-- kərə yağı
-- man shanu
-- mandagíiya
-- manteca
-- Mantega
-- manteiga
-- manteka
-- mantequilla
-- mantikilla
-- mantikilya
-- mantéga
-- mantéka
-- maslac
-- maslo
-- masło
-- mentega
-- Mentiga
-- Mentéga
-- menyn
-- mertéga
-- máslo
-- nare
-- nen-yù
-- nîvişk
-- paintg
-- pata
-- punneq
-- puter
-- sariеg`
-- sereledi
-- siagi
-- smjör
-- smör
-- smør
-- spongje
-- subag
-- subah
-- sviestas
-- sviests
-- svėists
-- svīsts
-- tcotcocipimite
-- tereyağı
-- tšil
-- umtu
-- unt
-- vaj
-- voeje
-- voi
-- vuodja
-- vuojja
-- vuojâ
-- vuõjj
-- või
-- võid
-- yaa
-- yağ
-- çу
-- ìm
-- ýag
-- βούτορον
-- βούτυρο
-- арыы
-- атланмай
-- аҡ май
-- вӯйй
-- джау
-- краве масло
-- май
-- маска
-- масла
-- маслац
-- Масло
-- масло вершкове
-- нæлхæ
-- нӧкы вӧй
-- ой
-- путер
-- сагаан тоһон
-- сливочное масло
-- сметанковае масла
-- цөцгийн тос
-- Ӱ
-- ӱй
-- կարագ
-- חמאה
-- פוטער
-- ترهیاغی
-- تٔھنؠ
-- زبدة
-- زبده
-- زبده zebda
-- منتيݢ
-- مکڻ
-- مکھن
-- مکھݨ
-- کره
-- کەرە
-- ܚܐܘܬܐ
-- नवनीतम्
-- नौनी
-- मक्खन
-- लोणी
-- মাখন
-- ਮੱਖਣ
-- માખણ
-- ଲହୁଣୀ
-- வெண்ணெய்
-- వెన్న
-- ಬೆಣ್ಣೆ
-- ಬೊಲ್ನೆಯಿ
-- വെണ്ണ
-- බටර්
-- เนย
-- ເນີຍ
-- ထောပတ်
-- ၼိူၺ်း
-- კარაქი
-- ቅቤ
-- ᎪᏢᏅ
-- បឺរ
-- バター
-- 奶油
-- 牛油
-- 白脱
-- 黄油
-- 버터
-- 빠다
+  - ama-vuta
+  - amann
+  - amanyn
+  - amavuta
+  - Anke
+  - argivoi
+  - bata
+  - beurre
+  - beuter
+  - boter
+  - botro
+  - Botter
+  - boure
+  - Budan
+  - burre
+  - burro
+  - butere
+  - butero
+  - butir
+  - butiro
+  - butirru
+  - butiru
+  - butirulu
+  - butra
+  - butre
+  - butro
+  - butter
+  - buttre
+  - butyro
+  - butyrum
+  - butér
+  - buure
+  - Buutere
+  - bá-tah
+  - báter
+  - bè
+  - bër
+  - bótter
+  - bör
+  - bûter
+  - bơ
+  - Dibera
+  - eeym
+  - gjalpë
+  - gurin
+  - heóveamêške
+  - ibhotela
+  - im
+  - kərə yağı
+  - man shanu
+  - mandagíiya
+  - manteca
+  - Mantega
+  - manteiga
+  - manteka
+  - mantequilla
+  - mantikilla
+  - mantikilya
+  - mantéga
+  - mantéka
+  - maslac
+  - maslo
+  - masło
+  - mentega
+  - Mentiga
+  - Mentéga
+  - menyn
+  - mertéga
+  - máslo
+  - nare
+  - nen-yù
+  - nîvişk
+  - paintg
+  - pata
+  - punneq
+  - puter
+  - sariеg`
+  - sereledi
+  - siagi
+  - smjör
+  - smör
+  - smør
+  - spongje
+  - subag
+  - subah
+  - sviestas
+  - sviests
+  - svėists
+  - svīsts
+  - tcotcocipimite
+  - tereyağı
+  - tšil
+  - umtu
+  - unt
+  - vaj
+  - voeje
+  - voi
+  - vuodja
+  - vuojja
+  - vuojâ
+  - vuõjj
+  - või
+  - võid
+  - yaa
+  - yağ
+  - çу
+  - ìm
+  - ýag
+  - βούτορον
+  - βούτυρο
+  - арыы
+  - атланмай
+  - аҡ май
+  - вӯйй
+  - джау
+  - краве масло
+  - май
+  - маска
+  - масла
+  - маслац
+  - Масло
+  - масло вершкове
+  - нæлхæ
+  - нӧкы вӧй
+  - ой
+  - путер
+  - сагаан тоһон
+  - сливочное масло
+  - сметанковае масла
+  - цөцгийн тос
+  - Ӱ
+  - ӱй
+  - կարագ
+  - חמאה
+  - פוטער
+  - ترهیاغی
+  - تٔھنؠ
+  - زبدة
+  - زبده
+  - زبده zebda
+  - منتيݢ
+  - مکڻ
+  - مکھن
+  - مکھݨ
+  - کره
+  - کەرە
+  - ܚܐܘܬܐ
+  - नवनीतम्
+  - नौनी
+  - मक्खन
+  - लोणी
+  - মাখন
+  - ਮੱਖਣ
+  - માખણ
+  - ଲହୁଣୀ
+  - வெண்ணெய்
+  - వెన్న
+  - ಬೆಣ್ಣೆ
+  - ಬೊಲ್ನೆಯಿ
+  - വെണ്ണ
+  - බටර්
+  - เนย
+  - ເນີຍ
+  - ထောပတ်
+  - ၼိူၺ်း
+  - კარაქი
+  - ቅቤ
+  - ᎪᏢᏅ
+  - បឺរ
+  - バター
+  - 奶油
+  - 牛油
+  - 白脱
+  - 黄油
+  - 버터
+  - 빠다
 has_id_wikidata: Q34172
-has_part_s_: '[[_Standards/WikiData/WD~fat,127980]]'
-instance_of: '[[_Standards/WikiData/WD~dairy_product,185217]]'
+has_part_s_: "[[_Standards/WikiData/WD~fat,127980]]"
+instance_of: "[[_Standards/WikiData/WD~dairy_product,185217]]"
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]"
 has_use:
-- '[[_Standards/WikiData/WD~spread,1472481]]'
-- '[[_Standards/WikiData/WD~food_ingredient,25403900]]'
+  - "[[_Standards/WikiData/WD~spread,1472481]]"
+  - "[[_Standards/WikiData/WD~food_ingredient,25403900]]"
 subclass_of:
-- '[[_Standards/WikiData/WD~fat_spread,1727434]]'
-- '[[_Standards/WikiData/WD~dry_butter,26869352]]'
-- '[[_Standards/WikiData/WD~cream_butter,26882158]]'
-fabrication_method: '[[_Standards/WikiData/WD~churning,2916087]]'
-different_from: '[[_Standards/WikiData/WD~spread_butter,16701410]]'
+  - "[[_Standards/WikiData/WD~fat_spread,1727434]]"
+  - "[[_Standards/WikiData/WD~dry_butter,26869352]]"
+  - "[[_Standards/WikiData/WD~cream_butter,26882158]]"
+fabrication_method: "[[_Standards/WikiData/WD~churning,2916087]]"
+different_from: "[[_Standards/WikiData/WD~spread_butter,16701410]]"
 made_from_material:
-- '[[_Standards/WikiData/WD~milk,8495]]'
-- '[[_Standards/WikiData/WD~cream,13228]]'
+  - "[[_Standards/WikiData/WD~milk,8495]]"
+  - "[[_Standards/WikiData/WD~cream,13228]]"
 carbon_footprint: 9
 OmegaWiki_Defined_Meaning: 5505
 water_footprint: 5553
 CosIng_number:
-- 92347
-- 31742
+  - 92347
+  - 31742
 USDA_NDB_number:
-- 01002
-- 01001
-- 01145
-- 04601
-- 04602
+  - 1002
+  - 1001
+  - 1145
+  - 4601
+  - 4602
 U_S_National_Archives_Identifier: 10648631
 booru_tag: butter
 Danbooru_tag: butter
@@ -221,16 +221,16 @@ UNII: 3B7C0987O9
 Iconclass_notation: 41C6411
 Amazon_com_browse_node: 7476296011
 CAS_Registry_Number: 8029-34-3
-P8189: 987007293674005171
+P8189: 987007293674005100
 UMLS_CUI: C0006494
 MeSH_tree_code:
-- D10.212.302.199
-- G07.203.300.350.100
-- G07.203.300.375.200
-- J02.500.350.100
-- J02.500.375.200
+  - D10.212.302.199
+  - G07.203.300.350.100
+  - G07.203.300.375.200
+  - J02.500.350.100
+  - J02.500.375.200
 Colon_Classification: KX31:73
-Unicode_character: "\U0001F9C8"
+Unicode_character: 🧈
 inception: -8000-06
 dv_has_:
   name_:
@@ -450,7 +450,7 @@ dv_has_:
     zh_tw: 奶油
     zu: ibhotela
 ---
-# [[Butter]] 
+# [[Butter]] 🧈
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Butter,34172|WD~Butter,34172]] 
 

@@ -1013,7 +1013,7 @@ Colon_Classification: SG--671
 Krugosvet_article: strany_mira/ALZHIR.html
 motto_text: بالشّعب وللشّعب
 ---
-# [[Algeria]] 
+# [[Algeria]] Ǳ 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

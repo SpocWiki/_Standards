@@ -1,78 +1,78 @@
 ---
 aliases:
-- balos
-- birilli
-- bitlles
-- Bola joko
-- boliche
-- Boling
-- Boling sepuluh pin
-- bolos
-- Boulingas
-- Boulingu
-- Boulinq
-- Bovling
-- bowlen
-- bowling
-- Bowlingsport
-- Bowlîng
-- Djeu d' beyes
-- jeu de quilles
-- Keegel
-- Kegelspel
-- kegloludo
-- keila
-- keilailu
-- kuglanje
-- Μπόουλινγκ
-- боўлінг
-- Боулінг
-- боулинг
-- куглање
-- Բոուլինգ
-- כדורת
-- بولنگ
-- بولينج
-- بولِنغ
-- بولینگ
-- बोलिंग
-- বোলিং
-- பௌலிங்
-- ಬೌಲಿಂಗ್
-- โบว์ลิ่ง
-- ボウリング
-- 保齡
-- 保齡球運動
-- 볼링
+  - balos
+  - birilli
+  - bitlles
+  - Bola joko
+  - boliche
+  - Boling
+  - Boling sepuluh pin
+  - bolos
+  - Boulingas
+  - Boulingu
+  - Boulinq
+  - Bovling
+  - bowlen
+  - bowling
+  - Bowlingsport
+  - Bowlîng
+  - Djeu d' beyes
+  - jeu de quilles
+  - Keegel
+  - Kegelspel
+  - kegloludo
+  - keila
+  - keilailu
+  - kuglanje
+  - Μπόουλινγκ
+  - боўлінг
+  - Боулінг
+  - боулинг
+  - куглање
+  - Բոուլինգ
+  - כדורת
+  - بولنگ
+  - بولينج
+  - بولِنغ
+  - بولینگ
+  - बोलिंग
+  - বোলিং
+  - பௌலிங்
+  - ಬೌಲಿಂಗ್
+  - โบว์ลิ่ง
+  - ボウリング
+  - 保齡
+  - 保齡球運動
+  - 볼링
 has_id_wikidata: Q3177899
 depicted_by:
-- '[[_Standards/WikiData/WD~Grand_Theft_Auto_IV,94797]]'
-- '[[_Standards/WikiData/WD~Midnight_Bowling_3,100769730]]'
-different_from: '[[_Standards/WikiData/WD~ten_pin_bowling,172809]]'
-uses: '[[_Standards/WikiData/WD~bowling_ball,635982]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+  - "[[_Standards/WikiData/WD~Grand_Theft_Auto_IV,94797]]"
+  - "[[_Standards/WikiData/WD~Midnight_Bowling_3,100769730]]"
+different_from: "[[_Standards/WikiData/WD~ten_pin_bowling,172809]]"
+uses: "[[_Standards/WikiData/WD~bowling_ball,635982]]"
+described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
 subclass_of:
-- '[[_Standards/WikiData/WD~game_of_skill,1368898]]'
-- '[[_Standards/WikiData/WD~throwing_sport,15855160]]'
-practiced_by: '[[_Standards/WikiData/WD~bowler,4951095]]'
+  - "[[_Standards/WikiData/WD~game_of_skill,1368898]]"
+  - "[[_Standards/WikiData/WD~throwing_sport,15855160]]"
+practiced_by: "[[_Standards/WikiData/WD~bowler,4951095]]"
 instance_of:
-- '[[_Standards/WikiData/WD~type_of_sport,31629]]'
-- '[[_Standards/WikiData/WD~hobby,47728]]'
+  - "[[_Standards/WikiData/WD~type_of_sport,31629]]"
+  - "[[_Standards/WikiData/WD~hobby,47728]]"
 IAB_code: 550
 Nomenclature_for_Museum_Cataloging: 14225
 IMDb_keyword: bowling
 subreddit: Bowling
 Commons_category: Bowling
-Unicode_character: "\U0001F3B3"
+Unicode_character: 🎳
 image: http://commons.wikimedia.org/wiki/Special:FilePath/20160511%20High%20backswing%20in%20bowling%20-%20John%20Hughes%20-%20Armed%20Forces%20Sports.jpg
 icon:
-- http://commons.wikimedia.org/wiki/Special:FilePath/Bolera.jpg
-- http://commons.wikimedia.org/wiki/Special:FilePath/Lawn%20bowls%20pictogram.svg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Bolera.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Lawn%20bowls%20pictogram.svg
 described_at_URL: https://neal.fun/earth-reviews/bowling
 U_S_National_Archives_Identifier: 10645979
 Iconclass_notation:
-- 43C4162
-- 43C7147
+  - 43C4162
+  - 43C7147
 UMLS_CUI: C0336949
 OpenStreetMap_tag: sport=bowling
 dv_has_:
@@ -137,7 +137,7 @@ dv_has_:
     yue: 保齡
     zh: 保齡球運動
 ---
-# [[Bowling]] 
+# [[Bowling]] 🎳 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~bowling,3177899|WD~bowling,3177899]]  
 

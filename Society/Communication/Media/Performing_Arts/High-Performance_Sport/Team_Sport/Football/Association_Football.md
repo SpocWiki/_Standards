@@ -553,7 +553,7 @@ dv_has_:
     zh_tw: 足球
     zu: Ibhola
 ---
-# [[Association_Football]] 
+# [[Association_Football]] ⚽ 
 
 #is_/different_from :: [[American Football]]
 #is_/same_as :: [[../../../../../../../WikiData/WD~Association_football,2736|WD~Association_football,2736]] 

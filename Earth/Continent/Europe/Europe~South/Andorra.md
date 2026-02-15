@@ -774,13 +774,13 @@ pronunciation_audio:
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Andorra-article.ogg
 official_website: https://www.govern.ad/
 country_calling_code: 376
-Unicode_character: "\U0001F1E6\U0001F1E9"
+Unicode_character: 🇦🇩
 GitHub_topic: andorra
 CIVICUS_Monitor_country_entry: andorra
 subreddit: andorra
 IPA_transcription: ɐnˈdorːə
 ---
-# [[Andorra]] 
+# [[Andorra]] 🇦🇩 
 
 ## [[Andorra]] has Properties... 
 

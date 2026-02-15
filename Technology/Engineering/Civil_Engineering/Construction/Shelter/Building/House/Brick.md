@@ -1,170 +1,170 @@
 ---
 aliases:
-- adreilu
-- Asinikan
-- Baacksteen
-- Backeschtee
-- baksteen
-- Bakstien
-- Bata
-- Batako
-- Batu bata
-- Bilíki
-- Biriky
-- Breice
-- Brica
-- Brick
-- bricsen
-- Briek
-- Brik
-- Brike
-- Brikenn
-- briko
-- brique
-- Brkikisi
-- bríce
-- cegła
-- Chng-á
-- Cien
-- cigla
-- cihla
-- Ciŏng-tàu
-- cuareło
-- cărămidă
-- diila
-- gerbish
-- Gʻisht
-- gạch
-- Keie
-- Kusasqa tika
-- kərpic
-- Ladriello
-- ladrillo
-- Ladrilyo
-- Laryo
-- Later
-- Lladriyu
-- Ma'o'hoáá'e
-- Maduni
-- mattone
-- Mauerziegel
-- maó
-- murstein
-- mursten
-- murtegel
-- opeka
-- Plints
-- Plyta
-- Préda
-- Quadrell
-- Savič
-- Simede
-- tehla
-- tellis
-- tiili
-- tijlâ
-- tijolo
-- Tofali
-- Tullë
-- Tuxlaci
-- tuğla
-- tégla
-- Ziegel
-- Zill
-- Zvidhinha
-- ķieģelis
-- ǩiirpâč
-- τούβλο
-- Агуыри
-- Кірпіш
-- Кибарчиг
-- кирбес
-- Кирпĕч
-- кирпеч
-- Кирпииччэ
-- кирпич
-- опека
-- Тиґла
-- Тухла
-- хишт
-- цегла
-- цигла
-- цэгла
-- աղյուս
-- לבנה
-- آجر
-- آجۊر
-- اِٹ
-- اینٹ
-- خښته
-- سرون
-- سیٖر
-- قرميدة
-- کرپیج
-- अपा
-- ईंट
-- ईटा
-- वीट
-- ইট
-- ਇੱਟ
-- ઈંટ
-- ଇଟା
-- செங்கல்
-- ఇటుక
-- ಇಟ್ಟಿಗೆ
-- ഇഷ്ടിക
-- ගඩොල්
-- อิฐ
-- မၢၵ်ႇဢုတ်ႇ
-- အုတ်
-- აგური
-- ანგურა
-- ጡብ
-- ᱤᱴᱟ.
-- 煉瓦
-- 砖
-- 磚
-- 벽돌
+  - adreilu
+  - Asinikan
+  - Baacksteen
+  - Backeschtee
+  - baksteen
+  - Bakstien
+  - Bata
+  - Batako
+  - Batu bata
+  - Bilíki
+  - Biriky
+  - Breice
+  - Brica
+  - Brick
+  - bricsen
+  - Briek
+  - Brik
+  - Brike
+  - Brikenn
+  - briko
+  - brique
+  - Brkikisi
+  - bríce
+  - cegła
+  - Chng-á
+  - Cien
+  - cigla
+  - cihla
+  - Ciŏng-tàu
+  - cuareło
+  - cărămidă
+  - diila
+  - gerbish
+  - Gʻisht
+  - gạch
+  - Keie
+  - Kusasqa tika
+  - kərpic
+  - Ladriello
+  - ladrillo
+  - Ladrilyo
+  - Laryo
+  - Later
+  - Lladriyu
+  - Ma'o'hoáá'e
+  - Maduni
+  - mattone
+  - Mauerziegel
+  - maó
+  - murstein
+  - mursten
+  - murtegel
+  - opeka
+  - Plints
+  - Plyta
+  - Préda
+  - Quadrell
+  - Savič
+  - Simede
+  - tehla
+  - tellis
+  - tiili
+  - tijlâ
+  - tijolo
+  - Tofali
+  - Tullë
+  - Tuxlaci
+  - tuğla
+  - tégla
+  - Ziegel
+  - Zill
+  - Zvidhinha
+  - ķieģelis
+  - ǩiirpâč
+  - τούβλο
+  - Агуыри
+  - Кірпіш
+  - Кибарчиг
+  - кирбес
+  - Кирпĕч
+  - кирпеч
+  - Кирпииччэ
+  - кирпич
+  - опека
+  - Тиґла
+  - Тухла
+  - хишт
+  - цегла
+  - цигла
+  - цэгла
+  - աղյուս
+  - לבנה
+  - آجر
+  - آجۊر
+  - اِٹ
+  - اینٹ
+  - خښته
+  - سرون
+  - سیٖر
+  - قرميدة
+  - کرپیج
+  - अपा
+  - ईंट
+  - ईटा
+  - वीट
+  - ইট
+  - ਇੱਟ
+  - ઈંટ
+  - ଇଟା
+  - செங்கல்
+  - ఇటుక
+  - ಇಟ್ಟಿಗೆ
+  - ഇഷ്ടിക
+  - ගඩොල්
+  - อิฐ
+  - မၢၵ်ႇဢုတ်ႇ
+  - အုတ်
+  - აგური
+  - ანგურა
+  - ጡብ
+  - ᱤᱴᱟ.
+  - 煉瓦
+  - 砖
+  - 磚
+  - 벽돌
 has_id_wikidata: Q40089
 used_by:
-- '[[_Standards/WikiData/WD~brick_stamp,198731]]'
-- '[[_Standards/WikiData/WD~bricklayer,327321]]'
-- '[[_Standards/WikiData/WD~construction_worker,811122]]'
+  - "[[_Standards/WikiData/WD~brick_stamp,198731]]"
+  - "[[_Standards/WikiData/WD~bricklayer,327321]]"
+  - "[[_Standards/WikiData/WD~construction_worker,811122]]"
 subclass_of:
-- '[[_Standards/WikiData/WD~building_material,206615]]'
-- '[[_Standards/WikiData/WD~brick,125279331]]'
+  - "[[_Standards/WikiData/WD~building_material,206615]]"
+  - "[[_Standards/WikiData/WD~brick,125279331]]"
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
 made_from_material:
-- '[[_Standards/WikiData/WD~clinker_brick,970812]]'
-- '[[_Standards/WikiData/WD~loam,1131303]]'
-- '[[_Standards/WikiData/WD~clay,42302]]'
-manufacturer: '[[_Standards/WikiData/WD~brickmaker,66132353]]'
-different_from: '[[_Standards/WikiData/WD~Q94440495,94440495]]'
+  - "[[_Standards/WikiData/WD~clinker_brick,970812]]"
+  - "[[_Standards/WikiData/WD~loam,1131303]]"
+  - "[[_Standards/WikiData/WD~clay,42302]]"
+manufacturer: "[[_Standards/WikiData/WD~brickmaker,66132353]]"
+different_from: "[[_Standards/WikiData/WD~Q94440495,94440495]]"
 Nomenclature_for_Museum_Cataloging: 49
 OmegaWiki_Defined_Meaning: 432
 Commons_gallery: Brick
 GS1_GPC_code: 10002525
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Brick.jpg
 Dewey_Decimal_Classification:
-- 624.1836
-- 666.737
-- 691.4
-- 693.21
-- 721.04421
+  - 624.1836
+  - 666.737
+  - 691.4
+  - 693.21
+  - 721.04421
 Commons_category: Bricks
 exact_match:
-- http://purl.obolibrary.org/obo/ENVO_01000475
-- https://turkic.elegantlexicon.com/turkforms.php?form=brickbrick
-- https://ids.clld.org/parameters/7-620
+  - http://purl.obolibrary.org/obo/ENVO_01000475
+  - https://turkic.elegantlexicon.com/turkforms.php?form=brickbrick
+  - https://ids.clld.org/parameters/7-620
 MCN_code: 6901.00.10
 P8189: 987007282512705200
 OpenStreetMap_tag_or_key: Tag:building:material=brick
-Unicode_character: "\U0001F9F1"
+Unicode_character: 🧱
 dv_has_:
   name_:
     af: baksteen

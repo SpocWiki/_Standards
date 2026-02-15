@@ -348,7 +348,7 @@ dv_is_same_as:
 - '[[/_personal/Chemistry/Organic_Chemistry/Aromatic_Compound/Benzene.personal|Benzene.personal]]'
 - '[[/_secret/Chemistry/Organic_Chemistry/Aromatic_Compound/Benzene.secret|Benzene.secret]]'
 ---
-# [[Benzene]] 
+# [[Benzene]] ⏣ ⌬ 
 
 has_formula_sum = `=this.dv_has_formula_sum` 
 #is_/same_as :: [[../../../../WikiData/WD~Benzene,2270|WD~Benzene,2270]] 

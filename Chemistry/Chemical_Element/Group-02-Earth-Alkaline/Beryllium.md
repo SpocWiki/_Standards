@@ -471,6 +471,9 @@ dv_has_name_en: Beryllium
 dv_has_name_abbreviated: Be
 dv_has_number_of_electrons: 4
 ---
+
+# [[Beryllium]] 鈹 
+
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Beryllium,569]] 
 

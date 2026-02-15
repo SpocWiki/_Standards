@@ -362,6 +362,9 @@ dv_has_number_of_group: 17
 dv_has_name_abbreviated: Br
 dv_has_number_of_electrons: 35
 ---
+
+# [[Bromine]] 溴 
+
 #is_/same_as :: [[../../../WikiData/WD~Bromine,879]] 
 
 

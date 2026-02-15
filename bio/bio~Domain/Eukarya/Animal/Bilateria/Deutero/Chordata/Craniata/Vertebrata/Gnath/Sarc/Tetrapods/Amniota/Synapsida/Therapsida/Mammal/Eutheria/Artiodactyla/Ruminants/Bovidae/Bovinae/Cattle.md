@@ -1,300 +1,300 @@
 ---
 aliases:
-- abelgorri
-- Baca
-- bagra
-- baka
-- bakni
-- baqra
-- bees
-- Beest
-- Beźan
-- Bos primigenius taurus
-- Bos taurus
-- Bos taurus taurus
-- bou
-- Bove
-- bovo
-- bovrins
-- Bugh
-- bull
-- bullock
-- bulmakau
-- Bulumakau
-- Buoc'h
-- bydło domowe
-- Bà
-- Bàca
-- Bèf
-- Béégashii
-- Bò
-- bò nhà
-- Cattle
-- Chauaa
-- cou
-- cow
-- Cuācuahueh
-- cwz
-- Divlje govedo
-- Domaće govedo
-- eallach
-- ehi
-- Ga
-- gado bovino
-- Galvėjē
-- govedo
-- gung
-- gwartheg
-- Gû
-- Hausrind
-- heifer
-- howjado
-- Hriðer
-- Huusrind
-- Iinkomo
-- Immulivik
-- Inka
-- inkomazi
-- Jawi
-- kacing
-- Kau
-- Kawmeti
-- Kiakl
-- kij
-- Kolong
-- kooj
-- Ku
-- Kuh
-- kuss
-- lehm
-- lembu
-- Leumo
-- liellops
-- Lo
-- lopa
-- Misi
-- Mombe
-- màlúù
-- naafo
-- nag
-- Nahu
-- naminis jautis
-- nauta
-- Nautgripur
-- neyt
-- Ng'ombe
-- Ngiù-è
-- Ngombe
-- Ngù
-- Ngɔ́mbɛ́
-- ng’ombe
-- nii
-- Nyak
-- Nyi
-- nötkreatur
-- Omby
-- ox
-- oxen
-- Ranner
-- Rindveeh
-- Rindviech
-- rund
-- Runders
-- Sampi
-- Sapi
-- Sapi'
-- Sapè
-- Shanu
-- sigir
-- skót
-- steer
-- Stier
-- storfe
-- szarvasmarha
-- sığır
-- Tafunast
-- tamkvæg
-- Toro
-- tur domáci
-- tur domácí
-- tuvar
-- Tõbras
-- ulang
-- Uéve
-- vaca
-- Vacca
-- Vacia
-- Vacâ
-- vacă
-- Vaka
-- Vaque
-- veis
-- veter
-- Vəhşi öküz
-- Waka
-- Öküz
-- Ĕне
-- Ɣɔ̈k
-- αγελάδα
-- αλμεγάδιν χτήνον
-- гов
-- домаће говедо
-- домашний бык
-- домашно говедо
-- Етт
-- инек
-- Кал
-- корова
-- Мӧс
-- Оьл
-- пӀака
-- свойскі бык
-- сиыр
-- скал
-- сыер
-- сюро таза пудо
-- тракс
-- Уй
-- Хъуг
-- Ынах
-- Ышкал
-- Үкр
-- Үнеэн
-- Үхэр
-- Һыйыр
-- կով
-- אקס
-- בקר הבית
-- ئىنەك
-- اینک
-- بقر
-- بڨرة
-- بڭر
-- غوا
-- مانگا
-- مواشي
-- ڈنگر
-- گائے
-- گاب
-- گاو
-- گو
-- ڳئون
-- ڳاں
-- ߡߌ߬ߛߌ
-- गाई
-- गाय
-- गौः
-- मवेशी
-- वस्तुभाउ
-- सा
-- গরু
-- গৰু
-- ਗਊ
-- ગાય
-- ଗାଈ
-- பசு
-- పశువు
-- ದನ
-- ಪೆತ್ತ
-- കന്നുകാലി
-- ගවයා
-- วัว
-- ງົວ
-- གླང་གོག་
-- နွား
-- მსხვილი რქოსანი საქონელი
-- შხუ ქალამი ორინჯი
-- ላም
-- ᏩᎧ
-- ᐃᒻᒧᒃᓯᐅᒐᖅ
-- ᒥᔅᑐᔅ
-- ᡳᡥᠠᠨ
-- ᥒᥨᥝᥰ
-- ᱜᱟᱹᱭ
-- ⵜⴰⴼⵓⵏⴰⵙⵜ
-- ウシ
-- 家牛
-- 牛
-- ꯁꯥ-ꯁꯟ
-- 소
-- "\U00010335\U00010349\U00010343"
+  - abelgorri
+  - Baca
+  - bagra
+  - baka
+  - bakni
+  - baqra
+  - bees
+  - Beest
+  - Beźan
+  - Bos primigenius taurus
+  - Bos taurus
+  - Bos taurus taurus
+  - bou
+  - Bove
+  - bovo
+  - bovrins
+  - Bugh
+  - bull
+  - bullock
+  - bulmakau
+  - Bulumakau
+  - Buoc'h
+  - bydło domowe
+  - Bà
+  - Bàca
+  - Bèf
+  - Béégashii
+  - Bò
+  - bò nhà
+  - Cattle
+  - Chauaa
+  - cou
+  - cow
+  - Cuācuahueh
+  - cwz
+  - Divlje govedo
+  - Domaće govedo
+  - eallach
+  - ehi
+  - Ga
+  - gado bovino
+  - Galvėjē
+  - govedo
+  - gung
+  - gwartheg
+  - Gû
+  - Hausrind
+  - heifer
+  - howjado
+  - Hriðer
+  - Huusrind
+  - Iinkomo
+  - Immulivik
+  - Inka
+  - inkomazi
+  - Jawi
+  - kacing
+  - Kau
+  - Kawmeti
+  - Kiakl
+  - kij
+  - Kolong
+  - kooj
+  - Ku
+  - Kuh
+  - kuss
+  - lehm
+  - lembu
+  - Leumo
+  - liellops
+  - Lo
+  - lopa
+  - Misi
+  - Mombe
+  - màlúù
+  - naafo
+  - nag
+  - Nahu
+  - naminis jautis
+  - nauta
+  - Nautgripur
+  - neyt
+  - Ng'ombe
+  - Ngiù-è
+  - Ngombe
+  - Ngù
+  - Ngɔ́mbɛ́
+  - ng’ombe
+  - nii
+  - Nyak
+  - Nyi
+  - nötkreatur
+  - Omby
+  - ox
+  - oxen
+  - Ranner
+  - Rindveeh
+  - Rindviech
+  - rund
+  - Runders
+  - Sampi
+  - Sapi
+  - Sapi'
+  - Sapè
+  - Shanu
+  - sigir
+  - skót
+  - steer
+  - Stier
+  - storfe
+  - szarvasmarha
+  - sığır
+  - Tafunast
+  - tamkvæg
+  - Toro
+  - tur domáci
+  - tur domácí
+  - tuvar
+  - Tõbras
+  - ulang
+  - Uéve
+  - vaca
+  - Vacca
+  - Vacia
+  - Vacâ
+  - vacă
+  - Vaka
+  - Vaque
+  - veis
+  - veter
+  - Vəhşi öküz
+  - Waka
+  - Öküz
+  - Ĕне
+  - Ɣɔ̈k
+  - αγελάδα
+  - αλμεγάδιν χτήνον
+  - гов
+  - домаће говедо
+  - домашний бык
+  - домашно говедо
+  - Етт
+  - инек
+  - Кал
+  - корова
+  - Мӧс
+  - Оьл
+  - пӀака
+  - свойскі бык
+  - сиыр
+  - скал
+  - сыер
+  - сюро таза пудо
+  - тракс
+  - Уй
+  - Хъуг
+  - Ынах
+  - Ышкал
+  - Үкр
+  - Үнеэн
+  - Үхэр
+  - Һыйыр
+  - կով
+  - אקס
+  - בקר הבית
+  - ئىنەك
+  - اینک
+  - بقر
+  - بڨرة
+  - بڭر
+  - غوا
+  - مانگا
+  - مواشي
+  - ڈنگر
+  - گائے
+  - گاب
+  - گاو
+  - گو
+  - ڳئون
+  - ڳاں
+  - ߡߌ߬ߛߌ
+  - गाई
+  - गाय
+  - गौः
+  - मवेशी
+  - वस्तुभाउ
+  - सा
+  - গরু
+  - গৰু
+  - ਗਊ
+  - ગાય
+  - ଗାଈ
+  - பசு
+  - పశువు
+  - ದನ
+  - ಪೆತ್ತ
+  - കന്നുകാലി
+  - ගවයා
+  - วัว
+  - ງົວ
+  - གླང་གོག་
+  - နွား
+  - მსხვილი რქოსანი საქონელი
+  - შხუ ქალამი ორინჯი
+  - ላም
+  - ᏩᎧ
+  - ᐃᒻᒧᒃᓯᐅᒐᖅ
+  - ᒥᔅᑐᔅ
+  - ᡳᡥᠠᠨ
+  - ᥒᥨᥝᥰ
+  - ᱜᱟᱹᱭ
+  - ⵜⴰⴼⵓⵏⴰⵙⵜ
+  - ウシ
+  - 家牛
+  - 牛
+  - ꯁꯥ-ꯁꯟ
+  - 소
+  - 𐌵𐍉𐍃
 has_id_wikidata: Q830
 age_of_onset_of_sexual_maturity:
-- 7
-- 8
+  - 7
+  - 8
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Mudchute%20cow%201.ogg
 Commons_category: Cattle
 Commons_gallery: Cattle
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-- '[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
+  - "[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 different_from:
-- '[[_Standards/WikiData/WD~cattle,4767951]]'
-- '[[_Standards/WikiData/WD~cow,11748378]]'
+  - "[[_Standards/WikiData/WD~cattle,4767951]]"
+  - "[[_Standards/WikiData/WD~cow,11748378]]"
 earliest_date: -10500-01-01
 gestation_period: 9
 has_part_s_:
-- '[[_Standards/WikiData/WD~bull,693690]]'
-- '[[_Standards/WikiData/WD~cow,11748378]]'
+  - "[[_Standards/WikiData/WD~bull,693690]]"
+  - "[[_Standards/WikiData/WD~cow,11748378]]"
 Iconclass_notation: 47I21
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cow%20female%20black%20white.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]'
-- '[[_Standards/WikiData/WD~paraphyletic_group,58051350]]'
+  - "[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]"
+  - "[[_Standards/WikiData/WD~paraphyletic_group,58051350]]"
 litter_size: 1
 longest_observed_lifespan: 48
 maximum_frequency_of_audible_sound: 35000
 MeSH_tree_code: B01.050.150.900.649.313.500.380.271
 minimum_frequency_of_audible_sound: 23
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+on_focus_list_of_Wikimedia_project: "[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]"
 period_of_lactation: 11
 permanent_duplicated_item:
-- '[[_Standards/WikiData/WD~Q24025129,24025129]]'
+  - "[[_Standards/WikiData/WD~Q24025129,24025129]]"
 pronunciation_audio:
-- http://commons.wikimedia.org/wiki/Special:FilePath/Ar-%D8%A8%D9%82%D8%B1%D8%A9.ogg
-- http://commons.wikimedia.org/wiki/Special:FilePath/Cy-buwch.ogg
-- http://commons.wikimedia.org/wiki/Special:FilePath/Ka-mskhvilpekha%20rkosani%20sakoneli.ogg
-- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33070%20%28ban%29-Bayu%20Gita-Sampi.wav
-- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33070%20%28ban%29-Carma%20citrawati-Sampi.wav
-- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8752%20%28eus%29-Xabier%20Ca%C3%B1as-behi.wav
-- http://commons.wikimedia.org/wiki/Special:FilePath/Sv-N%C3%B6tkreatur.oga
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~cow,11748378]]'
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Ar-%D8%A8%D9%82%D8%B1%D8%A9.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Cy-buwch.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Ka-mskhvilpekha%20rkosani%20sakoneli.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33070%20%28ban%29-Bayu%20Gita-Sampi.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33070%20%28ban%29-Carma%20citrawati-Sampi.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8752%20%28eus%29-Xabier%20Ca%C3%B1as-behi.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Sv-N%C3%B6tkreatur.oga
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~cow,11748378]]"
 social_media_followers: 33849
 subclass_of:
-- '[[_Standards/WikiData/WD~livestock,103459]]'
-- '[[_Standards/WikiData/WD~cattle,4767951]]'
-- '[[_Standards/WikiData/WD~captive_mammal,57812611]]'
-- '[[_Standards/WikiData/WD~domesticated_mammal,57814795]]'
+  - "[[_Standards/WikiData/WD~livestock,103459]]"
+  - "[[_Standards/WikiData/WD~cattle,4767951]]"
+  - "[[_Standards/WikiData/WD~captive_mammal,57812611]]"
+  - "[[_Standards/WikiData/WD~domesticated_mammal,57814795]]"
 subreddit:
-- Cows
+  - Cows
 taxon_common_name:
-- vaca
+  - vaca
 taxon_known_by_this_common_name:
-- '[[_Standards/WikiData/WD~Bos_taurus,19610691]]'
-- '[[_Standards/WikiData/WD~taurine_cattle,19995054]]'
-- '[[_Standards/WikiData/WD~Bos_primigenius_taurus,20747320]]'
-- '[[_Standards/WikiData/WD~Bos_indicus,20747726]]'
-- '[[_Standards/WikiData/WD~Bos_primigenius_indicus,46889]]'
+  - "[[_Standards/WikiData/WD~Bos_taurus,19610691]]"
+  - "[[_Standards/WikiData/WD~taurine_cattle,19995054]]"
+  - "[[_Standards/WikiData/WD~Bos_primigenius_taurus,20747320]]"
+  - "[[_Standards/WikiData/WD~Bos_indicus,20747726]]"
+  - "[[_Standards/WikiData/WD~Bos_primigenius_indicus,46889]]"
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Bovine%20range-2013-14-02.png
 this_taxon_is_source_of:
-- '[[_Standards/WikiData/WD~beef,192628]]'
-- '[[_Standards/WikiData/WD~knuckle,10498626]]'
-- "[[_Standards/WikiData/WD~cow's_milk,10988133]]"
-- '[[_Standards/WikiData/WD~cowhide,12492880]]'
-- '[[_Standards/WikiData/WD~beef_byproducts,12577982]]'
+  - "[[_Standards/WikiData/WD~beef,192628]]"
+  - "[[_Standards/WikiData/WD~knuckle,10498626]]"
+  - "[[_Standards/WikiData/WD~cow's_milk,10988133]]"
+  - "[[_Standards/WikiData/WD~cowhide,12492880]]"
+  - "[[_Standards/WikiData/WD~beef_byproducts,12577982]]"
 Unicode_character:
-- "\U0001F404"
-- "\U0001F42E"
+  - 🐄
+  - 🐮
 UNII: O628M2YS7P
 UNSPSC_Code: 10101516
 video:
-- http://commons.wikimedia.org/wiki/Special:FilePath/Bos%20taurus%2001.ogv
-- http://commons.wikimedia.org/wiki/Special:FilePath/Bos%20taurus%2002.ogv
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Bos%20taurus%2001.ogv
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Bos%20taurus%2002.ogv
 dv_has_:
   name_:
     ace: Leumo
@@ -378,7 +378,7 @@ dv_has_:
     glk: گاب
     gn: Vaka
     gor: Sapi
-    got: "\U00010335\U00010349\U00010343"
+    got: 𐌵𐍉𐍃
     gsw: Huusrind
     gu: ગાય
     gur: nii
@@ -555,7 +555,7 @@ dv_has_:
     zh_hant: 牛
     zu: inkomazi
 ---
-# [[Cattle]] 🐮 
+# [[Cattle]] 🐮 🐄
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Cattle,830|WD~Cattle,830]]  
 #is_/same_as :: [[_Standards/WikiData/WD~cow,11748378]] 

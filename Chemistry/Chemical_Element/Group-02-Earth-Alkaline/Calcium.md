@@ -476,7 +476,7 @@ dv_has_number_of_group: 2
 dv_has_name_abbreviated: Ca
 dv_has_number_of_electrons: 20
 ---
-# [[Calcium]] 
+# [[Calcium]] 鈣 
 
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Calcium,706]] 

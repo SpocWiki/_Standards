@@ -452,7 +452,7 @@ dv_has_:
     zh_tw: 婚姻
     zu: Umshado
 ---
-# [[Marriage]] 
+# [[Marriage]] ⚤ ⚭ 
 
 #has_/next_/item :: [[Marriage/Divorce|Divorce]] 
 #is_/same_as :: [[../../../../../WikiData/WD~Marriage,8445|WD~Marriage,8445]] 

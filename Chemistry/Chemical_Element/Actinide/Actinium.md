@@ -367,7 +367,7 @@ dv_has_number_of_group: 3
 dv_has_name_abbreviated: Ac
 dv_has_number_of_electrons: 89
 ---
-# [[Actinium]]
+# [[Actinium]] 錒 
 
 #is_/same_as :: [[../../../WikiData/WD~Actinium,1121]] 
 

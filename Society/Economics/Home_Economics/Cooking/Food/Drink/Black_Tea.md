@@ -168,7 +168,7 @@ dv_has_:
     zh_sg: 红茶
     zh_tw: 紅茶
 ---
-# [[Black_Tea]] 
+# [[Black_Tea]] ☕ 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Black_tea,203415|WD~Black_tea,203415]] 
 

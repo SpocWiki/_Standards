@@ -323,7 +323,7 @@ dv_has_:
     zh: 角
     zu: ingoni
 ---
-# [[Angle]] 
+# [[Angle]] ∠ 
 
 #is_a :: [[Pseudo-Vector]] 
 #is_/similar_to :: [[Vector]] 

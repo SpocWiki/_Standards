@@ -353,6 +353,9 @@ dv_has_number_of_period: 7
 dv_has_number_of_group: 29
 dv_has_number_of_electrons: 95
 ---
+
+# [[Americium]] 鋂 
+
 #is_/same_as :: [[../../../WikiData/WD~Americium,1872]] 
 
 

@@ -1,178 +1,178 @@
 ---
 aliases:
-- Anayna
-- bealloe
-- Bell
-- biello
-- biellu
-- Bin kumdili
-- bjølle
-- Campan-na
-- campana
-- Campàna
-- campá
-- Canpana
-- chuông
-- Cjampane
-- Clag
-- Clioche
-- cloch
-- cloche
-- clog
-- clopot
-- Clotche
-- Dare
-- dzwon
-- dɔn
-- ezkila
-- Genta
-- Glocke
-- Glockn
-- Glogge
-- harang
-- Kalembang
-- kambanë
-- Kampana
-- kararrawa
-- kell
-- kello
-- Kengele
-- kiällu
-- kloc'h
-- Klock
-- klocka
-- klokke
-- Klosho
-- kə̀ŋŋà
-- Lali (percussion)
-- Li̱lak
-- loceng
-- Locéng
-- lonceng
-- luidklok
-- mgbịrịmgba
-- sino
-- sonorilo
-- Torosi
-- Varpas
-- Zing
-- zvans
-- zvon
-- Zvono
-- zwón
-- Zəng qülləsi
-- çan
-- ǩeâll
-- καμπάνα
-- ѕвоно
-- баяга
-- дзвін
-- Дзвон
-- Жыннян
-- Зангӯла
-- Звон
-- звоно
-- Камбана
-- колокол
-- Чан
-- чаң
-- Қоңырау
-- զանգ
-- פעמון
-- جرس
-- زەنگ
-- ناقوس
-- ܙܓܐ
-- ߕߊߟߊ߲
-- गं
-- घंटी
-- घण्टी
-- ਘੰਟੀ
-- ઘંટ
-- மணி (ஓசை)
-- గంట
-- ಗಂಟೆ
-- ระฆัง
-- ခေါင်းလောင်း
-- ზარი (საკრავი)
-- ᎤᎭᎸᏂ
-- ᠵᡠᠩᡴᡝᠨ
-- ᱜᱷᱟ.ᱱᱴᱤ
-- かに
-- 古鐘
-- 鈴
-- 鐘
-- 钟 (敲击器)
-- 铃
-- ꯀꯥꯡꯁꯤ
-- 종
+  - Anayna
+  - bealloe
+  - Bell
+  - biello
+  - biellu
+  - Bin kumdili
+  - bjølle
+  - Campan-na
+  - campana
+  - Campàna
+  - campá
+  - Canpana
+  - chuông
+  - Cjampane
+  - Clag
+  - Clioche
+  - cloch
+  - cloche
+  - clog
+  - clopot
+  - Clotche
+  - Dare
+  - dzwon
+  - dɔn
+  - ezkila
+  - Genta
+  - Glocke
+  - Glockn
+  - Glogge
+  - harang
+  - Kalembang
+  - kambanë
+  - Kampana
+  - kararrawa
+  - kell
+  - kello
+  - Kengele
+  - kiällu
+  - kloc'h
+  - Klock
+  - klocka
+  - klokke
+  - Klosho
+  - kə̀ŋŋà
+  - Lali (percussion)
+  - Li̱lak
+  - loceng
+  - Locéng
+  - lonceng
+  - luidklok
+  - mgbịrịmgba
+  - sino
+  - sonorilo
+  - Torosi
+  - Varpas
+  - Zing
+  - zvans
+  - zvon
+  - Zvono
+  - zwón
+  - Zəng qülləsi
+  - çan
+  - ǩeâll
+  - καμπάνα
+  - ѕвоно
+  - баяга
+  - дзвін
+  - Дзвон
+  - Жыннян
+  - Зангӯла
+  - Звон
+  - звоно
+  - Камбана
+  - колокол
+  - Чан
+  - чаң
+  - Қоңырау
+  - զանգ
+  - פעמון
+  - جرس
+  - زەنگ
+  - ناقوس
+  - ܙܓܐ
+  - ߕߊߟߊ߲
+  - गं
+  - घंटी
+  - घण्टी
+  - ਘੰਟੀ
+  - ઘંટ
+  - மணி (ஓசை)
+  - గంట
+  - ಗಂಟೆ
+  - ระฆัง
+  - ခေါင်းလောင်း
+  - ზარი (საკრავი)
+  - ᎤᎭᎸᏂ
+  - ᠵᡠᠩᡴᡝᠨ
+  - ᱜᱷᱟ.ᱱᱴᱤ
+  - かに
+  - 古鐘
+  - 鈴
+  - 鐘
+  - 钟 (敲击器)
+  - 铃
+  - ꯀꯥꯡꯁꯤ
+  - 종
 has_id_wikidata: Q101401
-studied_by: '[[_Standards/WikiData/WD~campanology,168058]]'
+studied_by: "[[_Standards/WikiData/WD~campanology,168058]]"
 part_of:
-- '[[_Standards/WikiData/WD~bell_tower,200334]]'
-- '[[_Standards/WikiData/WD~carillon,505174]]'
-- '[[_Standards/WikiData/WD~belfry,815448]]'
-- '[[_Standards/WikiData/WD~steeple,5191724]]'
-- "[[_Standards/WikiData/WD~MIMO's_classification_of_musical_instrument,26836418]]"
-- "[[_Standards/WikiData/WD~Guizzi's_classification_of_musical_instruments,53424891]]"
+  - "[[_Standards/WikiData/WD~bell_tower,200334]]"
+  - "[[_Standards/WikiData/WD~carillon,505174]]"
+  - "[[_Standards/WikiData/WD~belfry,815448]]"
+  - "[[_Standards/WikiData/WD~steeple,5191724]]"
+  - "[[_Standards/WikiData/WD~MIMO's_classification_of_musical_instrument,26836418]]"
+  - "[[_Standards/WikiData/WD~Guizzi's_classification_of_musical_instruments,53424891]]"
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-- '[[_Standards/WikiData/WD~Diccionario_del_español_de_México,5805556]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
-- "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+  - "[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~Q2041543,2041543]]"
+  - "[[_Standards/WikiData/WD~Diccionario_del_español_de_México,5805556]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]"
+  - "[[_Standards/WikiData/WD~Riemann's_Music_Dictionary,27680201]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 subclass_of:
-- '[[_Standards/WikiData/WD~work_of_art,838948]]'
-- '[[_Standards/WikiData/WD~percussion_vessels,55721729]]'
+  - "[[_Standards/WikiData/WD~work_of_art,838948]]"
+  - "[[_Standards/WikiData/WD~percussion_vessels,55721729]]"
 different_from:
-- '[[_Standards/WikiData/WD~handbell,871633]]'
-- '[[_Standards/WikiData/WD~Die_Glocke,1213067]]'
-- '[[_Standards/WikiData/WD~The_Bell,21127449]]'
-instance_of: '[[_Standards/WikiData/WD~family_of_musical_instruments,1254773]]'
+  - "[[_Standards/WikiData/WD~handbell,871633]]"
+  - "[[_Standards/WikiData/WD~Die_Glocke,1213067]]"
+  - "[[_Standards/WikiData/WD~The_Bell,21127449]]"
+instance_of: "[[_Standards/WikiData/WD~family_of_musical_instruments,1254773]]"
 has_part_s_:
-- '[[_Standards/WikiData/WD~clapper,9335418]]'
-- '[[_Standards/WikiData/WD~crown,96140174]]'
-- '[[_Standards/WikiData/WD~yoke,96140177]]'
-- '[[_Standards/WikiData/WD~head,96140182]]'
-- '[[_Standards/WikiData/WD~shoulder,96140183]]'
-- '[[_Standards/WikiData/WD~lip,96140186]]'
-- '[[_Standards/WikiData/WD~waist,96140184]]'
-- '[[_Standards/WikiData/WD~sound_ring,96140185]]'
-- '[[_Standards/WikiData/WD~mouth,96140191]]'
-- '[[_Standards/WikiData/WD~bead_line,96140216]]'
-shape: '[[_Standards/WikiData/WD~bell_shaped,47298214]]'
+  - "[[_Standards/WikiData/WD~clapper,9335418]]"
+  - "[[_Standards/WikiData/WD~crown,96140174]]"
+  - "[[_Standards/WikiData/WD~yoke,96140177]]"
+  - "[[_Standards/WikiData/WD~head,96140182]]"
+  - "[[_Standards/WikiData/WD~shoulder,96140183]]"
+  - "[[_Standards/WikiData/WD~lip,96140186]]"
+  - "[[_Standards/WikiData/WD~waist,96140184]]"
+  - "[[_Standards/WikiData/WD~sound_ring,96140185]]"
+  - "[[_Standards/WikiData/WD~mouth,96140191]]"
+  - "[[_Standards/WikiData/WD~bead_line,96140216]]"
+shape: "[[_Standards/WikiData/WD~bell_shaped,47298214]]"
 properties_for_this_type:
-- location
-- inception
-- mass
-- diameter
-- strike tone
-- creator
-- made from material
+  - location
+  - inception
+  - mass
+  - diameter
+  - strike tone
+  - creator
+  - made from material
 Nomenclature_for_Museum_Cataloging: 11189
 Commons_gallery: Bell
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Church%20bell%20cutaway.png
 official_name:
-- פעמון
-- Bells
-- Campane
+  - פעמון
+  - Bells
+  - Campane
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Parts%20of%20a%20Bell.svg
 small_logo_or_icon: http://commons.wikimedia.org/wiki/Special:FilePath/Bell%20icon.png
 label_in_sign_language: http://commons.wikimedia.org/wiki/Special:FilePath/Cloche%20Nf%201%201%201%20-%20Elix.webm
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De%20Dekke%20Pitto.ogg
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Gl%C3%B6ckschen%2020220720.stl
 described_at_URL: http://www.mimo-db.eu/HornbostelAndSachs/27
-Unicode_character: "\U0001F514"
+Unicode_character: 🔔
 Hornbostel_Sachs_classification: 111.242
 Iconclass_notation: 48C73431
 Dewey_Decimal_Classification:
-- 786.8848
-- 786.884819
+  - 786.8848
+  - 786.884819
 MCN_code: 8306.10.00
 P8189: 987007283278905200
 Commons_category: Bells

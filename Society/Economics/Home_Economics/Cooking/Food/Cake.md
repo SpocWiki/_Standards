@@ -1,165 +1,165 @@
 ---
 aliases:
-- abayn a kfaŋ
-- blək
-- bolo
-- bolu
-- bá kə́ mɨŋkala
-- bánh ngọt
-- bɛtɔ́bɔ́kɔ
-- Cake
-- Chueche
-- ciasto
-- cuddura
-- císte
-- cēcel
-- gastellus
-- gateau
-- gato
-- gatóo
-- gotóo
-- gozopil
-- gwastell
-- gàtoo
-- gàtó
-- gàtô
-- gátó
-- gâche
-- gâteau
-- gâtyô
-- hibúlé
-- kage
-- kaka
-- kake
-- kakku
-- kalati
-- kaʼtóo
-- ke-nn̄g-ko
-- kejk
-- kek
-- Keke (kakana kamikamica)
-- keki
-- kekɔ̀ɔn
-- kelembén
-- keyk
-- khʉkhʉ̄ᾱ
-- Koken
-- kolač
-- Kooche
-- kook
-- Kuch
-- Kucha
-- Kuchen
-- kuko
-- kulîçe
-- kúndú
-- kūka
-- kəsughū
-- lâung-gŏ̤
-- mapa na ngbu
-- mbələ̂gh' yi a pwórə-pworə́
-- mofomamy
-- ndzəréŋ
-- pan suwi
-- pangaaso
-- pastel
-- pastil
-- pastisson
-- pastís
-- pita
-- pyragas
-- rikwato
-- sütemény
-- taart
-- teisen
-- tesen
-- tort
-- torta
-- tortut
-- tortë
-- tykanc
-- tǒntagə
-- vé'keahonoo'o
-- wastea
-- watieu
-- wãyna komtoŋ
-- zákusek
-- zákusok
-- ŋgató
-- κέικ
-- кейк
-- колач
-- мерза хьокхум
-- пірожнае
-- пирожное
-- торта
-- տորթ
-- עוגה
-- קוכן
-- كعك
-- كيك
-- کیک
-- کێک
-- केक
-- কেক
-- ਕੇਕ
-- அணிச்சல்
-- కేక్
-- ಕೇಕ್
-- കേക്ക്
-- කේක්
-- เค้ก
-- ကိတ်မုန့်
-- ၶဝ်ႈမုၼ်းၶႆႇၵႆႇ
-- ᑮᒃ
-- ”gatɔ́"
-- ≈ãkono
-- ケーキ
-- 蛋糕
-- ꯀꯦꯛ
-- 케이크
+  - abayn a kfaŋ
+  - blək
+  - bolo
+  - bolu
+  - bá kə́ mɨŋkala
+  - bánh ngọt
+  - bɛtɔ́bɔ́kɔ
+  - Cake
+  - Chueche
+  - ciasto
+  - cuddura
+  - císte
+  - cēcel
+  - gastellus
+  - gateau
+  - gato
+  - gatóo
+  - gotóo
+  - gozopil
+  - gwastell
+  - gàtoo
+  - gàtó
+  - gàtô
+  - gátó
+  - gâche
+  - gâteau
+  - gâtyô
+  - hibúlé
+  - kage
+  - kaka
+  - kake
+  - kakku
+  - kalati
+  - kaʼtóo
+  - ke-nn̄g-ko
+  - kejk
+  - kek
+  - Keke (kakana kamikamica)
+  - keki
+  - kekɔ̀ɔn
+  - kelembén
+  - keyk
+  - khʉkhʉ̄ᾱ
+  - Koken
+  - kolač
+  - Kooche
+  - kook
+  - Kuch
+  - Kucha
+  - Kuchen
+  - kuko
+  - kulîçe
+  - kúndú
+  - kūka
+  - kəsughū
+  - lâung-gŏ̤
+  - mapa na ngbu
+  - mbələ̂gh' yi a pwórə-pworə́
+  - mofomamy
+  - ndzəréŋ
+  - pan suwi
+  - pangaaso
+  - pastel
+  - pastil
+  - pastisson
+  - pastís
+  - pita
+  - pyragas
+  - rikwato
+  - sütemény
+  - taart
+  - teisen
+  - tesen
+  - tort
+  - torta
+  - tortut
+  - tortë
+  - tykanc
+  - tǒntagə
+  - vé'keahonoo'o
+  - wastea
+  - watieu
+  - wãyna komtoŋ
+  - zákusek
+  - zákusok
+  - ŋgató
+  - κέικ
+  - кейк
+  - колач
+  - мерза хьокхум
+  - пірожнае
+  - пирожное
+  - торта
+  - տորթ
+  - עוגה
+  - קוכן
+  - كعك
+  - كيك
+  - کیک
+  - کێک
+  - केक
+  - কেক
+  - ਕੇਕ
+  - அணிச்சல்
+  - కేక్
+  - ಕೇಕ್
+  - കേക്ക്
+  - කේක්
+  - เค้ก
+  - ကိတ်မုန့်
+  - ၶဝ်ႈမုၼ်းၶႆႇၵႆႇ
+  - ᑮᒃ
+  - ”gatɔ́"
+  - ≈ãkono
+  - ケーキ
+  - 蛋糕
+  - ꯀꯦꯛ
+  - 케이크
 has_id_wikidata: Q13276
 made_from_material:
-- '[[_Standards/WikiData/WD~egg_as_food,93189]]'
-- '[[_Standards/WikiData/WD~milk,8495]]'
-- '[[_Standards/WikiData/WD~sugar,11002]]'
-- '[[_Standards/WikiData/WD~flour,36465]]'
+  - "[[_Standards/WikiData/WD~egg_as_food,93189]]"
+  - "[[_Standards/WikiData/WD~milk,8495]]"
+  - "[[_Standards/WikiData/WD~sugar,11002]]"
+  - "[[_Standards/WikiData/WD~flour,36465]]"
 different_from:
-- '[[_Standards/WikiData/WD~torte,130186]]'
-- '[[_Standards/WikiData/WD~pastel,189085]]'
-- '[[_Standards/WikiData/WD~Cake,756704]]'
-- '[[_Standards/WikiData/WD~tart,1142483]]'
-- '[[_Standards/WikiData/WD~pie,13360264]]'
-- '[[_Standards/WikiData/WD~biscuit,13270]]'
+  - "[[_Standards/WikiData/WD~torte,130186]]"
+  - "[[_Standards/WikiData/WD~pastel,189085]]"
+  - "[[_Standards/WikiData/WD~Cake,756704]]"
+  - "[[_Standards/WikiData/WD~tart,1142483]]"
+  - "[[_Standards/WikiData/WD~pie,13360264]]"
+  - "[[_Standards/WikiData/WD~biscuit,13270]]"
 subclass_of:
-- '[[_Standards/WikiData/WD~torta,3573026]]'
-- '[[_Standards/WikiData/WD~bánh,5004791]]'
-- "[[_Standards/WikiData/WD~bakers'_confection,113389041]]"
-described_by_source: '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+  - "[[_Standards/WikiData/WD~torta,3573026]]"
+  - "[[_Standards/WikiData/WD~bánh,5004791]]"
+  - "[[_Standards/WikiData/WD~bakers'_confection,113389041]]"
+described_by_source: "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 USDA_NDB_number: 18135
 Commons_gallery: Cake
 Unicode_character:
-- "\U0001F382"
-- "\U0001F370"
+  - 🎂
+  - 🍰
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/3DCake001%20HQ-4K-PNG.stl
 image:
-- http://commons.wikimedia.org/wiki/Special:FilePath/Chokolade-kage.JPG
-- http://commons.wikimedia.org/wiki/Special:FilePath/Runebergintorttu.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Chokolade-kage.JPG
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Runebergintorttu.jpg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-Cake-article.ogg
 exact_match: http://purl.obolibrary.org/obo/ENVO_02000063
 U_S_National_Archives_Identifier: 10647897
 Amazon_com_browse_node:
-- 16317271
-- 347681011
-- 6524482011
+  - 16317271
+  - 347681011
+  - 6524482011
 P8189: 987007293769005200
 Danbooru_tag: cake
 IMDb_keyword: cake
 subreddit:
-- cake
-- Cakes
+  - cake
+  - Cakes
 hashtag:
-- cake
+  - cake
 booru_tag: cake
 Commons_category: Cakes
 Wolfram_Language_entity_code: Entity["FoodType", "Cake"]
@@ -321,7 +321,8 @@ dv_has_:
     zh_hant: 蛋糕
     zh_tw: 蛋糕
 ---
-# [[Cake]] 🍰 
+# [[Cake]] 🍰🎂 
+
 
 #is_/same_as :: [[../../../../../WikiData/WD~Cake,13276|WD~Cake,13276]] 
 

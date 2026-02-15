@@ -452,8 +452,7 @@ dv_is_same_as:
 dv_has_name_abbreviated: As
 dv_has_number_of_electrons: 33
 ---
-# [[Arsenic]] 
-
+# [[Arsenic]] 砷 
 
 #chemic/Element 
 has_name_group = `=this.dv_has_name_group` 

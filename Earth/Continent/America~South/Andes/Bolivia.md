@@ -1,140 +1,140 @@
 ---
 aliases:
-- an Bholaiv
-- Ałhidadiikʼą́ Dineʼé Bikéyah
-- Bohliveizya
-- Boilibhia
-- Bolibiya
-- Bolibya
-- Bolifia
-- Boliibi
-- Boliifia
-- Boliivia
-- Boliiviyaa
-- Boliiwien
-- Bolijvva
-- Boliveja
-- Boliveye
-- Bolivi
-- Bolivia
-- Bolivia (Estado Plurinacional de)
-- Bolivia (Plurinational State of)
-- bolivias
-- Bolivie
-- Bolivie (État plurinational de)
-- Bolivien
-- Bolivii
-- Bolivija
-- Bolivio
-- Boliviya
-- Bolivië
-- Bolivja
-- Bolivje
-- Bolivya
-- Bolivän
-- Boliwi
-- Boliwia
-- Boliwijo
-- Boliwiska
-- Boliwiya
-- Boliwiýa
-- Boliwya
-- Bolìvia
-- Bolíbia
-- Bolívia
-- Bolívie
-- Bolîvya
-- Bolīvija
-- Boribiya
-- Bołivia
-- Bulifya
-- Bulivia
-- Buolėvėjė
-- Bòliwiô
-- Bòlífíà
-- Bólivía
-- Estado Plurinacional de Bolivia
-- i-Bolivia
-- IBholiviya
-- ma Polipija
-- Polevia
-- Polivi
-- Poliwia
-- Polīvia
-- Porivia
-- Poriwia
-- the Plurinational State of Bolivia
-- Volívia
-- Woliiwia
-- Wuliwya
-- y Volivia
-- Βολιβία
-- Балівія
-- Болівія
-- Боливи
-- Боливија
-- Боливиа
-- Боливие
-- Боливий
-- Боливия
-- Боливия (Многонациональное Государство)
-- Дала Улста Боливмудин Орн
-- Բոլիվիա
-- Պոլիվիա
-- באליוויע
-- בוליביה
-- بؤليوي
-- بولىۋىيە
-- بوليفيا
-- بوليفيا (دولة - المتعددة القوميات)
-- بوليويا
-- بوليڤيا
-- بوليڥيا
-- بولی ویا
-- بولیوی
-- بولیویا
-- بۆلیڤیا
-- ބޮލީވިއާ
-- बोलिभिया
-- बोलिविया
-- बोलिव्हिया
-- बोलीविया
-- বলিভিয়া
-- ਬੋਲੀਵੀਆ
-- બોલીવિયા
-- ବୋଲିଭିଆ
-- பொலிவியா
-- బొలీవియా
-- ಬೊಲಿವಿಯ
-- ബൊളീവിയ
-- බොලිවියාව
-- ประเทศโบลิเวีย
-- ປະເທດໂບລີວີ
-- བོ་ལི་ཝིཡ
-- བྷོ་ལི་ཝི་ཡ།
-- ဘိုလီးဗီးယားနိုင်ငံ
-- မိူင်းပူဝ်ႇလီးပီးယႃး
-- ბოლივია
-- ቦሊቪያ
-- ቦሊቭያ
-- ᏉᎵᏫᏯ
-- បូលីវី
-- ᱵᱚᱞᱤᱵᱷᱤᱭᱟ
-- ⴱⵓⵍⵉⴼⵢⴰ
-- ボリビア
-- 玻利維亞
-- 玻利维亚
-- 玻利维亚(多民族国)
-- ꯕꯣꯂꯤꯚꯤꯌꯥ
-- 볼리비아
-- "\U00010331\U00010330\U0001033F\U0001033B\U00010339\U00010331\U0001033E\U00010330"
+  - an Bholaiv
+  - Ałhidadiikʼą́ Dineʼé Bikéyah
+  - Bohliveizya
+  - Boilibhia
+  - Bolibiya
+  - Bolibya
+  - Bolifia
+  - Boliibi
+  - Boliifia
+  - Boliivia
+  - Boliiviyaa
+  - Boliiwien
+  - Bolijvva
+  - Boliveja
+  - Boliveye
+  - Bolivi
+  - Bolivia
+  - Bolivia (Estado Plurinacional de)
+  - Bolivia (Plurinational State of)
+  - bolivias
+  - Bolivie
+  - Bolivie (État plurinational de)
+  - Bolivien
+  - Bolivii
+  - Bolivija
+  - Bolivio
+  - Boliviya
+  - Bolivië
+  - Bolivja
+  - Bolivje
+  - Bolivya
+  - Bolivän
+  - Boliwi
+  - Boliwia
+  - Boliwijo
+  - Boliwiska
+  - Boliwiya
+  - Boliwiýa
+  - Boliwya
+  - Bolìvia
+  - Bolíbia
+  - Bolívia
+  - Bolívie
+  - Bolîvya
+  - Bolīvija
+  - Boribiya
+  - Bołivia
+  - Bulifya
+  - Bulivia
+  - Buolėvėjė
+  - Bòliwiô
+  - Bòlífíà
+  - Bólivía
+  - Estado Plurinacional de Bolivia
+  - i-Bolivia
+  - IBholiviya
+  - ma Polipija
+  - Polevia
+  - Polivi
+  - Poliwia
+  - Polīvia
+  - Porivia
+  - Poriwia
+  - the Plurinational State of Bolivia
+  - Volívia
+  - Woliiwia
+  - Wuliwya
+  - y Volivia
+  - Βολιβία
+  - Балівія
+  - Болівія
+  - Боливи
+  - Боливија
+  - Боливиа
+  - Боливие
+  - Боливий
+  - Боливия
+  - Боливия (Многонациональное Государство)
+  - Дала Улста Боливмудин Орн
+  - Բոլիվիա
+  - Պոլիվիա
+  - באליוויע
+  - בוליביה
+  - بؤليوي
+  - بولىۋىيە
+  - بوليفيا
+  - بوليفيا (دولة - المتعددة القوميات)
+  - بوليويا
+  - بوليڤيا
+  - بوليڥيا
+  - بولی ویا
+  - بولیوی
+  - بولیویا
+  - بۆلیڤیا
+  - ބޮލީވިއާ
+  - बोलिभिया
+  - बोलिविया
+  - बोलिव्हिया
+  - बोलीविया
+  - বলিভিয়া
+  - ਬੋਲੀਵੀਆ
+  - બોલીવિયા
+  - ବୋଲିଭିଆ
+  - பொலிவியா
+  - బొలీవియా
+  - ಬೊಲಿವಿಯ
+  - ബൊളീവിയ
+  - බොලිවියාව
+  - ประเทศโบลิเวีย
+  - ປະເທດໂບລີວີ
+  - བོ་ལི་ཝིཡ
+  - བྷོ་ལི་ཝི་ཡ།
+  - ဘိုလီးဗီးယားနိုင်ငံ
+  - မိူင်းပူဝ်ႇလီးပီးယႃး
+  - ბოლივია
+  - ቦሊቪያ
+  - ቦሊቭያ
+  - ᏉᎵᏫᏯ
+  - បូលីវី
+  - ᱵᱚᱞᱤᱵᱷᱤᱭᱟ
+  - ⴱⵓⵍⵉⴼⵢⴰ
+  - ボリビア
+  - 玻利維亞
+  - 玻利维亚
+  - 玻利维亚(多民族国)
+  - ꯕꯣꯂꯤꯚꯤꯌꯥ
+  - 볼리비아
+  - 𐌱𐌰𐌿𐌻𐌹𐌱𐌾𐌰
 has_id_wikidata: Q750
 location:
-- -17.7667
-- -66.7
+  - -17.7667
+  - -66.7
 type: Country
 tags:
-- geo/Country
+  - geo/Country
 SpocWebEntityId: 26852
 isDeleted: false
 confidential: public
@@ -144,281 +144,281 @@ source: https://datahub.io/core/country-codes
 cssclasses: Country
 publish: true
 title: Bolivia
-linkTitle: ''
-keywords: ''
-layout: ''
+linkTitle: ""
+keywords: ""
+layout: ""
 draft: false
-publishDate: ''
-expiryDate: ''
+publishDate: ""
+expiryDate: ""
 Languages:
-- es-BO
-- qu
-- ay
+  - es-BO
+  - qu
+  - ay
 icon: flag-bo
 instance_of:
-- '[[_Standards/WikiData/WD~landlocked_country,123480]]'
-- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
-- '[[_Standards/WikiData/WD~country,6256]]'
-- '[[_Standards/WikiData/WD~republic,7270]]'
+  - "[[_Standards/WikiData/WD~landlocked_country,123480]]"
+  - "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
+  - "[[_Standards/WikiData/WD~country,6256]]"
+  - "[[_Standards/WikiData/WD~republic,7270]]"
 member_of:
-- '[[_Standards/WikiData/WD~Organization_of_American_States,123759]]'
-- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]'
-- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
-- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]'
-- '[[_Standards/WikiData/WD~Andean_Community,471690]]'
-- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
-- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
-- '[[_Standards/WikiData/WD~International_Development_Association,827525]]'
-- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
-- '[[_Standards/WikiData/WD~Rio_Group,943105]]'
-- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
-- '[[_Standards/WikiData/WD~Agency_for_the_Prohibition_of_Nuclear_Weapons_in_Latin_America_and_the_Caribbean,3369762]]'
-- '[[_Standards/WikiData/WD~United_Nations,1065]]'
-- '[[_Standards/WikiData/WD~Union_of_South_American_Nations,4230]]'
-- '[[_Standards/WikiData/WD~Mercosur,4264]]'
-- '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
-- '[[_Standards/WikiData/WD~World_Trade_Organization,7825]]'
-- '[[_Standards/WikiData/WD~Interpol,8475]]'
-- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
-flag: '[[_Standards/WikiData/WD~flag_of_Bolivia,134874]]'
-lowest_point: '[[_Standards/WikiData/WD~Paraguay_River,179396]]'
-coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Bolivia,207785]]'
+  - "[[_Standards/WikiData/WD~Organization_of_American_States,123759]]"
+  - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
+  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+  - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
+  - "[[_Standards/WikiData/WD~Andean_Community,471690]]"
+  - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
+  - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
+  - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
+  - "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+  - "[[_Standards/WikiData/WD~Rio_Group,943105]]"
+  - "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+  - "[[_Standards/WikiData/WD~Agency_for_the_Prohibition_of_Nuclear_Weapons_in_Latin_America_and_the_Caribbean,3369762]]"
+  - "[[_Standards/WikiData/WD~United_Nations,1065]]"
+  - "[[_Standards/WikiData/WD~Union_of_South_American_Nations,4230]]"
+  - "[[_Standards/WikiData/WD~Mercosur,4264]]"
+  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
+  - "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
+  - "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
+  - "[[_Standards/WikiData/WD~Interpol,8475]]"
+  - "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Bolivia,134874]]"
+lowest_point: "[[_Standards/WikiData/WD~Paraguay_River,179396]]"
+coat_of_arms: "[[_Standards/WikiData/WD~coat_of_arms_of_Bolivia,207785]]"
 contains_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Beni_Department,233169]]'
-- '[[_Standards/WikiData/WD~Cochabamba_Department,233917]]'
-- '[[_Standards/WikiData/WD~Tarija_Department,233933]]'
-- '[[_Standards/WikiData/WD~Santa_Cruz_Department,235106]]'
-- '[[_Standards/WikiData/WD~Chuquisaca_Department,235110]]'
-- '[[_Standards/WikiData/WD~Pando_Department,235362]]'
-- '[[_Standards/WikiData/WD~Potosí_Department,238079]]'
-- '[[_Standards/WikiData/WD~La_Paz_Department,272784]]'
-- '[[_Standards/WikiData/WD~Oruro_Department,1061368]]'
+  - "[[_Standards/WikiData/WD~Beni_Department,233169]]"
+  - "[[_Standards/WikiData/WD~Cochabamba_Department,233917]]"
+  - "[[_Standards/WikiData/WD~Tarija_Department,233933]]"
+  - "[[_Standards/WikiData/WD~Santa_Cruz_Department,235106]]"
+  - "[[_Standards/WikiData/WD~Chuquisaca_Department,235110]]"
+  - "[[_Standards/WikiData/WD~Pando_Department,235362]]"
+  - "[[_Standards/WikiData/WD~Potosí_Department,238079]]"
+  - "[[_Standards/WikiData/WD~La_Paz_Department,272784]]"
+  - "[[_Standards/WikiData/WD~Oruro_Department,1061368]]"
 language_used:
-- '[[_Standards/WikiData/WD~Kallawaya,266417]]'
-- '[[_Standards/WikiData/WD~Toromono,510544]]'
-- '[[_Standards/WikiData/WD~Cavineña,524102]]'
-- '[[_Standards/WikiData/WD~Itonama,950585]]'
-- '[[_Standards/WikiData/WD~Araona,958414]]'
-- '[[_Standards/WikiData/WD~South_Bolivian_Quechua,1307730]]'
-- '[[_Standards/WikiData/WD~Movima,1659701]]'
-- '[[_Standards/WikiData/WD~Bolivian_Sign_Language,1783590]]'
-- '[[_Standards/WikiData/WD~Chiquitano,1844993]]'
-- '[[_Standards/WikiData/WD~Paunaka,2064378]]'
-- '[[_Standards/WikiData/WD~Pacahuara,2591165]]'
-- '[[_Standards/WikiData/WD~Chakobo,2591202]]'
-- '[[_Standards/WikiData/WD~Leco,2625398]]'
-- '[[_Standards/WikiData/WD~Yuracaré,2640646]]'
-- '[[_Standards/WikiData/WD~Baure,2839722]]'
-- '[[_Standards/WikiData/WD~Pauserna,2912846]]'
-- '[[_Standards/WikiData/WD~Canichana,2936374]]'
-- '[[_Standards/WikiData/WD~Eastern_Bolivian_Guaraní,2963912]]'
-- '[[_Standards/WikiData/WD~Ese_Ejja,2980381]]'
-- '[[_Standards/WikiData/WD~Uru,2992892]]'
-- '[[_Standards/WikiData/WD~Yaminawa,3026110]]'
-- '[[_Standards/WikiData/WD~Sirionó,3027953]]'
-- '[[_Standards/WikiData/WD~Itene,3038640]]'
-- '[[_Standards/WikiData/WD~Reyesano,3111857]]'
-- '[[_Standards/WikiData/WD~Guarayu,3118779]]'
-- '[[_Standards/WikiData/WD~Tapieté,3121063]]'
-- '[[_Standards/WikiData/WD~Ignaciano,3148190]]'
-- '[[_Standards/WikiData/WD~Tacana,3182551]]'
-- '[[_Standards/WikiData/WD~Cayuvava,3183382]]'
-- '[[_Standards/WikiData/WD~North_Bolivian_Quechua,3409819]]'
-- '[[_Standards/WikiData/WD~Yupua,3450556]]'
-- '[[_Standards/WikiData/WD~Trinitario,3539279]]'
-- '[[_Standards/WikiData/WD~Western_Bolivian_Guaraní,3775037]]'
-- '[[_Standards/WikiData/WD~Jorá,5393974]]'
-- '[[_Standards/WikiData/WD~Wichí_Lhamtés_Nocten,5908756]]'
-- '[[_Standards/WikiData/WD~Yuqui,8061440]]'
-- '[[_Standards/WikiData/WD~Machinere,12953681]]'
-- '[[_Standards/WikiData/WD~Central_Aymara,20526610]]'
-- '[[_Standards/WikiData/WD~Spanish,1321]]'
-- '[[_Standards/WikiData/WD~Aymara,4627]]'
-- '[[_Standards/WikiData/WD~Chipaya,35235]]'
-- '[[_Standards/WikiData/WD~Chimane,35950]]'
-- '[[_Standards/WikiData/WD~Ayoreo,56634]]'
-highest_point: '[[_Standards/WikiData/WD~Nevado_Sajama,272593]]'
+  - "[[_Standards/WikiData/WD~Kallawaya,266417]]"
+  - "[[_Standards/WikiData/WD~Toromono,510544]]"
+  - "[[_Standards/WikiData/WD~Cavineña,524102]]"
+  - "[[_Standards/WikiData/WD~Itonama,950585]]"
+  - "[[_Standards/WikiData/WD~Araona,958414]]"
+  - "[[_Standards/WikiData/WD~South_Bolivian_Quechua,1307730]]"
+  - "[[_Standards/WikiData/WD~Movima,1659701]]"
+  - "[[_Standards/WikiData/WD~Bolivian_Sign_Language,1783590]]"
+  - "[[_Standards/WikiData/WD~Chiquitano,1844993]]"
+  - "[[_Standards/WikiData/WD~Paunaka,2064378]]"
+  - "[[_Standards/WikiData/WD~Pacahuara,2591165]]"
+  - "[[_Standards/WikiData/WD~Chakobo,2591202]]"
+  - "[[_Standards/WikiData/WD~Leco,2625398]]"
+  - "[[_Standards/WikiData/WD~Yuracaré,2640646]]"
+  - "[[_Standards/WikiData/WD~Baure,2839722]]"
+  - "[[_Standards/WikiData/WD~Pauserna,2912846]]"
+  - "[[_Standards/WikiData/WD~Canichana,2936374]]"
+  - "[[_Standards/WikiData/WD~Eastern_Bolivian_Guaraní,2963912]]"
+  - "[[_Standards/WikiData/WD~Ese_Ejja,2980381]]"
+  - "[[_Standards/WikiData/WD~Uru,2992892]]"
+  - "[[_Standards/WikiData/WD~Yaminawa,3026110]]"
+  - "[[_Standards/WikiData/WD~Sirionó,3027953]]"
+  - "[[_Standards/WikiData/WD~Itene,3038640]]"
+  - "[[_Standards/WikiData/WD~Reyesano,3111857]]"
+  - "[[_Standards/WikiData/WD~Guarayu,3118779]]"
+  - "[[_Standards/WikiData/WD~Tapieté,3121063]]"
+  - "[[_Standards/WikiData/WD~Ignaciano,3148190]]"
+  - "[[_Standards/WikiData/WD~Tacana,3182551]]"
+  - "[[_Standards/WikiData/WD~Cayuvava,3183382]]"
+  - "[[_Standards/WikiData/WD~North_Bolivian_Quechua,3409819]]"
+  - "[[_Standards/WikiData/WD~Yupua,3450556]]"
+  - "[[_Standards/WikiData/WD~Trinitario,3539279]]"
+  - "[[_Standards/WikiData/WD~Western_Bolivian_Guaraní,3775037]]"
+  - "[[_Standards/WikiData/WD~Jorá,5393974]]"
+  - "[[_Standards/WikiData/WD~Wichí_Lhamtés_Nocten,5908756]]"
+  - "[[_Standards/WikiData/WD~Yuqui,8061440]]"
+  - "[[_Standards/WikiData/WD~Machinere,12953681]]"
+  - "[[_Standards/WikiData/WD~Central_Aymara,20526610]]"
+  - "[[_Standards/WikiData/WD~Spanish,1321]]"
+  - "[[_Standards/WikiData/WD~Aymara,4627]]"
+  - "[[_Standards/WikiData/WD~Chipaya,35235]]"
+  - "[[_Standards/WikiData/WD~Chimane,35950]]"
+  - "[[_Standards/WikiData/WD~Ayoreo,56634]]"
+highest_point: "[[_Standards/WikiData/WD~Nevado_Sajama,272593]]"
 described_by_source:
-- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]'
-- '[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]'
-office_held_by_head_of_government: '[[_Standards/WikiData/WD~president_of_Bolivia,373548]]'
-office_held_by_head_of_state: '[[_Standards/WikiData/WD~president_of_Bolivia,373548]]'
+  - "[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
+  - "[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]"
+  - "[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Orthodox_Theological_Encyclopedia,19211082]]"
+  - "[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~president_of_Bolivia,373548]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~president_of_Bolivia,373548]]"
 emergency_phone_number:
-- '[[_Standards/WikiData/WD~911,533806]]'
-- '[[_Standards/WikiData/WD~119,2807090]]'
-- '[[_Standards/WikiData/WD~110,25648823]]'
-- '[[_Standards/WikiData/WD~160,25648824]]'
+  - "[[_Standards/WikiData/WD~911,533806]]"
+  - "[[_Standards/WikiData/WD~119,2807090]]"
+  - "[[_Standards/WikiData/WD~110,25648823]]"
+  - "[[_Standards/WikiData/WD~160,25648824]]"
 part_of:
-- '[[_Standards/WikiData/WD~Hispanic_America,653884]]'
-- '[[_Standards/WikiData/WD~Latin_America,12585]]'
-- '[[_Standards/WikiData/WD~South_America,18]]'
-anthem: '[[_Standards/WikiData/WD~National_Anthem_of_Bolivia,690016]]'
-central_bank: '[[_Standards/WikiData/WD~Central_Bank_of_Bolivia,806180]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_Bolivia,876412]]'
+  - "[[_Standards/WikiData/WD~Hispanic_America,653884]]"
+  - "[[_Standards/WikiData/WD~Latin_America,12585]]"
+  - "[[_Standards/WikiData/WD~South_America,18]]"
+anthem: "[[_Standards/WikiData/WD~National_Anthem_of_Bolivia,690016]]"
+central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_Bolivia,806180]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Bolivia,876412]]"
 electrical_plug_type:
-- '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- '[[_Standards/WikiData/WD~NEMA_1-15,24288454]]'
-geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Bolivia,1479899]]'
-legislative_body: '[[_Standards/WikiData/WD~Plurinational_Legislative_Assembly,1968458]]'
-economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Bolivia,2091191]]'
-demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Bolivia,2378698]]'
-culture: '[[_Standards/WikiData/WD~culture_of_Bolivia,3306313]]'
-basic_form_of_government: '[[_Standards/WikiData/WD~parliamentary_republic,4198907]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Bolivia,6045158]]'
-driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-head_of_state: '[[_Standards/WikiData/WD~Luis_Arce,16149892]]'
-head_of_government: '[[_Standards/WikiData/WD~Luis_Arce,16149892]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Bolivia,16153580]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27103826,27103826]]'
-replaced_by: '[[_Standards/WikiData/WD~Acre_Territory,27495564]]'
-has_characteristic: '[[_Standards/WikiData/WD~partly_free_country,47185145]]'
+  - "[[_Standards/WikiData/WD~Europlug,1378312]]"
+  - "[[_Standards/WikiData/WD~NEMA_1-15,24288454]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Bolivia,1479899]]"
+legislative_body: "[[_Standards/WikiData/WD~Plurinational_Legislative_Assembly,1968458]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Bolivia,2091191]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Bolivia,2378698]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Bolivia,3306313]]"
+basic_form_of_government: "[[_Standards/WikiData/WD~parliamentary_republic,4198907]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Bolivia,6045158]]"
+driving_side: "[[_Standards/WikiData/WD~right,14565199]]"
+head_of_state: "[[_Standards/WikiData/WD~Luis_Arce,16149892]]"
+head_of_government: "[[_Standards/WikiData/WD~Luis_Arce,16149892]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Bolivia,16153580]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q27103826,27103826]]"
+replaced_by: "[[_Standards/WikiData/WD~Acre_Territory,27495564]]"
+has_characteristic: "[[_Standards/WikiData/WD~partly_free_country,47185145]]"
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~America_La_Paz,63286077]]'
-- '[[_Standards/WikiData/WD~America_Cochabamba,111534089]]'
-- '[[_Standards/WikiData/WD~UTC_04_00,5762]]'
-open_data_portal: '[[_Standards/WikiData/WD~Open_Data_portal_Bolivia,97063703]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Q109829420,109829420]]'
+  - "[[_Standards/WikiData/WD~America_La_Paz,63286077]]"
+  - "[[_Standards/WikiData/WD~America_Cochabamba,111534089]]"
+  - "[[_Standards/WikiData/WD~UTC_04_00,5762]]"
+open_data_portal: "[[_Standards/WikiData/WD~Open_Data_portal_Bolivia,97063703]]"
+topic_s_main_template: "[[_Standards/WikiData/WD~Q109829420,109829420]]"
 nominal_GDP:
-- 40408208524
-- 43068885673
+  - 40408208524
+  - 43068885673
 demonym:
-- بوليڤي
-- بوليڤية
-- بوليڤيين
-- بوليڤيات
-- Bolivijec
-- Bolivijka
-- Bolavach
-- بوليفي
-- بوليفية
-- بوليفيون
-- boliviana
-- bolivianu
-- балівіец
-- балівійка
-- балівійцы
-- বলিভীয়
-- bolivianer
-- Bolivianer
-- Bolivianerin
-- Bolivian
-- Boliviano
-- Bolivien
-- Bolivienne
-- בוליבאני
-- בוליבאנית
-- bolíviai
-- Boliviano
-- boliviana
-- boliviane
-- boliviani
-- boliviano
-- bolivian
-- bolivian
-- boliviană
-- bolivieni
-- боливиец
-- боливийка
-- боливийцы
-- bołivian
-- bołiviana
-- bołiviane
-- bołiviani
-- Bolivänan
+  - بوليڤي
+  - بوليڤية
+  - بوليڤيين
+  - بوليڤيات
+  - Bolivijec
+  - Bolivijka
+  - Bolavach
+  - بوليفي
+  - بوليفية
+  - بوليفيون
+  - boliviana
+  - bolivianu
+  - балівіец
+  - балівійка
+  - балівійцы
+  - বলিভীয়
+  - bolivianer
+  - Bolivianer
+  - Bolivianerin
+  - Bolivian
+  - Boliviano
+  - Bolivien
+  - Bolivienne
+  - בוליבאני
+  - בוליבאנית
+  - bolíviai
+  - Boliviano
+  - boliviana
+  - boliviane
+  - boliviani
+  - boliviano
+  - bolivian
+  - bolivian
+  - boliviană
+  - bolivieni
+  - боливиец
+  - боливийка
+  - боливийцы
+  - bołivian
+  - bołiviana
+  - bołiviane
+  - bołiviani
+  - Bolivänan
 motto_text:
-- Cryfder yr Undeb
-- Адзінства — сіла
-- Обединението е силата
-- Bolivia awaits you
-- La Unión es la Fuerza
-- Unity is Strength
+  - Cryfder yr Undeb
+  - Адзінства — сіла
+  - Обединението е силата
+  - Bolivia awaits you
+  - La Unión es la Fuerza
+  - Unity is Strength
 ISNI: 121836059
 MeSH_tree_code: Z01.107.757.136
 coordinate_location: Point(-64.991228611 -17.056869611)
 diplomatic_relation:
-- '[[_Standards/WikiData/WD~South_Africa,258]]'
-- '[[_Standards/WikiData/WD~Chile,298]]'
-- '[[_Standards/WikiData/WD~Australia,408]]'
-- '[[_Standards/WikiData/WD~Argentina,414]]'
-- '[[_Standards/WikiData/WD~Peru,419]]'
-- '[[_Standards/WikiData/WD~Iran,794]]'
-- '[[_Standards/WikiData/WD~Israel,801]]'
-- '[[_Standards/WikiData/WD~Taiwan,865]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~Hungary,28]]'
-- '[[_Standards/WikiData/WD~Denmark,35]]'
-- '[[_Standards/WikiData/WD~Uruguay,77]]'
-- '[[_Standards/WikiData/WD~Mexico,96]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Brazil,155]]'
-- '[[_Standards/WikiData/WD~Russia,159]]'
-- '[[_Standards/WikiData/WD~Germany,183]]'
-- '[[_Standards/WikiData/WD~Georgia,230]]'
-- '[[_Standards/WikiData/WD~Cuba,241]]'
+  - "[[_Standards/WikiData/WD~South_Africa,258]]"
+  - "[[_Standards/WikiData/WD~Chile,298]]"
+  - "[[_Standards/WikiData/WD~Australia,408]]"
+  - "[[_Standards/WikiData/WD~Argentina,414]]"
+  - "[[_Standards/WikiData/WD~Peru,419]]"
+  - "[[_Standards/WikiData/WD~Iran,794]]"
+  - "[[_Standards/WikiData/WD~Israel,801]]"
+  - "[[_Standards/WikiData/WD~Taiwan,865]]"
+  - "[[_Standards/WikiData/WD~United_States,30]]"
+  - "[[_Standards/WikiData/WD~Hungary,28]]"
+  - "[[_Standards/WikiData/WD~Denmark,35]]"
+  - "[[_Standards/WikiData/WD~Uruguay,77]]"
+  - "[[_Standards/WikiData/WD~Mexico,96]]"
+  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+  - "[[_Standards/WikiData/WD~Brazil,155]]"
+  - "[[_Standards/WikiData/WD~Russia,159]]"
+  - "[[_Standards/WikiData/WD~Germany,183]]"
+  - "[[_Standards/WikiData/WD~Georgia,230]]"
+  - "[[_Standards/WikiData/WD~Cuba,241]]"
 shares_border_with:
-- '[[_Standards/WikiData/WD~Chile,298]]'
-- '[[_Standards/WikiData/WD~Argentina,414]]'
-- '[[_Standards/WikiData/WD~Peru,419]]'
-- '[[_Standards/WikiData/WD~Paraguay,733]]'
-- '[[_Standards/WikiData/WD~Brazil,155]]'
-country: '[[_Standards/WikiData/WD~Bolivia,750]]'
+  - "[[_Standards/WikiData/WD~Chile,298]]"
+  - "[[_Standards/WikiData/WD~Argentina,414]]"
+  - "[[_Standards/WikiData/WD~Peru,419]]"
+  - "[[_Standards/WikiData/WD~Paraguay,733]]"
+  - "[[_Standards/WikiData/WD~Brazil,155]]"
+country: "[[_Standards/WikiData/WD~Bolivia,750]]"
 official_language:
-- '[[_Standards/WikiData/WD~Spanish,1321]]'
-- '[[_Standards/WikiData/WD~Aymara,4627]]'
-- '[[_Standards/WikiData/WD~Quechua,5218]]'
-- '[[_Standards/WikiData/WD~Guarani,35876]]'
+  - "[[_Standards/WikiData/WD~Spanish,1321]]"
+  - "[[_Standards/WikiData/WD~Aymara,4627]]"
+  - "[[_Standards/WikiData/WD~Quechua,5218]]"
+  - "[[_Standards/WikiData/WD~Guarani,35876]]"
 capital:
-- '[[_Standards/WikiData/WD~La_Paz,1491]]'
-- '[[_Standards/WikiData/WD~Sucre,2907]]'
-named_after: '[[_Standards/WikiData/WD~Simón_Bolívar,8605]]'
-continent: '[[_Standards/WikiData/WD~South_America,18]]'
+  - "[[_Standards/WikiData/WD~La_Paz,1491]]"
+  - "[[_Standards/WikiData/WD~Sucre,2907]]"
+named_after: "[[_Standards/WikiData/WD~Simón_Bolívar,8605]]"
+continent: "[[_Standards/WikiData/WD~South_America,18]]"
 unemployment_rate: 3
 VAT_rate: 13
 age_of_majority: 18
 marriageable_age: 21
 mains_voltage:
-- 230
-- 115
+  - 230
+  - 115
 Happy_Planet_Index_score: 45
 BTI_Status_Index:
-- 6.5
-- 5.75
-- 5.98
-- 6.07
-- 6.17
-- 6.22
-- 6.23
-- 6.46
-- 6.58
+  - 6.5
+  - 5.75
+  - 5.98
+  - 6.07
+  - 6.17
+  - 6.22
+  - 6.23
+  - 6.46
+  - 6.58
 literacy_rate: 92
 death_rate:
-- 9.3
-- 7.127
-- 9.062
-- 9.945
+  - 9.3
+  - 7.127
+  - 9.062
+  - 9.945
 suicide_rate: 12.2
-top_level_Internet_domain: '[[_Standards/WikiData/WD~.bo,40510]]'
+top_level_Internet_domain: "[[_Standards/WikiData/WD~.bo,40510]]"
 Gini_coefficient: 43.6
 Democracy_Index: 4.65
 BTI_Governance_Index:
-- 4.72
-- 4.73
-- 5.22
-- 5.27
-- 5.34
-- 5.45
-- 5.54
-- 5.63
-- 5.66
+  - 4.72
+  - 4.73
+  - 5.22
+  - 5.27
+  - 5.34
+  - 5.45
+  - 5.54
+  - 5.63
+  - 5.66
 Inequality_adjusted_Human_Development_Index: 0.549
 Human_Development_Index: 0.692
 social_media_followers: 26990
@@ -427,10 +427,10 @@ maritime_identification_digits: 720
 GS1_country_code: 777
 FIPS_10_4_countries_and_regions_: BL
 birth_rate:
-- 21.599
-- 21.836
-- 22.056
-- 22.323
+  - 21.599
+  - 21.836
+  - 22.056
+  - 22.323
 mobile_country_code: 736
 ISO_3166_1_alpha_2_code: BO
 WIPO_ST_3: BO
@@ -448,16 +448,16 @@ Libris_URI: pm132gb71klqcxl
 Colon_Classification: SG--79161
 Krugosvet_article: strany_mira/BOLIVIYA.html
 native_label:
-- Wuliwya Suyu
-- Estado Plurinacional de Bolivia
-- Tetã Volívia
-- Buliwya Achka nasyunkunap Mama llaqta
+  - Wuliwya Suyu
+  - Estado Plurinacional de Bolivia
+  - Tetã Volívia
+  - Buliwya Achka nasyunkunap Mama llaqta
 official_name:
-- Plurinational State of Bolivia
-- Estado Plurinacional de Bolivia
-- État plurinational de Bolivie
-- Bolívijský mnohonárodný štát
-short_name: "\U0001F1E7\U0001F1F4"
+  - Plurinational State of Bolivia
+  - Estado Plurinacional de Bolivia
+  - État plurinational de Bolivie
+  - Bolívijský mnohonárodný štát
+short_name: 🇧🇴
 coordinates_of_northernmost_point: Point(-65.45 -9.67)
 coordinates_of_southernmost_point: Point(-67.56765 -22.89824)
 coordinates_of_easternmost_point: Point(-57.4538 -18.23022)
@@ -470,28 +470,28 @@ coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Escudo%20
 aircraft_registration_prefix: CP
 PM20_geo_code: E80
 rural_population:
-- 3559929
-- 3565773
-- 3566167
-- 3566464
+  - 3559929
+  - 3565773
+  - 3566167
+  - 3566464
 female_population:
-- 5860919
-- 5943886
-- 6020925
-- 6097747
+  - 5860919
+  - 5943886
+  - 6020925
+  - 6097747
 male_population:
-- 5916395
-- 5992275
-- 6058547
-- 6126364
+  - 5916395
+  - 5992275
+  - 6058547
+  - 6126364
 Commons_category: Bolivia
 Commons_gallery: Bolivia
 hashtag: Bolivia
 urban_population:
-- 8217386
-- 8369995
-- 8513008
-- 8658337
+  - 8217386
+  - 8369995
+  - 8513008
+  - 8658337
 inception: 1825
 has_time_started: 1825-06
 population: 12244159
@@ -502,15 +502,15 @@ U_S_National_Archives_Identifier: 10035703
 geoshape: http://commons.wikimedia.org/data/main/Data:Bolivia.map
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/BOL%20orthographic.svg
 pronunciation_audio:
-- http://commons.wikimedia.org/wiki/Special:FilePath/ES-pe%20-%20Bolivia.ogg
-- http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Bolivien.ogg
-- http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Bolivia.wav
+  - http://commons.wikimedia.org/wiki/Special:FilePath/ES-pe%20-%20Bolivia.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Bolivien.ogg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Bolivia.wav
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Salar%20de%20Uyuni%20D%C3%A9cembre%202007%20-%20Panorama%201%20edit.jpg
 described_at_URL: https://www.cia.gov/library/publications/the-world-factbook/geos/bl.html
 country_calling_code: 591
 Dewey_Decimal_Classification: 2--84
 Swedish_Anbytarforum: 21980
-Unicode_character: "\U0001F1E7\U0001F1F4"
+Unicode_character: 🇧🇴
 subreddit: BOLIVIA
 dv_ISO4217-currency_alphabetic: BOB
 dv_ISO4217-currency_name: Boliviano
@@ -522,8 +522,8 @@ dv_Global: true
 dv_Global_Name: World
 dv_has_name: Bolivia
 dv_has_name_en:
-- Bolivia (Plurinational State of)
-- Bolivia
+  - Bolivia (Plurinational State of)
+  - Bolivia
 dv_has_name_es: Bolivia (Estado Plurinacional de)
 dv_has_name_fr: Bolivie (État plurinational de)
 dv_has_name_cn: 玻利维亚(多民族国)
@@ -542,9 +542,9 @@ dv_UNTERM_Chinese_Formal: 玻利维亚多民族国
 dv_UNTERM_French_Formal: État plurinational de Bolivie
 dv_UNTERM_Russian: Боливия (Многонациональное Государство)
 dv_UNTERM_Russian_Formal: Многонациональное Государство Боливия
-dv_Region_Name: '[[Americas]]'
-dv_Intermediate_Region_Name: '[[South America]]'
-dv_Sub-region_Name: '[[Latin America and the Caribbean]]'
+dv_Region_Name: "[[Americas]]"
+dv_Intermediate_Region_Name: "[[South America]]"
+dv_Sub-region_Name: "[[Latin America and the Caribbean]]"
 dv_Region: 19
 dv_Intermediate_Region: 5
 dv_Sub-region: 419
@@ -568,14 +568,14 @@ dv_ISO2: BO
 dv_ISO3: BOL
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Bolivia,750|WD~Bolivia,750]]'
-  - '[[/_Standards/Earth/Continent/America~South/Andes/Bolivia|Bolivia]]'
-  - '[[/_public/Earth/Continent/America~South/Andes/Bolivia.public|Bolivia.public]]'
-  - '[[/_internal/Earth/Continent/America~South/Andes/Bolivia.internal|Bolivia.internal]]'
-  - '[[/_protect/Earth/Continent/America~South/Andes/Bolivia.protect|Bolivia.protect]]'
-  - '[[/_private/Earth/Continent/America~South/Andes/Bolivia.private|Bolivia.private]]'
-  - '[[/_personal/Earth/Continent/America~South/Andes/Bolivia.personal|Bolivia.personal]]'
-  - '[[/_secret/Earth/Continent/America~South/Andes/Bolivia.secret|Bolivia.secret]]'
+    - "[[../../../../WikiData/WD~Bolivia,750|WD~Bolivia,750]]"
+    - "[[/_Standards/Earth/Continent/America~South/Andes/Bolivia|Bolivia]]"
+    - "[[/_public/Earth/Continent/America~South/Andes/Bolivia.public|Bolivia.public]]"
+    - "[[/_internal/Earth/Continent/America~South/Andes/Bolivia.internal|Bolivia.internal]]"
+    - "[[/_protect/Earth/Continent/America~South/Andes/Bolivia.protect|Bolivia.protect]]"
+    - "[[/_private/Earth/Continent/America~South/Andes/Bolivia.private|Bolivia.private]]"
+    - "[[/_personal/Earth/Continent/America~South/Andes/Bolivia.personal|Bolivia.personal]]"
+    - "[[/_secret/Earth/Continent/America~South/Andes/Bolivia.secret|Bolivia.secret]]"
 dv_has_:
   name_:
     ab: Боливиа
@@ -672,7 +672,7 @@ dv_has_:
     gom: बोलिव्हिया
     gom-deva: बोलिव्हिया
     gom_latn: Bolivia
-    got: "\U00010331\U00010330\U0001033F\U0001033B\U00010339\U00010331\U0001033E\U00010330"
+    got: 𐌱𐌰𐌿𐌻𐌹𐌱𐌾𐌰
     gpe: Bolivia
     gsw: Bolivien
     gu: બોલીવિયા
@@ -884,7 +884,7 @@ dv_has_:
 dv_has_name_de: Bolivien
 dv_Area-Total: 1098581
 dv_Area-Land: 1084380
-dv_has_place_continent: '[[South-America]]'
+dv_has_place_continent: "[[South-America]]"
 dv_VehicleCode: BOL
 dv_Alcohol-l: 5.1
 dv_Language-Id: 492
@@ -892,17 +892,17 @@ dv_has_place_longitude: -66.7
 dv_has_place_latitude: -17.7667
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Bolivia,750|WD~Bolivia,750]]'
-- '[[/_Standards/Earth/Continent/America~South/Andes/Bolivia|Bolivia]]'
-- '[[/_public/Earth/Continent/America~South/Andes/Bolivia.public|Bolivia.public]]'
-- '[[/_internal/Earth/Continent/America~South/Andes/Bolivia.internal|Bolivia.internal]]'
-- '[[/_protect/Earth/Continent/America~South/Andes/Bolivia.protect|Bolivia.protect]]'
-- '[[/_private/Earth/Continent/America~South/Andes/Bolivia.private|Bolivia.private]]'
-- '[[/_personal/Earth/Continent/America~South/Andes/Bolivia.personal|Bolivia.personal]]'
-- '[[/_secret/Earth/Continent/America~South/Andes/Bolivia.secret|Bolivia.secret]]'
+  - "[[../../../../WikiData/WD~Bolivia,750|WD~Bolivia,750]]"
+  - "[[/_Standards/Earth/Continent/America~South/Andes/Bolivia|Bolivia]]"
+  - "[[/_public/Earth/Continent/America~South/Andes/Bolivia.public|Bolivia.public]]"
+  - "[[/_internal/Earth/Continent/America~South/Andes/Bolivia.internal|Bolivia.internal]]"
+  - "[[/_protect/Earth/Continent/America~South/Andes/Bolivia.protect|Bolivia.protect]]"
+  - "[[/_private/Earth/Continent/America~South/Andes/Bolivia.private|Bolivia.private]]"
+  - "[[/_personal/Earth/Continent/America~South/Andes/Bolivia.personal|Bolivia.personal]]"
+  - "[[/_secret/Earth/Continent/America~South/Andes/Bolivia.secret|Bolivia.secret]]"
 dv_has_url_for_code_repository: https://github.com/SpocWiki/America-Bolivia
 ---
-# [[Bolivia]] 
+# [[Bolivia]] 🇧🇴 
 
 ## [[Bolivia]] has Properties...
 

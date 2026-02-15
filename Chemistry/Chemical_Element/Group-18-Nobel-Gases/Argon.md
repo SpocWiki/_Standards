@@ -387,6 +387,9 @@ dv_is_same_as:
 dv_has_name_abbreviated: Ar
 dv_has_number_of_electrons: 18
 ---
+
+# [[Argon]] 氬 
+
 #chemic/Element 
 has_name_group = `=this.dv_has_name_group` 
 is_part_of = `=this.dv_is_part_of` 

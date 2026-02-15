@@ -310,7 +310,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/By-map-fr.png
 dv_has_:
   name: Burundi
   name_:
-    : Burundi
+    "": Burundi
     en: Burundi
     es: Burundi
     fr: Burundi
@@ -407,7 +407,7 @@ dv_is_same_as:
   - "[[/_secret/Earth/Continent/Africa/Africa~Central/Burundi.secret|Burundi.secret]]"
 ---
 
-# [[Burundi]] 
+# [[Burundi]] 🇧🇮 
 
 ## [[Burundi]] has Properties... 
 

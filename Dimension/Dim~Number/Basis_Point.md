@@ -1,56 +1,56 @@
 ---
 aliases:
-- Basis Point
-- Basispunkt
-- basispunt
-- Basis_Point
-- baspunkt
-- baz puan
-- bazický bod
-- bazis punkti
-- bazična točka
-- bazïstik pwnkt
-- bázický bod
-- bázispont
-- eldekmilo
-- oinarri-puntu
-- peruspiste
-- point de base
-- ponto base
-- punkt bazowy
-- punt bàsic
-- punto base
-- базісны пункт
-- базисний пункт
-- базисный пункт
-- базистік пункт
-- базова точка
-- բազիսային միավոր
-- רבבית
-- بازىيستىك پۋنكت
-- आधार अंक
-- சதவிகிதப் புள்ளி
-- ベーシスポイント
-- 基本點
-- 基点
-- 萬分率
-- 만분율
+  - Basis Point
+  - Basispunkt
+  - basispunt
+  - Basis_Point
+  - baspunkt
+  - baz puan
+  - bazický bod
+  - bazis punkti
+  - bazična točka
+  - bazïstik pwnkt
+  - bázický bod
+  - bázispont
+  - eldekmilo
+  - oinarri-puntu
+  - peruspiste
+  - point de base
+  - ponto base
+  - punkt bazowy
+  - punt bàsic
+  - punto base
+  - базісны пункт
+  - базисний пункт
+  - базисный пункт
+  - базистік пункт
+  - базова точка
+  - բազիսային միավոր
+  - רבבית
+  - بازىيستىك پۋنكت
+  - आधार अंक
+  - சதவிகிதப் புள்ளி
+  - ベーシスポイント
+  - 基本點
+  - 基点
+  - 萬分率
+  - 만분율
 has_id_wikidata: Q750178
-measured_physical_quantity: '[[_Standards/WikiData/WD~dimensionless_quantity,126818]]'
-follows: '[[_Standards/WikiData/WD~per_mille,181011]]'
+measured_physical_quantity: "[[_Standards/WikiData/WD~dimensionless_quantity,126818]]"
+follows: "[[_Standards/WikiData/WD~per_mille,181011]]"
 instance_of:
-- '[[_Standards/WikiData/WD~dimensionless_unit,1618549]]'
-- '[[_Standards/WikiData/WD~parts_per_notation,27084]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~percentage_in_point,1628727]]'
-subdivision_of_this_unit: '[[_Standards/WikiData/WD~per_cent_mille,7166837]]'
+  - "[[_Standards/WikiData/WD~dimensionless_unit,1618549]]"
+  - "[[_Standards/WikiData/WD~parts_per_notation,27084]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~percentage_in_point,1628727]]"
+subdivision_of_this_unit: "[[_Standards/WikiData/WD~per_cent_mille,7166837]]"
 conversion_to_standard_unit:
-- 100000000000
-- 100000000
-- 100000
-- 100
-- 10
-- 0.1
-- 0.01
+  - 100000000000
+  - 100000000
+  - 100000
+  - 100
+  - 10
+  - 0.1
+  - 0.01
 conversion_to_SI_unit: 0.0001
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Visualisation%20parts%20per.svg
 Wolfram_Language_unit_code: '"BasisPoints"'
@@ -100,7 +100,7 @@ dv_has_:
     zh_hk: 萬分率
     zh_tw: 基本點
 ---
-# [[Basis_Point]] 
+# [[Basis_Point]] ‱ 
 
 #is_/same_as :: [[_Standards/WikiData/WD~basis_point,750178]] 
 

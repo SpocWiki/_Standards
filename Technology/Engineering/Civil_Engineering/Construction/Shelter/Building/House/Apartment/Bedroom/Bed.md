@@ -1,158 +1,158 @@
 ---
 aliases:
-- abati
-- adọ́zan
-- akwa
-- asgen
-- a̱gbaat
-- Bed
-- berre
-- Bett
-- bêd
-- cama
-- chhn̂g
-- dhipan
-- dipan
-- Fandriana
-- gado
-- garo
-- giường
-- godgo
-- godo
-- gulta
-- gwele
-- gwely
-- higdaan
-- igitanda
-- kabann
-- kama
-- katil
-- katre
-- kawitu
-- kitanda
-- krevat
-- krevet
-- Kĩrĩrĩ
-- leaba
-- lecc
-- lectus
-- leito
-- letto
-- lettu
-- liet
-- lit
-- lito
-- llit
-- lova
-- luova
-- lét
-- lêt
-- magavosija
-- mbonq
-- Moena
-- mpa
-- mubhedha
-- mìng-chòng
-- nivîn
-- ohe
-- pat
-- peuratah
-- postel
-- postelja
-- posteľ
-- póstola
-- ranjang
-- risbang
-- rúm
-- sariir
-- seangkoe
-- seaŋga
-- seng
-- seŋgâ
-- siâŋgg
-- supa lape
-- säng
-- sæŋŋga
-- tupa
-- voodi
-- vuode
-- yatak
-- àráŋŋàwnà
-- ágy
-- çarpayı
-- łožo
-- łóżko
-- łóżkò
-- šéeše-stôtse
-- γιατάκ'
-- κρεβάτι
-- карават
-- карауат
-- крават
-- кревет
-- кроавэт
-- кровать
-- ліжко
-- легло
-- ложє
-- ложак
-- ҷойгаҳ
-- մահճակալ
-- בעט
-- מיטה
-- تختخواب
-- تەختی خەو
-- سرير
-- پلنگ
-- کاتيل
-- ओच्छ्यान
-- खाता
-- पलंग
-- বিচনা
-- বিছানা
-- ਬੈੱਡ
-- கட்டில்
-- మంచము
-- ಹಾಸಿಗೆ
-- കട്ടിൽ
-- เตียง
-- တီႈၼွၼ်း
-- အိပ်ရာ
-- ᐃᒡᓕᖅ
-- ᠪᡝᠰᡝᡵᡤᡝᠨ
-- ᱯᱟᱨᱠᱚᱢ
-- ベッド
-- 床
-- 牀
-- ꯐꯃꯨꯡ
-- 침대
+  - abati
+  - adọ́zan
+  - akwa
+  - asgen
+  - a̱gbaat
+  - Bed
+  - berre
+  - Bett
+  - bêd
+  - cama
+  - chhn̂g
+  - dhipan
+  - dipan
+  - Fandriana
+  - gado
+  - garo
+  - giường
+  - godgo
+  - godo
+  - gulta
+  - gwele
+  - gwely
+  - higdaan
+  - igitanda
+  - kabann
+  - kama
+  - katil
+  - katre
+  - kawitu
+  - kitanda
+  - krevat
+  - krevet
+  - Kĩrĩrĩ
+  - leaba
+  - lecc
+  - lectus
+  - leito
+  - letto
+  - lettu
+  - liet
+  - lit
+  - lito
+  - llit
+  - lova
+  - luova
+  - lét
+  - lêt
+  - magavosija
+  - mbonq
+  - Moena
+  - mpa
+  - mubhedha
+  - mìng-chòng
+  - nivîn
+  - ohe
+  - pat
+  - peuratah
+  - postel
+  - postelja
+  - posteľ
+  - póstola
+  - ranjang
+  - risbang
+  - rúm
+  - sariir
+  - seangkoe
+  - seaŋga
+  - seng
+  - seŋgâ
+  - siâŋgg
+  - supa lape
+  - säng
+  - sæŋŋga
+  - tupa
+  - voodi
+  - vuode
+  - yatak
+  - àráŋŋàwnà
+  - ágy
+  - çarpayı
+  - łožo
+  - łóżko
+  - łóżkò
+  - šéeše-stôtse
+  - γιατάκ'
+  - κρεβάτι
+  - карават
+  - карауат
+  - крават
+  - кревет
+  - кроавэт
+  - кровать
+  - ліжко
+  - легло
+  - ложє
+  - ложак
+  - ҷойгаҳ
+  - մահճակալ
+  - בעט
+  - מיטה
+  - تختخواب
+  - تەختی خەو
+  - سرير
+  - پلنگ
+  - کاتيل
+  - ओच्छ्यान
+  - खाता
+  - पलंग
+  - বিচনা
+  - বিছানা
+  - ਬੈੱਡ
+  - கட்டில்
+  - మంచము
+  - ಹಾಸಿಗೆ
+  - കട്ടിൽ
+  - เตียง
+  - တီႈၼွၼ်း
+  - အိပ်ရာ
+  - ᐃᒡᓕᖅ
+  - ᠪᡝᠰᡝᡵᡤᡝᠨ
+  - ᱯᱟᱨᱠᱚᱢ
+  - ベッド
+  - 床
+  - 牀
+  - ꯐꯃꯨꯡ
+  - 침대
 has_id_wikidata: Q42177
 location:
-- '[[_Standards/WikiData/WD~bedroom,193837]]'
-- '[[_Standards/WikiData/WD~medical_facility,4260475]]'
+  - "[[_Standards/WikiData/WD~bedroom,193837]]"
+  - "[[_Standards/WikiData/WD~medical_facility,4260475]]"
 different_from:
-- '[[_Standards/WikiData/WD~Bett,278202]]'
-- '[[_Standards/WikiData/WD~Bed,408716]]'
-- '[[_Standards/WikiData/WD~Seng,2270935]]'
+  - "[[_Standards/WikiData/WD~Bett,278202]]"
+  - "[[_Standards/WikiData/WD~Bed,408716]]"
+  - "[[_Standards/WikiData/WD~Seng,2270935]]"
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 has_use:
-- '[[_Standards/WikiData/WD~sitting,1144593]]'
-- '[[_Standards/WikiData/WD~lying,2268776]]'
-- '[[_Standards/WikiData/WD~resting,17554390]]'
-- '[[_Standards/WikiData/WD~human_sexual_behavior,608]]'
-- '[[_Standards/WikiData/WD~sleep,35831]]'
+  - "[[_Standards/WikiData/WD~sitting,1144593]]"
+  - "[[_Standards/WikiData/WD~lying,2268776]]"
+  - "[[_Standards/WikiData/WD~resting,17554390]]"
+  - "[[_Standards/WikiData/WD~human_sexual_behavior,608]]"
+  - "[[_Standards/WikiData/WD~sleep,35831]]"
 subclass_of:
-- '[[_Standards/WikiData/WD~bedroom_furniture,4879419]]'
-- '[[_Standards/WikiData/WD~artificial_physical_object,8205328]]'
-- '[[_Standards/WikiData/WD~furnishings,12375131]]'
-- '[[_Standards/WikiData/WD~folding_furniture,17232204]]'
-- '[[_Standards/WikiData/WD~sleeping_place,45422604]]'
-instance_of: '[[_Standards/WikiData/WD~furniture,14745]]'
-has_immediate_cause: '[[_Standards/WikiData/WD~sleep,35831]]'
+  - "[[_Standards/WikiData/WD~bedroom_furniture,4879419]]"
+  - "[[_Standards/WikiData/WD~artificial_physical_object,8205328]]"
+  - "[[_Standards/WikiData/WD~furnishings,12375131]]"
+  - "[[_Standards/WikiData/WD~folding_furniture,17232204]]"
+  - "[[_Standards/WikiData/WD~sleeping_place,45422604]]"
+instance_of: "[[_Standards/WikiData/WD~furniture,14745]]"
+has_immediate_cause: "[[_Standards/WikiData/WD~sleep,35831]]"
 Nomenclature_for_Museum_Cataloging: 1177
 OmegaWiki_Defined_Meaning: 6851
 IMDb_keyword: bed
@@ -160,15 +160,15 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Imagerrrrrr.jpg
 NATO_Stock_Number: 7105-01-482-1206
 Dewey_Decimal_Classification: 749.3
 exact_match:
-- http://wordnet-rdf.princeton.edu/wn30/02818832-n
-- http://wordnet-rdf.princeton.edu/wn31/102814024-n
+  - http://wordnet-rdf.princeton.edu/wn30/02818832-n
+  - http://wordnet-rdf.princeton.edu/wn31/102814024-n
 UNSPSC_Code: 56101515
 P8189: 987007282400605200
 DPLA_subject_term: Beds
 Commons_category: Beds
 UMLS_CUI: C0024940
 MeSH_tree_code: E07.325.220
-Unicode_character: "\U0001F6CF"
+Unicode_character: 🛏
 dv_has_:
   name_:
     ace: peuratah

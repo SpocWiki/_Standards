@@ -354,7 +354,7 @@ dv_is_same_as:
 - '[[/_personal/Chemistry/Chemical_Element/Actinide/Californium.personal|Californium.personal]]'
 - '[[/_secret/Chemistry/Chemical_Element/Actinide/Californium.secret|Californium.secret]]'
 ---
-# [[Californium]]
+# [[Californium]] 鉲 
 
 
 #chemic/Element 

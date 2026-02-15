@@ -405,6 +405,9 @@ dv_has_number_of_group: 12
 dv_has_name_abbreviated: Cd
 dv_has_number_of_electrons: 48
 ---
+
+# [[Cadmium]] 鎘 
+
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Cadmium,1091]]  
 

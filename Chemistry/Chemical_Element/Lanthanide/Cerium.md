@@ -500,7 +500,7 @@ dv_is_same_as:
 dv_has_name_abbreviated: Ce
 dv_has_number_of_electrons: 58
 ---
-# [[Cerium]] 
+# [[Cerium]] 鈰 
 
 
 #chemic/Element 

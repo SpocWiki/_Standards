@@ -1,208 +1,208 @@
 ---
 aliases:
-- anonévee'tose
-- azenario
-- bortol
-- burkāns
-- būrkuons
-- cairéad
-- carota
-- carotte
-- carradje
-- Carrot
-- caròttoa
-- caxtillān camohtli
-- cenahoria
-- cenoria
-- cenoura
-- chąąshtʼezhiitsoh
-- cà rốt
-- càrote
-- fostinaja
-- fùng-chhoi-thèu
-- Gelbe Ruam
-- Gellerieb
-- geshir
-- gulerod
-- gulrot
-- gulrót
-- gêzer
-- havuç
-- ikaroti
-- izaqathe
-- jder sennèrya
-- kaaroot
-- kaarɔɔtɩ
-- karaoty
-- karas
-- kareti
-- karot
-- karota
-- karote
-- karotez
-- karoti
-- karoto
-- Karotte
-- karrotë
-- karòt
-- korenček
-- käşir
-- kāroti
-- lauxbaeghoengz
-- lihoete
-- lobak merah
-- makarotsi
-- marchew uprawna
-- moeër
-- morcov
-- morcuvu
-- moronen
-- morot
-- moru
-- mrkev
-- mrkva
-- Muert
-- muorks
-- mååraǩ
-- najgenja
-- ninzin
-- pastanaga
-- pastenaca
-- pastenaga
-- porgand
-- porkkan
-- porkkana
-- põrgnas
-- raecene
-- rikarat
-- rundonu
-- russjpe
-- rušpi
-- Rüebli
-- sabzi
-- safanórya
-- sanaória
-- sanurya
-- sárgarépa
-- taloti
-- umnqathe
-- valgomoji morka
-- viskesroehtse
-- Wochel
-- wortel
-- yerkökü
-- zahrodna morchej
-- zanahoria
-- âng-chhài-thâu
-- è̤ng-chái-tàu
-- δαυκίν
-- καρότο
-- гӧрдкушман
-- кишер
-- къур
-- лууван
-- морква
-- морква звычайная
-- морков
-- морковь
-- пахчари кишĕр
-- пурьхкя
-- сабзӣ
-- сабиз
-- сәбіз
-- уырыдзы
-- шаргарепа
-- գազար
-- ստեպղին
-- גזר
-- מייער
-- اجاره
-- جدر سنّارية
-- جزر
-- جَزَر
-- زرودية
-- سەۋزە
-- هویج
-- گاجر
-- گازٕر
-- گێزەر
-- ކެރެޓް
-- गाजर
-- गृञ्जनकम्
-- গাজর
-- ਗਾਜਰ
-- ଗାଜର
-- மஞ்சள் முள்ளங்கி
-- కారెట్
-- ಗಜ್ಜರಿ
-- കാരറ്റ്
-- කැරට්
-- แคร์รอต
-- ຫົວຜັກກາດເຫຼືອງ
-- ལབ་སེར།
-- မုန်လာဥနီ
-- ႁူဝ်ပိုၵ်ႉလႅင်
-- სტაფილო
-- ካሮቲ
-- ካሮት
-- ការ៉ុត
-- ᡶᡠᠯᡤᡳᠶᠠᠨ ᠮᡠᡵᠰᠠ
-- ᱜᱟᱡᱚᱨ
-- ニンジン
-- 紅蘿蔔
-- 胡萝卜
-- 胡蘿蔔
-- ꯒꯖꯔ
-- 당근
+  - anonévee'tose
+  - azenario
+  - bortol
+  - burkāns
+  - būrkuons
+  - cairéad
+  - carota
+  - carotte
+  - carradje
+  - Carrot
+  - caròttoa
+  - caxtillān camohtli
+  - cenahoria
+  - cenoria
+  - cenoura
+  - chąąshtʼezhiitsoh
+  - cà rốt
+  - càrote
+  - fostinaja
+  - fùng-chhoi-thèu
+  - Gelbe Ruam
+  - Gellerieb
+  - geshir
+  - gulerod
+  - gulrot
+  - gulrót
+  - gêzer
+  - havuç
+  - ikaroti
+  - izaqathe
+  - jder sennèrya
+  - kaaroot
+  - kaarɔɔtɩ
+  - karaoty
+  - karas
+  - kareti
+  - karot
+  - karota
+  - karote
+  - karotez
+  - karoti
+  - karoto
+  - Karotte
+  - karrotë
+  - karòt
+  - korenček
+  - käşir
+  - kāroti
+  - lauxbaeghoengz
+  - lihoete
+  - lobak merah
+  - makarotsi
+  - marchew uprawna
+  - moeër
+  - morcov
+  - morcuvu
+  - moronen
+  - morot
+  - moru
+  - mrkev
+  - mrkva
+  - Muert
+  - muorks
+  - mååraǩ
+  - najgenja
+  - ninzin
+  - pastanaga
+  - pastenaca
+  - pastenaga
+  - porgand
+  - porkkan
+  - porkkana
+  - põrgnas
+  - raecene
+  - rikarat
+  - rundonu
+  - russjpe
+  - rušpi
+  - Rüebli
+  - sabzi
+  - safanórya
+  - sanaória
+  - sanurya
+  - sárgarépa
+  - taloti
+  - umnqathe
+  - valgomoji morka
+  - viskesroehtse
+  - Wochel
+  - wortel
+  - yerkökü
+  - zahrodna morchej
+  - zanahoria
+  - âng-chhài-thâu
+  - è̤ng-chái-tàu
+  - δαυκίν
+  - καρότο
+  - гӧрдкушман
+  - кишер
+  - къур
+  - лууван
+  - морква
+  - морква звычайная
+  - морков
+  - морковь
+  - пахчари кишĕр
+  - пурьхкя
+  - сабзӣ
+  - сабиз
+  - сәбіз
+  - уырыдзы
+  - шаргарепа
+  - գազար
+  - ստեպղին
+  - גזר
+  - מייער
+  - اجاره
+  - جدر سنّارية
+  - جزر
+  - جَزَر
+  - زرودية
+  - سەۋزە
+  - هویج
+  - گاجر
+  - گازٕر
+  - گێزەر
+  - ކެރެޓް
+  - गाजर
+  - गृञ्जनकम्
+  - গাজর
+  - ਗਾਜਰ
+  - ଗାଜର
+  - மஞ்சள் முள்ளங்கி
+  - కారెట్
+  - ಗಜ್ಜರಿ
+  - കാരറ്റ്
+  - කැරට්
+  - แคร์รอต
+  - ຫົວຜັກກາດເຫຼືອງ
+  - ལབ་སེར།
+  - မုန်လာဥနီ
+  - ႁူဝ်ပိုၵ်ႉလႅင်
+  - სტაფილო
+  - ካሮቲ
+  - ካሮት
+  - ការ៉ុត
+  - ᡶᡠᠯᡤᡳᠶᠠᠨ ᠮᡠᡵᠰᠠ
+  - ᱜᱟᱡᱚᱨ
+  - ニンジン
+  - 紅蘿蔔
+  - 胡萝卜
+  - 胡蘿蔔
+  - ꯒꯖꯔ
+  - 당근
 has_id_wikidata: Q81
 subclass_of:
-- '[[_Standards/WikiData/WD~taproot,609336]]'
-- '[[_Standards/WikiData/WD~finger_food,748611]]'
-- '[[_Standards/WikiData/WD~food_ingredient,25403900]]'
-- '[[_Standards/WikiData/WD~vegetable,11004]]'
-- '[[_Standards/WikiData/WD~root_vegetable,20136]]'
-part_of: '[[_Standards/WikiData/WD~finger_food,748611]]'
+  - "[[_Standards/WikiData/WD~taproot,609336]]"
+  - "[[_Standards/WikiData/WD~finger_food,748611]]"
+  - "[[_Standards/WikiData/WD~food_ingredient,25403900]]"
+  - "[[_Standards/WikiData/WD~vegetable,11004]]"
+  - "[[_Standards/WikiData/WD~root_vegetable,20136]]"
+part_of: "[[_Standards/WikiData/WD~finger_food,748611]]"
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-- '[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]'
-natural_product_of_taxon: '[[_Standards/WikiData/WD~Daucus_carota_subsp._sativus,11678009]]'
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - "[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]"
+natural_product_of_taxon: "[[_Standards/WikiData/WD~Daucus_carota_subsp._sativus,11678009]]"
 instance_of:
-- '[[_Standards/WikiData/WD~food_crop,31839438]]'
-- '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]'
+  - "[[_Standards/WikiData/WD~food_crop,31839438]]"
+  - "[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]"
 different_from:
-- '[[_Standards/WikiData/WD~carrot_plant,123663447]]'
-- '[[_Standards/WikiData/WD~wild_carrot,123663529]]'
+  - "[[_Standards/WikiData/WD~carrot_plant,123663447]]"
+  - "[[_Standards/WikiData/WD~wild_carrot,123663529]]"
 carbon_footprint:
-- 0.1
-- 0.5
+  - 0.1
+  - 0.5
 food_energy: 41
 water_footprint: 195
-color: '[[_Standards/WikiData/WD~orange,39338]]'
-shape: '[[_Standards/WikiData/WD~cone,42344]]'
+color: "[[_Standards/WikiData/WD~orange,39338]]"
+shape: "[[_Standards/WikiData/WD~cone,42344]]"
 PLU_code:
-- 4094
-- 4563
-- 4565
-- 4562
-- 4564
+  - 4094
+  - 4563
+  - 4565
+  - 4562
+  - 4564
 USDA_NDB_number: 11124
 OmegaWiki_Defined_Meaning: 941547
 Commons_category: Carrots
-Unicode_character: "\U0001F955"
+Unicode_character: 🥕
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Carrots%20of%20many%20colors.jpg
 Dewey_Decimal_Classification:
-- 583.849
-- 635.13
-- 641.3513
-- 641.6513
+  - 583.849
+  - 635.13
+  - 641.3513
+  - 641.6513
 sectional_view:
-- http://commons.wikimedia.org/wiki/Special:FilePath/Carrot%20cross%20section%2002.jpg
-- http://commons.wikimedia.org/wiki/Special:FilePath/Wortel%20doorsneden.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Carrot%20cross%20section%2002.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Wortel%20doorsneden.jpg
 Amazon_com_browse_node:
-- 11194809011
-- 6459254011
-- 6507155011
+  - 11194809011
+  - 6459254011
+  - 6507155011
 P8189: 987007560220205200
 FoodEx2_code: A00QH
 UMLS_CUI: C1141640

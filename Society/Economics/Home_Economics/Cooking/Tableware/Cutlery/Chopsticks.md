@@ -1,126 +1,126 @@
 ---
 aliases:
-- "'alapit"
-- atip
-- bacchette
-- baguettes
-- bastonets
-- Bețișoare
-- borransákkit
-- Chopsticks
-- clavuli conedendi
-- Dawh
-- Dê̤ṳ
-- eetstokjes
-- Essstäbchen
-- Esstabal
-- evőpálcika
-- hashi
-- ilo moku palisa
-- Irbulīši
-- jedilne paličice
-- Jídelní hůlky
-- Khoai-é
-- manĝobastonetoj
-- Matarprjónar
-- palillos
-- paliyos
-- pauzinhos
-- paíños chineses
-- pałeczki
-- penyepit
-- Qqway
-- spisepinde
-- spisepinner
-- stiallóga itheacháin
-- sumpit
-- syömäpuikot
-- sömkaluižed
-- söögipulgad
-- Tī
-- valgymo lazdelės
-- Xasi tayoqchalari
-- yemek çubuğu
-- yemək çubuqları
-- Zotz (mahai-tresna)
-- ätpinnar
-- Çăмах шăрпăкĕ
-- Đũa
-- Štapići za jelo
-- τσόπστικς
-- Китайски пръчици за хранене
-- палачкі для яданьня
-- Палички для їжі
-- палочки для еды
-- Сабха
-- Савх
-- Стапчиња за јадење
-- Штапићи за јело
-- Փայտիկներ սննդի համար
-- מקלות אכילה
-- اعواد الاكل
-- عودا الأكل
-- چاپستیک
-- چوكا
-- چوپسټېک
-- ڤڽڤيت
-- चपस्टिक्स
-- चीनी काँटा
-- হাশি
-- உண் குச்சிகள்
-- తిండి పుల్లలు
-- ചോപ്പ്സ്റ്റിക്ക്
-- ตะเกียบ
-- ໄມ້ຖູ່
-- ཟ་ཐུར་རམ་ཁོ་ཙེ།
-- တူ
-- ჩხირები
-- ចង្កិះ
-- ᠰᠠᠪᡴᠠ
-- 筷子
-- 箸
-- 저가락
-- 젓가락
+  - "'alapit"
+  - atip
+  - bacchette
+  - baguettes
+  - bastonets
+  - Bețișoare
+  - borransákkit
+  - Chopsticks
+  - clavuli conedendi
+  - Dawh
+  - Dê̤ṳ
+  - eetstokjes
+  - Essstäbchen
+  - Esstabal
+  - evőpálcika
+  - hashi
+  - ilo moku palisa
+  - Irbulīši
+  - jedilne paličice
+  - Jídelní hůlky
+  - Khoai-é
+  - manĝobastonetoj
+  - Matarprjónar
+  - palillos
+  - paliyos
+  - pauzinhos
+  - paíños chineses
+  - pałeczki
+  - penyepit
+  - Qqway
+  - spisepinde
+  - spisepinner
+  - stiallóga itheacháin
+  - sumpit
+  - syömäpuikot
+  - sömkaluižed
+  - söögipulgad
+  - Tī
+  - valgymo lazdelės
+  - Xasi tayoqchalari
+  - yemek çubuğu
+  - yemək çubuqları
+  - Zotz (mahai-tresna)
+  - ätpinnar
+  - Çăмах шăрпăкĕ
+  - Đũa
+  - Štapići za jelo
+  - τσόπστικς
+  - Китайски пръчици за хранене
+  - палачкі для яданьня
+  - Палички для їжі
+  - палочки для еды
+  - Сабха
+  - Савх
+  - Стапчиња за јадење
+  - Штапићи за јело
+  - Փայտիկներ սննդի համար
+  - מקלות אכילה
+  - اعواد الاكل
+  - عودا الأكل
+  - چاپستیک
+  - چوكا
+  - چوپسټېک
+  - ڤڽڤيت
+  - चपस्टिक्स
+  - चीनी काँटा
+  - হাশি
+  - உண் குச்சிகள்
+  - తిండి పుల్లలు
+  - ചോപ്പ്സ്റ്റിക്ക്
+  - ตะเกียบ
+  - ໄມ້ຖູ່
+  - ཟ་ཐུར་རམ་ཁོ་ཙེ།
+  - တူ
+  - ჩხირები
+  - ចង្កិះ
+  - ᠰᠠᠪᡴᠠ
+  - 筷子
+  - 箸
+  - 저가락
+  - 젓가락
 has_id_wikidata: Q81980
 subclass_of:
-- '[[_Standards/WikiData/WD~cutlery,81944]]'
-- '[[_Standards/WikiData/WD~stick,10971443]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-different_from: '[[_Standards/WikiData/WD~bacillus,2091405]]'
-instance_of: '[[_Standards/WikiData/WD~product_category,63981612]]'
+  - "[[_Standards/WikiData/WD~cutlery,81944]]"
+  - "[[_Standards/WikiData/WD~stick,10971443]]"
+described_by_source: "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+different_from: "[[_Standards/WikiData/WD~bacillus,2091405]]"
+instance_of: "[[_Standards/WikiData/WD~product_category,63981612]]"
 Nomenclature_for_Museum_Cataloging: 4888
 Commons_gallery: Chopsticks
 Commons_category: Chopsticks
 OmegaWiki_Defined_Meaning: 941235
 native_label:
-- 箸
-- tī
-- 筷子
-- sumpit
-- penyepit
-- 젓가락
-- ཁོ་ཙེ
-- dê̤ṳ
-- ចង្កឹះ
-- 저가락
-- савх
-- ᠰᠠᠤᠬᠠ
-- 箸
-- चपस्टिक्स
-- っんめーし
-- چوكا
-- đũa
-- 筷子
-- dawh
+  - 箸
+  - tī
+  - 筷子
+  - sumpit
+  - penyepit
+  - 젓가락
+  - ཁོ་ཙེ
+  - dê̤ṳ
+  - ចង្កឹះ
+  - 저가락
+  - савх
+  - ᠰᠠᠤᠬᠠ
+  - 箸
+  - चपस्टिक्स
+  - っんめーし
+  - چوكا
+  - đũa
+  - 筷子
+  - dawh
 schematic:
-- http://commons.wikimedia.org/wiki/Special:FilePath/Chopsticks%20usage.png
-- http://commons.wikimedia.org/wiki/Special:FilePath/Marcosticks-12%20common%20ways%20to%20use%20chopsticks-cool%20guide%20style.png
-- http://commons.wikimedia.org/wiki/Special:FilePath/Marcosticks-Chinese-12%20common%20ways%20to%20use%20chopsticks-cool%20guide%20style.png
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Chopsticks%20usage.png
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Marcosticks-12%20common%20ways%20to%20use%20chopsticks-cool%20guide%20style.png
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Marcosticks-Chinese-12%20common%20ways%20to%20use%20chopsticks-cool%20guide%20style.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Comment%20tenir%20des%20baguettes%20-%20Troisi%C3%A8me%20%C3%A9tape.JPG
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Eetstokjes-article.ogg
 UNSPSC_Code: 52151706
 P8189: 987007539247205100
-Unicode_character: "\U0001F962"
+Unicode_character: 🥢
 dv_has_:
   name_:
     ami: "'alapit"

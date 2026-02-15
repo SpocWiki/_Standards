@@ -411,6 +411,9 @@ dv_has_number_of_electrons: 55
 dv_has_value_for_temperature_melt_c: 28.4
 dv_has_value_for_electronegativity: 0.79
 ---
+
+# [[Caesium]] 銫 
+
 #is_/same_as :: [[../../../WikiData/WD~Caesium,1108]] 
 
 #chemic/Element 
