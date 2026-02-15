@@ -1,21 +1,21 @@
 ---
 aliases:
-- Bakshi,Ralph
-- Ralf Bakşi
-- Ralph Bakshi
-- Ралф Бакши
-- Ральф Бакши
-- Ральф Бакшы
-- Ռալֆ Բակշի
-- רלף בקשי
-- رالف باكشى
-- رالف باكشي
-- رالف بکشی
-- ڕالف بەکشی
-- ラルフ・バクシ
-- 拉尔夫·巴克希
-- 拉爾夫·巴克希
-- 랠프 박시
+  - Bakshi,Ralph
+  - Ralf Bakşi
+  - Ralph Bakshi
+  - Ралф Бакши
+  - Ральф Бакши
+  - Ральф Бакшы
+  - Ռալֆ Բակշի
+  - רלף בקשי
+  - رالف باكشى
+  - رالف باكشي
+  - رالف بکشی
+  - ڕالف بەکشی
+  - ラルフ・バクシ
+  - 拉尔夫·巴克希
+  - 拉爾夫·巴克希
+  - 랠프 박시
 has_id_wikidata: Q315441
 dv_has_:
   name_:
@@ -72,6 +72,30 @@ dv_has_:
     zh_hk: 拉爾夫·巴克希
     zh_sg: 拉尔夫·巴克希
     zh_tw: 拉爾夫·巴克希
+confidential: private
+cssclasses:
+  - private
+  - note
+draft: true
+excalidraw_autoexport: svg
+excalidraw_open_md: true
+excalidraw_plugin: parsed
+expiryDate:
+has_Template: "[[Extract~Note~Template]]"
+has_time_started: 1938-10-29
+isDeleted: false
+isReadOnly: false
+keywords:
+lang: en
+layout:
+license: (c)copyrighted
+linkTitle:
+publish: false
+publishDate:
+tags:
+  - excalidraw
+title:
+type: private_note
 ---
 # [[Bakshi,Ralph]] 
 
@@ -126,3 +150,22 @@ dv_has_:
 
 ### #is_/same_as :: [[/_secret/Society/Communication/Media/Movie/Movie-Director/Bakshi,Ralph.secret|Bakshi,Ralph.secret]] 
 
+
+# [[Bakshi,Ralph]] 
+
+#is_/part_of :: [[Ralph_Bakshi]] 
+
+![[Bakshi,Ralph.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[Bakshi,Ralph.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```

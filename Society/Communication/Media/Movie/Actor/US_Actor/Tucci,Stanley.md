@@ -201,7 +201,7 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Tucci,Stanley|Tucci,Stanley]] 
+### #is_/same_as :: [[Tucci,Stanley|Tucci,Stanley]] 
 
 ### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Tucci,Stanley.public|Tucci,Stanley.public]] 
 

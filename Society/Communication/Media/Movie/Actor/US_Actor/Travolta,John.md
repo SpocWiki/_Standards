@@ -156,10 +156,10 @@ dv_has_:
 > John Joseph Travolta (born February 18, 1954) is an American actor. 
 > He began acting in television before transitioning into a leading man in films. 
 > His accolades include a Primetime [[../../../../../../../_private/Society/Communication/Media/TV-Series/Emmy_Award|Emmy Award]] and a Golden Globe Award, 
-> in addition to nominations for two [[../Academy_Award|Academy Awards]] and a BAFTA Award.
+> in addition to nominations for two [[../../Academy_Award|Academy Awards]] and a BAFTA Award.
 >
 > Travolta came to prominence starring in the sitcom Welcome Back, Kotter (1975–1979), 
-> followed by leading roles in [[../Movie-Genre/Horror-Movie/Carrie(1976_film)|Carrie (1976)]], [[Grease (1978)]], Urban Cowboy (1980), and Blow Out (1981). 
+> followed by leading roles in [[../../Movie-Genre/Horror-Movie/Carrie(1976_film)|Carrie (1976)]], [[Grease (1978)]], Urban Cowboy (1980), and Blow Out (1981). 
 > He earned nominations for the Academy Award for Best Actor 
 > for his roles in [[Saturday Night Fever (1977)]] and [[Pulp Fiction (1994)]]. 
 > 
@@ -187,7 +187,7 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Travolta,John|Travolta,John]] 
+### #is_/same_as :: [[Travolta,John|Travolta,John]] 
 
 ### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Travolta,John.public|Travolta,John.public]] 
 

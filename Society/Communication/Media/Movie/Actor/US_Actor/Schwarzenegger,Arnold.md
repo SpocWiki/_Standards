@@ -203,6 +203,9 @@ dv_has_:
     zh_sg: 舒华辛力加
     zh_tw: 阿諾·史瓦辛格
 ---
+
+# [[Schwarzenegger,Arnold]] 
+
 #has_/time_/started :: 1947-07-30 
 #has_/time_/stopped  :: 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
@@ -210,10 +213,9 @@ dv_has_:
 #has_/name_/given :: Arnold Alois  
 
 
-
 ## #has_/text_of_/abstract 
 
-> Arnold Alois Schwarzenegger ( SHWORT-sə-neg-ər, Austrian German: [ˈarnɔlt ˈaːlɔʏs ˈʃvartsn̩ˌɛɡɐ] ; born July 30, 1947) 
+> Arnold Alois Schwarzenegger (SHWORT-sə-neg-ər, [ˈarnɔlt ˈaːlɔʏs ˈʃvartsn̩ˌɛɡɐ] ; born July 30, 1947) 
 > is an Austrian and American actor, businessman, former politician, and former professional bodybuilder, 
 > known for his roles in high-profile action films. He served as the 38th governor of California from 2003 to 2011.
 >
@@ -243,7 +245,7 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Schwarzenegger,Arnold|Schwarzenegger,Arnold]] 
+### #is_/same_as :: [[Schwarzenegger,Arnold|Schwarzenegger,Arnold]] 
 
 ### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Schwarzenegger,Arnold.public|Schwarzenegger,Arnold.public]] 
 

@@ -169,7 +169,7 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Director/Quinn,Anthony|Quinn,Anthony]] 
+### #is_/same_as :: [[Quinn,Anthony|Quinn,Anthony]] 
 
 ### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Director/Quinn,Anthony.public|Quinn,Anthony.public]] 
 

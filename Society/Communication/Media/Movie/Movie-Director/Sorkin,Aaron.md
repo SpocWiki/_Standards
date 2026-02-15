@@ -152,11 +152,44 @@ dv_has_:
 
 ## #has_/text_of_/abstract 
 
-> Aaron Benjamin Sorkin (born June 9, 1961) is an American screenwriter, playwright and film director. Born in New York City, he developed a passion for writing at an early age. As a writer for stage, television, and film, Sorkin is recognized for his trademark fast-paced dialogue and extended monologues, complemented by frequent use of the storytelling technique called the "walk and talk". Sorkin has earned numerous accolades including an Academy Award, a BAFTA Award, five Primetime Emmy Awards, and three Golden Globes.
+> Aaron Benjamin Sorkin (born June 9, 1961) 
+> is an American screenwriter, playwright and film director. 
+> 
+> Born in New York City, he developed a passion for writing at an early age. 
+> As a writer for stage, television, and film, 
+> Sorkin is recognized for his trademark fast-paced dialogue and extended monologues, 
+> complemented by frequent use of the storytelling technique called the "walk and talk". 
+> 
+> Sorkin has earned numerous accolades including an 
+> Academy Award, a BAFTA Award, five Primetime Emmy Awards, and three Golden Globes.
 >
-> Sorkin rose to prominence as a writer-creator and showrunner of the television series Sports Night (1998–2000), The West Wing (1999–2006), Studio 60 on the Sunset Strip (2006–07), and The Newsroom (2012–14). He is also known for his work on Broadway including the plays A Few Good Men (1989), The Farnsworth Invention (2007), To Kill a Mockingbird (2018), and the revival of Lerner and Loewe's musical Camelot (2023).
+> Sorkin rose to prominence as a writer-creator and showrunner of the television series 
+> - Sports Night (1998–2000), 
+> - The West Wing (1999–2006), 
+> - Studio 60 on the Sunset Strip (2006–07), and 
+> - The Newsroom (2012–14). 
+> 
+> He is also known for his work on Broadway including the plays 
+> - A Few Good Men (1989), 
+> - The Farnsworth Invention (2007), 
+> - To Kill a Mockingbird (2018), and 
+> the revival of Lerner and Loewe's musical Camelot (2023).
 >
-> He wrote the film screenplays for A Few Good Men (1992), The American President (1995), and several biopics including Charlie Wilson's War (2007), Moneyball (2011), and Steve Jobs (2015). For writing The Social Network (2010), he won the Academy Award for Best Adapted Screenplay. He made his directorial film debut with Molly's Game (2017), followed by The Trial of the Chicago 7 (2020) and Being the Ricardos (2021).
+> He wrote the film screenplays for 
+> - A Few Good Men (1992), 
+> - The American President (1995), 
+> and several biopics including 
+> - Charlie Wilson's War (2007), 
+> - Moneyball (2011), and 
+> - Steve Jobs (2015). 
+> 
+> For writing The Social Network (2010), 
+> he won the Academy Award for Best Adapted Screenplay. 
+> 
+> He made his directorial film debut with 
+> - Molly's Game (2017), followed by 
+> - The Trial of the Chicago 7 (2020) and 
+> - Being the Ricardos (2021).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Aaron%20Sorkin) 
 
