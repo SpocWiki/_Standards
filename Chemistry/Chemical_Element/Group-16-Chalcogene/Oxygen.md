@@ -24,7 +24,6 @@ aliases:
 - loxin
 - Muksichaq
 - Níłchʼi Yáʼátʼéehii
-- O
 - ocsaigin
 - Ocsidjinne
 - ocsigen

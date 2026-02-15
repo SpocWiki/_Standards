@@ -372,12 +372,12 @@ dv_has_:
 > The film was produced by David O. Selznick of Selznick International Pictures 
 > and directed by Victor Fleming. 
 > 
-> Set in the American South against the backdrop of the American Civil War 
-> and the Reconstruction era, the film tells the story of Scarlett O'Hara (Vivien Leigh), 
+> Set in the American South against the backdrop of the [[../../../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1800/1861-American_Civil_War|American Civil War]] 
+> and the Reconstruction era, the film tells the story of Scarlett O'Hara ([[Actor/British_Actor/Leigh,Vivien|Vivien Leigh]]), 
 > the strong-willed daughter of a Georgia plantation owner, 
 > following her romantic pursuit of Ashley Wilkes (Leslie Howard), 
 > who is married to his cousin, Melanie Hamilton (Olivia de Havilland), 
-> and her subsequent marriage to Rhett Butler (Clark Gable).
+> and her subsequent marriage to Rhett Butler ([[Actor/US_Actor/Gable,Clark|Clark Gable]]).
 >
 > The film had a troubled production. 
 > The start of filming was delayed for two years until January 1939 

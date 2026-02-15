@@ -1,8 +1,5 @@
 ---
 aliases:
-  - ct
-  - ct
-  - CT
   - is_a_ct
   - Ct_Image
   - Ct Image

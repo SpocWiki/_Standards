@@ -1,6 +1,5 @@
 ---
 aliases:
-  - CC
   - CC-Licenses
 confidential: private
 cssclasses: ''

@@ -1,6 +1,7 @@
 ---
 aliases:
-  - cc
+  - creative_commons
+  - creative commons
 icon: fab_creative_commons
 ---
 
