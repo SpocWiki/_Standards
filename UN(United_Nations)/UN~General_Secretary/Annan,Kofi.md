@@ -344,6 +344,7 @@ dv_has_:
     yue: 戈菲安南
     zh: 科菲·安南
 ---
+
 # [[Annan,Kofi]] 
 
 #is_/same_as :: [[../../WikiData/WD~Kofi_Annan,1254|WD~Kofi_Annan,1254]] 

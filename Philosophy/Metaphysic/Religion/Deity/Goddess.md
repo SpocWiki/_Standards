@@ -194,6 +194,7 @@ aliases:
 - 녀신
 - 여신
 ---
+
 # [[Goddess]] 
 
 #is_/same_as ::  [[../../../../WikiData/WD~Goddess,205985|WD~Goddess,205985]] 

@@ -394,6 +394,7 @@ dv_has_:
     zh_hant: 馬克斯·普朗克
     zh_tw: 馬克斯·普朗克
 ---
+
 # [[Planck,Max]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Max_Planck,9021|WD~Max_Planck,9021]] 

@@ -450,6 +450,7 @@ dv_has_:
     zh_tw: 奶油
     zu: ibhotela
 ---
+
 # [[Butter]] 🧈
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Butter,34172|WD~Butter,34172]] 

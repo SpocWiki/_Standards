@@ -150,6 +150,7 @@ dv_has_:
     yue: 漢斯·艾森克
     zh: 汉斯·艾森克
 ---
+
 # [[Eysenck,Hans]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Hans_Eysenck,58632|WD~Hans_Eysenck,58632]] 

@@ -240,6 +240,7 @@ dv_has_:
     zh_sg: 路易·狄芬尼
     zu: Louis de Funès
 ---
+
 # [[Funès,Louis_de]] 
 
 #is_/same_as :: [[WD~Louis_de_Funès,2737]]  

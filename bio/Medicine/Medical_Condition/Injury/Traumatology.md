@@ -125,6 +125,7 @@ dv_has_:
     yue: 創傷學
     zh: 创伤学
 ---
+
 # [[Traumatology]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Traumatology,376680|WD~Traumatology,376680]] 

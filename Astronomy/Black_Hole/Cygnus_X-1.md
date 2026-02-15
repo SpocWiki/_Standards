@@ -161,6 +161,7 @@ dv_has_:
     zh_sg: 天鹅座X-1
     zh_tw: 天鵝座X-1
 ---
+
 # [[Cygnus_X-1]] 
 
 #is_/same_as :: [[../../WikiData/WD~Cygnus_X-1,332674|WD~Cygnus_X-1,332674]] 

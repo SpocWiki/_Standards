@@ -276,6 +276,7 @@ dv_is_same_as:
 - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/0000-Greenlandian/2000-Neolithic.personal|2000-Neolithic.personal]]'
 - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/0000-Greenlandian/2000-Neolithic.secret|2000-Neolithic.secret]]'
 ---
+
 # [[2000-Neolithic]] 
 
 #is_a_/time_/Culture 

@@ -168,6 +168,7 @@ dv_has_:
     yue: 階級鬥爭
     zh: 階級鬥爭
 ---
+
 # [[Class_Struggle]] 
 
 #is_/same_as :: [[../../WikiData/WD~Class_struggle,1744607|WD~Class_struggle,1744607]] 

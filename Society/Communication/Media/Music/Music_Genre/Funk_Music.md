@@ -145,6 +145,7 @@ dv_has_:
     zh_sg: 放克
     zh_tw: 放克
 ---
+
 # [[Funk_Music]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Funk,164444|WD~Funk,164444]] 

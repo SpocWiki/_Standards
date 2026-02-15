@@ -210,6 +210,7 @@ dv_has_:
     zh_hk: 跆拳道
     zh_tw: 跆拳道
 ---
+
 # [[Taekwondo]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Taekwondo,36389|WD~Taekwondo,36389]]  

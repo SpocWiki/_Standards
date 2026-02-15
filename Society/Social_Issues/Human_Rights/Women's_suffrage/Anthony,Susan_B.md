@@ -122,6 +122,7 @@ dv_has_:
     zh_sg: 苏珊·安东尼
     zh_tw: 蘇珊·安東尼
 ---
+
 # [[Anthony,Susan_B]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Susan_B._Anthony,192245|WD~Susan_B._Anthony,192245]]  

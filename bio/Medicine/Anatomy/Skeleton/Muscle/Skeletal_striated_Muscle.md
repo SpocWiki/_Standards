@@ -143,6 +143,7 @@ dv_has_:
     zh_hant: 骨骼肌
     zh_hk: 骨骼肌
 ---
+
 # [[Skeletal_striated_Muscle]] 
 
 #is_/same_as :: [[WD~Skeletal_striated_muscle,1048687]] 

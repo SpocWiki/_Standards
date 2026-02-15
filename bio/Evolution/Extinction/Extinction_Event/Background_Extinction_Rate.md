@@ -18,6 +18,7 @@ aliases:
 - نرخ انقراض پسزمینه
 - 背景灭绝率
 ---
+
 # [[Background_Extinction_Rate]] 
 
 ## #has_/text_of_/abstract 

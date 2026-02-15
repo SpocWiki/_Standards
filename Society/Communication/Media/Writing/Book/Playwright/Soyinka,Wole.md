@@ -237,6 +237,7 @@ dv_has_:
     zh_cn: 沃莱·索因卡
     zh_hans: 沃莱·索因卡
 ---
+
 # [[Soyinka,Wole]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Wole_Soyinka,41488|WD~Wole_Soyinka,41488]]  

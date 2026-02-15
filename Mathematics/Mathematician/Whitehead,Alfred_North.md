@@ -204,6 +204,7 @@ dv_has_:
     zh_sg: 阿尔弗雷德·诺思·怀特黑德
     zh_tw: 阿爾弗雷德·諾思·懷特黑德
 ---
+
 # [[Whitehead,Alfred_North]] 
 
 #has_/time_/started :: 1861-02-15 

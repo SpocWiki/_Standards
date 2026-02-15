@@ -147,6 +147,7 @@ dv_has_:
     zh_cn: 沃尔夫–拉叶星
     zh_hant: 沃爾夫–拉葉星
 ---
+
 # [[Wolf–Rayet_Star]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Wolf–Rayet_star,6251|WD~Wolf–Rayet_star,6251]]  

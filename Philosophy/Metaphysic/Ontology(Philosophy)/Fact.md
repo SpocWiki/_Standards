@@ -180,6 +180,7 @@ dv_has_:
     zh_sg: 事实
     zh_tw: 事實
 ---
+
 # [[Fact]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Fact,188572|WD~Fact,188572]] 

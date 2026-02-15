@@ -95,6 +95,7 @@ dv_has_:
     yue: 多元論
     zh: 多元論
 ---
+
 # [[Pluralism]] 
 
 #has_/previous_/item :: [[Dualism]] 

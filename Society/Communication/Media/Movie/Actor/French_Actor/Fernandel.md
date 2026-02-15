@@ -176,6 +176,7 @@ dv_has_:
     zh_hk: 范南杜
     zh_tw: 費南代爾
 ---
+
 # [[Fernandel]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Fernandel,129092|WD~Fernandel,129092]] 

@@ -466,6 +466,7 @@ dv_has_:
     zh_tw: 黃色
     zu: OPhuzi
 ---
+
 # [[Yellow]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Yellow,943|WD~Yellow,943]] 

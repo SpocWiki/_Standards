@@ -248,6 +248,7 @@ dv_has_:
     zh_tw: 沙拉
     zu: isaladi
 ---
+
 # [[Salad]]
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Salad,9266|WD~Salad,9266]]

@@ -887,6 +887,7 @@ Languages:
 icon: flag-lt
 Unicode_character: 🇱🇹
 ---
+
 # [[Lithuania]] 🇱🇹  has Properties... 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`

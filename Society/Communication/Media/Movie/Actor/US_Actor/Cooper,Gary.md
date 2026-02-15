@@ -203,6 +203,7 @@ dv_has_:
     zh_hk: 加利谷巴
     zh-my: 加利·古柏
 ---
+
 # [[Cooper,Gary]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Gary_Cooper,93957|WD~Gary_Cooper,93957]] 

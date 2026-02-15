@@ -117,6 +117,7 @@ dv_has_:
     zh_hant: 數值積分
     zh_hk: 數值積分
 ---
+
 # [[Numerical_Integration]] 
 
 #is_/same_as :: [[WD~Numerical_integration,753445]] 

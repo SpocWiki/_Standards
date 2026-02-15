@@ -60,6 +60,7 @@ aliases:
 - ਦਾ ਆਈਟੀ ਕਰਾਊਡ
 - ハイっ、こちらIT課!
 ---
+
 # [[IT_Crowd]] 
 
 #is_/similar_to :: [[Office(Series)]] 

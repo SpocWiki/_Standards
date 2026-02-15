@@ -180,6 +180,7 @@ dv_has_:
     zh_sg: 透明国际
     zh_tw: 國際透明組織
 ---
+
 # [[Transparency_International]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Transparency_International,174240|WD~Transparency_International,174240]]  

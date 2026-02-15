@@ -196,6 +196,7 @@ dv_has_:
     zh_tw: 傑佛瑞·辛頓
     zu: Geoffrey Hinton
 ---
+
 # [[Hinton,Geoffrey]]  
 
 ## #has_/text_of_/abstract 

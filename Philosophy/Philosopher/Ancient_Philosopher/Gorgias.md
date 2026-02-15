@@ -172,6 +172,7 @@ dv_has_:
     zh_sg: 高尔吉亚
     zh_tw: 高爾吉亞
 ---
+
 # [[Gorgias]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Gorgias,179785|WD~Gorgias,179785]] 

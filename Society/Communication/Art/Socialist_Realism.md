@@ -168,6 +168,7 @@ dv_has_:
     zh_sg: 社会主义的现实主义
     zh_tw: 社會主義的現實主義
 ---
+
 # [[Socialist_Realism]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Socialist_realism,180902|WD~Socialist_realism,180902]]  

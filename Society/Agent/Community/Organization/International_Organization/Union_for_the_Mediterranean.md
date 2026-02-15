@@ -145,6 +145,7 @@ dv_has_:
     zh_sg: 地中海联盟
     zh_tw: 地中海聯盟
 ---
+
 # [[Union_for_the_Mediterranean]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Union_for_the_Mediterranean,192177|WD~Union_for_the_Mediterranean,192177]]   

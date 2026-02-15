@@ -194,6 +194,7 @@ dv_has_:
     zh_sg: 莱昂·傅科
     zh_tw: 萊昂·傅科
 ---
+
 # [[Foucault,Léon]] 
 
 #is_/same_as :: [[WD~Léon_Foucault,187966]] 

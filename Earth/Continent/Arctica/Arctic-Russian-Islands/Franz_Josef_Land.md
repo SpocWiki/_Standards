@@ -187,6 +187,7 @@ aliases:
 - 法蘭茨約瑟夫地群島
 - 제믈랴프란차이오시파 제도
 ---
+
 # [[Franz_Josef_Land]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Franz_Josef_Land,185018|WD~Franz_Josef_Land,185018]]  

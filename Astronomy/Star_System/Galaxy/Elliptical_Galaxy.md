@@ -166,6 +166,7 @@ dv_has_:
     zh_tw: 橢圓星系
     zu: Umthalakazi omakhophelana
 ---
+
 # [[Elliptical_Galaxy]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Elliptical_galaxy,184348|WD~Elliptical_galaxy,184348]] 

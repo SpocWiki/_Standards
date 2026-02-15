@@ -167,6 +167,7 @@ dv_has_:
     zh_sg: 视差
     zh_tw: 視差
 ---
+
 # [[Parallax]] 
 
 #is_/same_as :: [[WD~Parallax,165074]] 

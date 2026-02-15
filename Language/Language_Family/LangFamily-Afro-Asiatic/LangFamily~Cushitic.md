@@ -169,6 +169,7 @@ dv_has_:
     yue: 古斯迪語族
     zh: 庫希特語族
 ---
+
 # [[LangFamily~Cushitic]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~Cushitic,33248]] 

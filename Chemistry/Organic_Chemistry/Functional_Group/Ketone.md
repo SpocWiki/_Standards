@@ -188,6 +188,7 @@ dv_is_same_as:
 - '[[/_secret/Chemistry/Organic_Chemistry/Ketone.secret|Ketone.secret]]'
 dv_has_formula_structural: R−C(=O)−R
 ---
+
 # [[Ketone]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Ketone,170744]] 

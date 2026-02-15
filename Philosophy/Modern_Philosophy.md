@@ -106,6 +106,7 @@ dv_has_:
     zh_cn: 现代哲学
     zh_hant: 現代哲學
 ---
+
 # [[Modern_Philosophy]] 
 
 #is_/same_as :: [[WD~Modern_philosophy,860746]] 

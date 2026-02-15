@@ -499,6 +499,7 @@ dv_has_:
     zh-hk: 東德
     zh-tw: 東德
 ---
+
 # [[1949-German_Democratic_Republic+1990]]
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~German_Democratic_Republic,16957|WD~German_Democratic_Republic,16957]]

@@ -161,6 +161,7 @@ dv_has_:
     zh_sg: 伊姆雷·拉卡托斯
     zh_tw: 伊姆雷·拉卡托斯
 ---
+
 # [[Lakatos,Imre]] 
 
 #is_/same_as :: [[WD~Imre_Lakatos,296249]]

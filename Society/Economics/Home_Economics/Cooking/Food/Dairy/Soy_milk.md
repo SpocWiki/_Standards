@@ -166,6 +166,7 @@ dv_has_:
     zh_hant: 豆奶
     zh_tw: 豆奶
 ---
+
 # [[Soy_milk]]
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Soy_milk,192199|WD~Soy_milk,192199]]

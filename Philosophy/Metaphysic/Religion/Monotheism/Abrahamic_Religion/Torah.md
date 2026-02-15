@@ -255,6 +255,7 @@ dv_has_:
     zea: Thora
     zh: 摩西五经
 ---
+
 # [[Torah]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Torah,34990|WD~Torah,34990]]  

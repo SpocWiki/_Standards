@@ -254,6 +254,7 @@ dv_has_:
     yue: 莊拿芬史威夫特
     zh: 乔纳森·斯威夫特
 ---
+
 # [[Swift,Jonathan]] 
 
 #is_/same_as :: [[WD~Jonathan_Swift,41166]] 

@@ -187,6 +187,7 @@ dv_is_same_as:
 - '[[/_personal/Earth/Geography/Place/Landmarks_or_Historical_Buildings.personal|Landmarks_or_Historical_Buildings.personal]]'
 - '[[/_secret/Earth/Geography/Place/Landmarks_or_Historical_Buildings.secret|Landmarks_or_Historical_Buildings.secret]]'
 ---
+
 # [[Landmarks_or_Historical_Buildings]] 
 
 Class of all landmarks or historical buildings.

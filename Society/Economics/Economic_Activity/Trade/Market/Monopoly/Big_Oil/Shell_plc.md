@@ -235,6 +235,7 @@ dv_has_:
     zh_sg: 蚬壳公司
     zh_tw: 殼牌公司
 ---
+
 # [[Shell_plc]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Shell,154950|WD~Shell,154950]]  

@@ -88,6 +88,7 @@ aliases:
 - 最終共同祖先
 - 모든 생물의 공통 조상
 ---
+
 # [[LUCA(Last_Universal_Common_Ancestor)]]  
 
 ## #has_/text_of_/abstract 

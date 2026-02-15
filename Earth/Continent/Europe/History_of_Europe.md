@@ -239,6 +239,7 @@ dv_has_:
     zh_hant: 歐洲歷史
     zu: Yurobhu Idaladala
 ---
+
 # [[History_of_Europe]] 
 
 #is_/same_as :: [[../../../WikiData/WD~History_of_Europe,7787|WD~History_of_Europe,7787]] 

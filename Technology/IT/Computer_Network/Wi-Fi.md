@@ -102,6 +102,7 @@ dv_has_:
     ur: وائی-فائی
     war: Wi-fi
 ---
+
 # [[Wi-Fi]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Wi-Fi,29643|WD~Wi-Fi,29643]]  

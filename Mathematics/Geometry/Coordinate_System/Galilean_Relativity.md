@@ -66,6 +66,7 @@ dv_has_:
     zh_hans: 伽利略不变性
     zh_hant: 伽利略不變性
 ---
+
 # [[Galilean_Relativity]] 
 
 #is_/same_as :: 

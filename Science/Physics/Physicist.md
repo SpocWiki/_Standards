@@ -324,6 +324,7 @@ dv_has_:
     zh_tw: 物理學家
     zu: Umfundindalo
 ---
+
 # [[Physicist]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~physicist,169470]] 

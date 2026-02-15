@@ -281,6 +281,7 @@ dv_has_:
     zh_sg: 创伤后心理压力紧张综合症
     zh_tw: 創傷後壓力症候群
 ---
+
 # [[PTSD(Post-Traumatic_Stress_Disorder)]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Post-traumatic_stress_disorder,202387|WD~Post-traumatic_stress_disorder,202387]]  

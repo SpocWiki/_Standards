@@ -284,6 +284,7 @@ dv_has_:
     zh: J·J·汤姆孙
     zh_tw: J·J·湯木生
 ---
+
 # [[Thomson,J.J.]] 
 
 #is_a :: [[../Physicist|Physicist]] 

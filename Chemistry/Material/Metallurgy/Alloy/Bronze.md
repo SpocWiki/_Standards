@@ -305,6 +305,7 @@ dv_has_parts:
 - '[[../../../Chemical_Element/Group-11-Copper/Copper|Copper]]'
 - '[[../../../Chemical_Element/Group-14-Carbon/Tin|Tin]]'
 ---
+
 # [[Bronze]] 
 
 is_similar_to = `=this.dv_is_similar_to` 

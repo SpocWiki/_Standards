@@ -218,6 +218,7 @@ dv_has_:
     zh_hant: 科學哲學
     zh_tw: 科學哲學
 ---
+
 # [[Philosophy_of_Science]] 
 
 #is_/same_as :: [[../../WikiData/WD~Philosophy_of_science,59115|WD~Philosophy_of_science,59115]] 

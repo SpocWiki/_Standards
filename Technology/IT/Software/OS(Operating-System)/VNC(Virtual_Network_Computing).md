@@ -37,6 +37,7 @@ aliases:
 - ভার্চুয়াল নেটওয়ার্ক কম্পিউটিং
 - மெய்நிகர் வலையமைப்பூடான கணினி
 ---
+
 # [[VNC(Virtual_Network_Computing)]]  
 
 #is_/similar_to :: [[RDP(Remote_Desktop_Protocol)]]  

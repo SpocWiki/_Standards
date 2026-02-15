@@ -305,6 +305,7 @@ dv_has_:
     zh_tw: 約瑟夫·拉格朗日
     zu: Joseph-Louis Lagrange
 ---
+
 # [[Lagrange,Joseph_Louis]] 
 
 #is_/same_as  :: [[../../../WikiData/WD~Joseph-Louis_Lagrange,80222|WD~Joseph-Louis_Lagrange,80222]] 

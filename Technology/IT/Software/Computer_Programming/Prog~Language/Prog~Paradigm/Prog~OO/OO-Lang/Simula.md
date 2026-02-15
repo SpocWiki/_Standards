@@ -73,6 +73,7 @@ aliases:
 - ꠌꠤꠝꠥꠟꠣ
 - 시뮬라
 ---
+
 # [[Simula]] 
 
 #is_a_/ComputerLanguage 

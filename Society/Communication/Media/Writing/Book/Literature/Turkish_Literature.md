@@ -104,6 +104,7 @@ dv_has_:
     yue: 土耳其文文學
     zh: 土耳其文學
 ---
+
 # [[Turkish_Literature]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Turkish_literature,1328366|WD~Turkish_literature,1328366]]  

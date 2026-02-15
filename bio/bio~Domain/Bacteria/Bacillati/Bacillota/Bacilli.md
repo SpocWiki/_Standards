@@ -86,6 +86,7 @@ aliases:
 - 芽孢桿菌綱
 - 바킬루스강
 ---
+
 # [[Bacilli]]  
 
 ## #has_/text_of_/abstract 

@@ -153,6 +153,7 @@ dv_has_:
     zh_hant: 現代藝術
     zh_hk: 現代藝術
 ---
+
 # [[1860-Modern_Art-1970]] 
 
 #is_/same_as :: [[WD~Modern_art,38166]] 

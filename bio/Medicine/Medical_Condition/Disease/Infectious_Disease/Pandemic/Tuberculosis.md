@@ -456,6 +456,7 @@ dv_has_:
     zh_sg: 结核病
     zh_tw: 結核病
 ---
+
 # [[Tuberculosis]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Tuberculosis,12204|WD~Tuberculosis,12204]] 

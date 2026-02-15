@@ -310,6 +310,7 @@ dv_has_:
     zh_hk: 質數
     zh_tw: 質數
 ---
+
 # [[Prime_Number]] 
 
 #is_/same_as :: [[WD~Prime_number,49008]] 

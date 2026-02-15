@@ -121,6 +121,7 @@ dv_has_:
     yue: 半人馬座ω
     zh: 半人马座ω
 ---
+
 # [[Omega_Centauri]] 
 
 #is_/same_as :: [[WD~Omega_Centauri,14275]] 

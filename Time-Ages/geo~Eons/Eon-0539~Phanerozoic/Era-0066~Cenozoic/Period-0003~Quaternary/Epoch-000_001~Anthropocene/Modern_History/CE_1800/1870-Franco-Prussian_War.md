@@ -235,6 +235,7 @@ dv_has_:
     yue: 普法戰爭
     zh: 普法戰爭
 ---
+
 # [[1870-Franco-Prussian_War]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Franco-Prussian_War,46083|WD~Franco-Prussian_War,46083]] 

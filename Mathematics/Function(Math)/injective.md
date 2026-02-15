@@ -130,6 +130,7 @@ dv_has_:
     zh_sg: 单射
     zh_tw: 單射
 ---
+
 # [[injective]]  
 
 #is_/same_as :: [[Monomorphism]] 

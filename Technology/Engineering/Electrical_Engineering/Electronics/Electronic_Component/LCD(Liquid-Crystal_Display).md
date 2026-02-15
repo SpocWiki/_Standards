@@ -156,6 +156,7 @@ dv_has_:
     yue: 液晶顯示器
     zh: 液晶显示器
 ---
+
 # [[LCD(Liquid-Crystal_Display)]] 
 
 #is_/same_as :: [[WD~Liquid-crystal_display,83341]] 

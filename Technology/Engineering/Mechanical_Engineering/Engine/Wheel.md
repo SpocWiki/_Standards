@@ -358,6 +358,7 @@ dv_has_:
     zu: isondo
 Unicode_character: 🛞
 ---
+
 # [[Wheel]] 🛞 
 
 #is_/same_as :: [[../../../../WikiData/WD~Wheel,446|WD~Wheel,446]] 

@@ -182,6 +182,7 @@ dv_has_:
     zh_sg: 超级市场
     zh_tw: 超級市場
 ---
+
 # [[Supermarket]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Supermarket,180846|WD~Supermarket,180846]]  

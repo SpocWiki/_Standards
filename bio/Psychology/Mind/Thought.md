@@ -301,6 +301,7 @@ dv_has_:
     zh_hant: 思想
     zh_tw: 思想
 ---
+
 # [[Thought]]  
 
 ## #has_/text_of_/abstract 

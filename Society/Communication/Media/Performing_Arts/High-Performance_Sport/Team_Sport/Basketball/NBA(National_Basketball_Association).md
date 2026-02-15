@@ -202,6 +202,7 @@ dv_has_:
     xmf: ნაციონალური ოკალათბურთე ასოციაცია
     yo: National Basketball Association
 ---
+
 # [[NBA(National_Basketball_Association)]] 
 
 #is_/same_as :: [[WD~National_Basketball_Association,155223]] 

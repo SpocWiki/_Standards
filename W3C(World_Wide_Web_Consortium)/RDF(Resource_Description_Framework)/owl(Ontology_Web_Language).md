@@ -48,6 +48,7 @@ aliases:
 - 网络本体语言
 - 웹 온톨로지 언어
 ---
+
 # [[owl(Ontology_Web_Language)]] 
 
 is a very expressive Language with more inference and strictness than [[rdfs]]

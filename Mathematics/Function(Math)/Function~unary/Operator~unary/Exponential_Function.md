@@ -173,6 +173,7 @@ dv_has_:
     zh_sg: 指数函数
     zh_tw: 指數函數
 ---
+
 # [[Exponential_Function]] 
 
 #has_/inverse :: [[Natural_Logarithm]] 

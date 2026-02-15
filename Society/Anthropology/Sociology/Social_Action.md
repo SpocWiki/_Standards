@@ -120,6 +120,7 @@ dv_has_:
     zh_hans: 社会行为
     zh_hant: 社會行為
 ---
+
 # [[Social_Action]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Social_action,769620|WD~Social_action,769620]]  

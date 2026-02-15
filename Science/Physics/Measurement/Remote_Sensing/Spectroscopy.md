@@ -191,6 +191,7 @@ dv_has_:
     zh_hant: 光譜學
     zh_hk: 光譜學
 ---
+
 # [[Spectroscopy]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Spectroscopy,483666|WD~Spectroscopy,483666]]  

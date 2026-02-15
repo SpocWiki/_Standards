@@ -152,6 +152,7 @@ dv_has_:
     yue: 捕鯨
     zh: 捕鯨
 ---
+
 # [[Whaling]]  
 
 #is_/same_as :: [[../../../../../WikiData/WD~Whaling,42767|WD~Whaling,42767]] 

@@ -180,6 +180,7 @@ dv_has_:
     yue: 吶喊
     zh: 吶喊 (繪畫)
 ---
+
 # [[The_Scream]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~The_Scream,471379|WD~The_Scream,471379]]  

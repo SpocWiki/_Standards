@@ -167,6 +167,7 @@ dv_has_time_started: -1600000000
 dv_has_time_stopped: -1400000000
 dv_has_text_of_color: 0xFDC07A
 ---
+
 # [[Period-1600~Calymmian]] 
 
 #is_a_/time_/Period 

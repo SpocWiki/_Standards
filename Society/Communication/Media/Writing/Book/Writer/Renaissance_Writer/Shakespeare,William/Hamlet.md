@@ -333,6 +333,7 @@ dv_has_:
     zh_cn: 哈姆雷特
     zh_hk: 哈姆雷特
 ---
+
 # [[Hamlet]] 
 
 #is_/same_as :: [[WD~Hamlet,41567]] 

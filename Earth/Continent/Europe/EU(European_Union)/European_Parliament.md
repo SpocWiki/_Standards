@@ -382,6 +382,7 @@ dv_has_:
     zh_sg: 欧洲议会
     zh_tw: 歐洲議會
 ---
+
 # [[European_Parliament]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~European_Parliament,8889|WD~European_Parliament,8889]] 

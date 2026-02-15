@@ -19,6 +19,7 @@ dv_has_:
     nl: Jacquardmechanisme
     sl: žakarski mehanizem
 ---
+
 # [[Jacquard_Machine]] 
 
 #has_/creator :: [[Jacquard,Joseph_Marie]] 

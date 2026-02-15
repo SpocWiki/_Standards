@@ -146,6 +146,7 @@ dv_has_:
     zh_sg: 引力透镜效应
     zh_tw: 重力透鏡效應
 ---
+
 # [[Gravitational_Lens]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Gravitational_lens,185243|WD~Gravitational_lens,185243]] 

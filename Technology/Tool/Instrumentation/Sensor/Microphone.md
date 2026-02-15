@@ -227,6 +227,7 @@ dv_has_:
     zh-hk: 咪高峰
     zh-tw: 麥克風
 ---
+
 # [[Microphone]] 🎤 
 
 #is_/same_as :: [[WD~Microphone,46384]] 

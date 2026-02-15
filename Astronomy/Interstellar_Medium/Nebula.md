@@ -235,6 +235,7 @@ aliases:
 - 星雲
 - 성운
 ---
+
 # [[Nebula]] 
 
 #is_/same_as :: [[WD~Nebula,42372]] 

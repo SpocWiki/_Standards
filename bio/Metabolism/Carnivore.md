@@ -230,6 +230,7 @@ dv_has_:
     yue: 肉食性動物
     zh: 肉食性動物
 ---
+
 # [[Carnivore]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~carnivore,81875]] 

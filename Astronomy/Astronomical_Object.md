@@ -366,6 +366,7 @@ dv_has_:
     zh_hk: 天體
     zh_tw: 天體
 ---
+
 # [[Astronomical_Object]] 
 
 #is_/same_as :: [[../../WikiData/WD~Astronomical_object,6999|WD~Astronomical_object,6999]] 

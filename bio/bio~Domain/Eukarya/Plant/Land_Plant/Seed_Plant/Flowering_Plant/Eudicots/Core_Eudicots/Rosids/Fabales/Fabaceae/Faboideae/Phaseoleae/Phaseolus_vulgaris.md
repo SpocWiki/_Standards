@@ -370,6 +370,7 @@ dv_has_:
     zh_hant: 四季豆
     zh_tw: 四季豆
 ---
+
 # [[Phaseolus_vulgaris]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../WikiData/WD~Phaseolus_vulgaris,42339|WD~Phaseolus_vulgaris,42339]] 

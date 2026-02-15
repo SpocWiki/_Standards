@@ -158,6 +158,7 @@ dv_has_:
     zh_hant: 社會階層
     zh_hk: 社會階層
 ---
+
 # [[Social_Stratification]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Social_stratification,841628|WD~Social_stratification,841628]] 

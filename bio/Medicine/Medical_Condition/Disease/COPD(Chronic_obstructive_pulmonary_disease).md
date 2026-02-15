@@ -280,6 +280,7 @@ dv_has_:
     zh_sg: 慢性阻塞性肺病
     zh_tw: 慢性阻塞性肺病
 ---
+
 # [[COPD(Chronic_obstructive_pulmonary_disease)]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Chronic_obstructive_pulmonary_disease,199804|WD~Chronic_obstructive_pulmonary_disease,199804]] 

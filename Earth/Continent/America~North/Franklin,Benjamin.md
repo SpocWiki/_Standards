@@ -362,6 +362,7 @@ dv_has_:
     zh_hant: 班傑明·富蘭克林
     zh_hk: 班哲文·富蘭克林
 ---
+
 # [[Franklin,Benjamin]] 
 
 #is_/same_as :: [[../../../../_Standards/WikiData/WD~Benjamin_Franklin,34969|WD~Benjamin_Franklin,34969]] 

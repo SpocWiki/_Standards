@@ -283,6 +283,7 @@ dv_has_:
     zh_hant: 黑天
     zu: Krishna
 ---
+
 # [[Krishna]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Krishna,42891|WD~Krishna,42891]]  

@@ -81,6 +81,7 @@ aliases:
 - 蘋果II
 - 애플 II
 ---
+
 # [[Apple II]]  
 
 ## #has_/text_of_/abstract 

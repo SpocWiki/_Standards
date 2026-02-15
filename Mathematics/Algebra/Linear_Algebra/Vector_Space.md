@@ -199,6 +199,7 @@ dv_has_:
     zh_sg: 矢量空间
     zh_tw: 向量空間
 ---
+
 # [[Vector_Space]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Vector_space,125977|WD~Vector_space,125977]] 

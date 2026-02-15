@@ -229,6 +229,7 @@ aliases:
 - 小说家
 - 소설가
 ---
+
 # [[Novelist]]  
 
 ## #has_/text_of_/abstract 

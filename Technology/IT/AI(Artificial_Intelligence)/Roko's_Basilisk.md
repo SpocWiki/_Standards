@@ -45,6 +45,7 @@ aliases:
 - 洛科的蛇怪
 - 로코의 바실리스크
 ---
+
 # [[Roko's_Basilisk]]  
 
 #is_/similar_to :: [[../../../Society/Communication/Genre/Fiction/Science_Fiction/Hyperion(Simmons_novel)]] 

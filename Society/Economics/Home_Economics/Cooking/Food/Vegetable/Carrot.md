@@ -408,6 +408,7 @@ dv_has_:
     zh_tw: 胡蘿蔔
     zu: izaqathe
 ---
+
 # [[Carrot]] 🥕 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Carrot,81|WD~Carrot,81]] 

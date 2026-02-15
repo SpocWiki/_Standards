@@ -143,6 +143,7 @@ aliases:
 - แบบจำลองโอเอสไอ
 - 开放式系统互联通信参考模型
 ---
+
 # [[OSI_Model]]  
 
 ## #has_/text_of_/abstract 

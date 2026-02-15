@@ -199,6 +199,7 @@ dv_has_:
     za: douzswh
     zh: 投资
 ---
+
 # [[Investment]] 
 
 #is_/same_as :: [[WD~Investment,4290]] 

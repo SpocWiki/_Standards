@@ -160,6 +160,7 @@ aliases:
 - 衍射
 - 회절
 ---
+
 # [[Diffraction]] 
 
 #is_/same_as  :: [[../../../../WikiData/WD~Diffraction,133900|WD~Diffraction,133900]] 

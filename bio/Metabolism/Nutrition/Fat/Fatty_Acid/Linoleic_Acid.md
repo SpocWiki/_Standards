@@ -782,6 +782,7 @@ dv_is_same_as:
 - '[[/_personal/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Linoleic_Acid.personal|Linoleic_Acid.personal]]'
 - '[[/_secret/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Linoleic_Acid.secret|Linoleic_Acid.secret]]'
 ---
+
 # [[Linoleic_Acid]] 
 
  has_formula_structural = `$= dv.current.dv_has_formula_structural` 

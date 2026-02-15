@@ -50,6 +50,7 @@ aliases:
 - ꠙꠣꠞ꠆ꠟ
 - 펄
 ---
+
 # [[Prog~Perl]] 
 
 #is_a_/ComputerLanguage 

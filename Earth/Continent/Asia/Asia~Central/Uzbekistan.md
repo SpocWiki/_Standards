@@ -848,6 +848,7 @@ IPA_transcription: ʉsˈbeːkɪstɑːn
 Gujarati_Vishwakosh_entry: ઉઝબેકિસ્તાન
 Unicode_character: 🇺🇿
 ---
+
 # [[Uzbekistan]] 🇺🇿 
 
 

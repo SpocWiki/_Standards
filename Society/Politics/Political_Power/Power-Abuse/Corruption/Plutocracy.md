@@ -168,6 +168,7 @@ dv_has_:
     zh_sg: 金权政治
     zh_tw: 金權政治
 ---
+
 # [[Plutocracy]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Plutocracy,131708|WD~Plutocracy,131708]]  

@@ -177,6 +177,7 @@ dv_has_:
     zh_sg: 自由民主制
     zh_tw: 自由民主制
 ---
+
 # [[Liberal_Democracy]] 
 
 #is_/same_as :: [[WD~Liberal_democracy,192125]] 

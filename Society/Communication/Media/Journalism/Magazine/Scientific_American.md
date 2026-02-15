@@ -143,6 +143,7 @@ dv_has_:
     zh: 科学美国人
     zh_cn: 科学美国人
 ---
+
 # [[Scientific_American]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Scientific_American,39379|WD~Scientific_American,39379]]  

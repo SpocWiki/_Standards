@@ -161,6 +161,7 @@ aliases:
 - 증기 기관차
 Unicode_character: 🚂
 ---
+
 # [[Steam_Locomotive]] 🚂 
 
 

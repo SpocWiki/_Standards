@@ -136,6 +136,7 @@ dv_has_:
     zh_hans: 勒索
     zh_hant: 勒索
 ---
+
 # [[Extortion]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Extortion,6452087|WD~Extortion,6452087]] 

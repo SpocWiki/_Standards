@@ -136,6 +136,7 @@ dv_has_:
     zh_sg: 纳维－斯托克斯方程
     zh_tw: 納維－斯托克斯方程式
 ---
+
 # [[Navier–Stokes_Equations]] 
 
 #is_/same_as :: [[WD~Navier–Stokes_equations,201321]] 

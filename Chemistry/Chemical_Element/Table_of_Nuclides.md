@@ -104,6 +104,7 @@ dv_has_:
     yue: 核素圖
     zh: 核素圖
 ---
+
 # [[Table_of_Nuclides]] 
 
 is_similar_to = `=this.dv_is_similar_to` 

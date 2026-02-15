@@ -222,6 +222,7 @@ dv_has_:
     zh_hant: 等離子體
     zu: unyazani
 ---
+
 # [[Plasma]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Plasma,10251|WD~Plasma,10251]]

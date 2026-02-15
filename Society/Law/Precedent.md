@@ -113,6 +113,7 @@ dv_has_:
     vi: tiền lệ pháp
     zh: 遵循先例
 ---
+
 # [[Precedent]] 
 
 #is_/same_as :: [[../../WikiData/WD~Precedent,665141|WD~Precedent,665141]]  

@@ -182,6 +182,7 @@ dv_has_:
     zh_sg: 褐矮星
     zh_tw: 棕矮星
 ---
+
 # [[Brown_Dwarf]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Brown_dwarf,101600|WD~Brown_dwarf,101600]] 

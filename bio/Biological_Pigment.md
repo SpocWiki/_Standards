@@ -116,6 +116,7 @@ dv_has_:
     zh_hant: 生物色素
     zh_hk: 生物色素
 ---
+
 # [[Biological_Pigment]] 
 
 #is_/same_as :: [[../WikiData/WD~Biological_pigment,910979|WD~Biological_pigment,910979]] 

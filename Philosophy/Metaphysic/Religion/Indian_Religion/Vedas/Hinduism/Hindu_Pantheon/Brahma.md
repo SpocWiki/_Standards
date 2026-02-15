@@ -206,6 +206,7 @@ dv_has_:
     zh_hant: 梵天
     zh_tw: 梵天
 ---
+
 # [[Brahma]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Brahma,11389|WD~Brahma,11389]] 

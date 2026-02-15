@@ -23,6 +23,7 @@ aliases:
 - ダートマスBASIC
 - 다트머스 베이직
 ---
+
 # [[Prog~BASIC]] 
 
 #is_a_/ComputerLanguage 

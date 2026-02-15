@@ -182,6 +182,7 @@ dv_has_:
     zh_sg: 父权
     zh_tw: 父權
 ---
+
 # [[Patriarchy]] 
 
 #is_/same_as :: [[WD~Patriarchy,181339]] 

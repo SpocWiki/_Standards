@@ -205,6 +205,7 @@ dv_has_:
     zh_sg: 向量
     zh_tw: 向量
 ---
+
 # [[Vector]] 
 
 #is_/similar_to :: [[Geometry-2D/Triangle/Angle]]  

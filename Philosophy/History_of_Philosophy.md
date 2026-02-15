@@ -179,6 +179,7 @@ dv_has_:
     zh_cn: 哲学史
     zh_hans: 哲学史
 ---
+
 # [[History_of_Philosophy]] 
 
 #is_/same_as :: [[../WikiData/WD~History_of_philosophy,27654|WD~History_of_philosophy,27654]] 

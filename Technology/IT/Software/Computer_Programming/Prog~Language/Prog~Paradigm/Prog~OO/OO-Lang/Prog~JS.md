@@ -190,6 +190,7 @@ dv_has_:
     ur: جاوا اسکرپٹ
     wuu: 爪哇脚本
 ---
+
 # [[Prog~JS]] 
 
 #is_a_/ComputerLanguage 

@@ -474,6 +474,7 @@ dv_has_:
     zh_cn: 克里斯托弗·哥伦布
     zh_hk: 基斯杜化·哥倫布
 ---
+
 # [[Columbus,Christopher]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Christopher_Columbus,7322|WD~Christopher_Columbus,7322]] 

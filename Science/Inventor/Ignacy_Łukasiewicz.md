@@ -125,6 +125,7 @@ dv_has_:
     yo: Ignacy Łukasiewicz
     zh: 伊格納齊·武卡謝維奇
 ---
+
 # [[Ignacy_Łukasiewicz]] 
 
 #is_/same_as :: [[WD~Ignacy_Łukasiewicz,28978]] 

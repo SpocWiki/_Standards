@@ -386,6 +386,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Saint-PierreEtMiquelon
 location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Pierre%20and%20Miquelon-CIA%20WFB%20Map.png
 Unicode_character: 🇵🇲
 ---
+
 # [[Saint-Pierre-et-Miquelon]] 🇵🇲 
 
 

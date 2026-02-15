@@ -125,6 +125,7 @@ aliases:
 - 海底山
 - 해산
 ---
+
 # [[Seamount]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Seamount,503269|WD~Seamount,503269]]  

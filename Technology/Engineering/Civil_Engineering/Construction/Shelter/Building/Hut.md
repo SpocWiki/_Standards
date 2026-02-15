@@ -139,6 +139,7 @@ aliases:
 - 오두막
 Unicode_character: 🛖
 ---
+
 # [[Hut]] 🛖 
 
 

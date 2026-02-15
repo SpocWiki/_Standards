@@ -83,6 +83,7 @@ dv_has_:
     yue: 經驗開放度
     zh: 经验开放性
 ---
+
 # [[Big5~O-Openness]] 
 
 #is_/part_of :: [[../Personality~Big5]] 

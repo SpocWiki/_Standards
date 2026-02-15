@@ -171,6 +171,7 @@ dv_has_:
     zh_tw: 糖解作用
     zu: I-Glycolysis
 ---
+
 # [[Glycolysis]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Glycolytic_process,162643|WD~Glycolytic_process,162643]] 

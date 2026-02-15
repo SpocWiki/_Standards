@@ -166,6 +166,7 @@ dv_has_:
     zh_tw: 簡單機械
     zu: INguxa elula
 ---
+
 # [[Simple_Machine]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Simple_machine,186713|WD~Simple_machine,186713]] 

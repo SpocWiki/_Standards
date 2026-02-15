@@ -223,6 +223,7 @@ dv_has_:
     zh_sg: 亚历西斯·德·托克维尔
     zh_tw: 亞歷西斯·德·托克維爾
 ---
+
 # [[Tocqueville,Alexis_de]] 
 
 #has_/time_/started :: 1805-07-29 

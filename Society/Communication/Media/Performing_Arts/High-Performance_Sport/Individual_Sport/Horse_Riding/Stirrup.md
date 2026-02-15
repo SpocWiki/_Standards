@@ -152,6 +152,7 @@ dv_has_:
     zh_sg: 镫
     zh_tw: 鐙
 ---
+
 # [[Stirrup]] 
 
 #is_/same_as :: [[WD~Stirrup,191657]] 

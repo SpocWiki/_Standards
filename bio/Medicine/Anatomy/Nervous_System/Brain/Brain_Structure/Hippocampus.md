@@ -228,6 +228,7 @@ aliases:
 - ꯏꯁꯤꯡ ꯁꯀꯣꯜ
 - 해마
 ---
+
 # [[Hippocampus]] 
 
 #is_/same_as :: [[WikiData/WD~Hippocampus,74363|WD~Hippocampus,74363]] 

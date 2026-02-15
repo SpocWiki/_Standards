@@ -249,6 +249,7 @@ dv_has_:
     zh_sg: 护理学
     zh_tw: 護理學
 ---
+
 # [[Nursing]] 👨⚕️ 
 
 Class of all nursing Processes.

@@ -109,6 +109,7 @@ aliases:
 - 规制
 - 규제
 ---
+
 # [[Regulation]] 
 
 #is_/same_as :: [[Regulation,]]

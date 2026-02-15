@@ -205,6 +205,7 @@ dv_has_:
     zh_sg: 结合律
     zh_tw: 結合律
 ---
+
 # [[associative]] 
 
 ## Associativity => linear Structure 

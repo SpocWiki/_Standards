@@ -228,6 +228,7 @@ dv_has_:
     zh_hant: 積體電路
     zh_tw: 積體電路
 ---
+
 # [[Integrated_Circuit]] 
 
 #is_/same_as :: [[WikiData/WD~Integrated_circuit,80831|WD~Integrated_circuit,80831]] 

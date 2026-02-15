@@ -328,6 +328,7 @@ aliases:
 - ꯀꯓꯈ ꯂꯣꯟ
 - 카자흐어
 ---
+
 # [[Lang-kaz]] 
 
 #is_/same_as :: [[WD~Kazakh,9252]] 

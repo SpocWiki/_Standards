@@ -437,6 +437,7 @@ dv_is_same_as:
 - '[[/_secret/schema-org/Class/is_a_/Event.secret|Event.secret]]'
 dv_is_similar_to: '[[Event(computing)]]'
 ---
+
 # [[Event]] 
 
 Class of all events.

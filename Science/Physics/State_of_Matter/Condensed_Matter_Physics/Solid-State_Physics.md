@@ -145,6 +145,7 @@ dv_has_:
     zh_hant: 固體物理學
     zh_hk: 固體物理學
 ---
+
 # [[Solid-State_Physics]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Solid-state_physics,715396|WD~Solid-state_physics,715396]]  

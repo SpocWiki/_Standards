@@ -380,6 +380,7 @@ dv_has_:
     zh: 欧内斯特·卢瑟福
     zh_tw: 歐尼斯特·拉塞福
 ---
+
 # [[Rutherford,Ernest]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Ernest_Rutherford,9123|WD~Ernest_Rutherford,9123]] 

@@ -238,6 +238,7 @@ dv_has_:
     zh_sg: 欧内斯特·劳伦斯
     zh_tw: 歐內斯特·勞倫斯
 ---
+
 # [[Lawrence,Ernest]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Ernest_Lawrence,169577|WD~Ernest_Lawrence,169577]] 

@@ -226,6 +226,7 @@ dv_is_same_as:
 - '[[/_personal/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Crab_Nebula.personal|Crab_Nebula.personal]]'
 - '[[/_secret/Astronomy/Star/Star~Class/Stellar_Evolution/Supernova/Crab_Nebula.secret|Crab_Nebula.secret]]'
 ---
+
 # [[Crab_Nebula]] 
 
 has_creator = `=this.dv_has_creator` 

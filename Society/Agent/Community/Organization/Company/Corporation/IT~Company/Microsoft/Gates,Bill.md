@@ -382,6 +382,7 @@ dv_has_:
     zh_hk: 比爾蓋茨
     zh_tw: 比爾·蓋茨
 ---
+
 # [[Gates,Bill]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Bill_Gates,5284|WD~Bill_Gates,5284]] 

@@ -213,6 +213,7 @@ dv_has_:
     zh_sg: 杜鲁福
     zh_tw: 佛杭蘇瓦·楚浮
 ---
+
 # [[Truffaut,François]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~François_Truffaut,53002|WD~François_Truffaut,53002]] 

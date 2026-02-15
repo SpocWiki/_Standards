@@ -219,6 +219,7 @@ dv_has_:
     zh_hans: 牦牛
     zh_tw: 野牦牛
 ---
+
 # [[Wild_Yak]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../WikiData/WD~Bos_mutus,26547|WD~Bos_mutus,26547]] 

@@ -246,6 +246,7 @@ dv_has_:
     zh_hant: 朝鮮半島
     zh_hk: 朝鮮半島
 ---
+
 # [[Korean_Peninsula]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Korean_Peninsula,483134|WD~Korean_Peninsula,483134]] 

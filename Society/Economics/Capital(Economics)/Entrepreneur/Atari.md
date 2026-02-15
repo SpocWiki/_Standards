@@ -92,6 +92,7 @@ dv_has_:
     wuu: 雅达利公司
     zh: 雅达利有限公司
 ---
+
 # [[Atari]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~Atari,_Inc.,13409231]] 

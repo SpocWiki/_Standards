@@ -116,6 +116,7 @@ aliases:
 - 革蘭氏陰性菌
 - 그람 음성균
 ---
+
 # [[Gram-negative]] 
 
 #has_/complement :: [[Gram-positive]]

@@ -64,6 +64,7 @@ dv_has_:
     vec: pienesa
     zh: 飽足感
 ---
+
 # [[Satiation]]  
 
 ## #has_/text_of_/abstract 

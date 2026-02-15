@@ -103,6 +103,7 @@ dv_has_:
     zh_sg: 开明专制
     zh_tw: 開明專制
 ---
+
 # [[Enlightened_Absolutism]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Enlightened_absolutism,219934|WD~Enlightened_absolutism,219934]] 

@@ -49,6 +49,7 @@ aliases:
 - 水苏糖
 - 스타키오스
 ---
+
 # [[Stachyose]]  
 
 ## #has_/text_of_/abstract 

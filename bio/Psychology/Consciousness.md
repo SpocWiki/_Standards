@@ -235,6 +235,7 @@ aliases:
 - 意识
 - 의식
 ---
+
 # [[Consciousness]] 
 
 #is_/same_as :: [[../../WikiData/WD~Consciousness,7087|WD~Consciousness,7087]] 

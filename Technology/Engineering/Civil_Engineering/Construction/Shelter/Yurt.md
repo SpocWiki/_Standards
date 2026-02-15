@@ -162,6 +162,7 @@ dv_has_:
     zh_hans: 蒙古包
     zh_hant: 蒙古包
 ---
+
 # [[Yurt]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Yurt,15680|WD~Yurt,15680]]  

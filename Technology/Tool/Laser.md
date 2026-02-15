@@ -219,6 +219,7 @@ dv_has_:
     zh-tw: 雷射器
     zu: IsiCwazi
 ---
+
 # [[Laser]] 
 
 #is_/same_as :: [[../../WikiData/WD~Laser,38867|WD~Laser,38867]] 

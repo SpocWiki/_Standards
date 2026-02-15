@@ -173,6 +173,7 @@ dv_has_:
     yue: 鞣酸
     zh: 鞣酸
 ---
+
 # [[Tannic_Acid]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Tannic_acid,427956|WD~Tannic_acid,427956]]  

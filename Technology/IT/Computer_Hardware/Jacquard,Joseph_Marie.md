@@ -131,6 +131,7 @@ dv_has_:
     zh_sg: 约瑟夫·马里·雅卡尔
     zh_tw: 約瑟夫·馬里·雅卡爾
 ---
+
 # [[Jacquard,Joseph_Marie]] 
 
 #has_/created :: [[Jacquard_Machine]] 

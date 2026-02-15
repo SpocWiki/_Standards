@@ -175,6 +175,7 @@ dv_has_:
     yue: 笛卡兒坐標系統
     zh: 笛卡尔坐标系
 ---
+
 # [[Cartesian_Coordinate_System]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Cartesian_coordinate_system,62912|WD~Cartesian_coordinate_system,62912]] 

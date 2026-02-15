@@ -145,6 +145,7 @@ dv_has_:
     zh_sg: 材料力学
     zh_tw: 材料力學
 ---
+
 # [[Strength_of_Material]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Strength_of_materials,240553|WD~Strength_of_materials,240553]]  

@@ -151,6 +151,7 @@ dv_has_:
     zh_sg: 12族元素
     zh_tw: 12族元素
 ---
+
 # [[Group-12-Zinc]] 
 
 #chemic/Group 

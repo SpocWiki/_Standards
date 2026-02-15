@@ -141,6 +141,7 @@ aliases:
 - 恒星時
 - 항성시
 ---
+
 # [[Sidereal_Time]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Sidereal_time,191747|WD~Sidereal_time,191747]]  

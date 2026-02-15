@@ -205,6 +205,7 @@ dv_has_:
     zh: 修辞学
     zh_hant: 修辭學
 ---
+
 # [[Rhetoric]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Rhetoric,81009|WD~Rhetoric,81009]]  

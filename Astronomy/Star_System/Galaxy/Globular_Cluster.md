@@ -182,6 +182,7 @@ dv_has_:
     yue: 球狀星團
     zh: 球狀星團
 ---
+
 # [[Globular_Cluster]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Globular_cluster,11276|WD~Globular_cluster,11276]] 

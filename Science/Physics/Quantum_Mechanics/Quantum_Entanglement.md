@@ -176,6 +176,7 @@ dv_has_:
     zh_tw: 量子纏結
     zu: Ukuphixana kohoyana
 ---
+
 # [[Quantum_Entanglement]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Quantum_entanglement,215675|WD~Quantum_entanglement,215675]]  

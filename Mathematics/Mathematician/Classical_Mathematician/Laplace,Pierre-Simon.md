@@ -302,6 +302,7 @@ dv_has_:
     zh: 皮埃爾·西蒙·拉普拉斯
     zh_tw: 皮耶-西蒙·拉普拉斯
 ---
+
 # [[Laplace,Pierre-Simon]] 
 
 #is_/same_as :: [[WD~Pierre-Simon_Laplace,44481]] 

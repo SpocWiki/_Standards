@@ -142,6 +142,7 @@ aliases:
 - 收藏
 - 수집
 ---
+
 # [[Collecting]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~collecting_hobby,12051052]] 

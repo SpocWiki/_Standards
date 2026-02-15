@@ -253,6 +253,7 @@ dv_has_:
     zh_sg: 集体安全条约组织
     zh_tw: 集體安全條約組織
 ---
+
 # [[CSTO(Collective_Security_Treaty_Organization)]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Collective_Security_Treaty_Organization,318693|WD~Collective_Security_Treaty_Organization,318693]] 

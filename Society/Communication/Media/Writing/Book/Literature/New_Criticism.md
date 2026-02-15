@@ -82,6 +82,7 @@ dv_has_:
     zh_hant: 新批評
     zh_hk: 新批評
 ---
+
 # [[New_Criticism]] 
 
 #is_/same_as :: [[WD~New_Criticism,742302]] 

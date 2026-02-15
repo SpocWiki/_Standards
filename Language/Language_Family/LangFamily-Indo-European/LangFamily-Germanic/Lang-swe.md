@@ -545,6 +545,7 @@ dv_has_:
     zh_tw: 瑞典語
     zu: IsiSwidishi
 ---
+
 # [[Lang-swe]]
 
 #is_/same_as :: [[WD~Swedish,9027]] 

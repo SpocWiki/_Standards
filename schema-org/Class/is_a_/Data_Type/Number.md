@@ -470,6 +470,7 @@ dv_is_same_as:
 - '[[/_personal/schema-org/Class/is_a_/Data_Type/Number.personal|Number.personal]]'
 - '[[/_secret/schema-org/Class/is_a_/Data_Type/Number.secret|Number.secret]]'
 ---
+
 # [[Number]] 
 
 Class of all numbers: [[Number/Float|Float]] and [[Number/Integer|Integer]] 

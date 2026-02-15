@@ -260,6 +260,7 @@ dv_has_:
     zh_sg: 尤金·维格纳
     zh_tw: 尤金·維格納
 ---
+
 # [[Wigner,Eugene]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Eugene_Wigner,155790|WD~Eugene_Wigner,155790]] 

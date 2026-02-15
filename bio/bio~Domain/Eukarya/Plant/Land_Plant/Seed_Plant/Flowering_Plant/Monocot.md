@@ -193,6 +193,7 @@ dv_has_:
     yue: 單子葉植物
     zh: 單子葉植物
 ---
+
 # [[Monocot]] 
 
 ![Amorphophallus](Monocot/AmorphophallusF.jpg)  ![Hosta plantaginea](Monocot/Hosta_plantaginea.jpg)  ![Pandanus](Monocot/Pandanus.jpg) 

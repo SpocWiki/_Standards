@@ -341,6 +341,7 @@ dv_has_:
     zgh: ⴰⵙⴼⴰⵢⵍⵓ ⵏ ⵓⴳⴰⴼⴰ
     zh: 北極點
 ---
+
 # [[North_Pole]] 
 
 #is_/same_as :: [[../../../WikiData/WD~North_Pole,934|WD~North_Pole,934]] 

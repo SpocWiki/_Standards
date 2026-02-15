@@ -117,6 +117,7 @@ dv_has_:
     zh_sg: 大地艺术
     zh_tw: 大地藝術
 ---
+
 # [[Land_Art]] 
 
 #is_/same_as :: [[WD~Land_art,326478]] 

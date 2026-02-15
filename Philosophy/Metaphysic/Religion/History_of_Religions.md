@@ -130,6 +130,7 @@ dv_has_:
     zh_hant: 宗教史
     zh_tw: 宗教史
 ---
+
 # [[History_of_Religions]] 
 
 #is_/same_as :: [[../../../WikiData/WD~History_of_religions,846742|WD~History_of_religions,846742]] 

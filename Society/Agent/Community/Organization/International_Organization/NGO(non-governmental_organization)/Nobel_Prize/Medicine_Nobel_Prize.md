@@ -124,6 +124,7 @@ dv_has_:
     za: Nobel sengleixhag hoh ywhag ciengj
     zh: 諾貝爾生理學或醫學獎得主列表
 ---
+
 # [[Medicine_Nobel_Prize]]  
 
 ## #has_/text_of_/abstract 

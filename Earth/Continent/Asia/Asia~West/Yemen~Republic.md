@@ -748,6 +748,7 @@ official_name: الجمهورية اليمنية
 native_label: الجمهوريّة اليمنية
 Unicode_character: 🇾🇪
 ---
+
 # [[Yemen~Republic]] 🇾🇪 
 
 

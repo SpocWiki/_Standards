@@ -36,6 +36,7 @@ aliases:
 - シュードモナス界
 - 假单胞菌界
 ---
+
 # [[Pseudomonadati]] 
 
 

@@ -150,6 +150,7 @@ dv_has_:
     zh_sg: 熵
     zh_tw: 資訊熵
 ---
+
 # [[Information_Entropy]] 
 
 #is_/same_as :: [[WikiData/WD~Information_entropy,204570|WD~Information_entropy,204570]] 

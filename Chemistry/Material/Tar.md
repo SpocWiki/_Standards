@@ -153,6 +153,7 @@ aliases:
 - 焦油
 - 타르
 ---
+
 # [[Tar]] 
 
 is_similar_to = `=this.dv_is_similar_to` 

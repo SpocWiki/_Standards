@@ -164,6 +164,7 @@ dv_has_:
     zh_sg: 热力学第二定律
     zh_tw: 熱力學第二定律
 ---
+
 # [[Second_Law_of_Thermodynamics]] 
 
 #is_/same_as :: [[WD~Second_law_of_thermodynamics,177045]] 

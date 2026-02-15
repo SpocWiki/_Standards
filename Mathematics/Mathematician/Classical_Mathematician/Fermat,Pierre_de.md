@@ -226,6 +226,7 @@ dv_has_:
     zh: 皮埃爾·德·費馬
     zh_hans: 皮埃尔·德·费马
 ---
+
 # [[Fermat,Pierre_de]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Pierre_de_Fermat,75655|WD~Pierre_de_Fermat,75655]] 

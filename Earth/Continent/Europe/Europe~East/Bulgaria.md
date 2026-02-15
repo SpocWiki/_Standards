@@ -984,6 +984,7 @@ VAT_rate:
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Bulgaria,7112213]]"
 WIPO_ST_3: BG
 ---
+
 # [[Bulgaria]] 🇧🇬 has Properties... 
 
 has_number_of_people = `=this.dv_has_number_of_people`

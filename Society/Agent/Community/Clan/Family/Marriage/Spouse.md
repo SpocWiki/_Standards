@@ -356,6 +356,7 @@ dv_has_:
     zh_hk: 配偶
     zh_tw: 配偶
 ---
+
 # [[Spouse]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Spouse,1196129|WD~Spouse,1196129]] 

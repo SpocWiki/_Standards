@@ -50,6 +50,7 @@ aliases:
 - 指弹吉他
 - 핑거스타일
 ---
+
 # [[Fingerstyle_Guitar]]  
 
 ## #has_/text_of_/abstract 

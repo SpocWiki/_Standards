@@ -411,6 +411,7 @@ dv_has_:
     zh_sg: 政党
     zh_tw: 政黨
 ---
+
 # [[Political_Party]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Political_party,7278|WD~Political_party,7278]] 

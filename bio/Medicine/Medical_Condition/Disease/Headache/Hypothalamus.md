@@ -156,6 +156,7 @@ aliases:
 - 視床下部
 - 시상하부
 ---
+
 # [[Hypothalamus]]  
 
 ## #has_/text_of_/abstract 

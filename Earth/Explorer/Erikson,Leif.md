@@ -217,6 +217,7 @@ dv_has_:
     zh: 萊夫·埃里克松
     zh_hant: 萊夫·艾瑞克森
 ---
+
 # [[Erikson,Leif]] 
 
 #is_/same_as :: [[WD~Leif_Erikson,42838]] 

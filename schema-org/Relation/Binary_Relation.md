@@ -198,6 +198,7 @@ dv_has_:
     zh_sg: 二元关系
     zh_tw: 二元關係
 ---
+
 # [[Binary_Relation]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~binary_relation,130901]]

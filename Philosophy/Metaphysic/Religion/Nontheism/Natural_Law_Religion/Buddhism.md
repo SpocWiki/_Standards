@@ -483,6 +483,7 @@ dv_has_:
     zh_tw: 佛教
     zu: UbuBudha
 ---
+
 # [[Buddhism]] ☸︎ 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Buddhism,748|WD~Buddhism,748]] 

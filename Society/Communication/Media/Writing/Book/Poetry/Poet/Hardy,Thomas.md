@@ -216,6 +216,7 @@ dv_has_:
     zh_sg: 托马斯·哈代
     zh_tw: 湯瑪斯·哈代
 ---
+
 # [[Hardy,Thomas]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Thomas_Hardy,132805|WD~Thomas_Hardy,132805]] 

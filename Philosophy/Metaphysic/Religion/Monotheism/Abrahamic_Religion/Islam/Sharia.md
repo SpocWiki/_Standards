@@ -256,6 +256,7 @@ dv_has_:
     zh_sg: 回教法
     zh_tw: 回教法
 ---
+
 # [[Sharia]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Sharia,482752|WD~Sharia,482752]]  

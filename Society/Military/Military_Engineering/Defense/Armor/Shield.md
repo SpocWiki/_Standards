@@ -222,6 +222,7 @@ dv_has_:
     zh_tw: 盾
 Unicode_character: 🛡
 ---
+
 # [[Shield]] 🛡 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Shield,131559|WD~Shield,131559]] 

@@ -167,6 +167,7 @@ dv_has_:
     zh_sg: 泡利不相容原理
     zh_tw: 包立不相容原理
 ---
+
 # [[Pauli_Exclusion_Principle]] 
 
 #is_/same_as :: [[WD~Pauli_exclusion_principle,131594]] 

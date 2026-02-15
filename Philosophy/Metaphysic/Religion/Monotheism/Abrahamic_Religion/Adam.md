@@ -322,6 +322,7 @@ dv_has_:
     zh_hk: 亞當
     zh_tw: 亞當
 ---
+
 # [[Adam]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Adam,70899]] 

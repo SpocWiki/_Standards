@@ -123,6 +123,7 @@ dv_has_:
     zh_hant: 國際數學聯盟
     zh_hk: 國際數學聯盟
 ---
+
 # [[International_Mathematical_Union]] 
 
 #is_/same_as :: [[WD~International_Mathematical_Union,828490]] 

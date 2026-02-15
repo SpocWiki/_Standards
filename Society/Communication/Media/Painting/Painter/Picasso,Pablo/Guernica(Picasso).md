@@ -156,6 +156,7 @@ dv_has_:
     zh_sg: 格尔尼卡
     zh_tw: 格爾尼卡
 ---
+
 # [[Guernica(Picasso)]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Guernica,175036|WD~Guernica,175036]] 

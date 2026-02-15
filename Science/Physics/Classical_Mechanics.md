@@ -245,6 +245,7 @@ dv_has_:
     zh_hans: 经典力学
     zh_hant: 經典力學
 ---
+
 # [[Classical_Mechanics]] 
 
 #is_/same_as :: [[../../WikiData/WD~Classical_mechanics,11397|WD~Classical_mechanics,11397]] 

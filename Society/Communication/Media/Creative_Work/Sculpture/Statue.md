@@ -255,6 +255,7 @@ dv_has_:
     zh_sg: 塑像
     zh_tw: 塑像
 ---
+
 # [[Statue]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~statue,179700]] 

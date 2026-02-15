@@ -56,6 +56,7 @@ dv_has_:
     uk: трансавангард
     zh: 超前衛藝術
 ---
+
 # [[Transavantgarde]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Transavantgarde,224885|WD~Transavantgarde,224885]]  

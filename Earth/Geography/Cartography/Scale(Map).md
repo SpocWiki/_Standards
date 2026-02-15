@@ -163,6 +163,7 @@ dv_has_:
     yue: 比例尺
     zh: 比例尺
 ---
+
 # [[Scale(Map)]] 
 
 #is_/same_as :: [[WD~Scale,193642]] 

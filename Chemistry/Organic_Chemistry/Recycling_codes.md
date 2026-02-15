@@ -71,6 +71,7 @@ aliases:
 - リサイクルコード
 - 國際通用資源回收編碼
 ---
+
 # [[Recycling_codes]]  
 
 ## #has_/text_of_/abstract 

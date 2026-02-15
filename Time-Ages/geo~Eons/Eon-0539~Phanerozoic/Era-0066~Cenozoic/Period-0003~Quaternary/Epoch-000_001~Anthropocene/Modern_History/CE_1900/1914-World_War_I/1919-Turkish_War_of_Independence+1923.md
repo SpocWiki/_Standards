@@ -188,6 +188,7 @@ dv_has_:
     zh-sg: 土耳其独立战争
     zh-tw: 土耳其獨立戰爭
 ---
+
 # [[1919-Turkish_War_of_Independence+1923]] 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Turkish_War_of_Independence,234738|WD~Turkish_War_of_Independence,234738]]  

@@ -157,6 +157,7 @@ dv_has_:
     zh_sg: 常数
     zh_tw: 常數
 ---
+
 # [[Constant]] 
 
 #is_/same_as :: [[../../WikiData/WD~Constant,188248|WD~Constant,188248]] 

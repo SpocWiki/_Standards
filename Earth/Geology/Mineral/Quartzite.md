@@ -148,6 +148,7 @@ dv_has_:
     zh_sg: 石英岩
     zh_tw: 石英岩
 ---
+
 # [[Quartzite]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Quartzite,237883|WD~Quartzite,237883]]  

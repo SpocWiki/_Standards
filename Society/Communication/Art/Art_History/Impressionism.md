@@ -217,6 +217,7 @@ dv_has_:
     zh_hant: 印象派
     zh_tw: 印象派
 ---
+
 # [[Impressionism]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Impressionism,40415|WD~Impressionism,40415]] 

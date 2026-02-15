@@ -256,6 +256,7 @@ dv_has_:
     zh_tw: 豆類
     zu: ubhontshisi
 ---
+
 # [[Bean]] 🫘 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../WikiData/WD~Bean,379813|WD~Bean,379813]] 

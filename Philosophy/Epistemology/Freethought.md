@@ -142,6 +142,7 @@ dv_has_:
     vi: tư tưởng tự do
     zh: 自由思想
 ---
+
 # [[Freethought]] 
 
 #is_/same_as :: [[../../WikiData/WD~Freethought,210115|WD~Freethought,210115]] 

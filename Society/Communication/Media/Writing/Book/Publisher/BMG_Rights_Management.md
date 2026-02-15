@@ -57,6 +57,7 @@ aliases:
 - 貝塔斯曼唱片
 - 贝塔斯曼唱片
 ---
+
 # [[BMG_Rights_Management]]  
 
 #is_a :: [[../../../../../Agent/Community/Organization/Company/Corporation|Corporation]] 

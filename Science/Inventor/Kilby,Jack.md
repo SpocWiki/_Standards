@@ -199,6 +199,7 @@ dv_has_:
     zh_sg: 杰克·基尔比
     zh_tw: 傑克·基爾比
 ---
+
 # [[Kilby,Jack]] 
 
 #is_/same_as :: [[WD~Jack_Kilby,182031]]

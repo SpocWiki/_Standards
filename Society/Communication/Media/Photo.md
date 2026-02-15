@@ -241,6 +241,7 @@ aliases:
 - 相片
 - 사진
 ---
+
 # [[Photo]]  
 
 ## #has_/text_of_/abstract 

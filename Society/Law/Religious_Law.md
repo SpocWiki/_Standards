@@ -118,6 +118,7 @@ dv_has_:
     yue: 宗教法
     zh: 宗教法
 ---
+
 # [[Religious_Law]] 
 
 #is_/same_as :: [[WD~Religious_law,670732]] 

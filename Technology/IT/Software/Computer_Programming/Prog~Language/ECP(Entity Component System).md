@@ -29,6 +29,7 @@ aliases:
 - 实体-组件-系统
 - 實體-元件-系統
 ---
+
 # [[ECP(Entity Component System)]] 
 
 #is_/same_as :: [[WD~Entity_component_system,]] 

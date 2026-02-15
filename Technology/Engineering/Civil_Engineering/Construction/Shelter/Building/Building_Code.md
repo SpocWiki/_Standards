@@ -95,6 +95,7 @@ dv_has_:
     zh_hans: 建筑规范
     zh_hant: 建築規範
 ---
+
 # [[Building_Code]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Building_code,2333573|WD~Building_code,2333573]] 

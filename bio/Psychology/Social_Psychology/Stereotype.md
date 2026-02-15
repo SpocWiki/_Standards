@@ -181,6 +181,7 @@ dv_has_:
     zh_sg: 刻板印象
     zh_tw: 刻板印象
 ---
+
 # [[Stereotype]] 
 
 #is_/same_as :: [[WD~Stereotype,167172]] 

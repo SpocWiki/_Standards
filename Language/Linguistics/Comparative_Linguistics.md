@@ -139,6 +139,7 @@ dv_has_:
     zh: 比较语言学
     zh_hant: 比較語言學
 ---
+
 # [[Comparative_Linguistics]] 
 
 #is_/same_as :: [[../../WikiData/WD~Comparative_linguistics,878226|WD~Comparative_linguistics,878226]] 

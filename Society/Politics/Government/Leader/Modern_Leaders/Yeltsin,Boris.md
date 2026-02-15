@@ -355,6 +355,7 @@ dv_has_:
     zh_hans: 鲍里斯·叶利钦
     zh_hant: 鮑利斯·葉爾欽
 ---
+
 # [[Yeltsin,Boris]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Boris_Yeltsin,34453|WD~Boris_Yeltsin,34453]] 

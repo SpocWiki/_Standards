@@ -760,6 +760,7 @@ dv_is_different_from: '[[../America~Caribbean/Greater_Antilles/Puerto_Rico|Puert
 dv_has_url_for_code_repository: https://github.com/SpocWiki/America-Costa_Rica
 Unicode_character: 🇨🇷
 ---
+
 # [[Costa_Rica]] 🇨🇷 
 
 

@@ -204,6 +204,7 @@ aliases:
 - 萬有引力定律
 - 만유인력의 법칙
 ---
+
 # [[Newton's_Law_of_universal_Gravitation]] 
 
 #is_/same_as :: [[WD~Newton's_law_of_universal_gravitation,134465]] 

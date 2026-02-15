@@ -131,6 +131,7 @@ aliases:
 - 重力子
 - 중력자
 ---
+
 # [[Graviton]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Graviton,103585|WD~Graviton,103585]] 

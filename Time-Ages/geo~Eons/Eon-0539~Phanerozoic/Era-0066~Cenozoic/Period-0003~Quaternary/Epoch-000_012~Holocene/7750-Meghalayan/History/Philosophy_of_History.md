@@ -187,6 +187,7 @@ dv_has_:
     zh-sg: 历史哲学
     zh-tw: 歷史哲學
 ---
+
 # [[Philosophy_of_History]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Philosophy_of_history,190721|WD~Philosophy_of_history,190721]] 

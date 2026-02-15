@@ -195,6 +195,7 @@ dv_has_:
     zea: Ole Einar Bjørndalen
     zh: 奥勒·埃纳尔·比约恩达伦
 ---
+
 # [[Bjørndalen,Ole_Einar]] 
 
 #is_/same_as :: [[WD~Ole_Einar_Bjørndalen,189408]] 

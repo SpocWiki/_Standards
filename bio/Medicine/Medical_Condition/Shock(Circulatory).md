@@ -169,6 +169,7 @@ dv_has_:
     zh_sg: 休克
     zh_tw: 休克
 ---
+
 # [[Shock(Circulatory)]] 
 
 #is_/same_as :: [[WD~Shock,178061]] 

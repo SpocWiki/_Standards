@@ -198,6 +198,7 @@ dv_has_:
     zh_sg: 疗法
     zh_tw: 療法
 ---
+
 # [[Therapy]] 
 
 #is_/same_as :: [[WD~Medical_treatment,179661]] 

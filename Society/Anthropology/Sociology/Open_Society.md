@@ -125,6 +125,7 @@ dv_has_:
     zh_hant: 開放社會
     zh_hk: 開放社會
 ---
+
 # [[Open_Society]] 
 
 #is_/same_as :: [[WD~Open_society,505605]] 

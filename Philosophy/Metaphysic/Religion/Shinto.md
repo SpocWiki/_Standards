@@ -311,6 +311,7 @@ dv_has_:
     zh_hant: 神道教
     zh_hk: 神道
 ---
+
 # [[Shinto]] 
 
 #is_/same_as :: [[WD~Shinto,812767]] 

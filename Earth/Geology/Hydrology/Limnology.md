@@ -172,6 +172,7 @@ aliases:
 - 륙수학
 - 육수학
 ---
+
 # [[Limnology]] 
 
 #is_/same_as :: [[WD~Limnology,165838]] 

@@ -221,6 +221,7 @@ dv_has_:
     zh_sg: 交流电
     zh_tw: 交流電
 ---
+
 # [[Alternating_Current]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Alternating_current,124164]] 

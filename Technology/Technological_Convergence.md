@@ -81,6 +81,7 @@ dv_has_:
     zh: 技術融合
     zh_cn: 技术融合
 ---
+
 # [[Technological_Convergence]] 
 
 #is_/same_as :: [[../WikiData/WD~Technological_convergence,2207328|WD~Technological_convergence,2207328]]  

@@ -81,6 +81,7 @@ dv_has_:
     yue: 洞察
     zh: 洞察力
 ---
+
 # [[Insight]] 
 
 #is_/better_than :: [[Epistemology/Knowledge|Knowledge]] 

@@ -128,6 +128,7 @@ dv_has_:
     zh_sg: 谐振子
     zh_tw: 諧振子
 ---
+
 # [[Harmonic_Oscillator]] 
 
 #is_/same_as :: [[WikiData/WD~Harmonic_oscillator,190070|WD~Harmonic_oscillator,190070]] 

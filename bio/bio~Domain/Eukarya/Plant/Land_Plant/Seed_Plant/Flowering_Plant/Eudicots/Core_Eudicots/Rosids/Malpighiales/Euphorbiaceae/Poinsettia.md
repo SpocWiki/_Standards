@@ -203,6 +203,7 @@ dv_has_:
     zh_sg: 一品红
     zh_tw: 聖誕紅
 ---
+
 # [[Poinsettia]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Euphorbia_pulcherrima,208253|WD~Euphorbia_pulcherrima,208253]] 

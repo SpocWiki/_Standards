@@ -135,6 +135,7 @@ dv_has_:
     zh_sg: 康塔塔
     zh_tw: 清唱劇
 ---
+
 # [[Cantata]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Cantata,174873|WD~Cantata,174873]] 

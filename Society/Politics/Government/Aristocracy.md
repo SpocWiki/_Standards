@@ -181,6 +181,7 @@ aliases:
 - 贵族政治
 - 귀족제
 ---
+
 # [[Aristocracy]] 
 
 ## #has_/text_of_/abstract 

@@ -73,6 +73,7 @@ aliases:
 - 甲錫烷
 - 甲锡烷
 ---
+
 # [[Stannane]] 
 
 is_similar_to = `=this.dv_is_similar_to` 

@@ -136,6 +136,7 @@ dv_has_:
     zh_sg: 欧洲联盟经济暨货币联盟
     zh_tw: 歐洲聯盟經濟暨貨幣聯盟
 ---
+
 # [[Economic_and_Monetary_Union_of_the_European_Union]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Economic_and_Monetary_Union_of_the_European_Union,212141|WD~Economic_and_Monetary_Union_of_the_European_Union,212141]] 

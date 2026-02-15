@@ -229,6 +229,7 @@ dv_has_:
     zh_tw: 權力
     zu: amandla
 ---
+
 # [[Power(social)]] 
 
 #is_/same_as :: [[WD~Power,25107]] 

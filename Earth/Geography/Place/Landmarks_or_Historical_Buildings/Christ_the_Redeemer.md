@@ -258,6 +258,7 @@ dv_has_:
     zea: Christus de Verlosser
     zh: 里約熱內盧基督像
 ---
+
 # [[Christ_the_Redeemer]] 
 
 ![[../../../../assets/Christ_the_Redeemer.png]] 

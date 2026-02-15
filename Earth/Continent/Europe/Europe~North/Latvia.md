@@ -1022,6 +1022,7 @@ Languages:
 icon: flag-lv
 Unicode_character: 🇱🇻
 ---
+
 # [[Latvia]] 🇱🇻  has Properties... 
 
 For more Details, check out this Repository into this Subfolder: 

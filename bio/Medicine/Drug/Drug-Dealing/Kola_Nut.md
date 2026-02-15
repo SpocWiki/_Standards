@@ -90,6 +90,7 @@ aliases:
 - コーラ・ナッツ
 - 可樂堅果
 ---
+
 # [[Kola_Nut]]  
 
 ## #has_/text_of_/abstract 

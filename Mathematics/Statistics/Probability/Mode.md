@@ -134,6 +134,7 @@ dv_has_:
     zh_sg: 众数
     zh_tw: 眾數
 ---
+
 # [[Mode]] 
 
 #is_/similar_to :: [[Probability/Mean|Mean]] 

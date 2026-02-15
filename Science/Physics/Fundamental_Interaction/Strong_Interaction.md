@@ -220,6 +220,7 @@ dv_has_:
     yue: 強相互作用
     zh: 强相互作用
 ---
+
 # [[Strong_Interaction]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Strong_interaction,11415|WD~Strong_interaction,11415]] 

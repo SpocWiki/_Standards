@@ -79,6 +79,7 @@ aliases:
 - 電晶體收音機
 - 트랜지스터 라디오
 ---
+
 # [[Transistor-Radio]] 
 
 > A transistor radio is a small portable radio receiver that uses [[../../../../../../../../Technology/Engineering/Electrical_Engineering/Electronics/Electronic_Component/Transistor]]-based circuitry. 

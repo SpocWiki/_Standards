@@ -181,6 +181,7 @@ dv_has_:
     yue: 歐洲原子能共同體
     zh: 歐洲原子能共同體
 ---
+
 # [[European_Atomic_Energy_Community]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~European_Atomic_Energy_Community,8919|WD~European_Atomic_Energy_Community,8919]] 

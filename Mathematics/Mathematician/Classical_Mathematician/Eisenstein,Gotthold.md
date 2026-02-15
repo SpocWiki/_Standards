@@ -116,6 +116,7 @@ dv_has_:
     uk: Ґотхольд Ейзенштейн
     zh: 費迪南·艾森斯坦
 ---
+
 # [[Eisenstein,Gotthold]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Gotthold_Eisenstein,61047|WD~Gotthold_Eisenstein,61047]] 

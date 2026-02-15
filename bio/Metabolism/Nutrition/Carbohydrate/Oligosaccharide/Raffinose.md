@@ -68,6 +68,7 @@ aliases:
 - 棉子糖
 - 라피노스
 ---
+
 # [[Raffinose]]  
 
 > **Raffinose** is a trisaccharide composed of galactose, glucose, and fructose. 

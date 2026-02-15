@@ -255,6 +255,7 @@ aliases:
 - 眠夢
 - 꿈
 ---
+
 # [[Dream]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Dream,36348|WD~Dream,36348]]

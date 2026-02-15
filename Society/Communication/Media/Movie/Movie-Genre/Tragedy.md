@@ -197,6 +197,7 @@ dv_has_:
     yue: 悲劇
     zh: 悲劇
 ---
+
 # [[Tragedy]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Tragedy,80930|WD~Tragedy,80930]]  

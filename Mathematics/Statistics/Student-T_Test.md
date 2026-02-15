@@ -88,6 +88,7 @@ aliases:
 - 學生 t 測試
 - 學生t檢驗
 ---
+
 # [[Student-T_Test]] 
 
 #is_/same_as :: [[../../WikiData/WD~Student's_t-test,309479|WD~Student's_t-test,309479]]  

@@ -106,6 +106,7 @@ dv_has_:
     vi: Văn hóa gốm
     zh: 绳纹器文化
 ---
+
 # [[-3000-Corded_Ware_Culture-2350]] 
 
 is_same_as = `=this.dv_is_same_as` 

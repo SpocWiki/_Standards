@@ -178,6 +178,7 @@ dv_has_:
     zh_sg: 偏见
     zh_tw: 偏見
 ---
+
 # [[Prejudice]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Prejudice,179742|WD~Prejudice,179742]]  

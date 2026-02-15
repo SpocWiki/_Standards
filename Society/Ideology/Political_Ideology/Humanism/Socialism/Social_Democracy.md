@@ -247,6 +247,7 @@ dv_has_:
     zh_sg: 社会民主主义
     zh_tw: 社會民主主義
 ---
+
 # [[Social_Democracy]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Social_democracy,121254|WD~Social_democracy,121254]]  

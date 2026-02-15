@@ -242,6 +242,7 @@ dv_has_:
     zh_hant: 化石
     zu: Intshicwa
 ---
+
 # [[Fossil]] 
 
 #is_/same_as :: [[../../WikiData/WD~Fossil,40614|WD~Fossil,40614]] 

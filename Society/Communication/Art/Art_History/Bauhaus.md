@@ -162,6 +162,7 @@ dv_has_:
     zh_sg: 包豪斯
     zh_tw: 包浩斯
 ---
+
 # [[Bauhaus]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Bauhaus,124354|WD~Bauhaus,124354]] 

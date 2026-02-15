@@ -157,6 +157,7 @@ dv_has_:
     zh_sg: 基尔霍夫电路定律
     zh_tw: 克希荷夫電路定律
 ---
+
 # [[Kirchhoff's_Circuit_Laws]] 
 
 #is_/same_as :: [[WD~Kirchhoff's_circuit_laws,187672]] 

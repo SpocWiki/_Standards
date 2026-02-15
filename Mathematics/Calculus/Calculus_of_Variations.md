@@ -141,6 +141,7 @@ dv_has_:
     zh_sg: 变分法
     zh_tw: 變分法
 ---
+
 # [[Calculus_of_Variations]] 
 
 #is_/same_as :: [[../../WikiData/WD~Calculus_of_variations,216861|WD~Calculus_of_variations,216861]] 

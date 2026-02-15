@@ -162,6 +162,7 @@ aliases:
 - 邊緣性人格障礙
 - 경계성 인격장애
 ---
+
 # [[Borderline_Personality_Disorder]] 
 
 #is_/better_than :: [[../Psychosis|Psychosis]] 

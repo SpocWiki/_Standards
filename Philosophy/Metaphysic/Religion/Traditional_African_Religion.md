@@ -122,6 +122,7 @@ dv_has_:
     zh_hans: 非洲传统信仰
     zh_hant: 非洲傳統宗教
 ---
+
 # [[Traditional_African_Religion]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Traditional_African_religion,386498|WD~Traditional_African_religion,386498]]  

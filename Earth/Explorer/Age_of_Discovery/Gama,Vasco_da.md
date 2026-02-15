@@ -320,6 +320,7 @@ dv_has_:
     zh: 瓦斯科·達伽馬
     zh_hk: 華士古·達伽馬
 ---
+
 # [[Gama,Vasco_da]]  
 
 ## #has_/text_of_/abstract 

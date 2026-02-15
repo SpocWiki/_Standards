@@ -158,6 +158,7 @@ dv_has_:
     zh_hans: 逻辑代数
     zh_hant: 布林邏輯
 ---
+
 # [[Boolean_Algebra]] 
 
 #is_/same_as :: [[../../../_Standards/WikiData/WD~Boolean_algebra,173183|WD~Boolean_algebra,173183]] 

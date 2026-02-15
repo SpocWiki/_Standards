@@ -260,6 +260,7 @@ dv_has_:
     zh_hant: 國際特赦組織
     zh_tw: 國際特赦組織
 ---
+
 # [[Amnesty_International]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Amnesty_International,42970|WD~Amnesty_International,42970]] 

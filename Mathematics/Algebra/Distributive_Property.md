@@ -128,6 +128,7 @@ aliases:
 - 分配法則
 - 분배법칙
 ---
+
 # [[Distributive_Property]] 
 
 #is_/same_as :: [[../../WikiData/WD~Distributive_property,187959|WD~Distributive_property,187959]] 

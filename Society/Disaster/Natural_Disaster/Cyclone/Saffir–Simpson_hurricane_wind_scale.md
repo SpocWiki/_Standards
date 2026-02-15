@@ -138,6 +138,7 @@ dv_has_:
     zh_sg: 萨菲尔-辛普森飓风风力等级
     zh_tw: 薩菲爾-辛普森颶風風力等級
 ---
+
 # [[Saffir–Simpson_hurricane_wind_scale]] 
 
 #is_/same_as :: [[WD~Saffir–Simpson_hurricane_wind_scale,205801]] 

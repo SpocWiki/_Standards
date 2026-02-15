@@ -100,6 +100,7 @@ aliases:
 - 星族
 - 항성의 종족
 ---
+
 # [[Star_Population]] 
 
 Metallicity Z: about **1.2–1.4% of the Sun’s mass** consists of elements heavier than H and He.

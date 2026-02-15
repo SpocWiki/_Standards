@@ -208,6 +208,7 @@ dv_has_:
     zh_sg: 国籍
     zh_tw: 國籍
 ---
+
 # [[Nationality]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Nationality,231002|WD~Nationality,231002]]  

@@ -249,6 +249,7 @@ dv_has_:
     zh_sg: 政变
     zh_tw: 政變
 ---
+
 # [[Coup_d'état]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Coup_d'état,45382|WD~Coup_d'état,45382]] 

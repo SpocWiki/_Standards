@@ -142,6 +142,7 @@ aliases:
 - 老虎活士
 - 타이거 우즈
 ---
+
 # [[Tiger_Woods]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Tiger_Woods,10993|WD~Tiger_Woods,10993]]  

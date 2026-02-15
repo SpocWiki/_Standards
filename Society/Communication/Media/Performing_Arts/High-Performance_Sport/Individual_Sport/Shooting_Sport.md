@@ -202,6 +202,7 @@ dv_has_:
     zh_sg: 射击运动
     zh_tw: 射擊運動
 ---
+
 # [[Shooting_Sport]]
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Shooting_sport,206989|WD~Shooting_sport,206989]] 

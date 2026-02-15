@@ -180,6 +180,7 @@ dv_has_:
     yue: 鎖鏈
     zh: 鎖鏈
 ---
+
 # [[Chain]] ⛓ 
 
 #is_/same_as :: [[../../../WikiData/WD~Chain,2397485|WD~Chain,2397485]] 

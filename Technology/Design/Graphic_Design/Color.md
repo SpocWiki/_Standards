@@ -507,6 +507,7 @@ dv_has_:
     zh_tw: 顏色
     zu: Umbala
 ---
+
 # [[Color]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Color,1075|WD~Color,1075]] 

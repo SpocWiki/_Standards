@@ -167,6 +167,7 @@ dv_has_:
     zh_hant: 戒嚴
     zh_hk: 戒嚴
 ---
+
 # [[Martial_Law]] 
 
 #is_/same_as :: [[WD~Martial_law,715625]] 

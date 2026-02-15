@@ -159,6 +159,7 @@ dv_has_:
     zh_sg: 泊松比
     zh_tw: 泊松比
 ---
+
 # [[Poisson's_Ratio]] 
 
 #is_/same_as :: [[WD~Poisson's_ratio,190453]] 

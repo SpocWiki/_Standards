@@ -553,6 +553,7 @@ dv_has_:
     zh_tw: 波斯語
     zu: IsiPheresiya
 ---
+
 # [[Lang-fas]] 
 
 #is_/same_as :: [[WD~Persian,9168]] 

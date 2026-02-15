@@ -243,6 +243,7 @@ aliases:
 - 议会
 - 의회
 ---
+
 # [[Parliament]] 
 
 #is_/same_as :: [[WD~Parliament,35749]] 

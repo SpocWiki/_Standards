@@ -217,6 +217,7 @@ dv_has_:
     zh_hant: 指數化
     zh_tw: 指數化
 ---
+
 # [[Exponentiation]] 
 
 #has_/inverse :: [[Logarithm]] 

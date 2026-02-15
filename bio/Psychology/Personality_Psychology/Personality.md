@@ -199,6 +199,7 @@ dv_has_:
     zh_hant: 人格
     zh_tw: 人格
 ---
+
 # [[Personality]] 
 
 #is_/same_as :: [[WD~Personality,641118]] 

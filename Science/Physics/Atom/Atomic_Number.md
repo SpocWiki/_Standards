@@ -324,6 +324,7 @@ dv_has_:
     zh_hk: 原子序數
     zu: Inani lobuchwe
 ---
+
 # [[Atomic_Number]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Atomic_number,23809|WD~Atomic_number,23809]] 

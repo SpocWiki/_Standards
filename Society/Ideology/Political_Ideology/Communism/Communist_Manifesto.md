@@ -298,6 +298,7 @@ dv_has_:
     zh: 共产党宣言
     zu: Isimemezelo samaKhomanisi
 ---
+
 # [[Communist_Manifesto]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~The_Communist_Manifesto,40591|WD~The_Communist_Manifesto,40591]]  

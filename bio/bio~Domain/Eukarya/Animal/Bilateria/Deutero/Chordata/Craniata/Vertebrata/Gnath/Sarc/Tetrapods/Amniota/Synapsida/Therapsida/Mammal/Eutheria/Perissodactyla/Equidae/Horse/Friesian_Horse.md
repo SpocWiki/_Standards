@@ -107,6 +107,7 @@ dv_has_:
     zh_hans: 弗里西亚马
     zh_hant: 弗里西亞馬
 ---
+
 # [[Friesian_Horse]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Friesian_horse,388952|WD~Friesian_horse,388952]] 

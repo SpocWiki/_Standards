@@ -147,6 +147,7 @@ dv_has_:
     yue: 質數分解
     zh: 算术基本定理
 ---
+
 # [[Fundamental_Theorem_of_Arithmetic]] 
 
 #is_/same_as :: [[../../WikiData/WD~Fundamental_theorem_of_arithmetic,670235|WD~Fundamental_theorem_of_arithmetic,670235]] 

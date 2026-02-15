@@ -211,6 +211,7 @@ dv_has_:
     zh_hans: 摩擦力
     zh_hk: 摩擦力
 ---
+
 # [[Friction]] 
 
 #is_/same_as :: [[WD~Friction,82580]] 

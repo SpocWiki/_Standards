@@ -184,6 +184,7 @@ dv_has_:
     zh_sg: 哈勃–勒梅特定律
     zh_tw: 哈伯–勒梅特定律
 ---
+
 # [[Hubble–Lemaître_Law]] 
 
 #is_/same_as :: [[WikiData/WD~Hubble–Lemaître_law,179916|WD~Hubble–Lemaître_law,179916]] 

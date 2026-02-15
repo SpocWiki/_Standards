@@ -212,6 +212,7 @@ dv_has_:
     yue: 高盧英雄歷險記
     zh: 阿斯泰利克斯历险记
 ---
+
 # [[Asterix]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Asterix,42490|WD~Asterix,42490]] 

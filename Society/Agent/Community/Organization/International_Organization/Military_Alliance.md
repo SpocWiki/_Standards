@@ -143,6 +143,7 @@ dv_has_:
     zh_hant: 軍事同盟
     zh_hk: 軍事同盟
 ---
+
 # [[Military_Alliance]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~military_alliance,1127126]] 

@@ -163,6 +163,7 @@ dv_has_:
     zh: 欧几里得空间
     zh_hant: 歐幾里得空間
 ---
+
 # [[Euclidean_Space]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Euclidean_space,17295|WD~Euclidean_space,17295]] 

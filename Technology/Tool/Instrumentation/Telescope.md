@@ -272,6 +272,7 @@ dv_has_:
     zu: I-telescope
 Unicode_character: 🔭
 ---
+
 # [[Telescope]] 🔭 
 
 #is_/same_as :: [[../../../WikiData/WD~Telescope,4213|WD~Telescope,4213]] 

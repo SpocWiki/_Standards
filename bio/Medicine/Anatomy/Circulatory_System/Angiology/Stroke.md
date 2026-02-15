@@ -315,6 +315,7 @@ dv_has_:
     zh_sg: 中风
     zh_tw: 中風
 ---
+
 # [[Stroke]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Stroke,12202|WD~Stroke,12202]] 

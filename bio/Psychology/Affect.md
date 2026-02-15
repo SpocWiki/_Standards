@@ -123,6 +123,7 @@ dv_has_:
     zh: 情感
     zh_hant: 情感
 ---
+
 # [[Affect]]
 
 #is_/same_as :: [[../../WikiData/WD~affect,159904]] 

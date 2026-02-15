@@ -91,6 +91,7 @@ aliases:
 - ꠙꠞꠟꠉ
 - 프롤로그
 ---
+
 # [[Prog~Prolog]] 
 
 #is_a_/ComputerLanguage 

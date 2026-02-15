@@ -227,6 +227,7 @@ dv_is_same_as:
 - '[[/_personal/Earth/Geology/Mineral/Gemstone/Sapphire.personal|Sapphire.personal]]'
 - '[[/_secret/Earth/Geology/Mineral/Gemstone/Sapphire.secret|Sapphire.secret]]'
 ---
+
 # [[Sapphire]] 
 
 has_formula_ = `=this.dv_has_formula_`

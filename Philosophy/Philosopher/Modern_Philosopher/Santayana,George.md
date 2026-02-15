@@ -168,6 +168,7 @@ dv_has_:
     zh_sg: 乔治·桑塔亚那
     zh_tw: 喬治·桑塔亞那
 ---
+
 # [[Santayana,George]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~George_Santayana,237833]] 

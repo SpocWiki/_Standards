@@ -224,6 +224,7 @@ dv_has_:
     zh_sg: 代议民主制
     zh_tw: 代議民主制
 ---
+
 # [[Representative_Democracy]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Representative_democracy,188759|WD~Representative_democracy,188759]] 

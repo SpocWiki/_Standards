@@ -187,6 +187,7 @@ aliases:
 - 笑话
 - 농담
 ---
+
 # [[Joke]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Joke,131138|WD~Joke,131138]] 

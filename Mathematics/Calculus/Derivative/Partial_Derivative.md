@@ -142,6 +142,7 @@ dv_has_:
     zh_sg: 偏导数
     zh_tw: 偏導數
 ---
+
 # [[Partial_Derivative]] 
 
 #is_/same_as :: [[WD~Partial_derivative,186475]] 

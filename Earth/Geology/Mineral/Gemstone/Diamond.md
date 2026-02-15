@@ -350,6 +350,7 @@ dv_has_:
     zh_tw: 鑽石
 Unicode_character: 💎
 ---
+
 # [[Diamond]] 💎 
 
 #is_/same_as :: [[../../../../WikiData/WD~Diamond,5283|WD~Diamond,5283]] 

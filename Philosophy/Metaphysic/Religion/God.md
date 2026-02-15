@@ -498,6 +498,7 @@ dv_has_:
     zh_tw: 一神教中的神
     zu: UNkulunkulu
 ---
+
 # [[God]] 
 
 #is_/same_as :: [[../../../WikiData/WD~God,190|WD~God,190]] 

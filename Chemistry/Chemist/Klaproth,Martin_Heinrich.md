@@ -114,6 +114,7 @@ dv_is_same_as:
 - '[[/_secret/Chemistry/Chemist/Klaproth,Martin_Heinrich.secret|Klaproth,Martin_Heinrich.secret]]'
 has_id_wikidata: Q160196
 ---
+
 # [[Klaproth,Martin_Heinrich]]  
 
 has_time_started = `=this.dv_has_time_started` 

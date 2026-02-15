@@ -273,6 +273,7 @@ dv_has_:
     yue: 索末菲
     zh: 阿諾·索末菲
 ---
+
 # [[Sommerfeld,Arnold]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Arnold_Sommerfeld,77078|WD~Arnold_Sommerfeld,77078]] 

@@ -385,6 +385,7 @@ dv_has_:
     za: Niels Bohr
     zh: 尼尔斯·玻尔
 ---
+
 # [[Bohr,Niels]] 
 
 #is_/same_as :: [[WD~Niels_Bohr,7085]] 

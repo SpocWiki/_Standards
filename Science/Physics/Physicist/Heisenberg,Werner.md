@@ -347,6 +347,7 @@ dv_has_:
     zh_hant: 維爾納·海森堡
     zh_hk: 華納·海森堡
 ---
+
 # [[Heisenberg,Werner]]  
 
 #is_/same_as :: [[../../../WikiData/WD~Werner_Heisenberg,40904|WD~Werner_Heisenberg,40904]]  

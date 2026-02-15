@@ -522,6 +522,7 @@ dv_has_:
     zh_tw: 眼
     zu: Iso
 ---
+
 # [[Eye]] 👁 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Eye,7364|WD~Eye,7364]] 

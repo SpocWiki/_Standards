@@ -69,6 +69,7 @@ aliases:
 - 贝塔斯曼
 - 베텔스만
 ---
+
 # [[Bertelsmann]]  
 
 #is_a :: [[../../../../../Agent/Community/Organization/Company/Corporation|Corporation]] 

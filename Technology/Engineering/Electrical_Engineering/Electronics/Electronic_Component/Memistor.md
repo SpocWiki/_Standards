@@ -22,6 +22,7 @@ aliases:
 - 儲存電阻器
 - 存储电阻器
 ---
+
 # [[Memistor]]  
 
 ## #has_/text_of_/abstract 

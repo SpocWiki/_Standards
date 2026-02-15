@@ -229,6 +229,7 @@ dv_has_:
     zh: 羅莎·帕克斯
     zh_cn: 罗莎·帕克斯
 ---
+
 # [[Parks,Rosa]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Rosa_Parks,41921|WD~Rosa_Parks,41921]]  

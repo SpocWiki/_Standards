@@ -191,6 +191,7 @@ dv_has_:
     zh_hant: 地震學
     zh_tw: 地震學
 ---
+
 # [[Seismology]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Seismology,83371|WD~Seismology,83371]] 

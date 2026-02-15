@@ -180,6 +180,7 @@ dv_has_:
     zh: 烘箱
     zh_hant: 灶
 ---
+
 # [[Stove]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Stove,203789|WD~Stove,203789]] 

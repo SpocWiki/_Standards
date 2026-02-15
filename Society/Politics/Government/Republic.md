@@ -392,6 +392,7 @@ dv_has_:
     zh_hk: 共和制
     zh_tw: 共和制
 ---
+
 # [[Republic]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Republic,7270|WD~Republic,7270]] 

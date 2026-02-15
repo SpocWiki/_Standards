@@ -149,6 +149,7 @@ dv_has_:
     zh_sg: 造父变星
     zh_tw: 造父變星
 ---
+
 # [[Cepheid_Variable]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Cepheid_variable,188593|WD~Cepheid_variable,188593]] 

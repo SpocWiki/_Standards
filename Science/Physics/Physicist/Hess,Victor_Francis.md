@@ -182,6 +182,7 @@ dv_has_:
     yue: 域陀赫斯
     zh: 维克托·赫斯
 ---
+
 # [[Hess,Victor_Francis]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Victor_Francis_Hess,78520|WD~Victor_Francis_Hess,78520]]  

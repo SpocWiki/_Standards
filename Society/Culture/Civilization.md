@@ -327,6 +327,7 @@ dv_has_:
     zh_sg: 文明
     zh_tw: 文明
 ---
+
 # [[Civilization]] 
 
 #is_/same_as :: [[../../WikiData/WD~Civilization,8432|WD~Civilization,8432]] 

@@ -192,6 +192,7 @@ dv_has_:
     zh: 對稱
     zh_hant: 對稱
 ---
+
 # [[Symmetry]] 
 
 #is_/same_as :: [[../../WikiData/WD~Symmetry,12485|WD~Symmetry,12485]] 

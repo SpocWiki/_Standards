@@ -119,6 +119,7 @@ dv_has_:
     zh_sg: 彼得·盖布瑞尔
     zh_tw: 彼得·蓋布瑞爾
 ---
+
 # [[Gabriel,Peter]]  
 
 > Peter Brian Gabriel (born 13 February 1950) is an English singer, songwriter 

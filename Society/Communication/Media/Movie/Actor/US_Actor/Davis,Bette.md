@@ -220,6 +220,7 @@ dv_has_:
     zh_hans: 贝蒂·戴维斯
     zh_hant: 貝蒂·戴維斯
 ---
+
 # [[Davis,Bette]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Bette_Davis,71206|WD~Bette_Davis,71206]] 

@@ -95,6 +95,7 @@ dv_has_:
     wuu: 社会秩序
     zh: 社會秩序
 ---
+
 # [[Social_Formation]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Social_formation,1641112|WD~Social_formation,1641112]]  

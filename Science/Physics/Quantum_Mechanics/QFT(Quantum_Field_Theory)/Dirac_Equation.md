@@ -128,6 +128,7 @@ dv_has_:
     zh_sg: 狄拉克方程
     zh_tw: 狄拉克方程式
 ---
+
 # [[Dirac_Equation]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~Dirac_equation,272621]] 

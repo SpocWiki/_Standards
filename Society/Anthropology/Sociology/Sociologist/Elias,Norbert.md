@@ -138,6 +138,7 @@ dv_has_:
     vi: Norbert Elias
     zh: 諾博特·伊里亞思
 ---
+
 # [[Elias,Norbert]] 
 
 #is_/same_as :: [[WD~Norbert_Elias,75812]] 

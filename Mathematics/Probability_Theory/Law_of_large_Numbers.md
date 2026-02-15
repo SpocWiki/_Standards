@@ -138,6 +138,7 @@ dv_has_:
     zh_sg: 大数定律
     zh_tw: 大數定律
 ---
+
 # [[Law_of_large_Numbers]] 
 
 #is_/same_as :: [[WD~Law_of_large_numbers,207952]] 

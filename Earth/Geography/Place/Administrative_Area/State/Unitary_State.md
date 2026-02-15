@@ -260,6 +260,7 @@ dv_has_:
     zh_sg: 单一制
     zh_tw: 單一制
 ---
+
 # [[Unitary_State]] 
 
 is_opposite_of = `=this.dv_is_opposite_of`

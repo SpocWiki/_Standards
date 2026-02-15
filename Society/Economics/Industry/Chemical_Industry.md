@@ -159,6 +159,7 @@ dv_has_:
     zh_sg: 化学工业
     zh_tw: 化學工業
 ---
+
 # [[Chemical_Industry]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Chemical_industry,207652|WD~Chemical_industry,207652]] 

@@ -590,6 +590,7 @@ dv_is_same_as:
 - '[[/_secret/Earth/Continent/Europe/EU(European_Union).secret|EU(European_Union).secret]]'
 Unicode_character: 🇪🇺
 ---
+
 # [[EU(European_Union)]] 🇪🇺 
 
 

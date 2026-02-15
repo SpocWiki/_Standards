@@ -136,6 +136,7 @@ dv_has_:
     zh_sg: 战略管理
     zh_tw: 策略管理
 ---
+
 # [[Economic_Strategy]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~strategic_management,376657]] 

@@ -344,6 +344,7 @@ dv_has_:
     zh_tw: 君主制
     zu: Ubukhosi
 ---
+
 # [[Monarchy]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Monarchy,7269|WD~Monarchy,7269]] 

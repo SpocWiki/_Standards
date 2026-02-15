@@ -63,6 +63,7 @@ aliases:
 - 電晶體－電晶體邏輯
 - 트랜지스터-트랜지스터 논리
 ---
+
 # [[TTL(Transistor-Transistor_Logic)]] 
 
 #has_/Voltage :: 5

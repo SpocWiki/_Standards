@@ -91,6 +91,7 @@ aliases:
 - 反人類
 - 비인간화
 ---
+
 # [[Dehumanization]] 
 
 > **Dehumanization** is the denial of full humanity in others along with the cruelty and suffering that accompany it. 

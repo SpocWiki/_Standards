@@ -227,6 +227,7 @@ dv_has_:
     zh_tw: 基礎建設
     zu: Ingqalasizinda
 ---
+
 # [[Infrastructure]] 
 
 #is_/same_as :: [[WikiData/WD~Infrastructure,121359|WD~Infrastructure,121359]] 

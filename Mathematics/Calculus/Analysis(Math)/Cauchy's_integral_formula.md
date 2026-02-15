@@ -106,6 +106,7 @@ dv_has_:
     zh_hant: 柯西積分公式
     zh_hk: 柯西積分公式
 ---
+
 # [[Cauchy's_integral_formula]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Cauchy's_integral_formula,913764|WD~Cauchy's_integral_formula,913764]] 

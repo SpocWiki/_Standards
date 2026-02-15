@@ -241,6 +241,7 @@ dv_has_:
     zu: Inhlolamshiso
 Unicode_character: 🌡
 ---
+
 # [[Thermometer]] 🌡 
 
 

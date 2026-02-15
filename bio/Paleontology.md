@@ -250,6 +250,7 @@ dv_has_:
     zh_sg: 古生物学
     zh_tw: 古生物學
 ---
+
 # [[Paleontology]] 
 
 #is_/same_as :: [[../WikiData/WD~Paleontology,7205|WD~Paleontology,7205]] 

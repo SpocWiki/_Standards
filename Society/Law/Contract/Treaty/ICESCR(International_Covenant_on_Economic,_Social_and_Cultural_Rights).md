@@ -192,6 +192,7 @@ dv_has_:
     zh_sg: 经济、社会及文化权利国际公约
     zh_tw: 經濟社會文化權利國際公約
 ---
+
 # [[ICESCR(International_Covenant_on_Economic,_Social_and_Cultural_Rights)]] 
 
 #is_/same_as :: [[WD~International_Covenant_on_Economic,_Social_and_Cultural_Rights,457862]] 

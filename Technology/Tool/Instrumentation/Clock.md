@@ -369,6 +369,7 @@ dv_has_:
     zh-tw: 時鐘
     zu: iwashi
 ---
+
 # [[Clock]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Clock,376|WD~Clock,376]] 

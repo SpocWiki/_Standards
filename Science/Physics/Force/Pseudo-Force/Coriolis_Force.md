@@ -198,6 +198,7 @@ dv_has_:
     zh_sg: 科里奥利力
     zh_tw: 科里奧利力
 ---
+
 # [[Coriolis_Force]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Coriolis_force,169973|WD~Coriolis_force,169973]] 

@@ -146,6 +146,7 @@ dv_has_:
     yue: 蒸氣壓
     zh: 蒸氣壓
 ---
+
 # [[Vapor_Pressure]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Vapor_pressure,2661322|WD~Vapor_pressure,2661322]]  

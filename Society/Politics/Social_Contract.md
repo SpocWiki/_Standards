@@ -146,6 +146,7 @@ dv_has_:
     yue: 社會契約
     zh: 社會契約
 ---
+
 # [[Social_Contract]] 
 
 #is_/same_as :: [[../../WikiData/WD~Social_contract,1326430|WD~Social_contract,1326430]]  

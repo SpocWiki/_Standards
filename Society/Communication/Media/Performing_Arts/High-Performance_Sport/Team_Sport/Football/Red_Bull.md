@@ -114,6 +114,7 @@ dv_has_:
     zh_sg: 红牛
     zh_tw: 紅牛
 ---
+
 # [[Red_Bull]]  
 
 > **Red Bull** is a brand of energy drinks created and owned by the Austrian company Red Bull GmbH. 

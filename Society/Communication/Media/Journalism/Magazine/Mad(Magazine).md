@@ -83,6 +83,7 @@ dv_has_:
     zh_sg: 疯狂杂志
     zh_tw: 瘋狂雜誌
 ---
+
 # [[Mad(Magazine)]] 
 
 #is_/same_as :: [[WD~Mad,312086]] 

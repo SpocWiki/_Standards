@@ -238,6 +238,7 @@ dv_has_:
     zh_hans: 气候学
     zh_hant: 氣候學
 ---
+
 # [[Climatology]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Climatology,52139|WD~Climatology,52139]] 

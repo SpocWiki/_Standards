@@ -152,6 +152,7 @@ dv_has_:
     zh_sg: 股东
     zh_tw: 股東
 ---
+
 # [[Shareholder]]  
 
 #is_/same_as :: [[_Standards/WikiData/WD~shareholder,381136]] 

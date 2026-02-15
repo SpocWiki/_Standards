@@ -131,6 +131,7 @@ dv_has_:
     yue: 奇夸克
     zh: 奇夸克
 ---
+
 # [[Strange Quark]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Strange_quark,6763|WD~Strange_quark,6763]] 

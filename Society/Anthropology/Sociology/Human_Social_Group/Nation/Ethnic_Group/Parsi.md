@@ -164,6 +164,7 @@ dv_has_:
     zh_sg: 帕西人
     zh_tw: 帕西人
 ---
+
 # [[Parsi]] 
 
 #is_/same_as :: [[WD~Parsi,200263]] 

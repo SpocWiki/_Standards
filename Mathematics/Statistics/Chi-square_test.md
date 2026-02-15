@@ -103,6 +103,7 @@ dv_has_:
     zh_hant: 卡方檢驗
     zh_hk: 卡方檢驗
 ---
+
 # [[Chi-square_test]] 
 
 #is_/same_as :: [[../../WikiData/WD~Chi-square_test,1071004|WD~Chi-square_test,1071004]] 

@@ -127,6 +127,7 @@ dv_has_:
     zh_sg: 妾
     zh_tw: 妾
 ---
+
 # [[Concubinage]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Concubinage,188790|WD~Concubinage,188790]] 

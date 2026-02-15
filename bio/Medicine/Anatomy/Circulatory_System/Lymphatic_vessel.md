@@ -111,6 +111,7 @@ dv_has_:
     yue: 淋巴管
     zh: 淋巴管
 ---
+
 # [[Lymphatic_vessel]] 
 
 Class of all lymphatic_vessels.

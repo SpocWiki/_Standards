@@ -190,6 +190,7 @@ dv_has_:
     zh_sg: 保护国
     zh_tw: 保護國
 ---
+
 # [[Protectorate]] 
 
 is_different_from = `=this.dv_is_different_from`

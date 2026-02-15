@@ -419,6 +419,7 @@ dv_has_:
     zh_hk: 烏爾都語
     zu: Isi-Urdu
 ---
+
 # [[Lang-urd]]  
 
 #is_/same_as :: [[../../../../../WikiData/WD~Urdu,1617|WD~Urdu,1617]]  

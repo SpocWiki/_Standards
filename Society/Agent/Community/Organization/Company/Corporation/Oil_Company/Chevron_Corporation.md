@@ -186,6 +186,7 @@ dv_has_:
     zh_sg: 雪佛龙股份有限公司
     zh_tw: 雪佛龍股份有限公司
 ---
+
 # [[Chevron_Corporation]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Chevron_Corporation,319642|WD~Chevron_Corporation,319642]] 

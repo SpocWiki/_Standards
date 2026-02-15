@@ -189,6 +189,7 @@ aliases:
 - 日耳曼人
 - 게르만족
 ---
+
 # [[Germanic_Peoples]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Germanic_peoples,22633|WD~Germanic_peoples,22633]] 

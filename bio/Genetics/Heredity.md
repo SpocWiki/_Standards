@@ -224,6 +224,7 @@ dv_has_:
     zh_sg: 遗传
     zh_tw: 遺傳
 ---
+
 # [[Heredity]] 
 
 #is_/same_as :: [[WD~Heredity,178694]] 

@@ -186,6 +186,7 @@ dv_has_:
     zh_hk: 壟斷
     zh_tw: 獨占
 ---
+
 # [[Monopoly]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Monopoly,43637|WD~Monopoly,43637]]  

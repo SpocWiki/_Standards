@@ -303,6 +303,7 @@ dv_has_:
     zh_hant: 指甲
     zh_tw: 指甲
 ---
+
 # [[Nail]] 
 
 #is_/same_as :: [[WD~Nail,36864]] 

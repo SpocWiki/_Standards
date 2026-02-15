@@ -798,6 +798,7 @@ dv_is_same_as:
 - '[[/_personal/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Oleic_Acid.personal|Oleic_Acid.personal]]'
 - '[[/_secret/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Oleic_Acid.secret|Oleic_Acid.secret]]'
 ---
+
 # [[Oleic_Acid]] 
 
  has_formula_structural = `= this.dv_has_formula_structural` 

@@ -281,6 +281,7 @@ dv_has_:
     zh_hans: 弗拉基米尔·韦尔纳茨基
     zh_hant: 弗拉基米爾·韋爾納茨基
 ---
+
 # [[Vernadsky,Vladimir_Ivanovich]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Vladimir_Ivanovich_Vernadsky,316371|WD~Vladimir_Ivanovich_Vernadsky,316371]]  

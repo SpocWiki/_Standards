@@ -216,6 +216,7 @@ dv_has_:
     yue: 梯也爾
     zh: 阿道夫·梯也爾
 ---
+
 # [[Thiers,Adolphe]] 
 
 #has_/time_/started ::  1797-04-15 

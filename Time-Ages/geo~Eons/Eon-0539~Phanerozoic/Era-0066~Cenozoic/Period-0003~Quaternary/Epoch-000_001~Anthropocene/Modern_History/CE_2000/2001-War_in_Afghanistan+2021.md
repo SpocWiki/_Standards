@@ -236,6 +236,7 @@ dv_has_:
     zh-sg: 阿富汗战争
     zh-tw: 阿富汗戰爭
 ---
+
 # [[2001-War_in_Afghanistan+2021]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~War_in_Afghanistan,182865|WD~War_in_Afghanistan,182865]]  

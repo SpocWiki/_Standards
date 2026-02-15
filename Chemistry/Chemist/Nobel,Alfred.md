@@ -361,6 +361,7 @@ dv_has_:
     zh_hk: 艾佛·諾貝爾
     zh_tw: 阿佛列·諾貝爾
 ---
+
 # [[Nobel,Alfred]] 
 
 #is_/same_as :: [[../../WikiData/WD~Alfred_Nobel,23810]] 

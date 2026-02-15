@@ -170,6 +170,7 @@ dv_has_:
     zh_hans: 主序星
     zh_hant: 主序星
 ---
+
 # [[Main_Sequence]] 
 
 #is_/same_as :: [[WD~Main_sequence,3450]] 

@@ -12,6 +12,7 @@ dv_has_:
     fr: Équation de Simon
     zh: Simon–Glatzel方程
 ---
+
 # [[Simon-Glatzel_Equation]] 
 
 #is_/same_as :: [[WD~Simon-Glatzel_Equation,7520530]] 

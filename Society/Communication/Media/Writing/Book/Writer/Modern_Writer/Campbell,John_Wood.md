@@ -67,6 +67,7 @@ aliases:
 - 約翰·W·坎貝爾
 - 존 W. 캠벨
 ---
+
 # [[Campbell,John_Wood]] 
 
 #is_/different_from :: [[Campbell,Joseph-John]]. 

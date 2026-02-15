@@ -102,6 +102,7 @@ aliases:
 - 牛顿米
 - 뉴턴 미터
 ---
+
 # [[Unit~NewtonMeter]] 
 
 #is_/different_from :: [[../../Unit_of_Measure/SI-Unit/derived_Unit/Unit~Joule|Unit~Joule]] 

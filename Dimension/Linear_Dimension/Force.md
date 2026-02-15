@@ -304,6 +304,7 @@ aliases:
 - 力
 - 힘
 ---
+
 # [[Force]] 
 
 #is_/similar_to :: [[../Angular_Dimension/Torque]]  

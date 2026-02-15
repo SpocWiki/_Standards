@@ -62,6 +62,7 @@ dv_has_:
     zh: 赝矢量
     zh_cn: 赝矢量
 ---
+
 # [[Pseudovector]] 
 
 #is_/same_as :: [[WD~Pseudovector,621476]] 

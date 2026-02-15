@@ -226,6 +226,7 @@ dv_has_:
     zh_cn: 让-巴蒂斯特·拉马克
     zh_hant: 尚-巴蒂斯特·拉馬克
 ---
+
 # [[Lamarck,Jean-Baptiste_de]] 
 
 #is_/same_as :: [[WD~Jean-Baptiste_de_Lamarck,82122]] 

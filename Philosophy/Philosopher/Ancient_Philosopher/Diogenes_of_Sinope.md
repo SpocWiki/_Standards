@@ -221,6 +221,7 @@ dv_has_:
     yue: 第歐根尼
     zh: 锡诺普的第欧根尼
 ---
+
 # [[Diogenes_of_Sinope]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Diogenes_of_Sinope,59180|WD~Diogenes_of_Sinope,59180]] 

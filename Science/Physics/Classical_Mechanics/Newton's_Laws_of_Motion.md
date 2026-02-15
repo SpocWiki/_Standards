@@ -264,6 +264,7 @@ dv_has_:
     zh_hant: 牛頓運動定律
     zu: Imithetho yomdiki kaNewton
 ---
+
 # [[Newton's_Laws_of_Motion]] 
 
 #is_/same_as :: [[WD~Newton's_laws_of_motion,38433]] 

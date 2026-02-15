@@ -346,6 +346,7 @@ dv_has_:
     zh: 欧内斯特·海明威
     zh_cn: 欧内斯特·海明威
 ---
+
 # [[Hemingway,Ernest]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Ernest_Hemingway,23434|WD~Ernest_Hemingway,23434]] 

@@ -155,6 +155,7 @@ dv_has_:
     zh_sg: 无产阶级专政
     zh_tw: 無產階級專政
 ---
+
 # [[Dictatorship_of_the_Proletariat]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Dictatorship_of_the_proletariat,118365|WD~Dictatorship_of_the_proletariat,118365]] 

@@ -233,6 +233,7 @@ dv_has_:
     zh_tw: 舉重
 Unicode_character: 🏋
 ---
+
 # [[Weightlifting]] 🏋  
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Weightlifting,83462|WD~Weightlifting,83462]]  

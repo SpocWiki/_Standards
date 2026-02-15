@@ -224,6 +224,7 @@ dv_has_:
     yue: 希南
     zh: 米馬爾·希南
 ---
+
 # [[Mimar_Sinan]] 
 
 #has_/time_/started :: 1489-06

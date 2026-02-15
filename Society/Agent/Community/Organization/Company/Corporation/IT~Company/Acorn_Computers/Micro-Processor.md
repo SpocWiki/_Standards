@@ -159,6 +159,7 @@ aliases:
 - 微處理器
 - 마이크로프로세서
 ---
+
 # [[Micro-Processor]]
 
 ## History 

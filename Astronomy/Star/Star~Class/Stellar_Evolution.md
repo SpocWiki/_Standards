@@ -150,6 +150,7 @@ dv_has_:
     yue: 恆星演化
     zh: 恆星演化
 ---
+
 # [[Stellar_Evolution]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Stellar_evolution,6472|WD~Stellar_evolution,6472]]  

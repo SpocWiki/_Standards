@@ -176,6 +176,7 @@ dv_has_:
     zh_sg: 游戏开发商
     zh_tw: 電子遊戲開發商
 ---
+
 # [[Video_Game_Developer]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~video_game_developer,210167]] 

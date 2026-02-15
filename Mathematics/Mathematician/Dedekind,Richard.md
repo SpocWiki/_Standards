@@ -205,6 +205,7 @@ dv_has_:
     yue: 戴德金
     zh: 理查德·戴德金
 ---
+
 # [[Dedekind,Richard]] 
 
 #is_/same_as :: [[../../WikiData/WD~Richard_Dedekind,76556|WD~Richard_Dedekind,76556]] 

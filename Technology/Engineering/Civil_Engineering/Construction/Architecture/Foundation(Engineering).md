@@ -188,6 +188,7 @@ dv_has_:
     zh_sg: 地基
     zh_tw: 地基
 ---
+
 # [[Foundation(Engineering)]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Foundation,191360|WD~Foundation,191360]] 

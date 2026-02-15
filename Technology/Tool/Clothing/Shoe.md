@@ -324,6 +324,7 @@ aliases:
 - 신발
 Unicode_character: 👞
 ---
+
 # [[Shoe]] 👞 
 
 

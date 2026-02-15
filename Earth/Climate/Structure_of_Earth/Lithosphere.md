@@ -215,6 +215,7 @@ dv_has_:
     yue: 岩石圈
     zh: 岩石圈
 ---
+
 # [[Lithosphere]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Lithosphere,83296|WD~Lithosphere,83296]] 

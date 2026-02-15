@@ -232,6 +232,7 @@ dv_has_:
     zh_sg: 绝对君主制
     zh_tw: 絕對君主制
 ---
+
 # [[Absolute_Monarchy]] 
 
 #is_/same_as ::[[../../../../WikiData/WD~Absolute_monarchy,184558]]] 

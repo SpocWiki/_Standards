@@ -139,6 +139,7 @@ aliases:
 - 猶太人歷史
 - 유대인의 역사
 ---
+
 # [[Jewish_History]] 
 
 #is_/same_as :: [[WD~Jewish_history,961603]] 

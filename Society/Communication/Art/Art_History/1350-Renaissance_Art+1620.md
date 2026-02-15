@@ -137,6 +137,7 @@ dv_has_:
     zh_hant: 文藝復興藝術
     zh_hk: 文藝復興藝術
 ---
+
 # [[1350-Renaissance_Art+1620]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Renaissance_art,1133779|WD~Renaissance_art,1133779]] 

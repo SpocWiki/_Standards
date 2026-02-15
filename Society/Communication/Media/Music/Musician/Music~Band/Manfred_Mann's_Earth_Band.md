@@ -29,6 +29,7 @@ aliases:
 - مانفريد مان ايرث باند (فريق روك)
 - マンフレッド・マンズ・アース・バンド
 ---
+
 # [[Manfred_Mann's_Earth_Band]] 
 
 #is_/same_as ::  

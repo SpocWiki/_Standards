@@ -237,6 +237,7 @@ dv_has_:
     zgh: ⴰⴽⵓⵥⴷⵉⵙ
     zh: 四邊形
 ---
+
 # [[Quadrilateral]] 
 
 #is_/same_as :: [[WD~Quadrilateral,36810]] 

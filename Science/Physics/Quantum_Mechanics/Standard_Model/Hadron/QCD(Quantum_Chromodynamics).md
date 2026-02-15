@@ -148,6 +148,7 @@ dv_has_:
     zh_sg: 量子色动力学
     zh_tw: 量子色動力學
 ---
+
 # [[QCD(Quantum_Chromodynamics)]] 
 
 #is_/same_as :: [[WD~Quantum_chromodynamics,238170]] 

@@ -253,6 +253,7 @@ dv_has_:
     zh: 古斯塔夫·基爾霍夫
     zh_hant: 基爾霍夫
 ---
+
 # [[Kirchhoff,Gustav]] 
 
 #is_/same_as :: [[WD~Gustav_Kirchhoff,60052]] 

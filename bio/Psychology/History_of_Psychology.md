@@ -121,6 +121,7 @@ dv_has_:
     yue: 心理學史
     zh: 心理学史
 ---
+
 # [[History_of_Psychology]] 
 
 #is_/same_as :: [[../../WikiData/WD~History_of_psychology,261215|WD~History_of_psychology,261215]] 

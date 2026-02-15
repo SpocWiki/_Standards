@@ -209,6 +209,7 @@ dv_has_:
     zh_sg: 秀兰·邓波儿
     zh_tw: 秀蘭·鄧波爾
 ---
+
 # [[Shirley_Temple]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Shirley_Temple,182580|WD~Shirley_Temple,182580]]  

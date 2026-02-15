@@ -197,6 +197,7 @@ dv_has_:
     zh_hans: 理论物理学
     zh_hant: 理論物理學
 ---
+
 # [[Theoretical_Physics]] 
 
 #is_/same_as :: [[../../WikiData/WD~Theoretical_physics,18362|WD~Theoretical_physics,18362]]  

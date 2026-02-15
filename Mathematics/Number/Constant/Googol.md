@@ -169,6 +169,7 @@ dv_has_:
     zh_cn: 古戈尔
     zh_hant: 古戈爾
 ---
+
 # [[Googol]] 
 
 #is_/different_from :: [[../../../Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google|Google]] 

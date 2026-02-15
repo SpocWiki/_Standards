@@ -224,6 +224,7 @@ dv_has_:
     zh-sg: 自由软件基金会
     zh-tw: 自由軟體基金會
 ---
+
 # [[Free_Software_Foundation]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Free_Software_Foundation,48413|WD~Free_Software_Foundation,48413]] 

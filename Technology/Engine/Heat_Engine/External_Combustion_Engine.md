@@ -95,6 +95,7 @@ aliases:
 - 外燃機関
 - 외연기관
 ---
+
 # [[External_Combustion_Engine]] 
 
 External combustion (like Stirling engines) can potentially achieve higher theoretical efficiencies 

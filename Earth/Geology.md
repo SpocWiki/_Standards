@@ -421,6 +421,7 @@ dv_has_:
     zh_hk: 地質學
     zh_tw: 地質學
 ---
+
 # [[Geology]]
 
 #is_/same_as :: [[../WikiData/WD~Geology,1069|WD~Geology,1069]]

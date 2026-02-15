@@ -103,6 +103,7 @@ dv_has_:
     zh_sg: 康托尔定理
     zh_tw: 康托爾定理
 ---
+
 # [[Cantor's_theorem]] 
 
 #is_/same_as :: [[../../WikiData/WD~Cantor's_theorem,474881|WD~Cantor's_theorem,474881]] 

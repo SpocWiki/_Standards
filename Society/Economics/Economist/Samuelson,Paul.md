@@ -256,6 +256,7 @@ dv_has_:
     zh_sg: 保罗·萨缪尔森
     zh_tw: 保羅·薩繆森
 ---
+
 # [[Samuelson,Paul]] 
 
 #is_/same_as :: [[WD~Paul_Samuelson,102454]] 

@@ -236,6 +236,7 @@ dv_has_:
     zh_sg: 色盲
     zh_tw: 色盲
 ---
+
 # [[Color_Blindness]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Color_blindness,133696|WD~Color_blindness,133696]] 

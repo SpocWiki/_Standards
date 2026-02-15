@@ -216,6 +216,7 @@ dv_has_:
     zh: 精神健康
     zh_hant: 精神健康
 ---
+
 # [[Mental_Health]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Mental_health,317309|WD~Mental_health,317309]] 

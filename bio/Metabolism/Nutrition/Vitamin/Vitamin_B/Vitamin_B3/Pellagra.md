@@ -90,6 +90,7 @@ aliases:
 - 糙皮病
 - 펠라그라
 ---
+
 # [[Pellagra]]  
 
 ## #has_/text_of_/abstract 

@@ -258,6 +258,7 @@ dv_is_same_as:
 - '[[/_personal/schema-org/Class/is_a_/Intangible/Observation.personal|Observation.personal]]'
 - '[[/_secret/schema-org/Class/is_a_/Intangible/Observation.secret|Observation.secret]]'
 ---
+
 # [[Observation]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Observation,193181|WD~Observation,193181]] 

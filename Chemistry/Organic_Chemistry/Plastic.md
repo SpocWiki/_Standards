@@ -327,6 +327,7 @@ dv_has_:
     zh_hans: 塑料
     zu: Ucwazi
 ---
+
 # [[Plastic]] 
 
 #is_/same_as :: [[../../WikiData/WD~Plastic,11474|WD~Plastic,11474]] 

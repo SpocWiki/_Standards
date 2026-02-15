@@ -161,6 +161,7 @@ dv_has_:
     zh_hant: Doctrina
     zu: Imfundiso
 ---
+
 # [[Doctrine]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Doctrine,117850|WD~Doctrine,117850]] 

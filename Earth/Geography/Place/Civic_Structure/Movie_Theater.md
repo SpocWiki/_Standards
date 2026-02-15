@@ -295,6 +295,7 @@ dv_is_same_as:
 - '[[/_secret/Earth/Geography/Place/Civic_Structure/Movie_Theater.secret|Movie_Theater.secret]]'
 Unicode_character: 🎦
 ---
+
 # [[Movie_Theater]] 🎦 
 
 Class of all movie_theaters.

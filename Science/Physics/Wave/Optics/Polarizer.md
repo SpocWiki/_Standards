@@ -77,6 +77,7 @@ dv_has_:
     yue: 偏光鏡
     zh: 偏振片
 ---
+
 # [[Polarizer]] 
 
 #is_/same_as :: [[WD~Polarizer,11942175]] 

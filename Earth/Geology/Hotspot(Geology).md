@@ -137,6 +137,7 @@ dv_has_:
     zh_sg: 热点
     zh_tw: 熱點
 ---
+
 # [[Hotspot(Geology)]] 
 
 #is_/same_as :: [[WD~Hotspot,105131]] 

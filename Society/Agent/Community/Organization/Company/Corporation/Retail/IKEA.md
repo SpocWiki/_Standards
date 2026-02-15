@@ -137,6 +137,7 @@ aliases:
 - 艾奇亚
 - 이케아
 ---
+
 # [[IKEA]] 
 
 #is_/same_as :: [[WD~IKEA,54078]] 

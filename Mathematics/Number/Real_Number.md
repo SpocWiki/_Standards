@@ -276,6 +276,7 @@ dv_has_:
     zh_sg: 实数
     zh_tw: 實數
 ---
+
 # [[Real_Number]] 
 
 #is_/same_as :: [[WD~Real_number,12916]] 

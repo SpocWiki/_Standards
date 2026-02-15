@@ -459,6 +459,7 @@ dv_has_:
     zh_tw: 釋迦牟尼
     zu: Siddharta Gautama
 ---
+
 # [[Buddha]] 
 
 #is_/same_as :: [[WD~The_Buddha,9441]] 

@@ -408,6 +408,7 @@ dv_has_domain: '[Thing](../../Class/Thing)'
 dv_has_name: has_name
 dv_has_range: Text
 ---
+
 # [[has_name]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Name,82799|WD~Name,82799]] 

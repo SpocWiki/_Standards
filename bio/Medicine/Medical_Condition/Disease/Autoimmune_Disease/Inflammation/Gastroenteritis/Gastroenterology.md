@@ -172,6 +172,7 @@ dv_has_:
     zh_hant: 消化科
     zh_tw: 消化科
 ---
+
 # [[Gastroenterology]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Gastroenterology,120569|WD~Gastroenterology,120569]]  

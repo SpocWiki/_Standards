@@ -164,6 +164,7 @@ dv_has_:
     zh_hk: 燉煮
     zh_tw: 燉煮
 ---
+
 # [[Stew]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Stew,2920963|WD~Stew,2920963]] 

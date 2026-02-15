@@ -110,6 +110,7 @@ aliases:
 - 革蘭氏陽性菌
 - 그람 양성균
 ---
+
 # [[Gram-positive]] 
 
 #has_/complement :: [[Gram-negative]] 

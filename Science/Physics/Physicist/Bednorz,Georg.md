@@ -154,6 +154,7 @@ dv_has_:
     zh: 约翰内斯·贝德诺尔茨
     zh_hant: 約翰尼斯·比得諾茲
 ---
+
 # [[Bednorz,Georg]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Georg_Bednorz,76687|WD~Georg_Bednorz,76687]] 

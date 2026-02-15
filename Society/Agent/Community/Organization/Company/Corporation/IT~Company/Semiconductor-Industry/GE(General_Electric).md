@@ -252,6 +252,7 @@ dv_has_:
     zh_hk: 通用電氣
     zh_tw: 奇異
 ---
+
 # [[GE(General_Electric)]] 
 
 #has_/logo ::[[../../../../../../../../assets/Pictures/Companies/General_Electric_logo.svg]]]![[../../../../../../../../assets/Pictures/Companies/General_Electric_logo.svg|200]]]

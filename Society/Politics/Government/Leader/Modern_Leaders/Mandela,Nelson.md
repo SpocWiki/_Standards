@@ -496,6 +496,7 @@ dv_has_:
     zh_tw: 納爾遜·曼德拉
     zu: Nelson Mandela
 ---
+
 # [[Mandela,Nelson]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Nelson_Mandela,8023|WD~Nelson_Mandela,8023]] 

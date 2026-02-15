@@ -62,6 +62,7 @@ aliases:
 - 餐刀
 - 테이블 나이프
 ---
+
 # [[Table_Knife]] 
 
 #is_a :: [[../../../../../../Technology/Tool/Mechanical_Tool/Hand_Tool/Knife]] 

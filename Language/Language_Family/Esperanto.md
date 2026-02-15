@@ -486,6 +486,7 @@ dv_has_:
     zh_tw: 世界語
     zu: Isi-Esperanto
 ---
+
 # [[Esperanto]] 
 
 #is_/same_as :: [[../../WikiData/WD~Esperanto,143|WD~Esperanto,143]] 

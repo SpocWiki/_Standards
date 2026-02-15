@@ -252,6 +252,7 @@ dv_has_:
     zh: 烏瑪
     zh_hans: 乌玛
 ---
+
 # [[Ummah]] 
 
 #is_/same_as :: [[WD~Ummah,205766]]

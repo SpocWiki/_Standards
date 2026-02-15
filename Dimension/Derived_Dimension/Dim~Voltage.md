@@ -250,6 +250,7 @@ dv_has_:
     zh: 電壓
     zu: ubuvuve
 ---
+
 # [[Dim~Voltage]] 
 
 #is_/same_as :: [[../../WikiData/WD~Voltage,25428|WD~Voltage,25428]] 

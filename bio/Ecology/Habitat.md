@@ -174,6 +174,7 @@ aliases:
 - 生湠地
 - 서식지
 ---
+
 # [[Habitat]] 
 
 #is_/same_as :: [[WD~Habitat,52105]] 

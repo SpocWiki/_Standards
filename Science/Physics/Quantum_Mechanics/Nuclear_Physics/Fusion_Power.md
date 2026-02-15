@@ -133,6 +133,7 @@ dv_has_:
     zh_hans: 聚变反应堆
     zh_hant: 聚變反應堆
 ---
+
 # [[Fusion_Power]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Fusion_power,641442|WD~Fusion_power,641442]] 

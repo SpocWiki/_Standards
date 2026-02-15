@@ -123,6 +123,7 @@ dv_has_:
     zh: 范式
     zh_tw: 典範
 ---
+
 # [[Paradigm]] 
 
 #is_/same_as :: [[WD~Paradigm,28643]] 

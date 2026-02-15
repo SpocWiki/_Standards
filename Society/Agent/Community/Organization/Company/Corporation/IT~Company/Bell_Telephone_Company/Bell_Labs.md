@@ -105,6 +105,7 @@ aliases:
 - 贝尔实验室
 - 벨 연구소
 ---
+
 # [[Bell_Labs]]  
 
 > Bell Labs is an American industrial research and scientific development company. 

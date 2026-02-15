@@ -230,6 +230,7 @@ dv_has_:
     zh_hant: 毛利人
     zh_tw: 毛利人
 ---
+
 # [[Māori_People]] 
 
 #is_/same_as :: [[WD~Māori,6122670]] 

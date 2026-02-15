@@ -250,6 +250,7 @@ dv_has_:
     za: Veizvuzwj
     zh: 维吾尔族
 ---
+
 # [[Uyghurs]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Uyghurs,46118|WD~Uyghurs,46118]]  

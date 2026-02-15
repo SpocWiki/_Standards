@@ -215,6 +215,7 @@ dv_has_:
     zh: 爱德华·格里格
     zh_tw: 愛德華·葛利格
 ---
+
 # [[Grieg,Edvard]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Edvard_Grieg,80621|WD~Edvard_Grieg,80621]] 

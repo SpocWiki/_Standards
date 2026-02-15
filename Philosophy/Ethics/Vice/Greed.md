@@ -107,6 +107,7 @@ dv_has_:
     yue: 貪心
     zh: 貪慾
 ---
+
 # [[Greed]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~greed,12819497]] 

@@ -39,6 +39,7 @@ aliases:
 - 天方夜谭
 - 신밧드의 모험
 ---
+
 # [[Sindbad(Anime)]]  
 
 > Arabian Nights: Sinbad's Adventures 

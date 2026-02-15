@@ -111,6 +111,7 @@ dv_has_:
     yue: 氣質
     zh: 气质
 ---
+
 # [[Temperament]] 
 
 #is_/similar_to :: [[Mood]] 

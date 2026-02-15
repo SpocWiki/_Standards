@@ -118,6 +118,7 @@ dv_has_:
     zh_sg: 竞争法
     zh_tw: 競爭法
 ---
+
 # [[Competition_Law]] 
 
 #is_/same_as :: [[WD~Competition_Law,326498]] 

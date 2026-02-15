@@ -93,6 +93,7 @@ aliases:
 - 雷射切割
 - 레이저 절단
 ---
+
 # [[Laser_Cutting]] 
 
 #is_/same_as :: [[WD~Laser_cutting,593053]] 

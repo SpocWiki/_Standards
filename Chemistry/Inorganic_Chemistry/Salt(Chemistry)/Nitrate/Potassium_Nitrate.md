@@ -240,6 +240,7 @@ dv_is_same_as:
 - '[[/_personal/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Potassium_Nitrate.personal|Potassium_Nitrate.personal]]'
 - '[[/_secret/Chemistry/Inorganic_Chemistry/Salt(Chemistry)/Nitrate/Potassium_Nitrate.secret|Potassium_Nitrate.secret]]'
 ---
+
 # [[Potassium_Nitrate]] 
 
 has_formula_ = `=this.dv_has_formula_` 

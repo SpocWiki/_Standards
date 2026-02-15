@@ -218,6 +218,7 @@ dv_has_:
     zh_hant: 隨機存取記憶體
     zh_tw: 隨機存取記憶體
 ---
+
 # [[RAM(Random Access Memory)]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Random-access_memory,5295|WD~Random-access_memory,5295]] 

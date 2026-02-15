@@ -122,6 +122,7 @@ dv_has_:
     zh_sg: 阿顿
     zh_tw: 阿頓
 ---
+
 # [[Aten]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Aten,130227|WD~Aten,130227]] 

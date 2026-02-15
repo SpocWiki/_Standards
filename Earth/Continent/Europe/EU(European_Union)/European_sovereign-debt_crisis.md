@@ -152,6 +152,7 @@ dv_has_:
     zh_sg: 欧洲主权债务危机
     zh_tw: 歐洲主權債務危機
 ---
+
 # [[European_sovereign-debt_crisis]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~European_sovereign-debt_crisis,217197|WD~European_sovereign-debt_crisis,217197]] 

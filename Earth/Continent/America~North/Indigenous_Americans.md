@@ -343,6 +343,7 @@ dv_has_:
     zh: 美洲原住民
     zh_hant: 美洲原住民
 ---
+
 # [[Indigenous_Americans]] 
 
 #is_/same_as :: [[WikiData/WD~Indigenous_peoples_of_the_Americas,36747|WD~Indigenous_peoples_of_the_Americas,36747]] 

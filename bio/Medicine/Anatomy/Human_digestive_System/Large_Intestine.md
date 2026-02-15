@@ -274,6 +274,7 @@ dv_has_:
     zh_hant: 大腸
     zh_tw: 大腸
 ---
+
 # [[Large_Intestine]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Large_intestine,11083|WD~Large_intestine,11083]] 

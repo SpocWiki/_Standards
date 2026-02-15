@@ -335,6 +335,7 @@ dv_has_:
     zh_sg: 身高体重指数
     zh_tw: 身高體重指數
 ---
+
 # [[BMI(Body_Mass_Index)]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Body_mass_index,131191|WD~Body_mass_index,131191]] 

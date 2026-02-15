@@ -355,6 +355,7 @@ dv_has_:
     zh_hans: 玻色–爱因斯坦凝聚
     zh_hant: 玻色–愛因斯坦凝聚
 ---
+
 # [[Bose–Einstein_Condensate]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Bose–Einstein_condensate,46202|WD~Bose–Einstein_condensate,46202]] 

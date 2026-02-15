@@ -32,6 +32,7 @@ dv_has_:
   name_:
     mul: Lynx
 ---
+
 # [[Lynx]] 
 
 #is_/same_as :: [[WD~Lynx,677014]] 

@@ -74,6 +74,7 @@ aliases:
 - 内視鏡
 - 내시경
 ---
+
 # [[Endoscopy]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Endoscopy,212809|WD~Endoscopy,212809]] 

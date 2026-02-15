@@ -338,6 +338,7 @@ dv_has_:
     zh_hans: 匙
     zh_hant: 匙
 ---
+
 # [[Spoon]] 🥄 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Spoon,81895|WD~Spoon,81895]] 

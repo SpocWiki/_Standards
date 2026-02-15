@@ -126,6 +126,7 @@ dv_has_:
     yue: 暗箱
     zh: 暗箱
 ---
+
 # [[Camera_obscura]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Camera_obscura,183998|WD~Camera_obscura,183998]] 

@@ -185,6 +185,7 @@ dv_has_:
     zh_tw: 稜錐
     zu: isitshopolonco
 ---
+
 # [[Pyramid(Geometry)]] 
 
 #is_/similar_to :: [[../../../../Technology/Engineering/Civil_Engineering/Construction/Shelter/Building/Pyramid|Pyramid]] 

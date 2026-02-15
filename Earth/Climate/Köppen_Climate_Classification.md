@@ -199,6 +199,7 @@ dv_has_:
     zh: 柯本气候分类法
     zu: Köppen climate classification
 ---
+
 # [[Köppen_Climate_Classification]] 
 
 #is_/same_as :: [[../../WikiData/WD~Köppen_climate_classification,124095]] 

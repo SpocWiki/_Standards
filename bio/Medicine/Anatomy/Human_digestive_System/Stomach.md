@@ -367,6 +367,7 @@ dv_has_:
     zh_hant: 胃
     zu: isisu
 ---
+
 # [[Stomach]] 
 
 #is_/same_as :: [[WD~Stomach,1029907]] 

@@ -196,6 +196,7 @@ dv_has_:
     zh_tw: 法人團體
     zu: Umshumanqa
 ---
+
 # [[Corporation]] 
 
 #has_/parent_class :: [[../../Organization]]  

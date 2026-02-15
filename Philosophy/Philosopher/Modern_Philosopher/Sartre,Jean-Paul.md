@@ -363,6 +363,7 @@ dv_has_:
     zh_tw: 尚-保羅·沙特
     zu: Jean-Paul Sartre
 ---
+
 # [[Sartre,Jean-Paul]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Jean-Paul_Sartre,9364|WD~Jean-Paul_Sartre,9364]] 

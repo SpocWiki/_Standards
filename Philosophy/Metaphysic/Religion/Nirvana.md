@@ -159,6 +159,7 @@ dv_has_:
     yue: "\U0002233D"
     zh: 涅槃
 ---
+
 # [[Nirvana]] 
 
 #is_/same_as :: [[WD~Nirvana,42927]] 

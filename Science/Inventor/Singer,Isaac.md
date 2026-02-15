@@ -132,6 +132,7 @@ dv_has_:
     war: Isaac Singer
     zh: 艾萨克·辛格
 ---
+
 # [[Singer,Isaac]] 
 
 #is_/same_as :: [[WD~Isaac_Singer,312011]] 

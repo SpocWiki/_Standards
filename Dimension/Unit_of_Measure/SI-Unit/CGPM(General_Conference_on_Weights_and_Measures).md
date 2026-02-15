@@ -123,6 +123,7 @@ dv_has_:
     zh_sg: 国际度量衡大会
     zh_tw: 國際度量衡大會
 ---
+
 # [[CGPM(General_Conference_on_Weights_and_Measures)]] 
 
 #is_/same_as :: [[wd~General_Conference_on_Weights_and_Measures,215650]] 

@@ -50,6 +50,7 @@ aliases:
 - 野坂昭如
 - 노사카 아키유키
 ---
+
 # [[Nosaka,Akiyuki]]  
 
 ## #has_/text_of_/abstract 

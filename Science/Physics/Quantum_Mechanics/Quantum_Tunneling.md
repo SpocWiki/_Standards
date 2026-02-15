@@ -145,6 +145,7 @@ dv_has_:
     zh_hk: 量子隧穿效應
     zh_tw: 量子穿隧效應
 ---
+
 # [[Quantum_Tunneling]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Quantum_tunneling,175751|WD~Quantum_tunneling,175751]]  

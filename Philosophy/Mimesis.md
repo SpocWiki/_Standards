@@ -101,6 +101,7 @@ dv_has_:
     zh: 摹仿
     zh_cn: 拟态理论
 ---
+
 # [[Mimesis]] 
 
 #is_/same_as :: [[WD~Mimesis,468427]] 

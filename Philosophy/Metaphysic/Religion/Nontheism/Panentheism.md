@@ -105,6 +105,7 @@ dv_has_:
     vi: Thuyết toàn thần
     zh: 超泛神論
 ---
+
 # [[Panentheism]] 
 
 #is_/same_as :: [[WD~Panentheism,221390]] 

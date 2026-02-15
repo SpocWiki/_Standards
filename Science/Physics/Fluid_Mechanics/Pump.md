@@ -192,6 +192,7 @@ dv_has_:
     zh_sg: 泵
     zh_tw: 泵
 ---
+
 # [[Pump]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Pump,134574|WD~Pump,134574]] 

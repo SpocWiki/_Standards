@@ -187,6 +187,7 @@ dv_has_:
     zh-tw: 獨木舟
 Unicode_character: 🛶
 ---
+
 # [[Canoe]] 🛶  
 
 #is_/same_as :: [[../../../../../WikiData/WD~Canoe,171529|WD~Canoe,171529]] 

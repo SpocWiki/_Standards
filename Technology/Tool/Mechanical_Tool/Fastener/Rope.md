@@ -246,6 +246,7 @@ dv_has_:
     za: Cag
     zh: 繩
 ---
+
 # [[Rope]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Rope,31029|WD~Rope,31029]] 

@@ -275,6 +275,7 @@ dv_has_:
     yue: 彼得拉克
     zh: 弗朗切斯科·彼特拉克
 ---
+
 # [[Petrarch]] 
 
 #is_/same_as :: [[WD~Petrarch,1401]] 

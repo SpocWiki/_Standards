@@ -22,6 +22,7 @@ aliases:
 - 達特茅斯分時系統
 - 다트머스 시분할 시스템
 ---
+
 # [[DTSS(Dartmouth_Time_Sharing_System)]] 
 
 #is_/different_from :: [[Multics]] 

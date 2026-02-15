@@ -24,6 +24,7 @@ aliases:
 - אסוציאטור
 - 結合子
 ---
+
 # [[Associator]] 
 
 

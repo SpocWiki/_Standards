@@ -66,6 +66,7 @@ dv_has_:
     zh_hant: 不當概化
     zh_hk: 不當概化
 ---
+
 # [[Faulty_Generalization]] 
 
 #is_/same_as :: [[WD~Faulty_Generalization,2890850]] 

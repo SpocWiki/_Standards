@@ -41,6 +41,7 @@ dv_has_:
     zh: 克里福數
     zh_hans: 多重向量
 ---
+
 # [[MultiVector]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~multivector,2377336]] 

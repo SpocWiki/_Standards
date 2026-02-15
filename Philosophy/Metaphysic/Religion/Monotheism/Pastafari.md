@@ -94,6 +94,7 @@ dv_has_:
     uk: пастафариянство
     zh: 飞面神教
 ---
+
 # [[Pastafari]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~Pastafarianism,14397660]] 

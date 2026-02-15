@@ -400,6 +400,7 @@ dv_has_:
     zh_sg: 苏格拉底
     zh_tw: 蘇格拉底
 ---
+
 # [[Socrates]]
 
 #has_/time_/started :: -470-06-01 

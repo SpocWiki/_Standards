@@ -104,6 +104,7 @@ dv_has_:
     zh_hans: 帕马-尼永甘语系
     zh_hant: 帕馬-尼永甘語系
 ---
+
 # [[LangFamily-Pama–Nyungan]] 
 
 #is_/same_as :: [[WD~Pama–Nyungan,33942]] 

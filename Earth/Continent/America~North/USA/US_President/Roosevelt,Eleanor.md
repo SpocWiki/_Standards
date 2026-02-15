@@ -295,6 +295,7 @@ dv_has_spouse: '[[Roosevelt,Franklin_Delano]]'
 dv_has_duration_years: NaN
 dv_has_duration_: ''
 ---
+
 # [[Roosevelt,Eleanor]] 
 
 #is_/same_as ::[[../../../../../_Standards/WikiData/WD~Eleanor_Roosevelt,83396]]]

@@ -93,6 +93,7 @@ dv_has_:
     zh_hant: 傑佛瑞·狄恩·摩根
     zh_hk: 謝菲·甸·摩根
 ---
+
 # [[Morgan,Jeffrey_Dean]] 
 
 #is_a :: [[../../Actor/US_Actor|US_Actor]] 

@@ -138,6 +138,7 @@ dv_has_:
     zh: 塔羅牌
     zh_hant: 塔羅牌
 ---
+
 # [[Tarot]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Tarot,583269|WD~Tarot,583269]]  

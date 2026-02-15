@@ -470,6 +470,7 @@ dv_has_:
     zh_tw: 貨幣
     zu: imali
 ---
+
 # [[Money]] 
 
 #has_/result_/positive :: has/creates Trust 

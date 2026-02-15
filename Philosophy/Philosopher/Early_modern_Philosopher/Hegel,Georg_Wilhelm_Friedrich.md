@@ -289,6 +289,7 @@ dv_has_:
     zh-hans: 格奥尔格·威廉·弗里德里希·黑格尔
     zh_hant: 格奧爾格·威廉·弗里德里希·黑格爾
 ---
+
 # [[Hegel,Georg_Wilhelm_Friedrich]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Georg_Wilhelm_Friedrich_Hegel,9235|WD~Georg_Wilhelm_Friedrich_Hegel,9235]] 

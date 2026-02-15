@@ -161,6 +161,7 @@ dv_has_:
     zh_sg: 热泵
     zh_tw: 熱泵
 ---
+
 # [[Heat_Pump]] 
 
 #is_/same_as :: [[WD~Heat_Pump,131313]]

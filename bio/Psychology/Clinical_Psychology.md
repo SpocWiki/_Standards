@@ -179,6 +179,7 @@ dv_has_:
     zh_sg: 临床心理学
     zh_tw: 臨床心理學
 ---
+
 # [[Clinical_Psychology]] 
 
 #is_/same_as :: [[../../WikiData/WD~Clinical_psychology,199906|WD~Clinical_psychology,199906]] 

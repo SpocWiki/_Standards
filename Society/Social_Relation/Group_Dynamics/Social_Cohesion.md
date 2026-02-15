@@ -107,6 +107,7 @@ dv_has_:
     zh: 團體凝聚力
     zh_cn: 群体凝聚力
 ---
+
 # [[Social_Cohesion]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Social_cohesion,553270|WD~Social_cohesion,553270]]  

@@ -230,6 +230,7 @@ dv_has_:
     yue: 標準模型
     zh: 标准模型
 ---
+
 # [[Standard_Model]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Standard_Model,18338|WD~Standard_Model,18338]] 

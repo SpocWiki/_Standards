@@ -250,6 +250,7 @@ dv_has_:
     zh_sg: 惩罚
     zh_tw: 懲罰
 ---
+
 # [[Punishment]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Punishment,186361|WD~Punishment,186361]]  

@@ -263,6 +263,7 @@ dv_has_:
     zh: 数学分析
     zh_cn: 数学分析
 ---
+
 # [[Analysis(Math)]] 
 
 #is_/same_as :: [[../../WikiData/WD~Mathematical_analysis,7754|WD~Mathematical_analysis,7754]] 

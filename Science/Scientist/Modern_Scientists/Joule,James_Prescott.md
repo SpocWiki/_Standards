@@ -243,6 +243,7 @@ dv_has_:
     yue: 占士焦耳
     zh: 詹姆斯·焦耳
 ---
+
 # [[Joule,James_Prescott]] 
 
 #is_/same_as :: [[../../../WikiData/WD~James_Prescott_Joule,8962|WD~James_Prescott_Joule,8962]] 

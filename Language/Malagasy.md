@@ -293,6 +293,7 @@ dv_has_:
     zh_hant: 馬達加斯加語
     zu: isi-Malagasy
 ---
+
 # [[Malagasy]] 
 
 #is_/same_as :: [[../WikiData/WD~Malagasy,7930|WD~Malagasy,7930]] 

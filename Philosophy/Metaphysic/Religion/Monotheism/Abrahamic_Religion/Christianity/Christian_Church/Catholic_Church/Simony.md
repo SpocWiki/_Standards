@@ -109,6 +109,7 @@ dv_has_:
     zh_sg: 买卖圣职
     zh_tw: 買賣聖職
 ---
+
 # [[Simony]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Simony,205302|WD~Simony,205302]]  

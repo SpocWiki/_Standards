@@ -137,6 +137,7 @@ dv_has_:
     uk: Ніклас Луман
     zh: 尼克拉斯·卢曼
 ---
+
 # [[Luhmann,Niklas]] 
 
 #is_/same_as :: [[WD~Niklas_Luhmann,57238]] 

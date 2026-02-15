@@ -116,6 +116,7 @@ dv_has_:
     zh_hant: 繞射光柵
     zh_hk: 繞射光柵
 ---
+
 # [[Diffraction_Grating]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Diffraction_grating,653294|WD~Diffraction_grating,653294]] 

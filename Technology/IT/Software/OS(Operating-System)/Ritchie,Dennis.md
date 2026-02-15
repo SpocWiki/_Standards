@@ -127,6 +127,7 @@ dv_has_:
     yue: 丹尼士列治
     zh: 丹尼斯·里奇
 ---
+
 # [[Ritchie,Dennis]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Dennis_M._Ritchie,45575|WD~Dennis_M._Ritchie,45575]] 

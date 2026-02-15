@@ -97,6 +97,7 @@ dv_has_:
     yue: 爭嘢 (生物學)
     zh: 生態競爭
 ---
+
 # [[Biological_Competition]] 
 
 #is_/same_as :: [[../WikiData/WD~Biological_competition,45767|WD~Biological_competition,45767]] 

@@ -27,6 +27,7 @@ aliases:
 - ويب جي بي يو
 - 웹GPU
 ---
+
 # [[WebGPU]] 
 
 #has_/time_/started : 2017-02-01 

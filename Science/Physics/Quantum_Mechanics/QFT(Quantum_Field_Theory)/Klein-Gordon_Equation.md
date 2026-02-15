@@ -89,6 +89,7 @@ dv_has_:
     zh_hk: 克來恩-戈登方程式
     zh_tw: 克來恩-戈登方程式
 ---
+
 # [[Klein-Gordon_Equation]] 
 
 The [[Klein-Gordon_Equation]] is deduced from the relativistic Relation 

@@ -396,6 +396,7 @@ dv_has_:
     zh_tw: 建築物
     zu: isakhiwo
 ---
+
 # [[Building]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Building,41176|WD~Building,41176]] 

@@ -293,6 +293,7 @@ dv_has_:
     zh_sg: 卡斯帕·弗里德里希
     zh_tw: 卡斯巴·佛烈德利赫
 ---
+
 # [[Friedrich,Caspar_David]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Caspar_David_Friedrich,104884|WD~Caspar_David_Friedrich,104884]] 

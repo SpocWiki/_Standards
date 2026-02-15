@@ -158,6 +158,7 @@ aliases:
 - 實證主義
 - 실증주의
 ---
+
 # [[Positivism]] 
 
 #is_/same_as :: [[WD~Positivism,131015]] 

@@ -404,6 +404,7 @@ dv_is_same_as:
 - '[[/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mosque.secret|Mosque.secret]]'
 Unicode_character: 🕌
 ---
+
 # [[Mosque]] 🕌 
 
 Class of all mosques.

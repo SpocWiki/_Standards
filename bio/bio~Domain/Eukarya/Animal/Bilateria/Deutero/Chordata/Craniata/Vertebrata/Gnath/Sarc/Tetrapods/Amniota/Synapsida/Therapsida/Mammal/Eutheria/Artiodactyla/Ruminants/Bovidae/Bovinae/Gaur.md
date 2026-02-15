@@ -188,6 +188,7 @@ dv_has_:
     zh_sg: 印度野牛
     zh_tw: 印度野牛
 ---
+
 # [[Gaur]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../WikiData/WD~Bos_gaurus,174296|WD~Bos_gaurus,174296]] 

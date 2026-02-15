@@ -323,6 +323,7 @@ dv_has_:
     zh_hans: 短篇小说
     zh_hant: 短篇小說
 ---
+
 # [[Short_Story]] 
 
 Class of all short_storys.

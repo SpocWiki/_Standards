@@ -51,6 +51,7 @@ aliases:
 - അൽഗോൾ 60
 - 알골 60
 ---
+
 # [[Algol]] 
 
 #is_a_/ComputerLanguage 

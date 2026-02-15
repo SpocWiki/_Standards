@@ -97,6 +97,7 @@ dv_has_:
     vi: Truy vấn có cấu trúc
     zh: 结构化查询语句
 ---
+
 # [[Prog~SQL]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~SQL,47607|WD~SQL,47607]] 

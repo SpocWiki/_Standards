@@ -389,6 +389,7 @@ dv_has_:
     zh_sg: 克里斯蒂亚诺·罗纳尔多
     zh_tw: 克里斯蒂亞諾·羅納度
 ---
+
 # [[Ronaldo,Cristiano]] 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Cristiano_Ronaldo,11571|WD~Cristiano_Ronaldo,11571]] 

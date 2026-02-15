@@ -254,6 +254,7 @@ dv_has_:
     zh-hans: 縫紉機
     zh-hant: 縫紉機
 ---
+
 # [[Sewing_Machine]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Sewing_machine,49013|WD~Sewing_machine,49013]]  

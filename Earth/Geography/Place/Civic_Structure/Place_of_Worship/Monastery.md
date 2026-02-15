@@ -260,6 +260,7 @@ dv_has_:
     zh_hant: 僧院
     zh_tw: 僧院
 ---
+
 # [[Monastery]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Monastery,44613|WD~Monastery,44613]]  

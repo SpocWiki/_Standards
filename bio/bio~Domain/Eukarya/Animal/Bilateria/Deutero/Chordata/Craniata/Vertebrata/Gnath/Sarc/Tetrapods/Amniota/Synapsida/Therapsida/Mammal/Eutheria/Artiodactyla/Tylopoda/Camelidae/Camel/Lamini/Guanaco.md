@@ -162,6 +162,7 @@ dv_has_:
     zh_sg: 原驼
     zh_tw: 原駝
 ---
+
 # [[Guanaco]] 
 
 ![ ](Guanaco/153179~2.JPG)

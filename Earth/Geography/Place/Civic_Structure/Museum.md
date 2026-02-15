@@ -434,6 +434,7 @@ dv_is_same_as:
 - '[[/_personal/Earth/Geography/Place/Civic_Structure/Museum.personal|Museum.personal]]'
 - '[[/_secret/Earth/Geography/Place/Civic_Structure/Museum.secret|Museum.secret]]'
 ---
+
 # [[Museum]] 
 
 Class of all museums.

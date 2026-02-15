@@ -243,6 +243,7 @@ dv_has_:
     zh_hk: 傳說
     zh_tw: 傳說
 ---
+
 # [[Legend]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Legend,44342|WD~Legend,44342]] 

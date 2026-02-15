@@ -339,6 +339,7 @@ dv_has_:
     zh_hans: 麻风病
     zh_hant: 麻風病
 ---
+
 # [[Leprosy]] 
 
 #is_/same_as  :: [[WD~Leprosy,36956]] 

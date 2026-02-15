@@ -144,6 +144,7 @@ dv_has_:
     zh_sg: 复合函数
     zh_tw: 複合函數
 ---
+
 # [[Function_Composition]] 
 
 #is_/same_as :: [[../../WikiData/WD~Function_composition,244761|WD~Function_composition,244761]] 

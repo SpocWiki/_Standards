@@ -144,6 +144,7 @@ dv_has_:
     zh_hant: 動視暴雪
     zh_hk: 動視暴雪
 ---
+
 # [[Activision_Blizzard]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Activision_Blizzard,344341]] 

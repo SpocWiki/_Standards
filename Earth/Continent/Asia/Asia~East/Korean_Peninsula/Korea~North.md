@@ -1082,6 +1082,7 @@ UNDP_country_code: DRK
 telephone_country_code: 850
 Unicode_character: 🇰🇵
 ---
+
 # [[Korea~North]] 🇰🇵 
 
 

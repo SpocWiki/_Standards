@@ -258,6 +258,7 @@ dv_has_:
     zh-tw: 指南針
 Unicode_character: 🧭
 ---
+
 # [[Compass]] 🧭 
 
 #is_/same_as :: [[../../../WikiData/WD~Compass,34735|WD~Compass,34735]] 

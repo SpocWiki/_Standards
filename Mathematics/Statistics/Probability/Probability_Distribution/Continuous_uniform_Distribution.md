@@ -121,6 +121,7 @@ dv_has_:
     zh_sg: 连续型均匀分布
     zh_tw: 連續型均勻分布
 ---
+
 # [[Continuous_uniform_Distribution]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Continuous_uniform_distribution,274506|WD~Continuous_uniform_distribution,274506]] 

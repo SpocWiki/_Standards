@@ -217,6 +217,7 @@ dv_has_:
     zh_sg: 社会阶级
     zh_tw: 社會階級
 ---
+
 # [[Social_Class]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Social_class,187588|WD~Social_class,187588]]  

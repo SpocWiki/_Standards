@@ -612,6 +612,7 @@ dv_has_name_abbreviated: Au
 dv_has_number_of_electrons: 79
 Unicode_character: 金
 ---
+
 # [[Gold]] 金 
 
 #chemic/Element 

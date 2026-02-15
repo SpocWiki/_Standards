@@ -387,6 +387,7 @@ dv_has_:
     zh_tw: 麥當勞
     zu: McDonald's
 ---
+
 # [[McDonald’s]] 
 
 #is_/same_as :: [[WD~McDonald’s,38076]] 

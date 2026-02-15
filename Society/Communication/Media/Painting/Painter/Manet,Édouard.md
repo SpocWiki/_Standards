@@ -402,6 +402,7 @@ dv_has_:
     zh: 愛德華·馬奈
     zh_hant: 愛德華·馬奈
 ---
+
 # [[Manet,Édouard]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Édouard_Manet,40599|WD~Édouard_Manet,40599]] 

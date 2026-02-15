@@ -178,6 +178,7 @@ dv_has_:
     zh_sg: 尼克劳斯·维尔特
     zh_tw: 尼克勞斯·維爾特
 ---
+
 # [[Wirth,Niklaus]] 
 
 #is_/same_as :: [[WD~Niklaus_Wirth,92604]] 

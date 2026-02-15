@@ -170,6 +170,7 @@ aliases:
 - 電離能
 - 이온화 에너지
 ---
+
 # [[Ionization_Energy]] 
 
 #is_/same_as :: [[WD~Ionization_energy,483769]] 

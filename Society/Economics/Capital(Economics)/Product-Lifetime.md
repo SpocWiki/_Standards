@@ -29,6 +29,7 @@ dv_has_:
     ru: жизненный цикл продукта
     sl: življenjska doba izdelka
 ---
+
 # [[Product-Lifetime]]  
 
 | Product  | Lifetime |

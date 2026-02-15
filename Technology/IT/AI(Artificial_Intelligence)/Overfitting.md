@@ -57,6 +57,7 @@ aliases:
 - 過適
 - 과적합
 ---
+
 # [[Overfitting]]  
 
 Overfitting is [[rote Learning]] 

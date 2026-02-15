@@ -165,6 +165,7 @@ dv_has_:
     war: Gustav Fechner
     zh: 费希纳
 ---
+
 # [[Gustav_Fechner]] 
 
 #is_/same_as :: [[WD~Gustav_Fechner,76881]] 

@@ -166,6 +166,7 @@ dv_has_:
     zh_sg: 最低工资
     zh_tw: 最低工資
 ---
+
 # [[Minimum_Wage]] 
 
 #is_/same_as :: [[WD~Minimum_wage,186228]] 

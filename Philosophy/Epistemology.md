@@ -291,6 +291,7 @@ dv_has_:
     zh_tw: 知識論
     zu: Umchazalwazi
 ---
+
 # [[Epistemology]] 
 
 #is_/same_as :: [[../WikiData/WD~Epistemology,9471|WD~Epistemology,9471]] 

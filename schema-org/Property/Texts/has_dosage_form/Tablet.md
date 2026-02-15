@@ -155,6 +155,7 @@ dv_has_:
     zh_sg: 片剂
     zh_tw: 片劑
 ---
+
 # [[Tablet]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Tablet,206077|WD~Tablet,206077]]  

@@ -200,6 +200,7 @@ dv_has_:
     zh_sg: 良心
     zh_tw: 良心
 ---
+
 # [[Conscience]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Conscience,193526|WD~Conscience,193526]] 

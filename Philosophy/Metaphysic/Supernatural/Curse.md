@@ -173,6 +173,7 @@ dv_has_:
     zh_sg: 诅咒
     zh_tw: 詛咒
 ---
+
 # [[Curse]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Curse,109411|WD~Curse,109411]] 

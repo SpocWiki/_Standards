@@ -79,6 +79,7 @@ dv_has_:
     uk: колективізація
     zh: 集體化
 ---
+
 # [[Collectivization]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Collectivization,26844385|WD~Collectivization,26844385]] 

@@ -183,6 +183,7 @@ dv_has_:
     zh_sg: 无产阶级
     zh_tw: 無產階級
 ---
+
 # [[Proletariat]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Proletariat,132603|WD~Proletariat,132603]]  

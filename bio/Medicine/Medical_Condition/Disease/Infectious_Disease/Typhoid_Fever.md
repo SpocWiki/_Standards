@@ -300,6 +300,7 @@ dv_has_:
     za: binghsanghhanz
     zh: 伤寒
 ---
+
 # [[Typhoid_Fever]] 
 
 #is_/different_from :: [[Typhus|Typhus]]  

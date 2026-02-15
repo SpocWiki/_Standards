@@ -161,6 +161,7 @@ dv_has_:
     zh_hans: 制药产业
     zh_hant: 製藥產業
 ---
+
 # [[Big_Pharma]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~pharmaceutical_industry,507443]] 

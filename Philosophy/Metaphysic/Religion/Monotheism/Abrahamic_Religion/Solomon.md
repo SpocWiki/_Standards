@@ -284,6 +284,7 @@ dv_has_:
     zh: 所羅門
     zh_hant: 所羅門王
 ---
+
 # [[Solomon]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Solomon,37085|WD~Solomon,37085]]   

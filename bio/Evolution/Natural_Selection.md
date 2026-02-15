@@ -234,6 +234,7 @@ dv_has_:
     yue: 物競天擇
     zh: 自然选择
 ---
+
 # [[Natural_Selection]] 
 
 #is_/same_as :: [[WD~Natural_selection,43478]] 

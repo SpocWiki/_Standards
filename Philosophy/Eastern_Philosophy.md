@@ -165,6 +165,7 @@ dv_has_:
     zgh: ⵜⴰⴼⵍⵙⴰⴼⵜ ⵜⴰⴳⵎⵓⴹⴰⵏⵜ
     zh: 東方哲學
 ---
+
 # [[Eastern_Philosophy]] 
 
 #is_/same_as :: [[../WikiData/WD~Eastern_philosophy,307043|WD~Eastern_philosophy,307043]] 

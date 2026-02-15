@@ -167,6 +167,7 @@ dv_has_:
     zh_sg: 世界主义
     zh_tw: 世界主義
 ---
+
 # [[Cosmopolitanism]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Cosmopolitanism,188843|WD~Cosmopolitanism,188843]] 

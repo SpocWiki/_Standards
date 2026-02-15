@@ -139,6 +139,7 @@ dv_has_:
     zh-sg: 光谱仪
     zh-tw: 光譜儀
 ---
+
 # [[Spectrometer]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Spectrometer,188463|WD~Spectrometer,188463]]  

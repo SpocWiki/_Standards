@@ -140,6 +140,7 @@ dv_has_:
     zh: 從眾行為
     zh_cn: 从众
 ---
+
 # [[Conformity]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Conformity,221284|WD~Conformity,221284]] 

@@ -134,6 +134,7 @@ dv_has_:
     zh_tw: 特殊效果
     zu: INgengamehlo
 ---
+
 # [[Special_Effects]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Special_effects,381243|WD~Special_effects,381243]]  

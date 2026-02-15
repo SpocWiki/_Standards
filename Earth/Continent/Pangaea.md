@@ -181,6 +181,7 @@ aliases:
 - 盤古大陸
 - 판게아
 ---
+
 # [[Pangaea]] 
 
 #is_/same_as :: [[WD~Pangaea,4398]] 

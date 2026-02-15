@@ -247,6 +247,7 @@ dv_has_:
     zh_sg: 路德维希·玻尔兹曼
     zh_tw: 路德維希·波茲曼
 ---
+
 # [[Boltzmann,Ludwig]] 
 
 #is_/same_as :: [[WD~Ludwig_Boltzmann,84296]] 

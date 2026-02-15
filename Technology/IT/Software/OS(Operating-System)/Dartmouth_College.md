@@ -141,6 +141,7 @@ dv_has_:
     zh-sg: 达特茅斯学院
     zh-tw: 達特茅斯學院
 ---
+
 # [[Dartmouth_College]]  
 
 > **Dartmouth College** (; DART-məth) is a private Ivy League research university 

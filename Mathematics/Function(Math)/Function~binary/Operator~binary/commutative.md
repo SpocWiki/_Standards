@@ -175,6 +175,7 @@ dv_has_:
     zh_sg: 交换律
     zh_tw: 交換律
 ---
+
 # [[commutative]] 
 
 #is_/same_as :: [[../../../../_Standards/WikiData/WD~Commutative_property,165474|WD~Commutative_property,165474]] 

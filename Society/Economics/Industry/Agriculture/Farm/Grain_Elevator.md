@@ -86,6 +86,7 @@ dv_has_:
     yue: 穀倉塔
     zh: 穀物倉庫
 ---
+
 # [[Grain_Elevator]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Grain_elevator,1520009|WD~Grain_elevator,1520009]] 

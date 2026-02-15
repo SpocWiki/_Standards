@@ -78,6 +78,7 @@ dv_has_:
     vi: Thuật toán Shor
     zh: 秀爾演算法
 ---
+
 # [[Shor's_Algorithm]] 
 
 #is_/same_as :: [[WD~Shor's_algorithm,940334]] 

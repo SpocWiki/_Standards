@@ -162,6 +162,7 @@ aliases:
 - 蒸氣
 - 증기
 ---
+
 # [[Vapor]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Vapor,255722|WD~Vapor,255722]]  

@@ -167,6 +167,7 @@ dv_has_:
     zh_sg: 冬季两项
     zh_tw: 冬季兩項
 ---
+
 # [[Biathlon]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Biathlon,166788|WD~Biathlon,166788]] 

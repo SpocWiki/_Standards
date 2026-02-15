@@ -239,6 +239,7 @@ dv_has_:
     zh: 證明
     zh_cn: 证明
 ---
+
 # [[Proof(Math)]] 
 
 #is_/same_as :: [[../WikiData/WD~proof_technique,105530558|WD~proof_technique,105530558]]  

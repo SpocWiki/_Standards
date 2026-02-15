@@ -91,6 +91,7 @@ aliases:
 - 異常處理
 - 예외 처리
 ---
+
 # [[Exception-Handling]]  
 
 #is_/similar_to :: [[../../../../../IT/Programming/Patterns/Patterns~Java.3/Patterns~Transaction|Patterns~Transaction]] 

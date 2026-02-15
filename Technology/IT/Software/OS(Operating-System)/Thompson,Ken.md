@@ -65,6 +65,7 @@ dv_has_:
     zh-hans: 肯·汤普森
     zh-hant: 肯·湯普森
 ---
+
 # [[Thompson,Ken]]  
 
 > Kenneth Lane Thompson (born 1943-02-04) 

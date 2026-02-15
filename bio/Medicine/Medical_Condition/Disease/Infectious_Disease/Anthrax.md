@@ -288,6 +288,7 @@ dv_has_:
     zh_sg: 炭疽病
     zh_tw: 炭疽病
 ---
+
 # [[Anthrax]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Anthrax,129104|WD~Anthrax,129104]] 

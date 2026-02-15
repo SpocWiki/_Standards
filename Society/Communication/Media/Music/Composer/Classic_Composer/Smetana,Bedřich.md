@@ -129,6 +129,7 @@ dv_has_:
     yue: 比德歷·斯美塔那
     zh: 贝多伊齐·斯美塔那
 ---
+
 # [[Smetana,Bedřich]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Bedřich_Smetana,48173|WD~Bedřich_Smetana,48173]] 

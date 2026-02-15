@@ -211,6 +211,7 @@ dv_has_:
     zh_hant: 米歇尔·普拉蒂尼
     zh_hk: 米高·柏天尼
 ---
+
 # [[Platini,Michel]] 
 
 #is_/same_as :: [[WD~Michel_Platini,4261]] 

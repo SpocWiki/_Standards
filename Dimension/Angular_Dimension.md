@@ -3,6 +3,7 @@ aliases:
   - Angular Dimension
   - Angular_Dimension
 ---
+
 # [[Angular_Dimension]] 
 
 #is_/similar_to :: [[Linear_Dimension]] 

@@ -301,6 +301,7 @@ dv_has_:
     zh_tw: 康納達語
     zu: isi-Kannada
 ---
+
 # [[Lang-kan]] 
 
 #is_/same_as :: [[WD~Kannada,33673]] 

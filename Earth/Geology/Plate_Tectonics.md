@@ -270,6 +270,7 @@ dv_has_:
     za: Banjgaiq goucauxlun
     zh: 板塊構造論
 ---
+
 # [[Plate_Tectonics]] 
 
 #is_/same_as :: [[../../WikiData/WD~Plate_tectonics,7950|WD~Plate_tectonics,7950]] 

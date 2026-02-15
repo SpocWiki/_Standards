@@ -306,6 +306,7 @@ dv_is_same_as:
 - '[[/_secret/Chemistry/Organic_Chemistry/Amine/Amino_Acid.secret|Amino_Acid.secret]]'
 dv_has_formula_structural: R-CH(NH²)-(C=O)-OH
 ---
+
 # [[Amino_Acid]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Amino_acid,8066|WD~Amino_acid,8066]] 

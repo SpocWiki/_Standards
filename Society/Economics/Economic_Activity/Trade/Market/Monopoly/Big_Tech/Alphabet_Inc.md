@@ -193,6 +193,7 @@ dv_has_:
     zh_hk: Alphabet
     zh_tw: Alphabet公司
 ---
+
 # [[Alphabet_Inc]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Alphabet_Inc.,20800404]] 

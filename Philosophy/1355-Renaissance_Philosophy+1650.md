@@ -141,6 +141,7 @@ dv_has_:
     zh_hans: 文艺复兴哲学
     zh_hant: 文藝復興哲學
 ---
+
 # [[1355-Renaissance_Philosophy+1650]] 
 
 #is_/same_as :: [[../WikiData/WD~Renaissance_philosophy,917440|WD~Renaissance_philosophy,917440]] 

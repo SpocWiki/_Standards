@@ -192,6 +192,7 @@ dv_has_:
     zh_sg: 抽象代数
     zh_tw: 抽象代數
 ---
+
 # [[Abstract_algebra]] 
 
 #is_/same_as :: [[../../WikiData/WD~Abstract_algebra,159943]] 

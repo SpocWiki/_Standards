@@ -483,6 +483,7 @@ dv_is_same_as:
 - '[[/_personal/schema-org/Predicate/Quantity/has_value_for_energy.personal|has_value_for_energy.personal]]'
 - '[[/_secret/schema-org/Predicate/Quantity/has_value_for_energy.secret|has_value_for_energy.secret]]'
 ---
+
 # [[has_value_for_energy]] 
 
 Class of all energy-values.

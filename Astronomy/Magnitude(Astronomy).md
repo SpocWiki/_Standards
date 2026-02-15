@@ -134,6 +134,7 @@ dv_has_:
     yue: 星等
     zh: 星等
 ---
+
 # [[Magnitude(Astronomy)]] 
 
 #is_/same_as :: [[WD~Magnitude,2028919]] 

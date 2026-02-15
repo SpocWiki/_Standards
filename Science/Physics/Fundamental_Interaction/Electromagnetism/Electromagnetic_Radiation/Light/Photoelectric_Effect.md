@@ -190,6 +190,7 @@ dv_has_:
     zh_hant: 光電效應
     zh_hk: 光電效應
 ---
+
 # [[Photoelectric_Effect]] 
 
 #is_/same_as :: [[WD~Photoelectric_effect,83213]] 

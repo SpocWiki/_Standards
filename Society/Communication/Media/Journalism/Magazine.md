@@ -297,6 +297,7 @@ dv_has_:
     zh_hk: 雜誌
     zh_tw: 雜誌
 ---
+
 # [[Magazine]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Magazine,41298|WD~Magazine,41298]] 

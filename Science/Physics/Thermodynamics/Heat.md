@@ -289,6 +289,7 @@ dv_has_:
     zh_hant: 熱量
     zh_tw: 熱量
 ---
+
 # [[Heat]] 
 
 #is_/same_as :: [[WD~Heat,44432]] 

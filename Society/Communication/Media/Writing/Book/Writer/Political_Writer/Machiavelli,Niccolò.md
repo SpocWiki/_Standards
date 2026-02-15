@@ -330,6 +330,7 @@ dv_has_:
     zh_cn: 尼科洛·马基雅维利
     zh_hans: 尼科洛·马基雅维利
 ---
+
 # [[Machiavelli,Niccolò]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Niccolò_Machiavelli,1399|WD~Niccolò_Machiavelli,1399]] 

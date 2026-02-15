@@ -246,6 +246,7 @@ dv_has_:
     zh_hk: 艾力·卡立頓
     zh_tw: 艾力·克萊普頓
 ---
+
 # [[Clapton,Eric]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Eric_Clapton,48187|WD~Eric_Clapton,48187]] 

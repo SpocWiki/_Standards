@@ -292,6 +292,7 @@ dv_has_:
     zh_tw: 電腦程式
     zu: inhleleliso yesiCikizi
 ---
+
 # [[Computer_Program]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Computer_program,40056|WD~Computer_program,40056]] 

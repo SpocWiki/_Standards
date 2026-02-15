@@ -186,6 +186,7 @@ dv_has_:
     zh_sg: 发展心理学
     zh_tw: 發展心理學
 ---
+
 # [[Developmental_Psychology]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Developmental_psychology,175002|WD~Developmental_psychology,175002]] 

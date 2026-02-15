@@ -178,6 +178,7 @@ dv_has_:
     zh_sg: 前苏格拉底哲学
     zh_tw: 前蘇格拉底哲學
 ---
+
 # [[Pre-Socratic_Philosophy]] 
 
 #is_/same_as :: [[WD~Pre-Socratic_philosophy,178540]] 

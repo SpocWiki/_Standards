@@ -469,6 +469,7 @@ dv_has_:
     zh_cn: 哥特弗里德·威廉·莱布尼茨
     zh_hant: 哥特佛萊德·萊布尼茲
 ---
+
 # [[Leibniz,Gottfried_Wilhelm]]  
 
 - [[#has_/time_/started :: 1646-07-01]]  [#has_/place_/started :: [[Leipzig]] ]

@@ -101,6 +101,7 @@ dv_has_:
     zh_hant: 調色盤
 Unicode_character: 🎨
 ---
+
 # [[Palette]] 🎨  
 
 #is_/different_from :: [[Pallet]] 

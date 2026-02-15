@@ -42,6 +42,7 @@ aliases:
 - زبان اسنوبول
 - سنوبول
 ---
+
 # [[Prog~SNOBOL]] 
 
 #is_a_/ComputerLanguage 

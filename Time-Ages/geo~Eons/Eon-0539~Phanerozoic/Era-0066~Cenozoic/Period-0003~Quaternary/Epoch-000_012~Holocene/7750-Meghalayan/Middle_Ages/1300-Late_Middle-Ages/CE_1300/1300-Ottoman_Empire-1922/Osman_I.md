@@ -237,6 +237,7 @@ dv_has_:
     zh: 奥斯曼一世
     zh-tw: 鄂圖曼一世
 ---
+
 # [[Osman_I]] 
 
 #is_/same_as :: [[WD~Osman_I,83100]] 

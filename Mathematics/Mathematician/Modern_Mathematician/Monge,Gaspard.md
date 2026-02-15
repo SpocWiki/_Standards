@@ -233,6 +233,7 @@ dv_has_:
     zh_tw: 加斯帕爾·蒙日
     zu: Gaspard Monge
 ---
+
 # [[Monge,Gaspard]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Gaspard_Monge,206832|WD~Gaspard_Monge,206832]] 

@@ -119,6 +119,7 @@ dv_has_:
     yue: P-NP 問題
     zh: 多項式時間類問題等于不確定性多項式時間類問題
 ---
+
 # [[P_versus_NP_Problem]] 
 
 #is_/same_as :: [[WD~P_versus_NP_problem,746242]] 

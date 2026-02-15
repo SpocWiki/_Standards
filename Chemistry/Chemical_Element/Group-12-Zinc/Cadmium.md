@@ -405,6 +405,7 @@ dv_has_name_abbreviated: Cd
 dv_has_number_of_electrons: 48
 Unicode_character: 鎘
 ---
+
 # [[Cadmium]] 鎘 
 
 #chemic/Element 

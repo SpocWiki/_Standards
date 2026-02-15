@@ -172,6 +172,7 @@ dv_has_:
     zh_sg: 环
     zh_tw: 環
 ---
+
 # [[Ring(Math)]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Ring,161172|WD~Ring,161172]]  

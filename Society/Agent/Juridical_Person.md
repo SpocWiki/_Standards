@@ -202,6 +202,7 @@ dv_has_:
     zh_sg: 法人
     zh_tw: 法人
 ---
+
 # [[Juridical_Person]] 
 
 #is_/same_as :: [[WD~Juridical_person,155076]] 

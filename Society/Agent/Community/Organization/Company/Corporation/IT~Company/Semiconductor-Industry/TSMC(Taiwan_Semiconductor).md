@@ -138,6 +138,7 @@ dv_has_:
     zh-my: 台湾积体电路制造公司
     zh_tw: 台灣積體電路製造公司
 ---
+
 # [[TSMC(Taiwan_Semiconductor)]] Manufacturing Company 
 
 #is_/same_as :: [[WD~TSMC,713418]]

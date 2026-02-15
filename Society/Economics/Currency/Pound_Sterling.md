@@ -283,6 +283,7 @@ dv_has_:
     zh_tw: 英鎊
     zu: upondo
 ---
+
 # [[Pound_Sterling]] 
 
 #is_/same_as :: [[WD~Pound_sterling,25224]] 

@@ -397,6 +397,7 @@ dv_has_:
     zh_hans: 卡尔·弗里德里希·高斯
     zh_hant: 卡爾·弗里德里希·高斯
 ---
+
 # [[Gauss,Carl_Friedrich]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Carl_Friedrich_Gauss,6722|WD~Carl_Friedrich_Gauss,6722]] 

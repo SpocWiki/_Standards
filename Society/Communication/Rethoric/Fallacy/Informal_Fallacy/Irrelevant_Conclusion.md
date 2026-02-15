@@ -80,6 +80,7 @@ dv_has_:
     zh_hant: 不相干的謬誤
     zh_hk: 歪曲論題
 ---
+
 # [[Irrelevant_Conclusion]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~irrelevant_conclusion,737677]]

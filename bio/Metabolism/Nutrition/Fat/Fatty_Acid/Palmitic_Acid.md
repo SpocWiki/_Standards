@@ -1076,6 +1076,7 @@ dv_has_:
     zh_tw: 棕櫚酸
 dv_has_formula_structural: CH3(CH2)14COOH
 ---
+
 # [[Palmitic_Acid]] 
 
  has_formula_structural = `= this.dv_has_formula_structural` 

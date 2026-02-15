@@ -254,6 +254,7 @@ dv_has_child_class: '[ Distance, Duration, Energy, Mass ]'
 dv_has_properties: '[ additionalType, alternateName, description, disambiguatingDescription, identifier, image, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, url ]'
 dv_is_worse_than: '[[../Class/is_a_/Intangible/Structured_Value/Quantitative_Value|Quantitative_Value]]'
 ---
+
 # [[Quantity]] 
 
 #is_/same_as :: [[WD~Quantity,309314]] 

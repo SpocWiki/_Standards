@@ -221,6 +221,7 @@ dv_has_:
     zh_hant: 焦耳
     zh_hk: 焦耳
 ---
+
 # [[Joule]] 
 
 #is_/same_as :: [[../../WikiData/WD~Joule,25269|WD~Joule,25269]] 

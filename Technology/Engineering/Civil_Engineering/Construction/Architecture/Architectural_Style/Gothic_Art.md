@@ -206,6 +206,7 @@ dv_has_:
     zh_sg: 哥特式艺术
     zh_tw: 哥德式藝術
 ---
+
 # [[Gothic_Art]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Gothic_art,46825|WD~Gothic_art,46825]] 

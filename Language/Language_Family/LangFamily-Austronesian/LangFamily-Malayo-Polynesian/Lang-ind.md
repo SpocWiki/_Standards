@@ -435,6 +435,7 @@ dv_has_:
     zh_tw: 印尼語
     zu: Isi-Indonesia
 ---
+
 # [[Lang-ind]] 
 
 #is_/same_as :: [[WikiData/WD~Indonesian,9240|WD~Indonesian,9240]] 

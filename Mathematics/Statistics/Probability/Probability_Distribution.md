@@ -178,6 +178,7 @@ dv_has_:
     zh_sg: 概率分布
     zh_tw: 機率分佈
 ---
+
 # [[Probability_Distribution]] 
 
 #is_/same_as  :: [[../../../WikiData/WD~Probability_distribution,200726|WD~Probability_distribution,200726]] 

@@ -92,6 +92,7 @@ dv_has_:
     zh_hk: 多變量常態分佈
     zh_tw: 多變數常態分佈
 ---
+
 # [[Multivariate_normal_Distribution]] 
 
 #is_/same_as :: [[WD~Multivariate_normal_distribution,1149000]] 

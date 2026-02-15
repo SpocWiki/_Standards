@@ -171,6 +171,7 @@ dv_has_:
     zh_hant: 衛星導航系統
     zh_tw: 衛星導航系統
 ---
+
 # [[Global_Navigation_Satellite_System]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Global_navigation_satellite_system,179435|WD~Global_navigation_satellite_system,179435]] 

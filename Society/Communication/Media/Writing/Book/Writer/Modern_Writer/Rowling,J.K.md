@@ -379,6 +379,7 @@ dv_has_:
     zh_tw: J.K.羅琳
     zu: Joanne Kathleen Rowling
 ---
+
 # [[Rowling,J.K]]
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~J._K._Rowling,34660|WD~J._K._Rowling,34660]]

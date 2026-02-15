@@ -75,6 +75,7 @@ dv_has_:
     yue: 表面波
     zh: 面波
 ---
+
 # [[Surface_Wave]] 
 
 #is_/same_as :: [[../../../WikiData/WD~surface_wave,889796]] 

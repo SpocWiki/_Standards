@@ -219,6 +219,7 @@ dv_has_:
     zh_sg: 威廉·肖克利
     zh_tw: 威廉·肖克利
 ---
+
 # [[Shockley,William]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~William_Shockley,163415|WD~William_Shockley,163415]] 

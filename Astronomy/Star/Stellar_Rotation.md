@@ -90,6 +90,7 @@ dv_has_:
     vi: Sự tự quay của sao
     zh: 恆星自轉
 ---
+
 # [[Stellar_Rotation]] 
 
 #is_/same_as :: [[../../WikiData/WD~Stellar_rotation,6464|WD~Stellar_rotation,6464]]  

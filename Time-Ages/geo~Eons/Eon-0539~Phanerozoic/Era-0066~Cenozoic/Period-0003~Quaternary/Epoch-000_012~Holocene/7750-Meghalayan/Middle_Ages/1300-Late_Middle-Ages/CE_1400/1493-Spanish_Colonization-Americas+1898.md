@@ -155,6 +155,7 @@ dv_has_:
     zh-hant: 西班牙美洲殖民地
     zh-hk: 西班牙美洲殖民地
 ---
+
 # [[1493-Spanish_Colonization-Americas+1898]] 
 
 #is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Spanish_colonization_of_the_Americas,1047607|WD~Spanish_colonization_of_the_Americas,1047607]]  

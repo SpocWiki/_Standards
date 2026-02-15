@@ -165,6 +165,7 @@ dv_has_:
     zh_sg: 理想气体
     zh_tw: 理想氣體
 ---
+
 # [[Ideal_Gas]] 
 
 #is_/same_as :: [[WD~Ideal_gas,172280]] 

@@ -133,6 +133,7 @@ dv_has_:
     zh_sg: 极简主义
     zh_tw: 極簡主義
 ---
+
 # [[Minimalism]] 
 
 #is_/same_as :: [[WD~Minimalism,173436]] 

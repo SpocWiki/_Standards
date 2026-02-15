@@ -183,6 +183,7 @@ dv_has_:
     zh_hk: 建築風格
     zh_tw: 建築風格
 ---
+
 # [[Architectural_Style]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Architectural_style,32880|WD~Architectural_style,32880]] 

@@ -126,6 +126,7 @@ dv_has_:
     zh_sg: 配子体
     zh_tw: 配子體
 ---
+
 # [[Gametophyte]] 
 
 #has_/complement :: [[Sporophyte]] 

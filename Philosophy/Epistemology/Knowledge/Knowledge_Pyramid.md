@@ -51,6 +51,7 @@ dv_has_:
     zh_hant: DIKW體系
     zh_hk: DIKW體系
 ---
+
 # [[Knowledge_Pyramid]] 
 
 #is_/same_as :: [[Knowledge Pyramid,]]

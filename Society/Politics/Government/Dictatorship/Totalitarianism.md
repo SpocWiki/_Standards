@@ -204,6 +204,7 @@ dv_has_:
     zh_sg: 极权主义
     zh_tw: 極權主義
 ---
+
 # [[Totalitarianism]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Totalitarianism,128135|WD~Totalitarianism,128135]]  

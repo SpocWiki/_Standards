@@ -32,6 +32,7 @@ aliases:
 - デイノコッカス門
 - 奇异球菌门
 ---
+
 # [[Deinococcota]] 
 
 

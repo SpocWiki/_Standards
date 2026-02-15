@@ -160,6 +160,7 @@ aliases:
 - 電梯
 - 에스컬레이터
 ---
+
 # [[Escalator]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Escalator,15003|WD~Escalator,15003]] 

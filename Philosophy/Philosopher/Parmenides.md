@@ -202,6 +202,7 @@ dv_has_:
     zh_sg: 巴门尼德
     zh_tw: 巴門尼德
 ---
+
 # [[Parmenides]] 
 
 #is_/same_as :: [[WD~Parmenides,125551]] 

@@ -265,6 +265,7 @@ dv_has_:
     zh_hant: 法老
     zh_tw: 法老
 ---
+
 # [[Pharaoh]] 
 
 #is_/same_as :: [[WD~Pharaoh,37110]] 

@@ -301,6 +301,7 @@ dv_has_:
     zh_hant: 心灵
     zu: Ingqondo
 ---
+
 # [[Mind]] 
 
 #is_/same_as :: [[../../WikiData/WD~Mind,450|WD~Mind,450]] 

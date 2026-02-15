@@ -106,6 +106,7 @@ dv_has_:
     zh: 工业机器人
     zu: IsiThununu sezimboni
 ---
+
 # [[Industrial_Robot]] 
 
 #is_/same_as :: [[WD~Industrial_robot,1128980]] 

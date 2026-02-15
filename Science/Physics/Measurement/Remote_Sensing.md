@@ -169,6 +169,7 @@ dv_has_:
     zh_sg: 遥感
     zh_tw: 遙測
 ---
+
 # [[Remote_Sensing]] 
 
 #is_/same_as :: [[WD~Remote_sensing,199687]] 

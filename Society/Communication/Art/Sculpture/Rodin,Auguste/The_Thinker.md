@@ -157,6 +157,7 @@ dv_has_:
     yue: 思索者
     zh: 沉思者
 ---
+
 # [[The_Thinker]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~The_Thinker,18003128|WD~The_Thinker,18003128]]  

@@ -294,6 +294,7 @@ dv_has_:
     zh_hant: 古加拉特語
     zu: isi-Gujarati
 ---
+
 # [[Lang-guj]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Gujarati,5137|WD~Gujarati,5137]] 

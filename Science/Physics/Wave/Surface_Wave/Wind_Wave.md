@@ -204,6 +204,7 @@ dv_has_:
     zh_tw: 海浪
 Unicode_character: 🌊
 ---
+
 # [[Wind_Wave]] 🌊 
 
 #is_/same_as :: [[../../../../WikiData/WD~Wind_wave,165848|WD~Wind_wave,165848]]  

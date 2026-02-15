@@ -430,6 +430,7 @@ dv_has_:
     zh_tw: 科學家
     zu: imfundondalo
 ---
+
 # [[Scientist]] 
 
 #is_/same_as :: [[../WikiData/WD~Scientist,901|WD~Scientist,901]] 

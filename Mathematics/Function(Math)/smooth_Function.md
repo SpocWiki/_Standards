@@ -96,6 +96,7 @@ dv_has_:
     zh_hk: 光滑函數
     zh_tw: 光滑函数
 ---
+
 # [[smooth_Function]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~smooth_function,868473]] 

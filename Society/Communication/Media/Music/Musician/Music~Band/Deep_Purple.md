@@ -191,6 +191,7 @@ dv_has_:
     zh_sg: 深紫
     zh_tw: 深紫
 ---
+
 # [[Deep_Purple]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Deep_Purple,101505|WD~Deep_Purple,101505]] 

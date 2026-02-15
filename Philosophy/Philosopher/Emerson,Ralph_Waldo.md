@@ -257,6 +257,7 @@ dv_has_:
     yue: 愛默生
     zh: 拉尔夫·沃尔多·爱默生
 ---
+
 # [[Emerson,Ralph_Waldo]] 
 
 #is_/friend_of :: [[Thoreau,Henry_David|Thoreau,Henry_David]] 

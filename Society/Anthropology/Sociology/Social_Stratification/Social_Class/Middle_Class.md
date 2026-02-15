@@ -159,6 +159,7 @@ dv_has_:
     zh_sg: 中产阶级
     zh_tw: 中產階級
 ---
+
 # [[Middle_Class]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Middle_class,241588|WD~Middle_class,241588]] 

@@ -105,6 +105,7 @@ dv_has_:
     vi: Khiên Guiana
     zh: 圭亚那地盾
 ---
+
 # [[Guiana_Shield]] 
 
 #is_/same_as :: [[WD~Guiana_Shield,9309106]]

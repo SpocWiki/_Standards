@@ -386,6 +386,7 @@ dv_has_:
     za: Ndaengq'ien
     zh: 尼古丁
 ---
+
 # [[Nicotine]] 
 
 #is_/same_as :: [[../../WikiData/WD~Nicotine,28086552|WD~Nicotine,28086552]] 

@@ -235,6 +235,7 @@ dv_has_:
     zh_tw: 勢能
     zu: Isidlakathi
 ---
+
 # [[Potential_Energy]] 
 
 #is_/same_as :: [[WD~Potential_energy,155640]] 

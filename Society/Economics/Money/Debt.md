@@ -204,6 +204,7 @@ dv_has_:
     zh_hant: 債務
     zh_hk: 債務
 ---
+
 # [[Debt]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Debt,3196867|WD~Debt,3196867]] 

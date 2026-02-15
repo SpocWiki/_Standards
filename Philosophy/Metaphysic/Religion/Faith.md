@@ -231,6 +231,7 @@ dv_has_:
     zh_sg: 信仰
     zh_tw: 信仰
 ---
+
 # [[Faith]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Faith,5410500|WD~Faith,5410500]] 

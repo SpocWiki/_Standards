@@ -190,6 +190,7 @@ dv_has_:
     zh_sg: 核子
     zh_tw: 核子
 ---
+
 # [[Nucleon]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~nucleon,102165]] 

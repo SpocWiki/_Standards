@@ -159,6 +159,7 @@ dv_has_:
     zh_hant: 歸納推理
     zh_hk: 歸納推理
 ---
+
 # [[Inductive_Reasoning]] 
 
 #is_/different_from :: [[../../../Mathematics/Proof(Math)/Induction_Proof]] 

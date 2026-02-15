@@ -272,6 +272,7 @@ dv_has_:
     zh_tw: 中央處理器
     zu: isidludlungi esimqoka
 ---
+
 # [[Central_Processing_Unit]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Central_processing_unit,5300|WD~Central_processing_unit,5300]] 

@@ -358,6 +358,7 @@ dv_has_:
     zh_hant: 穆斯林
     zu: Amasulumane
 ---
+
 # [[Muslim]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Muslim,47740|WD~Muslim,47740]] 

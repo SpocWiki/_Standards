@@ -62,6 +62,7 @@ dv_has_:
     zh_hans: 摩根马
     zh_hant: 摩根馬
 ---
+
 # [[Morgan_Horse]] 
 
 #is_/same_as :: [[WD~Morgan_horse,1179217]] 

@@ -399,6 +399,7 @@ dv_has_:
     zh_sg: 社会学
     zh_tw: 社會學
 ---
+
 # [[Sociology]] 
 
 researches the Formation of "Society" and the Interaction with the Individual. 

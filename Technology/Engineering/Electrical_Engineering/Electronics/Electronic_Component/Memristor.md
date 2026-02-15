@@ -68,6 +68,7 @@ aliases:
 - 憶阻器
 - 멤리스터
 ---
+
 # [[Memristor]] 
 
 Memristance is charge-dependent [resistance](https://en.wikipedia.org/wiki/Electrical_resistance "Electrical resistance"), analog to 

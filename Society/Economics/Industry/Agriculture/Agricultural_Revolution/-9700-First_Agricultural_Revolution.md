@@ -199,6 +199,7 @@ dv_has_:
     zh_sg: 新石器革命
     zh_tw: 新石器革命
 ---
+
 # [[-9700-First_Agricultural_Revolution]] 
 
 #is_/part_of :: [[../Agricultural_Revolution]] 

@@ -282,6 +282,7 @@ dv_has_:
     zu: IsiQaqululi
 Unicode_character: 🖩
 ---
+
 # [[Calculator]] 🖩 
 
 #is_/same_as :: [[../../WikiData/WD~Calculator,31087|WD~Calculator,31087]] 

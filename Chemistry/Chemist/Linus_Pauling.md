@@ -337,6 +337,7 @@ dv_has_:
     zh_hans: 萊納斯·鮑林
     zh_hant: 萊納斯·鮑林
 ---
+
 # [[Linus_Pauling]] 
 
 #is_/same_as :: [[WD~Linus_Pauling,48983]] 

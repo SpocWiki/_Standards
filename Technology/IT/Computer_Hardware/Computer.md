@@ -568,6 +568,7 @@ dv_has_:
     zh_tw: 電腦
     zu: ikhompyutha
 ---
+
 # [[Computer]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Computer,68|WD~Computer,68]] 

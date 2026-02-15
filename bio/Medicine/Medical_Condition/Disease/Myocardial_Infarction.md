@@ -370,6 +370,7 @@ dv_has_:
     zh_sg: 心肌梗死
     zh_tw: 心臟病
 ---
+
 # [[Myocardial_Infarction]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Myocardial_infarction,12152|WD~Myocardial_infarction,12152]] 

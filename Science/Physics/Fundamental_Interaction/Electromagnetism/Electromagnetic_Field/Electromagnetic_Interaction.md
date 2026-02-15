@@ -195,6 +195,7 @@ dv_has_:
     zh_hant: 電磁力
     zh_hk: 電磁力
 ---
+
 # [[Electromagnetic_Interaction]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Electromagnetic_interaction,849919|WD~Electromagnetic_interaction,849919]] 

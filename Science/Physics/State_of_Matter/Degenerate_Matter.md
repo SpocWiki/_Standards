@@ -107,6 +107,7 @@ dv_has_:
     vi: vật chất suy biến
     zh: 简并态物质
 ---
+
 # [[Degenerate_Matter]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Degenerate_matter,51368|WD~Degenerate_matter,51368]] 

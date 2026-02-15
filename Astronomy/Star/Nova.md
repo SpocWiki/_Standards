@@ -143,6 +143,7 @@ dv_has_:
     yue: 新星
     zh: 新星
 ---
+
 # [[Nova]] 
 
 #is_/same_as :: [[WD~Nova,6458]] 

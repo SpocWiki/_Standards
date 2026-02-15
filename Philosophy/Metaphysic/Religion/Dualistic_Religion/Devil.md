@@ -252,6 +252,7 @@ dv_has_:
     zh_hant: 魔鬼
     zh_hk: 魔鬼
 ---
+
 # [[Devil]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Devil,6674|WD~Devil,6674]] 

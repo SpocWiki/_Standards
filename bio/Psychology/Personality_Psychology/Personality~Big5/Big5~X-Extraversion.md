@@ -155,6 +155,7 @@ dv_has_:
     zh_sg: 外向性与内向性
     zh_tw: 外向性與內向性
 ---
+
 # [[Big5~X-Extraversion]] 
 
 #is_/part_of :: [[../Personality~Big5]] 

@@ -214,6 +214,7 @@ dv_has_:
     zh_sg: 约西亚·威拉德·吉布斯
     zh_tw: 約西亞·威拉德·吉布斯
 ---
+
 # [[Gibbs,Josiah_Willard]] 
 
 #is_/same_as :: [[WD~Josiah_Willard_Gibbs,153243]] 

@@ -99,6 +99,7 @@ dv_has_:
     zh_hant: 多重積分
     zh_hk: 多重積分
 ---
+
 # [[Multiple_Integral]] 
 
 #is_/same_as :: [[WD~Multiple_integral,844937]] 

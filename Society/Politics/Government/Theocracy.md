@@ -226,6 +226,7 @@ dv_has_:
     yue: 神權政治
     zh: 神權政治
 ---
+
 # [[Theocracy]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Theocracy,44405|WD~Theocracy,44405]]  

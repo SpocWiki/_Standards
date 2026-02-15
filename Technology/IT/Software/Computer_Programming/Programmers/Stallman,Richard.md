@@ -265,6 +265,7 @@ dv_has_:
     zh_hant: 理查·史托曼
     zh_tw: 理查·史托曼
 ---
+
 # [[Stallman,Richard]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Richard_Stallman,7439|WD~Richard_Stallman,7439]] 

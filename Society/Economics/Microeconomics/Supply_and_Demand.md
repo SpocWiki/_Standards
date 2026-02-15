@@ -196,6 +196,7 @@ dv_has_:
     zh_sg: 供给和需求
     zh_tw: 供給和需求
 ---
+
 # [[Supply_and_Demand]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Supply_and_demand,166656|WD~Supply_and_demand,166656]] 

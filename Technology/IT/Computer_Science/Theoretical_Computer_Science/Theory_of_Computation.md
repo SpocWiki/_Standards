@@ -129,6 +129,7 @@ dv_has_:
     zh_hant: 計算理論
     zh_hk: 計算理論
 ---
+
 # [[Theory_of_Computation]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Theory_of_computation,844718|WD~Theory_of_computation,844718]]  

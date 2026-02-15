@@ -189,6 +189,7 @@ dv_has_:
     zh_hant: 雕塑
     zh_tw: 雕塑
 ---
+
 # [[Sculpture]]
 
 Class of all sculptures.

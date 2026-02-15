@@ -335,6 +335,7 @@ dv_has_:
     zh_hans: 量子力学
     zu: Ukuguxazela kohoyana
 ---
+
 # [[Quantum_Mechanics]] 
 
 #is_/same_as :: [[../../WikiData/WD~Quantum_mechanics,944|WD~Quantum_mechanics,944]] 

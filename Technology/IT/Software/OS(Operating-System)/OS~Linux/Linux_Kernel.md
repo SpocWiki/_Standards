@@ -146,6 +146,7 @@ aliases:
 - 林納斯内核
 - 리눅스 커널
 ---
+
 # [[Linux_Kernel]] 
 
 #has_/creator :: [[../../../Computer_Science/Computer_Scientist/Torvalds,Linus|Linus_Torvalds]] 

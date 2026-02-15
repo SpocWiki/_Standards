@@ -335,6 +335,7 @@ dv_has_:
     zh_sg: 布莱兹·帕斯卡
     zh_tw: 布萊茲·帕斯卡
 ---
+
 # [[Pascal,Blaise]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Blaise_Pascal,1290|WD~Blaise_Pascal,1290]] 

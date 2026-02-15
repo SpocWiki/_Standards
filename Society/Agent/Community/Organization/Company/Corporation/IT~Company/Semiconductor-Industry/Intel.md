@@ -95,6 +95,7 @@ aliases:
 - 英特爾
 - 인텔
 ---
+
 # [[Intel]] 
 
 #has_/time_/started :: 1968-07-18 

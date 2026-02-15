@@ -392,6 +392,7 @@ dv_has_:
     zh_tw: 頭痛
 Unicode_character: 🤕
 ---
+
 # [[Headache]] 🤕 
 
 #is_/same_as :: [[../../../../WikiData/WD~Headache,86|WD~Headache,86]] 

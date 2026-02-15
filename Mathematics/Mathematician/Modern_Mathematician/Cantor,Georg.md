@@ -300,6 +300,7 @@ dv_has_:
     zh_hans: 格奥尔格·康托尔
     zu: Georg Cantor
 ---
+
 # [[Cantor,Georg]] 
 
 - [[#has_/time_/started :: 1845-03-03]] [[#has_/place_ :: [[St.Petersburg]] ]] 

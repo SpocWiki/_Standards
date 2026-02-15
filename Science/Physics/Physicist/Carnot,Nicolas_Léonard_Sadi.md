@@ -190,6 +190,7 @@ dv_has_:
     zh_sg: 尼古拉·莱昂纳尔·萨迪·卡诺
     zh_tw: 尼古拉·萊昂納爾·薩迪·卡諾
 ---
+
 # [[Carnot,Nicolas_Léonard_Sadi]] 
 
 #is_/same_as :: [[WD~Nicolas_Carnot,181685]] 

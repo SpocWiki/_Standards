@@ -191,6 +191,7 @@ dv_has_:
     zh_hant: 新藝術運動
     zh_tw: 新藝術運動
 ---
+
 # [[1880-Art_Nouveau+1910]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Art_Nouveau,34636|WD~Art_Nouveau,34636]] 

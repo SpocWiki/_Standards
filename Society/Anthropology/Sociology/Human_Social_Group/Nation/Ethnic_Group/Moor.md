@@ -187,6 +187,7 @@ dv_has_:
     zh_sg: 摩尔人
     zh_tw: 摩爾人
 ---
+
 # [[Moor]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Moors,169260|WD~Moors,169260]] 

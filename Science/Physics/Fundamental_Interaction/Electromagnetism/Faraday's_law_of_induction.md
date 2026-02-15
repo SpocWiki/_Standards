@@ -143,6 +143,7 @@ dv_has_:
     zh_sg: 法拉第电磁感应定律
     zh_tw: 法拉第電磁感應定律
 ---
+
 # [[Faraday's_law_of_induction]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Faraday's_law_of_induction,181465|WD~Faraday's_law_of_induction,181465]] 

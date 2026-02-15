@@ -153,6 +153,7 @@ dv_has_:
     zh_sg: 纽约客
     zh_tw: 紐約客
 ---
+
 # [[New_Yorker]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~The_New_Yorker,217305|WD~The_New_Yorker,217305]]  

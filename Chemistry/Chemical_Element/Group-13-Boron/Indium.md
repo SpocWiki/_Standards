@@ -379,6 +379,7 @@ dv_has_number_of_group: 13
 dv_has_name_abbreviated: In
 dv_has_number_of_electrons: 49
 ---
+
 # [[Indium]] 銦 
 
 

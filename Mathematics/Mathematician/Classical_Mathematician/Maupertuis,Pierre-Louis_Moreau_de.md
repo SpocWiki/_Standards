@@ -173,6 +173,7 @@ dv_has_:
     zh_sg: 皮埃尔·莫佩尔蒂
     zh_tw: 皮埃爾·莫佩爾蒂
 ---
+
 # [[Maupertuis,Pierre-Louis_Moreau_de]] 
 
 #is_/same_as :: [[WD~Pierre-Louis_Moreau_de_Maupertuis,164374]] 

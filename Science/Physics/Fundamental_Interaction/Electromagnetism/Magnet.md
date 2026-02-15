@@ -247,6 +247,7 @@ aliases:
 - 자석
 Unicode_character: 🧲
 ---
+
 # [[Magnet]] 🧲 
 
 

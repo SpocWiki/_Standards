@@ -87,6 +87,7 @@ dv_has_:
     zh_hant: 國際水中運動聯合會
     zh_hk: 國際水中運動聯合會
 ---
+
 # [[Confédération_Mondiale_des_Activités_Subaquatiques]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Confédération_Mondiale_des_Activités_Subaquatiques,845773|WD~Confédération_Mondiale_des_Activités_Subaquatiques,845773]]

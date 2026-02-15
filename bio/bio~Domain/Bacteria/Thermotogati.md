@@ -37,6 +37,7 @@ aliases:
 - 热袍菌界
 - 熱袍菌界
 ---
+
 # [[Thermotogati]] 
 
 

@@ -280,6 +280,7 @@ dv_has_:
     yue: 十誡
     zh: 十誡
 ---
+
 # [[Ten_Commandments]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Ten_Commandments,34623|WD~Ten_Commandments,34623]]  

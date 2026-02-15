@@ -276,6 +276,7 @@ dv_has_:
     zh_tw: 電磁波
     zu: IMiyonzi yeNzubawonga
 ---
+
 # [[Electromagnetic_Radiation]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Electromagnetic_radiation,12969754|WD~Electromagnetic_radiation,12969754]] 

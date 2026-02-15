@@ -195,6 +195,7 @@ dv_is_same_as:
 dv_has_time_started: 1543-06-01T00:00:00.000+00:53
 dv_has_time_stopped: 1687-06-01T00:00:00.000+00:53
 ---
+
 # [[1543-Scientific_Revolution]]  
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Scientific_Revolution,214078]] 

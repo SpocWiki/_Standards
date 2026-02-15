@@ -284,6 +284,7 @@ dv_has_:
     zh_hant: 相對論
     zu: Umchachiso wokucakathana
 ---
+
 # [[Theory_of_Relativity]] 
 
 #is_/same_as :: [[../../WikiData/WD~Theory_of_relativity,43514|WD~Theory_of_relativity,43514]]  

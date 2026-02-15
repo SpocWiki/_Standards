@@ -142,6 +142,7 @@ dv_has_:
     zh: 技击运动
     zh_hant: 技擊運動
 ---
+
 # [[Combat_Sport]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~combat_sport,7128792]] 

@@ -391,6 +391,7 @@ dv_has_number_of_period: 6
 dv_has_number_of_group: 2
 Unicode_character: 鋇
 ---
+
 # [[Barium]] 鋇 
 
 #chemic/Element 

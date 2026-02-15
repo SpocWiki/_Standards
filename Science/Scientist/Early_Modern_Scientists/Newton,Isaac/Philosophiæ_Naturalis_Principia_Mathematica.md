@@ -155,6 +155,7 @@ dv_has_:
     zh_sg: 自然哲学的数学原理
     zh_tw: 自然哲學的數學原理
 ---
+
 # [[Philosophiæ_Naturalis_Principia_Mathematica]] 
 
 #is_/same_as :: [[WD~Philosophiæ_Naturalis_Principia_Mathematica,205921]] 

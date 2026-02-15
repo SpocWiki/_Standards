@@ -305,6 +305,7 @@ aliases:
 - 호박
 Unicode_character: 🎃
 ---
+
 # [[Pumpkin]] 🎃 
 
 

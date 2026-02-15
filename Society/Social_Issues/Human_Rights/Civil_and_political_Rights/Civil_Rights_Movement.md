@@ -141,6 +141,7 @@ aliases:
 - 非裔美國人民權運動
 - 미국의 흑인 민권 운동
 ---
+
 # [[Civil_Rights_Movement]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Civil_rights_movement,48537|WD~Civil_rights_movement,48537]] 

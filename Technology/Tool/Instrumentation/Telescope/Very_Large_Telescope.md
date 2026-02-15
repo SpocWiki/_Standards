@@ -118,6 +118,7 @@ dv_has_:
     yue: 超大型望遠鏡
     zh: 甚大望远镜
 ---
+
 # [[Very_Large_Telescope]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Very_Large_Telescope,265628|WD~Very_Large_Telescope,265628]]  

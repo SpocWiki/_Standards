@@ -194,6 +194,7 @@ dv_has_:
     zh_sg: 热容
     zh_tw: 熱容
 ---
+
 # [[Heat_Capacity]] 
 
 #is_/same_as :: [[WD~Heat_capacity,179388]] 

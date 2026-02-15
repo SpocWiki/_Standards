@@ -159,6 +159,7 @@ dv_has_:
     zh_sg: 国富论
     zh_tw: 國富論
 ---
+
 # [[Wealth_of_Nations]] 
 
 #is_a :: [[../../../Communication/Media/Writing/Book|Book]] 

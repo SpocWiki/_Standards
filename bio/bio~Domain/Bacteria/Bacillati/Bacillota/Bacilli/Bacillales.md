@@ -65,6 +65,7 @@ aliases:
 - 芽孢杆菌目
 - 바킬루스목
 ---
+
 # [[Bacillales]]  
 
 ## #has_/text_of_/abstract 

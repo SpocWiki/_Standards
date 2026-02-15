@@ -280,6 +280,7 @@ dv_has_:
     zh-hk: 西班牙內戰
     zh-tw: 西班牙內戰
 ---
+
 # [[1936-Spanish_Civil_War+1939]]
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Spanish_Civil_War,10859|WD~Spanish_Civil_War,10859]]

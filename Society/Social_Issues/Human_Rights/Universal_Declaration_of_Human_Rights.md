@@ -509,6 +509,7 @@ dv_has_:
     zh_hk: 世界人權宣言
     zh_tw: 世界人權宣言
 ---
+
 # [[Universal_Declaration_of_Human_Rights]]  
 
 #has_/next_/item :: [[International_Bill_of_Human_Rights]] 

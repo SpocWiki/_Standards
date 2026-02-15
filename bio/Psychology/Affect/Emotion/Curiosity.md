@@ -153,6 +153,7 @@ dv_has_:
     zh_cn: 好奇心
     zh_tw: 好奇心
 ---
+
 # [[Curiosity]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Curiosity,366791|WD~Curiosity,366791]] 

@@ -152,6 +152,7 @@ dv_has_:
     zh_hk: 函數式編程
     zh_sg: 函数式编程
 ---
+
 # [[Prog~Functional]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Functional_programming,193076|WD~Functional_programming,193076]]  

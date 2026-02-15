@@ -157,6 +157,7 @@ dv_has_:
     zh_sg: 希尔伯特空间
     zh_tw: 希爾伯特空間
 ---
+
 # [[Hilbert_Space]] 
 
 A [[Hilbert_Space]] is a [[Banach_Space]] with an **inner product** ⟨⋅,⋅⟩ inducing the Norm 

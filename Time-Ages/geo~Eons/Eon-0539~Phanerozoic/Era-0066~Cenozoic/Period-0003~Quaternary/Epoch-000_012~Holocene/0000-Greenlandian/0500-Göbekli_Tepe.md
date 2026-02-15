@@ -181,6 +181,7 @@ dv_has_:
     zh-sg: 哥贝克力石阵
     zh-tw: 哥貝克力石陣
 ---
+
 # [[0500-Göbekli_Tepe]] 
 
 #is_/same_as :: [[WD~Göbekli_Tepe,214944]] 

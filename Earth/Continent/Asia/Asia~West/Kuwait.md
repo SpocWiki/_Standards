@@ -765,6 +765,7 @@ country_calling_code: 965
 CIVICUS_Monitor_country_entry: kuwait
 Unicode_character: 🇰🇼
 ---
+
 # [[Kuwait]] 🇰🇼 
 
 

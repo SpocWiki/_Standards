@@ -195,6 +195,7 @@ dv_has_:
     yue: 丹增諾蓋
     zh: 丹增诺盖
 ---
+
 # [[Tenzing_Norgay]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Tenzing_Norgay,80732|WD~Tenzing_Norgay,80732]]  

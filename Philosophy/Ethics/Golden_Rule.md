@@ -147,6 +147,7 @@ dv_has_:
     zh_sg: 恕道
     zh_tw: 恕道
 ---
+
 # [[Golden_Rule]] 
 
 #is_/same_as :: [[WD~Golden_Rule,189573]] 

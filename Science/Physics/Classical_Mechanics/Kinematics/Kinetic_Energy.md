@@ -236,6 +236,7 @@ dv_has_:
     zh: 动能
     zu: impekumpeku
 ---
+
 # [[Kinetic_Energy]] 
 
 #is_/same_as :: [[WD~Kinetic_energy,46276]] 

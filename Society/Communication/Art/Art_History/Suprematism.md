@@ -130,6 +130,7 @@ dv_has_:
     zh_sg: 至上主义
     zh_tw: 至上主義
 ---
+
 # [[Suprematism]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Suprematism,191970|WD~Suprematism,191970]]  

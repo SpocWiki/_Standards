@@ -252,6 +252,7 @@ dv_has_:
     yue: 凡德羅
     zh: 路德維希·密斯·凡德羅
 ---
+
 # [[Mies,Ludwig]] 
 
 #has_/created_/quote :: less is more

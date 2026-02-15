@@ -173,6 +173,7 @@ dv_has_:
     zh_sg: 未来主义
     zh_tw: 未來主義
 ---
+
 # [[Futurism]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Futurism,131221|WD~Futurism,131221]] 

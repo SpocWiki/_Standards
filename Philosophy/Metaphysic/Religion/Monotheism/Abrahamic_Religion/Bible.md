@@ -722,6 +722,7 @@ dv_has_:
     zh_tw: 聖經
     zu: IBhayibheli
 ---
+
 # [[Bible]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Bible,1845|WD~Bible,1845]] 

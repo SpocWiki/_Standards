@@ -289,6 +289,7 @@ dv_has_:
     zh_sg: 亚西尔·阿拉法特
     zh_tw: 亞西爾·阿拉法特
 ---
+
 # [[Arafat,Yasser]]  
 
 #is_/same_as :: [[../../../../../WikiData/WD~Yasser_Arafat,34211|WD~Yasser_Arafat,34211]]   

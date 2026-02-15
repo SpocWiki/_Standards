@@ -109,6 +109,7 @@ aliases:
 - 聖誕夜驚魂
 - 팀 버튼의 크리스마스 악몽
 ---
+
 # [[Nightmare_Before_Christmas,1993]]  
 
 #has_/director :: [[../Movie-Directors/Burton,Tim|Burton,Tim]] 

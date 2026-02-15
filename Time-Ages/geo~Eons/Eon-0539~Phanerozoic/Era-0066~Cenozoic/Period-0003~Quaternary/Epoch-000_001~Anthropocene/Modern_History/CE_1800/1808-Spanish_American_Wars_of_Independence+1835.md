@@ -142,6 +142,7 @@ dv_has_:
     vi: Chiến tranh giành độc lập châu Mỹ Tây Ban Nha
     zh: 西班牙美洲獨立戰爭
 ---
+
 # [[1808-Spanish_American_Wars_of_Independence+1835]]
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Spanish_American_Wars_of_Independence,1123201|WD~Spanish_American_Wars_of_Independence,1123201]]

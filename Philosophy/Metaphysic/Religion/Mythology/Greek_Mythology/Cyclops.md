@@ -180,6 +180,7 @@ dv_has_:
     zh_tw: 獨眼巨人
     zu: isayiklopsi
 ---
+
 # [[Cyclops]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Cyclops,128430|WD~Cyclops,128430]] 

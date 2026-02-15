@@ -106,6 +106,7 @@ dv_has_:
     uz: Kefey
     zh: 刻甫斯
 ---
+
 # [[Cepheus]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~Cepheus,_King_of_Aethiopia,858116]] 

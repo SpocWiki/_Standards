@@ -572,6 +572,7 @@ dv_has_:
     zh_hk: 哥迪·莫奈
     zh_tw: 克洛德·莫內
 ---
+
 # [[Monet,Claude]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Claude_Monet,296|WD~Claude_Monet,296]] 

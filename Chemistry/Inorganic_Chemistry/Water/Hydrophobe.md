@@ -132,6 +132,7 @@ dv_has_:
     zh_sg: 疏水性
     zh_tw: 疏水性
 ---
+
 # [[Hydrophobe]] 
 
 #is_/same_as :: [[WikiData/WD~Hydrophobe,219567|WD~Hydrophobe,219567]] 

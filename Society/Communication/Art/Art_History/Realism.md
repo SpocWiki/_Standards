@@ -151,6 +151,7 @@ dv_has_:
     zh_hant: 現實主義
     zh_tw: 現實主義
 ---
+
 # [[Realism]] 
 
 #is_/similar_to :: [[Naturalism(Art)]] 

@@ -610,6 +610,7 @@ dv_has_:
     zh_tw: 蘋果公司
     zu: Apple Inc.
 ---
+
 # [[Apple_Inc]] 
 
 #is_a_/Corporation 

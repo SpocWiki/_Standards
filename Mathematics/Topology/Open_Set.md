@@ -118,6 +118,7 @@ dv_has_:
     zh_sg: 开集
     zh_tw: 開集
 ---
+
 # [[Open_Set]] 
 
 #is_/same_as :: [[WD~Open_set,213363]] 

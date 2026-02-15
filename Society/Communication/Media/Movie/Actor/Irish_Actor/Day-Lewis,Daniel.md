@@ -236,6 +236,7 @@ dv_has_:
     zh_sg: 丹尼尔·戴-路易斯
     zh_tw: 丹尼爾·戴-路易斯
 ---
+
 # [[Day-Lewis,Daniel]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Daniel_Day-Lewis,166389|WD~Daniel_Day-Lewis,166389]] 

@@ -265,6 +265,7 @@ dv_has_:
     zh_hant: 依納爵·羅耀拉
     zh_tw: 依納爵·羅耀拉
 ---
+
 # [[Ignatius_of_Loyola]] 
 
 #has_/created :: [[../Jesuit]] 

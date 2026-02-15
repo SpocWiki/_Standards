@@ -123,6 +123,7 @@ dv_has_:
     xmf: ტრიუმვირატი
     zh: 三头同盟
 ---
+
 # [[Triumvirate]] 
 
 #is_/same_as :: [[WD~Triumvirate,83204]] 

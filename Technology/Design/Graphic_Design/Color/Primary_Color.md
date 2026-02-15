@@ -190,6 +190,7 @@ dv_has_:
     zh: 原色
     zh_hans: 原色
 ---
+
 # [[Primary_Color]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Primary_color,166902|WD~Primary_color,166902]]  

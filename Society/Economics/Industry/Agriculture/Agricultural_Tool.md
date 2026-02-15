@@ -94,6 +94,7 @@ dv_has_:
     yue: 農具
     zh: 农具
 ---
+
 # [[Agricultural_Tool]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~agricultural_tool,3629395]] 

@@ -90,6 +90,7 @@ dv_has_:
     uk: сніп
     zh: 稻草束
 ---
+
 # [[Sheaf(Agriculture)]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Sheaf,942040|WD~Sheaf,942040]]

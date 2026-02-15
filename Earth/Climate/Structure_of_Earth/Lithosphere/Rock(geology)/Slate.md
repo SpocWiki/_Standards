@@ -164,6 +164,7 @@ aliases:
 - 粘板岩
 - 점판암
 ---
+
 # [[Slate]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Slate,207079|WD~Slate,207079]]  

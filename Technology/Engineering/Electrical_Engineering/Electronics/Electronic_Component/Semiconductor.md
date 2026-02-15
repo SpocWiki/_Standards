@@ -249,6 +249,7 @@ dv_has_:
     zh_hant: 半導體
     zh_tw: 半導體
 ---
+
 # [[Semiconductor]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Semiconductor,11456|WD~Semiconductor,11456]] 

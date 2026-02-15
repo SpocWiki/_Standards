@@ -240,6 +240,7 @@ dv_has_:
     zh_cn: 彼得·阿列克谢耶维奇·克鲁泡特金
     zh_hant: 彼得·阿歷克塞維奇·克魯泡特金
 ---
+
 # [[Kropotkin,Peter]] 
 
 #is_/same_as :: [[WD~Peter_Kropotkin,5752]] 

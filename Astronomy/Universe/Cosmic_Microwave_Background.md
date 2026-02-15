@@ -219,6 +219,7 @@ dv_has_:
     zh_sg: 宇宙微波背景辐射
     zh_tw: 宇宙微波背景辐射
 ---
+
 # [[Cosmic_Microwave_Background]] 
 
 #is_/same_as :: [[../../WikiData/WD~Cosmic_microwave_background,15605|WD~Cosmic_microwave_background,15605]] 

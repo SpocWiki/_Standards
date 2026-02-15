@@ -402,6 +402,7 @@ dv_has_:
     zh_sg: 小麦
     zh_tw: 小麥
 ---
+
 # [[Wheat]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Wheat,15645384|WD~Wheat,15645384]]

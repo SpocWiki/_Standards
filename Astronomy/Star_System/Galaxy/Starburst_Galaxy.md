@@ -112,6 +112,7 @@ dv_has_:
     zh_hant: 星暴星系
     zh_hk: 星暴星系
 ---
+
 # [[Starburst_Galaxy]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Starburst_galaxy,726611|WD~Starburst_galaxy,726611]]  

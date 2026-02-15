@@ -147,6 +147,7 @@ dv_has_:
     zh_sg: 约翰·文森特·阿塔纳索夫
     zh_tw: 約翰·文森特·阿塔納索夫
 ---
+
 # [[Atanasoff,John_Vincent]] 
 
 #is_/same_as :: [[WD~John_Vincent_Atanasoff,314308]] 

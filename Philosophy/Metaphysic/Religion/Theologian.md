@@ -252,6 +252,7 @@ aliases:
 - 神學
 - 신학
 ---
+
 # [[Theologian]]  
 
 ## #has_/text_of_/abstract 

@@ -197,6 +197,7 @@ dv_has_:
     zh_sg: 上座部佛教
     zh_tw: 上座部佛教
 ---
+
 # [[Theravāda]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Theravāda,132265|WD~Theravāda,132265]]  

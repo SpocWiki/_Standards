@@ -356,6 +356,7 @@ dv_has_:
     zh_hant: 南極點
     zh_tw: 南極點
 ---
+
 # [[South_Pole]] 
 
 #is_/same_as :: [[../../../WikiData/WD~South_Pole,933|WD~South_Pole,933]] 

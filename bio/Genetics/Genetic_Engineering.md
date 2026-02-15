@@ -230,6 +230,7 @@ dv_has_:
     zh_tw: 基因工程
     zu: UmNgcikisho wezifuzisi
 ---
+
 # [[Genetic_Engineering]] 
 
 #is_/same_as :: [[WD~Genetic_engineering,159236]] 

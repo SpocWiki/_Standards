@@ -87,6 +87,7 @@ aliases:
 - 幺半群
 - 모노이드
 ---
+
 # [[Monoid]] 
 
 A Monoid can be represented...

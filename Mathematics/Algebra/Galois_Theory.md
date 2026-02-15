@@ -123,6 +123,7 @@ dv_has_:
     zh: 伽羅瓦理論
     zh_hant: 伽羅瓦理論
 ---
+
 # [[Galois_Theory]] 
 
 #is_/same_as :: [[../../WikiData/WD~Galois_theory,92552|WD~Galois_theory,92552]] 

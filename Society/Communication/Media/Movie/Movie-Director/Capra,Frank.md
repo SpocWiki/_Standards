@@ -203,6 +203,7 @@ dv_has_:
     zh-my: 法兰克·卡普拉
     zh_sg: 法兰克·卡普拉
 ---
+
 # [[Capra,Frank]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Frank_Capra,51492|WD~Frank_Capra,51492]] 

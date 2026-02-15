@@ -192,6 +192,7 @@ dv_has_:
     zh_sg: 佩德罗·阿尔瓦雷斯·卡布拉尔
     zh_tw: 佩德羅·阿爾瓦雷斯·卡布拉爾
 ---
+
 # [[Pedro_Álvares_Cabral]] 
 
 #is_/same_as :: [[WD~Pedro_Álvares_Cabral,174432]] 

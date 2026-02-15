@@ -187,6 +187,7 @@ dv_has_:
     zh_hant: 約瑟夫·熊彼得
     zh_hk: 約瑟·岑彼達
 ---
+
 # [[Schumpeter,Joseph]] 
 
 #is_/same_as :: [[WD~Joseph_Schumpeter,78477]] 

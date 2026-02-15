@@ -147,6 +147,7 @@ dv_has_:
     zh_hant: 摩艾石像
 Unicode_character: 🗿
 ---
+
 # [[Moai]] 🗿 
 
 ![[../../../assets/Moai.png]] 

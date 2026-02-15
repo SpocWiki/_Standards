@@ -248,6 +248,7 @@ aliases:
 - 야구
 Unicode_character: ⚾
 ---
+
 # [[Baseball]] ⚾ 
 
 

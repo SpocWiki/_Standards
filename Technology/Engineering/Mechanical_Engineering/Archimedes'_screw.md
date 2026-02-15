@@ -157,6 +157,7 @@ dv_has_:
     zh_sg: 阿基米德式螺旋抽水机
     zh_tw: 阿基米德式螺旋抽水機
 ---
+
 # [[Archimedes'_screw]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Archimedes'_screw,189155|WD~Archimedes'_screw,189155]] 

@@ -186,6 +186,7 @@ dv_has_:
     zh: 伊斯蘭黃金時代
     zh_hant: 伊斯蘭黃金時代
 ---
+
 # [[0800-Islamic_Golden_Age-1300]] 
 
 #is_/same_as :: [[WD~Islamic_Golden_Age,745799]] 

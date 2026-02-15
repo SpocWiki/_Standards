@@ -169,6 +169,7 @@ dv_has_:
     zh_sg: 塔尔科特·帕森斯
     zh_tw: 塔爾科特·帕森斯
 ---
+
 # [[Parsons,Talcott]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Talcott_Parsons,203913|WD~Talcott_Parsons,203913]]  

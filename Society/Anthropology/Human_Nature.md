@@ -157,6 +157,7 @@ dv_has_:
     zh_cn: 人性
     zh_hk: 人性
 ---
+
 # [[Human_Nature]] 
 
 #is_/same_as :: [[WD~Human_nature,742609]] 

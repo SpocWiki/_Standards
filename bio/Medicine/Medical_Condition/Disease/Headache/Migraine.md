@@ -195,6 +195,7 @@ aliases:
 - 片頭痛
 - 편두통
 ---
+
 # [[Migraine]]  
 
 ## #has_/text_of_/abstract 

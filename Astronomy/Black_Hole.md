@@ -452,6 +452,7 @@ dv_has_:
     zh_tw: 黑洞
     zu: isiGwinqa
 ---
+
 # [[Black_Hole]] 
 
 #is_/same_as :: [[../WikiData/WD~Black_hole,589|WD~Black_hole,589]] 

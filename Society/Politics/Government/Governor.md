@@ -271,6 +271,7 @@ dv_has_:
     zh_sg: 政區首長
     zh_tw: 政區首長
 ---
+
 # [[Governor]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Governor,132050|WD~Governor,132050]] 

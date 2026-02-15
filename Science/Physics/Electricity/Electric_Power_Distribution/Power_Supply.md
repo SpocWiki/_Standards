@@ -148,6 +148,7 @@ dv_has_:
     zh_sg: 电源供应
     zh_tw: 電源供應
 ---
+
 # [[Power_Supply]] 
 
 #is_/same_as :: [[WD~Power_supply,204157]] 

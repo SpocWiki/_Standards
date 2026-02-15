@@ -191,6 +191,7 @@ dv_has_:
     zh_hans: 同素异形现象
     zh_hant: 同素異形現象
 ---
+
 # [[Allotropy]] 
 
 #is_/same_as :: [[../../WikiData/WD~Allotropy,81915]] 

@@ -255,6 +255,7 @@ dv_has_:
     yue: 軒克維奇
     zh: 亨利克·亞當·亞歷山大·皮烏斯·显克微支
 ---
+
 # [[Sienkiewicz,Henryk]] 
 
 #is_/same_as :: [[WD~Henryk_Sienkiewicz,41502]] 

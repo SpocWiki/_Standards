@@ -247,6 +247,7 @@ dv_has_:
     zgh: ⴰⵎⵔⵉⴳⵓ ⴼⵉⵙⴱⵓⵜⵛⵉ
     zh: 亚美利哥·韦斯普奇
 ---
+
 # [[Vespucci,Amerigo]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Amerigo_Vespucci,47674|WD~Amerigo_Vespucci,47674]] 

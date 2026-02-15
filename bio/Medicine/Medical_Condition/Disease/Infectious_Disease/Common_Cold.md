@@ -388,6 +388,7 @@ dv_has_:
     zh: 普通感冒
     zh_hant: 普通感冒
 ---
+
 # [[Common_Cold]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Common_cold,12125|WD~Common_cold,12125]] 

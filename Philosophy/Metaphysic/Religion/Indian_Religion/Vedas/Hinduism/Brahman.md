@@ -133,6 +133,7 @@ dv_has_:
     yue: 梵
     zh: 梵
 ---
+
 # [[Brahman]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Brahman,746990|WD~Brahman,746990]] 

@@ -241,6 +241,7 @@ dv_has_:
     zh_hant: 唐氏症候群
     zh_tw: 唐氏症候群
 ---
+
 # [[Down_Syndrome]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Down_syndrome,47715|WD~Down_syndrome,47715]] 

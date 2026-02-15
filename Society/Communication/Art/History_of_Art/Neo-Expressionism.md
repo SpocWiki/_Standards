@@ -86,6 +86,7 @@ dv_has_:
     vi: chủ nghĩa biểu hiện mới
     zh: 新表現主義
 ---
+
 # [[Neo-Expressionism]] 
 
 #is_/same_as :: [[WD~Neo-expressionism,589655]] 

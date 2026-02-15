@@ -33,6 +33,7 @@ aliases:
 - مايكروسوفت بيسيك
 - 마이크로소프트 베이직
 ---
+
 # [[Microsoft_BASIC]] 
 
 #is_a_/ComputerLanguage 

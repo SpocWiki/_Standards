@@ -70,6 +70,7 @@ dv_has_:
     yue: 非線性規劃
     zh: 非线性规划
 ---
+
 # [[Nonlinear_Programming]] 
 
 #is_/similar_to :: [[Linear_Programming|Linear_Programming]] 

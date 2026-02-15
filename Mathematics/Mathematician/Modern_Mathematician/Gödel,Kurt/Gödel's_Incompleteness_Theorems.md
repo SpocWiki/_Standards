@@ -145,6 +145,7 @@ dv_has_:
     zh_sg: 哥德尔不完备定理
     zh_tw: 哥德爾不完備定理
 ---
+
 # [[Gödel's_Incompleteness_Theorems]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Gödel's_incompleteness_theorems,200787|WD~Gödel's_incompleteness_theorems,200787]]  

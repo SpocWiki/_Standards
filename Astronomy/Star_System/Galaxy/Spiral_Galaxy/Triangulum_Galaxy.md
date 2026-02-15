@@ -209,6 +209,7 @@ dv_has_:
     zh: 三角座星系
     zh_tw: 三角座星系
 ---
+
 # [[Triangulum_Galaxy]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Triangulum_Galaxy,13724|WD~Triangulum_Galaxy,13724]]  

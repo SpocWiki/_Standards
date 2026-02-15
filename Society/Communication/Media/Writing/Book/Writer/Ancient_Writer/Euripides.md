@@ -247,6 +247,7 @@ dv_has_:
     yue: 歐里庇得斯
     zh: 欧里庇得斯
 ---
+
 # [[Euripides]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Euripides,48305|WD~Euripides,48305]] 

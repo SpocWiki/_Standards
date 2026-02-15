@@ -266,6 +266,7 @@ dv_has_:
     zh_tw: 空間
     zu: Umkhathi
 ---
+
 # [[Space]] 
 
 #is_/same_as :: [[../../WikiData/WD~Space,107|WD~Space,107]]  

@@ -60,6 +60,7 @@ dv_has_:
     zh_hant: 完全變態
     zh_hk: 完全變態
 ---
+
 # [[Holometabolism]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~holometabolism,2048559]] 

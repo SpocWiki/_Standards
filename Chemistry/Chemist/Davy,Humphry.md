@@ -263,6 +263,7 @@ dv_has_:
     zh_sg: 汉弗里·戴维
     zh_tw: 漢弗里·戴維
 ---
+
 # [[Davy,Humphry]] 
 
 #is_/same_as :: [[WD~Humphry_Davy,131761]] 

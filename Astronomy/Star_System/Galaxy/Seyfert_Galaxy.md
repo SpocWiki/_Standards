@@ -138,6 +138,7 @@ dv_has_:
     zh_sg: 西佛星系
     zh_tw: 西佛星系
 ---
+
 # [[Seyfert_Galaxy]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Seyfert_galaxy,213930|WD~Seyfert_galaxy,213930]]  

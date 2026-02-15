@@ -140,6 +140,7 @@ dv_has_:
     zh: 創造神
     zu: UMdali
 ---
+
 # [[Creator_Deity]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Creator_deity,635155|WD~Creator_deity,635155]] 

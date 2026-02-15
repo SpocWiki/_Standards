@@ -247,6 +247,7 @@ dv_has_:
     zh: 电容器
     zh_hant: 電容器
 ---
+
 # [[Capacitor]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Capacitor,5322|WD~Capacitor,5322]] 

@@ -147,6 +147,7 @@ dv_has_:
     zh_sg: 萨利克法
     zh_tw: 薩利克法
 ---
+
 # [[Salic_Law]] 
 
 #is_/same_as :: [[WD~Salic_law,152507]] 

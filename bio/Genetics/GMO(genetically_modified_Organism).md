@@ -209,6 +209,7 @@ dv_has_:
     zh_tw: 轉基因生物
     zu: IsiPhili esiguqulwe isiFuzisi
 ---
+
 # [[GMO(genetically_modified_Organism)]] 
 
 #is_/same_as :: [[../../WikiData/WD~GMO,182726|WD~GMO,182726]] 

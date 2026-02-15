@@ -263,6 +263,7 @@ dv_has_:
     zh_hant: 印度－伊朗語族
     zh_tw: 印度－伊朗語族
 ---
+
 # [[LangFamily-Indo-Iranian/Lang-ira]] 
 
 #is_/same_as :: [[WD~Indo-Iranian,33514]] 

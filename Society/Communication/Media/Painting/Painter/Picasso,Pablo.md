@@ -659,6 +659,7 @@ dv_has_:
     zh_tw: 巴勃羅·魯伊斯·畢卡索
     zu: Pablo Picasso
 ---
+
 # [[Picasso,Pablo]]
 
 #is_/same_as :: [[../../../../../WikiData/WD~Pablo_Picasso,5593|WD~Pablo_Picasso,5593]] 

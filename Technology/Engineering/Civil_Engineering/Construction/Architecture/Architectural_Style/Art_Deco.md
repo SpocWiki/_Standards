@@ -170,6 +170,7 @@ dv_has_:
     zh_sg: 装饰风艺术
     zh_tw: 裝飾風藝術
 ---
+
 # [[Art_Deco]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Art_Deco,173782|WD~Art_Deco,173782]]

@@ -240,6 +240,7 @@ dv_has_:
     zh_hans: 托马斯·马尔萨斯
     zh_hant: 托馬斯·馬爾薩斯
 ---
+
 # [[Malthus,Thomas_Robert]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Thomas_Robert_Malthus,13526|WD~Thomas_Robert_Malthus,13526]]   

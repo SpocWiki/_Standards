@@ -83,6 +83,7 @@ aliases:
 - 青衣の少年
 - 파란 옷을 입은 소년
 ---
+
 # [[Blue_Boy]] 
 
 #is_/same_as ::  [[../../../../WikiData/WD~The_Blue_Boy,604761|WD~The_Blue_Boy,604761]]  

@@ -211,6 +211,7 @@ dv_has_:
     zh_sg: 伯努利定律
     zh_tw: 白努利定律
 ---
+
 # [[Bernoulli_Principle]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Bernoulli's_principle,181328|WD~Bernoulli's_principle,181328]] 

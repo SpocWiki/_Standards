@@ -149,6 +149,7 @@ dv_has_:
     zh-sg: 苏联的人口转移
     zh-tw: 蘇聯的人口轉移
 ---
+
 # [[1930-Population_Transfer_in_the_Soviet_Union-1952]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Population_transfer_in_the_Soviet_Union,85125|WD~Population_transfer_in_the_Soviet_Union,85125]] 

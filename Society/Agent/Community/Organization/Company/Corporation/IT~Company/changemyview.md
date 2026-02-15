@@ -6,6 +6,7 @@ dv_has_:
 aliases:
 - /r/changemyview
 ---
+
 # [[changemyview]]  
 
 ## #has_/text_of_/abstract 

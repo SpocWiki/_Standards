@@ -355,6 +355,7 @@ dv_has_:
     zh_hant: 動詞
     zh_tw: 動詞
 ---
+
 # [[Verb]] 
 
 #is_/same_as :: [[../../WikiData/WD~Verb,24905|WD~Verb,24905]]  

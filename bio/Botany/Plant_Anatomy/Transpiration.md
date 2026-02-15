@@ -181,6 +181,7 @@ dv_has_:
     zh_sg: 蒸腾作用
     zh_tw: 蒸散作用
 ---
+
 # [[Transpiration]]  
 
 #is_/same_as :: [[../../../WikiData/WD~Transpiration,167980|WD~Transpiration,167980]]  

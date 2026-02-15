@@ -195,6 +195,7 @@ dv_has_:
     zh_sg: 乔治·布尔
     zh_tw: 喬治·布爾
 ---
+
 # [[Boole,George]] 
 
 #is_/same_as :: [[../../WikiData/WD~George_Boole,134661|WD~George_Boole,134661]] 

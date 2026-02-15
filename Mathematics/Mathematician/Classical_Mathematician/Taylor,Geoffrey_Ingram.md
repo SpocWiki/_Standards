@@ -167,6 +167,7 @@ dv_has_:
     zh_hant: 傑弗里·泰勒
     zh_hk: 傑弗里·泰勒
 ---
+
 # [[Taylor,Geoffrey_Ingram]]
 
 #is_/same_as :: [[../../../WikiData/WD~Geoffrey_Ingram_Taylor,699541|WD~Geoffrey_Ingram_Taylor,699541]] 

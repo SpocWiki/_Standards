@@ -150,6 +150,7 @@ dv_has_:
     zh_hant: 動力系統
     zh_hk: 動力系統
 ---
+
 # [[Dynamical_System]] 
 
 #is_/same_as :: [[../WikiData/WD~Dynamical_system,638328|WD~Dynamical_system,638328]] 

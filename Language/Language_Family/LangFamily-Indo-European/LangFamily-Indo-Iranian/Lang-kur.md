@@ -357,6 +357,7 @@ dv_has_:
     zh_tw: 庫德語
     zu: isi-Kurdish
 ---
+
 # [[Lang-kur]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Kurdish,36368|WD~Kurdish,36368]] 

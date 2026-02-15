@@ -246,6 +246,7 @@ dv_is_same_as:
 - '[[/_personal/Earth/Continent/America~North/USA/US_President/Coolidge,Calvin.personal|Coolidge,Calvin.personal]]'
 - '[[/_secret/Earth/Continent/America~North/USA/US_President/Coolidge,Calvin.secret|Coolidge,Calvin.secret]]'
 ---
+
 # [[Coolidge,Calvin]] 
 
 has_time_started = `=this.dv_has_time_started`

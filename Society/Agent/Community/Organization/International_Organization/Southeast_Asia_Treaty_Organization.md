@@ -134,6 +134,7 @@ dv_has_:
     zh: 東南亞條約組織
     zh_hant: 東南亞條約組織
 ---
+
 # [[Southeast_Asia_Treaty_Organization]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Southeast_Asia_Treaty_Organization,277252|WD~Southeast_Asia_Treaty_Organization,277252]]  

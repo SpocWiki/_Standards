@@ -219,6 +219,7 @@ dv_has_:
     zh: 变压器
     zu: I-transformer
 ---
+
 # [[Transformer]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Transformer,11658|WD~Transformer,11658]] 

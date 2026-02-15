@@ -161,6 +161,7 @@ dv_has_:
     zh_sg: 光度
     zh_tw: 光度
 ---
+
 # [[Dim~Luminosity]] 
 
 #is_/same_as :: [[WD~Luminosity,105902]] 

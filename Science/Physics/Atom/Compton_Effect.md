@@ -170,6 +170,7 @@ dv_has_:
     zh_sg: 康普顿散射
     zh_tw: 康普頓散射
 ---
+
 # [[Compton_Effect]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Compton_effect,171516|WD~Compton_effect,171516]] 

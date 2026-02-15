@@ -80,6 +80,7 @@ dv_has_:
     uk: Військові втрати
     zh: 傷亡
 ---
+
 # [[Casualty]] 
 
 #is_/similar_to :: [[../../../../../bio/Medicine/Anatomy/Corpse|Corpse]] 

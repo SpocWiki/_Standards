@@ -195,6 +195,7 @@ dv_has_:
     zh_hant: 可見光
     zh_hk: 可見光
 ---
+
 # [[Visible_Spectrum]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Visible_spectrum,76299|WD~Visible_spectrum,76299]]  

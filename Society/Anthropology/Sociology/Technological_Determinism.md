@@ -84,6 +84,7 @@ dv_has_:
     yue: 技術決定論
     zh: 技术决定论
 ---
+
 # [[Technological_Determinism]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Technological_determinism,605434|WD~Technological_determinism,605434]] 

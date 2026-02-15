@@ -227,6 +227,7 @@ dv_has_:
     yue: 超新星
     zh: 超新星
 ---
+
 # [[Supernova]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Supernova,3937|WD~Supernova,3937]] 

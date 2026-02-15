@@ -212,6 +212,7 @@ dv_has_:
     yue: 電感器
     zh: 电感元件
 ---
+
 # [[Inductor]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Inductor,5325|WD~Inductor,5325]] 

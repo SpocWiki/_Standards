@@ -236,6 +236,7 @@ dv_has_:
     zh_sg: 酷刑
     zh_tw: 酷刑
 ---
+
 # [[Torture]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Torture,132781|WD~Torture,132781]]  

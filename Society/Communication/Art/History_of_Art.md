@@ -205,6 +205,7 @@ dv_has_:
     zh_hant: 藝術歷史
     zh_tw: 藝術歷史
 ---
+
 # [[History_of_Art]] 
 
 #is_/same_as :: [[WikiData/WD~History_of_art,50641|WD~History_of_art,50641]] 

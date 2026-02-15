@@ -81,6 +81,7 @@ dv_has_:
     zh_hant: 類氫原子
     zh_hk: 類氫原子
 ---
+
 # [[Hydrogen-like_Atom]] 
 
 #is_/same_as :: [[WikiData/WD~Hydrogen-like_atom,2333783|WD~Hydrogen-like_atom,2333783]] 

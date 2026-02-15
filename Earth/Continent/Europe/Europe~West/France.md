@@ -1263,6 +1263,7 @@ rural_population:
   - 12999819
 relief_location_map: http://commons.wikimedia.org/wiki/Special:FilePath/France%20relief%20location%20map.jpg
 ---
+
 # [[France]] 🇫🇷 
 
 

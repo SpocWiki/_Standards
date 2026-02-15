@@ -389,6 +389,7 @@ dv_has_:
     zh_tw: 網際網路
     zu: Intanethi
 ---
+
 # [[Internet]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Internet,75|WD~Internet,75]]  

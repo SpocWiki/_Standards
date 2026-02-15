@@ -499,6 +499,7 @@ dv_has_:
     zh_sg: 北大西洋公约组织
     zh_tw: 北大西洋公約組織
 ---
+
 # [[NATO]] 
 
 #has_/president ::[[Rutte,Mark]]] 

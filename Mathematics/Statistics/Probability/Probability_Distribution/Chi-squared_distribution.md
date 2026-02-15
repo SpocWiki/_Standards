@@ -95,6 +95,7 @@ aliases:
 - 卡方分布
 - 카이제곱 분포
 ---
+
 # [[Chi-squared_distribution]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Chi-squared_distribution,243462|WD~Chi-squared_distribution,243462]] 

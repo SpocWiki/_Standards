@@ -365,6 +365,7 @@ dv_has_:
     zh_hant: 約翰內斯·開普勒
     zh_tw: 約翰內斯·開普勒
 ---
+
 # [[Kepler,Johannes]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Johannes_Kepler,8963|WD~Johannes_Kepler,8963]] 

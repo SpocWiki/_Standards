@@ -241,6 +241,7 @@ dv_has_:
     zh_sg: 欧亚经济联盟
     zh_tw: 歐亞經濟聯盟
 ---
+
 # [[Eurasian_Economic_Union]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Eurasian_Economic_Union,4173083|WD~Eurasian_Economic_Union,4173083]] 

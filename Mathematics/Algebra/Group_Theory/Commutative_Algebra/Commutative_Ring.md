@@ -107,6 +107,7 @@ dv_has_:
     zh_hant: 交換環
     zh_hk: 交換環
 ---
+
 # [[Commutative_Ring]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Commutative_ring,858656|WD~Commutative_ring,858656]] 

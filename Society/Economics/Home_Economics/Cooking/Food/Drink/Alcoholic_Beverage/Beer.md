@@ -426,6 +426,7 @@ dv_has_:
     zh_tw: 啤酒
     zu: ubhiya
 ---
+
 # [[Beer]] 🍺 🍻
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Beer,44|WD~Beer,44]] 

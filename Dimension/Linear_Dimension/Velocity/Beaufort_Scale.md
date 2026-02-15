@@ -173,6 +173,7 @@ dv_has_:
     zh_sg: 蒲福风级
     zh_tw: 蒲福風級
 ---
+
 # [[Beaufort_Scale]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Beaufort_Scale,170464|WD~Beaufort_Scale,170464]] 

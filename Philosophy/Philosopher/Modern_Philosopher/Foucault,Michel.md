@@ -320,6 +320,7 @@ dv_has_:
     zh_hk: 米舒·傅柯
     zu: Michel Foucault
 ---
+
 # [[Foucault,Michel]] 
 
 #is_/same_as :: [[WD~Michel_Foucault,44272]] 

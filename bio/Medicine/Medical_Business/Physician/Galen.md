@@ -248,6 +248,7 @@ dv_has_:
     yue: 蓋倫
     zh: 盖伦
 ---
+
 # [[Galen]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Galen,8778|WD~Galen,8778]] 

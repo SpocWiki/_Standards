@@ -204,6 +204,7 @@ dv_has_:
     zh_sg: 制度
     zh_tw: 制度
 ---
+
 # [[Institution]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Institution,178706|WD~Institution,178706]] 

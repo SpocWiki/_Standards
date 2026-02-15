@@ -448,6 +448,7 @@ dv_has_:
     yue: 湯瑪斯阿奎那
     zh: 托马斯·阿奎那
 ---
+
 # [[Thomas_Aquinas]] 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Thomas_Aquinas,9438|WD~Thomas_Aquinas,9438]]  

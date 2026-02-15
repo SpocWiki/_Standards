@@ -112,6 +112,7 @@ dv_has_:
     zh_hans: 糊口農業
     zh_hant: 餬口農業
 ---
+
 # [[Subsistence_Agriculture]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Subsistence_agriculture,2787508|WD~Subsistence_agriculture,2787508]]  

@@ -484,6 +484,7 @@ dv_has_:
     zh_sg: 心理学
     zh_tw: 心理學
 ---
+
 # [[Psychology]]
 
 #is_/same_as :: [[../WikiData/WD~Psychology,9418|WD~Psychology,9418]] 

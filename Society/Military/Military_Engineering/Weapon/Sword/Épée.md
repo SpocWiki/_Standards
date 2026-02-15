@@ -116,6 +116,7 @@ dv_has_:
     zh_hk: 重劍
     zh_tw: 銳劍
 ---
+
 # [[Épée]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Épée,840419|WD~Épée,840419]] 

@@ -484,6 +484,7 @@ dv_has_:
     zh_tw: 百科全書
     zu: INgqoqelolwazi
 ---
+
 # [[Encyclopedia]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Encyclopedia,5292|WD~Encyclopedia,5292]] 

@@ -163,6 +163,7 @@ dv_has_time_started: -1400000000
 dv_has_time_stopped: -1200000000
 dv_has_text_of_color: 0xFDCC8A
 ---
+
 # [[Period-1400~Ectasian]]
 
 #is_a_/time_/Period 

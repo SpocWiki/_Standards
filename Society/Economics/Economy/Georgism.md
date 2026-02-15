@@ -88,6 +88,7 @@ dv_has_:
     vi: Chủ nghĩa George
     zh: 乔治主义
 ---
+
 # [[Georgism]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~Georgism,679595]] 

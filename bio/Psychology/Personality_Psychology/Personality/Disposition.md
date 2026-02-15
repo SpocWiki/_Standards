@@ -109,6 +109,7 @@ dv_has_:
     zh: 性情
     zh_hant: 性情
 ---
+
 # [[Disposition]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~disposition,1149305]] 

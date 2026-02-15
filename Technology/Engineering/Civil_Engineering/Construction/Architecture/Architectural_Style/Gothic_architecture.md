@@ -211,6 +211,7 @@ dv_has_:
     zh_sg: 哥特式建筑
     zh_tw: 哥德式建築
 ---
+
 # [[Gothic_architecture]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Gothic_architecture,176483|WD~Gothic_architecture,176483]] 

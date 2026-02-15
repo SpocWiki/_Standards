@@ -190,6 +190,7 @@ dv_has_:
     zh_hans: 多项式
     zh_hant: 多項式
 ---
+
 # [[Polynomial]] 
 
 #is_/same_as :: [[WD~Polynomial,43260]] 

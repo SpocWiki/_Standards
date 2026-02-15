@@ -185,6 +185,7 @@ dv_has_:
     zh_hant: 三相神
     zh_tw: 三相神
 ---
+
 # [[Trimurti]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Trimurti,9595|WD~Trimurti,9595]]  

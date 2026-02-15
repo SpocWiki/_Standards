@@ -155,6 +155,7 @@ dv_has_:
     yue: 卡爾·博施
     zh: 卡爾·博施
 ---
+
 # [[Bosch,Carl]] 
 
 #is_/same_as :: [[../../WikiData/WD~Carl_Bosch,76606|WD~Carl_Bosch,76606]] 

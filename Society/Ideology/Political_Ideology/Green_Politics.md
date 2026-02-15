@@ -162,6 +162,7 @@ dv_has_:
     zh_sg: 绿色政治
     zh_tw: 綠色政治
 ---
+
 # [[Green_Politics]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Green_politics,1661415|WD~Green_politics,1661415]] 

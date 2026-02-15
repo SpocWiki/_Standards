@@ -167,6 +167,7 @@ dv_has_:
     zh_sg: 基督教民主主义
     zh_tw: 基督教民主主義
 ---
+
 # [[Christian_Democracy]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Christian_democracy,209158|WD~Christian_democracy,209158]] 

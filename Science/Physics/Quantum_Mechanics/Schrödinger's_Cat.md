@@ -184,6 +184,7 @@ dv_has_:
     zh: 薛定谔的猫
     zh_hans: 薛定谔的猫
 ---
+
 # [[Schrödinger's_Cat]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Schrödinger's_cat,8588|WD~Schrödinger's_cat,8588]]  

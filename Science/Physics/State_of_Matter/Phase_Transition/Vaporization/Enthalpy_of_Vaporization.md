@@ -152,6 +152,7 @@ dv_has_:
     zh_hant: 汽化熱
     zh_hk: 汽化熱
 ---
+
 # [[Enthalpy_of_Vaporization]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Enthalpy_of_vaporization,483538|WD~Enthalpy_of_vaporization,483538]] 

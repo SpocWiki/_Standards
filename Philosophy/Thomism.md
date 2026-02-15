@@ -119,6 +119,7 @@ dv_has_:
     zh_cn: 托马斯主义
     zh_hant: 托馬斯主義
 ---
+
 # [[Thomism]] 
 
 #is_/same_as :: [[../WikiData/WD~Thomism,328945|WD~Thomism,328945]]  

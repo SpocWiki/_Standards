@@ -281,6 +281,7 @@ dv_has_:
     zh_hant: 醫療衛生
     zh_tw: 醫療衛生
 ---
+
 # [[Health_Care]] 
 
 Class of all health_cares.

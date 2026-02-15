@@ -212,6 +212,7 @@ dv_has_:
     zh_sg: 自决
     zh_tw: 自決
 ---
+
 # [[Self-Determination]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Self-determination,156595|WD~Self-determination,156595]]   

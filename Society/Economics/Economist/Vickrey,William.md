@@ -148,6 +148,7 @@ dv_has_:
     zh_sg: 威廉·维克里
     zh_tw: 威廉·維克里
 ---
+
 # [[Vickrey,William]] 
 
 #is_/same_as :: [[../../../WikiData/WD~William_Vickrey,295673|WD~William_Vickrey,295673]]   

@@ -263,6 +263,7 @@ dv_is_same_as:
 - '[[/_personal/Earth/Continent/America~North/USA/US_President/Adams,John_Quincy.personal|Adams,John_Quincy.personal]]'
 - '[[/_secret/Earth/Continent/America~North/USA/US_President/Adams,John_Quincy.secret|Adams,John_Quincy.secret]]'
 ---
+
 # [[Adams,John_Quincy]] 
 
 has_time_started = `=this.dv_has_time_started`

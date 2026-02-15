@@ -134,6 +134,7 @@ dv_has_:
     yi: שמואל גלבפֿיש
     zh: 塞缪尔·高德温
 ---
+
 # [[Goldwyn,Samuel]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Samuel_Goldwyn,72579|WD~Samuel_Goldwyn,72579]]  

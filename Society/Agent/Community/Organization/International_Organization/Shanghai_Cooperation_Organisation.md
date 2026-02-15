@@ -194,6 +194,7 @@ aliases:
 - 상하이 협력 기구
 - 상해협조기구
 ---
+
 # [[Shanghai_Cooperation_Organisation]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Shanghai_Cooperation_Organisation,485207|WD~Shanghai_Cooperation_Organisation,485207]]  

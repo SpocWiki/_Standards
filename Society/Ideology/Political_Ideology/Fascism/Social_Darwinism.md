@@ -137,6 +137,7 @@ dv_has_:
     zh_sg: 社会达尔文主义
     zh_tw: 社會達爾文主義
 ---
+
 # [[Social_Darwinism]] 
 
 #is_/same_as :: [[WD~Social_Darwinism,202261]] 

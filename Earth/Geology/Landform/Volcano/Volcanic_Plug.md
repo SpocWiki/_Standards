@@ -105,6 +105,7 @@ dv_has_:
     yue: 火山頸
     zh: 火山栓
 ---
+
 # [[Volcanic_Plug]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Volcanic_plug,653139|WD~Volcanic_plug,653139]]  

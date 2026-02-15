@@ -33,6 +33,7 @@ dv_has_:
     yue: 獨裁者博弈
     zh: 独裁者博弈
 ---
+
 # [[Dictator_Game]]  
 
 #is_/similar_to :: [[Ultimatum_Game]] 

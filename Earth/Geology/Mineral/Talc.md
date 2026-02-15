@@ -167,6 +167,7 @@ dv_has_:
     zh_sg: 滑石
     zh_tw: 滑石
 ---
+
 # [[Talc]]  
 
 #is_/same_as :: [[../../../WikiData/WD~Talc,134583|WD~Talc,134583]]  

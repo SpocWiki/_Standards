@@ -117,6 +117,7 @@ dv_has_:
     yue: 聚酰胺
     zh: 聚酰胺
 ---
+
 # [[Polyamide]] 
 
 #is_/same_as :: [[../../../WikiData/WD~polyamide,145273]] 

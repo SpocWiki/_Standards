@@ -183,6 +183,7 @@ dv_has_:
     yue: 文化人類學
     zh: 文化人类学
 ---
+
 # [[Cultural_Anthropology]] 
 
 #is_/same_as :: [[../../WikiData/WD~Cultural_anthropology,28598|WD~Cultural_anthropology,28598]] 

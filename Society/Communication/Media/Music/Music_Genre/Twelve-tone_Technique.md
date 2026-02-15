@@ -125,6 +125,7 @@ dv_has_:
     zh_sg: 十二音技法
     zh_tw: 十二音技法
 ---
+
 # [[Twelve-tone_Technique]] 
 
 #is_/same_as :: [[WD~Twelve-tone_technique,221686]] 

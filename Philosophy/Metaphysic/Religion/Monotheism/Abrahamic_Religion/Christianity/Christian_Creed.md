@@ -162,6 +162,7 @@ dv_has_:
     zh_sg: 信经
     zh_tw: 信經
 ---
+
 # [[Christian_Creed]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Christian_creed,183770|WD~Christian_creed,183770]] 

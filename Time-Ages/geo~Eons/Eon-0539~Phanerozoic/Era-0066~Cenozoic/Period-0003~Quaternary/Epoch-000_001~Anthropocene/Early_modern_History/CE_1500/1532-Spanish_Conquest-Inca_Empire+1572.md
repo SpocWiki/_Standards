@@ -115,6 +115,7 @@ dv_has_:
     vi: Tây Ban Nha chinh phục Đế quốc Inca
     zh: 西班牙征服印加帝国
 ---
+
 # [[1532-Spanish_Conquest-Inca_Empire+1572]]
 
 #is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Spanish_conquest_of_the_Inca_Empire,636771|WD~Spanish_conquest_of_the_Inca_Empire,636771]]  

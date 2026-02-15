@@ -111,6 +111,7 @@ dv_has_:
     yue: 逆斷層
     zh: 凸堤效應
 ---
+
 # [[Thrust_Fault]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Thrust_fault,496325|WD~Thrust_fault,496325]]  

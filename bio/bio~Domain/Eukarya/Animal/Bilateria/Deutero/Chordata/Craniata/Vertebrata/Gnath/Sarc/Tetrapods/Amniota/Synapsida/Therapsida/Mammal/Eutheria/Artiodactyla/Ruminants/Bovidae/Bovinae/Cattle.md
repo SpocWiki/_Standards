@@ -555,6 +555,7 @@ dv_has_:
     zh_hant: 牛
     zu: inkomazi
 ---
+
 # [[Cattle]] 🐮 🐄
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Cattle,830|WD~Cattle,830]]  

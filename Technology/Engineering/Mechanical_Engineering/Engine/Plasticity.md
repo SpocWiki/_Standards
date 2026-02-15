@@ -129,6 +129,7 @@ dv_has_:
     zh_tw: 塑性變形
     zu: Ubucwazi
 ---
+
 # [[Plasticity]] 
 
 #is_/same_as :: [[WD~Plasticity,472074]] 

@@ -235,6 +235,7 @@ dv_has_:
     zgh: ⵄⵓⵎⴰⵕ ⴱⵏⵓ ⵍⵅⴰⵟⵟⴰⴱ
     zh: 欧麦尔·本·赫塔卜
 ---
+
 # [[Umar]]  
 
 ## #has_/text_of_/abstract 

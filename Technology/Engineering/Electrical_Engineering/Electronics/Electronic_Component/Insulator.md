@@ -180,6 +180,7 @@ dv_has_:
     zh_sg: 绝缘体
     zh_tw: 絕緣體
 ---
+
 # [[Insulator]] 
 
 #is_/same_as :: [[WikiData/WD~Insulator,178150|WD~Insulator,178150]] 

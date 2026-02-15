@@ -150,6 +150,7 @@ dv_has_:
 dv_is_same_as: '[[WD~Amide,188777]]'
 dv_has_formula_structural: R−C(=O)−NR′R″
 ---
+
 # [[Amide]] 
 
 is_same_as = `=this.dv_is_same_as` 

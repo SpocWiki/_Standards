@@ -258,6 +258,7 @@ dv_has_:
     zh_hans: 狭义相对论
     zh_hant: 狹義相對論
 ---
+
 # [[Special_Relativity]]
 
 #is_/same_as :: [[../../../WikiData/WD~Special_relativity,11455|WD~Special_relativity,11455]] 

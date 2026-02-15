@@ -210,6 +210,7 @@ dv_has_:
     zh_sg: 社会心理学
     zh_tw: 社會心理學
 ---
+
 # [[Social_Psychology]]  
 
 #is_/same_as :: [[WD~Social_psychology,161272]] 

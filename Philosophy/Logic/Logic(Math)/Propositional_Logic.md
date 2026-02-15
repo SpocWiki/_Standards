@@ -147,6 +147,7 @@ dv_has_:
     zh_sg: 命题逻辑
     zh_tw: 命題邏輯
 ---
+
 # [[Propositional_Logic]] 
 
 #is_/same_as :: [[WD~Propositional_calculus,200694]] 

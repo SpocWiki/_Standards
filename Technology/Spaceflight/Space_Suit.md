@@ -121,6 +121,7 @@ aliases:
 - 宇航服
 - 우주복
 ---
+
 # [[Space_Suit]] 
 
 #is_/same_as :: [[../../WikiData/WD~Space_suit,223571|WD~Space_suit,223571]]  

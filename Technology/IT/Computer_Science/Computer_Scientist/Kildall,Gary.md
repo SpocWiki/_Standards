@@ -100,6 +100,7 @@ dv_has_:
     zh: 蓋瑞·基爾多
     zh_cn: 加里·基尔多尔
 ---
+
 # [[Kildall,Gary]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Gary_Kildall,92627|WD~Gary_Kildall,92627]] 

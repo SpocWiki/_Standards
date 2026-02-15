@@ -141,6 +141,7 @@ dv_has_:
     zh_sg: 超巨星
     zh_tw: 超巨星
 ---
+
 # [[Supergiant]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Supergiant,193599|WD~Supergiant,193599]]  

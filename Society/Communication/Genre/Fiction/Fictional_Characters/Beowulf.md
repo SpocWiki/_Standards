@@ -212,6 +212,7 @@ dv_has_:
     zh: 貝奧武夫
     zh_hans: 贝奥武夫
 ---
+
 # [[Beowulf]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Beowulf,48328|WD~Beowulf,48328]] 

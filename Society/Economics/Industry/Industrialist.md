@@ -166,6 +166,7 @@ dv_has_:
     zh: 工業家
     zh_tw: 實業家
 ---
+
 # [[Industrialist]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~industrialist,6606110]] 

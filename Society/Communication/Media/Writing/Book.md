@@ -614,6 +614,7 @@ dv_has_:
     zh_tw: 圖書
     zu: incwadi
 ---
+
 # [[Book]] 📖 🕮📕📗📘📙📚
 
 Class of all books.

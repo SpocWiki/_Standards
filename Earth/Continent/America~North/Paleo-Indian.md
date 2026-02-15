@@ -110,6 +110,7 @@ dv_has_:
     zh_hk: 古印地安人
     zh_tw: 古印地安人
 ---
+
 # [[Paleo-Indian]] 
 
 #is_/same_as :: [[WD~Paleo-Indians,888099]] 

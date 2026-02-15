@@ -241,6 +241,7 @@ dv_has_:
     yue: 笛福
     zh: 丹尼尔·笛福
 ---
+
 # [[Defoe,Daniel]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Daniel_Defoe,40946|WD~Daniel_Defoe,40946]] 

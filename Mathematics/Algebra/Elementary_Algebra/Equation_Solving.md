@@ -91,6 +91,7 @@ dv_has_:
     yue: 解方程
     zh: 方程求解
 ---
+
 # [[Equation_Solving]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Equation_solving,1879820|WD~Equation_solving,1879820]]

@@ -170,6 +170,7 @@ dv_has_:
     zh_cn: 傅里叶变换
     zh_tw: 傅立葉轉換
 ---
+
 # [[Fourier_Transform]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Fourier_transform,6520159|WD~Fourier_transform,6520159]] 

@@ -180,6 +180,7 @@ dv_has_:
     zh_sg: 福利国家
     zh_tw: 福利國家
 ---
+
 # [[Welfare_State]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Welfare_state,192451|WD~Welfare_state,192451]]  

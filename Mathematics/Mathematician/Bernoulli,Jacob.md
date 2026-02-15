@@ -216,6 +216,7 @@ dv_has_:
     zh_sg: 雅各布·伯努利
     zh_tw: 雅各布·白努利
 ---
+
 # [[Bernoulli,Jacob]] 
 
 #is_/same_as :: [[WD~Jacob_Bernoulli,122392]] 

@@ -244,6 +244,7 @@ dv_has_:
     zh_sg: 贪污
     zh_tw: 貪污
 ---
+
 # [[Corruption]] 
 
 #is_/same_as :: [[../../../../../_Standards/WikiData/WD~Corruption,366|WD~Corruption,366]] 

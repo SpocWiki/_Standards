@@ -219,6 +219,7 @@ dv_has_:
     zh_hant: 筷子
     zh_tw: 筷子
 ---
+
 # [[Chopsticks]] 🥢 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Chopsticks,81980|WD~Chopsticks,81980]] 

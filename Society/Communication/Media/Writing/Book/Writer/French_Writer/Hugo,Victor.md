@@ -467,6 +467,7 @@ dv_has_:
     zh_hk: 域多·雨果
     zh_tw: 維克多·雨果
 ---
+
 # [[Hugo,Victor]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Victor_Hugo,535|WD~Victor_Hugo,535]] 

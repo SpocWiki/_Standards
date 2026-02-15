@@ -230,6 +230,7 @@ dv_has_:
     zh_tw: 理論
     zu: theory
 ---
+
 # [[Theory]] 
 
 #is_/same_as :: [[WD~Theory,17737]] 

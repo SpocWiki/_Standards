@@ -185,6 +185,7 @@ dv_has_:
     zh_hant: 泰德·透納
     zh_tw: 泰德·透納
 ---
+
 # [[Turner,Ted]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Ted_Turner,193368|WD~Ted_Turner,193368]]  

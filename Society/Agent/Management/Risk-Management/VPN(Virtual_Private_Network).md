@@ -178,6 +178,7 @@ aliases:
 - 虛擬私人網路
 - 가상사설망
 ---
+
 # [[VPN(Virtual_Private_Network)]] 
 
 #is_/similar_to :: [[Tor-Network]]  

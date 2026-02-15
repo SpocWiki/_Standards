@@ -128,6 +128,7 @@ aliases:
 - 熱帶雨林
 - 열대림
 ---
+
 # [[Tropical_Forest]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Tropical_forest,1048194|WD~Tropical_forest,1048194]]  

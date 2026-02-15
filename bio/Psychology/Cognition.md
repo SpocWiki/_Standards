@@ -215,6 +215,7 @@ dv_has_:
     zh_hans: 思维过程
     zh_hant: 思維過程
 ---
+
 # [[Cognition]] 
 
 #is_/same_as :: [[../../../_Standards/WikiData/WD~Cognition,2200417|WD~Cognition,2200417]] 

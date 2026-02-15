@@ -375,6 +375,7 @@ dv_has_:
     zh_tw: 甘藷
 Unicode_character: 🍠
 ---
+
 # [[Sweet_Potato]] 🍠 
 
 #is_/same_as :: [[../../../../../../../../../../../../../WikiData/WD~Sweet_potato,37937|WD~Sweet_potato,37937]]  

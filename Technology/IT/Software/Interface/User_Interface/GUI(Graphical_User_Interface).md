@@ -198,6 +198,7 @@ dv_has_:
     zh: 圖形用戶界面
     zh-hant: 圖形使用者介面
 ---
+
 # [[GUI(Graphical_User_Interface)]] 
 
 #is_/same_as :: [[WD~Graphical_user_interface,782543]] 

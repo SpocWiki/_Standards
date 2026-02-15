@@ -121,6 +121,7 @@ dv_has_:
     zh_hant: 星系的形成和演化
     zh_hk: 星系的形成和演化
 ---
+
 # [[Galaxy_Formation_and_Evolution]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Galaxy_formation_and_evolution,1995140|WD~Galaxy_formation_and_evolution,1995140]] 

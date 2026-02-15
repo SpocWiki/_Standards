@@ -231,6 +231,7 @@ dv_has_:
     yue: 微分方程
     zh: 微分方程
 ---
+
 # [[Differential_Equation]] 
 
 #is_/same_as :: [[../../WikiData/WD~Differential_equation,11214|WD~Differential_equation,11214]] 

@@ -165,6 +165,7 @@ dv_has_:
     yue: 原子軌道
     zh: 原子轨道
 ---
+
 # [[Atomic_Orbital]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Atomic_orbital,53860|WD~Atomic_orbital,53860]] 

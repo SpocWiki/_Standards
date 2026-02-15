@@ -338,6 +338,7 @@ dv_has_:
     zh_sg: 安德雷·柯尔莫哥洛夫
     zh_tw: 安德雷·柯爾莫哥洛夫
 ---
+
 # [[Andrey_Kolmogorov]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Andrey_Kolmogorov,153224|WD~Andrey_Kolmogorov,153224]] 

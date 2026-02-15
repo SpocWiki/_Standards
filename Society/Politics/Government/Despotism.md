@@ -150,6 +150,7 @@ dv_has_:
     zh_sg: 专制主义
     zh_tw: 專制主義
 ---
+
 # [[Despotism]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Despotism,179352|WD~Despotism,179352]] 

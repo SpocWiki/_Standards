@@ -83,6 +83,7 @@ dv_has_:
     zh: 彼得·泰爾
     zh_hk: 彼德·提路
 ---
+
 # [[Thiel,Peter]] 
 
 #has_/time_/started :: 1967-10-11 

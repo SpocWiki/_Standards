@@ -332,6 +332,7 @@ dv_has_:
     zh_tw: 海嘯
 Unicode_character: 🌊
 ---
+
 # [[Tsunami]] 🌊 
 
 #is_/same_as :: [[../../../WikiData/WD~Tsunami,8070|WD~Tsunami,8070]] 

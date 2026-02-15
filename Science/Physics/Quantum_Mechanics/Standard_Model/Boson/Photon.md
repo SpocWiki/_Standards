@@ -277,6 +277,7 @@ dv_has_:
     zh_tw: 光子
     zu: Ibane
 ---
+
 # [[Photon]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Photon,3198|WD~Photon,3198]] 

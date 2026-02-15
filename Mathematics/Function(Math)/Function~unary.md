@@ -66,6 +66,7 @@ dv_has_:
     zh_hans: 一元函数
     zh_hant: 一元函式
 ---
+
 # [[Function~unary]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~unary_function,7882311]] 

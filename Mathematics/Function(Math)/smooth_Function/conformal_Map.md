@@ -84,6 +84,7 @@ dv_has_:
     zh_hant: 共形映射
     zh_hk: 共形映射
 ---
+
 # [[conformal_Map]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~conformal_map,850275]]

@@ -411,6 +411,7 @@ dv_has_:
     zh_hant: 西格蒙德·弗洛伊德
     zh_hk: 悉文·佛洛伊德
 ---
+
 # [[Freud,Sigmund]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Sigmund_Freud,9215|WD~Sigmund_Freud,9215]] 

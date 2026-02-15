@@ -124,6 +124,7 @@ dv_has_:
     zh_sg: 巴拿赫空间
     zh_tw: 巴拿赫空間
 ---
+
 # [[Banach_Space]]
 
 #is_/same_as :: [[wd~Banach Space,]] 

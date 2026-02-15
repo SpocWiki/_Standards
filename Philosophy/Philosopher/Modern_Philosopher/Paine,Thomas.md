@@ -238,6 +238,7 @@ dv_has_:
     zh_sg: 托马斯·潘恩
     zh_tw: 湯瑪斯·潘恩
 ---
+
 # [[Paine,Thomas]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Thomas_Paine,126462|WD~Thomas_Paine,126462]]  

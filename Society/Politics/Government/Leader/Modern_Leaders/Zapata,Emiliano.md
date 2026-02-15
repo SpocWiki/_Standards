@@ -157,6 +157,7 @@ dv_has_:
     xmf: ემილიანო საპატა
     zh: 埃米利亚诺·萨帕塔
 ---
+
 # [[Zapata,Emiliano]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~Emiliano_Zapata,41718]] 

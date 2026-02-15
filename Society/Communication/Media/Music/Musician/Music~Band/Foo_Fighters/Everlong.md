@@ -28,6 +28,7 @@ aliases:
 - بیپایان
 - エヴァーロング
 ---
+
 # [[Everlong]]  
 
 [[../../../../movie/Movie-Roles/Gondry,Michel]] directed the Video to this song. 

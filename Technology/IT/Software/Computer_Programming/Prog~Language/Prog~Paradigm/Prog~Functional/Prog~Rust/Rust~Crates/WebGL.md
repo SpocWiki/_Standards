@@ -13,6 +13,7 @@ aliases:
 - وبجیال
 - เว็บจีแอล
 ---
+
 # [[WebGL]] 
 
 #has_/next_/item :: [[WebGPU]] 

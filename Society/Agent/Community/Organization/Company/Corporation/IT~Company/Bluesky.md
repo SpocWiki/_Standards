@@ -43,6 +43,7 @@ aliases:
 - ブルースカイ
 - 블루스카이
 ---
+
 # [[Bluesky]]
 
 #is_/similar_to :: [[X(Twitter)]] 

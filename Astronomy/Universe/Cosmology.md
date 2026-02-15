@@ -232,6 +232,7 @@ aliases:
 - 宇宙論
 - 우주론
 ---
+
 # [[Cosmology]] 
 
 #is_/same_as :: [[../../WikiData/WD~Cosmology,338|WD~Cosmology,338]] 

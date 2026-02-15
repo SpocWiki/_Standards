@@ -464,6 +464,7 @@ dv_has_:
     zh_tw: 力
     zu: IsiPhoqi
 ---
+
 # [[Force]] 
 
 #is_/same_as :: [[../../WikiData/WD~Force,11402|WD~Force,11402]] 

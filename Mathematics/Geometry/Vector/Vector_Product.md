@@ -168,6 +168,7 @@ dv_has_:
     zh_sg: 向量积
     zh_tw: 向量積
 ---
+
 # [[Vector_Product]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Vector_product,178192|WD~Vector_product,178192]]  

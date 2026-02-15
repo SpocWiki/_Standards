@@ -298,6 +298,7 @@ dv_has_:
     zh_sg: 彼得·德拜
     zh_tw: 彼得·德拜
 ---
+
 # [[Debye,Peter]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Peter_Debye,103835|WD~Peter_Debye,103835]]  

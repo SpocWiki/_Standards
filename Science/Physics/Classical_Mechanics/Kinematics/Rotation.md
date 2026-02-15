@@ -197,6 +197,7 @@ dv_has_:
     zh_sg: 自转
     zh_tw: 自轉
 ---
+
 # [[Rotation]] 
 
 #is_/same_as :: [[WD~Rotation,107617]] 

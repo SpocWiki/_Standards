@@ -176,6 +176,7 @@ dv_has_:
     zh_sg: 混沌理论
     zh_tw: 混沌理論
 ---
+
 # [[Chaos_Theory]] 
 
 #is_/same_as :: [[../../WikiData/WD~Chaos_theory,166314|WD~Chaos_theory,166314]] 

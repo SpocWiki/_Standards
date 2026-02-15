@@ -129,6 +129,7 @@ dv_has_:
     zh_sg: 帕格沃什科学和世界事务会议
     zh_tw: 帕格沃什科學和世界事務會議
 ---
+
 # [[Pugwash_Conferences_on_Science_and_World_Affairs]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Pugwash_Conferences_on_Science_and_World_Affairs,381282|WD~Pugwash_Conferences_on_Science_and_World_Affairs,381282]]  

@@ -328,6 +328,7 @@ dv_has_:
     zh_hk: 索倫·祁克果
     zh_tw: 索倫·齊克果
 ---
+
 # [[Kierkegaard,Søren]] 
 
 #has_/time_/started ::  1813-05-05 

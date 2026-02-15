@@ -179,6 +179,7 @@ aliases:
 - 卡爾馬聯盟
 - 칼마르 동맹
 ---
+
 # [[1397-Kalmar_Union-1523]] 
 
 #is_/same_as :: [[WD~Kalmar_Union,62623]] 

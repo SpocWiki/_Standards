@@ -76,6 +76,7 @@ dv_has_:
     yue: 主力艦
     zh: 主力艦
 ---
+
 # [[Capital_Ship]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Capital_ship,1194368|WD~Capital_ship,1194368]] 

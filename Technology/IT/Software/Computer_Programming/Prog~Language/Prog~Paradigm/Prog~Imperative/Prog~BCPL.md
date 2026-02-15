@@ -55,6 +55,7 @@ aliases:
 - 基本組合編程語言
 - ꠛꠤꠌꠤꠙꠤꠄꠟ
 ---
+
 # [[Prog~BCPL]] 
 
 #is_a_/ComputerLanguage 

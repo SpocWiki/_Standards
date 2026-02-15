@@ -156,6 +156,7 @@ aliases:
 - 맥동별
 - 펄사
 ---
+
 # [[Pulsar]] 
 
 #is_/same_as :: [[WD~Pulsar,4360]] 

@@ -122,6 +122,7 @@ aliases:
 - 波你尼
 - 파니니
 ---
+
 # [[Pāṇini]] 
 
 #is_/same_as :: [[WD~Panini,189725]] 

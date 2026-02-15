@@ -359,6 +359,7 @@ dv_has_:
     zh_tw: 自然數
     zu: inombolo yokubala
 ---
+
 # [[Natural_Number]] 
 
 #is_/same_as :: [[WD~Natural_number,21199]] 

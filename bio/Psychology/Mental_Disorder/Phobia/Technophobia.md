@@ -98,6 +98,7 @@ dv_has_:
     zh_hans: 科技恐惧症
     zh_hant: 科技恐懼症
 ---
+
 # [[Technophobia]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Technophobia,1042900|WD~Technophobia,1042900]]  

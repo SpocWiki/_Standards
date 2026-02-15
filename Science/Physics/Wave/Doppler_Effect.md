@@ -199,6 +199,7 @@ dv_has_:
     zh_hans: 多普勒效应
     zh_tw: 都卜勒效應
 ---
+
 # [[Doppler_Effect]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Doppler_effect,76436|WD~Doppler_effect,76436]] 

@@ -192,6 +192,7 @@ dv_is_same_as:
 - '[[/_secret/Earth/Continent/Europe/Europe~Central/EFTA(European_Free_Trade_Association).secret|EFTA(European_Free_Trade_Association).secret]]'
 has_id_wikidata: Q166546
 ---
+
 # [[EFTA(European_Free_Trade_Association)]]  
 
 has_time_started = `=this.dv_has_time_started`

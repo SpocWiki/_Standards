@@ -11,6 +11,7 @@ dv_has_:
     en: auction
     ru: аукцион
 ---
+
 # [[Auction]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~auction,133538823|WD~auction,133538823]] 

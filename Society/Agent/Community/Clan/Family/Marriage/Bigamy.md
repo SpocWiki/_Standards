@@ -122,6 +122,7 @@ dv_has_:
     zh_hant: 重婚
     zh_hk: 重婚
 ---
+
 # [[Bigamy]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Bigamy,720243|WD~Bigamy,720243]] 

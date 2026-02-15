@@ -308,6 +308,7 @@ dv_has_:
     zh: 門
 Unicode_character: 🚪
 ---
+
 # [[Door]] 🚪 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Door,36794|WD~Door,36794]] 

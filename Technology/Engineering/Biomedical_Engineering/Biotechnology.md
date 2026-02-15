@@ -261,6 +261,7 @@ dv_has_:
     zh_hans: 生物技术
     zh_hant: 生物技術
 ---
+
 # [[Biotechnology]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Biotechnology,7108|WD~Biotechnology,7108]] 

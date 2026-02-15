@@ -139,6 +139,7 @@ dv_has_:
     zh_sg: 窃盗统治
     zh_tw: 竊盜統治
 ---
+
 # [[Kleptocracy]] 
 
 #is_/same_as :: [[/_public/WikiData/WD~Kleptocracy,191244]] 

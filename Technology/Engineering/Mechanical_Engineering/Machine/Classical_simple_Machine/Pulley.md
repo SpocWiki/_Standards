@@ -200,6 +200,7 @@ dv_has_:
     yue: 轤轆
     zh: 滑轮
 ---
+
 # [[Pulley]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Pulley,48378|WD~Pulley,48378]]  

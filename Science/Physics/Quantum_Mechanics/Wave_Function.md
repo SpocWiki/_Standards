@@ -142,6 +142,7 @@ dv_has_:
     zh: 波函数
     zh_hans: 波函数
 ---
+
 # [[Wave_Function]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Wave_function,2362761|WD~Wave_function,2362761]]  

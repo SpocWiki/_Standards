@@ -177,6 +177,7 @@ dv_has_:
     zh_sg: 自然对数
     zh_tw: 自然對數
 ---
+
 # [[Natural_Logarithm]] 
 
 #has_/inverse :: [[Operator~unary/Exponential_Function]] 

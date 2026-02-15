@@ -250,6 +250,7 @@ dv_has_:
     zh-sg: 伊朗伊斯兰革命
     zh-tw: 伊朗伊斯蘭革命
 ---
+
 # [[1978-Iranian_Revolution+1979]] 
 
 #is_/same_as :: [[WD~Iranian_Revolution,126065]]

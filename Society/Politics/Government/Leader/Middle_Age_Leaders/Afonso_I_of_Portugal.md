@@ -208,6 +208,7 @@ dv_has_:
     yue: 亞豐素一世
     zh: 阿方索一世
 ---
+
 # [[Afonso_I_of_Portugal]] 
 
 #is_/same_as  ::[[../../../../../WikiData/WD~Afonso_I_of_Portugal,587697]]] 

@@ -255,6 +255,7 @@ dv_has_:
     zh_tw: 飯店
 Unicode_character: 🏨
 ---
+
 # [[Hotel]] 🏨 
 
 

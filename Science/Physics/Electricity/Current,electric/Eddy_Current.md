@@ -131,6 +131,7 @@ dv_has_:
     zh_sg: 涡电流
     zh_tw: 渦電流
 ---
+
 # [[Eddy_Current]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Eddy_current,208598|WD~Eddy_current,208598]] 

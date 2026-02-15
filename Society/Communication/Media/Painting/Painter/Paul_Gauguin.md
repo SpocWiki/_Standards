@@ -462,6 +462,7 @@ dv_has_:
     yue: 高更
     zh: 保羅·高更
 ---
+
 # [[Paul_Gauguin]] 
 
 #is_/same_as :: [[WD~Paul_Gauguin,37693]] 

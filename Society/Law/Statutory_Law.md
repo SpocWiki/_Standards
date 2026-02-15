@@ -88,6 +88,7 @@ dv_has_:
     zh_hans: 成文法
     zh_hant: 成文法
 ---
+
 # [[Statutory_Law]] 
 
 #is_/same_as :: [[../../WikiData/WD~Statutory_law,7766927|WD~Statutory_law,7766927]] 

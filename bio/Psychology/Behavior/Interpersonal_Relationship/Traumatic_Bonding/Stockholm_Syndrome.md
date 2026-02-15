@@ -166,6 +166,7 @@ dv_has_:
     zh_sg: 斯德哥尔摩综合征
     zh_tw: 斯德哥爾摩症候群
 ---
+
 # [[Stockholm_Syndrome]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Stockholm_syndrome,180242|WD~Stockholm_syndrome,180242]]  

@@ -72,6 +72,7 @@ aliases:
 - 創造的破壊
 - 창조적 파괴
 ---
+
 # [[creative_Destruction]] 
 
 

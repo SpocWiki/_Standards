@@ -330,6 +330,7 @@ dv_has_:
     zh_hans: 稀有气体
     zh_hant: 貴氣體
 ---
+
 # [[Group-18-Nobel-Gases]]
 
 #is_/same_as :: [[../../WikiData/WD~Noble_gases,19609|WD~Noble_gases,19609]]

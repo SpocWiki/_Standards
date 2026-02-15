@@ -471,6 +471,7 @@ dv_has_:
     zh_tw: 西洋棋
     zu: uthimba
 ---
+
 # [[Chess]] 
 
 |     |     |  a  |  b  |  c  |  d  |  e  |  f  |  g  |  h  |     |     |

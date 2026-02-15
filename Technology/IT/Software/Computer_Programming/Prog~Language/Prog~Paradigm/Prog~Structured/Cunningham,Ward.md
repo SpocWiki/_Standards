@@ -96,6 +96,7 @@ dv_has_:
     zh: 沃德·坎宁安
     zh-hant: 沃德·坎寧安
 ---
+
 # [[Cunningham,Ward]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Ward_Cunningham,7637|WD~Ward_Cunningham,7637]] 

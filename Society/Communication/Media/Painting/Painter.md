@@ -343,6 +343,7 @@ dv_has_:
     zh_sg: 绘画
     zh_tw: 繪畫
 ---
+
 # [[Painter]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~painter,1028181]] 

@@ -233,6 +233,7 @@ dv_has_:
     zh_hant: 埃拉托斯特尼
     zh_tw: 埃拉托斯特尼
 ---
+
 # [[Eratosthenes]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Eratosthenes,43182|WD~Eratosthenes,43182]] 

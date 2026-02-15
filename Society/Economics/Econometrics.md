@@ -168,6 +168,7 @@ dv_has_:
     zh_sg: 计量经济学
     zh_tw: 計量經濟學
 ---
+
 # [[Econometrics]] 
 
 #is_/same_as :: [[../../WikiData/WD~Econometrics,160039|WD~Econometrics,160039]] 

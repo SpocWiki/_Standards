@@ -251,6 +251,7 @@ dv_has_:
     zh_hant: 反猶太主義
     zh_tw: 反猶太主義
 ---
+
 # [[Antisemitism]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~antisemitism,22649]]

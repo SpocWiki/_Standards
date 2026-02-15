@@ -79,6 +79,7 @@ dv_has_:
     zh_hant: 深紅之王
     zh_tw: 深紅之王
 ---
+
 # [[King_Crimson]]  
 
 ## #has_/text_of_/abstract 

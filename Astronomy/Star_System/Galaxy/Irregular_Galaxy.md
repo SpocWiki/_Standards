@@ -156,6 +156,7 @@ dv_has_:
     zh_tw: 不規則星系
     zu: Umthalakazi omfihlimfihli
 ---
+
 # [[Irregular_Galaxy]] 
 
 #is_/same_as :: [[WD~Irregular_galaxy,190397]] 

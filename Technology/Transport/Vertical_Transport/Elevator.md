@@ -240,6 +240,7 @@ dv_has_:
     zh-tw: 電梯
 Unicode_character: 🛗
 ---
+
 # [[Elevator]] 🛗 
 
 #is_/same_as :: [[../../../WikiData/WD~Elevator,132911|WD~Elevator,132911]] 

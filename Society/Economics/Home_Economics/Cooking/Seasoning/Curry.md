@@ -194,6 +194,7 @@ dv_has_:
     zh_tw: 咖哩
     zu: UCurry
 ---
+
 # [[Curry]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Curry,164606|WD~Curry,164606]] 

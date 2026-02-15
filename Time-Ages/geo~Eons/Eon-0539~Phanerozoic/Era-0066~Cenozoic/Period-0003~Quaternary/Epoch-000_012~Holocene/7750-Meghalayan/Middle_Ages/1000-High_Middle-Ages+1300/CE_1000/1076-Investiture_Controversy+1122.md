@@ -157,6 +157,7 @@ dv_has_:
     zh-sg: 叙任权斗争
     zh-tw: 敘任權鬥爭
 ---
+
 # [[1076-Investiture_Controversy+1122]] 
 
 #is_/same_as :: [[WD~Investiture_controversy,154764]] 

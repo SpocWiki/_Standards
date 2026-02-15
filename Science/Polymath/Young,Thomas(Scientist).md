@@ -225,6 +225,7 @@ dv_has_:
     zh: 托马斯·杨
     zh_hans: 托马斯·杨
 ---
+
 # [[Young,Thomas(Scientist)]] 
 
 #is_/same_as :: [[../../WikiData/WD~Thomas_Young,25820|WD~Thomas_Young,25820]]  

@@ -139,6 +139,7 @@ dv_has_:
     zh_hans: 当代哲学家
     zh_hant: 當代哲學家
 ---
+
 # [[Contemporary_Philosophy]]  
 
 #is_/same_as :: [[../WikiData/WD~Contemporary_philosophy,943303|WD~Contemporary_philosophy,943303]] 

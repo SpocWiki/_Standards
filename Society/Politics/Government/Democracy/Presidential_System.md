@@ -227,6 +227,7 @@ dv_has_:
     zh_hant: 總統制
     zh_tw: 總統制
 ---
+
 # [[Presidential_System]] 
 
 #is_/different_from :: [[Parliamentary_System|Parliamentary_System]] 

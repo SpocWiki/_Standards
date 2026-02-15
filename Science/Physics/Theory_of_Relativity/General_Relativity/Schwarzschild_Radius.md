@@ -123,6 +123,7 @@ dv_has_:
     yue: 史華西半徑
     zh: 史瓦西半徑
 ---
+
 # [[Schwarzschild_Radius]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Schwarzschild_radius,72755|WD~Schwarzschild_radius,72755]]  

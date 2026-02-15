@@ -265,6 +265,7 @@ dv_has_:
     zh: 卡尔·魏尔斯特拉斯
     zh_hans: 卡尔·魏尔斯特拉斯
 ---
+
 # [[Weierstraß,Karl]] 
 
 #is_/same_as :: [[WD~Karl_Weierstraß,57103]] 

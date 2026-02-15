@@ -46,6 +46,7 @@ aliases:
 - 埃里克·温斯坦
 - 에릭 와인스타인
 ---
+
 # [[Weinstein,Eric_Ross]] 
 
 #has_/time_/started :: 1965-10-26 

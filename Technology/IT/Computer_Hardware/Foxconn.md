@@ -102,6 +102,7 @@ aliases:
 - 鸿海科技集团
 - 폭스콘
 ---
+
 # [[Foxconn]] 
 
 ## #has_/text_of_/abstract 

@@ -191,6 +191,7 @@ aliases:
 - ꯃꯁꯤꯡ
 - 기수법
 ---
+
 # [[Numeral_System]] 
 
 

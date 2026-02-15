@@ -172,6 +172,7 @@ dv_has_:
     zh_sg: 投票制度
     zh_tw: 投票制度
 ---
+
 # [[Electoral_System]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Electoral_system,182985|WD~Electoral_system,182985]] 

@@ -8,6 +8,7 @@ aliases:
 - Nice Guy
 - 나이스 가이
 ---
+
 # [[Nice_Guy]] 
 
 

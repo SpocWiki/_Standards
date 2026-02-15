@@ -226,6 +226,7 @@ dv_has_:
     zh_hant: 民族學
     zh_tw: 民族學
 ---
+
 # [[Ethnology]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Ethnology,43455|WD~Ethnology,43455]] 

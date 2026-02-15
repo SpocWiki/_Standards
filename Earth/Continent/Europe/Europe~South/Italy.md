@@ -1172,6 +1172,7 @@ coordinates_of_southernmost_point: Point(15.07981896 36.64674684)
 population: 58850717
 Unicode_character: 🇮🇹
 ---
+
 # [[Italy]] 🇮🇹 
 
 

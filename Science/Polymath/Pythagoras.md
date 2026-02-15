@@ -363,6 +363,7 @@ dv_has_:
     zh_hk: 畢達哥拉斯
     zh_tw: 畢達哥拉斯
 ---
+
 # [[Pythagoras]] 
 
 #is_/same_as :: [[WD~Pythagoras,10261]] 

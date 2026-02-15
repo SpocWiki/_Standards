@@ -115,6 +115,7 @@ aliases:
 - 短音階
 - 단음계
 ---
+
 # [[Minor_Scale]] 
 
 #is_/same_as :: [[WD~Minor,12827391]] 

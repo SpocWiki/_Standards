@@ -135,6 +135,7 @@ dv_has_:
     yue: 世亞 (行星)
     zh: 忒伊亞
 ---
+
 # [[Theia(Planet)]]
 
 #is_/same_as :: [[WD~Theia,1053432]]

@@ -185,6 +185,7 @@ dv_has_:
     zh_sg: 权威
     zh_tw: 權威
 ---
+
 # [[Authority]] 
 
 #is_/same_as :: [[../../../../_Standards/WikiData/WD~Authority,174834|WD~Authority,174834]] 

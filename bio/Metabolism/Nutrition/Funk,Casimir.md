@@ -99,6 +99,7 @@ dv_has_:
     wuu: 卡西米尔·冯克
     zh: 卡西米尔·冯克
 ---
+
 # [[Funk,Casimir]]  
 
 #has_/time_/started ::  1884-02-23

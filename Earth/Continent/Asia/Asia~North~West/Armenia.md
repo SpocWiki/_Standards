@@ -917,6 +917,7 @@ male_population:
   - 1274767
 Unicode_character: 🇦🇲
 ---
+
 # [[Armenia]] 🇦🇲 
 
 ## [[Armenia]] has Properties...

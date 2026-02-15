@@ -202,6 +202,7 @@ dv_has_:
     zh_sg: 收养
     zh_tw: 收養
 ---
+
 # [[Adoption]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Adoption,180472]] 

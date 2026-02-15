@@ -643,6 +643,7 @@ dv_has_:
     zu: Izambane
 Unicode_character: 🥔
 ---
+
 # [[Potato]] 🥔 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../WikiData/WD~Potato,10998|WD~Potato,10998]] 

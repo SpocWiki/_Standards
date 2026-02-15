@@ -228,6 +228,7 @@ dv_has_:
     zh_sg: 刑法
     zh_tw: 刑法
 ---
+
 # [[Criminal_Law]] 
 
 #is_/same_as :: [[../../WikiData/WD~Criminal_law,146491|WD~Criminal_law,146491]] 

@@ -171,6 +171,7 @@ dv_has_:
     zh_sg: 通货紧缩
     zh_tw: 通貨緊縮
 ---
+
 # [[Deflation]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Deflation,161081|WD~Deflation,161081]] 

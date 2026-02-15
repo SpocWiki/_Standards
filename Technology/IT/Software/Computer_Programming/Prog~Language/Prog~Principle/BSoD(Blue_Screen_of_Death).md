@@ -95,6 +95,7 @@ aliases:
 - 藍螢幕當機
 - 블루스크린
 ---
+
 # [[BSoD(Blue_Screen_of_Death)]]  
 
 The BSoD protects the Computer from causing subsequent Damage to itself or attached Devices. 

@@ -256,6 +256,7 @@ dv_has_:
     yue: 泰勒斯
     zh: 泰勒斯
 ---
+
 # [[Thales]] 
 
 #is_/same_as :: [[../../WikiData/WD~Thales,36303|WD~Thales,36303]]  

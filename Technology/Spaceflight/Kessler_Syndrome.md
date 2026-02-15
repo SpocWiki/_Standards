@@ -70,6 +70,7 @@ dv_has_:
     uk: синдром Кесслера
     zh: 凯斯勒现象
 ---
+
 # [[Kessler_Syndrome]] 
 
 #is_/same_as :: [[WD~Kessler_Syndrome,693564]] 

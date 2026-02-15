@@ -128,6 +128,7 @@ dv_has_:
     zh_hant: 動感雕塑
     zh_tw: kinetic art
 ---
+
 # [[Kinetic_Art]] 
 
 #is_/same_as :: [[WD~Kinetic_art,466521]] 

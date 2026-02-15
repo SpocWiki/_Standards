@@ -145,6 +145,7 @@ dv_has_:
     zh: 義務
     zh_hant: 義務
 ---
+
 # [[Duty]] 
 
 #is_/same_as :: [[../../WikiData/WD~Duty,878070|WD~Duty,878070]] 

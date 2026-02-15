@@ -329,6 +329,7 @@ dv_has_:
     zu: abayizithulu
 Unicode_character: 🧏
 ---
+
 # [[Deafness]] 🧏 
 
 #is_/same_as :: [[../../../../WikiData/WD~Deafness,12133|WD~Deafness,12133]] 

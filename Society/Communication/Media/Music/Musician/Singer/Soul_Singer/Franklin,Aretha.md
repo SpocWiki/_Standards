@@ -322,6 +322,7 @@ dv_has_:
     zh_sg: 艾瑞莎·弗兰克林
     zh_tw: 艾瑞莎·弗蘭克林
 ---
+
 # [[Franklin,Aretha]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Aretha_Franklin,125121|WD~Aretha_Franklin,125121]] 

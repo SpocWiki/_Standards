@@ -148,6 +148,7 @@ dv_has_:
     zh_sg: 编程范型
     zh_tw: 編程範型
 ---
+
 # [[Prog~Paradigm]] 
 
 #is_/same_as :: [[WD~Programming_paradigm,188267]] 

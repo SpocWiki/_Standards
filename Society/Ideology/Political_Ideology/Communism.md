@@ -372,6 +372,7 @@ dv_has_:
     zh_sg: 共产主义
     zh_tw: 共產主義
 ---
+
 # [[Communism]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Communism,6186|WD~Communism,6186]] 

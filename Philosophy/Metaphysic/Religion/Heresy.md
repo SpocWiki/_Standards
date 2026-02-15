@@ -207,6 +207,7 @@ dv_has_:
     zh_sg: 异端
     zh_tw: 異端
 ---
+
 # [[Heresy]] 
 
 #is_/same_as :: [[WD~Heresy,160598]] 

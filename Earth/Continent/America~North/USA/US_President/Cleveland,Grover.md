@@ -248,6 +248,7 @@ dv_is_same_as:
 - '[[/_personal/Earth/Continent/America~North/USA/US_President/Cleveland,Grover.personal|Cleveland,Grover.personal]]'
 - '[[/_secret/Earth/Continent/America~North/USA/US_President/Cleveland,Grover.secret|Cleveland,Grover.secret]]'
 ---
+
 # [[Cleveland,Grover]] 
 
 has_time_started = `=this.dv_has_time_started`

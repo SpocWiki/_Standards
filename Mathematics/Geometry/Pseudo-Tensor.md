@@ -29,6 +29,7 @@ aliases:
 - 擬テンソル
 - 贗張量
 ---
+
 # [[Pseudo-Tensor]] 
 
 

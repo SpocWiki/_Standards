@@ -345,6 +345,7 @@ dv_has_:
     zh_sg: 死刑
     zh_tw: 死刑
 ---
+
 # [[Capital_Punishment]] 
 
 #is_/same_as :: [[../../WikiData/WD~Capital_punishment,8454|WD~Capital_punishment,8454]] 

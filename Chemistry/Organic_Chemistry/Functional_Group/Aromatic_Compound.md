@@ -148,6 +148,7 @@ dv_has_:
     yue: 芳香化合物
     zh: 芳香化合物
 ---
+
 # [[Aromatic_Compound]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Aromatic_compound,19834818|WD~Aromatic_compound,19834818]] 

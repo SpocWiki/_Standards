@@ -17,6 +17,7 @@ dv_is_same_as:
   - "[[/_personal/Earth/Continent/Arctica.personal|Arctica.personal]]"
   - "[[/_secret/Earth/Continent/Arctica.secret|Arctica.secret]]"
 ---
+
 # [[Arctica]]
 
 ## #has_/map 

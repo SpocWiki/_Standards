@@ -65,6 +65,7 @@ dv_has_:
     zh_hans: 双参函数
     zh_hant: 二元函數
 ---
+
 # [[Function~binary]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~binary_function,3737844]] 

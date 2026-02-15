@@ -506,6 +506,7 @@ dv_has_:
     zh_tw: 穆罕默德
     zu: Muhammad
 ---
+
 # [[Muhammad]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Muhammad,9458|WD~Muhammad,9458]] 

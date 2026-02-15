@@ -182,6 +182,7 @@ dv_has_:
     zh-hans: 摆
     zh-hant: 擺
 ---
+
 # [[Pendulum]]
 
 #is_/same_as :: [[WD~Pendulum,20702]] 

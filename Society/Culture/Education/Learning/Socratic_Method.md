@@ -88,6 +88,7 @@ aliases:
 - 蘇格拉底反詰法
 - 문답법
 ---
+
 # [[Socratic_Method]]
 
 > The Socratic method (also known as the method of Elenchus or Socratic debate) 

@@ -130,6 +130,7 @@ dv_has_:
     zh_hant: 性力派
     zh_hk: 性力派
 ---
+
 # [[Shaktism]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Shaktism,849345|WD~Shaktism,849345]]  

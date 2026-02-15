@@ -379,6 +379,7 @@ dv_has_:
     zh_tw: 烏茲別克語
     zu: isi-Uzbek
 ---
+
 # [[Lang-uzb]]  
 
 #is_/same_as :: [[../../../../WikiData/WD~Uzbek,9264|WD~Uzbek,9264]]  

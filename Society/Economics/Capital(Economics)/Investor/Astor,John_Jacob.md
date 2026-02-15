@@ -139,6 +139,7 @@ dv_has_:
     war: John Jacob Astor
     zh: 約翰·雅各布·阿斯特
 ---
+
 # [[Astor,John_Jacob]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~John_Jacob_Astor_I,57423|WD~John_Jacob_Astor_I,57423]] 

@@ -226,6 +226,7 @@ dv_has_:
     zh: 火成岩
     zh_tw: 火成岩
 ---
+
 # [[Igneous_Rock]] 
 
 #is_/same_as :: [[WD~Igneous_rock,42045]] 

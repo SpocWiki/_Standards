@@ -432,6 +432,7 @@ dv_has_name_abbreviated: Ni
 dv_has_number_of_electrons: 28
 Unicode_character: 鎳
 ---
+
 # [[Nickel]] 鎳 
 
 

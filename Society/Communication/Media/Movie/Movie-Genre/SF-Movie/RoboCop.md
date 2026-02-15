@@ -93,6 +93,7 @@ aliases:
 - 鐵甲威龍
 - 로보캅
 ---
+
 # [[RoboCop]]  
 
 > **RoboCop** is a 1987 American science fiction action film directed by [[../Movie-Directors/Verhoeven,Paul]] and written by Edward Neumeier and Michael Miner. 

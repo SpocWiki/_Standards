@@ -199,6 +199,7 @@ dv_has_:
     zh_sg: 角动量
     zh_tw: 角動量
 ---
+
 # [[Angular_Momentum]] 
 
 #is_/same_as :: [[../../WikiData/WD~Angular_momentum,161254|WD~Angular_momentum,161254]] 

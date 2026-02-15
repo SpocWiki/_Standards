@@ -91,6 +91,7 @@ dv_has_:
     vi: Hiện đại hành vi
     zh: 行为现代性
 ---
+
 # [[Cognitive_Revolution]] 
 
 #is_/same_as :: [[WD~Behavioral_modernity,2706556]] 

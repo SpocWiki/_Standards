@@ -279,6 +279,7 @@ dv_has_:
     zh_tw: 科羅拉多金花蟲
     zu: Leptinotarsa decemlineata
 ---
+
 # [[Potato_Beetle]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Colorado_potato_beetle,156954|WD~Colorado_potato_beetle,156954]] 

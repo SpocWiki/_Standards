@@ -251,6 +251,7 @@ dv_has_:
     yue: 司湯達
     zh: 司汤达
 ---
+
 # [[Stendhal]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Stendhal,502|WD~Stendhal,502]]  

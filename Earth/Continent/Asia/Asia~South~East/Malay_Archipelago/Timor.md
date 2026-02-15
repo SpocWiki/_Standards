@@ -237,6 +237,7 @@ dv_has_:
     zh: 帝汶
     zu: Timor
 ---
+
 # [[Timor]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Timor,83067|WD~Timor,83067]] 

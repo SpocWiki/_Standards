@@ -101,6 +101,7 @@ dv_has_:
     zh: 宗教信仰哲學
     zh_hant: 宗教信仰哲學
 ---
+
 # [[Religious_Philosophy]] 
 
 #is_/same_as :: [[../WikiData/WD~Religious_philosophy,2054106|WD~Religious_philosophy,2054106]] 

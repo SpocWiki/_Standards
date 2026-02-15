@@ -115,6 +115,7 @@ aliases:
 - 猜想
 - 추측
 ---
+
 # [[Conjecture]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Conjecture,319141|WD~Conjecture,319141]] 

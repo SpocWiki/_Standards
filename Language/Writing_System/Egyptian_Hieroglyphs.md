@@ -254,6 +254,7 @@ dv_has_:
     zh_tw: 聖書體
     zu: Izifenqo zaseGibhithe
 ---
+
 # [[Egyptian_Hieroglyphs]] 
 
 #is_/same_as :: [[../../WikiData/WD~Egyptian_hieroglyphs,132659|WD~Egyptian_hieroglyphs,132659]] 

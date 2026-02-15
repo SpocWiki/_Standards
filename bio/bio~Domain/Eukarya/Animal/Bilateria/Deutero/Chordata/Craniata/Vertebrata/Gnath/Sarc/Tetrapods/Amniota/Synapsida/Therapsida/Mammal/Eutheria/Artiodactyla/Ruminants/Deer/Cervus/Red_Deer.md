@@ -283,6 +283,7 @@ dv_has_:
     zh_tw: 馬鹿
 Unicode_character: 🦌
 ---
+
 # [[Red_Deer]] 🦌 
 
 #is_/same_as :: [[WD~Red_deer,79794]] 

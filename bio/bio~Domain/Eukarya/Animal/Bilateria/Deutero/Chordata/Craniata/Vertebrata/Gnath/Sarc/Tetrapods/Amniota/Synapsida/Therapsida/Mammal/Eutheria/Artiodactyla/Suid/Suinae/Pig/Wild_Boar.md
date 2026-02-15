@@ -440,6 +440,7 @@ dv_has_:
     zh_tw: 野豬
 Unicode_character: 🐗
 ---
+
 # [[Wild_Boar]] 🐗 
 
 ## Wild boar 

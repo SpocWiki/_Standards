@@ -178,6 +178,7 @@ dv_has_:
     zh_sg: 电动势
     zh_tw: 電動勢
 ---
+
 # [[Source_Voltage]] 
 
 #is_/same_as :: [[WD~Source_voltage,185329]] 

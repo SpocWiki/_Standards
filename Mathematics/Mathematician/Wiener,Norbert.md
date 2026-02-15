@@ -72,6 +72,7 @@ dv_has_:
     zh_sg: 诺伯特·维纳
     zh_tw: 諾伯特·維納
 ---
+
 # [[Wiener,Norbert]]  
 
 #has_/time_/started ::  1894-11-26 

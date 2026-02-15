@@ -228,6 +228,7 @@ dv_has_:
     zh_hans: 光学
     zu: Ezomkhanyizo
 ---
+
 # [[Optics]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Optics,14620|WD~Optics,14620]] 

@@ -168,6 +168,7 @@ dv_has_:
     zh_sg: 高斯定律
     zh_tw: 高斯定律
 ---
+
 # [[Gauss's_Law]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Gauss's_law,173356|WD~Gauss's_law,173356]]

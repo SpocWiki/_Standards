@@ -344,6 +344,7 @@ dv_is_same_as:
 - '[[/_personal/schema-org/Class/is_a_/Data_Type/Number/Integer.personal|Integer.personal]]'
 - '[[/_secret/schema-org/Class/is_a_/Data_Type/Number/Integer.secret|Integer.secret]]'
 ---
+
 # [[Integer]] 
 
 Class of all integers.

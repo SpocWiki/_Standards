@@ -359,6 +359,7 @@ dv_has_:
     zh_hans: 切·格瓦拉
     zh_hant: 切·格瓦拉
 ---
+
 # [[Che_Guevara]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Che_Guevara,5809|WD~Che_Guevara,5809]] 

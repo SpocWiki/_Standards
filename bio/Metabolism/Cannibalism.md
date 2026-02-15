@@ -185,6 +185,7 @@ dv_has_:
     zh_hant: 同類相食
     zh_tw: 同類相食
 ---
+
 # [[Cannibalism]] 
 
 #is_/same_as :: [[../../WikiData/WD~Cannibalism,44595|WD~Cannibalism,44595]] 

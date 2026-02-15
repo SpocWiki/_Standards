@@ -453,6 +453,7 @@ dv_has_:
     zh_tw: 白色
     zu: Emhlophe
 ---
+
 # [[White]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~White,23444|WD~White,23444]] 

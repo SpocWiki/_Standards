@@ -283,6 +283,7 @@ dv_has_:
     zh_sg: 林纳斯·托瓦兹
     zh_tw: 林納斯·托瓦茲
 ---
+
 # [[Torvalds,Linus]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Linus_Torvalds,34253|WD~Linus_Torvalds,34253]]  

@@ -447,6 +447,7 @@ dv_has_:
     yue: 多拉夸
     zh: 欧仁·德拉克罗瓦
 ---
+
 # [[Delacroix,Eugène]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Eugène_Delacroix,33477|WD~Eugène_Delacroix,33477]] 

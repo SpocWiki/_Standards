@@ -174,6 +174,7 @@ dv_has_:
     zh_sg: 阻抗
     zh_tw: 阻抗
 ---
+
 # [[Electric_Impedance]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Impedance,179043|WD~Impedance,179043]] 

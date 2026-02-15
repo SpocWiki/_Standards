@@ -144,6 +144,7 @@ dv_has_:
     zh_hk: 中東歷史
     zh_tw: 中東歷史
 ---
+
 # [[History_of_the_Middle_East]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~History_of_the_Middle_East,51615|WD~History_of_the_Middle_East,51615]] 

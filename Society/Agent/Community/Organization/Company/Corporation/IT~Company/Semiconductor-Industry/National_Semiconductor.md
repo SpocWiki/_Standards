@@ -40,6 +40,7 @@ aliases:
 - 美國國家半導體
 - 내셔널 세미컨덕터
 ---
+
 # [[National_Semiconductor]] 
 
 > National Semiconductor was an American semiconductor manufacturer 

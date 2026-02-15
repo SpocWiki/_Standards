@@ -246,6 +246,7 @@ dv_has_:
     zh_hant: 艾彌爾·涂爾幹
     zh_tw: 艾彌爾·涂爾幹
 ---
+
 # [[Durkheim,Émile]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Émile_Durkheim,15948|WD~Émile_Durkheim,15948]] 

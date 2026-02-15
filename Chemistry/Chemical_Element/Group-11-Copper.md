@@ -175,6 +175,7 @@ dv_has_:
     zh_sg: 11族元素
     zh_tw: 11族元素
 ---
+
 # [[Group-11-Copper]] 
 
 #chemic/Group 

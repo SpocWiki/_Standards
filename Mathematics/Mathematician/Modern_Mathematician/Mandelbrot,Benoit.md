@@ -228,6 +228,7 @@ dv_has_:
     zh_sg: 本华·曼德博
     zh_tw: 本華·曼德博
 ---
+
 # [[Mandelbrot,Benoit]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Benoit_Mandelbrot,101740|WD~Benoit_Mandelbrot,101740]] 

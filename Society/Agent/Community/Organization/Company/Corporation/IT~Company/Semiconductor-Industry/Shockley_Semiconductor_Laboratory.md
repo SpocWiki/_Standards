@@ -25,6 +25,7 @@ dv_has_:
     uz: Shockley Semiconductor Laboratory
     zh: 肖克利半導體實驗室
 ---
+
 # [[Shockley_Semiconductor_Laboratory]]  
 
 > Shockley Semiconductor Laboratory, later known as Shockley Transistor Corporation, 

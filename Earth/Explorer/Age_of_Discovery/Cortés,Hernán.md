@@ -307,6 +307,7 @@ dv_is_same_as:
 - '[[/_personal/Earth/Explorer/Age_of_Discovery/Cortés,Hernán.personal|Cortés,Hernán.personal]]'
 - '[[/_secret/Earth/Explorer/Age_of_Discovery/Cortés,Hernán.secret|Cortés,Hernán.secret]]'
 ---
+
 # [[Cortés,Hernán]] 
 
 has_time_started = `=this.dv_has_time_started`

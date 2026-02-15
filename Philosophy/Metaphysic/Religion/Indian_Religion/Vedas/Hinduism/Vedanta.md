@@ -126,6 +126,7 @@ dv_has_:
     yue: 吠檀多派
     zh: 吠檀多
 ---
+
 # [[Vedanta]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Vedanta,2512051|WD~Vedanta,2512051]]  

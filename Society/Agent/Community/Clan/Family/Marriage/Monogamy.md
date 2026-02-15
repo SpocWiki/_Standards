@@ -155,6 +155,7 @@ dv_has_:
     zh_sg: 单配偶制
     zh_tw: 一夫一妻制
 ---
+
 # [[Monogamy]] 
 
 #is_/same_as :: [[WD~Monogamy,184211]] 

@@ -380,6 +380,7 @@ dv_has_:
     zh_hant: 斯瓦希里語
     zu: isi-Swahili
 ---
+
 # [[Lang-swh]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Swahili,7838|WD~Swahili,7838]]  

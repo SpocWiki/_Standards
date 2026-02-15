@@ -261,6 +261,7 @@ dv_has_:
     zh: 动脉
     zh_hant: 動脈
 ---
+
 # [[Artery]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Artery,9655|WD~Artery,9655]] 

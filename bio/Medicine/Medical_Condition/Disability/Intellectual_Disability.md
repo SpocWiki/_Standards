@@ -228,6 +228,7 @@ dv_has_:
     zh_sg: 智能障碍
     zh_tw: 智能障礙
 ---
+
 # [[Intellectual_Disability]] 
 
 #is_/same_as :: [[WikiData/WD~Intellectual_disability,183560|WD~Intellectual_disability,183560]]

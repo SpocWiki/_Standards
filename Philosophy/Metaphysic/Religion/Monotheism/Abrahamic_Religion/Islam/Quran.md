@@ -623,6 +623,7 @@ dv_has_:
     zh_tw: 可蘭經
     zu: Quran
 ---
+
 # [[Quran]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Qur’an,428|WD~Qur’an,428]]  

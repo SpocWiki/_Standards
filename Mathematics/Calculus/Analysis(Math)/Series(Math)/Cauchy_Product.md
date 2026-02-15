@@ -47,6 +47,7 @@ aliases:
 - 柯西乘积
 - 코시 곱
 ---
+
 # [[Cauchy_Product]] 
 
 The Product of 2 Sums is calculated as the Sum of diagonal Products to ensure convergence. 

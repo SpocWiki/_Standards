@@ -169,6 +169,7 @@ aliases:
 - 面
 - 평면
 ---
+
 # [[Euclidean_Plane]] 
 
 #is_/same_as :: [[WD~Plane,17285]] 

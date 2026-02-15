@@ -86,6 +86,7 @@ aliases:
 - 規範倫理學
 - 규범윤리학
 ---
+
 # [[Normative_Ethics]] 
 
 #is_/same_as :: [[../../WikiData/WD~Normative_ethics,1321845|WD~Normative_ethics,1321845]] 

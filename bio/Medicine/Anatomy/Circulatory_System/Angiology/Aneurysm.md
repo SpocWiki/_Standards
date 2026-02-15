@@ -131,6 +131,7 @@ aliases:
 - 動脈瘤
 - 동맥류
 ---
+
 # [[Aneurysm]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Aneurysm,189389|WD~Aneurysm,189389]] 

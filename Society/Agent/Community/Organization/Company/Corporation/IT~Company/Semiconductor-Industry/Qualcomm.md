@@ -86,6 +86,7 @@ aliases:
 - 高通公司
 - 퀄컴
 ---
+
 # [[Qualcomm]] 
 
 #is_/similar_to :: [[Nvidia]] 

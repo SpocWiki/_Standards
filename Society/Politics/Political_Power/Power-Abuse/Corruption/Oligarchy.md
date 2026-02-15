@@ -185,6 +185,7 @@ dv_has_:
     zh_hans: 寡头政治
     zh_hant: 寡頭政治
 ---
+
 # [[Oligarchy]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Oligarchy,79751|WD~Oligarchy,79751]]  

@@ -129,6 +129,7 @@ dv_has_:
     zh_hant: 基督教哲學
     zh_hk: 基督教哲學
 ---
+
 # [[Christian_philosophy]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Christian_philosophy,854807|WD~Christian_philosophy,854807]] 

@@ -230,6 +230,7 @@ dv_has_:
     yue: 羅薩蓮德·富蘭克林
     zh: 羅莎琳·富蘭克林
 ---
+
 # [[Franklin,Rosalind]] 
 
 is_similar_to = `=this.dv_is_similar_to` 

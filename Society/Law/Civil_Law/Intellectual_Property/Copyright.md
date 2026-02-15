@@ -299,6 +299,7 @@ dv_has_:
     zh_sg: 著作权
     zh_tw: 著作權
 ---
+
 # [[Copyright]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Copyright,1297822|WD~Copyright,1297822]] 

@@ -127,6 +127,7 @@ dv_has_:
     vi: Người Ấn-Scythia
     zh: 印度-赛西亚王国
 ---
+
 # [[Indo-Scythian]] 
 
 #is_/same_as :: [[WikiData/WD~Indo-Scythians,240123|WD~Indo-Scythians,240123]] 

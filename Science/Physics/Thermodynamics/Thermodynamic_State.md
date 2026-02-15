@@ -99,6 +99,7 @@ dv_has_:
     zh_sg: 热力学状态
     zh_tw: 熱力學狀態
 ---
+
 # [[Thermodynamic_State]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Thermodynamic_state,230875|WD~Thermodynamic_state,230875]]  

@@ -173,6 +173,7 @@ dv_has_:
     zh: 量子计算机
     zh_hans: 量子计算机
 ---
+
 # [[Quantum_Computer]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Quantum_computer,176555|WD~Quantum_computer,176555]]  

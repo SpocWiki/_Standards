@@ -211,6 +211,7 @@ dv_has_:
     zh_cn: 爱德华·泰勒
     zh_hans: 爱德华·泰勒
 ---
+
 # [[Teller,Edward]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Edward_Teller,6733|WD~Edward_Teller,6733]] 

@@ -87,6 +87,7 @@ aliases:
 - 印第安戰斧
 - 토마호크
 ---
+
 # [[Tomahawk]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Tomahawk,86436|WD~Tomahawk,86436]]  

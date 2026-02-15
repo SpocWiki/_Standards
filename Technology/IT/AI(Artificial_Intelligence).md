@@ -531,6 +531,7 @@ dv_has_:
     zh_tw: 人工智慧
     zu: UHlakahlisombulu
 ---
+
 # [[AI(Artificial_Intelligence)]] 
 
 #is_/same_as :: [[../../WikiData/WD~Artificial_intelligence,11660|WD~Artificial_intelligence,11660]]  

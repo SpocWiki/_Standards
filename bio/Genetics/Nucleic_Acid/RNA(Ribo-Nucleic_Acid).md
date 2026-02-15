@@ -227,6 +227,7 @@ dv_has_:
     zh: 核糖核酸
     zu: Isimunyuci
 ---
+
 # [[RNA(Ribo-Nucleic_Acid)]] 
 
 #is_/same_as :: [[../../../WikiData/WD~RNA,11053|WD~RNA,11053]] 

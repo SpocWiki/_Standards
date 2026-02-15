@@ -168,6 +168,7 @@ dv_has_:
     zh_sg: 电阻率
     zh_tw: 電阻率
 ---
+
 # [[Electrical_Resistivity]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Electrical_resistivity,108193|WD~Electrical_resistivity,108193]] 

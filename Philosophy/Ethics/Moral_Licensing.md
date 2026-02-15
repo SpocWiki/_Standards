@@ -33,6 +33,7 @@ dv_has_:
     uk: Ефект моральної ліцензії
     zh: 道德許可證效應
 ---
+
 # [[Moral_Licensing]]
 
 #is_/similar_to :: [[Emission_Trade]] 

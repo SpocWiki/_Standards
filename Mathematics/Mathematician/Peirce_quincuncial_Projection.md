@@ -20,6 +20,7 @@ aliases:
 - パース・クインカンシャル図法
 - 皮尔斯梅花投影
 ---
+
 # [[Peirce_quincuncial_Projection]] 
 
 #is_/same_as :: [[Peirce_quincuncial_Projection]] 

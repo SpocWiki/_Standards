@@ -156,6 +156,7 @@ dv_has_:
     zh_sg: 卢比
     zh_tw: 盧比
 ---
+
 # [[Rupee]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Rupee,178843|WD~Rupee,178843]]  

@@ -208,6 +208,7 @@ dv_has_:
     zh_sg: 理性主义
     zh_tw: 理性主義
 ---
+
 # [[Rationalism]] 
 
 #is_/same_as :: [[../../WikiData/WD~Rationalism,483024|WD~Rationalism,483024]] 

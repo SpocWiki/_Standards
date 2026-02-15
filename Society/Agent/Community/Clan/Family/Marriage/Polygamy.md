@@ -204,6 +204,7 @@ dv_has_:
     zh_tw: 多配偶制
     zu: Isithembu
 ---
+
 # [[Polygamy]] 
 
 #is_/same_as :: [[WD~Polygamy,170585]] 

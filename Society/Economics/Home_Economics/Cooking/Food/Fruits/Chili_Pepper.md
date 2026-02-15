@@ -299,6 +299,7 @@ dv_has_:
     yue: 辣椒
     zh: 辣椒
 ---
+
 # [[Chili_Pepper]] 🌶 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Chili_pepper,165199|WD~Chili_pepper,165199]] 

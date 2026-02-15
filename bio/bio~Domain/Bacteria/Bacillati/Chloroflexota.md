@@ -44,6 +44,7 @@ aliases:
 - Chloroflexota
 - 綠彎菌門
 ---
+
 # [[Chloroflexota]] 
 
 #is_a/bio-Phylum  

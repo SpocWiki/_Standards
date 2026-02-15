@@ -111,6 +111,7 @@ dv_has_:
     zh_sg: 汤玛斯·纽科门
     zh_tw: 湯瑪斯·紐科門
 ---
+
 # [[Newcomen,Thomas]] 
 
 #is_/same_as :: [[WD~Thomas_Newcomen,193042]] 

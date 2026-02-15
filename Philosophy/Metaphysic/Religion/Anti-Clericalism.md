@@ -111,6 +111,7 @@ dv_has_:
     zh_cn: 反教权主义
     zh_hant: 反教權主義
 ---
+
 # [[Anti-Clericalism]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Anti-clericalism,478004|WD~Anti-clericalism,478004]] 

@@ -203,6 +203,7 @@ dv_has_:
     zh_hant: 北野武
     zh_tw: 北野武
 ---
+
 # [[Kitano,Takeshi]] 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Takeshi_Kitano,26372|WD~Takeshi_Kitano,26372]]   

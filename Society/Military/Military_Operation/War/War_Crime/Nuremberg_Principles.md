@@ -81,6 +81,7 @@ dv_has_:
     zgh: ⵉⵎⵏⵣⴰⵢⵏ ⵏ ⵏⵓⵔⵎⴱⵓⵔⴳ
     zh: 纽伦堡原则
 ---
+
 # [[Nuremberg_Principles]] 
 
 #is_/same_as :: [[WD~Nuremberg_principles,2146981]] 

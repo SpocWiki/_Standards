@@ -455,6 +455,7 @@ dv_has_:
     zh_tw: 馬丁·路德
     zu: Martin Luther
 ---
+
 # [[Luther,Martin]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Martin_Luther,9554|WD~Martin_Luther,9554]] 

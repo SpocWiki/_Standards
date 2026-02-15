@@ -91,6 +91,7 @@ aliases:
 - 聯邦宇宙
 - 연합우주
 ---
+
 # [[Fediverse]]  
 
 ## #has_/text_of_/abstract 

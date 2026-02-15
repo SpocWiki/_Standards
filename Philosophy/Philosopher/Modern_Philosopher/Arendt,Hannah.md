@@ -314,6 +314,7 @@ dv_has_:
     zh_cn: 汉娜·阿伦特
     zh_hant: 漢娜·鄂蘭
 ---
+
 # [[Arendt,Hannah]] 
 
 #has_/created_/quote ::  the banality of evil 

@@ -182,6 +182,7 @@ dv_has_:
     zh_sg: 霸权
     zh_tw: 霸權
 ---
+
 # [[Hegemony]] 
 
 #is_/same_as :: [[WD~Hegemony,182034]] 

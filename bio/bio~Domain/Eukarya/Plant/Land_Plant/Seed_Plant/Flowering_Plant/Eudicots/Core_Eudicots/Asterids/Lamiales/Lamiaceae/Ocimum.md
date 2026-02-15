@@ -136,6 +136,7 @@ aliases:
 - 羅勒屬
 - 바질속
 ---
+
 # [[Ocimum]] 
 
 #is_/same_as :: 

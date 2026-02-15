@@ -243,6 +243,7 @@ dv_has_:
     zh: 挪亞
     zh_hant: 挪亞
 ---
+
 # [[Noah]] 
 
 #is_/same_as :: [[WD~Noah,81422]] 

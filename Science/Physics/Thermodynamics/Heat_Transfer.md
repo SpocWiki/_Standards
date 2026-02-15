@@ -190,6 +190,7 @@ dv_has_:
     zh_sg: 传热
     zh_tw: 傳熱
 ---
+
 # [[Heat_Transfer]] 
 
 #is_/same_as :: [[WD~Heat_transfer,179635]] 

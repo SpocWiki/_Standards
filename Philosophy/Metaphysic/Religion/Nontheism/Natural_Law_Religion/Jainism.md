@@ -280,6 +280,7 @@ dv_has_:
     zh_sg: 耆那教
     zh_tw: 耆那教
 ---
+
 # [[Jainism]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Jainism,9232|WD~Jainism,9232]] 

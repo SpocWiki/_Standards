@@ -394,6 +394,7 @@ dv_has_:
     zh_tw: 北極熊
 Unicode_character: 🐻❄️
 ---
+
 # [[Polar_Bear]] 🐻❄️ 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Polar_bear,33609|WD~Polar_bear,33609]]  

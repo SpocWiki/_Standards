@@ -422,6 +422,7 @@ dv_has_:
     zh_hans: 穆斯塔法·凯末尔·阿塔图尔克
     zh_hant: 穆斯塔法·凱末爾·阿塔土克
 ---
+
 # [[Atatürk,Mustafa_Kemal]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Mustafa_Kemal_Atatürk,5152|WD~Mustafa_Kemal_Atatürk,5152]] 

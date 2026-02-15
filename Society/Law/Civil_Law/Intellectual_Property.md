@@ -234,6 +234,7 @@ dv_has_:
     zh_sg: 知识产权
     zh_tw: 智慧財產權
 ---
+
 # [[Intellectual_Property]] 
 
 #is_/same_as :: [[WikiData/WD~Intellectual_property,131257|WD~Intellectual_property,131257]] 

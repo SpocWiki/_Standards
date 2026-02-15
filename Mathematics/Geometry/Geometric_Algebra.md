@@ -52,6 +52,7 @@ dv_has_:
     zh_hans: 几何代数
     zh_hant: 幾何代數
 ---
+
 # [[Geometric_Algebra]] 
 
 #has_/url_for_/content :: https://bivector.net/

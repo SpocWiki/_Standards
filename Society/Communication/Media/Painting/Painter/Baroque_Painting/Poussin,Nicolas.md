@@ -278,6 +278,7 @@ dv_has_:
     zh: 尼古拉·普桑
     zh_tw: 尼古拉·普桑
 ---
+
 # [[Poussin,Nicolas]] 
 
 #is_/same_as :: [[WD~Nicolas_Poussin,41554]]

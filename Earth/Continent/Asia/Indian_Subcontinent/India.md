@@ -1885,6 +1885,7 @@ Languages:
 icon: flag-in
 Unicode_character: 🇮🇳
 ---
+
 # [[India]] 🇮🇳  has Properties... 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`

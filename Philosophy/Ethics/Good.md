@@ -149,6 +149,7 @@ aliases:
 - 善
 - 선
 ---
+
 # [[Good]] 
 
 #has_/complement :: [[Evil]] 

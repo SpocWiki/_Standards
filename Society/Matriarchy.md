@@ -173,6 +173,7 @@ dv_has_:
     zh_sg: 母权
     zh_tw: 母權
 ---
+
 # [[Matriarchy]] 
 
 #is_/same_as :: [[WD~Matriarchy,185681]] 

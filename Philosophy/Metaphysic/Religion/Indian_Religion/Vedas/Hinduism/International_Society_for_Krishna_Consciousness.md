@@ -173,6 +173,7 @@ dv_has_:
     zh: 国际奎师那知觉协会
     zh_tw: 國際奎師那知覺協會
 ---
+
 # [[International_Society_for_Krishna_Consciousness]]   
 
 #is_/same_as :: [[WD~International_Society_for_Krishna_Consciousness,190193]] 

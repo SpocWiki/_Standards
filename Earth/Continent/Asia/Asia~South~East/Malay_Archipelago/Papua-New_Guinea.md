@@ -585,6 +585,7 @@ dv_has_:
     zu: I-Papua Nyugini
 Unicode_character: 🇵🇬
 ---
+
 # [[Papua-New_Guinea]] 🇵🇬 
 
 

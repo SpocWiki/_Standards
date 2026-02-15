@@ -167,6 +167,7 @@ dv_is_same_as:
 - '[[/_personal/Earth/Geology/Mineral/Kaolinite.personal|Kaolinite.personal]]'
 - '[[/_secret/Earth/Geology/Mineral/Kaolinite.secret|Kaolinite.secret]]'
 ---
+
 # [[Kaolinite]] 
 
 has_formula_ = `=this.dv_has_formula_`

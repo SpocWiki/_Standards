@@ -223,6 +223,7 @@ dv_has_:
     zh_sg: 疗法
     zh_tw: 療法
 ---
+
 # [[Medical_Therapy]] 
 
 Class of all medical_therapys.

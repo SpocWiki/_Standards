@@ -165,6 +165,7 @@ dv_has_:
     zu: Isivoko sokuxhumana
 Unicode_character: 🛰
 ---
+
 # [[Communications_Satellite]] 🛰 
 
 #is_/same_as :: [[../../WikiData/WD~Communications_satellite,149918|WD~Communications_satellite,149918]] 

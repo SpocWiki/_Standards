@@ -140,6 +140,7 @@ dv_has_:
     zh_sg: 超人类主义
     zh_tw: 超人類主義
 ---
+
 # [[Transhumanism]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Transhumanism,194100|WD~Transhumanism,194100]]  

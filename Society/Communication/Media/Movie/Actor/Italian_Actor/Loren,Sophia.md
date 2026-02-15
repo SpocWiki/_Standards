@@ -266,6 +266,7 @@ dv_has_:
     zh_sg: 苏菲亚·罗兰
     zh_tw: 蘇菲亞·羅蘭
 ---
+
 # [[Loren,Sophia]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Sophia_Loren,43252|WD~Sophia_Loren,43252]]  

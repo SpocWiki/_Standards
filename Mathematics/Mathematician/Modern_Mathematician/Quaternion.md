@@ -170,6 +170,7 @@ dv_has_:
     zh_sg: 四元数
     zh_tw: 四元數
 ---
+
 # [[Quaternion]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~quaternion,173853]] 

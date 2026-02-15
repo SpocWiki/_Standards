@@ -257,6 +257,7 @@ dv_has_:
     xmf: ვინდოუსი
     yi: Windows
 ---
+
 # [[OS~Windows]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Microsoft_Windows,1406|WD~Microsoft_Windows,1406]] 

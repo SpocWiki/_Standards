@@ -114,6 +114,7 @@ aliases:
 - 黑色安息日
 - 블랙 사바스
 ---
+
 # [[Black_Sabbath]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Black_Sabbath,47670|WD~Black_Sabbath,47670]] 

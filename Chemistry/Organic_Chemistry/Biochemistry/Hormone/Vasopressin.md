@@ -138,6 +138,7 @@ aliases:
 - 抗利尿激素
 - 바소프레신
 ---
+
 # [[Vasopressin]]  
 
 > Human **Vasopressin**, also called antidiuretic hormone (ADH),   arginine vasopressin (AVP) or argipressin, 

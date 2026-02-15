@@ -199,6 +199,7 @@ dv_has_:
     zh_sg: 托马斯·库恩
     zh_tw: 湯瑪斯·孔恩
 ---
+
 # [[Kuhn,Thomas]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Thomas_Kuhn,184980|WD~Thomas_Kuhn,184980]]  

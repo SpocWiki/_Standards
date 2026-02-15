@@ -193,6 +193,7 @@ dv_has_:
     zh_sg: 星盘
     zh_tw: 星盤
 ---
+
 # [[Astrolabe]]  
 
 #is_/same_as :: [[../../WikiData/WD~Astrolabe,164992|WD~Astrolabe,164992]] 

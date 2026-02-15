@@ -172,6 +172,7 @@ dv_has_:
     zh-hant: 文化史
     zh-hk: 文化史
 ---
+
 # [[Cultural_History]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Cultural_history,858517|WD~Cultural_history,858517]] 

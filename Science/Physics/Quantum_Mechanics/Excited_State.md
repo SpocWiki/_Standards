@@ -115,6 +115,7 @@ dv_has_:
     zh_sg: 激发态
     zh_tw: 激發態
 ---
+
 # [[Excited_State]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Excited_state,215328|WD~Excited_state,215328]] 

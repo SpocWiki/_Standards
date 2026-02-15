@@ -539,6 +539,7 @@ dv_has_:
     zh_sg: 孔子
     zh_tw: 孔子
 ---
+
 # [[Confucius]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Confucius,4604|WD~Confucius,4604]] 

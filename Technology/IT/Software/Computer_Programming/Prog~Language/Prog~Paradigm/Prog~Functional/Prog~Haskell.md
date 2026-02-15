@@ -34,6 +34,7 @@ aliases:
 - ꠢꠣꠍꠇꠦꠟ
 - 하스켈
 ---
+
 # [[Prog~Haskell]] 
 
 #is_a_/ComputerLanguage 

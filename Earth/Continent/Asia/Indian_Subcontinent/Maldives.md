@@ -792,6 +792,7 @@ WIPO_ST_3: MV
 Wolfram_Language_entity_code: Entity["Country", "Maldives"]
 Unicode_character: 🇲🇻
 ---
+
 # [[Maldives]] 🇲🇻 
 
 

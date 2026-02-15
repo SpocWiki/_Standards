@@ -282,6 +282,7 @@ dv_has_:
     zh_tw: 可再生能源
     zu: Isidlakalasi esivuselelekayo
 ---
+
 # [[Renewable_Energy]] 
 
 #is_/same_as :: [[../../WikiData/WD~Renewable_energy,12705|WD~Renewable_energy,12705]] 

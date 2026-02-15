@@ -320,6 +320,7 @@ dv_has_:
     yue: 光合作用
     zh: 光合作用
 ---
+
 # [[Photosynthesis]] 
 
 #is_/same_as :: [[../../WikiData/WD~Photosynthesis,11982|WD~Photosynthesis,11982]] 

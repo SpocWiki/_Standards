@@ -224,6 +224,7 @@ aliases:
 - 水痘
 - 수두
 ---
+
 # [[Chickenpox]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Chickenpox,44727|WD~Chickenpox,44727]] 

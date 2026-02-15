@@ -146,6 +146,7 @@ dv_has_:
     zh_hant: 純粹數學
     zh_hk: 純粹數學
 ---
+
 # [[Pure_Mathematics]] 
 
 #is_/same_as :: [[../WikiData/WD~Pure_mathematics,837863|WD~Pure_mathematics,837863]]  

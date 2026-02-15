@@ -38,6 +38,7 @@ dv_has_:
     uk: сумнівна причинність
     zh: 虛假原因
 ---
+
 # [[Questionable_Cause]] 
 
 #is_/same_as :: [[WD~Questionable_Cause,2917891]] 

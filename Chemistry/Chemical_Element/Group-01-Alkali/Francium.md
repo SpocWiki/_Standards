@@ -381,6 +381,7 @@ dv_has_name_abbreviated: Fr
 dv_has_number_of_electrons: 87
 Unicode_character: 鍅
 ---
+
 # [[Francium]] 鍅 
 
 #is_/same_as :: [[../../../WikiData/WD~Francium,671]] 

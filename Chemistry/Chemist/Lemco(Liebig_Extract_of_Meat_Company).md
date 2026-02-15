@@ -34,6 +34,7 @@ aliases:
 - חברת ליביג למיצוי בשר
 - リービッヒ肉エキス会社
 ---
+
 # [[Lemco(Liebig_Extract_of_Meat_Company)]]  
 
 ## #has_/text_of_/abstract 

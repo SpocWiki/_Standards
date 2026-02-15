@@ -51,6 +51,7 @@ aliases:
 - 莫拉维克悖论
 - 모라벡의 역설
 ---
+
 # [[Moravec's_paradox]] 
 
 #is_/same_as :: [[Moravec's_paradox,]]

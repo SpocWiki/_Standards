@@ -156,6 +156,7 @@ dv_has_:
     zh_sg: 方差
     zh_tw: 變異數
 ---
+
 # [[Variance]]
 
 #is_/same_as :: [[../../WikiData/WD~Variance,175199|WD~Variance,175199]]  

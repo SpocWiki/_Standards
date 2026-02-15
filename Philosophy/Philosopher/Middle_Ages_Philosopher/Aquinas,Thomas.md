@@ -433,6 +433,7 @@ dv_has_:
     yue: 湯瑪斯阿奎那
     zh: 托马斯·阿奎那
 ---
+
 # [[Aquinas,Thomas]] 
 
 #has_/time_/started :: 1225-06

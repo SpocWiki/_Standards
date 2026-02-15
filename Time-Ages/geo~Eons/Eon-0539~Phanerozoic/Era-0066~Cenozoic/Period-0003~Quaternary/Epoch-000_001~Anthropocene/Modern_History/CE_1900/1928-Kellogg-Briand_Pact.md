@@ -149,6 +149,7 @@ dv_has_:
     zh-sg: 非战公约
     zh-tw: 非戰公約
 ---
+
 # [[1928-Kellogg-Briand_Pact]] 
 
 #is_/same_as :: [[WD~Kellogg-Briand_pact,205073]] 

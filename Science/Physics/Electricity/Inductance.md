@@ -179,6 +179,7 @@ dv_has_:
     zh_sg: 电感
     zh_tw: 電感
 ---
+
 # [[Inductance]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Inductance,177897|WD~Inductance,177897]] 

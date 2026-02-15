@@ -301,6 +301,7 @@ dv_has_:
     zh_hk: 卡路·波柏
     zh_tw: 卡爾·波普爾
 ---
+
 # [[Popper,Karl]] 
 
 #is_/same_as :: [[WD~Karl_Popper,81244]] 

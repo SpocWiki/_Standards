@@ -148,6 +148,7 @@ dv_has_:
     zh_hans: 经济活动
     zh_hant: 經濟活動
 ---
+
 # [[Economic_Activity]] 
 
 #is_/same_as :: [[../../WikiData/WD~economic_activity,8187769]] 

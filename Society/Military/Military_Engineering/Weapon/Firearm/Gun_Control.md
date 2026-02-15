@@ -76,6 +76,7 @@ aliases:
 - 銃規制
 - 총기 규제
 ---
+
 # [[Gun_Control]]  
 
 ## #has_/text_of_/abstract 

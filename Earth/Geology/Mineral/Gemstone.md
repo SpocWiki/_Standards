@@ -247,6 +247,7 @@ dv_has_:
     zh_mo: 塞普·白禮達
     zh_tw: 塞普·布拉特
 ---
+
 # [[Gemstone]]
 
 #is_/same_as :: [[_Standards/WikiData/WD~gemstone,83437]] 

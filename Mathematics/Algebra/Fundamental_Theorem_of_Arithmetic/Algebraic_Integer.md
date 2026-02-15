@@ -66,6 +66,7 @@ dv_has_:
     zh_cn: 代数整数
     zh_hant: 代數整數
 ---
+
 # [[Algebraic_Integer]] 
 
 #is_/same_as :: 

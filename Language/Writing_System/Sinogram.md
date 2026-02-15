@@ -299,6 +299,7 @@ aliases:
 - ꯈꯥꯀꯤ ꯃꯌꯦꯛ
 - 한자
 ---
+
 # [[Sinogram]] 
 
 #is_/same_as :: [[../../WikiData/WD~Sinograms,8201|WD~Sinograms,8201]]  

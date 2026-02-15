@@ -310,6 +310,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Doutielt3.jpg
 Wolfram_Language_entity_code: Entity["HistoricalEvent", "BlackDeath"]
 Krugosvet_article_archived_: istoriya/CHERNAYA_SMERT.html
 ---
+
 # [[1346-Black_Death+1353]] 
 
 #has_/time_/started :: 1346-06-01

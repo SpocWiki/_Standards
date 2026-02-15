@@ -270,6 +270,7 @@ dv_has_:
     zh_tw: 科學方法
     zu: Indlelasu yenzululwazi
 ---
+
 # [[Scientific_Method]] 
 
 #is_/same_as :: [[WD~Scientific_method,46857]] 

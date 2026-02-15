@@ -199,6 +199,7 @@ dv_has_:
     zh_sg: 精神
     zh_tw: 精神
 ---
+
 # [[Spirit]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Spirit,193291|WD~Spirit,193291]]  

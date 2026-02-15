@@ -157,6 +157,7 @@ dv_has_:
     zh_hant: 浮士德
     zh_tw: 浮士德
 ---
+
 # [[Faust(Goethe)]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Faust,29478|WD~Faust,29478]] 

@@ -247,6 +247,7 @@ dv_has_:
     zh_hans: 镧系元素
     zh_hant: 镧系元素
 ---
+
 # [[Lanthanide]] 
 
 #chemic/Group 

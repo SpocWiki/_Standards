@@ -145,6 +145,7 @@ dv_has_:
     zh_hant: 金屬疲勞
     zh_hk: 金屬疲勞
 ---
+
 # [[Fatigue(material)]] 
 
 #is_/same_as :: [[../../WikiData/WD~Fatigue,507234|WD~Fatigue,507234]] 

@@ -29,6 +29,7 @@ aliases:
 - 擬スカラー
 - 贗純量
 ---
+
 # [[Pseudo-Scalar]] 
 
 In n-dimensional [[Geometric_Algebra]], 

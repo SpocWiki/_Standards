@@ -365,6 +365,7 @@ dv_has_:
     zh_tw: 通貨
 Unicode_character: 💵
 ---
+
 # [[Currency]] 💵 
 
 #is_/same_as :: [[../../WikiData/WD~Currency,8142|WD~Currency,8142]] 

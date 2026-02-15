@@ -423,6 +423,7 @@ dv_has_:
     zh_tw: 茄
 Unicode_character: 🍆
 ---
+
 # [[Eggplant]] 🍆 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../WikiData/WD~Solanum_melongena,7540|WD~Solanum_melongena,7540]]  

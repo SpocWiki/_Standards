@@ -226,6 +226,7 @@ dv_has_:
     zh_sg: 创造力
     zh_tw: 創造力
 ---
+
 # [[Creativity]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Creativity,170658|WD~Creativity,170658]] 

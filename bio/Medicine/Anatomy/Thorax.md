@@ -246,6 +246,7 @@ aliases:
 - 胸部
 - 가슴
 ---
+
 # [[Thorax]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Thorax,9645|WD~Thorax,9645]]  

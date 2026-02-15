@@ -330,6 +330,7 @@ dv_has_:
     zh_tw: 安托萬·拉瓦節
     zu: Antoine Lavoisier
 ---
+
 # [[Lavoisier,Antoine]] 
 
 #is_/same_as :: [[../../WikiData/WD~Antoine_Lavoisier,39607|WD~Antoine_Lavoisier,39607]] 

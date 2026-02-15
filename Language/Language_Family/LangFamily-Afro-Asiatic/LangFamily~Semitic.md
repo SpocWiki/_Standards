@@ -294,6 +294,7 @@ dv_has_:
     zh: 闪米特语族
     zh_hant: 閃語族
 ---
+
 # [[LangFamily~Semitic]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Semitic,34049|WD~Semitic,34049]] 

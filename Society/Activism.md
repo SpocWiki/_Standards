@@ -195,6 +195,7 @@ dv_has_:
     zh_hant: 行動主義
     zh_tw: 行動主義
 ---
+
 # [[Activism]] 
 
 #is_/same_as :: [[../WikiData/WD~Activism,203764]] 

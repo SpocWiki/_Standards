@@ -242,6 +242,7 @@ aliases:
 - 乘法
 - 곱셈
 ---
+
 # [[Multiplication]]  
 
 #is_/same_as :: [[WD~Multiplication,40276]] 

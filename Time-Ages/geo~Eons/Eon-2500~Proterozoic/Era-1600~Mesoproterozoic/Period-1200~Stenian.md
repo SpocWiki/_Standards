@@ -176,6 +176,7 @@ Commons_category: Stenian
 IPA_transcription: /ˈstiːni.ən/
 sRGB_color_hex_triplet: FED99A
 ---
+
 # [[Period-1200~Stenian]] 
 
 #is_a_/time_/Period 

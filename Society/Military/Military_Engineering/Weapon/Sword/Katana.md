@@ -126,6 +126,7 @@ dv_has_:
     zh: 刀
     zh_hant: 刀 (日本刀)
 ---
+
 # [[Katana]] 
 
 #is_/same_as :: [[WD~Katana,172736]] 

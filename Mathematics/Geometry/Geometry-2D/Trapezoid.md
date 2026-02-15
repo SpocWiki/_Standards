@@ -201,6 +201,7 @@ dv_has_:
     zh_hans: 梯形
     zh_hant: 梯形
 ---
+
 # [[Trapezoid]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Trapezoid,46303|WD~Trapezoid,46303]]  

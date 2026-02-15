@@ -76,6 +76,7 @@ dv_has_:
     zh: 观察性研究
     zh_hant: zhongwen
 ---
+
 # [[Observational_Study]] 
 
 #is_/different_from :: [[Experiment]] 

@@ -67,6 +67,7 @@ dv_has_:
     zh_hant: 奇異強子
     zh_hk: 奇異強子
 ---
+
 # [[Exotic_Hadron]] 
 
 #is_/same_as :: [[wd Exotic hadron]]

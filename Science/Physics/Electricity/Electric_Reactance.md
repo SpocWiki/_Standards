@@ -139,6 +139,7 @@ dv_has_:
     zh_sg: 电抗
     zh_tw: 電抗
 ---
+
 # [[Electric_Reactance]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Electric_reactance,193972|WD~Electric_reactance,193972]] 

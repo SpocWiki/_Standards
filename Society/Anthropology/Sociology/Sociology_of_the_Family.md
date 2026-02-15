@@ -95,6 +95,7 @@ dv_has_:
     zh_hans: 家庭社会学
     zh_hant: 家庭社會學
 ---
+
 # [[Sociology_of_the_Family]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Sociology_of_the_family,2290557|WD~Sociology_of_the_family,2290557]] 

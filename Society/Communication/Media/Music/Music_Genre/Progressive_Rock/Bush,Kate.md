@@ -133,6 +133,7 @@ dv_has_:
     zh_hk: 姬·布絲
     zh_tw: 凱特·布希
 ---
+
 # [[Bush,Kate]]  
 
 > Catherine Bush  (born 30 July 1958) is an English singer, songwriter, record producer and dancer. 

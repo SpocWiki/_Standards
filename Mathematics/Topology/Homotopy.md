@@ -88,6 +88,7 @@ dv_has_:
     zh_hant: 同倫
     zh_tw: 同倫
 ---
+
 # [[Homotopy]] 
 
 #is_/same_as :: [[WD~Homotopy,746083]] 

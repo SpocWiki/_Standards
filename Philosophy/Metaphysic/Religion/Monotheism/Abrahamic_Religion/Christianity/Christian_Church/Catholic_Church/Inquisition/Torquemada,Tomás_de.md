@@ -131,6 +131,7 @@ dv_has_:
     zh_sg: 托马斯·德·托尔克马达
     zh_tw: 托馬斯·德·托爾克馬達
 ---
+
 # [[Torquemada,Tomás_de]]  
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Tomás_de_Torquemada,210735|WD~Tomás_de_Torquemada,210735]]  

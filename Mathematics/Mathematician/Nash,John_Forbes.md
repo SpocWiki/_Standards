@@ -247,6 +247,7 @@ dv_has_:
     zh_sg: 约翰·福布斯·纳什
     zh_tw: 約翰·福布斯·納許
 ---
+
 # [[Nash,John_Forbes]] 
 
 #is_/same_as :: [[WD~John_Forbes_Nash,128736]] 

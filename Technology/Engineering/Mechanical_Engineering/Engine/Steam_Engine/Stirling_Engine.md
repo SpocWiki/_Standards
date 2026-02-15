@@ -111,6 +111,7 @@ aliases:
 - 斯特林发动机
 - 스털링 기관
 ---
+
 # [[Stirling_Engine]]  
 
 ![[../../../../../assets/Alpha_Stirling_highres.gif]] 

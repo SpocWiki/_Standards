@@ -247,6 +247,7 @@ dv_has_:
     zh_sg: 格力哥利·柏
     zh_tw: 葛雷哥萊·畢克
 ---
+
 # [[Peck,Gregory]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Gregory_Peck,108366|WD~Gregory_Peck,108366]] 

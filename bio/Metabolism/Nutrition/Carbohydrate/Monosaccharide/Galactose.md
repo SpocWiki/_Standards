@@ -104,6 +104,7 @@ aliases:
 - 半乳醣
 - 갈락토스
 ---
+
 # [[Galactose]]  
 
 ## #has_/text_of_/abstract 

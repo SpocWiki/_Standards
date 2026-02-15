@@ -142,6 +142,7 @@ dv_has_:
     zh_sg: 冷却塔
     zh_tw: 冷卻塔
 ---
+
 # [[Cooling_Tower]] 
 
 #is_/same_as :: [[../../WikiData/WD~Cooling_tower,193886|WD~Cooling_tower,193886]] 

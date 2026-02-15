@@ -218,6 +218,7 @@ dv_has_:
     zh_hant: 一元二次方程
     zh_tw: 二次方程
 ---
+
 # [[Quadratic_Equation]] 
 
 #is_/same_as :: [[WD~Quadratic_equation,41299]] 

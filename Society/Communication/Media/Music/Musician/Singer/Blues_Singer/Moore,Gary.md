@@ -160,6 +160,7 @@ dv_has_:
     zh: 盖瑞·摩尔
     zh_hant: 蓋瑞·摩爾
 ---
+
 # [[Moore,Gary]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Gary_Moore,185147|WD~Gary_Moore,185147]] 

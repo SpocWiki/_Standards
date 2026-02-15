@@ -123,6 +123,7 @@ dv_has_:
     zh_tw: 吃角子老虎
 Unicode_character: 🎰
 ---
+
 # [[Slot_Machine]] 🎰 
 
 #is_/same_as :: [[WD~Slot_machine,33972]] 

@@ -176,6 +176,7 @@ aliases:
 - 鹼粉
 - 탄산 나트륨
 ---
+
 # [[Sodium_Carbonate]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Sodium_carbonate,190227|WD~Sodium_carbonate,190227]]  

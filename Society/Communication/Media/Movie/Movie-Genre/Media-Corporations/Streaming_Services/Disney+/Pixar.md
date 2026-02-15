@@ -146,6 +146,7 @@ aliases:
 - 皮克斯動畫工作室
 - 픽사
 ---
+
 # [[Pixar]]  
 
 ## #has_/text_of_/abstract 

@@ -251,6 +251,7 @@ dv_has_:
     zh: 加里·基莫维奇·卡斯帕罗夫
     zh_hant: 加里·卡斯帕羅夫
 ---
+
 # [[Kasparov,Garry]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Garry_Kasparov,28614|WD~Garry_Kasparov,28614]] 

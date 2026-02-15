@@ -181,6 +181,7 @@ dv_has_:
     zh_sg: 德语文学
     zh_tw: 德語文學
 ---
+
 # [[German_Literature]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~German-language_literature,181287|WD~German-language_literature,181287]] 

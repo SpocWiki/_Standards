@@ -222,6 +222,7 @@ dv_has_:
     zh_sg: 科学史
     zh_tw: 科學史
 ---
+
 # [[History_of_Science]] 
 
 #is_/same_as :: [[../WikiData/WD~History_of_science,201486|WD~History_of_science,201486]] 

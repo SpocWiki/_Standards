@@ -131,6 +131,7 @@ dv_has_:
     zh_sg: 假设检验
     zh_tw: 假說檢定
 ---
+
 # [[Statistical_Test]] 
 
 #is_/same_as :: [[../../WikiData/WD~Statistical_test,210832|WD~Statistical_test,210832]]   

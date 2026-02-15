@@ -207,6 +207,7 @@ dv_has_:
     zh_sg: 傀儡政权
     zh_tw: 傀儡政權
 ---
+
 # [[Puppet_State]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Puppet_state,208164|WD~Puppet_state,208164]]  

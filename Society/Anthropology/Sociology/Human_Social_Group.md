@@ -231,6 +231,7 @@ dv_has_:
     zh_sg: 人类社会团体
     zh_tw: 人類社會團體
 ---
+
 # [[Human_Social_Group]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Human_social_group,874405|WD~Human_social_group,874405]]  

@@ -297,6 +297,7 @@ dv_has_:
     zh_sg: 人
     zh_tw: 人
 ---
+
 # [[Person]] 
 
 Class of all natural persons.

@@ -445,6 +445,7 @@ dv_has_:
     zh_sg: 摩西
     zh_tw: 摩西
 ---
+
 # [[Moses]] 
 
 #is_/same_as :: [[WD~Moses,9077]] 

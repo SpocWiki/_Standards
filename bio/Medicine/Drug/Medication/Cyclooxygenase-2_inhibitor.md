@@ -55,6 +55,7 @@ dv_has_:
     zh_hans: COX-2抑制剂
     zh_hant: COX-2抑制劑
 ---
+
 # [[Cyclooxygenase-2_inhibitor]]  
 
 ## #has_/text_of_/abstract 

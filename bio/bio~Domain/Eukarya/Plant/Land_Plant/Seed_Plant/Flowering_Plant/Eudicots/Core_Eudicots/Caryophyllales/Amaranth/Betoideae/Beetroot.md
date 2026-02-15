@@ -247,6 +247,7 @@ dv_has_:
     yue: 紅菜頭
     zh: 甜菜頭
 ---
+
 # [[Beetroot]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Beet,165437|WD~Beet,165437]] 

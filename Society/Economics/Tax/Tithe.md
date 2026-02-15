@@ -155,6 +155,7 @@ dv_has_:
     zh_hant: 十一奉獻
     zh_hk: 十一奉獻
 ---
+
 # [[Tithe]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Tithe,184664|WD~Tithe,184664]]  

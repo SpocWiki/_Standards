@@ -162,6 +162,7 @@ dv_has_:
     zh: 弹性
     zh_hant: 彈性
 ---
+
 # [[Elasticity]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Elasticity,62932|WD~Elasticity,62932]] 

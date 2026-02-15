@@ -247,6 +247,7 @@ dv_has_:
     zh_sg: 疥疮
     zh_tw: 疥瘡
 ---
+
 # [[Scabies]] 
 
 #is_/same_as :: [[WD~Scabies,167178]] 

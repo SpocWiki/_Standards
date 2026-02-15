@@ -110,6 +110,7 @@ dv_has_:
     zh_hant: 文字史
     zh_hk: 文字史
 ---
+
 # [[History_of_Writing]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~History_of_writing,1340267|WD~History_of_writing,1340267]] 

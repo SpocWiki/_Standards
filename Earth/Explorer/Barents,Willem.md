@@ -208,6 +208,7 @@ dv_has_:
     zh_sg: 威廉·巴伦支
     zh_tw: 威廉·巴倫支
 ---
+
 # [[Barents,Willem]] 
 
 #is_/same_as :: [[../../WikiData/WD~Willem_Barents,133060|WD~Willem_Barents,133060]] 

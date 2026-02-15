@@ -481,6 +481,7 @@ dv_has_:
     zh_tw: 豹
 Unicode_character: 🐆
 ---
+
 # [[Leopard]] 🐆 
 
 #is_/same_as :: [[WD~Leopard,34706]] 

@@ -218,6 +218,7 @@ dv_has_:
     zh_hant: 本體論
     zh_tw: 本體論
 ---
+
 # [[Ontology(Philosophy)]] 
 
 #is_/same_as :: [[../../WikiData/WD~Ontology,44325|WD~Ontology,44325]] 

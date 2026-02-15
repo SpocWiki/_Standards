@@ -134,6 +134,7 @@ dv_has_:
     zh_sg: 焦土政策
     zh_tw: 焦土政策
 ---
+
 # [[Scorched_Earth]] 
 
 #is_/same_as :: [[WD~Scorched_earth,208485]] 

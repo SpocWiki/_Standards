@@ -477,6 +477,7 @@ dv_has_:
     zh_hant: 卡爾·林奈
     zh_tw: 卡爾·林奈
 ---
+
 # [[Linnaeus,Carl]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Carl_Linnaeus,1043|WD~Carl_Linnaeus,1043]] 

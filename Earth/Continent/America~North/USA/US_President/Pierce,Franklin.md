@@ -237,6 +237,7 @@ dv_is_same_as:
 - '[[/_personal/Earth/Continent/America~North/USA/US_President/Pierce,Franklin.personal|Pierce,Franklin.personal]]'
 - '[[/_secret/Earth/Continent/America~North/USA/US_President/Pierce,Franklin.secret|Pierce,Franklin.secret]]'
 ---
+
 # [[Pierce,Franklin]] 
 
 has_time_started = `=this.dv_has_time_started`

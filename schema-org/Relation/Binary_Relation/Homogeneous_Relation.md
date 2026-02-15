@@ -73,6 +73,7 @@ dv_has_:
     vec: endorełasion
     zh: 齊次關係
 ---
+
 # [[Homogeneous_Relation]] 
 
 

@@ -57,6 +57,7 @@ dv_has_:
     uk: бінарний оператор
     vi: toán tử hai ngôi
 ---
+
 # [[Operator~unary]] 
 
 #is_a :: [[Function~unary]] 

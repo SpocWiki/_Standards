@@ -145,6 +145,7 @@ dv_has_time_started: -538.8e6
 dv_has_time_stopped: -521.0e6
 dv_has_text_of_color: 0x8CB06C
 ---
+
 # [[Epoch-538~Terreneuvian]] 
 
 #is_a_/time_/Epoch 

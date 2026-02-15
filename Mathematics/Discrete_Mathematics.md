@@ -186,6 +186,7 @@ dv_has_:
     zh_sg: 离散数学
     zh_tw: 離散數學
 ---
+
 # [[Discrete_Mathematics]] 
 
 #is_/same_as :: [[../WikiData/WD~Discrete_mathematics,121416|WD~Discrete_mathematics,121416]] 

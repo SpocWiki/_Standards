@@ -33,6 +33,7 @@ dv_has_:
     sv: Fördumning
     zh: 低能化
 ---
+
 # [[Dumbing_down]] 
 
 #is_/same_as :: 

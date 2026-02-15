@@ -97,6 +97,7 @@ dv_has_:
     uk: клас лікарських речовин
     zh: 药物类别
 ---
+
 # [[Drug_Class]] 
 
 Class of all drug_classes.

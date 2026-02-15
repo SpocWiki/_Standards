@@ -288,6 +288,7 @@ dv_has_:
     zh_tw: 太陽能
     zu: Isidlakalasi selanga
 ---
+
 # [[Solar_Energy]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Solar_energy,40015|WD~Solar_energy,40015]]  

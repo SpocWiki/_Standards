@@ -224,6 +224,7 @@ aliases:
 - 教育學
 - 교육학
 ---
+
 # [[Pedagogy]]  
 
 > **Pedagogy**, most commonly understood as the approach to teaching, 

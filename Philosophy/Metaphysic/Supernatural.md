@@ -161,6 +161,7 @@ dv_has_:
     zh_hant: 超自然現象
     zh_tw: 超自然現象
 ---
+
 # [[Supernatural]] 
 
 #is_/same_as  :: [[../../WikiData/WD~Supernatural,80837|WD~Supernatural,80837]] 

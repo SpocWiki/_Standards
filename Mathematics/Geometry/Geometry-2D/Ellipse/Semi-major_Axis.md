@@ -141,6 +141,7 @@ dv_has_:
     zh_hk: 半長軸
     zh_sg: 半长轴
 ---
+
 # [[Semi-major_Axis]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Semi-major_axis,171594|WD~Semi-major_axis,171594]] 

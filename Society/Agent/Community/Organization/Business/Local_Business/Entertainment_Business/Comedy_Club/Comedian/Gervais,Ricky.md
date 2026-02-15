@@ -178,6 +178,7 @@ dv_has_:
     zh_hans: 力奇·佐维斯
     zh_hk: 域奇·佐華斯
 ---
+
 # [[Gervais,Ricky]] 
 
 #has_/created_/quote :: Remember, when you are dead, you do not know you are dead. It is only painful for others; The same applies when you are stupid. 

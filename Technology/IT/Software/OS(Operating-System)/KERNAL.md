@@ -17,6 +17,7 @@ dv_has_:
 aliases:
 - Kernal
 ---
+
 # [[KERNAL]]
 
 ## #has_/text_of_/abstract 

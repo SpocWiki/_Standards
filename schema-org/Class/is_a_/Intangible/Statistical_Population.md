@@ -209,6 +209,7 @@ dv_has_properties:
 - '[[../../../Relation/is/is_subject_of|is_subject_of]]'
 - '[[../Property/has_url_for/has_url|has_url]]'
 ---
+
 # [[Statistical_Population]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Statistical_population,49918|WD~Statistical_population,49918]] 

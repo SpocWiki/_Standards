@@ -167,6 +167,7 @@ dv_has_:
     zh_sg: 等价关系
     zh_tw: 等價關係
 ---
+
 # [[Equivalence_Relation]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Equivalence_relation,130998|WD~Equivalence_relation,130998]] 

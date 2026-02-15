@@ -82,6 +82,7 @@ aliases:
 - 干渉法
 - 간섭법
 ---
+
 # [[Interferometry]] 
 
 #is_/same_as :: [[Interferometry]] 

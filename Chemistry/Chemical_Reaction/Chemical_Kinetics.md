@@ -170,6 +170,7 @@ dv_has_:
     zh_sg: 化学动力学
     zh_tw: 化學動力學
 ---
+
 # [[Chemical_Kinetics]] 
 
 #is_/same_as :: [[../../WikiData/WD~Chemical_kinetics,209082|WD~Chemical_kinetics,209082]] 

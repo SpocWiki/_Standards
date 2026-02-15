@@ -243,6 +243,7 @@ dv_has_:
     zh: 赫拉克利特
     zh_hant: 海勒克萊特斯
 ---
+
 # [[Heraclitus]] 
 
 #is_/same_as :: [[WD~Heraclitus,41155]] 

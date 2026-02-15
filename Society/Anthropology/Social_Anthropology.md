@@ -132,6 +132,7 @@ aliases:
 - 社會人類學
 - 사회인류학
 ---
+
 # [[Social_Anthropology]] 
 
 #is_/same_as :: [[../../WikiData/WD~Social_anthropology,29051|WD~Social_anthropology,29051]]  

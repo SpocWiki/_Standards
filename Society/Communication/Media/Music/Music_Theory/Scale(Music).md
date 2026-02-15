@@ -157,6 +157,7 @@ dv_has_:
     zh_sg: 音阶
     zh_tw: 音階
 ---
+
 # [[Scale(Music)]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Scale,179651|WD~Scale,179651]] 

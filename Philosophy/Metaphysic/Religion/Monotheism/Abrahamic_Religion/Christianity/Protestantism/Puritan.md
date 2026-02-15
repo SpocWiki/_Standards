@@ -159,6 +159,7 @@ dv_has_:
     zh_sg: 清教徒
     zh_tw: 清教徒
 ---
+
 # [[Puritan]] 
 
 #is_/same_as :: [[WD~Puritans,137073]] 

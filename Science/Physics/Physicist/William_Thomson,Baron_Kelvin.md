@@ -299,6 +299,7 @@ dv_has_:
     zh_sg: 第一代开尔文男爵威廉·汤姆森
     zh_tw: 第一代克耳文男爵威廉·湯姆森
 ---
+
 # [[William_Thomson,Baron_Kelvin]] 
 
 #is_/same_as :: [[WD~William_Thomson,_1st_Baron_Kelvin,122701]] 

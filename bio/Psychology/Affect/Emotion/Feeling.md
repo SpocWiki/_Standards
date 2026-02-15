@@ -211,6 +211,7 @@ dv_has_:
     zh_tw: 感覺
     zu: imizwa
 ---
+
 # [[Feeling]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~feeling,205555]] 

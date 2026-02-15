@@ -126,6 +126,7 @@ dv_has_:
     zh_sg: 折衷主义
     zh_tw: 折衷主義
 ---
+
 # [[Eclecticism]] 
 
 #is_/similar_to :: [[Syncretism]] 

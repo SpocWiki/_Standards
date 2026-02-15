@@ -799,6 +799,7 @@ dv_has_:
     zu: i-Vanuatu
 Unicode_character: 🇻🇺
 ---
+
 # [[Vanuatu]] 🇻🇺 
 
 

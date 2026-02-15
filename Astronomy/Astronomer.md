@@ -314,6 +314,7 @@ dv_has_:
     zh_sg: 天文学家
     zh_tw: 天文學家
 ---
+
 # [[Astronomer]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~astronomer,11063]] 

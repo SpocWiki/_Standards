@@ -159,6 +159,7 @@ dv_has_:
     yue: 湯瑪斯·平瓊
     zh: 托马斯·品钦
 ---
+
 # [[Pynchon,Thomas]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Thomas_Pynchon,35155|WD~Thomas_Pynchon,35155]] 

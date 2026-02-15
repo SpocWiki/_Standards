@@ -65,6 +65,7 @@ dv_has_:
     vi: Cấu hình phân tử tam giác đều
     zh: 平面三角形分子构型
 ---
+
 # [[trigonal_planar_geometry]]  
 
 [[../../Organic_Chemistry/Functional_Group/Aldehyde/Formaldehyde]]: 

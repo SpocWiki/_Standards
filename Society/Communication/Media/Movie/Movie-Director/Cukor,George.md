@@ -155,6 +155,7 @@ dv_has_:
     zh: 喬治·丘克
     zh_sg: 乔治·丘克
 ---
+
 # [[Cukor,George]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~George_Cukor,56014|WD~George_Cukor,56014]] 

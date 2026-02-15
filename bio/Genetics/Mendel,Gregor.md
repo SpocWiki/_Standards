@@ -268,6 +268,7 @@ dv_has_:
     za: Gregor Mendel
     zh: 孟德爾
 ---
+
 # [[Mendel,Gregor]] 
 
 #is_/same_as :: [[WD~Gregor_Mendel,37970]] 

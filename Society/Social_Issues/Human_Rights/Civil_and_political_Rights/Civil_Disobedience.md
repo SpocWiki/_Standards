@@ -167,6 +167,7 @@ dv_has_:
     yue: 公民抗命
     zh: 公民抗命
 ---
+
 # [[Civil_Disobedience]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Civil_disobedience,47217|WD~Civil_disobedience,47217]] 

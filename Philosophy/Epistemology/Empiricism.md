@@ -190,6 +190,7 @@ dv_has_:
     zh: 经验主义
     zh_cn: 经验主义
 ---
+
 # [[Empiricism]] 
 
 #is_/same_as :: [[../../WikiData/WD~Empiricism,83368|WD~Empiricism,83368]] 

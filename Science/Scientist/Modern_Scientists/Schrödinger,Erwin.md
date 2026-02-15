@@ -323,6 +323,7 @@ dv_has_:
     zh_hant: 埃爾溫·薛丁格
     zh_tw: 埃爾溫·薛丁格
 ---
+
 # [[Schrödinger,Erwin]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Erwin_Schrödinger,9130|WD~Erwin_Schrödinger,9130]] 

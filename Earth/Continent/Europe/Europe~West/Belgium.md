@@ -1084,6 +1084,7 @@ urban_population:
 population: 11584008
 coordinates_of_westernmost_point: Point(2.545269566 51.089449723)
 ---
+
 # [[Belgium]] 🇧🇪 
 
 name = `=this.dv_has_name`

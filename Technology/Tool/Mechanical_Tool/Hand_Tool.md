@@ -118,6 +118,7 @@ dv_has_:
     vi: dụng cụ cầm tay
     zh: 手工具
 ---
+
 # [[Hand_Tool]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~hand_tool,2578402]] 

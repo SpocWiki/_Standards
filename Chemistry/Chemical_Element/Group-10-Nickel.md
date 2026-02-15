@@ -151,6 +151,7 @@ dv_has_:
     zh_sg: 10族元素
     zh_tw: 10族元素
 ---
+
 # [[Group-10-Nickel]]  
 
 #chemic/Group 

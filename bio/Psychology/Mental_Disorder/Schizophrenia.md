@@ -386,6 +386,7 @@ dv_has_:
     zh_tw: 思覺失調症
     zu: bayasangana
 ---
+
 # [[Schizophrenia]] 
 
 #is_/same_as :: [[WD~Schizophrenia,41112]] 

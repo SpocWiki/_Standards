@@ -11,6 +11,7 @@ aliases:
 - اسکیما دات ارگ
 - سكيما.أورج
 ---
+
 # [[schema-org]] 
 
 #has_/url :: https://schema.org/  

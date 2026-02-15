@@ -111,6 +111,7 @@ dv_has_:
     zh_hans: 人本主义心理学
     zh_hant: 人本主义心理学
 ---
+
 # [[Humanistic_Psychology]] 
 
 #is_/same_as :: [[../../WikiData/WD~Humanistic_psychology,23364|WD~Humanistic_psychology,23364]] 

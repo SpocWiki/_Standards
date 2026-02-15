@@ -104,6 +104,7 @@ dv_has_:
     yue: 主成份分析
     zh: 主成分分析
 ---
+
 # [[Principal_Component_Analysis]] 
 
 #is_/same_as :: [[WD~Principal_component_analysis,2873]] 

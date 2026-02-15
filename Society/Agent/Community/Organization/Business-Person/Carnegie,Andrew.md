@@ -210,6 +210,7 @@ dv_has_:
     zh_hant: 安德魯·卡內基
     zh_hk: 安德魯·卡內基
 ---
+
 # [[Carnegie,Andrew]] 
 
 #is_/different_from :: [[../../../../Communication/Media/Writing/Book/Writer/Modern_Writer/Carnegie,Dale]] 

@@ -357,6 +357,7 @@ dv_has_:
     zh_hans: 弗兰克·劳埃德·赖特
     zh_hk: 法蘭克·萊德·韋特
 ---
+
 # [[Wright,Frank_Lloyd]] 
 
 #has_/time_/started :: 1867-06-08 

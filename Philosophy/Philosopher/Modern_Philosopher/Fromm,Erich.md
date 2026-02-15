@@ -215,6 +215,7 @@ dv_has_:
     yue: 佛洛姆
     zh: 埃里希·弗罗姆
 ---
+
 # [[Fromm,Erich]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Erich_Fromm,57085|WD~Erich_Fromm,57085]] 

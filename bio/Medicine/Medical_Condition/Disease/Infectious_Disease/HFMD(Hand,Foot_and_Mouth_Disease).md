@@ -145,6 +145,7 @@ dv_has_:
     zh_hant: 手足口病
     zh_hk: 手足口病
 ---
+
 # [[HFMD(Hand,Foot_and_Mouth_Disease)]]  
 
 #is_/same_as :: [[WD~Hand,_foot_and_mouth_disease,652744]]

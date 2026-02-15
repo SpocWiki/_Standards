@@ -106,6 +106,7 @@ dv_has_:
     zh_sg: 关孝和
     zh_tw: 關孝和
 ---
+
 # [[Takakazu_Seki]] 
 
 #is_/same_as :: [[../../WikiData/WD~Takakazu_Seki,470531|WD~Takakazu_Seki,470531]]  

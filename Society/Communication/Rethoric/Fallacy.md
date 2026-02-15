@@ -145,6 +145,7 @@ aliases:
 - 谬误
 - 논리적 오류
 ---
+
 # [[Fallacy]] 
 
 #is_/same_as :: [[WD~Fallacy,]]

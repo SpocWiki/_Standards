@@ -37,6 +37,7 @@ aliases:
 - h-card
 - HCard
 ---
+
 # [[hCard]]  
 
 > **hCard** is a microformat for publishing the contact details 

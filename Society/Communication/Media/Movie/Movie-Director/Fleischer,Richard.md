@@ -79,6 +79,7 @@ aliases:
 - 理查德·弗萊徹
 - 리처드 플라이셔
 ---
+
 # [[Fleischer,Richard]]  
 
 #has_/time_/started :: 1916-12-08 

@@ -227,6 +227,7 @@ dv_has_:
     yue: 霍桑
     zh: 纳撒尼尔·霍桑
 ---
+
 # [[Hawthorne,Nathaniel]] 
 
 #has_/created_  :: [[Hawthorne,Nathaniel/Scarlet_Letter|Scarlet_Letter]]  

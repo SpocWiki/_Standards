@@ -236,6 +236,7 @@ dv_is_same_as:
 - '[[/_personal/Chemistry/Organic_Chemistry/Ether/Diethyl_Ether.personal|Diethyl_Ether.personal]]'
 - '[[/_secret/Chemistry/Organic_Chemistry/Ether/Diethyl_Ether.secret|Diethyl_Ether.secret]]'
 ---
+
 # [[Diethyl_Ether]] 
 
 has_formula_structural = `=this.dv_has_formula_structural` 

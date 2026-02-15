@@ -198,6 +198,7 @@ dv_has_:
     zh_sg: 三角函数
     zh_tw: 三角函數
 ---
+
 # [[Trigonometric_Function]]  
 
 #is_/same_as :: [[../../../../../WikiData/WD~Trigonometric_function,93344|WD~Trigonometric_function,93344]]  

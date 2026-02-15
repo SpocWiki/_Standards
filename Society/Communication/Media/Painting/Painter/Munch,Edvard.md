@@ -339,6 +339,7 @@ dv_has_:
     yue: 孟克
     zh: 愛德華·蒙克
 ---
+
 # [[Munch,Edvard]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Edvard_Munch,41406|WD~Edvard_Munch,41406]] 

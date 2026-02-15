@@ -294,6 +294,7 @@ dv_has_:
     zh: 古斯塔夫·克里姆特
     zh_cn: 古斯塔夫·克里姆特
 ---
+
 # [[Klimt,Gustav]] 
 
 #is_/same_as :: [[WD~Gustav_Klimt,34661]] 

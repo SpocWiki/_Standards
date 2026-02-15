@@ -156,6 +156,7 @@ dv_has_:
     zh_sg: 格式塔学派
     zh_tw: 格式塔學派
 ---
+
 # [[Gestalt_Psychology]] 
 
 #is_/same_as :: [[../../WikiData/WD~Gestalt_psychology,272021|WD~Gestalt_psychology,272021]] 

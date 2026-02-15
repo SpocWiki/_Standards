@@ -235,6 +235,7 @@ dv_has_:
     zh_sg: 森林开伐
     zh_tw: 森林開伐
 ---
+
 # [[Deforestation]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Deforestation,169940|WD~Deforestation,169940]] 

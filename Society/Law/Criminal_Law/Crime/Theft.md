@@ -247,6 +247,7 @@ dv_has_:
     zh_sg: 偷窃
     zh_tw: 偷竊
 ---
+
 # [[Theft]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Theft,2727213|WD~Theft,2727213]]  

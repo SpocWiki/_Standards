@@ -177,6 +177,7 @@ dv_has_:
     zh: 地產大亨
     zh_tw: 大富翁
 ---
+
 # [[Monopoly(game)]] 
 
 #is_/different_from :: [[../../../../../Economics/Economic_Activity/Trade/Market/Monopoly|Monopoly]]  

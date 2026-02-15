@@ -224,6 +224,7 @@ dv_has_:
     zh_sg: 灵性
     zh_tw: 靈性
 ---
+
 # [[Spirituality]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Spirituality,168796|WD~Spirituality,168796]]  

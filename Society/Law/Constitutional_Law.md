@@ -183,6 +183,7 @@ dv_has_:
     zh_sg: 宪制性法律
     zh_tw: 憲制性法律
 ---
+
 # [[Constitutional_Law]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Constitutional_law,11206|WD~Constitutional_law,11206]] 

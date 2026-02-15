@@ -116,6 +116,7 @@ aliases:
 - 제어이론
 - 조종리론
 ---
+
 # [[Control_Theory]] 
 
 #is_/similar_to :: [[../../../Society/Agent/Management|Management]] 

@@ -20,6 +20,7 @@ aliases:
 - помилки корелятивних сполучників
 - כשלי מתאם
 ---
+
 # [[Correlative-based_Fallacy]]  
 
 ## #has_/text_of_/abstract 

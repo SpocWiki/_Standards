@@ -395,6 +395,7 @@ dv_has_name_abbreviated: Ga
 dv_has_number_of_electrons: 31
 dv_has_number_of_group: 13
 ---
+
 # [[Gallium]] 鎵 
 
 #chemic/Element 

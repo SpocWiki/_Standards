@@ -225,6 +225,7 @@ dv_has_:
     zh_hant: 烏魯伯格
     zh_hk: 烏魯伯格
 ---
+
 # [[Ulugh_Beg]] 
 
 #is_/same_as :: [[../../WikiData/WD~Ulugh_Beg,486088|WD~Ulugh_Beg,486088]]  

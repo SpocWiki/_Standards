@@ -219,6 +219,7 @@ dv_has_:
     zh_sg: 氘
     zh_tw: 氘
 ---
+
 # [[Deuterium]]  
 
 #is_/same_as :: [[_Standards/WikiData/WD~deuterium,102296]] 

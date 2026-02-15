@@ -259,6 +259,7 @@ dv_has_:
     zh_hant: 紫色
     zu: Okunsomi
 ---
+
 # [[Purple]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Purple,3257809|WD~Purple,3257809]]  

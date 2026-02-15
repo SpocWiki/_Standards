@@ -866,6 +866,7 @@ Languages:
 icon: flag-kg
 Unicode_character: 🇰🇬
 ---
+
 # [[Kyrgyzstan]] 🇰🇬 
 
 

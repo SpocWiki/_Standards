@@ -207,6 +207,7 @@ dv_has_:
     zh_sg: 心理治疗
     zh_tw: 心理治療
 ---
+
 # [[Psychotherapy]] 
 
 #is_/same_as :: [[../../WikiData/WD~Psychotherapy,183257]] 

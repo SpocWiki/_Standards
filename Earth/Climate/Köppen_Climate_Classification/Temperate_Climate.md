@@ -213,6 +213,7 @@ dv_has_:
     zh_sg: 温带
     zh_tw: 溫帶
 ---
+
 # [[Temperate_Climate]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Temperate_climate,167466|WD~Temperate_climate,167466]]  

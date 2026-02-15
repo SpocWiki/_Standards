@@ -192,6 +192,7 @@ dv_has_:
     zh_tw: 帕沃·努爾米
     zu: Paavo Nurmi
 ---
+
 # [[Nurmi,Paavo]] 
 
 #is_/same_as :: [[WD~Paavo_Nurmi,101942]] 

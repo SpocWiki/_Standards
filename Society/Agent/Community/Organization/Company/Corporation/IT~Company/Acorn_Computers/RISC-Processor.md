@@ -83,6 +83,7 @@ aliases:
 - 精简指令集
 - 精簡指令集
 ---
+
 # [[RISC-Processor]]  
 
 ## #has_/text_of_/abstract 

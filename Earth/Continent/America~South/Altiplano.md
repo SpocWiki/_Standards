@@ -156,6 +156,7 @@ dv_has_:
     zh_sg: 阿尔蒂普拉诺高原
     zh_tw: 阿爾蒂普拉諾高原
 ---
+
 # [[Altiplano]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Altiplano,118574]] 

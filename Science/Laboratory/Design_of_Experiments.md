@@ -93,6 +93,7 @@ dv_has_:
     zh: 试验设计
     zh_hant: 實驗設計
 ---
+
 # [[Design_of_Experiments]] 
 
 #is_/same_as :: [[../../WikiData/WD~Design_of_experiments,2334061|WD~Design_of_experiments,2334061]] 

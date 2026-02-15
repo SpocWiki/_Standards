@@ -265,6 +265,7 @@ dv_has_:
     zh_hant: 聖人
     zh_hk: 聖人
 ---
+
 # [[Saint]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~saint,43115]] 

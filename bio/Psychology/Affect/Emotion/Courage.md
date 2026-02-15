@@ -202,6 +202,7 @@ dv_has_:
     zh_sg: 勇气
     zh_tw: 勇氣
 ---
+
 # [[Courage]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Courage,208160|WD~Courage,208160]] 

@@ -248,6 +248,7 @@ dv_has_:
     zh_hans: 弓
     zh_hant: 弓
 ---
+
 # [[Bow]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Bow,46311|WD~Bow,46311]] 

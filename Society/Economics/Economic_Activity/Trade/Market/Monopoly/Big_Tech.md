@@ -106,6 +106,7 @@ dv_has_:
     zh_hans: 科技巨头
     zh_hant: 科技巨擘
 ---
+
 # [[Big_Tech]] 
 
 #is_/same_as :: [[WD~Big_Tech,3122864]]

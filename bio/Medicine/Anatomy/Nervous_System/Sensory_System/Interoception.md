@@ -34,6 +34,7 @@ aliases:
 - 內感受性
 - 内受容感覚
 ---
+
 # [[Interoception]]  
 
 ## #has_/text_of_/abstract 

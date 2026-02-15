@@ -130,6 +130,7 @@ dv_has_:
     zh_hans: 荷兰黄金时代油画
     zh_hant: 荷蘭黃金時代油畫
 ---
+
 # [[Dutch_Golden_Age_painting]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Dutch_Golden_Age_painting,2352880|WD~Dutch_Golden_Age_painting,2352880]] 

@@ -137,6 +137,7 @@ dv_has_:
     zh_hans: 富营养化
     zh_hant: 富營養化
 ---
+
 # [[Eutrophication]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Eutrophication,156698|WD~Eutrophication,156698]] 

@@ -270,6 +270,7 @@ dv_has_:
     zh_sg: 扬·范·艾克
     zh_tw: 揚·范·艾克
 ---
+
 # [[1390-Eyck,Jan_van+1441]] 
 
 #is_/same_as :: [[WD~Jan_van_Eyck,102272]] 

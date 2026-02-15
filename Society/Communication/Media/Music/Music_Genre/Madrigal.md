@@ -102,6 +102,7 @@ dv_has_:
     zh: 牧歌
     zh_tw: 牧歌
 ---
+
 # [[Madrigal]] 
 
 #is_/same_as :: [[WD~Madrigal,193217]] 

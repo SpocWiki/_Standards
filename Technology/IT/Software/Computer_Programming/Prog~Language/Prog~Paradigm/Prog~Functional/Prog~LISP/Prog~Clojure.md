@@ -60,6 +60,7 @@ aliases:
 - ꠇꠟꠎꠣꠞ
 - 클로저
 ---
+
 # [[Prog~Clojure]] 
 
 #is_a_/ComputerLanguage 

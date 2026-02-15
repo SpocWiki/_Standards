@@ -264,6 +264,7 @@ dv_has_:
     yue: 胰
     zh: 胰脏
 ---
+
 # [[Pancreas]] 
 
 #is_/same_as :: [[WD~Pancreas,9618]] 

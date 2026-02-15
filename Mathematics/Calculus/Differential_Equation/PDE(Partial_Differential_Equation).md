@@ -138,6 +138,7 @@ dv_has_:
     zh_sg: 偏微分方程
     zh_tw: 偏微分方程
 ---
+
 # [[PDE(Partial_Differential_Equation)]] 
 
 #is_/same_as :: [[WD~Partial_differential_equation,271977]] 

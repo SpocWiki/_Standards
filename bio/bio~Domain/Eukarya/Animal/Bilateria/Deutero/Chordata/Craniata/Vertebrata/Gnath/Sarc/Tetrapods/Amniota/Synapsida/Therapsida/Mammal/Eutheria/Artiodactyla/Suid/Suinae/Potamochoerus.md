@@ -81,6 +81,7 @@ dv_has_:
     zh_cn: 非洲野猪属
     zh_tw: 非洲野豬屬
 ---
+
 # [[Potamochoerus]] 
 ![ ](Potamochoerus/126136127_3fa04e5125_o.jpg) 
 ![](Potamochoerus/bushpig.jpg)

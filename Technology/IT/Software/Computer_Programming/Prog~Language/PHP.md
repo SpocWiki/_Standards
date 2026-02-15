@@ -193,6 +193,7 @@ dv_has_:
     ur: پی ایچ پی
     wuu: 超文本预处理器
 ---
+
 # [[PHP]] 
 
 #has_/creator :: [[Lerdorf,Rasmus]] 

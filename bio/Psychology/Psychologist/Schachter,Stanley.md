@@ -99,6 +99,7 @@ dv_has_:
     war: Stanley Schachter
     zh: 史丹利·斯坎特
 ---
+
 # [[Schachter,Stanley]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Stanley_Schachter,290285|WD~Stanley_Schachter,290285]]  

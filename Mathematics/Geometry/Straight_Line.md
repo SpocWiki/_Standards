@@ -273,6 +273,7 @@ dv_has_:
     zh_hk: 直線
     zh_tw: 直線
 ---
+
 # [[Straight_Line]] 
 
 #is_/same_as :: [[../../WikiData/WD~Line,37105|WD~Line,37105]] 

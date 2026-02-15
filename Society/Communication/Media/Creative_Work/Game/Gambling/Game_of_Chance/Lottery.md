@@ -157,6 +157,7 @@ dv_has_:
     zh_sg: 彩票
     zh_tw: 彩票
 ---
+
 # [[Lottery]] 
 
 #is_/same_as :: [[WD~Lottery,189409]] 

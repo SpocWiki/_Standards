@@ -14,6 +14,7 @@ aliases:
 - شبکه اطلاعات شغلی
 - 職業情報ネットワーク
 ---
+
 # [[ONET(Occupational_Information_Network)]] 
 
 O_NET (Occupational Information Network) is a comprehensive database of occupational information 

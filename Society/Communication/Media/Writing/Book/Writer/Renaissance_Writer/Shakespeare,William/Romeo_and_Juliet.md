@@ -215,6 +215,7 @@ aliases:
 - 로미오와 줄리엣
 - 로미오와 쥴리에트
 ---
+
 # [[Romeo_and_Juliet]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Romeo_and_Juliet,83186|WD~Romeo_and_Juliet,83186]]  

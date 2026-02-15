@@ -147,6 +147,7 @@ dv_has_:
     zh_sg: 棱镜
     zh_tw: 稜鏡
 ---
+
 # [[Prism(Optics)]] 
 
 #is_/different_from :: [[../../../../Mathematics/Geometry/Prism(Geometry)|Prism(Geometry)]] 

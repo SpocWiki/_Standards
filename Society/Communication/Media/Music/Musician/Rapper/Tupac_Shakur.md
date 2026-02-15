@@ -277,6 +277,7 @@ dv_has_:
     zh_hant: 吐派克·夏庫爾
     zh_tw: 吐派克·夏庫爾
 ---
+
 # [[Tupac_Shakur]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Tupac_Shakur,6107|WD~Tupac_Shakur,6107]]  

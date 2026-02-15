@@ -100,6 +100,7 @@ dv_has_:
     uk: етруське мистецтво
     zh: 伊特魯里亞藝術
 ---
+
 # [[-1000-Etruscan_Art-0100]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Etruscan_art,830331|WD~Etruscan_art,830331]] 

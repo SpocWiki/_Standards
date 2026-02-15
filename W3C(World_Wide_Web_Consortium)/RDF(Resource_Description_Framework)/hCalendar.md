@@ -25,6 +25,7 @@ aliases:
 - hCalendar
 - تقويم الإنترنت بلغة توصيف النص الفائق
 ---
+
 # [[hCalendar]]  
 
 > **hCalendar** (short for HTML iCalendar) is a microformat standard 

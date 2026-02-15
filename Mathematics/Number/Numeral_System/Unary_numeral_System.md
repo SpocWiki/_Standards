@@ -81,6 +81,7 @@ aliases:
 - 一進法
 - 일진법
 ---
+
 # [[Unary_numeral_System]] 
 
 b0+b1 * 1^1 + b2 * 1^2 + ... 

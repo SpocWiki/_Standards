@@ -506,6 +506,7 @@ dv_has_:
     zh_tw: 希伯來語
     zu: IsiHebheru
 ---
+
 # [[Lang-heb]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Hebrew,9288|WD~Hebrew,9288]] 

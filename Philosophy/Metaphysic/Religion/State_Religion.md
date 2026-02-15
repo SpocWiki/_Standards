@@ -212,6 +212,7 @@ dv_has_:
     zh_sg: 国教
     zh_tw: 國教
 ---
+
 # [[State_Religion]] 
 
 #is_/same_as :: [[../../../WikiData/WD~State_religion,188213|WD~State_religion,188213]]  

@@ -813,6 +813,7 @@ dv_is_same_as:
 - '[[/_secret/Earth/Continent/Africa/Africa~West/Ghana.secret|Ghana.secret]]'
 Unicode_character: 🇬🇭
 ---
+
 # [[Ghana]] 🇬🇭 
 
 

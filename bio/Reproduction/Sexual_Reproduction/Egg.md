@@ -465,6 +465,7 @@ dv_has_:
     zu: iqanda
 Unicode_character: 🥚
 ---
+
 # [[Egg]] 🥚 
 
 #is_/similar_to :: [[Spore]] 

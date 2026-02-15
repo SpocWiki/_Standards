@@ -141,6 +141,7 @@ dv_has_:
     zh_sg: 糖蛋白
     zh_tw: 糖蛋白
 ---
+
 # [[Glycoprotein]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Glycoprotein,187126|WD~Glycoprotein,187126]]

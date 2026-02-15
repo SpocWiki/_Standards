@@ -156,6 +156,7 @@ dv_has_:
     zh: 格尔德·宾宁
     zh_hant: 格爾德·賓寧
 ---
+
 # [[Binnig,Gerd]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Gerd_Binnig,76766|WD~Gerd_Binnig,76766]] 

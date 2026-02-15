@@ -160,6 +160,7 @@ dv_has_:
     zh_sg: 医学史
     zh_tw: 醫學史
 ---
+
 # [[History_of_Medicine]] 
 
 #is_/same_as :: [[../../WikiData/WD~History_of_medicine,380274|WD~History_of_medicine,380274]] 

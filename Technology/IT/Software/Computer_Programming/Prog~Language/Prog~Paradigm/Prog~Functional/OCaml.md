@@ -62,6 +62,7 @@ aliases:
 - ობიექტური კამლი
 - ꠅꠇꠣꠝꠟ
 ---
+
 # [[OCaml]] 
 
 #is_a_/ComputerLanguage 

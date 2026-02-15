@@ -161,6 +161,7 @@ dv_has_:
     zh_sg: 微分几何
     zh_tw: 微分幾何
 ---
+
 # [[Differential_Geometry]] 
 
 #is_/same_as :: [[../../WikiData/WD~Differential_geometry,188444|WD~Differential_geometry,188444]] 

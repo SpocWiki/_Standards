@@ -656,6 +656,7 @@ vehicles_per_thousand_people: 44
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Africa,7112174]]'
 Wolfram_Language_entity_code: Entity["GeographicRegion", "Africa"]
 ---
+
 # [[Africa]] 
 
 #is_/same_as :: [[../../WikiData/WD~Africa,15]] 

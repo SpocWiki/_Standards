@@ -640,6 +640,7 @@ dv_has_:
     zu: i-Nauru
 Unicode_character: 🇳🇷
 ---
+
 # [[Nauru]] 🇳🇷 
 
 

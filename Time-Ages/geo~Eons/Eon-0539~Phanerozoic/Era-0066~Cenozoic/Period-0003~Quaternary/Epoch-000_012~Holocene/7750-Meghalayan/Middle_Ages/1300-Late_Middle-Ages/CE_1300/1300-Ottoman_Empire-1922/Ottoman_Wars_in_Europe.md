@@ -118,6 +118,7 @@ dv_has_:
     ur: یورپ میں عثمانی جنگیں
     zh: 奧斯曼戰爭在歐洲
 ---
+
 # [[Ottoman_Wars_in_Europe]] 
 
 #is_/same_as :: [[WD~Ottoman_Wars_in_Europe,698985]] 

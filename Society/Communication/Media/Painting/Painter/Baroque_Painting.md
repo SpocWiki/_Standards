@@ -98,6 +98,7 @@ aliases:
 - 巴洛克繪畫
 - 바로크 회화
 ---
+
 # [[Baroque_Painting]] 
 
 #is_/same_as :: 

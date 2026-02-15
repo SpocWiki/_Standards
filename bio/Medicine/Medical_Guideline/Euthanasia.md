@@ -194,6 +194,7 @@ dv_has_:
     zh_sg: 安乐死
     zh_tw: 安樂死
 ---
+
 # [[Euthanasia]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Euthanasia,100159|WD~Euthanasia,100159]] 

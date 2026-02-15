@@ -1165,6 +1165,7 @@ dv_has_image_for_coat_of_arms: '[[./UK/Coat_of_Arms_of_the_United_Kingdom.svg|Co
 dv_has_sound_of_anthem: '[[../../../../../_public/xLarge.public/National-Anthem/Anthem-United-kingdom.mp3|Anthem-United-kingdom.mp3]]'
 Unicode_character: 🇬🇧
 ---
+
 # [[UK]] 🇬🇧 
 
 

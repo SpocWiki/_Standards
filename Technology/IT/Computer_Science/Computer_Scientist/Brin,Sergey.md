@@ -243,6 +243,7 @@ dv_has_:
     zh_sg: 谢尔盖·布林
     zh_tw: 謝爾蓋·布林
 ---
+
 # [[Brin,Sergey]] 
 
 #has_/created :: [[../../../../Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google|Google]] 

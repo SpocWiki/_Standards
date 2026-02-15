@@ -179,6 +179,7 @@ dv_has_:
     zh_hant: 符號學
     zh_tw: 符號學
 ---
+
 # [[Semiotics]] 
 
 #is_/same_as :: [[../../WikiData/WD~Semiotics,60195|WD~Semiotics,60195]] 

@@ -45,6 +45,7 @@ dv_has_:
     uk: електрична стимуляція м’язів
     vi: Kích thích cơ bằng điện
 ---
+
 # [[EMS(Electrical_muscle_stimulation)]]  
 
 ## [[EMS(Electrical_muscle_stimulation)]] 

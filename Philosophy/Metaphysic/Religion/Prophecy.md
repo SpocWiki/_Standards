@@ -173,6 +173,7 @@ dv_has_:
     zh_tw: 預言
     zu: UmQaziyelo
 ---
+
 # [[Prophecy]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Prophecy,214267|WD~Prophecy,214267]]  

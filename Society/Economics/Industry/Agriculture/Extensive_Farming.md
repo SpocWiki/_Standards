@@ -96,6 +96,7 @@ dv_has_:
     zh_hant: 粗放農業
     zh_hk: 粗放農業
 ---
+
 # [[Extensive_Farming]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Extensive_farming,1643366|WD~Extensive_farming,1643366]] 

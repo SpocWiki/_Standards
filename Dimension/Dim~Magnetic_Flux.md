@@ -154,6 +154,7 @@ aliases:
 - 磁通量
 - 자기 선속
 ---
+
 # [[Dim~Magnetic_Flux]]  
 
 ## #has_/text_of_/abstract 

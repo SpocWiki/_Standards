@@ -146,6 +146,7 @@ aliases:
 - 卡爾·威廉·舍勒
 - 칼 빌헬름 셸레
 ---
+
 # [[Scheele,Carl_Wilhelm]]  
 
 has_time_started = `=this.dv_has_time_started` 

@@ -178,6 +178,7 @@ dv_has_:
     zh_sg: 社会结构
     zh_tw: 社會結構
 ---
+
 # [[Social_Structure]] 
 
 #is_/same_as :: [[../WikiData/WD~Social_structure,211606|WD~Social_structure,211606]]  

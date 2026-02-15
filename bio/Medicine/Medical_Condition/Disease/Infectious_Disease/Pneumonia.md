@@ -381,6 +381,7 @@ dv_has_:
     zh_hant: 肺炎
     zh_tw: 肺炎
 ---
+
 # [[Pneumonia]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Pneumonia,12192|WD~Pneumonia,12192]] 

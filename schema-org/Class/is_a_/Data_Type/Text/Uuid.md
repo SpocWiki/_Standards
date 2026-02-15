@@ -96,6 +96,7 @@ dv_is_same_as:
 - '[[/_secret/schema-org/Class/is_a_/Data_Type/Text/Uuid.secret|Uuid.secret]]'
 has_id_wikidata: Q195284
 ---
+
 # [[UUID]] 
 
 Better Alternatives are: 

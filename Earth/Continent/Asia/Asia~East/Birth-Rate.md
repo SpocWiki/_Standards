@@ -152,6 +152,7 @@ dv_has_:
     zh_sg: 出生率
     zh_tw: 出生率
 ---
+
 # [[Birth-Rate]] 
 
 More descriptive is the [[Fertility-Rate]], which puts it into relation to the Number of Women. 

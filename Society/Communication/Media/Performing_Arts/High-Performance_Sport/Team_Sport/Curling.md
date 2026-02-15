@@ -178,6 +178,7 @@ dv_has_:
     zh_hans: 冰壶
     zh_hant: 冰壺
 ---
+
 # [[Curling]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Curling,136851|WD~Curling,136851]] 

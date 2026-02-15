@@ -142,6 +142,7 @@ dv_has_:
     zh_cn: 埃米·诺特
     zh_tw: 艾米·諾特
 ---
+
 # [[Noether,Emmy]] 
 
 #is_/same_as :: [[../../WikiData/WD~Emmy_Noether,7099|WD~Emmy_Noether,7099]] 

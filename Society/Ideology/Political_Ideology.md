@@ -253,6 +253,7 @@ aliases:
 - 意识形态
 - 이데올로기
 ---
+
 # [[Political_Ideology]]  
 
 ## #has_/text_of_/abstract 

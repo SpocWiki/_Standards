@@ -420,6 +420,7 @@ dv_has_:
     zh_tw: 藍色
     zu: okulundwa
 ---
+
 # [[Blue]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Blue,1088|WD~Blue,1088]] 

@@ -128,6 +128,7 @@ dv_has_:
     yue: 永動機
     zh: 永动机
 ---
+
 # [[Perpetual_Motion]] 
 
 #is_/same_as :: [[WD~Perpetual_motion,12623]] 

@@ -220,6 +220,7 @@ dv_has_:
     zh: 對數
     zh_hans: 对数
 ---
+
 # [[Logarithm]]  
 
 #has_/inverse :: [[Exponentiation]] 

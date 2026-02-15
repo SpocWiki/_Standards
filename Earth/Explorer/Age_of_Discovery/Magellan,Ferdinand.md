@@ -349,6 +349,7 @@ dv_has_:
     zh_hant: 斐迪南·麥哲倫
     zh_hk: 費迪南·麥哲倫
 ---
+
 # [[Magellan,Ferdinand]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Ferdinand_Magellan,1496|WD~Ferdinand_Magellan,1496]] 

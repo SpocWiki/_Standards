@@ -306,6 +306,7 @@ dv_has_:
     zh_sg: 胡比·高拔
     zu: Whoopi Goldberg
 ---
+
 # [[Goldberg,Whoopi]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Whoopi_Goldberg,49001|WD~Whoopi_Goldberg,49001]]  

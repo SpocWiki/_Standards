@@ -177,6 +177,7 @@ dv_has_:
     yue: 去中心化
     zh: 地方分权
 ---
+
 # [[Decentralization]] 
 
 #is_/same_as :: [[../../WikiData/WD~Decentralization,188961|WD~Decentralization,188961]] 

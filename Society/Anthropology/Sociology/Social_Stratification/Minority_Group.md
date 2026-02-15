@@ -183,6 +183,7 @@ dv_has_:
     zh_hant: 少數群體
     zh_tw: 少數群體
 ---
+
 # [[Minority_Group]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Minority_group,30103|WD~Minority_group,30103]] 

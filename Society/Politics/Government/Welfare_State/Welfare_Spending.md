@@ -162,6 +162,7 @@ dv_has_:
     zh_hant: 社會福利
     zh_tw: 社會福利
 ---
+
 # [[Welfare_Spending]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Welfare,12002092|WD~Welfare,12002092]]  

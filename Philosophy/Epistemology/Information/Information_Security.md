@@ -189,6 +189,7 @@ dv_has_:
     zh_sg: 信息安全
     zh_tw: 資訊安全
 ---
+
 # [[Information_Security]] 
 
 #is_/same_as :: [[WikiData/WD~Information_security,189900|WD~Information_security,189900]] 

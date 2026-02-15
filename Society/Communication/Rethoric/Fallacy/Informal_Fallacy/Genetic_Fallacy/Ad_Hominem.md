@@ -106,6 +106,7 @@ dv_has_:
     zh_sg: 诉诸人身
     zh_tw: 訴諸人身
 ---
+
 # [[Ad_Hominem]] 
 
 Attacking the adversary on any other level, often personally, 

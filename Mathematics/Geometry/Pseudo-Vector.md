@@ -55,6 +55,7 @@ dv_has_:
     zh: 赝矢量
     zh_cn: 赝矢量
 ---
+
 # [[Pseudo-Vector]] 
 
 In n-dimensional [[Geometric_Algebra]], 

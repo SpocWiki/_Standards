@@ -160,6 +160,7 @@ dv_has_:
     zh_sg: 静力学
     zh_tw: 靜力學
 ---
+
 # [[Statics]] 
 
 #has_/complement :: [[Classical_Mechanics/Dynamics]] 

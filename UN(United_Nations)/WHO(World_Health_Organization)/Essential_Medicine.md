@@ -117,6 +117,7 @@ dv_has_:
     yue: 基本藥物
     zh: 基本藥物
 ---
+
 # [[Essential_Medicine]] 
 
 #is_/same_as :: [[../../WikiData/WD~Essential_medicine,35456|WD~Essential_medicine,35456]] 

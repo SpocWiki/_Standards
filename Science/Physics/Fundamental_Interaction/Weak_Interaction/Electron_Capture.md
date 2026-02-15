@@ -112,6 +112,7 @@ aliases:
 - 電子捕獲
 - 전자 포획
 ---
+
 # [[Electron_Capture]] 
 
 #is_/same_as :: [[../../Fundamental_Interaction/Weak_Interaction/Beta_Decay]] 

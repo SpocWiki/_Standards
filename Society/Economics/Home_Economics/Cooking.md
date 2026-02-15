@@ -343,6 +343,7 @@ dv_has_:
     zh_tw: 烹飪
 Unicode_character: 🍳
 ---
+
 # [[Cooking]] 🍳 
 
 #is_/same_as :: [[../../../WikiData/WD~Cooking,38695|WD~Cooking,38695]] 

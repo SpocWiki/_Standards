@@ -497,6 +497,7 @@ dv_has_:
     zh_tw: 藝術
     zu: ubuciko
 ---
+
 # [[Art]] 
 
 #is_/same_as :: [[../../WikiData/WD~Art,735]] 

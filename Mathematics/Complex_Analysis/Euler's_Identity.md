@@ -134,6 +134,7 @@ dv_has_:
     zh_sg: 欧拉恒等式
     zh_tw: 歐拉恆等式
 ---
+
 # [[Euler's_Identity]] 
 
 #is_/same_as :: [[../../WikiData/WD~Euler's_identity,204819|WD~Euler's_identity,204819]] 

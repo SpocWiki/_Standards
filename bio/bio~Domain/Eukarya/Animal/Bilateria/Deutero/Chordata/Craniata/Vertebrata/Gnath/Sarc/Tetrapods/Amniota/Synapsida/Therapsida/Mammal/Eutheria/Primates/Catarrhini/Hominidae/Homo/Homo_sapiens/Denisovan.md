@@ -132,6 +132,7 @@ aliases:
 - 丹尼索瓦人
 - 데니소바인
 ---
+
 # [[Denisovan]] 
 
 #has_/time_/started :: -285000-06

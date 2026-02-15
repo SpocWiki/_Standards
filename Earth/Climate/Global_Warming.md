@@ -415,6 +415,7 @@ dv_has_:
     zh_tw: 全球暖化
     zu: Ukufudumala kwembulunga
 ---
+
 # [[Global_Warming]] 
 
 #is_/same_as :: [[../../WikiData/WD~Global_warming,7942|WD~Global_warming,7942]]  

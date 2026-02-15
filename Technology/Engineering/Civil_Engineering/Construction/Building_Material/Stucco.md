@@ -113,6 +113,7 @@ dv_has_:
     yue: 粉飾灰泥
     zh: 泥灰粉刷
 ---
+
 # [[Stucco]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Stucco,33526|WD~Stucco,33526]]  

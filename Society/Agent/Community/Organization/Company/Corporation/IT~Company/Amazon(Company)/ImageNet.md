@@ -36,6 +36,7 @@ aliases:
 - อิมเมจเน็ต
 - 이미지넷
 ---
+
 # [[ImageNet]] 
 
 #is_/using :: [[Amazon_Mechanical_Turk]] 

@@ -183,6 +183,7 @@ dv_has_:
     zh_hk: 西方哲學
     zh_tw: 西方哲學
 ---
+
 # [[Western_Philosophy]] 
 
 #is_/same_as :: [[../WikiData/WD~Western_philosophy,842333|WD~Western_philosophy,842333]]  

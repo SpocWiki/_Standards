@@ -409,6 +409,7 @@ dv_has_:
     zh: 萊昂哈德·歐拉
     zh_hans: 莱昂哈德·欧拉
 ---
+
 # [[Euler,Leonhard]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Leonhard_Euler,7604|WD~Leonhard_Euler,7604]] 

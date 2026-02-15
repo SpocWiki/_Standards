@@ -410,6 +410,7 @@ dv_is_same_as:
 - '[[/_personal/Earth/2D-Directions/Direction~South.personal|Direction~South.personal]]'
 - '[[/_secret/Earth/2D-Directions/Direction~South.secret|Direction~South.secret]]'
 ---
+
 # [[Direction~South]] 
 
 has_name_ar_latn = `=this.dv_has_name_ar_latn`

@@ -211,6 +211,7 @@ dv_has_:
     zh_hans: 艾力斯·库珀
     zh_hant: 艾力斯·庫珀
 ---
+
 # [[Cooper,Alice]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Alice_Cooper,332032]] 

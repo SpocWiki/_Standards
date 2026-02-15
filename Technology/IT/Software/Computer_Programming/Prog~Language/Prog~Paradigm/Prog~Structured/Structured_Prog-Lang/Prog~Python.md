@@ -199,6 +199,7 @@ dv_has_:
     wa: Python (lingaedje éndjolike)
     war: Python (programming language)
 ---
+
 # [[Prog~Python]] 
 
 #is_a_/ComputerLanguage 

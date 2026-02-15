@@ -162,6 +162,7 @@ dv_has_:
     zh_sg: 回力棒
     zh_tw: 回力棒
 ---
+
 # [[Boomerang]] 🪃 
 
 #is_/same_as :: [[../../../../WikiData/WD~Boomerang,131536|WD~Boomerang,131536]] 

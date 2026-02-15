@@ -26,6 +26,7 @@ aliases:
 - เทนเซอร์โฟลว์
 - 텐서플로
 ---
+
 # [[TensorFlow]]  
 
 ## #has_/text_of_/abstract 

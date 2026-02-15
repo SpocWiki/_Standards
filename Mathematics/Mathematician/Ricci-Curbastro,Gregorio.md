@@ -59,6 +59,7 @@ aliases:
 - 格雷戈里奥·里奇-库尔巴斯托罗
 - 그레고리오 리치쿠르바스트로
 ---
+
 # [[Ricci-Curbastro,Gregorio]]  
 
 #has_/time_/started :: 1853-01-12

@@ -496,6 +496,7 @@ dv_has_:
     zh_hant: 蝙蝠俠
     zh_hk: 蝙蝠俠
 ---
+
 # [[Batman]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Batman,2695156|WD~Batman,2695156]] 

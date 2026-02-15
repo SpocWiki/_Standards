@@ -151,6 +151,7 @@ dv_has_:
     zh_sg: 贝伊
     zh_tw: 貝伊
 ---
+
 # [[Bey]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Bey,181217|WD~Bey,181217]] 

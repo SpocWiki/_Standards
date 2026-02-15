@@ -191,6 +191,7 @@ dv_has_:
     zh: 埃瓦里斯特·伽罗瓦
     zh_cn: 埃瓦里斯特·伽罗瓦
 ---
+
 # [[Galois,Évariste]] 
 
 #is_/same_as :: [[../../WikiData/WD~Évariste_Galois,7091|WD~Évariste_Galois,7091]] 

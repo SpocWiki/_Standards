@@ -146,6 +146,7 @@ dv_has_:
     zh_sg: 运算放大器
     zh_tw: 運算放大器
 ---
+
 # [[Operational_Amplifier]] 
 
 #is_/same_as :: [[WD~Operational_amplifier,178947]] 

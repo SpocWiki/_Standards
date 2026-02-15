@@ -102,6 +102,7 @@ dv_has_:
     zh_hant: 社會衝突
     zh_tw: 社會衝突
 ---
+
 # [[Social_Conflict]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~social_conflict,2672648]] 

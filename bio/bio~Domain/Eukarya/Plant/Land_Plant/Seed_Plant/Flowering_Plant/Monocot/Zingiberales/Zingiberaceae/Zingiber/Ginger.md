@@ -419,6 +419,7 @@ dv_has_:
     zh_hant: 薑
     zh_tw: 薑
 ---
+
 # [[Ginger]] 
 
 #is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Zingiber_officinale,35625|WD~Zingiber_officinale,35625]] 

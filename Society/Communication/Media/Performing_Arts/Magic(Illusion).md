@@ -171,6 +171,7 @@ dv_has_:
     yue: 魔術
     zh: 魔術
 ---
+
 # [[Magic(Illusion)]] 
 
 #is_/same_as :: [[WD~Magic,148442]]  

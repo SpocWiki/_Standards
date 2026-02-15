@@ -168,6 +168,7 @@ dv_has_:
     zh_sg: 贝克勒尔
     zh_tw: 貝克勒
 ---
+
 # [[Becquerel]] 
 
 #is_/same_as :: [[../../WikiData/WD~Becquerel,102573|WD~Becquerel,102573]] 

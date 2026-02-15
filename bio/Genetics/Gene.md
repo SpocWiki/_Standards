@@ -292,6 +292,7 @@ dv_has_:
     zh_tw: 基因
     zu: Isifuzisi
 ---
+
 # [[Gene]] 
 
 Class of all genes.

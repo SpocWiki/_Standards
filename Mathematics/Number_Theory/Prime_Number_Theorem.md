@@ -115,6 +115,7 @@ dv_has_:
     zh_sg: 素数定理
     zh_tw: 質數定理
 ---
+
 # [[Prime_Number_Theorem]] 
 
 #is_/same_as :: [[WD~Prime_number_theorem,386292]] 

@@ -85,6 +85,7 @@ dv_has_:
     zh: 電爐
     zh_hans: 电炉
 ---
+
 # [[Electric_Stove]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Electric_stove,1211746|WD~Electric_stove,1211746]] 

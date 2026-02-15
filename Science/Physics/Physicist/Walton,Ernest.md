@@ -187,6 +187,7 @@ dv_has_:
     zh_sg: 欧内斯特·沃尔顿
     zh_tw: 歐內斯特·沃爾頓
 ---
+
 # [[Walton,Ernest]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Ernest_Walton,183631|WD~Ernest_Walton,183631]] 

@@ -104,6 +104,7 @@ aliases:
 - 光電二極管
 - 광다이오드
 ---
+
 # [[Photodiode]] 
 
 #is_/same_as :: [[WD~Photodiode,175943]] 

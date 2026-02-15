@@ -142,6 +142,7 @@ dv_has_:
     zh_sg: 菩提达摩
     zh_tw: 菩提達摩
 ---
+
 # [[Bodhidharma]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Bodhidharma,187172|WD~Bodhidharma,187172]] 

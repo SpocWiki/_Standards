@@ -231,6 +231,7 @@ dv_has_:
     zh_hk: 電結他
     zh_tw: 電吉他
 ---
+
 # [[Electric_Guitar]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Electric_guitar,78987|WD~Electric_guitar,78987]] 

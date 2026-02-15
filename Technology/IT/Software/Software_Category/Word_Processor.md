@@ -180,6 +180,7 @@ dv_has_:
     zh-tw: 文書處理器
     zu: Isidludlungi mazwi
 ---
+
 # [[Word_Processor]] 
 
 #is_/editor_of :: [[../../../../Society/Communication/Media/Creative_Work/Digital_Document/Text_Digital_Document|Text_Digital_Document]]  

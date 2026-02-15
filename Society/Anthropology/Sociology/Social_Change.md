@@ -155,6 +155,7 @@ dv_has_:
     zh: 社会变迁
     zh_hant: 社會變遷
 ---
+
 # [[Social_Change]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Social_change,1510761|WD~Social_change,1510761]]  

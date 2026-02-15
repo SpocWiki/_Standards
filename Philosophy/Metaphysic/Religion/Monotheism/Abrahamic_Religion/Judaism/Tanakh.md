@@ -211,6 +211,7 @@ dv_has_:
     zh_hans: 塔纳赫
     zh_hant: 塔納赫
 ---
+
 # [[Tanakh]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Tanakh,83367|WD~Tanakh,83367]]  

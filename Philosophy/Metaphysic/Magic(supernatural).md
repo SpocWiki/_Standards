@@ -232,6 +232,7 @@ dv_has_:
     zh_hans: 魔法
     zh_tw: 魔法
 ---
+
 # [[Magic(supernatural)]]
 
 #is_/same_as :: [[WD~Magic,81741]] 

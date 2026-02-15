@@ -204,6 +204,7 @@ dv_has_:
     zh_sg: 标准差
     zh_tw: 標準差
 ---
+
 # [[Standard_Deviation]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Standard_deviation,159375|WD~Standard_deviation,159375]]  

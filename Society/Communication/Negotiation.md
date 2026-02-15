@@ -163,6 +163,7 @@ dv_has_:
     zh_tw: 談判
     zu: Ukucebezisana
 ---
+
 # [[Negotiation]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~negotiation,202875]] 

@@ -192,6 +192,7 @@ dv_has_:
     zh_sg: 油画
     zh_tw: 油畫
 ---
+
 # [[Oil_painting]]
 
 #is_/same_as :: [[../../../../WikiData/WD~Oil_painting,174705|WD~Oil_painting,174705]]

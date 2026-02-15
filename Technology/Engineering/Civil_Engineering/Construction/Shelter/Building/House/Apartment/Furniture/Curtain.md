@@ -199,6 +199,7 @@ dv_has_:
     zh_hans: 簾
     zh_hant: 簾
 ---
+
 # [[Curtain]] 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Curtain,49005|WD~Curtain,49005]] 

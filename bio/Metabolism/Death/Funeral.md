@@ -255,6 +255,7 @@ dv_has_:
     zh_sg: 葬礼
     zh_tw: 葬禮
 ---
+
 # [[Funeral]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Funeral,201676|WD~Funeral,201676]] 

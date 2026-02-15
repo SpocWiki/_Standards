@@ -152,6 +152,7 @@ aliases:
 - ꯊꯧꯗꯥꯡ
 - 역할
 ---
+
 # [[Role]]  
 
 ## #has_/text_of_/abstract 

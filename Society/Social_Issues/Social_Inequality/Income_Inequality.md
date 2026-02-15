@@ -74,6 +74,7 @@ aliases:
 - 收入分配
 - 소득 분배
 ---
+
 # [[Income_Inequality]] 
 
 #is_/less_than :: [[Wealth_Inequality]]  

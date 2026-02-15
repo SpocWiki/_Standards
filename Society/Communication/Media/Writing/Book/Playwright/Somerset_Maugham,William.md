@@ -220,6 +220,7 @@ dv_has_:
     zh_sg: 威廉·萨默塞特·毛姆
     zh_tw: 威廉·薩默塞特·毛姆
 ---
+
 # [[Somerset_Maugham,William]] 
 
 #has_/created_/quote :: There are three rules for writing a novel. Unfortunately, no one knows what they are.

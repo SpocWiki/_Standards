@@ -224,6 +224,7 @@ dv_has_:
     yue: 線性代數
     zh: 线性代数
 ---
+
 # [[Linear_Algebra]] 
 
 #is_/same_as :: [[../../WikiData/WD~Linear_algebra,82571|WD~Linear_algebra,82571]] 

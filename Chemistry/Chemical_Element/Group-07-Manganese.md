@@ -142,6 +142,7 @@ dv_has_:
     zh_sg: 7族元素
     zh_tw: 7族元素
 ---
+
 # [[Group-07-Manganese]]  
 
 #chemic/Group 

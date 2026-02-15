@@ -172,6 +172,7 @@ dv_has_:
     zh_cn: 欧洲野牛
     zh_tw: 歐洲野牛
 ---
+
 # [[Wisent]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Bison_bonasus,81091|WD~Bison_bonasus,81091]]  

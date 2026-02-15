@@ -118,6 +118,7 @@ dv_has_:
     zh_hant: 宇宙距離尺度
     zh_hk: 宇宙距離尺度
 ---
+
 # [[Cosmic_Distance_Ladder]] 
 
 #is_/same_as :: [[../../WikiData/WD~Cosmic_distance_ladder,618164|WD~Cosmic_distance_ladder,618164]] 

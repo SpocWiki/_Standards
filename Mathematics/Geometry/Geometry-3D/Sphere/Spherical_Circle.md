@@ -59,6 +59,7 @@ dv_has_:
     ur: دائرہ صغیر
     yi: קוילקרייז
 ---
+
 # [[Spherical_Circle]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~small_circle,149295]]

@@ -329,6 +329,7 @@ dv_has_:
     zh_hans: 煤
     zh_hant: 煤
 ---
+
 # [[Coal]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Coal,24489|WD~Coal,24489]] 

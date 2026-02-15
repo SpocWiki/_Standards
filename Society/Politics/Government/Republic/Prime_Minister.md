@@ -340,6 +340,7 @@ dv_has_:
     zh_sg: 总理
     zh_tw: 總理
 ---
+
 # [[Prime_Minister]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Prime_minister,14212|WD~Prime_minister,14212]]  

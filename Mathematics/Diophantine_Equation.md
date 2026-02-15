@@ -117,6 +117,7 @@ aliases:
 - 丟番圖方程式
 - 디오판토스 방정식
 ---
+
 # [[Diophantine_Equation]] 
 
 #has_/creator :: [[Mathematician/Ancient_Mathematician/Diophantus_of_Alexandria|Diophantus_of_Alexandria]] 

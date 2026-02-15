@@ -160,6 +160,7 @@ dv_has_:
     zh_sg: 金属键
     zh_tw: 金屬鍵
 ---
+
 # [[Metallic_Bond]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Metallic_bond,191390|WD~Metallic_bond,191390]] 

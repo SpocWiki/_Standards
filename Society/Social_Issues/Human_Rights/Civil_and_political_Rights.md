@@ -222,6 +222,7 @@ dv_has_:
     zh_sg: 公民权利和政治权利
     zh_tw: 公民權利與政治權利
 ---
+
 # [[Civil_and_political_Rights]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Civil_and_political_Rights,191600|WD~Civil_and_political_Rights,191600]] 

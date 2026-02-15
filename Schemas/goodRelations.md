@@ -32,6 +32,7 @@ dv_has_:
     en: GoodRelations
     es: GoodRelations
 ---
+
 # [[goodRelations]] 
 
 #is_/part_of :: [[goodRelations]] 

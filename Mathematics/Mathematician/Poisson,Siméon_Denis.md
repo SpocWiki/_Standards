@@ -223,6 +223,7 @@ dv_has_:
     zh_sg: 西莫恩·德尼·泊松
     zh_tw: 西莫恩·德尼·帕松
 ---
+
 # [[Poisson,Siméon_Denis]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~Siméon_Denis_Poisson,190772]] 

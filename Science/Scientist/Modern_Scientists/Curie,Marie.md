@@ -478,6 +478,7 @@ dv_has_:
     zh_hant: 瑪麗·居里
     zh_tw: 瑪麗·居禮
 ---
+
 # [[Curie,Marie]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Marie_Curie,7186|WD~Marie_Curie,7186]] 

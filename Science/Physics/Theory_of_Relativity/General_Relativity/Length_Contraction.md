@@ -99,6 +99,7 @@ dv_has_:
     zh_hant: 長度收縮
     zh_hk: 長度收縮
 ---
+
 # [[Length_Contraction]] 
 
 #is_/same_as :: [[WD~Length_contraction,836595]] 

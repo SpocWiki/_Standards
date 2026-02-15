@@ -270,6 +270,7 @@ dv_has_:
     zh_hk: 集合
     zh_tw: 集合
 ---
+
 # [[Set(Math)]] 
 
 #is_/same_as :: [[../../WikiData/WD~Set,36161|WD~Set,36161]] 

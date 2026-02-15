@@ -224,6 +224,7 @@ dv_has_:
     zh_sg: 类地行星
     zh_tw: 類地行星
 ---
+
 # [[Terrestrial_Planet]] 
 
 #is_/same_as :: [[../../WikiData/WD~Terrestrial_planet,128207|WD~Terrestrial_planet,128207]]  

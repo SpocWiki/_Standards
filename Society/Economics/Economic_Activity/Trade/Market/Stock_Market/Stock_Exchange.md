@@ -216,6 +216,7 @@ dv_has_:
     zh_tw: 證券交易所
     zu: Umnanazabelo
 ---
+
 # [[Stock_Exchange]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Stock_exchange,11691|WD~Stock_exchange,11691]]  

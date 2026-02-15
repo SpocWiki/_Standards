@@ -192,6 +192,7 @@ dv_has_:
     zh_sg: 民族志
     zh_tw: 民族誌
 ---
+
 # [[Ethnography]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Ethnography,132151|WD~Ethnography,132151]] 

@@ -132,6 +132,7 @@ dv_has_:
     zh_sg: 凸集
     zh_tw: 凸集
 ---
+
 # [[Convex_Set]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Convex_set,193657|WD~Convex_set,193657]] 

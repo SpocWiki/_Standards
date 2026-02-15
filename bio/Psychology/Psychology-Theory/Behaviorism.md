@@ -191,6 +191,7 @@ dv_has_:
     zh_sg: 行为主义
     zh_tw: 行為主義
 ---
+
 # [[Behaviorism]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Behaviorism,168338|WD~Behaviorism,168338]] 

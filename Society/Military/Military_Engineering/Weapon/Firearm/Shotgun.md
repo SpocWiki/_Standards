@@ -187,6 +187,7 @@ dv_has_:
     zh_hant: 霰彈槍
     zh_hk: 霰彈槍
 ---
+
 # [[Shotgun]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Shotgun,486396|WD~Shotgun,486396]]  

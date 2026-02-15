@@ -111,6 +111,7 @@ dv_has_:
     zh-hant: 魔鬼氈
     zh-hk: 魔術貼
 ---
+
 # [[Hook_and_Loop_Fastener]] 
 
 #is_/same_as :: [[WD~Hook_and_loop_fastener,15411420]] 

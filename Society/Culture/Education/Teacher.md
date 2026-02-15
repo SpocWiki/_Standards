@@ -536,6 +536,7 @@ dv_has_:
     zh_tw: 教師
     zu: UMfundisi
 ---
+
 # [[Teacher]]👨🏫 
 
 #is_/same_as :: [[../../../WikiData/WD~Teacher,37226|WD~Teacher,37226]]  

@@ -152,6 +152,7 @@ dv_has_:
     yue: 蘇格拉底之死
     zh: 苏格拉底之死
 ---
+
 # [[Death_of_Socrates]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~The_Death_of_Socrates,1752990|WD~The_Death_of_Socrates,1752990]]  

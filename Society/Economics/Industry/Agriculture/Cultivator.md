@@ -100,6 +100,7 @@ dv_has_:
     zh_hans: 旋耕机
     zh_hant: 耕田機
 ---
+
 # [[Cultivator]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Cultivator,1273840|WD~Cultivator,1273840]] 

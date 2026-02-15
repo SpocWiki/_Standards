@@ -211,6 +211,7 @@ dv_has_:
     zh_cn: 大江健三郎
     zh_hans: 大江健三郎
 ---
+
 # [[Kenzaburō_Ōe]] 
 
 #is_/same_as :: [[WD~Kenzaburō_Ōe,80095]] 

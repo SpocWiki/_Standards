@@ -59,6 +59,7 @@ aliases:
 - 注意力經濟
 - 주목경제
 ---
+
 # [[Attention Economy]] 
 
 Algorithms figured out that Attention can best be obtained by 

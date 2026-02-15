@@ -263,6 +263,7 @@ dv_has_:
     zh_sg: 恩斯特·马赫
     zh_tw: 恩斯特·馬赫
 ---
+
 # [[Mach,Ernst]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Ernst_Mach,93996|WD~Ernst_Mach,93996]] 

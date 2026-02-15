@@ -199,6 +199,7 @@ dv_has_:
     zh_sg: 欧洲投资银行
     zh_tw: 歐洲投資銀行
 ---
+
 # [[European_Investment_Bank]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~European_Investment_Bank,192247|WD~European_Investment_Bank,192247]] 

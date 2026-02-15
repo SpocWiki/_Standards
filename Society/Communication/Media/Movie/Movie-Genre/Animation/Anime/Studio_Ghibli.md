@@ -118,6 +118,7 @@ dv_has_:
     zh_sg: 吉卜力工作室
     zh_tw: 吉卜力工作室
 ---
+
 # [[Studio_Ghibli]]  
 
 > Studio Ghibli, Inc. 

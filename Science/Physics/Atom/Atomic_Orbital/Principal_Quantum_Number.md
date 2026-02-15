@@ -95,6 +95,7 @@ dv_has_:
     zh_hant: 主量子數
     zh_hk: 主量子數
 ---
+
 # [[Principal_Quantum_Number]] 
 
 #is_/same_as :: [[WD~Principal_quantum_number,867448]] 

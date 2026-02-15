@@ -293,6 +293,7 @@ dv_has_:
     zh_hant: 小腸
     zh_tw: 小腸
 ---
+
 # [[Small_Intestine]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Small_intestine,11090|WD~Small_intestine,11090]] 

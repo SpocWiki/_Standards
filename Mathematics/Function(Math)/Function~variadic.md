@@ -26,6 +26,7 @@ aliases:
 - 可變參數函數
 - 가변 인자 함수
 ---
+
 # [[Function~variadic]] 
 
 

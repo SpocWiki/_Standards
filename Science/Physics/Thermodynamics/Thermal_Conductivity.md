@@ -206,6 +206,7 @@ dv_has_:
     yue: 導熱率
     zh: 熱導率
 ---
+
 # [[Thermal_Conductivity]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Thermal_conductivity,487005|WD~Thermal_conductivity,487005]]  

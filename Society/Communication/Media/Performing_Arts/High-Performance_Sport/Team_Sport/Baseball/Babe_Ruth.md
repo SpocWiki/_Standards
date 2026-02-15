@@ -156,6 +156,7 @@ dv_has_:
     zh_sg: 贝比·鲁斯
     zh_tw: 貝比·魯斯
 ---
+
 # [[Babe_Ruth]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Babe_Ruth,213812|WD~Babe_Ruth,213812]] 

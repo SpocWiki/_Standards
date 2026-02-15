@@ -184,6 +184,7 @@ dv_has_:
     zh_sg: 心电图
     zh_tw: 心電圖
 ---
+
 # [[Electrocardiography]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Electrocardiography,79785|WD~Electrocardiography,79785]] 

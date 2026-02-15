@@ -219,6 +219,7 @@ dv_has_:
     yue: 選擇公理
     zh: 选择公理
 ---
+
 # [[Axiom_of_Choice]] 
 
 #is_/same_as :: [[../../WikiData/WD~Axiom_of_choice,179692|WD~Axiom_of_choice,179692]] 

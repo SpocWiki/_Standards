@@ -45,6 +45,7 @@ dv_has_:
     zh_hans: 涨落耗散定理
     zh_hant: 漲落耗散定理
 ---
+
 # [[Fluctuation–Dissipation_Theorem]] 
 
 #is_/same_as :: [[WD~Fluctuation–Dissipation_Theorem,1434158]]

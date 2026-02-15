@@ -227,6 +227,7 @@ dv_has_:
     yue: 風力
     zh: 風能
 ---
+
 # [[Wind_Power]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Wind_power,43302|WD~Wind_power,43302]]  

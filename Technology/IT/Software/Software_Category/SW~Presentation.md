@@ -92,6 +92,7 @@ dv_has_:
     zh-hk: 簡報程式
     zh-tw: 簡報程式
 ---
+
 # [[SW~Presentation]] 
 
 #is_/editor_of :: [[../../../../Society/Communication/Media/Creative_Work/Digital_Document/Presentation_Digital_Document|Presentation_Digital_Document]] 

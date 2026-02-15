@@ -176,6 +176,7 @@ aliases:
 - 德谟克利特
 - 데모크리토스
 ---
+
 # [[Democritus]] 
 
 #is_/same_as :: [[../../WikiData/WD~Democritus,41980|WD~Democritus,41980]] 

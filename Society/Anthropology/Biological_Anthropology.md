@@ -187,6 +187,7 @@ dv_has_:
     zh_hant: 體質人類學
     zh_tw: 體質人類學
 ---
+
 # [[Biological_Anthropology]] 
 
 #is_/same_as :: [[../../WikiData/WD~Biological_anthropology,27172|WD~Biological_anthropology,27172]] 

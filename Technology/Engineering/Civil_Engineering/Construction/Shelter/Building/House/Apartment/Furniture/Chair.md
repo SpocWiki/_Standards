@@ -362,6 +362,7 @@ dv_has_:
     zh_hans: 椅
     zh_hant: 椅
 ---
+
 # [[Chair]] 🪑 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Chair,15026|WD~Chair,15026]] 

@@ -219,6 +219,7 @@ dv_has_:
     zh_sg: 大镰
     zh_tw: 大鐮
 ---
+
 # [[Scythe]] 
 
 #is_/same_as :: [[WD~Scythe,130912]] 

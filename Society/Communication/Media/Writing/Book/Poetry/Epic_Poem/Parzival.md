@@ -54,6 +54,7 @@ aliases:
 - 帕西瓦尔
 - 파르치팔
 ---
+
 # [[Parzival]] 
 
 #is_/same_as :: [[WD~Parzival,1247232]] 

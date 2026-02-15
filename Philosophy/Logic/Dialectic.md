@@ -203,6 +203,7 @@ dv_has_:
     zh_hans: 辩证法
     zh_hant: 辯證法
 ---
+
 # [[Dialectic]] 
 
 #is_/same_as :: [[../../WikiData/WD~Dialectic,9453|WD~Dialectic,9453]] 

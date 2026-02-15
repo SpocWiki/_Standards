@@ -189,6 +189,7 @@ dv_has_:
     zh_sg: 奥卡姆剃刀
     zh_tw: 奧卡姆剃刀
 ---
+
 # [[Occam's_Razor]] 
 
 #is_/same_as :: [[WD~Occam's_razor,131012]] 

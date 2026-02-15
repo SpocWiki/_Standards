@@ -136,6 +136,7 @@ dv_has_:
     yue: 太陽能發電
     zh: 太陽能發電
 ---
+
 # [[Solar_Electricity]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Solar_power,1483757|WD~Solar_power,1483757]] 

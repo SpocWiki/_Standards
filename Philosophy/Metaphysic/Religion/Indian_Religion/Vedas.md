@@ -249,6 +249,7 @@ dv_has_:
     yue: 吠陀
     zh: 吠陀
 ---
+
 # [[Vedas]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Vedas,39950|WD~Vedas,39950]]  

@@ -197,6 +197,7 @@ dv_has_:
     zh_cn: 国际纯粹与应用化学联合会
     zh_hans: 国际纯粹与应用化学联合会
 ---
+
 # [[IUPAC(International_Union_of_Pure_and_Applied_Chemistry)]] 
 
 #is_/same_as :: [[WD~International_Union_of_Pure_and_Applied_Chemistry,33438]] 

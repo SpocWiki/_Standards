@@ -251,6 +251,7 @@ dv_has_:
     zh: 正義
     zh_hant: 正義
 ---
+
 # [[Justice]] 
 
 #is_/same_as :: [[WD~Justice,13189320]] 

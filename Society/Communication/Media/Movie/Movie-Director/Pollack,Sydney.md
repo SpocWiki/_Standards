@@ -187,6 +187,7 @@ dv_has_:
     zh_sg: 薛尼·波勒
     zh_tw: 薛尼·波拉克
 ---
+
 # [[Pollack,Sydney]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Sydney_Pollack,51522|WD~Sydney_Pollack,51522]] 

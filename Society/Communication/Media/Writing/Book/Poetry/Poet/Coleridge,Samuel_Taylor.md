@@ -236,6 +236,7 @@ dv_has_:
     yue: 柯勒律治
     zh: 塞缪尔·泰勒·柯勒律治
 ---
+
 # [[Coleridge,Samuel_Taylor]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Samuel_Taylor_Coleridge,82409|WD~Samuel_Taylor_Coleridge,82409]]  

@@ -290,6 +290,7 @@ aliases:
 - 竇
 - 동굴
 ---
+
 # [[Cave]] 
 
 #is_/same_as :: [[../../WikiData/WD~Cave,35509|WD~Cave,35509]] 

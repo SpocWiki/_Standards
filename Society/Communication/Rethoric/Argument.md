@@ -158,6 +158,7 @@ dv_has_:
     zh_sg: 逻辑论证
     zh_tw: 邏輯論證
 ---
+
 # [[Argument]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Argument,186619|WD~Argument,186619]] 

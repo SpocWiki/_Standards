@@ -30,6 +30,7 @@ dv_has_:
     sl: Richard Hickey
     uk: Річард Хіккі
 ---
+
 # [[Rich_Hickey]]
 
 #is_a_/Person 

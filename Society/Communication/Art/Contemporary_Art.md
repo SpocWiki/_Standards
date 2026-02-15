@@ -163,6 +163,7 @@ dv_has_:
     zh_hant: 當代藝術
     zh_hk: 當代藝術
 ---
+
 # [[Contemporary_Art]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Contemporary_art,186030|WD~Contemporary_art,186030]] 

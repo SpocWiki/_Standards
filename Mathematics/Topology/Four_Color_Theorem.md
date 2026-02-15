@@ -148,6 +148,7 @@ dv_has_:
     zh_sg: 四色定理
     zh_tw: 四色定理
 ---
+
 # [[Four_Color_Theorem]] 
 
 #is_/same_as :: [[../../WikiData/WD~Four_color_theorem,184410|WD~Four_color_theorem,184410]] 

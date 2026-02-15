@@ -207,6 +207,7 @@ dv_has_:
     zh_sg: 导数
     zh_tw: 導數
 ---
+
 # [[Derivative]] 
 
 #is_/same_as :: [[../../WikiData/WD~Derivative,29175|WD~Derivative,29175]] 

@@ -156,6 +156,7 @@ dv_has_:
     zh_sg: 风格主义
     zh_tw: 風格主義
 ---
+
 # [[Mannerism]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Mannerism,131808|WD~Mannerism,131808]] 

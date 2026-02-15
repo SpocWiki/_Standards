@@ -227,6 +227,7 @@ dv_has_:
     zh_hk: 巴洛克藝術
     zh_tw: 巴洛克藝術
 ---
+
 # [[Baroque]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Baroque,37853|WD~Baroque,37853]] 

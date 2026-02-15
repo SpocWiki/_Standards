@@ -151,6 +151,7 @@ dv_has_:
     zh_sg: 高科技
     zh_tw: 高科技
 ---
+
 # [[High_Tech]] 
 
 #is_/same_as :: [[WD~High_tech,466410]] 

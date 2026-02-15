@@ -294,6 +294,7 @@ dv_has_:
     zh_sg: 人民
     zh_tw: 人民
 ---
+
 # [[People]] 
 
 #is_/same_as :: [[../../../WikiData/WD~People,2472587|WD~People,2472587]] 

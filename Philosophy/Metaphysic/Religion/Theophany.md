@@ -88,6 +88,7 @@ dv_has_:
     zh: 顯靈
     zh_tw: 顯靈
 ---
+
 # [[Theophany]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Theophany,899918|WD~Theophany,899918]]  

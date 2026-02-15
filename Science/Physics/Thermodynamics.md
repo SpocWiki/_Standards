@@ -266,6 +266,7 @@ dv_has_:
     zh_hans: 热力学
     zh_hant: 熱力學
 ---
+
 # [[Thermodynamics]] 
 
 #is_/same_as :: [[../../WikiData/WD~Thermodynamics,11473|WD~Thermodynamics,11473]] 

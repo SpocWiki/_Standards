@@ -176,6 +176,7 @@ dv_has_:
     zh_tw: 電子元件
     zu: Isigcoyi samazuba
 ---
+
 # [[Electronic_Component]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Electronic_component,11653|WD~Electronic_component,11653]] 

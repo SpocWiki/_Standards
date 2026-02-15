@@ -353,6 +353,7 @@ dv_has_:
     za: Avicenna
     zh: 伊本·西那
 ---
+
 # [[Avicenna]]  
 
 #has_/time_/started :: 0980-06 

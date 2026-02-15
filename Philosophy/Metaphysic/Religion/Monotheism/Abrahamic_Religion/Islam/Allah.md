@@ -258,6 +258,7 @@ dv_has_:
     zh_hant: 阿拉
     zh_tw: 阿拉
 ---
+
 # [[Allah]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Allah,234801]] 

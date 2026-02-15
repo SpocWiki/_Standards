@@ -233,6 +233,7 @@ dv_has_:
     zh_hant: 尼安德塔人
     zh_tw: 尼安德塔人
 ---
+
 # [[Neanderthal]] 
 
 #has_/time_/stopped  :: -40000-06 

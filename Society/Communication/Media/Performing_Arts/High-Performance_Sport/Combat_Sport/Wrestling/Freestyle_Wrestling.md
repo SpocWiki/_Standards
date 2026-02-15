@@ -142,6 +142,7 @@ dv_has_:
     zh_sg: 自由式摔角
     zh_tw: 自由式摔角
 ---
+
 # [[Freestyle_Wrestling]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Freestyle_wrestling,327223|WD~Freestyle_wrestling,327223]] 

@@ -265,6 +265,7 @@ dv_has_:
     zh: 石英
     zh_tw: 石英
 ---
+
 # [[Quartz]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Quartz,43010|WD~Quartz,43010]]  

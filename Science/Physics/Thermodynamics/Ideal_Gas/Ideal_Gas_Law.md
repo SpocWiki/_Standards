@@ -177,6 +177,7 @@ dv_has_:
     zh_sg: 理想气体状态方程
     zh_tw: 理想氣體狀態方程式
 ---
+
 # [[Ideal_Gas_Law]] 
 
 #is_/same_as :: [[WD~Ideal_gas_law,191785]] 

@@ -71,6 +71,7 @@ dv_has_:
     tr: Işıklı devre reaksiyonları
     zh: 光反應
 ---
+
 # [[Photosynthesis,light_Reactions]] 
 
 #is_/same_as :: [[../../../WikiData/WD~light-dependent_reactions,862876|WD~light-dependent_reactions,862876]] 

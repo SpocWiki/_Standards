@@ -235,6 +235,7 @@ dv_has_:
     zh: 传统
     zh_hant: 傳統
 ---
+
 # [[Tradition]] 
 
 #is_/same_as :: [[../../WikiData/WD~Tradition,82821|WD~Tradition,82821]]  

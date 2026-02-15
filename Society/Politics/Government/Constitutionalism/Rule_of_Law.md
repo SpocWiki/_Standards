@@ -163,6 +163,7 @@ dv_has_:
     zh: 法治
     zu: Ukubusa komthetho
 ---
+
 # [[Rule_of_Law]] 
 
 #has_/complement :: [[Rule_of_Man]]

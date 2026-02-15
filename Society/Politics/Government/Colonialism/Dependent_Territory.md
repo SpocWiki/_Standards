@@ -213,6 +213,7 @@ dv_has_:
     zh_sg: 属地
     zh_tw: 屬地
 ---
+
 # [[Dependent_Territory]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Dependent_territory,161243|WD~Dependent_territory,161243]] 

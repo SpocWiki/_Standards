@@ -108,6 +108,7 @@ dv_has_:
     zh_hans: 约翰·格奥尔格·福斯特
     zh_hant: 約翰·格奧爾格·福斯特
 ---
+
 # [[Faust,Johann_Georg]] 
 
 #is_/same_as :: [[wd Johann Georg Faust]]

@@ -243,6 +243,7 @@ aliases:
 - 非金屬元素
 - 비금속
 ---
+
 # [[Nonmetal]] 
 
 is_opposite_of = `=this.dv_is_opposite_of` 

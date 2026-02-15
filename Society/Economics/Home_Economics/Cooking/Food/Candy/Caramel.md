@@ -128,6 +128,7 @@ aliases:
 - 焦糖
 - 캐러멜
 ---
+
 # [[Caramel]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Caramel,183440|WD~Caramel,183440]] 

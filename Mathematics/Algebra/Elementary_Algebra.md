@@ -151,6 +151,7 @@ dv_has_:
     zh_sg: 初等代数
     zh_tw: 初等代數
 ---
+
 # [[Elementary_Algebra]] 
 
 #is_/same_as :: [[../../WikiData/WD~Elementary_algebra,211294|WD~Elementary_algebra,211294]] 

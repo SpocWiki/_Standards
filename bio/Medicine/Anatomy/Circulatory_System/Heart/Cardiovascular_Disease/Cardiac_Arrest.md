@@ -239,6 +239,7 @@ dv_has_:
     zh_hant: 心臟驟停
     zh_tw: 心臟驟停
 ---
+
 # [[Cardiac_Arrest]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Cardiac_arrest,202837|WD~Cardiac_arrest,202837]] 

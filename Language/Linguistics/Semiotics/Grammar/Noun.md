@@ -372,6 +372,7 @@ dv_has_:
     zh_tw: 名詞
     zu: ibizo
 ---
+
 # [[Noun]] 
 
 #is_/same_as :: [[WD~Noun,1084]] 

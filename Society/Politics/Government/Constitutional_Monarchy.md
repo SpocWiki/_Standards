@@ -262,6 +262,7 @@ dv_has_:
     zh_hk: 君主立憲制
     zh_tw: 君主立憲制
 ---
+
 # [[Constitutional_Monarchy]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Constitutional_monarchy,41614|WD~Constitutional_monarchy,41614]] 

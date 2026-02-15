@@ -504,6 +504,7 @@ dv_has_:
     zh_tw: 關島
 Unicode_character: 🇬🇺
 ---
+
 # [[Guam]] 🇬🇺  has Properties... 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 

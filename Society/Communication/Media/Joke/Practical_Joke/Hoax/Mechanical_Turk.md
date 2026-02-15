@@ -124,6 +124,7 @@ dv_has_:
     zh_sg: 土耳其行棋傀儡
     zh_tw: 土耳其行棋傀儡
 ---
+
 # [[Mechanical_Turk]] 
 
 #is_/similar_to :: [[../../../../../../../Society/Agent/Community/Organization/Company/Corporation/IT~Company/Amazon(Company)/Amazon_Mechanical_Turk]] 

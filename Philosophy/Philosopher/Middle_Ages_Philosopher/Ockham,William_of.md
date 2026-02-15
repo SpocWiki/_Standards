@@ -246,6 +246,7 @@ dv_has_:
     yue: 奧坎
     zh: 奥卡姆的威廉
 ---
+
 # [[Ockham,William_of]] 
 
 #is_/same_as :: [[WD~William_of_Ockham,43936]] 

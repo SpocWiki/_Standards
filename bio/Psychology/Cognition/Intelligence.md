@@ -234,6 +234,7 @@ dv_has_:
     zh: 智力
     zu: Ubuhlakani
 ---
+
 # [[Intelligence]] 
 
 #is_/same_as :: [[WD~Intelligence,83500]] 

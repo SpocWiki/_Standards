@@ -239,6 +239,7 @@ dv_has_:
     zh-hant: 熨斗
     zh-hk: 熨斗
 ---
+
 # [[Clothes_iron]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Clothes_iron,483634|WD~Clothes_iron,483634]] 

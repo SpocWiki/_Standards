@@ -158,6 +158,7 @@ dv_has_:
     zh_hk: 常識
     zh_sg: 常识
 ---
+
 # [[Common_Sense]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Common_sense,332880|WD~Common_sense,332880]] 

@@ -285,6 +285,7 @@ dv_has_:
     zh_sg: 螳螂
     zh_tw: 螳螂
 ---
+
 # [[Mantis]]  
 
 #is_/same_as :: [[WD~Mantodea,131250]] 

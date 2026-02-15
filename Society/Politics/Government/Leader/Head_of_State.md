@@ -291,6 +291,7 @@ dv_has_:
     zh_sg: 国家元首
     zh_tw: 國家元首
 ---
+
 # [[Head_of_State]] 
 
 #is_/same_as :: [[WD~Head_of_state,48352]] 

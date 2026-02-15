@@ -153,6 +153,7 @@ dv_has_:
     zh: 随机变量
     zh_tw: 隨機變數
 ---
+
 # [[Random_Variable]] 
 
 #is_/same_as :: [[../../WikiData/WD~Random_variable,176623|WD~Random_variable,176623]]  

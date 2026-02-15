@@ -290,6 +290,7 @@ dv_has_:
     zh_tw: 形上學
     zu: IPhicamvelo
 ---
+
 # [[Metaphysic]] 
 
 #is_/same_as :: [[../WikiData/WD~Metaphysics,35277|WD~Metaphysics,35277]] 

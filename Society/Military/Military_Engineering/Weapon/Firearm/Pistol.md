@@ -231,6 +231,7 @@ dv_has_:
     zh_hk: 手槍
 Unicode_character: 🔫
 ---
+
 # [[Pistol]] 🔫 
 
 #is_/same_as :: [[WD~Pistol,1907525]] 

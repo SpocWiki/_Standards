@@ -238,6 +238,7 @@ dv_has_:
     yue: 約蓋拉
     zh: 雅盖沃
 ---
+
 # [[1362-Władysław_II_Jagiełło+1434]] 
 
 #is_/same_as :: [[../../../../../../../../../../WikiData/WD~Władysław_II_Jagiełło,54049|WD~Władysław_II_Jagiełło,54049]]  

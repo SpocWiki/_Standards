@@ -213,6 +213,7 @@ dv_has_:
     zh_hk: 奇勒·基寶
     zh-my: 奇勒·基宝
 ---
+
 # [[Gable,Clark]]
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Clark_Gable,71243|WD~Clark_Gable,71243]] 

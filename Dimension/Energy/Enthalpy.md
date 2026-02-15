@@ -165,6 +165,7 @@ dv_has_:
     zh_sg: 焓
     zh_tw: 焓
 ---
+
 # [[Enthalpy]] 
 
 #is_/same_as :: [[../../WikiData/WD~Enthalpy,161064|WD~Enthalpy,161064]] 

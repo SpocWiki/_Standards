@@ -200,6 +200,7 @@ dv_has_:
     yue: 魯姆蘇丹國
     zh: 魯姆蘇丹國
 ---
+
 # [[1077-Sultanate_of_Rum+1307]] 
 
 #is_/same_as :: [[../../../../../../../../../../WikiData/WD~Sultanate_of_Rum,975405|WD~Sultanate_of_Rum,975405]]  

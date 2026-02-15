@@ -264,6 +264,7 @@ dv_has_:
     zh: 赫尔曼·外尔
     zh_hant: 赫爾曼·外爾
 ---
+
 # [[Weyl,Hermann]] 
 
 #is_/same_as :: [[WD~Hermann_Weyl,71029]] 

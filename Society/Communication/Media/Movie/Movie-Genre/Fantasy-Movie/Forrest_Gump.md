@@ -166,6 +166,7 @@ aliases:
 - 阿甘正傳
 - 포레스트 검프
 ---
+
 # [[Forrest_Gump]]  
 
 ## #has_/text_of_/abstract 

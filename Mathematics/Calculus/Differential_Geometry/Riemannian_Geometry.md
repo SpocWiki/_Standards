@@ -116,6 +116,7 @@ dv_has_:
     zh_hant: 黎曼幾何
     zh_hk: 黎曼幾何
 ---
+
 # [[Riemannian_Geometry]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Riemannian_geometry,761383|WD~Riemannian_geometry,761383]]  

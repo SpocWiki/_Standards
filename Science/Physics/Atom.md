@@ -393,6 +393,7 @@ dv_has_:
     zh: 原子
     zu: IChwe
 ---
+
 # [[Atom]] ⚛ 
 
 #is_/same_as :: [[../../WikiData/WD~Atom,9121|WD~Atom,9121]] 

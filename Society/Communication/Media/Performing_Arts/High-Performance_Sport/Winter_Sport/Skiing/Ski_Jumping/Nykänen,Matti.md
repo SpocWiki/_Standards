@@ -146,6 +146,7 @@ dv_has_:
     zh: 馬蒂·尼凱寧
     zh_hant: 馬蒂·尼凱寧
 ---
+
 # [[Nykänen,Matti]] 
 
 #is_/same_as :: [[WD~Matti_Nykänen,16849]] 

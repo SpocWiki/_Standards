@@ -226,6 +226,7 @@ dv_has_:
     zh-my: 贝尔纳多·贝托鲁奇
     zh_sg: 贝尔纳多·贝托鲁奇
 ---
+
 # [[Bertolucci,Bernardo]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Bernardo_Bertolucci,53009|WD~Bernardo_Bertolucci,53009]] 

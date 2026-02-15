@@ -110,6 +110,7 @@ aliases:
 - 戰象
 - 전투 코끼리
 ---
+
 # [[War_Elephant]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~War_elephant,223694|WD~War_elephant,223694]]  

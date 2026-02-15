@@ -389,6 +389,7 @@ dv_has_:
     zh_hant: 夏爾·戴高樂
     zh_hk: 夏爾·戴高樂
 ---
+
 # [[de_Gaulle,Charles]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Charles_de_Gaulle,2042|WD~Charles_de_Gaulle,2042]] 

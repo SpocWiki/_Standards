@@ -541,6 +541,7 @@ dv_has_:
     zu: indlu
 Unicode_character: 🏡
 ---
+
 # [[House]] 🏡 
 
 Class of all houses.

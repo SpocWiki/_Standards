@@ -174,6 +174,7 @@ dv_has_:
     zh_sg: 电子排布
     zh_tw: 電子組態
 ---
+
 # [[Electron_Configuration]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Electron_configuration,53859|WD~Electron_configuration,53859]] 

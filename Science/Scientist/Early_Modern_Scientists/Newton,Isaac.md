@@ -516,6 +516,7 @@ dv_has_:
     zh_hk: 艾碩·牛頓
     zh_tw: 艾薩克·牛頓
 ---
+
 # [[Newton,Isaac]] 
 
 #has_/created :: [[Newton,Isaac/Philosophiæ_Naturalis_Principia_Mathematica|Philosophiæ_Naturalis_Principia_Mathematica]] 

@@ -224,6 +224,7 @@ dv_has_:
     zh_hk: 扭計骰
     zh_tw: 魔術方塊
 ---
+
 # [[Rubik's_Cube]] 
 
 #is_/same_as :: [[WD~Rubik's_Cube,47043]] 

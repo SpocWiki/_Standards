@@ -214,6 +214,7 @@ dv_has_:
     zh: 美术史
     zh_hant: 藝術史
 ---
+
 # [[Art_History]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Art_history,50637|WD~Art_history,50637]] 

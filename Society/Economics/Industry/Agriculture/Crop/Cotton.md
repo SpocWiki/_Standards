@@ -347,6 +347,7 @@ dv_has_:
     zh_hant: 棉花
     zh_hk: 棉花
 ---
+
 # [[Cotton]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Cotton,11457|WD~Cotton,11457]] 

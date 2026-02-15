@@ -74,6 +74,7 @@ aliases:
 - 世界大賽
 - 월드 시리즈
 ---
+
 # [[World_Series]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~World_Series,265538|WD~World_Series,265538]]  

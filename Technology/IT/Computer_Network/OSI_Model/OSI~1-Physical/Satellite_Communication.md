@@ -73,6 +73,7 @@ dv_has_:
     smn: satelliitviestâdem
     uk: супутниковий зв'язок
 ---
+
 # [[Satellite_Communication]] 
 
 #has_/creator :: [[../../../../Spaceflight/Communications_Satellite|Communications_Satellite]] 

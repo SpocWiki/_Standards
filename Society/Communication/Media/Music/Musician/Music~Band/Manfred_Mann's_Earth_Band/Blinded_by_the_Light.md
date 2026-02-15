@@ -21,6 +21,7 @@ aliases:
 - Blinded by the Light
 - 光で目もくらみ
 ---
+
 # [[Blinded_by_the_Light]] 
 
 

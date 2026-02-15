@@ -220,6 +220,7 @@ dv_has_:
     yue: 雙子星
     zh: 聯星
 ---
+
 # [[Binary_Star]] 
 
 #is_/same_as :: [[../../WikiData/WD~Binary_star,50053|WD~Binary_star,50053]] 

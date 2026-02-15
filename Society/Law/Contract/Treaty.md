@@ -247,6 +247,7 @@ dv_has_:
     zh_sg: 条约
     zh_tw: 條約
 ---
+
 # [[Treaty]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~treaty,131569]] 

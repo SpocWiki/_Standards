@@ -194,6 +194,7 @@ dv_has_:
     zh_sg: 公民权利及政治权利国际公约
     zh_tw: 公民與政治權利國際公約
 ---
+
 # [[ICCPR(International_Covenant_on_Civil_and_Political_Rights)]] 
 
 #is_/same_as :: [[WD~International_Covenant_on_Civil_and_Political_Rights,392119]] 

@@ -157,6 +157,7 @@ dv_has_:
     zh_sg: 事件视界
     zh_tw: 事件視界
 ---
+
 # [[Event_Horizon]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Event_horizon,181741|WD~Event_horizon,181741]] 

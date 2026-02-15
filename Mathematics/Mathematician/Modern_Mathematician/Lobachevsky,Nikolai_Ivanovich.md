@@ -246,6 +246,7 @@ dv_has_:
     zh_sg: 罗巴切夫斯基
     zh_tw: 羅巴切夫斯基
 ---
+
 # [[Lobachevsky,Nikolai_Ivanovich]] 
 
 #is_/same_as :: [[WD~Nikolai_Ivanovich_Lobachevsky,129199]] 

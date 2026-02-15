@@ -186,6 +186,7 @@ dv_has_:
     zh_sg: 伊斯兰哲学
     zh_tw: 伊斯蘭哲學
 ---
+
 # [[Islamic_Philosophy]] 
 
 #is_/same_as :: [[WD~Islamic_philosophy,193104]] 

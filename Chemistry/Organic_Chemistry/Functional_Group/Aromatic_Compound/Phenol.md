@@ -323,6 +323,7 @@ dv_is_same_as:
 - '[[/_personal/Chemistry/Organic_Chemistry/Aromatic_Compound/Phenol.personal|Phenol.personal]]'
 - '[[/_secret/Chemistry/Organic_Chemistry/Aromatic_Compound/Phenol.secret|Phenol.secret]]'
 ---
+
 # [[Phenol]] 
 
 has_formula_sum = `=this.dv_has_formula_sum` 

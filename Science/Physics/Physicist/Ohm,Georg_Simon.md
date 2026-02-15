@@ -237,6 +237,7 @@ dv_has_:
     zh_sg: 格奥尔格·欧姆
     zh_tw: 蓋歐格·歐姆
 ---
+
 # [[Ohm,Georg_Simon]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Georg_Simon_Ohm,1585|WD~Georg_Simon_Ohm,1585]] 

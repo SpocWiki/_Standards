@@ -109,6 +109,7 @@ dv_has_:
     yue: 隨機對照試驗
     zh: 随机对照试验
 ---
+
 # [[Randomized_controlled_Trial]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Randomized_controlled_trial,1436668|WD~Randomized_controlled_trial,1436668]]  

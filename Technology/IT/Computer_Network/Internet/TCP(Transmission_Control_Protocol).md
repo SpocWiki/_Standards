@@ -116,6 +116,7 @@ aliases:
 - 傳輸控制協議
 - 전송 제어 프로토콜
 ---
+
 # [[TCP(Transmission_Control_Protocol)]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Transmission_Control_Protocol,8803|WD~Transmission_Control_Protocol,8803]]  

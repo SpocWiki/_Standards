@@ -267,6 +267,7 @@ dv_has_:
     zh_tw: 拉馬拉
     zu: i-Ramallah
 ---
+
 # [[Ramallah]] 
 
 #is_/same_as  :: [[../../../../../WikiData/WD~Ramallah,158119|WD~Ramallah,158119]] 

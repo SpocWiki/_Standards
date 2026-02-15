@@ -130,6 +130,7 @@ aliases:
 - 聖像破壞主義
 - 성상 파괴 운동
 ---
+
 # [[Iconoclasm]] 
 
 #is_/same_as :: [[WD~Iconoclasm,181543]] 

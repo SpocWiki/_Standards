@@ -122,6 +122,7 @@ aliases:
 - 法蘭西斯·福山
 - 프랜시스 후쿠야마
 ---
+
 # [[Fukuyama,Francis]]  
 
 #has_/time_/started :: 1952-10-27 

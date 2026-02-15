@@ -172,6 +172,7 @@ dv_has_:
     zh_sg: 综合症
     zh_tw: 症候群
 ---
+
 # [[Syndrome]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Syndrome,179630|WD~Syndrome,179630]]  

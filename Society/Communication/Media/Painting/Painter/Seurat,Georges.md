@@ -297,6 +297,7 @@ dv_has_:
     zh: 喬治·皮埃尔·秀拉
     zu: Georges Seurat
 ---
+
 # [[Seurat,Georges]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Georges_Seurat,34013|WD~Georges_Seurat,34013]]  

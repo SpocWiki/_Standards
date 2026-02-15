@@ -260,6 +260,7 @@ dv_has_:
     zh_sg: 哈里特·伊丽莎白·比彻·斯托
     zh_tw: 哈里特·伊莉莎白·比徹·斯托
 ---
+
 # [[Beecher_Stowe,Harriet]] 
 
 #is_/same_as :: [[WikiData/WD~Harriet_Beecher_Stowe,102513|WD~Harriet_Beecher_Stowe,102513]] 

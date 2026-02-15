@@ -164,6 +164,7 @@ dv_has_:
     zh_sg: 赎罪日
     zh_tw: 贖罪日
 ---
+
 # [[Yom_Kippur]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Yom_Kippur,132994|WD~Yom_Kippur,132994]] 

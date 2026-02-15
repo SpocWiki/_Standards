@@ -121,6 +121,7 @@ aliases:
 - 吉布斯自由能
 - 기브스 자유 에너지
 ---
+
 # [[Gibbs_free_Energy]] 
 
 #is_/same_as :: [[../../WikiData/WD~Gibbs_free_energy,334631|WD~Gibbs_free_energy,334631]] 

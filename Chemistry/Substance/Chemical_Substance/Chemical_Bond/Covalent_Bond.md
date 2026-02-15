@@ -236,6 +236,7 @@ dv_has_:
     zh_sg: 共价键
     zh_tw: 共價鍵
 ---
+
 # [[Covalent_Bond]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Covalent_bond,127920|WD~Covalent_bond,127920]] 

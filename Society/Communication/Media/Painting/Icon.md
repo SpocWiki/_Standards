@@ -181,6 +181,7 @@ dv_has_:
     zh_sg: 圣像画
     zh_tw: 聖像畫
 ---
+
 # [[Icon]] 
 
 #is_/different_from :: [[../../../../Technology/IT/Software/Interface/User_Interface/GUI(Graphical_User_Interface)/Icon(Computing)]]  

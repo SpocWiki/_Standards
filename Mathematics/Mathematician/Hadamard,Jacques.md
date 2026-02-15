@@ -195,6 +195,7 @@ dv_has_:
     zh_sg: 雅克·阿达马
     zh_tw: 雅克·阿達馬
 ---
+
 # [[Hadamard,Jacques]] 
 
 #is_/same_as :: [[WD~Jacques_Hadamard,164425]] 

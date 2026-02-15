@@ -70,6 +70,7 @@ aliases:
 - 阿爾斯通公司
 - 알스톰
 ---
+
 # [[Alstom]] 
 
 > **Alstom** SA is a French multinational rolling stock manufacturer 

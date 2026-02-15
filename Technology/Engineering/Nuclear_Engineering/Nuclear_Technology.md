@@ -139,6 +139,7 @@ dv_has_:
     zh_hans: 核技术
     zh_hant: 核技術
 ---
+
 # [[Nuclear_Technology]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Nuclear_technology,348091]] 

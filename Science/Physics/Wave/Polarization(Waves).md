@@ -145,6 +145,7 @@ dv_has_:
     zh_tw: 偏振
     zu: Ukuluthuzeka
 ---
+
 # [[Polarization(Waves)]] 
 
 #is_/same_as :: [[WD~Polarization,193760]] 

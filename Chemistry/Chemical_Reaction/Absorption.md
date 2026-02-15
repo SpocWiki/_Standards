@@ -148,6 +148,7 @@ dv_has_:
     vi: Hấp thụ
     zh: 吸收
 ---
+
 # [[Absorption]]  
 
 is_different_from = `=this.dv_is_different_from` 

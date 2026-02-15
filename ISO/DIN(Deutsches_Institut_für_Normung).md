@@ -133,6 +133,7 @@ dv_has_:
     zh_sg: 德国标准化学会
     zh_tw: 德國標準化學會
 ---
+
 # [[DIN(Deutsches_Institut_für_Normung)]] 
 
 #is_/same_as :: [[../WikiData/WD~Deutsches_Institut_für_Normung,152746|WD~Deutsches_Institut_für_Normung,152746]] 

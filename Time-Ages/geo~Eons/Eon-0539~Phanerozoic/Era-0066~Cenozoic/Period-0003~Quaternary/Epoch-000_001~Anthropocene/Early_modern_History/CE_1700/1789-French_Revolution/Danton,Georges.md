@@ -188,6 +188,7 @@ dv_has_:
     zh-sg: 乔治·雅克·丹敦
     zh-tw: 喬治·雅克·丹敦
 ---
+
 # [[Danton,Georges]] 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Georges_Danton,184623|WD~Georges_Danton,184623]] 

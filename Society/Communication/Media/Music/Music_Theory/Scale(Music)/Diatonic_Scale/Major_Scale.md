@@ -97,6 +97,7 @@ dv_has_:
     yue: 大調
     zh: 自然大调
 ---
+
 # [[Major_Scale]]  
 
 #is_/same_as :: [[WD~Major,58795659]] 

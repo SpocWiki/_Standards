@@ -137,6 +137,7 @@ dv_has_:
     yue: 微積分基本定理
     zh: 微积分基本定理
 ---
+
 # [[Fundamental_Theorem_of_Calculus]] 
 
 #is_/same_as :: [[../../WikiData/WD~Fundamental_theorem_of_calculus,1217677|WD~Fundamental_theorem_of_calculus,1217677]] 

@@ -66,6 +66,7 @@ dv_has_:
     uk: Пол Стенлі
     zh: 保羅·史丹利
 ---
+
 # [[Stanley,Paul]]  
 
 #has_/time_/started :: 1952-01-20 

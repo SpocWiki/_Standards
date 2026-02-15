@@ -58,6 +58,7 @@ dv_has_:
     uk: Елвін Бруно Крістоффель
     zh: 埃尔温·布鲁诺·克里斯托费尔
 ---
+
 # [[Christoffel,Elwin_Bruno]]  
 
 ## #has_/text_of_/abstract 

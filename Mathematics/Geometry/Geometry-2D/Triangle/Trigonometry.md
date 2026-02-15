@@ -271,6 +271,7 @@ dv_has_:
     yue: 三角學
     zh: 三角学
 ---
+
 # [[Trigonometry]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Trigonometry,8084|WD~Trigonometry,8084]] 

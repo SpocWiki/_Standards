@@ -68,6 +68,7 @@ dv_has_:
     vi: Laser electron tự do
     zh: 自由电子激光器
 ---
+
 # [[Free-Electron_Laser]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Free-electron_laser,586386|WD~Free-electron_laser,586386]] 

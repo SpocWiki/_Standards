@@ -194,6 +194,7 @@ dv_has_:
     zgh: ⵜⴰⴽⵙⵍⵉ ⵏ ⵜⵥⴹⴰⵔⵜ ⵏ ⵜⵉⵙⵖⵉ
     zh: 购买力平价
 ---
+
 # [[PPP(Purchasing_Power_Parity)]] 
 
 #is_/same_as :: 

@@ -91,6 +91,7 @@ dv_has_:
     zh_hant: 克爾效應
     zh_hk: 克爾效應
 ---
+
 # [[Kerr_Effect]] 
 
 #is_/same_as :: [[WD~Kerr_effect,883038]] 

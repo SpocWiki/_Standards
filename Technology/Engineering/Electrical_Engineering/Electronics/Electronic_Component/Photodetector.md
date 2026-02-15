@@ -101,6 +101,7 @@ dv_has_:
     zh: 光度感應器
     zu: Isihlongabane
 ---
+
 # [[Photodetector]] 
 
 #is_/same_as :: [[WD~Photodetector,210765]] 

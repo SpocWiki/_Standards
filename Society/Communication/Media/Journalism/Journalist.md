@@ -421,6 +421,7 @@ dv_has_:
     zh_tw: 新聞工作者
     zu: intatheli
 ---
+
 # [[Journalist]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~journalist,1930187]]

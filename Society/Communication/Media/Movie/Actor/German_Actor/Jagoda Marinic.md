@@ -30,6 +30,7 @@ aliases:
 - Jagoda Marinićová
 - چاجودا مارينيك
 ---
+
 # [[Jagoda Marinic]]  
 
 ## #has_/text_of_/abstract 

@@ -87,6 +87,7 @@ dv_has_:
     zh-sg: 威尔金森微波各向异性探测器
     zh-tw: 威爾金森微波各向異性探測器
 ---
+
 # [[WMAP(Wilkinson_Microwave_Anisotropy_Probe)]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Wilkinson_Microwave_Anisotropy_Probe,274106|WD~Wilkinson_Microwave_Anisotropy_Probe,274106]]   

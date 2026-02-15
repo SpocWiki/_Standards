@@ -183,6 +183,7 @@ dv_has_:
     zh_sg: 薛定谔方程
     zh_tw: 薛丁格方程式
 ---
+
 # [[Schrödinger_Equation]] 
 
 #is_/same_as :: [[WD~Schrödinger_equation,165498]] 

@@ -117,6 +117,7 @@ dv_has_:
     yue: 菲涅爾透鏡
     zh: 菲涅耳透鏡
 ---
+
 # [[Fresnel_Lens]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Fresnel_lens,14672|WD~Fresnel_lens,14672]] 

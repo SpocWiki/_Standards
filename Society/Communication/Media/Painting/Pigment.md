@@ -153,6 +153,7 @@ dv_has_:
     zh_sg: 色素
     zh_tw: 色素
 ---
+
 # [[Pigment]] 
 
 #is_/same_as :: [[Dye]] 

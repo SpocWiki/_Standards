@@ -340,6 +340,7 @@ dv_is_same_as:
 - '[[/_personal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Methane.personal|Methane.personal]]'
 - '[[/_secret/Chemistry/Organic_Chemistry/Hydrocarbon/Alkane/Methane.secret|Methane.secret]]'
 ---
+
 # [[Methane]] 
 
 has_formula_sum = `=this.dv_has_formula_sum` 

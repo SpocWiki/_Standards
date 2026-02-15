@@ -104,6 +104,7 @@ dv_has_:
     yue: 恆星磁場
     zh: 恆星磁場
 ---
+
 # [[Stellar_magnetic_Field]] 
 
 #is_/same_as :: [[../../WikiData/WD~Stellar_magnetic_field,6449|WD~Stellar_magnetic_field,6449]]  

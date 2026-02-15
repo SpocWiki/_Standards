@@ -33,6 +33,7 @@ aliases:
 - HyperTalk
 - 하이퍼토크
 ---
+
 # [[HyperTalk]] 
 
 #is_a_/ComputerLanguage 

@@ -230,6 +230,7 @@ dv_has_:
     zh: 美西戰爭
     zh-hans: 美西战争
 ---
+
 # [[1898-Spanish–American_War]]
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Spanish–American_War,12583|WD~Spanish–American_War,12583]] 

@@ -104,6 +104,7 @@ aliases:
 - 카피레프트
 Unicode_character: 🄯
 ---
+
 # [[Copyleft]] 🄯 
 
 #has_/creator :: [[../../../Technology/IT/Software/Computer_Programming/Programmers/Stallman,Richard]] 

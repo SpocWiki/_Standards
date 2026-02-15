@@ -266,6 +266,7 @@ dv_has_:
     zh_sg: 约翰内斯·迪德里克·范德瓦耳斯
     zh_tw: 約翰尼斯·迪德里克·凡得瓦
 ---
+
 # [[van_der_Waals,Johannes_Diderik]] 
 
 #is_/same_as :: [[WD~Johannes_Diderik_van_der_Waals,131721]] 

@@ -418,6 +418,7 @@ dv_has_:
     zu: umakhalekhukhwini
 Unicode_character: 📱
 ---
+
 # [[Mobile_Phone]] 📱 
 
 

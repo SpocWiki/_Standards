@@ -197,6 +197,7 @@ dv_has_:
     zh_sg: 奥勒·罗默
     zh_tw: 奧勒·羅默
 ---
+
 # [[Rømer,Ole]] 
 
 #is_/same_as :: [[WD~Ole_Rømer,160187]] 

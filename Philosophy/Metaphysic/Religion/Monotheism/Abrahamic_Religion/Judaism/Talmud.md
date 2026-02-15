@@ -171,6 +171,7 @@ dv_has_:
     zea: Talmoed
     zh: 塔木德
 ---
+
 # [[Talmud]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Talmud,43290|WD~Talmud,43290]]  

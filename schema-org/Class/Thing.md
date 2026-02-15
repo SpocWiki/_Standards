@@ -301,6 +301,7 @@ dv_has_properties:
 - '[[../Relation/is/is_subject_of|is_subject_of]]'
 - '[[../Property/has_url_for/has_url|has_url]]'
 ---
+
 # [[Thing]]s/Entities/Objects/Instances/Resources 
 
 #is_/same_as :: [[WD~Entity,35120]] 

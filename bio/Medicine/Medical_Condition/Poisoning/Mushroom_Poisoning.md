@@ -118,6 +118,7 @@ dv_has_:
     yue: 菇類中毒
     zh: 蕈類中毒
 ---
+
 # [[Mushroom_Poisoning]] 
 
 #is_/same_as :: [[WD~Mushroom_poisoning,852186]] 

@@ -213,6 +213,7 @@ dv_has_:
     zh_sg: 权力分立
     zh_tw: 權力分立
 ---
+
 # [[Separation_of_Powers]] 
 
 #has_/creator :: [[../../../Philosophy/Philosopher/Early_modern_Philosopher/Montesquieu|Montesquieu]] 

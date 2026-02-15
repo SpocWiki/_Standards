@@ -198,6 +198,7 @@ dv_has_:
     zh_hant: 傷口
     zh_tw: 傷口
 ---
+
 # [[Wound]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Wound,184753|WD~Wound,184753]]  

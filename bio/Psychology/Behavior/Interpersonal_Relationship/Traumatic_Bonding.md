@@ -40,6 +40,7 @@ dv_has_:
     sv: traumabindning
     uk: Травматична прив'язаність
 ---
+
 # [[Traumatic_Bonding]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~traumatic_bonding,17143762]] 

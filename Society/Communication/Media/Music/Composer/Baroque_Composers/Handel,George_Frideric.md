@@ -351,6 +351,7 @@ dv_has_:
     zh_hk: 紀岳·費德里希·韓德爾
     zh_tw: 蓋歐格·弗里德里希·韓德爾
 ---
+
 # [[Handel,George_Frideric]] 
 
 #has_/duration  :: `=(default(this.has_time_stopped, date(now)) - this.has_time_started)` 

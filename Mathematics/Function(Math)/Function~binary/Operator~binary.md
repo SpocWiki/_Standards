@@ -57,6 +57,7 @@ dv_has_:
     uk: бінарний оператор
     vi: toán tử hai ngôi
 ---
+
 # [[Operator~binary]] 
 
 #has_/parent_class :: [[../Function~binary|Function~binary]] 

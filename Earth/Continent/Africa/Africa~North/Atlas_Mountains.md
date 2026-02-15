@@ -232,6 +232,7 @@ dv_has_:
     zh_sg: 阿特拉斯山脉
     zh_tw: 阿特拉斯山脈
 ---
+
 # [[Atlas_Mountains]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Atlas_Mountains,130135|WD~Atlas_Mountains,130135]] 

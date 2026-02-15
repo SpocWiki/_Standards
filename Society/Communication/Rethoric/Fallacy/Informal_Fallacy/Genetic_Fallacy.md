@@ -64,6 +64,7 @@ dv_has_:
     zh_hant: 起源謬誤
     zh_hk: 起源謬誤
 ---
+
 # [[Genetic_Fallacy]] 
 
 #is_/same_as :: [[WD~Genetic_Fallacy,1202868]] 

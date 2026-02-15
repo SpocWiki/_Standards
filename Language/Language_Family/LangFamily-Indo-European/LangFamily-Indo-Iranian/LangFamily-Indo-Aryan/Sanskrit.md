@@ -455,6 +455,7 @@ dv_has_:
     zh_hant: 梵語
     zh_tw: 梵語
 ---
+
 # [[Sanskrit]] 
 
 #is_/same_as :: [[WD~Sanskrit,11059]] 

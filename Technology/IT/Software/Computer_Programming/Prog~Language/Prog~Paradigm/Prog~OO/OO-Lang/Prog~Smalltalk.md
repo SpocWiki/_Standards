@@ -71,6 +71,7 @@ aliases:
 - ꠁꠍꠝꠟꠐꠇ
 - 스몰토크
 ---
+
 # [[Prog~Smalltalk]] 
 
 #is_a_/ComputerLanguage 

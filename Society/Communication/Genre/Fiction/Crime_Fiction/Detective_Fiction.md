@@ -165,6 +165,7 @@ dv_has_:
     zh_sg: 推理作品
     zh_tw: 推理作品
 ---
+
 # [[Detective_Fiction]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Detective_fiction,186424|WD~Detective_fiction,186424]] 

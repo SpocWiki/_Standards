@@ -162,6 +162,7 @@ dv_has_:
     zh_sg: 恒星光谱
     zh_tw: 恆星光譜
 ---
+
 # [[Spectral_Class]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Spectral_class,179600|WD~Spectral_class,179600]]  

@@ -322,6 +322,7 @@ dv_has_:
     zh_hant: 床
     zh_hk: 牀
 ---
+
 # [[Bed]] 🛏 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Bed,42177|WD~Bed,42177]] 

@@ -127,6 +127,7 @@ dv_has_:
     yue: 學院派
     zh: 學院藝術
 ---
+
 # [[Academic_Art]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Academic_art,189458]] 

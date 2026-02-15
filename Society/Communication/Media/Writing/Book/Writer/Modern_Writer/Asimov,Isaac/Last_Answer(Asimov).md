@@ -24,6 +24,7 @@ aliases:
 - Остання відповідь
 - 最後の解答
 ---
+
 # [[Last_Answer(Asimov)]] 
 
 

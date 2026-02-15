@@ -477,6 +477,7 @@ booru_tag: falkland_islands
 hashtag_: falklands
 Unicode_character: 🇫🇰
 ---
+
 # [[Falkland~Islands]] 🇫🇰 
 
 

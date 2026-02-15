@@ -232,6 +232,7 @@ dv_has_:
     zh_hans: 皮耶罗·德拉·弗朗西斯卡
     zh_hant: 皮耶羅·德拉·弗朗西斯卡
 ---
+
 # [[Piero_della_Francesca]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Piero_della_Francesca,5822|WD~Piero_della_Francesca,5822]]  

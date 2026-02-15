@@ -333,6 +333,7 @@ dv_has_:
     zh_sg: 牛肉
     zh_tw: 牛肉
 ---
+
 # [[Beef]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Beef,192628|WD~Beef,192628]] 

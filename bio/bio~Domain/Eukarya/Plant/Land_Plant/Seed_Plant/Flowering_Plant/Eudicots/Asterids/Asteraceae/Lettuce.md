@@ -310,6 +310,7 @@ dv_has_:
     zh_hant: 莴苣
     zh_tw: 萵苣
 ---
+
 # [[Lettuce]] 
 
 #is_/same_as :: [[WD~Lettuce,83193]] 

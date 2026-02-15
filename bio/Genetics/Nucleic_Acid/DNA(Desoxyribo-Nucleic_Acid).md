@@ -287,6 +287,7 @@ dv_has_:
     zu: uLibofuzo
 Unicode_character: 🧬
 ---
+
 # [[DNA(Desoxyribo-Nucleic_Acid)]] 🧬 
 
 #is_/same_as :: [[../../../WikiData/WD~DNA,7430|WD~DNA,7430]] 

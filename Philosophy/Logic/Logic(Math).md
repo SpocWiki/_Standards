@@ -205,6 +205,7 @@ dv_has_:
     zh: 数理逻辑
     zh_tw: 數理邏輯
 ---
+
 # [[Logic(Math)]] 
 
 #is_/same_as :: [[WD~Mathematical_logic,1166618]] 

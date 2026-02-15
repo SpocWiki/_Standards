@@ -404,6 +404,7 @@ dv_is_same_as:
 - '[[/_secret/Earth/Geology/Landform/Volcano.secret|Volcano.secret]]'
 Unicode_character: 🌋
 ---
+
 # [[Volcano]] 🌋 
 
 

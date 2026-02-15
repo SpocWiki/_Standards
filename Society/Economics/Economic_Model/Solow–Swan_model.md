@@ -55,6 +55,7 @@ aliases:
 - 索洛模型
 - 신고전학파 성장 이론
 ---
+
 # [[Solow–Swan_model]] 
 
 

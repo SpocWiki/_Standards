@@ -502,6 +502,7 @@ dv_is_same_as:
 - '[[/_personal/Earth/Continent/America~North/USA/US_President/Lincoln,Abraham.personal|Lincoln,Abraham.personal]]'
 - '[[/_secret/Earth/Continent/America~North/USA/US_President/Lincoln,Abraham.secret|Lincoln,Abraham.secret]]'
 ---
+
 # [[Lincoln,Abraham]] 
 
 is_part_of = `=this.dv_is_part_of`

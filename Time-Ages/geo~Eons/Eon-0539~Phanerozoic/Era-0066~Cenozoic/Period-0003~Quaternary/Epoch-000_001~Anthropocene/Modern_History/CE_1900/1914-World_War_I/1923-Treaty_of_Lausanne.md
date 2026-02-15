@@ -203,6 +203,7 @@ dv_has_:
     zh-sg: 洛桑条约
     zh-tw: 洛桑條約
 ---
+
 # [[1923-Treaty_of_Lausanne]] 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Treaty_of_Lausanne,193258|WD~Treaty_of_Lausanne,193258]]  

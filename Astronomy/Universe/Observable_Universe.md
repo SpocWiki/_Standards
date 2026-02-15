@@ -198,6 +198,7 @@ dv_has_:
     zh_sg: 可观测宇宙
     zh_tw: 可觀測宇宙
 ---
+
 # [[Observable_Universe]] 
 
 #is_/same_as :: [[WD~Observable_universe,221392]] 

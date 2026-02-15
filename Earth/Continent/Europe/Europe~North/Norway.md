@@ -1090,6 +1090,7 @@ Wolfram_Language_entity_code:
 - Entity["HistoricalCountry", "MedievalKingdomOfNorway"]
 Unicode_character: 🇳🇴
 ---
+
 # [[Norway]] 🇳🇴 
 
 

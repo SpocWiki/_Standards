@@ -183,6 +183,7 @@ dv_has_:
     zh_cn: 人物
     zh_hans: 人物杂志
 ---
+
 # [[People(Magazine)]] 
 
 #is_/same_as :: [[WD~People,33659]] 

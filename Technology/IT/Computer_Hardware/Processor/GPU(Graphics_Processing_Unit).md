@@ -148,6 +148,7 @@ aliases:
 - 圖形處理器
 - 그래픽 처리 장치
 ---
+
 # [[GPU(Graphics_Processing_Unit)]]  
 
 GPUs like Nvidias RTX A500 can run Neural Loads, but at a much higher Power Consumption, 

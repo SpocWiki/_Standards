@@ -170,6 +170,7 @@ dv_has_:
     zh_sg: 室内设计
     zh_tw: 室內設計
 ---
+
 # [[Interior_Design]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~interior_design,179232]] 

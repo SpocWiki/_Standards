@@ -292,6 +292,7 @@ dv_has_:
     zh_hant: 遺傳學
     zh_tw: 遺傳學
 ---
+
 # [[Genetics]] 
 
 #is_/same_as :: [[../WikiData/WD~Genetics,7162|WD~Genetics,7162]] 

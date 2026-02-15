@@ -186,6 +186,7 @@ dv_has_:
     zh_sg: 数量积
     zh_tw: 內積
 ---
+
 # [[Scalar_Product]] 
 
 #is_/same_as :: [[WD~Scalar_product,181365]] 

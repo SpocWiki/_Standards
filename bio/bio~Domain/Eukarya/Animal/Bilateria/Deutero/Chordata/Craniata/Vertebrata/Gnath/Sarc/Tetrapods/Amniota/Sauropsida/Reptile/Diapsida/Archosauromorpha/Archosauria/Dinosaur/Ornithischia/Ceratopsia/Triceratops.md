@@ -162,6 +162,7 @@ dv_has_:
     zh_hans: 三角龙属
     zh_tw: 三角龍屬
 ---
+
 # [[Triceratops]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Triceratops,14384|WD~Triceratops,14384]]  

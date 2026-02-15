@@ -423,6 +423,7 @@ dv_has_:
     zh_tw: 技術
     zu: ubuchwepheshe
 ---
+
 # [[Technology]] 
 
 #is_/same_as :: [[WikiData/WD~Technology,11016|WD~Technology,11016]] 

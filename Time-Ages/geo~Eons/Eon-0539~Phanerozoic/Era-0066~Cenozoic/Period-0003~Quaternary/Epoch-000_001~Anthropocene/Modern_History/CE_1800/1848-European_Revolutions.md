@@ -179,6 +179,7 @@ dv_has_:
     yue: 1848年革命
     zh: 1848年革命
 ---
+
 # [[1848-European_Revolutions]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~European_Revolutions_of_1848,3588|WD~European_Revolutions_of_1848,3588]]

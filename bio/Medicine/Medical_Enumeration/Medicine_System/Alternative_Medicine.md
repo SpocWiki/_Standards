@@ -171,6 +171,7 @@ dv_has_:
     zh_sg: 替代医学
     zh_tw: 替代醫學
 ---
+
 # [[Alternative_Medicine]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Alternative_medicine,188504]] 

@@ -61,6 +61,7 @@ aliases:
 - 超级流浪汉
 - 슈퍼트램프
 ---
+
 # [[Supertramp]]  
 
 > **Supertramp** were a British rock band that formed in London in 1970. 

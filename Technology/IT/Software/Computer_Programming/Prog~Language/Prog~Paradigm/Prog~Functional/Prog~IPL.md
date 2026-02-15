@@ -27,6 +27,7 @@ aliases:
 - 資訊處理語言
 - 정보 처리 언어
 ---
+
 # [[Prog~IPL]] 
 
 #is_a_/ComputerLanguage 

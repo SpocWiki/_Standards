@@ -60,6 +60,7 @@ dv_has_:
     zh_hant: 訴諸後果
     zh_hk: 訴諸後果
 ---
+
 # [[Appeal_to_Consequences]] 
 
 #is_/same_as :: [[WD~Appeal_to_Consequences,777000]] 

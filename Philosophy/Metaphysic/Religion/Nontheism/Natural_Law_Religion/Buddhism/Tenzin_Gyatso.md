@@ -345,6 +345,7 @@ dv_has_:
     zh_hans: 第十四世达赖喇嘛
     zh_hant: 達賴喇嘛十四世
 ---
+
 # [[Tenzin_Gyatso]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Tenzin_Gyatso,17293|WD~Tenzin_Gyatso,17293]]  

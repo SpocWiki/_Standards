@@ -170,6 +170,7 @@ dv_has_:
     zh_sg: 印度哲学
     zh_tw: 印度哲學
 ---
+
 # [[Indian_Philosophy]] 
 
 #is_/same_as :: [[WikiData/WD~Indian_philosophy,376022|WD~Indian_philosophy,376022]] 

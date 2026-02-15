@@ -150,6 +150,7 @@ dv_has_:
     zh_hans: 斯特兰蒂斯
     zh_hant: Stellantis 斯泰蘭蒂斯
 ---
+
 # [[Stellantis]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Stellantis,97439162|WD~Stellantis,97439162]] 

@@ -212,6 +212,7 @@ dv_has_:
     zh_sg: 汉谟拉比法典
     zh_tw: 漢謨拉比法典
 ---
+
 # [[Code_of_Hammurabi]] 
 
 #has_/created_/quote :: to prevent the strong from oppressing the weak 

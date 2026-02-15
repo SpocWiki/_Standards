@@ -174,6 +174,7 @@ dv_has_:
     zh_sg: 图
     zh_tw: 圖
 ---
+
 # [[Graph(Math)]] 
 
 #is_/same_as ::[[../../WikiData/WD~Graph,141488|WD~Graph,141488]] 

@@ -82,6 +82,7 @@ dv_has_:
     zh: 軋棉機
     zh_hant: 軋棉機
 ---
+
 # [[Cotton_Gin]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Cotton_gin,1136790|WD~Cotton_gin,1136790]] 

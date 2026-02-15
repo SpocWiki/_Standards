@@ -263,6 +263,7 @@ dv_has_:
     yue: 科普特文
     zh: 科普特语
 ---
+
 # [[Coptic_language]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Coptic,36155|WD~Coptic,36155]] 

@@ -220,6 +220,7 @@ dv_has_:
     yue: 歐姆定律
     zh: 欧姆定律
 ---
+
 # [[Ohm's_Law]] 
 
 #is_/same_as :: [[WD~Ohm's_law,41591]] 

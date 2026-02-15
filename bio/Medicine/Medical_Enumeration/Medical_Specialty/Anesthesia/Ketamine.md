@@ -228,6 +228,7 @@ dv_has_:
     zh_sg: 氯胺酮
     zh_tw: 氯胺酮
 ---
+
 # [[Ketamine]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~(RS)_ketamine,243547|WD~(RS)_ketamine,243547]]  

@@ -113,6 +113,7 @@ dv_has_:
     yue: 圖騰主義
     zh: 圖騰主義
 ---
+
 # [[Totemism]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Totemism,947965|WD~Totemism,947965]]  

@@ -228,6 +228,7 @@ dv_has_:
     zh: 愛德華·詹納
     zh_hans: 爱德华·琴纳
 ---
+
 # [[Jenner,Edward]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Edward_Jenner,40852|WD~Edward_Jenner,40852]] 

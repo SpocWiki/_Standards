@@ -155,6 +155,7 @@ dv_has_:
     yue: 集體絕種
     zh: 生物集群灭绝
 ---
+
 # [[Extinction_Event]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Extinction_event,55814|WD~Extinction_event,55814]] 

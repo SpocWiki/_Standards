@@ -103,6 +103,7 @@ dv_has_:
     zh_hans: 戈登·古尔德
     zh_hant: 戈登·古爾德
 ---
+
 # [[Gould,Gordon]] 
 
 #is_/same_as :: [[../../WikiData/WD~Gordon_Gould,546175|WD~Gordon_Gould,546175]]  

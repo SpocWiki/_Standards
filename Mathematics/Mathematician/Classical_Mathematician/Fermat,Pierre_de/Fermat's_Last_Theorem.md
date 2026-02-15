@@ -198,6 +198,7 @@ dv_has_:
     zh_sg: 费马大定理
     zh_tw: 費馬大定理
 ---
+
 # [[Fermat's_Last_Theorem]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Fermat's_Last_Theorem,132469|WD~Fermat's_Last_Theorem,132469]] 

@@ -331,6 +331,7 @@ dv_has_:
     zh_hans: 贫穷
     zh_hant: 貧窮
 ---
+
 # [[Poverty]] 
 
 #is_/same_as :: [[WD~Poverty,10294]] 

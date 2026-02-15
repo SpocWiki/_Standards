@@ -469,6 +469,7 @@ dv_has_:
     zh_tw: 大蒜
     zu: UmVithu
 ---
+
 # [[Allium_Sativum]] 
 
 #is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Garlic_(allium_sativum),23400|WD~Garlic_(allium_sativum),23400]] 

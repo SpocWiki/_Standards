@@ -288,6 +288,7 @@ dv_has_:
     zh_hans: 亨德里克·洛伦兹
     zh_hant: 亨德里克·洛倫茲
 ---
+
 # [[Lorentz,Hendrik]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Hendrik_Lorentz,41688|WD~Hendrik_Lorentz,41688]] 

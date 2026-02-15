@@ -130,6 +130,7 @@ dv_has_:
     zh_sg: 约翰内斯·里德伯
     zh_tw: 約翰內斯·里德伯
 ---
+
 # [[Rydberg,Johannes]] 
 
 #is_a :: [[../Physicist|Physicist]] 

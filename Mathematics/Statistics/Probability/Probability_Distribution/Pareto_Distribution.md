@@ -79,6 +79,7 @@ dv_has_:
     zh_hant: 帕累托分布
     zh_hk: 帕累托分佈
 ---
+
 # [[Pareto_Distribution]] 
 
 #has_/formula_/distribution :: $α x_min^α / x^(α + 1)$ = $\frac {\alpha x_{\mathrm {m} }^{\alpha }}{x^{\alpha +1}}$  for x > x_min and α > 0 

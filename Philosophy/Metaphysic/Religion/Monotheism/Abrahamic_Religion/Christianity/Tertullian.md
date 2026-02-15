@@ -166,6 +166,7 @@ dv_has_:
     zh_sg: 特土良
     zh_tw: 特土良
 ---
+
 # [[Tertullian]]  
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Tertullian,174929|WD~Tertullian,174929]]  

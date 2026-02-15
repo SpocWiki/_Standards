@@ -231,6 +231,7 @@ dv_has_:
     zh_hant: 歐洲足球錦標賽
     zh_tw: 歐洲足球錦標賽
 ---
+
 # [[UEFA_European_Championship]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~UEFA_European_Championship,260858|WD~UEFA_European_Championship,260858]]  

@@ -210,6 +210,7 @@ dv_has_:
     zh_sg: 欧几里得几何
     zh_tw: 歐幾里得幾何
 ---
+
 # [[Euclidean_Geometry]] 
 
 #is_/same_as :: [[../../WikiData/WD~Euclidean_geometry,162886|WD~Euclidean_geometry,162886]] 

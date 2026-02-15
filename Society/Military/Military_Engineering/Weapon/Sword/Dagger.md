@@ -169,6 +169,7 @@ dv_has_:
     zh_tw: 匕首
 Unicode_character: 🗡
 ---
+
 # [[Dagger]] 🗡 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Dagger,182780|WD~Dagger,182780]] 

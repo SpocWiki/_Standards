@@ -329,6 +329,7 @@ dv_has_:
     zh: 麥可·法拉第
     zh_hk: 米高·法拉第
 ---
+
 # [[Faraday,Michael]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Michael_Faraday,8750|WD~Michael_Faraday,8750]] 

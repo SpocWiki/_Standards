@@ -17,6 +17,7 @@ dv_is_same_as:
   - "[[/_personal/Earth/Ocean/Ocean~Pacific/Pacific~West.personal|Pacific~West.personal]]"
   - "[[/_secret/Earth/Ocean/Ocean~Pacific/Pacific~West.secret|Pacific~West.secret]]"
 ---
+
 # [[Pacific~West]] 
 
 The Western Part of the Pacific extends from East Asia 

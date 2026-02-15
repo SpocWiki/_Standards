@@ -84,6 +84,7 @@ dv_has_:
     yue: 太空艙
     zh: 太空舱
 ---
+
 # [[Space_Capsule]] 
 
 #is_/same_as :: [[../../WikiData/WD~Space_capsule,957055|WD~Space_capsule,957055]]  

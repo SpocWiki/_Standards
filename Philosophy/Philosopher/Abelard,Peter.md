@@ -239,6 +239,7 @@ dv_has_:
     yue: 亞伯拉德
     zh: 彼得·阿伯拉
 ---
+
 # [[Abelard,Peter]] 
 
 #is_/same_as :: [[WD~Peter_Abelard,4295]] 

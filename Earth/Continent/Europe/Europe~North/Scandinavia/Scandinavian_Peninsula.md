@@ -222,6 +222,7 @@ dv_has_:
     yue: 斯堪的納維亞半島
     zh: 斯堪的纳维亚半岛
 ---
+
 # [[Scandinavian_Peninsula]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Scandinavian_Peninsula,73169|WD~Scandinavian_Peninsula,73169]] 

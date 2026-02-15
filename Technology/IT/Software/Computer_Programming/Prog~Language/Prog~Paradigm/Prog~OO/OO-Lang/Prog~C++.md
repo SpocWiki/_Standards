@@ -149,6 +149,7 @@ dv_has_:
     ur: سی++
     yi: ++C
 ---
+
 # [[Prog~C++]] 
 
 #is_a_/ComputerLanguage 

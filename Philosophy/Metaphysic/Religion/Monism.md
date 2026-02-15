@@ -178,6 +178,7 @@ dv_has_:
     zh_sg: 一元论
     zh_tw: 一元論
 ---
+
 # [[Monism]] 
 
 #has_/next_/item ::  [[Dualism]] 

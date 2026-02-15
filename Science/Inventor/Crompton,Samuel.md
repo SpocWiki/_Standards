@@ -99,6 +99,7 @@ dv_has_:
     wuu: 塞缪尔·克朗普顿
     zh: 塞繆爾·克朗普頓
 ---
+
 # [[Crompton,Samuel]] 
 
 #is_/same_as :: [[WD~Samuel_Crompton,140692]] 

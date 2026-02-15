@@ -234,6 +234,7 @@ dv_is_same_as:
 - '[[/_secret/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Nitrate.secret|Ammonium_Nitrate.secret]]'
 dv_has_created: '[[../../../Society/Disaster/2020-Beirut_Explosion|2020-Beirut_Explosion]]'
 ---
+
 # [[Ammonium_Nitrate]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Ammonium_nitrate,182329]] 

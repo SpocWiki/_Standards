@@ -1054,6 +1054,7 @@ urban_population:
 - 47689118
 Unicode_character: 🇪🇬
 ---
+
 # [[Egypt]] 🇪🇬 
 
 

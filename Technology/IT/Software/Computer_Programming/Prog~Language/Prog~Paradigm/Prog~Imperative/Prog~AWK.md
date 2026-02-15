@@ -25,6 +25,7 @@ aliases:
 - ภาษาออว์ก
 - ꠅꠅꠇ
 ---
+
 # [[Prog~AWK]]  
 
 #is_a_/ComputerLanguage 

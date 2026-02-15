@@ -349,6 +349,7 @@ dv_has_:
     zh: 罗阿尔·阿蒙森
     zh_cn: 罗阿尔·阿蒙森
 ---
+
 # [[Amundsen,Roald]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Roald_Amundsen,926|WD~Roald_Amundsen,926]] 

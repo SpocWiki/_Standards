@@ -157,6 +157,7 @@ dv_has_:
     zh_tw: 鐵磁性
 Unicode_character: 🧲
 ---
+
 # [[Ferromagnetism]] 🧲 
 
 #is_/same_as :: [[../../../../WikiData/WD~Ferromagnetism,184207|WD~Ferromagnetism,184207]] 

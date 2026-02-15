@@ -161,6 +161,7 @@ dv_has_:
     zh_sg: 经济学人
     zh_tw: 經濟學人
 ---
+
 # [[Economist(Magazine)]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~The_Economist,180089|WD~The_Economist,180089]]  

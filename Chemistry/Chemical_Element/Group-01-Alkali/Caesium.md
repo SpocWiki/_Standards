@@ -411,6 +411,7 @@ dv_has_value_for_temperature_melt_c: 28.4
 dv_has_value_for_electronegativity: 0.79
 Unicode_character: 銫
 ---
+
 # [[Caesium]] 銫 
 
 #is_/same_as :: [[../../../WikiData/WD~Caesium,1108]] 

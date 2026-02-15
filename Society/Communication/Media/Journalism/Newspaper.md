@@ -487,6 +487,7 @@ dv_has_:
     zu: Iphephandaba
 Unicode_character: 📰
 ---
+
 # [[Newspaper]] 📰 
 
 

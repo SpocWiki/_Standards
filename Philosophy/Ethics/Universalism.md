@@ -84,6 +84,7 @@ dv_has_:
     vec: Universałismo
     zh: 普世主义
 ---
+
 # [[Universalism]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~universalism,6843150]] 

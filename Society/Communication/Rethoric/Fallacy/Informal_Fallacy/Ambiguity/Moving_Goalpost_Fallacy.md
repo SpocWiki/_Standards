@@ -37,6 +37,7 @@ dv_has_:
     zh_hant: 挪動門柱
     zh_hk: 挪動門柱
 ---
+
 # [[Moving_Goalpost_Fallacy]] 
 
 #is_/same_as :: [[WD~Moving_the_goalposts,3244473]] 

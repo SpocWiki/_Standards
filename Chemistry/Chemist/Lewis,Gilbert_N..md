@@ -191,6 +191,7 @@ dv_has_:
     zh_sg: 吉尔伯特·牛顿·路易斯
     zh_tw: 吉爾伯特·牛頓·路易士
 ---
+
 # [[Lewis,Gilbert_N.]] 
 
 #is_/same_as :: [[../../WikiData/WD~Gilbert_N._Lewis,208858|WD~Gilbert_N._Lewis,208858]]  

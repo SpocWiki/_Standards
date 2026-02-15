@@ -294,6 +294,7 @@ dv_has_:
     zh_hans: 犁
     zh_hant: 犁
 ---
+
 # [[Plough]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Plough,11464|WD~Plough,11464]] 

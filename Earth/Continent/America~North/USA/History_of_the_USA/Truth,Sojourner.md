@@ -188,6 +188,7 @@ dv_has_:
     zh_sg: 索杰纳·特鲁思
     zh_tw: 索傑納·特魯思
 ---
+
 # [[Truth,Sojourner]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Sojourner_Truth,105180|WD~Sojourner_Truth,105180]]  

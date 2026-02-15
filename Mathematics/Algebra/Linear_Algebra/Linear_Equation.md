@@ -198,6 +198,7 @@ dv_has_:
     zh_hant: 一次方程
     zh_hk: 一次方程
 ---
+
 # [[Linear_Equation]] 
 
 #is_/same_as :: [[WD~Linear_equation,484637]] 

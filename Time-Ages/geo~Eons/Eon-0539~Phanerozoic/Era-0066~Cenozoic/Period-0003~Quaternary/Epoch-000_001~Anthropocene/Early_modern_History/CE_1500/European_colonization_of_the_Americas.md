@@ -206,6 +206,7 @@ dv_has_:
     zh-sg: 美洲殖民
     zh-tw: 美洲殖民
 ---
+
 # [[European_colonization_of_the_Americas]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~European_colonization_of_the_Americas,184716|WD~European_colonization_of_the_Americas,184716]] 

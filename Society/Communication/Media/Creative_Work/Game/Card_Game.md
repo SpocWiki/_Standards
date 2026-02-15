@@ -227,6 +227,7 @@ dv_has_:
     zh_hant: 卡片遊戲
     zh_tw: 卡片遊戲
 ---
+
 # [[Card_Game]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Card_game,142714|WD~Card_game,142714]] 

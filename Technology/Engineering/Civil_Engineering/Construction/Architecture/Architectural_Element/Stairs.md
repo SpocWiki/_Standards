@@ -239,6 +239,7 @@ dv_has_:
     zh_hant: 樓梯
     zh_tw: 樓梯
 ---
+
 # [[Stairs]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Stairs,12511|WD~Stairs,12511]] 

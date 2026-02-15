@@ -228,6 +228,7 @@ aliases:
 - ꯇꯣꯝ ꯑꯃꯗꯤ ꯖꯦꯔꯔꯤ
 - 톰과 제리
 ---
+
 # [[Tom_and_Jerry]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Tom_and_Jerry,131144|WD~Tom_and_Jerry,131144]]   

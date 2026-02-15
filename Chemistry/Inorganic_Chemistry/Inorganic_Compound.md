@@ -214,6 +214,7 @@ dv_has_:
     zh_sg: 无机化合物
     zh_tw: 無機化合物
 ---
+
 # [[Inorganic_Compound]] 
 
 #is_/same_as :: [[WikiData/WD~Inorganic_compound,190065|WD~Inorganic_compound,190065]] 

@@ -123,6 +123,7 @@ dv_has_:
     zh_hant: 財產法
     zh_hk: 財產法
 ---
+
 # [[Property_Law]]  
 
 #is_/same_as :: [[../../../WikiData/WD~Property_law,1149275|WD~Property_law,1149275]] 

@@ -100,6 +100,7 @@ dv_has_:
     zh_hant: 受激發射
     zh_hk: 受激發射
 ---
+
 # [[Stimulated_Emission]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Stimulated_emission,853656|WD~Stimulated_emission,853656]]  

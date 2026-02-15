@@ -111,6 +111,7 @@ dv_has_:
     zh_hant: 古阿姆民主和經濟發展組織
     zh_hk: 古阿姆民主和經濟發展組織
 ---
+
 # [[GUAM_Organization_for_Democracy_and_Economic_Development]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~GUAM_Organization_for_Democracy_and_Economic_Development,326816|WD~GUAM_Organization_for_Democracy_and_Economic_Development,326816]] 

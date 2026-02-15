@@ -256,6 +256,7 @@ dv_has_:
     yue: 巴斯特納克
     zh: 鮑里斯·帕斯捷爾納克
 ---
+
 # [[Pasternak,Boris]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Boris_Pasternak,41223|WD~Boris_Pasternak,41223]] 

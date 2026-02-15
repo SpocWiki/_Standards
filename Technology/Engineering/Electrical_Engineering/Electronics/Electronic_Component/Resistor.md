@@ -234,6 +234,7 @@ dv_has_:
     yue: 電阻器
     zh: 電阻器
 ---
+
 # [[Resistor]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Resistor,5321|WD~Resistor,5321]] 

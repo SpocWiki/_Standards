@@ -124,6 +124,7 @@ dv_has_:
     zh_hant: 法制史
     zh_hk: 法制史
 ---
+
 # [[Legal_History]] 
 
 #is_/same_as :: [[WD~Legal_history,680004]]

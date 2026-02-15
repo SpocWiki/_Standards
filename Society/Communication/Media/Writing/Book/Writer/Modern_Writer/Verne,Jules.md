@@ -325,6 +325,7 @@ dv_has_:
     zh_hans: 儒勒·凡尔纳
     zh_hant: 儒勒·凡爾納
 ---
+
 # [[Verne,Jules]] 
 
 Verne had a Notes system, similar to [[../../../../../../../../_orga/Zettelkasten]] that he destroyed before his death. 

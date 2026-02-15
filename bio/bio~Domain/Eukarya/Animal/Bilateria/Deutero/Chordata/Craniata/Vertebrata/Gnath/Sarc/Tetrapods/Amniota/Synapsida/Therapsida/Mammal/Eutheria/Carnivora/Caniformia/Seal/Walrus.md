@@ -252,6 +252,7 @@ dv_has_:
     zh_tw: 海象
     zu: Iwalerosi
 ---
+
 # [[Walrus]] 
 
 #is_/same_as :: [[WD~Odobenus_rosmarus,40994]] 

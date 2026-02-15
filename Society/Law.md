@@ -440,6 +440,7 @@ dv_has_:
     zh_tw: 法律
     zu: Umthetho
 ---
+
 # [[Law]] 
 
 #is_/same_as :: [[../WikiData/WD~Law,7748|WD~Law,7748]] 

@@ -124,6 +124,7 @@ dv_has_:
     zh_sg: 个人运动
     zh_tw: 個人運動
 ---
+
 # [[Individual_Sport]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~individual_sport,2755547]] 

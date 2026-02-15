@@ -194,6 +194,7 @@ aliases:
 - 太陽風
 - 태양풍
 ---
+
 # [[Solar_Wind]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Solar_wind,79833|WD~Solar_wind,79833]]  

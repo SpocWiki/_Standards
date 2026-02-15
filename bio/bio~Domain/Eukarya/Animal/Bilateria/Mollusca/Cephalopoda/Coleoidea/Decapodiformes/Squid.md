@@ -202,6 +202,7 @@ dv_has_:
     zh_hans: 管鱿目
 Unicode_character: 🦑
 ---
+
 # [[Squid]] 🦑 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Teuthida,81900|WD~Teuthida,81900]]  

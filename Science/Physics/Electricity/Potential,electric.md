@@ -179,6 +179,7 @@ dv_has_:
     yue: 電勢
     zh: 電勢
 ---
+
 # [[Potential,electric]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Electric_potential,55451|WD~Electric_potential,55451]] 

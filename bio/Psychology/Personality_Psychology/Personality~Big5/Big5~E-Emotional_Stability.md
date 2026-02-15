@@ -73,6 +73,7 @@ dv_has_:
     zh_hans: 宁静
     zh_hant: 寧靜
 ---
+
 # [[Big5~E-Emotional_Stability]] 
 
 #is_/part_of :: [[../Personality~Big5]] 

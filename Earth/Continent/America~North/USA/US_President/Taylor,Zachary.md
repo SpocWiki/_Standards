@@ -244,6 +244,7 @@ dv_is_same_as:
 - '[[/_personal/Earth/Continent/America~North/USA/US_President/Taylor,Zachary.personal|Taylor,Zachary.personal]]'
 - '[[/_secret/Earth/Continent/America~North/USA/US_President/Taylor,Zachary.secret|Taylor,Zachary.secret]]'
 ---
+
 # [[Taylor,Zachary]] 
 
 has_time_started = `=this.dv_has_time_started`

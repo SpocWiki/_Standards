@@ -187,6 +187,7 @@ dv_has_:
     yue: 熱帶氣候
     zh: 熱帶氣候
 ---
+
 # [[Tropical_Climate]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Tropical_climate,135712|WD~Tropical_climate,135712]]  

@@ -152,6 +152,7 @@ dv_is_same_as:
 - '[[/_secret/Earth/Continent/Europe/Bologna_Process.secret|Bologna_Process.secret]]'
 dv_has_time_started: 1999-06-01
 ---
+
 # [[Bologna_Process]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Bologna_Process,187073|WD~Bologna_Process,187073]] 

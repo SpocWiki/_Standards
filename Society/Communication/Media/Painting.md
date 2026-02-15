@@ -380,6 +380,7 @@ dv_has_:
     zh_sg: 绘画
     zh_tw: 繪畫
 ---
+
 # [[Painting]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Art_of_painting,11629|WD~Art_of_painting,11629]] 

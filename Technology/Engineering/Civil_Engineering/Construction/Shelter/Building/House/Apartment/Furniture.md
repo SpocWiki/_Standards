@@ -239,6 +239,7 @@ dv_has_:
     zh_hant: 家具
     zh_hk: 傢俬
 ---
+
 # [[Furniture]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Furniture,14745|WD~Furniture,14745]] 

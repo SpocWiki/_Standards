@@ -166,6 +166,7 @@ dv_has_:
     zh_sg: 精英政治
     zh_tw: 菁英政治
 ---
+
 # [[Meritocracy]] 
 
 #is_/similar_to :: [[Technocracy|Technocracy]]  

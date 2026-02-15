@@ -64,6 +64,7 @@ aliases:
 - 阿比阿弟大冒險
 - 엑설런트 어드벤쳐
 ---
+
 # [[Bill&Ted's_Excellent_Adventure]]  
 
 ## #has_/text_of_/abstract 

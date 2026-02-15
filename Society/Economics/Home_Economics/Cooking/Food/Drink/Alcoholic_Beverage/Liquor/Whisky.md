@@ -184,6 +184,7 @@ dv_has_:
     zh_hans: 威士忌
     zh_hant: 威士忌
 ---
+
 # [[Whisky]]
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Whisky,281|WD~Whisky,281]]

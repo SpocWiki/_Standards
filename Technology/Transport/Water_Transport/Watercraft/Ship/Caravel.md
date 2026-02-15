@@ -124,6 +124,7 @@ dv_has_:
     zh-sg: 卡拉维尔帆船
     zh-tw: 卡拉維爾帆船
 ---
+
 # [[Caravel]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Caravel,169560|WD~Caravel,169560]] 

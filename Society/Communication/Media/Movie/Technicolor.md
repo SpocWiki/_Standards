@@ -76,6 +76,7 @@ dv_has_:
     uz: Technicolor
     zh: 特藝七彩
 ---
+
 # [[Technicolor]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Technicolor,674564|WD~Technicolor,674564]]  

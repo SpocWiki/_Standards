@@ -187,6 +187,7 @@ dv_has_:
     zh: 一党制
     zh_hk: 一黨制
 ---
+
 # [[Single-Party_System]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Single-party_system,50686|WD~Single-party_system,50686]]  

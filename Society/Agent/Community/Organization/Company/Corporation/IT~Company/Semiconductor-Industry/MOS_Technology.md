@@ -54,6 +54,7 @@ aliases:
 - 金屬氧化物半導體
 - 모스 테크놀로지
 ---
+
 # [[MOS_Technology]] 
 
 > MOS Technology, Inc. ("MOS" being short for Metal Oxide Semiconductor), 

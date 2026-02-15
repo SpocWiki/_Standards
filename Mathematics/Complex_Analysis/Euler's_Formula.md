@@ -163,6 +163,7 @@ dv_has_:
     zh_sg: 欧拉公式
     zh_tw: 尤拉公式
 ---
+
 # [[Euler's_Formula]] 
 
 #is_/same_as :: [[../../WikiData/WD~Euler's_formula,184871|WD~Euler's_formula,184871]] 

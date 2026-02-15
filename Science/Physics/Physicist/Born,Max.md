@@ -292,6 +292,7 @@ dv_has_:
     yue: 玻恩
     zh: 马克斯·玻恩
 ---
+
 # [[Born,Max]] 
 
 #is_/same_as :: [[WD~Max_Born,58978]] 

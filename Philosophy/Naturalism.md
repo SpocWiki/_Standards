@@ -137,6 +137,7 @@ dv_has_:
     yue: 自然主義
     zh: 自然主义
 ---
+
 # [[Naturalism]] 
 
 #is_/same_as :: [[WD~Naturalism,56000]] 

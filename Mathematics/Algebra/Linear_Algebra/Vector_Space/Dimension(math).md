@@ -180,6 +180,7 @@ aliases:
 - 维度
 - 차원
 ---
+
 # [[Dimension(math)]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Dimension,4440864|WD~Dimension,4440864]] 

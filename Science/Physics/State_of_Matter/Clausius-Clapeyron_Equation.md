@@ -83,6 +83,7 @@ aliases:
 - 克勞修斯－克拉佩龍方程
 - 클라우지우스-클라페이롱 방정식
 ---
+
 # [[Clausius-Clapeyron_Equation]] 
 
 #has_/formula_ :: ln⁡(P2/P1) = −ΔHvap/R(1/T2−1/T1)

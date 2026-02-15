@@ -82,6 +82,7 @@ dv_has_:
     yue: 有限簡單羣分類
     zh: 有限單群分類
 ---
+
 # [[Classification_of_finite_simple_Groups]] 
 
 #is_/same_as :: [[../../WikiData/WD~Classification_of_finite_simple_groups,1340623|WD~Classification_of_finite_simple_groups,1340623]] 

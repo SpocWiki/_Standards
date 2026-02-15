@@ -217,6 +217,7 @@ dv_has_:
     zh_hant: 蘇丹
     zh_tw: 蘇丹 (稱謂)
 ---
+
 # [[Sultan]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Sultan,43292|WD~Sultan,43292]]  

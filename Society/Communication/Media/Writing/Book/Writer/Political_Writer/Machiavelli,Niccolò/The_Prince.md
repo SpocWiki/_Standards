@@ -199,6 +199,7 @@ dv_has_:
     zh_sg: 君主论
     zh_tw: 君主論
 ---
+
 # [[The_Prince]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~The_Prince,131719|WD~The_Prince,131719]]  

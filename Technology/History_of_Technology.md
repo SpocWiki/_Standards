@@ -160,6 +160,7 @@ dv_has_:
     zh_sg: 技术史
     zh_tw: 技術史
 ---
+
 # [[History_of_Technology]] 
 
 #is_/same_as :: [[../WikiData/WD~History_of_technology,465352|WD~History_of_technology,465352]] 

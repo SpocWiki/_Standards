@@ -202,6 +202,7 @@ dv_has_:
     zh_sg: 地热能
     zh_tw: 地熱能
 ---
+
 # [[Geothermal_Energy]] 
 
 #is_/same_as :: [[WD~Geothermal_energy,127993]] 

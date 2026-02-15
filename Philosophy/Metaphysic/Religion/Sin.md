@@ -240,6 +240,7 @@ dv_has_:
     yue: 罪 (宗教)
     zh: 罪
 ---
+
 # [[Sin]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Sin,60227|WD~Sin,60227]]  

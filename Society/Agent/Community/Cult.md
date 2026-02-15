@@ -124,6 +124,7 @@ dv_has_:
     zh_hant: 邪教
     zh_tw: 邪教
 ---
+
 # [[Cult]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Cult,11038979|WD~Cult,11038979]] 

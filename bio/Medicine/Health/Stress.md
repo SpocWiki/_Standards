@@ -169,6 +169,7 @@ dv_has_:
     zh_sg: 应激
     zh_tw: 緊迫
 ---
+
 # [[Stress]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Stress,123414|WD~Stress,123414]]  

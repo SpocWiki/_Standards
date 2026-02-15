@@ -292,6 +292,7 @@ dv_has_:
     zh_sg: 行为
     zh_tw: 行為
 ---
+
 # [[Behavior]] 
 
 #is_/same_as :: [[../../WikiData/WD~Behavior,9332|WD~Behavior,9332]] 

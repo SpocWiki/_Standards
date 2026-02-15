@@ -291,6 +291,7 @@ dv_has_:
     zh_sg: 亨利·戴维·梭罗
     zh_tw: 亨利·戴維·梭羅
 ---
+
 # [[Thoreau,Henry_David]] 
 
 #is_/friend_of :: [[Emerson,Ralph_Waldo]]  

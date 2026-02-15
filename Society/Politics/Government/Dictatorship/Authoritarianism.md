@@ -197,6 +197,7 @@ dv_has_:
     zh_hant: 威權主義
     zh_tw: 威權主義
 ---
+
 # [[Authoritarianism]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Authoritarianism,6229|WD~Authoritarianism,6229]]  

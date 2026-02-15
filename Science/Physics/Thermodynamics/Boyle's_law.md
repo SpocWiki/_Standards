@@ -285,6 +285,7 @@ dv_has_:
     zh_sg: 玻意耳－马略特定律
     zh_tw: 玻意耳－馬略特定律
 ---
+
 # [[Boyle's_law]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Boyle's_law,175974|WD~Boyle's_law,175974]] 

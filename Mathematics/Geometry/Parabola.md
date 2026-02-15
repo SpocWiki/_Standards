@@ -168,6 +168,7 @@ dv_has_:
     yue: 拋物綫
     zh: 抛物线
 ---
+
 # [[Parabola]] 
 
 #is_/same_as :: [[WD~Parabola,48297]] 

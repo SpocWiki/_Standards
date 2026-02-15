@@ -159,6 +159,7 @@ dv_has_:
     zh_sg: 矮星系
     zh_tw: 矮星系
 ---
+
 # [[Dwarf_Galaxy]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Dwarf_galaxy,190438|WD~Dwarf_galaxy,190438]] 

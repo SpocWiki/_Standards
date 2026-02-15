@@ -242,6 +242,7 @@ dv_has_:
     zh_hans: 减法
     zh_hk: 減法
 ---
+
 # [[Subtraction]] 
 
 #is_/same_as :: [[../../WikiData/WD~Subtraction,40754|WD~Subtraction,40754]]  

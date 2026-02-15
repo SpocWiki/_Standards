@@ -455,6 +455,7 @@ dv_has_:
     zh_tw: 阿茲海默症
     zu: Isifo se-Alzheimer
 ---
+
 # [[Alzheimer’s_disease]]
 
 #is_/same_as :: [[../../../../../_Standards/WikiData/WD~Alzheimer's_disease,11081]] 

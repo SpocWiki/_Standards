@@ -138,6 +138,7 @@ aliases:
 - 金融信用
 - 신용판매
 ---
+
 # [[Credit]] 
 
 Credit increases the Volume of [[Capital(Economics)|Capital]] available in the Market. 

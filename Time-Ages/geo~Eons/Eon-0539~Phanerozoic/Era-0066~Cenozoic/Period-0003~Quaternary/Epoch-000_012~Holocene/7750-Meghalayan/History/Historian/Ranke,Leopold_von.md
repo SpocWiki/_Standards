@@ -203,6 +203,7 @@ dv_has_:
     xmf: ლეოპოლდ ფონ რანკე
     zh: 利奧波德·馮·蘭克
 ---
+
 # [[Ranke,Leopold_von]] 
 
 #is_/same_as :: [[WD~Leopold_von_Ranke,77184]] 

@@ -151,6 +151,7 @@ aliases:
 - 伽瑪射線暴
 - 감마선 폭발
 ---
+
 # [[Gamma-Ray_Burst]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Gamma-ray_burst,22247|WD~Gamma-ray_burst,22247]] 

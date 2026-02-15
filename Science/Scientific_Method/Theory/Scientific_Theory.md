@@ -161,6 +161,7 @@ dv_has_:
     zh_hant: 科學理論
     zu: Umchaciso wenzululwazi
 ---
+
 # [[Scientific_Theory]] 
 
 #is_/same_as :: [[WD~Scientific_theory,3239681]] 

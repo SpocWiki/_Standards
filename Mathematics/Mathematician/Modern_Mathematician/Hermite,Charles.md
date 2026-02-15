@@ -189,6 +189,7 @@ dv_has_:
     zh_sg: 夏尔·埃尔米特
     zh_tw: 夏爾·埃爾米特
 ---
+
 # [[Hermite,Charles]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Charles_Hermite,168401|WD~Charles_Hermite,168401]] 

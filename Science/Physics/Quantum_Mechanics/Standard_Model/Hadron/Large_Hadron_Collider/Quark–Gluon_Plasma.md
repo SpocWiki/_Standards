@@ -140,6 +140,7 @@ dv_has_:
     zh_hk: 夸克-膠子等離子體
     zh_tw: 夸克-膠子電漿
 ---
+
 # [[Quark–Gluon_Plasma]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Quark–gluon_plasma,733096|WD~Quark–gluon_plasma,733096]]  

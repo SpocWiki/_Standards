@@ -159,6 +159,7 @@ dv_has_:
     zh_sg: 脉搏
     zh_tw: 脈搏
 ---
+
 # [[Pulse]] 
 
 #is_/same_as :: [[WD~Pulse,191733]] 

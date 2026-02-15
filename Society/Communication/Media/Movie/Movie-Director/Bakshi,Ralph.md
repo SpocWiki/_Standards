@@ -97,6 +97,7 @@ tags:
 title:
 type: private_note
 ---
+
 # [[Bakshi,Ralph]] 
 
 > Ralph Bakshi (born 1938-10-29) is an American animator, filmmaker and painter. In the 1970s, he established an alternative to mainstream animation through independent and adult-oriented productions. 

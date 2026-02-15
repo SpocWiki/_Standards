@@ -162,6 +162,7 @@ dv_has_:
     zh_hant: 傳統醫學
     zh_hk: 傳統醫學
 ---
+
 # [[Traditional_Medicine]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Traditional_medicine,771035|WD~Traditional_medicine,771035]]  

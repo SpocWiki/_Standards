@@ -249,6 +249,7 @@ dv_has_:
     zh_sg: 巴克敏斯特·福乐
     zh_tw: 巴克敏斯特·富勒
 ---
+
 # [[Fuller,Buckminster]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Buckminster_Fuller,102289|WD~Buckminster_Fuller,102289]] 

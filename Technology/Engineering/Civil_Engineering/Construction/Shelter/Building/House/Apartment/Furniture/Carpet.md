@@ -250,6 +250,7 @@ dv_has_:
     zh_sg: 地毯
     zh_tw: 地毯
 ---
+
 # [[Carpet]] 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Carpet,163446|WD~Carpet,163446]]

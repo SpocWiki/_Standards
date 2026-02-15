@@ -278,6 +278,7 @@ dv_has_:
     zh_sg: 发明家
     zh_tw: 發明家
 ---
+
 # [[Inventor]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~inventor,205375]] 

@@ -173,6 +173,7 @@ dv_has_:
     zh_sg: 化学合成
     zh_tw: 化學合成
 ---
+
 # [[Chemical_Synthesis]] 
 
 #is_/same_as :: [[../../WikiData/WD~Chemical_synthesis,273499|WD~Chemical_synthesis,273499]] 

@@ -147,6 +147,7 @@ aliases:
 - 安全
 - 안전
 ---
+
 # [[Safety]] 
 
 #is_/similar_to :: [[Security]] 

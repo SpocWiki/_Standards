@@ -391,6 +391,7 @@ dv_has_:
     zh-hans: 伏尔泰
     zh_tw: 伏爾泰
 ---
+
 # [[Voltaire]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Voltaire,9068|WD~Voltaire,9068]] 

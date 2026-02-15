@@ -288,6 +288,7 @@ dv_has_:
     zh: 矮行星
     zu: umzulane oyisichwe
 ---
+
 # [[Dwarf_Planet]] 
 
 #is_/same_as :: [[../../WikiData/WD~Dwarf_planet,2199|WD~Dwarf_planet,2199]] 

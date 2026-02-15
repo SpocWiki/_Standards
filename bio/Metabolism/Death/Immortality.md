@@ -138,6 +138,7 @@ aliases:
 - 长生弗老
 - 불로장생
 ---
+
 # [[Immortality]] 
 
 #is_/same_as :: [[WD~Immortality,193942]] 

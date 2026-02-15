@@ -290,6 +290,7 @@ dv_has_:
     zh_sg: 諺文
     zh_tw: 諺文
 ---
+
 # [[Script~Hang]] 
 
 #is_/same_as :: [[../../WikiData/WD~Hangul,8222|WD~Hangul,8222]] 

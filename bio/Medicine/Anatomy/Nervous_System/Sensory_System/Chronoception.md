@@ -59,6 +59,7 @@ aliases:
 - 時間知覺
 - 시간 지각
 ---
+
 # [[Chronoception]]  
 
 ## #has_/text_of_/abstract 

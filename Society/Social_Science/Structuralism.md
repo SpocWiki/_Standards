@@ -162,6 +162,7 @@ dv_has_:
     zh_sg: 结构主义
     zh_tw: 結構主義
 ---
+
 # [[Structuralism]] 
 
 #is_/same_as :: [[../../WikiData/WD~Structuralism,179168|WD~Structuralism,179168]]  

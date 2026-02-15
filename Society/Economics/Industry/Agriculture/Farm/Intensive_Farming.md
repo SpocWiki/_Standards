@@ -125,6 +125,7 @@ dv_has_:
     zh_hk: 精耕細作
     zh_tw: 集約農業
 ---
+
 # [[Intensive_Farming]] 
 
 #is_/same_as :: [[WD~Intensive_farming,1148482]] 

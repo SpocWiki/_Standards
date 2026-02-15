@@ -217,6 +217,7 @@ dv_has_:
     zh: 汉萨同盟
     zh-cn: 汉萨同盟
 ---
+
 # [[1358-Hanseatic_League-1669]] 
 
 #is_/same_as :: [[WD~Hanseatic_League,42908]] 

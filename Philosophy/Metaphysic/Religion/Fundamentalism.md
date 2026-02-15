@@ -203,6 +203,7 @@ dv_has_:
     za: Yenzgyaucijcujyi
     zh: 原教旨主義
 ---
+
 # [[Fundamentalism]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Fundamentalism,9149|WD~Fundamentalism,9149]] 

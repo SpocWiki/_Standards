@@ -294,6 +294,7 @@ dv_has_:
     zh_tw: 電流
     zu: uluzuba
 ---
+
 # [[Current,electric]]   
 
 #is_/same_as :: [[../../../WikiData/WD~Electric_current,11651|WD~Electric_current,11651]] 

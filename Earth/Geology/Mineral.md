@@ -323,6 +323,7 @@ dv_has_:
     zh: 礦物
     zu: IMbiwa
 ---
+
 # [[Mineral]] 
 
 #is_/same_as :: [[../../WikiData/WD~Mineral,7946|WD~Mineral,7946]] 

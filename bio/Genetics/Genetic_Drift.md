@@ -145,6 +145,7 @@ dv_has_:
     zh_hant: 遺傳漂變
     zh_hk: 遺傳漂變
 ---
+
 # [[Genetic_Drift]] 
 
 #is_/same_as :: [[WD~Genetic_drift,486420]] 

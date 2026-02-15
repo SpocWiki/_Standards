@@ -196,6 +196,7 @@ dv_has_:
     yue: 熵
     zh: 熵
 ---
+
 # [[Entropy]] 
 
 #is_/same_as :: [[../../WikiData/WD~Entropy,45003|WD~Entropy,45003]] 

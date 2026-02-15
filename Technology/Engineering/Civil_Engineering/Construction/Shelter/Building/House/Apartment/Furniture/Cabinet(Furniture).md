@@ -131,6 +131,7 @@ dv_has_:
     zh_hant: 櫃
     zh_hk: 櫃
 ---
+
 # [[Cabinet(Furniture)]] 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Cabinet,2741056|WD~Cabinet,2741056]] 

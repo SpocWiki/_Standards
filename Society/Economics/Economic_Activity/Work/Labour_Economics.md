@@ -134,6 +134,7 @@ dv_has_:
     yue: 勞動經濟學
     zh: 勞動經濟學
 ---
+
 # [[Labour_Economics]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Labour_economics,28161|WD~Labour_economics,28161]]  

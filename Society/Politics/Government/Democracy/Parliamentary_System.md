@@ -217,6 +217,7 @@ dv_has_:
     zh_hant: 議會制
     zu: IRiphabuliki Wephalamende
 ---
+
 # [[Parliamentary_System]] 
 
 #is_/different_from :: [[Presidential_System|Presidential_System]]  

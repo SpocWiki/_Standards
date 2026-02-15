@@ -260,6 +260,7 @@ dv_has_:
     zh: 破傷風
     zh_hant: 破傷風
 ---
+
 # [[Tetanus]] 
 
 #is_/same_as :: [[WD~Tetanus,47790]] 

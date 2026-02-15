@@ -1053,6 +1053,7 @@ WOEID: 130758
 Wolfram_Language_entity_code: Entity["Country", "Iran"]
 Unicode_character: 🇮🇷
 ---
+
 # [[Iran]] 🇮🇷 has Properties... 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`

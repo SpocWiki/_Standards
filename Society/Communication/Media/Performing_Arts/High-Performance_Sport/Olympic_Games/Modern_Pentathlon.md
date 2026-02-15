@@ -166,6 +166,7 @@ dv_has_:
     zh_hans: 现代五项
     zh_hant: 現代五項
 ---
+
 # [[Modern_Pentathlon]] 
 
 #is_/same_as :: [[WD~Modern_pentathlon,32485]] 

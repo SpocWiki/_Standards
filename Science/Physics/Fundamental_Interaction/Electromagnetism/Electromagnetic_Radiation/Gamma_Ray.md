@@ -223,6 +223,7 @@ dv_has_:
     zh: 伽马射线
     zu: Umsebentathu
 ---
+
 # [[Gamma_Ray]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Gamma_ray,11523|WD~Gamma_ray,11523]] 

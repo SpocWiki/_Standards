@@ -201,6 +201,7 @@ aliases:
 - 羅得島太陽神銅像
 - 로도스의 거상
 ---
+
 # [[Colossus_of_Rhodes]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Colossus_of_Rhodes,41553|WD~Colossus_of_Rhodes,41553]] 

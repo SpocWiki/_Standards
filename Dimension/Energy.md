@@ -381,6 +381,7 @@ dv_has_:
     zh_hant: 能量
     zu: amandla
 ---
+
 # [[Energy]] 
 
 #is_/same_as :: [[../WikiData/WD~Energy,11379|WD~Energy,11379]] 

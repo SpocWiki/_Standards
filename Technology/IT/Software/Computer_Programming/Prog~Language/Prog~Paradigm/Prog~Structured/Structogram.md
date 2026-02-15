@@ -29,6 +29,7 @@ dv_has_:
     zh-cn: 纳西-施奈德曼图
     zh-hans: 纳西-施奈德曼图
 ---
+
 # [[Structogram]] 
 
 The [[Structured_program_theorem|Böhm–Jacopini theorem]] proved 1966, 

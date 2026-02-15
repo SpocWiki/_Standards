@@ -233,6 +233,7 @@ dv_has_:
     zh_sg: 文类
     zh_tw: 文類
 ---
+
 # [[Literary_Genre]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Literary_genre,223393|WD~Literary_genre,223393]] 

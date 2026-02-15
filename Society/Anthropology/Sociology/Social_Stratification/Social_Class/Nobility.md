@@ -229,6 +229,7 @@ dv_has_:
     zh_sg: 贵族
     zh_tw: 貴族
 ---
+
 # [[Nobility]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Nobility,134737|WD~Nobility,134737]]  

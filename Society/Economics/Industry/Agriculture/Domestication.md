@@ -232,6 +232,7 @@ dv_has_:
     yue: 馴養
     zh: 馴養
 ---
+
 # [[Domestication]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Domestication,11395|WD~Domestication,11395]] 

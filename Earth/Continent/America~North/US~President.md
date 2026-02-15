@@ -420,6 +420,7 @@ dv_has_:
     zh_sg: 美国总统
     zh_tw: 美國總統
 ---
+
 # [[US~President]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~President_of_the_United_States,11696]]

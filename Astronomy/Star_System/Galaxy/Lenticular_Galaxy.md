@@ -152,6 +152,7 @@ dv_has_:
     zh_tw: 透鏡狀星系
     zu: Umthalakazi ogungubele
 ---
+
 # [[Lenticular_Galaxy]] 
 
 #is_/same_as :: [[WD~Lenticular_galaxy,192078]] 

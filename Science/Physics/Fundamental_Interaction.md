@@ -204,6 +204,7 @@ dv_has_:
     zh_sg: 基本相互作用
     zh_tw: 基本交互作用
 ---
+
 # [[Fundamental_Interaction]] 
 
 #is_/same_as :: [[../../WikiData/WD~Fundamental_interaction,104934|WD~Fundamental_interaction,104934]] 

@@ -937,6 +937,7 @@ Languages:
 icon: flag-kz
 Unicode_character: 🇰🇿
 ---
+
 # [[Kazakhstan]] 🇰🇿 
 
 

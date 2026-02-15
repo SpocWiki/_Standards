@@ -185,6 +185,7 @@ dv_has_:
     zh_sg: 卡尔·刘易斯
     zh_tw: 卡爾·路易斯
 ---
+
 # [[Lewis,Carl]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Carl_Lewis,131237|WD~Carl_Lewis,131237]] 

@@ -168,6 +168,7 @@ dv_has_:
     zh_sg: 个人崇拜
     zh_tw: 個人崇拜
 ---
+
 # [[Cult_of_Personality]] 
 
 #is_/same_as :: [[../../WikiData/WD~Cult_of_personality,192914|WD~Cult_of_personality,192914]] 

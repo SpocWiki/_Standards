@@ -154,6 +154,7 @@ dv_has_:
     zh_sg: 决斗
     zh_tw: 決鬥
 ---
+
 # [[Duel]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Duel,191503|WD~Duel,191503]] 

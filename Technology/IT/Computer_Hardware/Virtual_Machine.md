@@ -128,6 +128,7 @@ aliases:
 - 가상 머신
 - 가상기계
 ---
+
 # [[Virtual_Machine]] 
 
 #is_/similar_to :: [[../../../../IT/Operations/Hosting/Docker(SW)|Docker(SW)]] 

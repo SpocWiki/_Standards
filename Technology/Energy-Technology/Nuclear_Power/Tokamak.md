@@ -112,6 +112,7 @@ dv_has_:
     zh_sg: 托卡马克
     zh_tw: 托卡馬克
 ---
+
 # [[Tokamak]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Tokamak,188589|WD~Tokamak,188589]]  

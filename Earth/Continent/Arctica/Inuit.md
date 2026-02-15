@@ -209,6 +209,7 @@ dv_has_:
     zh_sg: 因纽特人
     zh_tw: 因紐特人
 ---
+
 # [[Inuit]] 
 
 #is_/same_as :: [[WD~Inuit,189975]] 

@@ -74,6 +74,7 @@ dv_has_:
     zh_hant: 可計算函數
     zh_hk: 可計算函數
 ---
+
 # [[Computable_Function]] 
 
 #is_/same_as :: [[../../WikiData/WD~Computable_function,1148456|WD~Computable_function,1148456]] 

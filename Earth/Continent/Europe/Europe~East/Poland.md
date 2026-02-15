@@ -1136,6 +1136,7 @@ Colon_Classification: SG--595
 Krugosvet_article: strany_mira/POLSHA.html
 Unicode_character: 🇵🇱
 ---
+
 # [[Poland]] 🇵🇱 
 
 

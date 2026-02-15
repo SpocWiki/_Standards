@@ -118,6 +118,7 @@ dv_has_:
     zh_hant: 恆星黑洞
     zh_hk: 恆星黑洞
 ---
+
 # [[Stellar_black_Hole]] 
 
 #is_/same_as :: [[../../WikiData/WD~Stellar_black_hole,1047034|WD~Stellar_black_hole,1047034]]  

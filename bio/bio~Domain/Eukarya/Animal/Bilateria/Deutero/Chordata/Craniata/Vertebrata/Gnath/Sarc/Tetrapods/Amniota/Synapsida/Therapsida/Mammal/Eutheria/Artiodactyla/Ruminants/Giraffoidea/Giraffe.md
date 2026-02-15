@@ -467,6 +467,7 @@ dv_has_:
     zh_tw: 努比亞長頸鹿
     zu: Indlulamithi
 ---
+
 # [[Giraffe]]
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Giraffe,15083|WD~Giraffe,15083]]

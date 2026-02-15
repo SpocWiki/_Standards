@@ -244,6 +244,7 @@ dv_has_:
     zh: 亞瑟·查理斯·克拉克
     zh_hant: 亞瑟·查理斯·克拉克
 ---
+
 # [[Clarke,Arthur_C]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Arthur_C._Clarke,47087|WD~Arthur_C._Clarke,47087]]  

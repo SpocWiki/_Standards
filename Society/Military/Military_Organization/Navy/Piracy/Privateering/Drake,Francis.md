@@ -214,6 +214,7 @@ dv_has_:
     zea: Francis Drake
     zh: 法蘭西斯·德瑞克
 ---
+
 # [[Drake,Francis]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Francis_Drake,36517|WD~Francis_Drake,36517]] 

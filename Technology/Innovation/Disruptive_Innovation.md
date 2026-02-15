@@ -105,6 +105,7 @@ dv_has_:
     zh_hant: 破壞性創新
     zh_hk: 破壞性創新
 ---
+
 # [[Disruptive_Innovation]] 
 
 #is_/same_as :: [[../../WikiData/WD~Disruptive_innovation,1192297|WD~Disruptive_innovation,1192297]] 

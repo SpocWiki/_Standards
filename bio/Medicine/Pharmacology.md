@@ -234,6 +234,7 @@ dv_has_:
     zh_sg: 药理学
     zh_tw: 藥理學
 ---
+
 # [[Pharmacology]] 
 
 #is_/different_from :: [[Medical_Business/Pharmacy|Pharmacy]] 

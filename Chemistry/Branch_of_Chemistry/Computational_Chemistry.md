@@ -141,6 +141,7 @@ dv_has_:
     yue: 運算化學
     zh: 计算化学
 ---
+
 # [[Computational_Chemistry]] 
 
 #is_/same_as :: [[../../WikiData/WD~Computational_chemistry,369472|WD~Computational_chemistry,369472]] 

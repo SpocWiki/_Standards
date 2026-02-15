@@ -139,6 +139,7 @@ dv_has_:
     yue: 結腸
     zh: 结肠
 ---
+
 # [[Colon(Anatomy)]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Colon,5982337|WD~Colon,5982337]] 

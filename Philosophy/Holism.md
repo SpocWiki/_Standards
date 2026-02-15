@@ -118,6 +118,7 @@ dv_has_:
     zh_sg: 整全观
     zh_tw: 整全觀
 ---
+
 # [[Holism]] 
 
 #has_/complement :: [[Reductionism]]

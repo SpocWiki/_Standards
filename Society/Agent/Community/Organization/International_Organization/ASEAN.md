@@ -357,6 +357,7 @@ dv_has_:
     zh_sg: 亚细安组织
     zh_tw: 東南亞國家協會
 ---
+
 # [[ASEAN]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~ASEAN,7768|WD~ASEAN,7768]] 

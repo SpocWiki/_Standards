@@ -414,6 +414,7 @@ dv_has_:
     zh_hk: 愛迪生
     zh_tw: 湯瑪斯·愛迪生
 ---
+
 # [[Edison,Thomas_Alva]] 
 
 #has_/time_/started  :: 1847-02-11 

@@ -188,6 +188,7 @@ dv_has_:
     zh_sg: 反刍亚目
     zh_tw: 反芻亞目
 ---
+
 # [[Ruminants]] 
 
  ![Giraffa_camelopardalis](Ruminants/Giraffa_camelopardalis.jpg)  ![Kobus_ellipsiprymnus](Ruminants/Kobus_ellipsiprymnus4321001.jpg)  ![Elk](Ruminants/Deer/Cervus/Wapiti/Wapiti.jpg) 

@@ -185,6 +185,7 @@ aliases:
 - ꠍꠤꠟꠤꠇꠘ ꠜꠦꠟꠤ
 - 실리콘 밸리
 ---
+
 # [[Silicon_Valley]] 
 
 > Silicon Valley is a region in Northern California 

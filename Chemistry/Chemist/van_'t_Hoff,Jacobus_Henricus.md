@@ -290,6 +290,7 @@ dv_has_:
     zh_sg: 雅各布斯·亨里克斯·范托夫
     zh_tw: 雅各布斯·亨里克斯·凡特荷夫
 ---
+
 # [[van_'t_Hoff,Jacobus_Henricus]] 
 
 #is_/same_as :: [[WD~Jacobus_Henricus_van_'t_Hoff,102822]] 

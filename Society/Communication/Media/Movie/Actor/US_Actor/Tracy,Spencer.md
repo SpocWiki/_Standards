@@ -194,6 +194,7 @@ dv_has_:
     zh_sg: 史宾塞·屈赛
     zh_tw: 史賓塞·屈賽
 ---
+
 # [[Tracy,Spencer]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Spencer_Tracy,71275|WD~Spencer_Tracy,71275]]  

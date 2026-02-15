@@ -214,6 +214,7 @@ dv_has_:
     zh_sg: 革命
     zh_tw: 革命
 ---
+
 # [[Rebellion]] 
 
 #is_/same_as :: [[WD~Rebellion,124734]] 

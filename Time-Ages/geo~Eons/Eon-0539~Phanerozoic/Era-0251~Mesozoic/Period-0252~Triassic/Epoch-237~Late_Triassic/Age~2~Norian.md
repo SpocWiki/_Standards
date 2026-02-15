@@ -134,6 +134,7 @@ dv_has_time_started: -227.0e6
 dv_has_time_stopped: -208.5e6
 dv_has_text_of_color: 0xD6AAD3
 ---
+
 # [[Age~2~Norian]] 
 
 #is_a_/time_/Age 

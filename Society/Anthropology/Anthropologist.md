@@ -185,6 +185,7 @@ aliases:
 - 人類學家
 - 인류학자
 ---
+
 # [[Anthropologist]]  
 
 ## #has_/text_of_/abstract 

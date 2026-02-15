@@ -199,6 +199,7 @@ dv_has_:
     zh_sg: 邦联制
     zh_tw: 邦聯制
 ---
+
 # [[Confederation]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Confederation,170156|WD~Confederation,170156]] 

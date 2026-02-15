@@ -235,6 +235,7 @@ dv_has_:
     zh_hk: 大麥哲倫星系
     zh_tw: 大麥哲倫星系
 ---
+
 # [[Large_Magellanic_Cloud]] 
 
 #is_/same_as :: [[WD~Large_Magellanic_Cloud,49957]] 

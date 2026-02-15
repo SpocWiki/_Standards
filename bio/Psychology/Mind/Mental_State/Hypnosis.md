@@ -181,6 +181,7 @@ dv_has_:
     zh_hans: 催眠
     zh_hant: 催眠
 ---
+
 # [[Hypnosis]] 
 
 #is_/same_as :: [[WikiData/WD~Hypnosis,8609|WD~Hypnosis,8609]] 

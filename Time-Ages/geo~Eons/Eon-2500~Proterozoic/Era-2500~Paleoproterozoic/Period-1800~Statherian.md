@@ -157,6 +157,7 @@ dv_has_time_started: -1800000000
 dv_has_time_stopped: -1600000000
 dv_has_text_of_color: 0xF875A7
 ---
+
 # [[Period-1800~Statherian]] 
 
 #is_a_/time_/Period 

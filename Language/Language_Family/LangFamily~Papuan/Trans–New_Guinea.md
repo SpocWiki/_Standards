@@ -109,6 +109,7 @@ dv_has_:
     vi: Ngữ hệ Liên New Guinea
     zh: 跨新几内亚语系
 ---
+
 # [[Trans–New_Guinea]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Trans–New_Guinea,34018|WD~Trans–New_Guinea,34018]]  

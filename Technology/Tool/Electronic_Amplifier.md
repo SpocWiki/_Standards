@@ -146,6 +146,7 @@ dv_has_:
     zh-sg: 放大器电路
     zh-tw: 放大器
 ---
+
 # [[Electronic_Amplifier]] 
 
 #is_/same_as :: [[../../WikiData/WD~Electronic_amplifier,211554|WD~Electronic_amplifier,211554]] 

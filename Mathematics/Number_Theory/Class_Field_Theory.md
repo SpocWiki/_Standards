@@ -62,6 +62,7 @@ dv_has_:
     yue: 類場論
     zh: 類域論
 ---
+
 # [[Class_Field_Theory]] 
 
 #is_/same_as :: [[../../WikiData/WD~Class_field_theory,1744580|WD~Class_field_theory,1744580]] 

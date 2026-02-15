@@ -89,6 +89,7 @@ dv_has_:
     war: Hermann Heinrich Gossen
     zh: 赫爾曼·海因里希·戈森
 ---
+
 # [[Gossen,Hermann_Heinrich]] 
 
 #is_/same_as :: [[WD~Hermann_Heinrich_Gossen,62835]]

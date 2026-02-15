@@ -287,6 +287,7 @@ dv_has_:
     zh-sg: 国际刑事法院
     zh-tw: 國際刑事法院
 ---
+
 # [[ICC(International_Criminal_Court)]] 
 
 #is_/different_from :: [[../UN(United_Nations)/ICJ(International_Court_of_Justice)|ICJ(International_Court_of_Justice)]]  

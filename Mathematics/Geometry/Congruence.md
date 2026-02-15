@@ -123,6 +123,7 @@ dv_has_:
     yue: 全等
     zh: 全等_(幾何)
 ---
+
 # [[Congruence]] ≅ 
 
 

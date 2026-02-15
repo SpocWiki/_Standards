@@ -66,6 +66,7 @@ dv_has_:
     zh_sg: 图片报
     zh_tw: 圖片報
 ---
+
 # [[Bild-Zeitung]]  
 
 ## #has_/text_of_/abstract 

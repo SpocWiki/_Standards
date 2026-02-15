@@ -143,6 +143,7 @@ dv_has_:
     vec: Gujana
     zh: 圭亚那
 ---
+
 # [[Guianas]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~Guianas,650667]]

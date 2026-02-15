@@ -318,6 +318,7 @@ dv_has_:
     zgh: ⵜⴰⵎⵓⵔⵉ
     zh: 公民权
 ---
+
 # [[National_Citizenship]] 
 
 #is_/same_as :: [[WD~National_citizenship,42138]] 

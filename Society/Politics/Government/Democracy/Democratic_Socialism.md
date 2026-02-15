@@ -186,6 +186,7 @@ dv_has_:
     zh_sg: 民主社会主义
     zh_tw: 民主社會主義
 ---
+
 # [[Democratic_Socialism]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Democratic_socialism,189280|WD~Democratic_socialism,189280]]

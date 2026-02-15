@@ -221,6 +221,7 @@ dv_has_:
     yue: 弗拉德三世
     zh: 弗拉德三世
 ---
+
 # [[1431-Vlad_the_Impaler+1476]] 
 
 #is_/same_as :: [[../../../../../../../../../../WikiData/WD~Vlad_the_Impaler,43715|WD~Vlad_the_Impaler,43715]]  

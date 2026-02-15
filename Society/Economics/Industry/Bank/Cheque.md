@@ -178,6 +178,7 @@ dv_has_:
     yue: 支票
     zh: 支票
 ---
+
 # [[Cheque]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Cheque,80042|WD~Cheque,80042]] 

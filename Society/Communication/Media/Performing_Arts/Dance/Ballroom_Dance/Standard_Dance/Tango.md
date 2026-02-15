@@ -122,6 +122,7 @@ aliases:
 - 探戈
 - 탱고
 ---
+
 # [[Tango]]  
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Tango,338450|WD~Tango,338450]] 

@@ -195,6 +195,7 @@ dv_has_:
     zh_sg: 专利
     zh_tw: 專利
 ---
+
 # [[Patent]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Patent,253623|WD~Patent,253623]]  

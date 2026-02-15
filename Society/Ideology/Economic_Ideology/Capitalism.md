@@ -351,6 +351,7 @@ dv_has_:
     zh_tw: 資本主義
     zu: UbuGombelakwesakhe
 ---
+
 # [[Capitalism]] 
 
 #is_/better_than :: [[Mercantilism|Mercantilism]] 

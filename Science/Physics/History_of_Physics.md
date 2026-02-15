@@ -147,6 +147,7 @@ dv_has_:
     zh_sg: 物理学史
     zh_tw: 物理學史
 ---
+
 # [[History_of_Physics]] 
 
 #is_/same_as :: [[../../WikiData/WD~History_of_physics,212881|WD~History_of_physics,212881]] 

@@ -218,6 +218,7 @@ dv_has_:
     zh_sg: 理想国
     zh_tw: 理想國
 ---
+
 # [[Republic(Plato)]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~The_Republic,123397|WD~The_Republic,123397]]  

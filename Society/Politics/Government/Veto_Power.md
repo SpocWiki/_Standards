@@ -164,6 +164,7 @@ dv_has_:
     zh_sg: 否决权
     zh_tw: 否決權
 ---
+
 # [[Veto_Power]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Veto_power,178074|WD~Veto_power,178074]]  

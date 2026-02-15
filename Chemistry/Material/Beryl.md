@@ -202,6 +202,7 @@ dv_is_same_as:
 - '[[/_personal/Chemistry/Material/Beryl.personal|Beryl.personal]]'
 - '[[/_secret/Chemistry/Material/Beryl.secret|Beryl.secret]]'
 ---
+
 # [[Beryl]] 
 
 has_formula_sum = `=this.dv_has_formula_sum` 

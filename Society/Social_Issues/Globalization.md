@@ -318,6 +318,7 @@ dv_has_:
     zh_sg: 全球化
     zh_tw: 全球化
 ---
+
 # [[Globalization]] 
 
 #is_/same_as :: [[../../WikiData/WD~Globalisation,7181|WD~Globalisation,7181]] 

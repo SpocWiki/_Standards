@@ -233,6 +233,7 @@ dv_has_:
     zh: 愛德文·哈勃
     zh_hk: 艾雲·哈勃
 ---
+
 # [[Hubble,Edwin]] 
 
 #is_/same_as :: [[../../WikiData/WD~Edwin_Hubble,43027|WD~Edwin_Hubble,43027]] 

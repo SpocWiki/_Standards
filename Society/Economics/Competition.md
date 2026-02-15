@@ -242,6 +242,7 @@ dv_has_:
     zh_sg: 竞争
     zh_tw: 競爭
 ---
+
 # [[Competition]] 
 
 #is_/same_as :: [[../../WikiData/WD~Competition,476300|WD~Competition,476300]] 

@@ -20,6 +20,7 @@ aliases:
 - средство коммуникации
 - وسائل اتصال
 ---
+
 # [[../../../_private/Society/Communication/Media]]
 
 ## #has_/text_of_/abstract 

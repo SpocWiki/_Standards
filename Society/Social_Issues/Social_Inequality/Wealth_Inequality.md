@@ -70,6 +70,7 @@ aliases:
 - 財富分配
 - 财富分配
 ---
+
 # [[Wealth_Inequality]] 
 
 #is_/more_than :: [[Income_Inequality]] 

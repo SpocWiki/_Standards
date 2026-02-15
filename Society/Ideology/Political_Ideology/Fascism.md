@@ -372,6 +372,7 @@ dv_has_:
     zh_sg: 法西斯主义
     zh_tw: 法西斯主義
 ---
+
 # [[Fascism]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Fascism,6223|WD~Fascism,6223]] 

@@ -153,6 +153,7 @@ dv_has_:
     zh_sg: 乘法表
     zh_tw: 乘法表
 ---
+
 # [[Multiplication_Table]] 
 
 #is_/same_as :: [[WD~Multiplication_table,206049]] 

@@ -75,6 +75,7 @@ dv_has_:
     ru: тернарное отношение
     sl: ternarna relacija
 ---
+
 # [[Ternary_Relation]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~ternary_relation,3756532]] 

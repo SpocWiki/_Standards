@@ -207,6 +207,7 @@ dv_has_:
     zh_sg: 五边形
     zh_tw: 五邊形
 ---
+
 # [[Pentagon]] 
 
 #is_/same_as :: [[WD~Pentagon,127840]] 

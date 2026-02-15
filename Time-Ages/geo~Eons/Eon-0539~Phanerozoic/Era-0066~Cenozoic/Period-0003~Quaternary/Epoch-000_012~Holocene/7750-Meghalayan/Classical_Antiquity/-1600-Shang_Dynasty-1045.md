@@ -244,6 +244,7 @@ dv_is_same_as:
 - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_012~Holocene/7750-Meghalayan/Classical_Antiquity/-1600-Shang_Dynasty-1045.secret|-1600-Shang_Dynasty-1045.secret]]'
 dv_has_previous_state: '[[-2204-Xia_Dynasty-1599]]'
 ---
+
 # [[-1600-Shang_Dynasty-1045]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Shang_dynasty,128938|WD~Shang_dynasty,128938]]  

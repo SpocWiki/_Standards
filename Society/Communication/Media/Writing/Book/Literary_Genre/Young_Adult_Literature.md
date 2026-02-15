@@ -144,6 +144,7 @@ dv_has_:
     zh_hant: 年輕成人小說
     zh_hk: 年輕成人小說
 ---
+
 # [[Young_Adult_Literature]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Young_adult_literature,1233720|WD~Young_adult_literature,1233720]]  

@@ -139,6 +139,7 @@ dv_has_:
     zh: 罗伯特·怀斯
     zh_sg: 罗勃·怀斯
 ---
+
 # [[Wise,Robert]]  
 
 #is_/same_as :: [[../../../../../WikiData/WD~Robert_Wise,59821|WD~Robert_Wise,59821]]  

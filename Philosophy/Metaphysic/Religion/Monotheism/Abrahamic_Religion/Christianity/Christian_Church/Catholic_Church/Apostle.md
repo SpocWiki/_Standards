@@ -254,6 +254,7 @@ dv_has_:
     zh_hant: 使徒
     zh_tw: 使徒 (基督教)
 ---
+
 # [[Apostle]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~apostle,43412]] 

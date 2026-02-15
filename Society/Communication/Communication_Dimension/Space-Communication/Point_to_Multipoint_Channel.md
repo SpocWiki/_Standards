@@ -27,6 +27,7 @@ dv_has_:
     sl: komunikacija točka-več točk
     zh: 点对多点通信
 ---
+
 # [[Point_to_Multipoint_Channel]] 
 
 #is_/same_as :: [[WD~point-to-multipoint_communication,6554265]] 

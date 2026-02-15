@@ -273,6 +273,7 @@ dv_has_:
     zgh: ⴰⵕⵟⵓⵕ ⵛⵓⴱⵏⵀⴰⵡⵔ
     zh: 亚瑟·叔本华
 ---
+
 # [[Schopenhauer,Arthur]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Arthur_Schopenhauer,38193|WD~Arthur_Schopenhauer,38193]] 

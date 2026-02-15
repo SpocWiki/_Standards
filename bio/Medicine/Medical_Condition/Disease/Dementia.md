@@ -276,6 +276,7 @@ dv_has_:
     zh_sg: 痴呆症
     zh_tw: 失智症
 ---
+
 # [[Dementia]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Dementia,83030|WD~Dementia,83030]] 

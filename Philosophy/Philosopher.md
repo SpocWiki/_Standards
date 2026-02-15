@@ -368,6 +368,7 @@ dv_has_:
     zh_sg: 哲学家
     zh_tw: 哲學家
 ---
+
 # [[Philosopher]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~philosopher,4964182]] 

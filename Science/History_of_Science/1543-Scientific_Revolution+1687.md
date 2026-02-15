@@ -171,6 +171,7 @@ dv_has_:
     zh_sg: 科学革命
     zh_tw: 科學革命
 ---
+
 # [[1543-Scientific_Revolution+1687]] 
 
 #is_/same_as :: [[../../WikiData/WD~Scientific_Revolution,214078|WD~Scientific_Revolution,214078]]  

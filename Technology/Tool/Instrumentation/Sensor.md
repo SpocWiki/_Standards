@@ -187,6 +187,7 @@ dv_has_:
     zh-tw: 感測器
     zu: Isihlonga
 ---
+
 # [[Sensor]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Sensor,167676|WD~Sensor,167676]] 

@@ -15,6 +15,7 @@ dv_has_:
     ms: Senarai singkatan undang-undang
     uk: список юридичних скорочень
 ---
+
 # [[Legal_Shorthand]] 
 
 ## #has_/text_of_/abstract 

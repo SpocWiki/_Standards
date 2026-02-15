@@ -204,6 +204,7 @@ dv_has_:
     zh_tw: 有翅亞綱
     zu: Pterygota
 ---
+
 # [[Pterygota]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~Pterygota,22708]] 

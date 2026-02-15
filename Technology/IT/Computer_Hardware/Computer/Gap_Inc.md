@@ -62,6 +62,7 @@ dv_has_:
     vi: Gap Inc.
     zh: 蓋璞
 ---
+
 # [[Gap_Inc]]  
 
 ## #has_/text_of_/abstract 

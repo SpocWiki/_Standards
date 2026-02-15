@@ -20,6 +20,7 @@ aliases:
 - Система типов Хиндли — Милнера
 - نظام هيندلي-ميلنر للأنواع
 ---
+
 # [[Hindley–Milner_type-system]] 
 
 > A Hindley–Milner (HM) type system is a classical type system 

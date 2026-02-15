@@ -157,6 +157,7 @@ dv_has_:
     zh_sg: 和弦
     zh_tw: 和弦
 ---
+
 # [[Chord]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Chord,170439|WD~Chord,170439]] 

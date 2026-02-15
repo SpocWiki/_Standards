@@ -165,6 +165,7 @@ dv_has_:
     zh_sg: 临界点
     zh_tw: 臨界點
 ---
+
 # [[Critical_Point]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Critical_point,111059|WD~Critical_point,111059]] 

@@ -524,6 +524,7 @@ dv_has_:
     zh_sg: 二项分布
     zh_tw: 二項分佈
 ---
+
 # [[Binomial_Distribution]] 
 
 #is_/same_as :: [[../../WikiData/WD~Binomial_distribution,185547|WD~Binomial_distribution,185547]] 

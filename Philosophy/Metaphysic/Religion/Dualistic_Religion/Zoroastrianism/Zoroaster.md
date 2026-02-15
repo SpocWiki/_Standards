@@ -243,6 +243,7 @@ dv_has_:
     yue: 瑣羅亞斯德
     zh: 琐罗亚斯德
 ---
+
 # [[Zoroaster]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Zoroaster,35811|WD~Zoroaster,35811]] 

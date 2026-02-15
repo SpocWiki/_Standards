@@ -179,6 +179,7 @@ dv_has_:
     zh_sg: 玻尔模型
     zh_tw: 波耳模型
 ---
+
 # [[Bohr_Model]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Bohr_model,172948|WD~Bohr_model,172948]] 

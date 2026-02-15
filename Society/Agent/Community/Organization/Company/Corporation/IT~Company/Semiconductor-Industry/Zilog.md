@@ -37,6 +37,7 @@ aliases:
 - ザイログ
 - 자일로그
 ---
+
 # [[Zilog]]  
 
 #has_/time_/started :: 1974-06-01

@@ -255,6 +255,7 @@ dv_has_:
     zh_tw: 路易·達蓋爾
     zu: Louis Daguerre
 ---
+
 # [[Daguerre,Louis]] 
 
 #is_/same_as :: [[WD~Louis_Daguerre,131405]] 

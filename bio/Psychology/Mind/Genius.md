@@ -163,6 +163,7 @@ dv_has_:
     zh_sg: 天才
     zh_tw: 天才
 ---
+
 # [[Genius]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Genius,185030|WD~Genius,185030]] 

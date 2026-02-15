@@ -423,6 +423,7 @@ dv_has_:
     zh: 光速
     zh_hans: 光速
 ---
+
 # [[Speed_of_Light]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Speed_of_light_in_vacuum,2111|WD~Speed_of_light_in_vacuum,2111]] 

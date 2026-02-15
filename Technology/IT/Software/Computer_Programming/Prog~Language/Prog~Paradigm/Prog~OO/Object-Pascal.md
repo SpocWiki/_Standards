@@ -57,6 +57,7 @@ aliases:
 - ภาษาอ็อบเจกต์ปาสกาล
 - 오브젝트 파스칼
 ---
+
 # [[Object-Pascal]] 
 
 #is_a_/ComputerLanguage 

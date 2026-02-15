@@ -68,6 +68,7 @@ dv_has_:
     zh_hans: 集体决策
     zh_hant: 集體決策
 ---
+
 # [[Group_Decision_Making]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~group_decision_making,388791|WD~group_decision_making,388791]] 

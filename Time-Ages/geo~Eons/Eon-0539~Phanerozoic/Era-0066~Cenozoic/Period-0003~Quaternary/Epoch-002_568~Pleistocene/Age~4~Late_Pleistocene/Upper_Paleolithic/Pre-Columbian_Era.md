@@ -174,6 +174,7 @@ dv_has_:
     zh-sg: 前哥伦布时期
     zh-tw: 前哥倫布時期
 ---
+
 # [[Pre-Columbian_Era]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Pre-Columbian_era,202390|WD~Pre-Columbian_era,202390]]  

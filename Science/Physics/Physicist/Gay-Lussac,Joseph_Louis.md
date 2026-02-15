@@ -247,6 +247,7 @@ dv_has_:
     zh_sg: 约瑟夫·路易·盖-吕萨克
     zh_tw: 約瑟夫·路易·給呂薩克
 ---
+
 # [[Gay-Lussac,Joseph_Louis]] 
 
 #is_/same_as :: [[WD~Joseph_Louis_Gay-Lussac,153185]] 

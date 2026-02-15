@@ -234,6 +234,7 @@ dv_has_:
     yue: 坐牛
     zh: 坐牛
 ---
+
 # [[Sitting_Bull]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Sitting_Bull,43527|WD~Sitting_Bull,43527]]  

@@ -206,6 +206,7 @@ dv_has_:
     zh_hant: 速食
     zh_tw: 速食
 ---
+
 # [[Fast_Food]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Fast_food,81799|WD~Fast_food,81799]] 

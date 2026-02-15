@@ -220,6 +220,7 @@ dv_has_:
     zh_sg: 商场
     zh_tw: 商場
 ---
+
 # [[Shopping_Center]] 
 
 Class of all shopping_centers.

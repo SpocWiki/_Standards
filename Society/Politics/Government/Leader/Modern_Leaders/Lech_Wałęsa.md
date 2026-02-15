@@ -307,6 +307,7 @@ dv_has_:
     zh_hans: 莱赫·瓦文萨
     zh_hant: 莱赫·瓦文萨
 ---
+
 # [[Lech_Wałęsa]] 
 
 #is_/same_as :: [[WD~Lech_Wałęsa,444]] 

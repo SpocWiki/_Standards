@@ -341,6 +341,7 @@ dv_has_:
     zh_sg: 工具
     zh_tw: 工具
 ---
+
 # [[Tool]] 
 
 #is_/same_as :: [[../WikiData/WD~Physical_tool,39546|WD~Physical_tool,39546]] 

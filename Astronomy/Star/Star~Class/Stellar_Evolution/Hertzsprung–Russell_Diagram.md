@@ -203,6 +203,7 @@ dv_has_:
     yue: 赫羅圖
     zh: 赫羅圖
 ---
+
 # [[Hertzsprung–Russell_Diagram]] 
 
 #is_/same_as :: [[WD~Hertzsprung–Russell_diagram,3270143]] 

@@ -161,6 +161,7 @@ dv_has_:
     zh_sg: 中世纪哲学
     zh_tw: 中世紀哲學
 ---
+
 # [[Medieval_Philosophy]] 
 
 #is_/same_as :: [[WD~Medieval_philosophy,192292]] 

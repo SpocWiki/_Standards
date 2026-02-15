@@ -252,6 +252,7 @@ dv_has_:
     yue: 東印度公司
     zh: 不列颠东印度公司
 ---
+
 # [[East_India_Company]]
 
 #is_/similar_to :: [[Dutch_East_India_Company|Dutch_East_India_Company]] 

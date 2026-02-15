@@ -250,6 +250,7 @@ dv_has_:
     zh_sg: 性取向
     zh_tw: 性取向
 ---
+
 # [[Sexual_Orientation]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Sexual_orientation,17888|WD~Sexual_orientation,17888]]  

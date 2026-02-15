@@ -268,6 +268,7 @@ aliases:
 - ꭴꮎꮝꮥꮅ
 - 뿌리
 ---
+
 # [[Root]] 
 
 #is_/same_as :: [[WD~Root,41500]]

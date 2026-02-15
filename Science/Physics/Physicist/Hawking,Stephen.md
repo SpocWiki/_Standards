@@ -497,6 +497,7 @@ dv_has_:
     zh_tw: 史蒂芬·霍金
     zu: Stephen Hawking
 ---
+
 # [[Hawking,Stephen]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Stephen_Hawking,17714|WD~Stephen_Hawking,17714]]  

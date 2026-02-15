@@ -134,6 +134,7 @@ dv_has_:
     zh_sg: 辗转相除法
     zh_tw: 輾轉相除法
 ---
+
 # [[Euclidean_Algorithm]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Euclidean_algorithm,230848|WD~Euclidean_algorithm,230848]] 

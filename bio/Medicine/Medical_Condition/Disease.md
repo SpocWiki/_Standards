@@ -485,6 +485,7 @@ dv_has_:
     zh_tw: 疾病
     zu: isifo
 ---
+
 # [[Disease]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Disease,12136|WD~Disease,12136]] 

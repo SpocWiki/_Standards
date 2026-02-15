@@ -444,6 +444,7 @@ dv_has_:
     zh_tw: 政治
     zu: Ezombusazwe
 ---
+
 # [[Politics]] 
 
 #is_/same_as :: [[../WikiData/WD~Politics,7163|WD~Politics,7163]] 

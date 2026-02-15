@@ -260,6 +260,7 @@ dv_has_:
     zh_hk: 抗生素
     zu: Ama-antibiotic
 ---
+
 # [[Antibiotic]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Antibiotic,12187|WD~Antibiotic,12187]] 

@@ -211,6 +211,7 @@ dv_has_:
     zh: 聖訓
     zh_hant: 聖訓
 ---
+
 # [[Hadith]] 
 
 #is_/same_as :: [[WD~Hadith,234343]] 

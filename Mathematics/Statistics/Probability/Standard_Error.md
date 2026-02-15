@@ -84,6 +84,7 @@ aliases:
 - 標準誤差
 - 표준 오차
 ---
+
 # [[Standard_Error]] 
 
 #is_/similar_to :: [[Standard_Deviation|Standard_Deviation]] 

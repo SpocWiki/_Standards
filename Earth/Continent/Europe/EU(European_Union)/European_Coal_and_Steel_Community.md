@@ -217,6 +217,7 @@ dv_has_:
     zh_sg: 欧洲煤钢共同体
     zh_tw: 歐洲煤鋼共同體
 ---
+
 # [[European_Coal_and_Steel_Community]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~European_Coal_and_Steel_Community,161549|WD~European_Coal_and_Steel_Community,161549]] 

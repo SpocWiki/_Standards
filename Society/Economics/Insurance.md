@@ -241,6 +241,7 @@ dv_has_:
     zh_hant: 保險
     zh_tw: 保險
 ---
+
 # [[Insurance]] 
 
 #is_/same_as :: [[WikiData/WD~Insurance,43183|WD~Insurance,43183]] 

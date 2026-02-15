@@ -495,6 +495,7 @@ dv_has_:
     zh_tw: 物理學
     zu: umchazandalo
 ---
+
 # [[Physics]] 
 
 #is_/same_as :: [[../WikiData/WD~Physics,413|WD~Physics,413]] 

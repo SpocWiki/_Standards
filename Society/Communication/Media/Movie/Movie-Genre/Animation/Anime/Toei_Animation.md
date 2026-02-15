@@ -69,6 +69,7 @@ aliases:
 - 東映動畫
 - 도에이 애니메이션
 ---
+
 # [[Toei_Animation]]  
 
 > **Toei Animation** Co., Ltd. 

@@ -723,6 +723,7 @@ dv_has_code: EU
 dv_has_image_for_flag: '![Flag|350](https://upload.wikimedia.org/wikipedia/commons/b/b7/Flag_of_Europe.svg)'
 dv_has_image_for_coat_of_arms: '[[Europe/Seal_of_Europe.svg|350]]'
 ---
+
 # [[Europe]] 
 
 #is_/same_as :: [[../../WikiData/WD~Europe,46|WD~Europe,46]] 

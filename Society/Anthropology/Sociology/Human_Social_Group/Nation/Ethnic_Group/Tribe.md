@@ -217,6 +217,7 @@ dv_has_:
     zh_sg: 部落
     zh_tw: 部落
 ---
+
 # [[Tribe]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Tribe,133311|WD~Tribe,133311]]  

@@ -155,6 +155,7 @@ dv_has_:
     zh: 智力游戏
     zu: INkilikiqi
 ---
+
 # [[Puzzle]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Puzzle,13698|WD~Puzzle,13698]]  

@@ -316,6 +316,7 @@ dv_has_:
     zh-my: 艾顿·庄
     zh_sg: 艾登·约翰
 ---
+
 # [[John,Elton]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Elton_John,2808|WD~Elton_John,2808]] 

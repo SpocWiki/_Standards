@@ -165,6 +165,7 @@ dv_has_:
     zh_hans: 精神哲学
     zh_hant: 精神哲学
 ---
+
 # [[Philosophy_of_Mind]]
 
 #is_/same_as :: [[WD~Philosophy_of_mind,23407]] 

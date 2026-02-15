@@ -36,6 +36,7 @@ aliases:
 - バシラス界
 - 芽孢杆菌界
 ---
+
 # [[Bacillati]] 
 
 

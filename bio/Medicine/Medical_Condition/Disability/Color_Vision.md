@@ -125,6 +125,7 @@ dv_has_:
     zh_cn: 颜色视觉
     zh_hans: 彩色视觉
 ---
+
 # [[Color_Vision]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Color_vision,374259|WD~Color_vision,374259]] 

@@ -113,6 +113,7 @@ dv_has_:
     zh_hant: 恆星核合成
     zh_hk: 恆星核合成
 ---
+
 # [[Stellar_Nucleosynthesis]] 
 
 #is_/same_as  :: [[../../../../WikiData/WD~Stellar_nucleosynthesis,1057093]] 

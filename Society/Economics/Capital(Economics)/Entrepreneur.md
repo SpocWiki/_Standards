@@ -358,6 +358,7 @@ dv_has_:
     zh_tw: 企業家
     zu: umninibhizinisi
 ---
+
 # [[Entrepreneur]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~entrepreneur,131524]]

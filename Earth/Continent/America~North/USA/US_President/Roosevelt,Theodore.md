@@ -462,6 +462,7 @@ dv_is_same_as:
 - '[[/_secret/Earth/Continent/America~North/USA/US_President/Roosevelt,Theodore.secret|Roosevelt,Theodore.secret]]'
 dv_is_part_of: '[[Theodore_Roosevelt]]'
 ---
+
 # [[Roosevelt,Theodore]] 
 
 has_time_started = `=this.dv_has_time_started`

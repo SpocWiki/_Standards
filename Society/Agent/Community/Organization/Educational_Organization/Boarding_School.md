@@ -162,6 +162,7 @@ dv_has_:
     zh_cn: 寄宿学校
     zh_hant: 寄宿學校
 ---
+
 # [[Boarding_School]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Boarding_school,269770|WD~Boarding_school,269770]] 

@@ -35,6 +35,7 @@ dv_has_:
     zh-hans: 虚函数表
     zh-hant: 虛擬函式表
 ---
+
 # [[VMT(Virtual_Method_Table)]]  
 
 ## #has_/text_of_/abstract 

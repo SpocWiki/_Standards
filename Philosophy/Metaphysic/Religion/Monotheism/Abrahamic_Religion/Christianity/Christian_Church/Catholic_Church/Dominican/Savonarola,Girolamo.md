@@ -190,6 +190,7 @@ dv_has_:
     zh_sg: 萨佛纳罗拉
     zh_tw: 薩佛納羅拉
 ---
+
 # [[Savonarola,Girolamo]] 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Girolamo_Savonarola,164823|WD~Girolamo_Savonarola,164823]]  

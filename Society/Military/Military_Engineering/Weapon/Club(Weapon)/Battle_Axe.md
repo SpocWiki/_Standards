@@ -112,6 +112,7 @@ dv_has_:
     yue: 戰斧
     zh: 戰斧
 ---
+
 # [[Battle_Axe]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Battle_axe,852049|WD~Battle_axe,852049]] 

@@ -257,6 +257,7 @@ dv_has_:
     zh_tw: 最後的晚餐
     zu: The Last Supper
 ---
+
 # [[Last_Supper(Painting)]]
 
 #is_/same_as ::  [[../../../../../../WikiData/WD~The_Last_Supper,128910|WD~The_Last_Supper,128910]]  

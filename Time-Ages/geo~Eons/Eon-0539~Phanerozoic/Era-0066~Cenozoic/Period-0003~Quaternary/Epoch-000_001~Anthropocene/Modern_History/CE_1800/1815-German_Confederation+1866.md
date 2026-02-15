@@ -300,6 +300,7 @@ dv_has_:
     zh-sg: 德意志邦联
     zh-tw: 德意志邦聯
 ---
+
 # [[1815-German_Confederation+1866]]
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~German_Confederation,151624|WD~German_Confederation,151624]]

@@ -186,6 +186,7 @@ dv_has_:
     zh_hk: 權利
     zh_tw: 權利
 ---
+
 # [[Rights]] 
 
 #is_/same_as :: [[../../WikiData/WD~Rights,780687|WD~Rights,780687]] 

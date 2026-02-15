@@ -253,6 +253,7 @@ dv_has_:
     zh_hant: 聖靈
     zu: Umoya ongcwele
 ---
+
 # [[Holy_Spirit]] 
 
 #is_/same_as :: [[WD~Holy_Spirit,37302]] 

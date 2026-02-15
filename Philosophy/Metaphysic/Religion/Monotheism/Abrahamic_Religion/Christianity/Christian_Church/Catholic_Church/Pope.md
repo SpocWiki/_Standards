@@ -418,6 +418,7 @@ dv_has_:
     zh_hk: 教宗
     zh_tw: 教宗
 ---
+
 # [[Pope]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Pope,19546|WD~Pope,19546]] 

@@ -382,6 +382,7 @@ dv_has_:
     zh_hant: 蘇伊士運河
     zh_hk: 蘇彝士運河
 ---
+
 # [[Suez_Canal]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Suez_Canal,899|WD~Suez_Canal,899]] 

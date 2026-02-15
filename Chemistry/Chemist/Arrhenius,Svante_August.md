@@ -297,6 +297,7 @@ dv_has_:
     yue: 阿瑞尼斯
     zh: 斯凡特·奥古斯特·阿伦尼乌斯
 ---
+
 # [[Arrhenius,Svante_August]] 
 
 #is_/same_as :: [[../../WikiData/WD~Svante_August_Arrhenius,80956|WD~Svante_August_Arrhenius,80956]] 

@@ -1395,6 +1395,7 @@ described_at_URL: https://wikispooks.com/wiki/Germany
 telephone_country_code: +49
 Unicode_character: 🇩🇪
 ---
+
 # [[Germany]] (🇩🇪 Deutschland)
 
 #is_a_/Country 

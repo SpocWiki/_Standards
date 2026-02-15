@@ -124,6 +124,7 @@ aliases:
 - 物質成癮
 - 薬物依存症
 ---
+
 # [[Substance_Dependence]] 
 
 #is_/similar_to :: [[../../../Society/Law/Criminal_Law/Crime/Substance_Abuse|Substance_Abuse]] 

@@ -196,6 +196,7 @@ aliases:
 - 網路電影資料庫
 - 인터넷 영화 데이터베이스
 ---
+
 # [[IMDb(Internet_Movie_Database)]] 
 
 #is_/same_as :: [[WD~Internet_Movie_Database,37312]]  

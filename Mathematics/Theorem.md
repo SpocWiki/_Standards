@@ -186,6 +186,7 @@ dv_has_:
     zh_hk: 定理
     zh_tw: 定理
 ---
+
 # [[Theorem]] 
 
 #is_/same_as :: [[../WikiData/WD~Theorem,65943|WD~Theorem,65943]] 

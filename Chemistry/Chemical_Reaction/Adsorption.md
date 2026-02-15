@@ -162,6 +162,7 @@ aliases:
 - 吸附
 - 흡착
 ---
+
 # [[Adsorption]] 
 
 is_different_from = `=this.dv_is_different_from` 

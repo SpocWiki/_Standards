@@ -216,6 +216,7 @@ dv_has_:
     zh_cn: 二极管
     zh_tw: 二極體
 ---
+
 # [[Diode]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Diode,11656|WD~Diode,11656]] 

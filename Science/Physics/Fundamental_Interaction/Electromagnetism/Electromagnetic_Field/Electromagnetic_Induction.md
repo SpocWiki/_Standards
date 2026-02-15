@@ -183,6 +183,7 @@ dv_has_:
     zh: 电磁感应
     zh_hans: 电磁感应
 ---
+
 # [[Electromagnetic_Induction]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Electromagnetic_induction,988780|WD~Electromagnetic_induction,988780]] 

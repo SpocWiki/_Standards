@@ -168,6 +168,7 @@ dv_has_:
     zh_hant: 人工選擇
     zh_hk: 人工選擇
 ---
+
 # [[Artificial_Selection]] 
 
 #is_/same_as :: [[../../WikiData/WD~Artificial_selection,995745|WD~Artificial_selection,995745]] 

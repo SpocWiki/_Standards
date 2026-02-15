@@ -52,6 +52,7 @@ aliases:
 - ფიქრდანაშაული
 - 犯罪思想
 ---
+
 # [[Thoughtcrime]]  
 
 > In the dystopian novel Nineteen Eighty-Four, **thoughtcrime** 

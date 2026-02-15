@@ -182,6 +182,7 @@ dv_has_:
     zh_sg: 布须曼人
     zh_tw: 布希曼人
 ---
+
 # [[San_People]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~San_people,172365|WD~San_people,172365]] 

@@ -174,6 +174,7 @@ dv_has_:
     zh_sg: 阿育吠陀
     zh_tw: 阿育吠陀
 ---
+
 # [[Ayurveda]] 
 
 #is_/same_as :: [[../../WikiData/WD~Ayurveda,132325|WD~Ayurveda,132325]] 

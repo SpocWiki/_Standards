@@ -175,6 +175,7 @@ dv_has_:
     yue: 諾曼人
     zh: 諾曼人
 ---
+
 # [[Norman]] 
 
 #is_/same_as :: [[WD~Normans,83418]] 

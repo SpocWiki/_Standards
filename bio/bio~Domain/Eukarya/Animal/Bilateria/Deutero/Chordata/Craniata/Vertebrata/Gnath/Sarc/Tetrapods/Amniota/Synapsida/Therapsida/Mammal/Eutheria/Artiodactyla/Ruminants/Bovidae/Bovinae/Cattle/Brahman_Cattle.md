@@ -74,6 +74,7 @@ dv_has_:
     yue: 布拉曼牛
     zh: 婆罗门牛
 ---
+
 # [[Brahman_Cattle]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brahman_cattle,897314|WD~Brahman_cattle,897314]] 

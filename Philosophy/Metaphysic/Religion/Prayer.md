@@ -287,6 +287,7 @@ dv_has_:
     yue: 祈禱
     zh: 祷告
 ---
+
 # [[Prayer]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Prayer,40953|WD~Prayer,40953]]  

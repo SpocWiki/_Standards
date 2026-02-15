@@ -144,6 +144,7 @@ dv_has_:
     zh_sg: 超心理学
     zh_tw: 超心理學
 ---
+
 # [[Parapsychology]] 
 
 #is_/same_as :: [[WD~Parapsychology,179098]] 

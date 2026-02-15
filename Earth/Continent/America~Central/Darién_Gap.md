@@ -105,6 +105,7 @@ aliases:
 - 達連隘口
 - 다리엔 지협
 ---
+
 # [[Darién_Gap]] 
 
 > Darién Gap (UK: , US: , Spanish: Tapón del Darién, lit. 'Darién plug') 

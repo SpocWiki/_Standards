@@ -182,6 +182,7 @@ dv_has_:
     zh_sg: 稳态
     zh_tw: 穩態
 ---
+
 # [[Homeostasis]] 
 
 #is_/same_as :: [[../../WikiData/WD~Homeostasis,103191|WD~Homeostasis,103191]] 

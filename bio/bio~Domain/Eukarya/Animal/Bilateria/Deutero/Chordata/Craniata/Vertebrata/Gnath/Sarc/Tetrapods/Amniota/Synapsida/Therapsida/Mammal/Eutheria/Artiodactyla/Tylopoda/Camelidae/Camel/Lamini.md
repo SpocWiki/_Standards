@@ -65,6 +65,7 @@ aliases:
 - 美洲驼族
 - 라마족
 ---
+
 # [[Lamini]]  
 
 ## #has_/text_of_/abstract 

@@ -219,6 +219,7 @@ dv_has_:
     zh: 類金屬
     zh_hk: 類金屬
 ---
+
 # [[Metalloid]] 
 
 #is_/same_as :: [[WD~Metalloid,19596]] 

@@ -113,6 +113,7 @@ dv_has_:
     zh_hant: 固體力學
     zh_hk: 固體力學
 ---
+
 # [[Solid_Mechanics]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Solid_mechanics,1080293|WD~Solid_mechanics,1080293]]  

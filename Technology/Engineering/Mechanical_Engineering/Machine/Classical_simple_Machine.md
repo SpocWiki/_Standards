@@ -155,6 +155,7 @@ dv_has_:
     zh_tw: 簡單機械
     zu: INguxa elula
 ---
+
 # [[Classical_simple_Machine]] 
 
 #is_/same_as :: 

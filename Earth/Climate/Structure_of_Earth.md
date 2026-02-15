@@ -180,6 +180,7 @@ dv_has_:
     zh: 地球構造
     zh_cn: 地球构造
 ---
+
 # [[Structure_of_Earth]] 
 
 #is_/same_as :: [[../../WikiData/WD~Structure_of_Earth,1664027|WD~Structure_of_Earth,1664027]]  

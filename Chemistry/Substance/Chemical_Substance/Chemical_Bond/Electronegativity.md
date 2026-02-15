@@ -196,6 +196,7 @@ dv_has_:
     yue: 電負度
     zh: 电负性
 ---
+
 # [[Electronegativity]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Electronegativity,78974|WD~Electronegativity,78974]] 

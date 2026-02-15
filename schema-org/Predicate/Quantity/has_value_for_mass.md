@@ -328,6 +328,7 @@ dv_is_same_as:
 - '[[/_secret/schema-org/Predicate/Quantity/has_value_for_mass.secret|has_value_for_mass.secret]]'
 has_id_wikidata: Q11423
 ---
+
 # [[has_value_for_mass]] 
 
 #[[has_value_for_mass]]] 

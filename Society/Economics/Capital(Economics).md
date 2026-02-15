@@ -223,6 +223,7 @@ dv_has_:
     zh_sg: 资本
     zh_tw: 資本
 ---
+
 # [[Capital(Economics)]]  
 
 ## #has_/text_of_/abstract 

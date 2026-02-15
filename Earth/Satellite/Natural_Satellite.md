@@ -314,6 +314,7 @@ dv_has_:
     zh_tw: 衛星
     zu: Iduna
 ---
+
 # [[Natural_Satellite]] 
 
 #is_/same_as :: [[WD~Natural_satellite,2537]] 

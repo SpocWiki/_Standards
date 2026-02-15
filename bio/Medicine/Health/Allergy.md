@@ -267,6 +267,7 @@ dv_has_:
     zh: 过敏
     zu: Isixungwane
 ---
+
 # [[Allergy]]
 
 #is_/same_as :: [[../../../WikiData/WD~Allergy,42982]] 

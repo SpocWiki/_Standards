@@ -122,6 +122,7 @@ dv_has_:
     zh_sg: 罗伯特·诺伊斯
     zh_tw: 羅伯特·諾伊斯
 ---
+
 # [[Noyce,Robert]] 
 
 #has_/time_/started :: 1927-12-12 

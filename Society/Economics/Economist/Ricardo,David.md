@@ -208,6 +208,7 @@ dv_has_:
     zh_sg: 大卫·李嘉图
     zh_tw: 大衛·李嘉圖
 ---
+
 # [[Ricardo,David]]
 
 #has_/time_/started ::  1772-04-18 

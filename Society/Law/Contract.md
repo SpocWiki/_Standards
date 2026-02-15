@@ -263,6 +263,7 @@ dv_has_:
     zh_sg: 合约
     zh_tw: 契約
 ---
+
 # [[Contract]] 
 
 #is_/same_as :: [[../../WikiData/WD~Contract,93288|WD~Contract,93288]] 

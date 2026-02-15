@@ -241,6 +241,7 @@ dv_has_:
     zh_hant: 全球定位系統
     zh_tw: 全球定位系統
 ---
+
 # [[GPS(Global_Positioning_System)]] 
 
 #is_/same_as :: [[WD~Global_Positioning_System,18822]] 

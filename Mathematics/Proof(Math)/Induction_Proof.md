@@ -183,6 +183,7 @@ dv_has_:
     zh_sg: 数学归纳法
     zh_tw: 數學歸納法
 ---
+
 # [[Induction_Proof]] 
 
 #is_/same_as :: [[WD~Mathematical_induction,178377]] 

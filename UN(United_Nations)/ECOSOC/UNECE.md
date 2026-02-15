@@ -97,6 +97,7 @@ aliases:
 - 聯合國歐洲經濟委員會
 - 국제 연합 유럽 경제 위원회
 ---
+
 # [[UNECE]]  
 
 > The United Nations Economic Commission for Europe (ECE or **UNECE**) is one of the five regional commissions under the jurisdiction of the ECOSOC(United Nations Economic and Social Council). 

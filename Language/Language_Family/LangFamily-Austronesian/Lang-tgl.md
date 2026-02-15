@@ -334,6 +334,7 @@ dv_has_:
     zh_tw: 他加祿語
     zu: isi-Tagalog
 ---
+
 # [[Lang-tgl]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Tagalog,34057|WD~Tagalog,34057]]  

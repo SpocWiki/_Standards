@@ -229,6 +229,7 @@ dv_has_:
     zh_sg: 白矮星
     zh_tw: 白矮星
 ---
+
 # [[White_Dwarf]] 
 
 #is_/same_as :: [[../../../WikiData/WD~White_dwarf,5871|WD~White_dwarf,5871]]  

@@ -208,6 +208,7 @@ dv_has_:
     zh_sg: 斯佩耳特小麦
     zh_tw: 斯佩耳特小麥
 ---
+
 # [[Spelt]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Triticum_spelta,158767|WD~Triticum_spelta,158767]] 

@@ -793,6 +793,7 @@ Languages:
 icon: flag-mt
 Unicode_character: 🇲🇹
 ---
+
 # [[Malta]] 🇲🇹 has Properties... 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`

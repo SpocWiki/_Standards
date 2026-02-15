@@ -276,6 +276,7 @@ dv_has_:
     yue: 傅利葉
     zh: 约瑟夫·傅里叶
 ---
+
 # [[Fourier,Joseph]] 
 
 #is_/same_as :: [[WD~Joseph_Fourier,8772]] 

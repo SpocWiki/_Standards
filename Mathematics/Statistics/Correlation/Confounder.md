@@ -52,6 +52,7 @@ aliases:
 - 混淆變數
 - 교락
 ---
+
 # [[Confounder]]  
 
 ## #has_/text_of_/abstract 

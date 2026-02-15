@@ -51,6 +51,7 @@ aliases:
 - സ്റ്റാക് ഓവർഫ്ലോ
 - 스택 오버플로
 ---
+
 # [[StackOverflow]] 
 
 #has_/creator :: [[../../../../../../../../Knowledge/Science/Scientist/Atwood,Jeff|Atwood,Jeff]], [[Spolski~Joel]] 

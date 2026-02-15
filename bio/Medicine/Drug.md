@@ -266,6 +266,7 @@ dv_has_:
     zh_hant: 藥物
     zu: Isidakamizwa
 ---
+
 # [[Drug]] 
 
 Class of all drugs.

@@ -166,6 +166,7 @@ dv_has_:
     zh_mo: 超大質量黑洞
     zh_tw: 超大質量黑洞
 ---
+
 # [[Supermassive_Black_Hole]] 
 
 #is_/same_as :: [[../../WikiData/WD~Supermassive_black_hole,40392|WD~Supermassive_black_hole,40392]]  

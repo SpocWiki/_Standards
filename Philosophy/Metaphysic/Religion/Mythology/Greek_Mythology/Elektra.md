@@ -150,6 +150,7 @@ dv_has_:
     zh_sg: 厄勒克特拉
     zh_tw: 厄勒克特拉
 ---
+
 # [[Elektra]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Elektra,131651|WD~Elektra,131651]] 

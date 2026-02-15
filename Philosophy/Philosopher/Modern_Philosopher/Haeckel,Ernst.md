@@ -255,6 +255,7 @@ dv_has_:
     yue: 海克爾
     zh: 恩斯特·海克尔
 ---
+
 # [[Haeckel,Ernst]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Ernst_Haeckel,48246|WD~Ernst_Haeckel,48246]] 

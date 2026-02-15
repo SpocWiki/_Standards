@@ -159,6 +159,7 @@ dv_has_:
     zh_sg: 原恒星
     zh_tw: 原恆星
 ---
+
 # [[Protostar]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Protostar,204903|WD~Protostar,204903]]  

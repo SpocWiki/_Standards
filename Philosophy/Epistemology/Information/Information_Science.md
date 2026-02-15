@@ -184,6 +184,7 @@ dv_has_:
     zh_tw: 資訊科學
     zu: INzululwazi yoKwaziswa
 ---
+
 # [[Information_Science]] 
 
 #is_/same_as :: [[WikiData/WD~Information_science,16387|WD~Information_science,16387]] 

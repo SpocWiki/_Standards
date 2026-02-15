@@ -62,6 +62,7 @@ dv_has_:
     zh_hant: 形式謬誤
     zh_hk: 形式謬誤
 ---
+
 # [[Formal_Fallacy]] 
 
 #is_/same_as :: [[WD~Formal_Fallacy,962165]] 

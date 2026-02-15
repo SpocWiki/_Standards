@@ -225,6 +225,7 @@ dv_has_:
     zh_cn: 路德维希·费尔巴哈
     zh-hans: 路德维希·费尔巴哈
 ---
+
 # [[Ludwig_Feuerbach]]
 
 German philosopher and anthropologist (1804–1872) 

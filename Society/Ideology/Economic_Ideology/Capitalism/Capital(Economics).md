@@ -226,6 +226,7 @@ dv_has_:
     zh_sg: 资本
     zh_tw: 資本
 ---
+
 # [[Capital(Economics)]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Capital,8137|WD~Capital,8137]] 

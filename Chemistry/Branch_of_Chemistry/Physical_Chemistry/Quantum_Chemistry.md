@@ -198,6 +198,7 @@ dv_has_:
     zh_sg: 量子化学
     zh_tw: 量子化學
 ---
+
 # [[Quantum_Chemistry]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Quantum_chemistry,188403|WD~Quantum_chemistry,188403]]  

@@ -299,6 +299,7 @@ dv_has_:
     zh_hant: 古代世界七大奇蹟
     zh_hk: 古代世界七大奇蹟
 ---
+
 # [[Seven_Wonders_of_the_Ancient_World]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Seven_Wonders_of_the_Ancient_World,489772|WD~Seven_Wonders_of_the_Ancient_World,489772]] 

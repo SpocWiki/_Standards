@@ -222,6 +222,7 @@ dv_has_:
     yue: 黃金比例
     zh: 黄金分割率
 ---
+
 # [[Golden_Ratio]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Golden_ratio,41690|WD~Golden_ratio,41690]]

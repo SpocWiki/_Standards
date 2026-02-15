@@ -265,6 +265,7 @@ dv_has_:
     zh-sg: 计重秤
     zh-tw: 計重秤
 ---
+
 # [[Weighing_Scale]] ⚖️ 
 
 #is_/same_as :: [[../../../WikiData/WD~Weighing_scale,134566|WD~Weighing_scale,134566]]  

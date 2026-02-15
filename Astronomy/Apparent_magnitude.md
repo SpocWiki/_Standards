@@ -217,6 +217,7 @@ dv_has_:
     zh_sg: 星等
     zh_tw: 星等
 ---
+
 # [[Apparent_magnitude]] 
 
 #is_/same_as :: [[../WikiData/WD~Apparent_magnitude,124313|WD~Apparent_magnitude,124313]] 

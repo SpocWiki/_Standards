@@ -101,6 +101,7 @@ dv_has_:
     zh: 神化領袖魅力
     zh_tw: 天賦群眾魅力
 ---
+
 # [[Charisma]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Charisma,118157|WD~Charisma,118157]] 

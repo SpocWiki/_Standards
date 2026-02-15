@@ -97,6 +97,7 @@ dv_has_:
     zh_hant: 序列主義
     zh_hk: 序列主義
 ---
+
 # [[Serialism]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Serialism,507246|WD~Serialism,507246]]  

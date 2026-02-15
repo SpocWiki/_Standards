@@ -265,6 +265,7 @@ dv_has_:
     zea: Pinksteren
     zh: 五旬節
 ---
+
 # [[Pentecost]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Pentecost,39864|WD~Pentecost,39864]]  

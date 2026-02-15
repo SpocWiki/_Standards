@@ -81,6 +81,7 @@ aliases:
 - 马塞尔·莱希-拉尼基
 - 마르셀 라이히라이츠키
 ---
+
 # [[Marcel_Reich-Ranicki]]  
 
 #has_/time_/started :: 1920-06-02

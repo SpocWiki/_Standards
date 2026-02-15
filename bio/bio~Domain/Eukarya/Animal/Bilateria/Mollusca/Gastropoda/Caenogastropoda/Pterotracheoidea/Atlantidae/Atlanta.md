@@ -219,6 +219,7 @@ dv_has_:
     zh_hk: 亞特蘭大
     zh_tw: 亞特蘭大
 ---
+
 # [[Atlanta]] 
 
 ![ ](Atlanta/AtlantaPeroni1.jpg)

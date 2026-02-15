@@ -326,6 +326,7 @@ dv_has_:
     zh_sg: 荞麦
     zh_tw: 蕎麥
 ---
+
 # [[Buckwheat]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Fagopyrum_esculentum,132734|WD~Fagopyrum_esculentum,132734]] 

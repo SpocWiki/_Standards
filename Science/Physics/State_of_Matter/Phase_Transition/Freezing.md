@@ -166,6 +166,7 @@ dv_has_:
     zh_sg: 凝固
     zh_tw: 凝固
 ---
+
 # [[Freezing]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Freezing,108000|WD~Freezing,108000]] 

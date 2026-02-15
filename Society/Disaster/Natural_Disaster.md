@@ -284,6 +284,7 @@ dv_has_:
     zh_hant: 自然災害
     zh_tw: 自然災害
 ---
+
 # [[Natural_Disaster]] 
 
 #is_/same_as :: [[../../WikiData/WD~Natural_disaster,8065|WD~Natural_disaster,8065]] 

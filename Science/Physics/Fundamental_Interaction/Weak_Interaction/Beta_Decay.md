@@ -172,6 +172,7 @@ dv_has_:
     zh_sg: β衰变
     zh_tw: 貝他衰變
 ---
+
 # [[Beta_Decay]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Beta_decay,306786|WD~Beta_decay,306786]] 

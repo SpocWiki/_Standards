@@ -166,6 +166,7 @@ dv_has_:
     zh: 閃米特人
     zh_hant: 閃米特人
 ---
+
 # [[Semitic_People]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Semitic_people,62928|WD~Semitic_people,62928]]  

@@ -88,6 +88,7 @@ aliases:
 - 三日瘧原蟲
 - 사일열원충
 ---
+
 # [[Plasmodium_malariae]] 
 
 #is_/same_as :: [[WD~Plasmodium_malariae,133969]] 

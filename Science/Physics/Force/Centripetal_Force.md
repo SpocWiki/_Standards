@@ -179,6 +179,7 @@ dv_has_:
     zh_sg: 向心力
     zh_tw: 向心力
 ---
+
 # [[Centripetal_Force]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Centripetal_force,172881|WD~Centripetal_force,172881]] 

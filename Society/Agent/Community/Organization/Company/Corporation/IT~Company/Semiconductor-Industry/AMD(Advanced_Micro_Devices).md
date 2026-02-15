@@ -117,6 +117,7 @@ aliases:
 - 超微半導體
 - 어드밴스트 마이크로 디바이시스
 ---
+
 # [[AMD(Advanced_Micro_Devices)]] 
 
 > Advanced Micro Devices, Inc. (**AMD**) is an American multinational corporation and semiconductor company 

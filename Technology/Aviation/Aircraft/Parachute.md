@@ -226,6 +226,7 @@ dv_has_:
     zh_tw: 降落傘
 Unicode_character: 🪂
 ---
+
 # [[Parachute]] 🪂 
 
 #is_/same_as :: [[WD~Parachute,482816]] 

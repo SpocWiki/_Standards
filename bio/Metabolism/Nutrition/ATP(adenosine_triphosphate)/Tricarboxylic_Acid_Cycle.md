@@ -215,6 +215,7 @@ dv_has_:
     zh_sg: 三羧酸循环
     zh_tw: 三羧酸循環
 ---
+
 # [[Tricarboxylic_Acid_Cycle]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Tricarboxylic_acid_cycle,133895|WD~Tricarboxylic_acid_cycle,133895]]  

@@ -101,6 +101,7 @@ aliases:
 - 拙劣作品
 - 키치
 ---
+
 # [[Kitsch]] 
 
 #is_/same_as :: [[WD~Kitsch,131711]]  

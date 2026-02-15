@@ -281,6 +281,7 @@ dv_has_:
     yue: 喬托
     zh: 喬托·迪·邦多內
 ---
+
 # [[Giotto]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Giotto,7814|WD~Giotto,7814]] 

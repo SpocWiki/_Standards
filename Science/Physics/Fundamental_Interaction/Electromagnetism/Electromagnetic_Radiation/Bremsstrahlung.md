@@ -91,6 +91,7 @@ dv_has_:
     zh_hant: 軔致輻射
     zh_hk: 軔致輻射
 ---
+
 # [[Bremsstrahlung]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Bremsstrahlung,655904|WD~Bremsstrahlung,655904]] 

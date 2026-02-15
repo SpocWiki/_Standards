@@ -137,6 +137,7 @@ dv_is_same_as:
 - '[[/_secret/Chemistry/Chemist/Carothers,Wallace.secret|Carothers,Wallace.secret]]'
 dv_has_created_: '[[../Organic_Chemistry/Polymer/Polyamide/Nylon]]'
 ---
+
 # [[Carothers,Wallace]] 
 
 #is_/same_as :: [[../../WikiData/WD~Wallace_Carothers,333724|WD~Wallace_Carothers,333724]]  

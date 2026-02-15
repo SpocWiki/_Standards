@@ -198,6 +198,7 @@ dv_has_:
     zh_hant: 綁票
     zh_tw: 綁票
 ---
+
 # [[Kidnapping]] 
 
 #is_/same_as :: [[WD~Kidnapping,318296]] 

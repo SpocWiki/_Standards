@@ -209,6 +209,7 @@ dv_has_:
     zh_hk: 槓桿
     zh_tw: 槓桿
 ---
+
 # [[Lever]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Lever,40164|WD~Lever,40164]] 

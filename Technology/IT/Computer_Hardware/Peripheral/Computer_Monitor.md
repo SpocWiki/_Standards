@@ -231,6 +231,7 @@ dv_has_:
     zh: 显示器
     zu: Iselusi sesiCikizi
 ---
+
 # [[Computer_Monitor]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Computer_monitor,5290|WD~Computer_monitor,5290]] 

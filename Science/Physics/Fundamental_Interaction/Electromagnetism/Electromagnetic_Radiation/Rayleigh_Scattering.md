@@ -122,6 +122,7 @@ dv_has_:
     zh_sg: 瑞利散射
     zh_tw: 瑞利散射
 ---
+
 # [[Rayleigh_Scattering]] 
 
 #is_/same_as :: [[WD~Rayleigh_scattering,193709]] 

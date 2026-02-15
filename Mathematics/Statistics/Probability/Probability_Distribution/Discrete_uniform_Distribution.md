@@ -82,6 +82,7 @@ dv_has_:
     yue: 離散均勻分佈
     zh: 離散型均勻分佈
 ---
+
 # [[Discrete_uniform_Distribution]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Discrete_uniform_distribution,3574718|WD~Discrete_uniform_distribution,3574718]] 

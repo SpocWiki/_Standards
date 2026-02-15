@@ -144,6 +144,7 @@ dv_has_:
     zh_sg: 电磁铁
     zh_tw: 電磁鐵
 ---
+
 # [[Electromagnet]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Electromagnet,178032|WD~Electromagnet,178032]] 

@@ -202,6 +202,7 @@ aliases:
 - 步槍
 - 소총
 ---
+
 # [[Rifle]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Rifle,124072|WD~Rifle,124072]] 

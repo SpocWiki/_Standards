@@ -523,6 +523,7 @@ dv_has_:
     zh_tw: 辛普森家庭
     zu: AmaSimpson
 ---
+
 # [[Simpsons]]  
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~The_Simpsons,886|WD~The_Simpsons,886]] 

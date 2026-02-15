@@ -548,6 +548,7 @@ dv_has_:
     zh_tw: 蔬菜
     zu: imifino
 ---
+
 # [[Vegetable]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Vegetable,11004|WD~Vegetable,11004]] 

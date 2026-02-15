@@ -150,6 +150,7 @@ dv_is_same_as:
 - '[[/_personal/Earth/Geography/Place/Civic_Structure/Crematorium.personal|Crematorium.personal]]'
 - '[[/_secret/Earth/Geography/Place/Civic_Structure/Crematorium.secret|Crematorium.secret]]'
 ---
+
 # [[Crematorium]] 
 
 Class of all crematoriums.

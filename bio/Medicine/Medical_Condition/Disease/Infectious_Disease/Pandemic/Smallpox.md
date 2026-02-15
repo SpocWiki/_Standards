@@ -407,6 +407,7 @@ dv_has_:
     zh_hk: 天花
     zh_tw: 天花
 ---
+
 # [[Smallpox]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Smallpox,12214|WD~Smallpox,12214]] 

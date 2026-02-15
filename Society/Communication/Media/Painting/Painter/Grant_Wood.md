@@ -190,6 +190,7 @@ dv_has_:
     zh_sg: 格兰特·伍德
     zh_tw: 格蘭特·伍德
 ---
+
 # [[Grant_Wood]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Grant_Wood,217434|WD~Grant_Wood,217434]] 

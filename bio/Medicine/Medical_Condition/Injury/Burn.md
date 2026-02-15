@@ -215,6 +215,7 @@ dv_has_:
     zh_sg: 烧伤
     zh_tw: 燒傷
 ---
+
 # [[Burn]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Burn,170518|WD~Burn,170518]] 

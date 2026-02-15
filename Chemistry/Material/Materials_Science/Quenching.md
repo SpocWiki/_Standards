@@ -110,6 +110,7 @@ dv_has_:
     zh_hant: 淬火
     zh_hk: 淬火
 ---
+
 # [[Quenching]] 
 
 is_opposite_of = `=this.dv_is_opposite_of` 

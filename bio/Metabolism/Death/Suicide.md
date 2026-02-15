@@ -392,6 +392,7 @@ dv_has_:
     zh_sg: 自杀
     zh_tw: 自殺
 ---
+
 # [[Suicide]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Suicide,10737|WD~Suicide,10737]] 

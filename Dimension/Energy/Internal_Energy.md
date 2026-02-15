@@ -175,6 +175,7 @@ dv_has_:
     zh_sg: 内能
     zh_tw: 內能
 ---
+
 # [[Internal_Energy]] 
 
 #is_/same_as :: [[../../WikiData/WD~Internal_energy,180241|WD~Internal_energy,180241]] 

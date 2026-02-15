@@ -178,6 +178,7 @@ dv_has_:
     zh_hant: 投資者
     zh_tw: 投資者
 ---
+
 # [[Investor]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~investor,557880]] 

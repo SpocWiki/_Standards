@@ -171,6 +171,7 @@ dv_has_:
     zh_sg: 结合能
     zh_tw: 結合能
 ---
+
 # [[Binding_Energy]] 
 
 #is_/same_as :: [[../WikiData/WD~Binding_energy,420754|WD~Binding_energy,420754]] 

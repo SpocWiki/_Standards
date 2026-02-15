@@ -102,6 +102,7 @@ dv_has_:
     zh_hant: 群體動力學
     zh_hk: 群體動力學
 ---
+
 # [[Group_Dynamics]] 
 
 #is_/same_as :: [[../../WikiData/WD~group_dynamics,839578|WD~group_dynamics,839578]]  

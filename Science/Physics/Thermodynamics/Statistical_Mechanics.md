@@ -181,6 +181,7 @@ dv_has_:
     zh_sg: 统计力学
     zh_tw: 統計力學
 ---
+
 # [[Statistical_Mechanics]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Statistical_mechanics,188715|WD~Statistical_mechanics,188715]]  

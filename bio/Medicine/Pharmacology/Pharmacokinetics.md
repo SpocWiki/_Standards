@@ -126,6 +126,7 @@ dv_has_:
     zh_sg: 药代动力学
     zh_tw: 藥代動力學
 ---
+
 # [[Pharmacokinetics]] 
 
 #is_/same_as :: [[WD~Pharmacokinetics,323936]] 

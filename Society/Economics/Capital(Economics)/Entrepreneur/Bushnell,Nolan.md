@@ -124,6 +124,7 @@ dv_has_:
     zh_sg: 诺兰·布什内尔
     zh_tw: 諾蘭·布希內爾
 ---
+
 # [[Bushnell,Nolan]] 
 
 #is_/same_as :: [[WD~Nolan_Bushnell,335039]] 

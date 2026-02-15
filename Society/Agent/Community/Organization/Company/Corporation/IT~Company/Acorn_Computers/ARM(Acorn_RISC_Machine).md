@@ -103,6 +103,7 @@ aliases:
 - ಎ ಆರ್ ಎಮ್ ವಾಸ್ತುಶಿಲ್ಪ
 - ആം ആർക്കിടെക്ചർ
 ---
+
 # [[ARM(Acorn_RISC_Machine)]] 
 
 [[../Semiconductor-Industry]] 

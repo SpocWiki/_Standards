@@ -179,6 +179,7 @@ dv_has_:
     zh_sg: 腺鼠疫
     zh_tw: 腺鼠疫
 ---
+
 # [[Bubonic_Plague]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Bubonic_plague,217519|WD~Bubonic_plague,217519]] 

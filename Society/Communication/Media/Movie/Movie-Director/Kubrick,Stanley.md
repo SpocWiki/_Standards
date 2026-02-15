@@ -304,6 +304,7 @@ dv_has_:
     zh_sg: 史丹利·库柏力克
     zh_tw: 史丹力．庫柏力克
 ---
+
 # [[Kubrick,Stanley]] 
 
 #has_/time_/started :: 1928-07-26 

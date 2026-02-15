@@ -209,6 +209,7 @@ dv_has_:
     zh_sg: 政治哲学
     zh_tw: 政治哲學
 ---
+
 # [[Political_Philosophy]] 
 
 #is_/similar_to :: [[../../Anthropology/Sociology/Political_Science|Political_Science]]  

@@ -154,6 +154,7 @@ dv_has_:
     zh_sg: 代数基本定理
     zh_tw: 代數基本定理
 ---
+
 # [[Fundamental_Theorem_of_Algebra]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Fundamental_theorem_of_algebra,192760|WD~Fundamental_theorem_of_algebra,192760]] 

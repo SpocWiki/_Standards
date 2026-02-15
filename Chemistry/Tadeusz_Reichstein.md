@@ -199,6 +199,7 @@ dv_has_:
     zh_sg: 塔德乌什·赖希施泰因
     zh_tw: 塔德烏什·賴希施泰因
 ---
+
 # [[Tadeusz_Reichstein]] 
 
 #is_/same_as :: [[../WikiData/WD~Tadeusz_Reichstein,115490|WD~Tadeusz_Reichstein,115490]]  

@@ -101,6 +101,7 @@ aliases:
 - 约瑟夫·坎贝尔
 - 조지프 캠벨
 ---
+
 # [[Campbell,Joseph-John]] 
 
 #is_/different_from :: [[Campbell,John_Wood]] 

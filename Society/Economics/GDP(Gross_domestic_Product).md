@@ -333,6 +333,7 @@ dv_has_:
     zh_hk: 本地生產總值
     zh_tw: 國內生產毛額
 ---
+
 # [[GDP(Gross_domestic_Product)]] 
 
 #is_/same_as :: [[WD~Gross_domestic_product,12638]] 

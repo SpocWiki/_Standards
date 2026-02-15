@@ -166,6 +166,7 @@ dv_has_:
     zh_sg: 第2周期元素
     zh_tw: 第2周期元素
 ---
+
 # [[Period_2]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Period_2,207712|WD~Period_2,207712]]  

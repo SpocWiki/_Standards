@@ -96,6 +96,7 @@ dv_has_:
     uz: Kobol
     yi: קאבאל
 ---
+
 # [[COBOL]] 
 
 #is_a_/ComputerLanguage 

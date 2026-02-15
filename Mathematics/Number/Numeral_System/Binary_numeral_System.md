@@ -234,6 +234,7 @@ dv_has_:
     zh_hk: 二進制
     zh_tw: 二進制
 ---
+
 # [[Binary_numeral_System]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Binary_numeral_system,3913|WD~Binary_numeral_system,3913]] 

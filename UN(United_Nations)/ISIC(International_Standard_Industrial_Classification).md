@@ -71,6 +71,7 @@ aliases:
 - 国際標準産業分類
 - 國際標準行業分類
 ---
+
 # [[ISIC(International_Standard_Industrial_Classification)]] 
 
 > The International Standard Industrial Classification of All Economic Activities (ISIC) 

@@ -95,6 +95,7 @@ dv_has_:
     yue: 靜磁學
     zh: 靜磁學
 ---
+
 # [[Magnetostatics]] 
 
 #is_/same_as :: [[WD~Magnetostatics,665093]] 

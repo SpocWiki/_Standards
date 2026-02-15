@@ -341,6 +341,7 @@ dv_has_:
     zh_sg: 数学家
     zh_tw: 數學家
 ---
+
 # [[Mathematician]] 
 
 #is_/same_as :: [[../WikiData/WD~Mathematician,170790|WD~Mathematician,170790]] 

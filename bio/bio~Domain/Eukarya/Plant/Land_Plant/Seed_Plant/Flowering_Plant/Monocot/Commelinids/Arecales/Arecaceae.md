@@ -229,6 +229,7 @@ aliases:
 - 종려과
 Unicode_character: 🌴
 ---
+
 # [[Arecaceae]] 🌴 
 
 ## #has_/text_of_/abstract 

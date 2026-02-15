@@ -267,6 +267,7 @@ dv_has_:
     zh_tw: 尼爾斯·阿貝爾
     zu: Niels Henrik Abel
 ---
+
 # [[Abel,Niels_Henrik]] 
 
 #is_/same_as :: [[WD~Niels_Henrik_Abel,124115]] 

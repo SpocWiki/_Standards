@@ -372,6 +372,7 @@ dv_has_:
     zh_tw: 自然
     zu: imvelo
 ---
+
 # [[Nature]] 
 
 #is_/same_as :: [[../WikiData/WD~Nature,7860|WD~Nature,7860]] 

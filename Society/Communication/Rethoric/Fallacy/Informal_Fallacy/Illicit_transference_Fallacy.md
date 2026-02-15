@@ -24,6 +24,7 @@ dv_has_:
     zh_hant: 分布謬誤
     zh_hk: 分佈謬誤
 ---
+
 # [[Illicit_transference_Fallacy]] 
 
 #is_/same_as :: [[WD~Illicit_transference,2911615]] 

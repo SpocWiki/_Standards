@@ -121,6 +121,7 @@ dv_has_:
     zh: 心理狀態
     zh_hant: 心智狀態
 ---
+
 # [[Mental_State]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~mental_state,3968640]] 

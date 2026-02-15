@@ -239,6 +239,7 @@ dv_has_:
     zh: 波
     zh_hans: 波
 ---
+
 # [[Wave]] 
 
 #is_/same_as :: [[../../WikiData/WD~Wave,37172|WD~Wave,37172]] 

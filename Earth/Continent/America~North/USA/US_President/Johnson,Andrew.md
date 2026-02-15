@@ -245,6 +245,7 @@ dv_is_same_as:
 - '[[/_personal/Earth/Continent/America~North/USA/US_President/Johnson,Andrew.personal|Johnson,Andrew.personal]]'
 - '[[/_secret/Earth/Continent/America~North/USA/US_President/Johnson,Andrew.secret|Johnson,Andrew.secret]]'
 ---
+
 # [[Johnson,Andrew]] 
 
 has_time_started = `=this.dv_has_time_started`

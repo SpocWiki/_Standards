@@ -179,6 +179,7 @@ dv_has_:
     zh_sg: 学会
     zh_tw: 學會
 ---
+
 # [[Learned_Society]] 
 
 #is_/same_as :: [[WD~Learned_society,955824]] 

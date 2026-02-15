@@ -98,6 +98,7 @@ dv_has_:
     yue: 高地牛
     zh: 高地牛
 ---
+
 # [[Highland_Cattle]] 
 
 #is_/same_as :: [[WD~Highland_cattle,58903]] 

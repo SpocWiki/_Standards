@@ -163,6 +163,7 @@ dv_has_:
     zh_sg: Γ函数
     zh_tw: Γ函數
 ---
+
 # [[Gamma_Function]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Gamma_function,190573|WD~Gamma_function,190573]] 

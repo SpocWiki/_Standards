@@ -184,6 +184,7 @@ dv_has_:
     yue: 絕對零度
     zh: 绝对零度
 ---
+
 # [[Absolute_Zero]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Absolute_zero,81182]] 

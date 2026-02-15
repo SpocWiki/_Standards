@@ -294,6 +294,7 @@ dv_is_same_as:
 - '[[/_personal/schema-org/Property/Texts/has_algorithm.personal|has_algorithm.personal]]'
 - '[[/_secret/schema-org/Property/Texts/has_algorithm.secret|has_algorithm.secret]]'
 ---
+
 # [[has_algorithm]]  
 
 Predicate to describe the Text of an Algorithm.

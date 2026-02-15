@@ -320,6 +320,7 @@ dv_has_:
     zh: 魯德亞德·吉卜林
     zh_hant: 魯德亞德·吉卜林
 ---
+
 # [[Kipling,Rudyard]] 
 
 #has_/created_/quote :: [[../../../../../../_protect/Society/Sociology/Politics/Law_of_the_Jungle]] 

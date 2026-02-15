@@ -263,6 +263,7 @@ dv_has_:
     zh: 焦爾達諾·布魯諾
     zh_hk: 佐丹奴·布魯諾
 ---
+
 # [[Bruno,Giordano]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Giordano_Bruno,36330|WD~Giordano_Bruno,36330]] 

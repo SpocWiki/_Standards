@@ -83,6 +83,7 @@ aliases:
 - 切分音
 - 당김음
 ---
+
 # [[Syncopation]] 
 
 ## #has_/text_of_/abstract 

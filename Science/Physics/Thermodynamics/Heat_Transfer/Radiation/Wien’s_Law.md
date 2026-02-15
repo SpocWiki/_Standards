@@ -50,6 +50,7 @@ dv_has_:
     zh: 維恩近似
     zh_hant: 維恩近似
 ---
+
 # [[Wien’s_Law]] 
 
 $λ_max​=b/T​$

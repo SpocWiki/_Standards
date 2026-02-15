@@ -516,6 +516,7 @@ dv_has_:
     zh_tw: 匈牙利語
     zu: isi-Hungarian
 ---
+
 # [[Lang-hun]] 
 
 #is_/same_as :: [[WD~Hungarian,9067]] 

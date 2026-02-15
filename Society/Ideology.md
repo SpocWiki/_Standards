@@ -266,6 +266,7 @@ dv_has_:
     zh_sg: 意识形态
     zh_tw: 意識形態
 ---
+
 # [[Ideology]] 
 
 #is_/same_as :: [[../WikiData/WD~Ideology,7257|WD~Ideology,7257]] 

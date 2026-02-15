@@ -542,6 +542,7 @@ dv_has_:
     zh_tw: 首都
     zu: IsiQongo
 ---
+
 # [[Capital_City]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Capital_city,5119|WD~Capital_city,5119]] 

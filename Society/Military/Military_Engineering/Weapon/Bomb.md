@@ -173,6 +173,7 @@ aliases:
 - 폭탄
 Unicode_character: 💣
 ---
+
 # [[Bomb]] 💣 
 
 

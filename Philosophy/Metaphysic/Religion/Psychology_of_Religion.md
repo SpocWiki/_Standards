@@ -136,6 +136,7 @@ dv_has_:
     zh_hans: 宗教心理学
     zh_hant: 宗教心理學
 ---
+
 # [[Psychology_of_Religion]] 
 
 #is_/same_as :: [[WD~Psychology_of_religion,368498]] 

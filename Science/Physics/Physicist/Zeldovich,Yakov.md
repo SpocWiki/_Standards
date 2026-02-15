@@ -203,6 +203,7 @@ dv_has_:
     zh_sg: 雅可夫·泽尔多维奇
     zh_tw: 雅可夫·澤爾多維奇
 ---
+
 # [[Zeldovich,Yakov]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Yakov_Zeldovich,366471|WD~Yakov_Zeldovich,366471]]  

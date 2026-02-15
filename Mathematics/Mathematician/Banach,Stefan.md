@@ -218,6 +218,7 @@ dv_has_:
     zh_sg: 斯特凡·巴拿赫
     zh_tw: 斯特凡·巴拿赫
 ---
+
 # [[Banach,Stefan]] 
 
 #is_/same_as ::  [[../../WikiData/WD~Stefan_Banach,180217|WD~Stefan_Banach,180217]]  

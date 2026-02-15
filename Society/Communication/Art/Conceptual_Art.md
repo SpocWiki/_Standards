@@ -153,6 +153,7 @@ dv_has_:
     zh_sg: 概念艺术
     zh_tw: 觀念藝術
 ---
+
 # [[Conceptual_Art]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Conceptual_art,203209|WD~Conceptual_art,203209]] 

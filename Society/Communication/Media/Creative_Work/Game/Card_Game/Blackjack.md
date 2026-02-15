@@ -114,6 +114,7 @@ dv_has_:
     zh_sg: 二十一点
     zh_tw: 廿一點
 ---
+
 # [[Blackjack]] 
 
 #is_/same_as  :: [[../../../../../../../WikiData/WD~Blackjack,228044|WD~Blackjack,228044]] 

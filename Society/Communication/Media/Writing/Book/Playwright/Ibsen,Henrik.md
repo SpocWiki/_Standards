@@ -327,6 +327,7 @@ dv_has_:
     zh: 亨里克·易卜生
     zh_hans: 亨里克·易卜生
 ---
+
 # [[Ibsen,Henrik]] 
 
 #is_/same_as :: [[WD~Henrik_Ibsen,36661]] 

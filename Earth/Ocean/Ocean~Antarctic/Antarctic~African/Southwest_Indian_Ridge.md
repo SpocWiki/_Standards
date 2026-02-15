@@ -105,6 +105,7 @@ dv_has_:
     yue: 西南印度洋海嶺
     zh: 西南印度洋脊
 ---
+
 # [[Southwest_Indian_Ridge]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Southwest_Indian_Ridge,153840|WD~Southwest_Indian_Ridge,153840]]  

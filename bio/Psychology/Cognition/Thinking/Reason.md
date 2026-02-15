@@ -213,6 +213,7 @@ dv_has_:
     zh_sg: 理智
     zh_tw: 理智
 ---
+
 # [[Reason]] 
 
 #is_/same_as :: [[WD~Reason,178354]] 

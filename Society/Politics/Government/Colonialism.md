@@ -273,6 +273,7 @@ dv_has_:
     zh_tw: 殖民主義
     zu: UbuQoneli
 ---
+
 # [[Colonialism]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Colonialism,7167|WD~Colonialism,7167]] 

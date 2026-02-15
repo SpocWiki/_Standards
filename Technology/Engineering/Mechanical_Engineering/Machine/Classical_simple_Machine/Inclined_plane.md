@@ -169,6 +169,7 @@ dv_has_:
     zh_sg: 斜面
     zh_tw: 斜面
 ---
+
 # [[Inclined_plane]] 
 
 #is_/same_as :: [[WD~Inclined_plane,161462]] 

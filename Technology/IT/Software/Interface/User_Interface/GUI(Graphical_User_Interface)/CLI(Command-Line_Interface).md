@@ -138,6 +138,7 @@ aliases:
 - 命令行界面
 - 명령줄 인터페이스
 ---
+
 # [[CLI(Command-Line_Interface)]] 
 
 #is_/alternative_to :: [[../GUI(Graphical_User_Interface)]] 

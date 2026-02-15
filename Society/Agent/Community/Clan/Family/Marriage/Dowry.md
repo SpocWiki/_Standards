@@ -193,6 +193,7 @@ dv_has_:
     yue: 嫁妝
     zh: 嫁妆
 ---
+
 # [[Dowry]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Dowry,45803|WD~Dowry,45803]] 

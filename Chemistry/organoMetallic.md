@@ -121,6 +121,7 @@ aliases:
 - 有機金屬化學
 - 유기금속화학
 ---
+
 # [[organoMetallic]]  
 
 > **organometallic** [[../../Knowledge/Chemistry|chemistry]] is the study of organometallic compounds, 

@@ -203,6 +203,7 @@ dv_has_:
     zh: 公理
     zh_cn: 公理
 ---
+
 # [[Axiom]] 
 
 #is_/same_as :: [[../WikiData/WD~Axiom,17736|WD~Axiom,17736]] 

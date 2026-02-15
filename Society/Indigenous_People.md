@@ -277,6 +277,7 @@ dv_has_:
     zh_sg: 原住民
     zh_tw: 原住民
 ---
+
 # [[Indigenous_People]] 
 
 #is_/same_as :: [[../WikiData/WD~Indigenous_people,103817|WD~Indigenous_people,103817]] 

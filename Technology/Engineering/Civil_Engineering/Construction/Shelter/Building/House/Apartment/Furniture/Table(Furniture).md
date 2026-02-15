@@ -316,6 +316,7 @@ dv_has_:
     zh_hk: 桌子
     zh_tw: 桌子
 ---
+
 # [[Table(Furniture)]] 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Table,14748|WD~Table,14748]]  

@@ -333,6 +333,7 @@ dv_has_:
     zh_sg: 天主教
     zh_tw: 天主教
 ---
+
 # [[Catholicism]] ✝ 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Catholicism,1841|WD~Catholicism,1841]] 

@@ -123,6 +123,7 @@ dv_has_:
     yue: 分子間作用力
     zh: 分子間作用力
 ---
+
 # [[Intermolecular_Force]] 
 
 #is_/same_as :: [[WD~Intermolecular_force,245031]] 

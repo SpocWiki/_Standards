@@ -182,6 +182,7 @@ dv_has_:
     zgh: ⵜⴰⴼⵉⵍⴰⵡⵜ
     zh: 唯心主義
 ---
+
 # [[Idealism]] 
 
 #has_/complement :: [[Materialism]] 

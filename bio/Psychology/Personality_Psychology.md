@@ -156,6 +156,7 @@ dv_has_:
     zh_sg: 人格心理学
     zh_tw: 人格心理學
 ---
+
 # [[Personality_Psychology]] 
 
 #is_/same_as :: [[WD~Personality_psychology,271716]] 

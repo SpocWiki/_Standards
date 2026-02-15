@@ -156,6 +156,7 @@ dv_has_:
     zh_sg: 逻辑实证主义
     zh_tw: 邏輯實證主義
 ---
+
 # [[Logical_Positivism]] 
 
 #is_/same_as :: [[WD~Logical_positivism,193627]] 

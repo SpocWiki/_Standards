@@ -176,6 +176,7 @@ dv_has_:
     zh-sg: 斯皮策空间望远镜
     zh-tw: 史匹哲太空望遠鏡
 ---
+
 # [[Spitzer_Space_Telescope]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Spitzer_Space_Telescope,201953|WD~Spitzer_Space_Telescope,201953]]  

@@ -40,6 +40,7 @@ aliases:
 - 地理围栏
 - 지오펜스
 ---
+
 # [[Geofence]] 
 
 ## #has_/text_of_/abstract 

@@ -70,6 +70,7 @@ dv_has_:
     zh_hant: 格羅方德
     zh_hk: 格羅方德
 ---
+
 # [[GlobalFoundries]] 
 
 #is_/similar_to :: [[TSMC(Taiwan_Semiconductor)|TSMC(Taiwan_Semiconductor)]] 

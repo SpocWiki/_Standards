@@ -201,6 +201,7 @@ dv_has_:
     yue: 歐多克索斯
     zh: 尤得塞斯
 ---
+
 # [[Eudoxus_of_Cnidus]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Eudoxus_of_Cnidus,185150|WD~Eudoxus_of_Cnidus,185150]] 

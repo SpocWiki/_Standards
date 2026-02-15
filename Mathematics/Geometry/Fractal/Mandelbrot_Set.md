@@ -134,6 +134,7 @@ dv_has_:
     zh_hans: 曼德博集合
     zh_hant: 曼德博集合
 ---
+
 # [[Mandelbrot_Set]] 
 
 #is_/same_as :: [[WD~Mandelbrot_set,257]] 

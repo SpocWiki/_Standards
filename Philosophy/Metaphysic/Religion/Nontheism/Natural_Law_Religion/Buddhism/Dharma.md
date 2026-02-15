@@ -160,6 +160,7 @@ dv_has_:
     yue: 印度佛法
     zh: 法
 ---
+
 # [[Dharma]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Dharma,134293|WD~Dharma,134293]] 

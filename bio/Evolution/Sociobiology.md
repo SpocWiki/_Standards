@@ -123,6 +123,7 @@ aliases:
 - 社會生物學
 - 사회생물학
 ---
+
 # [[Sociobiology]] 
 
 #is_/same_as :: [[../../WikiData/WD~Sociobiology,190553|WD~Sociobiology,190553]]  

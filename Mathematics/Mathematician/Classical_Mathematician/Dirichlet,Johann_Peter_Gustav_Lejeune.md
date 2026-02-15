@@ -219,6 +219,7 @@ dv_has_:
     zh: 約翰·彼得·古斯塔夫·勒熱納·狄利克雷
     zh_cn: 约翰·彼得·古斯塔夫·勒热纳·狄利克雷
 ---
+
 # [[Dirichlet,Johann_Peter_Gustav_Lejeune]] 
 
 #is_/same_as :: [[WD~Johann_Peter_Gustav_Lejeune_Dirichlet,29193]] 

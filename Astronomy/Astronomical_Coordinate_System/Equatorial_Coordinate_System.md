@@ -152,6 +152,7 @@ dv_has_:
     zh_sg: 赤道座标系统
     zh_tw: 赤道座標系統
 ---
+
 # [[Equatorial_Coordinate_System]] 
 
 #is_/same_as :: [[../../WikiData/WD~Equatorial_coordinate_system,208617|WD~Equatorial_coordinate_system,208617]] 

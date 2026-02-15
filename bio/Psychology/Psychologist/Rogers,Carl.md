@@ -123,6 +123,7 @@ dv_has_:
     zh_sg: 卡尔·罗哲斯
     zh_tw: 卡爾·羅哲斯
 ---
+
 # [[Rogers,Carl]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Carl_Rogers,191004|WD~Carl_Rogers,191004]] 

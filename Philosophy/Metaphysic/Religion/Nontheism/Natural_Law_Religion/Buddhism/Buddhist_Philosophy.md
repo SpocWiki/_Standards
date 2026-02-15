@@ -114,6 +114,7 @@ dv_has_:
     zh_sg: 佛教哲学
     zh_tw: 佛教哲學
 ---
+
 # [[Buddhist_Philosophy]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Buddhist_philosophy,1001079|WD~Buddhist_philosophy,1001079]] 

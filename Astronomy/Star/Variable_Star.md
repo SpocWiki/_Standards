@@ -193,6 +193,7 @@ dv_has_:
     zh_hans: 后髮座FK型變星
     zh_hant: 變星
 ---
+
 # [[Variable_Star]] 
 
 #is_/same_as :: [[../../WikiData/WD~Variable_star,6243|WD~Variable_star,6243]]  

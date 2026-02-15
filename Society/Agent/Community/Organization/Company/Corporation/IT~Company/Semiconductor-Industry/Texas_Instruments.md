@@ -90,6 +90,7 @@ aliases:
 - 德州儀器
 - 텍사스 인스트루먼트
 ---
+
 # [[Texas_Instruments]] 
 
 > Texas Instruments Incorporated (TI) is an American semiconductor company 

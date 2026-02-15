@@ -47,6 +47,7 @@ aliases:
 - 古柯
 - 코카
 ---
+
 # [[Coca]] 
 
 #has_/created :: [[Cocaine]] 

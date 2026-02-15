@@ -296,6 +296,7 @@ dv_has_:
     zh_hant: 愛達·勒芙蕾絲
     zu: Ada Lovelace
 ---
+
 # [[Lovelace,Ada]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Ada_Lovelace,7259]] 

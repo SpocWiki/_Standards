@@ -39,6 +39,7 @@ aliases:
 - 石油巨头
 - 슈퍼메이저
 ---
+
 # [[Big_Oil]]  
 
 ## #has_/text_of_/abstract 

@@ -156,6 +156,7 @@ dv_has_:
     zh_hant: 合夥企業
     zh_hk: 合夥企業
 ---
+
 # [[Partnership]] 
 
 #is_/same_as :: [[WD~Partnership,728646]] 

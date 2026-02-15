@@ -112,6 +112,7 @@ dv_has_:
     zh_sg: 基本权利
     zh_tw: 基本權利
 ---
+
 # [[Fundamental_Right]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Fundamental_rights,3237872|WD~Fundamental_rights,3237872]] 

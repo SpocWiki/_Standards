@@ -231,6 +231,7 @@ dv_has_:
     zh_hant: 電晶體
     zh_tw: 電晶體
 ---
+
 # [[Transistor]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Transistor,5339|WD~Transistor,5339]] 

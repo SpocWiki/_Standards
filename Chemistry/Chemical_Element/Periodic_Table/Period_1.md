@@ -174,6 +174,7 @@ dv_has_:
     zh_sg: 第1周期元素
     zh_tw: 第1周期元素
 ---
+
 # [[Period_1]] 
 
 #is_/same_as :: [[WD~Period_1,191936]] 

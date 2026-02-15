@@ -196,6 +196,7 @@ dv_has_:
     zh_sg: 电磁波谱
     zh_tw: 電磁波譜
 ---
+
 # [[Electromagnetic_Spectrum]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Electromagnetic_spectrum,133139|WD~Electromagnetic_spectrum,133139]] 

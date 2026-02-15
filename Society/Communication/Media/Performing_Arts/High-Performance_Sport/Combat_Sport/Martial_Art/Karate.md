@@ -223,6 +223,7 @@ dv_has_:
     zh_tw: 空手道
 Unicode_character: 🥋
 ---
+
 # [[Karate]]  🥋
 
 #is_/same_as :: [[WD~Karate,11419]] 

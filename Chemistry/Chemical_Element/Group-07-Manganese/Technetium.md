@@ -400,6 +400,7 @@ dv_has_number_of_electrons: 43
 dv_has_number_of_group: 7
 Unicode_character: 鎝
 ---
+
 # [[Technetium]] 鎝 
 
 

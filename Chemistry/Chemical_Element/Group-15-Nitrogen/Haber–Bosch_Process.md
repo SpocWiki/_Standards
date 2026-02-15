@@ -154,6 +154,7 @@ dv_has_:
     zh_sg: 哈柏法
     zh_tw: 哈柏法
 ---
+
 # [[Haber–Bosch_Process]]  
 
 This is the most important chemical Process. 2% of Energy is being invested to that. 

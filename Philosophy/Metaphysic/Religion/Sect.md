@@ -132,6 +132,7 @@ aliases:
 - 派系
 - 종파
 ---
+
 # [[Sect]] 
 
 #is_/same_as :: [[WD~Sect,19097]] 

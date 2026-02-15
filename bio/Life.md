@@ -468,6 +468,7 @@ dv_has_:
     zh_tw: 生命
     zu: Impilo
 ---
+
 # [[Life]] 
 
 Material structure, capable of extracting energy from the environment for replication, 

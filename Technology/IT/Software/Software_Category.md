@@ -144,6 +144,7 @@ dv_has_:
     zh_hant: 軟體類型
     zh_tw: 軟體分類
 ---
+
 # [[Software_Category]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~software_category,17155032]] 

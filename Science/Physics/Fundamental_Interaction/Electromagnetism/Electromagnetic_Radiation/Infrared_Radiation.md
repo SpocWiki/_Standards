@@ -277,6 +277,7 @@ dv_has_:
     zh: 红外线
     zu: Insibomvu
 ---
+
 # [[Infrared_Radiation]] 
 
 #is_/same_as :: [[WikiData/WD~Infrared_radiation,11388|WD~Infrared_radiation,11388]] 

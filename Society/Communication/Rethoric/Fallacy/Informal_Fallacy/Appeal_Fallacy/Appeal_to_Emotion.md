@@ -69,6 +69,7 @@ dv_has_:
     zh_hant: 訴諸情感
     zh_hk: 訴諸情感
 ---
+
 # [[Appeal_to_Emotion]] 
 
 #is_/same_as :: [[WD~Appeal_to_Emotion,2914471]]  

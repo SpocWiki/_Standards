@@ -43,6 +43,7 @@ aliases:
 - 危害原理
 - 위해원칙
 ---
+
 # [[Harm_Principle]]  
 
 #is_/similar_to :: [[Categorical_Imperative]] 

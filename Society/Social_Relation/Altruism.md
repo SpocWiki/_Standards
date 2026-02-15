@@ -177,6 +177,7 @@ dv_has_:
     zh_sg: 利他主义
     zh_tw: 利他主義
 ---
+
 # [[Altruism]] 
 
 #is_/same_as :: [[../../WikiData/WD~Altruism,167323]] 

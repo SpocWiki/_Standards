@@ -623,6 +623,7 @@ dv_has_:
     zh_tw: 伊斯蘭教
     zu: Islam
 ---
+
 # [[Islam]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Islam,432|WD~Islam,432]] 

@@ -214,6 +214,7 @@ dv_has_:
     zh_sg: 海湾阿拉伯国家合作委员会
     zh_tw: 海灣阿拉伯國家合作委員會
 ---
+
 # [[GCC(Cooperation_Council_for_the_Arab_States_of_the_Gulf)]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Cooperation_Council_for_the_Arab_States_of_the_Gulf,217172|WD~Cooperation_Council_for_the_Arab_States_of_the_Gulf,217172]]

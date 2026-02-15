@@ -211,6 +211,7 @@ dv_has_:
     zh_sg: 维他斯·白令
     zh_tw: 維他斯·白令
 ---
+
 # [[Bering,Vitus]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Vitus_Bering,127641|WD~Vitus_Bering,127641]]  

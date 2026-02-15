@@ -267,6 +267,7 @@ dv_has_:
     zh_sg: 白喉
     zh_tw: 白喉
 ---
+
 # [[Diphtheria]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Diphtheria,134649|WD~Diphtheria,134649]] 

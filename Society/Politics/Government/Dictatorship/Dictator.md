@@ -184,6 +184,7 @@ aliases:
 - 獨裁者
 - 독재자
 ---
+
 # [[Dictator]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Dictator,183318|WD~Dictator,183318]] 

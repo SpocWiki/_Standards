@@ -117,6 +117,7 @@ dv_has_:
     zh-hant: 早期人類對火的使用
     zh-hk: 早期人類對火的使用
 ---
+
 # [[Control_of_fire_by_early_humans]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Control_of_fire_by_early_humans,912205|WD~Control_of_fire_by_early_humans,912205]] 

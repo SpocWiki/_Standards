@@ -127,6 +127,7 @@ dv_has_:
     zh_sg: 国家主义
     zh_tw: 國家主義
 ---
+
 # [[Statism]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Statism,322294|WD~Statism,322294]]  

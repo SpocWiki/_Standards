@@ -128,6 +128,7 @@ dv_has_:
     xmf: ოხლოკრატია
     zh: 眾愚政治
 ---
+
 # [[Ochlocracy]] 
 
 #is_/same_as :: [[WD~Ochlocracy,191031]] 

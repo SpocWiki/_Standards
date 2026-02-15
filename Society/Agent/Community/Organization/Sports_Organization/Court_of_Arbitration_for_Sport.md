@@ -116,6 +116,7 @@ dv_has_:
     zh_hk: 國際體育仲裁院
     zh_tw: 國際體育仲裁法庭
 ---
+
 # [[Court_of_Arbitration_for_Sport]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Court_of_Arbitration_for_Sport,659499|WD~Court_of_Arbitration_for_Sport,659499]] 

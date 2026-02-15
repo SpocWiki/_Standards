@@ -112,6 +112,7 @@ dv_has_:
     zh_hant: 阿斯塔克蝦科
     zu: Astacus
 ---
+
 # [[Astacus]] 
 ![Astacus leptodactylus habitus](Astacus/a.jpg)) 
 copyright ::   © 1995 University of Kuopio and Ari Mannonen

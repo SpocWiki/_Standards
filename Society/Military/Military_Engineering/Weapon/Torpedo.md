@@ -145,6 +145,7 @@ aliases:
 - 鱼雷
 - 어뢰
 ---
+
 # [[Torpedo]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Torpedo,165363|WD~Torpedo,165363]]  

@@ -110,6 +110,7 @@ dv_has_:
     zh-hk: 1770年孟加拉饑荒
     zh-sg: 1770年孟加拉饥荒
 ---
+
 # [[1770_Great_Bengal_famine]]
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Great_Bengal_famine_of_1770,2477522|WD~Great_Bengal_famine_of_1770,2477522]]

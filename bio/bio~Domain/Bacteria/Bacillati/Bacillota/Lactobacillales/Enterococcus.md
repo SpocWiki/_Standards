@@ -81,6 +81,7 @@ aliases:
 - 腸球菌屬
 - 장알균
 ---
+
 # [[Enterococcus]]  
 
 ## #has_/text_of_/abstract 

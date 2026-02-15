@@ -165,6 +165,7 @@ dv_has_:
     zh_sg: 罗伯特·金·莫顿
     zh_tw: 羅伯特·金·莫頓
 ---
+
 # [[Merton,Robert_K]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Robert_K._Merton,312843|WD~Robert_K._Merton,312843]]  

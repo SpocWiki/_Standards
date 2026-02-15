@@ -166,6 +166,7 @@ dv_has_:
     zh_sg: 同理心
     zh_tw: 同理心
 ---
+
 # [[Empathy]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Empathy,182263|WD~Empathy,182263]] 

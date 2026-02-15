@@ -177,6 +177,7 @@ aliases:
 - 行動主義
 - 활동주의
 ---
+
 # [[Social_Activist]] 
 
 #is_/same_as :: 

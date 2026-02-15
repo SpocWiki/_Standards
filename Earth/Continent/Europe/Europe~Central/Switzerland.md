@@ -1095,6 +1095,7 @@ WIPO_ST_3: CH
 X_Twitter_username: BR_Sprecher
 Unicode_character: 🇨🇭
 ---
+
 # [[Switzerland]] 🇨🇭 
 
 

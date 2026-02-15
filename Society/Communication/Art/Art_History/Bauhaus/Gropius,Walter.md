@@ -229,6 +229,7 @@ dv_has_:
     zh_hant: 華特·葛羅培斯
     zh_hk: 華特·葛羅佩斯
 ---
+
 # [[Gropius,Walter]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Walter_Gropius,61071|WD~Walter_Gropius,61071]] 

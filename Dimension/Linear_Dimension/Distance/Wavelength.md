@@ -268,6 +268,7 @@ dv_has_:
     zh_hant: 波長
     zu: IBangacuphi
 ---
+
 # [[Wavelength]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Wavelength,41364|WD~Wavelength,41364]]  

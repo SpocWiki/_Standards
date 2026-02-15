@@ -48,6 +48,7 @@ aliases:
 - 'Nexus: A Brief History of Information Networks from the Stone Age to AI'
 - 'Nexus: Una breve historia de las redes de información desde la Edad de Piedra hasta la IA'
 ---
+
 # [[Nexus(2024)]] 
 
 

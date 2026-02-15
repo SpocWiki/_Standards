@@ -34,6 +34,7 @@ dv_has_:
     uk: Amazon Mechanical Turk
     zh: 亞馬遜土耳其機器人
 ---
+
 # [[Amazon_Mechanical_Turk]] 
 
 #is_/similar_to :: [[../../../../../../../../bio/Psychology/Emotion/Humor/Joke/Practical_Joke/Hoax/Mechanical_Turk|Mechanical_Turk]] 

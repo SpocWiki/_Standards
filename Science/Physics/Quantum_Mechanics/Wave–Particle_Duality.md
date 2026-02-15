@@ -147,6 +147,7 @@ dv_has_:
     zh_sg: 波粒二象性
     zh_tw: 波粒二象性
 ---
+
 # [[Wave–Particle_Duality]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Wave–particle_duality,193068|WD~Wave–particle_duality,193068]] 

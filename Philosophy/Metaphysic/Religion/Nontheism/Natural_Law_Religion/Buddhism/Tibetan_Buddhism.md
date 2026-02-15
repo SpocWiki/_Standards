@@ -187,6 +187,7 @@ aliases:
 - 藏傳佛教
 - 티베트 불교
 ---
+
 # [[Tibetan_Buddhism]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Tibetan_Buddhism,483889|WD~Tibetan_Buddhism,483889]]  

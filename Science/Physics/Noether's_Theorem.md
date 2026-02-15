@@ -89,6 +89,7 @@ aliases:
 - 诺特定理
 - 뇌터 정리
 ---
+
 # [[Noether's_Theorem]] 
 
 #has_/creator :: [[../../Mathematics/Mathematician/Noether,Emmy]] 

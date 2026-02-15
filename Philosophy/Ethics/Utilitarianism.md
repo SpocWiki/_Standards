@@ -170,6 +170,7 @@ dv_has_:
     zh_sg: 功利主义
     zh_tw: 功利主義
 ---
+
 # [[Utilitarianism]] 
 
 #is_/same_as :: [[../../WikiData/WD~Utilitarianism,160590|WD~Utilitarianism,160590]] 

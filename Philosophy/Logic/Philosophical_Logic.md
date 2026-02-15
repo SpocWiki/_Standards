@@ -108,6 +108,7 @@ dv_has_:
     zh_hant: 哲學邏輯
     zh_hk: 哲學邏輯
 ---
+
 # [[Philosophical_Logic]] 
 
 #is_/same_as :: [[../../WikiData/WD~Philosophical_logic,491412|WD~Philosophical_logic,491412]] 

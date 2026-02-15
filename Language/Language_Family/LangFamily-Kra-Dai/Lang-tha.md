@@ -406,6 +406,7 @@ dv_has_:
     zh_tw: 泰語
     zu: isi-Thai
 ---
+
 # [[Lang-tha]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Thai,9217|WD~Thai,9217]]  

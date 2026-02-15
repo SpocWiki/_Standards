@@ -152,6 +152,7 @@ dv_has_:
     yue: Aldi
     zh: Aldi
 ---
+
 # [[Aldi]] 
 
 #has_/competitor :: [[Lidl]] 

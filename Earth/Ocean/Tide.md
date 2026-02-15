@@ -229,6 +229,7 @@ aliases:
 - 潮汐
 - 조석
 ---
+
 # [[Tide]] 
 
 #is_/same_as :: [[../../WikiData/WD~Tide,23384|WD~Tide,23384]]  

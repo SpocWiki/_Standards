@@ -130,6 +130,7 @@ dv_has_:
     zh_sg: 还原论
     zh_tw: 還原論
 ---
+
 # [[Reductionism]] 
 
 #has_/complement :: [[Holism]]   

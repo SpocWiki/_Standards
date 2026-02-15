@@ -438,6 +438,7 @@ dv_has_:
     zh_tw: 民主制
     zu: Umbuso wabantu
 ---
+
 # [[Democracy]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Democracy,7174|WD~Democracy,7174]] 

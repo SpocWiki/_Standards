@@ -125,6 +125,7 @@ dv_is_same_as:
 - '[[/_secret/schema-org/Class/is_a_/Action/Transfer_Action/Borrow_Action.secret|Borrow_Action.secret]]'
 has_id_wikidata: Q406759
 ---
+
 # [[Borrow_Action]] 
 
 has_inverse = `=this.dv_has_inverse` 

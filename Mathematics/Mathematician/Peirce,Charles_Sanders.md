@@ -150,6 +150,7 @@ dv_has_:
     zh_sg: 查尔斯·桑德斯·皮尔士
     zh_tw: 查爾斯·桑德斯·皮爾士
 ---
+
 # [[Peirce,Charles_Sanders]] 
 
 #has_/time_/started :: 1839-09-10 

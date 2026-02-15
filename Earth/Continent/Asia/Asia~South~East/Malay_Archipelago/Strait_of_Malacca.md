@@ -270,6 +270,7 @@ dv_has_:
     zh_cn: 马六甲海峡
     zh_hans: 马六甲海峡
 ---
+
 # [[Strait_of_Malacca]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Strait_of_Malacca,48359|WD~Strait_of_Malacca,48359]] 

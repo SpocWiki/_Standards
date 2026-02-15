@@ -124,6 +124,7 @@ dv_has_:
     yue: 伊斯蘭開發銀行
     zh: 伊斯蘭開發銀行
 ---
+
 # [[IsDB(Islamic_Development_Bank)]] 
 
 #is_/same_as :: [[WD~Islamic_Development_Bank,41230]] 

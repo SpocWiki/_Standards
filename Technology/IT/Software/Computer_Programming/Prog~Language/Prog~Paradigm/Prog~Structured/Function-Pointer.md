@@ -38,6 +38,7 @@ aliases:
 - 関数へのポインタ
 - 함수 포인터
 ---
+
 # [[Function-Pointer]]  
 
 #is_/similar_to :: [[../Prog~OO/Delegate~CLI]] 

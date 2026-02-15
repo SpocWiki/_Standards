@@ -50,6 +50,7 @@ aliases:
 - 终身仁慈独裁者
 - 자비로운 종신독재자
 ---
+
 # [[BDfL(benevolent_dictator_for_life)]]  
 
 > Benevolent dictator for life (**BDFL**) is a title given to a small number of open-source software development leaders, typically project founders who retain the final say in disputes or arguments within the community. The phrase originated in 1995 with reference to Guido van Rossum, creator of the Python programming language.

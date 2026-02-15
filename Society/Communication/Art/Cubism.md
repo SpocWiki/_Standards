@@ -192,6 +192,7 @@ dv_has_:
     zea: Kubisme
     zh: 立体主义
 ---
+
 # [[Cubism]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Cubism,42934|WD~Cubism,42934]] 

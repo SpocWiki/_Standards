@@ -174,6 +174,7 @@ dv_has_:
     zh_sg: 七国集团
     zh_tw: 七大工業國組織
 ---
+
 # [[G7(Group_of_Seven)]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~G7,1764511|WD~G7,1764511]] 

@@ -86,6 +86,7 @@ dv_has_:
     zh-hant: 增益
     zh-hk: 增益
 ---
+
 # [[Gain]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Gain,854659|WD~Gain,854659]] 

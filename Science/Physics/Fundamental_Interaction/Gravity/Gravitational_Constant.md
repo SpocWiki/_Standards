@@ -181,6 +181,7 @@ dv_has_:
     zh_hant: 萬有引力常數
     zh_tw: 萬有引力常數
 ---
+
 # [[Gravitational_Constant]] 
 
 #is_/same_as :: [[WD~Gravitational_constant,18373]] 

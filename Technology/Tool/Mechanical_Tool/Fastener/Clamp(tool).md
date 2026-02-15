@@ -93,6 +93,7 @@ dv_has_:
     zh: 自動式夾子
 Unicode_character: 🗜
 ---
+
 # [[Clamp(tool)]] 🗜 
 
 #is_/same_as :: [[../../../../WikiData/WD~Clamp,846600|WD~Clamp,846600]] 

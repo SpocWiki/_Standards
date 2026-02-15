@@ -155,6 +155,7 @@ dv_has_:
     zh_sg: 自私
     zh_tw: 自私
 ---
+
 # [[Egoism]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~egoism,238350]] 

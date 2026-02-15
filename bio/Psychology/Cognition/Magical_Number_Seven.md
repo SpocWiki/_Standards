@@ -61,6 +61,7 @@ dv_has_:
     zh_hant: 神奇的數字：7±2
     zh_hk: 神奇的數字：7±2
 ---
+
 # [[Magical_Number_Seven]] 
 
 #has_/creator :: [[../../../../_protect/bio/Psychology/Psychologist/Armitage-Miller,George]] 

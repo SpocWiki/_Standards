@@ -57,6 +57,7 @@ dv_has_:
     yue: 前向錯誤更正
     zh: 前向錯誤更正
 ---
+
 # [[Forward_Error_Correction]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Forward_error_correction,989220|WD~Forward_error_correction,989220]] 

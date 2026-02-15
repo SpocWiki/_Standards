@@ -983,6 +983,7 @@ Wolfram_Language_entity_code: Entity["HistoricalCountry", "Ukraine"]
 X_Twitter_username: Ukraine
 Unicode_character: 🇺🇦
 ---
+
 # [[Ukraine]] 🇺🇦 
 
 

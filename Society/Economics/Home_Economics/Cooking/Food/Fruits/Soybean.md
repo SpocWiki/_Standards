@@ -389,6 +389,7 @@ dv_has_:
     zh-cn: 大豆
     zh_tw: 大豆
 ---
+
 # [[Soybean]]
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Soybean,11006|WD~Soybean,11006]] 

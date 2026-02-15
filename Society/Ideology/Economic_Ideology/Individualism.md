@@ -187,6 +187,7 @@ dv_has_:
     zh_sg: 个人主义
     zh_tw: 個人主義
 ---
+
 # [[Individualism]] 
 
 #has_/creator :: [[../../../Philosophy/Philosopher/Early_modern_Philosopher/Hobbes,Thomas|Hobbes,Thomas]] 

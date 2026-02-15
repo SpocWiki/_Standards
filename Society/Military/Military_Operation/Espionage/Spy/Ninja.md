@@ -160,6 +160,7 @@ dv_has_:
     zh_tw: 忍者
 Unicode_character: 🥷
 ---
+
 # [[Ninja]] 🥷 
 
 #is_/different_from :: [[../../../Armed_Forces/Soldier/Mercenary/Samurai|Samurai]]  

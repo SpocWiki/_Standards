@@ -136,6 +136,7 @@ dv_has_:
     zh: 理論計算機科學
     zh_cn: 理论计算机科学
 ---
+
 # [[Theoretical_Computer_Science]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Theoretical_computer_science,2878974|WD~Theoretical_computer_science,2878974]]  

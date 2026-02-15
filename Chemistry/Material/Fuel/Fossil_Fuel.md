@@ -273,6 +273,7 @@ dv_has_:
     yue: 化石燃料
     zh: 化石燃料
 ---
+
 # [[Fossil_Fuel]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Fossil_fuel,12748|WD~Fossil_fuel,12748]]  

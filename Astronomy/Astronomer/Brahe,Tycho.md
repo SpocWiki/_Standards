@@ -305,6 +305,7 @@ dv_has_:
     zh_hant: 第谷·布拉厄
     zh_tw: 第谷·布拉赫
 ---
+
 # [[Brahe,Tycho]] 
 
 #is_/same_as :: [[../../WikiData/WD~Tycho_Brahe,36620|WD~Tycho_Brahe,36620]]  

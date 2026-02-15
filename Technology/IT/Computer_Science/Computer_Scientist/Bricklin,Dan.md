@@ -106,6 +106,7 @@ dv_has_:
     war: Dan Bricklin
     zh: 丹‧布里克林
 ---
+
 # [[Bricklin,Dan]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Dan_Bricklin,92624|WD~Dan_Bricklin,92624]] 

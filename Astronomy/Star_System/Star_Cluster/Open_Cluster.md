@@ -178,6 +178,7 @@ dv_has_:
     zh: 疏散星团
     zh_hant: 疏散星團
 ---
+
 # [[Open_Cluster]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Open_cluster,11387|WD~Open_cluster,11387]]  

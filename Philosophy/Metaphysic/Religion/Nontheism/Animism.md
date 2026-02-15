@@ -189,6 +189,7 @@ dv_has_:
     yue: 萬物有靈論
     zh: 泛靈論
 ---
+
 # [[Animism]] 
 
 #is_/different_from :: [[Theism]] 

@@ -115,6 +115,7 @@ dv_has_:
     war: Seymour Cray
     zh: 西摩·克雷
 ---
+
 # [[Cray,Seymour]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Seymour_Cray,92765|WD~Seymour_Cray,92765]]  

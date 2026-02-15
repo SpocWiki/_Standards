@@ -261,6 +261,7 @@ dv_has_:
     zh_sg: 道明会
     zh_tw: 道明會
 ---
+
 # [[Dominican]]  
 
 #is_/same_as :: [[_Standards/WikiData/WD~Dominican_Order,131479]] 

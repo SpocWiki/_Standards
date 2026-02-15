@@ -542,6 +542,7 @@ dv_has_:
     zh_tw: 女人
 Unicode_character: 👩
 ---
+
 # [[Woman]] 👩 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Woman,467|WD~Woman,467]] 

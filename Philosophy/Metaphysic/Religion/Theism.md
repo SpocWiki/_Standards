@@ -162,6 +162,7 @@ aliases:
 - 有神论
 - 유신론
 ---
+
 # [[Theism]] 
 
 #has_/complement :: [[Atheism|Atheism]] 

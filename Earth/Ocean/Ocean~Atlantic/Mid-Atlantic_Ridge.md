@@ -180,6 +180,7 @@ dv_has_:
     zh_sg: 大西洋洋中脊
     zh_tw: 大西洋中洋脊
 ---
+
 # [[Mid-Atlantic_Ridge]] 
 
 #is_/same_as :: [[WD~Mid-Atlantic_Ridge,207313]] 

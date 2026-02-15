@@ -112,6 +112,7 @@ dv_has_:
     zh_hk: 歐拉示性數
     zh_tw: 歐拉示性數
 ---
+
 # [[Euler_characteristic]] 
 
 #is_/same_as :: [[../../WikiData/WD~Euler_characteristic,852973|WD~Euler_characteristic,852973]] 

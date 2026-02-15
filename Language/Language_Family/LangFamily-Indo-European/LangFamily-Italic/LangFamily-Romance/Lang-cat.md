@@ -480,6 +480,7 @@ dv_has_:
     zh_tw: 加泰隆尼亞語
     zu: IsiKhathalani
 ---
+
 # [[Lang-cat]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Catalan,7026|WD~Catalan,7026]] 

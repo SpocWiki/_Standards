@@ -103,6 +103,7 @@ dv_has_:
     zh_hant: 非線性
     zh_hk: 非線性
 ---
+
 # [[Nonlinear_System]] 
 
 #is_/same_as :: [[WD~Nonlinear_system,660848]] 

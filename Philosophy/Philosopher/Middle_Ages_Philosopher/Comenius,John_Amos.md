@@ -230,6 +230,7 @@ dv_has_:
     yue: 康米紐斯
     zh: 约翰·阿摩司·夸美纽斯
 ---
+
 # [[Comenius,John_Amos]] 
 
 #is_/same_as :: [[WD~John_Amos_Comenius,12735]] 

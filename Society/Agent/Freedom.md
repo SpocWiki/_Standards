@@ -71,6 +71,7 @@ aliases:
 - 自由
 - 自由报
 ---
+
 # [[Freedom]] 
 
 #is_/similar_to :: [[Liberty]] 

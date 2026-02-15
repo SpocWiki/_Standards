@@ -233,6 +233,7 @@ dv_has_:
     zh: 克努特·汉姆生
     zh_hant: 克努特·漢森
 ---
+
 # [[Hamsun,Knut]] 
 
 #has_/time_/started :: 1859-08-04 

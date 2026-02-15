@@ -147,6 +147,7 @@ dv_has_:
     zh-sg: 东方一号
     zh-tw: 東方一號
 ---
+
 # [[Vostok_1]]
 
 #is_/same_as :: [[../../WikiData/WD~Vostok_1,182524|WD~Vostok_1,182524]]  

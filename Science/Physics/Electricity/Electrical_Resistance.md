@@ -224,6 +224,7 @@ dv_has_:
     zh_hk: 電阻
     zh_tw: 電阻
 ---
+
 # [[Electrical_Resistance]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Electrical_resistance,25358|WD~Electrical_resistance,25358]] 

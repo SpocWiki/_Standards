@@ -106,6 +106,7 @@ aliases:
 - 火焰喷射器
 - 화염방사기
 ---
+
 # [[Flamethrower]] 
 
 #is_/same_as :: 

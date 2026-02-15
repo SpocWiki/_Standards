@@ -226,6 +226,7 @@ dv_has_:
     zh_sg: 丹尼尔·伯努利
     zh_tw: 丹尼爾·白努利
 ---
+
 # [[Bernoulli,Daniel]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Daniel_Bernoulli,122366|WD~Daniel_Bernoulli,122366]] 

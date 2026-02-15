@@ -260,6 +260,7 @@ dv_has_:
     zh_sg: 锄头
     zh_tw: 鋤頭
 ---
+
 # [[Hoe]] 
 
 #is_/same_as :: [[WikiData/WD~Hoe,131154|WD~Hoe,131154]] 

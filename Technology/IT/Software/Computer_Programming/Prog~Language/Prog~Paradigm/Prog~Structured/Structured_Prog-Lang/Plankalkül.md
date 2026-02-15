@@ -41,6 +41,7 @@ aliases:
 - پلن کلکولوس
 - プランカルキュール
 ---
+
 # [[Plankalkül]] 
 
 #is_a_/ComputerLanguage 

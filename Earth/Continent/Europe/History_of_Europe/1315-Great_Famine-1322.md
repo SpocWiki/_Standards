@@ -119,6 +119,7 @@ aliases:
 - დიდი შიმშილობა
 - ヨーロッパでの大飢饉 (1315年 – 1317年)
 ---
+
 # [[1315-Great_Famine-1322]] 
 
 has_time_started = `=this.dv_has_time_started`

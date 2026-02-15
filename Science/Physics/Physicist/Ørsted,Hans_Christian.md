@@ -231,6 +231,7 @@ dv_has_:
     yue: 厄斯特
     zh: 汉斯·奥斯特
 ---
+
 # [[Ørsted,Hans_Christian]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Hans_Christian_Ørsted,44412|WD~Hans_Christian_Ørsted,44412]] 

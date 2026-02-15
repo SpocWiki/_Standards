@@ -214,6 +214,7 @@ dv_has_:
     zh_sg: 范吉利斯
     zh_tw: 范吉利斯
 ---
+
 # [[Vangelis]] 
 
 #is_/same_as ::  [[../../../../../../_Standards/WikiData/WD~Vangelis,153172|WD~Vangelis,153172]] 

@@ -192,6 +192,7 @@ dv_has_:
     yue: 懷疑論
     zh: 懷疑論
 ---
+
 # [[Skepticism]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Skepticism,1395219|WD~Skepticism,1395219]] 

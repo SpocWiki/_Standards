@@ -123,6 +123,7 @@ aliases:
 - 羅渣彭羅斯
 - 로저 펜로즈
 ---
+
 # [[Penrose,Roger]]  
 
 #has_/time_/started :: 1931-08-08

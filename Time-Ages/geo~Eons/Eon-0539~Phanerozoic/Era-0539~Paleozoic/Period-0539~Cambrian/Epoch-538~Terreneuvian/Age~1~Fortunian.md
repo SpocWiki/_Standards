@@ -146,6 +146,7 @@ dv_has_time_started: -538.8e6
 dv_has_time_stopped: -529.0e6
 dv_has_text_of_color: 0x99B575
 ---
+
 # [[Age~1~Fortunian]] 
 
 #is_a_/time_/Age 

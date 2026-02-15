@@ -126,6 +126,7 @@ dv_has_:
     zh_sg: 嗜极生物
     zh_tw: 嗜極生物
 ---
+
 # [[Extremophile]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Extremophile,206912|WD~Extremophile,206912]] 

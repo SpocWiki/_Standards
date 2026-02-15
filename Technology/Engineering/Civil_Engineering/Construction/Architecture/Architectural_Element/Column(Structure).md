@@ -218,6 +218,7 @@ dv_has_:
     zh_hans: 柱
     zh_hant: 柱
 ---
+
 # [[Column(Structure)]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Column,4817|WD~Column,4817]] 

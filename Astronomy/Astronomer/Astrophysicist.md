@@ -192,6 +192,7 @@ dv_has_:
     zh_cn: 天体物理学家
     zh_hant: 天體物理學家
 ---
+
 # [[Astrophysicist]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~astrophysicist,752129]] 

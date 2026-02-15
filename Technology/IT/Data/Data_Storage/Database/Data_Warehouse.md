@@ -126,6 +126,7 @@ dv_has_:
     zh_sg: 数据仓库
     zh_tw: 資料倉儲
 ---
+
 # [[Data_Warehouse]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Data_warehouses,193351|WD~Data_warehouses,193351]] 

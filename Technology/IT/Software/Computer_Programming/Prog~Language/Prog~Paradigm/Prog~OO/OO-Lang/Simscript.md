@@ -17,6 +17,7 @@ aliases:
 - സിംസ്ക്രിപ്റ്റ്
 - 심스크립트
 ---
+
 # [[Simscript]] 
 
 #is_a_/ComputerLanguage 

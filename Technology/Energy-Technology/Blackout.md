@@ -106,6 +106,7 @@ aliases:
 - 停電
 - 정전
 ---
+
 # [[Blackout]] 
 
 #is_/similar_to :: [[Brownout]] 

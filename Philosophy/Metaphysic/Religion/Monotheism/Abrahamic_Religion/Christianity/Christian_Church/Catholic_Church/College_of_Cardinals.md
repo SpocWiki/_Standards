@@ -121,6 +121,7 @@ dv_has_:
     war: Kolehiyo han mga Kardinal
     zh: 樞機團
 ---
+
 # [[College_of_Cardinals]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~College_of_Cardinals,852242|WD~College_of_Cardinals,852242]] 

@@ -68,6 +68,7 @@ dv_has_:
     zh: 森塔·伯格
     zh_hant: 姍黛·貝嘉
 ---
+
 # [[Berger,Senta]]  
 
 #has_/spouse :: [[../../Movie-Directors/Verhoeven,Michael]] 

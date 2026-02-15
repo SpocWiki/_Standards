@@ -106,6 +106,7 @@ dv_has_:
     zh_cn: 自然音阶
     zh_tw: 自然音階
 ---
+
 # [[Diatonic_Scale]] 
 
 ## #has_/text_of_/abstract 

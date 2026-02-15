@@ -85,6 +85,7 @@ dv_has_:
     zh_hant: 非形式謬誤
     zh_hk: 非形式謬誤
 ---
+
 # [[Informal_Fallacy]] 
 
 #is_/same_as :: [[WD~Informal_Fallacy,3312438]] 

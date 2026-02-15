@@ -264,6 +264,7 @@ dv_has_:
     zgh: ⴰⴱⵓ ⴱⴰⴽⵔ ⵙⵙⵉⴷⵉⵇ
     zh: 阿布·伯克尔
 ---
+
 # [[Abu_Bakr]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Abu_Bakr,334923|WD~Abu_Bakr,334923]] 

@@ -49,6 +49,7 @@ aliases:
 - 最後的問題
 - 최후의 질문
 ---
+
 # [[Last_Question(Asimov)]] 
 
 

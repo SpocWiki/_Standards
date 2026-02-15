@@ -82,6 +82,7 @@ dv_has_:
     zh_sg: 鱼石螈属
     zh_tw: 魚石螈屬
 ---
+
 # [[Ichthyostega]]
 
 ![ ](Ichthyostega/ichthyostega.jpg)

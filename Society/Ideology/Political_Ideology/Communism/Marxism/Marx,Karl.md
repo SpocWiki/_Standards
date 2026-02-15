@@ -440,6 +440,7 @@ dv_has_:
     zh_hk: 卡爾·馬克思
     zh_tw: 卡爾·馬克思
 ---
+
 # [[Marx,Karl]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Karl_Marx,9061|WD~Karl_Marx,9061]] 

@@ -1015,6 +1015,7 @@ confidential: public
 icon: flag-kr
 Unicode_character: 🇰🇷
 ---
+
 # [[Korea~South]] 🇰🇷 
 
 

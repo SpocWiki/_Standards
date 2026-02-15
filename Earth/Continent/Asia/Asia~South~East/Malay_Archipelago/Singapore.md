@@ -901,6 +901,7 @@ Wolfram_Language_entity_code: Entity["Country", "Singapore"]
 Libris_URI: gdsvv3l03k6z32s
 Unicode_character: 🇸🇬
 ---
+
 # [[Singapore]] 🇸🇬 has Properties 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`

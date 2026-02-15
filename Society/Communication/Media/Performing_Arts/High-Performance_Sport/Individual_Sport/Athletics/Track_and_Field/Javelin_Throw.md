@@ -189,6 +189,7 @@ dv_has_:
     zh_sg: 掷标枪
     zh_tw: 擲標槍
 ---
+
 # [[Javelin_Throw]] 
 
 #is_/same_as :: [[WD~Javelin_throw,178108]] 

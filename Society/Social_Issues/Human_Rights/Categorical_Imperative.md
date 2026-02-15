@@ -97,6 +97,7 @@ aliases:
 - 絕對律令
 - 정언 명령
 ---
+
 # [[Categorical_Imperative]] 
 
 ## #has_/text_of_/abstract 

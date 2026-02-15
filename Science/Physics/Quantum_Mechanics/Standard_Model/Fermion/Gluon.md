@@ -142,6 +142,7 @@ aliases:
 - 膠子
 - 글루온
 ---
+
 # [[Gluon]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Gluon,3299|WD~Gluon,3299]] 

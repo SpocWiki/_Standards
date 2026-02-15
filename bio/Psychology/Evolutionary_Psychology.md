@@ -123,6 +123,7 @@ dv_has_:
     zh_sg: 进化心理学
     zh_tw: 演化心理學
 ---
+
 # [[Evolutionary_Psychology]] 
 
 #is_/same_as :: [[../../WikiData/WD~Evolutionary_psychology,219695|WD~Evolutionary_psychology,219695]] 

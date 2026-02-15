@@ -67,6 +67,7 @@ dv_has_:
     zh_hant: 冪定律
     zh_hk: 冪定律
 ---
+
 # [[Power-Law_Distribution]] 
 
 #has_/formula_/distribution :: $α x_min^α / x^(α + 1)$ = $\frac {\alpha x_{\mathrm {m} }^{\alpha }}{x^{\alpha +1}}$  for x > x_min and α > 0 

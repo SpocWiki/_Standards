@@ -130,6 +130,7 @@ dv_has_:
     zh_hant: 元數
     zh_hk: 元數
 ---
+
 # [[Arity]] 
 
 The Arity of a [[../Mathematics/Function(Math)|Function(Math)]] is one less than the Arity of the [[../../Knowledge/Math/Relation(Math)|Relation(Math)]] 

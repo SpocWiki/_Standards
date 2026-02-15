@@ -211,6 +211,7 @@ dv_has_:
     yue: 宗教裁判所
     zh: 宗教裁判所
 ---
+
 # [[Inquisition]] 
 
 #is_/same_as :: [[WikiData/WD~Inquisition,43173|WD~Inquisition,43173]] 

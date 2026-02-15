@@ -242,6 +242,7 @@ dv_has_:
     zh_hans: 时代
     zh_hk: 時代雜誌
 ---
+
 # [[Time_Magazine]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Time,43297|WD~Time,43297]]  

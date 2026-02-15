@@ -85,6 +85,7 @@ dv_has_:
     uz: Zeygarnik effekti
     zh: 蔡氏效应
 ---
+
 # [[Zeigarnik_Effect]] 
 
 #is_/same_as :: 

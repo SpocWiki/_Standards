@@ -283,6 +283,7 @@ dv_has_:
     zh_hant: 约翰尼斯·維梅爾
     zh_tw: 约翰尼斯·維梅爾
 ---
+
 # [[Vermeer,Johannes]]
 
 #is_/same_as :: [[../../../../../WikiData/WD~Johannes_Vermeer,41264|WD~Johannes_Vermeer,41264]]

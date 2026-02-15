@@ -551,6 +551,7 @@ dv_has_:
     zh_tw: 經濟學
     zu: ezomnotho
 ---
+
 # [[Economics]] 
 
 #is_/same_as :: [[../WikiData/WD~Economics,8134|WD~Economics,8134]]  

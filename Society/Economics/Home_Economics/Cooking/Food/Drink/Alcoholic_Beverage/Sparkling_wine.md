@@ -131,6 +131,7 @@ dv_has_:
     zh_tw: 氣泡酒
 Unicode_character: 🍾
 ---
+
 # [[Sparkling_wine]] 🍾 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Sparkling_wine,321263|WD~Sparkling_wine,321263]] 

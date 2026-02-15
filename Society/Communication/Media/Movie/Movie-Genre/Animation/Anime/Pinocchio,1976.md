@@ -35,6 +35,7 @@ aliases:
 - ピコリーノの冒険
 - 木偶奇遇記
 ---
+
 # [[Pinocchio,1976]]  
 
 > Piccolino no Bōken (ピコリーノの冒険, Pikorīno no Bōken, lit. "Adventures of Pinocchio") 

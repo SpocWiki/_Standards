@@ -58,6 +58,7 @@ aliases:
 - 三項演算
 - 삼항 연산
 ---
+
 # [[Function~ternary]] 
 
 The most common ternary Function is the `?:` Operator or its equivalend `if/else` structure. 

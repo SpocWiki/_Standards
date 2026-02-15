@@ -322,6 +322,7 @@ dv_has_:
     zh_tw: 日圓
     zu: i-yen lase-Japan
 ---
+
 # [[Yen,Japanese]]
 
 #is_/same_as :: [[../../../WikiData/WD~Yen,8146|WD~Yen,8146]]

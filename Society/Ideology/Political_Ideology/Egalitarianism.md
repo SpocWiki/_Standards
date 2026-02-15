@@ -164,6 +164,7 @@ dv_has_:
     zh_sg: 平等原则
     zh_tw: 平等原則
 ---
+
 # [[Egalitarianism]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Egalitarianism,188958|WD~Egalitarianism,188958]] 

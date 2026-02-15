@@ -175,6 +175,7 @@ aliases:
 - 星際物質
 - 성간물질
 ---
+
 # [[Interstellar_Medium]] 
 
 #is_/same_as :: [[WD~Interstellar_medium,41872]]   

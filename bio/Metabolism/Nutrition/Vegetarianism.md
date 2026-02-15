@@ -235,6 +235,7 @@ dv_has_:
     zh: 素食主義
     zh_hant: 素食主義
 ---
+
 # [[Vegetarianism]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Vegetarianism,83364|WD~Vegetarianism,83364]]  

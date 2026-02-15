@@ -226,6 +226,7 @@ dv_has_:
     zh_tw: 核融合
     zu: Ukuxubana kwenuzi
 ---
+
 # [[Nuclear_Fusion]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Nuclear_fusion,13082|WD~Nuclear_fusion,13082]] 

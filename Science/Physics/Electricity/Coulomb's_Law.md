@@ -187,6 +187,7 @@ dv_has_:
     zh: 库仑定律
     zh_tw: 庫侖定律
 ---
+
 # [[Coulomb's_Law]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Coulomb's_law,83152|WD~Coulomb's_law,83152]] 

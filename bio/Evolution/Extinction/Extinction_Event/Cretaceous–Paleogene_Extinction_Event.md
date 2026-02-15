@@ -150,6 +150,7 @@ dv_has_:
     yue: 白堊紀-古近紀滅絕事件
     zh: 白堊紀－第三紀滅絕事件
 ---
+
 # [[Cretaceous–Paleogene_Extinction_Event]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Cretaceous–Paleogene_extinction_event,55811|WD~Cretaceous–Paleogene_extinction_event,55811]]

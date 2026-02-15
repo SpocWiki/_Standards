@@ -291,6 +291,7 @@ dv_has_:
     zh: 原子核
     zu: INdeni yechwe
 ---
+
 # [[Atomic_nucleus]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Atomic_nucleus,37147|WD~Atomic_nucleus,37147]] 

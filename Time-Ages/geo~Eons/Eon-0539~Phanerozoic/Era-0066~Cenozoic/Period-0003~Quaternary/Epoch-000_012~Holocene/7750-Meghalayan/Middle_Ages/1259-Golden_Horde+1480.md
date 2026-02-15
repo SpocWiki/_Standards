@@ -271,6 +271,7 @@ dv_has_:
     yue: 欽察汗國
     zh: 金帳汗國
 ---
+
 # [[1259-Golden_Horde+1480]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Golden_Horde,79965|WD~Golden_Horde,79965]] 

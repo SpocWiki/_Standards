@@ -240,6 +240,7 @@ dv_has_:
     zgh: ⵉⴱⵉⵇⵓⵔ
     zh: 伊壁鸠鲁
 ---
+
 # [[Epicurus]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Epicurus,43216|WD~Epicurus,43216]] 

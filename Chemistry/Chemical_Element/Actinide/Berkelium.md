@@ -353,6 +353,7 @@ dv_has_number_of_group: 31
 dv_has_number_of_electrons: 97
 Unicode_character: 鉳
 ---
+
 # [[Berkelium]] 鉳 
 
 #is_/same_as :: [[../../../WikiData/WD~Berkelium,1882]] 

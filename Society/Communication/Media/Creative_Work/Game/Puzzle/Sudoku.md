@@ -153,6 +153,7 @@ dv_has_:
     zh_hant: 數獨
     zh_hk: 數獨
 ---
+
 # [[Sudoku]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Sudoku,44914|WD~Sudoku,44914]]  

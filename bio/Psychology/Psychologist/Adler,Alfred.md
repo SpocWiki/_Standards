@@ -226,6 +226,7 @@ dv_has_:
     zh_sg: 阿尔弗雷德·阿德勒
     zh_tw: 阿爾弗雷德·阿德勒
 ---
+
 # [[Adler,Alfred]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Alfred_Adler,152393]] 

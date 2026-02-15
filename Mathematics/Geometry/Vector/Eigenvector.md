@@ -132,6 +132,7 @@ dv_has_:
     yue: 特徵值同特徵向量
     zh: 特征值和特征向量
 ---
+
 # [[Eigenvector]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Eigenvectors_and_eigenvalues,190524|WD~Eigenvectors_and_eigenvalues,190524]] 

@@ -159,6 +159,7 @@ dv_has_:
     yue: 本能
     zh: 本能
 ---
+
 # [[Instinct]] 
 
 #is_/same_as :: [[WikiData/WD~Instinct,18237|WD~Instinct,18237]] 

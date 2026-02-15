@@ -269,6 +269,7 @@ dv_has_:
     zh_tw: 意識
     zu: impaphamo
 ---
+
 # [[Consciousness]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Consciousness,7087|WD~Consciousness,7087]] 

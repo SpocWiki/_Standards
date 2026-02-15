@@ -442,6 +442,7 @@ dv_has_name_abbreviated: Mn
 dv_has_number_of_electrons: 25
 Unicode_character: 錳
 ---
+
 # [[Manganese]] 錳 
 
 

@@ -59,6 +59,7 @@ aliases:
 - 微型計算機控製程序
 - 微型计算机控制程序
 ---
+
 # [[OS~CP~M]]  
 
 > **CP/M**, originally standing for Control Program/Monitor and later Control Program for Microcomputers, is a mass-market operating system created in 1974 for Intel 8080/85-based microcomputers by [[Gary_Kildall]] of Digital Research, Inc. 

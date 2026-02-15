@@ -164,6 +164,7 @@ dv_has_:
     zh-hant: 北愛爾蘭問題
     zh-hk: 北愛爾蘭問題
 ---
+
 # [[1960-Northern_Ireland_Conflict+1998]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~The_Troubles,815436|WD~The_Troubles,815436]] 

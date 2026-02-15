@@ -149,6 +149,7 @@ dv_is_same_as:
 - '[[/_secret/Earth/Continent/America~North/USA/History_of_the_USA/1803-Louisiana_Purchase.secret|1803-Louisiana_Purchase.secret]]'
 has_id_wikidata: Q193155
 ---
+
 # [[1803-Louisiana_Purchase]] 
 
 has_time_started = `=this.dv_has_time_started`

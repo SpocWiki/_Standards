@@ -202,6 +202,7 @@ dv_has_:
     zh_sg: 祭坛
     zh_tw: 祭壇
 ---
+
 # [[Altar]] 
 
 #is_/similar_to  :: [[Shrine]] 

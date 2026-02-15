@@ -327,6 +327,7 @@ dv_has_:
     zh_hant: 奧薩馬·本·拉登
     zh_tw: 奧薩瑪·賓·拉登
 ---
+
 # [[Osama_bin_Laden]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Osama_bin_Laden,1317|WD~Osama_bin_Laden,1317]] 

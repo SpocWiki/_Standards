@@ -155,6 +155,7 @@ dv_has_:
     zh: 分形
     zu: Impindampindwano
 ---
+
 # [[Fractal]] 
 
 #is_/same_as :: [[../../WikiData/WD~Fractal,81392|WD~Fractal,81392]] 

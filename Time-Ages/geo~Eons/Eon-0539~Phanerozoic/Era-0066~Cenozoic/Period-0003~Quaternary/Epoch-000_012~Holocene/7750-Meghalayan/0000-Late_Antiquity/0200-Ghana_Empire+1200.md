@@ -188,6 +188,7 @@ dv_has_:
     zh-sg: 迦纳帝国
     zh-tw: 迦納帝國
 ---
+
 # [[0200-Ghana_Empire+1200]]
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Ghana_Empire,206789|WD~Ghana_Empire,206789]]

@@ -378,6 +378,7 @@ dv_has_:
     yue: 湯瑪斯曼
     zh: 托马斯·曼
 ---
+
 # [[Mann,Thomas]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Thomas_Mann,37030|WD~Thomas_Mann,37030]]  

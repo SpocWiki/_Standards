@@ -57,6 +57,7 @@ dv_has_:
     yue: 以偏概全
     zh: 偏差樣本
 ---
+
 # [[Spotlight Fallacy]]  
 
 ## #has_/text_of_/abstract 

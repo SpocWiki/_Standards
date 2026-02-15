@@ -221,6 +221,7 @@ dv_has_:
     zh_tw: 唐納·蘇德蘭
     zu: Donald Sutherland
 ---
+
 # [[Sutherland,Donald]]  
 
 #has_/time_/started :: 1935-07-17

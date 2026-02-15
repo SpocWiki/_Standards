@@ -251,6 +251,7 @@ dv_has_:
     zh: 莱特兄弟
     zh_hant: 萊特兄弟
 ---
+
 # [[Wright_Brothers]]  
 
 #is_/same_as :: [[../../WikiData/WD~Wright_brothers,35820|WD~Wright_brothers,35820]]   

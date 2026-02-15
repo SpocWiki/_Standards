@@ -969,6 +969,7 @@ dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Ireland
 dv_developed_developing_countries: Developed
 Unicode_character: 🇮🇪
 ---
+
 # [[Ireland]] 🇮🇪 
 
 

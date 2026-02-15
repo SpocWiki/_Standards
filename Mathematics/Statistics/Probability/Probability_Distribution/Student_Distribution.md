@@ -116,6 +116,7 @@ dv_has_:
     zh: 学生t-分布
     zh_tw: 司徒頓t分布
 ---
+
 # [[Student_Distribution]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Student's_t-distribution,576072|WD~Student's_t-distribution,576072]]  

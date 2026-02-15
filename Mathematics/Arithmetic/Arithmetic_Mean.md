@@ -263,6 +263,7 @@ dv_has_:
     yue: 算術平均值
     zh: 算术平均数
 ---
+
 # [[Arithmetic_Mean]] 
 
 #is_/same_as :: [[../../WikiData/WD~Arithmetic_mean,19033|WD~Arithmetic_mean,19033]] 

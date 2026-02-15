@@ -131,6 +131,7 @@ dv_has_:
     zh_sg: 纯种马
     zh_tw: 純種馬
 ---
+
 # [[Thoroughbred]]  
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Thoroughbred,210826|WD~Thoroughbred,210826]]  

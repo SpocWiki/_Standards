@@ -398,6 +398,7 @@ dv_has_:
     yue: 康丁斯基
     zh: 瓦西里·康定斯基
 ---
+
 # [[Kandinsky,Wassily]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Wassily_Kandinsky,61064|WD~Wassily_Kandinsky,61064]]  

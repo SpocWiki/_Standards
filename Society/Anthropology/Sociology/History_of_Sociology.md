@@ -113,6 +113,7 @@ dv_has_:
     zh_hant: 社會學史
     zh_hk: 社會學史
 ---
+
 # [[History_of_Sociology]] 
 
 #is_/same_as :: [[../../../WikiData/WD~History_of_sociology,932233|WD~History_of_sociology,932233]] 

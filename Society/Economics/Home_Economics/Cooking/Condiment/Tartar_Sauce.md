@@ -118,6 +118,7 @@ dv_has_:
     zh_sg: 塔塔酱
     zh_tw: 塔塔醬
 ---
+
 # [[Tartar_Sauce]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Tartar_sauce,348947|WD~Tartar_sauce,348947]]  

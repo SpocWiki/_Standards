@@ -159,6 +159,7 @@ dv_has_:
     yue: 消費主義
     zh: 消費主義
 ---
+
 # [[Consumerism]] 
 
 #is_/same_as :: [[WD~Consumerism,89640]] 

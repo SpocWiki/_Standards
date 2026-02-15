@@ -166,6 +166,7 @@ dv_has_:
     zh_sg: 电泳
     zh_tw: 電泳
 ---
+
 # [[Electrophoresis]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Electrophoresis,185098|WD~Electrophoresis,185098]] 

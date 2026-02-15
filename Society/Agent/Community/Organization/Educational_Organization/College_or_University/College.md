@@ -220,6 +220,7 @@ dv_has_:
     zh_hant: 學院
     zh_tw: 學院
 ---
+
 # [[College]]  
 
 #is_/same_as :: [[../../../../../../WikiData/WD~College,189004|WD~College,189004]] 

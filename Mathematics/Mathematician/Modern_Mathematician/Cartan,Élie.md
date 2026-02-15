@@ -179,6 +179,7 @@ dv_has_:
     vi: Élie Cartan
     zh: 埃利·嘉当
 ---
+
 # [[Cartan,Élie]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Élie_Cartan,274639|WD~Élie_Cartan,274639]] 

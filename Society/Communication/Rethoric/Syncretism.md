@@ -161,6 +161,7 @@ dv_has_:
     zh_sg: 综摄
     zh_tw: 綜攝
 ---
+
 # [[Syncretism]] 
 
 #is_/different_from :: [[Eclecticism]] 

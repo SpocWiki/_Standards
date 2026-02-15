@@ -284,6 +284,7 @@ dv_has_:
     zh_hans: 萨尔曼·拉什迪
     zh_hk: 沙曼·魯殊迪
 ---
+
 # [[Salman_Rushdie]] 
 
 #is_/same_as :: [[WD~Salman_Rushdie,44306]] 

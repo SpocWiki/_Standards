@@ -906,6 +906,7 @@ Languages:
 icon: flag-np
 Unicode_character: 🇳🇵
 ---
+
 # [[Nepal]] 🇳🇵 has Properties...
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`

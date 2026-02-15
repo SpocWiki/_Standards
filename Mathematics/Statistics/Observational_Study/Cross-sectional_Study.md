@@ -66,6 +66,7 @@ dv_has_:
     zh_cn: 横向研究
     zh_hant: 橫向研究
 ---
+
 # [[Cross-sectional_Study]] 
 
 #is_a :: [[../Observational_Study|Observational_Study]] 

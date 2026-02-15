@@ -274,6 +274,7 @@ dv_has_:
     zh_tw: 箭
     zu: Umcibisholo
 ---
+
 # [[Arrow]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Arrow,45922|WD~Arrow,45922]] 

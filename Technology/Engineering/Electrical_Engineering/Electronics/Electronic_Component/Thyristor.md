@@ -118,6 +118,7 @@ dv_has_:
     zh_sg: 晶闸管
     zh_tw: 閘流體
 ---
+
 # [[Thyristor]]  
 
 #is_/same_as :: [[../../../../../WikiData/WD~Thyristor,180805|WD~Thyristor,180805]]  

@@ -153,6 +153,7 @@ dv_has_:
     zh_sg: 专家统治
     zh_tw: 專家統治
 ---
+
 # [[Technocracy]]  
 
 #is_/similar_to :: [[Meritocracy|Meritocracy]] 

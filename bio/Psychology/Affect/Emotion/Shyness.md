@@ -137,6 +137,7 @@ dv_has_:
     yue: 怕醜
     zh: 害羞
 ---
+
 # [[Shyness]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Shyness,913668|WD~Shyness,913668]]    

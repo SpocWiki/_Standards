@@ -245,6 +245,7 @@ dv_has_:
     yue: 黎曼
     zh: 波恩哈德·黎曼
 ---
+
 # [[Riemann,Bernhard]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Bernhard_Riemann,42299|WD~Bernhard_Riemann,42299]] 

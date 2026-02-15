@@ -48,6 +48,7 @@ dv_has_:
     uk: теорема геометризації
     zh: 几何化猜想
 ---
+
 # [[Geometrization_Conjecture]] 
 
 #is_/better_than :: [[Poincaré_Conjecture]] 

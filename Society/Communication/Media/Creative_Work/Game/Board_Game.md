@@ -240,6 +240,7 @@ dv_has_:
     zh_sg: 图版游戏
     zh_tw: 圖版遊戲
 ---
+
 # [[Board_Game]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Board_game,131436|WD~Board_game,131436]] 

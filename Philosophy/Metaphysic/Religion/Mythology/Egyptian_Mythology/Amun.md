@@ -175,6 +175,7 @@ dv_has_:
     yue: 阿蒙
     zh: 阿蒙
 ---
+
 # [[Amun]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Amun,58373|WD~Amun,58373]] 

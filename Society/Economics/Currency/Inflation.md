@@ -254,6 +254,7 @@ dv_has_:
     yue: 通貨膨脹
     zh: 通货膨胀
 ---
+
 # [[Inflation]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Inflation,35865|WD~Inflation,35865]] 

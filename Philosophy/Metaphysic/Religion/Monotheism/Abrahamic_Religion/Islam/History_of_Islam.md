@@ -168,6 +168,7 @@ dv_has_:
     zh_hant: 伊斯蘭教歷史
     zh_hk: 伊斯蘭教歷史
 ---
+
 # [[History_of_Islam]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~History_of_Islam,642379|WD~History_of_Islam,642379]] 

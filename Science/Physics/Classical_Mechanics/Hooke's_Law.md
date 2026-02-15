@@ -174,6 +174,7 @@ dv_has_:
     zh_sg: 胡克定律
     zh_tw: 虎克定律
 ---
+
 # [[Hooke's_Law]] 
 
 #is_/same_as :: [[WD~Hooke's_law,170282]] 

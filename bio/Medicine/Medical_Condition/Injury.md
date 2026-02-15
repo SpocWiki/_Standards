@@ -204,6 +204,7 @@ dv_has_:
     zh_sg: 创伤
     zh_tw: 創傷
 ---
+
 # [[Injury]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Injury,193078|WD~Injury,193078]] 

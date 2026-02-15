@@ -198,6 +198,7 @@ dv_has_:
     zh_sg: 公寓
     zh_tw: 公寓
 ---
+
 # [[Apartment]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Apartment,188507|WD~Apartment,188507]] 

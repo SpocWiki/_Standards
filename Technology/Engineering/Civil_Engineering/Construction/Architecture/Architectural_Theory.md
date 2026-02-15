@@ -95,6 +95,7 @@ dv_has_:
     yue: 建築理論
     zh: 建筑理论
 ---
+
 # [[Architectural_Theory]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Architectural_theory,47537|WD~Architectural_theory,47537]] 

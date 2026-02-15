@@ -152,6 +152,7 @@ aliases:
 - 보손
 - 보즈립자
 ---
+
 # [[Boson]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Boson,43101|WD~Boson,43101]] 

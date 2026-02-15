@@ -158,6 +158,7 @@ dv_has_:
     zh_sg: 决定论
     zh_tw: 決定論
 ---
+
 # [[Determinism]] 
 
 #is_/same_as :: [[../WikiData/WD~Determinism,131133|WD~Determinism,131133]] 

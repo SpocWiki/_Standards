@@ -253,6 +253,7 @@ dv_has_:
     zh_sg: 约翰·戈特利布·费希特
     zh_tw: 約翰·戈特利布·費希特
 ---
+
 # [[Fichte,Johann_Gottlieb]] 
 
 #is_/same_as :: [[WD~Johann_Gottlieb_Fichte,102585]] 

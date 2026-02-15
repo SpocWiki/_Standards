@@ -230,6 +230,7 @@ dv_has_:
     zh_sg: 斑疹伤寒
     zh_tw: 斑疹傷寒
 ---
+
 # [[Typhus]] 
 
 #is_/different_from :: [[Typhoid_Fever|Typhoid_Fever]] 

@@ -121,6 +121,7 @@ dv_has_:
     zh: 語言人類學
     zh_hans: 语言人类学
 ---
+
 # [[Linguistic_Anthropology]] 
 
 #is_/same_as :: [[WD~Linguistic_anthropology,772835]] 

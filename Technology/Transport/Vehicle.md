@@ -287,6 +287,7 @@ dv_has_:
     zh-tw: 載具
     zu: Isithuthi
 ---
+
 # [[Vehicle]] 
 
 Class of all vehicles.

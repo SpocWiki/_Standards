@@ -222,6 +222,7 @@ dv_has_:
     zh_sg: 转世
     zh_tw: 轉世
 ---
+
 # [[Reincarnation]] 
 
 #is_/same_as :: [[WD~Reincarnation,128593]] 

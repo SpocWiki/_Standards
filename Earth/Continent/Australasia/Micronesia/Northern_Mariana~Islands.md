@@ -390,6 +390,7 @@ dv_has_:
     zh_tw: 北馬里亞納群島
 Unicode_character: 🇲🇵
 ---
+
 # [[Northern_Mariana~Islands]] 🇲🇵 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 

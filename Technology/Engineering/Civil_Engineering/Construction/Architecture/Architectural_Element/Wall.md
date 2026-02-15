@@ -297,6 +297,7 @@ dv_has_:
     zh_sg: 墙
     zh_tw: 牆
 ---
+
 # [[Wall]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Wall,42948|WD~Wall,42948]]  

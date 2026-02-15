@@ -134,6 +134,7 @@ dv_has_:
     zh: 反三角函數
     zh_hans: 反三角函数
 ---
+
 # [[Inverse_trigonometric_Function]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Inverse_trigonometric_function,674533|WD~Inverse_trigonometric_function,674533]] 

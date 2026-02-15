@@ -152,6 +152,7 @@ dv_has_:
     zh_sg: 僭主
     zh_tw: 僭主
 ---
+
 # [[Tyrant]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Tyrant,180095|WD~Tyrant,180095]]  

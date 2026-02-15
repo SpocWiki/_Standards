@@ -136,6 +136,7 @@ dv_has_:
     zh_sg: 棱柱
     zh_tw: 稜柱
 ---
+
 # [[Prism(Geometry)]] 
 
 #is_/different_from :: [[../../Science/Physics/Wave/Optics/Prism(Optics)|Prism(Optics)]] 

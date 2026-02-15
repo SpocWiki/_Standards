@@ -148,6 +148,7 @@ dv_has_:
     zh: 活动星系核
     zh_tw: 活躍星系核
 ---
+
 # [[Active_galactic_Nucleus]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Active_galactic_nucleus,46587]] 

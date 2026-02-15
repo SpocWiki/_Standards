@@ -233,6 +233,7 @@ dv_has_:
     zh_sg: 症状
     zh_tw: 症狀
 ---
+
 # [[Medical_Symptom]] 
 
 Class of all medical_symptoms.

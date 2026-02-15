@@ -252,6 +252,7 @@ aliases:
 - 사원
 - "\U00010330\U0001033B\U00010337\U00010343"
 ---
+
 # [[Temple]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Temple,44539|WD~Temple,44539]]  

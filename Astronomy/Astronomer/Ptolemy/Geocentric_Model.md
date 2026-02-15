@@ -197,6 +197,7 @@ dv_has_:
     zh_sg: 地心说
     zh_tw: 天動說
 ---
+
 # [[Geocentric_Model]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Geocentric_model,165800|WD~Geocentric_model,165800]] 

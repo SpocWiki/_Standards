@@ -227,6 +227,7 @@ dv_has_:
     zh_tw: 假說
     zu: isihlawumbiselo
 ---
+
 # [[Hypothesis]] 
 
 #is_/same_as :: [[WikiData/WD~Hypothesis,41719|WD~Hypothesis,41719]] 

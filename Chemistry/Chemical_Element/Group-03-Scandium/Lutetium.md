@@ -365,6 +365,7 @@ dv_has_number_of_group: 37
 dv_has_number_of_electrons: 71
 Unicode_character: 鎦
 ---
+
 # [[Lutetium]] 鎦 
 
 

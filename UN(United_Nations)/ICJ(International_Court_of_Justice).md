@@ -321,6 +321,7 @@ dv_has_:
     zh-hk: 國際法院
     zh-tw: 國際法院
 ---
+
 # [[ICJ(International_Court_of_Justice)]] 
 
 #is_/different_from :: [[ICC(International_Criminal_Court)|ICC(International_Criminal_Court)]] 

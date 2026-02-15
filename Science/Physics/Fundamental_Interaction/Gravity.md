@@ -402,6 +402,7 @@ dv_has_:
     zh_tw: 重力
     zu: UmNyondo
 ---
+
 # [[Gravity]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~Gravity,11412]] 

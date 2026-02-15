@@ -273,6 +273,7 @@ dv_has_:
     za: 澤·卡鐵耶
     zh: 雅克·卡蒂埃
 ---
+
 # [[Cartier,Jacques]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Jacques_Cartier,7321|WD~Jacques_Cartier,7321]]

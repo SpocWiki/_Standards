@@ -111,6 +111,7 @@ dv_has_:
     zh_hant: 社會控制
     zh_hk: 社會控制
 ---
+
 # [[Social_Control]] 
 
 #is_/same_as :: [[../../WikiData/WD~Social_control,623971|WD~Social_control,623971]]  

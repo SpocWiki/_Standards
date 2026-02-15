@@ -278,6 +278,7 @@ dv_has_:
     zh_cn: 托马斯·莫尔
     zh_hk: 湯馬士·摩亞
 ---
+
 # [[More,Thomas]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Thomas_More,42544|WD~Thomas_More,42544]]  

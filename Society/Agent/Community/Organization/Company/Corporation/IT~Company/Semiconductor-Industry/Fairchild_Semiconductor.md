@@ -55,6 +55,7 @@ dv_has_:
     zh_hk: 快捷半導體公司
     zh_tw: 快捷半導體
 ---
+
 # [[Fairchild_Semiconductor]] 
 
 

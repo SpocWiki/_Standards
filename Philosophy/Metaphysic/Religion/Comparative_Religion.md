@@ -117,6 +117,7 @@ dv_has_:
     zh_hant: 宗教比較
     zh_hk: 宗教比較
 ---
+
 # [[Comparative_Religion]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Comparative_religion,1075827|WD~Comparative_religion,1075827]] 

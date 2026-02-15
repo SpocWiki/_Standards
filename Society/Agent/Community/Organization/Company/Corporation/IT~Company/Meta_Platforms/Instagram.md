@@ -112,6 +112,7 @@ aliases:
 - ꠁꠘꠍ꠆ꠐꠣꠉꠣꠝ
 - 인스타그램
 ---
+
 # [[Instagram]]  
 
 #is_/part_of :: [[../Meta_Platforms]] 

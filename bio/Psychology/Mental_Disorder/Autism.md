@@ -355,6 +355,7 @@ dv_has_:
     zh_hant: 自閉症
     zh_tw: 自閉症
 ---
+
 # [[Autism]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Autism,38404|WD~Autism,38404]] 

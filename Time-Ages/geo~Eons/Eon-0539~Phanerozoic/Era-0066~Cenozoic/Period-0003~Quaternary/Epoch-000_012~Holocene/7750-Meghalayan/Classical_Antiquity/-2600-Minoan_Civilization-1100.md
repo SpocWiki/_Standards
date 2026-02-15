@@ -194,6 +194,7 @@ dv_has_:
     zh-sg: 米诺斯文明
     zh-tw: 米諾斯文明
 ---
+
 # [[-2600-Minoan_Civilization-1100]] 
 
 #is_/same_as :: [[WD~Minoan_civilization,134178]] 

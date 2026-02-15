@@ -177,6 +177,7 @@ dv_has_:
     zh_hans: 认知心理学
     zh_hant: 認知心理學
 ---
+
 # [[Cognitive_Psychology]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Cognitive_psychology,23373|WD~Cognitive_psychology,23373]] 

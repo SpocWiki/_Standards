@@ -204,6 +204,7 @@ dv_has_:
     zh-sg: 托尔德西里亚斯条约
     zh-tw: 托爾德西里亞斯條約
 ---
+
 # [[1494-Treaty_of_Tordesillas]] 
 
 #is_/same_as :: [[WD~Treaty_of_Tordesillas,180897]] 

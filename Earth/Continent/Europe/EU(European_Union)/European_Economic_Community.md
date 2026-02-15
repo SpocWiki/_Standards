@@ -226,6 +226,7 @@ dv_has_:
     yue: 歐洲經濟共同體
     zh: 欧洲经济共同体
 ---
+
 # [[European_Economic_Community]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~European_Economic_Community,52847|WD~European_Economic_Community,52847]] 

@@ -122,6 +122,7 @@ dv_has_:
     yue: 宣言
     zh: 宣言
 ---
+
 # [[Manifesto]] 
 
 #is_/same_as :: [[WD~Manifesto,46337]] 

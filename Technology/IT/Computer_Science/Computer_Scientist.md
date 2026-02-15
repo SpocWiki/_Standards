@@ -277,6 +277,7 @@ dv_has_:
     zh_sg: 电脑科学家
     zh_tw: 電腦科學家
 ---
+
 # [[Computer_Scientist]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~computer_scientist,82594]] 

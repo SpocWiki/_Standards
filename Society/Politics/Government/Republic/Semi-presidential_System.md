@@ -197,6 +197,7 @@ dv_has_:
     zh_hant: 半總統制
     zh_tw: 半總統制
 ---
+
 # [[Semi-presidential_System]] 
 
 #is_/same_as :: [[WD~Semi-presidential_system,49890]] 

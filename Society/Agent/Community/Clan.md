@@ -184,6 +184,7 @@ dv_has_:
     zh_sg: 氏族
     zh_tw: 氏族
 ---
+
 # [[Clan]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Clan,211503|WD~Clan,211503]] 

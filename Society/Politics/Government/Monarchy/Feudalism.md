@@ -203,6 +203,7 @@ aliases:
 - 封建社會
 - 봉건 제도
 ---
+
 # [[Feudalism]] 
 
 #is_/same_as :: [[WD~Feudalism,37739]] 

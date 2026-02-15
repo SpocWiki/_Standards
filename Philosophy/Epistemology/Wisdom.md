@@ -248,6 +248,7 @@ dv_has_:
     zh_hant: 智慧
     zu: inhlakanipho
 ---
+
 # [[Wisdom]] 
 
 #is_/better_than :: [[./Knowledge]] 

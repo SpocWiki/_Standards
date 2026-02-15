@@ -186,6 +186,7 @@ dv_has_:
     zh: 渗透
     zu: Umnyikilizo
 ---
+
 # [[Osmosis]] 
 
 #is_/same_as :: [[WD~Osmosis,54237]] 

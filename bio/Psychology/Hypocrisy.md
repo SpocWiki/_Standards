@@ -165,6 +165,7 @@ dv_has_:
     zh_sg: 伪君子
     zh_tw: 偽君子
 ---
+
 # [[Hypocrisy]] 
 
 #is_/same_as :: [[WikiData/WD~Hypocrisy,201650|WD~Hypocrisy,201650]] 

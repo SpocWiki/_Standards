@@ -393,6 +393,7 @@ dv_has_:
     zh_tw: 電
     zu: ugesi
 ---
+
 # [[Electricity]] 
 
 #is_/same_as :: [[../../WikiData/WD~Electricity,12725|WD~Electricity,12725]] 

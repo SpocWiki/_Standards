@@ -338,6 +338,7 @@ dv_has_:
     zh_sg: 传染病
     zh_tw: 傳染病
 ---
+
 # [[Infectious_Disease]] 
 
 Class of all infectious_diseases.

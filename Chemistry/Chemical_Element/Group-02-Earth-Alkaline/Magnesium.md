@@ -477,6 +477,7 @@ dv_has_name_abbreviated: Mg
 dv_has_number_of_electrons: 12
 Unicode_character: 鎂
 ---
+
 # [[Magnesium]] 鎂 
 
 

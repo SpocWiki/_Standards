@@ -195,6 +195,7 @@ dv_has_:
     zh_sg: 博学家
     zh_tw: 博學家
 ---
+
 # [[Polymath]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~polymath,270141]] 

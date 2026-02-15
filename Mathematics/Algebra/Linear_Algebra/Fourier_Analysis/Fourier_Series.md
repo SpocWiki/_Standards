@@ -181,6 +181,7 @@ dv_has_:
     zh_sg: 傅里叶级数
     zh_tw: 傅立葉級數
 ---
+
 # [[Fourier_Series]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Fourier_series,179467|WD~Fourier_series,179467]] 

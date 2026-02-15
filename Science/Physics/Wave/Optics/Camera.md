@@ -256,6 +256,7 @@ dv_has_:
     zh_tw: 照相機
     zu: isithwebuli
 ---
+
 # [[Camera]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Camera,15328|WD~Camera,15328]] 

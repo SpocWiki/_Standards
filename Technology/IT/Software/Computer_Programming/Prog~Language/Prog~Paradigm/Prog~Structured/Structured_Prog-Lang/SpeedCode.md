@@ -30,6 +30,7 @@ aliases:
 - سبيد كودنج
 - 스피드코딩
 ---
+
 # [[SpeedCode]] 
 
 #is_a_/ComputerLanguage 

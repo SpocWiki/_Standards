@@ -198,6 +198,7 @@ dv_has_:
     zh_sg: 阶乘
     zh_tw: 階乘
 ---
+
 # [[Factorial]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Factorial,120976|WD~Factorial,120976]] 

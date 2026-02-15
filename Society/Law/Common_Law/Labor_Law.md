@@ -159,6 +159,7 @@ dv_has_:
     zh_hant: 勞工法
     zh_tw: 勞工法
 ---
+
 # [[Labor_Law]] 
 
 #is_/same_as :: [[WD~Labor_law,628967]] 

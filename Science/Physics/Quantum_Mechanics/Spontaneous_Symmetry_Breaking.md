@@ -90,6 +90,7 @@ dv_has_:
     zh_hant: 自發對稱性破缺
     zh_hk: 自發對稱性破缺
 ---
+
 # [[Spontaneous_Symmetry_Breaking]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Spontaneous_symmetry_breaking,736716|WD~Spontaneous_symmetry_breaking,736716]]  

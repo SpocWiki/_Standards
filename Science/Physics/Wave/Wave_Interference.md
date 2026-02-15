@@ -164,6 +164,7 @@ dv_has_:
     zh_sg: 干涉
     zh_tw: 干涉
 ---
+
 # [[Wave_Interference]] 
 
 #is_/same_as :: [[WD~Interference,136980]] 

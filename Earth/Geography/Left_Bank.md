@@ -105,6 +105,7 @@ aliases:
 - Лівий берег (значення)
 - Левый берег
 ---
+
 # [[Left_Bank]] 
 
 is_opposite_of = `=this.dv_is_opposite_of`

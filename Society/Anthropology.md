@@ -391,6 +391,7 @@ dv_has_:
     zh_tw: 人類學
     zu: Umchazabuntu
 ---
+
 # [[Anthropology]] 
 
 greek from Andos "Man" and "Logos"  

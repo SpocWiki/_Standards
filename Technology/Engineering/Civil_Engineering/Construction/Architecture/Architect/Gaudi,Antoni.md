@@ -265,6 +265,7 @@ dv_has_:
     zh: 安东尼·高迪
     zh_tw: 安東尼·高第
 ---
+
 # [[Gaudi,Antoni]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Antoni_Gaudí,25328|WD~Antoni_Gaudí,25328]] 

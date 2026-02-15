@@ -125,6 +125,7 @@ dv_has_:
     yue: 高斯消去法
     zh: 高斯消去法
 ---
+
 # [[Gaussian_Elimination]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Gaussian_elimination,2658|WD~Gaussian_elimination,2658]] 

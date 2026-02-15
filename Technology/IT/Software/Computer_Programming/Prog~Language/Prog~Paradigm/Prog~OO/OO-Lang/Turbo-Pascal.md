@@ -58,6 +58,7 @@ aliases:
 - டேர்போ பாசுகால்
 - 터보 파스칼
 ---
+
 # [[Turbo-Pascal]] 
 
 #is_a_/ComputerLanguage 

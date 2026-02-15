@@ -379,6 +379,7 @@ dv_has_:
     zh_hant: 詞
     zu: igama
 ---
+
 # [[Word]] 
 
 #is_/same_as :: [[../WikiData/WD~Word,8171|WD~Word,8171]] 

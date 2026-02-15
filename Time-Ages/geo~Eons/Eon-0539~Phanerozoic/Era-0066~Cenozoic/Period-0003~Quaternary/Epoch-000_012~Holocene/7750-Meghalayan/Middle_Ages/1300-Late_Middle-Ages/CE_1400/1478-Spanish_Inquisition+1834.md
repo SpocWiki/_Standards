@@ -179,6 +179,7 @@ dv_has_:
     zh-sg: 西班牙宗教裁判所
     zh-tw: 西班牙宗教裁判所
 ---
+
 # [[1478-Spanish_Inquisition+1834]] 
 
 #is_/same_as :: [[WD~Spanish_Inquisition,184725]] 

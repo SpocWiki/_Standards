@@ -211,6 +211,7 @@ dv_has_:
     zh_sg: 核磁共振成像
     zh_tw: 核磁共振成像
 ---
+
 # [[MRI(Magnetic_Resonance_Imaging)]]  
 
 Technique of Magnetic resonance imaging.

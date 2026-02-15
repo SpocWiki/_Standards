@@ -395,6 +395,7 @@ dv_has_:
     zh_hant: 質子
     zu: INelesi
 ---
+
 # [[Proton]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Proton,2294|WD~Proton,2294]] 

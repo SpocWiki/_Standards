@@ -140,6 +140,7 @@ dv_has_:
     zh_hant: 歐洲統合
     zh_tw: 歐洲整合
 ---
+
 # [[European_Integration]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~European_integration,1048268|WD~European_integration,1048268]] 

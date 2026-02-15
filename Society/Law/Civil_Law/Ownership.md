@@ -155,6 +155,7 @@ aliases:
 - 擁有權
 - 소유권
 ---
+
 # [[Ownership]] 
 
 ## #has_/text_of_/abstract  

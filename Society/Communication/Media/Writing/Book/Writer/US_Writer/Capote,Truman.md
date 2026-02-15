@@ -196,6 +196,7 @@ dv_has_:
     zh_sg: 杜鲁门·卡波特
     zh_tw: 楚門·卡波提
 ---
+
 # [[Capote,Truman]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Truman_Capote,134180|WD~Truman_Capote,134180]]  

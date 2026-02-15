@@ -39,6 +39,7 @@ aliases:
 - ວິນໂດເອັນທີ
 - 윈도우 NT
 ---
+
 # [[WindowsNT]] 
 
 

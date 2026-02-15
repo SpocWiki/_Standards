@@ -74,6 +74,7 @@ aliases:
 - リドル
 - 리들
 ---
+
 # [[Lidl]] 
 
 #has_/competitor :: [[Aldi]] 

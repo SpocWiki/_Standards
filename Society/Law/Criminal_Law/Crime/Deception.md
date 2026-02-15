@@ -177,6 +177,7 @@ dv_has_:
     zh: 欺骗
     zh_hant: 欺騙
 ---
+
 # [[Deception]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~deception,170028]] 

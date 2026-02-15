@@ -341,6 +341,7 @@ dv_has_:
     zh_tw: 社會主義
     zu: UCosulelwano
 ---
+
 # [[Socialism]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Socialism,7272|WD~Socialism,7272]] 

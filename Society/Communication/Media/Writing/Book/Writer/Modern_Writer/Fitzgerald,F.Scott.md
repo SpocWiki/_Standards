@@ -221,6 +221,7 @@ dv_has_:
     zh_sg: 弗朗西斯·斯科特·菲茨杰拉德
     zh_tw: 法蘭西斯·史考特·費茲傑羅
 ---
+
 # [[Fitzgerald,F.Scott]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~F._Scott_Fitzgerald,93354|WD~F._Scott_Fitzgerald,93354]] 

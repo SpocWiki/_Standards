@@ -77,6 +77,7 @@ aliases:
 - ᱦᱩᱣᱟᱴᱥᱟᱯ
 - ⵡⴰⵟⵚⴰⴱⴱ
 ---
+
 # [[WhatsApp]]  
 
 #is_/similar_to :: [[SnapChat]] 

@@ -160,6 +160,7 @@ dv_has_:
     yue: 撥桑分佈
     zh: 泊松分布
 ---
+
 # [[Poisson_Distribution]] 
 
 #is_/same_as :: [[WD~Poisson_distribution,205692]] 

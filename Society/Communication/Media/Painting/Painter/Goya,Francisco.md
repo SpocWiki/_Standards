@@ -488,6 +488,7 @@ dv_has_:
     zh_hans: 弗朗西斯科·德·戈雅
     zh_hant: 法蘭西斯科·德·戈雅
 ---
+
 # [[Goya,Francisco]] 
 
 #has_/time_/started :: 1746-03-30 

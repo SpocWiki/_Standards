@@ -40,6 +40,7 @@ aliases:
 - 最後通牒賽局
 - 최후통첩 게임
 ---
+
 # [[Ultimatum_Game]] 
 
 #is_/similar_to :: [[../../Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1945-Cold_War|Cold War]] 

@@ -271,6 +271,7 @@ dv_has_:
     zh_hans: 物理化学
     zh_hant: 物理化學
 ---
+
 # [[Physical_Chemistry]] 
 
 #is_/same_as :: [[../../WikiData/WD~Physical_chemistry,11372|WD~Physical_chemistry,11372]] 

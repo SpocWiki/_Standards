@@ -166,6 +166,7 @@ dv_has_:
     yue: 唔確定性原理
     zh: 不确定性原理
 ---
+
 # [[Uncertainty_Principle]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Uncertainty_principle,44746|WD~Uncertainty_principle,44746]]  

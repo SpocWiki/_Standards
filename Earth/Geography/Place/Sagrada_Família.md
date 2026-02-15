@@ -250,6 +250,7 @@ dv_has_:
     zea: Sagrada Familia
     zh: 圣家堂
 ---
+
 # [[Sagrada_Família]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Sagrada_Família,48435|WD~Sagrada_Família,48435]] 

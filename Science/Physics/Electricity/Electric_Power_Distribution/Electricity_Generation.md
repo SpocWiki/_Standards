@@ -161,6 +161,7 @@ dv_has_:
     zh_sg: 发电
     zh_tw: 發電
 ---
+
 # [[Electricity_Generation]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Electricity_generation,383973|WD~Electricity_generation,383973]] 

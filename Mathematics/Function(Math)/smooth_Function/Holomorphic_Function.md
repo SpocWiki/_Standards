@@ -123,6 +123,7 @@ dv_has_:
     zh_sg: 全纯函数
     zh_tw: 全純函數
 ---
+
 # [[Holomorphic_Function]] 
 
 #is_/same_as :: [[WD~Holomorphic_function,207476]] 

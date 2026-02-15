@@ -79,6 +79,7 @@ dv_has_:
     uk: Wire (програмне забезпечення)
     zh: Wire
 ---
+
 # [[Wire(Messenger)]] 
 
 #is_/same_as :: [[WD~Wire,26934461]]

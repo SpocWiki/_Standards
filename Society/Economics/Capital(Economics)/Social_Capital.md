@@ -121,6 +121,7 @@ dv_has_:
     zh_sg: 社会资本
     zh_tw: 社會資本
 ---
+
 # [[Social_Capital]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Social_capital,214693|WD~Social_capital,214693]]  

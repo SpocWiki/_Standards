@@ -73,6 +73,7 @@ aliases:
 - 互补式金属氧化物半导体
 - 互補金屬氧化物半導體隨機存儲器
 ---
+
 # [[CMOS]] 
 
 #has_/previous_/item :: [[TTL(Transistor–Transistor_Logic)]] 

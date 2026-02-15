@@ -147,6 +147,7 @@ dv_has_:
     zh_sg: 慈怀疗护
     zh_tw: 緩和療護
 ---
+
 # [[Palliative_Care]] 
 
 #is_/same_as :: [[WD~Palliative_care,29483]] 

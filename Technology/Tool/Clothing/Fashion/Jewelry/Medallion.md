@@ -230,6 +230,7 @@ dv_has_:
     zh-tw: 獎章
 Unicode_character: 🏅
 ---
+
 # [[Medallion]] 🏅 
 
 #is_/same_as :: [[WD~Medallion,131647]] 

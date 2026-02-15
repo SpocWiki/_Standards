@@ -223,6 +223,7 @@ dv_has_:
     zh_sg: 应用数学
     zh_tw: 應用數學
 ---
+
 # [[Applied_Mathematics]] 
 
 #is_/same_as :: [[../WikiData/WD~Applied_mathematics,33521|WD~Applied_mathematics,33521]] 

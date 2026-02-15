@@ -200,6 +200,7 @@ dv_has_:
     zh_hant: 半人馬座A
     zh_hk: 半人馬座A
 ---
+
 # [[Centaurus_A]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Centaurus_A,487255|WD~Centaurus_A,487255]] 

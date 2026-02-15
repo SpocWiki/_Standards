@@ -305,6 +305,7 @@ dv_has_:
     zh_hant: 思想
     zh_tw: 思想
 ---
+
 # [[Thinking]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Thinking,9420|WD~Thinking,9420]]  

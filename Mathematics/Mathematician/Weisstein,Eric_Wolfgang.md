@@ -69,6 +69,7 @@ aliases:
 - 埃里克·韦斯坦因
 - 에릭 웨이스타인
 ---
+
 # [[Weisstein,Eric_Wolfgang]] 
 
 #is_/different_from :: [[../../../_Standards/Science/Physics/Physicist/Weinstein,Eric_Ross|Weinstein,Eric_Ross]] 

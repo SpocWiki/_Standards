@@ -67,6 +67,7 @@ dv_has_:
     vi: Tulio Levi-Civita
     zh: 图利奥·列维-齐维塔
 ---
+
 # [[Levi-Civita,Tullio]]  
 
 #has_/time_/started :: 1873-03-29 

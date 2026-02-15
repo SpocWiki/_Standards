@@ -157,6 +157,7 @@ dv_has_:
     zh: 宗教学
     zh_cn: 宗教学
 ---
+
 # [[Religious_Studies]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Religious_studies,34187|WD~Religious_studies,34187]]  

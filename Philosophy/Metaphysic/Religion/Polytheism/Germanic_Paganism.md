@@ -95,6 +95,7 @@ dv_has_:
     zh_cn: 日耳曼异教
     zh_hans: 日耳曼异教
 ---
+
 # [[Germanic_Paganism]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Germanic_paganism,1122452|WD~Germanic_paganism,1122452]] 

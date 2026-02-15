@@ -17,6 +17,7 @@ dv_has_:
 aliases:
 - Quaero
 ---
+
 # [[Quaero]] 
 
 It cost 600e6€, went live in 2010 and is no longer active. 

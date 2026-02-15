@@ -226,6 +226,7 @@ dv_has_:
     zh_sg: 埃利亚的芝诺
     zh_tw: 埃利亞的芝諾
 ---
+
 # [[Zeno_of_Elea]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Zeno_of_Elea,132157|WD~Zeno_of_Elea,132157]]  

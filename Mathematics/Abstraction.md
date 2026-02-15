@@ -186,6 +186,7 @@ dv_has_:
     zh_hant: 抽象化
     zh_tw: 抽象化
 ---
+
 # [[Abstraction]] 
 
 #is_/same_as :: [[../WikiData/WD~Abstraction,673661]] 

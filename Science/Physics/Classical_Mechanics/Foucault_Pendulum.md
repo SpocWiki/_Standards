@@ -169,6 +169,7 @@ dv_has_:
     zh_sg: 傅科摆
     zh_tw: 傅科擺
 ---
+
 # [[Foucault_Pendulum]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Foucault_pendulum,178841|WD~Foucault_pendulum,178841]] 

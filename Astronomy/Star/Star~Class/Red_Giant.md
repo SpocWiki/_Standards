@@ -192,6 +192,7 @@ dv_has_:
     yue: 紅巨星
     zh: 紅巨星
 ---
+
 # [[Red_Giant]]
 
 #is_/same_as :: [[WD~Red_giant,50081]] 

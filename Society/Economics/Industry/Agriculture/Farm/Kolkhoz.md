@@ -133,6 +133,7 @@ dv_has_:
     zh_hant: 蘇聯集體農莊
     zh_hk: 蘇聯農業集體化
 ---
+
 # [[Kolkhoz]] 
 
 #is_/same_as :: [[WD~Kolkhoz,485016]] 

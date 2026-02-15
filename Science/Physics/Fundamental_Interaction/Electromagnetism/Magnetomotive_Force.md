@@ -105,6 +105,7 @@ dv_has_:
     uk: Магніторушійна сила
     zh: 磁动势
 ---
+
 # [[Magnetomotive_Force]] 
 
 #is_/same_as :: [[WD~Magnetomotive_force,1266982]] 

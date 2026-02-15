@@ -215,6 +215,7 @@ dv_has_:
     zh_tw: 威廉·吉爾伯特
     zu: William Gilbert
 ---
+
 # [[Gilbert,William(Physicist)]] 
 
 #is_/same_as :: [[WD~William_Gilbert,192706]] 

@@ -17,6 +17,7 @@ dv_has_:
     sms: energiateknologia
     sv: energiteknik
 ---
+
 # [[Energy-Technology]]  
 
 ## #has_/text_of_/abstract 

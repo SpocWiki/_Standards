@@ -100,6 +100,7 @@ dv_has_:
     uk: Історія Скандинавії
     zh: 斯堪的納維亞歷史
 ---
+
 # [[History_of_Scandinavia]]
 
 #is_/same_as :: [[../../../../../WikiData/WD~History_of_Scandinavia,568251|WD~History_of_Scandinavia,568251]]  

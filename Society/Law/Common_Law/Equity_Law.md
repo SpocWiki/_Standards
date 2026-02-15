@@ -95,6 +95,7 @@ dv_has_:
     zh_sg: 衡平法
     zh_tw: 衡平法
 ---
+
 # [[Equity_Law]]
 
 #is_/same_as :: [[../../../WikiData/WD~Equity,2578557|WD~Equity,2578557]] 

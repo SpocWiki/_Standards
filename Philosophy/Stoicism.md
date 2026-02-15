@@ -226,6 +226,7 @@ dv_has_:
     zgh: ⵜⴰⵥⵕⴳⵎⵎⴰⴹⵜ
     zh: 斯多亞學派
 ---
+
 # [[Stoicism]] 
 
 #is_/similar_to :: [[CBT(Cognitive_Behavioral_Therapy)]]

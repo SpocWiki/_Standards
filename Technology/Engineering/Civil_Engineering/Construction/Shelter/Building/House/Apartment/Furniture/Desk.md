@@ -155,6 +155,7 @@ dv_has_:
     zh_hant: 書桌
     zh_hk: 書桌
 ---
+
 # [[Desk]] 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Desk,1064858|WD~Desk,1064858]] 

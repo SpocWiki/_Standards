@@ -104,6 +104,7 @@ dv_has_:
     uk: прикладна етика
     zh: 應用倫理學
 ---
+
 # [[Applied_Ethics]] 
 
 #is_/same_as :: [[../../WikiData/WD~Applied_ethics,538733|WD~Applied_ethics,538733]] 

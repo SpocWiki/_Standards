@@ -230,6 +230,7 @@ dv_has_:
     zh_sg: 弗朗西斯·克里克
     zh_tw: 法蘭西斯·克立克
 ---
+
 # [[Crick,Francis]] 
 
 #is_/same_as :: [[../../WikiData/WD~Francis_Crick,123280|WD~Francis_Crick,123280]] 

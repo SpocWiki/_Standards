@@ -202,6 +202,7 @@ dv_has_:
     zh_hant: 適應
     zh_hk: 適應
 ---
+
 # [[Adaptation]] 
 
 #is_/same_as :: [[../../WikiData/WD~Adaptation,483921]] 

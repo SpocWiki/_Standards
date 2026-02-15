@@ -112,6 +112,7 @@ dv_has_:
     zh_sg: 明度
     zh_tw: 明度
 ---
+
 # [[Brightness]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Brightness,221656|WD~Brightness,221656]] 

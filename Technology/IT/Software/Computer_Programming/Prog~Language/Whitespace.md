@@ -63,6 +63,7 @@ aliases:
 - 空白文字
 - 공백 문자
 ---
+
 # [[Whitespace]]  
 
 ## #has_/text_of_/abstract 

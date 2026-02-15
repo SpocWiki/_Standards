@@ -125,6 +125,7 @@ dv_has_:
     yue: 緻密星
     zh: 致密星
 ---
+
 # [[Compact_Star]] 
 
 #is_/same_as :: [[../../WikiData/WD~Compact_star,368442|WD~Compact_star,368442]] 

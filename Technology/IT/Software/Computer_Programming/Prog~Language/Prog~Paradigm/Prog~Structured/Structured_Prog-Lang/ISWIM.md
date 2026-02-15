@@ -26,6 +26,7 @@ aliases:
 - ISWIM
 - زبان برنامه نویسی آی سوییم
 ---
+
 # [[ISWIM]] 
 
 #is_a_/ComputerLanguage 

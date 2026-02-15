@@ -186,6 +186,7 @@ dv_has_:
     yue: 螺旋星系
     zh: 螺旋星系
 ---
+
 # [[Spiral_Galaxy]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Spiral_galaxy,2488|WD~Spiral_galaxy,2488]]  

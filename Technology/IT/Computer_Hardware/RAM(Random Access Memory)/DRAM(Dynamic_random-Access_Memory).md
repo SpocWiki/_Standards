@@ -125,6 +125,7 @@ dv_has_:
     zh_sg: 动态随机存取存储器
     zh_tw: 動態隨機存取記憶體
 ---
+
 # [[DRAM(Dynamic_random-Access_Memory)]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Dynamic_random-access_memory,189396|WD~Dynamic_random-access_memory,189396]] 

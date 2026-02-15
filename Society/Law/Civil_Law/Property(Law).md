@@ -259,6 +259,7 @@ dv_has_:
     zh_tw: 屬性
     zu: Impahla
 ---
+
 # [[Property(Law)]] 
 
 #is_/alternative_to :: [[Steward-Ownership]]  

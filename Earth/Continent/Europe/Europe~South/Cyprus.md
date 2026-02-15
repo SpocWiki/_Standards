@@ -891,6 +891,7 @@ Languages:
 icon: flag-cy
 Unicode_character: 🇨🇾
 ---
+
 # [[Cyprus]] 🇨🇾  has Properties... 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`

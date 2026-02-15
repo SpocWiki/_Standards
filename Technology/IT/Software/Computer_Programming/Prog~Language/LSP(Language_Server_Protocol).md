@@ -14,6 +14,7 @@ aliases:
 - Пратакол моўнага сэрвэру
 - 語言伺服器協定
 ---
+
 # [[LSP(Language_Server_Protocol)]]  
 
 #has_/time_/started :: 2020-02-01

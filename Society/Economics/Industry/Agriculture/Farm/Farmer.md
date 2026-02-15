@@ -390,6 +390,7 @@ dv_has_:
     zh_sg: 农民
     zh_tw: 農民
 ---
+
 # [[Farmer]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Farmer,131512|WD~Farmer,131512]] 

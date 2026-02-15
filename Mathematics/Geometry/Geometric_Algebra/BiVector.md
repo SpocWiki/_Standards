@@ -40,6 +40,7 @@ dv_has_:
     sv: Bivektor
     zh: 二重向量
 ---
+
 # [[BiVector]] 
 
 #is_/same_as :: [[WD~Bivector,663908]] 

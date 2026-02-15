@@ -216,6 +216,7 @@ dv_has_:
     yue: 顧拜旦
     zh: 皮埃尔·德·顾拜旦
 ---
+
 # [[Coubertin,Pierre_de]] 
 
 #has_/time_/started :: 1863-01-01 

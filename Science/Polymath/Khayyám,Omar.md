@@ -271,6 +271,7 @@ dv_has_:
     zgh: ⵄⵓⵎⴰⵕ ⵍⵅⵉⵢⵢⴰⵎ
     zh: 欧玛尔·海亚姆
 ---
+
 # [[Khayyám,Omar]] 
 
 #is_/same_as :: [[WD~Omar_Khayyám,35900]] 

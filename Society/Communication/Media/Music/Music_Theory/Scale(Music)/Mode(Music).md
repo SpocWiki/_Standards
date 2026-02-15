@@ -117,6 +117,7 @@ dv_has_:
     zh_hant: 調式
     zh_hk: 調式
 ---
+
 # [[Mode(Music)]] 
 
 #is_/same_as :: [[WD~Mode,731978]] 

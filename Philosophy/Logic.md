@@ -362,6 +362,7 @@ dv_has_:
     zh_sg: 逻辑学
     zh_tw: 理則學
 ---
+
 # [[Logic]] 
 
 #is_/same_as :: [[../WikiData/WD~Logic,8078|WD~Logic,8078]] 

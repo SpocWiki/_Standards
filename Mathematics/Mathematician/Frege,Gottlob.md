@@ -185,6 +185,7 @@ dv_has_:
     yue: 弗雷格
     zh: 戈特洛布·弗雷格
 ---
+
 # [[Frege,Gottlob]] 
 
 #has_/time_/started  :: 1848-11-08 

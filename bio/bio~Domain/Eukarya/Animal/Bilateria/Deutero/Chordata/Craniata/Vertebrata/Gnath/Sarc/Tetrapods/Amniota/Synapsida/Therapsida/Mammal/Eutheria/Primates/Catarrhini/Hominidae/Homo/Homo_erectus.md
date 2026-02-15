@@ -173,6 +173,7 @@ dv_has_:
     zh_sg: 直立人
     zh_tw: 直立人
 ---
+
 # [[Homo_erectus]] 
 
 #is_/same_as :: [[WD~Homo_erectus,101362]] 

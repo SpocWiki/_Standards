@@ -90,6 +90,7 @@ dv_has_:
     wuu: 普塔霍特普
     zh: 普塔霍特普
 ---
+
 # [[Ptahhotep]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Ptahhotep,573606|WD~Ptahhotep,573606]]  

@@ -273,6 +273,7 @@ dv_has_:
     zh_sg: 安德烈-马里·安培
     zh_tw: 安德烈-馬里·安培
 ---
+
 # [[André-Marie_Ampère]] 
 
 #is_/same_as :: [[../../../WikiData/WD~André-Marie_Ampère,675|WD~André-Marie_Ampère,675]] 

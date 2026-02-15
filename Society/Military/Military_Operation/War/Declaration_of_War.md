@@ -111,6 +111,7 @@ dv_has_:
     zh_sg: 宣战
     zh_tw: 宣戰
 ---
+
 # [[Declaration_of_War]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Declaration_of_war,334516|WD~Declaration_of_war,334516]] 

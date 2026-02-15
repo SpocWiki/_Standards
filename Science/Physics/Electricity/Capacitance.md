@@ -201,6 +201,7 @@ dv_has_:
     zh_sg: 电容
     zh_tw: 電容
 ---
+
 # [[Capacitance]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Capacitance,164399|WD~Capacitance,164399]] 

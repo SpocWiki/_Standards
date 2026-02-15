@@ -190,6 +190,7 @@ dv_is_same_as:
 - '[[/_secret/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Sulfate.secret|Ammonium_Sulfate.secret]]'
 dv_has_text_of_molecular_formula: (NH4)2SO4
 ---
+
 # [[Ammonium_Sulfate]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Ammonium_sulfate,191831|WD~Ammonium_sulfate,191831]] 

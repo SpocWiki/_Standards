@@ -149,6 +149,7 @@ dv_has_:
     zh_hant: 軍事工業複合體
     zh_hk: 軍事工業複合體
 ---
+
 # [[Military–industrial_Complex]]
 
 #is_/same_as :: [[WD~Military–industrial_complex,744593]] 

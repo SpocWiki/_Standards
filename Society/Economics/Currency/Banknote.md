@@ -266,6 +266,7 @@ dv_has_:
     zh: 紙幣
     zh_hans: 纸币
 ---
+
 # [[Banknote]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Banknote,47433|WD~Banknote,47433]] 

@@ -166,6 +166,7 @@ dv_has_:
     zh_sg: 孢子
     zh_tw: 孢子
 ---
+
 # [[Spore]] 
 
 #is_/similar_to :: [[Egg]] 

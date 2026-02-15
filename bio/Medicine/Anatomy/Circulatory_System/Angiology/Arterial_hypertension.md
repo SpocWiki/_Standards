@@ -392,6 +392,7 @@ dv_has_:
     zh_hant: 高血壓
     zh_tw: 高血壓
 ---
+
 # [[Arterial_hypertension]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Arterial_hypertension,41861|WD~Arterial_hypertension,41861]] 

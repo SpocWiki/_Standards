@@ -234,6 +234,7 @@ dv_has_:
     zh_tw: 傑拉德·特·胡夫特
     zu: Gerardus 't Hooft
 ---
+
 # [[Hooft,Gerard_'t]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Gerard_'t_Hooft,184592|WD~Gerard_'t_Hooft,184592]] 

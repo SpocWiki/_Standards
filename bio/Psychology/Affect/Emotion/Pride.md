@@ -111,6 +111,7 @@ dv_has_:
     yue: 自豪
     zh: 憍傲
 ---
+
 # [[Pride]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~pride,3071551]] 

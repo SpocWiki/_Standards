@@ -247,6 +247,7 @@ dv_has_:
     zh_sg: 可持续发展
     zh_tw: 永續發展
 ---
+
 # [[Sustainable_Development]] 
 
 #is_/same_as :: [[../../WikiData/WD~Sustainable_development,131201|WD~Sustainable_development,131201]] 

@@ -317,6 +317,7 @@ dv_has_:
     zh_tw: 核子動力
     zu: Amandla enuzi
 ---
+
 # [[Nuclear_Power]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Nuclear_power,12739|WD~Nuclear_power,12739]] 

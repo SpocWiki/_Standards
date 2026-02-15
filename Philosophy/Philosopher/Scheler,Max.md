@@ -148,6 +148,7 @@ dv_has_:
     yue: 舍勒
     zh: 马克斯·舍勒
 ---
+
 # [[Scheler,Max]] 
 
 #is_/same_as :: [[WD~Max_Scheler,76521]] 

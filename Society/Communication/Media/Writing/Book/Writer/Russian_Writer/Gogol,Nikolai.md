@@ -301,6 +301,7 @@ dv_has_:
     zh_hans: 尼古拉·果戈理
     zh_hant: 尼古拉·果戈理
 ---
+
 # [[Gogol,Nikolai]] 
 
 #is_/same_as :: [[WD~Nikolai_Gogol,43718]] 

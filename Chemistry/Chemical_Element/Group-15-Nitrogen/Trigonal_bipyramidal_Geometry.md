@@ -57,6 +57,7 @@ aliases:
 - 雙三角錐分子結構
 - 삼각쌍뿔형
 ---
+
 # [[Trigonal_bipyramidal_Geometry]]  
 
 is_similar_to = `=this.dv_is_similar_to` 

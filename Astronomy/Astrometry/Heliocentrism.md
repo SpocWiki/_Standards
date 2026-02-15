@@ -210,6 +210,7 @@ dv_has_:
     zh_sg: 日心说
     zh_tw: 地動說
 ---
+
 # [[Heliocentrism]] 
 
 is_opposite_of = `=this.dv_is_opposite_of` 

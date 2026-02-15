@@ -236,6 +236,7 @@ dv_has_:
     zh: 波茲曼常數
     zh_hans: 玻尔兹曼常数
 ---
+
 # [[Boltzmann_Constant]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Boltzmann_constant,5962|WD~Boltzmann_constant,5962]] 

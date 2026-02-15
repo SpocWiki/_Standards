@@ -139,6 +139,7 @@ dv_has_:
     zh_sg: 张量
     zh_tw: 張量
 ---
+
 # [[Tensor]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Tensor,188524|WD~Tensor,188524]]  

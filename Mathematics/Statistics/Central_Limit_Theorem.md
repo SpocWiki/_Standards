@@ -103,6 +103,7 @@ dv_has_:
     yue: 中央極限定理
     zh: 中心极限定理
 ---
+
 # [[Central_Limit_Theorem]] 
 
 #is_/same_as :: [[../../WikiData/WD~Central_limit_theorem,190391|WD~Central_limit_theorem,190391]] 

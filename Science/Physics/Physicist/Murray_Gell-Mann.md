@@ -249,6 +249,7 @@ dv_has_:
     zh_sg: 默里·盖尔曼
     zh_tw: 默里·蓋爾曼
 ---
+
 # [[Murray_Gell-Mann]] 
 
 #is_/same_as :: [[WD~Murray_Gell-Mann,172840]] 

@@ -151,6 +151,7 @@ dv_has_:
     zh_sg: 泛函分析
     zh_tw: 泛函分析
 ---
+
 # [[Functional_Analysis]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Functional_analysis,190549|WD~Functional_analysis,190549]] 

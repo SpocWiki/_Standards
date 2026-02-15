@@ -155,6 +155,7 @@ dv_has_:
     zh_sg: 三项全能
     zh_tw: 三項全能
 ---
+
 # [[Triathlon]] 
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Triathlon,10980|WD~Triathlon,10980]]  

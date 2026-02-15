@@ -123,6 +123,7 @@ dv_has_:
     zh_sg: 指数分布
     zh_tw: 指數分布
 ---
+
 # [[Exponential_Distribution]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Exponential_distribution,237193|WD~Exponential_distribution,237193]]  

@@ -143,6 +143,7 @@ dv_has_:
     zh_sg: 数控机床
     zh_tw: 電腦數值控制工具機
 ---
+
 # [[CNC(Computer_Numerical_Control)]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Computer_numerical_control,190247|WD~Computer_numerical_control,190247]] 

@@ -139,6 +139,7 @@ dv_has_:
     xmf: ბიზანტიური ხელუანობა
     zh: 拜占庭艺术
 ---
+
 # [[Byzantine_Art]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Byzantine_art,211884|WD~Byzantine_art,211884]] 

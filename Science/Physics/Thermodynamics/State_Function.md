@@ -100,6 +100,7 @@ dv_has_:
     yue: 狀態函數
     zh: 态函数
 ---
+
 # [[State_Function]] 
 
 #is_/same_as :: [[../../../WikiData/WD~State_function,230937|WD~State_function,230937]]  

@@ -114,6 +114,7 @@ aliases:
 - 離心機
 - 원심분리기
 ---
+
 # [[Centrifuge]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Centrifuge,191134|WD~Centrifuge,191134]] 

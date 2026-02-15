@@ -222,6 +222,7 @@ dv_has_:
     zh_hans: 沃伦·巴菲特
     zh_tw: 華倫·巴菲特
 ---
+
 # [[Buffett,Warren]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Warren_Buffett,47213|WD~Warren_Buffett,47213]]  

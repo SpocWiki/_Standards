@@ -131,6 +131,7 @@ dv_has_:
     yue: 永續農業
     zh: 永續農業
 ---
+
 # [[Sustainable_Agriculture]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Sustainable_agriculture,2751054|WD~Sustainable_agriculture,2751054]]  

@@ -282,6 +282,7 @@ aliases:
 - 거울
 Unicode_character: 🪞
 ---
+
 # [[Mirror]] 🪞 
 
 

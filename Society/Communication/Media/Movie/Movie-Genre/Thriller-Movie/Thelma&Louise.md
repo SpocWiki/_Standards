@@ -94,6 +94,7 @@ aliases:
 - 末路狂花
 - 델마와 루이스
 ---
+
 # [[Thelma&Louise]]  
 
 #has_/time_/started :: 1991-05-20 

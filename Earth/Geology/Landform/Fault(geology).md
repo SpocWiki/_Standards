@@ -179,6 +179,7 @@ dv_has_:
     zh: 斷層
     zh_hant: 斷層
 ---
+
 # [[Fault(geology)]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Fault,47089|WD~Fault,47089]] 

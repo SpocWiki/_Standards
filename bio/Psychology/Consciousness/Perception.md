@@ -220,6 +220,7 @@ dv_has_:
     zh_tw: 知覺
     zu: Intshwayo
 ---
+
 # [[Perception]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Perception,160402|WD~Perception,160402]]  

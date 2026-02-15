@@ -258,6 +258,7 @@ dv_has_:
     zh_sg: 汉斯·贝特
     zh_tw: 漢斯·貝特
 ---
+
 # [[Bethe,Hans]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Hans_Bethe,155794|WD~Hans_Bethe,155794]] 

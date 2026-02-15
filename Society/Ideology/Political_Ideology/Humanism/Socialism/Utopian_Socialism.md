@@ -146,6 +146,7 @@ dv_has_:
     zh_sg: 空想社会主义
     zh_tw: 空想社會主義
 ---
+
 # [[Utopian_Socialism]] 
 
 #is_/same_as :: [[../../../../../WikiData/WD~Utopian_socialism,192447|WD~Utopian_socialism,192447]]  

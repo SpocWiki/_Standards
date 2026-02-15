@@ -176,6 +176,7 @@ aliases:
 - 자물쇠
 Unicode_character: 🔏
 ---
+
 # [[Lock]] 🔏 
 
 #has_/complement ::  [[Key]] 

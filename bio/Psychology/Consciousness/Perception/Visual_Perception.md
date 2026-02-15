@@ -226,6 +226,7 @@ dv_has_:
     zh_sg: 视知觉
     zh_tw: 視知覺
 ---
+
 # [[Visual_Perception]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~Visual_perception,162668|WD~Visual_perception,162668]]  

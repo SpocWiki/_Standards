@@ -154,6 +154,7 @@ dv_has_:
     zh_hant: 老人醫學
     zh_tw: 老人醫學
 ---
+
 # [[Geriatrics]] 
 
 #is_/same_as :: [[../../../WikiData/WD~Geriatrics,10384|WD~Geriatrics,10384]] 

@@ -207,6 +207,7 @@ dv_has_:
     zh: 愛國主義
     zh_tw: 愛國主義
 ---
+
 # [[Patriotism]] 
 
 #is_/same_as :: [[WD~Patriotism,6241]] 
