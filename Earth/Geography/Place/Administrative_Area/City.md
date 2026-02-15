@@ -10,7 +10,6 @@ aliases:
 - birni
 - borg
 - burg
-- by
 - býur
 - cathair
 - ceety

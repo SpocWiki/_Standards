@@ -1,197 +1,197 @@
 ---
 aliases:
-- Agas
-- Ageyet
-- Amuk
-- Ağcaqanadlar
-- Báng
-- Ch'uspi
-- Chivinlar
-- Culicida
-- Culicidae
-- Culicidi
-- culícids
-- Doŋaa
-- Duunga
-- Dzēlējodi
-- eltxo
-- Gösn
-- Humhutu
-- hyttyset
-- Hŭng-muòng
-- Izi
-- Kaneeco
-- Kantana
-- Kiktuġiaq
-- Komarac
-- Komarci
-- komarji
-- komarowate
-- komárovití
-- Kopruchowate
-- kuy'
-- Kōsis
-- Lamok
-- Lamu'o
-- Legu
-- Lemud
-- likes
-- Machchharr
-- Mbu
-- Midge
-- Mixmixk
-- Mkpuk
-- Moissal
-- Moschgieder
-- Moskito
-- Moskítóflugur
-- Mosquito
-- Moustik
-- muiscít
-- Mushkonja
-- Mustiken
-- muỗi
-- Mëga
-- Mûn-é
-- Mōyōtl
-- Namok
-- Ngungi
-- Ngungu
-- Nondui
-- Ntontom
-- nyamuk
-- Nyimbo
-- Nyungz
-- Picron
-- Pin'oit
-- Pistesääsklased
-- Poothammel
-- Qhiti
-- Rangit
-- Rengngè'
-- Reungit
-- Sauro
-- Schnaken
-- Schnoog
-- Sginsała
-- Sikimew
-- Sinsàla
-- Sivrisinek
-- Stechmücken
-- Steegmagen
-- steekmuggen
-- Stickmyggor
-- stikkmygg
-- stikmyg
-- szúnyogfélék
-- Säs'k
-- süyrüsenek
-- Tikrieji uodai
-- Tsʼíʼii daʼaneezí
-- Tzintzula
-- Umubu
-- vùrúdnà
-- waeroa
-- ñamu
-- Ñati'ũ
-- țânțar
-- Κουνούπι
-- Боргооһон
-- Бырдах
-- Вăрăмтунасем
-- ЗIокмоза
-- Камары
-- Комарі
-- комарац
-- Комарец
-- комари
-- кровососущие комары
-- Къогъо
-- Маса
-- Ном
-- озынборыннар
-- Серәкәйҙәр
-- Хомӯшак
-- чибиньёс
-- Чиркейлер
-- Чуьрк
-- Шыҥа
-- Ыргак-сээктер
-- մոծակ
-- כולכיתיים
-- קאמאר
-- آغجاقانادلار
-- بعوضيات
-- لل
-- مچھر
-- مڇر
-- مۆہ
-- مێشوولە
-- ناموس
-- پشه
-- ڽاموق
-- ܒܩܐ
-- डास
-- दोम मण्डल, रंगारेड्डी जिल्ला
-- मच्छर
-- लामखुट्टे
-- মশা
-- মহ
-- ਮੱਛਰ
-- கொசு
-- దోమ
-- ಉಮಿಲಿ
-- ಸೊಳ್ಳೆ
-- കൊതുക്
-- මදුරු ගණය
-- ยุง
-- ຍຸງ
-- ခြင်
-- ယုင်း
-- კოღოები
-- ትንኝ
-- ᑭᒃᑐᕆᐊᖅ
-- មូស
-- ᡤᠠᠯᠮᠠᠨ
-- ᥕᥧᥒᥰ
-- ᱥᱤᱠᱬᱤᱡ
-- Ẹ̀fọn
-- カ
-- カ科
-- 蚊
-- 蚊科
-- ꠝꠡꠣ
-- ꯀꯥꯡ
-- 모기
+  - Agas
+  - Ageyet
+  - Amuk
+  - Ağcaqanadlar
+  - Báng
+  - Ch'uspi
+  - Chivinlar
+  - Culicida
+  - Culicidae
+  - Culicidi
+  - culícids
+  - Doŋaa
+  - Duunga
+  - Dzēlējodi
+  - eltxo
+  - Gösn
+  - Humhutu
+  - hyttyset
+  - Hŭng-muòng
+  - Izi
+  - Kaneeco
+  - Kantana
+  - Kiktuġiaq
+  - Komarac
+  - Komarci
+  - komarji
+  - komarowate
+  - komárovití
+  - Kopruchowate
+  - kuy'
+  - Kōsis
+  - Lamok
+  - Lamu'o
+  - Legu
+  - Lemud
+  - likes
+  - Machchharr
+  - Mbu
+  - Midge
+  - Mixmixk
+  - Mkpuk
+  - Moissal
+  - Moschgieder
+  - Moskito
+  - Moskítóflugur
+  - Mosquito
+  - Moustik
+  - muiscít
+  - Mushkonja
+  - Mustiken
+  - muỗi
+  - Mëga
+  - Mûn-é
+  - Mōyōtl
+  - Namok
+  - Ngungi
+  - Ngungu
+  - Nondui
+  - Ntontom
+  - nyamuk
+  - Nyimbo
+  - Nyungz
+  - Picron
+  - Pin'oit
+  - Pistesääsklased
+  - Poothammel
+  - Qhiti
+  - Rangit
+  - Rengngè'
+  - Reungit
+  - Sauro
+  - Schnaken
+  - Schnoog
+  - Sginsała
+  - Sikimew
+  - Sinsàla
+  - Sivrisinek
+  - Stechmücken
+  - Steegmagen
+  - steekmuggen
+  - Stickmyggor
+  - stikkmygg
+  - stikmyg
+  - szúnyogfélék
+  - Säs'k
+  - süyrüsenek
+  - Tikrieji uodai
+  - Tsʼíʼii daʼaneezí
+  - Tzintzula
+  - Umubu
+  - vùrúdnà
+  - waeroa
+  - ñamu
+  - Ñati'ũ
+  - țânțar
+  - Κουνούπι
+  - Боргооһон
+  - Бырдах
+  - Вăрăмтунасем
+  - ЗIокмоза
+  - Камары
+  - Комарі
+  - комарац
+  - Комарец
+  - комари
+  - кровососущие комары
+  - Къогъо
+  - Маса
+  - Ном
+  - озынборыннар
+  - Серәкәйҙәр
+  - Хомӯшак
+  - чибиньёс
+  - Чиркейлер
+  - Чуьрк
+  - Шыҥа
+  - Ыргак-сээктер
+  - մոծակ
+  - כולכיתיים
+  - קאמאר
+  - آغجاقانادلار
+  - بعوضيات
+  - لل
+  - مچھر
+  - مڇر
+  - مۆہ
+  - مێشوولە
+  - ناموس
+  - پشه
+  - ڽاموق
+  - ܒܩܐ
+  - डास
+  - दोम मण्डल, रंगारेड्डी जिल्ला
+  - मच्छर
+  - लामखुट्टे
+  - মশা
+  - মহ
+  - ਮੱਛਰ
+  - கொசு
+  - దోమ
+  - ಉಮಿಲಿ
+  - ಸೊಳ್ಳೆ
+  - കൊതുക്
+  - මදුරු ගණය
+  - ยุง
+  - ຍຸງ
+  - ခြင်
+  - ယုင်း
+  - კოღოები
+  - ትንኝ
+  - ᑭᒃᑐᕆᐊᖅ
+  - មូស
+  - ᡤᠠᠯᠮᠠᠨ
+  - ᥕᥧᥒᥰ
+  - ᱥᱤᱠᱬᱤᱡ
+  - Ẹ̀fọn
+  - カ
+  - カ科
+  - 蚊
+  - 蚊科
+  - ꠝꠡꠣ
+  - ꯀꯥꯡ
+  - 모기
 has_id_wikidata: Q7367
 title: Culicidae
 described by source:
-- '[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Checklist_of_Diptera_of_the_Czech_Republic_and_Slovakia,110655761]]'
+  - "[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Checklist_of_Diptera_of_the_Czech_Republic_and_Slovakia,110655761]]"
 parent taxon:
-- '[[_Standards/WikiData/WD~Culicomorpha,950698]]'
-- '[[_Standards/WikiData/WD~Culicoidea,2737578]]'
-permanent duplicated item: '[[_Standards/WikiData/WD~Q4801985,4801985]]'
-on focus list of Wikimedia project: '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
-maintained by WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
-has part(s): '[[_Standards/WikiData/WD~invertebrate_proboscis,96739248]]'
+  - "[[_Standards/WikiData/WD~Culicomorpha,950698]]"
+  - "[[_Standards/WikiData/WD~Culicoidea,2737578]]"
+permanent duplicated item: "[[_Standards/WikiData/WD~Q4801985,4801985]]"
+on focus list of Wikimedia project: "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
+maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
+has part(s): "[[_Standards/WikiData/WD~invertebrate_proboscis,96739248]]"
 start time: -99000000-06
 UMLS CUI: C0026584
 taxon common name:
-- komarji
-- Mosquitoes
-- Stechmücken
-- mosquitoes
-- moustiques
-- maringouin
-- Mustiken
-- stikkmygg
-- steekmuggen
-instance of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon rank: '[[_Standards/WikiData/WD~family,35409]]'
+  - komarji
+  - Mosquitoes
+  - Stechmücken
+  - mosquitoes
+  - moustiques
+  - maringouin
+  - Mustiken
+  - stikkmygg
+  - steekmuggen
+instance of: "[[_Standards/WikiData/WD~taxon,16521]]"
+taxon rank: "[[_Standards/WikiData/WD~family,35409]]"
 ITIS TSN: 125930
 OmegaWiki Defined Meaning: 630453
 Commons gallery: Culicidae
@@ -204,7 +204,7 @@ EPPO Code: 1CULIF
 MeSH tree code: B01.050.500.131.617.720.500.500.750.712.500.875
 Krugosvet article: biologiya/komary
 NBN System Key: NBNSYS0000040182
-Unicode character: "\U0001F99F"
+Unicode_character: 🦟
 dv_has_:
   name_:
     af: Culicidae

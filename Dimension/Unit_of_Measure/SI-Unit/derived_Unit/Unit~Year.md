@@ -7,7 +7,6 @@ aliases:
 - afi
 - afọ
 - ainnèe
-- an
 - anio
 - ann
 - anno
@@ -24,7 +23,6 @@ aliases:
 - ary
 - aseggas
 - asggʷas
-- at
 - aun
 - aña
 - año
@@ -33,7 +31,6 @@ aliases:
 - banwa
 - bereȟ
 - bersh
-- bi
 - bledhen
 - blein
 - bliadhna
@@ -42,14 +39,12 @@ aliases:
 - blwyddyn
 - cavilj
 - eeʹǩǩ
-- fe
 - gads
 - godina
 - gore
 - gēar
 - ier
 - ihe
-- il
 - jaar
 - jaepie
 - jaer

@@ -1,6 +1,5 @@
 ---
 aliases:
-- A
 - Agghia
 - Aglia
 - aglie

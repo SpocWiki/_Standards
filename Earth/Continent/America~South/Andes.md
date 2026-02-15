@@ -1,7 +1,6 @@
 ---
 aliases:
 - An-ti-s a buyu’an
-- And
 - And Dağları
 - And tawları
 - And togʻlari

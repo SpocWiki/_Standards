@@ -1,7 +1,6 @@
 ---
 aliases:
 - 3in
-- A
 - Aag
 - aankhi
 - acs

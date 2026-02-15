@@ -37,7 +37,6 @@ aliases:
 - ies
 - iis
 - Ijätüs
-- is
 - is krim
 - iskrem
 - Izozki

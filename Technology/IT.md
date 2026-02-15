@@ -35,7 +35,6 @@ aliases:
 - infotecnolojia
 - infotehnoloogia
 - inligtingstegnologie
-- IT
 - Macluumaadka Teknolojiyadda
 - Malümat tehnologiyası
 - Maranya a Kakanyo
@@ -321,9 +320,14 @@ dv_has_:
     zh_tw: 資訊科技
     zu: UbuChwepheshe boKwaziswa
 ---
+
+# [[IT]] 
+
+
 ## #has_/text_of_/abstract 
 
-> **Information technology** (IT) is a set of related fields within information and communications technology 
+> **Information technology** (IT) is a set of related fields within 
+> information and communications technology 
 > (ICT), that encompass computer systems, software, programming languages, data 
 > and information processing, and storage. 
 > Information technology is an application of computer science and computer engineering.

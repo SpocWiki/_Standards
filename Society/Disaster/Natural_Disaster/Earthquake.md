@@ -1,6 +1,5 @@
 ---
 aliases:
-- .
 - aardbeving
 - aardbewing
 - Ala ọma jijiji
