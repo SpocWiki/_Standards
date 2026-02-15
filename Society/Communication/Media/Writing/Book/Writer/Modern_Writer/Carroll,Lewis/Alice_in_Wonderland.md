@@ -338,10 +338,12 @@ dv_has_:
 #has_/time_/started :: 1865-06 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Alice's_Adventures_in_Wonderland,92640|WD~Alice's_Adventures_in_Wonderland]] 
+
 ## #has_/text_of_/abstract 
 
 > Alice's Adventures in Wonderland (also known as  **Alice in Wonderland**) 
-> is an 1865 English children's novel by [[../Carroll,Lewis]], a mathematics don at the University of Oxford. 
+> is an 1865 English children's novel by [[../Carroll,Lewis|Lewis Carroll]], 
+> a mathematics fellow who teaches and researches at the University of Oxford. 
 > 
 > It details the story of a girl named Alice who falls through a rabbit hole 
 > into a fantasy world of anthropomorphic creatures. 
@@ -349,20 +351,25 @@ dv_has_:
 > It is seen as an example of the literary nonsense genre. 
 > The artist John Tenniel provided 42 wood-engraved illustrations for the book. 
 >
-> It received positive reviews upon release and is now one of the best-known works of Victorian literature; 
+> It received positive reviews upon release and is now 
+> one of the best-known works of Victorian literature; 
 > its narrative, structure, characters and imagery have had a widespread influence 
 > on popular culture and literature, especially in the fantasy genre. 
 > 
 > It is credited as helping end an era of didacticism in children's literature, 
 > inaugurating an era in which writing for children aimed to "delight or entertain". 
-> The tale plays with logic, giving the story lasting popularity with adults as well as with children. 
+> 
+> The tale plays with logic, 
+> giving the story lasting popularity with adults as well as with children. 
+> 
 > The titular character Alice shares her name with Alice Liddell, a girl Carroll knew—
 > scholars disagree about the extent to which the character was based upon her.
 >
 > The book has never been out of print and has been translated into 174 languages. 
 > Its legacy includes adaptations to screen, radio, visual art, ballet, [[../music/Opera|opera]], and musical theatre, 
 > as well as theme parks, board games and video games. 
-> Carroll published a sequel in 1871 entitled Through the Looking-Glass 
+> 
+> Carroll published a sequel in 1871 entitled [[Through the Looking-Glass]] 
 > and a shortened version for young children, The Nursery "Alice", in 1890.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Alice's%20Adventures%20in%20Wonderland) 

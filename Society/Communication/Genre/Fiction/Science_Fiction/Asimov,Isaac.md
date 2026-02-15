@@ -356,7 +356,7 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac|Asimov,Isaac]] 
+### #is_/same_as :: [[Asimov,Isaac|Asimov,Isaac]] 
 
 ### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac.public|Asimov,Isaac.public]] 
 

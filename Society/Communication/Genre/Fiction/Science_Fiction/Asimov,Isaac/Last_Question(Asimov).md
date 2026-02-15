@@ -81,7 +81,7 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Last_Question(Asimov)|Last_Question(Asimov)]] 
+### #is_/same_as :: [[Last_Question(Asimov)|Last_Question(Asimov)]] 
 
 ### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Last_Question(Asimov).public|Last_Question(Asimov).public]] 
 

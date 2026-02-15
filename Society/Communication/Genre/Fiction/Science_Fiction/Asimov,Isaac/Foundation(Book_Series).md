@@ -55,7 +55,7 @@ Actors:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Foundation(Book_Series)|Foundation(Book_Series)]] 
+### #is_/same_as :: [[Foundation(Book_Series)|Foundation(Book_Series)]] 
 
 ### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Foundation(Book_Series).public|Foundation(Book_Series).public]] 
 

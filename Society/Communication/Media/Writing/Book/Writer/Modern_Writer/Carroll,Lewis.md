@@ -324,18 +324,17 @@ dv_has_:
 
 # [[Carroll,Lewis]] 
 
-
 #has_/time_/started :: 1832-01-27 
 #has_/time_/stopped :: 1898-01-14 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/name_/family :: Dodgson 
 #has_/name_/given :: Charles Lutwidge
 
-#is_/same_as :: [[../../../../../../../WikiData/WD~Lewis_Carroll,38082]] 
+#is_/same_as :: [[../../../../../../../WikiData/WD~Lewis_Carroll,38082|WD~Lewis_Carroll,38082]] 
 
 ## #has_/text_of_/abstract 
 
-> Charles Lutwidge Dodgson (  LUT-wij DOD-sən; 27 January 1832 – 14 January 1898), 
+> Charles Lutwidge Dodgson(LUT-wij DOD-sən; 27 January 1832 – 14 January 1898), 
 > better known by his pen name **Lewis Carroll**, was an English author, 
 > poet, mathematician, photographer and reluctant Anglican deacon. 
 > 
@@ -343,8 +342,11 @@ dv_has_:
 > and its sequel Through the Looking-Glass (1871). 
 > He was noted for his facility with word play, logic, and fantasy. 
 > 
-> His poems Jabberwocky (1871) and The Hunting of the Snark (1876) 
+> His poems 
+> - Jabberwocky (1871) and 
+> - The Hunting of the Snark (1876) 
 > are classified in the genre of literary nonsense. 
+> 
 > Some of Alice's nonsensical wonderland logic reflects his published work on mathematical logic.
 >
 > Carroll came from a family of high-church Anglicans, and pursued his clerical training at Christ Church, 

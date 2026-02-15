@@ -43,7 +43,7 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Last_Answer(Asimov)|Last_Answer(Asimov)]] 
+### #is_/same_as :: [[Last_Answer(Asimov)|Last_Answer(Asimov)]] 
 
 ### #is_/same_as :: [[/_public/Society/Communication/Media/Writing/Book/Writer/Modern_Writer/Asimov,Isaac/Last_Answer(Asimov).public|Last_Answer(Asimov).public]] 
 
