@@ -54,8 +54,6 @@ aliases:
 - dug
 - dìynà
 - erü
-- et
-- ey
 - ghjacaru
 - gos
 - hadupan
@@ -78,7 +76,6 @@ aliases:
 - imbwa
 - inja
 - iro
-- it
 - itzcuintli
 - izinja
 - jagua

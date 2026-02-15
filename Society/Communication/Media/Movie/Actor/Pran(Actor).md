@@ -6,7 +6,8 @@
 ## #has_/text_of_/abstract 
 
 > Pran Krishan Sikand  (pronounced [pra:n]; 12 February 1920 – 12 July 2013), 
-> better known mononymously as Pran, was an Indian actor who worked in Hindi cinema. 
+> better known mononymously as Pran, 
+> was an Indian actor who worked in Hindi cinema. 
 > 
 > He was one of the most successful and respected actors in the history of Indian cinema; 
 > in a career spanning over six decades he was also one of the highest-paid actors of his time.
@@ -18,13 +19,43 @@
 > and supporting and character roles from 1967 to 2007. 
 > 
 > From the late 1940s through the 70s was the peak of Pran's career as a villain, 
-> especially in the 1950s and 60s: his interpretations were the first true personification of "evil" on the Indian screen, and the intensity of his portrayals of negative/villainous characters was such that the given name "Pran" fell into disuse.
+> especially in the 1950s and 60s: 
+> his interpretations were the first true personification of "evil" on the Indian screen, 
+> and the intensity of his portrayals of negative/villainous characters was such 
+> that the given name "Pran" fell into disuse.
 >
-> In a long and prolific career, Pran appeared in over 362 films. He played the leading man in Khandaan (1942), Pilpili Saheb (1954) and Halaku (1956), and was known for his roles in Madhumati (1958), Jis Desh Mein Ganga Behti Hai (1960), Shaheed (1965), Upkar (1967), Ram Aur Shyam (1967), Aansoo Ban Gaye Phool (1969), Purab Aur Paschim (1970), Johny Mera Naam (1970), Victoria No. 203 (1972), Be-Imaan (1972), Zanjeer (1973), Majboor (1974), Amar Akbar Anthony (1977), Don (1978), Sharaabi (1984) and Duniya (1984).
+> In a long and prolific career, Pran appeared in over 362 films. 
+> He played the leading man in 
+> - Khandaan (1942), Pilpili Saheb (1954) and Halaku (1956), 
+> 
+> and was known for his roles in 
+> - Madhumati (1958), 
+> - Jis Desh Mein Ganga Behti Hai (1960), 
+> - Shaheed (1965), 
+> - Upkar (1967), 
+> - Ram Aur Shyam (1967), 
+> - Aansoo Ban Gaye Phool (1969), 
+> - Purab Aur Paschim (1970), 
+> - Johny Mera Naam (1970), 
+> - Victoria No. 203 (1972), 
+> - Be-Imaan (1972), 
+> - Zanjeer (1973), 
+> - Majboor (1974), 
+> - Amar Akbar Anthony (1977), 
+> - Don (1978), 
+> - Sharaabi (1984) and 
+> - Duniya (1984).
 >
-> Pran received many #Awards and honours in his career, including the Filmfare Award for Best Supporting Actor in 1967, 1969 and 1972, and was awarded the Filmfare Special Award in 1997. He was named "Villain of the Millennium" by Stardust Awards in 2000. The Government of India honoured him with the Padma Bhushan Award in 2001 for his contributions to the arts. He was honoured in 2013 with the Dadasaheb Phalke Award, the highest national award for cinema artists, by the Government of India. In 2010, he was named on the list of CNN's Top 25 Asian actors of all time.
+> Pran received many #Awards and honours in his career, including the Filmfare Award for Best Supporting Actor in 1967, 1969 and 1972, and was awarded the Filmfare Special Award in 1997. He was named "Villain of the Millennium" by Stardust Awards in 2000. 
+> 
+> The Government of India honoured him with the Padma Bhushan Award in 2001 
+> for his contributions to the arts. 
+> He was honoured in 2013 with the Dadasaheb Phalke Award, 
+> the highest national award for cinema artists, by the Government of India. 
+> In 2010, he was named on the list of CNN's Top 25 Asian actors of all time.
 >
-> Pran died on 12 July 2013 at the age of 93 at Mumbai's Lilavati Hospital and Research Centre after suffering a prolonged illness.
+> Pran died on 12 July 2013 at the age of 93 
+> at Mumbai's Lilavati Hospital and Research Centre after suffering a prolonged illness.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pran%20(actor)) 
 

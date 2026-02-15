@@ -50,7 +50,6 @@ dv_has_:
 
 # [[Penicillata]]  
 
-## [[Penicillata]] 
 
 Polyxenida 
 

@@ -242,10 +242,10 @@ dv_has_:
 > with lyrics by Oscar Hammerstein II and a book by Lindsay and Crouse, 
 > itself based on the 1949 memoir The Story of the Trapp Family Singers by Maria von Trapp. 
 > 
-> It stars Julie Andrews and Christopher Plummer, 
+> It stars [[../../Actor/British_Actor/Andrews,Julie|Julie Andrews]] and [[../../Actor/Canadian_Actor/Plummer,Christopher]], 
 > with Richard Haydn, Peggy Wood, Charmian Carr, and Eleanor Parker. 
 > 
-> Set in Salzburg, Austria, it is a fictional retelling of Maria von Trapp's experiences 
+> Set in Salzburg, [[../../../../../../../_public/geo/Continent/Europe/Europe~Central/Austria.public|Austria]], it is a fictional retelling of Maria von Trapp's experiences 
 > as governess to seven children, 
 > her eventual marriage with their father Captain Georg von Trapp, 
 > and their escape during the Anschluss in 1938.
@@ -289,7 +289,7 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Sound_of_Music(Film)|Sound_of_Music(Film)]] 
+### #is_/same_as :: [[Sound_of_Music(Film)|Sound_of_Music(Film)]] 
 
 ### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Sound_of_Music(Film).public|Sound_of_Music(Film).public]] 
 

@@ -16,7 +16,6 @@ aliases:
 - chullunku
 - dèigh
 - Eis
-- es
 - galási
 - gel
 - gelo
@@ -41,7 +40,6 @@ aliases:
 - Iis
 - ijs
 - Iqhwa
-- is
 - Ise
 - izotz
 - Iâ

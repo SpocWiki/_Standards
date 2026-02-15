@@ -153,7 +153,7 @@ aliases:
 ## #has_/text_of_/abstract 
 
 > **Braveheart** is a 1995 American epic historical war drama film 
-> directed and produced by Mel Gibson, 
+> directed and produced by [[Movie-Director/Gibson,Mel]], 
 > who portrays Scottish warrior Sir William Wallace 
 > in the First War of Scottish Independence against King Edward I of England. 
 > 
@@ -182,7 +182,7 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Braveheart|Braveheart]] 
+### #is_/same_as :: [[Braveheart|Braveheart]] 
 
 ### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Braveheart.public|Braveheart.public]] 
 

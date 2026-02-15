@@ -350,7 +350,7 @@ Studying Hominidae species provides insights into human evolution, behavior, and
  
   ------------------------------------------------------------------------------
 
-![Lowland gorilla](Gorilla_gorilla0088.jpg)
+![Lowland gorilla](Hominidae/Gorilla/Gorilla_gorilla0088.jpg)
 
   ------------------------------------------------------------------------------
   scientific_name ::     Gorilla gorilla gorilla

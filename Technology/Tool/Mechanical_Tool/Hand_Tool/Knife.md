@@ -94,7 +94,6 @@ aliases:
 - takini'
 - thikë
 - Tiuk
-- To
 - tranĉilo
 - Tô
 - tšuuri

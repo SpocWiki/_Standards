@@ -262,7 +262,7 @@ dv_has_:
 
 # [[Mifune,Toshirō]] 
 
-#is_/same_as :: [[../../../../../WikiData/WD~Toshirō_Mifune,37001|WD~Toshirō_Mifune,37001]]  
+#is_/same_as :: [[../../../../../../WikiData/WD~Toshirō_Mifune,37001|WD~Toshirō_Mifune,37001]]  
 
 ## #has_/text_of_/abstract 
 
@@ -316,7 +316,7 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/Mifune,Toshirō|Mifune,Toshirō]] 
+### #is_/same_as :: [[Mifune,Toshirō|Mifune,Toshirō]] 
 
 ### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/Mifune,Toshirō.public|Mifune,Toshirō.public]] 
 

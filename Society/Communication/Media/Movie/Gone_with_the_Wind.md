@@ -367,7 +367,7 @@ dv_has_:
 ## #has_/text_of_/abstract 
 
 > Gone with the Wind is a 1939 American epic historical romance film 
-> adapted from the 1936 novel by Margaret Mitchell. 
+> adapted from the 1936 novel by [[../Writing/Book/Writer/US_Writer/Mitchell,Margaret|Margaret Mitchell]]. 
 > 
 > The film was produced by David O. Selznick of Selznick International Pictures 
 > and directed by Victor Fleming. 
@@ -379,10 +379,13 @@ dv_has_:
 > who is married to his cousin, Melanie Hamilton (Olivia de Havilland), 
 > and her subsequent marriage to Rhett Butler (Clark Gable).
 >
-> The film had a troubled production. The start of filming was delayed for two years until January 1939 
-> because Selznick was determined to secure Gable for the role of Rhett, and filming concluded in July. 
+> The film had a troubled production. 
+> The start of filming was delayed for two years until January 1939 
+> because Selznick was determined to secure Gable for the role of Rhett, 
+> and filming concluded in July. 
 > 
-> The role of Scarlett was challenging to cast, and 1,400 unknown women were interviewed for the part. 
+> The role of Scarlett was challenging to cast, 
+> and 1,400 unknown women were interviewed for the part. 
 > 
 > Sidney Howard's original screenplay underwent many revisions by several writers 
 > to reduce it to a suitable length. 

@@ -441,7 +441,7 @@ dv_has_:
 
 #is_/instance_of :: [[ParvOrder]] 
 ## Humans, great apes, gibbons, Old World monkeys 
-![ ](Catarrhini/Semnopithecus_entellus12.jpg))![](Catarrhini/babmeat.jpg)) ![](Catarrhini/Gorilla_gorilla0088.jpg) 
+![ ](Catarrhini/Semnopithecus_entellus12.jpg))![](Catarrhini/babmeat.jpg)) ![](Catarrhini/Hominidae/Gorilla/Gorilla_gorilla0088.jpg) 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../WikiData/WD~Monkey,1367|WD~Monkey,1367]] 
 

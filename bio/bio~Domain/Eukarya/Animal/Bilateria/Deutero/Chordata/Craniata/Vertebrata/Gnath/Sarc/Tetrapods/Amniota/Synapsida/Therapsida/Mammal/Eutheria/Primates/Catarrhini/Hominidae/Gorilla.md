@@ -1,105 +1,107 @@
 ---
 aliases:
-- Duâi-sĭng-sĭng
-- Dàngin
-- də̀mûw
-- Goggon biri
-- Goiriola
-- goraille
-- Goriila
-- Goril
-- Gorila
-- Gorilas
-- Gorile
-- Gorilh
-- Gorilla
-- Gorilla's
-- Gorillaer
-- Gorillas
-- gorillat
-- gorille
-- gorillor
-- Gorillur
-- Gorilo
-- Gorilos
-- Gorilya
-- goril·la
-- Gorilă
-- goryl
-- Gurila
-- Gurilla
-- Górilla
-- Hăgbáká
-- Igorila
-- Ingagi
-- Ka'iguasu
-- Kebor
-- Khỉ đột
-- Kibubu
-- Mukumbusu
-- Mágítsoh
-- Ngagi
-- qorilla
-- Rajako
-- Sumbo
-- Tāi-seng-seng
-- Wa'aung
-- yiwoleem
-- Γορίλας
-- гарыла
-- горила
-- горили
-- Гориллæтæ
-- Горилла
-- Гориллалар
-- Гориллаш
-- гориллы
-- Ӏалаьматмаймал
-- գորիլա
-- גארילע
-- גורילה
-- غوريلا
-- گورللا
-- گوریل
-- گوریلا
-- گۆریلا
-- गोरिल्ला
-- भीमवानर
-- গরিলা
-- கொரில்லா
-- గొరిల్లా
-- ಗೊರಿಲ್ಲ
-- ഗോറില്ല
-- กอริลลา
-- ဂေါ်ရီးလားမျောက်ဝံ
-- လိင်းၵေႃႇရီႇလႃႇ
-- გორილა
-- ገመሬ
-- ゴリラ属
-- 大猩猩
-- 大猩猩属
-- 大猩猩屬
-- 고릴라
-title: Gorilla
+  - Duâi-sĭng-sĭng
+  - Dàngin
+  - də̀mûw
+  - Goggon biri
+  - Goiriola
+  - goraille
+  - Goriila
+  - Goril
+  - Gorila
+  - Gorilas
+  - Gorile
+  - Gorilh
+  - Gorilla
+  - Gorilla's
+  - Gorillaer
+  - Gorillas
+  - gorillat
+  - gorille
+  - gorillor
+  - Gorillur
+  - Gorilo
+  - Gorilos
+  - Gorilya
+  - goril·la
+  - Gorilă
+  - goryl
+  - Gurila
+  - Gurilla
+  - Górilla
+  - Hăgbáká
+  - Igorila
+  - Ingagi
+  - Ka'iguasu
+  - Kebor
+  - Khỉ đột
+  - Kibubu
+  - Mukumbusu
+  - Mágítsoh
+  - Ngagi
+  - qorilla
+  - Rajako
+  - Sumbo
+  - Tāi-seng-seng
+  - Wa'aung
+  - yiwoleem
+  - Γορίλας
+  - гарыла
+  - горила
+  - горили
+  - Гориллæтæ
+  - Горилла
+  - Гориллалар
+  - Гориллаш
+  - гориллы
+  - Ӏалаьматмаймал
+  - գորիլա
+  - גארילע
+  - גורילה
+  - غوريلا
+  - گورللا
+  - گوریل
+  - گوریلا
+  - گۆریلا
+  - गोरिल्ला
+  - भीमवानर
+  - গরিলা
+  - கொரில்லா
+  - గొరిల్లా
+  - ಗೊರಿಲ್ಲ
+  - ഗോറില്ല
+  - กอริลลา
+  - ဂေါ်ရီးလားမျောက်ဝံ
+  - လိင်းၵေႃႇရီႇလႃႇ
+  - გორილა
+  - ገመሬ
+  - ゴリラ属
+  - 大猩猩
+  - 大猩猩属
+  - 大猩猩屬
+  - 고릴라
+  - "{ newTitle: }":
+title:
+  "{ newTitle: }":
 has_id_wikidata: Q36611
 described_by_source:
-- '[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Gorillas,7010889]]'
-topic_has_template: '[[_Standards/WikiData/WD~Q25942228,25942228]]'
-parent_taxon: '[[_Standards/WikiData/WD~Gorillina,67528297]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+  - "[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Gorillas,7010889]]"
+topic_has_template: "[[_Standards/WikiData/WD~Q25942228,25942228]]"
+parent_taxon: "[[_Standards/WikiData/WD~Gorillina,67528297]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
 gestation_period: 270
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
 Commons_gallery: Gorilla
 Commons_category: Gorilla
 taxon_name: Gorilla
 ITIS_TSN: 572837
 image:
-- http://commons.wikimedia.org/wiki/Special:FilePath/Lowland%20Gorilla%20%288973697544%29.jpg
-- http://commons.wikimedia.org/wiki/Special:FilePath/Mountain%20gorilla%2C%202-year-old%2C%20Mubare%20Group%2C%20Buhoma%2C%20Bwindi%20Impenetrable%20Forest%2C%20Uganda.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Lowland%20Gorilla%20%288973697544%29.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Mountain%20gorilla%2C%202-year-old%2C%20Mubare%20Group%2C%20Buhoma%2C%20Bwindi%20Impenetrable%20Forest%2C%20Uganda.jpg
 IMDb_keyword: gorilla
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/ZL%20Gorilla%20%28genus%29.png
 EPPO_Code: 1GORIG
@@ -252,6 +254,33 @@ dv_has_:
     zh_tw: 大猩猩屬
     zu: Igorila
 Unicode_character: 🦍
+confidential: private
+cssclasses:
+  - private
+  - note
+draft: true
+excalidraw_autoexport: svg
+excalidraw_open_md: true
+excalidraw_plugin: parsed
+expiryDate:
+has_Template: "[[Extract~Note~Template]]"
+has_time_started:
+  '{ "date:YYYY-MM-DD": }':
+isDeleted: false
+isReadOnly: false
+keywords:
+  "{ newTitle: }":
+lang: en
+layout:
+license: (c)copyrighted
+linkTitle:
+  "{ newTitle: }":
+publish: false
+publishDate:
+tags:
+  - "{ newTitle: }":
+  - excalidraw
+type: private_note
 ---
 
 # [[Gorilla]] 🦍 
@@ -361,3 +390,22 @@ Unicode_character: 🦍
 
 ### #is_/same_as :: [[/_secret/bio/bio~Domain/Eukarya/Animal/Bilateria/Deutero/Chordata/Craniata/Vertebrata/Gnath/Sarc/Tetrapods/Amniota/Synapsida/Therapsida/Mammal/Eutheria/Primates/Catarrhini/Hominidae/Gorilla.secret|Gorilla.secret]] 
 
+
+# [[Gorilla]] 
+
+#is_/part_of :: [[Gorilla]] 
+
+![[Gorilla.svg]]
+
+ 
+
+## Embedded Graph 
+
+![[Gorilla.svg]] 
+
+
+%%
+## Drawing
+```compressed-json
+N4IgLgngDgpiBcIYA8DGBDANgSwCYCd0B3EAGhADcZ8BnbAewDsEAmcm+gV31TkQAswYKDXgB6MQHNsYfpwBGAOlT0AtmIBeNCtlQbs6RmPry6uA4wC0KDDgLFLUTJ2lH8MTDHQ0YNMWHRJMRZFAA5FFjIkT1UYRjAaBABtAF1ydCgoAGUAsD5QSXw8LOwNPkZOTExyHRgiACF0VABrQq5GXABhekx6fAQQAGIAM1GxkABfCaA==
+```
