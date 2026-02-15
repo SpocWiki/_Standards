@@ -80,12 +80,14 @@ aliases:
 - 大猩猩属
 - 大猩猩屬
 - 고릴라
+title: Gorilla
 has_id_wikidata: Q36611
 described_by_source:
 - '[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Gorillas,7010889]]'
 topic_has_template: '[[_Standards/WikiData/WD~Q25942228,25942228]]'
 parent_taxon: '[[_Standards/WikiData/WD~Gorillina,67528297]]'
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
@@ -254,7 +256,12 @@ Unicode_character: 🦍
 
 # [[Gorilla]] 🦍 
 
-#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../WikiData/WD~Gorilla,36611|WD~Gorilla,36611]]
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Gorilla,36611|WD~Gorilla,36611]] 
+
+![ ](Gorilla/Gorilla_and_Baby.jpg) 
+![ ](Gorilla/Gorilla_Silverback.jpg)
+![Lowland_Gorilla](Gorilla/Lowland_Gorilla.jpg) 
+
 
 ## #has_/text_of_/abstract 
 
@@ -267,6 +274,76 @@ Unicode_character: 🦍
 > There are thought to be around 316,000 western gorillas in the wild, and 5,000 eastern gorillas. Both species are classified as Critically Endangered by the IUCN; all subspecies are classified as Critically Endangered with the exception of the mountain gorilla, which is classified as Endangered. There are many threats to their survival, such as poaching, habitat destruction, and disease, which threaten the survival of the species. However, conservation efforts have been successful in some areas where they live.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Gorilla) 
+
+
+## Phylogeny 
+
+-   « Ancestral Groups  
+    -  [Hominidae](../Hominidae.md) 
+    -  [Catarrhini](../../Catarrhini.md) 
+    -  [Primates](../../../Primates.md) 
+    -  [Eutheria](../../../../Eutheria.md) 
+    -  [Mammal](../../../../../Mammal.md) 
+    -   [Therapsida](../../../../../../Therapsida.md)
+    -   [Synapsida](../../../../../../../Synapsida.md)
+    -   [Amniota](../../../../../../../../Amniota.md)
+    -   [Terrestrial Vertebrates](../../../../../../../../../Terrestrial.md)
+    -   [Sarcopterygii](../../../../../../../../../../Sarc.md)
+    -   [Gnathostomata](../../../../../../../../../../../Gnath.md)
+    -   [Vertebrata](../../../../../../../../../../../../Vertebrata.md)
+    -   [Craniata](../../../../../../../../../../../../../Craniata.md)
+    -   [Chordata](../../../../../../../../../../../../../../Chordata.md)
+    -   [Deuterostomia](../../../../../../../../../../../../../../../Deutero.md)
+    -  [Bilateria](../../../../../../../../../../../../../../../../Bilateria.md) 
+    -  [Animals](../../../../../../../../../../../../../../../../../Animals.md) 
+    -  [Eukarya](../../../../../../../../../../../../../../../../../../Eukarya.md) 
+    -   [Tree of Life](../../../../../../../../../../../../../../../../../../Tree_of_Life.md)
+
+-   ◊ Sibling Groups of  Hominidae
+    -   [Orangutan](Orangutan.md)
+    -   [Pan(Genus)](Pan(Genus).md)
+    -   [Homo](Homo.md)
+    -   Gorilla
+
+-   » Sub-Groups 
+
+	-   *Gorilla beringei*
+	-   *Gorilla gorilla*
+
+### Information on the Internet
+
+-   [Gorillas](http://www.gorilla.org/). The Gorilla Foundation.
+-   [The Mountain Gorilla Protection     Project](http://www.informatics.org/gorilla/). A project assembling
+    a digitized database of the mountain gorilla habitat.
+
+## Title Illustrations
+
+![](Gorilla/Gorilla_and_Baby.jpg) 
+
+  ----------------------------------------------------------------
+  scientific_name ::     Gorilla beringei graueri
+  location ::           Eastern DR Congo
+  specimen_condition ::  Live Specimen
+  Life Cycle Stage ::     juvenile and adult
+  Source               [mother and child closer](http://www.flickr.com/photos/fredr/370629527/)
+  Source Collection    [Flickr](http://flickr.com/)
+  Image Use ::    [Attribution-NonCommercial-NoDerivs 2.0 Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/).
+  copyright ::            © 2007 [Fred](http://flickr.com/people/51928542@N00)
+  ----------------------------------------------------------------
+![](Gorilla/Gorilla_Silverback.jpg) 
+
+  -------------------------------------------------------------------------
+  scientific_name ::     Gorilla gorilla
+  location ::           Los Angeles Zoo
+  specimen_condition ::  Live Specimen
+  Identified By        LA Zoo
+  Behavior             standing
+  Sex ::                Male
+  Life Cycle Stage ::     Adult
+  Body Part            whole
+  copyright ::            © 2006 [David Bygott](mailto:davidbygott@yahoo.com) 
+ 
+  -------------------------------------------------------------------------
 
 
 ## Confidential Links & Embeds: 

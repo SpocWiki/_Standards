@@ -83,7 +83,7 @@ aliases:
 title: Gorilla
 has_id_wikidata: Q36611
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 - '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
 - '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
@@ -103,7 +103,7 @@ image:
 IMDb_keyword: gorilla
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/ZL%20Gorilla%20%28genus%29.png
 EPPO_Code: 1GORIG
-Krugosvet_article_archived_: nauka_i_tehnika/biologiya/GORILLI.html
+Krugosvet_article: nauka_i_tehnika/biologiya/GORILLI.html
 NBN_System_Key: NHMSYS0000376721
 dv_has_:
   name_:
@@ -256,8 +256,6 @@ Unicode_character: 🦍
 
 # [[Gorilla]] 🦍 
 
-
-
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Gorilla,36611|WD~Gorilla,36611]] 
 
 ![ ](Gorilla/Gorilla_and_Baby.jpg) 
@@ -266,7 +264,7 @@ Unicode_character: 🦍
 
 ## #has_/text_of_/abstract 
 
-> **Gorilla**s are primarily herbivorous, terrestrial great apes that inhabit the tropical forests of equatorial Africa. The genus Gorilla is divided into two species: the eastern gorilla and the western gorilla, and either four or five subspecies. The DNA of gorillas is highly similar to that of humans, from 96 to 99% depending on what is included, and they are the next closest living relatives to humans after the chimpanzees.
+> **Gorilla**s are large, primarily herbivorous, great apes that live in the tropical forests of equatorial Africa. The genus Gorilla is divided into two species: the eastern gorilla and the western gorilla, and either four or five subspecies. The DNA of gorillas is highly similar to that of humans, from 96 to 99% depending on what is included, and they are the next closest living relatives to humans after the bonobos and chimpanzees.
 >
 > Gorillas are the largest living primates, reaching heights between 1.25 and 1.8 m (4 ft 1 in and 5 ft 11 in), weights between 100 and 270 kg (220 and 600 lb), and arm spans up to 2.6 m (8 ft 6 in), depending on species and sex. They tend to live in troops, with the leader being called a silverback. The eastern gorilla is distinguished from the western by darker fur colour and some other minor morphological differences. Gorillas tend to live 35–40 years in the wild.
 >
