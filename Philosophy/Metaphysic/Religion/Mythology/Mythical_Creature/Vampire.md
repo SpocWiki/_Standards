@@ -105,7 +105,6 @@ OmegaWiki_Defined_Meaning: 401906
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Les%20vampires.jpg
 Iconclass_notation: 13D213
 Baidu_Tieba_name: 吸血鬼
-Unicode_character: "\U0001F9DB"
 Dewey_Decimal_Classification: 398.21
 dv_has_:
   name_:
@@ -220,8 +219,11 @@ dv_has_:
     wuu: 吸血鬼
     yue: 吸血鬼
     zh: 吸血鬼
+Unicode_character: 🧛
 ---
-# [[Vampire]] 
+# [[Vampire]] 🧛 
+
+
 
 #is_/same_as :: [[../../../../../WikiData/WD~Vampire,46721|WD~Vampire,46721]]  
 

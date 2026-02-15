@@ -1,187 +1,187 @@
 ---
 aliases:
-- abaw
-- ahabai
-- Akutuq (nauriaq)
-- baala
-- barg
-- blaar
-- blad
-- Bladdl
-- Blat
-- Blatt
-- Bleer (Plaanten)
-- blêd
-- bolong
-- bulong
-- Bulung
-- caleen
-- dahon
-- daun
-- deil
-- deilen
-- Don
-- duillag
-- duilleag
-- duilleog
-- dun
-- ewé
-- feuille
-- fielle
-- fogghia
-- foglia
-- folha
-- folio
-- folium
-- folla
-- foye
-- fronna
-- frunză
-- frândzâ
-- fuella
-- fueya
-- fulla
-- fuèlha
-- fèy
-- fòia
-- fòja
-- fôlye
-- ganye
-- gjethi
-- godhong
-- hayʊʊ
-- hio̍h-á
-- hoja
-- hosto
-- hùm
-- iferr
-- izhuatl
-- jani
-- Japıraq
-- kikyo
-- lapa
-- lapas
-- laphi
-- laps
-- lauf
-- lauv
-- Leaf
-- leht
-- lehti
-- levél
-- list
-- liść
-- lá
-- lēaf
-- mbaw
-- niŏh-niŏh
-- nkásá
-- papah
-- pel
-- raphi
-- rau
-- ravinkazo
-- shizha
-- togue
-- vaɣu
-- Vuɔ
-- wasaw
-- yaprak
-- yarpaq
-- ya̍p-é
-- çулçă
-- łopjeno
-- φύλλο
-- барг
-- гӏа
-- жалбырак
-- жапырақ
-- куар
-- ліст
-- лісьце
-- лист
-- листок
-- сэбирдэх
-- япраҡ
-- яфрак
-- ӹлӹштӓш
-- Տերեւ
-- տերև
-- בלאט
-- עלה
-- برگ
-- ورقة نبات
-- ولگ
-- يوپۇرماق
-- پاڼه
-- پتا
-- پن
-- گەڵا
-- یاپراق
-- पत्ती
-- पात
-- पान
-- পাত
-- পাতা
-- ਪੱਤਾ
-- ପତ୍ର
-- இலை
-- ఆకు
-- ಇರೆ
-- ಎಲೆ
-- ഇല
-- කොළ
-- ใบไม้
-- ལོ་མ།
-- မႂ်
-- အရွက်
-- ფოთოლი
-- ᐊᑭᕈᐊᕈᖅ
-- ᠠᠪᡩᠠᡥᠠ
-- ᱥᱟᱠᱟᱢ
-- 叶
-- 葉
-- 나무잎
-- 잎
+  - abaw
+  - ahabai
+  - Akutuq (nauriaq)
+  - baala
+  - barg
+  - blaar
+  - blad
+  - Bladdl
+  - Blat
+  - Blatt
+  - Bleer (Plaanten)
+  - blêd
+  - bolong
+  - bulong
+  - Bulung
+  - caleen
+  - dahon
+  - daun
+  - deil
+  - deilen
+  - Don
+  - duillag
+  - duilleag
+  - duilleog
+  - dun
+  - ewé
+  - feuille
+  - fielle
+  - fogghia
+  - foglia
+  - folha
+  - folio
+  - folium
+  - folla
+  - foye
+  - fronna
+  - frunză
+  - frândzâ
+  - fuella
+  - fueya
+  - fulla
+  - fuèlha
+  - fèy
+  - fòia
+  - fòja
+  - fôlye
+  - ganye
+  - gjethi
+  - godhong
+  - hayʊʊ
+  - hio̍h-á
+  - hoja
+  - hosto
+  - hùm
+  - iferr
+  - izhuatl
+  - jani
+  - Japıraq
+  - kikyo
+  - lapa
+  - lapas
+  - laphi
+  - laps
+  - lauf
+  - lauv
+  - Leaf
+  - leht
+  - lehti
+  - levél
+  - list
+  - liść
+  - lá
+  - lēaf
+  - mbaw
+  - niŏh-niŏh
+  - nkásá
+  - papah
+  - pel
+  - raphi
+  - rau
+  - ravinkazo
+  - shizha
+  - togue
+  - vaɣu
+  - Vuɔ
+  - wasaw
+  - yaprak
+  - yarpaq
+  - ya̍p-é
+  - çулçă
+  - łopjeno
+  - φύλλο
+  - барг
+  - гӏа
+  - жалбырак
+  - жапырақ
+  - куар
+  - ліст
+  - лісьце
+  - лист
+  - листок
+  - сэбирдэх
+  - япраҡ
+  - яфрак
+  - ӹлӹштӓш
+  - Տերեւ
+  - տերև
+  - בלאט
+  - עלה
+  - برگ
+  - ورقة نبات
+  - ولگ
+  - يوپۇرماق
+  - پاڼه
+  - پتا
+  - پن
+  - گەڵا
+  - یاپراق
+  - पत्ती
+  - पात
+  - पान
+  - পাত
+  - পাতা
+  - ਪੱਤਾ
+  - ପତ୍ର
+  - இலை
+  - ఆకు
+  - ಇರೆ
+  - ಎಲೆ
+  - ഇല
+  - කොළ
+  - ใบไม้
+  - ལོ་མ།
+  - မႂ်
+  - အရွက်
+  - ფოთოლი
+  - ᐊᑭᕈᐊᕈᖅ
+  - ᠠᠪᡩᠠᡥᠠ
+  - ᱥᱟᱠᱟᱢ
+  - 叶
+  - 葉
+  - 나무잎
+  - 잎
 has_id_wikidata: Q33971
 part_of:
-- '[[_Standards/WikiData/WD~bulb,188748]]'
-- '[[_Standards/WikiData/WD~foliage,18250160]]'
-- '[[_Standards/WikiData/WD~tree,10884]]'
+  - "[[_Standards/WikiData/WD~bulb,188748]]"
+  - "[[_Standards/WikiData/WD~foliage,18250160]]"
+  - "[[_Standards/WikiData/WD~tree,10884]]"
 has_use:
-- '[[_Standards/WikiData/WD~fodder,211439]]'
-- '[[_Standards/WikiData/WD~mulch,549563]]'
+  - "[[_Standards/WikiData/WD~fodder,211439]]"
+  - "[[_Standards/WikiData/WD~mulch,549563]]"
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 has_part_s_:
-- '[[_Standards/WikiData/WD~leaf_sheath,882246]]'
-- '[[_Standards/WikiData/WD~plant_cuticle,1146493]]'
-- '[[_Standards/WikiData/WD~leaf_blade,3087886]]'
-- '[[_Standards/WikiData/WD~petiole,10289985]]'
+  - "[[_Standards/WikiData/WD~leaf_sheath,882246]]"
+  - "[[_Standards/WikiData/WD~plant_cuticle,1146493]]"
+  - "[[_Standards/WikiData/WD~leaf_blade,3087886]]"
+  - "[[_Standards/WikiData/WD~petiole,10289985]]"
 different_from:
-- '[[_Standards/WikiData/WD~folio,1363377]]'
-- '[[_Standards/WikiData/WD~foliage,18250160]]'
-- '[[_Standards/WikiData/WD~Leaf,31942403]]'
-instance_of: '[[_Standards/WikiData/WD~plant_structure,20011319]]'
-disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-subclass_of: '[[_Standards/WikiData/WD~plant_organ,24060707]]'
+  - "[[_Standards/WikiData/WD~folio,1363377]]"
+  - "[[_Standards/WikiData/WD~foliage,18250160]]"
+  - "[[_Standards/WikiData/WD~Leaf,31942403]]"
+instance_of: "[[_Standards/WikiData/WD~plant_structure,20011319]]"
+disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+subclass_of: "[[_Standards/WikiData/WD~plant_organ,24060707]]"
 OmegaWiki_Defined_Meaning: 1504
 IMDb_keyword: leaf
 Commons_category: Leaves
 U_S_National_Archives_Identifier: 10637883
 Unicode_character:
-- "\U0001F343"
-- "\U0001F342"
+  - 🍃
+  - 🍂
 Commons_gallery: Leaf
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Travel%20Deep%20Inside%20a%20Leaf%20-%20Annotated%20Version%20-%20California%20Academy%20of%20Sciences.webm
 MeSH_tree_code: A18.024.812
@@ -369,7 +369,7 @@ dv_has_:
     zh_hant: 葉
     zh_tw: 葉
 ---
-# [[Leaf]] 🍃 
+# [[Leaf]] 🍃 🍂 
 
 #is_/same_as :: [[WD~Leaf,33971]] 
 

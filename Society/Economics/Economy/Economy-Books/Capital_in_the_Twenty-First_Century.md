@@ -66,6 +66,8 @@ aliases:
 - ল্য কাপিতাল ও ভাঁতে-উ্যনিয়েম সিয়েক্ল
 - 二十一世纪资本论
 ---
+# [[Capital_in_the_Twenty-First_Century]]  
+
 ## #has_/text_of_/abstract 
 
 > **Capital in the Twenty-First Century** (French: Le Capital au XXIe siècle) 

@@ -15,6 +15,8 @@ dv_has_:
     frr: Ääkertaal
     ta: மண்ணின் மதிப்பு
 ---
+# [[Bodenwertzahl]]  
+
 ## #has_/text_of_/abstract 
 
 #is_/in_language :: [[../../../_Standards/Language/Lang~Family/LangFamily-Indo-European/LangFamily-Germanic/Lang-en|Lang-en]] 

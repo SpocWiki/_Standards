@@ -149,7 +149,6 @@ subclass_of:
 subreddit: tornado
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Tornadoes,123154370]]'
 UMLS_CUI: C0040476
-Unicode_character: "\U0001F32A"
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Tornado%20time%20lapse.webm
 dv_is_:
   same_as:
@@ -337,6 +336,7 @@ dv_has_:
     zh_hans: 龙卷风
     zh_hant: 龍捲風
     zh_hk: 龍捲風
+Unicode_character: 🌪
 ---
 # [[Tornado]] 🌪 
 

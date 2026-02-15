@@ -873,7 +873,6 @@ U_S_National_Archives_Identifier: 10035673
 Libris_URI: mkz102w54z7qc1l
 Colon_Classification: SG--673
 Krugosvet_article: strany_mira/TUNIS.html
-Unicode_character: "\U0001F1F9\U0001F1F3"
 CIVICUS_Monitor_country_entry: tunisia
 GitHub_topic: tunisia
 Commons_gallery: تونس / Tunest / Tunisie
@@ -906,8 +905,11 @@ expiryDate: ''
 Languages:
 - ar-TN
 - fr
+Unicode_character: 🇹🇳
 ---
-# [[Tunisia]] 
+
+# [[Tunisia]] 🇹🇳 
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

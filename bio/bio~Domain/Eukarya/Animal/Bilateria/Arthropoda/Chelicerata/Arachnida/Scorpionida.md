@@ -318,8 +318,11 @@ dv_has_:
     zh_hant: 蝎目
     zh_tw: 蠍目
     zu: Scorpiones
+Unicode_character: 🦂
 ---
-# [[Scorpionida]]
+# [[Scorpionida]] 🦂 
+
+
 
 Scorpions and their extinct relatives 
 ![ ](Scorpionida/Cyclophthalmus_senior.jpg) 

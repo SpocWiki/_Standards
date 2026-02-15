@@ -134,6 +134,8 @@ dv_has_:
     zh_hant: 諾貝爾物理學獎得主列表
     zh_hk: 諾貝爾物理學獎得主列表
 ---
+# [[Physics_Nobel_Prize]]  
+
 ## #has_/text_of_/abstract 
 
 > The Nobel Prize in Physics (Swedish: Nobelpriset i fysik) is awarded annually 

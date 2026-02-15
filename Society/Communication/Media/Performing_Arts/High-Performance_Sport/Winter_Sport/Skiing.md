@@ -231,7 +231,9 @@ dv_has_:
     zh_sg: 滑雪
     zh_tw: 滑雪
 ---
-# [[Skiing]] 
+# [[Skiing]] ⛷ 
+
+
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Skiing,130949|WD~Skiing,130949]]  
 

@@ -888,7 +888,6 @@ twinned_administrative_body: '[[_Standards/WikiData/WD~Cheltenham,206988]]'
 type: Country
 UMLS_CUI: C0022558
 unemployment_rate: 9
-Unicode_character: "\U0001F1F0\U0001F1EA"
 urban_population:
 - 15102890
 - 14015215
@@ -898,8 +897,11 @@ U_S_National_Archives_Identifier: 10035725
 VAT_rate: 16
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Kenya,7112324]]'
 WIPO_ST_3: KE
+Unicode_character: 🇰🇪
 ---
-# [[Kenya]] 
+
+# [[Kenya]] 🇰🇪 
+
 
 ## [[Kenya]] has Properties...
 

@@ -117,6 +117,8 @@ dv_has_:
     zh_sg: 铁金刚格杀令
     zh_tw: 殺人執照
 ---
+# [[Licence_to_Kill,1989]]  
+
 ## #has_/text_of_/abstract 
 
 > **Licence to Kill** is a 1989 spy film, the sixteenth in the James Bond series produced by Eon Productions, 

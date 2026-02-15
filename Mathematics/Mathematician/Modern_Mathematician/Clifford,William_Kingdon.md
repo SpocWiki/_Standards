@@ -75,6 +75,8 @@ dv_has_:
     zh_sg: 威廉·金顿·克利福德
     zh_tw: 威廉·金頓·克利福德
 ---
+# [[Clifford,William_Kingdon]]  
+
 #has_/time_/started :: 1845-05-04 
 #has_/time_/stopped :: 1879-03-03 
 #has_/duration :: `$=((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)`

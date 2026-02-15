@@ -313,6 +313,8 @@ dv_has_:
     zh_tw: 無線電
     zu: Umsakazo
 ---
+# [[Radio]]  
+
 ## #has_/text_of_/abstract 
 
 > **Radio** is the technology of communicating using radio waves. 

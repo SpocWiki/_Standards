@@ -237,10 +237,12 @@ dv_has_:
     zh_sg: 开尔文
     zh_tw: 克耳文
 ---
-# [[Unit~Kelvin]] 
+# [[Unit~Kelvin]] K 
+
 
 #is_a :: [[../SI-Unit]] 
 Unit :: #Unit/SI/K
+
 #is_a_/unit_/for_/temperature 
 #is_/same_as :: [[../../../WikiData/WD~Kelvin,11579|WD~Kelvin,11579]] 
 

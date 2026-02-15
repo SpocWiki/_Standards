@@ -56,7 +56,6 @@ native_label:
 - 青龙
 - 青龍
 - 청룡
-Unicode_character: "\U0001F409"
 dv_has_:
   name_:
     ar: تنين أزوري
@@ -97,6 +96,7 @@ dv_has_:
     zh: 青龍
     zh_hans: 青龙
     zh_hant: 青龍
+Unicode_character: 🐉
 ---
 # [[Azure_Dragon]] 🐉 
 

@@ -272,7 +272,9 @@ dv_has_:
     zh_tw: 鿫
     zu: IsOgambi
 ---
-# [[Oganesson]] 
+
+# [[Oganesson]] 鿫 
+
 
 #is_/same_as :: [[WD~Oganesson,1307]] 
 

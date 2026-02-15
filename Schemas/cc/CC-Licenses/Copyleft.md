@@ -102,11 +102,16 @@ aliases:
 - นิรสิทธิ์
 - コピーレフト
 - 카피레프트
+Unicode_character: 🄯
 ---
+# [[Copyleft]] 🄯 
+
 #has_/creator :: [[../../../Technology/IT/Software/Computer_Programming/Programmers/Stallman,Richard]] 
 
 Copyleft is a Reaction to the [[US_Copyright_Act,1976]] on Software, 
 which was followed up by the [[DMCA(Digital Millennium Copyright Act)]] of 1998. 
+
+## #has_/text_of_/abstract  
 
 > **Copyleft** is the legal technique of granting certain freedoms 
 > over copies of copyrighted works with the requirement 

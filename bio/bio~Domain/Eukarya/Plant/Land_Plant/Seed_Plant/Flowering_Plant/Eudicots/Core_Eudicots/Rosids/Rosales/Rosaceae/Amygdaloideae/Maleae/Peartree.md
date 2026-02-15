@@ -158,7 +158,6 @@ image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Pears.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/%28MHNT%29%20Poirier%20Fleurs%20et%20feuilles.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Cherves-Richemont%2016%20Poirier%202014.jpg
-Unicode_character: "\U0001F350"
 Commons_gallery: Pyrus
 Commons_category: Pyrus
 taxon_name: Pyrus
@@ -340,6 +339,7 @@ dv_has_:
     zh-my: 梨
     zh_sg: 梨
     zh_tw: 梨屬
+Unicode_character: 🍐
 ---
 # [[Peartree]] 🍐 
 

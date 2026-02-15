@@ -424,7 +424,9 @@ dv_has_:
     zh_tw: 律師
     zu: ummeli
 ---
-# [[Lawyer]] 
+# [[Lawyer]] ⚖️ 
+
+
 
 #is_/same_as :: [[../../../WikiData/WD~Lawyer,40348|WD~Lawyer,40348]] 
 

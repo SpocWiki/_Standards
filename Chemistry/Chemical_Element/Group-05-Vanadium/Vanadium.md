@@ -162,7 +162,6 @@ subject_has_role: '[[_Standards/WikiData/WD~trace_metal,7831165]]'
 time_of_discovery_or_invention: 1801
 type: Element
 UMLS_CUI: C0042306
-Unicode_character: 釩
 UNII: 00J9J9XKDE
 U_S_National_Archives_Identifier: 10645191
 ZVG_number: 8180
@@ -414,8 +413,11 @@ dv_has_number_of_period: 4
 dv_has_number_of_group: 5
 dv_has_name_abbreviated: V
 dv_has_number_of_electrons: 23
+Unicode_character: 釩
 ---
-# [[Vanadium]] 
+# [[Vanadium]] 釩 
+
+
 
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Vanadium,722]] 

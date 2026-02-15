@@ -130,6 +130,8 @@ dv_has_:
     zh_sg: 脚气病
     zh_tw: 腳氣病
 ---
+# [[Beri_Beri]]  
+
 #is_/similar_to :: [[Vitamin_C/Scurvy]] 
 
 ## #has_/text_of_/abstract 

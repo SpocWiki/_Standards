@@ -133,7 +133,6 @@ OmegaWiki_Defined_Meaning: 638694
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Snail.jpg
 Commons_category: Snails
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33965%20%28sat%29-R%20Ashwani%20Banjan%20Murmu-%E1%B1%9C%E1%B1%9A%E1%B1%9D%E1%B1%9C%E1%B1%B7%E1%B1%9F.wav
-Unicode_character: "\U0001F40C"
 Amazon_com_browse_node: 15500529011
 UNII: 2VIO5GL90I
 MeSH_tree_code: B01.050.500.644.400.750
@@ -273,6 +272,7 @@ dv_has_:
     zh_hk: 蝸牛
     zh_sg: 蜗牛
     zh_tw: 蝸牛
+Unicode_character: 🐌
 ---
 # [[Snail]] 🐌 
 

@@ -137,7 +137,6 @@ playing_range_image: http://commons.wikimedia.org/wiki/Special:FilePath/Range%20
 subclass_of:
 - '[[_Standards/WikiData/WD~wind_instrument,173453]]'
 - '[[_Standards/WikiData/WD~woodwind_instrument,181247]]'
-Unicode_character: "\U0001FA88"
 used_by: '[[_Standards/WikiData/WD~flautist,12902372]]'
 dv_has_:
   name_:
@@ -295,6 +294,7 @@ dv_has_:
     zh_hant: 笛
     zh_hk: 笛
     zh_tw: 笛子
+Unicode_character: 🪈
 ---
 # [[Flute]] 🪈 
 

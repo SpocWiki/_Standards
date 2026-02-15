@@ -91,6 +91,8 @@ aliases:
 - 異常處理
 - 예외 처리
 ---
+# [[Exception-Handling]]  
+
 #is_/similar_to :: [[../../../../../IT/Programming/Patterns/Patterns~Java.3/Patterns~Transaction|Patterns~Transaction]] 
 
 Exception Handling was introduced to [[../Prog~Functional/Prog~LISP|LISP]] during the 1960s 

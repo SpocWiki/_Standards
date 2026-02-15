@@ -85,6 +85,8 @@ dv_has_:
     zh: 人肉搜索
     zh_hant: 人肉搜尋
 ---
+# [[Doxxing]]  
+
 ## #has_/text_of_/abstract 
 
 > Doxing or **doxxing** is the act of publicly providing personally identifiable information about an individual or organization, 

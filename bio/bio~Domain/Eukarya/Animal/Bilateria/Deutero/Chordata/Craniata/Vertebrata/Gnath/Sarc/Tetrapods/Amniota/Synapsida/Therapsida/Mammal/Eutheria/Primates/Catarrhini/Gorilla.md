@@ -103,7 +103,6 @@ taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/ZL%20G
 EPPO_Code: 1GORIG
 Krugosvet_article: nauka_i_tehnika/biologiya/GORILLI.html
 NBN_System_Key: NHMSYS0000376721
-Unicode_character: "\U0001F98D"
 dv_has_:
   name_:
     af: Gorilla
@@ -250,6 +249,7 @@ dv_has_:
     zh_hans: 大猩猩属
     zh_tw: 大猩猩屬
     zu: Igorila
+Unicode_character: 🦍
 ---
 # [[Gorilla]] 🦍 
 

@@ -109,6 +109,8 @@ dv_has_:
     yi: קארן
     zh: Korn
 ---
+# [[Korn(Band)]]  
+
 ## #has_/text_of_/abstract 
 
 > **Korn** (stylized as KoЯn) is an American nu metal band from Bakersfield, California, formed in 1993. 

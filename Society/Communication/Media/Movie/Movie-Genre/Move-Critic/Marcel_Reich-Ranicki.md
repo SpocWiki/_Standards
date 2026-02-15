@@ -81,6 +81,8 @@ aliases:
 - 马塞尔·莱希-拉尼基
 - 마르셀 라이히라이츠키
 ---
+# [[Marcel_Reich-Ranicki]]  
+
 #has_/time_/started :: 1920-06-02
 #has_/time_/stopped :: 2013-09-18
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)`

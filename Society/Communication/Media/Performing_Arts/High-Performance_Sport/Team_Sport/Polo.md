@@ -56,7 +56,6 @@ instance_of:
 - '[[_Standards/WikiData/WD~Wikimedia_duplicated_page,17362920]]'
 - '[[_Standards/WikiData/WD~type_of_sport,31629]]'
 Commons_category: Polo
-Unicode_character: "\U0001F3C7"
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Polo%20pictogram.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Varsity%20Polo%202013.jpg
 IPTC_NewsCode: mediatopic/20001014
@@ -165,6 +164,7 @@ dv_has_:
     zh_hk: 馬球
     zh_sg: 马球
     zh_tw: 馬球
+Unicode_character: 🏇
 ---
 # [[Polo]] 🏇 
 

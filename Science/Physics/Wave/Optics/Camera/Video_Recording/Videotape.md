@@ -65,7 +65,6 @@ different_from:
 on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~NADD_Wikidata_project,123694075]]'
 Nomenclature_for_Museum_Cataloging: 10968
 Commons_gallery: Videotape
-Unicode_character: "\U0001F4FC"
 dv_has_:
   name_:
     ar: شريط الفيديو
@@ -132,8 +131,11 @@ dv_has_:
     zh_hans: 录像带
     zh_hant: 錄影帶
     zh_hk: 錄影帶
+Unicode_character: 📼
 ---
-# [[Videotape]] 
+# [[Videotape]] 📼 
+
+
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Videotape,747779|WD~Videotape,747779]]  
 

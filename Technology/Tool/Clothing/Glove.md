@@ -110,7 +110,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Centre%20de%20Document
 Commons_category: Gloves
 Commons_gallery: Glove
 IMDb_keyword: gloves
-Unicode_character: "\U0001F9E4"
 dv_has_:
   name_:
     af: Handskoen
@@ -227,6 +226,7 @@ dv_has_:
     zh-hk: 手套
     zh-sg: 手套
     zh-tw: 手套
+Unicode_character: 🧤
 ---
 # [[Glove]] 🧤 
 

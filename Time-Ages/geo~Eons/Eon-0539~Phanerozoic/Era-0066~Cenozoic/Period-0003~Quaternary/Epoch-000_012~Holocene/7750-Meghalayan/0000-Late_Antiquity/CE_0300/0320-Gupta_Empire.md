@@ -260,6 +260,8 @@ dv_has_:
     zh: 笈多王朝
     zh-hant: 笈多王朝
 ---
+# [[0320-Gupta_Empire]]  
+
 #has_/time_/started :: `=this.has_time_started` 
 #has_/time_/stopped :: `=this.has_time_stopped` 
 

@@ -480,6 +480,8 @@ dv_has_number_of_group: 18
 dv_has_name_abbreviated: He
 dv_has_number_of_electrons: 2
 ---
+# [[Helium]]  
+
 #is_/same_as :: [[../../../WikiData/WD~Helium,560_WD~Helium,560]]
 
 #chemic/Element 

@@ -121,7 +121,6 @@ exact_match:
 - http://wordnet-rdf.princeton.edu/wn30/04154565-n
 - http://wordnet-rdf.princeton.edu/wn31/104098151-n
 MCN_code: 8205.40.00
-Unicode_character: "\U0001FA9B"
 dv_has_:
   name_:
     acm: درنفيس
@@ -233,8 +232,11 @@ dv_has_:
     zh-hk: 螺絲起子
     zh-sg: 螺丝起子
     zh-tw: 螺絲起子
+Unicode_character: 🪛
 ---
-# [[Screwdriver]] 
+# [[Screwdriver]] 🪛 
+
+
 
 #is_/same_as :: [[WD~Screwdriver,161071]] 
 

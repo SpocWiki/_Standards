@@ -596,7 +596,9 @@ dv_has_:
     zh_tw: 恆星
     zu: inkanyezi
 ---
-# [[Star]] 
+# [[Star]] ⭐ 
+
+
 
 #is_/same_as :: [[../WikiData/WD~Star,523|WD~Star,523]] 
 

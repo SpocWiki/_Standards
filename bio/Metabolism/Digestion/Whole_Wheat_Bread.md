@@ -56,6 +56,8 @@ aliases:
 - 麥包
 - 통밀빵
 ---
+# [[Whole_Wheat_Bread]]  
+
 ## #has_/text_of_/abstract 
 
 > Whole wheat bread or wholemeal bread is a type of bread made 

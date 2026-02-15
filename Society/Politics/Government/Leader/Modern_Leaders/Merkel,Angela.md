@@ -282,6 +282,8 @@ dv_has_:
     zh_tw: 安格拉·梅克爾
     zu: Angela Merkel
 ---
+# [[Merkel,Angela]]  
+
 ## #has_/text_of_/abstract 
 
 > Angela Dorothea Merkel ([aŋˈɡeːla doʁoˈteːa ˈmɛʁkl̩] ; née Kasner; born 17 July 1954) 

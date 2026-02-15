@@ -280,7 +280,9 @@ dv_has_:
     zh_tw: 錀
     zu: ILugambi
 ---
-# [[Roentgenium]] 
+# [[Roentgenium]] 錀 
+
+
 
 #is_/same_as :: [[../../../WikiData/WD~Roentgenium,1272|WD~Roentgenium,1272]]  
 

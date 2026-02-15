@@ -239,6 +239,8 @@ dv_has_:
     zh_sg: 2004年印度洋大地震
     zh_tw: 2004年印度洋大地震
 ---
+# [[2004-Indian_Ocean_Tsunami]]  
+
 #[[2004-Indian_Ocean_Tsunami]]] 
 
 

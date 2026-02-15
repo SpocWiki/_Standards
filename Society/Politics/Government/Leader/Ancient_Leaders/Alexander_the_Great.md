@@ -583,6 +583,8 @@ dv_has_:
     zh_mo: 亞歷山大大帝
     zh_tw: 亞歷山大大帝
 ---
+# [[Alexander_the_Great]]  
+
 #has_/time_/started :: -0356-07-21  
 #has_/time_/stopped :: -0323-06-11
 #has_/duration  :: `=(default(this.has_time_stopped, date(now)) - this.has_time_started)` 

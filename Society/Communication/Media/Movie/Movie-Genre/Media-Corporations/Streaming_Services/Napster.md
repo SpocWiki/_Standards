@@ -59,6 +59,8 @@ aliases:
 - ನಾಪ್ಸ್ಟರ್
 - 냅스터
 ---
+# [[Napster]]  
+
 #has_/time_/started :: 1999-06-01
 #has_/time_/stopped :: 2002-06-01
 

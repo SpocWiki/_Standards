@@ -125,7 +125,6 @@ time_of_discovery_or_invention: 1917
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_protactinium,8085338]]'
 type: Element
 UMLS_CUI: C0033597
-Unicode_character: 鏷
 UNII: 0S6855V29M
 dv_has_:
   name_:
@@ -354,8 +353,11 @@ dv_is_same_as:
 - '[[/_private/Chemistry/Chemical_Element/Actinide/Protactinium.private|Protactinium.private]]'
 - '[[/_personal/Chemistry/Chemical_Element/Actinide/Protactinium.personal|Protactinium.personal]]'
 - '[[/_secret/Chemistry/Chemical_Element/Actinide/Protactinium.secret|Protactinium.secret]]'
+Unicode_character: 鏷
 ---
-# [[Protactinium]]
+# [[Protactinium]] 鏷 
+
+
 
 #chemic/Element 
 has_name_group = `=this.dv_has_name_group` 

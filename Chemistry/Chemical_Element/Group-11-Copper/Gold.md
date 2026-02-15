@@ -264,7 +264,6 @@ total_produced: 3300
 type: Element
 ultimate_tensile_strength: 120
 UMLS_CUI: C0018026
-Unicode_character: 金
 UNII: 79Y1949PYO
 UNSPSC_Code: 11101801
 video: http://commons.wikimedia.org/wiki/Special:FilePath/The%20crystallization%20phenomenon%20when%20liquid%20gold%20solidifies%20is%20full%20of%20dendrites..webm
@@ -611,7 +610,10 @@ dv_has_number_of_period: 6
 dv_has_number_of_group: 11
 dv_has_name_abbreviated: Au
 dv_has_number_of_electrons: 79
+Unicode_character: 金
 ---
+# [[Gold]] 金 
+
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Gold,897]] 
 

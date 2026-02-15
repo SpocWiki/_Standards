@@ -266,7 +266,9 @@ dv_has_:
     zh_sg: 吋
     zh_tw: 英吋
 ---
-# [[Inch]] 
+
+# [[Inch]] ㏌ 
+
 
 #is_/same_as :: [[WD~Inch,218593]] 
 

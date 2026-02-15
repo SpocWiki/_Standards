@@ -84,6 +84,8 @@ aliases:
 - ꠘꠦꠐꠙ꠆ꠟꠤꠇ꠆ꠌ
 - 넷플릭스
 ---
+# [[Netflix]]  
+
 #has_/number_of_/subscribers:: 269.6e6
 
 ## #has_/text_of_/abstract 

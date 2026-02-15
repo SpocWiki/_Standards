@@ -298,6 +298,8 @@ dv_has_:
     zh_hans: 酒
     zh_hant: 酒
 ---
+# [[Alcoholic_Beverage]]  
+
 ## #has_/text_of_/abstract 
 
 > Drinks containing alcohol are typically divided into three classes—beers, wines, and spirits—with alcohol content typically between 3% and 50%. Drinks with less than 0.5% are sometimes considered non-alcoholic.

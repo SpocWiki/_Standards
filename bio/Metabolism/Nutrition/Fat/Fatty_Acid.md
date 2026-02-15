@@ -179,6 +179,8 @@ dv_has_:
     zh_hans: 脂肪酸
     zh_hant: 脂肪酸
 ---
+# [[Fatty_Acid]]  
+
 ## #has_/text_of_/abstract 
 
 > In chemistry, particularly in biochemistry, a fatty acid is a[[../../../../Chemistry/Organic_Chemistry/Functional_Group/Carboxylic_Acid]]] 

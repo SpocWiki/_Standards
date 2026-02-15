@@ -171,6 +171,8 @@ dv_is_same_as:
 - '[[/_secret/Chemistry/Chemical_Element/Group-17-Halogen/Davy,Humphry.secret|Davy,Humphry.secret]]'
 has_id_wikidata: Q131761
 ---
+# [[Davy,Humphry]]  
+
 has_time_started = `=this.dv_has_time_started` 
 has_time_stopped = `=this.dv_has_time_stopped` 
 #has_/age_/years :: `$=Math.round(((dv.current().dv_has_time_stopped ?? new Date()) - dv.current().dv_has_time_started)/1000/60/60/24/365.2425)` 

@@ -100,6 +100,7 @@ dv_has_:
     zh_hk: 萬分率
     zh_tw: 基本點
 ---
+
 # [[Basis_Point]] ‱ 
 
 #is_/same_as :: [[_Standards/WikiData/WD~basis_point,750178]] 

@@ -687,7 +687,6 @@ satellite_view: http://commons.wikimedia.org/wiki/Special:FilePath/NASASri%20Lan
 nominal_GDP:
 - 88496535599
 - 74403578363
-Unicode_character: "\U0001F1F1\U0001F1F0"
 CIVICUS_Monitor_country_entry: sri-lanka
 GitHub_topic: sri-lanka
 subreddit: srilanka
@@ -794,10 +793,9 @@ Languages:
 - ta
 - en
 icon: flag-lk
+Unicode_character: 🇱🇰
 ---
-# [[Sri_Lanka]] 
-
-## [[Sri_Lanka]] has Properties... 
+# [[Sri_Lanka]] 🇱🇰 has Properties... 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 

@@ -333,6 +333,8 @@ dv_has_:
     zh_sg: 复数
     zh_tw: 複數
 ---
+# [[Complex_Number]]  
+
 ## #has_/text_of_/abstract 
 
 > In mathematics, a **Complex number** is an element of a number system that extends the real numbers with a specific element denoted i, called the imaginary unit and satisfying the equation 

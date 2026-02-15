@@ -257,6 +257,8 @@ dv_has_:
     zh_sg: 精神病学
     zh_tw: 精神病學
 ---
+# [[Psychiatry]]  
+
 #is_/same_as :: [[../../../../WikiData/WD~Psychiatry,7867|WD~Psychiatry,7867]] 
 
 ## #has_/text_of_/abstract 

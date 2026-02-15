@@ -154,6 +154,8 @@ dv_has_:
     zh_sg: 哈柏法
     zh_tw: 哈柏法
 ---
+# [[Haber–Bosch_Process]]  
+
 This is the most important chemical Process. 2% of Energy is being invested to that. 
 Every 2nd Nitrogen in our body was created by this Process. 
 Human Waste is currently NOT re-used as Fertilizer, but degraded to N² by bacteria in [[Sewage]] Wastewater treatment

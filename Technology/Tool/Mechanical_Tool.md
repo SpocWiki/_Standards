@@ -108,6 +108,8 @@ aliases:
 - 手工具
 - 공구
 ---
+# [[Mechanical_Tool]]  
+
 ## #has_/text_of_/abstract 
 
 > A **Hand tool** is any tool that is powered by hand rather than a motor. 

@@ -193,7 +193,6 @@ image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Bactrian%20camel%20group%20highland%20wildlife%20park%20scotland.JPG
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Bactriancamel-range.png
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Bactrian%20Camel%20%28intro%29.ogg
-Unicode_character: "\U0001F42B"
 P8189: 987007293653705200
 Commons_gallery: Camelus bactrianus
 Commons_category: Camelus bactrianus
@@ -315,6 +314,7 @@ dv_has_:
     zh_hk: 雙峰駱駝
     zh_sg: 双峰骆驼
     zh_tw: 雙峰駱駝
+Unicode_character: 🐫
 ---
 # [[Bactrian_camel]] 🐫 
 

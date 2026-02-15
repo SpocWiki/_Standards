@@ -890,7 +890,6 @@ flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Luxem
 ISO_3166_1_alpha_3_code: LUX
 ITU_letter_code: LUX
 IOC_country_code: LUX
-Unicode_character: "\U0001F1F1\U0001F1FA"
 coordinates_of_northernmost_point: Point(6.024783 50.182794)
 Commons_category: Luxembourg
 hashtag: Luxembourg
@@ -923,8 +922,11 @@ Languages:
 - de-LU
 - fr-LU
 icon: flag-lu
+Unicode_character: 🇱🇺
 ---
-# [[Luxembourg]] 
+# [[Luxembourg]] 🇱🇺 
+
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

@@ -187,7 +187,6 @@ subclass_of:
 - '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]'
 TA98_Latin_term: pulmones
 UMLS_CUI: C0024109
-Unicode_character: "\U0001FAC1"
 U_S_National_Archives_Identifier: 10646920
 venous_drainage: '[[_Standards/WikiData/WD~pulmonary_vein,535352]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/So%20funktioniert%20die%20Atmung.webm
@@ -394,6 +393,7 @@ dv_has_:
     zh_cn: 肺
     zh_hans: 肺
     zh_hant: 肺
+Unicode_character: 🫁
 ---
 # [[Lung]] 🫁 
 

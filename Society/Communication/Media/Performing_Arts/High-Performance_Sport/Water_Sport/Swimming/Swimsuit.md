@@ -102,7 +102,6 @@ hashtag: swimsuit
 Commons_gallery: Swimsuit
 Commons_category: Swimwear
 IMDb_keyword: woman-wears-a-swimsuit
-Unicode_character: "\U0001FA71"
 OpenStreetMap_tag: clothing=swimwear
 dv_has_:
   name_:
@@ -181,6 +180,7 @@ dv_has_:
     zh_hk: 泳衣
     zh_sg: 泳衣
     zh_tw: 泳衣
+Unicode_character: 🩱
 ---
 # [[Swimsuit]] 🩱 
 

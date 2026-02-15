@@ -294,7 +294,6 @@ Commons_gallery: Vanuatu
 hashtag: Vanuatu
 ISO_3166_1_alpha_2_code: VU
 WIPO_ST_3: VU
-Unicode_character: "\U0001F1FB\U0001F1FA"
 ISO_3166_1_alpha_3_code: VUT
 ITU_letter_code: VUT
 MeSH_tree_code: Z01.639.760.590.736
@@ -798,8 +797,11 @@ dv_has_:
     zh_sg: 瓦努阿图
     zh_tw: 萬那杜
     zu: i-Vanuatu
+Unicode_character: 🇻🇺
 ---
-# [[Vanuatu]] 
+# [[Vanuatu]] 🇻🇺 
+
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 

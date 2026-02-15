@@ -170,8 +170,11 @@ aliases:
 - 繩結
 - 绳结
 - 매듭
+Unicode_character: 🪢
 ---
-# [[Knot]] 
+# [[Knot]] 🪢 
+
+
 
  is_similar_to = `= this.dv_is_similar_to` 
 #is_/same_as :: [[WD~Knot,527395]] 

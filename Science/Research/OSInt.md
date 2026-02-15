@@ -90,6 +90,8 @@ aliases:
 - ꠈꠥꠟꠣꠝꠦꠟꠣ ꠉꠥꠄꠘ꠆ꠖꠣ ꠔꠁꠔ꠆ꠔ
 - 공개출처정보
 ---
+# [[OSInt]]  
+
 ## #has_/text_of_/abstract 
 
 > Open-source intelligence (**OSINT**) 

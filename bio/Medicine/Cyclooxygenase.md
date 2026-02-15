@@ -73,6 +73,8 @@ dv_has_:
     zh_sg: 环氧合酶
     zh_tw: 環氧合酶
 ---
+# [[Cyclooxygenase]]  
+
 Cyclooxygenase generates Prostaglandine which is detected by Pain Receptors. 
 
 

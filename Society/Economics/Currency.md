@@ -170,7 +170,6 @@ subclass_of:
 - '[[_Standards/WikiData/WD~money,1368]]'
 - '[[_Standards/WikiData/WD~unit_of_measurement,47574]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_currency,6453809]]'
-Unicode_character: "\U0001F4B5"
 Wikidata_property: currency
 dv_has_:
   name_:
@@ -364,6 +363,7 @@ dv_has_:
     zh-my: 通貨
     zh_sg: 通貨
     zh_tw: 通貨
+Unicode_character: 💵
 ---
 # [[Currency]] 💵 
 

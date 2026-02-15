@@ -348,6 +348,9 @@ dv_has_number_of_group: 34
 dv_has_name_abbreviated: Er
 dv_has_number_of_electrons: 68
 ---
+
+# [[Erbium]] 鉺 
+
 #is_/same_as :: [[../../../WikiData/WD~Erbium,1849]] 
 
 

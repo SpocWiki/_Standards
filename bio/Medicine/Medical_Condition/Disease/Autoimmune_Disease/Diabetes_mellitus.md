@@ -430,6 +430,8 @@ dv_has_:
     zh_tw: 糖尿病
     zu: isifo sikashukela
 ---
+# [[Diabetes_mellitus]]  
+
 ## #has_/text_of_/abstract 
 
 > Diabetes, also known as **Diabetes mellitus**, is a group of common endocrine diseases characterized by sustained high blood sugar levels. Diabetes is due to either the pancreas not producing enough of the hormone insulin, or the cells of the body becoming unresponsive to insulin's effects. Classic symptoms include polydipsia (excessive thirst), polyuria (excessive urination), polyphagia (excessive hunger), weight loss, and blurred vision. If left untreated, the disease can lead to various health complications, including disorders of the cardiovascular system, eye, kidney, and nerves. Diabetes accounts for approximately 4.2 million deaths every year, with an estimated 1.5 million caused by either untreated or poorly treated diabetes.

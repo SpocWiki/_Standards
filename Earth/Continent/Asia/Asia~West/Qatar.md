@@ -515,7 +515,6 @@ culture: '[[_Standards/WikiData/WD~culture_of_Qatar,3007363]]'
 emergency_phone_number: '[[_Standards/WikiData/WD~999,3086706]]'
 central_bank: '[[_Standards/WikiData/WD~Qatar_Central_Bank,3365778]]'
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Qatar,7112422]]'
-Unicode_character: "\U0001F1F6\U0001F1E6"
 driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Qatar,14616116]]'
 aerial_view:
@@ -750,8 +749,11 @@ Languages:
 - ar-QA
 - es
 icon: flag-qa
+Unicode_character: 🇶🇦
 ---
-# [[Qatar]] 
+# [[Qatar]] 🇶🇦 
+
+
 
 ## [[Qatar]] has Properties...
 

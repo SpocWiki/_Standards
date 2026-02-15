@@ -738,7 +738,6 @@ official_website: https://www.republicoftogo.com
 country_calling_code: 228
 Dewey_Decimal_Classification: 2--6681
 Krugosvet_article: strany_mira/TOGO.html
-Unicode_character: "\U0001F1F9\U0001F1EC"
 native_label: Togo
 short_name: "\U0001F1F9\U0001F1EC"
 type: Country
@@ -767,8 +766,11 @@ Languages:
 - kbp
 - dag
 - ha
+Unicode_character: 🇹🇬
 ---
-# [[Togo]] 
+# [[Togo]] 🇹🇬 
+
+
 
 ## [[Togo]] has Properties...
 

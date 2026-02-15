@@ -280,6 +280,8 @@ dv_is_same_as:
 dv_has_duration_years: 43
 dv_has_duration_: P43Y5M
 ---
+# [[1948-Apartheid,South_Africa]]  
+
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Apartheid,11409]]
 
 #has_/time_/started :: `=this.has_time_started`

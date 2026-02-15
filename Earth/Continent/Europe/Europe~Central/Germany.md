@@ -217,7 +217,6 @@ aliases:
 - "\U00010338\U00010339\U0001033F\U00010333\U00010339\U00010343\U0001033A\U00010330\U0001033B\U00010330\U0001033D\U00010333"
 has_id_wikidata: Q183
 icon: "\U0001F1E9\U0001F1EA"
-Unicode_character: "\U0001F1E9\U0001F1EA"
 age_of_majority: 18
 anthem: '[[_Standards/WikiData/WD~national_anthem_of_Germany,4122341]]'
 archives_at: '[[_Standards/WikiData/WD~German_Federal_Archives,685753]]'
@@ -1394,6 +1393,7 @@ rural_population:
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Germany%202023.ogg
 described_at_URL: https://wikispooks.com/wiki/Germany
 telephone_country_code: +49
+Unicode_character: 🇩🇪
 ---
 # [[Germany]] (🇩🇪 Deutschland)
 

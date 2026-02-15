@@ -70,6 +70,8 @@ aliases:
 - 侯世達
 - 더글러스 호프스태터
 ---
+# [[Hofstadter,Douglas]]  
+
 ## #has_/text_of_/abstract 
 
 > Douglas Richard Hofstadter (born February 15, 1945) 

@@ -57,7 +57,6 @@ image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Helmet%20%28AM%20607044-2%29.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Kolumbien%20Quimbaya%20Helm%201%20EthnM.jpg
 Commons_category: Military helmets
-Unicode_character: "\U0001FA96"
 dv_has_:
   name_:
     ar: خوذة المعركة
@@ -108,6 +107,7 @@ dv_has_:
     ur: جنگی ہیلمیٹ
     yue: 軍用頭盔
     zh: 戰術頭盔
+Unicode_character: 🪖
 ---
 # [[Combat_Helmet]] 🪖 
 

@@ -329,6 +329,8 @@ dv_has_:
     zh_hant: 羅曼語族
     zh_tw: 羅曼語族
 ---
+# [[LangFamily-Italic]]  
+
 ## #has_/text_of_/abstract 
 
 > The **Romance languages**, also known as the Latin or Neo-Latin languages, are the languages that are directly descended from Vulgar Latin. They are the only extant subgroup of the Italic branch of the Indo-European language family.

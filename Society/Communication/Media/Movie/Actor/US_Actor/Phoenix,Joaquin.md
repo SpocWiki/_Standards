@@ -144,6 +144,8 @@ dv_has_:
     zh_sg: 华坚·冯力士
     zh_tw: 瓦昆·費尼克斯
 ---
+# [[Phoenix,Joaquin]]  
+
 #has_/time_/started :: 1974-10-28 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 

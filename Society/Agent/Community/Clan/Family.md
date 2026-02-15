@@ -248,7 +248,6 @@ topic_s_main_template:
 - '[[_Standards/WikiData/WD~Template_Infobox_family,5623668]]'
 - '[[_Standards/WikiData/WD~Template_Family,6459756]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Family,10815002]]'
-Unicode_character: "\U0001F46A"
 Unicode_range: U+1F46A-1F46D
 URL: http://www.rdaregistry.info/Elements/c/#C10008
 uses: '[[_Standards/WikiData/WD~family_name,101352]]'
@@ -497,6 +496,7 @@ dv_has_:
     zh-my: 家庭
     zh_sg: 家庭
     zh_tw: 家庭
+Unicode_character: 👪
 ---
 # [[Family]] 👪 
 

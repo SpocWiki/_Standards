@@ -1040,7 +1040,6 @@ UIC_alphabetical_country_code: IL
 UIC_numerical_country_code: 95
 UMLS_CUI: C0022271
 unemployment_rate: 66.36
-Unicode_character: "\U0001F1EE\U0001F1F1"
 urban_population:
 - 8375041
 - 8531985
@@ -1061,10 +1060,10 @@ X_Twitter_username:
 - Israel
 - IsraelArabic
 - IsraelHebrew
+Unicode_character: 🇮🇱
 ---
-# [[Israel]] 
 
-## [[Israel]] has Properties...
+# [[Israel]] 🇮🇱 has Properties...
 
 has_time_started = `=this.dv_has_time_started`
 

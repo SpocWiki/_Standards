@@ -310,6 +310,8 @@ dv_has_:
     zh_tw: 聯合公園
     zu: Linkin Park
 ---
+# [[Linkin_Park]]  
+
 Most famous Tracks: 
 
 - Numb 

@@ -127,7 +127,6 @@ litter_size: 80000
 taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
 ITIS_TSN: 82589
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Octopus2.jpg
-Unicode_character: "\U0001F419"
 Dewey_Decimal_Classification: 564.56
 Krugosvet_article_archived_: nauka_i_tehnika/biologiya/OSMINOGI.html
 NBN_System_Key: NHMSYS0021055250
@@ -268,6 +267,7 @@ dv_has_:
     zh_hans: 章鱼目
     zh_hant: 章魚目
     zh_hk: 章魚目
+Unicode_character: 🐙
 ---
 # [[Octopod]] 🐙 
 

@@ -109,7 +109,6 @@ time_of_discovery_or_invention: 1955
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_mendelevium,8085394]]'
 type: Element
 UMLS_CUI: C0025275
-Unicode_character: 鍆
 UNII: LW3E571O0Z
 dv_has_:
   name_:
@@ -334,8 +333,11 @@ dv_is_same_as:
 - '[[/_private/Chemistry/Chemical_Element/Actinide/Mendelevium.private|Mendelevium.private]]'
 - '[[/_personal/Chemistry/Chemical_Element/Actinide/Mendelevium.personal|Mendelevium.personal]]'
 - '[[/_secret/Chemistry/Chemical_Element/Actinide/Mendelevium.secret|Mendelevium.secret]]'
+Unicode_character: 鍆
 ---
-# [[Mendelevium]] 
+# [[Mendelevium]] 鍆 
+
+
 
 #chemic/Element 
 has_name_group = `=this.dv_has_name_group` 

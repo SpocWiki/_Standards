@@ -286,6 +286,8 @@ dv_has_:
     zh_tw: 航空器
     zu: INdiza
 ---
+# [[Aircraft]]  
+
 ## #has_/text_of_/abstract 
 
 > An **Aircraft** (pl.: aircraft) is a vehicle that is able to fly by gaining support from the air. 

@@ -417,6 +417,8 @@ dv_has_:
     zh_tw: 時區
     zu: Indawo yesikhathi
 ---
+# [[Time-Zone]]  
+
 ## #has_/text_of_/abstract 
 
 > A **Time zone** is an area which observes a uniform standard time 

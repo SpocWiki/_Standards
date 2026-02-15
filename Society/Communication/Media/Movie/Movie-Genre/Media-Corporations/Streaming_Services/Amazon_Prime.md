@@ -50,6 +50,8 @@ aliases:
 - 亚马逊Prime
 - 아마존 프라임
 ---
+# [[Amazon_Prime]]  
+
 #has_/number_of_/subscribers:: 200e6
 
 ## #has_/text_of_/abstract 

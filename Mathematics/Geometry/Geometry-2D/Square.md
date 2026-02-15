@@ -322,7 +322,9 @@ dv_has_:
     zh_hk: 正方形
     zu: IGcagcane
 ---
-# [[Square]] 
+
+# [[Square]]  ⬜ ◼ ◻ ◾◽ ⬛ ▫ ▪ 
+
 
 #is_/same_as :: [[../../../WikiData/WD~Square,164|WD~Square,164]]  
 

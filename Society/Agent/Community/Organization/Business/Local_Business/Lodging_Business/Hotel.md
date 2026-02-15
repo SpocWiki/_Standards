@@ -253,8 +253,11 @@ dv_has_:
     zh-my: 酒店
     zh_sg: 酒店
     zh_tw: 飯店
+Unicode_character: 🏨
 ---
-# [[Hotel]] 
+# [[Hotel]] 🏨 
+
+
 
 Class of all hotels.
 

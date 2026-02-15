@@ -263,7 +263,6 @@ subclass_of: '[[_Standards/WikiData/WD~transition_metal,19588]]'
 time_of_discovery_or_invention: 1787
 time_weighted_average_exposure_limit: 1
 type: Element
-Unicode_character: 釔
 UNII: 58784XQC3Y
 vapor_pressure: 0
 ZVG_number: 7390
@@ -502,8 +501,11 @@ dv_is_same_as:
 - '[[/_secret/Chemistry/Chemical_Element/Group-03-Scandium/Yttrium.secret|Yttrium.secret]]'
 dv_has_name_abbreviated: Y
 dv_has_number_of_electrons: 39
+Unicode_character: 釔
 ---
-# [[Yttrium]] 
+# [[Yttrium]] 釔 
+
+
 
 #chemic/Element 
 

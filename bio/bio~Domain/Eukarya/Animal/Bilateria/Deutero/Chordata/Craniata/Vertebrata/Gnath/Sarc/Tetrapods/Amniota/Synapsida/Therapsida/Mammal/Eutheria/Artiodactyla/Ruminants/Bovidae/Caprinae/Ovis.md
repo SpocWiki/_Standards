@@ -439,8 +439,11 @@ dv_has_:
     zh_hant: 羊
     zh_hk: 羊
     zu: imvu
+Unicode_character: 🐏
 ---
-# *Ovis* 
+# [[Ovis]] 🐏 
+
+
 
 [[Ovis/Ovis_canadensis.jpg]]
 

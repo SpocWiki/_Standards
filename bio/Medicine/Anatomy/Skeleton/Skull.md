@@ -151,7 +151,6 @@ image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/A2613-Museum%20Geologi-Fosil%20Tengkorak.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Aardwolf%20Skull.JPG
 ground_level_360_degree_view_URL: https://www.zygotebody.com/#nav=0.75,126.89,58.47,0,0,0,0&sel=p:;h:;s:1059;c:-0.6;o:-0.75&layers=0,1,6250
-Unicode_character: "\U0001F480"
 MeSH_tree_code: A02.835.232.781
 Commons_gallery: Animal skull
 UMLS_CUI:
@@ -299,8 +298,11 @@ dv_has_:
     zh-my: 颅骨
     zh_sg: 颅骨
     zh_tw: 顱骨
+Unicode_character: 💀
 ---
-# [[Skull]] 
+# [[Skull]] 💀 
+
+
 
 #is_/same_as :: [[../../../../WikiData/WD~Skull,13147|WD~Skull,13147]]  
 

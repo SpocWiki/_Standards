@@ -95,7 +95,6 @@ Nomenclature_for_Museum_Cataloging: 12200
 U_S_National_Archives_Identifier: 10646580
 Commons_gallery: Tractor
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Zetor%20Crystal.jpg
-Unicode_character: "\U0001F69C"
 Common_Procurement_Vocabulary_code: 16700000
 Iconclass_notation: 46C1661
 Dewey_Decimal_Classification:
@@ -235,6 +234,7 @@ dv_has_:
     yi: סעמי טריילער
     yue: 拖拉機
     zh: 拖拉机
+Unicode_character: 🚜
 ---
 # [[Tractor]] 🚜 
 

@@ -200,6 +200,8 @@ aliases:
 - 쟌르
 - "\U00010332\U00010334\U0001033D\U00010334\U00010342\U00010349"
 ---
+# [[Genre]]  
+
 ## #has_/text_of_/abstract 
 
 > **Genre** (French for 'kind, sort') is any style or form of communication 

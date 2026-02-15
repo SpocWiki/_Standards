@@ -196,7 +196,9 @@ dv_has_:
     zh_sg: 帕斯卡
     zh_tw: 帕斯卡
 ---
-# [[Unit~Pascal]] 
+
+# [[Unit~Pascal]] ㎩ 
+
 
 #is_a_/unit_/for_/pressure 
 

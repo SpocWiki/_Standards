@@ -141,6 +141,8 @@ dv_has_:
     zh_sg: 莱恩·雷诺斯
     zh_tw: 萊恩·雷諾斯
 ---
+# [[Reynolds,Ryan]]  
+
 #has_/time_/started :: 1976-10-23 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 

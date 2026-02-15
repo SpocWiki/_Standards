@@ -270,6 +270,8 @@ dv_has_:
     zh_hans: 塞內卡
     zh_hant: 塞內卡
 ---
+# [[Seneca]]  
+
 #is_/same_as :: [[../../../WikiData/WD~Seneca,2054|WD~Seneca,2054]]  
 
 

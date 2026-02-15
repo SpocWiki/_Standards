@@ -138,7 +138,6 @@ Iconclass_notation: 43C4121
 IPTC_NewsCode: mediatopic/20000958
 Colon_Classification: MY211
 Baidu_Tieba_name: 手球
-Unicode_character: "\U0001F93E"
 time_of_discovery_or_invention: 1915-01-01T00:00:00Z
 dv_has_:
   name_:
@@ -275,8 +274,11 @@ dv_has_:
     zh_hant: 手球
     zh_hk: 手球
     zh_tw: 手球
+Unicode_character: 🤾
 ---
-# [[Handball]] 
+# [[Handball]] 🤾 
+
+
 
 #is_/same_as :: [[WD~Handball,8418]] 
 

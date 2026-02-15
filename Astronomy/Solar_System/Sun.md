@@ -1206,7 +1206,9 @@ dv_has_:
     zh_tw: 太陽
     zu: Ilanga
 ---
-# [[Sun]] 
+# [[Sun]] ☉ 
+
+
 
 #is_/same_as :: [[../../WikiData/WD~Sun,525|WD~Sun,525]]  
 

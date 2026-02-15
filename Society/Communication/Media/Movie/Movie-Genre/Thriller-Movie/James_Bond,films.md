@@ -159,6 +159,8 @@ aliases:
 - 詹姆斯·邦德
 - 제임스 본드
 ---
+# [[James_Bond,films]]  
+
 ## #has_/text_of_/abstract 
 
 > The **James Bond** franchise focuses on the titular character, 

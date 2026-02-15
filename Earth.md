@@ -984,7 +984,6 @@ dv_has_:
     zh_sg: 地球
     zh_tw: 地球
     zu: Umhlaba
-Unicode_Character: ♁
 ---
 
 # [[Earth]] 🌎 ♁ 

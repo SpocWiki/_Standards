@@ -352,8 +352,11 @@ dv_has_:
     zh_cn: 骨骼
     zh_hans: 骨组织
     zh_hant: 骨組織
+Unicode_character: 🦴
 ---
-# [[Bone]] 
+# [[Bone]] 🦴 
+
+
 
 Class of all bones.
 

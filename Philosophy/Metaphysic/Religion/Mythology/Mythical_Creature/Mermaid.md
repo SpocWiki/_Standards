@@ -120,7 +120,6 @@ IMDb_keyword: mermaid
 Commons_gallery: Mermaid
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mermaid%20-%20cover%20-%20Merman%20%26%20mermaid%2C%20grand%20operatic%20phantasmagoria.png
 EAGLE_id: decor/lod/296
-Unicode_character: "\U0001F9DC"
 Dewey_Decimal_Classification: 398.21
 dv_has_:
   name_:
@@ -236,8 +235,11 @@ dv_has_:
     zh_hk: 人魚
     zh_sg: 人鱼
     zh_tw: 人魚
+Unicode_character: 🧜
 ---
-# [[Mermaid]] 
+# [[Mermaid]] 🧜 
+
+
 
 #is_/same_as :: [[WD~Mermaid,182559]] 
 

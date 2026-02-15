@@ -125,6 +125,8 @@ dv_has_:
     zh_sg: 东尼·寇蒂斯
     zh_tw: 湯尼·寇蒂斯
 ---
+# [[Curtis,Tony]]  
+
 #has_/time_/started :: 1925-06-03 
 #has_/time_/stopped :: 2010-09-29 
 #is_/parent_of :: [[Curtis,Jamie_Lee]]

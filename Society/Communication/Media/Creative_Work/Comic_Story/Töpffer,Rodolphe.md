@@ -72,6 +72,8 @@ dv_has_:
     zh_hans: 鲁道夫·托普佛
     zh_hant: 魯道夫·托普佛
 ---
+# [[Töpffer,Rodolphe]]  
+
 #is_/same_as :: 
 
 ## #has_/text_of_/abstract 

@@ -90,6 +90,8 @@ dv_has_:
     zh_sg: 费加罗报
     zh_tw: 費加羅報
 ---
+# [[Le_Figaro]]  
+
 ## #has_/text_of_/abstract 
 
 > **Le Figaro** (French: [lə fiɡaʁo] ) is a French daily morning newspaper founded in 1826. 

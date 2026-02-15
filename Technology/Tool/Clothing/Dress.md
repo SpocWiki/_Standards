@@ -103,7 +103,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Kl%C3%A4nning%20tillh%
 booru_tag: dress
 Danbooru_tag: dress
 hashtag_: dress
-Unicode_character: "\U0001F457"
 UNSPSC_Code: 53102001
 subreddit: Dresses
 Commons_category: Dresses
@@ -204,6 +203,7 @@ dv_has_:
     zh-hk: 連衣裙
     zh-sg: 连衣裙
     zh-tw: 連衣裙
+Unicode_character: 👗
 ---
 # [[Dress]] 👗 
 

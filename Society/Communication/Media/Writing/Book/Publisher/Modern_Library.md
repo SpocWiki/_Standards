@@ -32,6 +32,8 @@ dv_has_:
     zh_hans: 现代图书馆
     zh_hant: 美國現代圖書館
 ---
+# [[Modern_Library]]  
+
 #is_a :: [[../../../../../Agent/Community/Organization/Company/Corporation|Corporation]] 
 
 

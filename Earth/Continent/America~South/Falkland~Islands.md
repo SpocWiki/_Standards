@@ -462,7 +462,6 @@ coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Falkland%20Islands.svg
 ISO_3166_1_alpha_3_code: FLK
 IOC_country_code: FLK
-Unicode_character: "\U0001F1EB\U0001F1F0"
 telephone_country_code: 500
 coordinate_location: Point(-59.22 -51.73)
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Location%20map%20of%20the%20Falklands%20%E2%80%93%20Alternative%20version%204.svg
@@ -476,8 +475,11 @@ domain_name: falklands.gov.fk
 MeSH_tree_code: Z01.639.040.695
 booru_tag: falkland_islands
 hashtag_: falklands
+Unicode_character: 🇫🇰
 ---
-# [[Falkland~Islands]] 
+# [[Falkland~Islands]] 🇫🇰 
+
+
 
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`

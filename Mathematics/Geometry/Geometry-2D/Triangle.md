@@ -1,195 +1,195 @@
 ---
 aliases:
-- anígunmẹ́ta
-- apünüinsheke'einrü
-- chrayanggl
-- draiegg
-- Dreieck
-- driehoek
-- driehook
-- drieoek
-- golmmačiegat
-- gonyonhatu
-- gålmåtjiegak
-- hirêkınari
-- háromszög
-- juru tilu
-- kimsak'uchu
-- kolmio
-- kolmmčiõkk
-- kolmnukk
-- kolmnurk
-- kulmâhâš
-- mbata-isáto
-- mujina
-- pembetatu
-- saddax-xagal
-- sagitigo
-- saⁿ-kak-hêng
-- segi telu
-- segi tiga
-- segitiga
-- selo pi poka tu wan
-- sâm-kok-hìn
-- sêgoşe
-- săng-gáe̤k-hìng
-- tam giác
-- tatsulok
-- telozoro
-- trangolo
-- trayanggulo
-- trekant
-- trekëndëshi
-- trian
-- triangel
-- triangelu
-- triangle
-- trianglo
-- triangolo
-- triangoło
-- triangulo
-- triangulu
-- triangulum
-- triantán
-- tric'horn
-- trihorn
-- Triihuk
-- trijangolu
-- trikampis
-- trikotnik
-- triongl
-- triunghi
-- triyang
-- triànculu
-- triàngol
-- triángulo
-- triángulu
-- triângulo
-- trojuholník
-- trojúhelník
-- trokut
-- troorane
-- trougao
-- trziek
-- trzënórt
-- tríkantur
-- trójkąt
-- trėkompis
-- trīsstūris
-- tututolu
-- třiróžk
-- tśirožk
-- uchburchak
-- yaɣ'ata
-- úshmúyeshlik
-- üçbucaq
-- üçgen
-- þríhyrningur
-- þrīhyrne
-- τρίγωνο
-- ахкәакьҭа
-- виç кĕтеслĕх
-- гурвалжин
-- куиньсэрег
-- кумлук
-- секунҷа
-- треугольник
-- триаголник
-- трикутник
-- триуголник
-- триъгълник
-- троугао
-- трохвугольнік
-- трыкутнік
-- щэный
-- үч бурчтук
-- үшбұрыш
-- өсмөйөш
-- өчпочмак
-- եռանկյուն
-- דרייעק
-- משולש
-- اوچ گن
-- تکون
-- درېڅنډی
-- سێگۆشە
-- متلت
-- مثلث
-- مُثلَّث
-- ٽڪنڊو
-- ܡܬܠܬܐ
-- त्रिकोण
-- त्रिभुज
-- ত্রিভুজ
-- ত্ৰিভুজ
-- ਤ੍ਰਿਭੁਜ
-- ત્રિકોણ
-- ତ୍ରିଭୁଜ
-- முக்கோணம்
-- త్రిభుజం
-- ತ್ರಿಕೋನ
-- ത്രികോണം
-- ත්රිකෝණ
-- รูปสามเหลี่ยม
-- ຮູບສາມແຈ
-- སཟུར་གསུམ་དབབྱི།
-- တြိဂံ
-- სამკუთხედი
-- ሶስት ማእዘን
-- ᏦᎢ ᏧᏅᏏᏯ ᎤᏃᏴᎩ
-- ត្រីកោណ
-- ᱯᱮᱥᱩᱯ
-- ∆
-- ⴰⵎⴽⵕⴰⴹ
-- 三角形
-- 삼각형
+  - anígunmẹ́ta
+  - apünüinsheke'einrü
+  - chrayanggl
+  - draiegg
+  - Dreieck
+  - driehoek
+  - driehook
+  - drieoek
+  - golmmačiegat
+  - gonyonhatu
+  - gålmåtjiegak
+  - hirêkınari
+  - háromszög
+  - juru tilu
+  - kimsak'uchu
+  - kolmio
+  - kolmmčiõkk
+  - kolmnukk
+  - kolmnurk
+  - kulmâhâš
+  - mbata-isáto
+  - mujina
+  - pembetatu
+  - saddax-xagal
+  - sagitigo
+  - saⁿ-kak-hêng
+  - segi telu
+  - segi tiga
+  - segitiga
+  - selo pi poka tu wan
+  - sâm-kok-hìn
+  - sêgoşe
+  - săng-gáe̤k-hìng
+  - tam giác
+  - tatsulok
+  - telozoro
+  - trangolo
+  - trayanggulo
+  - trekant
+  - trekëndëshi
+  - trian
+  - triangel
+  - triangelu
+  - triangle
+  - trianglo
+  - triangolo
+  - triangoło
+  - triangulo
+  - triangulu
+  - triangulum
+  - triantán
+  - tric'horn
+  - trihorn
+  - Triihuk
+  - trijangolu
+  - trikampis
+  - trikotnik
+  - triongl
+  - triunghi
+  - triyang
+  - triànculu
+  - triàngol
+  - triángulo
+  - triángulu
+  - triângulo
+  - trojuholník
+  - trojúhelník
+  - trokut
+  - troorane
+  - trougao
+  - trziek
+  - trzënórt
+  - tríkantur
+  - trójkąt
+  - trėkompis
+  - trīsstūris
+  - tututolu
+  - třiróžk
+  - tśirožk
+  - uchburchak
+  - yaɣ'ata
+  - úshmúyeshlik
+  - üçbucaq
+  - üçgen
+  - þríhyrningur
+  - þrīhyrne
+  - τρίγωνο
+  - ахкәакьҭа
+  - виç кĕтеслĕх
+  - гурвалжин
+  - куиньсэрег
+  - кумлук
+  - секунҷа
+  - треугольник
+  - триаголник
+  - трикутник
+  - триуголник
+  - триъгълник
+  - троугао
+  - трохвугольнік
+  - трыкутнік
+  - щэный
+  - үч бурчтук
+  - үшбұрыш
+  - өсмөйөш
+  - өчпочмак
+  - եռանկյուն
+  - דרייעק
+  - משולש
+  - اوچ گن
+  - تکون
+  - درېڅنډی
+  - سێگۆشە
+  - متلت
+  - مثلث
+  - مُثلَّث
+  - ٽڪنڊو
+  - ܡܬܠܬܐ
+  - त्रिकोण
+  - त्रिभुज
+  - ত্রিভুজ
+  - ত্ৰিভুজ
+  - ਤ੍ਰਿਭੁਜ
+  - ત્રિકોણ
+  - ତ୍ରିଭୁଜ
+  - முக்கோணம்
+  - త్రిభుజం
+  - ತ್ರಿಕೋನ
+  - ത്രികോണം
+  - ත්රිකෝණ
+  - รูปสามเหลี่ยม
+  - ຮູບສາມແຈ
+  - སཟུར་གསུམ་དབབྱི།
+  - တြိဂံ
+  - სამკუთხედი
+  - ሶስት ማእዘን
+  - ᏦᎢ ᏧᏅᏏᏯ ᎤᏃᏴᎩ
+  - ត្រីកោណ
+  - ᱯᱮᱥᱩᱯ
+  - ∆
+  - ⴰⵎⴽⵕⴰⴹ
+  - 三角形
+  - 삼각형
 has_id_wikidata: Q19821
 different_from:
-- '[[_Standards/WikiData/WD~equilateral_triangle,157002]]'
-- '[[_Standards/WikiData/WD~isosceles_triangle,875937]]'
-- '[[_Standards/WikiData/WD~scalene_triangle,4897191]]'
+  - "[[_Standards/WikiData/WD~equilateral_triangle,157002]]"
+  - "[[_Standards/WikiData/WD~isosceles_triangle,875937]]"
+  - "[[_Standards/WikiData/WD~scalene_triangle,4897191]]"
 followed_by:
-- '[[_Standards/WikiData/WD~tetrahedron,160003]]'
-- '[[_Standards/WikiData/WD~quadrilateral,36810]]'
-has_vertex_figure: '[[_Standards/WikiData/WD~line_segment,166154]]'
+  - "[[_Standards/WikiData/WD~tetrahedron,160003]]"
+  - "[[_Standards/WikiData/WD~quadrilateral,36810]]"
+has_vertex_figure: "[[_Standards/WikiData/WD~line_segment,166154]]"
 follows:
-- '[[_Standards/WikiData/WD~line_segment,166154]]'
-- '[[_Standards/WikiData/WD~digon,854818]]'
+  - "[[_Standards/WikiData/WD~line_segment,166154]]"
+  - "[[_Standards/WikiData/WD~digon,854818]]"
 has_characteristic:
-- '[[_Standards/WikiData/WD~triangle_inequality_theorem,208216]]'
-- '[[_Standards/WikiData/WD~area_of_plane_shape,15921574]]'
-- '[[_Standards/WikiData/WD~area_of_a_triangle,20183185]]'
-- '[[_Standards/WikiData/WD~perimeter,28474]]'
+  - "[[_Standards/WikiData/WD~triangle_inequality_theorem,208216]]"
+  - "[[_Standards/WikiData/WD~area_of_plane_shape,15921574]]"
+  - "[[_Standards/WikiData/WD~area_of_a_triangle,20183185]]"
+  - "[[_Standards/WikiData/WD~perimeter,28474]]"
 has_part_s_of_the_class:
-- '[[_Standards/WikiData/WD~height,208826]]'
-- '[[_Standards/WikiData/WD~base,2553861]]'
-- '[[_Standards/WikiData/WD~apex,2858200]]'
-- '[[_Standards/WikiData/WD~apex_base_pair,127388056]]'
-- '[[_Standards/WikiData/WD~edge,26382]]'
-- '[[_Standards/WikiData/WD~vertex,26401]]'
+  - "[[_Standards/WikiData/WD~height,208826]]"
+  - "[[_Standards/WikiData/WD~base,2553861]]"
+  - "[[_Standards/WikiData/WD~apex,2858200]]"
+  - "[[_Standards/WikiData/WD~apex_base_pair,127388056]]"
+  - "[[_Standards/WikiData/WD~edge,26382]]"
+  - "[[_Standards/WikiData/WD~vertex,26401]]"
 subclass_of:
-- '[[_Standards/WikiData/WD~simplex,331350]]'
-- '[[_Standards/WikiData/WD~bicentric_polygon,4903575]]'
-- '[[_Standards/WikiData/WD~tritope,85292517]]'
-- '[[_Standards/WikiData/WD~planar_generalized_triangle,117307846]]'
-- '[[_Standards/WikiData/WD~polygon,37555]]'
+  - "[[_Standards/WikiData/WD~simplex,331350]]"
+  - "[[_Standards/WikiData/WD~bicentric_polygon,4903575]]"
+  - "[[_Standards/WikiData/WD~tritope,85292517]]"
+  - "[[_Standards/WikiData/WD~planar_generalized_triangle,117307846]]"
+  - "[[_Standards/WikiData/WD~polygon,37555]]"
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-instance_of: '[[_Standards/WikiData/WD~geometric_shape,815741]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-has_facet_polytope: '[[_Standards/WikiData/WD~edge,26382]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+instance_of: "[[_Standards/WikiData/WD~geometric_shape,815741]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
+disjoint_union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+union_of: "[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]"
+has_facet_polytope: "[[_Standards/WikiData/WD~edge,26382]]"
 OmegaWiki_Defined_Meaning: 159026
 Commons_category: Triangles
 Bowers_acronym: trig
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Triangolo-Scaleno.svg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Vj18081991-%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%95%E0%A5%8B%E0%A4%A3.wav
 Unicode_character:
-- "\U0001F53A"
-- "\U0001F53B"
+  - 🔺
+  - 🔻
 Iconclass_notation: 49D33
 Gujarati_Vishwakosh_entry: ત્રિકોણ
 dv_has_:
@@ -373,7 +373,9 @@ dv_has_:
     zh_hans: 三角形
     zh_hant: 三角形
 ---
-# [[Triangle]] 
+
+# [[Triangle]] 🔺  🔻
+
 
 #is_/same_as :: [[../../../WikiData/WD~Triangle,19821|WD~Triangle,19821]]  
 

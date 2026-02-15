@@ -87,7 +87,6 @@ numeric_value: 2.718281828459045
 notation: '[[_Standards/WikiData/WD~E,9907]]'
 quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>e</mi></mstyle></mrow></math>
 Stack_Exchange_tag: https://stackoverflow.com/tags/eulers-number
-Unicode_character: "\U0001D452"
 Commons_category: E (mathematical constant)
 Krugosvet_article: matematika/chislo-e
 dv_has_:
@@ -151,8 +150,11 @@ dv_has_:
     wuu: E（数学常数）
     zh: 自然底数
     zh_hans: 自然底数
+Unicode_character: 𝑒
 ---
-# [[Euler's_Number]] 
+# [[Euler's_Number]] 𝑒 
+
+
 
 #is_/same_as :: [[../../WikiData/WD~Euler's_number,82435|WD~Euler's_number,82435]] 
 

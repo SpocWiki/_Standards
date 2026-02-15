@@ -128,7 +128,6 @@ UMLS_CUI: C0458584
 Wolfram_Language_entity_code: Entity["FoodType", "Sandwich"]
 subreddit: Sandwiches
 Commons_category: Sandwiches
-Unicode_character: "\U0001F96A"
 OpenStreetMap_tag: cuisine=sandwich
 dv_has_:
   name_:
@@ -271,6 +270,7 @@ dv_has_:
     zh-my: 三文治
     zh_sg: 三明治
     zh_tw: 三明治
+Unicode_character: 🥪
 ---
 # [[Sandwich(Dish)]] 🥪 
 

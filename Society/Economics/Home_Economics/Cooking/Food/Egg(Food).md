@@ -193,7 +193,6 @@ CosIng_number: 92396
 USDA_NDB_number: 1123
 OmegaWiki_Defined_Meaning: 340828
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Eierdoos.jpg
-Unicode_character: "\U0001F95A"
 Iconclass_notation: 41C642
 Commons_category: Poultry eggs
 UNII: 291P45F896
@@ -392,8 +391,11 @@ dv_has_:
     zh_sg: 蛋
     zh_tw: 蛋
     zu: Amaqanda
+Unicode_character: 🥚
 ---
-# [[Egg(Food)]]  🍳 
+# [[Egg(Food)]] 🥚 
+
+
 
 #is_/same_as :: [[../../../../../WikiData/WD~Egg_as_food,93189|WD~Egg_as_food,93189]] 
 

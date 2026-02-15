@@ -412,6 +412,8 @@ dv_has_:
     yue: 路易十四世
     zh: 路易十四
 ---
+# [[Louis_XIV]]  
+
 #has_/time_/started ::  1638-09-05 
 #has_/time_/stopped ::  1715-09-01 
 #has_/duration  :: `=(default(this.has_time_stopped, date(now)) - this.has_time_started)` 

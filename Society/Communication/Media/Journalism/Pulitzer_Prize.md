@@ -185,6 +185,8 @@ dv_has_:
     zh_hant: 普立茲獎
     zh_tw: 普立茲獎
 ---
+# [[Pulitzer_Prize]]  
+
 ## #has_/text_of_/abstract 
 
 > The **Pulitzer Prize**s () are 23 annual awards given by Columbia University in New York 

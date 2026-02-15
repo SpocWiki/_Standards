@@ -137,7 +137,6 @@ Colon_Classification:
 - D515
 - X415
 image: http://commons.wikimedia.org/wiki/Special:FilePath/SNTF%20Class%20060DS.jpg
-Unicode_character: "\U0001F6E4"
 Commons_category: Rail transport
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Amtrak%20California%20Zephyr%20banner.jpg
 IPTC_NewsCode: mediatopic/20000340
@@ -246,6 +245,7 @@ dv_has_:
     zh-hant: 鐵路運輸
     zh-hk: 鐵路運輸
     zh-tw: 鐵路運輸
+Unicode_character: 🛤
 ---
 # [[Rail_Transport]] 🛤 
 

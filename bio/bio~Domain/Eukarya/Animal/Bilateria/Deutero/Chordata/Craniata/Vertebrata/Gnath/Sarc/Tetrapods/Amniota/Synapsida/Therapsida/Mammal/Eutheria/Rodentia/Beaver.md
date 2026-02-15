@@ -210,8 +210,11 @@ dv_has_:
     zh_cn: 河狸属
     zh_tw: 河貍屬
     zu: Ibhiva
+Unicode_character: 🦫
 ---
-# [[Beaver]] 
+# [[Beaver]] 🦫 
+
+
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../WikiData/WD~Beaver,47542|WD~Beaver,47542]] 
 

@@ -387,7 +387,9 @@ dv_has_number_of_group:
 dv_has_name_abbreviated: La
 dv_has_number_of_electrons: 57
 ---
-# [[Lanthanum]] 
+
+# [[Lanthanum]] 鑭 
+
 
 ## [[Lanthanum]] has Properties...
 

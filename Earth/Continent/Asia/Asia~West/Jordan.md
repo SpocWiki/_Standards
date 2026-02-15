@@ -805,7 +805,6 @@ country_calling_code: 962
 Libris_URI: 1zcfd3lk1493jr7
 Dewey_Decimal_Classification: 2--5695
 RIA_Novosti_reference: 60548722
-Unicode_character: "\U0001F1EF\U0001F1F4"
 Krugosvet_article: strany_mira/IORDANIYA.html
 motto_text:
 - الله، الوطن، الملك
@@ -841,8 +840,11 @@ Languages:
 - ar-JO
 - en
 icon: flag-jo
+Unicode_character: 🇯🇴
 ---
-# [[Jordan]] 
+# [[Jordan]] 🇯🇴 
+
+
 
 ## [[Jordan]] has Properties...
 

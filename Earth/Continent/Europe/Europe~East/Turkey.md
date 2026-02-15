@@ -1161,7 +1161,6 @@ X_Twitter_username: ekapi
 Wolfram_Language_entity_code: Entity["Country", "Turkey"]
 Colon_Classification: SG--591
 Krugosvet_article: strany_mira/TURTSIYA.html
-Unicode_character: "\U0001F1F9\U0001F1F7"
 CIVICUS_Monitor_country_entry: turkey
 GitHub_topic: turkey
 Commons_gallery: Türkiye
@@ -1217,9 +1216,8 @@ Languages:
 - av
 icon: flag-tr
 ---
-# [[Turkey]] 
 
-## [[Turkey]] has Properties... 
+# [[Turkey]] 🇹🇷 has Properties... 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

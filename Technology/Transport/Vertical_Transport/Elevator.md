@@ -120,7 +120,6 @@ Commons_category: Elevators
 Wolfram_Language_entity_code: Entity["Concept", "Elevator::2v7fm"]
 Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/LIFT.html
 OpenStreetMap_tag_or_key: Tag:highway=elevator
-Unicode_character: "\U0001F6D7"
 dv_has_:
   name_:
     af: hysbak
@@ -239,6 +238,7 @@ dv_has_:
     zh-my: 升降机
     zh-sg: 升降机
     zh-tw: 電梯
+Unicode_character: 🛗
 ---
 # [[Elevator]] 🛗 
 

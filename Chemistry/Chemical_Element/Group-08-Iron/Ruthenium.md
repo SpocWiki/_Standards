@@ -133,7 +133,6 @@ subclass_of:
 time_of_discovery_or_invention: 1844
 type: Element
 UMLS_CUI: C0035973
-Unicode_character: 釕
 UNII: 7UI0TKC3U5
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Ruthenium%20crystal%20grown%20using%20CVD%20is%20released.webm
 Wolfram_Language_entity_code: Entity["Mineral", "Ruthenium"]
@@ -368,8 +367,11 @@ dv_has_number_of_period: 5
 dv_has_number_of_group: 8
 dv_has_name_abbreviated: Ru
 dv_has_number_of_electrons: 44
+Unicode_character: 釕
 ---
-# [[Ruthenium]] 
+# [[Ruthenium]] 釕 
+
+
 
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Ruthenium,1086]] 

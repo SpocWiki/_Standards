@@ -872,9 +872,8 @@ GitHub_topic: cambodia
 IPA_transcription: kɑmˈbɔtʂɔ
 Krugosvet_article: strany_mira/KAMBODZHA.html
 ---
-# [[Cambodia]] 🇰🇭 
 
-## [[Cambodia]] has Properties 
+# [[Cambodia]] 🇰🇭 has Properties 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

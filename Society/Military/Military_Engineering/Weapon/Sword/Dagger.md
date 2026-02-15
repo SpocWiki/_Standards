@@ -79,7 +79,6 @@ Nomenclature_for_Museum_Cataloging: 8165
 Iconclass_notation: 45C13(DAGGER)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dagger%20MET%20sf26-145-43s1.jpg
 Commons_category: Daggers
-Unicode_character: "\U0001F5E1"
 dv_has_:
   name_:
     ady: къамэ
@@ -168,6 +167,7 @@ dv_has_:
     zh_hk: 匕首
     zh_sg: 匕首
     zh_tw: 匕首
+Unicode_character: 🗡
 ---
 # [[Dagger]] 🗡 
 

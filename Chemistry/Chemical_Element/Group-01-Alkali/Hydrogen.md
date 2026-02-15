@@ -237,7 +237,6 @@ thermal_conductivity: 0.1805
 time_of_discovery_or_invention: 1766
 type: Element
 UMLS_CUI: C0020275
-Unicode_character: 氫
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Hydrogen%20balloon%20explosion%202.webm
 Wolfram_Language_entity_code: Entity["Element", "Hydrogen"]
 dv_has_:
@@ -564,8 +563,11 @@ dv_is_same_as:
 - '[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.private|Hydrogen.private]]'
 - '[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.personal|Hydrogen.personal]]'
 - '[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.secret|Hydrogen.secret]]'
+Unicode_character: 氫
 ---
-# [[Hydrogen]] 
+# [[Hydrogen]] 氫 
+
+
 
 
 #chemic/Element 

@@ -168,7 +168,6 @@ MeSH_tree_code:
 - J01.516.872
 Colon_Classification: F9496
 Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/MILO.html
-Unicode_character: "\U0001F9FC"
 dv_has_:
   name_:
     af: Seep
@@ -335,8 +334,11 @@ dv_has_:
     zh_hant: 肥皂
     zh_tw: 肥皂
     zu: Insipho
+Unicode_character: 🧼
 ---
-# [[Soap]] 
+# [[Soap]] 🧼 
+
+
 
 #is_/same_as :: [[WD~Soap,34396]] 
 

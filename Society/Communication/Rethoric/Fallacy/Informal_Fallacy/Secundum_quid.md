@@ -19,6 +19,8 @@ dv_has_:
     tr: a dicto simpliciter
     uk: Secundum quid
 ---
+# [[Secundum_quid]]  
+
 ## #has_/text_of_/abstract 
 
 > **Secundum quid** (also called secundum quid et simpliciter, 

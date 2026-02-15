@@ -118,7 +118,6 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Zaag-ar
 Iconclass_notation: 47D8(SAW)
 MCN_code: 8202.10.00
 Commons_category: Saws
-Unicode_character: "\U0001FA9A"
 dv_has_:
   name_:
     af: Saag
@@ -253,6 +252,7 @@ dv_has_:
     zh-hk: 鋸
     zh-sg: 锯
     zh-tw: 鋸
+Unicode_character: 🪚
 ---
 # [[Saw]] 🪚 
 

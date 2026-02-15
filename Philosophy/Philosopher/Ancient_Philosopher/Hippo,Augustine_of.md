@@ -434,6 +434,8 @@ dv_has_:
     zh: 奥古斯丁
     zh_cn: 希波的奥古斯丁
 ---
+# [[Hippo,Augustine_of]]  
+
 ## #has_/text_of_/abstract 
 
 > **Augustine of Hippo** ( Latin: Aurelius Augustinus Hipponensis; 13 November 354 – 28 August 430), 

@@ -223,7 +223,6 @@ subclass_of:
 - '[[_Standards/WikiData/WD~shelf-stable_food,7493597]]'
 - '[[_Standards/WikiData/WD~food_ingredient,25403900]]'
 - '[[_Standards/WikiData/WD~cereal_grain,12117]]'
-Unicode_character: "\U0001F35A"
 UNSPSC_Code: 10151701
 U_S_National_Archives_Identifier: 10647207
 water_footprint:
@@ -479,6 +478,7 @@ dv_has_:
     zh_hans: 稻
     zh_hant: 稻米
     zu: ilayisi
+Unicode_character: 🍚
 ---
 # [[Rice]] 🍚 
 

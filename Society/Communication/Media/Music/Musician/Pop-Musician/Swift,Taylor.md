@@ -218,6 +218,8 @@ dv_has_:
     zh_sg: 泰勒丝
     zh_tw: 泰勒絲
 ---
+# [[Swift,Taylor]]  
+
 ## #has_/text_of_/abstract 
 
 > Taylor Alison Swift (born December 13, 1989) is an American singer-songwriter. 

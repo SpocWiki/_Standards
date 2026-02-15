@@ -133,7 +133,6 @@ schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%2
 SpocWebEntityId: 21984
 time_of_discovery_or_invention: 1899
 type: Element
-Unicode_character: 錒
 UNII: NIK1K0956U
 dv_is_:
   same_as:
@@ -366,6 +365,7 @@ dv_has_number_of_period: 7
 dv_has_number_of_group: 3
 dv_has_name_abbreviated: Ac
 dv_has_number_of_electrons: 89
+Unicode_character: 錒
 ---
 # [[Actinium]] 錒 
 

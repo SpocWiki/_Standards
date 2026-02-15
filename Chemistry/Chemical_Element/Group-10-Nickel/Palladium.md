@@ -148,7 +148,6 @@ subclass_of:
 time_of_discovery_or_invention: 1803
 type: Element
 UMLS_CUI: C0030230
-Unicode_character: 鈀
 UNII: 5TWQ1V240M
 UNSPSC_Code: 11101718
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Palladium%20crystal%20grown%20using%20CVD.webm
@@ -386,8 +385,11 @@ dv_is_same_as:
 - '[[/_secret/Chemistry/Chemical_Element/Group-10-Nickel/Palladium.secret|Palladium.secret]]'
 dv_has_name_abbreviated: Pd
 dv_has_number_of_electrons: 46
+Unicode_character: 鈀
 ---
-# [[Palladium]] 
+# [[Palladium]] 鈀 
+
+
 
 #chemic/Element 
 

@@ -238,7 +238,9 @@ dv_has_:
     zh-sg: 德士
     zh-tw: 計程車
 ---
-# [[Taxi]] 🚖 
+# [[Taxi]] 🚕 
+
+
 
 #is_/same_as :: [[../../../WikiData/WD~Taxi,82650|WD~Taxi,82650]]  
 

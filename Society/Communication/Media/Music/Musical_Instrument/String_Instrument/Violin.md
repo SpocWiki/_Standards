@@ -162,7 +162,6 @@ playing_range_image: http://commons.wikimedia.org/wiki/Special:FilePath/Range%20
 said_to_be_the_same_as: '[[_Standards/WikiData/WD~fiddle,510487]]'
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Viool-article.ogg
 subclass_of: '[[_Standards/WikiData/WD~bowed_string_instrument,192096]]'
-Unicode_character: "\U0001F3BB"
 used_by: '[[_Standards/WikiData/WD~violinist,1259917]]'
 U_S_National_Archives_Identifier: 10645208
 dv_has_:
@@ -341,6 +340,7 @@ dv_has_:
     zh_hans: 小提琴
     zh_hant: 小提琴
     zh_tw: 小提琴
+Unicode_character: 🎻
 ---
 # [[Violin]] 🎻 
 

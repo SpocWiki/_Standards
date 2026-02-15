@@ -27,6 +27,8 @@ aliases:
 - Список об'єктів реєстру «Пам'ять світу» в Європі й Північній Америці
 - 欧洲和北美洲世界记忆名录
 ---
+# [[Transatlantic-MoW]]  
+
 > The International Register of the UNESCO Memory of the World-Programme 
 > includes inscriptions from Europe and North America. 
 > As of December 2018, the region has 274 (or 52%) inscriptions 

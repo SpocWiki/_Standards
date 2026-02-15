@@ -367,7 +367,6 @@ taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
 this_taxon_is_source_of:
 - '[[_Standards/WikiData/WD~potato_starch,715160]]'
 - '[[_Standards/WikiData/WD~potato,16587531]]'
-Unicode_character: "\U0001F954"
 UNII: 2A8I57T4MX
 parent_taxon: '[[../../../../../../../../../../../../../../WikiData/WD~Solanum,146555]]'
 dv_has_:
@@ -642,6 +641,7 @@ dv_has_:
     zh_sg: 马铃薯
     zh_tw: 馬鈴薯
     zu: Izambane
+Unicode_character: 🥔
 ---
 # [[Potato]] 🥔 
 

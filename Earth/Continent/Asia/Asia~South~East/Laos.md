@@ -802,7 +802,6 @@ INSEE_countries_and_foreign_territories_code: 99241
 WIPO_ST_3: LA
 FIPS_10_4_countries_and_regions_: LA
 ISO_3166_1_alpha_2_code: LA
-Unicode_character: "\U0001F1F1\U0001F1E6"
 ITU_letter_code: LAO
 IOC_country_code: LAO
 licence_plate_code: LAO
@@ -842,8 +841,11 @@ Languages:
 - lo
 - fr
 - en
+Unicode_character: 🇱🇦
 ---
-# [[Laos]] 
+# [[Laos]] 🇱🇦 
+
+
 
 ## [[Laos]] has Properties 
 

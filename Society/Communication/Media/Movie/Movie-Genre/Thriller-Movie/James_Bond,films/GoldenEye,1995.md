@@ -117,6 +117,8 @@ aliases:
 - 新鐵金剛之金眼睛
 - 黄金眼
 ---
+# [[GoldenEye,1995]]  
+
 ## #has_/text_of_/abstract 
 
 > **GoldenEye** is a 1995 spy film, the seventeenth in the James Bond series produced by Eon Productions,

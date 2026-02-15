@@ -196,6 +196,8 @@ dv_has_:
     zh_tw: 傑佛瑞·辛頓
     zu: Geoffrey Hinton
 ---
+# [[Hinton,Geoffrey]]  
+
 ## #has_/text_of_/abstract 
 
 > Geoffrey Everest Hinton  (born 6 December 1947) 

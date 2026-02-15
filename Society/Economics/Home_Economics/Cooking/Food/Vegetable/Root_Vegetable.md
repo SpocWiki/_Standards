@@ -83,7 +83,6 @@ water_footprint:
 - 0.47
 - 387
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Carrots%20with%20stems.jpg
-Unicode_character: "\U0001FADC"
 pronunciation_audio:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Fr-l%C3%A9gume%20racine.ogg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Ka-dzirkhvena.ogg
@@ -170,8 +169,11 @@ dv_has_:
     zh: 根菜
     zh_hans: 根菜
     zh_hant: 根菜
+Unicode_character: 🫜
 ---
-# [[Root_Vegetable]] 
+# [[Root_Vegetable]] 🫜 
+
+
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Root_vegetable,20136|WD~Root_vegetable,20136]] 
 

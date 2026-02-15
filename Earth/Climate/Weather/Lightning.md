@@ -392,7 +392,9 @@ dv_has_:
     zh_hant: 閃電
     zh_tw: 閃電
 ---
-# [[Lightning]] 
+
+# [[Lightning]] ⚡ 
+
 
 #is_/same_as :: [[WD~Lightning,33741]] 
 

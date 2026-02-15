@@ -107,7 +107,6 @@ said_to_be_the_same_as:
 - '[[_Standards/WikiData/WD~ame,17238884]]'
 subclass_of: '[[_Standards/WikiData/WD~confection,5159627]]'
 UMLS_CUI: C0006855
-Unicode_character: ??
 U_S_National_Archives_Identifier: 10636889
 booru_tag: candy
 IMDb_keyword: candy
@@ -221,8 +220,11 @@ dv_has_:
     zh: 糖果
     zh_hant: 糖果
     zh_tw: 糖果
+Unicode_character: 🍬
 ---
-# [[Candy]] 
+# [[Candy]] 🍬 
+
+
 
 #is_/same_as :: [[../../../../../WikiData/WD~Candy,185583|WD~Candy,185583]] 
 

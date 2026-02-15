@@ -152,6 +152,8 @@ aliases:
 - ꯊꯧꯗꯥꯡ
 - 역할
 ---
+# [[Role]]  
+
 ## #has_/text_of_/abstract 
 
 > A **Role** (also rôle or social role) is a set of connected behaviors, rights, obligations, beliefs, and norms as conceptualized by people in a social situation. It is an 

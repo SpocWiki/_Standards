@@ -145,7 +145,6 @@ Wolfram_Language_entity_type: Satellite
 U_S_National_Archives_Identifier: 10639092
 time_of_discovery_or_invention: 1957-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Luna%201%20-%202%20Spacecraft.png
-Unicode_character: "\U0001F6F0"
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/ConstellationGPS.gif
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Geosynchronous%20orbit.gif
 Colon_Classification: B97894
@@ -334,8 +333,11 @@ dv_has_:
     zh_sg: 人造卫星
     zh_tw: 人造衛星
     zu: Isivoko
+Unicode_character: 🛰
 ---
-# [[Satellite]] 
+# [[Satellite]] 🛰 
+
+
 
 #is_/same_as :: [[WD~Satellite,26540]]  
 

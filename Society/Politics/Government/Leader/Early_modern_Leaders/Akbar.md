@@ -260,6 +260,8 @@ dv_has_:
     za: Ahkezbah Daihdaeq
     zh: 阿克巴
 ---
+# [[Akbar]]  
+
 ## #has_/text_of_/abstract 
 
 > Abu'l-Fath Jalal-ud-din Muhammad **Akbar** (1542-10-15 – 1605-10-27, 

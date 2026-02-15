@@ -86,6 +86,8 @@ aliases:
 - 芽孢桿菌綱
 - 바킬루스강
 ---
+# [[Bacilli]]  
+
 ## #has_/text_of_/abstract 
 
 > **Bacilli** is a taxonomic class of bacteria that includes two orders, Bacillales and Lactobacillales, 

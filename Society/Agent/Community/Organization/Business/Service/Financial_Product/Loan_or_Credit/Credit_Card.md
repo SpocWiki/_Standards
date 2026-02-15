@@ -231,8 +231,11 @@ dv_has_:
     zh-my: 信用卡
     zh_sg: 信用卡
     zh_tw: 信用卡
+Unicode_character: 💳
 ---
-# [[Credit_Card]] 
+# [[Credit_Card]] 💳 
+
+
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Credit_card,161380|WD~Credit_card,161380]] 
 

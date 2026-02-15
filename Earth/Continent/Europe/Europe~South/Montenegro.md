@@ -828,7 +828,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/R-1%20regional%20road%
 country_calling_code: 382
 U_S_National_Archives_Identifier: 10046442
 Libris_URI: fcrtsnjz1zlrqm2
-Unicode_character: "\U0001F1F2\U0001F1EA"
 Colon_Classification: SG--592245
 Krugosvet_article: strany_mira/CHERNOGORIYA.html
 IPA_transcription:
@@ -865,9 +864,8 @@ Languages:
 - rom
 icon: flag-me
 ---
-# [[Montenegro]] 
 
-## [[Montenegro]] has Properties... 
+# [[Montenegro]] 🇲🇪 has Properties... 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

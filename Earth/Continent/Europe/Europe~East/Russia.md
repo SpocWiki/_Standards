@@ -1471,7 +1471,6 @@ Krugosvet_article: Earth_sciences/geografiya/ROSSIYA_ROSSISKAYA_FEDERATSIYA_RF.h
 Wolfram_Language_entity_code: Entity["Country", "Russia"]
 Facebook_username: MyCountryRussia
 IPA_transcription: rɐˈsʲijə
-Unicode_character: "\U0001F1F7\U0001F1FA"
 subreddit: russia
 hashtag:
 - russia
@@ -1533,9 +1532,8 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Kremlin%20Moscow.jpg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/LocationRussia.svg
 official_website: http://gov.ru/
 ---
-# [Russia](Russia) 
 
-## [[Russia]] has Properties... 
+# [[Russia]] 🇷🇺 has Properties... 
 
 has_previous_item = `=this.dv_has_previous_item`
 

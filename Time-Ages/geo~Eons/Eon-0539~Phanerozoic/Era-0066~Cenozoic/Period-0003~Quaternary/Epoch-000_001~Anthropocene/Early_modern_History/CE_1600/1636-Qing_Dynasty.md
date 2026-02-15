@@ -414,6 +414,8 @@ dv_is_same_as:
 - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1636-Qing_Dynasty.personal|1636-Qing_Dynasty.personal]]'
 - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Early_modern_History/CE_1600/1636-Qing_Dynasty.secret|1636-Qing_Dynasty.secret]]'
 ---
+# [[1636-Qing_Dynasty]]  
+
 #has_/time_/started :: `=this.has_time_started` 
 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

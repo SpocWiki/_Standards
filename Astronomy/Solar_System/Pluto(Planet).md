@@ -422,7 +422,9 @@ dv_has_:
     zh_tw: 冥王星
     zu: UPluto
 ---
-# [[Pluto(Planet)]] 
+# [[Pluto(Planet)]] ♇ 
+
+
 
 #is_/different_from :: [[../../WikiData/WD~Pluto,152262]] 
 #is_/same_as :: [[../../WikiData/WD~Pluto,339]] 

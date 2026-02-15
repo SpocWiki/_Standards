@@ -80,7 +80,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/WKF-Karate-World-Champ
 IPTC_NewsCode: mediatopic/20000983
 Krugosvet_article_archived_: sport/KARATE.html
 Baidu_Tieba_name: 空手道
-Unicode_character: "\U0001F94B"
 OpenStreetMap_tag: sport=karate
 dv_has_:
   name_:
@@ -222,6 +221,7 @@ dv_has_:
     zh_cn: 空手道
     zh_hant: 空手道
     zh_tw: 空手道
+Unicode_character: 🥋
 ---
 # [[Karate]]  🥋
 

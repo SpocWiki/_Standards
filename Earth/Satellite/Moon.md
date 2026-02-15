@@ -673,7 +673,9 @@ dv_has_:
     zh_tw: 月球
     zu: Inyanga
 ---
-# [[Moon]] 
+
+# [[Moon]] ☽ 
+
 
 #is_/same_as ::[[../../WikiData/WD~Moon,405]]] 
 

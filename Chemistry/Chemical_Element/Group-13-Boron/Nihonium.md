@@ -261,7 +261,9 @@ dv_has_:
     zh_tw: 鉨
     zu: UmNihombi
 ---
-# [[Nihonium]] 
+# [[Nihonium]] 鉨 
+
+
 
 #is_/same_as :: [[WD~Nihonium,1301]] 
 

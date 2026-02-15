@@ -62,6 +62,8 @@ aliases:
 - 美極
 - 마지
 ---
+# [[Maggi]]  
+
 #has_/taste :: [[Sensory_System/Taste/Savoriness]] 
 ## #has_/text_of_/abstract 
 

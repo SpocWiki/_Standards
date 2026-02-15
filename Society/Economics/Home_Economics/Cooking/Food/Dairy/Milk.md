@@ -276,7 +276,6 @@ subclass_of:
 topic_s_main_category: '[[_Standards/WikiData/WD~Q9019827,9019827]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Milk_navbox,18343332]]'
 UMLS_CUI: C0026131
-Unicode_character: "\U0001F95B"
 USDA_NDB_number:
 - 1059
 - 1084
@@ -597,6 +596,7 @@ dv_has_:
     zh_hant: 奶
     zh_tw: 奶
     zu: ubisi
+Unicode_character: 🥛
 ---
 # [[Milk]] 🥛 
 

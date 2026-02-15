@@ -112,6 +112,8 @@ aliases:
 - แอปเปิลมิวสิก
 - 애플 뮤직
 ---
+# [[Apple_Music]]  
+
 #is_/similar_to :: [[../../../../../_private/Society/Communication/Media/Podcast/Spotify]] 
 #is_/similar_to :: [[../../../../Society/Communication/Media/Movie/Movie-Genre/Media-Corporations/Streaming_Services/YouTube]] 
 #is_/similar_to :: [[Amazon_Music]] 

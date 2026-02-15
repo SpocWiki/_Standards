@@ -57,6 +57,8 @@ aliases:
 - 貝塔斯曼唱片
 - 贝塔斯曼唱片
 ---
+# [[BMG_Rights_Management]]  
+
 #is_a :: [[../../../../../Agent/Community/Organization/Company/Corporation|Corporation]] 
 
 > BMG Rights Management GmbH (also known simply as BMG) is an international music company 

@@ -281,7 +281,9 @@ dv_has_:
     za: Geuz
     zh: 剪刀
 ---
-# [[Scissors]] 
+# [[Scissors]] ✁ 
+
+
 
 #is_/same_as :: [[../../../../WikiData/WD~Scissors,40847|WD~Scissors,40847]]  
 

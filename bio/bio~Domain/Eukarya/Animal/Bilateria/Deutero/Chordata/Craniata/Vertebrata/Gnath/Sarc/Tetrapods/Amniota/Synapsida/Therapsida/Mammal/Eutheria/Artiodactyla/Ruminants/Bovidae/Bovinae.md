@@ -141,6 +141,8 @@ aliases:
 - 牛亞科
 - 소아과
 ---
+# [[Bovinae]]  
+
 ## #has_/text_of_/abstract 
 
 > Bovines (subfamily **Bovinae**) comprise a diverse group of 10 genera of medium to large-sized ungulates, including cattle, bison, African buffalo, water buffalos, and the four-horned and spiral-horned antelopes. The members of this group are classified into loose tribes rather than formal subgroups, as the evolutionary relationships within the groups are still uncertain. General characteristics include cloven hooves and usually at least one of the sexes of a species having true horns. The largest extant bovine is the gaur.

@@ -194,7 +194,6 @@ subclass_of:
 time_of_discovery_or_invention: 1807
 type: Element
 UMLS_CUI: C0032821
-Unicode_character: 鉀
 UNII: RWP5GA015D
 vapor_pressure: 41928.0364705
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Potassium%20metal%20in%20water.webm
@@ -466,8 +465,11 @@ dv_has_number_of_period: 4
 dv_has_number_of_group: 1
 dv_has_name_abbreviated: K
 dv_has_number_of_electrons: 19
+Unicode_character: 鉀
 ---
-# [[Potassium]] 
+# [[Potassium]] 鉀 
+
+
 
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Potassium,703]] 

@@ -385,7 +385,6 @@ inception: 1903
 has_time_started: 1903-06
 coordinate_location: Point(-80.366667 8.616667)
 coordinates_of_westernmost_point: Point(-83.0518 8.3335)
-Unicode_character: "\U0001F1F5\U0001F1E6"
 geoshape: http://commons.wikimedia.org/data/main/Data:Panama.map
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Panama.svg
 pronunciation_audio:
@@ -773,8 +772,11 @@ dv_is_same_as:
 - '[[/_personal/Earth/Continent/America~Central/Panama.personal|Panama.personal]]'
 - '[[/_secret/Earth/Continent/America~Central/Panama.secret|Panama.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/America-Panama
+Unicode_character: 🇵🇦
 ---
-# [[Panama]] 
+# [[Panama]] 🇵🇦 
+
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

@@ -588,8 +588,11 @@ dv_is_same_as:
 - '[[/_private/Earth/Continent/Europe/EU(European_Union).private|EU(European_Union).private]]'
 - '[[/_personal/Earth/Continent/Europe/EU(European_Union).personal|EU(European_Union).personal]]'
 - '[[/_secret/Earth/Continent/Europe/EU(European_Union).secret|EU(European_Union).secret]]'
+Unicode_character: 🇪🇺
 ---
-# [[EU(European_Union)]] 
+# [[EU(European_Union)]] 🇪🇺 
+
+
 
 ```dataviewjs
 const path = require('path');

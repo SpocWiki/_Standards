@@ -96,7 +96,6 @@ ITIS_TSN: 727503
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bradypus.jpg
 U_S_National_Archives_Identifier: 10646247
 OmegaWiki_Defined_Meaning: 710705
-Unicode_character: "\U0001F9A5"
 MeSH_tree_code: B01.050.150.900.649.313.999.750
 UMLS_CUI: C0037331
 Commons_gallery: Folivora
@@ -210,6 +209,7 @@ dv_has_:
     zh_cn: 树懒亚目
     zh_hans: 树懒亚目
     zh_tw: 樹懶亞目
+Unicode_character: 🦥
 ---
 # [[Sloth]] 🦥 
 

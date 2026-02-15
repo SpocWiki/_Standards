@@ -87,6 +87,8 @@ dv_has_:
     uz: Neper
     zh: 奈培
 ---
+# [[Neper]]  
+
 #is_/similar_to :: [[Decibel]] 
 #is_/similar_to :: [[Bit]] 
 

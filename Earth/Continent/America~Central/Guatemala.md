@@ -431,7 +431,6 @@ official_website: https://www.guatemala.gob.gt/
 country_calling_code: 502
 U_S_National_Archives_Identifier: 10044770
 Dewey_Decimal_Classification: 2--7281
-Unicode_character: "\U0001F1EC\U0001F1F9"
 CIVICUS_Monitor_country_entry: guatemala
 subreddit: guatemala
 GitHub_topic: guatemala
@@ -822,8 +821,11 @@ dv_is_same_as:
 - '[[/_private/Earth/Continent/America~Central/Guatemala.private|Guatemala.private]]'
 - '[[/_personal/Earth/Continent/America~Central/Guatemala.personal|Guatemala.personal]]'
 - '[[/_secret/Earth/Continent/America~Central/Guatemala.secret|Guatemala.secret]]'
+Unicode_character: 🇬🇹
 ---
-# [[Guatemala]] 
+# [[Guatemala]] 🇬🇹 
+
+
 
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`

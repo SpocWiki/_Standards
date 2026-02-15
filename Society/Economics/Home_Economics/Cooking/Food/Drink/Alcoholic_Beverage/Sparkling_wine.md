@@ -60,7 +60,6 @@ has_id_wikidata: Q321263
 has_part_s_: '[[_Standards/WikiData/WD~champagne,134862]]'
 described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 subclass_of: '[[_Standards/WikiData/WD~effervescent_wine,51909896]]'
-Unicode_character: "\U0001F37E"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rose%20champagne%20infinite%20bubbles.jpg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Mousserende%20wijn-article.ogg
 Common_Procurement_Vocabulary_code: 15931100
@@ -130,6 +129,7 @@ dv_has_:
     zh_hk: 氣泡酒
     zh_sg: 气泡酒
     zh_tw: 氣泡酒
+Unicode_character: 🍾
 ---
 # [[Sparkling_wine]] 🍾 
 

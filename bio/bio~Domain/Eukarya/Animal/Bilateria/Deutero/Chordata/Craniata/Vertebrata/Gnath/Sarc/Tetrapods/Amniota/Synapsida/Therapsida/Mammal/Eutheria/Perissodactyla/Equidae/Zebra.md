@@ -125,7 +125,6 @@ Library_of_Congress_Classification:
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Warum%20hat%20ein%20Zebra%20Streifen%3F.webm
 Dewey_Decimal_Classification: 599.6657
 Krugosvet_article: nauka_i_tehnika/biologiya/ZEBRI.html
-Unicode_character: "\U0001F993"
 dv_has_:
   name_:
     af: sebra
@@ -297,6 +296,7 @@ dv_has_:
     zh: 斑馬
     zh_hant: 斑馬
     zu: Idube
+Unicode_character: 🦓
 ---
 # [[Zebra]] 🦓 
 

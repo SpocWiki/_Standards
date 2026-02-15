@@ -55,6 +55,8 @@ dv_has_:
     uk: Георг Кершенштейнер
     zh: 格奥尔格·凯兴斯泰纳
 ---
+# [[Kerschensteiner,Georg]]  
+
 > Georg Michael Anton Kerschensteiner (July 29, 1854 in München – January 15, 1932 in München) 
 > was a German professor and educational theorist. 
 > 

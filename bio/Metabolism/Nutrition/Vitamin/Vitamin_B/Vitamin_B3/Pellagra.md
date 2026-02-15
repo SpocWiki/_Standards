@@ -90,6 +90,8 @@ aliases:
 - 糙皮病
 - 펠라그라
 ---
+# [[Pellagra]]  
+
 ## #has_/text_of_/abstract 
 
 > **Pellagra**  is a disease caused by a lack of the vitamin niacin (vitamin B3). Symptoms include inflamed skin, diarrhea, dementia, and sores in the mouth. Areas of the skin exposed to friction and radiation are typically affected first. Over time affected skin may become darker, stiffen, peel, or bleed.

@@ -86,7 +86,6 @@ MCN_code:
 Amazon_com_browse_node: 2256164011
 P8189: 987007284500005100
 FoodEx2_code: A022X
-Unicode_character: "\U0001F953"
 dv_has_:
   name_:
     ar: قديد الخنزير
@@ -170,6 +169,7 @@ dv_has_:
     zh: 培根肉
     zh_hant: 培根肉
     zh_sg: 培根
+Unicode_character: 🥓
 ---
 # [[Bacon]] 🥓 
 

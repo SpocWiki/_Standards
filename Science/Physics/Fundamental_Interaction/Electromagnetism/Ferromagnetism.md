@@ -68,7 +68,6 @@ facet_of: '[[_Standards/WikiData/WD~ferromagnetic_material,9259184]]'
 named_after: '[[_Standards/WikiData/WD~iron,677]]'
 OmegaWiki_Defined_Meaning: 1114551
 Commons_category: Ferromagnetism
-Unicode_character: "\U0001F9F2"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/MagnetEZ.jpg
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/ferromagnetism
 IEV_number: 121-12-41
@@ -156,6 +155,7 @@ dv_has_:
     zh_hk: 鐵磁性
     zh_sg: 铁磁性
     zh_tw: 鐵磁性
+Unicode_character: 🧲
 ---
 # [[Ferromagnetism]] 🧲 
 

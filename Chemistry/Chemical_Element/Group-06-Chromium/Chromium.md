@@ -187,7 +187,6 @@ time_of_discovery_or_invention: 1797
 time_weighted_average_exposure_limit: 0.5
 type: Element
 UMLS_CUI: C0008574
-Unicode_character: 鉻
 UNII: 0R0008Q3JB
 U_S_National_Archives_Identifier: 10646811
 vapor_pressure: 0
@@ -447,8 +446,11 @@ dv_has_number_of_period: 4
 dv_has_name_abbreviated: Cr
 dv_has_number_of_electrons: 24
 dv_has_number_of_group: 6
+Unicode_character: 鉻
 ---
-# [[Chromium]] 
+# [[Chromium]] 鉻 
+
+
 
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Chromium,725]] 

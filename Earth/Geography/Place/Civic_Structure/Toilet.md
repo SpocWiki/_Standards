@@ -154,7 +154,6 @@ GS1_GPC_code: 10002586
 Commons_gallery: Toilet
 IMDb_keyword: toilet
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Wc1.jpg
-Unicode_character: "\U0001F6BD"
 U_S_National_Archives_Identifier: 10662890
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Flushing%20the%20toilet.ogg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Toilet%20banner.JPG
@@ -317,6 +316,7 @@ dv_is_same_as:
 dv_is_part_of: https://pending.schema.org
 dv_has_parent_class: '[[../CivicStructure]]'
 dv_has_properties: '[ additionalProperty, additionalType, address, aggregateRating, alternateName, amenityFeature, branchCode, containedIn, containedInPlace, containsPlace, description, disambiguatingDescription, event, events, faxNumber, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasDriveThroughService, hasMap, identifier, image, isAccessibleForFree, isicV4, keywords, latitude, logo, longitude, mainEntityOfPage, map, maps, maximumAttendeeCapacity, name, openingHours, openingHoursSpecification, photo, photos, potentialAction, publicAccess, review, reviews, sameAs, slogan, smokingAllowed, specialOpeningHoursSpecification, subjectOf, telephone, tourBookingPage, url ]'
+Unicode_character: 🚽
 ---
 # [[Toilet]] 🚽 
 

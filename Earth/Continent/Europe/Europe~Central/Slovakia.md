@@ -167,7 +167,6 @@ aliases:
 - 슬로벤스꼬
 - "\U00010343\U0001033B\U00010330\U0001033F\U00010331\U00010330\U0001033A\U0001033E\U00010330"
 has_id_wikidata: Q214
-Unicode_character: "\U0001F1F8\U0001F1F0"
 icon: "\U0001F1F8\U0001F1F0"
 dv_ISO4217-currency_alphabetic: EUR
 dv_ISO4217-currency_name: Euro
@@ -943,8 +942,11 @@ expiryDate: ''
 Languages:
 - sk
 - hu
+Unicode_character: 🇸🇰
 ---
-# [[Slovakia]] 
+# [[Slovakia]] 🇸🇰 
+
+
 
 ## [[Slovakia]] has Properties...
 

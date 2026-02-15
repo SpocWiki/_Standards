@@ -826,7 +826,6 @@ ISO_3166_1_numeric_code: 524
 M49_code: 524
 maritime_identification_digits: 459
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Nepal.svg
-Unicode_character: "\U0001F1F3\U0001F1F5"
 INSEE_countries_and_foreign_territories_code: 99215
 urban_population:
 - 6309750
@@ -905,10 +904,9 @@ Languages:
 - ne
 - en
 icon: flag-np
+Unicode_character: 🇳🇵
 ---
-# [[Nepal]] 
-
-## [[Nepal]] has Properties...
+# [[Nepal]] 🇳🇵 has Properties...
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

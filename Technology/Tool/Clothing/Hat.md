@@ -158,7 +158,6 @@ U_S_National_Archives_Identifier: 10638671
 label_in_sign_language:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Chapeau%20Nm%202%201%201%20-%20Elix.webm
 - http://commons.wikimedia.org/wiki/Special:FilePath/Swl-hatt-14859.ogv
-Unicode_character: "\U0001F452"
 OpenStreetMap_tag: clothes=hats
 dv_has_:
   name_:
@@ -318,6 +317,7 @@ dv_has_:
     zh-cn: 帽子
     zh-hans: 帽子
     zh-hant: 帽子
+Unicode_character: 👒
 ---
 # [[Hat]] 👒 
 

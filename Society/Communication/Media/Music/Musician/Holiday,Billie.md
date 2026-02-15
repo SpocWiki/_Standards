@@ -131,6 +131,8 @@ dv_has_:
     zh_sg: 比莉·荷莉戴
     zh_tw: 比莉·哈樂黛
 ---
+# [[Holiday,Billie]]  
+
 #has_/time_/started :: 1915-04-07 
 #has_/time_/stopped :: 1959-07-17 
 

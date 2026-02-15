@@ -838,7 +838,6 @@ motto_text: Vienybė težydi
 coordinates_of_southernmost_point: Point(24.3520546 53.89695489)
 DPLA_subject_term: Lithuania
 hashtag: Lithuania
-Unicode_character: "\U0001F1F1\U0001F1F9"
 coordinates_of_northernmost_point: Point(24.88 56.45)
 Commons_gallery: Lietuva
 coordinate_location: Point(24.0 55.2)
@@ -886,10 +885,9 @@ Languages:
 - ru
 - pl
 icon: flag-lt
+Unicode_character: 🇱🇹
 ---
-# [[Lithuania]] 
-
-## [[Lithuania]] has Properties... 
+# [[Lithuania]] 🇱🇹  has Properties... 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

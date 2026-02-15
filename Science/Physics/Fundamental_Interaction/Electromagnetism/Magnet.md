@@ -245,8 +245,11 @@ aliases:
 - 磁鐵
 - 磁铁
 - 자석
+Unicode_character: 🧲
 ---
-# [[Magnet]] 
+# [[Magnet]] 🧲 
+
+
 
 #is_/same_as :: [[WD~Magnet,11421]] 
 

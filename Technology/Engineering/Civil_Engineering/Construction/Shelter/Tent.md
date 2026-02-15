@@ -209,7 +209,9 @@ dv_has_:
     zh_sg: 帐篷
     zh_tw: 帳篷
 ---
-# [[Tent]] 
+# [[Tent]] ⛺ 
+
+
 
 #is_/same_as :: [[../../../../../WikiData/WD~Tent,170544|WD~Tent,170544]]  
 

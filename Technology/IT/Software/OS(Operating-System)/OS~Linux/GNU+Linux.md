@@ -46,6 +46,8 @@ dv_has_:
     mul: GNU/Linux
     sr: ГНУ/Линукс
 ---
+# [[GNU+Linux]]  
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/Technology/IT/Software/OS(Operating-System)/OS~Linux/GNU+Linux|GNU+Linux]] 

@@ -414,7 +414,9 @@ dv_has_number_of_group: 17
 dv_has_name_abbreviated: I
 dv_has_number_of_electrons: 52
 ---
-# [[Iodine]] 
+
+# [[Iodine]] 碘 
+
 
 #is_/same_as :: [[../../../WikiData/WD~Iodine,1103]]  
 

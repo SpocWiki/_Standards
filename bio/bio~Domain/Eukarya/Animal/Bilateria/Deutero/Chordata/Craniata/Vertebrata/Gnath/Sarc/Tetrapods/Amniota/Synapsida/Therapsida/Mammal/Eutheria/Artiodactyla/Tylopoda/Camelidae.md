@@ -160,8 +160,11 @@ dv_has_:
     zh_hk: 駱駝科
     zh_sg: 骆驼科
     zh_tw: 駱駝科
+Unicode_character: 🐪
 ---
-# [[Camelidae]] 
+# [[Camelidae]] 🐪 
+
+
 
 ![ ](Camelidae/Camel/Camelus_bactrianus.jpg)
 

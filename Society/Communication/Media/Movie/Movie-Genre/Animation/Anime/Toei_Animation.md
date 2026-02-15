@@ -69,6 +69,8 @@ aliases:
 - 東映動畫
 - 도에이 애니메이션
 ---
+# [[Toei_Animation]]  
+
 > **Toei Animation** Co., Ltd. 
 > (Japanese: 東映アニメーション株式会社, Hepburn: Tōei Animēshon Kabushiki-gaisha, ) 
 > is a Japanese animation studio primarily controlled by its namesake Toei Company. 

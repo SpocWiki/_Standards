@@ -101,7 +101,6 @@ image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Backyard%20limes.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Lime%20CDC.jpg
 Commons_gallery: Lime
-Unicode_character: "\U0001F34B\U0001F7E9"
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Q13195-ar.ogg
 UNII: 8CZS546954
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-Lime%20fruit-article.ogg
@@ -210,8 +209,11 @@ dv_has_:
     zh: 青檸
     zh_hans: 青檸
     zh_hant: 萊姆
+Unicode_character: 🍋🟩
 ---
-# [[Lime(Fruit)]] 
+# [[Lime(Fruit)]] 🍋🟩 
+
+
 
 #is_/same_as :: [[WD~Lime,13195]] 
 

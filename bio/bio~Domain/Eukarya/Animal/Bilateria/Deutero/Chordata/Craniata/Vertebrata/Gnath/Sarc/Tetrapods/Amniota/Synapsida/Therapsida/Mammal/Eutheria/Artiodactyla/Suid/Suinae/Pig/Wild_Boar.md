@@ -241,7 +241,6 @@ Dewey_Decimal_Classification:
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Boar.Grwls%281%29.ogg
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Sus%20scrofa%20range%20map.jpg
 sequenced_genome_URL: http://www.ensembl.org/Sus_scrofa
-Unicode_character: "\U0001F417"
 UNII: 659O12FKBL
 FoodEx2_code: A056Y
 MeSH_tree_code: B01.050.150.900.649.313.500.880.399
@@ -439,6 +438,7 @@ dv_has_:
     zh_hans: 野猪
     zh_hant: 野豬
     zh_tw: 野豬
+Unicode_character: 🐗
 ---
 # [[Wild_Boar]] 🐗 
 

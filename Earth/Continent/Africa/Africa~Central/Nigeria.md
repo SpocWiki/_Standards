@@ -1408,7 +1408,6 @@ coordinate_location: Point(8.0 9.0)
 Wolfram_Language_entity_code:
 - Entity["Country", "Nigeria"]
 - Entity["HistoricalCountry", "Nigeria"]
-Unicode_character: "\U0001F1F3\U0001F1EC"
 GitHub_topic: nigeria
 CIVICUS_Monitor_country_entry: nigeria
 Colon_Classification: SG--654
@@ -1439,8 +1438,11 @@ layout: ''
 draft: false
 publishDate: ''
 expiryDate: ''
+Unicode_character: 🇳🇬
 ---
-# [[Nigeria]] 
+# [[Nigeria]] 🇳🇬 
+
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

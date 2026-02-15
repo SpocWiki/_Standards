@@ -925,7 +925,6 @@ ISO_3166_1_numeric_code: 231
 life_expectancy: 65.475
 OmegaWiki_Defined_Meaning: 8356
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Ethiopia.svg
-Unicode_character: "\U0001F1EA\U0001F1F9"
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20Ethiopia.svg
 FIPS_10_4_countries_and_regions_: ET
 ISO_3166_1_alpha_2_code: ET
@@ -988,8 +987,11 @@ Colon_Classification: SG--682
 Krugosvet_article: strany_mira/EFIOPIYA.html
 MeSH_tree_code: Z01.058.290.120.310
 Commons_gallery: ኢትዮጵያ
+Unicode_character: 🇪🇹
 ---
-# [[Ethiopia]] 
+
+# [[Ethiopia]] 🇪🇹 
+
 
 ## [[Ethiopia]] has properties...
 

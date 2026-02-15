@@ -97,7 +97,6 @@ atomic_number: 112
 OmegaWiki_Defined_Meaning: 368710
 Commons_gallery: Copernicium
 Commons_category: Copernicium
-Unicode_character: 鎶
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Copernicium.svg
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Elektronskal%20112.png
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-copernicium.oga
@@ -271,8 +270,11 @@ dv_has_:
     zh_sg: 鿔
     zh_tw: 鎶
     zu: IChusinimbi
+Unicode_character: 鎶
 ---
-# [[Copernicium]] 
+# [[Copernicium]] 鎶 
+
+
 
 #is_/same_as :: [[../../../WikiData/WD~Copernicium,1278|WD~Copernicium,1278]] 
 

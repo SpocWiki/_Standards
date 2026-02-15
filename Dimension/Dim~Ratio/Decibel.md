@@ -137,7 +137,9 @@ dv_has_:
     yue: 分貝
     zh: 分貝
 ---
-# [[Decibel]] 
+# [[Decibel]] ㏈ 
+
+
 
 #is_/similar_to :: [[Bit]] 
 #is_/similar_to :: [[Neper]] 

@@ -696,7 +696,6 @@ IAB_code: 1475
 life_expectancy: 64.953
 OmegaWiki_Defined_Meaning: 8456
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Yemen.svg
-Unicode_character: "\U0001F1FE\U0001F1EA"
 ISO_3166_1_alpha_3_code: YEM
 ITU_letter_code: YEM
 IOC_country_code: YEM
@@ -747,8 +746,11 @@ hashtag: Yemen
 Commons_gallery: اليمن
 official_name: الجمهورية اليمنية
 native_label: الجمهوريّة اليمنية
+Unicode_character: 🇾🇪
 ---
-# [[Yemen~Republic]] 
+# [[Yemen~Republic]] 🇾🇪 
+
+
 
 ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3` 

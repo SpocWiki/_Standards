@@ -102,7 +102,6 @@ aliases:
 - 탁구
 has_id_wikidata: Q3930
 Baidu_Tieba_name: 乒乓球
-Unicode_character: "\U0001F3D3"
 name:
 - Gossima
 - Ping Pong
@@ -280,6 +279,7 @@ dv_has_:
     zh_mo: 乒乓球
     zh_sg: 乒乓球
     zh_tw: 桌球
+Unicode_character: 🏓
 ---
 # [[Table_Tennis]] 🏓 
 

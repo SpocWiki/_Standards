@@ -224,7 +224,6 @@ subclass_of:
 - '[[_Standards/WikiData/WD~physical_phenomenon,1293220]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Fire,30312828]]'
 UMLS_CUI: C0700614
-Unicode_character: "\U0001F525"
 U_S_National_Archives_Identifier:
 - 10636978
 - 10640555
@@ -484,6 +483,7 @@ dv_has_:
     zh: 火
     zh_hans: 火
     zh_hant: 火
+Unicode_character: 🔥
 ---
 # [[Fire]] 🔥 
 

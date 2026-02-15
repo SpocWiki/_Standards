@@ -215,6 +215,8 @@ dv_has_:
     yue: 薩滿教
     zh: 薩滿教
 ---
+# [[Shamanism]]  
+
 #is_/same_as :: [[WD~Shamanism,42042]] 
 
 ## #has_/text_of_/abstract 

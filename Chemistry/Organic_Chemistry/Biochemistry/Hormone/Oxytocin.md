@@ -163,6 +163,8 @@ aliases:
 - 催產素
 - 옥시토신
 ---
+# [[Oxytocin]]  
+
 ## #has_/text_of_/abstract 
 
 > **Oxytocin** is a peptide hormone and neuropeptide 

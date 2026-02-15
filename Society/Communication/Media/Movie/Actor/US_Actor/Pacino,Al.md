@@ -207,6 +207,8 @@ dv_has_:
     zh_sg: 阿尔·柏仙奴
     zu: Al Pacino
 ---
+# [[Pacino,Al]]  
+
 #has_/time_/started :: 1940-04-25 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 

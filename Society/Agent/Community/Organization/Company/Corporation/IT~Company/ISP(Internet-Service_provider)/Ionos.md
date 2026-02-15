@@ -22,6 +22,8 @@ aliases:
 - Ionos
 - یونوس
 ---
+# [[Ionos]]  
+
 ## #has_/text_of_/abstract 
 
 > **Ionos** SE ([iː'ɔnɔs]; proper spelling IONOS) is a German Internet service provider 

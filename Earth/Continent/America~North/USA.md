@@ -1009,7 +1009,6 @@ total_fertility_rate: 1.665
 type: Country
 UMLS_CUI: C0041703
 unemployment_rate: 6.7
-Unicode_character: "\U0001F1FA\U0001F1F8"
 urban_population:
 - 276895219
 - 270737596
@@ -1467,8 +1466,11 @@ dv_has_sound_of_anthem: '[[../../../../_public/xLarge.public/National-Anthem/Ant
 dv_has_image_for_flag: '[[./USA/Flag_of_the_United_States.svg|Flag_of_the_United_States.svg|200]]'
 dv_has_telephone_prefix_international: 11
 dv_has_telephone_prefix_country: 1
+Unicode_character: 🇺🇸
 ---
-# [[USA]] 
+# [[USA]] 🇺🇸 
+
+
 
 #has_/time_/started :: 1776-07-04 
 #has_/duration_ :: `=(default(this.has_time_stopped,date(now)) - this.has_time_started)`  

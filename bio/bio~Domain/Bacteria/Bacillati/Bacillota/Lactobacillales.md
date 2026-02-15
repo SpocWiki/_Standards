@@ -79,6 +79,8 @@ aliases:
 - 乳酸菌
 - 유산균
 ---
+# [[Lactobacillales]]  
+
 ## #has_/text_of_/abstract 
 
 > **Lactobacillales** are an order of gram-positive, low-GC, acid-tolerant, generally nonsporulating, nonrespiring, 

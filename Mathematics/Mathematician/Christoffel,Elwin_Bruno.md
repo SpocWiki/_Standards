@@ -58,6 +58,8 @@ dv_has_:
     uk: Елвін Бруно Крістоффель
     zh: 埃尔温·布鲁诺·克里斯托费尔
 ---
+# [[Christoffel,Elwin_Bruno]]  
+
 ## #has_/text_of_/abstract 
 
 > **Elwin Bruno Christoffel** (German: [kʁɪˈstɔfl̩]; 10 November 1829 – 15 March 1900) 

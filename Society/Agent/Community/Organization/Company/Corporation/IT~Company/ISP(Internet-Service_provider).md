@@ -156,6 +156,8 @@ aliases:
 - 網路服務提供者
 - 인터넷 서비스 제공자
 ---
+# [[ISP(Internet-Service_provider)]]  
+
 ## #has_/text_of_/abstract 
 
 > An **Internet service provider** (ISP) is an organization that provides a myriad of 

@@ -346,7 +346,9 @@ dv_has_:
     zh-sg: 宇航员
     zh-tw: 太空人
 ---
-# [[Astronaut]] 👩🏻🚀 
+# [[Astronaut]] 👨🚀 
+
+
 
 #is_/same_as :: [[../../../WikiData/WD~Astronaut,11631|WD~Astronaut,11631]] 
 

@@ -77,6 +77,8 @@ dv_has_:
     zh: 約翰·大衛·華盛頓
     zh_hant: 約翰·大衛·華盛頓
 ---
+# [[Washington,John_David]]  
+
 #has_/time_/started :: 1984-07-28 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 

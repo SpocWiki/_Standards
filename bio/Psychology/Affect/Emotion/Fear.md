@@ -136,7 +136,6 @@ Iconclass_notation: 56DD1
 hashtag: scared
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Scared%20Child%20at%20Nighttime.jpg
 Stack_Exchange_tag: https://psychology.stackexchange.com/tags/fear
-Unicode_character: "\U0001F628"
 P8189: 987007529153305200
 UMLS_CUI: C0015726
 MeSH_tree_code: F01.470.361
@@ -273,6 +272,7 @@ dv_has_:
     zh: 恐惧
     zh_hans: 恐惧
     zh_hant: 恐懼
+Unicode_character: 😨
 ---
 # [[Fear]] 😨 
 

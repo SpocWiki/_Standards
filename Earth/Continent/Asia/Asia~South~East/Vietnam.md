@@ -1062,16 +1062,15 @@ type: Country
 UIC_alphabetical_country_code: VN
 UIC_numerical_country_code: 32
 unemployment_rate: 2
-Unicode_character: "\U0001F1FB\U0001F1F3"
 urban_population: 36564680
 U_S_National_Archives_Identifier: 10035814
 VAT_rate: 10
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Vietnam,7112510]]'
 WIPO_ST_3: VN
+Unicode_character: 🇻🇳
 ---
-# [[Vietnam]] 
 
-## [[Vietnam]] has Properties 
+# [[Vietnam]] 🇻🇳 has Properties 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

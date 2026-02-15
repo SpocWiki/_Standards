@@ -202,7 +202,9 @@ dv_has_:
     zh_sg: 哭
     zh_tw: 哭
 ---
-# [[Crying]] 😭 
+# [[Crying]] 😢 
+
+
 
 #is_/same_as :: [[../../../../WikiData/WD~Crying,152247|WD~Crying,152247]] 
 

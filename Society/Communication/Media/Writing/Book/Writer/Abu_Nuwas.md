@@ -247,6 +247,8 @@ dv_has_:
     za: Abu Nuwas
     zh: 阿布·努瓦斯
 ---
+# [[Abu_Nuwas]]  
+
 ## #has_/text_of_/abstract 
 
 > **Abu Nuwas** (أبو نواس, Abū Nuwās) (c. 756 – c. 814) was a classical Arabic poet, 

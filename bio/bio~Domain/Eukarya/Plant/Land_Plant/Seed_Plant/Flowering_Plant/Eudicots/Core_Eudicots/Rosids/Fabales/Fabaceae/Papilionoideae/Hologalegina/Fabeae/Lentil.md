@@ -217,6 +217,8 @@ dv_has_:
     zh_sg: 小扁豆
     zh_tw: 小扁豆
 ---
+# [[Lentil]]  
+
 ## #has_/text_of_/abstract 
 
 > The **Lentil** (Vicia lens or Lens culinaris) is an annual legume 

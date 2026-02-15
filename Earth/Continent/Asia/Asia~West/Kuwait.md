@@ -715,7 +715,6 @@ urban_population:
 number_of_out_of_school_children: 49553
 life_expectancy: 74.694
 GitHub_topic: kuwait
-Unicode_character: "\U0001F1F0\U0001F1FC"
 Libris_URI: nl021sm606xg5sg
 Krugosvet_article: strany-mira/kuveyt
 Commons_gallery: الكويت / Kuwait
@@ -764,8 +763,11 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/KWT%20orth
 official_website: https://www.e.gov.kw/
 country_calling_code: 965
 CIVICUS_Monitor_country_entry: kuwait
+Unicode_character: 🇰🇼
 ---
-# [[Kuwait]] 
+# [[Kuwait]] 🇰🇼 
+
+
 
 ## [[Kuwait]] has Properties 
 

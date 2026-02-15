@@ -101,7 +101,6 @@ has_id_wikidata: Q800
 subreddit: costarica
 CIVICUS_Monitor_country_entry: costa-rica
 hashtag: CostaRica
-Unicode_character: "\U0001F1E8\U0001F1F7"
 Colon_Classification: SG--758
 Krugosvet_article: strany-mira/kosta-rika
 demonym:
@@ -759,8 +758,11 @@ dv_is_same_as:
 - '[[/_secret/Earth/Continent/America~Central/Costa_Rica.secret|Costa_Rica.secret]]'
 dv_is_different_from: '[[../America~Caribbean/Greater_Antilles/Puerto_Rico|Puerto_Rico]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/America-Costa_Rica
+Unicode_character: 🇨🇷
 ---
-# [[Costa_Rica]] 
+# [[Costa_Rica]] 🇨🇷 
+
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

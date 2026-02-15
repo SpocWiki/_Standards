@@ -41,6 +41,8 @@ dv_has_:
     uk: Бідолашні створіння (роман)
     zh: 可憐的東西
 ---
+# [[Poor_Things]]  
+
 #is_a ::  [[Born_yesterday-Trope]] 
 
 ## #has_/text_of_/abstract 

@@ -86,6 +86,8 @@ aliases:
 - แอปเปิลวอตช์
 - 애플 워치
 ---
+# [[Apple_Watch]]  
+
 I have an SE (1st) LTE 
 
 ## #has_/text_of_/abstract 

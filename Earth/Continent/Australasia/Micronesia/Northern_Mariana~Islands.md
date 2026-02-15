@@ -388,7 +388,10 @@ dv_has_:
     zh-my: 北马里亚纳群岛
     zh_sg: 北马里亚纳群岛
     zh_tw: 北馬里亞納群島
+Unicode_character: 🇲🇵
 ---
+# [[Northern_Mariana~Islands]] 🇲🇵 
+
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 
 ISO4217-currency_numeric = `=this.dv_ISO4217-currency_numeric` 

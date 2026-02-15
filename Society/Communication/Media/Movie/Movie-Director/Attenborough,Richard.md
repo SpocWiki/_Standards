@@ -130,6 +130,8 @@ dv_has_:
     zh-my: 李察·艾登保禄
     zh_sg: 李察·艾登保禄
 ---
+# [[Attenborough,Richard]]  
+
 #has_/sibling :: [[Attenborough,David]]
 
 #has_/time_/started :: 1923-08-29 

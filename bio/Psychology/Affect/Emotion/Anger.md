@@ -281,7 +281,9 @@ dv_has_:
     zh_hans: 愤怒
     zh_hant: 憤怒
 ---
-# [[Anger]] 😡 
+# [[Anger]] 💢 😠 😡 
+
+
 
 #is_/same_as :: [[../../../../WikiData/WD~Anger,79871]] 
 

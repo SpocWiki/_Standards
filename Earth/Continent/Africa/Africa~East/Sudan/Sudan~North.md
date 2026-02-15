@@ -795,7 +795,6 @@ trunk_prefix: 0
 type: Country
 UMLS_CUI: C0038642
 unemployment_rate: 15
-Unicode_character: "\U0001F1F8\U0001F1E9"
 urban_population:
 - 15103564
 - 15666605
@@ -805,8 +804,11 @@ U_S_National_Archives_Identifier: 10035841
 VAT_rate: 17
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Sudan,7112466]]'
 WIPO_ST_3: SD
+Unicode_character: 🇸🇩
 ---
-# [[Sudan~North]] 
+
+# [[Sudan~North]] 🇸🇩 
+
 
 ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3`

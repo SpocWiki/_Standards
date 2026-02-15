@@ -120,6 +120,8 @@ aliases:
 - 新鐵金剛：智破天凶城
 - 空降危机
 ---
+# [[Skyfall,2012]]  
+
 ## #has_/text_of_/abstract 
 
 > **Skyfall** is a 2012 spy film and the twenty-third in the James Bond series produced by Eon Productions. 

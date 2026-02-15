@@ -392,6 +392,8 @@ dv_has_:
     zh_sg: 植物学
     zh_tw: 植物學
 ---
+# [[Botany]]  
+
 #has_/complement :: [[Zoology]] 
 #is_/same_as :: [[../../../../WikiData/WD~Botany,441|WD~Botany,441]] 
 

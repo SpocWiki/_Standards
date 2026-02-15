@@ -209,8 +209,11 @@ dv_has_:
     zh_cn: 猛犸象属
     zh_hans: 猛犸象属
     zh_tw: 猛獁象屬
+Unicode_character: 🦣
 ---
-# [[Mammoth]] 
+# [[Mammoth]] 🦣 
+
+
 
 Mammoths 
 

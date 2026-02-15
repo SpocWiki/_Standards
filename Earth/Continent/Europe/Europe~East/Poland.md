@@ -1103,7 +1103,6 @@ urban_population:
 - 22793332
 Commons_gallery: Polska
 Image_Archive_Herder_Institute: Q36
-Unicode_character: "\U0001F1F5\U0001F1F1"
 subreddit:
 - polska
 - poland
@@ -1135,12 +1134,12 @@ Wolfram_Language_entity_code:
 Libris_URI: fcrtsr1z0mdxhjq
 Colon_Classification: SG--595
 Krugosvet_article: strany_mira/POLSHA.html
+Unicode_character: 🇵🇱
 ---
-# [[Poland]] 
+# [[Poland]] 🇵🇱 
+
 
 #is_a_/Country 
-
-
 
  is_a = `=this.dv_is_a_`
 has_place_longitude = `=this.dv_has_place_longitude` 

@@ -101,6 +101,8 @@ aliases:
 - 海灘男孩
 - 비치 보이스
 ---
+# [[Beach_Boys]]  
+
 ## #has_/text_of_/abstract 
 
 > The Beach Boys are an American rock band formed in Hawthorne, California, in 1961. The group's original lineup consisted of brothers Brian, Dennis, and Carl Wilson, their cousin Mike Love, and their friend Al Jardine. Distinguished by their vocal harmonies, adolescent-oriented lyrics, and musical ingenuity, they are one of the most influential acts of the rock era. The group drew on the music of older pop vocal groups, 1950s rock and roll, and black R&B to create their unique sound. Under Brian's direction, they often incorporated classical or jazz elements and pioneered unconventional recording techniques in innovative ways.

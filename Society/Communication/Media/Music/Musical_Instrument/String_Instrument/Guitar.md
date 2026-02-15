@@ -168,7 +168,6 @@ subclass_of:
 subreddit: Guitar
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_guitar_model,10563739]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Guitar,14615774]]'
-Unicode_character: "\U0001F3B8"
 used_by: '[[_Standards/WikiData/WD~guitarist,855091]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Erik%20Mongrain-AirTap.ogv
 dv_has_:
@@ -379,6 +378,7 @@ dv_has_:
     zh_sg: 吉他
     zh_tw: 吉他
     zu: Isigingci
+Unicode_character: 🎸
 ---
 # [[Guitar]] 🎸 
 

@@ -86,6 +86,8 @@ dv_has_:
     zh_sg: 巴里·索南菲尔德
     zh_tw: 巴里·索南菲爾德
 ---
+# [[Sonnenfeld,Barry]]  
+
 #has_/time_/started :: 1953-04-01 
 Age: `$=Math.round((new Date() - dv.current().has_time_started)/365.2425/24/60/60/1000)`
 

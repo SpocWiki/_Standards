@@ -29,6 +29,8 @@ aliases:
 - Ур-фашизм
 - הפשיזם הנצחי
 ---
+# [[Ur-Fascism]]  
+
 ^
 ## #has_/text_of_/abstract 
 

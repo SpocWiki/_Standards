@@ -110,7 +110,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Plastic-compass.jpg
 IMDb_keyword: compass
 Commons_category: Compasses
 Iconclass_notation: 25C21
-Unicode_character: "\U0001F9ED"
 video: http://commons.wikimedia.org/wiki/Special:FilePath/17.%20%D0%95%D1%81%D1%82%D0%B5%D1%80%D0%B4%D0%BE%D0%B2%20%D0%B5%D0%BA%D1%81%D0%BF%D0%B5%D1%80%D0%B8%D0%BC%D0%B5%D0%BD%D1%82.ogv
 Dewey_Decimal_Classification: 912.0284
 P8189: 987007545790205200
@@ -257,6 +256,7 @@ dv_has_:
     zh-my: 指南针
     zh-sg: 指南针
     zh-tw: 指南針
+Unicode_character: 🧭
 ---
 # [[Compass]] 🧭 
 

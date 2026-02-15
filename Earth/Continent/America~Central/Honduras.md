@@ -407,7 +407,6 @@ pronunciation_audio:
 - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Honduras.wav
 official_website: https://www.honduras.travel/en/
 Dewey_Decimal_Classification: 2--7283
-Unicode_character: "\U0001F1ED\U0001F1F3"
 Colon_Classification: SG--752
 Krugosvet_article: strany_mira/GONDURAS.html
 motto_text: Libre, Soberana e Independiente
@@ -773,8 +772,11 @@ dv_is_same_as:
 - '[[/_private/Earth/Continent/America~Central/Honduras.private|Honduras.private]]'
 - '[[/_personal/Earth/Continent/America~Central/Honduras.personal|Honduras.personal]]'
 - '[[/_secret/Earth/Continent/America~Central/Honduras.secret|Honduras.secret]]'
+Unicode_character: 🇭🇳
 ---
-# [[Honduras]] 
+# [[Honduras]] 🇭🇳 
+
+
 
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`

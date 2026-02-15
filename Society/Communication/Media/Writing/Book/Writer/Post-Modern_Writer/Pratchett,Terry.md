@@ -126,6 +126,8 @@ dv_has_:
     yue: 泰利·普萊契
     zh: 泰瑞·普萊契
 ---
+# [[Pratchett,Terry]]  
+
 #has_/time_/started ::  1948-04-28 
 #has_/time_/stopped ::  2015-03-12 
 

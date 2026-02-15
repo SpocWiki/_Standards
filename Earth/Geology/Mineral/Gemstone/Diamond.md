@@ -160,7 +160,6 @@ subclass_of:
 - '[[_Standards/WikiData/WD~carbon-silicon_family,13292702]]'
 tensile_modulus_of_elasticity: 1050
 UMLS_CUI: C0057717
-Unicode_character: "\U0001F48E"
 UNII: 6GRV67N0U2
 U_S_National_Archives_Identifier: 10647959
 video: http://commons.wikimedia.org/wiki/Special:FilePath/So%20entstehen%20Diamanten%20%28CC%20BY%204.0%29.webm
@@ -349,6 +348,7 @@ dv_has_:
     zh_hans: 钻石
     zh_hant: 鑽石
     zh_tw: 鑽石
+Unicode_character: 💎
 ---
 # [[Diamond]] 💎 
 

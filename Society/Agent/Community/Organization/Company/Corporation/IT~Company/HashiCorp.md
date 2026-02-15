@@ -21,6 +21,8 @@ aliases:
 - هاشي كورب
 - هاشیکورپ
 ---
+# [[HashiCorp]]  
+
 #has_/created :: [[SW~Terraform]] , [[../../../../../../../../Work/APIs/HashiCorp_Vault|HashiCorp Vault]] 
 #has_/created :: Key-Store Software 
 #has_/time_/started :: 2012-06-01 

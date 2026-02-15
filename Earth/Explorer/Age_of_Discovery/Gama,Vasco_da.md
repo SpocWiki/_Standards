@@ -320,6 +320,8 @@ dv_has_:
     zh: 瓦斯科·達伽馬
     zh_hk: 華士古·達伽馬
 ---
+# [[Gama,Vasco_da]]  
+
 ## #has_/text_of_/abstract 
 
 > **Vasco da Gama** ( VAS-koo də GA(H)M-ə; Portuguese: [ˈvaʃku ðɐ ˈɣɐmɐ]; c. 1460s – 24 December 1524), 

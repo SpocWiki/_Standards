@@ -347,7 +347,8 @@ dv_has_:
     zh_hk: 睡眠
     zh_tw: 睡眠
 ---
-# [[Sleep]] 
+# [[Sleep]] 💤 
+
 
 #is_/same_as :: [[../../../WikiData/WD~Sleep,35831|WD~Sleep,35831]] 
 #has_/complement :: [[../Consciousness|Consciousness]] 

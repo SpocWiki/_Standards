@@ -292,7 +292,10 @@ dv_has_:
     zh_hant: 龍形傳說生物
     zu: INzawu
 ---
-# [[Dragon]] 🐉 
+
+# [[Dragon]] 🐲 
+
+
 
 #is_/same_as :: [[../../../../../WikiData/WD~Dragon,7559|WD~Dragon,7559]] 
 

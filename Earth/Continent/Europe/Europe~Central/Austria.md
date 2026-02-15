@@ -998,6 +998,7 @@ U_S_National_Archives_Identifier: 10035760
 CIVICUS_Monitor_country_entry: austria
 GitHub_topic: austria
 ---
+
 # [[Austria]] 🇦🇹 
 
 is_member_of = `=this.dv_is_member_of`

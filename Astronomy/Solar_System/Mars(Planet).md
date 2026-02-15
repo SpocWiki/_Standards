@@ -575,7 +575,9 @@ dv_has_:
     zh_tw: 火星
     zu: UMarzi
 ---
-# [[Mars(Planet)]] 
+# [[Mars(Planet)]] ♂ 
+
+
 
 #is_/same_as :: [[../../WikiData/WD~Mars,111|WD~Mars,111]] 
 #is_/different_from :: [[_Standards/WikiData/WD~Mars,426315]] 

@@ -123,8 +123,11 @@ aliases:
 - 随机
 - 隨機性
 - 무작위
+Unicode_character: 🔀
 ---
-# [[Randomness]]
+# [[Randomness]] 🔀 
+
+
 
 
 ## #has_/text_of_/abstract 

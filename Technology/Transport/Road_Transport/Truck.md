@@ -141,7 +141,6 @@ short_name:
 OmegaWiki_Defined_Meaning: 412047
 subreddit: Trucks
 Commons_category: Trucks
-Unicode_character: "\U0001F69A"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2000%20Peterbilt%20379.jpg
 exact_match: http://purl.obolibrary.org/obo/ENVO_01000602
 U_S_National_Archives_Identifier: 10641044
@@ -281,6 +280,7 @@ dv_has_:
     zh: 卡车
     zh-hant: 卡車
     zh-tw: 卡車
+Unicode_character: 🚚
 ---
 # [[Truck]] 🚚 
 

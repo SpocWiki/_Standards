@@ -80,6 +80,8 @@ dv_has_:
     zh_hant: 追蹤研究
     zh_tw: 縱貫研究
 ---
+# [[Longitudinal_Study]]  
+
 #is_/better_than :: [[Cross-sectional_Study]] 
 #is_/different_from :: [[../Experiment]]
 

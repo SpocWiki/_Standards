@@ -94,7 +94,6 @@ image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Photograph%20of%20the%20Division%20of%20Classification%20and%20Cataloging%20%2836341206050%29.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Procuratiehouderskamer%20boekhouders%20aan%20het%20werk%2C%20Bestanddeelnr%20189-0018.jpg
 Commons_category: Offices
-Unicode_character: "\U0001F3E2"
 described_at_URL: https://pixabay.com/es/images/search/oficina/
 Provenio_UUID: b8aec14d-dd22-418a-8f9b-dc9602f977d9
 dv_is_:
@@ -227,8 +226,11 @@ dv_has_:
     zh_hk: 辦公室
     zh_sg: 办公室
     zh_tw: 辦公室
+Unicode_character: 🏢
 ---
-# [[Office]] 
+# [[Office]] 🏢 
+
+
 
 #is_/same_as :: [[WD~Office,182060]] 
 

@@ -122,7 +122,6 @@ OmegaWiki_Defined_Meaning: 2847
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fr%C3%B6ndenbergerHeimatstube20190413%2008.jpg
 IMDb_keyword: poison
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Skull%20and%20Crossbones.svg
-Unicode_character: ☠
 Colon_Classification: F594
 Dewey_Decimal_Classification:
 - 615.9
@@ -258,8 +257,11 @@ dv_has_:
     zh: 毒物
     zh_hant: 毒物
     zh_tw: 毒物
+Unicode_character: ☠
 ---
-# [[Poison]] 
+# [[Poison]] ☠ 
+
+
 
 #is_/same_as :: [[WD~Poison,40867]] 
 

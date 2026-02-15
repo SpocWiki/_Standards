@@ -228,7 +228,6 @@ BHCL_UUID: 3563e5ad-bb69-43bc-bf62-bb2692bbe9c6
 CIVICUS_Monitor_country_entry: paraguay
 GitHub_topic: paraguay
 IPA_transcription: pɑɾɑ'guɑɪ
-Unicode_character: "\U0001F1F5\U0001F1FE"
 Colon_Classification: SG--7915
 Krugosvet_article: strany_mira/PARAGVA.html
 demonym:
@@ -809,8 +808,11 @@ dv_is_same_as:
 - '[[/_personal/Earth/Continent/America~South/Southern_Cone/Paraguay.personal|Paraguay.personal]]'
 - '[[/_secret/Earth/Continent/America~South/Southern_Cone/Paraguay.secret|Paraguay.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/America-Paraguay
+Unicode_character: 🇵🇾
 ---
-# [[Paraguay]] 
+# [[Paraguay]] 🇵🇾 
+
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

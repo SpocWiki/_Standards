@@ -85,6 +85,8 @@ aliases:
 - 東尼·霍爾
 - 찰스 앤터니 리처드 호어
 ---
+# [[Tony_Hoare]]  
+
 ## #has_/text_of_/abstract 
 
 > Sir Charles Antony Richard Hoare , also known as Tony Hoare or by his initials C. A. R. Hoare 

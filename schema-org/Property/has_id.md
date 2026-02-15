@@ -81,7 +81,6 @@ subclass_of: '[[_Standards/WikiData/WD~identifying_artifact,100792256]]'
 main_Wikidata_property: record number
 OmegaWiki_Defined_Meaning: 1641235
 Commons_category: Identifiers
-Unicode_character: "\U0001F194"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Louvre%20identifiers%20Ma1274-MR242.jpg
 exact_match:
 - http://erlangen-crm.org/current/E42_Identifier
@@ -194,6 +193,7 @@ dv_has_:
     zh_hant: 識別碼
     zh_hk: 識別碼
     zh_tw: 識別碼
+Unicode_character: 🆔
 ---
 # [[has_id]] 🆔 
 

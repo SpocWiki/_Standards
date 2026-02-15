@@ -82,7 +82,6 @@ subreddit:
 - hotdogs
 Commons_category: Hot dogs
 exact_match: http://purl.obolibrary.org/obo/ENVO_00002174
-Unicode_character: "\U0001F32D"
 dv_has_:
   name_:
     ang: Francforta
@@ -188,8 +187,11 @@ dv_has_:
     zh_hk: 熱狗
     zh_sg: 热狗
     zh_tw: 熱狗
+Unicode_character: 🌭
 ---
-# [[Hot_Dog]] 
+# [[Hot_Dog]] 🌭 
+
+
 
 #is_/same_as :: [[WD~Hot_dog,181055]] 
 

@@ -110,7 +110,6 @@ SpocWebEntityId: 21999
 subclass_of: '[[_Standards/WikiData/WD~transition_metal,19588]]'
 time_of_discovery_or_invention: 1964
 type: Element
-Unicode_character: 鑪
 dv_is_:
   same_as:
   - '[[../../../WikiData/WD~Rutherfordium,1226]]'
@@ -343,8 +342,11 @@ dv_has_number_of_period: 7
 dv_has_number_of_group: 4
 dv_has_number_of_electrons: 104
 dv_has_name_abbreviated: Ru
+Unicode_character: 鑪
 ---
-# [[Rutherfordium]] 
+# [[Rutherfordium]] 鑪 
+
+
 
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Rutherfordium,1226]] 

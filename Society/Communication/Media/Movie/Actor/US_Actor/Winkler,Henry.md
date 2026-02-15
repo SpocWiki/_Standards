@@ -77,6 +77,8 @@ dv_has_:
     zh: 亨利·温克勒
     zh_hant: 亨利·溫克勒
 ---
+# [[Winkler,Henry]]  
+
 #has_/time_/started :: 1945-10-30 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)`  
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 

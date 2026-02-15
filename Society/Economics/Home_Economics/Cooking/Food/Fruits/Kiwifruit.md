@@ -89,7 +89,6 @@ GS1_GPC_code: 10005937
 UNII: 71ES77LGJC
 Commons_gallery: Kiwifruit
 Commons_category: Kiwifruits
-Unicode_character: "\U0001F95D"
 dv_has_:
   name_:
     af: Kiwivrug
@@ -198,6 +197,7 @@ dv_has_:
     zh_hant: 奇異果
     zh_tw: 奇異果
     zu: Kiwifruit
+Unicode_character: 🥝
 ---
 # [[Kiwifruit]] 🥝 
 

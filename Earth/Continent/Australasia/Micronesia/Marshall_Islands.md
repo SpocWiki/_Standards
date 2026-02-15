@@ -432,7 +432,6 @@ shares_border_with:
 - '[[_Standards/WikiData/WD~United_States,30]]'
 country: '[[_Standards/WikiData/WD~Marshall_Islands,709]]'
 U_S_National_Archives_Identifier: 10046189
-Unicode_character: "\U0001F1F2\U0001F1ED"
 coordinates_of_easternmost_point: Point(172.165288888 5.896261111)
 coordinate_location: Point(169.29 9.82)
 language_used:
@@ -762,10 +761,9 @@ dv_has_:
     zh_sg: 马绍尔群岛
     zh_tw: 馬紹爾群島
     zu: i-Marshall Islands
+Unicode_character: 🇲🇭
 ---
-# [[Marshall_Islands]] 
-
-## [[Marshall_Islands]] has Properties... 
+# [[Marshall_Islands]] 🇲🇭 has Properties... 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 

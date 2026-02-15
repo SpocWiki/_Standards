@@ -243,6 +243,8 @@ dv_is_same_as:
 - '[[/_secret/Earth/Continent/Europe/Schengen-Area.secret|Schengen-Area.secret]]'
 has_id_wikidata: Q1969730
 ---
+# [[Schengen-Area]]  
+
 has_time_started = `=this.dv_has_time_started`
 
 > The **Schengen Area** (English:  SHENG-ən, Luxembourgish: [ˈʃæŋən] ) 

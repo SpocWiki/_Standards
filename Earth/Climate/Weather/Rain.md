@@ -1,267 +1,267 @@
 ---
 aliases:
-- acqua
-- Ageffur
-- Ama
-- Anẓar
-- Arvi
-- baran
-- chuva
-- chuvia
-- deszcz
-- Dešć
-- dež
-- dyszcz
-- Dážď
-- déšť
-- Eryokanga n’etonya
-- eső
-- Euri
-- fearthainn
-- Fliaghey
-- Fwn
-- glav
-- glaw
-- Hujan
-- Hō͘
-- Imvula
-- Imvura
-- Jallu
-- Jawın
-- Juya
-- Kimiwon
-- kiša
-- Lapli
-- lietus
-- lluvia
-- Luvya
-- Lītos
-- Mbúla
-- mbúwa
-- mmiri ozizo
-- Mpfula
-- Mvua
-- mưa
-- Nji
-- Nsuo tɔ
-- Ojhân
-- Orad
-- Orana
-- Paani
-- Para
-- Pieuva
-- pioggia
-- Piòva
-- Pióva
-- Piöva
-- Plevia
-- Pllie
-- Ploai
-- ploaie
-- Plouve
-- pluie
-- pluja
-- Pluvia
-- Pluvie
-- Pluvo
-- Pluèja
-- Proina
-- Quiyahuitl
-- Quyux
-- qwalax
-- Raenger
-- Rain
-- Reen
-- Regen
-- regn
-- Rein
-- Reng
-- Reën
-- Reȝn
-- Rien
-- Rigning
-- Roob
-- ruwan sama
-- Saa
-- Saaga
-- Sabeh
-- sade
-- Sanji
-- Shiu
-- Sialuk
-- Toɓo
-- tudo
-- Tɛʋ
-- Ua
-- Uca
-- udad
-- udan
-- Uisge-adhair
-- Ujan
-- Ujeuen
-- Ulan
-- Ulan (tubig)
-- uran
-- Vihm
-- Yağer
-- yağmur
-- Yağış
-- Yomgʻir
-- Yí
-- Za
-- Çумăр
-- Ìbot
-- Òjò
-- Ýagyş
-- ʻuha
-- βρεχή
-- βροχή
-- Аббьр
-- Ардах
-- Борон
-- Бороо
-- ДогӀа
-- Додж
-- дожд
-- Дождж
-- дождь
-- дощ
-- Дъжд
-- дъждь
-- Жамгыр
-- Жаңбыр
-- зор
-- Зэр
-- киша
-- Марф
-- Ощхы
-- Пиземе
-- Пиземсь
-- Чаъс
-- Ямғыр
-- яңгыр
-- Անձրեւ
-- անձրև
-- גשם
-- רעגן
-- باران
-- بارش
-- بٲرِش
-- شتا
-- مطر
-- مین٘ھ
-- هوجن
-- وارؤن
-- وارش
-- يامغۇر
-- یاغیش
-- ܡܛܪܐ
-- झौर
-- पाऊस
-- बरखा
-- वर्षा
-- वा (जलवायु)
-- বৃষ্টি
-- বৰষুণ
-- ਮੀਂਹ
-- મેઘ
-- ବର୍ଷା
-- மழை
-- వర్షం
-- ಬರ್ಸೊ
-- ಮಳೆ
-- മഴ
-- වැස්ස
-- ฝน
-- ຝົນ
-- ཆར་པ།
-- မိုး
-- ၽူၼ်
-- წვიმა
-- ჭვემა
-- ዝናብ
-- ᎠᎦᏍᎬ
-- ᒥᓂ
-- ᠠᡤᠠ
-- ᱡᱟᱹᱯᱩᱫ
-- Ṳ̄
-- ὑετός
-- ⴰⵏⵥⴰⵕ
-- 雨
-- 비
+  - acqua
+  - Ageffur
+  - Ama
+  - Anẓar
+  - Arvi
+  - baran
+  - chuva
+  - chuvia
+  - deszcz
+  - Dešć
+  - dež
+  - dyszcz
+  - Dážď
+  - déšť
+  - Eryokanga n’etonya
+  - eső
+  - Euri
+  - fearthainn
+  - Fliaghey
+  - Fwn
+  - glav
+  - glaw
+  - Hujan
+  - Hō͘
+  - Imvula
+  - Imvura
+  - Jallu
+  - Jawın
+  - Juya
+  - Kimiwon
+  - kiša
+  - Lapli
+  - lietus
+  - lluvia
+  - Luvya
+  - Lītos
+  - Mbúla
+  - mbúwa
+  - mmiri ozizo
+  - Mpfula
+  - Mvua
+  - mưa
+  - Nji
+  - Nsuo tɔ
+  - Ojhân
+  - Orad
+  - Orana
+  - Paani
+  - Para
+  - Pieuva
+  - pioggia
+  - Piòva
+  - Pióva
+  - Piöva
+  - Plevia
+  - Pllie
+  - Ploai
+  - ploaie
+  - Plouve
+  - pluie
+  - pluja
+  - Pluvia
+  - Pluvie
+  - Pluvo
+  - Pluèja
+  - Proina
+  - Quiyahuitl
+  - Quyux
+  - qwalax
+  - Raenger
+  - Rain
+  - Reen
+  - Regen
+  - regn
+  - Rein
+  - Reng
+  - Reën
+  - Reȝn
+  - Rien
+  - Rigning
+  - Roob
+  - ruwan sama
+  - Saa
+  - Saaga
+  - Sabeh
+  - sade
+  - Sanji
+  - Shiu
+  - Sialuk
+  - Toɓo
+  - tudo
+  - Tɛʋ
+  - Ua
+  - Uca
+  - udad
+  - udan
+  - Uisge-adhair
+  - Ujan
+  - Ujeuen
+  - Ulan
+  - Ulan (tubig)
+  - uran
+  - Vihm
+  - Yağer
+  - yağmur
+  - Yağış
+  - Yomgʻir
+  - Yí
+  - Za
+  - Çумăр
+  - Ìbot
+  - Òjò
+  - Ýagyş
+  - ʻuha
+  - βρεχή
+  - βροχή
+  - Аббьр
+  - Ардах
+  - Борон
+  - Бороо
+  - ДогӀа
+  - Додж
+  - дожд
+  - Дождж
+  - дождь
+  - дощ
+  - Дъжд
+  - дъждь
+  - Жамгыр
+  - Жаңбыр
+  - зор
+  - Зэр
+  - киша
+  - Марф
+  - Ощхы
+  - Пиземе
+  - Пиземсь
+  - Чаъс
+  - Ямғыр
+  - яңгыр
+  - Անձրեւ
+  - անձրև
+  - גשם
+  - רעגן
+  - باران
+  - بارش
+  - بٲرِش
+  - شتا
+  - مطر
+  - مین٘ھ
+  - هوجن
+  - وارؤن
+  - وارش
+  - يامغۇر
+  - یاغیش
+  - ܡܛܪܐ
+  - झौर
+  - पाऊस
+  - बरखा
+  - वर्षा
+  - वा (जलवायु)
+  - বৃষ্টি
+  - বৰষুণ
+  - ਮੀਂਹ
+  - મેઘ
+  - ବର୍ଷା
+  - மழை
+  - వర్షం
+  - ಬರ್ಸೊ
+  - ಮಳೆ
+  - മഴ
+  - වැස්ස
+  - ฝน
+  - ຝົນ
+  - ཆར་པ།
+  - မိုး
+  - ၽူၼ်
+  - წვიმა
+  - ჭვემა
+  - ዝናብ
+  - ᎠᎦᏍᎬ
+  - ᒥᓂ
+  - ᠠᡤᠠ
+  - ᱡᱟᱹᱯᱩᱫ
+  - Ṳ̄
+  - ὑετός
+  - ⴰⵏⵥⴰⵕ
+  - 雨
+  - 비
 has_id_wikidata: Q7925
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Dion-Bouton%2C%20regen%20op%20het%20linnen%20autodak%20-%20SoundCloud%20-%20Beeld%20en%20Geluid.ogg
 Colon_Classification: U2855
 Commons_category: Rain
 Commons_gallery: Rain
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Religion_in_Geschichte_und_Gegenwart,1514334]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-different_from: '[[_Standards/WikiData/WD~Rain,20423499]]'
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Religion_in_Geschichte_und_Gegenwart,1514334]]"
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]"
+different_from: "[[_Standards/WikiData/WD~Rain,20423499]]"
 exact_match: http://purl.obolibrary.org/obo/ENVO_01001564
-facet_of: '[[_Standards/WikiData/WD~weather,11663]]'
+facet_of: "[[_Standards/WikiData/WD~weather,11663]]"
 has_effect:
-- '[[_Standards/WikiData/WD~rainwater,21555202]]'
-- '[[_Standards/WikiData/WD~flood,8068]]'
+  - "[[_Standards/WikiData/WD~rainwater,21555202]]"
+  - "[[_Standards/WikiData/WD~flood,8068]]"
 has_part_s_:
-- '[[_Standards/WikiData/WD~drop,185789]]'
-- '[[_Standards/WikiData/WD~raindrop,131199014]]'
+  - "[[_Standards/WikiData/WD~drop,185789]]"
+  - "[[_Standards/WikiData/WD~raindrop,131199014]]"
 has_use:
-- '[[_Standards/WikiData/WD~hydroelectricity,80638]]'
-- '[[_Standards/WikiData/WD~construction,385378]]'
-- '[[_Standards/WikiData/WD~laundering,852100]]'
-- '[[_Standards/WikiData/WD~water_supply,1061108]]'
+  - "[[_Standards/WikiData/WD~hydroelectricity,80638]]"
+  - "[[_Standards/WikiData/WD~construction,385378]]"
+  - "[[_Standards/WikiData/WD~laundering,852100]]"
+  - "[[_Standards/WikiData/WD~water_supply,1061108]]"
 Iconclass_notation: 26B
 image:
-- http://commons.wikimedia.org/wiki/Special:FilePath/08152%20Bukowsko%20%28powiat%20sanocki%29.jpg
-- http://commons.wikimedia.org/wiki/Special:FilePath/Vihmavarjuga%20jalak%C3%A4ija%20Sossi%20m%C3%A4el%20Tallinnas.%202016.%20aasta%20aprill..jpg
-instance_of: '[[_Standards/WikiData/WD~type_of_meteorological_phenomenon,118733587]]'
+  - http://commons.wikimedia.org/wiki/Special:FilePath/08152%20Bukowsko%20%28powiat%20sanocki%29.jpg
+  - http://commons.wikimedia.org/wiki/Special:FilePath/Vihmavarjuga%20jalak%C3%A4ija%20Sossi%20m%C3%A4el%20Tallinnas.%202016.%20aasta%20aprill..jpg
+instance_of: "[[_Standards/WikiData/WD~type_of_meteorological_phenomenon,118733587]]"
 Krugosvet_article: Earth_sciences/geografiya/DOZHD.html
 MeSH_tree_code:
-- G16.500.175.859
-- G16.500.275.063.725.395
-- G16.500.750.775.450
-- N06.230.300.100.725.450
-- N06.230.520
+  - G16.500.175.859
+  - G16.500.275.063.725.395
+  - G16.500.750.775.450
+  - N06.230.300.100.725.450
+  - N06.230.520
 OmegaWiki_Defined_Meaning: 3100
-studied_in: '[[_Standards/WikiData/WD~ombrology,127220291]]'
-subclass_of: '[[_Standards/WikiData/WD~precipitation,25257]]'
+studied_in: "[[_Standards/WikiData/WD~ombrology,127220291]]"
+subclass_of: "[[_Standards/WikiData/WD~precipitation,25257]]"
 subreddit: raining
 UMLS_CUI: C0034640
 Unicode_character:
-- "\U0001F326"
-- ⛆
-- "\U0001F327"
+  - 🌦
+  - ⛆
+  - 🌧
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Rain%202.gif
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Rain,7925|WD~Rain,7925]]'
-  - '[[/_Standards/Earth/Climate/Weather/Rain|Rain]]'
-  - '[[/_public/Earth/Climate/Weather/Rain.public|Rain.public]]'
-  - '[[/_internal/Earth/Climate/Weather/Rain.internal|Rain.internal]]'
-  - '[[/_protect/Earth/Climate/Weather/Rain.protect|Rain.protect]]'
-  - '[[/_private/Earth/Climate/Weather/Rain.private|Rain.private]]'
-  - '[[/_personal/Earth/Climate/Weather/Rain.personal|Rain.personal]]'
-  - '[[/_secret/Earth/Climate/Weather/Rain.secret|Rain.secret]]'
+    - "[[../../../WikiData/WD~Rain,7925|WD~Rain,7925]]"
+    - "[[/_Standards/Earth/Climate/Weather/Rain|Rain]]"
+    - "[[/_public/Earth/Climate/Weather/Rain.public|Rain.public]]"
+    - "[[/_internal/Earth/Climate/Weather/Rain.internal|Rain.internal]]"
+    - "[[/_protect/Earth/Climate/Weather/Rain.protect|Rain.protect]]"
+    - "[[/_private/Earth/Climate/Weather/Rain.private|Rain.private]]"
+    - "[[/_personal/Earth/Climate/Weather/Rain.personal|Rain.personal]]"
+    - "[[/_secret/Earth/Climate/Weather/Rain.secret|Rain.secret]]"
 dv_is_same_as:
-- '[[../../../WikiData/WD~Rain,7925|WD~Rain,7925]]'
-- '[[/_Standards/Earth/Climate/Weather/Rain|Rain]]'
-- '[[/_public/Earth/Climate/Weather/Rain.public|Rain.public]]'
-- '[[/_internal/Earth/Climate/Weather/Rain.internal|Rain.internal]]'
-- '[[/_protect/Earth/Climate/Weather/Rain.protect|Rain.protect]]'
-- '[[/_private/Earth/Climate/Weather/Rain.private|Rain.private]]'
-- '[[/_personal/Earth/Climate/Weather/Rain.personal|Rain.personal]]'
-- '[[/_secret/Earth/Climate/Weather/Rain.secret|Rain.secret]]'
+  - "[[../../../WikiData/WD~Rain,7925|WD~Rain,7925]]"
+  - "[[/_Standards/Earth/Climate/Weather/Rain|Rain]]"
+  - "[[/_public/Earth/Climate/Weather/Rain.public|Rain.public]]"
+  - "[[/_internal/Earth/Climate/Weather/Rain.internal|Rain.internal]]"
+  - "[[/_protect/Earth/Climate/Weather/Rain.protect|Rain.protect]]"
+  - "[[/_private/Earth/Climate/Weather/Rain.private|Rain.private]]"
+  - "[[/_personal/Earth/Climate/Weather/Rain.personal|Rain.personal]]"
+  - "[[/_secret/Earth/Climate/Weather/Rain.secret|Rain.secret]]"
 dv_has_:
   name_:
     ace: Ujeuen
@@ -510,7 +510,8 @@ dv_has_:
     zh_hans: 雨
     zu: Imvula
 ---
-# [[Rain]] 🌧 
+
+# [[Rain]] 🌧 🌦 ⛆ 
 
 #is_/same_as :: [[../../../WikiData/WD~Rain,7925|WD~Rain,7925]] 
 

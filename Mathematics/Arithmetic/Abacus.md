@@ -101,7 +101,6 @@ OmegaWiki_Defined_Meaning: 377777
 P8189: 987007292975705200
 subclass_of: '[[_Standards/WikiData/WD~physical_tool,39546]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Abacus,25979696]]'
-Unicode_character: "\U0001F9EE"
 dv_has_:
   name_:
     af: abakus
@@ -224,6 +223,7 @@ dv_has_:
     xh: i-abacus
     yue: 算盤
     zh: 算盘
+Unicode_character: 🧮
 ---
 # [[Abacus]] 🧮 
 

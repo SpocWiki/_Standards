@@ -73,7 +73,6 @@ video:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Inverted%20Vamp%20Throw%20Demonstration.gif
 - http://commons.wikimedia.org/wiki/Special:FilePath/Street%20artist%20in%20Sofia%20by%20night%20torch%20juggling%202012%20PD.ogv
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/3-ball%20cascade%20diagram.png
-Unicode_character: "\U0001F939"
 Dewey_Decimal_Classification: 791.3
 dv_has_:
   name_:
@@ -137,8 +136,11 @@ dv_has_:
     zh_hk: 雜技
     zh_sg: 杂技
     zh_tw: 雜耍
+Unicode_character: 🤹
 ---
-# [[Juggling]] 
+# [[Juggling]] 🤹 
+
+
 
 #is_/same_as :: [[WD~Juggling,194326]] 
 

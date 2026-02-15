@@ -95,7 +95,6 @@ playing_range_image: http://commons.wikimedia.org/wiki/Special:FilePath/Sax%20ra
 Commons_gallery: Saxophone
 Iconclass_notation: 48C73521
 Commons_category: Saxophones
-Unicode_character: "\U0001F3B7"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20Saxophone.jpg
 UNSPSC_Code: 60131104
 Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/SAKSOFON.html
@@ -223,6 +222,7 @@ dv_has_:
     zh-my: 萨克斯风
     zh_sg: 萨克斯风
     zh_tw: 薩氏管
+Unicode_character: 🎷
 ---
 # [[Saxophone]] 🎷 
 

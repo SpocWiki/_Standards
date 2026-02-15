@@ -78,6 +78,8 @@ dv_has_:
     zh_hans: 扬·勒丘恩
     zh_hant: 燕樂存
 ---
+# [[LeCun,Yann]]  
+
 ## #has_/text_of_/abstract 
 
 > Yann André LeCun ( lə-KUN, French: [ləkœ̃]; originally spelled Le Cun; born 8 July 1960) 

@@ -63,6 +63,8 @@ aliases:
 - 樹脂識別コード
 - 수지 식별 코드
 ---
+# [[RIC]]  
+
 the RIC is aligned with the EU [[Recycling_codes]]. 
 
 ## #has_/text_of_/abstract 

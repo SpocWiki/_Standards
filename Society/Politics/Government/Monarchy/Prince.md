@@ -120,7 +120,6 @@ male_form_of_label:
 - princas
 Commons_category: Princes
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gyula%20Benczur%20Rudolf%2C%20Crown%20Prince%20of%20Austria.jpg
-Unicode_character: "\U0001F934"
 applies_to_jurisdiction: http://www.wikidata.org/.well-known/genid/d85cd4d08487012eddda109dcbc2f556
 dv_has_:
   name_:
@@ -223,6 +222,7 @@ dv_has_:
     zh: 王爵
     zh_hans: 王爵
     zh_hant: 王爵
+Unicode_character: 🤴
 ---
 # [[Prince]] 🤴 
 

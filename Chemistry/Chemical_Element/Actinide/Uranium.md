@@ -154,7 +154,6 @@ time_of_discovery_or_invention: 1789
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_uranium,8085707]]'
 type: Element
 UMLS_CUI: C0041928
-Unicode_character: 鈾
 UNII: 4OC371KSTK
 U_S_National_Archives_Identifier: 10644103
 ZVG_number: 7920
@@ -424,8 +423,11 @@ dv_has_value_for_energy_form_kj_mol: 477
 dv_has_number_of_period: 7
 dv_has_number_of_group: 26
 dv_has_number_of_electrons: 92
+Unicode_character: 鈾
 ---
-# [[Uranium]] 
+# [[Uranium]] 鈾 
+
+
 
 
 #is_/same_as :: [[../../../WikiData/WD~Uranium,1098]] 

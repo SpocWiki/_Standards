@@ -839,7 +839,6 @@ coordinates_of_southernmost_point: Point(67.788888888 37.1875)
 Commons_gallery: Oʻzbekiston
 Libris_URI: pm1339771nt8scw
 Krugosvet_article: strany_mira/UZBEKISTAN.html
-Unicode_character: "\U0001F1FA\U0001F1FF"
 GitHub_topic: uzbekistan
 CIVICUS_Monitor_country_entry: uzbekistan
 Commons_category: Uzbekistan
@@ -847,8 +846,11 @@ subreddit: Uzbekistan
 hashtag: Uzbekistan
 IPA_transcription: ʉsˈbeːkɪstɑːn
 Gujarati_Vishwakosh_entry: ઉઝબેકિસ્તાન
+Unicode_character: 🇺🇿
 ---
-# [[Uzbekistan]] 
+# [[Uzbekistan]] 🇺🇿 
+
+
 
 ## [[Uzbekistan]] has Properties...
 

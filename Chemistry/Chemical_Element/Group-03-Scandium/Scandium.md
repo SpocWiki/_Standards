@@ -148,7 +148,6 @@ subclass_of:
 time_of_discovery_or_invention: 1879
 type: Element
 UMLS_CUI: C0036274
-Unicode_character: 鈧
 UNII: YUJ4U1EW7R
 ZVG_number: 7210
 dv_is_:
@@ -394,8 +393,11 @@ dv_has_number_of_period: 4
 dv_has_number_of_group: 3
 dv_has_name_abbreviated: Sc
 dv_has_number_of_electrons: 21
+Unicode_character: 鈧
 ---
-# [[Scandium]] 
+# [[Scandium]] 鈧 
+
+
 
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Scandium,713]] 

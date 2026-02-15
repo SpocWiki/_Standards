@@ -968,7 +968,6 @@ UIC_alphabetical_country_code: UA
 UIC_numerical_country_code: 22
 UNDP_country_code: UKR
 unemployment_rate: 8
-Unicode_character: "\U0001F1FA\U0001F1E6"
 UN_LOCODE: UA
 urban_population:
 - 30587737
@@ -982,8 +981,11 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Ukraine,7112499]]'
 WIPO_ST_3: UA
 Wolfram_Language_entity_code: Entity["HistoricalCountry", "Ukraine"]
 X_Twitter_username: Ukraine
+Unicode_character: 🇺🇦
 ---
-# [[Ukraine]] 
+# [[Ukraine]] 🇺🇦 
+
+
 
 ## [[Ukraine]] has Properties...
 

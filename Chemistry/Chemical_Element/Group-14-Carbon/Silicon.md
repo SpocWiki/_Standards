@@ -460,7 +460,8 @@ dv_has_name_abbreviated: Si
 dv_has_number_of_electrons: 14
 dv_has_number_of_group: 14
 ---
-# [[Silicon]] 
+
+# [[Silicon]] 矽 
 
 #chemic/Element 
 has_name_group = `=this.dv_has_name_group` 

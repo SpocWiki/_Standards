@@ -74,6 +74,8 @@ dv_has_:
     zh_hans: 世界报
     zh_hant: 世界報
 ---
+# [[Die_Welt]]  
+
 ## #has_/text_of_/abstract 
 
 > **Die Welt** (German pronunciation: [diː ˈvɛlt], lit. 'The World') 

@@ -171,7 +171,9 @@ dv_has_:
     zh_sg: 坎德拉
     zh_tw: 燭光
 ---
-# [[Unit~Candela]] 
+
+# [[Unit~Candela]] ㏅ 
+
 
 #is_a :: [[../SI-Unit]] 
 Unit :: #Unit/SI/cd

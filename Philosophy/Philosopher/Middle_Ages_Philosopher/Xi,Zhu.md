@@ -238,6 +238,8 @@ dv_has_:
     zh-hans: 朱熹
     zh_hant: 朱熹
 ---
+# [[Xi,Zhu]]  
+
 ## #has_/text_of_/abstract 
 
 > **Zhu Xi** ([ʈʂú ɕí]; October 18, 1130 – April 23, 1200), formerly romanized Chu Hsi, 

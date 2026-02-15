@@ -338,6 +338,9 @@ dv_has_number_of_group: 30
 dv_has_name_abbreviated: Gd
 dv_has_number_of_electrons: 64
 ---
+
+# [[Gadolinium]] 釓 
+
 #is_/same_as :: [[../../../WikiData/WD~Gadolinium,1832]] 
 
 #chemic/Element 

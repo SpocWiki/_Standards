@@ -115,7 +115,6 @@ Iconclass_notation: 47A12
 Commons_gallery: Factory
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Workers%20in%20the%20fuse%20factory%20Woolwich%20Arsenal%20Flickr%204615367952%20d40a18ec24%20o.jpg
 equivalent_class: http://dbpedia.org/ontology/Factory
-Unicode_character: "\U0001F3ED"
 UMLS_CUI: C0442620
 Commons_category: Factories
 MeSH_tree_code: J03.540
@@ -257,6 +256,7 @@ dv_has_:
     zh_hans: 工厂
     zh_hant: 工廠
     zu: Umkhando
+Unicode_character: 🏭
 ---
 # [[Factory]] 🏭 
 

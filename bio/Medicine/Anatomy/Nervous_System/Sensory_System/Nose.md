@@ -195,7 +195,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Dog%20nose.jpg
 Commons_gallery: Nose
 TA98_Latin_term: nasus
 Commons_category: Noses
-Unicode_character: "\U0001F443"
 MeSH_tree_code:
 - A01.456.505.733
 - A04.531
@@ -423,6 +422,7 @@ dv_has_:
     zh_hant: 鼻
     zh_hk: 鼻
     zh_tw: 鼻
+Unicode_character: 👃
 ---
 # [[Nose]] 👃 
 

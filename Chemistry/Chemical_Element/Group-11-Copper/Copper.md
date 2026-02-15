@@ -292,7 +292,6 @@ time_of_discovery_or_invention: -7000
 time_weighted_average_exposure_limit: 1
 type: Element
 UMLS_CUI: C0009968
-Unicode_character: 銅
 UNII: 789U1901C5
 U_S_National_Archives_Identifier: 10638044
 vapor_pressure: 0
@@ -601,8 +600,11 @@ dv_has_number_of_period: 4
 dv_has_number_of_group: 11
 dv_has_name_abbreviated: Cu
 dv_has_number_of_electrons: 29
+Unicode_character: 銅
 ---
-# [[Copper]] 
+# [[Copper]] 銅 
+
+
 
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Copper,753]] 

@@ -160,7 +160,9 @@ dv_has_:
     zh: 率
     zh_hant: 比率
 ---
-# [[Dim~Ratio]] 
+
+# [[Dim~Ratio]] ∶ 
+
 
 #is_/same_as :: [[WD~ratio,3481047]] 
 

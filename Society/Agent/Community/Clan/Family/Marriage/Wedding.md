@@ -154,7 +154,6 @@ hashtag_: wedding
 document_file_on_Wikimedia_Commons: http://commons.wikimedia.org/wiki/Special:FilePath/Bruges%20Public%20Library%20MS767%20v%20detail.jpg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Wedding%20chapel.jpg
 exact_match: https://turkic.elegantlexicon.com/turkforms.php?form=weddingwedding
-Unicode_character: "\U0001F492"
 U_S_National_Archives_Identifier: 10642863
 Commons_category: Wedding ceremonies
 Baidu_Tieba_name: 婚礼
@@ -288,6 +287,7 @@ dv_has_:
     zh_cn: 婚礼
     zh_hans: 婚礼
     zh_hant: 婚禮
+Unicode_character: 💒
 ---
 # [[Wedding]] 💒 
 

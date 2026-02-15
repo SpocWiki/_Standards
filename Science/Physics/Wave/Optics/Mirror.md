@@ -280,8 +280,11 @@ aliases:
 - 鏡
 - 镜
 - 거울
+Unicode_character: 🪞
 ---
-# [[Mirror]]
+# [[Mirror]] 🪞 
+
+
 
 #is_/same_as :: [[WD~Mirror,35197]] 
 

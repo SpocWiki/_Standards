@@ -84,7 +84,6 @@ official_name:
 - Harps
 - Telyn
 Iconclass_notation: 48C7322
-Unicode_character: "\U0001FA89"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20musical%20instrument.%20A%20harp.jpg
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Harfe%2020230505%20001.stl
 playing_range_image: http://commons.wikimedia.org/wiki/Special:FilePath/Range%20of%20harp.JPG
@@ -193,6 +192,7 @@ dv_has_:
     yue: 豎琴
     zh: 豎琴
     zh_hant: 豎琴
+Unicode_character: 🪉
 ---
 # [[Harp]] 🪉 
 

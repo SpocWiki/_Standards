@@ -192,7 +192,6 @@ MeSH_tree_code:
 - G16.500.275.410
 - G16.500.750.775.342
 - N06.230.291
-Unicode_character: "\U0001F9CA"
 dv_is_:
   same_as:
   - '[[../../../WikiData/WD~Ice,23392]]'
@@ -398,8 +397,11 @@ dv_has_:
     zh_hk: 冰
     zh_tw: 冰
     zu: Iqhwa
+Unicode_character: 🧊
 ---
-# [[Ice]] 
+# [[Ice]] 🧊 
+
+
 
 #is_/same_as :: [[WD~Ice,23392]] 
 

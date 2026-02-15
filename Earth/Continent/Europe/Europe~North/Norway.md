@@ -1076,7 +1076,6 @@ UIC_alphabetical_country_code: N
 UIC_numerical_country_code: 76
 UMLS_CUI: C0028423
 unemployment_rate: 3
-Unicode_character: "\U0001F1F3\U0001F1F4"
 urban_population:
 - 4418218
 - 4463566
@@ -1089,8 +1088,11 @@ WIPO_ST_3: NO
 Wolfram_Language_entity_code:
 - Entity["Country", "Norway"]
 - Entity["HistoricalCountry", "MedievalKingdomOfNorway"]
+Unicode_character: 🇳🇴
 ---
-# [[Norway]] 
+# [[Norway]] 🇳🇴 
+
+
 
 is_a = `=this.dv_is_a_`
 

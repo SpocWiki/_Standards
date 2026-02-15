@@ -131,7 +131,6 @@ Commons_category: Fencing
 IPTC_NewsCode: mediatopic/20000929
 Colon_Classification: MY242
 Krugosvet_article: sport/FEHTOVANIE.html
-Unicode_character: "\U0001F93A"
 dv_has_:
   name_:
     af: Skermsport
@@ -252,6 +251,7 @@ dv_has_:
     zh-my: 击剑
     zh_sg: 击剑
     zh_tw: 擊劍
+Unicode_character: 🤺
 ---
 # [[Fencing]] 🤺 
 

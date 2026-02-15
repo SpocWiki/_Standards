@@ -254,6 +254,8 @@ dv_has_:
     zh_sg: 建筑师
     zh_tw: 建築師
 ---
+# [[Architect]]  
+
 ## #has_/text_of_/abstract 
 
 > An architect is a person who plans, designs, and oversees the construction of buildings. To practice architecture means to provide services in connection with the design of buildings and the space within the site surrounding the buildings that have human occupancy or use as their principal purpose. Etymologically, the term architect derives from the Latin architectus, which derives from the Greek (arkhi-, chief + tekton, builder), i.e., chief builder.

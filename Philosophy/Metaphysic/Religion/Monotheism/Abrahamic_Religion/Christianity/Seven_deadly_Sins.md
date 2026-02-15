@@ -185,6 +185,8 @@ dv_has_:
     zh_sg: 七宗罪
     zh_tw: 七宗罪
 ---
+# [[Seven_deadly_Sins]]  
+
 ## #has_/text_of_/abstract 
 
 > The seven deadly sins, also known as the capital vices or cardinal sins, 

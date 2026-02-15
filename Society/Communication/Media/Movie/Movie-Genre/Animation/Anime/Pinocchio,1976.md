@@ -35,6 +35,8 @@ aliases:
 - ピコリーノの冒険
 - 木偶奇遇記
 ---
+# [[Pinocchio,1976]]  
+
 > Piccolino no Bōken (ピコリーノの冒険, Pikorīno no Bōken, lit. "Adventures of Pinocchio") 
 > is a 52-episode anime series by Nippon Animation first aired in 1976 
 > which was created in coproduction with the [[ZDF]] and [[ORF]]. 

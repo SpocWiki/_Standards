@@ -176,7 +176,6 @@ MeSH_tree_code: Z01.107.757.362
 OmegaWiki_Defined_Meaning: 8349
 PM20_geo_code: E77
 SpocWebEntityId: 26884
-Unicode_character: "\U0001F1EA\U0001F1E8"
 UMLS_CUI: C0016968
 U_S_National_Archives_Identifier: 10035721
 VAT_rate: 12
@@ -919,8 +918,11 @@ dv_is_same_as:
 - '[[/_private/Earth/Continent/America~South/Andes/Ecuador.private|Ecuador.private]]'
 - '[[/_personal/Earth/Continent/America~South/Andes/Ecuador.personal|Ecuador.personal]]'
 - '[[/_secret/Earth/Continent/America~South/Andes/Ecuador.secret|Ecuador.secret]]'
+Unicode_character: 🇪🇨
 ---
-# [[Ecuador]] 
+# [[Ecuador]] 🇪🇨 
+
+
 
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`

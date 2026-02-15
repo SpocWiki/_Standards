@@ -95,7 +95,6 @@ location: '[[_Standards/WikiData/WD~body_of_water,15324]]'
 OmegaWiki_Defined_Meaning: 4133
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Porto%20Covo%20July%202011-6.jpg
 Dewey_Decimal_Classification: 551.463
-Unicode_character: "\U0001F30A"
 subreddit: HeavySeas
 Commons_category: Water waves
 dv_has_:
@@ -203,6 +202,7 @@ dv_has_:
     zh_hk: 海浪
     zh_sg: 海浪
     zh_tw: 海浪
+Unicode_character: 🌊
 ---
 # [[Wind_Wave]] 🌊 
 

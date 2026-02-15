@@ -915,6 +915,7 @@ dv_is_same_as:
   - "[[/_secret/Earth/Continent/America~South/Southern_Cone/Chile.secret|Chile.secret]]"
 dv_has_url_for_code_repository: https://github.com/SpocWiki/America-Chile
 ---
+
 # [[Chile]] 🇨🇱 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`

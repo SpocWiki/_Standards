@@ -330,7 +330,9 @@ dv_has_number_of_group: 35
 dv_has_name_abbreviated: Tm
 dv_has_number_of_electrons: 69
 ---
-# [[Thulium]] 
+
+# [[Thulium]] 銩 
+
 
 #is_/same_as :: [[../../../WikiData/WD~Thulium,1853]] 
 

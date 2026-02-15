@@ -129,7 +129,6 @@ short_name:
 Commons_gallery: American football
 Commons_category: American football
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/American%20football%20pictogram.svg
-Unicode_character: "\U0001F3C8"
 Dewey_Decimal_Classification: 796.332
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2004%20Northeastern-Navy%20Game%20Quintin%20Mitchell.jpg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/American%20Football%20Gameplay%20Banner.jpg
@@ -262,6 +261,7 @@ dv_has_:
     zh_hant: 美式足球
     zh_hk: 美式足球
     zh_tw: 美式足球
+Unicode_character: 🏈
 ---
 # [[American Football]] 🏈 
 

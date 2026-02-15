@@ -386,7 +386,6 @@ country_calling_code: 680
 U_S_National_Archives_Identifier: 10044689
 Commons_gallery: Belau / Palau
 CIVICUS_Monitor_country_entry: palau
-Unicode_character: "\U0001F1F5\U0001F1FC"
 Krugosvet_article: strany_mira/PALAU.html
 MeSH_tree_code: Z01.639.760.680.717
 location:
@@ -669,10 +668,11 @@ dv_has_:
     zh_sg: 帕劳
     zh_tw: 帛琉
     zu: i-Palau
+Unicode_character: 🇵🇼
 ---
-# [[Palau]] 
 
-## [[Palau]] has Properties... 
+# [[Palau]] 🇵🇼 has Properties... 
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 

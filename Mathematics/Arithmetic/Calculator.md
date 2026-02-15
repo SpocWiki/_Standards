@@ -140,7 +140,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Calculadora%20cient%C3
 IEV_number: 171-04-12
 Commons_gallery: Calculator
 Commons_category: Calculators
-Unicode_character: "\U0001F5A9"
 dv_has_:
   name_:
     af: sakrekenaar
@@ -281,6 +280,7 @@ dv_has_:
     zh_sg: 电子计算器
     zh_tw: 電子計算機
     zu: IsiQaqululi
+Unicode_character: 🖩
 ---
 # [[Calculator]] 🖩 
 

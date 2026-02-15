@@ -310,7 +310,6 @@ official_language:
 - '[[_Standards/WikiData/WD~English,1860]]'
 - '[[_Standards/WikiData/WD~Gilbertese,30898]]'
 country_calling_code: 686
-Unicode_character: "\U0001F1F0\U0001F1EE"
 CIVICUS_Monitor_country_entry: kiribati
 Commons_category: Kiribati
 hashtag: Kiribati
@@ -658,8 +657,11 @@ dv_has_:
     zh_sg: 基里巴斯
     zh_tw: 吉里巴斯
     zu: i-Kiribati
+Unicode_character: 🇰🇮
 ---
-# [[Kiribati]] 
+# [[Kiribati]] 🇰🇮 
+
+
 
 ## [[Kiribati]] has Properties...
 

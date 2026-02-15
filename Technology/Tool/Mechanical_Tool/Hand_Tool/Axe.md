@@ -182,7 +182,6 @@ schematic: http://commons.wikimedia.org/wiki/Special:FilePath/An%20axe%20labelle
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33965%20%28sat%29-Ramjit%20Tudu-%E1%B1%B4%E1%B1%AE%E1%B1%9D%E1%B1%9C%E1%B1%9A%E1%B1%A1.wav
 MCN_code: 8201.40.00
 Commons_category: Axes
-Unicode_character: "\U0001FA93"
 name: digka
 dv_has_:
   name_:
@@ -358,6 +357,7 @@ dv_has_:
     zh-hans: 斧
     zh-hant: 斧
     zu: ngembazo
+Unicode_character: 🪓
 ---
 # [[Axe]] 🪓 
 

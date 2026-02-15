@@ -505,8 +505,11 @@ dv_is_same_as:
 - '[[/_personal/Earth/Continent/Africa/Africa~East/Madagascar.personal|Madagascar.personal]]'
 - '[[/_secret/Earth/Continent/Africa/Africa~East/Madagascar.secret|Madagascar.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Madagascar
+Unicode_character: 🇲🇬
 ---
-# [[Madagascar]] 
+# [[Madagascar]] 🇲🇬 
+
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

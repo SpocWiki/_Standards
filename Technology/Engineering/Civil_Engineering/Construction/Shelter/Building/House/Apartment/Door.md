@@ -155,7 +155,6 @@ audio: http://commons.wikimedia.org/wiki/Special:FilePath/Closing%20an%20old%20d
 exact_match:
 - http://wordnet-rdf.princeton.edu/wn30/03221720-n
 - http://wordnet-rdf.princeton.edu/wn31/103206505-n
-Unicode_character: "\U0001F6AA"
 OpenStreetMap_tag_or_key: Key:door
 dv_has_:
   name_:
@@ -307,6 +306,7 @@ dv_has_:
     yue: 門
     za: dou
     zh: 門
+Unicode_character: 🚪
 ---
 # [[Door]] 🚪 
 

@@ -30,6 +30,8 @@ aliases:
 - Jagoda Marinićová
 - چاجودا مارينيك
 ---
+# [[Jagoda Marinic]]  
+
 ## #has_/text_of_/abstract 
 
 > Jagoda Marinić (born September 20, 1977 in Waiblingen) 

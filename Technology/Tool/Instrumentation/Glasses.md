@@ -134,7 +134,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/2023%20Okulary%20korek
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/EN-glasses.ogg
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Q37501%20noun%20562323%20ccShmidtSergey%20glasses.svg
 described_at_URL: https://neal.fun/earth-reviews/glasses
-Unicode_character: "\U0001F453"
 U_S_National_Archives_Identifier: 10675278
 UNSPSC_Code: 42142901
 UMLS_CUI:
@@ -283,6 +282,7 @@ dv_has_:
     zh-hk: 眼鏡
     zh-my: 眼镜
     zh-tw: 眼鏡
+Unicode_character: 👓
 ---
 # [[Glasses]] 👓 
 

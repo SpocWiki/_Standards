@@ -77,6 +77,8 @@ aliases:
 - 蘭登書屋
 - 랜덤하우스
 ---
+# [[Random_House]]  
+
 #is_a :: [[../../../../../Agent/Community/Organization/Company/Corporation|Corporation]] 
 
 

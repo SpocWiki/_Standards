@@ -549,8 +549,11 @@ dv_has_:
     zh_sg: 所罗门群岛
     zh_tw: 索羅門群島
     zu: i-Solomon Islands
+Unicode_character: 🇸🇧
 ---
-# [[Solomon_Islands]] 
+# [[Solomon_Islands]] 🇸🇧 
+
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 

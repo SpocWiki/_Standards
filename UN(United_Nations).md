@@ -499,7 +499,6 @@ inception: 1945
 has_time_started: 1945-06
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20the%20United%20Nations.svg
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20the%20United%20Nations.svg
-Unicode_character: "\U0001F1FA\U0001F1F3"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/General%20Assembly%20of%20the%20United%20Nations.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/United%20Nations-ar.ogg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/United%20Nations%20%28Member%20States%20and%20Territories%29.svg
@@ -866,7 +865,7 @@ dv_has_:
     zh_sg: 联合国
     zh_tw: 聯合國
     zu: Amazwe Ohlangeneyo
-Unicode_Character: 🇺🇳
+Unicode_character: 🇺🇳
 ---
 # [[UN(United_Nations)]] 🇺🇳
 

@@ -714,7 +714,6 @@ Commons_gallery: São Tomé e Príncipe
 hashtag: SãoToméandPríncipe
 subreddit: SaoTomePrincipe
 IPA_transcription: sɑu'tumeː ɔ pɾɪn'siːp
-Unicode_character: "\U0001F1F8\U0001F1F9"
 Krugosvet_article: strany_mira/SAN-TOME_I_PRINSIPI.html
 MeSH_tree_code:
 - Z01.058.290.100.690
@@ -726,8 +725,11 @@ tags:
 SpocWebEntityId: 27024
 isDeleted: false
 confidential: public
+Unicode_character: 🇸🇹
 ---
-# [[Sao_Tome_and_Principe]] 
+# [[Sao_Tome_and_Principe]] 🇸🇹 
+
+
 
 ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3`

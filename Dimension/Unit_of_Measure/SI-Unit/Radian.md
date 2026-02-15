@@ -181,7 +181,9 @@ dv_has_:
     yue: 弧度
     zh: 弧度
 ---
-# [[Radian]] 
+
+# [[Radian]] ㎭ 
+
 
 #is_a :: [[../SI-Unit]] 
 Unit :: #Unit/SI/rad 

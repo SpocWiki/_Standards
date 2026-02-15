@@ -228,7 +228,6 @@ taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
 taxon_synonym_of: '[[_Standards/WikiData/WD~Lathyrus_oleraceus,109902416]]'
 this_taxon_is_source_of: '[[_Standards/WikiData/WD~pea,29472543]]'
 UMLS_CUI: C1262903
-Unicode_character: "\U0001FADB"
 UNII: J21YE3W98E
 USDA_NDB_number: 11303
 water_footprint: 1979
@@ -395,6 +394,7 @@ dv_has_:
     zh_cn: 豌豆
     zh_hans: 豌豆
     zh_tw: 豌豆
+Unicode_character: 🫛
 ---
 # [[Pea]] 🫛 
 

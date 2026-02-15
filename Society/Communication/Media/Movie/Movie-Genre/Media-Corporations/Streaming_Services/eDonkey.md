@@ -33,6 +33,8 @@ aliases:
 - Red eDonkey
 - 당나귀
 ---
+# [[eDonkey]]  
+
 ## #has_/text_of_/abstract 
 
 > The eDonkey Network (also known as the eDonkey2000 network or eD2k) 

@@ -237,7 +237,6 @@ MeSH_tree_code: Z01.252.145.900
 OmegaWiki_Defined_Meaning: 8538
 SpocWebEntityId: 27038
 UMLS_CUI: C1452561
-Unicode_character: "\U0001F1F9\U0001F1F1"
 U_S_National_Archives_Identifier: 10044822
 WIPO_ST_3: TL
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_East_Timor,7112247]]'
@@ -839,8 +838,11 @@ dv_has_:
     zh_sg: 东帝汶
     zh_tw: 東帝汶
     zu: i-East Timor
+Unicode_character: 🇹🇱
 ---
-# [[Timor-Leste]] 
+# [[Timor-Leste]] 🇹🇱 
+
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 

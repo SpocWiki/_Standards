@@ -202,7 +202,9 @@ dv_has_:
     zh: 六边形
     zh_hant: 六邊形
 ---
-# [[Hexagon]] 
+# [[Hexagon]] ⬡ 
+
+
 
 #is_/same_as :: [[WD~Hexagon,83043]] 
 

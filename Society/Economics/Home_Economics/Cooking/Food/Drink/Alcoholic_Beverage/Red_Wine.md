@@ -71,7 +71,6 @@ subclass_of: '[[_Standards/WikiData/WD~wine,282]]'
 color: '[[_Standards/WikiData/WD~red,3142]]'
 USDA_NDB_number: 14100
 IMDb_keyword: red-wine
-Unicode_character: "\U0001F377"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pouring%20a%20glass%20of%20red%20wine.tiff
 exact_match: http://wordnet-rdf.princeton.edu/wn30/07892512-n
 FoodEx2_code: A03MX
@@ -158,6 +157,7 @@ dv_has_:
     zh-my: 红葡萄酒
     zh_sg: 红葡萄酒
     zh_tw: 紅葡萄酒
+Unicode_character: 🍷
 ---
 # [[Red_Wine]] 🍷 
 

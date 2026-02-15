@@ -550,7 +550,9 @@ dv_has_:
     zh_tw: 作家
     zu: umbhali
 ---
-# [[Writer]] 
+# [[Writer]] ✍️ 
+
+
 
 #is_/same_as :: [[_Standards/WikiData/WD~writer,36180]]
 

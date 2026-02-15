@@ -141,7 +141,9 @@ dv_has_:
     yue: 平行
     zh: 平行
 ---
-# [[Parallelism(Geometry)]] 
+# [[Parallelism(Geometry)]] ∥ 
+
+
 
 #is_/same_as :: [[WD~Parallelism,53875]] 
 

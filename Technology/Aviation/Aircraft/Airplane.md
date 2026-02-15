@@ -464,7 +464,9 @@ dv_has_:
     zh_tw: 飛機
     zu: inqabakundiza
 ---
-# [[Airplane]] ✈ 
+# [[Airplane]] 🛩 
+
+
 
 #is_/same_as :: [[../../../WikiData/WD~Airplane,197|WD~Airplane,197]]
 

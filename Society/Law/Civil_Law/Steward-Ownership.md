@@ -9,6 +9,8 @@ dv_has_:
     de: Verantwortungseigentum
     en: steward ownership
 ---
+# [[Steward-Ownership]]  
+
 #is_/alternative_to :: [[Property(Law)]] 
 
 ## #has_/text_of_/abstract 

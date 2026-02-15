@@ -618,7 +618,6 @@ ISNI:
 - 405104298
 MeSH_tree_code: Z01.252.474.557.500
 SpocWebEntityId: 26940
-Unicode_character: "\U0001F1F0\U0001F1F5"
 U_S_National_Archives_Identifier: 10035715
 UMLS_CUI: C0022772
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_North_Korea,7112390]]'
@@ -1081,8 +1080,11 @@ IMDb_keyword: north-korea
 Krugosvet_article_archived_: strany-mira/koreiskaya-narodno-demokraticheskaya-respublika-kndr-severnaya-koreya
 UNDP_country_code: DRK
 telephone_country_code: 850
+Unicode_character: 🇰🇵
 ---
-# [[Korea~North]] 
+# [[Korea~North]] 🇰🇵 
+
+
 
 ISO2 = `=this.dv_ISO2` 
 ISO3 = `=this.dv_ISO3`  

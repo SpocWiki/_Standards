@@ -90,7 +90,6 @@ atomic_number: 110
 OmegaWiki_Defined_Meaning: 157326
 Commons_gallery: Darmstadtium
 Commons_category: Darmstadtium
-Unicode_character: 鐽
 element_symbol: Ds
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Darmstadtium2009.ogg
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20110%20Darmstadtium.svg
@@ -264,8 +263,11 @@ dv_has_:
     zh_sg: "\U0002B7FC"
     zh_tw: 鐽
     zu: IDamasimbi
+Unicode_character: 鐽
 ---
-# [[Darmstadtium]] 
+# [[Darmstadtium]] 鐽 
+
+
 
 #is_/same_as :: [[../../../WikiData/WD~Darmstadtium,1266|WD~Darmstadtium,1266]] 
 

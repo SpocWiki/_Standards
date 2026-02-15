@@ -95,6 +95,8 @@ dv_has_:
     zh_sg: 弗兰克·米勒
     zh_tw: 法蘭克·米勒
 ---
+# [[Miller,Frank]]  
+
 #has_/time_/started :: 1957-01-27
 
 ## #has_/text_of_/abstract 

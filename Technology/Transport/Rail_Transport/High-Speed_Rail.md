@@ -95,7 +95,6 @@ Commons_category: High speed trains
 winter_view: http://commons.wikimedia.org/wiki/Special:FilePath/A%20CRH380BL%20passes%20near%20Jinhuadong%20Railway%20Station.JPG
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/High-speed-rail-banner-01.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Steigung%20NIM.jpg
-Unicode_character: "\U0001F684"
 IMDb_keyword: high-speed-rail
 subreddit: highspeedrail
 dv_has_:
@@ -180,8 +179,11 @@ dv_has_:
     zh-hk: 高速鐵路
     zh-sg: 高速铁路
     zh-tw: 高速鐵路
+Unicode_character: 🚄
 ---
-# [[High-Speed_Rail]] 
+# [[High-Speed_Rail]] 🚄 
+
+
 
 #is_/same_as :: [[WD~High-speed_rail,211382]] 
 

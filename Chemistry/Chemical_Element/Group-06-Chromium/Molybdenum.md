@@ -167,7 +167,6 @@ time_of_discovery_or_invention: 1778
 time_weighted_average_exposure_limit: 15
 type: Element
 UMLS_CUI: C0026402
-Unicode_character: 鉬
 UNII: 81AH48963U
 vapor_pressure: 0
 ZVG_number: 8330
@@ -409,8 +408,11 @@ dv_has_name_abbreviated: Mo
 dv_has_number_of_electrons: 42
 dv_has_number_of_period: 5
 dv_has_number_of_group: 6
+Unicode_character: 鉬
 ---
-# [[Molybdenum]] 
+# [[Molybdenum]] 鉬 
+
+
 
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Molybdenum,1053]] 

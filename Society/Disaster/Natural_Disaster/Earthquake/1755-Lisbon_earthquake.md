@@ -141,6 +141,8 @@ dv_has_:
     zh_sg: 1755年里斯本大地震
     zh_tw: 1755年里斯本大地震
 ---
+# [[1755-Lisbon_earthquake]]  
+
 #[[1755-Lisbon_earthquake]]]
 
 #is_/same_as :: [[../../../../WikiData/WD~1755_Lisbon_earthquake,191055|WD~1755_Lisbon_earthquake,191055]] 

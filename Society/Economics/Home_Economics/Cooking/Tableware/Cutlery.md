@@ -98,7 +98,6 @@ Commons_category: Cutlery
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Cutlery%20on%20table.ogg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Besteck.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Nuovo%20Milano%20Sottsass.JPG
-Unicode_character: "\U0001F374"
 U_S_National_Archives_Identifier: 10643698
 Common_Procurement_Vocabulary_code: 39240000
 Wolfram_Language_entity_code:
@@ -177,6 +176,7 @@ dv_has_:
     yue: 刀具
     zh: 西方餐具
     zh_hant: 西方餐具
+Unicode_character: 🍴
 ---
 # [[Cutlery]] 🍴 
 

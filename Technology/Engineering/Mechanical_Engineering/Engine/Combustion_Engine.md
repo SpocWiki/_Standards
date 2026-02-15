@@ -273,6 +273,8 @@ dv_has_:
     zh: 内燃机
     zh_tw: 內燃機
 ---
+# [[Combustion_Engine]]  
+
 ## #has_/text_of_/abstract 
 
 > An **internal combustion engine** (ICE or IC engine) is a heat engine in which the combustion of a fuel occurs with an oxidizer (usually air) in a combustion chamber that is an integral part of the working fluid flow circuit. In an internal combustion engine, the expansion of the high-temperature and high-pressure gases produced by combustion applies direct force to some component of the engine. The force is typically applied to pistons (piston engine), turbine blades (gas turbine), a rotor (Wankel engine), or a nozzle (jet engine). This force moves the component over a distance. This process transforms chemical energy into kinetic energy which is used to propel, move or power whatever the engine is attached to.

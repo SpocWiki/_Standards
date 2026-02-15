@@ -102,7 +102,6 @@ winter_view: http://commons.wikimedia.org/wiki/Special:FilePath/Das%20festliche%
 GS1_GPC_code: 10001790
 Commons_gallery: Sled
 Commons_category: Sleds
-Unicode_character: "\U0001F6F7"
 dv_has_:
   name_:
     af: Slee
@@ -192,8 +191,11 @@ dv_has_:
     yi: שליטן
     yue: 雪橇
     zh: 雪橇
+Unicode_character: 🛷
 ---
-# [[Sled]] 
+# [[Sled]] 🛷 
+
+
 
 #is_/same_as :: [[../../WikiData/WD~Sled,181388|WD~Sled,181388]]  
 

@@ -128,6 +128,8 @@ dv_has_:
     zh_hant: 諾貝爾和平獎得主列表
     zh_hk: 諾貝爾和平獎得主列表
 ---
+# [[Peace_Nobel_Prize]]  
+
 ## #has_/text_of_/abstract 
 
 > The Norwegian Nobel Committee awards the Nobel Peace Prize annually 

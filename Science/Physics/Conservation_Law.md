@@ -131,6 +131,8 @@ dv_has_:
     zh_sg: 守恒定律
     zh_tw: 守恆定律
 ---
+# [[Conservation_Law]]  
+
 ## #has_/text_of_/abstract 
 
 > In physics, a **Conservation law** states that 

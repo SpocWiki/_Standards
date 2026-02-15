@@ -137,7 +137,6 @@ type: Element
 UMLS_CUI:
 - C0699665
 - C0032207
-Unicode_character: 鉑
 UNSPSC_Code: 11101803
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Platinum%20crystal%20grown%20using%20CVD%20method.webm
 Wolfram_Language_entity_code: Entity["Mineral", "Platinum"]
@@ -390,7 +389,10 @@ dv_is_same_as:
 - '[[/_secret/Chemistry/Chemical_Element/Group-10-Nickel/Platinum.secret|Platinum.secret]]'
 dv_has_name_abbreviated: Pt
 dv_has_number_of_electrons: 78
+Unicode_character: 鉑
 ---
+# [[Platinum]] 鉑 
+
 #chemic/Element 
 
 has_name_group = `=this.dv_has_name_group` 

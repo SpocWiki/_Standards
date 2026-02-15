@@ -354,6 +354,8 @@ dv_has_:
     zh_sg: 肌肉
     zh_tw: 肌肉
 ---
+# [[Muscle]]  
+
 ## #has_/text_of_/abstract 
 
 > **Muscle** is a soft tissue, one of the four basic types of animal tissue. 

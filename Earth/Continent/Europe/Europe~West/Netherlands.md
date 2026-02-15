@@ -1044,7 +1044,6 @@ motto_text:
 - I will uphold
 - Ik zal handhaven
 name_in_native_language: Koninkrijk der Nederlanden
-Unicode_character: "\U0001F1F3\U0001F1F1"
 urban_population:
 - 15935776
 - 16087342
@@ -1122,9 +1121,8 @@ Colon_Classification: SG--5962
 Krugosvet_article: strany_mira/NIDERLANDI.html
 Pinterest_username: visitholland
 ---
-# [[Netherlands]] 
 
-## [[Netherlands]] has Properties... 
+# [[Netherlands]] 🇳🇱 has Properties... 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

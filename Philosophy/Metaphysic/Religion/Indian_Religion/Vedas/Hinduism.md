@@ -219,7 +219,6 @@ U_S_National_Archives_Identifier: 10637286
 OmegaWiki_Defined_Meaning: 1316814
 Colon_Classification: Q1
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Hinduism.jpg
-Unicode_character: "\U0001F549"
 Commons_category: Hinduism
 dv_has_:
   name_:
@@ -469,8 +468,11 @@ dv_has_:
     zh_sg: 印度教
     zh_tw: 印度教
     zu: UbuHindu
+Unicode_character: 🕉
 ---
-# [[Hinduism]] 
+# [[Hinduism]] 🕉 
+
+
 
 #is_/same_as :: [[../../../../../WikiData/WD~Hinduism,9089|WD~Hinduism,9089]] 
 

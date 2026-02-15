@@ -14,6 +14,8 @@ dv_has_:
     mul: Travis Pickin'
     nl: Travis Pickin'
 ---
+# [[Travis_Picking]]  
+
 ## #has_/text_of_/abstract 
 
 > **Travis Pickin'** is an instrumental acoustic solo album 

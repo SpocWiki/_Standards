@@ -1041,7 +1041,6 @@ trunk_prefix: 0
 type: Country
 UMLS_CUI: C0041698
 unemployment_rate: 4
-Unicode_character: "\U0001F1E6\U0001F1EA"
 urban_population:
 - 7994705
 - 8084399
@@ -1054,8 +1053,11 @@ WIPO_ST_3: AE
 Wolfram_Language_entity_code: Entity["Country", "UnitedArabEmirates"]
 X_Twitter_username: uaedgov
 YouTube_handle: EmiratesEGovernment
+Unicode_character: 🇦🇪
 ---
-# [[United_Arab_Emirates]] 
+# [[United_Arab_Emirates]] 🇦🇪 
+
+
 
 ## [[United_Arab_Emirates]] has Property...
 

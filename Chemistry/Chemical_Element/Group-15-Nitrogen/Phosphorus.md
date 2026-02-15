@@ -448,7 +448,8 @@ dv_is_same_as:
 dv_has_name_abbreviated: P
 dv_has_number_of_electrons: 15
 ---
-# [[Phosphorus]] 
+
+# [[Phosphorus]] 磷 
 
 
 #chemic/Element 

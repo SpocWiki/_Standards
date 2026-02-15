@@ -125,6 +125,8 @@ aliases:
 - 尼伯龙根之歌
 - 니벨룽의 노래
 ---
+# [[Nibelungenlied]]  
+
 ## #has_/text_of_/abstract 
 
 > The **Nibelungenlied** (German pronunciation: [ˈniːbəlʊŋən-], [ˈnɪbəlʊŋən-] 

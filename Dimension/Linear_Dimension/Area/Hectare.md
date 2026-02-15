@@ -267,7 +267,9 @@ dv_has_:
     zh-my: 公顷
     zh_sg: 公顷
 ---
-# [[Hectare]] 
+
+# [[Hectare]] ㏊ 
+
 
 #is_/same_as :: [[WD~Hectare,35852]] 
 

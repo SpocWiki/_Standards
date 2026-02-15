@@ -125,7 +125,6 @@ SpocWebEntityId: 21988
 time_of_discovery_or_invention: 1940
 type: Element
 UMLS_CUI: C0027734
-Unicode_character: 錼
 UNII: 6200K977BQ
 dv_has_:
   name_:
@@ -361,7 +360,10 @@ dv_is_same_as:
 - '[[/_private/Chemistry/Chemical_Element/Actinide/Neptunium.private|Neptunium.private]]'
 - '[[/_personal/Chemistry/Chemical_Element/Actinide/Neptunium.personal|Neptunium.personal]]'
 - '[[/_secret/Chemistry/Chemical_Element/Actinide/Neptunium.secret|Neptunium.secret]]'
+Unicode_character: 錼
 ---
+# [[Neptunium]] 錼 
+
 #chemic/Element 
 has_name_group = `=this.dv_has_name_group` 
 is_part_of = `=this.dv_is_part_of` 

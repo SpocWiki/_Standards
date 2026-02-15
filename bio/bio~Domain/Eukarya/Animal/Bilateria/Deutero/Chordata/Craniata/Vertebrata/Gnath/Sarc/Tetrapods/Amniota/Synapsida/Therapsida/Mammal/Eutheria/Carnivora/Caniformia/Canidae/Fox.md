@@ -140,7 +140,6 @@ aliases:
 - "\U00010346\U00010330\U0001033F\U00010337\U00010349/Fauho"
 has_id_wikidata: Q8331
 Baidu_Tieba_name: 狐狸
-Unicode_character: "\U0001F98A"
 taxon_common_name:
 - খেঁকশিয়াল
 - Rubah
@@ -380,6 +379,7 @@ dv_has_:
     zh: 狐
     zh_hans: 狐
     zh_hant: 狐狸
+Unicode_character: 🦊
 ---
 # [[Fox]] 🦊 
 

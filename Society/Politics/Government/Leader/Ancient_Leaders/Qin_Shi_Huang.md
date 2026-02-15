@@ -340,6 +340,8 @@ dv_has_:
     zh_sg: 秦始皇
     zh_tw: 秦始皇
 ---
+# [[Qin_Shi_Huang]]  
+
 ## #has_/text_of_/abstract 
 
 > **Qin Shi Huang** (Chinese: 秦始皇, ; February 259 – 12 July 210 BC) 

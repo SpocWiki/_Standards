@@ -1039,7 +1039,6 @@ UIC_alphabetical_country_code: IR
 UIC_numerical_country_code: 96
 UMLS_CUI: C0022065
 UNDP_country_code: IRN
-Unicode_character: "\U0001F1EE\U0001F1F7"
 urban_population:
 - 65261618
 - 66230561
@@ -1052,10 +1051,9 @@ Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Iran,7112300]]'
 WIPO_ST_3: IR
 WOEID: 130758
 Wolfram_Language_entity_code: Entity["Country", "Iran"]
+Unicode_character: 🇮🇷
 ---
-# [[Iran]] 
-
-## [[Iran]] has Properties... 
+# [[Iran]] 🇮🇷 has Properties... 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 

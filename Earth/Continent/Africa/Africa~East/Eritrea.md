@@ -765,7 +765,6 @@ top_level_Internet_domain: '[[_Standards/WikiData/WD~.er,41019]]'
 total_fertility_rate: 4.284
 type: Country
 unemployment_rate: 7
-Unicode_character: "\U0001F1EA\U0001F1F7"
 urban_population:
 - 1424439
 - 1470245
@@ -774,8 +773,12 @@ urban_population:
 U_S_National_Archives_Identifier: 10044257
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Eritrea,7112256]]'
 WIPO_ST_3: ER
+Unicode_character: 🇪🇷
 ---
-# [[Eritrea]] 
+
+# [[Eritrea]] 🇪🇷 
+
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

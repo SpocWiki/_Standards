@@ -89,7 +89,6 @@ U_S_National_Archives_Identifier: 10637211
 Commons_category: Cyclones
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Cyclones%20banner%20Hurricane%20Felix.jpg
 exact_match: http://purl.obolibrary.org/obo/ENVO_01001297
-Unicode_character: "\U0001F300"
 Krugosvet_article_archived_: geografiya/tsiklon
 dv_has_:
   name_:
@@ -206,6 +205,7 @@ dv_has_:
     zh-my: 气旋
     zh_sg: 气旋
     zh_tw: 氣旋
+Unicode_character: 🌀
 ---
 # [[Cyclone]] 🌀 
 

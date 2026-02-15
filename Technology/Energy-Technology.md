@@ -17,6 +17,8 @@ dv_has_:
     sms: energiateknologia
     sv: energiteknik
 ---
+# [[Energy-Technology]]  
+
 ## #has_/text_of_/abstract 
 
 > Energy development is the field of activities focused on obtaining sources of energy from natural resources. These activities include the production of renewable, nuclear, and fossil fuel derived sources of energy, and for the recovery and reuse of energy that would otherwise be wasted. Energy conservation and efficiency measures reduce the demand for energy development, and can have benefits to society with improvements to environmental issues.

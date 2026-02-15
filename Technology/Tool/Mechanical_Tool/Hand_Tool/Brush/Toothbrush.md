@@ -113,7 +113,6 @@ MCN_code: 9603.21.00
 UMLS_CUI: C0183975
 IMDb_keyword: toothbrush
 Commons_category: Toothbrushes
-Unicode_character: "\U0001FAA5"
 dv_has_:
   name_:
     ar: فرشاة أسنان
@@ -232,6 +231,7 @@ dv_has_:
     zh-my: 牙刷
     zh-sg: 牙刷
     zh-tw: 牙刷
+Unicode_character: 🪥
 ---
 # [[Toothbrush]] 🪥 
 

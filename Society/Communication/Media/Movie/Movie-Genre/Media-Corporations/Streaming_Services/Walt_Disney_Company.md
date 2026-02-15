@@ -137,6 +137,8 @@ dv_has_:
     zh_sg: 华特迪士尼公司
     zh_tw: 華特迪士尼公司
 ---
+# [[Walt_Disney_Company]]  
+
 ## #has_/text_of_/abstract 
 
 > The **Walt Disney Company** is an American multinational 

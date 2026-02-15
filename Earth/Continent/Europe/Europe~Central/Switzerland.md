@@ -216,7 +216,6 @@ aliases:
 - 스위스
 - "\U00010337\U00010330\U00010339\U0001033B\U00010345\U00010330\U00010339\U00010344\U0001033E\U00010330"
 has_id_wikidata: Q39
-Unicode_character: "\U0001F1E8\U0001F1ED"
 icon: "\U0001F1E8\U0001F1ED"
 age_of_majority:
 - 20
@@ -1094,8 +1093,11 @@ vehicles_per_thousand_people: 539
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Switzerland,7112470]]'
 WIPO_ST_3: CH
 X_Twitter_username: BR_Sprecher
+Unicode_character: 🇨🇭
 ---
-# [[Switzerland]] 
+# [[Switzerland]] 🇨🇭 
+
+
 
 ## #has_/map  
 

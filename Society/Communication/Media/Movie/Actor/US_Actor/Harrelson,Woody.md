@@ -129,6 +129,8 @@ dv_has_:
     zh_sg: 伍迪·哈里森
     zh_tw: 伍迪·哈里森
 ---
+# [[Harrelson,Woody]]  
+
 #has_/time_/started :: 1961-07-23 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 

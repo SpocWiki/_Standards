@@ -62,7 +62,6 @@ instance_of: '[[_Standards/WikiData/WD~type_of_sport,31629]]'
 IAB_code: 519
 BHCL_UUID: bb557827-caba-4469-ac46-1a3b39b1cfcd
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Motor%20cycle%20pictogram.svg
-Unicode_character: "\U0001F3CD"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Jonas%20Folger%202010%20Assen.jpg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Motor%20sport%20WV%20banner.jpg
 Commons_category: Motorcycle sport
@@ -129,8 +128,11 @@ dv_has_:
     zh_hant: 摩托車競賽
     zh_hk: 電單車運動
     zh_tw: 摩托車競賽
+Unicode_character: 🏍
 ---
-# [[Motorcycle_Sport]] 
+# [[Motorcycle_Sport]] 🏍 
+
+
 
 #is_/same_as :: [[WD~Motorcycle_sport,328716]] 
 

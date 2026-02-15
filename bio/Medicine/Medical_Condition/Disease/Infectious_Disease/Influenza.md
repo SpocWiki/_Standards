@@ -358,6 +358,8 @@ dv_has_:
     zh_tw: 流行性感冒
     zu: umkhuhlane
 ---
+# [[Influenza]]  
+
 ## #has_/text_of_/abstract 
 
 > **Influenza**, commonly known as the flu, is an infectious disease caused by influenza viruses. Symptoms range from mild to severe and often include fever, runny nose, sore throat, muscle pain, headache, coughing, and fatigue. These symptoms begin one to four (typically two) days after exposure to the virus and last for about two to eight days. Diarrhea and vomiting can occur, particularly in children. Influenza may progress to pneumonia from the virus or a subsequent bacterial infection. Other complications include acute respiratory distress syndrome, meningitis, encephalitis, and worsening of pre-existing health problems such as asthma and cardiovascular disease.

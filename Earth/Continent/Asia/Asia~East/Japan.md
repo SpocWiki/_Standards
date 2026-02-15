@@ -1233,7 +1233,9 @@ Languages:
 - ja
 icon: flag-jp
 ---
-# [[Japan]] 
+
+# [[Japan]] 🇯🇵 
+
 
 ## [[Japan]] has Properties...
 

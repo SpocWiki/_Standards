@@ -170,7 +170,6 @@ Dewey_Decimal_Classification:
 P8189: 987007533953605171
 Wolfram_Language_entity_code: Entity["AnatomicalStructure", "Penis"]
 Archive_of_Our_Own_tag: Penises
-Unicode_character: "\U000130B8"
 dv_has_:
   name_:
     aeb_arab: زب
@@ -368,8 +367,9 @@ dv_has_:
     zh_sg: 阴茎
     zh_tw: 陰莖
     zu: Umthondo
+Unicode_character: 𓂸
 ---
-# [[Penis]] 
+# [[Penis]] 𓂸 
 
 #is_/similar_to :: [[Clitoris]] 
 #is_/same_as :: [[../../../../WikiData/WD~Penis,58|WD~Penis,58]]  

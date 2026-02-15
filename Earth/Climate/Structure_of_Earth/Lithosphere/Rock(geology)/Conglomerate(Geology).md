@@ -154,6 +154,8 @@ dv_has_:
     zh_sg: 砾岩
     zh_tw: 礫岩
 ---
+# [[Conglomerate(Geology)]]  
+
 #is_/same_as :: [[../../../../../WikiData/WD~Conglomerate,191704|WD~Conglomerate,191704]] 
 
 ## #has_/text_of_/abstract 

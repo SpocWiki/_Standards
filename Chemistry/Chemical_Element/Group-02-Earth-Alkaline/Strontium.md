@@ -156,7 +156,6 @@ time_of_discovery_or_invention: 1787
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_strontium,8085983]]'
 type: Element
 UMLS_CUI: C0038467
-Unicode_character: 鍶
 UNII: YZS2RPE8LE
 ZVG_number: 8310
 dv_is_:
@@ -403,8 +402,11 @@ dv_has_number_of_period: 5
 dv_has_number_of_group: 2
 dv_has_name_abbreviated: Sr
 dv_has_number_of_electrons: 38
+Unicode_character: 鍶
 ---
-# [[Strontium]] 
+# [[Strontium]] 鍶 
+
+
 
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Strontium,938]] 

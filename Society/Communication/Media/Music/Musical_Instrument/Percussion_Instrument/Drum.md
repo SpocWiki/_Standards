@@ -146,7 +146,6 @@ part_of: '[[_Standards/WikiData/WD~drum_kit,128309]]'
 produced_sound: '[[_Standards/WikiData/WD~drum_roll,665888]]'
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Drum.ogg
 subclass_of: '[[_Standards/WikiData/WD~struck_membranophone,19588483]]'
-Unicode_character: "\U0001F941"
 dv_has_:
   name_:
     af: trom
@@ -308,6 +307,7 @@ dv_has_:
     zh_hans: 鼓
     zh_hant: 鼓
     zu: Isigubhu
+Unicode_character: 🥁
 ---
 # [[Drum]] 🥁 
 

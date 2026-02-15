@@ -286,7 +286,9 @@ dv_has_:
     zh_hans: 小鼠属
     zh_tw: 小鼠屬
 ---
-# [[Mouse]] 
+# [[Mouse]] 🐁 
+
+
 
 #is_/same_as :: [[WD~Mus,39275]] 
 

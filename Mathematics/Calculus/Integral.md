@@ -179,7 +179,10 @@ aliases:
 - 积分
 - 積分
 - 적분
+Unicode_character: ∫
 ---
+# [[Integral]] ∫ 
+
 #is_/same_as :: [[WikiData/WD~Integral,80091|WD~Integral,80091]] 
 
 ## #has_/text_of_/abstract 

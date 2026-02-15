@@ -137,8 +137,11 @@ aliases:
 - 小屋
 - 屋仔
 - 오두막
+Unicode_character: 🛖
 ---
-# [[Hut]] 
+# [[Hut]] 🛖 
+
+
 
 #is_/same_as :: [[WD~Hut,5784097]] 
 

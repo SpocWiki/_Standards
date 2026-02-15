@@ -103,7 +103,6 @@ subclass_of:
 subreddit: golf
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Golf,14615758]]'
 UMLS_CUI: C0018041
-Unicode_character: "\U0001F3CC"
 uses:
 - '[[_Standards/WikiData/WD~golf_ball,919777]]'
 - '[[_Standards/WikiData/WD~golf_course,1048525]]'
@@ -259,6 +258,7 @@ dv_has_:
     zh_hans: 高尔夫球
     zh_hant: 高爾夫球
     zh_tw: 高爾夫球
+Unicode_character: 🏌
 ---
 # [[Golf]] 🏌 
 

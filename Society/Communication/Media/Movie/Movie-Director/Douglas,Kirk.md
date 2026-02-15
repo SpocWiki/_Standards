@@ -144,6 +144,8 @@ dv_has_:
     zh-my: 寇克·道格拉斯
     zh_sg: 寇克·道格拉斯
 ---
+# [[Douglas,Kirk]]  
+
 #has_/time_/started :: 1916-12-09 
 #has_/time_/stopped :: 2020-02-05 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

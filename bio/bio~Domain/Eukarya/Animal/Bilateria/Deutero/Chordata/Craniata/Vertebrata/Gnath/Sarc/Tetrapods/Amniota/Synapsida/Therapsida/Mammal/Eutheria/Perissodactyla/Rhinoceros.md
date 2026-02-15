@@ -157,7 +157,6 @@ Krugosvet_article_archived_: nauka_i_tehnika/biologiya/NOSOROGOVIE.html
 Commons_gallery: Rhinocerotidae
 Commons_category: Rhinocerotidae
 taxon_name: Rhinocerotidae
-Unicode_character: "\U0001F98F"
 dv_has_:
   name_:
     af: renoster
@@ -314,6 +313,7 @@ dv_has_:
     zh_hant: 犀科
     zh_tw: 犀科
     zu: Umkhombe
+Unicode_character: 🦏
 ---
 # [[Rhinoceros]] 🦏 
 

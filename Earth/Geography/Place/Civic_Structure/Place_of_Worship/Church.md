@@ -539,7 +539,9 @@ dv_is_same_as:
 - '[[/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Church.personal|Church.personal]]'
 - '[[/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Church.secret|Church.secret]]'
 ---
-# [[Church]] 
+
+# [[Church]] ⛪ 
+
 
 Class of all churchs.
 

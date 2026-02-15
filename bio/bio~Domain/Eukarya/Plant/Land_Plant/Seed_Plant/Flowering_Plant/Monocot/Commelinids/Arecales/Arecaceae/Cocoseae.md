@@ -47,6 +47,8 @@ aliases:
 - 椰子族
 - 椰族
 ---
+# [[Cocoseae]]  
+
 ## #has_/text_of_/abstract 
 
 > **Cocoseae** is a tribe of cocosoid palms of the family Arecaceae.

@@ -567,7 +567,6 @@ ISO_3166_1_alpha_2_code: ZA
 life_expectancy: 62.774
 IAB_code: 1409
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20South%20Africa.svg
-Unicode_character: "\U0001F1FF\U0001F1E6"
 IOC_country_code: RSA
 OmegaWiki_Defined_Meaning: 7933
 social_media_followers: 207107
@@ -1118,8 +1117,11 @@ dv_is_same_as:
 - '[[/_personal/Earth/Continent/Africa/Africa~South/South_Africa.personal|South_Africa.personal]]'
 - '[[/_secret/Earth/Continent/Africa/Africa~South/South_Africa.secret|South_Africa.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-South_Africa
+Unicode_character: 🇿🇦
 ---
-# [[South_Africa]] 
+# [[South_Africa]] 🇿🇦 
+
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

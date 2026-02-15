@@ -731,7 +731,6 @@ official_website: http://www.presidence.ne
 country_calling_code: 227
 U_S_National_Archives_Identifier: 10035780
 Dewey_Decimal_Classification: 2--6626
-Unicode_character: "\U0001F1F3\U0001F1EA"
 ISO_3166_1_alpha_3_code: NER
 CIVICUS_Monitor_country_entry: niger
 GitHub_topic: niger
@@ -829,8 +828,11 @@ Languages:
 - ha
 - kr
 - dje
+Unicode_character: 🇳🇪
 ---
-# [[Niger]] 
+# [[Niger]] 🇳🇪 
+
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

@@ -208,7 +208,6 @@ subclass_of:
 subreddit: wine
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Wine,11120865]]'
 UMLS_CUI: C0043188
-Unicode_character: "\U0001F377"
 UNII: 13TE483N5I
 water_footprint: 869
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_wine,7112812]]'
@@ -449,6 +448,7 @@ dv_has_:
     zh: 葡萄酒
     zh_hans: 葡萄酒
     zh_hant: 葡萄酒
+Unicode_character: 🍷
 ---
 # [[Wine]] 🍷 
 

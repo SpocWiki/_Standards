@@ -116,6 +116,8 @@ aliases:
 - 欧洲各共同体
 - 유럽의 공동체
 ---
+# [[European_Communities(EC)]]  
+
 > The European Communities (EC) were 3 international organizations 
 > that were governed by the same set of institutions. These were 
 > - the European Coal and Steel Community (ECSC), 

@@ -380,8 +380,11 @@ aliases:
 - 荒漠
 - 사막
 - "\U00010330\U0001033F\U00010338\U00010339\U00010333\U00010330"
+Unicode_character: 🏜
 ---
-# [[Desert]] 
+# [[Desert]] 🏜 
+
+
 
 #is_/same_as :: [[../../../../WikiData/WD~Desert,8514|WD~Desert,8514]] 
 

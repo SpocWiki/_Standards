@@ -156,6 +156,8 @@ aliases:
 - 視床下部
 - 시상하부
 ---
+# [[Hypothalamus]]  
+
 ## #has_/text_of_/abstract 
 
 > The **Hypothalamus** (pl.: hypothalami; from Ancient Greek  ὑπό (hupó) 'under' 

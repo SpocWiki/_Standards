@@ -270,11 +270,8 @@ dv_has_:
     ybb: ndém ndém
     za: lingz
     zu: iqanda(inombolo)
----
---
-  - ០
-  - 𐆊
 Unicode_character:
+  - 𐆊
   - 0
   - ⓿
   - ⁰
@@ -324,7 +321,9 @@ dv_is_same_as:
 ---
 
 
-# [[Zero]]
+# [[Zero]] 0 
+
+
 
 #is_/same_as :: [[../../../../../WikiData/WD~Zero,204|WD~Zero,204]]
 

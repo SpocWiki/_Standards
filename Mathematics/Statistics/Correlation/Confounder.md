@@ -52,6 +52,8 @@ aliases:
 - 混淆變數
 - 교락
 ---
+# [[Confounder]]  
+
 ## #has_/text_of_/abstract 
 
 > In causal inference, a **confounder** is a variable 

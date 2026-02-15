@@ -159,6 +159,8 @@ dv_has_:
     zh_sg: 燃料电池
     zh_tw: 燃料電池
 ---
+# [[Fuel_Cell]]  
+
 ## #has_/text_of_/abstract 
 
 > A **Fuel Cell** is an electrochemical cell that converts the chemical energy of a fuel (often hydrogen) 

@@ -380,7 +380,9 @@ dv_has_:
     zh_sg: 和平
     zh_tw: 和平
 ---
-# [[Peace]] 
+# [[Peace]] ☮︎ 
+
+
 
 #is_/same_as :: [[../../WikiData/WD~Peace,454]] 
 

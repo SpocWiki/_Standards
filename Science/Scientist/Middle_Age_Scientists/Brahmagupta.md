@@ -209,6 +209,8 @@ dv_has_:
     zh_sg: 婆罗摩笈多
     zh_tw: 婆羅摩笈多
 ---
+# [[Brahmagupta]]  
+
 ---
 audio: "http://commons.wikimedia.org/wiki/Special:FilePath/Brahmagupta.ogg"
 birth_name: ब्रह्मगुप्तः

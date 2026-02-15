@@ -70,7 +70,6 @@ subreddit: snowboarding
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Snowboarding%20pictogram.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/BoarderX.JPG
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Snowboarding.jpg
-Unicode_character: "\U0001F3C2"
 IPTC_NewsCode: mediatopic/20001064
 Krugosvet_article_archived_: sport/SNOUBORDING.html
 dv_has_:
@@ -161,8 +160,11 @@ dv_has_:
     zh_hk: 單板滑雪
     zh_sg: 单板滑雪
     zh_tw: 單板滑雪
+Unicode_character: 🏂
 ---
-# [[Snowboarding]] 
+# [[Snowboarding]] 🏂 
+
+
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Snowboarding,178131|WD~Snowboarding,178131]]  
 

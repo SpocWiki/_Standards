@@ -521,7 +521,10 @@ dv_has_:
     zh_tw: 猶太教
     zu: UbuJuda
 ---
-# [[Judaism]] 
+
+# [[Judaism]] ✡ 
+
+
 
 #is_/same_as :: [[../../../../../WikiData/WD~Judaism,9268|WD~Judaism,9268]]
 

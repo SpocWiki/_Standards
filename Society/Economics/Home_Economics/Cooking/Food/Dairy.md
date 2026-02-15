@@ -155,6 +155,8 @@ dv_has_:
     zh-cn: 乳业
     zh_hans: 乳业
 ---
+# [[Dairy]]  
+
 ## #has_/text_of_/abstract 
 
 > A **Dairy** is a place where milk is stored and where butter, cheese and other dairy products are made, or a place where those products are sold.: 325 : 284  It may be a room, a building or a larger establishment.: 284  In the United States, the word may also describe a dairy farm or the part of a mixed farm dedicated to milk for human consumption,: 284  whether from cows, buffaloes, goats, yaks, sheep, horses or camels.

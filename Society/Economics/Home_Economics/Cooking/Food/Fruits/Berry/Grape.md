@@ -201,7 +201,6 @@ schematic:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Wine%20grape%20diagram%20en.svg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Wine%20grape%20diagram%20numbered.svg
 equivalent_class: http://dbpedia.org/ontology/Grape
-Unicode_character: "\U0001F347"
 Amazon_com_browse_node:
 - 2255595011
 - 6464957011
@@ -409,6 +408,7 @@ dv_has_:
     zh_hans: 葡萄
     zh_hant: 葡萄
     zh_tw: 葡萄
+Unicode_character: 🍇
 ---
 # [[Grape]] 🍇 
 

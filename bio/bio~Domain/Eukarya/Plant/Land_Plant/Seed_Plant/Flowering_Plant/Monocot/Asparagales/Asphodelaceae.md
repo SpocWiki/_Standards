@@ -97,6 +97,8 @@ aliases:
 - 阿福花科
 - 아스포델루스과
 ---
+# [[Asphodelaceae]]  
+
 ## #has_/text_of_/abstract 
 
 > **Asphodelaceae** is a family of flowering plants in the order Asparagales. 

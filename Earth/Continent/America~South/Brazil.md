@@ -861,7 +861,6 @@ total_fertility_rate: 1.74
 type: Country
 UMLS_CUI: C0006137
 unemployment_rate: 7
-Unicode_character: 🇧🇷
 Universal_Decimal_Classification: (81)
 urban_population:
   - 183878366
@@ -1307,6 +1306,7 @@ dv_is_same_as:
   - "[[/_personal/Earth/Continent/America~South/Brazil.personal|Brazil.personal]]"
   - "[[/_secret/Earth/Continent/America~South/Brazil.secret|Brazil.secret]]"
 dv_has_url_for_code_repository: https://github.com/SpocWiki/America-Brazil
+Unicode_character: 🇧🇷
 ---
 # [[Brazil]] 🇧🇷 
 

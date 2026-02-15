@@ -307,6 +307,8 @@ dv_has_:
     zh: 羅莎·盧森堡
     zh_hant: 羅莎·盧森堡
 ---
+# [[Luxemburg,Rosa]]  
+
 ## #has_/text_of_/abstract 
 
 > **Rosa Luxemburg** (Polish: Róża Luksemburg, [ˈruʐa ˈluksɛmburk] ; German: [ˈʁoːza ˈlʊksm̩bʊʁk] ; 

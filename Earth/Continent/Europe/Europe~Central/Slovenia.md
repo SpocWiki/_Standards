@@ -1078,7 +1078,6 @@ country_calling_code: 386
 U_S_National_Archives_Identifier: 10045308
 BHCL_UUID: 6ce7bf2f-0a71-4070-841b-d81c20f18c0c
 Colon_Classification: SG--59223
-Unicode_character: "\U0001F1F8\U0001F1EE"
 location:
 - 46.05
 - 14.52
@@ -1105,8 +1104,11 @@ Languages:
 - sl
 - sh
 icon: flag-si
+Unicode_character: 🇸🇮
 ---
-# [[Slovenia]] 
+
+# [[Slovenia]] 🇸🇮 
+
 
 ## [[Slovenia]] has Problems... 
 

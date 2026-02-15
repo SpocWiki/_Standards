@@ -340,7 +340,9 @@ dv_has_:
     zh_sg: 千克
     zh_tw: 公斤
 ---
-# [[Unit~Kilogram]] 
+
+# [[Unit~Kilogram]] ㎏ 
+
 
 #is_/same_as :: [[../../../../WikiData/WD~Kilogram,11570|WD~Kilogram,11570]] 
 

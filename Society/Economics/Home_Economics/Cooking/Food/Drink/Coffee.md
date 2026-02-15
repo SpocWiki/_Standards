@@ -522,7 +522,9 @@ dv_has_:
     zh_tw: 咖啡
     zu: ikhofi
 ---
-# [[Coffee]] 
+# [[Coffee]] ☕ 
+
+
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Coffee,8486|WD~Coffee,8486]] 
 

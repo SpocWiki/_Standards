@@ -95,6 +95,8 @@ aliases:
 - 星链
 - 스타링크
 ---
+# [[Starlink]]  
+
 ## #has_/text_of_/abstract 
 
 > **Starlink** is a satellite internet constellation operated by Starlink Services, LLC, 

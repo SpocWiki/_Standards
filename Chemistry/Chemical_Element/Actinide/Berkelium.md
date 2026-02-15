@@ -121,7 +121,6 @@ SpocWebEntityId: 21992
 time_of_discovery_or_invention: 1949
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_berkelium,8085557]]'
 type: Element
-Unicode_character: 鉳
 UNII: 2YQA718KUU
 dv_is_:
   same_as:
@@ -352,8 +351,8 @@ dv_has_value_for_energy_form_kj_mol: 0
 dv_has_number_of_period: 7
 dv_has_number_of_group: 31
 dv_has_number_of_electrons: 97
+Unicode_character: 鉳
 ---
-
 # [[Berkelium]] 鉳 
 
 #is_/same_as :: [[../../../WikiData/WD~Berkelium,1882]] 

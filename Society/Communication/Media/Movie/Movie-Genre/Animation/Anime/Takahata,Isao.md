@@ -95,6 +95,8 @@ dv_has_:
     zh_sg: 高畑勋
     zh_tw: 高畑勳
 ---
+# [[Takahata,Isao]]  
+
 > **Isao Takahata** (高畑 勲, Takahata Isao, October 29, 1935 – April 5, 2018) 
 > was a [[../../../../../../../Earth/Continent/Asia/Asia~East/Japan|Japanese]] director, screenwriter and producer. 
 > 

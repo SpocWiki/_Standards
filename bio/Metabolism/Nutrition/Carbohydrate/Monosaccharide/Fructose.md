@@ -157,6 +157,8 @@ dv_has_:
     zh_tw: 果糖
     zu: I-Fructose
 ---
+# [[Fructose]]  
+
 ## #has_/text_of_/abstract 
 
 > **Fructose**, or fruit sugar, is a ketonic simple sugar found in many plants, 

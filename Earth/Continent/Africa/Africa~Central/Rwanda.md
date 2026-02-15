@@ -282,7 +282,6 @@ nominal_GDP:
 - 13312796765
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Wv%20Ruanda%20banner.jpg
 coordinate_location: Point(30.0 -2.0)
-Unicode_character: "\U0001F1F7\U0001F1FC"
 GitHub_topic: rwanda
 CIVICUS_Monitor_country_entry:
 - rwanda
@@ -735,8 +734,11 @@ dv_is_same_as:
 - '[[/_personal/Earth/Continent/Africa/Africa~Central/Rwanda.personal|Rwanda.personal]]'
 - '[[/_secret/Earth/Continent/Africa/Africa~Central/Rwanda.secret|Rwanda.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Rwanda
+Unicode_character: 🇷🇼
 ---
-# [[Rwanda]] 
+# [[Rwanda]] 🇷🇼 
+
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

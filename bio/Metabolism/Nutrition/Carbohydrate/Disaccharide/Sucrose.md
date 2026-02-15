@@ -170,6 +170,8 @@ dv_has_:
     zh_hant: 蔗糖
     zh_tw: 蔗糖
 ---
+# [[Sucrose]]  
+
 #is_/instance_of :: [[../Disaccharide]]
 #has_/parts :: [[../Monosaccharide/Glucose]] 
 #has_/parts :: [[../Monosaccharide/Fructose]]  

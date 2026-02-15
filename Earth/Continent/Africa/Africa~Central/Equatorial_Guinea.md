@@ -855,9 +855,10 @@ CIVICUS_Monitor_country_entry: equatorial-guinea
 subreddit: EquatorialGuinea
 hashtag: EquatorialGuinea
 IPA_transcription: ɛkʋɑtu'ɾɪɑːlgɪneːɑ
-Unicode_character: "\U0001F1EC\U0001F1F6"
+Unicode_character: 🇬🇶
 ---
-# [[Equatorial_Guinea]] 
+
+# [[Equatorial_Guinea]] 🇬🇶 
 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`

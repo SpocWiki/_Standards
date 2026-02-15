@@ -194,7 +194,6 @@ subclass_of:
 time_of_discovery_or_invention: 1755
 type: Element
 UMLS_CUI: C0024467
-Unicode_character: 鎂
 UNII: I38ZP9992A
 U_S_National_Archives_Identifier: 10646571
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Metal%20magnesium%20crystal.webm
@@ -476,8 +475,11 @@ dv_has_number_of_period: 3
 dv_has_number_of_group: 2
 dv_has_name_abbreviated: Mg
 dv_has_number_of_electrons: 12
+Unicode_character: 鎂
 ---
-# [[Magnesium]]
+# [[Magnesium]] 鎂 
+
+
 
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Magnesium,660]] 

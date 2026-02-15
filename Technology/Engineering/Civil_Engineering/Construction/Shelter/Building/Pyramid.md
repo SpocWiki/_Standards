@@ -248,6 +248,8 @@ dv_has_:
     zh_hant: 金字塔
     zu: Isitshopolonco
 ---
+# [[Pyramid]]  
+
 #is_/similar_to :: [[../../../../../../Mathematics/Geometry/Geometry-3D/Polyhedron/Pyramid(Geometry)|Pyramid(Geometry)]] 
 #is_/same_as :: [[../../../../../../WikiData/WD~Pyramid,12516|WD~Pyramid,12516]] 
 

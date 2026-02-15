@@ -130,7 +130,6 @@ Commons_category: Helicopters
 nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/20080406165033%21V-22%20Osprey%20refueling%20edit1.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/EC%20145.ogv
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/NH90-Caiman.stl
-Unicode_character: "\U0001F681"
 Iconclass_notation: 46C371
 P8189: 987007555648305200
 Krugosvet_article: nauka_i_tehnika/voennaya_tehnika/VERTOLET.html
@@ -283,6 +282,7 @@ dv_has_:
     zh_hans: 直升机
     zh_hant: 直升機
     zh_tw: 直升機
+Unicode_character: 🚁
 ---
 # [[Helicopter]] 🚁 
 

@@ -179,7 +179,6 @@ Dewey_Decimal_Classification:
 - 721.823
 IEV_number: 845-29-140
 name_in_kana: まど
-Unicode_character: "\U0001FA9F"
 dv_has_:
   name_:
     af: venster
@@ -351,8 +350,11 @@ dv_has_:
     zh: 窗
     zh_hans: 窗
     zh_hant: 窗
+Unicode_character: 🪟
 ---
-# [[Window]] 
+# [[Window]] 🪟 
+
+
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Window,35473|WD~Window,35473]]  
 

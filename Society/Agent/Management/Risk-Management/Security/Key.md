@@ -1,121 +1,121 @@
 ---
 aliases:
-- alc'hwez
-- Allwedd
-- anahtar
-- Anak kunci
-- atafi
-- atslēga
-- avain
-- Cehikan
-- chave
-- cheie
-- chiave
-- chìa khóa
-- Ciav
-- Ciav (saradura)
-- Clau
-- Clau (zarrallería)
-- Clavis
-- clé
-- Crae
-- eochair
-- giltza
-- kaai
-- Kai
-- Kalid
-- Kalit
-- Key
-- Kle
-- klefo
-- ključ
-- klucz
-- klíč
-- kulcs
-- Kulem-bila
-- Kľúč
-- llave
-- Llawi
-- lykel
-- Lykill
-- Makulli
-- nyckel
-- nøgle
-- nøkkel
-- Pe'aha
-- Raktas
-- saafe
-- Saafi
-- safoa
-- Schlëssel
-- Schlüssel
-- sleutel
-- Sosi
-- susi
-- só-sî
-- Só-sù
-- sō-siè
-- Ta'ta'ôhëö'o
-- Tlapoatl
-- Tswa yaya
-- Ufunguo
-- Urupfunguruzo
-- Võti
-- Yaawe
-- yaekseiz
-- ċavetta
-- ŝlosilo
-- ανοιγάρ'
-- κλειδί
-- Асҡыс
-- Ачкыч
-- Дүлгүүр
-- кључ
-- Калид
-- Клуч
-- ключ
-- Կողպեքի բանալի
-- מפתח
-- مفتاح
-- چابی
-- چاٻي
-- کلید
-- ܩܠܝܕܐ
-- चाबी
-- ਚਾਬੀ
-- சாவி
-- తాళము
-- ಬೀಗದ ಕೈ
-- താക്കോൽ
-- ลูกกุญแจ
-- သော့
-- သေႃး
-- ቁልፍ
-- កូនសោរ
-- ᠠᠨᠠᡴᡡ
-- Ọ́tugwó
-- ⵜⴰⵙⴰⵔⵓⵜ
-- 鍵
-- 鎖匙
-- 鑰匙
-- 钥匙
-- 열쇠
+  - alc'hwez
+  - Allwedd
+  - anahtar
+  - Anak kunci
+  - atafi
+  - atslēga
+  - avain
+  - Cehikan
+  - chave
+  - cheie
+  - chiave
+  - chìa khóa
+  - Ciav
+  - Ciav (saradura)
+  - Clau
+  - Clau (zarrallería)
+  - Clavis
+  - clé
+  - Crae
+  - eochair
+  - giltza
+  - kaai
+  - Kai
+  - Kalid
+  - Kalit
+  - Key
+  - Kle
+  - klefo
+  - ključ
+  - klucz
+  - klíč
+  - kulcs
+  - Kulem-bila
+  - Kľúč
+  - llave
+  - Llawi
+  - lykel
+  - Lykill
+  - Makulli
+  - nyckel
+  - nøgle
+  - nøkkel
+  - Pe'aha
+  - Raktas
+  - saafe
+  - Saafi
+  - safoa
+  - Schlëssel
+  - Schlüssel
+  - sleutel
+  - Sosi
+  - susi
+  - só-sî
+  - Só-sù
+  - sō-siè
+  - Ta'ta'ôhëö'o
+  - Tlapoatl
+  - Tswa yaya
+  - Ufunguo
+  - Urupfunguruzo
+  - Võti
+  - Yaawe
+  - yaekseiz
+  - ċavetta
+  - ŝlosilo
+  - ανοιγάρ'
+  - κλειδί
+  - Асҡыс
+  - Ачкыч
+  - Дүлгүүр
+  - кључ
+  - Калид
+  - Клуч
+  - ключ
+  - Կողպեքի բանալի
+  - מפתח
+  - مفتاح
+  - چابی
+  - چاٻي
+  - کلید
+  - ܩܠܝܕܐ
+  - चाबी
+  - ਚਾਬੀ
+  - சாவி
+  - తాళము
+  - ಬೀಗದ ಕೈ
+  - താക്കോൽ
+  - ลูกกุญแจ
+  - သော့
+  - သေႃး
+  - ቁልፍ
+  - កូនសោរ
+  - ᠠᠨᠠᡴᡡ
+  - Ọ́tugwó
+  - ⵜⴰⵙⴰⵔⵓⵜ
+  - 鍵
+  - 鎖匙
+  - 鑰匙
+  - 钥匙
+  - 열쇠
 has_id_wikidata: Q132041
-physically_interacts_with: '[[_Standards/WikiData/WD~lock,228039]]'
+physically_interacts_with: "[[_Standards/WikiData/WD~lock,228039]]"
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-different_from: '[[_Standards/WikiData/WD~Klucz,1776558]]'
-has_use: '[[_Standards/WikiData/WD~access,13157735]]'
-subclass_of: '[[_Standards/WikiData/WD~physical_tool,39546]]'
+  - "[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+different_from: "[[_Standards/WikiData/WD~Klucz,1776558]]"
+has_use: "[[_Standards/WikiData/WD~access,13157735]]"
+subclass_of: "[[_Standards/WikiData/WD~physical_tool,39546]]"
 OmegaWiki_Defined_Meaning: 6149
 IMDb_keyword: key
 Commons_category: Keys
 Iconclass_notation: 41A3281
 Unicode_character:
-- "\U0001F5DD"
-- "\U0001F511"
+  - 🗝
+  - 🔑
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Llave%20bronce.jpg
 dv_has_:
   name_:
@@ -245,10 +245,10 @@ dv_has_:
     zh_sg: 钥匙
     zh_tw: 鑰匙
 ---
-# [[Key]] 🗝 
+# [[Key]] 🗝 🔑
 
+#has_/complement :: [[Lock]] 
 #is_/similar_to :: [[../../../../../Technology/IT/Cryptography/Cryptographic_Key]] 
-#is_/used_by :: [[Lock]] 
 #is_/same_as :: [[WD~Key,132041]] 
 
 ## #has_/text_of_/abstract 

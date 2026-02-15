@@ -225,7 +225,6 @@ short_name: помідор
 taxon_author_citation: L.
 OmegaWiki_Defined_Meaning: 423688
 ITIS_TSN: 521671
-Unicode_character: "\U0001F345"
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%9F%E0%A6%AE%E0%A7%87%E0%A6%9F%E0%A7%8B.wav
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=101442
 sequenced_genome_URL: https://plants.ensembl.org/Solanum_lycopersicum
@@ -483,6 +482,7 @@ dv_has_:
     zh_hk: 番茄
     zh_tw: 櫻桃小番茄
     zu: Utamatisi
+Unicode_character: 🍅
 ---
 # [[Tomato]] 🍅 
 

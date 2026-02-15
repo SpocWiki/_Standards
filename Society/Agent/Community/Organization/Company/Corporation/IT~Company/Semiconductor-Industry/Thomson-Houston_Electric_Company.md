@@ -26,6 +26,8 @@ dv_has_:
     zh_hans: 汤姆孙-豪斯顿电气公司
     zh_hant: 湯姆孫-豪斯頓電氣公司
 ---
+# [[Thomson-Houston_Electric_Company]]  
+
 > The Thomson-Houston Electric Company was a manufacturing company that was one of the precursors of General Electric.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Thomson-Houston%20Electric%20Company) 

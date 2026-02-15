@@ -739,7 +739,6 @@ NUTS_code:
 ISO_3166_1_alpha_2_code: MT
 FIPS_10_4_countries_and_regions_: MT
 WIPO_ST_3: MT
-Unicode_character: "\U0001F1F2\U0001F1F9"
 Colon_Classification: SG--5285
 Krugosvet_article: strany_mira/MALTA.html
 motto_text: Truly Mediterranean
@@ -792,10 +791,9 @@ Languages:
 - mt
 - en-MT
 icon: flag-mt
+Unicode_character: 🇲🇹
 ---
-# [[Malta]] 
-
-## [[Malta]] has Properties... 
+# [[Malta]] 🇲🇹 has Properties... 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

@@ -765,7 +765,6 @@ female_population:
 - 3244911
 population: 6117933
 FIPS_10_4_countries_and_regions_: TX
-Unicode_character: "\U0001F1F9\U0001F1F2"
 hashtag: Turkmenistan
 subreddit: Turkmenistan
 Commons_category: Turkmenistan
@@ -804,8 +803,11 @@ Languages:
 - ru
 - uz
 icon: flag-tm
+Unicode_character: 🇹🇲
 ---
-# [[Turkmenistan]] 
+# [[Turkmenistan]] 🇹🇲 
+
+
 
 ## [[Turkmenistan]] has Properties...
 

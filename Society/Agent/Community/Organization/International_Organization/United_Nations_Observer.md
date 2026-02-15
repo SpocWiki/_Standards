@@ -76,6 +76,8 @@ dv_has_:
     zh_sg: 联合国大会观察员列表
     zh_tw: 聯合國大會觀察員列表
 ---
+# [[United_Nations_Observer]]  
+
 ## #has_/text_of_/abstract  
 
 > The United Nations General Assembly has granted observer status 

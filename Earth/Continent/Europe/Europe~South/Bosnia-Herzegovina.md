@@ -952,6 +952,7 @@ GitHub_topic: bosnia-and-herzegovina
 CIVICUS_Monitor_country_entry: bosnia-herzegovina
 hashtag: BosniaandHerzegovina
 ---
+
 # [[Bosnia-Herzegovina]] 🇧🇦 
 
 For more Details, check out this Repository into this Subfolder: 

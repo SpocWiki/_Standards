@@ -54,6 +54,8 @@ aliases:
 - Тринаест духова
 - سیزده روح (فیلم ۲۰۰۱)
 ---
+# [[THIR13EN_Ghosts]]  
+
 #has_/Design_/
 
 > Thirteen Ghosts (also known as 13 Ghosts and stylized as THIR13EN Ghosts) 

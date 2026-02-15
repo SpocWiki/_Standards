@@ -833,6 +833,7 @@ expiryDate: ""
 Languages:
   - fr-BJ
 ---
+
 # [[Benin]] 🇧🇯 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`

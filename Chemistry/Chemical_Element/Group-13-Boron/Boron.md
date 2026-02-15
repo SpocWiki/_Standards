@@ -409,7 +409,6 @@ dv_has_number_of_group: 13
 dv_has_name_abbreviated: B
 dv_has_number_of_electrons: 5
 ---
-
 # [[Boron]] 硼 
 
 #is_/same_as :: [[../../../WikiData/WD~Boron,618]] 

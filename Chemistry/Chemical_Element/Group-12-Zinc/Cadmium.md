@@ -156,7 +156,6 @@ subject_has_role:
 time_of_discovery_or_invention: 1817
 type: Element
 UMLS_CUI: C0006632
-Unicode_character: 鎘
 UNII: 00BH33GNGH
 UNSPSC_Code: 11101710
 Wolfram_Language_entity_code: Entity["Mineral", "Cadmium"]
@@ -404,8 +403,8 @@ dv_has_number_of_period: 5
 dv_has_number_of_group: 12
 dv_has_name_abbreviated: Cd
 dv_has_number_of_electrons: 48
+Unicode_character: 鎘
 ---
-
 # [[Cadmium]] 鎘 
 
 #chemic/Element 

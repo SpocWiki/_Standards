@@ -210,7 +210,6 @@ icon: http://commons.wikimedia.org/wiki/Special:FilePath/Q55488%20noun%2019262%2
 equivalent_class:
 - http://dbpedia.org/ontology/RailwayStation
 - https://schema.org/TrainStation
-Unicode_character: "\U0001F689"
 dv_has_:
   name_:
     af: spoorwegstasie
@@ -362,6 +361,7 @@ dv_has_:
     zh-mo: 鐵路站
     zh-sg: 铁路车站
     zh-tw: 鐵路車站
+Unicode_character: 🚉
 ---
 # [[Railway_Station]] 🚉 
 

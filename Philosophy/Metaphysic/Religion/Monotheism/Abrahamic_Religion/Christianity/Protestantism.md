@@ -346,7 +346,9 @@ dv_has_:
     zh_hk: 新教
     zh_tw: 新教
 ---
-# [[Protestantism]] 
+# [[Protestantism]] ✝ 
+
+
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Protestantism,23540|WD~Protestantism,23540]] 
 

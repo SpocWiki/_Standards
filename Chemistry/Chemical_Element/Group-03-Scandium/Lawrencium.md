@@ -124,7 +124,6 @@ SpocWebEntityId: 21998
 time_of_discovery_or_invention: 1961-02-14
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_lawrencium,8085415]]'
 type: Element
-Unicode_character: 鐒
 UNII: QRT37X99RQ
 dv_is_:
   same_as:
@@ -353,8 +352,11 @@ dv_has_value_for_energy_form_kj_mol: 0
 dv_has_number_of_period: 7
 dv_has_number_of_group: 37
 dv_has_number_of_electrons: 103
+Unicode_character: 鐒
 ---
-# [[Lawrencium]] 
+# [[Lawrencium]] 鐒 
+
+
 
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Lawrencium,1905]] 

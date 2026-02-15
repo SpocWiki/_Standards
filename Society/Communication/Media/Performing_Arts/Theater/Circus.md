@@ -82,7 +82,6 @@ OmegaWiki_Defined_Meaning: 1195931
 described_at_URL:
 - https://levandekulturarv.se/forteckningen/element/turnerande-klassisk-cirkus
 - https://levandekulturarv.se/in-english/the-inventory/submissions/touring-classic-circus
-Unicode_character: "\U0001F3AA"
 U_S_National_Archives_Identifier: 10641946
 Dewey_Decimal_Classification: 791.3
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Circus%20Ronaldo%20door%20Dirk%20Annemans.jpg
@@ -196,6 +195,7 @@ dv_has_:
     zh_cn: 马戏团
     zh_hk: 馬戲團
     zh_tw: 馬戲團
+Unicode_character: 🎪
 ---
 # [[Circus]] 🎪 
 

@@ -530,8 +530,11 @@ dv_is_same_as:
 - '[[/_personal/Earth/Continent/Asia/Asia~South~East/Myanmar.personal|Myanmar.personal]]'
 - '[[/_secret/Earth/Continent/Asia/Asia~South~East/Myanmar.secret|Myanmar.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-Myanmar
+Unicode_character: 🇲🇲
 ---
-# [[Myanmar]] 
+# [[Myanmar]] 🇲🇲 
+
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

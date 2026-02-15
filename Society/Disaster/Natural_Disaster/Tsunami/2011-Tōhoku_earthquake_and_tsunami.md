@@ -228,6 +228,8 @@ dv_has_:
     zh: 2011年日本东北地方太平洋近海地震
     zh_hant: 2011年日本東北地方太平洋近海地震
 ---
+# [[2011-Tōhoku_earthquake_and_tsunami]]  
+
 #[[2011-Tōhoku_earthquake_and_tsunami]]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~2011_Tōhoku_earthquake_and_tsunami,36204]] 

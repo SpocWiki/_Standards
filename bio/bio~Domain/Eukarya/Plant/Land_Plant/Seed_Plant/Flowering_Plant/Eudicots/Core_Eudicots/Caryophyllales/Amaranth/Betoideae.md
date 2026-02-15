@@ -51,6 +51,8 @@ aliases:
 - 甜菜亚科
 - 근대아과
 ---
+# [[Betoideae]]  
+
 ## #has_/text_of_/abstract 
 
 > The Betoideae are a small subfamily of the flowering plant amaranth family, 

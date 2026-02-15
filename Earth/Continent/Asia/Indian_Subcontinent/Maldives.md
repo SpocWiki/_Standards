@@ -780,7 +780,6 @@ top_level_Internet_domain: '[[_Standards/WikiData/WD~.mv,43753]]'
 total_fertility_rate: 1.71
 type: Country
 unemployment_rate: 12
-Unicode_character: "\U0001F1F2\U0001F1FB"
 urban_population:
 - 217560
 - 203004
@@ -791,8 +790,11 @@ VAT_rate: 6
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Maldives,7112345]]'
 WIPO_ST_3: MV
 Wolfram_Language_entity_code: Entity["Country", "Maldives"]
+Unicode_character: 🇲🇻
 ---
-# [[Maldives]] 
+# [[Maldives]] 🇲🇻 
+
+
 
 ## [[Maldives]] has Properties...
 

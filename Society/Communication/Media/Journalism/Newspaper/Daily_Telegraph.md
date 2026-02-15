@@ -55,6 +55,8 @@ dv_has_:
     zh_sg: 每日电讯报
     zh_tw: 每日電訊報
 ---
+# [[Daily_Telegraph]]  
+
 ## #has_/text_of_/abstract 
 
 > The **Daily Telegraph**, known online and elsewhere as The Telegraph, 

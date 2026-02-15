@@ -485,8 +485,11 @@ dv_has_:
     zh_sg: 爱
     zh_tw: 愛
     zu: Uthando
+Unicode_character: ❤
 ---
-# [[Love]] 
+# [[Love]] ❤ 
+
+
 
 ## #has_/text_of_/abstract 
 

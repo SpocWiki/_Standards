@@ -115,7 +115,6 @@ IMDb_keyword: freeway
 OpenStreetMap_tag_or_key:
 - Tag:highway=motorway
 - Tag:access_control=full
-Unicode_character: "\U0001F6E3"
 dv_has_:
   name_:
     ami: Kacalowayan a lalan
@@ -231,6 +230,7 @@ dv_has_:
     zh-mo: 高速公路
     zh-sg: 高速公路
     zh-tw: 高速公路
+Unicode_character: 🛣
 ---
 # [[Controlled-Access_Highway]] 🛣 
 

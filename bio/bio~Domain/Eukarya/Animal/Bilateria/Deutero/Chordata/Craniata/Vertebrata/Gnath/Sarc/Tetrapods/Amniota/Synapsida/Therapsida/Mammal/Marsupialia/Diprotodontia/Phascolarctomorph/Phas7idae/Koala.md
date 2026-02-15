@@ -131,7 +131,6 @@ sequenced_genome_URL:
 - https://bmcgenomics.biomedcentral.com/articles/10.1186/1471-2164-15-786
 - https://www.dnazoo.org/assemblies/Phascolarctos_cinereus
 taxon_author_citation: (Goldfuss, 1817)
-Unicode_character: "\U0001F428"
 dv_has_:
   name_:
     af: koala
@@ -266,6 +265,7 @@ dv_has_:
     zh: 無尾熊
     zh_cn: 考拉
     zh_hans: 考拉
+Unicode_character: 🐨
 ---
 # [[Koala]]  🐨
 

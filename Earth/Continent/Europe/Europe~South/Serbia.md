@@ -962,7 +962,6 @@ IPA_transcription: ˈsʲerbʲɪjə
 country_calling_code: 381
 U_S_National_Archives_Identifier: 10045307
 Image_Archive_Herder_Institute: Q403
-Unicode_character: "\U0001F1F7\U0001F1F8"
 CIVICUS_Monitor_country_entry: serbia
 subreddit: serbia
 GitHub_topic: serbia
@@ -970,9 +969,9 @@ Colon_Classification: SG--59221
 Krugosvet_article: strany-mira/serbiya
 Commons_gallery: Србија
 ---
-# [[Serbia]] 
 
-## [[Serbia]] has Properties... 
+# [[Serbia]] 🇷🇸 has Properties... 
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

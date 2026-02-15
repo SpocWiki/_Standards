@@ -181,6 +181,8 @@ dv_has_:
     yue: 2010年海地地震
     zh: 2010年海地地震
 ---
+# [[2010-Haiti_earthquake]]  
+
 #[[2010-Haiti_earthquake]]] 
 
 #is_/same_as :: [[../../../../WikiData/WD~2010_Haiti_earthquake,43777|WD~2010_Haiti_earthquake,]] 

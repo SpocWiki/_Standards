@@ -164,7 +164,6 @@ time_of_discovery_or_invention: 1789
 time_weighted_average_exposure_limit: 5
 type: Element
 UMLS_CUI: C0043506
-Unicode_character: 鋯
 UNII: C6V6S92N3C
 vapor_pressure: 0
 ZVG_number:
@@ -401,8 +400,11 @@ dv_has_number_of_period: 5
 dv_has_number_of_group: 4
 dv_has_name_abbreviated: Zr
 dv_has_number_of_electrons: 40
+Unicode_character: 鋯
 ---
-# [[Zirconium]] 
+# [[Zirconium]] 鋯 
+
+
 
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Zirconium,1038]] 

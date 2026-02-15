@@ -334,6 +334,8 @@ dv_has_:
     yue: 蘇里民大帝
     zh: 苏莱曼一世
 ---
+# [[Suleiman_the_Magnificent]]  
+
 #has_/time_/started ::  1494-11-06 
 #has_/time_/stopped ::  1566-09-06 
 #has_/duration  :: `=(default(this.has_time_stopped, date(now)) - this.has_time_started)` 

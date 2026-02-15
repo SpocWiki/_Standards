@@ -162,6 +162,8 @@ dv_has_:
     zh_sg: 期望值
     zh_tw: 期望值
 ---
+# [[Expected_Value]]  
+
 #is_/same_as :: [[../../WikiData/WD~Expectation,200125|WD~Expectation,200125]] 
 
 ## #has_/text_of_/abstract 

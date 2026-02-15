@@ -350,6 +350,8 @@ dv_has_:
     zh_sg: 汉字
     zh_tw: 漢字
 ---
+# [[Chinese_Characters]]  
+
 ## #has_/text_of_/abstract 
 
 > **Chinese characters** are logographs used to write the Chinese languages and others from regions historically influenced by Chinese culture. Of the four independently invented writing systems accepted by scholars, they represent the only one that has remained in continuous use. Over a documented history spanning more than three millennia, the function, style, and means of writing characters have changed greatly. Unlike letters in alphabets that reflect the sounds of speech, Chinese characters generally represent morphemes, the units of meaning in a language. Writing all of the frequently used vocabulary in a language requires roughly 2000–3000 characters; as of 2024, nearly 100000 have been identified and included in  The Unicode Standard. Characters are created according to several principles, where aspects of shape and pronunciation may be used to indicate the character's meaning.

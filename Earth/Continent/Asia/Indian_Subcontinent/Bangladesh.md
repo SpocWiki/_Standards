@@ -955,9 +955,7 @@ shares_border_with:
   - "[[_Standards/WikiData/WD~India,668]]"
   - "[[_Standards/WikiData/WD~Myanmar,836]]"
 ---
-# [[Bangladesh]] 🇧🇩 
-
-## [[Bangladesh]] has Properties...
+# [[Bangladesh]] 🇧🇩 has Properties...
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

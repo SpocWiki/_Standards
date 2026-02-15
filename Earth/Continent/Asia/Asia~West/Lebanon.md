@@ -838,7 +838,6 @@ UIC_numerical_country_code: 98
 UMLS_CUI: C0023190
 UNDP_country_code: LEB
 unemployment_rate: 6
-Unicode_character: "\U0001F1F1\U0001F1E7"
 urban_population:
 - 4900251
 - 4982643
@@ -849,8 +848,11 @@ VAT_rate: 11
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Lebanon,7112332]]'
 WIPO_ST_3: LB
 Wolfram_Language_entity_code: Entity["Country", "Lebanon"]
+Unicode_character: 🇱🇧
 ---
-# [[Lebanon]] 
+# [[Lebanon]] 🇱🇧 
+
+
 
 ## [[Lebanon]] has Properties...
 

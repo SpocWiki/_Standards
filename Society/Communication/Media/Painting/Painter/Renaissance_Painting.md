@@ -119,6 +119,8 @@ aliases:
 - 文藝復興藝術
 - 르네상스 미술
 ---
+# [[Renaissance_Painting]]  
+
 ## #has_/text_of_/abstract 
 
 > Renaissance art (1350 – 1620) is the painting, sculpture, and decorative arts 

@@ -63,6 +63,8 @@ dv_has_:
     zh-sg: 道格拉斯·麦克罗伊
     zh-tw: 道格拉斯·麥克羅伊
 ---
+# [[McIlroy,Doug]]  
+
 > Malcolm Douglas McIlroy (born 1932) 
 > is an American mathematician, engineer, and programmer. 
 > As of 2019 he is an Adjunct Professor of Computer Science at [[Dartmouth_College]].

@@ -141,7 +141,6 @@ time_of_discovery_or_invention: 1803
 time_weighted_average_exposure_limit: 0.1
 type: Element
 UMLS_CUI: C0035493
-Unicode_character: 銠
 UNII: DMK383DSAC
 vapor_pressure: 0
 video: http://commons.wikimedia.org/wiki/Special:FilePath/A%20very%20unique%20rhodium%20cake.webm
@@ -375,8 +374,11 @@ dv_is_same_as:
 - '[[/_secret/Chemistry/Chemical_Element/Group-09-Cobalt/Rhodium.secret|Rhodium.secret]]'
 dv_has_name_abbreviated: Rh
 dv_has_number_of_electrons: 45
+Unicode_character: 銠
 ---
-# [[Rhodium]] 
+# [[Rhodium]] 銠 
+
+
 
 #chemic/Element 
 

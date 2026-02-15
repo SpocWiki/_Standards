@@ -85,6 +85,8 @@ dv_has_:
     zh_hk: 爆女大格鬥
     zh_tw: 歪小子史考特
 ---
+# [[Scott_Pilgrim_vs]]  
+
 ## #has_/text_of_/abstract 
 
 > **Scott Pilgrim vs. the World** is a 2010 romantic action comedy film 

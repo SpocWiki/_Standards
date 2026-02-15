@@ -35,6 +35,8 @@ dv_has_:
     sv: Romantiska kompositörer
     tr: Romantik dönem bestecileri listesi
 ---
+# [[Romantic_Composer]]  
+
 ## #has_/text_of_/abstract 
 
 > The Romantic era of Western Classical music spanned the 19th century to the early 20th century, 

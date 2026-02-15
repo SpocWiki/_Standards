@@ -583,8 +583,11 @@ dv_has_:
     zh_hk: 巴布亞新畿內亞
     zh_tw: 巴布亞紐幾內亞
     zu: I-Papua Nyugini
+Unicode_character: 🇵🇬
 ---
-# [[Papua-New_Guinea]] 
+# [[Papua-New_Guinea]] 🇵🇬 
+
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 

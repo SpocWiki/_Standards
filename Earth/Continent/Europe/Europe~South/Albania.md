@@ -948,9 +948,8 @@ subreddit: albania
 GitHub_topic: albania
 IPA_transcription: ɐlˈbanʲɪjə
 ---
-# [[Albania]] 🇦🇱 
 
-## [[Albania]] has Properties... 
+# [[Albania]] 🇦🇱 has Properties... 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

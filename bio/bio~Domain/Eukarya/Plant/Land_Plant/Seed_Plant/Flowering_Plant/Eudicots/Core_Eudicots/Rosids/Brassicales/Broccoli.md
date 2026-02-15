@@ -112,7 +112,6 @@ this_taxon_is_source_of:
   - "[[_Standards/WikiData/WD~broccoli_sprouts,17163130]]"
   - "[[_Standards/WikiData/WD~broccoli,57544960]]"
 UMLS_CUI: C5703430
-Unicode_character: 🥦
 UNII: DW4954EP53
 USDA_NDB_number: 11095
 water_footprint: 285
@@ -232,6 +231,7 @@ dv_has_:
     zh_hant: 青花菜
     zh_tw: 青花菜
     zu: umBumane
+Unicode_character: 🥦
 ---
 # [[Broccoli]] 🥦 
 

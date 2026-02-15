@@ -379,14 +379,16 @@ U_S_National_Archives_Identifier: 10044678
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Armoiries%20SaintPierreetMiquelon.svg
 Dewey_Decimal_Classification: 2--7188
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Miquelon%20banner.jpg
-Unicode_character: ????
 geoshape: http://commons.wikimedia.org/data/main/Data:Saint+Pierre+and+Miquelon.map
 relief_location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Saint-Pierre-et-Miquelon%20collectivity%20relief%20location%20map.jpg
 bathymetry_image: http://commons.wikimedia.org/wiki/Special:FilePath/Saint-Pierre%20and%20Miquelon%20EEZ%20map-en.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Saint-PierreEtMiquelonFromTheISS.jpg
 location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Saint%20Pierre%20and%20Miquelon-CIA%20WFB%20Map.png
+Unicode_character: 🇵🇲
 ---
-# [[Saint-Pierre-et-Miquelon]] 
+# [[Saint-Pierre-et-Miquelon]] 🇵🇲 
+
+
 
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`

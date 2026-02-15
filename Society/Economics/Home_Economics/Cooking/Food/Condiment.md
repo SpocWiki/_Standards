@@ -122,6 +122,8 @@ aliases:
 - 调味料
 - 조미료
 ---
+# [[Condiment]]  
+
 ## #has_/text_of_/abstract 
 
 > A **Condiment** is a preparation that is added to food, typically after cooking, to impart a specific flavour, 

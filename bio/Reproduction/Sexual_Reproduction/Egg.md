@@ -231,7 +231,6 @@ pronunciation_audio:
 exact_match: https://turkic.elegantlexicon.com/turkforms.php?form=eggegg
 U_S_National_Archives_Identifier: 10637232
 Krugosvet_article: nauka_i_tehnika/biologiya/YATSO.html
-Unicode_character: "\U0001F95A"
 name: ꠄꠘ꠆ꠒꠣ
 dv_has_:
   name_:
@@ -464,6 +463,7 @@ dv_has_:
     zh_hant: 蛋
     zh_hk: 卵
     zu: iqanda
+Unicode_character: 🥚
 ---
 # [[Egg]] 🥚 
 

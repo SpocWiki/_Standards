@@ -122,7 +122,6 @@ time_of_discovery_or_invention: 1950
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_californium,8085325]]'
 type: Element
 UMLS_CUI: C0006758
-Unicode_character: 鉲
 UNII: 975X05H15A
 dv_has_:
   name_:
@@ -353,6 +352,7 @@ dv_is_same_as:
 - '[[/_private/Chemistry/Chemical_Element/Actinide/Californium.private|Californium.private]]'
 - '[[/_personal/Chemistry/Chemical_Element/Actinide/Californium.personal|Californium.personal]]'
 - '[[/_secret/Chemistry/Chemical_Element/Actinide/Californium.secret|Californium.secret]]'
+Unicode_character: 鉲
 ---
 # [[Californium]] 鉲 
 

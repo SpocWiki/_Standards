@@ -765,7 +765,6 @@ twinned_administrative_body:
 present_in_work: '[[/_Standards/WikiData/WD~Civilization_V,2385]]'
 part_of: '[[/_Standards/WikiData/WD~Southeast_Asia,11708]]'
 continent: '[[/_Standards/WikiData/WD~Asia,48]]'
-Unicode_character: "\U0001F1F8\U0001F1EC"
 UN_LOCODE: SGSIN
 GitHub_topic: singapore
 CIVICUS_Monitor_country_entry: singapore
@@ -900,10 +899,9 @@ Dewey_Decimal_Classification: 2--5957
 BHCL_UUID: 476c746b-bfdd-4667-8665-8d08237f08c6
 Wolfram_Language_entity_code: Entity["Country", "Singapore"]
 Libris_URI: gdsvv3l03k6z32s
+Unicode_character: 🇸🇬
 ---
-# [[Singapore]] 
-
-## [[Singapore]] has Properties 
+# [[Singapore]] 🇸🇬 has Properties 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

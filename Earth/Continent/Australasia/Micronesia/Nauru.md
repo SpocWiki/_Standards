@@ -300,7 +300,6 @@ CIVICUS_Monitor_country_entry: nauru
 subreddit: nauru
 Commons_category: Nauru
 hashtag: Nauru
-Unicode_character: "\U0001F1F3\U0001F1F7"
 X_Twitter_username: Republic_Nauru
 Krugosvet_article: strany_mira/NAURU.html
 native_label:
@@ -639,8 +638,11 @@ dv_has_:
     zh_sg: 瑙鲁
     zh_tw: 諾魯
     zu: i-Nauru
+Unicode_character: 🇳🇷
 ---
-# [[Nauru]] 
+# [[Nauru]] 🇳🇷 
+
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 

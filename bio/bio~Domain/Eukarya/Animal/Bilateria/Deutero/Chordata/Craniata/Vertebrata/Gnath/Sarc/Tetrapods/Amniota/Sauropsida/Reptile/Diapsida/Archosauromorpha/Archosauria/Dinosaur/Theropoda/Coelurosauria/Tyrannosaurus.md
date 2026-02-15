@@ -242,7 +242,9 @@ dv_has_:
     zh_hant: 暴龍屬
     zh_tw: 暴龍屬
 ---
-# [[Tyrannosaurus]] 
+# [[Tyrannosaurus]] 🦖 
+
+
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Tyrannosaurus,14332|WD~Tyrannosaurus,14332]] 
 

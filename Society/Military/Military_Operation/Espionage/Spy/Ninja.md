@@ -61,7 +61,6 @@ female_form_of_label:
 - ninja
 - kunoichi
 Commons_category: Ninja
-Unicode_character: "\U0001F977"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ninja%20The%20Last%20Thing%20You%20See.jpg
 dv_has_:
   name_:
@@ -159,6 +158,7 @@ dv_has_:
     zh_hant: 忍者
     zh_hk: 忍者
     zh_tw: 忍者
+Unicode_character: 🥷
 ---
 # [[Ninja]] 🥷 
 

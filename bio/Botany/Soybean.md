@@ -385,6 +385,8 @@ dv_has_:
     zh_cn: 大豆
     zh_tw: 大豆
 ---
+# [[Soybean]]  
+
 ## #has_/text_of_/abstract 
 
 > The **Soybean**, soy bean, or soya bean (Glycine max) is a species of legume native to East Asia, widely grown for its edible bean, which has numerous uses.

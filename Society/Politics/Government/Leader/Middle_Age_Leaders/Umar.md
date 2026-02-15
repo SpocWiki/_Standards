@@ -235,6 +235,8 @@ dv_has_:
     zgh: ⵄⵓⵎⴰⵕ ⴱⵏⵓ ⵍⵅⴰⵟⵟⴰⴱ
     zh: 欧麦尔·本·赫塔卜
 ---
+# [[Umar]]  
+
 ## #has_/text_of_/abstract 
 
 > **Umar** ibn al-Khattab (Arabic: عُمَر بْن ٱلْخَطَّاب, romanized: ʿUmar ibn al-Khaṭṭāb; c. 582/583 – 644), 

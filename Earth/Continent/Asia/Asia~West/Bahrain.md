@@ -787,9 +787,8 @@ ISO_3166_1_numeric_code: 48
 M49_code: 48
 U_S_National_Archives_Identifier: 10046225
 ---
-# [[Bahrain]] 🇧🇭 
 
-## [[Bahrain]] has Properties...
+# [[Bahrain]] 🇧🇭 has Properties...
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

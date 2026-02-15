@@ -146,6 +146,8 @@ dv_has_:
     zh_sg: 脂肪组织
     zh_tw: 脂肪組織
 ---
+# [[Adipose_Tissue]]  
+
 ## #has_/text_of_/abstract 
 
 > Adipose tissue (also known as body fat or simply fat) is a loose connective tissue 

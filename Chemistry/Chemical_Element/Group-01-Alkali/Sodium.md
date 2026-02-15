@@ -220,7 +220,6 @@ subclass_of:
 - '[[_Standards/WikiData/WD~alkali_metal,19557]]'
 time_of_discovery_or_invention: 1807
 type: Element
-Unicode_character: 鈉
 UNII: 9NEZ333N27
 ZVG_number: 8080
 dv_is_:
@@ -498,8 +497,11 @@ dv_has_number_of_period: 3
 dv_has_name_abbreviated: Na
 dv_has_number_of_electrons: 11
 dv_has_number_of_group: 1
+Unicode_character: 鈉
 ---
-# [[Sodium]] 
+# [[Sodium]] 鈉 
+
+
 
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Sodium,658]] 

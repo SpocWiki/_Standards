@@ -97,6 +97,8 @@ dv_has_:
     zh_sg: 欧格斯·兰斯莫斯
     zh_tw: 尤格·藍西莫
 ---
+# [[Lanthimos,Yorgos]]  
+
 ## #has_/text_of_/abstract 
 
 > **Yorgos Lanthimos** (Greek: Γιώργος Λάνθιμος [ˈʝorɣos ˈlanθimos]; 

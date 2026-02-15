@@ -122,7 +122,6 @@ IPTC_NewsCode: mediatopic/20000888
 Colon_Classification: MY2141
 Krugosvet_article: sport/kriket
 OpenStreetMap_tag_or_key: Tag:sport=cricket
-Unicode_character: "\U0001F3CF"
 inception: 1909-01-01T00:00:00Z
 dv_has_:
   name_:
@@ -284,8 +283,11 @@ dv_has_:
     zh_hant: 板球
     zh_tw: 板球
     zu: Ikhilikithi
+Unicode_character: 🏏
 ---
-# [[Cricket]] 
+# [[Cricket]] 🏏 
+
+
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Cricket,5375|WD~Cricket,5375]] 
 

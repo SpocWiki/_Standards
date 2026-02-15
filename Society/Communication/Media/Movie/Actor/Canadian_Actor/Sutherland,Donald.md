@@ -221,6 +221,8 @@ dv_has_:
     zh_tw: 唐納·蘇德蘭
     zu: Donald Sutherland
 ---
+# [[Sutherland,Donald]]  
+
 #has_/time_/started :: 1935-07-17
 #has_/time_/stopped :: 2024-06-20
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)`

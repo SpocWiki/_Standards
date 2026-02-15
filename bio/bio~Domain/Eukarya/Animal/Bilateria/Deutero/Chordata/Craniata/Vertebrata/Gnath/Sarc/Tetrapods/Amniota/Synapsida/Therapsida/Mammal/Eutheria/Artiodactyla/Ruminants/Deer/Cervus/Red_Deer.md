@@ -112,7 +112,6 @@ GenBank_assembly_accession_number:
 - GCA_910593805.1
 - GCA_910594005.1
 NBN_System_Key: NBNSYS0000005143
-Unicode_character: "\U0001F98C"
 taxon_common_name:
 - venáu
 - West European red deer
@@ -282,6 +281,7 @@ dv_has_:
     zh_cn: 马鹿
     zh_hans: 马鹿
     zh_tw: 馬鹿
+Unicode_character: 🦌
 ---
 # [[Red_Deer]] 🦌 
 

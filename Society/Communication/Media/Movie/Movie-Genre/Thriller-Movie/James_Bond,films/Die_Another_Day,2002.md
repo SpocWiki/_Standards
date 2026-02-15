@@ -111,6 +111,8 @@ aliases:
 - 新鐵金剛之不日殺機
 - 谁与争锋
 ---
+# [[Die_Another_Day,2002]]  
+
 ## #has_/text_of_/abstract 
 
 > **Die Another Day** is a 2002 spy film and the twentieth film in the James Bond series produced by Eon Productions. 

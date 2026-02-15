@@ -149,7 +149,6 @@ subclass_of:
 - '[[_Standards/WikiData/WD~disk_drive,64819622]]'
 - '[[_Standards/WikiData/WD~computer_hardware,3966]]'
 time_of_discovery_or_invention: 1956
-Unicode_character: "\U0001F5B4"
 UNSPSC_Code: 43201803
 uses: '[[_Standards/WikiData/WD~magnetic_storage,1364527]]'
 video:
@@ -307,6 +306,7 @@ dv_has_:
     zh-my: 硬盘
     zh_sg: 硬盘
     zh_tw: 硬碟
+Unicode_character: 🖴
 ---
 # [[Hard_Disk_Drive]] 🖴 
 

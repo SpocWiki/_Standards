@@ -508,7 +508,9 @@ dv_has_:
     zh_tw: 家豬
     zu: ingulube
 ---
-# [[Domestic_Pig]] 🐷 
+# [[Domestic_Pig]] 🐖 
+
+
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Pig,787|WD~Pig,787]] 
 

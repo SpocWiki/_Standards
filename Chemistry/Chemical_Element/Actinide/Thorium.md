@@ -361,7 +361,9 @@ dv_is_same_as:
 - '[[/_personal/Chemistry/Chemical_Element/Actinide/Thorium.personal|Thorium.personal]]'
 - '[[/_secret/Chemistry/Chemical_Element/Actinide/Thorium.secret|Thorium.secret]]'
 ---
-# [[Thorium]] 
+
+# [[Thorium]] 釷 
+
 
 #chemic/Element 
 has_name_group = `=this.dv_has_name_group` 

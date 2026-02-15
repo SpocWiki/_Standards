@@ -775,7 +775,6 @@ female_population:
 - 46787187
 - 48319268
 - 49892177
-Unicode_character: "\U0001F1E8\U0001F1E9"
 Commons_category: Democratic Republic of the Congo
 Commons_gallery: République Démocratique du Congo
 rural_population:
@@ -1131,8 +1130,11 @@ dv_is_same_as:
 - '[[/_personal/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa.personal|Congo~Kinshasa.personal]]'
 - '[[/_secret/Earth/Continent/Africa/Africa~Central/Congo~Kinshasa.secret|Congo~Kinshasa.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Congo-Kinshasa
+Unicode_character: 🇨🇩
 ---
-# [[Congo~Kinshasa]] 
+# [[Congo~Kinshasa]] 🇨🇩 
+
+
 
 
 ISO2 = `=this.dv_ISO2` 

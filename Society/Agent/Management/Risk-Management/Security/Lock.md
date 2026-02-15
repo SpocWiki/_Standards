@@ -174,10 +174,11 @@ aliases:
 - 鎖
 - 锁
 - 자물쇠
+Unicode_character: 🔏
 ---
-# [[Lock]] 
+# [[Lock]] 🔏 
 
-#is_/used_by :: [[Key]] 
+#has_/complement ::  [[Key]] 
 #is_/same_as :: [[WD~Lock,228039]] 
 
 ## #has_/text_of_/abstract 

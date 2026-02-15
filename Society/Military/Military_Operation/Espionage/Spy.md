@@ -107,7 +107,6 @@ female_form_of_label:
 - шпигунка
 - שפּיאָנקע
 - vohunka
-Unicode_character: "\U0001F575️"
 P8189: 987007565835205100
 dv_has_:
   name_:
@@ -196,6 +195,7 @@ dv_has_:
     zh_hans: 间谍
     zh_hant: 間諜
     zh_tw: 間諜
+Unicode_character: 🕵️
 ---
 # [[Spy]] 🕵️ 
 

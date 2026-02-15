@@ -422,6 +422,8 @@ dv_has_:
     zh_tw: 數
     zu: inombolo
 ---
+# [[Number]]  
+
 ## #has_/text_of_/abstract 
 
 > A **Number** is a mathematical object used to count, measure, and label. 

@@ -96,6 +96,8 @@ dv_has_:
     zh_sg: 迈克尔·马德森
     zh_tw: 麥可·馬德森
 ---
+# [[Madsen,Michael]]  
+
 #is_/different_from :: [[Marsden,James]] 
 
 #has_/time_/started :: 1958-09-25 

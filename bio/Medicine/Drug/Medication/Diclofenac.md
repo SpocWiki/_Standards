@@ -108,6 +108,8 @@ dv_has_:
     zh_sg: 双氯芬酸钠
     zh_tw: 雙氯芬酸鈉
 ---
+# [[Diclofenac]]  
+
 ## #has_/text_of_/abstract 
 
 > **Diclofenac**, sold under the brand name Voltaren among others, 

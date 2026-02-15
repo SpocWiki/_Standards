@@ -317,6 +317,8 @@ dv_has_:
     zh_sg: 褐色
     zh_tw: 褐色
 ---
+# [[Brown]]  
+
 ## [[Brown]]
 
 #is_/same_as :: [[../../../../WikiData/WD~Brown,47071|WD~Brown,47071]] 

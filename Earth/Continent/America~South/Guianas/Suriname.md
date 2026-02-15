@@ -290,7 +290,6 @@ pronunciation_audio:
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Suriname%20banner.png
 country_calling_code: 597
 Dewey_Decimal_Classification: 2--883
-Unicode_character: "\U0001F1F8\U0001F1F7"
 Krugosvet_article: strany_mira/SURINAM.html
 GitHub_topic: suriname
 CIVICUS_Monitor_country_entry: suriname
@@ -711,8 +710,11 @@ dv_is_same_as:
 - '[[/_personal/Earth/Continent/America~South/Guianas/Suriname.personal|Suriname.personal]]'
 - '[[/_secret/Earth/Continent/America~South/Guianas/Suriname.secret|Suriname.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/America-Suriname
+Unicode_character: 🇸🇷
 ---
-# [[Suriname]] 
+# [[Suriname]] 🇸🇷 
+
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

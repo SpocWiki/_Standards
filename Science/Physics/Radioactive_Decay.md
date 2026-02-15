@@ -267,8 +267,11 @@ dv_has_:
     yo: Ìtúká onítítànyindin
     yue: 核衰變
     zh: 放射性
+Unicode_character: ☢
 ---
-# [[Radioactive_Decay]] 
+# [[Radioactive_Decay]] ☢ 
+
+
 
 ## #has_/text_of_/abstract 
 

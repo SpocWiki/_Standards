@@ -828,7 +828,6 @@ top_level_Internet_domain: '[[_Standards/WikiData/WD~.ly,42035]]'
 total_fertility_rate: 2.467
 type: Country
 unemployment_rate: 19
-Unicode_character: "\U0001F1F1\U0001F1FE"
 urban_population:
 - 5455170
 - 5281087
@@ -837,8 +836,12 @@ urban_population:
 U_S_National_Archives_Identifier: 10035735
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Libya,7112335]]'
 WIPO_ST_3: LY
+Unicode_character: 🇱🇾
 ---
-# [[Libya]] 
+
+# [[Libya]] 🇱🇾 
+
+
 
 ## [[Libya]] has Properties...
 

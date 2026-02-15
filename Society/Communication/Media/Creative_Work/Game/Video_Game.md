@@ -348,8 +348,11 @@ dv_has_:
     zh_mo: 電子遊戲
     zh_sg: 电子游戏
     zh_tw: 電子遊戲
+Unicode_character: 👾
 ---
-# [[Video_Game]] 
+# [[Video_Game]] 👾 
+
+
 
 #is_/same_as :: [[../../../../../WikiData/WD~Video_game,7889|WD~Video_game,7889]]  
 

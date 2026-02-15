@@ -177,7 +177,6 @@ time_of_discovery_or_invention: 1783
 time_weighted_average_exposure_limit: 5
 type: Element
 UMLS_CUI: C0041383
-Unicode_character: 鎢
 UNII: V9306CXO6G
 U_S_National_Archives_Identifier: 10641560
 vapor_pressure: 0
@@ -422,8 +421,11 @@ dv_has_number_of_electrons: 74
 dv_has_value_for_temperature_melt_c: 3422
 dv_has_value_for_temperature_boil_c: 5930
 dv_has_number_of_group: 6
+Unicode_character: 鎢
 ---
-# [[Tungsten]]
+# [[Tungsten]] 鎢 
+
+
 
 #chemic/Element 
 

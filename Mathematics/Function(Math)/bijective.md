@@ -130,6 +130,8 @@ aliases:
 - 雙射
 - 전단사 함수
 ---
+# [[bijective]]  
+
 #is_/same_as :: [[../Isomorphism]] 
 
 

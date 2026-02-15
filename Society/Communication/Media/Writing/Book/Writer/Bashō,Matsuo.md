@@ -327,6 +327,8 @@ dv_has_:
     zh_hans: 松尾芭蕉
     zh_hk: 松尾芭蕉
 ---
+# [[Bashō,Matsuo]]  
+
 ## #has_/text_of_/abstract 
 
 > **Matsuo Bashō** (松尾 芭蕉, 1644 – November 28, 1694); born Matsuo Kinsaku (松尾 金作), 

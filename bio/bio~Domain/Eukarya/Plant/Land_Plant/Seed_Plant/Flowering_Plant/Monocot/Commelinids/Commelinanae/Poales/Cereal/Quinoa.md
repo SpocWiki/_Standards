@@ -200,6 +200,8 @@ dv_has_:
     yue: 藜麥
     zh: 藜麥
 ---
+# [[Quinoa]]  
+
 ## #has_/text_of_/abstract 
 
 > **Quinoa** (Chenopodium quinoa; , from Quechua kinwa or kinuwa) is a flowering plant in the amaranth family. It is a herbaceous annual plant grown as a crop primarily for its edible seeds; the seeds are high in protein, dietary fiber, B vitamins and dietary minerals in amounts greater than in many grains. Quinoa is not a grass but rather a pseudocereal botanically related to spinach and amaranth (Amaranthus spp.), and originated in the Andean region of northwestern South America. It was first used to feed livestock 5,200–7,000 years ago, and for human consumption 3,000–4,000 years ago in the Lake Titicaca basin of Peru and Bolivia.

@@ -1003,7 +1003,6 @@ trunk_prefix: 0
 type: Country
 UMLS_CUI: C0039725
 unemployment_rate: 0.9
-Unicode_character: "\U0001F1F9\U0001F1ED"
 urban_population:
 - 36147331
 - 36759934
@@ -1015,10 +1014,10 @@ visitors_per_year: 32588303
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Thailand,7112484]]'
 WIPO_ST_3: TH
 Wolfram_Language_entity_code: Entity["HistoricalCountry", "Thailand"]
+Unicode_character: 🇹🇭
 ---
-# [[Thailand]] 
 
-## [[Thailand]] has Properties...
+# [[Thailand]] 🇹🇭 has Properties...
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

@@ -127,7 +127,6 @@ SpocWebEntityId: 21983
 time_of_discovery_or_invention: 1898
 type: Element
 UMLS_CUI: C0034625
-Unicode_character: 鐳
 UNII: W90AYD6R3Q
 dv_has_:
   name_:
@@ -371,8 +370,11 @@ dv_is_same_as:
 - '[[/_secret/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Radium.secret|Radium.secret]]'
 dv_has_name_abbreviated: Ra
 dv_has_number_of_electrons: 88
+Unicode_character: 鐳
 ---
-# [[Radium]] 
+# [[Radium]] 鐳 
+
+
 
 #chemic/Element 
 

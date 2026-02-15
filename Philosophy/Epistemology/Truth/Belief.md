@@ -204,6 +204,8 @@ aliases:
 - 믿음
 - "\U00010332\U00010330\U0001033B\U00010330\U0001033F\U00010331\U00010334\U00010339\U0001033D\U00010343"
 ---
+# [[Belief]]  
+
 ## [[Belief]] 
 
 #is_/same_as :: [[_Standards/WikiData/WD~belief,34394]] 

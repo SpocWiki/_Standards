@@ -355,7 +355,6 @@ has_time_started: 1821-06
 nominal_GDP:
 - 14145852101
 - 15671583878
-Unicode_character: "\U0001F1F3\U0001F1EE"
 country_calling_code: 505
 coordinates_of_westernmost_point: Point(-87.75 13.25)
 geoshape: http://commons.wikimedia.org/data/main/Data:Nicaragua.map
@@ -759,8 +758,11 @@ dv_is_same_as:
 - '[[/_personal/Earth/Continent/America~Central/Nicaragua.personal|Nicaragua.personal]]'
 - '[[/_secret/Earth/Continent/America~Central/Nicaragua.secret|Nicaragua.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/America-Nicaragua
+Unicode_character: 🇳🇮
 ---
-# [[Nicaragua]] 
+# [[Nicaragua]] 🇳🇮 
+
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

@@ -195,7 +195,6 @@ subject_has_role: '[[_Standards/WikiData/WD~trace_metal,7831165]]'
 time_of_discovery_or_invention: http://www.wikidata.org/.well-known/genid/bde24d174c953ce810188f3c2c6cd49b
 type: Element
 UMLS_CUI: C0043481
-Unicode_character: 鋅
 UNII: J41CSQ7QDS
 UNSPSC_Code: 11101719
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Electrolytic%20zinc%20crystal.webm
@@ -462,8 +461,11 @@ dv_has_number_of_period: 4
 dv_has_number_of_group: 12
 dv_has_name_abbreviated: Zn
 dv_has_number_of_electrons: 30
+Unicode_character: 鋅
 ---
-# [[Zinc]] 
+# [[Zinc]] 鋅 
+
+
 
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Zinc,758]] 

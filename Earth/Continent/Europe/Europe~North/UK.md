@@ -662,7 +662,6 @@ anthem: '[[_Standards/WikiData/WD~God_Save_the_King,40807]]'
 Krugosvet_article: Earth_sciences/geografiya/SOEDINENNOE_KOROLEVSTVO_VELIKOBRITANII_I_SEVERNO_IRLANDII.html
 Wolfram_Language_entity_code: Entity["Country", "UnitedKingdom"]
 Wikitribune_category: europe/united-kingdom
-Unicode_character: "\U0001F1EC\U0001F1E7"
 ISO_3166_2_code: GB-UKM
 Libris_URI: jgvxx4n24nx12bv
 GSS_code_2011_: K02000001
@@ -1164,8 +1163,11 @@ dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-United_Kingdo
 dv_has_image_for_flag: '[[./UK/Flag_of_the_United_Kingdom.svg|Flag_of_the_United_Kingdom.svg|200]]'
 dv_has_image_for_coat_of_arms: '[[./UK/Coat_of_Arms_of_the_United_Kingdom.svg|Coat_of_Arms_of_the_United_Kingdom.svg|250]]'
 dv_has_sound_of_anthem: '[[../../../../../_public/xLarge.public/National-Anthem/Anthem-United-kingdom.mp3|Anthem-United-kingdom.mp3]]'
+Unicode_character: 🇬🇧
 ---
-# [[UK]] 
+# [[UK]] 🇬🇧 
+
+
 
 
 

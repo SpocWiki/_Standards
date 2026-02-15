@@ -114,6 +114,8 @@ dv_has_:
     zh_sg: 红牛
     zh_tw: 紅牛
 ---
+# [[Red_Bull]]  
+
 > **Red Bull** is a brand of energy drinks created and owned by the Austrian company Red Bull GmbH. 
 > With a market share of 43%, it is the most popular energy drink brand as of 2020, 
 > and the third most valuable soft drink brand, behind Coca-Cola and Pepsi. 

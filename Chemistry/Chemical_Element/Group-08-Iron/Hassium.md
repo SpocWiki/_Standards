@@ -96,7 +96,6 @@ OmegaWiki_Defined_Meaning: 160082
 element_symbol: Hs
 Commons_gallery: Hassium
 Commons_category: Hassium
-Unicode_character: "\U00028B46"
 time_of_discovery_or_invention: 1984-01-01T00:00:00Z
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20108%20Hassium.svg
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hassium.ogg
@@ -277,8 +276,11 @@ dv_has_:
     zh_sg: "\U0002CB76"
     zh_tw: "\U00028B46"
     zu: UmHasambi
+Unicode_character: 𨭆
 ---
-# [[Hassium]] 
+# [[Hassium]] 𨭆 
+
+
 
 #is_/same_as :: [[WD~Hassium,1252]] 
 

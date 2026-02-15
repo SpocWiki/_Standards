@@ -11,6 +11,8 @@ dv_has_:
 aliases:
 - Fabasoft
 ---
+# [[Fabasoft]]  
+
 ## #has_/text_of_/abstract 
 
 > **Fabasoft** AG is a software manufacturer headquartered in Linz, Upper Austria. 

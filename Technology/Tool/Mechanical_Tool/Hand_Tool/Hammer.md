@@ -151,7 +151,6 @@ Nomenclature_for_Museum_Cataloging: 7363
 Commons_gallery: Hammer
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Claw-hammer.jpg
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Hammer%2020221226.stl
-Unicode_character: "\U0001F528"
 MCN_code:
 - 8205.20.00
 - 8467.29.93
@@ -316,8 +315,11 @@ dv_has_:
     zh-hant: 槌
     zh-tw: 槌
     zu: Kombisa
+Unicode_character: 🔨
 ---
-# [[Hammer]] 
+# [[Hammer]] 🔨 
+
+
 
 #is_/same_as :: [[WD~Hammer,25294]] 
 ## #has_/text_of_/abstract 

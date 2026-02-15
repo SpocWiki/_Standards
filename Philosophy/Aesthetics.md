@@ -249,6 +249,8 @@ dv_has_:
     zh_hk: 美學
     zh_tw: 美學
 ---
+# [[Aesthetics]]  
+
 ## #has_/text_of_/abstract 
 
 > **Aesthetics** (also spelled esthetics) is the branch of philosophy concerned with the nature of beauty and the nature of taste and, in a broad sense, incorporates the philosophy of art. Aesthetics examines the philosophy of aesthetic value, which is determined by critical judgments of artistic taste; thus, the function of aesthetics is the "critical reflection on art, culture and nature".

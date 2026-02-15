@@ -197,6 +197,8 @@ aliases:
 - 感觉系统
 - 감각 기관
 ---
+# [[Sensory_System]]  
+
 ## #has_/text_of_/abstract 
 
 > The sensory nervous system is a part of the nervous system 

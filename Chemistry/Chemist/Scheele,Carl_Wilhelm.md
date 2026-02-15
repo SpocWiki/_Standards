@@ -146,6 +146,8 @@ aliases:
 - 卡爾·威廉·舍勒
 - 칼 빌헬름 셸레
 ---
+# [[Scheele,Carl_Wilhelm]]  
+
 has_time_started = `=this.dv_has_time_started` 
 has_time_stopped = `=this.dv_has_time_stopped` 
 #has_/age_/years :: `$=Math.round(((dv.current().dv_has_time_stopped ?? new Date()) - dv.current().dv_has_time_started)/1000/60/60/24/365.2425)` 

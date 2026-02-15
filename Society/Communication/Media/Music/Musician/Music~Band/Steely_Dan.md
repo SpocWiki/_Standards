@@ -55,6 +55,8 @@ aliases:
 - 钢铁浮标
 - 스틸리 댄
 ---
+# [[Steely_Dan]]  
+
 #has_/time_/started :: 1971-06-01 
 #has_/location_/created :: [[New_York,City]] 
 

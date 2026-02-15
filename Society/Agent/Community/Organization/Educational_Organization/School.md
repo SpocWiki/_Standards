@@ -446,8 +446,11 @@ dv_has_:
     zh-my: 学校
     zh_sg: 学校
     zh_tw: 學校
+Unicode_character: 🏫
 ---
-# [[School]] 
+# [[School]] 🏫 
+
+
 
 Class of all schools.
 

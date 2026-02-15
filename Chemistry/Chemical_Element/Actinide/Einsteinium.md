@@ -120,7 +120,6 @@ time_of_discovery_or_invention: 1952
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_einsteinium,8085692]]'
 type: Element
 UMLS_CUI: C0013741
-Unicode_character: 鑀
 UNII: WV8XL34X3O
 dv_is_:
   same_as:
@@ -350,7 +349,10 @@ dv_has_value_for_energy_form_kj_mol: 0
 dv_has_number_of_period: 7
 dv_has_number_of_group: 33
 dv_has_number_of_electrons: 99
+Unicode_character: 鑀
 ---
+# [[Einsteinium]] 鑀 
+
 #is_/same_as :: [[../../../WikiData/WD~Einsteinium,1892]] 
 
 

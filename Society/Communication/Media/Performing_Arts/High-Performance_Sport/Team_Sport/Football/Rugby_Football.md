@@ -137,7 +137,6 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Rugby%20banner.j
 narrower_external_class:
 - '[[_Standards/WikiData/WD~https_www.wikidata.org_wiki_Q270102,270102]]'
 - '[[_Standards/WikiData/WD~https_www.wikidata.org_wiki_Q5849,5849]]'
-Unicode_character: "\U0001F3C9"
 Dewey_Decimal_Classification: 796.333
 Library_of_Congress_Classification: GV944.8-GV946.22
 MeSH_tree_code: I03.450.642.845.608
@@ -292,6 +291,7 @@ dv_has_:
     zh_sg: 橄榄球类运动
     zh_tw: 橄欖球類運動
     zu: Umbhoxo
+Unicode_character: 🏉
 ---
 # [[Rugby_Football]] 🏉 
 

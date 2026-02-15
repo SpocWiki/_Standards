@@ -145,7 +145,6 @@ time_weighted_average_exposure_limit:
 - 0.05
 type: Element
 UMLS_CUI: C0009148
-Unicode_character: 鈷
 UNII: 3G0H8C9362
 vapor_pressure: 0
 WordLift_URL: http://data.thenextweb.com/tnw/entity/cobalt
@@ -400,7 +399,10 @@ dv_has_number_of_period: 4
 dv_has_number_of_group: 9
 dv_has_name_abbreviated: Co
 dv_has_number_of_electrons: 27
+Unicode_character: 鈷
 ---
+# [[Cobalt]] 鈷 
+
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Cobalt,740]] 
 

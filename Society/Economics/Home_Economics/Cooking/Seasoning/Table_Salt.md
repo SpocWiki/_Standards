@@ -175,7 +175,6 @@ aliases:
 - 鹽
 - 소금
 has_id_wikidata: Q11254
-Unicode_character: "\U0001F9C2"
 has_part_s_:
 - '[[_Standards/WikiData/WD~potassium_iodide,121874]]'
 - '[[_Standards/WikiData/WD~food_additive,189567]]'
@@ -436,6 +435,7 @@ dv_has_:
     zh_hans: 食盐
     zh_hant: 食鹽
     zh_tw: 食鹽
+Unicode_character: 🧂
 ---
 # [[Table_Salt]] 🧂 
 

@@ -85,6 +85,8 @@ dv_has_:
     zh_sg: 乌龙狼人
     zh_tw: 美國狼人在巴黎
 ---
+# [[American_Werewolf_in_London]]  
+
 ## #has_/text_of_/abstract 
 
 > **An American Werewolf in London** is a 1981 comedy horror film written and directed by [[../../music/Landis,John]]. 

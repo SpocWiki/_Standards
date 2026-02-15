@@ -173,7 +173,6 @@ part_of:
 - '[[_Standards/WikiData/WD~wheeled_vehicle,15618781]]'
 shape: '[[_Standards/WikiData/WD~circle,17278]]'
 subclass_of: '[[_Standards/WikiData/WD~simple_machine,186713]]'
-Unicode_character: "\U0001F6DE"
 dv_has_:
   name_:
     ab: агьежь
@@ -357,6 +356,7 @@ dv_has_:
     yue: 轆
     zh: 輪
     zu: isondo
+Unicode_character: 🛞
 ---
 # [[Wheel]] 🛞 
 

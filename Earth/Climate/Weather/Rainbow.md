@@ -220,7 +220,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/WhereRainbowRises.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%B0%E0%A6%82%E0%A6%A7%E0%A6%A8%E0%A7%81.wav
 panoramic_view: http://commons.wikimedia.org/wiki/Special:FilePath/Rainbow%20Karlsruhe%20May%202021.jpg
 spherical_panorama_image: http://commons.wikimedia.org/wiki/Special:FilePath/Rainbow%20on%20the%20Azores%20%E2%80%93%20360%C2%B0%20drone%20shot.jpg
-Unicode_character: "\U0001F308"
 U_S_National_Archives_Identifier: 10675069
 Iconclass_notation: 26B2
 Commons_category: Rainbows
@@ -455,6 +454,7 @@ dv_has_:
     zh_hant: 彩虹
     zh_hk: 彩虹
     zh_tw: 彩虹
+Unicode_character: 🌈
 ---
 # [[Rainbow]] 🌈 
 

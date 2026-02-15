@@ -780,9 +780,8 @@ CIVICUS_Monitor_country_entry: andorra
 subreddit: andorra
 IPA_transcription: ɐnˈdorːə
 ---
-# [[Andorra]] 🇦🇩 
 
-## [[Andorra]] has Properties... 
+# [[Andorra]] 🇦🇩 has Properties... 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

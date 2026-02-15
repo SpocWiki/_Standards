@@ -957,7 +957,6 @@ urban_population:
 - 1305648
 population: 1871882
 coordinates_of_westernmost_point: Point(20.97017527 56.35502738)
-Unicode_character: "\U0001F1F1\U0001F1FB"
 postal_code: LV-1919
 Colon_Classification: SG--5973
 Krugosvet_article: strany-mira/latviya
@@ -1021,10 +1020,9 @@ Languages:
 - ru
 - lt
 icon: flag-lv
+Unicode_character: 🇱🇻
 ---
-# [[Latvia]] 
-
-## [[Latvia]] has Properties... 
+# [[Latvia]] 🇱🇻  has Properties... 
 
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`

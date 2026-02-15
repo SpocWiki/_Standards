@@ -199,7 +199,9 @@ dv_has_:
     za: Loekgawq
     zh: 齿轮
 ---
-# [[Cogwheel]] 
+# [[Cogwheel]] ⚙ 
+
+
 
 #is_/same_as :: [[../../../../../WikiData/WD~Cogwheel,143873|WD~Cogwheel,143873]] 
 

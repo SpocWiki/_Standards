@@ -84,6 +84,8 @@ aliases:
 - 苹果手机
 - 아이폰
 ---
+# [[iPhone]]  
+
 #has_/time_/started :: 2007-01-09 
 have an iPhone11 from 2019 
 

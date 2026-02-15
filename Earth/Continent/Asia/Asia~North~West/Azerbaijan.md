@@ -629,8 +629,11 @@ dv_is_same_as:
 - '[[/_private/Earth/Continent/Asia/Asia~North~West/Azerbaijan.private|Azerbaijan.private]]'
 - '[[/_personal/Earth/Continent/Asia/Asia~North~West/Azerbaijan.personal|Azerbaijan.personal]]'
 - '[[/_secret/Earth/Continent/Asia/Asia~North~West/Azerbaijan.secret|Azerbaijan.secret]]'
+Unicode_character: 🇦🇿
 ---
-# [[Azerbaijan]] 
+# [[Azerbaijan]] 🇦🇿 
+
+
 
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`

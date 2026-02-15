@@ -95,6 +95,8 @@ dv_has_:
     zh_hans: 脸书公司
     zh_hk: Facebook公司
 ---
+# [[Meta_Platforms]]  
+
 #has_/created :: [[Meta_Platforms/Facebook]] 
 #has_/created ::[[../../../../../../../../IT/HardWare/Wearables/AR(Augmented_Reality_Glasses)/Meta~Orion]]] 
 

@@ -1,183 +1,183 @@
 ---
 aliases:
-- apskritimas
-- apskrėtėms
-- aylana
-- bilog
-- bulatan
-- bunderan
-- cearcall
-- cera krejza
-- cerc
-- cercle
-- cerclo
-- Chreis
-- ciorcal
-- Circle
-- circonferenza
-- circulo
-- circulus
-- circumferència
-- circunferencia
-- circunferência
-- circunfirenza
-- cirkel
-- cirklo
-- cylch
-- círculo
-- círculu
-- denderedzwa
-- duara
-- Faribolana
-- Geengoo
-- gilover
-- goobo
-- hringur
-- isazinge
-- Iwirini
-- jurbâdâs
-- kelc'h
-- kiarkyl
-- Krees
-- Kreis
-- Krink
-- krožnica
-- kružnica
-- kružnice
-- Kylgh
-- kör
-- lidong
-- lingkaran
-- luenz
-- muyu
-- okrąg
-- p'allta muyu
-- raing
-- ringjoon
-- riņķa līnija
-- rrethi
-- Sercio
-- Serk
-- serć
-- sike
-- Sirculo
-- sirkel
-- sirkil
-- sirkul
-- soerkl
-- sèk
-- sércc
-- tawinest
-- tercľiu
-- tsõõrjuun
-- waiapiketitakaniwon
-- ympyrä
-- zirkulu
-- çember
-- çevrə
-- çавракăш
-- Îⁿ-hêng
-- òbìrípo
-- đường tròn
-- κύκλος
-- айлана
-- акружнасць
-- акружына
-- коло
-- котырес
-- круг
-- кружница
-- окружность
-- окръжност
-- оҥго
-- тойрог
-- шеңбер
-- әйләнә
-- Շրջան
-- מעגל
-- קרייז
-- بازنە
-- دائرة
-- دائرہ
-- دايره
-- دایره
-- دوايرة
-- چکر
-- ګردکه
-- گول
-- वर्तुळ
-- वृत
-- वृत्त
-- বৃত্ত
-- ਚੱਕਰ
-- વર્તુળ
-- ବୃତ୍ତ
-- வட்டம்
-- వృత్తము
-- ವೃತ್ತ
-- വൃത്തം
-- รูปวงกลม
-- སྒོར་ཐིག་
-- စက်ဝိုင်း
-- წრეწირი
-- ክብ
-- រង្វង់
-- ᱜᱩᱞᱟᱺᱰ
-- 円
-- 圆
-- 圈
-- 圓
-- 圓形
-- 원
+  - apskritimas
+  - apskrėtėms
+  - aylana
+  - bilog
+  - bulatan
+  - bunderan
+  - cearcall
+  - cera krejza
+  - cerc
+  - cercle
+  - cerclo
+  - Chreis
+  - ciorcal
+  - Circle
+  - circonferenza
+  - circulo
+  - circulus
+  - circumferència
+  - circunferencia
+  - circunferência
+  - circunfirenza
+  - cirkel
+  - cirklo
+  - cylch
+  - círculo
+  - círculu
+  - denderedzwa
+  - duara
+  - Faribolana
+  - Geengoo
+  - gilover
+  - goobo
+  - hringur
+  - isazinge
+  - Iwirini
+  - jurbâdâs
+  - kelc'h
+  - kiarkyl
+  - Krees
+  - Kreis
+  - Krink
+  - krožnica
+  - kružnica
+  - kružnice
+  - Kylgh
+  - kör
+  - lidong
+  - lingkaran
+  - luenz
+  - muyu
+  - okrąg
+  - p'allta muyu
+  - raing
+  - ringjoon
+  - riņķa līnija
+  - rrethi
+  - Sercio
+  - Serk
+  - serć
+  - sike
+  - Sirculo
+  - sirkel
+  - sirkil
+  - sirkul
+  - soerkl
+  - sèk
+  - sércc
+  - tawinest
+  - tercľiu
+  - tsõõrjuun
+  - waiapiketitakaniwon
+  - ympyrä
+  - zirkulu
+  - çember
+  - çevrə
+  - çавракăш
+  - Îⁿ-hêng
+  - òbìrípo
+  - đường tròn
+  - κύκλος
+  - айлана
+  - акружнасць
+  - акружына
+  - коло
+  - котырес
+  - круг
+  - кружница
+  - окружность
+  - окръжност
+  - оҥго
+  - тойрог
+  - шеңбер
+  - әйләнә
+  - Շրջան
+  - מעגל
+  - קרייז
+  - بازنە
+  - دائرة
+  - دائرہ
+  - دايره
+  - دایره
+  - دوايرة
+  - چکر
+  - ګردکه
+  - گول
+  - वर्तुळ
+  - वृत
+  - वृत्त
+  - বৃত্ত
+  - ਚੱਕਰ
+  - વર્તુળ
+  - ବୃତ୍ତ
+  - வட்டம்
+  - వృత్తము
+  - ವೃತ್ತ
+  - വൃത്തം
+  - รูปวงกลม
+  - སྒོར་ཐིག་
+  - စက်ဝိုင်း
+  - წრეწირი
+  - ክብ
+  - រង្វង់
+  - ᱜᱩᱞᱟᱺᱰ
+  - 円
+  - 圆
+  - 圈
+  - 圓
+  - 圓形
+  - 원
 has_id_wikidata: Q17278
 Unicode_character:
-- "\U0001F53F"
-- ⚪
-- ⭕
-- "\U0001F53E"
+  - 🔿
+  - ⚪
+  - ⭕
+  - 🔾
 subclass_of:
-- '[[_Standards/WikiData/WD~conic_section,124255]]'
-- '[[_Standards/WikiData/WD~locus,211548]]'
-- '[[_Standards/WikiData/WD~geometric_shape,815741]]'
-- '[[_Standards/WikiData/WD~rose,1155211]]'
-- '[[_Standards/WikiData/WD~curve_of_constant_width,1192156]]'
-- '[[_Standards/WikiData/WD~geometric_primitive,1541599]]'
-- '[[_Standards/WikiData/WD~sinusoidal_spiral,2064156]]'
-- '[[_Standards/WikiData/WD~analytic_manifold,4751134]]'
-- '[[_Standards/WikiData/WD~generalised_circle,5532410]]'
-- '[[_Standards/WikiData/WD~anallagmatic_curve,15974976]]'
-- '[[_Standards/WikiData/WD~hypersphere,22808481]]'
-- '[[_Standards/WikiData/WD~Ribaucour_curve,25967482]]'
-- '[[_Standards/WikiData/WD~ellipse,40112]]'
+  - "[[_Standards/WikiData/WD~conic_section,124255]]"
+  - "[[_Standards/WikiData/WD~locus,211548]]"
+  - "[[_Standards/WikiData/WD~geometric_shape,815741]]"
+  - "[[_Standards/WikiData/WD~rose,1155211]]"
+  - "[[_Standards/WikiData/WD~curve_of_constant_width,1192156]]"
+  - "[[_Standards/WikiData/WD~geometric_primitive,1541599]]"
+  - "[[_Standards/WikiData/WD~sinusoidal_spiral,2064156]]"
+  - "[[_Standards/WikiData/WD~analytic_manifold,4751134]]"
+  - "[[_Standards/WikiData/WD~generalised_circle,5532410]]"
+  - "[[_Standards/WikiData/WD~anallagmatic_curve,15974976]]"
+  - "[[_Standards/WikiData/WD~hypersphere,22808481]]"
+  - "[[_Standards/WikiData/WD~Ribaucour_curve,25967482]]"
+  - "[[_Standards/WikiData/WD~ellipse,40112]]"
 has_characteristic:
-- '[[_Standards/WikiData/WD~radius,173817]]'
-- '[[_Standards/WikiData/WD~roundness,2496761]]'
-- '[[_Standards/WikiData/WD~area_of_plane_shape,15921574]]'
-- '[[_Standards/WikiData/WD~isoperimetric_ratio,25304343]]'
-- '[[_Standards/WikiData/WD~length,36253]]'
-- '[[_Standards/WikiData/WD~diameter,37221]]'
-instance_of: '[[_Standards/WikiData/WD~shape,207961]]'
+  - "[[_Standards/WikiData/WD~radius,173817]]"
+  - "[[_Standards/WikiData/WD~roundness,2496761]]"
+  - "[[_Standards/WikiData/WD~area_of_plane_shape,15921574]]"
+  - "[[_Standards/WikiData/WD~isoperimetric_ratio,25304343]]"
+  - "[[_Standards/WikiData/WD~length,36253]]"
+  - "[[_Standards/WikiData/WD~diameter,37221]]"
+instance_of: "[[_Standards/WikiData/WD~shape,207961]]"
 different_from:
-- '[[_Standards/WikiData/WD~disk,238231]]'
-- '[[_Standards/WikiData/WD~ه,294219]]'
-- '[[_Standards/WikiData/WD~Umfang,26269311]]'
-- '[[_Standards/WikiData/WD~Kreis,31329998]]'
-- '[[_Standards/WikiData/WD~O,9941]]'
-- '[[_Standards/WikiData/WD~5,203]]'
-- '[[_Standards/WikiData/WD~zero,204]]'
+  - "[[_Standards/WikiData/WD~disk,238231]]"
+  - "[[_Standards/WikiData/WD~ه,294219]]"
+  - "[[_Standards/WikiData/WD~Umfang,26269311]]"
+  - "[[_Standards/WikiData/WD~Kreis,31329998]]"
+  - "[[_Standards/WikiData/WD~O,9941]]"
+  - "[[_Standards/WikiData/WD~5,203]]"
+  - "[[_Standards/WikiData/WD~zero,204]]"
 part_of:
-- '[[_Standards/WikiData/WD~disk,238231]]'
-- '[[_Standards/WikiData/WD~sphere,12507]]'
+  - "[[_Standards/WikiData/WD~disk,238231]]"
+  - "[[_Standards/WikiData/WD~sphere,12507]]"
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
 studied_by:
-- '[[_Standards/WikiData/WD~planimetrics,1133157]]'
-- '[[_Standards/WikiData/WD~distance_geometry,2088417]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q1935579,1935579]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+  - "[[_Standards/WikiData/WD~planimetrics,1133157]]"
+  - "[[_Standards/WikiData/WD~distance_geometry,2088417]]"
+permanent_duplicated_item: "[[_Standards/WikiData/WD~Q1935579,1935579]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]"
 Euler_characteristic: 0
 OmegaWiki_Defined_Meaning: 6135
 IMDb_keyword: circle
@@ -355,7 +355,8 @@ dv_has_:
     zh_hant: 圓
     zh_hk: 圓
 ---
-# [[Circle]] ⭕ 
+# [[Circle]] ⚪ 🔿 ⭕ 🔾
+
 
 #is_/same_as :: [[../../../../WikiData/WD~Circle,17278|WD~Circle,17278]] 
 

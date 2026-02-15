@@ -93,6 +93,8 @@ dv_has_:
     vi: Gỗ đàn hương
     zh: 檀木
 ---
+# [[Sandalwood]]  
+
 ## #has_/text_of_/abstract 
 
 > **sandalwood** is a class of woods from trees in the genus Santalum. 

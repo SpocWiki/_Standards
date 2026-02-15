@@ -352,6 +352,8 @@ dv_has_:
     zh_sg: 神话
     zh_tw: 神話
 ---
+# [[Mythology]]  
+
 #is_/same_as :: [[../../../WikiData/WD~Mythology,9134|WD~Mythology,9134]] 
 
 ## #has_/text_of_/abstract 

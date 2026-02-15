@@ -106,7 +106,6 @@ Nomenclature_for_Museum_Cataloging: 8704
 IMDb_keyword: shovel
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Skovl.jpg
 name: shovel
-Unicode_character: "\U0001FA8F"
 U_S_National_Archives_Identifier: 10674969
 exact_match: http://wordnet-rdf.princeton.edu/wn30/04208210-n
 UNSPSC_Code: 48101617
@@ -214,8 +213,11 @@ dv_has_:
     wuu: 铲子
     yue: 鏟
     zh: 鏟子
+Unicode_character: 🪏
 ---
-# [[Shovel]] 
+# [[Shovel]] 🪏 
+
+
 
 #is_/same_as :: [[WD~Shovel,7220961]] 
 

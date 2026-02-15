@@ -210,7 +210,6 @@ subclass_of:
 - '[[_Standards/WikiData/WD~adult_human,9584157]]'
 - '[[_Standards/WikiData/WD~male_human,84048850]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Man,27160632]]'
-Unicode_character: "\U0001F468"
 U_S_National_Archives_Identifier: 10637899
 dv_has_:
   name_:
@@ -448,8 +447,11 @@ dv_has_:
     zh_sg: 男人
     zh_tw: 男人
     zu: indoda
+Unicode_character: 👨
 ---
-# [[Man]] 
+# [[Man]] 👨 
+
+
 
 #is_/same_as :: [[../../../../../WikiData/WD~Man,8441|WD~Man,8441]] 
 

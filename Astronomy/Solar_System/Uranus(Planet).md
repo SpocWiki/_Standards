@@ -548,7 +548,9 @@ dv_has_:
     zh_tw: 天王星
     zu: U-Uranu
 ---
-# [[Uranus(Planet)]] 
+# [[Uranus(Planet)]] ♅ 
+
+
 
 #is_/same_as :: [[../../WikiData/WD~Uranus,324]] 
 #is_/different_from :: [[_Standards/WikiData/WD~Uranus,79999]] 

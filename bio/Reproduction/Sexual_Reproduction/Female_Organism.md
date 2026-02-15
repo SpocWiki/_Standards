@@ -157,7 +157,6 @@ opposite_of: '[[_Standards/WikiData/WD~male_organism,44148]]'
 OmegaWiki_Defined_Meaning: 6393
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sow%20with%20piglet.jpg
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Venus%20symbol.svg
-Unicode_character: ♀
 Commons_category: Females
 short_name: ♀
 dv_has_:
@@ -311,8 +310,11 @@ dv_has_:
     zh-my: 雌性
     zh_sg: 雌性
     zh_tw: 雌性
+Unicode_character: ♀
 ---
-# [[Female_Organism]] 
+# [[Female_Organism]] ♀ 
+
+
 
 #is_/same_as :: [[../../../WikiData/WD~Female_organism,43445|WD~Female_organism,43445]] 
 

@@ -195,7 +195,6 @@ U_S_National_Archives_Identifier:
 - 10662896
 Commons_gallery: Santa Claus
 Commons_category: Santa Claus
-Unicode_character: "\U0001F385"
 inception: 1809-01-01T00:00:00Z
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Robert%20Walter%20Weir%2C%20Saint%20Nicholas.jpg
@@ -331,8 +330,11 @@ dv_has_:
     zh_hant: 聖誕老人
     zh_hk: 聖誕老人
     zh_tw: 聖誕老人
+Unicode_character: 🎅
 ---
-# [[Santa_Claus]] 
+# [[Santa_Claus]] 🎅 
+
+
 
 #is_/same_as :: [[WD~Santa_Claus,315796]] 
 

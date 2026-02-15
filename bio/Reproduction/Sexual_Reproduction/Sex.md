@@ -320,6 +320,8 @@ dv_has_:
     zh_tw: 性別
     zu: ucansi
 ---
+# [[Sex]]  
+
 ## #has_/text_of_/abstract 
 
 > **Sex** is the biological trait that determines 

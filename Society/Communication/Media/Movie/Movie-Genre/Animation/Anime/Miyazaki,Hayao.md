@@ -157,6 +157,8 @@ dv_has_:
     zh_hk: 宮崎駿
     zh_tw: 宮崎駿
 ---
+# [[Miyazaki,Hayao]]  
+
 #has_/time_/started :: 1941-01-05
 
 Miyazaki is a workoholic. 

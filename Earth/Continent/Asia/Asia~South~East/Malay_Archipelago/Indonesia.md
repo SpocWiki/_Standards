@@ -1346,7 +1346,6 @@ coordinates_of_northernmost_point: Point(95.22 5.9)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Indonesian%20Culture.jpg
 location_map: http://commons.wikimedia.org/wiki/Special:FilePath/Indonesia%20location%20map.svg
 coordinate_location: Point(118.0 -2.0)
-Unicode_character: "\U0001F1EE\U0001F1E9"
 GitHub_topic: indonesia
 CIVICUS_Monitor_country_entry: indonesia
 subreddit: indonesia
@@ -1811,8 +1810,11 @@ dv_is_same_as:
 - '[[/_personal/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia.personal|Indonesia.personal]]'
 - '[[/_secret/Earth/Continent/Asia/Asia~South~East/Malay_Archipelago/Indonesia.secret|Indonesia.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Asia-Indonesia
+Unicode_character: 🇮🇩
 ---
-# [[Indonesia]] 
+# [[Indonesia]] 🇮🇩 
+
+
  
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

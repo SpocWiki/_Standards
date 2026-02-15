@@ -790,9 +790,7 @@ Languages:
   - dz
 icon: flag-bt
 ---
-# [[Bhutan]] 🇧🇹 
-
-## [[Bhutan]] has Properties... 
+# [[Bhutan]] 🇧🇹 has Properties... 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

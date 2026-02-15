@@ -113,6 +113,8 @@ aliases:
 - 寡醣
 - 소당류
 ---
+# [[Oligosaccharide]]  
+
 #has_/child_/class :: [[Disaccharide]] 
 #has_/parent_class :: [[Polysaccharide]] 
 #has_/instances :: [[Oligosaccharide/Raffinose]] 

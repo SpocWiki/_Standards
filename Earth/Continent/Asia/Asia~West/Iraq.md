@@ -814,7 +814,6 @@ ISO_3166_1_alpha_3_code: IRQ
 IOC_country_code: IRQ
 ITU_letter_code: IRQ
 UIC_alphabetical_country_code: IRQ
-Unicode_character: "\U0001F1EE\U0001F1F6"
 rural_population:
 - 12187255
 - 12387061
@@ -873,8 +872,11 @@ Languages:
 - ku
 - hy
 icon: flag-iq
+Unicode_character: 🇮🇶
 ---
-# [[Iraq]] 
+# [[Iraq]] 🇮🇶 
+
+
 
 ## [[Iraq]] has Properties...
 

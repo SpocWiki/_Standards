@@ -195,7 +195,6 @@ GenBank_assembly_accession_number:
 - GCA_016163735.1
 - GCA_016163745.1
 NBN_System_Key: NBNSYS0000034128
-Unicode_character: "\U0001F952"
 taxon_common_name:
 - pepinu
 - Cogombre
@@ -469,6 +468,7 @@ dv_has_:
     zh_hant: 黄瓜
     zh_tw: 胡瓜
     zu: ikhukhamba
+Unicode_character: 🥒
 ---
 # [[Cucumber]] 🥒 
 

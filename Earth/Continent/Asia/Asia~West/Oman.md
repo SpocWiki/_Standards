@@ -710,7 +710,6 @@ INSEE_countries_and_foreign_territories_code: 99250
 coordinate_location: Point(57.0 21.0)
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/National%20emblem%20of%20Oman.svg
 U_S_National_Archives_Identifier: 10035748
-Unicode_character: "\U0001F1F4\U0001F1F2"
 Commons_gallery: عمان (سلطنة)
 geoshape: http://commons.wikimedia.org/data/main/Data:Oman.map
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Ayn%20%28Oman%29%20banner%20Beehive%20Tombs.jpg
@@ -750,8 +749,11 @@ Languages:
 - bal
 - ur
 icon: flag-om
+Unicode_character: 🇴🇲
 ---
-# [[Oman]] 
+# [[Oman]] 🇴🇲 
+
+
 
 ## [[Oman]] has Properties...
 

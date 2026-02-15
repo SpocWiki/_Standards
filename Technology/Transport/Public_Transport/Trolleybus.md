@@ -78,7 +78,6 @@ video:
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tr%C3%A5dbuss%20Landskrona.JPG
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Trolleybus%20icon.png
 exact_match: http://wordnet-rdf.princeton.edu/wn30/04487081-n
-Unicode_character: "\U0001F68E"
 Common_Procurement_Vocabulary_code: 34622300-6
 MCN_code: 8702.40.10
 Wolfram_Language_entity_code: Entity["Concept", "TracklessTrolley::78g52"]
@@ -177,6 +176,7 @@ dv_has_:
     zh-my: 无轨电车
     zh-sg: 无轨电车
     zh-tw: 無軌電車
+Unicode_character: 🚎
 ---
 # [[Trolleybus]] 🚎 
 

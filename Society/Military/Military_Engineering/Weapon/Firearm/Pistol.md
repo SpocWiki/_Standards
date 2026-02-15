@@ -113,7 +113,6 @@ Commons_category: Pistols
 image: http://commons.wikimedia.org/wiki/Special:FilePath/M9-pistolet.jpg
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Gunshots%208.ogg
 IMDb_keyword: pistol
-Unicode_character: "\U0001F52B"
 MCN_code: 9305.10.00
 U_S_National_Archives_Identifier: 10664383
 dv_has_:
@@ -230,6 +229,7 @@ dv_has_:
     zh_hans: 手枪
     zh_hant: 手槍
     zh_hk: 手槍
+Unicode_character: 🔫
 ---
 # [[Pistol]] 🔫 
 

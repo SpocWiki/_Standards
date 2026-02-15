@@ -1009,9 +1009,8 @@ X_Twitter_username:
   - arg_afg
   - ro_arg_afg
 ---
-# [[Afghanistan]] 🇦🇫 
 
-## [[Afghanistan]] has Properties...
+# [[Afghanistan]] 🇦🇫 has Properties...
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

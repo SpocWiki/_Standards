@@ -68,7 +68,6 @@ conversion_to_standard_unit:
 - 0.1
 conversion_to_SI_unit: 0.001
 numeric_value: 0.001
-Unicode_character: ‰
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Visualisation%20parts%20per.svg
 Wolfram_Language_unit_code: '"PerMil"'
 Commons_category: Per mille
@@ -156,8 +155,11 @@ dv_has_:
     zh_hk: 千分比
     zh_sg: 千分比
     zh_tw: 千分比
+Unicode_character: ‰
 ---
-# [[Unit~Permille]] 
+
+# [[Unit~Permille]] ‰ 
+
 
 #is_/same_as :: [[WD~per_mille,181011]] 
 

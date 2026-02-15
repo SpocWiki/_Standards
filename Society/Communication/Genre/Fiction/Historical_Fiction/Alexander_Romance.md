@@ -79,6 +79,8 @@ aliases:
 - アレクサンドロス・ロマンス
 - 亞歷山大大帝傳奇
 ---
+# [[Alexander_Romance]]  
+
 ## #has_/text_of_/abstract 
 
 > The **Alexander Romance**, once described as "antiquity's most successful novel", 

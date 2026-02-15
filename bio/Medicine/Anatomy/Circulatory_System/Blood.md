@@ -416,8 +416,11 @@ dv_has_:
     zh_hans: 血液
     zh_hant: 血液
     zu: Igazi
+Unicode_character: 🩸
 ---
-# [[Blood]] 
+# [[Blood]] 🩸 
+
+
 
 #is_/same_as :: [[../../../../../WikiData/WD~Blood,7873|WD~Blood,7873]]
 

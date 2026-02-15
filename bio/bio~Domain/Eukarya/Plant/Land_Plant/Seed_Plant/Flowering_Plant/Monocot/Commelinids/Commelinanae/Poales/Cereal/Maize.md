@@ -428,7 +428,6 @@ this_taxon_is_source_of:
 - '[[_Standards/WikiData/WD~corn_husks,91518598]]'
 - '[[_Standards/WikiData/WD~maize_straw,111146316]]'
 UMLS_CUI: C0010028
-Unicode_character: "\U0001F33D"
 U_S_National_Archives_Identifier: 10638319
 water_footprint:
 - 700
@@ -701,6 +700,7 @@ dv_has_:
     zh_hant: 玉米
     zh_hk: 粟米
     zh_tw: 玉蜀黍
+Unicode_character: 🌽
 ---
 # [[Maize]] 🌽 
 

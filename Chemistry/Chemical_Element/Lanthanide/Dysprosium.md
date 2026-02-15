@@ -355,7 +355,9 @@ dv_has_number_of_group: 32
 dv_has_name_abbreviated: Dy
 dv_has_number_of_electrons: 66
 ---
-# [[Dysprosium]] 
+
+# [[Dysprosium]] 鏑 
+
 
 #is_/same_as :: [[../../../WikiData/WD~Dysprosium,1843]] 
 

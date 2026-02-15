@@ -42,6 +42,8 @@ dv_has_:
     zh_hant: 亞歷克斯·克里澤夫斯基
     zh_tw: 亞歷克斯·克里澤夫斯基
 ---
+# [[Krizhevsky,Alex]]  
+
 ## #has_/text_of_/abstract 
 
 > **Alex Krizhevsky** is a Ukrainian-born Canadian computer scientist 

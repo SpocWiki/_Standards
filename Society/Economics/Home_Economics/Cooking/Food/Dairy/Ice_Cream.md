@@ -373,7 +373,9 @@ dv_has_:
     zh_tw: 冰淇淋
     zu: u-ayisikhilimu
 ---
-# [[Ice_Cream]] 
+# [[Ice_Cream]] 🍨 
+
+
 
 #is_/same_as :: [[WD~Ice_cream,13233]] 
 

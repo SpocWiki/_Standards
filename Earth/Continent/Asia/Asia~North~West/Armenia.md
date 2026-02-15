@@ -789,7 +789,6 @@ official_website:
   - https://courrier.am
 country_calling_code: 374
 BHCL_UUID: 5e92f8ca-a880-4bc1-95e4-d7b3bc56358b
-Unicode_character: 🇦🇲
 ethnic_group:
   - "[[_Standards/WikiData/WD~Armenians,79797]]"
   - "[[_Standards/WikiData/WD~Yazidis,200885]]"
@@ -916,6 +915,7 @@ male_population:
   - 1256498
   - 1265512
   - 1274767
+Unicode_character: 🇦🇲
 ---
 # [[Armenia]] 🇦🇲 
 

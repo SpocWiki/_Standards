@@ -367,7 +367,9 @@ dv_is_same_as:
 dv_has_name_abbreviated: Tl
 dv_has_number_of_electrons: 81
 ---
-# [[Thallium]] 
+
+# [[Thallium]] 鉈 
+
 
 #chemic/Element 
 

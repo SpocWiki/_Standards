@@ -273,6 +273,8 @@ dv_has_:
     yue: 燃料
     zh: 燃料
 ---
+# [[Fuel]]  
+
 ## #has_/text_of_/abstract 
 
 > A **Fuel** is any material that can be made to react with other substances so that it releases energy as thermal energy or to be used for work. The concept was originally applied solely to those materials capable of releasing chemical energy but has since also been applied to other sources of heat energy, such as nuclear energy (via nuclear fission and nuclear fusion).

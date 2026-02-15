@@ -67,7 +67,6 @@ Nomenclature_for_Museum_Cataloging: 14201
 IMDb_keyword: slot-machine
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Spielautomat.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Slot%20machine.jpg
-Unicode_character: "\U0001F3B0"
 Commons_category: Slot machines
 dv_has_:
   name_:
@@ -122,6 +121,7 @@ dv_has_:
     yue: 老虎機
     zh: 角子機
     zh_tw: 吃角子老虎
+Unicode_character: 🎰
 ---
 # [[Slot_Machine]] 🎰 
 

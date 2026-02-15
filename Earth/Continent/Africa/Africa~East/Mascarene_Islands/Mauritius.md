@@ -425,7 +425,6 @@ GitHub_topic: mauritius
 Commons_category: Mauritius
 subreddit: Mauritius
 Libris_URI: mkz10tw54bbnm9c
-Unicode_character: "\U0001F1F2\U0001F1FA"
 Krugosvet_article: strany_mira/MAVRIKI.html
 native_label: République de Maurice
 short_name: "\U0001F1F2\U0001F1FA"
@@ -808,8 +807,11 @@ dv_is_same_as:
 - '[[/_private/Earth/Continent/Africa/Africa~East/Mascarene_Islands/Mauritius.private|Mauritius.private]]'
 - '[[/_personal/Earth/Continent/Africa/Africa~East/Mascarene_Islands/Mauritius.personal|Mauritius.personal]]'
 - '[[/_secret/Earth/Continent/Africa/Africa~East/Mascarene_Islands/Mauritius.secret|Mauritius.secret]]'
+Unicode_character: 🇲🇺
 ---
-# [[Mauritius]] 
+# [[Mauritius]] 🇲🇺 
+
+
 
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`

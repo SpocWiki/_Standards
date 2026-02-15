@@ -66,6 +66,8 @@ aliases:
 - 特工亞皆老
 - 아가일
 ---
+# [[Argylle]]  
+
 ## #has_/text_of_/abstract 
 
 > **Argylle** is a 2024 spy action-comedy film directed and produced by Matthew Vaughn, and written by Jason Fuchs. 

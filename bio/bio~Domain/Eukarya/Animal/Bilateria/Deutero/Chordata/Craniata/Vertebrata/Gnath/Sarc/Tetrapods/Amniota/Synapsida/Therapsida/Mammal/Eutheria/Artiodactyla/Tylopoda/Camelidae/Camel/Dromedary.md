@@ -107,7 +107,6 @@ taxon_common_name:
 - dromedario
 - enogrba kamela
 taxon_author_citation: Linnaeus, 1758
-Unicode_character: "\U0001F42A"
 short_name: C. dromedarius
 Commons_gallery: Camelus dromedarius
 Commons_category: Camelus dromedarius
@@ -231,6 +230,7 @@ dv_has_:
     zh: 單峰駱駝
     zh_cn: 单峰骆驼
     zh_hans: 单峰骆驼
+Unicode_character: 🐪
 ---
 # [[Dromedary]] 🐪 
 

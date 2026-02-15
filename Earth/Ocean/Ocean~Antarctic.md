@@ -465,6 +465,8 @@ dv_has_:
     zh_hk: 南冰洋
     zh_tw: 南極海
 ---
+# [[Ocean~Antarctic]]  
+
 ## [[Ocean~Antarctic]]  
 
 The arctic Ocean surrounds [[../Continent/Antarctica|Antarctica]] 360 Degrees. 

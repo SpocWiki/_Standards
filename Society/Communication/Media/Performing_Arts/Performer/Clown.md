@@ -115,7 +115,6 @@ Dewey_Decimal_Classification: 791.33
 P8189: 987007283916005171
 IMDb_keyword: clown-costume
 Krugosvet_article: estrada-i-cirk/kloun
-Unicode_character: "\U0001F921"
 dv_has_:
   name_:
     af: nar
@@ -229,8 +228,11 @@ dv_has_:
     zh-my: 小丑
     zh_sg: 小丑
     zh_tw: 小丑
+Unicode_character: 🤡
 ---
-# [[Clown]] 
+# [[Clown]] 🤡 
+
+
 
 #is_/same_as :: [[../../../../../WikiData/WD~Clown,7358|WD~Clown,7358]] 
 

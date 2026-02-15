@@ -106,7 +106,6 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Leitermachen%20auf%20d
 U_S_National_Archives_Identifier: 10663859
 Commons_gallery: Ladder
 Commons_category: Ladders
-Unicode_character: "\U0001FA9C"
 dv_has_:
   name_:
     af: leer
@@ -206,8 +205,11 @@ dv_has_:
     zh-cn: 梯子
     zh-hans: 梯子
     zh-hant: 梯子
+Unicode_character: 🪜
 ---
-# [[Ladder]] 
+# [[Ladder]] 🪜 
+
+
 
 #is_/same_as :: [[WD~Ladder,168639]] 
 

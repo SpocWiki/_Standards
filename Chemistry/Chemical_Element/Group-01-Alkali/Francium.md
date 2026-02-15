@@ -137,7 +137,6 @@ subclass_of:
 time_of_discovery_or_invention: 1939
 type: Element
 UMLS_CUI: C0016678
-Unicode_character: 鍅
 UNII: 15TEQ7D2QF
 dv_has_:
   name_:
@@ -380,7 +379,10 @@ dv_has_number_of_period: 7
 dv_has_number_of_group: 1
 dv_has_name_abbreviated: Fr
 dv_has_number_of_electrons: 87
+Unicode_character: 鍅
 ---
+# [[Francium]] 鍅 
+
 #is_/same_as :: [[../../../WikiData/WD~Francium,671]] 
 
 #chemic/Element 

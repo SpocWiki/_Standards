@@ -271,6 +271,8 @@ dv_has_:
     zh_tw: 艾曼紐·馬克宏
     zu: Emmanuel Macron
 ---
+# [[Macron,Emmanuel]]  
+
 ## #has_/text_of_/abstract 
 
 > Emmanuel Jean-Michel Frédéric Macron ([emanɥɛl makʁɔ̃] ; born 21 December 1977) 

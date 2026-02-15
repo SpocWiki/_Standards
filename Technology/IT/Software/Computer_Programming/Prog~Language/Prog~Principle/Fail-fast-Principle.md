@@ -13,6 +13,8 @@ aliases:
 - feil fort-system
 - 快速失败
 ---
+# [[Fail-fast-Principle]]  
+
 #is_/different_from :: [[Fail-fast-Culture]]  
 #is_/conflicting_/with :: [[Robustness-Principle]] 
 

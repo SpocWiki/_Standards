@@ -149,6 +149,8 @@ dv_has_:
     zh_sg: 佝偻病
     zh_tw: 佝僂病
 ---
+# [[Rickets]]  
+
 ## #has_/text_of_/abstract 
 
 > **Rickets**, scientific nomenclature: rachitis (from Greek ῥαχίτης rhakhítēs, meaning 'in or of the spine'), 

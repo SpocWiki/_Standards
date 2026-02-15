@@ -709,7 +709,6 @@ UIC_alphabetical_country_code: E
 UIC_numerical_country_code: 71
 UMLS_CUI: C0037747
 unemployment_rate: 16
-Unicode_character: "\U0001F1EA\U0001F1F8"
 urban_population:
 - 37974181
 - 38276186
@@ -1167,8 +1166,11 @@ dv_has_image_for_flag: '[[./Spain/Flag_of_Spain.svg|Flag_of_Spain.svg|200]]'
 dv_has_image_for_coat_of_arms: '[[./Spain/Escudo_de_España~mazonado.svg|Escudo_de_España~mazonado.svg|150]]'
 dv_has_sound_of_anthem: '[[../../../../../_public/xLarge.public/National-Anthem/Anthem-Spain-complete.mp3|Anthem-Spain-complete.mp3]]'
 dv_developed_developing_countries: Developed
+Unicode_character: 🇪🇸
 ---
-# [[Spain]] 
+# [[Spain]] 🇪🇸 
+
+
 
 ## International Names
 

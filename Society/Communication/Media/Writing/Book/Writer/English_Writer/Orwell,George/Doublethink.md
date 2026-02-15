@@ -62,6 +62,8 @@ aliases:
 - 雙想
 - 이중사고
 ---
+# [[Doublethink]]  
+
 #is_/similar_to :: Hypocrisy
 
 > **Doublethink** is a process of indoctrination 

@@ -114,7 +114,6 @@ UNSPSC_Code: 25201904
 Dewey_Decimal_Classification: 629.134386
 MCN_code: 8804.00.00
 Krugosvet_article_archived_: nauka_i_tehnika/tehnologiya_i_promyshlennost/PARASHYUT.html
-Unicode_character: "\U0001FA82"
 dv_has_:
   name_:
     af: valskerm
@@ -225,6 +224,7 @@ dv_has_:
     zh-my: 降落伞
     zh_sg: 降落伞
     zh_tw: 降落傘
+Unicode_character: 🪂
 ---
 # [[Parachute]] 🪂 
 

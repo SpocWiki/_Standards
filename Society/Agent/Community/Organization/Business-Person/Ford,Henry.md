@@ -284,6 +284,8 @@ dv_has_:
     za: Henry Ford
     zh: 亨利·福特
 ---
+# [[Ford,Henry]]  
+
 #has_/time_/started :: 1863-07-30 
 #has_/time_/stopped  :: 1947-04-07 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

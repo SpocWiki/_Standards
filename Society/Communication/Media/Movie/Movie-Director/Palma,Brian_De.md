@@ -122,6 +122,8 @@ dv_has_:
     zh_sg: 布莱恩·狄帕玛
     zh_tw: 布萊恩·狄帕瑪
 ---
+# [[Palma,Brian_De]]  
+
 #has_/time_/started :: 1940-09-11
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)`
 

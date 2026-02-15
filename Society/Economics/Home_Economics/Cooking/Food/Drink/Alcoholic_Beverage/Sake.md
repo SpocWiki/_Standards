@@ -52,7 +52,6 @@ Commons_category: Sake
 native_label: 酒
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sake%20set.jpg
 exact_match: http://purl.obolibrary.org/obo/ENVO_00003912
-Unicode_character: "\U0001F376"
 Wolfram_Language_entity_code: Entity["FoodType", "Sake"]
 Commons_gallery: 日本酒
 dv_has_:
@@ -145,8 +144,11 @@ dv_has_:
     zh_hk: 日本清酒
     zh_sg: 日本清酒
     zh_tw: 日本酒
+Unicode_character: 🍶
 ---
-# [[Sake]] 
+# [[Sake]] 🍶 
+
+
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Sake,170219|WD~Sake,170219]]  
 

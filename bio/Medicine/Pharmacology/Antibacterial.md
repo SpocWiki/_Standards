@@ -260,6 +260,8 @@ dv_has_:
     zh_hk: 抗生素
     zu: Ama-antibiotic
 ---
+# [[Antibacterial]]  
+
 ## #has_/text_of_/abstract 
 
 > An antibiotic is a type of antimicrobial substance active against bacteria. It is the most important type of **Antibacterial** agent for fighting bacterial infections, and antibiotic medications are widely used in the treatment and prevention of such infections. They may either kill or inhibit the growth of bacteria. A limited number of antibiotics also possess antiprotozoal activity. Antibiotics are not effective against viruses such as the ones which cause the common cold or influenza. Drugs which inhibit growth of viruses are termed antiviral drugs or antivirals. Antibiotics are also not effective against fungi. Drugs which inhibit growth of fungi are called antifungal drugs.

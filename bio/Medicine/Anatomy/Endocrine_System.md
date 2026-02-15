@@ -237,6 +237,8 @@ dv_has_:
     zh_hans: 内分泌系统
     zh_hant: 內分泌系統
 ---
+# [[Endocrine_System]]  
+
 ## #has_/text_of_/abstract 
 
 > The **Endocrine system** is a messenger system in an organism comprising feedback loops of hormones that are released by internal glands directly into the circulatory system and that target and regulate distant organs. In vertebrates, the hypothalamus is the neural control center for all endocrine systems.

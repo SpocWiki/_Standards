@@ -22,6 +22,8 @@ aliases:
 - 儲存電阻器
 - 存储电阻器
 ---
+# [[Memistor]]  
+
 ## #has_/text_of_/abstract 
 
 > A **Memistor** is a nanoelectric circuitry element used in parallel computing memory technology. 

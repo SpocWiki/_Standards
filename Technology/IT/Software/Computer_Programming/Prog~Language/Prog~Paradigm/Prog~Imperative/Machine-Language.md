@@ -172,6 +172,8 @@ dv_has_:
     zh-hant: 機器語言
     zu: umkitizo wenguxa
 ---
+# [[Machine-Language]]  
+
 [[Prog~Assembler]] is considered to be a 2nd Generation Programming Language, 
 different from the 1st Generation [[Machine-Language]]. 
 

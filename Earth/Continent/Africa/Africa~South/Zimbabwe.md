@@ -345,7 +345,6 @@ life_expectancy: 61.163
 IAB_code: 1477
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Zimbabwe.svg
 FIPS_10_4_countries_and_regions_: ZI
-Unicode_character: "\U0001F1FF\U0001F1FC"
 number_of_out_of_school_children: 1123710
 INSEE_countries_and_foreign_territories_code: 99310
 locator_map_image:
@@ -816,8 +815,11 @@ dv_is_same_as:
 - '[[/_personal/Earth/Continent/Africa/Africa~South/Zimbabwe.personal|Zimbabwe.personal]]'
 - '[[/_secret/Earth/Continent/Africa/Africa~South/Zimbabwe.secret|Zimbabwe.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Zimbabwe
+Unicode_character: 🇿🇼
 ---
-# [[Zimbabwe]] 
+# [[Zimbabwe]] 🇿🇼 
+
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

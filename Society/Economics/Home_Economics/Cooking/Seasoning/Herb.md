@@ -102,7 +102,6 @@ subclass_of: '[[_Standards/WikiData/WD~plant,756]]'
 color: '[[_Standards/WikiData/WD~green,3133]]'
 IAB_code: 234
 OmegaWiki_Defined_Meaning: 8246
-Unicode_character: "\U0001F33F"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/K%C3%BCchenkr%C3%A4uter-1.jpg
 pronunciation_audio:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Ar-%D8%B9%D8%B4%D8%A8.ogg
@@ -216,6 +215,7 @@ dv_has_:
     wuu: 香草
     yue: 香草
     zh: 香草植物
+Unicode_character: 🌿
 ---
 # [[Herb]] 🌿 
 

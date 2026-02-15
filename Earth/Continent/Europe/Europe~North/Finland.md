@@ -1143,7 +1143,6 @@ short_name: "\U0001F1EB\U0001F1EE"
 inception: 1917-12-06
 has_time_started: 1917-12-06
 U_S_National_Archives_Identifier: 10035776
-Unicode_character: "\U0001F1EB\U0001F1EE"
 geoshape: http://commons.wikimedia.org/data/main/Data:Finland.map
 area: 338478.34
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Finland.svg
@@ -1168,8 +1167,11 @@ Dewey_Decimal_Classification: 2--4897
 BHCL_UUID:
 - 401326d7-3ab0-478d-be5e-fab1c3af1db7
 - 7aacabd6-5c8f-42d5-be3d-92b7cb480bb4
+Unicode_character: 🇫🇮
 ---
-# [[Finland]] 
+# [[Finland]] 🇫🇮 
+
+
 
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`

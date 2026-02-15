@@ -192,6 +192,8 @@ dv_has_:
     zh: 白天
     zh_hant: 白天
 ---
+# [[Daytime]]  
+
 #is_/part_of :: [[../Unit~Day|Unit~Day]] 
 #is_/same_as :: [[../../../../../../WikiData/WD~Daytime,52643|WD~Daytime,52643]] 
 #has_/complement :: [[Nighttime]]  

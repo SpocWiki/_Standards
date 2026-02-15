@@ -99,6 +99,8 @@ aliases:
 - 迪士尼+
 - 디즈니+
 ---
+# [[Disney+]]  
+
 #has_/number_of_/subscribers:: 
 
 ## #has_/text_of_/abstract 

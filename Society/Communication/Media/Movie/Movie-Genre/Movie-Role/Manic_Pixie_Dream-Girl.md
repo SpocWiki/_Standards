@@ -28,6 +28,8 @@ aliases:
 - มานิกพิกซีดรีมเกิร์ล
 - マニック・ピクシー・ドリーム・ガール
 ---
+# [[Manic_Pixie_Dream-Girl]]  
+
 ## #has_/text_of_/abstract 
 
 > A Manic Pixie Dream Girl (MPDG) is a stock character type in fiction, 

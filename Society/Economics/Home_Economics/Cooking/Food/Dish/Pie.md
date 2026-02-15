@@ -78,7 +78,6 @@ Danbooru_tag: pie
 hashtag: pie
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pumpkin%20Pie.jpg
 Wolfram_Language_entity_code: Entity["FoodType", "Pie"]
-Unicode_character: "\U0001F967"
 dv_has_:
   name_:
     ar: فطيرة
@@ -159,8 +158,11 @@ dv_has_:
     zh: 西式餡餅
     zh_hant: 西式餡餅
     zh_tw: 西式餡餅
+Unicode_character: 🥧
 ---
-# [[Pie]] 
+# [[Pie]] 🥧 
+
+
 
 #is_/same_as :: [[WD~Pie,13360264]] 
 

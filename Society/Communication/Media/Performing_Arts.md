@@ -207,8 +207,11 @@ aliases:
 - 表演艺术
 - 表演藝術
 - 공연 예술
+Unicode_character: 🎭
 ---
-# [[Performing_Arts]] 
+# [[Performing_Arts]] 🎭 
+
+
 
 #is_/same_as :: [[../../../WikiData/WD~Performing_arts,184485|WD~Performing_arts,184485]] 
 

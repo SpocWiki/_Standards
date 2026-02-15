@@ -144,7 +144,6 @@ subclass_of:
 time_of_discovery_or_invention: 1861
 type: Element
 UMLS_CUI: C0035930
-Unicode_character: 銣
 UNII: MLT4718TJW
 ZVG_number: 7370
 dv_is_:
@@ -387,8 +386,11 @@ dv_has_number_of_period: 5
 dv_has_number_of_group: 1
 dv_has_name_abbreviated: Rb
 dv_has_number_of_electrons: 37
+Unicode_character: 銣
 ---
-# [[Rubidium]] 
+# [[Rubidium]] 銣 
+
+
 
 ## [[Rubidium]] has Properties...
 

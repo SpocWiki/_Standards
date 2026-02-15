@@ -478,7 +478,9 @@ dv_has_:
     zh_tw: 雪
     zu: Umkhithiko
 ---
-# [[Snow]] 
+
+# [[Snow]] ⁎ 
+
 
 #is_/same_as :: [[../../../WikiData/WD~Snow,7561|WD~Snow,7561]] 
 

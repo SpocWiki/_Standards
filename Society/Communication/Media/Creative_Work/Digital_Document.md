@@ -132,6 +132,8 @@ dv_has_:
     zh_hans: 电子文档
     zh_hant: 電子文件
 ---
+# [[Digital_Document]]  
+
 Class of all digital_documents.
 
 Tag Instances like this: 

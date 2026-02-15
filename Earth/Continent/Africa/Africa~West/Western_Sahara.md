@@ -273,7 +273,6 @@ topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Western_Sahara,1
 top_level_Internet_domain: '[[_Standards/WikiData/WD~.eh,433562]]'
 type: Country
 UMLS_CUI: C1520135
-Unicode_character: "\U0001F1EA\U0001F1ED"
 U_S_National_Archives_Identifier: 10035840
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Western_Sahara,7112525]]'
 WIPO_ST_3: EH
@@ -546,8 +545,11 @@ dv_is_same_as:
 - '[[/_personal/Earth/Continent/Africa/Africa~West/Western_Sahara.personal|Western_Sahara.personal]]'
 - '[[/_secret/Earth/Continent/Africa/Africa~West/Western_Sahara.secret|Western_Sahara.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Western_Sahara
+Unicode_character: 🇪🇭
 ---
-# [[Western_Sahara]] 
+# [[Western_Sahara]] 🇪🇭 
+
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

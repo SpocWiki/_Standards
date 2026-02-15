@@ -97,7 +97,6 @@ subclass_of:
 subreddit: robots
 time_of_earliest_written_record: 1920
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_robot,3579032]]'
-Unicode_character: "\U0001F916"
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Dockvorgang%20M%C3%A4hroboter%20GARDENA%20R70Li.webm
 dv_has_:
   name_:
@@ -258,6 +257,7 @@ dv_has_:
     zh_hant: 機器人
     zh_hk: 機械人
     zu: IsiThununu
+Unicode_character: 🤖
 ---
 # [[Robot]] 🤖 
 

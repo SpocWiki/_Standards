@@ -62,6 +62,8 @@ dv_has_:
     zh_hant: 塔森·辛
     zh_hk: 泰森·辛
 ---
+# [[Tarsem_Singh]]  
+
 #has_/time_/started :: 1961-05-26  
 
 > **Tarsem Singh** Dhandwar (born 26 May 1961), known professionally as Tarsem, 

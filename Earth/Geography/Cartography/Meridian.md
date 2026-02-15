@@ -78,7 +78,6 @@ Commons_category: Meridian markers
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Longitude%20%28PSF%29.png
 - http://commons.wikimedia.org/wiki/Special:FilePath/Meridians.png
-Unicode_character: "\U0001F310"
 Krugosvet_article_archived_: Earth_sciences/geografiya/MERIDIAN.html
 dv_is_:
   same_as:
@@ -198,6 +197,7 @@ dv_has_:
     yi: מערידיאן
     yue: 經線
     zh: 经线
+Unicode_character: 🌐
 ---
 # [[Meridian]] 🌐 
 

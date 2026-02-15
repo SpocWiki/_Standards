@@ -469,6 +469,8 @@ dv_has_:
     zh_cn: 哥特弗里德·威廉·莱布尼茨
     zh_hant: 哥特佛萊德·萊布尼茲
 ---
+# [[Leibniz,Gottfried_Wilhelm]]  
+
 - [[#has_/time_/started :: 1646-07-01]]  [#has_/place_/started :: [[Leipzig]] ]
 - [[#has_/time_/stopped :: 1716-11-14]] [#has_/place_/stopped :: [[../../../Earth/Continent/America~Caribbean/Greater_Antilles/Jamaica/Parishes~Jamaica/Hanover]] ] 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

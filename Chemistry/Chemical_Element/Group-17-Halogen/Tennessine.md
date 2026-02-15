@@ -256,7 +256,9 @@ dv_has_:
     zh_tw: 鿬
     zu: IThesimbi
 ---
-# [[Tennessine]] 
+
+# [[Tennessine]] 鿬 
+
 
 #is_/same_as :: [[../../../WikiData/WD~Tennessine,1306|WD~Tennessine,1306]]  
 

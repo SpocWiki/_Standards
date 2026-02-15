@@ -232,7 +232,6 @@ pronunciation_audio:
 - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33965%20%28sat%29-Rocky%20734-%E1%B1%B5%E1%B1%AE%E1%B1%B8%E1%B1%9C%E1%B1%9F%E1%B1%B2.wav
 - http://commons.wikimedia.org/wiki/Special:FilePath/Q7540-ar.ogg
 taxon_author_citation: L.
-Unicode_character: "\U0001F346"
 described_at_URL: http://nadeaud.ilm.pf/liste-bibliotaxons?page=634
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=101312
 UNII: 5DS5EE0N93
@@ -422,6 +421,7 @@ dv_has_:
     zh_hans: 茄
     zh_hant: 茄
     zh_tw: 茄
+Unicode_character: 🍆
 ---
 # [[Eggplant]] 🍆 
 

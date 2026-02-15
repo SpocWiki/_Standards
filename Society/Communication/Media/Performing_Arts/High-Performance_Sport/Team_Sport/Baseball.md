@@ -246,8 +246,11 @@ aliases:
 - 棒球
 - 野球
 - 야구
+Unicode_character: ⚾
 ---
-# [[Baseball]]  
+# [[Baseball]] ⚾ 
+
+
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Baseball,5369|WD~Baseball,5369]] 
 

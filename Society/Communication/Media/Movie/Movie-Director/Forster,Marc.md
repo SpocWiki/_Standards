@@ -81,6 +81,8 @@ dv_has_:
     zh: 馬克·福斯特
     zh_hk: 馬克·科士打
 ---
+# [[Forster,Marc]]  
+
 ## #has_/text_of_/abstract 
 
 > **Marc Forster** (born 30 November 1969) is a German-Swiss filmmaker. 

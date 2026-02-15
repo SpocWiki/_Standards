@@ -159,6 +159,8 @@ dv_has_:
     zh_tw: 肯尼斯·布萊納
     zu: Kenneth Branagh
 ---
+# [[Branagh,Kenneth]]  
+
 #has_/time_/started :: 1960-12-10 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 

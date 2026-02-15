@@ -402,7 +402,6 @@ rural_population:
 - 10857387
 Commons_category: Zambia
 Commons_gallery: Zambia
-Unicode_character: "\U0001F1FF\U0001F1F2"
 ISO_3166_1_alpha_3_code: ZMB
 ITU_letter_code: ZMB
 native_label: Republic of Zambia
@@ -841,8 +840,11 @@ dv_is_same_as:
 - '[[/_personal/Earth/Continent/Africa/Africa~Central/Zambia.personal|Zambia.personal]]'
 - '[[/_secret/Earth/Continent/Africa/Africa~Central/Zambia.secret|Zambia.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Zambia
+Unicode_character: 🇿🇲
 ---
-# [[Zambia]] 
+# [[Zambia]] 🇿🇲 
+
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

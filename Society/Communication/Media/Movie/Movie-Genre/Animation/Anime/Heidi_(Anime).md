@@ -59,6 +59,8 @@ aliases:
 - 飄零燕
 - 알프스 소녀 하이디
 ---
+# [[Heidi_(Anime)]]  
+
 > Heidi, Girl of the Alps ([[../../../../../../../Language/Language_Family/LangFamily-Japonic/Lang-jpn|Japanese]]: アルプスの少女ハイジ, Hepburn: Arupusu no Shōjo Haiji) 
 > is an anime television series produced by Zuiyo Eizo and is based on the novel 
 > Heidi's Years of Wandering and Learning by Johanna Spyri (1880). 

@@ -65,6 +65,8 @@ aliases:
 - 克里斯·薩蘭登
 - 크리스 서랜던
 ---
+# [[Sarandon,Chris]]  
+
 #has_/time_/started :: 1942-07-24 
 
 

@@ -235,7 +235,7 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Actor/British_Actor/Gilliam,Terry|Gilliam,Terry]] 
+### #is_/same_as :: [[Gilliam,Terry|Gilliam,Terry]] 
 
 ### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Actor/British_Actor/Gilliam,Terry.public|Gilliam,Terry.public]] 
 

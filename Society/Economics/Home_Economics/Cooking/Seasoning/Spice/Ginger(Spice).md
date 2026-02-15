@@ -88,7 +88,6 @@ PLU_code:
 CosIng_number: 84769
 USDA_NDB_number: 2021
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Starr%20070730-7818%20Zingiber%20officinale.jpg
-Unicode_character: "\U0001FADA"
 pronunciation_audio:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Ka-janjapili.ogg
 - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33965%20%28sat%29-Joy%20sagar%20Murmu-%E1%B1%9F%E1%B1%AB%E1%B1%B7%E1%B1%AE.wav
@@ -179,6 +178,7 @@ dv_has_:
     yue: 薑
     za: hing
     zh: 生姜
+Unicode_character: 🫚
 ---
 # [[Ginger(Spice)]] 🫚 
 

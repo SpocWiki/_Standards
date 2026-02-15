@@ -436,6 +436,8 @@ dv_has_:
     zh_cn: 燕麦
     zh_tw: 燕麥
 ---
+# [[Oat]]  
+
 ## #has_/text_of_/abstract 
 
 > The **Oat** (Avena sativa), sometimes called the common oat, is a species of cereal grain grown for its seed, which is known by the same name (usually in the plural). Oats appear to have been domesticated as a secondary crop, as their seeds resembled those of other cereals closely enough for them to be included by early cultivators. Oats tolerate cold winters less well than cereals such as wheat, barley, and rye, but need less summer heat and more rain, making them important in areas such as Northwest Europe that have cool wet summers. They can tolerate low-nutrient and acid soils. Oats grow thickly and vigorously, allowing them to outcompete many weeds, and compared to other cereals are relatively free from diseases. 

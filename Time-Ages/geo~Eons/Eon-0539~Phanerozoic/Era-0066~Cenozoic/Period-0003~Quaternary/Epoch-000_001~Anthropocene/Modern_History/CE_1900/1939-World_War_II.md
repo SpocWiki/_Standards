@@ -651,6 +651,8 @@ dv_is_same_as:
 - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II.personal|1939-World_War_II.personal]]'
 - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1939-World_War_II.secret|1939-World_War_II.secret]]'
 ---
+# [[1939-World_War_II]]  
+
 #has_/time_/started :: 1939-09-01 
 #has_/time_/stopped  :: 1945-09-02 
 has_next_item = `=this.dv_has_next_item` 

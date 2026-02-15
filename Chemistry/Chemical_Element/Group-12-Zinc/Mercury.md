@@ -504,6 +504,8 @@ dv_has_number_of_group: 12
 dv_has_name_abbreviated: Hg
 dv_has_number_of_electrons: 80
 ---
+# [[Mercury]] 汞 
+
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Mercury,925]] 
 

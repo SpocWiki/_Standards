@@ -366,6 +366,8 @@ dv_has_:
     zh_sg: 阿拉伯字母
     zh_tw: 阿拉伯字母
 ---
+# [[Arabic_Alphabet]]  
+
 ## #has_/text_of_/abstract 
 
 > The **Arabic alphabet**, or the Arabic abjad, is the Arabic script as specifically codified for writing the Arabic language. It is written from right-to-left in a cursive style, and includes 28 letters, of which most have contextual letterforms. Unlike the modern Latin alphabet, the script has no concept of letter case. The Arabic alphabet is considered an abjad, with only consonants required to be written; due to its optional use of diacritics to notate vowels, it is considered an impure abjad.

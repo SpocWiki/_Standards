@@ -417,7 +417,6 @@ inception: 1986-11-03T00:00:00Z
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Federated%20States%20of%20Micronesia.svg
 Commons_gallery: Federated States of Micronesia
 Commons_category: Federated States of Micronesia
-Unicode_character: "\U0001F1EB\U0001F1F2"
 U_S_National_Archives_Identifier: 10035700
 CIVICUS_Monitor_country_entry: micronesia
 subreddit: micronesia
@@ -673,8 +672,11 @@ dv_has_:
     zh_sg: 密克罗尼西亚联邦
     zh_tw: 密克羅尼西亞聯邦
     zu: i-Federated States of Micronesia
+Unicode_character: 🇫🇲
 ---
-# [[Micronesia~Fed._States]] 
+# [[Micronesia~Fed]] 🇫🇲 
+
+
 
 ISO2 = `=this.dv_ISO2` 
 ISO3 = `=this.dv_ISO3`  

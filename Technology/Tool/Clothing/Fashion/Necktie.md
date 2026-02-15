@@ -103,7 +103,6 @@ MCN_code: 6117.80.10
 label_in_sign_language: http://commons.wikimedia.org/wiki/Special:FilePath/Cravate%20Nf%201%201%201%20-%20Elix.webm
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dress-pinstripe.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Fabricio%20Cardenas%20%28Culex%29-cravate.wav
-Unicode_character: "\U0001F454"
 Library_of_Congress_Classification: GT2120
 Commons_gallery: Necktie
 Commons_category: Neckties
@@ -225,6 +224,7 @@ dv_has_:
     zh: 领带
     zh-hant: 領帶
     zh-tw: 領帶
+Unicode_character: 👔
 ---
 # [[Necktie]] 👔 
 

@@ -51,6 +51,8 @@ dv_has_:
     uz: Thinking, Fast and Slow
     zh: 快思慢想
 ---
+# [[Thinking,Fast_and_Slow]]  
+
 > **Thinking, Fast and Slow** is a 2011 popular science book by psychologist [[../../../../../../../_protect/bio/Psychology/Psychologist/Kahnemann,Daniel]].
 >
 > The book's main thesis is a differentiation between two modes of thought: 

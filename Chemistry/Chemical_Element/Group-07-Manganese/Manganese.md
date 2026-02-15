@@ -177,7 +177,6 @@ time_of_discovery_or_invention: 1774-01-01T00:00:00Z
 time_weighted_average_exposure_limit: 1
 type: Element
 UMLS_CUI: C0024706
-Unicode_character: 錳
 UNII: 42Z2K6ZL8P
 U_S_National_Archives_Identifier: 10647456
 vapor_pressure: 0
@@ -441,8 +440,11 @@ dv_has_number_of_period: 4
 dv_has_number_of_group: 7
 dv_has_name_abbreviated: Mn
 dv_has_number_of_electrons: 25
+Unicode_character: 錳
 ---
-# [[Manganese]]
+# [[Manganese]] 錳 
+
+
 
 
 #chemic/Element 

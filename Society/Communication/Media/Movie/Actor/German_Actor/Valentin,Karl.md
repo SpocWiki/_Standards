@@ -61,6 +61,8 @@ dv_has_:
     zh: 卡爾‧瓦倫丁
     zh_hant: 卡爾‧瓦倫丁
 ---
+# [[Valentin,Karl]]  
+
 #has_/created_/quote :: Jedes Problem hat drei Seiten: eine positive, eine negative und eine komische. 
 
 

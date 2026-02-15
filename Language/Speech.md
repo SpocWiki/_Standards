@@ -135,7 +135,6 @@ MeSH_tree_code:
 - G11.561.812
 - L01.559.423.676
 Gujarati_Vishwakosh_entry: વાક્-speech-અને-તેના-વિકારો
-Unicode_character: "\U0001F5E3"
 dv_has_:
   name_:
     af: spraak
@@ -249,6 +248,7 @@ dv_has_:
     yue: 講嘢
     zh: 說話
     zh_hant: 說話
+Unicode_character: 🗣
 ---
 # [[Speech]] 🗣 
 

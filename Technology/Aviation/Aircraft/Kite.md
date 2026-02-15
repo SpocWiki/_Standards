@@ -148,7 +148,6 @@ GS1_GPC_code: 10001831
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Go%20fly%20a%20kite%20%287511318416%29.jpg
 Commons_category: Kites
 UNSPSC_Code: 60141015
-Unicode_character: "\U0001FA81"
 dv_has_:
   name_:
     an: Milorcha
@@ -274,6 +273,7 @@ dv_has_:
     za: Yiuhrumz
     zea: Vliegere
     zh: 风筝
+Unicode_character: 🪁
 ---
 # [[Kite]] 🪁 
 

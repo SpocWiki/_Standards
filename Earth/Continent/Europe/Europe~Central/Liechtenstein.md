@@ -726,7 +726,6 @@ population: 37922
 licence_plate_code: FL
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Staatswappen-Liechtensteins.svg
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Liechtenstein.svg
-Unicode_character: "\U0001F1F1\U0001F1EE"
 ISO_3166_1_alpha_2_code: LI
 NUTS_code:
 - LI
@@ -806,10 +805,10 @@ expiryDate:
 Languages:
 - de-LI
 icon: flag-li
+Unicode_character: 🇱🇮
 ---
-# [[Liechtenstein]] 
 
-## [[Liechtenstein]] has Properties... 
+# [[Liechtenstein]] 🇱🇮 has Properties... 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

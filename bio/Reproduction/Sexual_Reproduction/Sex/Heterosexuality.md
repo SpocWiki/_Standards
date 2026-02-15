@@ -119,7 +119,6 @@ OmegaWiki_Defined_Meaning: 373156
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Just%20a%20touch%20is%20all%20I%20need.jpg
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Heterosexual%20flag%20%28black-white%20stripes%29.svg
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Heterosexual%20symbol%20%28bold%2C%20pink%20blue%29.svg
-Unicode_character: ⚤
 MeSH_tree_code:
 - F01.145.802.975.400
 - G08.686.867.400
@@ -254,8 +253,11 @@ dv_has_:
     zh: 异性恋
     zh_hant: 異性戀
     zh_tw: 異性戀
+Unicode_character: ⚤
 ---
-# [[Heterosexuality]] 
+# [[Heterosexuality]] ⚤ 
+
+
 
 #is_/same_as :: [[WD~Heterosexuality,1035954]] 
 

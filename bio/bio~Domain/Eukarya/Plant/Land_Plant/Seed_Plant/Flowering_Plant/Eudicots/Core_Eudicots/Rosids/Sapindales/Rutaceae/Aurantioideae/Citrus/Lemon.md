@@ -212,7 +212,6 @@ pronunciation_audio:
 - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q5137%20%28guj%29-Sushant%20savla-%E0%AA%B2%E0%AB%80%E0%AA%82%E0%AA%AC%E0%AB%81.wav
 - http://commons.wikimedia.org/wiki/Special:FilePath/Q500-ar.ogg
 ITIS_TSN: 825214
-Unicode_character: "\U0001F34B"
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/3DLemon001%20HQ-4K-PNG.stl
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=10732
 Common_Procurement_Vocabulary_code: 03222210-8
@@ -432,6 +431,7 @@ dv_has_:
     zh_hans: 柠檬
     zh_hant: 檸檬
     zh_tw: 檸檬
+Unicode_character: 🍋
 ---
 # [[Lemon]]  🍋 
 

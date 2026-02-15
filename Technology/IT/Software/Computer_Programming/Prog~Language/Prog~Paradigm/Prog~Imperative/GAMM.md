@@ -27,6 +27,8 @@ aliases:
 - 応用数理・機械学会
 - 응용수학 및 역학 학회
 ---
+# [[GAMM]]  
+
 #has_/time_/started :: 1922-07-01 
 
 #has_/creator :: [ [[Prandtl~Ludwig]], [[von_Mises~Richard]] ]  

@@ -333,7 +333,9 @@ dv_has_number_of_group: 31
 dv_has_name_abbreviated: Tb
 dv_has_number_of_electrons: 65
 ---
-# [[Terbium]] 
+
+# [[Terbium]] 鋱 
+
 
 #is_/same_as :: [[../../../WikiData/WD~Terbium,1838]] 
 

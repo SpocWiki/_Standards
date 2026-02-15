@@ -233,7 +233,6 @@ topic_s_main_template:
 - '[[_Standards/WikiData/WD~Template_Television,26837387]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Television,10316697]]'
 UMLS_CUI: C0039461
-Unicode_character: "\U0001F4FA"
 union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 U_S_National_Archives_Identifier: 10643842
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Around%20the%20Corner%20%281937%29%2024fps%20selection.webm
@@ -476,6 +475,7 @@ dv_has_:
     zh_sg: 电视
     zh_tw: 電視
     zu: UMabonakude
+Unicode_character: 📺
 ---
 # [[Television]] 📺 
 

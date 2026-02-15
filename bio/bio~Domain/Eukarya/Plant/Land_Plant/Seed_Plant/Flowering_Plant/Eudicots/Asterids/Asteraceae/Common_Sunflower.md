@@ -234,7 +234,6 @@ short_name: H. annuus
 Montana_Plant_Life_URL: http://montana.plant-life.org/cgi-bin/species03.cgi?Asteraceae_Helianthusannuus
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=27923
 sequenced_genome_URL: https://plants.ensembl.org/Helianthus_annuus
-Unicode_character: "\U0001F33B"
 UNII: 17S27ZT6KR
 Australasian_Pollen_and_Spore_Atlas_Code_archived_:
 - 286-14-4
@@ -406,6 +405,7 @@ dv_has_:
     zh_cn: 向日葵
     zh_hant: 向日葵
     zh_tw: 向日葵
+Unicode_character: 🌻
 ---
 # [[Common_Sunflower]] 🌻 
 

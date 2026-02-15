@@ -316,6 +316,8 @@ dv_has_:
     yue: 尼赫魯
     zh: 贾瓦哈拉尔·尼赫鲁
 ---
+# [[Nehru,Jawaharlal]]  
+
 ## #has_/text_of_/abstract 
 
 > **Jawaharlal Nehru** (14 November 1889 – 27 May 1964) was an Indian anti-colonial nationalist, secular humanist, social democrat, and statesman who was a central figure in India during the middle of the 20th century. Nehru was a principal leader of the Indian nationalist movement in the 1930s and 1940s. Upon India's independence in 1947, he served as the country's first prime minister for 16 years. Nehru promoted parliamentary democracy, secularism, and science and technology during the 1950s, powerfully influencing India's arc as a modern nation. In international affairs, he steered India clear of the two blocs of the Cold War. A well-regarded author, the books he wrote in prison, such as Letters from a Father to His Daughter (1929), An Autobiography (1936) and The Discovery of India (1946), have been read around the world.

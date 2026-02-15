@@ -106,6 +106,8 @@ aliases:
 - 比特洪流
 - 비트토렌트
 ---
+# [[BitTorrent]]  
+
 ## #has_/text_of_/abstract 
 
 > **BitTorrent**, AKA torrent, is a communication protocol for peer-to-peer file sharing (P2P), 

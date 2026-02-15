@@ -271,6 +271,8 @@ dv_has_:
     yue: 哈菲茲
     zh: 哈菲兹
 ---
+# [[Hafez]]  
+
 ## #has_/text_of_/abstract 
 
 > Khājeh Shams-od-Dīn Moḥammad Ḥāfeẓ-e Shīrāzī (Persian: خواجه شمس‌‌الدین محمد حافظ شیرازی), 

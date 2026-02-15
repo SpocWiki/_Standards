@@ -129,7 +129,6 @@ properties_for_this_type:
 Merchant_Category_Code: 7832
 Nomenclature_for_Museum_Cataloging: 682
 IMDb_keyword: movie-theater
-Unicode_character: "\U0001F3A6"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Berlin%20Filmtheater%20am%20Friedrichshain%20asv2024-06%20img6.jpg
 equivalent_class:
 - http://dati.beniculturali.it/cis/Cinema
@@ -294,6 +293,7 @@ dv_is_same_as:
 - '[[/_private/Earth/Geography/Place/Civic_Structure/Movie_Theater.private|Movie_Theater.private]]'
 - '[[/_personal/Earth/Geography/Place/Civic_Structure/Movie_Theater.personal|Movie_Theater.personal]]'
 - '[[/_secret/Earth/Geography/Place/Civic_Structure/Movie_Theater.secret|Movie_Theater.secret]]'
+Unicode_character: 🎦
 ---
 # [[Movie_Theater]] 🎦 
 

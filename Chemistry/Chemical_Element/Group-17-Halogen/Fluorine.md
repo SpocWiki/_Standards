@@ -420,6 +420,9 @@ dv_has_number_of_group: 17
 dv_has_name_abbreviated: F
 dv_has_number_of_electrons: 9
 ---
+
+# [[Fluorine]] 氟 
+
 #is_/same_as :: [[../../../WikiData/WD~Fluorine,650]]  
 
 

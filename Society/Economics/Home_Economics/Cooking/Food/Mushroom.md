@@ -327,7 +327,8 @@ dv_has_:
     zh_hans: 蕈类
     zh_hant: 蘑菇
 ---
-# [[Mushroom]] 🍄 
+# [[Mushroom]] 🍄🟫 
+
 
 #is_/same_as :: [[WD~Mushroom,83093]] 
 

@@ -434,6 +434,8 @@ dv_has_:
     zh_hk: 諾貝爾獎
     zh_tw: 諾貝爾獎
 ---
+# [[Nobel Prize]]  
+
 ## #has_/text_of_/abstract 
 
 > The **Nobel Prize**s (Swedish: Nobelpriset [nʊˈbɛ̂lːˌpriːsɛt]; Norwegian: Nobelprisen [nʊˈbɛ̀lːˌpriːsn̩]) 

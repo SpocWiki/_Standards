@@ -118,6 +118,8 @@ dv_has_:
     zh_sg: 吉卜力工作室
     zh_tw: 吉卜力工作室
 ---
+# [[Studio_Ghibli]]  
+
 > Studio Ghibli, Inc. 
 > (Japanese: 株式会社スタジオジブリ, Hepburn: Kabushiki-gaisha Sutajio Jiburi) 
 > is a Japanese animation studio based in [[Koganei,Tokyo]]. 

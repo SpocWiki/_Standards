@@ -368,8 +368,11 @@ dv_has_:
     zh_hans: 医院
     zh_hant: 醫院
     zh_tw: 醫院
+Unicode_character: 🏥
 ---
-# [[Hospital]] 
+# [[Hospital]] 🏥 
+
+
 
 Class of all hospitals.
 

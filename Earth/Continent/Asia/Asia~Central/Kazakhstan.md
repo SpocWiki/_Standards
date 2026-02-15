@@ -851,7 +851,6 @@ Commons_category: Kazakhstan
 subreddit: Kazakhstan
 hashtag: Kazakhstan
 Commons_gallery: Kazakhstan
-Unicode_character: "\U0001F1F0\U0001F1FF"
 coordinates_of_northernmost_point: Point(68.97 55.43)
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Emblem%20of%20Kazakhstan%20latin.svg
 coordinates_of_westernmost_point: Point(46.49431229 48.43352876)
@@ -936,8 +935,11 @@ Languages:
 - kk
 - ru
 icon: flag-kz
+Unicode_character: 🇰🇿
 ---
-# [[Kazakhstan]] 
+# [[Kazakhstan]] 🇰🇿 
+
+
 
 ## [[Kazakhstan]] has Properties...
 

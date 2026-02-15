@@ -203,6 +203,8 @@ dv_has_:
     zh_sg: 陵墓
     zh_tw: 陵墓
 ---
+# [[Mausoleum]]  
+
 #is_/same_as :: [[_Standards/WikiData/WD~mausoleum,162875]] 
 
 ## #has_/text_of_/abstract 

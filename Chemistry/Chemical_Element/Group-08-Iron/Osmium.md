@@ -127,7 +127,6 @@ subclass_of: '[[_Standards/WikiData/WD~platinum_group,223995]]'
 time_of_discovery_or_invention: 1804
 type: Element
 UMLS_CUI: C0029383
-Unicode_character: 鋨
 UNII: 2E7M255OPY
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Metal%20osmium%20collides%20with%20each%20other%20and%20makes%20a%20crisp%20sound.webm
 Wolfram_Language_entity_code: Entity["Mineral", "Osmium"]
@@ -367,8 +366,11 @@ dv_has_number_of_group: 8
 dv_has_name_abbreviated: Os
 dv_has_number_of_electrons: 76
 dv_has_value_for_density: 22.59
+Unicode_character: 鋨
 ---
-# [[Osmium]] 
+# [[Osmium]] 鋨 
+
+
 
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Osmium,751]] 

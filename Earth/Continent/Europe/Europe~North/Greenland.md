@@ -470,8 +470,11 @@ dv_is_same_as:
 - '[[/_personal/Earth/Continent/Europe/Europe~North/Greenland.personal|Greenland.personal]]'
 - '[[/_secret/Earth/Continent/Europe/Europe~North/Greenland.secret|Greenland.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Greenland
+Unicode_character: 🇬🇱
 ---
-# [[Greenland]] 
+# [[Greenland]] 🇬🇱 
+
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

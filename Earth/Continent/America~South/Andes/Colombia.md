@@ -511,7 +511,6 @@ official_website: https://www.gov.co/
 country_calling_code: 57
 U_S_National_Archives_Identifier: 10035714
 Dewey_Decimal_Classification: 2--861
-Unicode_character: "\U0001F1E8\U0001F1F4"
 CIVICUS_Monitor_country_entry: colombia
 GitHub_topic:
 - colombia
@@ -1013,8 +1012,11 @@ dv_is_same_as:
 - '[[/_private/Earth/Continent/America~South/Andes/Colombia.private|Colombia.private]]'
 - '[[/_personal/Earth/Continent/America~South/Andes/Colombia.personal|Colombia.personal]]'
 - '[[/_secret/Earth/Continent/America~South/Andes/Colombia.secret|Colombia.secret]]'
+Unicode_character: 🇨🇴
 ---
-# [[Colombia]] 
+# [[Colombia]] 🇨🇴 
+
+
 
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`

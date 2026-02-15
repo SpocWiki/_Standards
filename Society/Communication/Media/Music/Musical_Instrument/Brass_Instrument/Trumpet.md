@@ -113,7 +113,6 @@ OmegaWiki_Defined_Meaning: 344567
 playing_range_image: http://commons.wikimedia.org/wiki/Special:FilePath/Range%20trumpet.svg
 practiced_by: '[[_Standards/WikiData/WD~trumpeter,12377274]]'
 subclass_of: '[[_Standards/WikiData/WD~valve_trumpets,55774273]]'
-Unicode_character: "\U0001F3BA"
 UNSPSC_Code: 60131101
 U_S_National_Archives_Identifier: 10648442
 video: http://commons.wikimedia.org/wiki/Special:FilePath/C%20Major%20Scale%20Trumpet.ogv
@@ -259,6 +258,7 @@ dv_has_:
     zh_hant: 小號
     zh_tw: 小號
     zu: Icilongo
+Unicode_character: 🎺
 ---
 # [[Trumpet]] 🎺 
 

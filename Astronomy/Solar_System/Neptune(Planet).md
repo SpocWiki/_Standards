@@ -517,7 +517,9 @@ dv_has_:
     zh_tw: 海王星
     zu: UNepetuni
 ---
-# [[Neptune(Planet)]] 
+# [[Neptune(Planet)]] ♆ 
+
+
 
 #is_/different_from :: [[_Standards/WikiData/WD~Neptune,3954]] 
 #is_/different_from :: [[_Standards/WikiData/WD~Neptune,2456503]] 

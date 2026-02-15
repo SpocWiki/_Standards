@@ -1,5 +1,17 @@
 ---
 aliases:
+- apparition
+- haunt
+- haint
+- phantom
+- poltergeist
+- shade
+- specter
+- spirit
+- spook
+- wraith
+- demon
+- ghoul
 - Arvoh
 - Bhut
 - Dhemit
@@ -112,7 +124,6 @@ OmegaWiki_Defined_Meaning: 525317
 Iconclass_notation: 13A1
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Athenodorus%20-%20The%20Greek%20Stoic%20Philosopher%20Athenodorus%20Rents%20a%20Haunted%20House.jpg
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/A%20STATUE%20OF%20A%20SITTING%20GHOST.stl
-Unicode_character: "\U0001F47B"
 Wikidata_usage_instructions: for ghosts from a work of fiction see Q30061299
 dv_has_:
   name_:
@@ -232,14 +243,24 @@ dv_has_:
     zh: 鬼
     zh_hans: 鬼
     zh_hant: 鬼
+Unicode_character: 👻
 ---
-# [[Ghost]] 
+# [[Ghost]] 👻 
 
 #is_/same_as :: [[../../../WikiData/WD~Ghost,45529|WD~Ghost,45529]] 
 
 ## #has_/text_of_/abstract 
 
-> In folklore, a **Ghost** is the soul or spirit of a dead person or non-human animal that is believed by some people to be able to appear to the living. In ghostlore, descriptions of ghosts vary widely, from an invisible presence to translucent or barely visible wispy shapes to realistic, lifelike forms. The deliberate attempt to contact the spirit of a deceased person is known as necromancy, or in spiritism as a séance. Other terms associated with it are apparition, haunt, haint, phantom, poltergeist, shade, specter, spirit, spook, wraith, demon, and ghoul.
+> In folklore, a **Ghost** is the soul or spirit of a dead person or non-human animal 
+> that is believed by some people to be able to appear to the living. 
+> 
+> In ghostlore, descriptions of ghosts vary widely, from an invisible presence 
+> to translucent or barely visible wispy shapes to realistic, lifelike forms. 
+> 
+> The deliberate attempt to contact the spirit of a deceased person is known as necromancy, 
+> or in spiritism as a séance. 
+> 
+> Other terms associated with it are apparition, haunt, haint, phantom, poltergeist, shade, specter, spirit, spook, wraith, demon, and ghoul.
 >
 > The belief in the existence of an afterlife, as well as manifestations of the spirits of the dead, is widespread, dating back to animism or ancestor worship in pre-literate cultures. Certain religious practices—funeral rites, exorcisms, and some practices of spiritualism and ritual magic—are specifically designed to rest the spirits of the dead. Ghosts are generally described as solitary, human-like essences, though stories of ghostly armies and the ghosts of animals other than humans have also been recounted. They are believed to haunt particular locations, objects, or people they were associated with in life. According to a 2009 study by the Pew Research Center, 18% of Americans say they have seen a ghost.
 >

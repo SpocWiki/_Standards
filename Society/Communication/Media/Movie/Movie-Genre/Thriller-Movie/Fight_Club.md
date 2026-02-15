@@ -149,6 +149,8 @@ dv_has_:
     zh_sg: 搏击会
     zh_tw: 鬥陣俱樂部
 ---
+# [[Fight_Club]]  
+
 ## #has_/text_of_/abstract 
 
 > **fight club** is a 1999 American film directed by David Fincher 

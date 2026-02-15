@@ -202,7 +202,6 @@ subject_has_role: '[[_Standards/WikiData/WD~essential_medicine,35456]]'
 time_of_discovery_or_invention: 1808
 type: Element
 UMLS_CUI: C0006675
-Unicode_character: 鈣
 UNII: SY7Q814VUP
 UNSPSC_Code: 11101511
 ZVG_number: 8160
@@ -475,6 +474,7 @@ dv_has_number_of_period: 4
 dv_has_number_of_group: 2
 dv_has_name_abbreviated: Ca
 dv_has_number_of_electrons: 20
+Unicode_character: 鈣
 ---
 # [[Calcium]] 鈣 
 

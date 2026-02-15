@@ -282,7 +282,6 @@ type: Element
 UMLS_CUI:
 - C0947651
 - C0037125
-Unicode_character: 銀
 UNII: 3M4G523W1G
 UNSPSC_Code: 11101802
 U_S_National_Archives_Identifier: 10641526
@@ -600,8 +599,11 @@ dv_is_same_as:
 - '[[/_secret/Chemistry/Chemical_Element/Group-11-Copper/Silver.secret|Silver.secret]]'
 dv_has_name_abbreviated: Ag
 dv_has_number_of_electrons: 47
+Unicode_character: 銀
 ---
-# [[Silver]]
+# [[Silver]] 銀 
+
+
 
 #chemic/Element 
 

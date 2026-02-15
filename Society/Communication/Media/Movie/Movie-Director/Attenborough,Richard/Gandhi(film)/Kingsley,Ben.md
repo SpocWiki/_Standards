@@ -140,6 +140,8 @@ dv_has_:
     zh_sg: 班·金斯利
     zh_tw: 班·金斯利
 ---
+# [[Kingsley,Ben]]  
+
 #has_/time_/started :: 1943-12-31 
 #has_/time_/stopped  :: 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

@@ -119,7 +119,6 @@ subclass_of:
 - '[[_Standards/WikiData/WD~displacement,582695]]'
 - '[[_Standards/WikiData/WD~natural_disaster,8065]]'
 UMLS_CUI: C1998926
-Unicode_character: "\U0001F30A"
 U_S_National_Archives_Identifier: 10648584
 video:
 - http://commons.wikimedia.org/wiki/Special:FilePath/NOAA%20Tsunami%20Animation-2016.webm
@@ -331,6 +330,7 @@ dv_has_:
     zh-my: 海啸
     zh_sg: 海啸
     zh_tw: 海嘯
+Unicode_character: 🌊
 ---
 # [[Tsunami]] 🌊 
 

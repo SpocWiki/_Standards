@@ -126,7 +126,6 @@ time_of_discovery_or_invention: 1803
 topic_s_main_category: '[[_Standards/WikiData/WD~Q18200788,18200788]]'
 type: Element
 UMLS_CUI: C0022071
-Unicode_character: 銥
 UNII: 44448S9773
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Iridium%20sheets%20rolled%20after%20smelting.webm
 Wolfram_Language_entity_code: Entity["Mineral", "Iridium"]
@@ -369,8 +368,11 @@ dv_has_number_of_period: 6
 dv_has_number_of_group: 9
 dv_has_name_abbreviated: Ir
 dv_has_number_of_electrons: 77
+Unicode_character: 銥
 ---
-# [[Iridium]] 
+# [[Iridium]] 銥 
+
+
 
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Iridium,877]] 

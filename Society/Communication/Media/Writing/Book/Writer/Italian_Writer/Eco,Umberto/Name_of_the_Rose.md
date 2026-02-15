@@ -128,6 +128,8 @@ dv_has_:
     zh_sg: 玫瑰之名
     zh_tw: 玫瑰之名
 ---
+# [[Name_of_the_Rose]]  
+
 ## #has_/text_of_/abstract 
 
 > The **Name of the Rose** (Italian: Il nome della rosa [il ˈnoːme della ˈrɔːza]) 

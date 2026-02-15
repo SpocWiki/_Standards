@@ -95,7 +95,6 @@ subclass_of:
 - '[[_Standards/WikiData/WD~transition_metal,19588]]'
 time_of_discovery_or_invention: 1970-02-18
 type: Element
-Unicode_character: "\U000289C0"
 dv_is_:
   same_as:
   - '[[../../../WikiData/WD~Dubnium,1232]]'
@@ -324,7 +323,10 @@ dv_has_number_of_period: 7
 dv_has_number_of_group: 5
 dv_has_name_abbreviated: Db
 dv_has_number_of_electrons: 105
+Unicode_character: 𨧀
 ---
+# [[Dubnium]] 𨧀 
+
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Dubnium,1232]] 
 

@@ -131,7 +131,6 @@ SpocWebEntityId: 21971
 time_of_discovery_or_invention: 1925
 type: Element
 UMLS_CUI: C0035419
-Unicode_character: 錸
 UNII: 7YHU292INY
 Wolfram_Language_entity_code: Entity["Mineral", "Rhenium"]
 ZVG_number: 7750
@@ -362,8 +361,11 @@ dv_has_name_abbreviated: Re
 dv_has_number_of_electrons: 75
 dv_has_number_of_group: 7
 dv_has_value_for_temperature_boil_c: 5869
+Unicode_character: 錸
 ---
-# [[Rhenium]] 
+# [[Rhenium]] 錸 
+
+
 
 #chemic/Element 
 

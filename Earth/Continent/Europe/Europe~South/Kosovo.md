@@ -597,7 +597,6 @@ Krugosvet_article: gosudarstvo-i-politika/kosovo
 GitHub_topic: kosovo
 CIVICUS_Monitor_country_entry: kosovo
 Libris_URI: ljx00cf41g9xzhn
-Unicode_character: "\U0001F1FD\U0001F1F0"
 short_name:
 - "\U0001F1FD\U0001F1F0"
 - Косово
@@ -638,8 +637,11 @@ locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Europe-Rep
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Geb%C3%A4ude%20der%20UNMIK%20NEW%20BORN%20SIGN%20PRISTINA%20KOSOVO%20Giv%20Owned%20Image%2023%20August%202008.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Kosovo.ogg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Velika%20Livada%20banner.jpg
+Unicode_character: 🇽🇰
 ---
-# [[Kosovo]] 
+# [[Kosovo]] 🇽🇰 
+
+
 
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`

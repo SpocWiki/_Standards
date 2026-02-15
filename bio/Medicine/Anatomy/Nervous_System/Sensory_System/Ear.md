@@ -237,7 +237,6 @@ topic_s_main_template:
 - '[[_Standards/WikiData/WD~Template_Ear_navs,10972859]]'
 - '[[_Standards/WikiData/WD~Template_Ear_(anatomy),26047074]]'
 UMLS_CUI: C0013443
-Unicode_character: "\U0001F442"
 studied_by: '[[_Standards/WikiData/WD~audiology,569965]]'
 topic_has_template:
 - '[[_Standards/WikiData/WD~Template_Ear_navs,10972859]]'
@@ -479,6 +478,7 @@ dv_has_:
     zh_hant: 耳
     zh_hk: 耳
     zh_tw: 耳
+Unicode_character: 👂
 ---
 # Ear 👂 
 

@@ -72,7 +72,6 @@ topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_communications_sa
 described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 instance_of: '[[_Standards/WikiData/WD~spacecraft_type,131610589]]'
 Nomenclature_for_Museum_Cataloging: 11739
-Unicode_character: "\U0001F6F0"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/AFSATCOM%20diagram.PNG
 MIL_STD_2525_Symbol_Identification_Code:
 - 10010500001111000000
@@ -164,6 +163,7 @@ dv_has_:
     zh-sg: 通讯卫星
     zh-tw: 通訊衛星
     zu: Isivoko sokuxhumana
+Unicode_character: 🛰
 ---
 # [[Communications_Satellite]] 🛰 
 

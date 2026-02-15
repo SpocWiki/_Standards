@@ -199,7 +199,6 @@ Commons_gallery: Orcinus orca
 Commons_category: Orcinus orca
 taxon_name: Orcinus orca
 EPPO_Code: ORCIOR
-Unicode_character: "\U0001FACD"
 short_name: O. orca
 dv_has_:
   name_:
@@ -323,8 +322,11 @@ dv_has_:
     zh_hant: 虎鯨
     zh_tw: 虎鯨
     zu: I-Orca
+Unicode_character: 🫍
 ---
-# [[Orca]] 
+# [[Orca]] 🫍 
+
+
 
 #is_/same_as :: [[WD~Orca,26843]] 
 

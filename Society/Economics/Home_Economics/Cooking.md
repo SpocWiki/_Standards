@@ -182,7 +182,6 @@ start_time: -500000
 subclass_of: '[[_Standards/WikiData/WD~food_and_drink_preparation,16920758]]'
 subreddit: Cooking
 UMLS_CUI: C0335326
-Unicode_character: "\U0001F373"
 uses:
 - '[[_Standards/WikiData/WD~food_preparation_technique,1039303]]'
 - '[[_Standards/WikiData/WD~food,2095]]'
@@ -342,6 +341,7 @@ dv_has_:
     zh-my: 烹饪
     zh_sg: 烹饪
     zh_tw: 烹飪
+Unicode_character: 🍳
 ---
 # [[Cooking]] 🍳 
 

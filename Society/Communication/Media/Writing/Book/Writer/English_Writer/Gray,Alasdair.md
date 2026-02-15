@@ -63,6 +63,8 @@ dv_has_:
     zh_cn: 阿拉斯代尔·格雷
     zh_hans: 阿拉斯代尔·格雷
 ---
+# [[Gray,Alasdair]]  
+
 ## #has_/text_of_/abstract 
 
 > Alasdair James Gray (28 December 1934 – 29 December 2019)

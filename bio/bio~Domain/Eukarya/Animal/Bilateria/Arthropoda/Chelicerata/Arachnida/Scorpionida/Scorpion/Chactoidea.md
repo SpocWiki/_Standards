@@ -318,8 +318,11 @@ dv_has_:
     zh_hant: 蝎目
     zh_tw: 蠍目
     zu: Scorpiones
+Unicode_character: 🦂
 ---
-# [[Chactoidea]] 
+# [[Chactoidea]] 🦂 
+
+
 
 ## #has_/text_of_/abstract 
 

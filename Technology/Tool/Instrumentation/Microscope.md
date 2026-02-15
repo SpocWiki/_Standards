@@ -118,7 +118,6 @@ IMDb_keyword: microscope
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fine%20rotative%20table%20Microscope%205%20%2812996283235%29.jpg
 Commons_category: Microscopes
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Mikroskop.ogg
-Unicode_character: "\U0001F52C"
 U_S_National_Archives_Identifier: 10662661
 Iconclass_notation: 49E2512
 Wolfram_Language_entity_code: Entity["MeasurementDevice", "Microscope"]
@@ -283,8 +282,11 @@ dv_has_:
     zh-hk: 顯微鏡
     zh-sg: 显微镜
     zh-tw: 顯微鏡
+Unicode_character: 🔬
 ---
-# [[Microscope]] 
+# [[Microscope]] 🔬 
+
+
 
 #is_/same_as :: [[../../../WikiData/WD~Microscope,196538|WD~Microscope,196538]] 
 

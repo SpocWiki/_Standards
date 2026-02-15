@@ -241,6 +241,8 @@ aliases:
 - 相片
 - 사진
 ---
+# [[Photo]]  
+
 ## #has_/text_of_/abstract 
 
 > A **Photo**graph (also known as a photo, or more generically referred to as an image or picture) 

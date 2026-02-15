@@ -64,6 +64,8 @@ aliases:
 - 阿比阿弟大冒險
 - 엑설런트 어드벤쳐
 ---
+# [[Bill&Ted's_Excellent_Adventure]]  
+
 ## #has_/text_of_/abstract 
 
 > **Bill & Ted's Excellent Adventure** is a 1989 American science fiction comedy film directed by Stephen Herek 

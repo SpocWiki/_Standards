@@ -197,7 +197,6 @@ subclass_of:
 - '[[_Standards/WikiData/WD~tissue,40397]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Wood_products,15205293]]'
 UMLS_CUI: C0043217
-Unicode_character: "\U0001FAB5"
 used_by:
 - '[[_Standards/WikiData/WD~carpenter,154549]]'
 - '[[_Standards/WikiData/WD~joiner,326358]]'
@@ -400,6 +399,7 @@ dv_has_:
     zh_sg: 木材
     zh_tw: 木材
     zu: ukhuni
+Unicode_character: 🪵
 ---
 # [[Wood]] 🪵 
 

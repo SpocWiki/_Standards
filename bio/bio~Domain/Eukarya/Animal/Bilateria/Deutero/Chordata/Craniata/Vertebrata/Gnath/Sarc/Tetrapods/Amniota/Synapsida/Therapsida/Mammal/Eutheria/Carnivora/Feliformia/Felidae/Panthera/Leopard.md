@@ -274,7 +274,6 @@ taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Wiki-P
 sequenced_genome_URL:
 - http://www.ensembl.org/Panthera_pardus
 - https://www.dnazoo.org/assemblies/Panthera_pardus
-Unicode_character: "\U0001F406"
 Krugosvet_article_archived_: biologiya/leopard
 NBN_System_Key: NHMSYS0000377062
 Commons_category: Panthera pardus
@@ -480,6 +479,7 @@ dv_has_:
     zh_hans: 豹
     zh_hant: 豹
     zh_tw: 豹
+Unicode_character: 🐆
 ---
 # [[Leopard]] 🐆 
 

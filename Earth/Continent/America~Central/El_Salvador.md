@@ -293,7 +293,6 @@ coordinates_of_easternmost_point: Point(-87.6975 13.179722222)
 coordinates_of_southernmost_point: Point(-87.8999323 13.1562325)
 coordinates_of_northernmost_point: Point(-89.38 14.45)
 U_S_National_Archives_Identifier: 10044746
-Unicode_character: "\U0001F1F8\U0001F1FB"
 geoshape: http://commons.wikimedia.org/data/main/Data:El+Salvador.map
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20El%20Salvador.svg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/El%20Salvador%20banner%202.jpg
@@ -779,8 +778,11 @@ dv_is_same_as:
 - '[[/_private/Earth/Continent/America~Central/El_Salvador.private|El_Salvador.private]]'
 - '[[/_personal/Earth/Continent/America~Central/El_Salvador.personal|El_Salvador.personal]]'
 - '[[/_secret/Earth/Continent/America~Central/El_Salvador.secret|El_Salvador.secret]]'
+Unicode_character: 🇸🇻
 ---
-# [[El_Salvador]] 
+# [[El_Salvador]] 🇸🇻 
+
+
 
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`

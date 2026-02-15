@@ -101,7 +101,6 @@ IMDb_keyword: smoking
 Archive_of_Our_Own_tag: Smoking
 Commons_category: Smoking
 U_S_National_Archives_Identifier: 10643820
-Unicode_character: "\U0001F6AC"
 subreddit: stopsmoking
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Che%20Guevara.jpg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Cigarette%20smoke%20banner.jpg
@@ -195,8 +194,11 @@ dv_has_:
     zh_hans: 吸烟
     zh_hant: 吸煙
     zu: Ukubhema
+Unicode_character: 🚬
 ---
-# [[Smoking]] 
+# [[Smoking]] 🚬 
+
+
 
 #is_/same_as :: [[../../../WikiData/WD~Smoking,662860|WD~Smoking,662860]]  
 

@@ -146,6 +146,8 @@ aliases:
 - 皮克斯動畫工作室
 - 픽사
 ---
+# [[Pixar]]  
+
 ## #has_/text_of_/abstract 
 
 > **Pixar** Animation Studios () is an American animation studio based in Emeryville, California, 

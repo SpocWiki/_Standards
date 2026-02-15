@@ -351,7 +351,9 @@ dv_has_:
     zh_hant: 河馬
     zu: Imvubu
 ---
-# [[Hippopotamus]] 
+# [[Hippopotamus]] 🦛 
+
+
 
 #is_/same_as :: [[WD~Hippopotamus_amphibius,34505]] 
 

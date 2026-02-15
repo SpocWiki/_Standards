@@ -116,7 +116,6 @@ Commons_category: Lies
 OmegaWiki_Defined_Meaning: 154568
 IMDb_keyword: lie
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Leugen%20en%20Bedrog%20verstoren%20een%20zakelijke%20transactie%20Hendrick%20Goltzius.jpg
-Unicode_character: "\U0001F925"
 dv_has_:
   name_:
     ar: كذب
@@ -220,6 +219,7 @@ dv_has_:
     yi: ליגן
     yue: 大話
     zh: 谎言
+Unicode_character: 🤥
 ---
 # [[Lie]] 🤥 
 

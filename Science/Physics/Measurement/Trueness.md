@@ -106,6 +106,8 @@ aliases:
 - 精準度
 - 정확도와 정밀도
 ---
+# [[Trueness]]  
+
 [[../../../Science/Physics/Measurement/Accuracy]] = [[Trueness]] AND [[../../../Science/Physics/Measurement/Precision]] 
 
 The International Organization for Standardization (ISO) defines trueness as, 

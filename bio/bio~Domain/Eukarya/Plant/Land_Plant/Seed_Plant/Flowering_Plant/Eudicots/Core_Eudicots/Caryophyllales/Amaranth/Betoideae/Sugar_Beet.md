@@ -166,6 +166,8 @@ dv_has_:
     zh_sg: 糖用甜菜
     zh_tw: 糖用甜菜
 ---
+# [[Sugar_Beet]]  
+
 #has_/time_/started :: 1802-06-01 
 
 In about 1800, this cultivar boasted about 5–6% sucrose by (dry) weight.

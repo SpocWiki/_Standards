@@ -613,6 +613,8 @@ dv_has_:
     zh_tw: 文森·梵谷
     zu: Vincent van Gogh
 ---
+# [[van_Gogh,Vincent]]  
+
 #has_/time_/started :: 1853-03-30 
 #has_/time_/started :: 1890-07-29 
 #is_/same_as :: [[../../../../../WikiData/WD~Vincent_van_Gogh,5582|WD~Vincent_van_Gogh,5582]] 

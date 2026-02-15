@@ -1083,7 +1083,6 @@ type: Country
 UIC_alphabetical_country_code: GR
 UIC_numerical_country_code: 73
 unemployment_rate: 18.5
-Unicode_character: "\U0001F1EC\U0001F1F7"
 urban_population:
 - 8511650
 - 8378759
@@ -1094,10 +1093,9 @@ VAT_rate: 24
 water_as_percent_of_area: 2.3
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Greece,7112276]]'
 WIPO_ST_3: GR
+Unicode_character: 🇬🇷
 ---
-# [[Greece]] 
-
-## [[Greece]] has Properties... 
+# [[Greece]] 🇬🇷 has Properties... 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

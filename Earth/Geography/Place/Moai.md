@@ -38,7 +38,6 @@ has_part_s_of_the_class: '[[_Standards/WikiData/WD~pukao,980422]]'
 subclass_of: '[[_Standards/WikiData/WD~colossal_statue,1779653]]'
 located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Isla_de_Pascua,9009773]]'
 country: '[[_Standards/WikiData/WD~Chile,298]]'
-Unicode_character: "\U0001F5FF"
 Commons_gallery: Isla de Pascua
 Commons_category: Moai
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ahu%20Tongariki.jpg
@@ -146,6 +145,7 @@ dv_has_:
     zh_cn: 摩艾石像
     zh_hans: 摩艾石像
     zh_hant: 摩艾石像
+Unicode_character: 🗿
 ---
 # [[Moai]] 🗿 
 

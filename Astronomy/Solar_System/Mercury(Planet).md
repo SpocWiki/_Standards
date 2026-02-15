@@ -552,7 +552,9 @@ dv_has_:
     zh_tw: 水星
     zu: UMerkuriyu
 ---
-# [[Mercury(Planet)]]]
+# [[Mercury(Planet)]] ☿ 
+
+
 
 #is_/different_from :: [[../../WikiData/WD~Mercury,925]]  
 #is_/different_from :: [[_Standards/WikiData/WD~Mercury,1150]] 

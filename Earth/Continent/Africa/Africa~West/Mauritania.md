@@ -271,7 +271,6 @@ OmegaWiki_Defined_Meaning: 8072
 Commons_category: Mauritania
 subreddit: Mauritania
 hashtag: Mauritania
-Unicode_character: "\U0001F1F2\U0001F1F7"
 male_population:
 - 2145130
 - 2260590
@@ -834,8 +833,11 @@ dv_is_same_as:
 - '[[/_personal/Earth/Continent/Africa/Africa~West/Mauritania.personal|Mauritania.personal]]'
 - '[[/_secret/Earth/Continent/Africa/Africa~West/Mauritania.secret|Mauritania.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Mauritania
+Unicode_character: 🇲🇷
 ---
-# [[Mauritania]] 
+# [[Mauritania]] 🇲🇷 
+
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

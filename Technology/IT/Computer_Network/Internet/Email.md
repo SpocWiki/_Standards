@@ -170,7 +170,6 @@ subclass_of:
 - '[[_Standards/WikiData/WD~telecommunications_application,120266668]]'
 time_of_discovery_or_invention: 1971
 UMLS_CUI: C0013849
-Unicode_character: "\U0001F4E7"
 uses:
 - '[[_Standards/WikiData/WD~blind_carbon_copy,11680886]]'
 - '[[_Standards/WikiData/WD~carbon_copy,59164214]]'
@@ -359,6 +358,7 @@ dv_has_:
     zh_hk: 電子郵件
     zh_tw: 電子郵件
     zu: Incwazuba
+Unicode_character: 📧
 ---
 # [[Email]] 📧 
 

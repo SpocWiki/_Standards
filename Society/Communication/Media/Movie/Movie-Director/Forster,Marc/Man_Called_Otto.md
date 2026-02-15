@@ -74,6 +74,8 @@ dv_has_:
     zh_sg: 超难搞先生
     zh_tw: 超難搞先生
 ---
+# [[Man_Called_Otto]]  
+
 ## #has_/text_of_/abstract 
 
 > **A Man Called Otto** is a 2022 American comedy-drama film 

@@ -113,7 +113,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/-%20Thermometer%20-.jp
 WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/thermometers
 Iconclass_notation: 22E4
 Wolfram_Language_entity_code: Entity["MeasurementDevice", "Thermometer"]
-Unicode_character: "\U0001F321"
 OpenStreetMap_tag: weather:thermometer=yes
 dv_has_:
   name_:
@@ -240,8 +239,11 @@ dv_has_:
     zh-sg: 温度计
     zh-tw: 溫度計
     zu: Inhlolamshiso
+Unicode_character: 🌡
 ---
-# [[Thermometer]] 
+# [[Thermometer]] 🌡 
+
+
 
 #is_/same_as :: [[WD~Thermometer,646]] 
 

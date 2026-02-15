@@ -141,7 +141,6 @@ Amazon_com_browse_node:
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Ogniwo%20paliwowe%20zasada%20dzialania.gif
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/IEEE%20315%20Fundamental%20Items%20Symbols%20%2890%29.svg
 WordLift_URL: http://data.thenextweb.com/tnw/entity/battery
-Unicode_character: "\U0001F50B"
 IEV_number: 482-01-04
 P8189: 987007536065205100
 Commons_category: Electric batteries
@@ -300,6 +299,7 @@ dv_has_:
     zh-my: 电池
     zh_tw: 電池
     zu: IsiPhathanzuba
+Unicode_character: 🔋
 ---
 # [[Electric_Battery]] 🔋 
 

@@ -88,7 +88,6 @@ Library_of_Congress_Classification:
 - QL737.U54
 - SF401.L6
 - SF459.L2
-Unicode_character: "\U0001F999"
 short_name: L. glama
 taxon_common_name: lama andyjska
 dv_has_:
@@ -207,6 +206,7 @@ dv_has_:
     zh: 大羊駝
     zh_cn: 大羊驼
     zh_hans: 大羊驼
+Unicode_character: 🦙
 ---
 # [[Llama]] 🦙 
 

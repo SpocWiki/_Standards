@@ -189,7 +189,6 @@ subclass_of: '[[_Standards/WikiData/WD~meteorological_phenomenon,16332653]]'
 topic_s_main_category: '[[_Standards/WikiData/WD~Q32816587,32816587]]'
 topic_s_main_template: '[[_Standards/WikiData/WD~Q25745333,25745333]]'
 UMLS_CUI: C0043187
-Unicode_character: "\U0001F32C"
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Wie%20entsteht%20Wind%3F.webm
 dv_is_:
   same_as:
@@ -415,8 +414,11 @@ dv_has_:
     za: rumz
     zh: 風
     zh_hant: 風
+Unicode_character: 🌬
 ---
-# [[Wind]] 
+# [[Wind]] 🌬 
+
+
 
 #is_/same_as :: [[../../../WikiData/WD~Wind,8094|WD~Wind,8094]] 
 

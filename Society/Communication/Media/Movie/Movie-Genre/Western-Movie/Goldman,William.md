@@ -124,6 +124,8 @@ dv_has_:
     zh: 威廉·戈德曼
     zu: William Goldman
 ---
+# [[Goldman,William]]  
+
 #has_/time_/started ::  1931-08-12 
 #has_/time_/started ::  16, 2018-11-16 
 

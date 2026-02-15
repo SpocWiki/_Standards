@@ -81,6 +81,8 @@ dv_has_:
     zh_sg: 吉恩·西蒙斯
     zh_tw: 吉恩·西蒙斯
 ---
+# [[Simmons,Gene]]  
+
 #has_/time_/started :: 1949-08-25 
 
 > **Gene Simmons** (born Chaim Witz; Hebrew: חיים ויץ [χaˈim ˈvits]; born 1949-08-25) 

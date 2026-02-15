@@ -133,7 +133,6 @@ icon: http://commons.wikimedia.org/wiki/Special:FilePath/Athletics%20pictogram.s
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Running%20form.ogv
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Stockholm%20Marathon%202009d%20banner.jpg
 described_at_URL: https://neal.fun/earth-reviews/running
-Unicode_character: "\U0001F3C3"
 Dewey_Decimal_Classification:
 - 613.7172
 - 796.42
@@ -272,8 +271,11 @@ dv_has_:
     zh_hk: 跑步
     zh_sg: 跑步
     zh_tw: 跑步
+Unicode_character: 🏃
 ---
-# [[Running]] 
+# [[Running]] 🏃 
+
+
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Running,105674|WD~Running,105674]] 
 

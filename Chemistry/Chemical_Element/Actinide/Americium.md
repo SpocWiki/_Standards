@@ -123,7 +123,6 @@ SpocWebEntityId: 21990
 time_of_discovery_or_invention: 1944
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_americium,8085709]]'
 type: Element
-Unicode_character: 鋂
 UNII: VW92PHU2UY
 dv_is_:
   same_as:
@@ -352,8 +351,8 @@ dv_has_value_for_energy_form_kj_mol: 0
 dv_has_number_of_period: 7
 dv_has_number_of_group: 29
 dv_has_number_of_electrons: 95
+Unicode_character: 鋂
 ---
-
 # [[Americium]] 鋂 
 
 #is_/same_as :: [[../../../WikiData/WD~Americium,1872]] 

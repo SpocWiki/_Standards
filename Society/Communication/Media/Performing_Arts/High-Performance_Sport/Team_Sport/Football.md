@@ -553,7 +553,9 @@ dv_has_:
     zh_tw: 足球
     zu: Ibhola
 ---
-# [[Football]] 
+# [[Football]] ⚽ 
+
+
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Association_football,2736|WD~Association_football,2736]] 
 

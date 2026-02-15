@@ -149,6 +149,8 @@ dv_has_:
     zh_hant: 瘀斑
     zh_hk: 瘀斑
 ---
+# [[Bruise]]  
+
 #is_/same_as :: [[../../../../WikiData/WD~Bruise,574491|WD~Bruise,574491]] 
 
 ## #has_/text_of_/abstract 

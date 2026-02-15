@@ -99,6 +99,8 @@ dv_has_:
     zh_sg: 亚当·兰伯特
     zh_tw: 亞當·藍伯特
 ---
+# [[Lambert,Adam]]  
+
 > Adam Mitchel Lambert (born January 29, 1982) is an American singer. 
 > He is known for his dynamic vocal performances that combine his theatrical training 
 > with modern and classic genres. 

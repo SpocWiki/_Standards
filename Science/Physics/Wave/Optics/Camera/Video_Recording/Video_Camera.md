@@ -53,7 +53,6 @@ described_by_source: '[[_Standards/WikiData/WD~Q131308011,131308011]]'
 subclass_of: '[[_Standards/WikiData/WD~camera,15328]]'
 Nomenclature_for_Museum_Cataloging: 10885
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2023-07-12.%20%D0%9B%D0%B5%D0%B3%D0%BE%D1%83%20DSC%202322.jpg
-Unicode_character: "\U0001F4F9"
 Dewey_Decimal_Classification:
 - 621.38834
 - 384.558
@@ -134,8 +133,11 @@ dv_has_:
     zh_hant: 攝影機
     zh_hk: 攝影機
     zh_tw: 攝影機
+Unicode_character: 📹
 ---
-# [[Video_Camera]] 
+# [[Video_Camera]] 📹 
+
+
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Video_camera,313614|WD~Video_camera,313614]]  
 

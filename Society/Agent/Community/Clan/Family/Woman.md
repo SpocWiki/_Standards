@@ -270,7 +270,6 @@ subclass_of:
 - '[[_Standards/WikiData/WD~adult_human,9584157]]'
 - '[[_Standards/WikiData/WD~female_human,84048852]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Women,15656558]]'
-Unicode_character: "\U0001F469"
 U_S_National_Archives_Identifier: 10642093
 depicted_by:
 - '[[_Standards/WikiData/WD~Portrait_of_a_Lady_as_Mary_Magdalen,28797582]]'
@@ -541,6 +540,7 @@ dv_has_:
     zh-my: 女人
     zh_sg: 女人
     zh_tw: 女人
+Unicode_character: 👩
 ---
 # [[Woman]] 👩 
 

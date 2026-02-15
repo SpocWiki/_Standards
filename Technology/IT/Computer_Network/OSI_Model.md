@@ -143,6 +143,8 @@ aliases:
 - แบบจำลองโอเอสไอ
 - 开放式系统互联通信参考模型
 ---
+# [[OSI_Model]]  
+
 ## #has_/text_of_/abstract 
 
 > The Open Systems Interconnection (OSI) model is a reference model developed by the International Organization for Standardization (ISO) that "provides a common basis for the coordination of standards development for the purpose of systems interconnection."

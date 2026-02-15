@@ -453,7 +453,9 @@ dv_has_:
     zh_tw: 虎
     zu: Ithayiga
 ---
-# [[Tiger]] 🐯 
+# [[Tiger]] 🐅 
+
+
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Tiger,19939|WD~Tiger,19939]] 
 

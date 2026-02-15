@@ -85,7 +85,6 @@ IAB_code: 532
 Commons_category: Billiards
 OmegaWiki_Defined_Meaning: 851138
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Billiards%20balls.jpg
-Unicode_character: "\U0001F3B1"
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Cue%20sports%20pictogram.svg
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Billiard.JPG
 image_of_interior: http://commons.wikimedia.org/wiki/Special:FilePath/Cromlix%20House%203%20%28geograph%204216021%29.jpg
@@ -202,8 +201,11 @@ dv_has_:
     zh_hk: 桌球
     zh_sg: 桌球
     zh_tw: 撞球
+Unicode_character: 🎱
 ---
-# [[Cue_Sports]] 
+# [[Cue_Sports]] 🎱 
+
+
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Cue_sports,3341285|WD~Cue_sports,3341285]] 
 

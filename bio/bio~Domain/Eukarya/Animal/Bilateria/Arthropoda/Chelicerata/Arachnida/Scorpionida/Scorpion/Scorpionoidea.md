@@ -318,6 +318,7 @@ dv_has_:
     zh_hant: 蝎目
     zh_tw: 蠍目
     zu: Scorpiones
+Unicode_character: 🦂
 ---
 ## Phylogeny 
 
@@ -343,7 +344,9 @@ dv_has_:
     -   [Ischnuridae](Scorpionoidea/Ischnuridae.md)
     -   [Bothriuridae](Scorpionoidea/Bothriuridae.md)
 
-# Scorpionoidea 
+# [[Scorpionoidea]] 🦂 
+
+
 
 ## #has_/text_of_/abstract 
 

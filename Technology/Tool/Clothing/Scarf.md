@@ -86,7 +86,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/100%25%20Kaschmir%20Wo
 Common_Procurement_Vocabulary_code: 18422000
 Commons_category: Scarves
 MCN_code: 6117.10.00
-Unicode_character: "\U0001F9E3"
 dv_has_:
   name_:
     af: Serp
@@ -184,8 +183,11 @@ dv_has_:
     zh-hk: 圍巾
     zh-sg: 围巾
     zh-tw: 圍巾
+Unicode_character: 🧣
 ---
-# [[Scarf]] 
+# [[Scarf]] 🧣 
+
+
 
 #is_/same_as :: [[../../../WikiData/WD~Scarf,191022|WD~Scarf,191022]] 
 

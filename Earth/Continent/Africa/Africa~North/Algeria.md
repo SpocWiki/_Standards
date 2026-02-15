@@ -936,7 +936,6 @@ inception: 1962-07-03
 has_time_started: 1962-07-03
 hashtag: Algeria
 Commons_category: Algeria
-Unicode_character: Ǳ
 rural_population:
 - 11328186
 - 11370967
@@ -1012,8 +1011,12 @@ GitHub_topic: algeria
 Colon_Classification: SG--671
 Krugosvet_article: strany_mira/ALZHIR.html
 motto_text: بالشّعب وللشّعب
+Unicode_character: 🇩🇿
 ---
-# [[Algeria]] Ǳ 
+
+# [[Algeria]] 🇩🇿 Ǳ 
+
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

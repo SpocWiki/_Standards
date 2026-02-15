@@ -52,6 +52,8 @@ aliases:
 - 換命法則
 - 셀프/리스
 ---
+# [[Self⁄less]]  
+
 > **Self/less** is a 2015 American science fiction action thriller film directed by Tarsem Singh, 
 > produced by Ram Bergman and James D. Stern and written by Alex and David Pastor. 
 > 

@@ -142,7 +142,6 @@ image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Deepsea.JPG
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Celilofalls-small.ogv
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Yellowstone%20%28Wyoming%29%20banner%20Fly%20fishing.jpg
-Unicode_character: "\U0001F3A3"
 IPTC_NewsCode: mediatopic/20000561
 Baidu_Tieba_name: 捕鱼
 OpenStreetMap_tag: leisure=fishing
@@ -277,8 +276,11 @@ dv_has_:
     zh: 捕鱼
     zh_hant: 捕魚
     zu: Ukudoba
+Unicode_character: 🎣
 ---
-# [[Fishing]] 
+# [[Fishing]] 🎣 
+
+
 
 #is_/same_as :: [[WD~Fishing,14373]] 
 

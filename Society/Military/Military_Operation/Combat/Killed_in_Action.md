@@ -199,7 +199,9 @@ dv_has_:
     zh_sg: 阵亡
     zh_tw: 陣亡
 ---
-# [[Killed_in_Action]] 
+# [[Killed_in_Action]] ⚔ 
+
+
 
 #is_/same_as :: [[WD~Killed_in_action,210392]] 
 

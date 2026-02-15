@@ -248,6 +248,8 @@ dv_has_:
     zh_sg: 乔瓦尼·皮耶路易吉·达·帕莱斯特里纳
     zh_tw: 喬瓦尼·皮耶路易吉·達·帕萊斯特里納
 ---
+# [[Palestrina,Giovanni_da]]  
+
 ## #has_/text_of_/abstract 
 
 > Giovanni Pierluigi da Palestrina (between 3 February 1525 and 2 February 1526 – 2 February 1594) 

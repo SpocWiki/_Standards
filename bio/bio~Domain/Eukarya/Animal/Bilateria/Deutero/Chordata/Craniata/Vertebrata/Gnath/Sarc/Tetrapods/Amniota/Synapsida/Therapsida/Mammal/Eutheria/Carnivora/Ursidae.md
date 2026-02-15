@@ -267,7 +267,6 @@ taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
 OmegaWiki_Defined_Meaning: 3929
 ITIS_TSN: 180540
 image: http://commons.wikimedia.org/wiki/Special:FilePath/European%20Brown%20Bear.jpg
-Unicode_character: "\U0001F43B"
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Cub%20polar%20bear%20is%20nursing%202.ogv
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Family%20Ursidae%20four%20species.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33965%20%28sat%29-Ramjit%20Tudu-%E1%B1%B5%E1%B1%9F%E1%B1%B1%E1%B1%9F.wav
@@ -503,8 +502,11 @@ dv_has_:
     zh_hans: 熊科
     zh_hant: 熊科
     zh_tw: 熊科
+Unicode_character: 🐻
 ---
-# [[Ursidae]] 
+# [[Ursidae]] 🐻 
+
+
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../WikiData/WD~Ursidae,11788|WD~Ursidae,11788]] 
 

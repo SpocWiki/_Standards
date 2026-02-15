@@ -105,6 +105,8 @@ aliases:
 - 贝尔实验室
 - 벨 연구소
 ---
+# [[Bell_Labs]]  
+
 > Bell Labs is an American industrial research and scientific development company. 
 > Researchers from there are credited with the development of radio astronomy, the transistor, 
 > the laser, the photovoltaic cell, the charge-coupled device (CCD), information theory, the Unix operating system, 

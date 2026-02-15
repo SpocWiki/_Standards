@@ -50,7 +50,6 @@ GS1_GPC_code: 10003535
 Commons_gallery: Clamp
 Commons_category: Clamps
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Clamp%20pod.jpg
-Unicode_character: "\U0001F5DC"
 dv_has_:
   name_:
     ar: قامطة
@@ -92,6 +91,7 @@ dv_has_:
     uk: Струбцина
     yue: 夾鉗
     zh: 自動式夾子
+Unicode_character: 🗜
 ---
 # [[Clamp(tool)]] 🗜 
 

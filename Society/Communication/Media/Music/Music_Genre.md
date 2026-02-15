@@ -250,6 +250,8 @@ dv_has_:
     zh_sg: 音乐类型
     zh_tw: 音樂類型
 ---
+# [[Music_Genre]]  
+
 ## #has_/text_of_/abstract 
 
 > A **Music genre** is a conventional category that identifies some pieces of music as belonging to a shared tradition or set of conventions. Genre is to be distinguished from musical form and musical style, although in practice these terms are sometimes used interchangeably.

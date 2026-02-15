@@ -47,6 +47,8 @@ aliases:
 - 混沌计算机俱乐部
 - 카오스 컴퓨터 클럽
 ---
+# [[CCC(Chaos_Computer_Club)]]  
+
 ## #has_/text_of_/abstract 
 
 > The Chaos Computer Club (CCC) is Europe's largest association of hackers 

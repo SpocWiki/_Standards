@@ -108,7 +108,6 @@ native_label: métro
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/00%202080%20Metrostation%20in%20Moskau%20-%D0%A1%D1%82%D0%B0%D0%BD%D1%86%D0%B8%D1%8F%20%D0%BC%D0%B5%D1%82%D1%80%D0%BE%20%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/U9%20im%20U-Bahnhof%20Zoologischer%20Garten.jpg
-Unicode_character: "\U0001F687"
 Iconclass_notation: 46C156
 Krugosvet_article_archived_: nauka_i_tehnika/transport_i_svyaz/METROPOLITEN.html
 Commons_gallery: Rapid transit
@@ -253,6 +252,7 @@ dv_has_:
     zh-my: 地铁
     zh-sg: 地铁
     zh-tw: 地鐵
+Unicode_character: 🚇
 ---
 # [[Rapid_Transit]] 🚇 
 

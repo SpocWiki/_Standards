@@ -1072,6 +1072,7 @@ dv_has_telephone_prefix_international: 11
 dv_has_telephone_prefix_country: 1
 dv_developed_developing_countries: Developed
 ---
+
 # [[Canada]] 🇨🇦 
 
 ## International Names

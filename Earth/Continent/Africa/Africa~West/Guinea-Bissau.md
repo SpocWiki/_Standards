@@ -335,7 +335,6 @@ birth_rate:
 - 32.093
 area: 36125
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Guinea-Bissau.svg
-Unicode_character: "\U0001F1EC\U0001F1FC"
 male_population:
 - 1039860
 - 971745
@@ -779,8 +778,11 @@ dv_is_same_as:
 - '[[/_private/Earth/Continent/Africa/Africa~West/Guinea-Bissau.private|Guinea-Bissau.private]]'
 - '[[/_personal/Earth/Continent/Africa/Africa~West/Guinea-Bissau.personal|Guinea-Bissau.personal]]'
 - '[[/_secret/Earth/Continent/Africa/Africa~West/Guinea-Bissau.secret|Guinea-Bissau.secret]]'
+Unicode_character: 🇬🇼
 ---
-# [[Guinea-Bissau]] 
+# [[Guinea-Bissau]] 🇬🇼 
+
+
 
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`

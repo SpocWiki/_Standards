@@ -176,7 +176,6 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q3307
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Wasserb%C3%BCffel%20%2825787818312%29.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Water%20Buffal%2CSylhet%2001.jpg
-Unicode_character: "\U0001F403"
 UNII: ASI61MC64Z
 EPPO_Code: BUBABU
 GenBank_assembly_accession_number:
@@ -358,6 +357,7 @@ dv_has_:
     zh_hans: 水牛
     zh_tw: 水牛
     zu: Bubalus bubalis
+Unicode_character: 🐃
 ---
 # [[Water_Buffalo]] 🐃 
 

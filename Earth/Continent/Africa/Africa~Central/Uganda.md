@@ -908,7 +908,6 @@ PM20_geo_code: C117
 licence_plate_code: EAU
 Colon_Classification: SG--688
 Krugosvet_article: strany_mira/UGANDA.html
-Unicode_character: "\U0001F1FA\U0001F1EC"
 CIVICUS_Monitor_country_entry: uganda
 GitHub_topic: uganda
 location:
@@ -938,8 +937,11 @@ Languages:
 - lg
 - sw
 - ar
+Unicode_character: 🇺🇬
 ---
-# [[Uganda]] 
+# [[Uganda]] 🇺🇬 
+
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

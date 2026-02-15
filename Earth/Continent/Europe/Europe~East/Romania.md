@@ -964,7 +964,6 @@ UIC_alphabetical_country_code: RO
 UIC_numerical_country_code: 53
 UMLS_CUI: C0035826
 unemployment_rate: 7
-Unicode_character: "\U0001F1F7\U0001F1F4"
 urban_population:
 - 10440610
 - 10378525
@@ -974,10 +973,10 @@ U_S_National_Archives_Identifier: 10035825
 VAT_rate: 19
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Romania,7112426]]'
 WIPO_ST_3: RO
+Unicode_character: 🇷🇴
 ---
-# [[Romania]] 
 
-## [[Romania]] has Properties...
+# [[Romania]] 🇷🇴 has Properties...
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

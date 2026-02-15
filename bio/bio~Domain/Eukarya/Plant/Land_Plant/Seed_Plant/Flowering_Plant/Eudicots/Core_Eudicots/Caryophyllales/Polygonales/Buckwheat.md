@@ -325,6 +325,8 @@ dv_has_:
     zh_sg: 荞麦
     zh_tw: 蕎麥
 ---
+# [[Buckwheat]]  
+
 ## #has_/text_of_/abstract 
 
 > **Buckwheat** (Fagopyrum esculentum) or common buckwheat is a flowering plant in the knotweed family Polygonaceae cultivated for its grain-like seeds and as a cover crop.  Buckwheat originated around the 6th millennium BCE in the region of what is now Yunnan Province in southwestern China. The name "buckwheat" is used for several other species, such as Fagopyrum tataricum, a domesticated food plant raised in Asia.

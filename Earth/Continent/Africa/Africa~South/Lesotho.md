@@ -325,7 +325,6 @@ has_time_started: 1966-06
 coordinates_of_northernmost_point: Point(28.65 -28.57)
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Lesotho.svg
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Lesotho.svg
-Unicode_character: "\U0001F1F1\U0001F1F8"
 coordinates_of_westernmost_point: Point(27.01128 -29.64941)
 Commons_category: Lesotho
 Commons_gallery: Lesotho
@@ -728,8 +727,11 @@ dv_is_same_as:
 - '[[/_personal/Earth/Continent/Africa/Africa~South/Lesotho.personal|Lesotho.personal]]'
 - '[[/_secret/Earth/Continent/Africa/Africa~South/Lesotho.secret|Lesotho.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Lesotho
+Unicode_character: 🇱🇸
 ---
-# [[Lesotho]] 
+# [[Lesotho]] 🇱🇸 
+
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

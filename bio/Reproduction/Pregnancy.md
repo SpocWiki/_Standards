@@ -388,7 +388,9 @@ dv_has_:
     zh_hant: 妊娠
     zh_tw: 妊娠
 ---
-# [[Pregnancy]] 🤰 
+# [[Pregnancy]] 🫃 
+
+
 
 ## #has_/text_of_/abstract 
 

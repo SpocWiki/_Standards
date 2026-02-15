@@ -355,7 +355,6 @@ Wolfram_Language_entity_code: Entity["Country", "Fiji"]
 CIVICUS_Monitor_country_entry: fiji
 Commons_gallery: Fiji / Viti
 subreddit: FijiIslands
-Unicode_character: "\U0001F1EB\U0001F1EF"
 location:
 - -18.1667
 - 178.45
@@ -725,8 +724,11 @@ dv_has_:
     zh_sg: 斐济
     zh_tw: 斐濟
     zu: IFiji
+Unicode_character: 🇫🇯
 ---
-# [[Fiji]] 
+# [[Fiji]] 🇫🇯 
+
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 

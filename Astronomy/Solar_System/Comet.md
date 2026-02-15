@@ -379,7 +379,9 @@ dv_has_:
     zh_tw: 彗星
     zu: ubhaqanyezi
 ---
-# [[Comet]] 
+# [[Comet]] ☄ 
+
+
 
 #is_/similar_to :: [[Solar_System/Asteroid|Asteroid]] 
 #is_/same_as :: [[../../WikiData/WD~Comet,3559|WD~Comet,3559]]  

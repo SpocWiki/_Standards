@@ -939,7 +939,6 @@ urban_population:
 Commons_category: Denmark
 subreddit: Denmark
 hashtag: Denmark
-Unicode_character: "\U0001F1E9\U0001F1F0"
 aircraft_registration_prefix: OY
 OmegaWiki_Defined_Meaning: 7997
 IOC_country_code: DEN
@@ -1087,8 +1086,11 @@ X_Twitter_username: denmarkdotdk
 Colon_Classification: SG--572
 Krugosvet_article: strany_mira/DANIYA.html
 MeSH_tree_code: Z01.542.816.124
+Unicode_character: 🇩🇰
 ---
-# [[Denmark]] 
+# [[Denmark]] 🇩🇰 
+
+
 
 ## [[Denmark]] has Properties...
 

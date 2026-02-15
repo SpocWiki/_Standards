@@ -253,6 +253,8 @@ aliases:
 - 意识形态
 - 이데올로기
 ---
+# [[Political_Ideology]]  
+
 ## #has_/text_of_/abstract 
 
 > An ideology is a set of beliefs or values attributed to a person or group of persons, 

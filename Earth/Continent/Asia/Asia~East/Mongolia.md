@@ -854,7 +854,6 @@ type: Country
 UIC_alphabetical_country_code: MGL
 UIC_numerical_country_code: 31
 unemployment_rate: 5
-Unicode_character: "\U0001F1F2\U0001F1F3"
 urban_population:
 - 2215604
 - 2261792
@@ -864,8 +863,12 @@ U_S_National_Archives_Identifier: 10035734
 VAT_rate: 10
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Mongolia,7112366]]'
 WIPO_ST_3: MN
+Unicode_character: 🇲🇳
 ---
-# [[Mongolia]] 
+
+# [[Mongolia]] 🇲🇳 
+
+
 
 ## [[Mongolia]] has Properties...
 

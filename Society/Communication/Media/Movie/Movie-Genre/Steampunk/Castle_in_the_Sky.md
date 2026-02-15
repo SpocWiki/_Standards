@@ -105,6 +105,8 @@ dv_has_:
     zh_hant: 天空之城
     zh_hk: 天空之城
 ---
+# [[Castle_in_the_Sky]]  
+
 ## #has_/text_of_/abstract 
 
 > Castle in the Sky, also known as **Laputa: Castle in the Sky**, is a 1986 Japanese animated fantasy adventure film written and directed by Hayao Miyazaki. It was produced by Isao Takahata, animated by Studio Ghibli, and distributed by Toei. The film stars the voices of Mayumi Tanaka, Keiko Yokozawa, Kotoe Hatsui, and Minori Terada. In the film, orphans Sheeta and Pazu are pursued by government agent Muska, the army, and a group of pirates. They seek Sheeta's crystal necklace, the key to accessing Laputa, a legendary flying castle hosting advanced technology.

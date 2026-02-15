@@ -344,7 +344,6 @@ hashtag: SierraLeone
 ISO_3166_1_alpha_2_code: SL
 FIPS_10_4_countries_and_regions_: SL
 WIPO_ST_3: SL
-Unicode_character: "\U0001F1F8\U0001F1F1"
 ISO_3166_1_alpha_3_code: SLE
 IOC_country_code: SLE
 ITU_letter_code: SRL
@@ -782,8 +781,11 @@ dv_is_same_as:
 - '[[/_personal/Earth/Continent/Africa/Africa~West/Sierra_Leone.personal|Sierra_Leone.personal]]'
 - '[[/_secret/Earth/Continent/Africa/Africa~West/Sierra_Leone.secret|Sierra_Leone.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Sierra_Leone
+Unicode_character: 🇸🇱
 ---
-# [[Sierra_Leone]] 
+# [[Sierra_Leone]] 🇸🇱 
+
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

@@ -977,7 +977,6 @@ male_population:
 - 20836089
 - 20886852
 - 20979233
-Unicode_character: "\U0001F1F8\U0001F1E6"
 coordinates_of_easternmost_point: Point(55.66667 22.0)
 coordinate_location: Point(44.116667 23.716667)
 urban_population:
@@ -1026,8 +1025,11 @@ expiryDate: ''
 Languages:
 - ar-SA
 icon: flag-sa
+Unicode_character: 🇸🇦
 ---
-# [[Saudi_Arabia]] 
+# [[Saudi_Arabia]] 🇸🇦 
+
+
 
 ## [[Saudi_Arabia]] has Properties...
 

@@ -183,6 +183,8 @@ dv_has_:
     zh_sg: 丢番图
     zh_tw: 丟番圖
 ---
+# [[Diophantus_of_Alexandria]]  
+
 #has_/created :: [[../../Diophantine_Equation|Diophantine_Equation]] 
 #is_/same_as :: [[../../../WikiData/WD~Diophantus_of_Alexandria,178217|WD~Diophantus_of_Alexandria,178217]] 
 

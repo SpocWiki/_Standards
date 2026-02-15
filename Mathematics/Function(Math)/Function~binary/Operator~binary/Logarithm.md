@@ -220,6 +220,8 @@ dv_has_:
     zh: 對數
     zh_hans: 对数
 ---
+# [[Logarithm]]  
+
 #has_/inverse :: [[Exponentiation]] 
 #is_/same_as :: [[../../../../WikiData/WD~Logarithm,11197|WD~Logarithm,11197]] 
 

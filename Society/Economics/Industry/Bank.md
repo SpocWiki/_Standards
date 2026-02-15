@@ -272,8 +272,11 @@ aliases:
 - 銀行
 - 银行
 - 은행
+Unicode_character: 🏦
 ---
-# [[Bank]] 
+# [[Bank]] 🏦 
+
+
 
 #is_/same_as :: [[../../../WikiData/WD~Bank,22687|WD~Bank,22687]] 
 

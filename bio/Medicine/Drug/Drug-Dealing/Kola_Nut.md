@@ -90,6 +90,8 @@ aliases:
 - コーラ・ナッツ
 - 可樂堅果
 ---
+# [[Kola_Nut]]  
+
 ## #has_/text_of_/abstract 
 
 > The kola nut ([[Yoruba]]: obi, Dagbani: guli, Hausa: goro, Igbo: ọjị, Sängö: gôro, Swahili: mukezu) 

@@ -76,6 +76,8 @@ aliases:
 - 銃規制
 - 총기 규제
 ---
+# [[Gun_Control]]  
+
 ## #has_/text_of_/abstract 
 
 > Gun control, or firearms regulation, is the set of laws or policies that regulate the manufacture, sale, transfer, possession, modification, or use of firearms and ammunition by civilians.

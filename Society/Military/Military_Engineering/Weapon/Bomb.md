@@ -171,8 +171,11 @@ aliases:
 - 爆弾
 - 爆彈
 - 폭탄
+Unicode_character: 💣
 ---
-# [[Bomb]] 
+# [[Bomb]] 💣 
+
+
 
 #is_/same_as :: [[../../../../WikiData/WD~Bomb,127197|WD~Bomb,127197]] 
 

@@ -844,7 +844,6 @@ Commons_category: South Sudan
 Commons_gallery: South Sudan
 inception: 2011-07-09
 has_time_started: 2011-07-09
-Unicode_character: "\U0001F1F8\U0001F1E9"
 coordinates_of_easternmost_point: Point(35.949 4.63103)
 coordinates_of_northernmost_point: Point(32.73159 12.23638)
 title: South Sudan
@@ -867,8 +866,11 @@ tags:
 - geo/Country
 Languages:
 - en
+Unicode_character: 🇸🇸
 ---
-# [[Sudan~South]]  
+# [[Sudan~South]] 🇸🇸 
+
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

@@ -313,8 +313,11 @@ aliases:
 - 欢喜
 - 開心
 - 행복
+Unicode_character: 😃
 ---
-# [[Happiness]] 
+# [[Happiness]] 😃 
+
+
 
 #has_/complement :: [[Suffering]] 
 #is_/different_from :: [[Pleasure]] 

@@ -142,7 +142,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Stilles%20Mineralwasse
 sRGB_color_hex_triplet: 1E90FF
 Common_Procurement_Vocabulary_code: 41110000
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Water%20Drops%20Glass%20Banner.jpg
-Unicode_character: "\U0001F6B0"
 Commons_category: Drinking water
 small_logo_or_icon: http://commons.wikimedia.org/wiki/Special:FilePath/Maki7-drinking-water.svg
 exact_match: http://purl.obolibrary.org/obo/ENVO_00003064
@@ -302,6 +301,7 @@ dv_has_:
     zh_hans: 饮用水
     zh-my: 食水
     zh_sg: 食水
+Unicode_character: 🚰
 ---
 # [[Drinking_Water]] 🚰 
 

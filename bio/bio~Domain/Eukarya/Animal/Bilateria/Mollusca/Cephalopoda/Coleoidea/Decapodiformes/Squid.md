@@ -96,7 +96,6 @@ MCN_code: 0307.43.10
 EPPO_Code: 1TEUTO
 Dewey_Decimal_Classification: 594.58
 NBN_System_Key: NHMSYS0021055248
-Unicode_character: "\U0001F991"
 dv_has_:
   name_:
     af: Pylinkvis
@@ -201,6 +200,7 @@ dv_has_:
     zh: 管魷目
     zh_cn: 管魷目
     zh_hans: 管鱿目
+Unicode_character: 🦑
 ---
 # [[Squid]] 🦑 
 

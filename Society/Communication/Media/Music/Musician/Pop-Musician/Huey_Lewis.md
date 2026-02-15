@@ -61,6 +61,8 @@ aliases:
 - 休易·路易斯
 - 휴이 루이스
 ---
+# [[Huey_Lewis]]  
+
 ## #has_/text_of_/abstract 
 
 > Hugh Anthony Cregg III (born July 5, 1950), known professionally as **Huey Lewis**, 

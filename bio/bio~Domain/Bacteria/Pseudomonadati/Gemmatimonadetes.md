@@ -45,6 +45,8 @@ dv_has_:
     vo: Gemmatimonadota
     war: Gemmatimonadota
 ---
+# [[Gemmatimonadetes]]  
+
 ## [[Gemmatimonadetes]] 
 
 #is_a/bio-Phylum  

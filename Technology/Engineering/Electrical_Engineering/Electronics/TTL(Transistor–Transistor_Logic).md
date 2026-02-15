@@ -63,6 +63,8 @@ aliases:
 - 電晶體－電晶體邏輯
 - 트랜지스터-트랜지스터 논리
 ---
+# [[TTL(Transistor–Transistor_Logic)]]  
+
 #is_/worse_than :: [[CMOS]] 
 
 TTL operates at 5V and at rest consumes substantially 

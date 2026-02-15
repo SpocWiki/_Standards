@@ -209,7 +209,9 @@ dv_has_:
     zh: 骰子
     zh_hans: 骰子
 ---
-# [[Dice]] 🎲 
+# [[Dice]] ⚀ 
+
+
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Dice,45089|WD~Dice,45089]] 
 

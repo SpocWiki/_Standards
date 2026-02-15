@@ -198,6 +198,8 @@ dv_has_:
     yue: 吉薩金字塔群
     zh: 吉萨的墓地
 ---
+# [[Giza_Necropolis]]  
+
 #has_/time_/started :: -2550-06
 
 ## #has_/text_of_/abstract 

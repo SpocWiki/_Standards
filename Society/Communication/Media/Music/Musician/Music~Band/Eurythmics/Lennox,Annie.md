@@ -113,6 +113,8 @@ dv_has_:
     zh_sg: 安妮·蓝妮克丝
     zh_tw: 安妮·藍妮克絲
 ---
+# [[Lennox,Annie]]  
+
 #has_/time_/started :: 1954-12-25  
 
 ## #has_/text_of_/abstract 

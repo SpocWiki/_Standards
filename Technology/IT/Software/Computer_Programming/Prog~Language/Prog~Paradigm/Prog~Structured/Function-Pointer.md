@@ -38,6 +38,8 @@ aliases:
 - 関数へのポインタ
 - 함수 포인터
 ---
+# [[Function-Pointer]]  
+
 #is_/similar_to :: [[../Prog~OO/Delegate~CLI]] 
 
 > A function pointer, also called a subroutine pointer or procedure pointer, 

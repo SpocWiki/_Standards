@@ -234,7 +234,6 @@ Iconclass_notation:
 UNSPSC_Code: 10101508
 taxon_name: Capra aegagrus hircus
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Baby%20goats%20in%20Ireland.webm
-Unicode_character: "\U0001F410"
 P8189: 987007533768305200
 MeSH_tree_code: B01.050.150.900.649.313.500.380.513
 Krugosvet_article: biologiya/koza
@@ -462,6 +461,7 @@ dv_has_:
     yo: Ewúrẹ́
     yue: 草羊
     zh: 家山羊
+Unicode_character: 🐐
 ---
 # [[Goat]] 🐐  
 

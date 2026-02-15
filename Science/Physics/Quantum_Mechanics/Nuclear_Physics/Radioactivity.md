@@ -269,7 +269,9 @@ dv_has_:
     yue: 核衰變
     zh: 放射性
 ---
-# [[Radioactivity]] 
+# [[Radioactivity]] ☢ 
+
+
 
 #is_/same_as :: [[WD~Radioactivity,11448]] 
 

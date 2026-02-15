@@ -6,6 +6,8 @@ dv_has_:
 aliases:
 - /r/changemyview
 ---
+# [[changemyview]]  
+
 ## #has_/text_of_/abstract 
 
 > r/**changemyview**, also known as Change My View (CMV), is a [[subreddit]] 

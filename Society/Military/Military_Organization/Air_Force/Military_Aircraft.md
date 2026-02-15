@@ -86,7 +86,6 @@ exact_match: http://wordnet-rdf.princeton.edu/wn30/04552348-n
 MIL_STD_2525_Symbol_Identification_Code: 10010100001100000000
 Common_Procurement_Vocabulary_code: 35610000
 Commons_category: Military aircraft
-Unicode_character: "\U0001F6E6"
 dv_has_:
   name_:
     ar: طائرة عسكرية
@@ -159,8 +158,11 @@ dv_has_:
     zh_hk: 軍用航空器
     zh_sg: 军用航空器
     zh_tw: 軍用航空器
+Unicode_character: 🛦
 ---
-# [[Military_Aircraft]] 
+# [[Military_Aircraft]] 🛦 
+
+
 
 #is_/same_as :: [[WD~Military_aircraft,216916]] 
 

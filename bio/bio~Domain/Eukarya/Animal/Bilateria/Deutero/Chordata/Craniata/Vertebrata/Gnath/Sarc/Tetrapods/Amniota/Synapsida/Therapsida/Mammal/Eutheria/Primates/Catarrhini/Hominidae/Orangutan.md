@@ -105,7 +105,6 @@ taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Pongo%
 EPPO_Code: 1PONGG
 MeSH_tree_code: B01.050.150.900.649.313.988.400.112.400.635
 UMLS_CUI: C0178448
-Unicode_character: "\U0001F9A7"
 taxon_common_name:
 - orangután de Bornéu
 - orangutan
@@ -234,6 +233,7 @@ dv_has_:
     zh_cn: 猩猩属
     zh_tw: 猩猩屬
     zu: I-orengithengi
+Unicode_character: 🦧
 ---
 # [[Orangutan]] 🦧 
 

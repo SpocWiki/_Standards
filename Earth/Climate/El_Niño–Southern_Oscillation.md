@@ -198,6 +198,8 @@ dv_has_:
     zh_hk: 厄爾尼諾-南方振盪現象
     zh_tw: 聖嬰-南方振盪現象
 ---
+# [[El_Niño–Southern_Oscillation]]  
+
 ## #has_/text_of_/abstract 
 
 > **El Niño–Southern Oscillation** (ENSO) is a global climate phenomenon that emerges from variations in winds and sea surface temperatures over the tropical Pacific Ocean. Those variations have an irregular pattern but do have some semblance of cycles. The occurrence of ENSO is not predictable. It affects the climate of much of the tropics and subtropics, and has links (teleconnections) to higher-latitude regions of the world. The warming phase of the sea surface temperature is known as "El Niño" and the cooling phase as "La Niña". The Southern Oscillation is the accompanying atmospheric oscillation, which is coupled with the sea temperature change. 

@@ -1078,7 +1078,6 @@ U_S_National_Archives_Identifier: 10035733
 native_label: Malaysia
 official_name: Malaysia
 population: 32447385
-Unicode_character: "\U0001F1F2\U0001F1FE"
 coordinate_location: Point(102.314361666 3.7805111)
 coordinates_of_northernmost_point: Point(117.234612808 7.379678153)
 coordinates_of_easternmost_point: Point(119.2691 5.2329)
@@ -1108,10 +1107,10 @@ Languages:
 - pa
 - th
 icon: flag-my
+Unicode_character: 🇲🇾
 ---
-# [[Malaysia]] 
 
-## [[Malaysia]] has Properties...
+# [[Malaysia]] 🇲🇾 has Properties...
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

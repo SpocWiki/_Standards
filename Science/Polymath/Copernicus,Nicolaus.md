@@ -442,6 +442,8 @@ dv_has_:
     zh_hk: 尼古拉·哥白尼
     zh_tw: 尼古拉·哥白尼
 ---
+# [[Copernicus,Nicolaus]]  
+
 [[Copernicus,Nicolaus]] 
 
 #has_/time_/started ::  1473-02-19

@@ -227,7 +227,10 @@ aliases:
 - 棕櫚
 - 棕櫚科
 - 종려과
+Unicode_character: 🌴
 ---
+# [[Arecaceae]] 🌴 
+
 ## #has_/text_of_/abstract 
 
 > The **Arecaceae** are a family of perennial, flowering plants in the monocot order Arecales. 

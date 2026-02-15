@@ -26,6 +26,8 @@ aliases:
 - เทนเซอร์โฟลว์
 - 텐서플로
 ---
+# [[TensorFlow]]  
+
 ## #has_/text_of_/abstract 
 
 > **TensorFlow** is a free and open-source software library for machine learning and artificial intelligence. 

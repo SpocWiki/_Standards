@@ -193,7 +193,6 @@ UMLS_CUI:
 - C0226896
 - C0230028
 Commons_category: Mouths
-Unicode_character: "\U0001F444"
 WordLift_URL: http://data.wordlift.io/wl01714/entity/mouth
 exact_match:
 - http://purl.obolibrary.org/obo/ENVO_00000479
@@ -393,6 +392,7 @@ dv_has_:
     za: bak
     zh: 口腔
     zu: umlomo
+Unicode_character: 👄
 ---
 # [[Mouth]] 👄 
 

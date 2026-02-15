@@ -293,7 +293,6 @@ subreddit: food
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_food,6630855]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Food,6947759]]'
 UMLS_CUI: C0016452
-Unicode_character: "\U0001F372"
 Unicode_range: U+2615,U+1F33D,U+1F345-1F37C,U+1F382
 union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 used_by: '[[_Standards/WikiData/WD~organism,7239]]'
@@ -546,6 +545,7 @@ dv_has_:
     zh_sg: 食物
     zh_tw: 食物
     zu: Ukudla
+Unicode_character: 🍲
 ---
 # [[Food]] 🍲  
 

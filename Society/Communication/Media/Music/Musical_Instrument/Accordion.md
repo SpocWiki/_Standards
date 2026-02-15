@@ -121,7 +121,6 @@ subclass_of:
 - '[[_Standards/WikiData/WD~squeezebox,336767]]'
 - '[[_Standards/WikiData/WD~multimonica,19650003]]'
 subreddit: Accordion
-Unicode_character: "\U0001FA97"
 UNSPSC_Code: 60131002
 used_by: '[[_Standards/WikiData/WD~accordionist,1863064]]'
 U_S_National_Archives_Identifier: 10646133
@@ -239,6 +238,7 @@ dv_has_:
     zh: 手风琴
     zh_hans: 手风琴
     zh_hant: 手風琴
+Unicode_character: 🪗
 ---
 # [[Accordion]] 🪗 
 

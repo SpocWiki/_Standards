@@ -60,6 +60,8 @@ dv_has_:
     uk: віктимізація
     zh: 再次受害
 ---
+# [[Victimization]]  
+
 ## #has_/text_of_/abstract 
 
 > Victimisation (or **Victimization**) is the state or 

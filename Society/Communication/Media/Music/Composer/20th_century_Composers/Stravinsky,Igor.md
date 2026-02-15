@@ -350,6 +350,8 @@ dv_has_:
     zh_hk: 史達拉汶斯基
     zh_tw: 伊果·史特拉汶斯基
 ---
+# [[Stravinsky,Igor]]  
+
 #has_/time_/started :: 1882-06-17 
 #has_/time_/stopped :: 1971-04-06 
 #has_/duration  :: `=(default(this.has_time_stopped, date(now)) - this.has_time_started)` 

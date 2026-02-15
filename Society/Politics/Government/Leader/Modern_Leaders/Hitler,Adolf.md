@@ -321,6 +321,8 @@ dv_has_:
     zh: 赫伯特·胡佛
     zh_hk: 夏拔·胡佛
 ---
+# [[Hitler,Adolf]]  
+
 #has_/time_/started :: 1889-04-20 
 #has_/time_/stopped  :: 1945-04-30 
 

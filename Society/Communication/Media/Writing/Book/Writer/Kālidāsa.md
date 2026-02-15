@@ -253,6 +253,8 @@ dv_has_:
     zh_cn: 迦梨陀娑
     zh_hans: 迦梨陀娑
 ---
+# [[Kālidāsa]]  
+
 ## #has_/text_of_/abstract 
 
 > **Kālidāsa** (Sanskrit: कालिदास, "Servant of Kali"; 4th–5th century CE) was a Classical Sanskrit author 

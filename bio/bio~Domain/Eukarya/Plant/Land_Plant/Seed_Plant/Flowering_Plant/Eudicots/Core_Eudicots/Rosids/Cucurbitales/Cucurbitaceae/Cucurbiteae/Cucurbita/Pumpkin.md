@@ -303,8 +303,11 @@ aliases:
 - 金瓜
 - ꯃꯥꯢꯔꯦꯟ
 - 호박
+Unicode_character: 🎃
 ---
-# [[Pumpkin]] 
+# [[Pumpkin]] 🎃 
+
+
 
 #is_/same_as :: [[../../../../../../../../../../../../../../WikiData/WD~Pumpkin,165308|WD~Pumpkin,165308]]  
 

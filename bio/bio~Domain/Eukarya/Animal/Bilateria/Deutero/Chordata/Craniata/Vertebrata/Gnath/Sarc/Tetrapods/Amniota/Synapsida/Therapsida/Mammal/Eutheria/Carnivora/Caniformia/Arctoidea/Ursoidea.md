@@ -53,6 +53,8 @@ aliases:
 - دبيات وأشباهها
 - 熊总科
 ---
+# [[Ursoidea]]  
+
 ## #has_/text_of_/abstract 
 
 > **Ursoidea** is a superfamily of arctoid carnivoran mammals 

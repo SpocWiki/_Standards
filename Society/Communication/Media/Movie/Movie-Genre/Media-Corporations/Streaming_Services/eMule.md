@@ -52,6 +52,8 @@ aliases:
 - ایمیول
 - 이뮬
 ---
+# [[eMule]]  
+
 ## #has_/text_of_/abstract 
 
 > **eMule** is a free peer-to-peer file sharing application for Microsoft Windows. 

@@ -203,7 +203,9 @@ dv_has_:
     zh-sg: 沙漏
     zh-tw: 沙漏
 ---
-# [[Hourglass]] 
+# [[Hourglass]] ⏳ 
+
+
 
 #is_/same_as :: [[WD~Hourglass,179904]] 
 

@@ -256,7 +256,9 @@ dv_has_:
     zh_tw: 鏌
     zu: UMcombi
 ---
-# [[Moscovium]] 
+
+# [[Moscovium]] 鏌 
+
 
 #is_/same_as :: [[WD~Moscovium,1303]] 
 

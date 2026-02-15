@@ -280,7 +280,6 @@ subclass_of:
 - '[[../../../../../../WikiData/WD~shelter,989946]]'
 - '[[_Standards/WikiData/WD~residential_building,11755880]]'
 - '[[_Standards/WikiData/WD~building,41176]]'
-Unicode_character: "\U0001F3E1"
 Wikidata_property: number of houses
 dv_has_:
   name_:
@@ -540,6 +539,7 @@ dv_has_:
     zh_sg: 住宅
     zh_tw: 住宅
     zu: indlu
+Unicode_character: 🏡
 ---
 # [[House]] 🏡 
 

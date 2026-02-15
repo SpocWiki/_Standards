@@ -117,7 +117,6 @@ pronunciation_audio:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Fr-frite.ogg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Sv-pommes%20frites.ogg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Patates%20frites-article.ogg
-Unicode_character: "\U0001F35F"
 Commons_category: French fries
 booru_tag: french_fries
 Danbooru_tag: french_fries
@@ -236,6 +235,7 @@ dv_has_:
     zh_hk: 薯條
     zh_sg: 马铃薯条
     zh_tw: 馬鈴薯條
+Unicode_character: 🍟
 ---
 # [[Fries]] 🍟 
 

@@ -164,7 +164,6 @@ subreddit:
 topic_s_main_template:
 - '[[_Standards/WikiData/WD~Template_Infobox_firearm,15966569]]'
 - '[[_Standards/WikiData/WD~Template_Firearms,117351333]]'
-Unicode_character: "\U0001F52B"
 union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
 uses:
 - '[[_Standards/WikiData/WD~combustion,133235]]'
@@ -307,6 +306,7 @@ dv_has_:
     zh: 火器
     zh_hans: 火器
     zh_hant: 火器
+Unicode_character: 🔫
 ---
 # [[Firearm]] 🔫 
 

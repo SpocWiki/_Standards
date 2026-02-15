@@ -535,7 +535,9 @@ dv_has_number_of_group: 16
 dv_has_name_abbreviated: S
 dv_has_number_of_electrons: 16
 ---
-# [[Sulfur]] 
+
+# [[Sulfur]] 硫 
+
 
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Sulfur,682]] 

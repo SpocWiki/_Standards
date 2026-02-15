@@ -99,7 +99,6 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Seal%20at%20Newburgh%2
 EPPO_Code: 1PJOCF
 MeSH_tree_code: B01.050.150.900.649.313.750.250.700
 NBN_System_Key: NHMSYS0000376169
-Unicode_character: "\U0001F9AD"
 taxon_common_name: selfamilien
 dv_has_:
   name_:
@@ -207,6 +206,7 @@ dv_has_:
     zh_hans: 海豹科
     zh_hant: 海豹科
     zh_tw: 海豹科
+Unicode_character: 🦭
 ---
 # [[Earless_Seal]] 🦭 
 

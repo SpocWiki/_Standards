@@ -485,8 +485,11 @@ dv_has_:
     zh_hk: 音樂
     zh_tw: 音樂
     zu: umculo
+Unicode_character: 🎵
 ---
-# [[Music]] 
+# [[Music]] 🎵 
+
+
 
 #is_/same_as :: [[../../../WikiData/WD~Music,638|WD~Music,638]] 
 

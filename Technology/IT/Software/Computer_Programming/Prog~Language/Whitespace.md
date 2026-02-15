@@ -63,6 +63,8 @@ aliases:
 - 空白文字
 - 공백 문자
 ---
+# [[Whitespace]]  
+
 ## #has_/text_of_/abstract 
 
 > A **Whitespace** character is a character data element that represents white space when text is rendered for display by a computer.

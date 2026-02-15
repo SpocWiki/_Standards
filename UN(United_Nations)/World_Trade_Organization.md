@@ -360,6 +360,8 @@ dv_has_:
     zh-sg: 世界贸易组织
     zh-tw: 世界貿易組織
 ---
+# [[World_Trade_Organization]]  
+
 ## #has_/text_of_/abstract 
 
 > The **World Trade Organization** (WTO) is an intergovernmental organization headquartered in Geneva, Switzerland that regulates and facilitates international trade. Governments use the organization to establish, revise, and enforce the rules that govern international trade in cooperation with the United Nations System.  The WTO is the world's largest international economic organization, with 166 members  representing over 98% of global trade and global GDP.

@@ -331,6 +331,8 @@ dv_has_:
     zh_hans: T·S·艾略特
     zh_hant: T·S·艾略特
 ---
+# [[Eliot,T.S]]  
+
 #is_/same_as :: [[_Standards/WikiData/WD~T.S.Eliot,37767]] 
 #has_/time_/started ::  1888-09-26 
 #has_/time_/started ::  1965-01-04 

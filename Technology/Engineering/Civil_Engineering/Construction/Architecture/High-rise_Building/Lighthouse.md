@@ -310,7 +310,9 @@ dv_has_:
     zh_sg: 灯塔
     zh_tw: 燈塔
 ---
-# [[Lighthouse]] 
+# [[Lighthouse]] ⛯ 
+
+
 
 #is_/same_as :: [[WD~Lighthouse,39715]] 
 

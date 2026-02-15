@@ -417,6 +417,7 @@ dv_is_same_as:
   - "[[/_personal/Earth/Geography/Place/Civic_Structure/Cemetery.personal|Cemetery.personal]]"
   - "[[/_secret/Earth/Geography/Place/Civic_Structure/Cemetery.secret|Cemetery.secret]]"
 ---
+
 # [[Cemetery]] ⛼ 
 
 #is_/same_as :: [[../../../../WikiData/WD~Cemetery,39614|WD~Cemetery,39614]] 

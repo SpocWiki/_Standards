@@ -107,7 +107,6 @@ PubChem_CID: 23963
 RxNorm_CUI: 1305547
 SpocWebEntityId: 13522
 UMLS_CUI: C0040302
-Unicode_character: 鈦
 UNII: D1JT611TNE
 Wolfram_Language_entity_code: Entity["Mineral", "Titanium"]
 ZVG_number: 8170
@@ -431,8 +430,11 @@ dv_has_number_of_period: 4
 dv_has_number_of_group: 4
 dv_has_name_abbreviated: Ti
 dv_has_number_of_electrons: 22
+Unicode_character: 鈦
 ---
-# [[Titanium]] 
+# [[Titanium]] 鈦 
+
+
 
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Titanium,716]] 

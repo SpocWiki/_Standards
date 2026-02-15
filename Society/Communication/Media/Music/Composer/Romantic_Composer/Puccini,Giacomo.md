@@ -297,6 +297,8 @@ dv_has_:
     zh_tw: 賈科莫·普契尼
     zu: Giacomo Puccini
 ---
+# [[Puccini,Giacomo]]  
+
 ## #has_/text_of_/abstract 
 
 > **Giacomo Puccini** (22 December 1858 –  29 November 1924) 

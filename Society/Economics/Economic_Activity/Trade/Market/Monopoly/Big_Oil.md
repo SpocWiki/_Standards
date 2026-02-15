@@ -39,6 +39,8 @@ aliases:
 - 石油巨头
 - 슈퍼메이저
 ---
+# [[Big_Oil]]  
+
 ## #has_/text_of_/abstract 
 
 > **Big Oil** is a name sometimes used to describe the world's five, six or seven largest publicly traded and investor-owned oil and gas companies, also known as supermajors.

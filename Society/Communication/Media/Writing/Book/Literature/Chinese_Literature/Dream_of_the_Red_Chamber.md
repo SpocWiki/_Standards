@@ -331,6 +331,8 @@ dv_has_:
     zh_sg: 红楼梦
     zh_tw: 紅樓夢
 ---
+# [[Dream_of_the_Red_Chamber]]  
+
 ## #has_/text_of_/abstract 
 
 > **Dream of the Red Chamber** or The Story of the Stone is an 18th-century Chinese novel authored by Cao Xueqin, considered to be one of the Four Great Classical Novels of Chinese literature. It is known for its psychological scope and its observation of the worldview, aesthetics, lifestyles, and social relations of High Qing China.

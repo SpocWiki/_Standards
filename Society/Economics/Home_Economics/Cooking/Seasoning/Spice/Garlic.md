@@ -125,7 +125,6 @@ Amazon_com_browse_node:
 - 724703011
 Wolfram_Language_entity_code: Entity["FoodType", "Garlic"]
 UNII: V1V998DC17
-Unicode_character: "\U0001F9C4"
 Wikidata_usage_instructions: Untuk bawang putih sebagai spesies, gunakan Q23400
 dv_has_:
   name_:
@@ -216,6 +215,7 @@ dv_has_:
     yi: קנאָבל
     zh: 大蒜
     zh_hant: 大蒜
+Unicode_character: 🧄
 ---
 # [[Garlic]] 🧄 
 

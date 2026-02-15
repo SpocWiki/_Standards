@@ -200,7 +200,6 @@ Commons_category: Lithium
 electron_configuration:
 - '[He] 2s¹'
 - 1s² 2s¹
-Unicode_character: 鋰
 Dewey_Decimal_Classification:
 - 669.725
 - 546.381
@@ -501,8 +500,11 @@ dv_is_same_as:
 - '[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.private|Lithium.private]]'
 - '[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.personal|Lithium.personal]]'
 - '[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Lithium.secret|Lithium.secret]]'
+Unicode_character: 鋰
 ---
-# [[Lithium]] 
+# [[Lithium]] 鋰 
+
+
 
 #chemic/Element 
 has_name_group = `=this.dv_has_name_group` 

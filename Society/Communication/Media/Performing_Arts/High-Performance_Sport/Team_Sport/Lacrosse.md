@@ -67,7 +67,6 @@ subreddit: lacrosse
 Commons_gallery: Lacrosse
 Commons_category: Lacrosse
 IPTC_NewsCode: mediatopic/20000986
-Unicode_character: "\U0001F94D"
 OpenStreetMap_tag: sport=lacrosse
 dv_has_:
   name_:
@@ -146,8 +145,11 @@ dv_has_:
     zh_hk: 棍網球
     zh_sg: 棍网球
     zh_tw: 袋棍球
+Unicode_character: 🥍
 ---
-# [[Lacrosse]] 
+# [[Lacrosse]] 🥍 
+
+
 
 #is_/same_as :: [[WD~Lacrosse,185851]] 
 

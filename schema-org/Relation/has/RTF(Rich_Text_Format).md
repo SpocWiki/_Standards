@@ -84,6 +84,8 @@ aliases:
 - संपन्न पाठ्य प्रारूप
 - 서식 있는 텍스트 포맷
 ---
+# [[RTF(Rich_Text_Format)]]  
+
 ## #has_/text_of_/abstract 
 
 > The **Rich Text Format** (often abbreviated RTF) is a proprietary document file format 

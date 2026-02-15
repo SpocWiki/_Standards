@@ -176,7 +176,6 @@ subclass_of:
 topic_s_main_template:
 - '[[_Standards/WikiData/WD~Template_Infobox_train,5902995]]'
 - '[[_Standards/WikiData/WD~Q106811496,106811496]]'
-Unicode_character: "\U0001F686"
 U_S_National_Archives_Identifier: 10675596
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20drone%20chase%20of%20a%20train.webm
 dv_has_:
@@ -396,6 +395,7 @@ dv_has_:
     zh-hans: 铁路列车
     zh-hant: 鐵路列車
     zh-tw: 鐵路列車
+Unicode_character: 🚆
 ---
 # [[Train]] 🚆 
 

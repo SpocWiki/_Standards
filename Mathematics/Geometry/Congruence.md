@@ -123,7 +123,9 @@ dv_has_:
     yue: 全等
     zh: 全等_(幾何)
 ---
-# [[Congruence]] 
+# [[Congruence]] ≅ 
+
+
 
 #is_/same_as :: [[../../WikiData/WD~Congruence,154210|WD~Congruence,154210]] 
 

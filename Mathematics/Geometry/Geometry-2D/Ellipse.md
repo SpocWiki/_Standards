@@ -210,7 +210,9 @@ dv_has_:
     zh_hant: 橢圓
     zh_hk: 橢圓
 ---
-# [[Ellipse]] 
+
+# [[Ellipse]] ⬭ 
+
 
 #is_/same_as :: [[../../../WikiData/WD~Ellipse,40112|WD~Ellipse,40112]] 
 

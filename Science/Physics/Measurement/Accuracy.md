@@ -106,6 +106,8 @@ aliases:
 - 精準度
 - 정확도와 정밀도
 ---
+# [[Accuracy]]  
+
 [[Accuracy]] = [[Trueness]] AND [[Precision]] 
 
 Accuracy describes the Influence of **systematic errors**. 

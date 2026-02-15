@@ -217,7 +217,6 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q3357
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Mobile%20Phones%20Wikivoyage%20banner.jpg
 exact_match: http://purl.obolibrary.org/obo/ENVO_01000581
 described_at_URL: https://www.videogameschronicle.com/?post_type=platforms&p=269
-Unicode_character: "\U0001F4F1"
 UNSPSC_Code: 43191501
 Iconclass_notation: 46E6222
 IMDb_keyword: cell-phone
@@ -417,8 +416,11 @@ dv_has_:
     zh_sg: 随身电话
     zh_tw: 行動電話
     zu: umakhalekhukhwini
+Unicode_character: 📱
 ---
-# [[Mobile_Phone]] 
+# [[Mobile_Phone]] 📱 
+
+
 
 #is_/same_as :: [[WD~Mobile_phone,17517]] 
 

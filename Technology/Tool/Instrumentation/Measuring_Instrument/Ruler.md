@@ -99,7 +99,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Measurement%20unit.jpg
 exact_match:
 - http://wordnet-rdf.princeton.edu/wn30/04118776-n
 - http://wordnet-rdf.princeton.edu/wn31/104062517-n
-Unicode_character: "\U0001F4CF"
 Iconclass_notation: 49D511(RULER)
 EAGLE_id: decor/lod/265
 Wolfram_Language_entity_code: Entity["MeasurementDevice", "Ruler"]
@@ -202,8 +201,11 @@ dv_has_:
     zh-hk: 尺子
     zh-sg: 尺子
     zh-tw: 尺子
+Unicode_character: 📏
 ---
-# [[../../../../Society/Politics/Government/Constitutionalism/Rule_of_Law|Rule_of_Law]] 
+# [[Ruler]] 📏 
+
+
 
 #is_/same_as :: [[WD~Ruler,104555]] 
 

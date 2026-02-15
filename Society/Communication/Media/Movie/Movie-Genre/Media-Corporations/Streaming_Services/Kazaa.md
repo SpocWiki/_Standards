@@ -36,6 +36,8 @@ aliases:
 - シャーマン・ネットワークス
 - 카자
 ---
+# [[Kazaa]]  
+
 ## #has_/text_of_/abstract 
 
 > **Kazaa** Media Desktop ( ka-ZAH). (once stylized as "KaZaA", but later usually written "Kazaa") 

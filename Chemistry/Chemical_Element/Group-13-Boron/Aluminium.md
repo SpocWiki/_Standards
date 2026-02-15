@@ -238,7 +238,6 @@ time_weighted_average_exposure_limit:
 - 1.5
 type: Element
 UMLS_CUI: C0002367
-Unicode_character: 鋁
 UNII: CPD4NFA903
 UNSPSC_Code: 11101705
 U_S_National_Archives_Identifier: 10637694
@@ -546,8 +545,8 @@ dv_has_number_of_period: 3
 dv_has_number_of_group: 13
 dv_has_name_abbreviated: Al
 dv_has_number_of_electrons: 13
+Unicode_character: 鋁
 ---
-
 # [[Aluminium]] 鋁 
 
 #is_/same_as :: [[../../../WikiData/WD~Aluminium,663]] 

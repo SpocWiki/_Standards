@@ -172,7 +172,6 @@ UMLS_CUI:
 - C0339789
 - C1384666
 - C3887873
-Unicode_character: "\U0001F9CF"
 U_S_National_Archives_Identifier: 10640037
 WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/hearing_loss
 dv_has_:
@@ -328,6 +327,7 @@ dv_has_:
     zh_hans: 聋
     zh_hant: 聾
     zu: abayizithulu
+Unicode_character: 🧏
 ---
 # [[Deafness]] 🧏 
 

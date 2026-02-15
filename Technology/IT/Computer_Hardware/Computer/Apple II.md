@@ -81,6 +81,8 @@ aliases:
 - 蘋果II
 - 애플 II
 ---
+# [[Apple II]]  
+
 ## #has_/text_of_/abstract 
 
 > **Apple II** ("apple two", stylized as `Apple ][`) is a series of microcomputers 

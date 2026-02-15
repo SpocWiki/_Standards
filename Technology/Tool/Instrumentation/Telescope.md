@@ -120,7 +120,6 @@ Iconclass_notation: .inf
 Google_Doodle: 400th-anniversary-of-galileos-telescope
 Commons_category: Telescopes
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lunette%20mg%202368.jpg
-Unicode_character: "\U0001F52D"
 UMLS_CUI: C0457177
 MeSH_tree_code: E07.632.875
 OpenStreetMap_tag_or_key: Tag:man_made=telescope
@@ -271,6 +270,7 @@ dv_has_:
     yue: 望遠鏡
     zh: 望远镜
     zu: I-telescope
+Unicode_character: 🔭
 ---
 # [[Telescope]] 🔭 
 

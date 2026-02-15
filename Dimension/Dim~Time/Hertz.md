@@ -188,7 +188,9 @@ dv_has_:
     zh_hant: 赫茲
     zh_tw: 赫茲
 ---
-# [[Hertz]] 
+
+# [[Hertz]] ㎐ 
+
 
 #is_/same_as :: [[../../WikiData/WD~Hertz,39369|WD~Hertz,39369]] 
 #is_/similar_to :: [[Becquerel]] 

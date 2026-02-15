@@ -233,8 +233,11 @@ dv_has_:
     zh_hans: 棕榈科
     zh_hant: 棕榈科
     zh_tw: 棕櫚科
+Unicode_character: 🌴
 ---
-# [[Palm]]
+# [[Palm]] 🌴 
+
+
 
 The palms 
 

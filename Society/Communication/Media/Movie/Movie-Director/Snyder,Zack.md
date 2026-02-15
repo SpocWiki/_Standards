@@ -100,6 +100,8 @@ dv_has_:
     zh-my: 查克·史奈德
     zh_sg: 查克·史奈德
 ---
+# [[Snyder,Zack]]  
+
 #has_/time_/started :: 1966-03-01
 
 ## #has_/text_of_/abstract 

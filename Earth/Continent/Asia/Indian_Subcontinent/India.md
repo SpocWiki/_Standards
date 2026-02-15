@@ -1833,7 +1833,6 @@ BHCL_UUID:
 - 38d9684b-e73e-4ced-9331-b23249b40c59
 WOEID: 23424848
 Wolfram_Language_entity_code: Entity["Country", "India"]
-Unicode_character: "\U0001F1EE\U0001F1F3"
 location:
 - 20.3923
 - 78.9354
@@ -1884,10 +1883,9 @@ Languages:
 - lus
 - inc
 icon: flag-in
+Unicode_character: 🇮🇳
 ---
-# [[India]] 
-
-## [[India]] has Properties... 
+# [[India]] 🇮🇳  has Properties... 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

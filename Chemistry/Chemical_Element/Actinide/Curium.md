@@ -122,7 +122,6 @@ time_of_discovery_or_invention: 1944
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_curium,8085313]]'
 type: Element
 UMLS_CUI: C0010473
-Unicode_character: 鋦
 UNII: M5LL84MZ2W
 dv_has_:
   name_:
@@ -349,8 +348,11 @@ dv_is_same_as:
 - '[[/_private/Chemistry/Chemical_Element/Actinide/Curium.private|Curium.private]]'
 - '[[/_personal/Chemistry/Chemical_Element/Actinide/Curium.personal|Curium.personal]]'
 - '[[/_secret/Chemistry/Chemical_Element/Actinide/Curium.secret|Curium.secret]]'
+Unicode_character: 鋦
 ---
-# [[Curium]] 
+# [[Curium]] 鋦 
+
+
 
 #chemic/Element 
 has_name_group = `=this.dv_has_name_group` 

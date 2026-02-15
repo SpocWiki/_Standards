@@ -936,7 +936,6 @@ birth_rate: 14.636
 social_media_followers: 371630
 GS1_country_code: 750
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Mexico.svg
-Unicode_character: "\U0001F1F2\U0001F1FD"
 area: 1972550
 ITU_letter_code: MEX
 IOC_country_code: MEX
@@ -1422,8 +1421,11 @@ dv_is_same_as:
 - '[[/_personal/Earth/Continent/America~Central/Mexico.personal|Mexico.personal]]'
 - '[[/_secret/Earth/Continent/America~Central/Mexico.secret|Mexico.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/America-Mexico
+Unicode_character: 🇲🇽
 ---
-# [[Mexico]] 
+# [[Mexico]] 🇲🇽 
+
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

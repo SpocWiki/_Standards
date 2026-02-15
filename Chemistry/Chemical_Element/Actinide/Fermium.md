@@ -101,7 +101,6 @@ subclass_of: '[[_Standards/WikiData/WD~actinide,19577]]'
 time_of_discovery_or_invention: 1952-12-01
 type: Element
 UMLS_CUI: C0015853
-Unicode_character: 鐨
 UNII: Q70I3KBF4W
 dv_is_:
   same_as:
@@ -333,8 +332,11 @@ dv_has_value_for_energy_form_kj_mol: 0
 dv_has_number_of_period: 7
 dv_has_number_of_group: 34
 dv_has_number_of_electrons: 100
+Unicode_character: 鐨
 ---
-# [[Fermium]] 
+# [[Fermium]] 鐨 
+
+
 
 #is_/same_as :: [[../../../WikiData/WD~Fermium,1896]] 
 

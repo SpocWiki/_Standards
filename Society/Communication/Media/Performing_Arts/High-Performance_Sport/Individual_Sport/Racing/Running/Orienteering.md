@@ -76,7 +76,6 @@ icon: http://commons.wikimedia.org/wiki/Special:FilePath/Orienteering%20pictogra
 image: http://commons.wikimedia.org/wiki/Special:FilePath/World%20Orienteering%20Championships%202010%20-%20relay%2011.jpg
 Universal_Decimal_Classification: 796.56
 IPTC_NewsCode: mediatopic/20001011
-Unicode_character: "\U0001F9ED"
 OpenStreetMap_tag: sport=orienteering
 dv_has_:
   name_:
@@ -144,8 +143,11 @@ dv_has_:
     zh: 定向运动
     zh_hant: 定向運動
     zh_tw: 定向運動
+Unicode_character: 🧭
 ---
-# [[Orienteering]] 
+# [[Orienteering]] 🧭 
+
+
 
 #is_/same_as :: [[WD~Orienteering,29358]] 
 

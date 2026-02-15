@@ -176,7 +176,9 @@ dv_has_:
     za: angswh
     zh: 盎司
 ---
-# [[Ounce]] 
+
+# [[Ounce]] ℥ 
+
 
 #is_/same_as :: [[WD~Ounce,48013]] 
 

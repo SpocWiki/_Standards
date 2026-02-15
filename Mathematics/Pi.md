@@ -312,7 +312,9 @@ dv_has_:
     zh_sg: 圆周率
     zh_tw: 圓周率
 ---
-# [[Pi]] 
+
+# [[Pi]] π 
+
 
 #is_/same_as :: [[../WikiData/WD~Pi,167|WD~Pi,167]] 
 

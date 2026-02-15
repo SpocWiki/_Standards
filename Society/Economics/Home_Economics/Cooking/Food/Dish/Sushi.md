@@ -91,7 +91,6 @@ native_label:
 - すし
 - 鮨
 - 鮓
-Unicode_character: "\U0001F363"
 OpenStreetMap_tag: cuisine=sushi
 Dewey_Decimal_Classification: 641.82
 dv_has_:
@@ -221,8 +220,11 @@ dv_has_:
     zh_sg: 寿司
     zh_tw: 壽司
     zu: Isushi
+Unicode_character: 🍣
 ---
-# [[Sushi]] 
+# [[Sushi]] 🍣 
+
+
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Sushi,46383|WD~Sushi,46383]]  
 

@@ -143,7 +143,6 @@ subclass_of:
 - '[[_Standards/WikiData/WD~hobby,47728]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Swimming,14615950]]'
 UMLS_CUI: C0039003
-Unicode_character: "\U0001F3CA"
 dv_has_:
   name_:
     af: swem
@@ -279,6 +278,7 @@ dv_has_:
     yue: 游水
     zh: 人類游泳
     zh_hans: 游泳
+Unicode_character: 🏊
 ---
 # [[Swimming]] 🏊 
 

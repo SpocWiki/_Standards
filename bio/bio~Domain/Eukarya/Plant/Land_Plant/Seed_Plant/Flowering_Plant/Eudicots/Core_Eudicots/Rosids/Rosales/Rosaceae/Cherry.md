@@ -170,7 +170,6 @@ pronunciation_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Ta-%E0%AE%9A%E0%AF%87%E0%AE%B2%E0%AE%BE%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%B4%E0%AE%AE%E0%AF%8D.ogg
 sectional_view: http://commons.wikimedia.org/wiki/Special:FilePath/Cross-section%20cherry.jpg
 subclass_of: "[[_Standards/WikiData/WD~drupe,14712]]"
-Unicode_character: 🍒
 UNII: 93T4562ZI3
 USDA_NDB_number:
   - 9073
@@ -346,6 +345,7 @@ dv_has_:
     zh_hant: 櫻桃
     zh_hk: 車厘子
     zh_mo: 車厘子
+Unicode_character: 🍒
 ---
 # [[Cherry]] 🍒 
 

@@ -322,8 +322,11 @@ aliases:
 - 鞋
 - 鞋子
 - 신발
+Unicode_character: 👞
 ---
-# [[Shoe]] 
+# [[Shoe]] 👞 
+
+
 
 #is_/same_as :: [[WD~Shoe,22676]] 
 

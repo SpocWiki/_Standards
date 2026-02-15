@@ -62,7 +62,6 @@ Dewey_Decimal_Classification:
 Commons_gallery: Chimarrão
 Commons_category: Mate (beverage)
 subreddit: yerbamate
-Unicode_character: "\U0001F9C9"
 dv_has_:
   name_:
     af: mate
@@ -135,8 +134,11 @@ dv_has_:
     zh_hans: 马黛
     zh_hant: 瑪黛
     zh_tw: 瑪黛
+Unicode_character: 🧉
 ---
-# [[Mate(Drink)]] 
+# [[Mate(Drink)]] 🧉 
+
+
 
 #is_/same_as :: [[WD~Mate,203540]] 
 

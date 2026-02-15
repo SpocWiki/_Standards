@@ -379,7 +379,9 @@ dv_has_number_of_group: 13
 dv_has_name_abbreviated: In
 dv_has_number_of_electrons: 49
 ---
-# [[Indium]] 
+# [[Indium]] 銦 
+
+
 
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Indium,1094]] 

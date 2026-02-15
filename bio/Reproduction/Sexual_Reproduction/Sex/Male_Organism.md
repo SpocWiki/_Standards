@@ -146,7 +146,6 @@ short_name:
 - 男
 - 男
 - ♂
-Unicode_character: ♂
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Brown%20Leghorn%20rooster%20in%20Australia.jpg
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/Male%20symbol%20%28heavy%20blue%29.svg
 Commons_category: Males
@@ -310,8 +309,11 @@ dv_has_:
     zh-my: 雄性
     zh_sg: 雄性
     zh_tw: 雄性
+Unicode_character: ♂
 ---
-# [[Male_Organism]] 
+# [[Male_Organism]] ♂ 
+
+
 
 #is_/same_as :: [[WD~Male_organism,44148]] 
 

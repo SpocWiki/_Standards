@@ -465,7 +465,9 @@ dv_has_:
     zh_hant: 雲
     zu: Amafu
 ---
-# [[Cloud]] 
+# [[Cloud]] ☁ 
+
+
 
 #is_/same_as :: [[../../../../WikiData/WD~Cloud,8074|WD~Cloud,8074]] 
 

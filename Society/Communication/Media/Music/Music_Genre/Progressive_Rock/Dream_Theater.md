@@ -100,6 +100,8 @@ aliases:
 - 梦剧院
 - 드림 시어터
 ---
+# [[Dream_Theater]]  
+
 > Dream Theater is an American progressive metal band formed in 1985 in Boston, Massachusetts.  
 > The band comprises John Petrucci (guitar), John Myung (bass), Mike Portnoy (drums), 
 > James LaBrie (vocals) and Jordan Rudess (keyboards).

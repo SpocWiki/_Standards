@@ -502,7 +502,6 @@ has_id_wikidata: Q865
 CIVICUS_Monitor_country_entry: taiwan
 subreddit: taiwan
 GitHub_topic: taiwan
-Unicode_character: "\U0001F1F9\U0001F1FC"
 hashtag:
 - 台灣
 - Taiwan
@@ -957,8 +956,11 @@ Languages:
 - nan
 - hak
 icon: flag-tw
+Unicode_character: 🇹🇼
 ---
-# [[Taiwan]] 
+# [[Taiwan]] 🇹🇼 
+
+
 
 ## [[Taiwan]] has Properties...
 

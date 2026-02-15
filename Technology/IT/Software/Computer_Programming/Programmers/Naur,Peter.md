@@ -77,6 +77,8 @@ dv_has_:
     zh_sg: 彼得·诺尔
     zh_tw: 彼得·諾爾
 ---
+# [[Naur,Peter]]  
+
 #has_/time_/started :: 1928-10-25 
 #has_/time_/started :: 2016-01-03  
 

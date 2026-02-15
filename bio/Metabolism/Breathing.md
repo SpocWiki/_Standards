@@ -253,6 +253,8 @@ dv_has_:
     zh_hans: 呼吸
     zh_hant: 呼吸
 ---
+# [[Breathing]]  
+
 ## #has_/text_of_/abstract 
 
 > **Breathing** (spiration or ventilation) is the rhythmical process of moving air into (inhalation) and out of (exhalation) the lungs to facilitate gas exchange with the internal environment, mostly to flush out carbon dioxide and bring in oxygen.

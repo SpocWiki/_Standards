@@ -182,8 +182,11 @@ aliases:
 - 賽馬
 - 赛马
 - 경마
+Unicode_character: 🏇
 ---
-# [[Horse_Racing]] 
+# [[Horse_Racing]] 🏇 
+
+
 
 #is_/same_as :: [[WD~Horse_racing,187916]] 
 

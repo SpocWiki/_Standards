@@ -522,7 +522,6 @@ birth_rate:
 IAB_code: 1276
 life_expectancy: 53.582
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20C%C3%B4te%20d%27Ivoire.svg
-Unicode_character: "\U0001F1E8\U0001F1EE"
 EPSG_CRS: 6226
 OmegaWiki_Defined_Meaning: 7929
 INSEE_countries_and_foreign_territories_code: 99326
@@ -913,8 +912,11 @@ dv_is_same_as:
 - "[[/_private/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.private|Cote_d'ivoire.private]]"
 - "[[/_personal/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.personal|Cote_d'ivoire.personal]]"
 - "[[/_secret/Earth/Continent/Africa/Africa~West/Cote_d'ivoire.secret|Cote_d'ivoire.secret]]"
+Unicode_character: 🇨🇮
 ---
-# [[Cote_d'ivoire]] 
+# [[Cote_d'ivoire]] 🇨🇮 
+
+
 
 ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3`

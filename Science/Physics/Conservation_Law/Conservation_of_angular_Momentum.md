@@ -167,6 +167,8 @@ aliases:
 - 角運動量
 - 각운동량
 ---
+# [[Conservation_of_angular_Momentum]]  
+
 ## #has_/text_of_/abstract 
 
 > Angular momentum (sometimes called moment of momentum or rotational momentum) 

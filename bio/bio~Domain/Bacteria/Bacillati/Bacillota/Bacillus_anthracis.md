@@ -85,6 +85,8 @@ aliases:
 - 炭疽菌
 - 탄저균
 ---
+# [[Bacillus_anthracis]]  
+
 ## #has_/text_of_/abstract 
 
 > Bacillus anthracis is a gram-positive and rod-shaped bacterium that causes anthrax, 

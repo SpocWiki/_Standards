@@ -106,7 +106,6 @@ Nomenclature_for_Museum_Cataloging: 8139
 OmegaWiki_Defined_Meaning: 456348
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Thorsberg%20Shields.jpg
 Commons_category: Shields
-Unicode_character: "\U0001F6E1"
 dv_has_:
   name_:
     af: skild
@@ -221,6 +220,7 @@ dv_has_:
     zh_hk: 盾
     zh_sg: 盾
     zh_tw: 盾
+Unicode_character: 🛡
 ---
 # [[Shield]] 🛡 
 

@@ -79,6 +79,8 @@ aliases:
 - 文脈自由文法
 - 문맥 자유 문법
 ---
+# [[Context-free_grammar]]  
+
 > In formal language theory, a **Context-free grammar** (CFG) is a formal grammar whose production rules 
 >
 > can be applied to a nonterminal symbol regardless of its context.

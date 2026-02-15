@@ -299,6 +299,8 @@ dv_has_:
     zh_sg: 孙中山
     zh_tw: 孫中山
 ---
+# [[Sun,Yat-sen]]  
+
 ## #has_/text_of_/abstract 
 
 > **Sun Yat-sen** (; 12 November 1866 – 12 March 1925) was a Chinese physician, revolutionary, statesman, 

@@ -301,6 +301,8 @@ dv_has_:
     zh_hant: 思想
     zh_tw: 思想
 ---
+# [[Thought]]  
+
 ## #has_/text_of_/abstract 
 
 > In their most common sense, the terms **Thought** and thinking refer to cognitive processes that can happen independently of sensory stimulation. Their most paradigmatic forms are judging, reasoning, concept formation, problem solving, and deliberation. But other mental processes, like considering an idea, memory, or imagination, are also often included. These processes can happen internally independent of the sensory organs, unlike perception. But when understood in the widest sense, any mental event may be understood as a form of thinking, including perception and unconscious mental processes. In a slightly different sense, the term thought refers not to the mental processes themselves but to mental states or systems of ideas brought about by these processes.

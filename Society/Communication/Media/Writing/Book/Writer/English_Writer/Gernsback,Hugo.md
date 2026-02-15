@@ -81,6 +81,8 @@ dv_has_:
     zh_sg: 雨果·根斯巴克
     zh_tw: 雨果·根斯巴克
 ---
+# [[Gernsback,Hugo]]  
+
 #has_/time_/started ::  1884-08-16 
 #has_/time_/stopped ::  1967-08-19 
 #has_/place_/stopped :: [[New_York,City]]

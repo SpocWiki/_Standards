@@ -125,7 +125,6 @@ icon: http://commons.wikimedia.org/wiki/Special:FilePath/Q189760%20noun%2084860%
 Iconclass_notation: 46A635
 MeSH_tree_code: I01.738.902
 IPTC_NewsCode: mediatopic/20000586
-Unicode_character: "\U0001F5F3"
 dv_has_:
   name_:
     ar: تصويت
@@ -234,8 +233,11 @@ dv_has_:
     zh_sg: 投票
     zh_tw: 投票
     zu: Ukuvota
+Unicode_character: 🗳
 ---
-# [[Voting]] 
+# [[Voting]] 🗳 
+
+
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Voting,189760|WD~Voting,189760]]  
 

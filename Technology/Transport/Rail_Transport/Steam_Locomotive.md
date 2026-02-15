@@ -159,8 +159,11 @@ aliases:
 - 蒸汽機車
 - 蒸汽火車
 - 증기 기관차
+Unicode_character: 🚂
 ---
-# [[Steam_Locomotive]] 
+# [[Steam_Locomotive]] 🚂 
+
+
 
 #is_/same_as :: [[../../../WikiData/WD~Steam_locomotive,171043|WD~Steam_locomotive,171043]]  
 

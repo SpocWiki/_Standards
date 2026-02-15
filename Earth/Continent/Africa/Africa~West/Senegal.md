@@ -444,7 +444,6 @@ total_fertility_rate: 5.09
 type: Country
 UMLS_CUI: C0036644
 unemployment_rate: 10
-Unicode_character: "\U0001F1F8\U0001F1F3"
 urban_population:
 - 7909390
 - 7624852
@@ -818,8 +817,11 @@ dv_is_same_as:
 - '[[/_personal/Earth/Continent/Africa/Africa~West/Senegal.personal|Senegal.personal]]'
 - '[[/_secret/Earth/Continent/Africa/Africa~West/Senegal.secret|Senegal.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Senegal
+Unicode_character: 🇸🇳
 ---
-# [[Senegal]] 
+# [[Senegal]] 🇸🇳 
+
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

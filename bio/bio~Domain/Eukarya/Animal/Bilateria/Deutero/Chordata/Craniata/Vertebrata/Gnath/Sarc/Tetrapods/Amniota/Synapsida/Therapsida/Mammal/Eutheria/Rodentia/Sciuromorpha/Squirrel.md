@@ -159,7 +159,6 @@ taxon_common_name: ekornfamilien
 Commons_gallery: Sciuridae
 Commons_category: Sciuridae
 taxon_name: Sciuridae
-Unicode_character: "\U0001F43F"
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Sciuridae.jpg
 small_logo_or_icon: http://commons.wikimedia.org/wiki/Special:FilePath/Octicons-squirrel.svg
 EPPO_Code: 1SCIUF
@@ -332,6 +331,7 @@ dv_has_:
     zh_hant: 松鼠
     zh_tw: 松鼠科
     zu: Intshindane
+Unicode_character: 🐿
 ---
 # [[Squirrel]] 🐿 
  

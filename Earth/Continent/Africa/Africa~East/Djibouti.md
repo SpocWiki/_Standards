@@ -733,7 +733,6 @@ pronunciation_audio:
 - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%9C%E0%A6%BF%E0%A6%AC%E0%A7%81%E0%A6%A4%E0%A6%BF.wav
 official_website: https://www.presidence.dj/
 country_calling_code: 253
-Unicode_character: "\U0001F1E9\U0001F1EF"
 Commons_category: Djibouti
 subreddit: Djibouti
 hashtag: Djibouti
@@ -766,10 +765,10 @@ Languages:
 - ar
 - so-DJ
 - aa
+Unicode_character: 🇩🇯
 ---
-# [[Djibouti]] 
 
-## [[Djibouti]] has Properties... 
+# [[Djibouti]] 🇩🇯 has Properties... 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

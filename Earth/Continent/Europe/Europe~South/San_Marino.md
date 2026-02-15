@@ -522,8 +522,11 @@ dv_is_same_as:
 - '[[/_personal/Earth/Continent/Europe/Europe~South/San_Marino.personal|San_Marino.personal]]'
 - '[[/_secret/Earth/Continent/Europe/Europe~South/San_Marino.secret|San_Marino.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-San_Marino
+Unicode_character: 🇸🇲
 ---
-# [[San_Marino]] 
+# [[San_Marino]] 🇸🇲 
+
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

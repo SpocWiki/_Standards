@@ -150,7 +150,9 @@ dv_has_:
     zh_hant: 梁龍
     zh_tw: 梁龍屬
 ---
-# [[Diplodocus]] 
+# [[Diplodocus]] 🦕 
+
+
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Diplodocus,14330|WD~Diplodocus,14330]] 
 

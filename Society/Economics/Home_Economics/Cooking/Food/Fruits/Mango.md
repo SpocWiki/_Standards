@@ -148,7 +148,6 @@ Wolfram_Language_entity_code: Entity["FoodType", "Mango"]
 UNII: I629I3NR86
 Colon_Classification: J3751
 Baidu_Tieba_name: 芒果
-Unicode_character: "\U0001F96D"
 dv_has_:
   name_:
     ace: mamplam
@@ -343,6 +342,7 @@ dv_has_:
     zh_sg: 芒果
     zh_tw: 芒果
     zu: i-mango
+Unicode_character: 🥭
 ---
 # [[Mango]] 🥭 
 

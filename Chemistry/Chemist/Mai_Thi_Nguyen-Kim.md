@@ -124,6 +124,8 @@ aliases:
 - マイ・ティ・グエン＝キム
 - 阮津玫
 ---
+# [[Mai_Thi_Nguyen-Kim]]  
+
 has_time_started = `=this.dv_has_time_started` 
 #has_/age_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().dv_has_time_started)/1000/60/60/24/365.2425)`
 

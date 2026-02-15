@@ -80,6 +80,8 @@ aliases:
 - 微小RNA
 - 微核糖核酸
 ---
+# [[Micro-RNA]]  
+
 #is_/different_from :: [[mRNA(messenger_RNA)]]  
 
 ## #has_/text_of_/abstract 

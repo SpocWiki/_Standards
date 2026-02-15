@@ -158,6 +158,8 @@ aliases:
 - 謝拉力圖
 - 재러드 레토
 ---
+# [[Leto,Jared]]  
+
 #has_/time_/started :: 1971-12-26 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 

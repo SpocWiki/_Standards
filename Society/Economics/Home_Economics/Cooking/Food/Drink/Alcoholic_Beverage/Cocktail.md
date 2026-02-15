@@ -72,7 +72,6 @@ opposite_of: '[[_Standards/WikiData/WD~non_alcoholic_mixed_drink,125078160]]'
 IMDb_keyword: cocktail
 Commons_gallery: Cocktail
 Commons_category: Cocktails
-Unicode_character: "\U0001F378"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cocktail1.jpg
 P8189: 987007284048705200
 subreddit: cocktails
@@ -174,6 +173,7 @@ dv_has_:
     zh_hk: 雞尾酒
     zh_sg: 鸡尾酒
     zh_tw: 雞尾酒
+Unicode_character: 🍸
 ---
 # [[Cocktail]] 🍸 
 

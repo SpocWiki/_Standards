@@ -109,7 +109,6 @@ aliases:
 - 零毫子
 - 동전
 has_id_wikidata: Q41207
-Unicode_character: "\U0001FA99"
 has_part_s_:
 - '[[_Standards/WikiData/WD~obverse,257418]]'
 - '[[_Standards/WikiData/WD~coin_edge,308800]]'
@@ -314,6 +313,7 @@ dv_has_:
     zh_hant: 硬幣
     zh_hk: 硬幣
     zh_tw: 硬幣
+Unicode_character: 🪙
 ---
 # [[Coin]] 🪙 
 

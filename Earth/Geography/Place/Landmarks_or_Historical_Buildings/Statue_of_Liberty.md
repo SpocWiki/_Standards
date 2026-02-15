@@ -275,7 +275,6 @@ tags:
 title: Statue_of_Liberty
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Statue_of_Liberty,106618517]]'
 type: private_note
-Unicode_character: "\U0001F5FD"
 U_S_National_Archives_Identifier: 10643327
 view: http://commons.wikimedia.org/wiki/Special:FilePath/New%20York%20City%2C%20Manhattan%20Downtown.JPG
 visitors_per_year: 4200000
@@ -440,6 +439,7 @@ dv_has_:
     zh_hans: 自由女神像
     zh_hk: 自由女神像
     zh_tw: 自由女神像
+Unicode_character: 🗽
 ---
 # [[Statue_of_Liberty]] 🗽 
 

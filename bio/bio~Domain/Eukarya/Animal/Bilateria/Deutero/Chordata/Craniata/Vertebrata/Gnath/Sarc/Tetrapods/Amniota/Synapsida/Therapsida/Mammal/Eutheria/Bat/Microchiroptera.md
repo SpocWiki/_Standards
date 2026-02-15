@@ -71,7 +71,6 @@ award_received: '[[_Standards/WikiData/WD~Animal_of_the_Year,109758329]]'
 instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
 ITIS_TSN: 552302
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Big-eared-townsend-fledermaus.jpg
-Unicode_character: "\U0001F987"
 Commons_category: Microchiroptera
 taxon_name: Microchiroptera
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Ultrasonic%20bat%20calls.ogg
@@ -169,6 +168,7 @@ dv_has_:
     zh_cn: 小蝙蝠亚目
     zh_hans: 小蝙蝠亚目
     zh_tw: 小蝙蝠亞目
+Unicode_character: 🦇
 ---
 # [[Microchiroptera]] 🦇 
 

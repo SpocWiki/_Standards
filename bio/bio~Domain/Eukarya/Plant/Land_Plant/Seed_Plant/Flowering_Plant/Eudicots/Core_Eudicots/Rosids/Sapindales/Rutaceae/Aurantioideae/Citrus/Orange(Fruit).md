@@ -228,7 +228,6 @@ label_in_sign_language: http://commons.wikimedia.org/wiki/Special:FilePath/Apels
 exact_match:
 - http://wordnet-rdf.princeton.edu/wn30/07747607-n
 - http://wordnet-rdf.princeton.edu/wn31/107678230-n
-Unicode_character: "\U0001F34A"
 OKPD_code_of_the_good_or_service: 01.13.22.110
 OKPD2_product_code:
 - 01.23.13
@@ -453,6 +452,7 @@ dv_has_:
     zh_sg: 橙
     zh_tw: 橙
     zu: INtshungwa
+Unicode_character: 🍊
 ---
 # [[Orange(Fruit)]] 🍊 
 

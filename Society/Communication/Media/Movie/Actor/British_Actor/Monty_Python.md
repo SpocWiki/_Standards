@@ -121,7 +121,7 @@ dv_has_:
 
 > Monty Python (also collectively known as the Pythons) 
 > were a British comedy troupe formed in 1969 
-> consisting of [[Chapman,Graham]], [[Cleese,John]], [[Gilliam,Terry]], [[Idle,Eric]], [[Jones,Terry]], and [[Palin,Michael]]. 
+> consisting of [[Chapman,Graham]], [[Cleese,John]], [[../../Movie-Director/Gilliam,Terry]], [[Idle,Eric]], [[Jones,Terry]], and [[Palin,Michael]]. 
 > 
 > The group came to prominence for the sketch comedy series Monty Python's Flying Circus, 
 > which aired on the BBC from 1969 to 1974. 

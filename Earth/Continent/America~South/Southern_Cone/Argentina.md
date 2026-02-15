@@ -981,6 +981,7 @@ dv_is_same_as:
   - "[[/_personal/Earth/Continent/America~South/Southern_Cone/Argentina.personal|Argentina.personal]]"
   - "[[/_secret/Earth/Continent/America~South/Southern_Cone/Argentina.secret|Argentina.secret]]"
 ---
+
 # [[Argentina]] 🇦🇷 
 
 For more Details, check out this Repository into this Subfolder: 

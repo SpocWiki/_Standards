@@ -190,8 +190,11 @@ dv_has_:
     zh: 长颈鹿属
     zh_cn: 长颈鹿属
     zh_tw: 長頸鹿屬
+Unicode_character: 🦒
 ---
-# Giraffa
+# [[Giraffe]] 🦒 
+
+
 
 Giraffes 
 

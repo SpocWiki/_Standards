@@ -365,7 +365,6 @@ top_level_Internet_domain: '[[_Standards/WikiData/WD~.gm,41758]]'
 total_fertility_rate: 5.717
 type: Country
 UMLS_CUI: C0016993
-Unicode_character: "\U0001F1EC\U0001F1F2"
 urban_population:
 - 1727830
 - 1553776
@@ -737,8 +736,11 @@ dv_is_same_as:
 - '[[/_personal/Earth/Continent/Africa/Africa~West/Gambia.personal|Gambia.personal]]'
 - '[[/_secret/Earth/Continent/Africa/Africa~West/Gambia.secret|Gambia.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Gambia
+Unicode_character: 🇬🇲
 ---
-# [[Gambia]] 
+# [[Gambia]] 🇬🇲 
+
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

@@ -834,6 +834,7 @@ dv_is_same_as:
   - "[[/_personal/Earth/Continent/Africa/Africa~West/Cape_Verde.personal|Cape_Verde.personal]]"
   - "[[/_secret/Earth/Continent/Africa/Africa~West/Cape_Verde.secret|Cape_Verde.secret]]"
 ---
+
 # [[Cape_Verde]] 🇨🇻 
 
 For more Details, check out this Repository into this Subfolder: 

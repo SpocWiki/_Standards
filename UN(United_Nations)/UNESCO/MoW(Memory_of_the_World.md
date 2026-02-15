@@ -133,6 +133,8 @@ dv_has_:
     zh-sg: 世界记忆项目
     zh-tw: 世界記憶項目
 ---
+# [[MoW(Memory_of_the_World]]  
+
 > [[../UNESCO|UNESCO]]'s **Memory of the World** (MoW) Programme is an international initiative 
 > launched to safeguard the documentary heritage of humanity 
 > against collective amnesia, neglect, decay over time and climatic conditions, as well as deliberate destruction. 

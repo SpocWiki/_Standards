@@ -294,7 +294,9 @@ dv_has_:
     zh_sg: 平方米
     zh_tw: 平方公尺
 ---
-# [[Unit~Square_Meter]] 
+
+# [[Unit~Square_Meter]] ㎡ 
+
 
 #is_/same_as :: [[../../../WikiData/WD~Square_metre,25343|WD~Square_metre,25343]]  
 

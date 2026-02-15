@@ -111,6 +111,8 @@ dv_has_:
     vmf: Nancy Wilson
     zh: 萳西·威爾森 (搖滾歌手)
 ---
+# [[Wilson,Nancy]]  
+
 #is_/same_as :: [[WD~Nancy_Wilson,263772]] 
 
 ## #has_/text_of_/abstract 

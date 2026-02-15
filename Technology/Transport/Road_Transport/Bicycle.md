@@ -283,7 +283,6 @@ subreddit:
 - bicycling
 time_of_discovery_or_invention: 1885
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Bicycle,20879015]]'
-Unicode_character: "\U0001F6B2"
 UNSPSC_Code: 25161507
 used_by:
 - '[[_Standards/WikiData/WD~paramedic,330204]]'
@@ -521,6 +520,7 @@ dv_has_:
     zh-my: 自行车
     zh-sg: 自行车
     zh-tw: 腳踏車
+Unicode_character: 🚲
 ---
 # [[Bicycle]] 🚲 
 

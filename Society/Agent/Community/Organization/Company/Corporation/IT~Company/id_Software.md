@@ -75,6 +75,8 @@ dv_has_:
     zh_sg: id Software
     zh_tw: id Software
 ---
+# [[id_Software]]  
+
 ## #has_/text_of_/abstract 
 
 > **id Software** LLC  is an American video game developer based in Richardson, Texas. 

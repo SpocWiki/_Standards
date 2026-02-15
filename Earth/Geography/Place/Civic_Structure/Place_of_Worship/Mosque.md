@@ -186,7 +186,6 @@ UNSPSC_Code: 30223003
 Wolfram_Language_entity_code: Entity["Word", "mosque"]
 IPTC_NewsCode: mediatopic/20000699
 GeoNames_feature_code: S.MSQE
-Unicode_character: "\U0001F54C"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Edited%20Great%20Mosque%20of%20Mecca1%205-2019-ccsa4.0%20%28cropped%29.jpg
 image_of_interior: http://commons.wikimedia.org/wiki/Special:FilePath/Interior%20of%20Aya%20Sofia%20Church-Mosque%20-%20Sultanahmet%20District%20-%20Istanbul%20Turkey%20-%2002%20%285722499307%29.jpg
 nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Blue%20Mosque%20-%204.jpg
@@ -403,6 +402,7 @@ dv_is_same_as:
 - '[[/_private/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mosque.private|Mosque.private]]'
 - '[[/_personal/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mosque.personal|Mosque.personal]]'
 - '[[/_secret/Earth/Geography/Place/Civic_Structure/Place_of_Worship/Mosque.secret|Mosque.secret]]'
+Unicode_character: 🕌
 ---
 # [[Mosque]] 🕌 
 

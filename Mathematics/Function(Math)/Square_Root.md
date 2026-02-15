@@ -243,7 +243,9 @@ dv_has_:
     zh_sg: 平方根
     zh_tw: 平方根
 ---
-# [[Square_Root]] 
+
+# [[Square_Root]] √ 
+
 
 #is_/same_as :: [[../../WikiData/WD~Square_root,134237|WD~Square_root,134237]]  
 

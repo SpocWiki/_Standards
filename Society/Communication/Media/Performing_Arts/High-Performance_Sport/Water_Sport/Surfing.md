@@ -87,7 +87,6 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/OC-surf-c1.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Surfer%20at%20the%20Cayucos%20Pier%2C%20Cayucos%2C%20CA.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Surfing%20competition%20at%20Salt%20Creek%20Beach%2C%20Dana%20Point%2C%20California%2C%20USA%20as%20viewed%20from%20a%20FPV%20drone.webm
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Surfing%20pictogram.svg
-Unicode_character: "\U0001F3C4"
 U_S_National_Archives_Identifier: 10642834
 IPTC_NewsCode: mediatopic/20001070
 Krugosvet_article_archived_: sport/serfing
@@ -196,8 +195,11 @@ dv_has_:
     zh_hk: 衝浪
     zh_sg: 冲浪
     zh_tw: 衝浪
+Unicode_character: 🏄
 ---
-# [[Surfing]] 
+# [[Surfing]] 🏄 
+
+
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Surfing,159992|WD~Surfing,159992]]  
 

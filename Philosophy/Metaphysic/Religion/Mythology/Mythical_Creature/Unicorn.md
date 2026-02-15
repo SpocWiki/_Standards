@@ -111,7 +111,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Unicorn%203%20%28PSF%2
 Dewey_Decimal_Classification:
 - 398.2454
 - 398.469
-Unicode_character: "\U0001F984"
 dv_has_:
   name_:
     af: Eenhoring
@@ -217,8 +216,11 @@ dv_has_:
     zh: 独角兽
     zh_hans: 独角兽
     zh_hant: 獨角獸
+Unicode_character: 🦄
 ---
-# [[Unicorn]] 
+# [[Unicorn]] 🦄 
+
+
 
 #is_/same_as :: [[../../../../../WikiData/WD~Unicorn,7246|WD~Unicorn,7246]]  
 

@@ -277,7 +277,6 @@ thermal_conductivity: 84
 time_of_discovery_or_invention: -5000
 type: Element
 UMLS_CUI: C0302583
-Unicode_character: 鐵
 UNII: E1UOL152H7
 UNSPSC_Code: 11101713
 Wolfram_Language_entity_code: Entity["Mineral", "Iron"]
@@ -606,8 +605,11 @@ dv_has_number_of_period: 4
 dv_has_name_abbreviated: Fe
 dv_has_number_of_electrons: 26
 dv_has_number_of_group: 8
+Unicode_character: 鐵
 ---
-# [[Iron]] 
+# [[Iron]] 鐵 
+
+
 
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Iron,677]] 

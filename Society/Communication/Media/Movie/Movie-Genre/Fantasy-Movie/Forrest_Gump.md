@@ -166,6 +166,8 @@ aliases:
 - 阿甘正傳
 - 포레스트 검프
 ---
+# [[Forrest_Gump]]  
+
 ## #has_/text_of_/abstract 
 
 > Forrest Gump is a 1994 American comedy-drama film 

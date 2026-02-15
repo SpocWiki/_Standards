@@ -1101,7 +1101,6 @@ urban_population:
 U_S_National_Archives_Identifier: 10045318
 population: 9599744
 PM20_geo_code: A40d
-Unicode_character: "\U0001F1ED\U0001F1FA"
 native_label: Magyarország
 coordinates_of_westernmost_point: Point(16.11351013 46.86864162)
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Hungary.svg
@@ -1109,10 +1108,10 @@ coordinate_location: Point(19.0 47.0)
 inception: 1000-12-01
 has_time_started: 1000-12-01
 Image_Archive_Herder_Institute: Q28
+Unicode_character: 🇭🇺
 ---
-# [[Hungary]] 
 
-## [[Hungary]] has Properties... 
+# [[Hungary]] 🇭🇺 has Properties... 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

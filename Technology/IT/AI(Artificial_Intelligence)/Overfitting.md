@@ -57,6 +57,8 @@ aliases:
 - 過適
 - 과적합
 ---
+# [[Overfitting]]  
+
 Overfitting is [[rote Learning]] 
 and arguable less efficient than comprehension and abstraction. 
 

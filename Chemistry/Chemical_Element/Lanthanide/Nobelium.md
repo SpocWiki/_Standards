@@ -335,7 +335,8 @@ dv_has_number_of_group: 36
 dv_has_name_abbreviated: No
 dv_has_number_of_electrons: 102
 ---
-# [[Nobelium]] 
+
+# [[Nobelium]] 鍩 
 
 
 ## #has_/properties 

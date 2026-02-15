@@ -154,6 +154,8 @@ dv_has_:
     zh_tw: 雷克斯·哈里遜
     zu: Rex Harrison
 ---
+# [[Harrison,Rex]]  
+
 ## #has_/text_of_/abstract 
 
 > Sir Reginald Carey "Rex" Harrison (5 March 1908 – 2 June 1990) was an English actor. 

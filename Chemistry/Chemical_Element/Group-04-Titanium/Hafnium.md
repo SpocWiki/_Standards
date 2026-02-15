@@ -133,7 +133,6 @@ time_of_discovery_or_invention: 1922
 time_weighted_average_exposure_limit: 0.5
 type: Element
 UMLS_CUI: C0018488
-Unicode_character: 鉿
 UNII: X71938L1DO
 vapor_pressure: 0
 ZVG_number: 7720
@@ -371,8 +370,11 @@ dv_has_value_for_energy_form_kj_mol: 575
 dv_has_number_of_period: 6
 dv_has_number_of_group: 4
 dv_has_number_of_electrons: 72
+Unicode_character: 鉿
 ---
-# [[Hafnium]] 
+# [[Hafnium]] 鉿 
+
+
 
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Hafnium,1119]] 

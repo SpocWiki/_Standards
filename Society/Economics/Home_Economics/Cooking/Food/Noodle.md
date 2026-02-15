@@ -105,7 +105,6 @@ has_part_s_:
 carbon_footprint: 1
 partially_coincident_with: '[[_Standards/WikiData/WD~pasta,178]]'
 Commons_category: Noodles
-Unicode_character: "\U0001F35C"
 booru_tag: noodles
 Danbooru_tag: noodles
 hashtag: noodles
@@ -223,6 +222,7 @@ dv_has_:
     zh_hk: 麵條
     zh_sg: 面条
     zh_tw: 麵條
+Unicode_character: 🍜
 ---
 # [[Noodle]] 🍜 
 

@@ -62,6 +62,8 @@ dv_has_:
     vi: Gap Inc.
     zh: 蓋璞
 ---
+# [[Gap_Inc]]  
+
 ## #has_/text_of_/abstract 
 
 > The Gap, Inc. is an American multinational clothing and accessories retailer. 

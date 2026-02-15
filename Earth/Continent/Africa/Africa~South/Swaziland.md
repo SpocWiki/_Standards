@@ -291,7 +291,6 @@ nominal_GDP:
 - 4854167638
 - 4748702401
 PM20_geo_code: C97
-Unicode_character: "\U0001F1F8\U0001F1FF"
 ISO_3166_1_alpha_3_code: SWZ
 ITU_letter_code: SWZ
 IOC_country_code: SWZ
@@ -675,8 +674,11 @@ dv_is_same_as:
 - '[[/_private/Earth/Continent/Africa/Africa~South/Swaziland.private|Swaziland.private]]'
 - '[[/_personal/Earth/Continent/Africa/Africa~South/Swaziland.personal|Swaziland.personal]]'
 - '[[/_secret/Earth/Continent/Africa/Africa~South/Swaziland.secret|Swaziland.secret]]'
+Unicode_character: 🇸🇿
 ---
-# [[Swaziland]] 
+# [[Swaziland]] 🇸🇿 
+
+
 
 
 For more Details, check out this Repository into this Subfolder: 

@@ -227,7 +227,6 @@ exact_match:
 sequenced_genome_URL:
 - http://www.ensembl.org/Ursus_maritimus/
 - https://www.dnazoo.org/assemblies/Ursus_maritimus/
-Unicode_character: "\U0001F43B❄️"
 dv_has_:
   name_:
     af: ysbeer
@@ -393,6 +392,7 @@ dv_has_:
     zh_cn: 北极熊
     zh_hans: 北极熊
     zh_tw: 北極熊
+Unicode_character: 🐻❄️
 ---
 # [[Polar_Bear]] 🐻❄️ 
 

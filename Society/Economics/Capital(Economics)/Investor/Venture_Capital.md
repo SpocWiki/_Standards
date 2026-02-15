@@ -117,6 +117,8 @@ dv_has_:
     zh_sg: 风险投资
     zh_tw: 創業投資
 ---
+# [[Venture_Capital]]  
+
 One Problem of EarlyBird Venture Capital Investors is the asymmetric Cost Matrix, i.e. 
 - it is much more 'expensive' to overlook an Opportunity 
 - than to lose money by investing wrong. 

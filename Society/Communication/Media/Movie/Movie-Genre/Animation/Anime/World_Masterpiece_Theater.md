@@ -35,6 +35,8 @@ dv_has_:
     zh_hant: 世界名作劇場
     zh_hk: 世界名作劇場
 ---
+# [[World_Masterpiece_Theater]]  
+
 > **World Masterpiece Theater** (世界名作劇場, Sekai Meisaku Gekijō) is a Japanese TV animated series 
 > that showcased an animated version of a different classical book or story 
 > each year from 19:30 to 20:00 on Sunday on [[Fuji_TV]]. 

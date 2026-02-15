@@ -63,6 +63,8 @@ dv_has_:
     zh_hant: 北海小英雄
     zh_hk: 北海小英雄
 ---
+# [[Wickie_und_die_starken_Männer(Anime)]]  
+
 This was the first [[../../../../../../../Earth/Continent/Asia/Asia~East/Japan|Japan]]ese Production that [[ZDF]] commissioned
 and was followed by . 
 

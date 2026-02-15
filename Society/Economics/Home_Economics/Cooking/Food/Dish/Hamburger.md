@@ -120,7 +120,6 @@ native_label: Hamburger
 spoken_text_audio:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Hamburger.ogg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Hamburger-article.ogg
-Unicode_character: "\U0001F354"
 U_S_National_Archives_Identifier: 10647900
 Commons_category: Hamburgers
 dv_has_:
@@ -258,8 +257,11 @@ dv_has_:
     zh-my: 汉堡
     zh_sg: 汉堡
     zh_tw: 漢堡
+Unicode_character: 🍔
 ---
-# [[Hamburger]] 
+# [[Hamburger]] 🍔 
+
+
 
 #is_/same_as :: [[WD~Hamburger,6663]] 
 

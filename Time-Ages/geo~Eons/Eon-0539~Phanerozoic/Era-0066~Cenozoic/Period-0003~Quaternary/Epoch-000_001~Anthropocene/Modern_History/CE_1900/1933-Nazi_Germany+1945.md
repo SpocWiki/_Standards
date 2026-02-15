@@ -491,6 +491,8 @@ dv_is_same_as:
 - '[[/_personal/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945.personal|1933-Nazi_Germany+1945.personal]]'
 - '[[/_secret/Time-Ages/geo~Eons/Eon-0539~Phanerozoic/Era-0066~Cenozoic/Period-0003~Quaternary/Epoch-000_001~Anthropocene/Modern_History/CE_1900/1933-Nazi_Germany+1945.secret|1933-Nazi_Germany+1945.secret]]'
 ---
+# [[1933-Nazi_Germany+1945]]  
+
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration :: `=default(this.has_time_stopped,date(now)) - this.has_time_started` 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Nazi_Germany,7318]] 

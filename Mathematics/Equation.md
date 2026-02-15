@@ -280,6 +280,8 @@ dv_has_:
     zh_hans: 方程
     zh_hant: 方程
 ---
+# [[Equation]]  
+
 ## #has_/text_of_/abstract 
 
 > In mathematics, an **Equation** is a mathematical formula that expresses the equality of two expressions, by connecting them with the equals sign =. The word equation and its cognates in other languages may have subtly different meanings; for example, in French an équation is defined as containing one or more variables, while in English, any well-formed formula consisting of two expressions related with an equals sign is an equation.

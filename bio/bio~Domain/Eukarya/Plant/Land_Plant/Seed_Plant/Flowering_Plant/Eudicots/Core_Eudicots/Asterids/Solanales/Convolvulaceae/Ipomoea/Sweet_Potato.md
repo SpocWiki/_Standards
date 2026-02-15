@@ -205,7 +205,6 @@ pronunciation_audio:
 - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Titodutta-%E0%A6%AE%E0%A6%BF%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A6%BF%20%E0%A6%86%E0%A6%B2%E0%A7%81.wav
 - http://commons.wikimedia.org/wiki/Special:FilePath/Nl-zoete%20aardappel.ogg
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=20142
-Unicode_character: "\U0001F360"
 dv_has_:
   name_:
     af: Patats
@@ -374,6 +373,7 @@ dv_has_:
     zh_hans: 番薯
     zh_hant: 番薯
     zh_tw: 甘藷
+Unicode_character: 🍠
 ---
 # [[Sweet_Potato]] 🍠 
 

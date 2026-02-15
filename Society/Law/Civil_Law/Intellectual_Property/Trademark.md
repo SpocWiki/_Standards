@@ -231,7 +231,9 @@ dv_has_:
     zh_sg: 商标
     zh_tw: 商標
 ---
-# [[Trademark]] 
+# [[Trademark]] ™ 
+
+
 
 #is_/same_as :: [[_Standards/WikiData/WD~trademark,167270]] 
 

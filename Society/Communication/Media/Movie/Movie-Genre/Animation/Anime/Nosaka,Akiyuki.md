@@ -50,6 +50,8 @@ aliases:
 - 野坂昭如
 - 노사카 아키유키
 ---
+# [[Nosaka,Akiyuki]]  
+
 ## #has_/text_of_/abstract 
 
 > **Akiyuki Nosaka** (野坂 昭如, Nosaka Akiyuki, October 10, 1930 – December 9, 2015) 

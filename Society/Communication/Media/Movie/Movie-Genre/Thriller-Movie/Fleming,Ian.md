@@ -189,6 +189,8 @@ dv_has_:
     yue: 伊恩法蘭明
     zh: 伊恩·佛萊明
 ---
+# [[Fleming,Ian]]  
+
 #has_/time_/started :: 1908-05-28
 #has_/time_/stopped  :: 1964-08-12 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

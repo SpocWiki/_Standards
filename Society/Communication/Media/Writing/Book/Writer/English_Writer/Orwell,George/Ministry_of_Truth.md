@@ -35,6 +35,8 @@ dv_has_:
     uk: Міністерства в тисяча дев'ятсот вісімдесят четвертому
     zh: 大洋国政府部门
 ---
+# [[Ministry_of_Truth]]  
+
 ## #has_/text_of_/abstract 
 
 > The **Ministry of Truth**, the Ministry of Peace, the Ministry of Love, and the Ministry of Plenty 

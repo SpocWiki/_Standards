@@ -352,7 +352,6 @@ coordinates_of_southernmost_point: Point(35.0973 -17.1295)
 coordinate_location: Point(34.0 -13.0)
 Dewey_Decimal_Classification: 2--6897
 coordinates_of_northernmost_point: Point(33.0 -9.37)
-Unicode_character: "\U0001F1F2\U0001F1FC"
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Malawi.svg
 coordinates_of_easternmost_point: Point(35.9185 -14.8954)
 location:
@@ -738,8 +737,11 @@ dv_is_same_as:
 - '[[/_personal/Earth/Continent/Africa/Africa~East/Malawi.personal|Malawi.personal]]'
 - '[[/_secret/Earth/Continent/Africa/Africa~East/Malawi.secret|Malawi.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Malawi
+Unicode_character: 🇲🇼
 ---
-# [[Malawi]] 
+# [[Malawi]] 🇲🇼 
+
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

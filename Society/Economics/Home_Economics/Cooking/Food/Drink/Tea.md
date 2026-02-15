@@ -454,7 +454,9 @@ dv_has_:
     zh_tw: 茶
     zu: itiye
 ---
-# [[Tea]] ☕ 
+# [[Tea]] 🍵 
+
+
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Tea,6097|WD~Tea,6097]] 
 

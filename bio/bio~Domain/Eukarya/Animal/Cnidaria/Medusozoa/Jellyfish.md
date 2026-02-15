@@ -104,7 +104,6 @@ pronunciation_audio:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Ru-%D0%BC%D0%B5%D0%B4%D1%83%D0%B7%D0%B0.ogg
 - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Mila%20Rose%20L.%20%28BiblioCanet66%29-m%C3%A9duse.wav
 - http://commons.wikimedia.org/wiki/Special:FilePath/Ru-%D0%BC%D0%B5%D0%B4%D1%83%CC%81%D0%B7%D0%B0.ogg
-Unicode_character: "\U0001FABC"
 Commons_gallery: Jellyfish
 Commons_category: Jellyfish
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Jelly%20cc11.jpg
@@ -230,6 +229,7 @@ dv_has_:
     zh: 水母
     zh_cn: 水母
     zh_hans: 水母
+Unicode_character: 🪼
 ---
 # [[Jellyfish]] 🪼 
 

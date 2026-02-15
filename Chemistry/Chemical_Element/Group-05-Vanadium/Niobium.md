@@ -137,7 +137,6 @@ subclass_of:
 time_of_discovery_or_invention: 1801
 type: Element
 UMLS_CUI: C0028101
-Unicode_character: 鈮
 UNII: 05175J654G
 ZVG_number: 7410
 dv_is_:
@@ -372,8 +371,11 @@ dv_has_number_of_period: 5
 dv_has_number_of_group: 5
 dv_has_name_abbreviated: Nb
 dv_has_number_of_electrons: 41
+Unicode_character: 鈮
 ---
-# [[Niobium]] 
+# [[Niobium]] 鈮 
+
+
 
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Niobium,1046]] 

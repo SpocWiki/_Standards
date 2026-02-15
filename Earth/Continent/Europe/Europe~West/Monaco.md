@@ -732,15 +732,14 @@ GS1_country_code: 300-379
 X_Twitter_username: gvtMonaco
 Facebook_username: GvtMonaco
 IPA_transcription: mɐˈnakə
-Unicode_character: "\U0001F1F2\U0001F1E8"
 GitHub_topic: monaco
 CIVICUS_Monitor_country_entry: monaco
 Krugosvet_article: strany_mira/MONAKO.html
 Libris_URI: tr5762wc3td6mvt
+Unicode_character: 🇲🇨
 ---
-# [[Monaco]] 
 
-## [[Monaco]] has Properties... 
+# [[Monaco]] 🇲🇨 has Properties... 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

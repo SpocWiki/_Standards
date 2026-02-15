@@ -523,7 +523,6 @@ coordinate_location: Point(-76.0 -9.4)
 seal_image: http://commons.wikimedia.org/wiki/Special:FilePath/Gran%20Sello%20de%20la%20Rep%C3%BAblica%20del%20Per%C3%BA.svg
 coordinates_of_southernmost_point: Point(-70.3775 -18.352222222)
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Escudo%20nacional%20del%20Per%C3%BA.svg
-Unicode_character: "\U0001F1F5\U0001F1EA"
 geoshape: http://commons.wikimedia.org/data/main/Data:Peru.map
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cuarentena%20Lima%20%2819%20de%20marzo%202%29.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7913%20%28ron%29-KlaudiuMihaila-Peru.wav
@@ -946,8 +945,11 @@ dv_is_same_as:
 - '[[/_personal/Earth/Continent/America~South/Andes/Peru.personal|Peru.personal]]'
 - '[[/_secret/Earth/Continent/America~South/Andes/Peru.secret|Peru.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/America-Peru
+Unicode_character: 🇵🇪
 ---
-# [[Peru]] 
+# [[Peru]] 🇵🇪 
+
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

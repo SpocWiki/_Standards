@@ -169,7 +169,6 @@ Iconclass_notation: 31D11222
 Commons_gallery: Girls
 Commons_category: Girls
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Anita%20R%C3%A9e%20-%20Kopf%20eines%20M%C3%A4dchens.jpg
-Unicode_character: "\U0001F467"
 IMDb_keyword: girl
 hashtag_: girl
 dv_has_:
@@ -344,6 +343,7 @@ dv_has_:
     zh-my: 女孩
     zh_sg: 女孩
     zh_tw: 女孩
+Unicode_character: 👧
 ---
 # [[Girl]] 👧 
 

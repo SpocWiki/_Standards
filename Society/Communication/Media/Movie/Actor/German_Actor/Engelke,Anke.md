@@ -101,6 +101,8 @@ dv_has_:
     zh: 安克·恩戈尔克
     zh_hant: 安克·恩戈爾克
 ---
+# [[Engelke,Anke]]  
+
 #has_/time_/started :: 1965-12-21 
 #has_/time_/stopped ::   
 #has_/place_/started :: [[../../../../../../Earth/Continent/America~North/Canada/provinces~Canada/Quebec,Province/counties~Québec/Montréal,Communauté]] 

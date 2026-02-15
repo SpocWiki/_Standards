@@ -30,6 +30,8 @@ dv_has_:
     sv: Heinrich Kleisli
     zh: 海因里希·克萊斯利
 ---
+# [[Kleisli,Heinrich]]  
+
 ## #has_/text_of_/abstract 
 
 > **Heinrich Kleisli** (; October 19, 1930 – April 5, 2011) was a Swiss mathematician.  

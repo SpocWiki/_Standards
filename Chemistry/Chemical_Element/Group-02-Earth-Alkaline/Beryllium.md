@@ -190,7 +190,6 @@ time_of_discovery_or_invention: 1798
 time_weighted_average_exposure_limit: 0.002
 type: Element
 UMLS_CUI: C0005139
-Unicode_character: 鈹
 UNII: OW5102UV6N
 vapor_pressure: 0
 ZVG_number: 8020
@@ -470,8 +469,8 @@ dv_has_number_of_group: 2
 dv_has_name_en: Beryllium
 dv_has_name_abbreviated: Be
 dv_has_number_of_electrons: 4
+Unicode_character: 鈹
 ---
-
 # [[Beryllium]] 鈹 
 
 #chemic/Element 

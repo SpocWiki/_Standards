@@ -66,6 +66,8 @@ dv_has_:
     vi: tầm gửi
     zh: 桑寄生植物
 ---
+# [[Mistletoe]]  
+
 ## #has_/text_of_/abstract 
 
 > **Mistletoe** is the common name for obligate hemiparasitic plants in the order Santalales. 

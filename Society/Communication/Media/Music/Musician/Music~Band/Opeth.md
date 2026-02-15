@@ -75,6 +75,8 @@ aliases:
 - 殘月魔都樂團
 - 오페스
 ---
+# [[Opeth]]  
+
 ## #has_/text_of_/abstract 
 
 > **Opeth** is a Swedish progressive metal band from Stockholm, formed in 1989. 

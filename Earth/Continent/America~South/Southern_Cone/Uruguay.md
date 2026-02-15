@@ -491,7 +491,6 @@ total_fertility_rate: 2.02
 type: Country
 UMLS_CUI: C0042113
 unemployment_rate: 7
-Unicode_character: "\U0001F1FA\U0001F1FE"
 urban_population:
 - 3271594
 - 3275203
@@ -882,8 +881,11 @@ dv_is_same_as:
 - '[[/_private/Earth/Continent/America~South/Southern_Cone/Uruguay.private|Uruguay.private]]'
 - '[[/_personal/Earth/Continent/America~South/Southern_Cone/Uruguay.personal|Uruguay.personal]]'
 - '[[/_secret/Earth/Continent/America~South/Southern_Cone/Uruguay.secret|Uruguay.secret]]'
+Unicode_character: 🇺🇾
 ---
-# [[Uruguay]] 
+# [[Uruguay]] 🇺🇾 
+
+
 
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`

@@ -95,7 +95,6 @@ Nomenclature_for_Museum_Cataloging: 14083
 OmegaWiki_Defined_Meaning: 870564
 Commons_category: Crowns
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Reichskrone%20Schatzkammer.jpg
-Unicode_character: "\U0001F451"
 Iconclass_notation: 44BB191
 Dewey_Decimal_Classification: 739.228
 dv_has_:
@@ -207,6 +206,7 @@ dv_has_:
     zh_hk: 冠冕
     zh_sg: 冠冕
     zh_tw: 冠冕
+Unicode_character: 👑
 ---
 # [[Crown]] 👑 
 

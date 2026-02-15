@@ -53,6 +53,8 @@ dv_has_:
     tr: Peter Criss
     zh: 彼得·克里斯
 ---
+# [[Criss,Peter]]  
+
 > George Peter John Criscuola (born 1945-12-20), 
 > better known by his stage name **Peter Criss**, 
 > is a retired American musician, best known as a co-founder, original drummer, 

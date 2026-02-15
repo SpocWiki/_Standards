@@ -131,6 +131,8 @@ dv_has_:
     zh_hk: 米高·歌治
     zu: Michel Gondry
 ---
+# [[Gondry,Michel]]  
+
 ## #has_/text_of_/abstract 
 
 > **Michel Gondry** (French: [miʃɛl ɡɔ̃dʁi]; born 8 May 1963) is a French filmmaker 

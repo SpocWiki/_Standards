@@ -211,7 +211,8 @@ dv_has_:
     zh_sg: 直流电
     zh_tw: 直流電
 ---
-# [[Direct_Current]] 
+# [[Direct_Current]] ⎓ 
+
 
 #is_/same_as :: [[../../../../WikiData/WD~Direct_current,159241]]
 

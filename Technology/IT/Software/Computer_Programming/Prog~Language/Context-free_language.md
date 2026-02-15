@@ -52,6 +52,8 @@ aliases:
 - 文脈自由言語
 - 문맥 자유 언어
 ---
+# [[Context-free_language]]  
+
 > In formal language theory, a  context-free language (CFL) is a language 
 > generated/described by a context-free grammar (CFG).
 >

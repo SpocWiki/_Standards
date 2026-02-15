@@ -114,7 +114,6 @@ page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Wikivoyage%20piz
 exact_match:
 - http://wordnet-rdf.princeton.edu/wn30/07873807-n
 - http://wordnet-rdf.princeton.edu/wn31/107804430-n
-Unicode_character: "\U0001F355"
 Amazon_com_browse_node:
 - 18327546011
 - 6499426011
@@ -288,8 +287,11 @@ dv_has_:
     zh_hk: 披薩
     zh-my: 披萨
     zh_tw: 披薩
+Unicode_character: 🍕
 ---
-# [[Pizza]] 
+# [[Pizza]] 🍕 
+
+
 
 #is_/same_as :: [[WD~Pizza,177]] 
 

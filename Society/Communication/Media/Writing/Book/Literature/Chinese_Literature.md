@@ -129,6 +129,8 @@ aliases:
 - 中文文學
 - 중국 문학
 ---
+# [[Chinese_Literature]]  
+
 ## #has_/text_of_/abstract 
 
 > The history of Chinese literature extends thousands of years, 

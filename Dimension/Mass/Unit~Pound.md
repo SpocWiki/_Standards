@@ -219,7 +219,9 @@ dv_has_:
     zh_sg: 磅
     zh_tw: 磅
 ---
-# [[Unit~Pound]] 
+
+# [[Unit~Pound]] ℔ 
+
 
 #is_/same_as :: [[WD~Pound,100995]] 
 

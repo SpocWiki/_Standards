@@ -83,7 +83,6 @@ Wikidata_property: connector
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/CIR%20Connector.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Rear%20panel%20of%20Yamaha%20RX-A2020%20AV%20receiver%20-%20at%20IFA%20fair%202012.jpg
-Unicode_character: "\U0001F50C"
 Commons_category: Electrical connectors
 dv_has_:
   name_:
@@ -146,6 +145,7 @@ dv_has_:
     zh_cn: 電子連接器
     zh_hant: 電子連接器
     zh_tw: 電子連接器
+Unicode_character: 🔌
 ---
 # [[Electrical_Connector]] 🔌 
 

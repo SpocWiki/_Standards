@@ -208,7 +208,6 @@ aliases:
 - "\U00010337\U00010330\U00010339\U00010342\U00010344\U00010349"
 has_id_wikidata: Q1072
 Krugosvet_article: medicina/SERDTSE.html
-Unicode_character: "\U0001FAC0"
 has_part_s_:
 - '[[_Standards/WikiData/WD~myocardium,84133]]'
 - '[[_Standards/WikiData/WD~cardiac_chamber,3368336]]'
@@ -547,6 +546,7 @@ dv_has_:
     zh_hant: 心臟
     zh_tw: 心臟
     zu: inhliziyo
+Unicode_character: 🫀
 ---
 # [[Heart]] 🫀 
 

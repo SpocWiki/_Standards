@@ -72,6 +72,8 @@ aliases:
 - ก้องเกียรติกบฏ
 - ꯑꯥꯔ.ꯑꯥꯔ.ꯑꯥꯔ.(ꯃꯃꯤ ꯀꯨꯝꯍꯩ)
 ---
+# [[RRR]]  
+
 ## #has_/text_of_/abstract 
 
 > **RRR** (subtitled onscreen as Roudram Ranam Rudhiram) 

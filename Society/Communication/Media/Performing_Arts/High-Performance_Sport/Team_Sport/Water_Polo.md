@@ -106,7 +106,6 @@ IPTC_NewsCode: mediatopic/20001091
 Colon_Classification: MY256
 Krugosvet_article_archived_: sport/VODNOE_POLO.html
 alternative_name: Waasserpolo
-Unicode_character: "\U0001F93D"
 OpenStreetMap_tag: sport=water_polo
 Dewey_Decimal_Classification: 797.25
 dv_has_:
@@ -211,6 +210,7 @@ dv_has_:
     zh_cn: 水球
     zh_hant: 水球
     zh_tw: 水球
+Unicode_character: 🤽
 ---
 # [[Water_Polo]] 🤽 
 

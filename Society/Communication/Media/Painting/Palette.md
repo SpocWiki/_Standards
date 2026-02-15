@@ -44,7 +44,6 @@ OmegaWiki_Defined_Meaning: 826884
 Iconclass_notation: 48C5152
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Cube%20Diorama%20%E2%80%93%20Palette.stl
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Webysther%2020190718121610%20-%20Santana%20de%20Parna%C3%ADba.jpg
-Unicode_character: "\U0001F3A8"
 Commons_category: Painting palettes
 dv_has_:
   name_:
@@ -100,6 +99,7 @@ dv_has_:
     zh: 調色板
     zh_hans: 調色板
     zh_hant: 調色盤
+Unicode_character: 🎨
 ---
 # [[Palette]] 🎨  
 

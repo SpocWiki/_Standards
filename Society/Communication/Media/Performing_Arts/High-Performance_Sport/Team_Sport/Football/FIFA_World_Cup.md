@@ -308,6 +308,8 @@ dv_has_:
     zh_sg: 国际足联世界杯
     zh_tw: 國際足總世界盃
 ---
+# [[FIFA_World_Cup]]  
+
 ## #has_/text_of_/abstract 
 
 > The **FIFA World Cup**, often called the World Cup, 

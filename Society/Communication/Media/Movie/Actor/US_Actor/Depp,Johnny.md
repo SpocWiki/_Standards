@@ -205,6 +205,8 @@ dv_has_:
     zh-my: 尊尼·特普
     zh_tw: 強尼·戴普
 ---
+# [[Depp,Johnny]]  
+
 #has_/time_/started :: 1963-07-09 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 

@@ -133,7 +133,6 @@ exact_match:
 - http://wordnet-rdf.princeton.edu/wn30/04254777-n
 IMDb_keyword: sock
 Commons_gallery: Sock
-Unicode_character: "\U0001F9E6"
 dv_has_:
   name_:
     aeb-arab: قلسيطة
@@ -255,8 +254,11 @@ dv_has_:
     yo: Ìbọ̀sẹ̀
     yue: 襪
     zh: 短襪
+Unicode_character: 🧦
 ---
-# [[Sock]] 
+# [[Sock]] 🧦 
+
+
 
 #is_/same_as :: [[../../../WikiData/WD~Sock,43663|WD~Sock,43663]]  
 

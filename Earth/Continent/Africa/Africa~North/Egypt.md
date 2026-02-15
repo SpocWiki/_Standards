@@ -683,7 +683,6 @@ Gini_coefficient: 31.5
 Gujarati_Vishwakosh_entry: ઇજિપ્ત
 Krugosvet_article: strany_mira/EGIPET.html
 OpenStreetMap_zoom_level: 4
-Unicode_character: "\U0001F1EA\U0001F1EC"
 U_S_National_Archives_Identifier: 10046273
 UIC_numerical_country_code: 90
 VAT_rate: 14
@@ -1053,8 +1052,11 @@ urban_population:
 - 45976808
 - 46831955
 - 47689118
+Unicode_character: 🇪🇬
 ---
-# [[Egypt]] 
+# [[Egypt]] 🇪🇬 
+
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

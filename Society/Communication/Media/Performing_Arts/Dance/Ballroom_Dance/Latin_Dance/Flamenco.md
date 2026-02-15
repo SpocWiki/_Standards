@@ -190,6 +190,8 @@ dv_has_:
     zh-my: 法兰明歌
     zh_sg: 弗拉明戈
 ---
+# [[Flamenco]]  
+
 ## #has_/text_of_/abstract 
 
 > **Flamenco** (Spanish pronunciation: [flaˈmeŋko]) is an art form based on the various folkloric music traditions of southern Spain, developed within the gitano subculture of the region of Andalusia, and also having historical presence in Extremadura and Murcia. In a wider sense, the term is used to refer to a variety of both contemporary and traditional musical styles typical of southern Spain. Flamenco is closely associated  to the gitanos of the Romani ethnicity who have contributed significantly to its origination and professionalization. However, its style is uniquely Andalusian and flamenco artists have historically included Spaniards of both gitano and non-gitano heritage.

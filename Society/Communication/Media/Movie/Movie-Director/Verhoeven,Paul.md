@@ -100,6 +100,8 @@ aliases:
 - 保羅韋浩雲
 - 파울 페르후번
 ---
+# [[Verhoeven,Paul]]  
+
 #is_/different_from :: [[Verhoeven,Michael]] 
 
 > **Paul Verhoeven** (Dutch: [ˈpʌul vərˈɦuvə(n)]; born 18 July 1938) is a Dutch filmmaker. 

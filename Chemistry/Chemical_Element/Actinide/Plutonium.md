@@ -127,7 +127,6 @@ time_of_discovery_or_invention: 1941
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_plutonium,11903475]]'
 type: Element
 UMLS_CUI: C0032259
-Unicode_character: 鈽
 UNII: 53023GN24M
 dv_has_:
   name_:
@@ -370,8 +369,11 @@ dv_is_same_as:
 - '[[/_private/Chemistry/Chemical_Element/Actinide/Plutonium.private|Plutonium.private]]'
 - '[[/_personal/Chemistry/Chemical_Element/Actinide/Plutonium.personal|Plutonium.personal]]'
 - '[[/_secret/Chemistry/Chemical_Element/Actinide/Plutonium.secret|Plutonium.secret]]'
+Unicode_character: 鈽
 ---
-# [[Plutonium]] 
+# [[Plutonium]] 鈽 
+
+
 
 #chemic/Element 
 has_name_group = `=this.dv_has_name_group` 

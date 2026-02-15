@@ -251,6 +251,8 @@ dv_has_:
     zh_hant: 分析化學
     zh_tw: 分析化學
 ---
+# [[Analytical_Chemistry]]  
+
 ## #has_/text_of_/abstract 
 
 > **Analytical chemistry** studies and uses instruments and methods to separate, identify, and quantify matter. In practice, separation, identification or quantification may constitute the entire analysis or be combined with another method. Separation isolates analytes. Qualitative analysis identifies analytes, while quantitative analysis determines the numerical amount or concentration.

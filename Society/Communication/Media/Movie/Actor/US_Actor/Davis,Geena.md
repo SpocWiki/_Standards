@@ -111,6 +111,8 @@ dv_has_:
     zh: 吉娜·戴维斯
     zh_sg: 珍娜·戴维丝
 ---
+# [[Davis,Geena]]  
+
 #has_/time_/started :: 1956-01-21 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 #has_/duration_ :: `=default(this.has_time_stopped, date(now)) - this.has_time_started` 

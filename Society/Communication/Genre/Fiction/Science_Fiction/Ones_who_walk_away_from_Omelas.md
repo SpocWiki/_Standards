@@ -51,6 +51,8 @@ dv_has_:
     uk: Ті, хто покидають Омелас
     zh: 離開奧美拉城的人
 ---
+# [[Ones_who_walk_away_from_Omelas]]  
+
 #has_/creator :: [[Le_Guin,Ursula_K.]] 
 
 ## #has_/text_of_/abstract 

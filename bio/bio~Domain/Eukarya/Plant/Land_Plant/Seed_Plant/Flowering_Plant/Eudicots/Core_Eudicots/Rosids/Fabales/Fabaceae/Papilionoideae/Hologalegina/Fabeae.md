@@ -59,6 +59,8 @@ dv_has_:
     vo: Fabeae
     war: Fabeae
 ---
+# [[Fabeae]]  
+
 ## #has_/text_of_/abstract 
 
 > The tribe Fabeae (sometimes referred to as "**Vicieae**") is one of the subdivisions of the plant family Fabaceae. 

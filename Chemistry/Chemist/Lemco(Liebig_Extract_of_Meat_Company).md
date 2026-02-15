@@ -34,6 +34,8 @@ aliases:
 - חברת ליביג למיצוי בשר
 - リービッヒ肉エキス会社
 ---
+# [[Lemco(Liebig_Extract_of_Meat_Company)]]  
+
 ## #has_/text_of_/abstract 
 
 > Liebig's Extract of Meat Company, established in the United Kingdom, 

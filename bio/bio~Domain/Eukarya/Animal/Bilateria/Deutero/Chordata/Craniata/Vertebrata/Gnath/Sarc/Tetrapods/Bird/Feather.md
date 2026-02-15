@@ -124,7 +124,6 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Feder
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2%20feathers.jpg
 Commons_gallery: Feather
 Commons_category: Feathers
-Unicode_character: "\U0001FAB6"
 MeSH_tree_code: A13.370
 ATC_code: V01AA01
 dv_has_:
@@ -247,8 +246,11 @@ dv_has_:
     zh_hans: 羽毛
     zh_hant: 羽毛
     zh_tw: 羽毛
+Unicode_character: 🪶
 ---
-# [[Feather]] 
+# [[Feather]] 🪶 
+
+
 
 #is_/same_as :: [[../../../../../../../../../../../../../WikiData/WD~Feather,81025|WD~Feather,81025]] 
 #is_/better_than :: [[../Amniota/Synapsida/Therapsida/Mammal/Fur|Fur]] 

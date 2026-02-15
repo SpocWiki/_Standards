@@ -168,6 +168,8 @@ dv_has_:
     zh_hk: 水類運動
     zh_tw: 水類運動
 ---
+# [[Water_Sport]]  
+
 ## #has_/text_of_/abstract 
 
 > **Water sports** or aquatic sports are sports activities conducted on waterbodies and can be categorized according to the degree of immersion by the participants.

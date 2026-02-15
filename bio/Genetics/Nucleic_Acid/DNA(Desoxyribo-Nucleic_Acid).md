@@ -150,7 +150,6 @@ subclass_of:
 - '[[_Standards/WikiData/WD~biopolymer,422649]]'
 - '[[_Standards/WikiData/WD~biological_macromolecule,66560214]]'
 subreddit: DNA
-Unicode_character: "\U0001F9EC"
 video: http://commons.wikimedia.org/wiki/Special:FilePath/CRISPR-Cas9%2C%20geneak%20mozteko%20guraizeak.webm
 Wikimedia_outline: '[[_Standards/WikiData/WD~Q2682086,2682086]]'
 dv_has_:
@@ -286,6 +285,7 @@ dv_has_:
     zh_hans: 脱氧核糖核酸
     zh_tw: 去氧核糖核酸
     zu: uLibofuzo
+Unicode_character: 🧬
 ---
 # [[DNA(Desoxyribo-Nucleic_Acid)]] 🧬 
 

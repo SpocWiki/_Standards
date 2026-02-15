@@ -145,6 +145,8 @@ dv_has_:
     zh_sg: 罗杰·埃伯特
     zh_tw: 羅傑·艾伯特
 ---
+# [[Ebert,Roger]]  
+
 #has_/time_/started :: 1942-06-18 
 #has_/time_/stopped :: 2013-04-04
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)`

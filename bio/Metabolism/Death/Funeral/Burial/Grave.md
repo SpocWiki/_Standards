@@ -231,8 +231,11 @@ aliases:
 - 墓穴
 - 墳墓
 - 묘소
+Unicode_character: 🪦
 ---
-# [[Grave]] 
+# [[Grave]] 🪦 
+
+
 
 #is_/same_as :: [[../../../../../WikiData/WD~Grave,173387|WD~Grave,173387]] 
 

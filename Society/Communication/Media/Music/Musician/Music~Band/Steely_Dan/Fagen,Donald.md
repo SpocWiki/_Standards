@@ -57,6 +57,8 @@ dv_has_:
     zh_hans: 唐纳德·费根
     zh_hant: 唐納德·費根
 ---
+# [[Fagen,Donald]]  
+
 #has_/time_/started :: 1948-01-10 
 
 > Donald Jay Fagen (born 1948-01-10) is an American musician who was the co-founder, 

@@ -82,7 +82,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Cross-country%20equipm
 exact_match:
 - http://wordnet-rdf.princeton.edu/pwn30/04228054-n
 - http://wordnet-rdf.princeton.edu/wn30/04228054-n
-Unicode_character: "\U0001F3BF"
 MCN_code: 9506.11.00
 dv_has_:
   name_:
@@ -180,8 +179,11 @@ dv_has_:
     zh_hk: 滑雪板
     zh_sg: 滑雪板
     zh_tw: 滑雪板
+Unicode_character: 🎿
 ---
-# [[Ski]] 
+# [[Ski]] 🎿 
+
+
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Ski,172226|WD~Ski,172226]]  
 

@@ -109,6 +109,8 @@ dv_has_:
     wuu: 卡戎
     zh: 卡戎
 ---
+# [[Charon(Mythology)]]  
+
 ## #has_/text_of_/abstract 
 
 > In Greek mythology, **Charon** or Kharon (  KAIR-on, -⁠ən; Ancient Greek: Χάρων 

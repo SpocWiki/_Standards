@@ -436,7 +436,6 @@ Commons_category: Iceland
 Dreadnought_Project_page: Iceland
 subreddit: Iceland
 hashtag: Iceland
-Unicode_character: "\U0001F1EE\U0001F1F8"
 Commons_gallery: Ísland
 IPA_transcription:
 - ɪˈslan⁽ʲ⁾dʲɪjə
@@ -874,8 +873,11 @@ dv_is_same_as:
 - '[[/_personal/Earth/Continent/Europe/Europe~North/Iceland.personal|Iceland.personal]]'
 - '[[/_secret/Earth/Continent/Europe/Europe~North/Iceland.secret|Iceland.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Iceland
+Unicode_character: 🇮🇸
 ---
-# [[Iceland]] 
+# [[Iceland]] 🇮🇸 
+
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

@@ -137,6 +137,8 @@ dv_has_:
     zh_sg: 吉安·洛伦佐·贝尼尼
     zh_tw: 吉安·洛倫佐·貝尼尼
 ---
+# [[Bernini,Gian_Lorenzo]]  
+
 #has_/time_/started ::  1598-12-07
 #has_/time_/stopped  ::  1680-11-28 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

@@ -316,6 +316,8 @@ dv_has_:
     zh_cn: 黑麦
     zh_tw: 黑麥
 ---
+# [[Rye]]  
+
 ## #has_/text_of_/abstract 
 
 > **Rye** (Secale cereale) is a grass grown extensively as a grain, a cover crop and a forage crop. 

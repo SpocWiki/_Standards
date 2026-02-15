@@ -240,8 +240,11 @@ dv_has_:
     zh_cn: 愤怒
     zh_hans: 愤怒
     zh_hant: 憤怒
+Unicode_character: 💢
 ---
-# [[Anger]] 
+# [[Anger]] 💢 
+
+
 
 
 ## #has_/text_of_/abstract 

@@ -62,6 +62,8 @@ dv_has_:
     uk: Біллі Корган
     zh: 比利·寇根
 ---
+# [[Corgan,Billy]]  
+
 #has_/time_/started :: 1967-03-17 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 
 

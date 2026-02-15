@@ -85,6 +85,8 @@ dv_has_:
     zh_hant: 阿諾德·沃斯洛
     zu: U-Arnold Vosloo
 ---
+# [[Vosloo,Arnold]]  
+
 #has_/time_/started :: 1962-06-16 
 
 ## #has_/text_of_/abstract 

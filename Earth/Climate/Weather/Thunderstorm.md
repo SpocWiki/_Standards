@@ -239,7 +239,9 @@ dv_has_:
     zh: 雷暴
     zh_hant: 雷暴
 ---
-# [[Thunderstorm]] 
+
+# [[Thunderstorm]] ⛈ 
+
 
 #is_/same_as :: [[../../../WikiData/WD~Thunderstorm,2857578|WD~Thunderstorm,2857578]] 
 

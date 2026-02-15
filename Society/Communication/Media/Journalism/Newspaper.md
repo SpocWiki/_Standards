@@ -271,7 +271,6 @@ topic_s_main_template:
 - '[[_Standards/WikiData/WD~Template_Greek_Newspapers,20319551]]'
 type: private_note
 UMLS_CUI: C4042894
-Unicode_character: "\U0001F4F0"
 UNSPSC_Code: 55101504
 U_S_National_Archives_Identifier:
 - 10635599
@@ -486,8 +485,11 @@ dv_has_:
     zh_hk: 報紙
     zh_tw: 報紙
     zu: Iphephandaba
+Unicode_character: 📰
 ---
-# [[Newspaper]] 
+# [[Newspaper]] 📰 
+
+
 
 #is_/same_as :: [[../../../../WikiData/WD~Newspaper,11032|Newspaper]] 
 

@@ -156,7 +156,6 @@ subreddit:
 - worldnews
 - inthenews
 hashtag: current_events
-Unicode_character: "\U0001F4E1"
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Al%20Jazeera%20English%20Doha%20Newsroom%201.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Visiteur-JEP%20%28Madehub%29-actualit%C3%A9.wav
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Voorpagina%20Vlaams%20dagblad%20%22Het%20Algemeen%20Nieuws%22%2011%20juli%201942.jpg
@@ -314,8 +313,11 @@ dv_has_:
     zh_hans: 新闻
     zh_hant: 新聞
     zh_tw: 新聞
+Unicode_character: 📡
 ---
-# [[News]] 
+# [[News]] 📡 
+
+
 
 #is_/same_as :: [[../../../../WikiData/WD~News,38926|WD~News,38926]]  
 

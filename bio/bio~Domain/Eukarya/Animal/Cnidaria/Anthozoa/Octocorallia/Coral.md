@@ -97,7 +97,6 @@ instance_of: '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_na
 OmegaWiki_Defined_Meaning: 763
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Coral%20Outcrop%20Flynn%20Reef.jpg
 Commons_category: Corals
-Unicode_character: "\U0001FAB8"
 Dewey_Decimal_Classification: 593.6
 Krugosvet_article: biologiya/korally
 Baidu_Tieba_name: 珊瑚
@@ -220,8 +219,11 @@ dv_has_:
     zh_hk: 珊瑚
     zh_sg: 珊瑚
     zh_tw: 珊瑚
+Unicode_character: 🪸
 ---
-# [[Coral]] 
+# [[Coral]] 🪸 
+
+
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Coral,171446|WD~Coral,171446]] 
 

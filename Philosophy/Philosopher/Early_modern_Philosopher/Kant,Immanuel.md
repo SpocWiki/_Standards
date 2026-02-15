@@ -434,6 +434,8 @@ dv_has_:
     zh-hans: 伊曼努尔·康德
     zu: Immanuel Kant
 ---
+# [[Kant,Immanuel]]  
+
 #has_/time_/started :: 1724-04-22  
 #has_/time_/stopped  :: 1804-02-12 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

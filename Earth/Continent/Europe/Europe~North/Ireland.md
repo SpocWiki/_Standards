@@ -552,7 +552,6 @@ unemployment_rate:
 - 4.479
 - 5.623
 - 6.194
-Unicode_character: "\U0001F1EE\U0001F1EA"
 urban_population:
 - 3128618
 - 3173345
@@ -968,8 +967,11 @@ dv_is_same_as:
 - '[[/_secret/Earth/Continent/Europe/Europe~North/Ireland.secret|Ireland.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Europe-Ireland
 dv_developed_developing_countries: Developed
+Unicode_character: 🇮🇪
 ---
-# [[Ireland]] 
+# [[Ireland]] 🇮🇪 
+
+
 
 #is_/same_as :: [[_Standards/WikiData/WD~Ireland,27]]  
 

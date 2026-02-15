@@ -481,7 +481,9 @@ dv_has_name_abbreviated: N
 dv_has_number_of_electrons: 7
 dv_has_number_of_group: 15
 ---
-# [[Nitrogen]] 
+
+# [[Nitrogen]] 氮 
+
 
 #chemic/Element 
 has_name_group = `=this.dv_has_name_group` 

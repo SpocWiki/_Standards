@@ -409,7 +409,6 @@ coordinate_location: Point(-9.75 6.533333)
 Dewey_Decimal_Classification: 2--6662
 inception: 1822-01-07
 has_time_started: 1822-01-07
-Unicode_character: "\U0001F1F1\U0001F1F7"
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Liberia.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Liberian%20Capitol%20Building.jpg
 coordinates_of_northernmost_point: Point(-9.77 8.55)
@@ -794,8 +793,11 @@ dv_is_same_as:
 - '[[/_personal/Earth/Continent/Africa/Africa~West/Liberia.personal|Liberia.personal]]'
 - '[[/_secret/Earth/Continent/Africa/Africa~West/Liberia.secret|Liberia.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Liberia
+Unicode_character: 🇱🇷
 ---
-# [[Liberia]] 
+# [[Liberia]] 🇱🇷 
+
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

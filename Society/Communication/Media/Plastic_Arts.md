@@ -108,6 +108,8 @@ aliases:
 - 造形芸術
 - 조형 예술
 ---
+# [[Plastic_Arts]]  
+
 ## #has_/text_of_/abstract 
 
 > **Plastic arts** are art forms which involve physical manipulation of a plastic medium, 

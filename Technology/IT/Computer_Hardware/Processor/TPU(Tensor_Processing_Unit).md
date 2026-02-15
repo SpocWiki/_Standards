@@ -50,6 +50,8 @@ aliases:
 - 张量处理单元
 - 텐서 처리 장치
 ---
+# [[TPU(Tensor_Processing_Unit)]]  
+
 TPUs are designed by [[../../../../Society/Agent/Community/Organization/Company/Corporation/IT~Company/Google|Google]] specifically to optimally handle [[TensorFlow]] Workloads. 
 
 > Tensor Processing Unit (**TPU**) is an AI accelerator application-specific integrated circuit (ASIC) developed by Google for neural network machine learning, using Google's own TensorFlow software. 

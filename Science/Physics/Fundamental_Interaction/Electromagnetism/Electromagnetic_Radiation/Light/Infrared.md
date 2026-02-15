@@ -271,6 +271,8 @@ dv_has_:
     zh: 红外线
     zu: Insibomvu
 ---
+# [[Infrared]]  
+
 ## #has_/text_of_/abstract 
 
 > **Infrared** (IR; sometimes called infrared light) is electromagnetic radiation (EMR) with wavelengths longer than that of visible light but shorter than microwaves. The infrared spectral band begins with the waves that are just longer than those of red light (the longest waves in the visible spectrum), so IR is invisible to the human eye. IR is generally understood to include wavelengths from around 667 nm (449 THz) to 1 mm (300 GHz). IR is commonly divided between longer-wavelength thermal IR, emitted from terrestrial sources, and shorter-wavelength IR or near-IR, part of the solar spectrum. Longer IR wavelengths (30–100 μm) are sometimes included as part of the terahertz radiation band.  Almost all black-body radiation from objects near room temperature is in the IR band. As a form of EMR, IR carries energy and momentum, exerts radiation pressure, and has properties corresponding to both those of a wave and of a particle, the photon.

@@ -187,6 +187,8 @@ dv_has_:
     zh_tw: 茱莉·安德魯絲
     zu: Julie Andrews
 ---
+# [[Andrews,Julie]]  
+
 ## #has_/text_of_/abstract 
 
 > Dame **Julie Andrews** (born Julia Elizabeth Wells; 1 October 1935) 

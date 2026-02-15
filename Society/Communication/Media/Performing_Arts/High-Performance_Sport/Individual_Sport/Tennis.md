@@ -129,7 +129,6 @@ topic_s_main_template:
 - '[[_Standards/WikiData/WD~Template_Tennis_box,10943918]]'
 topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Tennis,8288752]]'
 UMLS_CUI: C0039515
-Unicode_character: "\U0001F3BE"
 uses:
 - '[[_Standards/WikiData/WD~tennis_racquet,153362]]'
 - '[[_Standards/WikiData/WD~tennis_ball,246514]]'
@@ -332,8 +331,11 @@ dv_has_:
     zh-my: 网球
     zh_sg: 网球
     zh_tw: 網球
+Unicode_character: 🎾
 ---
-# [[Tennis]] 
+# [[Tennis]] 🎾 
+
+
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Tennis,847|WD~Tennis,847]] 
 

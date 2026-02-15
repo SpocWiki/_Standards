@@ -572,7 +572,9 @@ dv_has_:
     zh_tw: 金星
     zu: UVenusi
 ---
-# [[Venus(Planet)]] 
+# [[Venus(Planet)]] ♀ 
+
+
 
 #is_/same_as :: [[../../WikiData/WD~Venus,313]]  
 #is_/different_from :: [[_Standards/WikiData/WD~Venus,102040]] 

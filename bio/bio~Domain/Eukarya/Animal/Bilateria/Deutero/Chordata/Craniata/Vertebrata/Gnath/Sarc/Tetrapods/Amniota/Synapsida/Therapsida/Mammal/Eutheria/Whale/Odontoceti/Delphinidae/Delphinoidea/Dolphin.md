@@ -129,7 +129,6 @@ studied_by: '[[_Standards/WikiData/WD~delphinology,115102736]]'
 Commons_category: Delphinidae
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Parc%20Asterix%2020.jpg
 Commons_gallery: Dolphin
-Unicode_character: "\U0001F42C"
 OmegaWiki_Defined_Meaning: 616807
 hashtag: dolphins
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Dolphin.stl
@@ -287,6 +286,7 @@ dv_has_:
     zh_hant: 海豚
     zh_hk: 海豚
     zh_tw: 海豚
+Unicode_character: 🐬
 ---
 # [[Dolphin]] 🐬 
 

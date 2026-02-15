@@ -111,7 +111,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Medals.jpg
 Iconclass_notation: 48C26
 Commons_category: Medals
 IMDb_keyword: medallion
-Unicode_character: "\U0001F3C5"
 dv_has_:
   name_:
     af: medalje
@@ -229,6 +228,7 @@ dv_has_:
     zh-hk: 獎章
     zh-sg: 奖章
     zh-tw: 獎章
+Unicode_character: 🏅
 ---
 # [[Medallion]] 🏅 
 

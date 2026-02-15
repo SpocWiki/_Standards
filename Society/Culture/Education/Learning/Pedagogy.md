@@ -224,6 +224,8 @@ aliases:
 - 教育學
 - 교육학
 ---
+# [[Pedagogy]]  
+
 > **Pedagogy**, most commonly understood as the approach to teaching, 
 > is the theory and practice of learning, and how this process influences, 
 > and is influenced by, the social, political, and psychological development of learners. 

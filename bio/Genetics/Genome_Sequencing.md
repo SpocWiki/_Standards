@@ -64,6 +64,8 @@ aliases:
 - 全基因组测序
 - 총유전체
 ---
+# [[Genome_Sequencing]]  
+
 ## #has_/text_of_/abstract 
 
 > Whole **Genome Sequencing** (WGS) is the process of determining the entirety, or nearly the entirety, of the DNA sequence of an organism's genome at a single time. This entails sequencing all of an organism's chromosomal DNA as well as DNA contained in the mitochondria and, for plants, in the chloroplast.

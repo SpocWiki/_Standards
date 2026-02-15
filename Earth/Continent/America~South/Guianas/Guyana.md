@@ -375,7 +375,6 @@ total_fertility_rate: 2.558
 type: Country
 UMLS_CUI: C0018408
 unemployment_rate: 11
-Unicode_character: "\U0001F1EC\U0001F1FE"
 urban_population:
 - 213179
 - 213539
@@ -744,8 +743,11 @@ dv_is_same_as:
 - '[[/_private/Earth/Continent/America~South/Guianas/Guyana.private|Guyana.private]]'
 - '[[/_personal/Earth/Continent/America~South/Guianas/Guyana.personal|Guyana.personal]]'
 - '[[/_secret/Earth/Continent/America~South/Guianas/Guyana.secret|Guyana.secret]]'
+Unicode_character: 🇬🇾
 ---
-# [[Guyana]] 
+# [[Guyana]] 🇬🇾 
+
+
 
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`

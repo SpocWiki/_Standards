@@ -368,8 +368,8 @@ dv_has_name_abbreviated: Bi
 dv_has_number_of_electrons: 83
 ---
 
-[[Bismuth]] 鉍 
-==============
+# [[Bismuth]] 鉍 
+
 
 #is_/same_as :: [[../../../WikiData/WD~Bismuth,942]] 
 

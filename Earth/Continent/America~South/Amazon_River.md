@@ -446,6 +446,8 @@ dv_has_:
     zh_cn: 亚马逊河
     zh_hant: 亞馬孫河
 ---
+# [[Amazon_River]]  
+
 ## #has_/text_of_/abstract 
 
 > The **Amazon River** (UK: , US: ; Spanish: Río Amazonas, Portuguese: Rio Amazonas) in South America is the largest river by discharge volume of water in the world, and the longest or second-longest river system in the world, a title which is disputed with the Nile.

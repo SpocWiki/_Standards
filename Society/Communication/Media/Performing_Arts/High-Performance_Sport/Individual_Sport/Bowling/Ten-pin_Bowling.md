@@ -58,7 +58,6 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Bowlerbowling.JPG
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Bowling%20%28ten%20pins%29%20pictogram.svg
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/EVD-bolos-209.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Rendering%20Bowling%204500p60%2020230112.webm
-Unicode_character: "\U0001F3B3"
 IPTC_NewsCode: mediatopic/20001086
 Commons_category: Ten-pin bowling
 OpenStreetMap_tag: sport=10pin
@@ -137,8 +136,11 @@ dv_has_:
     zh_hk: 保齡球
     zh_sg: 保龄球
     zh_tw: 保齡球
+Unicode_character: 🎳
 ---
-# [[Ten-pin_Bowling]] 
+# [[Ten-pin_Bowling]] 🎳 
+
+
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Ten-pin_bowling,172809|WD~Ten-pin_bowling,172809]]  
 

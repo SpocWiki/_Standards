@@ -341,7 +341,6 @@ official_website:
 Dewey_Decimal_Classification: 2--64
 Provenio_UUID: b34b5d6c-651c-47da-a724-9419045a3990
 Libris_URI: khwzxrn30k0tv0g
-Unicode_character: "\U0001F1F2\U0001F1E6"
 Krugosvet_article: strany_mira/MAROKKO.html
 diplomatic_relation:
 - '[[_Standards/WikiData/WD~Canada,16]]'
@@ -938,8 +937,11 @@ dv_is_same_as:
 - '[[/_personal/Earth/Continent/Africa/Africa~North/Morocco.personal|Morocco.personal]]'
 - '[[/_secret/Earth/Continent/Africa/Africa~North/Morocco.secret|Morocco.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Morocco
+Unicode_character: 🇲🇦
 ---
-# [[Morocco]] 
+# [[Morocco]] 🇲🇦 
+
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 

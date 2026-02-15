@@ -310,7 +310,6 @@ FIPS_6_4: 66010
 life_expectancy: 79.575
 ISO_3166_1_alpha_2_code: GU
 FIPS_5_2_alpha_code_US_states_: GU
-Unicode_character: "\U0001F1EC\U0001F1FA"
 population: 153836
 IOC_country_code: GUM
 ISO_3166_1_alpha_3_code: GUM
@@ -503,10 +502,9 @@ dv_has_:
     zh_hant: 關島
     zh_hk: 關島
     zh_tw: 關島
+Unicode_character: 🇬🇺
 ---
-# [[Guam]] 
-
-## [[Guam]] has Properties... 
+# [[Guam]] 🇬🇺  has Properties... 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic` 
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name` 

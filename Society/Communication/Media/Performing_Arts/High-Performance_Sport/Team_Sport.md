@@ -181,6 +181,8 @@ dv_has_:
     zh_hk: 賽季
     zh_tw: 賽季
 ---
+# [[Team_Sport]]  
+
 ## #has_/text_of_/abstract 
 
 > A team sport is a type of sport where the fundamental nature of the game or sport 

@@ -248,6 +248,8 @@ dv_has_:
     zh_hant: 七政
     zh_hk: 七政
 ---
+# [[Day_of_Week]]  
+
 Class of all day_of_weeks.
 
 Tag Instances like this: 

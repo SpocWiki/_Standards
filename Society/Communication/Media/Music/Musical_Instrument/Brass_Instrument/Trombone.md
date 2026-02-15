@@ -76,7 +76,6 @@ Amazon_com_browse_node: 11971781
 P2167: 60131102
 Krugosvet_article_archived_: kultura_i_obrazovanie/muzyka/TROMBON.html
 Commons_category: Trombones
-Unicode_character: "\U0001FA8A"
 Dewey_Decimal_Classification: 788.93
 dv_has_:
   name_:
@@ -172,8 +171,11 @@ dv_has_:
     zh_hans: 长号
     zh_hant: 長號
     zh_tw: 長號
+Unicode_character: 🪊
 ---
-# [[Trombone]] 
+# [[Trombone]] 🪊 
+
+
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Trombone,8350|WD~Trombone,8350]]  
 

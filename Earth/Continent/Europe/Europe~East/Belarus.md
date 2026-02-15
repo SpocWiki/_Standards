@@ -986,9 +986,7 @@ VAT_rate: 20
 Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Belarus,7112199]]"
 WIPO_ST_3: BY
 ---
-# [[Belarus]] 🇧🇾 
-
-## [[Belarus]] has Properties... 
+# [[Belarus]] 🇧🇾 has Properties... 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

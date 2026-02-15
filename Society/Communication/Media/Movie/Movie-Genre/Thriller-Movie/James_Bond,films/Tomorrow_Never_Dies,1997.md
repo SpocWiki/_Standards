@@ -123,6 +123,8 @@ dv_has_:
     zh_sg: 明日帝国
     zh_tw: 明日帝國
 ---
+# [[Tomorrow_Never_Dies,1997]]  
+
 ## #has_/text_of_/abstract 
 
 > **Tomorrow Never Dies** is a 1997 spy film, the eighteenth in the James Bond series produced by Eon Productions 

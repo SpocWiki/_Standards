@@ -289,6 +289,8 @@ dv_has_:
     zh_sg: 摩诃婆罗多
     zh_tw: 摩訶婆羅多
 ---
+# [[Mahabharata]]  
+
 ## #has_/text_of_/abstract 
 
 > The Mahābhārata ( mə-HAH-BAR-ə-tə, MAH-hə-; 

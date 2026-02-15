@@ -68,6 +68,8 @@ aliases:
 - ജക്കാർട്ട ഇഇ
 - 자바 플랫폼, 엔터프라이즈 에디션
 ---
+# [[J2EE]]  
+
 ## #has_/text_of_/abstract 
 
 > Jakarta EE, formerly Java Platform, Enterprise Edition (Java EE) 

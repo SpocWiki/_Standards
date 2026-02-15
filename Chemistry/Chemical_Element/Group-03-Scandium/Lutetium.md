@@ -137,7 +137,6 @@ time_of_discovery_or_invention: 1906
 topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_lutetium,8085411]]'
 type: Element
 UMLS_CUI: C0024170
-Unicode_character: 鎦
 UNII: 5H0DOZ21UJ
 dv_is_:
   same_as:
@@ -364,8 +363,11 @@ dv_has_value_for_energy_form_kj_mol: 355.9
 dv_has_number_of_period: 6
 dv_has_number_of_group: 37
 dv_has_number_of_electrons: 71
+Unicode_character: 鎦
 ---
-# [[Lutetium]] 
+# [[Lutetium]] 鎦 
+
+
 
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Lutetium,1857]] 

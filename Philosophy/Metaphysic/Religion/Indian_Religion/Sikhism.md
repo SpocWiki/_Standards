@@ -337,7 +337,9 @@ dv_has_:
     zh_sg: 锡克教
     zh_tw: 錫克教
 ---
-# [[Sikhism]] 
+
+# [[Sikhism]] ☬ 
+
 
 #is_/same_as :: [[../../../../WikiData/WD~Sikhism,9316|WD~Sikhism,9316]]  
 

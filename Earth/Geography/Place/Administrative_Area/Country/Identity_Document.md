@@ -210,7 +210,9 @@ dv_has_:
     zh_sg: 身份证
     zh_tw: 身分證
 ---
-# [[Identity_Document]] 
+
+# [[Identity_Document]] 🪪 
+
 
 #is_/same_as :: [[WD~Identity_document,47988]] 
 

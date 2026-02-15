@@ -272,6 +272,8 @@ dv_has_:
     zh_tw: 阿育王
     zu: U-Ashoka
 ---
+# [[Ashoka]]  
+
 ## #has_/text_of_/abstract 
 
 > **Ashoka**, also known as Asoka or Aśoka ( ə-SHOH-kə; Sanskrit: [ɐˈɕoːkɐ], IAST: Aśoka; c. 304 – 232 BCE), 

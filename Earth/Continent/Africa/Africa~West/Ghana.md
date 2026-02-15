@@ -421,7 +421,6 @@ trunk_prefix: 0
 type: Country
 UMLS_CUI: C0017516
 unemployment_rate: 2
-Unicode_character: "\U0001F1EC\U0001F1ED"
 urban_population:
 - 17875345
 - 18455138
@@ -812,8 +811,11 @@ dv_is_same_as:
 - '[[/_private/Earth/Continent/Africa/Africa~West/Ghana.private|Ghana.private]]'
 - '[[/_personal/Earth/Continent/Africa/Africa~West/Ghana.personal|Ghana.personal]]'
 - '[[/_secret/Earth/Continent/Africa/Africa~West/Ghana.secret|Ghana.secret]]'
+Unicode_character: 🇬🇭
 ---
-# [[Ghana]] 
+# [[Ghana]] 🇬🇭 
+
+
 
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`

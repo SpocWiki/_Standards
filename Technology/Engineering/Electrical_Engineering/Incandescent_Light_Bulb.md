@@ -127,7 +127,6 @@ made_from_material:
 copyright_status: '[[_Standards/WikiData/WD~public_domain,19652]]'
 Nomenclature_for_Museum_Cataloging: 1761
 OmegaWiki_Defined_Meaning: 406777
-Unicode_character: "\U0001F4A1"
 Commons_category: Incandescent light bulbs
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Gluehlampe%2001%20KMJ.jpg
@@ -252,6 +251,7 @@ dv_has_:
     zh: 白熾燈泡
     zh_hant: 白熾燈
     zh_tw: 白熾燈
+Unicode_character: 💡
 ---
 # [[Incandescent_Light_Bulb]] 💡 
 

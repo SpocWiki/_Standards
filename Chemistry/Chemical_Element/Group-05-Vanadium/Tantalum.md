@@ -141,7 +141,6 @@ time_of_discovery_or_invention: 1802
 time_weighted_average_exposure_limit: 5
 type: Element
 UMLS_CUI: C0039297
-Unicode_character: 鉭
 UNII: 6424HBN274
 vapor_pressure: 0
 Wolfram_Language_entity_code: Entity["Mineral", "Tantalum"]
@@ -376,8 +375,11 @@ dv_is_same_as:
 dv_has_name_abbreviated: Ta
 dv_has_number_of_electrons: 73
 dv_has_number_of_group: 5
+Unicode_character: 鉭
 ---
-# [[Tantalum]] 
+# [[Tantalum]] 鉭 
+
+
 
 #chemic/Element 
 

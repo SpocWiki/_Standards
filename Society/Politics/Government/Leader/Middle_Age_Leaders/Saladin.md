@@ -233,6 +233,8 @@ aliases:
 - 薩拉丁
 - 살라딘
 ---
+# [[Saladin]]  
+
 ## #has_/text_of_/abstract 
 
 > Salah ad-Din Yusuf ibn Ayyub (c. 1137 – 4 March 1193), commonly known as **Saladin**, was the founder of the Ayyubid dynasty. Hailing from a Kurdish family, he was the first sultan of both Egypt and Syria. An important figure of the Third Crusade, he spearheaded the Muslim military effort against the Crusader states in the Levant. At the height of his power, the Ayyubid realm spanned Egypt, Syria, Upper Mesopotamia, the Hejaz, Yemen, and Nubia.

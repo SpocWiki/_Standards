@@ -124,7 +124,6 @@ MeSH_tree_code: I03.450.642.845.950
 IPTC_NewsCode: mediatopic/20001093
 Krugosvet_article_archived_: sport/tyazhelaya-atletika
 subreddit: weightlifting
-Unicode_character: "\U0001F3CB"
 OpenStreetMap_tag: sport=weightlifting
 dv_has_:
   name_:
@@ -232,6 +231,7 @@ dv_has_:
     zh_hant: 舉重
     zh_hk: 舉重
     zh_tw: 舉重
+Unicode_character: 🏋
 ---
 # [[Weightlifting]] 🏋  
 

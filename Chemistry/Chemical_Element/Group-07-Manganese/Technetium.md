@@ -161,7 +161,6 @@ subclass_of:
 - '[[_Standards/WikiData/WD~transition_metal,19588]]'
 time_of_discovery_or_invention: 1937
 type: Element
-Unicode_character: 鎝
 UNSPSC_Code: 12141742
 dv_is_:
   same_as:
@@ -399,8 +398,11 @@ dv_has_number_of_period: 5
 dv_has_name_abbreviated: Tc
 dv_has_number_of_electrons: 43
 dv_has_number_of_group: 7
+Unicode_character: 鎝
 ---
-# [[Technetium]] 
+# [[Technetium]] 鎝 
+
+
 
 #chemic/Element 
 #is_/same_as :: [[../../../WikiData/WD~Technetium,1054]] 

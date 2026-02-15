@@ -160,7 +160,6 @@ taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Mapa%2
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Reuzenpanda-article.ogg
 sequenced_genome_URL: http://www.ensembl.org/Ailuropoda_melanoleuca
 external_data_available_at_URL: http://www.GigaDB.org/dataset/100004
-Unicode_character: "\U0001F43C"
 taxon_name: Ailuropoda melanoleuca
 Commons_gallery: Ailuropoda melanoleuca
 Commons_category: Ailuropoda melanoleuca
@@ -331,6 +330,7 @@ dv_has_:
     zh_hant: 大熊貓
     zh_hk: 熊貓
     zh_tw: 大貓熊
+Unicode_character: 🐼
 ---
 # [[Giant_Panda]] 🐼 
 

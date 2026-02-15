@@ -72,6 +72,8 @@ dv_has_:
     zh_sg: 诺伯特·维纳
     zh_tw: 諾伯特·維納
 ---
+# [[Wiener,Norbert]]  
+
 #has_/time_/started ::  1894-11-26 
 #has_/time_/stopped ::  1964-03-18 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

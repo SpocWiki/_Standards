@@ -172,6 +172,8 @@ dv_has_:
     zh_hk: 車士打·班寧頓
     zu: Chester Bennington
 ---
+# [[Bennington,Chester]]  
+
 #is_/part_of :: [[../Linkin_Park]] 
 
 #has_/time_/started :: 1976-03-20 

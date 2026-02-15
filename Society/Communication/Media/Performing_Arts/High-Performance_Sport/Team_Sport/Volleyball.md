@@ -112,7 +112,6 @@ aliases:
 - 배구
 has_id_wikidata: Q1734
 Baidu_Tieba_name: 排球
-Unicode_character: "\U0001F3D0"
 inception: 1947-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Triple%20block%20%28Serbia%20vs%20China%2C%20Grand%20Prix%202017%29.jpg
 MeSH_tree_code: I03.450.642.845.932
@@ -339,6 +338,7 @@ dv_has_:
     zh_hant: 排球
     zh_hk: 排球
     zh_tw: 排球
+Unicode_character: 🏐
 ---
 # [[Volleyball]] 🏐 
 

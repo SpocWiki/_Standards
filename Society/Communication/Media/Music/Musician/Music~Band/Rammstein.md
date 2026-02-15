@@ -119,6 +119,8 @@ aliases:
 - 雷姆斯汀
 - 람슈타인
 ---
+# [[Rammstein]]  
+
 Named after the City [[Ramstein]] where 1988 Planes crashed during a Flight Show killing 70 people. 
 
 

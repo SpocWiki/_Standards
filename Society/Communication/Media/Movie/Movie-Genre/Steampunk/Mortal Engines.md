@@ -76,6 +76,8 @@ aliases:
 - 移動都市
 - 모털 엔진
 ---
+# [[Mortal Engines]]  
+
 ## #has_/text_of_/abstract 
 
 > **Mortal Engines** is a young adult science fiction novel by Philip Reeve, published by Scholastic UK in 2001. The book focuses on a futuristic, steampunk version of London, now a giant machine striving to survive on a world that is running out of resources.

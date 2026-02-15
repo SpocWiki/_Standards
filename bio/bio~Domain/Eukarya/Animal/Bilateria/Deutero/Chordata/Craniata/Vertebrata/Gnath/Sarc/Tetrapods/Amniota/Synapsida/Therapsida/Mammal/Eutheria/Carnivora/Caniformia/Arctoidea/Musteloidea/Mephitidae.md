@@ -88,7 +88,6 @@ OmegaWiki_Defined_Meaning: 1255367
 ITIS_TSN: 552336
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Mephitidae.jpg
 taxon_common_name: skunk
-Unicode_character: "\U0001F9A8"
 Commons_category: Mephitidae
 taxon_name: Mephitidae
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Skunk%20genera%20ranges.png
@@ -199,8 +198,9 @@ dv_has_:
     zh: 臭鼬科
     zh_cn: 臭鼬科
     zh_hans: 臭鼬科
+Unicode_character: 🦨
 ---
-# [[Mephitidae]] 
+# [[Mephitidae]] 🦨 
 
 #is_/same_as :: [[WD~Mephitidae,83244]] 
 

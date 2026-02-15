@@ -147,7 +147,6 @@ Commons_category: Ice hockey
 IPTC_NewsCode: mediatopic/20000965
 Krugosvet_article_archived_: sport/HOKKE_S_SHABO.html
 Baidu_Tieba_name: 冰球
-Unicode_character: "\U0001F3D2"
 OpenStreetMap_tag: sport=ice_hockey
 dv_has_:
   name_:
@@ -273,6 +272,7 @@ dv_has_:
     zh_hans: 冰球
     zh_hant: 冰球
     zh_tw: 冰球
+Unicode_character: 🏒
 ---
 # [[Ice_Hockey]] 🏒 
 

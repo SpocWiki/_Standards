@@ -1146,7 +1146,6 @@ Dewey_Decimal_Classification: 2--45
 BHCL_UUID:
 - 37872850-d9da-4cc4-b1dd-0f54053e8a1e
 - eced42c8-d06d-4ea3-b038-50674f687336
-Unicode_character: "\U0001F1EE\U0001F1F9"
 Commons_gallery: Italia
 CIVICUS_Monitor_country_entry: italy
 subreddit: italy
@@ -1171,8 +1170,11 @@ female_population:
 - 30638263
 coordinates_of_southernmost_point: Point(15.07981896 36.64674684)
 population: 58850717
+Unicode_character: 🇮🇹
 ---
-# [[Italy]] 
+# [[Italy]] 🇮🇹 
+
+
 
 ## International Names
 

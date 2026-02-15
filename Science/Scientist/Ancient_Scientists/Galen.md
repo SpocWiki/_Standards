@@ -182,6 +182,8 @@ dv_has_:
     yue: 蓋倫
     zh: 盖伦
 ---
+# [[Galen]]  
+
 ## #has_/text_of_/abstract 
 
 > Aelius **Galen**us or Claudius Galenus (Greek: Κλαύδιος Γαληνός; September 129 – c. 216 AD), 

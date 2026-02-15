@@ -96,6 +96,8 @@ aliases:
 - სიკვდილის დრო არ არის
 - 生死交战
 ---
+# [[No_Time_to_Die,2021]]  
+
 #has_/time_/started :: 2021-09-28 
 
 ## #has_/text_of_/abstract 

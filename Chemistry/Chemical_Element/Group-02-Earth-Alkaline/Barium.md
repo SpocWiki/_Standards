@@ -139,7 +139,6 @@ subject_lexeme: L18238
 time_of_discovery_or_invention: 1808
 type: Element
 UMLS_CUI: C0004749
-Unicode_character: 鋇
 UNII: 24GP945V5T
 UNSPSC_Code: 12141505
 ZVG_number: 8420
@@ -390,8 +389,8 @@ dv_has_name_abbreviated: Ba
 dv_has_number_of_electrons: 56
 dv_has_number_of_period: 6
 dv_has_number_of_group: 2
+Unicode_character: 鋇
 ---
-
 # [[Barium]] 鋇 
 
 #chemic/Element 

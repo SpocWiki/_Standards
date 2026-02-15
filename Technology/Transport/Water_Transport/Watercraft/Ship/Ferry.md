@@ -200,7 +200,9 @@ dv_has_:
     zh-hant: 渡輪
     zh-tw: 渡輪
 ---
-# [[Ferry]] 
+# [[Ferry]] ⛴ 
+
+
 
 #is_/same_as :: [[../../../../../WikiData/WD~Ferry,25653|WD~Ferry,25653]] 
 

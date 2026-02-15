@@ -493,7 +493,6 @@ Commons_category: Tanzania
 FIPS_10_4_countries_and_regions_: TZ
 ISO_3166_1_alpha_2_code: TZ
 WIPO_ST_3: TZ
-Unicode_character: "\U0001F1F9\U0001F1FF"
 MeSH_tree_code: Z01.058.290.120.840
 native_label:
 - United Republic of Tanzania
@@ -941,8 +940,11 @@ dv_is_same_as:
 - '[[/_personal/Earth/Continent/Africa/Africa~East/Tanzania.personal|Tanzania.personal]]'
 - '[[/_secret/Earth/Continent/Africa/Africa~East/Tanzania.secret|Tanzania.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Tanzania
+Unicode_character: 🇹🇿
 ---
-# [[Tanzania]] 
+# [[Tanzania]] 🇹🇿 
+
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

@@ -248,6 +248,8 @@ dv_has_:
     zh_tw: 音樂製作人
     zu: Umkhiqizi wesiqoshwa
 ---
+# [[Music_Producer]]  
+
 ## #has_/text_of_/abstract 
 
 > A record producer or **Music Producer** is a music-creating project's overall supervisor 

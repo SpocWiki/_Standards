@@ -37,6 +37,8 @@ aliases:
 - h-card
 - HCard
 ---
+# [[hCard]]  
+
 > **hCard** is a microformat for publishing the contact details 
 > (which might be no more than the name) of people, companies, organizations, 
 > and places, in HTML, Atom, RSS, or arbitrary XML. 

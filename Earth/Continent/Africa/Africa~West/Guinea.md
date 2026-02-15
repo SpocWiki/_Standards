@@ -335,7 +335,6 @@ U_S_National_Archives_Identifier: 10035717
 Dewey_Decimal_Classification: 2--6652
 WIPO_ST_3: GN
 ISO_3166_1_alpha_2_code: GN
-Unicode_character: "\U0001F1EC\U0001F1F3"
 CIVICUS_Monitor_country_entry: guinea
 GitHub_topic: guinea
 subreddit: GuineaRepublic
@@ -808,8 +807,11 @@ dv_is_same_as:
 - '[[/_private/Earth/Continent/Africa/Africa~West/Guinea.private|Guinea.private]]'
 - '[[/_personal/Earth/Continent/Africa/Africa~West/Guinea.personal|Guinea.personal]]'
 - '[[/_secret/Earth/Continent/Africa/Africa~West/Guinea.secret|Guinea.secret]]'
+Unicode_character: 🇬🇳
 ---
-# [[Guinea]] 
+# [[Guinea]] 🇬🇳 
+
+
 
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`

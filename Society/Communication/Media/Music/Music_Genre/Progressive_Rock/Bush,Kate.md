@@ -133,6 +133,8 @@ dv_has_:
     zh_hk: 姬·布絲
     zh_tw: 凱特·布希
 ---
+# [[Bush,Kate]]  
+
 > Catherine Bush  (born 30 July 1958) is an English singer, songwriter, record producer and dancer. 
 > Bush began writing songs at age 11. 
 > She was signed to EMI Records after the Pink Floyd guitarist, David Gilmour, helped produce a demo tape. 

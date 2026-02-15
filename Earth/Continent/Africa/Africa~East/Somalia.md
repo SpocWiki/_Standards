@@ -696,7 +696,6 @@ birth_rate:
 life_expectancy: 56.293
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Somalia.svg
 maritime_identification_digits: 666
-Unicode_character: "\U0001F1F8\U0001F1F4"
 area: 637657
 INSEE_countries_and_foreign_territories_code: 99318
 PM20_geo_code: C123
@@ -786,8 +785,11 @@ Languages:
 - ar-SO
 - it
 - en-SO
+Unicode_character: 🇸🇴
 ---
-# [Somalia]() 
+# [[Somalia]] 🇸🇴 
+
+
 
 ## [[Somalia]] has Properties...
 

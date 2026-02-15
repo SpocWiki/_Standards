@@ -182,6 +182,8 @@ dv_has_:
     zh-my: 拜仁·康斯顿
     zu: Bryan Cranston
 ---
+# [[Cranston,Bryan]]  
+
 ## #has_/text_of_/abstract 
 
 > Bryan Lee Cranston (born March 7, 1956) is an American actor. 

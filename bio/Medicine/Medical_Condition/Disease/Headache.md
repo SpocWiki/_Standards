@@ -201,7 +201,6 @@ Dewey_Decimal_Classification:
 UMLS_CUI: C0018681
 MeSH_tree_code: C23.888.592.612.441
 Krugosvet_article_archived_: medicina/GOLOVNAYA_BOL.html
-Unicode_character: "\U0001F915"
 dv_has_:
   name_:
     af: hoofpyn
@@ -391,6 +390,7 @@ dv_has_:
     zh-my: 头痛
     zh_sg: 头痛
     zh_tw: 頭痛
+Unicode_character: 🤕
 ---
 # [[Headache]] 🤕 
 

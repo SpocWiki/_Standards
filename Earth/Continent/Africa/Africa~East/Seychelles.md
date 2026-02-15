@@ -354,7 +354,6 @@ coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of
 nominal_GDP:
 - 1286687873
 - 1588406479
-Unicode_character: "\U0001F1F8\U0001F1E8"
 U_S_National_Archives_Identifier: 10035806
 Dewey_Decimal_Classification: 2--696
 ISNI: 000000040459108X
@@ -796,8 +795,11 @@ dv_is_same_as:
 - '[[/_personal/Earth/Continent/Africa/Africa~East/Seychelles.personal|Seychelles.personal]]'
 - '[[/_secret/Earth/Continent/Africa/Africa~East/Seychelles.secret|Seychelles.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Reunion
+Unicode_character: 🇸🇨
 ---
-# [[Seychelles]] 
+# [[Seychelles]] 🇸🇨 
+
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

@@ -133,6 +133,8 @@ dv_has_:
     zh_sg: 布雷顿森林协定
     zh_tw: 布雷頓森林協定
 ---
+# [[Bretton_Woods_Agreement]]  
+
 #has_/time_/started ::  1944-07-01 
 #has_/time_/stopped ::  1976-01-07  
 

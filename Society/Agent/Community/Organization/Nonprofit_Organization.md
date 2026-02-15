@@ -296,6 +296,8 @@ dv_has_:
     zh_tw: 非營利組織
     zu: inhlangano engenzi nzuzo
 ---
+# [[Nonprofit_Organization]]  
+
 #is_/same_as :: [[WD~Nonprofit_organization,163740]] 
 
 ## #has_/text_of_/abstract 

@@ -385,6 +385,8 @@ dv_has_:
     zh_tw: 憲法
     zu: womthethosisekelo
 ---
+# [[Constitution]]  
+
 ## #has_/text_of_/abstract 
 
 > A **Constitution** is the aggregate of fundamental principles or established precedents 

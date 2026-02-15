@@ -238,6 +238,8 @@ dv_has_:
     zh_sg: 普拉西多·多明戈
     zh_tw: 普拉西多·多明哥
 ---
+# [[Domingo,Placido]]  
+
 #has_/time_/started :: 1941-01-21 
 #has_/location_/created :: [[../../../../../../../../_Standards/Earth/Continent/America~Central/Mexico|Mexico]] 
 #is_/member_/of :: [[../Three_Tenors]] 

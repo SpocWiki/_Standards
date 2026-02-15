@@ -353,6 +353,8 @@ dv_has_:
     za: Avicenna
     zh: 伊本·西那
 ---
+# [[Avicenna]]  
+
 #has_/time_/started :: 0980-06 
 #has_/time_/stopped ::  1037-06-22 
 #has_/duration_/years :: `$=Math.round(((dv.current().has_time_stopped ?? new Date()) - dv.current().has_time_started)/1000/60/60/24/365.2425)` 

@@ -79,6 +79,8 @@ dv_has_:
     zh_hant: 深紅之王
     zh_tw: 深紅之王
 ---
+# [[King_Crimson]]  
+
 ## #has_/text_of_/abstract 
 
 > **King Crimson** were  an English-based progressive rock band formed in 1968 in London. 

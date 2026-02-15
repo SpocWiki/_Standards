@@ -168,7 +168,6 @@ subclass_of:
 time_of_discovery_or_invention: 1860
 type: Element
 UMLS_CUI: C0007886
-Unicode_character: 銫
 UNII: 1KSV9V4Y4I
 ZVG_number: 7550
 dv_is_:
@@ -410,8 +409,8 @@ dv_has_name_abbreviated: Cs
 dv_has_number_of_electrons: 55
 dv_has_value_for_temperature_melt_c: 28.4
 dv_has_value_for_electronegativity: 0.79
+Unicode_character: 銫
 ---
-
 # [[Caesium]] 銫 
 
 #is_/same_as :: [[../../../WikiData/WD~Caesium,1108]] 

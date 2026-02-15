@@ -34,6 +34,8 @@ dv_has_:
     war: Solenodonsaurus
     zh: 独齿蜥属
 ---
+# [[Solenodonsaurus]]  
+
 ## [[Solenodonsaurus]]
 
 Solenodonsaurus janenschi 

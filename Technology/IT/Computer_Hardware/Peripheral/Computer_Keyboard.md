@@ -336,7 +336,9 @@ dv_has_:
     zh_sg: 电脑键盘
     zh_tw: 電腦鍵盤
 ---
-# [[Computer_Keyboard]] 🖮 
+# [[Computer_Keyboard]] ⌨ 
+
+
 
 #is_/same_as :: [[../../../../WikiData/WD~Computer_keyboard,250|WD~Computer_keyboard,250]] 
 

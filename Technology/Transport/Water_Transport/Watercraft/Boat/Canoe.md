@@ -83,7 +83,6 @@ sectional_view: http://commons.wikimedia.org/wiki/Special:FilePath/Baden-Powell%
 exact_match: http://wordnet-rdf.princeton.edu/wn30/02951358-n
 P8189: 987007283357705200
 OpenStreetMap_tag_or_key: Key:canoe
-Unicode_character: "\U0001F6F6"
 name: kom
 dv_has_:
   name_:
@@ -186,6 +185,7 @@ dv_has_:
     zh-hk: 獨木舟
     zh-sg: 独木舟
     zh-tw: 獨木舟
+Unicode_character: 🛶
 ---
 # [[Canoe]] 🛶  
 

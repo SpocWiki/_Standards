@@ -305,7 +305,6 @@ Commons_category: Canis lupus
 taxon_name: Canis lupus
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Eurasian%20wolf%202.jpg
 short_name: C. lupus
-Unicode_character: "\U0001F43A"
 Baidu_Tieba_name: 狼
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Die%20Sinne%20des%20Wolfs.webm
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/Wolf%20howls.ogg
@@ -533,6 +532,7 @@ dv_has_:
     zh_hans: 狼
     zh_hant: 狼
     zh_tw: 狼
+Unicode_character: 🐺
 ---
 # [[Wolf]] 🐺 
 

@@ -286,7 +286,9 @@ dv_has_:
     zh_sg: 有理数
     zh_tw: 有理數
 ---
-# [[Rational_Number]] 
+
+# [[Rational_Number]] ℚ 
+
 
 #has_/complement :: [[Irrational_Number]]
 #is_/same_as :: [[WD~Rational_number,1244890]] 

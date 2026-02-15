@@ -212,7 +212,9 @@ dv_has_:
     yue: 華氏
     zh: 华氏温标
 ---
-# [[Degree_Fahrenheit]] 
+
+# [[Degree_Fahrenheit]] ℉ 
+
 
 #is_/similar_to :: [[../Unit~Celsius|Unit~Celsius]] 
 

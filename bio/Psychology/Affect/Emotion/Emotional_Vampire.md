@@ -37,6 +37,8 @@ dv_has_:
     ru: психический вампир
     uk: Психічний вампір
 ---
+# [[Emotional_Vampire]]  
+
 ## #has_/text_of_/abstract 
 
 > A psychic vampire is a creature in folklore said to feed off the "life force" of other living creatures. 

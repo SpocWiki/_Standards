@@ -347,6 +347,8 @@ dv_has_:
     zh_sg: 英格玛·柏格曼
     zu: Ingmar Bergman
 ---
+# [[Bergman,Ingmar]]  
+
 #has_/time_/started ::  1918-07-14
 #has_/time_/stopped ::  2007-07-30 
 #has_/duration  :: `=(default(this.has_time_stopped, date(now)) - this.has_time_started)` 

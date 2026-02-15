@@ -589,7 +589,6 @@ type: Country
 UIC_alphabetical_country_code: NZ
 UIC_numerical_country_code: 64
 unemployment_rate: 6
-Unicode_character: "\U0001F1F3\U0001F1FF"
 urban_population:
 - 4312734
 - 4413152
@@ -1001,8 +1000,11 @@ dv_is_same_as:
 - '[[/_personal/Earth/Continent/Australasia/New_Zealand.personal|New_Zealand.personal]]'
 - '[[/_secret/Earth/Continent/Australasia/New_Zealand.secret|New_Zealand.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Australia-New_Zealand
+Unicode_character: 🇳🇿
 ---
-# [[New_Zealand]] 
+# [[New_Zealand]] 🇳🇿 
+
+
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

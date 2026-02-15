@@ -25,6 +25,8 @@ dv_has_:
     tr: Freak on a Leash
     uk: Freak on a Leash
 ---
+# [[Korn~Freak_on_a_Leash]]  
+
 #has_/time_/started :: 1999-02-25 
 
 ## #has_/text_of_/abstract 

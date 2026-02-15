@@ -71,6 +71,8 @@ aliases:
 - リサイクルコード
 - 國際通用資源回收編碼
 ---
+# [[Recycling_codes]]  
+
 ## #has_/text_of_/abstract 
 
 > Recycling codes are used to identify the materials out of which the item is made, 

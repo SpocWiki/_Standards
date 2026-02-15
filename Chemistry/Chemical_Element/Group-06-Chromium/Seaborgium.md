@@ -94,7 +94,6 @@ OmegaWiki_Defined_Meaning: 359210
 Commons_gallery: Seaborgium
 Commons_category: Seaborgium
 time_of_discovery_or_invention: 1974-07-01T00:00:00Z
-Unicode_character: "\U00028B4E"
 element_symbol: Sg
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20106%20Seaborgium.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Elektronskal%20106.svg
@@ -272,8 +271,11 @@ dv_has_:
     zh_sg: "\U0002CB73"
     zh_tw: "\U00028B4E"
     zu: ISigamchibi
+Unicode_character: 𨭎
 ---
-# [[Seaborgium]] 
+# [[Seaborgium]] 𨭎 
+
+
 
 #is_/same_as :: [[../../../WikiData/WD~Seaborgium,1234|WD~Seaborgium,1234]]  
 

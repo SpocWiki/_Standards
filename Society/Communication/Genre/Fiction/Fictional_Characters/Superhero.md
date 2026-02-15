@@ -118,7 +118,6 @@ image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/AmericasBestComics0701.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/CaptAmerica.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Gotham%20City%20Saviour%20%282430422247%29.jpg
-Unicode_character: "\U0001F9B8"
 male_form_of_label:
 - بطل خارق
 - Superheld
@@ -229,6 +228,7 @@ dv_has_:
     zh_sg: 超级英雄
     zh_tw: 超級英雄
     zu: IMbudle
+Unicode_character: 🦸
 ---
 # [[Superhero]] 🦸 
 

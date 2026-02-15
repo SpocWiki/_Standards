@@ -14,6 +14,8 @@ aliases:
 - Пратакол моўнага сэрвэру
 - 語言伺服器協定
 ---
+# [[LSP(Language_Server_Protocol)]]  
+
 #has_/time_/started :: 2020-02-01
 
 > The Language Server Protocol (LSP) is an open, JSON-RPC-based protocol for use between source code editors or integrated development environments (IDEs) and servers that provide "language intelligence tools": programming language-specific features like 

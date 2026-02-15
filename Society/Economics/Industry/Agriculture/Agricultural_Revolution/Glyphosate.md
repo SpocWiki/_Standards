@@ -96,6 +96,8 @@ dv_has_:
     zh_sg: 草甘膦
     zh_tw: 草甘膦
 ---
+# [[Glyphosate]]  
+
 ## Detergents as a Source of  Glyphosate 
 
 [[Phosphonate]]s can be a source of [[Glyphosate]]-compounds. 

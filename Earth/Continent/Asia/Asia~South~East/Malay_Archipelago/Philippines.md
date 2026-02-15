@@ -1192,16 +1192,15 @@ trunk_prefix: 0
 type: Country
 UMLS_CUI: C0031529
 unemployment_rate: 7.1
-Unicode_character: "\U0001F1F5\U0001F1ED"
 urban_population: 58930729
 U_S_National_Archives_Identifier: 10035764
 VAT_rate: 12
 Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_the_Philippines,7112774]]'
 WIPO_ST_3: PH
+Unicode_character: 🇵🇭
 ---
-# [[Philippines]] 
 
-## [[Philippines]] has Properties...
+# [[Philippines]] 🇵🇭 has Properties...
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`

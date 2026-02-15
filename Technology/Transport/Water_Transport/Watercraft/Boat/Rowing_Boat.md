@@ -51,7 +51,6 @@ topic_has_template: '[[_Standards/WikiData/WD~Q25820992,25820992]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/%28Woman%20in%20Hat%20Rowing%20a%20Boat%29%20-%20Google%20Art%20Project.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/WRJCH%202018-08-09%20JM2x%20Reps%20%28Martin%20Rulsch%29%2008.jpg
-Unicode_character: "\U0001F6A3"
 Commons_category: Rowboats
 dv_has_:
   name_:
@@ -93,8 +92,11 @@ dv_has_:
     uk: весловий човен
     yue: 撑艇
     zh: 手划船
+Unicode_character: 🚣
 ---
-# [[Rowing_Boat]] 
+# [[Rowing_Boat]] 🚣 
+
+
 
 #is_/same_as ::: [[WD~Rowing_boat,1195684]] 
 

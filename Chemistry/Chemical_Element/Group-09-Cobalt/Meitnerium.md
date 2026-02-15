@@ -88,7 +88,6 @@ OmegaWiki_Defined_Meaning: 333247
 Commons_gallery: Meitnerium
 Commons_category: Meitnerium
 element_symbol: Mt
-Unicode_character: 䥑
 time_of_discovery_or_invention: 1982-08-29T00:00:00Z
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20109%20Meitnerium.svg
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-us-meitnerium.ogg
@@ -262,8 +261,11 @@ dv_has_:
     zh_sg: 鿏
     zh_tw: 䥑
     zu: UMtshambi
+Unicode_character: 䥑
 ---
-# [[Meitnerium]] 
+# [[Meitnerium]] 䥑 
+
+
 
 #is_/same_as :: [[WD~Meitnerium,1258]] 
 

@@ -56,6 +56,8 @@ dv_has_:
     ur: ریڈٹ
     zh: Reddit
 ---
+# [[subreddit]]  
+
 ## #has_/text_of_/abstract 
 
 > **Reddit** (RED-it) is an American proprietary social news aggregation and forum social media platform. 

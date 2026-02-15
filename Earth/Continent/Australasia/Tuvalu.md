@@ -203,7 +203,6 @@ Commons_gallery: Tuvalu
 Commons_category: Tuvalu
 subreddit: Tuvalu
 hashtag: Tuvalu
-Unicode_character: "\U0001F1F9\U0001F1FB"
 official_name:
 - les Tuvalu
 - Tuvalu
@@ -624,8 +623,11 @@ dv_has_:
     zh_sg: 图瓦卢
     zh_tw: 吐瓦魯
     zu: i-Tuvalu
+Unicode_character: 🇹🇻
 ---
-# [[Tuvalu]] 
+# [[Tuvalu]] 🇹🇻 
+
+
 
 is_part_of = `=this.dv_is_part_of`
 

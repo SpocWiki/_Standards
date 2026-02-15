@@ -212,7 +212,6 @@ small_logo_or_icon: http://commons.wikimedia.org/wiki/Special:FilePath/Font%20Aw
 equivalent_class:
 - http://live.dbpedia.org/ontology/Ship
 - http://rdf.muninn-project.org/ontologies/naval#Ship
-Unicode_character: "\U0001F6A2"
 P8189: 987007538853605100
 MeSH_tree_code: J01.937.817
 dv_has_:
@@ -401,6 +400,7 @@ dv_has_:
     zh-hant: 船
     zh-hk: 船
     zh-tw: 船
+Unicode_character: 🚢
 ---
 # [[Ship]] 🚢 
 

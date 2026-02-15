@@ -496,8 +496,11 @@ dv_is_same_as:
 - '[[/_private/Earth/Geology/Landform/Mountain.private|Mountain.private]]'
 - '[[/_personal/Earth/Geology/Landform/Mountain.personal|Mountain.personal]]'
 - '[[/_secret/Earth/Geology/Landform/Mountain.secret|Mountain.secret]]'
+Unicode_character: ⛰
 ---
-# [[Mountain]]  
+# [[Mountain]] ⛰ 
+
+
 
 Class of all mountains.
 

@@ -372,7 +372,6 @@ Commons_gallery: Panthera leo
 Commons_category: Panthera leo
 taxon_name: Panthera leo
 Iconclass_notation: 25F23(LION)
-Unicode_character: "\U0001F981"
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/0%20A.D.%20animal%20lion%20smooth.stl
 video:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Bedrohte%20L%C3%B6wenpopulationen.webm
@@ -672,6 +671,7 @@ dv_has_:
     zh_sg: 狮
     zh_tw: 獅
     zu: ibhubesi
+Unicode_character: 🦁
 ---
 # [[Lion]] 🦁 
 

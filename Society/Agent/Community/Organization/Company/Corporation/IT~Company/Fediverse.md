@@ -91,6 +91,8 @@ aliases:
 - 聯邦宇宙
 - 연합우주
 ---
+# [[Fediverse]]  
+
 ## #has_/text_of_/abstract 
 
 > The **Fediverse** (commonly shortened to Fedi) is a __collection of social networking services__ 

@@ -611,7 +611,9 @@ dv_has_:
     zh_tw: 木星
     zu: UJupitheri
 ---
-# [[Jupiter(Planet)]] 
+# [[Jupiter(Planet)]] ♃ 
+
+
 
 #is_/same_as :: [[../../WikiData/WD~Jupiter,319]] 
 #is_/different_from  :: [[../../WikiData/WD~Jupiter,4649]]  

@@ -39,6 +39,8 @@ aliases:
 - 天方夜谭
 - 신밧드의 모험
 ---
+# [[Sindbad(Anime)]]  
+
 > Arabian Nights: Sinbad's Adventures 
 > (アラビアンナイト シンドバットの冒険, Arabian Naito: Shindobatto no Bōken) 
 > is a 52-episode anime series directed by Fumio Kurokawa and produced by [[Nippon_Animation|Nippon Animation]] 
