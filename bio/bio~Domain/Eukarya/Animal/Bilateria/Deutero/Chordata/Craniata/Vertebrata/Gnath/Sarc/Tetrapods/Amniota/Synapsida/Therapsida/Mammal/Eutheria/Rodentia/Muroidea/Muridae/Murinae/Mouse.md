@@ -287,7 +287,7 @@ dv_has_:
     zh_tw: 小鼠屬
 ---
 
-# [[Mouse]] 🐁 
+# [[Mouse]] 🐁 🐭 
 
 
 
