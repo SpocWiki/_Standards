@@ -115,7 +115,7 @@ dv_has_:
 > Hydrogen (1H) has three naturally occurring isotopes: 1H, 2H, and 3H. 
 > 1H and 2H are stable, while 3H has a half-life of 12.32 years. 
 > Heavier isotopes also exist; all are synthetic 
-> and have a half-life of less than 1 zeptosecond (1e−21 s).
+> and have a half-life of less than 1 zeptosecond (1e-21 s).
 >
 > Hydrogen is the only element whose isotopes have 
 > different names that remain in common use today: 2H is deuterium and 3H is tritium. 

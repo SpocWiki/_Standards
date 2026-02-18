@@ -119,9 +119,9 @@ is_same_as = `=this.dv_is_same_as`
 
 ## #has_/text_of_/abstract 
 
-> In organic chemistry, a **Nitrile** is any organic compound that has a −C≡N functional group. The name of the compound is composed of a base, which includes the carbon of the −C≡N, suffixed with "nitrile", so for example CH3CH2C≡N is called "propionitrile" (or propanenitrile). The prefix cyano- is used interchangeably with the term nitrile in industrial literature. Nitriles are found in many useful compounds, including methyl cyanoacrylate, used in super glue, and nitrile rubber, a nitrile-containing polymer used in latex-free laboratory and medical gloves. Nitrile rubber is also widely used as automotive and other seals since it is resistant to fuels and oils. Organic compounds containing multiple nitrile groups are known as cyanocarbons.
+> In organic chemistry, a **Nitrile** is any organic compound that has a -C≡N functional group. The name of the compound is composed of a base, which includes the carbon of the -C≡N, suffixed with "nitrile", so for example CH3CH2C≡N is called "propionitrile" (or propanenitrile). The prefix cyano- is used interchangeably with the term nitrile in industrial literature. Nitriles are found in many useful compounds, including methyl cyanoacrylate, used in super glue, and nitrile rubber, a nitrile-containing polymer used in latex-free laboratory and medical gloves. Nitrile rubber is also widely used as automotive and other seals since it is resistant to fuels and oils. Organic compounds containing multiple nitrile groups are known as cyanocarbons.
 >
-> Inorganic compounds containing the −C≡N group are not called nitriles, but cyanides instead. Though both nitriles and cyanides can be derived from cyanide salts, most nitriles are not nearly as toxic.
+> Inorganic compounds containing the -C≡N group are not called nitriles, but cyanides instead. Though both nitriles and cyanides can be derived from cyanide salts, most nitriles are not nearly as toxic.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Nitrile) 
 

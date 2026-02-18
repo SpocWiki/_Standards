@@ -323,7 +323,7 @@ dv_has_:
 > Absolute temperatures are stated in units of kelvin in Lord Kelvin's honour. 
 > While the existence of a coldest possible temperature, 
 > absolute zero, was known before his work, 
-> Kelvin determined its correct value as approximately −273.15 degrees Celsius. 
+> Kelvin determined its correct value as approximately -273.15 degrees Celsius. 
 > The Joule–Thomson effect is also named in his honour.
 >
 > Kelvin worked closely with the mathematics professor Hugh Blackburn in his work. 

@@ -168,7 +168,7 @@ dv_has_:
 > equivalent to 1 coulomb per volt (C/V). 
 > 
 > It is named after the English physicist Michael Faraday (1791–1867). 
-> In SI base units 1 F = 1 kg−1⋅m−2⋅s4⋅A2.
+> In SI base units 1 F = 1 kg-1⋅m-2⋅s4⋅A2.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Farad) 
 

@@ -268,7 +268,7 @@ dv_has_:
 > 
 > It is a white solid ionic compound consisting of 
 > - sodium cations Na+ and 
-> - hydroxide anions OH−.
+> - hydroxide anions OH-.
 >
 > Sodium hydroxide is a highly corrosive base and alkali 
 > that decomposes lipids and proteins at ambient temperatures, 

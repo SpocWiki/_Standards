@@ -223,7 +223,7 @@ dv_has_:
 >
 > Steppes are usually characterized by a semi-arid or continental climate. 
 > Temperature extremes can be recorded in the summer of up to 45 °C (115 °F) 
-> and in winter of down to −55 °C (−65 °F). 
+> and in winter of down to -55 °C (-65 °F). 
 > 
 > Besides this major seasonal difference, 
 > fluctuations between day and night are also significant: 

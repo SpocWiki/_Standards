@@ -92,7 +92,7 @@ dv_has_:
 
 > **Microtechnology** is technology 
 > whose features have dimensions of the order of one micrometre 
-> (one millionth of a metre, or 10−6 metre, or 1μm). 
+> (one millionth of a metre, or 10-6 metre, or 1μm). 
 > 
 > It focuses on physical and chemical processes 
 > as well as the production or manipulation of structures with one-micrometre magnitude.

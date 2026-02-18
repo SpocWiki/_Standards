@@ -74,7 +74,7 @@ dv_has_:
 > An example is any function ⁠f : A → A⁠ is a unary operation on A.
 >
 > Common notations are 
-> - prefix notation (e.g. ¬, −), 
+> - prefix notation (e.g. ¬, -), 
 > - postfix notation (e.g. factorial n!), also in Programming, 
 > - functional notation (e.g. sin x or sin(x)), and 
 > - superscripts (e.g. transpose AT). 

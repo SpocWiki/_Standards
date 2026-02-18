@@ -187,7 +187,7 @@ dv_has_:
 > usually one of each, bound together by the strong interaction. 
 > 
 > Because mesons are composed of quark subparticles, they have a meaningful physical size, 
-> a diameter of roughly one femtometre (10−15 m), 
+> a diameter of roughly one femtometre (10-15 m), 
 > which is about 0.6 times the size of a proton or neutron. 
 > 
 > All mesons are unstable, with the longest-lived lasting for only a few tenths of a nanosecond.  
@@ -213,7 +213,7 @@ dv_has_:
 >
 > Because quarks have a spin ⁠1/2⁠, the difference in quark number between mesons and baryons results in conventional two-quark mesons being bosons, whereas baryons are fermions.
 >
-> Each type of meson has a corresponding antiparticle (antimeson) in which quarks are replaced by their corresponding antiquarks and vice versa. For example, a positive pion (π+) is made of one up quark and one down antiquark; and its corresponding antiparticle, the negative pion (π−), is made of one up antiquark and one down quark.
+> Each type of meson has a corresponding antiparticle (antimeson) in which quarks are replaced by their corresponding antiquarks and vice versa. For example, a positive pion (π+) is made of one up quark and one down antiquark; and its corresponding antiparticle, the negative pion (π-), is made of one up antiquark and one down quark.
 >
 > Because mesons are composed of quarks, they participate in both the weak interaction and strong interaction. Mesons with net electric charge also participate in the electromagnetic interaction. Mesons are classified according to their quark content, total angular momentum, parity and various other properties, such as C-parity and G-parity. Although no meson is stable, those of lower mass are nonetheless more stable than the more massive, and hence are easier to observe and study in particle accelerators or in cosmic ray experiments. The lightest group of mesons is less massive than the lightest group of baryons, meaning that they are more easily produced in experiments, and thus exhibit certain higher-energy phenomena more readily than do baryons. But mesons can be quite massive: for example, the J/Psi meson (J/ψ) containing the charm quark, first seen 1974, is about three times as massive as a proton, and the upsilon meson (ϒ) containing the bottom quark, first seen in 1977, is about ten times as massive as a proton.
 >

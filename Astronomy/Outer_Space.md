@@ -345,7 +345,7 @@ dv_has_:
 > constituting a near-perfect vacuum of predominantly hydrogen and helium plasma, 
 > permeated by electromagnetic radiation, cosmic rays, neutrinos, magnetic fields and dust. 
 > The baseline temperature of outer space, 
-> as set by the background radiation from the Big Bang, is 2.7 kelvins (−270 °C; −455 °F). 
+> as set by the background radiation from the Big Bang, is 2.7 kelvins (-270 °C; -455 °F). 
 >
 > The plasma between galaxies is thought to account for about half of the baryonic (ordinary) matter in the universe, having a number density of less than one hydrogen atom per cubic metre and a kinetic temperature of millions of kelvins. Local concentrations of matter have condensed into stars and galaxies. Intergalactic space takes up most of the volume of the universe, but even galaxies and star systems consist almost entirely of empty space. Most of the remaining mass-energy in the observable universe is made up of an unknown form, dubbed dark matter and dark energy.
 >

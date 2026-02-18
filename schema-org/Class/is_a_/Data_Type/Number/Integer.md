@@ -361,7 +361,7 @@ has_parent_class = `=this.dv_has_parent_class`
 ## #has_/text_of_/abstract 
 
 > An **Integer** is the number zero (0), a positive natural number (1, 2, 3, ...), 
-> or the negation of a positive natural number (−1, −2, −3, ...). 
+> or the negation of a positive natural number (-1, -2, -3, ...). 
 > 
 > The negations or additive inverses of the positive natural numbers 
 > are referred to as negative integers. 
@@ -372,7 +372,7 @@ has_parent_class = `=this.dv_has_parent_class`
 > itself a subset of the real numbers ⁠ℝ.
 >
 > ⁠Like the set of natural numbers, the set of integers ℤ is countably infinite. 
-> An integer may be regarded as a real number that can be written without a fractional component. For example, 21, 4, 0, and −2048 are integers, 
+> An integer may be regarded as a real number that can be written without a fractional component. For example, 21, 4, 0, and -2048 are integers, 
 > while 9.75, ⁠5+1/2⁠, 5/4, and the square root of 2 are not.
 >
 > The integers form the smallest group and the smallest ring containing the natural numbers. 

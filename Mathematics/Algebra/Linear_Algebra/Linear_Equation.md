@@ -221,7 +221,7 @@ dv_has_:
 > In the case of just one variable, there is exactly one solution (provided that a1 ≠ 0). 
 > Often, the term linear equation refers implicitly to this particular case, in which the variable is sensibly called the unknown.
 >
-> In the case of two variables, each solution may be interpreted as the Cartesian coordinates of a point of the Euclidean plane. The solutions of a linear equation form a line in the Euclidean plane, and, conversely, every line can be viewed as the set of all solutions of a linear equation in two variables. This is the origin of the term linear for describing this type of equation. More generally, the solutions of a linear equation in n variables form a hyperplane (a subspace of dimension n − 1) in the Euclidean space of dimension n.
+> In the case of two variables, each solution may be interpreted as the Cartesian coordinates of a point of the Euclidean plane. The solutions of a linear equation form a line in the Euclidean plane, and, conversely, every line can be viewed as the set of all solutions of a linear equation in two variables. This is the origin of the term linear for describing this type of equation. More generally, the solutions of a linear equation in n variables form a hyperplane (a subspace of dimension n - 1) in the Euclidean space of dimension n.
 >
 > Linear equations occur frequently in all mathematics and their applications in physics and engineering, partly because non-linear systems are often well approximated by linear equations.
 >

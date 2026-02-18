@@ -269,10 +269,10 @@ dv_has_:
 >
 > Generally, any large chemical compound containing a carbon–hydrogen or carbon–carbon bond 
 > is accepted as an organic compound.  
-> Thus alkanes (e.g. ethane, CH3−CH3) and their derivatives are typically considered organic.  
+> Thus alkanes (e.g. ethane, CH3-CH3) and their derivatives are typically considered organic.  
 > For historical and disciplinary reasons, small molecules containing carbon are generally not accepted: 
-> cyanide ion (CN−), hydrogen cyanide (HCN), chloroformic acid (ClCO2H), 
-> carbon dioxide (CO2), and carbonate ion (CO2−3) may all be excluded.
+> cyanide ion (CN-), hydrogen cyanide (HCN), chloroformic acid (ClCO2H), 
+> carbon dioxide (CO2), and carbonate ion (CO2-3) may all be excluded.
 >
 > Due to carbon's ability to catenate (form chains with other carbon atoms), 
 > millions of organic compounds are known.  

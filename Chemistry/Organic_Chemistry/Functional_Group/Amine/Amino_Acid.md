@@ -336,7 +336,7 @@ has_formula_structural = `=this.dv_has_formula_structural`
 > Amino acids are formally named by the IUPAC-IUBMB Joint Commission on Biochemical Nomenclature 
 > in terms of the fictitious "neutral" structure shown in the illustration. 
 > For example, the systematic name of alanine is 2-aminopropanoic acid, 
-> based on the formula CH3−CH(NH2)−COOH. 
+> based on the formula CH3-CH(NH2)-COOH. 
 > 
 > [Wikipedia](https://en.wikipedia.org/wiki/Amino%20acid) 
 

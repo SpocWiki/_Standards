@@ -157,7 +157,7 @@ dv_has_:
 > Originally proposed in 1899 by German physicist Max Planck, 
 > they are relevant in research on unified theories such as quantum gravity.
 >
-> The term Planck scale refers to quantities of space, time, energy and other units that are similar in magnitude to corresponding Planck units. This region may be characterized by particle energies of around 1019 GeV or 109 J, time intervals of around 5×10−44 s and lengths of around 10−35 m (approximately the energy-equivalent of the Planck mass, the Planck time and the Planck length, respectively). At the Planck scale, the predictions of the Standard Model, quantum field theory and general relativity are not expected to apply, and quantum effects of gravity are expected to dominate. One example is represented by the conditions in the first 10−43 seconds of our universe after the Big Bang, approximately 13.8 billion years ago.
+> The term Planck scale refers to quantities of space, time, energy and other units that are similar in magnitude to corresponding Planck units. This region may be characterized by particle energies of around 1019 GeV or 109 J, time intervals of around 5×10-44 s and lengths of around 10-35 m (approximately the energy-equivalent of the Planck mass, the Planck time and the Planck length, respectively). At the Planck scale, the predictions of the Standard Model, quantum field theory and general relativity are not expected to apply, and quantum effects of gravity are expected to dominate. One example is represented by the conditions in the first 10-43 seconds of our universe after the Big Bang, approximately 13.8 billion years ago.
 >
 > The four universal constants that, by definition, have a numeric value 1 when expressed in these units are:
 >

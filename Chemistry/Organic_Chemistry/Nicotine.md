@@ -2,12 +2,12 @@
 aliases:
 - (-)-nicotine
 - (-)-nikotin
-- (−)-nicitín
-- (−)-Nicotin
-- (−)-nicotine
-- (−)-nikotin
-- (−)-nikotino
-- (−)-nikotyna
+- (-)-nicitín
+- (-)-Nicotin
+- (-)-nicotine
+- (-)-nikotin
+- (-)-nikotino
+- (-)-nikotyna
 - Ndaengq'ien
 - Nicoteen
 - Nicotien
@@ -297,10 +297,10 @@ dv_has_:
     cs: nikotin
     cy: Nicotin
     da: nikotin
-    de: (−)-Nicotin
+    de: (-)-Nicotin
     el: Νικοτίνη
-    en: (−)-nicotine
-    eo: (−)-nikotino
+    en: (-)-nicotine
+    eo: (-)-nikotino
     es: nicotina
     et: Nikotiin
     eu: nikotina
@@ -308,7 +308,7 @@ dv_has_:
     fi: nikotiini
     fr: nicotine
     frc: (-)-nicotine
-    ga: (−)-nicitín
+    ga: (-)-nicitín
     gl: Nicotina
     gsw: Nicotin
     gu: નિકોટિન
@@ -350,7 +350,7 @@ dv_has_:
     nn: (-)-nikotin
     oc: Nicotina
     pa: ਨਿਕੋਟੀਨ
-    pl: (−)-nikotyna
+    pl: (-)-nikotyna
     pms: Nicotin-a
     pnb: نکوٹین
     ps: نیکوتین
@@ -363,7 +363,7 @@ dv_has_:
     sh: Nikotin
     si: නිකොටින්
     sk: Nikotín
-    sl: (−)-nikotin
+    sl: (-)-nikotin
     so: Niikotiin
     sq: Nikotina
     sr: Никотин

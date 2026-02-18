@@ -65,7 +65,7 @@ aliases:
 > 
 > The commutator of two elements, g and h, of a group G, is the element
 > 
-> [g, h] = g−1h−1gh.
+> [g, h] = g-1h-1gh.
 >
 > This element is equal to the group's identity if and only if g and h commute (that is, if and only if gh = hg).
 >
@@ -79,10 +79,10 @@ aliases:
 > The definition of the commutator above is used throughout this article, 
 > but many other group theorists define the commutator as
 > 
-> [g, h] = ghg−1h−1.
+> [g, h] = ghg-1h-1.
 > 
 > Commutator identities are an important tool in group theory. 
-> The expression ax denotes the conjugate of a by x, defined as x−1ax.
+> The expression ax denotes the conjugate of a by x, defined as x-1ax.
 >      x^{y}=x[x,y].}
 >      [y,x]=[x,y]^{-1}.}
 >      [x,zy]=[x,y]⋅ [x,z]^{y}}
@@ -102,7 +102,7 @@ aliases:
 > It is a group-theoretic analogue of the Jacobi identity 
 > for the ring-theoretic commutator (see next section).
 >
-> N.B., the above definition of the conjugate of a by x is used by some group theorists.  Many other group theorists define the conjugate of a by x as xax−1.  This is often written 
+> N.B., the above definition of the conjugate of a by x is used by some group theorists.  Many other group theorists define the conjugate of a by x as xax-1.  This is often written 
 >
 >      {}^{x}a}
 >.  Similar identities hold for these conventions.

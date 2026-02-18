@@ -60,7 +60,7 @@ dv_has_:
 
 In n-dimensional [[Geometric_Algebra]], 
 pseudovectors are the 
-elements of the algebra with dimension (n − 1): __⋀<sup>n-1</sup> Rⁿ__. 
+elements of the algebra with dimension (n - 1): __⋀<sup>n-1</sup> Rⁿ__. 
 
 The label "pseudo-" can be further generalized 
 to [[Pseudo-Scalar]]s and [[Pseudo-Tensor]]s, 

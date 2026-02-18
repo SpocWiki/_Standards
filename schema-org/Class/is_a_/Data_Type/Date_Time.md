@@ -137,7 +137,7 @@ The basic notation for time zones is an offset from UTC. For example:
 | -------------------------- | ---------- | ------------ | ------------------------------------------------ |
 | UTC itself                 | 0          | UTC ± 00:00  | 12:00                                            |
 | Central European Time      | +1         | UTC + 01:00  | 13:00                                            |
-| U.S. Eastern Standard Time | −5         | UTC − 05:00  | 07:00                                            |
+| U.S. Eastern Standard Time | -5         | UTC - 05:00  | 07:00                                            |
 | Japan Standard Time        | +9         | UTC + 09:00  | 21:00                                            |
 
 The notation uses _Z_ as shorthand for “zero offset.” Thus, _2024-05-06T12:00:00Z_ is exactly the same as _2024-05-06 12:00 UTC_.

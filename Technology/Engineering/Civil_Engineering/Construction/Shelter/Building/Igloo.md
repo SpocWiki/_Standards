@@ -151,7 +151,7 @@ dv_has_:
 >
 > Although igloos are often associated with all Inuit, they were traditionally used only by the people of Canada's Central Arctic and the Qaanaaq area of Greenland. Other Inuit tended to use snow to insulate their houses, which were constructed from whalebone and hides. 
 >
-> Snow is used because the air pockets trapped in it make it an insulator. Known as the igloo effect, on the outside, temperatures may be as low as −45 °C (−49 °F), but on the inside, the temperature may range from −7 to 16 °C (19 to 61 °F) when warmed by body heat alone.
+> Snow is used because the air pockets trapped in it make it an insulator. Known as the igloo effect, on the outside, temperatures may be as low as -45 °C (-49 °F), but on the inside, the temperature may range from -7 to 16 °C (19 to 61 °F) when warmed by body heat alone.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Igloo) 
 

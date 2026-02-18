@@ -205,7 +205,7 @@ dv_has_:
 > such as the radian (a ratio of quantities of dimension length), 
 > so the symbol "sr" is used to indicate a solid angle. 
 > 
-> For example, radiant intensity can be measured in watts per steradian (W⋅sr−1). 
+> For example, radiant intensity can be measured in watts per steradian (W⋅sr-1). 
 > The steradian was formerly an SI supplementary unit, 
 > but this category was abolished in 1995 
 > and the steradian is now considered an SI derived unit.

@@ -357,7 +357,7 @@ has_formula_structural = `=this.dv_has_formula_structural`
 >
 > Indoors CO is one of the most acutely toxic contaminants affecting indoor air quality. CO may be emitted from tobacco smoke and generated from malfunctioning fuel-burning stoves (wood, kerosene, natural gas, propane) and fuel-burning heating systems (wood, oil, natural gas) and from blocked flues connected to these appliances. Carbon monoxide poisoning is the most common type of fatal air poisoning in many countries.
 >
-> Carbon monoxide has important biological roles across phylogenetic kingdoms. It is produced by many organisms, including humans. In mammalian physiology, carbon monoxide is a classical example of hormesis where low concentrations serve as an endogenous neurotransmitter (gasotransmitter) and high concentrations are toxic, resulting in carbon monoxide poisoning. It is isoelectronic with both cyanide anion CN− and molecular nitrogen N2.
+> Carbon monoxide has important biological roles across phylogenetic kingdoms. It is produced by many organisms, including humans. In mammalian physiology, carbon monoxide is a classical example of hormesis where low concentrations serve as an endogenous neurotransmitter (gasotransmitter) and high concentrations are toxic, resulting in carbon monoxide poisoning. It is isoelectronic with both cyanide anion CN- and molecular nitrogen N2.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Carbon%20monoxide) 
 

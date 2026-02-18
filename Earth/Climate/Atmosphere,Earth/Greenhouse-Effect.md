@@ -275,7 +275,7 @@ markerFolder: ./Greenhouse-Effect/
 > In response, the Earth's surface emits longwave radiation that is mostly absorbed by greenhouse gases. 
 > The absorption of longwave radiation prevents it from reaching space, reducing the rate at which the Earth can cool off.
 >
-> The Earth's average surface temperature would be about −18 °C (−0.4 °F) without the greenhouse effect, 
+> The Earth's average surface temperature would be about -18 °C (-0.4 °F) without the greenhouse effect, 
 > compared to Earth's 20th century average of about 14 °C (57 °F), or a more recent average of about 15 °C (59 °F). 
 > 
 > In addition to naturally present greenhouse gases, 

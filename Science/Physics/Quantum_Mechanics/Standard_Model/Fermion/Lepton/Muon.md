@@ -163,7 +163,7 @@ dv_has_:
 ## #has_/text_of_/abstract 
 
 > A **Muon** ( M(Y)OO-on; from the Greek letter mu (μ) used to represent it) 
-> is an elementary particle similar to the electron, with an electric charge of −e 
+> is an elementary particle similar to the electron, with an electric charge of -e 
 > and a spin of ⁠1/2⁠ ħ, but with a much greater mass. It is classified as a lepton. 
 > As with other leptons, the muon is not thought to be composed of any simpler particles.
 >
@@ -173,7 +173,7 @@ dv_has_:
 > As with the decay of the free neutron (with a lifetime around 15 minutes), 
 > muon decay is slow (by subatomic standards) because the decay is mediated only by the weak interaction (rather than the more powerful strong interaction or electromagnetic interaction), and because the mass difference between the muon and the set of its decay products is small, providing few kinetic degrees of freedom for decay. Muon decay almost always produces at least three particles, which must include an electron of the same charge as the muon and two types of neutrinos. 
 >
-> Like all elementary particles, the muon has a corresponding antiparticle of opposite charge (+1 e) but equal mass and spin: the antimuon (also called a positive muon). Muons are denoted by μ− and antimuons by μ+. Formerly, muons were called mu mesons, but are not classified as mesons by modern particle physicists (see § History of discovery), and that name is no longer used by the physics community.
+> Like all elementary particles, the muon has a corresponding antiparticle of opposite charge (+1 e) but equal mass and spin: the antimuon (also called a positive muon). Muons are denoted by μ- and antimuons by μ+. Formerly, muons were called mu mesons, but are not classified as mesons by modern particle physicists (see § History of discovery), and that name is no longer used by the physics community.
 >
 > Muons have a mass of 105.66 MeV/c2, which is approximately 206.7682827(46)‍ times that of the electron, me. There is also a third lepton, the tau, approximately 17 times heavier than the muon.
 >

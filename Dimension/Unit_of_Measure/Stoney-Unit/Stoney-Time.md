@@ -1,7 +1,7 @@
 
 # [[Stoney-Time]] 
 
-#has_/scale :: 4.6054e−45 
+#has_/scale :: 4.6054e-45 
 
 
 ## Confidential Links & Embeds: 

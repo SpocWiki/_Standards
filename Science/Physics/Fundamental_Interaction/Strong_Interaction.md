@@ -235,7 +235,7 @@ dv_has_:
 >
 > Most of the mass of a proton or neutron is the result of the strong interaction energy; 
 > the individual quarks provide only about 1% of the mass of a proton. 
-> At the range of 10−15 m (1 femtometer, slightly more than the radius of a nucleon), 
+> At the range of 10-15 m (1 femtometer, slightly more than the radius of a nucleon), 
 > the strong force is approximately 100 times as strong as electromagnetism, 
 > 106 times as strong as the weak interaction, and 1038 times as strong as gravitation.
 >

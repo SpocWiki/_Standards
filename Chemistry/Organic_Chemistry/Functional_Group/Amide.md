@@ -73,7 +73,7 @@ dv_is_:
   same_as: '[[WD~Amide,188777]]'
 dv_has_:
   formula_:
-    structural: R−C(=O)−NR′R″
+    structural: R-C(=O)-NR′R″
   name_:
     af: Amied
     ar: أميد
@@ -148,7 +148,7 @@ dv_has_:
     zh_sg: 酰胺
     zh_tw: 醯胺
 dv_is_same_as: '[[WD~Amide,188777]]'
-dv_has_formula_structural: R−C(=O)−NR′R″
+dv_has_formula_structural: R-C(=O)-NR′R″
 ---
 
 # [[Amide]] 
@@ -159,21 +159,21 @@ has_formula_structural = `=this.dv_has_formula_structural`
 ## #has_/text_of_/abstract 
 
 > In organic chemistry, an **Amide**, also known as an organic amide or a carboxamide, 
-> is a compound with the general formula R−C(=O)−NR′R″, 
+> is a compound with the general formula R-C(=O)-NR′R″, 
 > where R, R', and R″ represent any group, typically organyl groups or hydrogen atoms. 
 > 
 > The amide group is called a peptide bond when it is part of the main chain of a protein, 
 > and an isopeptide bond when it occurs in a side chain, as in asparagine and glutamine. 
 > 
-> It can be viewed as a derivative of a carboxylic acid (R−C(=O)−OH) 
-> with the hydroxyl group (−OH) replaced by an amino group (−NR′R″); 
-> or, equivalently, an acyl (alkanoyl) group (R−C(=O)−) joined to an amino group.
+> It can be viewed as a derivative of a carboxylic acid (R-C(=O)-OH) 
+> with the hydroxyl group (-OH) replaced by an amino group (-NR′R″); 
+> or, equivalently, an acyl (alkanoyl) group (R-C(=O)-) joined to an amino group.
 >
 > Common amides are 
-> - formamide (H−C(=O)−NH2), 
-> - acetamide (H3C−C(=O)−NH2), 
-> - benzamide (C6H5−C(=O)−NH2), and 
-> - dimethylformamide (H−C(=O)−N(−CH3)2).
+> - formamide (H-C(=O)-NH2), 
+> - acetamide (H3C-C(=O)-NH2), 
+> - benzamide (C6H5-C(=O)-NH2), and 
+> - dimethylformamide (H-C(=O)-N(-CH3)2).
 >
 > Amides are qualified as primary, secondary, and tertiary 
 > according to the number of acyl groups bounded to the nitrogen atom.

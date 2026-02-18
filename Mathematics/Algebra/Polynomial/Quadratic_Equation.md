@@ -250,7 +250,7 @@ dv_has_:
 > ax² + bx + c = a(x-r) (x-s) = 0 
 > where r and s are the solutions for ⁠x.
 >
-> The quadratic formula  x = (− b ± SqRt(b² − 4ac)) / 2 a
+> The quadratic formula  x = (- b ± SqRt(b² - 4ac)) / 2 a
 > 
 >     $x={\frac {-b\pm {\sqrt {b^{2}-4ac}}}{2a}}$
 >

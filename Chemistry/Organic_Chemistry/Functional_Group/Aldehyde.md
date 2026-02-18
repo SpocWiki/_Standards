@@ -235,7 +235,7 @@ dv_has_:
 ## #has_/text_of_/abstract 
 
 > In organic chemistry, an aldehyde (lat. alcohol dehydrogenatum, dehydrogenated alcohol) 
-> is an organic compound containing a functional group with the structure R−CH=O. 
+> is an organic compound containing a functional group with the structure R-CH=O. 
 > 
 > The functional group itself (without the "R" side chain) can be referred to as an aldehyde 
 > but can also be classified as a formyl group. 

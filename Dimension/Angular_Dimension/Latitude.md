@@ -287,7 +287,7 @@ the latter is the Property to assign the Value for this Dimension
 > that specifies the north-south position of a point on the surface of a celestial body. 
 > 
 > Latitude is given as an angle that ranges 
-> - from −90° at the south pole 
+> - from -90° at the south pole 
 > - to 90° at the north pole, 
 > - with 0° at the Equator. 
 > 

@@ -275,7 +275,7 @@ dv_has_:
 >
 > 
 >
-> Between 1954 and 2019, the precise definitions of the unit degree Celsius and the Celsius temperature scale used absolute zero and the temperature of the triple point of water. Since 2007, the Celsius temperature scale has been defined in terms of the kelvin, the SI base unit of thermodynamic temperature (symbol: K). Absolute zero, the lowest temperature, is now defined as being exactly 0 K and −273.15 °C.
+> Between 1954 and 2019, the precise definitions of the unit degree Celsius and the Celsius temperature scale used absolute zero and the temperature of the triple point of water. Since 2007, the Celsius temperature scale has been defined in terms of the kelvin, the SI base unit of thermodynamic temperature (symbol: K). Absolute zero, the lowest temperature, is now defined as being exactly 0 K and -273.15 °C.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Celsius) 
 

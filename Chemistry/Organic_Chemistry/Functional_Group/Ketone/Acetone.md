@@ -355,7 +355,7 @@ dv_has_:
 ## #has_/text_of_/abstract 
 
 > **Acetone** (2-propanone or dimethyl ketone) is an organic compound with the formula (CH3)2CO. 
-> It is the simplest and smallest ketone (R−C(=O)−R').  
+> It is the simplest and smallest ketone (R-C(=O)-R').  
 > It is a colorless, highly volatile, and flammable liquid with a characteristic pungent odor.
 >
 > Acetone is miscible with water and serves as an 

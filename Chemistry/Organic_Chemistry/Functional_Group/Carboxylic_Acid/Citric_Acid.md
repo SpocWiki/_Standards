@@ -436,7 +436,7 @@ HO   O
 > An example of the former, a salt is trisodium citrate; an ester is triethyl citrate. 
 > 
 > When citrate trianion is part of a salt, 
-> the formula of the citrate trianion is written as C6H5O3−7 or C3H5O(COO)3−3.
+> the formula of the citrate trianion is written as C6H5O3-7 or C3H5O(COO)3-3.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Citric%20acid) 
 

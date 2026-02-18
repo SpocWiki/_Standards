@@ -212,7 +212,7 @@ dv_has_:
 > It is about 500 kilometers (310 miles) in diameter, about a tenth of that of Saturn's largest moon, Titan. 
 > It is covered by clean, freshly deposited snow hundreds of meters thick, 
 > making it one of the most reflective bodies of the Solar System. 
-> Consequently, its surface temperature at noon reaches only −198 °C (75.1 K; −324.4 °F), 
+> Consequently, its surface temperature at noon reaches only -198 °C (75.1 K; -324.4 °F), 
 > far colder than a light-absorbing body would be. 
 > Despite its small size, Enceladus has a wide variety of surface features, 
 > ranging from old, heavily cratered regions to young, tectonically deformed terrain.

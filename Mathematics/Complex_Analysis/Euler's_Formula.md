@@ -178,7 +178,7 @@ dv_has_:
 > The physicist Richard Feynman called the equation "our jewel" 
 > and "the most remarkable formula in mathematics".
 >
-> When x = π, Euler's formula may be rewritten as exp(iπ) + 1 = 0 or exp(iπ) = −1, 
+> When x = π, Euler's formula may be rewritten as exp(iπ) + 1 = 0 or exp(iπ) = -1, 
 > which is known as Euler's identity.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Euler's%20formula) 

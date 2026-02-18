@@ -234,7 +234,7 @@ dv_has_:
 > (an "Earth-trailing" orbit).
 >
 > The primary mirror is 85 centimeters (33 in) in diameter, f/12, 
-> made of beryllium and was cooled to 5.5 K (−268 °C; −450 °F). 
+> made of beryllium and was cooled to 5.5 K (-268 °C; -450 °F). 
 > 
 > The satellite contains three instruments that allowed it to perform 
 > - astronomical imaging and photometry from 3.6 to 160 micrometers, 

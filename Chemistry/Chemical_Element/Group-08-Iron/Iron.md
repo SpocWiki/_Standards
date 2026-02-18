@@ -688,7 +688,7 @@ has_number_of_period = `=this.dv_has_number_of_period`
 > Chemically, the most common oxidation states of iron are iron(II) and iron(III). 
 > 
 > Iron shares many properties of other transition metals, including the other group 8 elements, ruthenium and osmium. 
-> Iron forms compounds in a wide range of oxidation states, −2 to +7. 
+> Iron forms compounds in a wide range of oxidation states, -2 to +7. 
 > 
 > Iron also forms many coordination compounds; 
 > some of them, such as ferrocene, ferrioxalate, and [[Prussian blue]] have substantial industrial, medical, or research applications.

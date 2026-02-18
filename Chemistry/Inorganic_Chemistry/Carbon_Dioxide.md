@@ -455,7 +455,7 @@ has_formula_structural = `=this.dv_has_formula_structural`
 > In turn, oxygen is consumed and CO2 is released as waste by all aerobic organisms 
 > when they metabolize organic compounds to produce energy by respiration. 
 > CO2 is released from organic materials when they decay or combust, such as in forest fires. 
-> When carbon dioxide dissolves in water, it forms carbonate and mainly bicarbonate (HCO−3), 
+> When carbon dioxide dissolves in water, it forms carbonate and mainly bicarbonate (HCO-3), 
 > which causes ocean acidification as atmospheric CO2 levels increase.
 >
 > Carbon dioxide is 53% more dense than dry air, but is **long lived** and thoroughly mixes in the atmosphere. 

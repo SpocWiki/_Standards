@@ -252,7 +252,7 @@ has_formula_ = `=this.dv_has_formula_`
 > and the chemical formula KNO3. 
 > It is a potassium salt of nitric acid. 
 > 
-> This salt consists of potassium cations K+ and nitrate anions NO−3, 
+> This salt consists of potassium cations K+ and nitrate anions NO-3, 
 > and is therefore an alkali metal nitrate. 
 > 
 > It occurs in nature as a mineral, niter (or nitre outside the United States). 

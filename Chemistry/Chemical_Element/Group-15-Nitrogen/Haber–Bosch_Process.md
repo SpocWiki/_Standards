@@ -247,7 +247,7 @@ Mineral Fertilizer can be fine-adjusted to the soil.
 >
 >                     
 >
->                       −
+>                       -
 >
 >                     
 >
@@ -265,7 +265,7 @@ Mineral Fertilizer can be fine-adjusted to the soil.
 >
 >                     
 >
->                       −
+>                       -
 >
 >                     
 >
@@ -347,7 +347,7 @@ Mineral Fertilizer can be fine-adjusted to the soil.
 >
 >           =
 >
->           −
+>           -
 >
 >           92.28
 >

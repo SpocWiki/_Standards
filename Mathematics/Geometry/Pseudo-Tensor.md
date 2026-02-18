@@ -35,7 +35,7 @@ aliases:
 
 In n-dimensional [[Geometric_Algebra]], 
 pseudovectors are the 
-elements of the algebra with dimension between n/2 and (n − 2): __⋀<sup>n-2</sup> Rⁿ__. 
+elements of the algebra with dimension between n/2 and (n - 2): __⋀<sup>n-2</sup> Rⁿ__. 
 
 ## #has_/text_of_/abstract 
 

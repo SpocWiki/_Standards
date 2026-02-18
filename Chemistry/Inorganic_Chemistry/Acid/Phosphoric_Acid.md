@@ -269,9 +269,9 @@ has_formula_sum = `=this.dv_has_formula_sum`
 > which is a colourless, odourless, and non-volatile syrupy liquid. 
 > It is a major industrial chemical, being a component of many fertilizers.
 >
-> The compound is an acid. Removal of all three H+ ions gives the phosphate ion PO3−4. 
-> Removal of one or two protons gives dihydrogen phosphate ion H2PO−4, 
-> and the hydrogen phosphate ion HPO2−4, respectively. 
+> The compound is an acid. Removal of all three H+ ions gives the phosphate ion PO3-4. 
+> Removal of one or two protons gives dihydrogen phosphate ion H2PO-4, 
+> and the hydrogen phosphate ion HPO2-4, respectively. 
 > Phosphoric acid forms esters, called organophosphates.
 >
 > The name "orthophosphoric acid" can be used to distinguish this specific acid 

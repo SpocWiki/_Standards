@@ -337,7 +337,7 @@ dv_has_:
 > 
 > A freezer is a specialized refrigerator, or portion of a refrigerator, 
 > that maintains its contents' temperature below the freezing point of water. 
-> The refrigerator replaced the icebox, which had been a common household appliance for almost a century and a half. The United States Food and Drug Administration recommends that the refrigerator be kept at or below 4 °C (40 °F) and that the freezer be regulated at −18 °C (0 °F).
+> The refrigerator replaced the icebox, which had been a common household appliance for almost a century and a half. The United States Food and Drug Administration recommends that the refrigerator be kept at or below 4 °C (40 °F) and that the freezer be regulated at -18 °C (0 °F).
 >
 > The first cooling systems for food involved ice. Artificial refrigeration began in the mid-1750s, and developed in the early 1800s. In 1834, the first working vapor-compression refrigeration system, using the same technology seen in air conditioners, was built. The first commercial ice-making machine was invented in 1854. In 1913, refrigerators for home use were invented. In 1923 Frigidaire introduced the first self-contained unit. The introduction of Freon in the 1920s expanded the refrigerator market during the 1930s. Home freezers as separate compartments (larger than necessary just for ice cubes) were introduced in 1940. Frozen foods, previously a luxury item, became commonplace.
 >

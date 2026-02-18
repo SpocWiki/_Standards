@@ -122,7 +122,7 @@ EC_number: 201-143-3
 MCN_code: 2901.24.20
 dv_has_:
   created: '[[../../../Material/Rubber]]'
-  formula_: CH2=C(CH3)−CH=CH2
+  formula_: CH2=C(CH3)-CH=CH2
   name_:
     ar: إيزوبرين
     az: İzopren
@@ -200,7 +200,7 @@ dv_is_:
   - '[[/_private/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene/Isoprene.private|Isoprene.private]]'
   - '[[/_personal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene/Isoprene.personal|Isoprene.personal]]'
   - '[[/_secret/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene/Isoprene.secret|Isoprene.secret]]'
-dv_has_formula_: CH2=C(CH3)−CH=CH2
+dv_has_formula_: CH2=C(CH3)-CH=CH2
 dv_is_same_as:
 - '[[WD~Isoprene,271943]]'
 - '[[/_Standards/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene/Isoprene|Isoprene]]'
@@ -221,7 +221,7 @@ has_created = `=this.dv_has_created`
 
 ## #has_/formula_/structural 
 ```
-CH2=C−CH=CH2
+CH2=C-CH=CH2
     |
     CH3
 ```
@@ -229,7 +229,7 @@ CH2=C−CH=CH2
 ## #has_/text_of_/abstract 
 
 > **isoprene**, or 2-methyl-1,3-butadiene, is a common volatile organic compound 
-> with the formula CH2=C(CH3)−CH=CH2. 
+> with the formula CH2=C(CH3)-CH=CH2. 
 > In its pure form it is a colorless volatile liquid. 
 > 
 > It is produced by many plants and animals (including humans) 

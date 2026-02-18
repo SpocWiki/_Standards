@@ -110,7 +110,7 @@ subclass_of:
 UMLS_CUI: C0007066
 dv_has_:
   formula_:
-    sum: R−C(O)OH
+    sum: R-C(O)OH
 dv_is_:
   same_as:
     - "[[../../../WikiData/WD~Carboxylic_acid,134856]]"
@@ -121,7 +121,7 @@ dv_is_:
     - "[[/_private/Chemistry/Organic_Chemistry/Carboxylic_Acid.private|Carboxylic_Acid.private]]"
     - "[[/_personal/Chemistry/Organic_Chemistry/Carboxylic_Acid.personal|Carboxylic_Acid.personal]]"
     - "[[/_secret/Chemistry/Organic_Chemistry/Carboxylic_Acid.secret|Carboxylic_Acid.secret]]"
-dv_has_formula_sum: R−C(O)OH
+dv_has_formula_sum: R-C(O)OH
 dv_is_same_as:
   - "[[../../../WikiData/WD~Carboxylic_acid,134856]]"
   - "[[/_Standards/Chemistry/Organic_Chemistry/Carboxylic_Acid|Carboxylic_Acid]]"
@@ -152,9 +152,9 @@ O-H O
 ## #has_/text_of_/abstract 
 
 > In organic chemistry, a **carboxylic acid** is an organic acid 
-> that contains a carboxyl group (−C(=O)−OH) attached to an R-group. 
-> The general formula of a carboxylic acid is often written as R−COOH or R−CO2H, 
-> sometimes as R−C(O)OH with R referring to an organyl group (e.g., alkyl, alkenyl, aryl), 
+> that contains a carboxyl group (-C(=O)-OH) attached to an R-group. 
+> The general formula of a carboxylic acid is often written as R-COOH or R-CO2H, 
+> sometimes as R-C(O)OH with R referring to an organyl group (e.g., alkyl, alkenyl, aryl), 
 > or hydrogen, or other groups. 
 > 
 > Carboxylic acids occur widely. 
@@ -201,7 +201,7 @@ subclass_of:
 UMLS_CUI: C0007066
 dv_has_:
   formula_:
-    sum: R−C(O)OH
+    sum: R-C(O)OH
   name_:
     af: karboksielsuur
     ar: حمض كربوكسيلي
@@ -309,7 +309,7 @@ dv_is_:
   - '[[/_private/Chemistry/Organic_Chemistry/Carboxylic_Acid.private|Carboxylic_Acid.private]]'
   - '[[/_personal/Chemistry/Organic_Chemistry/Carboxylic_Acid.personal|Carboxylic_Acid.personal]]'
   - '[[/_secret/Chemistry/Organic_Chemistry/Carboxylic_Acid.secret|Carboxylic_Acid.secret]]'
-dv_has_formula_sum: R−C(O)OH
+dv_has_formula_sum: R-C(O)OH
 dv_is_same_as:
 - '[[../../../WikiData/WD~Carboxylic_acid,134856]]'
 - '[[/_Standards/Chemistry/Organic_Chemistry/Carboxylic_Acid|Carboxylic_Acid]]'
@@ -340,9 +340,9 @@ O-H O
 ## #has_/text_of_/abstract 
 
 > In organic chemistry, a **carboxylic acid** is an organic acid 
-> that contains a carboxyl group (−C(=O)−OH) attached to an R-group. 
-> The general formula of a carboxylic acid is often written as R−COOH or R−CO2H, 
-> sometimes as R−C(O)OH with R referring to an organyl group (e.g., alkyl, alkenyl, aryl), 
+> that contains a carboxyl group (-C(=O)-OH) attached to an R-group. 
+> The general formula of a carboxylic acid is often written as R-COOH or R-CO2H, 
+> sometimes as R-C(O)OH with R referring to an organyl group (e.g., alkyl, alkenyl, aryl), 
 > or hydrogen, or other groups. 
 > 
 > Carboxylic acids occur widely. 

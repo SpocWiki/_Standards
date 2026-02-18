@@ -185,7 +185,7 @@ dv_has_:
 >
 > 
 >
-> Other monomer units, such as formaldehyde hydrates or simple aldehydes, are able to polymerize themselves at quite low temperatures (ca. −80 °C) to form trimers; molecules consisting of 3 monomer units, which can cyclize to form ring cyclic structures, or undergo further reactions to form tetramers, or 4 monomer-unit compounds. Such small polymers are referred to as oligomers. Generally, because formaldehyde is an exceptionally reactive electrophile it allows nucleophilic addition of hemiacetal intermediates, which are in general short-lived and relatively unstable "mid-stage" compounds that react with other non-polar molecules present to form more stable polymeric compounds.
+> Other monomer units, such as formaldehyde hydrates or simple aldehydes, are able to polymerize themselves at quite low temperatures (ca. -80 °C) to form trimers; molecules consisting of 3 monomer units, which can cyclize to form ring cyclic structures, or undergo further reactions to form tetramers, or 4 monomer-unit compounds. Such small polymers are referred to as oligomers. Generally, because formaldehyde is an exceptionally reactive electrophile it allows nucleophilic addition of hemiacetal intermediates, which are in general short-lived and relatively unstable "mid-stage" compounds that react with other non-polar molecules present to form more stable polymeric compounds.
 >
 > Polymerization that is not sufficiently moderated and proceeds at a fast rate can be very dangerous. This phenomenon is known as autoacceleration, and can cause fires and explosions.
 >

@@ -230,7 +230,7 @@ dv_has_:
 
 > The **Joule** ( JOOL, or  JOWL; symbol: J) is the unit of energy in the International System of Units (SI). 
 > In terms of SI base units, one joule corresponds to 
-> one kilogram-metre squared per second squared (1 J = 1 kg⋅m2⋅s−2). 
+> one kilogram-metre squared per second squared (1 J = 1 kg⋅m2⋅s-2). 
 > 
 > One joule is equal to the amount of work done when a force of one newton displaces a body through a distance of one metre in the direction of that force. It is also the energy dissipated as heat when an electric current of one ampere passes through a resistance of one ohm for one second. It is named after the English physicist James Prescott Joule (1818–1889).
 >

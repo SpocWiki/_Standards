@@ -193,8 +193,8 @@ dv_has_:
 > then their values of n, ℓ, and mℓ are equal. 
 > In that case, the two values of ms (spin) pair must be different. 
 > 
-> Since the only two possible values for the spin projection ms are +1/2 and −1/2, 
-> it follows that one electron must have ms = +1/2 and one ms = −1/2.
+> Since the only two possible values for the spin projection ms are +1/2 and -1/2, 
+> it follows that one electron must have ms = +1/2 and one ms = -1/2.
 >
 > Particles with an integer spin (bosons) are not subject to the Pauli exclusion principle. 
 > Any number of identical bosons can occupy the same quantum state, 

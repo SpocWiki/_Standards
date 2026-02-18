@@ -174,7 +174,7 @@ dv_has_:
 | ----------------- | ------ | ------- | ------------------------------- |
 | Internal Energy   | U      | —       | Fundamental energy of system    |
 | Enthalpy          | H      | U+PV    | Heat at constant pressure       |
-| Gibbs Free Energy | G      | H−TS    | Spontaneity at constant T and P |
+| Gibbs Free Energy | G      | H-TS    | Spontaneity at constant T and P |
 
 ## #has_/text_of_/abstract 
 

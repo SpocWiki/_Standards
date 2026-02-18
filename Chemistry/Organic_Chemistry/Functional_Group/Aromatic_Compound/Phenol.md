@@ -342,8 +342,8 @@ H-C()C-OH
 > is an aromatic organic compound with the molecular formula C6H5OH. 
 > It is a white crystalline solid that is volatile and can catch fire. 
 >
-> The molecule consists of a phenyl group (−C6H5) 
-> bonded to a hydroxy group (−OH). 
+> The molecule consists of a phenyl group (-C6H5) 
+> bonded to a hydroxy group (-OH). 
 > 
 > Mildly acidic, it requires careful handling because it can cause chemical burns. 
 > It is acutely toxic and is considered a health hazard.

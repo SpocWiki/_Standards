@@ -230,7 +230,7 @@ ISQ_dimension: >-
               </mrow>
             </mrow>
             <mrow class="MJX-TeXAtom-ORD">
-              <mo>&#x2212;<!-- − --></mo>
+              <mo>&#x2212;<!-- - --></mo>
               <mn>1</mn>
             </mrow>
           </msup>
@@ -510,7 +510,7 @@ of the [[../../Mathematics/Geometry/Position-Vector|Position-Vector]] by [[../Di
 > Velocity is a physical vector quantity: both magnitude and direction are needed to define it. 
 > The scalar absolute value (magnitude) of velocity is called speed, 
 > being a coherent derived unit 
-> whose quantity is measured in the SI (metric system) as metres per second (m/s or m⋅s−1). 
+> whose quantity is measured in the SI (metric system) as metres per second (m/s or m⋅s-1). 
 > 
 > For example, "5 metres per second" is a scalar, 
 > whereas "5 metres per second east" is a vector. 

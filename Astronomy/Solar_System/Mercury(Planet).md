@@ -587,7 +587,7 @@ dv_has_:
 >
 > Combined with its high orbital eccentricity, 
 > the planet's surface has widely varying sunlight intensity and temperature, with the 
-> equatorial regions ranging from −170 °C at night to 420 °C during sunlight. 
+> equatorial regions ranging from -170 °C at night to 420 °C during sunlight. 
 > Due to the very small axial tilt, the planet's poles are permanently shadowed. 
 > This strongly suggests that water ice could be present in the craters. 
 > Above the planet's surface is an extremely tenuous exosphere 

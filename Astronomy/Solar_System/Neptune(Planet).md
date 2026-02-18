@@ -586,7 +586,7 @@ dv_has_:
 > 
 > Because of its great distance from the Sun, Neptune's outer atmosphere 
 > is one of the coldest places in the Solar System
-> , with temperatures at its cloud tops approaching 55 K (−218 °C; −361 °F). 
+> , with temperatures at its cloud tops approaching 55 K (-218 °C; -361 °F). 
 > 
 > Temperatures at the planet's centre are approximately 5,400 K (5,100 °C; 9,300 °F). 
 > Neptune has a faint and fragmented ring system (labelled "arcs"), 

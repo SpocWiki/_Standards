@@ -235,7 +235,7 @@ dv_has_:
 > universe while dark matter and ordinary (baryonic) matter contribute 27% and 5%, respectively, 
 > and other components such as neutrinos and photons are nearly negligible. 
 > 
-> Dark energy's density is very low: 7×10−30 g/cm3 (6×10−10 J/m3 in mass-energy), 
+> Dark energy's density is very low: 7×10-30 g/cm3 (6×10-10 J/m3 in mass-energy), 
 > much less than the density of ordinary matter or dark matter __within galaxies__. 
 > However, it dominates the universe's mass–energy content because it is __uniform across space__.
 >

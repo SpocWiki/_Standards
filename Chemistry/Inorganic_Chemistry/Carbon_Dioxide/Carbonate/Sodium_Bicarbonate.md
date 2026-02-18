@@ -283,7 +283,7 @@ dv_has_:
 > commonly known as baking soda or bicarbonate of soda (or simply "bicarb", 
 > especially in the UK), or salaratus, is a chemical compound with the formula NaHCO3. 
 > 
-> It is a salt composed of a sodium cation (Na+) and a bicarbonate anion (HCO−3). 
+> It is a salt composed of a sodium cation (Na+) and a bicarbonate anion (HCO-3). 
 > Sodium bicarbonate is a white solid that is crystalline but often appears as a fine powder. 
 > It has a slightly salty, alkaline taste resembling that of sodium carbonate ("washing soda"). 
 > The natural mineral form is nahcolite, 
@@ -303,7 +303,7 @@ dv_has_:
 > The prefix bi- in "bicarbonate" comes from an outdated naming system 
 > predating molecular knowledge. 
 > 
-> It is based on the observation that there is twice as much carbonate (CO2−3) 
+> It is based on the observation that there is twice as much carbonate (CO2-3) 
 > per sodium in sodium bicarbonate (NaHCO3) 
 > as there is in sodium carbonate (Na2CO3). 
 > 

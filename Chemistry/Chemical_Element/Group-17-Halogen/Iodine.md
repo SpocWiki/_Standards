@@ -461,7 +461,7 @@ has_number_of_group = `=this.dv_has_number_of_group`
 > The element was discovered by the French chemist Bernard Courtois in 1811 
 > and was named two years later by [[Joseph Louis Gay-Lussac]], after the Ancient Greek Ιώδης 'violet-coloured'.
 >
-> Iodine occurs in many oxidation states, including iodide (I−), iodate (IO−3), 
+> Iodine occurs in many oxidation states, including iodide (I-), iodate (IO-3), 
 > and the various periodate anions. 
 > It is the least abundant of the stable halogens, being the sixty-first most abundant element. 
 > As the heaviest essential mineral nutrient, iodine is required for the synthesis of thyroid hormones. 

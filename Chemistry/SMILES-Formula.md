@@ -151,7 +151,7 @@ to indicate stereochemical configuration (not necessary for single bonds, due to
 indicated by repeated `+` and  `-` 
 or numbered e.g. 
 - [Ti+4] or [Ti++++]. 
-- `[OH-]`  [hydroxide](https://en.wikipedia.org/wiki/Hydroxide "Hydroxide") [anion](https://en.wikipedia.org/wiki/Anion "Anion") ( [OH−](https://en.wikipedia.org/wiki/Hydroxide "Hydroxide")) 
+- `[OH-]`  [hydroxide](https://en.wikipedia.org/wiki/Hydroxide "Hydroxide") [anion](https://en.wikipedia.org/wiki/Anion "Anion") ( [OH-](https://en.wikipedia.org/wiki/Hydroxide "Hydroxide")) 
 - `[OH3+]` [hydronium](https://en.wikipedia.org/wiki/Hydronium "Hydronium") cation 
 
 ## Stereochemistry 

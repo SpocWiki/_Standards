@@ -42,7 +42,7 @@ dv_has_:
 > the **Ham sandwich theorem** states that given n measurable "objects" 
 > in n-dimensional Euclidean space, it is possible to divide each one of them in half 
 > (with respect to their measure, e.g. volume) 
-> with a single (n − 1)-dimensional hyperplane. 
+> with a single (n - 1)-dimensional hyperplane. 
 > 
 > This is possible even if the objects overlap.
 > 

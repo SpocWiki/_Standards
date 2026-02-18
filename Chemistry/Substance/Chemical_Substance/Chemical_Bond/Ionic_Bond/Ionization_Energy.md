@@ -178,8 +178,8 @@ aliases:
 ## #has_/text_of_/abstract 
 
 > In physics and chemistry, ionization energy (IE) is the minimum energy required to remove the most loosely bound electron(s) (the valence electron(s)) of an isolated gaseous atom, positive ion, or molecule. The first ionization energy is quantitatively expressed as
-> X(g) + energy ⟶ X+(g) + e−
-> where X is any atom or molecule, X+ is the resultant ion when the original atom was stripped of a single electron, and e− is the removed electron. Ionization energy is positive for neutral atoms, meaning that the ionization is an endothermic process. Roughly speaking, the closer the outermost electrons are to the nucleus of the atom, the higher the atom's ionization energy.
+> X(g) + energy ⟶ X+(g) + e-
+> where X is any atom or molecule, X+ is the resultant ion when the original atom was stripped of a single electron, and e- is the removed electron. Ionization energy is positive for neutral atoms, meaning that the ionization is an endothermic process. Roughly speaking, the closer the outermost electrons are to the nucleus of the atom, the higher the atom's ionization energy.
 >
 > In physics, ionization energy (IE) is usually expressed in electronvolts (eV) or joules (J). In chemistry, it is expressed as the energy to ionize a mole of atoms or molecules, usually as kilojoules per mole (kJ/mol) or kilocalories per mole (kcal/mol).
 >
@@ -191,15 +191,15 @@ aliases:
 >
 > The latter trend results from the outer electron shell being progressively farther from the nucleus, with the addition of one inner shell per row as one moves down the column.
 >
-> The nth ionization energy refers to the amount of energy required to remove the most loosely bound electron from the species having a positive charge of (n − 1). For example, the first three ionization energies are defined as follows:
+> The nth ionization energy refers to the amount of energy required to remove the most loosely bound electron from the species having a positive charge of (n - 1). For example, the first three ionization energies are defined as follows:
 >
 > 
 >
-> 1st ionization energy is the energy that enables the reaction X ⟶ X+ + e−
+> 1st ionization energy is the energy that enables the reaction X ⟶ X+ + e-
 >
-> 2nd ionization energy is the energy that enables the reaction X+ ⟶ X2+ + e−
+> 2nd ionization energy is the energy that enables the reaction X+ ⟶ X2+ + e-
 >
-> 3rd ionization energy is the energy that enables the reaction X2+ ⟶ X3+ + e−
+> 3rd ionization energy is the energy that enables the reaction X2+ ⟶ X3+ + e-
 >
 > The most notable influences that determine ionization energy include:
 >

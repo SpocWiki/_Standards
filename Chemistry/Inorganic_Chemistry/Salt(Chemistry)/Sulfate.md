@@ -1,6 +1,6 @@
 ---
 aliases:
-- siarczan(2−)
+- siarczan(2-)
 - solfato
 - Sulfaadid
 - Sulfaat
@@ -190,7 +190,7 @@ dv_has_:
     nl: sulfaat
     nn: sulfat
     oc: Sulfat
-    pl: siarczan(2−)
+    pl: siarczan(2-)
     pt: sulfato
     ro: Sulfat
     ru: сульфаты
@@ -228,7 +228,7 @@ is_similar_to = `=this.dv_is_similar_to`
 
 ## #has_/text_of_/abstract 
 
-> The **Sulfate** or sulphate ion is a polyatomic anion with the empirical formula SO42−. 
+> The **Sulfate** or sulphate ion is a polyatomic anion with the empirical formula SO42-. 
 > 
 > Salts, acid derivatives, and peroxides of sulfate are widely used in industry. 
 > Sulfates occur widely in everyday life. 

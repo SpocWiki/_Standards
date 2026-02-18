@@ -189,7 +189,7 @@ Is named after [[Watt]]
 ## #has_/text_of_/abstract 
 
 > The **Watt** (symbol: W) is the unit of power or radiant flux 
-> in the International System of Units (SI), equal to 1 joule per second or 1 kg⋅m2⋅s−3. 
+> in the International System of Units (SI), equal to 1 joule per second or 1 kg⋅m2⋅s-3. 
 > 
 > It is used to quantify the rate of energy transfer. 
 > The watt is named in honor of James Watt (1736–1819), 

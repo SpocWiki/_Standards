@@ -167,7 +167,7 @@ dv_has_:
 ## #has_/text_of_/abstract 
 
 > The angstrom (; ANG-strəm) is a unit of length equal to 
-> - 10−10 m; that is, 
+> - 10-10 m; that is, 
 > - one ten-billionth of a metre, 
 > - a hundred-millionth of a centimetre, 
 > - 0.1 nanometre, or 
@@ -191,7 +191,7 @@ dv_has_:
 > while that of hydrogen is about 0.5 angstroms. 
 > Visible light has wavelengths in the range of 4000–7000 Å.
 >
-> In the late 19th century, spectroscopists adopted 10−10 of a metre as a convenient unit to express the wavelengths of characteristic spectral lines (monochromatic components of the emission spectrum) of chemical elements. However, they soon realized that the definition of the metre at the time, based on a material artifact, was not accurate enough for their work.  So, around 1907 they defined their own unit of length, which they called "Ångström", based on the wavelength of a specific spectral line. It was only in 1960, when the metre was redefined in the same way, that the angstrom became again equal to 10−10 metre.  Yet the angstrom was never part of the SI system of units, and has been increasingly replaced by the nanometre (10−9 m) or picometre (10−12 m).
+> In the late 19th century, spectroscopists adopted 10-10 of a metre as a convenient unit to express the wavelengths of characteristic spectral lines (monochromatic components of the emission spectrum) of chemical elements. However, they soon realized that the definition of the metre at the time, based on a material artifact, was not accurate enough for their work.  So, around 1907 they defined their own unit of length, which they called "Ångström", based on the wavelength of a specific spectral line. It was only in 1960, when the metre was redefined in the same way, that the angstrom became again equal to 10-10 metre.  Yet the angstrom was never part of the SI system of units, and has been increasingly replaced by the nanometre (10-9 m) or picometre (10-12 m).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Angstrom) 
 

@@ -701,7 +701,7 @@ SPLASH:
 - splash10-0apm-9100000000-a71c58b95cb65487eeed
 dv_has_:
   formula_:
-    structural: CH3−(CH2)7−CH=CH−(CH2)7−COOH
+    structural: CH3-(CH2)7-CH=CH-(CH2)7-COOH
   name_:
     ar: حمض الزيت
     az: Olein
@@ -787,7 +787,7 @@ dv_is_:
   - '[[/_private/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Oleic_Acid.private|Oleic_Acid.private]]'
   - '[[/_personal/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Oleic_Acid.personal|Oleic_Acid.personal]]'
   - '[[/_secret/bio/Metabolism/Nutrition/Fat/Fatty_Acid/Oleic_Acid.secret|Oleic_Acid.secret]]'
-dv_has_formula_structural: CH3−(CH2)7−CH=CH−(CH2)7−COOH
+dv_has_formula_structural: CH3-(CH2)7-CH=CH-(CH2)7-COOH
 dv_is_same_as:
 - '[[WD~Oleic_Acid,207688]]'
 - '[[Oleic_Acid]]'
@@ -812,7 +812,7 @@ dv_is_same_as:
 > In chemical terms, oleic acid is classified as a monounsaturated omega-9 fatty acid, 
 > abbreviated with a lipid number of 18:1 cis-9, and a main product of Δ9-desaturase. 
 > 
-> It has the formula CH3−(CH2)7−CH=CH−(CH2)7−COOH. 
+> It has the formula CH3-(CH2)7-CH=CH-(CH2)7-COOH. 
 > The name derives from the Latin word oleum, which means oil. 
 > It is the most common fatty acid in nature. 
 > 

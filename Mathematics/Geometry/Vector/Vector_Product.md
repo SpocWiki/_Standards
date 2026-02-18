@@ -197,7 +197,7 @@ dv_has_:
 > If two vectors are parallel or are anti-parallel (that is, they are linearly dependent), 
 > or if either one has zero length, then their cross product is zero.
 >
-> The cross product is anticommutative (that is, a × b = − b × a) 
+> The cross product is anticommutative (that is, a × b = - b × a) 
 > and is distributive over addition, that is, a × (b + c) = a × b + a × c. 
 > 
 > The space E = R³ together with the cross product is an algebra over the real numbers, 
@@ -217,7 +217,7 @@ dv_has_:
 > (with a bivector or 2-form result) and is independent of the orientation of the space.
 >
 > The product can be generalized in various ways, 
-> using the orientation and metric structure just as for the traditional 3-dimensional cross product; one can, in n dimensions, take the product of n − 1 vectors to produce a vector perpendicular to all of them. But if the product is limited to non-trivial binary products with vector results, it exists only in three and seven dimensions. The cross-product in seven dimensions has undesirable properties (e.g. it fails to satisfy the Jacobi identity), so it is not used in mathematical physics to represent quantities such as multi-dimensional space-time. (See § Generalizations below for other dimensions.)
+> using the orientation and metric structure just as for the traditional 3-dimensional cross product; one can, in n dimensions, take the product of n - 1 vectors to produce a vector perpendicular to all of them. But if the product is limited to non-trivial binary products with vector results, it exists only in three and seven dimensions. The cross-product in seven dimensions has undesirable properties (e.g. it fails to satisfy the Jacobi identity), so it is not used in mathematical physics to represent quantities such as multi-dimensional space-time. (See § Generalizations below for other dimensions.)
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cross%20product) 
 

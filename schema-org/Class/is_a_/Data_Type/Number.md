@@ -510,7 +510,7 @@ has_child_class = `=this.dv_has_child_class`
 > In mathematics, the notion of number has been extended over the centuries to include 
 > zero (0), negative numbers, rational numbers such as one half 1/2, 
 > real numbers such as the square root of 2 and π, 
-> and complex numbers which extend the real numbers with a square root of −1 
+> and complex numbers which extend the real numbers with a square root of -1 
 > (and its combinations with real numbers by adding or subtracting its multiples). 
 > 
 > Calculations with numbers are done with arithmetical operations, 

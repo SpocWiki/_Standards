@@ -184,8 +184,8 @@ dv_has_:
 > and its orbital angular momentum projected along a chosen axis (magnetic quantum number). 
 > 
 > The orbitals with a well-defined magnetic quantum number are generally complex-valued. 
-> Real-valued orbitals can be formed as linear combinations of mℓ and −mℓ orbitals, 
-> and are often labeled using associated harmonic polynomials (e.g., xy, x2 − y2) 
+> Real-valued orbitals can be formed as linear combinations of mℓ and -mℓ orbitals, 
+> and are often labeled using associated harmonic polynomials (e.g., xy, x2 - y2) 
 > which describe their angular structure.
 >
 > An orbital can be occupied by a maximum of two electrons, each with its own projection of spin 

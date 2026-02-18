@@ -262,7 +262,7 @@ dv_has_:
 > likely by tidal interactions from the nearby Small Magellanic Cloud (SMC) and the Milky Way's gravity. 
 > The LMC is predicted to merge with the Milky Way in approximately 2.4 billion years.
 >
-> With a declination of about −70°, the LMC is visible as a faint "cloud" 
+> With a declination of about -70°, the LMC is visible as a faint "cloud" 
 > from the southern hemisphere of the Earth and from as far north as 20° N. 
 > 
 > It straddles the constellations Dorado and Mensa 

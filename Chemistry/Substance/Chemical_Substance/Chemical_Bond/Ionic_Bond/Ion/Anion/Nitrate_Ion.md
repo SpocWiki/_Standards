@@ -1,6 +1,6 @@
 ---
 aliases:
-- azotan(1−)
+- azotan(1-)
 - azotat
 - dusičnan
 - dusičnanový ion
@@ -161,7 +161,7 @@ dv_has_:
     nn: nitrat
     oc: nitrat
     os: нитраттæ
-    pl: azotan(1−)
+    pl: azotan(1-)
     pt: nitrato
     ro: azotat
     ru: нитрат
@@ -199,7 +199,7 @@ dv_has_:
 
 ## #has_/text_of_/abstract 
 
-> Nitrate is a polyatomic ion with the chemical formula NO−3. 
+> Nitrate is a polyatomic ion with the chemical formula NO-3. 
 > Salts containing this ion are called nitrates. 
 > 
 > Nitrates are common components of fertilizers and explosives. 

@@ -409,7 +409,7 @@ has_number_of_period = `=this.dv_has_number_of_period`
 > Rhenium has the third-highest melting point 
 > and second-highest boiling point of any element at has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c` °C. 
 > 
-> Rhenium resembles manganese and technetium chemically and is mainly obtained as a by-product of the extraction and refinement of molybdenum and copper ores. Rhenium shows in its compounds a wide variety of oxidation states ranging from −1 to +7.
+> Rhenium resembles manganese and technetium chemically and is mainly obtained as a by-product of the extraction and refinement of molybdenum and copper ores. Rhenium shows in its compounds a wide variety of oxidation states ranging from -1 to +7.
 >
 > Discovered by Walter Noddack, Ida Tacke and Otto Berg in 1925, 
 > rhenium was the last stable element to be discovered. 

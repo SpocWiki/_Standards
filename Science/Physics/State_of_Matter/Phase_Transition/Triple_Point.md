@@ -189,7 +189,7 @@ The (partial) Pressure of the Gas-Phase is then fully determined by this Tempera
 > 
 > It is that temperature and pressure 
 > at which the [[../Solid/Sublimation|Sublimation]], fusion, and [[Vaporization|vapourisation]] curves meet. 
-> For example, the triple point of mercury occurs at a temperature of −38.8 °C (−37.8 °F) 
+> For example, the triple point of mercury occurs at a temperature of -38.8 °C (-37.8 °F) 
 > and a pressure of 0.165 mPa.
 >
 > In addition to the triple point for solid, liquid, and gas phases, 
@@ -217,7 +217,7 @@ The (partial) Pressure of the Gas-Phase is then fully determined by this Tempera
 > the base unit of thermodynamic temperature in the International System of Units (SI). 
 > The kelvin was defined so that the triple point of water is exactly 273.16 K, 
 > but that changed with the 2019 revision of the SI, 
-> where the kelvin was redefined so that the Boltzmann constant is exactly 1.380649×10−23 J⋅K−1, 
+> where the kelvin was redefined so that the Boltzmann constant is exactly 1.380649×10-23 J⋅K-1, 
 > and the triple point of water became an experimentally measured constant.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Triple%20point) 

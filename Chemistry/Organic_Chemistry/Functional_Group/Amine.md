@@ -229,7 +229,7 @@ but also R²-NH and R³-N
 > Tertiary amines (3°) contain three substituent groups bonded to the nitrogen atom, 
 > and are represented by the formula R³N.
 >
-> The functional group −NH2 present in primary amines is called the amino group.
+> The functional group -NH2 present in primary amines is called the amino group.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Amine) 
 

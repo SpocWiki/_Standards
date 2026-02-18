@@ -151,7 +151,7 @@ dv_is_:
   - '[[/_secret/Chemistry/Organic_Chemistry/Alcohol.secret|Alcohol.secret]]'
 dv_has_:
   formula_:
-    structural: R−OH
+    structural: R-OH
   name_:
     af: alkohol
     ak: mmrosa
@@ -311,7 +311,7 @@ dv_has_:
     zh_sg: 醇
     zh_tw: 醇
 dv_is_similar_to: '[[../Thiol]]'
-dv_has_formula_structural: R−OH
+dv_has_formula_structural: R-OH
 dv_is_same_as:
 - '[[../../../WikiData/WD~Alcohols,156]]'
 - '[[/_Standards/Chemistry/Organic_Chemistry/Alcohol|Alcohol]]'
@@ -332,7 +332,7 @@ has_formula_structural = `=this.dv_has_formula_structural`
 ## #has_/text_of_/abstract 
 
 > In chemistry, an **Alcohol** (from Arabic  al-kuḥl 'the kohl'), is a type of organic compound 
-> that carries at least one hydroxyl (−OH) functional group bound to a saturated carbon atom. 
+> that carries at least one hydroxyl (-OH) functional group bound to a saturated carbon atom. 
 > 
 > Alcohols range from the simple, like methanol and ethanol, to complex, like sugars and cholesterol. 
 > The presence of an OH group strongly modifies the properties of hydrocarbons, 

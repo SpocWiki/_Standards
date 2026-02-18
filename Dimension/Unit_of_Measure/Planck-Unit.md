@@ -135,8 +135,8 @@ aliases:
 
 This region may be characterized by 
 - particle energies of around 10^19 GeV or 10^9 J, 
-- time intervals of around 5×10−44 s and 
-- lengths of around 10−35 m 
+- time intervals of around 5×10-44 s and 
+- lengths of around 10-35 m 
 
 (approximately the energy-equivalent of the Planck mass, 
 the Planck time and the Planck length, respectively). 
@@ -145,14 +145,14 @@ At the Planck scale, the predictions of the Standard Model,
 quantum field theory and general relativity are not expected to apply, 
 and quantum effects of gravity are expected to dominate. 
 
-One example is represented by the conditions in the first 10^−43 seconds 
+One example is represented by the conditions in the first 10^-43 seconds 
 of our universe after the Big Bang, approximately 13.8 billion years ago.
 
 The four universal constants that, by definition, have a numeric value 1 when expressed in these units are:
 - 1 == c, the speed of light in vacuum, 
 - 1 == G, the gravitational constant,
 - ħ, the reduced Planck constant, and 
-- kB, the [[Boltzmann-constant]] 1.380649e−23 J/K. 
+- kB, the [[Boltzmann-constant]] 1.380649e-23 J/K. 
 
 Variants of the basic idea of Planck units exist, 
 such as [[Stoney-Unit]] which set the elementary Charge to 1. 

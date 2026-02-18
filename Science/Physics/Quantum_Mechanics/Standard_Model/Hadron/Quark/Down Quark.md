@@ -147,7 +147,7 @@ dv_has_:
 > Because they are found in every single known atom, 
 > down quarks are present in all everyday matter that we interact with.
 >
-> The down quark is part of the first generation of matter, has an electric charge of −⁠1/3⁠ e and a bare mass of 4.7+0.5−0.3 MeV/c2. Like all quarks, the down quark is an elementary fermion with spin ⁠1/2⁠, and experiences all four fundamental interactions: gravitation, electromagnetism, weak interactions, and strong interactions. The antiparticle of the down quark is the down antiquark (sometimes called antidown quark or simply antidown), which differs from it only in that some of its properties have equal magnitude but opposite sign.
+> The down quark is part of the first generation of matter, has an electric charge of -⁠1/3⁠ e and a bare mass of 4.7+0.5-0.3 MeV/c2. Like all quarks, the down quark is an elementary fermion with spin ⁠1/2⁠, and experiences all four fundamental interactions: gravitation, electromagnetism, weak interactions, and strong interactions. The antiparticle of the down quark is the down antiquark (sometimes called antidown quark or simply antidown), which differs from it only in that some of its properties have equal magnitude but opposite sign.
 >
 > Its existence (along with that of the up and strange quarks) was postulated in 1964 by Murray Gell-Mann and George Zweig to explain the Eightfold Way classification scheme of hadrons. The down quark was first observed by experiments at the Stanford Linear Accelerator Center in 1968.
 >

@@ -203,7 +203,7 @@ dv_has_:
 ## #has_/text_of_/abstract 
 
 > In chemistry, an **Ester** is a compound derived from an acid (either organic or inorganic) 
-> in which the hydrogen atom (H) of at least one acidic hydroxyl group (−OH) of that acid 
+> in which the hydrogen atom (H) of at least one acidic hydroxyl group (-OH) of that acid 
 > is replaced by an organyl group (R′). 
 > 
 > These compounds contain a distinctive functional group.  
@@ -211,7 +211,7 @@ dv_has_:
 >
 > Glycerides are fatty acid esters of glycerol; they are important in biology, being one of the main classes of lipids and comprising the bulk of animal fats and vegetable oils. Lactones are cyclic carboxylic esters; naturally occurring lactones are mainly 5- and 6-membered ring lactones. Lactones contribute to the aroma of fruits, butter, cheese, vegetables like celery and other foods.
 >
-> Esters can be formed from oxoacids (e.g. esters of acetic acid, carbonic acid, sulfuric acid, phosphoric acid, nitric acid, xanthic acid), but also from acids that do not contain oxygen (e.g. esters of thiocyanic acid and trithiocarbonic acid). An example of an ester formation is the substitution reaction between a carboxylic acid (R−C(=O)−OH) and an alcohol (R'−OH), forming an ester (R−C(=O)−O−R'), where R stands for any group (typically hydrogen or organyl) and R′ stands for organyl group.
+> Esters can be formed from oxoacids (e.g. esters of acetic acid, carbonic acid, sulfuric acid, phosphoric acid, nitric acid, xanthic acid), but also from acids that do not contain oxygen (e.g. esters of thiocyanic acid and trithiocarbonic acid). An example of an ester formation is the substitution reaction between a carboxylic acid (R-C(=O)-OH) and an alcohol (R'-OH), forming an ester (R-C(=O)-O-R'), where R stands for any group (typically hydrogen or organyl) and R′ stands for organyl group.
 >
 > Organyl esters of carboxylic acids typically have a pleasant smell; those of low molecular weight are commonly used as fragrances and are found in essential oils and pheromones. They perform as high-grade solvents for a broad array of plastics, plasticizers, resins, and lacquers, and are one of the largest classes of synthetic lubricants on the commercial market. Polyesters are important plastics, with monomers linked by ester moieties. Esters of phosphoric acid form the backbone of DNA molecules. Esters of nitric acid, such as nitroglycerin, are known for their explosive properties.
 >

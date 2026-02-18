@@ -453,7 +453,7 @@ dv_has_:
 > Current models of particle physics imply that the earliest instance of gravity in the universe, 
 > possibly in the form of quantum gravity, supergravity, or a gravitational singularity, 
 > along with ordinary space and time, developed during the Planck epoch 
-> (up to 10−43 seconds after the birth of the universe), 
+> (up to 10-43 seconds after the birth of the universe), 
 > possibly from a primeval state, such as a false vacuum, quantum vacuum or virtual particle, 
 > in a currently unknown manner. 
 > 

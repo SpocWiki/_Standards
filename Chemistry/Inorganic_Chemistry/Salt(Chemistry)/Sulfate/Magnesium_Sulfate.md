@@ -206,7 +206,7 @@ dv_has_:
 ## #has_/text_of_/abstract 
 
 > Magnesium sulfate or magnesium sulphate is a salt with the formula MgSO4, 
-> consisting of magnesium cations Mg2+ (20.19% by mass) and sulfate anions SO2−4. 
+> consisting of magnesium cations Mg2+ (20.19% by mass) and sulfate anions SO2-4. 
 > It is a white crystalline solid, soluble in water.
 >
 > Magnesium sulfate is usually encountered in the form of a hydrate MgSO4·nH2O, 

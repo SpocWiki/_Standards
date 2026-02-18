@@ -1,6 +1,6 @@
 ---
 aliases:
-- D-(−)-Fructose (offenkettig)
+- D-(-)-Fructose (offenkettig)
 - Froktôzy
 - Fruchtzucker
 - fruchtós
@@ -67,7 +67,7 @@ dv_has_:
     ca: fructosa
     cs: fruktóza
     da: Fruktose
-    de: D-(−)-Fructose (offenkettig)
+    de: D-(-)-Fructose (offenkettig)
     el: φρουκτόζη
     en: keto-D-fructose
     en-us: keto-D-fructose

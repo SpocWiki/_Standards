@@ -232,9 +232,9 @@ dv_has_:
 > that, along with its inherent uncertainty, is updated periodically. 
 > 
 > The 2022 CODATA recommended value of the atomic mass constant 
-> expressed in the SI base unit kilogram is:mu = 1.66053906892(52)×10−27 kg. 
+> expressed in the SI base unit kilogram is:mu = 1.66053906892(52)×10-27 kg. 
 > As of June 2025, the value given for the dalton (1 Da = 1 u = mu) in the SI Brochure 
-> is still listed as the 2018 CODATA recommended value:1 Da = mu = 1.66053906660(50)×10−27 kg. 
+> is still listed as the 2018 CODATA recommended value:1 Da = mu = 1.66053906660(50)×10-27 kg. 
 >
 > This was the value used in the calculation of g/Da, the traditional definition of the Avogadro number,
 > g/Da = 6.022140762081123e23, 

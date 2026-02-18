@@ -295,9 +295,9 @@ dv_has_:
 > often using blackboard bold ⁠ℝ 
 > 
 > The adjective real, used in the 17th century by René Descartes, 
-> distinguishes real numbers from imaginary numbers such as i = √−1, the square root of -1.
+> distinguishes real numbers from imaginary numbers such as i = √-1, the square root of -1.
 >
-> The real numbers include the rational numbers, such as the integer −5 and the fraction 4 / 3. 
+> The real numbers include the rational numbers, such as the integer -5 and the fraction 4 / 3. 
 > The rest of the real numbers are called irrational numbers. 
 > Some irrational numbers (as well as all the rationals) 
 > are the root of a polynomial with integer coefficients, such as the square root √2 = 1.414...; 
@@ -306,7 +306,7 @@ dv_has_:
 > these are called transcendental numbers.
 >
 > Real numbers can be thought of as all points on a line called the number line or real line, 
-> where the points corresponding to integers (..., −2, −1, 0, 1, 2, ...) are equally spaced.
+> where the points corresponding to integers (..., -2, -1, 0, 1, 2, ...) are equally spaced.
 >
 > The informal descriptions above of the real numbers are not sufficient 
 > for ensuring the correctness of proofs of theorems involving real numbers. 

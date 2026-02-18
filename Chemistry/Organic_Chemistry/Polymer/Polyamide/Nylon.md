@@ -188,7 +188,7 @@ dv_has_:
 > One family, designated nylon-XY, is derived from diamines and dicarboxylic acids 
 > of carbon chain lengths X and Y, respectively. 
 > 
-> An important example is nylon-6,6 ((−C(O)(CH2)4C(O)−NH(CH2)6NH−)n). 
+> An important example is nylon-6,6 ((-C(O)(CH2)4C(O)-NH(CH2)6NH-)n). 
 > Another family, designated nylon-Z, 
 > is derived from aminocarboxylic acids with carbon chain length Z. An example is nylon-[6].
 >

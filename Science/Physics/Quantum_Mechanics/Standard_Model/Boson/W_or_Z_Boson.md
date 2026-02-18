@@ -154,7 +154,7 @@ dv_has_:
 > or more generally as the intermediate vector bosons. 
 > 
 > These elementary particles mediate the weak interaction; 
-> the respective symbols are W+, W−, and Z0. 
+> the respective symbols are W+, W-, and Z0. 
 > 
 > The W± bosons have either a positive or negative electric charge of 1 e 
 > and are each other's antiparticles. 
@@ -163,7 +163,7 @@ dv_has_:
 > The three particles each have a spin of 1. 
 > 
 > The W± bosons have a magnetic moment, but the Z0 has none. 
-> All three of these particles are very short-lived, with a half-life of about 3×10−25 s. 
+> All three of these particles are very short-lived, with a half-life of about 3×10-25 s. 
 > Their experimental discovery was 
 > pivotal in establishing what is now called the Standard Model of particle physics.
 >

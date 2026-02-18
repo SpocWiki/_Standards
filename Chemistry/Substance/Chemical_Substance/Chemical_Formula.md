@@ -244,7 +244,7 @@ dv_has_:
 > A chemical formula is a way of  presenting information about the 
 > chemical proportions of atoms that constitute a particular chemical compound or molecule, 
 > using chemical element symbols, numbers, and sometimes also other symbols, 
-> such as parentheses, dashes, brackets, commas and plus (+) and minus (−) signs. 
+> such as parentheses, dashes, brackets, commas and plus (+) and minus (-) signs. 
 > 
 > These are limited to a single typographic line of symbols, 
 > which may include subscripts and superscripts. 
@@ -273,7 +273,7 @@ dv_has_:
 > This is possible if the relevant bonding is easy to show in one dimension. 
 > 
 > An example is the condensed molecular/chemical formula for ethanol, 
-> which is CH3−CH2−OH or CH3CH2OH. 
+> which is CH3-CH2-OH or CH3CH2OH. 
 > However, even a condensed chemical formula is necessarily 
 > limited in its ability to show complex bonding relationships between atoms, 
 > especially atoms that have bonds to four or more different substituents.

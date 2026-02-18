@@ -285,7 +285,7 @@ dv_has_:
 > 
 > With its liquids (both surface and subsurface) and robust nitrogen atmosphere, 
 > Titan's methane cycle nearly resembles Earth's water cycle, 
-> albeit at a much lower temperature of about 94 K (−179 °C; −290 °F). 
+> albeit at a much lower temperature of about 94 K (-179 °C; -290 °F). 
 > 
 > Due to these factors, Titan is sometimes called the most Earth-like celestial object in the Solar System.
 >

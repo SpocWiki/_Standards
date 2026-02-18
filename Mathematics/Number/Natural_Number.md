@@ -393,7 +393,7 @@ dv_has_:
 > For example, the integers are made by including 0 and negative numbers. 
 > The rational numbers add fractions, and the real numbers add all infinite decimals. 
 > 
-> Complex numbers add the square root of −1: i = √-1.  
+> Complex numbers add the square root of -1: i = √-1.  
 > 
 > This makes up natural numbers as foundational for all mathematics.
 >

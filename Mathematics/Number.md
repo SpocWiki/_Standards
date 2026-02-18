@@ -440,7 +440,7 @@ dv_has_:
 >
 >      $\left({\sqrt {2}}\right)$
 >
->  and π, and complex numbers which extend the real numbers with a square root of −1 (and its combinations with real numbers by adding or subtracting its multiples). Calculations with numbers are done with arithmetical operations, the most familiar being addition, subtraction, multiplication, division, and exponentiation. Their study or usage is called arithmetic, a term which may also refer to number theory, the study of the properties of numbers.
+>  and π, and complex numbers which extend the real numbers with a square root of -1 (and its combinations with real numbers by adding or subtracting its multiples). Calculations with numbers are done with arithmetical operations, the most familiar being addition, subtraction, multiplication, division, and exponentiation. Their study or usage is called arithmetic, a term which may also refer to number theory, the study of the properties of numbers.
 >
 > Besides their practical uses, numbers have cultural significance throughout the world. For example, in Western society, the number 13 is often regarded as unlucky, and "a million" may signify "a lot" rather than an exact quantity. Though it is now regarded as pseudoscience, belief in a mystical significance of numbers, known as numerology, permeated ancient and medieval thought. Numerology heavily influenced the development of Greek mathematics, stimulating the investigation of many problems in number theory which are still of interest today.
 >

@@ -219,7 +219,7 @@ dv_has_:
 > to distinguish it from ordinary saltpeter, potassium nitrate. 
 > The mineral form is also known as nitratine, nitratite or soda niter.
 >
-> Sodium nitrate is a white deliquescent solid very soluble in water. It is a readily available source of the nitrate anion (NO3−), which is useful in several reactions carried out on industrial scales for the production of fertilizers, pyrotechnics, smoke bombs and other explosives, glass and pottery enamels, food preservatives (esp. meats), and solid rocket propellant. It has been mined extensively for these purposes.
+> Sodium nitrate is a white deliquescent solid very soluble in water. It is a readily available source of the nitrate anion (NO3-), which is useful in several reactions carried out on industrial scales for the production of fertilizers, pyrotechnics, smoke bombs and other explosives, glass and pottery enamels, food preservatives (esp. meats), and solid rocket propellant. It has been mined extensively for these purposes.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sodium%20nitrate) 
 

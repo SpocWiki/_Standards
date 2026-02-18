@@ -195,13 +195,13 @@ O   O
 ## #has_/text_of_/abstract 
 
 > A **Carbonate** is a salt of carbonic acid, (H2CO3), 
-> characterized by the presence of the carbonate ion, a polyatomic ion with the formula CO2−3. 
+> characterized by the presence of the carbonate ion, a polyatomic ion with the formula CO2-3. 
 > The word "carbonate" may also refer to a carbonate ester, 
-> an organic compound containing the carbonate group O=C(−O−)2.
+> an organic compound containing the carbonate group O=C(-O-)2.
 >
 > The term is also used as a verb, to describe carbonation: the process of raising the concentrations of carbonate and bicarbonate ions in water to produce carbonated water and other carbonated beverages – either by the addition of carbon dioxide gas under pressure or by dissolving carbonate or bicarbonate salts into the water.
 >
-> In geology and mineralogy, the term "carbonate" can refer both to carbonate minerals and carbonate rock (which is made of chiefly carbonate minerals), and both are dominated by the carbonate ion, CO2−3. Carbonate minerals are extremely varied and ubiquitous in chemically precipitated sedimentary rock. The most common are calcite or calcium carbonate, CaCO3, the chief constituent of limestone (as well as the main component of mollusc shells and coral skeletons); dolomite, a calcium-magnesium carbonate CaMg(CO3)2; and siderite, or iron(II) carbonate, FeCO3, an important iron ore. Sodium carbonate ("soda" or "natron"), Na2CO3, and potassium carbonate ("potash"), K2CO3, have been used since antiquity for cleaning and preservation, as well as for the manufacture of glass. Carbonates are widely used in industry, such as in iron smelting, as a raw material for Portland cement and lime manufacture, in the composition of ceramic glazes, and more. New applications of alkali metal carbonates include: thermal energy storage, catalysis and electrolyte both in fuel cell technology as well as in electrosynthesis of H2O2 in aqueous media.
+> In geology and mineralogy, the term "carbonate" can refer both to carbonate minerals and carbonate rock (which is made of chiefly carbonate minerals), and both are dominated by the carbonate ion, CO2-3. Carbonate minerals are extremely varied and ubiquitous in chemically precipitated sedimentary rock. The most common are calcite or calcium carbonate, CaCO3, the chief constituent of limestone (as well as the main component of mollusc shells and coral skeletons); dolomite, a calcium-magnesium carbonate CaMg(CO3)2; and siderite, or iron(II) carbonate, FeCO3, an important iron ore. Sodium carbonate ("soda" or "natron"), Na2CO3, and potassium carbonate ("potash"), K2CO3, have been used since antiquity for cleaning and preservation, as well as for the manufacture of glass. Carbonates are widely used in industry, such as in iron smelting, as a raw material for Portland cement and lime manufacture, in the composition of ceramic glazes, and more. New applications of alkali metal carbonates include: thermal energy storage, catalysis and electrolyte both in fuel cell technology as well as in electrosynthesis of H2O2 in aqueous media.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Carbonate) 
 

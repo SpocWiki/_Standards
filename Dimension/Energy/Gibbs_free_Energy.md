@@ -139,7 +139,7 @@ aliases:
 > - V is the volume of the system
 > - p is the pressure of the system (which must be equal to that of the surroundings for mechanical equilibrium).
 >
-> The Gibbs free energy change (⁠ΔG = ΔH − TΔS, measured in joules in SI) 
+> The Gibbs free energy change (⁠ΔG = ΔH - TΔS, measured in joules in SI) 
 > is the maximum amount of non-volume expansion work that can be extracted from a closed system (one that can exchange heat and work with its surroundings, but not matter) at fixed temperature and pressure. This maximum can be attained only in a completely reversible process. When a system transforms reversibly from an initial state to a final state under these conditions, the decrease in Gibbs free energy equals the work done by the system to its surroundings, minus the work of the pressure forces.
 >
 > The Gibbs energy is the thermodynamic potential that is minimized when a system reaches chemical equilibrium at constant pressure and temperature when not driven by an applied electrolytic voltage. Its derivative with respect to the reaction coordinate of the system then vanishes at the equilibrium point. As such, a reduction in G 
@@ -150,7 +150,7 @@ aliases:
 >
 > The initial state of the body, according to Gibbs, is supposed to be such that "the body can be made to pass from it to states of dissipated energy by reversible processes". In his 1876 magnum opus On the Equilibrium of Heterogeneous Substances, a graphical analysis of multi-phase chemical systems, he engaged his thoughts on chemical-free energy in full.
 >
-> If the reactants and products are all in their thermodynamic standard states, then the defining equation is written as ⁠ΔG∘ = ΔH∘ − TΔ S∘
+> If the reactants and products are all in their thermodynamic standard states, then the defining equation is written as ⁠ΔG∘ = ΔH∘ - TΔ S∘
 > ⁠, where 
 > - H is enthalpy, 
 > -T is absolute temperature, and 

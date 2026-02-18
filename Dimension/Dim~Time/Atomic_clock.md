@@ -184,7 +184,7 @@ dv_has_:
 > It is defined by taking the fixed numerical value of the caesium frequency, 
 >         ΔνCs
 > , the unperturbed ground-state hyperfine transition frequency of the caesium-133 atom, 
-> to be 9192631770 when expressed in the unit Hz, which is equal to s−1.
+> to be 9192631770 when expressed in the unit Hz, which is equal to s-1.
 >
 > This definition is the basis for the system of International Atomic Time (TAI), 
 > which is maintained by an ensemble of atomic clocks around the world. 
@@ -200,9 +200,9 @@ dv_has_:
 > 
 > The timekeeping accuracy of the involved atomic clocks is important 
 > because the smaller the error in time measurement, 
-> the smaller the error in distance obtained by multiplying the time by the speed of light is (a timing error of a nanosecond or 1 billionth of a second (10−9 or 1⁄1,000,000,000 second) translates into an almost 30-centimetre (11.8 in) distance and hence positional error).
+> the smaller the error in distance obtained by multiplying the time by the speed of light is (a timing error of a nanosecond or 1 billionth of a second (10-9 or 1⁄1,000,000,000 second) translates into an almost 30-centimetre (11.8 in) distance and hence positional error).
 >
-> The main variety of atomic clock uses caesium atoms cooled to temperatures that approach absolute zero. The primary standard for the United States, the National Institute of Standards and Technology (NIST)'s caesium fountain clock named NIST-F2, measures time with an uncertainty of 1 second in 300 million years (relative uncertainty 10−16). NIST-F2 was brought online on 3 April 2014.
+> The main variety of atomic clock uses caesium atoms cooled to temperatures that approach absolute zero. The primary standard for the United States, the National Institute of Standards and Technology (NIST)'s caesium fountain clock named NIST-F2, measures time with an uncertainty of 1 second in 300 million years (relative uncertainty 10-16). NIST-F2 was brought online on 3 April 2014.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Atomic%20clock) 
 

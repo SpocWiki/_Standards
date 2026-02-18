@@ -270,7 +270,7 @@ dv_has_:
 > The quality of a partial vacuum refers to how closely it approaches a perfect vacuum. 
 > Other things equal, lower gas pressure means higher-quality vacuum. 
 > For example, a typical vacuum cleaner produces enough suction to reduce air pressure by around 20%. 
-> But higher-quality vacuums are possible. Ultra-high vacuum chambers, common in chemistry, physics, and engineering, operate below one trillionth (10−12) of atmospheric pressure (100 nPa), and can reach around 100 particles/cm3. Outer space is an even higher-quality vacuum, with the equivalent of just a few hydrogen atoms per cubic meter on average in intergalactic space.
+> But higher-quality vacuums are possible. Ultra-high vacuum chambers, common in chemistry, physics, and engineering, operate below one trillionth (10-12) of atmospheric pressure (100 nPa), and can reach around 100 particles/cm3. Outer space is an even higher-quality vacuum, with the equivalent of just a few hydrogen atoms per cubic meter on average in intergalactic space.
 >
 > Vacuum has been a frequent topic of philosophical debate since ancient Greek times, but was not studied empirically until the 17th century. Clemens Timpler (1605) philosophized about the experimental possibility of producing a vacuum in small tubes. Evangelista Torricelli produced the first laboratory vacuum in 1643, and other experimental techniques were developed as a result of his theories of atmospheric pressure. A Torricellian vacuum is created by filling with mercury a tall glass container closed at one end, and then inverting it in a bowl to contain the mercury (see below).
 >

@@ -238,7 +238,7 @@ dv_has_:
 > In the case of a single point charge at rest, the two laws are equivalent, 
 > expressing the same physical law in different ways. 
 > 
-> The law has been tested extensively, and observations have upheld the law on the scale from 1e−16 m to 1e8 m.
+> The law has been tested extensively, and observations have upheld the law on the scale from 1e-16 m to 1e8 m.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Coulomb's%20law) 
 

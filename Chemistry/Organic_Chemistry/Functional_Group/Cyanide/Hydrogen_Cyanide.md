@@ -280,7 +280,7 @@ is_same_as = `=this.dv_is_same_as`
 ## #has_/text_of_/abstract 
 
 > **hydrogen cyanide** (also called prussic acid) is a chemical compound 
-> with the formula HCN and structural formula H−C≡N. 
+> with the formula HCN and structural formula H-C≡N. 
 > 
 > It is a highly toxic and flammable liquid that boils slightly above room temperature, at 25.6 °C (78.1 °F). 
 > 

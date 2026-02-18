@@ -6,7 +6,7 @@
 ## #has_/text_of_/abstract 
 
 > The henry (symbol: H) is the unit of electrical inductance in the International System of Units 
-> (SI), defined as 1 kg⋅m2⋅s−2⋅A−2. 
+> (SI), defined as 1 kg⋅m2⋅s-2⋅A-2. 
 > If a current of 1 ampere flowing through a coil produces flux linkage of 1 weber turn, 
 > that coil has a self-inductance of 1 henry.‌ 
 > 

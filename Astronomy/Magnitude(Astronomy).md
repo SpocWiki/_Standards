@@ -165,10 +165,10 @@ dv_has_:
 > A more complex definition of absolute magnitude is used for planets and small Solar System bodies, 
 > based on its brightness at one astronomical unit from the observer and the Sun.
 >
-> The Sun has an apparent magnitude of −27 
-> and Sirius, the brightest visible star in the night sky, −1.46.  
+> The Sun has an apparent magnitude of -27 
+> and Sirius, the brightest visible star in the night sky, -1.46.  
 > Venus at its brightest is -5.  
-> The International Space Station (ISS) sometimes reaches a magnitude of −6.
+> The International Space Station (ISS) sometimes reaches a magnitude of -6.
 >
 > Amateur astronomers commonly express the darkness of the sky in terms of limiting magnitude, 
 > i.e. the apparent magnitude of the faintest star they can see with the naked eye. 

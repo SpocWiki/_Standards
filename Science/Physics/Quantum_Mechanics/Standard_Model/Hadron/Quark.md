@@ -243,7 +243,7 @@ dv_has_:
 
 ## Definition of Quark Generation
 
-The **generation of a quark** refers to its classification in terms of **mass and weak interaction properties** within the Standard Model of particle physics. Quarks are elementary particles that combine to form hadrons (e.g., protons and neutrons). They are grouped into **three generations**, each consisting of **two types (flavors)**: an “up-type” quark with charge +23e+\frac{2}{3}e+32​e and a “down-type” quark with charge −13e-\frac{1}{3}e−31​e.
+The **generation of a quark** refers to its classification in terms of **mass and weak interaction properties** within the Standard Model of particle physics. Quarks are elementary particles that combine to form hadrons (e.g., protons and neutrons). They are grouped into **three generations**, each consisting of **two types (flavors)**: an “up-type” quark with charge +23e+\frac{2}{3}e+32​e and a “down-type” quark with charge -13e-\frac{1}{3}e-31​e.
 
 ### The Three Generations
 
@@ -261,7 +261,7 @@ The **generation number** correlates strongly with **mass and stability**:
     
 - **2nd generation** quarks (c, s) are heavier and **unstable**, decaying into 1st generation quarks through weak interactions
     
-- **3rd generation** quarks (t, b) are **very heavy**, with the top quark decaying extremely rapidly (∼5×10−25 s\sim 5 \times 10^{-25} \, \text{s}∼5×10−25s)
+- **3rd generation** quarks (t, b) are **very heavy**, with the top quark decaying extremely rapidly (∼5×10-25 s\sim 5 \times 10^{-25} \, \text{s}∼5×10-25s)
     
 
 ### Weak Interaction and Flavor Changing

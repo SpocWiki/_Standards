@@ -189,7 +189,7 @@ dv_has_:
 
 ## #has_/text_of_/abstract 
 
-> **hydroxide** is a diatomic anion with chemical formula OH−. 
+> **hydroxide** is a diatomic anion with chemical formula OH-. 
 > It consists of an oxygen and hydrogen atom held together by a single covalent bond, 
 > and carries a negative electric charge. 
 > 
@@ -201,7 +201,7 @@ dv_has_:
 > Sodium hydroxide is a multi-million-ton per annum commodity chemical.
 >
 > The corresponding electrically neutral compound HO• is the hydroxyl radical. 
-> The corresponding covalently bound group −OH of atoms is the hydroxy group.
+> The corresponding covalently bound group -OH of atoms is the hydroxy group.
 >
 > Both the hydroxide ion and hydroxy group are nucleophiles and can act as catalysts in organic chemistry.
 >

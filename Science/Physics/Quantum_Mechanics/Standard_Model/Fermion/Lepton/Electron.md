@@ -327,7 +327,7 @@ dv_has_:
 
 ## #has_/text_of_/abstract 
 
-> The **Electron** (e−, or β− in nuclear reactions) is a subatomic particle 
+> The **Electron** (e-, or β- in nuclear reactions) is a subatomic particle 
 > whose electric charge is negative one elementary charge. 
 > It is a fundamental particle that comprises the ordinary matter that makes up the universe, 
 > along with up and down quarks.
@@ -360,7 +360,7 @@ dv_has_:
 
 ## Size-Paradox 
 
-Experiments show the electron is **pointlike** to at least 1e−19m, much smaller than Re​.
+Experiments show the electron is **pointlike** to at least 1e-19m, much smaller than Re​.
 For a uniformly charged sphere of radius R, the electrostatic self-energy is U(R)=e²/(8πεR) 
 
 Equating this to mc² gives Re=2.82 fm

@@ -213,7 +213,7 @@ dv_has_:
 
 ## #has_/text_of_/abstract 
 
-> The thermal conductivity of a material is a measure of its ability to conduct heat. It is commonly denoted by k, λ, or κ and in SI units is measured in W·m−1·K−1.  
+> The thermal conductivity of a material is a measure of its ability to conduct heat. It is commonly denoted by k, λ, or κ and in SI units is measured in W·m-1·K-1.  
 > 
 > In such units, it is the amount of thermal energy in watts (joules per second) 
 > that flows from a hotter region to a colder region per Kelvin (or degree Celsius) difference 
@@ -234,7 +234,7 @@ dv_has_:
 > The reciprocal of thermal conductivity is called thermal resistivity.
 >
 > The defining equation for thermal conductivity is 
->           q = −k ∇T
+>           q = -k ∇T
 > , where 
 > q is the heat flux, 
 > k is the thermal conductivity, and 

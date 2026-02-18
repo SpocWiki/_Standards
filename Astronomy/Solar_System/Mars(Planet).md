@@ -609,7 +609,7 @@ dv_has_:
 > 
 > Carbon dioxide is substantially present in Mars's polar ice caps and thin atmosphere. 
 > During a year, there are large surface temperature swings on the surface 
-> between −78.5 °C (−109.3 °F) to 5.7 °C (42.3 °F) similar to Earth's seasons, 
+> between -78.5 °C (-109.3 °F) to 5.7 °C (42.3 °F) similar to Earth's seasons, 
 > as both planets have significant axial tilt, 
 > Earth at 23.5 degrees and Mars at 25 degrees.
 >

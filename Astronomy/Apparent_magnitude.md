@@ -234,12 +234,12 @@ dv_has_:
 > 6.31 times as magnitude 4.0, and 100 times magnitude 7.0.
 >
 > The brightest astronomical objects have negative apparent magnitudes: 
-> for example, Venus at −4.2 or Sirius at −1.46. 
+> for example, Venus at -4.2 or Sirius at -1.46. 
 > 
 > The faintest stars visible with the naked eye on the darkest night 
 > have apparent magnitudes of about +6.5, 
 > though this varies depending on a person's eyesight and with altitude and atmospheric conditions. 
-> The apparent magnitudes of known objects range from −26.832 
+> The apparent magnitudes of known objects range from -26.832 
 > to objects in deep Hubble Space Telescope images of magnitude +31.5.
 >
 > The measurement of apparent magnitude is called photometry. Photometric measurements are made in the ultraviolet, visible, or infrared wavelength bands using standard passband filters belonging to photometric systems such as the UBV system or the Strömgren uvbyβ system. Measurement in the V-band may be referred to as the apparent visual magnitude.

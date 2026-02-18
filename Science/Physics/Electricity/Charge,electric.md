@@ -280,7 +280,7 @@ dv_has_:
 # [[Charge,electric]]  
 
 The SI-Unit for Charge is the [[../../../Dimension/Unit_of_Measure/SI-Unit/derived_Unit/Unit~Coulomb]].  
-Since 2019 the Charge is defined as exactly 1 Electron Charge every 1.602176634×10[^−19]s . 
+Since 2019 the Charge is defined as exactly 1 Electron Charge every 1.602176634×10[^-19]s . 
 
 #is_/same_as :: [[../../../WikiData/WD~Electric_charge,1111|WD~Electric_charge,1111]] 
 
@@ -305,12 +305,12 @@ Since 2019 the Charge is defined as exactly 1 Electron Charge every 1.602176634�
 > if there are fewer it will have a positive charge, and if there are equal numbers it will be neutral. 
 > 
 > Charge is quantized: it comes in integer multiples of individual small units called the elementary charge, e, 
-> about 1.602×10−19 C, which is the smallest charge that can exist freely.  
+> about 1.602×10-19 C, which is the smallest charge that can exist freely.  
 > 
 > Particles called quarks have smaller charges, multiples of ⁠1/3⁠e, 
 > but they are found only combined in particles that have a charge that is an integer multiple of e. 
 > In the Standard Model, charge is an absolutely conserved quantum number. 
-> The proton has a charge of +e, and the electron has a charge of −e.
+> The proton has a charge of +e, and the electron has a charge of -e.
 >
 > Today, a negative charge is defined as the charge carried by an electron and a positive charge is that carried by a proton. Before these particles were discovered, a positive charge was defined by Benjamin Franklin as the charge acquired by a glass rod when it is rubbed with a silk cloth.
 >

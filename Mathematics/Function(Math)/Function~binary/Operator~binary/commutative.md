@@ -205,7 +205,7 @@ This allows faster searching and Comparison!
 > the property can also be used in more advanced settings. 
 > 
 > The name is needed because there are operations, such as division and subtraction, 
-> that do not have it (for example, "3 − 5 ≠ 5 − 3"); such operations are not commutative, 
+> that do not have it (for example, "3 - 5 ≠ 5 - 3"); such operations are not commutative, 
 > and so are referred to as noncommutative operations. 
 > 
 > The idea that simple operations, such as the multiplication and addition of numbers, are commutative 

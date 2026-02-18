@@ -300,7 +300,7 @@ dv_has_:
 
 > The atomic nucleus is the small, dense region consisting of protons and neutrons at the center of an atom, discovered in 1911 by Ernest Rutherford at the  University of Manchester based on the 1909 Geiger–Marsden gold foil experiment.  After the discovery of the neutron in 1932, models for a nucleus composed of protons and neutrons were quickly developed by Dmitri Ivanenko and Werner Heisenberg.  An atom is composed of a positively charged nucleus, with a cloud of negatively charged electrons surrounding it, bound together by electrostatic force. Almost all of the mass of an atom is located in the nucleus, with a very small contribution from the electron cloud. Protons and neutrons are bound together to form a nucleus by the nuclear force.
 >
-> The diameter of the nucleus is in the range of 1.70 fm (1.70×10−15 m) for hydrogen (the diameter of a single proton) to about 11.7 fm for uranium. These dimensions are much smaller than the diameter of the atom itself (nucleus + electron cloud), by a factor of about 26,634 (uranium atomic radius is about 156 pm (156×10−12 m)) to about 60,250 (hydrogen atomic radius is about 52.92 pm).
+> The diameter of the nucleus is in the range of 1.70 fm (1.70×10-15 m) for hydrogen (the diameter of a single proton) to about 11.7 fm for uranium. These dimensions are much smaller than the diameter of the atom itself (nucleus + electron cloud), by a factor of about 26,634 (uranium atomic radius is about 156 pm (156×10-12 m)) to about 60,250 (hydrogen atomic radius is about 52.92 pm).
 >
 > The branch of physics involved with the study and understanding of the atomic nucleus, including its composition and the forces that bind it together, is called nuclear physics.
 >

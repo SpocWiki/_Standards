@@ -185,7 +185,7 @@ dv_has_:
 >
 > The human eye is capable of seeing somewhat more than a 2 trillion-fold range. 
 > 
-> The presence of white objects is somewhat discernible under starlight, at 5e−5 lux (50 μlx), 
+> The presence of white objects is somewhat discernible under starlight, at 5e-5 lux (50 μlx), 
 > while at the bright end, it is possible to read large text at 1e8 lux (100 Mlx), 
 > or about 1000 times that of direct sunlight, 
 > although this can be very uncomfortable and cause long-lasting afterimages.

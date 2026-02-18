@@ -468,7 +468,7 @@ has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol`
 > most of the world production of the element (about 80%) is used in steel alloys, 
 > including high-strength alloys and superalloys.
 >
-> Most molybdenum compounds have low solubility in water, but when molybdenum-bearing minerals contact oxygen and water, the resulting molybdate ion MoO2−4 is quite soluble. Industrially, molybdenum compounds (about 14% of world production of the element) are used in high-pressure and high-temperature applications as pigments and catalysts.
+> Most molybdenum compounds have low solubility in water, but when molybdenum-bearing minerals contact oxygen and water, the resulting molybdate ion MoO2-4 is quite soluble. Industrially, molybdenum compounds (about 14% of world production of the element) are used in high-pressure and high-temperature applications as pigments and catalysts.
 >
 > Molybdenum-bearing enzymes are by far the most common bacterial catalysts for breaking the chemical bond in atmospheric molecular nitrogen in the process of biological nitrogen fixation. At least 50 molybdenum enzymes are now known in bacteria, plants, and animals, although only bacterial and cyanobacterial enzymes are involved in nitrogen fixation. These nitrogenases contain an iron-molybdenum cofactor FeMoco, which is believed to contain either Mo(III) or Mo(IV). This is distinct from the fully oxidized Mo(VI) found complexed with molybdopterin in all other molybdenum-bearing enzymes, which perform a variety of crucial functions. The variety of crucial reactions catalyzed by these latter enzymes means that molybdenum is an essential element for all higher eukaryote organisms, including humans.
 >

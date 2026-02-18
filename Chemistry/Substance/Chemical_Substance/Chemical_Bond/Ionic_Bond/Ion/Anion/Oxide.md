@@ -203,8 +203,8 @@ dv_has_:
 
 > An **Oxide** is a chemical compound containing at least one oxygen atom 
 > and one other element in its chemical formula. 
-> "Oxide" itself is the dianion (anion bearing a net charge of −2) of oxygen, 
-> an O2− ion with oxygen in the oxidation state of −2. 
+> "Oxide" itself is the dianion (anion bearing a net charge of -2) of oxygen, 
+> an O2- ion with oxygen in the oxidation state of -2. 
 > 
 > Most of the Earth's crust consists of oxides. 
 > Even materials considered pure elements often develop an oxide coating. 

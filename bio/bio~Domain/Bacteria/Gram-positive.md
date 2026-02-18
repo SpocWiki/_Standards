@@ -122,7 +122,7 @@ aliases:
 > according to their type of cell wall.
 >
 > The Gram stain is used by microbiologists to place bacteria into two main categories, 
-> gram-positive (+) and gram-negative (−). 
+> gram-positive (+) and gram-negative (-). 
 > Gram-positive bacteria have a thick layer of peptidoglycan within the cell wall, 
 > and gram-negative bacteria have a thin layer of peptidoglycan.
 >

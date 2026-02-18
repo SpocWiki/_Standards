@@ -261,7 +261,7 @@ dv_has_:
 > Thus the fraction ⁠3/4⁠ can be used to represent the ratio 3:4 (the ratio of the part to the whole), 
 > and the division 3 ÷ 4 (three divided by four).
 >
-> We can also write negative fractions, which represent the opposite of a positive fraction. For example, if ⁠1/2⁠ represents a half-dollar profit, then −⁠1/2⁠ represents a half-dollar loss. Because of the rules of division of signed numbers (which states in part that negative divided by positive is negative), −⁠1/2⁠, ⁠−1/2⁠ and ⁠1/−2⁠ all represent the same fraction –  negative one-half. And because a negative divided by a negative produces a positive, ⁠−1/−2⁠ represents positive one-half.
+> We can also write negative fractions, which represent the opposite of a positive fraction. For example, if ⁠1/2⁠ represents a half-dollar profit, then -⁠1/2⁠ represents a half-dollar loss. Because of the rules of division of signed numbers (which states in part that negative divided by positive is negative), -⁠1/2⁠, ⁠-1/2⁠ and ⁠1/-2⁠ all represent the same fraction –  negative one-half. And because a negative divided by a negative produces a positive, ⁠-1/-2⁠ represents positive one-half.
 >
 > In mathematics a rational number is a number that can be represented by a fraction of the form ⁠a/b⁠, 
 > where a and b are integers and b is positive; 

@@ -163,7 +163,7 @@ dv_has_:
 > 
 > This measures the expected amount of information needed to describe the state of the variable, considering the distribution of probabilities across all potential states. Given a discrete random variable X, which may be any member x within the set X
 > and is distributed according to p : X → [0, 1], the entropy is
-> H(X) := −∑ p(x) log(p(x)) for x∈X
+> H(X) := -∑ p(x) log(p(x)) for x∈X
 > where Σ  denotes the sum over the variable's possible values x∈X. 
 >  The choice of base for log, the logarithm, varies for different applications. 
 > Base 2 gives the unit of [[../Mathematics/Number/Numeral_System/Binary_numeral_System/Bit|Bit]]s (or "shannons"), while base e gives "natural units" nat, 
@@ -192,7 +192,7 @@ dv_has_:
 >
 >         [
 >
->         −
+>         -
 >
 >         log
 >

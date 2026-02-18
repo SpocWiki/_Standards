@@ -259,7 +259,7 @@ has_name_de = `=this.dv_has_name_de`
 > including Erichthonius and Myrtilus. 
 > 
 > Auriga is most prominent during winter evenings in the northern Hemisphere, 
-> as are five other constellations that have stars in the Winter Hexagon asterism. Because of its northern declination, Auriga is only visible in its entirety as far south as −34°; for observers farther south it lies partially or fully below the horizon. A large constellation, with an area of 657 square degrees, it is half the size of the largest, Hydra.
+> as are five other constellations that have stars in the Winter Hexagon asterism. Because of its northern declination, Auriga is only visible in its entirety as far south as -34°; for observers farther south it lies partially or fully below the horizon. A large constellation, with an area of 657 square degrees, it is half the size of the largest, Hydra.
 >
 > Its brightest star, Capella, is an unusual multiple star system among the brightest stars in the night sky. Beta Aurigae is an interesting variable star in the constellation; Epsilon Aurigae, a nearby eclipsing binary with an unusually long period, has been studied intensively. Because of its position near the winter Milky Way, Auriga has many bright open clusters in its borders, including M36, M37, and M38, popular targets for amateur astronomers. In addition, it has one prominent nebula, the Flaming Star Nebula, associated with the variable star AE Aurigae.
 >

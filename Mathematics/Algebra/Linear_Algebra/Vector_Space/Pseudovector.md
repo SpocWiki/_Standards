@@ -89,7 +89,7 @@ This is a [[BiVector]] which can be generalized to N-1-Blades in [[../../../Geom
 >
 > In three dimensions, the curl of a polar vector field at a point and the cross product of two polar vectors are pseudovectors.
 >
-> A number of quantities in physics behave as pseudovectors rather than polar vectors, including magnetic field and torque. In mathematics, in three dimensions, pseudovectors are equivalent to bivectors, from which the transformation rules of pseudovectors can be derived. More generally, in n-dimensional geometric algebra, pseudovectors are the elements of the algebra with dimension n − 1, written ⋀n−1Rn. The label "pseudo-" can be further generalized to pseudoscalars and pseudotensors, both of which gain an extra sign-flip under improper rotations compared to a true scalar or tensor.
+> A number of quantities in physics behave as pseudovectors rather than polar vectors, including magnetic field and torque. In mathematics, in three dimensions, pseudovectors are equivalent to bivectors, from which the transformation rules of pseudovectors can be derived. More generally, in n-dimensional geometric algebra, pseudovectors are the elements of the algebra with dimension n - 1, written ⋀n-1Rn. The label "pseudo-" can be further generalized to pseudoscalars and pseudotensors, both of which gain an extra sign-flip under improper rotations compared to a true scalar or tensor.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Pseudovector) 
 

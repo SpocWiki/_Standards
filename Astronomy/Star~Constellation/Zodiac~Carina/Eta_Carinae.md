@@ -182,7 +182,7 @@ is_part_of = `=this.dv_is_part_of`
 > In a smaller eruption, it reached 6th magnitude in 1892 before fading again. 
 > It has brightened consistently since about 1940, becoming brighter than magnitude 4.5 by 2014.
 >
-> At declination −59° 41′ 04.26″, η Carinae is circumpolar from locations on Earth south of latitude 30°S (for reference, the latitude of Johannesburg is 26°12′S), and is not visible north of about latitude 30°N, just south of Cairo (which is at a latitude of 30°02′N).
+> At declination -59° 41′ 04.26″, η Carinae is circumpolar from locations on Earth south of latitude 30°S (for reference, the latitude of Johannesburg is 26°12′S), and is not visible north of about latitude 30°N, just south of Cairo (which is at a latitude of 30°02′N).
 >
 > The two main stars of the η Carinae system have an eccentric orbit with a period of 5.54 years. The primary is an extremely unusual star, similar to a luminous blue variable (LBV). It was initially 150–250 M☉, of which it has already lost at least 30 M☉, and it is expected to explode as a supernova in the astronomically near future. This is the only star known to produce ultraviolet laser emission. The secondary star is hot and also highly luminous, probably of spectral class O, around 30–80 times as massive as the Sun. The system is heavily obscured by the Homunculus Nebula, which consists of material ejected from the primary during the Great Eruption. It is a member of the Trumpler 16 open cluster, itself embedded in the much larger Carina Nebula.
 >

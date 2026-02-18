@@ -381,7 +381,7 @@ dv_has_:
 > by rail in tank wagons, by sea in gas carriers, or in cylinders. 
 > Ammonia occurs in nature and has been detected in the interstellar medium. 
 >
-> Ammonia boils at −33.34 °C (−28.012 °F) at a pressure of one atmosphere, 
+> Ammonia boils at -33.34 °C (-28.012 °F) at a pressure of one atmosphere, 
 > but the liquid can often be handled in the laboratory without external cooling. 
 > Household ammonia or ammonium hydroxide is a solution of ammonia in water.
 >

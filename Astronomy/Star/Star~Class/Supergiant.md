@@ -150,7 +150,7 @@ dv_has_:
 
 > **Supergiant**s are among the most massive and most luminous stars. 
 > Supergiant stars occupy the top region of the Hertzsprung–Russell diagram, 
-> with absolute visual magnitudes between about −3 and −8. 
+> with absolute visual magnitudes between about -3 and -8. 
 > 
 > The temperatures of supergiant stars range from about 3,400 K to over 20,000 K.
 >

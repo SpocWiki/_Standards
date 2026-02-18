@@ -193,7 +193,7 @@ dv_is_:
   - '[[/_secret/Chemistry/Organic_Chemistry/Amine/Urea.secret|Urea.secret]]'
 dv_has_:
   formula_:
-    structural: H²N−C(=O)−NH²
+    structural: H²N-C(=O)-NH²
   name_:
     af: Ureum
     ann: Puli
@@ -292,7 +292,7 @@ dv_is_same_as:
 - '[[/_private/Chemistry/Organic_Chemistry/Amine/Urea.private|Urea.private]]'
 - '[[/_personal/Chemistry/Organic_Chemistry/Amine/Urea.personal|Urea.personal]]'
 - '[[/_secret/Chemistry/Organic_Chemistry/Amine/Urea.secret|Urea.secret]]'
-dv_has_formula_structural: H²N−C(=O)−NH²
+dv_has_formula_structural: H²N-C(=O)-NH²
 ---
 
 # [[Urea]] 
@@ -306,8 +306,8 @@ has_formula_structural = `=this.dv_has_formula_structural`
 > **Urea**, also called carbamide (because it is a diamide of carbonic acid), 
 > is an organic compound with chemical formula CO(NH2)2. 
 > 
-> This amide has two amino groups (−NH2) 
-> joined by a carbonyl functional group (−C(=O)−). 
+> This amide has two amino groups (-NH2) 
+> joined by a carbonyl functional group (-C(=O)-). 
 > It is thus the simplest amide of carbamic acid.
 >
 > Urea serves an important role in the 

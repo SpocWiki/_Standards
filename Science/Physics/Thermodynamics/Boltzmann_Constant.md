@@ -103,7 +103,7 @@ ISQ_dimension: >-
               </mrow>
             </mrow>
             <mrow class="MJX-TeXAtom-ORD">
-              <mo>&#x2212;<!-- − --></mo>
+              <mo>&#x2212;<!-- - --></mo>
               <mn>2</mn>
             </mrow>
           </msup>
@@ -114,7 +114,7 @@ ISQ_dimension: >-
               </mrow>
             </mrow>
             <mrow class="MJX-TeXAtom-ORD">
-              <mo>&#x2212;<!-- − --></mo>
+              <mo>&#x2212;<!-- - --></mo>
               <mn>1</mn>
             </mrow>
           </msup>
@@ -259,7 +259,7 @@ dv_has_:
 > that have been defined so as to have exact finite decimal values in SI units. 
 > 
 > They are used in various combinations to define the seven SI base units. 
-> The Boltzmann constant is defined to be exactly 1.380649×10−23 joules per kelvin, 
+> The Boltzmann constant is defined to be exactly 1.380649×10-23 joules per kelvin, 
 > with the effect of defining the SI unit kelvin.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Boltzmann%20constant) 

@@ -134,7 +134,7 @@ dv_has_:
 ## #has_/text_of_/abstract 
 
 > The bottom quark, beauty quark, or b quark, is an elementary particle of the third generation. 
-> It is a heavy quark with a charge of −⁠1/3⁠ e.
+> It is a heavy quark with a charge of -⁠1/3⁠ e.
 >
 > All quarks are described in a similar way by electroweak interaction and quantum chromodynamics, 
 > but the bottom quark has exceptionally low rates of transition to lower-mass quarks. 

@@ -216,7 +216,7 @@ dv_has_:
 > a single oxygen atom bonded to two separate carbon atoms, 
 > each part of an organyl group (e.g., alkyl or aryl). 
 > 
-> They have the general formula R−O−R′, where R and R′ represent the organyl groups. 
+> They have the general formula R-O-R′, where R and R′ represent the organyl groups. 
 > 
 > Ethers can again be classified into two varieties: 
 > if the organyl groups are the same on both sides of the oxygen atom, 
@@ -224,7 +224,7 @@ dv_has_:
 > if they are different, the ethers are called mixed or unsymmetrical ethers. 
 > 
 > A typical example of the first group is the solvent and anaesthetic diethyl ether, 
-> commonly referred to simply as "ether" (CH3−CH2−O−CH2−CH3). 
+> commonly referred to simply as "ether" (CH3-CH2-O-CH2-CH3). 
 > 
 > Ethers are common in organic chemistry and even more prevalent in biochemistry, 
 > as they are common linkages in carbohydrates and lignin.

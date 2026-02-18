@@ -431,7 +431,7 @@ dv_has_:
 > because it is convenient for areas in frequent communication to keep the same time.
 >
 > Each time zone is defined by a standard offset from Coordinated Universal Time (UTC). 
-> The offsets range from UTC−12:00 to UTC+14:00, and are usually a whole number of hours, 
+> The offsets range from UTC-12:00 to UTC+14:00, and are usually a whole number of hours, 
 > but a few zones are offset by an additional 30 or 45 minutes, such as in India and Nepal. 
 > 
 > Some areas in a time zone may use a different offset for part of the year, 

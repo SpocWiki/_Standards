@@ -294,11 +294,11 @@ dv_has_:
 ## #has_/text_of_/abstract 
 
 > **Formaldehyde** (  for-MAL-di-hide, US also fər-) (systematic name methanal) is an organic compound 
-> with the chemical formula CH2O and structure H−CHO, more precisely H2C=O. 
+> with the chemical formula CH2O and structure H-CHO, more precisely H2C=O. 
 > 
 > The compound is a pungent, colourless gas that polymerises spontaneously into paraformaldehyde. 
 > It is stored as aqueous solutions (formalin), which consists mainly of the hydrate CH2(OH)2. 
-> It is the simplest of the aldehydes (R−CHO). 
+> It is the simplest of the aldehydes (R-CHO). 
 > 
 > As a precursor to many other materials and chemical compounds, in 2006 
 > the global production of formaldehyde was estimated at 12 million tons per year. 

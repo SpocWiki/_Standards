@@ -138,13 +138,13 @@ aliases:
 > it has since acquired a more general technical meaning that is used in numerous other contexts.
 >
 > The pH scale is logarithmic and inversely indicates the activity of hydrogen cations in the solution
->           pH = − log(10, a H+) ≈ − lg([H+] / M)
+>           pH = - log(10, a H+) ≈ - lg([H+] / M)
 > where [H+] is the equilibrium molar concentration of H+ (in M = mol/L) in the solution. 
 > 
 > At 25 °C (77 °F), solutions of which the pH is less than 7 are acidic, 
 > and solutions of which the pH is greater than 7 are basic. 
 > Solutions with a pH of 7 at 25 °C are neutral 
-> (i.e. have the same concentration of H+ ions as OH− ions, i.e. the same as pure water). 
+> (i.e. have the same concentration of H+ ions as OH- ions, i.e. the same as pure water). 
 > 
 > The neutral value of the pH depends on the temperature 
 > and is lower than 7 if the temperature increases above 25 °C. 

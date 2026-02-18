@@ -37,7 +37,7 @@ dv_is_same_as:
 > closer to its primary body than any other known natural satellite to a planet. 
 > It orbits Mars much faster than Mars rotates and completes an orbit in just 7 hours and 39 minutes. 
 > 
-> As a result, from the surface of Mars it appears to rise in the west, move across the sky in 4 hours and 15 minutes or less, and set in the east, twice each Martian day. Phobos is one of the least reflective bodies in the Solar System, with an albedo of 0.071. Surface temperatures range from about −4 °C (25 °F) on the sunlit side to −112 °C (−170 °F) on the shadowed side. The notable surface feature is the large impact crater Stickney, which takes up a substantial proportion of the moon's surface. The surface is also marked by many grooves, and there are numerous theories as to how these grooves were formed.
+> As a result, from the surface of Mars it appears to rise in the west, move across the sky in 4 hours and 15 minutes or less, and set in the east, twice each Martian day. Phobos is one of the least reflective bodies in the Solar System, with an albedo of 0.071. Surface temperatures range from about -4 °C (25 °F) on the sunlit side to -112 °C (-170 °F) on the shadowed side. The notable surface feature is the large impact crater Stickney, which takes up a substantial proportion of the moon's surface. The surface is also marked by many grooves, and there are numerous theories as to how these grooves were formed.
 >
 > Images and models indicate that Phobos may be a rubble pile held together by a thin crust that is being torn apart by tidal interactions. Phobos gets closer to Mars by about 2 centimetres (0.79 in) per year.
 >

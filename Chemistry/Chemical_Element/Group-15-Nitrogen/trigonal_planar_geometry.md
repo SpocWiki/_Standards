@@ -86,7 +86,7 @@ H
 > Examples of molecules with trigonal planar geometry include boron trifluoride (BF3), 
 > formaldehyde (H2CO), phosgene (COCl2), and sulfur trioxide (SO3). 
 > 
-> Some ions with trigonal planar geometry include nitrate (NO−3), carbonate (CO2−3), 
+> Some ions with trigonal planar geometry include nitrate (NO-3), carbonate (CO2-3), 
 > and guanidinium (C(NH2)+3). 
 > In organic chemistry, planar, three-connected carbon centers that are trigonal planar 
 > are often described as having [[sp2-hybridization]].

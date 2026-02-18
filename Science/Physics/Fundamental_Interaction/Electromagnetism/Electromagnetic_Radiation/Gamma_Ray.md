@@ -239,7 +239,7 @@ dv_has_:
 > typically shorter than those of X-rays. 
 > 
 > With frequencies above 30 exahertz (3×1019 Hz) 
-> and wavelengths less than 10 picometers (1×10−11 m),  
+> and wavelengths less than 10 picometers (1×10-11 m),  
 > gamma ray photons have the highest photon energy 
 > of any form of electromagnetic radiation. 
 > 

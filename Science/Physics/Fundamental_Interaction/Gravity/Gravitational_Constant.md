@@ -198,7 +198,7 @@ dv_has_:
 >
 > In Newton's law, it is the proportionality constant connecting the gravitational force between two bodies with the product of their masses and the inverse square of their distance. In the Einstein field equations, it quantifies the relation between the geometry of spacetime and the stress–energy tensor.
 >
-> The measured value of the constant is known with some certainty to four significant digits. In SI units, its value is approximately 6.6743×10−11 m3⋅kg−1⋅s−2.
+> The measured value of the constant is known with some certainty to four significant digits. In SI units, its value is approximately 6.6743×10-11 m3⋅kg-1⋅s-2.
 >
 > The modern notation of Newton's law involving G was introduced in the 1890s by C. V. Boys. The first implicit measurement with an accuracy within about 1% is attributed to Henry Cavendish in a 1798 experiment.
 >

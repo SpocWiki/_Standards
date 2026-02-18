@@ -187,9 +187,9 @@ dv_has_:
 ## #has_/text_of_/abstract 
 
 > The term **Chloride** refers to a compound or molecule 
-> that contains either a chlorine anion (Cl−), which is a negatively charged chlorine atom, 
+> that contains either a chlorine anion (Cl-), which is a negatively charged chlorine atom, 
 > or a non-charged chlorine atom covalently 
-> bonded to the rest of the molecule by a single bond (−Cl). 
+> bonded to the rest of the molecule by a single bond (-Cl). 
 > The pronunciation of the word "chloride" is .
 >
 > Chloride salts such as sodium chloride are often soluble in water. 

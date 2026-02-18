@@ -116,7 +116,7 @@ dv_is_same_as:
 > In organic chemistry, an **Alkyne** is an unsaturated hydrocarbon 
 > containing at least one carbon—carbon triple bond. 
 > 
-> The simplest acyclic alkynes with only one triple bond and no other functional groups form a homologous series with the general chemical formula  CnH2n−2. Alkynes are traditionally known as acetylenes, although the name acetylene also refers specifically to C2H2, known formally as ethyne using IUPAC nomenclature. Like other hydrocarbons, alkynes are generally hydrophobic.
+> The simplest acyclic alkynes with only one triple bond and no other functional groups form a homologous series with the general chemical formula  CnH2n-2. Alkynes are traditionally known as acetylenes, although the name acetylene also refers specifically to C2H2, known formally as ethyne using IUPAC nomenclature. Like other hydrocarbons, alkynes are generally hydrophobic.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Alkyne) 
 
@@ -286,7 +286,7 @@ dv_has_:
 > In organic chemistry, an **Alkyne** is an unsaturated hydrocarbon 
 > containing at least one carbon—carbon triple bond. 
 > 
-> The simplest acyclic alkynes with only one triple bond and no other functional groups form a homologous series with the general chemical formula  CnH2n−2. Alkynes are traditionally known as acetylenes, although the name acetylene also refers specifically to C2H2, known formally as ethyne using IUPAC nomenclature. Like other hydrocarbons, alkynes are generally hydrophobic.
+> The simplest acyclic alkynes with only one triple bond and no other functional groups form a homologous series with the general chemical formula  CnH2n-2. Alkynes are traditionally known as acetylenes, although the name acetylene also refers specifically to C2H2, known formally as ethyne using IUPAC nomenclature. Like other hydrocarbons, alkynes are generally hydrophobic.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Alkyne) 
 

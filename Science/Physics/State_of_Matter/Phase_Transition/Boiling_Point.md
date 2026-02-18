@@ -236,7 +236,7 @@ dv_has_:
 
 #see :: [[Clausius-Clapeyron_Equation]]
 
-ln⁡(P2/P1) = −ΔHvap/R(1/T2−1/T1)
+ln⁡(P2/P1) = -ΔHvap/R(1/T2-1/T1)
 $\ln\left(\frac{P_2}{P_1}\right) = -\frac{\Delta H_{vap}}{R} \left(\frac{1}{T_2} - \frac{1}{T_1}\right)$
 
 ## #has_/text_of_/abstract 

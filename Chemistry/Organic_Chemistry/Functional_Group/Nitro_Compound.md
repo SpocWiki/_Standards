@@ -129,14 +129,14 @@ is_same_as = `=this.dv_is_same_as`
 ## #has_/text_of_/abstract 
 
 > In organic chemistry, **Nitro compound**s are organic compounds 
-> that contain one or more nitro functional groups (−NO2). 
+> that contain one or more nitro functional groups (-NO2). 
 > 
 > The nitro group is one of the most common explosophores 
 > (functional group that makes a compound explosive) used globally. 
 > 
 > The nitro group is also strongly electron-withdrawing. 
 > 
-> Because of this property, C−H bonds alpha (adjacent) to the nitro group can be acidic. 
+> Because of this property, C-H bonds alpha (adjacent) to the nitro group can be acidic. 
 > 
 > For similar reasons, the presence of nitro groups in aromatic compounds 
 > - retards electrophilic aromatic substitution but 

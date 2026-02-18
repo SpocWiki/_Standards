@@ -158,7 +158,7 @@ dv_has_:
 >
 > The top quark interacts with gluons of the strong interaction and is typically produced in hadron colliders via this interaction. However, once produced, the top (or antitop) can decay only through the weak force. It decays to a W boson and either a bottom quark (most frequently), a strange quark, or, on the rarest of occasions, a down quark.
 >
-> The Standard Model determines the top quark's mean lifetime to be roughly 5×10−25 s. This is about a twentieth of the timescale for strong interactions, and therefore it does not form hadrons, giving physicists a unique opportunity to study a "bare" quark (all other quarks hadronize, meaning that they combine with other quarks to form hadrons and can only be observed as such).
+> The Standard Model determines the top quark's mean lifetime to be roughly 5×10-25 s. This is about a twentieth of the timescale for strong interactions, and therefore it does not form hadrons, giving physicists a unique opportunity to study a "bare" quark (all other quarks hadronize, meaning that they combine with other quarks to form hadrons and can only be observed as such).
 >
 > Because the top quark is so massive, its properties allowed indirect determination of the mass of the Higgs boson (see § Mass and coupling to the Higgs boson below). As such, the top quark's properties are extensively studied as a means to discriminate between competing theories of new physics beyond the Standard Model. The top quark is the only quark that has been directly observed due to its decay time being shorter than the hadronization time.
 >

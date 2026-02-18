@@ -261,13 +261,13 @@ Unit :: #Unit/SI/A
 > considered the father of electromagnetism along with Danish physicist Hans Christian Ørsted.
 >
 > As of the 2019 redefinition of the SI base units, 
-> the ampere is defined by **fixing the elementary charge e to be exactly 1.602176634×10−19 C (coulomb)**, 
+> the ampere is defined by **fixing the elementary charge e to be exactly 1.602176634×10-19 C (coulomb)**, 
 > which means an ampere is an electric current equivalent to 10[^19] elementary charges 
 > moving every 1.602176634 seconds 
 > or 6.241509074×10[^18] elementary charges moving in a second. 
 > 
 > Prior to the redefinition the ampere was defined as the current passing through 2 parallel wires 1 Meter apart 
-> that produces a magnetic force of 2×10−7 newtons per Meter.
+> that produces a magnetic force of 2×10-7 newtons per Meter.
 >
 > The earlier CGS system has two units of current, 
 > one structured similar to the SI's and the other using Coulomb's law as a fundamental relationship, 

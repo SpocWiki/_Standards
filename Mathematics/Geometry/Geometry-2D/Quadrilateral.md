@@ -264,7 +264,7 @@ dv_has_:
 >         ∠A + ∠B + ∠C +∠D = 360∘
 >
 > This is a special case of the n-gon interior angle sum formula: 
-> S = (n − 2) × 180° (here, n=4).
+> S = (n - 2) × 180° (here, n=4).
 >
 > All non-self-crossing quadrilaterals tile the plane, 
 > by repeated rotation around the midpoints of their edges.

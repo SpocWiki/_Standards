@@ -133,7 +133,7 @@ probability_mass_function:
                 <mo>!</mo>
                 <mo stretchy="false">(</mo>
                 <mi>n</mi>
-                <mo>&#x2212;<!-- − --></mo>
+                <mo>&#x2212;<!-- - --></mo>
                 <mi>x</mi>
                 <mo stretchy="false">)</mo>
                 <mo>!</mo>
@@ -148,13 +148,13 @@ probability_mass_function:
           </msup>
           <mo stretchy="false">(</mo>
           <mn>1</mn>
-          <mo>&#x2212;<!-- − --></mo>
+          <mo>&#x2212;<!-- - --></mo>
           <mi>p</mi>
           <msup>
             <mo stretchy="false">)</mo>
             <mrow class="MJX-TeXAtom-ORD">
               <mi>n</mi>
-              <mo>&#x2212;<!-- − --></mo>
+              <mo>&#x2212;<!-- - --></mo>
               <mi>x</mi>
             </mrow>
           </msup>
@@ -190,13 +190,13 @@ probability_mass_function:
           </msup>
           <mo stretchy="false">(</mo>
           <mn>1</mn>
-          <mo>&#x2212;<!-- − --></mo>
+          <mo>&#x2212;<!-- - --></mo>
           <mi>p</mi>
           <msup>
             <mo stretchy="false">)</mo>
             <mrow class="MJX-TeXAtom-ORD">
               <mi>n</mi>
-              <mo>&#x2212;<!-- − --></mo>
+              <mo>&#x2212;<!-- - --></mo>
               <mi>x</mi>
             </mrow>
           </msup>
@@ -215,7 +215,7 @@ variance_of_a_probability_distribution: >-
           <mi>p</mi>
           <mo stretchy="false">(</mo>
           <mn>1</mn>
-          <mo>&#x2212;<!-- − --></mo>
+          <mo>&#x2212;<!-- - --></mo>
           <mi>p</mi>
           <mo stretchy="false">)</mo>
         </mstyle>
@@ -258,7 +258,7 @@ characteristic_function: >-
                 </msup>
                 <mo>+</mo>
                 <mn>1</mn>
-                <mo>&#x2212;<!-- − --></mo>
+                <mo>&#x2212;<!-- - --></mo>
                 <mi>p</mi>
               </mrow>
               <mo>)</mo>
@@ -329,13 +329,13 @@ defining_formula: >-
           </msup>
           <mo stretchy="false">(</mo>
           <mn>1</mn>
-          <mo>&#x2212;<!-- − --></mo>
+          <mo>&#x2212;<!-- - --></mo>
           <mi>p</mi>
           <msup>
             <mo stretchy="false">)</mo>
             <mrow class="MJX-TeXAtom-ORD">
               <mi>n</mi>
-              <mo>&#x2212;<!-- − --></mo>
+              <mo>&#x2212;<!-- - --></mo>
               <mi>x</mi>
             </mrow>
           </msup>
@@ -353,7 +353,7 @@ skewness: >-
             <mfrac>
               <mrow>
                 <mn>1</mn>
-                <mo>&#x2212;<!-- − --></mo>
+                <mo>&#x2212;<!-- - --></mo>
                 <mn>2</mn>
                 <mi>p</mi>
               </mrow>
@@ -362,7 +362,7 @@ skewness: >-
                 <mi>p</mi>
                 <mo stretchy="false">(</mo>
                 <mn>1</mn>
-                <mo>&#x2212;<!-- − --></mo>
+                <mo>&#x2212;<!-- - --></mo>
                 <mi>p</mi>
                 <mo stretchy="false">)</mo>
               </msqrt>
@@ -390,12 +390,12 @@ excess_kurtosis: >-
             <mfrac>
               <mrow>
                 <mn>1</mn>
-                <mo>&#x2212;<!-- − --></mo>
+                <mo>&#x2212;<!-- - --></mo>
                 <mn>6</mn>
                 <mi>p</mi>
                 <mo stretchy="false">(</mo>
                 <mn>1</mn>
-                <mo>&#x2212;<!-- − --></mo>
+                <mo>&#x2212;<!-- - --></mo>
                 <mi>p</mi>
                 <mo stretchy="false">)</mo>
               </mrow>
@@ -404,7 +404,7 @@ excess_kurtosis: >-
                 <mi>p</mi>
                 <mo stretchy="false">(</mo>
                 <mn>1</mn>
-                <mo>&#x2212;<!-- − --></mo>
+                <mo>&#x2212;<!-- - --></mo>
                 <mi>p</mi>
                 <mo stretchy="false">)</mo>
               </mrow>
@@ -436,7 +436,7 @@ moment_generating_function: >-
                         <mi>t</mi>
                       </mrow>
                     </msup>
-                    <mo>&#x2212;<!-- − --></mo>
+                    <mo>&#x2212;<!-- - --></mo>
                     <mn>1</mn>
                   </mrow>
                   <mo>)</mo>
@@ -536,7 +536,7 @@ dv_has_:
 > in a sequence of n independent experiments, each asking a yes–no question, 
 > and each with its own Boolean-valued outcome: 
 > - success (with probability p) or 
-> - failure (with probability q = 1 − p). 
+> - failure (with probability q = 1 - p). 
 > 
 > A single success/failure experiment is also called a Bernoulli trial or Bernoulli experiment, 
 > and a sequence of outcomes is called a Bernoulli process; 

@@ -275,7 +275,7 @@ When the Contributions multiply you get a
 > is a type of continuous probability distribution for a real-valued random variable. 
 > 
 > The general form of its probability density function is
-> $f(x) = \exp(−(x−μ)²/2σ²)/(2πσ²)$
+> $f(x) = \exp(-(x-μ)²/2σ²)/(2πσ²)$
 > The parameter μ is the mean or expectation of the distribution (and also its median and mode), 
 > while the parameter σ² is the variance. 
 > The standard deviation of the distribution is σ (sigma). 

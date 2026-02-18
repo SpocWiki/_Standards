@@ -199,8 +199,8 @@ dv_has_:
 >
 > In some 18th and 19th century astronomical texts, declination is given as North Pole Distance (N.P.D.), 
 > which is equivalent to 90 – (declination). 
-> For instance an object marked as declination −5 would have an N.P.D. of 95, 
-> and a declination of −90 (the south celestial pole) would have an N.P.D. of 180.
+> For instance an object marked as declination -5 would have an N.P.D. of 95, 
+> and a declination of -90 (the south celestial pole) would have an N.P.D. of 180.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Declination) 
 

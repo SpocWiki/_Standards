@@ -116,10 +116,10 @@ dv_has_:
 > Since these fractions are quantity-per-quantity measures, 
 > they are pure numbers with no associated units of measurement. 
 > Commonly used are
-> - parts-per-million – ppm, 10−6
-> - parts-per-billion – ppb, 10−9
-> - parts-per-trillion – ppt, 10−12
-> - parts-per-quadrillion – ppq, 10−15
+> - parts-per-million – ppm, 10-6
+> - parts-per-billion – ppb, 10-9
+> - parts-per-trillion – ppt, 10-12
+> - parts-per-quadrillion – ppq, 10-15
 >
 > This notation is not part of the International System of Units – 
 > SI system and its meaning is ambiguous.

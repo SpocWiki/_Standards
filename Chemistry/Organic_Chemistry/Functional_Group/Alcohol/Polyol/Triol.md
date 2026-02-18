@@ -65,7 +65,7 @@ dv_has_:
 
 ## #has_/text_of_/abstract 
 
-> In chemistry, a **Triol** is an organic compound containing three hydroxyl groups (−OH functional groups), 
+> In chemistry, a **Triol** is an organic compound containing three hydroxyl groups (-OH functional groups), 
 > such as [[Triol/Glycerol]].
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Triol) 

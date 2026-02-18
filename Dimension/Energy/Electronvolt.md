@@ -187,7 +187,7 @@ dv_has_:
 > 
 > When used as a unit of energy, the numerical value of 1 eV in joules (symbol J) 
 > is equal to the numerical value of the charge of an electron in coulombs (symbol C). 
-> Under the 2019 revision of the SI, this sets 1 eV equal to the exact value 1.602176634×10−19 J.
+> Under the 2019 revision of the SI, this sets 1 eV equal to the exact value 1.602176634×10-19 J.
 >
 > Historically, the electronvolt was devised as a standard unit of measure 
 > through its usefulness in electrostatic particle accelerator sciences, 

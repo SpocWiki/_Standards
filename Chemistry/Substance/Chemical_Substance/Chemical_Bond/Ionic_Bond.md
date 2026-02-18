@@ -220,7 +220,7 @@ dv_has_:
 >
 > This transfer of electrons is known as electrovalence in contrast to covalence. 
 > In the simplest case, the cation is a metal atom and the anion is a nonmetal atom, 
-> but these ions can be more complex, e.g. polyatomic ions like NH+4 or SO2−4. 
+> but these ions can be more complex, e.g. polyatomic ions like NH+4 or SO2-4. 
 > In simpler words, an ionic bond results from the transfer of electrons from a metal to a non-metal 
 > to obtain a full valence shell for both atoms.
 >

@@ -125,7 +125,7 @@ aliases:
 > 
 > This process thereby changes a nuclear proton to a neutron 
 > and simultaneously causes the emission of an electron neutrino.
->  p   +   e−     →     n   +  νe 
+>  p   +   e-     →     n   +  νe 
 > 
 > Since this single emitted neutrino carries the entire decay energy, 
 > it has this single characteristic energy. 

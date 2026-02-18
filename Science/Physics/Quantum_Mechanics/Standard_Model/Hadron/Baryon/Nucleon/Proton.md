@@ -430,7 +430,7 @@ dv_has_:
 > in the modern Standard Model of particle physics, protons are known to be composite particles, 
 > containing three valence quarks, and together with neutrons are now classified as hadrons. 
 > 
-> Protons are composed of two [[../../Quark/Up_Quark|up quarks]] of charge +⁠2/3⁠e each, and one [[../../Quark/Down Quark|down quark]] of charge −⁠1/3⁠e. 
+> Protons are composed of two [[../../Quark/Up_Quark|up quarks]] of charge +⁠2/3⁠e each, and one [[../../Quark/Down Quark|down quark]] of charge -⁠1/3⁠e. 
 > The rest masses of quarks contribute only about 1% of a proton's mass. 
 > The remainder of a proton's mass is due to quantum chromodynamics binding energy, 
 > which includes the kinetic energy of the quarks and the energy of the gluon fields that bind the quarks together. 

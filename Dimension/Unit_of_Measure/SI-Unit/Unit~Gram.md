@@ -210,7 +210,7 @@ Unit :: #Unit/SI/g
 > However, by the late 19th century, there was an effort to make the base unit the kilogram 
 > and the gram a derived unit. 
 > In 1960, the new International System of Units defined  a gram as one one-thousandth of a kilogram 
-> (i.e., one gram is 1×10−3 kg). 
+> (i.e., one gram is 1×10-3 kg). 
 > 
 > The kilogram, as of 2019, is defined by the International Bureau of Weights and Measures 
 > from the fixed numerical value of the **Planck constant (h)**.

@@ -240,15 +240,15 @@ dv_has_:
 > superconductivity cannot be understood simply as the idealization of perfect conductivity in classical physics.
 >
 > In 1986, it was discovered that some cuprate-perovskite ceramic materials 
-> have a critical temperature above 35 K (−238 °C). 
+> have a critical temperature above 35 K (-238 °C). 
 > 
 > It was shortly found (by Ching-Wu Chu) that replacing the lanthanum with yttrium, 
-> i.e. making YBCO, raised the critical temperature to 92 K (−181 °C), 
+> i.e. making YBCO, raised the critical temperature to 92 K (-181 °C), 
 > which was important because liquid nitrogen could then be used as a refrigerant. 
 > 
 > Such a high transition temperature is theoretically impossible for a conventional superconductor, leading the materials to be termed high-temperature superconductors. 
 > 
-> The cheaply available coolant liquid nitrogen boils at 77 K (−196 °C) 
+> The cheaply available coolant liquid nitrogen boils at 77 K (-196 °C) 
 > and thus the existence of superconductivity at higher temperatures than this 
 > facilitates many experiments and applications that are less practical at lower temperatures.
 >

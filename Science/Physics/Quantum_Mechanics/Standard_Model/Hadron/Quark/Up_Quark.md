@@ -149,7 +149,7 @@ dv_has_:
 > and protons (two up quarks, one down quark) of atomic nuclei. 
 > 
 > It is part of the first generation of matter, has an electric charge of +⁠2/3⁠ e 
-> and a bare mass of 2.2+0.5−0.4 MeV/c2. 
+> and a bare mass of 2.2+0.5-0.4 MeV/c2. 
 > 
 > Like all quarks, the up quark is an elementary fermion with spin ⁠1/2⁠, 
 > and experiences all four fundamental interactions: gravitation, electromagnetism, weak interactions, and strong interactions. 

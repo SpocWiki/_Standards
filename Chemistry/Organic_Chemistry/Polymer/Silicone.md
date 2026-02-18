@@ -155,7 +155,7 @@ dv_has_:
 ## #has_/text_of_/abstract 
 
 > In organosilicon and polymer chemistry, a **Silicone** or polysiloxane is a polymer 
-> composed of repeating units of siloxane (−O−R2Si−O−SiR2−, where R = organic group).  
+> composed of repeating units of siloxane (-O-R2Si-O-SiR2-, where R = organic group).  
 > 
 > They are typically colorless oils or rubber-like substances.  
 > Silicones are used in sealants, adhesives, lubricants, medicine, cooking utensils, thermal insulation, and electrical insulation. 

@@ -453,7 +453,7 @@ has_number_of_group = `=this.dv_has_number_of_group`
 > which makes it one of only five elemental metals that are liquid at or near room temperature. 
 > 
 > Caesium has physical and chemical properties similar to those of rubidium and potassium. 
-> It is pyrophoric and reacts with water even at −116 °C (−177 °F). 
+> It is pyrophoric and reacts with water even at -116 °C (-177 °F). 
 > 
 > It is the least electronegative element, with a value of has_value_for_electronegativity = `=this.dv_has_value_for_electronegativity`  on the Pauling scale. 
 > It has only one stable isotope, caesium-133. 

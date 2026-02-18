@@ -109,14 +109,14 @@ Metallicity Z: about **1.2–1.4% of the Sun’s mass** consists of elements hea
 | ----------------- | ------------ | ------------- | -------------- | ---- |
 | age / 1e9y        | < 10         | 10 – 13       | > 13.5         |      |
 | metallicity Z     | 3%           | 0.1%          | 0.0001%        | 1.3% |
-| Fe / H            | −0.5 to +0.5 | −2.5 to −0.5  | < −6.0         |      |
+| Fe / H            | -0.5 to +0.5 | -2.5 to -0.5  | < -6.0         |      |
 | Galactic location | Disk         | Halo, bulge   | Early universe | Disk |
 | stellar mass M☉   | 0.1 – 50     | 0.1 – 1       | 10 – 300       | 1    |
 | Milky Way %       | 90           | 10            | 0              |      |
 
 Fe/H is a **logarithmic measure of stellar iron abundance relative to the Sun**. It is widely used as a proxy for overall metallicity because iron produces strong, measurable spectral lines. The formula is:
 
-Fe/H = log⁡10(Fe/H)star−log⁡10(Fe/H)⊙
+Fe/H = log⁡10(Fe/H)star-log⁡10(Fe/H)⊙
 
 where Fe and H​ are the number densities of iron and hydrogen, 
 and the subscript ⊙ denotes solar values.

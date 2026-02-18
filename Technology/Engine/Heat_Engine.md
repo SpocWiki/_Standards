@@ -181,7 +181,7 @@ dv_has_:
 
 #is_/same_as :: [[../../WikiData/WD~Heat_engine,178185|WD~Heat_engine,178185]] 
 
-Heat Engines are bounded by the **Carnot efficiency**: η = 1 − TCold / THot 
+Heat Engines are bounded by the **Carnot efficiency**: η = 1 - TCold / THot 
 Steam Turbines (Peak 47%) or internal Combustion Engines (Peak 45%) 
  are less efficient than Combined Gas Turbines (Peak 62%). 
  Using the remaining Heat for Heating adds another 20%. 
@@ -191,7 +191,7 @@ but direct conversion to Work e.g. via electrochemical cell would be more effici
 
 ```mermaid 
 graph LR
-Energy --> Heat --> n(Heat-Engine η = 1−TCold/THot ) --> Work
+Energy --> Heat --> n(Heat-Engine η = 1-TCold/THot ) --> Work
 ```
 better are Fuel-Cells: 
 ```mermaid 

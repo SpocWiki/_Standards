@@ -403,7 +403,7 @@ Unit :: #Unit/SI/s
 > The current and formal definition in the International System of Units (SI) is more precise: 
 > The second is defined by taking the fixed numerical value of the **caesium frequency**, ΔνCs, 
 > the unperturbed ground-state hyperfine transition frequency of the caesium 133 atom, 
-> to be 9192631770 when expressed in the unit Hz, which is equal to s−1.
+> to be 9192631770 when expressed in the unit Hz, which is equal to s-1.
 >
 > This current definition was adopted in 1967 when it became feasible 
 > to define the second based on fundamental properties of nature with caesium clocks. 

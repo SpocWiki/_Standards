@@ -209,8 +209,8 @@ dv_has_:
 > In the Solar System, interplanetary dust causes the zodiacal light. 
 > Solar System dust includes comet dust, planetary dust (like from Mars), asteroidal dust, dust from the Kuiper belt, and interstellar dust passing through the Solar System. 
 > Thousands of tons of cosmic dust are estimated to reach Earth's surface every year, 
-> with most grains having a mass between 1e−16 kg (0.1 pg) and 1e−4 kg (0.1 g).  
-> The density of the dust cloud through which the Earth is traveling is approximately 10−6 dust grains/m3.
+> with most grains having a mass between 1e-16 kg (0.1 pg) and 1e-4 kg (0.1 g).  
+> The density of the dust cloud through which the Earth is traveling is approximately 10-6 dust grains/m3.
 >
 > Cosmic dust contains some complex organic compounds (amorphous organic solids with a mixed aromatic–aliphatic structure) that could be created naturally, and rapidly, by stars.  
 > A smaller fraction of dust in space is "stardust" consisting of larger refractory minerals 

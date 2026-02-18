@@ -162,7 +162,7 @@ dv_has_:
 >  as image coordinates on the complex plane, 
 >  pixels may then be colored according to how soon the sequence 
 >     {\displaystyle |f_{c}(0)|,|f_{c}(f_{c}(0))|,… }
->  crosses an arbitrarily chosen threshold (the threshold must be at least 2, as −2 is the complex number with the largest magnitude within the set, but otherwise the threshold is arbitrary). 
+>  crosses an arbitrarily chosen threshold (the threshold must be at least 2, as -2 is the complex number with the largest magnitude within the set, but otherwise the threshold is arbitrary). 
 >  
 >  If c is held constant and the initial value of z is varied instead, 
 >  the corresponding Julia set for the point c is obtained.

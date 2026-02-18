@@ -314,7 +314,7 @@ dv_has_:
 > but 1 square kilometre is (10³)² (10^6, one million) times the area of 1 square metre, 
 > and 1 cubic kilometre is (103)3 (109, one billion) cubic metres.
 >
-> Its inverse is the reciprocal square metre (m^−2), often called "per square metre".
+> Its inverse is the reciprocal square metre (m^-2), often called "per square metre".
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Square%20metre) 
 

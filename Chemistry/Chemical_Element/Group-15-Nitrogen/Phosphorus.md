@@ -506,7 +506,7 @@ has_number_of_group = `=this.dv_has_number_of_group`
 > Together with nitrogen, arsenic, antimony, and bismuth, phosphorus is classified as a pnictogen.
 >
 > Phosphorus is an element essential to sustaining life largely through phosphates, 
-> compounds containing the phosphate ion, PO43−. 
+> compounds containing the phosphate ion, PO43-. 
 > Phosphates are a component of DNA, RNA, ATP, and phospholipids, complex compounds fundamental to cells. 
 > 
 > Elemental phosphorus was first isolated from human urine, 

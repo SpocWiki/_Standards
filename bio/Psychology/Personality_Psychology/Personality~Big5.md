@@ -94,11 +94,10 @@ dv_has_:
 
 # [[Personality~Big5]] 
 
-#is_/similar_to :: [[Personality~HEXACO]] 
+#is_/similar_to :: [[./Personality~HEXACO|Personality~HEXACO]] 
 
 Cross-cultural linguistic Analysis **adds the Honesty-Humility** Dimension 
 to the Big5 which were derived from English and related languages
-
 
 |     | HEXACO Trait      | Closest Big Five Trait | Correl% | Shared Var% | Notes                      |
 | --- | ----------------- | ---------------------- | ------: | ----------: | -------------------------- |
@@ -110,7 +109,7 @@ to the Big5 which were derived from English and related languages
 | O   | Openness to...    | ...new Experiences     |      75 |       56.25 | High equivalence           |
 
 
-| HEXACO Dim.       | High     | Pro                     | Con                     | Context Sensitivity |
+| HEXACO Dim.       | Good     | #has_/result_/positive  | #has_/result_/negative  | Context Sensitivity |
 | ----------------- | -------- | ----------------------- | ----------------------- | ------------------- |
 | Honesty–Humility  | **High** | Ethical                 | Competition, Leadership | **Medium**          |
 | Emotionality      | Mixed    | Empathy                 | Stress, Risk tolerance  | High                |
@@ -119,8 +118,8 @@ to the Big5 which were derived from English and related languages
 | Conscientiousness | **High** | Job + Academic perf.    | Burnout risk            | **Low**             |
 | Openness          | Mixed    | Creativity, flexibility | Rule adherence          | High                |
 
-Conscientiousness and Honesty–Humility show the strongest general benefits.  
-All other dimensions exhibit clear advantages and disadvantages depending on context and extremity. 
+Conscientiousness and Honesty–Humility show the strongest **general benefits**.  
+All other dimensions exhibit advantages and disadvantages **depending on context** and extremity. 
 
 #has_/url_ :: [Persönlichkeitstest](https://www.lw.uni-leipzig.de/wilhelm-wundt-institut-fuer-psychologie/arbeitsgruppen/persoenlichkeitspsychologie-und-psychologische-diagnostik/persoenlichkeitstest)  
 

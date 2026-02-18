@@ -157,7 +157,7 @@ dv_has_:
 >
 > The Riemann hypothesis and some of its generalizations, along with Goldbach's conjecture and the twin prime conjecture, make up Hilbert's eighth problem in David Hilbert's list of twenty-three unsolved problems; it is also one of the Millennium Prize Problems of the Clay Mathematics Institute, which offers US$1 million for a solution to any of them. The name is also used for some closely related analogues, such as the Riemann hypothesis for curves over finite fields.
 >
-> The Riemann zeta function ζ(s) is a function whose argument s may be any complex number other than 1, and whose values are also complex. It has zeros at the negative even integers; that is, ζ(s) = 0 when s is one of −2, −4, −6, .... These are called its trivial zeros. The zeta function is also zero for other values of s, which are called nontrivial zeros. The Riemann hypothesis is concerned with the locations of these nontrivial zeros, and states that:
+> The Riemann zeta function ζ(s) is a function whose argument s may be any complex number other than 1, and whose values are also complex. It has zeros at the negative even integers; that is, ζ(s) = 0 when s is one of -2, -4, -6, .... These are called its trivial zeros. The zeta function is also zero for other values of s, which are called nontrivial zeros. The Riemann hypothesis is concerned with the locations of these nontrivial zeros, and states that:
 >
 > 
 >

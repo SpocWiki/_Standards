@@ -233,10 +233,10 @@ dv_has_:
 > and altitude also shape temperate climates.
 >
 > The Köppen climate classification defines a climate as "temperate" C, 
-> when the mean temperature is above −3 °C (26.6 °F) but below 18 °C (64.4 °F) in the coldest month to account for the persistence of frost. 
+> when the mean temperature is above -3 °C (26.6 °F) but below 18 °C (64.4 °F) in the coldest month to account for the persistence of frost. 
 > 
 > However, some adaptations of Köppen set the minimum at 0 °C (32.0 °F). 
-> Continental climates are classified as D and considered to be varieties of temperate climates, having more extreme temperatures, with mean temperatures in the coldest month usually being below −3 °C (26.6 °F).
+> Continental climates are classified as D and considered to be varieties of temperate climates, having more extreme temperatures, with mean temperatures in the coldest month usually being below -3 °C (26.6 °F).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Temperate%20climate) 
 

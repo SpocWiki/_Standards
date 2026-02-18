@@ -195,7 +195,7 @@ dv_has_:
 > and in ideal cases entropy, reach their minimum values. 
 > 
 > The Kelvin scale is defined so that absolute zero is 0 K, 
-> equivalent to −273.15 °C on the Celsius scale, and −459.67 °F on the Fahrenheit scale. 
+> equivalent to -273.15 °C on the Celsius scale, and -459.67 °F on the Fahrenheit scale. 
 > 
 > The Kelvin and Rankine temperature scales set their zero points at absolute zero by design. 
 > This limit can be estimated by extrapolating the ideal gas law 

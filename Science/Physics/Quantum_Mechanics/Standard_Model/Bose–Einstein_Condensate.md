@@ -364,7 +364,7 @@ dv_has_:
 
 > In condensed matter physics, a Bose–Einstein condensate (BEC) 
 > is a state of matter that is typically formed when a gas of bosons at very low densities 
-> is cooled to temperatures very close to absolute zero, i.e. 0 K (−273.15 °C; −459.67 °F). 
+> is cooled to temperatures very close to absolute zero, i.e. 0 K (-273.15 °C; -459.67 °F). 
 > 
 > Under such conditions, a large fraction of bosons occupy the lowest quantum state, 
 > at which microscopic quantum-mechanical phenomena, 

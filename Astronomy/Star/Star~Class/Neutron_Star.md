@@ -288,7 +288,7 @@ dv_has_:
 > Still, surface temperatures will be around one million kelvin after one thousand to one million years, 
 > and older, even cooler neutron stars are still easy to discover. 
 > 
-> For example, the well-studied neutron star, RX J1856.5−3754, 
+> For example, the well-studied neutron star, RX J1856.5-3754, 
 > has an average surface temperature of about 434e3K. 
 > By comparison, the effective surface temperature of the Sun is only 5780 K.
 >
@@ -306,7 +306,7 @@ dv_has_:
 > and the discovery of pulsars by Jocelyn Bell Burnell and Antony Hewish in 1967 
 > was the first observational suggestion that neutron stars exist. 
 > 
-> The fastest-spinning neutron star known is PSR J1748−2446ad, 
+> The fastest-spinning neutron star known is PSR J1748-2446ad, 
 > rotating at a rate of 716 times per second or 42960 revolutions per minute, 
 > giving a linear (tangential) speed at the surface on the order of 0.24‍c 
 > (i.e., nearly a quarter the speed of light).
@@ -325,7 +325,7 @@ dv_has_:
 > 
 > Slow-rotating and non-accreting neutron stars are difficult to detect, 
 > due to the absence of electromagnetic radiation; 
-> however, since the Hubble Space Telescope's detection of RX J1856.5−3754 in the 1990s, 
+> however, since the Hubble Space Telescope's detection of RX J1856.5-3754 in the 1990s, 
 > a few nearby neutron stars that appear to emit only thermal radiation have been detected.
 >
 > Neutron stars in binary systems can undergo accretion, 

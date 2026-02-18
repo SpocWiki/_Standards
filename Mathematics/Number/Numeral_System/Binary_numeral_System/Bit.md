@@ -207,7 +207,7 @@ dv_has_:
 > 
 > The bit represents a logical state with one of two possible values. 
 > These values are most commonly represented as either "1" or "0", 
-> but other representations such as true/false, yes/no, on/off, or +/− are also widely used.
+> but other representations such as true/false, yes/no, on/off, or +/- are also widely used.
 >
 > The relation between these values and the physical states of the underlying storage or device is a matter of convention, and different assignments may be used even within the same device or program. It may be physically implemented with a two-state device.
 >

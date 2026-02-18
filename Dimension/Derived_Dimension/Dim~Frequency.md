@@ -179,7 +179,7 @@ ISQ_dimension: >-
               </mrow>
             </mrow>
             <mrow class="MJX-TeXAtom-ORD">
-              <mo>&#x2212;<!-- − --></mo>
+              <mo>&#x2212;<!-- - --></mo>
               <mn>1</mn>
             </mrow>
           </msup>

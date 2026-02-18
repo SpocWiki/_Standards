@@ -314,7 +314,7 @@ is_different_from = `=this.dv_is_different_from`
 
 > In chemistry, a salt or ionic compound is a chemical compound consisting of an assembly of positively charged ions (cations) and negatively charged ions (anions), which results in a compound with no net electric charge (electrically neutral). The constituent ions are held together by electrostatic forces termed ionic bonds.
 >
-> The component ions in a salt can be either inorganic, such as chloride (Cl−), or organic, such as acetate (CH3COO−). Each ion can be either monatomic (termed simple ion), such as sodium (Na+) and chloride (Cl−) in sodium chloride, or polyatomic, such as ammonium (NH+4) and carbonate (CO2−3) ions in ammonium carbonate. Salts containing basic ions hydroxide (OH−) or oxide (O2−) are classified as bases, such as sodium hydroxide and potassium oxide.
+> The component ions in a salt can be either inorganic, such as chloride (Cl-), or organic, such as acetate (CH3COO-). Each ion can be either monatomic (termed simple ion), such as sodium (Na+) and chloride (Cl-) in sodium chloride, or polyatomic, such as ammonium (NH+4) and carbonate (CO2-3) ions in ammonium carbonate. Salts containing basic ions hydroxide (OH-) or oxide (O2-) are classified as bases, such as sodium hydroxide and potassium oxide.
 >
 > Individual ions within a salt usually have multiple near neighbours, so they are not considered to be part of molecules, but instead part of a continuous three-dimensional network. Salts usually form crystalline structures when solid.
 >

@@ -164,7 +164,7 @@ dv_has_:
 > which is the main component of commercial sodium silicate solutions.  
 > 
 > It is an ionic compound consisting of sodium cations Na+ 
-> and the polymeric metasilicate anions [–SiO2−3–]n.  
+> and the polymeric metasilicate anions [–SiO2-3–]n.  
 > 
 > It is a colorless crystalline hygroscopic and deliquescent solid, 
 > soluble in water (giving an alkaline solution) but not in alcohols.

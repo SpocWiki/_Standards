@@ -187,9 +187,9 @@ dv_has_:
 >
 > There are six types of leptons, known as flavours, grouped in three generations.  
 > 
-> The first-generation leptons, also called electronic leptons, comprise the electron (e−) and the electron neutrino (νe); 
-> the second are the muonic leptons, comprising the muon (μ−) and the muon neutrino (νμ); and 
-> the third are the tauonic leptons, comprising the tau (τ−) and the tau neutrino (ντ). 
+> The first-generation leptons, also called electronic leptons, comprise the electron (e-) and the electron neutrino (νe); 
+> the second are the muonic leptons, comprising the muon (μ-) and the muon neutrino (νμ); and 
+> the third are the tauonic leptons, comprising the tau (τ-) and the tau neutrino (ντ). 
 > 
 > Electrons have the least mass of all the charged leptons. 
 > The heavier muons and taus will rapidly change into electrons and neutrinos 

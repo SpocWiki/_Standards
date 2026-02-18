@@ -155,7 +155,7 @@ dv_has_:
 > to reveal that they are slightly drawn towards the attraction. 
 > 
 > The variations in their redshifts are known as peculiar velocities, 
-> and cover a range from about +700 km/s to −700 km/s, 
+> and cover a range from about +700 km/s to -700 km/s, 
 > depending on the angular deviation from the direction to the Great Attractor. 
 > The Great Attractor itself is moving towards the Shapley Supercluster.
 >

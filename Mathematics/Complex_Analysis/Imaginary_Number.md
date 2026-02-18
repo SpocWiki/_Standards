@@ -180,11 +180,11 @@ dv_has_:
 ## #has_/text_of_/abstract 
 
 > An imaginary number is the product of a real number and the imaginary unit i, 
-> which is defined by its property i² = −1. 
+> which is defined by its property i² = -1. 
 > 
-> The square of an imaginary number bi is −b². 
+> The square of an imaginary number bi is -b². 
 > 
-> For example, 5i is an imaginary number, and its square is −25. 
+> For example, 5i is an imaginary number, and its square is -25. 
 > The number zero is considered to be both real and imaginary.
 >
 > Originally coined in the 17th century by René Descartes as a derogatory term 

@@ -270,7 +270,7 @@ dv_has_:
 | Core Temperature    | 15 MK               | 100 MK                        | +567 %        |
 | Luminosity          | 1 L☉                | 100–1000 L☉                   | +9900 %       |
 | Radius              | 1 R☉ (7×10⁵ km)     | 100–200 R☉ (7×10⁷–1.4×10⁸ km) | +9900–19900 % |
-| Surface Temperature | 5800 K              | 3000 K                        | −48 %         |
+| Surface Temperature | 5800 K              | 3000 K                        | -48 %         |
 | Density (core)      | 1.5×10⁵ kg/m³       | 10⁶ kg/m³                     | +567 %        |
 
 ---

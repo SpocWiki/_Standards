@@ -416,7 +416,7 @@ has_number_of_group = `=this.dv_has_number_of_group`
 > In fact, bromine and all the halogens are so reactive that they form bonds in pairs—
 > never in single atoms. 
 > 
-> While it is rather rare in the Earth's crust, the high solubility of the bromide ion (Br−) 
+> While it is rather rare in the Earth's crust, the high solubility of the bromide ion (Br-) 
 > has caused its accumulation in the oceans. 
 > Commercially the element is easily extracted from brine evaporation ponds, 
 > mostly in the United States and Israel. 
@@ -439,7 +439,7 @@ has_number_of_group = `=this.dv_has_number_of_group`
 > Bromine compounds are still used in well drilling fluids, in photographic film, 
 > and as an intermediate in the manufacture of organic chemicals.
 >
-> Large amounts of bromide salts are toxic from the action of soluble bromide ions, causing bromism. However, a clear biological role for bromide ions and hypobromous acid has recently been elucidated, and it now appears that bromine is an essential trace element in humans. The role of biological organobromine compounds in sea life such as algae has been known for much longer. As a pharmaceutical, the simple bromide ion (Br−) has inhibitory effects on the central nervous system, and bromide salts were once a major medical sedative, before replacement by shorter-acting drugs. They retain niche uses as antiepileptics.
+> Large amounts of bromide salts are toxic from the action of soluble bromide ions, causing bromism. However, a clear biological role for bromide ions and hypobromous acid has recently been elucidated, and it now appears that bromine is an essential trace element in humans. The role of biological organobromine compounds in sea life such as algae has been known for much longer. As a pharmaceutical, the simple bromide ion (Br-) has inhibitory effects on the central nervous system, and bromide salts were once a major medical sedative, before replacement by shorter-acting drugs. They retain niche uses as antiepileptics.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Bromine) 
 

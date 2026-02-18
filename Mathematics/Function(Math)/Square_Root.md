@@ -255,7 +255,7 @@ dv_has_:
 > in other words, a number y whose square (the result of multiplying the number by itself, 
 > or y ⋅ y is x. 
 > 
-> For example, 4 and −4 are square roots of 16 because 4² = (-4)² = 16
+> For example, 4 and -4 are square roots of 16 because 4² = (-4)² = 16
 >
 > Every nonnegative real number x has a unique nonnegative square root, called the principal square root or simply the square root (with a definite article, see below), 
 > which is denoted by √x

@@ -320,7 +320,7 @@ dv_has_:
 > consist of neutrons at the density of atomic nuclei but a total mass more than the Sun.
 >
 > Neutron properties and interactions are described by nuclear physics.  
-> Neutrons are composed of one [[../../Quark/Up_Quark|up quark]] of charge +⁠2e/3⁠, and two [[../../Quark/Down Quark|down quark]] of charge −⁠e/3 each. 
+> Neutrons are composed of one [[../../Quark/Up_Quark|up quark]] of charge +⁠2e/3⁠, and two [[../../Quark/Down Quark|down quark]] of charge -⁠e/3 each. 
 > A free neutron spontaneously decays to a proton, an electron, and an antineutrino, 
 > with a mean lifetime of about 15 minutes.
 >

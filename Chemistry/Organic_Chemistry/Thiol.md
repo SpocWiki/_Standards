@@ -12,7 +12,7 @@ dv_is_:
   - '[[/_secret/Chemistry/Organic_Chemistry/Thiol.secret|Thiol.secret]]'
 dv_has_:
   formula_:
-    structural: R−SH
+    structural: R-SH
   name_:
     af: Merkaptaan
     ar: ثيول
@@ -81,7 +81,7 @@ dv_has_:
     zh_sg: 硫醇
     zh_tw: 硫醇
 dv_is_similar_to: '[[Functional_Group/Alcohol|Alcohol]]'
-dv_has_formula_structural: R−SH
+dv_has_formula_structural: R-SH
 dv_is_same_as:
 - '[[../../WikiData/WD~Thiol,220410]]'
 - '[[/_Standards/Chemistry/Organic_Chemistry/Thiol|Thiol]]'
@@ -135,14 +135,14 @@ has_formula_structural = `=this.dv_has_formula_structural`
 ## #has_/text_of_/abstract 
 
 > In organic chemistry, a **Thiol** (from Ancient Greek  θεῖον (theion) 'sulfur'), or thiol derivative, 
-> is any organosulfur compound of the form R−SH, 
+> is any organosulfur compound of the form R-SH, 
 > where R represents an alkyl or other organic substituent. 
 > 
-> The −SH functional group itself is referred to as 
+> The -SH functional group itself is referred to as 
 > either a thiol group or a sulfhydryl group, or a sulfanyl group. 
 > 
 > Thiols are the sulfur analogue of alcohols 
-> (that is, sulfur takes the place of oxygen in the hydroxyl (−OH) group of an alcohol), 
+> (that is, sulfur takes the place of oxygen in the hydroxyl (-OH) group of an alcohol), 
 > and the word is a blend of "thio-" with "alcohol".
 >
 > Many thiols have strong odors resembling that of garlic, cabbage or rotten eggs. Thiols are used as odorants to assist in the detection of natural gas (which in pure form is odorless). The smell of natural gas is due to the addition of thiol.

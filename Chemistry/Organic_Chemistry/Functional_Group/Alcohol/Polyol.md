@@ -110,7 +110,7 @@ dv_has_:
 
 ## #has_/text_of_/abstract 
 
-> In organic chemistry, a **polyol** is an organic compound containing multiple hydroxyl groups (−OH). 
+> In organic chemistry, a **polyol** is an organic compound containing multiple hydroxyl groups (-OH). 
 > The term "polyol" can have slightly different 
 > meanings depending on whether it is used in food science or polymer chemistry. 
 > 

@@ -120,9 +120,9 @@ dv_has_:
 
 ## #has_/text_of_/abstract 
 
-> A **Diol** is a chemical compound containing two hydroxyl groups (−OH groups).  An aliphatic diol may also be called a glycol. This pairing of functional groups is pervasive, and many subcategories have been identified. They are used as protecting groups of carbonyl groups, making them essential in synthesis of organic chemistry.
+> A **Diol** is a chemical compound containing two hydroxyl groups (-OH groups).  An aliphatic diol may also be called a glycol. This pairing of functional groups is pervasive, and many subcategories have been identified. They are used as protecting groups of carbonyl groups, making them essential in synthesis of organic chemistry.
 >
-> The most common industrial diol is ethylene glycol. Examples of diols in which the hydroxyl functional groups are more widely separated include 1,4-butanediol HO−(CH2)4−OH and propylene-1,3-diol, or beta propylene glycol, HO−CH2−CH2−CH2−OH.
+> The most common industrial diol is ethylene glycol. Examples of diols in which the hydroxyl functional groups are more widely separated include 1,4-butanediol HO-(CH2)4-OH and propylene-1,3-diol, or beta propylene glycol, HO-CH2-CH2-CH2-OH.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Diol) 
 

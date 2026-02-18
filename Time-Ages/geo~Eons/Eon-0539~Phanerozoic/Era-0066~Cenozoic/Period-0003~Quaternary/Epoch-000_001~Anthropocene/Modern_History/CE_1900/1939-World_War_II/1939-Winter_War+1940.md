@@ -265,7 +265,7 @@ dv_has_:
 > while other sources argue against the idea of a full Soviet conquest. 
 > 
 > Finland repelled Soviet attacks for more than two months 
-> and inflicted substantial losses on the invaders in temperatures as low as −43 °C. 
+> and inflicted substantial losses on the invaders in temperatures as low as -43 °C. 
 > The battles focused mainly on Taipale along the Karelian Isthmus, 
 > on Kollaa in Ladoga Karelia and on Raate Road in Kainuu, 
 > but there were also battles in Lapland and North Karelia.

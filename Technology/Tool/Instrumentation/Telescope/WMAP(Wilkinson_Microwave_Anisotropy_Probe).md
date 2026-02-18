@@ -125,12 +125,12 @@ dv_has_:
 > 
 > The WMAP mission's determination of the age of the universe is to better than 1% precision. 
 > 
-> The current expansion rate of the universe is (see Hubble constant) 69.32±0.80 km·s−1·Mpc−1. 
+> The current expansion rate of the universe is (see Hubble constant) 69.32±0.80 km·s-1·Mpc-1. 
 > 
 > The content of the universe currently consists of 
 > - 4.628%±0.093% ordinary baryonic matter; 
-> - 24.02%+0.88%−0.87% cold dark matter (CDM) that neither emits nor absorbs light; and 
-> - 71.35%+0.95%−0.96% of dark energy in the form of a cosmological constant 
+> - 24.02%+0.88%-0.87% cold dark matter (CDM) that neither emits nor absorbs light; and 
+> - 71.35%+0.95%-0.96% of dark energy in the form of a cosmological constant 
 >   that accelerates the expansion of the universe. 
 > 
 > Less than 1% of the current content of the universe is in neutrinos, 
@@ -138,7 +138,7 @@ dv_has_:
 > that the data prefer the existence of a cosmic neutrino background with an effective number of neutrino species of 3.26±0.35. 
 > 
 > The contents point to a Euclidean flat geometry, 
-> with curvature (Ω_k) of −0.0027+0.0039−0.0038. 
+> with curvature (Ω_k) of -0.0027+0.0039-0.0038. 
 > 
 > The WMAP measurements also support the cosmic inflation paradigm 
 > in several ways, including the flatness measurement.

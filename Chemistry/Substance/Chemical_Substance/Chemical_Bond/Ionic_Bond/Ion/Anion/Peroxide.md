@@ -163,14 +163,14 @@ dv_has_:
 
 ## #has_/text_of_/abstract 
 
-> In chemistry, **Peroxide**s are a group of compounds with the structure R−O−O−R, 
+> In chemistry, **Peroxide**s are a group of compounds with the structure R-O-O-R, 
 > where each R represents a radical (a portion of a complete molecule; not necessarily a free radical) 
 > and the Os are single oxygen atoms. 
 > 
 > Oxygen atoms are joined to each other and to adjacent elements through single covalent bonds, 
 > denoted by dashes or lines. 
 > 
-> The O−O group in a peroxide is often called the peroxide group, 
+> The O-O group in a peroxide is often called the peroxide group, 
 > though some nomenclature discrepancies exist. 
 > 
 > This linkage is recognized as a common polyatomic ion, and exists in many molecules.

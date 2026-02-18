@@ -167,17 +167,17 @@ has_formula_structural = `=this.dv_has_formula_structural`
 > This group, known as the cyano group, consists of a 
 > carbon atom **triple-bonded** to a nitrogen atom.
 >
-> Ionic cyanides contain the cyanide anion −C≡N. 
+> Ionic cyanides contain the cyanide anion -C≡N. 
 > This anion is extremely toxic and causes cyanide poisoning. 
 > Soluble cyanide salts such as sodium cyanide (NaCN), potassium cyanide (KCN) 
 > and tetraethylammonium cyanide ([(CH3CH2)4N]CN) are also highly toxic.
 >
-> Covalent cyanides contain the −C≡N group, and are usually 
+> Covalent cyanides contain the -C≡N group, and are usually 
 > called nitriles if the group is linked by a single covalent bond to carbon atom. 
 > 
-> For example, in acetonitrile CH3−C≡N, the cyanide group is bonded to methyl −CH3. In tetracyanomethane C(−C≡N)4, four cyano groups are bonded to carbon. Although nitriles generally do not release cyanide ions, the cyanohydrins do and are thus toxic. The cyano group may be covalently bonded to atoms other than carbon, e.g., in cyanogen azide N3−C≡N, phosphorus tricyanide P(−C≡N)3 and trimethylsilyl cyanide (CH3)3Si−C≡N.
+> For example, in acetonitrile CH3-C≡N, the cyanide group is bonded to methyl -CH3. In tetracyanomethane C(-C≡N)4, four cyano groups are bonded to carbon. Although nitriles generally do not release cyanide ions, the cyanohydrins do and are thus toxic. The cyano group may be covalently bonded to atoms other than carbon, e.g., in cyanogen azide N3-C≡N, phosphorus tricyanide P(-C≡N)3 and trimethylsilyl cyanide (CH3)3Si-C≡N.
 >
-> Hydrogen cyanide, or H−C≡N, is a highly volatile toxic liquid that is produced on a large scale industrially. It is obtained by acidification of cyanide salts.
+> Hydrogen cyanide, or H-C≡N, is a highly volatile toxic liquid that is produced on a large scale industrially. It is obtained by acidification of cyanide salts.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Cyanide) 
 

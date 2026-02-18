@@ -423,7 +423,7 @@ Unicode_character: 🧊
 > When water is cooled rapidly (quenching), up to three types of amorphous ice can form. 
 > Interstellar ice is overwhelmingly low-density amorphous ice (LDA), 
 > which likely makes LDA ice the most abundant type in the universe. 
-> When cooled slowly, correlated proton tunneling occurs below −253.15 °C (20 K, −423.67 °F) 
+> When cooled slowly, correlated proton tunneling occurs below -253.15 °C (20 K, -423.67 °F) 
 > giving rise to macroscopic quantum phenomena. 
 >
 > Ice is abundant on the Earth's surface, particularly in the polar regions and above the snow line, where it can aggregate from snow to form glaciers and ice sheets. As snowflakes and hail, ice is a common form of precipitation, and it may also be deposited directly by water vapor as frost. The transition from ice to water is melting and from ice directly to water vapor is sublimation. These processes plays a key role in Earth's water cycle and climate. In the recent decades, ice volume on Earth has been decreasing due to climate change. The largest declines have occurred in the Arctic and in the mountains located outside of the polar regions. The loss of grounded ice  (as opposed to floating sea ice) is the primary contributor to sea level rise.

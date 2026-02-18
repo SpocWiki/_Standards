@@ -159,7 +159,7 @@ dv_has_:
 > Antiprotons are stable, but they are typically short-lived, 
 > since any collision with a proton will cause both particles to be annihilated in a burst of energy.
 >
-> The existence of the antiproton with electric charge of −1 e, 
+> The existence of the antiproton with electric charge of -1 e, 
 > opposite to the electric charge of +1 e of the proton, 
 > was predicted by Paul Dirac in his 1933 Nobel Prize lecture. 
 > 

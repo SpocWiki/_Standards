@@ -211,7 +211,7 @@ dv_has_:
 
 > The metric system is a system of measurement that standardizes a set of base units and a nomenclature for describing relatively large and small quantities via decimal-based multiplicative unit prefixes. Though the rules governing the metric system have changed over time, the modern definition, the International System of Units (SI), defines the metric prefixes and seven base units: metre (m), kilogram (kg), second (s), ampere (A), kelvin (K), mole (mol), and candela (cd).
 >
-> An SI derived unit is a named combination of base units such as hertz (cycles per second), newton (kg⋅m/s2), and tesla (1 kg⋅s−2⋅A−1) and in the case of Celsius a shifted scale from Kelvin. Certain units have been officially accepted for use with the SI. Some of these are decimalised, like the litre and electronvolt, and are considered "metric". Others, like the astronomical unit are not. Ancient non-metric but SI-accepted multiples of time, minute and hour, are base 60 (sexagesimal). Similarly, the angular measure degree and submultiples, 
+> An SI derived unit is a named combination of base units such as hertz (cycles per second), newton (kg⋅m/s2), and tesla (1 kg⋅s-2⋅A-1) and in the case of Celsius a shifted scale from Kelvin. Certain units have been officially accepted for use with the SI. Some of these are decimalised, like the litre and electronvolt, and are considered "metric". Others, like the astronomical unit are not. Ancient non-metric but SI-accepted multiples of time, minute and hour, are base 60 (sexagesimal). Similarly, the angular measure degree and submultiples, 
 >
 > arcminute, and arcsecond, are also sexagesimal and SI-accepted.
 >

@@ -123,13 +123,13 @@ has_formula_structural = `=this.dv_has_formula_structural`
 ## #has_/text_of_/abstract 
 
 > **Sulfide** (also sulphide in British English) is an inorganic anion of [[../../Chemical_Element/Group-16-Chalcogene/Sulfur|sulfur]] 
-> with the chemical formula S2− or a compound containing one or more S2− ions.  
+> with the chemical formula S2- or a compound containing one or more S2- ions.  
 > 
 > Solutions of sulfide salts are corrosive. 
 > Sulfide also refers to large families of **inorganic and organic compounds**, 
 > e.g. lead sulfide and dimethyl sulfide. 
 > 
-> [[Sulfide/Hydrogen_Sulfide|Hydrogen_Sulfide]] (H2S) and bisulfide (HS−) are the conjugate acids of sulfide.
+> [[Sulfide/Hydrogen_Sulfide|Hydrogen_Sulfide]] (H2S) and bisulfide (HS-) are the conjugate acids of sulfide.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sulfide) 
 

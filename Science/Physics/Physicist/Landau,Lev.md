@@ -330,7 +330,7 @@ dv_has_:
 > 
 > He received the 1962 Nobel Prize in Physics 
 > for his development of a mathematical theory of superfluidity 
-> that accounts for the properties of liquid helium II at a temperature below 2.17 K (−270.98 °C).
+> that accounts for the properties of liquid helium II at a temperature below 2.17 K (-270.98 °C).
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Lev%20Landau) 
 

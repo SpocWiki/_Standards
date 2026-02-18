@@ -205,7 +205,7 @@ dv_has_:
 > Protons and neutrons (which make the majority of the mass of an atom) are baryons; 
 > pions are an example of a meson. 
 > 
-> A tetraquark state (an exotic meson), named the Z(4430)−, 
+> A tetraquark state (an exotic meson), named the Z(4430)-, 
 > was discovered in 2007 by the Belle Collaboration 
 > and confirmed as a resonance in 2014 by the LHCb collaboration. 
 > 

@@ -152,9 +152,9 @@ dv_has_:
 > and like all elementary particles with half-integer spin, 
 > the tau has a corresponding antiparticle of opposite charge but equal mass and spin. 
 > In the tau's case, this is the "antitau" (also called the positive tau). 
-> Tau particles are denoted by the symbol τ− and the antitaus by τ+.
+> Tau particles are denoted by the symbol τ- and the antitaus by τ+.
 >
-> Tau leptons have a lifetime of 2.9×10−13 s and a mass of 1776.9 MeV/c2 
+> Tau leptons have a lifetime of 2.9×10-13 s and a mass of 1776.9 MeV/c2 
 > (compared to 105.66 MeV/c2 for muons and 0.511 MeV/c2 for electrons). 
 > 
 > Because their interactions are very similar to those of the electron, 

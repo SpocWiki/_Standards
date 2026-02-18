@@ -142,7 +142,7 @@ dv_has_:
 > The **Antineutron** is the antiparticle of the neutron with symbol n. 
 > It differs from the neutron only in that some of its properties have equal magnitude but opposite sign. 
 > It has the same mass as the neutron, and no net electric charge, 
-> but has opposite baryon number (+1 for neutron, −1 for the antineutron). 
+> but has opposite baryon number (+1 for neutron, -1 for the antineutron). 
 > This is because the antineutron is composed of antiquarks, while neutrons are composed of quarks. 
 > The antineutron consists of one up antiquark and two down antiquarks.
 >

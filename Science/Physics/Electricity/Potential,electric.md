@@ -198,7 +198,7 @@ dv_has_:
 >
 > In classical electrostatics, the electrostatic field is a vector quantity expressed as the gradient of the electrostatic potential, which is a scalar quantity denoted by V or occasionally φ, equal to the electric potential energy of any charged particle at any location (measured in joules) divided by the charge of that particle (measured in coulombs). By dividing out the charge on the particle a quotient is obtained that is a property of the electric field itself. In short, an electric potential is the electric potential energy per unit charge.
 >
-> This value can be calculated in either a static (time-invariant) or a dynamic (time-varying) electric field at a specific time with the unit joules per coulomb (J⋅C−1) or volt (V). The electric potential at infinity is assumed to be zero.
+> This value can be calculated in either a static (time-invariant) or a dynamic (time-varying) electric field at a specific time with the unit joules per coulomb (J⋅C-1) or volt (V). The electric potential at infinity is assumed to be zero.
 >
 > In electrodynamics, when time-varying fields are present, the electric field cannot be expressed only as a scalar potential. Instead, the electric field can be expressed as both the scalar electric potential and the magnetic vector potential. The electric potential and the magnetic vector potential together form a four-vector, so that the two kinds of potential are mixed under Lorentz transformations.
 >

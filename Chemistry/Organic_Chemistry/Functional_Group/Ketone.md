@@ -85,7 +85,7 @@ dv_is_:
   - '[[/_secret/Chemistry/Organic_Chemistry/Ketone.secret|Ketone.secret]]'
 dv_has_:
   formula_:
-    structural: R−C(=O)−R
+    structural: R-C(=O)-R
   name_:
     af: Ketoon
     ar: كيتون
@@ -186,7 +186,7 @@ dv_is_same_as:
 - '[[/_private/Chemistry/Organic_Chemistry/Ketone.private|Ketone.private]]'
 - '[[/_personal/Chemistry/Organic_Chemistry/Ketone.personal|Ketone.personal]]'
 - '[[/_secret/Chemistry/Organic_Chemistry/Ketone.secret|Ketone.secret]]'
-dv_has_formula_structural: R−C(=O)−R
+dv_has_formula_structural: R-C(=O)-R
 ---
 
 # [[Ketone]] 
@@ -196,10 +196,10 @@ has_formula_structural = `=this.dv_has_formula_structural`
 
 ## #has_/text_of_/abstract 
 
-> In organic chemistry, a **Ketone**  is an organic compound with the structure R−C(=O)−R', 
+> In organic chemistry, a **Ketone**  is an organic compound with the structure R-C(=O)-R', 
 > where R and R' can be a variety of carbon-containing substituents. 
 > 
-> Ketones contain a carbonyl group −C(=O)− (a carbon-oxygen double bond C=O). 
+> Ketones contain a carbonyl group -C(=O)- (a carbon-oxygen double bond C=O). 
 > 
 > The simplest ketone is acetone (where R and R' are methyl), with the formula (CH3)2CO. 
 > 
