@@ -67,10 +67,13 @@ is_a = `=this.dv_is_a`
 #class/Relation
 has_inverse = `=this.dv_has_inverse` 
 
+#is_/less_than :: [[has_cause]] 
+
 Use it like this: 
-- #has_/contributor : :  `=this.dv_has_contributor`  
-- has_contributor : : `=this.dv_has_contributor`  
-- is_contributor_to : : 
+- #has_/contributor : :  `=this.dv_has_range`  
+- has_contributor : : `=this.dv_has_range`  
+- is_contributor_to : : `=this.dv_has_domain`   
+- #is_/contributor_to : : `=this.dv_has_domain`   
 
 A secondary contributor to the CreativeWork or Event.
 

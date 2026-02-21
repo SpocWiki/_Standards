@@ -201,7 +201,6 @@ Unicode_character: 🏄
 # [[Surfing]] 🏄 
 
 
-
 #is_/same_as :: [[../../../../../../WikiData/WD~Surfing,159992|WD~Surfing,159992]]  
 
 ## #has_/text_of_/abstract 

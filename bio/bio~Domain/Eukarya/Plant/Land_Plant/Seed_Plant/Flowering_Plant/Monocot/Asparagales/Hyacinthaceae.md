@@ -94,24 +94,8 @@ dv_has_:
     zh_sg: 风信子科
     zh_tw: 風信子科
 ---
-## Phylogeny 
 
--   « Ancestral Groups  
-    -   [Asparagales](../Asparagales.md)
-    -   [Monocot](../../Monocot.md)
-    -   [Flowering_Plant](../../../Flowering_Plant.md)
-    -   [Seed_Plant](../../../../Seed_Plant.md)
-    -   [Land_Plant](../../../../../Land_Plant.md)
-    -  [Green plants](../../../../../../Plant.md) 
-    -  [Eukarya](../../../../../../../Eukarya.md) 
-    -   [Tree of Life](../../../../../../../Tree_of_Life.md)
-
--   ◊ Sibling Groups of  Asparagales
-    -   Hyacinthaceae
-
--   » Sub-Groups 
-
-# [[Hyacinthaceae]]
+# [[Hyacinthaceae]] 🪻 
 
 Hyacinthus, Ornithogalum, Scilla and their relatives 
 
@@ -254,6 +238,23 @@ Hyacinthaceae (Pfosser and Speta, 1999). Instead, rbcL sequence data
 and Speta, 1999), as well as serological data (Cupov and Kutjavina,
 1981) point to a relationship of these genera to Agavaceae, Funkiaceae,
 and Anthericaceae and not to Hyacinthaceae.
+
+## Phylogeny 
+
+-   « Ancestral Groups  
+    -   [Asparagales](../Asparagales.md)
+    -   [Monocot](../../Monocot.md)
+    -   [Flowering_Plant](../../../Flowering_Plant.md)
+    -   [Seed_Plant](../../../../Seed_Plant.md)
+    -   [Land_Plant](../../../../../Land_Plant.md)
+    -  [Green plants](../../../../../../Plant.md) 
+    -  [Eukarya](../../../../../../../Eukarya.md) 
+    -   [Tree of Life](../../../../../../../Tree_of_Life.md)
+
+-   ◊ Sibling Groups of  Asparagales
+    -   Hyacinthaceae
+
+-   » Sub-Groups 
 
 
 ## Title Illustrations
