@@ -2,6 +2,7 @@
 aliases:
 - Gustav Mahler
 - Gustav Maler
+- Mahler
 - Gustavs Mālers
 - Gustavus Mahler
 - Mahler,Gustav

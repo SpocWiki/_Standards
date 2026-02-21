@@ -1,6 +1,7 @@
 ---
 aliases:
 - Francis Šūberts
+- Schubert 
 - Franciscus Petrus Schubert
 - Francos Šūberts
 - Frans Şubert

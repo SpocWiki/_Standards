@@ -3,6 +3,7 @@ aliases:
 - Franciscus Iosephus Haydn
 - Francos Džuozeps Haidnos
 - Franz Haydn
+- Haydn
 - Franz Joseph Haydn
 - Gaidn Jozef
 - Haydn,Joseph

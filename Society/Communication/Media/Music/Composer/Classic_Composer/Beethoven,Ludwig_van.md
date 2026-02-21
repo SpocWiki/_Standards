@@ -2,6 +2,7 @@
 aliases:
 - Beethoven,Ludwig van
 - Beethoven,Ludwig_van
+- Beethoven
 - Bitovin
 - Hloðwig van Beethoven
 - jan Luwi pi ma Petowen
