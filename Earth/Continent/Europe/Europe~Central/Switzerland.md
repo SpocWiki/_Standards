@@ -1108,7 +1108,7 @@ minZoom: 4
 maxZoom: 18
 defaultZoom: 5 
 geojsonFolder: ./Switzerland//
-markerFolder: ./Switzerland/City
+markerFolder: ./Switzerland/
 coordinates: [[Switzerland]] 
 markerFile: [[Switzerland]] 
 ```
@@ -1190,7 +1190,7 @@ Population in 1000s as of @2024
 | [[Switzerland/Switzerland~Cantons/Genève,Canton/municipalities~Genève/Geneva,City\|Geneva,City]] | [[Switzerland/Switzerland~Cantons/Genève,Canton\|Genève,Canton]]       |    203.856 |
 | [[Switzerland/Switzerland~Cantons/Basel,Canton/districts~Basel-Stadt/Basel/Basel,City\|Basel,City]]                                                      | [[Switzerland/Switzerland~Cantons/Basel,Canton\|Basel,Canton]]         |    178.120 |
 | [[Switzerland/Switzerland~Cantons/Vaud/districts~Vaud/Lausanne\|Lausanne]]                                                                  | [[Switzerland/Switzerland~Cantons/Vaud\|Vaud]]                         |    140.202 |
-| [[Switzerland/Switzerland~Cantons/Bern,Canton/districts~Bern/Bern-district/municipalities~Bern/Bern,City\|Bern,City]]             | [[Switzerland/Switzerland~Cantons/Bern,Canton\|Bern,Canton]]           |    134.794 |
+| [[Switzerland/Switzerland~Cantons/Bern,Canton/districts~Bern/Bern,City/municipalities~Bern/Bern,City\|Bern,City]]             | [[Switzerland/Switzerland~Cantons/Bern,Canton\|Bern,Canton]]           |    134.794 |
 | [[Switzerland/Switzerland~Cantons/Zürich,Canton/districts~Zürich/Winterthur/municipalities~Winterthur/Winterthur-municipality/Winterthur,City\|Winterthur]]                                                     | [[Switzerland/Switzerland~Cantons/Zürich,Canton\|Zürich,Canton]]       |    114.220 |
 | [[Switzerland/Switzerland~Cantons/Lucerne,Canton/districts~Lucerne/Lucerne,City\|Luzern,City]]                                     | [[Switzerland/Switzerland~Cantons/Lucerne,Canton\|Lucerne]]            |     82.257 |
 | [[Switzerland/Switzerland~Cantons/St.Gallen,Canton/districts~St_Gallen/St.Gallen,District\|St.Gallen]]                                                    | [[Switzerland/Switzerland~Cantons/St.Gallen,Canton\|St.Gallen,Canton]] |     76.090 |
