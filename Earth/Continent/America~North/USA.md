@@ -1472,7 +1472,6 @@ Unicode_character: 🇺🇸
 # [[USA]] 🇺🇸 
 
 
-
 #has_/time_/started :: 1776-07-04 
 #has_/duration_ :: `=(default(this.has_time_stopped,date(now)) - this.has_time_started)`  
 

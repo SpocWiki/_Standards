@@ -1060,9 +1060,9 @@ Major Cities with Population in 1000s as of @2020
 | City                                                                                        | Federal State                                    | Pop/k | Notable Attributes                                                        |
 | ------------------------------------------------------------------------------------------- | ------------------------------------------------ | ----: | ------------------------------------------------------------------------- |
 | [[Austria/Austrias_States/Wien,State/Wien,City\|Vienna]]                                              | [[Austria/Austrias_States/Wien,State\|Vienna,State]]       | 1900 | National capital, political, economic, and cultural hub                   |
-| [[Austria/Austrias_States/Steiermark/City/Graz\|Graz]]                                                | [[Austria/Austrias_States/Steiermark\|Styria]]             |  330 | Second largest city, academic and economic center                         |
+| [[Austria/Austrias_States/Steiermark/counties~SM/Graz\|Graz]]                                                | [[Austria/Austrias_States/Steiermark\|Styria]]             |  330 | Second largest city, academic and economic center                         |
 | [[Austria/Austrias_States/Oberösterreich/counties~OÖ/Linz,District/cities~Linz/Linz,City\|Linz,City]] | [[Austria/Austrias_States/Oberösterreich\|Upper Austria]]  |  210 | Industrial, technological, and innovation center                          |
-| [[Austria/Austrias_States/Salzburg,State/City/Salzburg,City\|Salzburg]]                               | [[Austria/Austrias_States/Salzburg,State\|Salzburg,State]] |  155 | Internationally renowned for cultural heritage and tourism                |
+| [[Austria/Austrias_States/Salzburg,State/counties~Salzburg/Salzburg,City\|Salzburg]]                               | [[Austria/Austrias_States/Salzburg,State\|Salzburg,State]] |  155 | Internationally renowned for cultural heritage and tourism                |
 | [[Austria/Austrias_States/Tirol/counties~Tirol/Innsbruck\|Innsbruck]]                                           | [[Austria/Austrias_States/Tirol\|Tyrol]]                   |  130 | Key center for winter sports and tourism with significant economic impact |
 
 

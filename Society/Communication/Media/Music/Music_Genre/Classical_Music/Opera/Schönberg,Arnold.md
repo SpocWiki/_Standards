@@ -2,6 +2,8 @@
 aliases:
 - Arnold Schoenberg
 - Arnold Schonberg
+- Schönberg
+- Schoenberg
 - Arnold Schönberg
 - Arnold Şönberg
 - Arnold Šenberg
