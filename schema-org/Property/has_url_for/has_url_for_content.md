@@ -64,6 +64,8 @@ dv_is_same_as:
   - "[[/_secret/schema-org/Property/has_url_for/has_url_for_content.secret|has_url_for_content.secret]]"
 ---
 
+## [[has_url_for_content]] 
+
 #has_/url_for_/same_as :: [[../../../W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RDF~Relations/rdfs~seeAlso|rdfs:seeAlso]]
 #has_/url_for_/same_as :: [[../../../W3C(World_Wide_Web_Consortium)/RDF(Resource_Description_Framework)/RDF~Relations/rdfs~isDefinedBy|rdfs:isDefinedBy]]
 #has_/url_for_/same_as :: [[dc~source]]
