@@ -103,7 +103,7 @@ aliases:
 - 레모니 스니켓의 위험한 대결
 ---
 
-# [[Series_of_Unfortunate_Events(Film)]]  
+# [[Series_of_Unfortunate_Events(2004)]]  
 
 #is_a :: [[../../../Creative_Work/Movie|movie]] 
 #has_/director :: [[Brad Silberling]] 
@@ -148,7 +148,7 @@ aliases:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Series_of_Unfortunate_Events(Film)|Series_of_Unfortunate_Events(Film)]] 
+### #is_/same_as :: [[Series_of_Unfortunate_Events(2004)|Series_of_Unfortunate_Events(2004)]] 
 
 ### #is_/same_as :: [[/_public/Society/Communication/Media/Movie/Movie-Genre/Horror-Movie/Series_of_Unfortunate_Events(Film).public|Series_of_Unfortunate_Events(Film).public]] 
 
