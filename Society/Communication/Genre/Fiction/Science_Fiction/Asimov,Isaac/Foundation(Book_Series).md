@@ -1,5 +1,5 @@
 
-#has_/creator :: [[../Asimov,Isaac]] 
+#has_/creator :: [[../../../../../../Genre/Fiction/Science_Fiction/Asimov,Isaac]] 
 
 Actors: 
 - Hari Seldon 

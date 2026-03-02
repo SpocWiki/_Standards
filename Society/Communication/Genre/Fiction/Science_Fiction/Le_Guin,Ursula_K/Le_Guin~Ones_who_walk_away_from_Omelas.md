@@ -52,14 +52,14 @@ dv_has_:
     zh: 離開奧美拉城的人
 ---
 
-# [[Ones_who_walk_away_from_Omelas]]  
+# [[Le_Guin~Ones_who_walk_away_from_Omelas]]  
 
-#has_/creator :: [[Le_Guin,Ursula_K.]] 
+#has_/creator :: [[Le_Guin,Ursula_K]] 
 
 ## #has_/text_of_/abstract 
 
 > "The Ones Who Walk Away from Omelas" is a 1973 short work of philosophical fiction 
-> by American writer [[Le_Guin,Ursula_K.]]. 
+> by American writer [[Le_Guin,Ursula_K]]. 
 > 
 > With deliberately both vague and vivid descriptions, 
 > the narrator depicts a summer festival in the utopian city of Omelas, 
@@ -77,7 +77,7 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Society/Communication/Genre/Fiction/Science_Fiction/Ones_who_walk_away_from_Omelas|Ones_who_walk_away_from_Omelas]] 
+### #is_/same_as :: [[Le_Guin~Ones_who_walk_away_from_Omelas|Le_Guin~Ones_who_walk_away_from_Omelas]] 
 
 ### #is_/same_as :: [[/_public/Society/Communication/Genre/Fiction/Science_Fiction/Ones_who_walk_away_from_Omelas.public|Ones_who_walk_away_from_Omelas.public]] 
 
