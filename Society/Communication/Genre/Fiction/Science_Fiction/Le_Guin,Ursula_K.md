@@ -337,7 +337,7 @@ dv_has_:
     zh_tw: 娥蘇拉·勒瑰恩
 ---
 
-# [[Le_Guin,Ursula_K.]] 
+# [[Le_Guin,Ursula_K]] 
 
 #has_/time_/started ::  1929-10-21 
 #has_/time_/started ::  2018-01-22  
@@ -417,7 +417,7 @@ dv_has_:
 
 ## Confidential Links & Embeds: 
 
-### #is_/same_as :: [[/_Standards/Society/Communication/Genre/Fiction/Science_Fiction/Le_Guin,Ursula_K.|Le_Guin,Ursula_K.]] 
+### #is_/same_as :: [[Le_Guin,Ursula_K|Le_Guin,Ursula_K]] 
 
 ### #is_/same_as :: [[/_public/Society/Communication/Genre/Fiction/Science_Fiction/Le_Guin,Ursula_K..public|Le_Guin,Ursula_K..public]] 
 

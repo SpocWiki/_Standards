@@ -221,11 +221,43 @@ Unicode_character: 🦥
 > **Sloth**s are a Neotropical group of xenarthran mammals constituting the suborder Folivora, 
 > including the extant arboreal tree sloths and extinct terrestrial ground sloths. 
 > 
-> Noted for their slowness of movement, tree sloths spend most of their lives hanging upside down in the trees of the tropical rainforests of South America and Central America. Sloths are considered to be most closely related to anteaters, together making up the xenarthran order Pilosa.
+> Noted for their slowness of movement, tree sloths spend most of their lives hanging upside down 
+> in the trees of the tropical rainforests of South America and Central America. 
+> Sloths are considered to be most closely related to anteaters, 
+> together making up the xenarthran order Pilosa.
 >
-> There are six extant sloth species in two genera – Bradypus (three-toed sloths) and Choloepus (two-toed sloths). Despite this traditional naming, all sloths have three toes on each rear limb – although two-toed sloths have only two digits on each forelimb. The two groups of sloths are from different, distantly related families, and are thought to have evolved their morphology via parallel evolution from terrestrial ancestors. Besides the extant species, many species of ground sloths ranging up to the size of elephants (like Megatherium) inhabited both North and South America during the Pleistocene Epoch. However, they became extinct during the Quaternary extinction event around 12,000 years ago, along with most large animals across the Americas. The extinction correlates in time with the arrival of humans, but climate change has also been suggested to have contributed. Members of an endemic radiation of Caribbean sloths also formerly lived in the Greater Antilles but became extinct after humans settled the archipelago in the mid-Holocene, around 6,000 years ago.
+> There are six extant sloth species in two genera 
+> - Bradypus (three-toed sloths) and 
+> - Choloepus (two-toed sloths). 
+> 
+> Despite this traditional naming, all sloths have three toes on each rear limb – 
+> although two-toed sloths have only two digits on each forelimb. 
+> 
+> The two groups of sloths are from different, distantly related families, 
+> and are thought to have evolved their morphology via parallel evolution from terrestrial ancestors. 
+> 
+> Besides the extant species, many species of ground sloths ranging up to the size of elephants 
+> (like Megatherium) inhabited both North and South America during the Pleistocene Epoch. 
+> 
+> However, they became extinct during the Quaternary extinction event around 12,000 years ago, 
+> along with most large animals across the Americas. 
+> 
+> The extinction correlates in time with the arrival of humans, 
+> but climate change has also been suggested to have contributed. 
+> Members of an endemic radiation of Caribbean sloths also formerly lived in the Greater Antilles 
+> but became extinct after humans settled the archipelago in the mid-Holocene, around 6,000 years ago.
 >
-> Sloths are so named because of their very low metabolism and deliberate movements. Sloth, related to slow, literally means "laziness", and their common names in several other languages (e.g. German: Faultier, French: paresseux, Spanish: perezoso, Portuguese: preguiça, Romanian: leneș, Finnish: laiskiainen) also mean "lazy" or similar. Their slowness permits their low-energy diet of leaves and avoids detection by predatory hawks and cats that hunt by sight. Sloths are almost helpless on the ground but are able to swim. The shaggy coat has grooved hair that is host to symbiotic green algae which camouflage the animal in the trees and provide it nutrients. The algae also nourish sloth moths, some species of which exist solely on sloths.
+> Sloths are so named because of their very low metabolism and deliberate movements. 
+> Sloth, related to slow, literally means "laziness", and their common names in several other languages 
+> (e.g. German: Faultier, French: paresseux, Spanish: perezoso, Portuguese: preguiça, Romanian: leneș, Finnish: laiskiainen) also mean "lazy" or similar. 
+> 
+> Their slowness permits their low-energy diet of leaves 
+> and avoids detection by predatory hawks and cats that hunt by sight. 
+> 
+> Sloths are almost helpless on the ground but are able to swim. 
+> The shaggy coat has grooved hair that is host to symbiotic green algae 
+> which camouflage the animal in the trees and provide it nutrients. 
+> The algae also nourish sloth moths, some species of which exist solely on sloths.
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Sloth) 
 
