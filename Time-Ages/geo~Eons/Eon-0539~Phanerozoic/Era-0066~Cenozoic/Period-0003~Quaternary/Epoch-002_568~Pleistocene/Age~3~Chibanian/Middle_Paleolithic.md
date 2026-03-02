@@ -178,7 +178,7 @@ has_time_stopped = `=this.dv_has_time_stopped`
 > 
 > The Middle Paleolithic was succeeded by the Upper Paleolithic subdivision 
 > which first began between 50,000 and  40,000 years ago
-> and was paralleled by the so-called [[Cognitive_Revolution]]. 
+> and was paralleled by the so-called [[Behavioral_Modernity]]. 
 > 
 > Pettit and White date the Early Middle Paleolithic in Great Britain to 
 > about 325,000 to 180,000 years ago (late Marine Isotope Stage 9 to late Marine Isotope Stage 7), 

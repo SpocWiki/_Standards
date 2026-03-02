@@ -239,6 +239,43 @@ dv_has_:
 > [Wikipedia](https://en.wikipedia.org/wiki/Hunger) 
 
 
+## Examples 
+
+### [[../../../Earth/Continent/Europe/History_of_Europe/1932-Holodomor-1933|Holodomor]] 
+
+### [[1944-Dutch_Hunger-Winter]] 
+
+### 1770-01-01 bis 1772-12-31 (Mitteleuropa: Missernten und Teuerung)
+
+Große Missernten führten in weiten Teilen des damaligen deutschsprachigen Raums zu massiver Teuerung und Not, 
+regional auch zu Hunger und erhöhter Sterblichkeit.
+
+### 1816-01-01 bis 1817-12-31 („Jahr ohne Sommer“ und Teuerungskrise)
+
+Kälte und Ernteausfälle (u. a. im Kontext des Ausbruchs des Tambora 1815) 
+führten zu drastischen Preissteigerungen und Hunger-/Notlagen in Teilen des Deutschen Bundes.
+
+### 1846-01-01 bis 1847-12-31 (Vormärz-Krise)
+
+Mehrere schlechte Ernten und Preissteigerungen verschärften Armut und Unterernährung; die Krise zählt zu den sozialen Belastungen vor 1848.
+
+### 1916-01-01 bis 1917-12-31 („Steckrübenwinter“) 
+
+Der „Steckrübenwinter“ 1916/17 gilt als markante Hungerphase im Deutschen Reich (Blockade, schlechte Ernten, Verteilungsprobleme). 
+
+### 1914-07-28 bis 1918-11-11 (Erster Weltkrieg insgesamt)
+
+Auch über den gesamten Krieg kam es zu chronischer Unterversorgung und Mangelernährung, besonders in Städten.
+
+### 1945-01-01 bis 1948-12-31 (Nachkriegszeit)
+
+In vielen Regionen herrschte schwere Unterversorgung, 
+teils Hunger (Zerstörung, Flüchtlingsbewegungen, Produktions- und Transportausfälle, Rationierung, Schwarzmarkt).
+
+### 1946-01-01 bis 1947-12-31 („Hungerwinter“ 1946/47)
+
+Der Winter 1946/47 gilt in weiten Teilen Deutschlands als Höhepunkt des Hungers in Deutschland 
+
 ## Confidential Links & Embeds: 
 
 ### #is_/same_as :: [[/_Standards/bio/Metabolism/Nutrition/Hunger|Hunger]] 

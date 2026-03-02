@@ -45,11 +45,11 @@ The US Department of Defense has officially recognized at least 32 "Broken Arrow
 - [1964 Savage Mountain B-52 crash](https://en.wikipedia.org/wiki/1964_Savage_Mountain_B-52_crash "1964 Savage Mountain B-52 crash")
 - [1964 Bunker Hill AFB runway accident](https://en.wikipedia.org/wiki/Grissom_Air_Reserve_Base#Nuclear_accident "Grissom Air Reserve Base")
 - [1965 Philippine Sea A-4 incident](https://en.wikipedia.org/wiki/1965_Philippine_Sea_A-4_incident "1965 Philippine Sea A-4 incident")
-- [1966 Palomares B-52 crash](https://en.wikipedia.org/wiki/1966_Palomares_B-52_crash "1966 Palomares B-52 crash")[[7]](https://en.wikipedia.org/wiki/United_States_military_nuclear_incident_terminology#cite_note-7)
+- [1966 Palomares B-52 crash](https://en.wikipedia.org/wiki/1966_Palomares_B-52_crash "1966 Palomares B-52 crash")
 - [1968 Thule Air Base B-52 crash](https://en.wikipedia.org/wiki/1968_Thule_Air_Base_B-52_crash "1968 Thule Air Base B-52 crash")
 - [1980 Damascus Titan missile explosion](https://en.wikipedia.org/wiki/1980_Damascus_Titan_missile_explosion "1980 Damascus Titan missile explosion")
 
-Unofficially, the Defense Atomic Support Agency (now known as the [Defense Threat Reduction Agency](https://en.wikipedia.org/wiki/Defense_Threat_Reduction_Agency "Defense Threat Reduction Agency") (DTRA)) has detailed hundreds of "Broken Arrow" incidents.[[8]](https://en.wikipedia.org/wiki/United_States_military_nuclear_incident_terminology#cite_note-8)
+Unofficially, the Defense Atomic Support Agency (now known as the [Defense Threat Reduction Agency](https://en.wikipedia.org/wiki/Defense_Threat_Reduction_Agency "Defense Threat Reduction Agency") (DTRA)) has detailed hundreds of "Broken Arrow" incidents.
 
 
 ## Operation Chrome Dome 

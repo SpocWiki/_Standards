@@ -1,46 +1,46 @@
 ---
 aliases:
-- 5가지 성격 특성 요소
-- Beş Büyük faktör kuramı
-- Big Five
-- Big Five eredua
-- Big Five model
-- Big Five personality traits
-- Big Five személyiségmodell
-- Cinc grans trets de la personalitat
-- Ciri personaliti Lima Utama
-- Didžiojo Penketo asmenybės bruožų teorija
-- Femfaktormodellen
-- Femfaktorteorin
-- five factor model
-- five-factor model
-- HEXACO
-- Kepribadian Big Five
-- Kvin Grandaj Faktoroj de Personeco
-- Modelo de los cinco grandes
-- Modèle des Big Five
-- OCEAN
-- Personality~Big5
-- pet velikih faktorjev osebnosti
-- Suur viisik
-- viiden suuren persoonallisuuspiirteen teoria
-- Wielka piątka
-- Μοντέλο των 5 παραγόντων
-- Большая пятёрка
-- Велика п'ятірка
-- Великих пет црта личности
-- חמש התכונות הגדולות
-- عناصر الشخصية الخمسة
-- बिग फ़ाइव व्यक्तित्व लक्षण
-- বিগ ফাইভ ব্যক্তিত্বৰ বৈশিষ্ট্য
-- பிக் ஃபைவ் ஆளுமைப் பண்புக்கூறுகள்
-- ಐದು ದೊಡ್ಡ ವ್ಯಕ್ತಿತ್ವದ ಸ್ವಭಾವಗಳು
-- ลักษณะบุคลิกภาพใหญ่ทั้งห้า
-- დიდი ხუთი პიროვნული მახასიათებელი
-- ビッグ・ファイブ
-- 五大性格特質
-- 五大性格特质
-- ﭘﻨﺞ ﻋﺎﻣﻞ ﺑﺰﺭگ ﺷﺨﺼﻴﺖ
+  - 5가지 성격 특성 요소
+  - Beş Büyük faktör kuramı
+  - Big Five
+  - Big Five eredua
+  - Big Five model
+  - Big Five personality traits
+  - Big Five személyiségmodell
+  - Cinc grans trets de la personalitat
+  - Ciri personaliti Lima Utama
+  - Didžiojo Penketo asmenybės bruožų teorija
+  - Femfaktormodellen
+  - Femfaktorteorin
+  - five factor model
+  - five-factor model
+  - HEXACO
+  - Kepribadian Big Five
+  - Kvin Grandaj Faktoroj de Personeco
+  - Modelo de los cinco grandes
+  - Modèle des Big Five
+  - OCEAN
+  - Personality~Big5
+  - pet velikih faktorjev osebnosti
+  - Suur viisik
+  - viiden suuren persoonallisuuspiirteen teoria
+  - Wielka piątka
+  - Μοντέλο των 5 παραγόντων
+  - Большая пятёрка
+  - Велика п'ятірка
+  - Великих пет црта личности
+  - חמש התכונות הגדולות
+  - عناصر الشخصية الخمسة
+  - बिग फ़ाइव व्यक्तित्व लक्षण
+  - বিগ ফাইভ ব্যক্তিত্বৰ বৈশিষ্ট্য
+  - பிக் ஃபைவ் ஆளுமைப் பண்புக்கூறுகள்
+  - ಐದು ದೊಡ್ಡ ವ್ಯಕ್ತಿತ್ವದ ಸ್ವಭಾವಗಳು
+  - ลักษณะบุคลิกภาพใหญ่ทั้งห้า
+  - დიდი ხუთი პიროვნული მახასიათებელი
+  - ビッグ・ファイブ
+  - 五大性格特質
+  - 五大性格特质
+  - ﭘﻨﺞ ﻋﺎﻣﻞ ﺑﺰﺭگ ﺷﺨﺼﻴﺖ
 has_id_wikidata: Q378132
 dv_has_:
   name_:
@@ -90,6 +90,65 @@ dv_has_:
     vi: OCEAN
     yue: 五大性格特質
     zh: 五大性格特质
+
+correlations:
+  Openness:
+    H: 0.05
+    E: -0.05
+    X: 0.15
+    A: 0.05
+    C: 0.05
+    O: 0.75
+  Conscientious:
+    H: 0.15
+    E: -0.10
+    X: 0.10
+    A: 0.10
+    C: 0.80
+    O: -0.05
+  Agreeableness:
+    H: 0.25
+    E: 0.20
+    X: 0.10
+    A: 0.60
+    C: 0.10
+    O: 0.05
+  Extraversion:
+    H: -0.05
+    E: -0.20
+    X: 0.85
+    A: 0.05
+    C: 0.05
+    O: 0.10
+  Neuroticism:
+    H: -0.22
+    E: 0.70
+    X: -0.15
+    A: -0.30
+    C: -0.20
+    O: -0.05
+  Dark_Triad:
+  Narcissism:
+    H: -0.25
+    E: 0
+    X: 0.4
+    A: -0.15
+    C: 0.05
+    O: 0.15
+  Machiavelli:
+    H: -0.55
+    E: -0.2
+    X: -0.1
+    A: -0.45
+    C: -0.25
+    O: 0.1
+  Psychopath:
+    H: -0.5
+    E: -0.3
+    X: 0.2
+    A: -0.55
+    C: -0.3
+    O: 0.05
 ---
 
 # [[Personality~Big5]] 
@@ -97,29 +156,32 @@ dv_has_:
 #is_/similar_to :: [[./Personality~HEXACO|Personality~HEXACO]] 
 
 Cross-cultural linguistic Analysis **adds the Honesty-Humility** Dimension 
-to the Big5 which were derived from English and related languages
+to the Big5 which were derived from English and related languages. 
 
-|     | HEXACO Trait      | Closest Big Five Trait | Correl% | Shared Var% | Notes                      |
-| --- | ----------------- | ---------------------- | ------: | ----------: | -------------------------- |
-| H   | Honesty–Humility  | Agreeableness          |      25 |        6.25 | Partial overlap only       |
-| E   | Emotionality      | Neuroticism            |      70 |       49.00 | Strong **inverse** framing |
-| X   | Extraversion      | Extraversion           |      85 |       72.25 | Near equivalence           |
-| A   | Agreeableness     | Agreeableness          |      60 |       36.00 | Different content emphasis |
-| C   | Conscientiousness | Conscientiousness      |      80 |       64.00 | Strong equivalence         |
-| O   | Openness to...    | ...new Experiences     |      75 |       56.25 | High equivalence           |
-
-
-| HEXACO Dim.       | Good     | #has_/result_/positive  | #has_/result_/negative  | Context Sensitivity |
-| ----------------- | -------- | ----------------------- | ----------------------- | ------------------- |
-| Honesty–Humility  | **High** | Ethical                 | Competition, Leadership | **Medium**          |
-| Emotionality      | Mixed    | Empathy                 | Stress, Risk tolerance  | High                |
-| Xtraversion       | Mixed    | Leadership, well-being  | Focus Task Performance  | High                |
-| Agreeableness     | Mixed    | Cooperation             | Negotiation Results     | Medium              |
-| Conscientiousness | **High** | Job + Academic perf.    | Burnout risk            | **Low**             |
-| Openness          | Mixed    | Creativity, flexibility | Rule adherence          | High                |
+| Attribute\                     | Honesty–<br>Humility    | Emotionality               | Extraversion            | Agreeableness              | Conscientious        | Openness                |
+| ------------------------------ | ----------------------- | -------------------------- | ----------------------- | -------------------------- | -------------------- | ----------------------- |
+| HEXACO                         | H                       | E                          | X                       | A                          | C                    | O                       |
+| Closest <br>**Big Five** Trait | Agreeableness           | Neuroticism                | Extraversion            | Agreeableness              | Conscientious        | …to new Experiences     |
+| Notes                          | Partial overlap only    | Strong **inverse** framing | Near equivalence        | Different content emphasis | Strong equivalence   | High equivalence        |
+| Correl (%)                     | 25                      | 70                         | 85                      | 60                         | 80                   | 75                      |
+| Shared Var (%)                 | 6.25                    | 49.00                      | 72.25                   | 36.00                      | 64.00                | 56.25                   |
+| Overall Benefit                | **High**                | Mixed                      | Mixed                   | Mixed                      | **High**             | Mixed                   |
+| #has_/result_/ positive        | Ethical behaviour       | Empathy                    | Leadership, Well-being  | Cooperation                | Job + Academic perf. | Creativity, Flexibility |
+| #has_/result_/ negative        | Competition, Leadership | Stress, Risk tolerance     | Focus, Task performance | Negotiation results        | Burnout risk         | Rule adherence          |
+| Context Sensitivity            | Medium                  | High                       | High                    | Medium                     | **Low**              | High                    |
+| Political                      |                         | Conservative               |                         |                            | Conservative         | Progressive             |
+|                                |                         |                            |                         |                            |                      |                         |
 
 Conscientiousness and Honesty–Humility show the strongest **general benefits**.  
 All other dimensions exhibit advantages and disadvantages **depending on context** and extremity. 
+
+```dataviewjs
+dv.view("_orga/JS/HeatMapTableMd", {keyed2D:dv.current().correlations, colors:["#FF0000","#FFFFFF","#00FF00"], scale:100, digits:0, rowHead:"Trait", colHead:"HEXACO%:"});
+```
+
+
+
+
 
 #has_/url_ :: [Persönlichkeitstest](https://www.lw.uni-leipzig.de/wilhelm-wundt-institut-fuer-psychologie/arbeitsgruppen/persoenlichkeitspsychologie-und-psychologische-diagnostik/persoenlichkeitstest)  
 
