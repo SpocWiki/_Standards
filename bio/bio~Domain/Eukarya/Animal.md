@@ -230,31 +230,31 @@ Archive_of_Our_Own_tag:
 - Animals
 - Animal
 Baidu_Tieba_name: 动物
-code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
+code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011|WD~International_Code_of_Zoological_Nomenclature,13011]]'
 Commons_category: Animalia
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Dictionnaire_Infernal,1210353]]'
-- '[[_Standards/WikiData/WD~Evangelisches_Kirchenlexikon,1381325]]'
-- '[[_Standards/WikiData/WD~Religion_in_Geschichte_und_Gegenwart,1514334]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-- '[[_Standards/WikiData/WD~Encyclopedia_of_Early_Modern_History_Online,109120178]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Dictionnaire_Infernal,1210353|WD~Dictionnaire_Infernal,1210353]]'
+- '[[_Standards/WikiData/WD~Evangelisches_Kirchenlexikon,1381325|WD~Evangelisches_Kirchenlexikon,1381325]]'
+- '[[_Standards/WikiData/WD~Religion_in_Geschichte_und_Gegenwart,1514334|WD~Religion_in_Geschichte_und_Gegenwart,1514334]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917|WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Early_Modern_History_Online,109120178|WD~Encyclopedia_of_Early_Modern_History_Online,109120178]]'
 Dewey_Decimal_Classification:
 - 590
 different_from:
-- '[[_Standards/WikiData/WD~Eleotris_melanosoma,717377]]'
-- '[[_Standards/WikiData/WD~Q19176651,19176651]]'
-- '[[_Standards/WikiData/WD~Bête,65066169]]'
-disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+- '[[_Standards/WikiData/WD~Eleotris_melanosoma,717377|WD~Eleotris_melanosoma,717377]]'
+- '[[_Standards/WikiData/WD~Q19176651,19176651|WD~Q19176651,19176651]]'
+- '[[_Standards/WikiData/WD~Bête,65066169|WD~Bête,65066169]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
 EAGLE_id: decor/lod/28
 EPPO_Code: 1ANIMK
 equivalent_class:
@@ -264,35 +264,35 @@ hashtag:
 - animal
 - animals
 has_characteristic:
-- '[[_Standards/WikiData/WD~animal_locomotion,925958]]'
-- '[[_Standards/WikiData/WD~animal_taxonomy,1469725]]'
-- '[[_Standards/WikiData/WD~animal_behavior,2990593]]'
-- '[[_Standards/WikiData/WD~animal_culture,3007160]]'
-has_list: '[[_Standards/WikiData/WD~list_of_animal_classes,1401693]]'
+- '[[_Standards/WikiData/WD~animal_locomotion,925958|WD~animal_locomotion,925958]]'
+- '[[_Standards/WikiData/WD~animal_taxonomy,1469725|WD~animal_taxonomy,1469725]]'
+- '[[_Standards/WikiData/WD~animal_behavior,2990593|WD~animal_behavior,2990593]]'
+- '[[_Standards/WikiData/WD~animal_culture,3007160|WD~animal_culture,3007160]]'
+has_list: '[[_Standards/WikiData/WD~list_of_animal_classes,1401693|WD~list_of_animal_classes,1401693]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/2010-kodiak-bear-1.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~first-order_class,104086571]]'
-- '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~first-order_class,104086571|WD~first-order_class,104086571]]'
+- '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 IPTC_NewsCode: mediatopic/20000500
 ITIS_TSN: 202423
 MeSH_tree_code: B01.050
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Animal%20diversity.png
 OmegaWiki_Defined_Meaning: 194
-parent_taxon: '[[_Standards/WikiData/WD~Apoikozoa,24966129]]'
+parent_taxon: '[[_Standards/WikiData/WD~Apoikozoa,24966129|WD~Apoikozoa,24966129]]'
 pronunciation_audio:
 - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7026%20%28cat%29-Millars-animal.wav
 - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8752%20%28eus%29-ElsaBornFree-animalia.wav
 properties_for_this_type:
 - main food source
 - gait
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q19719608,19719608]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q19719608,19719608|WD~Q19719608,19719608]]'
 social_media_followers: 15948
 start_time: -665000000-01-01
 studied_in:
-- '[[_Standards/WikiData/WD~veterinary_medicine,170201]]'
-- '[[_Standards/WikiData/WD~biology,420]]'
-- '[[_Standards/WikiData/WD~zoology,431]]'
-subclass_of: '[[_Standards/WikiData/WD~heterotroph,159344]]'
+- '[[_Standards/WikiData/WD~veterinary_medicine,170201|WD~veterinary_medicine,170201]]'
+- '[[_Standards/WikiData/WD~biology,420|WD~biology,420]]'
+- '[[_Standards/WikiData/WD~zoology,431|WD~zoology,431]]'
+subclass_of: '[[_Standards/WikiData/WD~heterotroph,159344|WD~heterotroph,159344]]'
 subreddit:
 - Animal
 taxon_common_name:
@@ -302,11 +302,11 @@ taxon_common_name:
 - živali
 - 动物界
 taxon_name: Animalia
-taxon_rank: '[[_Standards/WikiData/WD~kingdom,36732]]'
+taxon_rank: '[[_Standards/WikiData/WD~kingdom,36732|WD~kingdom,36732]]'
 title: Animals
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Animalia,6679944]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Animalia,6679944|WD~Template_Animalia,6679944]]'
 UMLS_CUI: C0003062
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
 U_S_National_Archives_Identifier:
 - 10637132
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Brown%20bear%20fishing%20for%20salmon%20--%20Crescent%20Lake%2C%20Alaska%20-%20August%202015.webm
@@ -621,7 +621,7 @@ dv_has_:
 
 Animalia and their sibling groups within the domain Eukaryota share a common ancestry.
 
-#is_/same_as :: [[../../../WikiData/WD~Animal,729]] 
+#is_/same_as :: [[../../../WikiData/WD~Animal,729|WD~Animal,729]] 
 
 ## #has_/text_of_/abstract 
 

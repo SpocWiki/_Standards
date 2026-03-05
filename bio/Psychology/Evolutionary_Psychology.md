@@ -52,11 +52,11 @@ aliases:
 - 진화심리학
 has_id_wikidata: Q219695
 subclass_of:
-- '[[_Standards/WikiData/WD~theory_of_evolution,11640129]]'
-- '[[_Standards/WikiData/WD~psychology,9418]]'
-instance_of: '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Evolutionary_psychology,13552037]]'
-practiced_by: '[[_Standards/WikiData/WD~evolutionary_psychologist,84320739]]'
+- '[[_Standards/WikiData/WD~theory_of_evolution,11640129|WD~theory_of_evolution,11640129]]'
+- '[[_Standards/WikiData/WD~psychology,9418|WD~psychology,9418]]'
+instance_of: '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Evolutionary_psychology,13552037|WD~Template_Evolutionary_psychology,13552037]]'
+practiced_by: '[[_Standards/WikiData/WD~evolutionary_psychologist,84320739|WD~evolutionary_psychologist,84320739]]'
 OmegaWiki_Defined_Meaning: 1324289
 Library_of_Congress_Classification: BF698.95
 Commons_category: Evolutionary psychology

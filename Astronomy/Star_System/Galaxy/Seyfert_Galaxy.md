@@ -48,12 +48,12 @@ aliases:
 - 赛弗特星系
 - 세이퍼트 은하
 has_id_wikidata: Q213930
-named_after: '[[_Standards/WikiData/WD~Carl_Keenan_Seyfert,453675]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
+named_after: '[[_Standards/WikiData/WD~Carl_Keenan_Seyfert,453675|WD~Carl_Keenan_Seyfert,453675]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909|WD~astronomical_object_type,17444909]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~galaxy,318]]'
-- '[[_Standards/WikiData/WD~active_galactic_nucleus,46587]]'
+- '[[_Standards/WikiData/WD~galaxy,318|WD~galaxy,318]]'
+- '[[_Standards/WikiData/WD~active_galactic_nucleus,46587|WD~active_galactic_nucleus,46587]]'
 Krugosvet_article_archived_: nauka_i_tehnika/astronomiya/GALAKTIKI_SEFERTA.html
 Commons_category: Seyfert galaxies
 dv_is_:

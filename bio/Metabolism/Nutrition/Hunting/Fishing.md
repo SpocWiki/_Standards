@@ -108,23 +108,23 @@ aliases:
 - 고기잡이
 has_id_wikidata: Q14373
 different_from:
-- '[[_Standards/WikiData/WD~recreational_fishing,283534]]'
-- '[[_Standards/WikiData/WD~commercial_fishing,11202642]]'
-practiced_by: '[[_Standards/WikiData/WD~fisher,331432]]'
+- '[[_Standards/WikiData/WD~recreational_fishing,283534|WD~recreational_fishing,283534]]'
+- '[[_Standards/WikiData/WD~commercial_fishing,11202642|WD~commercial_fishing,11202642]]'
+practiced_by: '[[_Standards/WikiData/WD~fisher,331432|WD~fisher,331432]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_fishing,7112638]]'
-location: '[[_Standards/WikiData/WD~fishing_ground,10396778]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Fishing,11315090]]'
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-instance_of: '[[_Standards/WikiData/WD~human_activity,61788060]]'
-studied_by: '[[_Standards/WikiData/WD~halieutics,124877263]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_fishing,7112638|WD~outline_of_fishing,7112638]]'
+location: '[[_Standards/WikiData/WD~fishing_ground,10396778|WD~fishing_ground,10396778]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Fishing,11315090|WD~Portal_Fishing,11315090]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
+instance_of: '[[_Standards/WikiData/WD~human_activity,61788060|WD~human_activity,61788060]]'
+studied_by: '[[_Standards/WikiData/WD~halieutics,124877263|WD~halieutics,124877263]]'
 depicted_by:
-- '[[_Standards/WikiData/WD~Two_Fishing_Puttos,131627570]]'
-- '[[_Standards/WikiData/WD~Unexpected_Fishing,132397596]]'
+- '[[_Standards/WikiData/WD~Two_Fishing_Puttos,131627570|WD~Two_Fishing_Puttos,131627570]]'
+- '[[_Standards/WikiData/WD~Unexpected_Fishing,132397596|WD~Unexpected_Fishing,132397596]]'
 Dewey_Decimal_Classification:
 - 639
 - 799

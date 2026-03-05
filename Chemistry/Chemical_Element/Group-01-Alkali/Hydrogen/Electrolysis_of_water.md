@@ -57,8 +57,8 @@ dv_has_:
 
 ### Corrosion 
 
-Use non-corrosive Electrodes from [[../../Group-10-Nickel/Platinum]] or [[../../Group-09-Cobalt/Iridium]]
-use an alkaline rather than a sour Electrolyte allows to use [[../../Group-10-Nickel/Nickel]]. 
+Use non-corrosive Electrodes from [[../../Group-10-Nickel/Platinum|Platinum]] or [[../../Group-09-Cobalt/Iridium|Iridium]]
+use an alkaline rather than a sour Electrolyte allows to use [[../../Group-10-Nickel/Nickel|Nickel]]. 
 
 
 ### Efficiency 

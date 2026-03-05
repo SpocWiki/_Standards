@@ -12,8 +12,8 @@ tags:
 type: Country
 dv_has_name_en: Rhodesia-Nyasaland
 dv_has_name_de: Rhodesien-Nyasaland
-dv_has_place_continent: "[[../../Africa]]"
-dv_Capital: "[[Zimbabwe/Provinces~Zimbabwe/Harare,Province]]"
+dv_has_place_continent: "[[../../Africa|Africa]]"
+dv_Capital: "[[Zimbabwe/Provinces~Zimbabwe/Harare,Province|Harare,Province]]"
 dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 31.0297
 dv_has_place_latitude: -17.8639

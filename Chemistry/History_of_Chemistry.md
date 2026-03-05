@@ -54,14 +54,14 @@ aliases:
 - 化學史
 - 화학사
 has_id_wikidata: Q501353
-subclass_of: '[[_Standards/WikiData/WD~history_of_science,201486]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+subclass_of: '[[_Standards/WikiData/WD~history_of_science,201486|WD~history_of_science,201486]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~history_of_the_periodic_table,14916030]]'
-- '[[_Standards/WikiData/WD~history_of_organic_chemistry,17480697]]'
-instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
-practiced_by: '[[_Standards/WikiData/WD~historian_of_chemistry,53554997]]'
-facet_of: '[[_Standards/WikiData/WD~chemistry,2329]]'
+- '[[_Standards/WikiData/WD~history_of_the_periodic_table,14916030|WD~history_of_the_periodic_table,14916030]]'
+- '[[_Standards/WikiData/WD~history_of_organic_chemistry,17480697|WD~history_of_organic_chemistry,17480697]]'
+instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420|WD~aspect_of_history,17524420]]'
+practiced_by: '[[_Standards/WikiData/WD~historian_of_chemistry,53554997|WD~historian_of_chemistry,53554997]]'
+facet_of: '[[_Standards/WikiData/WD~chemistry,2329|WD~chemistry,2329]]'
 Basisklassifikation: 35.01
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/David%20-%20Portrait%20of%20Monsieur%20Lavoisier%20and%20His%20Wife.jpg
@@ -73,7 +73,7 @@ PhilPapers_topic: history-of-chemistry
 Krugosvet_article_archived_: nauka_i_tehnika/himiya/HIMII_ISTORIYA.html
 dv_is_:
   same_as:
-  - '[[../WikiData/WD~History_of_chemistry,501353]]'
+  - '[[../WikiData/WD~History_of_chemistry,501353|WD~History_of_chemistry,501353]]'
   - '[[/_Standards/Chemistry/History_of_Chemistry|History_of_Chemistry]]'
   - '[[/_public/Chemistry/History_of_Chemistry.public|History_of_Chemistry.public]]'
   - '[[/_internal/Chemistry/History_of_Chemistry.internal|History_of_Chemistry.internal]]'
@@ -82,7 +82,7 @@ dv_is_:
   - '[[/_personal/Chemistry/History_of_Chemistry.personal|History_of_Chemistry.personal]]'
   - '[[/_secret/Chemistry/History_of_Chemistry.secret|History_of_Chemistry.secret]]'
 dv_is_same_as:
-- '[[../WikiData/WD~History_of_chemistry,501353]]'
+- '[[../WikiData/WD~History_of_chemistry,501353|WD~History_of_chemistry,501353]]'
 - '[[/_Standards/Chemistry/History_of_Chemistry|History_of_Chemistry]]'
 - '[[/_public/Chemistry/History_of_Chemistry.public|History_of_Chemistry.public]]'
 - '[[/_internal/Chemistry/History_of_Chemistry.internal|History_of_Chemistry.internal]]'

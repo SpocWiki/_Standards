@@ -36,10 +36,10 @@ aliases:
 - 硫化物
 - 황화물
 has_id_wikidata: Q221205
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Sulfides,7032503]]'
-instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
-subclass_of: '[[_Standards/WikiData/WD~sulfur_compound,72073013]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Sulfides,7032503|WD~Category_Sulfides,7032503]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
+subclass_of: '[[_Standards/WikiData/WD~sulfur_compound,72073013|WD~sulfur_compound,72073013]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862|WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
 RxNorm_CUI: 1368379
 MeSH_tree_code:
 - D01.248.497.158.874

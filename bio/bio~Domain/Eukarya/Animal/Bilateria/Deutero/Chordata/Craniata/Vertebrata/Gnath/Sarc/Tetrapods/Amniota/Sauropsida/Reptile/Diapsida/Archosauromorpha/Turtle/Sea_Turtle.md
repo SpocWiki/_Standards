@@ -64,8 +64,8 @@ aliases:
 - 海龟
 - 바다거북상과
 has_id_wikidata: Q219329
-taxon_rank: '[[_Standards/WikiData/WD~superfamily,2136103]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~superfamily,2136103|WD~superfamily,2136103]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 ITIS_TSN: 948946
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lepidochelys-olivacea-K%C3%A9lonia-1.JPG
 UMLS_CUI: C1001720

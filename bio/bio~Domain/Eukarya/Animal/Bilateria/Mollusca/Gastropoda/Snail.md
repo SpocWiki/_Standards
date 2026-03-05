@@ -117,18 +117,18 @@ aliases:
 - "\U00010343\U0001033D\U00010330\U00010332\U00010339\U0001033B\U00010343"
 has_id_wikidata: Q308841
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 different_from:
-- '[[_Standards/WikiData/WD~slug,1953597]]'
-- '[[_Standards/WikiData/WD~Gastropoda,4867740]]'
-- '[[_Standards/WikiData/WD~semi_slug,7449322]]'
-taxon_known_by_this_common_name: '[[_Standards/WikiData/WD~Gastropoda,4867740]]'
-subclass_of: '[[_Standards/WikiData/WD~Gastropoda,4867740]]'
-has_part_s_: '[[_Standards/WikiData/WD~mollusc_shell,6445670]]'
-instance_of: '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~hibernator,123655335]]'
+- '[[_Standards/WikiData/WD~slug,1953597|WD~slug,1953597]]'
+- '[[_Standards/WikiData/WD~Gastropoda,4867740|WD~Gastropoda,4867740]]'
+- '[[_Standards/WikiData/WD~semi_slug,7449322|WD~semi_slug,7449322]]'
+taxon_known_by_this_common_name: '[[_Standards/WikiData/WD~Gastropoda,4867740|WD~Gastropoda,4867740]]'
+subclass_of: '[[_Standards/WikiData/WD~Gastropoda,4867740|WD~Gastropoda,4867740]]'
+has_part_s_: '[[_Standards/WikiData/WD~mollusc_shell,6445670|WD~mollusc_shell,6445670]]'
+instance_of: '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715|WD~organisms_known_by_a_particular_common_name,55983715]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~hibernator,123655335|WD~hibernator,123655335]]'
 OmegaWiki_Defined_Meaning: 638694
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Snail.jpg
 Commons_category: Snails

@@ -83,29 +83,29 @@ aliases:
 has_id_wikidata: Q170201
 Dewey_Decimal_Classification: 636.089
 practiced_by:
-- '[[_Standards/WikiData/WD~veterinarian,202883]]'
-- '[[_Standards/WikiData/WD~paraveterinary_worker,61341]]'
+- '[[_Standards/WikiData/WD~veterinarian,202883|WD~veterinarian,202883]]'
+- '[[_Standards/WikiData/WD~paraveterinary_worker,61341|WD~paraveterinary_worker,61341]]'
 instance_of:
-- '[[_Standards/WikiData/WD~industry,268592]]'
-- '[[_Standards/WikiData/WD~medical_specialty,930752]]'
-- '[[_Standards/WikiData/WD~academic_major,4671286]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-part_of: '[[_Standards/WikiData/WD~zootechnics,600846]]'
+- '[[_Standards/WikiData/WD~industry,268592|WD~industry,268592]]'
+- '[[_Standards/WikiData/WD~medical_specialty,930752|WD~medical_specialty,930752]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+part_of: '[[_Standards/WikiData/WD~zootechnics,600846|WD~zootechnics,600846]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-symptoms_and_signs: '[[_Standards/WikiData/WD~animal_disease,9190427]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+symptoms_and_signs: '[[_Standards/WikiData/WD~animal_disease,9190427|WD~animal_disease,9190427]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~animal_care,21012419]]'
-- '[[_Standards/WikiData/WD~veterinary_science,110245063]]'
-- '[[_Standards/WikiData/WD~medicine,11190]]'
-different_from: '[[_Standards/WikiData/WD~comparative_medicine,22907418]]'
-uses: '[[_Standards/WikiData/WD~non_human_animal,24249370]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Veterinary_medicine,42351261]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_veterinary_medicine,61677688]]'
+- '[[_Standards/WikiData/WD~animal_care,21012419|WD~animal_care,21012419]]'
+- '[[_Standards/WikiData/WD~veterinary_science,110245063|WD~veterinary_science,110245063]]'
+- '[[_Standards/WikiData/WD~medicine,11190|WD~medicine,11190]]'
+different_from: '[[_Standards/WikiData/WD~comparative_medicine,22907418|WD~comparative_medicine,22907418]]'
+uses: '[[_Standards/WikiData/WD~non_human_animal,24249370|WD~non_human_animal,24249370]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Veterinary_medicine,42351261|WD~Portal_Veterinary_medicine,42351261]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_veterinary_medicine,61677688|WD~history_of_veterinary_medicine,61677688]]'
 Basisklassifikation: 46
 IAB_code: 430
 U_S_National_Archives_Identifier: 10642596

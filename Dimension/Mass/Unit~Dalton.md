@@ -82,15 +82,15 @@ aliases:
 - 原子质量单位
 - 원자 질량 단위
 has_id_wikidata: Q483261
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
 instance_of:
-- '[[_Standards/WikiData/WD~non_SI_unit_mentioned_in_and_accepted_with_the_SI,3268848]]'
-- '[[_Standards/WikiData/WD~unit_of_mass,3647172]]'
-- '[[_Standards/WikiData/WD~SI_accepted_non_SI_unit,106839753]]'
-measured_physical_quantity: '[[_Standards/WikiData/WD~atomic_mass,3840065]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~unified_atomic_mass_constant,4817337]]'
+- '[[_Standards/WikiData/WD~non_SI_unit_mentioned_in_and_accepted_with_the_SI,3268848|WD~non_SI_unit_mentioned_in_and_accepted_with_the_SI,3268848]]'
+- '[[_Standards/WikiData/WD~unit_of_mass,3647172|WD~unit_of_mass,3647172]]'
+- '[[_Standards/WikiData/WD~SI_accepted_non_SI_unit,106839753|WD~SI_accepted_non_SI_unit,106839753]]'
+measured_physical_quantity: '[[_Standards/WikiData/WD~atomic_mass,3840065|WD~atomic_mass,3840065]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~unified_atomic_mass_constant,4817337|WD~unified_atomic_mass_constant,4817337]]'
 conversion_to_SI_unit: 1.66053906892e-27
-named_after: '[[_Standards/WikiData/WD~John_Dalton,41284]]'
+named_after: '[[_Standards/WikiData/WD~John_Dalton,41284|WD~John_Dalton,41284]]'
 OmegaWiki_Defined_Meaning: 789550
 IEV_number:
 - 395-01-02

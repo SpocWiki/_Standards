@@ -69,13 +69,13 @@ aliases:
 - 비 (수학)
 has_id_wikidata: Q3481047
 subclass_of:
-- '[[_Standards/WikiData/WD~dimensionless_quantity,126818]]'
-- '[[_Standards/WikiData/WD~relation,930933]]'
-- '[[_Standards/WikiData/WD~number,11563]]'
-- '[[_Standards/WikiData/WD~quotient,41118]]'
-different_from: '[[_Standards/WikiData/WD~rate,1144560]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-described_by_source: '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~dimensionless_quantity,126818|WD~dimensionless_quantity,126818]]'
+- '[[_Standards/WikiData/WD~relation,930933|WD~relation,930933]]'
+- '[[_Standards/WikiData/WD~number,11563|WD~number,11563]]'
+- '[[_Standards/WikiData/WD~quotient,41118|WD~quotient,41118]]'
+different_from: '[[_Standards/WikiData/WD~rate,1144560|WD~rate,1144560]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+described_by_source: '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
 Colon_Classification: B215
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%97%E0%A5%81%E0%A4%A3%E0%A5%8B%E0%A4%A4%E0%A5%8D%E0%A4%A4%E0%A4%B0.wav
 Unicode_character: ∶

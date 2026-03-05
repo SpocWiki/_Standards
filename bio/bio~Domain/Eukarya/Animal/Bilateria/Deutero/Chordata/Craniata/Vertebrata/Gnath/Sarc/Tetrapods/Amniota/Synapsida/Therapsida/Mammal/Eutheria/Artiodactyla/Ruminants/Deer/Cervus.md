@@ -32,11 +32,11 @@ aliases:
 - 鹿屬
 - 사슴속
 has_id_wikidata: Q644255
-different_from: '[[_Standards/WikiData/WD~Jelen,1686632]]'
-parent_taxon: '[[_Standards/WikiData/WD~Cervini,22344813]]'
-taxon_synonym: '[[_Standards/WikiData/WD~Sika,122700985]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+different_from: '[[_Standards/WikiData/WD~Jelen,1686632|WD~Jelen,1686632]]'
+parent_taxon: '[[_Standards/WikiData/WD~Cervini,22344813|WD~Cervini,22344813]]'
+taxon_synonym: '[[_Standards/WikiData/WD~Sika,122700985|WD~Sika,122700985]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
 ITIS_TSN: 180694
 Commons_category: Cervus
 taxon_name: Cervus
@@ -161,7 +161,7 @@ dv_has_:
 
 # [[Cervus]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Cervus,644255]] 
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Cervus,644255|WD~Cervus,644255]] 
 
 ## #has_/text_of_/abstract 
 

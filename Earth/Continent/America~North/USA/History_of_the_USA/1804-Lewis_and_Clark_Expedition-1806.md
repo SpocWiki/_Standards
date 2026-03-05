@@ -75,43 +75,43 @@ aliases:
 - 루이스 클라크 탐험
 has_id_wikidata: Q505802
 instance_of:
-- '[[_Standards/WikiData/WD~time_interval,186081]]'
-- '[[_Standards/WikiData/WD~research_expedition,366301]]'
-- '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
+- '[[_Standards/WikiData/WD~time_interval,186081|WD~time_interval,186081]]'
+- '[[_Standards/WikiData/WD~research_expedition,366301|WD~research_expedition,366301]]'
+- '[[_Standards/WikiData/WD~aspect_of_history,17524420|WD~aspect_of_history,17524420]]'
 participant:
-- '[[_Standards/WikiData/WD~Meriwether_Lewis,313492]]'
-- '[[_Standards/WikiData/WD~William_Clark,355348]]'
-- '[[_Standards/WikiData/WD~Patrick_Gass,2057607]]'
+- '[[_Standards/WikiData/WD~Meriwether_Lewis,313492|WD~Meriwether_Lewis,313492]]'
+- '[[_Standards/WikiData/WD~William_Clark,355348|WD~William_Clark,355348]]'
+- '[[_Standards/WikiData/WD~Patrick_Gass,2057607|WD~Patrick_Gass,2057607]]'
 named_after:
-- '[[_Standards/WikiData/WD~Meriwether_Lewis,313492]]'
-- '[[_Standards/WikiData/WD~William_Clark,355348]]'
+- '[[_Standards/WikiData/WD~Meriwether_Lewis,313492|WD~Meriwether_Lewis,313492]]'
+- '[[_Standards/WikiData/WD~William_Clark,355348|WD~William_Clark,355348]]'
 location:
-- '[[_Standards/WikiData/WD~Council_Bluffs,695565]]'
-- '[[_Standards/WikiData/WD~St._Charles,773432]]'
-- '[[_Standards/WikiData/WD~Yankton,989288]]'
-- '[[_Standards/WikiData/WD~Fort_Mandan,1147514]]'
-- '[[_Standards/WikiData/WD~Fort_Clatsop,1375324]]'
-- '[[_Standards/WikiData/WD~Camp_Dubois,2935211]]'
-- '[[_Standards/WikiData/WD~Fort_Belle_Fontaine,3077777]]'
-- '[[_Standards/WikiData/WD~Camp_Chopunnish,5027065]]'
-- '[[_Standards/WikiData/WD~Giant_Springs,5558426]]'
-- '[[_Standards/WikiData/WD~Lemhi_Pass,6521136]]'
-- '[[_Standards/WikiData/WD~Lewis_and_Clark_Pass,6537220]]'
-- '[[_Standards/WikiData/WD~Rock_Fort_Campsite,7354431]]'
-- "[[_Standards/WikiData/WD~Traveler's_Rest,7835974]]"
-- '[[_Standards/WikiData/WD~Kaw_Point,14704419]]'
-- '[[_Standards/WikiData/WD~Great_Falls,37774]]'
-archives_at: '[[_Standards/WikiData/WD~Beinecke_Rare_Book_&_Manuscript_Library,814779]]'
+- '[[_Standards/WikiData/WD~Council_Bluffs,695565|WD~Council_Bluffs,695565]]'
+- '[[_Standards/WikiData/WD~St._Charles,773432|WD~St._Charles,773432]]'
+- '[[_Standards/WikiData/WD~Yankton,989288|WD~Yankton,989288]]'
+- '[[_Standards/WikiData/WD~Fort_Mandan,1147514|WD~Fort_Mandan,1147514]]'
+- '[[_Standards/WikiData/WD~Fort_Clatsop,1375324|WD~Fort_Clatsop,1375324]]'
+- '[[_Standards/WikiData/WD~Camp_Dubois,2935211|WD~Camp_Dubois,2935211]]'
+- '[[_Standards/WikiData/WD~Fort_Belle_Fontaine,3077777|WD~Fort_Belle_Fontaine,3077777]]'
+- '[[_Standards/WikiData/WD~Camp_Chopunnish,5027065|WD~Camp_Chopunnish,5027065]]'
+- '[[_Standards/WikiData/WD~Giant_Springs,5558426|WD~Giant_Springs,5558426]]'
+- '[[_Standards/WikiData/WD~Lemhi_Pass,6521136|WD~Lemhi_Pass,6521136]]'
+- '[[_Standards/WikiData/WD~Lewis_and_Clark_Pass,6537220|WD~Lewis_and_Clark_Pass,6537220]]'
+- '[[_Standards/WikiData/WD~Rock_Fort_Campsite,7354431|WD~Rock_Fort_Campsite,7354431]]'
+- "[[_Standards/WikiData/WD~Traveler's_Rest,7835974|WD~Traveler's_Rest,7835974]]"
+- '[[_Standards/WikiData/WD~Kaw_Point,14704419|WD~Kaw_Point,14704419]]'
+- '[[_Standards/WikiData/WD~Great_Falls,37774|WD~Great_Falls,37774]]'
+archives_at: '[[_Standards/WikiData/WD~Beinecke_Rare_Book_&_Manuscript_Library,814779|WD~Beinecke_Rare_Book_&_Manuscript_Library,814779]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-history_of_topic: '[[_Standards/WikiData/WD~timeline_of_the_Lewis_and_Clark_Expedition,2966940]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Research_expeditions,121815795]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Lewis_and_Clark_Expedition,125585826]]'
-commissioned_by: '[[_Standards/WikiData/WD~Thomas_Jefferson,11812]]'
-country: '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+history_of_topic: '[[_Standards/WikiData/WD~timeline_of_the_Lewis_and_Clark_Expedition,2966940|WD~timeline_of_the_Lewis_and_Clark_Expedition,2966940]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Research_expeditions,121815795|WD~WikiProject_Research_expeditions,121815795]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Lewis_and_Clark_Expedition,125585826|WD~Portal_Lewis_and_Clark_Expedition,125585826]]'
+commissioned_by: '[[_Standards/WikiData/WD~Thomas_Jefferson,11812|WD~Thomas_Jefferson,11812]]'
+country: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 budget: 2500
-start_point: '[[_Standards/WikiData/WD~St._Louis,38022]]'
+start_point: '[[_Standards/WikiData/WD~St._Louis,38022|WD~St._Louis,38022]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lewis%20and%20clark-expedition.jpg
 U_S_National_Archives_Identifier: 10442195
 end_time: 1806-09-23T00:00:00Z

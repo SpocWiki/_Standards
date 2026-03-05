@@ -49,13 +49,13 @@ aliases:
 - 膠體
 - 콜로이드
 has_id_wikidata: Q181780
-subclass_of: '[[_Standards/WikiData/WD~dispersion,178697]]'
-practiced_by: '[[_Standards/WikiData/WD~interface_and_colloid_science,909495]]'
-studied_by: '[[_Standards/WikiData/WD~interface_and_colloid_science,909495]]'
+subclass_of: '[[_Standards/WikiData/WD~dispersion,178697|WD~dispersion,178697]]'
+practiced_by: '[[_Standards/WikiData/WD~interface_and_colloid_science,909495|WD~interface_and_colloid_science,909495]]'
+studied_by: '[[_Standards/WikiData/WD~interface_and_colloid_science,909495|WD~interface_and_colloid_science,909495]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~colloidal_dispersion,113594664]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~colloidal_dispersion,113594664|WD~colloidal_dispersion,113594664]]'
 Dewey_Decimal_Classification:
 - 546
 - 541.345

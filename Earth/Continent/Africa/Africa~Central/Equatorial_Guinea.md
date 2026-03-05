@@ -299,7 +299,7 @@ dv_UNTERM_Chinese_Formal: 赤道几内亚共和国
 dv_UNTERM_French_Formal: la République de Guinée équatoriale
 dv_UNTERM_Russian: Экваториальная Гвинея
 dv_UNTERM_Russian_Formal: Республика Экваториальная Гвинея
-dv_Region_Name: '[[../../Africa]]'
+dv_Region_Name: '[[../../Africa|Africa]]'
 dv_Intermediate_Region_Name: '[[Middle Africa]]'
 dv_Sub-region_Name: '[[Sub-Saharan Africa]]'
 dv_Region: 2
@@ -336,7 +336,7 @@ dv_is_:
 dv_has_name_de: Äquatorial-Guinea
 dv_Area-Total: 28051
 dv_Area-Land: 28050
-dv_has_place_continent: '[[../../Africa]]'
+dv_has_place_continent: '[[../../Africa|Africa]]'
 dv_VehicleCode: EQ
 dv_Capital: '[[Malabo]]'
 dv_Alcohol-l: 6.1
@@ -590,73 +590,73 @@ Languages:
 - es-GQ
 - fr
 language_used:
-- '[[_Standards/WikiData/WD~Spanish,1321]]'
-- '[[_Standards/WikiData/WD~Lengue,13345]]'
-- '[[_Standards/WikiData/WD~French,150]]'
-- '[[_Standards/WikiData/WD~Fang,33484]]'
-- '[[_Standards/WikiData/WD~Kwasio,34098]]'
-- '[[_Standards/WikiData/WD~Benga,34952]]'
-- '[[_Standards/WikiData/WD~Noho,34979]]'
-- '[[_Standards/WikiData/WD~Annobonese_Creole,34992]]'
-- '[[_Standards/WikiData/WD~Bube,35110]]'
-- '[[_Standards/WikiData/WD~Pichinglis,35288]]'
-- '[[_Standards/WikiData/WD~Gyele,35434]]'
-- '[[_Standards/WikiData/WD~Kombe,36459]]'
-- '[[_Standards/WikiData/WD~Seki,36547]]'
-- '[[_Standards/WikiData/WD~Yasa,36899]]'
+- '[[_Standards/WikiData/WD~Spanish,1321|WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~Lengue,13345|WD~Lengue,13345]]'
+- '[[_Standards/WikiData/WD~French,150|WD~French,150]]'
+- '[[_Standards/WikiData/WD~Fang,33484|WD~Fang,33484]]'
+- '[[_Standards/WikiData/WD~Kwasio,34098|WD~Kwasio,34098]]'
+- '[[_Standards/WikiData/WD~Benga,34952|WD~Benga,34952]]'
+- '[[_Standards/WikiData/WD~Noho,34979|WD~Noho,34979]]'
+- '[[_Standards/WikiData/WD~Annobonese_Creole,34992|WD~Annobonese_Creole,34992]]'
+- '[[_Standards/WikiData/WD~Bube,35110|WD~Bube,35110]]'
+- '[[_Standards/WikiData/WD~Pichinglis,35288|WD~Pichinglis,35288]]'
+- '[[_Standards/WikiData/WD~Gyele,35434|WD~Gyele,35434]]'
+- '[[_Standards/WikiData/WD~Kombe,36459|WD~Kombe,36459]]'
+- '[[_Standards/WikiData/WD~Seki,36547|WD~Seki,36547]]'
+- '[[_Standards/WikiData/WD~Yasa,36899|WD~Yasa,36899]]'
 official_language:
-- '[[_Standards/WikiData/WD~Spanish,1321]]'
-- '[[_Standards/WikiData/WD~Portuguese,5146]]'
-- '[[_Standards/WikiData/WD~French,150]]'
-capital: '[[_Standards/WikiData/WD~Malabo,3818]]'
-located_in_time_zone: '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
+- '[[_Standards/WikiData/WD~Spanish,1321|WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~Portuguese,5146|WD~Portuguese,5146]]'
+- '[[_Standards/WikiData/WD~French,150|WD~French,150]]'
+capital: '[[_Standards/WikiData/WD~Malabo,3818|WD~Malabo,3818]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC+01_00,6655|WD~UTC+01_00,6655]]'
 member_of:
-- '[[_Standards/WikiData/WD~African_Union,7159]]'
-- '[[_Standards/WikiData/WD~Organization_of_the_Petroleum_Exporting_Countries,7795]]'
-- '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
-- '[[_Standards/WikiData/WD~Interpol,8475]]'
-- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
-- '[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]'
-- '[[_Standards/WikiData/WD~Community_of_Portuguese_Language_Countries,182500]]'
-- '[[_Standards/WikiData/WD~Economic_Community_of_Central_African_States,189966]]'
-- '[[_Standards/WikiData/WD~Bank_of_Central_African_States,189972]]'
-- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
-- '[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]'
-- '[[_Standards/WikiData/WD~African_Development_Bank,340195]]'
-- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]'
-- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
-- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
-- '[[_Standards/WikiData/WD~International_Development_Association,827525]]'
-- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
-- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
-- '[[_Standards/WikiData/WD~OHADA,2029901]]'
-- '[[_Standards/WikiData/WD~Gulf_of_Guinea_Commission,2986587]]'
-- '[[_Standards/WikiData/WD~AFRISTAT,3348506]]'
-- '[[_Standards/WikiData/WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~African_Union,7159|WD~African_Union,7159]]'
+- '[[_Standards/WikiData/WD~Organization_of_the_Petroleum_Exporting_Countries,7795|WD~Organization_of_the_Petroleum_Exporting_Countries,7795]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809|WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817|WD~World_Health_Organization,7817]]'
+- '[[_Standards/WikiData/WD~Interpol,8475|WD~Interpol,8475]]'
+- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495|WD~Universal_Postal_Union_UPU,17495]]'
+- '[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102|WD~Organisation_internationale_de_la_Francophonie,134102]]'
+- '[[_Standards/WikiData/WD~Community_of_Portuguese_Language_Countries,182500|WD~Community_of_Portuguese_Language_Countries,182500]]'
+- '[[_Standards/WikiData/WD~Economic_Community_of_Central_African_States,189966|WD~Economic_Community_of_Central_African_States,189966]]'
+- '[[_Standards/WikiData/WD~Bank_of_Central_African_States,189972|WD~Bank_of_Central_African_States,189972]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278|WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]'
+- '[[_Standards/WikiData/WD~African_Development_Bank,340195|WD~African_Development_Bank,340195]]'
+- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150|WD~International_Telecommunication_Union,376150]]'
+- '[[_Standards/WikiData/WD~World_Customs_Organization,605326|WD~World_Customs_Organization,605326]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801|WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~International_Development_Association,827525|WD~International_Development_Association,827525]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490|WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527|WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[_Standards/WikiData/WD~OHADA,2029901|WD~OHADA,2029901]]'
+- '[[_Standards/WikiData/WD~Gulf_of_Guinea_Commission,2986587|WD~Gulf_of_Guinea_Commission,2986587]]'
+- '[[_Standards/WikiData/WD~AFRISTAT,3348506|WD~AFRISTAT,3348506]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]'
 named_after:
-- '[[_Standards/WikiData/WD~equator,23538]]'
-- '[[_Standards/WikiData/WD~Gulf_of_Guinea,41430]]'
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~Central_Africa,27433]]'
+- '[[_Standards/WikiData/WD~equator,23538|WD~equator,23538]]'
+- '[[_Standards/WikiData/WD~Gulf_of_Guinea,41430|WD~Gulf_of_Guinea,41430]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Central_Africa,27433|WD~Central_Africa,27433]]'
 part_of:
-- '[[_Standards/WikiData/WD~Central_Africa,27433]]'
-- '[[_Standards/WikiData/WD~Spanish_Empire,80702]]'
-- '[[_Standards/WikiData/WD~Portuguese_Empire,200464]]'
-- '[[_Standards/WikiData/WD~Portuguese-speaking_African_countries,1360686]]'
-- '[[_Standards/WikiData/WD~European_colonies_in_Africa,90696277]]'
-continent: '[[_Standards/WikiData/WD~Africa,15]]'
+- '[[_Standards/WikiData/WD~Central_Africa,27433|WD~Central_Africa,27433]]'
+- '[[_Standards/WikiData/WD~Spanish_Empire,80702|WD~Spanish_Empire,80702]]'
+- '[[_Standards/WikiData/WD~Portuguese_Empire,200464|WD~Portuguese_Empire,200464]]'
+- '[[_Standards/WikiData/WD~Portuguese-speaking_African_countries,1360686|WD~Portuguese-speaking_African_countries,1360686]]'
+- '[[_Standards/WikiData/WD~European_colonies_in_Africa,90696277|WD~European_colonies_in_Africa,90696277]]'
+continent: '[[_Standards/WikiData/WD~Africa,15|WD~Africa,15]]'
 diplomatic_relation:
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~Spain,29]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Brazil,155]]'
-- '[[_Standards/WikiData/WD~Russia,159]]'
-- '[[_Standards/WikiData/WD~Germany,183]]'
-- '[[_Standards/WikiData/WD~Georgia,230]]'
-- '[[_Standards/WikiData/WD~North_Korea,423]]'
-- '[[_Standards/WikiData/WD~Taiwan,865]]'
-lowest_point: '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
-located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Spain,29|WD~Spain,29]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Brazil,155|WD~Brazil,155]]'
+- '[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Georgia,230|WD~Georgia,230]]'
+- '[[_Standards/WikiData/WD~North_Korea,423|WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]'
+lowest_point: '[[_Standards/WikiData/WD~Atlantic_Ocean,97|WD~Atlantic_Ocean,97]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Atlantic_Ocean,97|WD~Atlantic_Ocean,97]]'
 unemployment_rate: 8
 marriageable_age: 12
 VAT_rate: 15
@@ -669,7 +669,7 @@ suicide_rate:
 - 16.5
 - 16.7
 Democracy_Index: 1.92
-top_level_Internet_domain: '[[_Standards/WikiData/WD~.gq,41460]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.gq,41460|WD~.gq,41460]]'
 BTI_Status_Index:
 - 2.97
 - 3.02
@@ -677,7 +677,7 @@ BTI_Governance_Index:
 - 3.33
 - 3.41
 Human_Development_Index: 0.596
-head_of_state: '[[_Standards/WikiData/WD~Teodoro_Obiang,57385]]'
+head_of_state: '[[_Standards/WikiData/WD~Teodoro_Obiang,57385|WD~Teodoro_Obiang,57385]]'
 maritime_identification_digits: 631
 total_fertility_rate: 4.835
 mobile_country_code: 627
@@ -760,45 +760,45 @@ short_name:
 - "\U0001F1EC\U0001F1F6"
 coordinates_of_southernmost_point: Point(5.64233 -1.47368)
 coordinates_of_northernmost_point: Point(8.72 3.78)
-flag: '[[_Standards/WikiData/WD~flag_of_Equatorial_Guinea,170554]]'
-central_bank: '[[_Standards/WikiData/WD~Bank_of_Central_African_States,189972]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Equatorial_Guinea,170554|WD~flag_of_Equatorial_Guinea,170554]]'
+central_bank: '[[_Standards/WikiData/WD~Bank_of_Central_African_States,189972|WD~Bank_of_Central_African_States,189972]]'
 contains_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Litoral,203873]]'
-- '[[_Standards/WikiData/WD~Bioko_Sur,845817]]'
-- '[[_Standards/WikiData/WD~Centro_Sur,845823]]'
-- '[[_Standards/WikiData/WD~Bioko_Norte,845834]]'
-- '[[_Standards/WikiData/WD~Kie-ntem,853393]]'
-- '[[_Standards/WikiData/WD~Wele-Nzas,853400]]'
-- '[[_Standards/WikiData/WD~Annobón_Province,3736616]]'
-- '[[_Standards/WikiData/WD~Djibloho,28814758]]'
-coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Equatorial_Guinea,207533]]'
-demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Equatorial_Guinea,518433]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_Equatorial_Guinea,750817]]'
-anthem: '[[_Standards/WikiData/WD~Caminemos_pisando_las_sendas_de_nuestra_inmensa_felicidad,837310]]'
-replaces: '[[_Standards/WikiData/WD~Spanish_Guinea,1232509]]'
+- '[[_Standards/WikiData/WD~Litoral,203873|WD~Litoral,203873]]'
+- '[[_Standards/WikiData/WD~Bioko_Sur,845817|WD~Bioko_Sur,845817]]'
+- '[[_Standards/WikiData/WD~Centro_Sur,845823|WD~Centro_Sur,845823]]'
+- '[[_Standards/WikiData/WD~Bioko_Norte,845834|WD~Bioko_Norte,845834]]'
+- '[[_Standards/WikiData/WD~Kie-ntem,853393|WD~Kie-ntem,853393]]'
+- '[[_Standards/WikiData/WD~Wele-Nzas,853400|WD~Wele-Nzas,853400]]'
+- '[[_Standards/WikiData/WD~Annobón_Province,3736616|WD~Annobón_Province,3736616]]'
+- '[[_Standards/WikiData/WD~Djibloho,28814758|WD~Djibloho,28814758]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Equatorial_Guinea,207533|WD~coat_of_arms_of_Equatorial_Guinea,207533]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Equatorial_Guinea,518433|WD~demographics_of_Equatorial_Guinea,518433]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Equatorial_Guinea,750817|WD~history_of_Equatorial_Guinea,750817]]'
+anthem: '[[_Standards/WikiData/WD~Caminemos_pisando_las_sendas_de_nuestra_inmensa_felicidad,837310|WD~Caminemos_pisando_las_sendas_de_nuestra_inmensa_felicidad,837310]]'
+replaces: '[[_Standards/WikiData/WD~Spanish_Guinea,1232509|WD~Spanish_Guinea,1232509]]'
 electrical_plug_type:
-- '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- '[[_Standards/WikiData/WD~Type_E,2335536]]'
-highest_point: '[[_Standards/WikiData/WD~Pico_Basilé,1518286]]'
-geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Equatorial_Guinea,2309623]]'
-office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Equatorial_Guinea,2351213]]'
+- '[[_Standards/WikiData/WD~Europlug,1378312|WD~Europlug,1378312]]'
+- '[[_Standards/WikiData/WD~Type_E,2335536|WD~Type_E,2335536]]'
+highest_point: '[[_Standards/WikiData/WD~Pico_Basilé,1518286|WD~Pico_Basilé,1518286]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Equatorial_Guinea,2309623|WD~geography_of_Equatorial_Guinea,2309623]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Equatorial_Guinea,2351213|WD~Prime_Minister_of_Equatorial_Guinea,2351213]]'
 emergency_phone_number:
-- '[[_Standards/WikiData/WD~114,2945964]]'
-- '[[_Standards/WikiData/WD~113,25648804]]'
-- '[[_Standards/WikiData/WD~115,25648805]]'
-culture: '[[_Standards/WikiData/WD~culture_of_Equatorial_Guinea,3007274]]'
-economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Equatorial_Guinea,3085106]]'
-instance_of: '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
-has_cabinet: '[[_Standards/WikiData/WD~Equatorial_Guinea_Council_of_Ministers,5384256]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Equatorial_Guinea,7112252]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Equatorial_Guinea,11309405]]'
-driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-legislative_body: '[[_Standards/WikiData/WD~Parliament_of_Equatorial_Guinea,16878152]]'
-office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Equatorial_Guinea,19058522]]'
-executive_body: '[[_Standards/WikiData/WD~Government_of_Equatorial_Guinea,30261839]]'
-has_characteristic: '[[_Standards/WikiData/WD~not-free_country,47185282]]'
-motto: '[[_Standards/WikiData/WD~Unity,_Peace,_Justice,102185452]]'
-head_of_government: '[[_Standards/WikiData/WD~Manuela_Roka,112175210]]'
+- '[[_Standards/WikiData/WD~114,2945964|WD~114,2945964]]'
+- '[[_Standards/WikiData/WD~113,25648804|WD~113,25648804]]'
+- '[[_Standards/WikiData/WD~115,25648805|WD~115,25648805]]'
+culture: '[[_Standards/WikiData/WD~culture_of_Equatorial_Guinea,3007274|WD~culture_of_Equatorial_Guinea,3007274]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Equatorial_Guinea,3085106|WD~economy_of_Equatorial_Guinea,3085106]]'
+instance_of: '[[_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]'
+has_cabinet: '[[_Standards/WikiData/WD~Equatorial_Guinea_Council_of_Ministers,5384256|WD~Equatorial_Guinea_Council_of_Ministers,5384256]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Equatorial_Guinea,7112252|WD~outline_of_Equatorial_Guinea,7112252]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Equatorial_Guinea,11309405|WD~Portal_Equatorial_Guinea,11309405]]'
+driving_side: '[[_Standards/WikiData/WD~right,14565199|WD~right,14565199]]'
+legislative_body: '[[_Standards/WikiData/WD~Parliament_of_Equatorial_Guinea,16878152|WD~Parliament_of_Equatorial_Guinea,16878152]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Equatorial_Guinea,19058522|WD~President_of_Equatorial_Guinea,19058522]]'
+executive_body: '[[_Standards/WikiData/WD~Government_of_Equatorial_Guinea,30261839|WD~Government_of_Equatorial_Guinea,30261839]]'
+has_characteristic: '[[_Standards/WikiData/WD~not-free_country,47185282|WD~not-free_country,47185282]]'
+motto: '[[_Standards/WikiData/WD~Unity,_Peace,_Justice,102185452|WD~Unity,_Peace,_Justice,102185452]]'
+head_of_government: '[[_Standards/WikiData/WD~Manuela_Roka,112175210|WD~Manuela_Roka,112175210]]'
 nominal_GDP:
 - 12269393392
 - 11813908448
@@ -806,11 +806,11 @@ MeSH_tree_code: Z01.058.290.100.300
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Equatorialguinea%20w1%20locator.svg
 coordinates_of_westernmost_point: Point(5.6168 -1.41361)
 coordinate_location: Point(10.0 1.5)
-country: '[[_Standards/WikiData/WD~Equatorial_Guinea,983]]'
+country: '[[_Standards/WikiData/WD~Equatorial_Guinea,983|WD~Equatorial_Guinea,983]]'
 shares_border_with:
-- '[[_Standards/WikiData/WD~Gabon,1000]]'
-- '[[_Standards/WikiData/WD~Cameroon,1009]]'
-different_from: '[[_Standards/WikiData/WD~Guinea,1006]]'
+- '[[_Standards/WikiData/WD~Gabon,1000|WD~Gabon,1000]]'
+- '[[_Standards/WikiData/WD~Cameroon,1009|WD~Cameroon,1009]]'
+different_from: '[[_Standards/WikiData/WD~Guinea,1006|WD~Guinea,1006]]'
 rural_population:
 - 425111
 - 429337
@@ -932,7 +932,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Equatorial_Guinea/ReadMe]] 
+[[Equatorial_Guinea/ReadMe|ReadMe]] 
 
 ## #has_/map 
 
@@ -958,7 +958,7 @@ Capital = `=this.dv_Capital`
 
 ![[Coat_of_arms_of_Guinea.svg|350]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Guinea.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Guinea.mp3|Anthem-Guinea.mp3]]
 
 ![[Flag_of_Guinea.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`

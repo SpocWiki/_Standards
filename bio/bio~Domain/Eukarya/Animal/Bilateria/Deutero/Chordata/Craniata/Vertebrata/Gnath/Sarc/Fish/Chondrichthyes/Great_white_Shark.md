@@ -182,18 +182,18 @@ taxon_common_name:
 short_name: C. carcharias
 start_time: -16000000-06
 taxon_range:
-- '[[_Standards/WikiData/WD~Gulf_of_California,132811]]'
-- '[[_Standards/WikiData/WD~Indian_Ocean,1239]]'
-- '[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]'
-- '[[_Standards/WikiData/WD~Gulf_of_Mexico,12630]]'
-- '[[_Standards/WikiData/WD~Pacific_Ocean,98]]'
-- '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
-IUCN_conservation_status: '[[_Standards/WikiData/WD~Vulnerable,278113]]'
-CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_II_of_CITES,2851527]]'
-original_combination: '[[_Standards/WikiData/WD~Squalus_carcharias,48410245]]'
-NZTCS_conservation_status: '[[_Standards/WikiData/WD~nationally_endangered,108449541]]'
-taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~Gulf_of_California,132811|WD~Gulf_of_California,132811]]'
+- '[[_Standards/WikiData/WD~Indian_Ocean,1239|WD~Indian_Ocean,1239]]'
+- '[[_Standards/WikiData/WD~Mediterranean_Sea,4918|WD~Mediterranean_Sea,4918]]'
+- '[[_Standards/WikiData/WD~Gulf_of_Mexico,12630|WD~Gulf_of_Mexico,12630]]'
+- '[[_Standards/WikiData/WD~Pacific_Ocean,98|WD~Pacific_Ocean,98]]'
+- '[[_Standards/WikiData/WD~Atlantic_Ocean,97|WD~Atlantic_Ocean,97]]'
+IUCN_conservation_status: '[[_Standards/WikiData/WD~Vulnerable,278113|WD~Vulnerable,278113]]'
+CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_II_of_CITES,2851527|WD~Appendix_II_of_CITES,2851527]]'
+original_combination: '[[_Standards/WikiData/WD~Squalus_carcharias,48410245|WD~Squalus_carcharias,48410245]]'
+NZTCS_conservation_status: '[[_Standards/WikiData/WD~nationally_endangered,108449541|WD~nationally_endangered,108449541]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432|WD~species,7432]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 gestation_period: 18
 mass: 2400
 life_expectancy: 73

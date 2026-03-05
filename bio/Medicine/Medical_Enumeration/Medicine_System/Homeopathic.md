@@ -65,20 +65,20 @@ aliases:
 - 顺势疗法
 - 동종요법
 has_id_wikidata: Q81058
-founded_by: '[[_Standards/WikiData/WD~Samuel_Hahnemann,157056]]'
-subclass_of: '[[_Standards/WikiData/WD~alternative_medicine,188504]]'
+founded_by: '[[_Standards/WikiData/WD~Samuel_Hahnemann,157056|WD~Samuel_Hahnemann,157056]]'
+subclass_of: '[[_Standards/WikiData/WD~alternative_medicine,188504|WD~alternative_medicine,188504]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclop�dia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclop�dia,3181656]]'
-- '[[_Standards/WikiData/WD~The_American_Cyclop�dia,19077875]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Encyclop�dia_Britannica_11th_edition,867541|WD~Encyclop�dia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclop�dia,3181656|WD~The_Nuttall_Encyclop�dia,3181656]]'
+- '[[_Standards/WikiData/WD~The_American_Cyclop�dia,19077875|WD~The_American_Cyclop�dia,19077875]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 instance_of:
-- '[[_Standards/WikiData/WD~parascience,1517851]]'
-- '[[_Standards/WikiData/WD~alternative_medicine,31338769]]'
-- '[[_Standards/WikiData/WD~branch_of_pseudoscience,60031086]]'
-uses: '[[_Standards/WikiData/WD~homeopathic_preparation,1626450]]'
-practiced_by: '[[_Standards/WikiData/WD~homeopath,12020057]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27096430,27096430]]'
+- '[[_Standards/WikiData/WD~parascience,1517851|WD~parascience,1517851]]'
+- '[[_Standards/WikiData/WD~alternative_medicine,31338769|WD~alternative_medicine,31338769]]'
+- '[[_Standards/WikiData/WD~branch_of_pseudoscience,60031086|WD~branch_of_pseudoscience,60031086]]'
+uses: '[[_Standards/WikiData/WD~homeopathic_preparation,1626450|WD~homeopathic_preparation,1626450]]'
+practiced_by: '[[_Standards/WikiData/WD~homeopath,12020057|WD~homeopath,12020057]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27096430,27096430|WD~Q27096430,27096430]]'
 OmegaWiki_Defined_Meaning: 8121
 Colon_Classification: LL
 Commons_category: Homeopathy
@@ -221,9 +221,9 @@ Tag Instances like this:
 
 A system of medicine based on the principle that a disease can be cured by a substance that produces similar symptoms in healthy people.
 
-#has_/parent_class :: [[../MedicineSystem]]  
+#has_/parent_class :: [[../MedicineSystem|MedicineSystem]]  
 
-#is_/enum_of :: [[../MedicineSystem]]  
+#is_/enum_of :: [[../MedicineSystem|MedicineSystem]]  
 
 #is_/same_as :: [[../../../../WikiData/WD~Homeopathy,81058|WD~Homeopathy,81058]]  
 

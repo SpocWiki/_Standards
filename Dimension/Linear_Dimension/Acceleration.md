@@ -159,18 +159,18 @@ defining_formula: >-
     </semantics>
   </math>
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~ISO_80000-3_2006_Quantities_and_units___Part_3__Space_and_time,26711932]]'
-- '[[_Standards/WikiData/WD~ISO_80000-3_2019_Quantities_and_units___Part_3__Space_and_time,90137277]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~ISO_80000-3_2006_Quantities_and_units___Part_3__Space_and_time,26711932|WD~ISO_80000-3_2006_Quantities_and_units___Part_3__Space_and_time,26711932]]'
+- '[[_Standards/WikiData/WD~ISO_80000-3_2019_Quantities_and_units___Part_3__Space_and_time,90137277|WD~ISO_80000-3_2019_Quantities_and_units___Part_3__Space_and_time,90137277]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 different_from:
-- '[[_Standards/WikiData/WD~acceleration,28458703]]'
+- '[[_Standards/WikiData/WD~acceleration,28458703|WD~acceleration,28458703]]'
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Pierre_Varignon,379219]]'
-disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-followed_by: '[[_Standards/WikiData/WD~jerk,497332]]'
-follows: '[[_Standards/WikiData/WD~velocity,11465]]'
+- '[[_Standards/WikiData/WD~Pierre_Varignon,379219|WD~Pierre_Varignon,379219]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
+followed_by: '[[_Standards/WikiData/WD~jerk,497332|WD~jerk,497332]]'
+follows: '[[_Standards/WikiData/WD~velocity,11465|WD~velocity,11465]]'
 IEV_number: 113-01-38
 in_defining_formula:
 - >-
@@ -236,11 +236,11 @@ ISQ_dimension: >-
       <annotation encoding="application/x-tex">{\displaystyle {\mathsf {L}}{\mathsf {T}}^{-2}}</annotation>
     </semantics>
   </math>
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 MeSH_tree_code:
 - G01.482.107
 OmegaWiki_Defined_Meaning: 672065
-permanent_duplicated_item: '[[_Standards/WikiData/WD~acceleration,22827994]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~acceleration,22827994|WD~acceleration,22827994]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%A4%E0%A7%8D%E0%A6%AC%E0%A6%B0%E0%A6%A3.wav
 quantity_symbol_LaTeX_:
 - >-
@@ -257,13 +257,13 @@ quantity_symbol_LaTeX_:
     </semantics>
   </math>
 recommended_unit_of_measurement:
-- '[[_Standards/WikiData/WD~metres_per_second_squared,1051665]]'
+- '[[_Standards/WikiData/WD~metres_per_second_squared,1051665|WD~metres_per_second_squared,1051665]]'
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Acceleration%20components.JPG
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/acceleration
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~vector_quantity,2672914]]'
-- '[[_Standards/WikiData/WD~ISQ_derived_quantity,30337763]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~vector_quantity,2672914|WD~vector_quantity,2672914]]'
+- '[[_Standards/WikiData/WD~ISQ_derived_quantity,30337763|WD~ISQ_derived_quantity,30337763]]'
 UMLS_CUI: C0000894
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Gravity%20gravita%20grave.gif
 dv_has_:
@@ -427,10 +427,10 @@ dv_has_:
 
 # [[Acceleration]] 
 
-#is_/same_as :: [[../../WikiData/WD~Acceleration,11376]] 
+#is_/same_as :: [[../../WikiData/WD~Acceleration,11376|WD~Acceleration,11376]] 
 
 [[Acceleration]] is the Speed is the second Derivative 
-of the [[../../Mathematics/Geometry/Position-Vector|Position-Vector]] by [[../Dim~Time]]. 
+of the [[../../Mathematics/Geometry/Position-Vector|Position-Vector]] by [[../Dim~Time|Dim~Time]]. 
 
 
 ## #has_/text_of_/abstract 

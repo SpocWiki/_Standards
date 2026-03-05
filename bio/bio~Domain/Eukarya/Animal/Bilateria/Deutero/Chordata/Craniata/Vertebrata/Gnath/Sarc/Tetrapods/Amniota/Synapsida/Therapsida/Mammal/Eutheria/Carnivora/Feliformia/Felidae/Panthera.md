@@ -66,20 +66,20 @@ aliases:
 - 豹屬
 - 표범속
 has_id_wikidata: Q127960
-different_from: '[[_Standards/WikiData/WD~Pantera,180880]]'
-parent_taxon: '[[_Standards/WikiData/WD~Pantherinae,230177]]'
-produced_sound: '[[_Standards/WikiData/WD~roar,3177438]]'
+different_from: '[[_Standards/WikiData/WD~Pantera,180880|WD~Pantera,180880]]'
+parent_taxon: '[[_Standards/WikiData/WD~Pantherinae,230177|WD~Pantherinae,230177]]'
+produced_sound: '[[_Standards/WikiData/WD~roar,3177438|WD~roar,3177438]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~big_cat,6667323]]'
+- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878|WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~big_cat,6667323|WD~big_cat,6667323]]'
 taxon_synonym:
-- '[[_Standards/WikiData/WD~Leo,41154920]]'
-- '[[_Standards/WikiData/WD~Tigris,122602504]]'
-depicted_by: '[[_Standards/WikiData/WD~Fighting_between_griffin_and_panther,_Lucanian_fresco_(Paestum),131613656]]'
+- '[[_Standards/WikiData/WD~Leo,41154920|WD~Leo,41154920]]'
+- '[[_Standards/WikiData/WD~Tigris,122602504|WD~Tigris,122602504]]'
+depicted_by: '[[_Standards/WikiData/WD~Fighting_between_griffin_and_panther,_Lucanian_fresco_(Paestum),131613656|WD~Fighting_between_griffin_and_panther,_Lucanian_fresco_(Paestum),131613656]]'
 start_time: -5950000-01-01T00:00:00Z
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
 ITIS_TSN: 180592
 OmegaWiki_Defined_Meaning: 1415017
 taxon_common_name:

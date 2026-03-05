@@ -121,30 +121,30 @@ aliases:
 - 손발톱
 has_id_wikidata: Q36864
 part_of:
-- '[[_Standards/WikiData/WD~toe,154425]]'
-- '[[_Standards/WikiData/WD~digit,34583]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~claw,217605]]'
+- '[[_Standards/WikiData/WD~toe,154425|WD~toe,154425]]'
+- '[[_Standards/WikiData/WD~digit,34583|WD~digit,34583]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~claw,217605|WD~claw,217605]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 has_use:
-- '[[_Standards/WikiData/WD~attack,1174599]]'
-- '[[_Standards/WikiData/WD~protection,2251595]]'
-- '[[_Standards/WikiData/WD~scratching,125100403]]'
+- '[[_Standards/WikiData/WD~attack,1174599|WD~attack,1174599]]'
+- '[[_Standards/WikiData/WD~protection,2251595|WD~protection,2251595]]'
+- '[[_Standards/WikiData/WD~scratching,125100403|WD~scratching,125100403]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~finger_organs,16581540]]'
-- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]'
+- '[[_Standards/WikiData/WD~finger_organs,16581540|WD~finger_organs,16581540]]'
+- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975|WD~particular_anatomical_entity,112826975]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~fingernail,26233777]]'
-- '[[_Standards/WikiData/WD~toenail,66544193]]'
-different_from: '[[_Standards/WikiData/WD~Uña,65924765]]'
+- '[[_Standards/WikiData/WD~fingernail,26233777|WD~fingernail,26233777]]'
+- '[[_Standards/WikiData/WD~toenail,66544193|WD~toenail,66544193]]'
+different_from: '[[_Standards/WikiData/WD~Uña,65924765|WD~Uña,65924765]]'
 instance_of:
-- '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]'
-- '[[_Standards/WikiData/WD~skin_type,113457518]]'
+- '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905|WD~class_of_anatomical_entity,112826905]]'
+- '[[_Standards/WikiData/WD~skin_type,113457518|WD~skin_type,113457518]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Fingernails2.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Toes.jpg

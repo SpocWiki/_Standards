@@ -105,24 +105,24 @@ aliases:
 - 공포
 has_id_wikidata: Q44619
 subclass_of:
-- '[[_Standards/WikiData/WD~anxiety,154430]]'
-- '[[_Standards/WikiData/WD~basic_emotion,16748867]]'
+- '[[_Standards/WikiData/WD~anxiety,154430|WD~anxiety,154430]]'
+- '[[_Standards/WikiData/WD~basic_emotion,16748867|WD~basic_emotion,16748867]]'
 has_cause:
-- '[[_Standards/WikiData/WD~phobia,175854]]'
-- '[[_Standards/WikiData/WD~intimidation,3858303]]'
-- '[[_Standards/WikiData/WD~danger,13582404]]'
-opposite_of: '[[_Standards/WikiData/WD~boldness,362547]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~angst,1522565]]'
+- '[[_Standards/WikiData/WD~phobia,175854|WD~phobia,175854]]'
+- '[[_Standards/WikiData/WD~intimidation,3858303|WD~intimidation,3858303]]'
+- '[[_Standards/WikiData/WD~danger,13582404|WD~danger,13582404]]'
+opposite_of: '[[_Standards/WikiData/WD~boldness,362547|WD~boldness,362547]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~angst,1522565|WD~angst,1522565]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-facet_of: '[[_Standards/WikiData/WD~theory_of_emotion,9357054]]'
-has_effect: '[[_Standards/WikiData/WD~epinephrine_binding,14916351]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~dread,21261621]]'
-instance_of: '[[_Standards/WikiData/WD~negative_emotion,60539481]]'
-different_from: '[[_Standards/WikiData/WD~Pelko,60879978]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624|WD~Lean_Logic,101314624]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+facet_of: '[[_Standards/WikiData/WD~theory_of_emotion,9357054|WD~theory_of_emotion,9357054]]'
+has_effect: '[[_Standards/WikiData/WD~epinephrine_binding,14916351|WD~epinephrine_binding,14916351]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~dread,21261621|WD~dread,21261621]]'
+instance_of: '[[_Standards/WikiData/WD~negative_emotion,60539481|WD~negative_emotion,60539481]]'
+different_from: '[[_Standards/WikiData/WD~Pelko,60879978|WD~Pelko,60879978]]'
 IMDb_keyword: fear
 subreddit: fear
 Archive_of_Our_Own_tag: Fear

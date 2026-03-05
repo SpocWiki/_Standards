@@ -11,8 +11,8 @@ aliases:
 - 暴龙亚科
 - 티라노사우루스아과
 has_id_wikidata: Q2073980
-taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280]]'
-instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290]]'
+taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280|WD~subfamily,164280]]'
+instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290|WD~fossil_taxon,23038290]]'
 Commons_category: Tyrannosaurinae
 taxon_name: Tyrannosaurinae
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tyranosaurus%20Rex%2028-12-2007%2015-01-16.jpg
@@ -55,7 +55,7 @@ dv_has_:
 
 # [[Tyrannosaurinae]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Tyrannosaurinae,2073980]] 
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Tyrannosaurinae,2073980|WD~Tyrannosaurinae,2073980]] 
 
 ## #has_/text_of_/abstract 
 

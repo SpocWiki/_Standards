@@ -35,20 +35,20 @@ aliases:
 - 석류나무속
 has_id_wikidata: Q4959355
 parent_taxon:
-- '[[../../../../../../../../../../../../WikiData/WD~Lythraceae,156022]]'
-- '[[_Standards/WikiData/WD~Punicaceae,1446177]]'
+- '[[../../../../../../../../../../../../WikiData/WD~Lythraceae,156022|WD~Lythraceae,156022]]'
+- '[[_Standards/WikiData/WD~Punicaceae,1446177|WD~Punicaceae,1446177]]'
 described_by_source:
-- '[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_52(2),112869447]]'
-taxon_synonym: '[[_Standards/WikiData/WD~Granatum,16746700]]'
-subclass_of: '[[_Standards/WikiData/WD~tree,10884]]'
-has_fruit_type: '[[_Standards/WikiData/WD~berry,13184]]'
-taxonomic_type: '[[_Standards/WikiData/WD~pomegranate,13188]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+- '[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_52(2),112869447|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_52(2),112869447]]'
+taxon_synonym: '[[_Standards/WikiData/WD~Granatum,16746700|WD~Granatum,16746700]]'
+subclass_of: '[[_Standards/WikiData/WD~tree,10884|WD~tree,10884]]'
+has_fruit_type: '[[_Standards/WikiData/WD~berry,13184|WD~berry,13184]]'
+taxonomic_type: '[[_Standards/WikiData/WD~pomegranate,13188|WD~pomegranate,13188]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
 ITIS_TSN: 27277
 taxon_common_name:
 - pomegranate

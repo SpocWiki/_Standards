@@ -115,25 +115,25 @@ aliases:
 has_id_wikidata: Q35409
 Commons_category: Family (biology)
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 different_from:
-- '[[_Standards/WikiData/WD~group,83306]]'
-- '[[_Standards/WikiData/WD~Rodina,2161157]]'
-- '[[_Standards/WikiData/WD~gene_family,2278983]]'
-- '[[_Standards/WikiData/WD~ichnofamily,115227428]]'
-- '[[_Standards/WikiData/WD~oofamily,125838324]]'
-- '[[_Standards/WikiData/WD~family,8436]]'
+- '[[_Standards/WikiData/WD~group,83306|WD~group,83306]]'
+- '[[_Standards/WikiData/WD~Rodina,2161157|WD~Rodina,2161157]]'
+- '[[_Standards/WikiData/WD~gene_family,2278983|WD~gene_family,2278983]]'
+- '[[_Standards/WikiData/WD~ichnofamily,115227428|WD~ichnofamily,115227428]]'
+- '[[_Standards/WikiData/WD~oofamily,125838324|WD~oofamily,125838324]]'
+- '[[_Standards/WikiData/WD~family,8436|WD~family,8436]]'
 instance_of:
-- '[[_Standards/WikiData/WD~taxonomic_rank,427626]]'
-- '[[_Standards/WikiData/WD~rank_in_botany,3100180]]'
-- '[[_Standards/WikiData/WD~rank_in_zoology,13578154]]'
+- '[[_Standards/WikiData/WD~taxonomic_rank,427626|WD~taxonomic_rank,427626]]'
+- '[[_Standards/WikiData/WD~rank_in_botany,3100180|WD~rank_in_botany,3100180]]'
+- '[[_Standards/WikiData/WD~rank_in_zoology,13578154|WD~rank_in_zoology,13578154]]'
 OmegaWiki_Defined_Meaning: 347856
 part_of:
-- '[[_Standards/WikiData/WD~suborder,5867959]]'
-- '[[_Standards/WikiData/WD~group,9281160]]'
-- '[[_Standards/WikiData/WD~epifamily,10296147]]'
-- '[[_Standards/WikiData/WD~order,36602]]'
+- '[[_Standards/WikiData/WD~suborder,5867959|WD~suborder,5867959]]'
+- '[[_Standards/WikiData/WD~group,9281160|WD~group,9281160]]'
+- '[[_Standards/WikiData/WD~epifamily,10296147|WD~epifamily,10296147]]'
+- '[[_Standards/WikiData/WD~order,36602|WD~order,36602]]'
 dv_has_:
   name_:
     af: familie
@@ -300,8 +300,8 @@ dv_has_:
 #is_a :: [[Taxon_Rank]] 
 
 #is_/same_as :: [[../../../../../../../WikiData/WD~Family,35409|WD~Family,35409]]  
-#has_/previous_/item :: [[../bio~Order]]  
-#has_/next_/item :: [[bio~Family/bio~Genus]]  
+#has_/previous_/item :: [[../bio~Order|bio~Order]]  
+#has_/next_/item :: [[bio~Family/bio~Genus|bio~Genus]]  
 
 ## #has_/text_of_/abstract 
 

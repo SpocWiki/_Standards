@@ -307,7 +307,7 @@ aliases:
 
 # [[Force]] 
 
-#is_/similar_to :: [[../Angular_Dimension/Torque]]  
+#is_/similar_to :: [[../Angular_Dimension/Torque|Torque]]  
 
 The SI-Unit is [[../Unit_of_Measure/SI-Unit/derived_Unit/Unit~Newton|Unit~Newton]]. 
 

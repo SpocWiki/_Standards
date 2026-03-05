@@ -18,7 +18,7 @@ aliases:
 - ترابط مؤلم
 - 外傷的絆
 has_id_wikidata: Q17143762
-instance_of: '[[_Standards/WikiData/WD~psychological_phenomenon,12047512]]'
+instance_of: '[[_Standards/WikiData/WD~psychological_phenomenon,12047512|WD~psychological_phenomenon,12047512]]'
 dv_has_:
   name_:
     ar: ترابط مؤلم
@@ -43,7 +43,7 @@ dv_has_:
 
 # [[Traumatic_Bonding]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~traumatic_bonding,17143762]] 
+#is_/same_as :: [[_Standards/WikiData/WD~traumatic_bonding,17143762|WD~traumatic_bonding,17143762]] 
 
 ## #has_/text_of_/abstract 
 

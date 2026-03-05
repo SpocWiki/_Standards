@@ -108,32 +108,32 @@ Stack_Exchange_tag: https://biology.stackexchange.com/tags/genetics
 Universal_Decimal_Classification: 575
 U_S_National_Archives_Identifier: 10639210
 UMLS_CUI: C0017398
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_genetics,7112645]]'
-different_from: '[[_Standards/WikiData/WD~genology,3508604]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_genetics,7112645|WD~outline_of_genetics,7112645]]'
+different_from: '[[_Standards/WikiData/WD~genology,3508604|WD~genology,3508604]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 founded_by:
-- '[[_Standards/WikiData/WD~Erich_von_Tschermak,93385]]'
-- '[[_Standards/WikiData/WD~Hugo_de_Vries,160192]]'
-- '[[_Standards/WikiData/WD~Gregor_Mendel,37970]]'
-- '[[_Standards/WikiData/WD~Carl_Correns,62096]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_genetics,465920]]'
+- '[[_Standards/WikiData/WD~Erich_von_Tschermak,93385|WD~Erich_von_Tschermak,93385]]'
+- '[[_Standards/WikiData/WD~Hugo_de_Vries,160192|WD~Hugo_de_Vries,160192]]'
+- '[[_Standards/WikiData/WD~Gregor_Mendel,37970|WD~Gregor_Mendel,37970]]'
+- '[[_Standards/WikiData/WD~Carl_Correns,62096|WD~Carl_Correns,62096]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_genetics,465920|WD~history_of_genetics,465920]]'
 instance_of:
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~branch_of_biology,28598684]]'
-- '[[_Standards/WikiData/WD~science,336]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~branch_of_biology,28598684|WD~branch_of_biology,28598684]]'
+- '[[_Standards/WikiData/WD~science,336|WD~science,336]]'
 inception: 1900-01-01T00:00:00Z
-is_the_study_of: '[[_Standards/WikiData/WD~genome,7020]]'
+is_the_study_of: '[[_Standards/WikiData/WD~genome,7020|WD~genome,7020]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gene.png
-practiced_by: '[[_Standards/WikiData/WD~geneticist,3126128]]'
-part_of: '[[_Standards/WikiData/WD~biology,420]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~introduction_to_genetics,3243680]]'
-subclass_of: '[[_Standards/WikiData/WD~biology,420]]'
+practiced_by: '[[_Standards/WikiData/WD~geneticist,3126128|WD~geneticist,3126128]]'
+part_of: '[[_Standards/WikiData/WD~biology,420|WD~biology,420]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~introduction_to_genetics,3243680|WD~introduction_to_genetics,3243680]]'
+subclass_of: '[[_Standards/WikiData/WD~biology,420|WD~biology,420]]'
 social_media_followers: 87661
 subreddit: genetics
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Genetics,6339146]]'
-- '[[_Standards/WikiData/WD~Template_Genetics_sidebar,12269758]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Genetics,11046531]]'
+- '[[_Standards/WikiData/WD~Template_Genetics,6339146|WD~Template_Genetics,6339146]]'
+- '[[_Standards/WikiData/WD~Template_Genetics_sidebar,12269758|WD~Template_Genetics_sidebar,12269758]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Genetics,11046531|WD~Portal_Genetics,11046531]]'
 dv_has_:
   name_:
     af: Genetika

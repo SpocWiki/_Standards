@@ -53,14 +53,14 @@ aliases:
 - 칼로리
 has_id_wikidata: Q130964
 instance_of:
-- '[[_Standards/WikiData/WD~unit_of_energy,2916980]]'
-- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
+- '[[_Standards/WikiData/WD~unit_of_energy,2916980|WD~unit_of_energy,2916980]]'
+- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057|WD~UCUM_derived_unit,82047057]]'
 different_from:
-- '[[_Standards/WikiData/WD~kilocalorie,25668616]]'
-- '[[_Standards/WikiData/WD~calorie,87260855]]'
-- '[[_Standards/WikiData/WD~mean_calorie,93811434]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-measured_physical_quantity: '[[_Standards/WikiData/WD~energy,11379]]'
+- '[[_Standards/WikiData/WD~kilocalorie,25668616|WD~kilocalorie,25668616]]'
+- '[[_Standards/WikiData/WD~calorie,87260855|WD~calorie,87260855]]'
+- '[[_Standards/WikiData/WD~mean_calorie,93811434|WD~mean_calorie,93811434]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+measured_physical_quantity: '[[_Standards/WikiData/WD~energy,11379|WD~energy,11379]]'
 conversion_to_SI_unit: 4.184
 UCUM_code:
 - cal

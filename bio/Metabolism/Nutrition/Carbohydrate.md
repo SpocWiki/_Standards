@@ -125,42 +125,42 @@ has_id_wikidata: Q11358
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Wie%20werden%20Kohlenhydrate%20verstoffwechselt.webm
 Dewey_Decimal_Classification: 572.56
 subclass_of:
-- '[[_Standards/WikiData/WD~polyol,415812]]'
-- '[[_Standards/WikiData/WD~carbohydrate_derivative,64698788]]'
+- '[[_Standards/WikiData/WD~polyol,415812|WD~polyol,415812]]'
+- '[[_Standards/WikiData/WD~carbohydrate_derivative,64698788|WD~carbohydrate_derivative,64698788]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 part_of:
-- '[[_Standards/WikiData/WD~carbohydrate_metabolic_process,2734081]]'
-- '[[_Standards/WikiData/WD~carbohydrate_binding,14633866]]'
-- '[[_Standards/WikiData/WD~carbohydrate_transport,14887311]]'
-- '[[_Standards/WikiData/WD~response_to_carbohydrate,14890579]]'
-- '[[_Standards/WikiData/WD~cellular_response_to_carbohydrate_stimulus,14912641]]'
-- '[[_Standards/WikiData/WD~carbohydrate_biosynthetic_process,21102359]]'
-- '[[_Standards/WikiData/WD~carbohydrate_proton_symporter_activity,21106264]]'
-- '[[_Standards/WikiData/WD~carbohydrate_transmembrane_transport,21121265]]'
-- '[[_Standards/WikiData/WD~carbohydrate_homeostasis,21122289]]'
-- '[[_Standards/WikiData/WD~carbohydrate_catabolic_process,21151801]]'
-- '[[_Standards/WikiData/WD~carbohydrate_export,22290444]]'
-- '[[_Standards/WikiData/WD~carbohydrate_import_across_plasma_membrane,22291667]]'
-- '[[_Standards/WikiData/WD~carbohydrate_transmembrane_transporter_activity,22320699]]'
-- '[[_Standards/WikiData/WD~ABC_type_carbohydrate_transporter_activity,22320700]]'
-- '[[_Standards/WikiData/WD~carbohydrate_cation_symporter_activity,22324692]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Carbohydrates,6863216]]'
+- '[[_Standards/WikiData/WD~carbohydrate_metabolic_process,2734081|WD~carbohydrate_metabolic_process,2734081]]'
+- '[[_Standards/WikiData/WD~carbohydrate_binding,14633866|WD~carbohydrate_binding,14633866]]'
+- '[[_Standards/WikiData/WD~carbohydrate_transport,14887311|WD~carbohydrate_transport,14887311]]'
+- '[[_Standards/WikiData/WD~response_to_carbohydrate,14890579|WD~response_to_carbohydrate,14890579]]'
+- '[[_Standards/WikiData/WD~cellular_response_to_carbohydrate_stimulus,14912641|WD~cellular_response_to_carbohydrate_stimulus,14912641]]'
+- '[[_Standards/WikiData/WD~carbohydrate_biosynthetic_process,21102359|WD~carbohydrate_biosynthetic_process,21102359]]'
+- '[[_Standards/WikiData/WD~carbohydrate_proton_symporter_activity,21106264|WD~carbohydrate_proton_symporter_activity,21106264]]'
+- '[[_Standards/WikiData/WD~carbohydrate_transmembrane_transport,21121265|WD~carbohydrate_transmembrane_transport,21121265]]'
+- '[[_Standards/WikiData/WD~carbohydrate_homeostasis,21122289|WD~carbohydrate_homeostasis,21122289]]'
+- '[[_Standards/WikiData/WD~carbohydrate_catabolic_process,21151801|WD~carbohydrate_catabolic_process,21151801]]'
+- '[[_Standards/WikiData/WD~carbohydrate_export,22290444|WD~carbohydrate_export,22290444]]'
+- '[[_Standards/WikiData/WD~carbohydrate_import_across_plasma_membrane,22291667|WD~carbohydrate_import_across_plasma_membrane,22291667]]'
+- '[[_Standards/WikiData/WD~carbohydrate_transmembrane_transporter_activity,22320699|WD~carbohydrate_transmembrane_transporter_activity,22320699]]'
+- '[[_Standards/WikiData/WD~ABC_type_carbohydrate_transporter_activity,22320700|WD~ABC_type_carbohydrate_transporter_activity,22320700]]'
+- '[[_Standards/WikiData/WD~carbohydrate_cation_symporter_activity,22324692|WD~carbohydrate_cation_symporter_activity,22324692]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Carbohydrates,6863216|WD~Template_Carbohydrates,6863216]]'
 instance_of:
-- '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
-- '[[_Standards/WikiData/WD~nutrient_group,136908428]]'
+- '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
+- '[[_Standards/WikiData/WD~nutrient_group,136908428|WD~nutrient_group,136908428]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~complex_carbohydrates,136192512]]'
-- '[[_Standards/WikiData/WD~simple_carbohydrates,136192523]]'
+- '[[_Standards/WikiData/WD~complex_carbohydrates,136192512|WD~complex_carbohydrates,136192512]]'
+- '[[_Standards/WikiData/WD~simple_carbohydrates,136192523|WD~simple_carbohydrates,136192523]]'
 different_from:
-- '[[_Standards/WikiData/WD~sugar,11002]]'
-- '[[_Standards/WikiData/WD~hydrocarbon,43648]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~sugar,11002]]'
+- '[[_Standards/WikiData/WD~sugar,11002|WD~sugar,11002]]'
+- '[[_Standards/WikiData/WD~hydrocarbon,43648|WD~hydrocarbon,43648]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~sugar,11002|WD~sugar,11002]]'
 OmegaWiki_Defined_Meaning: 483
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Carbohydrates.jpeg
 Basisklassifikation:
@@ -324,9 +324,9 @@ The different levels of carbohydrates are classified based on their complexity a
 
 | Type             |     Num | Examples                                                                               | Role       | Source         |
 | ---------------- | ------: | -------------------------------------------------------------------------------------- | ---------- | -------------- |
-| Monosaccharides  |       1 | [[Carbohydrate/Monosaccharide/Glucose]], [[Carbohydrate/Monosaccharide/Fructose]]      | Energy     |                |
-| Disaccharides    |       2 | [[Carbohydrate/Disaccharide/Sucrose]], [[Carbohydrate/Disaccharide/Lactose]]           | Energy     |                |
-| Oligosaccharides |    3–10 | [[Carbohydrate/Oligosaccharide/Raffinose]], [[Carbohydrate/Oligosaccharide/Stachyose]] | Prebiotics | Beans, Lentils |
+| Monosaccharides  |       1 | [[Carbohydrate/Monosaccharide/Glucose|Glucose]], [[Carbohydrate/Monosaccharide/Fructose|Fructose]]      | Energy     |                |
+| Disaccharides    |       2 | [[Carbohydrate/Disaccharide/Sucrose|Sucrose]], [[Carbohydrate/Disaccharide/Lactose|Lactose]]           | Energy     |                |
+| Oligosaccharides |    3–10 | [[Carbohydrate/Oligosaccharide/Raffinose|Raffinose]], [[Carbohydrate/Oligosaccharide/Stachyose|Stachyose]] | Prebiotics | Beans, Lentils |
 | Polysaccharides  |      10 | Starch                                                                                 | Storage    |                |
 |                  |   2k-4k | Chitin                                                                                 | Structure  |                |
 |                  | 500-20k | Cellulose                                                                              | Structure  |                |
@@ -357,17 +357,17 @@ The different levels of carbohydrates are classified based on their complexity a
 
 These are the simplest form of carbohydrates, consisting of a single sugar unit. Examples include:
 
-- [[Carbohydrate/Monosaccharide/Glucose]] 
-- [[Carbohydrate/Monosaccharide/Fructose]] 
-- [[Carbohydrate/Monosaccharide/Galactose]] 
+- [[Carbohydrate/Monosaccharide/Glucose|Glucose]] 
+- [[Carbohydrate/Monosaccharide/Fructose|Fructose]] 
+- [[Carbohydrate/Monosaccharide/Galactose|Galactose]] 
 
 ### **Disaccharides**
 
 These are carbohydrates composed of two monosaccharide molecules linked together. Examples include:
 
-- [[Carbohydrate/Sugar]] (glucose + fructose)
-- [[Carbohydrate/Disaccharide/Lactose]] (glucose + galactose)
-- [[Carbohydrate/Disaccharide/Maltose]] (glucose + glucose)
+- [[Carbohydrate/Sugar|Sugar]] (glucose + fructose)
+- [[Carbohydrate/Disaccharide/Lactose|Lactose]] (glucose + galactose)
+- [[Carbohydrate/Disaccharide/Maltose|Maltose]] (glucose + glucose)
 
 
 ## Complex Carbohydrates
@@ -377,8 +377,8 @@ These are carbohydrates composed of two monosaccharide molecules linked together
 These are carbohydrates composed of 3–10 sugar units. 
 They are commonly found in foods such as beans and lentils. Examples include:
 
-- [[Carbohydrate/Oligosaccharide/Raffinose]] (galactose + glucose + fructose)
-- [[Carbohydrate/Oligosaccharide/Stachyose]]
+- [[Carbohydrate/Oligosaccharide/Raffinose|Raffinose]] (galactose + glucose + fructose)
+- [[Carbohydrate/Oligosaccharide/Stachyose|Stachyose]]
 
 ### **Polysaccharides**
 
@@ -386,13 +386,13 @@ These are long chains of monosaccharide units and are classified into two types 
 
 #### **Storage Polysaccharides**
 
-- [[Carbohydrate/Polysaccharide/Starch]]: A storage carbohydrate in plants, composed of amylose and amylopectin.
-- [[Carbohydrate/Polysaccharide/Glycogen]]: A storage carbohydrate in animals, stored in liver and muscle cells.
+- [[Carbohydrate/Polysaccharide/Starch|Starch]]: A storage carbohydrate in plants, composed of amylose and amylopectin.
+- [[Carbohydrate/Polysaccharide/Glycogen|Glycogen]]: A storage carbohydrate in animals, stored in liver and muscle cells.
 
 #### **Structural Polysaccharides**
 
-- [[Carbohydrate/Polysaccharide/Cellulose]]: A primary component of plant cell walls, not digestible by humans.
-- [[Carbohydrate/Polysaccharide/Chitin]]: Found in the exoskeletons of arthropods and fungal cell walls.
+- [[Carbohydrate/Polysaccharide/Cellulose|Cellulose]]: A primary component of plant cell walls, not digestible by humans.
+- [[Carbohydrate/Polysaccharide/Chitin|Chitin]]: Found in the exoskeletons of arthropods and fungal cell walls.
 
 ## Epigenetic 
 

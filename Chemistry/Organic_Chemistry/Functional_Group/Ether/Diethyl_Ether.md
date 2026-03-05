@@ -62,35 +62,35 @@ SPLASH:
 - splash10-0560-9000000000-190d02146f42b3306a37
 mass: 74.07316494
 medical_condition_treated:
-- '[[_Standards/WikiData/WD~pain,81938]]'
-- '[[_Standards/WikiData/WD~status_asthmaticus,826759]]'
-- '[[_Standards/WikiData/WD~hiccups,58952]]'
+- '[[_Standards/WikiData/WD~pain,81938|WD~pain,81938]]'
+- '[[_Standards/WikiData/WD~status_asthmaticus,826759|WD~status_asthmaticus,826759]]'
+- '[[_Standards/WikiData/WD~hiccups,58952|WD~hiccups,58952]]'
 different_from:
-- '[[_Standards/WikiData/WD~ethers,103230]]'
-- '[[_Standards/WikiData/WD~aether,381913]]'
-- '[[_Standards/WikiData/WD~Eter,12788561]]'
-- '[[_Standards/WikiData/WD~ethyl_ethers,100931385]]'
-has_use: '[[_Standards/WikiData/WD~solvent,146505]]'
+- '[[_Standards/WikiData/WD~ethers,103230|WD~ethers,103230]]'
+- '[[_Standards/WikiData/WD~aether,381913|WD~aether,381913]]'
+- '[[_Standards/WikiData/WD~Eter,12788561|WD~Eter,12788561]]'
+- '[[_Standards/WikiData/WD~ethyl_ethers,100931385|WD~ethyl_ethers,100931385]]'
+has_use: '[[_Standards/WikiData/WD~solvent,146505|WD~solvent,146505]]'
 found_in_taxon:
-- '[[_Standards/WikiData/WD~Acca_sellowiana,499671]]'
-- '[[_Standards/WikiData/WD~Basella_alba,1130368]]'
-- '[[_Standards/WikiData/WD~Feijoa_sellowiana,59420273]]'
-- '[[../../../../WikiData/WD~Fragaria,745]]'
-subject_has_role: '[[_Standards/WikiData/WD~inhalational_anaesthetic,909194]]'
+- '[[_Standards/WikiData/WD~Acca_sellowiana,499671|WD~Acca_sellowiana,499671]]'
+- '[[_Standards/WikiData/WD~Basella_alba,1130368|WD~Basella_alba,1130368]]'
+- '[[_Standards/WikiData/WD~Feijoa_sellowiana,59420273|WD~Feijoa_sellowiana,59420273]]'
+- '[[../../../../WikiData/WD~Fragaria,745|WD~Fragaria,745]]'
+subject_has_role: '[[_Standards/WikiData/WD~inhalational_anaesthetic,909194|WD~inhalational_anaesthetic,909194]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-has_characteristic: '[[_Standards/WikiData/WD~Class_IA_flammable_liquid,21009053]]'
-associated_hazard: '[[_Standards/WikiData/WD~diethyl_ether_exposure,21174301]]'
-has_effect: '[[_Standards/WikiData/WD~diethyl_ether_exposure,21174301]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+has_characteristic: '[[_Standards/WikiData/WD~Class_IA_flammable_liquid,21009053|WD~Class_IA_flammable_liquid,21009053]]'
+associated_hazard: '[[_Standards/WikiData/WD~diethyl_ether_exposure,21174301|WD~diethyl_ether_exposure,21174301]]'
+has_effect: '[[_Standards/WikiData/WD~diethyl_ether_exposure,21174301|WD~diethyl_ether_exposure,21174301]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~symmetrical_ether,38881042]]'
-- '[[_Standards/WikiData/WD~ethyl_ethers,100931385]]'
-- '[[_Standards/WikiData/WD~biogenic_acyclic_ether,109923862]]'
-safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
+- '[[_Standards/WikiData/WD~symmetrical_ether,38881042|WD~symmetrical_ether,38881042]]'
+- '[[_Standards/WikiData/WD~ethyl_ethers,100931385|WD~ethyl_ethers,100931385]]'
+- '[[_Standards/WikiData/WD~biogenic_acyclic_ether,109923862|WD~biogenic_acyclic_ether,109923862]]'
+safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288|WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171|WD~type_of_chemical_entity,113145171]]'
 melting_point:
 - -116.3
 - -177
@@ -217,7 +217,7 @@ dv_has_:
     zh_tw: 乙醚
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~diethyl_ether,202218]]'
+  - '[[_Standards/WikiData/WD~diethyl_ether,202218|WD~diethyl_ether,202218]]'
   - '[[/_Standards/Chemistry/Organic_Chemistry/Ether/Diethyl_Ether|Diethyl_Ether]]'
   - '[[/_public/Chemistry/Organic_Chemistry/Ether/Diethyl_Ether.public|Diethyl_Ether.public]]'
   - '[[/_internal/Chemistry/Organic_Chemistry/Ether/Diethyl_Ether.internal|Diethyl_Ether.internal]]'
@@ -227,7 +227,7 @@ dv_is_:
   - '[[/_secret/Chemistry/Organic_Chemistry/Ether/Diethyl_Ether.secret|Diethyl_Ether.secret]]'
 dv_has_formula_structural: CH3-CH2-O-CH2-CH3
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~diethyl_ether,202218]]'
+- '[[_Standards/WikiData/WD~diethyl_ether,202218|WD~diethyl_ether,202218]]'
 - '[[/_Standards/Chemistry/Organic_Chemistry/Ether/Diethyl_Ether|Diethyl_Ether]]'
 - '[[/_public/Chemistry/Organic_Chemistry/Ether/Diethyl_Ether.public|Diethyl_Ether.public]]'
 - '[[/_internal/Chemistry/Organic_Chemistry/Ether/Diethyl_Ether.internal|Diethyl_Ether.internal]]'
@@ -241,7 +241,7 @@ dv_is_same_as:
 
 has_formula_structural = `=this.dv_has_formula_structural` 
 
-#is_/same_as :: [[_Standards/WikiData/WD~diethyl_ether,202218]] 
+#is_/same_as :: [[_Standards/WikiData/WD~diethyl_ether,202218|WD~diethyl_ether,202218]] 
 
 ## #has_/text_of_/abstract 
 

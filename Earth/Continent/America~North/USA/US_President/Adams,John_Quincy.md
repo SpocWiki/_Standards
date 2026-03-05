@@ -73,7 +73,7 @@ tags:
 - ''
 title: Adams,John_Quincy
 type: private_note
-dv_has_role: '[[../US_President]]'
+dv_has_role: '[[../US_President|US_President]]'
 dv_is_member_of: '[[Whig Party]]'
 dv_created: 1825-03-04
 dv_cancelled: 1829-03-04
@@ -268,7 +268,7 @@ dv_is_same_as:
 
 has_time_started = `=this.dv_has_time_started`
 has_time_stopped = `=this.dv_has_time_stopped`
--   [has_role :: [[../US_President]] ]is_member_of = `=this.dv_is_member_of`
+-   [has_role :: [[../US_President|US_President]] ]is_member_of = `=this.dv_is_member_of`
 
 
 ## Confidential Links & Embeds: 

@@ -2,7 +2,7 @@
 dv_"Concept", "Mesoamerica: 2543j"
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Mesoamerica,13703]]'
+  - '[[../../../WikiData/WD~Mesoamerica,13703|WD~Mesoamerica,13703]]'
   - '[[/_Standards/Earth/Continent/America~Central/Mesoamerica|Mesoamerica]]'
   - '[[/_public/Earth/Continent/America~Central/Mesoamerica.public|Mesoamerica.public]]'
   - '[[/_internal/Earth/Continent/America~Central/Mesoamerica.internal|Mesoamerica.internal]]'
@@ -12,7 +12,7 @@ dv_is_:
   - '[[/_secret/Earth/Continent/America~Central/Mesoamerica.secret|Mesoamerica.secret]]'
 dv_concept-mesoamerica: 2543j"
 dv_is_same_as:
-- '[[../../../WikiData/WD~Mesoamerica,13703]]'
+- '[[../../../WikiData/WD~Mesoamerica,13703|WD~Mesoamerica,13703]]'
 - '[[/_Standards/Earth/Continent/America~Central/Mesoamerica|Mesoamerica]]'
 - '[[/_public/Earth/Continent/America~Central/Mesoamerica.public|Mesoamerica.public]]'
 - '[[/_internal/Earth/Continent/America~Central/Mesoamerica.internal|Mesoamerica.internal]]'
@@ -74,21 +74,21 @@ aliases:
 - 메소아메리카
 has_id_wikidata: Q13703
 instance_of:
-- '[[_Standards/WikiData/WD~region,82794]]'
-- '[[_Standards/WikiData/WD~concept,151885]]'
-- '[[_Standards/WikiData/WD~historical_region,1620908]]'
-- '[[_Standards/WikiData/WD~cultural_region,3502482]]'
-- '[[_Standards/WikiData/WD~cultural_superarea,15733622]]'
-geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Mesoamerica,5535188]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Mesoamerica,28466269]]'
-described_by_source: '[[_Standards/WikiData/WD~_Mesoamérica_Resiste!,124094430]]'
+- '[[_Standards/WikiData/WD~region,82794|WD~region,82794]]'
+- '[[_Standards/WikiData/WD~concept,151885|WD~concept,151885]]'
+- '[[_Standards/WikiData/WD~historical_region,1620908|WD~historical_region,1620908]]'
+- '[[_Standards/WikiData/WD~cultural_region,3502482|WD~cultural_region,3502482]]'
+- '[[_Standards/WikiData/WD~cultural_superarea,15733622|WD~cultural_superarea,15733622]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Mesoamerica,5535188|WD~geography_of_Mesoamerica,5535188]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Mesoamerica,28466269|WD~Portal_Mesoamerica,28466269]]'
+described_by_source: '[[_Standards/WikiData/WD~_Mesoamérica_Resiste!,124094430|WD~_Mesoamérica_Resiste!,124094430]]'
 start_time: -2499-01-01T00:00:00Z
 country:
-- '[[_Standards/WikiData/WD~Guatemala,774]]'
-- '[[_Standards/WikiData/WD~Mexico,96]]'
+- '[[_Standards/WikiData/WD~Guatemala,774|WD~Guatemala,774]]'
+- '[[_Standards/WikiData/WD~Mexico,96|WD~Mexico,96]]'
 part_of:
-- '[[_Standards/WikiData/WD~Central_America,27611]]'
-- '[[_Standards/WikiData/WD~North_America,49]]'
+- '[[_Standards/WikiData/WD~Central_America,27611|WD~Central_America,27611]]'
+- '[[_Standards/WikiData/WD~North_America,49|WD~North_America,49]]'
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Mesoam%C3%A9rica%20relief%20map%20with%20continental%20scale.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Templo%20tazumal.jpg
 Wolfram_Language_entity_code: Entity"Concept", "Mesoamerica = `=this.dv_"Concept", "Mesoamerica`

@@ -33,9 +33,9 @@ Tag Instances like this:
 
 A specific branch of medical science that is concerned with the study, treatment, and prevention of mental illness, using both medical and psychological therapies.
 
-#has_/parent_class :: [[../MedicalBusiness, MedicalSpecialty]]  
+#has_/parent_class :: [[../MedicalBusiness, MedicalSpecialty|MedicalBusiness, MedicalSpecialty]]  
 
-#is_/enum_of :: [[../MedicalSpecialty]]  
+#is_/enum_of :: [[../MedicalSpecialty|MedicalSpecialty]]  
 
 ## Confidential Links & Embeds: 
 

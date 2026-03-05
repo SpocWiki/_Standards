@@ -33,20 +33,20 @@ aliases:
 - 그레이
 has_id_wikidata: Q190095
 measured_physical_quantity:
-- '[[_Standards/WikiData/WD~absorbed_dose,215313]]'
-- '[[_Standards/WikiData/WD~kerma,1739288]]'
-- '[[_Standards/WikiData/WD~specific_energy_imparted,99566195]]'
-named_after: '[[_Standards/WikiData/WD~Louis_Harold_Gray,551288]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~absorbed_dose,215313|WD~absorbed_dose,215313]]'
+- '[[_Standards/WikiData/WD~kerma,1739288|WD~kerma,1739288]]'
+- '[[_Standards/WikiData/WD~specific_energy_imparted,99566195|WD~specific_energy_imparted,99566195]]'
+named_after: '[[_Standards/WikiData/WD~Louis_Harold_Gray,551288|WD~Louis_Harold_Gray,551288]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 instance_of:
-- '[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328]]'
-- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
-- '[[_Standards/WikiData/WD~unit_of_specific_energy,126882381]]'
-- '[[_Standards/WikiData/WD~unit_of_absorbed_dose,126888783]]'
-- '[[_Standards/WikiData/WD~unit_of_kerma,126888917]]'
+- '[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328|WD~SI_unit_with_special_name,68618328]]'
+- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057|WD~UCUM_derived_unit,82047057]]'
+- '[[_Standards/WikiData/WD~unit_of_specific_energy,126882381|WD~unit_of_specific_energy,126882381]]'
+- '[[_Standards/WikiData/WD~unit_of_absorbed_dose,126888783|WD~unit_of_absorbed_dose,126888783]]'
+- '[[_Standards/WikiData/WD~unit_of_kerma,126888917|WD~unit_of_kerma,126888917]]'
 derived_from_base_unit:
-- '[[_Standards/WikiData/WD~second,11574]]'
-- '[[_Standards/WikiData/WD~metre,11573]]'
+- '[[_Standards/WikiData/WD~second,11574|WD~second,11574]]'
+- '[[_Standards/WikiData/WD~metre,11573|WD~metre,11573]]'
 conversion_to_SI_unit: 1
 UN_CEFACT_Common_Code: A95
 UCUM_code: Gy

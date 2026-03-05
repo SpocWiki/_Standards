@@ -74,12 +74,12 @@ aliases:
 - 신경 조직
 has_id_wikidata: Q203850
 has_part_s_:
-- '[[_Standards/WikiData/WD~neuroglia,177105]]'
-- '[[_Standards/WikiData/WD~neuron,43054]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Nervous_tissue,14337016]]'
-described_by_source: '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~neuroglia,177105|WD~neuroglia,177105]]'
+- '[[_Standards/WikiData/WD~neuron,43054|WD~neuron,43054]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Nervous_tissue,14337016|WD~Template_Nervous_tissue,14337016]]'
+described_by_source: '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~tissue,40397]]'
+- '[[_Standards/WikiData/WD~tissue,40397|WD~tissue,40397]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Peripheral%20nerve%2C%20cross%20section.jpg
 MeSH_tree_code:
 - A10.755

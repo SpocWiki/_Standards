@@ -63,15 +63,15 @@ aliases:
 - 海牛目
 - 바다소목
 has_id_wikidata: Q25431
-named_after: '[[_Standards/WikiData/WD~siren,150986]]'
+named_after: '[[_Standards/WikiData/WD~siren,150986|WD~siren,150986]]'
 described_by_source:
-- '[[../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 start_time: -55800000-01-01T00:00:00Z
-code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-parent_taxon: '[[_Standards/WikiData/WD~Tethytheria,20862]]'
-taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
+code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011|WD~International_Code_of_Zoological_Nomenclature,13011]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+parent_taxon: '[[_Standards/WikiData/WD~Tethytheria,20862|WD~Tethytheria,20862]]'
+taxon_rank: '[[_Standards/WikiData/WD~order,36602|WD~order,36602]]'
 ITIS_TSN: 180676
 image: http://commons.wikimedia.org/wiki/Special:FilePath/FL%20fig04.jpg
 MCN_code: 0106.12.00

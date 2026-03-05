@@ -65,16 +65,16 @@ aliases:
 - 전선
 has_id_wikidata: Q189796
 has_part_s_:
-- '[[_Standards/WikiData/WD~cold_front,210316]]'
-- '[[_Standards/WikiData/WD~warm_front,537536]]'
-- '[[_Standards/WikiData/WD~occluded_front,747330]]'
-- '[[_Standards/WikiData/WD~stationary_front,1194255]]'
-- '[[_Standards/WikiData/WD~dry_line,2742789]]'
+- '[[_Standards/WikiData/WD~cold_front,210316|WD~cold_front,210316]]'
+- '[[_Standards/WikiData/WD~warm_front,537536|WD~warm_front,537536]]'
+- '[[_Standards/WikiData/WD~occluded_front,747330|WD~occluded_front,747330]]'
+- '[[_Standards/WikiData/WD~stationary_front,1194255|WD~stationary_front,1194255]]'
+- '[[_Standards/WikiData/WD~dry_line,2742789|WD~dry_line,2742789]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia,234535]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
-instance_of: '[[_Standards/WikiData/WD~interface,901882]]'
-has_cause: '[[_Standards/WikiData/WD~frontogenesis,2678309]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia,234535|WD~Great_Soviet_Encyclopedia,234535]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+instance_of: '[[_Standards/WikiData/WD~interface,901882|WD~interface,901882]]'
+has_cause: '[[_Standards/WikiData/WD~frontogenesis,2678309|WD~frontogenesis,2678309]]'
 OmegaWiki_Defined_Meaning: 6440
 Commons_category: Atmospheric fronts
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Surface%20analysis.gif

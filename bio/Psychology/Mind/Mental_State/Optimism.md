@@ -50,22 +50,22 @@ aliases:
 - 樂觀主義
 - 낙천주의
 has_id_wikidata: Q485446
-opposite_of: '[[_Standards/WikiData/WD~pessimism,484954]]'
+opposite_of: '[[_Standards/WikiData/WD~pessimism,484954|WD~pessimism,484954]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
 different_from:
-- '[[_Standards/WikiData/WD~best_of_all_possible_worlds,1217908]]'
-- '[[_Standards/WikiData/WD~positive_mental_attitude,1969752]]'
+- '[[_Standards/WikiData/WD~best_of_all_possible_worlds,1217908|WD~best_of_all_possible_worlds,1217908]]'
+- '[[_Standards/WikiData/WD~positive_mental_attitude,1969752|WD~positive_mental_attitude,1969752]]'
 part_of:
-- '[[_Standards/WikiData/WD~theory_of_emotion,9357054]]'
-- '[[_Standards/WikiData/WD~optimism_and_pessimism,18122377]]'
-- '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
-instance_of: '[[_Standards/WikiData/WD~advanced_emotion,16748888]]'
-subclass_of: '[[_Standards/WikiData/WD~belief,34394]]'
+- '[[_Standards/WikiData/WD~theory_of_emotion,9357054|WD~theory_of_emotion,9357054]]'
+- '[[_Standards/WikiData/WD~optimism_and_pessimism,18122377|WD~optimism_and_pessimism,18122377]]'
+- '[[_Standards/WikiData/WD~psychology_terminology,77468620|WD~psychology_terminology,77468620]]'
+instance_of: '[[_Standards/WikiData/WD~advanced_emotion,16748888|WD~advanced_emotion,16748888]]'
+subclass_of: '[[_Standards/WikiData/WD~belief,34394|WD~belief,34394]]'
 OmegaWiki_Defined_Meaning: 735225
 Dewey_Decimal_Classification: 149.5
 Commons_category: Optimism

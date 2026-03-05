@@ -85,24 +85,24 @@ aliases:
 - 시각
 has_id_wikidata: Q162668
 subclass_of:
-- '[[_Standards/WikiData/WD~perception,160402]]'
-- '[[_Standards/WikiData/WD~sensory_perception_of_light_stimulus,14859561]]'
+- '[[_Standards/WikiData/WD~perception,160402|WD~perception,160402]]'
+- '[[_Standards/WikiData/WD~sensory_perception_of_light_stimulus,14859561|WD~sensory_perception_of_light_stimulus,14859561]]'
 different_from:
-- '[[_Standards/WikiData/WD~visual_system,558363]]'
-- '[[_Standards/WikiData/WD~Zien,23091183]]'
-- '[[_Standards/WikiData/WD~Vista,31257060]]'
+- '[[_Standards/WikiData/WD~visual_system,558363|WD~visual_system,558363]]'
+- '[[_Standards/WikiData/WD~Zien,23091183|WD~Zien,23091183]]'
+- '[[_Standards/WikiData/WD~Vista,31257060|WD~Vista,31257060]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Dictionnaire_Infernal,1210353]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q760329,760329]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Dictionnaire_Infernal,1210353|WD~Dictionnaire_Infernal,1210353]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q760329,760329|WD~Q760329,760329]]'
 part_of:
-- '[[_Standards/WikiData/WD~five_wits,1051623]]'
-- '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
-instance_of: '[[_Standards/WikiData/WD~biological_process,2996394]]'
+- '[[_Standards/WikiData/WD~five_wits,1051623|WD~five_wits,1051623]]'
+- '[[_Standards/WikiData/WD~psychology_terminology,77468620|WD~psychology_terminology,77468620]]'
+instance_of: '[[_Standards/WikiData/WD~biological_process,2996394|WD~biological_process,2996394]]'
 PhilPapers_topic: vision
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Eye%20iris.jpg
 Iconclass_notation: 31A31

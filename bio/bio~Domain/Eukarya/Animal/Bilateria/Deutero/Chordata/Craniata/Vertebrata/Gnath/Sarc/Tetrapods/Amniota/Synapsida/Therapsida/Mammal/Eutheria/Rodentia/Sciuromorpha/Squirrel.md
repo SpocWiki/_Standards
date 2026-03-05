@@ -140,19 +140,19 @@ aliases:
 has_id_wikidata: Q9482
 title: Sciuridae
 described_by_source:
-- '[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-parent_taxon: '[[_Standards/WikiData/WD~Sciuromorpha,724477]]'
+- '[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+parent_taxon: '[[_Standards/WikiData/WD~Sciuromorpha,724477|WD~Sciuromorpha,724477]]'
 this_zoological_name_is_coordinate_with:
-- '[[_Standards/WikiData/WD~Sciurini,2294121]]'
-- '[[_Standards/WikiData/WD~Sciurinae,53106]]'
-diel_cycle: '[[_Standards/WikiData/WD~diurnality,4284186]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q32514009,32514009]]'
-this_taxon_is_source_of: '[[_Standards/WikiData/WD~squirrel_skin,111045633]]'
-code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+- '[[_Standards/WikiData/WD~Sciurini,2294121|WD~Sciurini,2294121]]'
+- '[[_Standards/WikiData/WD~Sciurinae,53106|WD~Sciurinae,53106]]'
+diel_cycle: '[[_Standards/WikiData/WD~diurnality,4284186|WD~diurnality,4284186]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q32514009,32514009|WD~Q32514009,32514009]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~squirrel_skin,111045633|WD~squirrel_skin,111045633]]'
+code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011|WD~International_Code_of_Zoological_Nomenclature,13011]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409|WD~family,35409]]'
 ITIS_TSN: 180135
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sciurus%20carolinensis.jpg
 taxon_common_name: ekornfamilien

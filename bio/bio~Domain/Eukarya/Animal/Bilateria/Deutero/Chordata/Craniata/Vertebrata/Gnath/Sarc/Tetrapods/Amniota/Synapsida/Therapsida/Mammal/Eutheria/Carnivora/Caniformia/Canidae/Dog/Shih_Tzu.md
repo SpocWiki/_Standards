@@ -22,13 +22,13 @@ aliases:
 - 西施狗
 - 시추
 has_id_wikidata: Q39357
-country_of_origin: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+country_of_origin: "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
 mass:
 - 8
 - 4.5
 height: 27
 litter_size: 4.2
-instance_of: '[[_Standards/WikiData/WD~dog_breed,39367]]'
+instance_of: '[[_Standards/WikiData/WD~dog_breed,39367|WD~dog_breed,39367]]'
 catalog_code: 208
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Shih%20Tzu%20portrait%20show%20dog.jpg
 Commons_gallery: Shih Tzu

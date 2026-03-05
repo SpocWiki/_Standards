@@ -107,17 +107,17 @@ aliases:
 - 카멜레온
 has_id_wikidata: Q37686
 described_by_source:
-- '[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 different_from:
-- '[[_Standards/WikiData/WD~Bunglon,12477905]]'
-parent_taxon: '[[_Standards/WikiData/WD~Acrodonta,60790273]]'
-code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
+- '[[_Standards/WikiData/WD~Bunglon,12477905|WD~Bunglon,12477905]]'
+parent_taxon: '[[_Standards/WikiData/WD~Acrodonta,60790273|WD~Acrodonta,60790273]]'
+code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011|WD~International_Code_of_Zoological_Nomenclature,13011]]'
 instance_of:
-- '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+- '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409|WD~family,35409]]'
 ITIS_TSN: 208969
 OmegaWiki_Defined_Meaning: 640095
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bradypodion%20pumilum%20Cape%20chameleon%20female%20IMG%201767%20%28cropped%29.jpg

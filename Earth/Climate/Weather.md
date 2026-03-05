@@ -150,13 +150,13 @@ has_id_wikidata: Q11663
 Colon_Classification: U281
 Commons_category: Weather
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Topographia_Hassiae,19230683]]'
-different_from: '[[_Standards/WikiData/WD~climate,7937]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823|WD~Encyclopedia_of_Armenian_Nature,16387823]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Topographia_Hassiae,19230683|WD~Topographia_Hassiae,19230683]]'
+different_from: '[[_Standards/WikiData/WD~climate,7937|WD~climate,7937]]'
 exact_match: http://cv.iptc.org/newscodes/productgenre/weather
 GitHub_topic: weather
 hashtag:
@@ -165,8 +165,8 @@ hashtag:
 - Weather
 IAB_code: 390
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Wikinews%20weather.png
-immediate_cause_of: '[[../../WikiData/WD~shelter,989946]]'
-instance_of: '[[_Standards/WikiData/WD~natural_phenomenon,1322005]]'
+immediate_cause_of: '[[../../WikiData/WD~shelter,989946|WD~shelter,989946]]'
+instance_of: '[[_Standards/WikiData/WD~natural_phenomenon,1322005|WD~natural_phenomenon,1322005]]'
 IPTC_NewsCode: mediatopic/17000000
 Krugosvet_article: fizika/pogoda-i-klimat-zemli
 MeSH_tree_code:
@@ -175,20 +175,20 @@ MeSH_tree_code:
 - N06.230.300.100.725
 OmegaWiki_Defined_Meaning: 4129
 part_of:
-- '[[_Standards/WikiData/WD~atmospheric_condition,1281564]]'
-- '[[_Standards/WikiData/WD~atmospheric_circulation,2615451]]'
+- '[[_Standards/WikiData/WD~atmospheric_condition,1281564|WD~atmospheric_condition,1281564]]'
+- '[[_Standards/WikiData/WD~atmospheric_circulation,2615451|WD~atmospheric_circulation,2615451]]'
 Provenio_UUID: 539ad1d9-f94b-4a5a-ad7b-9095381a8a35
-studied_in: '[[_Standards/WikiData/WD~meteorology,25261]]'
+studied_in: '[[_Standards/WikiData/WD~meteorology,25261|WD~meteorology,25261]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~state,3505845]]'
-- '[[_Standards/WikiData/WD~meteorological_phenomenon,16332653]]'
+- '[[_Standards/WikiData/WD~state,3505845|WD~state,3505845]]'
+- '[[_Standards/WikiData/WD~meteorological_phenomenon,16332653|WD~meteorological_phenomenon,16332653]]'
 subreddit:
 - weather
 - WeatherGifs
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Weather,8067988]]'
-- '[[_Standards/WikiData/WD~Template_Infobox_weather_type,20376438]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Weather,10814956]]'
+- '[[_Standards/WikiData/WD~Template_Weather,8067988|WD~Template_Weather,8067988]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_weather_type,20376438|WD~Template_Infobox_weather_type,20376438]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Weather,10814956|WD~Portal_Weather,10814956]]'
 U_S_National_Archives_Identifier: 10642860
 Wikidata_property: weather history
 dv_is_:

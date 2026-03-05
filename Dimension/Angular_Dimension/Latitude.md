@@ -109,17 +109,17 @@ aliases:
 - 위도
 has_id_wikidata: Q34027
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~angle,11352]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~angle,11352|WD~angle,11352]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 opposite_of:
-- '[[_Standards/WikiData/WD~colatitude,962585]]'
-- '[[_Standards/WikiData/WD~longitude,36477]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-has_characteristic: '[[_Standards/WikiData/WD~unit_of_plane_angle,13587321]]'
-part_of: '[[_Standards/WikiData/WD~geographic_coordinate,104224919]]'
+- '[[_Standards/WikiData/WD~colatitude,962585|WD~colatitude,962585]]'
+- '[[_Standards/WikiData/WD~longitude,36477|WD~longitude,36477]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+has_characteristic: '[[_Standards/WikiData/WD~unit_of_plane_angle,13587321|WD~unit_of_plane_angle,13587321]]'
+part_of: '[[_Standards/WikiData/WD~geographic_coordinate,104224919|WD~geographic_coordinate,104224919]]'
 OmegaWiki_Defined_Meaning: 5182
 OpenStreetMap_key: latitude
 ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mn>1</mn></mstyle></mrow></math>

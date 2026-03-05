@@ -35,9 +35,9 @@ Tag Instances like this:
 
 A designation by the US FDA signifying that animal reproduction studies have failed to demonstrate a risk to the fetus and there are no adequate and well-controlled studies in pregnant women.
 
-#has_/parent_class :: [[../DrugPregnancyCategory]]  
+#has_/parent_class :: [[../DrugPregnancyCategory|DrugPregnancyCategory]]  
 
-#is_/enum_of :: [[../DrugPregnancyCategory]]  
+#is_/enum_of :: [[../DrugPregnancyCategory|DrugPregnancyCategory]]  
 
 ## Confidential Links & Embeds: 
 

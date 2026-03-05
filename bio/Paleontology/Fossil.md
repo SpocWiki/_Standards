@@ -85,26 +85,26 @@ aliases:
 - 恐龙骨骼
 - 화석
 has_id_wikidata: Q40614
-fabrication_method: '[[_Standards/WikiData/WD~fossilization,772845]]'
-has_cause: '[[_Standards/WikiData/WD~fossilization,772845]]'
+fabrication_method: '[[_Standards/WikiData/WD~fossilization,772845|WD~fossilization,772845]]'
+has_cause: '[[_Standards/WikiData/WD~fossilization,772845|WD~fossilization,772845]]'
 different_from:
-- '[[_Standards/WikiData/WD~pseudofossil,966254]]'
-- '[[_Standards/WikiData/WD~archaeological_find,10855061]]'
-- '[[_Standards/WikiData/WD~fossil_taxon,23038290]]'
+- '[[_Standards/WikiData/WD~pseudofossil,966254|WD~pseudofossil,966254]]'
+- '[[_Standards/WikiData/WD~archaeological_find,10855061|WD~archaeological_find,10855061]]'
+- '[[_Standards/WikiData/WD~fossil_taxon,23038290|WD~fossil_taxon,23038290]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]'
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~fossil_record,1439423]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_fossil,14396966]]'
-subclass_of: '[[_Standards/WikiData/WD~natural_physical_object,16686022]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q55744002,55744002]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823|WD~Encyclopedia_of_Armenian_Nature,16387823]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~fossil_record,1439423|WD~fossil_record,1439423]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_fossil,14396966|WD~Template_Infobox_fossil,14396966]]'
+subclass_of: '[[_Standards/WikiData/WD~natural_physical_object,16686022|WD~natural_physical_object,16686022]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q55744002,55744002|WD~Q55744002,55744002]]'
 studied_by:
-- '[[_Standards/WikiData/WD~palaeoxylology,123789760]]'
-- '[[_Standards/WikiData/WD~paleontology,7205]]'
+- '[[_Standards/WikiData/WD~palaeoxylology,123789760|WD~palaeoxylology,123789760]]'
+- '[[_Standards/WikiData/WD~paleontology,7205|WD~paleontology,7205]]'
 Wikidata_property: fossil found in this unit
 OmegaWiki_Defined_Meaning: 1554
 Dewey_Decimal_Classification: 560

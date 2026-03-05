@@ -87,15 +87,15 @@ aliases:
 - 血壓
 - 혈압
 has_id_wikidata: Q82642
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Nikolai_Korotkov,918543]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Nikolai_Korotkov,918543|WD~Nikolai_Korotkov,918543]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~vital_signs,1067560]]'
-- '[[_Standards/WikiData/WD~pressure,39552]]'
-different_from: '[[_Standards/WikiData/WD~arterial_blood_pressure,9062560]]'
+- '[[_Standards/WikiData/WD~vital_signs,1067560|WD~vital_signs,1067560]]'
+- '[[_Standards/WikiData/WD~pressure,39552|WD~pressure,39552]]'
+different_from: '[[_Standards/WikiData/WD~arterial_blood_pressure,9062560|WD~arterial_blood_pressure,9062560]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
-instance_of: '[[_Standards/WikiData/WD~biomedical_measurand_type,42014143]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604|WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
+instance_of: '[[_Standards/WikiData/WD~biomedical_measurand_type,42014143|WD~biomedical_measurand_type,42014143]]'
 OmegaWiki_Defined_Meaning: 498480
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Blutdruck.ogg
 GitHub_topic: blood-pressure

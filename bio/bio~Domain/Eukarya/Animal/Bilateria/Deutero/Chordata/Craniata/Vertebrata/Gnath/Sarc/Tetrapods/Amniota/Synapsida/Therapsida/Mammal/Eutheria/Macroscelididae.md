@@ -48,11 +48,11 @@ aliases:
 - 象鼩科
 - 코끼리땃쥐
 has_id_wikidata: Q9324400
-parent_taxon: '[[_Standards/WikiData/WD~Macroscelidea,129513]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-topic_has_template: '[[_Standards/WikiData/WD~Q22841138,22841138]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+parent_taxon: '[[_Standards/WikiData/WD~Macroscelidea,129513|WD~Macroscelidea,129513]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q22841138,22841138|WD~Q22841138,22841138]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409|WD~family,35409]]'
 ITIS_TSN: 584894
 taxon_common_name:
 - прыгунчики

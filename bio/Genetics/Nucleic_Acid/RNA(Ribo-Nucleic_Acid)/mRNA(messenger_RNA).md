@@ -138,7 +138,7 @@ aliases:
 
 # [[mRNA(messenger_RNA)]]  
 
-#is_/different_from :: [[RNA(Ribo-Nucleic_Acid)/Micro-RNA]] 
+#is_/different_from :: [[RNA(Ribo-Nucleic_Acid)/Micro-RNA|Micro-RNA]] 
 
 ## #has_/text_of_/abstract 
 

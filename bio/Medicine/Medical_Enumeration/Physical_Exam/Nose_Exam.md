@@ -34,9 +34,9 @@ Tag Instances like this:
 
 Nose function assessment with clinical examination.
 
-#has_/parent_class :: [[../PhysicalExam]]  
+#has_/parent_class :: [[../PhysicalExam|PhysicalExam]]  
 
-#is_/enum_of :: [[../PhysicalExam]]  
+#is_/enum_of :: [[../PhysicalExam|PhysicalExam]]  
 
 ## Confidential Links & Embeds: 
 

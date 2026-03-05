@@ -90,18 +90,18 @@ aliases:
 - 露水
 - 이슬
 has_id_wikidata: Q41097
-different_from: '[[_Standards/WikiData/WD~Rosa,223878]]'
+different_from: '[[_Standards/WikiData/WD~Rosa,223878|WD~Rosa,223878]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917|WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~condensation_water,1781205]]'
-- '[[_Standards/WikiData/WD~hydrometeor,1972098]]'
-made_from_material: '[[_Standards/WikiData/WD~water,283]]'
+- '[[_Standards/WikiData/WD~condensation_water,1781205|WD~condensation_water,1781205]]'
+- '[[_Standards/WikiData/WD~hydrometeor,1972098|WD~hydrometeor,1972098]]'
+made_from_material: '[[_Standards/WikiData/WD~water,283|WD~water,283]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dew.arp.750pix.jpg
 OmegaWiki_Defined_Meaning: 921645
 Commons_gallery: Dew

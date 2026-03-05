@@ -114,8 +114,8 @@ dv_has_:
 
 # [[Pride]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~pride,3071551]] 
-#is_/less_than :: [[../../../../Philosophy/Ethics/Vice/Hubris]] 
+#is_/same_as :: [[_Standards/WikiData/WD~pride,3071551|WD~pride,3071551]] 
+#is_/less_than :: [[../../../../Philosophy/Ethics/Vice/Hubris|Hubris]] 
 
 ## #has_/text_of_/abstract 
 

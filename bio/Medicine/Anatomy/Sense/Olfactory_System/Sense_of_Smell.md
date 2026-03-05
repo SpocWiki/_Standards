@@ -76,20 +76,20 @@ aliases:
 - 嗅觉
 - 후각
 has_id_wikidata: Q1541064
-subclass_of: '[[_Standards/WikiData/WD~perception,160402]]'
-instance_of: '[[_Standards/WikiData/WD~sense,173253]]'
-has_part_s_: '[[_Standards/WikiData/WD~odor,485537]]'
-part_of: '[[_Standards/WikiData/WD~five_wits,1051623]]'
+subclass_of: '[[_Standards/WikiData/WD~perception,160402|WD~perception,160402]]'
+instance_of: '[[_Standards/WikiData/WD~sense,173253|WD~sense,173253]]'
+has_part_s_: '[[_Standards/WikiData/WD~odor,485537|WD~odor,485537]]'
+part_of: '[[_Standards/WikiData/WD~five_wits,1051623|WD~five_wits,1051623]]'
 different_from:
-- '[[_Standards/WikiData/WD~olfactory_system,1054094]]'
-- '[[_Standards/WikiData/WD~flavoring,4173974]]'
+- '[[_Standards/WikiData/WD~olfactory_system,1054094|WD~olfactory_system,1054094]]'
+- '[[_Standards/WikiData/WD~flavoring,4173974|WD~flavoring,4173974]]'
 maintained_by_WikiProject:
-- '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
-- '[[_Standards/WikiData/WD~WikiProject_Neuroscience,15298430]]'
-- '[[_Standards/WikiData/WD~WikiProject_Animal_anatomy,21829301]]'
+- '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686|WD~WikiProject_Medicine,4099686]]'
+- '[[_Standards/WikiData/WD~WikiProject_Neuroscience,15298430|WD~WikiProject_Neuroscience,15298430]]'
+- '[[_Standards/WikiData/WD~WikiProject_Animal_anatomy,21829301|WD~WikiProject_Animal_anatomy,21829301]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 OmegaWiki_Defined_Meaning: 429082
 image: http://commons.wikimedia.org/wiki/Special:FilePath/3D%20Medical%20Animation%20Nose%20Top%20section.jpg
 PhilPapers_topic: smell

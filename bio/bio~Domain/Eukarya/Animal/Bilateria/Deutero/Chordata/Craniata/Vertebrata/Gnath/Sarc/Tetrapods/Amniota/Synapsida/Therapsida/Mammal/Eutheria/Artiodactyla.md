@@ -99,27 +99,27 @@ aliases:
 - 雙蹄目
 - 소목
 has_id_wikidata: Q25329
-code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
+code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011|WD~International_Code_of_Zoological_Nomenclature,13011]]'
 Commons_category: Artiodactyla
 described_by_source:
-- '[[../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 EPPO_Code: 1ARTIO
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Aepyceros%20melampus%20-%20001.jpg
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 ITIS_TSN: 180692
 MeSH_tree_code: B01.050.150.900.649.313.500
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/The%20Cetartiodactyla.jpg
 name: even-toed ungulate
 NBN_System_Key: NHMSYS0000376178
-parent_taxon: '[[_Standards/WikiData/WD~Paraxonia,68119354]]'
+parent_taxon: '[[_Standards/WikiData/WD~Paraxonia,68119354|WD~Paraxonia,68119354]]'
 start_time: -55000000-01-01
 taxon_common_name:
 - klovdyr
 - artadachtail
 taxon_name: Artiodactyla
-taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
-taxon_synonym: '[[_Standards/WikiData/WD~Cetartiodactyla,27850]]'
+taxon_rank: '[[_Standards/WikiData/WD~order,36602|WD~order,36602]]'
+taxon_synonym: '[[_Standards/WikiData/WD~Cetartiodactyla,27850|WD~Cetartiodactyla,27850]]'
 title: Artiodactyla
 dv_has_:
   name_:

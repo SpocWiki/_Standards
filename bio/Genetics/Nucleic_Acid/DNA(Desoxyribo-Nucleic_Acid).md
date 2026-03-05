@@ -105,15 +105,15 @@ CAS_Registry_Number: 9007-49-2
 Commons_category: DNA
 Commons_gallery: DNA
 CosIng_number: 33725
-develops_from: '[[_Standards/WikiData/WD~RNA,11053]]'
-disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+develops_from: '[[_Standards/WikiData/WD~RNA,11053|WD~RNA,11053]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
 Google_Doodle: celebrating-dnas-50th-anniversary
 hashtag: DNA
 has_part_s_:
-- '[[_Standards/WikiData/WD~polynucleotide,80756]]'
-- '[[_Standards/WikiData/WD~nucleotide,28745]]'
+- '[[_Standards/WikiData/WD~polynucleotide,80756|WD~polynucleotide,80756]]'
+- '[[_Standards/WikiData/WD~nucleotide,28745|WD~nucleotide,28745]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/DNA%20animation.gif
-instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
 Merck_Index_monograph: m4178
 MeSH_tree_code: D13.444.308
 NCI_Dictionary_of_Genetics_Terms_entry:
@@ -121,37 +121,37 @@ NCI_Dictionary_of_Genetics_Terms_entry:
 - dna
 OmegaWiki_Defined_Meaning: 961
 part_of:
-- '[[_Standards/WikiData/WD~nucleosome,271794]]'
-- '[[_Standards/WikiData/WD~DNA_binding,14633858]]'
-- '[[_Standards/WikiData/WD~DNA_metabolic_process,14877613]]'
-- '[[_Standards/WikiData/WD~protein-DNA_complex,14888035]]'
-- '[[_Standards/WikiData/WD~DNA_catabolic_process,14901481]]'
-- '[[_Standards/WikiData/WD~DNA_biosynthetic_process,21101125]]'
-- '[[_Standards/WikiData/WD~DNA_transport,22288464]]'
-- '[[_Standards/WikiData/WD~DNA_import_into_cell_involved_in_transformation,22291735]]'
-- '[[_Standards/WikiData/WD~DNA_transmembrane_transporter_activity,22324811]]'
-- '[[_Standards/WikiData/WD~protein-DNA-RNA_complex,22325439]]'
-- '[[_Standards/WikiData/WD~catalytic_activity,_acting_on_DNA,41512965]]'
-- '[[_Standards/WikiData/WD~genome,7020]]'
-- '[[_Standards/WikiData/WD~mitochondrion,39572]]'
-- '[[_Standards/WikiData/WD~nucleus,40260]]'
+- '[[_Standards/WikiData/WD~nucleosome,271794|WD~nucleosome,271794]]'
+- '[[_Standards/WikiData/WD~DNA_binding,14633858|WD~DNA_binding,14633858]]'
+- '[[_Standards/WikiData/WD~DNA_metabolic_process,14877613|WD~DNA_metabolic_process,14877613]]'
+- '[[_Standards/WikiData/WD~protein-DNA_complex,14888035|WD~protein-DNA_complex,14888035]]'
+- '[[_Standards/WikiData/WD~DNA_catabolic_process,14901481|WD~DNA_catabolic_process,14901481]]'
+- '[[_Standards/WikiData/WD~DNA_biosynthetic_process,21101125|WD~DNA_biosynthetic_process,21101125]]'
+- '[[_Standards/WikiData/WD~DNA_transport,22288464|WD~DNA_transport,22288464]]'
+- '[[_Standards/WikiData/WD~DNA_import_into_cell_involved_in_transformation,22291735|WD~DNA_import_into_cell_involved_in_transformation,22291735]]'
+- '[[_Standards/WikiData/WD~DNA_transmembrane_transporter_activity,22324811|WD~DNA_transmembrane_transporter_activity,22324811]]'
+- '[[_Standards/WikiData/WD~protein-DNA-RNA_complex,22325439|WD~protein-DNA-RNA_complex,22325439]]'
+- '[[_Standards/WikiData/WD~catalytic_activity,_acting_on_DNA,41512965|WD~catalytic_activity,_acting_on_DNA,41512965]]'
+- '[[_Standards/WikiData/WD~genome,7020|WD~genome,7020]]'
+- '[[_Standards/WikiData/WD~mitochondrion,39572|WD~mitochondrion,39572]]'
+- '[[_Standards/WikiData/WD~nucleus,40260|WD~nucleus,40260]]'
 shape:
-- '[[_Standards/WikiData/WD~spring,102836]]'
-- '[[_Standards/WikiData/WD~helix,201717]]'
+- '[[_Standards/WikiData/WD~spring,102836|WD~spring,102836]]'
+- '[[_Standards/WikiData/WD~helix,201717|WD~helix,201717]]'
 short_name:
 - DNK
 - DNA
 spoken_text_audio:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Dna.ogg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B4%D5%B6%D5%A9%20%28DNA%29.oga
-studied_in: '[[_Standards/WikiData/WD~genealogical_DNA_test,1154589]]'
+studied_in: '[[_Standards/WikiData/WD~genealogical_DNA_test,1154589|WD~genealogical_DNA_test,1154589]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~nucleic_acids,123619]]'
-- '[[_Standards/WikiData/WD~biopolymer,422649]]'
-- '[[_Standards/WikiData/WD~biological_macromolecule,66560214]]'
+- '[[_Standards/WikiData/WD~nucleic_acids,123619|WD~nucleic_acids,123619]]'
+- '[[_Standards/WikiData/WD~biopolymer,422649|WD~biopolymer,422649]]'
+- '[[_Standards/WikiData/WD~biological_macromolecule,66560214|WD~biological_macromolecule,66560214]]'
 subreddit: DNA
 video: http://commons.wikimedia.org/wiki/Special:FilePath/CRISPR-Cas9%2C%20geneak%20mozteko%20guraizeak.webm
-Wikimedia_outline: '[[_Standards/WikiData/WD~Q2682086,2682086]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~Q2682086,2682086|WD~Q2682086,2682086]]'
 dv_has_:
   name_:
     af: DNS

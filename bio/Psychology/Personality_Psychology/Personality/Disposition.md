@@ -45,15 +45,15 @@ aliases:
 - 기질
 has_id_wikidata: Q1149305
 different_from:
-- '[[_Standards/WikiData/WD~genetic_predisposition,784237]]'
-- '[[_Standards/WikiData/WD~kuśala_mūla,10923465]]'
-subclass_of: '[[_Standards/WikiData/WD~tendency,55919789]]'
-described_by_source: '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+- '[[_Standards/WikiData/WD~genetic_predisposition,784237|WD~genetic_predisposition,784237]]'
+- '[[_Standards/WikiData/WD~kuśala_mūla,10923465|WD~kuśala_mūla,10923465]]'
+subclass_of: '[[_Standards/WikiData/WD~tendency,55919789|WD~tendency,55919789]]'
+described_by_source: '[[_Standards/WikiData/WD~Lean_Logic,101314624|WD~Lean_Logic,101314624]]'
 studied_by:
-- '[[_Standards/WikiData/WD~physiology,521]]'
-- '[[_Standards/WikiData/WD~philosophy,5891]]'
-- '[[_Standards/WikiData/WD~psychology,9418]]'
-contributing_factor_of: '[[_Standards/WikiData/WD~behavior,9332]]'
+- '[[_Standards/WikiData/WD~physiology,521|WD~physiology,521]]'
+- '[[_Standards/WikiData/WD~philosophy,5891|WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~psychology,9418|WD~psychology,9418]]'
+contributing_factor_of: '[[_Standards/WikiData/WD~behavior,9332|WD~behavior,9332]]'
 dv_has_:
   name_:
     ar: استعداد
@@ -112,7 +112,7 @@ dv_has_:
 
 # [[Disposition]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~disposition,1149305]] 
+#is_/same_as :: [[_Standards/WikiData/WD~disposition,1149305|WD~disposition,1149305]] 
 
 ## #has_/text_of_/abstract 
 

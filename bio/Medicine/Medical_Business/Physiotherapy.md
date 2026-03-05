@@ -33,9 +33,9 @@ Tag Instances like this:
 
 The practice of treatment of disease, injury, or deformity by physical methods such as massage, heat treatment, and exercise rather than by drugs or surgery.
 
-#has_/parent_class :: [[../MedicalBusiness, MedicalSpecialty]]  
+#has_/parent_class :: [[../MedicalBusiness, MedicalSpecialty|MedicalBusiness, MedicalSpecialty]]  
 
-#is_/enum_of :: [[../MedicalSpecialty]]  
+#is_/enum_of :: [[../MedicalSpecialty|MedicalSpecialty]]  
 
 ## Confidential Links & Embeds: 
 

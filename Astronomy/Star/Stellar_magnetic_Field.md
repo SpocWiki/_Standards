@@ -36,10 +36,10 @@ aliases:
 - 恒星磁場
 - 항성 자기장
 has_id_wikidata: Q6449
-instance_of: '[[_Standards/WikiData/WD~astrophysical_process,15401756]]'
-part_of: '[[_Standards/WikiData/WD~star,523]]'
-subclass_of: '[[_Standards/WikiData/WD~magnetic_field,11408]]'
-studied_by: '[[_Standards/WikiData/WD~astrophysics,37547]]'
+instance_of: '[[_Standards/WikiData/WD~astrophysical_process,15401756|WD~astrophysical_process,15401756]]'
+part_of: '[[_Standards/WikiData/WD~star,523|WD~star,523]]'
+subclass_of: '[[_Standards/WikiData/WD~magnetic_field,11408|WD~magnetic_field,11408]]'
+studied_by: '[[_Standards/WikiData/WD~astrophysics,37547|WD~astrophysics,37547]]'
 Commons_category: Stellar magnetic fields
 dv_is_:
   same_as:

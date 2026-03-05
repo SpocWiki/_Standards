@@ -173,17 +173,17 @@ taxon_common_name:
 - Camello bactriano
 - Gamelu
 short_name: C. bactrianus
-named_after: '[[_Standards/WikiData/WD~Bactria,132646]]'
+named_after: '[[_Standards/WikiData/WD~Bactria,132646|WD~Bactria,132646]]'
 this_taxon_is_source_of:
-- '[[_Standards/WikiData/WD~camel_milk,623636]]'
-- '[[_Standards/WikiData/WD~camel_hair,1631228]]'
-- '[[_Standards/WikiData/WD~camel_meat,1722914]]'
-described_by_source: '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-diel_cycle: '[[_Standards/WikiData/WD~cathemeral,5052479]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
-taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
-has_use: '[[_Standards/WikiData/WD~transport,7590]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~camel_milk,623636|WD~camel_milk,623636]]'
+- '[[_Standards/WikiData/WD~camel_hair,1631228|WD~camel_hair,1631228]]'
+- '[[_Standards/WikiData/WD~camel_meat,1722914|WD~camel_meat,1722914]]'
+described_by_source: '[[_Standards/WikiData/WD~Q2041543,2041543|WD~Q2041543,2041543]]'
+diel_cycle: '[[_Standards/WikiData/WD~cathemeral,5052479|WD~cathemeral,5052479]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615|WD~WikiProject_Invasion_Biology,56241615]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432|WD~species,7432]]'
+has_use: '[[_Standards/WikiData/WD~transport,7590|WD~transport,7590]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 longest_observed_lifespan: 35.4
 ITIS_TSN: 625026
 image:

@@ -71,16 +71,16 @@ aliases:
 - 품종개량
 has_id_wikidata: Q995745
 subclass_of:
-- '[[_Standards/WikiData/WD~intentional_human_activity,451967]]'
-- '[[_Standards/WikiData/WD~biological_selection,1094654]]'
+- '[[_Standards/WikiData/WD~intentional_human_activity,451967|WD~intentional_human_activity,451967]]'
+- '[[_Standards/WikiData/WD~biological_selection,1094654|WD~biological_selection,1094654]]'
 different_from:
-- '[[_Standards/WikiData/WD~biological_selection,1094654]]'
-- '[[_Standards/WikiData/WD~selection,12888920]]'
+- '[[_Standards/WikiData/WD~biological_selection,1094654|WD~biological_selection,1094654]]'
+- '[[_Standards/WikiData/WD~selection,12888920|WD~selection,12888920]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~selective_breeding,4023882]]'
-- '[[_Standards/WikiData/WD~Livestock_Rearing,9379111]]'
-described_by_source: '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-opposite_of: '[[_Standards/WikiData/WD~natural_selection,43478]]'
+- '[[_Standards/WikiData/WD~selective_breeding,4023882|WD~selective_breeding,4023882]]'
+- '[[_Standards/WikiData/WD~Livestock_Rearing,9379111|WD~Livestock_Rearing,9379111]]'
+described_by_source: '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+opposite_of: '[[_Standards/WikiData/WD~natural_selection,43478|WD~natural_selection,43478]]'
 OmegaWiki_Defined_Meaning: 808800
 Commons_category: Breeding
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cornselection.jpg

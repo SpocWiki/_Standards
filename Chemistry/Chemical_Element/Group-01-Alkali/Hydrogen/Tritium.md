@@ -50,14 +50,14 @@ aliases:
 - 氚
 - 삼중수소
 has_id_wikidata: Q54389
-follows: '[[_Standards/WikiData/WD~deuterium,102296]]'
-instance_of: '[[_Standards/WikiData/WD~isotope_of_hydrogen,466603]]'
-decays_to: '[[_Standards/WikiData/WD~helium_3,533498]]'
-followed_by: '[[_Standards/WikiData/WD~hydrogen_4,1064956]]'
+follows: '[[_Standards/WikiData/WD~deuterium,102296|WD~deuterium,102296]]'
+instance_of: '[[_Standards/WikiData/WD~isotope_of_hydrogen,466603|WD~isotope_of_hydrogen,466603]]'
+decays_to: '[[_Standards/WikiData/WD~helium_3,533498|WD~helium_3,533498]]'
+followed_by: '[[_Standards/WikiData/WD~hydrogen_4,1064956|WD~hydrogen_4,1064956]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~simple_substance,2512777]]'
-- '[[_Standards/WikiData/WD~hydrogen,556]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
+- '[[_Standards/WikiData/WD~simple_substance,2512777|WD~simple_substance,2512777]]'
+- '[[_Standards/WikiData/WD~hydrogen,556|WD~hydrogen,556]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664|WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
 mass_excess: 14949.80993
 mass: 3.01604928199
 parity_quantum_number: 1

@@ -142,7 +142,7 @@ aliases:
 > first described by the German entomologist J. W. Meigen in 1818, and are 
 > known as nail mosquitoes and marsh mosquitoes. 
 > 
-> Many such mosquitoes are vectors of the parasite [[../../../../../../../../../Alveolate/Apicomplexa/Plasmodium/Plasmodium_malariae]], 
+> Many such mosquitoes are vectors of the parasite [[../../../../../../../../../Alveolate/Apicomplexa/Plasmodium/Plasmodium_malariae|Plasmodium_malariae]], 
 > a genus of protozoans that **cause malaria in birds, reptiles, and mammals**. 
 > 
 > The Anopheles gambiae mosquito is the best-known species of marsh mosquito that transmits the Plasmodium falciparum, which is a malarial parasite deadly to human beings; no other mosquito genus is a vector of human malaria.

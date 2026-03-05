@@ -72,26 +72,26 @@ has_id_wikidata: Q61476
 Commons_category: Fatty acids
 CXSMILES: OC([*])=O |$;;R;$|
 E_number: E570
-has_cause: '[[_Standards/WikiData/WD~fatty_acid_synthesis,900209]]'
-has_use: '[[_Standards/WikiData/WD~food_additive,189567]]'
-instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
+has_cause: '[[_Standards/WikiData/WD~fatty_acid_synthesis,900209|WD~fatty_acid_synthesis,900209]]'
+has_use: '[[_Standards/WikiData/WD~food_additive,189567|WD~food_additive,189567]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
 MeSH_tree_code: D10.251
 part_of:
-- '[[_Standards/WikiData/WD~fatty_acid_homeostasis,14761972]]'
-- '[[_Standards/WikiData/WD~fatty_acid_biosynthetic_process,14860449]]'
-- '[[_Standards/WikiData/WD~fatty_acid_transport,14864580]]'
-- '[[_Standards/WikiData/WD~response_to_fatty_acid,14907443]]'
-- '[[_Standards/WikiData/WD~cellular_response_to_fatty_acid,15333013]]'
-- '[[_Standards/WikiData/WD~fatty_acid_elongation,21100400]]'
-- '[[_Standards/WikiData/WD~fatty_acid_transmembrane_transporter_activity,21121305]]'
-- '[[_Standards/WikiData/WD~poly(hydroxyalkanoate)_biosynthetic_process_from_fatty_acid,22283269]]'
-- '[[_Standards/WikiData/WD~fatty_acid_transmembrane_transport,22290332]]'
+- '[[_Standards/WikiData/WD~fatty_acid_homeostasis,14761972|WD~fatty_acid_homeostasis,14761972]]'
+- '[[_Standards/WikiData/WD~fatty_acid_biosynthetic_process,14860449|WD~fatty_acid_biosynthetic_process,14860449]]'
+- '[[_Standards/WikiData/WD~fatty_acid_transport,14864580|WD~fatty_acid_transport,14864580]]'
+- '[[_Standards/WikiData/WD~response_to_fatty_acid,14907443|WD~response_to_fatty_acid,14907443]]'
+- '[[_Standards/WikiData/WD~cellular_response_to_fatty_acid,15333013|WD~cellular_response_to_fatty_acid,15333013]]'
+- '[[_Standards/WikiData/WD~fatty_acid_elongation,21100400|WD~fatty_acid_elongation,21100400]]'
+- '[[_Standards/WikiData/WD~fatty_acid_transmembrane_transporter_activity,21121305|WD~fatty_acid_transmembrane_transporter_activity,21121305]]'
+- '[[_Standards/WikiData/WD~poly(hydroxyalkanoate)_biosynthetic_process_from_fatty_acid,22283269|WD~poly(hydroxyalkanoate)_biosynthetic_process_from_fatty_acid,22283269]]'
+- '[[_Standards/WikiData/WD~fatty_acid_transmembrane_transport,22290332|WD~fatty_acid_transmembrane_transport,22290332]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~aliphatic_compound,192596]]'
-- '[[_Standards/WikiData/WD~monocarboxylic_acid,47147773]]'
-- '[[_Standards/WikiData/WD~fatty_acyl,63433687]]'
+- '[[_Standards/WikiData/WD~aliphatic_compound,192596|WD~aliphatic_compound,192596]]'
+- '[[_Standards/WikiData/WD~monocarboxylic_acid,47147773|WD~monocarboxylic_acid,47147773]]'
+- '[[_Standards/WikiData/WD~fatty_acyl,63433687|WD~fatty_acyl,63433687]]'
 UMLS_CUI: C0597423
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
 ZVG_number: 91170
 dv_has_:
   name_:
@@ -184,7 +184,7 @@ dv_has_:
 
 ## #has_/text_of_/abstract 
 
-> In chemistry, particularly in biochemistry, a fatty acid is a[[../../../../Chemistry/Organic_Chemistry/Functional_Group/Carboxylic_Acid]]] 
+> In chemistry, particularly in biochemistry, a fatty acid is a[[../../../../Chemistry/Organic_Chemistry/Functional_Group/Carboxylic_Acid|Carboxylic_Acid]]] 
 > with an [[Aliphatic_Chain]], which is either saturated or unsaturated. 
 > 
 > Most naturally occurring fatty acids have an unbranched chain of an even number of carbon atoms, 

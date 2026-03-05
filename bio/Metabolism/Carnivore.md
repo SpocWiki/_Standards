@@ -97,18 +97,18 @@ aliases:
 - "\U0001033C\U00010330\U0001033C\U0001033C\U00010330\U00010339̈\U00010344\U00010330\U0001033D\U00010333\U00010343"
 has_id_wikidata: Q81875
 has_part_s_:
-- '[[_Standards/WikiData/WD~predation,170430]]'
-- '[[_Standards/WikiData/WD~necrophagy,2961137]]'
+- '[[_Standards/WikiData/WD~predation,170430|WD~predation,170430]]'
+- '[[_Standards/WikiData/WD~necrophagy,2961137|WD~necrophagy,2961137]]'
 different_from:
-- '[[_Standards/WikiData/WD~zoophage,220314]]'
-- '[[_Standards/WikiData/WD~saprophage,2224108]]'
-subclass_of: '[[_Standards/WikiData/WD~zoophage,220314]]'
+- '[[_Standards/WikiData/WD~zoophage,220314|WD~zoophage,220314]]'
+- '[[_Standards/WikiData/WD~saprophage,2224108|WD~saprophage,2224108]]'
+subclass_of: '[[_Standards/WikiData/WD~zoophage,220314|WD~zoophage,220314]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~trophic_level,1053008]]'
-- '[[_Standards/WikiData/WD~carnivory,45850366]]'
-instance_of: '[[_Standards/WikiData/WD~group_or_class_of_living_things,21871294]]'
+- '[[_Standards/WikiData/WD~trophic_level,1053008|WD~trophic_level,1053008]]'
+- '[[_Standards/WikiData/WD~carnivory,45850366|WD~carnivory,45850366]]'
+instance_of: '[[_Standards/WikiData/WD~group_or_class_of_living_things,21871294|WD~group_or_class_of_living_things,21871294]]'
 OmegaWiki_Defined_Meaning: 497
-opposite_of: '[[_Standards/WikiData/WD~herbivore,59099]]'
+opposite_of: '[[_Standards/WikiData/WD~herbivore,59099|WD~herbivore,59099]]'
 Commons_category: Carnivores
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Carnivore-lion.jpg
@@ -233,7 +233,7 @@ dv_has_:
 
 # [[Carnivore]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~carnivore,81875]] 
+#is_/same_as :: [[_Standards/WikiData/WD~carnivore,81875|WD~carnivore,81875]] 
 
 ## #has_/text_of_/abstract 
 

@@ -68,23 +68,23 @@ aliases:
 - 질산 칼륨
 has_id_wikidata: Q177836
 has_use:
-- '[[_Standards/WikiData/WD~food_additive,189567]]'
-- '[[_Standards/WikiData/WD~nitrogen_fertilizer,906629]]'
-- '[[_Standards/WikiData/WD~explosive_chemicals,12870]]'
+- '[[_Standards/WikiData/WD~food_additive,189567|WD~food_additive,189567]]'
+- '[[_Standards/WikiData/WD~nitrogen_fertilizer,906629|WD~nitrogen_fertilizer,906629]]'
+- '[[_Standards/WikiData/WD~explosive_chemicals,12870|WD~explosive_chemicals,12870]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764|WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
 safety_classification_and_labelling:
-- '[[_Standards/WikiData/WD~Regulation_(EC)_No._1272_2008,2005334]]'
-- '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Kno3,12824938]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
+- '[[_Standards/WikiData/WD~Regulation_(EC)_No._1272_2008,2005334|WD~Regulation_(EC)_No._1272_2008,2005334]]'
+- '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288|WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Kno3,12824938|WD~Kno3,12824938]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171|WD~type_of_chemical_entity,113145171]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~nitrogen,627]]'
-- '[[_Standards/WikiData/WD~oxygen,629]]'
-- '[[_Standards/WikiData/WD~potassium,703]]'
-subclass_of: '[[_Standards/WikiData/WD~chemical_compound,11173]]'
+- '[[_Standards/WikiData/WD~nitrogen,627|WD~nitrogen,627]]'
+- '[[_Standards/WikiData/WD~oxygen,629|WD~oxygen,629]]'
+- '[[_Standards/WikiData/WD~potassium,703|WD~potassium,703]]'
+subclass_of: '[[_Standards/WikiData/WD~chemical_compound,11173|WD~chemical_compound,11173]]'
 standard_enthalpy_of_formation: -494
 Mohs_hardness: 2
 decomposition_point: 400

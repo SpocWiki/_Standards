@@ -78,24 +78,24 @@ aliases:
 - 软骨鱼纲
 - 연골어류
 has_id_wikidata: Q25371
-code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
+code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011|WD~International_Code_of_Zoological_Nomenclature,13011]]'
 Commons_category: Chondrichthyes
 described_by_source:
-- '[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 EPPO_Code: 1CHONC
 Iconclass_notation: 25F61
 image: http://commons.wikimedia.org/wiki/Special:FilePath/White%20shark.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 ITIS_TSN: 159785
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Chondrichthyes.jpg
 start_time: -430000000-01-01
 taxon_name: Chondrichthyes
-taxon_rank: '[[_Standards/WikiData/WD~class,37517]]'
+taxon_rank: '[[_Standards/WikiData/WD~class,37517|WD~class,37517]]'
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Taxonomy_Chondrichthyes,13217777]]'
+- '[[_Standards/WikiData/WD~Template_Taxonomy_Chondrichthyes,13217777|WD~Template_Taxonomy_Chondrichthyes,13217777]]'
 UMLS_CUI: C0327606
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
 dv_has_:
   name_:
     af: Kraakbeenvisse

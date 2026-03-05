@@ -148,40 +148,40 @@ hashtag: sweet_potato
 short_name: I. batatas
 external_data_available_at_URL: https://www.gbif.org/dataset/31dc1507-a6e1-4233-a8df-c7a78596a7e4
 Dewey_Decimal_Classification: 641.3522
-parent_taxon: '[[_Standards/WikiData/WD~Ipomoea,161173]]'
+parent_taxon: '[[_Standards/WikiData/WD~Ipomoea,161173|WD~Ipomoea,161173]]'
 has_use:
-- '[[_Standards/WikiData/WD~medicinal_plant,188840]]'
-- '[[_Standards/WikiData/WD~fodder,211439]]'
-- '[[_Standards/WikiData/WD~vegetable,11004]]'
+- '[[_Standards/WikiData/WD~medicinal_plant,188840|WD~medicinal_plant,188840]]'
+- '[[_Standards/WikiData/WD~fodder,211439|WD~fodder,211439]]'
+- '[[_Standards/WikiData/WD~vegetable,11004|WD~vegetable,11004]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~annual_plant,192691]]'
-- '[[_Standards/WikiData/WD~useful_plant,11992872]]'
-- '[[_Standards/WikiData/WD~vegetable,11004]]'
+- '[[_Standards/WikiData/WD~annual_plant,192691|WD~annual_plant,192691]]'
+- '[[_Standards/WikiData/WD~useful_plant,11992872|WD~useful_plant,11992872]]'
+- '[[_Standards/WikiData/WD~vegetable,11004|WD~vegetable,11004]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]'
-- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_64(1),112869466]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112|WD~Zhiwu_Mingshi_Tukao,107402112]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_64(1),112869466|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_64(1),112869466]]'
 taxon_range:
-- '[[_Standards/WikiData/WD~Monção,2103583]]'
-- '[[_Standards/WikiData/WD~Beijing,956]]'
-- '[[_Standards/WikiData/WD~Gabon,1000]]'
-- '[[_Standards/WikiData/WD~Guangdong,15175]]'
-- '[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Maranhão,42362]]'
-IUCN_conservation_status: '[[_Standards/WikiData/WD~Data_Deficient,3245245]]'
+- '[[_Standards/WikiData/WD~Monção,2103583|WD~Monção,2103583]]'
+- '[[_Standards/WikiData/WD~Beijing,956|WD~Beijing,956]]'
+- '[[_Standards/WikiData/WD~Gabon,1000|WD~Gabon,1000]]'
+- '[[_Standards/WikiData/WD~Guangdong,15175|WD~Guangdong,15175]]'
+- '[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269|WD~Tibet_Autonomous_Region,17269]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Maranhão,42362|WD~Maranhão,42362]]'
+IUCN_conservation_status: '[[_Standards/WikiData/WD~Data_Deficient,3245245|WD~Data_Deficient,3245245]]'
 this_taxon_is_source_of:
-- '[[_Standards/WikiData/WD~sweet_potato,12762973]]'
-- '[[_Standards/WikiData/WD~Saccharum_Granorum,27650534]]'
-has_basionym: '[[_Standards/WikiData/WD~Convolvulus_batatas,21872687]]'
-different_from: '[[_Standards/WikiData/WD~_,55316445]]'
-NatureServe_conservation_status: '[[_Standards/WikiData/WD~secure,55707349]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
-hardiness_of_plant: '[[_Standards/WikiData/WD~9,99549596]]'
-taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~sweet_potato,12762973|WD~sweet_potato,12762973]]'
+- '[[_Standards/WikiData/WD~Saccharum_Granorum,27650534|WD~Saccharum_Granorum,27650534]]'
+has_basionym: '[[_Standards/WikiData/WD~Convolvulus_batatas,21872687|WD~Convolvulus_batatas,21872687]]'
+different_from: '[[_Standards/WikiData/WD~_,55316445|WD~_,55316445]]'
+NatureServe_conservation_status: '[[_Standards/WikiData/WD~secure,55707349|WD~secure,55707349]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615|WD~WikiProject_Invasion_Biology,56241615]]'
+hardiness_of_plant: '[[_Standards/WikiData/WD~9,99549596|WD~9,99549596]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432|WD~species,7432]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 food_energy: 86
 USDA_NDB_number:
 - 11877

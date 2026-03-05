@@ -32,7 +32,7 @@ aliases:
 - 恒星の自転
 - 항성 자전
 has_id_wikidata: Q6464
-subclass_of: '[[_Standards/WikiData/WD~rotation_around_a_fixed_axis,2995427]]'
+subclass_of: '[[_Standards/WikiData/WD~rotation_around_a_fixed_axis,2995427|WD~rotation_around_a_fixed_axis,2995427]]'
 dv_is_:
   same_as:
   - '[[../../WikiData/WD~Stellar_rotation,6464|WD~Stellar_rotation,6464]]'

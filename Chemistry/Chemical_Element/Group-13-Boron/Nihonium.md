@@ -79,14 +79,14 @@ aliases:
 - 니호늄
 has_id_wikidata: Q1301
 part_of:
-- '[[_Standards/WikiData/WD~group_13,189294]]'
-- '[[_Standards/WikiData/WD~period_7,244979]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Joint_Institute_for_Nuclear_Research,259517]]'
+- '[[_Standards/WikiData/WD~group_13,189294|WD~group_13,189294]]'
+- '[[_Standards/WikiData/WD~period_7,244979|WD~period_7,244979]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Joint_Institute_for_Nuclear_Research,259517|WD~Joint_Institute_for_Nuclear_Research,259517]]'
 instance_of:
-- '[[_Standards/WikiData/WD~synthetic_element,755992]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Ununtrium,134729528]]'
-named_after: '[[_Standards/WikiData/WD~Japan,17]]'
+- '[[_Standards/WikiData/WD~synthetic_element,755992|WD~synthetic_element,755992]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Ununtrium,134729528|WD~Ununtrium,134729528]]'
+named_after: '[[_Standards/WikiData/WD~Japan,17|WD~Japan,17]]'
 boiling_point: 1130
 atomic_number: 113
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20113%20Nihonium.svg
@@ -99,7 +99,7 @@ Commons_category: Nihonium
 time_of_discovery_or_invention: 2006-01-01T00:00:00Z
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Nihonium,1301]]'
+  - '[[../../../WikiData/WD~Nihonium,1301|WD~Nihonium,1301]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Group-13-Boron/Nihonium|Nihonium]]'
   - '[[/_public/Chemistry/Chemical_Element/Group-13-Boron/Nihonium.public|Nihonium.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Group-13-Boron/Nihonium.internal|Nihonium.internal]]'
@@ -108,7 +108,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Chemical_Element/Group-13-Boron/Nihonium.personal|Nihonium.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Group-13-Boron/Nihonium.secret|Nihonium.secret]]'
 dv_is_same_as:
-- '[[../../../WikiData/WD~Nihonium,1301]]'
+- '[[../../../WikiData/WD~Nihonium,1301|WD~Nihonium,1301]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Group-13-Boron/Nihonium|Nihonium]]'
 - '[[/_public/Chemistry/Chemical_Element/Group-13-Boron/Nihonium.public|Nihonium.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Group-13-Boron/Nihonium.internal|Nihonium.internal]]'

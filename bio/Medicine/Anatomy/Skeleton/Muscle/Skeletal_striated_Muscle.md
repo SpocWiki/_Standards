@@ -58,10 +58,10 @@ aliases:
 - 骨骼肌
 - 골격근
 has_id_wikidata: Q1048687
-part_of: '[[_Standards/WikiData/WD~muscular_system,7060553]]'
+part_of: '[[_Standards/WikiData/WD~muscular_system,7060553|WD~muscular_system,7060553]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~striated_muscle_tissue_development,14860179]]'
-- '[[_Standards/WikiData/WD~muscle,7365]]'
+- '[[_Standards/WikiData/WD~striated_muscle_tissue_development,14860179|WD~striated_muscle_tissue_development,14860179]]'
+- '[[_Standards/WikiData/WD~muscle,7365|WD~muscle,7365]]'
 MeSH_tree_code:
 - A02.633.567
 - A10.690.552.500

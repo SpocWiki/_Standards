@@ -217,17 +217,17 @@ aliases:
   - Atmospheric Pressure
 has_id_wikidata: Q81809
 subclass_of:
-  - '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-  - '[[_Standards/WikiData/WD~ambient_pressure,789775]]'
-  - '[[_Standards/WikiData/WD~meteorological_concept,58928516]]'
+  - '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+  - '[[_Standards/WikiData/WD~ambient_pressure,789775|WD~ambient_pressure,789775]]'
+  - '[[_Standards/WikiData/WD~meteorological_concept,58928516|WD~meteorological_concept,58928516]]'
 described_by_source:
-  - '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
-facet_of: '[[_Standards/WikiData/WD~air,7391292]]'
+  - '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+  - '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+facet_of: '[[_Standards/WikiData/WD~air,7391292|WD~air,7391292]]'
 Wikidata_property: lowest atmospheric pressure
 has_cause:
-  - '[[_Standards/WikiData/WD~atmosphere,8104]]'
-  - '[[_Standards/WikiData/WD~gravity,11412]]'
+  - '[[_Standards/WikiData/WD~atmosphere,8104|WD~atmosphere,8104]]'
+  - '[[_Standards/WikiData/WD~gravity,11412|WD~gravity,11412]]'
 quantity_symbol_string_: p
 OmegaWiki_Defined_Meaning: 920765
 ISQ_dimension: "<math xmlns=\"http://www.w3.org/1998/Math/MathML\" display=\"block\" alttext=\"{\\displaystyle {\\mathsf {L}}^{-1}{\\mathsf {M}}{\\mathsf {T}}^{-2}}\">\n  <semantics>\n    <mrow class=\"MJX-TeXAtom-ORD\">\n      <mstyle displaystyle=\"true\" scriptlevel=\"0\">\n        <msup>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mi mathvariant=\"sans-serif\">L</mi>\n            </mrow>\n          </mrow>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mo>&#x2212;<!-- - --></mo>\n            <mn>1</mn>\n          </mrow>\n        </msup>\n        <mrow class=\"MJX-TeXAtom-ORD\">\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mi mathvariant=\"sans-serif\">M</mi>\n          </mrow>\n        </mrow>\n        <msup>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mrow class=\"MJX-TeXAtom-ORD\">\n              <mi mathvariant=\"sans-serif\">T</mi>\n            </mrow>\n          </mrow>\n          <mrow class=\"MJX-TeXAtom-ORD\">\n            <mo>&#x2212;<!-- - --></mo>\n            <mn>2</mn>\n          </mrow>\n        </msup>\n      </mstyle>\n    </mrow>\n    <annotation encoding=\"application/x-tex\">{\\displaystyle {\\mathsf {L}}^{-1}{\\mathsf {M}}{\\mathsf {T}}^{-2}}</annotation>\n  </semantics>\n</math>"

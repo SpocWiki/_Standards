@@ -159,36 +159,36 @@ aliases:
 - 髮
 - 털
 has_id_wikidata: Q28472
-made_from_material: '[[_Standards/WikiData/WD~keratins,189474]]'
+made_from_material: '[[_Standards/WikiData/WD~keratins,189474|WD~keratins,189474]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~biomaterial,865663]]'
-- '[[_Standards/WikiData/WD~skin_appendage,1239288]]'
-- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]'
-anatomical_locations: '[[_Standards/WikiData/WD~hair_follicle,866324]]'
+- '[[_Standards/WikiData/WD~biomaterial,865663|WD~biomaterial,865663]]'
+- '[[_Standards/WikiData/WD~skin_appendage,1239288|WD~skin_appendage,1239288]]'
+- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975|WD~particular_anatomical_entity,112826975]]'
+anatomical_locations: '[[_Standards/WikiData/WD~hair_follicle,866324|WD~hair_follicle,866324]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~cuticle,1566548]]'
-- '[[_Standards/WikiData/WD~cortex,5173240]]'
-- '[[_Standards/WikiData/WD~medulla,6807308]]'
-- '[[_Standards/WikiData/WD~Q23900278,23900278]]'
+- '[[_Standards/WikiData/WD~cuticle,1566548|WD~cuticle,1566548]]'
+- '[[_Standards/WikiData/WD~cortex,5173240|WD~cortex,5173240]]'
+- '[[_Standards/WikiData/WD~medulla,6807308|WD~medulla,6807308]]'
+- '[[_Standards/WikiData/WD~Q23900278,23900278|WD~Q23900278,23900278]]'
 part_of:
-- '[[_Standards/WikiData/WD~androgenic_hair,2167872]]'
-- '[[_Standards/WikiData/WD~set_of_hairs,66543709]]'
-different_from: '[[_Standards/WikiData/WD~spiral_spring,9340736]]'
+- '[[_Standards/WikiData/WD~androgenic_hair,2167872|WD~androgenic_hair,2167872]]'
+- '[[_Standards/WikiData/WD~set_of_hairs,66543709|WD~set_of_hairs,66543709]]'
+different_from: '[[_Standards/WikiData/WD~spiral_spring,9340736|WD~spiral_spring,9340736]]'
 instance_of:
-- '[[_Standards/WikiData/WD~anatomical_structure_class_type,103914748]]'
-- '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]'
+- '[[_Standards/WikiData/WD~anatomical_structure_class_type,103914748|WD~anatomical_structure_class_type,103914748]]'
+- '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905|WD~class_of_anatomical_entity,112826905]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~hair_color,105825176]]'
-- '[[_Standards/WikiData/WD~hair_length,113378486]]'
+- '[[_Standards/WikiData/WD~hair_color,105825176|WD~hair_color,105825176]]'
+- '[[_Standards/WikiData/WD~hair_length,113378486|WD~hair_length,113378486]]'
 Commons_category: Hair
 OmegaWiki_Defined_Meaning: 5526
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Borsten%20ausgewachsenes%20Mangalitza-Schwein.JPG

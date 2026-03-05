@@ -40,23 +40,23 @@ CSD_Refcode: JAYDUI
 Commons_category: Propane
 SPLASH: splash10-004i-9000000000-4153e3687692e9b3d514
 RTECS_number: TX2275000
-found_in_taxon: '[[_Standards/WikiData/WD~Calendula_officinalis,145930]]'
-different_from: '[[_Standards/WikiData/WD~propylene,151324]]'
+found_in_taxon: '[[_Standards/WikiData/WD~Calendula_officinalis,145930|WD~Calendula_officinalis,145930]]'
+different_from: '[[_Standards/WikiData/WD~propylene,151324|WD~propylene,151324]]'
 has_use:
-- '[[_Standards/WikiData/WD~refrigerant,266790]]'
-- '[[_Standards/WikiData/WD~fuel,42501]]'
-has_characteristic: '[[_Standards/WikiData/WD~flammable_object,1115533]]'
+- '[[_Standards/WikiData/WD~refrigerant,266790|WD~refrigerant,266790]]'
+- '[[_Standards/WikiData/WD~fuel,42501|WD~fuel,42501]]'
+has_characteristic: '[[_Standards/WikiData/WD~flammable_object,1115533|WD~flammable_object,1115533]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-associated_hazard: '[[_Standards/WikiData/WD~propane_exposure,21175071]]'
-has_effect: '[[_Standards/WikiData/WD~propane_exposure,21175071]]'
-safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+associated_hazard: '[[_Standards/WikiData/WD~propane_exposure,21175071|WD~propane_exposure,21175071]]'
+has_effect: '[[_Standards/WikiData/WD~propane_exposure,21175071|WD~propane_exposure,21175071]]'
+safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288|WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~biogenic_aliphatic_hydrocarbon,109910560]]'
-- '[[_Standards/WikiData/WD~alkane,41581]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
-complies_with: '[[_Standards/WikiData/WD~A3,117758975]]'
+- '[[_Standards/WikiData/WD~biogenic_aliphatic_hydrocarbon,109910560|WD~biogenic_aliphatic_hydrocarbon,109910560]]'
+- '[[_Standards/WikiData/WD~alkane,41581|WD~alkane,41581]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171|WD~type_of_chemical_entity,113145171]]'
+complies_with: '[[_Standards/WikiData/WD~A3,117758975|WD~A3,117758975]]'
 melting_point:
 - -187.69
 - -306

@@ -182,24 +182,24 @@ has_id_wikidata: Q589
 Commons_category: Black holes
 Commons_gallery: Black hole
 different_from:
-- '[[_Standards/WikiData/WD~white_hole,131468]]'
-- '[[_Standards/WikiData/WD~black_dwarf,5976]]'
+- '[[_Standards/WikiData/WD~white_hole,131468|WD~white_hole,131468]]'
+- '[[_Standards/WikiData/WD~black_dwarf,5976|WD~black_dwarf,5976]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~angular_momentum,161254]]'
-- '[[_Standards/WikiData/WD~gravitational_wave,190035]]'
-- '[[_Standards/WikiData/WD~Tolman_Oppenheimer_Volkoff_limit,1139232]]'
-- '[[_Standards/WikiData/WD~electric_charge,1111]]'
-- '[[_Standards/WikiData/WD~mass,11423]]'
-has_effect: '[[_Standards/WikiData/WD~Hawking_radiation,497396]]'
+- '[[_Standards/WikiData/WD~angular_momentum,161254|WD~angular_momentum,161254]]'
+- '[[_Standards/WikiData/WD~gravitational_wave,190035|WD~gravitational_wave,190035]]'
+- '[[_Standards/WikiData/WD~Tolman_Oppenheimer_Volkoff_limit,1139232|WD~Tolman_Oppenheimer_Volkoff_limit,1139232]]'
+- '[[_Standards/WikiData/WD~electric_charge,1111|WD~electric_charge,1111]]'
+- '[[_Standards/WikiData/WD~mass,11423|WD~mass,11423]]'
+has_effect: '[[_Standards/WikiData/WD~Hawking_radiation,497396|WD~Hawking_radiation,497396]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~event_horizon,181741]]'
-- '[[_Standards/WikiData/WD~gravitational_singularity,201721]]'
-- '[[_Standards/WikiData/WD~firewall,5452017]]'
+- '[[_Standards/WikiData/WD~event_horizon,181741|WD~event_horizon,181741]]'
+- '[[_Standards/WikiData/WD~gravitational_singularity,201721|WD~gravitational_singularity,201721]]'
+- '[[_Standards/WikiData/WD~firewall,5452017|WD~firewall,5452017]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Black%20hole%20-%20Messier%2087%20crop%20max%20res.jpg
-instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
+instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909|WD~astronomical_object_type,17444909]]'
 Krugosvet_article: nauka_i_tehnika/astronomiya/CHERNAYA_DIRA.html
 OmegaWiki_Defined_Meaning: 8329
-opposite_of: '[[_Standards/WikiData/WD~white_hole,131468]]'
+opposite_of: '[[_Standards/WikiData/WD~white_hole,131468|WD~white_hole,131468]]'
 schematic:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Black%20hole%20details-ru.svg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Black%20hole%20details.svg
@@ -221,9 +221,9 @@ spoken_text_audio:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Zwart%20gat-article.ogg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%8D%D6%87%20%D5%AD%D5%B8%D5%BC%D5%B8%D5%B9%20%28Black%20hole%29.ogg
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/black-holes
-studied_in: '[[_Standards/WikiData/WD~astrophysics,37547]]'
-subclass_of: '[[_Standards/WikiData/WD~massive_compact_halo_object,1457669]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Black_holes,6720830]]'
+studied_in: '[[_Standards/WikiData/WD~astrophysics,37547|WD~astrophysics,37547]]'
+subclass_of: '[[_Standards/WikiData/WD~massive_compact_halo_object,1457669|WD~massive_compact_halo_object,1457669]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Black_holes,6720830|WD~Template_Black_holes,6720830]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/NASA%20Black%20Hole%20Visualization%20Takes%20Viewers%20Beyond%20the%20Brink%20%28SVS14576%20BH%20Plunge%20Mollweide%208192x4096%2060%29.webm
 dv_is_:
   same_as:

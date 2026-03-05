@@ -13,10 +13,10 @@ aliases:
 - 芹亚科
 - 미나리아과
 has_id_wikidata: Q149875
-parent_taxon: '[[_Standards/WikiData/WD~Apiaceae,145794]]'
-taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Apioideae,15630882]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+parent_taxon: '[[_Standards/WikiData/WD~Apiaceae,145794|WD~Apiaceae,145794]]'
+taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280|WD~subfamily,164280]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Apioideae,15630882|WD~Template_Apioideae,15630882]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Koehler1887-PimpinellaAnisum.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Conium%20maculatum%20-%20K%C3%B6hler%E2%80%93s%20Medizinal-Pflanzen-191.jpg

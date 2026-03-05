@@ -49,26 +49,26 @@ aliases:
 - 搞笑
 - 유머
 has_id_wikidata: Q35874
-different_from: '[[_Standards/WikiData/WD~laughter,170579]]'
+different_from: '[[_Standards/WikiData/WD~laughter,170579|WD~laughter,170579]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
-- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878|WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517|WD~Small_Soviet_Encyclopedia,66386517]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624|WD~Lean_Logic,101314624]]'
 instance_of:
-- '[[_Standards/WikiData/WD~attitude,622645]]'
-- '[[_Standards/WikiData/WD~disposition,1149305]]'
-- '[[_Standards/WikiData/WD~tone_(work),108306867]]'
-- '[[_Standards/WikiData/WD~behavior,9332]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Comedy,11192591]]'
-practiced_by: '[[_Standards/WikiData/WD~humorist,12406482]]'
-studied_by: '[[_Standards/WikiData/WD~humor_studies,16247567]]'
-subclass_of: '[[_Standards/WikiData/WD~communication,11024]]'
+- '[[_Standards/WikiData/WD~attitude,622645|WD~attitude,622645]]'
+- '[[_Standards/WikiData/WD~disposition,1149305|WD~disposition,1149305]]'
+- '[[_Standards/WikiData/WD~tone_(work),108306867|WD~tone_(work),108306867]]'
+- '[[_Standards/WikiData/WD~behavior,9332|WD~behavior,9332]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Comedy,11192591|WD~Portal_Comedy,11192591]]'
+practiced_by: '[[_Standards/WikiData/WD~humorist,12406482|WD~humorist,12406482]]'
+studied_by: '[[_Standards/WikiData/WD~humor_studies,16247567|WD~humor_studies,16247567]]'
+subclass_of: '[[_Standards/WikiData/WD~communication,11024|WD~communication,11024]]'
 Dewey_Decimal_Classification:
 - 241.4
 - 179.9

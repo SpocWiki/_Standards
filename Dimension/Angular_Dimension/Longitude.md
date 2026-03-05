@@ -106,10 +106,10 @@ aliases:
 - 经度
 - 경도
 has_id_wikidata: Q36477
-subclass_of: '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-part_of: '[[_Standards/WikiData/WD~geographic_coordinate,104224919]]'
-opposite_of: '[[_Standards/WikiData/WD~latitude,34027]]'
+subclass_of: '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+part_of: '[[_Standards/WikiData/WD~geographic_coordinate,104224919|WD~geographic_coordinate,104224919]]'
+opposite_of: '[[_Standards/WikiData/WD~latitude,34027|WD~latitude,34027]]'
 OmegaWiki_Defined_Meaning: 5183
 OpenStreetMap_key: longitude
 ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mn>1</mn></mstyle></mrow></math>

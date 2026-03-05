@@ -73,7 +73,7 @@ has_id_wikidata: Q106693
 type: ElementGroup
 dv_is_:
   same_as:
-  - '[[../../WikiData/WD~Group_14,106693 ]]'
+  - '[[../../WikiData/WD~Group_14,106693 |WD~Group_14,106693 ]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon|Group-14-Carbon]]'
   - '[[/_public/Chemistry/Chemical_Element/Group-14-Carbon.public|Group-14-Carbon.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Group-14-Carbon.internal|Group-14-Carbon.internal]]'
@@ -82,7 +82,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Chemical_Element/Group-14-Carbon.personal|Group-14-Carbon.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Group-14-Carbon.secret|Group-14-Carbon.secret]]'
 dv_is_same_as:
-- '[[../../WikiData/WD~Group_14,106693 ]]'
+- '[[../../WikiData/WD~Group_14,106693 |WD~Group_14,106693 ]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Group-14-Carbon|Group-14-Carbon]]'
 - '[[/_public/Chemistry/Chemical_Element/Group-14-Carbon.public|Group-14-Carbon.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Group-14-Carbon.internal|Group-14-Carbon.internal]]'
@@ -182,13 +182,13 @@ dv_has_:
 
 #chemic/Group 
 
-2)[[Group-14-Carbon/Carbon]]]
-3)[[Group-14-Carbon/Silicon]]]
-4)[[Group-14-Carbon/Germanium]]]
-5)[[Group-14-Carbon/Tin]]]
-6)[[Group-14-Carbon/Lead]]]
+2)[[Group-14-Carbon/Carbon|Carbon]]]
+3)[[Group-14-Carbon/Silicon|Silicon]]]
+4)[[Group-14-Carbon/Germanium|Germanium]]]
+5)[[Group-14-Carbon/Tin|Tin]]]
+6)[[Group-14-Carbon/Lead|Lead]]]
 
-#is_/same_as :: [[../../WikiData/WD~Group_14,106693 ]]
+#is_/same_as :: [[../../WikiData/WD~Group_14,106693 |WD~Group_14,106693 ]]
 ## #has_/text_of_/abstract 
 
 > The carbon group is a periodic table group consisting of carbon (C), silicon (Si), germanium (Ge), tin (Sn), lead (Pb), and flerovium (Fl). It lies within the p-block.

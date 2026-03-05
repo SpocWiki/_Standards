@@ -85,48 +85,48 @@ MeSH_tree_code:
 - C01.150.252.400.840.500
 Wolfram_Language_entity_code: Entity["Disease", "ICDNine097"]
 Dewey_Decimal_Classification: 616.9513
-has_cause: '[[_Standards/WikiData/WD~Treponema_pallidum,156007]]'
+has_cause: '[[_Standards/WikiData/WD~Treponema_pallidum,156007|WD~Treponema_pallidum,156007]]'
 drug_or_therapy_used_for_treatment:
-- '[[_Standards/WikiData/WD~azithromycin,165399]]'
-- '[[_Standards/WikiData/WD~benzylpenicillin,258450]]'
-- '[[_Standards/WikiData/WD~ceftriaxone,421713]]'
-- '[[_Standards/WikiData/WD~clindamycin,422273]]'
-- '[[_Standards/WikiData/WD~doxycycline,422442]]'
+- '[[_Standards/WikiData/WD~azithromycin,165399|WD~azithromycin,165399]]'
+- '[[_Standards/WikiData/WD~benzylpenicillin,258450|WD~benzylpenicillin,258450]]'
+- '[[_Standards/WikiData/WD~ceftriaxone,421713|WD~ceftriaxone,421713]]'
+- '[[_Standards/WikiData/WD~clindamycin,422273|WD~clindamycin,422273]]'
+- '[[_Standards/WikiData/WD~doxycycline,422442|WD~doxycycline,422442]]'
 health_specialty:
-- '[[_Standards/WikiData/WD~dermatology,171171]]'
-- '[[_Standards/WikiData/WD~infectious_diseases,788926]]'
+- '[[_Standards/WikiData/WD~dermatology,171171|WD~dermatology,171171]]'
+- '[[_Standards/WikiData/WD~infectious_diseases,788926|WD~infectious_diseases,788926]]'
 medical_examination:
-- '[[_Standards/WikiData/WD~polymerase_chain_reaction,176996]]'
-- '[[_Standards/WikiData/WD~immunofluorescence_microscopy,592324]]'
-- '[[_Standards/WikiData/WD~optical_microscope,912313]]'
-- '[[_Standards/WikiData/WD~Venereal_Disease_Research_Laboratory_test,1431052]]'
-- '[[_Standards/WikiData/WD~FTA_ABS,1434193]]'
-- '[[_Standards/WikiData/WD~Wassermann_test,1892532]]'
-- '[[_Standards/WikiData/WD~Rapid_plasma_reagin,7294218]]'
+- '[[_Standards/WikiData/WD~polymerase_chain_reaction,176996|WD~polymerase_chain_reaction,176996]]'
+- '[[_Standards/WikiData/WD~immunofluorescence_microscopy,592324|WD~immunofluorescence_microscopy,592324]]'
+- '[[_Standards/WikiData/WD~optical_microscope,912313|WD~optical_microscope,912313]]'
+- '[[_Standards/WikiData/WD~Venereal_Disease_Research_Laboratory_test,1431052|WD~Venereal_Disease_Research_Laboratory_test,1431052]]'
+- '[[_Standards/WikiData/WD~FTA_ABS,1434193|WD~FTA_ABS,1434193]]'
+- '[[_Standards/WikiData/WD~Wassermann_test,1892532|WD~Wassermann_test,1892532]]'
+- '[[_Standards/WikiData/WD~Rapid_plasma_reagin,7294218|WD~Rapid_plasma_reagin,7294218]]'
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~treponematosis,1243869]]'
-- '[[_Standards/WikiData/WD~primary_bacterial_infectious_disease,18553247]]'
-- '[[_Standards/WikiData/WD~classic_venereal_disease,56369564]]'
-- '[[_Standards/WikiData/WD~disease,12136]]'
-different_from: '[[_Standards/WikiData/WD~Pau,2058396]]'
+- '[[_Standards/WikiData/WD~treponematosis,1243869|WD~treponematosis,1243869]]'
+- '[[_Standards/WikiData/WD~primary_bacterial_infectious_disease,18553247|WD~primary_bacterial_infectious_disease,18553247]]'
+- '[[_Standards/WikiData/WD~classic_venereal_disease,56369564|WD~classic_venereal_disease,56369564]]'
+- '[[_Standards/WikiData/WD~disease,12136|WD~disease,12136]]'
+different_from: '[[_Standards/WikiData/WD~Pau,2058396|WD~Pau,2058396]]'
 on_focus_list_of_Wikimedia_project:
-- '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
-- '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
-facet_of: "[[_Standards/WikiData/WD~women's_health,8031191]]"
+- '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686|WD~WikiProject_Medicine,4099686]]'
+- '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720|WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
+facet_of: "[[_Standards/WikiData/WD~women's_health,8031191|WD~women's_health,8031191]]"
 instance_of:
-- '[[_Standards/WikiData/WD~infectious_disease,18123741]]'
-- '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
-- '[[_Standards/WikiData/WD~sexually_transmitted_infection,12198]]'
+- '[[_Standards/WikiData/WD~infectious_disease,18123741|WD~infectious_disease,18123741]]'
+- '[[_Standards/WikiData/WD~class_of_disease,112193867|WD~class_of_disease,112193867]]'
+- '[[_Standards/WikiData/WD~sexually_transmitted_infection,12198|WD~sexually_transmitted_infection,12198]]'
 studied_by:
-- '[[_Standards/WikiData/WD~syphilidology,123482960]]'
-- '[[_Standards/WikiData/WD~syphilology,126181477]]'
-disease_transmission_process: '[[_Standards/WikiData/WD~sexually_transmitted_infection,12198]]'
+- '[[_Standards/WikiData/WD~syphilidology,123482960|WD~syphilidology,123482960]]'
+- '[[_Standards/WikiData/WD~syphilology,126181477|WD~syphilology,126181477]]'
+disease_transmission_process: '[[_Standards/WikiData/WD~sexually_transmitted_infection,12198|WD~sexually_transmitted_infection,12198]]'
 maximal_incubation_period_in_humans: 90
 minimal_incubation_period_in_humans: 9
 DiseasesDB: 29054

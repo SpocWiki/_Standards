@@ -753,7 +753,7 @@ dv_Area-Total: 9809155
 dv_Area-Land: 9573110
 dv_has_place_continent: '[[North-America]]'
 dv_VehicleCode: USA
-dv_Capital: '[[USA/USA~Eastern/District_of_Columbia/City/Washington~City]]'
+dv_Capital: '[[USA/USA~Eastern/District_of_Columbia/City/Washington~City|Washington~City]]'
 dv_Alcohol-l: 9.4
 dv_Language-Id: 499
 dv_has_place_longitude: -94.8153

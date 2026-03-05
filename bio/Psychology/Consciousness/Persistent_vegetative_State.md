@@ -41,12 +41,12 @@ aliases:
 - 遷延性意識障害
 - 식물 인간
 has_id_wikidata: Q139720
-health_specialty: '[[_Standards/WikiData/WD~neurology,83042]]'
+health_specialty: '[[_Standards/WikiData/WD~neurology,83042|WD~neurology,83042]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~disorder_of_consciousness,4313500]]'
-- '[[_Standards/WikiData/WD~alteration_of_consciousness,102186875]]'
-part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
-instance_of: '[[_Standards/WikiData/WD~symptom_or_sign,112965645]]'
+- '[[_Standards/WikiData/WD~disorder_of_consciousness,4313500|WD~disorder_of_consciousness,4313500]]'
+- '[[_Standards/WikiData/WD~alteration_of_consciousness,102186875|WD~alteration_of_consciousness,102186875]]'
+part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620|WD~psychology_terminology,77468620]]'
+instance_of: '[[_Standards/WikiData/WD~symptom_or_sign,112965645|WD~symptom_or_sign,112965645]]'
 exact_match: http://purl.obolibrary.org/obo/SYMP_0000481
 UMLS_CUI: C0917808
 MeSH_tree_code:

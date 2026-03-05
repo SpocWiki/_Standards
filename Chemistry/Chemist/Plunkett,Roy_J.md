@@ -17,36 +17,36 @@ aliases:
 - 羅伊·普朗克特
 has_id_wikidata: Q908166
 occupation:
-- '[[_Standards/WikiData/WD~engineer,81096]]'
-- '[[_Standards/WikiData/WD~inventor,205375]]'
-- '[[_Standards/WikiData/WD~chemist,593644]]'
+- '[[_Standards/WikiData/WD~engineer,81096|WD~engineer,81096]]'
+- '[[_Standards/WikiData/WD~inventor,205375|WD~inventor,205375]]'
+- '[[_Standards/WikiData/WD~chemist,593644|WD~chemist,593644]]'
 educated_at:
-- '[[_Standards/WikiData/WD~Ohio_State_University,309331]]'
-- '[[_Standards/WikiData/WD~Bethel_High_School,4897900]]'
-- '[[_Standards/WikiData/WD~Manchester_University,6747552]]'
+- '[[_Standards/WikiData/WD~Ohio_State_University,309331|WD~Ohio_State_University,309331]]'
+- '[[_Standards/WikiData/WD~Bethel_High_School,4897900|WD~Bethel_High_School,4897900]]'
+- '[[_Standards/WikiData/WD~Manchester_University,6747552|WD~Manchester_University,6747552]]'
 given_name:
-- '[[_Standards/WikiData/WD~Joseph,471788]]'
-- '[[_Standards/WikiData/WD~Roy,2170752]]'
+- '[[_Standards/WikiData/WD~Joseph,471788|WD~Joseph,471788]]'
+- '[[_Standards/WikiData/WD~Roy,2170752|WD~Roy,2170752]]'
 award_received:
-- '[[_Standards/WikiData/WD~Chemical_Pioneer_Award,1069189]]'
-- '[[_Standards/WikiData/WD~National_Inventors_Hall_of_Fame,1366018]]'
-- '[[_Standards/WikiData/WD~John_Scott_Award,3332215]]'
-- '[[_Standards/WikiData/WD~Holley_Medal,21531768]]'
-place_of_birth: '[[_Standards/WikiData/WD~New_Carlisle,2231962]]'
-manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-family_name: '[[_Standards/WikiData/WD~Plunkett,21491289]]'
-described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-cause_of_death: '[[_Standards/WikiData/WD~cancer,12078]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
-place_of_death: '[[_Standards/WikiData/WD~Corpus_Christi,49242]]'
+- '[[_Standards/WikiData/WD~Chemical_Pioneer_Award,1069189|WD~Chemical_Pioneer_Award,1069189]]'
+- '[[_Standards/WikiData/WD~National_Inventors_Hall_of_Fame,1366018|WD~National_Inventors_Hall_of_Fame,1366018]]'
+- '[[_Standards/WikiData/WD~John_Scott_Award,3332215|WD~John_Scott_Award,3332215]]'
+- '[[_Standards/WikiData/WD~Holley_Medal,21531768|WD~Holley_Medal,21531768]]'
+place_of_birth: '[[_Standards/WikiData/WD~New_Carlisle,2231962|WD~New_Carlisle,2231962]]'
+manner_of_death: '[[_Standards/WikiData/WD~natural_causes,3739104|WD~natural_causes,3739104]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
+family_name: '[[_Standards/WikiData/WD~Plunkett,21491289|WD~Plunkett,21491289]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]'
+cause_of_death: '[[_Standards/WikiData/WD~cancer,12078|WD~cancer,12078]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+place_of_death: '[[_Standards/WikiData/WD~Corpus_Christi,49242|WD~Corpus_Christi,49242]]'
 date_of_death: 1994-05-12T00:00:00Z
 ISNI: 0000000055691604
 date_of_birth: 1910-06-26T00:00:00Z
 dv_is_:
   same_as:
-  - '[[../../WikiData/WD~Roy_J._Plunkett,908166]]'
+  - '[[../../WikiData/WD~Roy_J._Plunkett,908166|WD~Roy_J._Plunkett,908166]]'
   - '[[/_Standards/Chemistry/Chemist/Plunkett,Roy_J|Plunkett,Roy_J]]'
   - '[[/_public/Chemistry/Chemist/Plunkett,Roy_J.public|Plunkett,Roy_J.public]]'
   - '[[/_internal/Chemistry/Chemist/Plunkett,Roy_J.internal|Plunkett,Roy_J.internal]]'
@@ -55,7 +55,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Chemist/Plunkett,Roy_J.personal|Plunkett,Roy_J.personal]]'
   - '[[/_secret/Chemistry/Chemist/Plunkett,Roy_J.secret|Plunkett,Roy_J.secret]]'
 dv_is_same_as:
-- '[[../../WikiData/WD~Roy_J._Plunkett,908166]]'
+- '[[../../WikiData/WD~Roy_J._Plunkett,908166|WD~Roy_J._Plunkett,908166]]'
 - '[[/_Standards/Chemistry/Chemist/Plunkett,Roy_J|Plunkett,Roy_J]]'
 - '[[/_public/Chemistry/Chemist/Plunkett,Roy_J.public|Plunkett,Roy_J.public]]'
 - '[[/_internal/Chemistry/Chemist/Plunkett,Roy_J.internal|Plunkett,Roy_J.internal]]'

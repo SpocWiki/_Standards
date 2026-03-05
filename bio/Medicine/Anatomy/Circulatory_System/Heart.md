@@ -209,40 +209,40 @@ aliases:
 has_id_wikidata: Q1072
 Krugosvet_article: medicina/SERDTSE.html
 has_part_s_:
-- '[[_Standards/WikiData/WD~myocardium,84133]]'
-- '[[_Standards/WikiData/WD~cardiac_chamber,3368336]]'
+- '[[_Standards/WikiData/WD~myocardium,84133|WD~myocardium,84133]]'
+- '[[_Standards/WikiData/WD~cardiac_chamber,3368336|WD~cardiac_chamber,3368336]]'
 arterial_supply:
-- '[[_Standards/WikiData/WD~right_coronary_artery,429285]]'
-- '[[_Standards/WikiData/WD~left_coronary_artery,744391]]'
+- '[[_Standards/WikiData/WD~right_coronary_artery,429285|WD~right_coronary_artery,429285]]'
+- '[[_Standards/WikiData/WD~left_coronary_artery,744391|WD~left_coronary_artery,744391]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- "[[_Standards/WikiData/WD~Gray's_Anatomy_(20th_edition),19558994]]"
-venous_drainage: '[[_Standards/WikiData/WD~superior_vena_cava,736995]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- "[[_Standards/WikiData/WD~Gray's_Anatomy_(20th_edition),19558994|WD~Gray's_Anatomy_(20th_edition),19558994]]"
+venous_drainage: '[[_Standards/WikiData/WD~superior_vena_cava,736995|WD~superior_vena_cava,736995]]'
 different_from:
-- '[[_Standards/WikiData/WD~heart,826930]]'
-- '[[_Standards/WikiData/WD~human_heart,2419844]]'
-- '[[_Standards/WikiData/WD~heart,118112763]]'
-produced_sound: '[[_Standards/WikiData/WD~heart_sound,967103]]'
-anatomical_locations: '[[_Standards/WikiData/WD~cavity_of_bony_thorax,994554]]'
-innervated_by: '[[_Standards/WikiData/WD~cardiac_plexus,5038337]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Heart_anatomy,6418161]]'
-development_of_anatomical_structure: '[[_Standards/WikiData/WD~heart_development,14819288]]'
-has_use: '[[_Standards/WikiData/WD~blood_circulation,14852003]]'
-subclass_of: '[[_Standards/WikiData/WD~animal_organ,24060765]]'
-has_characteristic: '[[_Standards/WikiData/WD~heartbeat,37726042]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_COVID_19,87748614]]'
+- '[[_Standards/WikiData/WD~heart,826930|WD~heart,826930]]'
+- '[[_Standards/WikiData/WD~human_heart,2419844|WD~human_heart,2419844]]'
+- '[[_Standards/WikiData/WD~heart,118112763|WD~heart,118112763]]'
+produced_sound: '[[_Standards/WikiData/WD~heart_sound,967103|WD~heart_sound,967103]]'
+anatomical_locations: '[[_Standards/WikiData/WD~cavity_of_bony_thorax,994554|WD~cavity_of_bony_thorax,994554]]'
+innervated_by: '[[_Standards/WikiData/WD~cardiac_plexus,5038337|WD~cardiac_plexus,5038337]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Heart_anatomy,6418161|WD~Template_Heart_anatomy,6418161]]'
+development_of_anatomical_structure: '[[_Standards/WikiData/WD~heart_development,14819288|WD~heart_development,14819288]]'
+has_use: '[[_Standards/WikiData/WD~blood_circulation,14852003|WD~blood_circulation,14852003]]'
+subclass_of: '[[_Standards/WikiData/WD~animal_organ,24060765|WD~animal_organ,24060765]]'
+has_characteristic: '[[_Standards/WikiData/WD~heartbeat,37726042|WD~heartbeat,37726042]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_COVID_19,87748614|WD~WikiProject_COVID_19,87748614]]'
 instance_of:
-- '[[_Standards/WikiData/WD~organ_type,103812529]]'
-- '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]'
+- '[[_Standards/WikiData/WD~organ_type,103812529|WD~organ_type,103812529]]'
+- '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905|WD~class_of_anatomical_entity,112826905]]'
 connects_with:
-- '[[_Standards/WikiData/WD~vein,9609]]'
-- '[[_Standards/WikiData/WD~artery,9655]]'
-studied_by: '[[_Standards/WikiData/WD~cardiology,10379]]'
-part_of: '[[_Standards/WikiData/WD~circulatory_system,11068]]'
+- '[[_Standards/WikiData/WD~vein,9609|WD~vein,9609]]'
+- '[[_Standards/WikiData/WD~artery,9655|WD~artery,9655]]'
+studied_by: '[[_Standards/WikiData/WD~cardiology,10379|WD~cardiology,10379]]'
+part_of: '[[_Standards/WikiData/WD~circulatory_system,11068|WD~circulatory_system,11068]]'
 OmegaWiki_Defined_Meaning: 5475
 TA98_Latin_term: cor
 Commons_gallery: Heart

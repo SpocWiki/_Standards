@@ -70,15 +70,15 @@ aliases:
 - 수권
 has_id_wikidata: Q83169
 instance_of:
-- '[[_Standards/WikiData/WD~geosphere,241284]]'
-- '[[_Standards/WikiData/WD~geographic_envelope,2627400]]'
-has_part_s_: '[[_Standards/WikiData/WD~World_Ocean,715269]]'
+- '[[_Standards/WikiData/WD~geosphere,241284|WD~geosphere,241284]]'
+- '[[_Standards/WikiData/WD~geographic_envelope,2627400|WD~geographic_envelope,2627400]]'
+has_part_s_: '[[_Standards/WikiData/WD~World_Ocean,715269|WD~World_Ocean,715269]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-subclass_of: '[[_Standards/WikiData/WD~shell_of_an_astronomical_object,47495022]]'
-part_of: '[[_Standards/WikiData/WD~Earth,2]]'
-studied_by: '[[_Standards/WikiData/WD~physical_geography,52107]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+subclass_of: '[[_Standards/WikiData/WD~shell_of_an_astronomical_object,47495022|WD~shell_of_an_astronomical_object,47495022]]'
+part_of: '[[_Standards/WikiData/WD~Earth,2|WD~Earth,2]]'
+studied_by: '[[_Standards/WikiData/WD~physical_geography,52107|WD~physical_geography,52107]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q58635%20%28pan%29-Gaurav%20Jhammat-%E0%A8%9C%E0%A8%B2%E0%A8%AE%E0%A9%B0%E0%A8%A1%E0%A8%B2.wav
 Provenio_UUID: 5d3d1008-39da-433e-9d8f-ecf6d8af4845
 Commons_category: Hydrosphere

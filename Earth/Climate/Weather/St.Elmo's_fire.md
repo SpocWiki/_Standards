@@ -65,17 +65,17 @@ aliases:
 - 聖艾爾摩之火
 - 세인트 엘모의 불
 has_id_wikidata: Q120688
-named_after: '[[_Standards/WikiData/WD~Erasmus_of_Formiae,359878]]'
+named_after: '[[_Standards/WikiData/WD~Erasmus_of_Formiae,359878|WD~Erasmus_of_Formiae,359878]]'
 instance_of:
-- '[[_Standards/WikiData/WD~phenomenon,483247]]'
-- '[[_Standards/WikiData/WD~electrometeor,1779241]]'
+- '[[_Standards/WikiData/WD~phenomenon,483247|WD~phenomenon,483247]]'
+- '[[_Standards/WikiData/WD~electrometeor,1779241|WD~electrometeor,1779241]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Dictionnaire_Infernal,1210353]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Dictionnaire_Infernal,1210353|WD~Dictionnaire_Infernal,1210353]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 Commons_gallery: St. Elmo's Fire
 Commons_category: St. Elmo's Fire
 Iconclass_notation: 2.6e+32

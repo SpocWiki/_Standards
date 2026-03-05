@@ -35,10 +35,10 @@ aliases:
 - 维管形成层
 has_id_wikidata: Q369429
 described_by_source:
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-subclass_of: '[[_Standards/WikiData/WD~secondary_meristem,12051336]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+subclass_of: '[[_Standards/WikiData/WD~secondary_meristem,12051336|WD~secondary_meristem,12051336]]'
 Commons_category: Cambium
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cambium%20%28PSF%29.jpg
 Dewey_Decimal_Classification: 575.488

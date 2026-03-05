@@ -12,8 +12,8 @@ aliases:
 - 大西洋類
 - 대서양계동물군
 has_id_wikidata: Q2718670
-taxon_rank: '[[_Standards/WikiData/WD~magnorder,6054237]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~magnorder,6054237|WD~magnorder,6054237]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Atlantogenata.jpg
 Commons_category: Atlantogenata
 taxon_name: Atlantogenata
@@ -75,7 +75,7 @@ dv_has_:
 
 # [[Atlantogenata]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../../../../../WikiData/WD~Atlantogenata,2718670]] 
+#is_/same_as :: [[../../../../../../../../../../../../../../../../WikiData/WD~Atlantogenata,2718670|WD~Atlantogenata,2718670]] 
 
 ## #has_/text_of_/abstract 
 

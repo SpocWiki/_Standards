@@ -91,10 +91,10 @@ confidential: public
 cssclasses:
 - Type
 draft: false
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 different_from:
-- '[[_Standards/WikiData/WD~Genoa,1449]]'
-- '[[_Standards/WikiData/WD~genome,7020]]'
+- '[[_Standards/WikiData/WD~Genoa,1449|WD~Genoa,1449]]'
+- '[[_Standards/WikiData/WD~genome,7020|WD~genome,7020]]'
 expiryDate: ''
 equivalent_class:
 - http://bioschemas.org/Gene
@@ -106,8 +106,8 @@ exact_match:
 - http://purl.obolibrary.org/obo/SO_0000704
 - http://semanticscience.org/resource/SIO_010035
 has_characteristic:
-- '[[_Standards/WikiData/WD~genetic_characteristic,42138532]]'
-- '[[_Standards/WikiData/WD~type_of_gene,131679239]]'
+- '[[_Standards/WikiData/WD~genetic_characteristic,42138532|WD~genetic_characteristic,42138532]]'
+- '[[_Standards/WikiData/WD~type_of_gene,131679239|WD~type_of_gene,131679239]]'
 isDeleted: false
 isReadOnly: false
 image:
@@ -118,13 +118,13 @@ keywords:
 layout: ''
 license: CC BY-SA 4.0
 linkTitle: is_a_gene Class
-model_item: '[[_Standards/WikiData/WD~acetylcholinesterase,22676679]]'
+model_item: '[[_Standards/WikiData/WD~acetylcholinesterase,22676679|WD~acetylcholinesterase,22676679]]'
 publish: true
 publishDate: ''
 part_of:
-- '[[_Standards/WikiData/WD~gene_cluster,1501261]]'
-- '[[_Standards/WikiData/WD~genome,7020]]'
-- '[[_Standards/WikiData/WD~chromosome,37748]]'
+- '[[_Standards/WikiData/WD~gene_cluster,1501261|WD~gene_cluster,1501261]]'
+- '[[_Standards/WikiData/WD~genome,7020|WD~genome,7020]]'
+- '[[_Standards/WikiData/WD~chromosome,37748|WD~chromosome,37748]]'
 properties_for_this_type:
 - HGNC gene symbol
 - HGNC ID
@@ -132,8 +132,8 @@ properties_for_this_type:
 - encodes
 - altered regulation leads to
 - NCBI locus tag
-subject_has_role: '[[_Standards/WikiData/WD~heredity,178694]]'
-subclass_of: '[[_Standards/WikiData/WD~biomolecular_structure,15712714]]'
+subject_has_role: '[[_Standards/WikiData/WD~heredity,178694|WD~heredity,178694]]'
+subclass_of: '[[_Standards/WikiData/WD~biomolecular_structure,15712714|WD~biomolecular_structure,15712714]]'
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B3%D5%A5%D5%B6%20%28Gene%29.ogg
 tags:
 - class/Class
@@ -141,8 +141,8 @@ tags:
 title: is_a_gene Class
 type: Type
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Gene,10543105]]'
-- '[[_Standards/WikiData/WD~Template_Infobox_gene,23833192]]'
+- '[[_Standards/WikiData/WD~Template_Gene,10543105|WD~Template_Gene,10543105]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_gene,23833192|WD~Template_Infobox_gene,23833192]]'
 dv_has_:
   name_:
     af: geen
@@ -307,7 +307,7 @@ A discrete unit of inheritance which affects one or more biological traits
 
 Examples include FOXP2 (Forkhead box protein P2), SCARNA21 (small Cajal body-specific RNA 21), A- (agouti genotype).
 
-#has_/parent_class :: [[../../schema-org/Class/is_a_/Bio_Chem_Entity]]  
+#has_/parent_class :: [[../../schema-org/Class/is_a_/Bio_Chem_Entity|Bio_Chem_Entity]]  
 
 #has_/properties :: [ additionalType, alternateName, alternativeOf, associatedDisease, bioChemInteraction, bioChemSimilarity, biologicalRole, description, disambiguatingDescription, encodesBioChemEntity, expressedIn, funding, hasBioChemEntityPart, hasBioPolymerSequence, hasMolecularFunction, hasRepresentation, identifier, image, isEncodedByBioChemEntity, isInvolvedInBiologicalProcess, isLocatedInSubcellularLocation, isPartOfBioChemEntity, mainEntityOfPage, name, potentialAction, sameAs, subjectOf, taxonomicRange, url ]  
 

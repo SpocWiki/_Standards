@@ -78,30 +78,30 @@ tags:
 - astro/Zodiac
 type: Zodiac
 named_after:
-- '[[_Standards/WikiData/WD~head_hair,336128]]'
-- '[[_Standards/WikiData/WD~Berenice_II,40010]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Conon_of_Samos,354377]]'
+- '[[_Standards/WikiData/WD~head_hair,336128|WD~head_hair,336128]]'
+- '[[_Standards/WikiData/WD~Berenice_II,40010|WD~Berenice_II,40010]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Conon_of_Samos,354377|WD~Conon_of_Samos,354377]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~A_field_book_of_the_stars,55346553]]'
-- '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~A_field_book_of_the_stars,55346553|WD~A_field_book_of_the_stars,55346553]]'
+- '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886|WD~Star_Lore_of_All_Ages,95985886]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Q10729143,10729143]]'
-- '[[_Standards/WikiData/WD~Template_Stars_of_Coma_Berenices,11100971]]'
+- '[[_Standards/WikiData/WD~Q10729143,10729143|WD~Q10729143,10729143]]'
+- '[[_Standards/WikiData/WD~Template_Stars_of_Coma_Berenices,11100971|WD~Template_Stars_of_Coma_Berenices,11100971]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Five_Lords,10882190]]'
-- '[[_Standards/WikiData/WD~Left_Wall_of_the_Supreme_Palace_Enclosure,10941555]]'
-- '[[_Standards/WikiData/WD~Officer_of_Honour,15886365]]'
-- '[[_Standards/WikiData/WD~Officers_of_the_Imperial_Guard,15938170]]'
-- '[[_Standards/WikiData/WD~Captain_of_the_Bodyguards,17060986]]'
+- '[[_Standards/WikiData/WD~Five_Lords,10882190|WD~Five_Lords,10882190]]'
+- '[[_Standards/WikiData/WD~Left_Wall_of_the_Supreme_Palace_Enclosure,10941555|WD~Left_Wall_of_the_Supreme_Palace_Enclosure,10941555]]'
+- '[[_Standards/WikiData/WD~Officer_of_Honour,15886365|WD~Officer_of_Honour,15886365]]'
+- '[[_Standards/WikiData/WD~Officers_of_the_Imperial_Guard,15938170|WD~Officers_of_the_Imperial_Guard,15938170]]'
+- '[[_Standards/WikiData/WD~Captain_of_the_Bodyguards,17060986|WD~Captain_of_the_Bodyguards,17060986]]'
 shares_border_with:
-- '[[_Standards/WikiData/WD~Boötes,8667]]'
-- '[[_Standards/WikiData/WD~Virgo,8842]]'
-- '[[_Standards/WikiData/WD~Leo,8853]]'
-- '[[_Standards/WikiData/WD~Ursa_Major,8918]]'
-- '[[_Standards/WikiData/WD~Canes_Venatici,10452]]'
-instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
+- '[[_Standards/WikiData/WD~Boötes,8667|WD~Boötes,8667]]'
+- '[[_Standards/WikiData/WD~Virgo,8842|WD~Virgo,8842]]'
+- '[[_Standards/WikiData/WD~Leo,8853|WD~Leo,8853]]'
+- '[[_Standards/WikiData/WD~Ursa_Major,8918|WD~Ursa_Major,8918]]'
+- '[[_Standards/WikiData/WD~Canes_Venatici,10452|WD~Canes_Venatici,10452]]'
+instance_of: '[[_Standards/WikiData/WD~constellation,8928|WD~constellation,8928]]'
 area: 386.5
 OmegaWiki_Defined_Meaning: 1306856
 official_name: Coma Berenices

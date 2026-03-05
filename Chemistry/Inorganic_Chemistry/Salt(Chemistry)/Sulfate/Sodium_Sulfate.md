@@ -55,23 +55,23 @@ aliases:
 - 硫酸钠
 - 황산 나트륨
 has_id_wikidata: Q211737
-has_use: '[[_Standards/WikiData/WD~food_additive,189567]]'
+has_use: '[[_Standards/WikiData/WD~food_additive,189567|WD~food_additive,189567]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635|WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~sodium_salt,1508568]]'
-- '[[_Standards/WikiData/WD~sulfate_salt,64995433]]'
-has_characteristic: '[[_Standards/WikiData/WD~bitterness,1517187]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Natrii_Sulfus,27650033]]'
-safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
+- '[[_Standards/WikiData/WD~sodium_salt,1508568|WD~sodium_salt,1508568]]'
+- '[[_Standards/WikiData/WD~sulfate_salt,64995433|WD~sulfate_salt,64995433]]'
+has_characteristic: '[[_Standards/WikiData/WD~bitterness,1517187|WD~bitterness,1517187]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Natrii_Sulfus,27650033|WD~Natrii_Sulfus,27650033]]'
+safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288|WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171|WD~type_of_chemical_entity,113145171]]'
 standard_enthalpy_of_formation: -1387.9
 has_part_s_:
-- '[[_Standards/WikiData/WD~oxygen,629]]'
-- '[[_Standards/WikiData/WD~sodium,658]]'
-- '[[_Standards/WikiData/WD~sulfur,682]]'
+- '[[_Standards/WikiData/WD~oxygen,629|WD~oxygen,629]]'
+- '[[_Standards/WikiData/WD~sodium,658|WD~sodium,658]]'
+- '[[_Standards/WikiData/WD~sulfur,682|WD~sulfur,682]]'
 density: 2.68
 melting_point: 884
 PubChem_CID:

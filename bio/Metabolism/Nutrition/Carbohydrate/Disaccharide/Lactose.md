@@ -55,53 +55,53 @@ aliases:
 - 乳糖
 - 락토스
 has_id_wikidata: Q127900
-found_in_taxon: '[[_Standards/WikiData/WD~Hypericum_perforatum,158289]]'
-subject_has_role: '[[_Standards/WikiData/WD~excipient,902638]]'
+found_in_taxon: '[[_Standards/WikiData/WD~Hypericum_perforatum,158289|WD~Hypericum_perforatum,158289]]'
+subject_has_role: '[[_Standards/WikiData/WD~excipient,902638|WD~excipient,902638]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
-has_use: '[[_Standards/WikiData/WD~Milk_sugar_and_syrups,26883713]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630|WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
+has_use: '[[_Standards/WikiData/WD~Milk_sugar_and_syrups,26883713|WD~Milk_sugar_and_syrups,26883713]]'
 stereoisomer_of:
-- '[[_Standards/WikiData/WD~α_maltose,26914016]]'
-- '[[_Standards/WikiData/WD~β_maltose,26914030]]'
-- '[[_Standards/WikiData/WD~beta_Mannobiose,27092863]]'
-- '[[_Standards/WikiData/WD~Galactobiose,27093692]]'
-- '[[_Standards/WikiData/WD~alpha_cellobiose,27103831]]'
-- '[[_Standards/WikiData/WD~α_lactose,27104342]]'
-- '[[_Standards/WikiData/WD~beta_cellobiose,27104340]]'
-- '[[_Standards/WikiData/WD~β_D_glucosyl_(1_4)_β_D_mannose,27106310]]'
-- '[[_Standards/WikiData/WD~alpha_mannobiose,27116750]]'
-- '[[_Standards/WikiData/WD~β_D_galactopyranosyl_(1_4)_α_D_galactopyranose,27116753]]'
-- '[[_Standards/WikiData/WD~β_D_glucosyl_(1_4)_α_D_mannose,27120859]]'
-- '[[_Standards/WikiData/WD~α_D_glucosyl_(1_4)_β_D_mannose,27120862]]'
-- '[[_Standards/WikiData/WD~α_D_glucosyl_(1_4)_α_D_mannose,27120863]]'
-- '[[_Standards/WikiData/WD~α_D_Galp_(1_4)_β_D_Galp,27126621]]'
-- '[[_Standards/WikiData/WD~β_D_Gal_(1_4)_α_D_Man,27159442]]'
-- '[[_Standards/WikiData/WD~Gal(a1_4)a_Ido,104249380]]'
-- '[[_Standards/WikiData/WD~β_D_mannopyranosyl_(1_4)_β_D_glucopyranose,105019934]]'
-- '[[_Standards/WikiData/WD~Gal(a1_4)a_Alt,105019946]]'
-- '[[_Standards/WikiData/WD~beta_epilactose,106046222]]'
-- '[[_Standards/WikiData/WD~α_D_Galp_(1_4)_α_D_Glcp,106054206]]'
-- '[[_Standards/WikiData/WD~α_D_Galp_(1_4)_β_D_Glcp,106054211]]'
-- '[[_Standards/WikiData/WD~α_D_Galp_(1_4)_α_D_Galp,106054383]]'
-- '[[_Standards/WikiData/WD~α_D_Glcp_(1_4)_β_D_Galp,106054450]]'
-- '[[_Standards/WikiData/WD~α_D_Glcp_(1_4)_α_D_Galp,106054454]]'
-- '[[_Standards/WikiData/WD~β_D_Glcp_(1_4)_β_D_Galp,106054525]]'
-- '[[_Standards/WikiData/WD~β_D_Glcp_(1_4)_α_D_Galp,106054531]]'
-- '[[_Standards/WikiData/WD~α_D_Manp_(1_4)_α_D_Manp,106054587]]'
-- '[[_Standards/WikiData/WD~α_D_Manp_(1_4)_β_D_Manp,106054642]]'
-- '[[_Standards/WikiData/WD~β_D_Manp_(1_4)_β_Galp,106055780]]'
-- '[[_Standards/WikiData/WD~L_Gul(a1_4)b_Tal,115784681]]'
-safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
-subclass_of: '[[_Standards/WikiData/WD~α_β_lactose,56229948]]'
+- '[[_Standards/WikiData/WD~α_maltose,26914016|WD~α_maltose,26914016]]'
+- '[[_Standards/WikiData/WD~β_maltose,26914030|WD~β_maltose,26914030]]'
+- '[[_Standards/WikiData/WD~beta_Mannobiose,27092863|WD~beta_Mannobiose,27092863]]'
+- '[[_Standards/WikiData/WD~Galactobiose,27093692|WD~Galactobiose,27093692]]'
+- '[[_Standards/WikiData/WD~alpha_cellobiose,27103831|WD~alpha_cellobiose,27103831]]'
+- '[[_Standards/WikiData/WD~α_lactose,27104342|WD~α_lactose,27104342]]'
+- '[[_Standards/WikiData/WD~beta_cellobiose,27104340|WD~beta_cellobiose,27104340]]'
+- '[[_Standards/WikiData/WD~β_D_glucosyl_(1_4)_β_D_mannose,27106310|WD~β_D_glucosyl_(1_4)_β_D_mannose,27106310]]'
+- '[[_Standards/WikiData/WD~alpha_mannobiose,27116750|WD~alpha_mannobiose,27116750]]'
+- '[[_Standards/WikiData/WD~β_D_galactopyranosyl_(1_4)_α_D_galactopyranose,27116753|WD~β_D_galactopyranosyl_(1_4)_α_D_galactopyranose,27116753]]'
+- '[[_Standards/WikiData/WD~β_D_glucosyl_(1_4)_α_D_mannose,27120859|WD~β_D_glucosyl_(1_4)_α_D_mannose,27120859]]'
+- '[[_Standards/WikiData/WD~α_D_glucosyl_(1_4)_β_D_mannose,27120862|WD~α_D_glucosyl_(1_4)_β_D_mannose,27120862]]'
+- '[[_Standards/WikiData/WD~α_D_glucosyl_(1_4)_α_D_mannose,27120863|WD~α_D_glucosyl_(1_4)_α_D_mannose,27120863]]'
+- '[[_Standards/WikiData/WD~α_D_Galp_(1_4)_β_D_Galp,27126621|WD~α_D_Galp_(1_4)_β_D_Galp,27126621]]'
+- '[[_Standards/WikiData/WD~β_D_Gal_(1_4)_α_D_Man,27159442|WD~β_D_Gal_(1_4)_α_D_Man,27159442]]'
+- '[[_Standards/WikiData/WD~Gal(a1_4)a_Ido,104249380|WD~Gal(a1_4)a_Ido,104249380]]'
+- '[[_Standards/WikiData/WD~β_D_mannopyranosyl_(1_4)_β_D_glucopyranose,105019934|WD~β_D_mannopyranosyl_(1_4)_β_D_glucopyranose,105019934]]'
+- '[[_Standards/WikiData/WD~Gal(a1_4)a_Alt,105019946|WD~Gal(a1_4)a_Alt,105019946]]'
+- '[[_Standards/WikiData/WD~beta_epilactose,106046222|WD~beta_epilactose,106046222]]'
+- '[[_Standards/WikiData/WD~α_D_Galp_(1_4)_α_D_Glcp,106054206|WD~α_D_Galp_(1_4)_α_D_Glcp,106054206]]'
+- '[[_Standards/WikiData/WD~α_D_Galp_(1_4)_β_D_Glcp,106054211|WD~α_D_Galp_(1_4)_β_D_Glcp,106054211]]'
+- '[[_Standards/WikiData/WD~α_D_Galp_(1_4)_α_D_Galp,106054383|WD~α_D_Galp_(1_4)_α_D_Galp,106054383]]'
+- '[[_Standards/WikiData/WD~α_D_Glcp_(1_4)_β_D_Galp,106054450|WD~α_D_Glcp_(1_4)_β_D_Galp,106054450]]'
+- '[[_Standards/WikiData/WD~α_D_Glcp_(1_4)_α_D_Galp,106054454|WD~α_D_Glcp_(1_4)_α_D_Galp,106054454]]'
+- '[[_Standards/WikiData/WD~β_D_Glcp_(1_4)_β_D_Galp,106054525|WD~β_D_Glcp_(1_4)_β_D_Galp,106054525]]'
+- '[[_Standards/WikiData/WD~β_D_Glcp_(1_4)_α_D_Galp,106054531|WD~β_D_Glcp_(1_4)_α_D_Galp,106054531]]'
+- '[[_Standards/WikiData/WD~α_D_Manp_(1_4)_α_D_Manp,106054587|WD~α_D_Manp_(1_4)_α_D_Manp,106054587]]'
+- '[[_Standards/WikiData/WD~α_D_Manp_(1_4)_β_D_Manp,106054642|WD~α_D_Manp_(1_4)_β_D_Manp,106054642]]'
+- '[[_Standards/WikiData/WD~β_D_Manp_(1_4)_β_Galp,106055780|WD~β_D_Manp_(1_4)_β_Galp,106055780]]'
+- '[[_Standards/WikiData/WD~L_Gul(a1_4)b_Tal,115784681|WD~L_Gul(a1_4)b_Tal,115784681]]'
+safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288|WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
+subclass_of: '[[_Standards/WikiData/WD~α_β_lactose,56229948|WD~α_β_lactose,56229948]]'
 instance_of:
-- '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
-- '[[_Standards/WikiData/WD~simple_carbohydrates,136192523]]'
+- '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171|WD~type_of_chemical_entity,113145171]]'
+- '[[_Standards/WikiData/WD~simple_carbohydrates,136192523|WD~simple_carbohydrates,136192523]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~hydrogen,556]]'
-- '[[_Standards/WikiData/WD~carbon,623]]'
-- '[[_Standards/WikiData/WD~oxygen,629]]'
+- '[[_Standards/WikiData/WD~hydrogen,556|WD~hydrogen,556]]'
+- '[[_Standards/WikiData/WD~carbon,623|WD~carbon,623]]'
+- '[[_Standards/WikiData/WD~oxygen,629|WD~oxygen,629]]'
 PubChem_CID: 6134
 ZVG_number: 100321
 Reaxys_registry_number: 90841
@@ -242,15 +242,15 @@ dv_has_:
 
 # [[Lactose]]  
 
-#is_/instance_of :: [[../Disaccharide]] 
-#has_/parent_class :: [[../Disaccharide]] 
-#has_/parts :: [[../Monosaccharide/Galactose]] 
-#has_/parts :: [[../Monosaccharide/Glucose]]  
+#is_/instance_of :: [[../Disaccharide|Disaccharide]] 
+#has_/parent_class :: [[../Disaccharide|Disaccharide]] 
+#has_/parts :: [[../Monosaccharide/Galactose|Galactose]] 
+#has_/parts :: [[../Monosaccharide/Glucose|Glucose]]  
 #is_/same_as :: [[../../../../../WikiData/WD~Β-lactose,127900|WD~Β-lactose,127900]] 
 
 ## #has_/text_of_/abstract 
 
-> **Lactose**, or milk sugar, is a [[../Disaccharide]] composed of [[../Monosaccharide/Galactose]] and [[../Monosaccharide/Glucose]] 
+> **Lactose**, or milk sugar, is a [[../Disaccharide|Disaccharide]] composed of [[../Monosaccharide/Galactose|Galactose]] and [[../Monosaccharide/Glucose|Glucose]] 
 > and has the molecular formula C12H22O11. 
 > 
 > Lactose makes up around 2–8% of milk (by mass). 

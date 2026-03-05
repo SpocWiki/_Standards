@@ -5,9 +5,9 @@ aliases:
 - ثيروفوسويدا
 - 捕鸟蛛总科
 has_id_wikidata: Q54477
-taxon_rank: '[[_Standards/WikiData/WD~superfamily,2136103]]'
-parent_taxon: '[[../../../../../../../../../../WikiData/WD~Mygalomorphae,12081]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~superfamily,2136103|WD~superfamily,2136103]]'
+parent_taxon: '[[../../../../../../../../../../WikiData/WD~Mygalomorphae,12081|WD~Mygalomorphae,12081]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Avicularia%20metallica%20immature.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Caribena%20versicolor%207%20Fh.jpg
@@ -58,7 +58,7 @@ dv_has_:
 
 # [[Theraphosoidea]] 
 
-#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Theraphosoidea,54477]] 
+#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Theraphosoidea,54477|WD~Theraphosoidea,54477]] 
 
 ## #has_/text_of_/abstract 
 

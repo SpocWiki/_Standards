@@ -87,21 +87,21 @@ aliases:
 - 뱀장어목
 has_id_wikidata: Q128685
 parent_taxon:
-- '[[_Standards/WikiData/WD~Elopomorpha,149107]]'
-- '[[_Standards/WikiData/WD~Actinopteri,343460]]'
+- '[[_Standards/WikiData/WD~Elopomorpha,149107|WD~Elopomorpha,149107]]'
+- '[[_Standards/WikiData/WD~Actinopteri,343460|WD~Actinopteri,343460]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 pronunciation_audio:
 - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q5317225%20%28dtp%29-Nelynnnnn-sinsilog.wav
 - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33070%20%28ban%29-Bayu%20Gita-Julit.wav
 - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33070%20%28ban%29-Carma%20citrawati-Julit.wav
-this_taxon_is_source_of: '[[_Standards/WikiData/WD~eel_as_food,5347044]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~eel_as_food,5347044|WD~eel_as_food,5347044]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~order,36602|WD~order,36602]]'
 ITIS_TSN: 161123
 UNSPSC_Code: 10101705
 OmegaWiki_Defined_Meaning: 433736

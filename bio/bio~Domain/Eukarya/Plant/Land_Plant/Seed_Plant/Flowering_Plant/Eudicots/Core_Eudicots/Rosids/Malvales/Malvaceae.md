@@ -137,19 +137,19 @@ taxon_common_name:
 - アオイ科
 - Мальвові
 - خبازية
-taxonomic_type: '[[_Standards/WikiData/WD~Malva,147325]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Malva,147325|WD~Malva,147325]]'
 has_fruit_type:
-- '[[_Standards/WikiData/WD~capsule,147768]]'
-- '[[_Standards/WikiData/WD~berry,13184]]'
+- '[[_Standards/WikiData/WD~capsule,147768|WD~capsule,147768]]'
+- '[[_Standards/WikiData/WD~berry,13184|WD~berry,13184]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_49(2),112869441]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-parent_taxon: '[[_Standards/WikiData/WD~Malvales,21908]]'
-taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_49(2),112869441|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_49(2),112869441]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+parent_taxon: '[[_Standards/WikiData/WD~Malvales,21908|WD~Malvales,21908]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409|WD~family,35409]]'
 ITIS_TSN: 21608
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/%28MHNT%29%20Malva%20parviflora%20-%20Habitus.jpg
@@ -314,7 +314,7 @@ dv_has_:
 
 # [[Malvaceae]] 
 
-#is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Malvaceae,156551]] 
+#is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Malvaceae,156551|WD~Malvaceae,156551]] 
 
 ## #has_/text_of_/abstract 
 

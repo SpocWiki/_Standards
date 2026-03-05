@@ -64,12 +64,12 @@ aliases:
 - 鼠海豚科
 - 쇠돌고래과
 has_id_wikidata: Q10867
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25681647,25681647]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25681647,25681647|WD~Q25681647,25681647]]'
 start_time: -15970000-01-01T00:00:00Z
-code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011|WD~International_Code_of_Zoological_Nomenclature,13011]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409|WD~family,35409]]'
 OmegaWiki_Defined_Meaning: 1210547
 Commons_category: Phocoenidae
 taxon_name: Phocoenidae

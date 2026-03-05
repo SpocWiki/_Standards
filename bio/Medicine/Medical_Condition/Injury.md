@@ -72,29 +72,29 @@ aliases:
 - 외상
 has_id_wikidata: Q193078
 handled_mitigated_or_managed_by:
-- '[[_Standards/WikiData/WD~first_aid,133981]]'
-- '[[_Standards/WikiData/WD~injury_prevention,373494]]'
-- '[[_Standards/WikiData/WD~rehabilitation,2795791]]'
+- '[[_Standards/WikiData/WD~first_aid,133981|WD~first_aid,133981]]'
+- '[[_Standards/WikiData/WD~injury_prevention,373494|WD~injury_prevention,373494]]'
+- '[[_Standards/WikiData/WD~rehabilitation,2795791|WD~rehabilitation,2795791]]'
 has_cause:
-- '[[_Standards/WikiData/WD~accident,171558]]'
-- '[[_Standards/WikiData/WD~attack,1174599]]'
-has_effect: '[[_Standards/WikiData/WD~dying,267505]]'
+- '[[_Standards/WikiData/WD~accident,171558|WD~accident,171558]]'
+- '[[_Standards/WikiData/WD~attack,1174599|WD~attack,1174599]]'
+has_effect: '[[_Standards/WikiData/WD~dying,267505|WD~dying,267505]]'
 health_specialty:
-- '[[_Standards/WikiData/WD~traumatology,376680]]'
-- '[[_Standards/WikiData/WD~emergency_medicine,2861470]]'
+- '[[_Standards/WikiData/WD~traumatology,376680|WD~traumatology,376680]]'
+- '[[_Standards/WikiData/WD~emergency_medicine,2861470|WD~emergency_medicine,2861470]]'
 drug_or_therapy_used_for_treatment:
-- '[[_Standards/WikiData/WD~oxycodone,407535]]'
-- '[[_Standards/WikiData/WD~denosumab,408283]]'
+- '[[_Standards/WikiData/WD~oxycodone,407535|WD~oxycodone,407535]]'
+- '[[_Standards/WikiData/WD~denosumab,408283|WD~denosumab,408283]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~damage,481609]]'
-- '[[_Standards/WikiData/WD~health_problem,2057971]]'
-- '[[_Standards/WikiData/WD~trauma,117134054]]'
-different_from: '[[_Standards/WikiData/WD~major_trauma,1064904]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~injury,12421818]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_General_injuries,14446162]]'
+- '[[_Standards/WikiData/WD~damage,481609|WD~damage,481609]]'
+- '[[_Standards/WikiData/WD~health_problem,2057971|WD~health_problem,2057971]]'
+- '[[_Standards/WikiData/WD~trauma,117134054|WD~trauma,117134054]]'
+different_from: '[[_Standards/WikiData/WD~major_trauma,1064904|WD~major_trauma,1064904]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~injury,12421818|WD~injury,12421818]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_General_injuries,14446162|WD~Template_General_injuries,14446162]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-- '[[_Standards/WikiData/WD~Belarusian_encyclopedia_(vol._15),24038862]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135|WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Belarusian_encyclopedia_(vol._15),24038862|WD~Belarusian_encyclopedia_(vol._15),24038862]]'
 Wikidata_property: number of injured
 IAB_code: 298
 DiseasesDB: 28858

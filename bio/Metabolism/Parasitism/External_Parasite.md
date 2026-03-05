@@ -24,11 +24,11 @@ aliases:
 - 외부기생물
 has_id_wikidata: Q7880449
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
-has_effect: '[[_Standards/WikiData/WD~ectoparasitism,5334259]]'
-subclass_of: '[[_Standards/WikiData/WD~parasite,10253316]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517|WD~Small_Soviet_Encyclopedia,66386517]]'
+has_effect: '[[_Standards/WikiData/WD~ectoparasitism,5334259|WD~ectoparasitism,5334259]]'
+subclass_of: '[[_Standards/WikiData/WD~parasite,10253316|WD~parasite,10253316]]'
 dv_has_:
   name_:
     ca: ectoparásit

@@ -41,17 +41,17 @@ aliases:
 - 해들리 세포
 has_id_wikidata: Q338589
 has_part_s_:
-- '[[_Standards/WikiData/WD~trade_wind,160603]]'
-- '[[_Standards/WikiData/WD~Q52731221,52731221]]'
-instance_of: '[[_Standards/WikiData/WD~cellular_circulation,187670]]'
-named_after: '[[_Standards/WikiData/WD~George_Hadley,968686]]'
-facet_of: '[[_Standards/WikiData/WD~atmospheric_circulation,2615451]]'
-part_of: '[[_Standards/WikiData/WD~atmospheric_circulation,2615451]]'
+- '[[_Standards/WikiData/WD~trade_wind,160603|WD~trade_wind,160603]]'
+- '[[_Standards/WikiData/WD~Q52731221,52731221|WD~Q52731221,52731221]]'
+instance_of: '[[_Standards/WikiData/WD~cellular_circulation,187670|WD~cellular_circulation,187670]]'
+named_after: '[[_Standards/WikiData/WD~George_Hadley,968686|WD~George_Hadley,968686]]'
+facet_of: '[[_Standards/WikiData/WD~atmospheric_circulation,2615451|WD~atmospheric_circulation,2615451]]'
+part_of: '[[_Standards/WikiData/WD~atmospheric_circulation,2615451|WD~atmospheric_circulation,2615451]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/HadleyCross-sec.jpg
 Commons_category: Hadley cells
 dv_is_:
   same_as:
-  - '[[../../WikiData/WD~Hadley_cell,338589]]'
+  - '[[../../WikiData/WD~Hadley_cell,338589|WD~Hadley_cell,338589]]'
   - '[[/_Standards/Earth/Climate/Hadley_Cell|Hadley_Cell]]'
   - '[[/_public/Earth/Climate/Hadley_Cell.public|Hadley_Cell.public]]'
   - '[[/_internal/Earth/Climate/Hadley_Cell.internal|Hadley_Cell.internal]]'
@@ -60,7 +60,7 @@ dv_is_:
   - '[[/_personal/Earth/Climate/Hadley_Cell.personal|Hadley_Cell.personal]]'
   - '[[/_secret/Earth/Climate/Hadley_Cell.secret|Hadley_Cell.secret]]'
 dv_is_same_as:
-- '[[../../WikiData/WD~Hadley_cell,338589]]'
+- '[[../../WikiData/WD~Hadley_cell,338589|WD~Hadley_cell,338589]]'
 - '[[/_Standards/Earth/Climate/Hadley_Cell|Hadley_Cell]]'
 - '[[/_public/Earth/Climate/Hadley_Cell.public|Hadley_Cell.public]]'
 - '[[/_internal/Earth/Climate/Hadley_Cell.internal|Hadley_Cell.internal]]'

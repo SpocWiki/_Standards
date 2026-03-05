@@ -65,7 +65,7 @@ aliases:
 - 溶解性
 - 용해도
 has_id_wikidata: Q170731
-subclass_of: '[[_Standards/WikiData/WD~physical_quantity,107715]]'
+subclass_of: '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
 Wikidata_property:
 - solubility
 - descriptive solubility
@@ -80,7 +80,7 @@ MeSH_tree_code: G02.805
 Commons_category: Solubility
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Solubility,170731]]'
+  - '[[../../../../WikiData/WD~Solubility,170731|WD~Solubility,170731]]'
   - '[[/_Standards/Chemistry/Substance/Mixture/Solution/Solubility|Solubility]]'
   - '[[/_public/Chemistry/Substance/Mixture/Solution/Solubility.public|Solubility.public]]'
   - '[[/_internal/Chemistry/Substance/Mixture/Solution/Solubility.internal|Solubility.internal]]'
@@ -89,7 +89,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Substance/Mixture/Solution/Solubility.personal|Solubility.personal]]'
   - '[[/_secret/Chemistry/Substance/Mixture/Solution/Solubility.secret|Solubility.secret]]'
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Solubility,170731]]'
+- '[[../../../../WikiData/WD~Solubility,170731|WD~Solubility,170731]]'
 - '[[/_Standards/Chemistry/Substance/Mixture/Solution/Solubility|Solubility]]'
 - '[[/_public/Chemistry/Substance/Mixture/Solution/Solubility.public|Solubility.public]]'
 - '[[/_internal/Chemistry/Substance/Mixture/Solution/Solubility.internal|Solubility.internal]]'

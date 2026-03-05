@@ -44,20 +44,20 @@ aliases:
 - 畢宿星團
 - 히아데스 성단
 has_id_wikidata: Q13511
-different_from: '[[_Standards/WikiData/WD~star_cluster,168845]]'
+different_from: '[[_Standards/WikiData/WD~star_cluster,168845|WD~star_cluster,168845]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]'
-named_after: '[[_Standards/WikiData/WD~Hyades,646049]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886|WD~Star_Lore_of_All_Ages,95985886]]'
+named_after: '[[_Standards/WikiData/WD~Hyades,646049|WD~Hyades,646049]]'
 declination_component_of_proper_motion:
 - -28.49
 - -4.26
-constellation: '[[_Standards/WikiData/WD~Taurus,10570]]'
-instance_of: '[[_Standards/WikiData/WD~open_cluster,11387]]'
+constellation: '[[_Standards/WikiData/WD~Taurus,10570|WD~Taurus,10570]]'
+instance_of: '[[_Standards/WikiData/WD~open_cluster,11387|WD~open_cluster,11387]]'
 apparent_magnitude: 0.5
 metallicity: 0.13
 distance_from_Earth: 150
@@ -82,7 +82,7 @@ declination: 15.866667
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hyades.jpg
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Hyades,13511]]'
+  - '[[../../../WikiData/WD~Hyades,13511|WD~Hyades,13511]]'
   - '[[/_Standards/Astronomy/Star_System/Star_Cluster/Hyades|Hyades]]'
   - '[[/_public/Astronomy/Star_System/Star_Cluster/Hyades.public|Hyades.public]]'
   - '[[/_internal/Astronomy/Star_System/Star_Cluster/Hyades.internal|Hyades.internal]]'
@@ -91,7 +91,7 @@ dv_is_:
   - '[[/_personal/Astronomy/Star_System/Star_Cluster/Hyades.personal|Hyades.personal]]'
   - '[[/_secret/Astronomy/Star_System/Star_Cluster/Hyades.secret|Hyades.secret]]'
 dv_is_same_as:
-- '[[../../../WikiData/WD~Hyades,13511]]'
+- '[[../../../WikiData/WD~Hyades,13511|WD~Hyades,13511]]'
 - '[[/_Standards/Astronomy/Star_System/Star_Cluster/Hyades|Hyades]]'
 - '[[/_public/Astronomy/Star_System/Star_Cluster/Hyades.public|Hyades.public]]'
 - '[[/_internal/Astronomy/Star_System/Star_Cluster/Hyades.internal|Hyades.internal]]'

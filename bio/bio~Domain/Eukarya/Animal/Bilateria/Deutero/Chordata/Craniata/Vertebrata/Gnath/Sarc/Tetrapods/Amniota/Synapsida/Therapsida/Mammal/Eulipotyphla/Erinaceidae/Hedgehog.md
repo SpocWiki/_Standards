@@ -87,20 +87,20 @@ aliases:
 - 蝟
 - 고슴도치아과
 has_id_wikidata: Q6120
-has_characteristic: '[[_Standards/WikiData/WD~hibernation,159408]]'
-taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280]]'
+has_characteristic: '[[_Standards/WikiData/WD~hibernation,159408|WD~hibernation,159408]]'
+taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280|WD~subfamily,164280]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-different_from: '[[_Standards/WikiData/WD~porcupine,1223829]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+different_from: '[[_Standards/WikiData/WD~porcupine,1223829|WD~porcupine,1223829]]'
 means_of_locomotion:
-- '[[_Standards/WikiData/WD~rolling,2192732]]'
-- '[[_Standards/WikiData/WD~quadrupedalism,21907045]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Erinaceinae,11048701]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-parent_taxon: '[[_Standards/WikiData/WD~Erinaceidae,28257]]'
+- '[[_Standards/WikiData/WD~rolling,2192732|WD~rolling,2192732]]'
+- '[[_Standards/WikiData/WD~quadrupedalism,21907045|WD~quadrupedalism,21907045]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Erinaceinae,11048701|WD~Template_Erinaceinae,11048701]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+parent_taxon: '[[_Standards/WikiData/WD~Erinaceidae,28257|WD~Erinaceidae,28257]]'
 ITIS_TSN: 633423
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Erinaceus%20europaeus%20%28Linnaeus%2C%201758%29.jpg
 OmegaWiki_Defined_Meaning: 736222

@@ -13,7 +13,7 @@ tags:
 type: Country
 dv_has_name_en: Eritrea and Ethiopia
 dv_has_name_de: Eritrea und Äthiopien
-dv_has_place_continent: "[[../../Africa]]"
+dv_has_place_continent: "[[../../Africa|Africa]]"
 dv_Capital: "[[Addis_Abeba]]"
 dv_Language-Id: 472
 dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"

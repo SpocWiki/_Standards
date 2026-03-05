@@ -113,22 +113,22 @@ taxon_common_name:
 - Hierakat
 - Oseille
 - Copóg
-taxonomic_type: '[[_Standards/WikiData/WD~Rumex_patientia,164728]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Rumex_patientia,164728|WD~Rumex_patientia,164728]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_25(1),112869402]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_25(1),112869402|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_25(1),112869402]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 taxon_synonym:
-- '[[_Standards/WikiData/WD~Emex,1632348]]'
-- '[[_Standards/WikiData/WD~Acetosa,15926219]]'
-- '[[_Standards/WikiData/WD~Lapathum,15928071]]'
-- '[[_Standards/WikiData/WD~Acetosella,32252794]]'
-- '[[_Standards/WikiData/WD~Bucephalophora,32254567]]'
-parent_taxon: '[[_Standards/WikiData/WD~Rumiceae,15793487]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+- '[[_Standards/WikiData/WD~Emex,1632348|WD~Emex,1632348]]'
+- '[[_Standards/WikiData/WD~Acetosa,15926219|WD~Acetosa,15926219]]'
+- '[[_Standards/WikiData/WD~Lapathum,15928071|WD~Lapathum,15928071]]'
+- '[[_Standards/WikiData/WD~Acetosella,32252794|WD~Acetosella,32252794]]'
+- '[[_Standards/WikiData/WD~Bucephalophora,32254567|WD~Bucephalophora,32254567]]'
+parent_taxon: '[[_Standards/WikiData/WD~Rumiceae,15793487|WD~Rumiceae,15793487]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
 ITIS_TSN: 20933
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Rumex%20patientia%20kz01.jpg

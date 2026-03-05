@@ -35,8 +35,8 @@ aliases:
 - 魅力
 - 카리스마
 has_id_wikidata: Q118157
-instance_of: '[[_Standards/WikiData/WD~concept,151885]]'
-described_by_source: '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+instance_of: '[[_Standards/WikiData/WD~concept,151885|WD~concept,151885]]'
+described_by_source: '[[_Standards/WikiData/WD~Lean_Logic,101314624|WD~Lean_Logic,101314624]]'
 Wolfram_Language_entity_code: Entity["Concept", "Charisma::p96x8"]
 dv_has_:
   name_:

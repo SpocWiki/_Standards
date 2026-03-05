@@ -136,41 +136,41 @@ aliases:
 has_id_wikidata: Q79793
 Krugosvet_article_archived_: medicina/kor
 symptoms_and_signs:
-- '[[_Standards/WikiData/WD~conjunctivitis,167844]]'
-- '[[_Standards/WikiData/WD~anorexia,254327]]'
-- '[[_Standards/WikiData/WD~lymphadenopathy,847726]]'
-- '[[_Standards/WikiData/WD~runny_nose,1115038]]'
-- "[[_Standards/WikiData/WD~Koplik's_spots,2707302]]"
-- '[[_Standards/WikiData/WD~maculopapular_rash,6725808]]'
-- "[[_Standards/WikiData/WD~Stimson's_triad,55834490]]"
-- '[[_Standards/WikiData/WD~cough,35805]]'
-- '[[_Standards/WikiData/WD~fever,38933]]'
-- '[[_Standards/WikiData/WD~diarrhea,40878]]'
+- '[[_Standards/WikiData/WD~conjunctivitis,167844|WD~conjunctivitis,167844]]'
+- '[[_Standards/WikiData/WD~anorexia,254327|WD~anorexia,254327]]'
+- '[[_Standards/WikiData/WD~lymphadenopathy,847726|WD~lymphadenopathy,847726]]'
+- '[[_Standards/WikiData/WD~runny_nose,1115038|WD~runny_nose,1115038]]'
+- "[[_Standards/WikiData/WD~Koplik's_spots,2707302|WD~Koplik's_spots,2707302]]"
+- '[[_Standards/WikiData/WD~maculopapular_rash,6725808|WD~maculopapular_rash,6725808]]'
+- "[[_Standards/WikiData/WD~Stimson's_triad,55834490|WD~Stimson's_triad,55834490]]"
+- '[[_Standards/WikiData/WD~cough,35805|WD~cough,35805]]'
+- '[[_Standards/WikiData/WD~fever,38933|WD~fever,38933]]'
+- '[[_Standards/WikiData/WD~diarrhea,40878|WD~diarrhea,40878]]'
 medical_examination:
-- '[[_Standards/WikiData/WD~polymerase_chain_reaction,176996]]'
-- '[[_Standards/WikiData/WD~ELISA,332126]]'
-- '[[_Standards/WikiData/WD~physical_examination,835153]]'
-- "[[_Standards/WikiData/WD~Koplik's_spots,2707302]]"
+- '[[_Standards/WikiData/WD~polymerase_chain_reaction,176996|WD~polymerase_chain_reaction,176996]]'
+- '[[_Standards/WikiData/WD~ELISA,332126|WD~ELISA,332126]]'
+- '[[_Standards/WikiData/WD~physical_examination,835153|WD~physical_examination,835153]]'
+- "[[_Standards/WikiData/WD~Koplik's_spots,2707302|WD~Koplik's_spots,2707302]]"
 instance_of:
-- '[[_Standards/WikiData/WD~notifiable_disease,314676]]'
-- '[[_Standards/WikiData/WD~symptom_or_sign,112965645]]'
-has_immediate_cause: '[[_Standards/WikiData/WD~measles_virus,573943]]'
+- '[[_Standards/WikiData/WD~notifiable_disease,314676|WD~notifiable_disease,314676]]'
+- '[[_Standards/WikiData/WD~symptom_or_sign,112965645|WD~symptom_or_sign,112965645]]'
+has_immediate_cause: '[[_Standards/WikiData/WD~measles_virus,573943|WD~measles_virus,573943]]'
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Measles_The_Sequel,64454040]]'
-health_specialty: '[[_Standards/WikiData/WD~infectious_diseases,788926]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Measles_The_Sequel,64454040|WD~Measles_The_Sequel,64454040]]'
+health_specialty: '[[_Standards/WikiData/WD~infectious_diseases,788926|WD~infectious_diseases,788926]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~viral_infectious_disease,1928978]]'
-- '[[_Standards/WikiData/WD~Morbillivirus_infectious_disease,18975514]]'
-- '[[_Standards/WikiData/WD~pandemic_and_epidemic_prone_diseases,131345497]]'
-has_effect: '[[_Standards/WikiData/WD~2008_measles_epidemic_in_France,3589134]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
-disease_transmission_process: '[[_Standards/WikiData/WD~airborne_transmission,11986959]]'
-possible_treatment: '[[_Standards/WikiData/WD~Q93769548,93769548]]'
+- '[[_Standards/WikiData/WD~viral_infectious_disease,1928978|WD~viral_infectious_disease,1928978]]'
+- '[[_Standards/WikiData/WD~Morbillivirus_infectious_disease,18975514|WD~Morbillivirus_infectious_disease,18975514]]'
+- '[[_Standards/WikiData/WD~pandemic_and_epidemic_prone_diseases,131345497|WD~pandemic_and_epidemic_prone_diseases,131345497]]'
+has_effect: '[[_Standards/WikiData/WD~2008_measles_epidemic_in_France,3589134|WD~2008_measles_epidemic_in_France,3589134]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686|WD~WikiProject_Medicine,4099686]]'
+disease_transmission_process: '[[_Standards/WikiData/WD~airborne_transmission,11986959|WD~airborne_transmission,11986959]]'
+possible_treatment: '[[_Standards/WikiData/WD~Q93769548,93769548|WD~Q93769548,93769548]]'
 minimal_incubation_period_in_humans:
 - 6
 - 7

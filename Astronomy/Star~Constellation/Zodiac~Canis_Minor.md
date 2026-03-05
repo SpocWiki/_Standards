@@ -80,23 +80,23 @@ tags:
 - astro/Zodiac
 type: Zodiac
 described_by_source:
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~A_field_book_of_the_stars,55346553]]'
-- '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~A_field_book_of_the_stars,55346553|WD~A_field_book_of_the_stars,55346553]]'
+- '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886|WD~Star_Lore_of_All_Ages,95985886]]'
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Stars_of_Canis_Minor,8084783]]'
-- '[[_Standards/WikiData/WD~Q10729074,10729074]]'
+- '[[_Standards/WikiData/WD~Template_Stars_of_Canis_Minor,8084783|WD~Template_Stars_of_Canis_Minor,8084783]]'
+- '[[_Standards/WikiData/WD~Q10729074,10729074|WD~Q10729074,10729074]]'
 shares_border_with:
-- '[[_Standards/WikiData/WD~Cancer,8849]]'
-- '[[_Standards/WikiData/WD~Gemini,8923]]'
-- '[[_Standards/WikiData/WD~Monoceros,10428]]'
-- '[[_Standards/WikiData/WD~Hydra,10578]]'
-instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
-has_part_s_: '[[_Standards/WikiData/WD~Procyon,13034]]'
-named_after: '[[_Standards/WikiData/WD~dog,144]]'
+- '[[_Standards/WikiData/WD~Cancer,8849|WD~Cancer,8849]]'
+- '[[_Standards/WikiData/WD~Gemini,8923|WD~Gemini,8923]]'
+- '[[_Standards/WikiData/WD~Monoceros,10428|WD~Monoceros,10428]]'
+- '[[_Standards/WikiData/WD~Hydra,10578|WD~Hydra,10578]]'
+instance_of: '[[_Standards/WikiData/WD~constellation,8928|WD~constellation,8928]]'
+has_part_s_: '[[_Standards/WikiData/WD~Procyon,13034|WD~Procyon,13034]]'
+named_after: '[[_Standards/WikiData/WD~dog,144|WD~dog,144]]'
 area: 183
 Commons_gallery: Canis Minor
 Commons_category: Canis Minor

@@ -87,22 +87,22 @@ aliases:
 - 슬픔
 has_id_wikidata: Q169251
 instance_of:
-- '[[_Standards/WikiData/WD~symptom,169872]]'
-- '[[_Standards/WikiData/WD~basic_emotion,16748867]]'
-- '[[_Standards/WikiData/WD~negative_emotion,60539481]]'
-- '[[_Standards/WikiData/WD~psychology_concept,96634632]]'
+- '[[_Standards/WikiData/WD~symptom,169872|WD~symptom,169872]]'
+- '[[_Standards/WikiData/WD~basic_emotion,16748867|WD~basic_emotion,16748867]]'
+- '[[_Standards/WikiData/WD~negative_emotion,60539481|WD~negative_emotion,60539481]]'
+- '[[_Standards/WikiData/WD~psychology_concept,96634632|WD~psychology_concept,96634632]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~dysphoria,290620]]'
-- '[[_Standards/WikiData/WD~Q3539677,3539677]]'
-opposite_of: '[[_Standards/WikiData/WD~joy,935526]]'
+- '[[_Standards/WikiData/WD~dysphoria,290620|WD~dysphoria,290620]]'
+- '[[_Standards/WikiData/WD~Q3539677,3539677|WD~Q3539677,3539677]]'
+opposite_of: '[[_Standards/WikiData/WD~joy,935526|WD~joy,935526]]'
 different_from:
-- '[[_Standards/WikiData/WD~Tristezza,3999052]]'
-- '[[_Standards/WikiData/WD~Tristesse,48172133]]'
-facet_of: '[[_Standards/WikiData/WD~theory_of_emotion,9357054]]'
-has_part_s_: '[[_Standards/WikiData/WD~Ḥuzn,55638315]]'
-described_by_source: '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-part_of: '[[_Standards/WikiData/WD~music_mood,126179530]]'
-subclass_of: '[[_Standards/WikiData/WD~emotion,9415]]'
+- '[[_Standards/WikiData/WD~Tristezza,3999052|WD~Tristezza,3999052]]'
+- '[[_Standards/WikiData/WD~Tristesse,48172133|WD~Tristesse,48172133]]'
+facet_of: '[[_Standards/WikiData/WD~theory_of_emotion,9357054|WD~theory_of_emotion,9357054]]'
+has_part_s_: '[[_Standards/WikiData/WD~Ḥuzn,55638315|WD~Ḥuzn,55638315]]'
+described_by_source: '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+part_of: '[[_Standards/WikiData/WD~music_mood,126179530|WD~music_mood,126179530]]'
+subclass_of: '[[_Standards/WikiData/WD~emotion,9415|WD~emotion,9415]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%A9pulcre%20Arc-en-Barrois%20111008%2012.jpg
 Commons_category: Sadness
 Dewey_Decimal_Classification: 152.4

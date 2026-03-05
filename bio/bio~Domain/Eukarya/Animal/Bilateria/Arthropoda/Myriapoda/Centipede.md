@@ -98,12 +98,12 @@ aliases:
 has_id_wikidata: Q43447
 title: Chilopoda
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q8919754,8919754]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-parent_taxon: '[[_Standards/WikiData/WD~Myriapoda,25823]]'
-taxon_rank: '[[_Standards/WikiData/WD~class,37517]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q8919754,8919754|WD~Q8919754,8919754]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+parent_taxon: '[[_Standards/WikiData/WD~Myriapoda,25823|WD~Myriapoda,25823]]'
+taxon_rank: '[[_Standards/WikiData/WD~class,37517|WD~class,37517]]'
 ITIS_TSN: 154400
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Chilopoda%20collage.png
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lithobius%20forficatus.jpg

@@ -113,19 +113,19 @@ ZVG_number: 8170
 atomic_number: 22
 boiling_point: 3286.85
 chemical_formula: Ti
-crystal_system: '[[_Standards/WikiData/WD~hexagonal_crystal_system,663314]]'
+crystal_system: '[[_Standards/WikiData/WD~hexagonal_crystal_system,663314|WD~hexagonal_crystal_system,663314]]'
 different_from:
-- '[[_Standards/WikiData/WD~Titan,102282]]'
-- '[[_Standards/WikiData/WD~Tytan,10382763]]'
+- '[[_Standards/WikiData/WD~Titan,102282|WD~Titan,102282]]'
+- '[[_Standards/WikiData/WD~Tytan,10382763|WD~Tytan,10382763]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Titanium,84688494]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Friedrich_Wöhler,58575]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Titanium,84688494|WD~Titanium,84688494]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664|WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Friedrich_Wöhler,58575|WD~Friedrich_Wöhler,58575]]'
 electronegativity: 1.54
 electron_configuration: '[Ar] 3d² 4s²'
 element_symbol: Ti
@@ -134,9 +134,9 @@ hardness:
 - 1493
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Titan-crystal%20bar.JPG
 instance_of:
-- '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- '[[_Standards/WikiData/WD~simple_substance,2512777]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+- '[[_Standards/WikiData/WD~lithophile,1130479|WD~lithophile,1130479]]'
+- '[[_Standards/WikiData/WD~simple_substance,2512777|WD~simple_substance,2512777]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 ionic_radius:
 - 0.42
 - 0.61
@@ -144,13 +144,13 @@ ionic_radius:
 - 0.74
 - 0.86
 made_from_material:
-- '[[_Standards/WikiData/WD~ilmenite,190729]]'
-- '[[_Standards/WikiData/WD~rutile,320603]]'
-- '[[_Standards/WikiData/WD~titanite,377280]]'
-- '[[_Standards/WikiData/WD~perovskite,409787]]'
-- '[[_Standards/WikiData/WD~brookite,410609]]'
-- '[[_Standards/WikiData/WD~anatase,413357]]'
-- '[[_Standards/WikiData/WD~akaogiite,12713259]]'
+- '[[_Standards/WikiData/WD~ilmenite,190729|WD~ilmenite,190729]]'
+- '[[_Standards/WikiData/WD~rutile,320603|WD~rutile,320603]]'
+- '[[_Standards/WikiData/WD~titanite,377280|WD~titanite,377280]]'
+- '[[_Standards/WikiData/WD~perovskite,409787|WD~perovskite,409787]]'
+- '[[_Standards/WikiData/WD~brookite,410609|WD~brookite,410609]]'
+- '[[_Standards/WikiData/WD~anatase,413357|WD~anatase,413357]]'
+- '[[_Standards/WikiData/WD~akaogiite,12713259|WD~akaogiite,12713259]]'
 mass: 47.867
 melting_point:
 - 1941
@@ -158,8 +158,8 @@ melting_point:
 name:
 - Ti
 - Titanium
-named_after: '[[_Standards/WikiData/WD~titan,45713]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Craft,110249806]]'
+named_after: '[[_Standards/WikiData/WD~titan,45713|WD~titan,45713]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Craft,110249806|WD~WikiProject_Craft,110249806]]'
 oxidation_state:
 - -1
 - 1
@@ -167,22 +167,22 @@ oxidation_state:
 - 3
 - 4
 part_of:
-- '[[_Standards/WikiData/WD~group_4,189302]]'
-- '[[_Standards/WikiData/WD~period_4,239825]]'
+- '[[_Standards/WikiData/WD~group_4,189302|WD~group_4,189302]]'
+- '[[_Standards/WikiData/WD~period_4,239825|WD~period_4,239825]]'
 shear_modulus: 41.4
 specific_heat_capacity: 520
 speed_of_sound: 5090
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Titanium.ogg
 subclass_of:
-- '[[_Standards/WikiData/WD~light_metal,428766]]'
-- '[[_Standards/WikiData/WD~transition_metal,19588]]'
+- '[[_Standards/WikiData/WD~light_metal,428766|WD~light_metal,428766]]'
+- '[[_Standards/WikiData/WD~transition_metal,19588|WD~transition_metal,19588]]'
 tensile_modulus_of_elasticity: 116
 thermal_conductivity: 21.9
 time_of_discovery_or_invention: 1791-01-01T00:00:00Z
 type: Element
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Titanium,716]]'
+  - '[[../../../WikiData/WD~Titanium,716|WD~Titanium,716]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Group-04-Titanium/Titanium|Titanium]]'
   - '[[/_public/Chemistry/Chemical_Element/Group-04-Titanium/Titanium.public|Titanium.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Group-04-Titanium/Titanium.internal|Titanium.internal]]'
@@ -190,7 +190,7 @@ dv_is_:
   - '[[/_private/Chemistry/Chemical_Element/Group-04-Titanium/Titanium.private|Titanium.private]]'
   - '[[/_personal/Chemistry/Chemical_Element/Group-04-Titanium/Titanium.personal|Titanium.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Group-04-Titanium/Titanium.secret|Titanium.secret]]'
-  part_of: '[[../Group-04-Titanium]]'
+  part_of: '[[../Group-04-Titanium|Group-04-Titanium]]'
 dv_has_:
   name_:
     abbreviated: Ti
@@ -401,7 +401,7 @@ dv_has_:
         kj_:
           mol: 421
 dv_is_same_as:
-- '[[../../../WikiData/WD~Titanium,716]]'
+- '[[../../../WikiData/WD~Titanium,716|WD~Titanium,716]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Group-04-Titanium/Titanium|Titanium]]'
 - '[[/_public/Chemistry/Chemical_Element/Group-04-Titanium/Titanium.public|Titanium.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Group-04-Titanium/Titanium.internal|Titanium.internal]]'
@@ -410,7 +410,7 @@ dv_is_same_as:
 - '[[/_personal/Chemistry/Chemical_Element/Group-04-Titanium/Titanium.personal|Titanium.personal]]'
 - '[[/_secret/Chemistry/Chemical_Element/Group-04-Titanium/Titanium.secret|Titanium.secret]]'
 dv_has_name_group: Group-04-Titanium
-dv_is_part_of: '[[../Group-04-Titanium]]'
+dv_is_part_of: '[[../Group-04-Titanium|Group-04-Titanium]]'
 dv_has_name_en: Titanium
 dv_has_name_de: Titan
 dv_has_value_for_weight_u: 47.88
@@ -438,7 +438,7 @@ Unicode_character: 鈦
 
 
 #chemic/Element 
-#is_/same_as :: [[../../../WikiData/WD~Titanium,716]] 
+#is_/same_as :: [[../../../WikiData/WD~Titanium,716|WD~Titanium,716]] 
 
 has_name_group = `=this.dv_has_name_group` 
 is_part_of = `=this.dv_is_part_of` 

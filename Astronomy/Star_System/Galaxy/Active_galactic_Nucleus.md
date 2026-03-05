@@ -56,10 +56,10 @@ aliases:
 - 활동 은하핵
 has_id_wikidata: Q46587
 part_of:
-- '[[_Standards/WikiData/WD~galactic_bulge,854155]]'
-- '[[_Standards/WikiData/WD~active_galaxy,130640765]]'
-instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
-subclass_of: '[[_Standards/WikiData/WD~galaxy,318]]'
+- '[[_Standards/WikiData/WD~galactic_bulge,854155|WD~galactic_bulge,854155]]'
+- '[[_Standards/WikiData/WD~active_galaxy,130640765|WD~active_galaxy,130640765]]'
+instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909|WD~astronomical_object_type,17444909]]'
+subclass_of: '[[_Standards/WikiData/WD~galaxy,318|WD~galaxy,318]]'
 short_name:
 - AGN
 - АЯГ
@@ -68,7 +68,7 @@ Dewey_Decimal_Classification: 523.112
 Commons_category: Active galactic nuclei
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Active_galactic_nucleus,46587]]'
+  - '[[../../../WikiData/WD~Active_galactic_nucleus,46587|WD~Active_galactic_nucleus,46587]]'
   - '[[/_Standards/Astronomy/Star_System/Galaxy/Active_galactic_Nucleus|Active_galactic_Nucleus]]'
   - '[[/_public/Astronomy/Star_System/Galaxy/Active_galactic_Nucleus.public|Active_galactic_Nucleus.public]]'
   - '[[/_internal/Astronomy/Star_System/Galaxy/Active_galactic_Nucleus.internal|Active_galactic_Nucleus.internal]]'
@@ -77,7 +77,7 @@ dv_is_:
   - '[[/_personal/Astronomy/Star_System/Galaxy/Active_galactic_Nucleus.personal|Active_galactic_Nucleus.personal]]'
   - '[[/_secret/Astronomy/Star_System/Galaxy/Active_galactic_Nucleus.secret|Active_galactic_Nucleus.secret]]'
 dv_is_same_as:
-- '[[../../../WikiData/WD~Active_galactic_nucleus,46587]]'
+- '[[../../../WikiData/WD~Active_galactic_nucleus,46587|WD~Active_galactic_nucleus,46587]]'
 - '[[/_Standards/Astronomy/Star_System/Galaxy/Active_galactic_Nucleus|Active_galactic_Nucleus]]'
 - '[[/_public/Astronomy/Star_System/Galaxy/Active_galactic_Nucleus.public|Active_galactic_Nucleus.public]]'
 - '[[/_internal/Astronomy/Star_System/Galaxy/Active_galactic_Nucleus.internal|Active_galactic_Nucleus.internal]]'
@@ -151,7 +151,7 @@ dv_has_:
 
 # [[Active_galactic_Nucleus]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Active_galactic_nucleus,46587]] 
+#is_/same_as :: [[../../../WikiData/WD~Active_galactic_nucleus,46587|WD~Active_galactic_nucleus,46587]] 
 
 ## #has_/text_of_/abstract 
 

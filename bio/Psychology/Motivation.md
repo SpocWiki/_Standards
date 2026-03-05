@@ -65,19 +65,19 @@ aliases:
 - 動機づけ
 - 동기 부여
 has_id_wikidata: Q644302
-studied_by: '[[_Standards/WikiData/WD~sociolinguistics,160845]]'
+studied_by: '[[_Standards/WikiData/WD~sociolinguistics,160845|WD~sociolinguistics,160845]]'
 has_contributing_factor:
-- '[[_Standards/WikiData/WD~reason,178354]]'
-- '[[_Standards/WikiData/WD~instinct,18237]]'
+- '[[_Standards/WikiData/WD~reason,178354|WD~reason,178354]]'
+- '[[_Standards/WikiData/WD~instinct,18237|WD~instinct,18237]]'
 has_cause:
-- '[[_Standards/WikiData/WD~need,190258]]'
-- '[[_Standards/WikiData/WD~arousal,379784]]'
-- '[[_Standards/WikiData/WD~instinct,18237]]'
+- '[[_Standards/WikiData/WD~need,190258|WD~need,190258]]'
+- '[[_Standards/WikiData/WD~arousal,379784|WD~arousal,379784]]'
+- '[[_Standards/WikiData/WD~instinct,18237|WD~instinct,18237]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~cause,2574811]]'
-- '[[_Standards/WikiData/WD~emotions,9415]]'
-part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
-described_by_source: '[[_Standards/WikiData/WD~Soziolinguistika_Hiztegia,124156602]]'
+- '[[_Standards/WikiData/WD~cause,2574811|WD~cause,2574811]]'
+- '[[_Standards/WikiData/WD~emotions,9415|WD~emotions,9415]]'
+part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620|WD~psychology_terminology,77468620]]'
+described_by_source: '[[_Standards/WikiData/WD~Soziolinguistika_Hiztegia,124156602|WD~Soziolinguistika_Hiztegia,124156602]]'
 OmegaWiki_Defined_Meaning: 954763
 Commons_category: Motivation
 Library_of_Congress_Classification: BF501-BF504.3

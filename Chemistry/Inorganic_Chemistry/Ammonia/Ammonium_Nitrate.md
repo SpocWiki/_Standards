@@ -65,28 +65,28 @@ aliases:
 - 질산 암모늄
 has_id_wikidata: Q182329
 subject_has_role:
-- '[[_Standards/WikiData/WD~fertilizer,83323]]'
-- '[[_Standards/WikiData/WD~oxidizing_agent,187689]]'
-- '[[_Standards/WikiData/WD~explosive_chemicals,12870]]'
-has_characteristic: '[[_Standards/WikiData/WD~hygroscopy,216678]]'
-part_of: '[[_Standards/WikiData/WD~ANFO,295697]]'
-has_use: '[[_Standards/WikiData/WD~nitrogen_fertilizer,906629]]'
+- '[[_Standards/WikiData/WD~fertilizer,83323|WD~fertilizer,83323]]'
+- '[[_Standards/WikiData/WD~oxidizing_agent,187689|WD~oxidizing_agent,187689]]'
+- '[[_Standards/WikiData/WD~explosive_chemicals,12870|WD~explosive_chemicals,12870]]'
+has_characteristic: '[[_Standards/WikiData/WD~hygroscopy,216678|WD~hygroscopy,216678]]'
+part_of: '[[_Standards/WikiData/WD~ANFO,295697|WD~ANFO,295697]]'
+has_use: '[[_Standards/WikiData/WD~nitrogen_fertilizer,906629|WD~nitrogen_fertilizer,906629]]'
 safety_classification_and_labelling:
-- '[[_Standards/WikiData/WD~Regulation_(EC)_No._1272_2008,2005334]]'
-- '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
+- '[[_Standards/WikiData/WD~Regulation_(EC)_No._1272_2008,2005334|WD~Regulation_(EC)_No._1272_2008,2005334]]'
+- '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288|WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543|WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~ammonium_salt,4427706]]'
-- '[[_Standards/WikiData/WD~nitrate_salt,56404029]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
+- '[[_Standards/WikiData/WD~ammonium_salt,4427706|WD~ammonium_salt,4427706]]'
+- '[[_Standards/WikiData/WD~nitrate_salt,56404029|WD~nitrate_salt,56404029]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171|WD~type_of_chemical_entity,113145171]]'
 standard_enthalpy_of_formation: -365.6
 has_part_s_:
-- '[[_Standards/WikiData/WD~hydrogen,556]]'
-- '[[_Standards/WikiData/WD~nitrogen,627]]'
-- '[[_Standards/WikiData/WD~oxygen,629]]'
-color: '[[_Standards/WikiData/WD~white,23444]]'
+- '[[_Standards/WikiData/WD~hydrogen,556|WD~hydrogen,556]]'
+- '[[_Standards/WikiData/WD~nitrogen,627|WD~nitrogen,627]]'
+- '[[_Standards/WikiData/WD~oxygen,629|WD~oxygen,629]]'
+color: '[[_Standards/WikiData/WD~white,23444|WD~white,23444]]'
 decomposition_point: 230
 density: 1.72
 solubility:
@@ -123,7 +123,7 @@ chemical_formula:
 - NH₄NO₃
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Ammonium_nitrate,182329]]'
+  - '[[../../../WikiData/WD~Ammonium_nitrate,182329|WD~Ammonium_nitrate,182329]]'
   - '[[/_Standards/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Nitrate|Ammonium_Nitrate]]'
   - '[[/_public/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Nitrate.public|Ammonium_Nitrate.public]]'
   - '[[/_internal/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Nitrate.internal|Ammonium_Nitrate.internal]]'
@@ -224,7 +224,7 @@ dv_has_:
     zh_sg: 硝酸铵
     zh_tw: 硝酸銨
 dv_is_same_as:
-- '[[../../../WikiData/WD~Ammonium_nitrate,182329]]'
+- '[[../../../WikiData/WD~Ammonium_nitrate,182329|WD~Ammonium_nitrate,182329]]'
 - '[[/_Standards/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Nitrate|Ammonium_Nitrate]]'
 - '[[/_public/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Nitrate.public|Ammonium_Nitrate.public]]'
 - '[[/_internal/Chemistry/Inorganic_Chemistry/Ammonia/Ammonium_Nitrate.internal|Ammonium_Nitrate.internal]]'
@@ -237,7 +237,7 @@ dv_has_created: '[[../../../Society/Disaster/2020-Beirut_Explosion|2020-Beirut_E
 
 # [[Ammonium_Nitrate]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Ammonium_nitrate,182329]] 
+#is_/same_as :: [[../../../WikiData/WD~Ammonium_nitrate,182329|WD~Ammonium_nitrate,182329]] 
 has_created = `=this.dv_has_created` 
 ## #has_/text_of_/abstract 
 

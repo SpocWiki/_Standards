@@ -106,12 +106,12 @@ Commons_gallery: Fuel
 Common_Procurement_Vocabulary_code:
 - 09100000-0
 - 9100000
-contributing_factor_of: '[[_Standards/WikiData/WD~conflagration,168983]]'
+contributing_factor_of: '[[_Standards/WikiData/WD~conflagration,168983|WD~conflagration,168983]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
 Dewey_Decimal_Classification:
 - 621.4023
 - 621.182
@@ -120,22 +120,22 @@ Dewey_Decimal_Classification:
 - 662
 - 662.6
 different_from:
-- '[[_Standards/WikiData/WD~comburent,3775643]]'
-- '[[_Standards/WikiData/WD~catalyst,12385831]]'
+- '[[_Standards/WikiData/WD~comburent,3775643|WD~comburent,3775643]]'
+- '[[_Standards/WikiData/WD~catalyst,12385831|WD~catalyst,12385831]]'
 Gujarati_Vishwakosh_entry: 50459-2
-has_characteristic: '[[_Standards/WikiData/WD~combustion,133235]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~reducing_agent,216830]]'
+has_characteristic: '[[_Standards/WikiData/WD~combustion,133235|WD~combustion,133235]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~reducing_agent,216830|WD~reducing_agent,216830]]'
 has_use:
-- '[[_Standards/WikiData/WD~energy_storage,837718]]'
-- '[[_Standards/WikiData/WD~energy_source,1522115]]'
+- '[[_Standards/WikiData/WD~energy_storage,837718|WD~energy_storage,837718]]'
+- '[[_Standards/WikiData/WD~energy_source,1522115|WD~energy_source,1522115]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fire%2C%20Fireplace%2C%20Rostov-on-Don%2C%20Russia.jpg
 Krugosvet_article: nauka_i_tehnika/tehnologiya_i_promyshlennost/TOPLIVO.html
-manifestation_of: '[[_Standards/WikiData/WD~combustibility,355777]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+manifestation_of: '[[_Standards/WikiData/WD~combustibility,355777|WD~combustibility,355777]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047|WD~WikiProject_Climate_change,15305047]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~chemical_substance,79529]]'
-- '[[_Standards/WikiData/WD~energetic_material,5376832]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q9610151,9610151]]'
+- '[[_Standards/WikiData/WD~chemical_substance,79529|WD~chemical_substance,79529]]'
+- '[[_Standards/WikiData/WD~energetic_material,5376832|WD~energetic_material,5376832]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q9610151,9610151|WD~Q9610151,9610151]]'
 U_S_National_Archives_Identifier: 10639468
 dv_is_:
   same_as:

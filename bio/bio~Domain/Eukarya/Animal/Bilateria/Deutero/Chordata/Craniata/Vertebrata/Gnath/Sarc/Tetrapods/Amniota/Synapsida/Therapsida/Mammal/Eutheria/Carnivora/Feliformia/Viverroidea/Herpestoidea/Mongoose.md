@@ -87,16 +87,16 @@ aliases:
 - 獴科
 - 몽구스
 has_id_wikidata: Q80479
-topic_s_main_category: '[[_Standards/WikiData/WD~Q8972918,8972918]]'
-parent_taxon: '[[_Standards/WikiData/WD~Herpestoidea,9776204]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q8972918,8972918|WD~Q8972918,8972918]]'
+parent_taxon: '[[_Standards/WikiData/WD~Herpestoidea,9776204|WD~Herpestoidea,9776204]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085950]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
-code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085950|WD~The_Encyclopedia_Americana,19085950]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011|WD~International_Code_of_Zoological_Nomenclature,13011]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409|WD~family,35409]]'
 ITIS_TSN: 180611
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dwarf%20mongoose%20Korkeasaari%20zoo.jpg
 EPPO_Code: 1HRPSF

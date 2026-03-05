@@ -34,11 +34,11 @@ aliases:
 - 성질
 has_id_wikidata: Q80157
 subclass_of:
-- '[[_Standards/WikiData/WD~mood,331769]]'
-- '[[_Standards/WikiData/WD~phenotypic_trait,1211967]]'
-topic_has_template: '[[_Standards/WikiData/WD~Q10740866,10740866]]'
-described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
+- '[[_Standards/WikiData/WD~mood,331769|WD~mood,331769]]'
+- '[[_Standards/WikiData/WD~phenotypic_trait,1211967|WD~phenotypic_trait,1211967]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q10740866,10740866|WD~Q10740866,10740866]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620|WD~psychology_terminology,77468620]]'
 UMLS_CUI: C0039474
 MeSH_tree_code: F01.752.898
 Commons_category: Temperaments
@@ -115,7 +115,7 @@ dv_has_:
 # [[Temperament]] 
 
 #is_/similar_to :: [[Mood]] 
-#is_/similar_to :: [[Affect/Emotion]] 
+#is_/similar_to :: [[Affect/Emotion|Emotion]] 
 #is_/same_as :: [[WD~Temperament,80157]] 
 
 ## #has_/text_of_/abstract 

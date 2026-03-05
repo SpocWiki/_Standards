@@ -63,16 +63,16 @@ aliases:
 has_id_wikidata: Q172923
 title: Capra
 described_by_source:
-- '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-different_from: '[[_Standards/WikiData/WD~Capra,12786688]]'
-parent_taxon: '[[_Standards/WikiData/WD~Caprini,19806047]]'
+- '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+different_from: '[[_Standards/WikiData/WD~Capra,12786688|WD~Capra,12786688]]'
+parent_taxon: '[[_Standards/WikiData/WD~Caprini,19806047|WD~Caprini,19806047]]'
 start_time: -2600000-06
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
 ITIS_TSN: 180714
 OmegaWiki_Defined_Meaning: 1033135
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%20%28deu%29-Sebastian%20Wallroth-Ziegen.wav
@@ -202,7 +202,7 @@ dv_has_:
 
 # [[Capra]] 
 
-![[Capra/Goat/Goat.jpg]]  
+![[Capra/Goat/Goat.jpg|Goat.jpg]]  
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Capra,172923|WD~Capra,172923]] 
 ## #has_/text_of_/abstract 

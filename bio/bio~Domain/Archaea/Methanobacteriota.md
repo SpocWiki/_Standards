@@ -44,7 +44,7 @@ dv_has_:
 
 
 #is_a/bio-Phylum  
-#is_a :: [[../../Taxon_Rank/bio~Kingdom/bio~Phylum]]  
+#is_a :: [[../../Taxon_Rank/bio~Kingdom/bio~Phylum|bio~Phylum]]  
 
 ## Phylogeny 
 

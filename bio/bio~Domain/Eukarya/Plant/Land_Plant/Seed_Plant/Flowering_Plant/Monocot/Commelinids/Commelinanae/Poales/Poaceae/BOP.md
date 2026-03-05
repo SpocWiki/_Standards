@@ -8,8 +8,8 @@ aliases:
 - Klado BEP
 - Klado ti BOP
 has_id_wikidata: Q20658389
-instance_of: '[[_Standards/WikiData/WD~clade,713623]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Taxonomy_BOP_clade,39368770]]'
+instance_of: '[[_Standards/WikiData/WD~clade,713623|WD~clade,713623]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Taxonomy_BOP_clade,39368770|WD~Template_Taxonomy_BOP_clade,39368770]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Poa%20pratensis%20%283883807553%29.jpg
 taxon_name: BOP clade
 UMLS_CUI: C1625732
@@ -48,7 +48,7 @@ dv_has_:
 
 # [[BOP]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~BOP_clade,20658389]] 
+#is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~BOP_clade,20658389|WD~BOP_clade,20658389]] 
 
 ## #has_/text_of_/abstract 
 

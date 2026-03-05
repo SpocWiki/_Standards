@@ -47,18 +47,18 @@ aliases:
 - 维生素K
 - 비타민 K
 has_id_wikidata: Q182338
-manufacturer: '[[_Standards/WikiData/WD~Pfizer,206921]]'
-medical_condition_treated: '[[_Standards/WikiData/WD~vitamin_K_deficiency,4138767]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Vitamin_K,7370256]]'
+manufacturer: '[[_Standards/WikiData/WD~Pfizer,206921|WD~Pfizer,206921]]'
+medical_condition_treated: '[[_Standards/WikiData/WD~vitamin_K_deficiency,4138767|WD~vitamin_K_deficiency,4138767]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Vitamin_K,7370256|WD~Category_Vitamin_K,7370256]]'
 part_of:
-- '[[_Standards/WikiData/WD~response_to_vitamin_K,14864638]]'
-- '[[_Standards/WikiData/WD~vitamin_K_catabolic_process,21109913]]'
-- '[[_Standards/WikiData/WD~cellular_response_to_vitamin_K,21110909]]'
-- '[[_Standards/WikiData/WD~vitamin_K_biosynthetic_process,21118314]]'
-- '[[_Standards/WikiData/WD~vitamin_K_metabolic_process,21130039]]'
-instance_of: '[[_Standards/WikiData/WD~group_of_chemical_entities,55640599]]'
-LiverTox_likelihood_score: '[[_Standards/WikiData/WD~LiverTox_toxicity_likelihood_category_E,83284667]]'
-subclass_of: '[[_Standards/WikiData/WD~vitamin,34956]]'
+- '[[_Standards/WikiData/WD~response_to_vitamin_K,14864638|WD~response_to_vitamin_K,14864638]]'
+- '[[_Standards/WikiData/WD~vitamin_K_catabolic_process,21109913|WD~vitamin_K_catabolic_process,21109913]]'
+- '[[_Standards/WikiData/WD~cellular_response_to_vitamin_K,21110909|WD~cellular_response_to_vitamin_K,21110909]]'
+- '[[_Standards/WikiData/WD~vitamin_K_biosynthetic_process,21118314|WD~vitamin_K_biosynthetic_process,21118314]]'
+- '[[_Standards/WikiData/WD~vitamin_K_metabolic_process,21130039|WD~vitamin_K_metabolic_process,21130039]]'
+instance_of: '[[_Standards/WikiData/WD~group_of_chemical_entities,55640599|WD~group_of_chemical_entities,55640599]]'
+LiverTox_likelihood_score: '[[_Standards/WikiData/WD~LiverTox_toxicity_likelihood_category_E,83284667|WD~LiverTox_toxicity_likelihood_category_E,83284667]]'
+subclass_of: '[[_Standards/WikiData/WD~vitamin,34956|WD~vitamin,34956]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/K-Vitamine.svg
 CAS_Registry_Number: 12001-79-5
 EC_number: 234-408-7

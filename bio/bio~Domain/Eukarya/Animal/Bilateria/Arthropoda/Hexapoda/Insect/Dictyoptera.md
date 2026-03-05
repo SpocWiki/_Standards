@@ -22,10 +22,10 @@ aliases:
 - 网翅总目
 - 망시목
 has_id_wikidata: Q2087279
-parent_taxon: '[[_Standards/WikiData/WD~Polyneoptera,822890]]'
-homonymous_taxon: '[[_Standards/WikiData/WD~Dictyoptera,4037324]]'
-taxon_rank: '[[_Standards/WikiData/WD~superorder,5868144]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+parent_taxon: '[[_Standards/WikiData/WD~Polyneoptera,822890|WD~Polyneoptera,822890]]'
+homonymous_taxon: '[[_Standards/WikiData/WD~Dictyoptera,4037324|WD~Dictyoptera,4037324]]'
+taxon_rank: '[[_Standards/WikiData/WD~superorder,5868144|WD~superorder,5868144]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 ITIS_TSN: 102395
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Coptotermes%20formosanus%20shiraki%20USGov%20k8204-7.jpg

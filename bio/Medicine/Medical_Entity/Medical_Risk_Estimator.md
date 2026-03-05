@@ -34,7 +34,7 @@ Tag Instances like this:
 
 Any rule set or interactive tool for estimating the risk of developing a complication or condition.
 
-#has_/parent_class :: [[../MedicalEntity]]  
+#has_/parent_class :: [[../MedicalEntity|MedicalEntity]]  
 
 #has_/child_/class :: [ MedicalRiskCalculator, MedicalRiskScore ]  
 

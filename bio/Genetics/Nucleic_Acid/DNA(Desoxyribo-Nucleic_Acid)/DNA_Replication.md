@@ -66,18 +66,18 @@ aliases:
 - 脫氧核糖核酸複製
 - 脱氧核糖核酸复制
 has_id_wikidata: Q130996
-biological_phase: '[[_Standards/WikiData/WD~S_phase,2289513]]'
-followed_by: '[[_Standards/WikiData/WD~S_phase,2289513]]'
-part_of: '[[_Standards/WikiData/WD~Systems_Biology_Ontology,2377160]]'
-instance_of: '[[_Standards/WikiData/WD~biological_process,2996394]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_DNA_replication,7748534]]'
-subclass_of: '[[_Standards/WikiData/WD~DNA_metabolic_process,14877613]]'
-follows: '[[_Standards/WikiData/WD~M_phase,17304929]]'
+biological_phase: '[[_Standards/WikiData/WD~S_phase,2289513|WD~S_phase,2289513]]'
+followed_by: '[[_Standards/WikiData/WD~S_phase,2289513|WD~S_phase,2289513]]'
+part_of: '[[_Standards/WikiData/WD~Systems_Biology_Ontology,2377160|WD~Systems_Biology_Ontology,2377160]]'
+instance_of: '[[_Standards/WikiData/WD~biological_process,2996394|WD~biological_process,2996394]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_DNA_replication,7748534|WD~Template_DNA_replication,7748534]]'
+subclass_of: '[[_Standards/WikiData/WD~DNA_metabolic_process,14877613|WD~DNA_metabolic_process,14877613]]'
+follows: '[[_Standards/WikiData/WD~M_phase,17304929|WD~M_phase,17304929]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~DNA_biosynthetic_process,21101125]]'
-- '[[_Standards/WikiData/WD~lagging_strand_elongation,21117818]]'
-- '[[_Standards/WikiData/WD~leading_strand_elongation,21171858]]'
-has_characteristic: '[[_Standards/WikiData/WD~DNA_replication_proofreading,21117977]]'
+- '[[_Standards/WikiData/WD~DNA_biosynthetic_process,21101125|WD~DNA_biosynthetic_process,21101125]]'
+- '[[_Standards/WikiData/WD~lagging_strand_elongation,21117818|WD~lagging_strand_elongation,21117818]]'
+- '[[_Standards/WikiData/WD~leading_strand_elongation,21171858|WD~leading_strand_elongation,21171858]]'
+has_characteristic: '[[_Standards/WikiData/WD~DNA_replication_proofreading,21117977|WD~DNA_replication_proofreading,21117977]]'
 exact_match:
 - http://biomodels.net/SBO/SBO_0000204
 - http://purl.obolibrary.org/obo/GO_0006260

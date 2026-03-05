@@ -40,17 +40,17 @@ aliases:
 - 甘草屬
 has_id_wikidata: Q157830
 parent_taxon:
-- '[[_Standards/WikiData/WD~Galegeae,141621]]'
-- '[[_Standards/WikiData/WD~Papilionoideae,19911695]]'
-award_received: '[[_Standards/WikiData/WD~Medicinal_plant_of_the_year,718769]]'
+- '[[_Standards/WikiData/WD~Galegeae,141621|WD~Galegeae,141621]]'
+- '[[_Standards/WikiData/WD~Papilionoideae,19911695|WD~Papilionoideae,19911695]]'
+award_received: '[[_Standards/WikiData/WD~Medicinal_plant_of_the_year,718769|WD~Medicinal_plant_of_the_year,718769]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_42(2),112869425]]'
-- '[[_Standards/WikiData/WD~Flora_partis_europaeae_URSS,113988328]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_42(2),112869425|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_42(2),112869425]]'
+- '[[_Standards/WikiData/WD~Flora_partis_europaeae_URSS,113988328|WD~Flora_partis_europaeae_URSS,113988328]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
 ITIS_TSN: 26717
 taxon_common_name:
 - licorice

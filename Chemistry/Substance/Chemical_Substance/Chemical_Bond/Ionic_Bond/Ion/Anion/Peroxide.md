@@ -44,9 +44,9 @@ aliases:
 - 過酸化物
 - 과산화물
 has_id_wikidata: Q107429
-different_from: '[[_Standards/WikiData/WD~hydrogen_peroxide,171877]]'
-subclass_of: '[[_Standards/WikiData/WD~oxygen_compound,5156940]]'
-instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
+different_from: '[[_Standards/WikiData/WD~hydrogen_peroxide,171877|WD~hydrogen_peroxide,171877]]'
+subclass_of: '[[_Standards/WikiData/WD~oxygen_compound,5156940|WD~oxygen_compound,5156940]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
 Gmelin_number: 486
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Peroxide%20group%20v.2.png
 canonical_SMILES: '[*]OO[*]'
@@ -64,7 +64,7 @@ Krugosvet_article_archived_: nauka_i_tehnika/himiya/PEROKSIDI.html
 Commons_category: Peroxides
 dv_is_:
   same_as:
-  - '[[../../../../../../../WikiData/WD~Peroxide,107429]]'
+  - '[[../../../../../../../WikiData/WD~Peroxide,107429|WD~Peroxide,107429]]'
   - '[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Peroxide|Peroxide]]'
   - '[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Peroxide.public|Peroxide.public]]'
   - '[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Peroxide.internal|Peroxide.internal]]'
@@ -73,7 +73,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Peroxide.personal|Peroxide.personal]]'
   - '[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Peroxide.secret|Peroxide.secret]]'
 dv_is_same_as:
-- '[[../../../../../../../WikiData/WD~Peroxide,107429]]'
+- '[[../../../../../../../WikiData/WD~Peroxide,107429|WD~Peroxide,107429]]'
 - '[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Peroxide|Peroxide]]'
 - '[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Peroxide.public|Peroxide.public]]'
 - '[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Peroxide.internal|Peroxide.internal]]'

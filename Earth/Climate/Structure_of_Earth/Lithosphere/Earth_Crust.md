@@ -103,20 +103,20 @@ aliases:
 - 지구의 지각
 has_id_wikidata: Q15316
 studied_by:
-- '[[_Standards/WikiData/WD~planetary_science,104499]]'
-- '[[_Standards/WikiData/WD~geology,1069]]'
-- '[[_Standards/WikiData/WD~geophysics,46255]]'
+- '[[_Standards/WikiData/WD~planetary_science,104499|WD~planetary_science,104499]]'
+- '[[_Standards/WikiData/WD~geology,1069|WD~geology,1069]]'
+- '[[_Standards/WikiData/WD~geophysics,46255|WD~geophysics,46255]]'
 part_of:
-- '[[_Standards/WikiData/WD~internal_structure_of_Earth,1664027]]'
-- '[[_Standards/WikiData/WD~Earth,2]]'
-instance_of: '[[_Standards/WikiData/WD~crust,4232578]]'
+- '[[_Standards/WikiData/WD~internal_structure_of_Earth,1664027|WD~internal_structure_of_Earth,1664027]]'
+- '[[_Standards/WikiData/WD~Earth,2|WD~Earth,2]]'
+instance_of: '[[_Standards/WikiData/WD~crust,4232578|WD~crust,4232578]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~sedimentary_cover,12136494]]'
-- '[[_Standards/WikiData/WD~granite,41177]]'
-- '[[_Standards/WikiData/WD~basalt,43338]]'
+- '[[_Standards/WikiData/WD~sedimentary_cover,12136494|WD~sedimentary_cover,12136494]]'
+- '[[_Standards/WikiData/WD~granite,41177|WD~granite,41177]]'
+- '[[_Standards/WikiData/WD~basalt,43338|WD~basalt,43338]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Siebenter_Band,131314460]]'
-- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Dreizehnter_Band,135617903]]'
+- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Siebenter_Band,131314460|WD~Meyer_s_Universum,_Siebenter_Band,131314460]]'
+- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Dreizehnter_Band,135617903|WD~Meyer_s_Universum,_Dreizehnter_Band,135617903]]'
 OmegaWiki_Defined_Meaning: 1018
 Dewey_Decimal_Classification: 551.13
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Erdkruste-i.png

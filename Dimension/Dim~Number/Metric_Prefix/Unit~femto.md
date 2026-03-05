@@ -28,12 +28,12 @@ aliases:
 - 飞
 - 펨토
 has_id_wikidata: Q110791
-follows: '[[_Standards/WikiData/WD~atto_,110817]]'
+follows: '[[_Standards/WikiData/WD~atto_,110817|WD~atto_,110817]]'
 instance_of:
-- '[[_Standards/WikiData/WD~SI_prefix,131299]]'
-- '[[_Standards/WikiData/WD~UCUM_prefix,83155725]]'
-followed_by: '[[_Standards/WikiData/WD~pico_,154341]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~SI_prefix,131299|WD~SI_prefix,131299]]'
+- '[[_Standards/WikiData/WD~UCUM_prefix,83155725|WD~UCUM_prefix,83155725]]'
+followed_by: '[[_Standards/WikiData/WD~pico_,154341|WD~pico_,154341]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 numeric_value: 1e-15
 UCUM_code: f
 time_of_discovery_or_invention: 1964-01-01T00:00:00Z
@@ -134,7 +134,7 @@ dv_has_:
 
 # [[Unit~femto]]  
 
-#is_/same_as :: [[_Standards/WikiData/WD~femto,110791]] 
+#is_/same_as :: [[_Standards/WikiData/WD~femto,110791|WD~femto,110791]] 
 
 
 ## Confidential Links & Embeds: 

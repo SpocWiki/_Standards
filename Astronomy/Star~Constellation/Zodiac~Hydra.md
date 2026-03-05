@@ -65,33 +65,33 @@ aliases:
 - 长蛇座
 - 바다뱀자리
 has_id_wikidata: Q10578
-different_from: '[[_Standards/WikiData/WD~Hydra,102701]]'
-named_after: '[[_Standards/WikiData/WD~Hydra,170379]]'
+different_from: '[[_Standards/WikiData/WD~Hydra,102701|WD~Hydra,102701]]'
+named_after: '[[_Standards/WikiData/WD~Hydra,170379|WD~Hydra,170379]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]'
-- '[[_Standards/WikiData/WD~Hydra,105091422]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886|WD~Star_Lore_of_All_Ages,95985886]]'
+- '[[_Standards/WikiData/WD~Hydra,105091422|WD~Hydra,105091422]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Q10729033,10729033]]'
-- '[[_Standards/WikiData/WD~Template_Stars_of_Hydra,14336006]]'
+- '[[_Standards/WikiData/WD~Q10729033,10729033|WD~Q10729033,10729033]]'
+- '[[_Standards/WikiData/WD~Template_Stars_of_Hydra,14336006|WD~Template_Stars_of_Hydra,14336006]]'
 shares_border_with:
-- '[[_Standards/WikiData/WD~Virgo,8842]]'
-- '[[_Standards/WikiData/WD~Centaurus,8844]]'
-- '[[_Standards/WikiData/WD~Cancer,8849]]'
-- '[[_Standards/WikiData/WD~Leo,8853]]'
-- '[[_Standards/WikiData/WD~Puppis,9251]]'
-- '[[_Standards/WikiData/WD~Crater,9282]]'
-- '[[_Standards/WikiData/WD~Canis_Minor,9305]]'
-- '[[_Standards/WikiData/WD~Monoceros,10428]]'
-- '[[_Standards/WikiData/WD~Pyxis,10473]]'
-- '[[_Standards/WikiData/WD~Antlia,10481]]'
-- '[[_Standards/WikiData/WD~Corvus,10517]]'
-- '[[_Standards/WikiData/WD~Sextans,10525]]'
-- '[[_Standards/WikiData/WD~Lupus,10571]]'
-- '[[_Standards/WikiData/WD~Libra,10580]]'
-instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
+- '[[_Standards/WikiData/WD~Virgo,8842|WD~Virgo,8842]]'
+- '[[_Standards/WikiData/WD~Centaurus,8844|WD~Centaurus,8844]]'
+- '[[_Standards/WikiData/WD~Cancer,8849|WD~Cancer,8849]]'
+- '[[_Standards/WikiData/WD~Leo,8853|WD~Leo,8853]]'
+- '[[_Standards/WikiData/WD~Puppis,9251|WD~Puppis,9251]]'
+- '[[_Standards/WikiData/WD~Crater,9282|WD~Crater,9282]]'
+- '[[_Standards/WikiData/WD~Canis_Minor,9305|WD~Canis_Minor,9305]]'
+- '[[_Standards/WikiData/WD~Monoceros,10428|WD~Monoceros,10428]]'
+- '[[_Standards/WikiData/WD~Pyxis,10473|WD~Pyxis,10473]]'
+- '[[_Standards/WikiData/WD~Antlia,10481|WD~Antlia,10481]]'
+- '[[_Standards/WikiData/WD~Corvus,10517|WD~Corvus,10517]]'
+- '[[_Standards/WikiData/WD~Sextans,10525|WD~Sextans,10525]]'
+- '[[_Standards/WikiData/WD~Lupus,10571|WD~Lupus,10571]]'
+- '[[_Standards/WikiData/WD~Libra,10580|WD~Libra,10580]]'
+instance_of: '[[_Standards/WikiData/WD~constellation,8928|WD~constellation,8928]]'
 area: 1303
 official_name: Hydra
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Hydra%20constellation%20map.svg
@@ -196,7 +196,7 @@ dv_has_:
     zh: 长蛇座
 dv_is_:
   same_as:
-  - '[[../../WikiData/WD~Hydra,10578]]'
+  - '[[../../WikiData/WD~Hydra,10578|WD~Hydra,10578]]'
   - '[[/_Standards/Astronomy/Star~Constellation/Zodiac~Hydra|Zodiac~Hydra]]'
   - '[[/_public/Astronomy/Star~Constellation/Zodiac~Hydra.public|Zodiac~Hydra.public]]'
   - '[[/_internal/Astronomy/Star~Constellation/Zodiac~Hydra.internal|Zodiac~Hydra.internal]]'
@@ -208,7 +208,7 @@ dv_has_name_la: Hydra
 dv_has_name_la_genitive: Hydrae
 dv_has_name_de: Wasserschlange
 dv_is_same_as:
-- '[[../../WikiData/WD~Hydra,10578]]'
+- '[[../../WikiData/WD~Hydra,10578|WD~Hydra,10578]]'
 - '[[/_Standards/Astronomy/Star~Constellation/Zodiac~Hydra|Zodiac~Hydra]]'
 - '[[/_public/Astronomy/Star~Constellation/Zodiac~Hydra.public|Zodiac~Hydra.public]]'
 - '[[/_internal/Astronomy/Star~Constellation/Zodiac~Hydra.internal|Zodiac~Hydra.internal]]'

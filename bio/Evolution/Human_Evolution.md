@@ -87,27 +87,27 @@ aliases:
 - 人類演化
 - 인류의 진화
 has_id_wikidata: Q83944
-different_from: '[[_Standards/WikiData/WD~philosophical_anthropology,488059]]'
+different_from: '[[_Standards/WikiData/WD~philosophical_anthropology,488059|WD~philosophical_anthropology,488059]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 instance_of:
-- '[[_Standards/WikiData/WD~field_of_work,627436]]'
-- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-- '[[_Standards/WikiData/WD~field_of_study,2267705]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~evolutionary_process,18054608]]'
-- '[[_Standards/WikiData/WD~branch_of_anthropology,106720965]]'
+- '[[_Standards/WikiData/WD~field_of_work,627436|WD~field_of_work,627436]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113|WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~field_of_study,2267705|WD~field_of_study,2267705]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~evolutionary_process,18054608|WD~evolutionary_process,18054608]]'
+- '[[_Standards/WikiData/WD~branch_of_anthropology,106720965|WD~branch_of_anthropology,106720965]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~hominization,1362274]]'
-- '[[_Standards/WikiData/WD~origin_of_modern_humans,7102480]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Human_Evolution,8084452]]'
+- '[[_Standards/WikiData/WD~hominization,1362274|WD~hominization,1362274]]'
+- '[[_Standards/WikiData/WD~origin_of_modern_humans,7102480|WD~origin_of_modern_humans,7102480]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Human_Evolution,8084452|WD~Template_Human_Evolution,8084452]]'
 facet_of:
-- '[[_Standards/WikiData/WD~evolution,1063]]'
-- '[[_Standards/WikiData/WD~human,5]]'
+- '[[_Standards/WikiData/WD~evolution,1063|WD~evolution,1063]]'
+- '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~evolution,1063]]'
-- '[[_Standards/WikiData/WD~paleoanthropology,7206]]'
+- '[[_Standards/WikiData/WD~evolution,1063|WD~evolution,1063]]'
+- '[[_Standards/WikiData/WD~paleoanthropology,7206|WD~paleoanthropology,7206]]'
 Library_of_Congress_Classification: GN281-GN289
 Commons_category: Human evolution
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Stammbaum%20der%20Hominidae.svg

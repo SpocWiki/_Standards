@@ -113,19 +113,19 @@ aliases:
 - 생쥐속
 has_id_wikidata: Q39275
 described_by_source:
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 homonymous_taxon:
-- '[[_Standards/WikiData/WD~Mus,2360683]]'
-- '[[_Standards/WikiData/WD~Mus_(hayvan),119166978]]'
-parent_taxon: '[[_Standards/WikiData/WD~Murini,50379819]]'
+- '[[_Standards/WikiData/WD~Mus,2360683|WD~Mus,2360683]]'
+- '[[_Standards/WikiData/WD~Mus_(hayvan),119166978|WD~Mus_(hayvan),119166978]]'
+parent_taxon: '[[_Standards/WikiData/WD~Murini,50379819|WD~Murini,50379819]]'
 main_food_source:
-- '[[_Standards/WikiData/WD~food,2095]]'
-- '[[_Standards/WikiData/WD~leaf,33971]]'
-- '[[_Standards/WikiData/WD~seed,40763]]'
-- '[[_Standards/WikiData/WD~root,41500]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+- '[[_Standards/WikiData/WD~food,2095|WD~food,2095]]'
+- '[[_Standards/WikiData/WD~leaf,33971|WD~leaf,33971]]'
+- '[[_Standards/WikiData/WD~seed,40763|WD~seed,40763]]'
+- '[[_Standards/WikiData/WD~root,41500|WD~root,41500]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
 OmegaWiki_Defined_Meaning: 6237
 ITIS_TSN: 180365
 Commons_gallery: Mus

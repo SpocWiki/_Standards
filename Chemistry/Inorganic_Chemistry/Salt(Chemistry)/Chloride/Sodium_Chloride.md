@@ -87,36 +87,36 @@ chemical_formula: NaCl
 RTECS_number: VZ4725000
 World_Health_Organisation_international_non_proprietary_name: sodium chloride, hypertonic
 has_part_s_:
-- '[[_Standards/WikiData/WD~chloride_ion,108200]]'
-- '[[_Standards/WikiData/WD~sodium_ion,3154110]]'
-- '[[_Standards/WikiData/WD~sodium,658]]'
-- '[[_Standards/WikiData/WD~chlorine,688]]'
+- '[[_Standards/WikiData/WD~chloride_ion,108200|WD~chloride_ion,108200]]'
+- '[[_Standards/WikiData/WD~sodium_ion,3154110|WD~sodium_ion,3154110]]'
+- '[[_Standards/WikiData/WD~sodium,658|WD~sodium,658]]'
+- '[[_Standards/WikiData/WD~chlorine,688|WD~chlorine,688]]'
 medical_condition_treated:
-- '[[_Standards/WikiData/WD~dehydration,194290]]'
-- '[[_Standards/WikiData/WD~hemorrhagic_shock,2964243]]'
-- '[[_Standards/WikiData/WD~dry_eye_syndrome,18553790]]'
-- '[[_Standards/WikiData/WD~corneal_edema,18553993]]'
-has_characteristic: '[[_Standards/WikiData/WD~hygroscopy,216678]]'
-crystal_system: '[[_Standards/WikiData/WD~cubic_crystal_system,473227]]'
-described_by_source: '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-legal_status_medicine_: '[[_Standards/WikiData/WD~boxed_warning,879952]]'
+- '[[_Standards/WikiData/WD~dehydration,194290|WD~dehydration,194290]]'
+- '[[_Standards/WikiData/WD~hemorrhagic_shock,2964243|WD~hemorrhagic_shock,2964243]]'
+- '[[_Standards/WikiData/WD~dry_eye_syndrome,18553790|WD~dry_eye_syndrome,18553790]]'
+- '[[_Standards/WikiData/WD~corneal_edema,18553993|WD~corneal_edema,18553993]]'
+has_characteristic: '[[_Standards/WikiData/WD~hygroscopy,216678|WD~hygroscopy,216678]]'
+crystal_system: '[[_Standards/WikiData/WD~cubic_crystal_system,473227|WD~cubic_crystal_system,473227]]'
+described_by_source: '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+legal_status_medicine_: '[[_Standards/WikiData/WD~boxed_warning,879952|WD~boxed_warning,879952]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~sodium_salt,1508568]]'
-- '[[_Standards/WikiData/WD~chloride,44791900]]'
+- '[[_Standards/WikiData/WD~sodium_salt,1508568|WD~sodium_salt,1508568]]'
+- '[[_Standards/WikiData/WD~chloride,44791900|WD~chloride,44791900]]'
 safety_classification_and_labelling:
-- '[[_Standards/WikiData/WD~Regulation_(EC)_No._1272_2008,2005334]]'
-- '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
-space_group: '[[_Standards/WikiData/WD~space_group_Fm_3m,15041893]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q28970839,28970839]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
+- '[[_Standards/WikiData/WD~Regulation_(EC)_No._1272_2008,2005334|WD~Regulation_(EC)_No._1272_2008,2005334]]'
+- '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288|WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
+space_group: '[[_Standards/WikiData/WD~space_group_Fm_3m,15041893|WD~space_group_Fm_3m,15041893]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q28970839,28970839|WD~Q28970839,28970839]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171|WD~type_of_chemical_entity,113145171]]'
 standard_enthalpy_of_formation: -234.8
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~table_salt,11254]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~table_salt,11254|WD~table_salt,11254]]'
 has_use:
-- '[[_Standards/WikiData/WD~table_salt,11254]]'
-- '[[_Standards/WikiData/WD~medication,12140]]'
+- '[[_Standards/WikiData/WD~table_salt,11254|WD~table_salt,11254]]'
+- '[[_Standards/WikiData/WD~medication,12140|WD~medication,12140]]'
 different_from:
-- '[[_Standards/WikiData/WD~table_salt,11254]]'
-- '[[_Standards/WikiData/WD~salt,12370]]'
+- '[[_Standards/WikiData/WD~table_salt,11254|WD~table_salt,11254]]'
+- '[[_Standards/WikiData/WD~salt,12370|WD~salt,12370]]'
 defined_daily_dose: 1
 solubility: 360
 standard_molar_entropy: 72.1

@@ -127,19 +127,19 @@ taxon_common_name:
 - Edelhirsch
 - Rothirsch
 - Ciervo
-IUCN_conservation_status: '[[_Standards/WikiData/WD~Least_Concern,211005]]'
-parent_taxon: '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Cervus,644255]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
-described_by_source: '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+IUCN_conservation_status: '[[_Standards/WikiData/WD~Least_Concern,211005|WD~Least_Concern,211005]]'
+parent_taxon: '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Cervus,644255|WD~Cervus,644255]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615|WD~WikiProject_Invasion_Biology,56241615]]'
+described_by_source: '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 this_taxon_is_source_of:
-- '[[_Standards/WikiData/WD~wapiti_meat,102317893]]'
-- '[[_Standards/WikiData/WD~red_deer_horn_oil,104224944]]'
+- '[[_Standards/WikiData/WD~wapiti_meat,102317893|WD~wapiti_meat,102317893]]'
+- '[[_Standards/WikiData/WD~red_deer_horn_oil,104224944|WD~red_deer_horn_oil,104224944]]'
 award_received:
-- '[[_Standards/WikiData/WD~Animal_of_the_Year,109758329]]'
-- '[[_Standards/WikiData/WD~Q109758751,109758751]]'
-invasive_to: '[[_Standards/WikiData/WD~Australia,408]]'
-taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~Animal_of_the_Year,109758329|WD~Animal_of_the_Year,109758329]]'
+- '[[_Standards/WikiData/WD~Q109758751,109758751|WD~Q109758751,109758751]]'
+invasive_to: '[[_Standards/WikiData/WD~Australia,408|WD~Australia,408]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432|WD~species,7432]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 longest_observed_lifespan: 31.5
 gestation_period: 33.5
 OmegaWiki_Defined_Meaning: 858

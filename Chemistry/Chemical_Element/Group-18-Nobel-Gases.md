@@ -127,30 +127,30 @@ aliases:
 has_id_wikidata: Q19609
 type: ElementGroup
 instance_of:
-- '[[_Standards/WikiData/WD~group,83306]]'
-- '[[_Standards/WikiData/WD~main_group,428830]]'
+- '[[_Standards/WikiData/WD~group,83306|WD~group,83306]]'
+- '[[_Standards/WikiData/WD~main_group,428830|WD~main_group,428830]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~inertness,262175]]'
-- '[[_Standards/WikiData/WD~colorlessness,11567495]]'
-- '[[_Standards/WikiData/WD~odorlessness,30007162]]'
-- '[[_Standards/WikiData/WD~tastelessness,30100868]]'
+- '[[_Standards/WikiData/WD~inertness,262175|WD~inertness,262175]]'
+- '[[_Standards/WikiData/WD~colorlessness,11567495|WD~colorlessness,11567495]]'
+- '[[_Standards/WikiData/WD~odorlessness,30007162|WD~odorlessness,30007162]]'
+- '[[_Standards/WikiData/WD~tastelessness,30100868|WD~tastelessness,30100868]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~simple_substance,2512777]]'
-- '[[_Standards/WikiData/WD~inert_gas,11136680]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-different_from: '[[_Standards/WikiData/WD~inert_gas,11136680]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Noble_gases,18177184]]'
+- '[[_Standards/WikiData/WD~simple_substance,2512777|WD~simple_substance,2512777]]'
+- '[[_Standards/WikiData/WD~inert_gas,11136680|WD~inert_gas,11136680]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+different_from: '[[_Standards/WikiData/WD~inert_gas,11136680|WD~inert_gas,11136680]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Noble_gases,18177184|WD~Template_Noble_gases,18177184]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~helium,560]]'
-- '[[_Standards/WikiData/WD~neon,654]]'
-- '[[_Standards/WikiData/WD~argon,696]]'
-- '[[_Standards/WikiData/WD~krypton,888]]'
-- '[[_Standards/WikiData/WD~xenon,1106]]'
-- '[[_Standards/WikiData/WD~radon,1133]]'
-- '[[_Standards/WikiData/WD~oganesson,1307]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
-part_of: '[[_Standards/WikiData/WD~periodic_table,10693]]'
+- '[[_Standards/WikiData/WD~helium,560|WD~helium,560]]'
+- '[[_Standards/WikiData/WD~neon,654|WD~neon,654]]'
+- '[[_Standards/WikiData/WD~argon,696|WD~argon,696]]'
+- '[[_Standards/WikiData/WD~krypton,888|WD~krypton,888]]'
+- '[[_Standards/WikiData/WD~xenon,1106|WD~xenon,1106]]'
+- '[[_Standards/WikiData/WD~radon,1133|WD~radon,1133]]'
+- '[[_Standards/WikiData/WD~oganesson,1307|WD~oganesson,1307]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
+part_of: '[[_Standards/WikiData/WD~periodic_table,10693|WD~periodic_table,10693]]'
 OmegaWiki_Defined_Meaning: 1129
 Dewey_Decimal_Classification:
 - 665.822
@@ -338,12 +338,12 @@ dv_has_:
 
 #chemic/Group 
 
-1)[[Group-18-Nobel-Gases/Helium]]]
-2)[[Group-18-Nobel-Gases/Neon]]]
-3)[[Group-18-Nobel-Gases/Argon]]]
-4)[[Group-18-Nobel-Gases/Krypton]]]
-5)[[Group-18-Nobel-Gases/Xenon]]]
-6)[[Group-18-Nobel-Gases/Radon]]]
+1)[[Group-18-Nobel-Gases/Helium|Helium]]]
+2)[[Group-18-Nobel-Gases/Neon|Neon]]]
+3)[[Group-18-Nobel-Gases/Argon|Argon]]]
+4)[[Group-18-Nobel-Gases/Krypton|Krypton]]]
+5)[[Group-18-Nobel-Gases/Xenon|Xenon]]]
+6)[[Group-18-Nobel-Gases/Radon|Radon]]]
 
 
 > The noble gases (historically also the inert gases; sometimes referred to as aerogens) make up a class of chemical elements with similar properties; under standard conditions, they are all odorless, colorless, monatomic gases with very low chemical reactivity. The six naturally occurring noble gases are helium (He), neon (Ne), argon (Ar), krypton (Kr), xenon (Xe), and the radioactive radon (Rn).

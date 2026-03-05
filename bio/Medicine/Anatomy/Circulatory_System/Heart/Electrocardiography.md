@@ -67,15 +67,15 @@ aliases:
 - 心電圖
 - 심전도
 has_id_wikidata: Q79785
-class_of_object_s_of_occurrence: '[[_Standards/WikiData/WD~electrical_conduction_system_of_the_heart,72711]]'
-part_of: '[[_Standards/WikiData/WD~electrophysiology,1154774]]'
+class_of_object_s_of_occurrence: '[[_Standards/WikiData/WD~electrical_conduction_system_of_the_heart,72711|WD~electrical_conduction_system_of_the_heart,72711]]'
+part_of: '[[_Standards/WikiData/WD~electrophysiology,1154774|WD~electrophysiology,1154774]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~medical_test,2671652]]'
-- '[[_Standards/WikiData/WD~diagnostic_test_in_cardiology,5038709]]'
-- '[[_Standards/WikiData/WD~recording,13557414]]'
-product_or_material_produced: '[[_Standards/WikiData/WD~electrocardiogram,13038557]]'
-instance_of: '[[_Standards/WikiData/WD~medical_test_type,55215251]]'
-described_by_source: '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+- '[[_Standards/WikiData/WD~medical_test,2671652|WD~medical_test,2671652]]'
+- '[[_Standards/WikiData/WD~diagnostic_test_in_cardiology,5038709|WD~diagnostic_test_in_cardiology,5038709]]'
+- '[[_Standards/WikiData/WD~recording,13557414|WD~recording,13557414]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~electrocardiogram,13038557|WD~electrocardiogram,13038557]]'
+instance_of: '[[_Standards/WikiData/WD~medical_test_type,55215251|WD~medical_test_type,55215251]]'
+described_by_source: '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517|WD~Small_Soviet_Encyclopedia,66386517]]'
 Commons_category: ECG
 short_name:
 - ECG

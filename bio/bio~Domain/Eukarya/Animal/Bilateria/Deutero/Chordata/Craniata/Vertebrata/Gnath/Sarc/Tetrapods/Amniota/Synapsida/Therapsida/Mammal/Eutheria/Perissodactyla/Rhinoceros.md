@@ -124,24 +124,24 @@ aliases:
 - 犀科
 - 코뿔소
 has_id_wikidata: Q34718
-taxonomic_type: '[[_Standards/WikiData/WD~Rhinoceros,134657]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Rhinoceros,134657|WD~Rhinoceros,134657]]'
 described_by_source:
-- '[[../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528]]'
+- '[[../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528|WD~Appendix_I_of_CITES,2851528]]'
 this_taxon_is_source_of:
-- '[[_Standards/WikiData/WD~rhinoceros_horn,11571119]]'
-- '[[_Standards/WikiData/WD~horn,29838373]]'
-- '[[_Standards/WikiData/WD~mammal_horn,107344881]]'
+- '[[_Standards/WikiData/WD~rhinoceros_horn,11571119|WD~rhinoceros_horn,11571119]]'
+- '[[_Standards/WikiData/WD~horn,29838373|WD~horn,29838373]]'
+- '[[_Standards/WikiData/WD~mammal_horn,107344881|WD~mammal_horn,107344881]]'
 depicted_by:
-- '[[_Standards/WikiData/WD~Exhibition_of_a_Rhinoceros_at_Venice,26708361]]'
-- '[[_Standards/WikiData/WD~The_Rhinoceros,110619157]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+- '[[_Standards/WikiData/WD~Exhibition_of_a_Rhinoceros_at_Venice,26708361|WD~Exhibition_of_a_Rhinoceros_at_Venice,26708361]]'
+- '[[_Standards/WikiData/WD~The_Rhinoceros,110619157|WD~The_Rhinoceros,110619157]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409|WD~family,35409]]'
 OmegaWiki_Defined_Meaning: 8335
 pronunciation_audio:
 - http://commons.wikimedia.org/wiki/Special:FilePath/De-Nashorn2.ogg
@@ -318,7 +318,7 @@ Unicode_character: 🦏
 
 # [[Rhinoceros]] 🦏 
 
-![[Rhinoceros/black_rhinos.jpg]]
+![[Rhinoceros/black_rhinos.jpg|black_rhinos.jpg]]
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../WikiData/WD~Rhinoceros,34718|WD~Rhinoceros,34718]] 
 

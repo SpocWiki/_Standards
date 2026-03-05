@@ -115,27 +115,27 @@ aliases:
 - 식수
 has_id_wikidata: Q7892
 different_from:
-- '[[_Standards/WikiData/WD~groundwater,161598]]'
-- '[[_Standards/WikiData/WD~wastewater,336191]]'
-- '[[_Standards/WikiData/WD~surface_water,752112]]'
-- '[[_Standards/WikiData/WD~raw_water,832131]]'
-- '[[_Standards/WikiData/WD~reclaimed_water,1057706]]'
-- '[[_Standards/WikiData/WD~water_consumption,1277412]]'
-- '[[_Standards/WikiData/WD~stormwater,1421263]]'
-- '[[_Standards/WikiData/WD~spring_water,1881858]]'
-- '[[_Standards/WikiData/WD~artesian_water,11959188]]'
-- '[[_Standards/WikiData/WD~non_drinking_water,62026522]]'
-- '[[_Standards/WikiData/WD~irrigation_water,113499979]]'
-fabrication_method: '[[_Standards/WikiData/WD~drinking_water_production,21120248]]'
+- '[[_Standards/WikiData/WD~groundwater,161598|WD~groundwater,161598]]'
+- '[[_Standards/WikiData/WD~wastewater,336191|WD~wastewater,336191]]'
+- '[[_Standards/WikiData/WD~surface_water,752112|WD~surface_water,752112]]'
+- '[[_Standards/WikiData/WD~raw_water,832131|WD~raw_water,832131]]'
+- '[[_Standards/WikiData/WD~reclaimed_water,1057706|WD~reclaimed_water,1057706]]'
+- '[[_Standards/WikiData/WD~water_consumption,1277412|WD~water_consumption,1277412]]'
+- '[[_Standards/WikiData/WD~stormwater,1421263|WD~stormwater,1421263]]'
+- '[[_Standards/WikiData/WD~spring_water,1881858|WD~spring_water,1881858]]'
+- '[[_Standards/WikiData/WD~artesian_water,11959188|WD~artesian_water,11959188]]'
+- '[[_Standards/WikiData/WD~non_drinking_water,62026522|WD~non_drinking_water,62026522]]'
+- '[[_Standards/WikiData/WD~irrigation_water,113499979|WD~irrigation_water,113499979]]'
+fabrication_method: '[[_Standards/WikiData/WD~drinking_water_production,21120248|WD~drinking_water_production,21120248]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~liquid_water,29053744]]'
-- '[[_Standards/WikiData/WD~drink,40050]]'
-relates_to_sustainable_development_goal_target_or_indicator: '[[_Standards/WikiData/WD~Target_6.1_of_the_Sustainable_Development_Goals,57590797]]'
-opposite_of: '[[_Standards/WikiData/WD~non_drinking_water,62026522]]'
+- '[[_Standards/WikiData/WD~liquid_water,29053744|WD~liquid_water,29053744]]'
+- '[[_Standards/WikiData/WD~drink,40050|WD~drink,40050]]'
+relates_to_sustainable_development_goal_target_or_indicator: '[[_Standards/WikiData/WD~Target_6.1_of_the_Sustainable_Development_Goals,57590797|WD~Target_6.1_of_the_Sustainable_Development_Goals,57590797]]'
+opposite_of: '[[_Standards/WikiData/WD~non_drinking_water,62026522|WD~non_drinking_water,62026522]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]'
-- '[[_Standards/WikiData/WD~Kartographer_icon,134980502]]'
-uses: '[[_Standards/WikiData/WD~potable_water_sampling,125862576]]'
+- '[[_Standards/WikiData/WD~Green_Map_Icons,103892210|WD~Green_Map_Icons,103892210]]'
+- '[[_Standards/WikiData/WD~Kartographer_icon,134980502|WD~Kartographer_icon,134980502]]'
+uses: '[[_Standards/WikiData/WD~potable_water_sampling,125862576|WD~potable_water_sampling,125862576]]'
 electrical_resistivity: 20
 OmegaWiki_Defined_Meaning: 990
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Stilles%20Mineralwasser.jpg

@@ -126,21 +126,21 @@ male_form_of_label:
 - Apotheker
 - farmaceut
 field_of_this_occupation:
-- '[[_Standards/WikiData/WD~pharmacy,614304]]'
-- '[[_Standards/WikiData/WD~medication_dispensing,3030545]]'
+- '[[_Standards/WikiData/WD~pharmacy,614304|WD~pharmacy,614304]]'
+- '[[_Standards/WikiData/WD~medication_dispensing,3030545|WD~medication_dispensing,3030545]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135|WD~Encyclopedic_Lexicon,4532135]]'
 different_from:
-- '[[_Standards/WikiData/WD~pharmacologist,2114605]]'
-- '[[_Standards/WikiData/WD~Q12034894,12034894]]'
+- '[[_Standards/WikiData/WD~pharmacologist,2114605|WD~pharmacologist,2114605]]'
+- '[[_Standards/WikiData/WD~Q12034894,12034894|WD~Q12034894,12034894]]'
 instance_of:
-- '[[_Standards/WikiData/WD~health_profession,3922583]]'
-- '[[_Standards/WikiData/WD~occupation_group_according_to_ISCO_08,108300140]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~druggist,11904218]]'
-part_of: '[[_Standards/WikiData/WD~pharmacy,13107184]]'
-subclass_of: '[[_Standards/WikiData/WD~other_health_professionals,108289390]]'
+- '[[_Standards/WikiData/WD~health_profession,3922583|WD~health_profession,3922583]]'
+- '[[_Standards/WikiData/WD~occupation_group_according_to_ISCO_08,108300140|WD~occupation_group_according_to_ISCO_08,108300140]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~druggist,11904218|WD~druggist,11904218]]'
+part_of: '[[_Standards/WikiData/WD~pharmacy,13107184|WD~pharmacy,13107184]]'
+subclass_of: '[[_Standards/WikiData/WD~other_health_professionals,108289390|WD~other_health_professionals,108289390]]'
 Statistics_Denmarks_classification_of_occupation_DISCO_08_: 226200
 ISCO_08_occupation_class: 2262
 ISCO_88_occupation_class: 2262

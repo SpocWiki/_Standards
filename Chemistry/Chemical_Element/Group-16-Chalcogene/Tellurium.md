@@ -78,7 +78,7 @@ aliases:
 - 碲
 - 텔루륨
 has_id_wikidata: Q1100
-associated_hazard: '[[_Standards/WikiData/WD~tellurium_exposure,21175335]]'
+associated_hazard: '[[_Standards/WikiData/WD~tellurium_exposure,21175335|WD~tellurium_exposure,21175335]]'
 atomic_number: 52
 boiling_point: 1814
 canonical_SMILES: '[Te]'
@@ -88,12 +88,12 @@ Commons_category: Tellurium
 Commons_gallery: Tellurium
 density: 6.24
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Franz-Joseph_Müller_von_Reichenstein,112012]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Franz-Joseph_Müller_von_Reichenstein,112012|WD~Franz-Joseph_Müller_von_Reichenstein,112012]]'
 DSSTOX_compound_identifier: DTXCID7012119
 EC_number: 236-813-4
 electronegativity: 2.1
@@ -101,17 +101,17 @@ electron_configuration:
 - 1s² 2s² 2p⁶ 3s² 3p⁶ 4s² 4d¹⁰ 4p⁶ 5s² 5d¹⁰ 5p⁴
 - '[Kr] 5s² 5d¹⁰ 5p⁴'
 element_symbol: Te
-found_in_taxon: '[[_Standards/WikiData/WD~Paris_polyphylla_var._chinensis,10905961]]'
+found_in_taxon: '[[_Standards/WikiData/WD~Paris_polyphylla_var._chinensis,10905961|WD~Paris_polyphylla_var._chinensis,10905961]]'
 Gmelin_number: 16309
-has_effect: '[[_Standards/WikiData/WD~tellurium_exposure,21175335]]'
+has_effect: '[[_Standards/WikiData/WD~tellurium_exposure,21175335|WD~tellurium_exposure,21175335]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tellurium%20element%202.jpg
 immediately_dangerous_to_life_or_health: 25
 InChI: InChI=1S/Te
 InChIKey: PORWMNRCUJJQNO-UHFFFAOYSA-N
 instance_of:
-- '[[_Standards/WikiData/WD~chalcophile_element,1929547]]'
-- '[[_Standards/WikiData/WD~flammable_solid,21073024]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+- '[[_Standards/WikiData/WD~chalcophile_element,1929547|WD~chalcophile_element,1929547]]'
+- '[[_Standards/WikiData/WD~flammable_solid,21073024|WD~flammable_solid,21073024]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 ionic_radius:
 - 0.43
 - 0.56
@@ -123,18 +123,18 @@ melting_point: 842
 MeSH_tree_code:
 - D01.268.185.950
 - D01.268.513.968
-named_after: '[[_Standards/WikiData/WD~Terra,270867]]'
+named_after: '[[_Standards/WikiData/WD~Terra,270867|WD~Terra,270867]]'
 OmegaWiki_Defined_Meaning: 160178
 part_of:
-- '[[_Standards/WikiData/WD~group_16,104567]]'
-- '[[_Standards/WikiData/WD~period_5,244982]]'
+- '[[_Standards/WikiData/WD~group_16,104567|WD~group_16,104567]]'
+- '[[_Standards/WikiData/WD~period_5,244982|WD~period_5,244982]]'
 PubChem_CID: 6327182
 RTECS_number: WY2625000
 SpocWebEntityId: 21948
 subclass_of:
-- '[[_Standards/WikiData/WD~group_16,104567]]'
-- '[[_Standards/WikiData/WD~period_5,244982]]'
-- '[[_Standards/WikiData/WD~metalloid,19596]]'
+- '[[_Standards/WikiData/WD~group_16,104567|WD~group_16,104567]]'
+- '[[_Standards/WikiData/WD~period_5,244982|WD~period_5,244982]]'
+- '[[_Standards/WikiData/WD~metalloid,19596|WD~metalloid,19596]]'
 time_of_discovery_or_invention: 1783
 time_weighted_average_exposure_limit: 0.1
 type: Element
@@ -333,9 +333,9 @@ dv_has_:
         kj_:
           mol: 52.55
 dv_is_:
-  part_of: '[[../Group-16-Chalcogene]]'
+  part_of: '[[../Group-16-Chalcogene|Group-16-Chalcogene]]'
   same_as:
-  - '[[../../../WikiData/WD~Tellurium,1100]]'
+  - '[[../../../WikiData/WD~Tellurium,1100|WD~Tellurium,1100]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Group-16-Chalcogene/Tellurium|Tellurium]]'
   - '[[/_public/Chemistry/Chemical_Element/Group-16-Chalcogene/Tellurium.public|Tellurium.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Group-16-Chalcogene/Tellurium.internal|Tellurium.internal]]'
@@ -344,7 +344,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Chemical_Element/Group-16-Chalcogene/Tellurium.personal|Tellurium.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Group-16-Chalcogene/Tellurium.secret|Tellurium.secret]]'
 dv_has_name_group: Group-16-Chalcogene
-dv_is_part_of: '[[../Group-16-Chalcogene]]'
+dv_is_part_of: '[[../Group-16-Chalcogene|Group-16-Chalcogene]]'
 dv_has_name_en: Tellurium
 dv_has_name_de: Tellur
 dv_has_value_for_weight_u: 127.6
@@ -363,7 +363,7 @@ dv_has_value_for_energy_form_kj_mol: 52.55
 dv_has_number_of_period: 5
 dv_has_number_of_group: 16
 dv_is_same_as:
-- '[[../../../WikiData/WD~Tellurium,1100]]'
+- '[[../../../WikiData/WD~Tellurium,1100|WD~Tellurium,1100]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Group-16-Chalcogene/Tellurium|Tellurium]]'
 - '[[/_public/Chemistry/Chemical_Element/Group-16-Chalcogene/Tellurium.public|Tellurium.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Group-16-Chalcogene/Tellurium.internal|Tellurium.internal]]'
@@ -407,7 +407,7 @@ has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy`
 has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
 has_number_of_period = `=this.dv_has_number_of_period` 
 has_number_of_group = `=this.dv_has_number_of_group` 
-#is_/same_as :: [[../../../WikiData/WD~Tellurium,1100]]  
+#is_/same_as :: [[../../../WikiData/WD~Tellurium,1100|WD~Tellurium,1100]]  
 
 
 ## #has_/text_of_/abstract 
@@ -425,7 +425,7 @@ has_number_of_group = `=this.dv_has_number_of_group`
 > Tellurium-bearing compounds were first discovered in 1782 
 > in a gold mine in Kleinschlatten, Transylvania (now Zlatna, Romania) 
 > by Austrian mineralogist Franz-Joseph Müller von Reichenstein, 
-> although it was [[../../Chemist/Klaproth,Martin_Heinrich]] who named the new element in 1798 
+> although it was [[../../Chemist/Klaproth,Martin_Heinrich|Klaproth,Martin_Heinrich]] who named the new element in 1798 
 > after the Latin tellus 'earth'. 
 > 
 > Gold telluride minerals are the most notable natural gold compounds. 

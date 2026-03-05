@@ -185,36 +185,36 @@ aliases:
 - "\U00010331\U0001033B\U00010349\U0001033C\U00010330"
 has_id_wikidata: Q506
 different_from:
-- '[[_Standards/WikiData/WD~Malva,147325]]'
-- '[[_Standards/WikiData/WD~flowering_plant,886167]]'
+- '[[_Standards/WikiData/WD~Malva,147325|WD~Malva,147325]]'
+- '[[_Standards/WikiData/WD~flowering_plant,886167|WD~flowering_plant,886167]]'
 part_of:
-- '[[_Standards/WikiData/WD~inflorescence,156428]]'
-- '[[_Standards/WikiData/WD~shoot,220869]]'
-- '[[_Standards/WikiData/WD~Angiosperms,25314]]'
+- '[[_Standards/WikiData/WD~inflorescence,156428|WD~inflorescence,156428]]'
+- '[[_Standards/WikiData/WD~shoot,220869|WD~shoot,220869]]'
+- '[[_Standards/WikiData/WD~Angiosperms,25314|WD~Angiosperms,25314]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~perianth,504930]]'
-- '[[_Standards/WikiData/WD~androecium,512249]]'
-- '[[_Standards/WikiData/WD~gynoecium,588964]]'
+- '[[_Standards/WikiData/WD~perianth,504930|WD~perianth,504930]]'
+- '[[_Standards/WikiData/WD~androecium,512249|WD~androecium,512249]]'
+- '[[_Standards/WikiData/WD~gynoecium,588964|WD~gynoecium,588964]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-has_use: '[[_Standards/WikiData/WD~plant_reproduction,2725616]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+has_use: '[[_Standards/WikiData/WD~plant_reproduction,2725616|WD~plant_reproduction,2725616]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~plant_structure,20011319]]'
-- '[[_Standards/WikiData/WD~plant_organ,24060707]]'
+- '[[_Standards/WikiData/WD~plant_structure,20011319|WD~plant_structure,20011319]]'
+- '[[_Standards/WikiData/WD~plant_organ,24060707|WD~plant_organ,24060707]]'
 develops_from:
-- '[[_Standards/WikiData/WD~flower_bud,25500561]]'
-- '[[_Standards/WikiData/WD~mixed_bud,25502105]]'
-has_characteristic: '[[_Standards/WikiData/WD~flowering_stage,30513971]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q134124751,134124751]]'
+- '[[_Standards/WikiData/WD~flower_bud,25500561|WD~flower_bud,25500561]]'
+- '[[_Standards/WikiData/WD~mixed_bud,25502105|WD~mixed_bud,25502105]]'
+has_characteristic: '[[_Standards/WikiData/WD~flowering_stage,30513971|WD~flowering_stage,30513971]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q134124751,134124751|WD~Q134124751,134124751]]'
 Wikidata_property: flower color
 Dewey_Decimal_Classification: 582
 Commons_gallery: Flowers

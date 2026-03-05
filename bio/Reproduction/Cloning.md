@@ -78,14 +78,14 @@ aliases:
 has_id_wikidata: Q120877
 Library_of_Congress_Classification: QH442.2
 Dewey_Decimal_Classification: 571.89
-model_item: '[[_Standards/WikiData/WD~Dolly_the_Sheep,171433]]'
+model_item: '[[_Standards/WikiData/WD~Dolly_the_Sheep,171433|WD~Dolly_the_Sheep,171433]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~asexual_reproduction,173432]]'
-- '[[_Standards/WikiData/WD~kindred,1313923]]'
-- '[[_Standards/WikiData/WD~artificial_reproduction,4115658]]'
-different_from: '[[_Standards/WikiData/WD~Cloning,531838]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-instance_of: '[[_Standards/WikiData/WD~mode_of_biological_reproduction,130077803]]'
+- '[[_Standards/WikiData/WD~asexual_reproduction,173432|WD~asexual_reproduction,173432]]'
+- '[[_Standards/WikiData/WD~kindred,1313923|WD~kindred,1313923]]'
+- '[[_Standards/WikiData/WD~artificial_reproduction,4115658|WD~artificial_reproduction,4115658]]'
+different_from: '[[_Standards/WikiData/WD~Cloning,531838|WD~Cloning,531838]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+instance_of: '[[_Standards/WikiData/WD~mode_of_biological_reproduction,130077803|WD~mode_of_biological_reproduction,130077803]]'
 OmegaWiki_Defined_Meaning: 618
 schematic:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Clonagem%20portugues.svg

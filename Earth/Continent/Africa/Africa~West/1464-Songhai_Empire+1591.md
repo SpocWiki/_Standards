@@ -79,20 +79,20 @@ aliases:
 - 桑海帝國
 - 송가이 제국
 has_id_wikidata: Q202687
-capital: '[[_Standards/WikiData/WD~Gao,188904]]'
-official_language: '[[_Standards/WikiData/WD~Songhay,505198]]'
-replaces: '[[_Standards/WikiData/WD~Gao_Empire,1493766]]'
-instance_of: '[[_Standards/WikiData/WD~historical_country,3024240]]'
-language_used: '[[_Standards/WikiData/WD~Central_Mande,5972907]]'
-currency: '[[_Standards/WikiData/WD~cowrie_currency,115706729]]'
+capital: '[[_Standards/WikiData/WD~Gao,188904|WD~Gao,188904]]'
+official_language: '[[_Standards/WikiData/WD~Songhay,505198|WD~Songhay,505198]]'
+replaces: '[[_Standards/WikiData/WD~Gao_Empire,1493766|WD~Gao_Empire,1493766]]'
+instance_of: '[[_Standards/WikiData/WD~historical_country,3024240|WD~historical_country,3024240]]'
+language_used: '[[_Standards/WikiData/WD~Central_Mande,5972907|WD~Central_Mande,5972907]]'
+currency: '[[_Standards/WikiData/WD~cowrie_currency,115706729|WD~cowrie_currency,115706729]]'
 inception: 1464-01-01T00:00:00Z
 dissolved_abolished_or_demolished_date: 1591-03-12T00:00:00Z
-official_religion: '[[_Standards/WikiData/WD~Islam,432]]'
+official_religion: '[[_Standards/WikiData/WD~Islam,432|WD~Islam,432]]'
 located_in_the_present_day_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Mali,912]]'
-- '[[_Standards/WikiData/WD~Niger,1032]]'
-basic_form_of_government: '[[_Standards/WikiData/WD~monarchy,7269]]'
-continent: '[[_Standards/WikiData/WD~Africa,15]]'
+- '[[_Standards/WikiData/WD~Mali,912|WD~Mali,912]]'
+- '[[_Standards/WikiData/WD~Niger,1032|WD~Niger,1032]]'
+basic_form_of_government: '[[_Standards/WikiData/WD~monarchy,7269|WD~monarchy,7269]]'
+continent: '[[_Standards/WikiData/WD~Africa,15|WD~Africa,15]]'
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/SONGHAI%20empire%20map.PNG
 Commons_category: Songhai Empire
 coordinate_location: Point(-0.05 16.26666667)

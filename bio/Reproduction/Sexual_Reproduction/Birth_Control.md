@@ -107,20 +107,20 @@ aliases:
 - 避孕
 - 피임
 has_id_wikidata: Q122224
-different_from: '[[_Standards/WikiData/WD~human_population_control,130819]]'
-part_of: '[[_Standards/WikiData/WD~human_population_control,130819]]'
-has_part_s_: '[[_Standards/WikiData/WD~comparison_of_birth_control_methods,666544]]'
+different_from: '[[_Standards/WikiData/WD~human_population_control,130819|WD~human_population_control,130819]]'
+part_of: '[[_Standards/WikiData/WD~human_population_control,130819|WD~human_population_control,130819]]'
+has_part_s_: '[[_Standards/WikiData/WD~comparison_of_birth_control_methods,666544|WD~comparison_of_birth_control_methods,666544]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~family_planning,1280670]]'
-- '[[_Standards/WikiData/WD~reproductive_health,1981388]]'
-- '[[_Standards/WikiData/WD~medical_prevention,117824058]]'
-has_use: '[[_Standards/WikiData/WD~prevention,1717246]]'
-facet_of: "[[_Standards/WikiData/WD~women's_health,8031191]]"
+- '[[_Standards/WikiData/WD~family_planning,1280670|WD~family_planning,1280670]]'
+- '[[_Standards/WikiData/WD~reproductive_health,1981388|WD~reproductive_health,1981388]]'
+- '[[_Standards/WikiData/WD~medical_prevention,117824058|WD~medical_prevention,117824058]]'
+has_use: '[[_Standards/WikiData/WD~prevention,1717246|WD~prevention,1717246]]'
+facet_of: "[[_Standards/WikiData/WD~women's_health,8031191|WD~women's_health,8031191]]"
 on_focus_list_of_Wikimedia_project:
-- '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
-- '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~Secular_humanism,106303278]]'
-described_by_source: '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
+- '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832|WD~WikiProject_Zika_Corpus,54439832]]'
+- '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720|WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~Secular_humanism,106303278|WD~Secular_humanism,106303278]]'
+described_by_source: '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072|WD~Red_Blue_Translator,131935072]]'
 IAB_code: 303
 OmegaWiki_Defined_Meaning: 404
 Dewey_Decimal_Classification:

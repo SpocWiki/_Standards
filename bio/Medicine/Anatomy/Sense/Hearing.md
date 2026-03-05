@@ -88,31 +88,31 @@ aliases:
 - 청각
 has_id_wikidata: Q160289
 subclass_of:
-- '[[_Standards/WikiData/WD~perception,160402]]'
-- '[[_Standards/WikiData/WD~sensory_perception_of_mechanical_stimulus,14908172]]'
+- '[[_Standards/WikiData/WD~perception,160402|WD~perception,160402]]'
+- '[[_Standards/WikiData/WD~sensory_perception_of_mechanical_stimulus,14908172|WD~sensory_perception_of_mechanical_stimulus,14908172]]'
 instance_of:
-- '[[_Standards/WikiData/WD~sense,173253]]'
-- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-- '[[_Standards/WikiData/WD~field_of_study,2267705]]'
-- '[[_Standards/WikiData/WD~biological_process,2996394]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-different_from: '[[_Standards/WikiData/WD~Hörsel,279230]]'
+- '[[_Standards/WikiData/WD~sense,173253|WD~sense,173253]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113|WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~field_of_study,2267705|WD~field_of_study,2267705]]'
+- '[[_Standards/WikiData/WD~biological_process,2996394|WD~biological_process,2996394]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+different_from: '[[_Standards/WikiData/WD~Hörsel,279230|WD~Hörsel,279230]]'
 studied_by:
-- '[[_Standards/WikiData/WD~audiology,569965]]'
-- '[[_Standards/WikiData/WD~hearing_science,103884376]]'
+- '[[_Standards/WikiData/WD~audiology,569965|WD~audiology,569965]]'
+- '[[_Standards/WikiData/WD~hearing_science,103884376|WD~hearing_science,103884376]]'
 part_of:
-- '[[_Standards/WikiData/WD~audiology,569965]]'
-- '[[_Standards/WikiData/WD~five_wits,1051623]]'
+- '[[_Standards/WikiData/WD~audiology,569965|WD~audiology,569965]]'
+- '[[_Standards/WikiData/WD~five_wits,1051623|WD~five_wits,1051623]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
-- '[[_Standards/WikiData/WD~Hearing,133280495]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Hearing_Health,123226125]]'
-anatomical_locations: '[[_Standards/WikiData/WD~ear,7362]]'
-has_part_s_: '[[_Standards/WikiData/WD~sound,11461]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630|WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
+- '[[_Standards/WikiData/WD~Hearing,133280495|WD~Hearing,133280495]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Hearing_Health,123226125|WD~WikiProject_Hearing_Health,123226125]]'
+anatomical_locations: '[[_Standards/WikiData/WD~ear,7362|WD~ear,7362]]'
+has_part_s_: '[[_Standards/WikiData/WD~sound,11461|WD~sound,11461]]'
 OmegaWiki_Defined_Meaning: 1745
 PhilPapers_topic: hearing
 Commons_category: Hearing

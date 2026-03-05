@@ -115,21 +115,21 @@ taxon_common_name:
 - Шалфей
 - Zsálya
 described_by_source:
-- '[[../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_66,112869470]]'
-taxonomic_type: '[[_Standards/WikiData/WD~Salvia_officinalis,1111359]]'
+- '[[../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_66,112869470|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_66,112869470]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Salvia_officinalis,1111359|WD~Salvia_officinalis,1111359]]'
 award_received:
-- '[[_Standards/WikiData/WD~medicinal_plant_of_the_year,1595426]]'
-- '[[_Standards/WikiData/WD~perennial_of_the_year,2334413]]'
-has_fruit_type: '[[_Standards/WikiData/WD~nucule,5118786]]'
-parent_taxon: '[[../../../../../../../../../../../../../../WikiData/WD~Mentheae,7638745]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+- '[[_Standards/WikiData/WD~medicinal_plant_of_the_year,1595426|WD~medicinal_plant_of_the_year,1595426]]'
+- '[[_Standards/WikiData/WD~perennial_of_the_year,2334413|WD~perennial_of_the_year,2334413]]'
+has_fruit_type: '[[_Standards/WikiData/WD~nucule,5118786|WD~nucule,5118786]]'
+parent_taxon: '[[../../../../../../../../../../../../../../WikiData/WD~Mentheae,7638745|WD~Mentheae,7638745]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
 ITIS_TSN: 32680
 Commons_gallery: Salvia
 Commons_category: Salvia

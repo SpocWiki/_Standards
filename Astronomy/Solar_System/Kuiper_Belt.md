@@ -102,19 +102,19 @@ aliases:
 - 柯伊伯帶
 - 카이퍼대
 has_id_wikidata: Q427
-named_after: '[[_Standards/WikiData/WD~Gerard_Kuiper,192948]]'
+named_after: '[[_Standards/WikiData/WD~Gerard_Kuiper,192948|WD~Gerard_Kuiper,192948]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~cubewano,645924]]'
-- '[[_Standards/WikiData/WD~resonant_trans_Neptunian_object,6635]]'
-instance_of: '[[_Standards/WikiData/WD~circumstellar_disk,3235978]]'
-part_of: '[[_Standards/WikiData/WD~outer_Solar_System,3962257]]'
-parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525]]'
+- '[[_Standards/WikiData/WD~cubewano,645924|WD~cubewano,645924]]'
+- '[[_Standards/WikiData/WD~resonant_trans_Neptunian_object,6635|WD~resonant_trans_Neptunian_object,6635]]'
+instance_of: '[[_Standards/WikiData/WD~circumstellar_disk,3235978|WD~circumstellar_disk,3235978]]'
+part_of: '[[_Standards/WikiData/WD~outer_Solar_System,3962257|WD~outer_Solar_System,3962257]]'
+parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525|WD~Sun,525]]'
 Commons_category: Kuiper belt objects
 IMDb_keyword: kuiper-belt
 subreddit: Kuiperbelt
 dv_is_:
   same_as:
-  - '[[../../WikiData/WD~Kuiper_Belt,427]]'
+  - '[[../../WikiData/WD~Kuiper_Belt,427|WD~Kuiper_Belt,427]]'
   - '[[/_Standards/Astronomy/Solar_System/Kuiper_Belt|Kuiper_Belt]]'
   - '[[/_public/Astronomy/Solar_System/Kuiper_Belt.public|Kuiper_Belt.public]]'
   - '[[/_internal/Astronomy/Solar_System/Kuiper_Belt.internal|Kuiper_Belt.internal]]'
@@ -123,7 +123,7 @@ dv_is_:
   - '[[/_personal/Astronomy/Solar_System/Kuiper_Belt.personal|Kuiper_Belt.personal]]'
   - '[[/_secret/Astronomy/Solar_System/Kuiper_Belt.secret|Kuiper_Belt.secret]]'
 dv_is_same_as:
-- '[[../../WikiData/WD~Kuiper_Belt,427]]'
+- '[[../../WikiData/WD~Kuiper_Belt,427|WD~Kuiper_Belt,427]]'
 - '[[/_Standards/Astronomy/Solar_System/Kuiper_Belt|Kuiper_Belt]]'
 - '[[/_public/Astronomy/Solar_System/Kuiper_Belt.public|Kuiper_Belt.public]]'
 - '[[/_internal/Astronomy/Solar_System/Kuiper_Belt.internal|Kuiper_Belt.internal]]'

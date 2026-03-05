@@ -133,23 +133,23 @@ aliases:
 - 길이
 has_id_wikidata: Q36253
 subclass_of:
-- '[[_Standards/WikiData/WD~distance,126017]]'
-- '[[_Standards/WikiData/WD~scalar_quantity,181175]]'
-- '[[_Standards/WikiData/WD~geometric_measure,123410660]]'
-mathematical_inverse: '[[_Standards/WikiData/WD~reciprocal_length,1028259]]'
-has_characteristic: '[[_Standards/WikiData/WD~unit_of_length,1978718]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~distance,126017|WD~distance,126017]]'
+- '[[_Standards/WikiData/WD~scalar_quantity,181175|WD~scalar_quantity,181175]]'
+- '[[_Standards/WikiData/WD~geometric_measure,123410660|WD~geometric_measure,123410660]]'
+mathematical_inverse: '[[_Standards/WikiData/WD~reciprocal_length,1028259|WD~reciprocal_length,1028259]]'
+has_characteristic: '[[_Standards/WikiData/WD~unit_of_length,1978718|WD~unit_of_length,1978718]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~ISO_80000_3_2006_Quantities_and_units_Part_3_Space_and_time,26711932]]'
-- '[[_Standards/WikiData/WD~SI_Brochure_(9th_edition)_Concise_summary,68977959]]'
-- '[[_Standards/WikiData/WD~ISO_80000_3_2019_Quantities_and_units_Part_3_Space_and_time,90137277]]'
+- '[[_Standards/WikiData/WD~ISO_80000_3_2006_Quantities_and_units_Part_3_Space_and_time,26711932|WD~ISO_80000_3_2006_Quantities_and_units_Part_3_Space_and_time,26711932]]'
+- '[[_Standards/WikiData/WD~SI_Brochure_(9th_edition)_Concise_summary,68977959|WD~SI_Brochure_(9th_edition)_Concise_summary,68977959]]'
+- '[[_Standards/WikiData/WD~ISO_80000_3_2019_Quantities_and_units_Part_3_Space_and_time,90137277|WD~ISO_80000_3_2019_Quantities_and_units_Part_3_Space_and_time,90137277]]'
 instance_of:
-- '[[_Standards/WikiData/WD~ISQ_base_quantity,30337748]]'
-- '[[_Standards/WikiData/WD~kind_of_quantity,110653654]]'
+- '[[_Standards/WikiData/WD~ISQ_base_quantity,30337748|WD~ISQ_base_quantity,30337748]]'
+- '[[_Standards/WikiData/WD~kind_of_quantity,110653654|WD~kind_of_quantity,110653654]]'
 ISQ_dimension: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AB</mi></mrow></mstyle></mrow></math>"
 Wikidata_property: length
-followed_by: '[[_Standards/WikiData/WD~area,11500]]'
-recommended_unit_of_measurement: '[[_Standards/WikiData/WD~metre,11573]]'
+followed_by: '[[_Standards/WikiData/WD~area,11500|WD~area,11500]]'
+recommended_unit_of_measurement: '[[_Standards/WikiData/WD~metre,11573|WD~metre,11573]]'
 quantity_symbol_string_: L
 OpenStreetMap_key: length
 Commons_gallery: Length

@@ -173,13 +173,13 @@ dv_has_:
 
 # [[Sucrose]]  
 
-#is_/instance_of :: [[../Disaccharide]]
-#has_/parts :: [[../Monosaccharide/Glucose]] 
-#has_/parts :: [[../Monosaccharide/Fructose]]  
+#is_/instance_of :: [[../Disaccharide|Disaccharide]]
+#has_/parts :: [[../Monosaccharide/Glucose|Glucose]] 
+#has_/parts :: [[../Monosaccharide/Fructose|Fructose]]  
 
 ## #has_/text_of_/abstract 
 
-> **sucrose**, a disaccharide, is a sugar composed of [[../Monosaccharide/Glucose]] and [[../Monosaccharide/Fructose]] subunits. 
+> **sucrose**, a disaccharide, is a sugar composed of [[../Monosaccharide/Glucose|Glucose]] and [[../Monosaccharide/Fructose|Fructose]] subunits. 
 > It is produced naturally in plants and is the main constituent of white sugar. 
 > It has the molecular formula C12H22O11.
 >

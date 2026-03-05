@@ -133,7 +133,7 @@ dv_has_:
 
 # [[Beri_Beri]]  
 
-#is_/similar_to :: [[Vitamin_C/Scurvy]] 
+#is_/similar_to :: [[Vitamin_C/Scurvy|Scurvy]] 
 
 ## #has_/text_of_/abstract 
 

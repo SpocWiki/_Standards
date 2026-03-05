@@ -53,12 +53,12 @@ aliases:
 - 生理学者
 - 생리학자
 has_id_wikidata: Q2055046
-subclass_of: '[[_Standards/WikiData/WD~biologist,864503]]'
+subclass_of: '[[_Standards/WikiData/WD~biologist,864503|WD~biologist,864503]]'
 instance_of:
-- '[[_Standards/WikiData/WD~position,4164871]]'
-- '[[_Standards/WikiData/WD~profession,28640]]'
-different_from: '[[_Standards/WikiData/WD~Q4483585,4483585]]'
-field_of_this_occupation: '[[_Standards/WikiData/WD~physiology,521]]'
+- '[[_Standards/WikiData/WD~position,4164871|WD~position,4164871]]'
+- '[[_Standards/WikiData/WD~profession,28640|WD~profession,28640]]'
+different_from: '[[_Standards/WikiData/WD~Q4483585,4483585|WD~Q4483585,4483585]]'
+field_of_this_occupation: '[[_Standards/WikiData/WD~physiology,521|WD~physiology,521]]'
 ISCO_88_occupation_class: 2212
 ISCO_08_occupation_class: 2131
 male_form_of_label:
@@ -173,11 +173,11 @@ dv_has_:
 
 # [[Physiologist]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~physiologist,2055046]] 
+#is_/same_as :: [[_Standards/WikiData/WD~physiologist,2055046|WD~physiologist,2055046]] 
 
 ## #has_/text_of_/abstract 
 
-> [[../Physiology]] (from Ancient Greek  φύσις (phúsis) 'nature, origin' 
+> [[../Physiology|Physiology]] (from Ancient Greek  φύσις (phúsis) 'nature, origin' 
 > and  -λογία (-logía) 'study of') 
 > is the scientific study of functions and mechanisms in a living system. 
 > 

@@ -19,12 +19,12 @@ aliases:
 - 傍人屬
 - 파란트로푸스
 has_id_wikidata: Q111463
-instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290]]'
-parent_taxon: '[[_Standards/WikiData/WD~Australopithecinae,33141205]]'
-taxon_synonym: '[[_Standards/WikiData/WD~Paraustralopithecus,56425559]]'
+instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290|WD~fossil_taxon,23038290]]'
+parent_taxon: '[[_Standards/WikiData/WD~Australopithecinae,33141205|WD~Australopithecinae,33141205]]'
+taxon_synonym: '[[_Standards/WikiData/WD~Paraustralopithecus,56425559|WD~Paraustralopithecus,56425559]]'
 start_time: -2600000-01-01T00:00:00Z
 end_time: -600000-01-01T00:00:00Z
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Paranthropus-boisei-Nairobi.JPG
 Commons_category: Paranthropus
 taxon_name: Paranthropus

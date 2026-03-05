@@ -143,99 +143,99 @@ aliases:
 - ꯒꯤꯅꯤ ꯕꯤꯁꯁꯥꯎ
 - 기니비사우
 has_id_wikidata: Q1007
-flag: '[[_Standards/WikiData/WD~flag_of_Guinea-Bissau,102953]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Guinea-Bissau,102953|WD~flag_of_Guinea-Bissau,102953]]'
 member_of:
-- '[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]'
-- '[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]'
-- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]'
-- '[[_Standards/WikiData/WD~Community_of_Portuguese_Language_Countries,182500]]'
-- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
-- '[[_Standards/WikiData/WD~Economic_Community_of_West_African_States,193272]]'
-- '[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]'
-- '[[_Standards/WikiData/WD~African_Development_Bank,340195]]'
-- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]'
-- '[[_Standards/WikiData/WD~Alliance_of_Small_Island_States,496967]]'
-- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
-- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
-- '[[_Standards/WikiData/WD~International_Development_Association,827525]]'
-- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
-- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
-- '[[_Standards/WikiData/WD~OHADA,2029901]]'
-- '[[_Standards/WikiData/WD~AFRISTAT,3348506]]'
-- '[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]'
-- '[[_Standards/WikiData/WD~United_Nations,1065]]'
-- '[[_Standards/WikiData/WD~African_Union,7159]]'
-- '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
-- '[[_Standards/WikiData/WD~World_Trade_Organization,7825]]'
-- '[[_Standards/WikiData/WD~Interpol,8475]]'
-- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
-- '[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]'
+- '[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102|WD~Organisation_internationale_de_la_Francophonie,134102]]'
+- '[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656|WD~International_Civil_Defence_Organisation,162656]]'
+- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
+- '[[_Standards/WikiData/WD~Community_of_Portuguese_Language_Countries,182500|WD~Community_of_Portuguese_Language_Countries,182500]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~Economic_Community_of_West_African_States,193272|WD~Economic_Community_of_West_African_States,193272]]'
+- '[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278|WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]'
+- '[[_Standards/WikiData/WD~African_Development_Bank,340195|WD~African_Development_Bank,340195]]'
+- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150|WD~International_Telecommunication_Union,376150]]'
+- '[[_Standards/WikiData/WD~Alliance_of_Small_Island_States,496967|WD~Alliance_of_Small_Island_States,496967]]'
+- '[[_Standards/WikiData/WD~World_Customs_Organization,605326|WD~World_Customs_Organization,605326]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801|WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~International_Development_Association,827525|WD~International_Development_Association,827525]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490|WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527|WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[_Standards/WikiData/WD~OHADA,2029901|WD~OHADA,2029901]]'
+- '[[_Standards/WikiData/WD~AFRISTAT,3348506|WD~AFRISTAT,3348506]]'
+- '[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262|WD~Group_on_Earth_Observations,5611262]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~African_Union,7159|WD~African_Union,7159]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809|WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817|WD~World_Health_Organization,7817]]'
+- '[[_Standards/WikiData/WD~World_Trade_Organization,7825|WD~World_Trade_Organization,7825]]'
+- '[[_Standards/WikiData/WD~Interpol,8475|WD~Interpol,8475]]'
+- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495|WD~Universal_Postal_Union_UPU,17495]]'
+- '[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543|WD~Organisation_of_Islamic_Cooperation,47543]]'
 contains_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Bolama_region,151909]]'
-- '[[_Standards/WikiData/WD~Cacheu_Region,780838]]'
-- '[[_Standards/WikiData/WD~Bafatá,799791]]'
-- '[[_Standards/WikiData/WD~Oio_Region,853991]]'
-- '[[_Standards/WikiData/WD~Quinara_Region,862617]]'
-- '[[_Standards/WikiData/WD~Gabú_Region,872212]]'
-- '[[_Standards/WikiData/WD~Biombo_Region,872228]]'
-- '[[_Standards/WikiData/WD~Tombali_Region,1047255]]'
-- '[[_Standards/WikiData/WD~Bissau_Autonomous_Sector,1318549]]'
-coat_of_arms: '[[_Standards/WikiData/WD~Emblem_of_Guinea-Bissau,321317]]'
-central_bank: '[[_Standards/WikiData/WD~Central_Bank_of_West_African_States,620942]]'
-legislative_body: "[[_Standards/WikiData/WD~National_People's_Assembly,740533]]"
-anthem: '[[_Standards/WikiData/WD~Esta_é_a_Nossa_Pátria_bem_Amada,752650]]'
-currency: '[[_Standards/WikiData/WD~West_African_CFA_franc,861690]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_Guinea-Bissau,940288]]'
+- '[[_Standards/WikiData/WD~Bolama_region,151909|WD~Bolama_region,151909]]'
+- '[[_Standards/WikiData/WD~Cacheu_Region,780838|WD~Cacheu_Region,780838]]'
+- '[[_Standards/WikiData/WD~Bafatá,799791|WD~Bafatá,799791]]'
+- '[[_Standards/WikiData/WD~Oio_Region,853991|WD~Oio_Region,853991]]'
+- '[[_Standards/WikiData/WD~Quinara_Region,862617|WD~Quinara_Region,862617]]'
+- '[[_Standards/WikiData/WD~Gabú_Region,872212|WD~Gabú_Region,872212]]'
+- '[[_Standards/WikiData/WD~Biombo_Region,872228|WD~Biombo_Region,872228]]'
+- '[[_Standards/WikiData/WD~Tombali_Region,1047255|WD~Tombali_Region,1047255]]'
+- '[[_Standards/WikiData/WD~Bissau_Autonomous_Sector,1318549|WD~Bissau_Autonomous_Sector,1318549]]'
+coat_of_arms: '[[_Standards/WikiData/WD~Emblem_of_Guinea-Bissau,321317|WD~Emblem_of_Guinea-Bissau,321317]]'
+central_bank: '[[_Standards/WikiData/WD~Central_Bank_of_West_African_States,620942|WD~Central_Bank_of_West_African_States,620942]]'
+legislative_body: "[[_Standards/WikiData/WD~National_People's_Assembly,740533|WD~National_People's_Assembly,740533]]"
+anthem: '[[_Standards/WikiData/WD~Esta_é_a_Nossa_Pátria_bem_Amada,752650|WD~Esta_é_a_Nossa_Pátria_bem_Amada,752650]]'
+currency: '[[_Standards/WikiData/WD~West_African_CFA_franc,861690|WD~West_African_CFA_franc,861690]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Guinea-Bissau,940288|WD~history_of_Guinea-Bissau,940288]]'
 part_of:
-- '[[_Standards/WikiData/WD~Portuguese-speaking_African_countries,1360686]]'
-- '[[_Standards/WikiData/WD~West_Africa,4412]]'
-electrical_plug_type: '[[_Standards/WikiData/WD~Europlug,1378312]]'
+- '[[_Standards/WikiData/WD~Portuguese-speaking_African_countries,1360686|WD~Portuguese-speaking_African_countries,1360686]]'
+- '[[_Standards/WikiData/WD~West_Africa,4412|WD~West_Africa,4412]]'
+electrical_plug_type: '[[_Standards/WikiData/WD~Europlug,1378312|WD~Europlug,1378312]]'
 language_used:
-- '[[_Standards/WikiData/WD~Pulaar,1420205]]'
-- '[[_Standards/WikiData/WD~Pular,3915357]]'
-- '[[_Standards/WikiData/WD~Jola-Felupe,6269820]]'
-- '[[_Standards/WikiData/WD~Portuguese,5146]]'
-- '[[_Standards/WikiData/WD~Guinea-Bissau_Creole,33339]]'
-- '[[_Standards/WikiData/WD~Mandinka,33678]]'
-- '[[_Standards/WikiData/WD~Bayot,35019]]'
-- '[[_Standards/WikiData/WD~Badyara,35095]]'
-- '[[_Standards/WikiData/WD~Biafada,35099]]'
-- '[[_Standards/WikiData/WD~Bijago,35365]]'
-- '[[_Standards/WikiData/WD~Bainouk-Gunyuño,35508]]'
-- '[[_Standards/WikiData/WD~Kasanga,35542]]'
-- '[[_Standards/WikiData/WD~Kobiana,35609]]'
-- '[[_Standards/WikiData/WD~Mankanya,35789]]'
-- '[[_Standards/WikiData/WD~Sua,35814]]'
-- '[[_Standards/WikiData/WD~Mandjak,35822]]'
-- '[[_Standards/WikiData/WD~Nalu,36026]]'
-- '[[_Standards/WikiData/WD~Papel,36314]]'
-- '[[_Standards/WikiData/WD~Balanta-Kentohe,56789]]'
-replaces: '[[_Standards/WikiData/WD~Portuguese_Guinea,2002279]]'
-geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Guinea-Bissau,2309654]]'
-economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Guinea-Bissau,2386787]]'
-demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Guinea-Bissau,2618776]]'
+- '[[_Standards/WikiData/WD~Pulaar,1420205|WD~Pulaar,1420205]]'
+- '[[_Standards/WikiData/WD~Pular,3915357|WD~Pular,3915357]]'
+- '[[_Standards/WikiData/WD~Jola-Felupe,6269820|WD~Jola-Felupe,6269820]]'
+- '[[_Standards/WikiData/WD~Portuguese,5146|WD~Portuguese,5146]]'
+- '[[_Standards/WikiData/WD~Guinea-Bissau_Creole,33339|WD~Guinea-Bissau_Creole,33339]]'
+- '[[_Standards/WikiData/WD~Mandinka,33678|WD~Mandinka,33678]]'
+- '[[_Standards/WikiData/WD~Bayot,35019|WD~Bayot,35019]]'
+- '[[_Standards/WikiData/WD~Badyara,35095|WD~Badyara,35095]]'
+- '[[_Standards/WikiData/WD~Biafada,35099|WD~Biafada,35099]]'
+- '[[_Standards/WikiData/WD~Bijago,35365|WD~Bijago,35365]]'
+- '[[_Standards/WikiData/WD~Bainouk-Gunyuño,35508|WD~Bainouk-Gunyuño,35508]]'
+- '[[_Standards/WikiData/WD~Kasanga,35542|WD~Kasanga,35542]]'
+- '[[_Standards/WikiData/WD~Kobiana,35609|WD~Kobiana,35609]]'
+- '[[_Standards/WikiData/WD~Mankanya,35789|WD~Mankanya,35789]]'
+- '[[_Standards/WikiData/WD~Sua,35814|WD~Sua,35814]]'
+- '[[_Standards/WikiData/WD~Mandjak,35822|WD~Mandjak,35822]]'
+- '[[_Standards/WikiData/WD~Nalu,36026|WD~Nalu,36026]]'
+- '[[_Standards/WikiData/WD~Papel,36314|WD~Papel,36314]]'
+- '[[_Standards/WikiData/WD~Balanta-Kentohe,56789|WD~Balanta-Kentohe,56789]]'
+replaces: '[[_Standards/WikiData/WD~Portuguese_Guinea,2002279|WD~Portuguese_Guinea,2002279]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Guinea-Bissau,2309654|WD~geography_of_Guinea-Bissau,2309654]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Guinea-Bissau,2386787|WD~economy_of_Guinea-Bissau,2386787]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Guinea-Bissau,2618776|WD~demographics_of_Guinea-Bissau,2618776]]'
 emergency_phone_number:
-- '[[_Standards/WikiData/WD~119,2807090]]'
-- '[[_Standards/WikiData/WD~180,25648853]]'
-- '[[_Standards/WikiData/WD~121,25648877]]'
-culture: '[[_Standards/WikiData/WD~culture_of_Guinea-Bissau,3007266]]'
+- '[[_Standards/WikiData/WD~119,2807090|WD~119,2807090]]'
+- '[[_Standards/WikiData/WD~180,25648853|WD~180,25648853]]'
+- '[[_Standards/WikiData/WD~121,25648877|WD~121,25648877]]'
+culture: '[[_Standards/WikiData/WD~culture_of_Guinea-Bissau,3007266|WD~culture_of_Guinea-Bissau,3007266]]'
 instance_of:
-- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
-- '[[_Standards/WikiData/WD~country,6256]]'
+- '[[_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~country,6256|WD~country,6256]]'
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~Africa_Bissau,4689478]]'
-- '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Guinea-Bissau,7112282]]'
-category_for_people_born_here: '[[_Standards/WikiData/WD~Q9472723,9472723]]'
-driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Guinea-Bissau,14614573]]'
-head_of_state: '[[_Standards/WikiData/WD~Umaro_Sissoco_Embaló,16855164]]'
-office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Guinea-Bissau,28015461]]'
-office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Guinea-Bissau,30101458]]'
-has_characteristic: '[[_Standards/WikiData/WD~partly_free_country,47185145]]'
-head_of_government: '[[_Standards/WikiData/WD~Nuno_Nabiam,86715481]]'
-highest_point: '[[_Standards/WikiData/WD~Monte_Torin,109837809]]'
+- '[[_Standards/WikiData/WD~Africa_Bissau,4689478|WD~Africa_Bissau,4689478]]'
+- '[[_Standards/WikiData/WD~UTC_00_00,6574|WD~UTC_00_00,6574]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Guinea-Bissau,7112282|WD~outline_of_Guinea-Bissau,7112282]]'
+category_for_people_born_here: '[[_Standards/WikiData/WD~Q9472723,9472723|WD~Q9472723,9472723]]'
+driving_side: '[[_Standards/WikiData/WD~right,14565199|WD~right,14565199]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Guinea-Bissau,14614573|WD~Portal_Guinea-Bissau,14614573]]'
+head_of_state: '[[_Standards/WikiData/WD~Umaro_Sissoco_Embaló,16855164|WD~Umaro_Sissoco_Embaló,16855164]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Guinea-Bissau,28015461|WD~President_of_Guinea-Bissau,28015461]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Guinea-Bissau,30101458|WD~Prime_Minister_of_Guinea-Bissau,30101458]]'
+has_characteristic: '[[_Standards/WikiData/WD~partly_free_country,47185145|WD~partly_free_country,47185145]]'
+head_of_government: '[[_Standards/WikiData/WD~Nuno_Nabiam,86715481|WD~Nuno_Nabiam,86715481]]'
+highest_point: '[[_Standards/WikiData/WD~Monte_Torin,109837809|WD~Monte_Torin,109837809]]'
 UMLS_CUI: C0018387
 coordinates_of_southernmost_point: Point(-15.06372 10.92168)
 coordinates_of_westernmost_point: Point(-16.71305556 12.33555556)
@@ -282,23 +282,23 @@ nominal_GDP:
 coordinate_location: Point(-15.0 12.0)
 coordinates_of_easternmost_point: Point(-13.62661 12.45917)
 diplomatic_relation:
-- '[[_Standards/WikiData/WD~North_Korea,423]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Russia,159]]'
-- '[[_Standards/WikiData/WD~Germany,183]]'
-- '[[_Standards/WikiData/WD~Georgia,230]]'
-different_from: '[[_Standards/WikiData/WD~Guinea,1006]]'
+- '[[_Standards/WikiData/WD~North_Korea,423|WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Georgia,230|WD~Georgia,230]]'
+different_from: '[[_Standards/WikiData/WD~Guinea,1006|WD~Guinea,1006]]'
 shares_border_with:
-- '[[_Standards/WikiData/WD~Guinea,1006]]'
-- '[[_Standards/WikiData/WD~Senegal,1041]]'
-country: '[[_Standards/WikiData/WD~Guinea-Bissau,1007]]'
-capital: '[[_Standards/WikiData/WD~Bissau,3739]]'
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~West_Africa,4412]]'
-official_language: '[[_Standards/WikiData/WD~Portuguese,5146]]'
-continent: '[[_Standards/WikiData/WD~Africa,15]]'
-lowest_point: '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
-located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
+- '[[_Standards/WikiData/WD~Guinea,1006|WD~Guinea,1006]]'
+- '[[_Standards/WikiData/WD~Senegal,1041|WD~Senegal,1041]]'
+country: '[[_Standards/WikiData/WD~Guinea-Bissau,1007|WD~Guinea-Bissau,1007]]'
+capital: '[[_Standards/WikiData/WD~Bissau,3739|WD~Bissau,3739]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~West_Africa,4412|WD~West_Africa,4412]]'
+official_language: '[[_Standards/WikiData/WD~Portuguese,5146|WD~Portuguese,5146]]'
+continent: '[[_Standards/WikiData/WD~Africa,15|WD~Africa,15]]'
+lowest_point: '[[_Standards/WikiData/WD~Atlantic_Ocean,97|WD~Atlantic_Ocean,97]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Atlantic_Ocean,97|WD~Atlantic_Ocean,97]]'
 unemployment_rate: 7
 VAT_rate: 15
 marriageable_age: 18
@@ -307,7 +307,7 @@ BTI_Governance_Index:
 - 4.3
 - 4.6
 Democracy_Index: 2.63
-top_level_Internet_domain: '[[_Standards/WikiData/WD~.gw,41450]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.gw,41450|WD~.gw,41450]]'
 Inequality_adjusted_Human_Development_Index: 0.306
 Gini_coefficient: 34.8
 Human_Development_Index: 0.483
@@ -722,7 +722,7 @@ dv_UNTERM_Chinese_Formal: 几内亚比绍共和国
 dv_UNTERM_French_Formal: la République de Guinée-Bissau
 dv_UNTERM_Russian: Гвинея-Бисау
 dv_UNTERM_Russian_Formal: Республика Гвинея-Бисау
-dv_Region_Name: '[[../../Africa]]'
+dv_Region_Name: '[[../../Africa|Africa]]'
 dv_Intermediate_Region_Name: '[[Western Africa]]'
 dv_Sub-region_Name: '[[Sub-Saharan Africa]]'
 dv_Region: 2
@@ -761,7 +761,7 @@ dv_is_:
 dv_has_name_de: Guinea-Bissau
 dv_Area-Total: 36125
 dv_Area-Land: 28120
-dv_has_place_continent: '[[../../Africa]]'
+dv_has_place_continent: '[[../../Africa|Africa]]'
 dv_VehicleCode: GUB
 dv_Alcohol-l: 3.7
 dv_Language-Id: 467
@@ -788,7 +788,7 @@ Unicode_character: 🇬🇼
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Guinea-Bissau/ReadMe]] 
+[[Guinea-Bissau/ReadMe|ReadMe]] 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
@@ -875,11 +875,11 @@ Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
-Capital :: [[Guinea-Bissau/Regions~Guinea-Bissau/Bissau]]  
+Capital :: [[Guinea-Bissau/Regions~Guinea-Bissau/Bissau|Bissau]]  
 
 ![[Emblem_of_Guinea-bissau.svg|350]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Guinea-bissau.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Guinea-bissau.mp3|Anthem-Guinea-bissau.mp3]]
 
 ![[Flag_of_Guinea-bissau.svg|350]]
 

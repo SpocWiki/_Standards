@@ -78,30 +78,30 @@ tags:
 - schema-org/Class
 title: is_a_toxicologic Class
 type: Type
-is_the_study_of: '[[_Standards/WikiData/WD~toxin,184651]]'
+is_the_study_of: '[[_Standards/WikiData/WD~toxin,184651|WD~toxin,184651]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Great_medical_encyclopedia,4091850]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Belarusian_encyclopedia_(vol._15),24038862]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Great_medical_encyclopedia,4091850|WD~Great_medical_encyclopedia,4091850]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135|WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Belarusian_encyclopedia_(vol._15),24038862|WD~Belarusian_encyclopedia_(vol._15),24038862]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630|WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
 instance_of:
-- '[[_Standards/WikiData/WD~medical_specialty,930752]]'
-- '[[_Standards/WikiData/WD~interdisciplinary_science,1665984]]'
-- '[[_Standards/WikiData/WD~branch_of_science,2465832]]'
-different_from: '[[_Standards/WikiData/WD~toxinology,1130602]]'
-practiced_by: '[[_Standards/WikiData/WD~toxicologist,4459623]]'
+- '[[_Standards/WikiData/WD~medical_specialty,930752|WD~medical_specialty,930752]]'
+- '[[_Standards/WikiData/WD~interdisciplinary_science,1665984|WD~interdisciplinary_science,1665984]]'
+- '[[_Standards/WikiData/WD~branch_of_science,2465832|WD~branch_of_science,2465832]]'
+different_from: '[[_Standards/WikiData/WD~toxinology,1130602|WD~toxinology,1130602]]'
+practiced_by: '[[_Standards/WikiData/WD~toxicologist,4459623|WD~toxicologist,4459623]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~pharmaceutical_sciences,7180763]]'
-- '[[_Standards/WikiData/WD~biology,420]]'
-- '[[_Standards/WikiData/WD~chemistry,2329]]'
+- '[[_Standards/WikiData/WD~pharmaceutical_sciences,7180763|WD~pharmaceutical_sciences,7180763]]'
+- '[[_Standards/WikiData/WD~biology,420|WD~biology,420]]'
+- '[[_Standards/WikiData/WD~chemistry,2329|WD~chemistry,2329]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Toxicology_navs,11053212]]'
-- '[[_Standards/WikiData/WD~Template_Toxicology,14444930]]'
-has_part_s_: '[[_Standards/WikiData/WD~cardiotoxicology,115582861]]'
+- '[[_Standards/WikiData/WD~Template_Toxicology_navs,11053212|WD~Template_Toxicology_navs,11053212]]'
+- '[[_Standards/WikiData/WD~Template_Toxicology,14444930|WD~Template_Toxicology,14444930]]'
+has_part_s_: '[[_Standards/WikiData/WD~cardiotoxicology,115582861|WD~cardiotoxicology,115582861]]'
 OmegaWiki_Defined_Meaning: 3799
 All_Science_Journal_Classification_Codes: 3005
 GitHub_topic: toxicology
@@ -217,9 +217,9 @@ Tag Instances like this:
 A specific branch of medical science that is concerned with poisons, 
 their nature, effects and detection and involved in the treatment of poisoning. 
 
-#has_/parent_class :: [[../MedicalSpecialty]]  
+#has_/parent_class :: [[../MedicalSpecialty|MedicalSpecialty]]  
 
-#is_/enum_of :: [[../MedicalSpecialty]]  
+#is_/enum_of :: [[../MedicalSpecialty|MedicalSpecialty]]  
 
 ## #has_/text_of_/abstract 
 

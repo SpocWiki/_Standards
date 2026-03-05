@@ -82,13 +82,13 @@ aliases:
 - 뇌종양
 has_id_wikidata: Q233309
 health_specialty:
-- '[[_Standards/WikiData/WD~neurology,83042]]'
-- '[[_Standards/WikiData/WD~oncology,162555]]'
-- '[[_Standards/WikiData/WD~neurosurgery,188449]]'
+- '[[_Standards/WikiData/WD~neurology,83042|WD~neurology,83042]]'
+- '[[_Standards/WikiData/WD~oncology,162555|WD~oncology,162555]]'
+- '[[_Standards/WikiData/WD~neurosurgery,188449|WD~neurosurgery,188449]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~central_nervous_system_neoplasm,4335557]]'
-- '[[_Standards/WikiData/WD~intracranial_tumor,11702952]]'
-anatomical_locations: '[[_Standards/WikiData/WD~brain,1073]]'
+- '[[_Standards/WikiData/WD~central_nervous_system_neoplasm,4335557|WD~central_nervous_system_neoplasm,4335557]]'
+- '[[_Standards/WikiData/WD~intracranial_tumor,11702952|WD~intracranial_tumor,11702952]]'
+anatomical_locations: '[[_Standards/WikiData/WD~brain,1073|WD~brain,1073]]'
 DiseasesDB: 30781
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hirnmetastase%20MRT-T1%20KM.jpg
 described_at_URL:

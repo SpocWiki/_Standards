@@ -47,18 +47,18 @@ aliases:
 - 당단백질
 has_id_wikidata: Q187126
 subclass_of:
-- '[[_Standards/WikiData/WD~glycoconjugate,416019]]'
-- '[[_Standards/WikiData/WD~conjugated_protein,2621150]]'
+- '[[_Standards/WikiData/WD~glycoconjugate,416019|WD~glycoconjugate,416019]]'
+- '[[_Standards/WikiData/WD~conjugated_protein,2621150|WD~conjugated_protein,2621150]]'
 part_of:
-- '[[_Standards/WikiData/WD~glycoprotein_metabolic_process,14873944]]'
-- '[[_Standards/WikiData/WD~glycoprotein_transport,14897863]]'
-- '[[_Standards/WikiData/WD~glycoprotein_catabolic_process,21101373]]'
-- '[[_Standards/WikiData/WD~glycoprotein_biosynthetic_process,21109539]]'
-- '[[_Standards/WikiData/WD~response_to_glycoprotein,22272349]]'
-- '[[_Standards/WikiData/WD~cellular_response_to_glycoprotein,22273531]]'
-- '[[_Standards/WikiData/WD~catalytic_activity,_acting_on_a_glycoprotein,41513502]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
+- '[[_Standards/WikiData/WD~glycoprotein_metabolic_process,14873944|WD~glycoprotein_metabolic_process,14873944]]'
+- '[[_Standards/WikiData/WD~glycoprotein_transport,14897863|WD~glycoprotein_transport,14897863]]'
+- '[[_Standards/WikiData/WD~glycoprotein_catabolic_process,21101373|WD~glycoprotein_catabolic_process,21101373]]'
+- '[[_Standards/WikiData/WD~glycoprotein_biosynthetic_process,21109539|WD~glycoprotein_biosynthetic_process,21109539]]'
+- '[[_Standards/WikiData/WD~response_to_glycoprotein,22272349|WD~response_to_glycoprotein,22272349]]'
+- '[[_Standards/WikiData/WD~cellular_response_to_glycoprotein,22273531|WD~cellular_response_to_glycoprotein,22273531]]'
+- '[[_Standards/WikiData/WD~catalytic_activity,_acting_on_a_glycoprotein,41513502|WD~catalytic_activity,_acting_on_a_glycoprotein,41513502]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
 CosIng_number: 34148
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Glicoprotein.svg
 MeSH_tree_code:

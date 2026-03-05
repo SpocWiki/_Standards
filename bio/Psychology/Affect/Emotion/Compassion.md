@@ -64,24 +64,24 @@ aliases:
 - 동정
 has_id_wikidata: Q1412160
 different_from:
-- '[[_Standards/WikiData/WD~empathy,182263]]'
-- '[[_Standards/WikiData/WD~sympathy,752118]]'
-- '[[_Standards/WikiData/WD~Q33056250,33056250]]'
+- '[[_Standards/WikiData/WD~empathy,182263|WD~empathy,182263]]'
+- '[[_Standards/WikiData/WD~sympathy,752118|WD~sympathy,752118]]'
+- '[[_Standards/WikiData/WD~Q33056250,33056250|WD~Q33056250,33056250]]'
 facet_of:
-- '[[_Standards/WikiData/WD~empathy,182263]]'
-- '[[_Standards/WikiData/WD~psychology,9418]]'
+- '[[_Standards/WikiData/WD~empathy,182263|WD~empathy,182263]]'
+- '[[_Standards/WikiData/WD~psychology,9418|WD~psychology,9418]]'
 studied_by:
-- '[[_Standards/WikiData/WD~medical_humanities,769420]]'
-- '[[_Standards/WikiData/WD~narrative_medicine,6966214]]'
-opposite_of: '[[_Standards/WikiData/WD~coolness,10285998]]'
-has_part_s_: '[[_Standards/WikiData/WD~rahma,20726202]]'
-subclass_of: '[[_Standards/WikiData/WD~positive_emotion,60539479]]'
-part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
+- '[[_Standards/WikiData/WD~medical_humanities,769420|WD~medical_humanities,769420]]'
+- '[[_Standards/WikiData/WD~narrative_medicine,6966214|WD~narrative_medicine,6966214]]'
+opposite_of: '[[_Standards/WikiData/WD~coolness,10285998|WD~coolness,10285998]]'
+has_part_s_: '[[_Standards/WikiData/WD~rahma,20726202|WD~rahma,20726202]]'
+subclass_of: '[[_Standards/WikiData/WD~positive_emotion,60539479|WD~positive_emotion,60539479]]'
+part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620|WD~psychology_terminology,77468620]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
-- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medical_Humanities,135210027]]'
-instance_of: '[[_Standards/WikiData/WD~emotions,9415]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624|WD~Lean_Logic,101314624]]'
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072|WD~Red_Blue_Translator,131935072]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medical_Humanities,135210027|WD~WikiProject_Medical_Humanities,135210027]]'
+instance_of: '[[_Standards/WikiData/WD~emotions,9415|WD~emotions,9415]]'
 OmegaWiki_Defined_Meaning: 503503
 IMDb_keyword: compassion
 image: http://commons.wikimedia.org/wiki/Special:FilePath/There%27s%20no%20crying%20in%20baseball%21%20%284549295140%29%202.jpg

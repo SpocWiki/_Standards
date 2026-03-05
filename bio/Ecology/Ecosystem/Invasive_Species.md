@@ -69,31 +69,31 @@ aliases:
 - 침입종
 has_id_wikidata: Q183368
 handled_mitigated_or_managed_by:
-- '[[_Standards/WikiData/WD~pesticide,131656]]'
-- '[[_Standards/WikiData/WD~gene_drive,22964789]]'
+- '[[_Standards/WikiData/WD~pesticide,131656|WD~pesticide,131656]]'
+- '[[_Standards/WikiData/WD~gene_drive,22964789|WD~gene_drive,22964789]]'
 has_effect:
-- '[[_Standards/WikiData/WD~biological_invasion,446911]]'
-- '[[_Standards/WikiData/WD~biodiversity_loss,18466271]]'
-subclass_of: '[[_Standards/WikiData/WD~introduced_species,1065449]]'
-significant_person: '[[_Standards/WikiData/WD~Charles_Sutherland_Elton,1066200]]'
-contributing_factor_of: '[[_Standards/WikiData/WD~environmental_degradation,1334780]]'
+- '[[_Standards/WikiData/WD~biological_invasion,446911|WD~biological_invasion,446911]]'
+- '[[_Standards/WikiData/WD~biodiversity_loss,18466271|WD~biodiversity_loss,18466271]]'
+subclass_of: '[[_Standards/WikiData/WD~introduced_species,1065449|WD~introduced_species,1065449]]'
+significant_person: '[[_Standards/WikiData/WD~Charles_Sutherland_Elton,1066200|WD~Charles_Sutherland_Elton,1066200]]'
+contributing_factor_of: '[[_Standards/WikiData/WD~environmental_degradation,1334780|WD~environmental_degradation,1334780]]'
 has_list:
-- '[[_Standards/WikiData/WD~lists_of_invasive_species,2500061]]'
-- '[[_Standards/WikiData/WD~list_of_edible_invasive_species,60793065]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
-model_item: '[[_Standards/WikiData/WD~Pueraria_thomsonii,15525444]]'
-has_part_s_: '[[_Standards/WikiData/WD~Invasive_species_in_New_Zealand,16821185]]'
+- '[[_Standards/WikiData/WD~lists_of_invasive_species,2500061|WD~lists_of_invasive_species,2500061]]'
+- '[[_Standards/WikiData/WD~list_of_edible_invasive_species,60793065|WD~list_of_edible_invasive_species,60793065]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047|WD~WikiProject_Climate_change,15305047]]'
+model_item: '[[_Standards/WikiData/WD~Pueraria_thomsonii,15525444|WD~Pueraria_thomsonii,15525444]]'
+has_part_s_: '[[_Standards/WikiData/WD~Invasive_species_in_New_Zealand,16821185|WD~Invasive_species_in_New_Zealand,16821185]]'
 studied_by:
-- '[[_Standards/WikiData/WD~invasion_biology,42985020]]'
-- '[[_Standards/WikiData/WD~invasion_ecology,105094378]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
-relates_to_sustainable_development_goal_target_or_indicator: '[[_Standards/WikiData/WD~Target_15.8_of_the_Sustainable_Development_Goals,57590913]]'
+- '[[_Standards/WikiData/WD~invasion_biology,42985020|WD~invasion_biology,42985020]]'
+- '[[_Standards/WikiData/WD~invasion_ecology,105094378|WD~invasion_ecology,105094378]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615|WD~WikiProject_Invasion_Biology,56241615]]'
+relates_to_sustainable_development_goal_target_or_indicator: '[[_Standards/WikiData/WD~Target_15.8_of_the_Sustainable_Development_Goals,57590913|WD~Target_15.8_of_the_Sustainable_Development_Goals,57590913]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~invasiveness,111535696]]'
-- '[[_Standards/WikiData/WD~invasive_trait,112869162]]'
-habitat: '[[_Standards/WikiData/WD~invasive_range,115697939]]'
+- '[[_Standards/WikiData/WD~invasiveness,111535696|WD~invasiveness,111535696]]'
+- '[[_Standards/WikiData/WD~invasive_trait,112869162|WD~invasive_trait,112869162]]'
+habitat: '[[_Standards/WikiData/WD~invasive_range,115697939|WD~invasive_range,115697939]]'
 Wikidata_property: invasive to
-has_contributing_factor: '[[_Standards/WikiData/WD~human,5]]'
+has_contributing_factor: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Kudzu%20on%20trees%20in%20Atlanta%2C%20Georgia.jpg
 EntitySchema_for_this_class: E392
 Commons_gallery: Invasive species

@@ -44,9 +44,9 @@ aliases:
 - 腦部受損
 - 뇌손상
 has_id_wikidata: Q720026
-subclass_of: '[[_Standards/WikiData/WD~lesion,827023]]'
-instance_of: '[[_Standards/WikiData/WD~cause_of_death,1931388]]'
-anatomical_locations: '[[_Standards/WikiData/WD~brain,1073]]'
+subclass_of: '[[_Standards/WikiData/WD~lesion,827023|WD~lesion,827023]]'
+instance_of: '[[_Standards/WikiData/WD~cause_of_death,1931388|WD~cause_of_death,1931388]]'
+anatomical_locations: '[[_Standards/WikiData/WD~brain,1073|WD~brain,1073]]'
 IMDb_keyword: brain-damage
 Commons_category: Brain damage
 dv_has_:

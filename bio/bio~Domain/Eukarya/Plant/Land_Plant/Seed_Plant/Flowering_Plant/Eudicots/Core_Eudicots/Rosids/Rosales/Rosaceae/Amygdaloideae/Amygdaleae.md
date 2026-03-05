@@ -4,10 +4,10 @@ aliases:
 - Prunus
 - لوزيات
 has_id_wikidata: Q5673432
-taxon_rank: '[[_Standards/WikiData/WD~tribe,227936]]'
-parent_taxon: '[[../../../../../../../../../../../../../WikiData/WD~Amygdaloideae,854082]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Taxonomy_Amygdaleae,8538555]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~tribe,227936|WD~tribe,227936]]'
+parent_taxon: '[[../../../../../../../../../../../../../WikiData/WD~Amygdaloideae,854082|WD~Amygdaloideae,854082]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Taxonomy_Amygdaleae,8538555|WD~Template_Taxonomy_Amygdaleae,8538555]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Prunus%20Maackii%20A.jpg
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomyfamily.aspx?type=tribe&id=2374
 Commons_category: Amygdaleae

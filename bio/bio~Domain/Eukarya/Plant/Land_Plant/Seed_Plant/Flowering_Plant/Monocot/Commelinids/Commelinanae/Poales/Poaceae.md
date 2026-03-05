@@ -92,28 +92,28 @@ taxon_common_name:
 - วงศ์หญ้า
 - Süßgräser
 - 禾本科
-taxonomic_type: '[[_Standards/WikiData/WD~Poa,157656]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Poa,157656|WD~Poa,157656]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~herbaceous_plant,190903]]'
-- '[[_Standards/WikiData/WD~grass,643352]]'
+- '[[_Standards/WikiData/WD~herbaceous_plant,190903|WD~herbaceous_plant,190903]]'
+- '[[_Standards/WikiData/WD~grass,643352|WD~grass,643352]]'
 this_taxon_is_source_of:
-- '[[_Standards/WikiData/WD~hay,336989]]'
-- '[[_Standards/WikiData/WD~grain,2995529]]'
-- '[[_Standards/WikiData/WD~grass,66429760]]'
-- '[[_Standards/WikiData/WD~cereal_grain,12117]]'
-has_fruit_type: '[[_Standards/WikiData/WD~caryopsis,506139]]'
+- '[[_Standards/WikiData/WD~hay,336989|WD~hay,336989]]'
+- '[[_Standards/WikiData/WD~grain,2995529|WD~grain,2995529]]'
+- '[[_Standards/WikiData/WD~grass,66429760|WD~grass,66429760]]'
+- '[[_Standards/WikiData/WD~cereal_grain,12117|WD~cereal_grain,12117]]'
+has_fruit_type: '[[_Standards/WikiData/WD~caryopsis,506139|WD~caryopsis,506139]]'
 described_by_source:
-- '[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~grass,643352]]'
-taxon_synonym: '[[_Standards/WikiData/WD~Gramineae,14847770]]'
+- '[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917|WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~grass,643352|WD~grass,643352]]'
+taxon_synonym: '[[_Standards/WikiData/WD~Gramineae,14847770|WD~Gramineae,14847770]]'
 start_time: -66000000-01-01T00:00:00Z
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-parent_taxon: '[[_Standards/WikiData/WD~Poales,28502]]'
-taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+parent_taxon: '[[_Standards/WikiData/WD~Poales,28502|WD~Poales,28502]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409|WD~family,35409]]'
 OmegaWiki_Defined_Meaning: 4324
 ITIS_TSN: 40351
 image:

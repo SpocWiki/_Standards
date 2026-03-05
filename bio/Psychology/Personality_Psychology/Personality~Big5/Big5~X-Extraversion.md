@@ -158,7 +158,7 @@ dv_has_:
 
 # [[Big5~X-Extraversion]] 
 
-#is_/part_of :: [[../Personality~Big5]] 
+#is_/part_of :: [[../Personality~Big5|Personality~Big5]] 
 
 extraversion (E) measures boldness, energy, and social interactivity.  
 

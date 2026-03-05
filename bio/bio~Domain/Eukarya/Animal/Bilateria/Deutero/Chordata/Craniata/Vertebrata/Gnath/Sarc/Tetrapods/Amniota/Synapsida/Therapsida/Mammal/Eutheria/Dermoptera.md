@@ -61,12 +61,12 @@ aliases:
 title: Dermoptera
 has_id_wikidata: Q183383
 described_by_source:
-- '[[../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-different_from: '[[_Standards/WikiData/WD~Latawce,11753158]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
+- '[[../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+different_from: '[[_Standards/WikiData/WD~Latawce,11753158|WD~Latawce,11753158]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~order,36602|WD~order,36602]]'
 ITIS_TSN: 179984
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Colugo%20%28Galeopterus%20variegatus%2C%20adult%20female%29%2C%20Central%20Catchment%20Area%2C%20Singapore%20-%2020060618.jpg
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/DistributionDermopteraCorrecting.png

@@ -53,11 +53,11 @@ aliases:
 - 纯种马
 - 서러브레드
 has_id_wikidata: Q210826
-instance_of: '[[_Standards/WikiData/WD~horse_breed,1160573]]'
-subclass_of: '[[_Standards/WikiData/WD~racehorse,2442470]]'
-described_by_source: '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-FAO_risk_status: '[[_Standards/WikiData/WD~not_at_risk,21604923]]'
-country_of_origin: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+instance_of: '[[_Standards/WikiData/WD~horse_breed,1160573|WD~horse_breed,1160573]]'
+subclass_of: '[[_Standards/WikiData/WD~racehorse,2442470|WD~racehorse,2442470]]'
+described_by_source: '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+FAO_risk_status: '[[_Standards/WikiData/WD~not_at_risk,21604923|WD~not_at_risk,21604923]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Horseracing%20Churchill%20Downs.jpg
 native_label: Thoroughbred
 Commons_gallery: Thoroughbred

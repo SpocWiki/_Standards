@@ -68,29 +68,29 @@ isReadOnly: false
 tags:
 - astro/Zodiac
 type: Zodiac
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Nicolas_Louis_de_Lacaille,202703]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Nicolas_Louis_de_Lacaille,202703|WD~Nicolas_Louis_de_Lacaille,202703]]'
 named_after:
-- '[[_Standards/WikiData/WD~Argo,317932]]'
-- '[[_Standards/WikiData/WD~keel,1646730]]'
+- '[[_Standards/WikiData/WD~Argo,317932|WD~Argo,317932]]'
+- '[[_Standards/WikiData/WD~keel,1646730|WD~keel,1646730]]'
 part_of:
-- '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]'
-- '[[_Standards/WikiData/WD~Argo_Navis,9258]]'
+- '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815|WD~Southern_Celestial_Hemisphere,2380815]]'
+- '[[_Standards/WikiData/WD~Argo_Navis,9258|WD~Argo_Navis,9258]]'
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Q10729063,10729063]]'
-- '[[_Standards/WikiData/WD~Template_Stars_of_Carina,11157711]]'
+- '[[_Standards/WikiData/WD~Q10729063,10729063|WD~Q10729063,10729063]]'
+- '[[_Standards/WikiData/WD~Template_Stars_of_Carina,11157711|WD~Template_Stars_of_Carina,11157711]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635|WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 time_of_discovery_or_invention: 1763-01-01T00:00:00Z
 shares_border_with:
-- '[[_Standards/WikiData/WD~Centaurus,8844]]'
-- '[[_Standards/WikiData/WD~Puppis,9251]]'
-- '[[_Standards/WikiData/WD~Musca,10435]]'
-- '[[_Standards/WikiData/WD~Volans,10437]]'
-- '[[_Standards/WikiData/WD~Chamaeleon,10457]]'
-- '[[_Standards/WikiData/WD~Pictor,10486]]'
-- '[[_Standards/WikiData/WD~Vela,10521]]'
-instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
+- '[[_Standards/WikiData/WD~Centaurus,8844|WD~Centaurus,8844]]'
+- '[[_Standards/WikiData/WD~Puppis,9251|WD~Puppis,9251]]'
+- '[[_Standards/WikiData/WD~Musca,10435|WD~Musca,10435]]'
+- '[[_Standards/WikiData/WD~Volans,10437|WD~Volans,10437]]'
+- '[[_Standards/WikiData/WD~Chamaeleon,10457|WD~Chamaeleon,10457]]'
+- '[[_Standards/WikiData/WD~Pictor,10486|WD~Pictor,10486]]'
+- '[[_Standards/WikiData/WD~Vela,10521|WD~Vela,10521]]'
+instance_of: '[[_Standards/WikiData/WD~constellation,8928|WD~constellation,8928]]'
 area: 494
 Commons_gallery: Carina
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Carina%20constellation%20map.svg
@@ -238,7 +238,7 @@ has_name_de = `=this.dv_has_name_de`
 > [Wikipedia](https://en.wikipedia.org/wiki/Carina%20(constellation)) 
 
 
-## [[Zodiac~Carina/Eta_Carinae]]
+## [[Zodiac~Carina/Eta_Carinae|Eta_Carinae]]
 
 
 ## Confidential Links & Embeds: 

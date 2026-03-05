@@ -73,26 +73,26 @@ aliases:
 - 엽록소
 has_id_wikidata: Q43177
 has_part_s_:
-- '[[_Standards/WikiData/WD~chlorophyll_d,82182]]'
-- '[[_Standards/WikiData/WD~hydrogen,556]]'
-- '[[_Standards/WikiData/WD~carbon,623]]'
-- '[[_Standards/WikiData/WD~nitrogen,627]]'
-- '[[_Standards/WikiData/WD~oxygen,629]]'
-- '[[_Standards/WikiData/WD~magnesium,660]]'
+- '[[_Standards/WikiData/WD~chlorophyll_d,82182|WD~chlorophyll_d,82182]]'
+- '[[_Standards/WikiData/WD~hydrogen,556|WD~hydrogen,556]]'
+- '[[_Standards/WikiData/WD~carbon,623|WD~carbon,623]]'
+- '[[_Standards/WikiData/WD~nitrogen,627|WD~nitrogen,627]]'
+- '[[_Standards/WikiData/WD~oxygen,629|WD~oxygen,629]]'
+- '[[_Standards/WikiData/WD~magnesium,660|WD~magnesium,660]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
 part_of:
-- '[[_Standards/WikiData/WD~chlorophyll_biosynthetic_process,21761097]]'
-- '[[_Standards/WikiData/WD~chlorophyll_metabolic_process,22276106]]'
-- '[[_Standards/WikiData/WD~chlorophyll_catabolic_process,22276107]]'
-- '[[_Standards/WikiData/WD~chlorophyll_binding,22313572]]'
-instance_of: '[[_Standards/WikiData/WD~group_of_chemical_entities,55640599]]'
-subclass_of: '[[_Standards/WikiData/WD~magnesium_porphyrin,74798533]]'
+- '[[_Standards/WikiData/WD~chlorophyll_biosynthetic_process,21761097|WD~chlorophyll_biosynthetic_process,21761097]]'
+- '[[_Standards/WikiData/WD~chlorophyll_metabolic_process,22276106|WD~chlorophyll_metabolic_process,22276106]]'
+- '[[_Standards/WikiData/WD~chlorophyll_catabolic_process,22276107|WD~chlorophyll_catabolic_process,22276107]]'
+- '[[_Standards/WikiData/WD~chlorophyll_binding,22313572|WD~chlorophyll_binding,22313572]]'
+instance_of: '[[_Standards/WikiData/WD~group_of_chemical_entities,55640599|WD~group_of_chemical_entities,55640599]]'
+subclass_of: '[[_Standards/WikiData/WD~magnesium_porphyrin,74798533|WD~magnesium_porphyrin,74798533]]'
 mass: 892.53531
-physically_interacts_with: '[[_Standards/WikiData/WD~photon,3198]]'
+physically_interacts_with: '[[_Standards/WikiData/WD~photon,3198|WD~photon,3198]]'
 RxNorm_CUI: 2388
 OmegaWiki_Defined_Meaning: 581
 Commons_category: Chlorophyll

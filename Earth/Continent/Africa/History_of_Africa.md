@@ -84,19 +84,19 @@ aliases:
 - 아프리카의 역사
 has_id_wikidata: Q149813
 instance_of:
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~history_of_a_geographic_region,63313685]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q42351360,42351360]]'
-different_from: '[[_Standards/WikiData/WD~Q114771549,114771549]]'
-facet_of: '[[_Standards/WikiData/WD~Africa,15]]'
-continent: '[[_Standards/WikiData/WD~Africa,15]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~history_of_a_geographic_region,63313685|WD~history_of_a_geographic_region,63313685]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q42351360,42351360|WD~Q42351360,42351360]]'
+different_from: '[[_Standards/WikiData/WD~Q114771549,114771549|WD~Q114771549,114771549]]'
+facet_of: '[[_Standards/WikiData/WD~Africa,15|WD~Africa,15]]'
+continent: '[[_Standards/WikiData/WD~Africa,15|WD~Africa,15]]'
 Dewey_Decimal_Classification: 960
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Map%20of%20Africa%20in%201880.jpg
 subreddit: AfricanHistory
 Commons_category: History of Africa
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~History_of_Africa,149813]]'
+  - '[[../../../WikiData/WD~History_of_Africa,149813|WD~History_of_Africa,149813]]'
   - '[[/_Standards/Earth/Continent/Africa/History_of_Africa|History_of_Africa]]'
   - '[[/_public/Earth/Continent/Africa/History_of_Africa.public|History_of_Africa.public]]'
   - '[[/_internal/Earth/Continent/Africa/History_of_Africa.internal|History_of_Africa.internal]]'
@@ -105,7 +105,7 @@ dv_is_:
   - '[[/_personal/Earth/Continent/Africa/History_of_Africa.personal|History_of_Africa.personal]]'
   - '[[/_secret/Earth/Continent/Africa/History_of_Africa.secret|History_of_Africa.secret]]'
 dv_is_same_as:
-- '[[../../../WikiData/WD~History_of_Africa,149813]]'
+- '[[../../../WikiData/WD~History_of_Africa,149813|WD~History_of_Africa,149813]]'
 - '[[/_Standards/Earth/Continent/Africa/History_of_Africa|History_of_Africa]]'
 - '[[/_public/Earth/Continent/Africa/History_of_Africa.public|History_of_Africa.public]]'
 - '[[/_internal/Earth/Continent/Africa/History_of_Africa.internal|History_of_Africa.internal]]'

@@ -60,19 +60,19 @@ aliases:
 - 염화 플루오린화 탄소
 has_id_wikidata: Q960800
 has_use:
-- '[[_Standards/WikiData/WD~refrigerant,266790]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Frédéric_Swarts,979136]]'
+- '[[_Standards/WikiData/WD~refrigerant,266790|WD~refrigerant,266790]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Frédéric_Swarts,979136|WD~Frédéric_Swarts,979136]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~halogenated_hydrocarbon,11973764]]'
+- '[[_Standards/WikiData/WD~halogenated_hydrocarbon,11973764|WD~halogenated_hydrocarbon,11973764]]'
 subject_has_role:
-- '[[_Standards/WikiData/WD~pollutant,19829510]]'
+- '[[_Standards/WikiData/WD~pollutant,19829510|WD~pollutant,19829510]]'
 instance_of:
-- '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
+- '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
 time_of_discovery_or_invention: 1890-01-01T00:00:00Z
 has_part_s_:
-- '[[_Standards/WikiData/WD~carbon,623]]'
-- '[[_Standards/WikiData/WD~fluorine,650]]'
-- '[[_Standards/WikiData/WD~chlorine,688]]'
+- '[[_Standards/WikiData/WD~carbon,623|WD~carbon,623]]'
+- '[[_Standards/WikiData/WD~fluorine,650|WD~fluorine,650]]'
+- '[[_Standards/WikiData/WD~chlorine,688|WD~chlorine,688]]'
 OmegaWiki_Defined_Meaning: 577
 short_name:
 - FCKW

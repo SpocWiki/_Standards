@@ -118,8 +118,8 @@ aliases:
 
 #has_/child_/class :: [[Disaccharide]] 
 #has_/parent_class :: [[Polysaccharide]] 
-#has_/instances :: [[Oligosaccharide/Raffinose]] 
-#has_/instances :: [[Oligosaccharide/Stachyose]]  
+#has_/instances :: [[Oligosaccharide/Raffinose|Raffinose]] 
+#has_/instances :: [[Oligosaccharide/Stachyose|Stachyose]]  
 
 ## #has_/text_of_/abstract 
 
@@ -138,9 +138,9 @@ aliases:
 > on the alcohol group of the side chain. 
 > 
 > Not all natural oligosaccharides occur as components of glycoproteins or glycolipids.  
-> Some, such as the [[Oligosaccharide/Raffinose]] series, occur as storage or transport carbohydrates in plants.  
+> Some, such as the [[Oligosaccharide/Raffinose|Raffinose]] series, occur as storage or transport carbohydrates in plants.  
 > Others, such as maltodextrins or cellodextrins, 
-> result from the microbial breakdown of larger polysaccharides such as starch or [[Polysaccharide/Cellulose]].
+> result from the microbial breakdown of larger polysaccharides such as starch or [[Polysaccharide/Cellulose|Cellulose]].
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Oligosaccharide) 
 

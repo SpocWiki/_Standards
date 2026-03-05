@@ -128,20 +128,20 @@ aliases:
 - 非洲之角
 - 아프리카의 뿔
 has_id_wikidata: Q40556
-topic_has_template: '[[_Standards/WikiData/WD~Q25720652,25720652]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q25720652,25720652|WD~Q25720652,25720652]]'
 coordinate_location: Point(48.0 9.5)
 country:
-- '[[_Standards/WikiData/WD~Djibouti,977]]'
-- '[[_Standards/WikiData/WD~Eritrea,986]]'
-- '[[_Standards/WikiData/WD~Somalia,1045]]'
-- '[[_Standards/WikiData/WD~Ethiopia,115]]'
+- '[[_Standards/WikiData/WD~Djibouti,977|WD~Djibouti,977]]'
+- '[[_Standards/WikiData/WD~Eritrea,986|WD~Eritrea,986]]'
+- '[[_Standards/WikiData/WD~Somalia,1045|WD~Somalia,1045]]'
+- '[[_Standards/WikiData/WD~Ethiopia,115|WD~Ethiopia,115]]'
 located_in_or_next_to_body_of_water:
-- '[[_Standards/WikiData/WD~Red_Sea,23406]]'
-- '[[_Standards/WikiData/WD~Gulf_of_Aden,41837]]'
-- '[[_Standards/WikiData/WD~Arabian_Sea,58705]]'
-continent: '[[_Standards/WikiData/WD~Africa,15]]'
+- '[[_Standards/WikiData/WD~Red_Sea,23406|WD~Red_Sea,23406]]'
+- '[[_Standards/WikiData/WD~Gulf_of_Aden,41837|WD~Gulf_of_Aden,41837]]'
+- '[[_Standards/WikiData/WD~Arabian_Sea,58705|WD~Arabian_Sea,58705]]'
+continent: '[[_Standards/WikiData/WD~Africa,15|WD~Africa,15]]'
 area: 2000000
-instance_of: '[[_Standards/WikiData/WD~peninsula,34763]]'
+instance_of: '[[_Standards/WikiData/WD~peninsula,34763|WD~peninsula,34763]]'
 population: 115000000
 OmegaWiki_Defined_Meaning: 1310666
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ethiopia%20hornafrica.jpg

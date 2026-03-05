@@ -80,76 +80,76 @@ aliases:
 - ꯂꯦꯁꯣꯊꯣ
 - 레소토
 has_id_wikidata: Q1013
-flag: '[[_Standards/WikiData/WD~flag_of_Lesotho,104969]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Lesotho,104969|WD~flag_of_Lesotho,104969]]'
 instance_of:
-- '[[_Standards/WikiData/WD~landlocked_country,123480]]'
-- '[[_Standards/WikiData/WD~enclave,171441]]'
-- '[[_Standards/WikiData/WD~kingdom,417175]]'
-- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
-- '[[_Standards/WikiData/WD~country,6256]]'
+- '[[_Standards/WikiData/WD~landlocked_country,123480|WD~landlocked_country,123480]]'
+- '[[_Standards/WikiData/WD~enclave,171441|WD~enclave,171441]]'
+- '[[_Standards/WikiData/WD~kingdom,417175|WD~kingdom,417175]]'
+- '[[_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~country,6256|WD~country,6256]]'
 member_of:
-- '[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]'
-- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]'
-- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
-- '[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]'
-- '[[_Standards/WikiData/WD~African_Development_Bank,340195]]'
-- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]'
-- '[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]'
-- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
-- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
-- '[[_Standards/WikiData/WD~Southern_African_Development_Community,816706]]'
-- '[[_Standards/WikiData/WD~International_Development_Association,827525]]'
-- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
-- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
-- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
-- '[[_Standards/WikiData/WD~Southern_African_Customs_Union,1344350]]'
-- '[[_Standards/WikiData/WD~United_Nations,1065]]'
-- '[[_Standards/WikiData/WD~African_Union,7159]]'
-- '[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]'
-- '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
-- '[[_Standards/WikiData/WD~World_Trade_Organization,7825]]'
-- '[[_Standards/WikiData/WD~Interpol,8475]]'
-- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
-lowest_point: '[[_Standards/WikiData/WD~Orange_River,181475]]'
-coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Lesotho,241861]]'
-anthem: '[[_Standards/WikiData/WD~Lesotho_Fatse_La_Bontata_Rona,463986]]'
-demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Lesotho,512362]]'
+- '[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656|WD~International_Civil_Defence_Organisation,162656]]'
+- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278|WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]'
+- '[[_Standards/WikiData/WD~African_Development_Bank,340195|WD~African_Development_Bank,340195]]'
+- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150|WD~International_Telecommunication_Union,376150]]'
+- '[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535|WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]'
+- '[[_Standards/WikiData/WD~World_Customs_Organization,605326|WD~World_Customs_Organization,605326]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801|WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~Southern_African_Development_Community,816706|WD~Southern_African_Development_Community,816706]]'
+- '[[_Standards/WikiData/WD~International_Development_Association,827525|WD~International_Development_Association,827525]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490|WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770|WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
+- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527|WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[_Standards/WikiData/WD~Southern_African_Customs_Union,1344350|WD~Southern_African_Customs_Union,1344350]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~African_Union,7159|WD~African_Union,7159]]'
+- '[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785|WD~Commonwealth_of_Nations,7785]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809|WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817|WD~World_Health_Organization,7817]]'
+- '[[_Standards/WikiData/WD~World_Trade_Organization,7825|WD~World_Trade_Organization,7825]]'
+- '[[_Standards/WikiData/WD~Interpol,8475|WD~Interpol,8475]]'
+- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495|WD~Universal_Postal_Union_UPU,17495]]'
+lowest_point: '[[_Standards/WikiData/WD~Orange_River,181475|WD~Orange_River,181475]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Lesotho,241861|WD~coat_of_arms_of_Lesotho,241861]]'
+anthem: '[[_Standards/WikiData/WD~Lesotho_Fatse_La_Bontata_Rona,463986|WD~Lesotho_Fatse_La_Bontata_Rona,463986]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Lesotho,512362|WD~demographics_of_Lesotho,512362]]'
 contains_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Butha-Buthe_District,535632]]'
-- '[[_Standards/WikiData/WD~Berea_District,737086]]'
-- '[[_Standards/WikiData/WD~Thaba-Tseka_District,817327]]'
-- '[[_Standards/WikiData/WD~Mafeteng_District,817342]]'
-- '[[_Standards/WikiData/WD~Mokhotlong_District,817340]]'
-- '[[_Standards/WikiData/WD~Leribe_District,819987]]'
-- '[[_Standards/WikiData/WD~Quthing_District,839060]]'
-- "[[_Standards/WikiData/WD~Mohale's_Hoek_District,839074]]"
-- '[[_Standards/WikiData/WD~Maseru_District,844921]]'
-- "[[_Standards/WikiData/WD~Qacha's_Nek_District,850423]]"
-highest_point: '[[_Standards/WikiData/WD~Thabana_Ntlenyana,733132]]'
-geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Lesotho,943124]]'
-electrical_plug_type: '[[_Standards/WikiData/WD~BS_546,1383497]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_Lesotho,1478686]]'
-economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Lesotho,2088379]]'
-replaces: '[[_Standards/WikiData/WD~Basutoland,2340665]]'
-central_bank: '[[_Standards/WikiData/WD~Central_Bank_of_Lesotho,2608033]]'
+- '[[_Standards/WikiData/WD~Butha-Buthe_District,535632|WD~Butha-Buthe_District,535632]]'
+- '[[_Standards/WikiData/WD~Berea_District,737086|WD~Berea_District,737086]]'
+- '[[_Standards/WikiData/WD~Thaba-Tseka_District,817327|WD~Thaba-Tseka_District,817327]]'
+- '[[_Standards/WikiData/WD~Mafeteng_District,817342|WD~Mafeteng_District,817342]]'
+- '[[_Standards/WikiData/WD~Mokhotlong_District,817340|WD~Mokhotlong_District,817340]]'
+- '[[_Standards/WikiData/WD~Leribe_District,819987|WD~Leribe_District,819987]]'
+- '[[_Standards/WikiData/WD~Quthing_District,839060|WD~Quthing_District,839060]]'
+- "[[_Standards/WikiData/WD~Mohale's_Hoek_District,839074|WD~Mohale's_Hoek_District,839074]]"
+- '[[_Standards/WikiData/WD~Maseru_District,844921|WD~Maseru_District,844921]]'
+- "[[_Standards/WikiData/WD~Qacha's_Nek_District,850423|WD~Qacha's_Nek_District,850423]]"
+highest_point: '[[_Standards/WikiData/WD~Thabana_Ntlenyana,733132|WD~Thabana_Ntlenyana,733132]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Lesotho,943124|WD~geography_of_Lesotho,943124]]'
+electrical_plug_type: '[[_Standards/WikiData/WD~BS_546,1383497|WD~BS_546,1383497]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Lesotho,1478686|WD~history_of_Lesotho,1478686]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Lesotho,2088379|WD~economy_of_Lesotho,2088379]]'
+replaces: '[[_Standards/WikiData/WD~Basutoland,2340665|WD~Basutoland,2340665]]'
+central_bank: '[[_Standards/WikiData/WD~Central_Bank_of_Lesotho,2608033|WD~Central_Bank_of_Lesotho,2608033]]'
 emergency_phone_number:
-- '[[_Standards/WikiData/WD~114,2945964]]'
-- '[[_Standards/WikiData/WD~115,25648805]]'
-culture: '[[_Standards/WikiData/WD~culture_of_Lesotho,3042760]]'
-legislative_body: '[[_Standards/WikiData/WD~Parliament_of_Lesotho,4345419]]'
+- '[[_Standards/WikiData/WD~114,2945964|WD~114,2945964]]'
+- '[[_Standards/WikiData/WD~115,25648805|WD~115,25648805]]'
+culture: '[[_Standards/WikiData/WD~culture_of_Lesotho,3042760|WD~culture_of_Lesotho,3042760]]'
+legislative_body: '[[_Standards/WikiData/WD~Parliament_of_Lesotho,4345419|WD~Parliament_of_Lesotho,4345419]]'
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~Africa_Maseru,4689510]]'
-- '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Lesotho,7112333]]'
-category_of_associated_people: '[[_Standards/WikiData/WD~Q9073807,9073807]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Lesotho,11301417]]'
-driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
-category_for_people_born_here: '[[_Standards/WikiData/WD~Q13335042,13335042]]'
-office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Lesotho,30101454]]'
-office_held_by_head_of_state: '[[_Standards/WikiData/WD~King_of_Lesotho,41542585]]'
-has_characteristic: '[[_Standards/WikiData/WD~partly_free_country,47185145]]'
-head_of_government: '[[_Standards/WikiData/WD~Sam_Matekane,114588964]]'
+- '[[_Standards/WikiData/WD~Africa_Maseru,4689510|WD~Africa_Maseru,4689510]]'
+- '[[_Standards/WikiData/WD~UTC+02_00,6723|WD~UTC+02_00,6723]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Lesotho,7112333|WD~outline_of_Lesotho,7112333]]'
+category_of_associated_people: '[[_Standards/WikiData/WD~Q9073807,9073807|WD~Q9073807,9073807]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Lesotho,11301417|WD~Portal_Lesotho,11301417]]'
+driving_side: '[[_Standards/WikiData/WD~left,13196750|WD~left,13196750]]'
+category_for_people_born_here: '[[_Standards/WikiData/WD~Q13335042,13335042|WD~Q13335042,13335042]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Lesotho,30101454|WD~Prime_Minister_of_Lesotho,30101454]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~King_of_Lesotho,41542585|WD~King_of_Lesotho,41542585]]'
+has_characteristic: '[[_Standards/WikiData/WD~partly_free_country,47185145|WD~partly_free_country,47185145]]'
+head_of_government: '[[_Standards/WikiData/WD~Sam_Matekane,114588964|WD~Sam_Matekane,114588964]]'
 demonym:
 - lesotense
 - ليسوطوي
@@ -199,41 +199,41 @@ motto_text:
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lesotho%20-%20Location%20Map%20%282013%29%20-%20LSO%20-%20UNOCHA.svg
 coordinates_of_easternmost_point: Point(29.45546 -29.34096)
 diplomatic_relation:
-- '[[_Standards/WikiData/WD~South_Africa,258]]'
-- '[[_Standards/WikiData/WD~North_Korea,423]]'
-- '[[_Standards/WikiData/WD~India,668]]'
-- '[[_Standards/WikiData/WD~Taiwan,865]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Russia,159]]'
-- '[[_Standards/WikiData/WD~Germany,183]]'
-- '[[_Standards/WikiData/WD~Georgia,230]]'
-enclave_within: '[[_Standards/WikiData/WD~South_Africa,258]]'
-shares_border_with: '[[_Standards/WikiData/WD~South_Africa,258]]'
-country: '[[_Standards/WikiData/WD~Lesotho,1013]]'
+- '[[_Standards/WikiData/WD~South_Africa,258|WD~South_Africa,258]]'
+- '[[_Standards/WikiData/WD~North_Korea,423|WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~India,668|WD~India,668]]'
+- '[[_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Georgia,230|WD~Georgia,230]]'
+enclave_within: '[[_Standards/WikiData/WD~South_Africa,258|WD~South_Africa,258]]'
+shares_border_with: '[[_Standards/WikiData/WD~South_Africa,258|WD~South_Africa,258]]'
+country: '[[_Standards/WikiData/WD~Lesotho,1013|WD~Lesotho,1013]]'
 language_used:
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~Zulu,10179]]'
-- '[[_Standards/WikiData/WD~Xhosa,13218]]'
-- '[[_Standards/WikiData/WD~Sesotho,34340]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Zulu,10179|WD~Zulu,10179]]'
+- '[[_Standards/WikiData/WD~Xhosa,13218|WD~Xhosa,13218]]'
+- '[[_Standards/WikiData/WD~Sesotho,34340|WD~Sesotho,34340]]'
 official_language:
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~Sesotho,34340]]'
-capital: '[[_Standards/WikiData/WD~Maseru,3909]]'
-twinned_administrative_body: '[[_Standards/WikiData/WD~Gummersbach,4181]]'
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~Southern_Africa,27394]]'
-part_of: '[[_Standards/WikiData/WD~Southern_Africa,27394]]'
-continent: '[[_Standards/WikiData/WD~Africa,15]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Sesotho,34340|WD~Sesotho,34340]]'
+capital: '[[_Standards/WikiData/WD~Maseru,3909|WD~Maseru,3909]]'
+twinned_administrative_body: '[[_Standards/WikiData/WD~Gummersbach,4181|WD~Gummersbach,4181]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Southern_Africa,27394|WD~Southern_Africa,27394]]'
+part_of: '[[_Standards/WikiData/WD~Southern_Africa,27394|WD~Southern_Africa,27394]]'
+continent: '[[_Standards/WikiData/WD~Africa,15|WD~Africa,15]]'
 VAT_rate: 14
 marriageable_age: 21
 age_of_majority: 21
 mains_voltage: 220
 unemployment_rate: 26
-named_after: '[[_Standards/WikiData/WD~Sesotho,34340]]'
+named_after: '[[_Standards/WikiData/WD~Sesotho,34340|WD~Sesotho,34340]]'
 Democracy_Index: 6.3
 Happy_Planet_Index_score: 27.3
-basic_form_of_government: '[[_Standards/WikiData/WD~constitutional_monarchy,41614]]'
-top_level_Internet_domain: '[[_Standards/WikiData/WD~.ls,41794]]'
+basic_form_of_government: '[[_Standards/WikiData/WD~constitutional_monarchy,41614|WD~constitutional_monarchy,41614]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.ls,41794|WD~.ls,41794]]'
 BTI_Governance_Index:
 - 3.58
 - 3.59
@@ -253,7 +253,7 @@ BTI_Status_Index:
 - 5.35
 - 5.48
 Human_Development_Index: 0.514
-head_of_state: '[[_Standards/WikiData/WD~Letsie_III_of_Lesotho,57537]]'
+head_of_state: '[[_Standards/WikiData/WD~Letsie_III_of_Lesotho,57537|WD~Letsie_III_of_Lesotho,57537]]'
 ISO_3166_1_numeric_code: 426
 M49_code: 426
 total_fertility_rate: 3.185
@@ -399,7 +399,7 @@ dv_UNTERM_Chinese_Formal: 莱索托王国
 dv_UNTERM_French_Formal: le Royaume du Lesotho
 dv_UNTERM_Russian: Лесото
 dv_UNTERM_Russian_Formal: Королевство Лесото
-dv_Region_Name: '[[../../Africa]]'
+dv_Region_Name: '[[../../Africa|Africa]]'
 dv_Intermediate_Region_Name: '[[Southern Africa]]'
 dv_Sub-region_Name: '[[Sub-Saharan Africa]]'
 dv_Region: 2
@@ -428,7 +428,7 @@ dv_ISO3: LSO
 dv_has_name_de: Lesotho
 dv_Area-Total: 30355
 dv_Area-Land: 30350
-dv_has_place_continent: '[[../../Africa]]'
+dv_has_place_continent: '[[../../Africa|Africa]]'
 dv_VehicleCode: LS
 dv_Alcohol-l: 5.6
 dv_Language-Id: 499
@@ -820,7 +820,7 @@ Capital :: [[Maseru]]
 
 ![[Coat_of_arms_of_Lesotho.svg|550]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Lesotho.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Lesotho.mp3|Anthem-Lesotho.mp3]]
 
 ![[Flag_of_Lesotho.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
@@ -837,7 +837,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Lesotho/ReadMe]] 
+[[Lesotho/ReadMe|ReadMe]] 
 
 
 ## #has_/text_of_/abstract 

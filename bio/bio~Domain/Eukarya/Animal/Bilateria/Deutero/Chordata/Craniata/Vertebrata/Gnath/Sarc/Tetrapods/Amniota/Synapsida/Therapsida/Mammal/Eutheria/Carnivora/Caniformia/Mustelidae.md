@@ -85,14 +85,14 @@ aliases:
 - 족제비과
 has_id_wikidata: Q25437
 described_by_source:
-- '[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-parent_taxon: '[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Musteloidea,2670845]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Mustelidae_nav,14444911]]'
-code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-named_after: '[[_Standards/WikiData/WD~Mustela,28521]]'
-taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+- '[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+parent_taxon: '[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Musteloidea,2670845|WD~Musteloidea,2670845]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Mustelidae_nav,14444911|WD~Template_Mustelidae_nav,14444911]]'
+code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011|WD~International_Code_of_Zoological_Nomenclature,13011]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+named_after: '[[_Standards/WikiData/WD~Mustela,28521|WD~Mustela,28521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409|WD~family,35409]]'
 OmegaWiki_Defined_Meaning: 2447
 ITIS_TSN: 180545
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%20%28deu%29-Sebastian%20Wallroth-Marder.wav

@@ -32,9 +32,9 @@ aliases:
 - 真鲨目
 - 흉상어목
 has_id_wikidata: Q48178
-code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
+code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011|WD~International_Code_of_Zoological_Nomenclature,13011]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~order,36602|WD~order,36602]]'
 ITIS_TSN: 551500
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Carcharhinus%20melanopterus2.jpg
 EPPO_Code: 1KARCO
@@ -113,7 +113,7 @@ dv_has_:
 
 # [[Carcharhiniformes]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../../../WikiData/WD~Carcharhiniformes,48178]] 
+#is_/same_as :: [[../../../../../../../../../../../../../../WikiData/WD~Carcharhiniformes,48178|WD~Carcharhiniformes,48178]] 
 
 ## #has_/text_of_/abstract 
 

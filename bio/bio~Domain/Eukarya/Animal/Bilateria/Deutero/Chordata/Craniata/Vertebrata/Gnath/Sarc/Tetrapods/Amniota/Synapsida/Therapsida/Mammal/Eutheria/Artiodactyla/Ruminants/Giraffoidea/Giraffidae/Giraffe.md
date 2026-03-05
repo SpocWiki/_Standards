@@ -199,7 +199,7 @@ Unicode_character: 🦒
 
 Giraffes 
 
-![[../../Giraffa_camelopardalis.jpg]]
+![[../../Giraffa_camelopardalis.jpg|Giraffa_camelopardalis.jpg]]
 
 ## #has_/text_of_/abstract 
 

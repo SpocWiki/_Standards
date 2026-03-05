@@ -40,14 +40,14 @@ aliases:
 - 분자 궤도
 has_id_wikidata: Q725417
 subclass_of:
-- '[[_Standards/WikiData/WD~orbital,3355206]]'
-- '[[_Standards/WikiData/WD~function,11348]]'
-part_of: '[[_Standards/WikiData/WD~chemical_bonding_model,5090444]]'
-has_use: '[[_Standards/WikiData/WD~electron,2225]]'
+- '[[_Standards/WikiData/WD~orbital,3355206|WD~orbital,3355206]]'
+- '[[_Standards/WikiData/WD~function,11348|WD~function,11348]]'
+part_of: '[[_Standards/WikiData/WD~chemical_bonding_model,5090444|WD~chemical_bonding_model,5090444]]'
+has_use: '[[_Standards/WikiData/WD~electron,2225|WD~electron,2225]]'
 Commons_category: Molecular orbitals
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Molecular_orbital,725417]]'
+  - '[[../../../../WikiData/WD~Molecular_orbital,725417|WD~Molecular_orbital,725417]]'
   - '[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital|Molecular_Orbital]]'
   - '[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital.public|Molecular_Orbital.public]]'
   - '[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital.internal|Molecular_Orbital.internal]]'
@@ -56,7 +56,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital.personal|Molecular_Orbital.personal]]'
   - '[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital.secret|Molecular_Orbital.secret]]'
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Molecular_orbital,725417]]'
+- '[[../../../../WikiData/WD~Molecular_orbital,725417|WD~Molecular_orbital,725417]]'
 - '[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital|Molecular_Orbital]]'
 - '[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital.public|Molecular_Orbital.public]]'
 - '[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Molecular_Orbital.internal|Molecular_Orbital.internal]]'

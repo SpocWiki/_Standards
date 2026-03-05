@@ -56,9 +56,9 @@ aliases:
 - 苏丹历史
 - 수단의 역사
 has_id_wikidata: Q246643
-topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_Sudan,10522567]]'
-instance_of: '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]'
-country: '[[_Standards/WikiData/WD~Sudan,1049]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_Sudan,10522567|WD~Template_History_of_Sudan,10522567]]'
+instance_of: '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377|WD~history_of_a_country_or_state,17544377]]'
+country: '[[_Standards/WikiData/WD~Sudan,1049|WD~Sudan,1049]]'
 Dewey_Decimal_Classification:
 - 962
 - 962.4
@@ -66,7 +66,7 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q2280
 Commons_category: History of Sudan
 dv_is_:
   same_as:
-  - '[[../../../../../WikiData/WD~History_of_Sudan,246643]]'
+  - '[[../../../../../WikiData/WD~History_of_Sudan,246643|WD~History_of_Sudan,246643]]'
   - '[[/_Standards/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan|History_of_Sudan]]'
   - '[[/_public/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.public|History_of_Sudan.public]]'
   - '[[/_internal/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.internal|History_of_Sudan.internal]]'
@@ -75,7 +75,7 @@ dv_is_:
   - '[[/_personal/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.personal|History_of_Sudan.personal]]'
   - '[[/_secret/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.secret|History_of_Sudan.secret]]'
 dv_is_same_as:
-- '[[../../../../../WikiData/WD~History_of_Sudan,246643]]'
+- '[[../../../../../WikiData/WD~History_of_Sudan,246643|WD~History_of_Sudan,246643]]'
 - '[[/_Standards/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan|History_of_Sudan]]'
 - '[[/_public/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.public|History_of_Sudan.public]]'
 - '[[/_internal/Earth/Continent/Africa/Africa~East/Sudan/History_of_Sudan.internal|History_of_Sudan.internal]]'

@@ -57,21 +57,21 @@ aliases:
 - 동소성
 has_id_wikidata: Q81915
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-instance_of: '[[_Standards/WikiData/WD~chemical_property,764285]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543|WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+instance_of: '[[_Standards/WikiData/WD~chemical_property,764285|WD~chemical_property,764285]]'
 partially_coincident_with:
-- '[[_Standards/WikiData/WD~crystal_polymorphism,907364]]'
-- '[[_Standards/WikiData/WD~isomerism,41088690]]'
+- '[[_Standards/WikiData/WD~crystal_polymorphism,907364|WD~crystal_polymorphism,907364]]'
+- '[[_Standards/WikiData/WD~isomerism,41088690|WD~isomerism,41088690]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~property,937228]]'
-- '[[_Standards/WikiData/WD~polymorphism,114023761]]'
-characteristic_of: '[[_Standards/WikiData/WD~simple_substance,2512777]]'
-part_of: '[[_Standards/WikiData/WD~chemistry,2329]]'
+- '[[_Standards/WikiData/WD~property,937228|WD~property,937228]]'
+- '[[_Standards/WikiData/WD~polymorphism,114023761|WD~polymorphism,114023761]]'
+characteristic_of: '[[_Standards/WikiData/WD~simple_substance,2512777|WD~simple_substance,2512777]]'
+part_of: '[[_Standards/WikiData/WD~chemistry,2329|WD~chemistry,2329]]'
 OmegaWiki_Defined_Meaning: 826348
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/PhosphComby.jpg
@@ -81,7 +81,7 @@ Commons_category: Allotropy
 Krugosvet_article: nauka_i_tehnika/himiya/ALLOTROPIYA.html
 dv_is_:
   same_as:
-  - '[[../../WikiData/WD~Allotropy,81915]]'
+  - '[[../../WikiData/WD~Allotropy,81915|WD~Allotropy,81915]]'
   - '[[/_Standards/Chemistry/Material/Allotropy|Allotropy]]'
   - '[[/_public/Chemistry/Material/Allotropy.public|Allotropy.public]]'
   - '[[/_internal/Chemistry/Material/Allotropy.internal|Allotropy.internal]]'
@@ -90,7 +90,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Material/Allotropy.personal|Allotropy.personal]]'
   - '[[/_secret/Chemistry/Material/Allotropy.secret|Allotropy.secret]]'
 dv_is_same_as:
-- '[[../../WikiData/WD~Allotropy,81915]]'
+- '[[../../WikiData/WD~Allotropy,81915|WD~Allotropy,81915]]'
 - '[[/_Standards/Chemistry/Material/Allotropy|Allotropy]]'
 - '[[/_public/Chemistry/Material/Allotropy.public|Allotropy.public]]'
 - '[[/_internal/Chemistry/Material/Allotropy.internal|Allotropy.internal]]'
@@ -194,7 +194,7 @@ dv_has_:
 
 # [[Allotropy]] 
 
-#is_/same_as :: [[../../WikiData/WD~Allotropy,81915]] 
+#is_/same_as :: [[../../WikiData/WD~Allotropy,81915|WD~Allotropy,81915]] 
 
 ## #has_/text_of_/abstract 
 

@@ -37,17 +37,17 @@ aliases:
 - 구아나코
 has_id_wikidata: Q172886
 title: Lama guanicoe
-IUCN_conservation_status: '[[_Standards/WikiData/WD~Least_Concern,211005]]'
-parent_taxon: '[[_Standards/WikiData/WD~Lama,753853]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+IUCN_conservation_status: '[[_Standards/WikiData/WD~Least_Concern,211005|WD~Least_Concern,211005]]'
+parent_taxon: '[[_Standards/WikiData/WD~Lama,753853|WD~Lama,753853]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 this_taxon_is_source_of:
-- '[[_Standards/WikiData/WD~guanaco,1552716]]'
-- '[[_Standards/WikiData/WD~guanaco_fiber,28070615]]'
-CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_II_of_CITES,2851527]]'
-original_combination: '[[_Standards/WikiData/WD~Camelus_guanicoe,27064372]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
-taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~guanaco,1552716|WD~guanaco,1552716]]'
+- '[[_Standards/WikiData/WD~guanaco_fiber,28070615|WD~guanaco_fiber,28070615]]'
+CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_II_of_CITES,2851527|WD~Appendix_II_of_CITES,2851527]]'
+original_combination: '[[_Standards/WikiData/WD~Camelus_guanicoe,27064372|WD~Camelus_guanicoe,27064372]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615|WD~WikiProject_Invasion_Biology,56241615]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432|WD~species,7432]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 longest_observed_lifespan: 33.7
 gestation_period: 352
 ITIS_TSN: 625029

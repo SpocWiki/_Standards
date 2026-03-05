@@ -101,28 +101,28 @@ Commons_gallery: Uranium
 Common_Procurement_Vocabulary_code: 9341000
 density: 19.05
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
 Dewey_Decimal_Classification:
 - 546.431
 - 669.2931
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Eugène-Melchior_Péligot,903801]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Eugène-Melchior_Péligot,903801|WD~Eugène-Melchior_Péligot,903801]]'
 DSSTOX_compound_identifier: DTXCID304373
 EC_number: 231-170-6
 electronegativity: 1.38
 element_symbol: U
-fabrication_method: '[[_Standards/WikiData/WD~uraninite,206467]]'
+fabrication_method: '[[_Standards/WikiData/WD~uraninite,206467|WD~uraninite,206467]]'
 Gmelin_number: 16315
-has_characteristic: '[[_Standards/WikiData/WD~radioactivity,11448]]'
+has_characteristic: '[[_Standards/WikiData/WD~radioactivity,11448|WD~radioactivity,11448]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Uranium2.jpg
 InChI: InChI=1S/U
 InChIKey: JFALSRSLKYAFGM-UHFFFAOYSA-N
 instance_of:
-- '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- '[[_Standards/WikiData/WD~radioactive_element,3658631]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+- '[[_Standards/WikiData/WD~lithophile,1130479|WD~lithophile,1130479]]'
+- '[[_Standards/WikiData/WD~radioactive_element,3658631|WD~radioactive_element,3658631]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 ionic_radius:
 - 1
 - 0.45
@@ -141,17 +141,17 @@ MeSH_tree_code:
 - D01.496.749.305.100.950
 - D01.552.020.940
 - D01.552.544.900
-named_after: '[[_Standards/WikiData/WD~Uranus,324]]'
+named_after: '[[_Standards/WikiData/WD~Uranus,324|WD~Uranus,324]]'
 OmegaWiki_Defined_Meaning: 3902
 part_of:
-- '[[_Standards/WikiData/WD~period_7,244979]]'
-- '[[_Standards/WikiData/WD~actinide,19577]]'
+- '[[_Standards/WikiData/WD~period_7,244979|WD~period_7,244979]]'
+- '[[_Standards/WikiData/WD~actinide,19577|WD~actinide,19577]]'
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20149.jpg
 PubChem_CID: 23989
 RTECS_number: YR3490000
 SpocWebEntityId: 21987
 time_of_discovery_or_invention: 1789
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_uranium,8085707]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_uranium,8085707|WD~Template_Infobox_uranium,8085707]]'
 type: Element
 UMLS_CUI: C0041928
 UNII: 4OC371KSTK
@@ -159,7 +159,7 @@ U_S_National_Archives_Identifier: 10644103
 ZVG_number: 7920
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Uranium,1098]]'
+  - '[[../../../WikiData/WD~Uranium,1098|WD~Uranium,1098]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Actinide/Uranium|Uranium]]'
   - '[[/_public/Chemistry/Chemical_Element/Actinide/Uranium.public|Uranium.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Actinide/Uranium.internal|Uranium.internal]]'
@@ -167,7 +167,7 @@ dv_is_:
   - '[[/_private/Chemistry/Chemical_Element/Actinide/Uranium.private|Uranium.private]]'
   - '[[/_personal/Chemistry/Chemical_Element/Actinide/Uranium.personal|Uranium.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Actinide/Uranium.secret|Uranium.secret]]'
-  part_of: '[[../Actinide]]'
+  part_of: '[[../Actinide|Actinide]]'
 dv_has_:
   name_:
     abbreviated: U
@@ -394,7 +394,7 @@ dv_has_:
         kj_:
           mol: 477
 dv_is_same_as:
-- '[[../../../WikiData/WD~Uranium,1098]]'
+- '[[../../../WikiData/WD~Uranium,1098|WD~Uranium,1098]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Actinide/Uranium|Uranium]]'
 - '[[/_public/Chemistry/Chemical_Element/Actinide/Uranium.public|Uranium.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Actinide/Uranium.internal|Uranium.internal]]'
@@ -403,7 +403,7 @@ dv_is_same_as:
 - '[[/_personal/Chemistry/Chemical_Element/Actinide/Uranium.personal|Uranium.personal]]'
 - '[[/_secret/Chemistry/Chemical_Element/Actinide/Uranium.secret|Uranium.secret]]'
 dv_has_name_group: Actinide-Group
-dv_is_part_of: '[[../Actinide]]'
+dv_is_part_of: '[[../Actinide|Actinide]]'
 dv_has_name_en: Uranium
 dv_has_name_de: Uran
 dv_has_name_abbreviated: U
@@ -431,7 +431,7 @@ Unicode_character: 鈾
 
 
 
-#is_/same_as :: [[../../../WikiData/WD~Uranium,1098]] 
+#is_/same_as :: [[../../../WikiData/WD~Uranium,1098|WD~Uranium,1098]] 
 
 
 #chemic/Element 
@@ -506,11 +506,11 @@ has_number_of_electrons = `=this.dv_has_number_of_electrons`
 > or even induced fission with fast neutrons; uranium-235, and to a lesser degree uranium-233, 
 > have a much higher fission cross-section for slow neutrons. In sufficient concentration, these isotopes maintain a sustained nuclear chain reaction. This generates the heat in nuclear power reactors and produces the fissile material for nuclear weapons.  The primary civilian use for uranium harnesses the heat energy to produce electricity. Depleted uranium (238U) is used in kinetic energy penetrators and armor plating.
 >
-> The 1789 discovery of uranium in the mineral pitchblende is credited to [[../../Chemist/Klaproth,Martin_Heinrich]], 
+> The 1789 discovery of uranium in the mineral pitchblende is credited to [[../../Chemist/Klaproth,Martin_Heinrich|Klaproth,Martin_Heinrich]], 
 > who named the new element after the recently discovered planet Uranus. 
 > Eugène-Melchior Péligot was the first person to isolate the metal, 
 > and its radioactive properties were discovered in 1896 by [[Henri Becquerel]]. 
-> Research by [[Otto Hahn]], [[Lise Meitner]], [[../../../Science/Scientist/Modern_Scientists/Fermi,Enrico]] and others, such as [[J. Robert Oppenheimer]] 
+> Research by [[Otto Hahn]], [[Lise Meitner]], [[../../../Science/Scientist/Modern_Scientists/Fermi,Enrico|Fermi,Enrico]] and others, such as [[J. Robert Oppenheimer]] 
 > starting in 1934 led to its use as a fuel in the nuclear power industry 
 > and in Little Boy, the first nuclear weapon used in war. 
 > 

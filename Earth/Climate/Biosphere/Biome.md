@@ -44,9 +44,9 @@ aliases:
 - 생물 군계
 has_id_wikidata: Q101998
 subclass_of:
-- '[[_Standards/WikiData/WD~landscape,107425]]'
-- '[[_Standards/WikiData/WD~biological_system,30336093]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Biomes,6444040]]'
+- '[[_Standards/WikiData/WD~landscape,107425|WD~landscape,107425]]'
+- '[[_Standards/WikiData/WD~biological_system,30336093|WD~biological_system,30336093]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Biomes,6444040|WD~Template_Biomes,6444040]]'
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Groot%20River%20Banner.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9217%20%28tha%29-Patsagorn%20Y.-%E0%B8%8A%E0%B8%B5%E0%B8%A7%E0%B8%99%E0%B8%B4%E0%B9%80%E0%B8%A7%E0%B8%A8.wav
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Vegetation.png

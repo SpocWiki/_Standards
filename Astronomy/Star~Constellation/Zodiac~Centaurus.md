@@ -65,26 +65,26 @@ isReadOnly: false
 tags:
 - astro/Zodiac
 type: Zodiac
-named_after: '[[_Standards/WikiData/WD~centaur,83203]]'
+named_after: '[[_Standards/WikiData/WD~centaur,83203|WD~centaur,83203]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-part_of: '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+part_of: '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815|WD~Southern_Celestial_Hemisphere,2380815]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Stars_of_Centaurus,8084779]]'
-- '[[_Standards/WikiData/WD~Q10729048,10729048]]'
-instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
+- '[[_Standards/WikiData/WD~Template_Stars_of_Centaurus,8084779|WD~Template_Stars_of_Centaurus,8084779]]'
+- '[[_Standards/WikiData/WD~Q10729048,10729048|WD~Q10729048,10729048]]'
+instance_of: '[[_Standards/WikiData/WD~constellation,8928|WD~constellation,8928]]'
 shares_border_with:
-- '[[_Standards/WikiData/WD~Musca,10435]]'
-- '[[_Standards/WikiData/WD~Carina,10470]]'
-- '[[_Standards/WikiData/WD~Antlia,10481]]'
-- '[[_Standards/WikiData/WD~Circinus,10508]]'
-- '[[_Standards/WikiData/WD~Vela,10521]]'
-- '[[_Standards/WikiData/WD~Crux,10542]]'
-- '[[_Standards/WikiData/WD~Lupus,10571]]'
-- '[[_Standards/WikiData/WD~Hydra,10578]]'
-- '[[_Standards/WikiData/WD~Libra,10580]]'
+- '[[_Standards/WikiData/WD~Musca,10435|WD~Musca,10435]]'
+- '[[_Standards/WikiData/WD~Carina,10470|WD~Carina,10470]]'
+- '[[_Standards/WikiData/WD~Antlia,10481|WD~Antlia,10481]]'
+- '[[_Standards/WikiData/WD~Circinus,10508|WD~Circinus,10508]]'
+- '[[_Standards/WikiData/WD~Vela,10521|WD~Vela,10521]]'
+- '[[_Standards/WikiData/WD~Crux,10542|WD~Crux,10542]]'
+- '[[_Standards/WikiData/WD~Lupus,10571|WD~Lupus,10571]]'
+- '[[_Standards/WikiData/WD~Hydra,10578|WD~Hydra,10578]]'
+- '[[_Standards/WikiData/WD~Libra,10580|WD~Libra,10580]]'
 area: 1060
 Commons_gallery: Centaurus
 Commons_category: Centaurus (constellation)

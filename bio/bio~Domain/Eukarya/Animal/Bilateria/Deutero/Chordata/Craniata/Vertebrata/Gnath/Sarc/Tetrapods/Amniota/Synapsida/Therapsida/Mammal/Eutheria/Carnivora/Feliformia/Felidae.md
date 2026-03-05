@@ -113,21 +113,21 @@ taxon_common_name:
 - kotowate
 - mačke
 described_by_source:
-- '[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-produced_sound: '[[_Standards/WikiData/WD~purr,662750]]'
-CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_II_of_CITES,2851527]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Cats,8207375]]'
-parent_taxon: '[[_Standards/WikiData/WD~Feloidea,10281053]]'
+- '[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+produced_sound: '[[_Standards/WikiData/WD~purr,662750|WD~purr,662750]]'
+CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_II_of_CITES,2851527|WD~Appendix_II_of_CITES,2851527]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Cats,8207375|WD~Portal_Cats,8207375]]'
+parent_taxon: '[[_Standards/WikiData/WD~Feloidea,10281053|WD~Feloidea,10281053]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Q10598109,10598109]]'
-- '[[_Standards/WikiData/WD~Template_Felidae_nav,14444734]]'
-different_from: '[[_Standards/WikiData/WD~mythological_feline,54485824]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+- '[[_Standards/WikiData/WD~Q10598109,10598109|WD~Q10598109,10598109]]'
+- '[[_Standards/WikiData/WD~Template_Felidae_nav,14444734|WD~Template_Felidae_nav,14444734]]'
+different_from: '[[_Standards/WikiData/WD~mythological_feline,54485824|WD~mythological_feline,54485824]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615|WD~WikiProject_Invasion_Biology,56241615]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409|WD~family,35409]]'
 OmegaWiki_Defined_Meaning: 4304
 ITIS_TSN: 180580
 image:

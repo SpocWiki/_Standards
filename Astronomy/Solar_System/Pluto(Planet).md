@@ -100,46 +100,46 @@ apparent_magnitude: 15.1
 argument_of_periapsis: 224.06891629
 astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Pluto%20symbol%20%28large%20orb%2C%20fixed%20width%29.svg
 child_astronomical_body:
-- '[[_Standards/WikiData/WD~Nix,102694]]'
-- '[[_Standards/WikiData/WD~Hydra,102701]]'
-- '[[_Standards/WikiData/WD~Kerberos,105636]]'
-- '[[_Standards/WikiData/WD~Styx,105713]]'
-- '[[_Standards/WikiData/WD~Charon,6604]]'
+- '[[_Standards/WikiData/WD~Nix,102694|WD~Nix,102694]]'
+- '[[_Standards/WikiData/WD~Hydra,102701|WD~Hydra,102701]]'
+- '[[_Standards/WikiData/WD~Kerberos,105636|WD~Kerberos,105636]]'
+- '[[_Standards/WikiData/WD~Styx,105713|WD~Styx,105713]]'
+- '[[_Standards/WikiData/WD~Charon,6604|WD~Charon,6604]]'
 Commons_category: 134340 Pluto
 Commons_gallery: 134340 Pluto
 density: 1.85
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
 diameter: 2376
-different_from: '[[_Standards/WikiData/WD~Pluton,12141104]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Clyde_Tombaugh,190232]]'
+different_from: '[[_Standards/WikiData/WD~Pluton,12141104|WD~Pluton,12141104]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Clyde_Tombaugh,190232|WD~Clyde_Tombaugh,190232]]'
 flattening: 1
-followed_by: '[[_Standards/WikiData/WD~(134341)_1979_MA,3454005]]'
-follows: '[[_Standards/WikiData/WD~(134339)_5628_T-3,3454012]]'
-geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Pluto,20679649]]'
+followed_by: '[[_Standards/WikiData/WD~(134341)_1979_MA,3454005|WD~(134341)_1979_MA,3454005]]'
+follows: '[[_Standards/WikiData/WD~(134339)_5628_T-3,3454012|WD~(134339)_5628_T-3,3454012]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Pluto,20679649|WD~geography_of_Pluto,20679649]]'
 hashtag: Pluto
-has_part_s_: '[[_Standards/WikiData/WD~atmosphere_of_Pluto,3628984]]'
-has_use: '[[_Standards/WikiData/WD~colonization_of_Pluto,2984276]]'
-highest_point: '[[_Standards/WikiData/WD~Tenzing_Montes,20679657]]'
+has_part_s_: '[[_Standards/WikiData/WD~atmosphere_of_Pluto,3628984|WD~atmosphere_of_Pluto,3628984]]'
+has_use: '[[_Standards/WikiData/WD~colonization_of_Pluto,2984276|WD~colonization_of_Pluto,2984276]]'
+highest_point: '[[_Standards/WikiData/WD~Tenzing_Montes,20679657|WD~Tenzing_Montes,20679657]]'
 Iconclass_notation: 24C16
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pluto%20in%20True%20Color%20-%20High-Res.jpg
-instance_of: '[[_Standards/WikiData/WD~dwarf_planet,2199]]'
+instance_of: '[[_Standards/WikiData/WD~dwarf_planet,2199|WD~dwarf_planet,2199]]'
 IPA_transcription: ˈpluːto
-location: '[[_Standards/WikiData/WD~outer_Solar_System,3962257]]'
+location: '[[_Standards/WikiData/WD~outer_Solar_System,3962257|WD~outer_Solar_System,3962257]]'
 longitude_of_ascending_node: 110.30393684
 mass: 13.05
 mean_anomaly: 25.2471897
 MeSH_tree_code: G01.060.075.730.600.500
-minor_planet_group: '[[_Standards/WikiData/WD~trans-Neptunian_object,6592]]'
-named_after: '[[_Standards/WikiData/WD~Pluto,152262]]'
-named_by: '[[_Standards/WikiData/WD~Venetia_Burney,242989]]'
+minor_planet_group: '[[_Standards/WikiData/WD~trans-Neptunian_object,6592|WD~trans-Neptunian_object,6592]]'
+named_after: '[[_Standards/WikiData/WD~Pluto,152262|WD~Pluto,152262]]'
+named_by: '[[_Standards/WikiData/WD~Venetia_Burney,242989|WD~Venetia_Burney,242989]]'
 OmegaWiki_Defined_Meaning: 7332
 orbital_eccentricity: 0.24880766
 orbital_inclination:
 - 17.14001206
 - 11.88
 orbital_period: 90553.02
-parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525]]'
-part_of: '[[_Standards/WikiData/WD~Pluto_System,108855214]]'
+parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525|WD~Sun,525]]'
+part_of: '[[_Standards/WikiData/WD~Pluto_System,108855214|WD~Pluto_System,108855214]]'
 periapsis:
 - 4438120030.06
 - 29.667
@@ -150,7 +150,7 @@ pronunciation_audio:
 - http://commons.wikimedia.org/wiki/Special:FilePath/En-us-Pluto.ogg
 radius: 1185
 rotation_period: 6.38723
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Yuggoth,1142280]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Yuggoth,1142280|WD~Yuggoth,1142280]]'
 schematic:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Internal%20Structure%20of%20Pluto%20%28de%29.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Internal%20Structure%20of%20Pluto%20%28es%29.jpg
@@ -161,12 +161,12 @@ schematic:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Internal%20Structure%20of%20Pluto-ru.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Internal%20Structure%20of%20Pluto.jpg
 semi_major_axis_of_an_orbit: 39.48211675
-significant_event: '[[_Standards/WikiData/WD~naming,25488743]]'
-site_of_astronomical_discovery: '[[_Standards/WikiData/WD~Lowell_Observatory,466895]]'
+significant_event: '[[_Standards/WikiData/WD~naming,25488743|WD~naming,25488743]]'
+site_of_astronomical_discovery: '[[_Standards/WikiData/WD~Lowell_Observatory,466895|WD~Lowell_Observatory,466895]]'
 Stack_Exchange_tag: https://astronomy.stackexchange.com/tags/pluto
 studied_in:
-- '[[_Standards/WikiData/WD~geology_of_Pluto,20678700]]'
-- '[[_Standards/WikiData/WD~hadeology,131627505]]'
+- '[[_Standards/WikiData/WD~geology_of_Pluto,20678700|WD~geology_of_Pluto,20678700]]'
+- '[[_Standards/WikiData/WD~hadeology,131627505|WD~hadeology,131627505]]'
 surface_gravity: 0.62
 synodic_period: 366.73
 temperature:
@@ -182,7 +182,7 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/15-02652-PlutoFilm-50s
 Wolfram_Language_entity_code: Entity["MinorPlanet", "Pluto"]
 dv_is_:
   same_as:
-  - '[[../../WikiData/WD~Pluto,339]]'
+  - '[[../../WikiData/WD~Pluto,339|WD~Pluto,339]]'
   - '[[/_Standards/Astronomy/Solar_System/Pluto(Planet)|Pluto(Planet)]]'
   - '[[/_public/Astronomy/Solar_System/Pluto(Planet).public|Pluto(Planet).public]]'
   - '[[/_internal/Astronomy/Solar_System/Pluto(Planet).internal|Pluto(Planet).internal]]'
@@ -191,7 +191,7 @@ dv_is_:
   - '[[/_personal/Astronomy/Solar_System/Pluto(Planet).personal|Pluto(Planet).personal]]'
   - '[[/_secret/Astronomy/Solar_System/Pluto(Planet).secret|Pluto(Planet).secret]]'
 dv_is_same_as:
-- '[[../../WikiData/WD~Pluto,339]]'
+- '[[../../WikiData/WD~Pluto,339|WD~Pluto,339]]'
 - '[[/_Standards/Astronomy/Solar_System/Pluto(Planet)|Pluto(Planet)]]'
 - '[[/_public/Astronomy/Solar_System/Pluto(Planet).public|Pluto(Planet).public]]'
 - '[[/_internal/Astronomy/Solar_System/Pluto(Planet).internal|Pluto(Planet).internal]]'
@@ -427,8 +427,8 @@ dv_has_:
 
 
 
-#is_/different_from :: [[../../WikiData/WD~Pluto,152262]] 
-#is_/same_as :: [[../../WikiData/WD~Pluto,339]] 
+#is_/different_from :: [[../../WikiData/WD~Pluto,152262|WD~Pluto,152262]] 
+#is_/same_as :: [[../../WikiData/WD~Pluto,339|WD~Pluto,339]] 
 
 ## #has_/text_of_/abstract 
 

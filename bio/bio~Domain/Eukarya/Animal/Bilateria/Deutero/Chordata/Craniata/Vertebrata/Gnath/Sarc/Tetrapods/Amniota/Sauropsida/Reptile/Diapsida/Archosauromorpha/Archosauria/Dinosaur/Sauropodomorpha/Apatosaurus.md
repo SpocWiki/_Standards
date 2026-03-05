@@ -35,18 +35,18 @@ aliases:
 - 아파토사우루스
 has_id_wikidata: Q14326
 location_of_discovery:
-- '[[_Standards/WikiData/WD~Morrison_Formation,1195552]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Brontosaurus,3222766]]'
-described_by_source: '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290]]'
+- '[[_Standards/WikiData/WD~Morrison_Formation,1195552|WD~Morrison_Formation,1195552]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Brontosaurus,3222766|WD~Brontosaurus,3222766]]'
+described_by_source: '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290|WD~fossil_taxon,23038290]]'
 end_time: -151000000-06
 length:
 - 21
 - 22.8
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
 mass: 22.4
-main_food_source: '[[_Standards/WikiData/WD~herbivore,59099]]'
+main_food_source: '[[_Standards/WikiData/WD~herbivore,59099|WD~herbivore,59099]]'
 Commons_gallery: Apatosaurus
 Commons_category: Apatosaurus
 taxon_name: Apatosaurus

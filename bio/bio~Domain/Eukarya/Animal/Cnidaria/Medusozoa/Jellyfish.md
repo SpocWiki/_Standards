@@ -86,19 +86,19 @@ aliases:
 - 해파리
 has_id_wikidata: Q30178
 taxon_known_by_this_common_name:
-- '[[_Standards/WikiData/WD~box_jellyfish,273179]]'
-- '[[_Standards/WikiData/WD~Medusozoa,6596143]]'
+- '[[_Standards/WikiData/WD~box_jellyfish,273179|WD~box_jellyfish,273179]]'
+- '[[_Standards/WikiData/WD~Medusozoa,6596143|WD~Medusozoa,6596143]]'
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 different_from:
-- '[[_Standards/WikiData/WD~Q1175371,1175371]]'
-- '[[_Standards/WikiData/WD~Medusa,11776853]]'
-- '[[_Standards/WikiData/WD~Meduza,72977655]]'
-instance_of: '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]'
+- '[[_Standards/WikiData/WD~Q1175371,1175371|WD~Q1175371,1175371]]'
+- '[[_Standards/WikiData/WD~Medusa,11776853|WD~Medusa,11776853]]'
+- '[[_Standards/WikiData/WD~Meduza,72977655|WD~Meduza,72977655]]'
+instance_of: '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715|WD~organisms_known_by_a_particular_common_name,55983715]]'
 OmegaWiki_Defined_Meaning: 1392505
 pronunciation_audio:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Ru-%D0%BC%D0%B5%D0%B4%D1%83%D0%B7%D0%B0.ogg

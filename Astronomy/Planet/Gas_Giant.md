@@ -94,14 +94,14 @@ aliases:
 - 氣體巨行星
 - 목성형 행성
 has_id_wikidata: Q121750
-opposite_of: '[[_Standards/WikiData/WD~terrestrial_planet,128207]]'
-followed_by: '[[_Standards/WikiData/WD~Chthonian_planet,928495]]'
-different_from: '[[_Standards/WikiData/WD~Jupiter_analog,15121300]]'
-instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
-subclass_of: '[[_Standards/WikiData/WD~giant_planet,21857994]]'
+opposite_of: '[[_Standards/WikiData/WD~terrestrial_planet,128207|WD~terrestrial_planet,128207]]'
+followed_by: '[[_Standards/WikiData/WD~Chthonian_planet,928495|WD~Chthonian_planet,928495]]'
+different_from: '[[_Standards/WikiData/WD~Jupiter_analog,15121300|WD~Jupiter_analog,15121300]]'
+instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909|WD~astronomical_object_type,17444909]]'
+subclass_of: '[[_Standards/WikiData/WD~giant_planet,21857994|WD~giant_planet,21857994]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~hydrogen,556]]'
-- '[[_Standards/WikiData/WD~helium,560]]'
+- '[[_Standards/WikiData/WD~hydrogen,556|WD~hydrogen,556]]'
+- '[[_Standards/WikiData/WD~helium,560|WD~helium,560]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Jupiter%20New%20Horizons.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%97%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B8%E0%A7%80%E0%A6%AF%E0%A6%BC%20%E0%A6%A6%E0%A7%88%E0%A6%A4%E0%A7%8D%E0%A6%AF.wav
 exact_match: http://purl.obolibrary.org/obo/ENVO_01001124

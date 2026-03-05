@@ -130,46 +130,46 @@ ICD_9_CM:
 - 298.8
 - 290-299.99
 drug_or_therapy_used_for_treatment:
-- '[[_Standards/WikiData/WD~antidepressant,76560]]'
-- '[[_Standards/WikiData/WD~psychotherapy,183257]]'
-- '[[_Standards/WikiData/WD~antipsychotics,208144]]'
-- '[[_Standards/WikiData/WD~tranquilizer,1941660]]'
-- '[[_Standards/WikiData/WD~mood_stabilizer,2622367]]'
-- '[[_Standards/WikiData/WD~anxiolytic,62903]]'
+- '[[_Standards/WikiData/WD~antidepressant,76560|WD~antidepressant,76560]]'
+- '[[_Standards/WikiData/WD~psychotherapy,183257|WD~psychotherapy,183257]]'
+- '[[_Standards/WikiData/WD~antipsychotics,208144|WD~antipsychotics,208144]]'
+- '[[_Standards/WikiData/WD~tranquilizer,1941660|WD~tranquilizer,1941660]]'
+- '[[_Standards/WikiData/WD~mood_stabilizer,2622367|WD~mood_stabilizer,2622367]]'
+- '[[_Standards/WikiData/WD~anxiolytic,62903|WD~anxiolytic,62903]]'
 health_specialty:
-- '[[_Standards/WikiData/WD~psychotherapy,183257]]'
-- '[[_Standards/WikiData/WD~clinical_psychology,199906]]'
-- '[[_Standards/WikiData/WD~psychiatry,7867]]'
+- '[[_Standards/WikiData/WD~psychotherapy,183257|WD~psychotherapy,183257]]'
+- '[[_Standards/WikiData/WD~clinical_psychology,199906|WD~clinical_psychology,199906]]'
+- '[[_Standards/WikiData/WD~psychiatry,7867|WD~psychiatry,7867]]'
 possible_treatment:
-- '[[_Standards/WikiData/WD~psychotherapy,183257]]'
-- '[[_Standards/WikiData/WD~psychopharmacology,1515727]]'
-opposite_of: '[[_Standards/WikiData/WD~mental_health,317309]]'
+- '[[_Standards/WikiData/WD~psychotherapy,183257|WD~psychotherapy,183257]]'
+- '[[_Standards/WikiData/WD~psychopharmacology,1515727|WD~psychopharmacology,1515727]]'
+opposite_of: '[[_Standards/WikiData/WD~mental_health,317309|WD~mental_health,317309]]'
 has_effect:
-- '[[_Standards/WikiData/WD~damage,481609]]'
-- '[[_Standards/WikiData/WD~somatic_disease,7101840]]'
-- '[[_Standards/WikiData/WD~suicide,10737]]'
-- '[[_Standards/WikiData/WD~death,4]]'
+- '[[_Standards/WikiData/WD~damage,481609|WD~damage,481609]]'
+- '[[_Standards/WikiData/WD~somatic_disease,7101840|WD~somatic_disease,7101840]]'
+- '[[_Standards/WikiData/WD~suicide,10737|WD~suicide,10737]]'
+- '[[_Standards/WikiData/WD~death,4|WD~death,4]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674|WD~Dresdner_Hefte,14916674]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 different_from:
-- '[[_Standards/WikiData/WD~mental_illness,1499013]]'
-- '[[_Standards/WikiData/WD~somatic_disease,7101840]]'
-has_list: '[[_Standards/WikiData/WD~list_of_mental_disorders,2182963]]'
+- '[[_Standards/WikiData/WD~mental_illness,1499013|WD~mental_illness,1499013]]'
+- '[[_Standards/WikiData/WD~somatic_disease,7101840|WD~somatic_disease,7101840]]'
+has_list: '[[_Standards/WikiData/WD~list_of_mental_disorders,2182963|WD~list_of_mental_disorders,2182963]]'
 partially_coincident_with:
-- '[[_Standards/WikiData/WD~neurological_disorder,3339235]]'
-- '[[_Standards/WikiData/WD~psychosomatic_disease,10267833]]'
+- '[[_Standards/WikiData/WD~neurological_disorder,3339235|WD~neurological_disorder,3339235]]'
+- '[[_Standards/WikiData/WD~psychosomatic_disease,10267833|WD~psychosomatic_disease,10267833]]'
 handled_mitigated_or_managed_by:
-- '[[_Standards/WikiData/WD~treatment_of_mental_disorders,3984210]]'
-- '[[_Standards/WikiData/WD~prevention_of_mental_disorders,48998239]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
-has_cause: '[[_Standards/WikiData/WD~causes_of_mental_disorders,5054620]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Mental_disorders,8096255]]'
-part_of: '[[_Standards/WikiData/WD~mental_and_behavioural_disorders,30085742]]'
+- '[[_Standards/WikiData/WD~treatment_of_mental_disorders,3984210|WD~treatment_of_mental_disorders,3984210]]'
+- '[[_Standards/WikiData/WD~prevention_of_mental_disorders,48998239|WD~prevention_of_mental_disorders,48998239]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686|WD~WikiProject_Medicine,4099686]]'
+has_cause: '[[_Standards/WikiData/WD~causes_of_mental_disorders,5054620|WD~causes_of_mental_disorders,5054620]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Mental_disorders,8096255|WD~Template_Mental_disorders,8096255]]'
+part_of: '[[_Standards/WikiData/WD~mental_and_behavioural_disorders,30085742|WD~mental_and_behavioural_disorders,30085742]]'
 properties_for_this_type: DSM-IV classification
-subclass_of: '[[_Standards/WikiData/WD~disease,12136]]'
+subclass_of: '[[_Standards/WikiData/WD~disease,12136|WD~disease,12136]]'
 DiseasesDB: 28852
 MeSH_tree_code: F03
 ICD_10_CM:

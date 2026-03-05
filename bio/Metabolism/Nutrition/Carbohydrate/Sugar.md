@@ -179,35 +179,35 @@ cssclasses:
 - private
 - note
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
 different_from:
-- '[[_Standards/WikiData/WD~maltose,170002]]'
-- '[[_Standards/WikiData/WD~α-lactose,27104342]]'
-- '[[_Standards/WikiData/WD~beta-L-fructo-furanose,27462479]]'
-- '[[_Standards/WikiData/WD~sugar_product,121599918]]'
-- '[[_Standards/WikiData/WD~carbohydrate,11358]]'
-- '[[_Standards/WikiData/WD~glucose,37525]]'
+- '[[_Standards/WikiData/WD~maltose,170002|WD~maltose,170002]]'
+- '[[_Standards/WikiData/WD~α-lactose,27104342|WD~α-lactose,27104342]]'
+- '[[_Standards/WikiData/WD~beta-L-fructo-furanose,27462479|WD~beta-L-fructo-furanose,27462479]]'
+- '[[_Standards/WikiData/WD~sugar_product,121599918|WD~sugar_product,121599918]]'
+- '[[_Standards/WikiData/WD~carbohydrate,11358|WD~carbohydrate,11358]]'
+- '[[_Standards/WikiData/WD~glucose,37525|WD~glucose,37525]]'
 draft: true
 exact_match:
 - https://ids.clld.org/parameters/5-850
 - http://purl.obolibrary.org/obo/ENVO_00003970
 expiryDate: ''
-has_characteristic: '[[_Standards/WikiData/WD~hygroscopy,216678]]'
+has_characteristic: '[[_Standards/WikiData/WD~hygroscopy,216678|WD~hygroscopy,216678]]'
 has_Template:
 - - Extract~Note~Template
 has_time_started: 2024-12-28
 Iconclass_notation: 41C63
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sugar%202xmacro.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~commodity,317088]]'
-- '[[_Standards/WikiData/WD~excipient,902638]]'
-- '[[_Standards/WikiData/WD~sweetener,3400794]]'
-- '[[_Standards/WikiData/WD~group_or_class_of_chemical_substances,17339814]]'
+- '[[_Standards/WikiData/WD~commodity,317088|WD~commodity,317088]]'
+- '[[_Standards/WikiData/WD~excipient,902638|WD~excipient,902638]]'
+- '[[_Standards/WikiData/WD~sweetener,3400794|WD~sweetener,3400794]]'
+- '[[_Standards/WikiData/WD~group_or_class_of_chemical_substances,17339814|WD~group_or_class_of_chemical_substances,17339814]]'
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -218,9 +218,9 @@ layout: ''
 license: (c)copyrighted
 linkTitle: Sugar
 MeSH_tree_code: D09.947
-named_after: '[[_Standards/WikiData/WD~-ose,158660]]'
+named_after: '[[_Standards/WikiData/WD~-ose,158660|WD~-ose,158660]]'
 OmegaWiki_Defined_Meaning: 3664
-part_of: '[[_Standards/WikiData/WD~cioccolato_di_Modica,1790835]]'
+part_of: '[[_Standards/WikiData/WD~cioccolato_di_Modica,1790835|WD~cioccolato_di_Modica,1790835]]'
 pronunciation_audio:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Q11002-ar.ogg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Jer-Chucre.ogg
@@ -228,8 +228,8 @@ pronunciation_audio:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Ta-%E0%AE%85%E0%AE%B8%E0%AF%8D%E0%AE%95%E0%AE%BE.ogg
 publish: false
 publishDate: ''
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~carbohydrate,11358]]'
-subclass_of: '[[_Standards/WikiData/WD~carbohydrate,11358]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~carbohydrate,11358|WD~carbohydrate,11358]]'
+subclass_of: '[[_Standards/WikiData/WD~carbohydrate,11358|WD~carbohydrate,11358]]'
 tags:
 - Sugar
 title: Sugar
@@ -469,7 +469,7 @@ dv_has_:
 
 > **Sugar** is the generic name for sweet-tasting, soluble carbohydrates, many of which are used in food. 
 > 
-> Specifically it refers to [[Disaccharide/Sucrose]], a [[Disaccharide]], 
+> Specifically it refers to [[Disaccharide/Sucrose|Sucrose]], a [[Disaccharide]], 
 > is a sugar composed of [[Monosaccharide/Glucose|glucose]] and [[Monosaccharide/Fructose|fructose]] subunits. 
 > It is produced naturally in plants and is the main constituent of white sugar. 
 > It has the molecular formula C12H22O11.
@@ -492,7 +492,7 @@ dv_has_:
 >
 > Sugars are found in the tissues of most plants. 
 > Honey and fruits are abundant natural sources of simple sugars. 
-> Sucrose is especially concentrated in [[sugarcane]] a[[../../../bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Amaranth/Betoideae/Sugar_Beet]]], 
+> Sucrose is especially concentrated in [[sugarcane]] a[[../../../bio~Domain/Eukarya/Plant/Land_Plant/Seed_Plant/Flowering_Plant/Eudicots/Core_Eudicots/Caryophyllales/Amaranth/Betoideae/Sugar_Beet|Sugar_Beet]]], 
 > making them ideal for efficient commercial extraction to make refined sugar. 
 > 
 > In 2016, the combined world production of those two crops was about two billion tonnes. 

@@ -10,8 +10,8 @@ aliases:
 - 桃金娘亚科
 - 도금양아과
 has_id_wikidata: Q4296312
-taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280|WD~subfamily,164280]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 Commons_category: Myrtoideae
 taxon_name: Myrtoideae
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Myrtus%20communis.jpg
@@ -71,7 +71,7 @@ dv_has_:
 
 # [[Myrtoideae]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Myrtoideae,4296312]] 
+#is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Myrtoideae,4296312|WD~Myrtoideae,4296312]] 
 
 ## #has_/text_of_/abstract 
 

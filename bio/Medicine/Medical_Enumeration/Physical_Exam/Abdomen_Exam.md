@@ -34,7 +34,7 @@ Tag Instances like this:
 
 Abdomen clinical examination.
 
-#is_/enum_of :: [[../Physical_Exam]]  
+#is_/enum_of :: [[../Physical_Exam|Physical_Exam]]  
 
 ## Confidential Links & Embeds: 
 

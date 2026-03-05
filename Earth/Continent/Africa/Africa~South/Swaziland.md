@@ -121,82 +121,82 @@ SpocWebEntityId: 27027
 isDeleted: false
 confidential: public
 capital:
-- '[[_Standards/WikiData/WD~Lobamba,101418]]'
-- '[[_Standards/WikiData/WD~Mbabane,3904]]'
-flag: '[[_Standards/WikiData/WD~flag_of_Eswatini,102993]]'
+- '[[_Standards/WikiData/WD~Lobamba,101418|WD~Lobamba,101418]]'
+- '[[_Standards/WikiData/WD~Mbabane,3904|WD~Mbabane,3904]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Eswatini,102993|WD~flag_of_Eswatini,102993]]'
 instance_of:
-- '[[_Standards/WikiData/WD~landlocked_country,123480]]'
-- '[[_Standards/WikiData/WD~kingdom,417175]]'
-- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~landlocked_country,123480|WD~landlocked_country,123480]]'
+- '[[_Standards/WikiData/WD~kingdom,417175|WD~kingdom,417175]]'
+- '[[_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]'
 member_of:
-- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]'
-- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
-- '[[_Standards/WikiData/WD~FIFA,253414]]'
-- '[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]'
-- '[[_Standards/WikiData/WD~African_Development_Bank,340195]]'
-- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]'
-- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
-- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
-- '[[_Standards/WikiData/WD~Southern_African_Development_Community,816706]]'
-- '[[_Standards/WikiData/WD~International_Development_Association,827525]]'
-- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
-- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
-- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
-- '[[_Standards/WikiData/WD~Southern_African_Customs_Union,1344350]]'
-- '[[_Standards/WikiData/WD~Association_of_National_Olympic_Committees,2867530]]'
-- '[[_Standards/WikiData/WD~United_Nations,1065]]'
-- '[[_Standards/WikiData/WD~African_Union,7159]]'
-- '[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]'
-- '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
-- '[[_Standards/WikiData/WD~World_Trade_Organization,7825]]'
-- '[[_Standards/WikiData/WD~Interpol,8475]]'
-- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
-- '[[_Standards/WikiData/WD~International_Olympic_Committee,40970]]'
-basic_form_of_government: '[[_Standards/WikiData/WD~absolute_monarchy,184558]]'
-coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Eswatini,269818]]'
+- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~FIFA,253414|WD~FIFA,253414]]'
+- '[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278|WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]'
+- '[[_Standards/WikiData/WD~African_Development_Bank,340195|WD~African_Development_Bank,340195]]'
+- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150|WD~International_Telecommunication_Union,376150]]'
+- '[[_Standards/WikiData/WD~World_Customs_Organization,605326|WD~World_Customs_Organization,605326]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801|WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~Southern_African_Development_Community,816706|WD~Southern_African_Development_Community,816706]]'
+- '[[_Standards/WikiData/WD~International_Development_Association,827525|WD~International_Development_Association,827525]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490|WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770|WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
+- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527|WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[_Standards/WikiData/WD~Southern_African_Customs_Union,1344350|WD~Southern_African_Customs_Union,1344350]]'
+- '[[_Standards/WikiData/WD~Association_of_National_Olympic_Committees,2867530|WD~Association_of_National_Olympic_Committees,2867530]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~African_Union,7159|WD~African_Union,7159]]'
+- '[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785|WD~Commonwealth_of_Nations,7785]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809|WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817|WD~World_Health_Organization,7817]]'
+- '[[_Standards/WikiData/WD~World_Trade_Organization,7825|WD~World_Trade_Organization,7825]]'
+- '[[_Standards/WikiData/WD~Interpol,8475|WD~Interpol,8475]]'
+- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495|WD~Universal_Postal_Union_UPU,17495]]'
+- '[[_Standards/WikiData/WD~International_Olympic_Committee,40970|WD~International_Olympic_Committee,40970]]'
+basic_form_of_government: '[[_Standards/WikiData/WD~absolute_monarchy,184558|WD~absolute_monarchy,184558]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Eswatini,269818|WD~coat_of_arms_of_Eswatini,269818]]'
 contains_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Manzini_Region,305395]]'
-- '[[_Standards/WikiData/WD~Hhohho_-_Mbabane_Region,735570]]'
-- '[[_Standards/WikiData/WD~Shiselweni_Region,845934]]'
-- '[[_Standards/WikiData/WD~Lubombo_Region,856657]]'
-anthem: '[[_Standards/WikiData/WD~Nkulunkulu_Mnikati_wetibusiso_temaSwati,580374]]'
-geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Eswatini,585509]]'
+- '[[_Standards/WikiData/WD~Manzini_Region,305395|WD~Manzini_Region,305395]]'
+- '[[_Standards/WikiData/WD~Hhohho_-_Mbabane_Region,735570|WD~Hhohho_-_Mbabane_Region,735570]]'
+- '[[_Standards/WikiData/WD~Shiselweni_Region,845934|WD~Shiselweni_Region,845934]]'
+- '[[_Standards/WikiData/WD~Lubombo_Region,856657|WD~Lubombo_Region,856657]]'
+anthem: '[[_Standards/WikiData/WD~Nkulunkulu_Mnikati_wetibusiso_temaSwati,580374|WD~Nkulunkulu_Mnikati_wetibusiso_temaSwati,580374]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Eswatini,585509|WD~geography_of_Eswatini,585509]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-different_from: '[[_Standards/WikiData/WD~Wituland,705598]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+different_from: '[[_Standards/WikiData/WD~Wituland,705598|WD~Wituland,705598]]'
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~South_African_Standard_Time,770321]]'
-- '[[_Standards/WikiData/WD~Africa_Mbabane,4689512]]'
-- '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
-diocese: '[[_Standards/WikiData/WD~Roman_Catholic_Diocese_of_Manzini,871940]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_Eswatini,902521]]'
-highest_point: '[[_Standards/WikiData/WD~Emlembe,1337951]]'
-electrical_plug_type: '[[_Standards/WikiData/WD~BS_546,1383497]]'
-lowest_point: '[[_Standards/WikiData/WD~Maputo_River,2452912]]'
-demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Eswatini,2593103]]'
-culture: '[[_Standards/WikiData/WD~culture_of_Eswatini,2662679]]'
-economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Eswatini,2750197]]'
+- '[[_Standards/WikiData/WD~South_African_Standard_Time,770321|WD~South_African_Standard_Time,770321]]'
+- '[[_Standards/WikiData/WD~Africa_Mbabane,4689512|WD~Africa_Mbabane,4689512]]'
+- '[[_Standards/WikiData/WD~UTC+02_00,6723|WD~UTC+02_00,6723]]'
+diocese: '[[_Standards/WikiData/WD~Roman_Catholic_Diocese_of_Manzini,871940|WD~Roman_Catholic_Diocese_of_Manzini,871940]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Eswatini,902521|WD~history_of_Eswatini,902521]]'
+highest_point: '[[_Standards/WikiData/WD~Emlembe,1337951|WD~Emlembe,1337951]]'
+electrical_plug_type: '[[_Standards/WikiData/WD~BS_546,1383497|WD~BS_546,1383497]]'
+lowest_point: '[[_Standards/WikiData/WD~Maputo_River,2452912|WD~Maputo_River,2452912]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Eswatini,2593103|WD~demographics_of_Eswatini,2593103]]'
+culture: '[[_Standards/WikiData/WD~culture_of_Eswatini,2662679|WD~culture_of_Eswatini,2662679]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Eswatini,2750197|WD~economy_of_Eswatini,2750197]]'
 emergency_phone_number:
-- '[[_Standards/WikiData/WD~999,3086706]]'
-- '[[_Standards/WikiData/WD~933,25648911]]'
-- '[[_Standards/WikiData/WD~977,25648912]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Eswatini,7112467]]'
-legislative_body: '[[_Standards/WikiData/WD~Parliament_of_Eswatini,7138942]]'
-category_for_people_born_here: '[[_Standards/WikiData/WD~Q8071808,8071808]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Eswatini,10274964]]'
+- '[[_Standards/WikiData/WD~999,3086706|WD~999,3086706]]'
+- '[[_Standards/WikiData/WD~933,25648911|WD~933,25648911]]'
+- '[[_Standards/WikiData/WD~977,25648912|WD~977,25648912]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Eswatini,7112467|WD~outline_of_Eswatini,7112467]]'
+legislative_body: '[[_Standards/WikiData/WD~Parliament_of_Eswatini,7138942|WD~Parliament_of_Eswatini,7138942]]'
+category_for_people_born_here: '[[_Standards/WikiData/WD~Q8071808,8071808|WD~Q8071808,8071808]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Eswatini,10274964|WD~Portal_Eswatini,10274964]]'
 coordinates_of_easternmost_point: Point(32.13488638 -26.52680065)
-driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
-follows: '[[_Standards/WikiData/WD~British_Swaziland,21815946]]'
-office_held_by_head_of_state: '[[_Standards/WikiData/WD~King_of_Eswatini,29570674]]'
-office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Eswatini,30101440]]'
+driving_side: '[[_Standards/WikiData/WD~left,13196750|WD~left,13196750]]'
+follows: '[[_Standards/WikiData/WD~British_Swaziland,21815946|WD~British_Swaziland,21815946]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~King_of_Eswatini,29570674|WD~King_of_Eswatini,29570674]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Eswatini,30101440|WD~Prime_Minister_of_Eswatini,30101440]]'
 Commons_category: Eswatini
 Commons_gallery: Eswatini
-has_characteristic: '[[_Standards/WikiData/WD~not-free_country,47185282]]'
-head_of_government: '[[_Standards/WikiData/WD~Russell_Dlamini,123342092]]'
+has_characteristic: '[[_Standards/WikiData/WD~not-free_country,47185282|WD~not-free_country,47185282]]'
+head_of_government: '[[_Standards/WikiData/WD~Russell_Dlamini,123342092|WD~Russell_Dlamini,123342092]]'
 geoshape: http://commons.wikimedia.org/data/main/Data:Eswatini.map
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Eswatini%20banner%20Traditional%20houses.jpg
 detail_map: http://commons.wikimedia.org/wiki/Special:FilePath/Eswatini%2C%20administrative%20divisions%20-%20de%20-%20colored.svg
@@ -301,25 +301,25 @@ coordinates_of_westernmost_point: Point(30.79066247 -26.71501235)
 U_S_National_Archives_Identifier: 10044270
 coordinate_location: Point(31.433333 -26.483333)
 diplomatic_relation:
-- '[[_Standards/WikiData/WD~South_Africa,258]]'
-- '[[_Standards/WikiData/WD~North_Korea,423]]'
-- '[[_Standards/WikiData/WD~European_Union,458]]'
-- '[[_Standards/WikiData/WD~Taiwan,865]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~Russia,159]]'
-- '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~South_Africa,258|WD~South_Africa,258]]'
+- '[[_Standards/WikiData/WD~North_Korea,423|WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~European_Union,458|WD~European_Union,458]]'
+- '[[_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
 shares_border_with:
-- '[[_Standards/WikiData/WD~South_Africa,258]]'
-- '[[_Standards/WikiData/WD~Mozambique,1029]]'
-country: '[[_Standards/WikiData/WD~Eswatini,1050]]'
+- '[[_Standards/WikiData/WD~South_Africa,258|WD~South_Africa,258]]'
+- '[[_Standards/WikiData/WD~Mozambique,1029|WD~Mozambique,1029]]'
+country: '[[_Standards/WikiData/WD~Eswatini,1050|WD~Eswatini,1050]]'
 language_used:
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~Swazi,34014]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Swazi,34014|WD~Swazi,34014]]'
 official_language:
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~Swazi,34014]]'
-part_of: '[[_Standards/WikiData/WD~Southern_Africa,27394]]'
-continent: '[[_Standards/WikiData/WD~Africa,15]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Swazi,34014|WD~Swazi,34014]]'
+part_of: '[[_Standards/WikiData/WD~Southern_Africa,27394|WD~Southern_Africa,27394]]'
+continent: '[[_Standards/WikiData/WD~Africa,15|WD~Africa,15]]'
 suicide_rate:
 - 12
 - 11.6
@@ -334,7 +334,7 @@ BTI_Governance_Index:
 - 3.06
 - 3.12
 Democracy_Index: 3.08
-top_level_Internet_domain: '[[_Standards/WikiData/WD~.sz,43149]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.sz,43149|WD~.sz,43149]]'
 BTI_Status_Index:
 - 3.51
 - 3.56
@@ -342,7 +342,7 @@ Happy_Planet_Index_score: 35.3
 Inequality_adjusted_Human_Development_Index: 0.424
 Gini_coefficient: 54.6
 Human_Development_Index: 0.597
-head_of_state: '[[_Standards/WikiData/WD~Mswati_III,57340]]'
+head_of_state: '[[_Standards/WikiData/WD~Mswati_III,57340|WD~Mswati_III,57340]]'
 licence_plate_code: SD
 total_fertility_rate: 3.266
 death_rate:
@@ -657,7 +657,7 @@ dv_has_name_en: Swaziland
 dv_has_name_de: Swasiland
 dv_Area-Total: 17363
 dv_Area-Land: 17200
-dv_has_place_continent: '[[../../Africa]]'
+dv_has_place_continent: '[[../../Africa|Africa]]'
 dv_VehicleCode: SD
 dv_Alcohol-l: 5.7
 dv_Language-Id: 499
@@ -685,7 +685,7 @@ Unicode_character: 🇸🇿
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Swaziland/ReadMe]] 
+[[Swaziland/ReadMe|ReadMe]] 
 
 ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3`
@@ -711,7 +711,7 @@ has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
 Capital :: [[Mbabane]]  
 ![[Coat_of_arms_of_Swaziland.svg|350]]
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Swaziland.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Swaziland.mp3|Anthem-Swaziland.mp3]]
 ![[Flag_of_Swaziland.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`

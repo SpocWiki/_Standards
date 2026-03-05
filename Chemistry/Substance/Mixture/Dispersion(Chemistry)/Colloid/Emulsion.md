@@ -47,13 +47,13 @@ aliases:
 - 乳濁液
 - 에멀션
 has_id_wikidata: Q187634
-subclass_of: '[[_Standards/WikiData/WD~colloid,181780]]'
+subclass_of: '[[_Standards/WikiData/WD~colloid,181780|WD~colloid,181780]]'
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517|WD~Small_Soviet_Encyclopedia,66386517]]'
 OmegaWiki_Defined_Meaning: 1162
 UNSPSC_Code: 12161804
 Dewey_Decimal_Classification:

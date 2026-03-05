@@ -33,9 +33,9 @@ Tag Instances like this:
 
 A nurse-like health profession that deals with pregnancy, childbirth, and the postpartum period (including care of the newborn), besides sexual and reproductive health of women throughout their lives.
 
-#has_/parent_class :: [[../MedicalBusiness, MedicalSpecialty]]  
+#has_/parent_class :: [[../MedicalBusiness, MedicalSpecialty|MedicalBusiness, MedicalSpecialty]]  
 
-#is_/enum_of :: [[../MedicalSpecialty]]  
+#is_/enum_of :: [[../MedicalSpecialty|MedicalSpecialty]]  
 
 ## Confidential Links & Embeds: 
 

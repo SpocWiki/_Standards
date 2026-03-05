@@ -70,27 +70,27 @@ aliases:
 - 四大元素
 - 사대 원소
 has_id_wikidata: Q188520
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~classical_element,200230]]'
-followed_by: '[[_Standards/WikiData/WD~four_temperaments,638210]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~classical_element,200230|WD~classical_element,200230]]'
+followed_by: '[[_Standards/WikiData/WD~four_temperaments,638210|WD~four_temperaments,638210]]'
 instance_of:
-- '[[_Standards/WikiData/WD~Big_Four,858894]]'
-- '[[_Standards/WikiData/WD~tetrad,29428373]]'
-- '[[_Standards/WikiData/WD~theory,17737]]'
+- '[[_Standards/WikiData/WD~Big_Four,858894|WD~Big_Four,858894]]'
+- '[[_Standards/WikiData/WD~tetrad,29428373|WD~tetrad,29428373]]'
+- '[[_Standards/WikiData/WD~theory,17737|WD~theory,17737]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~earth,2488752]]'
-- '[[_Standards/WikiData/WD~air,2637489]]'
-- '[[_Standards/WikiData/WD~water,2637515]]'
-- '[[_Standards/WikiData/WD~fire,2723512]]'
-facet_of: '[[_Standards/WikiData/WD~astrology_and_the_classical_elements,4811586]]'
-has_use: '[[_Standards/WikiData/WD~astrology_and_the_classical_elements,4811586]]'
-different_from: '[[_Standards/WikiData/WD~Żywioły,9397843]]'
-follows: '[[_Standards/WikiData/WD~the_primordial_substance,113083784]]'
+- '[[_Standards/WikiData/WD~earth,2488752|WD~earth,2488752]]'
+- '[[_Standards/WikiData/WD~air,2637489|WD~air,2637489]]'
+- '[[_Standards/WikiData/WD~water,2637515|WD~water,2637515]]'
+- '[[_Standards/WikiData/WD~fire,2723512|WD~fire,2723512]]'
+facet_of: '[[_Standards/WikiData/WD~astrology_and_the_classical_elements,4811586|WD~astrology_and_the_classical_elements,4811586]]'
+has_use: '[[_Standards/WikiData/WD~astrology_and_the_classical_elements,4811586|WD~astrology_and_the_classical_elements,4811586]]'
+different_from: '[[_Standards/WikiData/WD~Żywioły,9397843|WD~Żywioły,9397843]]'
+follows: '[[_Standards/WikiData/WD~the_primordial_substance,113083784|WD~the_primordial_substance,113083784]]'
 depicted_by:
-- '[[_Standards/WikiData/WD~Sala_degli_Elementi_ceiling,131617921]]'
-- '[[_Standards/WikiData/WD~Four_elements,131812906]]'
+- '[[_Standards/WikiData/WD~Sala_degli_Elementi_ceiling,131617921|WD~Sala_degli_Elementi_ceiling,131617921]]'
+- '[[_Standards/WikiData/WD~Four_elements,131812906|WD~Four_elements,131812906]]'
 Iconclass_notation: 21
 Stack_Exchange_tag: https://worldbuilding.stackexchange.com/tags/classical-elements
 Commons_category: Classical elements

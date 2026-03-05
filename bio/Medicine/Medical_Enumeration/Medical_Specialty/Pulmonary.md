@@ -33,9 +33,9 @@ Tag Instances like this:
 
 A specific branch of medical science that pertains to the study of the respiratory system and its respective disease states.
 
-#has_/parent_class :: [[../MedicalSpecialty]]  
+#has_/parent_class :: [[../MedicalSpecialty|MedicalSpecialty]]  
 
-#is_/enum_of :: [[../MedicalSpecialty]]  
+#is_/enum_of :: [[../MedicalSpecialty|MedicalSpecialty]]  
 
 ## Confidential Links & Embeds: 
 

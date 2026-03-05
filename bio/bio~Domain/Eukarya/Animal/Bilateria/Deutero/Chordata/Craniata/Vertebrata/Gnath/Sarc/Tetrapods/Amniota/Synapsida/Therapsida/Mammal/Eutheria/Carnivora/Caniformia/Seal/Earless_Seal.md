@@ -77,16 +77,16 @@ aliases:
 - 海豹科
 - 물범과
 has_id_wikidata: Q25587
-taxonomic_type: '[[_Standards/WikiData/WD~Phoca,878742]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Phoca,878742|WD~Phoca,878742]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-topic_has_template: '[[_Standards/WikiData/WD~Template_Taxonomy_Phocidae,13219674]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~earless_seal,114237066]]'
-parent_taxon: '[[_Standards/WikiData/WD~Phocoidea,119809215]]'
-uses: '[[_Standards/WikiData/WD~galumphing,134300141]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+topic_has_template: '[[_Standards/WikiData/WD~Template_Taxonomy_Phocidae,13219674|WD~Template_Taxonomy_Phocidae,13219674]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~earless_seal,114237066|WD~earless_seal,114237066]]'
+parent_taxon: '[[_Standards/WikiData/WD~Phocoidea,119809215|WD~Phocoidea,119809215]]'
+uses: '[[_Standards/WikiData/WD~galumphing,134300141|WD~galumphing,134300141]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409|WD~family,35409]]'
 ITIS_TSN: 180640
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9D%D0%B5%D1%80%D0%BF%D0%B8%D1%87%D0%B8%D0%B9%20%D0%B2%D0%B7%D0%B3%D0%BB%D1%8F%D0%B4.jpg

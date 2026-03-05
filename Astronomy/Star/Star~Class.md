@@ -36,7 +36,7 @@ Masses are in solar Mass M☉
 | > 40       | Pair-instability regime | > 5 M☉      |        0.1 | Direct collapse or pair-instability supernova |
 
 
-![[Star~Class/_StarClass~DbFolder]]
+![[Star~Class/_StarClass~DbFolder|_StarClass~DbFolder]]
 
 ```dataview 
 TABLE 

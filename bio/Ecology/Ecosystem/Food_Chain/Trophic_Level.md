@@ -36,9 +36,9 @@ aliases:
 - 营养级
 - 영양 단계
 has_id_wikidata: Q1053008
-part_of: '[[_Standards/WikiData/WD~food_chain,159462]]'
-instance_of: '[[_Standards/WikiData/WD~role,4897819]]'
-different_from: '[[_Standards/WikiData/WD~Trophic_level_index,7845626]]'
+part_of: '[[_Standards/WikiData/WD~food_chain,159462|WD~food_chain,159462]]'
+instance_of: '[[_Standards/WikiData/WD~role,4897819|WD~role,4897819]]'
+different_from: '[[_Standards/WikiData/WD~Trophic_level_index,7845626|WD~Trophic_level_index,7845626]]'
 dv_has_:
   name_:
     af: trofiese vlak

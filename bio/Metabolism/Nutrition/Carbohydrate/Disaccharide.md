@@ -152,16 +152,16 @@ dv_has_:
 
 #has_/parent_class :: [[Oligosaccharide]] 
 #has_/child_/class :: [[Monosaccharide]] 
-#has_/instances :: [[Disaccharide/Lactose]] 
-#has_/instances :: [[Disaccharide/Maltose]] 
-#has_/instances :: [[Disaccharide/Sucrose]]  
+#has_/instances :: [[Disaccharide/Lactose|Lactose]] 
+#has_/instances :: [[Disaccharide/Maltose|Maltose]] 
+#has_/instances :: [[Disaccharide/Sucrose|Sucrose]]  
 
 ## #has_/text_of_/abstract 
 
 > A **Disaccharide** (also called a double sugar or biose) is the sugar 
 > formed when two monosaccharides are joined by glycosidic linkage. 
 > Like monosaccharides, disaccharides are simple sugars soluble in water. 
-> Three common examples are sucrose, [[Disaccharide/Lactose]], and [[Disaccharide/Maltose]].
+> Three common examples are sucrose, [[Disaccharide/Lactose|Lactose]], and [[Disaccharide/Maltose|Maltose]].
 >
 > Disaccharides are one of the four chemical groupings of carbohydrates (monosaccharides, disaccharides, oligosaccharides, and polysaccharides). The most common types of disaccharides—sucrose, lactose, and maltose—have 12 carbon atoms, with the general formula C12H22O11. The differences in these disaccharides are due to atomic arrangements within the molecule.
 >

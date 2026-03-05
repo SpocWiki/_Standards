@@ -36,16 +36,16 @@ aliases:
 - 배우체
 has_id_wikidata: Q189951
 part_of:
-- '[[_Standards/WikiData/WD~biological_life_cycle,513359]]'
-- '[[_Standards/WikiData/WD~gametophyte_development,22298593]]'
-opposite_of: '[[_Standards/WikiData/WD~sporophyte,647173]]'
+- '[[_Standards/WikiData/WD~biological_life_cycle,513359|WD~biological_life_cycle,513359]]'
+- '[[_Standards/WikiData/WD~gametophyte_development,22298593|WD~gametophyte_development,22298593]]'
+opposite_of: '[[_Standards/WikiData/WD~sporophyte,647173|WD~sporophyte,647173]]'
 facet_of:
-- '[[_Standards/WikiData/WD~alternation_of_generations,725951]]'
-- '[[_Standards/WikiData/WD~multicellular_organism,36458]]'
-different_from: '[[_Standards/WikiData/WD~gametocyte,3319949]]'
-has_characteristic: '[[_Standards/WikiData/WD~haploidy,3620638]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-subclass_of: '[[_Standards/WikiData/WD~multicellular_organism,36458]]'
+- '[[_Standards/WikiData/WD~alternation_of_generations,725951|WD~alternation_of_generations,725951]]'
+- '[[_Standards/WikiData/WD~multicellular_organism,36458|WD~multicellular_organism,36458]]'
+different_from: '[[_Standards/WikiData/WD~gametocyte,3319949|WD~gametocyte,3319949]]'
+has_characteristic: '[[_Standards/WikiData/WD~haploidy,3620638|WD~haploidy,3620638]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+subclass_of: '[[_Standards/WikiData/WD~multicellular_organism,36458|WD~multicellular_organism,36458]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Alternation%20of%20generations%20simpler.svg
 Commons_category: Gametophytes
 dv_has_:

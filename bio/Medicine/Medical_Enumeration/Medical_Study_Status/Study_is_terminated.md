@@ -35,9 +35,9 @@ Tag Instances like this:
 
 Terminated.
 
-#has_/parent_class :: [[../MedicalStudyStatus]]  
+#has_/parent_class :: [[../MedicalStudyStatus|MedicalStudyStatus]]  
 
-#is_/enum_of :: [[../MedicalStudyStatus]]  
+#is_/enum_of :: [[../MedicalStudyStatus|MedicalStudyStatus]]  
 
 ## Confidential Links & Embeds: 
 

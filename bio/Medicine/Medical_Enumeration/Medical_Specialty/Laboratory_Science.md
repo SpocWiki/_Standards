@@ -38,9 +38,9 @@ Tag Instances like this:
 A medical science pertaining to chemical, hematological, immunologic, microscopic, 
 or bacteriological diagnostic analyses or research.
 
-#has_/parent_class :: [[../MedicalSpecialty]]  
+#has_/parent_class :: [[../MedicalSpecialty|MedicalSpecialty]]  
 
-#is_/enum_of :: [[../MedicalSpecialty]]  
+#is_/enum_of :: [[../MedicalSpecialty|MedicalSpecialty]]  
 
 ## Confidential Links & Embeds: 
 

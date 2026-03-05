@@ -54,17 +54,17 @@ aliases:
 - 비타민 B12
 has_id_wikidata: Q187706
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Alexander_R._Todd,_Baron_Todd,157242]]'
-- '[[_Standards/WikiData/WD~Karl_August_Folkers,268874]]'
-- '[[_Standards/WikiData/WD~Mary_Shaw_Shorb,6780705]]'
+- '[[_Standards/WikiData/WD~Alexander_R._Todd,_Baron_Todd,157242|WD~Alexander_R._Todd,_Baron_Todd,157242]]'
+- '[[_Standards/WikiData/WD~Karl_August_Folkers,268874|WD~Karl_August_Folkers,268874]]'
+- '[[_Standards/WikiData/WD~Mary_Shaw_Shorb,6780705|WD~Mary_Shaw_Shorb,6780705]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~vitamin_B,183206]]'
-- '[[_Standards/WikiData/WD~metabolite,407595]]'
-- '[[_Standards/WikiData/WD~cobalamin,71272629]]'
-has_characteristic: '[[_Standards/WikiData/WD~hygroscopy,216678]]'
-different_from: '[[_Standards/WikiData/WD~cyanocobalamin,252251]]'
-medical_condition_treated: '[[_Standards/WikiData/WD~vitamin_B12_deficiency,3234995]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Vitamin_B12,7370305]]'
+- '[[_Standards/WikiData/WD~vitamin_B,183206|WD~vitamin_B,183206]]'
+- '[[_Standards/WikiData/WD~metabolite,407595|WD~metabolite,407595]]'
+- '[[_Standards/WikiData/WD~cobalamin,71272629|WD~cobalamin,71272629]]'
+has_characteristic: '[[_Standards/WikiData/WD~hygroscopy,216678|WD~hygroscopy,216678]]'
+different_from: '[[_Standards/WikiData/WD~cyanocobalamin,252251|WD~cyanocobalamin,252251]]'
+medical_condition_treated: '[[_Standards/WikiData/WD~vitamin_B12_deficiency,3234995|WD~vitamin_B12_deficiency,3234995]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Vitamin_B12,7370305|WD~Category_Vitamin_B12,7370305]]'
 mass: 1355.38
 PubChem_CID: 184933
 OmegaWiki_Defined_Meaning: 682583

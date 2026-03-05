@@ -61,14 +61,14 @@ has_id_wikidata: Q1359
 Commons_category: Chelicerata
 EPPO_Code: 1CHELQ
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Black%20scorpion.jpg
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 IPA_transcription: ˌt͡ʃɛlɪˈsɜɹɑtə
 ITIS_TSN: 82697
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Chelicerata%20collage%202-3.png
 OmegaWiki_Defined_Meaning: 538
 parent_taxon:
-- '[[_Standards/WikiData/WD~Arachnomorpha,3773000]]'
-- '[[_Standards/WikiData/WD~Heptopodomera,112271405]]'
+- '[[_Standards/WikiData/WD~Arachnomorpha,3773000|WD~Arachnomorpha,3773000]]'
+- '[[_Standards/WikiData/WD~Heptopodomera,112271405|WD~Heptopodomera,112271405]]'
 start_time: -508000000-01-01
 taxon_common_name:
 - Örümceğimsiler
@@ -92,7 +92,7 @@ taxon_common_name:
 - Palpkäkar
 - เชลิเซอราตา
 taxon_name: Chelicerata
-taxon_rank: '[[_Standards/WikiData/WD~subphylum,1153785]]'
+taxon_rank: '[[_Standards/WikiData/WD~subphylum,1153785|WD~subphylum,1153785]]'
 UMLS_CUI: C0998333
 dv_has_:
   name_:

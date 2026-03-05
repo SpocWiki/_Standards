@@ -55,28 +55,28 @@ aliases:
 - 체로키족
 has_id_wikidata: Q105405
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875|WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 religion_or_worldview:
-- '[[_Standards/WikiData/WD~Native_American_Church,920084]]'
-- '[[_Standards/WikiData/WD~Christianity,5043]]'
-- '[[_Standards/WikiData/WD~animism,43004]]'
-history_of_topic: '[[_Standards/WikiData/WD~Cherokee_history,5092233]]'
-flag: '[[_Standards/WikiData/WD~flag_of_the_Cherokee_Nation,5456858]]'
+- '[[_Standards/WikiData/WD~Native_American_Church,920084|WD~Native_American_Church,920084]]'
+- '[[_Standards/WikiData/WD~Christianity,5043|WD~Christianity,5043]]'
+- '[[_Standards/WikiData/WD~animism,43004|WD~animism,43004]]'
+history_of_topic: '[[_Standards/WikiData/WD~Cherokee_history,5092233|WD~Cherokee_history,5092233]]'
+flag: '[[_Standards/WikiData/WD~flag_of_the_Cherokee_Nation,5456858|WD~flag_of_the_Cherokee_Nation,5456858]]'
 languages_spoken_written_or_signed:
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~Cherokee,33388]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Cherokee,33388|WD~Cherokee,33388]]'
 native_language:
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~Cherokee,33388]]'
-country: '[[_Standards/WikiData/WD~United_States,30]]'
-language_used: '[[_Standards/WikiData/WD~Cherokee,33388]]'
-instance_of: '[[_Standards/WikiData/WD~ethnic_group,41710]]'
-subclass_of: '[[_Standards/WikiData/WD~Native_Americans_in_the_United_States,49297]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Cherokee,33388|WD~Cherokee,33388]]'
+country: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+language_used: '[[_Standards/WikiData/WD~Cherokee,33388|WD~Cherokee,33388]]'
+instance_of: '[[_Standards/WikiData/WD~ethnic_group,41710|WD~ethnic_group,41710]]'
+subclass_of: '[[_Standards/WikiData/WD~Native_Americans_in_the_United_States,49297|WD~Native_Americans_in_the_United_States,49297]]'
 Commons_category: Cherokee
 population: 299862
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Cherokee%20Nation.svg

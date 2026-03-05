@@ -36,15 +36,15 @@ aliases:
 - 分散系
 - 분산계
 has_id_wikidata: Q178697
-different_from: '[[_Standards/WikiData/WD~Dispersion,219345]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~thermodynamic_system,503327]]'
+different_from: '[[_Standards/WikiData/WD~Dispersion,219345|WD~Dispersion,219345]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~thermodynamic_system,503327|WD~thermodynamic_system,503327]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~state,3505845]]'
-- '[[_Standards/WikiData/WD~heterogeneous_mixture,11780457]]'
-has_part_s_: '[[_Standards/WikiData/WD~dispersed_phase,12101200]]'
+- '[[_Standards/WikiData/WD~state,3505845|WD~state,3505845]]'
+- '[[_Standards/WikiData/WD~heterogeneous_mixture,11780457|WD~heterogeneous_mixture,11780457]]'
+has_part_s_: '[[_Standards/WikiData/WD~dispersed_phase,12101200|WD~dispersed_phase,12101200]]'
 dv_is_:
   same_as:
   - '[[../../../WikiData/WD~Dispersion,178697|WD~Dispersion,178697]]'

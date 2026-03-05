@@ -5,9 +5,9 @@ aliases:
 - آسياوية
 - 桃金娘族
 has_id_wikidata: Q13420292
-taxon_rank: '[[_Standards/WikiData/WD~tribe,227936]]'
-parent_taxon: '[[../../../../../../../../../../../../../WikiData/WD~Myrtoideae,4296312]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~tribe,227936|WD~tribe,227936]]'
+parent_taxon: '[[../../../../../../../../../../../../../WikiData/WD~Myrtoideae,4296312|WD~Myrtoideae,4296312]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Acca%20sellowiana%20RJB.jpg
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomyfamily.aspx?type=tribe&id=2433
 UMLS_CUI: C4096990
@@ -64,7 +64,7 @@ dv_has_:
 
 # [[Myrteae]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../../WikiData/WD~Myrteae,13420292]] 
+#is_/same_as :: [[../../../../../../../../../../../../../WikiData/WD~Myrteae,13420292|WD~Myrteae,13420292]] 
 
 ## #has_/text_of_/abstract 
 

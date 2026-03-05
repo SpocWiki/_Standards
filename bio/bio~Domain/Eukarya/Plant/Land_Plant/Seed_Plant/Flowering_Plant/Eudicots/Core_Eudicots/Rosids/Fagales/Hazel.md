@@ -69,20 +69,20 @@ Amazon_com_browse_node: 6492300011
 carbon_footprint: 5.3
 Commons_category: Hazelnuts
 food_energy: 628
-has_part_s_: '[[_Standards/WikiData/WD~hazelnut_shell,55758405]]'
+has_part_s_: '[[_Standards/WikiData/WD~hazelnut_shell,55758405|WD~hazelnut_shell,55758405]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Hazelnuts%20%28Corylus%20avellana%29%20-%20whole%20with%20kernels.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Corylus%20avellana.jpg
-instance_of: '[[_Standards/WikiData/WD~food_ingredient,25403900]]'
-natural_product_of_taxon: '[[_Standards/WikiData/WD~Corylus_avellana,124969]]'
+instance_of: '[[_Standards/WikiData/WD~food_ingredient,25403900|WD~food_ingredient,25403900]]'
+natural_product_of_taxon: '[[_Standards/WikiData/WD~Corylus_avellana,124969|WD~Corylus_avellana,124969]]'
 OmegaWiki_Defined_Meaning: 404765
-part_of: '[[_Standards/WikiData/WD~Turkish_cuisine,654493]]'
+part_of: '[[_Standards/WikiData/WD~Turkish_cuisine,654493|WD~Turkish_cuisine,654493]]'
 PLU_code: 4928
 subclass_of:
-- '[[_Standards/WikiData/WD~seed,1762933]]'
-- '[[_Standards/WikiData/WD~nut,3320037]]'
-- '[[_Standards/WikiData/WD~hazelnut,104738415]]'
-- '[[_Standards/WikiData/WD~nut,11009]]'
+- '[[_Standards/WikiData/WD~seed,1762933|WD~seed,1762933]]'
+- '[[_Standards/WikiData/WD~nut,3320037|WD~nut,3320037]]'
+- '[[_Standards/WikiData/WD~hazelnut,104738415|WD~hazelnut,104738415]]'
+- '[[_Standards/WikiData/WD~nut,11009|WD~nut,11009]]'
 UNII: 4U47CHZ7DL
 water_footprint:
 - 5258

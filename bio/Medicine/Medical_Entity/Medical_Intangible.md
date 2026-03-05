@@ -34,7 +34,7 @@ Tag Instances like this:
 
 A utility class that serves as the umbrella for a number of 'intangible' things in the medical space.
 
-#has_/parent_class :: [[../MedicalEntity]]  
+#has_/parent_class :: [[../MedicalEntity|MedicalEntity]]  
 
 #has_/child_/class :: [ DDxElement, DoseSchedule, DrugLegalStatus, DrugStrength, MedicalCode, MedicalConditionStage ]  
 

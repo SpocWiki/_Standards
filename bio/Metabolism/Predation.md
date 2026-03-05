@@ -72,14 +72,14 @@ aliases:
 - 포식
 has_id_wikidata: Q170430
 subclass_of:
-- '[[_Standards/WikiData/WD~killing,844482]]'
-- '[[_Standards/WikiData/WD~feeding_behavior,14819856]]'
-- '[[_Standards/WikiData/WD~cross_species_interaction,111171519]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-part_of: '[[_Standards/WikiData/WD~predator_prey_system,2178572]]'
-objects_of_occurrence_have_role: '[[_Standards/WikiData/WD~prey,3528593]]'
-role_of_agent_s_of_action: '[[_Standards/WikiData/WD~predator,29017578]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~predator,29017578]]'
+- '[[_Standards/WikiData/WD~killing,844482|WD~killing,844482]]'
+- '[[_Standards/WikiData/WD~feeding_behavior,14819856|WD~feeding_behavior,14819856]]'
+- '[[_Standards/WikiData/WD~cross_species_interaction,111171519|WD~cross_species_interaction,111171519]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+part_of: '[[_Standards/WikiData/WD~predator_prey_system,2178572|WD~predator_prey_system,2178572]]'
+objects_of_occurrence_have_role: '[[_Standards/WikiData/WD~prey,3528593|WD~prey,3528593]]'
+role_of_agent_s_of_action: '[[_Standards/WikiData/WD~predator,29017578|WD~predator,29017578]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~predator,29017578|WD~predator,29017578]]'
 OmegaWiki_Defined_Meaning: 755123
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/GreatBlueHeronTampaFL.JPG

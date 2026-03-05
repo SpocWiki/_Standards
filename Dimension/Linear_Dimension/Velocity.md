@@ -157,22 +157,22 @@ defining_formula: >-
     </semantics>
   </math>
 described_by_source:
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~ISO_80000-3_2006_Quantities_and_units___Part_3__Space_and_time,26711932]]'
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-- '[[_Standards/WikiData/WD~ISO_80000-3_2019_Quantities_and_units___Part_3__Space_and_time,90137277]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~ISO_80000-3_2006_Quantities_and_units___Part_3__Space_and_time,26711932|WD~ISO_80000-3_2006_Quantities_and_units___Part_3__Space_and_time,26711932]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~ISO_80000-3_2019_Quantities_and_units___Part_3__Space_and_time,90137277|WD~ISO_80000-3_2019_Quantities_and_units___Part_3__Space_and_time,90137277]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 different_from:
-- '[[_Standards/WikiData/WD~average_speed,1267186]]'
-- '[[_Standards/WikiData/WD~speed,3711325]]'
-- '[[_Standards/WikiData/WD~proper_velocity,7250186]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Pierre_Varignon,379219]]'
-followed_by: '[[_Standards/WikiData/WD~acceleration,11376]]'
-follows: '[[_Standards/WikiData/WD~displacement,190291]]'
+- '[[_Standards/WikiData/WD~average_speed,1267186|WD~average_speed,1267186]]'
+- '[[_Standards/WikiData/WD~speed,3711325|WD~speed,3711325]]'
+- '[[_Standards/WikiData/WD~proper_velocity,7250186|WD~proper_velocity,7250186]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Pierre_Varignon,379219|WD~Pierre_Varignon,379219]]'
+followed_by: '[[_Standards/WikiData/WD~acceleration,11376|WD~acceleration,11376]]'
+follows: '[[_Standards/WikiData/WD~displacement,190291|WD~displacement,190291]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~orientation,2235286]]'
-- '[[_Standards/WikiData/WD~speed,3711325]]'
+- '[[_Standards/WikiData/WD~orientation,2235286|WD~orientation,2235286]]'
+- '[[_Standards/WikiData/WD~speed,3711325|WD~speed,3711325]]'
 IEV_number: 113-01-32
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Vector%20snelheid-Plain.svg
 in_defining_formula:
@@ -239,7 +239,7 @@ ISQ_dimension: >-
       <annotation encoding="application/x-tex">{\displaystyle {\mathsf {L}}{\mathsf {T}}^{-1}}</annotation>
     </semantics>
   </math>
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 OmegaWiki_Defined_Meaning: 1434233
 quantity_symbol_LaTeX_:
 - >-
@@ -336,13 +336,13 @@ quantity_symbol_LaTeX_:
     </semantics>
   </math>
 recommended_unit_of_measurement:
-- '[[_Standards/WikiData/WD~kilometre_per_hour,180154]]'
-- '[[_Standards/WikiData/WD~metre_per_second,182429]]'
+- '[[_Standards/WikiData/WD~kilometre_per_hour,180154|WD~kilometre_per_hour,180154]]'
+- '[[_Standards/WikiData/WD~metre_per_second,182429|WD~metre_per_second,182429]]'
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/velocity
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~vector_quantity,2672914]]'
-- '[[_Standards/WikiData/WD~ISQ_derived_quantity,30337763]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~vector_quantity,2672914|WD~vector_quantity,2672914]]'
+- '[[_Standards/WikiData/WD~ISQ_derived_quantity,30337763|WD~ISQ_derived_quantity,30337763]]'
 dv_has_:
   name_:
     af: Snelheid
@@ -498,7 +498,7 @@ dv_has_:
 #is_/same_as :: [[../../WikiData/WD~Velocity,11465|WD~Velocity,11465]] 
 
 [[Velocity]] is the Speed is the first Derivative 
-of the [[../../Mathematics/Geometry/Position-Vector|Position-Vector]] by [[../Dim~Time]]. 
+of the [[../../Mathematics/Geometry/Position-Vector|Position-Vector]] by [[../Dim~Time|Dim~Time]]. 
 
 
 ## #has_/text_of_/abstract 

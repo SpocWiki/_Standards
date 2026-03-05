@@ -82,23 +82,23 @@ aliases:
 - 감정
 has_id_wikidata: Q205555
 different_from:
-- '[[_Standards/WikiData/WD~affect,159904]]'
-- '[[_Standards/WikiData/WD~mood,331769]]'
-- '[[_Standards/WikiData/WD~Feelings,960781]]'
-- '[[_Standards/WikiData/WD~Feeling,1248072]]'
-- '[[_Standards/WikiData/WD~Gefühl,1498195]]'
-- '[[_Standards/WikiData/WD~Abat,2820192]]'
-- '[[_Standards/WikiData/WD~Sentiment,28659447]]'
+- '[[_Standards/WikiData/WD~affect,159904|WD~affect,159904]]'
+- '[[_Standards/WikiData/WD~mood,331769|WD~mood,331769]]'
+- '[[_Standards/WikiData/WD~Feelings,960781|WD~Feelings,960781]]'
+- '[[_Standards/WikiData/WD~Feeling,1248072|WD~Feeling,1248072]]'
+- '[[_Standards/WikiData/WD~Gefühl,1498195|WD~Gefühl,1498195]]'
+- '[[_Standards/WikiData/WD~Abat,2820192|WD~Abat,2820192]]'
+- '[[_Standards/WikiData/WD~Sentiment,28659447|WD~Sentiment,28659447]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~perception,160402]]'
-- '[[_Standards/WikiData/WD~emotional_process,4531715]]'
-has_part_s_: '[[_Standards/WikiData/WD~somatosensory_system,328835]]'
-has_characteristic: '[[_Standards/WikiData/WD~subjectivity,1139554]]'
+- '[[_Standards/WikiData/WD~perception,160402|WD~perception,160402]]'
+- '[[_Standards/WikiData/WD~emotional_process,4531715|WD~emotional_process,4531715]]'
+has_part_s_: '[[_Standards/WikiData/WD~somatosensory_system,328835|WD~somatosensory_system,328835]]'
+has_characteristic: '[[_Standards/WikiData/WD~subjectivity,1139554|WD~subjectivity,1139554]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~sentiment,7451247]]'
-has_cause: '[[_Standards/WikiData/WD~emotion,9415]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~sentiment,7451247|WD~sentiment,7451247]]'
+has_cause: '[[_Standards/WikiData/WD~emotion,9415|WD~emotion,9415]]'
 Dewey_Decimal_Classification: 152.4
 Commons_category: Senses
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sensitiva%20%28Miquel%20Blay%2C%20MRABASF%20E-76%29%2001.jpg
@@ -214,7 +214,7 @@ dv_has_:
 
 # [[Feeling]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~feeling,205555]] 
+#is_/same_as :: [[../../../../WikiData/WD~feeling,205555|WD~feeling,205555]] 
 
 ## #has_/text_of_/abstract 
 

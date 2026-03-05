@@ -268,15 +268,15 @@ CAS_Registry_Number: 7732-18-5
 chemical_formula: H₂O
 chemical_structure: http://commons.wikimedia.org/wiki/Special:FilePath/H2O%202D%20labelled.svg
 color:
-- '[[_Standards/WikiData/WD~green,3133]]'
-- '[[_Standards/WikiData/WD~white,23444]]'
-- '[[_Standards/WikiData/WD~colorless,1396399]]'
-- '[[_Standards/WikiData/WD~color_of_water,5148636]]'
-- '[[_Standards/WikiData/WD~turquoise,5960345]]'
+- '[[_Standards/WikiData/WD~green,3133|WD~green,3133]]'
+- '[[_Standards/WikiData/WD~white,23444|WD~white,23444]]'
+- '[[_Standards/WikiData/WD~colorless,1396399|WD~colorless,1396399]]'
+- '[[_Standards/WikiData/WD~color_of_water,5148636|WD~color_of_water,5148636]]'
+- '[[_Standards/WikiData/WD~turquoise,5960345|WD~turquoise,5960345]]'
 Commons_category: Water
 Commons_gallery: Water
-conjugate_acid: '[[_Standards/WikiData/WD~hydronium,849881]]'
-conjugate_base: '[[_Standards/WikiData/WD~hydroxide_ion,199877]]'
+conjugate_acid: '[[_Standards/WikiData/WD~hydronium,849881|WD~hydronium,849881]]'
+conjugate_base: '[[_Standards/WikiData/WD~hydroxide_ion,199877|WD~hydroxide_ion,199877]]'
 CosIng_number: 31959
 decomposition_point: 2200
 density:
@@ -307,29 +307,29 @@ density:
 - 0.9997026
 - 0.9998395
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624|WD~Lean_Logic,101314624]]'
 Dewey_Decimal_Classification:
 - 546.22
 - 553.7
 - 572.539
 different_from:
-- '[[_Standards/WikiData/WD~body_of_water,15324]]'
-- '[[_Standards/WikiData/WD~H2O,232974]]'
-- '[[_Standards/WikiData/WD~Water,395845]]'
-- '[[_Standards/WikiData/WD~water,2637515]]'
-- '[[_Standards/WikiData/WD~liquid_water,29053744]]'
-- '[[_Standards/WikiData/WD~water,56877699]]'
-- '[[_Standards/WikiData/WD~Pani,124606539]]'
+- '[[_Standards/WikiData/WD~body_of_water,15324|WD~body_of_water,15324]]'
+- '[[_Standards/WikiData/WD~H2O,232974|WD~H2O,232974]]'
+- '[[_Standards/WikiData/WD~Water,395845|WD~Water,395845]]'
+- '[[_Standards/WikiData/WD~water,2637515|WD~water,2637515]]'
+- '[[_Standards/WikiData/WD~liquid_water,29053744|WD~liquid_water,29053744]]'
+- '[[_Standards/WikiData/WD~water,56877699|WD~water,56877699]]'
+- '[[_Standards/WikiData/WD~Pani,124606539|WD~Pani,124606539]]'
 DSSTOX_compound_identifier: DTXCID106296
 dynamic_viscosity:
 - 1.0016
@@ -338,36 +338,36 @@ dynamic_viscosity:
 EC_number: 231-791-2
 electric_dipole_moment: 1.854
 found_in_taxon:
-- '[[_Standards/WikiData/WD~Abelmoschus_esculentus,80531]]'
-- '[[_Standards/WikiData/WD~Maclura_pomifera,1066106]]'
-- '[[_Standards/WikiData/WD~Acacia_kempeana,2709193]]'
-- '[[_Standards/WikiData/WD~Phytelephas_aequatorialis,2709988]]'
-- '[[_Standards/WikiData/WD~Euonymus_hamiltonianus,11340926]]'
+- '[[_Standards/WikiData/WD~Abelmoschus_esculentus,80531|WD~Abelmoschus_esculentus,80531]]'
+- '[[_Standards/WikiData/WD~Maclura_pomifera,1066106|WD~Maclura_pomifera,1066106]]'
+- '[[_Standards/WikiData/WD~Acacia_kempeana,2709193|WD~Acacia_kempeana,2709193]]'
+- '[[_Standards/WikiData/WD~Phytelephas_aequatorialis,2709988|WD~Phytelephas_aequatorialis,2709988]]'
+- '[[_Standards/WikiData/WD~Euonymus_hamiltonianus,11340926|WD~Euonymus_hamiltonianus,11340926]]'
 frequency: 24
 Gmelin_number: 117
 has_characteristic:
-- '[[_Standards/WikiData/WD~color,1075]]'
-- '[[_Standards/WikiData/WD~viscosity,128709]]'
-- '[[_Standards/WikiData/WD~heat_capacity,179388]]'
-- '[[_Standards/WikiData/WD~humidity,180600]]'
-- '[[_Standards/WikiData/WD~amphoterism,182677]]'
-- '[[_Standards/WikiData/WD~hardness,3236003]]'
-- '[[_Standards/WikiData/WD~odorlessness,30007162]]'
-- '[[_Standards/WikiData/WD~tastelessness,30100868]]'
-has_effect: '[[_Standards/WikiData/WD~Q57385793,57385793]]'
+- '[[_Standards/WikiData/WD~color,1075|WD~color,1075]]'
+- '[[_Standards/WikiData/WD~viscosity,128709|WD~viscosity,128709]]'
+- '[[_Standards/WikiData/WD~heat_capacity,179388|WD~heat_capacity,179388]]'
+- '[[_Standards/WikiData/WD~humidity,180600|WD~humidity,180600]]'
+- '[[_Standards/WikiData/WD~amphoterism,182677|WD~amphoterism,182677]]'
+- '[[_Standards/WikiData/WD~hardness,3236003|WD~hardness,3236003]]'
+- '[[_Standards/WikiData/WD~odorlessness,30007162|WD~odorlessness,30007162]]'
+- '[[_Standards/WikiData/WD~tastelessness,30100868|WD~tastelessness,30100868]]'
+has_effect: '[[_Standards/WikiData/WD~Q57385793,57385793|WD~Q57385793,57385793]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~oxygen,629]]'
-- '[[_Standards/WikiData/WD~hydrogen,556]]'
+- '[[_Standards/WikiData/WD~oxygen,629|WD~oxygen,629]]'
+- '[[_Standards/WikiData/WD~hydrogen,556|WD~hydrogen,556]]'
 has_use:
-- '[[_Standards/WikiData/WD~potential_energy,155640]]'
-- '[[_Standards/WikiData/WD~hydroponics,191667]]'
-- '[[_Standards/WikiData/WD~refrigerant,266790]]'
-- '[[_Standards/WikiData/WD~nuclear_reactor_coolant,3535009]]'
+- '[[_Standards/WikiData/WD~potential_energy,155640|WD~potential_energy,155640]]'
+- '[[_Standards/WikiData/WD~hydroponics,191667|WD~hydroponics,191667]]'
+- '[[_Standards/WikiData/WD~refrigerant,266790|WD~refrigerant,266790]]'
+- '[[_Standards/WikiData/WD~nuclear_reactor_coolant,3535009|WD~nuclear_reactor_coolant,3535009]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Killer%20Mountain%20Nanga%20Parbat%20Beyal%20Camp%201.jpg
 image_of_molecular_model_or_crystal_lattice_model: http://commons.wikimedia.org/wiki/Special:FilePath/Water-3D-balls-A.png
 InChI: InChI=1S/H2O/h1H2
 InChIKey: XLYOFNOQVPJJNP-UHFFFAOYSA-N
-instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171|WD~type_of_chemical_entity,113145171]]'
 ionization_energy: 12.61
 IPTC_NewsCode: mediatopic/20000437
 kinematic_viscosity: 0.01012
@@ -397,21 +397,21 @@ OmegaWiki_Defined_Meaning: 4118
 OpenStreetMap_tag_or_key: Tag:resource=water
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Water%20Drops%20Glass%20Banner.jpg
 part_of:
-- '[[_Standards/WikiData/WD~food,2095]]'
-- '[[_Standards/WikiData/WD~river,4022]]'
-- '[[_Standards/WikiData/WD~hydrolysis,103135]]'
-- '[[_Standards/WikiData/WD~water_transport,14820652]]'
-- '[[_Standards/WikiData/WD~multicellular_organismal_water_homeostasis,14820677]]'
-- '[[_Standards/WikiData/WD~water_homeostasis,14863690]]'
-- '[[_Standards/WikiData/WD~water_channel_activity,14902498]]'
-- '[[_Standards/WikiData/WD~water_transmembrane_transporter_activity,14902497]]'
-- '[[_Standards/WikiData/WD~cellular_water_homeostasis,14904766]]'
-- '[[_Standards/WikiData/WD~cellular_response_to_water_stimulus,22272199]]'
-- '[[_Standards/WikiData/WD~response_to_water,22272594]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q31804020,31804020]]'
+- '[[_Standards/WikiData/WD~food,2095|WD~food,2095]]'
+- '[[_Standards/WikiData/WD~river,4022|WD~river,4022]]'
+- '[[_Standards/WikiData/WD~hydrolysis,103135|WD~hydrolysis,103135]]'
+- '[[_Standards/WikiData/WD~water_transport,14820652|WD~water_transport,14820652]]'
+- '[[_Standards/WikiData/WD~multicellular_organismal_water_homeostasis,14820677|WD~multicellular_organismal_water_homeostasis,14820677]]'
+- '[[_Standards/WikiData/WD~water_homeostasis,14863690|WD~water_homeostasis,14863690]]'
+- '[[_Standards/WikiData/WD~water_channel_activity,14902498|WD~water_channel_activity,14902498]]'
+- '[[_Standards/WikiData/WD~water_transmembrane_transporter_activity,14902497|WD~water_transmembrane_transporter_activity,14902497]]'
+- '[[_Standards/WikiData/WD~cellular_water_homeostasis,14904766|WD~cellular_water_homeostasis,14904766]]'
+- '[[_Standards/WikiData/WD~cellular_response_to_water_stimulus,22272199|WD~cellular_response_to_water_stimulus,22272199]]'
+- '[[_Standards/WikiData/WD~response_to_water,22272594|WD~response_to_water,22272594]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q31804020,31804020|WD~Q31804020,31804020]]'
 phase_point:
-- '[[_Standards/WikiData/WD~triple_point,106410]]'
-- '[[_Standards/WikiData/WD~critical_point,111059]]'
+- '[[_Standards/WikiData/WD~triple_point,106410|WD~triple_point,106410]]'
+- '[[_Standards/WikiData/WD~critical_point,111059|WD~critical_point,111059]]'
 pronunciation_audio:
 - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q7026%20%28cat%29-Millars-aigua.wav
 - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33093%20%28bas%29-Bile%20rene-m%C3%A0lep.wav
@@ -429,9 +429,9 @@ refractive_index:
 - 1.39336
 RTECS_number: ZC0110000
 safety_classification_and_labelling:
-- '[[_Standards/WikiData/WD~Regulation_(EC)_No._1272_2008,2005334]]'
-- '[[_Standards/WikiData/WD~NFPA_704__Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~water,16035863]]'
+- '[[_Standards/WikiData/WD~Regulation_(EC)_No._1272_2008,2005334|WD~Regulation_(EC)_No._1272_2008,2005334]]'
+- '[[_Standards/WikiData/WD~NFPA_704__Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288|WD~NFPA_704__Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~water,16035863|WD~water,16035863]]'
 social_media_followers: 36699
 specific_heat_capacity:
 - 1640
@@ -450,14 +450,14 @@ standard_molar_entropy:
 - 69.9
 - 188.8
 subclass_of:
-- '[[_Standards/WikiData/WD~oxide,50690]]'
-- '[[_Standards/WikiData/WD~dihydrogen_chalcogenide,11723014]]'
+- '[[_Standards/WikiData/WD~oxide,50690|WD~oxide,50690]]'
+- '[[_Standards/WikiData/WD~dihydrogen_chalcogenide,11723014|WD~dihydrogen_chalcogenide,11723014]]'
 subject_has_role:
-- '[[_Standards/WikiData/WD~natural_resource,188460]]'
-- '[[_Standards/WikiData/WD~primary_metabolite,3333419]]'
+- '[[_Standards/WikiData/WD~natural_resource,188460|WD~natural_resource,188460]]'
+- '[[_Standards/WikiData/WD~primary_metabolite,3333419|WD~primary_metabolite,3333419]]'
 subreddit: water
 thermal_conductivity: 0.56
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Water,6395169]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Water,6395169|WD~Template_Water,6395169]]'
 UMLS_CUI: C0043047
 Unicode_character:
 - "\U0001F4A7"
@@ -466,7 +466,7 @@ Unicode_character:
 UNII: 059QF0KO0R
 U_S_National_Archives_Identifier: 10644880
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Uraren%20indarra.webm
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_water,7112809]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_water,7112809|WD~outline_of_water,7112809]]'
 Wolfram_Language_entity_code: Entity["FoodType", "Water"]
 ZVG_number: 1140
 dv_is_:

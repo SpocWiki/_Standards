@@ -250,31 +250,31 @@ Colon_Classification: KX541
 Commons_category: Dogs
 Commons_gallery: Dog
 described_by_source:
-- '[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Anthology_of_Petty_Matters_in_Qing,15934424]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-- '[[_Standards/WikiData/WD~Qur’an,428]]'
+- '[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Anthology_of_Petty_Matters_in_Qing,15934424|WD~Anthology_of_Petty_Matters_in_Qing,15934424]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Qur’an,428|WD~Qur’an,428]]'
 Dewey_Decimal_Classification:
 - 599.772
 - 636.7
 different_from:
-- '[[_Standards/WikiData/WD~Hund,242973]]'
-- '[[_Standards/WikiData/WD~Dog,358458]]'
-- '[[_Standards/WikiData/WD~Cane,406090]]'
-- '[[_Standards/WikiData/WD~Chien,1072462]]'
-- '[[_Standards/WikiData/WD~Can,1174923]]'
-- '[[_Standards/WikiData/WD~Pas,2104719]]'
-- '[[_Standards/WikiData/WD~Hond,2369470]]'
-disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+- '[[_Standards/WikiData/WD~Hund,242973|WD~Hund,242973]]'
+- '[[_Standards/WikiData/WD~Dog,358458|WD~Dog,358458]]'
+- '[[_Standards/WikiData/WD~Cane,406090|WD~Cane,406090]]'
+- '[[_Standards/WikiData/WD~Chien,1072462|WD~Chien,1072462]]'
+- '[[_Standards/WikiData/WD~Can,1174923|WD~Can,1174923]]'
+- '[[_Standards/WikiData/WD~Pas,2104719|WD~Pas,2104719]]'
+- '[[_Standards/WikiData/WD~Hond,2369470|WD~Hond,2369470]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
 earliest_date: -34000-01-01
 EPPO_Code: CANIFA
 exact_match:
@@ -293,15 +293,15 @@ hashtag:
 - dogsofinstagram
 - 犬
 has_characteristic:
-- '[[_Standards/WikiData/WD~activity_policy_on_dogs,110997494]]'
-- '[[_Standards/WikiData/WD~starch_digestion_ability,115298800]]'
+- '[[_Standards/WikiData/WD~activity_policy_on_dogs,110997494|WD~activity_policy_on_dogs,110997494]]'
+- '[[_Standards/WikiData/WD~starch_digestion_ability,115298800|WD~starch_digestion_ability,115298800]]'
 has_use:
-- '[[_Standards/WikiData/WD~medical_treatment,179661]]'
-- '[[_Standards/WikiData/WD~guard,680928]]'
-- '[[_Standards/WikiData/WD~service_animal,2827808]]'
-- '[[_Standards/WikiData/WD~police_work,100348214]]'
-- '[[_Standards/WikiData/WD~guarding,115298947]]'
-- '[[_Standards/WikiData/WD~pet,39201]]'
+- '[[_Standards/WikiData/WD~medical_treatment,179661|WD~medical_treatment,179661]]'
+- '[[_Standards/WikiData/WD~guard,680928|WD~guard,680928]]'
+- '[[_Standards/WikiData/WD~service_animal,2827808|WD~service_animal,2827808]]'
+- '[[_Standards/WikiData/WD~police_work,100348214|WD~police_work,100348214]]'
+- '[[_Standards/WikiData/WD~guarding,115298947|WD~guarding,115298947]]'
+- '[[_Standards/WikiData/WD~pet,39201|WD~pet,39201]]'
 heart_rate:
 - 80
 - 95
@@ -309,11 +309,11 @@ heart_rate:
 IAB_code: 425
 Iconclass_notation: 34B11
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Greenland%20467%20%2835130903436%29%20%28cropped%29.jpg
-instance_of: '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]'
+instance_of: '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715|WD~organisms_known_by_a_particular_common_name,55983715]]'
 Krugosvet_article: biologiya/sobaka
 life_expectancy: 9
 longest_observed_lifespan: 30
-main_food_source: '[[_Standards/WikiData/WD~protein,21296145]]'
+main_food_source: '[[_Standards/WikiData/WD~protein,21296145|WD~protein,21296145]]'
 maximum_frequency_of_audible_sound: 45000
 MeSH_tree_code: B01.050.150.900.649.313.750.250.216.200
 minimum_frequency_of_audible_sound: 67
@@ -321,40 +321,40 @@ montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Collage%20of%2
 OmegaWiki_Defined_Meaning: 966
 OpenStreetMap_tag_or_key: Key:dog
 patron_saint:
-- '[[_Standards/WikiData/WD~Roch,152457]]'
-- '[[_Standards/WikiData/WD~Hubertus,159834]]'
-- '[[_Standards/WikiData/WD~Vitus,212850]]'
-produced_sound: '[[_Standards/WikiData/WD~bark,38681]]'
+- '[[_Standards/WikiData/WD~Roch,152457|WD~Roch,152457]]'
+- '[[_Standards/WikiData/WD~Hubertus,159834|WD~Hubertus,159834]]'
+- '[[_Standards/WikiData/WD~Vitus,212850|WD~Vitus,212850]]'
+produced_sound: '[[_Standards/WikiData/WD~bark,38681|WD~bark,38681]]'
 sequenced_genome_URL:
 - http://www.ensembl.org/Canis_lupus_familiaris
 - https://www.dnazoo.org/assemblies/Canis_lupus_familiaris
 small_logo_or_icon: http://commons.wikimedia.org/wiki/Special:FilePath/Font%20Awesome%205%20solid%20dog.svg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Hond-article.ogg
-studied_in: '[[_Standards/WikiData/WD~cynology,465924]]'
+studied_in: '[[_Standards/WikiData/WD~cynology,465924|WD~cynology,465924]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~domesticated_mammal,57814795]]'
-- '[[_Standards/WikiData/WD~pet,39201]]'
+- '[[_Standards/WikiData/WD~domesticated_mammal,57814795|WD~domesticated_mammal,57814795]]'
+- '[[_Standards/WikiData/WD~pet,39201|WD~pet,39201]]'
 subreddit:
 - dogs
 - rarepuppers
 taxon_common_name: Dog
 taxon_name: Canis lupus familiaris
-taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432|WD~species,7432]]'
 this_taxon_is_source_of:
-- '[[_Standards/WikiData/WD~dog_meat,826031]]'
-- '[[_Standards/WikiData/WD~dog_fur,1491036]]'
-- '[[_Standards/WikiData/WD~chiengora,1637422]]'
-- '[[_Standards/WikiData/WD~dog_milk,104224564]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Domestic_dog,13538291]]'
+- '[[_Standards/WikiData/WD~dog_meat,826031|WD~dog_meat,826031]]'
+- '[[_Standards/WikiData/WD~dog_fur,1491036|WD~dog_fur,1491036]]'
+- '[[_Standards/WikiData/WD~chiengora,1637422|WD~chiengora,1637422]]'
+- '[[_Standards/WikiData/WD~dog_milk,104224564|WD~dog_milk,104224564]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Domestic_dog,13538291|WD~Template_Domestic_dog,13538291]]'
 UMLS_CUI: C0012984
 Unicode_character:
 - "\U0001F415"
 - "\U0001F436"
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
 Universal_Decimal_Classification: 636.7
 UNSPSC_Code: 10101502
-used_by: '[[_Standards/WikiData/WD~hunter-gatherer,27443]]'
-uses: '[[_Standards/WikiData/WD~dog_bed,54502633]]'
+used_by: '[[_Standards/WikiData/WD~hunter-gatherer,27443|WD~hunter-gatherer,27443]]'
+uses: '[[_Standards/WikiData/WD~dog_bed,54502633|WD~dog_bed,54502633]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Canemangia.ogv
 dv_has_:
   name_:

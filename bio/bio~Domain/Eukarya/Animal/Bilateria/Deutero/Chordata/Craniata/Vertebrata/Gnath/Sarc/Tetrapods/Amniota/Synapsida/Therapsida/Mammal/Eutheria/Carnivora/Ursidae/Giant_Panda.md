@@ -125,29 +125,29 @@ Krugosvet_article: nauka_i_tehnika/biologiya/PANDI.html
 Baidu_Tieba_name: 熊猫
 taxon_common_name: Großer Panda
 represents:
-- '[[_Standards/WikiData/WD~World_Wide_Fund_for_Nature,117892]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-IUCN_conservation_status: '[[_Standards/WikiData/WD~Vulnerable,278113]]'
-parent_taxon: '[[_Standards/WikiData/WD~Ailuropoda,535979]]'
+- '[[_Standards/WikiData/WD~World_Wide_Fund_for_Nature,117892|WD~World_Wide_Fund_for_Nature,117892]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+IUCN_conservation_status: '[[_Standards/WikiData/WD~Vulnerable,278113|WD~Vulnerable,278113]]'
+parent_taxon: '[[_Standards/WikiData/WD~Ailuropoda,535979|WD~Ailuropoda,535979]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528]]'
-has_list: '[[_Standards/WikiData/WD~list_of_giant_pandas,6621693]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q21287459,21287459]]'
-original_combination: '[[_Standards/WikiData/WD~Ursus_melanoleucus,37927494]]'
-habitat: '[[_Standards/WikiData/WD~forest,4421]]'
-taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-endemic_to: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528|WD~Appendix_I_of_CITES,2851528]]'
+has_list: '[[_Standards/WikiData/WD~list_of_giant_pandas,6621693|WD~list_of_giant_pandas,6621693]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q21287459,21287459|WD~Q21287459,21287459]]'
+original_combination: '[[_Standards/WikiData/WD~Ursus_melanoleucus,37927494|WD~Ursus_melanoleucus,37927494]]'
+habitat: '[[_Standards/WikiData/WD~forest,4421|WD~forest,4421]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432|WD~species,7432]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+endemic_to: "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
 gestation_period: 130
 litter_size: 1.5
-main_food_source: '[[_Standards/WikiData/WD~Bambuseae,35922]]'
+main_food_source: '[[_Standards/WikiData/WD~Bambuseae,35922|WD~Bambuseae,35922]]'
 mass:
 - 104
 - 117.5
 longest_observed_lifespan: 36.8
-has_characteristic: '[[_Standards/WikiData/WD~herbivore,59099]]'
+has_characteristic: '[[_Standards/WikiData/WD~herbivore,59099|WD~herbivore,59099]]'
 ITIS_TSN: 621845
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Grosser%20Panda.JPG

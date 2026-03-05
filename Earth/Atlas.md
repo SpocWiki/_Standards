@@ -85,27 +85,27 @@ title:
   Atlas: ''
 type: private_note
 instance_of:
-- '[[_Standards/WikiData/WD~literary_genre,223393]]'
-- '[[_Standards/WikiData/WD~genre,483394]]'
-- '[[_Standards/WikiData/WD~cartographic_product,124608594]]'
+- '[[_Standards/WikiData/WD~literary_genre,223393|WD~literary_genre,223393]]'
+- '[[_Standards/WikiData/WD~genre,483394|WD~genre,483394]]'
+- '[[_Standards/WikiData/WD~cartographic_product,124608594|WD~cartographic_product,124608594]]'
 described_by_source:
-- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 different_from:
-- '[[_Standards/WikiData/WD~atlas,1303310]]'
-- '[[_Standards/WikiData/WD~atlas,105606599]]'
-- '[[_Standards/WikiData/WD~anatomical_atlas,110912290]]'
+- '[[_Standards/WikiData/WD~atlas,1303310|WD~atlas,1303310]]'
+- '[[_Standards/WikiData/WD~atlas,105606599|WD~atlas,105606599]]'
+- '[[_Standards/WikiData/WD~anatomical_atlas,110912290|WD~anatomical_atlas,110912290]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~map_series,1734578]]'
-- '[[_Standards/WikiData/WD~cartographic_work,25106976]]'
-- '[[_Standards/WikiData/WD~book,571]]'
-- '[[../WikiData/WD~reference_work,13136]]'
-named_after: '[[_Standards/WikiData/WD~Atlas_of_Mauretania,4816856]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Atlas,6690593]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Atlas,13365287]]'
-studied_by: '[[_Standards/WikiData/WD~atlas_cartography,124611981]]'
-has_part_s_: '[[_Standards/WikiData/WD~map,4006]]'
+- '[[_Standards/WikiData/WD~map_series,1734578|WD~map_series,1734578]]'
+- '[[_Standards/WikiData/WD~cartographic_work,25106976|WD~cartographic_work,25106976]]'
+- '[[_Standards/WikiData/WD~book,571|WD~book,571]]'
+- '[[../WikiData/WD~reference_work,13136|WD~reference_work,13136]]'
+named_after: '[[_Standards/WikiData/WD~Atlas_of_Mauretania,4816856|WD~Atlas_of_Mauretania,4816856]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Atlas,6690593|WD~Template_Atlas,6690593]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Atlas,13365287|WD~Portal_Atlas,13365287]]'
+studied_by: '[[_Standards/WikiData/WD~atlas_cartography,124611981|WD~atlas_cartography,124611981]]'
+has_part_s_: '[[_Standards/WikiData/WD~map,4006|WD~map,4006]]'
 Nomenclature_for_Museum_Cataloging: 13396
 Commons_gallery: Atlas
 image: http://commons.wikimedia.org/wiki/Special:FilePath/OrteliusWorldMap.jpeg
@@ -250,11 +250,11 @@ dv_has_:
     zh_hk: 地圖集
     zh_sg: 地图集
     zh_tw: 地圖集
-  parent_class: '[[../CreativeWork]]'
+  parent_class: '[[../CreativeWork|CreativeWork]]'
   properties: '[ about, abstract, accessMode, accessModeSufficient, accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, assesses, associatedMedia, audience, audio, author, award, awards, character, citation, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePublished, description, disambiguatingDescription, discussionUrl, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, funder, funding, genre, hasPart, headline, identifier, image, inLanguage, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, keywords, learningResourceType, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, name, offers, pattern, position, potentialAction, producer, provider, publication, publisher, publisherImprint, publishingPrinciples, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, size, sourceOrganization, spatial, spatialCoverage, sponsor, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, typicalAgeRange, url, usageInfo, version, video, workExample, workTranslation ]'
 dv_is_different_from: '[[../Philosophy/Metaphysic/Religion/Mythology/Greek_Mythology/Atlas(Mythology)|Atlas(Mythology)]]'
 dv_is_part_of: https://bib.schema.org
-dv_has_parent_class: '[[../CreativeWork]]'
+dv_has_parent_class: '[[../CreativeWork|CreativeWork]]'
 dv_has_properties: '[ about, abstract, accessMode, accessModeSufficient, accessibilityAPI, accessibilityControl, accessibilityFeature, accessibilityHazard, accessibilitySummary, accountablePerson, acquireLicensePage, additionalType, aggregateRating, alternateName, alternativeHeadline, archivedAt, assesses, associatedMedia, audience, audio, author, award, awards, character, citation, comment, commentCount, conditionsOfAccess, contentLocation, contentRating, contentReferenceTime, contributor, copyrightHolder, copyrightNotice, copyrightYear, correction, countryOfOrigin, creativeWorkStatus, creator, creditText, dateCreated, dateModified, datePublished, description, disambiguatingDescription, discussionUrl, editEIDR, editor, educationalAlignment, educationalLevel, educationalUse, encoding, encodingFormat, encodings, exampleOfWork, expires, fileFormat, funder, funding, genre, hasPart, headline, identifier, image, inLanguage, interactionStatistic, interactivityType, interpretedAsClaim, isAccessibleForFree, isBasedOn, isBasedOnUrl, isFamilyFriendly, isPartOf, keywords, learningResourceType, license, locationCreated, mainEntity, mainEntityOfPage, maintainer, material, materialExtent, mentions, name, offers, pattern, position, potentialAction, producer, provider, publication, publisher, publisherImprint, publishingPrinciples, recordedAt, releasedEvent, review, reviews, sameAs, schemaVersion, sdDatePublished, sdLicense, sdPublisher, size, sourceOrganization, spatial, spatialCoverage, sponsor, subjectOf, teaches, temporal, temporalCoverage, text, thumbnailUrl, timeRequired, translationOfWork, translator, typicalAgeRange, url, usageInfo, version, video, workExample, workTranslation ]'
 dv_is_same_as:
 - '#is_/same_as :: [[../WikiData/WD~Atlas,162827|WD~Atlas,162827]]'

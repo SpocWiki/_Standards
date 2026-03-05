@@ -77,25 +77,25 @@ CAS_Registry_Number: 7440-29-1
 chemical_formula: Th
 Commons_category: Thorium
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 Dewey_Decimal_Classification:
 - 546.422
 - 669.2922
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Jöns_Jacob_Berzelius,151911]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Jöns_Jacob_Berzelius,151911|WD~Jöns_Jacob_Berzelius,151911]]'
 DSSTOX_compound_identifier: DTXCID6029759
 EC_number: 231-139-7
 electronegativity: 1
 element_symbol: Th
-found_in_taxon: '[[_Standards/WikiData/WD~Paris_polyphylla_var._chinensis,10905961]]'
+found_in_taxon: '[[_Standards/WikiData/WD~Paris_polyphylla_var._chinensis,10905961|WD~Paris_polyphylla_var._chinensis,10905961]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Thorium%20sample%200.1g.jpg
 InChI: InChI=1S/Th
 InChIKey: ZSLUVFAKFWKJRC-UHFFFAOYSA-N
 instance_of:
-- '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+- '[[_Standards/WikiData/WD~lithophile,1130479|WD~lithophile,1130479]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 ionic_radius:
 - 0.94
 - 1.05
@@ -110,7 +110,7 @@ MeSH_tree_code:
 - D01.552.020.889
 - D01.552.544.850
 Mohs_hardness: 3
-named_after: '[[_Standards/WikiData/WD~Thor,42952]]'
+named_after: '[[_Standards/WikiData/WD~Thor,42952|WD~Thor,42952]]'
 OmegaWiki_Defined_Meaning: 365213
 oxidation_state:
 - 1
@@ -118,8 +118,8 @@ oxidation_state:
 - 3
 - 4
 part_of:
-- '[[_Standards/WikiData/WD~period_7,244979]]'
-- '[[_Standards/WikiData/WD~actinide,19577]]'
+- '[[_Standards/WikiData/WD~period_7,244979|WD~period_7,244979]]'
+- '[[_Standards/WikiData/WD~actinide,19577|WD~actinide,19577]]'
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20151.jpg
 PubChem_CID: 23960
 SpocWebEntityId: 21985
@@ -320,9 +320,9 @@ dv_has_:
         kj_:
           mol: 514.4
 dv_is_:
-  part_of: '[[../Actinide]]'
+  part_of: '[[../Actinide|Actinide]]'
   same_as:
-  - '[[../../../WikiData/WD~Thorium,1115]]'
+  - '[[../../../WikiData/WD~Thorium,1115|WD~Thorium,1115]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Actinide/Thorium|Thorium]]'
   - '[[/_public/Chemistry/Chemical_Element/Actinide/Thorium.public|Thorium.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Actinide/Thorium.internal|Thorium.internal]]'
@@ -331,7 +331,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Chemical_Element/Actinide/Thorium.personal|Thorium.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Actinide/Thorium.secret|Thorium.secret]]'
 dv_has_name_group: Actinide-Group
-dv_is_part_of: '[[../Actinide]]'
+dv_is_part_of: '[[../Actinide|Actinide]]'
 dv_has_name_en: Thorium
 dv_has_name_de: Thorium
 dv_has_name_abbreviated: Th
@@ -352,7 +352,7 @@ dv_has_number_of_period: 7
 dv_has_number_of_group: 24
 dv_has_number_of_electrons: 90
 dv_is_same_as:
-- '[[../../../WikiData/WD~Thorium,1115]]'
+- '[[../../../WikiData/WD~Thorium,1115|WD~Thorium,1115]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Actinide/Thorium|Thorium]]'
 - '[[/_public/Chemistry/Chemical_Element/Actinide/Thorium.public|Thorium.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Actinide/Thorium.internal|Thorium.internal]]'
@@ -398,7 +398,7 @@ has_number_of_period = `=this.dv_has_number_of_period`
 has_number_of_group = `=this.dv_has_number_of_group` 
 has_number_of_electrons = `=this.dv_has_number_of_electrons` 
 
-#is_/same_as :: [[../../../WikiData/WD~Thorium,1115]] 
+#is_/same_as :: [[../../../WikiData/WD~Thorium,1115|WD~Thorium,1115]] 
 
 
 ## #has_/text_of_/abstract 

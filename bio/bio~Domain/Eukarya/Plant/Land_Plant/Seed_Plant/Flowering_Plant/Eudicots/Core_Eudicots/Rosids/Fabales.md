@@ -42,9 +42,9 @@ aliases:
 - 콩목
 has_id_wikidata: Q21878
 title: Fabales
-parent_taxon: '[[_Standards/WikiData/WD~fabids,2683213]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
+parent_taxon: '[[_Standards/WikiData/WD~fabids,2683213|WD~fabids,2683213]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~order,36602|WD~order,36602]]'
 OmegaWiki_Defined_Meaning: 358691
 ITIS_TSN: 500022
 image:

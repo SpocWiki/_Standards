@@ -52,16 +52,16 @@ aliases:
 - 電離氫區
 - 전리수소영역
 has_id_wikidata: Q11282
-subclass_of: '[[_Standards/WikiData/WD~emission_nebula,202265]]'
-instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
-part_of: '[[_Standards/WikiData/WD~galaxy,318]]'
-made_from_material: '[[_Standards/WikiData/WD~hydrogen,556]]'
-has_effect: '[[_Standards/WikiData/WD~star_formation,16744]]'
+subclass_of: '[[_Standards/WikiData/WD~emission_nebula,202265|WD~emission_nebula,202265]]'
+instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909|WD~astronomical_object_type,17444909]]'
+part_of: '[[_Standards/WikiData/WD~galaxy,318|WD~galaxy,318]]'
+made_from_material: '[[_Standards/WikiData/WD~hydrogen,556|WD~hydrogen,556]]'
+has_effect: '[[_Standards/WikiData/WD~star_formation,16744|WD~star_formation,16744]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Nursery%20of%20New%20Stars%20-%20GPN-2000-000972.jpg
 Commons_category: H II regions
 dv_is_:
   same_as:
-  - '[[../../WikiData/WD~H_II_region,11282]]'
+  - '[[../../WikiData/WD~H_II_region,11282|WD~H_II_region,11282]]'
   - '[[/_Standards/Astronomy/Interstellar_Medium/H_II_Region|H_II_Region]]'
   - '[[/_public/Astronomy/Interstellar_Medium/H_II_Region.public|H_II_Region.public]]'
   - '[[/_internal/Astronomy/Interstellar_Medium/H_II_Region.internal|H_II_Region.internal]]'
@@ -70,7 +70,7 @@ dv_is_:
   - '[[/_personal/Astronomy/Interstellar_Medium/H_II_Region.personal|H_II_Region.personal]]'
   - '[[/_secret/Astronomy/Interstellar_Medium/H_II_Region.secret|H_II_Region.secret]]'
 dv_is_same_as:
-- '[[../../WikiData/WD~H_II_region,11282]]'
+- '[[../../WikiData/WD~H_II_region,11282|WD~H_II_region,11282]]'
 - '[[/_Standards/Astronomy/Interstellar_Medium/H_II_Region|H_II_Region]]'
 - '[[/_public/Astronomy/Interstellar_Medium/H_II_Region.public|H_II_Region.public]]'
 - '[[/_internal/Astronomy/Interstellar_Medium/H_II_Region.internal|H_II_Region.internal]]'

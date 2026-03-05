@@ -143,7 +143,7 @@ aliases:
 - ꯁꯅꯥ ꯍꯤꯗꯥꯛ
 - 수은
 has_id_wikidata: Q925
-associated_hazard: '[[_Standards/WikiData/WD~mercury_poisoning,408089]]'
+associated_hazard: '[[_Standards/WikiData/WD~mercury_poisoning,408089|WD~mercury_poisoning,408089]]'
 atomic_number: 80
 boiling_point: 674.11
 canonical_SMILES: '[Hg]'
@@ -151,17 +151,17 @@ CAS_Registry_Number: 7439-97-6
 chemical_formula: Hg
 Commons_category: Mercury (element)
 Commons_gallery: Mercury (element)
-crystal_system: '[[_Standards/WikiData/WD~trigonal_crystal_system,588274]]'
+crystal_system: '[[_Standards/WikiData/WD~trigonal_crystal_system,588274|WD~trigonal_crystal_system,588274]]'
 density: 13.6
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 Dewey_Decimal_Classification: 669.71
 DSSTOX_compound_identifier: DTXCID504172
 EC_number: 231-106-7
@@ -169,18 +169,18 @@ electrical_conductivity: 1040000
 electronegativity: 2
 electron_configuration: '[Xe] 4f¹⁴ 5d¹⁰ 6s²'
 element_symbol: Hg
-has_effect: '[[_Standards/WikiData/WD~mercury_poisoning,408089]]'
-has_use: '[[_Standards/WikiData/WD~nuclear_reactor_coolant,3535009]]'
+has_effect: '[[_Standards/WikiData/WD~mercury_poisoning,408089|WD~mercury_poisoning,408089]]'
+has_use: '[[_Standards/WikiData/WD~nuclear_reactor_coolant,3535009|WD~nuclear_reactor_coolant,3535009]]'
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Mercury%20symbol.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mercury-element.jpg
 immediately_dangerous_to_life_or_health: 10
 InChI: InChI=1S/Hg
 InChIKey: QSHDDOUJBYECFT-UHFFFAOYSA-N
 instance_of:
-- '[[_Standards/WikiData/WD~chalcophile_element,1929547]]'
-- '[[_Standards/WikiData/WD~superconducting_element,106192073]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
-- '[[_Standards/WikiData/WD~metal,11426]]'
+- '[[_Standards/WikiData/WD~chalcophile_element,1929547|WD~chalcophile_element,1929547]]'
+- '[[_Standards/WikiData/WD~superconducting_element,106192073|WD~superconducting_element,106192073]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
+- '[[_Standards/WikiData/WD~metal,11426|WD~metal,11426]]'
 ionic_radius:
 - 0.69
 - 0.96
@@ -189,12 +189,12 @@ ionic_radius:
 - 1.19
 Krugosvet_article: nauka_i_tehnika/himiya/RTUT.html
 made_from_material:
-- '[[_Standards/WikiData/WD~cinnabar,104614]]'
-- '[[_Standards/WikiData/WD~sphalerite,105006]]'
-- '[[_Standards/WikiData/WD~metacinnabar,415961]]'
-- '[[_Standards/WikiData/WD~livingstonite,929619]]'
-- '[[_Standards/WikiData/WD~corderoite,3693399]]'
-magnetic_ordering: '[[_Standards/WikiData/WD~diamagnetism,201048]]'
+- '[[_Standards/WikiData/WD~cinnabar,104614|WD~cinnabar,104614]]'
+- '[[_Standards/WikiData/WD~sphalerite,105006|WD~sphalerite,105006]]'
+- '[[_Standards/WikiData/WD~metacinnabar,415961|WD~metacinnabar,415961]]'
+- '[[_Standards/WikiData/WD~livingstonite,929619|WD~livingstonite,929619]]'
+- '[[_Standards/WikiData/WD~corderoite,3693399|WD~corderoite,3693399]]'
+magnetic_ordering: '[[_Standards/WikiData/WD~diamagnetism,201048|WD~diamagnetism,201048]]'
 mass: 200.592
 melting_point:
 - -38.83
@@ -204,16 +204,16 @@ MeSH_tree_code:
 - D01.268.956.437
 - D01.552.544.504
 molar_fusion_enthalpy: 2.37
-named_after: '[[_Standards/WikiData/WD~Mercury,1150]]'
+named_after: '[[_Standards/WikiData/WD~Mercury,1150|WD~Mercury,1150]]'
 native_label:
 - mercuri
 - mercury
 OmegaWiki_Defined_Meaning: 2311
 part_of:
-- '[[_Standards/WikiData/WD~group_12,191875]]'
-- '[[_Standards/WikiData/WD~period_6,239813]]'
-- '[[_Standards/WikiData/WD~tailings,1784525]]'
-- '[[_Standards/WikiData/WD~mercury_(II)_reductase_activity,21978302]]'
+- '[[_Standards/WikiData/WD~group_12,191875|WD~group_12,191875]]'
+- '[[_Standards/WikiData/WD~period_6,239813|WD~period_6,239813]]'
+- '[[_Standards/WikiData/WD~tailings,1784525|WD~tailings,1784525]]'
+- '[[_Standards/WikiData/WD~mercury_(II)_reductase_activity,21978302|WD~mercury_(II)_reductase_activity,21978302]]'
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20162.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Q925-ar.ogg
 PubChem_CID: 23931
@@ -222,8 +222,8 @@ specific_heat_capacity: 140
 speed_of_sound: 1450
 SpocWebEntityId: 21975
 standard_molar_entropy: 76
-subclass_of: '[[_Standards/WikiData/WD~post-transition_metal,19591]]'
-subject_has_role: '[[_Standards/WikiData/WD~developmental_toxicant,72941151]]'
+subclass_of: '[[_Standards/WikiData/WD~post-transition_metal,19591|WD~post-transition_metal,19591]]'
+subject_has_role: '[[_Standards/WikiData/WD~developmental_toxicant,72941151|WD~developmental_toxicant,72941151]]'
 thermal_conductivity: 8.3
 time_weighted_average_exposure_limit: 0.1
 type: Element
@@ -239,7 +239,7 @@ WordLift_URL: http://data.wordlift.io/wl01714/entity/mercury.html
 ZVG_number: 8490
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Mercury,925]]'
+  - '[[../../../WikiData/WD~Mercury,925|WD~Mercury,925]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Group-12-Zinc/Mercury|Mercury]]'
   - '[[/_public/Chemistry/Chemical_Element/Group-12-Zinc/Mercury.public|Mercury.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Group-12-Zinc/Mercury.internal|Mercury.internal]]'
@@ -247,7 +247,7 @@ dv_is_:
   - '[[/_private/Chemistry/Chemical_Element/Group-12-Zinc/Mercury.private|Mercury.private]]'
   - '[[/_personal/Chemistry/Chemical_Element/Group-12-Zinc/Mercury.personal|Mercury.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Group-12-Zinc/Mercury.secret|Mercury.secret]]'
-  part_of: '[[../Group-12-Zinc]]'
+  part_of: '[[../Group-12-Zinc|Group-12-Zinc]]'
 dv_has_:
   name_:
     abbreviated: Hg
@@ -474,7 +474,7 @@ dv_has_:
         kj_:
           mol: 59.229
 dv_is_same_as:
-- '[[../../../WikiData/WD~Mercury,925]]'
+- '[[../../../WikiData/WD~Mercury,925|WD~Mercury,925]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Group-12-Zinc/Mercury|Mercury]]'
 - '[[/_public/Chemistry/Chemical_Element/Group-12-Zinc/Mercury.public|Mercury.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Group-12-Zinc/Mercury.internal|Mercury.internal]]'
@@ -483,7 +483,7 @@ dv_is_same_as:
 - '[[/_personal/Chemistry/Chemical_Element/Group-12-Zinc/Mercury.personal|Mercury.personal]]'
 - '[[/_secret/Chemistry/Chemical_Element/Group-12-Zinc/Mercury.secret|Mercury.secret]]'
 dv_has_name_group: Group-12-Zinc
-dv_is_part_of: '[[../Group-12-Zinc]]'
+dv_is_part_of: '[[../Group-12-Zinc|Group-12-Zinc]]'
 dv_has_name_en: Mercury
 dv_has_name_de: Quecksilber
 dv_has_value_for_weight_u: 200.59
@@ -508,7 +508,7 @@ dv_has_number_of_electrons: 80
 # [[Mercury]] 汞 
 
 #chemic/Element 
-#is_/same_as :: [[../../../WikiData/WD~Mercury,925]] 
+#is_/same_as :: [[../../../WikiData/WD~Mercury,925|WD~Mercury,925]] 
 
 has_name_group = `=this.dv_has_name_group` 
 is_part_of = `=this.dv_is_part_of` 

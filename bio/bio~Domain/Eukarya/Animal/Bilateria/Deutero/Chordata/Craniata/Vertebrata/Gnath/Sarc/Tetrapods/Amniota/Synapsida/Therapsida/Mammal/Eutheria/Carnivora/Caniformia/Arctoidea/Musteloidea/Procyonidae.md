@@ -59,11 +59,11 @@ aliases:
 - 浣熊科
 - 아메리카너구리과
 has_id_wikidata: Q147114
-parent_taxon: '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Musteloidea,2670845]]'
+parent_taxon: '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Musteloidea,2670845|WD~Musteloidea,2670845]]'
 start_time: -20000000-01-01T00:00:00Z
-code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011|WD~International_Code_of_Zoological_Nomenclature,13011]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409|WD~family,35409]]'
 ITIS_TSN: 180573
 taxon_common_name:
 - Єнотові

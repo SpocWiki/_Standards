@@ -57,29 +57,29 @@ aliases:
 - 글리코겐
 has_id_wikidata: Q174936
 found_in_taxon:
-- '[[_Standards/WikiData/WD~Caenorhabditis_elegans,91703]]'
-- '[[_Standards/WikiData/WD~Streptomyces_coelicolor,2355919]]'
-- '[[_Standards/WikiData/WD~Streptomyces_albidoflavus,22286833]]'
-- '[[_Standards/WikiData/WD~queen_conch,106121203]]'
-- '[[_Standards/WikiData/WD~Lobatus_gigas,62603]]'
+- '[[_Standards/WikiData/WD~Caenorhabditis_elegans,91703|WD~Caenorhabditis_elegans,91703]]'
+- '[[_Standards/WikiData/WD~Streptomyces_coelicolor,2355919|WD~Streptomyces_coelicolor,2355919]]'
+- '[[_Standards/WikiData/WD~Streptomyces_albidoflavus,22286833|WD~Streptomyces_albidoflavus,22286833]]'
+- '[[_Standards/WikiData/WD~queen_conch,106121203|WD~queen_conch,106121203]]'
+- '[[_Standards/WikiData/WD~Lobatus_gigas,62603|WD~Lobatus_gigas,62603]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~polysaccharide,134219]]'
-- '[[_Standards/WikiData/WD~glucan,416796]]'
+- '[[_Standards/WikiData/WD~polysaccharide,134219|WD~polysaccharide,134219]]'
+- '[[_Standards/WikiData/WD~glucan,416796|WD~glucan,416796]]'
 part_of:
-- '[[_Standards/WikiData/WD~glycogen_catabolic_process,680603]]'
-- '[[_Standards/WikiData/WD~glycogen_biosynthetic_process,14863063]]'
-- '[[_Standards/WikiData/WD~glycogen_metabolic_process,14902477]]'
-- '[[_Standards/WikiData/WD~glycophagy,21113302]]'
-- '[[_Standards/WikiData/WD~glycogen_binding,21113301]]'
+- '[[_Standards/WikiData/WD~glycogen_catabolic_process,680603|WD~glycogen_catabolic_process,680603]]'
+- '[[_Standards/WikiData/WD~glycogen_biosynthetic_process,14863063|WD~glycogen_biosynthetic_process,14863063]]'
+- '[[_Standards/WikiData/WD~glycogen_metabolic_process,14902477|WD~glycogen_metabolic_process,14902477]]'
+- '[[_Standards/WikiData/WD~glycophagy,21113302|WD~glycophagy,21113302]]'
+- '[[_Standards/WikiData/WD~glycogen_binding,21113301|WD~glycogen_binding,21113301]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171|WD~type_of_chemical_entity,113145171]]'
 mass: 666.221858
 has_part_s_:
-- '[[_Standards/WikiData/WD~hydrogen,556]]'
-- '[[_Standards/WikiData/WD~carbon,623]]'
-- '[[_Standards/WikiData/WD~oxygen,629]]'
+- '[[_Standards/WikiData/WD~hydrogen,556|WD~hydrogen,556]]'
+- '[[_Standards/WikiData/WD~carbon,623|WD~carbon,623]]'
+- '[[_Standards/WikiData/WD~oxygen,629|WD~oxygen,629]]'
 CosIng_number: 34127
 PubChem_CID: 439177
 InChIKey: BYSGBSNPRWKUQH-UJDJLXLFSA-N
@@ -192,7 +192,7 @@ dv_has_:
 
 # [[Glycogen]]
 
-#is_/instance_of :: [[../Polysaccharide]] 
+#is_/instance_of :: [[../Polysaccharide|Polysaccharide]] 
 #is_/same_as :: [[../../../../../WikiData/WD~Glycogen,174936|WD~Glycogen,174936]] 
 
 - The **branching** structure means glucose is stored compactly, 

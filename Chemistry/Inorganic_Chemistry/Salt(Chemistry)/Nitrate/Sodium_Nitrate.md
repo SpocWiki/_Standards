@@ -59,18 +59,18 @@ aliases:
 - 硝酸钠
 - 질산 나트륨
 has_id_wikidata: Q184373
-subject_has_role: '[[_Standards/WikiData/WD~carcinogen,187661]]'
-has_use: '[[_Standards/WikiData/WD~food_additive,189567]]'
+subject_has_role: '[[_Standards/WikiData/WD~carcinogen,187661|WD~carcinogen,187661]]'
+has_use: '[[_Standards/WikiData/WD~food_additive,189567|WD~food_additive,189567]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
-safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635|WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288|WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171|WD~type_of_chemical_entity,113145171]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~nitrogen,627]]'
-- '[[_Standards/WikiData/WD~oxygen,629]]'
-- '[[_Standards/WikiData/WD~sodium,658]]'
-subclass_of: '[[_Standards/WikiData/WD~chemical_compound,11173]]'
+- '[[_Standards/WikiData/WD~nitrogen,627|WD~nitrogen,627]]'
+- '[[_Standards/WikiData/WD~oxygen,629|WD~oxygen,629]]'
+- '[[_Standards/WikiData/WD~sodium,658|WD~sodium,658]]'
+subclass_of: '[[_Standards/WikiData/WD~chemical_compound,11173|WD~chemical_compound,11173]]'
 standard_enthalpy_of_formation: -257
 Mohs_hardness: 2
 molar_fusion_enthalpy: 16

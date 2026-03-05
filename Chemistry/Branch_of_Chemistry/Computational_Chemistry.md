@@ -52,13 +52,13 @@ aliases:
 - 계산화학
 has_id_wikidata: Q369472
 subclass_of:
-- '[[_Standards/WikiData/WD~computational_science,117801]]'
-- '[[_Standards/WikiData/WD~cheminformatics,910164]]'
-- '[[_Standards/WikiData/WD~theoretical_and_computational_chemistry,110245486]]'
-different_from: '[[_Standards/WikiData/WD~cheminformatics,910164]]'
-instance_of: '[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]'
-practiced_by: '[[_Standards/WikiData/WD~computational_chemist,66816558]]'
-part_of: '[[_Standards/WikiData/WD~theoretical_and_computational_chemistry,110245486]]'
+- '[[_Standards/WikiData/WD~computational_science,117801|WD~computational_science,117801]]'
+- '[[_Standards/WikiData/WD~cheminformatics,910164|WD~cheminformatics,910164]]'
+- '[[_Standards/WikiData/WD~theoretical_and_computational_chemistry,110245486|WD~theoretical_and_computational_chemistry,110245486]]'
+different_from: '[[_Standards/WikiData/WD~cheminformatics,910164|WD~cheminformatics,910164]]'
+instance_of: '[[_Standards/WikiData/WD~branch_of_chemistry,11790203|WD~branch_of_chemistry,11790203]]'
+practiced_by: '[[_Standards/WikiData/WD~computational_chemist,66816558|WD~computational_chemist,66816558]]'
+part_of: '[[_Standards/WikiData/WD~theoretical_and_computational_chemistry,110245486|WD~theoretical_and_computational_chemistry,110245486]]'
 OmegaWiki_Defined_Meaning: 795548
 Stack_Exchange_tag: https://scicomp.stackexchange.com/tags/computational-chemistry
 UMLS_CUI: C0872134

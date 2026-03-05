@@ -72,11 +72,11 @@ aliases:
 - 精神哲學
 - 심리철학
 has_id_wikidata: Q23407
-different_from: '[[_Standards/WikiData/WD~theory_of_mind,639219]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Philosophy_of_mind,6620406]]'
-instance_of: '[[_Standards/WikiData/WD~branch_of_philosophy,22811234]]'
-practiced_by: '[[_Standards/WikiData/WD~philosopher_of_mind,106921327]]'
-subclass_of: '[[_Standards/WikiData/WD~philosophy,5891]]'
+different_from: '[[_Standards/WikiData/WD~theory_of_mind,639219|WD~theory_of_mind,639219]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Philosophy_of_mind,6620406|WD~Template_Philosophy_of_mind,6620406]]'
+instance_of: '[[_Standards/WikiData/WD~branch_of_philosophy,22811234|WD~branch_of_philosophy,22811234]]'
+practiced_by: '[[_Standards/WikiData/WD~philosopher_of_mind,106921327|WD~philosopher_of_mind,106921327]]'
+subclass_of: '[[_Standards/WikiData/WD~philosophy,5891|WD~philosophy,5891]]'
 Library_of_Congress_Classification: BD418-BD418.84
 Stack_Exchange_tag:
 - https://ai.stackexchange.com/tags/philosophy-of-mind

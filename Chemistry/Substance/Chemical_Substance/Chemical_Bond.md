@@ -104,10 +104,10 @@ aliases:
 - ꯀꯦꯃꯤꯀꯦꯜ ꯂꯤꯄꯨꯟ
 - 화학 결합
 has_id_wikidata: Q44424
-instance_of: '[[_Standards/WikiData/WD~intramolecular_force,1571801]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Chemical_bonds,6564199]]'
-subclass_of: '[[_Standards/WikiData/WD~moiety,23005640]]'
-part_of: '[[_Standards/WikiData/WD~molecule,11369]]'
+instance_of: '[[_Standards/WikiData/WD~intramolecular_force,1571801|WD~intramolecular_force,1571801]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Chemical_bonds,6564199|WD~Template_Chemical_bonds,6564199]]'
+subclass_of: '[[_Standards/WikiData/WD~moiety,23005640|WD~moiety,23005640]]'
+part_of: '[[_Standards/WikiData/WD~molecule,11369|WD~molecule,11369]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ligatio-covalens.svg
 P8189: 987007284925105200
 Commons_category: Chemical bonding

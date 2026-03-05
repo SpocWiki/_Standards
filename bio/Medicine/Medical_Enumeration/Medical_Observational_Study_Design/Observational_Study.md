@@ -33,9 +33,9 @@ Tag Instances like this:
 
 An observational study design.
 
-#has_/parent_class :: [[../MedicalObservationalStudyDesign]]  
+#has_/parent_class :: [[../MedicalObservationalStudyDesign|MedicalObservationalStudyDesign]]  
 
-#is_/enum_of :: [[../MedicalObservationalStudyDesign]]  
+#is_/enum_of :: [[../MedicalObservationalStudyDesign|MedicalObservationalStudyDesign]]  
 
 ## Confidential Links & Embeds: 
 

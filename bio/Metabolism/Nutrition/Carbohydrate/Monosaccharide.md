@@ -68,25 +68,25 @@ aliases:
 - 單醣
 - 단당류
 has_id_wikidata: Q133516
-monomer_of: '[[_Standards/WikiData/WD~polysaccharide,134219]]'
-followed_by: '[[_Standards/WikiData/WD~disaccharide,173600]]'
+monomer_of: '[[_Standards/WikiData/WD~polysaccharide,134219|WD~polysaccharide,134219]]'
+followed_by: '[[_Standards/WikiData/WD~disaccharide,173600|WD~disaccharide,173600]]'
 part_of:
-- '[[_Standards/WikiData/WD~monosaccharide_binding,14865755]]'
-- '[[_Standards/WikiData/WD~response_to_monosaccharide,21118283]]'
-- '[[_Standards/WikiData/WD~monosaccharide_metabolic_process,21130418]]'
-- '[[_Standards/WikiData/WD~cellular_response_to_monosaccharide_stimulus,22273177]]'
-- '[[_Standards/WikiData/WD~monosaccharide_catabolic_process,22281771]]'
-- '[[_Standards/WikiData/WD~monosaccharide_biosynthetic_process,22283063]]'
-- '[[_Standards/WikiData/WD~monosaccharide_transmembrane_transport,22290634]]'
-- '[[_Standards/WikiData/WD~monosaccharide_transmembrane_transporter_activity,22320707]]'
-- '[[_Standards/WikiData/WD~ABC_type_monosaccharide_transporter_activity,22320708]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
+- '[[_Standards/WikiData/WD~monosaccharide_binding,14865755|WD~monosaccharide_binding,14865755]]'
+- '[[_Standards/WikiData/WD~response_to_monosaccharide,21118283|WD~response_to_monosaccharide,21118283]]'
+- '[[_Standards/WikiData/WD~monosaccharide_metabolic_process,21130418|WD~monosaccharide_metabolic_process,21130418]]'
+- '[[_Standards/WikiData/WD~cellular_response_to_monosaccharide_stimulus,22273177|WD~cellular_response_to_monosaccharide_stimulus,22273177]]'
+- '[[_Standards/WikiData/WD~monosaccharide_catabolic_process,22281771|WD~monosaccharide_catabolic_process,22281771]]'
+- '[[_Standards/WikiData/WD~monosaccharide_biosynthetic_process,22283063|WD~monosaccharide_biosynthetic_process,22283063]]'
+- '[[_Standards/WikiData/WD~monosaccharide_transmembrane_transport,22290634|WD~monosaccharide_transmembrane_transport,22290634]]'
+- '[[_Standards/WikiData/WD~monosaccharide_transmembrane_transporter_activity,22320707|WD~monosaccharide_transmembrane_transporter_activity,22320707]]'
+- '[[_Standards/WikiData/WD~ABC_type_monosaccharide_transporter_activity,22320708|WD~ABC_type_monosaccharide_transporter_activity,22320708]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~hydrogen,556]]'
-- '[[_Standards/WikiData/WD~carbon,623]]'
-- '[[_Standards/WikiData/WD~oxygen,629]]'
-subclass_of: '[[_Standards/WikiData/WD~carbohydrate,11358]]'
+- '[[_Standards/WikiData/WD~hydrogen,556|WD~hydrogen,556]]'
+- '[[_Standards/WikiData/WD~carbon,623|WD~carbon,623]]'
+- '[[_Standards/WikiData/WD~oxygen,629|WD~oxygen,629]]'
+subclass_of: '[[_Standards/WikiData/WD~carbohydrate,11358|WD~carbohydrate,11358]]'
 Dewey_Decimal_Classification: 572.565
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Monosaccharide%20stereoisomers.png
 UMLS_CUI: C0026492
@@ -189,9 +189,9 @@ dv_has_:
 # [[Monosaccharide]] 
 
 #has_/parent_class :: [[Disaccharide]]  
-#has_/instances :: [[Monosaccharide/Fructose]]  
-#has_/instances :: [[Monosaccharide/Galactose]]  
-#has_/instances :: [[Monosaccharide/Glucose]]   
+#has_/instances :: [[Monosaccharide/Fructose|Fructose]]  
+#has_/instances :: [[Monosaccharide/Galactose|Galactose]]  
+#has_/instances :: [[Monosaccharide/Glucose|Glucose]]   
 #is_/same_as :: [[../../../../WikiData/WD~Monosaccharide,133516|WD~Monosaccharide,133516]] 
 
 ## #has_/text_of_/abstract 
@@ -228,9 +228,9 @@ dv_has_:
 > [Wikipedia](https://en.wikipedia.org/wiki/Monosaccharide) 
 
 
-[[Monosaccharide/Glucose]] 
-[[Monosaccharide/Fructose]] 
-[[Monosaccharide/Galactose]] 
+[[Monosaccharide/Glucose|Glucose]] 
+[[Monosaccharide/Fructose|Fructose]] 
+[[Monosaccharide/Galactose|Galactose]] 
 
 
 ## Confidential Links & Embeds: 

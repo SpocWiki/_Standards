@@ -75,24 +75,24 @@ aliases:
 - 인격
 has_id_wikidata: Q641118
 has_characteristic:
-- '[[_Standards/WikiData/WD~idiosyncrasia,171841]]'
-- '[[_Standards/WikiData/WD~personality_type,786753]]'
-- '[[_Standards/WikiData/WD~personality_trait,2393196]]'
-- '[[_Standards/WikiData/WD~personality_style,7170663]]'
+- '[[_Standards/WikiData/WD~idiosyncrasia,171841|WD~idiosyncrasia,171841]]'
+- '[[_Standards/WikiData/WD~personality_type,786753|WD~personality_type,786753]]'
+- '[[_Standards/WikiData/WD~personality_trait,2393196|WD~personality_trait,2393196]]'
+- '[[_Standards/WikiData/WD~personality_style,7170663|WD~personality_style,7170663]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~attitude,622645]]'
-- '[[_Standards/WikiData/WD~behavior,9332]]'
-- '[[_Standards/WikiData/WD~emotion,9415]]'
+- '[[_Standards/WikiData/WD~attitude,622645|WD~attitude,622645]]'
+- '[[_Standards/WikiData/WD~behavior,9332|WD~behavior,9332]]'
+- '[[_Standards/WikiData/WD~emotion,9415|WD~emotion,9415]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 instance_of:
-- '[[_Standards/WikiData/WD~type_of_property,96253971]]'
-- '[[_Standards/WikiData/WD~psychology_concept,96634632]]'
-studied_by: '[[_Standards/WikiData/WD~psychology,9418]]'
-facet_of: '[[_Standards/WikiData/WD~psychology,9418]]'
-subclass_of: '[[_Standards/WikiData/WD~psychology,9418]]'
+- '[[_Standards/WikiData/WD~type_of_property,96253971|WD~type_of_property,96253971]]'
+- '[[_Standards/WikiData/WD~psychology_concept,96634632|WD~psychology_concept,96634632]]'
+studied_by: '[[_Standards/WikiData/WD~psychology,9418|WD~psychology,9418]]'
+facet_of: '[[_Standards/WikiData/WD~psychology,9418|WD~psychology,9418]]'
+subclass_of: '[[_Standards/WikiData/WD~psychology,9418|WD~psychology,9418]]'
 Commons_category: Personality
 Dewey_Decimal_Classification:
 - 155.2

@@ -76,27 +76,27 @@ aliases:
 - 동아프리카 공동체
 has_id_wikidata: Q337456
 instance_of:
-- '[[_Standards/WikiData/WD~intergovernmental_organization,245065]]'
-- '[[_Standards/WikiData/WD~international_organization,484652]]'
+- '[[_Standards/WikiData/WD~intergovernmental_organization,245065|WD~intergovernmental_organization,245065]]'
+- '[[_Standards/WikiData/WD~international_organization,484652|WD~international_organization,484652]]'
 official_observer_status_in_organization:
-- '[[_Standards/WikiData/WD~International_Organization_for_Migration,472311]]'
-- '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423]]'
-member_of: '[[_Standards/WikiData/WD~International_Federation_of_Library_Associations_and_Institutions,1334284]]'
-flag: '[[_Standards/WikiData/WD~flag_of_the_East_African_Community,25230725]]'
+- '[[_Standards/WikiData/WD~International_Organization_for_Migration,472311|WD~International_Organization_for_Migration,472311]]'
+- '[[_Standards/WikiData/WD~United_Nations_General_Assembly,47423|WD~United_Nations_General_Assembly,47423]]'
+member_of: '[[_Standards/WikiData/WD~International_Federation_of_Library_Associations_and_Institutions,1334284|WD~International_Federation_of_Library_Associations_and_Institutions,1334284]]'
+flag: '[[_Standards/WikiData/WD~flag_of_the_East_African_Community,25230725|WD~flag_of_the_East_African_Community,25230725]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Tanzania,924]]'
-- '[[_Standards/WikiData/WD~South_Sudan,958]]'
-- '[[_Standards/WikiData/WD~Burundi,967]]'
-- '[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]'
-- '[[_Standards/WikiData/WD~Uganda,1036]]'
-- '[[_Standards/WikiData/WD~Rwanda,1037]]'
-- '[[_Standards/WikiData/WD~Somalia,1045]]'
-- '[[_Standards/WikiData/WD~Kenya,114]]'
+- '[[_Standards/WikiData/WD~Tanzania,924|WD~Tanzania,924]]'
+- '[[_Standards/WikiData/WD~South_Sudan,958|WD~South_Sudan,958]]'
+- '[[_Standards/WikiData/WD~Burundi,967|WD~Burundi,967]]'
+- '[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974|WD~Democratic_Republic_of_the_Congo,974]]'
+- '[[_Standards/WikiData/WD~Uganda,1036|WD~Uganda,1036]]'
+- '[[_Standards/WikiData/WD~Rwanda,1037|WD~Rwanda,1037]]'
+- '[[_Standards/WikiData/WD~Somalia,1045|WD~Somalia,1045]]'
+- '[[_Standards/WikiData/WD~Kenya,114|WD~Kenya,114]]'
 official_language:
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~Swahili,7838]]'
-- '[[_Standards/WikiData/WD~French,150]]'
-headquarters_locations: '[[_Standards/WikiData/WD~Arusha,4301]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Swahili,7838|WD~Swahili,7838]]'
+- '[[_Standards/WikiData/WD~French,150|WD~French,150]]'
+headquarters_locations: '[[_Standards/WikiData/WD~Arusha,4301|WD~Arusha,4301]]'
 social_media_followers:
 - 8270
 - 155967

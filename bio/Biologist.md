@@ -76,16 +76,16 @@ aliases:
 - 生物學家
 - 생물학자
 has_id_wikidata: Q864503
-has_list: '[[_Standards/WikiData/WD~list_of_biologists,910047]]'
+has_list: '[[_Standards/WikiData/WD~list_of_biologists,910047|WD~list_of_biologists,910047]]'
 partially_coincident_with:
-- '[[_Standards/WikiData/WD~taxonomist,1907198]]'
-- '[[_Standards/WikiData/WD~naturalist,18805]]'
-category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q59576028,59576028]]'
-uses: '[[_Standards/WikiData/WD~biology_terminology,77698139]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_University_of_Washington,98970039]]'
-field_of_this_occupation: '[[_Standards/WikiData/WD~biology,420]]'
-subclass_of: '[[_Standards/WikiData/WD~scientist,901]]'
-instance_of: '[[_Standards/WikiData/WD~profession,28640]]'
+- '[[_Standards/WikiData/WD~taxonomist,1907198|WD~taxonomist,1907198]]'
+- '[[_Standards/WikiData/WD~naturalist,18805|WD~naturalist,18805]]'
+category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q59576028,59576028|WD~Q59576028,59576028]]'
+uses: '[[_Standards/WikiData/WD~biology_terminology,77698139|WD~biology_terminology,77698139]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_PCC_Wikidata_Pilot_University_of_Washington,98970039|WD~WikiProject_PCC_Wikidata_Pilot_University_of_Washington,98970039]]'
+field_of_this_occupation: '[[_Standards/WikiData/WD~biology,420|WD~biology,420]]'
+subclass_of: '[[_Standards/WikiData/WD~scientist,901|WD~scientist,901]]'
+instance_of: '[[_Standards/WikiData/WD~profession,28640|WD~profession,28640]]'
 ISCO_88_occupation_class: 2211
 ISCO_08_occupation_class: 2131
 KldB_2010_occupation_code: 41204
@@ -272,7 +272,7 @@ dv_has_:
 
 # [[Biologist]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~biologist,864503]] 
+#is_/same_as :: [[_Standards/WikiData/WD~biologist,864503|WD~biologist,864503]] 
 
 ## #has_/text_of_/abstract 
 

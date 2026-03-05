@@ -119,16 +119,16 @@ aliases:
 - 羅盤方位
 - 방위
 has_id_wikidata: Q23718
-has_use: '[[_Standards/WikiData/WD~navigation,102066]]'
-opposite_of: '[[_Standards/WikiData/WD~intercardinal_direction,10351538]]'
+has_use: '[[_Standards/WikiData/WD~navigation,102066|WD~navigation,102066]]'
+opposite_of: '[[_Standards/WikiData/WD~intercardinal_direction,10351538|WD~intercardinal_direction,10351538]]'
 different_from:
-- '[[_Standards/WikiData/WD~points_of_the_compass,11114344]]'
-- '[[_Standards/WikiData/WD~supplementary_intercardinal_direction,22809326]]'
-subclass_of: '[[_Standards/WikiData/WD~geographic_direction,13179187]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25681577,25681577]]'
-instance_of: '[[_Standards/WikiData/WD~tetrad,29428373]]'
+- '[[_Standards/WikiData/WD~points_of_the_compass,11114344|WD~points_of_the_compass,11114344]]'
+- '[[_Standards/WikiData/WD~supplementary_intercardinal_direction,22809326|WD~supplementary_intercardinal_direction,22809326]]'
+subclass_of: '[[_Standards/WikiData/WD~geographic_direction,13179187|WD~geographic_direction,13179187]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25681577,25681577|WD~Q25681577,25681577]]'
+instance_of: '[[_Standards/WikiData/WD~tetrad,29428373|WD~tetrad,29428373]]'
 Wikidata_property: direction relative to location
-studied_by: '[[_Standards/WikiData/WD~geography,1071]]'
+studied_by: '[[_Standards/WikiData/WD~geography,1071|WD~geography,1071]]'
 Iconclass_notation: 25A14
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Compass%20Rose%20de%20small%20N.svg

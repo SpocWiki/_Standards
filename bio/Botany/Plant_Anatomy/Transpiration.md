@@ -70,11 +70,11 @@ aliases:
 - 증산
 has_id_wikidata: Q167980
 described_by_source:
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-instance_of: '[[_Standards/WikiData/WD~biological_process,2996394]]'
-subclass_of: '[[_Standards/WikiData/WD~water_transport,14820652]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+instance_of: '[[_Standards/WikiData/WD~biological_process,2996394|WD~biological_process,2996394]]'
+subclass_of: '[[_Standards/WikiData/WD~water_transport,14820652|WD~water_transport,14820652]]'
 OmegaWiki_Defined_Meaning: 3842
 Dewey_Decimal_Classification: 575.8
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9027%20%28swe%29-Ainali-Transpiration.wav

@@ -31,15 +31,15 @@ aliases:
 - 西弗
 - 시버트
 has_id_wikidata: Q103246
-measured_physical_quantity: '[[_Standards/WikiData/WD~dose_equivalent,256106]]'
-named_after: '[[_Standards/WikiData/WD~Rolf_Sievert,345283]]'
+measured_physical_quantity: '[[_Standards/WikiData/WD~dose_equivalent,256106|WD~dose_equivalent,256106]]'
+named_after: '[[_Standards/WikiData/WD~Rolf_Sievert,345283|WD~Rolf_Sievert,345283]]'
 instance_of:
-- '[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328]]'
-- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
-- '[[_Standards/WikiData/WD~unit_of_dose_equivalent,126911365]]'
+- '[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328|WD~SI_unit_with_special_name,68618328]]'
+- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057|WD~UCUM_derived_unit,82047057]]'
+- '[[_Standards/WikiData/WD~unit_of_dose_equivalent,126911365|WD~unit_of_dose_equivalent,126911365]]'
 derived_from_base_unit:
-- '[[_Standards/WikiData/WD~second,11574]]'
-- '[[_Standards/WikiData/WD~metre,11573]]'
+- '[[_Standards/WikiData/WD~second,11574|WD~second,11574]]'
+- '[[_Standards/WikiData/WD~metre,11573|WD~metre,11573]]'
 conversion_to_SI_unit: 1
 OmegaWiki_Defined_Meaning: 346284
 image:

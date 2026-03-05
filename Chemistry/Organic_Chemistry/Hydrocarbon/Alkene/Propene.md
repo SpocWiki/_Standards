@@ -39,25 +39,25 @@ aliases:
 - 丙烯
 - 프로펜
 has_id_wikidata: Q151324
-subclass_of: '[[_Standards/WikiData/WD~alkene,81406]]'
-different_from: '[[_Standards/WikiData/WD~propane,131189]]'
+subclass_of: '[[_Standards/WikiData/WD~alkene,81406|WD~alkene,81406]]'
+different_from: '[[_Standards/WikiData/WD~propane,131189|WD~propane,131189]]'
 monomer_of:
-- '[[_Standards/WikiData/WD~EPDM_rubber,144403]]'
-- '[[_Standards/WikiData/WD~polypropylene,146174]]'
-found_in_taxon: '[[_Standards/WikiData/WD~Senna_sophera,2724545]]'
-described_by_source: '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~EPDM_rubber,144403|WD~EPDM_rubber,144403]]'
+- '[[_Standards/WikiData/WD~polypropylene,146174|WD~polypropylene,146174]]'
+found_in_taxon: '[[_Standards/WikiData/WD~Senna_sophera,2724545|WD~Senna_sophera,2724545]]'
+described_by_source: '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
 part_of:
-- '[[_Standards/WikiData/WD~propylene_metabolic_process,21118860]]'
-- '[[_Standards/WikiData/WD~propylene_catabolic_process,22281425]]'
-- '[[_Standards/WikiData/WD~alkene_monooxygenase_activity,22317521]]'
-safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
+- '[[_Standards/WikiData/WD~propylene_metabolic_process,21118860|WD~propylene_metabolic_process,21118860]]'
+- '[[_Standards/WikiData/WD~propylene_catabolic_process,22281425|WD~propylene_catabolic_process,22281425]]'
+- '[[_Standards/WikiData/WD~alkene_monooxygenase_activity,22317521|WD~alkene_monooxygenase_activity,22317521]]'
+safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288|WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171|WD~type_of_chemical_entity,113145171]]'
 melting_point: -185.25
 boiling_point: -47.69
 has_part_s_:
-- '[[_Standards/WikiData/WD~hydrogen,556]]'
-- '[[_Standards/WikiData/WD~carbon,623]]'
-- '[[_Standards/WikiData/WD~oxygen,629]]'
+- '[[_Standards/WikiData/WD~hydrogen,556|WD~hydrogen,556]]'
+- '[[_Standards/WikiData/WD~carbon,623|WD~carbon,623]]'
+- '[[_Standards/WikiData/WD~oxygen,629|WD~oxygen,629]]'
 electric_dipole_moment: 0.366
 ASHRAE_refrigerant_number: 1270
 Kemler_code: 23
@@ -163,7 +163,7 @@ dv_has_:
     zh: 丙烯
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Propylene,151324]]'
+  - '[[../../../../WikiData/WD~Propylene,151324|WD~Propylene,151324]]'
   - '[[/_Standards/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene/Propene|Propene]]'
   - '[[/_public/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene/Propene.public|Propene.public]]'
   - '[[/_internal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene/Propene.internal|Propene.internal]]'
@@ -173,7 +173,7 @@ dv_is_:
   - '[[/_secret/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene/Propene.secret|Propene.secret]]'
 dv_has_formula_structural: CH3CH=CH2
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Propylene,151324]]'
+- '[[../../../../WikiData/WD~Propylene,151324|WD~Propylene,151324]]'
 - '[[/_Standards/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene/Propene|Propene]]'
 - '[[/_public/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene/Propene.public|Propene.public]]'
 - '[[/_internal/Chemistry/Organic_Chemistry/Hydrocarbon/Alkene/Propene.internal|Propene.internal]]'

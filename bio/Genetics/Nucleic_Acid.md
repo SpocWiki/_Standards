@@ -91,22 +91,22 @@ aliases:
 - 核酸
 - 핵산
 has_id_wikidata: Q123619
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~polynucleotide,80756]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~polynucleotide,80756|WD~polynucleotide,80756]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~polynucleotide,80756]]'
-- '[[_Standards/WikiData/WD~macromolecule,178593]]'
+- '[[_Standards/WikiData/WD~polynucleotide,80756|WD~polynucleotide,80756]]'
+- '[[_Standards/WikiData/WD~macromolecule,178593|WD~macromolecule,178593]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Nucleic_acids,5905543]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Nucleic_acids,5905543|WD~Template_Nucleic_acids,5905543]]'
 part_of:
-- '[[_Standards/WikiData/WD~nucleic_acid_binding,14864825]]'
-- '[[_Standards/WikiData/WD~nucleic_acid_metabolic_process,22279480]]'
-- '[[_Standards/WikiData/WD~nucleic_acid_transport,22292056]]'
-- '[[_Standards/WikiData/WD~nucleic_acid_transmembrane_transporter_activity,22325027]]'
-- '[[_Standards/WikiData/WD~catalytic_activity,_acting_on_a_nucleic_acid,112998110]]'
-instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
-has_part_s_: '[[_Standards/WikiData/WD~nucleotide,28745]]'
+- '[[_Standards/WikiData/WD~nucleic_acid_binding,14864825|WD~nucleic_acid_binding,14864825]]'
+- '[[_Standards/WikiData/WD~nucleic_acid_metabolic_process,22279480|WD~nucleic_acid_metabolic_process,22279480]]'
+- '[[_Standards/WikiData/WD~nucleic_acid_transport,22292056|WD~nucleic_acid_transport,22292056]]'
+- '[[_Standards/WikiData/WD~nucleic_acid_transmembrane_transporter_activity,22325027|WD~nucleic_acid_transmembrane_transporter_activity,22325027]]'
+- '[[_Standards/WikiData/WD~catalytic_activity,_acting_on_a_nucleic_acid,112998110|WD~catalytic_activity,_acting_on_a_nucleic_acid,112998110]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
+has_part_s_: '[[_Standards/WikiData/WD~nucleotide,28745|WD~nucleotide,28745]]'
 OmegaWiki_Defined_Meaning: 2586
 U_S_National_Archives_Identifier: 10643252
 Basisklassifikation:

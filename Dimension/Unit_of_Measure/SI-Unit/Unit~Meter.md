@@ -103,8 +103,8 @@ aliases:
 - 미터
 has_id_wikidata: Q11573
 calculated_from:
-- '[[_Standards/WikiData/WD~speed_of_light_in_vacuum,2111]]'
-- '[[_Standards/WikiData/WD~second,11574]]'
+- '[[_Standards/WikiData/WD~speed_of_light_in_vacuum,2111|WD~speed_of_light_in_vacuum,2111]]'
+- '[[_Standards/WikiData/WD~second,11574|WD~second,11574]]'
 Commons_category: Metre
 conversion_to_SI_unit: 1
 conversion_to_standard_unit:
@@ -113,37 +113,37 @@ conversion_to_standard_unit:
 - 0.001
 - 3.28084
 described_by_source:
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~ISO_80000-3_2006_Quantities_and_units___Part_3__Space_and_time,26711932]]'
-different_from: '[[_Standards/WikiData/WD~Damlakaya,6808876]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~ISO_80000-3_2006_Quantities_and_units___Part_3__Space_and_time,26711932|WD~ISO_80000-3_2006_Quantities_and_units___Part_3__Space_and_time,26711932]]'
+different_from: '[[_Standards/WikiData/WD~Damlakaya,6808876|WD~Damlakaya,6808876]]'
 IEV_number: 112-02-05
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Platinum-Iridium%20meter%20bar.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~SI_base_unit,223662]]'
-- '[[_Standards/WikiData/WD~unit_of_length,1978718]]'
-- '[[_Standards/WikiData/WD~metric_unit,12036470]]'
-- '[[_Standards/WikiData/WD~UCUM_base_unit,82047053]]'
+- '[[_Standards/WikiData/WD~SI_base_unit,223662|WD~SI_base_unit,223662]]'
+- '[[_Standards/WikiData/WD~unit_of_length,1978718|WD~unit_of_length,1978718]]'
+- '[[_Standards/WikiData/WD~metric_unit,12036470|WD~metric_unit,12036470]]'
+- '[[_Standards/WikiData/WD~UCUM_base_unit,82047053|WD~UCUM_base_unit,82047053]]'
 measured_physical_quantity:
-- '[[_Standards/WikiData/WD~distance,126017]]'
-- '[[_Standards/WikiData/WD~radius,173817]]'
-- '[[_Standards/WikiData/WD~displacement,190291]]'
-- '[[_Standards/WikiData/WD~position_vector,192388]]'
-- '[[_Standards/WikiData/WD~height,208826]]'
-- '[[_Standards/WikiData/WD~proper_length,3153623]]'
-- '[[_Standards/WikiData/WD~thickness,3589038]]'
-- '[[_Standards/WikiData/WD~diffusion_coefficient_for_fluence_rate,98876254]]'
-- '[[_Standards/WikiData/WD~width,35059]]'
-- '[[_Standards/WikiData/WD~length,36253]]'
-- '[[_Standards/WikiData/WD~diameter,37221]]'
+- '[[_Standards/WikiData/WD~distance,126017|WD~distance,126017]]'
+- '[[_Standards/WikiData/WD~radius,173817|WD~radius,173817]]'
+- '[[_Standards/WikiData/WD~displacement,190291|WD~displacement,190291]]'
+- '[[_Standards/WikiData/WD~position_vector,192388|WD~position_vector,192388]]'
+- '[[_Standards/WikiData/WD~height,208826|WD~height,208826]]'
+- '[[_Standards/WikiData/WD~proper_length,3153623|WD~proper_length,3153623]]'
+- '[[_Standards/WikiData/WD~thickness,3589038|WD~thickness,3589038]]'
+- '[[_Standards/WikiData/WD~diffusion_coefficient_for_fluence_rate,98876254|WD~diffusion_coefficient_for_fluence_rate,98876254]]'
+- '[[_Standards/WikiData/WD~width,35059|WD~width,35059]]'
+- '[[_Standards/WikiData/WD~length,36253|WD~length,36253]]'
+- '[[_Standards/WikiData/WD~diameter,37221|WD~diameter,37221]]'
 OmegaWiki_Defined_Meaning: 160750
 part_of:
-- '[[_Standards/WikiData/WD~MKS_system_of_units,512417]]'
-- '[[_Standards/WikiData/WD~MKSA_system_of_units,730906]]'
-- '[[_Standards/WikiData/WD~International_System_of_Units,12457]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25507292,25507292]]'
+- '[[_Standards/WikiData/WD~MKS_system_of_units,512417|WD~MKS_system_of_units,512417]]'
+- '[[_Standards/WikiData/WD~MKSA_system_of_units,730906|WD~MKSA_system_of_units,730906]]'
+- '[[_Standards/WikiData/WD~International_System_of_Units,12457|WD~International_System_of_Units,12457]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25507292,25507292|WD~Q25507292,25507292]]'
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Meter-article.ogg
-subdivision_of_this_unit: '[[_Standards/WikiData/WD~decimetre,200323]]'
+subdivision_of_this_unit: '[[_Standards/WikiData/WD~decimetre,200323|WD~decimetre,200323]]'
 UCUM_code: m
 unit_symbol:
 - m
@@ -423,7 +423,7 @@ dv_has_:
 
 # [[Unit~Meter]] 
 
-#is_a :: [[../SI-Unit]] 
+#is_a :: [[../SI-Unit|SI-Unit]] 
 Unit :: #Unit/SI/m
 #is_a_/unit_/for_ :: [[../../Dimension/Dim~Length|Dim~Length]] 
 #is_a_/unit_/for_/length 

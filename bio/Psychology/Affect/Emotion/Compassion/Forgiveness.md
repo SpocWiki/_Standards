@@ -56,16 +56,16 @@ aliases:
 - 許し
 - 용서
 has_id_wikidata: Q537963
-instance_of: '[[_Standards/WikiData/WD~activity,1914636]]'
+instance_of: '[[_Standards/WikiData/WD~activity,1914636|WD~activity,1914636]]'
 different_from:
-- '[[_Standards/WikiData/WD~Pardon,2052098]]'
-- '[[_Standards/WikiData/WD~Forgiveness,3748080]]'
-- '[[_Standards/WikiData/WD~Perdono,3899745]]'
-- '[[_Standards/WikiData/WD~Vergeving,4652435]]'
-- '[[_Standards/WikiData/WD~Kshama,6440771]]'
-- '[[_Standards/WikiData/WD~Perdón,9058299]]'
-part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
-has_part_s_: '[[_Standards/WikiData/WD~forgiveness_of_sins_in_Islam,124882297]]'
+- '[[_Standards/WikiData/WD~Pardon,2052098|WD~Pardon,2052098]]'
+- '[[_Standards/WikiData/WD~Forgiveness,3748080|WD~Forgiveness,3748080]]'
+- '[[_Standards/WikiData/WD~Perdono,3899745|WD~Perdono,3899745]]'
+- '[[_Standards/WikiData/WD~Vergeving,4652435|WD~Vergeving,4652435]]'
+- '[[_Standards/WikiData/WD~Kshama,6440771|WD~Kshama,6440771]]'
+- '[[_Standards/WikiData/WD~Perdón,9058299|WD~Perdón,9058299]]'
+part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620|WD~psychology_terminology,77468620]]'
+has_part_s_: '[[_Standards/WikiData/WD~forgiveness_of_sins_in_Islam,124882297|WD~forgiveness_of_sins_in_Islam,124882297]]'
 Commons_category: Forgiveness
 PhilPapers_topic: forgiveness
 Iconclass_notation: 57A74

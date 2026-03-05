@@ -39,18 +39,18 @@ aliases:
 - 나일론
 has_id_wikidata: Q177941
 has_part_s_:
-- '[[_Standards/WikiData/WD~nylon_6,109454]]'
-- '[[_Standards/WikiData/WD~nylon_66,7071155]]'
-subclass_of: '[[../../../../WikiData/WD~polyamide,145273]]'
+- '[[_Standards/WikiData/WD~nylon_6,109454|WD~nylon_6,109454]]'
+- '[[_Standards/WikiData/WD~nylon_66,7071155|WD~nylon_66,7071155]]'
+subclass_of: '[[../../../../WikiData/WD~polyamide,145273|WD~polyamide,145273]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
-- "[[_Standards/WikiData/WD~Fairchild's_Dictionary_of_Textiles,28888841]]"
+- '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764|WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
+- "[[_Standards/WikiData/WD~Fairchild's_Dictionary_of_Textiles,28888841|WD~Fairchild's_Dictionary_of_Textiles,28888841]]"
 instance_of:
-- '[[_Standards/WikiData/WD~group_or_class_of_chemical_substances,17339814]]'
-- '[[_Standards/WikiData/WD~type_of_polymer,119896085]]'
+- '[[_Standards/WikiData/WD~group_or_class_of_chemical_substances,17339814|WD~group_or_class_of_chemical_substances,17339814]]'
+- '[[_Standards/WikiData/WD~type_of_polymer,119896085|WD~type_of_polymer,119896085]]'
 part_of:
-- '[[_Standards/WikiData/WD~nylon_metabolic_process,22282647]]'
-- '[[_Standards/WikiData/WD~nylon_catabolic_process,22282648]]'
+- '[[_Standards/WikiData/WD~nylon_metabolic_process,22282647|WD~nylon_metabolic_process,22282647]]'
+- '[[_Standards/WikiData/WD~nylon_catabolic_process,22282648|WD~nylon_catabolic_process,22282648]]'
 tensile_modulus_of_elasticity: 3
 ultimate_tensile_strength: 50
 thermal_diffusivity: 0.09
@@ -67,7 +67,7 @@ MeSH_tree_code:
 time_of_discovery_or_invention: 1935-01-01T00:00:00Z
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~nylon,177941]]'
+  - '[[_Standards/WikiData/WD~nylon,177941|WD~nylon,177941]]'
   - '[[/_Standards/Chemistry/Organic_Chemistry/Polymer/Polyamide/Nylon|Nylon]]'
   - '[[/_public/Chemistry/Organic_Chemistry/Polymer/Polyamide/Nylon.public|Nylon.public]]'
   - '[[/_internal/Chemistry/Organic_Chemistry/Polymer/Polyamide/Nylon.internal|Nylon.internal]]'
@@ -76,7 +76,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Organic_Chemistry/Polymer/Polyamide/Nylon.personal|Nylon.personal]]'
   - '[[/_secret/Chemistry/Organic_Chemistry/Polymer/Polyamide/Nylon.secret|Nylon.secret]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~nylon,177941]]'
+- '[[_Standards/WikiData/WD~nylon,177941|WD~nylon,177941]]'
 - '[[/_Standards/Chemistry/Organic_Chemistry/Polymer/Polyamide/Nylon|Nylon]]'
 - '[[/_public/Chemistry/Organic_Chemistry/Polymer/Polyamide/Nylon.public|Nylon.public]]'
 - '[[/_internal/Chemistry/Organic_Chemistry/Polymer/Polyamide/Nylon.internal|Nylon.internal]]'
@@ -172,7 +172,7 @@ dv_has_:
 
 # [[Nylon]]  
 
-#is_/same_as :: [[_Standards/WikiData/WD~nylon,177941]] 
+#is_/same_as :: [[_Standards/WikiData/WD~nylon,177941|WD~nylon,177941]] 
 
 ## #has_/text_of_/abstract 
 

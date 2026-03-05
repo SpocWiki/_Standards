@@ -49,15 +49,15 @@ aliases:
 - 밑들이목
 has_id_wikidata: Q205301
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q14976334,14976334]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q14976334,14976334|WD~Q14976334,14976334]]'
 parent_taxon:
-- '[[_Standards/WikiData/WD~Antliophora,21354350]]'
-- '[[_Standards/WikiData/WD~Holometabola,37140800]]'
+- '[[_Standards/WikiData/WD~Antliophora,21354350|WD~Antliophora,21354350]]'
+- '[[_Standards/WikiData/WD~Holometabola,37140800|WD~Holometabola,37140800]]'
 start_time: -299000000-01-01T00:00:00Z
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~order,36602|WD~order,36602]]'
 ITIS_TSN: 114994
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bittacidae%20fg1.jpg
 taxon_common_name:

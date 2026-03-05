@@ -98,22 +98,22 @@ aliases:
 - 청년
 - "\U000210C1"
 has_id_wikidata: Q190007
-has_characteristic: '[[_Standards/WikiData/WD~subculture,264965]]'
-studied_by: '[[_Standards/WikiData/WD~sociology_of_youth,431005]]'
+has_characteristic: '[[_Standards/WikiData/WD~subculture,264965|WD~subculture,264965]]'
+studied_by: '[[_Standards/WikiData/WD~sociology_of_youth,431005|WD~sociology_of_youth,431005]]'
 instance_of:
-- '[[_Standards/WikiData/WD~phase_of_human_life,785260]]'
-- '[[_Standards/WikiData/WD~age_group,42401304]]'
-opposite_of: '[[_Standards/WikiData/WD~elderly_people,2191986]]'
+- '[[_Standards/WikiData/WD~phase_of_human_life,785260|WD~phase_of_human_life,785260]]'
+- '[[_Standards/WikiData/WD~age_group,42401304|WD~age_group,42401304]]'
+opposite_of: '[[_Standards/WikiData/WD~elderly_people,2191986|WD~elderly_people,2191986]]'
 different_from:
-- '[[_Standards/WikiData/WD~young_person,12350071]]'
-- '[[_Standards/WikiData/WD~youthness,109839871]]'
-- '[[_Standards/WikiData/WD~Q113958132,113958132]]'
+- '[[_Standards/WikiData/WD~young_person,12350071|WD~young_person,12350071]]'
+- '[[_Standards/WikiData/WD~youthness,109839871|WD~youthness,109839871]]'
+- '[[_Standards/WikiData/WD~Q113958132,113958132|WD~Q113958132,113958132]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 partially_coincident_with:
-- '[[_Standards/WikiData/WD~Q113958132,113958132]]'
-- '[[_Standards/WikiData/WD~children_and_youth,115160289]]'
+- '[[_Standards/WikiData/WD~Q113958132,113958132|WD~Q113958132,113958132]]'
+- '[[_Standards/WikiData/WD~children_and_youth,115160289|WD~children_and_youth,115160289]]'
 age_of_subject_at_event: 20
 OmegaWiki_Defined_Meaning: 4191
 Commons_category: Youth

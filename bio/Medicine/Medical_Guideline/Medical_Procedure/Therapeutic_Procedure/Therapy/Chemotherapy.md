@@ -66,15 +66,15 @@ aliases:
 - 화학요법
 has_id_wikidata: Q974135
 has_effect:
-- '[[_Standards/WikiData/WD~vomiting,127076]]'
-- '[[_Standards/WikiData/WD~cancer_pain,3712728]]'
-uses: '[[_Standards/WikiData/WD~chemotherapeutic_agents,574031]]'
+- '[[_Standards/WikiData/WD~vomiting,127076|WD~vomiting,127076]]'
+- '[[_Standards/WikiData/WD~cancer_pain,3712728|WD~cancer_pain,3712728]]'
+uses: '[[_Standards/WikiData/WD~chemotherapeutic_agents,574031|WD~chemotherapeutic_agents,574031]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~treatment_of_cancer,2575340]]'
-- '[[_Standards/WikiData/WD~chemotherapy,3252988]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-different_from: '[[_Standards/WikiData/WD~chemotherapy,3252988]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Targeted_cancer_therapeutic_agents,5769797]]'
+- '[[_Standards/WikiData/WD~treatment_of_cancer,2575340|WD~treatment_of_cancer,2575340]]'
+- '[[_Standards/WikiData/WD~chemotherapy,3252988|WD~chemotherapy,3252988]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+different_from: '[[_Standards/WikiData/WD~chemotherapy,3252988|WD~chemotherapy,3252988]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Targeted_cancer_therapeutic_agents,5769797|WD~Template_Targeted_cancer_therapeutic_agents,5769797]]'
 OmegaWiki_Defined_Meaning: 491354
 Commons_category: Chemotherapy
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Chemotherapy%20vials%20%284%29.jpg

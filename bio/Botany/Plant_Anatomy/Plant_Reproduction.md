@@ -42,17 +42,17 @@ aliases:
 - 植物繁殖
 has_id_wikidata: Q2725616
 has_part_s_:
-- '[[_Standards/WikiData/WD~pollination,134624]]'
-- '[[_Standards/WikiData/WD~vegetative_reproduction,464666]]'
-- '[[_Standards/WikiData/WD~plant_reproductive_morphology,1608538]]'
+- '[[_Standards/WikiData/WD~pollination,134624|WD~pollination,134624]]'
+- '[[_Standards/WikiData/WD~vegetative_reproduction,464666|WD~vegetative_reproduction,464666]]'
+- '[[_Standards/WikiData/WD~plant_reproductive_morphology,1608538|WD~plant_reproductive_morphology,1608538]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-has_characteristic: '[[_Standards/WikiData/WD~mode_of_biological_reproduction,130077803]]'
-part_of: '[[_Standards/WikiData/WD~botany,441]]'
-class_of_object_s_of_occurrence: '[[_Standards/WikiData/WD~plant,756]]'
-field_of_work: '[[_Standards/WikiData/WD~plant,756]]'
-subclass_of: '[[_Standards/WikiData/WD~reproduction,11990]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+has_characteristic: '[[_Standards/WikiData/WD~mode_of_biological_reproduction,130077803|WD~mode_of_biological_reproduction,130077803]]'
+part_of: '[[_Standards/WikiData/WD~botany,441|WD~botany,441]]'
+class_of_object_s_of_occurrence: '[[_Standards/WikiData/WD~plant,756|WD~plant,756]]'
+field_of_work: '[[_Standards/WikiData/WD~plant,756|WD~plant,756]]'
+subclass_of: '[[_Standards/WikiData/WD~reproduction,11990|WD~reproduction,11990]]'
 Commons_category: Plant reproduction
 dv_has_:
   name_:

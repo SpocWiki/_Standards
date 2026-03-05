@@ -83,27 +83,27 @@ aliases:
 - 이질
 has_id_wikidata: Q129279
 instance_of:
-- '[[_Standards/WikiData/WD~syndrome,179630]]'
-- '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+- '[[_Standards/WikiData/WD~syndrome,179630|WD~syndrome,179630]]'
+- '[[_Standards/WikiData/WD~class_of_disease,112193867|WD~class_of_disease,112193867]]'
 drug_or_therapy_used_for_treatment:
-- '[[_Standards/WikiData/WD~ciprofloxacin,256602]]'
-- '[[_Standards/WikiData/WD~L_scopolamine,337188]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~shigellosis,327298]]'
-different_from: '[[_Standards/WikiData/WD~Czerwonka,418040]]'
+- '[[_Standards/WikiData/WD~ciprofloxacin,256602|WD~ciprofloxacin,256602]]'
+- '[[_Standards/WikiData/WD~L_scopolamine,337188|WD~L_scopolamine,337188]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~shigellosis,327298|WD~shigellosis,327298]]'
+different_from: '[[_Standards/WikiData/WD~Czerwonka,418040|WD~Czerwonka,418040]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-health_specialty: '[[_Standards/WikiData/WD~infectious_diseases,788926]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+health_specialty: '[[_Standards/WikiData/WD~infectious_diseases,788926|WD~infectious_diseases,788926]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~colitis,2453464]]'
-- '[[_Standards/WikiData/WD~intestinal_infectious_disease,2970970]]'
-- '[[_Standards/WikiData/WD~disease,12136]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
+- '[[_Standards/WikiData/WD~colitis,2453464|WD~colitis,2453464]]'
+- '[[_Standards/WikiData/WD~intestinal_infectious_disease,2970970|WD~intestinal_infectious_disease,2970970]]'
+- '[[_Standards/WikiData/WD~disease,12136|WD~disease,12136]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686|WD~WikiProject_Medicine,4099686]]'
 symptoms_and_signs:
-- '[[_Standards/WikiData/WD~hemorrhagic_diarrhea,21513416]]'
-- '[[_Standards/WikiData/WD~diarrhea,40878]]'
+- '[[_Standards/WikiData/WD~hemorrhagic_diarrhea,21513416|WD~hemorrhagic_diarrhea,21513416]]'
+- '[[_Standards/WikiData/WD~diarrhea,40878|WD~diarrhea,40878]]'
 OmegaWiki_Defined_Meaning: 1070803
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dysentery%20Patient%2C%20Burma%20Hospital%2C%20Siam%20Art.IWMART1541787.jpg
 exact_match:

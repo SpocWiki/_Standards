@@ -66,27 +66,27 @@ aliases:
 - 臭素
 - 브로민
 has_id_wikidata: Q879
-associated_hazard: '[[_Standards/WikiData/WD~bromine_exposure,21173316]]'
+associated_hazard: '[[_Standards/WikiData/WD~bromine_exposure,21173316|WD~bromine_exposure,21173316]]'
 atomic_number: 35
 Commons_category: Bromine
 Commons_gallery: Bromine
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-different_from: '[[_Standards/WikiData/WD~theobromine,206844]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+different_from: '[[_Standards/WikiData/WD~theobromine,206844|WD~theobromine,206844]]'
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Antoine_Jérôme_Balard,314306]]'
-- '[[_Standards/WikiData/WD~Carl_Jacob_Löwig,65517]]'
+- '[[_Standards/WikiData/WD~Antoine_Jérôme_Balard,314306|WD~Antoine_Jérôme_Balard,314306]]'
+- '[[_Standards/WikiData/WD~Carl_Jacob_Löwig,65517|WD~Carl_Jacob_Löwig,65517]]'
 electronegativity: 3
 element_symbol: Br
 Gmelin_number: 1182
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bromine%20vial%20in%20acrylic%20cube.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+- '[[_Standards/WikiData/WD~lithophile,1130479|WD~lithophile,1130479]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 ionic_radius:
 - 0.25
 - 0.31
@@ -94,31 +94,31 @@ ionic_radius:
 - 1.96
 ionization_energy: 10.55
 Krugosvet_article: nauka_i_tehnika/himiya/BROM.html
-location_of_discovery: '[[_Standards/WikiData/WD~France,142]]'
+location_of_discovery: '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
 made_from_material:
-- '[[_Standards/WikiData/WD~seawater,184395]]'
-- '[[_Standards/WikiData/WD~brine,214403]]'
+- '[[_Standards/WikiData/WD~seawater,184395|WD~seawater,184395]]'
+- '[[_Standards/WikiData/WD~brine,214403|WD~brine,214403]]'
 mass: 79.904
 MeSH_tree_code: D01.268.380.112
-named_after: '[[_Standards/WikiData/WD~stink,1519476]]'
+named_after: '[[_Standards/WikiData/WD~stink,1519476|WD~stink,1519476]]'
 OmegaWiki_Defined_Meaning: 434
 part_of:
-- '[[_Standards/WikiData/WD~period_4,239825]]'
-- '[[_Standards/WikiData/WD~halogens,19605]]'
+- '[[_Standards/WikiData/WD~period_4,239825|WD~period_4,239825]]'
+- '[[_Standards/WikiData/WD~halogens,19605|WD~halogens,19605]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Bromine-ar.ogg
 SpocWebEntityId: 21933
 subclass_of:
-- '[[_Standards/WikiData/WD~chemical_substance,79529]]'
-- '[[_Standards/WikiData/WD~diatomic_nonmetal,19753344]]'
-- '[[_Standards/WikiData/WD~nonmetal,19600]]'
-- '[[_Standards/WikiData/WD~halogens,19605]]'
+- '[[_Standards/WikiData/WD~chemical_substance,79529|WD~chemical_substance,79529]]'
+- '[[_Standards/WikiData/WD~diatomic_nonmetal,19753344|WD~diatomic_nonmetal,19753344]]'
+- '[[_Standards/WikiData/WD~nonmetal,19600|WD~nonmetal,19600]]'
+- '[[_Standards/WikiData/WD~halogens,19605|WD~halogens,19605]]'
 time_of_discovery_or_invention: 1825
 type: Element
 UMLS_CUI: C0006223
 Unicode_character: 溴
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Bromine,879]]'
+  - '[[../../../WikiData/WD~Bromine,879|WD~Bromine,879]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Group-17-Halogen/Bromine|Bromine]]'
   - '[[/_public/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.public|Bromine.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.internal|Bromine.internal]]'
@@ -126,7 +126,7 @@ dv_is_:
   - '[[/_private/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.private|Bromine.private]]'
   - '[[/_personal/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.personal|Bromine.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.secret|Bromine.secret]]'
-  part_of: '[[../Group-17-Halogen]]'
+  part_of: '[[../Group-17-Halogen|Group-17-Halogen]]'
 dv_has_:
   name_:
     abbreviated: Br
@@ -332,7 +332,7 @@ dv_has_:
         kj_:
           mol: 15.438
 dv_is_same_as:
-- '[[../../../WikiData/WD~Bromine,879]]'
+- '[[../../../WikiData/WD~Bromine,879|WD~Bromine,879]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Group-17-Halogen/Bromine|Bromine]]'
 - '[[/_public/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.public|Bromine.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.internal|Bromine.internal]]'
@@ -341,7 +341,7 @@ dv_is_same_as:
 - '[[/_personal/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.personal|Bromine.personal]]'
 - '[[/_secret/Chemistry/Chemical_Element/Group-17-Halogen/Bromine.secret|Bromine.secret]]'
 dv_has_name_group: Group-17-Halogene
-dv_is_part_of: '[[../Group-17-Halogen]]'
+dv_is_part_of: '[[../Group-17-Halogen|Group-17-Halogen]]'
 dv_has_name_en: Bromine
 dv_has_name_de: Brom
 dv_has_value_for_weight_u: 79.904
@@ -365,7 +365,7 @@ dv_has_number_of_electrons: 35
 
 # [[Bromine]] 溴 
 
-#is_/same_as :: [[../../../WikiData/WD~Bromine,879]] 
+#is_/same_as :: [[../../../WikiData/WD~Bromine,879|WD~Bromine,879]] 
 
 
 #chemic/Element 

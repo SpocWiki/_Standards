@@ -38,8 +38,8 @@ aliases:
 - 星暴星系
 - 폭발적 항성 생성 은하
 has_id_wikidata: Q726611
-instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
-subclass_of: '[[_Standards/WikiData/WD~galaxy,318]]'
+instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909|WD~astronomical_object_type,17444909]]'
+subclass_of: '[[_Standards/WikiData/WD~galaxy,318|WD~galaxy,318]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Antennae%20galaxies%20xl.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/NGC%201569.jpg

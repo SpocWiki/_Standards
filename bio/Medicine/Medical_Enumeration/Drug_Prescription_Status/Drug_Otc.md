@@ -34,9 +34,9 @@ Tag Instances like this:
 
 The character of a medical substance, typically a medicine, of being available over the counter or not.
 
-#has_/parent_class :: [[../DrugPrescriptionStatus]]  
+#has_/parent_class :: [[../DrugPrescriptionStatus|DrugPrescriptionStatus]]  
 
-#is_/enum_of :: [[../DrugPrescriptionStatus]]  
+#is_/enum_of :: [[../DrugPrescriptionStatus|DrugPrescriptionStatus]]  
 
 ## Confidential Links & Embeds: 
 

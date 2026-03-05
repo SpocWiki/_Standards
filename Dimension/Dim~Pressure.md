@@ -97,23 +97,23 @@ aliases:
 - 압력
 has_id_wikidata: Q39552
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~scalar_quantity,181175]]'
-- '[[_Standards/WikiData/WD~intensive_quantity,3387041]]'
-- '[[_Standards/WikiData/WD~ISQ_derived_quantity,30337763]]'
-- '[[_Standards/WikiData/WD~areal_quantity,67598689]]'
-invariant_under: '[[_Standards/WikiData/WD~isobaric_process,137649]]'
-different_from: '[[_Standards/WikiData/WD~mechanical_stress,206175]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~scalar_quantity,181175|WD~scalar_quantity,181175]]'
+- '[[_Standards/WikiData/WD~intensive_quantity,3387041|WD~intensive_quantity,3387041]]'
+- '[[_Standards/WikiData/WD~ISQ_derived_quantity,30337763|WD~ISQ_derived_quantity,30337763]]'
+- '[[_Standards/WikiData/WD~areal_quantity,67598689|WD~areal_quantity,67598689]]'
+invariant_under: '[[_Standards/WikiData/WD~isobaric_process,137649|WD~isobaric_process,137649]]'
+different_from: '[[_Standards/WikiData/WD~mechanical_stress,206175|WD~mechanical_stress,206175]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~ISO_80000_4_2006_Quantities_and_units_Part_4_Mechanics,26711933]]'
-- '[[_Standards/WikiData/WD~ISO_80000_4_2019_Quantities_and_units_Part_4_Mechanics,73391977]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~ISO_80000_4_2006_Quantities_and_units_Part_4_Mechanics,26711933|WD~ISO_80000_4_2006_Quantities_and_units_Part_4_Mechanics,26711933]]'
+- '[[_Standards/WikiData/WD~ISO_80000_4_2019_Quantities_and_units_Part_4_Mechanics,73391977|WD~ISO_80000_4_2019_Quantities_and_units_Part_4_Mechanics,73391977]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 recommended_unit_of_measurement:
-- '[[_Standards/WikiData/WD~newton_per_square_metre,39469927]]'
-- '[[_Standards/WikiData/WD~kilogram_per_metre_square_second,106681449]]'
-- '[[_Standards/WikiData/WD~pascal,44395]]'
+- '[[_Standards/WikiData/WD~newton_per_square_metre,39469927|WD~newton_per_square_metre,39469927]]'
+- '[[_Standards/WikiData/WD~kilogram_per_metre_square_second,106681449|WD~kilogram_per_metre_square_second,106681449]]'
+- '[[_Standards/WikiData/WD~pascal,44395|WD~pascal,44395]]'
 in_defining_formula:
 - "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><msub><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D486</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">n</mi></mrow></mrow></msub></mstyle></mrow></math>"
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>p</mi></mstyle></mrow></math>

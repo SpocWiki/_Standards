@@ -91,14 +91,14 @@ taxon_common_name:
 - Bukowe rostliny
 - Bükkfafélék
 - Fagacee
-taxon_synonym: '[[_Standards/WikiData/WD~Cupuliferae,676540]]'
-described_by_source: '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_22,112869398]]'
-subclass_of: '[[_Standards/WikiData/WD~tree,10884]]'
-has_fruit_type: '[[_Standards/WikiData/WD~nut,11009]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-parent_taxon: '[[_Standards/WikiData/WD~Fagales,21881]]'
-taxonomic_type: '[[_Standards/WikiData/WD~Fagus,25403]]'
-taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+taxon_synonym: '[[_Standards/WikiData/WD~Cupuliferae,676540|WD~Cupuliferae,676540]]'
+described_by_source: '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_22,112869398|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_22,112869398]]'
+subclass_of: '[[_Standards/WikiData/WD~tree,10884|WD~tree,10884]]'
+has_fruit_type: '[[_Standards/WikiData/WD~nut,11009|WD~nut,11009]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+parent_taxon: '[[_Standards/WikiData/WD~Fagales,21881|WD~Fagales,21881]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Fagus,25403|WD~Fagus,25403]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409|WD~family,35409]]'
 ITIS_TSN: 19275
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Fagaceae%20Distribution.svg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Quercus%20ilex%20rotundifolia.jpg

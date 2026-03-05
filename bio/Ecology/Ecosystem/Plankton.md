@@ -42,24 +42,24 @@ aliases:
 - 플랑크톤
 has_id_wikidata: Q25367
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
-opposite_of: '[[_Standards/WikiData/WD~nekton,751806]]'
-studied_by: '[[_Standards/WikiData/WD~planktology,1201861]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636|WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
+opposite_of: '[[_Standards/WikiData/WD~nekton,751806|WD~nekton,751806]]'
+studied_by: '[[_Standards/WikiData/WD~planktology,1201861|WD~planktology,1201861]]'
 habitat:
-- '[[_Standards/WikiData/WD~air,7391292]]'
-- '[[_Standards/WikiData/WD~body_of_water,15324]]'
+- '[[_Standards/WikiData/WD~air,7391292|WD~air,7391292]]'
+- '[[_Standards/WikiData/WD~body_of_water,15324|WD~body_of_water,15324]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Plankton,20334125]]'
-- '[[_Standards/WikiData/WD~Template_Plankton_sidebar,104714739]]'
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-instance_of: '[[_Standards/WikiData/WD~class_of_living_thing,55597235]]'
-subclass_of: '[[_Standards/WikiData/WD~organism,7239]]'
+- '[[_Standards/WikiData/WD~Template_Plankton,20334125|WD~Template_Plankton,20334125]]'
+- '[[_Standards/WikiData/WD~Template_Plankton_sidebar,104714739|WD~Template_Plankton_sidebar,104714739]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
+instance_of: '[[_Standards/WikiData/WD~class_of_living_thing,55597235|WD~class_of_living_thing,55597235]]'
+subclass_of: '[[_Standards/WikiData/WD~organism,7239|WD~organism,7239]]'
 Commons_gallery: Plankton
 Commons_category: Plankton
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Diatoms%20through%20the%20microscope.jpg

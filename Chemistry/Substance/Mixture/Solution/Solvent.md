@@ -74,17 +74,17 @@ aliases:
 - 溶媒
 - 용매
 has_id_wikidata: Q146505
-subclass_of: '[[_Standards/WikiData/WD~chemical_substance,79529]]'
-physically_interacts_with: '[[_Standards/WikiData/WD~solute,1079788]]'
-has_use: '[[_Standards/WikiData/WD~dissolution,3133701]]'
+subclass_of: '[[_Standards/WikiData/WD~chemical_substance,79529|WD~chemical_substance,79529]]'
+physically_interacts_with: '[[_Standards/WikiData/WD~solute,1079788|WD~solute,1079788]]'
+has_use: '[[_Standards/WikiData/WD~dissolution,3133701|WD~dissolution,3133701]]'
 instance_of:
-- '[[_Standards/WikiData/WD~role,4897819]]'
-- '[[_Standards/WikiData/WD~class_of_chemical_substances_by_use,100434640]]'
-has_effect: '[[_Standards/WikiData/WD~solvent_effects,7559035]]'
-associated_hazard: '[[_Standards/WikiData/WD~solvent_exposure,7559033]]'
+- '[[_Standards/WikiData/WD~role,4897819|WD~role,4897819]]'
+- '[[_Standards/WikiData/WD~class_of_chemical_substances_by_use,100434640|WD~class_of_chemical_substances_by_use,100434640]]'
+has_effect: '[[_Standards/WikiData/WD~solvent_effects,7559035|WD~solvent_effects,7559035]]'
+associated_hazard: '[[_Standards/WikiData/WD~solvent_exposure,7559033|WD~solvent_exposure,7559033]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 Wikidata_property: solvent
 OmegaWiki_Defined_Meaning: 3550
 image: http://commons.wikimedia.org/wiki/Special:FilePath/SaltInWaterSolutionLiquid.jpg

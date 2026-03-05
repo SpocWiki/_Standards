@@ -33,9 +33,9 @@ Tag Instances like this:
 
 Podiatry is the care of the human foot, especially the diagnosis and treatment of foot disorders.
 
-#has_/parent_class :: [[../MedicalBusiness, MedicalSpecialty]]  
+#has_/parent_class :: [[../MedicalBusiness, MedicalSpecialty|MedicalBusiness, MedicalSpecialty]]  
 
-#is_/enum_of :: [[../MedicalSpecialty]]  
+#is_/enum_of :: [[../MedicalSpecialty|MedicalSpecialty]]  
 
 ## Confidential Links & Embeds: 
 

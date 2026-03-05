@@ -113,22 +113,22 @@ aliases:
 - 진동수
 has_id_wikidata: Q11652
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~scalar_quantity,181175]]'
-- '[[_Standards/WikiData/WD~reciprocal_duration,98690850]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~scalar_quantity,181175|WD~scalar_quantity,181175]]'
+- '[[_Standards/WikiData/WD~reciprocal_duration,98690850|WD~reciprocal_duration,98690850]]'
 different_from:
-- '[[_Standards/WikiData/WD~letter_frequency,520562]]'
-- '[[_Standards/WikiData/WD~frequency,762856]]'
-- '[[_Standards/WikiData/WD~rotational_frequency,30338278]]'
+- '[[_Standards/WikiData/WD~letter_frequency,520562|WD~letter_frequency,520562]]'
+- '[[_Standards/WikiData/WD~frequency,762856|WD~frequency,762856]]'
+- '[[_Standards/WikiData/WD~rotational_frequency,30338278|WD~rotational_frequency,30338278]]'
 recommended_unit_of_measurement:
-- '[[_Standards/WikiData/WD~reciprocal_second,6137407]]'
-- '[[_Standards/WikiData/WD~hertz,39369]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q11498076,11498076]]'
-facet_of: '[[_Standards/WikiData/WD~repetition,18699055]]'
+- '[[_Standards/WikiData/WD~reciprocal_second,6137407|WD~reciprocal_second,6137407]]'
+- '[[_Standards/WikiData/WD~hertz,39369|WD~hertz,39369]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q11498076,11498076|WD~Q11498076,11498076]]'
+facet_of: '[[_Standards/WikiData/WD~repetition,18699055|WD~repetition,18699055]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~ISO_80000_3_2006_Quantities_and_units_Part_3_Space_and_time,26711932]]'
-- '[[_Standards/WikiData/WD~ISO_80000_3_2019_Quantities_and_units_Part_3_Space_and_time,90137277]]'
+- '[[_Standards/WikiData/WD~ISO_80000_3_2006_Quantities_and_units_Part_3_Space_and_time,26711932|WD~ISO_80000_3_2006_Quantities_and_units_Part_3_Space_and_time,26711932]]'
+- '[[_Standards/WikiData/WD~ISO_80000_3_2019_Quantities_and_units_Part_3_Space_and_time,90137277|WD~ISO_80000_3_2019_Quantities_and_units_Part_3_Space_and_time,90137277]]'
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>f</mi><mo stretchy="false">=</mo><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mn>1</mn></mrow><mrow data-mjx-texclass="ORD"><mi>T</mi></mrow></mfrac></mrow></mstyle></mrow></math>
 ISQ_dimension: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5B3</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mo stretchy=\"false\">&#x2212;</mo><mn>1</mn></mrow></mrow></msup></mstyle></mrow></math>"
 Wikidata_property: frequency

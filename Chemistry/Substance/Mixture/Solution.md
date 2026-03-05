@@ -78,17 +78,17 @@ aliases:
 - 용액
 has_id_wikidata: Q5447188
 has_part_s_:
-- '[[_Standards/WikiData/WD~solvent,146505]]'
-- '[[_Standards/WikiData/WD~solute,1079788]]'
+- '[[_Standards/WikiData/WD~solvent,146505|WD~solvent,146505]]'
+- '[[_Standards/WikiData/WD~solute,1079788|WD~solute,1079788]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-manifestation_of: '[[_Standards/WikiData/WD~solvation,739398]]'
-has_cause: '[[_Standards/WikiData/WD~solvation,739398]]'
-studied_by: '[[_Standards/WikiData/WD~wet_chemistry,2963660]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Chemical_solutions,8084143]]'
-subclass_of: '[[_Standards/WikiData/WD~homogeneous_mixture,12882296]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+manifestation_of: '[[_Standards/WikiData/WD~solvation,739398|WD~solvation,739398]]'
+has_cause: '[[_Standards/WikiData/WD~solvation,739398|WD~solvation,739398]]'
+studied_by: '[[_Standards/WikiData/WD~wet_chemistry,2963660|WD~wet_chemistry,2963660]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Chemical_solutions,8084143|WD~Template_Chemical_solutions,8084143]]'
+subclass_of: '[[_Standards/WikiData/WD~homogeneous_mixture,12882296|WD~homogeneous_mixture,12882296]]'
 IEV_number: 114-01-07
 UMLS_CUI: C0037633
 MeSH_tree_code: D26.776

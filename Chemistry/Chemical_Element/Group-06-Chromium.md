@@ -61,23 +61,23 @@ aliases:
 has_id_wikidata: Q193280
 Commons_category: Periodic table group 6
 has_part_s_:
-- '[[_Standards/WikiData/WD~chromium,725]]'
-- '[[_Standards/WikiData/WD~tungsten,743]]'
-- '[[_Standards/WikiData/WD~molybdenum,1053]]'
-- '[[_Standards/WikiData/WD~seaborgium,1234]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+- '[[_Standards/WikiData/WD~chromium,725|WD~chromium,725]]'
+- '[[_Standards/WikiData/WD~tungsten,743|WD~tungsten,743]]'
+- '[[_Standards/WikiData/WD~molybdenum,1053|WD~molybdenum,1053]]'
+- '[[_Standards/WikiData/WD~seaborgium,1234|WD~seaborgium,1234]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Chromium%20crystals%20and%201cm3%20cube.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Wolfram%20evaporated%20crystals%20and%201cm3%20cube.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Molybdenum%20crystaline%20fragment%20and%201cm3%20cube.jpg
-instance_of: '[[_Standards/WikiData/WD~group,83306]]'
+instance_of: '[[_Standards/WikiData/WD~group,83306|WD~group,83306]]'
 part_of:
-- '[[_Standards/WikiData/WD~d_block,214503]]'
-- '[[_Standards/WikiData/WD~periodic_table,10693]]'
+- '[[_Standards/WikiData/WD~d_block,214503|WD~d_block,214503]]'
+- '[[_Standards/WikiData/WD~periodic_table,10693|WD~periodic_table,10693]]'
 type: ElementGroup
 dv_is_:
   same_as:
-  - '[[../../WikiData/WD~Group_6,193280]]'
+  - '[[../../WikiData/WD~Group_6,193280|WD~Group_6,193280]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Group-06-Chromium|Group-06-Chromium]]'
   - '[[/_public/Chemistry/Chemical_Element/Group-06-Chromium.public|Group-06-Chromium.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Group-06-Chromium.internal|Group-06-Chromium.internal]]'
@@ -86,7 +86,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Chemical_Element/Group-06-Chromium.personal|Group-06-Chromium.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Group-06-Chromium.secret|Group-06-Chromium.secret]]'
 dv_is_same_as:
-- '[[../../WikiData/WD~Group_6,193280]]'
+- '[[../../WikiData/WD~Group_6,193280|WD~Group_6,193280]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Group-06-Chromium|Group-06-Chromium]]'
 - '[[/_public/Chemistry/Chemical_Element/Group-06-Chromium.public|Group-06-Chromium.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Group-06-Chromium.internal|Group-06-Chromium.internal]]'
@@ -172,11 +172,11 @@ dv_has_:
 
 #chemic/Group 
 
-4)[[Group-06-Chromium/Chromium]]]
-5)[[Group-06-Chromium/Molybdenum]]]
-6)[[Group-06-Chromium/Tungsten]]]
+4)[[Group-06-Chromium/Chromium|Chromium]]]
+5)[[Group-06-Chromium/Molybdenum|Molybdenum]]]
+6)[[Group-06-Chromium/Tungsten|Tungsten]]]
 
-#is_/same_as :: [[../../WikiData/WD~Group_6,193280]] 
+#is_/same_as :: [[../../WikiData/WD~Group_6,193280|WD~Group_6,193280]] 
 ## #has_/text_of_/abstract 
 
 > Group 6, numbered by IUPAC style, is a group of elements in the periodic table. Its members are chromium (Cr), molybdenum (Mo), tungsten (W), and seaborgium (Sg). These are all transition metals and chromium, molybdenum and tungsten are refractory metals.

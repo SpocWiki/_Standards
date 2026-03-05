@@ -219,9 +219,9 @@ Technique of Magnetic resonance imaging.
 Tag Instances like this: 
 #is_an_/image_by_/mri
 
-#has_/parent_class :: [[../MedicalImagingTechnique]]  
+#has_/parent_class :: [[../MedicalImagingTechnique|MedicalImagingTechnique]]  
 
-#is_/enum_of :: [[../MedicalImagingTechnique]]  
+#is_/enum_of :: [[../MedicalImagingTechnique|MedicalImagingTechnique]]  
 
 #is_/same_as :: [[../../../../WikiData/WD~Magnetic_resonance_imaging,161238|WD~Magnetic_resonance_imaging,161238]] 
 

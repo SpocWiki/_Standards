@@ -103,26 +103,26 @@ aliases:
 - 파장
 has_id_wikidata: Q41364
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~distance,126017]]'
-- '[[_Standards/WikiData/WD~period,3382125]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~distance,126017|WD~distance,126017]]'
+- '[[_Standards/WikiData/WD~period,3382125|WD~period,3382125]]'
 instance_of:
-- '[[_Standards/WikiData/WD~mathematical_concept,24034552]]'
-- '[[_Standards/WikiData/WD~concept_in_physics,33104303]]'
+- '[[_Standards/WikiData/WD~mathematical_concept,24034552|WD~mathematical_concept,24034552]]'
+- '[[_Standards/WikiData/WD~concept_in_physics,33104303|WD~concept_in_physics,33104303]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~ISO_80000_3_2006_Quantities_and_units_Part_3_Space_and_time,26711932]]'
-- '[[_Standards/WikiData/WD~ISO_80000_3_2019_Quantities_and_units_Part_3_Space_and_time,90137277]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[_Standards/WikiData/WD~ISO_80000_3_2006_Quantities_and_units_Part_3_Space_and_time,26711932|WD~ISO_80000_3_2006_Quantities_and_units_Part_3_Space_and_time,26711932]]'
+- '[[_Standards/WikiData/WD~ISO_80000_3_2019_Quantities_and_units_Part_3_Space_and_time,90137277|WD~ISO_80000_3_2019_Quantities_and_units_Part_3_Space_and_time,90137277]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 different_from:
-- '[[_Standards/WikiData/WD~sound_wavelength,105488366]]'
-- '[[_Standards/WikiData/WD~electromagnetic_wavelength,105581076]]'
+- '[[_Standards/WikiData/WD~sound_wavelength,105488366|WD~sound_wavelength,105488366]]'
+- '[[_Standards/WikiData/WD~electromagnetic_wavelength,105581076|WD~electromagnetic_wavelength,105581076]]'
 ISQ_dimension: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AB</mi></mrow></mstyle></mrow></math>"
 main_Wikidata_property:
 - wavelength
 - maximum wavelength of sensitivity
 - minimum wavelength of sensitivity
-notation: '[[_Standards/WikiData/WD~Λ,10897]]'
-recommended_unit_of_measurement: '[[_Standards/WikiData/WD~metre,11573]]'
+notation: '[[_Standards/WikiData/WD~Λ,10897|WD~Λ,10897]]'
+recommended_unit_of_measurement: '[[_Standards/WikiData/WD~metre,11573|WD~metre,11573]]'
 Commons_category: Wavelength
 OmegaWiki_Defined_Meaning: 920054
 quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>&#x03BB;</mi></mstyle></mrow></math>

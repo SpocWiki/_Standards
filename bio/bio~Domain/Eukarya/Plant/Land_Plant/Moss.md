@@ -106,19 +106,19 @@ aliases:
 has_id_wikidata: Q25347
 title: Bryophyta
 parent_taxon:
-- '[[_Standards/WikiData/WD~Embryophytes,192154]]'
-- '[[_Standards/WikiData/WD~Bryobiotina,106976267]]'
-- '[[_Standards/WikiData/WD~Setaphyta,113130160]]'
-taxon_rank: '[[_Standards/WikiData/WD~division,334460]]'
+- '[[_Standards/WikiData/WD~Embryophytes,192154|WD~Embryophytes,192154]]'
+- '[[_Standards/WikiData/WD~Bryobiotina,106976267|WD~Bryobiotina,106976267]]'
+- '[[_Standards/WikiData/WD~Setaphyta,113130160|WD~Setaphyta,113130160]]'
+taxon_rank: '[[_Standards/WikiData/WD~division,334460|WD~division,334460]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Q75188101,75188101]]'
-- '[[_Standards/WikiData/WD~Introduction_to_Bryology,75192879]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-different_from: '[[_Standards/WikiData/WD~bryophyte,29993]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Q75188101,75188101|WD~Q75188101,75188101]]'
+- '[[_Standards/WikiData/WD~Introduction_to_Bryology,75192879|WD~Introduction_to_Bryology,75192879]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+different_from: '[[_Standards/WikiData/WD~bryophyte,29993|WD~bryophyte,29993]]'
 ITIS_TSN: 14189
 OmegaWiki_Defined_Meaning: 2413
 PAEnflowered_taxon_URL: https://www.paenflowered.org/catalog/lichens-mosses/mosses

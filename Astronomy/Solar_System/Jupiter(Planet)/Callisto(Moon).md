@@ -43,21 +43,21 @@ aliases:
 - 木衞四
 - 칼리스토
 has_id_wikidata: Q3134
-named_by: '[[_Standards/WikiData/WD~Simon_Marius,76684]]'
-named_after: '[[_Standards/WikiData/WD~Callisto,203673]]'
+named_by: '[[_Standards/WikiData/WD~Simon_Marius,76684|WD~Simon_Marius,76684]]'
+named_after: '[[_Standards/WikiData/WD~Callisto,203673|WD~Callisto,203673]]'
 instance_of:
-- '[[_Standards/WikiData/WD~regular_moon,1086783]]'
-- '[[_Standards/WikiData/WD~moon_of_Jupiter,61702557]]'
-category_for_maps_or_plans: '[[_Standards/WikiData/WD~list_of_geological_features_on_Callisto,4886549]]'
+- '[[_Standards/WikiData/WD~regular_moon,1086783|WD~regular_moon,1086783]]'
+- '[[_Standards/WikiData/WD~moon_of_Jupiter,61702557|WD~moon_of_Jupiter,61702557]]'
+category_for_maps_or_plans: '[[_Standards/WikiData/WD~list_of_geological_features_on_Callisto,4886549|WD~list_of_geological_features_on_Callisto,4886549]]'
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/SSDCallisto.png
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Callisto%20Rotation%20Movie.gif
-has_part_s_: '[[_Standards/WikiData/WD~Q16529658,16529658]]'
+has_part_s_: '[[_Standards/WikiData/WD~Q16529658,16529658|WD~Q16529658,16529658]]'
 size_comparison_diagram: http://commons.wikimedia.org/wiki/Special:FilePath/Callisto%20Earth%20Moon%20Comparison.png
-has_use: '[[_Standards/WikiData/WD~colonization_of_Callisto,127532046]]'
+has_use: '[[_Standards/WikiData/WD~colonization_of_Callisto,127532046|WD~colonization_of_Callisto,127532046]]'
 time_of_discovery_or_invention: 1610-01-07T00:00:00Z
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Galileo_Galilei,307]]'
-parent_astronomical_body: '[[_Standards/WikiData/WD~Jupiter,319]]'
-part_of: '[[_Standards/WikiData/WD~Galilean_moons,3203]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Galileo_Galilei,307|WD~Galileo_Galilei,307]]'
+parent_astronomical_body: '[[_Standards/WikiData/WD~Jupiter,319|WD~Jupiter,319]]'
+part_of: '[[_Standards/WikiData/WD~Galilean_moons,3203|WD~Galilean_moons,3203]]'
 temperature:
 - 80
 - 134
@@ -85,7 +85,7 @@ P8189: 987007549320905171
 Commons_category: Callisto (moon)
 Wolfram_Language_entity_code: Entity["PlanetaryMoon", "Callisto"]
 name: Júpiter IV
-topic_has_template: '[[_Standards/WikiData/WD~Template_Callisto,21789613]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Callisto,21789613|WD~Template_Callisto,21789613]]'
 dv_is_:
   same_as:
   - '[[../../../WikiData/WD~Callisto,3134|WD~Callisto,3134]]'

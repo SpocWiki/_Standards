@@ -58,18 +58,18 @@ aliases:
 - 成見
 - 고정관념
 has_id_wikidata: Q167172
-studied_by: '[[_Standards/WikiData/WD~sociolinguistics,160845]]'
+studied_by: '[[_Standards/WikiData/WD~sociolinguistics,160845|WD~sociolinguistics,160845]]'
 instance_of:
-- '[[_Standards/WikiData/WD~mental_image,860959]]'
-- '[[_Standards/WikiData/WD~type_of_bias,100912473]]'
-- '[[_Standards/WikiData/WD~belief,34394]]'
-subclass_of: '[[_Standards/WikiData/WD~cognitive_bias,1127759]]'
-opposite_of: '[[_Standards/WikiData/WD~counterstereotype,5177042]]'
+- '[[_Standards/WikiData/WD~mental_image,860959|WD~mental_image,860959]]'
+- '[[_Standards/WikiData/WD~type_of_bias,100912473|WD~type_of_bias,100912473]]'
+- '[[_Standards/WikiData/WD~belief,34394|WD~belief,34394]]'
+subclass_of: '[[_Standards/WikiData/WD~cognitive_bias,1127759|WD~cognitive_bias,1127759]]'
+opposite_of: '[[_Standards/WikiData/WD~counterstereotype,5177042|WD~counterstereotype,5177042]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Soziolinguistika_Hiztegia,124156602]]'
-- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
-has_cause: '[[_Standards/WikiData/WD~reduction_of_complexity,123477586]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Soziolinguistika_Hiztegia,124156602|WD~Soziolinguistika_Hiztegia,124156602]]'
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072|WD~Red_Blue_Translator,131935072]]'
+has_cause: '[[_Standards/WikiData/WD~reduction_of_complexity,123477586|WD~reduction_of_complexity,123477586]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Bullbysyndromethouse1pic1.JPG
 - http://commons.wikimedia.org/wiki/Special:FilePath/Deni%20-%20Entente%20under%20the%20mask%20of%20peace.jpg

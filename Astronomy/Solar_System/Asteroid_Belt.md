@@ -108,16 +108,16 @@ aliases:
 - 小行星帶
 - 소행성대
 has_id_wikidata: Q2179
-subclass_of: '[[_Standards/WikiData/WD~minor_planet_group,2332332]]'
+subclass_of: '[[_Standards/WikiData/WD~minor_planet_group,2332332|WD~minor_planet_group,2332332]]'
 instance_of:
-- '[[_Standards/WikiData/WD~circumstellar_disk,3235978]]'
-- '[[_Standards/WikiData/WD~ring_system,28951811]]'
-- '[[_Standards/WikiData/WD~astronomical_object_in_the_Solar_System,109645909]]'
-part_of: '[[_Standards/WikiData/WD~inner_Solar_System,7879772]]'
+- '[[_Standards/WikiData/WD~circumstellar_disk,3235978|WD~circumstellar_disk,3235978]]'
+- '[[_Standards/WikiData/WD~ring_system,28951811|WD~ring_system,28951811]]'
+- '[[_Standards/WikiData/WD~astronomical_object_in_the_Solar_System,109645909|WD~astronomical_object_in_the_Solar_System,109645909]]'
+part_of: '[[_Standards/WikiData/WD~inner_Solar_System,7879772|WD~inner_Solar_System,7879772]]'
 child_astronomical_body:
-- '[[_Standards/WikiData/WD~(500507)_2012_TP287,56323922]]'
-- '[[_Standards/WikiData/WD~Q11532,11532]]'
-parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525]]'
+- '[[_Standards/WikiData/WD~(500507)_2012_TP287,56323922|WD~(500507)_2012_TP287,56323922]]'
+- '[[_Standards/WikiData/WD~Q11532,11532|WD~Q11532,11532]]'
+parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525|WD~Sun,525]]'
 OmegaWiki_Defined_Meaning: 665986
 Dewey_Decimal_Classification: 523.44
 spoken_text_audio:

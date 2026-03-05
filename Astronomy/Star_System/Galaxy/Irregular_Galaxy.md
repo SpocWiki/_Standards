@@ -60,12 +60,12 @@ aliases:
 - 弗规则星系
 - 불규칙 은하
 has_id_wikidata: Q190397
-subclass_of: '[[_Standards/WikiData/WD~galaxy,318]]'
+subclass_of: '[[_Standards/WikiData/WD~galaxy,318|WD~galaxy,318]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Irregular%20galaxy%20NGC%201427A%20%28captured%20by%20the%20Hubble%20Space%20Telescope%29.jpg
 Commons_category: Irregular galaxies
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Irregular_galaxy,190397]]'
+  - '[[../../../WikiData/WD~Irregular_galaxy,190397|WD~Irregular_galaxy,190397]]'
   - '[[/_Standards/Astronomy/Star_System/Galaxy/Irregular_Galaxy|Irregular_Galaxy]]'
   - '[[/_public/Astronomy/Star_System/Galaxy/Irregular_Galaxy.public|Irregular_Galaxy.public]]'
   - '[[/_internal/Astronomy/Star_System/Galaxy/Irregular_Galaxy.internal|Irregular_Galaxy.internal]]'
@@ -74,7 +74,7 @@ dv_is_:
   - '[[/_personal/Astronomy/Star_System/Galaxy/Irregular_Galaxy.personal|Irregular_Galaxy.personal]]'
   - '[[/_secret/Astronomy/Star_System/Galaxy/Irregular_Galaxy.secret|Irregular_Galaxy.secret]]'
 dv_is_same_as:
-- '[[../../../WikiData/WD~Irregular_galaxy,190397]]'
+- '[[../../../WikiData/WD~Irregular_galaxy,190397|WD~Irregular_galaxy,190397]]'
 - '[[/_Standards/Astronomy/Star_System/Galaxy/Irregular_Galaxy|Irregular_Galaxy]]'
 - '[[/_public/Astronomy/Star_System/Galaxy/Irregular_Galaxy.public|Irregular_Galaxy.public]]'
 - '[[/_internal/Astronomy/Star_System/Galaxy/Irregular_Galaxy.internal|Irregular_Galaxy.internal]]'

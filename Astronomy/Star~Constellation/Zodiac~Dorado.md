@@ -71,25 +71,25 @@ isReadOnly: false
 tags:
 - astro/Zodiac
 type: Zodiac
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Petrus_Plancius,333534]]'
-part_of: '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Petrus_Plancius,333534|WD~Petrus_Plancius,333534]]'
+part_of: '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815|WD~Southern_Celestial_Hemisphere,2380815]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635|WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Stars_of_Dorado,8084781]]'
-- '[[_Standards/WikiData/WD~Q10729078,10729078]]'
+- '[[_Standards/WikiData/WD~Template_Stars_of_Dorado,8084781|WD~Template_Stars_of_Dorado,8084781]]'
+- '[[_Standards/WikiData/WD~Q10729078,10729078|WD~Q10729078,10729078]]'
 inception: 1598-01-01T00:00:00Z
-instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
+instance_of: '[[_Standards/WikiData/WD~constellation,8928|WD~constellation,8928]]'
 shares_border_with:
-- '[[_Standards/WikiData/WD~Mensa,9289]]'
-- '[[_Standards/WikiData/WD~Hydrus,10416]]'
-- '[[_Standards/WikiData/WD~Volans,10437]]'
-- '[[_Standards/WikiData/WD~Pictor,10486]]'
-- '[[_Standards/WikiData/WD~Caelum,10488]]'
-- '[[_Standards/WikiData/WD~Reticulum,10498]]'
-- '[[_Standards/WikiData/WD~Horologium,10574]]'
-named_after: '[[_Standards/WikiData/WD~mahi_mahi,14443]]'
+- '[[_Standards/WikiData/WD~Mensa,9289|WD~Mensa,9289]]'
+- '[[_Standards/WikiData/WD~Hydrus,10416|WD~Hydrus,10416]]'
+- '[[_Standards/WikiData/WD~Volans,10437|WD~Volans,10437]]'
+- '[[_Standards/WikiData/WD~Pictor,10486|WD~Pictor,10486]]'
+- '[[_Standards/WikiData/WD~Caelum,10488|WD~Caelum,10488]]'
+- '[[_Standards/WikiData/WD~Reticulum,10498|WD~Reticulum,10498]]'
+- '[[_Standards/WikiData/WD~Horologium,10574|WD~Horologium,10574]]'
+named_after: '[[_Standards/WikiData/WD~mahi_mahi,14443|WD~mahi_mahi,14443]]'
 area: 179
 Commons_category: Dorado (constellation)
 official_name: Dorado
@@ -193,7 +193,7 @@ dv_has_:
     zh_hant: 劍魚座
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Dorado,8837]]'
+  - '[[_Standards/WikiData/WD~Dorado,8837|WD~Dorado,8837]]'
   - '[[/_Standards/Astronomy/Star~Constellation/Zodiac~Dorado|Zodiac~Dorado]]'
   - '[[/_public/Astronomy/Star~Constellation/Zodiac~Dorado.public|Zodiac~Dorado.public]]'
   - '[[/_internal/Astronomy/Star~Constellation/Zodiac~Dorado.internal|Zodiac~Dorado.internal]]'
@@ -205,7 +205,7 @@ dv_has_name_la: Dorado
 dv_has_name_la_genitive: Doradus
 dv_has_name_de: Schwertfisch
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Dorado,8837]]'
+- '[[_Standards/WikiData/WD~Dorado,8837|WD~Dorado,8837]]'
 - '[[/_Standards/Astronomy/Star~Constellation/Zodiac~Dorado|Zodiac~Dorado]]'
 - '[[/_public/Astronomy/Star~Constellation/Zodiac~Dorado.public|Zodiac~Dorado.public]]'
 - '[[/_internal/Astronomy/Star~Constellation/Zodiac~Dorado.internal|Zodiac~Dorado.internal]]'
@@ -224,7 +224,7 @@ has_name_la = `=this.dv_has_name_la`
 has_name_la_genitive = `=this.dv_has_name_la_genitive`  
 has_name_de = `=this.dv_has_name_de`  
 
-#is_/same_as :: [[_Standards/WikiData/WD~Dorado,8837]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Dorado,8837|WD~Dorado,8837]] 
 
 
 ## Confidential Links & Embeds: 

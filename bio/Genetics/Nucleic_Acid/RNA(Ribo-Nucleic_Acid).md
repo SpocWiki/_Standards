@@ -82,37 +82,37 @@ aliases:
 - 核糖核酸
 has_id_wikidata: Q11053
 subclass_of:
-- '[[_Standards/WikiData/WD~nucleic_acids,123619]]'
-- '[[_Standards/WikiData/WD~biopolymer,422649]]'
-- '[[_Standards/WikiData/WD~gene_product,424689]]'
-- '[[_Standards/WikiData/WD~polyribonucleotide,85210139]]'
+- '[[_Standards/WikiData/WD~nucleic_acids,123619|WD~nucleic_acids,123619]]'
+- '[[_Standards/WikiData/WD~biopolymer,422649|WD~biopolymer,422649]]'
+- '[[_Standards/WikiData/WD~gene_product,424689|WD~gene_product,424689]]'
+- '[[_Standards/WikiData/WD~polyribonucleotide,85210139|WD~polyribonucleotide,85210139]]'
 part_of:
-- '[[_Standards/WikiData/WD~ribonucleoprotein_complex,417662]]'
-- '[[_Standards/WikiData/WD~gene_silencing,1431332]]'
-- '[[_Standards/WikiData/WD~RNA_binding,14330639]]'
-- '[[_Standards/WikiData/WD~RNA_metabolic_process,14330807]]'
-- '[[_Standards/WikiData/WD~RNA_catabolic_process,15311574]]'
-- '[[_Standards/WikiData/WD~RNA_export_from_nucleus,15334281]]'
-- '[[_Standards/WikiData/WD~ATP_dependent_activity,_acting_on_RNA,21102329]]'
-- '[[_Standards/WikiData/WD~RNA_transport,21105696]]'
-- '[[_Standards/WikiData/WD~ribonucleoprotein_granule,21106243]]'
-- '[[_Standards/WikiData/WD~RNA_import_into_nucleus,21119991]]'
-- '[[_Standards/WikiData/WD~RNA_import_into_mitochondrion,21123293]]'
-- '[[_Standards/WikiData/WD~RNA_transmembrane_transporter_activity,21136004]]'
-- '[[_Standards/WikiData/WD~RNA_biosynthetic_process,21170412]]'
-- '[[_Standards/WikiData/WD~RNA_phosphodiester_bond_hydrolysis,21763256]]'
-- '[[_Standards/WikiData/WD~protein_DNA_RNA_complex,22325439]]'
-- '[[_Standards/WikiData/WD~protein_lipid_RNA_complex,22328923]]'
-- '[[_Standards/WikiData/WD~HDL_containing_protein_lipid_RNA_complex,22328924]]'
-- '[[_Standards/WikiData/WD~LDL_containing_protein_lipid_RNA_complex,22328925]]'
-- '[[_Standards/WikiData/WD~catalytic_activity,_acting_on_RNA,41513029]]'
-- '[[_Standards/WikiData/WD~ribosome,42244]]'
+- '[[_Standards/WikiData/WD~ribonucleoprotein_complex,417662|WD~ribonucleoprotein_complex,417662]]'
+- '[[_Standards/WikiData/WD~gene_silencing,1431332|WD~gene_silencing,1431332]]'
+- '[[_Standards/WikiData/WD~RNA_binding,14330639|WD~RNA_binding,14330639]]'
+- '[[_Standards/WikiData/WD~RNA_metabolic_process,14330807|WD~RNA_metabolic_process,14330807]]'
+- '[[_Standards/WikiData/WD~RNA_catabolic_process,15311574|WD~RNA_catabolic_process,15311574]]'
+- '[[_Standards/WikiData/WD~RNA_export_from_nucleus,15334281|WD~RNA_export_from_nucleus,15334281]]'
+- '[[_Standards/WikiData/WD~ATP_dependent_activity,_acting_on_RNA,21102329|WD~ATP_dependent_activity,_acting_on_RNA,21102329]]'
+- '[[_Standards/WikiData/WD~RNA_transport,21105696|WD~RNA_transport,21105696]]'
+- '[[_Standards/WikiData/WD~ribonucleoprotein_granule,21106243|WD~ribonucleoprotein_granule,21106243]]'
+- '[[_Standards/WikiData/WD~RNA_import_into_nucleus,21119991|WD~RNA_import_into_nucleus,21119991]]'
+- '[[_Standards/WikiData/WD~RNA_import_into_mitochondrion,21123293|WD~RNA_import_into_mitochondrion,21123293]]'
+- '[[_Standards/WikiData/WD~RNA_transmembrane_transporter_activity,21136004|WD~RNA_transmembrane_transporter_activity,21136004]]'
+- '[[_Standards/WikiData/WD~RNA_biosynthetic_process,21170412|WD~RNA_biosynthetic_process,21170412]]'
+- '[[_Standards/WikiData/WD~RNA_phosphodiester_bond_hydrolysis,21763256|WD~RNA_phosphodiester_bond_hydrolysis,21763256]]'
+- '[[_Standards/WikiData/WD~protein_DNA_RNA_complex,22325439|WD~protein_DNA_RNA_complex,22325439]]'
+- '[[_Standards/WikiData/WD~protein_lipid_RNA_complex,22328923|WD~protein_lipid_RNA_complex,22328923]]'
+- '[[_Standards/WikiData/WD~HDL_containing_protein_lipid_RNA_complex,22328924|WD~HDL_containing_protein_lipid_RNA_complex,22328924]]'
+- '[[_Standards/WikiData/WD~LDL_containing_protein_lipid_RNA_complex,22328925|WD~LDL_containing_protein_lipid_RNA_complex,22328925]]'
+- '[[_Standards/WikiData/WD~catalytic_activity,_acting_on_RNA,41513029|WD~catalytic_activity,_acting_on_RNA,41513029]]'
+- '[[_Standards/WikiData/WD~ribosome,42244|WD~ribosome,42244]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~ribonucleotide,422484]]'
-- '[[_Standards/WikiData/WD~RNA_motif,85209825]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Types_of_RNA,11014329]]'
-disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
+- '[[_Standards/WikiData/WD~ribonucleotide,422484|WD~ribonucleotide,422484]]'
+- '[[_Standards/WikiData/WD~RNA_motif,85209825|WD~RNA_motif,85209825]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Types_of_RNA,11014329|WD~Template_Types_of_RNA,11014329]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
 properties_for_this_type: Rfam ID
 CosIng_number: 37515
 Commons_gallery: RNA
@@ -241,7 +241,7 @@ dv_has_:
 > RNA and deoxyribonucleic acid (DNA) are nucleic acids. 
 > The nucleic acids constitute one of the four major macromolecules essential for all known forms of life. 
 > RNA is assembled as a chain of nucleotides. 
-> Cellular organisms use [[RNA(Ribo-Nucleic_Acid)/mRNA(messenger_RNA)]] to convey genetic information 
+> Cellular organisms use [[RNA(Ribo-Nucleic_Acid)/mRNA(messenger_RNA)|mRNA(messenger_RNA)]] to convey genetic information 
 > (using the nitrogenous bases of guanine, uracil, adenine, and cytosine, denoted by the letters G, U, A, and C) 
 > that directs synthesis of specific proteins. 
 > Many viruses encode their genetic information using an RNA genome.

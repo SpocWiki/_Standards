@@ -54,22 +54,22 @@ tags:
 - astro/Zodiac
 type: Zodiac
 named_after:
-- '[[_Standards/WikiData/WD~microscope,196538]]'
-- '[[_Standards/WikiData/WD~Antonie_van_Leeuwenhoek,43522]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Nicolas_Louis_de_Lacaille,202703]]'
-part_of: '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]'
+- '[[_Standards/WikiData/WD~microscope,196538|WD~microscope,196538]]'
+- '[[_Standards/WikiData/WD~Antonie_van_Leeuwenhoek,43522|WD~Antonie_van_Leeuwenhoek,43522]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Nicolas_Louis_de_Lacaille,202703|WD~Nicolas_Louis_de_Lacaille,202703]]'
+part_of: '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815|WD~Southern_Celestial_Hemisphere,2380815]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Microscopium,6449737]]'
-- '[[_Standards/WikiData/WD~Q10729080,10729080]]'
+- '[[_Standards/WikiData/WD~Template_Microscopium,6449737|WD~Template_Microscopium,6449737]]'
+- '[[_Standards/WikiData/WD~Q10729080,10729080|WD~Q10729080,10729080]]'
 time_of_discovery_or_invention: 1751-01-01T00:00:00Z
 shares_border_with:
-- '[[_Standards/WikiData/WD~Sagittarius,8866]]'
-- '[[_Standards/WikiData/WD~Piscis_Austrinus,10409]]'
-- '[[_Standards/WikiData/WD~Indus,10450]]'
-- '[[_Standards/WikiData/WD~Capricornus,10535]]'
-- '[[_Standards/WikiData/WD~Telescopium,10546]]'
-- '[[_Standards/WikiData/WD~Grus,10563]]'
-instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
+- '[[_Standards/WikiData/WD~Sagittarius,8866|WD~Sagittarius,8866]]'
+- '[[_Standards/WikiData/WD~Piscis_Austrinus,10409|WD~Piscis_Austrinus,10409]]'
+- '[[_Standards/WikiData/WD~Indus,10450|WD~Indus,10450]]'
+- '[[_Standards/WikiData/WD~Capricornus,10535|WD~Capricornus,10535]]'
+- '[[_Standards/WikiData/WD~Telescopium,10546|WD~Telescopium,10546]]'
+- '[[_Standards/WikiData/WD~Grus,10563|WD~Grus,10563]]'
+instance_of: '[[_Standards/WikiData/WD~constellation,8928|WD~constellation,8928]]'
 area: 209.5
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Constellation%20Microscopium.jpg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Microscopium%20constellation%20map.svg
@@ -167,7 +167,7 @@ dv_has_:
     zh: 显微镜座
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Microscopium,10492]]'
+  - '[[_Standards/WikiData/WD~Microscopium,10492|WD~Microscopium,10492]]'
   - '[[/_Standards/Astronomy/Star~Constellation/Zodiac~Microscopium|Zodiac~Microscopium]]'
   - '[[/_public/Astronomy/Star~Constellation/Zodiac~Microscopium.public|Zodiac~Microscopium.public]]'
   - '[[/_internal/Astronomy/Star~Constellation/Zodiac~Microscopium.internal|Zodiac~Microscopium.internal]]'
@@ -179,7 +179,7 @@ dv_has_name_la: Microscopium
 dv_has_name_la_genitive: Microscopii
 dv_has_name_de: Mikroskop
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Microscopium,10492]]'
+- '[[_Standards/WikiData/WD~Microscopium,10492|WD~Microscopium,10492]]'
 - '[[/_Standards/Astronomy/Star~Constellation/Zodiac~Microscopium|Zodiac~Microscopium]]'
 - '[[/_public/Astronomy/Star~Constellation/Zodiac~Microscopium.public|Zodiac~Microscopium.public]]'
 - '[[/_internal/Astronomy/Star~Constellation/Zodiac~Microscopium.internal|Zodiac~Microscopium.internal]]'
@@ -197,7 +197,7 @@ has_name_la = `=this.dv_has_name_la`
 has_name_la_genitive = `=this.dv_has_name_la_genitive` 
 has_name_de = `=this.dv_has_name_de` 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Microscopium,10492]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Microscopium,10492|WD~Microscopium,10492]] 
 
 ## #has_/text_of_/abstract 
 

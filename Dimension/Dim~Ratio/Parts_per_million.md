@@ -27,15 +27,15 @@ aliases:
 - 百萬分率
 has_id_wikidata: Q21006887
 measured_physical_quantity:
-- '[[_Standards/WikiData/WD~amount_of_substance_fraction,125264]]'
-- '[[_Standards/WikiData/WD~dimensionless_quantity,126818]]'
-- '[[_Standards/WikiData/WD~mass_fraction,899138]]'
-- '[[_Standards/WikiData/WD~volume_fraction,909482]]'
+- '[[_Standards/WikiData/WD~amount_of_substance_fraction,125264|WD~amount_of_substance_fraction,125264]]'
+- '[[_Standards/WikiData/WD~dimensionless_quantity,126818|WD~dimensionless_quantity,126818]]'
+- '[[_Standards/WikiData/WD~mass_fraction,899138|WD~mass_fraction,899138]]'
+- '[[_Standards/WikiData/WD~volume_fraction,909482|WD~volume_fraction,909482]]'
 instance_of:
-- '[[_Standards/WikiData/WD~dimensionless_unit,1618549]]'
-- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
-- '[[_Standards/WikiData/WD~parts_per_notation,27084]]'
-subdivision_of_this_unit: '[[_Standards/WikiData/WD~part_per_billion,2055118]]'
+- '[[_Standards/WikiData/WD~dimensionless_unit,1618549|WD~dimensionless_unit,1618549]]'
+- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057|WD~UCUM_derived_unit,82047057]]'
+- '[[_Standards/WikiData/WD~parts_per_notation,27084|WD~parts_per_notation,27084]]'
+subdivision_of_this_unit: '[[_Standards/WikiData/WD~part_per_billion,2055118|WD~part_per_billion,2055118]]'
 conversion_to_standard_unit:
 - 1000000000
 - 1000000

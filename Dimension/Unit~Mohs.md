@@ -67,11 +67,11 @@ aliases:
 - 莫氏硬度
 - 모스 굳기계
 has_id_wikidata: Q41472
-instance_of: '[[_Standards/WikiData/WD~ordinal_scale,1719931]]'
-measures: '[[_Standards/WikiData/WD~scratch_hardness,17125523]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+instance_of: '[[_Standards/WikiData/WD~ordinal_scale,1719931|WD~ordinal_scale,1719931]]'
+measures: '[[_Standards/WikiData/WD~scratch_hardness,17125523|WD~scratch_hardness,17125523]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635|WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 Wikidata_property: Mohs' hardness
-named_after: '[[_Standards/WikiData/WD~Friedrich_Mohs,30572]]'
+named_after: '[[_Standards/WikiData/WD~Friedrich_Mohs,30572|WD~Friedrich_Mohs,30572]]'
 inception: 1812-01-01T00:00:00Z
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Wien%20Friedrich%20Mohs.jpg
 image:

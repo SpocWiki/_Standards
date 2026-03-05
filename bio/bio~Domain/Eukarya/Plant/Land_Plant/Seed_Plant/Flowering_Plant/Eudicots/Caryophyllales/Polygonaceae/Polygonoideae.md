@@ -5,9 +5,9 @@ aliases:
 - بطباطاوات
 - 마디풀아과
 has_id_wikidata: Q1238742
-parent_taxon: '[[_Standards/WikiData/WD~Polygonaceae,156117]]'
-taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+parent_taxon: '[[_Standards/WikiData/WD~Polygonaceae,156117|WD~Polygonaceae,156117]]'
+taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280|WD~subfamily,164280]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bistorta%20amplexicaulis%20Polygonium%20amplexicaule%20HabitusInflorescences%20BotGardBln0906c.JPG
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomyfamily.aspx?type=subfamily&id=2216
 UMLS_CUI: C3410264
@@ -61,7 +61,7 @@ dv_has_:
 
 # [[Polygonoideae]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Polygonoideae,1238742]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Polygonoideae,1238742|WD~Polygonoideae,1238742]] 
 
 ## #has_/text_of_/abstract 
 

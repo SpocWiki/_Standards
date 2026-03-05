@@ -89,10 +89,10 @@ aliases:
 - 우주선
 has_id_wikidata: Q11547
 subclass_of:
-- '[[_Standards/WikiData/WD~particle_radiation,945733]]'
-- '[[_Standards/WikiData/WD~radiation,18335]]'
-instance_of: '[[_Standards/WikiData/WD~particle_radiation,945733]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+- '[[_Standards/WikiData/WD~particle_radiation,945733|WD~particle_radiation,945733]]'
+- '[[_Standards/WikiData/WD~radiation,18335|WD~radiation,18335]]'
+instance_of: '[[_Standards/WikiData/WD~particle_radiation,945733|WD~particle_radiation,945733]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862|WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
 OmegaWiki_Defined_Meaning: 772
 Dewey_Decimal_Classification:
 - 539.7223

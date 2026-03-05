@@ -61,19 +61,19 @@ aliases:
 - 천문학사
 has_id_wikidata: Q50056
 described_by_source:
-- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
+- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Q30059240,30059240|WD~Q30059240,30059240]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~study_of_history,1066186]]'
-- '[[_Standards/WikiData/WD~history_of_natural_science,56296765]]'
-has_part_s_: '[[_Standards/WikiData/WD~discovery_and_exploration_of_the_Solar_System,3770855]]'
+- '[[_Standards/WikiData/WD~study_of_history,1066186|WD~study_of_history,1066186]]'
+- '[[_Standards/WikiData/WD~history_of_natural_science,56296765|WD~history_of_natural_science,56296765]]'
+has_part_s_: '[[_Standards/WikiData/WD~discovery_and_exploration_of_the_Solar_System,3770855|WD~discovery_and_exploration_of_the_Solar_System,3770855]]'
 instance_of:
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
-part_of: '[[_Standards/WikiData/WD~history_of_astrophysics,61257298]]'
-practiced_by: '[[_Standards/WikiData/WD~historian_of_astronomy,108575657]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~aspect_of_history,17524420|WD~aspect_of_history,17524420]]'
+part_of: '[[_Standards/WikiData/WD~history_of_astrophysics,61257298|WD~history_of_astrophysics,61257298]]'
+practiced_by: '[[_Standards/WikiData/WD~historian_of_astronomy,108575657|WD~historian_of_astronomy,108575657]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Nebra%20Scheibe.jpg
 Basisklassifikation: 39.01
 Commons_category: History of astronomy

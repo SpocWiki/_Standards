@@ -45,26 +45,26 @@ aliases:
 - 키틴
 has_id_wikidata: Q161219
 instance_of:
-- '[[_Standards/WikiData/WD~polymer,81163]]'
-- '[[_Standards/WikiData/WD~polysaccharide,134219]]'
+- '[[_Standards/WikiData/WD~polymer,81163|WD~polymer,81163]]'
+- '[[_Standards/WikiData/WD~polysaccharide,134219|WD~polysaccharide,134219]]'
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 part_of:
-- '[[_Standards/WikiData/WD~chitin_binding,21100750]]'
-- '[[_Standards/WikiData/WD~chitin_catabolic_process,21100752]]'
-- '[[_Standards/WikiData/WD~chitin_metabolic_process,21100757]]'
-- '[[_Standards/WikiData/WD~response_to_chitin,22273279]]'
-- '[[_Standards/WikiData/WD~cellular_response_to_chitin,22273281]]'
-- '[[_Standards/WikiData/WD~chitin_biosynthetic_process,22276510]]'
+- '[[_Standards/WikiData/WD~chitin_binding,21100750|WD~chitin_binding,21100750]]'
+- '[[_Standards/WikiData/WD~chitin_catabolic_process,21100752|WD~chitin_catabolic_process,21100752]]'
+- '[[_Standards/WikiData/WD~chitin_metabolic_process,21100757|WD~chitin_metabolic_process,21100757]]'
+- '[[_Standards/WikiData/WD~response_to_chitin,22273279|WD~response_to_chitin,22273279]]'
+- '[[_Standards/WikiData/WD~cellular_response_to_chitin,22273281|WD~cellular_response_to_chitin,22273281]]'
+- '[[_Standards/WikiData/WD~chitin_biosynthetic_process,22276510|WD~chitin_biosynthetic_process,22276510]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~hydrogen,556]]'
-- '[[_Standards/WikiData/WD~carbon,623]]'
-- '[[_Standards/WikiData/WD~nitrogen,627]]'
-- '[[_Standards/WikiData/WD~oxygen,629]]'
+- '[[_Standards/WikiData/WD~hydrogen,556|WD~hydrogen,556]]'
+- '[[_Standards/WikiData/WD~carbon,623|WD~carbon,623]]'
+- '[[_Standards/WikiData/WD~nitrogen,627|WD~nitrogen,627]]'
+- '[[_Standards/WikiData/WD~oxygen,629|WD~oxygen,629]]'
 CosIng_number: 75063
 Commons_category: Chitin
 mass: 203.1925
@@ -171,7 +171,7 @@ dv_has_:
 
 # [[Chitin]] 
 
-#is_/instance_of :: [[../Polysaccharide]] 
+#is_/instance_of :: [[../Polysaccharide|Polysaccharide]] 
 #is_/same_as :: [[../../../../../WikiData/WD~Chitin,161219|WD~Chitin,161219]] 
 
 ## #has_/text_of_/abstract 

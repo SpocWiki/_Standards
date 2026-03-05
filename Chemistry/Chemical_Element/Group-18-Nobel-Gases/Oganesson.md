@@ -68,17 +68,17 @@ aliases:
 - 오가네손
 has_id_wikidata: Q1307
 has_characteristic:
-- '[[_Standards/WikiData/WD~alpha_decay,179856]]'
-- '[[_Standards/WikiData/WD~radioactivity,11448]]'
+- '[[_Standards/WikiData/WD~alpha_decay,179856|WD~alpha_decay,179856]]'
+- '[[_Standards/WikiData/WD~radioactivity,11448|WD~radioactivity,11448]]'
 part_of:
-- '[[_Standards/WikiData/WD~period_7,244979]]'
-- '[[_Standards/WikiData/WD~noble_gases,19609]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Joint_Institute_for_Nuclear_Research,259517]]'
-subclass_of: '[[_Standards/WikiData/WD~transactinide_element,428778]]'
+- '[[_Standards/WikiData/WD~period_7,244979|WD~period_7,244979]]'
+- '[[_Standards/WikiData/WD~noble_gases,19609|WD~noble_gases,19609]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Joint_Institute_for_Nuclear_Research,259517|WD~Joint_Institute_for_Nuclear_Research,259517]]'
+subclass_of: '[[_Standards/WikiData/WD~transactinide_element,428778|WD~transactinide_element,428778]]'
 instance_of:
-- '[[_Standards/WikiData/WD~synthetic_element,755992]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
-named_after: '[[_Standards/WikiData/WD~Yuri_Oganessian,1144326]]'
+- '[[_Standards/WikiData/WD~synthetic_element,755992|WD~synthetic_element,755992]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
+named_after: '[[_Standards/WikiData/WD~Yuri_Oganessian,1144326|WD~Yuri_Oganessian,1144326]]'
 oxidation_state:
 - -1
 - 0
@@ -110,7 +110,7 @@ CAS_Registry_Number: 54144-19-3
 time_of_discovery_or_invention: 2002-06-01T00:00:00Z
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Oganesson,1307]]'
+  - '[[../../../WikiData/WD~Oganesson,1307|WD~Oganesson,1307]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Oganesson|Oganesson]]'
   - '[[/_public/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Oganesson.public|Oganesson.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Oganesson.internal|Oganesson.internal]]'
@@ -119,7 +119,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Oganesson.personal|Oganesson.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Oganesson.secret|Oganesson.secret]]'
 dv_is_same_as:
-- '[[../../../WikiData/WD~Oganesson,1307]]'
+- '[[../../../WikiData/WD~Oganesson,1307|WD~Oganesson,1307]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Oganesson|Oganesson]]'
 - '[[/_public/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Oganesson.public|Oganesson.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Oganesson.internal|Oganesson.internal]]'

@@ -61,10 +61,10 @@ aliases:
 - 금속 결합
 has_id_wikidata: Q191390
 has_effect:
-- '[[_Standards/WikiData/WD~electrical_conductivity,4593291]]'
-- '[[_Standards/WikiData/WD~electron_delocalization,56627491]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~metal_metal_bond,100701043]]'
-subclass_of: '[[_Standards/WikiData/WD~chemical_bond,44424]]'
+- '[[_Standards/WikiData/WD~electrical_conductivity,4593291|WD~electrical_conductivity,4593291]]'
+- '[[_Standards/WikiData/WD~electron_delocalization,56627491|WD~electron_delocalization,56627491]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~metal_metal_bond,100701043|WD~metal_metal_bond,100701043]]'
+subclass_of: '[[_Standards/WikiData/WD~chemical_bond,44424|WD~chemical_bond,44424]]'
 Commons_category: Metallic bonding
 dv_is_:
   same_as:

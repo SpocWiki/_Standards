@@ -158,36 +158,36 @@ aliases:
 - 래빗
 has_id_wikidata: Q9394
 taxon_known_by_this_common_name:
-- '[[_Standards/WikiData/WD~Pronolagus,685653]]'
-- '[[_Standards/WikiData/WD~cottontail_rabbit,748448]]'
-- '[[_Standards/WikiData/WD~Nesolagus,913660]]'
-- '[[_Standards/WikiData/WD~Brachylagus,10741095]]'
-- '[[_Standards/WikiData/WD~Bunolagus,10741687]]'
-- '[[_Standards/WikiData/WD~Oryctolagus,10803279]]'
-- '[[_Standards/WikiData/WD~Pentalagus,10804633]]'
-- '[[_Standards/WikiData/WD~Poelagus,10808047]]'
-- '[[_Standards/WikiData/WD~Romerolagus,10811874]]'
+- '[[_Standards/WikiData/WD~Pronolagus,685653|WD~Pronolagus,685653]]'
+- '[[_Standards/WikiData/WD~cottontail_rabbit,748448|WD~cottontail_rabbit,748448]]'
+- '[[_Standards/WikiData/WD~Nesolagus,913660|WD~Nesolagus,913660]]'
+- '[[_Standards/WikiData/WD~Brachylagus,10741095|WD~Brachylagus,10741095]]'
+- '[[_Standards/WikiData/WD~Bunolagus,10741687|WD~Bunolagus,10741687]]'
+- '[[_Standards/WikiData/WD~Oryctolagus,10803279|WD~Oryctolagus,10803279]]'
+- '[[_Standards/WikiData/WD~Pentalagus,10804633|WD~Pentalagus,10804633]]'
+- '[[_Standards/WikiData/WD~Poelagus,10808047|WD~Poelagus,10808047]]'
+- '[[_Standards/WikiData/WD~Romerolagus,10811874|WD~Romerolagus,10811874]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546|WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 this_taxon_is_source_of:
-- '[[_Standards/WikiData/WD~rabbit_fur,1723770]]'
-- '[[_Standards/WikiData/WD~rabbit_meat,3556748]]'
-- '[[_Standards/WikiData/WD~rabbit_wool,118228617]]'
-- '[[_Standards/WikiData/WD~rabbit_milk,125257091]]'
+- '[[_Standards/WikiData/WD~rabbit_fur,1723770|WD~rabbit_fur,1723770]]'
+- '[[_Standards/WikiData/WD~rabbit_meat,3556748|WD~rabbit_meat,3556748]]'
+- '[[_Standards/WikiData/WD~rabbit_wool,118228617|WD~rabbit_wool,118228617]]'
+- '[[_Standards/WikiData/WD~rabbit_milk,125257091|WD~rabbit_milk,125257091]]'
 different_from:
-- '[[_Standards/WikiData/WD~Keun,14635041]]'
-- '[[_Standards/WikiData/WD~Q33543756,33543756]]'
-- '[[_Standards/WikiData/WD~Rabbit,114353576]]'
-- '[[_Standards/WikiData/WD~European_Rabbit,25851]]'
-- '[[_Standards/WikiData/WD~hare,46076]]'
+- '[[_Standards/WikiData/WD~Keun,14635041|WD~Keun,14635041]]'
+- '[[_Standards/WikiData/WD~Q33543756,33543756|WD~Q33543756,33543756]]'
+- '[[_Standards/WikiData/WD~Rabbit,114353576|WD~Rabbit,114353576]]'
+- '[[_Standards/WikiData/WD~European_Rabbit,25851|WD~European_Rabbit,25851]]'
+- '[[_Standards/WikiData/WD~hare,46076|WD~hare,46076]]'
 instance_of:
-- '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]'
-- '[[_Standards/WikiData/WD~taxon,16521]]'
-subclass_of: '[[_Standards/WikiData/WD~domesticated_mammal,57814795]]'
-opposite_of: '[[_Standards/WikiData/WD~hare,63941258]]'
+- '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715|WD~organisms_known_by_a_particular_common_name,55983715]]'
+- '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+subclass_of: '[[_Standards/WikiData/WD~domesticated_mammal,57814795|WD~domesticated_mammal,57814795]]'
+opposite_of: '[[_Standards/WikiData/WD~hare,63941258|WD~hare,63941258]]'
 subreddit: Rabbits
 Commons_category: Rabbits
 social_media_followers: 311379

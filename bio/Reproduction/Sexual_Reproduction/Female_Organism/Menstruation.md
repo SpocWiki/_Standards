@@ -119,21 +119,21 @@ described_at_URL:
 - http://bacsisaigon.net/kinh-nguyet-mau-den.html
 - http://bacsisaigon.net/kinh-nguyet-mau-nau.html
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 DOI: 10.1163/1875-3922_Q3_EQSIM_00278
 facet_of:
-- '[[_Standards/WikiData/WD~human_reproduction,3427336]]'
-- "[[_Standards/WikiData/WD~women's_health,8031191]]"
+- '[[_Standards/WikiData/WD~human_reproduction,3427336|WD~human_reproduction,3427336]]'
+- "[[_Standards/WikiData/WD~women's_health,8031191|WD~women's_health,8031191]]"
 Iconclass_notation: 31A223623
 image: http://commons.wikimedia.org/wiki/Special:FilePath/MenstrualCycle2%20es.svg
-instance_of: '[[_Standards/WikiData/WD~biological_process,2996394]]'
+instance_of: '[[_Standards/WikiData/WD~biological_process,2996394|WD~biological_process,2996394]]'
 OmegaWiki_Defined_Meaning: 343457
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
-subclass_of: '[[_Standards/WikiData/WD~menstruation,17155666]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720|WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
+subclass_of: '[[_Standards/WikiData/WD~menstruation,17155666|WD~menstruation,17155666]]'
 WordLift_URL: http://data.thenextweb.com/tnw/entity/menstruation
 dv_has_:
   name_:

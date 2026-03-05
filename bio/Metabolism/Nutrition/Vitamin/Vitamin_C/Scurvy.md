@@ -179,7 +179,7 @@ dv_has_:
 
 # [[Scurvy]]  
 
-#is_/similar_to :: [[../Vitamin_B/Thiamine/Beri_Beri]] 
+#is_/similar_to :: [[../Vitamin_B/Thiamine/Beri_Beri|Beri_Beri]] 
 
 ## #has_/text_of_/abstract 
 

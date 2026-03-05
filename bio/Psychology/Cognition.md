@@ -84,31 +84,31 @@ aliases:
 - 인식
 has_id_wikidata: Q2200417
 has_part_s_:
-- '[[_Standards/WikiData/WD~learning,133500]]'
-- '[[_Standards/WikiData/WD~perception,160402]]'
-- '[[_Standards/WikiData/WD~planning,309100]]'
-- '[[_Standards/WikiData/WD~orientation,1937869]]'
-- '[[_Standards/WikiData/WD~attention,6501338]]'
-- '[[_Standards/WikiData/WD~recall,18733]]'
-studied_by: '[[_Standards/WikiData/WD~cognitive_science,147638]]'
+- '[[_Standards/WikiData/WD~learning,133500|WD~learning,133500]]'
+- '[[_Standards/WikiData/WD~perception,160402|WD~perception,160402]]'
+- '[[_Standards/WikiData/WD~planning,309100|WD~planning,309100]]'
+- '[[_Standards/WikiData/WD~orientation,1937869|WD~orientation,1937869]]'
+- '[[_Standards/WikiData/WD~attention,6501338|WD~attention,6501338]]'
+- '[[_Standards/WikiData/WD~recall,18733|WD~recall,18733]]'
+studied_by: '[[_Standards/WikiData/WD~cognitive_science,147638|WD~cognitive_science,147638]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~cognitive_process,781413]]'
-- '[[_Standards/WikiData/WD~nervous_system_process,14912053]]'
+- '[[_Standards/WikiData/WD~cognitive_process,781413|WD~cognitive_process,781413]]'
+- '[[_Standards/WikiData/WD~nervous_system_process,14912053|WD~nervous_system_process,14912053]]'
 instance_of:
-- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-- '[[_Standards/WikiData/WD~field_of_study,2267705]]'
-- '[[_Standards/WikiData/WD~biological_process,2996394]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~type_of_process,116505632]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113|WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~field_of_study,2267705|WD~field_of_study,2267705]]'
+- '[[_Standards/WikiData/WD~biological_process,2996394|WD~biological_process,2996394]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~type_of_process,116505632|WD~type_of_process,116505632]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~schema,1051200]]'
-- '[[_Standards/WikiData/WD~cognitive_style,2380771]]'
-- '[[_Standards/WikiData/WD~cognitive_complexity,5141199]]'
-- '[[_Standards/WikiData/WD~cognitive_flexibility,5141208]]'
+- '[[_Standards/WikiData/WD~schema,1051200|WD~schema,1051200]]'
+- '[[_Standards/WikiData/WD~cognitive_style,2380771|WD~cognitive_style,2380771]]'
+- '[[_Standards/WikiData/WD~cognitive_complexity,5141199|WD~cognitive_complexity,5141199]]'
+- '[[_Standards/WikiData/WD~cognitive_flexibility,5141208|WD~cognitive_flexibility,5141208]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
-part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764|WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
+part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620|WD~psychology_terminology,77468620]]'
 OmegaWiki_Defined_Meaning: 534748
 Commons_category: Cognition
 image: http://commons.wikimedia.org/wiki/Special:FilePath/RobertFuddBewusstsein17Jh.png

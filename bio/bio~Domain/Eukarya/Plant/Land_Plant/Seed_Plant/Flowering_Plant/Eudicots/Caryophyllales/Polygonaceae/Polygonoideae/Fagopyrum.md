@@ -41,15 +41,15 @@ aliases:
 - 蕎麥屬
 has_id_wikidata: Q7223832
 parent_taxon:
-- '[[_Standards/WikiData/WD~Polygonoideae,1238742]]'
-- '[[_Standards/WikiData/WD~Fagopyreae,21398906]]'
+- '[[_Standards/WikiData/WD~Polygonoideae,1238742|WD~Polygonoideae,1238742]]'
+- '[[_Standards/WikiData/WD~Fagopyreae,21398906|WD~Fagopyreae,21398906]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_25(1),112869402]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
-has_fruit_type: '[[_Standards/WikiData/WD~nucule,5118786]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_25(1),112869402|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_25(1),112869402]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+has_fruit_type: '[[_Standards/WikiData/WD~nucule,5118786|WD~nucule,5118786]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
 ITIS_TSN: 21281
 taxon_common_name:
 - buckwheat
@@ -143,7 +143,7 @@ dv_has_:
 
 # [[Fagopyrum]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Fagopyrum,7223832]]
+#is_/same_as :: [[_Standards/WikiData/WD~Fagopyrum,7223832|WD~Fagopyrum,7223832]]
 
 ## #has_/text_of_/abstract 
 

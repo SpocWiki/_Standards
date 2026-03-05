@@ -57,23 +57,23 @@ aliases:
 - 수산화 이온
 has_id_wikidata: Q199877
 different_from:
-- '[[_Standards/WikiData/WD~hydroxyl,104116]]'
-- '[[_Standards/WikiData/WD~hydroxyl,47386732]]'
-part_of: '[[_Standards/WikiData/WD~hydroxide_salt,425597]]'
+- '[[_Standards/WikiData/WD~hydroxyl,104116|WD~hydroxyl,104116]]'
+- '[[_Standards/WikiData/WD~hydroxyl,47386732|WD~hydroxyl,47386732]]'
+part_of: '[[_Standards/WikiData/WD~hydroxide_salt,425597|WD~hydroxide_salt,425597]]'
 subject_has_role:
-- '[[_Standards/WikiData/WD~primary_metabolite,3333419]]'
-- '[[_Standards/WikiData/WD~lyate_ion,6707113]]'
+- '[[_Standards/WikiData/WD~primary_metabolite,3333419|WD~primary_metabolite,3333419]]'
+- '[[_Standards/WikiData/WD~lyate_ion,6707113|WD~lyate_ion,6707113]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~monoprotic_acid,4272322]]'
-- '[[_Standards/WikiData/WD~polyatomic_anion,55511438]]'
-- '[[_Standards/WikiData/WD~monoanion,55523986]]'
-conjugate_base: '[[_Standards/WikiData/WD~oxide(2_),27110027]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
-conjugate_acid: '[[_Standards/WikiData/WD~water,283]]'
+- '[[_Standards/WikiData/WD~monoprotic_acid,4272322|WD~monoprotic_acid,4272322]]'
+- '[[_Standards/WikiData/WD~polyatomic_anion,55511438|WD~polyatomic_anion,55511438]]'
+- '[[_Standards/WikiData/WD~monoanion,55523986|WD~monoanion,55523986]]'
+conjugate_base: '[[_Standards/WikiData/WD~oxide(2_),27110027|WD~oxide(2_),27110027]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171|WD~type_of_chemical_entity,113145171]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+conjugate_acid: '[[_Standards/WikiData/WD~water,283|WD~water,283]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~hydrogen,556]]'
-- '[[_Standards/WikiData/WD~oxygen,629]]'
+- '[[_Standards/WikiData/WD~hydrogen,556|WD~hydrogen,556]]'
+- '[[_Standards/WikiData/WD~oxygen,629|WD~oxygen,629]]'
 PubChem_CID: 961
 mass: 17.003
 Gmelin_number: 24714
@@ -90,7 +90,7 @@ chemical_formula: HO⁻
 Commons_category: Hydroxide ion
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~hydroxide_ion,199877]]'
+  - '[[_Standards/WikiData/WD~hydroxide_ion,199877|WD~hydroxide_ion,199877]]'
   - '[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Hydroxide_Ion|Hydroxide_Ion]]'
   - '[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Hydroxide_Ion.public|Hydroxide_Ion.public]]'
   - '[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Hydroxide_Ion.internal|Hydroxide_Ion.internal]]'
@@ -99,7 +99,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Hydroxide_Ion.personal|Hydroxide_Ion.personal]]'
   - '[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Hydroxide_Ion.secret|Hydroxide_Ion.secret]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~hydroxide_ion,199877]]'
+- '[[_Standards/WikiData/WD~hydroxide_ion,199877|WD~hydroxide_ion,199877]]'
 - '[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Hydroxide_Ion|Hydroxide_Ion]]'
 - '[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Hydroxide_Ion.public|Hydroxide_Ion.public]]'
 - '[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Hydroxide_Ion.internal|Hydroxide_Ion.internal]]'
@@ -185,7 +185,7 @@ dv_has_:
 
 # [[Hydroxide_Ion]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~hydroxide_ion,199877]]
+#is_/same_as :: [[_Standards/WikiData/WD~hydroxide_ion,199877|WD~hydroxide_ion,199877]]
 
 ## #has_/text_of_/abstract 
 

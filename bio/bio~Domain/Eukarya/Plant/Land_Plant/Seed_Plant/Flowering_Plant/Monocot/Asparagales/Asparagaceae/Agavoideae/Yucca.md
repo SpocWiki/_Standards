@@ -33,22 +33,22 @@ aliases:
 - 유카속
 has_id_wikidata: Q156317
 has_fruit_type:
-- '[[_Standards/WikiData/WD~capsule,147768]]'
-- '[[_Standards/WikiData/WD~berry,13184]]'
-parent_taxon: '[[_Standards/WikiData/WD~Agavoideae,162802]]'
+- '[[_Standards/WikiData/WD~capsule,147768|WD~capsule,147768]]'
+- '[[_Standards/WikiData/WD~berry,13184|WD~berry,13184]]'
+parent_taxon: '[[_Standards/WikiData/WD~Agavoideae,162802|WD~Agavoideae,162802]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
-- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_14,112869388]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
-taxonomic_type: '[[_Standards/WikiData/WD~Yucca_aloifolia,1520316]]'
-this_taxon_is_source_of: '[[_Standards/WikiData/WD~istle,5923654]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878|WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517|WD~Small_Soviet_Encyclopedia,66386517]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_14,112869388|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_14,112869388]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604|WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Yucca_aloifolia,1520316|WD~Yucca_aloifolia,1520316]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~istle,5923654|WD~istle,5923654]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
 ITIS_TSN: 43116
 Commons_gallery: Yucca
 Commons_category: Yucca

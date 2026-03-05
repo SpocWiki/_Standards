@@ -133,26 +133,26 @@ aliases:
 - 빅뱅
 has_id_wikidata: Q323
 time_of_discovery_or_invention: 1931-01-01T00:00:00Z
-named_by: '[[_Standards/WikiData/WD~Fred_Hoyle,183397]]'
+named_by: '[[_Standards/WikiData/WD~Fred_Hoyle,183397|WD~Fred_Hoyle,183397]]'
 facet_of:
-- '[[_Standards/WikiData/WD~gravitational_singularity,201721]]'
-- '[[_Standards/WikiData/WD~general_relativity,11452]]'
+- '[[_Standards/WikiData/WD~gravitational_singularity,201721|WD~gravitational_singularity,201721]]'
+- '[[_Standards/WikiData/WD~general_relativity,11452|WD~general_relativity,11452]]'
 different_from:
-- '[[_Standards/WikiData/WD~Big_Bang_Theory,398363]]'
-- '[[_Standards/WikiData/WD~Big_Bang,794708]]'
+- '[[_Standards/WikiData/WD~Big_Bang_Theory,398363|WD~Big_Bang_Theory,398363]]'
+- '[[_Standards/WikiData/WD~Big_Bang,794708|WD~Big_Bang,794708]]'
 has_effect:
-- '[[_Standards/WikiData/WD~Big_Bang_nucleosynthesis,837317]]'
-- '[[_Standards/WikiData/WD~expansion_of_the_universe,1129469]]'
-- '[[_Standards/WikiData/WD~cosmic_microwave_background,15605]]'
-subclass_of: '[[_Standards/WikiData/WD~Big_Bounce,858624]]'
+- '[[_Standards/WikiData/WD~Big_Bang_nucleosynthesis,837317|WD~Big_Bang_nucleosynthesis,837317]]'
+- '[[_Standards/WikiData/WD~expansion_of_the_universe,1129469|WD~expansion_of_the_universe,1129469]]'
+- '[[_Standards/WikiData/WD~cosmic_microwave_background,15605|WD~cosmic_microwave_background,15605]]'
+subclass_of: '[[_Standards/WikiData/WD~Big_Bounce,858624|WD~Big_Bounce,858624]]'
 instance_of:
-- '[[_Standards/WikiData/WD~occurrence,1190554]]'
-- '[[_Standards/WikiData/WD~unmoved_mover,2326055]]'
-- '[[_Standards/WikiData/WD~cosmological_model,3318059]]'
-- '[[_Standards/WikiData/WD~big_bang,64831112]]'
-- "[[_Standards/WikiData/WD~argument_for_God's_existence,107394304]]"
-- '[[_Standards/WikiData/WD~scientific_evidence_for_the_existence_of_God,126059692]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Big_Bang_timeline,6717860]]'
+- '[[_Standards/WikiData/WD~occurrence,1190554|WD~occurrence,1190554]]'
+- '[[_Standards/WikiData/WD~unmoved_mover,2326055|WD~unmoved_mover,2326055]]'
+- '[[_Standards/WikiData/WD~cosmological_model,3318059|WD~cosmological_model,3318059]]'
+- '[[_Standards/WikiData/WD~big_bang,64831112|WD~big_bang,64831112]]'
+- "[[_Standards/WikiData/WD~argument_for_God's_existence,107394304|WD~argument_for_God's_existence,107394304]]"
+- '[[_Standards/WikiData/WD~scientific_evidence_for_the_existence_of_God,126059692|WD~scientific_evidence_for_the_existence_of_God,126059692]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Big_Bang_timeline,6717860|WD~Template_Big_Bang_timeline,6717860]]'
 pronunciation_audio:
 - http://commons.wikimedia.org/wiki/Special:FilePath/De-Urknall.ogg
 - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-GrandCelinien-Big%20Bang.wav
@@ -163,13 +163,13 @@ pronunciation_audio:
 - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33973%20%28scn%29-XANA000-Big%20Bang.wav
 - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q652%20%28ita%29-XANA000-Big%20Bang.wav
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_Enzyklopädie_(19_ed.),17377889]]'
-- '[[_Standards/WikiData/WD~Q135297649,135297649]]'
+- '[[_Standards/WikiData/WD~Brockhaus_Enzyklopädie_(19_ed.),17377889|WD~Brockhaus_Enzyklopädie_(19_ed.),17377889]]'
+- '[[_Standards/WikiData/WD~Q135297649,135297649|WD~Q135297649,135297649]]'
 point_in_time: -13798000000-06
 studied_by:
-- '[[_Standards/WikiData/WD~cosmology,338]]'
-- '[[_Standards/WikiData/WD~theory_of_relativity,43514]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Georges_Lemaître,12998]]'
+- '[[_Standards/WikiData/WD~cosmology,338|WD~cosmology,338]]'
+- '[[_Standards/WikiData/WD~theory_of_relativity,43514|WD~theory_of_relativity,43514]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Georges_Lemaître,12998|WD~Georges_Lemaître,12998]]'
 OmegaWiki_Defined_Meaning: 153660
 PhilPapers_topic: the-big-bang
 image: http://commons.wikimedia.org/wiki/Special:FilePath/CMB%20Timeline300%20no%20WMAP.jpg

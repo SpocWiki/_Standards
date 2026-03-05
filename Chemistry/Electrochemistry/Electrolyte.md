@@ -58,23 +58,23 @@ aliases:
 - 電解質
 - 전해질
 has_id_wikidata: Q162908
-instance_of: '[[_Standards/WikiData/WD~chemical_substance,79529]]'
-part_of: '[[_Standards/WikiData/WD~electrochemical_cell,80097]]'
+instance_of: '[[_Standards/WikiData/WD~chemical_substance,79529|WD~chemical_substance,79529]]'
+part_of: '[[_Standards/WikiData/WD~electrochemical_cell,80097|WD~electrochemical_cell,80097]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~electrical_conductor,124291]]'
-- '[[_Standards/WikiData/WD~liquid,11435]]'
+- '[[_Standards/WikiData/WD~electrical_conductor,124291|WD~electrical_conductor,124291]]'
+- '[[_Standards/WikiData/WD~liquid,11435|WD~liquid,11435]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~solvent,146505]]'
-- '[[_Standards/WikiData/WD~electrolyte,124131159]]'
-- '[[_Standards/WikiData/WD~ion,36496]]'
-subclass_of: '[[_Standards/WikiData/WD~material,214609]]'
+- '[[_Standards/WikiData/WD~solvent,146505|WD~solvent,146505]]'
+- '[[_Standards/WikiData/WD~electrolyte,124131159|WD~electrolyte,124131159]]'
+- '[[_Standards/WikiData/WD~ion,36496|WD~ion,36496]]'
+subclass_of: '[[_Standards/WikiData/WD~material,214609|WD~material,214609]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
-different_from: '[[_Standards/WikiData/WD~electrolyte,124131159]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517|WD~Small_Soviet_Encyclopedia,66386517]]'
+different_from: '[[_Standards/WikiData/WD~electrolyte,124131159|WD~electrolyte,124131159]]'
 OmegaWiki_Defined_Meaning: 1589459
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Chloralkali%20membrane.svg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Elektrolyt-article.ogg

@@ -40,18 +40,18 @@ aliases:
 - 芝娃娃
 - 치와와
 has_id_wikidata: Q653
-different_from: '[[_Standards/WikiData/WD~Chihuahua,860671]]'
-named_after: '[[_Standards/WikiData/WD~Chihuahua,655]]'
-country_of_origin: '[[_Standards/WikiData/WD~Mexico,96]]'
-subclass_of: '[[_Standards/WikiData/WD~dog,144]]'
+different_from: '[[_Standards/WikiData/WD~Chihuahua,860671|WD~Chihuahua,860671]]'
+named_after: '[[_Standards/WikiData/WD~Chihuahua,655|WD~Chihuahua,655]]'
+country_of_origin: '[[_Standards/WikiData/WD~Mexico,96|WD~Mexico,96]]'
+subclass_of: '[[_Standards/WikiData/WD~dog,144|WD~dog,144]]'
 mass:
 - 1.5
 - 2.5
 litter_size: 3.2
 has_use:
-- '[[_Standards/WikiData/WD~companion_dog,38499]]'
-- '[[_Standards/WikiData/WD~lap_dog,38914]]'
-instance_of: '[[_Standards/WikiData/WD~dog_breed,39367]]'
+- '[[_Standards/WikiData/WD~companion_dog,38499|WD~companion_dog,38499]]'
+- '[[_Standards/WikiData/WD~lap_dog,38914|WD~lap_dog,38914]]'
+instance_of: '[[_Standards/WikiData/WD~dog_breed,39367|WD~dog_breed,39367]]'
 catalog_code: 218
 OmegaWiki_Defined_Meaning: 646166
 Commons_gallery: Chihuahua (dog)

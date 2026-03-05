@@ -60,7 +60,7 @@ has_id_wikidata: Q191875
 type: ElementGroup
 dv_is_:
   same_as:
-  - '[[../../WikiData/WD~Group_12,191875]]'
+  - '[[../../WikiData/WD~Group_12,191875|WD~Group_12,191875]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Group-12-Zinc|Group-12-Zinc]]'
   - '[[/_public/Chemistry/Chemical_Element/Group-12-Zinc.public|Group-12-Zinc.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Group-12-Zinc.internal|Group-12-Zinc.internal]]'
@@ -69,7 +69,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Chemical_Element/Group-12-Zinc.personal|Group-12-Zinc.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Group-12-Zinc.secret|Group-12-Zinc.secret]]'
 dv_is_same_as:
-- '[[../../WikiData/WD~Group_12,191875]]'
+- '[[../../WikiData/WD~Group_12,191875|WD~Group_12,191875]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Group-12-Zinc|Group-12-Zinc]]'
 - '[[/_public/Chemistry/Chemical_Element/Group-12-Zinc.public|Group-12-Zinc.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Group-12-Zinc.internal|Group-12-Zinc.internal]]'
@@ -156,11 +156,11 @@ dv_has_:
 
 #chemic/Group 
   
-4)[[Group-12-Zinc/Zinc]]]
-5)[[Group-12-Zinc/Cadmium]]]
-6) [[Group-12-Zinc/Mercury]]]
+4)[[Group-12-Zinc/Zinc|Zinc]]]
+5)[[Group-12-Zinc/Cadmium|Cadmium]]]
+6) [[Group-12-Zinc/Mercury|Mercury]]]
 
-#is_/same_as :: [[../../WikiData/WD~Group_12,191875]]
+#is_/same_as :: [[../../WikiData/WD~Group_12,191875|WD~Group_12,191875]]
 
 ## #has_/text_of_/abstract 
 

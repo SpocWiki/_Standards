@@ -49,18 +49,18 @@ aliases:
 - 颜色视觉
 - 색채 지각
 has_id_wikidata: Q374259
-subclass_of: '[[_Standards/WikiData/WD~visual_perception,162668]]'
+subclass_of: '[[_Standards/WikiData/WD~visual_perception,162668|WD~visual_perception,162668]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 instance_of:
-- '[[_Standards/WikiData/WD~biological_function,3736076]]'
-- '[[_Standards/WikiData/WD~color_in_nature,105096490]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Eye_physiology,14444705]]'
-different_from: '[[_Standards/WikiData/WD~color_perception,67439593]]'
-part_of: '[[_Standards/WikiData/WD~psychological_terminology,77468620]]'
-studied_by: '[[_Standards/WikiData/WD~biology_of_colour,105582462]]'
+- '[[_Standards/WikiData/WD~biological_function,3736076|WD~biological_function,3736076]]'
+- '[[_Standards/WikiData/WD~color_in_nature,105096490|WD~color_in_nature,105096490]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Eye_physiology,14444705|WD~Template_Eye_physiology,14444705]]'
+different_from: '[[_Standards/WikiData/WD~color_perception,67439593|WD~color_perception,67439593]]'
+part_of: '[[_Standards/WikiData/WD~psychological_terminology,77468620|WD~psychological_terminology,77468620]]'
+studied_by: '[[_Standards/WikiData/WD~biology_of_colour,105582462|WD~biology_of_colour,105582462]]'
 Library_of_Congress_Classification: QP483
 Dewey_Decimal_Classification:
 - 152.145

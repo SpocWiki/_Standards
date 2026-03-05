@@ -64,7 +64,7 @@ dv_has_:
 ---
 
 # [[Antilope]]
-![[Antilope/antilope.jpg]]] 
+![[Antilope/antilope.jpg|antilope.jpg]]] 
 
 ## #has_/text_of_/abstract 
 

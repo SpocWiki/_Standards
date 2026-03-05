@@ -39,28 +39,28 @@ aliases:
 - 아마이드
 has_id_wikidata: Q188777
 different_from:
-- '[[_Standards/WikiData/WD~carboxamides,355679]]'
-- '[[_Standards/WikiData/WD~imide,407944]]'
-- '[[_Standards/WikiData/WD~amide_ion,4026895]]'
-- '[[_Standards/WikiData/WD~metal_amide,4064291]]'
+- '[[_Standards/WikiData/WD~carboxamides,355679|WD~carboxamides,355679]]'
+- '[[_Standards/WikiData/WD~imide,407944|WD~imide,407944]]'
+- '[[_Standards/WikiData/WD~amide_ion,4026895|WD~amide_ion,4026895]]'
+- '[[_Standards/WikiData/WD~metal_amide,4064291|WD~metal_amide,4064291]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135|WD~Encyclopedic_Lexicon,4532135]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~nitrogen_compound,3685323]]'
-- '[[_Standards/WikiData/WD~oxo_compound,19885597]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Amides,8248726]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~amide_group,9376026]]'
+- '[[_Standards/WikiData/WD~nitrogen_compound,3685323|WD~nitrogen_compound,3685323]]'
+- '[[_Standards/WikiData/WD~oxo_compound,19885597|WD~oxo_compound,19885597]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Amides,8248726|WD~Category_Amides,8248726]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~amide_group,9376026|WD~amide_group,9376026]]'
 part_of:
-- '[[_Standards/WikiData/WD~cellular_amide_metabolic_process,14916180]]'
-- '[[_Standards/WikiData/WD~amide_binding,15321544]]'
-- '[[_Standards/WikiData/WD~amide_transport,21095687]]'
-- '[[_Standards/WikiData/WD~amide_biosynthetic_process,22274684]]'
-- '[[_Standards/WikiData/WD~amide_transmembrane_transporter_activity,22320685]]'
-instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
+- '[[_Standards/WikiData/WD~cellular_amide_metabolic_process,14916180|WD~cellular_amide_metabolic_process,14916180]]'
+- '[[_Standards/WikiData/WD~amide_binding,15321544|WD~amide_binding,15321544]]'
+- '[[_Standards/WikiData/WD~amide_transport,21095687|WD~amide_transport,21095687]]'
+- '[[_Standards/WikiData/WD~amide_biosynthetic_process,22274684|WD~amide_biosynthetic_process,22274684]]'
+- '[[_Standards/WikiData/WD~amide_transmembrane_transporter_activity,22320685|WD~amide_transmembrane_transporter_activity,22320685]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
 Dewey_Decimal_Classification:
 - 547.042
 - 661.894

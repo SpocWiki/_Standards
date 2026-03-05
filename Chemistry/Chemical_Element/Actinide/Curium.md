@@ -82,11 +82,11 @@ chemical_formula: Cm
 Commons_category: Curium
 Commons_gallery: Curium
 described_by_source:
-- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 Dewey_Decimal_Classification: 546.442
-different_from: '[[_Standards/WikiData/WD~Kiur,11739561]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973]]'
+different_from: '[[_Standards/WikiData/WD~Kiur,11739561|WD~Kiur,11739561]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973|WD~Glenn_T._Seaborg,48973]]'
 DSSTOX_compound_identifier: DTXCID80147881
 electronegativity: 1.28
 element_symbol: Cm
@@ -94,8 +94,8 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Cm-Fluoreszenz.png
 InChI: InChI=1S/Cm
 InChIKey: NIWWFAAXEMMFMS-UHFFFAOYSA-N
 instance_of:
-- '[[_Standards/WikiData/WD~synthetic_element,755992]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+- '[[_Standards/WikiData/WD~synthetic_element,755992|WD~synthetic_element,755992]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 ionic_radius:
 - 0.85
 - 0.95
@@ -108,18 +108,18 @@ MeSH_tree_code:
 - D01.552.020.272
 - D01.552.544.200
 named_after:
-- '[[_Standards/WikiData/WD~Marie_Curie,7186]]'
-- '[[_Standards/WikiData/WD~Pierre_Curie,37463]]'
+- '[[_Standards/WikiData/WD~Marie_Curie,7186|WD~Marie_Curie,7186]]'
+- '[[_Standards/WikiData/WD~Pierre_Curie,37463|WD~Pierre_Curie,37463]]'
 OmegaWiki_Defined_Meaning: 157032
 part_of:
-- '[[_Standards/WikiData/WD~period_7,244979]]'
-- '[[_Standards/WikiData/WD~actinide,19577]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q65411312,65411312]]'
+- '[[_Standards/WikiData/WD~period_7,244979|WD~period_7,244979]]'
+- '[[_Standards/WikiData/WD~actinide,19577|WD~actinide,19577]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q65411312,65411312|WD~Q65411312,65411312]]'
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20145.jpg
 PubChem_CID: 23979
 SpocWebEntityId: 21991
 time_of_discovery_or_invention: 1944
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_curium,8085313]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_curium,8085313|WD~Template_Infobox_curium,8085313]]'
 type: Element
 UMLS_CUI: C0010473
 UNII: M5LL84MZ2W
@@ -308,9 +308,9 @@ dv_has_:
         kj_:
           mol: 0
 dv_is_:
-  part_of: '[[../Actinide]]'
+  part_of: '[[../Actinide|Actinide]]'
   same_as:
-  - '[[../../../WikiData/WD~Curium,1876]]'
+  - '[[../../../WikiData/WD~Curium,1876|WD~Curium,1876]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Actinide/Curium|Curium]]'
   - '[[/_public/Chemistry/Chemical_Element/Actinide/Curium.public|Curium.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Actinide/Curium.internal|Curium.internal]]'
@@ -319,7 +319,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Chemical_Element/Actinide/Curium.personal|Curium.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Actinide/Curium.secret|Curium.secret]]'
 dv_has_name_group: Actinide-Group
-dv_is_part_of: '[[../Actinide]]'
+dv_is_part_of: '[[../Actinide|Actinide]]'
 dv_has_name_en: Curium
 dv_has_name_de: Curium
 dv_has_name_abbreviated: Cm
@@ -340,7 +340,7 @@ dv_has_number_of_period: 7
 dv_has_number_of_group: 30
 dv_has_number_of_electrons: 96
 dv_is_same_as:
-- '[[../../../WikiData/WD~Curium,1876]]'
+- '[[../../../WikiData/WD~Curium,1876|WD~Curium,1876]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Actinide/Curium|Curium]]'
 - '[[/_public/Chemistry/Chemical_Element/Actinide/Curium.public|Curium.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Actinide/Curium.internal|Curium.internal]]'
@@ -389,7 +389,7 @@ has_number_of_group = `=this.dv_has_number_of_group`
 []
 has_number_of_electrons = `=this.dv_has_number_of_electrons` 
 
-#is_/same_as :: [[../../../WikiData/WD~Curium,1876]] 
+#is_/same_as :: [[../../../WikiData/WD~Curium,1876|WD~Curium,1876]] 
 
 ## #has_/text_of_/abstract 
 

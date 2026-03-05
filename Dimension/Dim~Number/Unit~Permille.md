@@ -45,19 +45,19 @@ aliases:
 - 千分率
 - 천분율
 has_id_wikidata: Q181011
-measured_physical_quantity: '[[_Standards/WikiData/WD~dimensionless_quantity,126818]]'
-subdivision_of_this_unit: '[[_Standards/WikiData/WD~basis_point,750178]]'
-followed_by: '[[_Standards/WikiData/WD~basis_point,750178]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-notation: '[[_Standards/WikiData/WD~per_mille_sign,10639864]]'
+measured_physical_quantity: '[[_Standards/WikiData/WD~dimensionless_quantity,126818|WD~dimensionless_quantity,126818]]'
+subdivision_of_this_unit: '[[_Standards/WikiData/WD~basis_point,750178|WD~basis_point,750178]]'
+followed_by: '[[_Standards/WikiData/WD~basis_point,750178|WD~basis_point,750178]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+notation: '[[_Standards/WikiData/WD~per_mille_sign,10639864|WD~per_mille_sign,10639864]]'
 different_from:
-- '[[_Standards/WikiData/WD~thousandth,42531880]]'
-- '[[_Standards/WikiData/WD~parts_per_thousand,99487704]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~thousandth,42531880]]'
+- '[[_Standards/WikiData/WD~thousandth,42531880|WD~thousandth,42531880]]'
+- '[[_Standards/WikiData/WD~parts_per_thousand,99487704|WD~parts_per_thousand,99487704]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~thousandth,42531880|WD~thousandth,42531880]]'
 instance_of:
-- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
-- '[[_Standards/WikiData/WD~parts_per_notation,27084]]'
-follows: '[[_Standards/WikiData/WD~percent,11229]]'
+- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057|WD~UCUM_derived_unit,82047057]]'
+- '[[_Standards/WikiData/WD~parts_per_notation,27084|WD~parts_per_notation,27084]]'
+follows: '[[_Standards/WikiData/WD~percent,11229|WD~percent,11229]]'
 conversion_to_standard_unit:
 - 1000000000000
 - 1000000000

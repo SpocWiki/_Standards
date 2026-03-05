@@ -58,17 +58,17 @@ aliases:
 - 手足口病
 - 수족구병
 has_id_wikidata: Q652744
-symptoms_and_signs: '[[_Standards/WikiData/WD~rash,653197]]'
-health_specialty: '[[_Standards/WikiData/WD~infectious_diseases,788926]]'
+symptoms_and_signs: '[[_Standards/WikiData/WD~rash,653197|WD~rash,653197]]'
+health_specialty: '[[_Standards/WikiData/WD~infectious_diseases,788926|WD~infectious_diseases,788926]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~viral_infectious_disease,1928978]]'
-- '[[_Standards/WikiData/WD~skin_infection,2458539]]'
-- '[[_Standards/WikiData/WD~coxsackievirus_infectious_disease,18966421]]'
-- '[[_Standards/WikiData/WD~disease,12136]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
+- '[[_Standards/WikiData/WD~viral_infectious_disease,1928978|WD~viral_infectious_disease,1928978]]'
+- '[[_Standards/WikiData/WD~skin_infection,2458539|WD~skin_infection,2458539]]'
+- '[[_Standards/WikiData/WD~coxsackievirus_infectious_disease,18966421|WD~coxsackievirus_infectious_disease,18966421]]'
+- '[[_Standards/WikiData/WD~disease,12136|WD~disease,12136]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686|WD~WikiProject_Medicine,4099686]]'
 instance_of:
-- '[[_Standards/WikiData/WD~infectious_disease,18123741]]'
-- '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+- '[[_Standards/WikiData/WD~infectious_disease,18123741|WD~infectious_disease,18123741]]'
+- '[[_Standards/WikiData/WD~class_of_disease,112193867|WD~class_of_disease,112193867]]'
 DiseasesDB: 5622
 ICD_10_CM: B08.4
 image:

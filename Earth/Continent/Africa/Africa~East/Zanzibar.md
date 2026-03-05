@@ -1,7 +1,7 @@
 ---
 dv_has_name_en: Zanzibar
 dv_has_name_de: Sansibar
-dv_has_place_continent: '[[../../Africa]]'
+dv_has_place_continent: '[[../../Africa|Africa]]'
 dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
 dv_has_place_longitude: 39.3167
 dv_has_place_latitude: -6.13333
@@ -87,28 +87,28 @@ tags:
 - geo/Country
 type: Country
 instance_of:
-- '[[_Standards/WikiData/WD~federated_state,107390]]'
-- '[[_Standards/WikiData/WD~administrative_territorial_entity,56061]]'
-anthem: '[[_Standards/WikiData/WD~Mungu_ibariki_Afrika,154035]]'
-different_from: '[[_Standards/WikiData/WD~Zinjibar,204391]]'
+- '[[_Standards/WikiData/WD~federated_state,107390|WD~federated_state,107390]]'
+- '[[_Standards/WikiData/WD~administrative_territorial_entity,56061|WD~administrative_territorial_entity,56061]]'
+anthem: '[[_Standards/WikiData/WD~Mungu_ibariki_Afrika,154035|WD~Mungu_ibariki_Afrika,154035]]'
+different_from: '[[_Standards/WikiData/WD~Zinjibar,204391|WD~Zinjibar,204391]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-head_of_government: '[[_Standards/WikiData/WD~Ali_Mohamed_Shein,743333]]'
-flag: '[[_Standards/WikiData/WD~flag_of_Zanzibar,1135849]]'
-located_in_time_zone: '[[_Standards/WikiData/WD~East_Africa_Time,1773949]]'
-capital: '[[_Standards/WikiData/WD~Zanzibar_City,2222874]]'
-category_for_people_born_here: '[[_Standards/WikiData/WD~Q15864657,15864657]]'
-category_of_associated_people: '[[_Standards/WikiData/WD~Q32406352,32406352]]'
-category_for_people_who_died_here: '[[_Standards/WikiData/WD~Q32673952,32673952]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Tanzania,924]]'
-country: '[[_Standards/WikiData/WD~Tanzania,924]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+head_of_government: '[[_Standards/WikiData/WD~Ali_Mohamed_Shein,743333|WD~Ali_Mohamed_Shein,743333]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Zanzibar,1135849|WD~flag_of_Zanzibar,1135849]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~East_Africa_Time,1773949|WD~East_Africa_Time,1773949]]'
+capital: '[[_Standards/WikiData/WD~Zanzibar_City,2222874|WD~Zanzibar_City,2222874]]'
+category_for_people_born_here: '[[_Standards/WikiData/WD~Q15864657,15864657|WD~Q15864657,15864657]]'
+category_of_associated_people: '[[_Standards/WikiData/WD~Q32406352,32406352|WD~Q32406352,32406352]]'
+category_for_people_who_died_here: '[[_Standards/WikiData/WD~Q32673952,32673952|WD~Q32673952,32673952]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~Tanzania,924|WD~Tanzania,924]]'
+country: '[[_Standards/WikiData/WD~Tanzania,924|WD~Tanzania,924]]'
 official_language:
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~Swahili,7838]]'
-present_in_work: '[[_Standards/WikiData/WD~Civilization_V,2385]]'
-continent: '[[_Standards/WikiData/WD~Africa,15]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Swahili,7838|WD~Swahili,7838]]'
+present_in_work: '[[_Standards/WikiData/WD~Civilization_V,2385|WD~Civilization_V,2385]]'
+continent: '[[_Standards/WikiData/WD~Africa,15|WD~Africa,15]]'
 area: 2461
 Commons_gallery: Zanzibar
 Commons_category: Zanzibar

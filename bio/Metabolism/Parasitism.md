@@ -79,20 +79,20 @@ aliases:
 - 기생
 has_id_wikidata: Q186517
 subclass_of:
-- '[[_Standards/WikiData/WD~symbiosis,121610]]'
-- '[[_Standards/WikiData/WD~predator,29017578]]'
+- '[[_Standards/WikiData/WD~symbiosis,121610|WD~symbiosis,121610]]'
+- '[[_Standards/WikiData/WD~predator,29017578|WD~predator,29017578]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~host_organism,221673]]'
-- '[[_Standards/WikiData/WD~parasite,10253316]]'
+- '[[_Standards/WikiData/WD~host_organism,221673|WD~host_organism,221673]]'
+- '[[_Standards/WikiData/WD~parasite,10253316|WD~parasite,10253316]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
-named_after: '[[_Standards/WikiData/WD~parasite,10253316]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878|WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823|WD~Encyclopedia_of_Armenian_Nature,16387823]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+named_after: '[[_Standards/WikiData/WD~parasite,10253316|WD~parasite,10253316]]'
 OmegaWiki_Defined_Meaning: 2716
 Commons_category: Parasites
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Live%20Tetragnatha%20montana%20%28RMNH.ARA.14127%29%20parasitized%20by%20Acrodactyla%20quadrisculpta%20larva%20%28RMNH.INS.593867%29%20-%20BDJ.1.e992.jpg

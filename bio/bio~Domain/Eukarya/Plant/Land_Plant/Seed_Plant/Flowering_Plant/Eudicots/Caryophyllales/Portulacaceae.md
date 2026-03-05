@@ -40,11 +40,11 @@ aliases:
 - 马齿苋科
 - 쇠비름과
 has_id_wikidata: Q521874
-taxonomic_type: '[[../../../../../../../../../WikiData/WD~Portulaca,159554]]'
-described_by_source: '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_26,112869404]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-parent_taxon: '[[../../../../../../../../../WikiData/WD~Caryophyllales,21808]]'
-taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+taxonomic_type: '[[../../../../../../../../../WikiData/WD~Portulaca,159554|WD~Portulaca,159554]]'
+described_by_source: '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_26,112869404|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_26,112869404]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+parent_taxon: '[[../../../../../../../../../WikiData/WD~Caryophyllales,21808|WD~Caryophyllales,21808]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409|WD~family,35409]]'
 ITIS_TSN: 20375
 taxon_common_name:
 - 马齿苋科
@@ -134,7 +134,7 @@ dv_has_:
 
 # [[Portulacaceae]] 
 
-#is_/same_as :: [[../../../../../../../../../WikiData/WD~Portulacaceae,521874]] 
+#is_/same_as :: [[../../../../../../../../../WikiData/WD~Portulacaceae,521874|WD~Portulacaceae,521874]] 
 
 ## #has_/text_of_/abstract 
 

@@ -68,7 +68,7 @@ dv_has_:
 
 # [[trigonal_planar_geometry]]  
 
-[[../../Organic_Chemistry/Functional_Group/Aldehyde/Formaldehyde]]: 
+[[../../Organic_Chemistry/Functional_Group/Aldehyde/Formaldehyde|Formaldehyde]]: 
 H
   C=O
 H

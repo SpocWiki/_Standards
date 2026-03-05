@@ -46,20 +46,20 @@ aliases:
 - 懸鈴木屬
 - 버즘나무속
 has_id_wikidata: Q163025
-taxonomic_type: '[[_Standards/WikiData/WD~Plantanus_orientalis,161105]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Plantanus_orientalis,161105|WD~Plantanus_orientalis,161105]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_35(2),112869416]]'
-- '[[_Standards/WikiData/WD~Flora_partis_europaeae_URSS,113988328]]'
-has_fruit_type: '[[_Standards/WikiData/WD~nucule,5118786]]'
-different_from: '[[_Standards/WikiData/WD~Plataan,15977691]]'
-this_taxon_is_source_of: '[[_Standards/WikiData/WD~sycamore,21418842]]'
-subclass_of: '[[_Standards/WikiData/WD~tree,10884]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_35(2),112869416|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_35(2),112869416]]'
+- '[[_Standards/WikiData/WD~Flora_partis_europaeae_URSS,113988328|WD~Flora_partis_europaeae_URSS,113988328]]'
+has_fruit_type: '[[_Standards/WikiData/WD~nucule,5118786|WD~nucule,5118786]]'
+different_from: '[[_Standards/WikiData/WD~Plataan,15977691|WD~Plataan,15977691]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~sycamore,21418842|WD~sycamore,21418842]]'
+subclass_of: '[[_Standards/WikiData/WD~tree,10884|WD~tree,10884]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
 ITIS_TSN: 19019
 OmegaWiki_Defined_Meaning: 915543
 taxon_common_name:
@@ -182,7 +182,7 @@ dv_has_:
 # [[Platanus]] 
 
 #is_/same_as :: [[WD~Platanus,163025]] 
-#has_/parent_taxon :: [[../Platanaceae]] 
+#has_/parent_taxon :: [[../Platanaceae|Platanaceae]] 
 
 ## #has_/text_of_/abstract 
 

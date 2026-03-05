@@ -1,7 +1,7 @@
 ---
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Pulsar,4360]]'
+  - '[[../../../WikiData/WD~Pulsar,4360|WD~Pulsar,4360]]'
   - '[[/_Standards/Astronomy/Star/Star~Class/Pulsar|Pulsar]]'
   - '[[/_public/Astronomy/Star/Star~Class/Pulsar.public|Pulsar.public]]'
   - '[[/_internal/Astronomy/Star/Star~Class/Pulsar.internal|Pulsar.internal]]'
@@ -10,7 +10,7 @@ dv_is_:
   - '[[/_personal/Astronomy/Star/Star~Class/Pulsar.personal|Pulsar.personal]]'
   - '[[/_secret/Astronomy/Star/Star~Class/Pulsar.secret|Pulsar.secret]]'
 dv_is_same_as:
-- '[[../../../WikiData/WD~Pulsar,4360]]'
+- '[[../../../WikiData/WD~Pulsar,4360|WD~Pulsar,4360]]'
 - '[[/_Standards/Astronomy/Star/Star~Class/Pulsar|Pulsar]]'
 - '[[/_public/Astronomy/Star/Star~Class/Pulsar.public|Pulsar.public]]'
 - '[[/_internal/Astronomy/Star/Star~Class/Pulsar.internal|Pulsar.internal]]'

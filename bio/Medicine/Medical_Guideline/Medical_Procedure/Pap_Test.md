@@ -51,16 +51,16 @@ aliases:
 - 柏氏抹片
 - 팹 테스트
 has_id_wikidata: Q942976
-named_after: '[[_Standards/WikiData/WD~Georgios_Papanikolaou,319321]]'
+named_after: '[[_Standards/WikiData/WD~Georgios_Papanikolaou,319321|WD~Georgios_Papanikolaou,319321]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~swab_sample,333482]]'
-- '[[_Standards/WikiData/WD~cervical_screening,5065348]]'
+- '[[_Standards/WikiData/WD~swab_sample,333482|WD~swab_sample,333482]]'
+- '[[_Standards/WikiData/WD~cervical_screening,5065348|WD~cervical_screening,5065348]]'
 health_specialty:
-- '[[_Standards/WikiData/WD~gynaecology,1221899]]'
-- '[[_Standards/WikiData/WD~cytopathology,1881849]]'
-instance_of: '[[_Standards/WikiData/WD~periodic_health_examination,1762591]]'
-facet_of: "[[_Standards/WikiData/WD~women's_health,8031191]]"
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
+- '[[_Standards/WikiData/WD~gynaecology,1221899|WD~gynaecology,1221899]]'
+- '[[_Standards/WikiData/WD~cytopathology,1881849|WD~cytopathology,1881849]]'
+instance_of: '[[_Standards/WikiData/WD~periodic_health_examination,1762591|WD~periodic_health_examination,1762591]]'
+facet_of: "[[_Standards/WikiData/WD~women's_health,8031191|WD~women's_health,8031191]]"
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720|WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pap%20test%20normal.jpg
 UMLS_CUI: C3541459
 MeSH_tree_code:

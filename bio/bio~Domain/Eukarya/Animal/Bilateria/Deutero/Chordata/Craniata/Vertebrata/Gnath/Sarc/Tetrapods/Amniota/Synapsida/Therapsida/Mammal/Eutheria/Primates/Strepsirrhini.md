@@ -47,8 +47,8 @@ aliases:
 - 곡비원아목
 has_id_wikidata: Q82265
 title: Strepsirrhini
-taxon_rank: '[[_Standards/WikiData/WD~suborder,5867959]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~suborder,5867959|WD~suborder,5867959]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 ITIS_TSN: 943774
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Extant%20strepsirrhine%20range%20with%20fossil%20sites.png
 image:

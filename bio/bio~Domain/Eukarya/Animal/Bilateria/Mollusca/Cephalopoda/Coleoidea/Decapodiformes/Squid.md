@@ -79,13 +79,13 @@ aliases:
 - 魷魚
 - 살오징어목
 has_id_wikidata: Q81900
-this_taxon_is_source_of: '[[_Standards/WikiData/WD~squid_as_food,550774]]'
-parent_taxon: '[[_Standards/WikiData/WD~Decapodiformes,843338]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~squid_as_food,550774|WD~squid_as_food,550774]]'
+parent_taxon: '[[_Standards/WikiData/WD~Decapodiformes,843338|WD~Decapodiformes,843338]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~order,36602|WD~order,36602]]'
 ITIS_TSN: 82367
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mastigoteuthis%20flammea.jpg
 Archive_of_Our_Own_tag: Octopi *a* Squid

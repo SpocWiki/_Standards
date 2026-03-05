@@ -58,26 +58,26 @@ aliases:
 - 에테르
 has_id_wikidata: Q103230
 different_from:
-- '[[_Standards/WikiData/WD~diethyl_ether,202218]]'
-- '[[_Standards/WikiData/WD~aether,381913]]'
-- '[[_Standards/WikiData/WD~Itter,5122]]'
+- '[[_Standards/WikiData/WD~diethyl_ether,202218|WD~diethyl_ether,202218]]'
+- '[[_Standards/WikiData/WD~aether,381913|WD~aether,381913]]'
+- '[[_Standards/WikiData/WD~Itter,5122|WD~Itter,5122]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878|WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517|WD~Small_Soviet_Encyclopedia,66386517]]'
 part_of:
-- '[[_Standards/WikiData/WD~response_to_ether,14819885]]'
-- '[[_Standards/WikiData/WD~cellular_response_to_ether,22273301]]'
-- '[[_Standards/WikiData/WD~ether_biosynthetic_process,22275930]]'
-- '[[_Standards/WikiData/WD~ether_metabolic_process,22275951]]'
-- '[[_Standards/WikiData/WD~ether_catabolic_process,22275954]]'
-instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
-subclass_of: '[[_Standards/WikiData/WD~organooxygen_compound,71574018]]'
+- '[[_Standards/WikiData/WD~response_to_ether,14819885|WD~response_to_ether,14819885]]'
+- '[[_Standards/WikiData/WD~cellular_response_to_ether,22273301|WD~cellular_response_to_ether,22273301]]'
+- '[[_Standards/WikiData/WD~ether_biosynthetic_process,22275930|WD~ether_biosynthetic_process,22275930]]'
+- '[[_Standards/WikiData/WD~ether_metabolic_process,22275951|WD~ether_metabolic_process,22275951]]'
+- '[[_Standards/WikiData/WD~ether_catabolic_process,22275954|WD~ether_catabolic_process,22275954]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
+subclass_of: '[[_Standards/WikiData/WD~organooxygen_compound,71574018|WD~organooxygen_compound,71574018]]'
 OmegaWiki_Defined_Meaning: 427571
 chemical_structure: http://commons.wikimedia.org/wiki/Special:FilePath/Ether-%28general%29.svg
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Ether.svg

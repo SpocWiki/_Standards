@@ -58,31 +58,31 @@ aliases:
 - 염화 칼슘
 has_id_wikidata: Q208451
 has_part_s_:
-- '[[_Standards/WikiData/WD~chloride_ion,108200]]'
-- '[[_Standards/WikiData/WD~calcium(2+),23905776]]'
+- '[[_Standards/WikiData/WD~chloride_ion,108200|WD~chloride_ion,108200]]'
+- '[[_Standards/WikiData/WD~calcium(2+),23905776|WD~calcium(2+),23905776]]'
 has_use:
-- '[[_Standards/WikiData/WD~food_additive,189567]]'
-- '[[_Standards/WikiData/WD~medication,12140]]'
+- '[[_Standards/WikiData/WD~food_additive,189567|WD~food_additive,189567]]'
+- '[[_Standards/WikiData/WD~medication,12140|WD~medication,12140]]'
 medical_condition_treated:
-- '[[_Standards/WikiData/WD~cardiac_arrest,202837]]'
-- '[[_Standards/WikiData/WD~tetany,511818]]'
+- '[[_Standards/WikiData/WD~cardiac_arrest,202837|WD~cardiac_arrest,202837]]'
+- '[[_Standards/WikiData/WD~tetany,511818|WD~tetany,511818]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~hygroscopy,216678]]'
-- '[[_Standards/WikiData/WD~bitterness,1517187]]'
+- '[[_Standards/WikiData/WD~hygroscopy,216678|WD~hygroscopy,216678]]'
+- '[[_Standards/WikiData/WD~bitterness,1517187|WD~bitterness,1517187]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~calcium_salt,4427704]]'
-- '[[_Standards/WikiData/WD~chloride,44791900]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~pharmaceutical_preparation_of_calcium_chloride,4498216]]'
+- '[[_Standards/WikiData/WD~calcium_salt,4427704|WD~calcium_salt,4427704]]'
+- '[[_Standards/WikiData/WD~chloride,44791900|WD~chloride,44791900]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~pharmaceutical_preparation_of_calcium_chloride,4498216|WD~pharmaceutical_preparation_of_calcium_chloride,4498216]]'
 different_from:
-- '[[_Standards/WikiData/WD~calcium_chloride_hexahydrate,27163154]]'
-- '[[_Standards/WikiData/WD~calcium_chloride_monohydrate,27282950]]'
-- '[[_Standards/WikiData/WD~calcium_chloride_dihydrate,29207042]]'
-- '[[_Standards/WikiData/WD~calcium_chloride_tetrahydrate,82297357]]'
-- '[[_Standards/WikiData/WD~Calcium_chloride,130291008]]'
-safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-color: '[[_Standards/WikiData/WD~white,23444]]'
+- '[[_Standards/WikiData/WD~calcium_chloride_hexahydrate,27163154|WD~calcium_chloride_hexahydrate,27163154]]'
+- '[[_Standards/WikiData/WD~calcium_chloride_monohydrate,27282950|WD~calcium_chloride_monohydrate,27282950]]'
+- '[[_Standards/WikiData/WD~calcium_chloride_dihydrate,29207042|WD~calcium_chloride_dihydrate,29207042]]'
+- '[[_Standards/WikiData/WD~calcium_chloride_tetrahydrate,82297357|WD~calcium_chloride_tetrahydrate,82297357]]'
+- '[[_Standards/WikiData/WD~Calcium_chloride,130291008|WD~Calcium_chloride,130291008]]'
+safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288|WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171|WD~type_of_chemical_entity,113145171]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+color: '[[_Standards/WikiData/WD~white,23444|WD~white,23444]]'
 defined_daily_dose: 0.2
 density: 2.15
 melting_point:

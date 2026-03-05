@@ -48,15 +48,15 @@ aliases:
 - 吸血蝠屬
 - 흡혈박쥐아과
 has_id_wikidata: Q190691
-taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280]]'
-parent_taxon: '[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Phyllostomidae,600042]]'
+taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280|WD~subfamily,164280]]'
+parent_taxon: '[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Phyllostomidae,600042|WD~Phyllostomidae,600042]]'
 described_by_source:
-- '[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-named_after: '[[_Standards/WikiData/WD~vampire,46721]]'
+- '[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+named_after: '[[_Standards/WikiData/WD~vampire,46721|WD~vampire,46721]]'
 ITIS_TSN: 552342
 OmegaWiki_Defined_Meaning: 1131821
 Commons_category: Desmodontinae

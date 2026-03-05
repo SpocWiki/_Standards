@@ -55,18 +55,18 @@ aliases:
 - 피트니스
 has_id_wikidata: Q309252
 facet_of:
-- '[[_Standards/WikiData/WD~physical_exercise,219067]]'
-- '[[_Standards/WikiData/WD~athletic_performance,1815844]]'
-- '[[_Standards/WikiData/WD~health,12147]]'
-different_from: '[[_Standards/WikiData/WD~fitness,331710]]'
-studied_by: '[[_Standards/WikiData/WD~sports_science,1298380]]'
+- '[[_Standards/WikiData/WD~physical_exercise,219067|WD~physical_exercise,219067]]'
+- '[[_Standards/WikiData/WD~athletic_performance,1815844|WD~athletic_performance,1815844]]'
+- '[[_Standards/WikiData/WD~health,12147|WD~health,12147]]'
+different_from: '[[_Standards/WikiData/WD~fitness,331710|WD~fitness,331710]]'
+studied_by: '[[_Standards/WikiData/WD~sports_science,1298380|WD~sports_science,1298380]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~well_being,7981051]]'
-- '[[_Standards/WikiData/WD~musculoskeletal_physiological_phenomena,60389878]]'
-- '[[_Standards/WikiData/WD~lifestyle,32090]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~physical_condition,8349689]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Health_and_fitness,11015739]]'
-sport: '[[_Standards/WikiData/WD~gymnastics,43450]]'
+- '[[_Standards/WikiData/WD~well_being,7981051|WD~well_being,7981051]]'
+- '[[_Standards/WikiData/WD~musculoskeletal_physiological_phenomena,60389878|WD~musculoskeletal_physiological_phenomena,60389878]]'
+- '[[_Standards/WikiData/WD~lifestyle,32090|WD~lifestyle,32090]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~physical_condition,8349689|WD~physical_condition,8349689]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Health_and_fitness,11015739|WD~Portal_Health_and_fitness,11015739]]'
+sport: '[[_Standards/WikiData/WD~gymnastics,43450|WD~gymnastics,43450]]'
 U_S_National_Archives_Identifier: 10644022
 hashtag: fitness
 subreddit:

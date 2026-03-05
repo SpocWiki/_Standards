@@ -70,20 +70,20 @@ aliases:
 - 모루
 has_id_wikidata: Q104363
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-- '[[_Standards/WikiData/WD~Enciclopedia_universal_ilustrada_europeo_americana_(1908_1930),115627942]]'
-has_use: '[[_Standards/WikiData/WD~metalworking,953045]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543|WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~Enciclopedia_universal_ilustrada_europeo_americana_(1908_1930),115627942|WD~Enciclopedia_universal_ilustrada_europeo_americana_(1908_1930),115627942]]'
+has_use: '[[_Standards/WikiData/WD~metalworking,953045|WD~metalworking,953045]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~metalworking,953045]]'
-- '[[_Standards/WikiData/WD~directly_struck_idiophone,19462049]]'
-- '[[_Standards/WikiData/WD~musical_instrument,34379]]'
-used_by: '[[_Standards/WikiData/WD~blacksmith,1639825]]'
-different_from: '[[_Standards/WikiData/WD~anvil,16632086]]'
+- '[[_Standards/WikiData/WD~metalworking,953045|WD~metalworking,953045]]'
+- '[[_Standards/WikiData/WD~directly_struck_idiophone,19462049|WD~directly_struck_idiophone,19462049]]'
+- '[[_Standards/WikiData/WD~musical_instrument,34379|WD~musical_instrument,34379]]'
+used_by: '[[_Standards/WikiData/WD~blacksmith,1639825|WD~blacksmith,1639825]]'
+different_from: '[[_Standards/WikiData/WD~anvil,16632086|WD~anvil,16632086]]'
 made_from_material:
-- '[[_Standards/WikiData/WD~iron,677]]'
-- '[[_Standards/WikiData/WD~steel,11427]]'
-instance_of: '[[_Standards/WikiData/WD~physical_tool,39546]]'
+- '[[_Standards/WikiData/WD~iron,677|WD~iron,677]]'
+- '[[_Standards/WikiData/WD~steel,11427|WD~steel,11427]]'
+instance_of: '[[_Standards/WikiData/WD~physical_tool,39546|WD~physical_tool,39546]]'
 Nomenclature_for_Museum_Cataloging: 5830
 OmegaWiki_Defined_Meaning: 6777
 GS1_GPC_code: 10003552

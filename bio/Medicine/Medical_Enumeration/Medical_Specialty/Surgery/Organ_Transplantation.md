@@ -72,19 +72,19 @@ aliases:
 - 이식
 has_id_wikidata: Q105196
 different_from:
-- '[[_Standards/WikiData/WD~transplanting,356031]]'
-- '[[_Standards/WikiData/WD~organ_transplantation,69253852]]'
+- '[[_Standards/WikiData/WD~transplanting,356031|WD~transplanting,356031]]'
+- '[[_Standards/WikiData/WD~organ_transplantation,69253852|WD~organ_transplantation,69253852]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~surgical_operation,600236]]'
-- '[[_Standards/WikiData/WD~surgical_procedure,15636229]]'
-- '[[_Standards/WikiData/WD~moving,115095261]]'
-- '[[_Standards/WikiData/WD~transfer,125506646]]'
+- '[[_Standards/WikiData/WD~surgical_operation,600236|WD~surgical_operation,600236]]'
+- '[[_Standards/WikiData/WD~surgical_procedure,15636229|WD~surgical_procedure,15636229]]'
+- '[[_Standards/WikiData/WD~moving,115095261|WD~moving,115095261]]'
+- '[[_Standards/WikiData/WD~transfer,125506646|WD~transfer,125506646]]'
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-studied_by: '[[_Standards/WikiData/WD~transplantology,1049976]]'
-instance_of: '[[_Standards/WikiData/WD~surgical_procedure_type,55215846]]'
-uses: '[[_Standards/WikiData/WD~transplant,64148592]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+studied_by: '[[_Standards/WikiData/WD~transplantology,1049976|WD~transplantology,1049976]]'
+instance_of: '[[_Standards/WikiData/WD~surgical_procedure_type,55215846|WD~surgical_procedure_type,55215846]]'
+uses: '[[_Standards/WikiData/WD~transplant,64148592|WD~transplant,64148592]]'
 Commons_category: Transplantation
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lost%20towel%20number%2015%20found.JPG
 UMLS_CUI: C0040732

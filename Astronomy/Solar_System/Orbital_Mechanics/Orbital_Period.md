@@ -74,11 +74,11 @@ aliases:
 - 공전 주기
 has_id_wikidata: Q37640
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~period,2642727]]'
-facet_of: '[[_Standards/WikiData/WD~orbital_revolution,1078480]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q9960992,9960992]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~period,2642727|WD~period,2642727]]'
+facet_of: '[[_Standards/WikiData/WD~orbital_revolution,1078480|WD~orbital_revolution,1078480]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q9960992,9960992|WD~Q9960992,9960992]]'
 Wikidata_property: orbital period
 in_defining_formula:
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>a</mi></mstyle></mrow></math>
@@ -92,7 +92,7 @@ defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="
 ISQ_dimension: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5B3</mi></mrow></mstyle></mrow></math>"
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Orbital_period,37640]]'
+  - '[[../../../WikiData/WD~Orbital_period,37640|WD~Orbital_period,37640]]'
   - '[[/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Period|Orbital_Period]]'
   - '[[/_public/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Period.public|Orbital_Period.public]]'
   - '[[/_internal/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Period.internal|Orbital_Period.internal]]'
@@ -101,7 +101,7 @@ dv_is_:
   - '[[/_personal/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Period.personal|Orbital_Period.personal]]'
   - '[[/_secret/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Period.secret|Orbital_Period.secret]]'
 dv_is_same_as:
-- '[[../../../WikiData/WD~Orbital_period,37640]]'
+- '[[../../../WikiData/WD~Orbital_period,37640|WD~Orbital_period,37640]]'
 - '[[/_Standards/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Period|Orbital_Period]]'
 - '[[/_public/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Period.public|Orbital_Period.public]]'
 - '[[/_internal/Astronomy/Solar_System/Orbital_Mechanics/Orbital_Period.internal|Orbital_Period.internal]]'

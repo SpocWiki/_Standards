@@ -31,12 +31,12 @@ aliases:
 - 원실젖거미하목
 has_id_wikidata: Q12081
 title: Mygalomorphae
-does_not_have_part: '[[_Standards/WikiData/WD~Cribellum,1139884]]'
+does_not_have_part: '[[_Standards/WikiData/WD~Cribellum,1139884|WD~Cribellum,1139884]]'
 taxon_rank:
-- '[[_Standards/WikiData/WD~infraorder,2889003]]'
-- '[[_Standards/WikiData/WD~suborder,5867959]]'
-parent_taxon: '[[_Standards/WikiData/WD~Opisthothelae,12072]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~infraorder,2889003|WD~infraorder,2889003]]'
+- '[[_Standards/WikiData/WD~suborder,5867959|WD~suborder,5867959]]'
+parent_taxon: '[[_Standards/WikiData/WD~Opisthothelae,12072|WD~Opisthothelae,12072]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 ITIS_TSN: 82733
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Mouse%20spider.jpg

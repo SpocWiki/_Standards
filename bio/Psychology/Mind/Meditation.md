@@ -76,18 +76,18 @@ aliases:
 - 명상
 has_id_wikidata: Q108458
 instance_of:
-- '[[_Standards/WikiData/WD~concept,151885]]'
-- '[[_Standards/WikiData/WD~hobby,47728]]'
+- '[[_Standards/WikiData/WD~concept,151885|WD~concept,151885]]'
+- '[[_Standards/WikiData/WD~hobby,47728|WD~hobby,47728]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~relaxation_technique,955260]]'
-- '[[_Standards/WikiData/WD~religious_concept,23847174]]'
-described_by_source: "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~relaxation_technique,955260|WD~relaxation_technique,955260]]'
+- '[[_Standards/WikiData/WD~religious_concept,23847174|WD~religious_concept,23847174]]'
+described_by_source: "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
 different_from:
-- '[[_Standards/WikiData/WD~meditation,3374868]]'
-- '[[_Standards/WikiData/WD~attention,6501338]]'
-- '[[_Standards/WikiData/WD~Q54894882,54894882]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Meditation,24238410]]'
-facet_of: '[[_Standards/WikiData/WD~Buddhism,748]]'
+- '[[_Standards/WikiData/WD~meditation,3374868|WD~meditation,3374868]]'
+- '[[_Standards/WikiData/WD~attention,6501338|WD~attention,6501338]]'
+- '[[_Standards/WikiData/WD~Q54894882,54894882|WD~Q54894882,54894882]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Meditation,24238410|WD~Template_Meditation,24238410]]'
+facet_of: '[[_Standards/WikiData/WD~Buddhism,748|WD~Buddhism,748]]'
 subreddit: Meditation
 Commons_category: Meditation
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Neelima64-%E0%A4%A7%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%A8.wav

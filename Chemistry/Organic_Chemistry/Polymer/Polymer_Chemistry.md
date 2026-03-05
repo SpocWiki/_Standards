@@ -58,16 +58,16 @@ aliases:
 - 고분자화학
 has_id_wikidata: Q750446
 subclass_of:
-- '[[_Standards/WikiData/WD~solid_state_chemistry,908684]]'
-- '[[_Standards/WikiData/WD~organic_chemistry,11351]]'
+- '[[_Standards/WikiData/WD~solid_state_chemistry,908684|WD~solid_state_chemistry,908684]]'
+- '[[_Standards/WikiData/WD~organic_chemistry,11351|WD~organic_chemistry,11351]]'
 instance_of:
-- '[[_Standards/WikiData/WD~academic_major,4671286]]'
-- '[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]'
-practiced_by: '[[_Standards/WikiData/WD~polymer_chemist,111018205]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~branch_of_chemistry,11790203|WD~branch_of_chemistry,11790203]]'
+practiced_by: '[[_Standards/WikiData/WD~polymer_chemist,111018205|WD~polymer_chemist,111018205]]'
 Commons_category: Polymer chemistry
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Polymer_chemistry,750446]]'
+  - '[[../../../WikiData/WD~Polymer_chemistry,750446|WD~Polymer_chemistry,750446]]'
   - '[[/_Standards/Chemistry/Organic_Chemistry/Polymer/Polymer_Chemistry|Polymer_Chemistry]]'
   - '[[/_public/Chemistry/Organic_Chemistry/Polymer/Polymer_Chemistry.public|Polymer_Chemistry.public]]'
   - '[[/_internal/Chemistry/Organic_Chemistry/Polymer/Polymer_Chemistry.internal|Polymer_Chemistry.internal]]'
@@ -76,7 +76,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Organic_Chemistry/Polymer/Polymer_Chemistry.personal|Polymer_Chemistry.personal]]'
   - '[[/_secret/Chemistry/Organic_Chemistry/Polymer/Polymer_Chemistry.secret|Polymer_Chemistry.secret]]'
 dv_is_same_as:
-- '[[../../../WikiData/WD~Polymer_chemistry,750446]]'
+- '[[../../../WikiData/WD~Polymer_chemistry,750446|WD~Polymer_chemistry,750446]]'
 - '[[/_Standards/Chemistry/Organic_Chemistry/Polymer/Polymer_Chemistry|Polymer_Chemistry]]'
 - '[[/_public/Chemistry/Organic_Chemistry/Polymer/Polymer_Chemistry.public|Polymer_Chemistry.public]]'
 - '[[/_internal/Chemistry/Organic_Chemistry/Polymer/Polymer_Chemistry.internal|Polymer_Chemistry.internal]]'

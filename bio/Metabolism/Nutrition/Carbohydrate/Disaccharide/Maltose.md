@@ -139,8 +139,8 @@ aliases:
 
 # [[Maltose]]  
 
-#is_/instance_of :: [[../Disaccharide]]
-#has_/parts :: [[../Monosaccharide/Glucose]] 
+#is_/instance_of :: [[../Disaccharide|Disaccharide]]
+#has_/parts :: [[../Monosaccharide/Glucose|Glucose]] 
 
 
 ## #has_/text_of_/abstract 

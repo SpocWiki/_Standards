@@ -76,25 +76,25 @@ aliases:
 - 아종
 has_id_wikidata: Q68947
 different_from:
-- '[[_Standards/WikiData/WD~genotype,106016]]'
-- '[[_Standards/WikiData/WD~serotype,848328]]'
-- '[[_Standards/WikiData/WD~strain,855769]]'
-- '[[_Standards/WikiData/WD~subgenus,3238261]]'
-- '[[_Standards/WikiData/WD~scientific_name,10753560]]'
-- '[[_Standards/WikiData/WD~genetic_variant,104795308]]'
-- '[[_Standards/WikiData/WD~virus_name,125481078]]'
-- '[[_Standards/WikiData/WD~isolate,125482110]]'
+- '[[_Standards/WikiData/WD~genotype,106016|WD~genotype,106016]]'
+- '[[_Standards/WikiData/WD~serotype,848328|WD~serotype,848328]]'
+- '[[_Standards/WikiData/WD~strain,855769|WD~strain,855769]]'
+- '[[_Standards/WikiData/WD~subgenus,3238261|WD~subgenus,3238261]]'
+- '[[_Standards/WikiData/WD~scientific_name,10753560|WD~scientific_name,10753560]]'
+- '[[_Standards/WikiData/WD~genetic_variant,104795308|WD~genetic_variant,104795308]]'
+- '[[_Standards/WikiData/WD~virus_name,125481078|WD~virus_name,125481078]]'
+- '[[_Standards/WikiData/WD~isolate,125482110|WD~isolate,125482110]]'
 instance_of:
-- '[[_Standards/WikiData/WD~taxonomic_rank,427626]]'
-- '[[_Standards/WikiData/WD~rank_in_botany,3100180]]'
-- '[[_Standards/WikiData/WD~rank_in_zoology,13578154]]'
+- '[[_Standards/WikiData/WD~taxonomic_rank,427626|WD~taxonomic_rank,427626]]'
+- '[[_Standards/WikiData/WD~rank_in_botany,3100180|WD~rank_in_botany,3100180]]'
+- '[[_Standards/WikiData/WD~rank_in_zoology,13578154|WD~rank_in_zoology,13578154]]'
 described_by_source:
-- '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~part,13196193]]'
-- '[[_Standards/WikiData/WD~taxon,16521]]'
-part_of: '[[_Standards/WikiData/WD~species,7432]]'
+- '[[_Standards/WikiData/WD~part,13196193|WD~part,13196193]]'
+- '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+part_of: '[[_Standards/WikiData/WD~species,7432|WD~species,7432]]'
 OmegaWiki_Defined_Meaning: 960607
 dv_has_:
   name_:
@@ -203,10 +203,10 @@ dv_has_:
 
 #is_a_/taxon_rank  
 #is_a :: [[../../../../../../../../Taxon_Rank|Taxon_Rank]]  
-#has_/previous_/item :: [[../bio~Species]] 
+#has_/previous_/item :: [[../bio~Species|bio~Species]] 
 #is_/different_from :: [[Breed]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~subspecies,68947]] 
+#is_/same_as :: [[_Standards/WikiData/WD~subspecies,68947|WD~subspecies,68947]] 
 
 
 ## Human Context: Race vs. Subspecies

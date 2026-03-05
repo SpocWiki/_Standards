@@ -56,15 +56,15 @@ aliases:
 - 精神官能症
 - 신경증
 has_id_wikidata: Q181032
-instance_of: '[[_Standards/WikiData/WD~concept,151885]]'
+instance_of: '[[_Standards/WikiData/WD~concept,151885|WD~concept,151885]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q116821136,116821136]]'
-facet_of: '[[_Standards/WikiData/WD~psychology,9418]]'
-health_specialty: '[[_Standards/WikiData/WD~psychoanalysis,41630]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635|WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q116821136,116821136|WD~Q116821136,116821136]]'
+facet_of: '[[_Standards/WikiData/WD~psychology,9418|WD~psychology,9418]]'
+health_specialty: '[[_Standards/WikiData/WD~psychoanalysis,41630|WD~psychoanalysis,41630]]'
 Dewey_Decimal_Classification: 616.852
 Krugosvet_article_archived_: medicina/NEVROZ.html
 dv_has_:

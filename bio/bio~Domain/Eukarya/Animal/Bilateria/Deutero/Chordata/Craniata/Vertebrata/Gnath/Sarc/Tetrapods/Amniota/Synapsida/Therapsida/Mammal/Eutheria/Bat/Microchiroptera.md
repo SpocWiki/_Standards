@@ -63,12 +63,12 @@ aliases:
 - 작은박쥐류
 has_id_wikidata: Q971343
 title: Microchiroptera
-taxon_rank: '[[_Standards/WikiData/WD~suborder,5867959]]'
+taxon_rank: '[[_Standards/WikiData/WD~suborder,5867959|WD~suborder,5867959]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-award_received: '[[_Standards/WikiData/WD~Animal_of_the_Year,109758329]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+award_received: '[[_Standards/WikiData/WD~Animal_of_the_Year,109758329|WD~Animal_of_the_Year,109758329]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 ITIS_TSN: 552302
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Big-eared-townsend-fledermaus.jpg
 Commons_category: Microchiroptera

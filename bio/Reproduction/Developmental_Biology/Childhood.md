@@ -76,26 +76,26 @@ aliases:
 - 아동기
 has_id_wikidata: Q276258
 followed_by:
-- '[[_Standards/WikiData/WD~adolescence,131774]]'
-- '[[_Standards/WikiData/WD~preadolescence,719723]]'
+- '[[_Standards/WikiData/WD~adolescence,131774|WD~adolescence,131774]]'
+- '[[_Standards/WikiData/WD~preadolescence,719723|WD~preadolescence,719723]]'
 studied_by:
-- '[[_Standards/WikiData/WD~developmental_psychology,175002]]'
-- '[[_Standards/WikiData/WD~sociology_of_childhood,113884118]]'
+- '[[_Standards/WikiData/WD~developmental_psychology,175002|WD~developmental_psychology,175002]]'
+- '[[_Standards/WikiData/WD~sociology_of_childhood,113884118|WD~sociology_of_childhood,113884118]]'
 instance_of:
-- '[[_Standards/WikiData/WD~age_of_a_person,185836]]'
-- '[[_Standards/WikiData/WD~phase_of_human_life,785260]]'
-- '[[_Standards/WikiData/WD~artistic_theme,1406161]]'
-- '[[_Standards/WikiData/WD~cultural_creation,119268920]]'
-subclass_of: '[[_Standards/WikiData/WD~occurrence,1190554]]'
+- '[[_Standards/WikiData/WD~age_of_a_person,185836|WD~age_of_a_person,185836]]'
+- '[[_Standards/WikiData/WD~phase_of_human_life,785260|WD~phase_of_human_life,785260]]'
+- '[[_Standards/WikiData/WD~artistic_theme,1406161|WD~artistic_theme,1406161]]'
+- '[[_Standards/WikiData/WD~cultural_creation,119268920|WD~cultural_creation,119268920]]'
+subclass_of: '[[_Standards/WikiData/WD~occurrence,1190554|WD~occurrence,1190554]]'
 different_from:
-- '[[_Standards/WikiData/WD~Childhood,1766899]]'
-- '[[_Standards/WikiData/WD~Childhood,47508159]]'
-described_by_source: '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
-opposite_of: '[[_Standards/WikiData/WD~parenthood,3365007]]'
-has_part_s_: '[[_Standards/WikiData/WD~early_childhood,3377398]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_childhood,4204823]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~child,7569]]'
-has_cause: '[[_Standards/WikiData/WD~parturition,34581]]'
+- '[[_Standards/WikiData/WD~Childhood,1766899|WD~Childhood,1766899]]'
+- '[[_Standards/WikiData/WD~Childhood,47508159|WD~Childhood,47508159]]'
+described_by_source: '[[_Standards/WikiData/WD~Pax_Leksikon,3351707|WD~Pax_Leksikon,3351707]]'
+opposite_of: '[[_Standards/WikiData/WD~parenthood,3365007|WD~parenthood,3365007]]'
+has_part_s_: '[[_Standards/WikiData/WD~early_childhood,3377398|WD~early_childhood,3377398]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_childhood,4204823|WD~history_of_childhood,4204823]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~child,7569|WD~child,7569]]'
+has_cause: '[[_Standards/WikiData/WD~parturition,34581|WD~parturition,34581]]'
 Commons_category: Childhood
 PhilPapers_topic: childhood
 Artsy_gene: childhood

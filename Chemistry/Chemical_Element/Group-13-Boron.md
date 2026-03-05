@@ -65,7 +65,7 @@ has_id_wikidata: Q189294
 type: ElementGroup
 dv_is_:
   same_as:
-  - '[[../../WikiData/WD~Group_13,189294]]'
+  - '[[../../WikiData/WD~Group_13,189294|WD~Group_13,189294]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Group-13-Boron|Group-13-Boron]]'
   - '[[/_public/Chemistry/Chemical_Element/Group-13-Boron.public|Group-13-Boron.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Group-13-Boron.internal|Group-13-Boron.internal]]'
@@ -74,7 +74,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Chemical_Element/Group-13-Boron.personal|Group-13-Boron.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Group-13-Boron.secret|Group-13-Boron.secret]]'
 dv_is_same_as:
-- '[[../../WikiData/WD~Group_13,189294]]'
+- '[[../../WikiData/WD~Group_13,189294|WD~Group_13,189294]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Group-13-Boron|Group-13-Boron]]'
 - '[[/_public/Chemistry/Chemical_Element/Group-13-Boron.public|Group-13-Boron.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Group-13-Boron.internal|Group-13-Boron.internal]]'
@@ -163,13 +163,13 @@ dv_has_:
 
 #chemic/Group 
 
-2)[[Group-13-Boron/Boron]]]
-3)[[Group-13-Boron/Aluminium]]]
-4)[[Group-13-Boron/Gallium]]]
-5)[[Group-13-Boron/Indium]]]
-6)[[Group-13-Boron/Thallium]]]
+2)[[Group-13-Boron/Boron|Boron]]]
+3)[[Group-13-Boron/Aluminium|Aluminium]]]
+4)[[Group-13-Boron/Gallium|Gallium]]]
+5)[[Group-13-Boron/Indium|Indium]]]
+6)[[Group-13-Boron/Thallium|Thallium]]]
 
-#is_/same_as :: [[../../WikiData/WD~Group_13,189294]] 
+#is_/same_as :: [[../../WikiData/WD~Group_13,189294|WD~Group_13,189294]] 
 
 ## #has_/text_of_/abstract 
 

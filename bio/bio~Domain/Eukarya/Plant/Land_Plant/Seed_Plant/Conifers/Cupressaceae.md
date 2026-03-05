@@ -74,20 +74,20 @@ taxon_common_name:
 - Ciprusfélék
 - ヒノキ科
 - 측백나무과
-taxonomic_type: '[[_Standards/WikiData/WD~Cupressus,146911]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Cupressus,146911|WD~Cupressus,146911]]'
 described_by_source:
-- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]'
-- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_7,112869376]]'
-taxon_synonym: '[[_Standards/WikiData/WD~Taxodiaceae,632844]]'
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112|WD~Zhiwu_Mingshi_Tukao,107402112]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_7,112869376|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_7,112869376]]'
+taxon_synonym: '[[_Standards/WikiData/WD~Taxodiaceae,632844|WD~Taxodiaceae,632844]]'
 parent_taxon:
-- '[[_Standards/WikiData/WD~Pinales,1000370]]'
-- '[[_Standards/WikiData/WD~Cupressales,5794838]]'
-- '[[_Standards/WikiData/WD~Coniferae,9849989]]'
-this_taxon_is_source_of: '[[_Standards/WikiData/WD~cedar_wood,5056949]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+- '[[_Standards/WikiData/WD~Pinales,1000370|WD~Pinales,1000370]]'
+- '[[_Standards/WikiData/WD~Cupressales,5794838|WD~Cupressales,5794838]]'
+- '[[_Standards/WikiData/WD~Coniferae,9849989|WD~Coniferae,9849989]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~cedar_wood,5056949|WD~cedar_wood,5056949]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409|WD~family,35409]]'
 ITIS_TSN: 18042
 Commons_category: Cupressaceae
 taxon_name: Cupressaceae
@@ -200,7 +200,7 @@ dv_has_:
 
 # [[Cupressaceae]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Cupressaceae,146037]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Cupressaceae,146037|WD~Cupressaceae,146037]] 
 
 ## #has_/text_of_/abstract 
 

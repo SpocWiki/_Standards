@@ -35,7 +35,7 @@ aliases:
 - 太陽星雲
 - 성운 가설
 has_id_wikidata: Q3400
-instance_of: '[[_Standards/WikiData/WD~molecular_cloud,272447]]'
+instance_of: '[[_Standards/WikiData/WD~molecular_cloud,272447|WD~molecular_cloud,272447]]'
 dv_is_:
   same_as:
   - '[[../../WikiData/WD~Solar_Nebula,3400|WD~Solar_Nebula,3400]]'

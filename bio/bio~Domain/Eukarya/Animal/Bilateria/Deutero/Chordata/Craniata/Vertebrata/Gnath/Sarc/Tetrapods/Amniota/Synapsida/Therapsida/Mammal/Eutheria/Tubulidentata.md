@@ -20,9 +20,9 @@ aliases:
 - 管齒目
 - 管齿目
 has_id_wikidata: Q1082523
-instance_of: '[[_Standards/WikiData/WD~monotypic_taxon,310890]]'
-parent_taxon: '[[_Standards/WikiData/WD~Afroinsectiphilia,2570409]]'
-taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
+instance_of: '[[_Standards/WikiData/WD~monotypic_taxon,310890|WD~monotypic_taxon,310890]]'
+parent_taxon: '[[_Standards/WikiData/WD~Afroinsectiphilia,2570409|WD~Afroinsectiphilia,2570409]]'
+taxon_rank: '[[_Standards/WikiData/WD~order,36602|WD~order,36602]]'
 taxon_common_name:
 - Aardvark
 - Тръбозъби

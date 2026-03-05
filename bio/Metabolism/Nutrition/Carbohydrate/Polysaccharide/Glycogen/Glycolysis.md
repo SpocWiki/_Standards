@@ -52,21 +52,21 @@ aliases:
 - 解糖系
 - 해당
 has_id_wikidata: Q162643
-instance_of: '[[_Standards/WikiData/WD~biological_process,2996394]]'
+instance_of: '[[_Standards/WikiData/WD~biological_process,2996394|WD~biological_process,2996394]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~pyruvate_metabolic_process,14865379]]'
-- '[[_Standards/WikiData/WD~ATP_generation_from_ADP,21130811]]'
-- '[[_Standards/WikiData/WD~carbohydrate_catabolic_process,21151801]]'
+- '[[_Standards/WikiData/WD~pyruvate_metabolic_process,14865379|WD~pyruvate_metabolic_process,14865379]]'
+- '[[_Standards/WikiData/WD~ATP_generation_from_ADP,21130811|WD~ATP_generation_from_ADP,21130811]]'
+- '[[_Standards/WikiData/WD~carbohydrate_catabolic_process,21151801|WD~carbohydrate_catabolic_process,21151801]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~phosphopyruvate_hydratase_activity,14914001]]'
-- '[[_Standards/WikiData/WD~phosphoglycerate_mutase_activity,21121869]]'
-- '[[_Standards/WikiData/WD~phosphoglycerate_kinase_activity,21134371]]'
-- '[[_Standards/WikiData/WD~glyceraldehyde_3_phosphate_dehydrogenase_(NAD(P)+)_(phosphorylating)_activity,22275628]]'
-- '[[_Standards/WikiData/WD~pyruvate_ion,27089397]]'
-- '[[_Standards/WikiData/WD~ATP(4_),27113900]]'
-- '[[_Standards/WikiData/WD~ADP(3_),27225748]]'
-- '[[_Standards/WikiData/WD~NAD(P)H,38131149]]'
-- '[[_Standards/WikiData/WD~NAD(P)+_cytosol_,50264715]]'
+- '[[_Standards/WikiData/WD~phosphopyruvate_hydratase_activity,14914001|WD~phosphopyruvate_hydratase_activity,14914001]]'
+- '[[_Standards/WikiData/WD~phosphoglycerate_mutase_activity,21121869|WD~phosphoglycerate_mutase_activity,21121869]]'
+- '[[_Standards/WikiData/WD~phosphoglycerate_kinase_activity,21134371|WD~phosphoglycerate_kinase_activity,21134371]]'
+- '[[_Standards/WikiData/WD~glyceraldehyde_3_phosphate_dehydrogenase_(NAD(P)+)_(phosphorylating)_activity,22275628|WD~glyceraldehyde_3_phosphate_dehydrogenase_(NAD(P)+)_(phosphorylating)_activity,22275628]]'
+- '[[_Standards/WikiData/WD~pyruvate_ion,27089397|WD~pyruvate_ion,27089397]]'
+- '[[_Standards/WikiData/WD~ATP(4_),27113900|WD~ATP(4_),27113900]]'
+- '[[_Standards/WikiData/WD~ADP(3_),27225748|WD~ADP(3_),27225748]]'
+- '[[_Standards/WikiData/WD~NAD(P)H,38131149|WD~NAD(P)H,38131149]]'
+- '[[_Standards/WikiData/WD~NAD(P)+_cytosol_,50264715|WD~NAD(P)+_cytosol_,50264715]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/GlycolysiscompleteLabelled.png
 exact_match: http://purl.obolibrary.org/obo/GO_0006096
 UMLS_CUI: C0017952

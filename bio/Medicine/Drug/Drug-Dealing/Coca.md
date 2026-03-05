@@ -99,7 +99,7 @@ aliases:
 >
 > The cocaine alkaloid content of dry Erythroxylum coca var. coca leaves was 
 > measured ranging from 0.23% to 0.96%. 
-> [[../../../../Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Coca-Cola]] used coca leaf extract in its products from 1885 until about 1903, 
+> [[../../../../Society/Economics/Home_Economics/Cooking/Food/Drink/Soft_Drink/Coca-Cola|Coca-Cola]] used coca leaf extract in its products from 1885 until about 1903, 
 > when it began using decocainized leaf extract. 
 > 
 > Extraction of cocaine from coca requires several solvents 

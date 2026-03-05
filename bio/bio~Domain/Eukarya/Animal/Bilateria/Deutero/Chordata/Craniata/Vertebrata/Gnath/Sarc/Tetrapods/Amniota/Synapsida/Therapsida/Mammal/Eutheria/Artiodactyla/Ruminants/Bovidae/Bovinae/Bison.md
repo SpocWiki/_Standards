@@ -87,42 +87,42 @@ taxon_common_name:
 - bisonte americano
 - Bison d'Amérique
 Dewey_Decimal_Classification: 599.643
-different_from: '[[_Standards/WikiData/WD~Bison_bonasus,81091]]'
+different_from: '[[_Standards/WikiData/WD~Bison_bonasus,81091|WD~Bison_bonasus,81091]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-IUCN_conservation_status: '[[_Standards/WikiData/WD~Near_Threatened,719675]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+IUCN_conservation_status: '[[_Standards/WikiData/WD~Near_Threatened,719675|WD~Near_Threatened,719675]]'
 has_use:
-- '[[_Standards/WikiData/WD~shelter,989946]]'
-- '[[_Standards/WikiData/WD~food,2095]]'
-- '[[_Standards/WikiData/WD~blanket,5852]]'
-- '[[_Standards/WikiData/WD~physical_tool,39546]]'
-- '[[_Standards/WikiData/WD~fuel,42501]]'
+- '[[_Standards/WikiData/WD~shelter,989946|WD~shelter,989946]]'
+- '[[_Standards/WikiData/WD~food,2095|WD~food,2095]]'
+- '[[_Standards/WikiData/WD~blanket,5852|WD~blanket,5852]]'
+- '[[_Standards/WikiData/WD~physical_tool,39546|WD~physical_tool,39546]]'
+- '[[_Standards/WikiData/WD~fuel,42501|WD~fuel,42501]]'
 part_of:
-- '[[_Standards/WikiData/WD~bison_hunting,2068524]]'
-- '[[_Standards/WikiData/WD~buffalo,115209314]]'
-subject_has_role: '[[_Standards/WikiData/WD~national_animal,12328345]]'
+- '[[_Standards/WikiData/WD~bison_hunting,2068524|WD~bison_hunting,2068524]]'
+- '[[_Standards/WikiData/WD~buffalo,115209314|WD~buffalo,115209314]]'
+subject_has_role: '[[_Standards/WikiData/WD~national_animal,12328345|WD~national_animal,12328345]]'
 color:
-- '[[_Standards/WikiData/WD~dark_brown,15699769]]'
-- '[[_Standards/WikiData/WD~brown,47071]]'
+- '[[_Standards/WikiData/WD~dark_brown,15699769|WD~dark_brown,15699769]]'
+- '[[_Standards/WikiData/WD~brown,47071|WD~brown,47071]]'
 taxon_synonym:
-- '[[_Standards/WikiData/WD~Bos_bison,52175200]]'
-- '[[_Standards/WikiData/WD~Bos_americanus,122526178]]'
-original_combination: '[[_Standards/WikiData/WD~Bos_bison,52175200]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
-this_taxon_is_source_of: '[[_Standards/WikiData/WD~bison_meat,58173066]]'
+- '[[_Standards/WikiData/WD~Bos_bison,52175200|WD~Bos_bison,52175200]]'
+- '[[_Standards/WikiData/WD~Bos_americanus,122526178|WD~Bos_americanus,122526178]]'
+original_combination: '[[_Standards/WikiData/WD~Bos_bison,52175200|WD~Bos_bison,52175200]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615|WD~WikiProject_Invasion_Biology,56241615]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~bison_meat,58173066|WD~bison_meat,58173066]]'
 start_time: -10000-01-01T00:00:00Z
-taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432|WD~species,7432]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 taxon_range:
-- '[[_Standards/WikiData/WD~Canada,16]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Canada,16|WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 litter_size: 1
 mass:
 - 20
 - 2800
-used_by: '[[_Standards/WikiData/WD~Indigenous_peoples_of_the_Americas,36747]]'
+used_by: '[[_Standards/WikiData/WD~Indigenous_peoples_of_the_Americas,36747|WD~Indigenous_peoples_of_the_Americas,36747]]'
 gestation_period: 285
 longest_observed_lifespan: 33.5
 U_S_National_Archives_Identifier: 10638534

@@ -85,16 +85,16 @@ title:
   "{ newTitle: }":
 has_id_wikidata: Q36611
 described_by_source:
-  - "[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
-topic_s_main_category: "[[_Standards/WikiData/WD~Category_Gorillas,7010889]]"
-topic_has_template: "[[_Standards/WikiData/WD~Q25942228,25942228]]"
-parent_taxon: "[[_Standards/WikiData/WD~Gorillina,67528297]]"
-instance_of: "[[_Standards/WikiData/WD~taxon,16521]]"
+  - "[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]"
+topic_s_main_category: "[[_Standards/WikiData/WD~Category_Gorillas,7010889|WD~Category_Gorillas,7010889]]"
+topic_has_template: "[[_Standards/WikiData/WD~Q25942228,25942228|WD~Q25942228,25942228]]"
+parent_taxon: "[[_Standards/WikiData/WD~Gorillina,67528297|WD~Gorillina,67528297]]"
+instance_of: "[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]"
 gestation_period: 270
-taxon_rank: "[[_Standards/WikiData/WD~genus,34740]]"
+taxon_rank: "[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]"
 Commons_gallery: Gorilla
 Commons_category: Gorilla
 taxon_name: Gorilla

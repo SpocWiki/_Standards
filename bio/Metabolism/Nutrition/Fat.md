@@ -105,26 +105,26 @@ has_id_wikidata: Q127980
 Commons_category: Fat
 Common_Procurement_Vocabulary_code: 15412000-9
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 Dewey_Decimal_Classification: 665
 different_from:
-- '[[_Standards/WikiData/WD~triglyceride,186319]]'
-- '[[_Standards/WikiData/WD~adipose_tissue,193583]]'
-- '[[_Standards/WikiData/WD~glyceride,407758]]'
-- '[[_Standards/WikiData/WD~grease,629823]]'
-- '[[_Standards/WikiData/WD~lipid,11367]]'
-- '[[_Standards/WikiData/WD~oil,42962]]'
-has_part_s_: '[[_Standards/WikiData/WD~glyceride,407758]]'
+- '[[_Standards/WikiData/WD~triglyceride,186319|WD~triglyceride,186319]]'
+- '[[_Standards/WikiData/WD~adipose_tissue,193583|WD~adipose_tissue,193583]]'
+- '[[_Standards/WikiData/WD~glyceride,407758|WD~glyceride,407758]]'
+- '[[_Standards/WikiData/WD~grease,629823|WD~grease,629823]]'
+- '[[_Standards/WikiData/WD~lipid,11367|WD~lipid,11367]]'
+- '[[_Standards/WikiData/WD~oil,42962|WD~oil,42962]]'
+has_part_s_: '[[_Standards/WikiData/WD~glyceride,407758|WD~glyceride,407758]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fat%20embolism%20%286467719609%29.jpg
 MeSH_tree_code: D10.212
 subclass_of:
-- '[[_Standards/WikiData/WD~mixture,169336]]'
-- '[[_Standards/WikiData/WD~material,214609]]'
+- '[[_Standards/WikiData/WD~mixture,169336|WD~mixture,169336]]'
+- '[[_Standards/WikiData/WD~material,214609|WD~material,214609]]'
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Fats_and_oils,12218467]]'
-- '[[_Standards/WikiData/WD~Template_Fats,13625308]]'
+- '[[_Standards/WikiData/WD~Template_Fats_and_oils,12218467|WD~Template_Fats_and_oils,12218467]]'
+- '[[_Standards/WikiData/WD~Template_Fats,13625308|WD~Template_Fats,13625308]]'
 UMLS_CUI:
 - C0012171
 - C0015677
@@ -267,7 +267,7 @@ dv_has_:
 
 ## #has_/text_of_/abstract 
 
-> In [[../Nutrition|nutrition]], [[../../../bio|biology]], and [[../../../Chemistry|chemistry]], **Fat** and Oil usually means any [[../../../Chemistry/Organic_Chemistry/Functional_Group/Ester|ester]] of [[Fat/Fatty_Acid]]s, 
+> In [[../Nutrition|nutrition]], [[../../../bio|biology]], and [[../../../Chemistry|chemistry]], **Fat** and Oil usually means any [[../../../Chemistry/Organic_Chemistry/Functional_Group/Ester|ester]] of [[Fat/Fatty_Acid|Fatty_Acid]]s, 
 > or a mixture of such compounds, most commonly those that occur in living beings or in food.
 >
 > The term often refers specifically to triglycerides (triple [[../../../Chemistry/Organic_Chemistry/Functional_Group/Ester|esters]] of [[../../../Chemistry/Organic_Chemistry/Functional_Group/Alcohol/Polyol/Triol/Glycerol|Glycerol]]), 

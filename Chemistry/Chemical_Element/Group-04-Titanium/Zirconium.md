@@ -93,7 +93,7 @@ aliases:
 - 지르코늄
 - 지르코니움
 has_id_wikidata: Q1038
-associated_hazard: '[[_Standards/WikiData/WD~zirconium_exposure,21175432]]'
+associated_hazard: '[[_Standards/WikiData/WD~zirconium_exposure,21175432|WD~zirconium_exposure,21175432]]'
 atomic_number: 40
 boiling_point: 6471
 canonical_SMILES: '[Zr]'
@@ -107,59 +107,59 @@ Common_Procurement_Vocabulary_code:
 CPV_Supplementary_code: AA18
 density: 6.51
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
 Dewey_Decimal_Classification:
 - 669.735
 - 546.513
 - 620.189352
 - 661.0513
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Jöns_Jacob_Berzelius,151911]]'
-- '[[_Standards/WikiData/WD~Martin_Heinrich_Klaproth,160196]]'
-- '[[_Standards/WikiData/WD~Jan_Hendrik_de_Boer,705255]]'
-- '[[_Standards/WikiData/WD~Anton_Eduard_van_Arkel,902921]]'
+- '[[_Standards/WikiData/WD~Jöns_Jacob_Berzelius,151911|WD~Jöns_Jacob_Berzelius,151911]]'
+- '[[_Standards/WikiData/WD~Martin_Heinrich_Klaproth,160196|WD~Martin_Heinrich_Klaproth,160196]]'
+- '[[_Standards/WikiData/WD~Jan_Hendrik_de_Boer,705255|WD~Jan_Hendrik_de_Boer,705255]]'
+- '[[_Standards/WikiData/WD~Anton_Eduard_van_Arkel,902921|WD~Anton_Eduard_van_Arkel,902921]]'
 DSSTOX_compound_identifier: DTXCID4029777
 EC_number: 231-176-9
 electronegativity: 1
 electron_configuration: '[Kr] 4d² 5s²'
 element_symbol: Zr
-has_effect: '[[_Standards/WikiData/WD~zirconium_exposure,21175432]]'
+has_effect: '[[_Standards/WikiData/WD~zirconium_exposure,21175432|WD~zirconium_exposure,21175432]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Zirconium%20crystal%20bar%20and%201cm3%20cube.jpg
 immediately_dangerous_to_life_or_health: 25
 InChI: InChI=1S/Zr
 InChIKey: QCWXUUIWCKQGHC-UHFFFAOYSA-N
 instance_of:
-- '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- '[[_Standards/WikiData/WD~combustible_powder,21073023]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+- '[[_Standards/WikiData/WD~lithophile,1130479|WD~lithophile,1130479]]'
+- '[[_Standards/WikiData/WD~combustible_powder,21073023|WD~combustible_powder,21073023]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 ionic_radius:
 - 0.59
 - 0.72
 - 0.84
 - 0.89
-location_of_discovery: '[[_Standards/WikiData/WD~Germany,183]]'
+location_of_discovery: '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
 mass: 91.222
 melting_point: 3375
 MeSH_tree_code:
 - D01.268.556.950
 - D01.268.956.937
 - D01.552.544.950
-named_after: '[[_Standards/WikiData/WD~zircon,178928]]'
+named_after: '[[_Standards/WikiData/WD~zircon,178928|WD~zircon,178928]]'
 OmegaWiki_Defined_Meaning: 371224
 oxidation_state: 4
 part_of:
-- '[[_Standards/WikiData/WD~group_4,189302]]'
-- '[[_Standards/WikiData/WD~period_5,244982]]'
+- '[[_Standards/WikiData/WD~group_4,189302|WD~group_4,189302]]'
+- '[[_Standards/WikiData/WD~period_5,244982|WD~period_5,244982]]'
 PubChem_CID: 23995
 RTECS_number: ZH7070000
 short_term_exposure_limit: 10
 SpocWebEntityId: 21938
 subclass_of:
-- '[[_Standards/WikiData/WD~period_5,244982]]'
-- '[[_Standards/WikiData/WD~transition_metal,19588]]'
+- '[[_Standards/WikiData/WD~period_5,244982|WD~period_5,244982]]'
+- '[[_Standards/WikiData/WD~transition_metal,19588|WD~transition_metal,19588]]'
 time_of_discovery_or_invention: 1789
 time_weighted_average_exposure_limit: 5
 type: Element
@@ -171,7 +171,7 @@ ZVG_number:
 - 520040
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Zirconium,1038]]'
+  - '[[../../../WikiData/WD~Zirconium,1038|WD~Zirconium,1038]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium|Zirconium]]'
   - '[[/_public/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.public|Zirconium.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.internal|Zirconium.internal]]'
@@ -179,7 +179,7 @@ dv_is_:
   - '[[/_private/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.private|Zirconium.private]]'
   - '[[/_personal/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.personal|Zirconium.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.secret|Zirconium.secret]]'
-  part_of: '[[../Group-04-Titanium]]'
+  part_of: '[[../Group-04-Titanium|Group-04-Titanium]]'
 dv_has_:
   name_:
     abbreviated: Zr
@@ -371,7 +371,7 @@ dv_has_:
         kj_:
           mol: 58.2
 dv_is_same_as:
-- '[[../../../WikiData/WD~Zirconium,1038]]'
+- '[[../../../WikiData/WD~Zirconium,1038|WD~Zirconium,1038]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium|Zirconium]]'
 - '[[/_public/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.public|Zirconium.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.internal|Zirconium.internal]]'
@@ -380,7 +380,7 @@ dv_is_same_as:
 - '[[/_personal/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.personal|Zirconium.personal]]'
 - '[[/_secret/Chemistry/Chemical_Element/Group-04-Titanium/Zirconium.secret|Zirconium.secret]]'
 dv_has_name_group: Group-04-Titanium
-dv_is_part_of: '[[../Group-04-Titanium]]'
+dv_is_part_of: '[[../Group-04-Titanium|Group-04-Titanium]]'
 dv_has_name_en: Zirconium
 dv_has_name_de: Zirkonium
 dv_has_value_for_weight_u: 91.224
@@ -408,7 +408,7 @@ Unicode_character: 鋯
 
 
 #chemic/Element 
-#is_/same_as :: [[../../../WikiData/WD~Zirconium,1038]] 
+#is_/same_as :: [[../../../WikiData/WD~Zirconium,1038|WD~Zirconium,1038]] 
 
 has_name_group = `=this.dv_has_name_group` 
 is_part_of = `=this.dv_is_part_of` 

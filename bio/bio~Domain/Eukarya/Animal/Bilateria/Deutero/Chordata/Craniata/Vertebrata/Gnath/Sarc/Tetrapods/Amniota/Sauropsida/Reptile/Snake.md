@@ -190,38 +190,38 @@ Commons_category: Serpentes
 Commons_gallery: Serpentes
 described_at_URL: https://neal.fun/earth-reviews/snakes
 described_by_source:
-- '[[../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-different_from: '[[_Standards/WikiData/WD~Wąż,9381354]]'
+- '[[../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+different_from: '[[_Standards/WikiData/WD~Wąż,9381354|WD~Wąż,9381354]]'
 hashtag: snake
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Snakes%20Diversity.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/A%20snake%20coiled%20in%20the%20cavity%20of%20a%20tree.jpg
-instance_of: '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]'
+instance_of: '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715|WD~organisms_known_by_a_particular_common_name,55983715]]'
 Krugosvet_article: nauka_i_tehnika/biologiya/ZMEI.html
-means_of_locomotion: '[[_Standards/WikiData/WD~snake_locomotion,29378923]]'
+means_of_locomotion: '[[_Standards/WikiData/WD~snake_locomotion,29378923|WD~snake_locomotion,29378923]]'
 MeSH_tree_code: B01.050.150.900.833.672
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Snakes%20Diversity.jpg
 OmegaWiki_Defined_Meaning: 3388
-studied_in: '[[_Standards/WikiData/WD~ophiology,577555]]'
+studied_in: '[[_Standards/WikiData/WD~ophiology,577555|WD~ophiology,577555]]'
 subreddit:
 - snakes
 - Sneks
-taxon_known_by_this_common_name: '[[_Standards/WikiData/WD~North_American_legless_lizards,659685]]'
-this_taxon_is_source_of: '[[_Standards/WikiData/WD~snake_meat,15924671]]'
-topic_s_main_thesaurus: '[[_Standards/WikiData/WD~Thesaurus_snake,82477488]]'
+taxon_known_by_this_common_name: '[[_Standards/WikiData/WD~North_American_legless_lizards,659685|WD~North_American_legless_lizards,659685]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~snake_meat,15924671|WD~snake_meat,15924671]]'
+topic_s_main_thesaurus: '[[_Standards/WikiData/WD~Thesaurus_snake,82477488|WD~Thesaurus_snake,82477488]]'
 UMLS_CUI: C0037382
 Unicode_character: "\U0001F40D"
-studied_by: '[[_Standards/WikiData/WD~ophiology,577555]]'
-depicted_by: '[[_Standards/WikiData/WD~Moses_and_the_Brass_serpent,132148123]]'
+studied_by: '[[_Standards/WikiData/WD~ophiology,577555|WD~ophiology,577555]]'
+depicted_by: '[[_Standards/WikiData/WD~Moses_and_the_Brass_serpent,132148123|WD~Moses_and_the_Brass_serpent,132148123]]'
 IMDb_keyword: snake
 hashtag_: snake
 dv_has_:

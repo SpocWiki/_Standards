@@ -104,27 +104,27 @@ aliases:
 has_id_wikidata: Q40152
 title: Octopoda
 uses:
-- '[[_Standards/WikiData/WD~mimicry,192627]]'
-- '[[_Standards/WikiData/WD~physical_object,223557]]'
-- '[[_Standards/WikiData/WD~chromatophore,504699]]'
-- '[[_Standards/WikiData/WD~memory,492]]'
-- '[[_Standards/WikiData/WD~fine_motor_skill,46627]]'
-parent_taxon: '[[_Standards/WikiData/WD~Octopodiformes,340867]]'
+- '[[_Standards/WikiData/WD~mimicry,192627|WD~mimicry,192627]]'
+- '[[_Standards/WikiData/WD~physical_object,223557|WD~physical_object,223557]]'
+- '[[_Standards/WikiData/WD~chromatophore,504699|WD~chromatophore,504699]]'
+- '[[_Standards/WikiData/WD~memory,492|WD~memory,492]]'
+- '[[_Standards/WikiData/WD~fine_motor_skill,46627|WD~fine_motor_skill,46627]]'
+parent_taxon: '[[_Standards/WikiData/WD~Octopodiformes,340867|WD~Octopodiformes,340867]]'
 different_from:
-- '[[_Standards/WikiData/WD~Octopus,611843]]'
-- '[[_Standards/WikiData/WD~occiput,3321315]]'
-- '[[_Standards/WikiData/WD~octopus_as_food,17118835]]'
+- '[[_Standards/WikiData/WD~Octopus,611843|WD~Octopus,611843]]'
+- '[[_Standards/WikiData/WD~occiput,3321315|WD~occiput,3321315]]'
+- '[[_Standards/WikiData/WD~octopus_as_food,17118835|WD~octopus_as_food,17118835]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-this_taxon_is_source_of: '[[_Standards/WikiData/WD~octopus_as_food,17118835]]'
-has_part_s_: '[[_Standards/WikiData/WD~brain,1073]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~octopus_as_food,17118835|WD~octopus_as_food,17118835]]'
+has_part_s_: '[[_Standards/WikiData/WD~brain,1073|WD~brain,1073]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 litter_size: 80000
-taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
+taxon_rank: '[[_Standards/WikiData/WD~order,36602|WD~order,36602]]'
 ITIS_TSN: 82589
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Octopus2.jpg
 Dewey_Decimal_Classification: 564.56

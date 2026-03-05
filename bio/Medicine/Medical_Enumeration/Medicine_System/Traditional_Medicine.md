@@ -66,17 +66,17 @@ aliases:
 - 전통의학
 has_id_wikidata: Q771035
 subclass_of:
-- '[[_Standards/WikiData/WD~alternative_medicine,188504]]'
-- '[[_Standards/WikiData/WD~medicine,11190]]'
+- '[[_Standards/WikiData/WD~alternative_medicine,188504|WD~alternative_medicine,188504]]'
+- '[[_Standards/WikiData/WD~medicine,11190|WD~medicine,11190]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Traditional_medicine,8072863]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q9562266,9562266]]'
-part_of: '[[_Standards/WikiData/WD~traditional,_complementary_and_integrative_medicine,113191939]]'
-instance_of: '[[_Standards/WikiData/WD~system_of_medicine,120201439]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Traditional_medicine,8072863|WD~Template_Traditional_medicine,8072863]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q9562266,9562266|WD~Q9562266,9562266]]'
+part_of: '[[_Standards/WikiData/WD~traditional,_complementary_and_integrative_medicine,113191939|WD~traditional,_complementary_and_integrative_medicine,113191939]]'
+instance_of: '[[_Standards/WikiData/WD~system_of_medicine,120201439|WD~system_of_medicine,120201439]]'
 Dewey_Decimal_Classification: 610
 Commons_category: Traditional medicine
 MeSH_tree_code:

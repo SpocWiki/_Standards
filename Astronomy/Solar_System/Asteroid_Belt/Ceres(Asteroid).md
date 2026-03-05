@@ -62,31 +62,31 @@ has_id_wikidata: Q596
 argument_of_periapsis: 73.29975464616518
 time_of_periapsis: 2461599.9493352976
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
 asteroid_spectral_type:
-- '[[_Standards/WikiData/WD~C_type_asteroid,729623]]'
-- '[[_Standards/WikiData/WD~G_type_asteroid,2009707]]'
+- '[[_Standards/WikiData/WD~C_type_asteroid,729623|WD~C_type_asteroid,729623]]'
+- '[[_Standards/WikiData/WD~G_type_asteroid,2009707|WD~G_type_asteroid,2009707]]'
 different_from:
-- '[[_Standards/WikiData/WD~Ceres,1055257]]'
-- '[[_Standards/WikiData/WD~Ceres_Station,124380517]]'
-has_use: '[[_Standards/WikiData/WD~colonization_of_Ceres,2279715]]'
-site_of_astronomical_discovery: '[[_Standards/WikiData/WD~Astronomical_observatory_of_Palermo,3886764]]'
-significant_event: '[[_Standards/WikiData/WD~naming,25488743]]'
+- '[[_Standards/WikiData/WD~Ceres,1055257|WD~Ceres,1055257]]'
+- '[[_Standards/WikiData/WD~Ceres_Station,124380517|WD~Ceres_Station,124380517]]'
+has_use: '[[_Standards/WikiData/WD~colonization_of_Ceres,2279715|WD~colonization_of_Ceres,2279715]]'
+site_of_astronomical_discovery: '[[_Standards/WikiData/WD~Astronomical_observatory_of_Palermo,3886764|WD~Astronomical_observatory_of_Palermo,3886764]]'
+significant_event: '[[_Standards/WikiData/WD~naming,25488743|WD~naming,25488743]]'
 orbital_period: 1679.910572771899
 orbital_inclination: 10.58788658206854
 apoapsis: 2.985693167435478
 periapsis: 2.545538135581839
-parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525]]'
-location: '[[_Standards/WikiData/WD~asteroid_belt,2179]]'
-minor_planet_group: '[[_Standards/WikiData/WD~asteroid_belt,2179]]'
+parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525|WD~Sun,525]]'
+location: '[[_Standards/WikiData/WD~asteroid_belt,2179|WD~asteroid_belt,2179]]'
+minor_planet_group: '[[_Standards/WikiData/WD~asteroid_belt,2179|WD~asteroid_belt,2179]]'
 instance_of:
-- '[[_Standards/WikiData/WD~dwarf_planet,2199]]'
-- '[[_Standards/WikiData/WD~asteroid,3863]]'
-followed_by: '[[_Standards/WikiData/WD~Q3002,3002]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Giuseppe_Piazzi,14280]]'
-named_after: '[[_Standards/WikiData/WD~Ceres,32102]]'
+- '[[_Standards/WikiData/WD~dwarf_planet,2199|WD~dwarf_planet,2199]]'
+- '[[_Standards/WikiData/WD~asteroid,3863|WD~asteroid,3863]]'
+followed_by: '[[_Standards/WikiData/WD~Q3002,3002|WD~Q3002,3002]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Giuseppe_Piazzi,14280|WD~Giuseppe_Piazzi,14280]]'
+named_after: '[[_Standards/WikiData/WD~Ceres,32102|WD~Ceres,32102]]'
 albedo: 0.09
 absolute_magnitude: 3.34
 volume_as_quantity: 434000000

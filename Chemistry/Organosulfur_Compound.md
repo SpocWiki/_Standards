@@ -38,16 +38,16 @@ aliases:
 - 有機硫化學
 - 有機硫黄化合物
 has_id_wikidata: Q422785
-described_by_source: '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
-different_from: '[[_Standards/WikiData/WD~organic_sulfur_compound,107392144]]'
-subclass_of: '[[_Standards/WikiData/WD~organic_sulfur_compound,107392144]]'
+described_by_source: '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
+different_from: '[[_Standards/WikiData/WD~organic_sulfur_compound,107392144|WD~organic_sulfur_compound,107392144]]'
+subclass_of: '[[_Standards/WikiData/WD~organic_sulfur_compound,107392144|WD~organic_sulfur_compound,107392144]]'
 Common_Procurement_Vocabulary_code: 24325000
 Krugosvet_article_archived_: nauka_i_tehnika/himiya/SERAORGANICHESKIE_SOEDINENIYA.html
 Commons_category: Organosulfur compounds
 dv_is_:
   same_as:
-  - '[[../WikiData/WD~Organosulfur_compound,422785]]'
+  - '[[../WikiData/WD~Organosulfur_compound,422785|WD~Organosulfur_compound,422785]]'
   - '[[/_Standards/Chemistry/Organosulfur_Compound|Organosulfur_Compound]]'
   - '[[/_public/Chemistry/Organosulfur_Compound.public|Organosulfur_Compound.public]]'
   - '[[/_internal/Chemistry/Organosulfur_Compound.internal|Organosulfur_Compound.internal]]'
@@ -56,7 +56,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Organosulfur_Compound.personal|Organosulfur_Compound.personal]]'
   - '[[/_secret/Chemistry/Organosulfur_Compound.secret|Organosulfur_Compound.secret]]'
 dv_is_same_as:
-- '[[../WikiData/WD~Organosulfur_compound,422785]]'
+- '[[../WikiData/WD~Organosulfur_compound,422785|WD~Organosulfur_compound,422785]]'
 - '[[/_Standards/Chemistry/Organosulfur_Compound|Organosulfur_Compound]]'
 - '[[/_public/Chemistry/Organosulfur_Compound.public|Organosulfur_Compound.public]]'
 - '[[/_internal/Chemistry/Organosulfur_Compound.internal|Organosulfur_Compound.internal]]'

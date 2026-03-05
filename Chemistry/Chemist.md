@@ -147,20 +147,20 @@ male_form_of_label:
 - Cheemiker
 - chemikas
 - ķīmiķe
-has_list: '[[_Standards/WikiData/WD~list_of_chemists,816854]]'
+has_list: '[[_Standards/WikiData/WD~list_of_chemists,816854|WD~list_of_chemists,816854]]'
 uses:
-- '[[_Standards/WikiData/WD~chemical_literature,1069437]]'
-- '[[_Standards/WikiData/WD~chemical_terminology,12168123]]'
-category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q58212005,58212005]]'
+- '[[_Standards/WikiData/WD~chemical_literature,1069437|WD~chemical_literature,1069437]]'
+- '[[_Standards/WikiData/WD~chemical_terminology,12168123|WD~chemical_terminology,12168123]]'
+category_for_eponymous_categories: '[[_Standards/WikiData/WD~Q58212005,58212005|WD~Q58212005,58212005]]'
 instance_of:
-- '[[_Standards/WikiData/WD~chemistry_term,87196290]]'
-- '[[_Standards/WikiData/WD~occupation_group_according_to_ISCO_08,108300140]]'
-- '[[_Standards/WikiData/WD~profession,28640]]'
+- '[[_Standards/WikiData/WD~chemistry_term,87196290|WD~chemistry_term,87196290]]'
+- '[[_Standards/WikiData/WD~occupation_group_according_to_ISCO_08,108300140|WD~occupation_group_according_to_ISCO_08,108300140]]'
+- '[[_Standards/WikiData/WD~profession,28640|WD~profession,28640]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_and_earth_science_professionals,108289376]]'
-- '[[_Standards/WikiData/WD~physical_scientist,124637774]]'
-field_of_this_occupation: '[[_Standards/WikiData/WD~chemistry,2329]]'
-model_item: '[[_Standards/WikiData/WD~Marie_Curie,7186]]'
+- '[[_Standards/WikiData/WD~physical_and_earth_science_professionals,108289376|WD~physical_and_earth_science_professionals,108289376]]'
+- '[[_Standards/WikiData/WD~physical_scientist,124637774|WD~physical_scientist,124637774]]'
+field_of_this_occupation: '[[_Standards/WikiData/WD~chemistry,2329|WD~chemistry,2329]]'
+model_item: '[[_Standards/WikiData/WD~Marie_Curie,7186|WD~Marie_Curie,7186]]'
 ISCO_08_occupation_class: 2113
 ISCO_88_occupation_class: 2113
 CNO_11_occupation_code: 2413

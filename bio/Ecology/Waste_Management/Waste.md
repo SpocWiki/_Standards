@@ -93,31 +93,31 @@ aliases:
 - 쓰레기
 has_id_wikidata: Q45701
 has_effect:
-- '[[_Standards/WikiData/WD~air_pollution,131123]]'
-- '[[_Standards/WikiData/WD~marine_debris,463960]]'
-has_use: '[[_Standards/WikiData/WD~recycling,132580]]'
-handled_mitigated_or_managed_by: '[[_Standards/WikiData/WD~waste_management,180388]]'
+- '[[_Standards/WikiData/WD~air_pollution,131123|WD~air_pollution,131123]]'
+- '[[_Standards/WikiData/WD~marine_debris,463960|WD~marine_debris,463960]]'
+has_use: '[[_Standards/WikiData/WD~recycling,132580|WD~recycling,132580]]'
+handled_mitigated_or_managed_by: '[[_Standards/WikiData/WD~waste_management,180388|WD~waste_management,180388]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~material,214609]]'
-- '[[_Standards/WikiData/WD~energy_source,1522115]]'
-- '[[_Standards/WikiData/WD~economic_bad,3566043]]'
+- '[[_Standards/WikiData/WD~material,214609|WD~material,214609]]'
+- '[[_Standards/WikiData/WD~energy_source,1522115|WD~energy_source,1522115]]'
+- '[[_Standards/WikiData/WD~economic_bad,3566043|WD~economic_bad,3566043]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
-different_from: '[[_Standards/WikiData/WD~scrap,1378670]]'
-studied_by: '[[_Standards/WikiData/WD~garbology,1493973]]'
-has_list: '[[_Standards/WikiData/WD~list_of_waste_types,3531616]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Waste,8084253]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~trinket,12722942]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828734,22828734]]'
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Pax_Leksikon,3351707|WD~Pax_Leksikon,3351707]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624|WD~Lean_Logic,101314624]]'
+different_from: '[[_Standards/WikiData/WD~scrap,1378670|WD~scrap,1378670]]'
+studied_by: '[[_Standards/WikiData/WD~garbology,1493973|WD~garbology,1493973]]'
+has_list: '[[_Standards/WikiData/WD~list_of_waste_types,3531616|WD~list_of_waste_types,3531616]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Waste,8084253|WD~Template_Waste,8084253]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~trinket,12722942|WD~trinket,12722942]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828734,22828734|WD~Q22828734,22828734]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
 used_by:
-- '[[_Standards/WikiData/WD~sorter_labourer,109937424]]'
-- '[[_Standards/WikiData/WD~recycling_worker,109937477]]'
+- '[[_Standards/WikiData/WD~sorter_labourer,109937424|WD~sorter_labourer,109937424]]'
+- '[[_Standards/WikiData/WD~recycling_worker,109937477|WD~recycling_worker,109937477]]'
 OmegaWiki_Defined_Meaning: 387223
 subreddit: Waste
 Commons_category: Waste

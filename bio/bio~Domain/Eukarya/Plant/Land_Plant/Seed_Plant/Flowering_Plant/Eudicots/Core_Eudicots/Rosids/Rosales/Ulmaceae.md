@@ -84,11 +84,11 @@ taxon_common_name:
 - Қарағаштар тұқымдасы
 - 느릅나무과
 - Guobiniai
-taxonomic_type: '[[_Standards/WikiData/WD~Ulmus,131113]]'
-described_by_source: '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_22,112869398]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-parent_taxon: '[[../../../../../../../../../../../WikiData/WD~Rosales,21895]]'
-taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Ulmus,131113|WD~Ulmus,131113]]'
+described_by_source: '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_22,112869398|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_22,112869398]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+parent_taxon: '[[../../../../../../../../../../../WikiData/WD~Rosales,21895|WD~Rosales,21895]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409|WD~family,35409]]'
 ITIS_TSN: 19038
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Ulmus%20laciniata.jpg

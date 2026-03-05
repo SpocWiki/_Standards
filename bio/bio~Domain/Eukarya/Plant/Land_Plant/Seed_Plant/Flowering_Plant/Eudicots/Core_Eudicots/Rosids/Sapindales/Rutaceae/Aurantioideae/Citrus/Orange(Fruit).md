@@ -175,39 +175,39 @@ Danbooru_tag: orange_(fruit)
 hashtag:
 - orange_(fruit)
 instance_of:
-- '[[_Standards/WikiData/WD~common_name,502895]]'
-- '[[_Standards/WikiData/WD~fruit,3314483]]'
+- '[[_Standards/WikiData/WD~common_name,502895|WD~common_name,502895]]'
+- '[[_Standards/WikiData/WD~fruit,3314483|WD~fruit,3314483]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~tropical_fruit,844144]]'
-- '[[_Standards/WikiData/WD~hesperidium,1429336]]'
-- '[[_Standards/WikiData/WD~citrus_fruit,2574750]]'
+- '[[_Standards/WikiData/WD~tropical_fruit,844144|WD~tropical_fruit,844144]]'
+- '[[_Standards/WikiData/WD~hesperidium,1429336|WD~hesperidium,1429336]]'
+- '[[_Standards/WikiData/WD~citrus_fruit,2574750|WD~citrus_fruit,2574750]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~pulp,1470757]]'
-- '[[_Standards/WikiData/WD~seed,1762933]]'
-- '[[_Standards/WikiData/WD~locule,3818113]]'
-- '[[_Standards/WikiData/WD~orange_peel,102035949]]'
+- '[[_Standards/WikiData/WD~pulp,1470757|WD~pulp,1470757]]'
+- '[[_Standards/WikiData/WD~seed,1762933|WD~seed,1762933]]'
+- '[[_Standards/WikiData/WD~locule,3818113|WD~locule,3818113]]'
+- '[[_Standards/WikiData/WD~orange_peel,102035949|WD~orange_peel,102035949]]'
 different_from:
-- '[[_Standards/WikiData/WD~Citrus_sinensis,3355098]]'
-- '[[_Standards/WikiData/WD~Q106872518,106872518]]'
-natural_product_of_taxon: '[[_Standards/WikiData/WD~Citrus_sinensis,3355098]]'
+- '[[_Standards/WikiData/WD~Citrus_sinensis,3355098|WD~Citrus_sinensis,3355098]]'
+- '[[_Standards/WikiData/WD~Q106872518,106872518|WD~Q106872518,106872518]]'
+natural_product_of_taxon: '[[_Standards/WikiData/WD~Citrus_sinensis,3355098|WD~Citrus_sinensis,3355098]]'
 permanent_duplicated_item:
-- '[[_Standards/WikiData/WD~Q26161918,26161918]]'
-- '[[_Standards/WikiData/WD~Q26161931,26161931]]'
+- '[[_Standards/WikiData/WD~Q26161918,26161918|WD~Q26161918,26161918]]'
+- '[[_Standards/WikiData/WD~Q26161931,26161931|WD~Q26161931,26161931]]'
 this_taxon_is_source_of:
-- '[[_Standards/WikiData/WD~smell_of_orange,135192629]]'
+- '[[_Standards/WikiData/WD~smell_of_orange,135192629|WD~smell_of_orange,135192629]]'
 named_after:
-- '[[_Standards/WikiData/WD~China,29520]]'
-- '[[_Standards/WikiData/WD~Portugal,45]]'
-- '[[_Standards/WikiData/WD~Malta,233]]'
+- '[[_Standards/WikiData/WD~China,29520|WD~China,29520]]'
+- '[[_Standards/WikiData/WD~Portugal,45|WD~Portugal,45]]'
+- '[[_Standards/WikiData/WD~Malta,233|WD~Malta,233]]'
 carbon_footprint: 0.7
 water_footprint: 560
-color: '[[_Standards/WikiData/WD~orange,39338]]'
+color: '[[_Standards/WikiData/WD~orange,39338|WD~orange,39338]]'
 USDA_NDB_number:
 - 9202
 - 85000

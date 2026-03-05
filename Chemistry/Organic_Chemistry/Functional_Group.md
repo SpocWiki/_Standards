@@ -63,18 +63,18 @@ aliases:
 - 작용기
 has_id_wikidata: Q170409
 different_from:
-- '[[_Standards/WikiData/WD~group,83306]]'
-- '[[_Standards/WikiData/WD~radical,185056]]'
-- '[[_Standards/WikiData/WD~functional_group,5508822]]'
-used_by: '[[_Standards/WikiData/WD~chemical_classification,732744]]'
+- '[[_Standards/WikiData/WD~group,83306|WD~group,83306]]'
+- '[[_Standards/WikiData/WD~radical,185056|WD~radical,185056]]'
+- '[[_Standards/WikiData/WD~functional_group,5508822|WD~functional_group,5508822]]'
+used_by: '[[_Standards/WikiData/WD~chemical_classification,732744|WD~chemical_classification,732744]]'
 facet_of:
-- '[[_Standards/WikiData/WD~structure_activity_relationship,1772003]]'
-- '[[_Standards/WikiData/WD~molecular_function,14860489]]'
-part_of: '[[_Standards/WikiData/WD~molecular_entity,2393187]]'
+- '[[_Standards/WikiData/WD~structure_activity_relationship,1772003|WD~structure_activity_relationship,1772003]]'
+- '[[_Standards/WikiData/WD~molecular_function,14860489|WD~molecular_function,14860489]]'
+part_of: '[[_Standards/WikiData/WD~molecular_entity,2393187|WD~molecular_entity,2393187]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~molecular_entity,2393187]]'
-- '[[_Standards/WikiData/WD~moiety,23005640]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Functional_groups,5618299]]'
+- '[[_Standards/WikiData/WD~molecular_entity,2393187|WD~molecular_entity,2393187]]'
+- '[[_Standards/WikiData/WD~moiety,23005640|WD~moiety,23005640]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Functional_groups,5618299|WD~Template_Functional_groups,5618299]]'
 OmegaWiki_Defined_Meaning: 427527
 Dewey_Decimal_Classification:
 - 541.39
@@ -205,7 +205,7 @@ dv_has_:
 |                                                               |              |                           |
 | [[Halocarbon\|alkyl halide]]                                  | Halo         | R – X                     |
 | [[Thiol]]                                                     |              | R – SH                    |
-| [[Functional_Group/Sulfide]]                                  | Thioether    | R – S – R′                |
+| [[Functional_Group/Sulfide|Sulfide]]                                  | Thioether    | R – S – R′                |
 | [[Functional_Group/Nitrile\|Nitrile]]                         |              | R – C ≡ N                 |
 | [[Functional_Group/Nitro_Compound\|Nitro]]                    |              | R – NO₂                   |
 | Organophosphate                                               | Phosphate    | R – O – PO₃²⁻             |

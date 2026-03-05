@@ -88,42 +88,42 @@ CAS_Registry_Number: 7440-12-2
 chemical_formula: Pm
 Commons_category: Promethium
 Commons_gallery: Promethium
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Charles_D._Coryell,260328]]'
-- '[[_Standards/WikiData/WD~Jacob_Akiba_Marinsky,904506]]'
-- '[[_Standards/WikiData/WD~Lawrence_E._Glendenin,904562]]'
+- '[[_Standards/WikiData/WD~Charles_D._Coryell,260328|WD~Charles_D._Coryell,260328]]'
+- '[[_Standards/WikiData/WD~Jacob_Akiba_Marinsky,904506|WD~Jacob_Akiba_Marinsky,904506]]'
+- '[[_Standards/WikiData/WD~Lawrence_E._Glendenin,904562|WD~Lawrence_E._Glendenin,904562]]'
 DSSTOX_compound_identifier: DTXCID9027738
 EC_number: 231-121-9
 electronegativity: 1.13
 element_symbol: Pm
-follows: '[[_Standards/WikiData/WD~neodymium,1388]]'
+follows: '[[_Standards/WikiData/WD~neodymium,1388|WD~neodymium,1388]]'
 Gmelin_number: 16237
-has_characteristic: '[[_Standards/WikiData/WD~radioactivity,11448]]'
+has_characteristic: '[[_Standards/WikiData/WD~radioactivity,11448|WD~radioactivity,11448]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Promethium-147%20solution.jpg
 InChI: InChI=1S/Pm
 InChIKey: VQMWBBYLQSCNPO-UHFFFAOYSA-N
 instance_of:
-- '[[_Standards/WikiData/WD~synthetic_element,755992]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+- '[[_Standards/WikiData/WD~synthetic_element,755992|WD~synthetic_element,755992]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 ionic_radius:
 - 0.97
 - 1.09
-location_of_discovery: '[[_Standards/WikiData/WD~Oak_Ridge_National_Laboratory,714439]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Elements,11165030]]'
+location_of_discovery: '[[_Standards/WikiData/WD~Oak_Ridge_National_Laboratory,714439|WD~Oak_Ridge_National_Laboratory,714439]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Elements,11165030|WD~WikiProject_Elements,11165030]]'
 MeSH_tree_code:
 - D01.268.271.720
 - D01.268.558.362.875
 - D01.496.749.305.720
 - D01.552.550.399.875
-named_after: '[[_Standards/WikiData/WD~Prometheus,83160]]'
+named_after: '[[_Standards/WikiData/WD~Prometheus,83160|WD~Prometheus,83160]]'
 OmegaWiki_Defined_Meaning: 343233
 oxidation_state:
 - 2
 - 3
 part_of:
-- '[[_Standards/WikiData/WD~period_6,239813]]'
-- '[[_Standards/WikiData/WD~lanthanide,19569]]'
+- '[[_Standards/WikiData/WD~period_6,239813|WD~period_6,239813]]'
+- '[[_Standards/WikiData/WD~lanthanide,19569|WD~lanthanide,19569]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-prom%C3%A9thium.wav
 PubChem_CID: 23944
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Promethium%20spectrum%20visible.png
@@ -316,9 +316,9 @@ dv_has_:
         kj_:
           mol: 0
 dv_is_:
-  part_of: '[[../Lanthanide]]'
+  part_of: '[[../Lanthanide|Lanthanide]]'
   same_as:
-  - '[[../../../WikiData/WD~Promethium,1809]]'
+  - '[[../../../WikiData/WD~Promethium,1809|WD~Promethium,1809]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Lanthanide/Promethium|Promethium]]'
   - '[[/_public/Chemistry/Chemical_Element/Lanthanide/Promethium.public|Promethium.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Lanthanide/Promethium.internal|Promethium.internal]]'
@@ -327,7 +327,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Chemical_Element/Lanthanide/Promethium.personal|Promethium.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Lanthanide/Promethium.secret|Promethium.secret]]'
 dv_has_name_group: Lanthanide-Group
-dv_is_part_of: '[[../Lanthanide]]'
+dv_is_part_of: '[[../Lanthanide|Lanthanide]]'
 dv_has_name_en: Promethium
 dv_has_name_de: Promethium
 dv_has_value_for_weight_u: 147
@@ -346,7 +346,7 @@ dv_has_value_for_energy_form_kj_mol: 0
 dv_has_number_of_period: 6
 dv_has_number_of_group: 27
 dv_is_same_as:
-- '[[../../../WikiData/WD~Promethium,1809]]'
+- '[[../../../WikiData/WD~Promethium,1809|WD~Promethium,1809]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Lanthanide/Promethium|Promethium]]'
 - '[[/_public/Chemistry/Chemical_Element/Lanthanide/Promethium.public|Promethium.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Lanthanide/Promethium.internal|Promethium.internal]]'
@@ -391,7 +391,7 @@ has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol`
 has_number_of_period = `=this.dv_has_number_of_period` 
 has_number_of_group = `=this.dv_has_number_of_group` 
 
-#is_/same_as :: [[../../../WikiData/WD~Promethium,1809]] 
+#is_/same_as :: [[../../../WikiData/WD~Promethium,1809|WD~Promethium,1809]] 
 
 
 

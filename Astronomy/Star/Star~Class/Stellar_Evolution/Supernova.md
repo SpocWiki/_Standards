@@ -62,26 +62,26 @@ aliases:
 - 초신성
 has_id_wikidata: Q3937
 named_by:
-- '[[_Standards/WikiData/WD~Fritz_Zwicky,115462]]'
-- '[[_Standards/WikiData/WD~Walter_Baade,57299]]'
+- '[[_Standards/WikiData/WD~Fritz_Zwicky,115462|WD~Fritz_Zwicky,115462]]'
+- '[[_Standards/WikiData/WD~Walter_Baade,57299|WD~Walter_Baade,57299]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~explosion,179057]]'
-- '[[_Standards/WikiData/WD~astronomical_phenomenon,751989]]'
-- '[[_Standards/WikiData/WD~star,523]]'
+- '[[_Standards/WikiData/WD~explosion,179057|WD~explosion,179057]]'
+- '[[_Standards/WikiData/WD~astronomical_phenomenon,751989|WD~astronomical_phenomenon,751989]]'
+- '[[_Standards/WikiData/WD~star,523|WD~star,523]]'
 model_item:
-- '[[_Standards/WikiData/WD~SN_1604,320670]]'
-- '[[_Standards/WikiData/WD~S_Andromedae,546708]]'
-- '[[_Standards/WikiData/WD~SN_1987A,584905]]'
-- '[[_Standards/WikiData/WD~SN_2006gy,644956]]'
-- '[[_Standards/WikiData/WD~SN_1006,934700]]'
-- '[[_Standards/WikiData/WD~ASASSN_15C,22075587]]'
-- '[[_Standards/WikiData/WD~SN_1054,32037]]'
-different_from: '[[_Standards/WikiData/WD~Supernowa,9348261]]'
+- '[[_Standards/WikiData/WD~SN_1604,320670|WD~SN_1604,320670]]'
+- '[[_Standards/WikiData/WD~S_Andromedae,546708|WD~S_Andromedae,546708]]'
+- '[[_Standards/WikiData/WD~SN_1987A,584905|WD~SN_1987A,584905]]'
+- '[[_Standards/WikiData/WD~SN_2006gy,644956|WD~SN_2006gy,644956]]'
+- '[[_Standards/WikiData/WD~SN_1006,934700|WD~SN_1006,934700]]'
+- '[[_Standards/WikiData/WD~ASASSN_15C,22075587|WD~ASASSN_15C,22075587]]'
+- '[[_Standards/WikiData/WD~SN_1054,32037|WD~SN_1054,32037]]'
+different_from: '[[_Standards/WikiData/WD~Supernowa,9348261|WD~Supernowa,9348261]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Infobox_supernova,10978554]]'
-- '[[_Standards/WikiData/WD~Template_Supernovae,14399143]]'
-instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_supernova,10978554|WD~Template_Infobox_supernova,10978554]]'
+- '[[_Standards/WikiData/WD~Template_Supernovae,14399143|WD~Template_Supernovae,14399143]]'
+instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909|WD~astronomical_object_type,17444909]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 OmegaWiki_Defined_Meaning: 431088
 Wolfram_Language_entity_type: Supernova
 Commons_category: Supernovae
@@ -260,8 +260,8 @@ dv_has_:
 > The peak optical luminosity of a supernova can be comparable to that of an entire galaxy 
 > before fading over several weeks or months.
 >
-> The last supernova directly observed in the Milky Way was [[Supernova/Kepler's_Supernova]] in 1604, 
-> appearing not long after [[Supernova/Tycho's_Supernova]] in 1572, both of which were visible to the naked eye. 
+> The last supernova directly observed in the Milky Way was [[Supernova/Kepler's_Supernova|Kepler's_Supernova]] in 1604, 
+> appearing not long after [[Supernova/Tycho's_Supernova|Tycho's_Supernova]] in 1572, both of which were visible to the naked eye. 
 > 
 > The remnants of more recent supernovae have been found, and observations of supernovae in other galaxies suggest they occur in the Milky Way on average about three times every century. A supernova in the Milky Way would almost certainly be observable through modern astronomical telescopes. The most recent naked-eye supernova was SN 1987A, which was the explosion of a blue supergiant star in the Large Magellanic Cloud, a satellite galaxy of the Milky Way.
 >

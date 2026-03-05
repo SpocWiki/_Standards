@@ -42,14 +42,14 @@ aliases:
 - 빈치류
 has_id_wikidata: Q173612
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-homonymous_taxon: '[[_Standards/WikiData/WD~Xenarthra,2468695]]'
-taxon_rank: '[[_Standards/WikiData/WD~superorder,5868144]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q9202743,9202743]]'
-topic_has_template: '[[_Standards/WikiData/WD~Q22873132,22873132]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+homonymous_taxon: '[[_Standards/WikiData/WD~Xenarthra,2468695|WD~Xenarthra,2468695]]'
+taxon_rank: '[[_Standards/WikiData/WD~superorder,5868144|WD~superorder,5868144]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q9202743,9202743|WD~Q9202743,9202743]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q22873132,22873132|WD~Q22873132,22873132]]'
 start_time: -59000000-01-01T00:00:00Z
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 ITIS_TSN: 552289
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Xenarthra.jpg
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Xenarthra%20range.jpg

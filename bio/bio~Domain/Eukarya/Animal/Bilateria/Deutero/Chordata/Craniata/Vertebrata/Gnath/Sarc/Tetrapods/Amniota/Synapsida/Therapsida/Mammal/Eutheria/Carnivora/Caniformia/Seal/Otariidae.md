@@ -55,11 +55,11 @@ aliases:
 - 海獅科
 - 바다사자과
 has_id_wikidata: Q26700
-taxon_synonym: '[[_Standards/WikiData/WD~fur_seal,1043473]]'
-described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+taxon_synonym: '[[_Standards/WikiData/WD~fur_seal,1043473|WD~fur_seal,1043473]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011|WD~International_Code_of_Zoological_Nomenclature,13011]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409|WD~family,35409]]'
 ITIS_TSN: 180615
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Neophoca%20cinerea.JPG
 Commons_gallery: Otariidae

@@ -56,21 +56,21 @@ aliases:
 - 妄想
 - 망상
 has_id_wikidata: Q189643
-different_from: '[[_Standards/WikiData/WD~hallucination,130741]]'
+different_from: '[[_Standards/WikiData/WD~hallucination,130741|WD~hallucination,130741]]'
 has_cause:
-- '[[_Standards/WikiData/WD~psychosis,170082]]'
-- '[[_Standards/WikiData/WD~delusional_disorder,721073]]'
-subclass_of: '[[_Standards/WikiData/WD~thought_disorder,1188698]]'
-part_of: '[[_Standards/WikiData/WD~fantasy,1356411]]'
+- '[[_Standards/WikiData/WD~psychosis,170082|WD~psychosis,170082]]'
+- '[[_Standards/WikiData/WD~delusional_disorder,721073|WD~delusional_disorder,721073]]'
+subclass_of: '[[_Standards/WikiData/WD~thought_disorder,1188698|WD~thought_disorder,1188698]]'
+part_of: '[[_Standards/WikiData/WD~fantasy,1356411|WD~fantasy,1356411]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Delusion,133280481]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Delusion,133280481|WD~Delusion,133280481]]'
 instance_of:
-- '[[_Standards/WikiData/WD~psychopathological_symptom,30897648]]'
-- '[[_Standards/WikiData/WD~symptom_or_sign,112965645]]'
+- '[[_Standards/WikiData/WD~psychopathological_symptom,30897648|WD~psychopathological_symptom,30897648]]'
+- '[[_Standards/WikiData/WD~symptom_or_sign,112965645|WD~symptom_or_sign,112965645]]'
 health_specialty:
-- '[[_Standards/WikiData/WD~psychiatry,7867]]'
-- '[[_Standards/WikiData/WD~psychology,9418]]'
+- '[[_Standards/WikiData/WD~psychiatry,7867|WD~psychiatry,7867]]'
+- '[[_Standards/WikiData/WD~psychology,9418|WD~psychology,9418]]'
 DiseasesDB: 33439
 OmegaWiki_Defined_Meaning: 1757370
 IMDb_keyword: delusion

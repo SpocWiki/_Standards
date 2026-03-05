@@ -74,17 +74,17 @@ aliases:
 - 고무
 has_id_wikidata: Q18113858
 subclass_of:
-- '[[_Standards/WikiData/WD~polymer,81163]]'
-- '[[_Standards/WikiData/WD~elastomer,252266]]'
-instance_of: '[[_Standards/WikiData/WD~material,214609]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~elastomer,252266]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~elastomer,252266]]'
+- '[[_Standards/WikiData/WD~polymer,81163|WD~polymer,81163]]'
+- '[[_Standards/WikiData/WD~elastomer,252266|WD~elastomer,252266]]'
+instance_of: '[[_Standards/WikiData/WD~material,214609|WD~material,214609]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~elastomer,252266|WD~elastomer,252266]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~elastomer,252266|WD~elastomer,252266]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q9580490,9580490]]'
-disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q9580490,9580490|WD~Q9580490,9580490]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
 Commons_category: Rubber
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Compounding%20ingredients%20for%20rubber.jpg
 Dewey_Decimal_Classification:
@@ -94,7 +94,7 @@ Dewey_Decimal_Classification:
 Krugosvet_article_archived_: nauka_i_tehnika/himiya/KAUCHUK.html
 dv_is_:
   same_as:
-  - '[[../../WikiData/WD~Rubber,18113858]]'
+  - '[[../../WikiData/WD~Rubber,18113858|WD~Rubber,18113858]]'
   - '[[/_Standards/Chemistry/Material/Rubber|Rubber]]'
   - '[[/_public/Chemistry/Material/Rubber.public|Rubber.public]]'
   - '[[/_internal/Chemistry/Material/Rubber.internal|Rubber.internal]]'
@@ -103,7 +103,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Material/Rubber.personal|Rubber.personal]]'
   - '[[/_secret/Chemistry/Material/Rubber.secret|Rubber.secret]]'
 dv_is_same_as:
-- '[[../../WikiData/WD~Rubber,18113858]]'
+- '[[../../WikiData/WD~Rubber,18113858|WD~Rubber,18113858]]'
 - '[[/_Standards/Chemistry/Material/Rubber|Rubber]]'
 - '[[/_public/Chemistry/Material/Rubber.public|Rubber.public]]'
 - '[[/_internal/Chemistry/Material/Rubber.internal|Rubber.internal]]'

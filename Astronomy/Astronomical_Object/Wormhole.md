@@ -69,13 +69,13 @@ aliases:
 - 웜홀
 has_id_wikidata: Q7544
 named_after:
-- '[[_Standards/WikiData/WD~Talpidae,104825]]'
-- '[[_Standards/WikiData/WD~burrow,1410542]]'
-named_by: '[[_Standards/WikiData/WD~John_Archibald_Wheeler,202631]]'
-different_from: '[[_Standards/WikiData/WD~Einstein_Rosen_bridge,21659625]]'
+- '[[_Standards/WikiData/WD~Talpidae,104825|WD~Talpidae,104825]]'
+- '[[_Standards/WikiData/WD~burrow,1410542|WD~burrow,1410542]]'
+named_by: '[[_Standards/WikiData/WD~John_Archibald_Wheeler,202631|WD~John_Archibald_Wheeler,202631]]'
+different_from: '[[_Standards/WikiData/WD~Einstein_Rosen_bridge,21659625|WD~Einstein_Rosen_bridge,21659625]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~hypothetical_scientific_object,30126005]]'
-- '[[_Standards/WikiData/WD~astronomical_object,6999]]'
+- '[[_Standards/WikiData/WD~hypothetical_scientific_object,30126005|WD~hypothetical_scientific_object,30126005]]'
+- '[[_Standards/WikiData/WD~astronomical_object,6999|WD~astronomical_object,6999]]'
 Commons_category: Wormholes
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lorentzian%20Wormhole.svg
 3D_model: http://commons.wikimedia.org/wiki/Special:FilePath/Wurmloch%2020221229%20001.stl

@@ -92,20 +92,20 @@ aliases:
 - 오르트 구름
 has_id_wikidata: Q40864
 named_after:
-- '[[_Standards/WikiData/WD~Jan_Hendrik_Oort,309861]]'
-- '[[_Standards/WikiData/WD~Ernst_Öpik,318126]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Jan_Hendrik_Oort,309861]]'
-has_part_s_: '[[_Standards/WikiData/WD~Hills_cloud,591406]]'
-part_of: '[[_Standards/WikiData/WD~outer_Solar_System,3962257]]'
+- '[[_Standards/WikiData/WD~Jan_Hendrik_Oort,309861|WD~Jan_Hendrik_Oort,309861]]'
+- '[[_Standards/WikiData/WD~Ernst_Öpik,318126|WD~Ernst_Öpik,318126]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Jan_Hendrik_Oort,309861|WD~Jan_Hendrik_Oort,309861]]'
+has_part_s_: '[[_Standards/WikiData/WD~Hills_cloud,591406|WD~Hills_cloud,591406]]'
+part_of: '[[_Standards/WikiData/WD~outer_Solar_System,3962257|WD~outer_Solar_System,3962257]]'
 instance_of:
-- '[[_Standards/WikiData/WD~hypothetical_entity,18706315]]'
-- '[[_Standards/WikiData/WD~trans_Neptunian_object,6592]]'
-parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525]]'
+- '[[_Standards/WikiData/WD~hypothetical_entity,18706315|WD~hypothetical_entity,18706315]]'
+- '[[_Standards/WikiData/WD~trans_Neptunian_object,6592|WD~trans_Neptunian_object,6592]]'
+parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525|WD~Sun,525]]'
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Oort%20Cloud.ogg
 Commons_category: Oort cloud
 dv_is_:
   same_as:
-  - '[[../../WikiData/WD~Oort_cloud,40864]]'
+  - '[[../../WikiData/WD~Oort_cloud,40864|WD~Oort_cloud,40864]]'
   - '[[/_Standards/Astronomy/Solar_System/Oort_Cloud|Oort_Cloud]]'
   - '[[/_public/Astronomy/Solar_System/Oort_Cloud.public|Oort_Cloud.public]]'
   - '[[/_internal/Astronomy/Solar_System/Oort_Cloud.internal|Oort_Cloud.internal]]'
@@ -114,7 +114,7 @@ dv_is_:
   - '[[/_personal/Astronomy/Solar_System/Oort_Cloud.personal|Oort_Cloud.personal]]'
   - '[[/_secret/Astronomy/Solar_System/Oort_Cloud.secret|Oort_Cloud.secret]]'
 dv_is_same_as:
-- '[[../../WikiData/WD~Oort_cloud,40864]]'
+- '[[../../WikiData/WD~Oort_cloud,40864|WD~Oort_cloud,40864]]'
 - '[[/_Standards/Astronomy/Solar_System/Oort_Cloud|Oort_Cloud]]'
 - '[[/_public/Astronomy/Solar_System/Oort_Cloud.public|Oort_Cloud.public]]'
 - '[[/_internal/Astronomy/Solar_System/Oort_Cloud.internal|Oort_Cloud.internal]]'

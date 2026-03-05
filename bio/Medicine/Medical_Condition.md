@@ -34,7 +34,7 @@ Tag Instances like this:
 
 Any condition of the human body that affects the normal functioning of a person, whether physically or mentally. Includes diseases, injuries, disabilities, disorders, syndromes, etc.
 
-#has_/parent_class :: [[../MedicalEntity]]  
+#has_/parent_class :: [[../MedicalEntity|MedicalEntity]]  
 
 #has_/child_/class :: [ InfectiousDisease, MedicalSignOrSymptom ]  
 

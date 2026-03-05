@@ -76,17 +76,17 @@ aliases:
 - 단봉낙타
 has_id_wikidata: Q71516
 this_taxon_is_source_of:
-- '[[_Standards/WikiData/WD~camel_milk,623636]]'
-- '[[_Standards/WikiData/WD~camel_hair,1631228]]'
-- '[[_Standards/WikiData/WD~camel_meat,1722914]]'
+- '[[_Standards/WikiData/WD~camel_milk,623636|WD~camel_milk,623636]]'
+- '[[_Standards/WikiData/WD~camel_hair,1631228|WD~camel_hair,1631228]]'
+- '[[_Standards/WikiData/WD~camel_meat,1722914|WD~camel_meat,1722914]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
-invasive_to: '[[_Standards/WikiData/WD~Australia,408]]'
-taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
-has_use: '[[_Standards/WikiData/WD~transport,7590]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615|WD~WikiProject_Invasion_Biology,56241615]]'
+invasive_to: '[[_Standards/WikiData/WD~Australia,408|WD~Australia,408]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432|WD~species,7432]]'
+has_use: '[[_Standards/WikiData/WD~transport,7590|WD~transport,7590]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 litter_size: 1
 mass:
 - 500

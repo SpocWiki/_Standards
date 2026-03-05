@@ -84,7 +84,7 @@ aliases:
 - 溫帶氣候
 - 온대 기후
 has_id_wikidata: Q167466
-subclass_of: '[[_Standards/WikiData/WD~climate_zone,1639168]]'
+subclass_of: '[[_Standards/WikiData/WD~climate_zone,1639168|WD~climate_zone,1639168]]'
 Iconclass_notation: 25H1
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Paraskliima.svg
 Commons_category: Temperate climate

@@ -21,7 +21,7 @@ dv_has_name_en: Reunion
 dv_has_name_de: Réunion
 dv_Area-Total: 0
 dv_Area-Land: 0
-dv_has_place_continent: "[[../../../Africa]]"
+dv_has_place_continent: "[[../../../Africa|Africa]]"
 dv_Capital: "[[Saint_Denis]]"
 dv_is_a_: "[[../../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 55.45
@@ -51,7 +51,7 @@ dv_is_same_as:
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Reunion/ReadMe]] 
+[[Reunion/ReadMe|ReadMe]] 
 
 ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3`

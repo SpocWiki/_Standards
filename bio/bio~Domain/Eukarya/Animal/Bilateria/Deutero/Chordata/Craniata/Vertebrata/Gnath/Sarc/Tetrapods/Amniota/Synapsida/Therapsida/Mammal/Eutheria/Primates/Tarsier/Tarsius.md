@@ -43,15 +43,15 @@ aliases:
 - 眼镜猴属
 - 안경원숭이속
 has_id_wikidata: Q60205
-homonymous_taxon: '[[_Standards/WikiData/WD~Tarsius,13458593]]'
-this_zoological_name_is_coordinate_with: '[[_Standards/WikiData/WD~Tarsius,13458593]]'
+homonymous_taxon: '[[_Standards/WikiData/WD~Tarsius,13458593|WD~Tarsius,13458593]]'
+this_zoological_name_is_coordinate_with: '[[_Standards/WikiData/WD~Tarsius,13458593|WD~Tarsius,13458593]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-diel_cycle: '[[_Standards/WikiData/WD~nocturnal,101029366]]'
-taxonomic_type: '[[_Standards/WikiData/WD~Lemur_tarsier,122279036]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+diel_cycle: '[[_Standards/WikiData/WD~nocturnal,101029366|WD~nocturnal,101029366]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Lemur_tarsier,122279036|WD~Lemur_tarsier,122279036]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
 ITIS_TSN: 572805
 Commons_gallery: Tarsius
 Commons_category: Tarsius

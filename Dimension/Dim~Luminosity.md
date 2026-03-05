@@ -65,17 +65,17 @@ aliases:
 - 광도
 has_id_wikidata: Q105902
 different_from:
-- '[[_Standards/WikiData/WD~luminous_intensity,104831]]'
-- '[[_Standards/WikiData/WD~luminosity,3267326]]'
-- '[[_Standards/WikiData/WD~Q60973595,60973595]]'
+- '[[_Standards/WikiData/WD~luminous_intensity,104831|WD~luminous_intensity,104831]]'
+- '[[_Standards/WikiData/WD~luminosity,3267326|WD~luminosity,3267326]]'
+- '[[_Standards/WikiData/WD~Q60973595,60973595|WD~Q60973595,60973595]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~radiant_flux,1253356]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~radiant_flux,1253356|WD~radiant_flux,1253356]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630|WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
 ISQ_dimension: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AB</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn></mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AC</mi></mrow><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5B3</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mo stretchy=\"false\">&#x2212;</mo><mn>3</mn></mrow></mrow></msup></mstyle></mrow></math>"
 Wikidata_property: luminosity
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~lightness,19426]]'
-recommended_unit_of_measurement: '[[_Standards/WikiData/WD~watt,25236]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~lightness,19426|WD~lightness,19426]]'
+recommended_unit_of_measurement: '[[_Standards/WikiData/WD~watt,25236|WD~watt,25236]]'
 OmegaWiki_Defined_Meaning: 2218
 quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>L</mi></mstyle></mrow></math>
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Inverse%20square%20law.svg

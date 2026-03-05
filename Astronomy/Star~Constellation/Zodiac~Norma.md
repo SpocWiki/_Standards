@@ -68,21 +68,21 @@ isReadOnly: false
 tags:
 - astro/Zodiac
 type: Zodiac
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Nicolas_Louis_de_Lacaille,202703]]'
-part_of: '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]'
-named_after: '[[_Standards/WikiData/WD~steel_square,3275823]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Nicolas_Louis_de_Lacaille,202703|WD~Nicolas_Louis_de_Lacaille,202703]]'
+part_of: '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815|WD~Southern_Celestial_Hemisphere,2380815]]'
+named_after: '[[_Standards/WikiData/WD~steel_square,3275823|WD~steel_square,3275823]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Norma_(constellation),6471032]]'
-- '[[_Standards/WikiData/WD~Q10729100,10729100]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[_Standards/WikiData/WD~Template_Norma_(constellation),6471032|WD~Template_Norma_(constellation),6471032]]'
+- '[[_Standards/WikiData/WD~Q10729100,10729100|WD~Q10729100,10729100]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 time_of_discovery_or_invention: 1751-01-01T00:00:00Z
 shares_border_with:
-- '[[_Standards/WikiData/WD~Scorpius,8865]]'
-- '[[_Standards/WikiData/WD~Ara,9253]]'
-- '[[_Standards/WikiData/WD~Triangulum_Australe,10422]]'
-- '[[_Standards/WikiData/WD~Circinus,10508]]'
-- '[[_Standards/WikiData/WD~Lupus,10571]]'
-instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
+- '[[_Standards/WikiData/WD~Scorpius,8865|WD~Scorpius,8865]]'
+- '[[_Standards/WikiData/WD~Ara,9253|WD~Ara,9253]]'
+- '[[_Standards/WikiData/WD~Triangulum_Australe,10422|WD~Triangulum_Australe,10422]]'
+- '[[_Standards/WikiData/WD~Circinus,10508|WD~Circinus,10508]]'
+- '[[_Standards/WikiData/WD~Lupus,10571|WD~Lupus,10571]]'
+instance_of: '[[_Standards/WikiData/WD~constellation,8928|WD~constellation,8928]]'
 area: 165
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Constellation%20Norma.jpg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Norma%20constellation%20map.svg
@@ -179,7 +179,7 @@ dv_has_:
     zh: 矩尺座
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Norma,10582]]'
+  - '[[_Standards/WikiData/WD~Norma,10582|WD~Norma,10582]]'
   - '[[/_Standards/Astronomy/Star~Constellation/Zodiac~Norma|Zodiac~Norma]]'
   - '[[/_public/Astronomy/Star~Constellation/Zodiac~Norma.public|Zodiac~Norma.public]]'
   - '[[/_internal/Astronomy/Star~Constellation/Zodiac~Norma.internal|Zodiac~Norma.internal]]'
@@ -191,7 +191,7 @@ dv_has_name_la: Norma
 dv_has_name_la_genitive: Normae
 dv_has_name_de: Winkelmass
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Norma,10582]]'
+- '[[_Standards/WikiData/WD~Norma,10582|WD~Norma,10582]]'
 - '[[/_Standards/Astronomy/Star~Constellation/Zodiac~Norma|Zodiac~Norma]]'
 - '[[/_public/Astronomy/Star~Constellation/Zodiac~Norma.public|Zodiac~Norma.public]]'
 - '[[/_internal/Astronomy/Star~Constellation/Zodiac~Norma.internal|Zodiac~Norma.internal]]'
@@ -209,7 +209,7 @@ has_name_la = `=this.dv_has_name_la`
 has_name_la_genitive = `=this.dv_has_name_la_genitive` 
 has_name_de = `=this.dv_has_name_de` 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Norma,10582]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Norma,10582|WD~Norma,10582]] 
 
 
 ## Confidential Links & Embeds: 

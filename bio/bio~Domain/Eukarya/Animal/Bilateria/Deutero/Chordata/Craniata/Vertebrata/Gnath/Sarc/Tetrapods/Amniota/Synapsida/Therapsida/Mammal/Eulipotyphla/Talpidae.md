@@ -84,21 +84,21 @@ aliases:
 - 두더지
 has_id_wikidata: Q104825
 main_food_source:
-- '[[_Standards/WikiData/WD~caterpillar,81825]]'
-- '[[_Standards/WikiData/WD~chrysalis,1781247]]'
-- '[[_Standards/WikiData/WD~worm,47253]]'
-has_use: '[[_Standards/WikiData/WD~biological_pest_control,116890]]'
+- '[[_Standards/WikiData/WD~caterpillar,81825|WD~caterpillar,81825]]'
+- '[[_Standards/WikiData/WD~chrysalis,1781247|WD~chrysalis,1781247]]'
+- '[[_Standards/WikiData/WD~worm,47253|WD~worm,47253]]'
+has_use: '[[_Standards/WikiData/WD~biological_pest_control,116890|WD~biological_pest_control,116890]]'
 described_by_source:
-- '[[../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q9136422,9136422]]'
-parent_taxon: '[[../../../../../../../../../../../../../../../../../WikiData/WD~Eulipotyphla,16635184]]'
-this_taxon_is_source_of: '[[_Standards/WikiData/WD~Q118587591,118587591]]'
-code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+- '[[../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q9136422,9136422|WD~Q9136422,9136422]]'
+parent_taxon: '[[../../../../../../../../../../../../../../../../../WikiData/WD~Eulipotyphla,16635184|WD~Eulipotyphla,16635184]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~Q118587591,118587591|WD~Q118587591,118587591]]'
+code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011|WD~International_Code_of_Zoological_Nomenclature,13011]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409|WD~family,35409]]'
 ITIS_TSN: 179962
 Commons_gallery: Talpidae
 Commons_category: Talpidae

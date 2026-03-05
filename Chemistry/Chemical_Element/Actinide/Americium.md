@@ -88,9 +88,9 @@ CAS_Registry_Number: 7440-35-9
 chemical_formula: Am
 Commons_category: Americium
 Commons_gallery: Americium
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 Dewey_Decimal_Classification: 546.441
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973|WD~Glenn_T._Seaborg,48973]]'
 DSSTOX_compound_identifier: DTXCID6047658
 EC_number: 231-144-4
 electronegativity: 1.13
@@ -98,7 +98,7 @@ element_symbol: Am
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Americium%20microscope.jpg
 InChI: InChI=1S/Am
 InChIKey: LXQXZNRPTYVCNG-UHFFFAOYSA-N
-instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
+instance_of: '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 ionic_radius:
 - 0.85
 - 0.95
@@ -111,22 +111,22 @@ MeSH_tree_code:
 - D01.496.749.305.100.050
 - D01.552.020.086
 - D01.552.544.037
-named_after: '[[_Standards/WikiData/WD~Americas,828]]'
+named_after: '[[_Standards/WikiData/WD~Americas,828|WD~Americas,828]]'
 OmegaWiki_Defined_Meaning: 155847
 part_of:
-- '[[_Standards/WikiData/WD~period_7,244979]]'
-- '[[_Standards/WikiData/WD~actinide,19577]]'
+- '[[_Standards/WikiData/WD~period_7,244979|WD~period_7,244979]]'
+- '[[_Standards/WikiData/WD~actinide,19577|WD~actinide,19577]]'
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20146.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-am%C3%A9ricium.wav
 PubChem_CID: 23966
 SpocWebEntityId: 21990
 time_of_discovery_or_invention: 1944
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_americium,8085709]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_americium,8085709|WD~Template_Infobox_americium,8085709]]'
 type: Element
 UNII: VW92PHU2UY
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Americium,1872]]'
+  - '[[../../../WikiData/WD~Americium,1872|WD~Americium,1872]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Actinide/Americium|Americium]]'
   - '[[/_public/Chemistry/Chemical_Element/Actinide/Americium.public|Americium.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Actinide/Americium.internal|Americium.internal]]'
@@ -134,7 +134,7 @@ dv_is_:
   - '[[/_private/Chemistry/Chemical_Element/Actinide/Americium.private|Americium.private]]'
   - '[[/_personal/Chemistry/Chemical_Element/Actinide/Americium.personal|Americium.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Actinide/Americium.secret|Americium.secret]]'
-  part_of: '[[../Actinide]]'
+  part_of: '[[../Actinide|Actinide]]'
 dv_has_:
   name_:
     abbreviated: Am
@@ -322,7 +322,7 @@ dv_has_:
         kj_:
           mol: 0
 dv_is_same_as:
-- '[[../../../WikiData/WD~Americium,1872]]'
+- '[[../../../WikiData/WD~Americium,1872|WD~Americium,1872]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Actinide/Americium|Americium]]'
 - '[[/_public/Chemistry/Chemical_Element/Actinide/Americium.public|Americium.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Actinide/Americium.internal|Americium.internal]]'
@@ -331,7 +331,7 @@ dv_is_same_as:
 - '[[/_personal/Chemistry/Chemical_Element/Actinide/Americium.personal|Americium.personal]]'
 - '[[/_secret/Chemistry/Chemical_Element/Actinide/Americium.secret|Americium.secret]]'
 dv_has_name_group: Actinide-Group
-dv_is_part_of: '[[../Actinide]]'
+dv_is_part_of: '[[../Actinide|Actinide]]'
 dv_has_name_en: Americium
 dv_has_name_de: Americium
 dv_has_name_abbreviated: Am
@@ -356,7 +356,7 @@ Unicode_character: 鋂
 
 # [[Americium]] 鋂 
 
-#is_/same_as :: [[../../../WikiData/WD~Americium,1872]] 
+#is_/same_as :: [[../../../WikiData/WD~Americium,1872|WD~Americium,1872]] 
 
 
 #chemic/Element 

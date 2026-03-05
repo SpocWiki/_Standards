@@ -4,7 +4,7 @@ location:
 - 21.0
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Central_Africa,27433]]'
+  - '[[_Standards/WikiData/WD~Central_Africa,27433|WD~Central_Africa,27433]]'
   - '[[/_Standards/Earth/Continent/Africa/Africa~Central|Africa~Central]]'
   - '[[/_public/Earth/Continent/Africa/Africa~Central.public|Africa~Central.public]]'
   - '[[/_internal/Earth/Continent/Africa/Africa~Central.internal|Africa~Central.internal]]'
@@ -13,7 +13,7 @@ dv_is_:
   - '[[/_personal/Earth/Continent/Africa/Africa~Central.personal|Africa~Central.personal]]'
   - '[[/_secret/Earth/Continent/Africa/Africa~Central.secret|Africa~Central.secret]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Central_Africa,27433]]'
+- '[[_Standards/WikiData/WD~Central_Africa,27433|WD~Central_Africa,27433]]'
 - '[[/_Standards/Earth/Continent/Africa/Africa~Central|Africa~Central]]'
 - '[[/_public/Earth/Continent/Africa/Africa~Central.public|Africa~Central.public]]'
 - '[[/_internal/Earth/Continent/Africa/Africa~Central.internal|Africa~Central.internal]]'
@@ -149,45 +149,45 @@ aliases:
 - 중앙아프리카
 has_id_wikidata: Q27433
 instance_of:
-- '[[_Standards/WikiData/WD~region,82794]]'
-- '[[_Standards/WikiData/WD~cultural_region,3502482]]'
-- '[[_Standards/WikiData/WD~subregion,7631958]]'
+- '[[_Standards/WikiData/WD~region,82794|WD~region,82794]]'
+- '[[_Standards/WikiData/WD~cultural_region,3502482|WD~cultural_region,3502482]]'
+- '[[_Standards/WikiData/WD~subregion,7631958|WD~subregion,7631958]]'
 significant_event:
-- '[[_Standards/WikiData/WD~Bantu_expansion,130251]]'
-- '[[_Standards/WikiData/WD~colonisation_of_Africa,2353647]]'
+- '[[_Standards/WikiData/WD~Bantu_expansion,130251|WD~Bantu_expansion,130251]]'
+- '[[_Standards/WikiData/WD~colonisation_of_Africa,2353647|WD~colonisation_of_Africa,2353647]]'
 part_of:
-- '[[_Standards/WikiData/WD~sub_Saharan_Africa,132959]]'
-- '[[_Standards/WikiData/WD~Africa,15]]'
+- '[[_Standards/WikiData/WD~sub_Saharan_Africa,132959|WD~sub_Saharan_Africa,132959]]'
+- '[[_Standards/WikiData/WD~Africa,15|WD~Africa,15]]'
 different_from:
-- '[[_Standards/WikiData/WD~Mittelafrika,317067]]'
-- '[[_Standards/WikiData/WD~Central_African_Republic,929]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Central_Africa,18012352]]'
+- '[[_Standards/WikiData/WD~Mittelafrika,317067|WD~Mittelafrika,317067]]'
+- '[[_Standards/WikiData/WD~Central_African_Republic,929|WD~Central_African_Republic,929]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Central_Africa,18012352|WD~Portal_Central_Africa,18012352]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica,455]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica,455|WD~Encyclopædia_Britannica,455]]'
 population: 213189468
 coordinate_location: Point(21.0 2.0)
 has_part_s_:
-- '[[_Standards/WikiData/WD~Chad,657]]'
-- '[[_Standards/WikiData/WD~Angola,916]]'
-- '[[_Standards/WikiData/WD~Central_African_Republic,929]]'
-- '[[_Standards/WikiData/WD~Zambia,953]]'
-- '[[_Standards/WikiData/WD~Republic_of_the_Congo,971]]'
-- '[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]'
-- '[[_Standards/WikiData/WD~Equatorial_Guinea,983]]'
-- '[[_Standards/WikiData/WD~Gabon,1000]]'
-- '[[_Standards/WikiData/WD~Cameroon,1009]]'
-- '[[_Standards/WikiData/WD~São_Tomé_and_Príncipe,1039]]'
+- '[[_Standards/WikiData/WD~Chad,657|WD~Chad,657]]'
+- '[[_Standards/WikiData/WD~Angola,916|WD~Angola,916]]'
+- '[[_Standards/WikiData/WD~Central_African_Republic,929|WD~Central_African_Republic,929]]'
+- '[[_Standards/WikiData/WD~Zambia,953|WD~Zambia,953]]'
+- '[[_Standards/WikiData/WD~Republic_of_the_Congo,971|WD~Republic_of_the_Congo,971]]'
+- '[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974|WD~Democratic_Republic_of_the_Congo,974]]'
+- '[[_Standards/WikiData/WD~Equatorial_Guinea,983|WD~Equatorial_Guinea,983]]'
+- '[[_Standards/WikiData/WD~Gabon,1000|WD~Gabon,1000]]'
+- '[[_Standards/WikiData/WD~Cameroon,1009|WD~Cameroon,1009]]'
+- '[[_Standards/WikiData/WD~São_Tomé_and_Príncipe,1039|WD~São_Tomé_and_Príncipe,1039]]'
 shares_border_with:
-- '[[_Standards/WikiData/WD~West_Africa,4412]]'
-- '[[_Standards/WikiData/WD~North_Africa,27381]]'
-- '[[_Standards/WikiData/WD~Southern_Africa,27394]]'
-- '[[_Standards/WikiData/WD~East_Africa,27407]]'
-- '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~Africa,15]]'
-locations: '[[_Standards/WikiData/WD~Africa,15]]'
-continent: '[[_Standards/WikiData/WD~Africa,15]]'
-language_used: '[[_Standards/WikiData/WD~Bantu,33146]]'
+- '[[_Standards/WikiData/WD~West_Africa,4412|WD~West_Africa,4412]]'
+- '[[_Standards/WikiData/WD~North_Africa,27381|WD~North_Africa,27381]]'
+- '[[_Standards/WikiData/WD~Southern_Africa,27394|WD~Southern_Africa,27394]]'
+- '[[_Standards/WikiData/WD~East_Africa,27407|WD~East_Africa,27407]]'
+- '[[_Standards/WikiData/WD~Atlantic_Ocean,97|WD~Atlantic_Ocean,97]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Africa,15|WD~Africa,15]]'
+locations: '[[_Standards/WikiData/WD~Africa,15|WD~Africa,15]]'
+continent: '[[_Standards/WikiData/WD~Africa,15|WD~Africa,15]]'
+language_used: '[[_Standards/WikiData/WD~Bantu,33146|WD~Bantu,33146]]'
 Dewey_Decimal_Classification: 967
 OmegaWiki_Defined_Meaning: 521
 PM20_geo_code: C4
@@ -352,7 +352,7 @@ dv_has_:
 
 # [[Africa~Central]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Central_Africa,27433]]
+#is_/same_as :: [[_Standards/WikiData/WD~Central_Africa,27433|WD~Central_Africa,27433]]
 
 ## #has_/map 
 

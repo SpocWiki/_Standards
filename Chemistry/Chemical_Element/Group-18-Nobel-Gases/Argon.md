@@ -75,15 +75,15 @@ Commons_category: Argon
 Commons_gallery: Argon
 CosIng_number: 54501
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604|WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~John_Strutt,_3rd_Baron_Rayleigh,83297]]'
-- '[[_Standards/WikiData/WD~William_Ramsay,950726]]'
+- '[[_Standards/WikiData/WD~John_Strutt,_3rd_Baron_Rayleigh,83297|WD~John_Strutt,_3rd_Baron_Rayleigh,83297]]'
+- '[[_Standards/WikiData/WD~William_Ramsay,950726|WD~William_Ramsay,950726]]'
 DSSTOX_compound_identifier: DTXCID0031055
 dynamic_viscosity: 22.7
 EC_number: 231-147-0
@@ -94,32 +94,32 @@ element_symbol: Ar
 E_number: E938
 Gujarati_Vishwakosh_entry: આગૉર્ન
 has_characteristic:
-- '[[_Standards/WikiData/WD~colorlessness,11567495]]'
-- '[[_Standards/WikiData/WD~odorlessness,30007162]]'
-- '[[_Standards/WikiData/WD~tastelessness,30100868]]'
-has_use: '[[_Standards/WikiData/WD~food_additive,189567]]'
+- '[[_Standards/WikiData/WD~colorlessness,11567495|WD~colorlessness,11567495]]'
+- '[[_Standards/WikiData/WD~odorlessness,30007162|WD~odorlessness,30007162]]'
+- '[[_Standards/WikiData/WD~tastelessness,30100868|WD~tastelessness,30100868]]'
+has_use: '[[_Standards/WikiData/WD~food_additive,189567|WD~food_additive,189567]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Argon%20ice%201.jpg
 InChI: InChI=1S/Ar
 InChIKey: XKRFYHLGVUSROY-UHFFFAOYSA-N
 instance_of:
-- '[[_Standards/WikiData/WD~atmophile_element,2313842]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
-- '[[_Standards/WikiData/WD~gas,11432]]'
+- '[[_Standards/WikiData/WD~atmophile_element,2313842|WD~atmophile_element,2313842]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
+- '[[_Standards/WikiData/WD~gas,11432|WD~gas,11432]]'
 mass: 39.95
 melting_point: -189.34
 MeSH_tree_code:
 - D01.268.613.050
 - D01.362.641.113
-named_after: '[[_Standards/WikiData/WD~laziness,484]]'
+named_after: '[[_Standards/WikiData/WD~laziness,484|WD~laziness,484]]'
 OmegaWiki_Defined_Meaning: 15591
 part_of:
-- '[[_Standards/WikiData/WD~period_3,211331]]'
-- '[[_Standards/WikiData/WD~noble_gases,19609]]'
+- '[[_Standards/WikiData/WD~period_3,211331|WD~period_3,211331]]'
+- '[[_Standards/WikiData/WD~noble_gases,19609|WD~noble_gases,19609]]'
 PubChem_CID: 23968
 speed_of_sound: 813
 SpocWebEntityId: 21919
 standard_molar_entropy: 154.8
-subclass_of: '[[_Standards/WikiData/WD~noble_gases,19609]]'
+subclass_of: '[[_Standards/WikiData/WD~noble_gases,19609|WD~noble_gases,19609]]'
 time_of_discovery_or_invention: 1894
 type: Element
 UMLS_CUI: C0003781
@@ -346,9 +346,9 @@ dv_has_:
         kj_:
           mol: 1.7326
 dv_is_:
-  part_of: '[[../Group-18-Nobel-Gases]]]'
+  part_of: '[[../Group-18-Nobel-Gases|Group-18-Nobel-Gases]]]'
   same_as:
-  - '[[../../../WikiData/WD~Argon,696]]'
+  - '[[../../../WikiData/WD~Argon,696|WD~Argon,696]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Argon|Argon]]'
   - '[[/_public/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Argon.public|Argon.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Argon.internal|Argon.internal]]'
@@ -357,7 +357,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Argon.personal|Argon.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Argon.secret|Argon.secret]]'
 dv_has_name_group: Group-18-Nobel-Gases
-dv_is_part_of: '[[../Group-18-Nobel-Gases]]]'
+dv_is_part_of: '[[../Group-18-Nobel-Gases|Group-18-Nobel-Gases]]]'
 dv_has_name_en: Argon
 dv_has_name_de: Argon
 dv_has_value_for_weight_u: 39.948
@@ -376,7 +376,7 @@ dv_has_value_for_energy_form_kj_mol: 1.7326
 dv_has_number_of_period: 3
 dv_has_number_of_group: 18
 dv_is_same_as:
-- '[[../../../WikiData/WD~Argon,696]]'
+- '[[../../../WikiData/WD~Argon,696|WD~Argon,696]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Argon|Argon]]'
 - '[[/_public/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Argon.public|Argon.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Argon.internal|Argon.internal]]'
@@ -420,7 +420,7 @@ has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol`
 has_number_of_period = `=this.dv_has_number_of_period` 
 has_number_of_group = `=this.dv_has_number_of_group` 
 
-#is_/same_as :: [[../../../WikiData/WD~Argon,696]]  
+#is_/same_as :: [[../../../WikiData/WD~Argon,696|WD~Argon,696]]  
 
 ## #has_/text_of_/abstract 
 

@@ -82,12 +82,12 @@ Commons_gallery: Tyrannosaurus
 end_time: -66000000-01-01
 height: 3.6
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Stan%20the%20Trex%20at%20Manchester%20Museum.jpg
-instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290]]'
+instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290|WD~fossil_taxon,23038290]]'
 IPA_transcription: taɪˈɹænəˈsoɹəs
 length: 12
-location_of_discovery: '[[_Standards/WikiData/WD~Canada,16]]'
-main_food_source: '[[_Standards/WikiData/WD~carnivore,81875]]'
-parent_taxon: '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Tyrannosaurini,21447922]]'
+location_of_discovery: '[[_Standards/WikiData/WD~Canada,16|WD~Canada,16]]'
+main_food_source: '[[_Standards/WikiData/WD~carnivore,81875|WD~carnivore,81875]]'
+parent_taxon: '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Tyrannosaurini,21447922|WD~Tyrannosaurini,21447922]]'
 size_comparison_diagram:
 - http://commons.wikimedia.org/wiki/Special:FilePath/The%20Australian%20Museum%20magazine%20%281921%29%20%2820162978058%29.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Tyrannosaurus%20specimens.svg
@@ -127,7 +127,7 @@ taxon_common_name:
 - 暴龍屬
 taxon_name: Tyrannosaurus
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/T.%20rex%20Distribution%20PBDB.png
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
 title: Tyrannosauroidea
 UMLS_CUI: C1910436
 Unicode_character: "\U0001F996"

@@ -152,31 +152,31 @@ aliases:
 - 성교
 has_id_wikidata: Q5873
 has_use:
-- '[[_Standards/WikiData/WD~sexual_violence,558075]]'
-- '[[_Standards/WikiData/WD~sexual_pleasure,20851021]]'
-- '[[_Standards/WikiData/WD~pornography,291]]'
-- '[[_Standards/WikiData/WD~reproduction,11990]]'
+- '[[_Standards/WikiData/WD~sexual_violence,558075|WD~sexual_violence,558075]]'
+- '[[_Standards/WikiData/WD~sexual_pleasure,20851021|WD~sexual_pleasure,20851021]]'
+- '[[_Standards/WikiData/WD~pornography,291|WD~pornography,291]]'
+- '[[_Standards/WikiData/WD~reproduction,11990|WD~reproduction,11990]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~sexual_partner,1611410]]'
-- '[[_Standards/WikiData/WD~marriage_sex_in_Islam,127163683]]'
+- '[[_Standards/WikiData/WD~sexual_partner,1611410|WD~sexual_partner,1611410]]'
+- '[[_Standards/WikiData/WD~marriage_sex_in_Islam,127163683|WD~marriage_sex_in_Islam,127163683]]'
 has_effect:
-- '[[_Standards/WikiData/WD~human_fertilization,2666904]]'
-- '[[_Standards/WikiData/WD~ejaculation,14820885]]'
-- '[[_Standards/WikiData/WD~vaginal_orgasm,61520979]]'
-- '[[_Standards/WikiData/WD~orgasm,5887]]'
+- '[[_Standards/WikiData/WD~human_fertilization,2666904|WD~human_fertilization,2666904]]'
+- '[[_Standards/WikiData/WD~ejaculation,14820885|WD~ejaculation,14820885]]'
+- '[[_Standards/WikiData/WD~vaginal_orgasm,61520979|WD~vaginal_orgasm,61520979]]'
+- '[[_Standards/WikiData/WD~orgasm,5887|WD~orgasm,5887]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~reciprocating_motion,3775883]]'
-- '[[_Standards/WikiData/WD~copulation,30600878]]'
-- '[[_Standards/WikiData/WD~human_sexual_behavior,608]]'
-practiced_by: '[[_Standards/WikiData/WD~Q11665414,11665414]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q13098233,13098233]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828725,22828725]]'
+- '[[_Standards/WikiData/WD~reciprocating_motion,3775883|WD~reciprocating_motion,3775883]]'
+- '[[_Standards/WikiData/WD~copulation,30600878|WD~copulation,30600878]]'
+- '[[_Standards/WikiData/WD~human_sexual_behavior,608|WD~human_sexual_behavior,608]]'
+practiced_by: '[[_Standards/WikiData/WD~Q11665414,11665414|WD~Q11665414,11665414]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q13098233,13098233|WD~Q13098233,13098233]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828725,22828725|WD~Q22828725,22828725]]'
 different_from:
-- '[[_Standards/WikiData/WD~copulation,30600878]]'
-- '[[_Standards/WikiData/WD~sex,290]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wiki99_LGBT+,97285685]]'
-item_operated: '[[_Standards/WikiData/WD~Farj,125823087]]'
-has_cause: '[[_Standards/WikiData/WD~human_sexual_behavior,608]]'
+- '[[_Standards/WikiData/WD~copulation,30600878|WD~copulation,30600878]]'
+- '[[_Standards/WikiData/WD~sex,290|WD~sex,290]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wiki99_LGBT+,97285685|WD~Wiki99_LGBT+,97285685]]'
+item_operated: '[[_Standards/WikiData/WD~Farj,125823087|WD~Farj,125823087]]'
+has_cause: '[[_Standards/WikiData/WD~human_sexual_behavior,608|WD~human_sexual_behavior,608]]'
 IMDb_keyword:
 - sex
 - fucking

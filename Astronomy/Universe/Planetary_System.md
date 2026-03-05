@@ -73,18 +73,18 @@ aliases:
 - 行星系
 - 행성계
 has_id_wikidata: Q206717
-studied_by: '[[_Standards/WikiData/WD~planetary_science,104499]]'
-different_from: '[[_Standards/WikiData/WD~star_system,595871]]'
-part_of: '[[_Standards/WikiData/WD~star_system,595871]]'
+studied_by: '[[_Standards/WikiData/WD~planetary_science,104499|WD~planetary_science,104499]]'
+different_from: '[[_Standards/WikiData/WD~star_system,595871|WD~star_system,595871]]'
+part_of: '[[_Standards/WikiData/WD~star_system,595871|WD~star_system,595871]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~minor_planet,1022867]]'
-- '[[_Standards/WikiData/WD~star,523]]'
-- '[[_Standards/WikiData/WD~planet,634]]'
-- '[[_Standards/WikiData/WD~comet,3559]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_planetary_system,14385354]]'
-subclass_of: '[[_Standards/WikiData/WD~gravitationally_bound_system,15053549]]'
-instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
-does_not_have_part: '[[_Standards/WikiData/WD~star,523]]'
+- '[[_Standards/WikiData/WD~minor_planet,1022867|WD~minor_planet,1022867]]'
+- '[[_Standards/WikiData/WD~star,523|WD~star,523]]'
+- '[[_Standards/WikiData/WD~planet,634|WD~planet,634]]'
+- '[[_Standards/WikiData/WD~comet,3559|WD~comet,3559]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_planetary_system,14385354|WD~Template_Infobox_planetary_system,14385354]]'
+subclass_of: '[[_Standards/WikiData/WD~gravitationally_bound_system,15053549|WD~gravitationally_bound_system,15053549]]'
+instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909|WD~astronomical_object_type,17444909]]'
+does_not_have_part: '[[_Standards/WikiData/WD~star,523|WD~star,523]]'
 Colon_Classification: B97
 DataTrek_identifier: Q102
 Dewey_Decimal_Classification: 523.2
@@ -92,7 +92,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Artist%20Concept%20Pla
 Commons_category: Planetary systems
 dv_is_:
   same_as:
-  - '[[../../WikiData/WD~Planetary_system,206717]]'
+  - '[[../../WikiData/WD~Planetary_system,206717|WD~Planetary_system,206717]]'
   - '[[/_Standards/Astronomy/Universe/Planetary_System|Planetary_System]]'
   - '[[/_public/Astronomy/Universe/Planetary_System.public|Planetary_System.public]]'
   - '[[/_internal/Astronomy/Universe/Planetary_System.internal|Planetary_System.internal]]'
@@ -101,7 +101,7 @@ dv_is_:
   - '[[/_personal/Astronomy/Universe/Planetary_System.personal|Planetary_System.personal]]'
   - '[[/_secret/Astronomy/Universe/Planetary_System.secret|Planetary_System.secret]]'
 dv_is_same_as:
-- '[[../../WikiData/WD~Planetary_system,206717]]'
+- '[[../../WikiData/WD~Planetary_system,206717|WD~Planetary_system,206717]]'
 - '[[/_Standards/Astronomy/Universe/Planetary_System|Planetary_System]]'
 - '[[/_public/Astronomy/Universe/Planetary_System.public|Planetary_System.public]]'
 - '[[/_internal/Astronomy/Universe/Planetary_System.internal|Planetary_System.internal]]'

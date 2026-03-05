@@ -65,23 +65,23 @@ aliases:
 - 중수
 has_id_wikidata: Q155890
 has_part_s_:
-- '[[_Standards/WikiData/WD~deuterium,102296]]'
-- '[[_Standards/WikiData/WD~hydrogen,556]]'
-- '[[_Standards/WikiData/WD~oxygen,629]]'
+- '[[_Standards/WikiData/WD~deuterium,102296|WD~deuterium,102296]]'
+- '[[_Standards/WikiData/WD~hydrogen,556|WD~hydrogen,556]]'
+- '[[_Standards/WikiData/WD~oxygen,629|WD~oxygen,629]]'
 different_from:
-- '[[_Standards/WikiData/WD~semiheavy_water,165082]]'
-- '[[_Standards/WikiData/WD~etching,186986]]'
-- '[[_Standards/WikiData/WD~tritiated_water,424236]]'
-- '[[_Standards/WikiData/WD~Lourdes_water,6689789]]'
+- '[[_Standards/WikiData/WD~semiheavy_water,165082|WD~semiheavy_water,165082]]'
+- '[[_Standards/WikiData/WD~etching,186986|WD~etching,186986]]'
+- '[[_Standards/WikiData/WD~tritiated_water,424236|WD~tritiated_water,424236]]'
+- '[[_Standards/WikiData/WD~Lourdes_water,6689789|WD~Lourdes_water,6689789]]'
 subject_has_role:
-- '[[_Standards/WikiData/WD~antineoplastic,2853144]]'
-- '[[_Standards/WikiData/WD~radiation_protection_agent,11498931]]'
-opposite_of: '[[_Standards/WikiData/WD~light_water,3100716]]'
-has_use: '[[_Standards/WikiData/WD~nuclear_reactor_coolant,3535009]]'
-subclass_of: '[[_Standards/WikiData/WD~isotopic_compound,22332141]]'
-safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
-isotopically_modified_form_of: '[[_Standards/WikiData/WD~water,283]]'
+- '[[_Standards/WikiData/WD~antineoplastic,2853144|WD~antineoplastic,2853144]]'
+- '[[_Standards/WikiData/WD~radiation_protection_agent,11498931|WD~radiation_protection_agent,11498931]]'
+opposite_of: '[[_Standards/WikiData/WD~light_water,3100716|WD~light_water,3100716]]'
+has_use: '[[_Standards/WikiData/WD~nuclear_reactor_coolant,3535009|WD~nuclear_reactor_coolant,3535009]]'
+subclass_of: '[[_Standards/WikiData/WD~isotopic_compound,22332141|WD~isotopic_compound,22332141]]'
+safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288|WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171|WD~type_of_chemical_entity,113145171]]'
+isotopically_modified_form_of: '[[_Standards/WikiData/WD~water,283|WD~water,283]]'
 Gmelin_number: 97
 mass: 20.023
 PubChem_CID: 24602
@@ -110,7 +110,7 @@ RTECS_number: ZC0230000
 Gujarati_Vishwakosh_entry: ભારે-પાણી-ડ્યૂટેરિયમ-ઑક્
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Heavy_water,155890]]'
+  - '[[../../../WikiData/WD~Heavy_water,155890|WD~Heavy_water,155890]]'
   - '[[/_Standards/Chemistry/Inorganic_Chemistry/Water/Heavy_Water|Heavy_Water]]'
   - '[[/_public/Chemistry/Inorganic_Chemistry/Water/Heavy_Water.public|Heavy_Water.public]]'
   - '[[/_internal/Chemistry/Inorganic_Chemistry/Water/Heavy_Water.internal|Heavy_Water.internal]]'
@@ -119,7 +119,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Inorganic_Chemistry/Water/Heavy_Water.personal|Heavy_Water.personal]]'
   - '[[/_secret/Chemistry/Inorganic_Chemistry/Water/Heavy_Water.secret|Heavy_Water.secret]]'
 dv_is_same_as:
-- '[[../../../WikiData/WD~Heavy_water,155890]]'
+- '[[../../../WikiData/WD~Heavy_water,155890|WD~Heavy_water,155890]]'
 - '[[/_Standards/Chemistry/Inorganic_Chemistry/Water/Heavy_Water|Heavy_Water]]'
 - '[[/_public/Chemistry/Inorganic_Chemistry/Water/Heavy_Water.public|Heavy_Water.public]]'
 - '[[/_internal/Chemistry/Inorganic_Chemistry/Water/Heavy_Water.internal|Heavy_Water.internal]]'

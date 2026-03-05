@@ -8,9 +8,9 @@ aliases:
 - 鯨鯊屬
 - 鲸鲨属
 has_id_wikidata: Q17284129
-instance_of: '[[_Standards/WikiData/WD~monotypic_taxon,310890]]'
-parent_taxon: '[[../../../../../../../../../../../../../../../WikiData/WD~Rhincodontidae,2803916]]'
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+instance_of: '[[_Standards/WikiData/WD~monotypic_taxon,310890|WD~monotypic_taxon,310890]]'
+parent_taxon: '[[../../../../../../../../../../../../../../../WikiData/WD~Rhincodontidae,2803916|WD~Rhincodontidae,2803916]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
 ITIS_TSN: 159855
 Commons_category: Rhincodon typus
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Whale%20shark%20Georgia%20aquarium.jpg
@@ -53,7 +53,7 @@ dv_has_:
 
 # [[Rhincodon]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../../../../WikiData/WD~Rhincodon,17284129]] 
+#is_/same_as :: [[../../../../../../../../../../../../../../../WikiData/WD~Rhincodon,17284129|WD~Rhincodon,17284129]] 
 
 ## #has_/text_of_/abstract 
 

@@ -67,14 +67,14 @@ aliases:
 - 哈勃定律
 - 허블의 법칙
 has_id_wikidata: Q179916
-instance_of: '[[_Standards/WikiData/WD~physical_law,214070]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+instance_of: '[[_Standards/WikiData/WD~physical_law,214070|WD~physical_law,214070]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 named_after:
-- '[[_Standards/WikiData/WD~Georges_Lemaître,12998]]'
-- '[[_Standards/WikiData/WD~Edwin_Hubble,43027]]'
+- '[[_Standards/WikiData/WD~Georges_Lemaître,12998|WD~Georges_Lemaître,12998]]'
+- '[[_Standards/WikiData/WD~Edwin_Hubble,43027|WD~Edwin_Hubble,43027]]'
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Georges_Lemaître,12998]]'
-- '[[_Standards/WikiData/WD~Edwin_Hubble,43027]]'
+- '[[_Standards/WikiData/WD~Georges_Lemaître,12998|WD~Georges_Lemaître,12998]]'
+- '[[_Standards/WikiData/WD~Edwin_Hubble,43027|WD~Edwin_Hubble,43027]]'
 in_defining_formula:
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>D</mi></mstyle></mrow></math>
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>v</mi></mstyle></mrow></math>

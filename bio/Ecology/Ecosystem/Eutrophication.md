@@ -59,10 +59,10 @@ aliases:
 - 超養化
 - 부영양화
 has_id_wikidata: Q156698
-facet_of: '[[_Standards/WikiData/WD~nutrient,181394]]'
-subclass_of: '[[_Standards/WikiData/WD~environmental_issue,2144359]]'
-instance_of: '[[_Standards/WikiData/WD~process,3249551]]'
-has_cause: '[[_Standards/WikiData/WD~sewage,10966166]]'
+facet_of: '[[_Standards/WikiData/WD~nutrient,181394|WD~nutrient,181394]]'
+subclass_of: '[[_Standards/WikiData/WD~environmental_issue,2144359|WD~environmental_issue,2144359]]'
+instance_of: '[[_Standards/WikiData/WD~process,3249551|WD~process,3249551]]'
+has_cause: '[[_Standards/WikiData/WD~sewage,10966166|WD~sewage,10966166]]'
 OmegaWiki_Defined_Meaning: 1362
 Commons_category: Eutrophication
 image:

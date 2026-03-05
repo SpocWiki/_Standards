@@ -100,36 +100,36 @@ aliases:
 - 부피
 has_id_wikidata: Q39297
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~scalar_quantity,181175]]'
-- '[[_Standards/WikiData/WD~extensive_quantity,3386703]]'
-- '[[_Standards/WikiData/WD~volume,4330556]]'
-- '[[_Standards/WikiData/WD~ISQ_derived_quantity,30337763]]'
-- '[[_Standards/WikiData/WD~additive_quantity,117865208]]'
-- '[[_Standards/WikiData/WD~geometric_measure,123410660]]'
-invariant_under: '[[_Standards/WikiData/WD~isochoric_process,208388]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~scalar_quantity,181175|WD~scalar_quantity,181175]]'
+- '[[_Standards/WikiData/WD~extensive_quantity,3386703|WD~extensive_quantity,3386703]]'
+- '[[_Standards/WikiData/WD~volume,4330556|WD~volume,4330556]]'
+- '[[_Standards/WikiData/WD~ISQ_derived_quantity,30337763|WD~ISQ_derived_quantity,30337763]]'
+- '[[_Standards/WikiData/WD~additive_quantity,117865208|WD~additive_quantity,117865208]]'
+- '[[_Standards/WikiData/WD~geometric_measure,123410660|WD~geometric_measure,123410660]]'
+invariant_under: '[[_Standards/WikiData/WD~isochoric_process,208388|WD~isochoric_process,208388]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~ISO_80000_3_2006_Quantities_and_units_Part_3_Space_and_time,26711932]]'
-- '[[_Standards/WikiData/WD~ISO_80000_3_2019_Quantities_and_units_Part_3_Space_and_time,90137277]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546|WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~ISO_80000_3_2006_Quantities_and_units_Part_3_Space_and_time,26711932|WD~ISO_80000_3_2006_Quantities_and_units_Part_3_Space_and_time,26711932]]'
+- '[[_Standards/WikiData/WD~ISO_80000_3_2019_Quantities_and_units_Part_3_Space_and_time,90137277|WD~ISO_80000_3_2019_Quantities_and_units_Part_3_Space_and_time,90137277]]'
 different_from:
-- '[[_Standards/WikiData/WD~volume,1125653]]'
-- '[[_Standards/WikiData/WD~volume,1238720]]'
-- '[[_Standards/WikiData/WD~Q61747474,61747474]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q110204201,110204201]]'
-facet_of: '[[_Standards/WikiData/WD~three_dimensional_region,123410718]]'
+- '[[_Standards/WikiData/WD~volume,1125653|WD~volume,1125653]]'
+- '[[_Standards/WikiData/WD~volume,1238720|WD~volume,1238720]]'
+- '[[_Standards/WikiData/WD~Q61747474,61747474|WD~Q61747474,61747474]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q110204201,110204201|WD~Q110204201,110204201]]'
+facet_of: '[[_Standards/WikiData/WD~three_dimensional_region,123410718|WD~three_dimensional_region,123410718]]'
 ISQ_dimension: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AB</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mn>3</mn></mrow></msup></mstyle></mrow></math>"
 Wikidata_property: volume as quantity
-follows: '[[_Standards/WikiData/WD~area,11500]]'
+follows: '[[_Standards/WikiData/WD~area,11500|WD~area,11500]]'
 recommended_unit_of_measurement:
-- '[[_Standards/WikiData/WD~litre,11582]]'
-- '[[_Standards/WikiData/WD~cubic_metre,25517]]'
+- '[[_Standards/WikiData/WD~litre,11582|WD~litre,11582]]'
+- '[[_Standards/WikiData/WD~cubic_metre,25517|WD~cubic_metre,25517]]'
 quantity_symbol_string_: V
 IEV_number: 102-04-40
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Simple%20Measuring%20Cup.jpg

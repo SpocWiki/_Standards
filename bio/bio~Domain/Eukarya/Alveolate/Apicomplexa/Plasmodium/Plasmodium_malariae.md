@@ -1,9 +1,9 @@
 ---
 has_id_wikidata: Q133969
-parent_taxon: '[[_Standards/WikiData/WD~Q130948,130948]]'
-original_combination: '[[_Standards/WikiData/WD~Haemamoeba_malariae,109547747]]'
-taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+parent_taxon: '[[_Standards/WikiData/WD~Q130948,130948|WD~Q130948,130948]]'
+original_combination: '[[_Standards/WikiData/WD~Haemamoeba_malariae,109547747|WD~Haemamoeba_malariae,109547747]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432|WD~species,7432]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mature%20Plasmodium%20malariae%20schizont%20PHIL%202715%20lores.jpg
 sequenced_genome_URL:
 - https://protists.ensembl.org/Plasmodium_malariae_gca_900088575

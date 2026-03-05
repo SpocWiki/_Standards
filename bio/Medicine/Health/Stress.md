@@ -51,12 +51,12 @@ aliases:
 - 緊迫
 - 스트레스
 has_id_wikidata: Q123414
-handled_mitigated_or_managed_by: '[[_Standards/WikiData/WD~stress_management,1404268]]'
+handled_mitigated_or_managed_by: '[[_Standards/WikiData/WD~stress_management,1404268|WD~stress_management,1404268]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~risk_factor,1475848]]'
-- '[[_Standards/WikiData/WD~biological_process,2996394]]'
-has_cause: '[[_Standards/WikiData/WD~stressor,1527480]]'
-instance_of: '[[_Standards/WikiData/WD~failure_mode,100151658]]'
+- '[[_Standards/WikiData/WD~risk_factor,1475848|WD~risk_factor,1475848]]'
+- '[[_Standards/WikiData/WD~biological_process,2996394|WD~biological_process,2996394]]'
+has_cause: '[[_Standards/WikiData/WD~stressor,1527480|WD~stressor,1527480]]'
+instance_of: '[[_Standards/WikiData/WD~failure_mode,100151658|WD~failure_mode,100151658]]'
 OmegaWiki_Defined_Meaning: 3644
 Commons_category: Stress
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Response%20to%20stress.jpg

@@ -17,10 +17,10 @@ aliases:
 - 舌狀花亞科
 - 치커리아과
 has_id_wikidata: Q133142
-taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280]]'
-has_fruit_type: '[[_Standards/WikiData/WD~samara,475697]]'
-taxonomic_type: '[[_Standards/WikiData/WD~Aster,517130]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280|WD~subfamily,164280]]'
+has_fruit_type: '[[_Standards/WikiData/WD~samara,475697|WD~samara,475697]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Aster,517130|WD~Aster,517130]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Cichorium%20intybus-alvesgaspar1.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Cichorium%20intybus%20Slovakia.jpg
@@ -88,7 +88,7 @@ dv_has_:
 
 # [[Cichorioideae]] 
 
-#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Cichorioideae,133142]] 
+#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Cichorioideae,133142|WD~Cichorioideae,133142]] 
 
 ## #has_/text_of_/abstract 
 

@@ -33,13 +33,13 @@ aliases:
 - 瘧原蟲屬
 - 말라리아원충
 has_id_wikidata: Q130948
-taxonomic_type: '[[_Standards/WikiData/WD~Plasmodium_malariae,133969]]'
-parent_taxon: '[[_Standards/WikiData/WD~Plasmodiidae,1929486]]'
-has_natural_reservoir: '[[_Standards/WikiData/WD~Anopheles_cruzii,13853984]]'
-taxon_synonym: '[[_Standards/WikiData/WD~Haemamoeba,109547871]]'
-has_effect: '[[_Standards/WikiData/WD~malaria,12156]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Plasmodium_malariae,133969|WD~Plasmodium_malariae,133969]]'
+parent_taxon: '[[_Standards/WikiData/WD~Plasmodiidae,1929486|WD~Plasmodiidae,1929486]]'
+has_natural_reservoir: '[[_Standards/WikiData/WD~Anopheles_cruzii,13853984|WD~Anopheles_cruzii,13853984]]'
+taxon_synonym: '[[_Standards/WikiData/WD~Haemamoeba,109547871|WD~Haemamoeba,109547871]]'
+has_effect: '[[_Standards/WikiData/WD~malaria,12156|WD~malaria,12156]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
 Commons_category: Plasmodium
 taxon_name: Plasmodium
 image:

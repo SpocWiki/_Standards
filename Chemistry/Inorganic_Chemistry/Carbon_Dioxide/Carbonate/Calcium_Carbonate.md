@@ -81,37 +81,37 @@ DSSTOX_compound_identifier: DTXCID1016238
 RTECS_number: FF9335000
 Dewey_Decimal_Classification: 546.39324
 medical_condition_treated:
-- '[[_Standards/WikiData/WD~osteoporosis,165328]]'
-- '[[_Standards/WikiData/WD~peptic_ulcer_disease,172941]]'
-- '[[_Standards/WikiData/WD~gastroesophageal_reflux_disease,223591]]'
-- '[[_Standards/WikiData/WD~duodenal_ulcer,355170]]'
-- '[[_Standards/WikiData/WD~heartburn,537297]]'
-- '[[_Standards/WikiData/WD~indigestion,653971]]'
-- '[[_Standards/WikiData/WD~chronic_renal_insufficiency,736715]]'
-- '[[_Standards/WikiData/WD~hematochezia,1642049]]'
-- '[[_Standards/WikiData/WD~peptic_esophagitis,2184368]]'
-- '[[_Standards/WikiData/WD~gastric_ulcer,4003020]]'
+- '[[_Standards/WikiData/WD~osteoporosis,165328|WD~osteoporosis,165328]]'
+- '[[_Standards/WikiData/WD~peptic_ulcer_disease,172941|WD~peptic_ulcer_disease,172941]]'
+- '[[_Standards/WikiData/WD~gastroesophageal_reflux_disease,223591|WD~gastroesophageal_reflux_disease,223591]]'
+- '[[_Standards/WikiData/WD~duodenal_ulcer,355170|WD~duodenal_ulcer,355170]]'
+- '[[_Standards/WikiData/WD~heartburn,537297|WD~heartburn,537297]]'
+- '[[_Standards/WikiData/WD~indigestion,653971|WD~indigestion,653971]]'
+- '[[_Standards/WikiData/WD~chronic_renal_insufficiency,736715|WD~chronic_renal_insufficiency,736715]]'
+- '[[_Standards/WikiData/WD~hematochezia,1642049|WD~hematochezia,1642049]]'
+- '[[_Standards/WikiData/WD~peptic_esophagitis,2184368|WD~peptic_esophagitis,2184368]]'
+- '[[_Standards/WikiData/WD~gastric_ulcer,4003020|WD~gastric_ulcer,4003020]]'
 subject_has_role:
-- '[[_Standards/WikiData/WD~antacid,274083]]'
-- '[[_Standards/WikiData/WD~excipient,902638]]'
-crystal_system: '[[_Standards/WikiData/WD~trigonal_crystal_system,588274]]'
+- '[[_Standards/WikiData/WD~antacid,274083|WD~antacid,274083]]'
+- '[[_Standards/WikiData/WD~excipient,902638|WD~excipient,902638]]'
+crystal_system: '[[_Standards/WikiData/WD~trigonal_crystal_system,588274|WD~trigonal_crystal_system,588274]]'
 active_ingredient_in:
-- '[[_Standards/WikiData/WD~Calcichew,2514011]]'
-- '[[_Standards/WikiData/WD~Tums,7852695]]'
+- '[[_Standards/WikiData/WD~Calcichew,2514011|WD~Calcichew,2514011]]'
+- '[[_Standards/WikiData/WD~Tums,7852695|WD~Tums,7852695]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~calcium_salt,4427704]]'
-- '[[_Standards/WikiData/WD~carbonate_salt,56810798]]'
-associated_hazard: '[[_Standards/WikiData/WD~calcium_carbonate_exposure,21173346]]'
-has_effect: '[[_Standards/WikiData/WD~calcium_carbonate_exposure,21173346]]'
-safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[_Standards/WikiData/WD~calcium_salt,4427704|WD~calcium_salt,4427704]]'
+- '[[_Standards/WikiData/WD~carbonate_salt,56810798|WD~carbonate_salt,56810798]]'
+associated_hazard: '[[_Standards/WikiData/WD~calcium_carbonate_exposure,21173346|WD~calcium_carbonate_exposure,21173346]]'
+has_effect: '[[_Standards/WikiData/WD~calcium_carbonate_exposure,21173346|WD~calcium_carbonate_exposure,21173346]]'
+safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288|WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171|WD~type_of_chemical_entity,113145171]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 mass: 99.947335
 has_part_s_:
-- '[[_Standards/WikiData/WD~carbon,623]]'
-- '[[_Standards/WikiData/WD~oxygen,629]]'
-- '[[_Standards/WikiData/WD~calcium,706]]'
-has_use: '[[_Standards/WikiData/WD~medication,12140]]'
+- '[[_Standards/WikiData/WD~carbon,623|WD~carbon,623]]'
+- '[[_Standards/WikiData/WD~oxygen,629|WD~oxygen,629]]'
+- '[[_Standards/WikiData/WD~calcium,706|WD~calcium,706]]'
+has_use: '[[_Standards/WikiData/WD~medication,12140|WD~medication,12140]]'
 vapor_pressure: 0
 time_weighted_average_exposure_limit:
 - 10

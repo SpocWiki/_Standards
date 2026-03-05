@@ -83,24 +83,24 @@ aliases:
 - 염산
 has_id_wikidata: Q2409
 has_use:
-- '[[_Standards/WikiData/WD~food_additive,189567]]'
-- '[[_Standards/WikiData/WD~acidity_regulator,898753]]'
-different_from: '[[_Standards/WikiData/WD~hydrogen_chloride,211086]]'
+- '[[_Standards/WikiData/WD~food_additive,189567|WD~food_additive,189567]]'
+- '[[_Standards/WikiData/WD~acidity_regulator,898753|WD~acidity_regulator,898753]]'
+different_from: '[[_Standards/WikiData/WD~hydrogen_chloride,211086|WD~hydrogen_chloride,211086]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~hydrogen_chloride,211086]]'
-- '[[_Standards/WikiData/WD~water,283]]'
+- '[[_Standards/WikiData/WD~hydrogen_chloride,211086|WD~hydrogen_chloride,211086]]'
+- '[[_Standards/WikiData/WD~water,283|WD~water,283]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Basil_Valentine,810169]]'
-- '[[_Standards/WikiData/WD~Mary_the_Jewess,7499]]'
-instance_of: '[[_Standards/WikiData/WD~aqueous_solution,906356]]'
-subclass_of: '[[_Standards/WikiData/WD~hydrohalic_acid,12018897]]'
-safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
+- '[[_Standards/WikiData/WD~Basil_Valentine,810169|WD~Basil_Valentine,810169]]'
+- '[[_Standards/WikiData/WD~Mary_the_Jewess,7499|WD~Mary_the_Jewess,7499]]'
+instance_of: '[[_Standards/WikiData/WD~aqueous_solution,906356|WD~aqueous_solution,906356]]'
+subclass_of: '[[_Standards/WikiData/WD~hydrohalic_acid,12018897|WD~hydrohalic_acid,12018897]]'
+safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288|WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
 melting_point:
 - -114.18
 - -30

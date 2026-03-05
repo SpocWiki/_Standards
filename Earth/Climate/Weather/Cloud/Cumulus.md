@@ -44,9 +44,9 @@ aliases:
 - 積雲
 - 적운
 has_id_wikidata: Q14189
-instance_of: '[[_Standards/WikiData/WD~cloud_type,1840368]]'
-subclass_of: '[[_Standards/WikiData/WD~low_level_cloud,2784655]]'
-facet_of: '[[_Standards/WikiData/WD~international_cloud_classification,3281195]]'
+instance_of: '[[_Standards/WikiData/WD~cloud_type,1840368|WD~cloud_type,1840368]]'
+subclass_of: '[[_Standards/WikiData/WD~low_level_cloud,2784655|WD~low_level_cloud,2784655]]'
+facet_of: '[[_Standards/WikiData/WD~international_cloud_classification,3281195|WD~international_cloud_classification,3281195]]'
 OmegaWiki_Defined_Meaning: 921080
 Commons_gallery: Cumulus
 icon: http://commons.wikimedia.org/wiki/Special:FilePath/Clouds%20CL%201.svg

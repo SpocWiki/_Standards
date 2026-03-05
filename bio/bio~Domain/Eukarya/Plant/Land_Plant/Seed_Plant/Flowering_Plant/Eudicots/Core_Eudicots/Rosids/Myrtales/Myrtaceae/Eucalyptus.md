@@ -77,29 +77,29 @@ taxon_common_name:
 - 桉属
 - gum
 - eucaliptus
-has_fruit_type: '[[_Standards/WikiData/WD~capsule,147768]]'
-taxonomic_type: '[[_Standards/WikiData/WD~Eucalyptus_obliqua,602226]]'
+has_fruit_type: '[[_Standards/WikiData/WD~capsule,147768|WD~capsule,147768]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Eucalyptus_obliqua,602226|WD~Eucalyptus_obliqua,602226]]'
 described_by_source:
-- '[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_53(1),112869448]]'
-different_from: '[[_Standards/WikiData/WD~Q1373653,1373653]]'
-parent_taxon: '[[_Standards/WikiData/WD~Eucalypteae,13399983]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
+- '[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_53(1),112869448|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_53(1),112869448]]'
+different_from: '[[_Standards/WikiData/WD~Q1373653,1373653|WD~Q1373653,1373653]]'
+parent_taxon: '[[_Standards/WikiData/WD~Eucalypteae,13399983|WD~Eucalypteae,13399983]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615|WD~WikiProject_Invasion_Biology,56241615]]'
 taxon_synonym:
-- '[[_Standards/WikiData/WD~Eudesmia,87151634]]'
-- '[[_Standards/WikiData/WD~Symphyomyrtus,87169454]]'
-- '[[_Standards/WikiData/WD~Aromadendrum,97011631]]'
+- '[[_Standards/WikiData/WD~Eudesmia,87151634|WD~Eudesmia,87151634]]'
+- '[[_Standards/WikiData/WD~Symphyomyrtus,87169454|WD~Symphyomyrtus,87169454]]'
+- '[[_Standards/WikiData/WD~Aromadendrum,97011631|WD~Aromadendrum,97011631]]'
 this_taxon_is_source_of:
-- '[[_Standards/WikiData/WD~Eucalyptus_gum,104212234]]'
-- '[[_Standards/WikiData/WD~eucalyptus,118475713]]'
-subclass_of: '[[_Standards/WikiData/WD~tree,10884]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+- '[[_Standards/WikiData/WD~Eucalyptus_gum,104212234|WD~Eucalyptus_gum,104212234]]'
+- '[[_Standards/WikiData/WD~eucalyptus,118475713|WD~eucalyptus,118475713]]'
+subclass_of: '[[_Standards/WikiData/WD~tree,10884|WD~tree,10884]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
 ITIS_TSN: 27187
 OmegaWiki_Defined_Meaning: 1092464
 image:

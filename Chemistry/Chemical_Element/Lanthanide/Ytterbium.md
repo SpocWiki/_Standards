@@ -89,10 +89,10 @@ chemical_formula: Yb
 Commons_category: Ytterbium
 Commons_gallery: Ytterbium
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Jean_Charles_Galissard_de_Marignac,124045]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Jean_Charles_Galissard_de_Marignac,124045|WD~Jean_Charles_Galissard_de_Marignac,124045]]'
 DSSTOX_compound_identifier: DTXCID2026993
 EC_number: 231-173-2
 electronegativity: 1.1
@@ -101,26 +101,26 @@ Gmelin_number: 16320
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ytterbium%20element.jpg
 InChI: InChI=1S/Yb
 InChIKey: NAWDYIZEMPQZHO-UHFFFAOYSA-N
-instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
+instance_of: '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 ionic_radius:
 - 0.99
 - 1.02
 - 1.04
 - 1.14
 made_from_material:
-- '[[_Standards/WikiData/WD~hingganite-(Yb),3785712]]'
-- '[[_Standards/WikiData/WD~keiviite-(Yb),3814344]]'
-- '[[_Standards/WikiData/WD~xenotime-(Yb),4021784]]'
-- '[[_Standards/WikiData/WD~samarskite-(Yb),19861251]]'
+- '[[_Standards/WikiData/WD~hingganite-(Yb),3785712|WD~hingganite-(Yb),3785712]]'
+- '[[_Standards/WikiData/WD~keiviite-(Yb),3814344|WD~keiviite-(Yb),3814344]]'
+- '[[_Standards/WikiData/WD~xenotime-(Yb),4021784|WD~xenotime-(Yb),4021784]]'
+- '[[_Standards/WikiData/WD~samarskite-(Yb),19861251|WD~samarskite-(Yb),19861251]]'
 mass: 173.045
 MeSH_tree_code:
 - D01.268.558.362.992
 - D01.552.550.399.992
-named_after: '[[_Standards/WikiData/WD~Ytterby_mine,631733]]'
+named_after: '[[_Standards/WikiData/WD~Ytterby_mine,631733|WD~Ytterby_mine,631733]]'
 OmegaWiki_Defined_Meaning: 370462
 part_of:
-- '[[_Standards/WikiData/WD~period_6,239813]]'
-- '[[_Standards/WikiData/WD~lanthanide,19569]]'
+- '[[_Standards/WikiData/WD~period_6,239813|WD~period_6,239813]]'
+- '[[_Standards/WikiData/WD~lanthanide,19569|WD~lanthanide,19569]]'
 PubChem_CID: 23992
 SpocWebEntityId: 21966
 time_of_discovery_or_invention: 1878
@@ -310,9 +310,9 @@ dv_has_:
         kj_:
           mol: 128.9
 dv_is_:
-  part_of: '[[../Lanthanide]]'
+  part_of: '[[../Lanthanide|Lanthanide]]'
   same_as:
-  - '[[../../../WikiData/WD~Ytterbium,1855]]'
+  - '[[../../../WikiData/WD~Ytterbium,1855|WD~Ytterbium,1855]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Lanthanide/Ytterbium|Ytterbium]]'
   - '[[/_public/Chemistry/Chemical_Element/Lanthanide/Ytterbium.public|Ytterbium.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Lanthanide/Ytterbium.internal|Ytterbium.internal]]'
@@ -321,7 +321,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Chemical_Element/Lanthanide/Ytterbium.personal|Ytterbium.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Lanthanide/Ytterbium.secret|Ytterbium.secret]]'
 dv_has_name_group: Lanthanide-Group
-dv_is_part_of: '[[../Lanthanide]]'
+dv_is_part_of: '[[../Lanthanide|Lanthanide]]'
 dv_has_name_en: Ytterbium
 dv_has_name_de: Ytterbium
 dv_has_value_for_weight_u: 173.04
@@ -340,7 +340,7 @@ dv_has_value_for_energy_form_kj_mol: 128.9
 dv_has_number_of_period: 6
 dv_has_number_of_group: 36
 dv_is_same_as:
-- '[[../../../WikiData/WD~Ytterbium,1855]]'
+- '[[../../../WikiData/WD~Ytterbium,1855|WD~Ytterbium,1855]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Lanthanide/Ytterbium|Ytterbium]]'
 - '[[/_public/Chemistry/Chemical_Element/Lanthanide/Ytterbium.public|Ytterbium.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Lanthanide/Ytterbium.internal|Ytterbium.internal]]'
@@ -385,7 +385,7 @@ has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol`
 has_number_of_period = `=this.dv_has_number_of_period` 
 has_number_of_group = `=this.dv_has_number_of_group` 
 
-#is_/same_as :: [[../../../WikiData/WD~Ytterbium,1855]] 
+#is_/same_as :: [[../../../WikiData/WD~Ytterbium,1855|WD~Ytterbium,1855]] 
 
 
 ## #has_/text_of_/abstract 

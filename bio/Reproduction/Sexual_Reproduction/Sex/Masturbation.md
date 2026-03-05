@@ -102,19 +102,19 @@ aliases:
 - 자위행위
 has_id_wikidata: Q8396
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~onanism,2049523]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_masturbation,5868175]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Masturbation,15482326]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~onanism,2049523|WD~onanism,2049523]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_masturbation,5868175|WD~history_of_masturbation,5868175]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Masturbation,15482326|WD~Template_Masturbation,15482326]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~single_organism_process,22269530]]'
-- '[[_Standards/WikiData/WD~non_reproductive_sexual_behavior_in_animals,23807917]]'
-- '[[_Standards/WikiData/WD~human_sexual_behavior,608]]'
+- '[[_Standards/WikiData/WD~single_organism_process,22269530|WD~single_organism_process,22269530]]'
+- '[[_Standards/WikiData/WD~non_reproductive_sexual_behavior_in_animals,23807917|WD~non_reproductive_sexual_behavior_in_animals,23807917]]'
+- '[[_Standards/WikiData/WD~human_sexual_behavior,608|WD~human_sexual_behavior,608]]'
 Library_of_Congress_Classification:
 - HQ447
 - BT708.5

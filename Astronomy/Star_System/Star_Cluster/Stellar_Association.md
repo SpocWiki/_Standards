@@ -44,11 +44,11 @@ aliases:
 - 星協
 - 성협
 has_id_wikidata: Q736194
-subclass_of: '[[_Standards/WikiData/WD~star_cluster,168845]]'
-instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-part_of: '[[_Standards/WikiData/WD~galaxy,318]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~star,523]]'
+subclass_of: '[[_Standards/WikiData/WD~star_cluster,168845|WD~star_cluster,168845]]'
+instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909|WD~astronomical_object_type,17444909]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+part_of: '[[_Standards/WikiData/WD~galaxy,318|WD~galaxy,318]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~star,523|WD~star,523]]'
 dv_is_:
   same_as:
   - '[[../../../WikiData/WD~Stellar_association,736194|WD~Stellar_association,736194]]'

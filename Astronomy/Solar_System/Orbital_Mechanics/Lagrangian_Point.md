@@ -75,19 +75,19 @@ aliases:
 - 拉格朗日點
 - 라그랑주 점
 has_id_wikidata: Q190463
-named_after: '[[_Standards/WikiData/WD~Joseph_Louis_Lagrange,80222]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~libration,218673]]'
+named_after: '[[_Standards/WikiData/WD~Joseph_Louis_Lagrange,80222|WD~Joseph_Louis_Lagrange,80222]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~libration,218673|WD~libration,218673]]'
 has_use:
-- '[[_Standards/WikiData/WD~interplanetary_transport_network,1529884]]'
-- '[[_Standards/WikiData/WD~Lagrange_point_colonization,5677287]]'
-has_list: '[[_Standards/WikiData/WD~list_of_objects_at_Lagrangian_points,3243130]]'
+- '[[_Standards/WikiData/WD~interplanetary_transport_network,1529884|WD~interplanetary_transport_network,1529884]]'
+- '[[_Standards/WikiData/WD~Lagrange_point_colonization,5677287|WD~Lagrange_point_colonization,5677287]]'
+has_list: '[[_Standards/WikiData/WD~list_of_objects_at_Lagrangian_points,3243130|WD~list_of_objects_at_Lagrangian_points,3243130]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~L2,15725508]]'
-- '[[_Standards/WikiData/WD~L4,15726290]]'
-- '[[_Standards/WikiData/WD~L5,15726296]]'
-- '[[_Standards/WikiData/WD~L1,15881550]]'
-- '[[_Standards/WikiData/WD~L3,15881567]]'
-subclass_of: '[[_Standards/WikiData/WD~point_in_physical_space,122683347]]'
+- '[[_Standards/WikiData/WD~L2,15725508|WD~L2,15725508]]'
+- '[[_Standards/WikiData/WD~L4,15726290|WD~L4,15726290]]'
+- '[[_Standards/WikiData/WD~L5,15726296|WD~L5,15726296]]'
+- '[[_Standards/WikiData/WD~L1,15881550|WD~L1,15881550]]'
+- '[[_Standards/WikiData/WD~L3,15881567|WD~L3,15881567]]'
+subclass_of: '[[_Standards/WikiData/WD~point_in_physical_space,122683347|WD~point_in_physical_space,122683347]]'
 Wikidata_property: Lagrangian point
 schematic:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Lagrangepunten%201%20en%202.svg

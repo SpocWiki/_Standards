@@ -35,9 +35,9 @@ Tag Instances like this:
 
 Ultrasound imaging.
 
-#has_/parent_class :: [[../MedicalImagingTechnique]]  
+#has_/parent_class :: [[../MedicalImagingTechnique|MedicalImagingTechnique]]  
 
-#is_/enum_of :: [[../MedicalImagingTechnique]]  
+#is_/enum_of :: [[../MedicalImagingTechnique|MedicalImagingTechnique]]  
 
 ## Confidential Links & Embeds: 
 

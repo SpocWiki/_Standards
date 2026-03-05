@@ -94,19 +94,19 @@ aliases:
 - 폭풍
 has_id_wikidata: Q81054
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~atmospheric_circulation,2615451]]'
-- '[[_Standards/WikiData/WD~wind,8094]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_storm,13034016]]'
-different_from: '[[_Standards/WikiData/WD~Q54895074,54895074]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_meteorological_phenomenon,118733587]]'
-part_of: '[[_Standards/WikiData/WD~weather,11663]]'
+- '[[_Standards/WikiData/WD~atmospheric_circulation,2615451|WD~atmospheric_circulation,2615451]]'
+- '[[_Standards/WikiData/WD~wind,8094|WD~wind,8094]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_storm,13034016|WD~Template_Infobox_storm,13034016]]'
+different_from: '[[_Standards/WikiData/WD~Q54895074,54895074|WD~Q54895074,54895074]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_meteorological_phenomenon,118733587|WD~type_of_meteorological_phenomenon,118733587]]'
+part_of: '[[_Standards/WikiData/WD~weather,11663|WD~weather,11663]]'
 OmegaWiki_Defined_Meaning: 3635
 booru_tag: storm
 Danbooru_tag: storm

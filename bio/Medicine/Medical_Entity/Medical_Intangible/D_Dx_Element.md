@@ -34,7 +34,7 @@ Tag Instances like this:
 
 An alternative, closely-related condition typically considered later in the differential diagnosis process along with the signs that are used to distinguish it.
 
-#has_/parent_class :: [[../MedicalIntangible]]  
+#has_/parent_class :: [[../MedicalIntangible|MedicalIntangible]]  
 
 #has_/properties :: [ additionalType, alternateName, code, description, diagnosis, disambiguatingDescription, distinguishingSign, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ]  
 

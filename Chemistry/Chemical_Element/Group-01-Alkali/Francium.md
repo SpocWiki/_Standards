@@ -96,20 +96,20 @@ CAS_Registry_Number: 7440-73-5
 chemical_formula: Fr
 Commons_category: Francium
 Commons_gallery: Francium
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
 Dewey_Decimal_Classification: 546.386
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Marguerite_Perey,241822]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Marguerite_Perey,241822|WD~Marguerite_Perey,241822]]'
 DSSTOX_compound_identifier: DTXCID20147885
 electronegativity: 0.7
 electron_configuration: '[Rn] 7s¹'
 element_symbol: Fr
 Gmelin_number: 40458
-has_characteristic: '[[_Standards/WikiData/WD~radioactivity,11448]]'
+has_characteristic: '[[_Standards/WikiData/WD~radioactivity,11448|WD~radioactivity,11448]]'
 InChI: InChI=1S/Fr
 InChIKey: KLMCZVJOEAUDNE-UHFFFAOYSA-N
-instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
+instance_of: '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 ionic_radius: 1.8
-location_of_discovery: '[[_Standards/WikiData/WD~France,142]]'
+location_of_discovery: '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Fr-TableImage.png
 MeSH_tree_code:
 - D01.268.271.380
@@ -118,22 +118,22 @@ MeSH_tree_code:
 - D01.496.749.305.380
 - D01.552.528.328
 - D01.552.544.277
-named_after: '[[_Standards/WikiData/WD~France,142]]'
+named_after: '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
 OmegaWiki_Defined_Meaning: 159016
 oxidation_state: 1
 part_of:
-- '[[_Standards/WikiData/WD~period_7,244979]]'
-- '[[_Standards/WikiData/WD~group_1,10801007]]'
-- '[[_Standards/WikiData/WD~alkali_metal,19557]]'
+- '[[_Standards/WikiData/WD~period_7,244979|WD~period_7,244979]]'
+- '[[_Standards/WikiData/WD~group_1,10801007|WD~group_1,10801007]]'
+- '[[_Standards/WikiData/WD~alkali_metal,19557|WD~alkali_metal,19557]]'
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20154.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-francium.wav
 PubChem_CID: 6328145
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20087%20francium.png
 SpocWebEntityId: 21982
 subclass_of:
-- '[[_Standards/WikiData/WD~s-block,208106]]'
-- '[[_Standards/WikiData/WD~metal,11426]]'
-- '[[_Standards/WikiData/WD~alkali_metal,19557]]'
+- '[[_Standards/WikiData/WD~s-block,208106|WD~s-block,208106]]'
+- '[[_Standards/WikiData/WD~metal,11426|WD~metal,11426]]'
+- '[[_Standards/WikiData/WD~alkali_metal,19557|WD~alkali_metal,19557]]'
 time_of_discovery_or_invention: 1939
 type: Element
 UMLS_CUI: C0016678
@@ -340,7 +340,7 @@ dv_has_:
           mol: 0
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Francium,671]]'
+  - '[[../../../WikiData/WD~Francium,671|WD~Francium,671]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Francium|Francium]]'
   - '[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Francium.public|Francium.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Francium.internal|Francium.internal]]'
@@ -348,11 +348,11 @@ dv_is_:
   - '[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Francium.private|Francium.private]]'
   - '[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Francium.personal|Francium.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Francium.secret|Francium.secret]]'
-  part_of: '[[../Group-01-Alkali]]'
+  part_of: '[[../Group-01-Alkali|Group-01-Alkali]]'
 dv_has_name_en: Francium
 dv_has_name_de: Francium
 dv_is_same_as:
-- '[[../../../WikiData/WD~Francium,671]]'
+- '[[../../../WikiData/WD~Francium,671|WD~Francium,671]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Francium|Francium]]'
 - '[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Francium.public|Francium.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Francium.internal|Francium.internal]]'
@@ -361,7 +361,7 @@ dv_is_same_as:
 - '[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Francium.personal|Francium.personal]]'
 - '[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Francium.secret|Francium.secret]]'
 dv_has_name_group: Group-01-Alkali
-dv_is_part_of: '[[../Group-01-Alkali]]'
+dv_is_part_of: '[[../Group-01-Alkali|Group-01-Alkali]]'
 dv_has_value_for_weight_u: 223
 dv_has_value_for_radius: 0
 dv_has_value_for_volume_ccm_mol: 0
@@ -384,7 +384,7 @@ Unicode_character: 鍅
 
 # [[Francium]] 鍅 
 
-#is_/same_as :: [[../../../WikiData/WD~Francium,671]] 
+#is_/same_as :: [[../../../WikiData/WD~Francium,671|WD~Francium,671]] 
 
 #chemic/Element 
 has_name_group = `=this.dv_has_name_group` 

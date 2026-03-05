@@ -138,37 +138,37 @@ aliases:
 - "\U00010335\U00010339\U00010338\U0001033F\U00010343"
 has_id_wikidata: Q5880
 named_after:
-- '[[_Standards/WikiData/WD~scabbard,661140]]'
-- '[[_Standards/WikiData/WD~femininity,866081]]'
-- '[[_Standards/WikiData/WD~uterus,9612]]'
-- '[[_Standards/WikiData/WD~ship,11446]]'
-arterial_supply: '[[_Standards/WikiData/WD~uterine_artery,707674]]'
+- '[[_Standards/WikiData/WD~scabbard,661140|WD~scabbard,661140]]'
+- '[[_Standards/WikiData/WD~femininity,866081|WD~femininity,866081]]'
+- '[[_Standards/WikiData/WD~uterus,9612|WD~uterus,9612]]'
+- '[[_Standards/WikiData/WD~ship,11446|WD~ship,11446]]'
+arterial_supply: '[[_Standards/WikiData/WD~uterine_artery,707674|WD~uterine_artery,707674]]'
 part_of:
-- '[[_Standards/WikiData/WD~female_reproductive_system,844342]]'
-- '[[_Standards/WikiData/WD~vulva,2192288]]'
-anatomical_location: '[[_Standards/WikiData/WD~pelvic_cavity,1547362]]'
+- '[[_Standards/WikiData/WD~female_reproductive_system,844342|WD~female_reproductive_system,844342]]'
+- '[[_Standards/WikiData/WD~vulva,2192288|WD~vulva,2192288]]'
+anatomical_location: '[[_Standards/WikiData/WD~pelvic_cavity,1547362|WD~pelvic_cavity,1547362]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- "[[_Standards/WikiData/WD~Gray's_Anatomy_(20th_edition),19558994]]"
-connects_with: '[[_Standards/WikiData/WD~external_orifice_of_uterus,3885825]]'
-venous_drainage: '[[_Standards/WikiData/WD~vaginal_venous_plexus,3906673]]'
-different_from: '[[_Standards/WikiData/WD~human_vagina,4112929]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~human_vagina,4112929]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543|WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- "[[_Standards/WikiData/WD~Gray's_Anatomy_(20th_edition),19558994|WD~Gray's_Anatomy_(20th_edition),19558994]]"
+connects_with: '[[_Standards/WikiData/WD~external_orifice_of_uterus,3885825|WD~external_orifice_of_uterus,3885825]]'
+venous_drainage: '[[_Standards/WikiData/WD~vaginal_venous_plexus,3906673|WD~vaginal_venous_plexus,3906673]]'
+different_from: '[[_Standards/WikiData/WD~human_vagina,4112929|WD~human_vagina,4112929]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~human_vagina,4112929|WD~human_vagina,4112929]]'
 instance_of:
-- '[[_Standards/WikiData/WD~sex_organ,4620674]]'
-- '[[_Standards/WikiData/WD~organ_type,103812529]]'
-- '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]'
-lymphatic_drainage: '[[_Standards/WikiData/WD~internal_iliac_lymph_nodes,6047876]]'
-facet_of: "[[_Standards/WikiData/WD~women's_health,8031191]]"
-development_of_anatomical_structure: '[[_Standards/WikiData/WD~vagina_development,14902306]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828762,22828762]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
+- '[[_Standards/WikiData/WD~sex_organ,4620674|WD~sex_organ,4620674]]'
+- '[[_Standards/WikiData/WD~organ_type,103812529|WD~organ_type,103812529]]'
+- '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905|WD~class_of_anatomical_entity,112826905]]'
+lymphatic_drainage: '[[_Standards/WikiData/WD~internal_iliac_lymph_nodes,6047876|WD~internal_iliac_lymph_nodes,6047876]]'
+facet_of: "[[_Standards/WikiData/WD~women's_health,8031191|WD~women's_health,8031191]]"
+development_of_anatomical_structure: '[[_Standards/WikiData/WD~vagina_development,14902306|WD~vagina_development,14902306]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828762,22828762|WD~Q22828762,22828762]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720|WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~subdivision_of_oviduct,63492082]]'
-- '[[_Standards/WikiData/WD~organ_with_organ_cavity,66545296]]'
-- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]'
+- '[[_Standards/WikiData/WD~subdivision_of_oviduct,63492082|WD~subdivision_of_oviduct,63492082]]'
+- '[[_Standards/WikiData/WD~organ_with_organ_cavity,66545296|WD~organ_with_organ_cavity,66545296]]'
+- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975|WD~particular_anatomical_entity,112826975]]'
 OmegaWiki_Defined_Meaning: 7685
 Commons_gallery: Vagina
 TA98_Latin_term: vagina

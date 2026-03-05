@@ -148,37 +148,37 @@ MeSH_tree_code:
 - G08.686.867.500
 Krugosvet_article_archived_: nauka_i_tehnika/biologiya/GOMOSEKSUALNOST.html
 Baidu_Tieba_name: 同性恋
-named_by: '[[_Standards/WikiData/WD~Karl_Maria_Kertbeny,94382]]'
+named_by: '[[_Standards/WikiData/WD~Karl_Maria_Kertbeny,94382|WD~Karl_Maria_Kertbeny,94382]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~non_heterosexuality,339014]]'
-- '[[_Standards/WikiData/WD~monosexuality,1632385]]'
-- '[[_Standards/WikiData/WD~homoaffectivity,129446352]]'
+- '[[_Standards/WikiData/WD~non_heterosexuality,339014|WD~non_heterosexuality,339014]]'
+- '[[_Standards/WikiData/WD~monosexuality,1632385|WD~monosexuality,1632385]]'
+- '[[_Standards/WikiData/WD~homoaffectivity,129446352|WD~homoaffectivity,129446352]]'
 different_from:
-- '[[_Standards/WikiData/WD~homosociality,610757]]'
-- '[[_Standards/WikiData/WD~homoromantic,96187941]]'
+- '[[_Standards/WikiData/WD~homosociality,610757|WD~homosociality,610757]]'
+- '[[_Standards/WikiData/WD~homoromantic,96187941|WD~homoromantic,96187941]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Stanford_Encyclopedia_of_Philosophy,824553]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
-opposite_of: '[[_Standards/WikiData/WD~heterosexuality,1035954]]'
+- '[[_Standards/WikiData/WD~Stanford_Encyclopedia_of_Philosophy,824553|WD~Stanford_Encyclopedia_of_Philosophy,824553]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072|WD~Red_Blue_Translator,131935072]]'
+opposite_of: '[[_Standards/WikiData/WD~heterosexuality,1035954|WD~heterosexuality,1035954]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~male_homosexuality,2257941]]'
-- '[[_Standards/WikiData/WD~situational_sexual_behavior,2526300]]'
-- '[[_Standards/WikiData/WD~lesbianism,6649]]'
+- '[[_Standards/WikiData/WD~male_homosexuality,2257941|WD~male_homosexuality,2257941]]'
+- '[[_Standards/WikiData/WD~situational_sexual_behavior,2526300|WD~situational_sexual_behavior,2526300]]'
+- '[[_Standards/WikiData/WD~lesbianism,6649|WD~lesbianism,6649]]'
 named_after:
-- '[[_Standards/WikiData/WD~sexuality,3043188]]'
-- '[[_Standards/WikiData/WD~homo_,12539419]]'
-has_effect: '[[_Standards/WikiData/WD~same_sex_relationship,3242821]]'
+- '[[_Standards/WikiData/WD~sexuality,3043188|WD~sexuality,3043188]]'
+- '[[_Standards/WikiData/WD~homo_,12539419|WD~homo_,12539419]]'
+has_effect: '[[_Standards/WikiData/WD~same_sex_relationship,3242821|WD~same_sex_relationship,3242821]]'
 instance_of:
-- '[[_Standards/WikiData/WD~romantic_orientation,4688879]]'
-- '[[_Standards/WikiData/WD~sexual_orientation,17888]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~homsexualism,13601855]]'
+- '[[_Standards/WikiData/WD~romantic_orientation,4688879|WD~romantic_orientation,4688879]]'
+- '[[_Standards/WikiData/WD~sexual_orientation,17888|WD~sexual_orientation,17888]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~homsexualism,13601855|WD~homsexualism,13601855]]'
 on_focus_list_of_Wikimedia_project:
-- '[[_Standards/WikiData/WD~WikiProject_LGBTQ+_studies,15092984]]'
-- '[[_Standards/WikiData/WD~Wiki99_LGBT+,97285685]]'
-used_by: '[[_Standards/WikiData/WD~homosexual,25704084]]'
-follows: '[[_Standards/WikiData/WD~prehomosexual,27214016]]'
+- '[[_Standards/WikiData/WD~WikiProject_LGBTQ+_studies,15092984|WD~WikiProject_LGBTQ+_studies,15092984]]'
+- '[[_Standards/WikiData/WD~Wiki99_LGBT+,97285685|WD~Wiki99_LGBT+,97285685]]'
+used_by: '[[_Standards/WikiData/WD~homosexual,25704084|WD~homosexual,25704084]]'
+follows: '[[_Standards/WikiData/WD~prehomosexual,27214016|WD~prehomosexual,27214016]]'
 OmegaWiki_Defined_Meaning: 6741
 U_S_National_Archives_Identifier: 10640863
 subreddit: gay

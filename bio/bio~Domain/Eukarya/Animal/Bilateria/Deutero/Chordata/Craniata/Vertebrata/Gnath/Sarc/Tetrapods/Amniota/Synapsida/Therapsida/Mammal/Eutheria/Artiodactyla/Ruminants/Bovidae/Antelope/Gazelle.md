@@ -61,24 +61,24 @@ aliases:
 has_id_wikidata: Q190858
 title: Gazella
 described_by_source:
-- '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-parent_taxon: '[[_Standards/WikiData/WD~Antilopini,924023]]'
-different_from: '[[_Standards/WikiData/WD~gazelle,29001815]]'
-taxonomic_type: '[[_Standards/WikiData/WD~Capra_dorcas,109647099]]'
+- '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+parent_taxon: '[[_Standards/WikiData/WD~Antilopini,924023|WD~Antilopini,924023]]'
+different_from: '[[_Standards/WikiData/WD~gazelle,29001815|WD~gazelle,29001815]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Capra_dorcas,109647099|WD~Capra_dorcas,109647099]]'
 homonymous_taxon:
-- '[[_Standards/WikiData/WD~Gazella_Pallas,_1769,122352120]]'
-- '[[_Standards/WikiData/WD~Gazella_Lichtenstein,_1814,122352832]]'
-- '[[_Standards/WikiData/WD~Gazella_Rafinesque,_1815,122353006]]'
+- '[[_Standards/WikiData/WD~Gazella_Pallas,_1769,122352120|WD~Gazella_Pallas,_1769,122352120]]'
+- '[[_Standards/WikiData/WD~Gazella_Lichtenstein,_1814,122352832|WD~Gazella_Lichtenstein,_1814,122352832]]'
+- '[[_Standards/WikiData/WD~Gazella_Rafinesque,_1815,122353006|WD~Gazella_Rafinesque,_1815,122353006]]'
 taxon_synonym:
-- '[[_Standards/WikiData/WD~Gazella_Pallas,_1769,122352120]]'
-- '[[_Standards/WikiData/WD~Gazella_Lichtenstein,_1814,122352832]]'
-- '[[_Standards/WikiData/WD~Gazella_Rafinesque,_1815,122353006]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+- '[[_Standards/WikiData/WD~Gazella_Pallas,_1769,122352120|WD~Gazella_Pallas,_1769,122352120]]'
+- '[[_Standards/WikiData/WD~Gazella_Lichtenstein,_1814,122352832|WD~Gazella_Lichtenstein,_1814,122352832]]'
+- '[[_Standards/WikiData/WD~Gazella_Rafinesque,_1815,122353006|WD~Gazella_Rafinesque,_1815,122353006]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
 OmegaWiki_Defined_Meaning: 1018466
 ITIS_TSN: 624969
 image:

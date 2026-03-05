@@ -77,17 +77,17 @@ aliases:
 - 渴望
 - 희망
 has_id_wikidata: Q190507
-opposite_of: '[[_Standards/WikiData/WD~despair,1747066]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~hope,1812977]]'
+opposite_of: '[[_Standards/WikiData/WD~despair,1747066|WD~despair,1747066]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~hope,1812977|WD~hope,1812977]]'
 depicted_by:
-- '[[_Standards/WikiData/WD~Hope,3966503]]'
-- '[[_Standards/WikiData/WD~La_Speranza,131613715]]'
+- '[[_Standards/WikiData/WD~Hope,3966503|WD~Hope,3966503]]'
+- '[[_Standards/WikiData/WD~La_Speranza,131613715|WD~La_Speranza,131613715]]'
 different_from:
-- '[[_Standards/WikiData/WD~Speranza,18438730]]'
-- '[[_Standards/WikiData/WD~Nadzieja,20986466]]'
-- '[[_Standards/WikiData/WD~Q54895174,54895174]]'
-instance_of: '[[_Standards/WikiData/WD~positive_emotion,60539479]]'
-part_of: '[[_Standards/WikiData/WD~psychological_terminology,77468620]]'
+- '[[_Standards/WikiData/WD~Speranza,18438730|WD~Speranza,18438730]]'
+- '[[_Standards/WikiData/WD~Nadzieja,20986466|WD~Nadzieja,20986466]]'
+- '[[_Standards/WikiData/WD~Q54895174,54895174|WD~Q54895174,54895174]]'
+instance_of: '[[_Standards/WikiData/WD~positive_emotion,60539479|WD~positive_emotion,60539479]]'
+part_of: '[[_Standards/WikiData/WD~psychological_terminology,77468620|WD~psychological_terminology,77468620]]'
 Commons_category: Hope
 OmegaWiki_Defined_Meaning: 161765
 IMDb_keyword: hope

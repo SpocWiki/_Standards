@@ -62,14 +62,14 @@ aliases:
 - 酸碱理论
 - 酸鹼反應
 has_id_wikidata: Q378751
-facet_of: '[[_Standards/WikiData/WD~acid_base_theory,201539]]'
-has_characteristic: '[[_Standards/WikiData/WD~acid_base_homeostasis,3275718]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Acids_and_bases,10972149]]'
-subclass_of: '[[_Standards/WikiData/WD~chemical_reaction,36534]]'
+facet_of: '[[_Standards/WikiData/WD~acid_base_theory,201539|WD~acid_base_theory,201539]]'
+has_characteristic: '[[_Standards/WikiData/WD~acid_base_homeostasis,3275718|WD~acid_base_homeostasis,3275718]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Acids_and_bases,10972149|WD~Template_Acids_and_bases,10972149]]'
+subclass_of: '[[_Standards/WikiData/WD~chemical_reaction,36534|WD~chemical_reaction,36534]]'
 Commons_category: Acid-base reactions
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Acid–base_reaction,378751]]'
+  - '[[../../../WikiData/WD~Acid–base_reaction,378751|WD~Acid–base_reaction,378751]]'
   - '[[/_Standards/Chemistry/Inorganic_Chemistry/Acid/Acid–Base_reaction|Acid–Base_reaction]]'
   - '[[/_public/Chemistry/Inorganic_Chemistry/Acid/Acid–Base_reaction.public|Acid–Base_reaction.public]]'
   - '[[/_internal/Chemistry/Inorganic_Chemistry/Acid/Acid–Base_reaction.internal|Acid–Base_reaction.internal]]'
@@ -78,7 +78,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Inorganic_Chemistry/Acid/Acid–Base_reaction.personal|Acid–Base_reaction.personal]]'
   - '[[/_secret/Chemistry/Inorganic_Chemistry/Acid/Acid–Base_reaction.secret|Acid–Base_reaction.secret]]'
 dv_is_same_as:
-- '[[../../../WikiData/WD~Acid–base_reaction,378751]]'
+- '[[../../../WikiData/WD~Acid–base_reaction,378751|WD~Acid–base_reaction,378751]]'
 - '[[/_Standards/Chemistry/Inorganic_Chemistry/Acid/Acid–Base_reaction|Acid–Base_reaction]]'
 - '[[/_public/Chemistry/Inorganic_Chemistry/Acid/Acid–Base_reaction.public|Acid–Base_reaction.public]]'
 - '[[/_internal/Chemistry/Inorganic_Chemistry/Acid/Acid–Base_reaction.internal|Acid–Base_reaction.internal]]'
@@ -155,7 +155,7 @@ dv_has_:
 
 # [[Acid–Base_reaction]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Acid–base_reaction,378751]] 
+#is_/same_as :: [[../../../WikiData/WD~Acid–base_reaction,378751|WD~Acid–base_reaction,378751]] 
 
 ## #has_/text_of_/abstract 
 

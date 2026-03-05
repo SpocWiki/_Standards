@@ -52,13 +52,13 @@ aliases:
 - 菌絲體
 has_id_wikidata: Q326228
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-instance_of: '[[_Standards/WikiData/WD~fungal_structure,56883667]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764|WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+instance_of: '[[_Standards/WikiData/WD~fungal_structure,56883667|WD~fungal_structure,56883667]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Armillaria%20spp%20Mycelia%20Mats.jpg
 MeSH_tree_code: A19.687
 UMLS_CUI: C0949695

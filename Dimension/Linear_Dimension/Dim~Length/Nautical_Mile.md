@@ -74,10 +74,10 @@ aliases:
 - 海里
 - 해리
 has_id_wikidata: Q93318
-instance_of: '[[_Standards/WikiData/WD~unit_of_length,1978718]]'
+instance_of: '[[_Standards/WikiData/WD~unit_of_length,1978718|WD~unit_of_length,1978718]]'
 different_from:
-- '[[_Standards/WikiData/WD~international_nautical_mile,100036106]]'
-- '[[_Standards/WikiData/WD~British_Imperial_nautical_mile,100158603]]'
+- '[[_Standards/WikiData/WD~international_nautical_mile,100036106|WD~international_nautical_mile,100036106]]'
+- '[[_Standards/WikiData/WD~British_Imperial_nautical_mile,100158603|WD~British_Imperial_nautical_mile,100158603]]'
 conversion_to_standard_unit:
 - 1.15077944802
 - 0.999330901556
@@ -86,7 +86,7 @@ conversion_to_standard_unit:
 - 6076.116
 - 72913.39
 - 0.9993611
-measured_physical_quantity: '[[_Standards/WikiData/WD~length,36253]]'
+measured_physical_quantity: '[[_Standards/WikiData/WD~length,36253|WD~length,36253]]'
 conversion_to_SI_unit: 1852
 unit_symbol:
 - M

@@ -45,15 +45,15 @@ aliases:
 - 嗅觉系统
 - 후각 기관
 has_id_wikidata: Q1054094
-instance_of: '[[_Standards/WikiData/WD~organ_system,188193]]'
+instance_of: '[[_Standards/WikiData/WD~organ_system,188193|WD~organ_system,188193]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-different_from: '[[_Standards/WikiData/WD~sense_of_smell,1541064]]'
-facet_of: '[[_Standards/WikiData/WD~sense_of_smell,1541064]]'
-has_use: '[[_Standards/WikiData/WD~sense_of_smell,1541064]]'
-subclass_of: '[[_Standards/WikiData/WD~heterogeneous_anatomical_cluster,66561296]]'
-studied_by: '[[_Standards/WikiData/WD~rhinotopy,115756137]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+different_from: '[[_Standards/WikiData/WD~sense_of_smell,1541064|WD~sense_of_smell,1541064]]'
+facet_of: '[[_Standards/WikiData/WD~sense_of_smell,1541064|WD~sense_of_smell,1541064]]'
+has_use: '[[_Standards/WikiData/WD~sense_of_smell,1541064|WD~sense_of_smell,1541064]]'
+subclass_of: '[[_Standards/WikiData/WD~heterogeneous_anatomical_cluster,66561296|WD~heterogeneous_anatomical_cluster,66561296]]'
+studied_by: '[[_Standards/WikiData/WD~rhinotopy,115756137|WD~rhinotopy,115756137]]'
 Commons_category: Olfactory system
 dv_has_:
   name_:

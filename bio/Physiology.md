@@ -100,37 +100,37 @@ aliases:
 - 케추아어
 has_id_wikidata: Q5218
 instance_of:
-- '[[_Standards/WikiData/WD~macrolanguage,152559]]'
-- '[[_Standards/WikiData/WD~modern_language,1288568]]'
-- '[[_Standards/WikiData/WD~human_language,20162172]]'
-- '[[_Standards/WikiData/WD~language_family,25295]]'
-- '[[_Standards/WikiData/WD~natural_language,33742]]'
+- '[[_Standards/WikiData/WD~macrolanguage,152559|WD~macrolanguage,152559]]'
+- '[[_Standards/WikiData/WD~modern_language,1288568|WD~modern_language,1288568]]'
+- '[[_Standards/WikiData/WD~human_language,20162172|WD~human_language,20162172]]'
+- '[[_Standards/WikiData/WD~language_family,25295|WD~language_family,25295]]'
+- '[[_Standards/WikiData/WD~natural_language,33742|WD~natural_language,33742]]'
 linguistic_typology:
-- '[[_Standards/WikiData/WD~agglutinative_language,171263]]'
-- '[[_Standards/WikiData/WD~subject_object_verb,539808]]'
+- '[[_Standards/WikiData/WD~agglutinative_language,171263|WD~agglutinative_language,171263]]'
+- '[[_Standards/WikiData/WD~subject_object_verb,539808|WD~subject_object_verb,539808]]'
 has_grammatical_case:
-- '[[_Standards/WikiData/WD~abessive_case,319822]]'
-- '[[_Standards/WikiData/WD~comitative_case,838581]]'
-- '[[_Standards/WikiData/WD~causal_case,2943136]]'
-- '[[_Standards/WikiData/WD~comparative_case,5155633]]'
-language_regulatory_body: '[[_Standards/WikiData/WD~Academia_Mayor_de_la_Lengua_Quechua,337244]]'
+- '[[_Standards/WikiData/WD~abessive_case,319822|WD~abessive_case,319822]]'
+- '[[_Standards/WikiData/WD~comitative_case,838581|WD~comitative_case,838581]]'
+- '[[_Standards/WikiData/WD~causal_case,2943136|WD~causal_case,2943136]]'
+- '[[_Standards/WikiData/WD~comparative_case,5155633|WD~comparative_case,5155633]]'
+language_regulatory_body: '[[_Standards/WikiData/WD~Academia_Mayor_de_la_Lengua_Quechua,337244|WD~Academia_Mayor_de_la_Lengua_Quechua,337244]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Northern_Quichua,1740805]]'
-- '[[_Standards/WikiData/WD~Ancash_Quechua,35104]]'
-- '[[_Standards/WikiData/WD~Cajamarca_Quechua,35112]]'
-- '[[_Standards/WikiData/WD~Southern_Quechua,36806]]'
-follows: '[[_Standards/WikiData/WD~Proto_Quechua,5575757]]'
+- '[[_Standards/WikiData/WD~Northern_Quichua,1740805|WD~Northern_Quichua,1740805]]'
+- '[[_Standards/WikiData/WD~Ancash_Quechua,35104|WD~Ancash_Quechua,35104]]'
+- '[[_Standards/WikiData/WD~Cajamarca_Quechua,35112|WD~Cajamarca_Quechua,35112]]'
+- '[[_Standards/WikiData/WD~Southern_Quechua,36806|WD~Southern_Quechua,36806]]'
+follows: '[[_Standards/WikiData/WD~Proto_Quechua,5575757|WD~Proto_Quechua,5575757]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~Quechuan,12634451]]'
-- '[[_Standards/WikiData/WD~Indigenous_languages_of_the_Americas,51739]]'
+- '[[_Standards/WikiData/WD~Quechuan,12634451|WD~Quechuan,12634451]]'
+- '[[_Standards/WikiData/WD~Indigenous_languages_of_the_Americas,51739|WD~Indigenous_languages_of_the_Americas,51739]]'
 country:
-- '[[_Standards/WikiData/WD~Argentina,414]]'
-- '[[_Standards/WikiData/WD~Peru,419]]'
-- '[[_Standards/WikiData/WD~Colombia,739]]'
-- '[[_Standards/WikiData/WD~Ecuador,736]]'
-- '[[_Standards/WikiData/WD~Bolivia,750]]'
-indigenous_to: '[[_Standards/WikiData/WD~Peru,419]]'
-writing_system: '[[_Standards/WikiData/WD~Latin_script,8229]]'
+- '[[_Standards/WikiData/WD~Argentina,414|WD~Argentina,414]]'
+- '[[_Standards/WikiData/WD~Peru,419|WD~Peru,419]]'
+- '[[_Standards/WikiData/WD~Colombia,739|WD~Colombia,739]]'
+- '[[_Standards/WikiData/WD~Ecuador,736|WD~Ecuador,736]]'
+- '[[_Standards/WikiData/WD~Bolivia,750|WD~Bolivia,750]]'
+indigenous_to: '[[_Standards/WikiData/WD~Peru,419|WD~Peru,419]]'
+writing_system: '[[_Standards/WikiData/WD~Latin_script,8229|WD~Latin_script,8229]]'
 number_of_speakers_writers_or_signers: 8900000
 IAB_code: 1162
 OmegaWiki_Defined_Meaning: 393047
@@ -306,7 +306,7 @@ dv_has_:
 
 # [[Physiology]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~physiology,521]] 
+#is_/same_as :: [[_Standards/WikiData/WD~physiology,521|WD~physiology,521]] 
 
 ## #has_/text_of_/abstract 
 

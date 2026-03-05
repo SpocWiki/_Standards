@@ -66,23 +66,23 @@ aliases:
 - 註意
 - 주의
 has_id_wikidata: Q6501338
-different_from: '[[_Standards/WikiData/WD~meditation,108458]]'
+different_from: '[[_Standards/WikiData/WD~meditation,108458|WD~meditation,108458]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~cognitive_process,781413]]'
-- '[[_Standards/WikiData/WD~cognition,2200417]]'
+- '[[_Standards/WikiData/WD~cognitive_process,781413|WD~cognitive_process,781413]]'
+- '[[_Standards/WikiData/WD~cognition,2200417|WD~cognition,2200417]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543|WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917|WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~alertness,1423044]]'
-- '[[_Standards/WikiData/WD~Muraqaba,2275149]]'
-has_part_s_: '[[_Standards/WikiData/WD~attentional_control,4818236]]'
+- '[[_Standards/WikiData/WD~alertness,1423044|WD~alertness,1423044]]'
+- '[[_Standards/WikiData/WD~Muraqaba,2275149|WD~Muraqaba,2275149]]'
+has_part_s_: '[[_Standards/WikiData/WD~attentional_control,4818236|WD~attentional_control,4818236]]'
 part_of:
-- '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
-- '[[_Standards/WikiData/WD~memory_and_attention,110620109]]'
-health_specialty: '[[_Standards/WikiData/WD~psychiatry,7867]]'
+- '[[_Standards/WikiData/WD~psychology_terminology,77468620|WD~psychology_terminology,77468620]]'
+- '[[_Standards/WikiData/WD~memory_and_attention,110620109|WD~memory_and_attention,110620109]]'
+health_specialty: '[[_Standards/WikiData/WD~psychiatry,7867|WD~psychiatry,7867]]'
 OmegaWiki_Defined_Meaning: 345067
 Commons_category: Attention
 PhilPapers_topic: attention

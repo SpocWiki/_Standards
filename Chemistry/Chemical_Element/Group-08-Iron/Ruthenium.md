@@ -89,12 +89,12 @@ Common_Procurement_Vocabulary_code:
 - 14743000
 CPV_Supplementary_code: AA21
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Karl_Ernst_Claus,554178]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637|WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Karl_Ernst_Claus,554178|WD~Karl_Ernst_Claus,554178]]'
 DSSTOX_compound_identifier: DTXCID1047651
 EC_number: 231-127-1
 electronegativity: 2.2
@@ -103,33 +103,33 @@ element_symbol: Ru
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ruthenium%20a%20half%20bar.jpg
 InChI: InChI=1S/Ru
 InChIKey: KJTLSVCANCCWHF-UHFFFAOYSA-N
-instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
+instance_of: '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 ionic_radius:
 - 0.36
 - 0.38
 - 0.57
 - 0.62
 - 0.68
-location_of_discovery: '[[_Standards/WikiData/WD~Q56007908,56007908]]'
+location_of_discovery: '[[_Standards/WikiData/WD~Q56007908,56007908|WD~Q56007908,56007908]]'
 mass: 101.07
 MeSH_tree_code:
 - D01.268.556.805
 - D01.268.956.812
 - D01.552.544.805
-named_after: '[[_Standards/WikiData/WD~Ruthenia,1147883]]'
+named_after: '[[_Standards/WikiData/WD~Ruthenia,1147883|WD~Ruthenia,1147883]]'
 OmegaWiki_Defined_Meaning: 351999
 oxidation_state:
 - 3
 - 4
 part_of:
-- '[[_Standards/WikiData/WD~group_8,202224]]'
-- '[[_Standards/WikiData/WD~period_5,244982]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q13202794,13202794]]'
+- '[[_Standards/WikiData/WD~group_8,202224|WD~group_8,202224]]'
+- '[[_Standards/WikiData/WD~period_5,244982|WD~period_5,244982]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q13202794,13202794|WD~Q13202794,13202794]]'
 PubChem_CID: 23950
 SpocWebEntityId: 21942
 subclass_of:
-- '[[_Standards/WikiData/WD~platinum_group,223995]]'
-- '[[_Standards/WikiData/WD~transition_metal,19588]]'
+- '[[_Standards/WikiData/WD~platinum_group,223995|WD~platinum_group,223995]]'
+- '[[_Standards/WikiData/WD~transition_metal,19588|WD~transition_metal,19588]]'
 time_of_discovery_or_invention: 1844
 type: Element
 UMLS_CUI: C0035973
@@ -139,7 +139,7 @@ Wolfram_Language_entity_code: Entity["Mineral", "Ruthenium"]
 ZVG_number: 7440
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Ruthenium,1086]]'
+  - '[[../../../WikiData/WD~Ruthenium,1086|WD~Ruthenium,1086]]'
   - '[[../../../WikiData/WD~Ruthenium,1086|WD~Ruthenium,1086]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Group-08-Iron/Ruthenium|Ruthenium]]'
   - '[[/_public/Chemistry/Chemical_Element/Group-08-Iron/Ruthenium.public|Ruthenium.public]]'
@@ -148,7 +148,7 @@ dv_is_:
   - '[[/_private/Chemistry/Chemical_Element/Group-08-Iron/Ruthenium.private|Ruthenium.private]]'
   - '[[/_personal/Chemistry/Chemical_Element/Group-08-Iron/Ruthenium.personal|Ruthenium.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Group-08-Iron/Ruthenium.secret|Ruthenium.secret]]'
-  part_of: '[[../Group-08-Iron]]'
+  part_of: '[[../Group-08-Iron|Group-08-Iron]]'
 dv_has_:
   name_:
     abbreviated: Ru
@@ -337,7 +337,7 @@ dv_has_:
         kj_:
           mol: 595
 dv_is_same_as:
-- '[[../../../WikiData/WD~Ruthenium,1086]]'
+- '[[../../../WikiData/WD~Ruthenium,1086|WD~Ruthenium,1086]]'
 - '[[../../../WikiData/WD~Ruthenium,1086|WD~Ruthenium,1086]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Group-08-Iron/Ruthenium|Ruthenium]]'
 - '[[/_public/Chemistry/Chemical_Element/Group-08-Iron/Ruthenium.public|Ruthenium.public]]'
@@ -347,7 +347,7 @@ dv_is_same_as:
 - '[[/_personal/Chemistry/Chemical_Element/Group-08-Iron/Ruthenium.personal|Ruthenium.personal]]'
 - '[[/_secret/Chemistry/Chemical_Element/Group-08-Iron/Ruthenium.secret|Ruthenium.secret]]'
 dv_has_name_group: Group-08-Iron
-dv_is_part_of: '[[../Group-08-Iron]]'
+dv_is_part_of: '[[../Group-08-Iron|Group-08-Iron]]'
 dv_has_name_en: Ruthenium
 dv_has_name_de: Ruthenium
 dv_has_value_for_weight_u: 101.07
@@ -375,7 +375,7 @@ Unicode_character: 釕
 
 
 #chemic/Element 
-#is_/same_as :: [[../../../WikiData/WD~Ruthenium,1086]] 
+#is_/same_as :: [[../../../WikiData/WD~Ruthenium,1086|WD~Ruthenium,1086]] 
 
 has_name_group = `=this.dv_has_name_group` 
 is_part_of = `=this.dv_is_part_of` 

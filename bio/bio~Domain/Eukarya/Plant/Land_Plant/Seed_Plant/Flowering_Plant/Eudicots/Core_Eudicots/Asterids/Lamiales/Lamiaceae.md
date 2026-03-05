@@ -63,19 +63,19 @@ aliases:
 - 脣形科
 - 꿀풀과
 has_id_wikidata: Q53476
-taxonomic_type: '[[_Standards/WikiData/WD~Lamium,146675]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Lamium,146675|WD~Lamium,146675]]'
 has_fruit_type:
-- '[[_Standards/WikiData/WD~capsule,147768]]'
-- '[[_Standards/WikiData/WD~berry,13184]]'
+- '[[_Standards/WikiData/WD~capsule,147768|WD~capsule,147768]]'
+- '[[_Standards/WikiData/WD~berry,13184|WD~berry,13184]]'
 described_by_source:
-- '[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
-uses: '[[_Standards/WikiData/WD~CAM_photosynthesis,858313]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-parent_taxon: '[[_Standards/WikiData/WD~Lamiales,21742]]'
-taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+- '[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635|WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+uses: '[[_Standards/WikiData/WD~CAM_photosynthesis,858313|WD~CAM_photosynthesis,858313]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+parent_taxon: '[[_Standards/WikiData/WD~Lamiales,21742|WD~Lamiales,21742]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409|WD~family,35409]]'
 ITIS_TSN: 32251
 taxon_common_name:
 - Lippenblütler

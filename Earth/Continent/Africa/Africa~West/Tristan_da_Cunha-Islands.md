@@ -21,7 +21,7 @@ dv_has_name_en: Saint Helena
 dv_has_name_de: St. Helena
 dv_Area-Total: 0
 dv_Area-Land: 0
-dv_has_place_continent: "[[../../Africa]]"
+dv_has_place_continent: "[[../../Africa|Africa]]"
 dv_Capital: "[[Jamestown]]"
 dv_has_place_longitude: -5.71667
 dv_has_place_latitude: -15.9167
@@ -51,7 +51,7 @@ dv_is_same_as:
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Saint_Helena/ReadMe]] 
+[[Saint_Helena/ReadMe|ReadMe]] 
 
 ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3`

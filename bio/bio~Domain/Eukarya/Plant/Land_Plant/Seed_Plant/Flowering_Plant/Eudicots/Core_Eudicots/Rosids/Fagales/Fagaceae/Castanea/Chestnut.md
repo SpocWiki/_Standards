@@ -213,7 +213,7 @@ dv_has_:
 
 # [[Chestnut]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~The_Chestnuts,26583003]] 
+#is_/same_as :: [[_Standards/WikiData/WD~The_Chestnuts,26583003|WD~The_Chestnuts,26583003]] 
 
 ## #has_/text_of_/abstract 
 

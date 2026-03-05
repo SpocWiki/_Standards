@@ -87,15 +87,15 @@ aliases:
 - 백색왜성
 has_id_wikidata: Q5871
 instance_of:
-- '[[_Standards/WikiData/WD~spectral_class,179600]]'
-- '[[_Standards/WikiData/WD~physical_theory,9357058]]'
-- '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
-- '[[_Standards/WikiData/WD~stellar_evolution,6472]]'
+- '[[_Standards/WikiData/WD~spectral_class,179600|WD~spectral_class,179600]]'
+- '[[_Standards/WikiData/WD~physical_theory,9357058|WD~physical_theory,9357058]]'
+- '[[_Standards/WikiData/WD~astronomical_object_type,17444909|WD~astronomical_object_type,17444909]]'
+- '[[_Standards/WikiData/WD~stellar_evolution,6472|WD~stellar_evolution,6472]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~dwarf_star,244393]]'
-- '[[_Standards/WikiData/WD~compact_object,368442]]'
-different_from: '[[_Standards/WikiData/WD~A_type_main_sequence_star,471805]]'
-follows: '[[_Standards/WikiData/WD~post_AGB_star,66619774]]'
+- '[[_Standards/WikiData/WD~dwarf_star,244393|WD~dwarf_star,244393]]'
+- '[[_Standards/WikiData/WD~compact_object,368442|WD~compact_object,368442]]'
+different_from: '[[_Standards/WikiData/WD~A_type_main_sequence_star,471805|WD~A_type_main_sequence_star,471805]]'
+follows: '[[_Standards/WikiData/WD~post_AGB_star,66619774|WD~post_AGB_star,66619774]]'
 OmegaWiki_Defined_Meaning: 1309288
 Commons_category: White dwarfs
 image: http://commons.wikimedia.org/wiki/Special:FilePath/PSR%20J0348%2B0432.jpg

@@ -70,30 +70,30 @@ aliases:
 - 상상력
 has_id_wikidata: Q34516
 different_from:
-- '[[_Standards/WikiData/WD~hallucination,130741]]'
-- '[[_Standards/WikiData/WD~Q54894703,54894703]]'
+- '[[_Standards/WikiData/WD~hallucination,130741|WD~hallucination,130741]]'
+- '[[_Standards/WikiData/WD~Q54894703,54894703|WD~Q54894703,54894703]]'
 has_use:
-- '[[_Standards/WikiData/WD~creativity,170658]]'
-- '[[_Standards/WikiData/WD~fantasy,1356411]]'
-- '[[_Standards/WikiData/WD~mental_representation,112040407]]'
-locations: '[[_Standards/WikiData/WD~human_brain,492038]]'
+- '[[_Standards/WikiData/WD~creativity,170658|WD~creativity,170658]]'
+- '[[_Standards/WikiData/WD~fantasy,1356411|WD~fantasy,1356411]]'
+- '[[_Standards/WikiData/WD~mental_representation,112040407|WD~mental_representation,112040407]]'
+locations: '[[_Standards/WikiData/WD~human_brain,492038|WD~human_brain,492038]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia_(1902_1905),20089963]]'
-- '[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
-subclass_of: '[[_Standards/WikiData/WD~cognitive_process,781413]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia_(1902_1905),20089963|WD~New_International_Encyclopedia_(1902_1905),20089963]]'
+- '[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706|WD~Infernal_Dictionary,_6th_ed.,20961706]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624|WD~Lean_Logic,101314624]]'
+subclass_of: '[[_Standards/WikiData/WD~cognitive_process,781413|WD~cognitive_process,781413]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~faculty_of_imagining,12021512]]'
-- '[[_Standards/WikiData/WD~imagination,96634588]]'
+- '[[_Standards/WikiData/WD~faculty_of_imagining,12021512|WD~faculty_of_imagining,12021512]]'
+- '[[_Standards/WikiData/WD~imagination,96634588|WD~imagination,96634588]]'
 instance_of:
-- '[[_Standards/WikiData/WD~psychology_concept,96634632]]'
-- '[[_Standards/WikiData/WD~type_of_intelligence,125161275]]'
+- '[[_Standards/WikiData/WD~psychology_concept,96634632|WD~psychology_concept,96634632]]'
+- '[[_Standards/WikiData/WD~type_of_intelligence,125161275|WD~type_of_intelligence,125161275]]'
 Commons_category: Imagination
 PhilPapers_topic: imagination
 Iconclass_notation: 52A4

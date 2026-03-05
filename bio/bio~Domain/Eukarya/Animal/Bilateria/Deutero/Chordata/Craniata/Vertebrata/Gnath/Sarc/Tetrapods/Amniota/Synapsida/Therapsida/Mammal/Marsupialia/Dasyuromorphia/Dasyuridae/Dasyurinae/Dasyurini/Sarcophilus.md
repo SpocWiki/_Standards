@@ -15,10 +15,10 @@ aliases:
 - 袋獾属
 - 袋獾屬
 has_id_wikidata: Q937821
-taxonomic_type: '[[_Standards/WikiData/WD~Sarcophilus_laniarius,194609]]'
-parent_taxon: '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Dasyurini,533062]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Sarcophilus_laniarius,194609|WD~Sarcophilus_laniarius,194609]]'
+parent_taxon: '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Dasyurini,533062|WD~Dasyurini,533062]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
 ITIS_TSN: 552417
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tasdevil%20large.jpg
 Commons_category: Sarcophilus

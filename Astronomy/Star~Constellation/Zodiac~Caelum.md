@@ -73,21 +73,21 @@ isReadOnly: false
 tags:
 - astro/Zodiac
 type: Zodiac
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Nicolas_Louis_de_Lacaille,202703]]'
-named_after: '[[_Standards/WikiData/WD~chisel,474188]]'
-part_of: '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Nicolas_Louis_de_Lacaille,202703|WD~Nicolas_Louis_de_Lacaille,202703]]'
+named_after: '[[_Standards/WikiData/WD~chisel,474188|WD~chisel,474188]]'
+part_of: '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815|WD~Southern_Celestial_Hemisphere,2380815]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Q10729113,10729113]]'
-- '[[_Standards/WikiData/WD~Template_Stars_of_Caelum,12159532]]'
+- '[[_Standards/WikiData/WD~Q10729113,10729113|WD~Q10729113,10729113]]'
+- '[[_Standards/WikiData/WD~Template_Stars_of_Caelum,12159532|WD~Template_Stars_of_Caelum,12159532]]'
 time_of_discovery_or_invention: 1750-01-01T00:00:00Z
 shares_border_with:
-- '[[_Standards/WikiData/WD~Dorado,8837]]'
-- '[[_Standards/WikiData/WD~Columba,10425]]'
-- '[[_Standards/WikiData/WD~Eridanus,10433]]'
-- '[[_Standards/WikiData/WD~Lepus,10446]]'
-- '[[_Standards/WikiData/WD~Pictor,10486]]'
-- '[[_Standards/WikiData/WD~Horologium,10574]]'
-instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
+- '[[_Standards/WikiData/WD~Dorado,8837|WD~Dorado,8837]]'
+- '[[_Standards/WikiData/WD~Columba,10425|WD~Columba,10425]]'
+- '[[_Standards/WikiData/WD~Eridanus,10433|WD~Eridanus,10433]]'
+- '[[_Standards/WikiData/WD~Lepus,10446|WD~Lepus,10446]]'
+- '[[_Standards/WikiData/WD~Pictor,10486|WD~Pictor,10486]]'
+- '[[_Standards/WikiData/WD~Horologium,10574|WD~Horologium,10574]]'
+instance_of: '[[_Standards/WikiData/WD~constellation,8928|WD~constellation,8928]]'
 area: 125
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Caelum%20constellation%20map.svg
 astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Caelum%20symbol%20%28Moskowitz%2C%20variable%20width%29.svg
@@ -192,7 +192,7 @@ dv_has_:
     zh_tw: 雕具座
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Caelum,10488]]'
+  - '[[_Standards/WikiData/WD~Caelum,10488|WD~Caelum,10488]]'
   - '[[/_Standards/Astronomy/Star~Constellation/Zodiac~Caelum|Zodiac~Caelum]]'
   - '[[/_public/Astronomy/Star~Constellation/Zodiac~Caelum.public|Zodiac~Caelum.public]]'
   - '[[/_internal/Astronomy/Star~Constellation/Zodiac~Caelum.internal|Zodiac~Caelum.internal]]'
@@ -204,7 +204,7 @@ dv_has_name_la: Caelum
 dv_has_name_la_genitive: Caeli
 dv_has_name_de: Grabstichel
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Caelum,10488]]'
+- '[[_Standards/WikiData/WD~Caelum,10488|WD~Caelum,10488]]'
 - '[[/_Standards/Astronomy/Star~Constellation/Zodiac~Caelum|Zodiac~Caelum]]'
 - '[[/_public/Astronomy/Star~Constellation/Zodiac~Caelum.public|Zodiac~Caelum.public]]'
 - '[[/_internal/Astronomy/Star~Constellation/Zodiac~Caelum.internal|Zodiac~Caelum.internal]]'
@@ -222,7 +222,7 @@ has_name_la = `=this.dv_has_name_la`
 has_name_la_genitive = `=this.dv_has_name_la_genitive` 
 has_name_de = `=this.dv_has_name_de` 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Caelum,10488]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Caelum,10488|WD~Caelum,10488]] 
 
 
 ## Confidential Links & Embeds: 

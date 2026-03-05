@@ -64,21 +64,21 @@ aliases:
 - 스텝
 has_id_wikidata: Q123991
 instance_of:
-- '[[_Standards/WikiData/WD~ecoregion,295469]]'
-- '[[_Standards/WikiData/WD~vegetational_formation,2083910]]'
-- '[[_Standards/WikiData/WD~ecosystem,37813]]'
-- '[[_Standards/WikiData/WD~habitat,52105]]'
+- '[[_Standards/WikiData/WD~ecoregion,295469|WD~ecoregion,295469]]'
+- '[[_Standards/WikiData/WD~vegetational_formation,2083910|WD~vegetational_formation,2083910]]'
+- '[[_Standards/WikiData/WD~ecosystem,37813|WD~ecosystem,37813]]'
+- '[[_Standards/WikiData/WD~habitat,52105|WD~habitat,52105]]'
 different_from:
-- '[[_Standards/WikiData/WD~Step,594799]]'
-- '[[_Standards/WikiData/WD~Q136116500,136116500]]'
+- '[[_Standards/WikiData/WD~Step,594799|WD~Step,594799]]'
+- '[[_Standards/WikiData/WD~Q136116500,136116500|WD~Q136116500,136116500]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
-subclass_of: '[[_Standards/WikiData/WD~grassland,1006733]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q8272816,8272816]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764|WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862|WD~Armenian_Soviet_Encyclopedia,_vol._11,124355862]]'
+subclass_of: '[[_Standards/WikiData/WD~grassland,1006733|WD~grassland,1006733]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q8272816,8272816|WD~Q8272816,8272816]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Steppe%20of%20western%20Kazakhstan%20in%20the%20early%20spring.jpg
 exact_match: http://purl.obolibrary.org/obo/ENVO_00000262
 Commons_category: Steppes

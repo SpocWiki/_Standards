@@ -45,14 +45,14 @@ aliases:
 - 個體發生學
 has_id_wikidata: Q193603
 part_of:
-- '[[_Standards/WikiData/WD~developmental_biology,213713]]'
-- '[[_Standards/WikiData/WD~biological_life_cycle,513359]]'
-subclass_of: '[[_Standards/WikiData/WD~developmental_process,2843407]]'
-different_from: '[[_Standards/WikiData/WD~Ontogeneza,11798371]]'
+- '[[_Standards/WikiData/WD~developmental_biology,213713|WD~developmental_biology,213713]]'
+- '[[_Standards/WikiData/WD~biological_life_cycle,513359|WD~biological_life_cycle,513359]]'
+subclass_of: '[[_Standards/WikiData/WD~developmental_process,2843407|WD~developmental_process,2843407]]'
+different_from: '[[_Standards/WikiData/WD~Ontogeneza,11798371|WD~Ontogeneza,11798371]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-depicted_by: '[[_Standards/WikiData/WD~recapitulation_theory,32384]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+depicted_by: '[[_Standards/WikiData/WD~recapitulation_theory,32384|WD~recapitulation_theory,32384]]'
 Commons_category:
 - Morphogenesis
 - Ontogeny

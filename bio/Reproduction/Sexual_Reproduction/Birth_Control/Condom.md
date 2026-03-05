@@ -84,25 +84,25 @@ aliases:
 - 콘돔
 has_id_wikidata: Q14076
 made_from_material:
-- '[[_Standards/WikiData/WD~natural_rubber,131877]]'
-- '[[_Standards/WikiData/WD~polyurethane,146322]]'
-- '[[_Standards/WikiData/WD~latex,244680]]'
-- '[[_Standards/WikiData/WD~synthetic_rubber,6714735]]'
+- '[[_Standards/WikiData/WD~natural_rubber,131877|WD~natural_rubber,131877]]'
+- '[[_Standards/WikiData/WD~polyurethane,146322|WD~polyurethane,146322]]'
+- '[[_Standards/WikiData/WD~latex,244680|WD~latex,244680]]'
+- '[[_Standards/WikiData/WD~synthetic_rubber,6714735|WD~synthetic_rubber,6714735]]'
 has_use:
-- '[[_Standards/WikiData/WD~safe_sex,318529]]'
-- '[[_Standards/WikiData/WD~barrier_contraception,13582224]]'
-- '[[_Standards/WikiData/WD~prevention_of_sexually_transmitted_diseases,54806757]]'
-subclass_of: '[[_Standards/WikiData/WD~male_contraceptive,949861]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Condoms,7646546]]'
-facet_of: "[[_Standards/WikiData/WD~women's_health,8031191]]"
+- '[[_Standards/WikiData/WD~safe_sex,318529|WD~safe_sex,318529]]'
+- '[[_Standards/WikiData/WD~barrier_contraception,13582224|WD~barrier_contraception,13582224]]'
+- '[[_Standards/WikiData/WD~prevention_of_sexually_transmitted_diseases,54806757|WD~prevention_of_sexually_transmitted_diseases,54806757]]'
+subclass_of: '[[_Standards/WikiData/WD~male_contraceptive,949861|WD~male_contraceptive,949861]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Condoms,7646546|WD~Template_Condoms,7646546]]'
+facet_of: "[[_Standards/WikiData/WD~women's_health,8031191|WD~women's_health,8031191]]"
 described_by_source:
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072|WD~Red_Blue_Translator,131935072]]'
 on_focus_list_of_Wikimedia_project:
-- '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
-- '[[_Standards/WikiData/WD~Wiki99_LGBT+,97285685]]'
-worn_on: '[[_Standards/WikiData/WD~penis,58]]'
-subject_has_role: '[[_Standards/WikiData/WD~essential_medicine,35456]]'
+- '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720|WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
+- '[[_Standards/WikiData/WD~Wiki99_LGBT+,97285685|WD~Wiki99_LGBT+,97285685]]'
+worn_on: '[[_Standards/WikiData/WD~penis,58|WD~penis,58]]'
+subject_has_role: '[[_Standards/WikiData/WD~essential_medicine,35456|WD~essential_medicine,35456]]'
 Nomenclature_for_Museum_Cataloging: 3151
 OmegaWiki_Defined_Meaning: 7682
 IMDb_keyword: condom

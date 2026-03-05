@@ -43,13 +43,13 @@ aliases:
 - 캥거루목
 has_id_wikidata: Q26332
 topic_has_template:
-- '[[_Standards/WikiData/WD~Q10520857,10520857]]'
-- '[[_Standards/WikiData/WD~Template_Diprotodontia,18042408]]'
-code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~Q10520857,10520857|WD~Q10520857,10520857]]'
+- '[[_Standards/WikiData/WD~Template_Diprotodontia,18042408|WD~Template_Diprotodontia,18042408]]'
+code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011|WD~International_Code_of_Zoological_Nomenclature,13011]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 gestation_period: 22
-taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
-endemic_to: '[[_Standards/WikiData/WD~Australasia,45256]]'
+taxon_rank: '[[_Standards/WikiData/WD~order,36602|WD~order,36602]]'
+endemic_to: '[[_Standards/WikiData/WD~Australasia,45256|WD~Australasia,45256]]'
 ITIS_TSN: 552297
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Macropus%20agilis%20-%2002.jpg
 EPPO_Code: 1DIPRO

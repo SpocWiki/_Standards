@@ -31,8 +31,8 @@ aliases:
 - 運動星団
 - 항성 운동학
 has_id_wikidata: Q6440
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-subclass_of: '[[_Standards/WikiData/WD~kinematics,11476]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+subclass_of: '[[_Standards/WikiData/WD~kinematics,11476|WD~kinematics,11476]]'
 dv_is_:
   same_as:
   - '[[../WikiData/WD~Stellar_kinematics,6440|WD~Stellar_kinematics,6440]]'

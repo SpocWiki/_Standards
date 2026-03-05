@@ -84,27 +84,27 @@ aliases:
 - 지각
 has_id_wikidata: Q160402
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~sense,173253]]'
-- '[[_Standards/WikiData/WD~postreh,12774262]]'
+- '[[_Standards/WikiData/WD~sense,173253|WD~sense,173253]]'
+- '[[_Standards/WikiData/WD~postreh,12774262|WD~postreh,12774262]]'
 has_effect:
-- '[[_Standards/WikiData/WD~qualia,282250]]'
-- '[[_Standards/WikiData/WD~awareness,4338318]]'
+- '[[_Standards/WikiData/WD~qualia,282250|WD~qualia,282250]]'
+- '[[_Standards/WikiData/WD~awareness,4338318|WD~awareness,4338318]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~cognitive_process,781413]]'
-- '[[_Standards/WikiData/WD~interpretation,855395]]'
+- '[[_Standards/WikiData/WD~cognitive_process,781413|WD~cognitive_process,781413]]'
+- '[[_Standards/WikiData/WD~interpretation,855395|WD~interpretation,855395]]'
 instance_of:
-- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-- '[[_Standards/WikiData/WD~field_of_study,2267705]]'
-- '[[_Standards/WikiData/WD~core_concept,41172303]]'
-uses: '[[_Standards/WikiData/WD~model,1979154]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113|WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~field_of_study,2267705|WD~field_of_study,2267705]]'
+- '[[_Standards/WikiData/WD~core_concept,41172303|WD~core_concept,41172303]]'
+uses: '[[_Standards/WikiData/WD~model,1979154|WD~model,1979154]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
-has_part_s_: '[[_Standards/WikiData/WD~sensation,3955369]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764|WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
+has_part_s_: '[[_Standards/WikiData/WD~sensation,3955369|WD~sensation,3955369]]'
 part_of:
-- '[[_Standards/WikiData/WD~awareness,4338318]]'
-- '[[_Standards/WikiData/WD~recognition,21142755]]'
-- '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
+- '[[_Standards/WikiData/WD~awareness,4338318|WD~awareness,4338318]]'
+- '[[_Standards/WikiData/WD~recognition,21142755|WD~recognition,21142755]]'
+- '[[_Standards/WikiData/WD~psychology_terminology,77468620|WD~psychology_terminology,77468620]]'
 Dewey_Decimal_Classification:
 - 152
 - 152.1

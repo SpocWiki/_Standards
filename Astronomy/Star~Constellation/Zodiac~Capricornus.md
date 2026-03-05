@@ -91,26 +91,26 @@ tags:
 type: Zodiac
 ZodiacPos: 10
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~A_field_book_of_the_stars,55346553]]'
-- '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]'
-part_of: '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~A_field_book_of_the_stars,55346553|WD~A_field_book_of_the_stars,55346553]]'
+- '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886|WD~Star_Lore_of_All_Ages,95985886]]'
+part_of: '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815|WD~Southern_Celestial_Hemisphere,2380815]]'
 instance_of:
-- '[[_Standards/WikiData/WD~zodiacal_constellation,4193029]]'
-- '[[_Standards/WikiData/WD~constellation,8928]]'
+- '[[_Standards/WikiData/WD~zodiacal_constellation,4193029|WD~zodiacal_constellation,4193029]]'
+- '[[_Standards/WikiData/WD~constellation,8928|WD~constellation,8928]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Stars_of_Capricornus,8084788]]'
-- '[[_Standards/WikiData/WD~Q10729055,10729055]]'
+- '[[_Standards/WikiData/WD~Template_Stars_of_Capricornus,8084788|WD~Template_Stars_of_Capricornus,8084788]]'
+- '[[_Standards/WikiData/WD~Q10729055,10729055|WD~Q10729055,10729055]]'
 shares_border_with:
-- '[[_Standards/WikiData/WD~Sagittarius,8866]]'
-- '[[_Standards/WikiData/WD~Piscis_Austrinus,10409]]'
-- '[[_Standards/WikiData/WD~Microscopium,10492]]'
-- '[[_Standards/WikiData/WD~Aquarius,10576]]'
-- '[[_Standards/WikiData/WD~Aquila,10586]]'
+- '[[_Standards/WikiData/WD~Sagittarius,8866|WD~Sagittarius,8866]]'
+- '[[_Standards/WikiData/WD~Piscis_Austrinus,10409|WD~Piscis_Austrinus,10409]]'
+- '[[_Standards/WikiData/WD~Microscopium,10492|WD~Microscopium,10492]]'
+- '[[_Standards/WikiData/WD~Aquarius,10576|WD~Aquarius,10576]]'
+- '[[_Standards/WikiData/WD~Aquila,10586|WD~Aquila,10586]]'
 area: 414
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Capricornus%20constellation%20map.svg
 astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Capricornus%20symbol%20%28Moskowitz%2C%20variable%20width%29.svg

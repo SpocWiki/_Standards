@@ -77,9 +77,9 @@ aliases:
 - 겉보기등급
 has_id_wikidata: Q124313
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~dimensionless_quantity,126818]]'
-- '[[_Standards/WikiData/WD~magnitude,2028919]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~dimensionless_quantity,126818|WD~dimensionless_quantity,126818]]'
+- '[[_Standards/WikiData/WD~magnitude,2028919|WD~magnitude,2028919]]'
 quantity_symbol_LaTeX_: >-
   <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle m}">
     <semantics>

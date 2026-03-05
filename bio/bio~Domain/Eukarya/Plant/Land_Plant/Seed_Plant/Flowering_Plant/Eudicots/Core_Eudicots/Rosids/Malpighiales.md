@@ -38,9 +38,9 @@ aliases:
 - 말피기아목
 has_id_wikidata: Q21887
 title: Malpighiales
-parent_taxon: '[[_Standards/WikiData/WD~fabids,2683213]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
+parent_taxon: '[[_Standards/WikiData/WD~fabids,2683213|WD~fabids,2683213]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~order,36602|WD~order,36602]]'
 start_time: -100000000-01-01T00:00:00Z
 ITIS_TSN: 822428
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Starr%20010309-0546%20Calophyllum%20inophyllum.jpg

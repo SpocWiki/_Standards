@@ -34,7 +34,7 @@ Tag Instances like this:
 
 A medical procedure intended primarily for palliative purposes, aimed at relieving the symptoms of an underlying health condition.
 
-#has_/parent_class :: [[../MedicalProcedure, MedicalTherapy]]  
+#has_/parent_class :: [[../MedicalProcedure, MedicalTherapy|MedicalProcedure, MedicalTherapy]]  
 
 #has_/properties :: [ additionalType, adverseOutcome, alternateName, bodyLocation, code, contraindication, description, disambiguatingDescription, doseSchedule, drug, duplicateTherapy, followup, funding, guideline, howPerformed, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, preparation, procedureType, recognizingAuthority, relevantSpecialty, sameAs, seriousAdverseOutcome, status, study, subjectOf, url ]  
 

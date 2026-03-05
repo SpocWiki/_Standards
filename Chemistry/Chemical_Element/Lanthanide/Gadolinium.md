@@ -80,10 +80,10 @@ chemical_formula: Gd
 Commons_category: Gadolinium
 Commons_gallery: Gadolinium
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Jean_Charles_Galissard_de_Marignac,124045]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Jean_Charles_Galissard_de_Marignac,124045|WD~Jean_Charles_Galissard_de_Marignac,124045]]'
 DSSTOX_compound_identifier: DTXCID3017234
 EC_number: 231-162-2
 electronegativity: 1.2
@@ -92,23 +92,23 @@ Gmelin_number: 16286
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gadolinium.jpg
 InChI: InChI=1S/Gd
 InChIKey: UIWYJDYFSGRHKR-UHFFFAOYSA-N
-instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
+instance_of: '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 ionic_radius:
 - 0.94
 - 1.05
 made_from_material:
-- '[[_Standards/WikiData/WD~lepersonnite-(Gd),1820045]]'
-- '[[_Standards/WikiData/WD~monazite-(Gd),116007092]]'
-- '[[_Standards/WikiData/WD~xenotime-(Gd),124538270]]'
+- '[[_Standards/WikiData/WD~lepersonnite-(Gd),1820045|WD~lepersonnite-(Gd),1820045]]'
+- '[[_Standards/WikiData/WD~monazite-(Gd),116007092|WD~monazite-(Gd),116007092]]'
+- '[[_Standards/WikiData/WD~xenotime-(Gd),124538270|WD~xenotime-(Gd),124538270]]'
 mass: 157.249
 MeSH_tree_code:
 - D01.268.558.362.484
 - D01.552.550.399.484
-named_after: '[[_Standards/WikiData/WD~Johan_Gadolin,312571]]'
+named_after: '[[_Standards/WikiData/WD~Johan_Gadolin,312571|WD~Johan_Gadolin,312571]]'
 OmegaWiki_Defined_Meaning: 156576
 part_of:
-- '[[_Standards/WikiData/WD~period_6,239813]]'
-- '[[_Standards/WikiData/WD~lanthanide,19569]]'
+- '[[_Standards/WikiData/WD~period_6,239813|WD~period_6,239813]]'
+- '[[_Standards/WikiData/WD~lanthanide,19569|WD~lanthanide,19569]]'
 PubChem_CID: 23982
 SpocWebEntityId: 21960
 time_of_discovery_or_invention: 1880
@@ -119,7 +119,7 @@ UNII: AU0V1LM3JT
 ZVG_number: 7640
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Gadolinium,1832]]'
+  - '[[../../../WikiData/WD~Gadolinium,1832|WD~Gadolinium,1832]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Lanthanide/Gadolinium|Gadolinium]]'
   - '[[/_public/Chemistry/Chemical_Element/Lanthanide/Gadolinium.public|Gadolinium.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Lanthanide/Gadolinium.internal|Gadolinium.internal]]'
@@ -308,7 +308,7 @@ dv_has_:
         kj_:
           mol: 359.4
 dv_is_same_as:
-- '[[../../../WikiData/WD~Gadolinium,1832]]'
+- '[[../../../WikiData/WD~Gadolinium,1832|WD~Gadolinium,1832]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Lanthanide/Gadolinium|Gadolinium]]'
 - '[[/_public/Chemistry/Chemical_Element/Lanthanide/Gadolinium.public|Gadolinium.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Lanthanide/Gadolinium.internal|Gadolinium.internal]]'
@@ -317,7 +317,7 @@ dv_is_same_as:
 - '[[/_personal/Chemistry/Chemical_Element/Lanthanide/Gadolinium.personal|Gadolinium.personal]]'
 - '[[/_secret/Chemistry/Chemical_Element/Lanthanide/Gadolinium.secret|Gadolinium.secret]]'
 dv_has_name_group: Lanthanide-Group
-dv_is_part_of: '[[../Lanthanide]]'
+dv_is_part_of: '[[../Lanthanide|Lanthanide]]'
 dv_has_name_en: Gadolinium
 dv_has_name_de: Gadolinium
 dv_has_value_for_weight_u: 157.25
@@ -341,7 +341,7 @@ dv_has_number_of_electrons: 64
 
 # [[Gadolinium]] 釓 
 
-#is_/same_as :: [[../../../WikiData/WD~Gadolinium,1832]] 
+#is_/same_as :: [[../../../WikiData/WD~Gadolinium,1832|WD~Gadolinium,1832]] 
 
 #chemic/Element 
 has_name_group = `=this.dv_has_name_group` 

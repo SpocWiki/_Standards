@@ -61,25 +61,25 @@ aliases:
 - 수산화 칼륨
 has_id_wikidata: Q132298
 has_use:
-- '[[_Standards/WikiData/WD~food_additive,189567]]'
-- '[[_Standards/WikiData/WD~indicators_and_reagents,50377175]]'
+- '[[_Standards/WikiData/WD~food_additive,189567|WD~food_additive,189567]]'
+- '[[_Standards/WikiData/WD~indicators_and_reagents,50377175|WD~indicators_and_reagents,50377175]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~hygroscopy,216678]]'
-- '[[_Standards/WikiData/WD~deliquescence,3705026]]'
-described_by_source: '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-subclass_of: '[[_Standards/WikiData/WD~alkali_hydroxide,3143826]]'
+- '[[_Standards/WikiData/WD~hygroscopy,216678|WD~hygroscopy,216678]]'
+- '[[_Standards/WikiData/WD~deliquescence,3705026|WD~deliquescence,3705026]]'
+described_by_source: '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+subclass_of: '[[_Standards/WikiData/WD~alkali_hydroxide,3143826|WD~alkali_hydroxide,3143826]]'
 laws_applied:
-- '[[_Standards/WikiData/WD~Title_21_of_the_Code_of_Federal_Regulations,7810053]]'
-- '[[_Standards/WikiData/WD~National_Technical_Reports_Library,16977729]]'
+- '[[_Standards/WikiData/WD~Title_21_of_the_Code_of_Federal_Regulations,7810053|WD~Title_21_of_the_Code_of_Federal_Regulations,7810053]]'
+- '[[_Standards/WikiData/WD~National_Technical_Reports_Library,16977729|WD~National_Technical_Reports_Library,16977729]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~potassium_cation,15901933]]'
-- '[[_Standards/WikiData/WD~hydrogen,556]]'
-- '[[_Standards/WikiData/WD~oxygen,629]]'
-- '[[_Standards/WikiData/WD~potassium,703]]'
-associated_hazard: '[[_Standards/WikiData/WD~potassium_hydroxide_exposure,21175070]]'
-has_effect: '[[_Standards/WikiData/WD~potassium_hydroxide_exposure,21175070]]'
-safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
+- '[[_Standards/WikiData/WD~potassium_cation,15901933|WD~potassium_cation,15901933]]'
+- '[[_Standards/WikiData/WD~hydrogen,556|WD~hydrogen,556]]'
+- '[[_Standards/WikiData/WD~oxygen,629|WD~oxygen,629]]'
+- '[[_Standards/WikiData/WD~potassium,703|WD~potassium,703]]'
+associated_hazard: '[[_Standards/WikiData/WD~potassium_hydroxide_exposure,21175070|WD~potassium_hydroxide_exposure,21175070]]'
+has_effect: '[[_Standards/WikiData/WD~potassium_hydroxide_exposure,21175070|WD~potassium_hydroxide_exposure,21175070]]'
+safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288|WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171|WD~type_of_chemical_entity,113145171]]'
 standard_enthalpy_of_formation: -425.8
 vapor_pressure: 1
 ceiling_exposure_limit: 2

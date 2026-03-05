@@ -91,20 +91,20 @@ aliases:
 - 感觉系统
 - 감각 기관
 has_id_wikidata: Q11101
-studied_by: '[[_Standards/WikiData/WD~audiology,569965]]'
-has_part_s_: '[[_Standards/WikiData/WD~sensory_organ,3355930]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Sensory_system,10728983]]'
-development_of_anatomical_structure: '[[_Standards/WikiData/WD~sensory_system_development,21114759]]'
+studied_by: '[[_Standards/WikiData/WD~audiology,569965|WD~audiology,569965]]'
+has_part_s_: '[[_Standards/WikiData/WD~sensory_organ,3355930|WD~sensory_organ,3355930]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Sensory_system,10728983|WD~Template_Sensory_system,10728983]]'
+development_of_anatomical_structure: '[[_Standards/WikiData/WD~sensory_system_development,21114759|WD~sensory_system_development,21114759]]'
 part_of:
-- '[[_Standards/WikiData/WD~heterogeneous_anatomical_cluster,66561296]]'
-- '[[_Standards/WikiData/WD~set_of_organ_system_subdivisions,66576436]]'
-- '[[_Standards/WikiData/WD~nervous_system,9404]]'
-instance_of: '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]'
+- '[[_Standards/WikiData/WD~heterogeneous_anatomical_cluster,66561296|WD~heterogeneous_anatomical_cluster,66561296]]'
+- '[[_Standards/WikiData/WD~set_of_organ_system_subdivisions,66576436|WD~set_of_organ_system_subdivisions,66576436]]'
+- '[[_Standards/WikiData/WD~nervous_system,9404|WD~nervous_system,9404]]'
+instance_of: '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905|WD~class_of_anatomical_entity,112826905]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]'
-- '[[_Standards/WikiData/WD~nervous_system,9404]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Hearing_Health,123226125]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975|WD~particular_anatomical_entity,112826975]]'
+- '[[_Standards/WikiData/WD~nervous_system,9404|WD~nervous_system,9404]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Hearing_Health,123226125|WD~WikiProject_Hearing_Health,123226125]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 All_Science_Journal_Classification_Codes: 2809
 Iconclass_notation: 49G618
 UMLS_CUI:

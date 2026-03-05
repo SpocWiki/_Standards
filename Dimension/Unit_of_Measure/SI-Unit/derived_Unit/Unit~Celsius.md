@@ -86,20 +86,20 @@ aliases:
 - 攝氏度
 - 섭씨도
 has_id_wikidata: Q25267
-named_after: '[[_Standards/WikiData/WD~Anders_Celsius,81130]]'
+named_after: '[[_Standards/WikiData/WD~Anders_Celsius,81130|WD~Anders_Celsius,81130]]'
 instance_of:
-- '[[_Standards/WikiData/WD~SI_derived_unit,208469]]'
-- '[[_Standards/WikiData/WD~unit_without_standard_conversion_to_SI,21684377]]'
-- '[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328]]'
-- '[[_Standards/WikiData/WD~unit_of_thermodynamic_temperature,68723978]]'
-- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
-- '[[_Standards/WikiData/WD~unit_of_Celsius_temperature,126917082]]'
+- '[[_Standards/WikiData/WD~SI_derived_unit,208469|WD~SI_derived_unit,208469]]'
+- '[[_Standards/WikiData/WD~unit_without_standard_conversion_to_SI,21684377|WD~unit_without_standard_conversion_to_SI,21684377]]'
+- '[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328|WD~SI_unit_with_special_name,68618328]]'
+- '[[_Standards/WikiData/WD~unit_of_thermodynamic_temperature,68723978|WD~unit_of_thermodynamic_temperature,68723978]]'
+- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057|WD~UCUM_derived_unit,82047057]]'
+- '[[_Standards/WikiData/WD~unit_of_Celsius_temperature,126917082|WD~unit_of_Celsius_temperature,126917082]]'
 different_from:
-- '[[_Standards/WikiData/WD~cent,724178]]'
-- '[[_Standards/WikiData/WD~degree_Celsius_difference,69362731]]'
-- '[[_Standards/WikiData/WD~Celsius_temperature_scale,110748751]]'
-measured_physical_quantity: '[[_Standards/WikiData/WD~Celsius_temperature,74758530]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~degree_Celsius,134880239]]'
+- '[[_Standards/WikiData/WD~cent,724178|WD~cent,724178]]'
+- '[[_Standards/WikiData/WD~degree_Celsius_difference,69362731|WD~degree_Celsius_difference,69362731]]'
+- '[[_Standards/WikiData/WD~Celsius_temperature_scale,110748751|WD~Celsius_temperature_scale,110748751]]'
+measured_physical_quantity: '[[_Standards/WikiData/WD~Celsius_temperature,74758530|WD~Celsius_temperature,74758530]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~degree_Celsius,134880239|WD~degree_Celsius,134880239]]'
 OmegaWiki_Defined_Meaning: 665350
 UN_CEFACT_Common_Code: CEL
 Iconclass_notation: 22E33

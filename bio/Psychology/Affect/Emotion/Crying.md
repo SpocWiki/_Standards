@@ -76,20 +76,20 @@ aliases:
 - 泣く
 - 울음
 has_id_wikidata: Q152247
-uses: '[[_Standards/WikiData/WD~tear,76469]]'
-opposite_of: '[[_Standards/WikiData/WD~laughter,170579]]'
+uses: '[[_Standards/WikiData/WD~tear,76469|WD~tear,76469]]'
+opposite_of: '[[_Standards/WikiData/WD~laughter,170579|WD~laughter,170579]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~facial_expression,327968]]'
-- '[[_Standards/WikiData/WD~mood,331769]]'
+- '[[_Standards/WikiData/WD~facial_expression,327968|WD~facial_expression,327968]]'
+- '[[_Standards/WikiData/WD~mood,331769|WD~mood,331769]]'
 different_from:
-- '[[_Standards/WikiData/WD~choro,1076539]]'
-- '[[_Standards/WikiData/WD~crying_out,131385966]]'
+- '[[_Standards/WikiData/WD~choro,1076539|WD~choro,1076539]]'
+- '[[_Standards/WikiData/WD~crying_out,131385966|WD~crying_out,131385966]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-has_part_s_: "[[_Standards/WikiData/WD~Buka'_al_Khashya,25450754]]"
-part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
-model_item: '[[_Standards/WikiData/WD~baby_cry,109649419]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+has_part_s_: "[[_Standards/WikiData/WD~Buka'_al_Khashya,25450754|WD~Buka'_al_Khashya,25450754]]"
+part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620|WD~psychology_terminology,77468620]]'
+model_item: '[[_Standards/WikiData/WD~baby_cry,109649419|WD~baby_cry,109649419]]'
 Archive_of_Our_Own_tag: Crying
 Commons_category: Crying
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Crying-girl.jpg

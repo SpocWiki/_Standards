@@ -73,81 +73,81 @@ aliases:
 - ꯃꯥꯂꯥꯋꯤ
 - 말라위
 has_id_wikidata: Q1020
-flag: '[[_Standards/WikiData/WD~flag_of_Malawi,103001]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Malawi,103001|WD~flag_of_Malawi,103001]]'
 instance_of:
-- '[[_Standards/WikiData/WD~landlocked_country,123480]]'
-- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
-- '[[_Standards/WikiData/WD~country,6256]]'
-- '[[_Standards/WikiData/WD~republic,7270]]'
+- '[[_Standards/WikiData/WD~landlocked_country,123480|WD~landlocked_country,123480]]'
+- '[[_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~country,6256|WD~country,6256]]'
+- '[[_Standards/WikiData/WD~republic,7270|WD~republic,7270]]'
 member_of:
-- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]'
-- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
-- '[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]'
-- '[[_Standards/WikiData/WD~African_Development_Bank,340195]]'
-- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]'
-- '[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]'
-- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
-- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
-- '[[_Standards/WikiData/WD~Southern_African_Development_Community,816706]]'
-- '[[_Standards/WikiData/WD~International_Development_Association,827525]]'
-- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
-- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
-- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
-- '[[_Standards/WikiData/WD~United_Nations,1065]]'
-- '[[_Standards/WikiData/WD~African_Union,7159]]'
-- '[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]'
-- '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
-- '[[_Standards/WikiData/WD~World_Trade_Organization,7825]]'
-- '[[_Standards/WikiData/WD~Interpol,8475]]'
-- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
-anthem: '[[_Standards/WikiData/WD~Mulungu_dalitsa_Malaŵi,215077]]'
-coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Malawi,242909]]'
-different_from: '[[_Standards/WikiData/WD~Marawi,592338]]'
+- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278|WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]'
+- '[[_Standards/WikiData/WD~African_Development_Bank,340195|WD~African_Development_Bank,340195]]'
+- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150|WD~International_Telecommunication_Union,376150]]'
+- '[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535|WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]'
+- '[[_Standards/WikiData/WD~World_Customs_Organization,605326|WD~World_Customs_Organization,605326]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801|WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~Southern_African_Development_Community,816706|WD~Southern_African_Development_Community,816706]]'
+- '[[_Standards/WikiData/WD~International_Development_Association,827525|WD~International_Development_Association,827525]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490|WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770|WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
+- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527|WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~African_Union,7159|WD~African_Union,7159]]'
+- '[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785|WD~Commonwealth_of_Nations,7785]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809|WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817|WD~World_Health_Organization,7817]]'
+- '[[_Standards/WikiData/WD~World_Trade_Organization,7825|WD~World_Trade_Organization,7825]]'
+- '[[_Standards/WikiData/WD~Interpol,8475|WD~Interpol,8475]]'
+- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495|WD~Universal_Postal_Union_UPU,17495]]'
+anthem: '[[_Standards/WikiData/WD~Mulungu_dalitsa_Malaŵi,215077|WD~Mulungu_dalitsa_Malaŵi,215077]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Malawi,242909|WD~coat_of_arms_of_Malawi,242909]]'
+different_from: '[[_Standards/WikiData/WD~Marawi,592338|WD~Marawi,592338]]'
 contains_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Central_Region,860758]]'
-- '[[_Standards/WikiData/WD~Southern_Region,868784]]'
-- '[[_Standards/WikiData/WD~Northern_Region,868827]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_Malawi,1430684]]'
-highest_point: '[[_Standards/WikiData/WD~Mulanje_Massif,1510436]]'
-electrical_plug_type: '[[_Standards/WikiData/WD~BS_1363,1528507]]'
-legislative_body: '[[_Standards/WikiData/WD~National_Assembly,1577811]]'
-geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Malawi,1990296]]'
-lowest_point: '[[_Standards/WikiData/WD~Shire_River,2279579]]'
-economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Malawi,2354603]]'
-demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Malawi,2366173]]'
-central_bank: '[[_Standards/WikiData/WD~Reserve_Bank_of_Malawi,2397584]]'
-culture: '[[_Standards/WikiData/WD~culture_of_Malawi,3007345]]'
+- '[[_Standards/WikiData/WD~Central_Region,860758|WD~Central_Region,860758]]'
+- '[[_Standards/WikiData/WD~Southern_Region,868784|WD~Southern_Region,868784]]'
+- '[[_Standards/WikiData/WD~Northern_Region,868827|WD~Northern_Region,868827]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Malawi,1430684|WD~history_of_Malawi,1430684]]'
+highest_point: '[[_Standards/WikiData/WD~Mulanje_Massif,1510436|WD~Mulanje_Massif,1510436]]'
+electrical_plug_type: '[[_Standards/WikiData/WD~BS_1363,1528507|WD~BS_1363,1528507]]'
+legislative_body: '[[_Standards/WikiData/WD~National_Assembly,1577811|WD~National_Assembly,1577811]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Malawi,1990296|WD~geography_of_Malawi,1990296]]'
+lowest_point: '[[_Standards/WikiData/WD~Shire_River,2279579|WD~Shire_River,2279579]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Malawi,2354603|WD~economy_of_Malawi,2354603]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Malawi,2366173|WD~demographics_of_Malawi,2366173]]'
+central_bank: '[[_Standards/WikiData/WD~Reserve_Bank_of_Malawi,2397584|WD~Reserve_Bank_of_Malawi,2397584]]'
+culture: '[[_Standards/WikiData/WD~culture_of_Malawi,3007345|WD~culture_of_Malawi,3007345]]'
 emergency_phone_number:
-- '[[_Standards/WikiData/WD~999,3086706]]'
-- '[[_Standards/WikiData/WD~997,25648827]]'
-- '[[_Standards/WikiData/WD~998,25648832]]'
-- '[[_Standards/WikiData/WD~990,25648918]]'
+- '[[_Standards/WikiData/WD~999,3086706|WD~999,3086706]]'
+- '[[_Standards/WikiData/WD~997,25648827|WD~997,25648827]]'
+- '[[_Standards/WikiData/WD~998,25648832|WD~998,25648832]]'
+- '[[_Standards/WikiData/WD~990,25648918|WD~990,25648918]]'
 language_used:
-- '[[_Standards/WikiData/WD~Nyakyusa,3272620]]'
-- '[[_Standards/WikiData/WD~Tonga,3847648]]'
-- '[[_Standards/WikiData/WD~Lambya,6481626]]'
-- '[[_Standards/WikiData/WD~Ndali,6983678]]'
-- '[[_Standards/WikiData/WD~Malawi_Lomwe,10975286]]'
-- '[[_Standards/WikiData/WD~Malawi_Sena,11056292]]'
-- '[[_Standards/WikiData/WD~Kokola,11128329]]'
-- '[[_Standards/WikiData/WD~Shinyiha,12636088]]'
-- '[[_Standards/WikiData/WD~Nyika,13123491]]'
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~Chewa,33273]]'
-- '[[_Standards/WikiData/WD~Tumbuka,34138]]'
-- '[[_Standards/WikiData/WD~Yao,36902]]'
+- '[[_Standards/WikiData/WD~Nyakyusa,3272620|WD~Nyakyusa,3272620]]'
+- '[[_Standards/WikiData/WD~Tonga,3847648|WD~Tonga,3847648]]'
+- '[[_Standards/WikiData/WD~Lambya,6481626|WD~Lambya,6481626]]'
+- '[[_Standards/WikiData/WD~Ndali,6983678|WD~Ndali,6983678]]'
+- '[[_Standards/WikiData/WD~Malawi_Lomwe,10975286|WD~Malawi_Lomwe,10975286]]'
+- '[[_Standards/WikiData/WD~Malawi_Sena,11056292|WD~Malawi_Sena,11056292]]'
+- '[[_Standards/WikiData/WD~Kokola,11128329|WD~Kokola,11128329]]'
+- '[[_Standards/WikiData/WD~Shinyiha,12636088|WD~Shinyiha,12636088]]'
+- '[[_Standards/WikiData/WD~Nyika,13123491|WD~Nyika,13123491]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Chewa,33273|WD~Chewa,33273]]'
+- '[[_Standards/WikiData/WD~Tumbuka,34138|WD~Tumbuka,34138]]'
+- '[[_Standards/WikiData/WD~Yao,36902|WD~Yao,36902]]'
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~Africa_Blantyre,4689479]]'
-- '[[_Standards/WikiData/WD~UTC+02_00,6723]]'
-executive_body: '[[_Standards/WikiData/WD~Cabinet_of_Malawi,5015531]]'
-replaces: '[[_Standards/WikiData/WD~Commonwealth_realm_of_Malawi,6741448]]'
-follows: '[[_Standards/WikiData/WD~Commonwealth_realm_of_Malawi,6741448]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Malawi,7112347]]'
+- '[[_Standards/WikiData/WD~Africa_Blantyre,4689479|WD~Africa_Blantyre,4689479]]'
+- '[[_Standards/WikiData/WD~UTC+02_00,6723|WD~UTC+02_00,6723]]'
+executive_body: '[[_Standards/WikiData/WD~Cabinet_of_Malawi,5015531|WD~Cabinet_of_Malawi,5015531]]'
+replaces: '[[_Standards/WikiData/WD~Commonwealth_realm_of_Malawi,6741448|WD~Commonwealth_realm_of_Malawi,6741448]]'
+follows: '[[_Standards/WikiData/WD~Commonwealth_realm_of_Malawi,6741448|WD~Commonwealth_realm_of_Malawi,6741448]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Malawi,7112347|WD~outline_of_Malawi,7112347]]'
 part_of:
-- '[[_Standards/WikiData/WD~Southeast_Africa,7569281]]'
-- '[[_Standards/WikiData/WD~Southern_Africa,27394]]'
-- '[[_Standards/WikiData/WD~East_Africa,27407]]'
+- '[[_Standards/WikiData/WD~Southeast_Africa,7569281|WD~Southeast_Africa,7569281]]'
+- '[[_Standards/WikiData/WD~Southern_Africa,27394|WD~Southern_Africa,27394]]'
+- '[[_Standards/WikiData/WD~East_Africa,27407|WD~East_Africa,27407]]'
 geoshape: http://commons.wikimedia.org/data/main/Data:Malawi.map
 pronunciation_audio:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Malawi.ogg
@@ -214,15 +214,15 @@ official_name:
 - Malawi
 - Malawi
 short_name: "\U0001F1F2\U0001F1FC"
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Malawi,11255482]]'
-driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
-office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Malawi,15921529]]'
-office_held_by_head_of_government: '[[_Standards/WikiData/WD~President_of_Malawi,15921529]]'
-described_by_source: "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-head_of_state: '[[_Standards/WikiData/WD~Lazarus_Chakwera,16202782]]'
-head_of_government: '[[_Standards/WikiData/WD~Lazarus_Chakwera,16202782]]'
-has_characteristic: '[[_Standards/WikiData/WD~partly_free_country,47185145]]'
-studied_in: '[[_Standards/WikiData/WD~Malawian_studies,54255721]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Malawi,11255482|WD~Portal_Malawi,11255482]]'
+driving_side: '[[_Standards/WikiData/WD~left,13196750|WD~left,13196750]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Malawi,15921529|WD~President_of_Malawi,15921529]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~President_of_Malawi,15921529|WD~President_of_Malawi,15921529]]'
+described_by_source: "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+head_of_state: '[[_Standards/WikiData/WD~Lazarus_Chakwera,16202782|WD~Lazarus_Chakwera,16202782]]'
+head_of_government: '[[_Standards/WikiData/WD~Lazarus_Chakwera,16202782|WD~Lazarus_Chakwera,16202782]]'
+has_characteristic: '[[_Standards/WikiData/WD~partly_free_country,47185145|WD~partly_free_country,47185145]]'
+studied_in: '[[_Standards/WikiData/WD~Malawian_studies,54255721|WD~Malawian_studies,54255721]]'
 UMLS_CUI: C0024548
 ISNI: 121867269
 MeSH_tree_code: Z01.058.290.175.500
@@ -233,33 +233,33 @@ nominal_GDP:
 - 12602334124
 - 13164667627
 diplomatic_relation:
-- '[[_Standards/WikiData/WD~South_Africa,258]]'
-- '[[_Standards/WikiData/WD~Australia,408]]'
-- '[[_Standards/WikiData/WD~North_Korea,423]]'
-- '[[_Standards/WikiData/WD~Israel,801]]'
-- '[[_Standards/WikiData/WD~Malaysia,833]]'
-- '[[_Standards/WikiData/WD~Taiwan,865]]'
-- '[[_Standards/WikiData/WD~Bangladesh,902]]'
-- '[[_Standards/WikiData/WD~Zambia,953]]'
-- '[[_Standards/WikiData/WD~Mozambique,1029]]'
-- '[[_Standards/WikiData/WD~Nigeria,1033]]'
-- '[[_Standards/WikiData/WD~Rwanda,1037]]'
-- '[[_Standards/WikiData/WD~Kosovo,1246]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~South_Africa,258|WD~South_Africa,258]]'
+- '[[_Standards/WikiData/WD~Australia,408|WD~Australia,408]]'
+- '[[_Standards/WikiData/WD~North_Korea,423|WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~Israel,801|WD~Israel,801]]'
+- '[[_Standards/WikiData/WD~Malaysia,833|WD~Malaysia,833]]'
+- '[[_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~Bangladesh,902|WD~Bangladesh,902]]'
+- '[[_Standards/WikiData/WD~Zambia,953|WD~Zambia,953]]'
+- '[[_Standards/WikiData/WD~Mozambique,1029|WD~Mozambique,1029]]'
+- '[[_Standards/WikiData/WD~Nigeria,1033|WD~Nigeria,1033]]'
+- '[[_Standards/WikiData/WD~Rwanda,1037|WD~Rwanda,1037]]'
+- '[[_Standards/WikiData/WD~Kosovo,1246|WD~Kosovo,1246]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
 shares_border_with:
-- '[[_Standards/WikiData/WD~Tanzania,924]]'
-- '[[_Standards/WikiData/WD~Zambia,953]]'
-- '[[_Standards/WikiData/WD~Mozambique,1029]]'
-country: '[[_Standards/WikiData/WD~Malawi,1020]]'
+- '[[_Standards/WikiData/WD~Tanzania,924|WD~Tanzania,924]]'
+- '[[_Standards/WikiData/WD~Zambia,953|WD~Zambia,953]]'
+- '[[_Standards/WikiData/WD~Mozambique,1029|WD~Mozambique,1029]]'
+country: '[[_Standards/WikiData/WD~Malawi,1020|WD~Malawi,1020]]'
 official_language:
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~Chewa,33273]]'
-capital: '[[_Standards/WikiData/WD~Lilongwe,3876]]'
-named_after: '[[_Standards/WikiData/WD~Lake_Malawi,5532]]'
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~Southern_Africa,27394]]'
-continent: '[[_Standards/WikiData/WD~Africa,15]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Chewa,33273|WD~Chewa,33273]]'
+capital: '[[_Standards/WikiData/WD~Lilongwe,3876|WD~Lilongwe,3876]]'
+named_after: '[[_Standards/WikiData/WD~Lake_Malawi,5532|WD~Lake_Malawi,5532]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Southern_Africa,27394|WD~Southern_Africa,27394]]'
+continent: '[[_Standards/WikiData/WD~Africa,15|WD~Africa,15]]'
 unemployment_rate: 8
 mains_voltage: 230
 BTI_Governance_Index:
@@ -273,7 +273,7 @@ BTI_Governance_Index:
 - 5.86
 - 5.99
 VAT_rate: 16.5
-top_level_Internet_domain: '[[_Standards/WikiData/WD~.mw,43073]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.mw,43073|WD~.mw,43073]]'
 Inequality_adjusted_Human_Development_Index: 0.377
 Gini_coefficient: 38.5
 Happy_Planet_Index_score: 38.7
@@ -409,7 +409,7 @@ dv_UNTERM_Chinese_Formal: 马拉维共和国
 dv_UNTERM_French_Formal: la République du Malawi
 dv_UNTERM_Russian: Малави
 dv_UNTERM_Russian_Formal: Республика Малави
-dv_Region_Name: '[[../../Africa]]'
+dv_Region_Name: '[[../../Africa|Africa]]'
 dv_Intermediate_Region_Name: '[[Eastern Africa]]'
 dv_Sub-region_Name: '[[Sub-Saharan Africa]]'
 dv_Region: 2
@@ -719,7 +719,7 @@ dv_has_:
 dv_has_name_de: Malawi
 dv_Area-Total: 118484
 dv_Area-Land: 94080
-dv_has_place_continent: '[[../../Africa]]'
+dv_has_place_continent: '[[../../Africa|Africa]]'
 dv_VehicleCode: MW
 dv_Alcohol-l: 1.7
 dv_Language-Id: 499
@@ -815,7 +815,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Malawi/ReadMe]] 
+[[Malawi/ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -834,11 +834,11 @@ Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
-Capital :: [[Malawi/Districts~Malawi/Lilongwe]]  
+Capital :: [[Malawi/Districts~Malawi/Lilongwe|Lilongwe]]  
 
 ![[Coat_of_arms_of_Malawi.svg|550]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Malawi.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Malawi.mp3|Anthem-Malawi.mp3]]
 
 ![[Flag_of_Malawi.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`

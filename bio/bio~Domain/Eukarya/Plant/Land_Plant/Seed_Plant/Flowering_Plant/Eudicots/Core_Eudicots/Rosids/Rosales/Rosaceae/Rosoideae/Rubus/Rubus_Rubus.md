@@ -80,17 +80,17 @@ aliases:
 - 黑莓亚属
 - 루부스아속
 has_id_wikidata: Q13180
-has_fruit_type: '[[_Standards/WikiData/WD~polydrupe,163233]]'
-parent_taxon: '[[../../../../../../../../../../../../../../WikiData/WD~Rubus,602740]]'
-described_by_source: '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-taxon_rank: '[[_Standards/WikiData/WD~subgenus,3238261]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Rubus_subg._Rubus,14442460]]'
+has_fruit_type: '[[_Standards/WikiData/WD~polydrupe,163233|WD~polydrupe,163233]]'
+parent_taxon: '[[../../../../../../../../../../../../../../WikiData/WD~Rubus,602740|WD~Rubus,602740]]'
+described_by_source: '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+taxon_rank: '[[_Standards/WikiData/WD~subgenus,3238261|WD~subgenus,3238261]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Rubus_subg._Rubus,14442460|WD~Template_Rubus_subg._Rubus,14442460]]'
 this_taxon_is_source_of:
-- '[[_Standards/WikiData/WD~blackberry,19842373]]'
-- '[[_Standards/WikiData/WD~blackberry_seed_oil,55829850]]'
-- '[[_Standards/WikiData/WD~blackberry_oil,102331449]]'
-- '[[_Standards/WikiData/WD~blackberry_juice,104030701]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~blackberry,19842373|WD~blackberry,19842373]]'
+- '[[_Standards/WikiData/WD~blackberry_seed_oil,55829850|WD~blackberry_seed_oil,55829850]]'
+- '[[_Standards/WikiData/WD~blackberry_oil,102331449|WD~blackberry_oil,102331449]]'
+- '[[_Standards/WikiData/WD~blackberry_juice,104030701|WD~blackberry_juice,104030701]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 OmegaWiki_Defined_Meaning: 1041802
 image: http://commons.wikimedia.org/wiki/Special:FilePath/B%C3%B6y%C3%BCrtk%C9%99n.jpg
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomygenus.aspx?type=subgenus&id=18638

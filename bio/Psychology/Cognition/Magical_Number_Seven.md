@@ -64,7 +64,7 @@ dv_has_:
 
 # [[Magical_Number_Seven]] 
 
-#has_/creator :: [[../../../../_protect/bio/Psychology/Psychologist/Armitage-Miller,George]] 
+#has_/creator :: [[../../../../_protect/bio/Psychology/Psychologist/Armitage-Miller,George|Armitage-Miller,George]] 
 #has_/time_/started :: 1956-07-01 
 
 ## #has_/text_of_/abstract  

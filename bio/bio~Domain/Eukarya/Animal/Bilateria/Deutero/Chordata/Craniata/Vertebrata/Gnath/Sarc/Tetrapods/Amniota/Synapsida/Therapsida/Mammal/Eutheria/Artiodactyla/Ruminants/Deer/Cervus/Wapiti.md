@@ -48,30 +48,30 @@ aliases:
 - 加拿大马鹿
 - 와피티사슴
 has_id_wikidata: Q180404
-IUCN_conservation_status: '[[_Standards/WikiData/WD~Least_Concern,211005]]'
+IUCN_conservation_status: '[[_Standards/WikiData/WD~Least_Concern,211005|WD~Least_Concern,211005]]'
 described_by_source:
-- '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
-parent_taxon: '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Cervus,644255]]'
+- '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917|WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+parent_taxon: '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Cervus,644255|WD~Cervus,644255]]'
 maintained_by_WikiProject:
-- '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
+- '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615|WD~WikiProject_Invasion_Biology,56241615]]'
 this_taxon_is_source_of:
-- '[[_Standards/WikiData/WD~wapiti_meat,102317893]]'
+- '[[_Standards/WikiData/WD~wapiti_meat,102317893|WD~wapiti_meat,102317893]]'
 taxon_range:
-- '[[_Standards/WikiData/WD~Mongolia,711]]'
-- '[[_Standards/WikiData/WD~Korea,18097]]'
-- '[[_Standards/WikiData/WD~Canada,16]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Russia,159]]'
-- '[[_Standards/WikiData/WD~Kazakhstan,232]]'
-taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
+- '[[_Standards/WikiData/WD~Mongolia,711|WD~Mongolia,711]]'
+- '[[_Standards/WikiData/WD~Korea,18097|WD~Korea,18097]]'
+- '[[_Standards/WikiData/WD~Canada,16|WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Kazakhstan,232|WD~Kazakhstan,232]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432|WD~species,7432]]'
 instance_of:
-- '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 different_from:
-- '[[_Standards/WikiData/WD~Alces_alces,35517]]'
+- '[[_Standards/WikiData/WD~Alces_alces,35517|WD~Alces_alces,35517]]'
 ITIS_TSN: 898259
 short_name:
 - C. canadensis
@@ -206,7 +206,7 @@ dv_has_:
 
 # [[Wapiti]] 
 
-![[Wapiti/Wapiti.jpg]]
+![[Wapiti/Wapiti.jpg|Wapiti.jpg]]
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Cervus_canadensis,180404|WD~Cervus_canadensis,180404]] 
 

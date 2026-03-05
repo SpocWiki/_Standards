@@ -74,19 +74,19 @@ aliases:
 - 红树林
 - 맹그로브
 has_id_wikidata: Q19756
-subclass_of: '[[_Standards/WikiData/WD~biome,101998]]'
+subclass_of: '[[_Standards/WikiData/WD~biome,101998|WD~biome,101998]]'
 instance_of:
-- '[[_Standards/WikiData/WD~biome,101998]]'
-- '[[_Standards/WikiData/WD~vegetational_formation,2083910]]'
-- '[[_Standards/WikiData/WD~WWF_biome,119820518]]'
+- '[[_Standards/WikiData/WD~biome,101998|WD~biome,101998]]'
+- '[[_Standards/WikiData/WD~vegetational_formation,2083910|WD~vegetational_formation,2083910]]'
+- '[[_Standards/WikiData/WD~WWF_biome,119820518|WD~WWF_biome,119820518]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 different_from:
-- '[[_Standards/WikiData/WD~mangrove,1372331]]'
-- '[[_Standards/WikiData/WD~Q24878646,24878646]]'
-has_characteristic: '[[_Standards/WikiData/WD~mangrove_forest,1817834]]'
+- '[[_Standards/WikiData/WD~mangrove,1372331|WD~mangrove,1372331]]'
+- '[[_Standards/WikiData/WD~Q24878646,24878646|WD~Q24878646,24878646]]'
+has_characteristic: '[[_Standards/WikiData/WD~mangrove_forest,1817834|WD~mangrove_forest,1817834]]'
 Commons_gallery: Mangrove
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Mangroves%20in%20Kannur%2C%20India.jpg
@@ -99,7 +99,7 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Mangrove%20joanes%20br
 Commons_category: Mangroves
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Mangrove,19756]]'
+  - '[[../../../../WikiData/WD~Mangrove,19756|WD~Mangrove,19756]]'
   - '[[/_Standards/Earth/Climate/Biosphere/Biome/Mangrove|Mangrove]]'
   - '[[/_public/Earth/Climate/Biosphere/Biome/Mangrove.public|Mangrove.public]]'
   - '[[/_internal/Earth/Climate/Biosphere/Biome/Mangrove.internal|Mangrove.internal]]'
@@ -108,7 +108,7 @@ dv_is_:
   - '[[/_personal/Earth/Climate/Biosphere/Biome/Mangrove.personal|Mangrove.personal]]'
   - '[[/_secret/Earth/Climate/Biosphere/Biome/Mangrove.secret|Mangrove.secret]]'
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Mangrove,19756]]'
+- '[[../../../../WikiData/WD~Mangrove,19756|WD~Mangrove,19756]]'
 - '[[/_Standards/Earth/Climate/Biosphere/Biome/Mangrove|Mangrove]]'
 - '[[/_public/Earth/Climate/Biosphere/Biome/Mangrove.public|Mangrove.public]]'
 - '[[/_internal/Earth/Climate/Biosphere/Biome/Mangrove.internal|Mangrove.internal]]'

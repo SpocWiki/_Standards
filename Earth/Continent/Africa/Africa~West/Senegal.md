@@ -89,9 +89,9 @@ aliases:
 - 세네갈
 has_id_wikidata: Q1041
 age_of_majority: 18
-anthem: '[[_Standards/WikiData/WD~Le_Lion_rouge,336299]]'
+anthem: '[[_Standards/WikiData/WD~Le_Lion_rouge,336299|WD~Le_Lion_rouge,336299]]'
 area: 196722
-basic_form_of_government: '[[_Standards/WikiData/WD~presidential_system,49892]]'
+basic_form_of_government: '[[_Standards/WikiData/WD~presidential_system,49892|WD~presidential_system,49892]]'
 birth_rate:
 - 33.47
 - 32.067
@@ -117,48 +117,48 @@ BTI_Status_Index:
 - 6.18
 - 6.64
 - 6
-capital: '[[_Standards/WikiData/WD~Dakar,3718]]'
-central_bank: '[[_Standards/WikiData/WD~Central_Bank_of_West_African_States,620942]]'
+capital: '[[_Standards/WikiData/WD~Dakar,3718|WD~Dakar,3718]]'
+central_bank: '[[_Standards/WikiData/WD~Central_Bank_of_West_African_States,620942|WD~Central_Bank_of_West_African_States,620942]]'
 CIVICUS_Monitor_country_entry: senegal
-coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Senegal,209259]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Senegal,209259|WD~coat_of_arms_of_Senegal,209259]]'
 coat_of_arms_image: http://commons.wikimedia.org/wiki/Special:FilePath/Coat%20of%20arms%20of%20Senegal.svg
 Commons_category: Senegal
 Commons_gallery: Sénégal
 confidential: public
 contains_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Saint-Louis,178872]]'
-- '[[_Standards/WikiData/WD~Sédhiou,589848]]'
-- '[[_Standards/WikiData/WD~Louga,738061]]'
-- '[[_Standards/WikiData/WD~Kolda,738081]]'
-- '[[_Standards/WikiData/WD~Ziguinchor,822692]]'
-- '[[_Standards/WikiData/WD~Kaolack,847671]]'
-- '[[_Standards/WikiData/WD~Thiès_Region,847682]]'
-- '[[_Standards/WikiData/WD~Tambacounda_Region,848554]]'
-- '[[_Standards/WikiData/WD~Diourbel_Region,856261]]'
-- '[[_Standards/WikiData/WD~Dakar,856268]]'
-- '[[_Standards/WikiData/WD~Matam,856275]]'
-- '[[_Standards/WikiData/WD~Fatick,856282]]'
-- '[[_Standards/WikiData/WD~Kedougou_Region,1046666]]'
-- '[[_Standards/WikiData/WD~Kaffrine,1059694]]'
-continent: '[[_Standards/WikiData/WD~Africa,15]]'
+- '[[_Standards/WikiData/WD~Saint-Louis,178872|WD~Saint-Louis,178872]]'
+- '[[_Standards/WikiData/WD~Sédhiou,589848|WD~Sédhiou,589848]]'
+- '[[_Standards/WikiData/WD~Louga,738061|WD~Louga,738061]]'
+- '[[_Standards/WikiData/WD~Kolda,738081|WD~Kolda,738081]]'
+- '[[_Standards/WikiData/WD~Ziguinchor,822692|WD~Ziguinchor,822692]]'
+- '[[_Standards/WikiData/WD~Kaolack,847671|WD~Kaolack,847671]]'
+- '[[_Standards/WikiData/WD~Thiès_Region,847682|WD~Thiès_Region,847682]]'
+- '[[_Standards/WikiData/WD~Tambacounda_Region,848554|WD~Tambacounda_Region,848554]]'
+- '[[_Standards/WikiData/WD~Diourbel_Region,856261|WD~Diourbel_Region,856261]]'
+- '[[_Standards/WikiData/WD~Dakar,856268|WD~Dakar,856268]]'
+- '[[_Standards/WikiData/WD~Matam,856275|WD~Matam,856275]]'
+- '[[_Standards/WikiData/WD~Fatick,856282|WD~Fatick,856282]]'
+- '[[_Standards/WikiData/WD~Kedougou_Region,1046666|WD~Kedougou_Region,1046666]]'
+- '[[_Standards/WikiData/WD~Kaffrine,1059694|WD~Kaffrine,1059694]]'
+continent: '[[_Standards/WikiData/WD~Africa,15|WD~Africa,15]]'
 coordinates_of_easternmost_point: Point(-11.35091 12.46581)
 coordinates_of_northernmost_point: Point(-14.9863 16.6912)
 coordinates_of_southernmost_point: Point(-16.71726 12.33954)
 coordinates_of_westernmost_point: Point(-17.54434 14.74151)
 coordinate_location: Point(-14.283333 14.366667)
-country: '[[_Standards/WikiData/WD~Senegal,1041]]'
+country: '[[_Standards/WikiData/WD~Senegal,1041|WD~Senegal,1041]]'
 country_calling_code: 221
 cssclasses:
 - Country
-culture: '[[_Standards/WikiData/WD~culture_of_Senegal,3007378]]'
-currency: '[[_Standards/WikiData/WD~West_African_CFA_franc,861690]]'
+culture: '[[_Standards/WikiData/WD~culture_of_Senegal,3007378|WD~culture_of_Senegal,3007378]]'
+currency: '[[_Standards/WikiData/WD~West_African_CFA_franc,861690|WD~West_African_CFA_franc,861690]]'
 death_rate:
 - 5.409
 - 5.548
 - 5.584
 - 5.922
 Democracy_Index: 5.67
-demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Senegal,2587618]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Senegal,2587618|WD~demographics_of_Senegal,2587618]]'
 demonym:
 - Senegalese
 - Senegalesin
@@ -199,39 +199,39 @@ demonym:
 - senegałezi
 - senegałezo
 - Senegalänan
-described_by_source: '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+described_by_source: '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 Dewey_Decimal_Classification: 2--663
 different_from:
-- '[[_Standards/WikiData/WD~Portal_Senegal,14616261]]'
-- '[[_Standards/WikiData/WD~Senegal_River,3569]]'
+- '[[_Standards/WikiData/WD~Portal_Senegal,14616261|WD~Portal_Senegal,14616261]]'
+- '[[_Standards/WikiData/WD~Senegal_River,3569|WD~Senegal_River,3569]]'
 diplomatic_relation:
-- '[[_Standards/WikiData/WD~Australia,408]]'
-- '[[_Standards/WikiData/WD~North_Korea,423]]'
-- '[[_Standards/WikiData/WD~European_Union,458]]'
-- '[[_Standards/WikiData/WD~India,668]]'
-- '[[_Standards/WikiData/WD~Iran,794]]'
-- '[[_Standards/WikiData/WD~Taiwan,865]]'
-- '[[_Standards/WikiData/WD~Bangladesh,902]]'
-- '[[_Standards/WikiData/WD~Cape_Verde,1011]]'
-- '[[_Standards/WikiData/WD~Mauritania,1025]]'
-- '[[_Standards/WikiData/WD~Kosovo,1246]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~Poland,36]]'
-- '[[_Standards/WikiData/WD~Mexico,96]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Russia,159]]'
-- '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Australia,408|WD~Australia,408]]'
+- '[[_Standards/WikiData/WD~North_Korea,423|WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~European_Union,458|WD~European_Union,458]]'
+- '[[_Standards/WikiData/WD~India,668|WD~India,668]]'
+- '[[_Standards/WikiData/WD~Iran,794|WD~Iran,794]]'
+- '[[_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~Bangladesh,902|WD~Bangladesh,902]]'
+- '[[_Standards/WikiData/WD~Cape_Verde,1011|WD~Cape_Verde,1011]]'
+- '[[_Standards/WikiData/WD~Mauritania,1025|WD~Mauritania,1025]]'
+- '[[_Standards/WikiData/WD~Kosovo,1246|WD~Kosovo,1246]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Poland,36|WD~Poland,36]]'
+- '[[_Standards/WikiData/WD~Mexico,96|WD~Mexico,96]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
 draft: false
-driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Senegal,749199]]'
+driving_side: '[[_Standards/WikiData/WD~right,14565199|WD~right,14565199]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Senegal,749199|WD~economy_of_Senegal,749199]]'
 electrical_plug_type:
-- '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- '[[_Standards/WikiData/WD~Type_K,1502017]]'
-- '[[_Standards/WikiData/WD~Type_E,2335536]]'
-- '[[_Standards/WikiData/WD~AC_power_plugs_and_sockets__British_and_related_types,60740126]]'
+- '[[_Standards/WikiData/WD~Europlug,1378312|WD~Europlug,1378312]]'
+- '[[_Standards/WikiData/WD~Type_K,1502017|WD~Type_K,1502017]]'
+- '[[_Standards/WikiData/WD~Type_E,2335536|WD~Type_E,2335536]]'
+- '[[_Standards/WikiData/WD~AC_power_plugs_and_sockets__British_and_related_types,60740126|WD~AC_power_plugs_and_sockets__British_and_related_types,60740126]]'
 emergency_phone_number:
-- '[[_Standards/WikiData/WD~17,25648842]]'
-- '[[_Standards/WikiData/WD~18,25648843]]'
+- '[[_Standards/WikiData/WD~17,25648842|WD~17,25648842]]'
+- '[[_Standards/WikiData/WD~18,25648843|WD~18,25648843]]'
 expiryDate: ''
 female_population:
 - 8140163
@@ -239,21 +239,21 @@ female_population:
 - 8579664
 - 8800406
 FIPS_10_4_countries_and_regions_: SG
-flag: '[[_Standards/WikiData/WD~flag_of_Senegal,134933]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Senegal,134933|WD~flag_of_Senegal,134933]]'
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20Senegal.svg
-geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Senegal,2046849]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Senegal,2046849|WD~geography_of_Senegal,2046849]]'
 geoshape: http://commons.wikimedia.org/data/main/Data:Senegal.map
 Gini_coefficient: 38.1
 GitHub_topic: senegal
 GS1_country_code: 604
 Happy_Planet_Index_score: 51.2
 hashtag: Senegal
-has_characteristic: '[[_Standards/WikiData/WD~free_country,3174312]]'
+has_characteristic: '[[_Standards/WikiData/WD~free_country,3174312|WD~free_country,3174312]]'
 has_time_started: 1960-06
-head_of_government: '[[_Standards/WikiData/WD~Bassirou_Diomaye_Diakhar_Faye,124382437]]'
-head_of_state: '[[_Standards/WikiData/WD~Bassirou_Diomaye_Diakhar_Faye,124382437]]'
-highest_point: '[[_Standards/WikiData/WD~Népin_Cliff,98596662]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_Senegal,1151513]]'
+head_of_government: '[[_Standards/WikiData/WD~Bassirou_Diomaye_Diakhar_Faye,124382437|WD~Bassirou_Diomaye_Diakhar_Faye,124382437]]'
+head_of_state: '[[_Standards/WikiData/WD~Bassirou_Diomaye_Diakhar_Faye,124382437|WD~Bassirou_Diomaye_Diakhar_Faye,124382437]]'
+highest_point: '[[_Standards/WikiData/WD~Népin_Cliff,98596662|WD~Népin_Cliff,98596662]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Senegal,1151513|WD~history_of_Senegal,1151513]]'
 Human_Development_Index: 0.511
 IAB_code: 1399
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20map%20of%20Senegal.svg
@@ -261,10 +261,10 @@ inception: 1960
 Inequality_adjusted_Human_Development_Index: 0.354
 INSEE_countries_and_foreign_territories_code: 99341
 instance_of:
-- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
-- '[[_Standards/WikiData/WD~Rechtsstaat,4209223]]'
-- '[[_Standards/WikiData/WD~country,6256]]'
-- '[[_Standards/WikiData/WD~republic,7270]]'
+- '[[_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~Rechtsstaat,4209223|WD~Rechtsstaat,4209223]]'
+- '[[_Standards/WikiData/WD~country,6256|WD~country,6256]]'
+- '[[_Standards/WikiData/WD~republic,7270|WD~republic,7270]]'
 IOC_country_code: SEN
 isDeleted: false
 ISNI: 404582116
@@ -281,63 +281,63 @@ Languages:
 - fuc
 - mnk
 language_used:
-- '[[_Standards/WikiData/WD~Pulaar,1420205]]'
-- '[[_Standards/WikiData/WD~Kasa,3446622]]'
-- '[[_Standards/WikiData/WD~Jola-Fonyi,3507832]]'
-- '[[_Standards/WikiData/WD~Jola-Felupe,6269820]]'
-- '[[_Standards/WikiData/WD~Kerak,11010783]]'
-- '[[_Standards/WikiData/WD~Western_Maninkakan,11028033]]'
-- '[[_Standards/WikiData/WD~Balanta-Ganja,19359034]]'
-- '[[_Standards/WikiData/WD~French,150]]'
-- '[[_Standards/WikiData/WD~Guinea-Bissau_Creole,33339]]'
-- '[[_Standards/WikiData/WD~Fula,33454]]'
-- '[[_Standards/WikiData/WD~Mandinka,33678]]'
-- '[[_Standards/WikiData/WD~Wolof,34257]]'
-- '[[_Standards/WikiData/WD~Bandial,34872]]'
-- '[[_Standards/WikiData/WD~Bayot,35019]]'
-- '[[_Standards/WikiData/WD~Badyara,35095]]'
-- '[[_Standards/WikiData/WD~Bassari,35098]]'
-- '[[_Standards/WikiData/WD~Bedik,35096]]'
-- '[[_Standards/WikiData/WD~Gusilay,35439]]'
-- '[[_Standards/WikiData/WD~Bainouk-Gunyaamolo-Gutobor,35506]]'
-- '[[_Standards/WikiData/WD~Yalunka,35524]]'
-- '[[_Standards/WikiData/WD~Laalaa,35564]]'
-- '[[_Standards/WikiData/WD~Kwatay,35699]]'
-- '[[_Standards/WikiData/WD~Karon,35704]]'
-- '[[_Standards/WikiData/WD~Mankanya,35789]]'
-- '[[_Standards/WikiData/WD~Mandjak,35822]]'
-- '[[_Standards/WikiData/WD~Mlomp,36009]]'
-- '[[_Standards/WikiData/WD~Ndut,36028]]'
-- '[[_Standards/WikiData/WD~Serer,36284]]'
-- '[[_Standards/WikiData/WD~Noon,36304]]'
-- '[[_Standards/WikiData/WD~Safen,36308]]'
-- '[[_Standards/WikiData/WD~Palor,36318]]'
-- '[[_Standards/WikiData/WD~Bainouk-Samik,36390]]'
-- '[[_Standards/WikiData/WD~Soninke,36660]]'
-- '[[_Standards/WikiData/WD~Wamey,36935]]'
+- '[[_Standards/WikiData/WD~Pulaar,1420205|WD~Pulaar,1420205]]'
+- '[[_Standards/WikiData/WD~Kasa,3446622|WD~Kasa,3446622]]'
+- '[[_Standards/WikiData/WD~Jola-Fonyi,3507832|WD~Jola-Fonyi,3507832]]'
+- '[[_Standards/WikiData/WD~Jola-Felupe,6269820|WD~Jola-Felupe,6269820]]'
+- '[[_Standards/WikiData/WD~Kerak,11010783|WD~Kerak,11010783]]'
+- '[[_Standards/WikiData/WD~Western_Maninkakan,11028033|WD~Western_Maninkakan,11028033]]'
+- '[[_Standards/WikiData/WD~Balanta-Ganja,19359034|WD~Balanta-Ganja,19359034]]'
+- '[[_Standards/WikiData/WD~French,150|WD~French,150]]'
+- '[[_Standards/WikiData/WD~Guinea-Bissau_Creole,33339|WD~Guinea-Bissau_Creole,33339]]'
+- '[[_Standards/WikiData/WD~Fula,33454|WD~Fula,33454]]'
+- '[[_Standards/WikiData/WD~Mandinka,33678|WD~Mandinka,33678]]'
+- '[[_Standards/WikiData/WD~Wolof,34257|WD~Wolof,34257]]'
+- '[[_Standards/WikiData/WD~Bandial,34872|WD~Bandial,34872]]'
+- '[[_Standards/WikiData/WD~Bayot,35019|WD~Bayot,35019]]'
+- '[[_Standards/WikiData/WD~Badyara,35095|WD~Badyara,35095]]'
+- '[[_Standards/WikiData/WD~Bassari,35098|WD~Bassari,35098]]'
+- '[[_Standards/WikiData/WD~Bedik,35096|WD~Bedik,35096]]'
+- '[[_Standards/WikiData/WD~Gusilay,35439|WD~Gusilay,35439]]'
+- '[[_Standards/WikiData/WD~Bainouk-Gunyaamolo-Gutobor,35506|WD~Bainouk-Gunyaamolo-Gutobor,35506]]'
+- '[[_Standards/WikiData/WD~Yalunka,35524|WD~Yalunka,35524]]'
+- '[[_Standards/WikiData/WD~Laalaa,35564|WD~Laalaa,35564]]'
+- '[[_Standards/WikiData/WD~Kwatay,35699|WD~Kwatay,35699]]'
+- '[[_Standards/WikiData/WD~Karon,35704|WD~Karon,35704]]'
+- '[[_Standards/WikiData/WD~Mankanya,35789|WD~Mankanya,35789]]'
+- '[[_Standards/WikiData/WD~Mandjak,35822|WD~Mandjak,35822]]'
+- '[[_Standards/WikiData/WD~Mlomp,36009|WD~Mlomp,36009]]'
+- '[[_Standards/WikiData/WD~Ndut,36028|WD~Ndut,36028]]'
+- '[[_Standards/WikiData/WD~Serer,36284|WD~Serer,36284]]'
+- '[[_Standards/WikiData/WD~Noon,36304|WD~Noon,36304]]'
+- '[[_Standards/WikiData/WD~Safen,36308|WD~Safen,36308]]'
+- '[[_Standards/WikiData/WD~Palor,36318|WD~Palor,36318]]'
+- '[[_Standards/WikiData/WD~Bainouk-Samik,36390|WD~Bainouk-Samik,36390]]'
+- '[[_Standards/WikiData/WD~Soninke,36660|WD~Soninke,36660]]'
+- '[[_Standards/WikiData/WD~Wamey,36935|WD~Wamey,36935]]'
 layout: ''
-legislative_body: '[[_Standards/WikiData/WD~National_Assembly,1853640]]'
+legislative_body: '[[_Standards/WikiData/WD~National_Assembly,1853640|WD~National_Assembly,1853640]]'
 Libris_URI: 0xbddmtj2fgkp1w
 licence_plate_code: SN
 license: CC BY-SA 4.0
 life_expectancy: 67.146
 linkTitle: ''
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~West_Africa,4412]]'
-located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~West_Africa,4412|WD~West_Africa,4412]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Atlantic_Ocean,97|WD~Atlantic_Ocean,97]]'
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~Africa_Dakar,4689488]]'
-- '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
+- '[[_Standards/WikiData/WD~Africa_Dakar,4689488|WD~Africa_Dakar,4689488]]'
+- '[[_Standards/WikiData/WD~UTC_00_00,6574|WD~UTC_00_00,6574]]'
 location:
 - 14.435
 - -17.125
 locator_map_image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/LocationSenegal.svg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Senegal%20%28orthographic%20projection%29.svg
-lowest_point: '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
+lowest_point: '[[_Standards/WikiData/WD~Atlantic_Ocean,97|WD~Atlantic_Ocean,97]]'
 M49_code: 686
-madhhab: '[[_Standards/WikiData/WD~Malikism,48221]]'
+madhhab: '[[_Standards/WikiData/WD~Malikism,48221|WD~Malikism,48221]]'
 mains_voltage: 230
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Senegal,13229526]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Senegal,13229526|WD~WikiProject_Senegal,13229526]]'
 male_population:
 - 7860618
 - 8076926
@@ -348,33 +348,33 @@ marriageable_age:
 - 16
 - 18
 member_of:
-- '[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]'
-- '[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]'
-- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]'
-- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
-- '[[_Standards/WikiData/WD~Economic_Community_of_West_African_States,193272]]'
-- '[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]'
-- '[[_Standards/WikiData/WD~African_Development_Bank,340195]]'
-- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]'
-- '[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]'
-- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
-- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
-- '[[_Standards/WikiData/WD~International_Development_Association,827525]]'
-- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
-- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
-- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
-- '[[_Standards/WikiData/WD~OHADA,2029901]]'
-- '[[_Standards/WikiData/WD~AFRISTAT,3348506]]'
-- '[[_Standards/WikiData/WD~African_Groundnut_Council,4689777]]'
-- '[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]'
-- '[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]'
-- '[[_Standards/WikiData/WD~United_Nations,1065]]'
-- '[[_Standards/WikiData/WD~African_Union,7159]]'
-- '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
-- '[[_Standards/WikiData/WD~World_Trade_Organization,7825]]'
-- '[[_Standards/WikiData/WD~Interpol,8475]]'
-- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
+- '[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102|WD~Organisation_internationale_de_la_Francophonie,134102]]'
+- '[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656|WD~International_Civil_Defence_Organisation,162656]]'
+- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~Economic_Community_of_West_African_States,193272|WD~Economic_Community_of_West_African_States,193272]]'
+- '[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278|WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]'
+- '[[_Standards/WikiData/WD~African_Development_Bank,340195|WD~African_Development_Bank,340195]]'
+- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150|WD~International_Telecommunication_Union,376150]]'
+- '[[_Standards/WikiData/WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535|WD~United_Nations_African_Union_Hybrid_Operation_in_Darfur,384535]]'
+- '[[_Standards/WikiData/WD~World_Customs_Organization,605326|WD~World_Customs_Organization,605326]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801|WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~International_Development_Association,827525|WD~International_Development_Association,827525]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490|WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770|WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
+- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527|WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[_Standards/WikiData/WD~OHADA,2029901|WD~OHADA,2029901]]'
+- '[[_Standards/WikiData/WD~AFRISTAT,3348506|WD~AFRISTAT,3348506]]'
+- '[[_Standards/WikiData/WD~African_Groundnut_Council,4689777|WD~African_Groundnut_Council,4689777]]'
+- '[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262|WD~Group_on_Earth_Observations,5611262]]'
+- '[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543|WD~Organisation_of_Islamic_Cooperation,47543]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~African_Union,7159|WD~African_Union,7159]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809|WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817|WD~World_Health_Organization,7817]]'
+- '[[_Standards/WikiData/WD~World_Trade_Organization,7825|WD~World_Trade_Organization,7825]]'
+- '[[_Standards/WikiData/WD~Interpol,8475|WD~Interpol,8475]]'
+- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495|WD~Universal_Postal_Union_UPU,17495]]'
 MeSH_tree_code: Z01.058.290.190.710
 mobile_country_code: 608
 motto_text:
@@ -385,25 +385,25 @@ motto_text:
 - One People, One Goal, One Faith
 - Un pueblo, un objetivo, una fe
 - Un Peuple, Un But, Une Foi
-named_after: '[[_Standards/WikiData/WD~Senegal_River,3569]]'
+named_after: '[[_Standards/WikiData/WD~Senegal_River,3569|WD~Senegal_River,3569]]'
 native_label: Senegaal
 nominal_GDP:
 - 27684430244
 - 27569136728
 number_of_out_of_school_children: 1921575
-office_held_by_head_of_government: '[[_Standards/WikiData/WD~President_of_Senegal,19116034]]'
-office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Senegal,19116034]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~President_of_Senegal,19116034|WD~President_of_Senegal,19116034]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Senegal,19116034|WD~President_of_Senegal,19116034]]'
 official_language:
-- '[[_Standards/WikiData/WD~French,150]]'
-- '[[_Standards/WikiData/WD~Wolof,34257]]'
-- '[[_Standards/WikiData/WD~Balanta,35006]]'
-- '[[_Standards/WikiData/WD~Badyara,35095]]'
+- '[[_Standards/WikiData/WD~French,150|WD~French,150]]'
+- '[[_Standards/WikiData/WD~Wolof,34257|WD~Wolof,34257]]'
+- '[[_Standards/WikiData/WD~Balanta,35006|WD~Balanta,35006]]'
+- '[[_Standards/WikiData/WD~Badyara,35095|WD~Badyara,35095]]'
 official_name: République du Sénégal
 official_website: https://www.sec.gouv.sn/
 OmegaWiki_Defined_Meaning: 7317
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832|WD~WikiProject_Zika_Corpus,54439832]]'
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Dakar%20banner%20Skyline.jpg
-part_of: '[[_Standards/WikiData/WD~West_Africa,4412]]'
+part_of: '[[_Standards/WikiData/WD~West_Africa,4412|WD~West_Africa,4412]]'
 population: 16876720
 pronunciation_audio:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Senegal.ogg
@@ -412,23 +412,23 @@ pronunciation_audio:
 - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%B8%E0%A7%87%E0%A6%A8%E0%A7%87%E0%A6%97%E0%A6%BE%E0%A6%B2.wav
 publish: true
 publishDate: ''
-railway_traffic_side: '[[_Standards/WikiData/WD~right,14565199]]'
+railway_traffic_side: '[[_Standards/WikiData/WD~right,14565199|WD~right,14565199]]'
 replaces:
-- '[[_Standards/WikiData/WD~French_West_Africa,210682]]'
-- '[[_Standards/WikiData/WD~Mali_Federation,216632]]'
-- '[[_Standards/WikiData/WD~French_Community,1120363]]'
+- '[[_Standards/WikiData/WD~French_West_Africa,210682|WD~French_West_Africa,210682]]'
+- '[[_Standards/WikiData/WD~Mali_Federation,216632|WD~Mali_Federation,216632]]'
+- '[[_Standards/WikiData/WD~French_Community,1120363|WD~French_Community,1120363]]'
 rural_population:
 - 8526730
 - 8375929
 - 8674634
 - 8816497
 shares_border_with:
-- '[[_Standards/WikiData/WD~Mali,912]]'
-- '[[_Standards/WikiData/WD~Guinea,1006]]'
-- '[[_Standards/WikiData/WD~Guinea-Bissau,1007]]'
-- '[[_Standards/WikiData/WD~The_Gambia,1005]]'
-- '[[_Standards/WikiData/WD~Mauritania,1025]]'
-- '[[_Standards/WikiData/WD~Arab_League,7172]]'
+- '[[_Standards/WikiData/WD~Mali,912|WD~Mali,912]]'
+- '[[_Standards/WikiData/WD~Guinea,1006|WD~Guinea,1006]]'
+- '[[_Standards/WikiData/WD~Guinea-Bissau,1007|WD~Guinea-Bissau,1007]]'
+- '[[_Standards/WikiData/WD~The_Gambia,1005|WD~The_Gambia,1005]]'
+- '[[_Standards/WikiData/WD~Mauritania,1025|WD~Mauritania,1025]]'
+- '[[_Standards/WikiData/WD~Arab_League,7172|WD~Arab_League,7172]]'
 short_name: "\U0001F1F8\U0001F1F3"
 social_media_followers: 13217
 source: https://datahub.io/core/country-codes
@@ -437,9 +437,9 @@ subreddit: Senegal
 tags:
 - geo/Country
 title: Senegal
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Regions_of_Senegal,10726672]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Senegal,14616261]]'
-top_level_Internet_domain: '[[_Standards/WikiData/WD~.sn,60117]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Regions_of_Senegal,10726672|WD~Template_Regions_of_Senegal,10726672]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Senegal,14616261|WD~Portal_Senegal,14616261]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.sn,60117|WD~.sn,60117]]'
 total_fertility_rate: 5.09
 type: Country
 UMLS_CUI: C0036644
@@ -451,7 +451,7 @@ urban_population:
 - 8499952
 U_S_National_Archives_Identifier: 10035805
 VAT_rate: 18
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Senegal,7112445]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Senegal,7112445|WD~outline_of_Senegal,7112445]]'
 WIPO_ST_3: SN
 dv_ISO4217-currency_alphabetic: XOF
 dv_ISO4217-currency_name: CFA Franc BCEAO
@@ -481,7 +481,7 @@ dv_UNTERM_Chinese_Formal: 塞内加尔共和国
 dv_UNTERM_French_Formal: la République du Sénégal
 dv_UNTERM_Russian: Сенегал
 dv_UNTERM_Russian_Formal: Республика Сенегал
-dv_Region_Name: '[[../../Africa]]'
+dv_Region_Name: '[[../../Africa|Africa]]'
 dv_Intermediate_Region_Name: '[[Western Africa]]'
 dv_Sub-region_Name: '[[Sub-Saharan Africa]]'
 dv_Region: 2
@@ -800,7 +800,7 @@ dv_has_:
 dv_has_name_de: Senegal
 dv_Area-Total: 196722
 dv_Area-Land: 192530
-dv_has_place_continent: '[[../../Africa]]'
+dv_has_place_continent: '[[../../Africa|Africa]]'
 dv_VehicleCode: SN
 dv_Alcohol-l: 0.6
 dv_Language-Id: 496
@@ -895,7 +895,7 @@ ISO3 = `=this.dv_ISO3`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Senegal/ReadMe]] 
+[[Senegal/ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -918,7 +918,7 @@ Capital :: [[Dakar]]
 
 ![[Coat_of_arms_of_Senegal.svg|350]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Senegal.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Senegal.mp3|Anthem-Senegal.mp3]]
 
 ![[Flag_of_Senegal.svg|350]]
 

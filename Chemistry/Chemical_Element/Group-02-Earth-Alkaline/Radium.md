@@ -85,16 +85,16 @@ chemical_formula: Ra
 Commons_category: Radium
 Commons_gallery: Radium
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 Dewey_Decimal_Classification: 546.396
-different_from: '[[_Standards/WikiData/WD~Rad,224047]]'
+different_from: '[[_Standards/WikiData/WD~Rad,224047|WD~Rad,224047]]'
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Marie_Curie,7186]]'
-- '[[_Standards/WikiData/WD~Pierre_Curie,37463]]'
+- '[[_Standards/WikiData/WD~Marie_Curie,7186|WD~Marie_Curie,7186]]'
+- '[[_Standards/WikiData/WD~Pierre_Curie,37463|WD~Pierre_Curie,37463]]'
 DSSTOX_compound_identifier: DTXCID70875702
 EC_number: 231-122-4
 electronegativity: 0.9
@@ -103,7 +103,7 @@ element_symbol: Ra
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Radium226.jpg
 InChI: InChI=1S/Ra
 InChIKey: HCWPIIXVSYCSAN-UHFFFAOYSA-N
-instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
+instance_of: '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 ionic_radius:
 - 1.7
 - 1.48
@@ -115,12 +115,12 @@ MeSH_tree_code:
 - D01.496.749.305.770
 - D01.552.539.745
 - D01.552.544.775
-named_after: '[[_Standards/WikiData/WD~radioactivity,11448]]'
+named_after: '[[_Standards/WikiData/WD~radioactivity,11448|WD~radioactivity,11448]]'
 OmegaWiki_Defined_Meaning: 347064
 oxidation_state: 2
 part_of:
-- '[[_Standards/WikiData/WD~period_7,244979]]'
-- '[[_Standards/WikiData/WD~alkaline_earth_metal,19563]]'
+- '[[_Standards/WikiData/WD~period_7,244979|WD~period_7,244979]]'
+- '[[_Standards/WikiData/WD~alkaline_earth_metal,19563|WD~alkaline_earth_metal,19563]]'
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20153.jpg
 PubChem_CID: 6328144
 SpocWebEntityId: 21983
@@ -330,9 +330,9 @@ dv_has_:
         kj_:
           mol: 0
 dv_is_:
-  part_of: '[[../Group-02-Earth-Alkaline]]'
+  part_of: '[[../Group-02-Earth-Alkaline|Group-02-Earth-Alkaline]]'
   same_as:
-  - '[[../../../WikiData/WD~Radium,1128]]'
+  - '[[../../../WikiData/WD~Radium,1128|WD~Radium,1128]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Radium|Radium]]'
   - '[[/_public/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Radium.public|Radium.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Radium.internal|Radium.internal]]'
@@ -341,7 +341,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Radium.personal|Radium.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Radium.secret|Radium.secret]]'
 dv_has_name_group: Group-02-Earth-Alkaline
-dv_is_part_of: '[[../Group-02-Earth-Alkaline]]'
+dv_is_part_of: '[[../Group-02-Earth-Alkaline|Group-02-Earth-Alkaline]]'
 dv_has_name_en: Radium
 dv_has_name_de: Radium
 dv_has_value_for_weight_u: 226.0254
@@ -360,7 +360,7 @@ dv_has_value_for_energy_form_kj_mol: 0
 dv_has_number_of_period: 7
 dv_has_number_of_group: 2
 dv_is_same_as:
-- '[[../../../WikiData/WD~Radium,1128]]'
+- '[[../../../WikiData/WD~Radium,1128|WD~Radium,1128]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Radium|Radium]]'
 - '[[/_public/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Radium.public|Radium.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Radium.internal|Radium.internal]]'
@@ -408,7 +408,7 @@ has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol`
 has_number_of_period = `=this.dv_has_number_of_period` 
 has_number_of_group = `=this.dv_has_number_of_group` 
 
-#is_/same_as :: [[../../../WikiData/WD~Radium,1128]] 
+#is_/same_as :: [[../../../WikiData/WD~Radium,1128|WD~Radium,1128]] 
 
 ## #has_/text_of_/abstract 
 

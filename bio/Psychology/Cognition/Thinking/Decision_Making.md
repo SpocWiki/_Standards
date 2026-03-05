@@ -71,21 +71,21 @@ aliases:
 - 決策
 - 의사결정
 has_id_wikidata: Q1331926
-studied_by: '[[_Standards/WikiData/WD~decision_theory,177571]]'
+studied_by: '[[_Standards/WikiData/WD~decision_theory,177571|WD~decision_theory,177571]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~trade_off,638123]]'
-- '[[_Standards/WikiData/WD~preference,908656]]'
-- '[[_Standards/WikiData/WD~mindset,1339824]]'
-- '[[_Standards/WikiData/WD~Strategic_Assumptions,7621770]]'
+- '[[_Standards/WikiData/WD~trade_off,638123|WD~trade_off,638123]]'
+- '[[_Standards/WikiData/WD~preference,908656|WD~preference,908656]]'
+- '[[_Standards/WikiData/WD~mindset,1339824|WD~mindset,1339824]]'
+- '[[_Standards/WikiData/WD~Strategic_Assumptions,7621770|WD~Strategic_Assumptions,7621770]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~cognitive_process,781413]]'
-- '[[_Standards/WikiData/WD~selection,12888920]]'
-has_cause: '[[_Standards/WikiData/WD~administering_agent,4445086]]'
+- '[[_Standards/WikiData/WD~cognitive_process,781413|WD~cognitive_process,781413]]'
+- '[[_Standards/WikiData/WD~selection,12888920|WD~selection,12888920]]'
+has_cause: '[[_Standards/WikiData/WD~administering_agent,4445086|WD~administering_agent,4445086]]'
 different_from:
-- '[[_Standards/WikiData/WD~selection,12888920]]'
-- '[[_Standards/WikiData/WD~decision,16513426]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~selection,12888920]]'
-has_effect: '[[_Standards/WikiData/WD~decision,16513426]]'
+- '[[_Standards/WikiData/WD~selection,12888920|WD~selection,12888920]]'
+- '[[_Standards/WikiData/WD~decision,16513426|WD~decision,16513426]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~selection,12888920|WD~selection,12888920]]'
+has_effect: '[[_Standards/WikiData/WD~decision,16513426|WD~decision,16513426]]'
 OmegaWiki_Defined_Meaning: 970325
 Commons_category: Decision making
 UMLS_CUI: C0011109

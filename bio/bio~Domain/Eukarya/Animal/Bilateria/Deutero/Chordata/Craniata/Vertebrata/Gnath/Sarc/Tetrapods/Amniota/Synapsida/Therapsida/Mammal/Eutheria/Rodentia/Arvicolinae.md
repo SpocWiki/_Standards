@@ -49,9 +49,9 @@ aliases:
 - 田鼠亞科
 - 물밭쥐아과
 has_id_wikidata: Q840750
-taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280]]'
-parent_taxon: '[[_Standards/WikiData/WD~Cricetidae,193061]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280|WD~subfamily,164280]]'
+parent_taxon: '[[_Standards/WikiData/WD~Cricetidae,193061|WD~Cricetidae,193061]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 Commons_category: Arvicolinae
 taxon_name: Arvicolinae
 ITIS_TSN: 552325
@@ -138,7 +138,7 @@ dv_has_:
 
 # [[Arvicolinae]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Arvicolinae,840750]]
+#is_/same_as :: [[_Standards/WikiData/WD~Arvicolinae,840750|WD~Arvicolinae,840750]]
 
 ## #has_/text_of_/abstract 
 

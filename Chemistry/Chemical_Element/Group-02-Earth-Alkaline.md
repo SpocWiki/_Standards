@@ -250,12 +250,12 @@ dv_has_:
 
 #chemic/Group 
 
-2)[[Group-02-Earth-Alkaline/Beryllium]]]
-3)[[Group-02-Earth-Alkaline/Magnesium]]]
-4)[[Group-02-Earth-Alkaline/Calcium]]]
-5)[[Group-02-Earth-Alkaline/Strontium]]]
-6)[[Group-02-Earth-Alkaline/Barium]]]
-7)[[Group-02-Earth-Alkaline/Radium]]]
+2)[[Group-02-Earth-Alkaline/Beryllium|Beryllium]]]
+3)[[Group-02-Earth-Alkaline/Magnesium|Magnesium]]]
+4)[[Group-02-Earth-Alkaline/Calcium|Calcium]]]
+5)[[Group-02-Earth-Alkaline/Strontium|Strontium]]]
+6)[[Group-02-Earth-Alkaline/Barium|Barium]]]
+7)[[Group-02-Earth-Alkaline/Radium|Radium]]]
 
 
 > The alkaline earth metals are six chemical elements in group 2 of the periodic table. They are beryllium (Be), magnesium (Mg), calcium (Ca), strontium (Sr), barium (Ba), and radium (Ra). The elements have very similar properties: they are all shiny, silvery-white, somewhat reactive metals at standard temperature and pressure.Structurally, they (together with helium) have in common an outer s-orbital which is full—

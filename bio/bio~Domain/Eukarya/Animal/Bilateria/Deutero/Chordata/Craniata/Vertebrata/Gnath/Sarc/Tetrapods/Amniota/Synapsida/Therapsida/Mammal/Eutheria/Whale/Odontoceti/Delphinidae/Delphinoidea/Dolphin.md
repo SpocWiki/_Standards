@@ -108,24 +108,24 @@ aliases:
 - 돌고래
 has_id_wikidata: Q7369
 described_by_source:
-- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-uses: '[[_Standards/WikiData/WD~self_awareness,1314553]]'
-different_from: '[[_Standards/WikiData/WD~Delfin,4157300]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+uses: '[[_Standards/WikiData/WD~self_awareness,1314553|WD~self_awareness,1314553]]'
+different_from: '[[_Standards/WikiData/WD~Delfin,4157300|WD~Delfin,4157300]]'
 taxon_known_by_this_common_name:
-- '[[_Standards/WikiData/WD~Platanistidae,6078080]]'
-- '[[_Standards/WikiData/WD~Pontoporiidae,13410384]]'
-- '[[_Standards/WikiData/WD~Iniidae,54873]]'
-has_characteristic: '[[_Standards/WikiData/WD~dolphin_language,15767571]]'
-instance_of: '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]'
+- '[[_Standards/WikiData/WD~Platanistidae,6078080|WD~Platanistidae,6078080]]'
+- '[[_Standards/WikiData/WD~Pontoporiidae,13410384|WD~Pontoporiidae,13410384]]'
+- '[[_Standards/WikiData/WD~Iniidae,54873|WD~Iniidae,54873]]'
+has_characteristic: '[[_Standards/WikiData/WD~dolphin_language,15767571|WD~dolphin_language,15767571]]'
+instance_of: '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715|WD~organisms_known_by_a_particular_common_name,55983715]]'
 depicted_by:
-- '[[_Standards/WikiData/WD~Dolphin_sculpture,_Loutraki,114140625]]'
-- '[[_Standards/WikiData/WD~Eros_with_Dolphin,_replica_in_the_Achilleion_(Corfu),131613642]]'
-- '[[_Standards/WikiData/WD~Neptune_and_Dolphin,132247219]]'
-- '[[_Standards/WikiData/WD~Dolphins_Fountain,132397737]]'
-studied_by: '[[_Standards/WikiData/WD~delphinology,115102736]]'
+- '[[_Standards/WikiData/WD~Dolphin_sculpture,_Loutraki,114140625|WD~Dolphin_sculpture,_Loutraki,114140625]]'
+- '[[_Standards/WikiData/WD~Eros_with_Dolphin,_replica_in_the_Achilleion_(Corfu),131613642|WD~Eros_with_Dolphin,_replica_in_the_Achilleion_(Corfu),131613642]]'
+- '[[_Standards/WikiData/WD~Neptune_and_Dolphin,132247219|WD~Neptune_and_Dolphin,132247219]]'
+- '[[_Standards/WikiData/WD~Dolphins_Fountain,132397737|WD~Dolphins_Fountain,132397737]]'
+studied_by: '[[_Standards/WikiData/WD~delphinology,115102736|WD~delphinology,115102736]]'
 Commons_category: Delphinidae
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Parc%20Asterix%2020.jpg
 Commons_gallery: Dolphin

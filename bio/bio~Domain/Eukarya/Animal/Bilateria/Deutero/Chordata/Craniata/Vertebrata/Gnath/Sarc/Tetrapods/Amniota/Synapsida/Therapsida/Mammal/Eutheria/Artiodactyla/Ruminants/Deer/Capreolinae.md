@@ -31,9 +31,9 @@ aliases:
 - 空齿鹿亚科
 - 노루아과
 has_id_wikidata: Q118722
-taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-parent_taxon: '[[_Standards/WikiData/WD~Cervidae,23390]]'
+taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280|WD~subfamily,164280]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+parent_taxon: '[[_Standards/WikiData/WD~Cervidae,23390|WD~Cervidae,23390]]'
 ITIS_TSN: 552369
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mule%20deer%20in%20Bryce%20NP.jpg
 Commons_category: Capreolinae
@@ -107,7 +107,7 @@ dv_has_:
 
 # [[Capreolinae]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Capreolinae,118722]] 
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Capreolinae,118722|WD~Capreolinae,118722]] 
 
 ## #has_/text_of_/abstract 
 

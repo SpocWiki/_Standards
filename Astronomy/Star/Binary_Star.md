@@ -88,18 +88,18 @@ aliases:
 - 쌍성
 has_id_wikidata: Q50053
 subclass_of:
-- '[[_Standards/WikiData/WD~star_system,595871]]'
-- '[[_Standards/WikiData/WD~binary_system,978297]]'
-- '[[_Standards/WikiData/WD~double_star,13890]]'
+- '[[_Standards/WikiData/WD~star_system,595871|WD~star_system,595871]]'
+- '[[_Standards/WikiData/WD~binary_system,978297|WD~binary_system,978297]]'
+- '[[_Standards/WikiData/WD~double_star,13890|WD~double_star,13890]]'
 different_from:
-- '[[_Standards/WikiData/WD~optical_double,3037794]]'
-- '[[_Standards/WikiData/WD~double_star,13890]]'
-instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
+- '[[_Standards/WikiData/WD~optical_double,3037794|WD~optical_double,3037794]]'
+- '[[_Standards/WikiData/WD~double_star,13890|WD~double_star,13890]]'
+instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909|WD~astronomical_object_type,17444909]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_double_star,25812973]]'
-has_part_s_: '[[_Standards/WikiData/WD~star,523]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_double_star,25812973|WD~Template_Infobox_double_star,25812973]]'
+has_part_s_: '[[_Standards/WikiData/WD~star,523|WD~star,523]]'
 OmegaWiki_Defined_Meaning: 430493
 Commons_category: Binary stars
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Artist%27s%20impression%20of%20the%20evolution%20of%20a%20hot%20high-mass%20binary%20star.ogv

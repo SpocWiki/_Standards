@@ -180,14 +180,14 @@ aliases:
 - 시간대
 has_id_wikidata: Q12143
 subclass_of:
-- '[[_Standards/WikiData/WD~region,82794]]'
-- '[[_Standards/WikiData/WD~time_standard,6313217]]'
-- '[[_Standards/WikiData/WD~non_political_administrative_territorial_entity,15642566]]'
-has_list: '[[_Standards/WikiData/WD~list_of_time_zones,3048055]]'
+- '[[_Standards/WikiData/WD~region,82794|WD~region,82794]]'
+- '[[_Standards/WikiData/WD~time_standard,6313217|WD~time_standard,6313217]]'
+- '[[_Standards/WikiData/WD~non_political_administrative_territorial_entity,15642566|WD~non_political_administrative_territorial_entity,15642566]]'
+has_list: '[[_Standards/WikiData/WD~list_of_time_zones,3048055|WD~list_of_time_zones,3048055]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_UTC_time_offsets,7474166]]'
-- '[[_Standards/WikiData/WD~Template_Infobox_time_zone,11001401]]'
-- '[[_Standards/WikiData/WD~Template_Infobox_time_zone_UTC,13520154]]'
+- '[[_Standards/WikiData/WD~Template_UTC_time_offsets,7474166|WD~Template_UTC_time_offsets,7474166]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_time_zone,11001401|WD~Template_Infobox_time_zone,11001401]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_time_zone_UTC,13520154|WD~Template_Infobox_time_zone_UTC,13520154]]'
 properties_for_this_type:
 - located in time zone
 - UTC timezone offset

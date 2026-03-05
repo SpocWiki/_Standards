@@ -106,28 +106,28 @@ aliases:
 - 의식
 has_id_wikidata: Q7087
 subclass_of:
-- '[[_Standards/WikiData/WD~intelligence,83500]]'
-- '[[_Standards/WikiData/WD~phenomenon,483247]]'
-- '[[_Standards/WikiData/WD~mental_state,3968640]]'
+- '[[_Standards/WikiData/WD~intelligence,83500|WD~intelligence,83500]]'
+- '[[_Standards/WikiData/WD~phenomenon,483247|WD~phenomenon,483247]]'
+- '[[_Standards/WikiData/WD~mental_state,3968640|WD~mental_state,3968640]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~qualia,282250]]'
-- '[[_Standards/WikiData/WD~awareness,4338318]]'
-- '[[_Standards/WikiData/WD~mind,450]]'
-significant_person: '[[_Standards/WikiData/WD~Benjamin_Libet,817604]]'
+- '[[_Standards/WikiData/WD~qualia,282250|WD~qualia,282250]]'
+- '[[_Standards/WikiData/WD~awareness,4338318|WD~awareness,4338318]]'
+- '[[_Standards/WikiData/WD~mind,450|WD~mind,450]]'
+significant_person: '[[_Standards/WikiData/WD~Benjamin_Libet,817604|WD~Benjamin_Libet,817604]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Stanford_Encyclopedia_of_Philosophy,824553]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Stanford_Encyclopedia_of_Philosophy,824553|WD~Stanford_Encyclopedia_of_Philosophy,824553]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 studied_by:
-- '[[_Standards/WikiData/WD~sociology_of_human_consciousness,7552852]]'
-- '[[_Standards/WikiData/WD~consciousness_studies,19367549]]'
-- '[[_Standards/WikiData/WD~psychology,9418]]'
-opposite_of: '[[_Standards/WikiData/WD~unconsciousness,12829165]]'
-has_characteristic: '[[_Standards/WikiData/WD~state_of_consciousness,15788410]]'
-different_from: '[[_Standards/WikiData/WD~Consciousness,16769701]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Consciousness,73468036]]'
+- '[[_Standards/WikiData/WD~sociology_of_human_consciousness,7552852|WD~sociology_of_human_consciousness,7552852]]'
+- '[[_Standards/WikiData/WD~consciousness_studies,19367549|WD~consciousness_studies,19367549]]'
+- '[[_Standards/WikiData/WD~psychology,9418|WD~psychology,9418]]'
+opposite_of: '[[_Standards/WikiData/WD~unconsciousness,12829165|WD~unconsciousness,12829165]]'
+has_characteristic: '[[_Standards/WikiData/WD~state_of_consciousness,15788410|WD~state_of_consciousness,15788410]]'
+different_from: '[[_Standards/WikiData/WD~Consciousness,16769701|WD~Consciousness,16769701]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Consciousness,73468036|WD~Template_Consciousness,73468036]]'
 instance_of:
-- '[[_Standards/WikiData/WD~type_of_property,96253971]]'
-- '[[_Standards/WikiData/WD~psychology_concept,96634632]]'
+- '[[_Standards/WikiData/WD~type_of_property,96253971|WD~type_of_property,96253971]]'
+- '[[_Standards/WikiData/WD~psychology_concept,96634632|WD~psychology_concept,96634632]]'
 Colon_Classification: S3
 Commons_category: Consciousness
 image: http://commons.wikimedia.org/wiki/Special:FilePath/RobertFuddBewusstsein17Jh.png

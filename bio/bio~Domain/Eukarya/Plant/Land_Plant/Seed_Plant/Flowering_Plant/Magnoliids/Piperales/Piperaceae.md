@@ -45,15 +45,15 @@ aliases:
 - 胡椒科
 - 후추과
 has_id_wikidata: Q156522
-taxonomic_type: '[[_Standards/WikiData/WD~Piper,159536]]'
-uses: '[[_Standards/WikiData/WD~CAM_photosynthesis,858313]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Piper,159536|WD~Piper,159536]]'
+uses: '[[_Standards/WikiData/WD~CAM_photosynthesis,858313|WD~CAM_photosynthesis,858313]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_20(1),112869395]]'
-taxon_synonym: '[[_Standards/WikiData/WD~Peperomiaceae,81934617]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-parent_taxon: '[[_Standards/WikiData/WD~Piperales,27287]]'
-taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_20(1),112869395|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_20(1),112869395]]'
+taxon_synonym: '[[_Standards/WikiData/WD~Peperomiaceae,81934617|WD~Peperomiaceae,81934617]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+parent_taxon: '[[_Standards/WikiData/WD~Piperales,27287|WD~Piperales,27287]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409|WD~family,35409]]'
 ITIS_TSN: 18224
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Piper%20nigrum%20-%20K%C3%B6hler%E2%80%93s%20Medizinal-Pflanzen-107.jpg
 taxon_common_name:

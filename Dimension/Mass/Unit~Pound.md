@@ -63,22 +63,22 @@ aliases:
 - 파운드
 has_id_wikidata: Q100995
 different_from:
-- '[[_Standards/WikiData/WD~Pound,228907]]'
-- '[[_Standards/WikiData/WD~Pfund,2084453]]'
-- '[[_Standards/WikiData/WD~Liv,10567996]]'
+- '[[_Standards/WikiData/WD~Pound,228907|WD~Pound,228907]]'
+- '[[_Standards/WikiData/WD~Pfund,2084453|WD~Pfund,2084453]]'
+- '[[_Standards/WikiData/WD~Liv,10567996|WD~Liv,10567996]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-part_of: '[[_Standards/WikiData/WD~imperial_system_of_units,641227]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+part_of: '[[_Standards/WikiData/WD~imperial_system_of_units,641227|WD~imperial_system_of_units,641227]]'
 instance_of:
-- '[[_Standards/WikiData/WD~unit_of_mass,3647172]]'
-- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
-named_after: '[[_Standards/WikiData/WD~libra,10317923]]'
-measured_physical_quantity: '[[_Standards/WikiData/WD~mass,11423]]'
+- '[[_Standards/WikiData/WD~unit_of_mass,3647172|WD~unit_of_mass,3647172]]'
+- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057|WD~UCUM_derived_unit,82047057]]'
+named_after: '[[_Standards/WikiData/WD~libra,10317923|WD~libra,10317923]]'
+measured_physical_quantity: '[[_Standards/WikiData/WD~mass,11423|WD~mass,11423]]'
 conversion_to_standard_unit:
 - 0.01
 - 0.0005

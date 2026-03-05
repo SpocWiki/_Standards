@@ -49,23 +49,23 @@ aliases:
 - 완충
 has_id_wikidata: Q332828
 different_from:
-- '[[_Standards/WikiData/WD~adsorption,180254]]'
-- '[[_Standards/WikiData/WD~Absorption,224058]]'
+- '[[_Standards/WikiData/WD~adsorption,180254|WD~adsorption,180254]]'
+- '[[_Standards/WikiData/WD~Absorption,224058|WD~Absorption,224058]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Technical_Encyclopedia,_1st_edition,20078551]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Technical_Encyclopedia,_1st_edition,20078551|WD~Technical_Encyclopedia,_1st_edition,20078551]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~sorption,898533]]'
-- '[[../../WikiData/WD~chemical_process,2281940]]'
-- '[[_Standards/WikiData/WD~physical_process,17320256]]'
+- '[[_Standards/WikiData/WD~sorption,898533|WD~sorption,898533]]'
+- '[[../../WikiData/WD~chemical_process,2281940|WD~chemical_process,2281940]]'
+- '[[_Standards/WikiData/WD~physical_process,17320256|WD~physical_process,17320256]]'
 instance_of:
-- '[[_Standards/WikiData/WD~chemistry_term,87196290]]'
-- '[[_Standards/WikiData/WD~physics_term,100724091]]'
+- '[[_Standards/WikiData/WD~chemistry_term,87196290|WD~chemistry_term,87196290]]'
+- '[[_Standards/WikiData/WD~physics_term,100724091|WD~physics_term,100724091]]'
 OmegaWiki_Defined_Meaning: 10
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Absorber.svg
 dv_is_:

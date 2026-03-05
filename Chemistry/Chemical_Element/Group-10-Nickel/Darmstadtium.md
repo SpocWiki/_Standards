@@ -78,14 +78,14 @@ aliases:
 - "\U0002B7FC"
 has_id_wikidata: Q1266
 part_of:
-- '[[_Standards/WikiData/WD~group_10,205253]]'
-- '[[_Standards/WikiData/WD~period_7,244979]]'
-location_of_discovery: '[[_Standards/WikiData/WD~GSI_Helmholtz_Centre_for_Heavy_Ion_Research,703993]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~GSI_Helmholtz_Centre_for_Heavy_Ion_Research,703993]]'
+- '[[_Standards/WikiData/WD~group_10,205253|WD~group_10,205253]]'
+- '[[_Standards/WikiData/WD~period_7,244979|WD~period_7,244979]]'
+location_of_discovery: '[[_Standards/WikiData/WD~GSI_Helmholtz_Centre_for_Heavy_Ion_Research,703993|WD~GSI_Helmholtz_Centre_for_Heavy_Ion_Research,703993]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~GSI_Helmholtz_Centre_for_Heavy_Ion_Research,703993|WD~GSI_Helmholtz_Centre_for_Heavy_Ion_Research,703993]]'
 instance_of:
-- '[[_Standards/WikiData/WD~synthetic_element,755992]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
-named_after: '[[_Standards/WikiData/WD~Darmstadt,2973]]'
+- '[[_Standards/WikiData/WD~synthetic_element,755992|WD~synthetic_element,755992]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
+named_after: '[[_Standards/WikiData/WD~Darmstadt,2973|WD~Darmstadt,2973]]'
 atomic_number: 110
 OmegaWiki_Defined_Meaning: 157326
 Commons_gallery: Darmstadtium

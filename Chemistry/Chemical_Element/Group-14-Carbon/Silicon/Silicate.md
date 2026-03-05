@@ -37,12 +37,12 @@ aliases:
 - 硅酸盐
 - 규산염
 has_id_wikidata: Q7130787
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~oxygen_compound,5156940]]'
-- '[[_Standards/WikiData/WD~silicon_compound,12550003]]'
-instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
-has_part_s_: '[[_Standards/WikiData/WD~silicon,670]]'
+- '[[_Standards/WikiData/WD~oxygen_compound,5156940|WD~oxygen_compound,5156940]]'
+- '[[_Standards/WikiData/WD~silicon_compound,12550003|WD~silicon_compound,12550003]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
+has_part_s_: '[[_Standards/WikiData/WD~silicon,670|WD~silicon,670]]'
 Commons_category: Silicates
 UNSPSC_Code: 12352308
 UMLS_CUI: C0086983

@@ -70,12 +70,12 @@ aliases:
 - 모래폭풍
 has_id_wikidata: Q182878
 subclass_of:
-- '[[_Standards/WikiData/WD~storm,81054]]'
-- '[[_Standards/WikiData/WD~lithometeor,1779287]]'
+- '[[_Standards/WikiData/WD~storm,81054|WD~storm,81054]]'
+- '[[_Standards/WikiData/WD~lithometeor,1779287|WD~lithometeor,1779287]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~dust,165632]]'
-- '[[_Standards/WikiData/WD~sand,34679]]'
-instance_of: '[[_Standards/WikiData/WD~meteorological_phenomenon,16332653]]'
+- '[[_Standards/WikiData/WD~dust,165632|WD~dust,165632]]'
+- '[[_Standards/WikiData/WD~sand,34679|WD~sand,34679]]'
+instance_of: '[[_Standards/WikiData/WD~meteorological_phenomenon,16332653|WD~meteorological_phenomenon,16332653]]'
 OmegaWiki_Defined_Meaning: 510537
 Iconclass_notation: 26C33
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sandstorm%20in%20Al%20Asad%2C%20Iraq.jpg

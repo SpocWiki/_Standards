@@ -150,84 +150,84 @@ aliases:
 - 코모로
 has_id_wikidata: Q970
 instance_of:
-- '[[_Standards/WikiData/WD~island_country,112099]]'
-- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
-- '[[_Standards/WikiData/WD~archipelagic_state,13107770]]'
-- '[[_Standards/WikiData/WD~country,6256]]'
+- '[[_Standards/WikiData/WD~island_country,112099|WD~island_country,112099]]'
+- '[[_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~archipelagic_state,13107770|WD~archipelagic_state,13107770]]'
+- '[[_Standards/WikiData/WD~country,6256|WD~country,6256]]'
 member_of:
-- '[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]'
-- '[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]'
-- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]'
-- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
-- '[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]'
-- '[[_Standards/WikiData/WD~African_Development_Bank,340195]]'
-- '[[_Standards/WikiData/WD~Alliance_of_Small_Island_States,496967]]'
-- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
-- '[[_Standards/WikiData/WD~Arab_Monetary_Fund,624307]]'
-- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
-- '[[_Standards/WikiData/WD~International_Development_Association,827525]]'
-- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
-- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
-- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
-- '[[_Standards/WikiData/WD~Indian_Ocean_Commission,1115631]]'
-- '[[_Standards/WikiData/WD~OHADA,2029901]]'
-- '[[_Standards/WikiData/WD~AFRISTAT,3348506]]'
-- '[[_Standards/WikiData/WD~United_Nations,1065]]'
-- '[[_Standards/WikiData/WD~African_Union,7159]]'
-- '[[_Standards/WikiData/WD~Arab_League,7172]]'
-- '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
-- '[[_Standards/WikiData/WD~Interpol,8475]]'
-- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
-- '[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]'
-coat_of_arms: '[[_Standards/WikiData/WD~National_seal_of_the_Union_of_the_Comoros,209234]]'
+- '[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102|WD~Organisation_internationale_de_la_Francophonie,134102]]'
+- '[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656|WD~International_Civil_Defence_Organisation,162656]]'
+- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278|WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]'
+- '[[_Standards/WikiData/WD~African_Development_Bank,340195|WD~African_Development_Bank,340195]]'
+- '[[_Standards/WikiData/WD~Alliance_of_Small_Island_States,496967|WD~Alliance_of_Small_Island_States,496967]]'
+- '[[_Standards/WikiData/WD~World_Customs_Organization,605326|WD~World_Customs_Organization,605326]]'
+- '[[_Standards/WikiData/WD~Arab_Monetary_Fund,624307|WD~Arab_Monetary_Fund,624307]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801|WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~International_Development_Association,827525|WD~International_Development_Association,827525]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490|WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770|WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
+- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527|WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[_Standards/WikiData/WD~Indian_Ocean_Commission,1115631|WD~Indian_Ocean_Commission,1115631]]'
+- '[[_Standards/WikiData/WD~OHADA,2029901|WD~OHADA,2029901]]'
+- '[[_Standards/WikiData/WD~AFRISTAT,3348506|WD~AFRISTAT,3348506]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~African_Union,7159|WD~African_Union,7159]]'
+- '[[_Standards/WikiData/WD~Arab_League,7172|WD~Arab_League,7172]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809|WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817|WD~World_Health_Organization,7817]]'
+- '[[_Standards/WikiData/WD~Interpol,8475|WD~Interpol,8475]]'
+- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495|WD~Universal_Postal_Union_UPU,17495]]'
+- '[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543|WD~Organisation_of_Islamic_Cooperation,47543]]'
+coat_of_arms: '[[_Standards/WikiData/WD~National_seal_of_the_Union_of_the_Comoros,209234|WD~National_seal_of_the_Union_of_the_Comoros,209234]]'
 contains_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Anjouan,231324]]'
-- '[[_Standards/WikiData/WD~Grande_Comore,244978]]'
-- '[[_Standards/WikiData/WD~Mohéli,271797]]'
-currency: '[[_Standards/WikiData/WD~Comorian_franc,267264]]'
-basic_form_of_government: '[[_Standards/WikiData/WD~federal_republic,512187]]'
-head_of_state: '[[_Standards/WikiData/WD~Azali_Assoumani,515602]]'
-head_of_government: '[[_Standards/WikiData/WD~Azali_Assoumani,515602]]'
-highest_point: '[[_Standards/WikiData/WD~Mount_Karthala,527548]]'
-anthem: '[[_Standards/WikiData/WD~Udzima_wa_ya_Masiwa,690008]]'
+- '[[_Standards/WikiData/WD~Anjouan,231324|WD~Anjouan,231324]]'
+- '[[_Standards/WikiData/WD~Grande_Comore,244978|WD~Grande_Comore,244978]]'
+- '[[_Standards/WikiData/WD~Mohéli,271797|WD~Mohéli,271797]]'
+currency: '[[_Standards/WikiData/WD~Comorian_franc,267264|WD~Comorian_franc,267264]]'
+basic_form_of_government: '[[_Standards/WikiData/WD~federal_republic,512187|WD~federal_republic,512187]]'
+head_of_state: '[[_Standards/WikiData/WD~Azali_Assoumani,515602|WD~Azali_Assoumani,515602]]'
+head_of_government: '[[_Standards/WikiData/WD~Azali_Assoumani,515602|WD~Azali_Assoumani,515602]]'
+highest_point: '[[_Standards/WikiData/WD~Mount_Karthala,527548|WD~Mount_Karthala,527548]]'
+anthem: '[[_Standards/WikiData/WD~Udzima_wa_ya_Masiwa,690008|WD~Udzima_wa_ya_Masiwa,690008]]'
 electrical_plug_type:
-- '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- '[[_Standards/WikiData/WD~Type_E,2335536]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_the_Comoros,1512031]]'
-legislative_body: '[[_Standards/WikiData/WD~Assembly_of_the_Union_of_the_Comoros,1573424]]'
-geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Comoros,2088599]]'
-culture: '[[_Standards/WikiData/WD~culture_of_Comoros,2425209]]'
-central_bank: '[[_Standards/WikiData/WD~Central_Bank_of_the_Comoros,2604274]]'
-economy_of_topic: '[[_Standards/WikiData/WD~economy_of_the_Comoros,2622819]]'
+- '[[_Standards/WikiData/WD~Europlug,1378312|WD~Europlug,1378312]]'
+- '[[_Standards/WikiData/WD~Type_E,2335536|WD~Type_E,2335536]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_the_Comoros,1512031|WD~history_of_the_Comoros,1512031]]'
+legislative_body: '[[_Standards/WikiData/WD~Assembly_of_the_Union_of_the_Comoros,1573424|WD~Assembly_of_the_Union_of_the_Comoros,1573424]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Comoros,2088599|WD~geography_of_Comoros,2088599]]'
+culture: '[[_Standards/WikiData/WD~culture_of_Comoros,2425209|WD~culture_of_Comoros,2425209]]'
+central_bank: '[[_Standards/WikiData/WD~Central_Bank_of_the_Comoros,2604274|WD~Central_Bank_of_the_Comoros,2604274]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_the_Comoros,2622819|WD~economy_of_the_Comoros,2622819]]'
 language_used:
-- '[[_Standards/WikiData/WD~Ndzwani_Comorian,2850262]]'
-- '[[_Standards/WikiData/WD~Ngazidja_Comorian,3114653]]'
-- '[[_Standards/WikiData/WD~Mwali_Comorian,3319155]]'
-- '[[_Standards/WikiData/WD~French,150]]'
-- '[[_Standards/WikiData/WD~Modern_Standard_Arabic,56467]]'
-demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_the_Comoros,3044333]]'
-follows: '[[_Standards/WikiData/WD~French_Madagascar,5501842]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Comoros,7112234]]'
+- '[[_Standards/WikiData/WD~Ndzwani_Comorian,2850262|WD~Ndzwani_Comorian,2850262]]'
+- '[[_Standards/WikiData/WD~Ngazidja_Comorian,3114653|WD~Ngazidja_Comorian,3114653]]'
+- '[[_Standards/WikiData/WD~Mwali_Comorian,3319155|WD~Mwali_Comorian,3319155]]'
+- '[[_Standards/WikiData/WD~French,150|WD~French,150]]'
+- '[[_Standards/WikiData/WD~Modern_Standard_Arabic,56467|WD~Modern_Standard_Arabic,56467]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_the_Comoros,3044333|WD~demographics_of_the_Comoros,3044333]]'
+follows: '[[_Standards/WikiData/WD~French_Madagascar,5501842|WD~French_Madagascar,5501842]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Comoros,7112234|WD~outline_of_Comoros,7112234]]'
 different_from:
-- '[[_Standards/WikiData/WD~Komory,11741895]]'
-- '[[_Standards/WikiData/WD~Comoros,12957945]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Comoros,13483934]]'
-driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-replaces: '[[_Standards/WikiData/WD~Federal_Islamic_Republic_of_the_Comoros,16674377]]'
+- '[[_Standards/WikiData/WD~Komory,11741895|WD~Komory,11741895]]'
+- '[[_Standards/WikiData/WD~Comoros,12957945|WD~Comoros,12957945]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Comoros,13483934|WD~Portal_Comoros,13483934]]'
+driving_side: '[[_Standards/WikiData/WD~right,14565199|WD~right,14565199]]'
+replaces: '[[_Standards/WikiData/WD~Federal_Islamic_Republic_of_the_Comoros,16674377|WD~Federal_Islamic_Republic_of_the_Comoros,16674377]]'
 emergency_phone_number:
-- '[[_Standards/WikiData/WD~17,25648842]]'
-- '[[_Standards/WikiData/WD~18,25648843]]'
-- '[[_Standards/WikiData/WD~772-03-73,60055661]]'
-office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Comoros,28015452]]'
-office_held_by_head_of_government: '[[_Standards/WikiData/WD~President_of_Comoros,28015452]]'
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~East_African_islands,28901162]]'
-has_characteristic: '[[_Standards/WikiData/WD~partly_free_country,47185145]]'
+- '[[_Standards/WikiData/WD~17,25648842|WD~17,25648842]]'
+- '[[_Standards/WikiData/WD~18,25648843|WD~18,25648843]]'
+- '[[_Standards/WikiData/WD~772-03-73,60055661|WD~772-03-73,60055661]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Comoros,28015452|WD~President_of_Comoros,28015452]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~President_of_Comoros,28015452|WD~President_of_Comoros,28015452]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~East_African_islands,28901162|WD~East_African_islands,28901162]]'
+has_characteristic: '[[_Standards/WikiData/WD~partly_free_country,47185145|WD~partly_free_country,47185145]]'
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~Indian_Comoro,109520536]]'
-- '[[_Standards/WikiData/WD~UTC+03_00,6760]]'
+- '[[_Standards/WikiData/WD~Indian_Comoro,109520536|WD~Indian_Comoro,109520536]]'
+- '[[_Standards/WikiData/WD~UTC+03_00,6760|WD~UTC+03_00,6760]]'
 coordinates_of_easternmost_point: Point(44.540611111 -12.260527777)
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 official_website: https://beit-salam.km/
 UMLS_CUI: C0009490
 coordinates_of_southernmost_point: Point(44.516 -12.38475)
@@ -278,27 +278,27 @@ nominal_GDP:
 - 1242519407
 - 1296089479
 diplomatic_relation:
-- '[[_Standards/WikiData/WD~North_Korea,423]]'
-- '[[_Standards/WikiData/WD~Taiwan,865]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Georgia,230]]'
-official_religion: '[[_Standards/WikiData/WD~Islam,432]]'
+- '[[_Standards/WikiData/WD~North_Korea,423|WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Georgia,230|WD~Georgia,230]]'
+official_religion: '[[_Standards/WikiData/WD~Islam,432|WD~Islam,432]]'
 shares_border_with:
-- '[[_Standards/WikiData/WD~Tanzania,924]]'
-- '[[_Standards/WikiData/WD~Madagascar,1019]]'
-- '[[_Standards/WikiData/WD~Mozambique,1029]]'
-- '[[_Standards/WikiData/WD~Seychelles,1042]]'
-- '[[_Standards/WikiData/WD~France,142]]'
-country: '[[_Standards/WikiData/WD~Comoros,970]]'
-lowest_point: '[[_Standards/WikiData/WD~Indian_Ocean,1239]]'
-capital: '[[_Standards/WikiData/WD~Moroni,3901]]'
+- '[[_Standards/WikiData/WD~Tanzania,924|WD~Tanzania,924]]'
+- '[[_Standards/WikiData/WD~Madagascar,1019|WD~Madagascar,1019]]'
+- '[[_Standards/WikiData/WD~Mozambique,1029|WD~Mozambique,1029]]'
+- '[[_Standards/WikiData/WD~Seychelles,1042|WD~Seychelles,1042]]'
+- '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
+country: '[[_Standards/WikiData/WD~Comoros,970|WD~Comoros,970]]'
+lowest_point: '[[_Standards/WikiData/WD~Indian_Ocean,1239|WD~Indian_Ocean,1239]]'
+capital: '[[_Standards/WikiData/WD~Moroni,3901|WD~Moroni,3901]]'
 official_language:
-- '[[_Standards/WikiData/WD~Arabic,13955]]'
-- '[[_Standards/WikiData/WD~French,150]]'
-- '[[_Standards/WikiData/WD~Comorian,33077]]'
-part_of: '[[_Standards/WikiData/WD~East_Africa,27407]]'
-continent: '[[_Standards/WikiData/WD~Africa,15]]'
+- '[[_Standards/WikiData/WD~Arabic,13955|WD~Arabic,13955]]'
+- '[[_Standards/WikiData/WD~French,150|WD~French,150]]'
+- '[[_Standards/WikiData/WD~Comorian,33077|WD~Comorian,33077]]'
+part_of: '[[_Standards/WikiData/WD~East_Africa,27407|WD~East_Africa,27407]]'
+continent: '[[_Standards/WikiData/WD~Africa,15|WD~Africa,15]]'
 unemployment_rate: 6
 mains_voltage: 220
 Inequality_adjusted_Human_Development_Index: 0.31
@@ -309,7 +309,7 @@ birth_rate:
 - 29.398
 - 29.896
 Democracy_Index: 3.09
-top_level_Internet_domain: '[[_Standards/WikiData/WD~.km,42843]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.km,42843|WD~.km,42843]]'
 Happy_Planet_Index_score: 42.4
 total_fertility_rate: 4.49
 Gini_coefficient: 45.3
@@ -719,7 +719,7 @@ dv_UNTERM_Chinese_Formal: 科摩罗联盟
 dv_UNTERM_French_Formal: l'Union des Comores
 dv_UNTERM_Russian: Коморские Острова
 dv_UNTERM_Russian_Formal: Союз Коморских Островов
-dv_Region_Name: '[[../../Africa]]'
+dv_Region_Name: '[[../../Africa|Africa]]'
 dv_Intermediate_Region_Name: '[[Eastern Africa]]'
 dv_Sub-region_Name: '[[Sub-Saharan Africa]]'
 dv_Region: 2
@@ -758,7 +758,7 @@ dv_is_:
 dv_has_name_de: Komoren
 dv_Area-Total: 1862
 dv_Area-Land: 2230
-dv_has_place_continent: '[[../../Africa]]'
+dv_has_place_continent: '[[../../Africa|Africa]]'
 dv_VehicleCode: COM
 dv_Alcohol-l: 0.4
 dv_Language-Id: 472
@@ -784,7 +784,7 @@ Unicode_character: 🇰🇲
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Comoros/ReadMe]] 
+[[Comoros/ReadMe|ReadMe]] 
 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
@@ -876,7 +876,7 @@ VehicleCode = `=this.dv_VehicleCode`
 
 ![[Seal_of_the_Comoros.svg|350]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Comoros.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Comoros.mp3|Anthem-Comoros.mp3]]
 
 ![[Flag_of_the_Comoros.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l` 

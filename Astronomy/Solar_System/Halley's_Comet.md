@@ -152,27 +152,27 @@ Wolfram_Language_entity_code: Entity["Comet", "Comet1PHalley"]
 time_of_periapsis: 2446470.1488983454
 mean_anomaly: 274.1404919498392
 apoapsis: 35.28091967
-child_astronomical_body: '[[_Standards/WikiData/WD~Eta_Aquariids,249546]]'
-different_from: '[[_Standards/WikiData/WD~Halley,258114]]'
+child_astronomical_body: '[[_Standards/WikiData/WD~Eta_Aquariids,249546|WD~Eta_Aquariids,249546]]'
+different_from: '[[_Standards/WikiData/WD~Halley,258114|WD~Halley,258114]]'
 instance_of:
-- '[[_Standards/WikiData/WD~near_Earth_object,265392]]'
-- '[[_Standards/WikiData/WD~periodic_comet,11416914]]'
-- '[[_Standards/WikiData/WD~Halley_type_comet,11741560]]'
+- '[[_Standards/WikiData/WD~near_Earth_object,265392|WD~near_Earth_object,265392]]'
+- '[[_Standards/WikiData/WD~periodic_comet,11416914|WD~periodic_comet,11416914]]'
+- '[[_Standards/WikiData/WD~Halley_type_comet,11741560|WD~Halley_type_comet,11741560]]'
 significant_event:
-- '[[_Standards/WikiData/WD~perihelion_passage,11638551]]'
-- '[[_Standards/WikiData/WD~flyby,60323459]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~perihelion_passage,11638551|WD~perihelion_passage,11638551]]'
+- '[[_Standards/WikiData/WD~flyby,60323459|WD~flyby,60323459]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 time_of_discovery_or_invention: -0465-01-01T00:00:00Z
 semi_major_axis_of_an_orbit: 17.92781774
 longitude_of_ascending_node: 59.11448293673941
 orbital_eccentricity: 0.967942791
-parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525]]'
+parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525|WD~Sun,525]]'
 albedo: 0.04
 diameter: 11
 mass: 220
 absolute_magnitude: 5.5
 density: 850
-named_after: '[[_Standards/WikiData/WD~Edmond_Halley,47434]]'
+named_after: '[[_Standards/WikiData/WD~Edmond_Halley,47434|WD~Edmond_Halley,47434]]'
 orbital_period: 27726.15005
 periapsis: 0.5747158
 argument_of_periapsis: 112.25779
@@ -182,7 +182,7 @@ astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Come
 orbit_diagram: http://commons.wikimedia.org/wiki/Special:FilePath/Halley%27s%20Comet%20animation.gif
 dv_is_:
   same_as:
-  - "[[../../WikiData/WD~Halley's_Comet,23054]]"
+  - "[[../../WikiData/WD~Halley's_Comet,23054|WD~Halley's_Comet,23054]]"
   - "[[/_Standards/Astronomy/Solar_System/Halley's_Comet|Halley's_Comet]]"
   - "[[/_public/Astronomy/Solar_System/Halley's_Comet.public|Halley's_Comet.public]]"
   - "[[/_internal/Astronomy/Solar_System/Halley's_Comet.internal|Halley's_Comet.internal]]"
@@ -191,7 +191,7 @@ dv_is_:
   - "[[/_personal/Astronomy/Solar_System/Halley's_Comet.personal|Halley's_Comet.personal]]"
   - "[[/_secret/Astronomy/Solar_System/Halley's_Comet.secret|Halley's_Comet.secret]]"
 dv_is_same_as:
-- "[[../../WikiData/WD~Halley's_Comet,23054]]"
+- "[[../../WikiData/WD~Halley's_Comet,23054|WD~Halley's_Comet,23054]]"
 - "[[/_Standards/Astronomy/Solar_System/Halley's_Comet|Halley's_Comet]]"
 - "[[/_public/Astronomy/Solar_System/Halley's_Comet.public|Halley's_Comet.public]]"
 - "[[/_internal/Astronomy/Solar_System/Halley's_Comet.internal|Halley's_Comet.internal]]"

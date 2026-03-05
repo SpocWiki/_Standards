@@ -105,34 +105,34 @@ aliases:
 - 할례
 has_id_wikidata: Q83345
 has_part_s_:
-- '[[_Standards/WikiData/WD~circumcision_in_Islam,179561]]'
-- '[[_Standards/WikiData/WD~circumcision_controversy_in_early_Christianity,5121728]]'
+- '[[_Standards/WikiData/WD~circumcision_in_Islam,179561|WD~circumcision_in_Islam,179561]]'
+- '[[_Standards/WikiData/WD~circumcision_controversy_in_early_Christianity,5121728|WD~circumcision_controversy_in_early_Christianity,5121728]]'
 different_from:
-- '[[_Standards/WikiData/WD~female_genital_mutilation,208373]]'
-- '[[_Standards/WikiData/WD~gender_affirming_surgery,1053501]]'
+- '[[_Standards/WikiData/WD~female_genital_mutilation,208373|WD~female_genital_mutilation,208373]]'
+- '[[_Standards/WikiData/WD~gender_affirming_surgery,1053501|WD~gender_affirming_surgery,1053501]]'
 opposite_of:
-- '[[_Standards/WikiData/WD~female_genital_mutilation,208373]]'
-- '[[_Standards/WikiData/WD~foreskin_restoration,1583202]]'
+- '[[_Standards/WikiData/WD~female_genital_mutilation,208373|WD~female_genital_mutilation,208373]]'
+- '[[_Standards/WikiData/WD~foreskin_restoration,1583202|WD~foreskin_restoration,1583202]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875|WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~medical_procedure,796194]]'
-- '[[_Standards/WikiData/WD~ablation,1886589]]'
-- '[[_Standards/WikiData/WD~genital_modification,3309852]]'
-- '[[_Standards/WikiData/WD~removal,23009442]]'
-possible_treatment: '[[_Standards/WikiData/WD~circumcising,5121724]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Circumcision_series,6925518]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q133272711,133272711]]'
+- '[[_Standards/WikiData/WD~medical_procedure,796194|WD~medical_procedure,796194]]'
+- '[[_Standards/WikiData/WD~ablation,1886589|WD~ablation,1886589]]'
+- '[[_Standards/WikiData/WD~genital_modification,3309852|WD~genital_modification,3309852]]'
+- '[[_Standards/WikiData/WD~removal,23009442|WD~removal,23009442]]'
+possible_treatment: '[[_Standards/WikiData/WD~circumcising,5121724|WD~circumcising,5121724]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Circumcision_series,6925518|WD~Template_Circumcision_series,6925518]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529|WD~WikiProject_Human_rights,13382529]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q133272711,133272711|WD~Q133272711,133272711]]'
 OmegaWiki_Defined_Meaning: 1352204
 DOI: 10.1163/1875-3922_Q3_EQSIM_00079
 Commons_gallery: Circumcision

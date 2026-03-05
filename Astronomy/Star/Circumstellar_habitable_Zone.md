@@ -69,12 +69,12 @@ aliases:
 - 適居帶
 - 생명체 거주가능 영역
 has_id_wikidata: Q215913
-part_of: '[[_Standards/WikiData/WD~planetary_system,206717]]'
-subclass_of: '[[_Standards/WikiData/WD~zone,219858]]'
-instance_of: '[[_Standards/WikiData/WD~zone,219858]]'
+part_of: '[[_Standards/WikiData/WD~planetary_system,206717|WD~planetary_system,206717]]'
+subclass_of: '[[_Standards/WikiData/WD~zone,219858|WD~zone,219858]]'
+instance_of: '[[_Standards/WikiData/WD~zone,219858|WD~zone,219858]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~Habitability,21012180]]'
-- '[[_Standards/WikiData/WD~liquid_water,29053744]]'
+- '[[_Standards/WikiData/WD~Habitability,21012180|WD~Habitability,21012180]]'
+- '[[_Standards/WikiData/WD~liquid_water,29053744|WD~liquid_water,29053744]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Kepler-22%20diagram.jpg
 Commons_category: Habitable zone
 dv_is_:

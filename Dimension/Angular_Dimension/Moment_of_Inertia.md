@@ -75,20 +75,20 @@ aliases:
 - 관성 모멘트
 has_id_wikidata: Q165618
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~scalar_quantity,181175]]'
-- '[[_Standards/WikiData/WD~moment,13222844]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~scalar_quantity,181175|WD~scalar_quantity,181175]]'
+- '[[_Standards/WikiData/WD~moment,13222844|WD~moment,13222844]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~ISO_80000_4_2006_Quantities_and_units_Part_4_Mechanics,26711933]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
-different_from: '[[_Standards/WikiData/WD~inertia_tensor,4454677]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-recommended_unit_of_measurement: '[[_Standards/WikiData/WD~kilogram_square_metre,50808017]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~ISO_80000_4_2006_Quantities_and_units_Part_4_Mechanics,26711933|WD~ISO_80000_4_2006_Quantities_and_units_Part_4_Mechanics,26711933]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630|WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
+different_from: '[[_Standards/WikiData/WD~inertia_tensor,4454677|WD~inertia_tensor,4454677]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+recommended_unit_of_measurement: '[[_Standards/WikiData/WD~kilogram_square_metre,50808017|WD~kilogram_square_metre,50808017]]'
 in_defining_formula:
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>r</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">Q</mi></mrow></mrow></msub></mstyle></mrow></math>
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>m</mi></mstyle></mrow></math>
@@ -192,7 +192,7 @@ dv_has_:
 
 # [[Moment_of_Inertia]] 
 
-#is_/similar_to :: [[../Mass]] 
+#is_/similar_to :: [[../Mass|Mass]] 
 
 The [[Moment_of_Inertia]] is the angular Equivalent to [[../Mass|Mass]] in [[Linear_Dimension]]. 
 

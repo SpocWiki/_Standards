@@ -50,8 +50,8 @@ has_id_wikidata: Q139925
 Commons_category: Chenopodium quinoa
 Commons_gallery: Chenopodium quinoa
 described_by_source:
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
 EPPO_Code: CHEQU
 GenBank_assembly_accession_number:
 - GCA_001683475.1
@@ -63,20 +63,20 @@ image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Chenopodium%20quinoa0.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Quinua.JPG
 instance_of:
-- '[[_Standards/WikiData/WD~food_crop,31839438]]'
-- '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~food_crop,31839438|WD~food_crop,31839438]]'
+- '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 ITIS_TSN: 506567
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615|WD~WikiProject_Invasion_Biology,56241615]]'
 MeSH_tree_code: B01.875.800.575.912.250.198.500.100.666.875
 NBN_System_Key: NBNSYS0000014667
 OmegaWiki_Defined_Meaning: 1207934
-parent_taxon: '[[_Standards/WikiData/WD~Chenopodium,158094]]'
+parent_taxon: '[[_Standards/WikiData/WD~Chenopodium,158094|WD~Chenopodium,158094]]'
 sequenced_genome_URL: https://plants.ensembl.org/Chenopodium_quinoa
 short_name: C. quinoa
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Quinoa%20%28Chenopodium%20quinoa%29-article.ogg
 subclass_of:
-- '[[_Standards/WikiData/WD~pseudocereal,749997]]'
-- '[[_Standards/WikiData/WD~useful_plant,11992872]]'
+- '[[_Standards/WikiData/WD~pseudocereal,749997|WD~pseudocereal,749997]]'
+- '[[_Standards/WikiData/WD~useful_plant,11992872|WD~useful_plant,11992872]]'
 taxon_common_name:
 - Andenhirse
 - Inkakorn
@@ -110,10 +110,10 @@ taxon_common_name:
 - Киноа
 - merlík čilský
 taxon_name: Chenopodium quinoa
-taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432|WD~species,7432]]'
 this_taxon_is_source_of:
-- '[[_Standards/WikiData/WD~quinoa_oil,7272327]]'
-- '[[_Standards/WikiData/WD~quinoa_seed,104030862]]'
+- '[[_Standards/WikiData/WD~quinoa_oil,7272327|WD~quinoa_oil,7272327]]'
+- '[[_Standards/WikiData/WD~quinoa_seed,104030862|WD~quinoa_seed,104030862]]'
 UMLS_CUI: C0453354
 UNII: 9KMA964L92
 dv_has_:

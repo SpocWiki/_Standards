@@ -69,12 +69,12 @@ aliases:
 - 열대 기후
 has_id_wikidata: Q135712
 different_from:
-- '[[_Standards/WikiData/WD~Q3743763,3743763]]'
-- '[[_Standards/WikiData/WD~tropics,42530]]'
-instance_of: '[[_Standards/WikiData/WD~category_in_the_Köppen_climate_classification_systems,23702033]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
-subclass_of: '[[_Standards/WikiData/WD~climate,7937]]'
-facet_of: '[[_Standards/WikiData/WD~tropics,42530]]'
+- '[[_Standards/WikiData/WD~Q3743763,3743763|WD~Q3743763,3743763]]'
+- '[[_Standards/WikiData/WD~tropics,42530|WD~tropics,42530]]'
+instance_of: '[[_Standards/WikiData/WD~category_in_the_Köppen_climate_classification_systems,23702033|WD~category_in_the_Köppen_climate_classification_systems,23702033]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604|WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
+subclass_of: '[[_Standards/WikiData/WD~climate,7937|WD~climate,7937]]'
+facet_of: '[[_Standards/WikiData/WD~tropics,42530|WD~tropics,42530]]'
 UMLS_CUI: C0041183
 MeSH_tree_code:
 - G16.500.275.071.600

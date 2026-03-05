@@ -108,24 +108,24 @@ aliases:
 - 속
 has_id_wikidata: Q34740
 Commons_category: Genera (biology)
-described_by_source: '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+described_by_source: '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 different_from:
-- '[[_Standards/WikiData/WD~grammatical_gender,162378]]'
-- '[[_Standards/WikiData/WD~clan,211503]]'
-- '[[_Standards/WikiData/WD~Genus,637121]]'
-- '[[_Standards/WikiData/WD~Geslacht,11054337]]'
-- '[[_Standards/WikiData/WD~ichnogenus,112082101]]'
-- '[[_Standards/WikiData/WD~Geslecht,121080733]]'
-- '[[_Standards/WikiData/WD~oogenus,125838332]]'
-has_characteristic: '[[_Standards/WikiData/WD~type_species,252730]]'
+- '[[_Standards/WikiData/WD~grammatical_gender,162378|WD~grammatical_gender,162378]]'
+- '[[_Standards/WikiData/WD~clan,211503|WD~clan,211503]]'
+- '[[_Standards/WikiData/WD~Genus,637121|WD~Genus,637121]]'
+- '[[_Standards/WikiData/WD~Geslacht,11054337|WD~Geslacht,11054337]]'
+- '[[_Standards/WikiData/WD~ichnogenus,112082101|WD~ichnogenus,112082101]]'
+- '[[_Standards/WikiData/WD~Geslecht,121080733|WD~Geslecht,121080733]]'
+- '[[_Standards/WikiData/WD~oogenus,125838332|WD~oogenus,125838332]]'
+has_characteristic: '[[_Standards/WikiData/WD~type_species,252730|WD~type_species,252730]]'
 instance_of:
-- '[[_Standards/WikiData/WD~taxonomic_rank,427626]]'
-- '[[_Standards/WikiData/WD~rank_in_botany,3100180]]'
-- '[[_Standards/WikiData/WD~rank_in_zoology,13578154]]'
+- '[[_Standards/WikiData/WD~taxonomic_rank,427626|WD~taxonomic_rank,427626]]'
+- '[[_Standards/WikiData/WD~rank_in_botany,3100180|WD~rank_in_botany,3100180]]'
+- '[[_Standards/WikiData/WD~rank_in_zoology,13578154|WD~rank_in_zoology,13578154]]'
 OpenStreetMap_tag_or_key: Key:genus
 part_of:
-- '[[_Standards/WikiData/WD~subfamily,164280]]'
-- '[[_Standards/WikiData/WD~subtribe,3965313]]'
+- '[[_Standards/WikiData/WD~subfamily,164280|WD~subfamily,164280]]'
+- '[[_Standards/WikiData/WD~subtribe,3965313|WD~subtribe,3965313]]'
 pronunciation_audio:
 - http://commons.wikimedia.org/wiki/Special:FilePath/De-Gattung2.ogg
 - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%97%E0%A6%A3.wav
@@ -300,8 +300,8 @@ dv_has_:
 #is_a_/taxon_rank  
 #is_a :: [[Taxon_Rank]] 
 
-#has_/previous_/item :: [[../bio~Family]]  
-#has_/next_/item :: [[bio~Genus/bio~Species]] 
+#has_/previous_/item :: [[../bio~Family|bio~Family]]  
+#has_/next_/item :: [[bio~Genus/bio~Species|bio~Species]] 
 
 #is_/same_as :: [[../../../../../../../../WikiData/WD~Genus,34740|WD~Genus,34740]]  
 

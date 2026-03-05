@@ -115,28 +115,28 @@ aliases:
 - 欃槍
 - 혜성
 has_id_wikidata: Q3559
-subclass_of: '[[_Standards/WikiData/WD~small_Solar_System_body,193275]]'
-part_of: '[[_Standards/WikiData/WD~planetary_system,206717]]'
+subclass_of: '[[_Standards/WikiData/WD~small_Solar_System_body,193275|WD~small_Solar_System_body,193275]]'
+part_of: '[[_Standards/WikiData/WD~planetary_system,206717|WD~planetary_system,206717]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~coma,259854]]'
-- '[[_Standards/WikiData/WD~comet_tail,559875]]'
-- '[[_Standards/WikiData/WD~comet_nucleus,1773534]]'
+- '[[_Standards/WikiData/WD~coma,259854|WD~coma,259854]]'
+- '[[_Standards/WikiData/WD~comet_tail,559875|WD~comet_tail,559875]]'
+- '[[_Standards/WikiData/WD~comet_nucleus,1773534|WD~comet_nucleus,1773534]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-different_from: '[[_Standards/WikiData/WD~exocomet,2855300]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+different_from: '[[_Standards/WikiData/WD~exocomet,2855300|WD~exocomet,2855300]]'
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Infobox_comet,5623690]]'
-- '[[_Standards/WikiData/WD~Template_Comets,7644680]]'
-instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_comet,5623690|WD~Template_Infobox_comet,5623690]]'
+- '[[_Standards/WikiData/WD~Template_Comets,7644680|WD~Template_Comets,7644680]]'
+instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909|WD~astronomical_object_type,17444909]]'
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/comets
-depicted_by: '[[_Standards/WikiData/WD~La_Cometa,126685404]]'
-studied_by: '[[_Standards/WikiData/WD~cometology,131560888]]'
-has_list: '[[_Standards/WikiData/WD~list_of_comets,37554]]'
+depicted_by: '[[_Standards/WikiData/WD~La_Cometa,126685404|WD~La_Cometa,126685404]]'
+studied_by: '[[_Standards/WikiData/WD~cometology,131560888|WD~cometology,131560888]]'
+has_list: '[[_Standards/WikiData/WD~list_of_comets,37554|WD~list_of_comets,37554]]'
 IMDb_keyword: comet
 OmegaWiki_Defined_Meaning: 446805
 image: http://commons.wikimedia.org/wiki/Special:FilePath/C2022%20E3%20%28ZTF%29-%20Alessandro%20Bianconi.jpg

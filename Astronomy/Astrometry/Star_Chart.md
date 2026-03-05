@@ -52,13 +52,13 @@ aliases:
 - 성도
 has_id_wikidata: Q842617
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-part_of: '[[_Standards/WikiData/WD~star_atlas,11025270]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_map,41362222]]'
-studied_by: '[[_Standards/WikiData/WD~celestial_cartography,60198411]]'
-subclass_of: '[[_Standards/WikiData/WD~map,4006]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+part_of: '[[_Standards/WikiData/WD~star_atlas,11025270|WD~star_atlas,11025270]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_map,41362222|WD~type_of_map,41362222]]'
+studied_by: '[[_Standards/WikiData/WD~celestial_cartography,60198411|WD~celestial_cartography,60198411]]'
+subclass_of: '[[_Standards/WikiData/WD~map,4006|WD~map,4006]]'
 Commons_category: Celestial maps
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Planisph%C3%A6ri%20c%C5%93leste.jpg
 Iconclass_notation: 49E12

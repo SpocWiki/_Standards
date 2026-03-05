@@ -76,26 +76,26 @@ aliases:
 - 英寸
 - 인치
 has_id_wikidata: Q218593
-named_after: '[[_Standards/WikiData/WD~thumb,83360]]'
+named_after: '[[_Standards/WikiData/WD~thumb,83360|WD~thumb,83360]]'
 part_of:
-- '[[_Standards/WikiData/WD~Russian_system_of_units,435964]]'
-- '[[_Standards/WikiData/WD~imperial_system_of_units,641227]]'
-- '[[_Standards/WikiData/WD~system_of_measures_in_the_Grand_Duchy_of_Lithuania,4420945]]'
+- '[[_Standards/WikiData/WD~Russian_system_of_units,435964|WD~Russian_system_of_units,435964]]'
+- '[[_Standards/WikiData/WD~imperial_system_of_units,641227|WD~imperial_system_of_units,641227]]'
+- '[[_Standards/WikiData/WD~system_of_measures_in_the_Grand_Duchy_of_Lithuania,4420945|WD~system_of_measures_in_the_Grand_Duchy_of_Lithuania,4420945]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~ISO_80000_3_2006_Quantities_and_units_Part_3_Space_and_time,26711932]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~ISO_80000_3_2006_Quantities_and_units_Part_3_Space_and_time,26711932|WD~ISO_80000_3_2006_Quantities_and_units_Part_3_Space_and_time,26711932]]'
 different_from:
-- '[[_Standards/WikiData/WD~pulgada,1523859]]'
-- '[[_Standards/WikiData/WD~Paris_inch,7137383]]'
-- '[[_Standards/WikiData/WD~international_inch,61771670]]'
-- '[[_Standards/WikiData/WD~metric_inch,64831044]]'
-- '[[_Standards/WikiData/WD~inch,100046246]]'
-- '[[_Standards/WikiData/WD~British_Imperial_inch,100063122]]'
-instance_of: '[[_Standards/WikiData/WD~unit_of_length,1978718]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q101001323,101001323]]'
+- '[[_Standards/WikiData/WD~pulgada,1523859|WD~pulgada,1523859]]'
+- '[[_Standards/WikiData/WD~Paris_inch,7137383|WD~Paris_inch,7137383]]'
+- '[[_Standards/WikiData/WD~international_inch,61771670|WD~international_inch,61771670]]'
+- '[[_Standards/WikiData/WD~metric_inch,64831044|WD~metric_inch,64831044]]'
+- '[[_Standards/WikiData/WD~inch,100046246|WD~inch,100046246]]'
+- '[[_Standards/WikiData/WD~British_Imperial_inch,100063122|WD~British_Imperial_inch,100063122]]'
+instance_of: '[[_Standards/WikiData/WD~unit_of_length,1978718|WD~unit_of_length,1978718]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q101001323,101001323|WD~Q101001323,101001323]]'
 conversion_to_standard_unit:
 - 1000000
 - 1000
@@ -116,7 +116,7 @@ conversion_to_standard_unit:
 - 8.2316e-19
 - 0.083333
 - 25399.54
-measured_physical_quantity: '[[_Standards/WikiData/WD~length,36253]]'
+measured_physical_quantity: '[[_Standards/WikiData/WD~length,36253|WD~length,36253]]'
 conversion_to_SI_unit: 0.0254
 Commons_category: Inch
 unit_symbol:

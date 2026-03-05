@@ -49,15 +49,15 @@ aliases:
 - 斑點狗
 - 달마티안
 has_id_wikidata: Q17504
-subclass_of: '[[_Standards/WikiData/WD~dog,144]]'
-country_of_origin: '[[_Standards/WikiData/WD~Croatia,224]]'
+subclass_of: '[[_Standards/WikiData/WD~dog,144|WD~dog,144]]'
+country_of_origin: '[[_Standards/WikiData/WD~Croatia,224|WD~Croatia,224]]'
 height:
 - 60
 - 54
 - 56
 - 62
 litter_size: 8.4
-instance_of: '[[_Standards/WikiData/WD~dog_breed,39367]]'
+instance_of: '[[_Standards/WikiData/WD~dog_breed,39367|WD~dog_breed,39367]]'
 catalog_code: 153
 OmegaWiki_Defined_Meaning: 1117110
 Commons_gallery: Dalmatian

@@ -58,38 +58,38 @@ aliases:
 - 腸胃炎
 - 장염
 has_id_wikidata: Q156103
-health_specialty: '[[_Standards/WikiData/WD~gastroenterology,120569]]'
+health_specialty: '[[_Standards/WikiData/WD~gastroenterology,120569|WD~gastroenterology,120569]]'
 symptoms_and_signs:
-- '[[_Standards/WikiData/WD~vomiting,127076]]'
-- '[[_Standards/WikiData/WD~abdominal_pain,183425]]'
-- '[[_Standards/WikiData/WD~nausea,186889]]'
-- '[[_Standards/WikiData/WD~dehydration,194290]]'
-- '[[_Standards/WikiData/WD~heartburn,537297]]'
-- '[[_Standards/WikiData/WD~spasm,574360]]'
-- '[[_Standards/WikiData/WD~abdominal_cramps,3002092]]'
-- '[[_Standards/WikiData/WD~fever,38933]]'
-- '[[_Standards/WikiData/WD~diarrhea,40878]]'
+- '[[_Standards/WikiData/WD~vomiting,127076|WD~vomiting,127076]]'
+- '[[_Standards/WikiData/WD~abdominal_pain,183425|WD~abdominal_pain,183425]]'
+- '[[_Standards/WikiData/WD~nausea,186889|WD~nausea,186889]]'
+- '[[_Standards/WikiData/WD~dehydration,194290|WD~dehydration,194290]]'
+- '[[_Standards/WikiData/WD~heartburn,537297|WD~heartburn,537297]]'
+- '[[_Standards/WikiData/WD~spasm,574360|WD~spasm,574360]]'
+- '[[_Standards/WikiData/WD~abdominal_cramps,3002092|WD~abdominal_cramps,3002092]]'
+- '[[_Standards/WikiData/WD~fever,38933|WD~fever,38933]]'
+- '[[_Standards/WikiData/WD~diarrhea,40878|WD~diarrhea,40878]]'
 has_cause:
-- '[[_Standards/WikiData/WD~Campylobacter,131488]]'
-- '[[_Standards/WikiData/WD~Rotavirus,164778]]'
-- '[[_Standards/WikiData/WD~norovirus,1142751]]'
+- '[[_Standards/WikiData/WD~Campylobacter,131488|WD~Campylobacter,131488]]'
+- '[[_Standards/WikiData/WD~Rotavirus,164778|WD~Rotavirus,164778]]'
+- '[[_Standards/WikiData/WD~norovirus,1142751|WD~norovirus,1142751]]'
 drug_or_therapy_used_for_treatment:
-- '[[_Standards/WikiData/WD~ibuprofen,186969]]'
-- '[[_Standards/WikiData/WD~erythromycin,213511]]'
-- '[[_Standards/WikiData/WD~ciprofloxacin,256602]]'
-- '[[_Standards/WikiData/WD~ondansetron,410011]]'
+- '[[_Standards/WikiData/WD~ibuprofen,186969|WD~ibuprofen,186969]]'
+- '[[_Standards/WikiData/WD~erythromycin,213511|WD~erythromycin,213511]]'
+- '[[_Standards/WikiData/WD~ciprofloxacin,256602|WD~ciprofloxacin,256602]]'
+- '[[_Standards/WikiData/WD~ondansetron,410011|WD~ondansetron,410011]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~gastrointestinal_system_disease,2300099]]'
-- '[[_Standards/WikiData/WD~digestive_sign,54926352]]'
-- '[[_Standards/WikiData/WD~disease,12136]]'
+- '[[_Standards/WikiData/WD~gastrointestinal_system_disease,2300099|WD~gastrointestinal_system_disease,2300099]]'
+- '[[_Standards/WikiData/WD~digestive_sign,54926352|WD~digestive_sign,54926352]]'
+- '[[_Standards/WikiData/WD~disease,12136|WD~disease,12136]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686|WD~WikiProject_Medicine,4099686]]'
 instance_of:
-- '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
-- '[[_Standards/WikiData/WD~symptom_or_sign,112965645]]'
+- '[[_Standards/WikiData/WD~class_of_disease,112193867|WD~class_of_disease,112193867]]'
+- '[[_Standards/WikiData/WD~symptom_or_sign,112965645|WD~symptom_or_sign,112965645]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%97%E0%AD%8D%E0%AD%9F%E0%AC%BE%E0%AC%B8%E0%AD%8D%E0%AC%9F%E0%AD%8D%E0%AC%B0%E0%AD%8B%E0%AC%8F%E0%AC%A3%E0%AD%8D%E0%AC%9F%E0%AD%87%E0%AC%B0%E0%AC%BE%E0%AC%87%E0%AC%9F%E0%AC%BF%E0%AC%B8%E0%AD%8D.wav
 DiseasesDB: 30726
 Commons_category: Gastroenteritis

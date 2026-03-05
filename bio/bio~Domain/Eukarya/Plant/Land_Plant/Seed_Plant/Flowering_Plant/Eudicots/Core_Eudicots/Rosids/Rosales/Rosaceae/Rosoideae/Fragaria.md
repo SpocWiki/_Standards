@@ -104,30 +104,30 @@ taxon_common_name:
 - strawberry
 - Erdbeere
 - Aardbei
-parent_taxon: '[[../../../../../../../../../../../../../WikiData/WD~Rosoideae,134655]]'
-taxonomic_type: '[[_Standards/WikiData/WD~Fragaria_vesca,146684]]'
+parent_taxon: '[[../../../../../../../../../../../../../WikiData/WD~Rosoideae,134655|WD~Rosoideae,134655]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Fragaria_vesca,146684|WD~Fragaria_vesca,146684]]'
 has_fruit_type:
-- '[[_Standards/WikiData/WD~aggregate_fruit,160600]]'
-- '[[_Standards/WikiData/WD~achene,14714]]'
+- '[[_Standards/WikiData/WD~aggregate_fruit,160600|WD~aggregate_fruit,160600]]'
+- '[[_Standards/WikiData/WD~achene,14714|WD~achene,14714]]'
 described_by_source:
-- '[[../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_First_Edition,5375740]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_37,112869418]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
-ploidy: '[[_Standards/WikiData/WD~octoploidy,3149130]]'
-this_taxon_is_source_of: '[[_Standards/WikiData/WD~strawberry,14458220]]'
-different_from: '[[_Standards/WikiData/WD~foootball,16636872]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q111853602,111853602]]'
+- '[[../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_First_Edition,5375740|WD~Encyclopædia_Britannica_First_Edition,5375740]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_37,112869418|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_37,112869418]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+ploidy: '[[_Standards/WikiData/WD~octoploidy,3149130|WD~octoploidy,3149130]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~strawberry,14458220|WD~strawberry,14458220]]'
+different_from: '[[_Standards/WikiData/WD~foootball,16636872|WD~foootball,16636872]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q111853602,111853602|WD~Q111853602,111853602]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~wintergreen_plants,126910810]]'
-- '[[_Standards/WikiData/WD~flowering_plant,25314]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+- '[[_Standards/WikiData/WD~wintergreen_plants,126910810|WD~wintergreen_plants,126910810]]'
+- '[[_Standards/WikiData/WD~flowering_plant,25314|WD~flowering_plant,25314]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
 water_footprint: 347
 ITIS_TSN: 24624
 OmegaWiki_Defined_Meaning: 964356
@@ -278,7 +278,7 @@ dv_has_:
 
 # [[Fragaria]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../../WikiData/WD~Fragaria,745]] 
+#is_/same_as :: [[../../../../../../../../../../../../../WikiData/WD~Fragaria,745|WD~Fragaria,745]] 
 
 ## #has_/text_of_/abstract 
 

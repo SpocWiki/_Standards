@@ -39,9 +39,9 @@ aliases:
 - 盾皮鱼纲
 - 판피류
 has_id_wikidata: Q130932
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290]]'
-taxon_rank: '[[_Standards/WikiData/WD~class,37517]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290|WD~fossil_taxon,23038290]]'
+taxon_rank: '[[_Standards/WikiData/WD~class,37517|WD~class,37517]]'
 Commons_category: Gnathostomata
 image: http://commons.wikimedia.org/wiki/Special:FilePath/DunkleosteusSannoble.JPG
 taxon_name: Placodermi

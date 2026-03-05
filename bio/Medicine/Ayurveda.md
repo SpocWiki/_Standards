@@ -47,15 +47,15 @@ aliases:
 - 아유르베다
 - "\U00011006\U0001102C\U0001103C\U00011029\U00011046\U00011029\U00011042\U00011024"
 has_id_wikidata: Q132325
-subclass_of: '[[_Standards/WikiData/WD~alternative_medicine,188504]]'
+subclass_of: '[[_Standards/WikiData/WD~alternative_medicine,188504|WD~alternative_medicine,188504]]'
 instance_of:
-- '[[_Standards/WikiData/WD~crenotherapy,1727131]]'
-- '[[_Standards/WikiData/WD~alternative_medicine,31338769]]'
-- '[[_Standards/WikiData/WD~healing_knowledge,20532]]'
-part_of: '[[_Standards/WikiData/WD~traditional_Asian_medicine,3439913]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Ayurveda,25976856]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Ayurveda,27115626]]'
-practiced_by: '[[_Standards/WikiData/WD~Ayurvedacharya,110898124]]'
+- '[[_Standards/WikiData/WD~crenotherapy,1727131|WD~crenotherapy,1727131]]'
+- '[[_Standards/WikiData/WD~alternative_medicine,31338769|WD~alternative_medicine,31338769]]'
+- '[[_Standards/WikiData/WD~healing_knowledge,20532|WD~healing_knowledge,20532]]'
+part_of: '[[_Standards/WikiData/WD~traditional_Asian_medicine,3439913|WD~traditional_Asian_medicine,3439913]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Ayurveda,25976856|WD~Template_Ayurveda,25976856]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Ayurveda,27115626|WD~Ayurveda,27115626]]'
+practiced_by: '[[_Standards/WikiData/WD~Ayurvedacharya,110898124|WD~Ayurvedacharya,110898124]]'
 social_media_followers: 16119
 subreddit: Ayurveda
 Commons_category: Ayurveda

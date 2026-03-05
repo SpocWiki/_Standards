@@ -175,15 +175,15 @@ defining_formula: >-
     </semantics>
   </math>
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
-- '[[_Standards/WikiData/WD~ISO_80000-3_2006_Quantities_and_units___Part_3__Space_and_time,26711932]]'
-- '[[_Standards/WikiData/WD~ISO_80000-3_2019_Quantities_and_units___Part_3__Space_and_time,90137277]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917|WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- '[[_Standards/WikiData/WD~ISO_80000-3_2006_Quantities_and_units___Part_3__Space_and_time,26711932|WD~ISO_80000-3_2006_Quantities_and_units___Part_3__Space_and_time,26711932]]'
+- '[[_Standards/WikiData/WD~ISO_80000-3_2019_Quantities_and_units___Part_3__Space_and_time,90137277|WD~ISO_80000-3_2019_Quantities_and_units___Part_3__Space_and_time,90137277]]'
 different_from:
-- '[[_Standards/WikiData/WD~square,174782]]'
-- '[[_Standards/WikiData/WD~surface_area,1379273]]'
-followed_by: '[[_Standards/WikiData/WD~volume,39297]]'
-follows: '[[_Standards/WikiData/WD~length,36253]]'
+- '[[_Standards/WikiData/WD~square,174782|WD~square,174782]]'
+- '[[_Standards/WikiData/WD~surface_area,1379273|WD~surface_area,1379273]]'
+followed_by: '[[_Standards/WikiData/WD~volume,39297|WD~volume,39297]]'
+follows: '[[_Standards/WikiData/WD~length,36253|WD~length,36253]]'
 IEV_number: 102-04-33
 in_defining_formula:
 - >-
@@ -239,9 +239,9 @@ ISQ_dimension: >-
       <annotation encoding="application/x-tex">{\displaystyle {\mathsf {L}}^{2}}</annotation>
     </semantics>
   </math>
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 OpenStreetMap_tag_or_key: Key:area
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q110206152,110206152]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q110206152,110206152|WD~Q110206152,110206152]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Vj18081991-%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%87%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%AB%E0%A4%B3.wav
 quantity_symbol_LaTeX_:
 - >-
@@ -269,16 +269,16 @@ quantity_symbol_LaTeX_:
 quantity_symbol_string_:
 - S
 recommended_unit_of_measurement:
-- '[[_Standards/WikiData/WD~square_metre,25343]]'
+- '[[_Standards/WikiData/WD~square_metre,25343|WD~square_metre,25343]]'
 Stack_Exchange_tag: https://stackoverflow.com/tags/area
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~scalar_quantity,181175]]'
-- '[[_Standards/WikiData/WD~definite_integral,1991596]]'
-- '[[_Standards/WikiData/WD~ISQ_derived_quantity,30337763]]'
-- '[[_Standards/WikiData/WD~area,111811675]]'
-- '[[_Standards/WikiData/WD~geometric_measure,123410660]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Contents_Portals,5008867]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~scalar_quantity,181175|WD~scalar_quantity,181175]]'
+- '[[_Standards/WikiData/WD~definite_integral,1991596|WD~definite_integral,1991596]]'
+- '[[_Standards/WikiData/WD~ISQ_derived_quantity,30337763|WD~ISQ_derived_quantity,30337763]]'
+- '[[_Standards/WikiData/WD~area,111811675|WD~area,111811675]]'
+- '[[_Standards/WikiData/WD~geometric_measure,123410660|WD~geometric_measure,123410660]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Contents_Portals,5008867|WD~Contents_Portals,5008867]]'
 Wikidata_property: area
 dv_has_:
   name_:

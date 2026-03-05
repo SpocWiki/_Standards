@@ -46,16 +46,16 @@ aliases:
 - 弧度
 - 라디안
 has_id_wikidata: Q33680
-measured_physical_quantity: '[[_Standards/WikiData/WD~angular_measure,1357788]]'
+measured_physical_quantity: '[[_Standards/WikiData/WD~angular_measure,1357788|WD~angular_measure,1357788]]'
 instance_of:
-- '[[_Standards/WikiData/WD~dimensionless_unit,1618549]]'
-- '[[_Standards/WikiData/WD~unit_of_plane_angle,13587321]]'
-- '[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328]]'
-- '[[_Standards/WikiData/WD~UCUM_base_unit,82047053]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-described_by_source: '[[_Standards/WikiData/WD~ISO_80000_3_2006_Quantities_and_units_Part_3_Space_and_time,26711932]]'
+- '[[_Standards/WikiData/WD~dimensionless_unit,1618549|WD~dimensionless_unit,1618549]]'
+- '[[_Standards/WikiData/WD~unit_of_plane_angle,13587321|WD~unit_of_plane_angle,13587321]]'
+- '[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328|WD~SI_unit_with_special_name,68618328]]'
+- '[[_Standards/WikiData/WD~UCUM_base_unit,82047053|WD~UCUM_base_unit,82047053]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+described_by_source: '[[_Standards/WikiData/WD~ISO_80000_3_2006_Quantities_and_units_Part_3_Space_and_time,26711932|WD~ISO_80000_3_2006_Quantities_and_units_Part_3_Space_and_time,26711932]]'
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mtext>angle in radians</mtext></mrow><mo stretchy="false">=</mo><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mtext>length of arc</mtext></mrow></mrow><mrow data-mjx-texclass="ORD"><mi>r</mi></mrow></mfrac></mrow></mstyle></mrow></math>
-subdivision_of_this_unit: '[[_Standards/WikiData/WD~deciradian,95948364]]'
+subdivision_of_this_unit: '[[_Standards/WikiData/WD~deciradian,95948364|WD~deciradian,95948364]]'
 conversion_to_SI_unit: 1
 UCUM_code: rad
 OmegaWiki_Defined_Meaning: 340346
@@ -185,7 +185,7 @@ dv_has_:
 # [[Radian]] ㎭ 
 
 
-#is_a :: [[../SI-Unit]] 
+#is_a :: [[../SI-Unit|SI-Unit]] 
 Unit :: #Unit/SI/rad 
 
 #is_a_/unit_/for_/angle 

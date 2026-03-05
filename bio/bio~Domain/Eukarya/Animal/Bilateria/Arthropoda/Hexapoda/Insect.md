@@ -185,29 +185,29 @@ aliases:
 - 곤충강
 - "\U00010339\U0001033D\U00010343\U00010334\U0001033A\U00010344\U00010330"
 has_id_wikidata: Q1390
-code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
+code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011|WD~International_Code_of_Zoological_Nomenclature,13011]]'
 Colon_Classification: K86
 Commons_category: Insecta
 Commons_gallery: Insecta
 described_by_source:
-- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+- '[[../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
 EPPO_Code: 1INSEC
 equivalent_class: http://dbpedia.org/ontology/Insect
 GS1_GPC_code: 10005446
-has_characteristic: '[[_Standards/WikiData/WD~insect_biodiversity,6037215]]'
+has_characteristic: '[[_Standards/WikiData/WD~insect_biodiversity,6037215|WD~insect_biodiversity,6037215]]'
 has_use:
-- '[[_Standards/WikiData/WD~entomophagy,1046284]]'
-- '[[_Standards/WikiData/WD~insect_farming,1351959]]'
-- '[[_Standards/WikiData/WD~insect_trade,121888623]]'
+- '[[_Standards/WikiData/WD~entomophagy,1046284|WD~entomophagy,1046284]]'
+- '[[_Standards/WikiData/WD~insect_farming,1351959|WD~insect_farming,1351959]]'
+- '[[_Standards/WikiData/WD~insect_trade,121888623|WD~insect_trade,121888623]]'
 Iconclass_notation: 25F711
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Insekter.jpg
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 IPA_transcription: ɪnˈsɛktə
 ITIS_TSN: 99208
 Krugosvet_article: nauka_i_tehnika/biologiya/NASEKOMIE.html
@@ -217,7 +217,7 @@ OmegaWiki_Defined_Meaning: 1959
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%AA%E0%A6%A4%E0%A6%99%E0%A7%8D%E0%A6%97.wav
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/WP%20en%20Insect%20Intro%2030%20Oct%202010.ogg
 start_time: -400000000-01-01
-studied_in: '[[_Standards/WikiData/WD~entomology,39286]]'
+studied_in: '[[_Standards/WikiData/WD~entomology,39286|WD~entomology,39286]]'
 subreddit: insects
 taxon_common_name:
 - Inseuto
@@ -276,13 +276,13 @@ taxon_common_name:
 - Insectes
 - hmyz
 taxon_name: Insecta
-taxon_rank: '[[_Standards/WikiData/WD~class,37517]]'
-this_taxon_is_source_of: '[[_Standards/WikiData/WD~insect_as_food,38117921]]'
+taxon_rank: '[[_Standards/WikiData/WD~class,37517|WD~class,37517]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~insect_as_food,38117921|WD~insect_as_food,38117921]]'
 title: Insecta
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Orders_of_Insects,14337328]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Insects,10564223]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Orders_of_Insects,14337328|WD~Template_Orders_of_Insects,14337328]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Insects,10564223|WD~Portal_Insects,10564223]]'
 UMLS_CUI: C0021585
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
 U_S_National_Archives_Identifier: 10640332
 dv_has_:
   name_:

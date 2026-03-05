@@ -52,15 +52,15 @@ aliases:
 - 투아타라
 has_id_wikidata: Q163283
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
-CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528]]'
-parent_taxon: '[[../../../../../../../../../../../../../../../../WikiData/WD~Sphenodontinae,7576641]]'
-homonymous_taxon: '[[_Standards/WikiData/WD~Sphenodon,119166980]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528|WD~Appendix_I_of_CITES,2851528]]'
+parent_taxon: '[[../../../../../../../../../../../../../../../../WikiData/WD~Sphenodontinae,7576641|WD~Sphenodontinae,7576641]]'
+homonymous_taxon: '[[_Standards/WikiData/WD~Sphenodon,119166980|WD~Sphenodon,119166980]]'
 start_time: -240000000-01-01T00:00:00Z
-endemic_to: '[[_Standards/WikiData/WD~New_Zealand,664]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+endemic_to: '[[_Standards/WikiData/WD~New_Zealand,664|WD~New_Zealand,664]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
 ITIS_TSN: 202131
 taxon_name: Sphenodon
 taxon_range_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/North%20Island%20Map%20tuatara.PNG

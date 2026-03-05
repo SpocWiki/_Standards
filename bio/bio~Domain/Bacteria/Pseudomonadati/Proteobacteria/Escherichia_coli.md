@@ -167,18 +167,18 @@ Krugosvet_article: meditsina/kishechnaya-palochka
 short_name: E. coli
 taxon_common_name: 大腸埃希氏菌
 instance_of:
-- '[[_Standards/WikiData/WD~model_organism,213907]]'
-- '[[_Standards/WikiData/WD~taxon,16521]]'
-parent_taxon: '[[_Standards/WikiData/WD~Escherichia,311055]]'
-Gram_staining: '[[_Standards/WikiData/WD~gram_negative_bacteria,632006]]'
-this_taxon_is_source_of: '[[_Standards/WikiData/WD~Q21024265,21024265]]'
+- '[[_Standards/WikiData/WD~model_organism,213907|WD~model_organism,213907]]'
+- '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+parent_taxon: '[[_Standards/WikiData/WD~Escherichia,311055|WD~Escherichia,311055]]'
+Gram_staining: '[[_Standards/WikiData/WD~gram_negative_bacteria,632006|WD~gram_negative_bacteria,632006]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~Q21024265,21024265|WD~Q21024265,21024265]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Escherichia_coli,22721381]]'
-- '[[_Standards/WikiData/WD~Q22865440,22865440]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25681522,25681522]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
-taxon_synonym: '[[_Standards/WikiData/WD~Bacillus_coli_communis,100621690]]'
-taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
+- '[[_Standards/WikiData/WD~Template_Escherichia_coli,22721381|WD~Template_Escherichia_coli,22721381]]'
+- '[[_Standards/WikiData/WD~Q22865440,22865440|WD~Q22865440,22865440]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25681522,25681522|WD~Q25681522,25681522]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615|WD~WikiProject_Invasion_Biology,56241615]]'
+taxon_synonym: '[[_Standards/WikiData/WD~Bacillus_coli_communis,100621690|WD~Bacillus_coli_communis,100621690]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432|WD~species,7432]]'
 ITIS_TSN: 285
 OmegaWiki_Defined_Meaning: 1299610
 image:

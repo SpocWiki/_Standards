@@ -125,23 +125,23 @@ aliases:
 - 수컷
 has_id_wikidata: Q44148
 has_characteristic:
-- '[[_Standards/WikiData/WD~spermatozoon,74560]]'
-- '[[_Standards/WikiData/WD~masculine,499327]]'
-- '[[_Standards/WikiData/WD~male_reproductive_system,842083]]'
-- '[[_Standards/WikiData/WD~male_pregnancy,1037007]]'
-- '[[_Standards/WikiData/WD~male,127688635]]'
-- '[[_Standards/WikiData/WD~X_chromosome,61333]]'
-- '[[_Standards/WikiData/WD~androgen,62614]]'
-part_of: '[[_Standards/WikiData/WD~sexual_reproduction,182353]]'
-has_part_s_: '[[_Standards/WikiData/WD~Y_chromosome,202771]]'
+- '[[_Standards/WikiData/WD~spermatozoon,74560|WD~spermatozoon,74560]]'
+- '[[_Standards/WikiData/WD~masculine,499327|WD~masculine,499327]]'
+- '[[_Standards/WikiData/WD~male_reproductive_system,842083|WD~male_reproductive_system,842083]]'
+- '[[_Standards/WikiData/WD~male_pregnancy,1037007|WD~male_pregnancy,1037007]]'
+- '[[_Standards/WikiData/WD~male,127688635|WD~male,127688635]]'
+- '[[_Standards/WikiData/WD~X_chromosome,61333|WD~X_chromosome,61333]]'
+- '[[_Standards/WikiData/WD~androgen,62614|WD~androgen,62614]]'
+part_of: '[[_Standards/WikiData/WD~sexual_reproduction,182353|WD~sexual_reproduction,182353]]'
+has_part_s_: '[[_Standards/WikiData/WD~Y_chromosome,202771|WD~Y_chromosome,202771]]'
 different_from:
-- '[[_Standards/WikiData/WD~Masculine,1174782]]'
-- '[[_Standards/WikiData/WD~Samiec,9333128]]'
+- '[[_Standards/WikiData/WD~Masculine,1174782|WD~Masculine,1174782]]'
+- '[[_Standards/WikiData/WD~Samiec,9333128|WD~Samiec,9333128]]'
 instance_of:
-- '[[_Standards/WikiData/WD~group_of_living_things,16334298]]'
-- '[[_Standards/WikiData/WD~sex,290]]'
-subclass_of: '[[_Standards/WikiData/WD~organism,7239]]'
-opposite_of: '[[_Standards/WikiData/WD~female_organism,43445]]'
+- '[[_Standards/WikiData/WD~group_of_living_things,16334298|WD~group_of_living_things,16334298]]'
+- '[[_Standards/WikiData/WD~sex,290|WD~sex,290]]'
+subclass_of: '[[_Standards/WikiData/WD~organism,7239|WD~organism,7239]]'
+opposite_of: '[[_Standards/WikiData/WD~female_organism,43445|WD~female_organism,43445]]'
 short_name:
 - 男
 - 男

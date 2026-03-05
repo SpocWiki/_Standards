@@ -67,11 +67,11 @@ aliases:
 - 호흡
 has_id_wikidata: Q472287
 has_part_s_:
-- '[[_Standards/WikiData/WD~inhalation,840343]]'
-- '[[_Standards/WikiData/WD~exhalation,2197000]]'
-- '[[_Standards/WikiData/WD~breathing,9530]]'
-subclass_of: '[[_Standards/WikiData/WD~biological_process,2996394]]'
-instance_of: '[[_Standards/WikiData/WD~rhythmic_process,14864472]]'
+- '[[_Standards/WikiData/WD~inhalation,840343|WD~inhalation,840343]]'
+- '[[_Standards/WikiData/WD~exhalation,2197000|WD~exhalation,2197000]]'
+- '[[_Standards/WikiData/WD~breathing,9530|WD~breathing,9530]]'
+subclass_of: '[[_Standards/WikiData/WD~biological_process,2996394|WD~biological_process,2996394]]'
+instance_of: '[[_Standards/WikiData/WD~rhythmic_process,14864472|WD~rhythmic_process,14864472]]'
 OmegaWiki_Defined_Meaning: 3215
 Commons_category: Respiration
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bubble%20Blowing%2015.jpg

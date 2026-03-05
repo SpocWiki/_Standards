@@ -48,8 +48,8 @@ aliases:
 - 致密星
 - 밀집성
 has_id_wikidata: Q368442
-subclass_of: '[[_Standards/WikiData/WD~star,523]]'
-has_part_s_: '[[_Standards/WikiData/WD~degenerate_matter,51368]]'
+subclass_of: '[[_Standards/WikiData/WD~star,523|WD~star,523]]'
+has_part_s_: '[[_Standards/WikiData/WD~degenerate_matter,51368|WD~degenerate_matter,51368]]'
 dv_is_:
   same_as:
   - '[[../../WikiData/WD~Compact_star,368442|WD~Compact_star,368442]]'

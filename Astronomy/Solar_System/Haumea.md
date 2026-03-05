@@ -47,26 +47,26 @@ aliases:
 - 하우메아
 has_id_wikidata: Q601
 child_astronomical_body:
-- '[[_Standards/WikiData/WD~Hiʻiaka,141799]]'
-- '[[_Standards/WikiData/WD~Namaka,153893]]'
-- '[[_Standards/WikiData/WD~ring_of_Haumea,109358428]]'
-site_of_astronomical_discovery: '[[_Standards/WikiData/WD~Sierra_Nevada_Observatory,526841]]'
-named_after: '[[_Standards/WikiData/WD~Haumea,1514359]]'
-asteroid_family: '[[_Standards/WikiData/WD~Haumea_family,2447669]]'
-part_of: '[[_Standards/WikiData/WD~Haumea_family,2447669]]'
+- '[[_Standards/WikiData/WD~Hiʻiaka,141799|WD~Hiʻiaka,141799]]'
+- '[[_Standards/WikiData/WD~Namaka,153893|WD~Namaka,153893]]'
+- '[[_Standards/WikiData/WD~ring_of_Haumea,109358428|WD~ring_of_Haumea,109358428]]'
+site_of_astronomical_discovery: '[[_Standards/WikiData/WD~Sierra_Nevada_Observatory,526841|WD~Sierra_Nevada_Observatory,526841]]'
+named_after: '[[_Standards/WikiData/WD~Haumea,1514359|WD~Haumea,1514359]]'
+asteroid_family: '[[_Standards/WikiData/WD~Haumea_family,2447669|WD~Haumea_family,2447669]]'
+part_of: '[[_Standards/WikiData/WD~Haumea_family,2447669|WD~Haumea_family,2447669]]'
 significant_event:
-- '[[_Standards/WikiData/WD~discovery,12772819]]'
-- '[[_Standards/WikiData/WD~naming,25488743]]'
-follows: '[[_Standards/WikiData/WD~(136107)_2003_EY58,19367033]]'
-followed_by: '[[_Standards/WikiData/WD~(136109)_2003_FA22,19367046]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Pablo_Santos_Sanz,53951917]]'
+- '[[_Standards/WikiData/WD~discovery,12772819|WD~discovery,12772819]]'
+- '[[_Standards/WikiData/WD~naming,25488743|WD~naming,25488743]]'
+follows: '[[_Standards/WikiData/WD~(136107)_2003_EY58,19367033|WD~(136107)_2003_EY58,19367033]]'
+followed_by: '[[_Standards/WikiData/WD~(136109)_2003_FA22,19367046|WD~(136109)_2003_FA22,19367046]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Pablo_Santos_Sanz,53951917|WD~Pablo_Santos_Sanz,53951917]]'
 time_of_periapsis: 2500350.22915
 mean_anomaly: 221.56788975
 argument_of_periapsis: 240.97484667
-parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525]]'
-locations: '[[_Standards/WikiData/WD~Solar_System,544]]'
-instance_of: '[[_Standards/WikiData/WD~dwarf_planet,2199]]'
-minor_planet_group: '[[_Standards/WikiData/WD~trans_Neptunian_object,6592]]'
+parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525|WD~Sun,525]]'
+locations: '[[_Standards/WikiData/WD~Solar_System,544|WD~Solar_System,544]]'
+instance_of: '[[_Standards/WikiData/WD~dwarf_planet,2199|WD~dwarf_planet,2199]]'
+minor_planet_group: '[[_Standards/WikiData/WD~trans_Neptunian_object,6592|WD~trans_Neptunian_object,6592]]'
 color_index:
 - -0.6
 - 0.33
@@ -113,7 +113,7 @@ IMDb_keyword:
 periapsis: 34.4961098
 dv_is_:
   same_as:
-  - '[[../../WikiData/WD~Haumea,601]]'
+  - '[[../../WikiData/WD~Haumea,601|WD~Haumea,601]]'
   - '[[/_Standards/Astronomy/Solar_System/Haumea|Haumea]]'
   - '[[/_public/Astronomy/Solar_System/Haumea.public|Haumea.public]]'
   - '[[/_internal/Astronomy/Solar_System/Haumea.internal|Haumea.internal]]'
@@ -122,7 +122,7 @@ dv_is_:
   - '[[/_personal/Astronomy/Solar_System/Haumea.personal|Haumea.personal]]'
   - '[[/_secret/Astronomy/Solar_System/Haumea.secret|Haumea.secret]]'
 dv_is_same_as:
-- '[[../../WikiData/WD~Haumea,601]]'
+- '[[../../WikiData/WD~Haumea,601|WD~Haumea,601]]'
 - '[[/_Standards/Astronomy/Solar_System/Haumea|Haumea]]'
 - '[[/_public/Astronomy/Solar_System/Haumea.public|Haumea.public]]'
 - '[[/_internal/Astronomy/Solar_System/Haumea.internal|Haumea.internal]]'

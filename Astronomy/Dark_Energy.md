@@ -81,21 +81,21 @@ aliases:
 - 暗能量
 - 암흑 에너지
 has_id_wikidata: Q18343
-different_from: '[[_Standards/WikiData/WD~dark_matter,79925]]'
+different_from: '[[_Standards/WikiData/WD~dark_matter,79925|WD~dark_matter,79925]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~field,185674]]'
-- '[[_Standards/WikiData/WD~physical_property,4373292]]'
-- '[[_Standards/WikiData/WD~energy,11379]]'
+- '[[_Standards/WikiData/WD~field,185674|WD~field,185674]]'
+- '[[_Standards/WikiData/WD~physical_property,4373292|WD~physical_property,4373292]]'
+- '[[_Standards/WikiData/WD~energy,11379|WD~energy,11379]]'
 part_of:
-- '[[_Standards/WikiData/WD~observable_universe,221392]]'
-- '[[_Standards/WikiData/WD~hidden_sector,16919810]]'
-does_not_have_characteristic: '[[_Standards/WikiData/WD~gravitational_mass,1076402]]'
+- '[[_Standards/WikiData/WD~observable_universe,221392|WD~observable_universe,221392]]'
+- '[[_Standards/WikiData/WD~hidden_sector,16919810|WD~hidden_sector,16919810]]'
+does_not_have_characteristic: '[[_Standards/WikiData/WD~gravitational_mass,1076402|WD~gravitational_mass,1076402]]'
 instance_of:
-- '[[_Standards/WikiData/WD~scientific_hypothesis,3144351]]'
-- '[[_Standards/WikiData/WD~form_of_energy,3935690]]'
+- '[[_Standards/WikiData/WD~scientific_hypothesis,3144351|WD~scientific_hypothesis,3144351]]'
+- '[[_Standards/WikiData/WD~form_of_energy,3935690|WD~form_of_energy,3935690]]'
 studied_by:
-- '[[_Standards/WikiData/WD~cosmology,338]]'
-- '[[_Standards/WikiData/WD~astrophysics,37547]]'
+- '[[_Standards/WikiData/WD~cosmology,338|WD~cosmology,338]]'
+- '[[_Standards/WikiData/WD~astrophysics,37547|WD~astrophysics,37547]]'
 OmegaWiki_Defined_Meaning: 1298600
 Commons_category: Dark energy
 image: http://commons.wikimedia.org/wiki/Special:FilePath/CMB%20universe%20expansion.png

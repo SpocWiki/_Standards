@@ -82,13 +82,13 @@ CAS_Registry_Number: 7440-40-6
 chemical_formula: Bk
 Commons_category: Berkelium
 Commons_gallery: Berkelium
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
 Dewey_Decimal_Classification: 546.444
-different_from: '[[_Standards/WikiData/WD~Berkel,707763]]'
+different_from: '[[_Standards/WikiData/WD~Berkel,707763|WD~Berkel,707763]]'
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Albert_Ghiorso,468345]]'
-- '[[_Standards/WikiData/WD~Stanley_Gerald_Thompson,3068373]]'
-- '[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973]]'
+- '[[_Standards/WikiData/WD~Albert_Ghiorso,468345|WD~Albert_Ghiorso,468345]]'
+- '[[_Standards/WikiData/WD~Stanley_Gerald_Thompson,3068373|WD~Stanley_Gerald_Thompson,3068373]]'
+- '[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973|WD~Glenn_T._Seaborg,48973]]'
 DSSTOX_compound_identifier: DTXCID20147880
 electronegativity: 1.3
 element_symbol: Bk
@@ -96,35 +96,35 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Berkelium%20metal.jpg
 InChI: InChI=1S/Bk
 InChIKey: PWVKJRSRVJTHTR-UHFFFAOYSA-N
 instance_of:
-- '[[_Standards/WikiData/WD~synthetic_element,755992]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+- '[[_Standards/WikiData/WD~synthetic_element,755992|WD~synthetic_element,755992]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 ionic_radius:
 - 0.83
 - 0.93
 - 0.96
-location_of_discovery: '[[_Standards/WikiData/WD~University_of_California,_Berkeley,168756]]'
+location_of_discovery: '[[_Standards/WikiData/WD~University_of_California,_Berkeley,168756|WD~University_of_California,_Berkeley,168756]]'
 MeSH_tree_code:
 - D01.268.271.100.100
 - D01.268.556.075
 - D01.496.749.305.100.100
 - D01.552.020.150
 - D01.552.544.075
-named_after: '[[_Standards/WikiData/WD~Berkeley,484678]]'
+named_after: '[[_Standards/WikiData/WD~Berkeley,484678|WD~Berkeley,484678]]'
 OmegaWiki_Defined_Meaning: 156441
 part_of:
-- '[[_Standards/WikiData/WD~period_7,244979]]'
-- '[[_Standards/WikiData/WD~actinide,19577]]'
+- '[[_Standards/WikiData/WD~period_7,244979|WD~period_7,244979]]'
+- '[[_Standards/WikiData/WD~actinide,19577|WD~actinide,19577]]'
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20144.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-berk%C3%A9lium.wav
 PubChem_CID: 23971
 SpocWebEntityId: 21992
 time_of_discovery_or_invention: 1949
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_berkelium,8085557]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_berkelium,8085557|WD~Template_Infobox_berkelium,8085557]]'
 type: Element
 UNII: 2YQA718KUU
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Berkelium,1882]]'
+  - '[[../../../WikiData/WD~Berkelium,1882|WD~Berkelium,1882]]'
   - '[[../../../WikiData/WD~Berkelium,1882|WD~Berkelium,1882]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Actinide/Berkelium|Berkelium]]'
   - '[[/_public/Chemistry/Chemical_Element/Actinide/Berkelium.public|Berkelium.public]]'
@@ -133,7 +133,7 @@ dv_is_:
   - '[[/_private/Chemistry/Chemical_Element/Actinide/Berkelium.private|Berkelium.private]]'
   - '[[/_personal/Chemistry/Chemical_Element/Actinide/Berkelium.personal|Berkelium.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Actinide/Berkelium.secret|Berkelium.secret]]'
-  part_of: '[[../Actinide]]]'
+  part_of: '[[../Actinide|Actinide]]]'
 dv_has_:
   name_:
     abbreviated: Bk
@@ -321,7 +321,7 @@ dv_has_:
         kj_:
           mol: 0
 dv_is_same_as:
-- '[[../../../WikiData/WD~Berkelium,1882]]'
+- '[[../../../WikiData/WD~Berkelium,1882|WD~Berkelium,1882]]'
 - '[[../../../WikiData/WD~Berkelium,1882|WD~Berkelium,1882]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Actinide/Berkelium|Berkelium]]'
 - '[[/_public/Chemistry/Chemical_Element/Actinide/Berkelium.public|Berkelium.public]]'
@@ -331,7 +331,7 @@ dv_is_same_as:
 - '[[/_personal/Chemistry/Chemical_Element/Actinide/Berkelium.personal|Berkelium.personal]]'
 - '[[/_secret/Chemistry/Chemical_Element/Actinide/Berkelium.secret|Berkelium.secret]]'
 dv_has_name_group: Actinide-Group
-dv_is_part_of: '[[../Actinide]]]'
+dv_is_part_of: '[[../Actinide|Actinide]]]'
 dv_has_name_en: Berkelium
 dv_has_name_de: Berkelium
 dv_has_name_abbreviated: Bk
@@ -356,7 +356,7 @@ Unicode_character: 鉳
 
 # [[Berkelium]] 鉳 
 
-#is_/same_as :: [[../../../WikiData/WD~Berkelium,1882]] 
+#is_/same_as :: [[../../../WikiData/WD~Berkelium,1882|WD~Berkelium,1882]] 
 
 
 #chemic/Element 

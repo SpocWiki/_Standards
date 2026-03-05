@@ -72,13 +72,13 @@ aliases:
 - 지구의 구조
 has_id_wikidata: Q1664027
 studied_by:
-- '[[_Standards/WikiData/WD~seismology,83371]]'
-- '[[_Standards/WikiData/WD~geophysics,46255]]'
-different_from: '[[_Standards/WikiData/WD~earth_structure,5327174]]'
-instance_of: '[[_Standards/WikiData/WD~structure,6671777]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Earthsinterior,11207190]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
-facet_of: '[[_Standards/WikiData/WD~Earth,2]]'
+- '[[_Standards/WikiData/WD~seismology,83371|WD~seismology,83371]]'
+- '[[_Standards/WikiData/WD~geophysics,46255|WD~geophysics,46255]]'
+different_from: '[[_Standards/WikiData/WD~earth_structure,5327174|WD~earth_structure,5327174]]'
+instance_of: '[[_Standards/WikiData/WD~structure,6671777|WD~structure,6671777]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Earthsinterior,11207190|WD~Template_Earthsinterior,11207190]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+facet_of: '[[_Standards/WikiData/WD~Earth,2|WD~Earth,2]]'
 Commons_category: Structure of the Earth
 Krugosvet_article_archived_: Earth_sciences/geologiya/ZEMLI_STROENIE.html
 dv_is_:

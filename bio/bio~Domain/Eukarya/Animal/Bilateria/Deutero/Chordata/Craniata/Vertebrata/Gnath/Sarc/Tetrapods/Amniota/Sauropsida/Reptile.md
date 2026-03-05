@@ -152,26 +152,26 @@ Archive_of_Our_Own_tag:
 - REPTILES
 - Reptilian
 - reptilians
-code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
+code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011|WD~International_Code_of_Zoological_Nomenclature,13011]]'
 Colon_Classification: K94
 Commons_category: Reptilia
 Commons_gallery: Reptilia
 described_by_source:
-- '[[../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-different_from: '[[_Standards/WikiData/WD~Gady,_Warmian-Masurian_Voivodeship,5516481]]'
+- '[[../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+different_from: '[[_Standards/WikiData/WD~Gady,_Warmian-Masurian_Voivodeship,5516481|WD~Gady,_Warmian-Masurian_Voivodeship,5516481]]'
 EPPO_Code: 1REPTC
 GS1_GPC_code: 10005466
 IAB_code: 429
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Extant%20reptilia.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Smaug%20giganteus%20head.jpg
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 IPA_transcription: ɹɛpˈtɪli.ə
 ITIS_TSN: 173747
 Krugosvet_article: nauka_i_tehnika/biologiya/PRESMIKAYUSHCHIESYA.html
@@ -185,8 +185,8 @@ OpenStreetMap_tag_or_key: Tag:zoo=reptile
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%B2%D9%88%D8%A7%D8%AD%D9%81.wav
 start_time: -318000000-01-01
 studied_in:
-- '[[_Standards/WikiData/WD~herpetology,174416]]'
-- '[[_Standards/WikiData/WD~reptiliology,9307400]]'
+- '[[_Standards/WikiData/WD~herpetology,174416|WD~herpetology,174416]]'
+- '[[_Standards/WikiData/WD~reptiliology,9307400|WD~reptiliology,9307400]]'
 subreddit: reptiles
 taxon_common_name:
 - Sürünənlər
@@ -235,11 +235,11 @@ taxon_common_name:
 - Пресмыкающиеся
 - Plazy
 taxon_name: Reptilia
-taxon_rank: '[[_Standards/WikiData/WD~class,37517]]'
+taxon_rank: '[[_Standards/WikiData/WD~class,37517|WD~class,37517]]'
 this_taxon_is_source_of:
-- '[[_Standards/WikiData/WD~egg_as_food,93189]]'
-- '[[_Standards/WikiData/WD~reptile_meat,51873806]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Reptiles,11164852]]'
+- '[[_Standards/WikiData/WD~egg_as_food,93189|WD~egg_as_food,93189]]'
+- '[[_Standards/WikiData/WD~reptile_meat,51873806|WD~reptile_meat,51873806]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Reptiles,11164852|WD~Template_Reptiles,11164852]]'
 UMLS_CUI: C0035161
 U_S_National_Archives_Identifier: 10644305
 dv_has_:
@@ -439,7 +439,7 @@ dv_has_:
 
 # [[Reptile]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../../../WikiData/WD~Reptilia,10811]]
+#is_/same_as :: [[../../../../../../../../../../../../../../WikiData/WD~Reptilia,10811|WD~Reptilia,10811]]
 
 ## #has_/text_of_/abstract 
 

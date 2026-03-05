@@ -69,25 +69,25 @@ isReadOnly: false
 tags:
 - astro/Zodiac
 type: Zodiac
-named_after: '[[_Standards/WikiData/WD~Lynxes,677014]]'
-part_of: '[[_Standards/WikiData/WD~Northern_celestial_hemisphere,1998069]]'
+named_after: '[[_Standards/WikiData/WD~Lynxes,677014|WD~Lynxes,677014]]'
+part_of: '[[_Standards/WikiData/WD~Northern_celestial_hemisphere,1998069|WD~Northern_celestial_hemisphere,1998069]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Q10729116,10729116]]'
-- '[[_Standards/WikiData/WD~Template_Stars_of_Lynx,10766532]]'
+- '[[_Standards/WikiData/WD~Q10729116,10729116|WD~Q10729116,10729116]]'
+- '[[_Standards/WikiData/WD~Template_Stars_of_Lynx,10766532|WD~Template_Stars_of_Lynx,10766532]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886|WD~Star_Lore_of_All_Ages,95985886]]'
 shares_border_with:
-- '[[_Standards/WikiData/WD~Camelopardalis,8832]]'
-- '[[_Standards/WikiData/WD~Cancer,8849]]'
-- '[[_Standards/WikiData/WD~Leo,8853]]'
-- '[[_Standards/WikiData/WD~Ursa_Major,8918]]'
-- '[[_Standards/WikiData/WD~Gemini,8923]]'
-- '[[_Standards/WikiData/WD~Leo_Minor,10403]]'
-- '[[_Standards/WikiData/WD~Auriga,10476]]'
-instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
+- '[[_Standards/WikiData/WD~Camelopardalis,8832|WD~Camelopardalis,8832]]'
+- '[[_Standards/WikiData/WD~Cancer,8849|WD~Cancer,8849]]'
+- '[[_Standards/WikiData/WD~Leo,8853|WD~Leo,8853]]'
+- '[[_Standards/WikiData/WD~Ursa_Major,8918|WD~Ursa_Major,8918]]'
+- '[[_Standards/WikiData/WD~Gemini,8923|WD~Gemini,8923]]'
+- '[[_Standards/WikiData/WD~Leo_Minor,10403|WD~Leo_Minor,10403]]'
+- '[[_Standards/WikiData/WD~Auriga,10476|WD~Auriga,10476]]'
+instance_of: '[[_Standards/WikiData/WD~constellation,8928|WD~constellation,8928]]'
 area: 545
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Johannes_Hevelius,57963]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Johannes_Hevelius,57963|WD~Johannes_Hevelius,57963]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Constellation%20Lynx.jpg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Lynx%20constellation%20map.svg
 astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Lynx%20symbol%20%28Moskowitz%2C%20variable%20width%29.svg

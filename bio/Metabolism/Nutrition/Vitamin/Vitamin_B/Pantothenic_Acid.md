@@ -61,17 +61,17 @@ aliases:
 - 판토텐산
 has_id_wikidata: Q179894
 found_in_taxon:
-- '[[_Standards/WikiData/WD~Caenorhabditis_elegans,91703]]'
-- '[[_Standards/WikiData/WD~Chlamydomonas_reinhardtii,291827]]'
-- '[[_Standards/WikiData/WD~Hedgehog_shaped_lip_Bulbophyllum,4987884]]'
-subclass_of: '[[_Standards/WikiData/WD~carboxylic_acid,134856]]'
+- '[[_Standards/WikiData/WD~Caenorhabditis_elegans,91703|WD~Caenorhabditis_elegans,91703]]'
+- '[[_Standards/WikiData/WD~Chlamydomonas_reinhardtii,291827|WD~Chlamydomonas_reinhardtii,291827]]'
+- '[[_Standards/WikiData/WD~Hedgehog_shaped_lip_Bulbophyllum,4987884|WD~Hedgehog_shaped_lip_Bulbophyllum,4987884]]'
+subclass_of: '[[_Standards/WikiData/WD~carboxylic_acid,134856|WD~carboxylic_acid,134856]]'
 subject_has_role:
-- '[[_Standards/WikiData/WD~vitamin_B,183206]]'
-- '[[_Standards/WikiData/WD~primary_metabolite,3333419]]'
-different_from: '[[_Standards/WikiData/WD~pantethine,228762]]'
-safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
-stereoisomer_of: '[[_Standards/WikiData/WD~(R)_pantothenate,74411212]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
+- '[[_Standards/WikiData/WD~vitamin_B,183206|WD~vitamin_B,183206]]'
+- '[[_Standards/WikiData/WD~primary_metabolite,3333419|WD~primary_metabolite,3333419]]'
+different_from: '[[_Standards/WikiData/WD~pantethine,228762|WD~pantethine,228762]]'
+safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288|WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
+stereoisomer_of: '[[_Standards/WikiData/WD~(R)_pantothenate,74411212|WD~(R)_pantothenate,74411212]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171|WD~type_of_chemical_entity,113145171]]'
 mass: 218.10339619191
 boiling_point: 551.5
 melting_point: 183.83

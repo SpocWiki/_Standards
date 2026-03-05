@@ -34,7 +34,7 @@ Tag Instances like this:
 
 An indication for a medical therapy that has been formally specified or approved by a regulatory body that regulates use of the therapy; for example, the US FDA approves indications for most drugs in the US.
 
-#has_/parent_class :: [[../MedicalIndication]]  
+#has_/parent_class :: [[../MedicalIndication|MedicalIndication]]  
 
 #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ]  
 

@@ -112,29 +112,29 @@ aliases:
 - 우박
 has_id_wikidata: Q37602
 has_cause:
-- '[[_Standards/WikiData/WD~cumulonimbus,182311]]'
-- '[[_Standards/WikiData/WD~atmospheric_convection,931652]]'
+- '[[_Standards/WikiData/WD~cumulonimbus,182311|WD~cumulonimbus,182311]]'
+- '[[_Standards/WikiData/WD~atmospheric_convection,931652|WD~atmospheric_convection,931652]]'
 different_from:
-- '[[_Standards/WikiData/WD~Grad,403915]]'
-- '[[_Standards/WikiData/WD~Hail,1569223]]'
-- '[[_Standards/WikiData/WD~Hail,37548102]]'
+- '[[_Standards/WikiData/WD~Grad,403915|WD~Grad,403915]]'
+- '[[_Standards/WikiData/WD~Hail,1569223|WD~Hail,1569223]]'
+- '[[_Standards/WikiData/WD~Hail,37548102|WD~Hail,37548102]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-has_immediate_cause: '[[_Standards/WikiData/WD~hailing,110096003]]'
-has_part_s_: '[[_Standards/WikiData/WD~hailstone,110443830]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_meteorological_phenomenon,118733587]]'
-does_not_have_part: '[[_Standards/WikiData/WD~stone,22731]]'
-made_from_material: '[[_Standards/WikiData/WD~ice,23392]]'
-color: '[[_Standards/WikiData/WD~white,23444]]'
-subclass_of: '[[_Standards/WikiData/WD~precipitation,25257]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875|WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+has_immediate_cause: '[[_Standards/WikiData/WD~hailing,110096003|WD~hailing,110096003]]'
+has_part_s_: '[[_Standards/WikiData/WD~hailstone,110443830|WD~hailstone,110443830]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_meteorological_phenomenon,118733587|WD~type_of_meteorological_phenomenon,118733587]]'
+does_not_have_part: '[[_Standards/WikiData/WD~stone,22731|WD~stone,22731]]'
+made_from_material: '[[_Standards/WikiData/WD~ice,23392|WD~ice,23392]]'
+color: '[[_Standards/WikiData/WD~white,23444|WD~white,23444]]'
+subclass_of: '[[_Standards/WikiData/WD~precipitation,25257|WD~precipitation,25257]]'
 decomposition_point: 0
 OmegaWiki_Defined_Meaning: 1707
 name:
@@ -150,7 +150,7 @@ Commons_category: Hail
 Wolfram_Language_entity_code: Entity["Surname", "Hagel"]
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Hail,37602]]'
+  - '[[../../../WikiData/WD~Hail,37602|WD~Hail,37602]]'
   - '[[/_Standards/Earth/Climate/Weather/Hail|Hail]]'
   - '[[/_public/Earth/Climate/Weather/Hail.public|Hail.public]]'
   - '[[/_internal/Earth/Climate/Weather/Hail.internal|Hail.internal]]'
@@ -159,7 +159,7 @@ dv_is_:
   - '[[/_personal/Earth/Climate/Weather/Hail.personal|Hail.personal]]'
   - '[[/_secret/Earth/Climate/Weather/Hail.secret|Hail.secret]]'
 dv_is_same_as:
-- '[[../../../WikiData/WD~Hail,37602]]'
+- '[[../../../WikiData/WD~Hail,37602|WD~Hail,37602]]'
 - '[[/_Standards/Earth/Climate/Weather/Hail|Hail]]'
 - '[[/_public/Earth/Climate/Weather/Hail.public|Hail.public]]'
 - '[[/_internal/Earth/Climate/Weather/Hail.internal|Hail.internal]]'

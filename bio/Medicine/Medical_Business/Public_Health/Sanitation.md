@@ -62,16 +62,16 @@ aliases:
 - 위생 시설
 has_id_wikidata: Q949149
 instance_of:
-- '[[_Standards/WikiData/WD~concept,151885]]'
-- '[[_Standards/WikiData/WD~activity,1914636]]'
+- '[[_Standards/WikiData/WD~concept,151885|WD~concept,151885]]'
+- '[[_Standards/WikiData/WD~activity,1914636|WD~activity,1914636]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~hygiene,162297]]'
-- '[[_Standards/WikiData/WD~environmental_policy,919526]]'
-- '[[_Standards/WikiData/WD~environmental_factor,2142347]]'
-facet_of: '[[_Standards/WikiData/WD~water_management,1501619]]'
-described_by_source: "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-uses: '[[_Standards/WikiData/WD~sanitary_ware,59282504]]'
-practiced_by: '[[_Standards/WikiData/WD~sanitation_worker,96404942]]'
+- '[[_Standards/WikiData/WD~hygiene,162297|WD~hygiene,162297]]'
+- '[[_Standards/WikiData/WD~environmental_policy,919526|WD~environmental_policy,919526]]'
+- '[[_Standards/WikiData/WD~environmental_factor,2142347|WD~environmental_factor,2142347]]'
+facet_of: '[[_Standards/WikiData/WD~water_management,1501619|WD~water_management,1501619]]'
+described_by_source: "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+uses: '[[_Standards/WikiData/WD~sanitary_ware,59282504|WD~sanitary_ware,59282504]]'
+practiced_by: '[[_Standards/WikiData/WD~sanitation_worker,96404942|WD~sanitation_worker,96404942]]'
 Dewey_Decimal_Classification: 628
 Commons_category: Sanitation
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Corotes%20saiwaedje%20Oucaymeden.jpg

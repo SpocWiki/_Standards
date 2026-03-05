@@ -154,7 +154,7 @@ dv_UNTERM_Chinese_Formal: 马达加斯加共和国
 dv_UNTERM_French_Formal: la République de Madagascar
 dv_UNTERM_Russian: Мадагаскар
 dv_UNTERM_Russian_Formal: Республика Мадагаскар
-dv_Region_Name: '[[../../Africa]]'
+dv_Region_Name: '[[../../Africa|Africa]]'
 dv_Intermediate_Region_Name: '[[Eastern Africa]]'
 dv_Sub-region_Name: '[[Sub-Saharan Africa]]'
 dv_Region: 2
@@ -486,7 +486,7 @@ dv_has_:
 dv_has_name_de: Madagaskar
 dv_Area-Total: 587041
 dv_Area-Land: 581540
-dv_has_place_continent: '[[../../Africa]]'
+dv_has_place_continent: '[[../../Africa|Africa]]'
 dv_VehicleCode: RM
 dv_Capital: '[[Antananarivo]]'
 dv_Alcohol-l: 1.3
@@ -583,7 +583,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Madagascar/ReadMe]] 
+[[Madagascar/ReadMe|ReadMe]] 
 
 ## #has_/map 
 
@@ -608,7 +608,7 @@ Capital = `=this.dv_Capital`
 
 ![[Seal_of_Madagascar.svg|350]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Madagascar.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Madagascar.mp3|Anthem-Madagascar.mp3]]
 
 ![[Flag_of_Madagascar.svg|350]]
 

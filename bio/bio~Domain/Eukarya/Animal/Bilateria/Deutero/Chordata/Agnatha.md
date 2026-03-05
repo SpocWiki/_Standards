@@ -63,9 +63,9 @@ aliases:
 - 無顎類
 - 무악류
 has_id_wikidata: Q161095
-taxon_rank: '[[_Standards/WikiData/WD~infraphylum,2361851]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~infraphylum,2361851|WD~infraphylum,2361851]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 ITIS_TSN: 914178
 start_time: -535000000-06
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lampetra%20fluviatilis.jpg

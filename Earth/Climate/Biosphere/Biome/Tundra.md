@@ -40,13 +40,13 @@ aliases:
 - 凍土層
 - 툰드라
 has_id_wikidata: Q43262
-subclass_of: '[[_Standards/WikiData/WD~biome,101998]]'
+subclass_of: '[[_Standards/WikiData/WD~biome,101998|WD~biome,101998]]'
 instance_of:
-- '[[_Standards/WikiData/WD~biome,101998]]'
-- '[[_Standards/WikiData/WD~landscape_type,1803829]]'
-- '[[_Standards/WikiData/WD~WWF_biome,119820518]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+- '[[_Standards/WikiData/WD~biome,101998|WD~biome,101998]]'
+- '[[_Standards/WikiData/WD~landscape_type,1803829|WD~landscape_type,1803829]]'
+- '[[_Standards/WikiData/WD~WWF_biome,119820518|WD~WWF_biome,119820518]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047|WD~WikiProject_Climate_change,15305047]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Greenland%20scoresby-sydkapp2%20hg.jpg
 Commons_gallery: Tundra
 Commons_category: Tundra

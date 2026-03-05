@@ -69,17 +69,17 @@ Basisklassifikation: 35.78
 CAS_Registry_Number: 66455-18-3
 Commons_category: Lipids
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Glosariusz_nazw_klas_związków_organicznych_i_reaktywnych_produktów_pośrednich_oparty_na_strukturze,56826519]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Glosariusz_nazw_klas_związków_organicznych_i_reaktywnych_produktów_pośrednich_oparty_na_strukturze,56826519|WD~Glosariusz_nazw_klas_związków_organicznych_i_reaktywnych_produktów_pośrednich_oparty_na_strukturze,56826519]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 different_from:
-- '[[_Standards/WikiData/WD~fat,127980]]'
-- '[[_Standards/WikiData/WD~biogenic_lipid,109910358]]'
-instance_of: '[[_Standards/WikiData/WD~imprecise_class_of_chemical_entities,74892521]]'
+- '[[_Standards/WikiData/WD~fat,127980|WD~fat,127980]]'
+- '[[_Standards/WikiData/WD~biogenic_lipid,109910358|WD~biogenic_lipid,109910358]]'
+instance_of: '[[_Standards/WikiData/WD~imprecise_class_of_chemical_entities,74892521|WD~imprecise_class_of_chemical_entities,74892521]]'
 MeSH_tree_code: D10
 solubility: 0
-subclass_of: '[[_Standards/WikiData/WD~organic_compound,174211]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Lipids,14336537]]'
+subclass_of: '[[_Standards/WikiData/WD~organic_compound,174211|WD~organic_compound,174211]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Lipids,14336537|WD~Template_Lipids,14336537]]'
 UMLS_CUI: C0023779
 dv_has_:
   name_:

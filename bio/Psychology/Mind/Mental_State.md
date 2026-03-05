@@ -54,14 +54,14 @@ aliases:
 - 心理狀態
 has_id_wikidata: Q3968640
 subclass_of:
-- '[[_Standards/WikiData/WD~condition,813912]]'
-- '[[_Standards/WikiData/WD~occurrence,1190554]]'
-- '[[_Standards/WikiData/WD~state,3505845]]'
-- '[[_Standards/WikiData/WD~psychological_phenomenon,12047512]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Q68235346,68235346]]'
-instance_of: '[[_Standards/WikiData/WD~condition_type,130459448]]'
-characteristic_of: '[[_Standards/WikiData/WD~mind,450]]'
-studied_by: '[[_Standards/WikiData/WD~psychology,9418]]'
+- '[[_Standards/WikiData/WD~condition,813912|WD~condition,813912]]'
+- '[[_Standards/WikiData/WD~occurrence,1190554|WD~occurrence,1190554]]'
+- '[[_Standards/WikiData/WD~state,3505845|WD~state,3505845]]'
+- '[[_Standards/WikiData/WD~psychological_phenomenon,12047512|WD~psychological_phenomenon,12047512]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Q68235346,68235346|WD~WikiProject_Q68235346,68235346]]'
+instance_of: '[[_Standards/WikiData/WD~condition_type,130459448|WD~condition_type,130459448]]'
+characteristic_of: '[[_Standards/WikiData/WD~mind,450|WD~mind,450]]'
+studied_by: '[[_Standards/WikiData/WD~psychology,9418|WD~psychology,9418]]'
 dv_has_:
   name_:
     ar: حالة عقلية
@@ -124,7 +124,7 @@ dv_has_:
 
 # [[Mental_State]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~mental_state,3968640]] 
+#is_/same_as :: [[_Standards/WikiData/WD~mental_state,3968640|WD~mental_state,3968640]] 
 
 ## #has_/text_of_/abstract 
 

@@ -79,21 +79,21 @@ aliases:
 - 적응
 has_id_wikidata: Q483921
 different_from:
-- '[[_Standards/WikiData/WD~Adaptation,226073]]'
-- '[[_Standards/WikiData/WD~coping,1759895]]'
+- '[[_Standards/WikiData/WD~Adaptation,226073|WD~Adaptation,226073]]'
+- '[[_Standards/WikiData/WD~coping,1759895|WD~coping,1759895]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~condition,813912]]'
-- '[[_Standards/WikiData/WD~phenotypic_trait,1211967]]'
-- '[[_Standards/WikiData/WD~adaptation,121063989]]'
+- '[[_Standards/WikiData/WD~condition,813912|WD~condition,813912]]'
+- '[[_Standards/WikiData/WD~phenotypic_trait,1211967|WD~phenotypic_trait,1211967]]'
+- '[[_Standards/WikiData/WD~adaptation,121063989|WD~adaptation,121063989]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-opposite_of: '[[_Standards/WikiData/WD~maladaptation,4864574]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q6483009,6483009]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q11830256,11830256]]'
-immediate_cause_of: '[[_Standards/WikiData/WD~adaptive_trait,23072093]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+opposite_of: '[[_Standards/WikiData/WD~maladaptation,4864574|WD~maladaptation,4864574]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q6483009,6483009|WD~Q6483009,6483009]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q11830256,11830256|WD~Q11830256,11830256]]'
+immediate_cause_of: '[[_Standards/WikiData/WD~adaptive_trait,23072093|WD~adaptive_trait,23072093]]'
 OmegaWiki_Defined_Meaning: 534538
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Wasp%20mimicry.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8785%20%28hye%29-Emptyfear-%D5%80%D5%A1%D6%80%D5%B4%D5%A1%D6%80%D5%BE%D5%B8%D5%B2%D5%A1%D5%AF%D5%A1%D5%B6%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6.wav
@@ -205,7 +205,7 @@ dv_has_:
 
 # [[Adaptation]] 
 
-#is_/same_as :: [[../../WikiData/WD~Adaptation,483921]] 
+#is_/same_as :: [[../../WikiData/WD~Adaptation,483921|WD~Adaptation,483921]] 
 
 ## #has_/text_of_/abstract 
 

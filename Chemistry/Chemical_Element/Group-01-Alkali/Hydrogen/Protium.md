@@ -28,13 +28,13 @@ aliases:
 - 軽水素
 - 경수소
 has_id_wikidata: Q12830437
-followed_by: '[[_Standards/WikiData/WD~deuterium,102296]]'
+followed_by: '[[_Standards/WikiData/WD~deuterium,102296|WD~deuterium,102296]]'
 instance_of:
-- '[[_Standards/WikiData/WD~isotope_of_hydrogen,466603]]'
-- '[[_Standards/WikiData/WD~stable_isotope,878130]]'
-described_by_source: '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
-different_from: '[[_Standards/WikiData/WD~protium_atom,19824964]]'
-subclass_of: '[[_Standards/WikiData/WD~hydrogen,556]]'
+- '[[_Standards/WikiData/WD~isotope_of_hydrogen,466603|WD~isotope_of_hydrogen,466603]]'
+- '[[_Standards/WikiData/WD~stable_isotope,878130|WD~stable_isotope,878130]]'
+described_by_source: '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764|WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
+different_from: '[[_Standards/WikiData/WD~protium_atom,19824964|WD~protium_atom,19824964]]'
+subclass_of: '[[_Standards/WikiData/WD~hydrogen,556|WD~hydrogen,556]]'
 binding_energy: 0
 neutron_number: 0
 parity_quantum_number: 1
@@ -108,7 +108,7 @@ dv_has_:
 
 # [[Protium]] 
 
-[[_Standards/WikiData/WD~protium,12830437]] 
+[[_Standards/WikiData/WD~protium,12830437|WD~protium,12830437]] 
 
 ## #has_/text_of_/abstract 
 

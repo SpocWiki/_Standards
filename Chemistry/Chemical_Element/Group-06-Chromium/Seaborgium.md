@@ -79,17 +79,17 @@ aliases:
 - "\U0002CB73"
 has_id_wikidata: Q1234
 part_of:
-- '[[_Standards/WikiData/WD~group_6,193280]]'
-- '[[_Standards/WikiData/WD~period_7,244979]]'
+- '[[_Standards/WikiData/WD~group_6,193280|WD~group_6,193280]]'
+- '[[_Standards/WikiData/WD~period_7,244979|WD~period_7,244979]]'
 instance_of:
-- '[[_Standards/WikiData/WD~synthetic_element,755992]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Yuri_Oganessian,1144326]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-different_from: '[[_Standards/WikiData/WD~Seaborg,15945748]]'
-subclass_of: '[[_Standards/WikiData/WD~transition_metal,19588]]'
+- '[[_Standards/WikiData/WD~synthetic_element,755992|WD~synthetic_element,755992]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Yuri_Oganessian,1144326|WD~Yuri_Oganessian,1144326]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+different_from: '[[_Standards/WikiData/WD~Seaborg,15945748|WD~Seaborg,15945748]]'
+subclass_of: '[[_Standards/WikiData/WD~transition_metal,19588|WD~transition_metal,19588]]'
 atomic_number: 106
-named_after: '[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973]]'
+named_after: '[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973|WD~Glenn_T._Seaborg,48973]]'
 OmegaWiki_Defined_Meaning: 359210
 Commons_gallery: Seaborgium
 Commons_category: Seaborgium

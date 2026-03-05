@@ -36,12 +36,12 @@ aliases:
 - 性衝動
 - 리비도
 has_id_wikidata: Q178066
-subclass_of: '[[_Standards/WikiData/WD~wish,241625]]'
+subclass_of: '[[_Standards/WikiData/WD~wish,241625|WD~wish,241625]]'
 different_from:
-- '[[_Standards/WikiData/WD~play_drive,1301206]]'
-- '[[_Standards/WikiData/WD~Prey_drive,7242468]]'
-facet_of: '[[_Standards/WikiData/WD~drive_theory,11009445]]'
-part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
+- '[[_Standards/WikiData/WD~play_drive,1301206|WD~play_drive,1301206]]'
+- '[[_Standards/WikiData/WD~Prey_drive,7242468|WD~Prey_drive,7242468]]'
+facet_of: '[[_Standards/WikiData/WD~drive_theory,11009445|WD~drive_theory,11009445]]'
+part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620|WD~psychology_terminology,77468620]]'
 Commons_category: Libido
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Tods%C3%BCnden%20%28Goltzius%29%20G%200334%20III%20Libido.jpg
 UMLS_CUI:

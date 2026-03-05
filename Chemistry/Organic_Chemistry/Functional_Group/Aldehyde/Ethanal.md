@@ -29,7 +29,7 @@ tags:
 title: Ethanal
 type: private note
 dv_is_:
-  part_of: "[[../../../Organic_Chemistry]]"
+  part_of: "[[../../../Organic_Chemistry|Organic_Chemistry]]"
   same_as:
     - "[[/_Standards/Chemistry/Organic_Chemistry/Aldehyde/Ethanal|Ethanal]]"
     - "[[/_public/Chemistry/Organic_Chemistry/Aldehyde/Ethanal.public|Ethanal.public]]"
@@ -38,7 +38,7 @@ dv_is_:
     - "[[/_private/Chemistry/Organic_Chemistry/Aldehyde/Ethanal.private|Ethanal.private]]"
     - "[[/_personal/Chemistry/Organic_Chemistry/Aldehyde/Ethanal.personal|Ethanal.personal]]"
     - "[[/_secret/Chemistry/Organic_Chemistry/Aldehyde/Ethanal.secret|Ethanal.secret]]"
-dv_is_part_of: "[[../../../Organic_Chemistry]]"
+dv_is_part_of: "[[../../../Organic_Chemistry|Organic_Chemistry]]"
 dv_is_same_as:
   - "[[/_Standards/Chemistry/Organic_Chemistry/Aldehyde/Ethanal|Ethanal]]"
   - "[[/_public/Chemistry/Organic_Chemistry/Aldehyde/Ethanal.public|Ethanal.public]]"

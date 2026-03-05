@@ -27,12 +27,12 @@ aliases:
 - 海山二
 - 용골자리 에타
 has_id_wikidata: Q12185
-type_of_variable_star: '[[_Standards/WikiData/WD~luminous_blue_variable,742741]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Pieter_Dirkszoon_Keyser,961926]]'
+type_of_variable_star: '[[_Standards/WikiData/WD~luminous_blue_variable,742741|WD~luminous_blue_variable,742741]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Pieter_Dirkszoon_Keyser,961926|WD~Pieter_Dirkszoon_Keyser,961926]]'
 time_of_discovery_or_invention: 1595-01-01T00:00:00Z
 right_ascension: 161.26474075372
-constellation: '[[_Standards/WikiData/WD~Carina,10470]]'
-instance_of: '[[_Standards/WikiData/WD~double_star,13890]]'
+constellation: '[[_Standards/WikiData/WD~Carina,10470|WD~Carina,10470]]'
+instance_of: '[[_Standards/WikiData/WD~double_star,13890|WD~double_star,13890]]'
 absolute_magnitude: -8.6
 radial_velocity: -25
 right_ascension_component_of_proper_motion: -11
@@ -84,7 +84,7 @@ Commons_category: Eta Carinae
 spectral_class: O5.5III-O7I
 declination: -59.6844587777
 dv_is_:
-  part_of: '[[../Zodiac~Carina]]'
+  part_of: '[[../Zodiac~Carina|Zodiac~Carina]]'
   same_as:
   - '[[../../../WikiData/WD~Eta_Carinae,12185|WD~Eta_Carinae,12185]]'
   - '[[/_Standards/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae|Eta_Carinae]]'
@@ -94,7 +94,7 @@ dv_is_:
   - '[[/_private/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.private|Eta_Carinae.private]]'
   - '[[/_personal/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.personal|Eta_Carinae.personal]]'
   - '[[/_secret/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae.secret|Eta_Carinae.secret]]'
-dv_is_part_of: '[[../Zodiac~Carina]]'
+dv_is_part_of: '[[../Zodiac~Carina|Zodiac~Carina]]'
 dv_is_same_as:
 - '[[../../../WikiData/WD~Eta_Carinae,12185|WD~Eta_Carinae,12185]]'
 - '[[/_Standards/Astronomy/Star~Constellation/Zodiac~Carina/Eta_Carinae|Eta_Carinae]]'

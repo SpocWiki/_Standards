@@ -286,32 +286,32 @@ tags:
 title: is_a_friday Class
 type: Type
 named_after:
-- '[[_Standards/WikiData/WD~Frigg,131654]]'
-- '[[_Standards/WikiData/WD~Metal,6822574]]'
-- '[[_Standards/WikiData/WD~6,23488]]'
-- '[[_Standards/WikiData/WD~5,203]]'
-- '[[_Standards/WikiData/WD~Venus,47652]]'
+- '[[_Standards/WikiData/WD~Frigg,131654|WD~Frigg,131654]]'
+- '[[_Standards/WikiData/WD~Metal,6822574|WD~Metal,6822574]]'
+- '[[_Standards/WikiData/WD~6,23488|WD~6,23488]]'
+- '[[_Standards/WikiData/WD~5,203|WD~5,203]]'
+- '[[_Standards/WikiData/WD~Venus,47652|WD~Venus,47652]]'
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Infernal_Dictionary,_6th_ed.,20961706|WD~Infernal_Dictionary,_6th_ed.,20961706]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~non_holiday,819073]]'
-- '[[_Standards/WikiData/WD~holiday,1445650]]'
-- '[[_Standards/WikiData/WD~day,573]]'
-different_from: '[[_Standards/WikiData/WD~Piątek,1967734]]'
+- '[[_Standards/WikiData/WD~non_holiday,819073|WD~non_holiday,819073]]'
+- '[[_Standards/WikiData/WD~holiday,1445650|WD~holiday,1445650]]'
+- '[[_Standards/WikiData/WD~day,573|WD~day,573]]'
+different_from: '[[_Standards/WikiData/WD~Piątek,1967734|WD~Piątek,1967734]]'
 permanent_duplicated_item:
-- '[[_Standards/WikiData/WD~Q25634197,25634197]]'
-- '[[_Standards/WikiData/WD~Q110361508,110361508]]'
-part_of: '[[_Standards/WikiData/WD~week,23387]]'
-followed_by: '[[_Standards/WikiData/WD~Saturday,131]]'
-follows: '[[_Standards/WikiData/WD~Thursday,129]]'
-instance_of: '[[_Standards/WikiData/WD~day_of_the_week,41825]]'
+- '[[_Standards/WikiData/WD~Q25634197,25634197|WD~Q25634197,25634197]]'
+- '[[_Standards/WikiData/WD~Q110361508,110361508|WD~Q110361508,110361508]]'
+part_of: '[[_Standards/WikiData/WD~week,23387|WD~week,23387]]'
+followed_by: '[[_Standards/WikiData/WD~Saturday,131|WD~Saturday,131]]'
+follows: '[[_Standards/WikiData/WD~Thursday,129|WD~Thursday,129]]'
+instance_of: '[[_Standards/WikiData/WD~day_of_the_week,41825|WD~day_of_the_week,41825]]'
 series_ordinal:
 - 5
 - 6
@@ -651,9 +651,9 @@ Tag Instances like this:
 
 The day of the week between Thursday and Saturday.
 
-#has_/parent_class :: [[../DayOfWeek]]  
+#has_/parent_class :: [[../DayOfWeek|DayOfWeek]]  
 
-#is_/enum_of :: [[../DayOfWeek]]  
+#is_/enum_of :: [[../DayOfWeek|DayOfWeek]]  
 
 #is_/same_as :: [[../../../../../../WikiData/WD~Friday,130|WD~Friday,130]] 
 

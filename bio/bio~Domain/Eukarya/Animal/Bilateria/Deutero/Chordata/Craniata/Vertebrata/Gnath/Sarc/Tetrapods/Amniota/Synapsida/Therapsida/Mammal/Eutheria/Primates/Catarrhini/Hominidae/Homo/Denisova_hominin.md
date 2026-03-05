@@ -54,11 +54,11 @@ aliases:
 - 丹尼索瓦人
 - 데니소바인
 has_id_wikidata: Q151055
-subclass_of: '[[_Standards/WikiData/WD~archaic_humans,284851]]'
-location_of_discovery: '[[_Standards/WikiData/WD~Denisova_Cave,1029322]]'
-named_after: '[[_Standards/WikiData/WD~Denisova_Cave,1029322]]'
-instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290]]'
-taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
+subclass_of: '[[_Standards/WikiData/WD~archaic_humans,284851|WD~archaic_humans,284851]]'
+location_of_discovery: '[[_Standards/WikiData/WD~Denisova_Cave,1029322|WD~Denisova_Cave,1029322]]'
+named_after: '[[_Standards/WikiData/WD~Denisova_Cave,1029322|WD~Denisova_Cave,1029322]]'
+instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290|WD~fossil_taxon,23038290]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432|WD~species,7432]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Denisova%20Molar.jpg
 Commons_category: Denisova
 taxon_common_name:

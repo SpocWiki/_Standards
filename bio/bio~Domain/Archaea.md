@@ -102,12 +102,12 @@ aliases:
 - 古菌
 - 고세균
 has_id_wikidata: Q10872
-code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Nomenclature_of_Prokaryotes,743780]]'
+code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Nomenclature_of_Prokaryotes,743780|WD~International_Code_of_Nomenclature_of_Prokaryotes,743780]]'
 Commons_category: Archaea
-different_from: '[[_Standards/WikiData/WD~Archaea,2859968]]'
+different_from: '[[_Standards/WikiData/WD~Archaea,2859968|WD~Archaea,2859968]]'
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Carl_Woese,310067]]'
-- '[[_Standards/WikiData/WD~George_E._Fox,3101545]]'
+- '[[_Standards/WikiData/WD~Carl_Woese,310067|WD~Carl_Woese,310067]]'
+- '[[_Standards/WikiData/WD~George_E._Fox,3101545|WD~George_E._Fox,3101545]]'
 EPPO_Code: 1ARCAK
 GenBank_assembly_accession_number:
 - GCA_015522605.1
@@ -337,18 +337,18 @@ GenBank_assembly_accession_number:
 - GCA_014384455.1
 - GCA_014729335.1
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Archaea.png
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 ITIS_TSN: 935939
 LPSN_URL: https://lpsn.dsmz.de/domain/archaea
-means_of_locomotion: '[[_Standards/WikiData/WD~rolling,2192732]]'
+means_of_locomotion: '[[_Standards/WikiData/WD~rolling,2192732|WD~rolling,2192732]]'
 MeSH_tree_code: B02
-mode_of_reproduction: '[[_Standards/WikiData/WD~binary_fission,3073045]]'
+mode_of_reproduction: '[[_Standards/WikiData/WD~binary_fission,3073045|WD~binary_fission,3073045]]'
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Diversidad%20procariota.PNG
-parent_taxon: '[[_Standards/WikiData/WD~Biota,2382443]]'
+parent_taxon: '[[_Standards/WikiData/WD~Biota,2382443|WD~Biota,2382443]]'
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Ru-Archaea%20%28intro%29.ogg
 start_time: -3500000000-01-01
-subclass_of: '[[_Standards/WikiData/WD~microorganism,39833]]'
-taxonomic_type: '[[_Standards/WikiData/WD~Methanobacterium,6823576]]'
+subclass_of: '[[_Standards/WikiData/WD~microorganism,39833|WD~microorganism,39833]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Methanobacterium,6823576|WD~Methanobacterium,6823576]]'
 taxon_common_name:
 - عتائق
 - Arxeya
@@ -402,7 +402,7 @@ taxon_common_name:
 - Archaeen
 - Նախակենդանիներ
 taxon_name: Archaea
-taxon_rank: '[[_Standards/WikiData/WD~domain,146481]]'
+taxon_rank: '[[_Standards/WikiData/WD~domain,146481|WD~domain,146481]]'
 title: Archaea
 UMLS_CUI: C0003732
 dv_has_:
@@ -552,7 +552,7 @@ dv_has_:
 #is_a/bio-Domain 
 #is_a :: [[../bio~Domain|bio~Domain]] 
 
-#is_/same_as :: [[../../WikiData/WD~Archaea,10872]]
+#is_/same_as :: [[../../WikiData/WD~Archaea,10872|WD~Archaea,10872]]
 
 ## #has_/text_of_/abstract 
 

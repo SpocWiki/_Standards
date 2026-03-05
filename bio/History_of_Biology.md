@@ -50,14 +50,14 @@ aliases:
 - 생물학의 역사
 has_id_wikidata: Q746656
 facet_of:
-- '[[_Standards/WikiData/WD~life_sciences,864928]]'
-- '[[_Standards/WikiData/WD~biology,420]]'
+- '[[_Standards/WikiData/WD~life_sciences,864928|WD~life_sciences,864928]]'
+- '[[_Standards/WikiData/WD~biology,420|WD~biology,420]]'
 instance_of:
-- '[[_Standards/WikiData/WD~branch_of_science,2465832]]'
-- '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_biology,14403493]]'
-subclass_of: '[[_Standards/WikiData/WD~history_of_natural_science,56296765]]'
-practiced_by: '[[_Standards/WikiData/WD~historian_of_biology,63650936]]'
+- '[[_Standards/WikiData/WD~branch_of_science,2465832|WD~branch_of_science,2465832]]'
+- '[[_Standards/WikiData/WD~aspect_of_history,17524420|WD~aspect_of_history,17524420]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_biology,14403493|WD~Template_History_of_biology,14403493]]'
+subclass_of: '[[_Standards/WikiData/WD~history_of_natural_science,56296765|WD~history_of_natural_science,56296765]]'
+practiced_by: '[[_Standards/WikiData/WD~historian_of_biology,63650936|WD~historian_of_biology,63650936]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Erasmus%20Darwin%20Temple%20of%20Nature.jpg
 Basisklassifikation: 42.01
 Commons_category: History of biology

@@ -90,15 +90,15 @@ Common_Procurement_Vocabulary_code:
 - 14791000
 CPV_Supplementary_code: AA40
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917|WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
 Dewey_Decimal_Classification: 546.524
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Charles_Hatchett,378065]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Charles_Hatchett,378065|WD~Charles_Hatchett,378065]]'
 DSSTOX_compound_identifier: DTXCID5031052
 EC_number: 231-113-5
 electronegativity: 2
@@ -108,8 +108,8 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Niobium%20crystals%20a
 InChI: InChI=1S/Nb
 InChIKey: GUCVJGMIXFAOAE-UHFFFAOYSA-N
 instance_of:
-- '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+- '[[_Standards/WikiData/WD~lithophile,1130479|WD~lithophile,1130479]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 ionic_radius:
 - 0.48
 - 0.64
@@ -117,23 +117,23 @@ ionic_radius:
 - 0.72
 - 0.74
 - 0.79
-location_of_discovery: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+location_of_discovery: '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
 mass: 92.90637
 MeSH_tree_code:
 - D01.268.556.615
 - D01.268.956.687
 - D01.552.544.615
-named_after: '[[_Standards/WikiData/WD~Niobe,213621]]'
+named_after: '[[_Standards/WikiData/WD~Niobe,213621|WD~Niobe,213621]]'
 OmegaWiki_Defined_Meaning: 339099
 oxidation_state: 5
 part_of:
-- '[[_Standards/WikiData/WD~group_5,193276]]'
-- '[[_Standards/WikiData/WD~period_5,244982]]'
+- '[[_Standards/WikiData/WD~group_5,193276|WD~group_5,193276]]'
+- '[[_Standards/WikiData/WD~period_5,244982|WD~period_5,244982]]'
 PubChem_CID: 23936
 SpocWebEntityId: 21939
 subclass_of:
-- '[[_Standards/WikiData/WD~period_5,244982]]'
-- '[[_Standards/WikiData/WD~transition_metal,19588]]'
+- '[[_Standards/WikiData/WD~period_5,244982|WD~period_5,244982]]'
+- '[[_Standards/WikiData/WD~transition_metal,19588|WD~transition_metal,19588]]'
 time_of_discovery_or_invention: 1801
 type: Element
 UMLS_CUI: C0028101
@@ -141,7 +141,7 @@ UNII: 05175J654G
 ZVG_number: 7410
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Niobium,1046]]'
+  - '[[../../../WikiData/WD~Niobium,1046|WD~Niobium,1046]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium|Niobium]]'
   - '[[/_public/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.public|Niobium.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.internal|Niobium.internal]]'
@@ -149,7 +149,7 @@ dv_is_:
   - '[[/_private/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.private|Niobium.private]]'
   - '[[/_personal/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.personal|Niobium.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.secret|Niobium.secret]]'
-  part_of: '[[../Group-05-Vanadium]]'
+  part_of: '[[../Group-05-Vanadium|Group-05-Vanadium]]'
 dv_has_:
   name_:
     abbreviated: Nb
@@ -342,7 +342,7 @@ dv_has_:
         kj_:
           mol: 682
 dv_is_same_as:
-- '[[../../../WikiData/WD~Niobium,1046]]'
+- '[[../../../WikiData/WD~Niobium,1046|WD~Niobium,1046]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium|Niobium]]'
 - '[[/_public/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.public|Niobium.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.internal|Niobium.internal]]'
@@ -351,7 +351,7 @@ dv_is_same_as:
 - '[[/_personal/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.personal|Niobium.personal]]'
 - '[[/_secret/Chemistry/Chemical_Element/Group-05-Vanadium/Niobium.secret|Niobium.secret]]'
 dv_has_name_group: Group-05-Vanadium
-dv_is_part_of: '[[../Group-05-Vanadium]]'
+dv_is_part_of: '[[../Group-05-Vanadium|Group-05-Vanadium]]'
 dv_has_name_en: Niobium
 dv_has_name_de: Niob
 dv_has_value_for_weight_u: 92.9064
@@ -379,7 +379,7 @@ Unicode_character: 鈮
 
 
 #chemic/Element 
-#is_/same_as :: [[../../../WikiData/WD~Niobium,1046]] 
+#is_/same_as :: [[../../../WikiData/WD~Niobium,1046|WD~Niobium,1046]] 
 
 has_name_group = `=this.dv_has_name_group` 
 is_part_of = `=this.dv_is_part_of` 

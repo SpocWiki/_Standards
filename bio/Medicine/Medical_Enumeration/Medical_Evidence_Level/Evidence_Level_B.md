@@ -35,9 +35,9 @@ Tag Instances like this:
 
 Data derived from a single randomized trial, or nonrandomized studies.
 
-#has_/parent_class :: [[../MedicalEvidenceLevel]]  
+#has_/parent_class :: [[../MedicalEvidenceLevel|MedicalEvidenceLevel]]  
 
-#is_/enum_of :: [[../MedicalEvidenceLevel]]  
+#is_/enum_of :: [[../MedicalEvidenceLevel|MedicalEvidenceLevel]]  
 
 ## Confidential Links & Embeds: 
 

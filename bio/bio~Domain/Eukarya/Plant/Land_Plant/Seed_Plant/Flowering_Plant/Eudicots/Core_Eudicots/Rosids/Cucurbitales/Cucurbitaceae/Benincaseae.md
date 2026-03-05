@@ -4,8 +4,8 @@ aliases:
 - قرعاوية شمعية
 - 冬瓜族
 has_id_wikidata: Q16034621
-taxon_rank: '[[_Standards/WikiData/WD~tribe,227936]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~tribe,227936|WD~tribe,227936]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ecballium%20elaterium.JPG
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomyfamily.aspx?type=tribe&id=1455
 Commons_category: Benincaseae
@@ -56,7 +56,7 @@ dv_has_:
 
 # [[Benincaseae]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Benincaseae,16034621]] 
+#is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Benincaseae,16034621|WD~Benincaseae,16034621]] 
 
 ## #has_/text_of_/abstract 
 

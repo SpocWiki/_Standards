@@ -110,17 +110,17 @@ aliases:
 - 噓噏
 - 숨
 has_id_wikidata: Q9530
-part_of: '[[_Standards/WikiData/WD~respiration,472287]]'
+part_of: '[[_Standards/WikiData/WD~respiration,472287|WD~respiration,472287]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~inhalation,840343]]'
-- '[[_Standards/WikiData/WD~exhalation,2197000]]'
-subclass_of: '[[_Standards/WikiData/WD~gas_exchange,1146120]]'
-instance_of: '[[_Standards/WikiData/WD~biological_process,2996394]]'
-class_of_object_s_of_occurrence: '[[_Standards/WikiData/WD~air,7391292]]'
-product_or_material_produced: '[[_Standards/WikiData/WD~breath,13428325]]'
+- '[[_Standards/WikiData/WD~inhalation,840343|WD~inhalation,840343]]'
+- '[[_Standards/WikiData/WD~exhalation,2197000|WD~exhalation,2197000]]'
+subclass_of: '[[_Standards/WikiData/WD~gas_exchange,1146120|WD~gas_exchange,1146120]]'
+instance_of: '[[_Standards/WikiData/WD~biological_process,2996394|WD~biological_process,2996394]]'
+class_of_object_s_of_occurrence: '[[_Standards/WikiData/WD~air,7391292|WD~air,7391292]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~breath,13428325|WD~breath,13428325]]'
 Commons_category: Respiration
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Diaphragmatic%20breathing.gif
 video: http://commons.wikimedia.org/wiki/Special:FilePath/So%20wichtig%20ist%20tiefes%20Atmen.webm

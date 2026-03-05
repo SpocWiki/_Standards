@@ -71,7 +71,7 @@ is_different_from = `=this.dv_is_different_from`
 > In the early 20th century, it supported progressive reforms and opposed imperialism, 
 > wit[[../../../_Standards/Earth/Continent/America~North/US~President/Wilson,Woodrow|Woodrow Wilson]]]] winning the White House in 1912 and 1916.
 >
-> Sinc[[../../../_Standards/Earth/Continent/America~North/US~President/Roosevelt,Franklin_Delano]]]] was elected president in 1932, 
+> Sinc[[../../../_Standards/Earth/Continent/America~North/US~President/Roosevelt,Franklin_Delano|Roosevelt,Franklin_Delano]]]] was elected president in 1932, 
 > the Democratic Party has promoted a social liberal platform 
 > that includes support for Social Security and unemployment insurance. 
 > 

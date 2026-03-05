@@ -93,14 +93,14 @@ aliases:
 - 외계 생물
 has_id_wikidata: Q181508
 studied_by:
-- '[[_Standards/WikiData/WD~search_for_extra_terrestrial_intelligence,484587]]'
-- '[[_Standards/WikiData/WD~astrobiology,411]]'
-has_contributing_factor: '[[_Standards/WikiData/WD~planetary_habitability,846030]]'
-opposite_of: '[[_Standards/WikiData/WD~Earthling,1349305]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Extraterrestrial_life,10967326]]'
+- '[[_Standards/WikiData/WD~search_for_extra_terrestrial_intelligence,484587|WD~search_for_extra_terrestrial_intelligence,484587]]'
+- '[[_Standards/WikiData/WD~astrobiology,411|WD~astrobiology,411]]'
+has_contributing_factor: '[[_Standards/WikiData/WD~planetary_habitability,846030|WD~planetary_habitability,846030]]'
+opposite_of: '[[_Standards/WikiData/WD~Earthling,1349305|WD~Earthling,1349305]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Extraterrestrial_life,10967326|WD~Template_Extraterrestrial_life,10967326]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~hypothetical_entity,18706315]]'
-- '[[_Standards/WikiData/WD~life,3]]'
+- '[[_Standards/WikiData/WD~hypothetical_entity,18706315|WD~hypothetical_entity,18706315]]'
+- '[[_Standards/WikiData/WD~life,3|WD~life,3]]'
 subreddit: aliens
 U_S_National_Archives_Identifier: 10646855
 image: http://commons.wikimedia.org/wiki/Special:FilePath/ALH84001%20structures.jpg
@@ -248,7 +248,7 @@ dv_has_:
 > possibly bringing forth civilizations that might be far more, or far less, advanced than humans. 
 > 
 > The Drake equation speculates about the existence of sapient life elsewhere in the universe. 
-> The science of extraterrestrial life is known as [[../Astrobiology]] .
+> The science of extraterrestrial life is known as [[../Astrobiology|Astrobiology]] .
 >
 > Speculation about the possibility of inhabited worlds beyond Earth dates back to antiquity. 
 > Early Christian writers discussed the idea of a "plurality of worlds" 

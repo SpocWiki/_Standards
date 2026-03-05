@@ -94,17 +94,17 @@ CAS_Registry_Number: 22537-19-5
 chemical_formula: Lr
 Commons_category: Lawrencium
 Commons_gallery: Lawrencium
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Albert_Ghiorso,468345]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Albert_Ghiorso,468345|WD~Albert_Ghiorso,468345]]'
 DSSTOX_compound_identifier: DTXCID8099548
 electronegativity: 1.3
 element_symbol: Lr
 InChI: InChI=1S/Lr
 InChIKey: CNQCVBJFEGMYDW-UHFFFAOYSA-N
 instance_of:
-- '[[_Standards/WikiData/WD~synthetic_element,755992]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
-location_of_discovery: '[[_Standards/WikiData/WD~University_of_California,_Berkeley,168756]]'
+- '[[_Standards/WikiData/WD~synthetic_element,755992|WD~synthetic_element,755992]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
+location_of_discovery: '[[_Standards/WikiData/WD~University_of_California,_Berkeley,168756|WD~University_of_California,_Berkeley,168756]]'
 MeSH_tree_code:
 - D01.268.271.100.500
 - D01.268.556.423
@@ -112,22 +112,22 @@ MeSH_tree_code:
 - D01.496.749.305.100.500
 - D01.552.020.507
 - D01.552.544.423
-named_after: '[[_Standards/WikiData/WD~Ernest_Lawrence,169577]]'
+named_after: '[[_Standards/WikiData/WD~Ernest_Lawrence,169577|WD~Ernest_Lawrence,169577]]'
 OmegaWiki_Defined_Meaning: 161353
 part_of:
-- '[[_Standards/WikiData/WD~period_7,244979]]'
-- '[[_Standards/WikiData/WD~actinide,19577]]'
+- '[[_Standards/WikiData/WD~period_7,244979|WD~period_7,244979]]'
+- '[[_Standards/WikiData/WD~actinide,19577|WD~actinide,19577]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-lawrencium.wav
 PubChem_CID: 31192
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20103%20Lawrencium.svg
 SpocWebEntityId: 21998
 time_of_discovery_or_invention: 1961-02-14
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_lawrencium,8085415]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_lawrencium,8085415|WD~Template_Infobox_lawrencium,8085415]]'
 type: Element
 UNII: QRT37X99RQ
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Lawrencium,1905]]'
+  - '[[../../../WikiData/WD~Lawrencium,1905|WD~Lawrencium,1905]]'
   - '[[../../../WikiData/WD~Lawrencium,1905|WD~Lawrencium,1905]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Group-03-Scandium/Lawrencium|Lawrencium]]'
   - '[[/_public/Chemistry/Chemical_Element/Group-03-Scandium/Lawrencium.public|Lawrencium.public]]'
@@ -136,7 +136,7 @@ dv_is_:
   - '[[/_private/Chemistry/Chemical_Element/Group-03-Scandium/Lawrencium.private|Lawrencium.private]]'
   - '[[/_personal/Chemistry/Chemical_Element/Group-03-Scandium/Lawrencium.personal|Lawrencium.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Group-03-Scandium/Lawrencium.secret|Lawrencium.secret]]'
-  part_of: '[[../Group-03-Scandium]]'
+  part_of: '[[../Group-03-Scandium|Group-03-Scandium]]'
 dv_has_:
   name_:
     abbreviated: Lr
@@ -322,7 +322,7 @@ dv_has_:
         kj_:
           mol: 0
 dv_is_same_as:
-- '[[../../../WikiData/WD~Lawrencium,1905]]'
+- '[[../../../WikiData/WD~Lawrencium,1905|WD~Lawrencium,1905]]'
 - '[[../../../WikiData/WD~Lawrencium,1905|WD~Lawrencium,1905]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Group-03-Scandium/Lawrencium|Lawrencium]]'
 - '[[/_public/Chemistry/Chemical_Element/Group-03-Scandium/Lawrencium.public|Lawrencium.public]]'
@@ -332,7 +332,7 @@ dv_is_same_as:
 - '[[/_personal/Chemistry/Chemical_Element/Group-03-Scandium/Lawrencium.personal|Lawrencium.personal]]'
 - '[[/_secret/Chemistry/Chemical_Element/Group-03-Scandium/Lawrencium.secret|Lawrencium.secret]]'
 dv_has_name_group: Group-03-Scandium
-dv_is_part_of: '[[../Group-03-Scandium]]'
+dv_is_part_of: '[[../Group-03-Scandium|Group-03-Scandium]]'
 dv_has_name_en: Lawrencium
 dv_has_name_de: Lawrencium
 dv_has_name_abbreviated: Lr
@@ -360,7 +360,7 @@ Unicode_character: 鐒
 
 
 #chemic/Element 
-#is_/same_as :: [[../../../WikiData/WD~Lawrencium,1905]] 
+#is_/same_as :: [[../../../WikiData/WD~Lawrencium,1905|WD~Lawrencium,1905]] 
 
 has_name_group = `=this.dv_has_name_group` 
 is_part_of = `=this.dv_is_part_of` 

@@ -51,23 +51,23 @@ aliases:
 - 방향족 화합물
 has_id_wikidata: Q19834818
 subclass_of:
-- '[[_Standards/WikiData/WD~cyclic_compound,66194]]'
-- '[[_Standards/WikiData/WD~olefinic_compound,71271159]]'
+- '[[_Standards/WikiData/WD~cyclic_compound,66194|WD~cyclic_compound,66194]]'
+- '[[_Standards/WikiData/WD~olefinic_compound,71271159|WD~olefinic_compound,71271159]]'
 opposite_of:
-- '[[_Standards/WikiData/WD~aliphatic_compound,192596]]'
-- '[[_Standards/WikiData/WD~antiaromatic_compound,25600821]]'
-manifestation_of: '[[_Standards/WikiData/WD~aromaticity,210390]]'
-has_characteristic: '[[_Standards/WikiData/WD~aromaticity,210390]]'
-described_by_source: '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~aliphatic_compound,192596|WD~aliphatic_compound,192596]]'
+- '[[_Standards/WikiData/WD~antiaromatic_compound,25600821|WD~antiaromatic_compound,25600821]]'
+manifestation_of: '[[_Standards/WikiData/WD~aromaticity,210390|WD~aromaticity,210390]]'
+has_characteristic: '[[_Standards/WikiData/WD~aromaticity,210390|WD~aromaticity,210390]]'
+described_by_source: '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 different_from:
-- '[[_Standards/WikiData/WD~aroma_compound,2151963]]'
-- '[[_Standards/WikiData/WD~aromatic_ion,108266130]]'
+- '[[_Standards/WikiData/WD~aroma_compound,2151963|WD~aroma_compound,2151963]]'
+- '[[_Standards/WikiData/WD~aromatic_ion,108266130|WD~aromatic_ion,108266130]]'
 part_of:
-- '[[_Standards/WikiData/WD~cellular_aromatic_compound_metabolic_process,14864889]]'
-- '[[_Standards/WikiData/WD~aromatic_compound_catabolic_process,21120453]]'
-- '[[_Standards/WikiData/WD~aromatic_compound_biosynthetic_process,22274785]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Aromatic_compounds,22773048]]'
-instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
+- '[[_Standards/WikiData/WD~cellular_aromatic_compound_metabolic_process,14864889|WD~cellular_aromatic_compound_metabolic_process,14864889]]'
+- '[[_Standards/WikiData/WD~aromatic_compound_catabolic_process,21120453|WD~aromatic_compound_catabolic_process,21120453]]'
+- '[[_Standards/WikiData/WD~aromatic_compound_biosynthetic_process,22274785|WD~aromatic_compound_biosynthetic_process,22274785]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Aromatic_compounds,22773048|WD~Template_Aromatic_compounds,22773048]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
 SMARTS_notation: '[a]'
 Stack_Exchange_tag: https://chemistry.stackexchange.com/tags/aromatic-compounds
 P8189: 987007294982705200

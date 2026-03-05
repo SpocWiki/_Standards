@@ -65,21 +65,21 @@ aliases:
 - 椰棗
 has_id_wikidata: Q1652093
 different_from:
-- '[[_Standards/WikiData/WD~Datil,200587]]'
-- '[[_Standards/WikiData/WD~Dattel,1172705]]'
-- '[[_Standards/WikiData/WD~Date,16997]]'
-described_by_source: '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Datil,200587|WD~Datil,200587]]'
+- '[[_Standards/WikiData/WD~Dattel,1172705|WD~Dattel,1172705]]'
+- '[[_Standards/WikiData/WD~Date,16997|WD~Date,16997]]'
+described_by_source: '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~tropical_and_subtropical_fruit,27481647]]'
-- '[[_Standards/WikiData/WD~Q29043273,29043273]]'
-- '[[_Standards/WikiData/WD~fruit,1364]]'
-- '[[_Standards/WikiData/WD~food,2095]]'
+- '[[_Standards/WikiData/WD~tropical_and_subtropical_fruit,27481647|WD~tropical_and_subtropical_fruit,27481647]]'
+- '[[_Standards/WikiData/WD~Q29043273,29043273|WD~Q29043273,29043273]]'
+- '[[_Standards/WikiData/WD~fruit,1364|WD~fruit,1364]]'
+- '[[_Standards/WikiData/WD~food,2095|WD~food,2095]]'
 color:
-- '[[_Standards/WikiData/WD~yellow,943]]'
-- '[[_Standards/WikiData/WD~brown,47071]]'
+- '[[_Standards/WikiData/WD~yellow,943|WD~yellow,943]]'
+- '[[_Standards/WikiData/WD~brown,47071|WD~brown,47071]]'
 natural_product_of_taxon:
-- '[[_Standards/WikiData/WD~Phoenix_dactylifera,25292]]'
-- '[[_Standards/WikiData/WD~Phoenix,27685]]'
+- '[[_Standards/WikiData/WD~Phoenix_dactylifera,25292|WD~Phoenix_dactylifera,25292]]'
+- '[[_Standards/WikiData/WD~Phoenix,27685|WD~Phoenix,27685]]'
 carbon_footprint: 3.3
 water_footprint: 2277
 PLU_code:

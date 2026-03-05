@@ -79,19 +79,19 @@ aliases:
 - 類金屬
 - 준금속
 has_id_wikidata: Q19596
-different_from: '[[_Standards/WikiData/WD~semimetal,2033925]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+different_from: '[[_Standards/WikiData/WD~semimetal,2033925|WD~semimetal,2033925]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
-- '[[_Standards/WikiData/WD~metal,11426]]'
-- '[[_Standards/WikiData/WD~nonmetal,19600]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
+- '[[_Standards/WikiData/WD~metal,11426|WD~metal,11426]]'
+- '[[_Standards/WikiData/WD~nonmetal,19600|WD~nonmetal,19600]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Polycrystalline-germanium.jpg
 UMLS_CUI: C0439879
 MeSH_tree_code: D01.268.513
 Commons_category: Metalloids
 dv_is_:
   same_as:
-  - '[[../../WikiData/WD~Metalloid,19596]]'
+  - '[[../../WikiData/WD~Metalloid,19596|WD~Metalloid,19596]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Metalloid|Metalloid]]'
   - '[[/_public/Chemistry/Chemical_Element/Metalloid.public|Metalloid.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Metalloid.internal|Metalloid.internal]]'
@@ -100,7 +100,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Chemical_Element/Metalloid.personal|Metalloid.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Metalloid.secret|Metalloid.secret]]'
 dv_is_same_as:
-- '[[../../WikiData/WD~Metalloid,19596]]'
+- '[[../../WikiData/WD~Metalloid,19596|WD~Metalloid,19596]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Metalloid|Metalloid]]'
 - '[[/_public/Chemistry/Chemical_Element/Metalloid.public|Metalloid.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Metalloid.internal|Metalloid.internal]]'

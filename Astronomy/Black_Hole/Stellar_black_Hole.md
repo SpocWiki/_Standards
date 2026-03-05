@@ -44,9 +44,9 @@ aliases:
 - 항성 블랙홀
 has_id_wikidata: Q1047034
 subclass_of:
-- '[[_Standards/WikiData/WD~compact_object,368442]]'
-- '[[_Standards/WikiData/WD~black_hole,589]]'
-different_from: '[[_Standards/WikiData/WD~quasi_star,1439884]]'
+- '[[_Standards/WikiData/WD~compact_object,368442|WD~compact_object,368442]]'
+- '[[_Standards/WikiData/WD~black_hole,589|WD~black_hole,589]]'
+different_from: '[[_Standards/WikiData/WD~quasi_star,1439884|WD~quasi_star,1439884]]'
 short_name: SBH
 dv_is_:
   same_as:

@@ -24,10 +24,10 @@ aliases:
 - নিঃসরণ
 - 分泌物
 has_id_wikidata: Q12334861
-has_cause: '[[_Standards/WikiData/WD~secretion,84230]]'
+has_cause: '[[_Standards/WikiData/WD~secretion,84230|WD~secretion,84230]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~biogenic_substance,289472]]'
-- '[[_Standards/WikiData/WD~secretion_or_excretion,19388114]]'
+- '[[_Standards/WikiData/WD~biogenic_substance,289472|WD~biogenic_substance,289472]]'
+- '[[_Standards/WikiData/WD~secretion_or_excretion,19388114|WD~secretion_or_excretion,19388114]]'
 dv_has_:
   name_:
     ar: إفرازات
@@ -64,7 +64,7 @@ dv_has_:
 # [[Secretion]] 
 
 #is_/different_from :: [[Excretion]] 
-#is_/same_as :: [[_Standards/WikiData/WD~secretion,12334861]] 
+#is_/same_as :: [[_Standards/WikiData/WD~secretion,12334861|WD~secretion,12334861]] 
 
 ## #has_/text_of_/abstract 
 

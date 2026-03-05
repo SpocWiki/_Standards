@@ -31,18 +31,18 @@ aliases:
 - 梁龙属
 - 디플로도쿠스
 has_id_wikidata: Q14330
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 location_of_discovery:
-- '[[_Standards/WikiData/WD~Morrison_Formation,1195552]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290]]'
+- '[[_Standards/WikiData/WD~Morrison_Formation,1195552|WD~Morrison_Formation,1195552]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290|WD~fossil_taxon,23038290]]'
 start_time: -154000000-06
 length:
 - 26
 - 32
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
 mass: 113
-main_food_source: '[[_Standards/WikiData/WD~herbivore,59099]]'
+main_food_source: '[[_Standards/WikiData/WD~herbivore,59099|WD~herbivore,59099]]'
 Commons_gallery: Diplodocus
 Commons_category: Diplodocus
 taxon_name: Diplodocus

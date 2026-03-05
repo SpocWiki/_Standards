@@ -88,7 +88,7 @@ dv_has_:
 
 Birds, tyrannosaurs, velociraptors, etc. 
 
- ![Pelikan](Coelurosauria/Pelikan.jpg)![[Coelurosauria/Tyrannosauroid.jpg]]] 
+ ![Pelikan](Coelurosauria/Pelikan.jpg)![[Coelurosauria/Tyrannosauroid.jpg|Tyrannosauroid.jpg]]] 
 
 ## #has_/text_of_/abstract 
 

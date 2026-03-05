@@ -47,7 +47,7 @@ aliases:
 - 人間性心理学
 - 인간성 심리학
 has_id_wikidata: Q23364
-subclass_of: '[[_Standards/WikiData/WD~psychology,9418]]'
+subclass_of: '[[_Standards/WikiData/WD~psychology,9418|WD~psychology,9418]]'
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D5%80%D5%B8%D6%82%D5%B4%D5%A1%D5%B6%D5%AB%D5%BD%D5%BF%D5%A1%D5%AF%D5%A1%D5%B6%20%D5%B0%D5%B8%D5%A3%D5%A5%D5%A2%D5%A1%D5%B6%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6%20%28Humanistic%20psychology%29.ogg
 Basisklassifikation: 77.21
 OpenStreetMap_tag: healthcare:speciality=humanistic

@@ -79,17 +79,17 @@ aliases:
 - 테네신
 has_id_wikidata: Q1306
 part_of:
-- '[[_Standards/WikiData/WD~period_7,244979]]'
-- '[[_Standards/WikiData/WD~halogens,19605]]'
-location_of_discovery: '[[_Standards/WikiData/WD~Joint_Institute_for_Nuclear_Research,259517]]'
+- '[[_Standards/WikiData/WD~period_7,244979|WD~period_7,244979]]'
+- '[[_Standards/WikiData/WD~halogens,19605|WD~halogens,19605]]'
+location_of_discovery: '[[_Standards/WikiData/WD~Joint_Institute_for_Nuclear_Research,259517|WD~Joint_Institute_for_Nuclear_Research,259517]]'
 instance_of:
-- '[[_Standards/WikiData/WD~synthetic_element,755992]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Yuri_Oganessian,1144326]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q65410944,65410944]]'
-different_from: '[[_Standards/WikiData/WD~Tennessee,1509]]'
-named_after: '[[_Standards/WikiData/WD~Tennessee,1509]]'
-subclass_of: '[[_Standards/WikiData/WD~halogens,19605]]'
+- '[[_Standards/WikiData/WD~synthetic_element,755992|WD~synthetic_element,755992]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Yuri_Oganessian,1144326|WD~Yuri_Oganessian,1144326]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q65410944,65410944|WD~Q65410944,65410944]]'
+different_from: '[[_Standards/WikiData/WD~Tennessee,1509|WD~Tennessee,1509]]'
+named_after: '[[_Standards/WikiData/WD~Tennessee,1509|WD~Tennessee,1509]]'
+subclass_of: '[[_Standards/WikiData/WD~halogens,19605|WD~halogens,19605]]'
 atomic_number: 117
 OmegaWiki_Defined_Meaning: 708230
 Unicode_character: 鿬

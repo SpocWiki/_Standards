@@ -62,10 +62,10 @@ aliases:
 - 生養
 - 생식능력
 has_id_wikidata: Q964401
-opposite_of: '[[_Standards/WikiData/WD~infertility,179399]]'
-different_from: '[[_Standards/WikiData/WD~soil_fertility,202080]]'
-subclass_of: '[[_Standards/WikiData/WD~aptitude,1347367]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~fecundity,2587899]]'
+opposite_of: '[[_Standards/WikiData/WD~infertility,179399|WD~infertility,179399]]'
+different_from: '[[_Standards/WikiData/WD~soil_fertility,202080|WD~soil_fertility,202080]]'
+subclass_of: '[[_Standards/WikiData/WD~aptitude,1347367|WD~aptitude,1347367]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~fecundity,2587899|WD~fecundity,2587899]]'
 Commons_category: Fertility
 Iconclass_notation: 42A18
 MeSH_tree_code: G08.686.210

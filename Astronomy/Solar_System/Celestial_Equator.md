@@ -65,13 +65,13 @@ aliases:
 - 천구적도
 has_id_wikidata: Q187646
 instance_of:
-- '[[_Standards/WikiData/WD~circle_of_latitude,146591]]'
-- '[[_Standards/WikiData/WD~reference_point,23008367]]'
+- '[[_Standards/WikiData/WD~circle_of_latitude,146591|WD~circle_of_latitude,146591]]'
+- '[[_Standards/WikiData/WD~reference_point,23008367|WD~reference_point,23008367]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
-subclass_of: '[[_Standards/WikiData/WD~equator,23538]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517|WD~Small_Soviet_Encyclopedia,66386517]]'
+subclass_of: '[[_Standards/WikiData/WD~equator,23538|WD~equator,23538]]'
 declination: 0
 image: http://commons.wikimedia.org/wiki/Special:FilePath/AxialTiltObliquity.png
 Commons_category: Celestial equator

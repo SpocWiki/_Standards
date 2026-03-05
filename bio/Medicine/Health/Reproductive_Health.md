@@ -55,18 +55,18 @@ aliases:
 - 재생산 건강
 has_id_wikidata: Q1981388
 part_of:
-- '[[_Standards/WikiData/WD~reproductive_medicine,351870]]'
-- '[[_Standards/WikiData/WD~sexual_and_reproductive_health,3501817]]'
+- '[[_Standards/WikiData/WD~reproductive_medicine,351870|WD~reproductive_medicine,351870]]'
+- '[[_Standards/WikiData/WD~sexual_and_reproductive_health,3501817|WD~sexual_and_reproductive_health,3501817]]'
 different_from:
-- '[[_Standards/WikiData/WD~reproductive_rights,1536343]]'
-- '[[_Standards/WikiData/WD~sexual_health,3473038]]'
-- '[[_Standards/WikiData/WD~reproductive_justice,7314313]]'
-- '[[_Standards/WikiData/WD~sexual_health_and_rights,119141830]]'
+- '[[_Standards/WikiData/WD~reproductive_rights,1536343|WD~reproductive_rights,1536343]]'
+- '[[_Standards/WikiData/WD~sexual_health,3473038|WD~sexual_health,3473038]]'
+- '[[_Standards/WikiData/WD~reproductive_justice,7314313|WD~reproductive_justice,7314313]]'
+- '[[_Standards/WikiData/WD~sexual_health_and_rights,119141830|WD~sexual_health_and_rights,119141830]]'
 on_focus_list_of_Wikimedia_project:
-- '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529]]'
-- "[[_Standards/WikiData/WD~WikiProject_Women's_Health,21831121]]"
-named_by: '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
-subclass_of: '[[_Standards/WikiData/WD~health,12147]]'
+- '[[_Standards/WikiData/WD~WikiProject_Human_rights,13382529|WD~WikiProject_Human_rights,13382529]]'
+- "[[_Standards/WikiData/WD~WikiProject_Women's_Health,21831121|WD~WikiProject_Women's_Health,21831121]]"
+named_by: '[[_Standards/WikiData/WD~World_Health_Organization,7817|WD~World_Health_Organization,7817]]'
+subclass_of: '[[_Standards/WikiData/WD~health,12147|WD~health,12147]]'
 IAB_code: 302
 Commons_category: Reproductive health
 UMLS_CUI: C0242667

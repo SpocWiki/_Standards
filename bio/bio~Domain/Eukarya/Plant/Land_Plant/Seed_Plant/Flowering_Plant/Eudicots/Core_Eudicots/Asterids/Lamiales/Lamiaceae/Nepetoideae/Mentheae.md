@@ -6,9 +6,9 @@ aliases:
 - نعناعاوية
 - 薄荷族
 has_id_wikidata: Q7638745
-parent_taxon: '[[_Standards/WikiData/WD~Nepetoideae,138199]]'
-taxon_rank: '[[_Standards/WikiData/WD~tribe,227936]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+parent_taxon: '[[_Standards/WikiData/WD~Nepetoideae,138199|WD~Nepetoideae,138199]]'
+taxon_rank: '[[_Standards/WikiData/WD~tribe,227936|WD~tribe,227936]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Wiesensalbei%201.jpg
 Commons_category: Mentheae
 taxon_name: Mentheae

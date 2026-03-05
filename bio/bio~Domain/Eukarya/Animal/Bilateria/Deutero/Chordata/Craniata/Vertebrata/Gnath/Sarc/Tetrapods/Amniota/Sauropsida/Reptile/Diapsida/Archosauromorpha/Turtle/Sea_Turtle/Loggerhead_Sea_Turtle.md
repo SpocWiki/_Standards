@@ -89,17 +89,17 @@ taxon_common_name:
 - loggerhead turtle
 - Loggerhead turtle
 start_time: -40000000-01-01T00:00:00Z
-IUCN_conservation_status: '[[_Standards/WikiData/WD~Vulnerable,278113]]'
+IUCN_conservation_status: '[[_Standards/WikiData/WD~Vulnerable,278113|WD~Vulnerable,278113]]'
 taxon_range:
-- '[[_Standards/WikiData/WD~Salvaterra,1921992]]'
-- '[[_Standards/WikiData/WD~Brazil,155]]'
-CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528]]'
-parent_taxon: '[[_Standards/WikiData/WD~Caretta,2938164]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
-Wildlife_Protection_Act_1972_India_schedule: '[[_Standards/WikiData/WD~Schedule_I_(Part_II)_of_Wildlife_Protection_Act,_1972,74713860]]'
-original_combination: '[[_Standards/WikiData/WD~Testudo_caretta,107055805]]'
-taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~Salvaterra,1921992|WD~Salvaterra,1921992]]'
+- '[[_Standards/WikiData/WD~Brazil,155|WD~Brazil,155]]'
+CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528|WD~Appendix_I_of_CITES,2851528]]'
+parent_taxon: '[[_Standards/WikiData/WD~Caretta,2938164|WD~Caretta,2938164]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615|WD~WikiProject_Invasion_Biology,56241615]]'
+Wildlife_Protection_Act_1972_India_schedule: '[[_Standards/WikiData/WD~Schedule_I_(Part_II)_of_Wildlife_Protection_Act,_1972,74713860|WD~Schedule_I_(Part_II)_of_Wildlife_Protection_Act,_1972,74713860]]'
+original_combination: '[[_Standards/WikiData/WD~Testudo_caretta,107055805|WD~Testudo_caretta,107055805]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432|WD~species,7432]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 ITIS_TSN: 173830
 taxon_author_citation: (Linnaeus, 1758)
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Loggerhead%20sea%20turtle.jpg

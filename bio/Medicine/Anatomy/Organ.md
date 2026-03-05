@@ -87,38 +87,38 @@ aliases:
 - 기관
 has_id_wikidata: Q712378
 part_of:
-- '[[_Standards/WikiData/WD~organ_system,188193]]'
-- '[[_Standards/WikiData/WD~organism,7239]]'
+- '[[_Standards/WikiData/WD~organ_system,188193|WD~organ_system,188193]]'
+- '[[_Standards/WikiData/WD~organism,7239|WD~organism,7239]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
 different_from:
-- '[[_Standards/WikiData/WD~Organ,2029863]]'
-- '[[_Standards/WikiData/WD~Orgaan,5662940]]'
-- '[[_Standards/WikiData/WD~Muérganu,13147792]]'
-- '[[_Standards/WikiData/WD~Organo,19671409]]'
-- '[[_Standards/WikiData/WD~Orqan,29429527]]'
-- '[[_Standards/WikiData/WD~Órgano,126391433]]'
-- '[[_Standards/WikiData/WD~Órgão,126398428]]'
-- '[[_Standards/WikiData/WD~Cơ_quan,126398529]]'
-- '[[_Standards/WikiData/WD~Orgán,126398623]]'
+- '[[_Standards/WikiData/WD~Organ,2029863|WD~Organ,2029863]]'
+- '[[_Standards/WikiData/WD~Orgaan,5662940|WD~Orgaan,5662940]]'
+- '[[_Standards/WikiData/WD~Muérganu,13147792|WD~Muérganu,13147792]]'
+- '[[_Standards/WikiData/WD~Organo,19671409|WD~Organo,19671409]]'
+- '[[_Standards/WikiData/WD~Orqan,29429527|WD~Orqan,29429527]]'
+- '[[_Standards/WikiData/WD~Órgano,126391433|WD~Órgano,126391433]]'
+- '[[_Standards/WikiData/WD~Órgão,126398428|WD~Órgão,126398428]]'
+- '[[_Standards/WikiData/WD~Cơ_quan,126398529|WD~Cơ_quan,126398529]]'
+- '[[_Standards/WikiData/WD~Orgán,126398623|WD~Orgán,126398623]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~anatomical_structure,4936952]]'
-- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]'
+- '[[_Standards/WikiData/WD~anatomical_structure,4936952|WD~anatomical_structure,4936952]]'
+- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975|WD~particular_anatomical_entity,112826975]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~physiological_functional_capacity,30324638]]'
-- '[[_Standards/WikiData/WD~organ_type,103812529]]'
+- '[[_Standards/WikiData/WD~physiological_functional_capacity,30324638|WD~physiological_functional_capacity,30324638]]'
+- '[[_Standards/WikiData/WD~organ_type,103812529|WD~organ_type,103812529]]'
 instance_of:
-- '[[_Standards/WikiData/WD~anatomical_structure_class_type,103914748]]'
-- '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]'
+- '[[_Standards/WikiData/WD~anatomical_structure_class_type,103914748|WD~anatomical_structure_class_type,103914748]]'
+- '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905|WD~class_of_anatomical_entity,112826905]]'
 properties_for_this_type:
 - arterial supply
 - venous drainage
 - innervated by
-has_part_s_: '[[_Standards/WikiData/WD~tissue,40397]]'
+has_part_s_: '[[_Standards/WikiData/WD~tissue,40397|WD~tissue,40397]]'
 OmegaWiki_Defined_Meaning: 2660
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Organ.ogg
 image:

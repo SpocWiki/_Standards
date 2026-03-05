@@ -60,21 +60,21 @@ aliases:
 - 獼猴屬
 - 마카크
 has_id_wikidata: Q177601
-parent_taxon: '[[_Standards/WikiData/WD~Cercopithecinae,220848]]'
+parent_taxon: '[[_Standards/WikiData/WD~Cercopithecinae,220848|WD~Cercopithecinae,220848]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
-diel_cycle: '[[_Standards/WikiData/WD~diurnality,4284186]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+diel_cycle: '[[_Standards/WikiData/WD~diurnality,4284186|WD~diurnality,4284186]]'
 taxon_synonym:
-- '[[_Standards/WikiData/WD~Inuus,41154602]]'
-- '[[_Standards/WikiData/WD~Macacus,41155179]]'
-main_food_source: '[[_Standards/WikiData/WD~omnivorism,46413310]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~Inuus,41154602|WD~Inuus,41154602]]'
+- '[[_Standards/WikiData/WD~Macacus,41155179|WD~Macacus,41155179]]'
+main_food_source: '[[_Standards/WikiData/WD~omnivorism,46413310|WD~omnivorism,46413310]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 period_of_lactation: 1
 litter_size: 1
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
 gestation_period: 165
 ITIS_TSN: 180097
 taxon_common_name:

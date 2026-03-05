@@ -43,17 +43,17 @@ aliases:
 - 정동
 has_id_wikidata: Q159904
 subclass_of:
-- '[[../../WikiData/WD~feeling,205555]]'
-- '[[_Standards/WikiData/WD~pattern,2083958]]'
-- '[[_Standards/WikiData/WD~emotion,9415]]'
+- '[[../../WikiData/WD~feeling,205555|WD~feeling,205555]]'
+- '[[_Standards/WikiData/WD~pattern,2083958|WD~pattern,2083958]]'
+- '[[_Standards/WikiData/WD~emotion,9415|WD~emotion,9415]]'
 different_from:
-- '[[_Standards/WikiData/WD~affection,1124198]]'
-- '[[_Standards/WikiData/WD~pseudobulbar_affect,3508789]]'
+- '[[_Standards/WikiData/WD~affection,1124198|WD~affection,1124198]]'
+- '[[_Standards/WikiData/WD~pseudobulbar_affect,3508789|WD~pseudobulbar_affect,3508789]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-instance_of: '[[_Standards/WikiData/WD~psychology_concept,96634632]]'
-facet_of: '[[_Standards/WikiData/WD~emotion,9415]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+instance_of: '[[_Standards/WikiData/WD~psychology_concept,96634632|WD~psychology_concept,96634632]]'
+facet_of: '[[_Standards/WikiData/WD~emotion,9415|WD~emotion,9415]]'
 Dewey_Decimal_Classification: 152.4
 MeSH_tree_code: F01.470.047
 Colon_Classification: S:53
@@ -126,7 +126,7 @@ dv_has_:
 
 # [[Affect]]
 
-#is_/same_as :: [[../../WikiData/WD~affect,159904]] 
+#is_/same_as :: [[../../WikiData/WD~affect,159904|WD~affect,159904]] 
 
 | Aspect          | Affect        | Emotion                       |
 | --------------- | ------------- | ----------------------------- |

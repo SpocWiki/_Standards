@@ -60,15 +60,15 @@ aliases:
 - 영상의학
 has_id_wikidata: Q77604
 subclass_of:
-- '[[_Standards/WikiData/WD~medical_diagnosis,177719]]'
-- '[[_Standards/WikiData/WD~medicine,11190]]'
-has_part_s_: '[[_Standards/WikiData/WD~interventional_radiology,426449]]'
-instance_of: '[[_Standards/WikiData/WD~medical_specialty,930752]]'
+- '[[_Standards/WikiData/WD~medical_diagnosis,177719|WD~medical_diagnosis,177719]]'
+- '[[_Standards/WikiData/WD~medicine,11190|WD~medicine,11190]]'
+has_part_s_: '[[_Standards/WikiData/WD~interventional_radiology,426449|WD~interventional_radiology,426449]]'
+instance_of: '[[_Standards/WikiData/WD~medical_specialty,930752|WD~medical_specialty,930752]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~radiographer,2294052]]'
-- '[[_Standards/WikiData/WD~radiologist,18245236]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~roentgenology,10659067]]'
-part_of: '[[_Standards/WikiData/WD~medicine,11190]]'
+- '[[_Standards/WikiData/WD~radiographer,2294052|WD~radiographer,2294052]]'
+- '[[_Standards/WikiData/WD~radiologist,18245236|WD~radiologist,18245236]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~roentgenology,10659067|WD~roentgenology,10659067]]'
+part_of: '[[_Standards/WikiData/WD~medicine,11190|WD~medicine,11190]]'
 GitHub_topic: radiology
 U_S_National_Archives_Identifier: 10640986
 OmegaWiki_Defined_Meaning: 397916

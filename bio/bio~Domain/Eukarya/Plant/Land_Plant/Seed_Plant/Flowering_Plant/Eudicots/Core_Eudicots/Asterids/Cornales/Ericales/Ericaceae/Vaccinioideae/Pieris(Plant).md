@@ -19,17 +19,17 @@ aliases:
 - 粉蝶屬
 - 흰나비속
 has_id_wikidata: Q997547
-homonymous_taxon: '[[_Standards/WikiData/WD~Pieris,132967]]'
+homonymous_taxon: '[[_Standards/WikiData/WD~Pieris,132967|WD~Pieris,132967]]'
 taxon_synonym:
-- '[[_Standards/WikiData/WD~Talbotia,3495779]]'
-- '[[_Standards/WikiData/WD~Mancipium,100997169]]'
-- '[[_Standards/WikiData/WD~Ganoris,100997259]]'
-- '[[_Standards/WikiData/WD~Andropodum,100997288]]'
-- '[[_Standards/WikiData/WD~Tachyptera,100997614]]'
-- '[[_Standards/WikiData/WD~Artogeia,100999101]]'
-parent_taxon: '[[_Standards/WikiData/WD~Pierina,21446400]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+- '[[_Standards/WikiData/WD~Talbotia,3495779|WD~Talbotia,3495779]]'
+- '[[_Standards/WikiData/WD~Mancipium,100997169|WD~Mancipium,100997169]]'
+- '[[_Standards/WikiData/WD~Ganoris,100997259|WD~Ganoris,100997259]]'
+- '[[_Standards/WikiData/WD~Andropodum,100997288|WD~Andropodum,100997288]]'
+- '[[_Standards/WikiData/WD~Tachyptera,100997614|WD~Tachyptera,100997614]]'
+- '[[_Standards/WikiData/WD~Artogeia,100999101|WD~Artogeia,100999101]]'
+parent_taxon: '[[_Standards/WikiData/WD~Pierina,21446400|WD~Pierina,21446400]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
 ITIS_TSN: 188536
 taxon_name: Pieris
 Commons_gallery: Pieris (Pieridae)

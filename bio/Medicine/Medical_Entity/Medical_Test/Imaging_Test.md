@@ -34,7 +34,7 @@ Tag Instances like this:
 
 Any medical imaging modality typically used for diagnostic purposes.
 
-#has_/parent_class :: [[../MedicalTest]]  
+#has_/parent_class :: [[../MedicalTest|MedicalTest]]  
 
 #has_/properties :: [ additionalType, affectedBy, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, imagingTechnique, legalStatus, mainEntityOfPage, medicineSystem, name, normalRange, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, signDetected, study, subjectOf, url, usedToDiagnose, usesDevice ]  
 

@@ -81,27 +81,27 @@ aliases:
 - 골절
 has_id_wikidata: Q68833
 instance_of:
-- '[[_Standards/WikiData/WD~symptom,169872]]'
-- '[[_Standards/WikiData/WD~symptom_or_sign,112965645]]'
-- '[[_Standards/WikiData/WD~disease,12136]]'
+- '[[_Standards/WikiData/WD~symptom,169872|WD~symptom,169872]]'
+- '[[_Standards/WikiData/WD~symptom_or_sign,112965645|WD~symptom_or_sign,112965645]]'
+- '[[_Standards/WikiData/WD~disease,12136|WD~disease,12136]]'
 has_cause:
-- '[[_Standards/WikiData/WD~injury_in_humans,193078]]'
-- '[[_Standards/WikiData/WD~stress_fracture,41392]]'
+- '[[_Standards/WikiData/WD~injury_in_humans,193078|WD~injury_in_humans,193078]]'
+- '[[_Standards/WikiData/WD~stress_fracture,41392|WD~stress_fracture,41392]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~injury_in_humans,193078]]'
-- '[[_Standards/WikiData/WD~major_trauma,1064904]]'
-- '[[_Standards/WikiData/WD~bone_disease,4941552]]'
+- '[[_Standards/WikiData/WD~injury_in_humans,193078|WD~injury_in_humans,193078]]'
+- '[[_Standards/WikiData/WD~major_trauma,1064904|WD~major_trauma,1064904]]'
+- '[[_Standards/WikiData/WD~bone_disease,4941552|WD~bone_disease,4941552]]'
 drug_or_therapy_used_for_treatment:
-- '[[_Standards/WikiData/WD~denosumab,408283]]'
-- '[[_Standards/WikiData/WD~teriparatide,411781]]'
+- '[[_Standards/WikiData/WD~denosumab,408283|WD~denosumab,408283]]'
+- '[[_Standards/WikiData/WD~teriparatide,411781|WD~teriparatide,411781]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-health_specialty: '[[_Standards/WikiData/WD~osteology,819121]]'
-has_effect: '[[_Standards/WikiData/WD~bone_pain,3480107]]'
-medical_examination: '[[_Standards/WikiData/WD~medical_radiography,4115819]]'
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+health_specialty: '[[_Standards/WikiData/WD~osteology,819121|WD~osteology,819121]]'
+has_effect: '[[_Standards/WikiData/WD~bone_pain,3480107|WD~bone_pain,3480107]]'
+medical_examination: '[[_Standards/WikiData/WD~medical_radiography,4115819|WD~medical_radiography,4115819]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
 subreddit: brokenbones
 DiseasesDB: 4939
 OmegaWiki_Defined_Meaning: 1156580

@@ -103,32 +103,32 @@ aliases:
 has_id_wikidata: Q11369
 Commons_category: Molecules
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
-does_not_have_characteristic: '[[_Standards/WikiData/WD~electric_charge,1111]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+does_not_have_characteristic: '[[_Standards/WikiData/WD~electric_charge,1111|WD~electric_charge,1111]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~molecular_configuration,901339]]'
-- '[[_Standards/WikiData/WD~molecular_geometry,911331]]'
-- '[[_Standards/WikiData/WD~molecular_function,14860489]]'
-- '[[_Standards/WikiData/WD~molecular_property,16999526]]'
-- '[[_Standards/WikiData/WD~electron_configuration,53859]]'
+- '[[_Standards/WikiData/WD~molecular_configuration,901339|WD~molecular_configuration,901339]]'
+- '[[_Standards/WikiData/WD~molecular_geometry,911331|WD~molecular_geometry,911331]]'
+- '[[_Standards/WikiData/WD~molecular_function,14860489|WD~molecular_function,14860489]]'
+- '[[_Standards/WikiData/WD~molecular_property,16999526|WD~molecular_property,16999526]]'
+- '[[_Standards/WikiData/WD~electron_configuration,53859|WD~electron_configuration,53859]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~covalent_bond,127920]]'
-- '[[_Standards/WikiData/WD~atom,9121]]'
+- '[[_Standards/WikiData/WD~covalent_bond,127920|WD~covalent_bond,127920]]'
+- '[[_Standards/WikiData/WD~atom,9121|WD~atom,9121]]'
 IEV_number: 113-05-25
-instance_of: '[[_Standards/WikiData/WD~group_or_class_of_chemical_entities,72070508]]'
-named_after: '[[_Standards/WikiData/WD~mole,41509]]'
-opposite_of: '[[_Standards/WikiData/WD~ion,36496]]'
+instance_of: '[[_Standards/WikiData/WD~group_or_class_of_chemical_entities,72070508|WD~group_or_class_of_chemical_entities,72070508]]'
+named_after: '[[_Standards/WikiData/WD~mole,41509|WD~mole,41509]]'
+opposite_of: '[[_Standards/WikiData/WD~ion,36496|WD~ion,36496]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%85%E0%A6%A3%E0%A7%81.wav
 studied_in:
-- '[[_Standards/WikiData/WD~molecular_physics,489328]]'
-- '[[_Standards/WikiData/WD~chemistry,2329]]'
-- '[[_Standards/WikiData/WD~molecular_biology,7202]]'
-subclass_of: '[[_Standards/WikiData/WD~molecular_entity,2393187]]'
+- '[[_Standards/WikiData/WD~molecular_physics,489328|WD~molecular_physics,489328]]'
+- '[[_Standards/WikiData/WD~chemistry,2329|WD~chemistry,2329]]'
+- '[[_Standards/WikiData/WD~molecular_biology,7202|WD~molecular_biology,7202]]'
+subclass_of: '[[_Standards/WikiData/WD~molecular_entity,2393187|WD~molecular_entity,2393187]]'
 dv_is_:
   same_as:
   - '[[../WikiData/WD~Molecule,11369|WD~Molecule,11369]]'

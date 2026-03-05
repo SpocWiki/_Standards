@@ -50,9 +50,9 @@ aliases:
 - 臘腸狗
 - 닥스훈트
 has_id_wikidata: Q29099
-different_from: '[[_Standards/WikiData/WD~Q11716842,11716842]]'
-subclass_of: '[[_Standards/WikiData/WD~dog,144]]'
-country_of_origin: '[[_Standards/WikiData/WD~Germany,183]]'
+different_from: '[[_Standards/WikiData/WD~Q11716842,11716842|WD~Q11716842,11716842]]'
+subclass_of: '[[_Standards/WikiData/WD~dog,144|WD~dog,144]]'
+country_of_origin: '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
 height:
 - 5
 - 9
@@ -62,8 +62,8 @@ diameter:
 - 45
 - 47
 litter_size: 5.4
-has_characteristic: '[[_Standards/WikiData/WD~length,36253]]'
-instance_of: '[[_Standards/WikiData/WD~dog_breed,39367]]'
+has_characteristic: '[[_Standards/WikiData/WD~length,36253|WD~length,36253]]'
+instance_of: '[[_Standards/WikiData/WD~dog_breed,39367|WD~dog_breed,39367]]'
 catalog_code: 148
 subreddit:
 - Dachshund

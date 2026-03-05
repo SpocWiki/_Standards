@@ -20,9 +20,9 @@ aliases:
 - 摩根馬
 - 摩根马
 has_id_wikidata: Q1179217
-instance_of: '[[_Standards/WikiData/WD~horse_breed,1160573]]'
-subclass_of: '[[_Standards/WikiData/WD~horse,726]]'
-country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
+instance_of: '[[_Standards/WikiData/WD~horse_breed,1160573|WD~horse_breed,1160573]]'
+subclass_of: '[[_Standards/WikiData/WD~horse,726|WD~horse,726]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Morgan%20parked%20out.jpg
 Commons_gallery: Morgan horse
 Commons_category: Morgan horse

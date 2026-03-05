@@ -50,18 +50,18 @@ aliases:
 - 大草原
 - 프레리
 has_id_wikidata: Q194281
-subclass_of: '[[_Standards/WikiData/WD~temperate_grasslands,_savannas,_and_shrublands,150071]]'
+subclass_of: '[[_Standards/WikiData/WD~temperate_grasslands,_savannas,_and_shrublands,150071|WD~temperate_grasslands,_savannas,_and_shrublands,150071]]'
 different_from:
-- '[[_Standards/WikiData/WD~Prairie,339732]]'
-- '[[_Standards/WikiData/WD~meadow,7777019]]'
+- '[[_Standards/WikiData/WD~Prairie,339732|WD~Prairie,339732]]'
+- '[[_Standards/WikiData/WD~meadow,7777019|WD~meadow,7777019]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636|WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
 Commons_category: Prairie
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Knotbomenrij%20als%20voormalige%20perceelsrandbegroeiing%20-%20228985%20-%20onroerenderfgoed.jpg
 exact_match: http://purl.obolibrary.org/obo/ENVO_00000260

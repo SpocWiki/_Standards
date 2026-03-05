@@ -160,26 +160,26 @@ aliases:
 - 윤년
 has_id_wikidata: Q19828
 has_part_s_of_the_class:
-- '[[_Standards/WikiData/WD~leap_year_starting_on_Wednesday_and_ending_on_Thursday,217015]]'
-- '[[_Standards/WikiData/WD~leap_year_starting_on_Thursday_and_ending_on_Friday,217019]]'
-- '[[_Standards/WikiData/WD~leap_year_starting_on_Saturday_and_ending_on_Sunday,217026]]'
-- '[[_Standards/WikiData/WD~leap_year_starting_on_Monday_and_ending_on_Tuesday,217024]]'
-- '[[_Standards/WikiData/WD~leap_year_starting_on_Tuesday_and_ending_on_Wednesday,217034]]'
-- '[[_Standards/WikiData/WD~leap_year_starting_on_Friday_and_ending_on_Saturday,217036]]'
-- '[[_Standards/WikiData/WD~leap_year_starting_on_Sunday_and_ending_on_Monday,217041]]'
-opposite_of: '[[_Standards/WikiData/WD~common_year,235729]]'
+- '[[_Standards/WikiData/WD~leap_year_starting_on_Wednesday_and_ending_on_Thursday,217015|WD~leap_year_starting_on_Wednesday_and_ending_on_Thursday,217015]]'
+- '[[_Standards/WikiData/WD~leap_year_starting_on_Thursday_and_ending_on_Friday,217019|WD~leap_year_starting_on_Thursday_and_ending_on_Friday,217019]]'
+- '[[_Standards/WikiData/WD~leap_year_starting_on_Saturday_and_ending_on_Sunday,217026|WD~leap_year_starting_on_Saturday_and_ending_on_Sunday,217026]]'
+- '[[_Standards/WikiData/WD~leap_year_starting_on_Monday_and_ending_on_Tuesday,217024|WD~leap_year_starting_on_Monday_and_ending_on_Tuesday,217024]]'
+- '[[_Standards/WikiData/WD~leap_year_starting_on_Tuesday_and_ending_on_Wednesday,217034|WD~leap_year_starting_on_Tuesday_and_ending_on_Wednesday,217034]]'
+- '[[_Standards/WikiData/WD~leap_year_starting_on_Friday_and_ending_on_Saturday,217036|WD~leap_year_starting_on_Friday_and_ending_on_Saturday,217036]]'
+- '[[_Standards/WikiData/WD~leap_year_starting_on_Sunday_and_ending_on_Monday,217041|WD~leap_year_starting_on_Sunday_and_ending_on_Monday,217041]]'
+opposite_of: '[[_Standards/WikiData/WD~common_year,235729|WD~common_year,235729]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-measured_physical_quantity: '[[_Standards/WikiData/WD~duration,2199864]]'
-subclass_of: '[[_Standards/WikiData/WD~calendar_year,3186692]]'
-instance_of: '[[_Standards/WikiData/WD~year_type,56290623]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q110323437,110323437]]'
-has_characteristic: '[[_Standards/WikiData/WD~February_29,2364]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+measured_physical_quantity: '[[_Standards/WikiData/WD~duration,2199864|WD~duration,2199864]]'
+subclass_of: '[[_Standards/WikiData/WD~calendar_year,3186692|WD~calendar_year,3186692]]'
+instance_of: '[[_Standards/WikiData/WD~year_type,56290623|WD~year_type,56290623]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q110323437,110323437|WD~Q110323437,110323437]]'
+has_characteristic: '[[_Standards/WikiData/WD~February_29,2364|WD~February_29,2364]]'
 part_of:
-- '[[_Standards/WikiData/WD~Julian_calendar,11184]]'
-- '[[_Standards/WikiData/WD~Gregorian_calendar,12138]]'
+- '[[_Standards/WikiData/WD~Julian_calendar,11184|WD~Julian_calendar,11184]]'
+- '[[_Standards/WikiData/WD~Gregorian_calendar,12138|WD~Gregorian_calendar,12138]]'
 event_interval: 4
 conversion_to_standard_unit: 366
 duration:

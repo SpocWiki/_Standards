@@ -47,20 +47,20 @@ aliases:
 - 球面度
 - 스테라디안
 has_id_wikidata: Q177612
-studied_by: '[[_Standards/WikiData/WD~solid_geometry,207648]]'
-measured_physical_quantity: '[[_Standards/WikiData/WD~solid_angle,208476]]'
+studied_by: '[[_Standards/WikiData/WD~solid_geometry,207648|WD~solid_geometry,207648]]'
+measured_physical_quantity: '[[_Standards/WikiData/WD~solid_angle,208476|WD~solid_angle,208476]]'
 instance_of:
-- '[[_Standards/WikiData/WD~dimensionless_unit,1618549]]'
-- '[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328]]'
-- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
-- '[[_Standards/WikiData/WD~unit_of_solid_angle,111212048]]'
+- '[[_Standards/WikiData/WD~dimensionless_unit,1618549|WD~dimensionless_unit,1618549]]'
+- '[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328|WD~SI_unit_with_special_name,68618328]]'
+- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057|WD~UCUM_derived_unit,82047057]]'
+- '[[_Standards/WikiData/WD~unit_of_solid_angle,111212048|WD~unit_of_solid_angle,111212048]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~ISO_80000_3_2006_Quantities_and_units_Part_3_Space_and_time,26711932]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~ISO_80000_3_2006_Quantities_and_units_Part_3_Space_and_time,26711932|WD~ISO_80000_3_2006_Quantities_and_units_Part_3_Space_and_time,26711932]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mtext>angle in steradians</mtext></mrow><mo stretchy="false">=</mo><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mtext>spherical area</mtext></mrow></mrow><mrow data-mjx-texclass="ORD"><msup><mi>r</mi><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup></mrow></mfrac></mrow></mstyle></mrow></math>
-based_on: '[[_Standards/WikiData/WD~metre,11573]]'
+based_on: '[[_Standards/WikiData/WD~metre,11573|WD~metre,11573]]'
 conversion_to_SI_unit: 1
 UCUM_code: sr
 OmegaWiki_Defined_Meaning: 341617

@@ -1,7 +1,7 @@
 ---
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Period,101843]]"
+    - "[[../../../WikiData/WD~Period,101843|WD~Period,101843]]"
     - "[[/_Standards/Chemistry/Chemical_Element/Periodic_Table/Period(periodic_Table)|Period(periodic_Table)]]"
     - "[[/_public/Chemistry/Chemical_Element/Periodic_Table/Period(periodic_Table).public|Period(periodic_Table).public]]"
     - "[[/_internal/Chemistry/Chemical_Element/Periodic_Table/Period(periodic_Table).internal|Period(periodic_Table).internal]]"
@@ -10,7 +10,7 @@ dv_is_:
     - "[[/_personal/Chemistry/Chemical_Element/Periodic_Table/Period(periodic_Table).personal|Period(periodic_Table).personal]]"
     - "[[/_secret/Chemistry/Chemical_Element/Periodic_Table/Period(periodic_Table).secret|Period(periodic_Table).secret]]"
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Period,101843]]"
+  - "[[../../../WikiData/WD~Period,101843|WD~Period,101843]]"
   - "[[/_Standards/Chemistry/Chemical_Element/Periodic_Table/Period(periodic_Table)|Period(periodic_Table)]]"
   - "[[/_public/Chemistry/Chemical_Element/Periodic_Table/Period(periodic_Table).public|Period(periodic_Table).public]]"
   - "[[/_internal/Chemistry/Chemical_Element/Periodic_Table/Period(periodic_Table).internal|Period(periodic_Table).internal]]"

@@ -54,12 +54,12 @@ aliases:
 - 정수
 has_id_wikidata: Q1463025
 subclass_of:
-- '[[_Standards/WikiData/WD~refining,682483]]'
-- '[[_Standards/WikiData/WD~water_treatment,1058719]]'
-- '[[_Standards/WikiData/WD~cleaning,12773274]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-product_or_material_produced: '[[_Standards/WikiData/WD~purified_water,59349761]]'
-class_of_object_s_of_occurrence: '[[_Standards/WikiData/WD~water,283]]'
+- '[[_Standards/WikiData/WD~refining,682483|WD~refining,682483]]'
+- '[[_Standards/WikiData/WD~water_treatment,1058719|WD~water_treatment,1058719]]'
+- '[[_Standards/WikiData/WD~cleaning,12773274|WD~cleaning,12773274]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~purified_water,59349761|WD~purified_water,59349761]]'
+class_of_object_s_of_occurrence: '[[_Standards/WikiData/WD~water,283|WD~water,283]]'
 Commons_category: Water treatment
 U_S_National_Archives_Identifier: 10641312
 MeSH_tree_code:

@@ -30,13 +30,13 @@ aliases:
 - 진무맹장류
 has_id_wikidata: Q16635184
 described_by_source:
-- '[[../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-different_from: '[[_Standards/WikiData/WD~Insectivora,25842]]'
-parent_taxon: '[[_Standards/WikiData/WD~Laurasiatheria,27379]]'
-taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
+- '[[../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+different_from: '[[_Standards/WikiData/WD~Insectivora,25842|WD~Insectivora,25842]]'
+parent_taxon: '[[_Standards/WikiData/WD~Laurasiatheria,27379|WD~Laurasiatheria,27379]]'
+taxon_rank: '[[_Standards/WikiData/WD~order,36602|WD~order,36602]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Eulipotyphla.jpg
 MeSH_tree_code: B01.050.150.900.649.313.961
 Commons_category: Eulipotyphla
@@ -120,7 +120,7 @@ dv_has_:
 
 # [[Eulipotyphla]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../../../../../WikiData/WD~Eulipotyphla,16635184]] 
+#is_/same_as :: [[../../../../../../../../../../../../../../../../WikiData/WD~Eulipotyphla,16635184|WD~Eulipotyphla,16635184]] 
 
 ## #has_/text_of_/abstract 
 

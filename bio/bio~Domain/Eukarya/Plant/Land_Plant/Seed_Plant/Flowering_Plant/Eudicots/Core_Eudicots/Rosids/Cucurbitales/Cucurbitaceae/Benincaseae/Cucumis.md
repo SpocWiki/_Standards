@@ -38,14 +38,14 @@ aliases:
 - 黄瓜属
 - 오이속
 has_id_wikidata: Q148758
-this_taxon_is_source_of: '[[_Standards/WikiData/WD~melon,5881191]]'
-parent_taxon: '[[../../../../../../../../../../../../../WikiData/WD~Benincaseae,16034621]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~melon,5881191|WD~melon,5881191]]'
+parent_taxon: '[[../../../../../../../../../../../../../WikiData/WD~Benincaseae,16034621|WD~Benincaseae,16034621]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_73(1),112869479]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_73(1),112869479|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_73(1),112869479]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
 ITIS_TSN: 22359
 taxon_common_name:
 - melon
@@ -174,7 +174,7 @@ dv_has_:
 
 # [[Cucumis]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../../WikiData/WD~Cucumis,148758]] 
+#is_/same_as :: [[../../../../../../../../../../../../../WikiData/WD~Cucumis,148758|WD~Cucumis,148758]] 
 
 ## #has_/text_of_/abstract 
 

@@ -107,24 +107,24 @@ aliases:
 has_id_wikidata: Q40858
 OpenStreetMap_tag: resource=gas
 subclass_of:
-- '[[_Standards/WikiData/WD~mixture,169336]]'
-- '[[_Standards/WikiData/WD~fuel_gas,909363]]'
-- '[[_Standards/WikiData/WD~fossil_fuel,12748]]'
-product_or_material_produced: '[[_Standards/WikiData/WD~electrical_energy,206799]]'
-instance_of: '[[_Standards/WikiData/WD~commodity,317088]]'
+- '[[_Standards/WikiData/WD~mixture,169336|WD~mixture,169336]]'
+- '[[_Standards/WikiData/WD~fuel_gas,909363|WD~fuel_gas,909363]]'
+- '[[_Standards/WikiData/WD~fossil_fuel,12748|WD~fossil_fuel,12748]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~electrical_energy,206799|WD~electrical_energy,206799]]'
+instance_of: '[[_Standards/WikiData/WD~commodity,317088|WD~commodity,317088]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-part_of: '[[_Standards/WikiData/WD~nonrenewable_energy,2632167]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+part_of: '[[_Standards/WikiData/WD~nonrenewable_energy,2632167|WD~nonrenewable_energy,2632167]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~colorlessness,11567495]]'
-- '[[_Standards/WikiData/WD~odorlessness,30007162]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~natural_gas,134925613]]'
-different_from: '[[_Standards/WikiData/WD~gas,11432]]'
-has_part_s_: '[[_Standards/WikiData/WD~methane,37129]]'
+- '[[_Standards/WikiData/WD~colorlessness,11567495|WD~colorlessness,11567495]]'
+- '[[_Standards/WikiData/WD~odorlessness,30007162|WD~odorlessness,30007162]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047|WD~WikiProject_Climate_change,15305047]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~natural_gas,134925613|WD~natural_gas,134925613]]'
+different_from: '[[_Standards/WikiData/WD~gas,11432|WD~gas,11432]]'
+has_part_s_: '[[_Standards/WikiData/WD~methane,37129|WD~methane,37129]]'
 OmegaWiki_Defined_Meaning: 2472
 U_S_National_Archives_Identifier: 10642736
 ZVG_number: 90290
@@ -151,7 +151,7 @@ Commons_category: Natural gas
 Commons_gallery: Natural gas
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Natural_gas,40858]]'
+  - '[[../../../../WikiData/WD~Natural_gas,40858|WD~Natural_gas,40858]]'
   - '[[/_Standards/Chemistry/Material/Fuel/Fossil_Fuel/Natural_Gas|Natural_Gas]]'
   - '[[/_public/Chemistry/Material/Fuel/Fossil_Fuel/Natural_Gas.public|Natural_Gas.public]]'
   - '[[/_internal/Chemistry/Material/Fuel/Fossil_Fuel/Natural_Gas.internal|Natural_Gas.internal]]'
@@ -160,7 +160,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Material/Fuel/Fossil_Fuel/Natural_Gas.personal|Natural_Gas.personal]]'
   - '[[/_secret/Chemistry/Material/Fuel/Fossil_Fuel/Natural_Gas.secret|Natural_Gas.secret]]'
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Natural_gas,40858]]'
+- '[[../../../../WikiData/WD~Natural_gas,40858|WD~Natural_gas,40858]]'
 - '[[/_Standards/Chemistry/Material/Fuel/Fossil_Fuel/Natural_Gas|Natural_Gas]]'
 - '[[/_public/Chemistry/Material/Fuel/Fossil_Fuel/Natural_Gas.public|Natural_Gas.public]]'
 - '[[/_internal/Chemistry/Material/Fuel/Fossil_Fuel/Natural_Gas.internal|Natural_Gas.internal]]'

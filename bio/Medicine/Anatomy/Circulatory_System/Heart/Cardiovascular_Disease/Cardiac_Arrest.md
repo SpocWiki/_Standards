@@ -91,29 +91,29 @@ aliases:
 - 심정지
 has_id_wikidata: Q202837
 drug_or_therapy_used_for_treatment:
-- '[[_Standards/WikiData/WD~epinephrine,132621]]'
-- '[[_Standards/WikiData/WD~sodium_bicarbonate,179731]]'
-- '[[_Standards/WikiData/WD~calcium_chloride,208451]]'
-- '[[_Standards/WikiData/WD~calcium_gluconate,413739]]'
-- '[[_Standards/WikiData/WD~calcium_gluceptate,5018826]]'
-- '[[_Standards/WikiData/WD~atropine,26272]]'
+- '[[_Standards/WikiData/WD~epinephrine,132621|WD~epinephrine,132621]]'
+- '[[_Standards/WikiData/WD~sodium_bicarbonate,179731|WD~sodium_bicarbonate,179731]]'
+- '[[_Standards/WikiData/WD~calcium_chloride,208451|WD~calcium_chloride,208451]]'
+- '[[_Standards/WikiData/WD~calcium_gluconate,413739|WD~calcium_gluconate,413739]]'
+- '[[_Standards/WikiData/WD~calcium_gluceptate,5018826|WD~calcium_gluceptate,5018826]]'
+- '[[_Standards/WikiData/WD~atropine,26272|WD~atropine,26272]]'
 symptoms_and_signs:
-- '[[_Standards/WikiData/WD~heart_failure,181754]]'
-- '[[_Standards/WikiData/WD~unconsciousness,12829165]]'
-first_aid_measures: '[[_Standards/WikiData/WD~cardiopulmonary_resuscitation,185325]]'
+- '[[_Standards/WikiData/WD~heart_failure,181754|WD~heart_failure,181754]]'
+- '[[_Standards/WikiData/WD~unconsciousness,12829165|WD~unconsciousness,12829165]]'
+first_aid_measures: '[[_Standards/WikiData/WD~cardiopulmonary_resuscitation,185325|WD~cardiopulmonary_resuscitation,185325]]'
 instance_of:
-- '[[_Standards/WikiData/WD~cause_of_death,1931388]]'
-- '[[_Standards/WikiData/WD~thoracic_disease,18553676]]'
-- '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+- '[[_Standards/WikiData/WD~cause_of_death,1931388|WD~cause_of_death,1931388]]'
+- '[[_Standards/WikiData/WD~thoracic_disease,18553676|WD~thoracic_disease,18553676]]'
+- '[[_Standards/WikiData/WD~class_of_disease,112193867|WD~class_of_disease,112193867]]'
 health_specialty:
-- '[[_Standards/WikiData/WD~emergency_medicine,2861470]]'
-- '[[_Standards/WikiData/WD~cardiology,10379]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
-genetic_association: '[[_Standards/WikiData/WD~AKAP10,18036405]]'
+- '[[_Standards/WikiData/WD~emergency_medicine,2861470|WD~emergency_medicine,2861470]]'
+- '[[_Standards/WikiData/WD~cardiology,10379|WD~cardiology,10379]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686|WD~WikiProject_Medicine,4099686]]'
+genetic_association: '[[_Standards/WikiData/WD~AKAP10,18036405|WD~AKAP10,18036405]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~congestive_heart_failure,19000661]]'
-- '[[_Standards/WikiData/WD~disease,12136]]'
-different_from: '[[_Standards/WikiData/WD~myocardial_infarction,12152]]'
+- '[[_Standards/WikiData/WD~congestive_heart_failure,19000661|WD~congestive_heart_failure,19000661]]'
+- '[[_Standards/WikiData/WD~disease,12136|WD~disease,12136]]'
+different_from: '[[_Standards/WikiData/WD~myocardial_infarction,12152|WD~myocardial_infarction,12152]]'
 DiseasesDB: 2095
 OmegaWiki_Defined_Meaning: 1258990
 ICD_10_CM: I46

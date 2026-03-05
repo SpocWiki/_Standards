@@ -26,8 +26,8 @@ aliases:
 - 鼬總科
 - 족제비상과
 has_id_wikidata: Q2670845
-taxon_rank: '[[_Standards/WikiData/WD~superfamily,2136103]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~superfamily,2136103|WD~superfamily,2136103]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mustela%20frenata.jpg
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Musteloidea.jpg
 taxon_name: Musteloidea
@@ -95,7 +95,7 @@ dv_has_:
 
 # [[Musteloidea]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Musteloidea,2670845]] 
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Musteloidea,2670845|WD~Musteloidea,2670845]] 
 
 ## #has_/text_of_/abstract 
 

@@ -93,23 +93,23 @@ aliases:
 - ꯖꯤꯕ꯭ꯔꯥ
 - 얼룩말
 has_id_wikidata: Q32789
-different_from: '[[_Standards/WikiData/WD~Zebra,400135]]'
+different_from: '[[_Standards/WikiData/WD~Zebra,400135|WD~Zebra,400135]]'
 described_by_source:
-- '[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-taxon_rank: '[[_Standards/WikiData/WD~subgenus,3238261]]'
+- '[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546|WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+taxon_rank: '[[_Standards/WikiData/WD~subgenus,3238261|WD~subgenus,3238261]]'
 this_taxon_is_source_of:
-- '[[_Standards/WikiData/WD~zebra_skin,21044738]]'
-- '[[_Standards/WikiData/WD~zebra_meat,85978196]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~zebra_skin,21044738|WD~zebra_skin,21044738]]'
+- '[[_Standards/WikiData/WD~zebra_meat,85978196|WD~zebra_meat,85978196]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 color:
-- '[[_Standards/WikiData/WD~white,23444]]'
-- '[[_Standards/WikiData/WD~black,23445]]'
+- '[[_Standards/WikiData/WD~white,23444|WD~white,23444]]'
+- '[[_Standards/WikiData/WD~black,23445|WD~black,23445]]'
 OmegaWiki_Defined_Meaning: 7849
 IMDb_keyword: zebra
 Biology_Online_Biology_Dictionary_entry: zebra

@@ -49,23 +49,23 @@ aliases:
 - 에스테르
 has_id_wikidata: Q101487
 different_from:
-- '[[_Standards/WikiData/WD~carboxylate_ester,355518]]'
-- '[[_Standards/WikiData/WD~Esther,732413]]'
+- '[[_Standards/WikiData/WD~carboxylate_ester,355518|WD~carboxylate_ester,355518]]'
+- '[[_Standards/WikiData/WD~Esther,732413|WD~Esther,732413]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878|WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517|WD~Small_Soviet_Encyclopedia,66386517]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~organyl_group,2030064]]'
-- '[[_Standards/WikiData/WD~acyloxy_group,17310124]]'
+- '[[_Standards/WikiData/WD~organyl_group,2030064|WD~organyl_group,2030064]]'
+- '[[_Standards/WikiData/WD~acyloxy_group,17310124|WD~acyloxy_group,17310124]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~oxo_compound,19885597]]'
-- '[[_Standards/WikiData/WD~organooxygen_compound,71574018]]'
-- '[[_Standards/WikiData/WD~oxoacid_derivative,113547463]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Esters,22721777]]'
-instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
+- '[[_Standards/WikiData/WD~oxo_compound,19885597|WD~oxo_compound,19885597]]'
+- '[[_Standards/WikiData/WD~organooxygen_compound,71574018|WD~organooxygen_compound,71574018]]'
+- '[[_Standards/WikiData/WD~oxoacid_derivative,113547463|WD~oxoacid_derivative,113547463]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Esters,22721777|WD~Template_Esters,22721777]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
 MCN_code:
 - 2915.50.30
 - 2917.11.20

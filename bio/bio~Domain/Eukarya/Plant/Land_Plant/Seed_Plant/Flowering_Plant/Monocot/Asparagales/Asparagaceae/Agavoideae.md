@@ -28,14 +28,14 @@ aliases:
 - 龙舌兰亚科
 - 용설란아과
 has_id_wikidata: Q162802
-taxonomic_type: '[[_Standards/WikiData/WD~Agave,155874]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Agave,155874|WD~Agave,155874]]'
 parent_taxon:
-- '[[_Standards/WikiData/WD~Asparagaceae,157167]]'
-- '[[_Standards/WikiData/WD~Agavaceae,218221]]'
-taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280]]'
-taxon_synonym: '[[_Standards/WikiData/WD~Agavaceae,218221]]'
-uses: '[[_Standards/WikiData/WD~CAM_photosynthesis,858313]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~Asparagaceae,157167|WD~Asparagaceae,157167]]'
+- '[[_Standards/WikiData/WD~Agavaceae,218221|WD~Agavaceae,218221]]'
+taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280|WD~subfamily,164280]]'
+taxon_synonym: '[[_Standards/WikiData/WD~Agavaceae,218221|WD~Agavaceae,218221]]'
+uses: '[[_Standards/WikiData/WD~CAM_photosynthesis,858313|WD~CAM_photosynthesis,858313]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 Commons_category: Agavoideae
 taxon_name: Agavoideae
 image:

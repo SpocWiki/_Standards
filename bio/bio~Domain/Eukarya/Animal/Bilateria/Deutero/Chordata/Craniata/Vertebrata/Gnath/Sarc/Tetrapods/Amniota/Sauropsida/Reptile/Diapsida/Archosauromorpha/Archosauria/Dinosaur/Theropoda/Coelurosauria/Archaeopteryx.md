@@ -45,21 +45,21 @@ aliases:
 - ꯑꯥꯔꯀꯤꯌꯣꯞꯇꯦꯔꯤꯛ꯭ꯁ
 - 시조새
 has_id_wikidata: Q100196
-main_food_source: '[[_Standards/WikiData/WD~carnivore,81875]]'
-different_from: '[[_Standards/WikiData/WD~Archaeopteris,134691]]'
+main_food_source: '[[_Standards/WikiData/WD~carnivore,81875|WD~carnivore,81875]]'
+different_from: '[[_Standards/WikiData/WD~Archaeopteris,134691|WD~Archaeopteris,134691]]'
 described_by_source:
-- '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
-instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Carl_Friedrich_Häberlein,123555128]]'
+- '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543|WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875|WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604|WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
+instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290|WD~fossil_taxon,23038290]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Carl_Friedrich_Häberlein,123555128|WD~Carl_Friedrich_Häberlein,123555128]]'
 time_of_discovery_or_invention: 1861-01-01T00:00:00Z
-location_of_discovery: '[[_Standards/WikiData/WD~Germany,183]]'
+location_of_discovery: '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
 length: 0.5
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
 Commons_gallery: Archaeopteryx
 Commons_category: Archaeopteryx
 taxon_name: Archaeopteryx
@@ -189,7 +189,7 @@ dv_has_:
 
 # [[Archaeopteryx]] 
 
-![[../../../../../../../../../Bird/Archaeopteryx.jpg]] 
+![[../../../../../../../../../Bird/Archaeopteryx.jpg|Archaeopteryx.jpg]] 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Archaeopteryx,100196|WD~Archaeopteryx,100196]] 
 ## #has_/text_of_/abstract 

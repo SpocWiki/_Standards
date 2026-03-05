@@ -266,18 +266,18 @@ taxon_common_name:
 - Žirafa
 - Girafa
 - Hirapa
-IUCN_conservation_status: '[[_Standards/WikiData/WD~Vulnerable,278113]]'
+IUCN_conservation_status: '[[_Standards/WikiData/WD~Vulnerable,278113|WD~Vulnerable,278113]]'
 described_by_source:
-- '[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_II_of_CITES,2851527]]'
-different_from: '[[_Standards/WikiData/WD~Giraffe,4180503]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
-original_combination: '[[_Standards/WikiData/WD~Cervus_camelopardalis,110259076]]'
+- '[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_II_of_CITES,2851527|WD~Appendix_II_of_CITES,2851527]]'
+different_from: '[[_Standards/WikiData/WD~Giraffe,4180503|WD~Giraffe,4180503]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615|WD~WikiProject_Invasion_Biology,56241615]]'
+original_combination: '[[_Standards/WikiData/WD~Cervus_camelopardalis,110259076|WD~Cervus_camelopardalis,110259076]]'
 taxon_rank:
-- '[[_Standards/WikiData/WD~group_of_subspecies,123575881]]'
-- '[[_Standards/WikiData/WD~species,7432]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~group_of_subspecies,123575881|WD~group_of_subspecies,123575881]]'
+- '[[_Standards/WikiData/WD~species,7432|WD~species,7432]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 litter_size: 1
 heart_rate: 150
 height: 5.5

@@ -86,16 +86,16 @@ aliases:
 - 中性子星
 - 중성자별
 has_id_wikidata: Q4202
-subclass_of: '[[_Standards/WikiData/WD~compact_star,368442]]'
-part_of: '[[_Standards/WikiData/WD~Thorne_Żytkow_object,2296150]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Neutron_star,14402853]]'
+subclass_of: '[[_Standards/WikiData/WD~compact_star,368442|WD~compact_star,368442]]'
+part_of: '[[_Standards/WikiData/WD~Thorne_Żytkow_object,2296150|WD~Thorne_Żytkow_object,2296150]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Neutron_star,14402853|WD~Template_Neutron_star,14402853]]'
 instance_of:
-- '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
-- '[[_Standards/WikiData/WD~astronomical_object,6999]]'
-different_from: '[[_Standards/WikiData/WD~Q25382797,25382797]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
-made_from_material: '[[_Standards/WikiData/WD~Neutron_degenerate_matter,132398961]]'
-studied_by: '[[_Standards/WikiData/WD~astrophysics,37547]]'
+- '[[_Standards/WikiData/WD~astronomical_object_type,17444909|WD~astronomical_object_type,17444909]]'
+- '[[_Standards/WikiData/WD~astronomical_object,6999|WD~astronomical_object,6999]]'
+different_from: '[[_Standards/WikiData/WD~Q25382797,25382797|WD~Q25382797,25382797]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635|WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+made_from_material: '[[_Standards/WikiData/WD~Neutron_degenerate_matter,132398961|WD~Neutron_degenerate_matter,132398961]]'
+studied_by: '[[_Standards/WikiData/WD~astrophysics,37547|WD~astrophysics,37547]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Moving%20heart%20of%20the%20Crab%20Nebula.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Neutron%20star%20collision.ogv
 schematic:
@@ -116,7 +116,7 @@ Krugosvet_article_archived_: nauka_i_tehnika/fizika/NETRONNAYA_ZVEZDA.html
 Commons_category: Neutron stars
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Neutron_star,4202]]'
+  - '[[../../../WikiData/WD~Neutron_star,4202|WD~Neutron_star,4202]]'
   - '[[/_Standards/Astronomy/Star/Star~Class/Neutron_Star|Neutron_Star]]'
   - '[[/_public/Astronomy/Star/Star~Class/Neutron_Star.public|Neutron_Star.public]]'
   - '[[/_internal/Astronomy/Star/Star~Class/Neutron_Star.internal|Neutron_Star.internal]]'
@@ -125,7 +125,7 @@ dv_is_:
   - '[[/_personal/Astronomy/Star/Star~Class/Neutron_Star.personal|Neutron_Star.personal]]'
   - '[[/_secret/Astronomy/Star/Star~Class/Neutron_Star.secret|Neutron_Star.secret]]'
 dv_is_same_as:
-- '[[../../../WikiData/WD~Neutron_star,4202]]'
+- '[[../../../WikiData/WD~Neutron_star,4202|WD~Neutron_star,4202]]'
 - '[[/_Standards/Astronomy/Star/Star~Class/Neutron_Star|Neutron_Star]]'
 - '[[/_public/Astronomy/Star/Star~Class/Neutron_Star.public|Neutron_Star.public]]'
 - '[[/_internal/Astronomy/Star/Star~Class/Neutron_Star.internal|Neutron_Star.internal]]'

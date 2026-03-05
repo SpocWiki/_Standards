@@ -57,15 +57,15 @@ aliases:
 - 누
 has_id_wikidata: Q7609
 title: Connochaetes taurinus
-parent_taxon: '[[_Standards/WikiData/WD~Alcelaphinae,615263]]'
+parent_taxon: '[[_Standards/WikiData/WD~Alcelaphinae,615263|WD~Alcelaphinae,615263]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-endemic_to: '[[_Standards/WikiData/WD~Africa,15]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+endemic_to: '[[_Standards/WikiData/WD~Africa,15|WD~Africa,15]]'
 longest_observed_lifespan: 20
 litter_size: 1.5
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
 period_of_lactation: 7.5
 gestation_period: 8.5
 OmegaWiki_Defined_Meaning: 7294

@@ -46,27 +46,27 @@ aliases:
 - 라마
 has_id_wikidata: Q42569
 described_by_source:
-- '[[../../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-parent_taxon: '[[_Standards/WikiData/WD~Lama,753853]]'
-diel_cycle: '[[_Standards/WikiData/WD~diurnality,4284186]]'
-original_combination: '[[_Standards/WikiData/WD~Camelus_glama,27064352]]'
+- '[[../../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+parent_taxon: '[[_Standards/WikiData/WD~Lama,753853|WD~Lama,753853]]'
+diel_cycle: '[[_Standards/WikiData/WD~diurnality,4284186|WD~diurnality,4284186]]'
+original_combination: '[[_Standards/WikiData/WD~Camelus_glama,27064352|WD~Camelus_glama,27064352]]'
 this_taxon_is_source_of:
-- '[[_Standards/WikiData/WD~llama_fiber,28152302]]'
-- '[[_Standards/WikiData/WD~llama_meat,103822076]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
-subclass_of: '[[_Standards/WikiData/WD~domesticated_mammal,57814795]]'
+- '[[_Standards/WikiData/WD~llama_fiber,28152302|WD~llama_fiber,28152302]]'
+- '[[_Standards/WikiData/WD~llama_meat,103822076|WD~llama_meat,103822076]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615|WD~WikiProject_Invasion_Biology,56241615]]'
+subclass_of: '[[_Standards/WikiData/WD~domesticated_mammal,57814795|WD~domesticated_mammal,57814795]]'
 taxon_range:
-- '[[_Standards/WikiData/WD~Chile,298]]'
-- '[[_Standards/WikiData/WD~Argentina,414]]'
-- '[[_Standards/WikiData/WD~Peru,419]]'
-- '[[_Standards/WikiData/WD~Paraguay,733]]'
-- '[[_Standards/WikiData/WD~Ecuador,736]]'
-- '[[_Standards/WikiData/WD~Bolivia,750]]'
-taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~Chile,298|WD~Chile,298]]'
+- '[[_Standards/WikiData/WD~Argentina,414|WD~Argentina,414]]'
+- '[[_Standards/WikiData/WD~Peru,419|WD~Peru,419]]'
+- '[[_Standards/WikiData/WD~Paraguay,733|WD~Paraguay,733]]'
+- '[[_Standards/WikiData/WD~Ecuador,736|WD~Ecuador,736]]'
+- '[[_Standards/WikiData/WD~Bolivia,750|WD~Bolivia,750]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432|WD~species,7432]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 litter_size: 1
 longest_observed_lifespan: 28.9
 gestation_period: 358

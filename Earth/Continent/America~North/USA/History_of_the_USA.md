@@ -100,25 +100,25 @@ aliases:
 - 美國歷史
 - 미국의 역사
 has_id_wikidata: Q131110
-has_part_s_: '[[_Standards/WikiData/WD~slavery_in_the_United_States,118382]]'
-part_of: '[[_Standards/WikiData/WD~history_of_North_America,149527]]'
-subclass_of: '[[_Standards/WikiData/WD~history_of_North_America,149527]]'
+has_part_s_: '[[_Standards/WikiData/WD~slavery_in_the_United_States,118382|WD~slavery_in_the_United_States,118382]]'
+part_of: '[[_Standards/WikiData/WD~history_of_North_America,149527|WD~history_of_North_America,149527]]'
+subclass_of: '[[_Standards/WikiData/WD~history_of_North_America,149527|WD~history_of_North_America,149527]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-different_from: '[[_Standards/WikiData/WD~history_of_the_Americas,690256]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+different_from: '[[_Standards/WikiData/WD~history_of_the_Americas,690256|WD~history_of_the_Americas,690256]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_US_history,6057743]]'
-- '[[_Standards/WikiData/WD~Template_History_of_the_United_States_sidebar,13227035]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_United_States_history,7112502]]'
-instance_of: '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_American_History,123398653]]'
-is_the_study_of: '[[_Standards/WikiData/WD~history,309]]'
-facet_of: '[[_Standards/WikiData/WD~United_States,30]]'
-country: '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Template_US_history,6057743|WD~Template_US_history,6057743]]'
+- '[[_Standards/WikiData/WD~Template_History_of_the_United_States_sidebar,13227035|WD~Template_History_of_the_United_States_sidebar,13227035]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_United_States_history,7112502|WD~outline_of_United_States_history,7112502]]'
+instance_of: '[[_Standards/WikiData/WD~history_of_a_country_or_state,17544377|WD~history_of_a_country_or_state,17544377]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_American_History,123398653|WD~Portal_American_History,123398653]]'
+is_the_study_of: '[[_Standards/WikiData/WD~history,309|WD~history,309]]'
+facet_of: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+country: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 Dewey_Decimal_Classification: 973
 image: http://commons.wikimedia.org/wiki/Special:FilePath/USA%20territorial%20growth.gif
 Classification_of_Instructional_Programs_code: 54.0102

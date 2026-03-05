@@ -46,10 +46,10 @@ aliases:
 - 대기화학
 has_id_wikidata: Q287919
 subclass_of:
-- '[[_Standards/WikiData/WD~atmospheric_sciences,757520]]'
-- '[[_Standards/WikiData/WD~chemistry,2329]]'
-instance_of: '[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]'
-practiced_by: '[[_Standards/WikiData/WD~atmospheric_chemist,105839787]]'
+- '[[_Standards/WikiData/WD~atmospheric_sciences,757520|WD~atmospheric_sciences,757520]]'
+- '[[_Standards/WikiData/WD~chemistry,2329|WD~chemistry,2329]]'
+instance_of: '[[_Standards/WikiData/WD~branch_of_chemistry,11790203|WD~branch_of_chemistry,11790203]]'
+practiced_by: '[[_Standards/WikiData/WD~atmospheric_chemist,105839787|WD~atmospheric_chemist,105839787]]'
 OmegaWiki_Defined_Meaning: 272
 P8189: 987007295884905200
 Commons_category: Atmospheric chemistry

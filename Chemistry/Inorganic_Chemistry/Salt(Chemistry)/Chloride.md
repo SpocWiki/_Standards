@@ -46,11 +46,11 @@ aliases:
 - ꯀ꯭ꯂꯣꯔꯥꯢꯗ
 - 염화 이온
 has_id_wikidata: Q44791900
-different_from: '[[_Standards/WikiData/WD~chloride_ion,108200]]'
-has_part_s_: '[[_Standards/WikiData/WD~chloride_ion,108200]]'
-subclass_of: '[[_Standards/WikiData/WD~halide,193086]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Chlorides,20690402]]'
-instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
+different_from: '[[_Standards/WikiData/WD~chloride_ion,108200|WD~chloride_ion,108200]]'
+has_part_s_: '[[_Standards/WikiData/WD~chloride_ion,108200|WD~chloride_ion,108200]]'
+subclass_of: '[[_Standards/WikiData/WD~halide,193086|WD~halide,193086]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Chlorides,20690402|WD~Template_Chlorides,20690402]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
 Commons_category: Chlorides
 Common_Procurement_Vocabulary_code: 24312120
 UMLS_CUI:

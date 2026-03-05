@@ -7,9 +7,9 @@ aliases:
 - زنبقیان کروکویدئا
 - 크로커스아과
 has_id_wikidata: Q5187415
-has_fruit_type: '[[_Standards/WikiData/WD~capsule,147768]]'
-taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+has_fruit_type: '[[_Standards/WikiData/WD~capsule,147768|WD~capsule,147768]]'
+taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280|WD~subfamily,164280]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Crocus%20aleppicus%201.JPG
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomyfamily.aspx?type=subfamily&id=2088
 UMLS_CUI: C5073865

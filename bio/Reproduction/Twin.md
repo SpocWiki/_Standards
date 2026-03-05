@@ -113,15 +113,15 @@ aliases:
 - 쌍둥이
 has_id_wikidata: Q159979
 different_from:
-- '[[_Standards/WikiData/WD~two_cylinder_engine,243822]]'
-- '[[_Standards/WikiData/WD~twins,14756018]]'
-- '[[_Standards/WikiData/WD~twin_sibling,131440579]]'
-instance_of: '[[_Standards/WikiData/WD~quality,1207505]]'
-part_of: '[[_Standards/WikiData/WD~twins,14756018]]'
-described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-has_cause: '[[_Standards/WikiData/WD~twin_sibling,131440579]]'
-subclass_of: '[[_Standards/WikiData/WD~multiple_birth,25671]]'
+- '[[_Standards/WikiData/WD~two_cylinder_engine,243822|WD~two_cylinder_engine,243822]]'
+- '[[_Standards/WikiData/WD~twins,14756018|WD~twins,14756018]]'
+- '[[_Standards/WikiData/WD~twin_sibling,131440579|WD~twin_sibling,131440579]]'
+instance_of: '[[_Standards/WikiData/WD~quality,1207505|WD~quality,1207505]]'
+part_of: '[[_Standards/WikiData/WD~twins,14756018|WD~twins,14756018]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
+has_cause: '[[_Standards/WikiData/WD~twin_sibling,131440579|WD~twin_sibling,131440579]]'
+subclass_of: '[[_Standards/WikiData/WD~multiple_birth,25671|WD~multiple_birth,25671]]'
 male_form_of_label:
 - twin brother
 - Zwillingsbruder

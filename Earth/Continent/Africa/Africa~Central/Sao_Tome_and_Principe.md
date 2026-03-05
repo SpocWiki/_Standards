@@ -478,7 +478,7 @@ dv_has_name_en: Sao Tome And Principe
 dv_has_name_de: São Tomé und Príncipe
 dv_Area-Total: 1001
 dv_Area-Land: 960
-dv_has_place_continent: '[[../../Africa]]'
+dv_has_place_continent: '[[../../Africa|Africa]]'
 dv_Alcohol-l: 8.7
 dv_Language-Id: 467
 dv_is_a_: '[[../../../Geography/Place/Administrative_Area/City|City]]'
@@ -495,82 +495,82 @@ dv_is_same_as:
 - '[[/_secret/Earth/Continent/Africa/Africa~Central/Sao_Tome_and_Principe.secret|Sao_Tome_and_Principe.secret]]'
 dv_has_url_for_code_repository: https://github.com/SpocWiki/Africa-Sao_Tome_and_Principe
 instance_of:
-- '[[_Standards/WikiData/WD~island_country,112099]]'
-- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
-- '[[_Standards/WikiData/WD~parliamentary_republic,4198907]]'
-- '[[_Standards/WikiData/WD~archipelagic_state,13107770]]'
-- '[[_Standards/WikiData/WD~country,6256]]'
-- '[[_Standards/WikiData/WD~republic,7270]]'
+- '[[_Standards/WikiData/WD~island_country,112099|WD~island_country,112099]]'
+- '[[_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~parliamentary_republic,4198907|WD~parliamentary_republic,4198907]]'
+- '[[_Standards/WikiData/WD~archipelagic_state,13107770|WD~archipelagic_state,13107770]]'
+- '[[_Standards/WikiData/WD~country,6256|WD~country,6256]]'
+- '[[_Standards/WikiData/WD~republic,7270|WD~republic,7270]]'
 member_of:
-- '[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]'
-- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]'
-- '[[_Standards/WikiData/WD~Community_of_Portuguese_Language_Countries,182500]]'
-- '[[_Standards/WikiData/WD~Economic_Community_of_Central_African_States,189966]]'
-- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
-- '[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]'
-- '[[_Standards/WikiData/WD~African_Development_Bank,340195]]'
-- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]'
-- '[[_Standards/WikiData/WD~Alliance_of_Small_Island_States,496967]]'
-- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
-- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
-- '[[_Standards/WikiData/WD~International_Development_Association,827525]]'
-- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
-- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
-- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
-- '[[_Standards/WikiData/WD~Gulf_of_Guinea_Commission,2986587]]'
-- '[[_Standards/WikiData/WD~AFRISTAT,3348506]]'
-- '[[_Standards/WikiData/WD~United_Nations,1065]]'
-- '[[_Standards/WikiData/WD~African_Union,7159]]'
-- '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
-- '[[_Standards/WikiData/WD~Interpol,8475]]'
-- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
-flag: '[[_Standards/WikiData/WD~flag_of_São_Tomé_and_Príncipe,169907]]'
-coat_of_arms: '[[_Standards/WikiData/WD~Coat_of_arms_of_São_Tomé_and_Príncipe,244996]]'
+- '[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102|WD~Organisation_internationale_de_la_Francophonie,134102]]'
+- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
+- '[[_Standards/WikiData/WD~Community_of_Portuguese_Language_Countries,182500|WD~Community_of_Portuguese_Language_Countries,182500]]'
+- '[[_Standards/WikiData/WD~Economic_Community_of_Central_African_States,189966|WD~Economic_Community_of_Central_African_States,189966]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278|WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]'
+- '[[_Standards/WikiData/WD~African_Development_Bank,340195|WD~African_Development_Bank,340195]]'
+- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150|WD~International_Telecommunication_Union,376150]]'
+- '[[_Standards/WikiData/WD~Alliance_of_Small_Island_States,496967|WD~Alliance_of_Small_Island_States,496967]]'
+- '[[_Standards/WikiData/WD~World_Customs_Organization,605326|WD~World_Customs_Organization,605326]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801|WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~International_Development_Association,827525|WD~International_Development_Association,827525]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490|WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770|WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
+- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527|WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[_Standards/WikiData/WD~Gulf_of_Guinea_Commission,2986587|WD~Gulf_of_Guinea_Commission,2986587]]'
+- '[[_Standards/WikiData/WD~AFRISTAT,3348506|WD~AFRISTAT,3348506]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~African_Union,7159|WD~African_Union,7159]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809|WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817|WD~World_Health_Organization,7817]]'
+- '[[_Standards/WikiData/WD~Interpol,8475|WD~Interpol,8475]]'
+- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495|WD~Universal_Postal_Union_UPU,17495]]'
+flag: '[[_Standards/WikiData/WD~flag_of_São_Tomé_and_Príncipe,169907|WD~flag_of_São_Tomé_and_Príncipe,169907]]'
+coat_of_arms: '[[_Standards/WikiData/WD~Coat_of_arms_of_São_Tomé_and_Príncipe,244996|WD~Coat_of_arms_of_São_Tomé_and_Príncipe,244996]]'
 contains_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Água_Grande,249742]]'
-- '[[_Standards/WikiData/WD~Lembá,785367]]'
-- '[[_Standards/WikiData/WD~Cantagalo,1033696]]'
-- '[[_Standards/WikiData/WD~Caué,1051692]]'
-- '[[_Standards/WikiData/WD~Lobata,1139384]]'
-- '[[_Standards/WikiData/WD~Mé-Zóchi,1139407]]'
-- '[[_Standards/WikiData/WD~Príncipe_Autonomous_Region,2366966]]'
-- '[[_Standards/WikiData/WD~São_Tomé_Province,6710363]]'
-geography_of_topic: '[[_Standards/WikiData/WD~geography_of_São_Tomé_and_Príncipe,428787]]'
-head_of_government: '[[_Standards/WikiData/WD~Patrice_Trovoada,459822]]'
-anthem: '[[_Standards/WikiData/WD~Independência_total,602433]]'
+- '[[_Standards/WikiData/WD~Água_Grande,249742|WD~Água_Grande,249742]]'
+- '[[_Standards/WikiData/WD~Lembá,785367|WD~Lembá,785367]]'
+- '[[_Standards/WikiData/WD~Cantagalo,1033696|WD~Cantagalo,1033696]]'
+- '[[_Standards/WikiData/WD~Caué,1051692|WD~Caué,1051692]]'
+- '[[_Standards/WikiData/WD~Lobata,1139384|WD~Lobata,1139384]]'
+- '[[_Standards/WikiData/WD~Mé-Zóchi,1139407|WD~Mé-Zóchi,1139407]]'
+- '[[_Standards/WikiData/WD~Príncipe_Autonomous_Region,2366966|WD~Príncipe_Autonomous_Region,2366966]]'
+- '[[_Standards/WikiData/WD~São_Tomé_Province,6710363|WD~São_Tomé_Province,6710363]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_São_Tomé_and_Príncipe,428787|WD~geography_of_São_Tomé_and_Príncipe,428787]]'
+head_of_government: '[[_Standards/WikiData/WD~Patrice_Trovoada,459822|WD~Patrice_Trovoada,459822]]'
+anthem: '[[_Standards/WikiData/WD~Independência_total,602433|WD~Independência_total,602433]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Enciclopedia_Treccani,731361]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_São_Tomé_and_Príncipe,920907]]'
+- '[[_Standards/WikiData/WD~Enciclopedia_Treccani,731361|WD~Enciclopedia_Treccani,731361]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637|WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_São_Tomé_and_Príncipe,920907|WD~history_of_São_Tomé_and_Príncipe,920907]]'
 electrical_plug_type:
-- '[[_Standards/WikiData/WD~Schuko,1123613]]'
-- '[[_Standards/WikiData/WD~Europlug,1378312]]'
-economy_of_topic: '[[_Standards/WikiData/WD~economy_of_São_Tomé_and_Príncipe,1194769]]'
-legislative_body: '[[_Standards/WikiData/WD~Asamblea_Nacional_de_Santo_Tomé_y_Príncipe,1267064]]'
-culture: '[[_Standards/WikiData/WD~culture_of_São_Tomé_and_Príncipe,1315203]]'
+- '[[_Standards/WikiData/WD~Schuko,1123613|WD~Schuko,1123613]]'
+- '[[_Standards/WikiData/WD~Europlug,1378312|WD~Europlug,1378312]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_São_Tomé_and_Príncipe,1194769|WD~economy_of_São_Tomé_and_Príncipe,1194769]]'
+legislative_body: '[[_Standards/WikiData/WD~Asamblea_Nacional_de_Santo_Tomé_y_Príncipe,1267064|WD~Asamblea_Nacional_de_Santo_Tomé_y_Príncipe,1267064]]'
+culture: '[[_Standards/WikiData/WD~culture_of_São_Tomé_and_Príncipe,1315203|WD~culture_of_São_Tomé_and_Príncipe,1315203]]'
 part_of:
-- '[[_Standards/WikiData/WD~Portuguese-speaking_African_countries,1360686]]'
-- '[[_Standards/WikiData/WD~West_Africa,4412]]'
-- '[[_Standards/WikiData/WD~Central_Africa,27433]]'
-highest_point: '[[_Standards/WikiData/WD~Pico_de_São_Tomé,1471391]]'
-central_bank: '[[_Standards/WikiData/WD~Central_Bank_of_São_Tomé_and_Príncipe,2679982]]'
-demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_São_Tomé_and_Príncipe,2745885]]'
-has_characteristic: '[[_Standards/WikiData/WD~free_country,3174312]]'
+- '[[_Standards/WikiData/WD~Portuguese-speaking_African_countries,1360686|WD~Portuguese-speaking_African_countries,1360686]]'
+- '[[_Standards/WikiData/WD~West_Africa,4412|WD~West_Africa,4412]]'
+- '[[_Standards/WikiData/WD~Central_Africa,27433|WD~Central_Africa,27433]]'
+highest_point: '[[_Standards/WikiData/WD~Pico_de_São_Tomé,1471391|WD~Pico_de_São_Tomé,1471391]]'
+central_bank: '[[_Standards/WikiData/WD~Central_Bank_of_São_Tomé_and_Príncipe,2679982|WD~Central_Bank_of_São_Tomé_and_Príncipe,2679982]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_São_Tomé_and_Príncipe,2745885|WD~demographics_of_São_Tomé_and_Príncipe,2745885]]'
+has_characteristic: '[[_Standards/WikiData/WD~free_country,3174312|WD~free_country,3174312]]'
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~Africa_Sao_Tome,4689522]]'
-- '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_São_Tomé_and_Príncipe,7112474]]'
-replaces: '[[_Standards/WikiData/WD~Portuguese_São_Tomé_and_Príncipe,7232692]]'
-category_for_people_born_here: '[[_Standards/WikiData/WD~Q9480941,9480941]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_São_Tomé_and_Príncipe,11294152]]'
-driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-executive_body: '[[_Standards/WikiData/WD~government_of_São_Tomé_and_Príncipe,18125240]]'
-office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_São_Tomé_and_Príncipe,19058289]]'
-office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_São_Tomé_and_Príncipe,20551579]]'
-head_of_state: '[[_Standards/WikiData/WD~Carlos_Vila_Nova,27982047]]'
+- '[[_Standards/WikiData/WD~Africa_Sao_Tome,4689522|WD~Africa_Sao_Tome,4689522]]'
+- '[[_Standards/WikiData/WD~UTC_00_00,6574|WD~UTC_00_00,6574]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_São_Tomé_and_Príncipe,7112474|WD~outline_of_São_Tomé_and_Príncipe,7112474]]'
+replaces: '[[_Standards/WikiData/WD~Portuguese_São_Tomé_and_Príncipe,7232692|WD~Portuguese_São_Tomé_and_Príncipe,7232692]]'
+category_for_people_born_here: '[[_Standards/WikiData/WD~Q9480941,9480941|WD~Q9480941,9480941]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_São_Tomé_and_Príncipe,11294152|WD~Portal_São_Tomé_and_Príncipe,11294152]]'
+driving_side: '[[_Standards/WikiData/WD~right,14565199|WD~right,14565199]]'
+executive_body: '[[_Standards/WikiData/WD~government_of_São_Tomé_and_Príncipe,18125240|WD~government_of_São_Tomé_and_Príncipe,18125240]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_São_Tomé_and_Príncipe,19058289|WD~President_of_São_Tomé_and_Príncipe,19058289]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_São_Tomé_and_Príncipe,20551579|WD~Prime_Minister_of_São_Tomé_and_Príncipe,20551579]]'
+head_of_state: '[[_Standards/WikiData/WD~Carlos_Vila_Nova,27982047|WD~Carlos_Vila_Nova,27982047]]'
 demonym:
 - سانطومي
 - سانطومية
@@ -604,31 +604,31 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/S%C3%A3o%20Tom%C3%A9%2
 coordinates_of_westernmost_point: Point(6.460611111 0.244777777)
 coordinates_of_southernmost_point: Point(6.523361111 -0.013277777)
 diplomatic_relation:
-- '[[_Standards/WikiData/WD~North_Korea,423]]'
-- '[[_Standards/WikiData/WD~Taiwan,865]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~Portugal,45]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~North_Korea,423|WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Portugal,45|WD~Portugal,45]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
 shares_border_with:
-- '[[_Standards/WikiData/WD~Equatorial_Guinea,983]]'
-- '[[_Standards/WikiData/WD~Gabon,1000]]'
-- '[[_Standards/WikiData/WD~Nigeria,1033]]'
-country: '[[_Standards/WikiData/WD~São_Tomé_and_Príncipe,1039]]'
-capital: '[[_Standards/WikiData/WD~São_Tomé,3932]]'
+- '[[_Standards/WikiData/WD~Equatorial_Guinea,983|WD~Equatorial_Guinea,983]]'
+- '[[_Standards/WikiData/WD~Gabon,1000|WD~Gabon,1000]]'
+- '[[_Standards/WikiData/WD~Nigeria,1033|WD~Nigeria,1033]]'
+country: '[[_Standards/WikiData/WD~São_Tomé_and_Príncipe,1039|WD~São_Tomé_and_Príncipe,1039]]'
+capital: '[[_Standards/WikiData/WD~São_Tomé,3932|WD~São_Tomé,3932]]'
 language_used:
-- '[[_Standards/WikiData/WD~Portuguese,5146]]'
-- '[[_Standards/WikiData/WD~Angolar,34994]]'
-- '[[_Standards/WikiData/WD~Principense,36520]]'
-- '[[_Standards/WikiData/WD~Forro_Creole,36536]]'
-official_language: '[[_Standards/WikiData/WD~Portuguese,5146]]'
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~Central_Africa,27433]]'
-continent: '[[_Standards/WikiData/WD~Africa,15]]'
-lowest_point: '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
-located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
+- '[[_Standards/WikiData/WD~Portuguese,5146|WD~Portuguese,5146]]'
+- '[[_Standards/WikiData/WD~Angolar,34994|WD~Angolar,34994]]'
+- '[[_Standards/WikiData/WD~Principense,36520|WD~Principense,36520]]'
+- '[[_Standards/WikiData/WD~Forro_Creole,36536|WD~Forro_Creole,36536]]'
+official_language: '[[_Standards/WikiData/WD~Portuguese,5146|WD~Portuguese,5146]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Central_Africa,27433|WD~Central_Africa,27433]]'
+continent: '[[_Standards/WikiData/WD~Africa,15|WD~Africa,15]]'
+lowest_point: '[[_Standards/WikiData/WD~Atlantic_Ocean,97|WD~Atlantic_Ocean,97]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Atlantic_Ocean,97|WD~Atlantic_Ocean,97]]'
 marriageable_age: 18
 mains_voltage: 220
-top_level_Internet_domain: '[[_Standards/WikiData/WD~.st,43772]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.st,43772|WD~.st,43772]]'
 Gini_coefficient: 40.7
 Inequality_adjusted_Human_Development_Index: 0.503
 Human_Development_Index: 0.618
@@ -740,7 +740,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Sao_Tome_and_Principe/ReadMe]] 
+[[Sao_Tome_and_Principe/ReadMe|ReadMe]] 
 
 ## #has_/map 
 
@@ -762,7 +762,7 @@ Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 ![[Coat_of_arms_of_Sao-tome-and-principe.svg|350]]
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Sao-tome-and-principe.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Sao-tome-and-principe.mp3|Anthem-Sao-tome-and-principe.mp3]]
 ![[Flag_of_Sao-tome-and-principe.svg|350]]
 [VehicleCode::]
 [Capital-Id::]

@@ -184,30 +184,30 @@ taxon_common_name:
 - Poisson rouge
 - Gold carp
 - Gullfisk
-uses: '[[_Standards/WikiData/WD~pheromone,167377]]'
-IUCN_conservation_status: '[[_Standards/WikiData/WD~Least_Concern,211005]]'
-parent_taxon: '[[_Standards/WikiData/WD~Carassius,237800]]'
+uses: '[[_Standards/WikiData/WD~pheromone,167377|WD~pheromone,167377]]'
+IUCN_conservation_status: '[[_Standards/WikiData/WD~Least_Concern,211005|WD~Least_Concern,211005]]'
+parent_taxon: '[[_Standards/WikiData/WD~Carassius,237800|WD~Carassius,237800]]'
 described_by_source:
-- '[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~aquarium_fish,1448518]]'
-different_from: '[[_Standards/WikiData/WD~Carassius_auratus_auratus,13586001]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
-Status_in_the_Red_List_of_Threatened_Species_in_the_Czech_Republic: '[[_Standards/WikiData/WD~not_applicable,56660253]]'
-award_received: '[[_Standards/WikiData/WD~Alien_of_the_Year,59874768]]'
+- '[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~aquarium_fish,1448518|WD~aquarium_fish,1448518]]'
+different_from: '[[_Standards/WikiData/WD~Carassius_auratus_auratus,13586001|WD~Carassius_auratus_auratus,13586001]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615|WD~WikiProject_Invasion_Biology,56241615]]'
+Status_in_the_Red_List_of_Threatened_Species_in_the_Czech_Republic: '[[_Standards/WikiData/WD~not_applicable,56660253|WD~not_applicable,56660253]]'
+award_received: '[[_Standards/WikiData/WD~Alien_of_the_Year,59874768|WD~Alien_of_the_Year,59874768]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~pet_fish,74744464]]'
-- '[[_Standards/WikiData/WD~pet,39201]]'
-NZTCS_conservation_status: '[[_Standards/WikiData/WD~introduced_and_naturalised,108448612]]'
-invasive_to: '[[_Standards/WikiData/WD~Australia,408]]'
-taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~pet_fish,74744464|WD~pet_fish,74744464]]'
+- '[[_Standards/WikiData/WD~pet,39201|WD~pet,39201]]'
+NZTCS_conservation_status: '[[_Standards/WikiData/WD~introduced_and_naturalised,108448612|WD~introduced_and_naturalised,108448612]]'
+invasive_to: '[[_Standards/WikiData/WD~Australia,408|WD~Australia,408]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432|WD~species,7432]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 taxon_range:
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Brazil,155]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Brazil,155|WD~Brazil,155]]'
 minimum_frequency_of_audible_sound: 20
 maximum_frequency_of_audible_sound: 3000
 ITIS_TSN: 163350

@@ -30,11 +30,11 @@ aliases:
 - 나노
 has_id_wikidata: Q154357
 instance_of:
-- '[[_Standards/WikiData/WD~SI_prefix,131299]]'
-- '[[_Standards/WikiData/WD~UCUM_prefix,83155725]]'
-followed_by: '[[_Standards/WikiData/WD~micro,154121]]'
-follows: '[[_Standards/WikiData/WD~pico_,154341]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~SI_prefix,131299|WD~SI_prefix,131299]]'
+- '[[_Standards/WikiData/WD~UCUM_prefix,83155725|WD~UCUM_prefix,83155725]]'
+followed_by: '[[_Standards/WikiData/WD~micro,154121|WD~micro,154121]]'
+follows: '[[_Standards/WikiData/WD~pico_,154341|WD~pico_,154341]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 numeric_value: 1e-9
 Commons_category: Nano
 UCUM_code: n
@@ -140,7 +140,7 @@ dv_has_:
 
 # [[Unit~nano]]  
 
-#is_/same_as :: [[_Standards/WikiData/WD~nano,154357]] 
+#is_/same_as :: [[_Standards/WikiData/WD~nano,154357|WD~nano,154357]] 
 
 
 ## Confidential Links & Embeds: 

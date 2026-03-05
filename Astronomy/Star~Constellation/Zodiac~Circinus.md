@@ -67,24 +67,24 @@ isReadOnly: false
 tags:
 - astro/Zodiac
 type: Zodiac
-named_after: '[[_Standards/WikiData/WD~compass,103896]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Nicolas_Louis_de_Lacaille,202703]]'
+named_after: '[[_Standards/WikiData/WD~compass,103896|WD~compass,103896]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Nicolas_Louis_de_Lacaille,202703|WD~Nicolas_Louis_de_Lacaille,202703]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-part_of: '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+part_of: '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815|WD~Southern_Celestial_Hemisphere,2380815]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Q10729056,10729056]]'
-- '[[_Standards/WikiData/WD~Template_Stars_of_Circinus,14336013]]'
+- '[[_Standards/WikiData/WD~Q10729056,10729056|WD~Q10729056,10729056]]'
+- '[[_Standards/WikiData/WD~Template_Stars_of_Circinus,14336013|WD~Template_Stars_of_Circinus,14336013]]'
 time_of_discovery_or_invention: 1756-01-01T00:00:00Z
 shares_border_with:
-- '[[_Standards/WikiData/WD~Centaurus,8844]]'
-- '[[_Standards/WikiData/WD~Triangulum_Australe,10422]]'
-- '[[_Standards/WikiData/WD~Musca,10435]]'
-- '[[_Standards/WikiData/WD~Apus,10506]]'
-- '[[_Standards/WikiData/WD~Lupus,10571]]'
-- '[[_Standards/WikiData/WD~Norma,10582]]'
-instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
+- '[[_Standards/WikiData/WD~Centaurus,8844|WD~Centaurus,8844]]'
+- '[[_Standards/WikiData/WD~Triangulum_Australe,10422|WD~Triangulum_Australe,10422]]'
+- '[[_Standards/WikiData/WD~Musca,10435|WD~Musca,10435]]'
+- '[[_Standards/WikiData/WD~Apus,10506|WD~Apus,10506]]'
+- '[[_Standards/WikiData/WD~Lupus,10571|WD~Lupus,10571]]'
+- '[[_Standards/WikiData/WD~Norma,10582|WD~Norma,10582]]'
+instance_of: '[[_Standards/WikiData/WD~constellation,8928|WD~constellation,8928]]'
 area: 93
 official_name: Circinus
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Circinus%20constellation%20map.svg
@@ -181,7 +181,7 @@ dv_has_:
     zh: 圆规座
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Circinus,10508]]'
+  - '[[_Standards/WikiData/WD~Circinus,10508|WD~Circinus,10508]]'
   - '[[/_Standards/Astronomy/Star~Constellation/Zodiac~Circinus|Zodiac~Circinus]]'
   - '[[/_public/Astronomy/Star~Constellation/Zodiac~Circinus.public|Zodiac~Circinus.public]]'
   - '[[/_internal/Astronomy/Star~Constellation/Zodiac~Circinus.internal|Zodiac~Circinus.internal]]'
@@ -193,7 +193,7 @@ dv_has_name_la: Circinus
 dv_has_name_la_genitive: Circini
 dv_has_name_de: Zirkel
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Circinus,10508]]'
+- '[[_Standards/WikiData/WD~Circinus,10508|WD~Circinus,10508]]'
 - '[[/_Standards/Astronomy/Star~Constellation/Zodiac~Circinus|Zodiac~Circinus]]'
 - '[[/_public/Astronomy/Star~Constellation/Zodiac~Circinus.public|Zodiac~Circinus.public]]'
 - '[[/_internal/Astronomy/Star~Constellation/Zodiac~Circinus.internal|Zodiac~Circinus.internal]]'
@@ -211,7 +211,7 @@ has_name_la = `=this.dv_has_name_la`
 has_name_la_genitive = `=this.dv_has_name_la_genitive` 
 has_name_de = `=this.dv_has_name_de` 
 
-#is_/same_as ::  [[_Standards/WikiData/WD~Circinus,10508]] 
+#is_/same_as ::  [[_Standards/WikiData/WD~Circinus,10508|WD~Circinus,10508]] 
 
 ## #has_/text_of_/abstract 
 

@@ -70,16 +70,16 @@ aliases:
 - 밀림
 has_id_wikidata: Q191086
 subclass_of:
-- '[[_Standards/WikiData/WD~region,82794]]'
-- '[[_Standards/WikiData/WD~forest,4421]]'
+- '[[_Standards/WikiData/WD~region,82794|WD~region,82794]]'
+- '[[_Standards/WikiData/WD~forest,4421|WD~forest,4421]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636|WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
 instance_of:
-- '[[_Standards/WikiData/WD~vegetational_formation,2083910]]'
-- '[[_Standards/WikiData/WD~ecosystem,37813]]'
-- '[[_Standards/WikiData/WD~habitat,52105]]'
-different_from: '[[_Standards/WikiData/WD~Q27466065,27466065]]'
+- '[[_Standards/WikiData/WD~vegetational_formation,2083910|WD~vegetational_formation,2083910]]'
+- '[[_Standards/WikiData/WD~ecosystem,37813|WD~ecosystem,37813]]'
+- '[[_Standards/WikiData/WD~habitat,52105|WD~habitat,52105]]'
+different_from: '[[_Standards/WikiData/WD~Q27466065,27466065|WD~Q27466065,27466065]]'
 Commons_category: Jungles
 IMDb_keyword: jungle
 OmegaWiki_Defined_Meaning: 701018

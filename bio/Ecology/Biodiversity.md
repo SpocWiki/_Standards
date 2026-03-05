@@ -99,26 +99,26 @@ aliases:
 - 생물 다양성
 has_id_wikidata: Q47041
 has_part_s_:
-- '[[_Standards/WikiData/WD~species_diversity,706937]]'
-- '[[_Standards/WikiData/WD~ecosystem_diversity,842388]]'
-- '[[_Standards/WikiData/WD~genetic_variability,1374271]]'
-different_from: '[[_Standards/WikiData/WD~biocomplexity,3324096]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Biodiversity,6718996]]'
+- '[[_Standards/WikiData/WD~species_diversity,706937|WD~species_diversity,706937]]'
+- '[[_Standards/WikiData/WD~ecosystem_diversity,842388|WD~ecosystem_diversity,842388]]'
+- '[[_Standards/WikiData/WD~genetic_variability,1374271|WD~genetic_variability,1374271]]'
+different_from: '[[_Standards/WikiData/WD~biocomplexity,3324096|WD~biocomplexity,3324096]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Biodiversity,6718996|WD~Template_Biodiversity,6718996]]'
 named_after:
-- '[[_Standards/WikiData/WD~bio_,11909402]]'
-- '[[_Standards/WikiData/WD~diversity,36793538]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+- '[[_Standards/WikiData/WD~bio_,11909402|WD~bio_,11909402]]'
+- '[[_Standards/WikiData/WD~diversity,36793538|WD~diversity,36793538]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047|WD~WikiProject_Climate_change,15305047]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopedia_of_Global_Justice,21002838]]'
-- '[[_Standards/WikiData/WD~Dictionary_of_Common_Goods,120799836]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Global_Justice,21002838|WD~Encyclopedia_of_Global_Justice,21002838]]'
+- '[[_Standards/WikiData/WD~Dictionary_of_Common_Goods,120799836|WD~Dictionary_of_Common_Goods,120799836]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~diversity,36793538]]'
-- '[[_Standards/WikiData/WD~biology,420]]'
+- '[[_Standards/WikiData/WD~diversity,36793538|WD~diversity,36793538]]'
+- '[[_Standards/WikiData/WD~biology,420|WD~biology,420]]'
 relates_to_sustainable_development_goal_target_or_indicator:
-- '[[_Standards/WikiData/WD~Sustainable_Development_Goal_15,53581245]]'
-- '[[_Standards/WikiData/WD~Target_15.5_of_the_Sustainable_Development_Goals,57590909]]'
-- '[[_Standards/WikiData/WD~Target_15.9_of_the_Sustainable_Development_Goals,57590914]]'
-studied_by: '[[_Standards/WikiData/WD~biodiversity_science,111325032]]'
+- '[[_Standards/WikiData/WD~Sustainable_Development_Goal_15,53581245|WD~Sustainable_Development_Goal_15,53581245]]'
+- '[[_Standards/WikiData/WD~Target_15.5_of_the_Sustainable_Development_Goals,57590909|WD~Target_15.5_of_the_Sustainable_Development_Goals,57590909]]'
+- '[[_Standards/WikiData/WD~Target_15.9_of_the_Sustainable_Development_Goals,57590914|WD~Target_15.9_of_the_Sustainable_Development_Goals,57590914]]'
+studied_by: '[[_Standards/WikiData/WD~biodiversity_science,111325032|WD~biodiversity_science,111325032]]'
 OmegaWiki_Defined_Meaning: 359
 Commons_category: Biodiversity
 pronunciation_audio:

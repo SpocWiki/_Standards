@@ -65,26 +65,26 @@ tags:
 - astro/Zodiac
 type: Zodiac
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Nicolas_Louis_de_Lacaille,202703]]'
-- '[[_Standards/WikiData/WD~Petrus_Plancius,333534]]'
-named_after: '[[_Standards/WikiData/WD~fly,859257]]'
-part_of: '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]'
+- '[[_Standards/WikiData/WD~Nicolas_Louis_de_Lacaille,202703|WD~Nicolas_Louis_de_Lacaille,202703]]'
+- '[[_Standards/WikiData/WD~Petrus_Plancius,333534|WD~Petrus_Plancius,333534]]'
+named_after: '[[_Standards/WikiData/WD~fly,859257|WD~fly,859257]]'
+part_of: '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815|WD~Southern_Celestial_Hemisphere,2380815]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Q10729083,10729083]]'
-- '[[_Standards/WikiData/WD~Template_Musca,10857924]]'
+- '[[_Standards/WikiData/WD~Q10729083,10729083|WD~Q10729083,10729083]]'
+- '[[_Standards/WikiData/WD~Template_Musca,10857924|WD~Template_Musca,10857924]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Musca,105280294]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Musca,105280294|WD~Musca,105280294]]'
 time_of_discovery_or_invention: 1756-01-01T00:00:00Z
 shares_border_with:
-- '[[_Standards/WikiData/WD~Centaurus,8844]]'
-- '[[_Standards/WikiData/WD~Chamaeleon,10457]]'
-- '[[_Standards/WikiData/WD~Carina,10470]]'
-- '[[_Standards/WikiData/WD~Apus,10506]]'
-- '[[_Standards/WikiData/WD~Circinus,10508]]'
-- '[[_Standards/WikiData/WD~Crux,10542]]'
-instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
+- '[[_Standards/WikiData/WD~Centaurus,8844|WD~Centaurus,8844]]'
+- '[[_Standards/WikiData/WD~Chamaeleon,10457|WD~Chamaeleon,10457]]'
+- '[[_Standards/WikiData/WD~Carina,10470|WD~Carina,10470]]'
+- '[[_Standards/WikiData/WD~Apus,10506|WD~Apus,10506]]'
+- '[[_Standards/WikiData/WD~Circinus,10508|WD~Circinus,10508]]'
+- '[[_Standards/WikiData/WD~Crux,10542|WD~Crux,10542]]'
+instance_of: '[[_Standards/WikiData/WD~constellation,8928|WD~constellation,8928]]'
 area: 138
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Constellation%20Musca.jpg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Musca%20constellation%20map.svg
@@ -182,7 +182,7 @@ dv_has_:
     zh: 苍蝇座
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Musca,10435]]'
+  - '[[_Standards/WikiData/WD~Musca,10435|WD~Musca,10435]]'
   - '[[/_Standards/Astronomy/Star~Constellation/Zodiac~Musca|Zodiac~Musca]]'
   - '[[/_public/Astronomy/Star~Constellation/Zodiac~Musca.public|Zodiac~Musca.public]]'
   - '[[/_internal/Astronomy/Star~Constellation/Zodiac~Musca.internal|Zodiac~Musca.internal]]'
@@ -194,7 +194,7 @@ dv_has_name_la: Musca
 dv_has_name_la_genitive: Muscae
 dv_has_name_de: Fliege
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Musca,10435]]'
+- '[[_Standards/WikiData/WD~Musca,10435|WD~Musca,10435]]'
 - '[[/_Standards/Astronomy/Star~Constellation/Zodiac~Musca|Zodiac~Musca]]'
 - '[[/_public/Astronomy/Star~Constellation/Zodiac~Musca.public|Zodiac~Musca.public]]'
 - '[[/_internal/Astronomy/Star~Constellation/Zodiac~Musca.internal|Zodiac~Musca.internal]]'
@@ -212,7 +212,7 @@ has_name_la = `=this.dv_has_name_la`
 has_name_la_genitive = `=this.dv_has_name_la_genitive` 
 has_name_de = `=this.dv_has_name_de` 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Musca,10435]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Musca,10435|WD~Musca,10435]] 
 
 
 ## Confidential Links & Embeds: 

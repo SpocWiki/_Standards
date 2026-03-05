@@ -61,23 +61,23 @@ aliases:
 - 안락사
 has_id_wikidata: Q100159
 different_from:
-- '[[_Standards/WikiData/WD~assisted_suicide,689846]]'
-- '[[_Standards/WikiData/WD~assisted_dying,101874706]]'
-has_goal: '[[_Standards/WikiData/WD~prevention,1717246]]'
+- '[[_Standards/WikiData/WD~assisted_suicide,689846|WD~assisted_suicide,689846]]'
+- '[[_Standards/WikiData/WD~assisted_dying,101874706|WD~assisted_dying,101874706]]'
+has_goal: '[[_Standards/WikiData/WD~prevention,1717246|WD~prevention,1717246]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
-connects_with: '[[_Standards/WikiData/WD~right_to_die,2044946]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072|WD~Red_Blue_Translator,131935072]]'
+connects_with: '[[_Standards/WikiData/WD~right_to_die,2044946|WD~right_to_die,2044946]]'
 instance_of:
-- '[[_Standards/WikiData/WD~manner_of_death,2438541]]'
-- '[[_Standards/WikiData/WD~end_of_life_decision_making,110418604]]'
-practiced_by: '[[_Standards/WikiData/WD~Accabadora,3742379]]'
+- '[[_Standards/WikiData/WD~manner_of_death,2438541|WD~manner_of_death,2438541]]'
+- '[[_Standards/WikiData/WD~end_of_life_decision_making,110418604|WD~end_of_life_decision_making,110418604]]'
+practiced_by: '[[_Standards/WikiData/WD~Accabadora,3742379|WD~Accabadora,3742379]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~medical_practice,4117999]]'
-- '[[_Standards/WikiData/WD~assisted_dying,101874706]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~dignified_death,5276322]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Euthanasia,14403131]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Death,15884704]]'
+- '[[_Standards/WikiData/WD~medical_practice,4117999|WD~medical_practice,4117999]]'
+- '[[_Standards/WikiData/WD~assisted_dying,101874706|WD~assisted_dying,101874706]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~dignified_death,5276322|WD~dignified_death,5276322]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Euthanasia,14403131|WD~Template_Euthanasia,14403131]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Death,15884704|WD~WikiProject_Death,15884704]]'
 OmegaWiki_Defined_Meaning: 471979
 video: http://commons.wikimedia.org/wiki/Special:FilePath/%282-5%29%20Wanneer%20mag%20je%20iemand%20helpen%20met%20doodgaan-.webm
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Intracardial-injection-rat.JPG

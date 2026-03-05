@@ -106,30 +106,30 @@ aliases:
 - 오염
 has_id_wikidata: Q58734
 has_effect:
-- '[[_Standards/WikiData/WD~extinction,123509]]'
-- '[[_Standards/WikiData/WD~climate_change,125928]]'
-- '[[_Standards/WikiData/WD~respiratory_disease,3286546]]'
-- '[[_Standards/WikiData/WD~acid_rain,40178]]'
+- '[[_Standards/WikiData/WD~extinction,123509|WD~extinction,123509]]'
+- '[[_Standards/WikiData/WD~climate_change,125928|WD~climate_change,125928]]'
+- '[[_Standards/WikiData/WD~respiratory_disease,3286546|WD~respiratory_disease,3286546]]'
+- '[[_Standards/WikiData/WD~acid_rain,40178|WD~acid_rain,40178]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~externality,275372]]'
-- '[[_Standards/WikiData/WD~unintended_consequences,1135789]]'
-- '[[_Standards/WikiData/WD~environmental_issue,2144359]]'
+- '[[_Standards/WikiData/WD~externality,275372|WD~externality,275372]]'
+- '[[_Standards/WikiData/WD~unintended_consequences,1135789|WD~unintended_consequences,1135789]]'
+- '[[_Standards/WikiData/WD~environmental_issue,2144359|WD~environmental_issue,2144359]]'
 contributing_factor_of:
-- '[[_Standards/WikiData/WD~environmental_degradation,1334780]]'
-- '[[_Standards/WikiData/WD~biodiversity_loss,18466271]]'
+- '[[_Standards/WikiData/WD~environmental_degradation,1334780|WD~environmental_degradation,1334780]]'
+- '[[_Standards/WikiData/WD~biodiversity_loss,18466271|WD~biodiversity_loss,18466271]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Pollution,6927454]]'
-- '[[_Standards/WikiData/WD~Template_Pollution_sidebar,108636103]]'
+- '[[_Standards/WikiData/WD~Template_Pollution,6927454|WD~Template_Pollution,6927454]]'
+- '[[_Standards/WikiData/WD~Template_Pollution_sidebar,108636103|WD~Template_Pollution_sidebar,108636103]]'
 handled_mitigated_or_managed_by:
-- '[[_Standards/WikiData/WD~pollution_prevention,7225750]]'
-- '[[_Standards/WikiData/WD~pollution_control,110583046]]'
-different_from: '[[_Standards/WikiData/WD~pollutant,19829510]]'
-has_cause: '[[_Standards/WikiData/WD~pollutant,19829510]]'
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-relates_to_sustainable_development_goal_target_or_indicator: '[[_Standards/WikiData/WD~Target_3.9_of_the_Sustainable_Development_Goals,57590766]]'
-described_by_source: '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
-studied_by: '[[_Standards/WikiData/WD~pollution_and_contamination,113043256]]'
-has_characteristic: '[[_Standards/WikiData/WD~type_of_pollution,129676813]]'
+- '[[_Standards/WikiData/WD~pollution_prevention,7225750|WD~pollution_prevention,7225750]]'
+- '[[_Standards/WikiData/WD~pollution_control,110583046|WD~pollution_control,110583046]]'
+different_from: '[[_Standards/WikiData/WD~pollutant,19829510|WD~pollutant,19829510]]'
+has_cause: '[[_Standards/WikiData/WD~pollutant,19829510|WD~pollutant,19829510]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
+relates_to_sustainable_development_goal_target_or_indicator: '[[_Standards/WikiData/WD~Target_3.9_of_the_Sustainable_Development_Goals,57590766|WD~Target_3.9_of_the_Sustainable_Development_Goals,57590766]]'
+described_by_source: '[[_Standards/WikiData/WD~Lean_Logic,101314624|WD~Lean_Logic,101314624]]'
+studied_by: '[[_Standards/WikiData/WD~pollution_and_contamination,113043256|WD~pollution_and_contamination,113043256]]'
+has_characteristic: '[[_Standards/WikiData/WD~type_of_pollution,129676813|WD~type_of_pollution,129676813]]'
 aerial_view: http://commons.wikimedia.org/wiki/Special:FilePath/Kronospan%27s%20factory%20at%20y%20Waun%20%28Chirk%29%2C%20Wrexham%20County%20Borough%2C%20Wales%2C%20belching%20out%20smoke%20within%20200%20meters%20to%202%20conservation%20sites%20%28AONB%20and%20a%20SSSI%29%2005.jpg
 OmegaWiki_Defined_Meaning: 741
 All_Science_Journal_Classification_Codes: 2310
@@ -144,7 +144,7 @@ pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1395
 Krugosvet_article_archived_: nauka_i_tehnika/himiya/ZAGRYAZNENIE_OKRUZHAYUSHCHE_SREDI.html lazio merda
 dv_is_:
   same_as:
-  - '[[../../WikiData/WD~Pollution,58734]]'
+  - '[[../../WikiData/WD~Pollution,58734|WD~Pollution,58734]]'
   - '[[/_Standards/Earth/Climate/Pollution|Pollution]]'
   - '[[/_public/Earth/Climate/Pollution.public|Pollution.public]]'
   - '[[/_internal/Earth/Climate/Pollution.internal|Pollution.internal]]'
@@ -153,7 +153,7 @@ dv_is_:
   - '[[/_personal/Earth/Climate/Pollution.personal|Pollution.personal]]'
   - '[[/_secret/Earth/Climate/Pollution.secret|Pollution.secret]]'
 dv_is_same_as:
-- '[[../../WikiData/WD~Pollution,58734]]'
+- '[[../../WikiData/WD~Pollution,58734|WD~Pollution,58734]]'
 - '[[/_Standards/Earth/Climate/Pollution|Pollution]]'
 - '[[/_public/Earth/Climate/Pollution.public|Pollution.public]]'
 - '[[/_internal/Earth/Climate/Pollution.internal|Pollution.internal]]'

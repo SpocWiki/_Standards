@@ -73,9 +73,9 @@ chemical_formula: Tm
 Commons_category: Thulium
 Commons_gallery: Thulium
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Per_Teodor_Cleve,377822]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Per_Teodor_Cleve,377822|WD~Per_Teodor_Cleve,377822]]'
 DSSTOX_compound_identifier: DTXCID1047657
 EC_number: 231-140-2
 electronegativity: 1
@@ -84,7 +84,7 @@ Gmelin_number: 16307
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Thulium%20sublimed%20dendritic%20and%201cm3%20cube.jpg
 InChI: InChI=1S/Tm
 InChIKey: FRNOGLGSGLTDKL-UHFFFAOYSA-N
-instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
+instance_of: '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 ionic_radius:
 - 0.88
 - 0.99
@@ -95,23 +95,23 @@ MeSH_tree_code:
 - D01.268.558.362.984
 - D01.552.550.399.984
 named_after:
-- '[[_Standards/WikiData/WD~Thule,671008]]'
-- '[[_Standards/WikiData/WD~Scandinavia,21195]]'
+- '[[_Standards/WikiData/WD~Thule,671008|WD~Thule,671008]]'
+- '[[_Standards/WikiData/WD~Scandinavia,21195|WD~Scandinavia,21195]]'
 OmegaWiki_Defined_Meaning: 367509
 part_of:
-- '[[_Standards/WikiData/WD~period_6,239813]]'
-- '[[_Standards/WikiData/WD~lanthanide,19569]]'
+- '[[_Standards/WikiData/WD~period_6,239813|WD~period_6,239813]]'
+- '[[_Standards/WikiData/WD~lanthanide,19569|WD~lanthanide,19569]]'
 PubChem_CID: 23961
 SpocWebEntityId: 21965
 time_of_discovery_or_invention: 1879
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_thulium,8085525]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_thulium,8085525|WD~Template_Infobox_thulium,8085525]]'
 type: Element
 UMLS_CUI: C0040066
 Unicode_character: 銩
 UNII: 8RKC5ATI4P
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Thulium,1853]]'
+  - '[[../../../WikiData/WD~Thulium,1853|WD~Thulium,1853]]'
   - '[[../../../WikiData/WD~Thulium,1853|WD~Thulium,1853]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Lanthanide/Thulium|Thulium]]'
   - '[[/_public/Chemistry/Chemical_Element/Lanthanide/Thulium.public|Thulium.public]]'
@@ -120,7 +120,7 @@ dv_is_:
   - '[[/_private/Chemistry/Chemical_Element/Lanthanide/Thulium.private|Thulium.private]]'
   - '[[/_personal/Chemistry/Chemical_Element/Lanthanide/Thulium.personal|Thulium.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Lanthanide/Thulium.secret|Thulium.secret]]'
-  part_of: '[[../Lanthanide]]'
+  part_of: '[[../Lanthanide|Lanthanide]]'
 dv_has_:
   name_:
     abbreviated: Tm
@@ -299,7 +299,7 @@ dv_has_:
         kj_:
           mol: 191
 dv_is_same_as:
-- '[[../../../WikiData/WD~Thulium,1853]]'
+- '[[../../../WikiData/WD~Thulium,1853|WD~Thulium,1853]]'
 - '[[../../../WikiData/WD~Thulium,1853|WD~Thulium,1853]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Lanthanide/Thulium|Thulium]]'
 - '[[/_public/Chemistry/Chemical_Element/Lanthanide/Thulium.public|Thulium.public]]'
@@ -309,7 +309,7 @@ dv_is_same_as:
 - '[[/_personal/Chemistry/Chemical_Element/Lanthanide/Thulium.personal|Thulium.personal]]'
 - '[[/_secret/Chemistry/Chemical_Element/Lanthanide/Thulium.secret|Thulium.secret]]'
 dv_has_name_group: Lanthanide-Group
-dv_is_part_of: '[[../Lanthanide]]'
+dv_is_part_of: '[[../Lanthanide|Lanthanide]]'
 dv_has_name_en: Thulium
 dv_has_name_de: Thulium
 dv_has_value_for_weight_u: 168.9342
@@ -334,7 +334,7 @@ dv_has_number_of_electrons: 69
 # [[Thulium]] 銩 
 
 
-#is_/same_as :: [[../../../WikiData/WD~Thulium,1853]] 
+#is_/same_as :: [[../../../WikiData/WD~Thulium,1853|WD~Thulium,1853]] 
 
 #chemic/Element 
 has_name_group = `=this.dv_has_name_group` 

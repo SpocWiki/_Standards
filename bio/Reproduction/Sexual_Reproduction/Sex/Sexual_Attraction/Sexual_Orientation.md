@@ -97,30 +97,30 @@ aliases:
 - 性的指向
 - 성적 지향
 has_id_wikidata: Q17888
-facet_of: '[[_Standards/WikiData/WD~human_sexuality,154136]]'
+facet_of: '[[_Standards/WikiData/WD~human_sexuality,154136|WD~human_sexuality,154136]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~pansexuality,271534]]'
-- '[[_Standards/WikiData/WD~asexuality,724351]]'
-- '[[_Standards/WikiData/WD~heterosexuality,1035954]]'
-- '[[_Standards/WikiData/WD~polysexuality,2094204]]'
-- '[[_Standards/WikiData/WD~skoliosexuality,89364372]]'
-- '[[_Standards/WikiData/WD~homosexuality,6636]]'
-- '[[_Standards/WikiData/WD~bisexuality,43200]]'
-is_metaclass_for: '[[_Standards/WikiData/WD~sexual_attraction,464859]]'
+- '[[_Standards/WikiData/WD~pansexuality,271534|WD~pansexuality,271534]]'
+- '[[_Standards/WikiData/WD~asexuality,724351|WD~asexuality,724351]]'
+- '[[_Standards/WikiData/WD~heterosexuality,1035954|WD~heterosexuality,1035954]]'
+- '[[_Standards/WikiData/WD~polysexuality,2094204|WD~polysexuality,2094204]]'
+- '[[_Standards/WikiData/WD~skoliosexuality,89364372|WD~skoliosexuality,89364372]]'
+- '[[_Standards/WikiData/WD~homosexuality,6636|WD~homosexuality,6636]]'
+- '[[_Standards/WikiData/WD~bisexuality,43200|WD~bisexuality,43200]]'
+is_metaclass_for: '[[_Standards/WikiData/WD~sexual_attraction,464859|WD~sexual_attraction,464859]]'
 different_from:
-- '[[_Standards/WikiData/WD~sexual_identity,1165905]]'
-- '[[_Standards/WikiData/WD~romantic_orientation,4688879]]'
+- '[[_Standards/WikiData/WD~sexual_identity,1165905|WD~sexual_identity,1165905]]'
+- '[[_Standards/WikiData/WD~romantic_orientation,4688879|WD~romantic_orientation,4688879]]'
 part_of:
-- '[[_Standards/WikiData/WD~sexual_identity,1165905]]'
-- '[[_Standards/WikiData/WD~sexual_diversity,5110203]]'
+- '[[_Standards/WikiData/WD~sexual_identity,1165905|WD~sexual_identity,1165905]]'
+- '[[_Standards/WikiData/WD~sexual_diversity,5110203|WD~sexual_diversity,5110203]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~sexuality,3043188]]'
-- '[[_Standards/WikiData/WD~personal_data,3702971]]'
-- '[[_Standards/WikiData/WD~orientation,130384812]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Sexual_orientation,8666258]]'
-instance_of: '[[_Standards/WikiData/WD~second_order_class,24017414]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wiki99_LGBT+,97285685]]'
-described_by_source: '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
+- '[[_Standards/WikiData/WD~sexuality,3043188|WD~sexuality,3043188]]'
+- '[[_Standards/WikiData/WD~personal_data,3702971|WD~personal_data,3702971]]'
+- '[[_Standards/WikiData/WD~orientation,130384812|WD~orientation,130384812]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Sexual_orientation,8666258|WD~Template_Sexual_orientation,8666258]]'
+instance_of: '[[_Standards/WikiData/WD~second_order_class,24017414|WD~second_order_class,24017414]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wiki99_LGBT+,97285685|WD~Wiki99_LGBT+,97285685]]'
+described_by_source: '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072|WD~Red_Blue_Translator,131935072]]'
 Wikidata_property: sexual orientation
 U_S_National_Archives_Identifier: 10642816
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Nottinghamshire%20Pride%202011%20MMB%2022.jpg

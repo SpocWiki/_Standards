@@ -60,17 +60,17 @@ aliases:
 - 성욕
 has_id_wikidata: Q6498477
 part_of:
-- '[[_Standards/WikiData/WD~seven_deadly_sins,166502]]'
-- '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
-opposite_of: '[[_Standards/WikiData/WD~chastity,207894]]'
+- '[[_Standards/WikiData/WD~seven_deadly_sins,166502|WD~seven_deadly_sins,166502]]'
+- '[[_Standards/WikiData/WD~psychology_terminology,77468620|WD~psychology_terminology,77468620]]'
+opposite_of: '[[_Standards/WikiData/WD~chastity,207894|WD~chastity,207894]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~wish,241625]]'
-- '[[_Standards/WikiData/WD~sexual_desire,1107654]]'
+- '[[_Standards/WikiData/WD~wish,241625|WD~wish,241625]]'
+- '[[_Standards/WikiData/WD~sexual_desire,1107654|WD~sexual_desire,1107654]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~lascivious_behavior,440587]]'
-- '[[_Standards/WikiData/WD~Q1288392,1288392]]'
-described_by_source: '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-different_from: '[[_Standards/WikiData/WD~desire,775842]]'
+- '[[_Standards/WikiData/WD~lascivious_behavior,440587|WD~lascivious_behavior,440587]]'
+- '[[_Standards/WikiData/WD~Q1288392,1288392|WD~Q1288392,1288392]]'
+described_by_source: '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+different_from: '[[_Standards/WikiData/WD~desire,775842|WD~desire,775842]]'
 Commons_category: Lust
 OmegaWiki_Defined_Meaning: 993977
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Wollust.ogg

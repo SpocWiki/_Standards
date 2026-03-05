@@ -24,9 +24,9 @@ aliases:
 - 獼猴亞科
 - 긴꼬리원숭이아과
 has_id_wikidata: Q220848
-taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280]]'
-parent_taxon: '[[_Standards/WikiData/WD~Cercopithecidae,182968]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280|WD~subfamily,164280]]'
+parent_taxon: '[[_Standards/WikiData/WD~Cercopithecidae,182968|WD~Cercopithecidae,182968]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 ITIS_TSN: 552351
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mandril.jpg
 MeSH_tree_code: B01.050.150.900.649.313.988.400.112.199.120

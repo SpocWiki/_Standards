@@ -113,24 +113,24 @@ Library_of_Congress_Classification:
 - RA421-RA790.95
 - RA
 OpenStreetMap_tag: healthcare:speciality=community
-facet_of: '[[_Standards/WikiData/WD~risk_management,189447]]'
+facet_of: '[[_Standards/WikiData/WD~risk_management,189447|WD~risk_management,189447]]'
 instance_of:
-- '[[../../../WikiData/WD~work,268378]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[../../../WikiData/WD~work,268378|WD~work,268378]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~health_sciences,843601]]'
-- '[[_Standards/WikiData/WD~social_science,34749]]'
+- '[[_Standards/WikiData/WD~health_sciences,843601|WD~health_sciences,843601]]'
+- '[[_Standards/WikiData/WD~social_science,34749|WD~social_science,34749]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~public_health_physician,10334684]]'
-- '[[_Standards/WikiData/WD~public_health_scientist,24017732]]'
+- '[[_Standards/WikiData/WD~public_health_physician,10334684|WD~public_health_physician,10334684]]'
+- '[[_Standards/WikiData/WD~public_health_scientist,24017732|WD~public_health_scientist,24017732]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Public_health,10987181]]'
-- '[[_Standards/WikiData/WD~Template_Public_health_sidebar,124618992]]'
+- '[[_Standards/WikiData/WD~Template_Public_health,10987181|WD~Template_Public_health,10987181]]'
+- '[[_Standards/WikiData/WD~Template_Public_health_sidebar,124618992|WD~Template_Public_health_sidebar,124618992]]'
 on_focus_list_of_Wikimedia_project:
-- '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
-- '[[_Standards/WikiData/WD~WikiProject_COVID_19,87748614]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-studied_by: '[[_Standards/WikiData/WD~health_economics,31218]]'
+- '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832|WD~WikiProject_Zika_Corpus,54439832]]'
+- '[[_Standards/WikiData/WD~WikiProject_COVID_19,87748614|WD~WikiProject_COVID_19,87748614]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+studied_by: '[[_Standards/WikiData/WD~health_economics,31218|WD~health_economics,31218]]'
 OmegaWiki_Defined_Meaning: 3034
 U_S_National_Archives_Identifier: 10643794
 DPLA_subject_term: Public Health
@@ -253,9 +253,9 @@ dv_has_:
 
 # [[Public_Health]] 
 
-#has_/parent_class :: [[../MedicalBusiness, MedicalSpecialty]]  
+#has_/parent_class :: [[../MedicalBusiness, MedicalSpecialty|MedicalBusiness, MedicalSpecialty]]  
 
-#is_/enum_of :: [[../MedicalSpecialty]]  
+#is_/enum_of :: [[../MedicalSpecialty|MedicalSpecialty]]  
 
 #is_/same_as :: [[../../../WikiData/WD~Public_health,189603|WD~Public_health,189603]] 
 

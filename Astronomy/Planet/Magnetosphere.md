@@ -51,18 +51,18 @@ aliases:
 - 磁氣圈
 - 플라즈마권
 has_id_wikidata: Q6915
-different_from: '[[_Standards/WikiData/WD~planetary_magnetic_field,4274059]]'
+different_from: '[[_Standards/WikiData/WD~planetary_magnetic_field,4274059|WD~planetary_magnetic_field,4274059]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Infobox_magnetosphere,14334210]]'
-- '[[_Standards/WikiData/WD~Template_Magnetospherics,14397207]]'
-subclass_of: '[[_Standards/WikiData/WD~region_of_space,26713767]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_magnetosphere,14334210|WD~Template_Infobox_magnetosphere,14334210]]'
+- '[[_Standards/WikiData/WD~Template_Magnetospherics,14397207|WD~Template_Magnetospherics,14397207]]'
+subclass_of: '[[_Standards/WikiData/WD~region_of_space,26713767|WD~region_of_space,26713767]]'
 OmegaWiki_Defined_Meaning: 682688
 Commons_category: Planetary magnetospheres
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Structure%20of%20the%20magnetosphere%20LanguageSwitch.svg
 exact_match: http://purl.obolibrary.org/obo/ENVO_01001194
 dv_is_:
   same_as:
-  - '[[../../WikiData/WD~Magnetosphere,6915]]'
+  - '[[../../WikiData/WD~Magnetosphere,6915|WD~Magnetosphere,6915]]'
   - '[[/_Standards/Astronomy/Planet/Magnetosphere|Magnetosphere]]'
   - '[[/_public/Astronomy/Planet/Magnetosphere.public|Magnetosphere.public]]'
   - '[[/_internal/Astronomy/Planet/Magnetosphere.internal|Magnetosphere.internal]]'
@@ -71,7 +71,7 @@ dv_is_:
   - '[[/_personal/Astronomy/Planet/Magnetosphere.personal|Magnetosphere.personal]]'
   - '[[/_secret/Astronomy/Planet/Magnetosphere.secret|Magnetosphere.secret]]'
 dv_is_same_as:
-- '[[../../WikiData/WD~Magnetosphere,6915]]'
+- '[[../../WikiData/WD~Magnetosphere,6915|WD~Magnetosphere,6915]]'
 - '[[/_Standards/Astronomy/Planet/Magnetosphere|Magnetosphere]]'
 - '[[/_public/Astronomy/Planet/Magnetosphere.public|Magnetosphere.public]]'
 - '[[/_internal/Astronomy/Planet/Magnetosphere.internal|Magnetosphere.internal]]'

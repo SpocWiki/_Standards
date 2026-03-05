@@ -34,7 +34,7 @@ Tag Instances like this:
 
 The legal availability status of a medical drug.
 
-#has_/parent_class :: [[../MedicalIntangible]]  
+#has_/parent_class :: [[../MedicalIntangible|MedicalIntangible]]  
 
 #has_/properties :: [ additionalType, alternateName, applicableLocation, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ]  
 

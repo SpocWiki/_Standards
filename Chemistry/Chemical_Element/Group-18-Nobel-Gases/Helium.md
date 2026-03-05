@@ -109,31 +109,31 @@ aliases:
 - 헬륨
 - 헬리움
 has_id_wikidata: Q560
-antiparticle: '[[_Standards/WikiData/WD~anti-helium,1991752]]'
+antiparticle: '[[_Standards/WikiData/WD~anti-helium,1991752|WD~anti-helium,1991752]]'
 ASHRAE_refrigerant_number: 704
 ATC_code: V03AN03
 atomic_number: 2
 boiling_point: -268.9
-by_product_of: '[[_Standards/WikiData/WD~natural-gas_processing,2287558]]'
+by_product_of: '[[_Standards/WikiData/WD~natural-gas_processing,2287558|WD~natural-gas_processing,2287558]]'
 canonical_SMILES: '[He]'
 CAS_Registry_Number: 7440-59-7
 chemical_formula: He
 Commons_category: Helium
 Common_Procurement_Vocabulary_code: 24111300
-conjugate_acid: '[[_Standards/WikiData/WD~hydridohelium(1+),1188583]]'
+conjugate_acid: '[[_Standards/WikiData/WD~hydridohelium(1+),1188583|WD~hydridohelium(1+),1188583]]'
 density: 0.1785
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-different_from: '[[_Standards/WikiData/WD~Hel,223931]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+different_from: '[[_Standards/WikiData/WD~Hel,223931|WD~Hel,223931]]'
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Norman_Lockyer,127959]]'
-- '[[_Standards/WikiData/WD~Pierre_Janssen,298581]]'
-- '[[_Standards/WikiData/WD~William_Ramsay,950726]]'
+- '[[_Standards/WikiData/WD~Norman_Lockyer,127959|WD~Norman_Lockyer,127959]]'
+- '[[_Standards/WikiData/WD~Pierre_Janssen,298581|WD~Pierre_Janssen,298581]]'
+- '[[_Standards/WikiData/WD~William_Ramsay,950726|WD~William_Ramsay,950726]]'
 DSSTOX_compound_identifier: DTXCID5016402
 EC_number: 231-168-5
 electronegativity: 4.5
@@ -141,31 +141,31 @@ electron_configuration: 1s²
 element_symbol: He
 E_number: E939
 has_characteristic:
-- '[[_Standards/WikiData/WD~colorlessness,11567495]]'
-- '[[_Standards/WikiData/WD~odorlessness,30007162]]'
-- '[[_Standards/WikiData/WD~tastelessness,30100868]]'
+- '[[_Standards/WikiData/WD~colorlessness,11567495|WD~colorlessness,11567495]]'
+- '[[_Standards/WikiData/WD~odorlessness,30007162|WD~odorlessness,30007162]]'
+- '[[_Standards/WikiData/WD~tastelessness,30100868|WD~tastelessness,30100868]]'
 has_use:
-- '[[_Standards/WikiData/WD~food_additive,189567]]'
-- '[[_Standards/WikiData/WD~coolant,1056832]]'
-- '[[_Standards/WikiData/WD~component,1310239]]'
-- '[[_Standards/WikiData/WD~lifting_gas,1408137]]'
+- '[[_Standards/WikiData/WD~food_additive,189567|WD~food_additive,189567]]'
+- '[[_Standards/WikiData/WD~coolant,1056832|WD~coolant,1056832]]'
+- '[[_Standards/WikiData/WD~component,1310239|WD~component,1310239]]'
+- '[[_Standards/WikiData/WD~lifting_gas,1408137|WD~lifting_gas,1408137]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Helium%20discharge%20tube.jpg
 InChI: InChI=1S/He
 InChIKey: SWQJXJOGLNCZEY-UHFFFAOYSA-N
 instance_of:
-- '[[_Standards/WikiData/WD~atmophile_element,2313842]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+- '[[_Standards/WikiData/WD~atmophile_element,2313842|WD~atmophile_element,2313842]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 Krugosvet_article: nauka_i_tehnika/himiya/GELI.html
 mass: 4.002602
 melting_point: -272.05
 MeSH_tree_code:
 - D01.268.613.350
 - D01.362.641.352
-named_after: '[[_Standards/WikiData/WD~Helios,134270]]'
+named_after: '[[_Standards/WikiData/WD~Helios,134270|WD~Helios,134270]]'
 OmegaWiki_Defined_Meaning: 7296
 part_of:
-- '[[_Standards/WikiData/WD~period_1,191936]]'
-- '[[_Standards/WikiData/WD~noble_gases,19609]]'
+- '[[_Standards/WikiData/WD~period_1,191936|WD~period_1,191936]]'
+- '[[_Standards/WikiData/WD~noble_gases,19609|WD~noble_gases,19609]]'
 PubChem_CID: 23987
 refractive_index: 1.000036
 speed_of_sound:
@@ -176,9 +176,9 @@ spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Helium.ogg
 Stack_Exchange_tag: https://astronomy.stackexchange.com/tags/helium
 standard_molar_entropy: 126
 subclass_of:
-- '[[_Standards/WikiData/WD~s-block,208106]]'
-- '[[_Standards/WikiData/WD~nonmetal,19600]]'
-- '[[_Standards/WikiData/WD~noble_gases,19609]]'
+- '[[_Standards/WikiData/WD~s-block,208106|WD~s-block,208106]]'
+- '[[_Standards/WikiData/WD~nonmetal,19600|WD~nonmetal,19600]]'
+- '[[_Standards/WikiData/WD~noble_gases,19609|WD~noble_gases,19609]]'
 time_of_discovery_or_invention: 1868-08-18
 type: Element
 UMLS_CUI: C0018880
@@ -187,7 +187,7 @@ U_S_National_Archives_Identifier: 10640583
 ZVG_number: 7020
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Helium,560_WD~Helium,560]]'
+  - '[[../../../WikiData/WD~Helium,560_WD~Helium,560|WD~Helium,560_WD~Helium,560]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium|Helium]]'
   - '[[/_public/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium.public|Helium.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium.internal|Helium.internal]]'
@@ -195,7 +195,7 @@ dv_is_:
   - '[[/_private/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium.private|Helium.private]]'
   - '[[/_personal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium.personal|Helium.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium.secret|Helium.secret]]'
-  part_of: '[[../Group-18-Nobel-Gases]]'
+  part_of: '[[../Group-18-Nobel-Gases|Group-18-Nobel-Gases]]'
 dv_has_:
   name_:
     abbreviated: He
@@ -450,7 +450,7 @@ dv_has_:
         kj_:
           mol: 0.0845
 dv_is_same_as:
-- '[[../../../WikiData/WD~Helium,560_WD~Helium,560]]'
+- '[[../../../WikiData/WD~Helium,560_WD~Helium,560|WD~Helium,560_WD~Helium,560]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium|Helium]]'
 - '[[/_public/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium.public|Helium.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium.internal|Helium.internal]]'
@@ -459,7 +459,7 @@ dv_is_same_as:
 - '[[/_personal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium.personal|Helium.personal]]'
 - '[[/_secret/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Helium.secret|Helium.secret]]'
 dv_has_name_group: Group-18-Nobel-Gases
-dv_is_part_of: '[[../Group-18-Nobel-Gases]]'
+dv_is_part_of: '[[../Group-18-Nobel-Gases|Group-18-Nobel-Gases]]'
 dv_has_name_en: Helium
 dv_has_name_de: Helium
 dv_has_value_for_weight_u: 4.0026
@@ -483,7 +483,7 @@ dv_has_number_of_electrons: 2
 
 # [[Helium]]  
 
-#is_/same_as :: [[../../../WikiData/WD~Helium,560_WD~Helium,560]]
+#is_/same_as :: [[../../../WikiData/WD~Helium,560_WD~Helium,560|WD~Helium,560_WD~Helium,560]]
 
 #chemic/Element 
 has_name_group = `=this.dv_has_name_group` 

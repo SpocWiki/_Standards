@@ -84,23 +84,23 @@ CAS_Registry_Number: 7440-13-3
 chemical_formula: Pa
 Commons_category: Protactinium
 Commons_gallery: Protactinium
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
 Dewey_Decimal_Classification:
 - 546.423
 - 669.2924
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Kazimierz_Fajans,213667]]'
-- '[[_Standards/WikiData/WD~Lise_Meitner,56189]]'
-- '[[_Standards/WikiData/WD~Otto_Hahn,57065]]'
+- '[[_Standards/WikiData/WD~Kazimierz_Fajans,213667|WD~Kazimierz_Fajans,213667]]'
+- '[[_Standards/WikiData/WD~Lise_Meitner,56189|WD~Lise_Meitner,56189]]'
+- '[[_Standards/WikiData/WD~Otto_Hahn,57065|WD~Otto_Hahn,57065]]'
 DSSTOX_compound_identifier: DTXCID50147878
 EC_number: 616-087-9
 electronegativity: 2
 element_symbol: Pa
-found_in_taxon: '[[_Standards/WikiData/WD~Paris_polyphylla_var._chinensis,10905961]]'
+found_in_taxon: '[[_Standards/WikiData/WD~Paris_polyphylla_var._chinensis,10905961|WD~Paris_polyphylla_var._chinensis,10905961]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Protactinium-233.jpg
 InChI: InChI=1S/Pa
 InChIKey: XLROVYAPLOFLNU-UHFFFAOYSA-N
-instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
+instance_of: '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 ionic_radius:
 - 0.9
 - 0.78
@@ -112,17 +112,17 @@ MeSH_tree_code:
 - D01.496.749.305.100.725
 - D01.552.020.778
 - D01.552.544.750
-named_after: '[[_Standards/WikiData/WD~actinium,1121]]'
+named_after: '[[_Standards/WikiData/WD~actinium,1121|WD~actinium,1121]]'
 OmegaWiki_Defined_Meaning: 345414
 part_of:
-- '[[_Standards/WikiData/WD~period_7,244979]]'
-- '[[_Standards/WikiData/WD~actinide,19577]]'
+- '[[_Standards/WikiData/WD~period_7,244979|WD~period_7,244979]]'
+- '[[_Standards/WikiData/WD~actinide,19577|WD~actinide,19577]]'
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20150.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-protactinium.wav
 PubChem_CID: 23945
 SpocWebEntityId: 21986
 time_of_discovery_or_invention: 1917
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_protactinium,8085338]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_protactinium,8085338|WD~Template_Infobox_protactinium,8085338]]'
 type: Element
 UMLS_CUI: C0033597
 UNII: 0S6855V29M
@@ -313,9 +313,9 @@ dv_has_:
         kj_:
           mol: 0
 dv_is_:
-  part_of: '[[../Actinide]]'
+  part_of: '[[../Actinide|Actinide]]'
   same_as:
-  - '[[../../../WikiData/WD~Protactinium,1109]]'
+  - '[[../../../WikiData/WD~Protactinium,1109|WD~Protactinium,1109]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Actinide/Protactinium|Protactinium]]'
   - '[[/_public/Chemistry/Chemical_Element/Actinide/Protactinium.public|Protactinium.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Actinide/Protactinium.internal|Protactinium.internal]]'
@@ -324,7 +324,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Chemical_Element/Actinide/Protactinium.personal|Protactinium.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Actinide/Protactinium.secret|Protactinium.secret]]'
 dv_has_name_group: Actinide-Group
-dv_is_part_of: '[[../Actinide]]'
+dv_is_part_of: '[[../Actinide|Actinide]]'
 dv_has_name_en: Protactinium
 dv_has_name_de: Protactinium
 dv_has_name_abbreviated: Pa
@@ -345,7 +345,7 @@ dv_has_number_of_period: 7
 dv_has_number_of_group: 25
 dv_has_number_of_electrons: 91
 dv_is_same_as:
-- '[[../../../WikiData/WD~Protactinium,1109]]'
+- '[[../../../WikiData/WD~Protactinium,1109|WD~Protactinium,1109]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Actinide/Protactinium|Protactinium]]'
 - '[[/_public/Chemistry/Chemical_Element/Actinide/Protactinium.public|Protactinium.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Actinide/Protactinium.internal|Protactinium.internal]]'
@@ -393,7 +393,7 @@ has_number_of_period = `=this.dv_has_number_of_period`
 has_number_of_group = `=this.dv_has_number_of_group` 
 has_number_of_electrons = `=this.dv_has_number_of_electrons` 
 
-#is_/same_as :: [[../../../WikiData/WD~Protactinium,1109]] 
+#is_/same_as :: [[../../../WikiData/WD~Protactinium,1109|WD~Protactinium,1109]] 
 
 
 

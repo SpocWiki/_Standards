@@ -96,11 +96,11 @@ taxon_common_name:
 - Konopowe rostliny
 - Kenderfélék
 - Humlaætt
-taxonomic_type: '[[_Standards/WikiData/WD~Cannabis,79817]]'
-described_by_source: '[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-parent_taxon: '[[../../../../../../../../../../../WikiData/WD~Rosales,21895]]'
-taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Cannabis,79817|WD~Cannabis,79817]]'
+described_by_source: '[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+parent_taxon: '[[../../../../../../../../../../../WikiData/WD~Rosales,21895|WD~Rosales,21895]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409|WD~family,35409]]'
 ITIS_TSN: 19118
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Cannabis%2001%20bgiu.jpg
@@ -203,7 +203,7 @@ dv_has_:
 
 # [[Cannabaceae]] 
 
-#is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Cannabaceae,156338]] 
+#is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Cannabaceae,156338|WD~Cannabaceae,156338]] 
 
 ## #has_/text_of_/abstract 
 

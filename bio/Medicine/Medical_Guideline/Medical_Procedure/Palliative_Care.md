@@ -54,27 +54,27 @@ aliases:
 - 緩和ケア
 - 緩和療護
 has_id_wikidata: Q29483
-has_part_s_: '[[_Standards/WikiData/WD~symptomatic_treatment,621558]]'
+has_part_s_: '[[_Standards/WikiData/WD~symptomatic_treatment,621558|WD~symptomatic_treatment,621558]]'
 studied_by:
-- '[[_Standards/WikiData/WD~medical_humanities,769420]]'
-- '[[_Standards/WikiData/WD~narrative_medicine,6966214]]'
+- '[[_Standards/WikiData/WD~medical_humanities,769420|WD~medical_humanities,769420]]'
+- '[[_Standards/WikiData/WD~narrative_medicine,6966214|WD~narrative_medicine,6966214]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~medical_procedure,796194]]'
-- '[[_Standards/WikiData/WD~health_services_research,2518253]]'
-- '[[_Standards/WikiData/WD~Q11447297,11447297]]'
-- '[[_Standards/WikiData/WD~health_care,31207]]'
+- '[[_Standards/WikiData/WD~medical_procedure,796194|WD~medical_procedure,796194]]'
+- '[[_Standards/WikiData/WD~health_services_research,2518253|WD~health_services_research,2518253]]'
+- '[[_Standards/WikiData/WD~Q11447297,11447297|WD~Q11447297,11447297]]'
+- '[[_Standards/WikiData/WD~health_care,31207|WD~health_care,31207]]'
 maintained_by_WikiProject:
-- '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
-- '[[_Standards/WikiData/WD~WikiProject_Death,15884704]]'
-- '[[_Standards/WikiData/WD~WikiProject_Nursing,15884997]]'
-- '[[_Standards/WikiData/WD~Secular_humanism,106303278]]'
+- '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686|WD~WikiProject_Medicine,4099686]]'
+- '[[_Standards/WikiData/WD~WikiProject_Death,15884704|WD~WikiProject_Death,15884704]]'
+- '[[_Standards/WikiData/WD~WikiProject_Nursing,15884997|WD~WikiProject_Nursing,15884997]]'
+- '[[_Standards/WikiData/WD~Secular_humanism,106303278|WD~Secular_humanism,106303278]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~American_Journal_of_Hospice_and_Palliative_Medicine,4744247]]'
-- '[[_Standards/WikiData/WD~Journal_of_Hospice_and_Palliative_Nursing,15767084]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q15838139,15838139]]'
-instance_of: '[[_Standards/WikiData/WD~medical_procedure_type,55214844]]'
-facet_of: '[[_Standards/WikiData/WD~end_of_life_decision_making,110418604]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medical_Humanities,135210027]]'
+- '[[_Standards/WikiData/WD~American_Journal_of_Hospice_and_Palliative_Medicine,4744247|WD~American_Journal_of_Hospice_and_Palliative_Medicine,4744247]]'
+- '[[_Standards/WikiData/WD~Journal_of_Hospice_and_Palliative_Nursing,15767084|WD~Journal_of_Hospice_and_Palliative_Nursing,15767084]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q15838139,15838139|WD~Q15838139,15838139]]'
+instance_of: '[[_Standards/WikiData/WD~medical_procedure_type,55214844|WD~medical_procedure_type,55214844]]'
+facet_of: '[[_Standards/WikiData/WD~end_of_life_decision_making,110418604|WD~end_of_life_decision_making,110418604]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medical_Humanities,135210027|WD~WikiProject_Medical_Humanities,135210027]]'
 OmegaWiki_Defined_Meaning: 748502
 Commons_category: Palliative care
 UMLS_CUI: C0030231

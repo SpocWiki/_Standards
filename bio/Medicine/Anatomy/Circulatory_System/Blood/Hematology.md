@@ -59,18 +59,18 @@ aliases:
 - 血液學
 - 혈액학
 has_id_wikidata: Q103824
-instance_of: '[[_Standards/WikiData/WD~medical_specialty,930752]]'
-practiced_by: '[[_Standards/WikiData/WD~hematologist,3144914]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Diseases_of_RBCs_and_megakaryocytes,6291169]]'
+instance_of: '[[_Standards/WikiData/WD~medical_specialty,930752|WD~medical_specialty,930752]]'
+practiced_by: '[[_Standards/WikiData/WD~hematologist,3144914|WD~hematologist,3144914]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Diseases_of_RBCs_and_megakaryocytes,6291169|WD~Template_Diseases_of_RBCs_and_megakaryocytes,6291169]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604|WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
 part_of:
-- '[[_Standards/WikiData/WD~cardiovascular_medicine_and_haematology,113129005]]'
-- '[[_Standards/WikiData/WD~internal_medicine,11180]]'
+- '[[_Standards/WikiData/WD~cardiovascular_medicine_and_haematology,113129005|WD~cardiovascular_medicine_and_haematology,113129005]]'
+- '[[_Standards/WikiData/WD~internal_medicine,11180|WD~internal_medicine,11180]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~cardiovascular_medicine_and_haematology,113129005]]'
-- '[[_Standards/WikiData/WD~internal_medicine,11180]]'
+- '[[_Standards/WikiData/WD~cardiovascular_medicine_and_haematology,113129005|WD~cardiovascular_medicine_and_haematology,113129005]]'
+- '[[_Standards/WikiData/WD~internal_medicine,11180|WD~internal_medicine,11180]]'
 All_Science_Journal_Classification_Codes: 2720
 OmegaWiki_Defined_Meaning: 1706
 image:

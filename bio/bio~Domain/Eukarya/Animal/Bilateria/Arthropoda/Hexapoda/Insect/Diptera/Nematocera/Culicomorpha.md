@@ -10,11 +10,11 @@ aliases:
 - குலிகோமார்பா
 - 모기하목
 has_id_wikidata: Q950698
-taxon_rank: '[[_Standards/WikiData/WD~infraorder,2889003]]'
+taxon_rank: '[[_Standards/WikiData/WD~infraorder,2889003|WD~infraorder,2889003]]'
 parent_taxon:
-- '[[_Standards/WikiData/WD~Neoneura,112323844]]'
-- '[[_Standards/WikiData/WD~Nematocera,27605]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~Neoneura,112323844|WD~Neoneura,112323844]]'
+- '[[_Standards/WikiData/WD~Nematocera,27605|WD~Nematocera,27605]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 ITIS_TSN: 125808
 image: http://commons.wikimedia.org/wiki/Special:FilePath/AnophelesGambiaemosquito.jpg
 Commons_category: Culicomorpha
@@ -118,7 +118,7 @@ dv_has_:
 
 # [[Culicomorpha]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Culicomorpha,950698]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Culicomorpha,950698|WD~Culicomorpha,950698]] 
 
 ## #has_/text_of_/abstract 
 

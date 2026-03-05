@@ -36,10 +36,10 @@ aliases:
 - 科技恐懼症
 - 테크노포비아
 has_id_wikidata: Q1042900
-instance_of: '[[_Standards/WikiData/WD~phobia,175854]]'
-opposite_of: '[[_Standards/WikiData/WD~technophilia,1658941]]'
-subclass_of: '[[_Standards/WikiData/WD~mechanophobia,18389618]]'
-main_subject: '[[_Standards/WikiData/WD~technology,11016]]'
+instance_of: '[[_Standards/WikiData/WD~phobia,175854|WD~phobia,175854]]'
+opposite_of: '[[_Standards/WikiData/WD~technophilia,1658941|WD~technophilia,1658941]]'
+subclass_of: '[[_Standards/WikiData/WD~mechanophobia,18389618|WD~mechanophobia,18389618]]'
+main_subject: '[[_Standards/WikiData/WD~technology,11016|WD~technology,11016]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fear%20computer.jpg
 Wolfram_Language_entity_code: Entity["Concept", "Technophobia::y5s74"]
 Archive_of_Our_Own_tag: technophobia

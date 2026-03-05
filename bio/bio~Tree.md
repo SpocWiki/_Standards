@@ -20,7 +20,7 @@ This is much more detailed than the 8-Level [[bio~Domain]] [[Taxonomy]] created 
 
 > [!info] This Article is only a Stub. 
 For more Details, check out [this Git-Repository](https://github.com/SpocWiki/TreeOfLife)
-into a Subfolder named `bio~Tree`, so that this Link into the Sub-Repository works: [[bio~Tree/ReadMe]] 
+into a Subfolder named `bio~Tree`, so that this Link into the Sub-Repository works: [[bio~Tree/ReadMe|ReadMe]] 
 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/TreeOfLife 
 

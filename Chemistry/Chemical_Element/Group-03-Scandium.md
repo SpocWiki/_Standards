@@ -68,7 +68,7 @@ has_id_wikidata: Q108307
 type: ElementGroup
 dv_is_:
   same_as:
-  - '[[../../WikiData/WD~Group_3,108307]]'
+  - '[[../../WikiData/WD~Group_3,108307|WD~Group_3,108307]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Group-03-Scandium|Group-03-Scandium]]'
   - '[[/_public/Chemistry/Chemical_Element/Group-03-Scandium.public|Group-03-Scandium.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Group-03-Scandium.internal|Group-03-Scandium.internal]]'
@@ -77,7 +77,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Chemical_Element/Group-03-Scandium.personal|Group-03-Scandium.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Group-03-Scandium.secret|Group-03-Scandium.secret]]'
 dv_is_same_as:
-- '[[../../WikiData/WD~Group_3,108307]]'
+- '[[../../WikiData/WD~Group_3,108307|WD~Group_3,108307]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Group-03-Scandium|Group-03-Scandium]]'
 - '[[/_public/Chemistry/Chemical_Element/Group-03-Scandium.public|Group-03-Scandium.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Group-03-Scandium.internal|Group-03-Scandium.internal]]'
@@ -167,12 +167,12 @@ dv_has_:
 
 #chemic/Group 
 
-4)[[Group-03-Scandium/Scandium]]]
-5)[[Group-03-Scandium/Yttrium]]]
-6)[[Group-03-Scandium/Lutetium]]]
-7)[[Group-03-Scandium/Lawrencium]]]
+4)[[Group-03-Scandium/Scandium|Scandium]]]
+5)[[Group-03-Scandium/Yttrium|Yttrium]]]
+6)[[Group-03-Scandium/Lutetium|Lutetium]]]
+7)[[Group-03-Scandium/Lawrencium|Lawrencium]]]
 
-#is_/same_as :: [[../../WikiData/WD~Group_3,108307]] 
+#is_/same_as :: [[../../WikiData/WD~Group_3,108307|WD~Group_3,108307]] 
 
 ## #has_/text_of_/abstract 
 

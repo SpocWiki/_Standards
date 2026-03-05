@@ -94,38 +94,38 @@ aliases:
 - 질량
 has_id_wikidata: Q11423
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~scalar_quantity,181175]]'
-- '[[_Standards/WikiData/WD~extensive_quantity,3386703]]'
-- '[[_Standards/WikiData/WD~additive_quantity,117865208]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~scalar_quantity,181175|WD~scalar_quantity,181175]]'
+- '[[_Standards/WikiData/WD~extensive_quantity,3386703|WD~extensive_quantity,3386703]]'
+- '[[_Standards/WikiData/WD~additive_quantity,117865208|WD~additive_quantity,117865208]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~inertia,122508]]'
-- '[[_Standards/WikiData/WD~energy,11379]]'
+- '[[_Standards/WikiData/WD~inertia,122508|WD~inertia,122508]]'
+- '[[_Standards/WikiData/WD~energy,11379|WD~energy,11379]]'
 different_from:
-- '[[_Standards/WikiData/WD~quality,185957]]'
-- '[[_Standards/WikiData/WD~apparent_weight,3900737]]'
-- '[[_Standards/WikiData/WD~weight,25288]]'
+- '[[_Standards/WikiData/WD~quality,185957|WD~quality,185957]]'
+- '[[_Standards/WikiData/WD~apparent_weight,3900737|WD~apparent_weight,3900737]]'
+- '[[_Standards/WikiData/WD~weight,25288|WD~weight,25288]]'
 recommended_unit_of_measurement:
-- '[[_Standards/WikiData/WD~tonne,191118]]'
-- '[[_Standards/WikiData/WD~kilogram,11570]]'
+- '[[_Standards/WikiData/WD~tonne,191118|WD~tonne,191118]]'
+- '[[_Standards/WikiData/WD~kilogram,11570|WD~kilogram,11570]]'
 described_by_source:
-- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~ISO_80000_4_2006_Quantities_and_units_Part_4_Mechanics,26711933]]'
-- '[[_Standards/WikiData/WD~SI_Brochure_(9th_edition)_Concise_summary,68977959]]'
-- '[[_Standards/WikiData/WD~ISO_80000_4_2019_Quantities_and_units_Part_4_Mechanics,73391977]]'
-model_item: '[[_Standards/WikiData/WD~rest_mass_(invariant_mass)_or_rest_energy,1097654]]'
+- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~ISO_80000_4_2006_Quantities_and_units_Part_4_Mechanics,26711933|WD~ISO_80000_4_2006_Quantities_and_units_Part_4_Mechanics,26711933]]'
+- '[[_Standards/WikiData/WD~SI_Brochure_(9th_edition)_Concise_summary,68977959|WD~SI_Brochure_(9th_edition)_Concise_summary,68977959]]'
+- '[[_Standards/WikiData/WD~ISO_80000_4_2019_Quantities_and_units_Part_4_Mechanics,73391977|WD~ISO_80000_4_2019_Quantities_and_units_Part_4_Mechanics,73391977]]'
+model_item: '[[_Standards/WikiData/WD~rest_mass_(invariant_mass)_or_rest_energy,1097654|WD~rest_mass_(invariant_mass)_or_rest_energy,1097654]]'
 instance_of:
-- '[[_Standards/WikiData/WD~ISQ_base_quantity,30337748]]'
-- '[[_Standards/WikiData/WD~kind_of_quantity,110653654]]'
+- '[[_Standards/WikiData/WD~ISQ_base_quantity,30337748|WD~ISQ_base_quantity,30337748]]'
+- '[[_Standards/WikiData/WD~kind_of_quantity,110653654|WD~kind_of_quantity,110653654]]'
 ISQ_dimension: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AC</mi></mrow></mstyle></mrow></math>"
 Wikidata_property: mass
-has_effect: '[[_Standards/WikiData/WD~force,11402]]'
-invariant_under: '[[_Standards/WikiData/WD~chemical_reaction,36534]]'
+has_effect: '[[_Standards/WikiData/WD~force,11402|WD~force,11402]]'
+invariant_under: '[[_Standards/WikiData/WD~chemical_reaction,36534|WD~chemical_reaction,36534]]'
 OmegaWiki_Defined_Meaning: 8357
 quantity_symbol_string_:
 - M

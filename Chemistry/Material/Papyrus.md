@@ -50,25 +50,25 @@ aliases:
 - 파피루스
 - "\U00010340\U00010330\U00010340\U00010345\U00010342\U0001033F\U00010343"
 has_id_wikidata: Q125576
-natural_product_of_taxon: '[[_Standards/WikiData/WD~Cyperus_papyrus,158808]]'
+natural_product_of_taxon: '[[_Standards/WikiData/WD~Cyperus_papyrus,158808|WD~Cyperus_papyrus,158808]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878|WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Q30059240,30059240|WD~Q30059240,30059240]]'
 has_use:
-- '[[_Standards/WikiData/WD~rotulus,2073537]]'
-- '[[_Standards/WikiData/WD~papyrus,12043767]]'
+- '[[_Standards/WikiData/WD~rotulus,2073537|WD~rotulus,2073537]]'
+- '[[_Standards/WikiData/WD~papyrus,12043767|WD~papyrus,12043767]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~painting_material,3300034]]'
-- '[[_Standards/WikiData/WD~plant_material,28969364]]'
-- '[[_Standards/WikiData/WD~paleographical_writing_material,65768838]]'
+- '[[_Standards/WikiData/WD~painting_material,3300034|WD~painting_material,3300034]]'
+- '[[_Standards/WikiData/WD~plant_material,28969364|WD~plant_material,28969364]]'
+- '[[_Standards/WikiData/WD~paleographical_writing_material,65768838|WD~paleographical_writing_material,65768838]]'
 different_from:
-- '[[_Standards/WikiData/WD~Papirus,11802890]]'
-- '[[_Standards/WikiData/WD~papyrus,12043767]]'
+- '[[_Standards/WikiData/WD~Papirus,11802890|WD~Papirus,11802890]]'
+- '[[_Standards/WikiData/WD~papyrus,12043767|WD~papyrus,12043767]]'
 Commons_gallery: Papyrus
 OmegaWiki_Defined_Meaning: 1259075
 Commons_category: Papyri
@@ -78,7 +78,7 @@ Iconclass_notation: 49L642
 dv_is_:
   similar_to: '[[Paper]]'
   same_as:
-  - '[[../../WikiData/WD~Papyrus,125576]]'
+  - '[[../../WikiData/WD~Papyrus,125576|WD~Papyrus,125576]]'
   - '[[/_Standards/Chemistry/Material/Papyrus|Papyrus]]'
   - '[[/_public/Chemistry/Material/Papyrus.public|Papyrus.public]]'
   - '[[/_internal/Chemistry/Material/Papyrus.internal|Papyrus.internal]]'
@@ -88,7 +88,7 @@ dv_is_:
   - '[[/_secret/Chemistry/Material/Papyrus.secret|Papyrus.secret]]'
 dv_is_similar_to: '[[Paper]]'
 dv_is_same_as:
-- '[[../../WikiData/WD~Papyrus,125576]]'
+- '[[../../WikiData/WD~Papyrus,125576|WD~Papyrus,125576]]'
 - '[[/_Standards/Chemistry/Material/Papyrus|Papyrus]]'
 - '[[/_public/Chemistry/Material/Papyrus.public|Papyrus.public]]'
 - '[[/_internal/Chemistry/Material/Papyrus.internal|Papyrus.internal]]'

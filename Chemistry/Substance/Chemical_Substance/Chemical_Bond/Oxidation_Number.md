@@ -87,10 +87,10 @@ aliases:
 - 酸化数
 - 산화수
 has_id_wikidata: Q484152
-subclass_of: '[[_Standards/WikiData/WD~dimensionless_quantity,126818]]'
+subclass_of: '[[_Standards/WikiData/WD~dimensionless_quantity,126818|WD~dimensionless_quantity,126818]]'
 instance_of:
-- '[[_Standards/WikiData/WD~chemical_property,764285]]'
-- '[[_Standards/WikiData/WD~chemical_formalism,17540792]]'
+- '[[_Standards/WikiData/WD~chemical_property,764285|WD~chemical_property,764285]]'
+- '[[_Standards/WikiData/WD~chemical_formalism,17540792|WD~chemical_formalism,17540792]]'
 Wikidata_property: oxidation state
 ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mn>1</mn></mstyle></mrow></math>
 quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>z</mi></mstyle></mrow></math>
@@ -99,7 +99,7 @@ IEV_number: 114-01-25
 Commons_category: Oxidation states
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Oxidation_number,484152]]'
+  - '[[../../../../WikiData/WD~Oxidation_number,484152|WD~Oxidation_number,484152]]'
   - '[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Oxidation_Number|Oxidation_Number]]'
   - '[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Oxidation_Number.public|Oxidation_Number.public]]'
   - '[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Oxidation_Number.internal|Oxidation_Number.internal]]'
@@ -108,7 +108,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Oxidation_Number.personal|Oxidation_Number.personal]]'
   - '[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Oxidation_Number.secret|Oxidation_Number.secret]]'
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Oxidation_number,484152]]'
+- '[[../../../../WikiData/WD~Oxidation_number,484152|WD~Oxidation_number,484152]]'
 - '[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Oxidation_Number|Oxidation_Number]]'
 - '[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Oxidation_Number.public|Oxidation_Number.public]]'
 - '[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Oxidation_Number.internal|Oxidation_Number.internal]]'

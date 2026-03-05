@@ -74,14 +74,14 @@ aliases:
 - "\U0002B7F7"
 has_id_wikidata: Q1304
 part_of:
-- '[[_Standards/WikiData/WD~group_16,104567]]'
-- '[[_Standards/WikiData/WD~period_7,244979]]'
-subclass_of: '[[_Standards/WikiData/WD~group_16,104567]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Joint_Institute_for_Nuclear_Research,259517]]'
-named_after: '[[_Standards/WikiData/WD~Lawrence_Livermore_National_Laboratory,519826]]'
+- '[[_Standards/WikiData/WD~group_16,104567|WD~group_16,104567]]'
+- '[[_Standards/WikiData/WD~period_7,244979|WD~period_7,244979]]'
+subclass_of: '[[_Standards/WikiData/WD~group_16,104567|WD~group_16,104567]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Joint_Institute_for_Nuclear_Research,259517|WD~Joint_Institute_for_Nuclear_Research,259517]]'
+named_after: '[[_Standards/WikiData/WD~Lawrence_Livermore_National_Laboratory,519826|WD~Lawrence_Livermore_National_Laboratory,519826]]'
 instance_of:
-- '[[_Standards/WikiData/WD~synthetic_element,755992]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+- '[[_Standards/WikiData/WD~synthetic_element,755992|WD~synthetic_element,755992]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 atomic_number: 116
 OmegaWiki_Defined_Meaning: 708224
 subject_lexeme: L18311

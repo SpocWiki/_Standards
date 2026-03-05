@@ -109,36 +109,36 @@ aliases:
 - 萵苣
 - 상추
 has_id_wikidata: Q83193
-parent_taxon: '[[_Standards/WikiData/WD~Lactuca,578052]]'
+parent_taxon: '[[_Standards/WikiData/WD~Lactuca,578052|WD~Lactuca,578052]]'
 described_by_source:
-- '[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]'
-- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_80(1),112869490]]'
+- '[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112|WD~Zhiwu_Mingshi_Tukao,107402112]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_80(1),112869490|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_80(1),112869490]]'
 this_taxon_is_source_of:
-- '[[_Standards/WikiData/WD~iceberg_lettuce,1310886]]'
-- '[[_Standards/WikiData/WD~Lactuca_sativa_var._crispa,2248133]]'
-- '[[_Standards/WikiData/WD~Lactuca_sativa_var._capitata,11853965]]'
-- '[[_Standards/WikiData/WD~lettuce,104666136]]'
-award_received: '[[_Standards/WikiData/WD~Vegetable_of_the_year,1344055]]'
+- '[[_Standards/WikiData/WD~iceberg_lettuce,1310886|WD~iceberg_lettuce,1310886]]'
+- '[[_Standards/WikiData/WD~Lactuca_sativa_var._crispa,2248133|WD~Lactuca_sativa_var._crispa,2248133]]'
+- '[[_Standards/WikiData/WD~Lactuca_sativa_var._capitata,11853965|WD~Lactuca_sativa_var._capitata,11853965]]'
+- '[[_Standards/WikiData/WD~lettuce,104666136|WD~lettuce,104666136]]'
+award_received: '[[_Standards/WikiData/WD~Vegetable_of_the_year,1344055|WD~Vegetable_of_the_year,1344055]]'
 has_use:
-- '[[_Standards/WikiData/WD~activated_charcoal,2957662]]'
-- '[[_Standards/WikiData/WD~leaf_vegetable,20134]]'
+- '[[_Standards/WikiData/WD~activated_charcoal,2957662|WD~activated_charcoal,2957662]]'
+- '[[_Standards/WikiData/WD~leaf_vegetable,20134|WD~leaf_vegetable,20134]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~useful_plant,11992872]]'
-- '[[_Standards/WikiData/WD~vegetable,11004]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
-hardiness_of_plant: '[[_Standards/WikiData/WD~2,99546131]]'
+- '[[_Standards/WikiData/WD~useful_plant,11992872|WD~useful_plant,11992872]]'
+- '[[_Standards/WikiData/WD~vegetable,11004|WD~vegetable,11004]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615|WD~WikiProject_Invasion_Biology,56241615]]'
+hardiness_of_plant: '[[_Standards/WikiData/WD~2,99546131|WD~2,99546131]]'
 taxon_range:
-- '[[_Standards/WikiData/WD~Beijing,956]]'
-- '[[_Standards/WikiData/WD~Guangdong,15175]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Fujian,41705]]'
-taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
-different_from: '[[_Standards/WikiData/WD~salad,9266]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~Beijing,956|WD~Beijing,956]]'
+- '[[_Standards/WikiData/WD~Guangdong,15175|WD~Guangdong,15175]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Fujian,41705|WD~Fujian,41705]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432|WD~species,7432]]'
+different_from: '[[_Standards/WikiData/WD~salad,9266|WD~salad,9266]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 food_energy: 15
 ITIS_TSN: 36607
 OmegaWiki_Defined_Meaning: 342052

@@ -51,10 +51,10 @@ aliases:
 - 결합 에너지
 has_id_wikidata: Q420754
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~potential_energy,155640]]'
-instance_of: '[[_Standards/WikiData/WD~form_of_energy,3935690]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~potential_energy,155640|WD~potential_energy,155640]]'
+instance_of: '[[_Standards/WikiData/WD~form_of_energy,3935690|WD~form_of_energy,3935690]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 Wikidata_property: binding energy
 ISQ_dimension: >-
   <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle {\mathsf {L}}^{2}{\mathsf {M}}{\mathsf {T}}^{-2}}">

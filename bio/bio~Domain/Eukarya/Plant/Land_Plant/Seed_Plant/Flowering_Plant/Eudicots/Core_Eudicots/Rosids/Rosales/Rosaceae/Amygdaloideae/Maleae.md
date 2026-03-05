@@ -17,14 +17,14 @@ aliases:
 - 蘋果族
 - 사과나무족
 has_id_wikidata: Q2119847
-taxon_rank: '[[_Standards/WikiData/WD~tribe,227936]]'
+taxon_rank: '[[_Standards/WikiData/WD~tribe,227936|WD~tribe,227936]]'
 described_by_source:
-- '[[../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-parent_taxon: '[[../../../../../../../../../../../../../WikiData/WD~Amygdaloideae,854082]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878|WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+parent_taxon: '[[../../../../../../../../../../../../../WikiData/WD~Amygdaloideae,854082|WD~Amygdaloideae,854082]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Malus%20sikkimensis0.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Lindleya%20mespiloides%20Kunth.jpg
@@ -86,7 +86,7 @@ dv_has_:
 
 # [[Maleae]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../../WikiData/WD~Maleae,2119847]] 
+#is_/same_as :: [[../../../../../../../../../../../../../WikiData/WD~Maleae,2119847|WD~Maleae,2119847]] 
 
 ## #has_/text_of_/abstract 
 

@@ -66,16 +66,16 @@ aliases:
 - ელემენტთა პერიოდული სისტემის პირველი პერიოდი
 - 第1周期元素
 has_id_wikidata: Q191936
-instance_of: '[[_Standards/WikiData/WD~period,101843]]'
-followed_by: '[[_Standards/WikiData/WD~period_2,207712]]'
-has_part_s_: '[[_Standards/WikiData/WD~chemical_element,11344]]'
+instance_of: '[[_Standards/WikiData/WD~period,101843|WD~period,101843]]'
+followed_by: '[[_Standards/WikiData/WD~period_2,207712|WD~period_2,207712]]'
+has_part_s_: '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Helium%20discharge%20tube.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Hydrogen%20discharge%20tube.jpg
 Commons_category: Periodic table row 1
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Period_1,191936]]'
+  - '[[../../../WikiData/WD~Period_1,191936|WD~Period_1,191936]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Periodic_Table/Period_1|Period_1]]'
   - '[[/_public/Chemistry/Chemical_Element/Periodic_Table/Period_1.public|Period_1.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Periodic_Table/Period_1.internal|Period_1.internal]]'
@@ -84,7 +84,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Chemical_Element/Periodic_Table/Period_1.personal|Period_1.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Periodic_Table/Period_1.secret|Period_1.secret]]'
 dv_is_same_as:
-- '[[../../../WikiData/WD~Period_1,191936]]'
+- '[[../../../WikiData/WD~Period_1,191936|WD~Period_1,191936]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Periodic_Table/Period_1|Period_1]]'
 - '[[/_public/Chemistry/Chemical_Element/Periodic_Table/Period_1.public|Period_1.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Periodic_Table/Period_1.internal|Period_1.internal]]'

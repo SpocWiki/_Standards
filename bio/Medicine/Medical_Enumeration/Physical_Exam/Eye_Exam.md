@@ -66,9 +66,9 @@ tags:
 title: is_an_eye Class
 type: Type
 subclass_of:
-- '[[_Standards/WikiData/WD~medical_diagnosis,177719]]'
-- '[[_Standards/WikiData/WD~ophthalmological_diagnostic_techniques,64722791]]'
-instance_of: '[[_Standards/WikiData/WD~measurement,12453]]'
+- '[[_Standards/WikiData/WD~medical_diagnosis,177719|WD~medical_diagnosis,177719]]'
+- '[[_Standards/WikiData/WD~ophthalmological_diagnostic_techniques,64722791|WD~ophthalmological_diagnostic_techniques,64722791]]'
+instance_of: '[[_Standards/WikiData/WD~measurement,12453|WD~measurement,12453]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/CCMDonation11.JPG
 Commons_category: Eye examinations
 dv_has_:
@@ -128,9 +128,9 @@ Tag Instances like this:
 
 Eye or ophthalmological function assessment with clinical examination.
 
-#has_/parent_class :: [[../PhysicalExam]]  
+#has_/parent_class :: [[../PhysicalExam|PhysicalExam]]  
 
-#is_/enum_of :: [[../PhysicalExam]]  
+#is_/enum_of :: [[../PhysicalExam|PhysicalExam]]  
 
 #is_/same_as :: [[../../../../WikiData/WD~Eye_examination,796207|WD~Eye_examination,796207]]
 

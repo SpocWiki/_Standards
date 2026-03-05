@@ -62,17 +62,17 @@ aliases:
 - 擴散作用
 - 확산
 has_id_wikidata: Q163214
-instance_of: '[[_Standards/WikiData/WD~physical_law,214070]]'
+instance_of: '[[_Standards/WikiData/WD~physical_law,214070|WD~physical_law,214070]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~transport_phenomenon,679643]]'
-- '[[_Standards/WikiData/WD~dissemination,105460363]]'
-different_from: '[[_Standards/WikiData/WD~trans_cultural_diffusion,9213532]]'
-studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473]]'
+- '[[_Standards/WikiData/WD~transport_phenomenon,679643|WD~transport_phenomenon,679643]]'
+- '[[_Standards/WikiData/WD~dissemination,105460363|WD~dissemination,105460363]]'
+different_from: '[[_Standards/WikiData/WD~trans_cultural_diffusion,9213532|WD~trans_cultural_diffusion,9213532]]'
+studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473|WD~thermodynamics,11473]]'
 Commons_gallery: Diffusion
 Commons_category: Diffusion
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Diffusion.svg

@@ -90,7 +90,7 @@ dv_has_:
 
 # [[Big5~C-Conscientiousness]] 
 
-#is_/part_of :: [[../Personality~Big5]] 
+#is_/part_of :: [[../Personality~Big5|Personality~Big5]] 
 
 conscientiousness (C) measures self-control, diligence, and attention to detail. 
 

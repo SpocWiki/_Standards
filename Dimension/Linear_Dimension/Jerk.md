@@ -10,7 +10,7 @@ aliases:
 
 In physics, jerk (also known as jolt) is the 
 rate of change of an object's acceleration over time, or 
-the 3rd Derivative of the [[../../Mathematics/Geometry/Position-Vector|Position-Vector]] by [[../Dim~Time]]. 
+the 3rd Derivative of the [[../../Mathematics/Geometry/Position-Vector|Position-Vector]] by [[../Dim~Time|Dim~Time]]. 
 
 It is a vector quantity (having both magnitude and direction). 
 Jerk is most commonly denoted by the symbol j 

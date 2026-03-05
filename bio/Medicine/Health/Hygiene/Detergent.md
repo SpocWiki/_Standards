@@ -54,19 +54,19 @@ aliases:
 - 清潔劑
 - 세제
 has_id_wikidata: Q334637
-part_of: '[[_Standards/WikiData/WD~hygiene,162297]]'
-has_active_ingredient: '[[_Standards/WikiData/WD~surfactant,191154]]'
-has_part_s_: '[[_Standards/WikiData/WD~surfactant,191154]]'
+part_of: '[[_Standards/WikiData/WD~hygiene,162297|WD~hygiene,162297]]'
+has_active_ingredient: '[[_Standards/WikiData/WD~surfactant,191154|WD~surfactant,191154]]'
+has_part_s_: '[[_Standards/WikiData/WD~surfactant,191154|WD~surfactant,191154]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~surfactant,191154]]'
-- '[[_Standards/WikiData/WD~chemical_product,1069267]]'
-- '[[_Standards/WikiData/WD~cleaning_product,1974312]]'
+- '[[_Standards/WikiData/WD~surfactant,191154|WD~surfactant,191154]]'
+- '[[_Standards/WikiData/WD~chemical_product,1069267|WD~chemical_product,1069267]]'
+- '[[_Standards/WikiData/WD~cleaning_product,1974312|WD~cleaning_product,1974312]]'
 has_use:
-- '[[_Standards/WikiData/WD~foaming_agent,759922]]'
-- '[[_Standards/WikiData/WD~emulsifier,907356]]'
-- '[[_Standards/WikiData/WD~release_agent,908279]]'
-- '[[_Standards/WikiData/WD~cleaning_product,1974312]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
+- '[[_Standards/WikiData/WD~foaming_agent,759922|WD~foaming_agent,759922]]'
+- '[[_Standards/WikiData/WD~emulsifier,907356|WD~emulsifier,907356]]'
+- '[[_Standards/WikiData/WD~release_agent,908279|WD~release_agent,908279]]'
+- '[[_Standards/WikiData/WD~cleaning_product,1974312|WD~cleaning_product,1974312]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630|WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
 OmegaWiki_Defined_Meaning: 899
 Central_Product_Classification_Code_version_2_1: 35322
 Dewey_Decimal_Classification:
@@ -167,7 +167,7 @@ dv_has_:
 
 # [[Detergent]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~detergent,334637]] 
+#is_/same_as :: [[../../../../WikiData/WD~detergent,334637|WD~detergent,334637]] 
 
 ## #has_/text_of_/abstract 
 

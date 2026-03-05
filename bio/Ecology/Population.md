@@ -72,30 +72,30 @@ aliases:
 - 種群
 - 개체군
 has_id_wikidata: Q2625603
-part_of: '[[_Standards/WikiData/WD~biocoenosis,184806]]'
+part_of: '[[_Standards/WikiData/WD~biocoenosis,184806|WD~biocoenosis,184806]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~life_expectancy,188419]]'
-- '[[_Standards/WikiData/WD~gene_pool,189800]]'
-- '[[_Standards/WikiData/WD~species_distribution,250388]]'
-- '[[_Standards/WikiData/WD~genetic_variation,349856]]'
-- '[[_Standards/WikiData/WD~number_of_entities,614112]]'
-- '[[_Standards/WikiData/WD~population_dynamics,904564]]'
+- '[[_Standards/WikiData/WD~life_expectancy,188419|WD~life_expectancy,188419]]'
+- '[[_Standards/WikiData/WD~gene_pool,189800|WD~gene_pool,189800]]'
+- '[[_Standards/WikiData/WD~species_distribution,250388|WD~species_distribution,250388]]'
+- '[[_Standards/WikiData/WD~genetic_variation,349856|WD~genetic_variation,349856]]'
+- '[[_Standards/WikiData/WD~number_of_entities,614112|WD~number_of_entities,614112]]'
+- '[[_Standards/WikiData/WD~population_dynamics,904564|WD~population_dynamics,904564]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624|WD~Lean_Logic,101314624]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~size,322481]]'
-- '[[_Standards/WikiData/WD~statistic,1949963]]'
-- '[[_Standards/WikiData/WD~group_of_living_things,16334298]]'
-- '[[_Standards/WikiData/WD~ecological_unit,55610479]]'
-studied_by: '[[_Standards/WikiData/WD~population_biology,1098652]]'
+- '[[_Standards/WikiData/WD~size,322481|WD~size,322481]]'
+- '[[_Standards/WikiData/WD~statistic,1949963|WD~statistic,1949963]]'
+- '[[_Standards/WikiData/WD~group_of_living_things,16334298|WD~group_of_living_things,16334298]]'
+- '[[_Standards/WikiData/WD~ecological_unit,55610479|WD~ecological_unit,55610479]]'
+studied_by: '[[_Standards/WikiData/WD~population_biology,1098652|WD~population_biology,1098652]]'
 different_from:
-- '[[_Standards/WikiData/WD~number_of_individuals,1613416]]'
-- '[[_Standards/WikiData/WD~human_population,33829]]'
-characteristic_of: '[[_Standards/WikiData/WD~group_of_living_things,16334298]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~biological_population,134444793]]'
+- '[[_Standards/WikiData/WD~number_of_individuals,1613416|WD~number_of_individuals,1613416]]'
+- '[[_Standards/WikiData/WD~human_population,33829|WD~human_population,33829]]'
+characteristic_of: '[[_Standards/WikiData/WD~group_of_living_things,16334298|WD~group_of_living_things,16334298]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~biological_population,134444793|WD~biological_population,134444793]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Animal%20biology%20%281938%29%20%2817576880663%29.jpg
 dv_has_:
   name_:

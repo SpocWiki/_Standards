@@ -58,11 +58,11 @@ aliases:
 - 천체물리학자
 has_id_wikidata: Q752129
 subclass_of:
-- '[[_Standards/WikiData/WD~physicist,169470]]'
-- '[[_Standards/WikiData/WD~astronomer,11063]]'
-instance_of: '[[_Standards/WikiData/WD~profession,28640]]'
-field_of_this_occupation: '[[_Standards/WikiData/WD~astrophysics,37547]]'
-field_of_work: '[[_Standards/WikiData/WD~astrophysics,37547]]'
+- '[[_Standards/WikiData/WD~physicist,169470|WD~physicist,169470]]'
+- '[[_Standards/WikiData/WD~astronomer,11063|WD~astronomer,11063]]'
+instance_of: '[[_Standards/WikiData/WD~profession,28640|WD~profession,28640]]'
+field_of_this_occupation: '[[_Standards/WikiData/WD~astrophysics,37547|WD~astrophysics,37547]]'
+field_of_work: '[[_Standards/WikiData/WD~astrophysics,37547|WD~astrophysics,37547]]'
 ISCO_08_occupation_class: 2111
 ISCO_88_occupation_class: 2111
 female_form_of_label:
@@ -98,7 +98,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/L%27astrophysicienne%2
 P8189: 987007295071805200
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~astrophysicist,752129]]'
+  - '[[_Standards/WikiData/WD~astrophysicist,752129|WD~astrophysicist,752129]]'
   - '[[/_Standards/Astronomy/Astronomer/Astrophysicist|Astrophysicist]]'
   - '[[/_public/Astronomy/Astronomer/Astrophysicist.public|Astrophysicist.public]]'
   - '[[/_internal/Astronomy/Astronomer/Astrophysicist.internal|Astrophysicist.internal]]'
@@ -107,7 +107,7 @@ dv_is_:
   - '[[/_personal/Astronomy/Astronomer/Astrophysicist.personal|Astrophysicist.personal]]'
   - '[[/_secret/Astronomy/Astronomer/Astrophysicist.secret|Astrophysicist.secret]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~astrophysicist,752129]]'
+- '[[_Standards/WikiData/WD~astrophysicist,752129|WD~astrophysicist,752129]]'
 - '[[/_Standards/Astronomy/Astronomer/Astrophysicist|Astrophysicist]]'
 - '[[/_public/Astronomy/Astronomer/Astrophysicist.public|Astrophysicist.public]]'
 - '[[/_internal/Astronomy/Astronomer/Astrophysicist.internal|Astrophysicist.internal]]'
@@ -195,7 +195,7 @@ dv_has_:
 
 # [[Astrophysicist]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~astrophysicist,752129]] 
+#is_/same_as :: [[_Standards/WikiData/WD~astrophysicist,752129|WD~astrophysicist,752129]] 
 
 ## #has_/text_of_/abstract 
 

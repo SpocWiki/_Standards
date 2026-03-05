@@ -52,18 +52,18 @@ aliases:
 - 视觉系统
 - 시각 기관
 has_id_wikidata: Q558363
-different_from: '[[_Standards/WikiData/WD~visual_perception,162668]]'
-has_use: '[[_Standards/WikiData/WD~visual_perception,162668]]'
+different_from: '[[_Standards/WikiData/WD~visual_perception,162668|WD~visual_perception,162668]]'
+has_use: '[[_Standards/WikiData/WD~visual_perception,162668|WD~visual_perception,162668]]'
 has_part_s_of_the_class:
-- '[[_Standards/WikiData/WD~optic_nerve,186029]]'
-- '[[_Standards/WikiData/WD~optic_(nerve)_tract,1079316]]'
-- '[[_Standards/WikiData/WD~eye,7364]]'
+- '[[_Standards/WikiData/WD~optic_nerve,186029|WD~optic_nerve,186029]]'
+- '[[_Standards/WikiData/WD~optic_(nerve)_tract,1079316|WD~optic_(nerve)_tract,1079316]]'
+- '[[_Standards/WikiData/WD~eye,7364|WD~eye,7364]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~heterogeneous_anatomical_cluster,66561296]]'
-- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]'
-instance_of: '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]'
-anatomical_location: '[[_Standards/WikiData/WD~head,23640]]'
-part_of: '[[_Standards/WikiData/WD~central_nervous_system,47273]]'
+- '[[_Standards/WikiData/WD~heterogeneous_anatomical_cluster,66561296|WD~heterogeneous_anatomical_cluster,66561296]]'
+- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975|WD~particular_anatomical_entity,112826975]]'
+instance_of: '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905|WD~class_of_anatomical_entity,112826905]]'
+anatomical_location: '[[_Standards/WikiData/WD~head,23640|WD~head,23640]]'
+part_of: '[[_Standards/WikiData/WD~central_nervous_system,47273|WD~central_nervous_system,47273]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Human%20visual%20pathway.svg
 UMLS_CUI: C3536733
 Commons_category: Visual system

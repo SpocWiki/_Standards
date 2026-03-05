@@ -41,10 +41,10 @@ aliases:
 - 등급
 has_id_wikidata: Q2028919
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~logarithmic_scale,937378]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~logarithmic_scale,937378|WD~logarithmic_scale,937378]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 in_defining_formula:
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>M</mi></mstyle></mrow></math>
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>d</mi></mstyle></mrow></math>
@@ -54,7 +54,7 @@ inception: -0128-01-01T00:00:00Z
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>m</mi><mo stretchy="false">&#x2212;</mo><mi>M</mi><mo stretchy="false">=</mo><mn>5</mn><mrow data-mjx-texclass="INNER"><mo data-mjx-texclass="OPEN">(</mo><msub><mi>log</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mn>1</mn><mn>0</mn></mrow></mrow></msub><mi>d</mi><mo stretchy="false">&#x2212;</mo><mn>1</mn><mo data-mjx-texclass="CLOSE">)</mo></mrow></mstyle></mrow></math>
 dv_is_:
   same_as:
-  - '[[../WikiData/WD~Magnitude,2028919]]'
+  - '[[../WikiData/WD~Magnitude,2028919|WD~Magnitude,2028919]]'
   - '[[/_Standards/Astronomy/Magnitude(Astronomy)|Magnitude(Astronomy)]]'
   - '[[/_public/Astronomy/Magnitude(Astronomy).public|Magnitude(Astronomy).public]]'
   - '[[/_internal/Astronomy/Magnitude(Astronomy).internal|Magnitude(Astronomy).internal]]'
@@ -63,7 +63,7 @@ dv_is_:
   - '[[/_personal/Astronomy/Magnitude(Astronomy).personal|Magnitude(Astronomy).personal]]'
   - '[[/_secret/Astronomy/Magnitude(Astronomy).secret|Magnitude(Astronomy).secret]]'
 dv_is_same_as:
-- '[[../WikiData/WD~Magnitude,2028919]]'
+- '[[../WikiData/WD~Magnitude,2028919|WD~Magnitude,2028919]]'
 - '[[/_Standards/Astronomy/Magnitude(Astronomy)|Magnitude(Astronomy)]]'
 - '[[/_public/Astronomy/Magnitude(Astronomy).public|Magnitude(Astronomy).public]]'
 - '[[/_internal/Astronomy/Magnitude(Astronomy).internal|Magnitude(Astronomy).internal]]'

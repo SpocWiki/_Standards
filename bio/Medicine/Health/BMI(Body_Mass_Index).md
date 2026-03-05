@@ -161,17 +161,17 @@ defining_formula: >-
     </semantics>
   </math>
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~anthropometric_index,11385167]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~anthropometric_index,11385167|WD~anthropometric_index,11385167]]'
 instance_of:
-- '[[_Standards/WikiData/WD~clinical_sign,1441305]]'
-- '[[_Standards/WikiData/WD~biomedical_measurand_type,42014143]]'
-different_from: '[[_Standards/WikiData/WD~surface_density,1907514]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-replaces: '[[_Standards/WikiData/WD~Broca_Index,11344245]]'
-has_use: '[[_Standards/WikiData/WD~classification_of_obesity,22907290]]'
-recommended_unit_of_measurement: '[[_Standards/WikiData/WD~kilogram_per_square_metre,25377184]]'
-reference_value: '[[_Standards/WikiData/WD~reference_range_as_qualifier,55426051]]'
+- '[[_Standards/WikiData/WD~clinical_sign,1441305|WD~clinical_sign,1441305]]'
+- '[[_Standards/WikiData/WD~biomedical_measurand_type,42014143|WD~biomedical_measurand_type,42014143]]'
+different_from: '[[_Standards/WikiData/WD~surface_density,1907514|WD~surface_density,1907514]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+replaces: '[[_Standards/WikiData/WD~Broca_Index,11344245|WD~Broca_Index,11344245]]'
+has_use: '[[_Standards/WikiData/WD~classification_of_obesity,22907290|WD~classification_of_obesity,22907290]]'
+recommended_unit_of_measurement: '[[_Standards/WikiData/WD~kilogram_per_square_metre,25377184|WD~kilogram_per_square_metre,25377184]]'
+reference_value: '[[_Standards/WikiData/WD~reference_range_as_qualifier,55426051|WD~reference_range_as_qualifier,55426051]]'
 in_defining_formula:
 - >-
   <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle m}">
@@ -239,8 +239,8 @@ quantity_symbol_LaTeX_:
       <annotation encoding="application/x-tex">{\displaystyle {\text{ИМТ}}}</annotation>
     </semantics>
   </math>
-facet_of: '[[_Standards/WikiData/WD~health,12147]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Adolphe_Quetelet,20012]]'
+facet_of: '[[_Standards/WikiData/WD~health,12147|WD~health,12147]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Adolphe_Quetelet,20012|WD~Adolphe_Quetelet,20012]]'
 OmegaWiki_Defined_Meaning: 800983
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Body%20mass%20index.png
 P8189: 987007532838105171

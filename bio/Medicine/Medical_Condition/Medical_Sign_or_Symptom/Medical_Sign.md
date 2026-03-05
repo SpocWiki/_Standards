@@ -34,7 +34,7 @@ Tag Instances like this:
 
 Any physical manifestation of a person's medical condition discoverable by objective diagnostic tests or physical examination.
 
-#has_/parent_class :: [[../MedicalSignOrSymptom]]  
+#has_/parent_class :: [[../MedicalSignOrSymptom|MedicalSignOrSymptom]]  
 
 #has_/child_/class :: [ VitalSign ]  
 

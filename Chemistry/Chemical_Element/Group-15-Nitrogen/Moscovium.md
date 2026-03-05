@@ -78,14 +78,14 @@ aliases:
 - 모스코븀
 has_id_wikidata: Q1303
 part_of:
-- '[[_Standards/WikiData/WD~group_15,106675]]'
-- '[[_Standards/WikiData/WD~period_7,244979]]'
-location_of_discovery: '[[_Standards/WikiData/WD~Joint_Institute_for_Nuclear_Research,259517]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Joint_Institute_for_Nuclear_Research,259517]]'
+- '[[_Standards/WikiData/WD~group_15,106675|WD~group_15,106675]]'
+- '[[_Standards/WikiData/WD~period_7,244979|WD~period_7,244979]]'
+location_of_discovery: '[[_Standards/WikiData/WD~Joint_Institute_for_Nuclear_Research,259517|WD~Joint_Institute_for_Nuclear_Research,259517]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Joint_Institute_for_Nuclear_Research,259517|WD~Joint_Institute_for_Nuclear_Research,259517]]'
 instance_of:
-- '[[_Standards/WikiData/WD~synthetic_element,755992]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
-named_after: '[[_Standards/WikiData/WD~Moscow_Oblast,1697]]'
+- '[[_Standards/WikiData/WD~synthetic_element,755992|WD~synthetic_element,755992]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
+named_after: '[[_Standards/WikiData/WD~Moscow_Oblast,1697|WD~Moscow_Oblast,1697]]'
 atomic_number: 115
 Commons_gallery: Moscovium
 Commons_category: Moscovium
@@ -97,7 +97,7 @@ CAS_Registry_Number: 54085-64-2
 time_of_discovery_or_invention: 2003-08-01T00:00:00Z
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Moscovium,1303]]'
+  - '[[../../../WikiData/WD~Moscovium,1303|WD~Moscovium,1303]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium|Moscovium]]'
   - '[[/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.public|Moscovium.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.internal|Moscovium.internal]]'
@@ -106,7 +106,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.personal|Moscovium.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.secret|Moscovium.secret]]'
 dv_is_same_as:
-- '[[../../../WikiData/WD~Moscovium,1303]]'
+- '[[../../../WikiData/WD~Moscovium,1303|WD~Moscovium,1303]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium|Moscovium]]'
 - '[[/_public/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.public|Moscovium.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen/Moscovium.internal|Moscovium.internal]]'

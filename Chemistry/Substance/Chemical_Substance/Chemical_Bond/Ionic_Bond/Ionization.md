@@ -64,15 +64,15 @@ aliases:
 - 이온화
 has_id_wikidata: Q190382
 subclass_of:
-- '[[_Standards/WikiData/WD~phase_change,185357]]'
-- '[[_Standards/WikiData/WD~chemical_reaction,36534]]'
-part_of: '[[_Standards/WikiData/WD~Systems_Biology_Ontology,2377160]]'
-opposite_of: '[[_Standards/WikiData/WD~plasma_recombination,4392902]]'
-uses: '[[_Standards/WikiData/WD~gaseous_state_of_matter,29147941]]'
+- '[[_Standards/WikiData/WD~phase_change,185357|WD~phase_change,185357]]'
+- '[[_Standards/WikiData/WD~chemical_reaction,36534|WD~chemical_reaction,36534]]'
+part_of: '[[_Standards/WikiData/WD~Systems_Biology_Ontology,2377160|WD~Systems_Biology_Ontology,2377160]]'
+opposite_of: '[[_Standards/WikiData/WD~plasma_recombination,4392902|WD~plasma_recombination,4392902]]'
+uses: '[[_Standards/WikiData/WD~gaseous_state_of_matter,29147941|WD~gaseous_state_of_matter,29147941]]'
 has_effect:
-- '[[_Standards/WikiData/WD~plasma_state_of_matter,29148313]]'
-- '[[_Standards/WikiData/WD~ion,36496]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
+- '[[_Standards/WikiData/WD~plasma_state_of_matter,29148313|WD~plasma_state_of_matter,29148313]]'
+- '[[_Standards/WikiData/WD~ion,36496|WD~ion,36496]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630|WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Phase%20change%20-%20en.svg
 exact_match: http://biomodels.net/SBO/SBO_0000209
 IEV_number:

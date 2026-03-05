@@ -52,18 +52,18 @@ aliases:
 - 植物细胞
 - 식물 세포
 has_id_wikidata: Q1056194
-has_characteristic: '[[_Standards/WikiData/WD~ploidy,118406]]'
+has_characteristic: '[[_Standards/WikiData/WD~ploidy,118406|WD~ploidy,118406]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~vacuole,127702]]'
-- '[[_Standards/WikiData/WD~plastid,165963]]'
-instance_of: '[[_Standards/WikiData/WD~cell_type,189118]]'
+- '[[_Standards/WikiData/WD~vacuole,127702|WD~vacuole,127702]]'
+- '[[_Standards/WikiData/WD~plastid,165963|WD~plastid,165963]]'
+instance_of: '[[_Standards/WikiData/WD~cell_type,189118|WD~cell_type,189118]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~eukaryotic_cell,3307661]]'
-- '[[_Standards/WikiData/WD~nonmammalian_cell,116723217]]'
-described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~eukaryotic_cell,3307661|WD~eukaryotic_cell,3307661]]'
+- '[[_Standards/WikiData/WD~nonmammalian_cell,116723217|WD~nonmammalian_cell,116723217]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 studied_by:
-- '[[_Standards/WikiData/WD~plant_cell_biology,107616960]]'
-- '[[_Standards/WikiData/WD~plant_cell_and_molecular_biology,113133333]]'
+- '[[_Standards/WikiData/WD~plant_cell_biology,107616960|WD~plant_cell_biology,107616960]]'
+- '[[_Standards/WikiData/WD~plant_cell_and_molecular_biology,113133333|WD~plant_cell_and_molecular_biology,113133333]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/C%C3%A9lula%20Vegetal.jpg
 MeSH_tree_code: A11.750
 UMLS_CUI: C3178867

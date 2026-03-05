@@ -58,15 +58,15 @@ aliases:
 - 短吻鳄属
 - 앨리게이터속
 has_id_wikidata: Q530397
-different_from: '[[_Standards/WikiData/WD~crocodile,2535664]]'
+different_from: '[[_Standards/WikiData/WD~crocodile,2535664|WD~crocodile,2535664]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-this_taxon_is_source_of: '[[_Standards/WikiData/WD~alligator_meat,17011993]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~alligator_meat,17011993|WD~alligator_meat,17011993]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
 ITIS_TSN: 174366
 OmegaWiki_Defined_Meaning: 648694
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Two%20american%20alligators.jpg
@@ -184,7 +184,7 @@ dv_has_:
 
 # [[Alligatoridae]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../WikiData/WD~Alligator,530397]]
+#is_/same_as :: [[../../../../../../../../../../../../../../../../../../../WikiData/WD~Alligator,530397|WD~Alligator,530397]]
 
 ## #has_/text_of_/abstract 
 

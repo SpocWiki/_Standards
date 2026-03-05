@@ -141,33 +141,33 @@ Unicode_character:
 - "\U0001F634"
 - "\U0001F6CC"
 - "\U0001F4A4"
-opposite_of: '[[_Standards/WikiData/WD~wakefulness,246710]]'
+opposite_of: '[[_Standards/WikiData/WD~wakefulness,246710|WD~wakefulness,246710]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-studied_by: '[[_Standards/WikiData/WD~somnology,1752583]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624|WD~Lean_Logic,101314624]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+studied_by: '[[_Standards/WikiData/WD~somnology,1752583|WD~somnology,1752583]]'
 instance_of:
-- '[[_Standards/WikiData/WD~biological_process,2996394]]'
-- '[[_Standards/WikiData/WD~state_of_consciousness,15788410]]'
-has_effect: '[[_Standards/WikiData/WD~sleeping,12946962]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Sleep,13548500]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~rest,20980706]]'
-followed_by: '[[_Standards/WikiData/WD~awakening,21296557]]'
+- '[[_Standards/WikiData/WD~biological_process,2996394|WD~biological_process,2996394]]'
+- '[[_Standards/WikiData/WD~state_of_consciousness,15788410|WD~state_of_consciousness,15788410]]'
+has_effect: '[[_Standards/WikiData/WD~sleeping,12946962|WD~sleeping,12946962]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Sleep,13548500|WD~Template_Sleep,13548500]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~rest,20980706|WD~rest,20980706]]'
+followed_by: '[[_Standards/WikiData/WD~awakening,21296557|WD~awakening,21296557]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~multicellular_organismal_process,22299433]]'
-- '[[_Standards/WikiData/WD~behavior,9332]]'
+- '[[_Standards/WikiData/WD~multicellular_organismal_process,22299433|WD~multicellular_organismal_process,22299433]]'
+- '[[_Standards/WikiData/WD~behavior,9332|WD~behavior,9332]]'
 depicted_by:
-- '[[_Standards/WikiData/WD~The_Sleeper,131627560]]'
-- '[[_Standards/WikiData/WD~The_Sleeping_woman,131628763]]'
-facet_of: '[[_Standards/WikiData/WD~health,12147]]'
+- '[[_Standards/WikiData/WD~The_Sleeper,131627560|WD~The_Sleeper,131627560]]'
+- '[[_Standards/WikiData/WD~The_Sleeping_woman,131628763|WD~The_Sleeping_woman,131628763]]'
+facet_of: '[[_Standards/WikiData/WD~health,12147|WD~health,12147]]'
 OmegaWiki_Defined_Meaning: 3436
 social_media_followers: 433080
 Commons_category: Sleeping

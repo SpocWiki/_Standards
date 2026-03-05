@@ -83,18 +83,18 @@ aliases:
 - 습지
 has_id_wikidata: Q170321
 subclass_of:
-- '[[_Standards/WikiData/WD~landscape,107425]]'
-- '[[_Standards/WikiData/WD~natural_geographic_object,35145263]]'
-- '[[_Standards/WikiData/WD~body_of_water,15324]]'
-- '[[_Standards/WikiData/WD~ecosystem,37813]]'
-- '[[_Standards/WikiData/WD~habitat,52105]]'
+- '[[_Standards/WikiData/WD~landscape,107425|WD~landscape,107425]]'
+- '[[_Standards/WikiData/WD~natural_geographic_object,35145263|WD~natural_geographic_object,35145263]]'
+- '[[_Standards/WikiData/WD~body_of_water,15324|WD~body_of_water,15324]]'
+- '[[_Standards/WikiData/WD~ecosystem,37813|WD~ecosystem,37813]]'
+- '[[_Standards/WikiData/WD~habitat,52105|WD~habitat,52105]]'
 studied_by:
-- '[[_Standards/WikiData/WD~telmatology,3743777]]'
-- '[[_Standards/WikiData/WD~wetland_ecology,104200566]]'
-- '[[_Standards/WikiData/WD~wetland_science,126390320]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Wetlands,15041992]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
-described_by_source: '[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]'
+- '[[_Standards/WikiData/WD~telmatology,3743777|WD~telmatology,3743777]]'
+- '[[_Standards/WikiData/WD~wetland_ecology,104200566|WD~wetland_ecology,104200566]]'
+- '[[_Standards/WikiData/WD~wetland_science,126390320|WD~wetland_science,126390320]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Wetlands,15041992|WD~Template_Wetlands,15041992]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047|WD~WikiProject_Climate_change,15305047]]'
+described_by_source: '[[_Standards/WikiData/WD~Green_Map_Icons,103892210|WD~Green_Map_Icons,103892210]]'
 opposite_of: http://www.wikidata.org/.well-known/genid/bbaec9419a420170fe99137772cc1d87
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ujscie%20Warty%20PN%2009-2017%20img10.jpg
 Commons_category: Wetlands

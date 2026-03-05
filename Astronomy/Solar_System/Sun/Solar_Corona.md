@@ -58,12 +58,12 @@ aliases:
 - 코로나
 has_id_wikidata: Q170754
 instance_of:
-- '[[_Standards/WikiData/WD~shell_of_an_astronomical_object,47495022]]'
-- '[[_Standards/WikiData/WD~stellar_atmosphere,6311]]'
+- '[[_Standards/WikiData/WD~shell_of_an_astronomical_object,47495022|WD~shell_of_an_astronomical_object,47495022]]'
+- '[[_Standards/WikiData/WD~stellar_atmosphere,6311|WD~stellar_atmosphere,6311]]'
 part_of:
-- "[[_Standards/WikiData/WD~Sun's_atmosphere,89285197]]"
-- '[[_Standards/WikiData/WD~Sun,525]]'
-subclass_of: '[[_Standards/WikiData/WD~stellar_corona,113000019]]'
+- "[[_Standards/WikiData/WD~Sun's_atmosphere,89285197|WD~Sun's_atmosphere,89285197]]"
+- '[[_Standards/WikiData/WD~Sun,525|WD~Sun,525]]'
+subclass_of: '[[_Standards/WikiData/WD~stellar_corona,113000019|WD~stellar_corona,113000019]]'
 temperature: 5000000
 OmegaWiki_Defined_Meaning: 1240244
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Solar%20eclipse%201999%204.jpg

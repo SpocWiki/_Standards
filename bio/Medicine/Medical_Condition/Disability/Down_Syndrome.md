@@ -87,22 +87,22 @@ aliases:
 - 다운 증후군
 has_id_wikidata: Q47715
 health_specialty:
-- '[[_Standards/WikiData/WD~neurology,83042]]'
-- '[[_Standards/WikiData/WD~medical_genetics,1071953]]'
-named_after: '[[_Standards/WikiData/WD~John_Langdon_Down,315940]]'
-genetic_association: '[[_Standards/WikiData/WD~human_chromosome_21,753218]]'
-chromosome: '[[_Standards/WikiData/WD~human_chromosome_21,753218]]'
-has_cause: '[[_Standards/WikiData/WD~trisomy,844903]]'
+- '[[_Standards/WikiData/WD~neurology,83042|WD~neurology,83042]]'
+- '[[_Standards/WikiData/WD~medical_genetics,1071953|WD~medical_genetics,1071953]]'
+named_after: '[[_Standards/WikiData/WD~John_Langdon_Down,315940|WD~John_Langdon_Down,315940]]'
+genetic_association: '[[_Standards/WikiData/WD~human_chromosome_21,753218|WD~human_chromosome_21,753218]]'
+chromosome: '[[_Standards/WikiData/WD~human_chromosome_21,753218|WD~human_chromosome_21,753218]]'
+has_cause: '[[_Standards/WikiData/WD~trisomy,844903|WD~trisomy,844903]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~trisomy,844903]]'
-- '[[_Standards/WikiData/WD~chromosomal_disease,4501577]]'
-- '[[_Standards/WikiData/WD~total_autosomal_trisomy,55789082]]'
-- '[[_Standards/WikiData/WD~disease,12136]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Mongolian_idiocy,21469259]]'
+- '[[_Standards/WikiData/WD~trisomy,844903|WD~trisomy,844903]]'
+- '[[_Standards/WikiData/WD~chromosomal_disease,4501577|WD~chromosomal_disease,4501577]]'
+- '[[_Standards/WikiData/WD~total_autosomal_trisomy,55789082|WD~total_autosomal_trisomy,55789082]]'
+- '[[_Standards/WikiData/WD~disease,12136|WD~disease,12136]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686|WD~WikiProject_Medicine,4099686]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Mongolian_idiocy,21469259|WD~Mongolian_idiocy,21469259]]'
 instance_of:
-- '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
-- '[[_Standards/WikiData/WD~disability,12131]]'
+- '[[_Standards/WikiData/WD~class_of_disease,112193867|WD~class_of_disease,112193867]]'
+- '[[_Standards/WikiData/WD~disability,12131|WD~disability,12131]]'
 prevalence: 0.001
 chromosome_count: 47
 DiseasesDB: 3898

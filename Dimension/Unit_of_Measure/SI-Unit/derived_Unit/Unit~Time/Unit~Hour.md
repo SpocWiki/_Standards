@@ -124,23 +124,23 @@ aliases:
 - 钟头
 - 시간
 has_id_wikidata: Q25235
-subclass_of: '[[_Standards/WikiData/WD~time_interval,186081]]'
+subclass_of: '[[_Standards/WikiData/WD~time_interval,186081|WD~time_interval,186081]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~ISO_80000_3_2006_Quantities_and_units_Part_3_Space_and_time,26711932]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~ISO_80000_3_2006_Quantities_and_units_Part_3_Space_and_time,26711932|WD~ISO_80000_3_2006_Quantities_and_units_Part_3_Space_and_time,26711932]]'
 instance_of:
-- '[[_Standards/WikiData/WD~unit_of_time,1790144]]'
-- '[[_Standards/WikiData/WD~non_SI_unit_mentioned_in_and_accepted_with_the_SI,3268848]]'
-- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
-- '[[_Standards/WikiData/WD~SI_accepted_non_SI_unit,106839753]]'
-measured_physical_quantity: '[[_Standards/WikiData/WD~duration,2199864]]'
-different_from: '[[_Standards/WikiData/WD~time,12322185]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828596,22828596]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Hours,41524232]]'
-part_of: '[[_Standards/WikiData/WD~day,573]]'
-subdivision_of_this_unit: '[[_Standards/WikiData/WD~minute,7727]]'
-has_part_s_: '[[_Standards/WikiData/WD~minute,7727]]'
+- '[[_Standards/WikiData/WD~unit_of_time,1790144|WD~unit_of_time,1790144]]'
+- '[[_Standards/WikiData/WD~non_SI_unit_mentioned_in_and_accepted_with_the_SI,3268848|WD~non_SI_unit_mentioned_in_and_accepted_with_the_SI,3268848]]'
+- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057|WD~UCUM_derived_unit,82047057]]'
+- '[[_Standards/WikiData/WD~SI_accepted_non_SI_unit,106839753|WD~SI_accepted_non_SI_unit,106839753]]'
+measured_physical_quantity: '[[_Standards/WikiData/WD~duration,2199864|WD~duration,2199864]]'
+different_from: '[[_Standards/WikiData/WD~time,12322185|WD~time,12322185]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828596,22828596|WD~Q22828596,22828596]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Hours,41524232|WD~Template_Hours,41524232]]'
+part_of: '[[_Standards/WikiData/WD~day,573|WD~day,573]]'
+subdivision_of_this_unit: '[[_Standards/WikiData/WD~minute,7727|WD~minute,7727]]'
+has_part_s_: '[[_Standards/WikiData/WD~minute,7727|WD~minute,7727]]'
 conversion_to_standard_unit:
 - 60
 - 3600

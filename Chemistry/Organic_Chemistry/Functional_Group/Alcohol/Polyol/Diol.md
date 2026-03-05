@@ -26,19 +26,19 @@ aliases:
 - 二元醇
 - 다이올
 has_id_wikidata: Q421916
-has_part_s_: '[[_Standards/WikiData/WD~hydroxyl,104116]]'
-subclass_of: '[[_Standards/WikiData/WD~polyol,415812]]'
+has_part_s_: '[[_Standards/WikiData/WD~hydroxyl,104116|WD~hydroxyl,104116]]'
+subclass_of: '[[_Standards/WikiData/WD~polyol,415812|WD~polyol,415812]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
-followed_by: '[[_Standards/WikiData/WD~triol,3539455]]'
-follows: '[[_Standards/WikiData/WD~monohydric_alcohol,19790488]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+followed_by: '[[_Standards/WikiData/WD~triol,3539455|WD~triol,3539455]]'
+follows: '[[_Standards/WikiData/WD~monohydric_alcohol,19790488|WD~monohydric_alcohol,19790488]]'
 part_of:
-- '[[_Standards/WikiData/WD~diol_biosynthetic_process,22275929]]'
-- '[[_Standards/WikiData/WD~diol_metabolic_process,22275952]]'
-- '[[_Standards/WikiData/WD~diol_catabolic_process,22275953]]'
-instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
+- '[[_Standards/WikiData/WD~diol_biosynthetic_process,22275929|WD~diol_biosynthetic_process,22275929]]'
+- '[[_Standards/WikiData/WD~diol_metabolic_process,22275952|WD~diol_metabolic_process,22275952]]'
+- '[[_Standards/WikiData/WD~diol_catabolic_process,22275953|WD~diol_catabolic_process,22275953]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
 OmegaWiki_Defined_Meaning: 1273900
 SMARTS_notation: '[$([6]);!$([6][OX2H1])][6]([OX2H1])[6]([OX2H1])[$([6]);!$([6][OX2H1])]'
 Commons_category: Diols

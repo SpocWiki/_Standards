@@ -40,12 +40,12 @@ aliases:
 - 질산염
 has_id_wikidata: Q49916468
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Nitrates,14403522]]'
-instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
-different_from: '[[_Standards/WikiData/WD~cellulose_nitrate,105754839]]'
-subclass_of: '[[_Standards/WikiData/WD~nitrogen_oxoacid_derivative,113547429]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Nitrates,14403522|WD~Template_Nitrates,14403522]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
+different_from: '[[_Standards/WikiData/WD~cellulose_nitrate,105754839|WD~cellulose_nitrate,105754839]]'
+subclass_of: '[[_Standards/WikiData/WD~nitrogen_oxoacid_derivative,113547429|WD~nitrogen_oxoacid_derivative,113547429]]'
 UMLS_CUI: C0028125
 MeSH_tree_code:
 - D01.248.497.158.606

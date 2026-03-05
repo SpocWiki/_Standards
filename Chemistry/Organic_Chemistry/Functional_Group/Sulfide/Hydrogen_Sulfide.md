@@ -72,36 +72,36 @@ aliases:
 - 황화 수소
 has_id_wikidata: Q170591
 found_in_taxon:
-- '[[_Standards/WikiData/WD~Arabidopsis_thaliana,158695]]'
-- '[[_Standards/WikiData/WD~Parkia_speciosa,311088]]'
-- '[[_Standards/WikiData/WD~Artemia_salina,1135229]]'
-- '[[_Standards/WikiData/WD~Coffea_arabica,47685]]'
+- '[[_Standards/WikiData/WD~Arabidopsis_thaliana,158695|WD~Arabidopsis_thaliana,158695]]'
+- '[[_Standards/WikiData/WD~Parkia_speciosa,311088|WD~Parkia_speciosa,311088]]'
+- '[[_Standards/WikiData/WD~Artemia_salina,1135229|WD~Artemia_salina,1135229]]'
+- '[[_Standards/WikiData/WD~Coffea_arabica,47685|WD~Coffea_arabica,47685]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]'
 subject_has_role:
-- '[[_Standards/WikiData/WD~gaseous_signaling_molecule,657925]]'
-- '[[_Standards/WikiData/WD~primary_metabolite,3333419]]'
-- '[[_Standards/WikiData/WD~air_pollutant,50429805]]'
-conjugate_base: '[[_Standards/WikiData/WD~hydrosulfide,3771739]]'
-has_characteristic: '[[_Standards/WikiData/WD~flammable_gas,10913792]]'
-subclass_of: '[[_Standards/WikiData/WD~dihydrogen_chalcogenide,11723014]]'
+- '[[_Standards/WikiData/WD~gaseous_signaling_molecule,657925|WD~gaseous_signaling_molecule,657925]]'
+- '[[_Standards/WikiData/WD~primary_metabolite,3333419|WD~primary_metabolite,3333419]]'
+- '[[_Standards/WikiData/WD~air_pollutant,50429805|WD~air_pollutant,50429805]]'
+conjugate_base: '[[_Standards/WikiData/WD~hydrosulfide,3771739|WD~hydrosulfide,3771739]]'
+has_characteristic: '[[_Standards/WikiData/WD~flammable_gas,10913792|WD~flammable_gas,10913792]]'
+subclass_of: '[[_Standards/WikiData/WD~dihydrogen_chalcogenide,11723014|WD~dihydrogen_chalcogenide,11723014]]'
 part_of:
-- '[[_Standards/WikiData/WD~hydrogen_sulfide_biosynthetic_process,14913092]]'
-- '[[_Standards/WikiData/WD~hydrogen_sulfide_metabolic_process,21112368]]'
-- '[[_Standards/WikiData/WD~response_to_hydrogen_sulfide,22273591]]'
-- '[[_Standards/WikiData/WD~cellular_response_to_hydrogen_sulfide,22273592]]'
-associated_hazard: '[[_Standards/WikiData/WD~hydrogen_sulfide_exposure,21174760]]'
-has_effect: '[[_Standards/WikiData/WD~hydrogen_sulfide_exposure,21174760]]'
-safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
+- '[[_Standards/WikiData/WD~hydrogen_sulfide_biosynthetic_process,14913092|WD~hydrogen_sulfide_biosynthetic_process,14913092]]'
+- '[[_Standards/WikiData/WD~hydrogen_sulfide_metabolic_process,21112368|WD~hydrogen_sulfide_metabolic_process,21112368]]'
+- '[[_Standards/WikiData/WD~response_to_hydrogen_sulfide,22273591|WD~response_to_hydrogen_sulfide,22273591]]'
+- '[[_Standards/WikiData/WD~cellular_response_to_hydrogen_sulfide,22273592|WD~cellular_response_to_hydrogen_sulfide,22273592]]'
+associated_hazard: '[[_Standards/WikiData/WD~hydrogen_sulfide_exposure,21174760|WD~hydrogen_sulfide_exposure,21174760]]'
+has_effect: '[[_Standards/WikiData/WD~hydrogen_sulfide_exposure,21174760|WD~hydrogen_sulfide_exposure,21174760]]'
+safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288|WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171|WD~type_of_chemical_entity,113145171]]'
 boiling_point:
 - -59.55
 - -77
 has_part_s_:
-- '[[_Standards/WikiData/WD~hydrogen,556]]'
-- '[[_Standards/WikiData/WD~sulfur,682]]'
+- '[[_Standards/WikiData/WD~hydrogen,556|WD~hydrogen,556]]'
+- '[[_Standards/WikiData/WD~sulfur,682|WD~sulfur,682]]'
 melting_point:
 - -85.5
 - -122
@@ -265,7 +265,7 @@ has_formula_structural = `=this.dv_has_formula_structural`
 > discovered the chemical composition of purified hydrogen sulfide in 1777.
 >
 > Hydrogen sulfide is toxic to humans and most other animals 
-> by inhibiting cellular respiration in a manner similar to [[../Cyanide/Hydrogen_Cyanide]]. 
+> by inhibiting cellular respiration in a manner similar to [[../Cyanide/Hydrogen_Cyanide|Hydrogen_Cyanide]]. 
 > 
 > When it is inhaled or its salts are ingested in high amounts, 
 > damage to organs occurs rapidly with symptoms ranging from 

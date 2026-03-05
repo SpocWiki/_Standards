@@ -48,37 +48,37 @@ MeSH_tree_code:
 - D01.837.725.700.760.070
 Krugosvet_article: nauka_i_tehnika/himiya/ASBEST.html
 subclass_of:
-- '[[_Standards/WikiData/WD~silicate_mineral,178977]]'
-- '[[_Standards/WikiData/WD~carcinogen,187661]]'
-- '[[_Standards/WikiData/WD~occupational_carcinogen,21074597]]'
+- '[[_Standards/WikiData/WD~silicate_mineral,178977|WD~silicate_mineral,178977]]'
+- '[[_Standards/WikiData/WD~carcinogen,187661|WD~carcinogen,187661]]'
+- '[[_Standards/WikiData/WD~occupational_carcinogen,21074597|WD~occupational_carcinogen,21074597]]'
 subject_has_role:
-- '[[_Standards/WikiData/WD~carcinogen,187661]]'
+- '[[_Standards/WikiData/WD~carcinogen,187661|WD~carcinogen,187661]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-- '[[_Standards/WikiData/WD~Technical_Encyclopedia,4456818]]'
-- '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Technical_Encyclopedia,_1st_edition,20078551]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-part_of: '[[_Standards/WikiData/WD~asbestos_cement,4071186]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543|WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Technical_Encyclopedia,4456818|WD~Technical_Encyclopedia,4456818]]'
+- '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135|WD~Encyclopedic_Lexicon,4532135]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Technical_Encyclopedia,_1st_edition,20078551|WD~Technical_Encyclopedia,_1st_edition,20078551]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+part_of: '[[_Standards/WikiData/WD~asbestos_cement,4071186|WD~asbestos_cement,4071186]]'
 associated_hazard:
-- '[[_Standards/WikiData/WD~asbestos_related_disease,4803677]]'
-- '[[_Standards/WikiData/WD~asbestos_exposure,21167862]]'
-- '[[_Standards/WikiData/WD~health_impact_of_asbestos,30314121]]'
-has_effect: '[[_Standards/WikiData/WD~asbestos_exposure,21167862]]'
+- '[[_Standards/WikiData/WD~asbestos_related_disease,4803677|WD~asbestos_related_disease,4803677]]'
+- '[[_Standards/WikiData/WD~asbestos_exposure,21167862|WD~asbestos_exposure,21167862]]'
+- '[[_Standards/WikiData/WD~health_impact_of_asbestos,30314121|WD~health_impact_of_asbestos,30314121]]'
+has_effect: '[[_Standards/WikiData/WD~asbestos_exposure,21167862|WD~asbestos_exposure,21167862]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~oxygen,629]]'
-- '[[_Standards/WikiData/WD~silicon,670]]'
-streak_color: '[[_Standards/WikiData/WD~white,23444]]'
+- '[[_Standards/WikiData/WD~oxygen,629|WD~oxygen,629]]'
+- '[[_Standards/WikiData/WD~silicon,670|WD~silicon,670]]'
+streak_color: '[[_Standards/WikiData/WD~white,23444|WD~white,23444]]'
 ceiling_exposure_limit: 0
 vapor_pressure: 0
 decomposition_point: 1112

@@ -22,15 +22,15 @@ aliases:
 - 可可屬
 - 카카오속
 has_id_wikidata: Q162078
-different_from: '[[_Standards/WikiData/WD~Theobroma,2372186]]'
-parent_taxon: '[[../../../../../../../../../../../../../../WikiData/WD~Theobromateae,6145728]]'
+different_from: '[[_Standards/WikiData/WD~Theobroma,2372186|WD~Theobroma,2372186]]'
+parent_taxon: '[[../../../../../../../../../../../../../../WikiData/WD~Theobromateae,6145728|WD~Theobromateae,6145728]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_49(2),112869441]]'
-studied_by: '[[_Standards/WikiData/WD~theobromatology,134987139]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
-taxonomic_type: '[[_Standards/WikiData/WD~cacao,42385]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_49(2),112869441|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_49(2),112869441]]'
+studied_by: '[[_Standards/WikiData/WD~theobromatology,134987139|WD~theobromatology,134987139]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
+taxonomic_type: '[[_Standards/WikiData/WD~cacao,42385|WD~cacao,42385]]'
 ITIS_TSN: 21556
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cacao.jpeg
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Theobroma%20flowerdiagram.png
@@ -109,7 +109,7 @@ dv_has_:
 
 # [[Theobroma]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../../../WikiData/WD~Theobroma,162078]] 
+#is_/same_as :: [[../../../../../../../../../../../../../../WikiData/WD~Theobroma,162078|WD~Theobroma,162078]] 
 
 ## #has_/text_of_/abstract 
 

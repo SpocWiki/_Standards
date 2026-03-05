@@ -33,9 +33,9 @@ Tag Instances like this:
 
 A system of medicine that originated in India over thousands of years and that focuses on integrating and balancing the body, mind, and spirit.
 
-#has_/parent_class :: [[../MedicineSystem]]  
+#has_/parent_class :: [[../MedicineSystem|MedicineSystem]]  
 
-#is_/enum_of :: [[../MedicineSystem]]  
+#is_/enum_of :: [[../MedicineSystem|MedicineSystem]]  
 
 ## Confidential Links & Embeds: 
 

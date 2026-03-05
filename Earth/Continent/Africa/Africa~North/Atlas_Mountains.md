@@ -75,27 +75,27 @@ aliases:
 - 阿特拉斯山脉
 - 아틀라스산맥
 has_id_wikidata: Q130135
-highest_point: '[[_Standards/WikiData/WD~Jbel_Toubkal,503433]]'
+highest_point: '[[_Standards/WikiData/WD~Jbel_Toubkal,503433|WD~Jbel_Toubkal,503433]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-part_of: '[[_Standards/WikiData/WD~Alpide_belt,847514]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917|WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+part_of: '[[_Standards/WikiData/WD~Alpide_belt,847514|WD~Alpide_belt,847514]]'
 country:
-- '[[_Standards/WikiData/WD~Algeria,262]]'
-- '[[_Standards/WikiData/WD~Tunisia,948]]'
-- '[[_Standards/WikiData/WD~Morocco,1028]]'
-locations: '[[_Standards/WikiData/WD~North_Africa,27381]]'
-continent: '[[_Standards/WikiData/WD~Africa,15]]'
+- '[[_Standards/WikiData/WD~Algeria,262|WD~Algeria,262]]'
+- '[[_Standards/WikiData/WD~Tunisia,948|WD~Tunisia,948]]'
+- '[[_Standards/WikiData/WD~Morocco,1028|WD~Morocco,1028]]'
+locations: '[[_Standards/WikiData/WD~North_Africa,27381|WD~North_Africa,27381]]'
+continent: '[[_Standards/WikiData/WD~Africa,15|WD~Africa,15]]'
 width: 300
 length: 2550
-instance_of: '[[_Standards/WikiData/WD~mountain_range,46831]]'
+instance_of: '[[_Standards/WikiData/WD~mountain_range,46831|WD~mountain_range,46831]]'
 elevation_above_sea_level: 4165
 coordinate_location: Point(-7.916111111 31.061944444)
 locator_map_image:

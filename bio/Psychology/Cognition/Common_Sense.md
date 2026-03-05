@@ -65,17 +65,17 @@ aliases:
 - 常识
 - 상식
 has_id_wikidata: Q332880
-facet_of: '[[_Standards/WikiData/WD~collective_intelligence,432197]]'
+facet_of: '[[_Standards/WikiData/WD~collective_intelligence,432197|WD~collective_intelligence,432197]]'
 different_from:
-- '[[_Standards/WikiData/WD~Common_sense,528032]]'
-- '[[_Standards/WikiData/WD~common_knowledge,1116133]]'
-instance_of: '[[_Standards/WikiData/WD~aptitude,1347367]]'
+- '[[_Standards/WikiData/WD~Common_sense,528032|WD~Common_sense,528032]]'
+- '[[_Standards/WikiData/WD~common_knowledge,1116133|WD~common_knowledge,1116133]]'
+instance_of: '[[_Standards/WikiData/WD~aptitude,1347367|WD~aptitude,1347367]]'
 partially_coincident_with:
-- '[[_Standards/WikiData/WD~taste_in_Islam,5269467]]'
-- '[[_Standards/WikiData/WD~sensibleness,105488413]]'
-subclass_of: '[[_Standards/WikiData/WD~belief_system,5390013]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~common_sense,11588333]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+- '[[_Standards/WikiData/WD~taste_in_Islam,5269467|WD~taste_in_Islam,5269467]]'
+- '[[_Standards/WikiData/WD~sensibleness,105488413|WD~sensibleness,105488413]]'
+subclass_of: '[[_Standards/WikiData/WD~belief_system,5390013|WD~belief_system,5390013]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~common_sense,11588333|WD~common_sense,11588333]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635|WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 Dewey_Decimal_Classification:
 - 170
 - 121.3

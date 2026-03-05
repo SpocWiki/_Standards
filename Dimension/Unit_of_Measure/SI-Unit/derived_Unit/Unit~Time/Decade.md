@@ -117,18 +117,18 @@ aliases:
 - 십년
 has_id_wikidata: Q39911
 subclass_of:
-- '[[_Standards/WikiData/WD~time_interval,186081]]'
-- '[[_Standards/WikiData/WD~group_of_10,135268506]]'
-has_list: '[[_Standards/WikiData/WD~list_of_decades,_centuries,_and_millennia,196828]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~time_interval,186081|WD~time_interval,186081]]'
+- '[[_Standards/WikiData/WD~group_of_10,135268506|WD~group_of_10,135268506]]'
+has_list: '[[_Standards/WikiData/WD~list_of_decades,_centuries,_and_millennia,196828|WD~list_of_decades,_centuries,_and_millennia,196828]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 different_from:
-- '[[_Standards/WikiData/WD~decad,2643280]]'
-- '[[_Standards/WikiData/WD~decade,2894303]]'
-has_part_s_: '[[_Standards/WikiData/WD~calendar_year,3186692]]'
+- '[[_Standards/WikiData/WD~decad,2643280|WD~decad,2643280]]'
+- '[[_Standards/WikiData/WD~decade,2894303|WD~decade,2894303]]'
+has_part_s_: '[[_Standards/WikiData/WD~calendar_year,3186692|WD~calendar_year,3186692]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Decadebox,7471813]]'
-- '[[_Standards/WikiData/WD~Q25745748,25745748]]'
-part_of: '[[_Standards/WikiData/WD~century,578]]'
+- '[[_Standards/WikiData/WD~Template_Decadebox,7471813|WD~Template_Decadebox,7471813]]'
+- '[[_Standards/WikiData/WD~Q25745748,25745748|WD~Q25745748,25745748]]'
+part_of: '[[_Standards/WikiData/WD~century,578|WD~century,578]]'
 duration: 10
 Wikidata_time_precision: 8
 OmegaWiki_Defined_Meaning: 8009

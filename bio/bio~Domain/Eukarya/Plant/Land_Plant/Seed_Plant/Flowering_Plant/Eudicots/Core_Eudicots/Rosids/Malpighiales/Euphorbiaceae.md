@@ -124,15 +124,15 @@ taxon_common_name:
 - Südləyənkimilər
 - Малачайныя
 - Млечкови
-taxonomic_type: '[[_Standards/WikiData/WD~Euphorbia,146567]]'
-uses: '[[_Standards/WikiData/WD~CAM_photosynthesis,858313]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Euphorbia,146567|WD~Euphorbia,146567]]'
+uses: '[[_Standards/WikiData/WD~CAM_photosynthesis,858313|WD~CAM_photosynthesis,858313]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_44(1),112869429]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_44(1),112869429|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_44(1),112869429]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409|WD~family,35409]]'
 social_media_followers: 10820
 ITIS_TSN: 28031
 Commons_category: Euphorbiaceae

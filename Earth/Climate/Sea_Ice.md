@@ -57,12 +57,12 @@ aliases:
 - 海氷
 - 해빙
 has_id_wikidata: Q213926
-made_from_material: '[[_Standards/WikiData/WD~sea_water,184395]]'
-different_from: '[[_Standards/WikiData/WD~ice_floe,368930]]'
+made_from_material: '[[_Standards/WikiData/WD~sea_water,184395|WD~sea_water,184395]]'
+different_from: '[[_Standards/WikiData/WD~ice_floe,368930|WD~ice_floe,368930]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~natural_landscape,1286517]]'
-- '[[_Standards/WikiData/WD~ice_cover,59674586]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~natural_landscape,1286517|WD~natural_landscape,1286517]]'
+- '[[_Standards/WikiData/WD~ice_cover,59674586|WD~ice_cover,59674586]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/J%C3%B6kuls%C3%A1rl%C3%B3n-Aurora.jpg
 exact_match: http://purl.obolibrary.org/obo/ENVO_00002200
 U_S_National_Archives_Identifier: 10643057

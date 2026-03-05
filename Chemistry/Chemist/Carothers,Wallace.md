@@ -21,39 +21,39 @@ aliases:
 - 월러스 캐러더스
 has_id_wikidata: Q333724
 occupation:
-- '[[_Standards/WikiData/WD~engineer,81096]]'
-- '[[_Standards/WikiData/WD~inventor,205375]]'
-- '[[_Standards/WikiData/WD~chemist,593644]]'
+- '[[_Standards/WikiData/WD~engineer,81096|WD~engineer,81096]]'
+- '[[_Standards/WikiData/WD~inventor,205375|WD~inventor,205375]]'
+- '[[_Standards/WikiData/WD~chemist,593644|WD~chemist,593644]]'
 field_of_work:
-- '[[_Standards/WikiData/WD~polymer,81163]]'
-- '[[_Standards/WikiData/WD~chemistry,2329]]'
-- '[[_Standards/WikiData/WD~organic_chemistry,11351]]'
-place_of_death: '[[_Standards/WikiData/WD~Wilmington,174224]]'
+- '[[_Standards/WikiData/WD~polymer,81163|WD~polymer,81163]]'
+- '[[_Standards/WikiData/WD~chemistry,2329|WD~chemistry,2329]]'
+- '[[_Standards/WikiData/WD~organic_chemistry,11351|WD~organic_chemistry,11351]]'
+place_of_death: '[[_Standards/WikiData/WD~Wilmington,174224|WD~Wilmington,174224]]'
 employer:
-- '[[_Standards/WikiData/WD~DuPont,221062]]'
-- '[[_Standards/WikiData/WD~Harvard_University,13371]]'
-member_of: '[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794]]'
-place_of_birth: '[[_Standards/WikiData/WD~Burlington,580182]]'
+- '[[_Standards/WikiData/WD~DuPont,221062|WD~DuPont,221062]]'
+- '[[_Standards/WikiData/WD~Harvard_University,13371|WD~Harvard_University,13371]]'
+member_of: '[[_Standards/WikiData/WD~National_Academy_of_Sciences,270794|WD~National_Academy_of_Sciences,270794]]'
+place_of_birth: '[[_Standards/WikiData/WD~Burlington,580182|WD~Burlington,580182]]'
 educated_at:
-- '[[_Standards/WikiData/WD~University_of_Illinois_system,1145814]]'
-- '[[_Standards/WikiData/WD~Tarkio_College,7686281]]'
+- '[[_Standards/WikiData/WD~University_of_Illinois_system,1145814|WD~University_of_Illinois_system,1145814]]'
+- '[[_Standards/WikiData/WD~Tarkio_College,7686281|WD~Tarkio_College,7686281]]'
 award_received:
-- '[[_Standards/WikiData/WD~National_Inventors_Hall_of_Fame,1366018]]'
-- '[[_Standards/WikiData/WD~Lavoisier_Medal_for_Lifetime_Technical_Achievement,114847999]]'
-student_of: '[[_Standards/WikiData/WD~Roger_Adams,1534144]]'
-doctoral_advisor: '[[_Standards/WikiData/WD~Roger_Adams,1534144]]'
-given_name: '[[_Standards/WikiData/WD~Wallace,2542509]]'
-sex_or_gender: '[[_Standards/WikiData/WD~male,6581097]]'
-family_name: '[[_Standards/WikiData/WD~Carothers,21492843]]'
-described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-place_of_burial: '[[_Standards/WikiData/WD~Glendale_Cemetery,89042727]]'
-sibling: '[[_Standards/WikiData/WD~Isobel_Berolzheimer,105428493]]'
+- '[[_Standards/WikiData/WD~National_Inventors_Hall_of_Fame,1366018|WD~National_Inventors_Hall_of_Fame,1366018]]'
+- '[[_Standards/WikiData/WD~Lavoisier_Medal_for_Lifetime_Technical_Achievement,114847999|WD~Lavoisier_Medal_for_Lifetime_Technical_Achievement,114847999]]'
+student_of: '[[_Standards/WikiData/WD~Roger_Adams,1534144|WD~Roger_Adams,1534144]]'
+doctoral_advisor: '[[_Standards/WikiData/WD~Roger_Adams,1534144|WD~Roger_Adams,1534144]]'
+given_name: '[[_Standards/WikiData/WD~Wallace,2542509|WD~Wallace,2542509]]'
+sex_or_gender: '[[_Standards/WikiData/WD~male,6581097|WD~male,6581097]]'
+family_name: '[[_Standards/WikiData/WD~Carothers,21492843|WD~Carothers,21492843]]'
+described_by_source: '[[_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]'
+place_of_burial: '[[_Standards/WikiData/WD~Glendale_Cemetery,89042727|WD~Glendale_Cemetery,89042727]]'
+sibling: '[[_Standards/WikiData/WD~Isobel_Berolzheimer,105428493|WD~Isobel_Berolzheimer,105428493]]'
 date_of_birth: 1896-04-27T00:00:00Z
-languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860]]'
-manner_of_death: '[[_Standards/WikiData/WD~suicide,10737]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
-cause_of_death: '[[_Standards/WikiData/WD~poison,40867]]'
+languages_spoken_written_or_signed: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+manner_of_death: '[[_Standards/WikiData/WD~suicide,10737|WD~suicide,10737]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+cause_of_death: '[[_Standards/WikiData/WD~poison,40867|WD~poison,40867]]'
 date_of_death: 1937-04-29T00:00:00Z
 signature: http://commons.wikimedia.org/wiki/Special:FilePath/Signature%20of%20Wallace%20Carothers.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Wallace%20Carothers%2C%20in%20the%20lab.jpg
@@ -71,7 +71,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Chemist/Carothers,Wallace.personal|Carothers,Wallace.personal]]'
   - '[[/_secret/Chemistry/Chemist/Carothers,Wallace.secret|Carothers,Wallace.secret]]'
 dv_has_:
-  created_: '[[../Organic_Chemistry/Polymer/Polyamide/Nylon]]'
+  created_: '[[../Organic_Chemistry/Polymer/Polyamide/Nylon|Nylon]]'
   name_:
     ar: والاس هيوم كاروثرز
     ast: Wallace Carothers
@@ -135,7 +135,7 @@ dv_is_same_as:
 - '[[/_private/Chemistry/Chemist/Carothers,Wallace.private|Carothers,Wallace.private]]'
 - '[[/_personal/Chemistry/Chemist/Carothers,Wallace.personal|Carothers,Wallace.personal]]'
 - '[[/_secret/Chemistry/Chemist/Carothers,Wallace.secret|Carothers,Wallace.secret]]'
-dv_has_created_: '[[../Organic_Chemistry/Polymer/Polyamide/Nylon]]'
+dv_has_created_: '[[../Organic_Chemistry/Polymer/Polyamide/Nylon|Nylon]]'
 ---
 
 # [[Carothers,Wallace]] 

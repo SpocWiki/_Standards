@@ -62,30 +62,30 @@ aliases:
 - 마스카렌 제도
 has_id_wikidata: Q205695
 has_part_s_:
-- '[[_Standards/WikiData/WD~Rodrigues,208668]]'
-- '[[_Standards/WikiData/WD~Cagados_Carajos,511859]]'
-- '[[_Standards/WikiData/WD~Soudan_Banks,674762]]'
-- '[[_Standards/WikiData/WD~Saya_de_Malha_Bank,1726782]]'
-- '[[_Standards/WikiData/WD~Mauritius_Island,2656389]]'
-- '[[_Standards/WikiData/WD~Hawkins_Bank,3783772]]'
-- '[[_Standards/WikiData/WD~Nazareth_Bank,3873487]]'
-- '[[_Standards/WikiData/WD~Réunion,17070]]'
+- '[[_Standards/WikiData/WD~Rodrigues,208668|WD~Rodrigues,208668]]'
+- '[[_Standards/WikiData/WD~Cagados_Carajos,511859|WD~Cagados_Carajos,511859]]'
+- '[[_Standards/WikiData/WD~Soudan_Banks,674762|WD~Soudan_Banks,674762]]'
+- '[[_Standards/WikiData/WD~Saya_de_Malha_Bank,1726782|WD~Saya_de_Malha_Bank,1726782]]'
+- '[[_Standards/WikiData/WD~Mauritius_Island,2656389|WD~Mauritius_Island,2656389]]'
+- '[[_Standards/WikiData/WD~Hawkins_Bank,3783772|WD~Hawkins_Bank,3783772]]'
+- '[[_Standards/WikiData/WD~Nazareth_Bank,3873487|WD~Nazareth_Bank,3873487]]'
+- '[[_Standards/WikiData/WD~Réunion,17070|WD~Réunion,17070]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
-highest_point: '[[_Standards/WikiData/WD~Piton_des_Neiges,1545452]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+highest_point: '[[_Standards/WikiData/WD~Piton_des_Neiges,1545452|WD~Piton_des_Neiges,1545452]]'
 located_in_on_physical_feature:
-- '[[_Standards/WikiData/WD~Mascarene_Plateau,2982024]]'
-- '[[_Standards/WikiData/WD~Indian_Ocean,1239]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q20890275,20890275]]'
+- '[[_Standards/WikiData/WD~Mascarene_Plateau,2982024|WD~Mascarene_Plateau,2982024]]'
+- '[[_Standards/WikiData/WD~Indian_Ocean,1239|WD~Indian_Ocean,1239]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q20890275,20890275|WD~Q20890275,20890275]]'
 coordinate_location: Point(57.75 -20.2)
-history_of_topic: '[[_Standards/WikiData/WD~history_of_the_Mascarene_Islands,85621564]]'
-located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Indian_Ocean,1239]]'
-located_in_time_zone: '[[_Standards/WikiData/WD~UTC+04_00,6779]]'
-country: '[[_Standards/WikiData/WD~France,142]]'
-instance_of: '[[_Standards/WikiData/WD~archipelago,33837]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_the_Mascarene_Islands,85621564|WD~history_of_the_Mascarene_Islands,85621564]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Indian_Ocean,1239|WD~Indian_Ocean,1239]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC+04_00,6779|WD~UTC+04_00,6779]]'
+country: '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
+instance_of: '[[_Standards/WikiData/WD~archipelago,33837|WD~archipelago,33837]]'
 elevation_above_sea_level: 3069
 area: 4481
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%20%28deu%29-Sebastian%20Wallroth-Maskarenen.wav
@@ -97,7 +97,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Mauritius%20and%20R%C3
 Commons_category: Mascarene Islands
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Mascarene_Islands,205695]]'
+  - '[[../../../../WikiData/WD~Mascarene_Islands,205695|WD~Mascarene_Islands,205695]]'
   - '[[/_Standards/Earth/Continent/Africa/Africa~East/Mascarene_Islands|Mascarene_Islands]]'
   - '[[/_public/Earth/Continent/Africa/Africa~East/Mascarene_Islands.public|Mascarene_Islands.public]]'
   - '[[/_internal/Earth/Continent/Africa/Africa~East/Mascarene_Islands.internal|Mascarene_Islands.internal]]'
@@ -106,7 +106,7 @@ dv_is_:
   - '[[/_personal/Earth/Continent/Africa/Africa~East/Mascarene_Islands.personal|Mascarene_Islands.personal]]'
   - '[[/_secret/Earth/Continent/Africa/Africa~East/Mascarene_Islands.secret|Mascarene_Islands.secret]]'
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Mascarene_Islands,205695]]'
+- '[[../../../../WikiData/WD~Mascarene_Islands,205695|WD~Mascarene_Islands,205695]]'
 - '[[/_Standards/Earth/Continent/Africa/Africa~East/Mascarene_Islands|Mascarene_Islands]]'
 - '[[/_public/Earth/Continent/Africa/Africa~East/Mascarene_Islands.public|Mascarene_Islands.public]]'
 - '[[/_internal/Earth/Continent/Africa/Africa~East/Mascarene_Islands.internal|Mascarene_Islands.internal]]'

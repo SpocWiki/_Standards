@@ -76,31 +76,31 @@ aliases:
 - 위생
 has_id_wikidata: Q162297
 main_subject:
-- '[[_Standards/WikiData/WD~bathing,327651]]'
-- '[[_Standards/WikiData/WD~hand_washing,552461]]'
-- '[[_Standards/WikiData/WD~washing,23841]]'
+- '[[_Standards/WikiData/WD~bathing,327651|WD~bathing,327651]]'
+- '[[_Standards/WikiData/WD~hand_washing,552461|WD~hand_washing,552461]]'
+- '[[_Standards/WikiData/WD~washing,23841|WD~washing,23841]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Diccionario_de_Educación,_Instrucción_y_Enseñanza,22692489]]'
-practiced_by: '[[_Standards/WikiData/WD~hygienist,651566]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674|WD~Dresdner_Hefte,14916674]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Diccionario_de_Educación,_Instrucción_y_Enseñanza,22692489|WD~Diccionario_de_Educación,_Instrucción_y_Enseñanza,22692489]]'
+practiced_by: '[[_Standards/WikiData/WD~hygienist,651566|WD~hygienist,651566]]'
 field_of_work:
-- '[[_Standards/WikiData/WD~cleanliness,692096]]'
-- '[[_Standards/WikiData/WD~medicine,11190]]'
-- '[[_Standards/WikiData/WD~health,12147]]'
-- '[[_Standards/WikiData/WD~lifestyle,32090]]'
+- '[[_Standards/WikiData/WD~cleanliness,692096|WD~cleanliness,692096]]'
+- '[[_Standards/WikiData/WD~medicine,11190|WD~medicine,11190]]'
+- '[[_Standards/WikiData/WD~health,12147|WD~health,12147]]'
+- '[[_Standards/WikiData/WD~lifestyle,32090|WD~lifestyle,32090]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~preventive_medicine,1773974]]'
-- '[[_Standards/WikiData/WD~health_behaviour,19374090]]'
-has_part_s_: '[[_Standards/WikiData/WD~Q4137993,4137993]]'
-part_of: '[[_Standards/WikiData/WD~cleaning,12773274]]'
+- '[[_Standards/WikiData/WD~preventive_medicine,1773974|WD~preventive_medicine,1773974]]'
+- '[[_Standards/WikiData/WD~health_behaviour,19374090|WD~health_behaviour,19374090]]'
+has_part_s_: '[[_Standards/WikiData/WD~Q4137993,4137993|WD~Q4137993,4137993]]'
+part_of: '[[_Standards/WikiData/WD~cleaning,12773274|WD~cleaning,12773274]]'
 inception: -2999-01-01T00:00:00Z
-country_of_origin: '[[_Standards/WikiData/WD~Greece,41]]'
+country_of_origin: '[[_Standards/WikiData/WD~Greece,41|WD~Greece,41]]'
 title: Hygiene
 subreddit: hygiene
 Commons_category: Hygiene

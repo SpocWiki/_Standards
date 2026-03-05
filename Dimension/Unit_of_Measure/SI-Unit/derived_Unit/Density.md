@@ -143,23 +143,23 @@ defining_formula: >-
     </semantics>
   </math>
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~ISO_80000-4_2006_Quantities_and_units_Part_4__Mechanics,26711933]]'
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-- '[[_Standards/WikiData/WD~ISO_80000-4_2019_Quantities_and_units_Part_4__Mechanics,73391977]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~ISO_80000-4_2006_Quantities_and_units_Part_4__Mechanics,26711933|WD~ISO_80000-4_2006_Quantities_and_units_Part_4__Mechanics,26711933]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~ISO_80000-4_2019_Quantities_and_units_Part_4__Mechanics,73391977|WD~ISO_80000-4_2019_Quantities_and_units_Part_4__Mechanics,73391977]]'
 different_from:
-- '[[_Standards/WikiData/WD~density,483525]]'
-- '[[_Standards/WikiData/WD~surface_density,1907514]]'
-- '[[_Standards/WikiData/WD~volumetric_quantity,67598515]]'
-- '[[_Standards/WikiData/WD~population_density,22856]]'
+- '[[_Standards/WikiData/WD~density,483525|WD~density,483525]]'
+- '[[_Standards/WikiData/WD~surface_density,1907514|WD~surface_density,1907514]]'
+- '[[_Standards/WikiData/WD~volumetric_quantity,67598515|WD~volumetric_quantity,67598515]]'
+- '[[_Standards/WikiData/WD~population_density,22856|WD~population_density,22856]]'
 IEV_number: 113-03-07
 instance_of:
-- '[[_Standards/WikiData/WD~measurand,1924249]]'
-- '[[_Standards/WikiData/WD~mechanical_property,5725005]]'
+- '[[_Standards/WikiData/WD~measurand,1924249|WD~measurand,1924249]]'
+- '[[_Standards/WikiData/WD~mechanical_property,5725005|WD~mechanical_property,5725005]]'
 in_defining_formula:
 - >-
   <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle m}">
@@ -220,9 +220,9 @@ ISQ_dimension: >-
       <annotation encoding="application/x-tex">{\displaystyle {\mathsf {L}}^{-3}{\mathsf {M}}}</annotation>
     </semantics>
   </math>
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 OmegaWiki_Defined_Meaning: 4458
-opposite_of: '[[_Standards/WikiData/WD~specific_volume,683556]]'
+opposite_of: '[[_Standards/WikiData/WD~specific_volume,683556|WD~specific_volume,683556]]'
 quantity_symbol_LaTeX_:
 - >-
   <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle \rho _{m}}">
@@ -253,13 +253,13 @@ quantity_symbol_LaTeX_:
   </math>
 quantity_symbol_string_: ρ
 recommended_unit_of_measurement:
-- '[[_Standards/WikiData/WD~kilogram_per_cubic_metre,844211]]'
-- '[[_Standards/WikiData/WD~kilogram_per_litre,104907192]]'
-- '[[_Standards/WikiData/WD~tonne_per_cubic_metre,106513670]]'
+- '[[_Standards/WikiData/WD~kilogram_per_cubic_metre,844211|WD~kilogram_per_cubic_metre,844211]]'
+- '[[_Standards/WikiData/WD~kilogram_per_litre,104907192|WD~kilogram_per_litre,104907192]]'
+- '[[_Standards/WikiData/WD~tonne_per_cubic_metre,106513670|WD~tonne_per_cubic_metre,106513670]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~intensive_quantity,3387041]]'
-- '[[_Standards/WikiData/WD~quotient,41118]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~intensive_quantity,3387041|WD~intensive_quantity,3387041]]'
+- '[[_Standards/WikiData/WD~quotient,41118|WD~quotient,41118]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%9F%D0%BB%D0%BE%D1%82%D0%BD%D0%BE%D1%81%D1%82%D1%8C.webm
 Wikidata_property: density
 dv_has_:

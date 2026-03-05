@@ -63,24 +63,24 @@ aliases:
 - 면역학
 has_id_wikidata: Q101929
 subclass_of:
-- '[[_Standards/WikiData/WD~pediatrics,123028]]'
-- '[[_Standards/WikiData/WD~biomedicine,864601]]'
-- '[[_Standards/WikiData/WD~biology,420]]'
+- '[[_Standards/WikiData/WD~pediatrics,123028|WD~pediatrics,123028]]'
+- '[[_Standards/WikiData/WD~biomedicine,864601|WD~biomedicine,864601]]'
+- '[[_Standards/WikiData/WD~biology,420|WD~biology,420]]'
 is_the_study_of:
-- '[[_Standards/WikiData/WD~immunity,182581]]'
-- '[[_Standards/WikiData/WD~immune_disorder,3843811]]'
-- '[[_Standards/WikiData/WD~immune_system,1059]]'
+- '[[_Standards/WikiData/WD~immunity,182581|WD~immunity,182581]]'
+- '[[_Standards/WikiData/WD~immune_disorder,3843811|WD~immune_disorder,3843811]]'
+- '[[_Standards/WikiData/WD~immune_system,1059|WD~immune_system,1059]]'
 instance_of:
-- '[[_Standards/WikiData/WD~medical_specialty,930752]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~branch_of_biology,28598684]]'
+- '[[_Standards/WikiData/WD~medical_specialty,930752|WD~medical_specialty,930752]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~branch_of_biology,28598684|WD~branch_of_biology,28598684]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~psychoneuroimmunology,1500332]]'
-- '[[_Standards/WikiData/WD~immunogerontology,106646336]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_immunology,7112664]]'
-practiced_by: '[[_Standards/WikiData/WD~immunologist,12119633]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_COVID_19,87748614]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
+- '[[_Standards/WikiData/WD~psychoneuroimmunology,1500332|WD~psychoneuroimmunology,1500332]]'
+- '[[_Standards/WikiData/WD~immunogerontology,106646336|WD~immunogerontology,106646336]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_immunology,7112664|WD~outline_of_immunology,7112664]]'
+practiced_by: '[[_Standards/WikiData/WD~immunologist,12119633|WD~immunologist,12119633]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_COVID_19,87748614|WD~WikiProject_COVID_19,87748614]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630|WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
 All_Science_Journal_Classification_Codes: 2403
 OmegaWiki_Defined_Meaning: 1857
 GitHub_topic: immunology

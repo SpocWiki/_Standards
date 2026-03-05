@@ -34,7 +34,7 @@ Tag Instances like this:
 
 A particular physical or virtual business of an organization for medical purposes. Examples of MedicalBusiness include different businesses run by health professionals.
 
-#has_/parent_class :: [[../LocalBusiness]]  
+#has_/parent_class :: [[../LocalBusiness|LocalBusiness]]  
 
 #has_/child_/class :: [ CommunityHealth, Dentist, Dermatology, DietNutrition, Emergency, Geriatric, Gynecologic, MedicalClinic, Midwifery, Nursing, Obstetric, Oncologic, Optician, Optometric, Otolaryngologic, Pediatric, Pharmacy, Physician, Physiotherapy, PlasticSurgery, Podiatric, PrimaryCare, Psychiatric, PublicHealth ]  
 

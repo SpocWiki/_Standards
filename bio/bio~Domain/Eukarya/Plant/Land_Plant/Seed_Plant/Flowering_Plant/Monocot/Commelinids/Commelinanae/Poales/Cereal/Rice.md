@@ -188,10 +188,10 @@ Commons_category: Rice
 Commons_gallery: Rice
 Common_Procurement_Vocabulary_code: 3211300
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112|WD~Zhiwu_Mingshi_Tukao,107402112]]'
 Dewey_Decimal_Classification:
 - 633.18
 - 584.9
@@ -199,30 +199,30 @@ Dewey_Decimal_Classification:
 - 641.6318
 - 664.725
 different_from:
-- '[[_Standards/WikiData/WD~Oryza_sativa,161426]]'
-fabrication_method: '[[_Standards/WikiData/WD~growing_of_rice,29584896]]'
+- '[[_Standards/WikiData/WD~Oryza_sativa,161426|WD~Oryza_sativa,161426]]'
+fabrication_method: '[[_Standards/WikiData/WD~growing_of_rice,29584896|WD~growing_of_rice,29584896]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~starch,41534]]'
+- '[[_Standards/WikiData/WD~starch,41534|WD~starch,41534]]'
 has_use:
-- '[[_Standards/WikiData/WD~porridge,186817]]'
-- '[[_Standards/WikiData/WD~risotto,208105]]'
-- '[[_Standards/WikiData/WD~Nasi_goreng,510666]]'
+- '[[_Standards/WikiData/WD~porridge,186817|WD~porridge,186817]]'
+- '[[_Standards/WikiData/WD~risotto,208105|WD~risotto,208105]]'
+- '[[_Standards/WikiData/WD~Nasi_goreng,510666|WD~Nasi_goreng,510666]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/White%2C%20Brown%2C%20Red%20%26%20Wild%20rice.jpg
 natural_product_of_taxon:
-- '[[_Standards/WikiData/WD~Oryza_sativa,161426]]'
-- '[[_Standards/WikiData/WD~Oryza,690633]]'
+- '[[_Standards/WikiData/WD~Oryza_sativa,161426|WD~Oryza_sativa,161426]]'
+- '[[_Standards/WikiData/WD~Oryza,690633|WD~Oryza,690633]]'
 OmegaWiki_Defined_Meaning: 3236
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047|WD~WikiProject_Climate_change,15305047]]'
 pronunciation_audio:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Pa-%E0%A8%9D%E0%A9%8B%E0%A8%A8%E0%A8%BE.oga
 - http://commons.wikimedia.org/wiki/Special:FilePath/Q5090-ar.ogg
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Oryza_sativa,161426]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Oryza_sativa,161426|WD~Oryza_sativa,161426]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~caryopsis,506139]]'
-- '[[_Standards/WikiData/WD~staple_food,736427]]'
-- '[[_Standards/WikiData/WD~shelf-stable_food,7493597]]'
-- '[[_Standards/WikiData/WD~food_ingredient,25403900]]'
-- '[[_Standards/WikiData/WD~cereal_grain,12117]]'
+- '[[_Standards/WikiData/WD~caryopsis,506139|WD~caryopsis,506139]]'
+- '[[_Standards/WikiData/WD~staple_food,736427|WD~staple_food,736427]]'
+- '[[_Standards/WikiData/WD~shelf-stable_food,7493597|WD~shelf-stable_food,7493597]]'
+- '[[_Standards/WikiData/WD~food_ingredient,25403900|WD~food_ingredient,25403900]]'
+- '[[_Standards/WikiData/WD~cereal_grain,12117|WD~cereal_grain,12117]]'
 UNSPSC_Code: 10151701
 U_S_National_Archives_Identifier: 10647207
 water_footprint:

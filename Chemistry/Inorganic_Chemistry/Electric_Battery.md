@@ -101,36 +101,36 @@ aliases:
 - 電池
 - 배터리
 has_id_wikidata: Q267298
-source_of_energy: '[[_Standards/WikiData/WD~redox,82682]]'
+source_of_energy: '[[_Standards/WikiData/WD~redox,82682|WD~redox,82682]]'
 different_from:
-- '[[_Standards/WikiData/WD~galvanic_cell,209440]]'
-- '[[_Standards/WikiData/WD~battery,1796687]]'
-- '[[_Standards/WikiData/WD~battery,3283617]]'
-- '[[_Standards/WikiData/WD~artillery_battery,56344492]]'
-- '[[_Standards/WikiData/WD~capacitor,5322]]'
+- '[[_Standards/WikiData/WD~galvanic_cell,209440|WD~galvanic_cell,209440]]'
+- '[[_Standards/WikiData/WD~battery,1796687|WD~battery,1796687]]'
+- '[[_Standards/WikiData/WD~battery,3283617|WD~battery,3283617]]'
+- '[[_Standards/WikiData/WD~artillery_battery,56344492|WD~artillery_battery,56344492]]'
+- '[[_Standards/WikiData/WD~capacitor,5322|WD~capacitor,5322]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~nominal_voltage,390700]]'
-- '[[_Standards/WikiData/WD~energy_density,828402]]'
-- '[[_Standards/WikiData/WD~cutoff_voltage,1344937]]'
-- '[[_Standards/WikiData/WD~rated_current,1977384]]'
-- '[[_Standards/WikiData/WD~specific_energy,3023293]]'
-- '[[_Standards/WikiData/WD~state_of_charge,5368536]]'
-- '[[_Standards/WikiData/WD~battery_level,60229413]]'
+- '[[_Standards/WikiData/WD~nominal_voltage,390700|WD~nominal_voltage,390700]]'
+- '[[_Standards/WikiData/WD~energy_density,828402|WD~energy_density,828402]]'
+- '[[_Standards/WikiData/WD~cutoff_voltage,1344937|WD~cutoff_voltage,1344937]]'
+- '[[_Standards/WikiData/WD~rated_current,1977384|WD~rated_current,1977384]]'
+- '[[_Standards/WikiData/WD~specific_energy,3023293|WD~specific_energy,3023293]]'
+- '[[_Standards/WikiData/WD~state_of_charge,5368536|WD~state_of_charge,5368536]]'
+- '[[_Standards/WikiData/WD~battery_level,60229413|WD~battery_level,60229413]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 has_use:
-- '[[_Standards/WikiData/WD~energy_storage,837718]]'
-- '[[_Standards/WikiData/WD~battery_powered_device,113446414]]'
+- '[[_Standards/WikiData/WD~energy_storage,837718|WD~energy_storage,837718]]'
+- '[[_Standards/WikiData/WD~battery_powered_device,113446414|WD~battery_powered_device,113446414]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~electric_power_source,1753139]]'
-- '[[_Standards/WikiData/WD~accumulator,2288996]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_the_battery,3630500]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_battery,10806496]]'
+- '[[_Standards/WikiData/WD~electric_power_source,1753139|WD~electric_power_source,1753139]]'
+- '[[_Standards/WikiData/WD~accumulator,2288996|WD~accumulator,2288996]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_the_battery,3630500|WD~history_of_the_battery,3630500]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_battery,10806496|WD~Template_Infobox_battery,10806496]]'
 subreddit: batteries
-instance_of: '[[_Standards/WikiData/WD~type_of_electronic_component,125517960]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_electronic_component,125517960|WD~type_of_electronic_component,125517960]]'
 ACM_Classification_Code_2012_: 10010664
 GS1_GPC_code: 10000546
 U_S_National_Archives_Identifier: 10638068

@@ -39,22 +39,22 @@ aliases:
 - 엔탈피
 has_id_wikidata: Q161064
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~thermodynamic_potential,2420179]]'
-- '[[_Standards/WikiData/WD~extensive_quantity,3386703]]'
-- '[[_Standards/WikiData/WD~energy,11379]]'
-invariant_under: '[[_Standards/WikiData/WD~isenthalpic_process,907297]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~thermodynamic_potential,2420179|WD~thermodynamic_potential,2420179]]'
+- '[[_Standards/WikiData/WD~extensive_quantity,3386703|WD~extensive_quantity,3386703]]'
+- '[[_Standards/WikiData/WD~energy,11379|WD~energy,11379]]'
+invariant_under: '[[_Standards/WikiData/WD~isenthalpic_process,907297|WD~isenthalpic_process,907297]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~ISO_80000_5_2007_Quantities_and_units_Part_5_Thermodynamics,26711934]]'
-- '[[_Standards/WikiData/WD~ISO_80000_5_2019_Quantities_and_units_Part_5_Thermodynamics,92157468]]'
+- '[[_Standards/WikiData/WD~ISO_80000_5_2007_Quantities_and_units_Part_5_Thermodynamics,26711934|WD~ISO_80000_5_2007_Quantities_and_units_Part_5_Thermodynamics,26711934]]'
+- '[[_Standards/WikiData/WD~ISO_80000_5_2019_Quantities_and_units_Part_5_Thermodynamics,92157468|WD~ISO_80000_5_2019_Quantities_and_units_Part_5_Thermodynamics,92157468]]'
 recommended_unit_of_measurement:
-- '[[_Standards/WikiData/WD~kilogram_square_metre_per_square_second,106681350]]'
-- '[[_Standards/WikiData/WD~joule,25269]]'
+- '[[_Standards/WikiData/WD~kilogram_square_metre_per_square_second,106681350|WD~kilogram_square_metre_per_square_second,106681350]]'
+- '[[_Standards/WikiData/WD~joule,25269|WD~joule,25269]]'
 ISQ_dimension: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AB</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn></mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AC</mi></mrow><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5B3</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mo stretchy=\"false\">&#x2212;</mo><mn>2</mn></mrow></mrow></msup></mstyle></mrow></math>"
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>H</mi><mo stretchy="false">=</mo><mi>U</mi><mo stretchy="false">+</mo><mi>p</mi><mi>V</mi></mstyle></mrow></math>
-studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473]]'
-different_from: '[[_Standards/WikiData/WD~entropy,45003]]'
+studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473|WD~thermodynamics,11473]]'
+different_from: '[[_Standards/WikiData/WD~entropy,45003|WD~entropy,45003]]'
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flaming%20cocktails.jpg
 in_defining_formula:
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>p</mi></mstyle></mrow></math>

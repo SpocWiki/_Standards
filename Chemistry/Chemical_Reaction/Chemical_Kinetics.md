@@ -62,8 +62,8 @@ aliases:
 - 反応速度論
 - 화학 반응속도론
 has_id_wikidata: Q209082
-instance_of: '[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]'
-subclass_of: '[[_Standards/WikiData/WD~physical_chemistry,11372]]'
+instance_of: '[[_Standards/WikiData/WD~branch_of_chemistry,11790203|WD~branch_of_chemistry,11790203]]'
+subclass_of: '[[_Standards/WikiData/WD~physical_chemistry,11372|WD~physical_chemistry,11372]]'
 OmegaWiki_Defined_Meaning: 3112
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Activation%20energy.svg
 Dewey_Decimal_Classification:

@@ -84,15 +84,15 @@ aliases:
 - 코페르니슘
 has_id_wikidata: Q1278
 part_of:
-- '[[_Standards/WikiData/WD~group_12,191875]]'
-- '[[_Standards/WikiData/WD~period_7,244979]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~GSI_Helmholtz_Centre_for_Heavy_Ion_Research,703993]]'
+- '[[_Standards/WikiData/WD~group_12,191875|WD~group_12,191875]]'
+- '[[_Standards/WikiData/WD~period_7,244979|WD~period_7,244979]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~GSI_Helmholtz_Centre_for_Heavy_Ion_Research,703993|WD~GSI_Helmholtz_Centre_for_Heavy_Ion_Research,703993]]'
 instance_of:
-- '[[_Standards/WikiData/WD~synthetic_element,755992]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-named_after: '[[_Standards/WikiData/WD~Nicolaus_Copernicus,619]]'
-subclass_of: '[[_Standards/WikiData/WD~post_transition_metal,19591]]'
+- '[[_Standards/WikiData/WD~synthetic_element,755992|WD~synthetic_element,755992]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+named_after: '[[_Standards/WikiData/WD~Nicolaus_Copernicus,619|WD~Nicolaus_Copernicus,619]]'
+subclass_of: '[[_Standards/WikiData/WD~post_transition_metal,19591|WD~post_transition_metal,19591]]'
 atomic_number: 112
 OmegaWiki_Defined_Meaning: 368710
 Commons_gallery: Copernicium

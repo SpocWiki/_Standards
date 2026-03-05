@@ -85,23 +85,23 @@ aliases:
 - 연소
 has_id_wikidata: Q133235
 subclass_of:
-- '[[_Standards/WikiData/WD~redox,82682]]'
-- '[[_Standards/WikiData/WD~exothermic_reaction,205949]]'
+- '[[_Standards/WikiData/WD~redox,82682|WD~redox,82682]]'
+- '[[_Standards/WikiData/WD~exothermic_reaction,205949|WD~exothermic_reaction,205949]]'
 has_effect:
-- '[[_Standards/WikiData/WD~smoke,130768]]'
-- '[[_Standards/WikiData/WD~fire,3196]]'
+- '[[_Standards/WikiData/WD~smoke,130768|WD~smoke,130768]]'
+- '[[_Standards/WikiData/WD~fire,3196|WD~fire,3196]]'
 uses:
-- '[[_Standards/WikiData/WD~oxidizing_agent,187689]]'
-- '[[_Standards/WikiData/WD~fuel,42501]]'
-facet_of: '[[_Standards/WikiData/WD~thermal_energy,209233]]'
+- '[[_Standards/WikiData/WD~oxidizing_agent,187689|WD~oxidizing_agent,187689]]'
+- '[[_Standards/WikiData/WD~fuel,42501|WD~fuel,42501]]'
+facet_of: '[[_Standards/WikiData/WD~thermal_energy,209233|WD~thermal_energy,209233]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~burning,12888145]]'
-has_immediate_cause: '[[_Standards/WikiData/WD~ignition,123160824]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~burning,12888145|WD~burning,12888145]]'
+has_immediate_cause: '[[_Standards/WikiData/WD~ignition,123160824|WD~ignition,123160824]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fire%2C%20Fireplace%2C%20Rostov-on-Don%2C%20Russia.jpg
 OmegaWiki_Defined_Meaning: 671684
 Iconclass_notation:

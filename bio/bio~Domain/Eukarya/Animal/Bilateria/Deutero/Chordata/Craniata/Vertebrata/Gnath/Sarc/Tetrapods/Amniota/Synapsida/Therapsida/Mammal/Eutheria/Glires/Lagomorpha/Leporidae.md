@@ -87,12 +87,12 @@ aliases:
 - 토끼
 has_id_wikidata: Q25900
 described_by_source:
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-depicted_by: '[[_Standards/WikiData/WD~Rabbits_and_hares_in_the_arts,1571213]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-parent_taxon: '[[_Standards/WikiData/WD~Lagomorpha,25401]]'
-taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+depicted_by: '[[_Standards/WikiData/WD~Rabbits_and_hares_in_the_arts,1571213|WD~Rabbits_and_hares_in_the_arts,1571213]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+parent_taxon: '[[_Standards/WikiData/WD~Lagomorpha,25401|WD~Lagomorpha,25401]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409|WD~family,35409]]'
 ITIS_TSN: 180110
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q188%20%28deu%29-Sebastian%20Wallroth-Hasen.wav
 start_time: -53000000-01-01T00:00:00Z

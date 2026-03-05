@@ -72,15 +72,15 @@ aliases:
 - 결합 조직
 has_id_wikidata: Q25615
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Connective_tissues,7647013]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Connective_tissues,7647013|WD~Template_Connective_tissues,7647013]]'
 instance_of:
-- '[[_Standards/WikiData/WD~tissue_type,103843025]]'
-- '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]'
+- '[[_Standards/WikiData/WD~tissue_type,103843025|WD~tissue_type,103843025]]'
+- '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905|WD~class_of_anatomical_entity,112826905]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]'
-- '[[_Standards/WikiData/WD~tissue,40397]]'
+- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975|WD~particular_anatomical_entity,112826975]]'
+- '[[_Standards/WikiData/WD~tissue,40397|WD~tissue,40397]]'
 OmegaWiki_Defined_Meaning: 1653835
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hist.Technik%20%282%29.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%AF%E0%A7%8B%E0%A6%9C%E0%A6%95%20%E0%A6%95%E0%A6%B2%E0%A6%BE.wav

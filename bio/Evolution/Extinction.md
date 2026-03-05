@@ -106,27 +106,27 @@ aliases:
 - 절멸
 has_id_wikidata: Q123509
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-handled_mitigated_or_managed_by: '[[_Standards/WikiData/WD~conservation,628403]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+handled_mitigated_or_managed_by: '[[_Standards/WikiData/WD~conservation,628403|WD~conservation,628403]]'
 studied_by:
-- '[[_Standards/WikiData/WD~population_dynamics,904564]]'
-- '[[_Standards/WikiData/WD~history_of_life,1098275]]'
-- '[[_Standards/WikiData/WD~speciation_and_extinction,113042730]]'
+- '[[_Standards/WikiData/WD~population_dynamics,904564|WD~population_dynamics,904564]]'
+- '[[_Standards/WikiData/WD~history_of_life,1098275|WD~history_of_life,1098275]]'
+- '[[_Standards/WikiData/WD~speciation_and_extinction,113042730|WD~speciation_and_extinction,113042730]]'
 part_of:
-- '[[_Standards/WikiData/WD~environmental_degradation,1334780]]'
-- '[[_Standards/WikiData/WD~biodiversity_loss,18466271]]'
-- '[[_Standards/WikiData/WD~extinction_event,55814]]'
+- '[[_Standards/WikiData/WD~environmental_degradation,1334780|WD~environmental_degradation,1334780]]'
+- '[[_Standards/WikiData/WD~biodiversity_loss,18466271|WD~biodiversity_loss,18466271]]'
+- '[[_Standards/WikiData/WD~extinction_event,55814|WD~extinction_event,55814]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~end,12769393]]'
-- '[[_Standards/WikiData/WD~biological_risk,16672848]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Extinction,22082719]]'
-instance_of: '[[_Standards/WikiData/WD~biological_phenomenon,64732777]]'
-different_from: '[[_Standards/WikiData/WD~extinction,65961969]]'
-has_effect: '[[_Standards/WikiData/WD~extinct_taxon,98961713]]'
+- '[[_Standards/WikiData/WD~end,12769393|WD~end,12769393]]'
+- '[[_Standards/WikiData/WD~biological_risk,16672848|WD~biological_risk,16672848]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Extinction,22082719|WD~Template_Extinction,22082719]]'
+instance_of: '[[_Standards/WikiData/WD~biological_phenomenon,64732777|WD~biological_phenomenon,64732777]]'
+different_from: '[[_Standards/WikiData/WD~extinction,65961969|WD~extinction,65961969]]'
+has_effect: '[[_Standards/WikiData/WD~extinct_taxon,98961713|WD~extinct_taxon,98961713]]'
 opposite_of:
-- '[[_Standards/WikiData/WD~survival,104482419]]'
-- '[[_Standards/WikiData/WD~speciation,39350]]'
+- '[[_Standards/WikiData/WD~survival,104482419|WD~survival,104482419]]'
+- '[[_Standards/WikiData/WD~speciation,39350|WD~speciation,39350]]'
 OmegaWiki_Defined_Meaning: 1394
 Library_of_Congress_Classification: QH78
 Commons_category: Extinction

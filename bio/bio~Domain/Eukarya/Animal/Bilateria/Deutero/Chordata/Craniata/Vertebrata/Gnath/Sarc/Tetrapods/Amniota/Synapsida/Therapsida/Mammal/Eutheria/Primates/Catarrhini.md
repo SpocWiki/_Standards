@@ -177,23 +177,23 @@ aliases:
   - 원숭이
 has_id_wikidata: Q1367
 title: Catarrhini
-taxon_known_by_this_common_name: "[[_Standards/WikiData/WD~Cercopithecidae,182968]]"
+taxon_known_by_this_common_name: "[[_Standards/WikiData/WD~Cercopithecidae,182968|WD~Cercopithecidae,182968]]"
 described_by_source:
-  - "[[../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
-subclass_of: "[[_Standards/WikiData/WD~non_human_animal,24249370]]"
-instance_of: "[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]"
+  - "[[../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+  - "[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]"
+  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+subclass_of: "[[_Standards/WikiData/WD~non_human_animal,24249370|WD~non_human_animal,24249370]]"
+instance_of: "[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715|WD~organisms_known_by_a_particular_common_name,55983715]]"
 depicted_by:
-  - "[[_Standards/WikiData/WD~Monkey_from_the_Iseum_Campense,131588037]]"
-  - "[[_Standards/WikiData/WD~Fontana_delle_scimmie,131812862]]"
-  - "[[_Standards/WikiData/WD~Sala_delle_Scimmie,131813529]]"
+  - "[[_Standards/WikiData/WD~Monkey_from_the_Iseum_Campense,131588037|WD~Monkey_from_the_Iseum_Campense,131588037]]"
+  - "[[_Standards/WikiData/WD~Fontana_delle_scimmie,131812862|WD~Fontana_delle_scimmie,131812862]]"
+  - "[[_Standards/WikiData/WD~Sala_delle_Scimmie,131813529|WD~Sala_delle_Scimmie,131813529]]"
 OmegaWiki_Defined_Meaning: 5870
 Commons_gallery: Monkey
 U_S_National_Archives_Identifier: 10646707

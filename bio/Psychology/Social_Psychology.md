@@ -78,16 +78,16 @@ aliases:
 - 社會心理學
 - 사회심리학
 has_id_wikidata: Q161272
-studied_by: '[[_Standards/WikiData/WD~sociolinguistics,160845]]'
-different_from: '[[_Standards/WikiData/WD~psychosociology,3410140]]'
+studied_by: '[[_Standards/WikiData/WD~sociolinguistics,160845|WD~sociolinguistics,160845]]'
+different_from: '[[_Standards/WikiData/WD~psychosociology,3410140|WD~psychosociology,3410140]]'
 instance_of:
-- '[[_Standards/WikiData/WD~academic_major,4671286]]'
-- '[[_Standards/WikiData/WD~branch_of_psychology,60680430]]'
-practiced_by: '[[_Standards/WikiData/WD~social_psychologist,10672931]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_SocialPsychology,62562342]]'
-part_of: '[[_Standards/WikiData/WD~social_and_personality_psychology,113212938]]'
-described_by_source: '[[_Standards/WikiData/WD~Soziolinguistika_Hiztegia,124156602]]'
-subclass_of: '[[_Standards/WikiData/WD~psychology,9418]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~branch_of_psychology,60680430|WD~branch_of_psychology,60680430]]'
+practiced_by: '[[_Standards/WikiData/WD~social_psychologist,10672931|WD~social_psychologist,10672931]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_SocialPsychology,62562342|WD~Template_SocialPsychology,62562342]]'
+part_of: '[[_Standards/WikiData/WD~social_and_personality_psychology,113212938|WD~social_and_personality_psychology,113212938]]'
+described_by_source: '[[_Standards/WikiData/WD~Soziolinguistika_Hiztegia,124156602|WD~Soziolinguistika_Hiztegia,124156602]]'
+subclass_of: '[[_Standards/WikiData/WD~psychology,9418|WD~psychology,9418]]'
 All_Science_Journal_Classification_Codes: 3207
 OmegaWiki_Defined_Meaning: 4409
 U_S_National_Archives_Identifier: 10644839

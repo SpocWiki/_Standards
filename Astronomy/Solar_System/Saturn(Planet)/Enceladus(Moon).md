@@ -45,15 +45,15 @@ aliases:
 - 土衞二
 - 엔셀라두스
 has_id_wikidata: Q3303
-named_after: '[[_Standards/WikiData/WD~Enceladus,845112]]'
+named_after: '[[_Standards/WikiData/WD~Enceladus,845112|WD~Enceladus,845112]]'
 instance_of:
-- '[[_Standards/WikiData/WD~regular_moon,1086783]]'
-- '[[_Standards/WikiData/WD~moon_of_Saturn,1972]]'
-connects_with: '[[_Standards/WikiData/WD~E_Ring,1109971]]'
-has_characteristic: '[[_Standards/WikiData/WD~Q16652028,16652028]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~William_Herschel,14277]]'
-parent_astronomical_body: '[[_Standards/WikiData/WD~Saturn,193]]'
+- '[[_Standards/WikiData/WD~regular_moon,1086783|WD~regular_moon,1086783]]'
+- '[[_Standards/WikiData/WD~moon_of_Saturn,1972|WD~moon_of_Saturn,1972]]'
+connects_with: '[[_Standards/WikiData/WD~E_Ring,1109971|WD~E_Ring,1109971]]'
+has_characteristic: '[[_Standards/WikiData/WD~Q16652028,16652028|WD~Q16652028,16652028]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~William_Herschel,14277|WD~William_Herschel,14277]]'
+parent_astronomical_body: '[[_Standards/WikiData/WD~Saturn,193|WD~Saturn,193]]'
 orbital_inclination: 0.009
 orbital_eccentricity: 0.0047
 temperature:

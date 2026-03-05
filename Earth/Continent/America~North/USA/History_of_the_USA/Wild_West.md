@@ -43,20 +43,20 @@ aliases:
 - 美國舊西部
 - 西部開拓時代
 has_id_wikidata: Q190267
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Wild_West,14947899]]'
-instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Wild_West,14614579]]'
-different_from: '[[_Standards/WikiData/WD~Dziki_Zachód,110757536]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Wild_West,14947899|WD~Wild_West,14947899]]'
+instance_of: '[[_Standards/WikiData/WD~aspect_of_history,17524420|WD~aspect_of_history,17524420]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Wild_West,14614579|WD~Wild_West,14614579]]'
+different_from: '[[_Standards/WikiData/WD~Dziki_Zachód,110757536|WD~Dziki_Zachód,110757536]]'
 Commons_category: Wild West
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/BannockIndiansBanner.jpg
 Library_of_Congress_Classification: E179.5
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sitting%20bull%20and%20buffalo%20bill%20c1885.jpg
 IMDb_keyword: old-west
 facet_of:
-- '[[_Standards/WikiData/WD~colonization,815962]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_American_frontier,14335846]]'
-country: '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~colonization,815962|WD~colonization,815962]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_American_frontier,14335846|WD~Template_American_frontier,14335846]]'
+country: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 Commons_gallery: Wild West
 dv_is_:
   same_as:

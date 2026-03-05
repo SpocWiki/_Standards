@@ -34,7 +34,7 @@ Tag Instances like this:
 
 A specific strength in which a medical drug is available in a specific country.
 
-#has_/parent_class :: [[../MedicalIntangible]]  
+#has_/parent_class :: [[../MedicalIntangible|MedicalIntangible]]  
 
 #has_/properties :: [ activeIngredient, additionalType, alternateName, availableIn, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, maximumIntake, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, strengthUnit, strengthValue, study, subjectOf, url ]  
 

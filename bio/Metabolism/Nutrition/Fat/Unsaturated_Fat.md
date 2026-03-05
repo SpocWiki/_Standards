@@ -44,10 +44,10 @@ aliases:
 - 불포화 지방
 has_id_wikidata: Q652555
 subclass_of:
-- '[[_Standards/WikiData/WD~fat,127980]]'
-- '[[_Standards/WikiData/WD~nutrient,181394]]'
-opposite_of: '[[_Standards/WikiData/WD~saturated_fat,970537]]'
-different_from: '[[_Standards/WikiData/WD~unsaturated_fatty_acid,2250497]]'
+- '[[_Standards/WikiData/WD~fat,127980|WD~fat,127980]]'
+- '[[_Standards/WikiData/WD~nutrient,181394|WD~nutrient,181394]]'
+opposite_of: '[[_Standards/WikiData/WD~saturated_fat,970537|WD~saturated_fat,970537]]'
+different_from: '[[_Standards/WikiData/WD~unsaturated_fatty_acid,2250497|WD~unsaturated_fatty_acid,2250497]]'
 MeSH_tree_code: D10.212.507
 dv_has_:
   name_:

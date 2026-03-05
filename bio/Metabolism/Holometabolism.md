@@ -25,8 +25,8 @@ aliases:
 - 完全變態
 - 완전변태
 has_id_wikidata: Q2048559
-instance_of: '[[_Standards/WikiData/WD~anatomical_structure,4936952]]'
-subclass_of: '[[_Standards/WikiData/WD~metabolism,1057]]'
+instance_of: '[[_Standards/WikiData/WD~anatomical_structure,4936952|WD~anatomical_structure,4936952]]'
+subclass_of: '[[_Standards/WikiData/WD~metabolism,1057|WD~metabolism,1057]]'
 OmegaWiki_Defined_Meaning: 1085116
 dv_has_:
   name_:
@@ -63,7 +63,7 @@ dv_has_:
 
 # [[Holometabolism]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~holometabolism,2048559]] 
+#is_/same_as :: [[_Standards/WikiData/WD~holometabolism,2048559|WD~holometabolism,2048559]] 
 
 ## #has_/text_of_/abstract 
 

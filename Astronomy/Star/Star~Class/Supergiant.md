@@ -53,8 +53,8 @@ aliases:
 - 超巨星
 - 초거성
 has_id_wikidata: Q193599
-instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
-subclass_of: '[[_Standards/WikiData/WD~star,523]]'
+instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909|WD~astronomical_object_type,17444909]]'
+subclass_of: '[[_Standards/WikiData/WD~star,523|WD~star,523]]'
 Commons_category: Supergiant stars
 dv_is_:
   same_as:

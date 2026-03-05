@@ -35,15 +35,15 @@ aliases:
 - 胡椒目
 - 후추목
 has_id_wikidata: Q27287
-parent_taxon: '[[_Standards/WikiData/WD~magnoliids,846071]]'
+parent_taxon: '[[_Standards/WikiData/WD~magnoliids,846071|WD~magnoliids,846071]]'
 taxon_synonym:
-- '[[_Standards/WikiData/WD~Aristolochiales,1973300]]'
-- '[[_Standards/WikiData/WD~Lactoridales,14918093]]'
-- '[[_Standards/WikiData/WD~Hydnorales,14918102]]'
-- '[[_Standards/WikiData/WD~Asarales,81935761]]'
-has_fruit_type: '[[_Standards/WikiData/WD~drupe,14712]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
+- '[[_Standards/WikiData/WD~Aristolochiales,1973300|WD~Aristolochiales,1973300]]'
+- '[[_Standards/WikiData/WD~Lactoridales,14918093|WD~Lactoridales,14918093]]'
+- '[[_Standards/WikiData/WD~Hydnorales,14918102|WD~Hydnorales,14918102]]'
+- '[[_Standards/WikiData/WD~Asarales,81935761|WD~Asarales,81935761]]'
+has_fruit_type: '[[_Standards/WikiData/WD~drupe,14712|WD~drupe,14712]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~order,36602|WD~order,36602]]'
 ITIS_TSN: 18217
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Piper%20angustifolium%20-%20K%C3%B6hler%E2%80%93s%20Medizinal-Pflanzen-243.jpg

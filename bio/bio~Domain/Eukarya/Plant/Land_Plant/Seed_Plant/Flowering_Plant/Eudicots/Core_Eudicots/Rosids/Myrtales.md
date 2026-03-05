@@ -37,10 +37,10 @@ aliases:
 - 도금양목
 has_id_wikidata: Q21866
 title: Myrtales
-parent_taxon: '[[_Standards/WikiData/WD~malvids,2133361]]'
-described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
+parent_taxon: '[[_Standards/WikiData/WD~malvids,2133361|WD~malvids,2133361]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~order,36602|WD~order,36602]]'
 ITIS_TSN: 27072
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Lumnitzera%20littorea.jpg

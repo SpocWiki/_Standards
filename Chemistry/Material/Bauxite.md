@@ -55,27 +55,27 @@ aliases:
 - 철반석
 has_id_wikidata: Q102078
 subclass_of:
-- '[[_Standards/WikiData/WD~sedimentary_rock,82480]]'
-- '[[_Standards/WikiData/WD~ore,102798]]'
+- '[[_Standards/WikiData/WD~sedimentary_rock,82480|WD~sedimentary_rock,82480]]'
+- '[[_Standards/WikiData/WD~ore,102798|WD~ore,102798]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~hematite,103223]]'
-- '[[_Standards/WikiData/WD~goethite,189703]]'
-- '[[_Standards/WikiData/WD~ilmenite,190729]]'
-- '[[_Standards/WikiData/WD~kaolinite,223197]]'
-- '[[_Standards/WikiData/WD~gibbsite,408516]]'
-- '[[_Standards/WikiData/WD~böhmite,409757]]'
-- '[[_Standards/WikiData/WD~diaspore,411891]]'
-- '[[_Standards/WikiData/WD~anatase,413357]]'
-named_after: '[[_Standards/WikiData/WD~Les_Baux_de_Provence,243663]]'
+- '[[_Standards/WikiData/WD~hematite,103223|WD~hematite,103223]]'
+- '[[_Standards/WikiData/WD~goethite,189703|WD~goethite,189703]]'
+- '[[_Standards/WikiData/WD~ilmenite,190729|WD~ilmenite,190729]]'
+- '[[_Standards/WikiData/WD~kaolinite,223197|WD~kaolinite,223197]]'
+- '[[_Standards/WikiData/WD~gibbsite,408516|WD~gibbsite,408516]]'
+- '[[_Standards/WikiData/WD~böhmite,409757|WD~böhmite,409757]]'
+- '[[_Standards/WikiData/WD~diaspore,411891|WD~diaspore,411891]]'
+- '[[_Standards/WikiData/WD~anatase,413357|WD~anatase,413357]]'
+named_after: '[[_Standards/WikiData/WD~Les_Baux_de_Provence,243663|WD~Les_Baux_de_Provence,243663]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~Encyclopedia_of_Modern_Ukraine,4532152]]'
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Modern_Ukraine,4532152|WD~Encyclopedia_of_Modern_Ukraine,4532152]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 Mohs_hardness: 8.8
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bauxite.jpg
 U_S_National_Archives_Identifier: 10636601

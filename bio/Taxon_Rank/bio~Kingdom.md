@@ -113,22 +113,22 @@ aliases:
 - 界
 - 계
 has_id_wikidata: Q36732
-described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 different_from:
-- '[[_Standards/WikiData/WD~kingdom,417175]]'
-- '[[_Standards/WikiData/WD~realm,62075839]]'
-- '[[_Standards/WikiData/WD~Rike,100235356]]'
+- '[[_Standards/WikiData/WD~kingdom,417175|WD~kingdom,417175]]'
+- '[[_Standards/WikiData/WD~realm,62075839|WD~realm,62075839]]'
+- '[[_Standards/WikiData/WD~Rike,100235356|WD~Rike,100235356]]'
 instance_of:
-- '[[_Standards/WikiData/WD~taxonomic_rank,427626]]'
-- '[[_Standards/WikiData/WD~rank_in_botany,3100180]]'
-- '[[_Standards/WikiData/WD~rank_in_zoology,13578154]]'
+- '[[_Standards/WikiData/WD~taxonomic_rank,427626|WD~taxonomic_rank,427626]]'
+- '[[_Standards/WikiData/WD~rank_in_botany,3100180|WD~rank_in_botany,3100180]]'
+- '[[_Standards/WikiData/WD~rank_in_zoology,13578154|WD~rank_in_zoology,13578154]]'
 OmegaWiki_Defined_Meaning: 801379
 part_of:
-- '[[_Standards/WikiData/WD~subdomain,3491996]]'
-- '[[_Standards/WikiData/WD~superkingdom,19858692]]'
-- '[[_Standards/WikiData/WD~realm,62075839]]'
-- '[[_Standards/WikiData/WD~subrealm,65082852]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Full_biological_kingdom_classification,6458785]]'
+- '[[_Standards/WikiData/WD~subdomain,3491996|WD~subdomain,3491996]]'
+- '[[_Standards/WikiData/WD~superkingdom,19858692|WD~superkingdom,19858692]]'
+- '[[_Standards/WikiData/WD~realm,62075839|WD~realm,62075839]]'
+- '[[_Standards/WikiData/WD~subrealm,65082852|WD~subrealm,65082852]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Full_biological_kingdom_classification,6458785|WD~Template_Full_biological_kingdom_classification,6458785]]'
 dv_has_:
   name_:
     af: koninkryk
@@ -288,9 +288,9 @@ dv_has_:
 - #is_a_/taxon_rank  
 - #is_a :: [[Taxon_Rank]] 
 - 
-- #is_/same_as :: [[../../../WikiData/WD~Kingdom,36732]] 
-- #has_/previous_/item :: [[../bio~Domain]] 
-- #has_/next_/item :: [[bio~Kingdom/bio~Phylum]] 
+- #is_/same_as :: [[../../../WikiData/WD~Kingdom,36732|WD~Kingdom,36732]] 
+- #has_/previous_/item :: [[../bio~Domain|bio~Domain]] 
+- #has_/next_/item :: [[bio~Kingdom/bio~Phylum|bio~Phylum]] 
 
 ## #has_/text_of_/abstract 
 

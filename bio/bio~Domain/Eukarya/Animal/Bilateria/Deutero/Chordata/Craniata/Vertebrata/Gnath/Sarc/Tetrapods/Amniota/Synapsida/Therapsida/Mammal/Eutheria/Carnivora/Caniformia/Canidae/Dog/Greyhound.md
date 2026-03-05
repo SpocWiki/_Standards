@@ -39,8 +39,8 @@ aliases:
 - "灵\U000247E5"
 - 그레이하운드
 has_id_wikidata: Q38571
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
-country_of_origin: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917|WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
 mass:
 - 27
 - 29
@@ -49,8 +49,8 @@ height:
 - 68
 - 71
 - 76
-subclass_of: '[[_Standards/WikiData/WD~sighthound,39344]]'
-instance_of: '[[_Standards/WikiData/WD~dog_breed,39367]]'
+subclass_of: '[[_Standards/WikiData/WD~sighthound,39344|WD~sighthound,39344]]'
+instance_of: '[[_Standards/WikiData/WD~dog_breed,39367|WD~dog_breed,39367]]'
 catalog_code: 158
 social_media_followers: 71622
 Commons_gallery: Greyhound

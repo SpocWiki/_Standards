@@ -40,18 +40,18 @@ aliases:
 - 维生素B6
 - 비타민 B6
 has_id_wikidata: Q205130
-subject_has_role: '[[_Standards/WikiData/WD~vitamin_B,183206]]'
+subject_has_role: '[[_Standards/WikiData/WD~vitamin_B,183206|WD~vitamin_B,183206]]'
 part_of:
-- '[[_Standards/WikiData/WD~response_to_vitamin_B6,14877312]]'
-- '[[_Standards/WikiData/WD~vitamin_B6_metabolic_process,21123305]]'
-- '[[_Standards/WikiData/WD~vitamin_B6_biosynthetic_process,21756197]]'
-- '[[_Standards/WikiData/WD~cellular_response_to_vitamin_B6,22273186]]'
-- '[[_Standards/WikiData/WD~vitamin_B6_catabolic_process,22275552]]'
-- '[[_Standards/WikiData/WD~vitamin_B6_transport,22290477]]'
-- '[[_Standards/WikiData/WD~vitamin_B6_binding,22313786]]'
-- '[[_Standards/WikiData/WD~vitamin_B6_transmembrane_transporter_activity,22324667]]'
-instance_of: '[[_Standards/WikiData/WD~group_or_class_of_chemical_substances,17339814]]'
-subclass_of: '[[_Standards/WikiData/WD~chemical_compound,11173]]'
+- '[[_Standards/WikiData/WD~response_to_vitamin_B6,14877312|WD~response_to_vitamin_B6,14877312]]'
+- '[[_Standards/WikiData/WD~vitamin_B6_metabolic_process,21123305|WD~vitamin_B6_metabolic_process,21123305]]'
+- '[[_Standards/WikiData/WD~vitamin_B6_biosynthetic_process,21756197|WD~vitamin_B6_biosynthetic_process,21756197]]'
+- '[[_Standards/WikiData/WD~cellular_response_to_vitamin_B6,22273186|WD~cellular_response_to_vitamin_B6,22273186]]'
+- '[[_Standards/WikiData/WD~vitamin_B6_catabolic_process,22275552|WD~vitamin_B6_catabolic_process,22275552]]'
+- '[[_Standards/WikiData/WD~vitamin_B6_transport,22290477|WD~vitamin_B6_transport,22290477]]'
+- '[[_Standards/WikiData/WD~vitamin_B6_binding,22313786|WD~vitamin_B6_binding,22313786]]'
+- '[[_Standards/WikiData/WD~vitamin_B6_transmembrane_transporter_activity,22324667|WD~vitamin_B6_transmembrane_transporter_activity,22324667]]'
+instance_of: '[[_Standards/WikiData/WD~group_or_class_of_chemical_substances,17339814|WD~group_or_class_of_chemical_substances,17339814]]'
+subclass_of: '[[_Standards/WikiData/WD~chemical_compound,11173|WD~chemical_compound,11173]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Pyridoxal-phosphate.svg
 EC_number: 232-503-8
 CAS_Registry_Number: 8059-24-3

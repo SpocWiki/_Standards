@@ -127,24 +127,24 @@ aliases:
 has_id_wikidata: Q25314
 title: Angiosperms
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-instance_of: '[[_Standards/WikiData/WD~clade,713623]]'
-different_from: '[[_Standards/WikiData/WD~flowering_plant,886167]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+instance_of: '[[_Standards/WikiData/WD~clade,713623|WD~clade,713623]]'
+different_from: '[[_Standards/WikiData/WD~flowering_plant,886167|WD~flowering_plant,886167]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~Magnoliopsida,1307404]]'
-- '[[_Standards/WikiData/WD~Magnoliidae,13582382]]'
-- '[[_Standards/WikiData/WD~Magnoliophyta,14562931]]'
-- '[[_Standards/WikiData/WD~Angiospermae,14832431]]'
+- '[[_Standards/WikiData/WD~Magnoliopsida,1307404|WD~Magnoliopsida,1307404]]'
+- '[[_Standards/WikiData/WD~Magnoliidae,13582382|WD~Magnoliidae,13582382]]'
+- '[[_Standards/WikiData/WD~Magnoliophyta,14562931|WD~Magnoliophyta,14562931]]'
+- '[[_Standards/WikiData/WD~Angiospermae,14832431|WD~Angiospermae,14832431]]'
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Taxonomy_Angiosperms,13217731]]'
-- '[[_Standards/WikiData/WD~Template_Angiosperm_families,110519482]]'
+- '[[_Standards/WikiData/WD~Template_Taxonomy_Angiosperms,13217731|WD~Template_Taxonomy_Angiosperms,13217731]]'
+- '[[_Standards/WikiData/WD~Template_Angiosperm_families,110519482|WD~Template_Angiosperm_families,110519482]]'
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flower%20poster%202.jpg
-subclass_of: '[[_Standards/WikiData/WD~plant,756]]'
+subclass_of: '[[_Standards/WikiData/WD~plant,756|WD~plant,756]]'
 properties_for_this_type:
 - flower color
 - inflorescence

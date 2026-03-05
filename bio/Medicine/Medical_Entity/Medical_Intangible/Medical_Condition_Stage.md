@@ -34,7 +34,7 @@ Tag Instances like this:
 
 A stage of a medical condition, such as 'Stage IIIa'.
 
-#has_/parent_class :: [[../MedicalIntangible]]  
+#has_/parent_class :: [[../MedicalIntangible|MedicalIntangible]]  
 
 #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, stageAsNumber, study, subStageSuffix, subjectOf, url ]  
 

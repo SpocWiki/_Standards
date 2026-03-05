@@ -42,9 +42,9 @@ aliases:
 - 국화목
 has_id_wikidata: Q21730
 title: Asterales
-parent_taxon: '[[_Standards/WikiData/WD~campanulids,2935471]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
+parent_taxon: '[[_Standards/WikiData/WD~campanulids,2935471|WD~campanulids,2935471]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~order,36602|WD~order,36602]]'
 ITIS_TSN: 35419
 OmegaWiki_Defined_Meaning: 358536
 image:

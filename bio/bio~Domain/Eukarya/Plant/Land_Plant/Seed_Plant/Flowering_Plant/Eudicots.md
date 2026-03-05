@@ -160,7 +160,7 @@ dv_has_:
 
 ![Banksia serrata](Eudicots/Banksia_serrata.jpg)  ![Dendromecon rigida, Tree Poppy](Eudicots/Dendromecon_rigida.jpg)  ![Arbutus_andrachne](Eudicots/Arbutus_andrachne.jpg) 
 
-#is_/same_as :: [[_Standards/WikiData/WD~core_eudicots,869087]]
+#is_/same_as :: [[_Standards/WikiData/WD~core_eudicots,869087|WD~core_eudicots,869087]]
 
 ## #has_/text_of_/abstract 
 

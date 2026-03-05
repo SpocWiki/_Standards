@@ -30,19 +30,19 @@ aliases:
 - 럭스
 has_id_wikidata: Q179836
 derived_from_base_unit:
-- '[[_Standards/WikiData/WD~candela,83216]]'
-- '[[_Standards/WikiData/WD~steradian,177612]]'
-- '[[_Standards/WikiData/WD~metre,11573]]'
-measured_physical_quantity: '[[_Standards/WikiData/WD~illuminance,194411]]'
+- '[[_Standards/WikiData/WD~candela,83216|WD~candela,83216]]'
+- '[[_Standards/WikiData/WD~steradian,177612|WD~steradian,177612]]'
+- '[[_Standards/WikiData/WD~metre,11573|WD~metre,11573]]'
+measured_physical_quantity: '[[_Standards/WikiData/WD~illuminance,194411|WD~illuminance,194411]]'
 instance_of:
-- '[[_Standards/WikiData/WD~SI_derived_unit,208469]]'
-- '[[_Standards/WikiData/WD~unit_of_illuminance,50323322]]'
-- '[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328]]'
-- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
+- '[[_Standards/WikiData/WD~SI_derived_unit,208469|WD~SI_derived_unit,208469]]'
+- '[[_Standards/WikiData/WD~unit_of_illuminance,50323322|WD~unit_of_illuminance,50323322]]'
+- '[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328|WD~SI_unit_with_special_name,68618328]]'
+- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057|WD~UCUM_derived_unit,82047057]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 conversion_to_SI_unit: 1
 conversion_to_standard_unit: 0.0001
 OmegaWiki_Defined_Meaning: 341601

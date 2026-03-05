@@ -138,22 +138,22 @@ aliases:
 - 음경
 has_id_wikidata: Q58
 subclass_of:
-- '[[_Standards/WikiData/WD~phallus,168552]]'
-- '[[_Standards/WikiData/WD~sex_organ,4620674]]'
+- '[[_Standards/WikiData/WD~phallus,168552|WD~phallus,168552]]'
+- '[[_Standards/WikiData/WD~sex_organ,4620674|WD~sex_organ,4620674]]'
 part_of:
-- '[[_Standards/WikiData/WD~urinary_system,181100]]'
-- '[[_Standards/WikiData/WD~male_reproductive_system,842083]]'
-innervated_by: '[[_Standards/WikiData/WD~dorsal_nerve_of_the_penis,376687]]'
+- '[[_Standards/WikiData/WD~urinary_system,181100|WD~urinary_system,181100]]'
+- '[[_Standards/WikiData/WD~male_reproductive_system,842083|WD~male_reproductive_system,842083]]'
+innervated_by: '[[_Standards/WikiData/WD~dorsal_nerve_of_the_penis,376687|WD~dorsal_nerve_of_the_penis,376687]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~glans_penis,650891]]'
-- '[[_Standards/WikiData/WD~foreskin,673203]]'
-- '[[_Standards/WikiData/WD~blood_vessel,988343]]'
-- '[[_Standards/WikiData/WD~corpus_cavernosum_penis,1455226]]'
-- '[[_Standards/WikiData/WD~urethra,9386]]'
-instance_of: '[[_Standards/WikiData/WD~organ,712378]]'
-sexually_homologous_with: '[[_Standards/WikiData/WD~clitoris,873072]]'
-shape: '[[_Standards/WikiData/WD~prolate_spheroid,3297588]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828764,22828764]]'
+- '[[_Standards/WikiData/WD~glans_penis,650891|WD~glans_penis,650891]]'
+- '[[_Standards/WikiData/WD~foreskin,673203|WD~foreskin,673203]]'
+- '[[_Standards/WikiData/WD~blood_vessel,988343|WD~blood_vessel,988343]]'
+- '[[_Standards/WikiData/WD~corpus_cavernosum_penis,1455226|WD~corpus_cavernosum_penis,1455226]]'
+- '[[_Standards/WikiData/WD~urethra,9386|WD~urethra,9386]]'
+instance_of: '[[_Standards/WikiData/WD~organ,712378|WD~organ,712378]]'
+sexually_homologous_with: '[[_Standards/WikiData/WD~clitoris,873072|WD~clitoris,873072]]'
+shape: '[[_Standards/WikiData/WD~prolate_spheroid,3297588|WD~prolate_spheroid,3297588]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828764,22828764|WD~Q22828764,22828764]]'
 OmegaWiki_Defined_Meaning: 5473
 Commons_gallery: Penis
 Commons_category: Penis

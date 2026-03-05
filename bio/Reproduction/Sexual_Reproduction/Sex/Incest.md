@@ -66,25 +66,25 @@ aliases:
 - 근친상간
 has_id_wikidata: Q127683
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-main_regulatory_text: '[[_Standards/WikiData/WD~Strafgesetzbuch,674827]]'
-facet_of: "[[_Standards/WikiData/WD~women's_health,8031191]]"
-has_effect: '[[_Standards/WikiData/WD~incest_trauma,12752344]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Incest,20350173]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878|WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+main_regulatory_text: '[[_Standards/WikiData/WD~Strafgesetzbuch,674827|WD~Strafgesetzbuch,674827]]'
+facet_of: "[[_Standards/WikiData/WD~women's_health,8031191|WD~women's_health,8031191]]"
+has_effect: '[[_Standards/WikiData/WD~incest_trauma,12752344|WD~incest_trauma,12752344]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Incest,20350173|WD~Template_Incest,20350173]]'
 different_from:
-- '[[_Standards/WikiData/WD~Incest,29588958]]'
-- '[[_Standards/WikiData/WD~incestum,100721134]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~incest,135524509]]'
+- '[[_Standards/WikiData/WD~Incest,29588958|WD~Incest,29588958]]'
+- '[[_Standards/WikiData/WD~incestum,100721134|WD~incestum,100721134]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720|WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~incest,135524509|WD~incest,135524509]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~human_sexual_behavior,608]]'
-- '[[_Standards/WikiData/WD~inbreeding,38978]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~inbreeding,38978]]'
+- '[[_Standards/WikiData/WD~human_sexual_behavior,608|WD~human_sexual_behavior,608]]'
+- '[[_Standards/WikiData/WD~inbreeding,38978|WD~inbreeding,38978]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~inbreeding,38978|WD~inbreeding,38978]]'
 OmegaWiki_Defined_Meaning: 506762
 booru_tag: incest
 IMDb_keyword: incest

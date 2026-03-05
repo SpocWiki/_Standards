@@ -44,10 +44,10 @@ aliases:
 - 積雨雲
 - 적란운
 has_id_wikidata: Q182311
-instance_of: '[[_Standards/WikiData/WD~cloud_type,1840368]]'
-subclass_of: '[[_Standards/WikiData/WD~vertical_multi_level_clouds,2278627]]'
-facet_of: '[[_Standards/WikiData/WD~international_cloud_classification,3281195]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~thunderhead,16667258]]'
+instance_of: '[[_Standards/WikiData/WD~cloud_type,1840368|WD~cloud_type,1840368]]'
+subclass_of: '[[_Standards/WikiData/WD~vertical_multi_level_clouds,2278627|WD~vertical_multi_level_clouds,2278627]]'
+facet_of: '[[_Standards/WikiData/WD~international_cloud_classification,3281195|WD~international_cloud_classification,3281195]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~thunderhead,16667258|WD~thunderhead,16667258]]'
 duration:
 - 30
 - 4

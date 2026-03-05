@@ -10,11 +10,11 @@ aliases:
 
 # [[Angular_Velocity]] 
 
-#is_a :: [[../../Dimension]] 
+#is_a :: [[../../Dimension|Dimension]] 
 #Dimension 
 #is_/similar_to :: [[../Linear_Dimension/Velocity|Velocity]] 
 
-Speed is the first Derivative of the [[../../Mathematics/Geometry/Geometry-2D/Triangle/Angle|Rotation-Vector]] by [[../Dim~Time]]. 
+Speed is the first Derivative of the [[../../Mathematics/Geometry/Geometry-2D/Triangle/Angle|Rotation-Vector]] by [[../Dim~Time|Dim~Time]]. 
 
 #has_/unit_ :: "[[]]" 
 

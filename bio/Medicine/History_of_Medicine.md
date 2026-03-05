@@ -64,19 +64,19 @@ aliases:
 - 의학사
 has_id_wikidata: Q380274
 different_from:
-- '[[_Standards/WikiData/WD~medical_history,188952]]'
-- '[[_Standards/WikiData/WD~history_of_medicine,26882826]]'
-part_of: '[[_Standards/WikiData/WD~history_of_science,201486]]'
-subclass_of: '[[_Standards/WikiData/WD~history_of_science,201486]]'
+- '[[_Standards/WikiData/WD~medical_history,188952|WD~medical_history,188952]]'
+- '[[_Standards/WikiData/WD~history_of_medicine,26882826|WD~history_of_medicine,26882826]]'
+part_of: '[[_Standards/WikiData/WD~history_of_science,201486|WD~history_of_science,201486]]'
+subclass_of: '[[_Standards/WikiData/WD~history_of_science,201486|WD~history_of_science,201486]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 instance_of:
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_medicine,14851535]]'
-practiced_by: '[[_Standards/WikiData/WD~medical_historian,15985128]]'
-facet_of: '[[_Standards/WikiData/WD~medicine,11190]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~aspect_of_history,17524420|WD~aspect_of_history,17524420]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_History_of_medicine,14851535|WD~Template_History_of_medicine,14851535]]'
+practiced_by: '[[_Standards/WikiData/WD~medical_historian,15985128|WD~medical_historian,15985128]]'
+facet_of: '[[_Standards/WikiData/WD~medicine,11190|WD~medicine,11190]]'
 Commons_category: History of medicine
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Anatomische%20les%20door%20Dokter%20van%20der%20Meer%20van%20Michiel%20en%20Pieter%20van%20Mierevelt.jpg
 UMLS_CUI: C0019667

@@ -136,32 +136,32 @@ aliases:
 has_id_wikidata: Q7432
 Commons_category: Species
 described_by_source:
-- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 different_from:
-- '[[_Standards/WikiData/WD~view,2075301]]'
-- '[[_Standards/WikiData/WD~Genre,5533538]]'
-- '[[_Standards/WikiData/WD~ichnospecies,113015256]]'
-- '[[_Standards/WikiData/WD~oospecies,125838338]]'
+- '[[_Standards/WikiData/WD~view,2075301|WD~view,2075301]]'
+- '[[_Standards/WikiData/WD~Genre,5533538|WD~Genre,5533538]]'
+- '[[_Standards/WikiData/WD~ichnospecies,113015256|WD~ichnospecies,113015256]]'
+- '[[_Standards/WikiData/WD~oospecies,125838338|WD~oospecies,125838338]]'
 equivalent_class: http://purl.uniprot.org/core/Species
-has_cause: '[[_Standards/WikiData/WD~speciation,39350]]'
-has_characteristic: '[[_Standards/WikiData/WD~type_specimen,51255340]]'
-has_part_s_: '[[_Standards/WikiData/WD~population,2625603]]'
+has_cause: '[[_Standards/WikiData/WD~speciation,39350|WD~speciation,39350]]'
+has_characteristic: '[[_Standards/WikiData/WD~type_specimen,51255340|WD~type_specimen,51255340]]'
+has_part_s_: '[[_Standards/WikiData/WD~population,2625603|WD~population,2625603]]'
 instance_of:
-- '[[_Standards/WikiData/WD~taxonomic_rank,427626]]'
-- '[[_Standards/WikiData/WD~rank_in_botany,3100180]]'
-- '[[_Standards/WikiData/WD~rank_in_zoology,13578154]]'
+- '[[_Standards/WikiData/WD~taxonomic_rank,427626|WD~taxonomic_rank,427626]]'
+- '[[_Standards/WikiData/WD~rank_in_botany,3100180|WD~rank_in_botany,3100180]]'
+- '[[_Standards/WikiData/WD~rank_in_zoology,13578154|WD~rank_in_zoology,13578154]]'
 OmegaWiki_Defined_Meaning: 3580
 OpenStreetMap_tag_or_key: Key:species
 part_of:
-- '[[_Standards/WikiData/WD~subgenus,3238261]]'
-- '[[_Standards/WikiData/WD~subseries,13198444]]'
+- '[[_Standards/WikiData/WD~subgenus,3238261|WD~subgenus,3238261]]'
+- '[[_Standards/WikiData/WD~subseries,13198444|WD~subseries,13198444]]'
 PhilPapers_topic: species
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%9C%E0%A6%BE%E0%A6%A4%E0%A6%BF.wav
 properties_for_this_type: taxon range map image
-subclass_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+subclass_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
 U_S_National_Archives_Identifier: 10663903
 dv_has_:
   name_:
@@ -361,8 +361,8 @@ dv_has_:
 #is_a_/taxon_rank 
 #is_a :: [[Taxon_Rank]] 
 
-#has_/previous_/item :: [[../bio~Genus]]  
-#has_/next_/item :: [[bio~Species/bio~Subspecies]] 
+#has_/previous_/item :: [[../bio~Genus|bio~Genus]]  
+#has_/next_/item :: [[bio~Species/bio~Subspecies|bio~Subspecies]] 
 
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Species,7432|WD~Species,7432]]  
 

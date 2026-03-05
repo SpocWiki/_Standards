@@ -90,16 +90,16 @@ aliases:
 - "\U0002CB2D"
 has_id_wikidata: Q1272
 part_of:
-- '[[_Standards/WikiData/WD~group_11,185870]]'
-- '[[_Standards/WikiData/WD~period_7,244979]]'
-location_of_discovery: '[[_Standards/WikiData/WD~GSI_Helmholtz_Centre_for_Heavy_Ion_Research,703993]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~GSI_Helmholtz_Centre_for_Heavy_Ion_Research,703993]]'
+- '[[_Standards/WikiData/WD~group_11,185870|WD~group_11,185870]]'
+- '[[_Standards/WikiData/WD~period_7,244979|WD~period_7,244979]]'
+location_of_discovery: '[[_Standards/WikiData/WD~GSI_Helmholtz_Centre_for_Heavy_Ion_Research,703993|WD~GSI_Helmholtz_Centre_for_Heavy_Ion_Research,703993]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~GSI_Helmholtz_Centre_for_Heavy_Ion_Research,703993|WD~GSI_Helmholtz_Centre_for_Heavy_Ion_Research,703993]]'
 instance_of:
-- '[[_Standards/WikiData/WD~synthetic_element,755992]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-different_from: '[[_Standards/WikiData/WD~Rentgen,9306454]]'
-named_after: '[[_Standards/WikiData/WD~Wilhelm_Röntgen,35149]]'
+- '[[_Standards/WikiData/WD~synthetic_element,755992|WD~synthetic_element,755992]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+different_from: '[[_Standards/WikiData/WD~Rentgen,9306454|WD~Rentgen,9306454]]'
+named_after: '[[_Standards/WikiData/WD~Wilhelm_Röntgen,35149|WD~Wilhelm_Röntgen,35149]]'
 atomic_number: 111
 OmegaWiki_Defined_Meaning: 350608
 audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-uk-roentgenium.oga

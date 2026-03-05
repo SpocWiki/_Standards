@@ -87,16 +87,16 @@ density:
 - 2080
 - 2.46
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
 Dewey_Decimal_Classification: 546.671
 different_from:
-- '[[_Standards/WikiData/WD~Bor,1346524]]'
-- '[[_Standards/WikiData/WD~borophene,15916419]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Humphry_Davy,131761]]'
+- '[[_Standards/WikiData/WD~Bor,1346524|WD~Bor,1346524]]'
+- '[[_Standards/WikiData/WD~borophene,15916419|WD~borophene,15916419]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Humphry_Davy,131761|WD~Humphry_Davy,131761]]'
 DSSTOX_compound_identifier: DTXCID503922
 EC_number: 231-151-2
 electronegativity: 2
@@ -108,28 +108,28 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Boron.jpg
 InChI: InChI=1S/B
 InChIKey: ZOXJGFHDIHLPTG-UHFFFAOYSA-N
 instance_of:
-- '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- '[[_Standards/WikiData/WD~simple_substance,2512777]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
-made_from_material: '[[_Standards/WikiData/WD~jadarite,182344]]'
+- '[[_Standards/WikiData/WD~lithophile,1130479|WD~lithophile,1130479]]'
+- '[[_Standards/WikiData/WD~simple_substance,2512777|WD~simple_substance,2512777]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
+made_from_material: '[[_Standards/WikiData/WD~jadarite,182344|WD~jadarite,182344]]'
 mass: 10.81
 melting_point: 2077
 MeSH_tree_code: D01.268.513.500
-named_after: '[[_Standards/WikiData/WD~borax,3513011]]'
+named_after: '[[_Standards/WikiData/WD~borax,3513011|WD~borax,3513011]]'
 OmegaWiki_Defined_Meaning: 420
 oxidation_state:
 - 1
 - 2
 - 3
 part_of:
-- '[[_Standards/WikiData/WD~group_13,189294]]'
-- '[[_Standards/WikiData/WD~period_2,207712]]'
-- '[[_Standards/WikiData/WD~boron_compound,49851249]]'
+- '[[_Standards/WikiData/WD~group_13,189294|WD~group_13,189294]]'
+- '[[_Standards/WikiData/WD~period_2,207712|WD~period_2,207712]]'
+- '[[_Standards/WikiData/WD~boron_compound,49851249|WD~boron_compound,49851249]]'
 PubChem_CID: 5462311
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20005%20Boron.png
 SpocWebEntityId: 21908
-subclass_of: '[[_Standards/WikiData/WD~metalloid,19596]]'
-subject_has_role: '[[_Standards/WikiData/WD~trace_metal,7831165]]'
+subclass_of: '[[_Standards/WikiData/WD~metalloid,19596|WD~metalloid,19596]]'
+subject_has_role: '[[_Standards/WikiData/WD~trace_metal,7831165|WD~trace_metal,7831165]]'
 time_of_discovery_or_invention: 1892
 type: Element
 ultimate_tensile_strength: 5700
@@ -139,7 +139,7 @@ UNII: N9E3X5056Q
 ZVG_number: 8030
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Boron,618]]'
+  - '[[../../../WikiData/WD~Boron,618|WD~Boron,618]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Group-13-Boron/Boron|Boron]]'
   - '[[/_public/Chemistry/Chemical_Element/Group-13-Boron/Boron.public|Boron.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Group-13-Boron/Boron.internal|Boron.internal]]'
@@ -147,7 +147,7 @@ dv_is_:
   - '[[/_private/Chemistry/Chemical_Element/Group-13-Boron/Boron.private|Boron.private]]'
   - '[[/_personal/Chemistry/Chemical_Element/Group-13-Boron/Boron.personal|Boron.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Group-13-Boron/Boron.secret|Boron.secret]]'
-  part_of: '[[../Group-13-Boron]]'
+  part_of: '[[../Group-13-Boron|Group-13-Boron]]'
 dv_has_:
   name_:
     abbreviated: B
@@ -379,7 +379,7 @@ dv_has_:
         kj_:
           mol: 489.7
 dv_is_same_as:
-- '[[../../../WikiData/WD~Boron,618]]'
+- '[[../../../WikiData/WD~Boron,618|WD~Boron,618]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Group-13-Boron/Boron|Boron]]'
 - '[[/_public/Chemistry/Chemical_Element/Group-13-Boron/Boron.public|Boron.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Group-13-Boron/Boron.internal|Boron.internal]]'
@@ -388,7 +388,7 @@ dv_is_same_as:
 - '[[/_personal/Chemistry/Chemical_Element/Group-13-Boron/Boron.personal|Boron.personal]]'
 - '[[/_secret/Chemistry/Chemical_Element/Group-13-Boron/Boron.secret|Boron.secret]]'
 dv_has_name_group: Group-13-Boron
-dv_is_part_of: '[[../Group-13-Boron]]'
+dv_is_part_of: '[[../Group-13-Boron|Group-13-Boron]]'
 dv_has_name_en: Boron
 dv_has_name_de: Bor
 dv_has_value_for_weight_u: 10.811
@@ -412,7 +412,7 @@ dv_has_number_of_electrons: 5
 
 # [[Boron]] 硼 
 
-#is_/same_as :: [[../../../WikiData/WD~Boron,618]] 
+#is_/same_as :: [[../../../WikiData/WD~Boron,618|WD~Boron,618]] 
 #chemic/Element 
 
 has_name_group = `=this.dv_has_name_group` 

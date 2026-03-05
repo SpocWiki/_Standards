@@ -136,13 +136,13 @@ aliases:
 - ﺷﻮﻓﺎن
 - ﻳﻮﻻف
 has_id_wikidata: Q12104
-award_received: '[[_Standards/WikiData/WD~Medicinal_plant_of_the_year,718769]]'
+award_received: '[[_Standards/WikiData/WD~Medicinal_plant_of_the_year,718769|WD~Medicinal_plant_of_the_year,718769]]'
 Commons_category: Avena sativa
 Commons_gallery: Avena sativa
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]'
-- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_9(3),112869380]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112|WD~Zhiwu_Mingshi_Tukao,107402112]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_9(3),112869380|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_9(3),112869380]]'
 Dewey_Decimal_Classification:
 - 584.9
 - 664.72
@@ -156,30 +156,30 @@ GenBank_assembly_accession_number:
 - GCA_910574605.1
 - GCA_916181665.1
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=6123
-hardiness_of_plant: '[[_Standards/WikiData/WD~5,96279266]]'
+hardiness_of_plant: '[[_Standards/WikiData/WD~5,96279266|WD~5,96279266]]'
 has_use:
-- '[[_Standards/WikiData/WD~medicinal_plant,188840]]'
-- '[[_Standards/WikiData/WD~fodder,211439]]'
-- '[[_Standards/WikiData/WD~cereal_grain,12117]]'
+- '[[_Standards/WikiData/WD~medicinal_plant,188840|WD~medicinal_plant,188840]]'
+- '[[_Standards/WikiData/WD~fodder,211439|WD~fodder,211439]]'
+- '[[_Standards/WikiData/WD~cereal_grain,12117|WD~cereal_grain,12117]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Avena%20sativa%20L.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Illustration%20Avena%20sativa0.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 ITIS_TSN: 41459
 Krugosvet_article: nauka_i_tehnika/biologiya/OVES_POSEVNO.html
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615|WD~WikiProject_Invasion_Biology,56241615]]'
 NBN_System_Key: NBNSYS0000002615
 OmegaWiki_Defined_Meaning: 1111216
-parent_taxon: '[[_Standards/WikiData/WD~Avena,146760]]'
+parent_taxon: '[[_Standards/WikiData/WD~Avena,146760|WD~Avena,146760]]'
 short_name:
 - A. sativa
 subclass_of:
-- '[[_Standards/WikiData/WD~Calcifuge,1151696]]'
-- '[[_Standards/WikiData/WD~useful_plant,11992872]]'
-- '[[_Standards/WikiData/WD~forage,13377214]]'
-- '[[_Standards/WikiData/WD~food,2095]]'
-- '[[_Standards/WikiData/WD~cereal_grain,12117]]'
+- '[[_Standards/WikiData/WD~Calcifuge,1151696|WD~Calcifuge,1151696]]'
+- '[[_Standards/WikiData/WD~useful_plant,11992872|WD~useful_plant,11992872]]'
+- '[[_Standards/WikiData/WD~forage,13377214|WD~forage,13377214]]'
+- '[[_Standards/WikiData/WD~food,2095|WD~food,2095]]'
+- '[[_Standards/WikiData/WD~cereal_grain,12117|WD~cereal_grain,12117]]'
 taxon_author_citation: L.
 taxon_common_name:
 - Havre
@@ -267,18 +267,18 @@ taxon_common_name:
 - Əkin yulafı
 taxon_name: Avena sativa
 taxon_range:
-- '[[_Standards/WikiData/WD~Guangdong,15175]]'
-- '[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
+- '[[_Standards/WikiData/WD~Guangdong,15175|WD~Guangdong,15175]]'
+- '[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269|WD~Tibet_Autonomous_Region,17269]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+taxon_rank: '[[_Standards/WikiData/WD~species,7432|WD~species,7432]]'
 this_taxon_is_source_of:
-- '[[_Standards/WikiData/WD~rolled_oats,1208221]]'
-- '[[_Standards/WikiData/WD~steel-cut_oats,7605615]]'
-- '[[_Standards/WikiData/WD~oats,24265484]]'
-- '[[_Standards/WikiData/WD~oat_grain,96058331]]'
-- '[[_Standards/WikiData/WD~oat_herb,96058504]]'
-- '[[_Standards/WikiData/WD~oat_straw,103813666]]'
-- '[[_Standards/WikiData/WD~avenin,130475074]]'
+- '[[_Standards/WikiData/WD~rolled_oats,1208221|WD~rolled_oats,1208221]]'
+- '[[_Standards/WikiData/WD~steel-cut_oats,7605615|WD~steel-cut_oats,7605615]]'
+- '[[_Standards/WikiData/WD~oats,24265484|WD~oats,24265484]]'
+- '[[_Standards/WikiData/WD~oat_grain,96058331|WD~oat_grain,96058331]]'
+- '[[_Standards/WikiData/WD~oat_herb,96058504|WD~oat_herb,96058504]]'
+- '[[_Standards/WikiData/WD~oat_straw,103813666|WD~oat_straw,103813666]]'
+- '[[_Standards/WikiData/WD~avenin,130475074|WD~avenin,130475074]]'
 UNII: 5P8D0Z74RG
 water_footprint: 1788
 dv_has_:

@@ -50,14 +50,14 @@ aliases:
 - 薑科
 - 생강과
 has_id_wikidata: Q37021
-taxonomic_type: '[[../../../../../../../../../WikiData/WD~Zingiber,163563]]'
+taxonomic_type: '[[../../../../../../../../../WikiData/WD~Zingiber,163563|WD~Zingiber,163563]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_16(2),112869391]]'
-this_taxon_is_source_of: '[[_Standards/WikiData/WD~zerumbone,110663148]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_16(2),112869391|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_16(2),112869391]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~zerumbone,110663148|WD~zerumbone,110663148]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409|WD~family,35409]]'
 ITIS_TSN: 42392
 Commons_category: Zingiberaceae
 taxon_name: Zingiberaceae
@@ -170,7 +170,7 @@ dv_has_:
 
 # [[Zingiberaceae]] 
 
-#is_/same_as :: [[../../../../../../../../../WikiData/WD~Zingiberaceae,37021]] 
+#is_/same_as :: [[../../../../../../../../../WikiData/WD~Zingiberaceae,37021|WD~Zingiberaceae,37021]] 
 
 ## #has_/text_of_/abstract 
 

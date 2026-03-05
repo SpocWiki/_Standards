@@ -107,26 +107,26 @@ aliases:
 - 와습
 has_id_wikidata: Q9458574
 described_by_source:
-- '[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
 taxon_known_by_this_common_name:
-- '[[_Standards/WikiData/WD~Aculeata,1251421]]'
-- '[[_Standards/WikiData/WD~Evanioidea,1941997]]'
-- '[[_Standards/WikiData/WD~Ceraphronoidea,2033075]]'
-- '[[_Standards/WikiData/WD~Proctotrupomorpha,11996284]]'
-- '[[_Standards/WikiData/WD~Stephanoidea,15260261]]'
-- '[[_Standards/WikiData/WD~Trigonaloidea,21073596]]'
-- '[[_Standards/WikiData/WD~Megalyroidea,21073752]]'
-studied_by: '[[_Standards/WikiData/WD~vespology,9335841]]'
+- '[[_Standards/WikiData/WD~Aculeata,1251421|WD~Aculeata,1251421]]'
+- '[[_Standards/WikiData/WD~Evanioidea,1941997|WD~Evanioidea,1941997]]'
+- '[[_Standards/WikiData/WD~Ceraphronoidea,2033075|WD~Ceraphronoidea,2033075]]'
+- '[[_Standards/WikiData/WD~Proctotrupomorpha,11996284|WD~Proctotrupomorpha,11996284]]'
+- '[[_Standards/WikiData/WD~Stephanoidea,15260261|WD~Stephanoidea,15260261]]'
+- '[[_Standards/WikiData/WD~Trigonaloidea,21073596|WD~Trigonaloidea,21073596]]'
+- '[[_Standards/WikiData/WD~Megalyroidea,21073752|WD~Megalyroidea,21073752]]'
+studied_by: '[[_Standards/WikiData/WD~vespology,9335841|WD~vespology,9335841]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~Holometabola,37140800]]'
-- '[[_Standards/WikiData/WD~bee_and_wasp,67190085]]'
-instance_of: '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Apocrita,22864]]'
+- '[[_Standards/WikiData/WD~Holometabola,37140800|WD~Holometabola,37140800]]'
+- '[[_Standards/WikiData/WD~bee_and_wasp,67190085|WD~bee_and_wasp,67190085]]'
+instance_of: '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715|WD~organisms_known_by_a_particular_common_name,55983715]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Apocrita,22864|WD~Apocrita,22864]]'
 OmegaWiki_Defined_Meaning: 631360
 Commons_category: Wasps
 Commons_gallery: Apocrita

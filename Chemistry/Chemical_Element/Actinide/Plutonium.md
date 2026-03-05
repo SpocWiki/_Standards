@@ -85,15 +85,15 @@ chemical_formula: Pu
 Commons_category: Plutonium
 Commons_gallery: Plutonium
 Common_Procurement_Vocabulary_code: 9342000
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
 Dewey_Decimal_Classification:
 - 546.434
 - 669.2934
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Arthur_Wahl,472997]]'
-- '[[_Standards/WikiData/WD~Joseph_W._Kennedy,1708246]]'
-- '[[_Standards/WikiData/WD~Edwin_McMillan,19009]]'
-- '[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973]]'
+- '[[_Standards/WikiData/WD~Arthur_Wahl,472997|WD~Arthur_Wahl,472997]]'
+- '[[_Standards/WikiData/WD~Joseph_W._Kennedy,1708246|WD~Joseph_W._Kennedy,1708246]]'
+- '[[_Standards/WikiData/WD~Edwin_McMillan,19009|WD~Edwin_McMillan,19009]]'
+- '[[_Standards/WikiData/WD~Glenn_T._Seaborg,48973|WD~Glenn_T._Seaborg,48973]]'
 DSSTOX_compound_identifier: DTXCID2047646
 EC_number: 231-117-7
 electronegativity: 1.28
@@ -102,8 +102,8 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Plutonium%20ring.jpg
 InChI: InChI=1S/Pu
 InChIKey: OYEHPCDNVJXUIW-UHFFFAOYSA-N
 instance_of:
-- '[[_Standards/WikiData/WD~radioactive_element,3658631]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+- '[[_Standards/WikiData/WD~radioactive_element,3658631|WD~radioactive_element,3658631]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 ionic_radius:
 - 1
 - 0.71
@@ -115,16 +115,16 @@ MeSH_tree_code:
 - D01.496.749.305.100.700
 - D01.552.020.734
 - D01.552.544.700
-named_after: '[[_Standards/WikiData/WD~Pluto,152262]]'
+named_after: '[[_Standards/WikiData/WD~Pluto,152262|WD~Pluto,152262]]'
 OmegaWiki_Defined_Meaning: 2844
 part_of:
-- '[[_Standards/WikiData/WD~period_7,244979]]'
-- '[[_Standards/WikiData/WD~actinide,19577]]'
+- '[[_Standards/WikiData/WD~period_7,244979|WD~period_7,244979]]'
+- '[[_Standards/WikiData/WD~actinide,19577|WD~actinide,19577]]'
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20147.jpg
 PubChem_CID: 23940
 SpocWebEntityId: 21989
 time_of_discovery_or_invention: 1941
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_plutonium,11903475]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_plutonium,11903475|WD~Template_Infobox_plutonium,11903475]]'
 type: Element
 UMLS_CUI: C0032259
 UNII: 53023GN24M
@@ -329,10 +329,10 @@ dv_has_:
       form_:
         kj_:
           mol: 344
-dv_Group: '[[../Actinide]]'
+dv_Group: '[[../Actinide|Actinide]]'
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Plutonium,1102]]'
+  - '[[../../../WikiData/WD~Plutonium,1102|WD~Plutonium,1102]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Actinide/Plutonium|Plutonium]]'
   - '[[/_public/Chemistry/Chemical_Element/Actinide/Plutonium.public|Plutonium.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Actinide/Plutonium.internal|Plutonium.internal]]'
@@ -361,7 +361,7 @@ dv_has_number_of_period: 7
 dv_has_number_of_group: 28
 dv_has_number_of_electrons: 94
 dv_is_same_as:
-- '[[../../../WikiData/WD~Plutonium,1102]]'
+- '[[../../../WikiData/WD~Plutonium,1102|WD~Plutonium,1102]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Actinide/Plutonium|Plutonium]]'
 - '[[/_public/Chemistry/Chemical_Element/Actinide/Plutonium.public|Plutonium.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Actinide/Plutonium.internal|Plutonium.internal]]'
@@ -409,7 +409,7 @@ has_number_of_period = `=this.dv_has_number_of_period`
 has_number_of_group = `=this.dv_has_number_of_group` 
 has_number_of_electrons = `=this.dv_has_number_of_electrons` 
 
-#is_/same_as :: [[../../../WikiData/WD~Plutonium,1102]] 
+#is_/same_as :: [[../../../WikiData/WD~Plutonium,1102|WD~Plutonium,1102]] 
 
 
 ## #has_/text_of_/abstract 

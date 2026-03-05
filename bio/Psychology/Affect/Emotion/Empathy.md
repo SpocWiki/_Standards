@@ -49,21 +49,21 @@ aliases:
 - 감정이입
 has_id_wikidata: Q182263
 facet_of:
-- '[[_Standards/WikiData/WD~social_relation,853725]]'
-- '[[_Standards/WikiData/WD~aesthetics,35986]]'
+- '[[_Standards/WikiData/WD~social_relation,853725|WD~social_relation,853725]]'
+- '[[_Standards/WikiData/WD~aesthetics,35986|WD~aesthetics,35986]]'
 different_from:
-- '[[_Standards/WikiData/WD~compassion,1412160]]'
-- '[[_Standards/WikiData/WD~mimpathy,23014678]]'
-subclass_of: '[[_Standards/WikiData/WD~social_skill,1413287]]'
-studied_by: '[[_Standards/WikiData/WD~theory_of_emotion,9357054]]'
+- '[[_Standards/WikiData/WD~compassion,1412160|WD~compassion,1412160]]'
+- '[[_Standards/WikiData/WD~mimpathy,23014678|WD~mimpathy,23014678]]'
+subclass_of: '[[_Standards/WikiData/WD~social_skill,1413287|WD~social_skill,1413287]]'
+studied_by: '[[_Standards/WikiData/WD~theory_of_emotion,9357054|WD~theory_of_emotion,9357054]]'
 part_of:
-- '[[_Standards/WikiData/WD~philosophical_terminology,12765851]]'
-- '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
-measurement_scale: '[[_Standards/WikiData/WD~Empathy_Quotient,17012150]]'
+- '[[_Standards/WikiData/WD~philosophical_terminology,12765851|WD~philosophical_terminology,12765851]]'
+- '[[_Standards/WikiData/WD~psychology_terminology,77468620|WD~psychology_terminology,77468620]]'
+measurement_scale: '[[_Standards/WikiData/WD~Empathy_Quotient,17012150|WD~Empathy_Quotient,17012150]]'
 instance_of:
-- '[[_Standards/WikiData/WD~philosophical_concept,33104279]]'
-- '[[_Standards/WikiData/WD~psychology_concept,96634632]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medical_Humanities,135210027]]'
+- '[[_Standards/WikiData/WD~philosophical_concept,33104279|WD~philosophical_concept,33104279]]'
+- '[[_Standards/WikiData/WD~psychology_concept,96634632|WD~psychology_concept,96634632]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medical_Humanities,135210027|WD~WikiProject_Medical_Humanities,135210027]]'
 Commons_category: Empathy
 Library_of_Congress_Classification: BF575.E55
 IMDb_keyword: empathy

@@ -97,13 +97,13 @@ aliases:
 - 陸龜科
 - 땅거북과
 has_id_wikidata: Q46360
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-parent_taxon: '[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Testudinoidea,1946537]]'
-CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_II_of_CITES,2851527]]'
-homonymous_taxon: '[[_Standards/WikiData/WD~Testudinidae,119788795]]'
-code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+parent_taxon: '[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Testudinoidea,1946537|WD~Testudinoidea,1946537]]'
+CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_II_of_CITES,2851527|WD~Appendix_II_of_CITES,2851527]]'
+homonymous_taxon: '[[_Standards/WikiData/WD~Testudinidae,119788795|WD~Testudinidae,119788795]]'
+code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011|WD~International_Code_of_Zoological_Nomenclature,13011]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409|WD~family,35409]]'
 ITIS_TSN: 173852
 OmegaWiki_Defined_Meaning: 3788
 image:

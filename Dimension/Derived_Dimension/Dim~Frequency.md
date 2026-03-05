@@ -133,14 +133,14 @@ defining_formula: >-
     </semantics>
   </math>
 described_by_source:
-- '[[_Standards/WikiData/WD~ISO_80000-3_2006_Quantities_and_units___Part_3__Space_and_time,26711932]]'
-- '[[_Standards/WikiData/WD~ISO_80000-3_2019_Quantities_and_units___Part_3__Space_and_time,90137277]]'
+- '[[_Standards/WikiData/WD~ISO_80000-3_2006_Quantities_and_units___Part_3__Space_and_time,26711932|WD~ISO_80000-3_2006_Quantities_and_units___Part_3__Space_and_time,26711932]]'
+- '[[_Standards/WikiData/WD~ISO_80000-3_2019_Quantities_and_units___Part_3__Space_and_time,90137277|WD~ISO_80000-3_2019_Quantities_and_units___Part_3__Space_and_time,90137277]]'
 different_from:
-- '[[_Standards/WikiData/WD~letter_frequency,520562]]'
-- '[[_Standards/WikiData/WD~frequency,762856]]'
-- '[[_Standards/WikiData/WD~rotational_frequency,30338278]]'
+- '[[_Standards/WikiData/WD~letter_frequency,520562|WD~letter_frequency,520562]]'
+- '[[_Standards/WikiData/WD~frequency,762856|WD~frequency,762856]]'
+- '[[_Standards/WikiData/WD~rotational_frequency,30338278|WD~rotational_frequency,30338278]]'
 equivalent_class: http://purl.org/dc/terms/Frequency
-facet_of: '[[_Standards/WikiData/WD~repetition,18699055]]'
+facet_of: '[[_Standards/WikiData/WD~repetition,18699055|WD~repetition,18699055]]'
 Gujarati_Vishwakosh_entry: આવૃત્તિ
 IEV_number: 103-06-02
 image: http://commons.wikimedia.org/wiki/Special:FilePath/FrequencyAnimation.gif
@@ -188,10 +188,10 @@ ISQ_dimension: >-
       <annotation encoding="application/x-tex">{\displaystyle {\mathsf {T}}^{-1}}</annotation>
     </semantics>
   </math>
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 OmegaWiki_Defined_Meaning: 7836
 OpenStreetMap_tag_or_key: Key:frequency
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q11498076,11498076]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q11498076,11498076|WD~Q11498076,11498076]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%95%E0%A6%AE%E0%A7%8D%E0%A6%AA%E0%A6%BE%E0%A6%99%E0%A7%8D%E0%A6%95.wav
 quantity_symbol_LaTeX_:
 - >-
@@ -231,12 +231,12 @@ quantity_symbol_string_:
 - f
 - ν
 recommended_unit_of_measurement:
-- '[[_Standards/WikiData/WD~reciprocal_second,6137407]]'
-- '[[_Standards/WikiData/WD~hertz,39369]]'
+- '[[_Standards/WikiData/WD~reciprocal_second,6137407|WD~reciprocal_second,6137407]]'
+- '[[_Standards/WikiData/WD~hertz,39369|WD~hertz,39369]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~scalar_quantity,181175]]'
-- '[[_Standards/WikiData/WD~reciprocal_duration,98690850]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~scalar_quantity,181175|WD~scalar_quantity,181175]]'
+- '[[_Standards/WikiData/WD~reciprocal_duration,98690850|WD~reciprocal_duration,98690850]]'
 Wikidata_property: frequency
 dv_has_:
   name_:
@@ -407,10 +407,10 @@ dv_has_:
 
 The Frequency is the number of Events within a [[../Dim~Time|Dim~Time]]- Interval. 
 
-It has the same Dimension as th[[../Angular_Dimension/Angular_Velocity]], 
+It has the same Dimension as th[[../Angular_Dimension/Angular_Velocity|Angular_Velocity]], 
 because the Events are often completed Circles of 2*[[Pi]]. 
 
-## [[../../../_private/Society/Communication/Media/music]] 
+## [[../../../_private/Society/Communication/Media/music|music]] 
 
 | **Instrument**       | **Type** | **Lower Hz** | **Upper Hz** |
 | -------------------- | -------- | -----------: | -----------: |

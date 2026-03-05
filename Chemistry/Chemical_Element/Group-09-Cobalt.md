@@ -149,9 +149,9 @@ dv_has_:
 
 #chemic/Group 
 
-4) [[Group-09-Cobalt/Cobalt]]]
-5) [[Group-09-Cobalt/Iridium]]]
-6) [[Group-09-Cobalt/Rhodium]]]
+4) [[Group-09-Cobalt/Cobalt|Cobalt]]]
+5) [[Group-09-Cobalt/Iridium|Iridium]]]
+6) [[Group-09-Cobalt/Rhodium|Rhodium]]]
 7) [[Group-09-Cobalt/Meitnerium|Meitnerium]]
 
 ## #has_/text_of_/abstract  

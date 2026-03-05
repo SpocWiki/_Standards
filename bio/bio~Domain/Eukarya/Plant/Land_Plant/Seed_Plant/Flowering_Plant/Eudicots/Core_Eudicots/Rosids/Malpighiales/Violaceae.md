@@ -85,13 +85,13 @@ taxon_common_name:
 - Fiołkowate
 - Фиалковые
 - Violašattut
-taxonomic_type: '[[_Standards/WikiData/WD~Viola,146095]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Viola,146095|WD~Viola,146095]]'
 described_by_source:
-- '[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_51,112869445]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+- '[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_51,112869445|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_51,112869445]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409|WD~family,35409]]'
 ITIS_TSN: 22023
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Viola%20hedercea01.jpg
 Montana_Plant_Life_URL: http://montana.plant-life.org/cgi-bin/family03.cgi?Violaceae

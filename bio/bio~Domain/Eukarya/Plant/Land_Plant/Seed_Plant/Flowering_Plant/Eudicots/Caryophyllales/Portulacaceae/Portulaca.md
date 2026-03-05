@@ -31,12 +31,12 @@ aliases:
 - 马齿苋属
 - 쇠비름속
 has_id_wikidata: Q159554
-has_fruit_type: '[[_Standards/WikiData/WD~capsule,147768]]'
-taxonomic_type: '[[_Standards/WikiData/WD~Portulaca_oleracea,158015]]'
-parent_taxon: '[[../../../../../../../../../../WikiData/WD~Portulacaceae,521874]]'
-described_by_source: '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_26,112869404]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+has_fruit_type: '[[_Standards/WikiData/WD~capsule,147768|WD~capsule,147768]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Portulaca_oleracea,158015|WD~Portulaca_oleracea,158015]]'
+parent_taxon: '[[../../../../../../../../../../WikiData/WD~Portulacaceae,521874|WD~Portulacaceae,521874]]'
+described_by_source: '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_26,112869404|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_26,112869404]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
 ITIS_TSN: 20418
 GS1_GPC_code: 10006092
 taxon_common_name:
@@ -160,7 +160,7 @@ dv_has_:
 
 # [[Portulaca]] 
 
-#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Portulaca,159554]] 
+#is_/same_as :: [[../../../../../../../../../../WikiData/WD~Portulaca,159554|WD~Portulaca,159554]] 
 
 ## #has_/text_of_/abstract 
 

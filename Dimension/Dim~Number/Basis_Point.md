@@ -36,13 +36,13 @@ aliases:
   - 萬分率
   - 만분율
 has_id_wikidata: Q750178
-measured_physical_quantity: "[[_Standards/WikiData/WD~dimensionless_quantity,126818]]"
-follows: "[[_Standards/WikiData/WD~per_mille,181011]]"
+measured_physical_quantity: "[[_Standards/WikiData/WD~dimensionless_quantity,126818|WD~dimensionless_quantity,126818]]"
+follows: "[[_Standards/WikiData/WD~per_mille,181011|WD~per_mille,181011]]"
 instance_of:
-  - "[[_Standards/WikiData/WD~dimensionless_unit,1618549]]"
-  - "[[_Standards/WikiData/WD~parts_per_notation,27084]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~percentage_in_point,1628727]]"
-subdivision_of_this_unit: "[[_Standards/WikiData/WD~per_cent_mille,7166837]]"
+  - "[[_Standards/WikiData/WD~dimensionless_unit,1618549|WD~dimensionless_unit,1618549]]"
+  - "[[_Standards/WikiData/WD~parts_per_notation,27084|WD~parts_per_notation,27084]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~percentage_in_point,1628727|WD~percentage_in_point,1628727]]"
+subdivision_of_this_unit: "[[_Standards/WikiData/WD~per_cent_mille,7166837|WD~per_cent_mille,7166837]]"
 conversion_to_standard_unit:
   - 100000000000
   - 100000000
@@ -103,7 +103,7 @@ dv_has_:
 
 # [[Basis_Point]] ‱ 
 
-#is_/same_as :: [[_Standards/WikiData/WD~basis_point,750178]] 
+#is_/same_as :: [[_Standards/WikiData/WD~basis_point,750178|WD~basis_point,750178]] 
 
 ## #has_/text_of_/abstract 
 

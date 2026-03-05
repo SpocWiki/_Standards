@@ -58,11 +58,11 @@ aliases:
 - 몸감각 기관
 has_id_wikidata: Q328835
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
-has_cause: '[[_Standards/WikiData/WD~touch,877674]]'
-subclass_of: '[[_Standards/WikiData/WD~perception_set,16354711]]'
-has_use: '[[_Standards/WikiData/WD~sensory_perception_of_touch,21108053]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635|WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+has_cause: '[[_Standards/WikiData/WD~touch,877674|WD~touch,877674]]'
+subclass_of: '[[_Standards/WikiData/WD~perception_set,16354711|WD~perception_set,16354711]]'
+has_use: '[[_Standards/WikiData/WD~sensory_perception_of_touch,21108053|WD~sensory_perception_of_touch,21108053]]'
 PhilPapers_topic: touch
 Commons_category: Somatosensation
 dv_has_:

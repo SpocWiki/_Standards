@@ -96,19 +96,19 @@ taxon_common_name:
 - クサスギカズラ科
 - Қасқыржемдер тұқымдасы
 taxon_synonym:
-- '[[_Standards/WikiData/WD~Agavaceae,218221]]'
-- '[[_Standards/WikiData/WD~Ruscaceae,2721029]]'
-- '[[_Standards/WikiData/WD~Laxmanniaceae,10705643]]'
-- '[[_Standards/WikiData/WD~Hyacinthaceae,13833438]]'
-- '[[_Standards/WikiData/WD~Hesperocallidaceae,13834853]]'
-- '[[_Standards/WikiData/WD~Aphyllanthaceae,13835212]]'
-- '[[_Standards/WikiData/WD~Themidaceae,14550936]]'
-taxonomic_type: '[[_Standards/WikiData/WD~Asparagus,2853420]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Taxonomy_Asparagaceae,10972359]]'
-has_fruit_type: '[[_Standards/WikiData/WD~berry,13184]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-parent_taxon: '[[_Standards/WikiData/WD~Asparagales,26229]]'
-taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+- '[[_Standards/WikiData/WD~Agavaceae,218221|WD~Agavaceae,218221]]'
+- '[[_Standards/WikiData/WD~Ruscaceae,2721029|WD~Ruscaceae,2721029]]'
+- '[[_Standards/WikiData/WD~Laxmanniaceae,10705643|WD~Laxmanniaceae,10705643]]'
+- '[[_Standards/WikiData/WD~Hyacinthaceae,13833438|WD~Hyacinthaceae,13833438]]'
+- '[[_Standards/WikiData/WD~Hesperocallidaceae,13834853|WD~Hesperocallidaceae,13834853]]'
+- '[[_Standards/WikiData/WD~Aphyllanthaceae,13835212|WD~Aphyllanthaceae,13835212]]'
+- '[[_Standards/WikiData/WD~Themidaceae,14550936|WD~Themidaceae,14550936]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Asparagus,2853420|WD~Asparagus,2853420]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Taxonomy_Asparagaceae,10972359|WD~Template_Taxonomy_Asparagaceae,10972359]]'
+has_fruit_type: '[[_Standards/WikiData/WD~berry,13184|WD~berry,13184]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+parent_taxon: '[[_Standards/WikiData/WD~Asparagales,26229|WD~Asparagales,26229]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409|WD~family,35409]]'
 ITIS_TSN: 810124
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Asperge%20in%20bloei%20Asparagus%20officinalis.jpg
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomyfamily.aspx?id=106

@@ -53,20 +53,20 @@ aliases:
 - 가슴샘
 has_id_wikidata: Q163987
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- "[[_Standards/WikiData/WD~Gray's_Anatomy_(20th_edition),19558994]]"
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-anatomical_locations: '[[_Standards/WikiData/WD~cavity_of_bony_thorax,994554]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- "[[_Standards/WikiData/WD~Gray's_Anatomy_(20th_edition),19558994|WD~Gray's_Anatomy_(20th_edition),19558994]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+anatomical_locations: '[[_Standards/WikiData/WD~cavity_of_bony_thorax,994554|WD~cavity_of_bony_thorax,994554]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~lymphoid_tissue,3529455]]'
-- '[[_Standards/WikiData/WD~corticomedullary_organ,66545290]]'
-- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]'
-lymphatic_drainage: '[[_Standards/WikiData/WD~Tracheobronchial_lymph_nodes,7831314]]'
-development_of_anatomical_structure: '[[_Standards/WikiData/WD~thymus_development,14859964]]'
+- '[[_Standards/WikiData/WD~lymphoid_tissue,3529455|WD~lymphoid_tissue,3529455]]'
+- '[[_Standards/WikiData/WD~corticomedullary_organ,66545290|WD~corticomedullary_organ,66545290]]'
+- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975|WD~particular_anatomical_entity,112826975]]'
+lymphatic_drainage: '[[_Standards/WikiData/WD~Tracheobronchial_lymph_nodes,7831314|WD~Tracheobronchial_lymph_nodes,7831314]]'
+development_of_anatomical_structure: '[[_Standards/WikiData/WD~thymus_development,14859964|WD~thymus_development,14859964]]'
 instance_of:
-- '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]'
-- '[[_Standards/WikiData/WD~gland_type,113056217]]'
+- '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905|WD~class_of_anatomical_entity,112826905]]'
+- '[[_Standards/WikiData/WD~gland_type,113056217|WD~gland_type,113056217]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Human%20thymus%20posterior%20view.jpg
 UNII: 9CC998Z1E1
 MeSH_tree_code:

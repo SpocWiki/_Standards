@@ -34,13 +34,13 @@ aliases:
 - 禧福牛
 has_id_wikidata: Q737173
 instance_of:
-- '[[_Standards/WikiData/WD~beef_cattle,1208989]]'
-- '[[_Standards/WikiData/WD~cattle_breed,12045585]]'
+- '[[_Standards/WikiData/WD~beef_cattle,1208989|WD~beef_cattle,1208989]]'
+- '[[_Standards/WikiData/WD~cattle_breed,12045585|WD~cattle_breed,12045585]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-subclass_of: '[[_Standards/WikiData/WD~cattle,830]]'
-country_of_origin: '[[_Standards/WikiData/WD~England,21]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+subclass_of: '[[_Standards/WikiData/WD~cattle,830|WD~cattle,830]]'
+country_of_origin: '[[_Standards/WikiData/WD~England,21|WD~England,21]]'
 height: 125
 Commons_category: Hereford cattle
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hereford%20bull%20large.jpg

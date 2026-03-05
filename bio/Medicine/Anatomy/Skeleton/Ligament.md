@@ -158,7 +158,7 @@ Tag Instances like this:
 
 A short band of tough, flexible, fibrous connective tissue that functions to connect multiple bones, cartilages, and structurally support joints.
 
-#has_/parent_class :: [[../AnatomicalStructure]]  
+#has_/parent_class :: [[../AnatomicalStructure|AnatomicalStructure]]  
 
 #has_/properties :: [ additionalType, alternateName, associatedPathophysiology, bodyLocation, code, connectedTo, description, diagram, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, partOfSystem, potentialAction, recognizingAuthority, relatedCondition, relatedTherapy, relevantSpecialty, sameAs, study, subStructure, subjectOf, url ]  
 

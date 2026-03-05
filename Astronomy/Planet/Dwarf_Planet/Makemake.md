@@ -37,25 +37,25 @@ aliases:
 - 鸟神星
 - 마케마케 (왜행성)
 has_id_wikidata: Q604
-site_of_astronomical_discovery: '[[_Standards/WikiData/WD~Palomar_Observatory,191684]]'
-named_after: '[[_Standards/WikiData/WD~Makemake,233674]]'
+site_of_astronomical_discovery: '[[_Standards/WikiData/WD~Palomar_Observatory,191684|WD~Palomar_Observatory,191684]]'
+named_after: '[[_Standards/WikiData/WD~Makemake,233674|WD~Makemake,233674]]'
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Michael_E._Brown,298913]]'
-- '[[_Standards/WikiData/WD~David_L._Rabinowitz,453758]]'
-- '[[_Standards/WikiData/WD~Chadwick_Trujillo,499195]]'
+- '[[_Standards/WikiData/WD~Michael_E._Brown,298913|WD~Michael_E._Brown,298913]]'
+- '[[_Standards/WikiData/WD~David_L._Rabinowitz,453758|WD~David_L._Rabinowitz,453758]]'
+- '[[_Standards/WikiData/WD~Chadwick_Trujillo,499195|WD~Chadwick_Trujillo,499195]]'
 minor_planet_group:
-- '[[_Standards/WikiData/WD~cubewano,645924]]'
-- '[[_Standards/WikiData/WD~trans_Neptunian_object,6592]]'
+- '[[_Standards/WikiData/WD~cubewano,645924|WD~cubewano,645924]]'
+- '[[_Standards/WikiData/WD~trans_Neptunian_object,6592|WD~trans_Neptunian_object,6592]]'
 instance_of:
-- '[[_Standards/WikiData/WD~cubewano,645924]]'
-- '[[_Standards/WikiData/WD~dwarf_planet,2199]]'
-followed_by: '[[_Standards/WikiData/WD~136473_Bakosgáspár,779062]]'
-follows: '[[_Standards/WikiData/WD~(136471)_2005_FJ7,19403578]]'
-child_astronomical_body: '[[_Standards/WikiData/WD~S_2015_(136472)_1,23926758]]'
-significant_event: '[[_Standards/WikiData/WD~naming,25488743]]'
+- '[[_Standards/WikiData/WD~cubewano,645924|WD~cubewano,645924]]'
+- '[[_Standards/WikiData/WD~dwarf_planet,2199|WD~dwarf_planet,2199]]'
+followed_by: '[[_Standards/WikiData/WD~136473_Bakosgáspár,779062|WD~136473_Bakosgáspár,779062]]'
+follows: '[[_Standards/WikiData/WD~(136471)_2005_FJ7,19403578|WD~(136471)_2005_FJ7,19403578]]'
+child_astronomical_body: '[[_Standards/WikiData/WD~S_2015_(136472)_1,23926758|WD~S_2015_(136472)_1,23926758]]'
+significant_event: '[[_Standards/WikiData/WD~naming,25488743|WD~naming,25488743]]'
 periapsis_date_DEPRECATED_: 1879-04-07T00:00:00Z
-parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525]]'
-locations: '[[_Standards/WikiData/WD~Solar_System,544]]'
+parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525|WD~Sun,525]]'
+locations: '[[_Standards/WikiData/WD~Solar_System,544|WD~Solar_System,544]]'
 absolute_magnitude:
 - -0.2
 - 0.049
@@ -91,7 +91,7 @@ IMDb_keyword: dwarf-planet-makemake
 Baidu_Tieba_name: 鸟神星
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Makemake,604]]'
+  - '[[../../../WikiData/WD~Makemake,604|WD~Makemake,604]]'
   - '[[/_Standards/Astronomy/Planet/Dwarf_Planet/Makemake|Makemake]]'
   - '[[/_public/Astronomy/Planet/Dwarf_Planet/Makemake.public|Makemake.public]]'
   - '[[/_internal/Astronomy/Planet/Dwarf_Planet/Makemake.internal|Makemake.internal]]'
@@ -100,7 +100,7 @@ dv_is_:
   - '[[/_personal/Astronomy/Planet/Dwarf_Planet/Makemake.personal|Makemake.personal]]'
   - '[[/_secret/Astronomy/Planet/Dwarf_Planet/Makemake.secret|Makemake.secret]]'
 dv_is_same_as:
-- '[[../../../WikiData/WD~Makemake,604]]'
+- '[[../../../WikiData/WD~Makemake,604|WD~Makemake,604]]'
 - '[[/_Standards/Astronomy/Planet/Dwarf_Planet/Makemake|Makemake]]'
 - '[[/_public/Astronomy/Planet/Dwarf_Planet/Makemake.public|Makemake.public]]'
 - '[[/_internal/Astronomy/Planet/Dwarf_Planet/Makemake.internal|Makemake.internal]]'

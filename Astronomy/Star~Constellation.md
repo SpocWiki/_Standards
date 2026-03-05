@@ -143,24 +143,24 @@ aliases:
 - 별자리
 has_id_wikidata: Q8928
 described_by_source:
-- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]'
+- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240|WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~geographical_feature,618123]]'
-- '[[_Standards/WikiData/WD~asterism,9262]]'
+- '[[_Standards/WikiData/WD~geographical_feature,618123|WD~geographical_feature,618123]]'
+- '[[_Standards/WikiData/WD~asterism,9262|WD~asterism,9262]]'
 has_list:
-- '[[_Standards/WikiData/WD~Q3248800,3248800]]'
-- '[[_Standards/WikiData/WD~list_of_constellations,9241]]'
+- '[[_Standards/WikiData/WD~Q3248800,3248800|WD~Q3248800,3248800]]'
+- '[[_Standards/WikiData/WD~list_of_constellations,9241|WD~list_of_constellations,9241]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Infobox_constellation,5879948]]'
-- '[[_Standards/WikiData/WD~Template_Constellations,7647472]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_constellation,5879948|WD~Template_Infobox_constellation,5879948]]'
+- '[[_Standards/WikiData/WD~Template_Constellations,7647472|WD~Template_Constellations,7647472]]'
 different_from:
-- '[[_Standards/WikiData/WD~IAU_constellation,131403485]]'
-- '[[_Standards/WikiData/WD~asterism,9262]]'
-part_of: '[[_Standards/WikiData/WD~celestial_sphere,12134]]'
+- '[[_Standards/WikiData/WD~IAU_constellation,131403485|WD~IAU_constellation,131403485]]'
+- '[[_Standards/WikiData/WD~asterism,9262|WD~asterism,9262]]'
+part_of: '[[_Standards/WikiData/WD~celestial_sphere,12134|WD~celestial_sphere,12134]]'
 OmegaWiki_Defined_Meaning: 688481
 Wolfram_Language_entity_type: Constellation
 Commons_category: Constellations
@@ -367,7 +367,7 @@ but all 88 Star-Constellations, to totally partition the Night Sky.
 This Mercator Projection of the night sky shows most of the Constellations described here. 
 The Milky Way is projected as a white Band  through the Equator formed by the Earth's Ecliptic Plane. 
 
-![[Star~Constellation/StarConstellations-Mercator-Black.png]] 
+![[Star~Constellation/StarConstellations-Mercator-Black.png|StarConstellations-Mercator-Black.png]] 
 
 
 ## #has_/text_of_/abstract 
@@ -429,7 +429,7 @@ The Milky Way is projected as a white Band  through the Equator formed by the Ea
 > [Wikipedia](https://en.wikipedia.org/wiki/Constellation) 
 
 
-![[Star~Constellation/Zodiac_DbFolder]]
+![[Star~Constellation/Zodiac_DbFolder|Zodiac_DbFolder]]
 
 
 ## Confidential Links & Embeds: 

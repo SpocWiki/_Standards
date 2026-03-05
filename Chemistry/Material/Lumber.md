@@ -59,18 +59,18 @@ aliases:
 - 角材
 - 재목
 has_id_wikidata: Q1370714
-fabrication_method: '[[_Standards/WikiData/WD~cutting,196751]]'
+fabrication_method: '[[_Standards/WikiData/WD~cutting,196751|WD~cutting,196751]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~building_material,206615]]'
-- '[[_Standards/WikiData/WD~artificial_physical_object,8205328]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~lumber,354757]]'
+- '[[_Standards/WikiData/WD~building_material,206615|WD~building_material,206615]]'
+- '[[_Standards/WikiData/WD~artificial_physical_object,8205328|WD~artificial_physical_object,8205328]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~lumber,354757|WD~lumber,354757]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-instance_of: '[[_Standards/WikiData/WD~wood_product,9380081]]'
-made_from_material: '[[_Standards/WikiData/WD~wood,287]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+instance_of: '[[_Standards/WikiData/WD~wood_product,9380081|WD~wood_product,9380081]]'
+made_from_material: '[[_Standards/WikiData/WD~wood,287|WD~wood,287]]'
 Nomenclature_for_Museum_Cataloging:
 - 64
 - 62
@@ -85,7 +85,7 @@ image:
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Diels%C3%A4gen%20auf%20dem%20Schneideplatz.webm
 dv_is_:
   same_as:
-  - '[[../../WikiData/WD~Lumber,1370714]]'
+  - '[[../../WikiData/WD~Lumber,1370714|WD~Lumber,1370714]]'
   - '[[/_Standards/Chemistry/Material/Lumber|Lumber]]'
   - '[[/_public/Chemistry/Material/Lumber.public|Lumber.public]]'
   - '[[/_internal/Chemistry/Material/Lumber.internal|Lumber.internal]]'
@@ -94,7 +94,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Material/Lumber.personal|Lumber.personal]]'
   - '[[/_secret/Chemistry/Material/Lumber.secret|Lumber.secret]]'
 dv_is_same_as:
-- '[[../../WikiData/WD~Lumber,1370714]]'
+- '[[../../WikiData/WD~Lumber,1370714|WD~Lumber,1370714]]'
 - '[[/_Standards/Chemistry/Material/Lumber|Lumber]]'
 - '[[/_public/Chemistry/Material/Lumber.public|Lumber.public]]'
 - '[[/_internal/Chemistry/Material/Lumber.internal|Lumber.internal]]'

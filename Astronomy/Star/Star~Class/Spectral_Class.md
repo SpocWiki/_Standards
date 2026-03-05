@@ -59,13 +59,13 @@ aliases:
 - 恒星光谱
 - 항성분류
 has_id_wikidata: Q179600
-instance_of: '[[_Standards/WikiData/WD~property,937228]]'
+instance_of: '[[_Standards/WikiData/WD~property,937228|WD~property,937228]]'
 different_from:
-- '[[_Standards/WikiData/WD~asteroid_spectral_type,1750705]]'
-- '[[_Standards/WikiData/WD~stellar_classification,25377588]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-part_of: '[[_Standards/WikiData/WD~stellar_classification,25377588]]'
-subclass_of: '[[_Standards/WikiData/WD~stellar_classification,25377588]]'
+- '[[_Standards/WikiData/WD~asteroid_spectral_type,1750705|WD~asteroid_spectral_type,1750705]]'
+- '[[_Standards/WikiData/WD~stellar_classification,25377588|WD~stellar_classification,25377588]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+part_of: '[[_Standards/WikiData/WD~stellar_classification,25377588|WD~stellar_classification,25377588]]'
+subclass_of: '[[_Standards/WikiData/WD~stellar_classification,25377588|WD~stellar_classification,25377588]]'
 Wikidata_property: spectral class
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Morgan-Keenan%20spectral%20classification.svg
 Commons_category: Spectral types

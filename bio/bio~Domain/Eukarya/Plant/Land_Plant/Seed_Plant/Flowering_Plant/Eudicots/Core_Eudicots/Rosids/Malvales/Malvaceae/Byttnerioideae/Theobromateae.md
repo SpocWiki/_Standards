@@ -5,10 +5,10 @@ aliases:
 - ثيوبروماوية
 - 可可族
 has_id_wikidata: Q6145728
-taxon_rank: '[[_Standards/WikiData/WD~tribe,227936]]'
-parent_taxon: '[[../../../../../../../../../../../../../WikiData/WD~Byttnerioideae,652608]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q32525039,32525039]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~tribe,227936|WD~tribe,227936]]'
+parent_taxon: '[[../../../../../../../../../../../../../WikiData/WD~Byttnerioideae,652608|WD~Byttnerioideae,652608]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q32525039,32525039|WD~Q32525039,32525039]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cacao.jpeg
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomyfamily.aspx?type=tribe&id=1760
 taxon_name: Theobromateae
@@ -57,7 +57,7 @@ dv_has_:
 
 # [[Theobromateae]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../../WikiData/WD~Theobromateae,6145728]] 
+#is_/same_as :: [[../../../../../../../../../../../../../WikiData/WD~Theobromateae,6145728|WD~Theobromateae,6145728]] 
 
 ## #has_/text_of_/abstract 
 

@@ -46,26 +46,26 @@ aliases:
 - 벚나무속
 has_id_wikidata: Q190545
 subclass_of:
-- '[[_Standards/WikiData/WD~broad_leaved_tree,148993]]'
-- '[[_Standards/WikiData/WD~tree,10884]]'
+- '[[_Standards/WikiData/WD~broad_leaved_tree,148993|WD~broad_leaved_tree,148993]]'
+- '[[_Standards/WikiData/WD~tree,10884|WD~tree,10884]]'
 this_taxon_is_source_of:
-- '[[_Standards/WikiData/WD~cherry,835785]]'
-- '[[_Standards/WikiData/WD~bitter_almond_oil,879005]]'
-- '[[_Standards/WikiData/WD~arabic_acid,38135784]]'
-- '[[_Standards/WikiData/WD~Prunus_wood,111983255]]'
+- '[[_Standards/WikiData/WD~cherry,835785|WD~cherry,835785]]'
+- '[[_Standards/WikiData/WD~bitter_almond_oil,879005|WD~bitter_almond_oil,879005]]'
+- '[[_Standards/WikiData/WD~arabic_acid,38135784|WD~arabic_acid,38135784]]'
+- '[[_Standards/WikiData/WD~Prunus_wood,111983255|WD~Prunus_wood,111983255]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_38,112869419]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
-parent_taxon: '[[../../../../../../../../../../../../../../WikiData/WD~Amygdaleae,5673432]]'
-has_fruit_type: '[[_Standards/WikiData/WD~drupe,14712]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
-taxonomic_type: '[[_Standards/WikiData/WD~Prunus_domestica,44120]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_38,112869419|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_38,112869419]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637|WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
+parent_taxon: '[[../../../../../../../../../../../../../../WikiData/WD~Amygdaleae,5673432|WD~Amygdaleae,5673432]]'
+has_fruit_type: '[[_Standards/WikiData/WD~drupe,14712|WD~drupe,14712]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Prunus_domestica,44120|WD~Prunus_domestica,44120]]'
 ITIS_TSN: 24762
 taxon_common_name:
 - plum
@@ -192,7 +192,7 @@ dv_has_:
 
 # [[Prunus]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../../../WikiData/WD~Prunus,190545]] 
+#is_/same_as :: [[../../../../../../../../../../../../../../WikiData/WD~Prunus,190545|WD~Prunus,190545]] 
 
 ## #has_/text_of_/abstract 
 

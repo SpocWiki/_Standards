@@ -66,23 +66,23 @@ has_id_wikidata: Q185870
 Commons_category: Periodic table group 11
 Dewey_Decimal_Classification: 546.65
 has_part_s_:
-- '[[_Standards/WikiData/WD~copper,753]]'
-- '[[_Standards/WikiData/WD~gold,897]]'
-- '[[_Standards/WikiData/WD~silver,1090]]'
-- '[[_Standards/WikiData/WD~roentgenium,1272]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+- '[[_Standards/WikiData/WD~copper,753|WD~copper,753]]'
+- '[[_Standards/WikiData/WD~gold,897|WD~gold,897]]'
+- '[[_Standards/WikiData/WD~silver,1090|WD~silver,1090]]'
+- '[[_Standards/WikiData/WD~roentgenium,1272|WD~roentgenium,1272]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Silver%20crystal.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Gold-crystals.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Cu-Scheibe.JPG
-instance_of: '[[_Standards/WikiData/WD~group,83306]]'
+instance_of: '[[_Standards/WikiData/WD~group,83306|WD~group,83306]]'
 part_of:
-- '[[_Standards/WikiData/WD~d_block,214503]]'
-- '[[_Standards/WikiData/WD~periodic_table,10693]]'
+- '[[_Standards/WikiData/WD~d_block,214503|WD~d_block,214503]]'
+- '[[_Standards/WikiData/WD~periodic_table,10693|WD~periodic_table,10693]]'
 type: ElementGroup
 dv_is_:
   same_as:
-  - '[[../../WikiData/WD~Group_11,185870]]'
+  - '[[../../WikiData/WD~Group_11,185870|WD~Group_11,185870]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Group-11-Copper|Group-11-Copper]]'
   - '[[/_public/Chemistry/Chemical_Element/Group-11-Copper.public|Group-11-Copper.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Group-11-Copper.internal|Group-11-Copper.internal]]'
@@ -91,7 +91,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Chemical_Element/Group-11-Copper.personal|Group-11-Copper.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Group-11-Copper.secret|Group-11-Copper.secret]]'
 dv_is_same_as:
-- '[[../../WikiData/WD~Group_11,185870]]'
+- '[[../../WikiData/WD~Group_11,185870|WD~Group_11,185870]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Group-11-Copper|Group-11-Copper]]'
 - '[[/_public/Chemistry/Chemical_Element/Group-11-Copper.public|Group-11-Copper.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Group-11-Copper.internal|Group-11-Copper.internal]]'
@@ -180,11 +180,11 @@ dv_has_:
 
 #chemic/Group 
  
-4)[[Group-11-Copper/Copper]]]
-5)[[Group-11-Copper/Silver]]]
-6)[[Group-11-Copper/Gold]]]
+4)[[Group-11-Copper/Copper|Copper]]]
+5)[[Group-11-Copper/Silver|Silver]]]
+6)[[Group-11-Copper/Gold|Gold]]]
 
-#is_/same_as :: [[../../WikiData/WD~Group_11,185870]] 
+#is_/same_as :: [[../../WikiData/WD~Group_11,185870|WD~Group_11,185870]] 
 ## #has_/text_of_/abstract 
 
 > Group 11, by modern IUPAC numbering, is a group of chemical elements in the periodic table, consisting of copper (Cu), silver (Ag), and gold (Au), and roentgenium (Rg), although no chemical experiments have yet been carried out to confirm that roentgenium behaves like the heavier homologue to gold. Group 11 is also known as the coinage metals, due to their usage in minting coins—while the rise in metal prices mean that silver and gold are no longer used for circulating currency, remaining in use for bullion, copper remains a common metal in coins to date, either in the form of copper clad coinage or as part of the cupronickel alloy. They were most likely the first three elements discovered. Copper, silver, and gold all occur naturally in elemental form.

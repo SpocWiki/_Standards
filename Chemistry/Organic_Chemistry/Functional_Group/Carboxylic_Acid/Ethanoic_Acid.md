@@ -116,7 +116,7 @@ tags:
 title: Ethan_Acid
 type: private note
 dv_is_:
-  part_of: '[[../../../Organic_Chemistry]]'
+  part_of: '[[../../../Organic_Chemistry|Organic_Chemistry]]'
   same_as:
   - '[[../../../../WikiData/WD~Acetic_acid,47512|WD~Acetic_acid,47512]]'
   - '[[/_Standards/Chemistry/Organic_Chemistry/Carboxylic_Acid/Ethanoic_Acid|Ethanoic_Acid]]'
@@ -126,7 +126,7 @@ dv_is_:
   - '[[/_private/Chemistry/Organic_Chemistry/Carboxylic_Acid/Ethanoic_Acid.private|Ethanoic_Acid.private]]'
   - '[[/_personal/Chemistry/Organic_Chemistry/Carboxylic_Acid/Ethanoic_Acid.personal|Ethanoic_Acid.personal]]'
   - '[[/_secret/Chemistry/Organic_Chemistry/Carboxylic_Acid/Ethanoic_Acid.secret|Ethanoic_Acid.secret]]'
-dv_is_part_of: '[[../../../Organic_Chemistry]]'
+dv_is_part_of: '[[../../../Organic_Chemistry|Organic_Chemistry]]'
 dv_is_same_as:
 - '[[../../../../WikiData/WD~Acetic_acid,47512|WD~Acetic_acid,47512]]'
 - '[[/_Standards/Chemistry/Organic_Chemistry/Carboxylic_Acid/Ethanoic_Acid|Ethanoic_Acid]]'

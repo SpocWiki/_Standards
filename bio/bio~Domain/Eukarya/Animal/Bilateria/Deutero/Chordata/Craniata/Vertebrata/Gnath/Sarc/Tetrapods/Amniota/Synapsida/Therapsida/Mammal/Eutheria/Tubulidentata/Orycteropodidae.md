@@ -34,13 +34,13 @@ aliases:
 - 土豚科
 - 관치목
 has_id_wikidata: Q2895685
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-parent_taxon: '[[_Standards/WikiData/WD~Tubulidentata,1082523]]'
-taxonomic_type: '[[_Standards/WikiData/WD~Orycteropus,1975774]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+parent_taxon: '[[_Standards/WikiData/WD~Tubulidentata,1082523|WD~Tubulidentata,1082523]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Orycteropus,1975774|WD~Orycteropus,1975774]]'
 start_time: -20000000-01-01T00:00:00Z
-code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011|WD~International_Code_of_Zoological_Nomenclature,13011]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409|WD~family,35409]]'
 ITIS_TSN: 584895
 Commons_gallery: Orycteropus afer
 Commons_category: Orycteropodidae

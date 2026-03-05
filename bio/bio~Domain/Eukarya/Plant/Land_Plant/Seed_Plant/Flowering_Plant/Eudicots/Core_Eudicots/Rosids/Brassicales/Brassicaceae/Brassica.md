@@ -55,18 +55,18 @@ aliases:
 - 蕓薹屬
 - 배추속
 has_id_wikidata: Q58677
-taxonomic_type: '[[../../../../../../../../../../../../WikiData/WD~Brassica_oleracea,146212]]'
-has_fruit_type: '[[_Standards/WikiData/WD~silique,148529]]'
+taxonomic_type: '[[../../../../../../../../../../../../WikiData/WD~Brassica_oleracea,146212|WD~Brassica_oleracea,146212]]'
+has_fruit_type: '[[_Standards/WikiData/WD~silique,148529|WD~silique,148529]]'
 described_by_source:
-- '[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_33,112869412]]'
-parent_taxon: '[[../../../../../../../../../../../../WikiData/WD~Brassiceae,15054388]]'
-has_use: '[[_Standards/WikiData/WD~vegetable,11004]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_33,112869412|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_33,112869412]]'
+parent_taxon: '[[../../../../../../../../../../../../WikiData/WD~Brassiceae,15054388|WD~Brassiceae,15054388]]'
+has_use: '[[_Standards/WikiData/WD~vegetable,11004|WD~vegetable,11004]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 carbon_footprint: 0.6
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
 ITIS_TSN: 23054
 taxon_common_name:
 - cabbage
@@ -192,7 +192,7 @@ dv_has_:
 
 # [[Brassica]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Brassica,58677]] 
+#is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Brassica,58677|WD~Brassica,58677]] 
 
 ## #has_/text_of_/abstract 
 

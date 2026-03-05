@@ -42,10 +42,10 @@ aliases:
 - 傘形目
 - 미나리목
 has_id_wikidata: Q21138
-described_by_source: '[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-parent_taxon: '[[_Standards/WikiData/WD~campanulids,2935471]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
+described_by_source: '[[../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+parent_taxon: '[[_Standards/WikiData/WD~campanulids,2935471|WD~campanulids,2935471]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~order,36602|WD~order,36602]]'
 ITIS_TSN: 500017
 OmegaWiki_Defined_Meaning: 358665
 Commons_category: Apiales

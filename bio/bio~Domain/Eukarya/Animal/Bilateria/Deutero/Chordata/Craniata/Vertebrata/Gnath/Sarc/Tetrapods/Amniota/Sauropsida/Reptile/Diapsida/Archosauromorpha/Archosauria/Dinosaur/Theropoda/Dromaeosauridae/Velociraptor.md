@@ -30,21 +30,21 @@ aliases:
 - 伶盜龍屬
 - 벨로키랍토르
 has_id_wikidata: Q14403
-main_food_source: '[[_Standards/WikiData/WD~carnivore,81875]]'
+main_food_source: '[[_Standards/WikiData/WD~carnivore,81875|WD~carnivore,81875]]'
 location_of_discovery:
-- '[[_Standards/WikiData/WD~Barun_Goyot_Formation,576013]]'
-- '[[_Standards/WikiData/WD~Djadochta_Formation,2879714]]'
-- '[[_Standards/WikiData/WD~Bayan_Mandahu_Formation,4874284]]'
-- '[[_Standards/WikiData/WD~Mongolia,711]]'
-different_from: '[[_Standards/WikiData/WD~Vasilopita,1072235]]'
-instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290]]'
+- '[[_Standards/WikiData/WD~Barun_Goyot_Formation,576013|WD~Barun_Goyot_Formation,576013]]'
+- '[[_Standards/WikiData/WD~Djadochta_Formation,2879714|WD~Djadochta_Formation,2879714]]'
+- '[[_Standards/WikiData/WD~Bayan_Mandahu_Formation,4874284|WD~Bayan_Mandahu_Formation,4874284]]'
+- '[[_Standards/WikiData/WD~Mongolia,711|WD~Mongolia,711]]'
+different_from: '[[_Standards/WikiData/WD~Vasilopita,1072235|WD~Vasilopita,1072235]]'
+instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290|WD~fossil_taxon,23038290]]'
 end_time: -71000000-01-01T00:00:00Z
 height: 0.5
 mass: 15
 length:
 - 1.8
 - 2.07
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
 Commons_gallery: Velociraptor
 Commons_category: Velociraptor
 taxon_name: Velociraptor

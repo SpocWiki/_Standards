@@ -77,19 +77,19 @@ aliases:
 - 운동량
 has_id_wikidata: Q41273
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~generator,643669]]'
-- '[[_Standards/WikiData/WD~vector_quantity,2672914]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~generator,643669|WD~generator,643669]]'
+- '[[_Standards/WikiData/WD~vector_quantity,2672914|WD~vector_quantity,2672914]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~ISO_80000_4_2006_Quantities_and_units_Part_4_Mechanics,26711933]]'
-- '[[_Standards/WikiData/WD~ISO_80000_4_2019_Quantities_and_units_Part_4_Mechanics,73391977]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
-different_from: '[[_Standards/WikiData/WD~impulse,837940]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q17115742,17115742]]'
-recommended_unit_of_measurement: '[[_Standards/WikiData/WD~kilogram_metre_per_second,78775089]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~ISO_80000_4_2006_Quantities_and_units_Part_4_Mechanics,26711933|WD~ISO_80000_4_2006_Quantities_and_units_Part_4_Mechanics,26711933]]'
+- '[[_Standards/WikiData/WD~ISO_80000_4_2019_Quantities_and_units_Part_4_Mechanics,73391977|WD~ISO_80000_4_2019_Quantities_and_units_Part_4_Mechanics,73391977]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635|WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+different_from: '[[_Standards/WikiData/WD~impulse,837940|WD~impulse,837940]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q17115742,17115742|WD~Q17115742,17115742]]'
+recommended_unit_of_measurement: '[[_Standards/WikiData/WD~kilogram_metre_per_second,78775089|WD~kilogram_metre_per_second,78775089]]'
 in_defining_formula:
 - >-
   <math xmlns="http://www.w3.org/1998/Math/MathML" display="block" alttext="{\displaystyle m}">
@@ -315,7 +315,7 @@ dv_has_:
 
 Due to the [[Isotropy]] of Space, it is a conserved Unit. 
 
-In[[../../../Knowledge/Physics.internal/Quantum-Physics|Quantum-Physics]]] the [[Distance/Wavelength]] of a Particle is 
+In[[../../../Knowledge/Physics.internal/Quantum-Physics|Quantum-Physics]]] the [[Distance/Wavelength|Wavelength]] of a Particle is 
 given by its inverse [[Momentum]]:  ___λ = h / p___ 
 
 A change in Momentum is also called Impulse, 

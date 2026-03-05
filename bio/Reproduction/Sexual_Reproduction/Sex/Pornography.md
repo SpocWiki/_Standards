@@ -76,28 +76,28 @@ aliases:
 - 鹹濕
 - 포르노그래피
 has_id_wikidata: Q291
-different_from: '[[_Standards/WikiData/WD~erotica,181001]]'
+different_from: '[[_Standards/WikiData/WD~erotica,181001|WD~erotica,181001]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Pornopedia,1393730]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519]]'
-- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
-has_effect: '[[_Standards/WikiData/WD~pornography_addiction,1319971]]'
-opposite_of: '[[_Standards/WikiData/WD~opposition_to_pornography,2745509]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Pornography,11052852]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Pornopedia,1393730|WD~Pornopedia,1393730]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878|WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519|WD~New_World_Encyclopedia,116780519]]'
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072|WD~Red_Blue_Translator,131935072]]'
+has_effect: '[[_Standards/WikiData/WD~pornography_addiction,1319971|WD~pornography_addiction,1319971]]'
+opposite_of: '[[_Standards/WikiData/WD~opposition_to_pornography,2745509|WD~opposition_to_pornography,2745509]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Pornography,11052852|WD~Portal_Pornography,11052852]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Porn_stub,13379779]]'
-- '[[_Standards/WikiData/WD~Template_Pornography,19822711]]'
+- '[[_Standards/WikiData/WD~Template_Porn_stub,13379779|WD~Template_Porn_stub,13379779]]'
+- '[[_Standards/WikiData/WD~Template_Pornography,19822711|WD~Template_Pornography,19822711]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~creative_work,17537576]]'
-- '[[_Standards/WikiData/WD~erotic_product,115921406]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_arts,56055944]]'
-studied_by: '[[_Standards/WikiData/WD~porn_studies,97360329]]'
-practiced_by: '[[_Standards/WikiData/WD~pornographer,135004949]]'
+- '[[_Standards/WikiData/WD~creative_work,17537576|WD~creative_work,17537576]]'
+- '[[_Standards/WikiData/WD~erotic_product,115921406|WD~erotic_product,115921406]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_arts,56055944|WD~type_of_arts,56055944]]'
+studied_by: '[[_Standards/WikiData/WD~porn_studies,97360329|WD~porn_studies,97360329]]'
+practiced_by: '[[_Standards/WikiData/WD~pornographer,135004949|WD~pornographer,135004949]]'
 Commons_category: Pornography
 PhilPapers_topic: pornography
 ACM_Classification_Code_2012_: 10003481

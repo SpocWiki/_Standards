@@ -47,26 +47,26 @@ aliases:
 - 천체력
 has_id_wikidata: Q120200
 has_part_s_:
-- '[[_Standards/WikiData/WD~declination,76287]]'
-- '[[_Standards/WikiData/WD~orbital_elements,272626]]'
-- '[[_Standards/WikiData/WD~time,11471]]'
-- '[[_Standards/WikiData/WD~right_ascension,13442]]'
+- '[[_Standards/WikiData/WD~declination,76287|WD~declination,76287]]'
+- '[[_Standards/WikiData/WD~orbital_elements,272626|WD~orbital_elements,272626]]'
+- '[[_Standards/WikiData/WD~time,11471|WD~time,11471]]'
+- '[[_Standards/WikiData/WD~right_ascension,13442|WD~right_ascension,13442]]'
 facet_of:
-- '[[_Standards/WikiData/WD~astrometry,181505]]'
-- '[[_Standards/WikiData/WD~celestial_navigation,1063512]]'
+- '[[_Standards/WikiData/WD~astrometry,181505|WD~astrometry,181505]]'
+- '[[_Standards/WikiData/WD~celestial_navigation,1063512|WD~celestial_navigation,1063512]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~table,496946]]'
-- '[[_Standards/WikiData/WD~calendar,12027715]]'
+- '[[_Standards/WikiData/WD~table,496946|WD~table,496946]]'
+- '[[_Standards/WikiData/WD~calendar,12027715|WD~calendar,12027715]]'
 described_by_source:
-- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
-- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878|WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Q30059240,30059240|WD~Q30059240,30059240]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517|WD~Small_Soviet_Encyclopedia,66386517]]'
 Dewey_Decimal_Classification: 528
 Nomenclature_for_Museum_Cataloging: 15069
 Commons_gallery: Ephemeris

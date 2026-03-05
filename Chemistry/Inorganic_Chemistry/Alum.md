@@ -61,29 +61,29 @@ aliases:
 - 백반
 has_id_wikidata: Q190527
 subclass_of:
-- '[[_Standards/WikiData/WD~chemical_substance,79529]]'
-- '[[_Standards/WikiData/WD~material,214609]]'
-- '[[_Standards/WikiData/WD~double_salt,277629]]'
-- '[[_Standards/WikiData/WD~sulfate_salt,64995433]]'
+- '[[_Standards/WikiData/WD~chemical_substance,79529|WD~chemical_substance,79529]]'
+- '[[_Standards/WikiData/WD~material,214609|WD~material,214609]]'
+- '[[_Standards/WikiData/WD~double_salt,277629|WD~double_salt,277629]]'
+- '[[_Standards/WikiData/WD~sulfate_salt,64995433|WD~sulfate_salt,64995433]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~sulfate_ion,172290]]'
-- '[[_Standards/WikiData/WD~water_of_crystallization,504492]]'
-- '[[_Standards/WikiData/WD~monocation,55523831]]'
-- '[[_Standards/WikiData/WD~trication,55523862]]'
-crystal_habit: '[[_Standards/WikiData/WD~octahedron,188884]]'
+- '[[_Standards/WikiData/WD~sulfate_ion,172290|WD~sulfate_ion,172290]]'
+- '[[_Standards/WikiData/WD~water_of_crystallization,504492|WD~water_of_crystallization,504492]]'
+- '[[_Standards/WikiData/WD~monocation,55523831|WD~monocation,55523831]]'
+- '[[_Standards/WikiData/WD~trication,55523862|WD~trication,55523862]]'
+crystal_habit: '[[_Standards/WikiData/WD~octahedron,188884|WD~octahedron,188884]]'
 different_from:
-- '[[_Standards/WikiData/WD~alunite,338106]]'
-- '[[_Standards/WikiData/WD~potassium_aluminium_sulfate,411309]]'
-- '[[_Standards/WikiData/WD~aluminium_sulfate,421857]]'
+- '[[_Standards/WikiData/WD~alunite,338106|WD~alunite,338106]]'
+- '[[_Standards/WikiData/WD~potassium_aluminium_sulfate,411309|WD~potassium_aluminium_sulfate,411309]]'
+- '[[_Standards/WikiData/WD~aluminium_sulfate,421857|WD~aluminium_sulfate,421857]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
-instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636|WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
 Commons_category: Alum
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Alum.jpg
@@ -93,7 +93,7 @@ P8189: 987007294750805100
 ATC_code: S01XA07
 dv_is_:
   same_as:
-  - '[[../../WikiData/WD~Alum,190527]]'
+  - '[[../../WikiData/WD~Alum,190527|WD~Alum,190527]]'
   - '[[/_Standards/Chemistry/Inorganic_Chemistry/Alum|Alum]]'
   - '[[/_public/Chemistry/Inorganic_Chemistry/Alum.public|Alum.public]]'
   - '[[/_internal/Chemistry/Inorganic_Chemistry/Alum.internal|Alum.internal]]'
@@ -102,7 +102,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Inorganic_Chemistry/Alum.personal|Alum.personal]]'
   - '[[/_secret/Chemistry/Inorganic_Chemistry/Alum.secret|Alum.secret]]'
 dv_is_same_as:
-- '[[../../WikiData/WD~Alum,190527]]'
+- '[[../../WikiData/WD~Alum,190527|WD~Alum,190527]]'
 - '[[/_Standards/Chemistry/Inorganic_Chemistry/Alum|Alum]]'
 - '[[/_public/Chemistry/Inorganic_Chemistry/Alum.public|Alum.public]]'
 - '[[/_internal/Chemistry/Inorganic_Chemistry/Alum.internal|Alum.internal]]'
@@ -205,7 +205,7 @@ dv_has_:
 
 # [[Alum]] 
 
-#is_/same_as :: [[../../WikiData/WD~Alum,190527]] 
+#is_/same_as :: [[../../WikiData/WD~Alum,190527|WD~Alum,190527]] 
 
 ## #has_/text_of_/abstract 
 

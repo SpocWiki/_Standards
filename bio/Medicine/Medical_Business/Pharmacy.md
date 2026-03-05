@@ -90,37 +90,37 @@ tags:
 title: is_a_pharmacy Class
 type: Type
 practiced_by:
-- '[[_Standards/WikiData/WD~pharmacist,105186]]'
-- '[[_Standards/WikiData/WD~Pharmaceutical_technician,2085081]]'
-- '[[_Standards/WikiData/WD~pharmacist_(M.Sc._in_pharmacy),21140652]]'
-- '[[_Standards/WikiData/WD~pharmacy_student,69945622]]'
+- '[[_Standards/WikiData/WD~pharmacist,105186|WD~pharmacist,105186]]'
+- '[[_Standards/WikiData/WD~Pharmaceutical_technician,2085081|WD~Pharmaceutical_technician,2085081]]'
+- '[[_Standards/WikiData/WD~pharmacist_(M.Sc._in_pharmacy),21140652|WD~pharmacist_(M.Sc._in_pharmacy),21140652]]'
+- '[[_Standards/WikiData/WD~pharmacy_student,69945622|WD~pharmacy_student,69945622]]'
 model_item:
-- '[[_Standards/WikiData/WD~clinical_pharmacy,155491]]'
-- '[[_Standards/WikiData/WD~emergency_and_disaster_pharmacy,1000889]]'
+- '[[_Standards/WikiData/WD~clinical_pharmacy,155491|WD~clinical_pharmacy,155491]]'
+- '[[_Standards/WikiData/WD~emergency_and_disaster_pharmacy,1000889|WD~emergency_and_disaster_pharmacy,1000889]]'
 instance_of:
-- '[[_Standards/WikiData/WD~industry,268592]]'
-- '[[_Standards/WikiData/WD~interdisciplinary_science,1665984]]'
-- '[[_Standards/WikiData/WD~branch_of_science,2465832]]'
-- '[[_Standards/WikiData/WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~industry,268592|WD~industry,268592]]'
+- '[[_Standards/WikiData/WD~interdisciplinary_science,1665984|WD~interdisciplinary_science,1665984]]'
+- '[[_Standards/WikiData/WD~branch_of_science,2465832|WD~branch_of_science,2465832]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~pharmaceutical_sciences,7180763]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~pharmaceutical_sciences,7180763|WD~pharmaceutical_sciences,7180763]]'
 different_from:
-- '[[_Standards/WikiData/WD~Pharmacy,7180803]]'
-- '[[_Standards/WikiData/WD~Farmacia,45373940]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Pharmacy,113449142]]'
-has_characteristic: '[[_Standards/WikiData/WD~pharmacy_award,132190470]]'
+- '[[_Standards/WikiData/WD~Pharmacy,7180803|WD~Pharmacy,7180803]]'
+- '[[_Standards/WikiData/WD~Farmacia,45373940|WD~Farmacia,45373940]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Pharmacy,113449142|WD~Template_Pharmacy,113449142]]'
+has_characteristic: '[[_Standards/WikiData/WD~pharmacy_award,132190470|WD~pharmacy_award,132190470]]'
 part_of:
-- '[[_Standards/WikiData/WD~biology,420]]'
-- '[[_Standards/WikiData/WD~chemistry,2329]]'
-- '[[_Standards/WikiData/WD~industrial_sector,8148]]'
-- '[[_Standards/WikiData/WD~medicine,11190]]'
-subclass_of: '[[_Standards/WikiData/WD~chemistry,2329]]'
+- '[[_Standards/WikiData/WD~biology,420|WD~biology,420]]'
+- '[[_Standards/WikiData/WD~chemistry,2329|WD~chemistry,2329]]'
+- '[[_Standards/WikiData/WD~industrial_sector,8148|WD~industrial_sector,8148]]'
+- '[[_Standards/WikiData/WD~medicine,11190|WD~medicine,11190]]'
+subclass_of: '[[_Standards/WikiData/WD~chemistry,2329|WD~chemistry,2329]]'
 All_Science_Journal_Classification_Codes: 3611
 social_media_followers: 177871
 Dewey_Decimal_Classification: 615.1
@@ -261,7 +261,7 @@ Tag Instances like this:
 
 A pharmacy or drugstore.
 
-#has_/parent_class :: [[../MedicalBusiness, MedicalOrganization]]  
+#has_/parent_class :: [[../MedicalBusiness, MedicalOrganization|MedicalBusiness, MedicalOrganization]]  
 
 #has_/properties :: [ actionableFeedbackPolicy, additionalProperty, additionalType, address, aggregateRating, alternateName, alumni, amenityFeature, areaServed, award, awards, branchCode, branchOf, brand, contactPoint, contactPoints, containedIn, containedInPlace, containsPlace, correctionsPolicy, currenciesAccepted, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasCredential, hasDriveThroughService, hasMap, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, healthPlanNetworkId, identifier, image, interactionStatistic, isAcceptingNewPatients, isAccessibleForFree, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, latitude, legalName, leiCode, location, logo, longitude, mainEntityOfPage, makesOffer, map, maps, maximumAttendeeCapacity, medicalSpecialty, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, openingHours, openingHoursSpecification, ownershipFundingInfo, owns, parentOrganization, paymentAccepted, photo, photos, potentialAction, priceRange, publicAccess, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, smokingAllowed, specialOpeningHoursSpecification, sponsor, subOrganization, subjectOf, taxID, telephone, tourBookingPage, unnamedSourcesPolicy, url, vatID ]  
 

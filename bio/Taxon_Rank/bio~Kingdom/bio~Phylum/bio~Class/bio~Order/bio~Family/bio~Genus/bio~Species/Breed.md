@@ -56,29 +56,29 @@ aliases:
 - 家畜の品種
 - 품종
 has_id_wikidata: Q38829
-studied_by: '[[_Standards/WikiData/WD~animal_husbandry,80962]]'
+studied_by: '[[_Standards/WikiData/WD~animal_husbandry,80962|WD~animal_husbandry,80962]]'
 different_from:
-- '[[_Standards/WikiData/WD~animal_breeding,227675]]'
-- '[[_Standards/WikiData/WD~Breed,765421]]'
-part_of: '[[_Standards/WikiData/WD~animal_breeding,227675]]'
+- '[[_Standards/WikiData/WD~animal_breeding,227675|WD~animal_breeding,227675]]'
+- '[[_Standards/WikiData/WD~Breed,765421|WD~Breed,765421]]'
+part_of: '[[_Standards/WikiData/WD~animal_breeding,227675|WD~animal_breeding,227675]]'
 instance_of:
-- '[[_Standards/WikiData/WD~infraspecific_name,631147]]'
-- '[[_Standards/WikiData/WD~classification_scheme,5962346]]'
-- '[[_Standards/WikiData/WD~specialized_term,12812139]]'
-described_by_source: '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Breeds,7033818]]'
+- '[[_Standards/WikiData/WD~infraspecific_name,631147|WD~infraspecific_name,631147]]'
+- '[[_Standards/WikiData/WD~classification_scheme,5962346|WD~classification_scheme,5962346]]'
+- '[[_Standards/WikiData/WD~specialized_term,12812139|WD~specialized_term,12812139]]'
+described_by_source: '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764|WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Breeds,7033818|WD~Category_Breeds,7033818]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Animal_breed_infobox,13257438]]'
-- '[[_Standards/WikiData/WD~Q26143202,26143202]]'
+- '[[_Standards/WikiData/WD~Animal_breed_infobox,13257438|WD~Animal_breed_infobox,13257438]]'
+- '[[_Standards/WikiData/WD~Q26143202,26143202|WD~Q26143202,26143202]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~group_or_class_of_living_things,21871294]]'
-- '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]'
+- '[[_Standards/WikiData/WD~group_or_class_of_living_things,21871294|WD~group_or_class_of_living_things,21871294]]'
+- '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715|WD~organisms_known_by_a_particular_common_name,55983715]]'
 properties_for_this_type:
 - country of origin
 - FAO risk status
 - breed belongs to taxon
 main_Wikidata_property: animal breed
-items_classified: '[[_Standards/WikiData/WD~organism,7239]]'
+items_classified: '[[_Standards/WikiData/WD~organism,7239|WD~organism,7239]]'
 OmegaWiki_Defined_Meaning: 805603
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Big%20and%20little%20dog%201.jpg
 Commons_category: Breeds

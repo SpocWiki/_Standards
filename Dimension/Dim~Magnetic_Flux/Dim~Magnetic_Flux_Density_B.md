@@ -48,23 +48,23 @@ aliases:
 - 磁束密度
 has_id_wikidata: Q30204
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~vector_quantity,2672914]]'
-- '[[_Standards/WikiData/WD~flux_density,51720768]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~vector_quantity,2672914|WD~vector_quantity,2672914]]'
+- '[[_Standards/WikiData/WD~flux_density,51720768|WD~flux_density,51720768]]'
 recommended_unit_of_measurement:
-- '[[_Standards/WikiData/WD~tesla,163343]]'
-- '[[_Standards/WikiData/WD~kilogram_per_square_second_ampere,107305389]]'
+- '[[_Standards/WikiData/WD~tesla,163343|WD~tesla,163343]]'
+- '[[_Standards/WikiData/WD~kilogram_per_square_second_ampere,107305389|WD~kilogram_per_square_second_ampere,107305389]]'
 different_from:
-- '[[_Standards/WikiData/WD~mathematical_induction,178377]]'
-- '[[_Standards/WikiData/WD~inductive_reasoning,484511]]'
-- '[[_Standards/WikiData/WD~electromagnetic_induction,988780]]'
-- '[[_Standards/WikiData/WD~magnetic_field_strength,28123]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~mathematical_induction,178377|WD~mathematical_induction,178377]]'
+- '[[_Standards/WikiData/WD~inductive_reasoning,484511|WD~inductive_reasoning,484511]]'
+- '[[_Standards/WikiData/WD~electromagnetic_induction,988780|WD~electromagnetic_induction,988780]]'
+- '[[_Standards/WikiData/WD~magnetic_field_strength,28123|WD~magnetic_field_strength,28123]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~IEC_80000_6_2008_Quantities_and_units_Part_6_Electromagnetism,26711936]]'
-- '[[_Standards/WikiData/WD~IEC_80000_6_2022_Quantities_and_units_Part_6_Electromagnetism,117847945]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~IEC_80000_6_2008_Quantities_and_units_Part_6_Electromagnetism,26711936|WD~IEC_80000_6_2008_Quantities_and_units_Part_6_Electromagnetism,26711936]]'
+- '[[_Standards/WikiData/WD~IEC_80000_6_2022_Quantities_and_units_Part_6_Electromagnetism,117847945|WD~IEC_80000_6_2022_Quantities_and_units_Part_6_Electromagnetism,117847945]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 in_defining_formula:
 - "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D497</mi></mrow></mstyle></mrow></math>"
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mo stretchy="false">&#x00D7;</mo></mstyle></mrow></math>
@@ -133,8 +133,8 @@ dv_has_:
 
 # [[Dim~Magnetic_Flux_Density_B]] 
 
-#is_/similar_to :: [[Dim~Magnetic_Flux_Density_B/Dim~Magnetic_Field_Strength_H]]  
-#is_/same_as :: [[../../WikiData/WD~magnetic_flux_density,30204]] 
+#is_/similar_to :: [[Dim~Magnetic_Flux_Density_B/Dim~Magnetic_Field_Strength_H|Dim~Magnetic_Field_Strength_H]]  
+#is_/same_as :: [[../../WikiData/WD~magnetic_flux_density,30204|WD~magnetic_flux_density,30204]] 
 
 [[Dim~Magnetic_Flux_Density_B|B]] = μ · [[Dim~Magnetic_Flux_Density_B/Dim~Magnetic_Field_Strength_H|H]]
 

@@ -3,8 +3,8 @@ aliases:
 - Dermochelys
 - кожести костенурки
 has_id_wikidata: Q11693960
-instance_of: '[[_Standards/WikiData/WD~monotypic_taxon,310890]]'
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+instance_of: '[[_Standards/WikiData/WD~monotypic_taxon,310890|WD~monotypic_taxon,310890]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
 ITIS_TSN: 173842
 taxon_common_name:
 - Lederschildkröte

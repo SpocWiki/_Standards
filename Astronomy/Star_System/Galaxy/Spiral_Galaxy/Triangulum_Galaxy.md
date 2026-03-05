@@ -62,28 +62,28 @@ aliases:
 - 삼각형자리 은하
 has_id_wikidata: Q13724
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~William_Parsons,_3rd_Earl_of_Rosse,310121]]'
-- '[[_Standards/WikiData/WD~Giovan_Battista_Hodierna,55007799]]'
-- '[[_Standards/WikiData/WD~Charles_Messier,14524]]'
+- '[[_Standards/WikiData/WD~William_Parsons,_3rd_Earl_of_Rosse,310121|WD~William_Parsons,_3rd_Earl_of_Rosse,310121]]'
+- '[[_Standards/WikiData/WD~Giovan_Battista_Hodierna,55007799|WD~Giovan_Battista_Hodierna,55007799]]'
+- '[[_Standards/WikiData/WD~Charles_Messier,14524|WD~Charles_Messier,14524]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~NGC_604,506389]]'
-- '[[_Standards/WikiData/WD~NGC_595,750592]]'
-- '[[_Standards/WikiData/WD~NGC_588,1037534]]'
-- '[[_Standards/WikiData/WD~NGC_592,1037565]]'
-- '[[_Standards/WikiData/WD~Var_83,1401599]]'
-- '[[_Standards/WikiData/WD~M33_X_7,2697812]]'
+- '[[_Standards/WikiData/WD~NGC_604,506389|WD~NGC_604,506389]]'
+- '[[_Standards/WikiData/WD~NGC_595,750592|WD~NGC_595,750592]]'
+- '[[_Standards/WikiData/WD~NGC_588,1037534|WD~NGC_588,1037534]]'
+- '[[_Standards/WikiData/WD~NGC_592,1037565|WD~NGC_592,1037565]]'
+- '[[_Standards/WikiData/WD~Var_83,1401599|WD~Var_83,1401599]]'
+- '[[_Standards/WikiData/WD~M33_X_7,2697812|WD~M33_X_7,2697812]]'
 child_astronomical_body:
-- '[[_Standards/WikiData/WD~Pisces_Dwarf,984296]]'
-- '[[_Standards/WikiData/WD~Andromeda_XXII,4759484]]'
-instance_of: '[[_Standards/WikiData/WD~flocculent_spiral_galaxy,3272595]]'
+- '[[_Standards/WikiData/WD~Pisces_Dwarf,984296|WD~Pisces_Dwarf,984296]]'
+- '[[_Standards/WikiData/WD~Andromeda_XXII,4759484|WD~Andromeda_XXII,4759484]]'
+instance_of: '[[_Standards/WikiData/WD~flocculent_spiral_galaxy,3272595|WD~flocculent_spiral_galaxy,3272595]]'
 part_of:
-- '[[_Standards/WikiData/WD~Q67624558,67624558]]'
-- '[[_Standards/WikiData/WD~Q67796361,67796361]]'
-- '[[_Standards/WikiData/WD~M31_Group,88239531]]'
-- '[[_Standards/WikiData/WD~Local_Group,3944]]'
+- '[[_Standards/WikiData/WD~Q67624558,67624558|WD~Q67624558,67624558]]'
+- '[[_Standards/WikiData/WD~Q67796361,67796361|WD~Q67796361,67796361]]'
+- '[[_Standards/WikiData/WD~M31_Group,88239531|WD~M31_Group,88239531]]'
+- '[[_Standards/WikiData/WD~Local_Group,3944|WD~Local_Group,3944]]'
 declination: 30.66017511198
-parent_astronomical_body: '[[_Standards/WikiData/WD~Andromeda_Galaxy,2469]]'
-constellation: '[[_Standards/WikiData/WD~Triangulum,10565]]'
+parent_astronomical_body: '[[_Standards/WikiData/WD~Andromeda_Galaxy,2469|WD~Andromeda_Galaxy,2469]]'
+constellation: '[[_Standards/WikiData/WD~Triangulum,10565|WD~Triangulum,10565]]'
 redshift: -0.000597
 radial_velocity: -182
 distance_from_Earth: 0.8

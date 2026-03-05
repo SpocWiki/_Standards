@@ -148,21 +148,21 @@ aliases:
 - 북쪽
 has_id_wikidata: Q659
 different_from:
-- '[[_Standards/WikiData/WD~Nord,224360]]'
-- '[[_Standards/WikiData/WD~North,229363]]'
-- '[[_Standards/WikiData/WD~Norden,343213]]'
-- '[[_Standards/WikiData/WD~Norte,396386]]'
-- '[[_Standards/WikiData/WD~Noord,408410]]'
-- '[[_Standards/WikiData/WD~Norr,10602397]]'
-- '[[_Standards/WikiData/WD~Bakur,29398103]]'
-- '[[_Standards/WikiData/WD~北,51428494]]'
+- '[[_Standards/WikiData/WD~Nord,224360|WD~Nord,224360]]'
+- '[[_Standards/WikiData/WD~North,229363|WD~North,229363]]'
+- '[[_Standards/WikiData/WD~Norden,343213|WD~Norden,343213]]'
+- '[[_Standards/WikiData/WD~Norte,396386|WD~Norte,396386]]'
+- '[[_Standards/WikiData/WD~Noord,408410|WD~Noord,408410]]'
+- '[[_Standards/WikiData/WD~Norr,10602397|WD~Norr,10602397]]'
+- '[[_Standards/WikiData/WD~Bakur,29398103|WD~Bakur,29398103]]'
+- '[[_Standards/WikiData/WD~北,51428494|WD~北,51428494]]'
 instance_of:
-- '[[_Standards/WikiData/WD~points_of_the_compass,11114344]]'
-- '[[_Standards/WikiData/WD~cardinal_direction,23718]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q26722656,26722656]]'
-named_after: '[[_Standards/WikiData/WD~bear,30090244]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
-opposite_of: '[[_Standards/WikiData/WD~south,667]]'
+- '[[_Standards/WikiData/WD~points_of_the_compass,11114344|WD~points_of_the_compass,11114344]]'
+- '[[_Standards/WikiData/WD~cardinal_direction,23718|WD~cardinal_direction,23718]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q26722656,26722656|WD~Q26722656,26722656]]'
+named_after: '[[_Standards/WikiData/WD~bear,30090244|WD~bear,30090244]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+opposite_of: '[[_Standards/WikiData/WD~south,667|WD~south,667]]'
 position_angle: 0
 OmegaWiki_Defined_Meaning: 6550
 Commons_category: North

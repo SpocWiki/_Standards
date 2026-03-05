@@ -64,10 +64,10 @@ aliases:
 - 第2周期元素
 - 第2週期元素
 has_id_wikidata: Q207712
-instance_of: '[[_Standards/WikiData/WD~period,101843]]'
-follows: '[[_Standards/WikiData/WD~period_1,191936]]'
-followed_by: '[[_Standards/WikiData/WD~period_3,211331]]'
-has_part_s_: '[[_Standards/WikiData/WD~chemical_element,11344]]'
+instance_of: '[[_Standards/WikiData/WD~period,101843|WD~period,101843]]'
+follows: '[[_Standards/WikiData/WD~period_1,191936|WD~period_1,191936]]'
+followed_by: '[[_Standards/WikiData/WD~period_3,211331|WD~period_3,211331]]'
+has_part_s_: '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 dv_is_:
   same_as:
   - '[[../../../WikiData/WD~Period_2,207712|WD~Period_2,207712]]'

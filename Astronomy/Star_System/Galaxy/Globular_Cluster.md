@@ -71,11 +71,11 @@ aliases:
 - 球狀星團
 - 구상 성단
 has_id_wikidata: Q11276
-subclass_of: '[[_Standards/WikiData/WD~star_cluster,168845]]'
-has_list: '[[_Standards/WikiData/WD~list_of_globular_clusters,1841855]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_globular_cluster,13033954]]'
-instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
-part_of: '[[_Standards/WikiData/WD~galaxy,318]]'
+subclass_of: '[[_Standards/WikiData/WD~star_cluster,168845|WD~star_cluster,168845]]'
+has_list: '[[_Standards/WikiData/WD~list_of_globular_clusters,1841855|WD~list_of_globular_clusters,1841855]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_globular_cluster,13033954|WD~Template_Infobox_globular_cluster,13033954]]'
+instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909|WD~astronomical_object_type,17444909]]'
+part_of: '[[_Standards/WikiData/WD~galaxy,318|WD~galaxy,318]]'
 OmegaWiki_Defined_Meaning: 160069
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/A%20Swarm%20of%20Ancient%20Stars%20-%20GPN-2000-000930.jpg

@@ -39,21 +39,21 @@ aliases:
 - 멜라닌
 has_id_wikidata: Q187526
 subclass_of:
-- '[[_Standards/WikiData/WD~pigment,161179]]'
-- '[[_Standards/WikiData/WD~biological_pigment,910979]]'
-- '[[_Standards/WikiData/WD~cell_pigment,66560141]]'
-instance_of: '[[_Standards/WikiData/WD~mixture,169336]]'
-different_from: '[[_Standards/WikiData/WD~melamine,212553]]'
-produced_by: '[[_Standards/WikiData/WD~melanocyte,247101]]'
+- '[[_Standards/WikiData/WD~pigment,161179|WD~pigment,161179]]'
+- '[[_Standards/WikiData/WD~biological_pigment,910979|WD~biological_pigment,910979]]'
+- '[[_Standards/WikiData/WD~cell_pigment,66560141|WD~cell_pigment,66560141]]'
+instance_of: '[[_Standards/WikiData/WD~mixture,169336|WD~mixture,169336]]'
+different_from: '[[_Standards/WikiData/WD~melamine,212553|WD~melamine,212553]]'
+produced_by: '[[_Standards/WikiData/WD~melanocyte,247101|WD~melanocyte,247101]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 part_of:
-- '[[_Standards/WikiData/WD~melanin_metabolic_process,14863384]]'
-- '[[_Standards/WikiData/WD~melanin_biosynthetic_process_from_tyrosine,14865356]]'
-- '[[_Standards/WikiData/WD~melanin_biosynthetic_process,14865360]]'
-- '[[_Standards/WikiData/WD~melanin_catabolic_process,22282374]]'
+- '[[_Standards/WikiData/WD~melanin_metabolic_process,14863384|WD~melanin_metabolic_process,14863384]]'
+- '[[_Standards/WikiData/WD~melanin_biosynthetic_process_from_tyrosine,14865356|WD~melanin_biosynthetic_process_from_tyrosine,14865356]]'
+- '[[_Standards/WikiData/WD~melanin_biosynthetic_process,14865360|WD~melanin_biosynthetic_process,14865360]]'
+- '[[_Standards/WikiData/WD~melanin_catabolic_process,22282374|WD~melanin_catabolic_process,22282374]]'
 UMLS_CUI: C0025196
 MeSH_tree_code:
 - D12.125.072.050.875.379

@@ -164,26 +164,26 @@ aliases:
 - 두통
 has_id_wikidata: Q86
 subclass_of:
-- '[[_Standards/WikiData/WD~pain,81938]]'
-- '[[_Standards/WikiData/WD~clinical_sign,1441305]]'
-health_specialty: '[[_Standards/WikiData/WD~neurology,83042]]'
+- '[[_Standards/WikiData/WD~pain,81938|WD~pain,81938]]'
+- '[[_Standards/WikiData/WD~clinical_sign,1441305|WD~clinical_sign,1441305]]'
+health_specialty: '[[_Standards/WikiData/WD~neurology,83042|WD~neurology,83042]]'
 drug_or_therapy_used_for_treatment:
-- '[[_Standards/WikiData/WD~meprobamate,418351]]'
-- '[[_Standards/WikiData/WD~doxylamine,423390]]'
-- '[[_Standards/WikiData/WD~sodium_benzoate,423971]]'
-- '[[_Standards/WikiData/WD~butalbital,1606543]]'
-has_cause: '[[_Standards/WikiData/WD~encephalopathy,576349]]'
+- '[[_Standards/WikiData/WD~meprobamate,418351|WD~meprobamate,418351]]'
+- '[[_Standards/WikiData/WD~doxylamine,423390|WD~doxylamine,423390]]'
+- '[[_Standards/WikiData/WD~sodium_benzoate,423971|WD~sodium_benzoate,423971]]'
+- '[[_Standards/WikiData/WD~butalbital,1606543|WD~butalbital,1606543]]'
+has_cause: '[[_Standards/WikiData/WD~encephalopathy,576349|WD~encephalopathy,576349]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 instance_of:
-- "[[_Standards/WikiData/WD~women's_disease,1451794]]"
-- '[[_Standards/WikiData/WD~symptom_type,130753312]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Headache,14446487]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_COVID_19,87748614]]'
+- "[[_Standards/WikiData/WD~women's_disease,1451794|WD~women's_disease,1451794]]"
+- '[[_Standards/WikiData/WD~symptom_type,130753312|WD~symptom_type,130753312]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Headache,14446487|WD~Template_Headache,14446487]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_COVID_19,87748614|WD~WikiProject_COVID_19,87748614]]'
 DiseasesDB: 19825
 OmegaWiki_Defined_Meaning: 6982
 name: κεφαλόπονος

@@ -47,14 +47,14 @@ aliases:
 - 플랑크 시간
 has_id_wikidata: Q202642
 instance_of:
-- '[[_Standards/WikiData/WD~physical_constant,173227]]'
-- '[[_Standards/WikiData/WD~Planck_units,468999]]'
-- '[[_Standards/WikiData/WD~unit_of_time,1790144]]'
-part_of: '[[_Standards/WikiData/WD~Planck_units,468999]]'
-measured_physical_quantity: '[[_Standards/WikiData/WD~duration,2199864]]'
-subclass_of: '[[_Standards/WikiData/WD~natural_units,3962243]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-named_after: '[[_Standards/WikiData/WD~Max_Planck,9021]]'
+- '[[_Standards/WikiData/WD~physical_constant,173227|WD~physical_constant,173227]]'
+- '[[_Standards/WikiData/WD~Planck_units,468999|WD~Planck_units,468999]]'
+- '[[_Standards/WikiData/WD~unit_of_time,1790144|WD~unit_of_time,1790144]]'
+part_of: '[[_Standards/WikiData/WD~Planck_units,468999|WD~Planck_units,468999]]'
+measured_physical_quantity: '[[_Standards/WikiData/WD~duration,2199864|WD~duration,2199864]]'
+subclass_of: '[[_Standards/WikiData/WD~natural_units,3962243|WD~natural_units,3962243]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+named_after: '[[_Standards/WikiData/WD~Max_Planck,9021|WD~Max_Planck,9021]]'
 in_defining_formula:
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>G</mi></mstyle></mrow></math>
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>c</mi></mstyle></mrow></math>

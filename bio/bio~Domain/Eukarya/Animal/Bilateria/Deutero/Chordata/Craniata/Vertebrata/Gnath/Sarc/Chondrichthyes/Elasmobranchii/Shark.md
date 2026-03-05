@@ -142,18 +142,18 @@ has_id_wikidata: Q7372
 Commons_category: Selachimorpha
 Commons_gallery: Shark
 described_by_source:
-- '[[../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524|WD~Paulys_Realenzyklopädie_der_klassischen_Altertumswissenschaft,1138524]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885–1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554|WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 earliest_date: -450000000-01-01
-has_list: '[[_Standards/WikiData/WD~list_of_sharks,1110167]]'
+has_list: '[[_Standards/WikiData/WD~list_of_sharks,1110167|WD~list_of_sharks,1110167]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Great%20white%20shark%20south%20africa.jpg
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 ITIS_TSN: 159787
 Krugosvet_article: nauka_i_tehnika/biologiya/AKULI.html
 MCN_code: 0302.81.00
@@ -164,20 +164,20 @@ montage_image:
 NBN_System_Key: NBNSYS0000186986
 OmegaWiki_Defined_Meaning: 481253
 start_time: -425000000-01-01
-subclass_of: '[[_Standards/WikiData/WD~fish_as_food,600396]]'
+subclass_of: '[[_Standards/WikiData/WD~fish_as_food,600396|WD~fish_as_food,600396]]'
 subreddit: sharks
 taxon_name: Selachimorpha
-taxon_rank: '[[_Standards/WikiData/WD~superorder,5868144]]'
-taxon_synonym: '[[_Standards/WikiData/WD~Selachii,16600393]]'
+taxon_rank: '[[_Standards/WikiData/WD~superorder,5868144|WD~superorder,5868144]]'
+taxon_synonym: '[[_Standards/WikiData/WD~Selachii,16600393|WD~Selachii,16600393]]'
 this_taxon_is_source_of:
-- '[[_Standards/WikiData/WD~shark_liver_oil,4380845]]'
-- '[[_Standards/WikiData/WD~sharkskin,29346415]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Selachimorpha,11157877]]'
+- '[[_Standards/WikiData/WD~shark_liver_oil,4380845|WD~shark_liver_oil,4380845]]'
+- '[[_Standards/WikiData/WD~sharkskin,29346415|WD~sharkskin,29346415]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Selachimorpha,11157877|WD~Template_Selachimorpha,11157877]]'
 UMLS_CUI:
 - C0036941
 - C3315081
 Unicode_character: "\U0001F988"
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_sharks,7112728]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_sharks,7112728|WD~outline_of_sharks,7112728]]'
 dv_has_:
   name_:
     ace: Yèe

@@ -109,7 +109,7 @@ aliases:
 - 베릴륨
 - 베릴리움
 has_id_wikidata: Q569
-associated_hazard: '[[_Standards/WikiData/WD~acute_beryllium_poisoning,4896104]]'
+associated_hazard: '[[_Standards/WikiData/WD~acute_beryllium_poisoning,4896104|WD~acute_beryllium_poisoning,4896104]]'
 atomic_number: 4
 boiling_point:
 - 2970
@@ -122,21 +122,21 @@ Commons_category: Beryllium
 Commons_gallery: Beryllium
 density: 1.85
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 Dewey_Decimal_Classification:
 - 546.391
 - 669.724
-different_from: '[[_Standards/WikiData/WD~Beryl,440624]]'
+different_from: '[[_Standards/WikiData/WD~Beryl,440624|WD~Beryl,440624]]'
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Louis_Nicolas_Vauquelin,333438]]'
-- '[[_Standards/WikiData/WD~Antoine_Bussy,585780]]'
-- '[[_Standards/WikiData/WD~Friedrich_Wöhler,58575]]'
+- '[[_Standards/WikiData/WD~Louis_Nicolas_Vauquelin,333438|WD~Louis_Nicolas_Vauquelin,333438]]'
+- '[[_Standards/WikiData/WD~Antoine_Bussy,585780|WD~Antoine_Bussy,585780]]'
+- '[[_Standards/WikiData/WD~Friedrich_Wöhler,58575|WD~Friedrich_Wöhler,58575]]'
 DSSTOX_compound_identifier: DTXCID90875623
 EC_number: 231-150-7
 electrical_conductivity: 25000000
@@ -147,23 +147,23 @@ electron_configuration:
 element_symbol: Be
 Gmelin_number: 16265
 has_effect:
-- '[[_Standards/WikiData/WD~berylliosis,684810]]'
-- '[[_Standards/WikiData/WD~acute_beryllium_poisoning,4896104]]'
+- '[[_Standards/WikiData/WD~berylliosis,684810|WD~berylliosis,684810]]'
+- '[[_Standards/WikiData/WD~acute_beryllium_poisoning,4896104|WD~acute_beryllium_poisoning,4896104]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Beryllium%20nuggets%202.jpg
 immediately_dangerous_to_life_or_health: 4
 InChI: InChI=1S/Be
 InChIKey: ATBAMAFKBVZNFJ-UHFFFAOYSA-N
 instance_of:
-- '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- '[[_Standards/WikiData/WD~simple_substance,2512777]]'
-- '[[_Standards/WikiData/WD~combustible_powder,21073023]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+- '[[_Standards/WikiData/WD~lithophile,1130479|WD~lithophile,1130479]]'
+- '[[_Standards/WikiData/WD~simple_substance,2512777|WD~simple_substance,2512777]]'
+- '[[_Standards/WikiData/WD~combustible_powder,21073023|WD~combustible_powder,21073023]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 ionic_radius:
 - 0.27
 - 0.45
 Krugosvet_article: nauka_i_tehnika/himiya/BERILLI.html
-location_of_discovery: '[[_Standards/WikiData/WD~France,142]]'
-made_from_material: '[[_Standards/WikiData/WD~beryl,103480]]'
+location_of_discovery: '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
+made_from_material: '[[_Standards/WikiData/WD~beryl,103480|WD~beryl,103480]]'
 mass: 9.0121831
 melting_point:
 - 1278
@@ -172,20 +172,20 @@ MeSH_tree_code:
 - D01.268.552.075
 - D01.268.557.080
 - D01.552.547.080
-named_after: '[[_Standards/WikiData/WD~beryl,103480]]'
+named_after: '[[_Standards/WikiData/WD~beryl,103480|WD~beryl,103480]]'
 OmegaWiki_Defined_Meaning: 336
 oxidation_state: 2
 part_of:
-- '[[_Standards/WikiData/WD~period_2,207712]]'
-- '[[_Standards/WikiData/WD~alkaline_earth_metal,19563]]'
+- '[[_Standards/WikiData/WD~period_2,207712|WD~period_2,207712]]'
+- '[[_Standards/WikiData/WD~alkaline_earth_metal,19563|WD~alkaline_earth_metal,19563]]'
 PubChem_CID: 5460467
 RTECS_number: DS1750000
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20de%20004%20Beryllium.svg
 SpocWebEntityId: 21907 á à ô
-subclass_of: '[[_Standards/WikiData/WD~metal,11426]]'
+subclass_of: '[[_Standards/WikiData/WD~metal,11426|WD~metal,11426]]'
 subject_has_role:
-- '[[_Standards/WikiData/WD~carcinogen,187661]]'
-- '[[_Standards/WikiData/WD~occupational_carcinogen,21074597]]'
+- '[[_Standards/WikiData/WD~carcinogen,187661|WD~carcinogen,187661]]'
+- '[[_Standards/WikiData/WD~occupational_carcinogen,21074597|WD~occupational_carcinogen,21074597]]'
 time_of_discovery_or_invention: 1798
 time_weighted_average_exposure_limit: 0.002
 type: Element
@@ -195,7 +195,7 @@ vapor_pressure: 0
 ZVG_number: 8020
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Beryllium,569]]'
+  - '[[../../../WikiData/WD~Beryllium,569|WD~Beryllium,569]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Beryllium|Beryllium]]'
   - '[[/_public/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Beryllium.public|Beryllium.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Beryllium.internal|Beryllium.internal]]'
@@ -203,7 +203,7 @@ dv_is_:
   - '[[/_private/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Beryllium.private|Beryllium.private]]'
   - '[[/_personal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Beryllium.personal|Beryllium.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Beryllium.secret|Beryllium.secret]]'
-  part_of: '[[../Group-02-Earth-Alkaline]]'
+  part_of: '[[../Group-02-Earth-Alkaline|Group-02-Earth-Alkaline]]'
 dv_has_:
   name_:
     abbreviated: Be
@@ -440,7 +440,7 @@ dv_has_:
         kj_:
           mol: 292.4
 dv_is_same_as:
-- '[[../../../WikiData/WD~Beryllium,569]]'
+- '[[../../../WikiData/WD~Beryllium,569|WD~Beryllium,569]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Beryllium|Beryllium]]'
 - '[[/_public/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Beryllium.public|Beryllium.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Beryllium.internal|Beryllium.internal]]'
@@ -449,7 +449,7 @@ dv_is_same_as:
 - '[[/_personal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Beryllium.personal|Beryllium.personal]]'
 - '[[/_secret/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Beryllium.secret|Beryllium.secret]]'
 dv_has_name_group: Group-02-Earth-Alkaline
-dv_is_part_of: '[[../Group-02-Earth-Alkaline]]'
+dv_is_part_of: '[[../Group-02-Earth-Alkaline|Group-02-Earth-Alkaline]]'
 dv_has_name_de: Beryllium
 dv_has_value_for_weight_u: 9.0122
 dv_has_value_for_radius: 1.4
@@ -475,7 +475,7 @@ Unicode_character: 鈹
 # [[Beryllium]] 鈹 
 
 #chemic/Element 
-#is_/same_as :: [[../../../WikiData/WD~Beryllium,569]] 
+#is_/same_as :: [[../../../WikiData/WD~Beryllium,569|WD~Beryllium,569]] 
 
 has_name_group = `=this.dv_has_name_group` 
 is_part_of = `=this.dv_is_part_of` 

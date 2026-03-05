@@ -99,7 +99,7 @@ dv_has_:
 
 # [[Big5~A-Agreeableness]] 
 
-#is_/part_of :: [[../Personality~Big5]] 
+#is_/part_of :: [[../Personality~Big5|Personality~Big5]] 
 
 amicability or agreeableness (A) measures kindness, helpfulness, and willingness to cooperate.  
 HEXACO Agreeableness emphasizes forgiveness, patience, and tolerance.  

@@ -104,23 +104,23 @@ taxon_common_name:
 Dewey_Decimal_Classification:
 - 635.93394
 - 583.94
-taxonomic_type: '[[_Standards/WikiData/WD~Convolvulus,147507]]'
-has_fruit_type: '[[_Standards/WikiData/WD~capsule,147768]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Convolvulus,147507|WD~Convolvulus,147507]]'
+has_fruit_type: '[[_Standards/WikiData/WD~capsule,147768|WD~capsule,147768]]'
 described_by_source:
-- '[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_64(1),112869466]]'
-taxon_synonym: '[[_Standards/WikiData/WD~Humbertiaceae,3143207]]'
+- '[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_64(1),112869466|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_64(1),112869466]]'
+taxon_synonym: '[[_Standards/WikiData/WD~Humbertiaceae,3143207|WD~Humbertiaceae,3143207]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/%D0%92%D1%8C%D1%8E%D0%BD%D0%BE%D0%BA%20%D0%BA%D0%B0%D0%BD%D1%82%D0%B0%D0%B1%D1%80%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9%20-%20Convolvulus%20cantabrica%20-%20Cantabrican%20morning%20glory%20%28dwarf%20morning%20glory%29%20-%20Kantabrische%20Winde%20%2830877027170%29.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Convolvulus%20arvensis%2011.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Morning%20glory.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Starr%20040711-0402%20Ipomoea%20imperati.jpg
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-parent_taxon: '[[_Standards/WikiData/WD~Solanales,21723]]'
-taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+parent_taxon: '[[_Standards/WikiData/WD~Solanales,21723|WD~Solanales,21723]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409|WD~family,35409]]'
 ITIS_TSN: 30648
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Flower%20Diagram%20Convolvulaceae.png
 Montana_Plant_Life_URL: http://montana.plant-life.org/cgi-bin/family03.cgi?Convolvulaceae

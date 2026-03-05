@@ -51,10 +51,10 @@ aliases:
 - 親密關係
 - 친밀 관계
 has_id_wikidata: Q736922
-subclass_of: '[[_Standards/WikiData/WD~interpersonal_relationship,223642]]'
-different_from: '[[_Standards/WikiData/WD~partnership,728646]]'
-has_characteristic: '[[_Standards/WikiData/WD~intimacy,16358629]]'
-described_by_source: '[[_Standards/WikiData/WD~Gender_Glossar,106508758]]'
+subclass_of: '[[_Standards/WikiData/WD~interpersonal_relationship,223642|WD~interpersonal_relationship,223642]]'
+different_from: '[[_Standards/WikiData/WD~partnership,728646|WD~partnership,728646]]'
+has_characteristic: '[[_Standards/WikiData/WD~intimacy,16358629|WD~intimacy,16358629]]'
+described_by_source: '[[_Standards/WikiData/WD~Gender_Glossar,106508758|WD~Gender_Glossar,106508758]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lesbian%20couple%20holding%20hands.jpg
 Commons_category: Intimate relationships
 dv_has_:

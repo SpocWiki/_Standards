@@ -124,36 +124,36 @@ Colon_Classification: J588
 Commons_category: Glycine max
 Commons_gallery: Glycine max
 described_by_source:
-- '[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]'
-- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_41,112869423]]'
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-different_from: '[[_Standards/WikiData/WD~Vigna_radiata,484447]]'
-endemic_to: '[[_Standards/WikiData/WD~Zambia,953]]'
+- '[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112|WD~Zhiwu_Mingshi_Tukao,107402112]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_41,112869423|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_41,112869423]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+different_from: '[[_Standards/WikiData/WD~Vigna_radiata,484447|WD~Vigna_radiata,484447]]'
+endemic_to: '[[_Standards/WikiData/WD~Zambia,953|WD~Zambia,953]]'
 EPPO_Code: GLXMA
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=17711
-hardiness_of_plant: '[[_Standards/WikiData/WD~2,99546131]]'
-has_basionym: '[[_Standards/WikiData/WD~Phaseolus_max,21876206]]'
+hardiness_of_plant: '[[_Standards/WikiData/WD~2,99546131|WD~2,99546131]]'
+has_basionym: '[[_Standards/WikiData/WD~Phaseolus_max,21876206|WD~Phaseolus_max,21876206]]'
 has_use:
-- '[[_Standards/WikiData/WD~vegetable,11004]]'
-- '[[_Standards/WikiData/WD~medicinal_plant,188840]]'
-- '[[_Standards/WikiData/WD~fodder,211439]]'
+- '[[_Standards/WikiData/WD~vegetable,11004|WD~vegetable,11004]]'
+- '[[_Standards/WikiData/WD~medicinal_plant,188840|WD~medicinal_plant,188840]]'
+- '[[_Standards/WikiData/WD~fodder,211439|WD~fodder,211439]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Soybean.USDA.jpg
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 ITIS_TSN: 26716
 Krugosvet_article: biologiya/soya-obyknovennaya
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615|WD~WikiProject_Invasion_Biology,56241615]]'
 MeSH_tree_code: B01.875.800.575.912.250.401.750
 native_label: Kadelé
 NBN_System_Key: NBNSYS0000014913
 OmegaWiki_Defined_Meaning: 1194285
-parent_taxon: '[[_Standards/WikiData/WD~Glycine,311395]]'
+parent_taxon: '[[_Standards/WikiData/WD~Glycine,311395|WD~Glycine,311395]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q5137%20%28guj%29-Sushant%20savla-%E0%AA%B8%E0%AB%8B%E0%AA%AF%E0%AA%BE%E0%AA%AC%E0%AB%80%E0%AA%A8.wav
 sequenced_genome_URL: https://plants.ensembl.org/Glycine_max
 short_name: G. max
 subclass_of:
-- '[[_Standards/WikiData/WD~annual_plant,192691]]'
-- '[[_Standards/WikiData/WD~useful_plant,11992872]]'
+- '[[_Standards/WikiData/WD~annual_plant,192691|WD~annual_plant,192691]]'
+- '[[_Standards/WikiData/WD~useful_plant,11992872|WD~useful_plant,11992872]]'
 taxon_author_citation:
 - (L.) Merr.
 - L. Merr.
@@ -214,23 +214,23 @@ taxon_common_name:
 - 黄豆
 taxon_name: Glycine max
 taxon_range:
-- '[[_Standards/WikiData/WD~Beijing,956]]'
-- '[[_Standards/WikiData/WD~Guangdong,15175]]'
-- '[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Fujian,41705]]'
-taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
+- '[[_Standards/WikiData/WD~Beijing,956|WD~Beijing,956]]'
+- '[[_Standards/WikiData/WD~Guangdong,15175|WD~Guangdong,15175]]'
+- '[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269|WD~Tibet_Autonomous_Region,17269]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Fujian,41705|WD~Fujian,41705]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432|WD~species,7432]]'
 this_taxon_is_source_of:
-- '[[_Standards/WikiData/WD~soy_bean,61503220]]'
-- '[[_Standards/WikiData/WD~soy_extract,96094786]]'
-- '[[_Standards/WikiData/WD~soy_isoflavones,104636178]]'
-- '[[_Standards/WikiData/WD~soybean_oil,926892]]'
-- '[[_Standards/WikiData/WD~soya_lecithin,57657253]]'
+- '[[_Standards/WikiData/WD~soy_bean,61503220|WD~soy_bean,61503220]]'
+- '[[_Standards/WikiData/WD~soy_extract,96094786|WD~soy_extract,96094786]]'
+- '[[_Standards/WikiData/WD~soy_isoflavones,104636178|WD~soy_isoflavones,104636178]]'
+- '[[_Standards/WikiData/WD~soybean_oil,926892|WD~soybean_oil,926892]]'
+- '[[_Standards/WikiData/WD~soya_lecithin,57657253|WD~soya_lecithin,57657253]]'
 UMLS_CUI:
 - C0037733
 - C1262902
 UNII: NID9NUV93F
-writing_system: '[[_Standards/WikiData/WD~Latin_script,8229]]'
+writing_system: '[[_Standards/WikiData/WD~Latin_script,8229|WD~Latin_script,8229]]'
 dv_has_:
   name_:
     af: Glycine max

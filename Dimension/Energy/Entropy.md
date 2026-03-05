@@ -52,29 +52,29 @@ aliases:
 - 엔트로피
 has_id_wikidata: Q45003
 different_from:
-- '[[_Standards/WikiData/WD~enthalpy,161064]]'
-- '[[_Standards/WikiData/WD~Entropia,1218467]]'
+- '[[_Standards/WikiData/WD~enthalpy,161064|WD~enthalpy,161064]]'
+- '[[_Standards/WikiData/WD~Entropia,1218467|WD~Entropia,1218467]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~scalar_quantity,181175]]'
-- '[[_Standards/WikiData/WD~state_function,230937]]'
-- '[[_Standards/WikiData/WD~extensive_quantity,3386703]]'
-- '[[_Standards/WikiData/WD~additive_quantity,117865208]]'
-opposite_of: '[[_Standards/WikiData/WD~negentropy,252552]]'
-invariant_under: '[[_Standards/WikiData/WD~isentropic_process,907271]]'
+- '[[_Standards/WikiData/WD~scalar_quantity,181175|WD~scalar_quantity,181175]]'
+- '[[_Standards/WikiData/WD~state_function,230937|WD~state_function,230937]]'
+- '[[_Standards/WikiData/WD~extensive_quantity,3386703|WD~extensive_quantity,3386703]]'
+- '[[_Standards/WikiData/WD~additive_quantity,117865208|WD~additive_quantity,117865208]]'
+opposite_of: '[[_Standards/WikiData/WD~negentropy,252552|WD~negentropy,252552]]'
+invariant_under: '[[_Standards/WikiData/WD~isentropic_process,907271|WD~isentropic_process,907271]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~ISO_80000_5_2007_Quantities_and_units_Part_5_Thermodynamics,26711934]]'
-- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
-- '[[_Standards/WikiData/WD~ISO_80000_5_2019_Quantities_and_units_Part_5_Thermodynamics,92157468]]'
-- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~entropy_in_order_and_disorder,5380796]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~ISO_80000_5_2007_Quantities_and_units_Part_5_Thermodynamics,26711934|WD~ISO_80000_5_2007_Quantities_and_units_Part_5_Thermodynamics,26711934]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517|WD~Small_Soviet_Encyclopedia,66386517]]'
+- '[[_Standards/WikiData/WD~ISO_80000_5_2019_Quantities_and_units_Part_5_Thermodynamics,92157468|WD~ISO_80000_5_2019_Quantities_and_units_Part_5_Thermodynamics,92157468]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624|WD~Lean_Logic,101314624]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~entropy_in_order_and_disorder,5380796|WD~entropy_in_order_and_disorder,5380796]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 recommended_unit_of_measurement:
-- '[[_Standards/WikiData/WD~joule_per_kelvin,21393312]]'
-- '[[_Standards/WikiData/WD~kilogram_square_metre_per_square_second_kelvin,106707404]]'
+- '[[_Standards/WikiData/WD~joule_per_kelvin,21393312|WD~joule_per_kelvin,21393312]]'
+- '[[_Standards/WikiData/WD~kilogram_square_metre_per_square_second_kelvin,106707404|WD~kilogram_square_metre_per_square_second_kelvin,106707404]]'
 ISQ_dimension: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AB</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn></mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AC</mi></mrow><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5B3</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mo stretchy=\"false\">&#x2212;</mo><mn>2</mn></mrow></mrow></msup><msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">&#x0398;</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mo stretchy=\"false\">&#x2212;</mo><mn>1</mn></mrow></mrow></msup></mstyle></mrow></math>"
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>S</mi><mo stretchy="false">=</mo><mi>k</mi><mi>ln</mi><mo>&#x2061;</mo><mi>W</mi></mstyle></mrow></math>
-studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473]]'
+studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473|WD~thermodynamics,11473]]'
 Commons_category: Entropy
 in_defining_formula:
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>W</mi></mstyle></mrow></math>

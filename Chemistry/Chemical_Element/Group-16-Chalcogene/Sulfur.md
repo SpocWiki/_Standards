@@ -171,18 +171,18 @@ Commons_gallery: Sulfur
 CosIng_number: 75467
 density: 2.07
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]'
 different_from:
-- '[[_Standards/WikiData/WD~disulfur,5283603]]'
-- '[[_Standards/WikiData/WD~Kebrit,5805138]]'
-- '[[_Standards/WikiData/WD~Q20674464,20674464]]'
-- '[[_Standards/WikiData/WD~sulfur_atom,106570791]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Antoine_Lavoisier,39607]]'
+- '[[_Standards/WikiData/WD~disulfur,5283603|WD~disulfur,5283603]]'
+- '[[_Standards/WikiData/WD~Kebrit,5805138|WD~Kebrit,5805138]]'
+- '[[_Standards/WikiData/WD~Q20674464,20674464|WD~Q20674464,20674464]]'
+- '[[_Standards/WikiData/WD~sulfur_atom,106570791|WD~sulfur_atom,106570791]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Antoine_Lavoisier,39607|WD~Antoine_Lavoisier,39607]]'
 DSSTOX_compound_identifier: DTXCID7014941
 EC_number: 231-722-6
 electronegativity: 2.58
@@ -191,19 +191,19 @@ electron_configuration:
 - 1s² 2s² 2p⁶ 3s² 3p⁴
 element_symbol: S
 found_in_taxon:
-- '[[_Standards/WikiData/WD~Rutaceae,146030]]'
-- '[[_Standards/WikiData/WD~Ceratophyllum_demersum,157385]]'
-- '[[_Standards/WikiData/WD~Artemia_salina,1135229]]'
-- '[[_Standards/WikiData/WD~Clathria_pyramida,2319118]]'
-- '[[_Standards/WikiData/WD~Euodia,3060383]]'
-- '[[_Standards/WikiData/WD~Lyngbya_majuscula,20720044]]'
-has_use: '[[_Standards/WikiData/WD~ecological_crop_protection,65967059]]'
+- '[[_Standards/WikiData/WD~Rutaceae,146030|WD~Rutaceae,146030]]'
+- '[[_Standards/WikiData/WD~Ceratophyllum_demersum,157385|WD~Ceratophyllum_demersum,157385]]'
+- '[[_Standards/WikiData/WD~Artemia_salina,1135229|WD~Artemia_salina,1135229]]'
+- '[[_Standards/WikiData/WD~Clathria_pyramida,2319118|WD~Clathria_pyramida,2319118]]'
+- '[[_Standards/WikiData/WD~Euodia,3060383|WD~Euodia,3060383]]'
+- '[[_Standards/WikiData/WD~Lyngbya_majuscula,20720044|WD~Lyngbya_majuscula,20720044]]'
+has_use: '[[_Standards/WikiData/WD~ecological_crop_protection,65967059|WD~ecological_crop_protection,65967059]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sulfur%20-%20El%20Desierto%20mine%2C%20San%20Pablo%20de%20Napa%2C%20Daniel%20Campos%20Province%2C%20Potos%C3%AD%2C%20Bolivia.jpg
 InChI: InChI=1S/S
 InChIKey: NINIDFKCEFEMDL-UHFFFAOYSA-N
 instance_of:
-- '[[_Standards/WikiData/WD~chalcophile_element,1929547]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+- '[[_Standards/WikiData/WD~chalcophile_element,1929547|WD~chalcophile_element,1929547]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 ionic_radius:
 - 0.12
 - 0.29
@@ -224,14 +224,14 @@ oxidation_state:
 - 5
 - 6
 part_of:
-- '[[_Standards/WikiData/WD~group_16,104567]]'
-- '[[_Standards/WikiData/WD~period_3,211331]]'
+- '[[_Standards/WikiData/WD~group_16,104567|WD~group_16,104567]]'
+- '[[_Standards/WikiData/WD~period_3,211331|WD~period_3,211331]]'
 PubChem_CID: 5362487
 SpocWebEntityId: 21917
 subclass_of:
-- '[[_Standards/WikiData/WD~group_16,104567]]'
-- '[[_Standards/WikiData/WD~polyatomic_nonmetal,19753345]]'
-- '[[_Standards/WikiData/WD~nonmetal,19600]]'
+- '[[_Standards/WikiData/WD~group_16,104567|WD~group_16,104567]]'
+- '[[_Standards/WikiData/WD~polyatomic_nonmetal,19753345|WD~polyatomic_nonmetal,19753345]]'
+- '[[_Standards/WikiData/WD~nonmetal,19600|WD~nonmetal,19600]]'
 time_of_discovery_or_invention: 1777
 type: Element
 UMLS_CUI: C0038774
@@ -242,7 +242,7 @@ Wolfram_Language_entity_code: Entity["Mineral", "Sulfur"]
 ZVG_number: 8130
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Sulfur,682]]'
+  - '[[../../../WikiData/WD~Sulfur,682|WD~Sulfur,682]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Group-16-Chalcogene/Sulfur|Sulfur]]'
   - '[[/_public/Chemistry/Chemical_Element/Group-16-Chalcogene/Sulfur.public|Sulfur.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Group-16-Chalcogene/Sulfur.internal|Sulfur.internal]]'
@@ -250,7 +250,7 @@ dv_is_:
   - '[[/_private/Chemistry/Chemical_Element/Group-16-Chalcogene/Sulfur.private|Sulfur.private]]'
   - '[[/_personal/Chemistry/Chemical_Element/Group-16-Chalcogene/Sulfur.personal|Sulfur.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Group-16-Chalcogene/Sulfur.secret|Sulfur.secret]]'
-  part_of: '[[../Group-16-Chalcogene]]'
+  part_of: '[[../Group-16-Chalcogene|Group-16-Chalcogene]]'
 dv_has_:
   name_:
     abbreviated: S
@@ -505,7 +505,7 @@ dv_has_:
         kj_:
           mol: 0
 dv_is_same_as:
-- '[[../../../WikiData/WD~Sulfur,682]]'
+- '[[../../../WikiData/WD~Sulfur,682|WD~Sulfur,682]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Group-16-Chalcogene/Sulfur|Sulfur]]'
 - '[[/_public/Chemistry/Chemical_Element/Group-16-Chalcogene/Sulfur.public|Sulfur.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Group-16-Chalcogene/Sulfur.internal|Sulfur.internal]]'
@@ -514,7 +514,7 @@ dv_is_same_as:
 - '[[/_personal/Chemistry/Chemical_Element/Group-16-Chalcogene/Sulfur.personal|Sulfur.personal]]'
 - '[[/_secret/Chemistry/Chemical_Element/Group-16-Chalcogene/Sulfur.secret|Sulfur.secret]]'
 dv_has_name_group: Group-16-Chalcogene
-dv_is_part_of: '[[../Group-16-Chalcogene]]'
+dv_is_part_of: '[[../Group-16-Chalcogene|Group-16-Chalcogene]]'
 dv_has_name_en: Sulfur
 dv_has_name_de: Schwefel
 dv_has_value_for_weight_u: 32.066
@@ -540,7 +540,7 @@ dv_has_number_of_electrons: 16
 
 
 #chemic/Element 
-#is_/same_as :: [[../../../WikiData/WD~Sulfur,682]] 
+#is_/same_as :: [[../../../WikiData/WD~Sulfur,682|WD~Sulfur,682]] 
 
 has_name_group = `=this.dv_has_name_group` 
 is_part_of = `=this.dv_is_part_of` 

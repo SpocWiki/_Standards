@@ -141,7 +141,7 @@ dv_has_:
 
 # [[Dietary_Fiber]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~dietary_fiber,215210]]
+#is_/same_as :: [[_Standards/WikiData/WD~dietary_fiber,215210|WD~dietary_fiber,215210]]
 
 ## #has_/text_of_/abstract 
 

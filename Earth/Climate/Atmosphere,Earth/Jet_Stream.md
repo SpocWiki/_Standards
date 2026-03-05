@@ -55,12 +55,12 @@ aliases:
 - 高速氣流
 - 제트 기류
 has_id_wikidata: Q202325
-part_of: '[[_Standards/WikiData/WD~atmospheric_circulation,2615451]]'
+part_of: '[[_Standards/WikiData/WD~atmospheric_circulation,2615451|WD~atmospheric_circulation,2615451]]'
 instance_of:
-- '[[_Standards/WikiData/WD~thermal_wind,2721218]]'
-- '[[_Standards/WikiData/WD~Q31840982,31840982]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Wasaburo_Oishi,3180013]]'
-subclass_of: '[[_Standards/WikiData/WD~air_current,4698318]]'
+- '[[_Standards/WikiData/WD~thermal_wind,2721218|WD~thermal_wind,2721218]]'
+- '[[_Standards/WikiData/WD~Q31840982,31840982|WD~Q31840982,31840982]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Wasaburo_Oishi,3180013|WD~Wasaburo_Oishi,3180013]]'
+subclass_of: '[[_Standards/WikiData/WD~air_current,4698318|WD~air_current,4698318]]'
 OmegaWiki_Defined_Meaning: 920011
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20Superhighway.ogv
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Straalstroom.jpg
@@ -68,7 +68,7 @@ Dewey_Decimal_Classification: 551.5183
 Commons_category: Jet streams
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Jet_stream,202325]]'
+  - '[[../../../WikiData/WD~Jet_stream,202325|WD~Jet_stream,202325]]'
   - '[[/_Standards/Earth/Climate/Atmosphere,Earth/Jet_Stream|Jet_Stream]]'
   - '[[/_public/Earth/Climate/Atmosphere,Earth/Jet_Stream.public|Jet_Stream.public]]'
   - '[[/_internal/Earth/Climate/Atmosphere,Earth/Jet_Stream.internal|Jet_Stream.internal]]'
@@ -77,7 +77,7 @@ dv_is_:
   - '[[/_personal/Earth/Climate/Atmosphere,Earth/Jet_Stream.personal|Jet_Stream.personal]]'
   - '[[/_secret/Earth/Climate/Atmosphere,Earth/Jet_Stream.secret|Jet_Stream.secret]]'
 dv_is_same_as:
-- '[[../../../WikiData/WD~Jet_stream,202325]]'
+- '[[../../../WikiData/WD~Jet_stream,202325|WD~Jet_stream,202325]]'
 - '[[/_Standards/Earth/Climate/Atmosphere,Earth/Jet_Stream|Jet_Stream]]'
 - '[[/_public/Earth/Climate/Atmosphere,Earth/Jet_Stream.public|Jet_Stream.public]]'
 - '[[/_internal/Earth/Climate/Atmosphere,Earth/Jet_Stream.internal|Jet_Stream.internal]]'

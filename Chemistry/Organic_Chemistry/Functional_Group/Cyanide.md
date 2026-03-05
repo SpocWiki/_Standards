@@ -52,20 +52,20 @@ aliases:
 - 사이안화물
 has_id_wikidata: Q55076544
 different_from:
-- '[[_Standards/WikiData/WD~cyanide_anion,185076]]'
-- '[[_Standards/WikiData/WD~nitrile,333936]]'
-- '[[_Standards/WikiData/WD~cyanyl,3416481]]'
-- '[[_Standards/WikiData/WD~cyano_group,9281462]]'
-has_part_s_: '[[_Standards/WikiData/WD~cyanide_anion,185076]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~cyanide_anion,185076|WD~cyanide_anion,185076]]'
+- '[[_Standards/WikiData/WD~nitrile,333936|WD~nitrile,333936]]'
+- '[[_Standards/WikiData/WD~cyanyl,3416481|WD~cyanyl,3416481]]'
+- '[[_Standards/WikiData/WD~cyano_group,9281462|WD~cyano_group,9281462]]'
+has_part_s_: '[[_Standards/WikiData/WD~cyanide_anion,185076|WD~cyanide_anion,185076]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~carbon_compound,2901852]]'
-- '[[_Standards/WikiData/WD~nitrogen_compound,3685323]]'
-- '[[_Standards/WikiData/WD~salt,12370]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Cyanides,7215636]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Cyanides,25399444]]'
-instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
-smells_of: '[[_Standards/WikiData/WD~bitter_almond_fragrance,67443111]]'
+- '[[_Standards/WikiData/WD~carbon_compound,2901852|WD~carbon_compound,2901852]]'
+- '[[_Standards/WikiData/WD~nitrogen_compound,3685323|WD~nitrogen_compound,3685323]]'
+- '[[_Standards/WikiData/WD~salt,12370|WD~salt,12370]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Cyanides,7215636|WD~Category_Cyanides,7215636]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Cyanides,25399444|WD~Template_Cyanides,25399444]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
+smells_of: '[[_Standards/WikiData/WD~bitter_almond_fragrance,67443111|WD~bitter_almond_fragrance,67443111]]'
 ZVG_number: 520052
 Dewey_Decimal_Classification:
 - 661.894
@@ -75,7 +75,7 @@ MeSH_tree_code:
 - D01.248.497.158.291
 - D01.625.400.100
 dv_is_:
-  same_as: '[[_Standards/WikiData/WD~cyanide,55076544]]'
+  same_as: '[[_Standards/WikiData/WD~cyanide,55076544|WD~cyanide,55076544]]'
 dv_has_:
   formula_:
     structural: R-C≡N
@@ -150,7 +150,7 @@ dv_has_:
     war: Syanuro
     yue: 山埃
     zh: 氰化物
-dv_is_same_as: '[[_Standards/WikiData/WD~cyanide,55076544]]'
+dv_is_same_as: '[[_Standards/WikiData/WD~cyanide,55076544|WD~cyanide,55076544]]'
 dv_has_formula_structural: R-C≡N
 ---
 

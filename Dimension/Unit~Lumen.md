@@ -29,19 +29,19 @@ aliases:
 - 루멘
 has_id_wikidata: Q484092
 derived_from_base_unit:
-- '[[_Standards/WikiData/WD~candela,83216]]'
-- '[[_Standards/WikiData/WD~steradian,177612]]'
-measured_physical_quantity: '[[_Standards/WikiData/WD~luminous_flux,107780]]'
+- '[[_Standards/WikiData/WD~candela,83216|WD~candela,83216]]'
+- '[[_Standards/WikiData/WD~steradian,177612|WD~steradian,177612]]'
+measured_physical_quantity: '[[_Standards/WikiData/WD~luminous_flux,107780|WD~luminous_flux,107780]]'
 instance_of:
-- '[[_Standards/WikiData/WD~SI_derived_unit,208469]]'
-- '[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328]]'
-- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
-- '[[_Standards/WikiData/WD~unit_of_luminous_flux,126870833]]'
-different_from: '[[_Standards/WikiData/WD~Lumen,225602]]'
+- '[[_Standards/WikiData/WD~SI_derived_unit,208469|WD~SI_derived_unit,208469]]'
+- '[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328|WD~SI_unit_with_special_name,68618328]]'
+- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057|WD~UCUM_derived_unit,82047057]]'
+- '[[_Standards/WikiData/WD~unit_of_luminous_flux,126870833|WD~unit_of_luminous_flux,126870833]]'
+different_from: '[[_Standards/WikiData/WD~Lumen,225602|WD~Lumen,225602]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
+- '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764|WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630|WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
 conversion_to_SI_unit: 1
 OmegaWiki_Defined_Meaning: 341641
 UN_CEFACT_Common_Code: LUM

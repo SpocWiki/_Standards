@@ -43,10 +43,10 @@ aliases:
 - 조랑말
 has_id_wikidata: Q188828
 described_by_source:
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
-different_from: '[[_Standards/WikiData/WD~Kuc,87800199]]'
-subclass_of: '[[_Standards/WikiData/WD~horse,726]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636|WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
+different_from: '[[_Standards/WikiData/WD~Kuc,87800199|WD~Kuc,87800199]]'
+subclass_of: '[[_Standards/WikiData/WD~horse,726|WD~horse,726]]'
 U_S_National_Archives_Identifier: 10646943
 OmegaWiki_Defined_Meaning: 408219
 image: http://commons.wikimedia.org/wiki/Special:FilePath/IcelandicHorseInWinter.jpg

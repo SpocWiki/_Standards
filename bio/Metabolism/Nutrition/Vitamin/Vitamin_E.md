@@ -47,22 +47,22 @@ aliases:
 - 비타민 E
 has_id_wikidata: Q141180
 subject_has_role:
-- '[[_Standards/WikiData/WD~antioxidant,133948]]'
-- '[[_Standards/WikiData/WD~vitamin,34956]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Vitamin_E,7370326]]'
+- '[[_Standards/WikiData/WD~antioxidant,133948|WD~antioxidant,133948]]'
+- '[[_Standards/WikiData/WD~vitamin,34956|WD~vitamin,34956]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Vitamin_E,7370326|WD~Category_Vitamin_E,7370326]]'
 part_of:
-- '[[_Standards/WikiData/WD~response_to_vitamin_E,14819254]]'
-- '[[_Standards/WikiData/WD~cellular_response_to_vitamin_E,21095693]]'
-- '[[_Standards/WikiData/WD~vitamin_E_metabolic_process,21109917]]'
-- '[[_Standards/WikiData/WD~vitamin_E_binding,21110614]]'
-- '[[_Standards/WikiData/WD~vitamin_E_biosynthetic_process,21159195]]'
-instance_of: '[[_Standards/WikiData/WD~group_of_chemical_entities,55640599]]'
-LiverTox_likelihood_score: '[[_Standards/WikiData/WD~LiverTox_toxicity_likelihood_category_E,83284667]]'
+- '[[_Standards/WikiData/WD~response_to_vitamin_E,14819254|WD~response_to_vitamin_E,14819254]]'
+- '[[_Standards/WikiData/WD~cellular_response_to_vitamin_E,21095693|WD~cellular_response_to_vitamin_E,21095693]]'
+- '[[_Standards/WikiData/WD~vitamin_E_metabolic_process,21109917|WD~vitamin_E_metabolic_process,21109917]]'
+- '[[_Standards/WikiData/WD~vitamin_E_binding,21110614|WD~vitamin_E_binding,21110614]]'
+- '[[_Standards/WikiData/WD~vitamin_E_biosynthetic_process,21159195|WD~vitamin_E_biosynthetic_process,21159195]]'
+instance_of: '[[_Standards/WikiData/WD~group_of_chemical_entities,55640599|WD~group_of_chemical_entities,55640599]]'
+LiverTox_likelihood_score: '[[_Standards/WikiData/WD~LiverTox_toxicity_likelihood_category_E,83284667|WD~LiverTox_toxicity_likelihood_category_E,83284667]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~hydrogen,556]]'
-- '[[_Standards/WikiData/WD~carbon,623]]'
-- '[[_Standards/WikiData/WD~oxygen,629]]'
-subclass_of: '[[_Standards/WikiData/WD~vitamin,34956]]'
+- '[[_Standards/WikiData/WD~hydrogen,556|WD~hydrogen,556]]'
+- '[[_Standards/WikiData/WD~carbon,623|WD~carbon,623]]'
+- '[[_Standards/WikiData/WD~oxygen,629|WD~oxygen,629]]'
+subclass_of: '[[_Standards/WikiData/WD~vitamin,34956|WD~vitamin,34956]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/VitE.png
 CAS_Registry_Number: 1406-18-4
 EC_number: 606-803-8

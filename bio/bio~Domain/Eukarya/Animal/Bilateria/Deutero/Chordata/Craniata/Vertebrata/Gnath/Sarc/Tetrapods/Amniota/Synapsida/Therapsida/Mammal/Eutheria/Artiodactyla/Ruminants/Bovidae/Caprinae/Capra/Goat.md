@@ -183,36 +183,36 @@ aliases:
 - ꠛꠇꠞꠤ
 - 염소
 has_id_wikidata: Q2934
-taxon_rank: '[[_Standards/WikiData/WD~subspecies,68947]]'
-has_part_s_: '[[_Standards/WikiData/WD~horn,82025]]'
+taxon_rank: '[[_Standards/WikiData/WD~subspecies,68947|WD~subspecies,68947]]'
+has_part_s_: '[[_Standards/WikiData/WD~horn,82025|WD~horn,82025]]'
 this_taxon_is_source_of:
-- '[[_Standards/WikiData/WD~goat_meat,449506]]'
-- '[[_Standards/WikiData/WD~goat_milk,1418287]]'
-- '[[_Standards/WikiData/WD~goat_hair,29416902]]'
+- '[[_Standards/WikiData/WD~goat_meat,449506|WD~goat_meat,449506]]'
+- '[[_Standards/WikiData/WD~goat_milk,1418287|WD~goat_milk,1418287]]'
+- '[[_Standards/WikiData/WD~goat_hair,29416902|WD~goat_hair,29416902]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~productive_animal,1797813]]'
-- '[[_Standards/WikiData/WD~domesticated_mammal,57814795]]'
+- '[[_Standards/WikiData/WD~productive_animal,1797813|WD~productive_animal,1797813]]'
+- '[[_Standards/WikiData/WD~domesticated_mammal,57814795|WD~domesticated_mammal,57814795]]'
 taxon_known_by_this_common_name:
-- '[[_Standards/WikiData/WD~Capra_aegagrus_hircus,12404854]]'
-- '[[_Standards/WikiData/WD~Capra_hircus,45320358]]'
+- '[[_Standards/WikiData/WD~Capra_aegagrus_hircus,12404854|WD~Capra_aegagrus_hircus,12404854]]'
+- '[[_Standards/WikiData/WD~Capra_hircus,45320358|WD~Capra_hircus,45320358]]'
 depicted_by:
-- '[[_Standards/WikiData/WD~Capriccio_with_Classical_Arch_and_Goats,19686414]]'
-- '[[_Standards/WikiData/WD~Figura_femminile_sdraiata_con_capra,131613657]]'
-- '[[_Standards/WikiData/WD~Goat_who_suckled_a_child_(Capricorn),131613685]]'
-- '[[_Standards/WikiData/WD~Pan_and_a_Goat_mating,_from_the_Villa_of_the_Papyri,132247433]]'
+- '[[_Standards/WikiData/WD~Capriccio_with_Classical_Arch_and_Goats,19686414|WD~Capriccio_with_Classical_Arch_and_Goats,19686414]]'
+- '[[_Standards/WikiData/WD~Figura_femminile_sdraiata_con_capra,131613657|WD~Figura_femminile_sdraiata_con_capra,131613657]]'
+- '[[_Standards/WikiData/WD~Goat_who_suckled_a_child_(Capricorn),131613685|WD~Goat_who_suckled_a_child_(Capricorn),131613685]]'
+- '[[_Standards/WikiData/WD~Pan_and_a_Goat_mating,_from_the_Villa_of_the_Papyri,132247433|WD~Pan_and_a_Goat_mating,_from_the_Villa_of_the_Papyri,132247433]]'
 different_from:
-- '[[_Standards/WikiData/WD~Koza,24824197]]'
-- '[[_Standards/WikiData/WD~greatest_of_all_time,120920482]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Goats,59959228]]'
+- '[[_Standards/WikiData/WD~Koza,24824197|WD~Koza,24824197]]'
+- '[[_Standards/WikiData/WD~greatest_of_all_time,120920482|WD~greatest_of_all_time,120920482]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Goats,59959228|WD~WikiProject_Goats,59959228]]'
 has_use:
-- '[[_Standards/WikiData/WD~milk,8495]]'
-- '[[_Standards/WikiData/WD~meat,10990]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~milk,8495|WD~milk,8495]]'
+- '[[_Standards/WikiData/WD~meat,10990|WD~meat,10990]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 litter_size: 2
 life_expectancy: 15
 gestation_period: 22
@@ -467,7 +467,7 @@ Unicode_character: 🐐
 # [[Goat]] 🐐  
 
 
-![[Goat/Goat.jpg]]
+![[Goat/Goat.jpg|Goat.jpg]]
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Goat,2934|WD~Goat,2934]] 
 

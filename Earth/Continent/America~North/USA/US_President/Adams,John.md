@@ -75,7 +75,7 @@ tags:
 - ''
 title: Adams,John
 type: private_note
-dv_has_role: '[[../US_President]]'
+dv_has_role: '[[../US_President|US_President]]'
 dv_created: 1797-03-04
 dv_cancelled: 1801-03-04
 dv_has_:
@@ -291,7 +291,7 @@ has_time_started = `=this.dv_has_time_started`
 has_time_stopped = `=this.dv_has_time_stopped`
 is_member_of = `=this.dv_is_member_of`]] 
 
--   [has_role :: [[../US_President]] ] [created:: 1797-03-04]cancelled = `=this.dv_cancelled`
+-   [has_role :: [[../US_President|US_President]] ] [created:: 1797-03-04]cancelled = `=this.dv_cancelled`
 
 #is_/same_as :: [[../../../../WikiData/WD~John_Adams,11806|WD~John_Adams,11806]] 
 

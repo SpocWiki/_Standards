@@ -160,27 +160,27 @@ aliases:
 - 서사하라
 has_id_wikidata: Q6250
 area: 266000
-bibliography: '[[_Standards/WikiData/WD~bibliography_of_Western_Sahara,4903404]]'
+bibliography: '[[_Standards/WikiData/WD~bibliography_of_Western_Sahara,4903404|WD~bibliography_of_Western_Sahara,4903404]]'
 coordinates_of_westernmost_point: Point(-17.091666666 20.833333333)
 coordinate_location: Point(-13.0 25.0)
 location:
 - 27.1536
 - -13.2033
-category_for_people_born_here: '[[_Standards/WikiData/WD~Q18929684,18929684]]'
+category_for_people_born_here: '[[_Standards/WikiData/WD~Q18929684,18929684|WD~Q18929684,18929684]]'
 Commons_category: Western Sahara
 Commons_gallery: صحراء غربية - Sahara Occidental
 confidential: public
-continent: '[[_Standards/WikiData/WD~Africa,15]]'
+continent: '[[_Standards/WikiData/WD~Africa,15|WD~Africa,15]]'
 country:
-- '[[_Standards/WikiData/WD~Spanish_Empire,80702]]'
-- '[[_Standards/WikiData/WD~Spanish_Sahara,689837]]'
-- '[[_Standards/WikiData/WD~Spanish_West_Africa,1191986]]'
-- '[[_Standards/WikiData/WD~Sahrawi_Arab_Democratic_Republic,40362]]'
+- '[[_Standards/WikiData/WD~Spanish_Empire,80702|WD~Spanish_Empire,80702]]'
+- '[[_Standards/WikiData/WD~Spanish_Sahara,689837|WD~Spanish_Sahara,689837]]'
+- '[[_Standards/WikiData/WD~Spanish_West_Africa,1191986|WD~Spanish_West_Africa,1191986]]'
+- '[[_Standards/WikiData/WD~Sahrawi_Arab_Democratic_Republic,40362|WD~Sahrawi_Arab_Democratic_Republic,40362]]'
 country_calling_code: 212
 cssclasses:
 - Country
-culture: '[[_Standards/WikiData/WD~culture_of_Western_Sahara,3271104]]'
-demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Western_Sahara,979992]]'
+culture: '[[_Standards/WikiData/WD~culture_of_Western_Sahara,3271104|WD~culture_of_Western_Sahara,3271104]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Western_Sahara,979992|WD~demographics_of_Western_Sahara,979992]]'
 demonym:
 - صحراوي
 - صحراوية
@@ -189,27 +189,27 @@ demonym:
 - nyugat-szaharai
 - sahrāwī
 - Sahrawi
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604|WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
 Dewey_Decimal_Classification: 2--648
 different_from:
-- '[[_Standards/WikiData/WD~Río_de_Oro,929147]]'
-- '[[_Standards/WikiData/WD~Saharan_Morocco,14207244]]'
+- '[[_Standards/WikiData/WD~Río_de_Oro,929147|WD~Río_de_Oro,929147]]'
+- '[[_Standards/WikiData/WD~Saharan_Morocco,14207244|WD~Saharan_Morocco,14207244]]'
 draft: false
-driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Western_Sahara,5333811]]'
+driving_side: '[[_Standards/WikiData/WD~right,14565199|WD~right,14565199]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Western_Sahara,5333811|WD~economy_of_Western_Sahara,5333811]]'
 elevation_above_sea_level: 237
 expiryDate: ''
 FIPS_10_4_countries_and_regions_: WI
-flag: '[[_Standards/WikiData/WD~flag_of_Western_Sahara,39074811]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Western_Sahara,39074811|WD~flag_of_Western_Sahara,39074811]]'
 flag_image: http://commons.wikimedia.org/wiki/Special:FilePath/Flag%20of%20the%20Sahrawi%20Arab%20Democratic%20Republic.svg
-geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Western_Sahara,2747008]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Western_Sahara,2747008|WD~geography_of_Western_Sahara,2747008]]'
 geoshape: http://commons.wikimedia.org/data/main/Data:Western+Sahara.map
 GitHub_topic: western-sahara
 HASC: EH
 IAB_code: 1474
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Atlantic%20Ocean%20in%20Western%20Sahara.jpg
 INSEE_countries_and_foreign_territories_code: 99389
-instance_of: '[[_Standards/WikiData/WD~disputed_territory,15239622]]'
+instance_of: '[[_Standards/WikiData/WD~disputed_territory,15239622|WD~disputed_territory,15239622]]'
 isDeleted: false
 ISO_3166_1_alpha_2_code: EH
 ISO_3166_1_alpha_3_code: ESH
@@ -221,23 +221,23 @@ Languages:
 - ar
 - mey
 language_used:
-- '[[_Standards/WikiData/WD~Spanish,1321]]'
-- '[[_Standards/WikiData/WD~Hassaniya_Arabic,56231]]'
-- '[[_Standards/WikiData/WD~Moroccan_Arabic,56426]]'
-- '[[_Standards/WikiData/WD~Modern_Standard_Arabic,56467]]'
+- '[[_Standards/WikiData/WD~Spanish,1321|WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~Hassaniya_Arabic,56231|WD~Hassaniya_Arabic,56231]]'
+- '[[_Standards/WikiData/WD~Moroccan_Arabic,56426|WD~Moroccan_Arabic,56426]]'
+- '[[_Standards/WikiData/WD~Modern_Standard_Arabic,56467|WD~Modern_Standard_Arabic,56467]]'
 layout: ''
 Libris_URI: fcrtt0zz0tr5lv6
 license: CC BY-SA 4.0
 linkTitle: ''
-located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Atlantic_Ocean,97|WD~Atlantic_Ocean,97]]'
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~Africa_El_Aaiun,4689492]]'
-- '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
-- '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
+- '[[_Standards/WikiData/WD~Africa_El_Aaiun,4689492|WD~Africa_El_Aaiun,4689492]]'
+- '[[_Standards/WikiData/WD~UTC_00_00,6574|WD~UTC_00_00,6574]]'
+- '[[_Standards/WikiData/WD~UTC+01_00,6655|WD~UTC+01_00,6655]]'
 locator_map_image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Location%20Western%20Sahara%20AU%20Africa.svg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Western%20Sahara%20%28orthographic%20projection%29.svg
-lowest_point: '[[_Standards/WikiData/WD~Sebkha_Tah,3476951]]'
+lowest_point: '[[_Standards/WikiData/WD~Sebkha_Tah,3476951|WD~Sebkha_Tah,3476951]]'
 M49_code: 732
 native_label: الصحراء الغربية
 official_name:
@@ -248,17 +248,17 @@ official_name:
 - Western Sahara
 OmegaWiki_Defined_Meaning: 750643
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Tifariti%20%28Western%20Sahara%29%20banner%20Navarra%20hospital.jpg
-part_of: '[[_Standards/WikiData/WD~North_Africa,27381]]'
+part_of: '[[_Standards/WikiData/WD~North_Africa,27381|WD~North_Africa,27381]]'
 PM20_geo_code: C50
 population: 612000
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q22809485%20%28apc%29-Hassan%20Hassoon-%D8%A7%D9%84%D8%B5%D8%AD%D8%B1%D8%A7%D8%A1%20%D8%A7%D9%84%D8%BA%D8%B1%D8%A8%D9%8A%D8%A9.wav
 publish: true
 publishDate: ''
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Southern_Provinces,1418613]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Southern_Provinces,1418613|WD~Southern_Provinces,1418613]]'
 shares_border_with:
-- '[[_Standards/WikiData/WD~Algeria,262]]'
-- '[[_Standards/WikiData/WD~Mauritania,1025]]'
-- '[[_Standards/WikiData/WD~Morocco,1028]]'
+- '[[_Standards/WikiData/WD~Algeria,262|WD~Algeria,262]]'
+- '[[_Standards/WikiData/WD~Mauritania,1025|WD~Mauritania,1025]]'
+- '[[_Standards/WikiData/WD~Morocco,1028|WD~Morocco,1028]]'
 short_name: EH
 source: https://datahub.io/core/country-codes
 SpocWebEntityId: 26887
@@ -266,15 +266,15 @@ subreddit: WesternSahara
 tags:
 - geo/Country
 territory_claimed_by:
-- '[[_Standards/WikiData/WD~Morocco,1028]]'
-- '[[_Standards/WikiData/WD~Sahrawi_Arab_Democratic_Republic,40362]]'
+- '[[_Standards/WikiData/WD~Morocco,1028|WD~Morocco,1028]]'
+- '[[_Standards/WikiData/WD~Sahrawi_Arab_Democratic_Republic,40362|WD~Sahrawi_Arab_Democratic_Republic,40362]]'
 title: Western Sahara
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Western_Sahara,14614952]]'
-top_level_Internet_domain: '[[_Standards/WikiData/WD~.eh,433562]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Western_Sahara,14614952|WD~Portal_Western_Sahara,14614952]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.eh,433562|WD~.eh,433562]]'
 type: Country
 UMLS_CUI: C1520135
 U_S_National_Archives_Identifier: 10035840
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Western_Sahara,7112525]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Western_Sahara,7112525|WD~outline_of_Western_Sahara,7112525]]'
 WIPO_ST_3: EH
 Wolfram_Language_entity_code: Entity["Country", "WesternSahara"]
 dv_ISO4217-currency_alphabetic: MAD
@@ -295,7 +295,7 @@ dv_has_name_cn: 西撒哈拉
 dv_has_name_ar: الصحراء الغربية
 dv_has_name_ru: Западная Сахара
 dv_CLDR_display_name: Western Sahara
-dv_Region_Name: '[[../../Africa]]'
+dv_Region_Name: '[[../../Africa|Africa]]'
 dv_Intermediate_Region_Name: '[[Western_Sahara]]'
 dv_Sub-region_Name: '[[Northern Africa]]'
 dv_Region: 2
@@ -529,7 +529,7 @@ dv_has_:
 dv_has_name_de: Western Sahara
 dv_Area-Total: 267000
 dv_Area-Land: 0
-dv_has_place_continent: '[[../../Africa]]'
+dv_has_place_continent: '[[../../Africa|Africa]]'
 dv_VehicleCode: WSA
 dv_Capital: '[[El_Aaiún_(Laâyoune)]]'
 dv_has_place_longitude: -13.2033
@@ -623,7 +623,7 @@ ISO3 = `=this.dv_ISO3`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Western_Sahara/ReadMe]] 
+[[Western_Sahara/ReadMe|ReadMe]] 
 
 ## #has_/map 
 

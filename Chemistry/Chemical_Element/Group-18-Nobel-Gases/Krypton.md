@@ -74,14 +74,14 @@ chemical_formula: Kr
 Commons_category: Krypton
 Commons_gallery: Krypton
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-different_from: '[[_Standards/WikiData/WD~kryptonite,421669]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+different_from: '[[_Standards/WikiData/WD~kryptonite,421669|WD~kryptonite,421669]]'
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Morris_Travers,380209]]'
-- '[[_Standards/WikiData/WD~William_Ramsay,950726]]'
+- '[[_Standards/WikiData/WD~Morris_Travers,380209|WD~Morris_Travers,380209]]'
+- '[[_Standards/WikiData/WD~William_Ramsay,950726|WD~William_Ramsay,950726]]'
 DSSTOX_compound_identifier: DTXCID3047637
 EC_number: 231-098-5
 electronegativity: 3
@@ -90,26 +90,26 @@ electron_configuration:
 - 1s² 2s² 2p⁶ 3s² 3p⁶ 3d¹⁰ 4s² 4p⁶
 element_symbol: Kr
 has_characteristic:
-- '[[_Standards/WikiData/WD~colorlessness,11567495]]'
-- '[[_Standards/WikiData/WD~odorlessness,30007162]]'
-- '[[_Standards/WikiData/WD~tastelessness,30100868]]'
+- '[[_Standards/WikiData/WD~colorlessness,11567495|WD~colorlessness,11567495]]'
+- '[[_Standards/WikiData/WD~odorlessness,30007162|WD~odorlessness,30007162]]'
+- '[[_Standards/WikiData/WD~tastelessness,30100868|WD~tastelessness,30100868]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Krypton%20discharge%20tube.jpg
 InChI: InChI=1S/Kr
 InChIKey: DNNSSWSSYDEUBZ-UHFFFAOYSA-N
 instance_of:
-- '[[_Standards/WikiData/WD~atmophile_element,2313842]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
-- '[[_Standards/WikiData/WD~gas,11432]]'
-location_of_discovery: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- '[[_Standards/WikiData/WD~atmophile_element,2313842|WD~atmophile_element,2313842]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
+- '[[_Standards/WikiData/WD~gas,11432|WD~gas,11432]]'
+location_of_discovery: '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
 mass: 83.798
 MeSH_tree_code:
 - D01.362.641.468
 - D01.268.613.425
-named_after: '[[_Standards/WikiData/WD~hiding,30301727]]'
+named_after: '[[_Standards/WikiData/WD~hiding,30301727|WD~hiding,30301727]]'
 OmegaWiki_Defined_Meaning: 159828
 part_of:
-- '[[_Standards/WikiData/WD~period_4,239825]]'
-- '[[_Standards/WikiData/WD~noble_gases,19609]]'
+- '[[_Standards/WikiData/WD~period_4,239825|WD~period_4,239825]]'
+- '[[_Standards/WikiData/WD~noble_gases,19609|WD~noble_gases,19609]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Krypton-ar.oga
 PubChem_CID: 5416
 SpocWebEntityId: 21934
@@ -326,9 +326,9 @@ dv_has_:
         kj_:
           mol: 9.029
 dv_is_:
-  part_of: '[[../Group-18-Nobel-Gases]]'
+  part_of: '[[../Group-18-Nobel-Gases|Group-18-Nobel-Gases]]'
   same_as:
-  - '[[../../../WikiData/WD~Krypton,888]]'
+  - '[[../../../WikiData/WD~Krypton,888|WD~Krypton,888]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Krypton|Krypton]]'
   - '[[/_public/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Krypton.public|Krypton.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Krypton.internal|Krypton.internal]]'
@@ -337,7 +337,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Krypton.personal|Krypton.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Krypton.secret|Krypton.secret]]'
 dv_has_name_group: Group-18-Nobel-Gases
-dv_is_part_of: '[[../Group-18-Nobel-Gases]]'
+dv_is_part_of: '[[../Group-18-Nobel-Gases|Group-18-Nobel-Gases]]'
 dv_has_name_en: Krypton
 dv_has_name_de: Krypton
 dv_has_value_for_weight_u: 83.8
@@ -356,7 +356,7 @@ dv_has_value_for_energy_form_kj_mol: 9.029
 dv_has_number_of_period: 4
 dv_has_number_of_group: 18
 dv_is_same_as:
-- '[[../../../WikiData/WD~Krypton,888]]'
+- '[[../../../WikiData/WD~Krypton,888|WD~Krypton,888]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Krypton|Krypton]]'
 - '[[/_public/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Krypton.public|Krypton.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Krypton.internal|Krypton.internal]]'
@@ -401,7 +401,7 @@ has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol`
 has_number_of_period = `=this.dv_has_number_of_period` 
 has_number_of_group = `=this.dv_has_number_of_group` 
 
-#is_/same_as :: [[../../../WikiData/WD~Krypton,888]]  
+#is_/same_as :: [[../../../WikiData/WD~Krypton,888|WD~Krypton,888]]  
 
 
 ## #has_/text_of_/abstract 

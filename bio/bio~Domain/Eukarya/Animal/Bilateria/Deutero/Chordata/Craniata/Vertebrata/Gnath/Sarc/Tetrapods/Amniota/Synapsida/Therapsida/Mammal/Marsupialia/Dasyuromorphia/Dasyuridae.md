@@ -29,13 +29,13 @@ aliases:
 - 袋鼬科
 - 주머니고양이과
 has_id_wikidata: Q23133
-parent_taxon: '[[../../../../../../../../../../../../../../../../../../WikiData/WD~Dasyuromorphia,213333]]'
+parent_taxon: '[[../../../../../../../../../../../../../../../../../../WikiData/WD~Dasyuromorphia,213333|WD~Dasyuromorphia,213333]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]'
+code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011|WD~International_Code_of_Zoological_Nomenclature,13011]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409|WD~family,35409]]'
 ITIS_TSN: 552315
 image: http://commons.wikimedia.org/wiki/Special:FilePath/SpottedQuoll%202005%20SeanMcClean.jpg
 EPPO_Code: 1DSURF

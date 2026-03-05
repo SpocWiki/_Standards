@@ -83,21 +83,21 @@ aliases:
 has_id_wikidata: Q37517
 Dewey_Decimal_Classification: 578.012
 different_from:
-- '[[_Standards/WikiData/WD~Klass,453341]]'
-- '[[_Standards/WikiData/WD~Klasse,1744556]]'
-- '[[_Standards/WikiData/WD~Classis,3307293]]'
-- '[[_Standards/WikiData/WD~Class,3679160]]'
-- '[[_Standards/WikiData/WD~Clase,8346739]]'
-- '[[_Standards/WikiData/WD~Klasa,13085175]]'
+- '[[_Standards/WikiData/WD~Klass,453341|WD~Klass,453341]]'
+- '[[_Standards/WikiData/WD~Klasse,1744556|WD~Klasse,1744556]]'
+- '[[_Standards/WikiData/WD~Classis,3307293|WD~Classis,3307293]]'
+- '[[_Standards/WikiData/WD~Class,3679160|WD~Class,3679160]]'
+- '[[_Standards/WikiData/WD~Clase,8346739|WD~Clase,8346739]]'
+- '[[_Standards/WikiData/WD~Klasa,13085175|WD~Klasa,13085175]]'
 instance_of:
-- '[[_Standards/WikiData/WD~taxonomic_rank,427626]]'
-- '[[_Standards/WikiData/WD~rank_in_botany,3100180]]'
-- '[[_Standards/WikiData/WD~rank_in_zoology,13578154]]'
+- '[[_Standards/WikiData/WD~taxonomic_rank,427626|WD~taxonomic_rank,427626]]'
+- '[[_Standards/WikiData/WD~rank_in_botany,3100180|WD~rank_in_botany,3100180]]'
+- '[[_Standards/WikiData/WD~rank_in_zoology,13578154|WD~rank_in_zoology,13578154]]'
 OmegaWiki_Defined_Meaning: 797986
 part_of:
-- '[[_Standards/WikiData/WD~subphylum,1153785]]'
-- '[[_Standards/WikiData/WD~subdivision,3491997]]'
-- '[[_Standards/WikiData/WD~superclass,3504061]]'
+- '[[_Standards/WikiData/WD~subphylum,1153785|WD~subphylum,1153785]]'
+- '[[_Standards/WikiData/WD~subdivision,3491997|WD~subdivision,3491997]]'
+- '[[_Standards/WikiData/WD~superclass,3504061|WD~superclass,3504061]]'
 dv_has_:
   name_:
     af: klas
@@ -243,10 +243,10 @@ dv_has_:
 #is_a_/taxon_rank  
 #is_a :: [[Taxon_Rank]] 
 
-#has_/previous_/item :: [[../bio~Phylum]]  
-#has_/next_/item :: [[bio~Class/bio~Order]]  
+#has_/previous_/item :: [[../bio~Phylum|bio~Phylum]]  
+#has_/next_/item :: [[bio~Class/bio~Order|bio~Order]]  
 
-#is_/same_as :: [[../../../../../WikiData/WD~Class,37517]] 
+#is_/same_as :: [[../../../../../WikiData/WD~Class,37517|WD~Class,37517]] 
 
 ## #has_/text_of_/abstract 
 

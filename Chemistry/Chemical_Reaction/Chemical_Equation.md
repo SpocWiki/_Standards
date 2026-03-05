@@ -77,13 +77,13 @@ aliases:
 - 化學方程式
 - 화학반응식
 has_id_wikidata: Q182527
-has_part_s_: '[[_Standards/WikiData/WD~chemical_formula,83147]]'
-described_by_source: '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+has_part_s_: '[[_Standards/WikiData/WD~chemical_formula,83147|WD~chemical_formula,83147]]'
+described_by_source: '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~formula,976981]]'
-- '[[_Standards/WikiData/WD~equation,11345]]'
-different_from: '[[_Standards/WikiData/WD~equation,11345]]'
-depicts: '[[_Standards/WikiData/WD~chemical_reaction,36534]]'
+- '[[_Standards/WikiData/WD~formula,976981|WD~formula,976981]]'
+- '[[_Standards/WikiData/WD~equation,11345|WD~equation,11345]]'
+different_from: '[[_Standards/WikiData/WD~equation,11345|WD~equation,11345]]'
+depicts: '[[_Standards/WikiData/WD~chemical_reaction,36534|WD~chemical_reaction,36534]]'
 P8189: 987007284923405200
 Krugosvet_article: nauka_i_tehnika/himiya/HIMICHESKOE_URAVNENIE.html
 dv_is_:

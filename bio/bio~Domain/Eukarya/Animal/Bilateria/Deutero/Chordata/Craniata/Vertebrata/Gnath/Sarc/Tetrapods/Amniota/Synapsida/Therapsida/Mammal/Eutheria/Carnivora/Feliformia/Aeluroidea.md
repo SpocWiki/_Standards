@@ -7,8 +7,8 @@ aliases:
 - گربهواران
 - ネコ上科
 has_id_wikidata: Q4687717
-taxon_rank: '[[_Standards/WikiData/WD~infraorder,2889003]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~infraorder,2889003|WD~infraorder,2889003]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Feliform%20portraits.jpg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Panthera%20tigris%20corbetti%20090901.jpg
 taxon_name: Aeluroidea

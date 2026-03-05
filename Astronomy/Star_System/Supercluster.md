@@ -57,11 +57,11 @@ aliases:
 - 超銀河団
 - 초은하단
 has_id_wikidata: Q27521
-part_of: '[[_Standards/WikiData/WD~galaxy_filament,1133705]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_supercluster,14447026]]'
-has_part_s_: '[[_Standards/WikiData/WD~galaxy_group_or_cluster,14515149]]'
-instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
-subclass_of: '[[_Standards/WikiData/WD~astronomical_object,6999]]'
+part_of: '[[_Standards/WikiData/WD~galaxy_filament,1133705|WD~galaxy_filament,1133705]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_supercluster,14447026|WD~Template_Infobox_supercluster,14447026]]'
+has_part_s_: '[[_Standards/WikiData/WD~galaxy_group_or_cluster,14515149|WD~galaxy_group_or_cluster,14515149]]'
+instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909|WD~astronomical_object_type,17444909]]'
+subclass_of: '[[_Standards/WikiData/WD~astronomical_object,6999|WD~astronomical_object,6999]]'
 Dewey_Decimal_Classification: 523.112
 Commons_category: Superclusters of galaxies
 dv_is_:

@@ -31,9 +31,9 @@ aliases:
 - 甲型流感病毒H5N1亚型
 - 甲型流感病毒H5N1亞型
 has_id_wikidata: Q160122
-parent_taxon: '[[_Standards/WikiData/WD~influenza_A_virus,834390]]'
-has_effect: '[[_Standards/WikiData/WD~Transmission_and_infection_of_H5N1,7834633]]'
-instance_of: '[[_Standards/WikiData/WD~subtype,19862317]]'
+parent_taxon: '[[_Standards/WikiData/WD~influenza_A_virus,834390|WD~influenza_A_virus,834390]]'
+has_effect: '[[_Standards/WikiData/WD~Transmission_and_infection_of_H5N1,7834633|WD~Transmission_and_infection_of_H5N1,7834633]]'
+instance_of: '[[_Standards/WikiData/WD~subtype,19862317|WD~subtype,19862317]]'
 OmegaWiki_Defined_Meaning: 440383
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Colorized%20transmission%20electron%20micrograph%20of%20Avian%20influenza%20A%20H5N1%20viruses.jpg
 UNII: 6Z1X9E3UQD

@@ -1,7 +1,7 @@
 ---
 dv_is_:
   same_as:
-  - '[[../WikiData/WD~Interstellar_medium,41872]]'
+  - '[[../WikiData/WD~Interstellar_medium,41872|WD~Interstellar_medium,41872]]'
   - '[[/_Standards/Astronomy/Interstellar_Medium|Interstellar_Medium]]'
   - '[[/_public/Astronomy/Interstellar_Medium.public|Interstellar_Medium.public]]'
   - '[[/_internal/Astronomy/Interstellar_Medium.internal|Interstellar_Medium.internal]]'
@@ -10,7 +10,7 @@ dv_is_:
   - '[[/_personal/Astronomy/Interstellar_Medium.personal|Interstellar_Medium.personal]]'
   - '[[/_secret/Astronomy/Interstellar_Medium.secret|Interstellar_Medium.secret]]'
 dv_is_same_as:
-- '[[../WikiData/WD~Interstellar_medium,41872]]'
+- '[[../WikiData/WD~Interstellar_medium,41872|WD~Interstellar_medium,41872]]'
 - '[[/_Standards/Astronomy/Interstellar_Medium|Interstellar_Medium]]'
 - '[[/_public/Astronomy/Interstellar_Medium.public|Interstellar_Medium.public]]'
 - '[[/_internal/Astronomy/Interstellar_Medium.internal|Interstellar_Medium.internal]]'

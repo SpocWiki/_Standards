@@ -143,24 +143,24 @@ taxon_common_name:
 - Asian buffalo
 - Wild Water Buffalo
 - Kerbau
-parent_taxon: '[[../../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Bubalus,83521]]'
-subclass_of: '[[_Standards/WikiData/WD~cattle,4767951]]'
+parent_taxon: '[[../../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Bubalus,83521|WD~Bubalus,83521]]'
+subclass_of: '[[_Standards/WikiData/WD~cattle,4767951|WD~cattle,4767951]]'
 this_taxon_is_source_of:
-- '[[_Standards/WikiData/WD~water_buffalo_milk,7224064]]'
-- '[[_Standards/WikiData/WD~water_buffalo_horn,104414312]]'
-- '[[_Standards/WikiData/WD~water_buffalo_meat,104586325]]'
-- '[[_Standards/WikiData/WD~Water_buffalo_milk,135966254]]'
-described_by_source: '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
-original_combination: '[[_Standards/WikiData/WD~Bos_bubalis,109646856]]'
+- '[[_Standards/WikiData/WD~water_buffalo_milk,7224064|WD~water_buffalo_milk,7224064]]'
+- '[[_Standards/WikiData/WD~water_buffalo_horn,104414312|WD~water_buffalo_horn,104414312]]'
+- '[[_Standards/WikiData/WD~water_buffalo_meat,104586325|WD~water_buffalo_meat,104586325]]'
+- '[[_Standards/WikiData/WD~Water_buffalo_milk,135966254|WD~Water_buffalo_milk,135966254]]'
+described_by_source: '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875|WD~The_American_Cyclopædia,19077875]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615|WD~WikiProject_Invasion_Biology,56241615]]'
+original_combination: '[[_Standards/WikiData/WD~Bos_bubalis,109646856|WD~Bos_bubalis,109646856]]'
 named_after:
-- '[[_Standards/WikiData/WD~water,283]]'
-- '[[_Standards/WikiData/WD~Asia,48]]'
+- '[[_Standards/WikiData/WD~water,283|WD~water,283]]'
+- '[[_Standards/WikiData/WD~Asia,48|WD~Asia,48]]'
 invasive_to:
-- '[[_Standards/WikiData/WD~Australia,408]]'
-- '[[_Standards/WikiData/WD~Australian_continent,3960]]'
-taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~Australia,408|WD~Australia,408]]'
+- '[[_Standards/WikiData/WD~Australian_continent,3960|WD~Australian_continent,3960]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432|WD~species,7432]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 gestation_period: 320
 longest_observed_lifespan: 34.9
 OmegaWiki_Defined_Meaning: 529788

@@ -49,8 +49,8 @@ aliases:
 - 熱塩循環
 - 열염순환
 has_id_wikidata: Q463223
-class_of_object_s_of_occurrence: '[[_Standards/WikiData/WD~sea_water,184395]]'
-subclass_of: '[[_Standards/WikiData/WD~fluid_flow,12142910]]'
+class_of_object_s_of_occurrence: '[[_Standards/WikiData/WD~sea_water,184395|WD~sea_water,184395]]'
+subclass_of: '[[_Standards/WikiData/WD~fluid_flow,12142910|WD~fluid_flow,12142910]]'
 Colon_Classification: U256
 Commons_category: Ocean currents
 distribution_map:

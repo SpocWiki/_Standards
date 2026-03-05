@@ -33,9 +33,9 @@ aliases:
 - 马恩岛猫
 - 맹크스
 has_id_wikidata: Q42675
-named_after: '[[_Standards/WikiData/WD~Isle_of_Man,27508141]]'
-country_of_origin: '[[_Standards/WikiData/WD~Isle_of_Man,9676]]'
-instance_of: '[[_Standards/WikiData/WD~cat_breed,43577]]'
+named_after: '[[_Standards/WikiData/WD~Isle_of_Man,27508141|WD~Isle_of_Man,27508141]]'
+country_of_origin: '[[_Standards/WikiData/WD~Isle_of_Man,9676|WD~Isle_of_Man,9676]]'
+instance_of: '[[_Standards/WikiData/WD~cat_breed,43577|WD~cat_breed,43577]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Manx%20cat%20by%20Karen%20Weaver.jpg
 Commons_category: Manx cats
 dv_has_:

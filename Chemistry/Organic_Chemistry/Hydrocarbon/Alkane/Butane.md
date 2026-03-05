@@ -58,23 +58,23 @@ SPLASH:
 - splash10-0udi-9000000000-7f105779e8c3a49c8430
 Dewey_Decimal_Classification: 665.773
 found_in_taxon:
-- '[[_Standards/WikiData/WD~Calendula_officinalis,145930]]'
-- '[[_Standards/WikiData/WD~Stemona_tuberosa,2249619]]'
-- '[[_Standards/WikiData/WD~Fragaria,745]]'
+- '[[_Standards/WikiData/WD~Calendula_officinalis,145930|WD~Calendula_officinalis,145930]]'
+- '[[_Standards/WikiData/WD~Stemona_tuberosa,2249619|WD~Stemona_tuberosa,2249619]]'
+- '[[_Standards/WikiData/WD~Fragaria,745|WD~Fragaria,745]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~carcinogen,187661]]'
-- '[[_Standards/WikiData/WD~flammable_gas,10913792]]'
+- '[[_Standards/WikiData/WD~carcinogen,187661|WD~carcinogen,187661]]'
+- '[[_Standards/WikiData/WD~flammable_gas,10913792|WD~flammable_gas,10913792]]'
 has_use:
-- '[[_Standards/WikiData/WD~refrigerant,266790]]'
-- '[[_Standards/WikiData/WD~Q1875049,1875049]]'
-described_by_source: '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-different_from: '[[_Standards/WikiData/WD~Butan,1163367]]'
+- '[[_Standards/WikiData/WD~refrigerant,266790|WD~refrigerant,266790]]'
+- '[[_Standards/WikiData/WD~Q1875049,1875049|WD~Q1875049,1875049]]'
+described_by_source: '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+different_from: '[[_Standards/WikiData/WD~Butan,1163367|WD~Butan,1163367]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~butane,5130692]]'
-- '[[_Standards/WikiData/WD~biogenic_aliphatic_hydrocarbon,109910560]]'
-associated_hazard: '[[_Standards/WikiData/WD~butane_exposure,21173320]]'
-safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
+- '[[_Standards/WikiData/WD~butane,5130692|WD~butane,5130692]]'
+- '[[_Standards/WikiData/WD~biogenic_aliphatic_hydrocarbon,109910560|WD~biogenic_aliphatic_hydrocarbon,109910560]]'
+associated_hazard: '[[_Standards/WikiData/WD~butane_exposure,21173320|WD~butane_exposure,21173320]]'
+safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288|WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171|WD~type_of_chemical_entity,113145171]]'
 mass:
 - 58.07825032
 - 58.078

@@ -87,24 +87,24 @@ aliases:
 - 채식주의
 has_id_wikidata: Q83364
 different_from:
-- '[[_Standards/WikiData/WD~veganism,181138]]'
-- '[[_Standards/WikiData/WD~semi_vegetarianism,2464040]]'
-- '[[_Standards/WikiData/WD~vegan_nutrition,7918284]]'
-- '[[_Standards/WikiData/WD~vegetalismo,7918350]]'
+- '[[_Standards/WikiData/WD~veganism,181138|WD~veganism,181138]]'
+- '[[_Standards/WikiData/WD~semi_vegetarianism,2464040|WD~semi_vegetarianism,2464040]]'
+- '[[_Standards/WikiData/WD~vegan_nutrition,7918284|WD~vegan_nutrition,7918284]]'
+- '[[_Standards/WikiData/WD~vegetalismo,7918350|WD~vegetalismo,7918350]]'
 instance_of:
-- '[[_Standards/WikiData/WD~diet,474191]]'
-- '[[_Standards/WikiData/WD~dietary_restriction,118612017]]'
+- '[[_Standards/WikiData/WD~diet,474191|WD~diet,474191]]'
+- '[[_Standards/WikiData/WD~dietary_restriction,118612017|WD~dietary_restriction,118612017]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-cuisine: '[[_Standards/WikiData/WD~Q638022,638022]]'
-practiced_by: '[[_Standards/WikiData/WD~vegetarian,18338317]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Vegetarianism,19679809]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+cuisine: '[[_Standards/WikiData/WD~Q638022,638022|WD~Q638022,638022]]'
+practiced_by: '[[_Standards/WikiData/WD~vegetarian,18338317|WD~vegetarian,18338317]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Vegetarianism,19679809|WD~Portal_Vegetarianism,19679809]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~lifestyle,32090]]'
-- '[[_Standards/WikiData/WD~social_movement,49773]]'
+- '[[_Standards/WikiData/WD~lifestyle,32090|WD~lifestyle,32090]]'
+- '[[_Standards/WikiData/WD~social_movement,49773|WD~social_movement,49773]]'
 IAB_code: 213
 Dewey_Decimal_Classification: 179.3
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Soy-whey-protein-diet.jpg

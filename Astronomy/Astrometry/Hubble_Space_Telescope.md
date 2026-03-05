@@ -114,54 +114,54 @@ Google_Doodle: hubble-space-telescopes-20th-anniversary
 Instagram_username: nasahubble
 time_of_object_orbit_decay: 2030-01-01T00:00:00Z
 significant_event:
-- '[[_Standards/WikiData/WD~STS_61,113808]]'
-- '[[_Standards/WikiData/WD~STS_125,217546]]'
-- '[[_Standards/WikiData/WD~atmospheric_entry,531716]]'
-- '[[_Standards/WikiData/WD~STS_109,773916]]'
-- '[[_Standards/WikiData/WD~rocket_launch,797476]]'
-- '[[_Standards/WikiData/WD~STS_103,834666]]'
-- '[[_Standards/WikiData/WD~STS_82,842344]]'
-- '[[_Standards/WikiData/WD~first_light,1306940]]'
-- '[[_Standards/WikiData/WD~deployment,110279643]]'
-instance_of: '[[_Standards/WikiData/WD~space_telescope,148578]]'
+- '[[_Standards/WikiData/WD~STS_61,113808|WD~STS_61,113808]]'
+- '[[_Standards/WikiData/WD~STS_125,217546|WD~STS_125,217546]]'
+- '[[_Standards/WikiData/WD~atmospheric_entry,531716|WD~atmospheric_entry,531716]]'
+- '[[_Standards/WikiData/WD~STS_109,773916|WD~STS_109,773916]]'
+- '[[_Standards/WikiData/WD~rocket_launch,797476|WD~rocket_launch,797476]]'
+- '[[_Standards/WikiData/WD~STS_103,834666|WD~STS_103,834666]]'
+- '[[_Standards/WikiData/WD~STS_82,842344|WD~STS_82,842344]]'
+- '[[_Standards/WikiData/WD~first_light,1306940|WD~first_light,1306940]]'
+- '[[_Standards/WikiData/WD~deployment,110279643|WD~deployment,110279643]]'
+instance_of: '[[_Standards/WikiData/WD~space_telescope,148578|WD~space_telescope,148578]]'
 followed_by:
-- '[[_Standards/WikiData/WD~James_Webb_Space_Telescope,186447]]'
-- '[[_Standards/WikiData/WD~Compton_Gamma_Ray_Observatory,41519]]'
+- '[[_Standards/WikiData/WD~James_Webb_Space_Telescope,186447|WD~James_Webb_Space_Telescope,186447]]'
+- '[[_Standards/WikiData/WD~Compton_Gamma_Ray_Observatory,41519|WD~Compton_Gamma_Ray_Observatory,41519]]'
 carries_scientific_instrument:
-- '[[_Standards/WikiData/WD~Wide_Field_Camera_3,209981]]'
-- '[[_Standards/WikiData/WD~Advanced_Camera_for_Surveys,506269]]'
-- '[[_Standards/WikiData/WD~Cosmic_Origins_Spectrograph,844316]]'
-- '[[_Standards/WikiData/WD~Space_Telescope_Imaging_Spectrograph,933358]]'
-- '[[_Standards/WikiData/WD~Fine_Guidance_Sensor,30600611]]'
+- '[[_Standards/WikiData/WD~Wide_Field_Camera_3,209981|WD~Wide_Field_Camera_3,209981]]'
+- '[[_Standards/WikiData/WD~Advanced_Camera_for_Surveys,506269|WD~Advanced_Camera_for_Surveys,506269]]'
+- '[[_Standards/WikiData/WD~Cosmic_Origins_Spectrograph,844316|WD~Cosmic_Origins_Spectrograph,844316]]'
+- '[[_Standards/WikiData/WD~Space_Telescope_Imaging_Spectrograph,933358|WD~Space_Telescope_Imaging_Spectrograph,933358]]'
+- '[[_Standards/WikiData/WD~Fine_Guidance_Sensor,30600611|WD~Fine_Guidance_Sensor,30600611]]'
 developer:
-- '[[_Standards/WikiData/WD~Marshall_Space_Flight_Center,618696]]'
-- '[[_Standards/WikiData/WD~Goddard_Space_Flight_Center,52152]]'
-type_of_orbit: '[[_Standards/WikiData/WD~low_Earth_orbit,663611]]'
+- '[[_Standards/WikiData/WD~Marshall_Space_Flight_Center,618696|WD~Marshall_Space_Flight_Center,618696]]'
+- '[[_Standards/WikiData/WD~Goddard_Space_Flight_Center,52152|WD~Goddard_Space_Flight_Center,52152]]'
+type_of_orbit: '[[_Standards/WikiData/WD~low_Earth_orbit,663611|WD~low_Earth_orbit,663611]]'
 powered_by:
-- '[[_Standards/WikiData/WD~nickel_hydrogen_battery,900403]]'
-- '[[_Standards/WikiData/WD~spacecraft_solar_array,7556726]]'
-part_of: '[[_Standards/WikiData/WD~Great_Observatories_program,901553]]'
-launch_contractor: '[[_Standards/WikiData/WD~Rockwell_International,1348664]]'
+- '[[_Standards/WikiData/WD~nickel_hydrogen_battery,900403|WD~nickel_hydrogen_battery,900403]]'
+- '[[_Standards/WikiData/WD~spacecraft_solar_array,7556726|WD~spacecraft_solar_array,7556726]]'
+part_of: '[[_Standards/WikiData/WD~Great_Observatories_program,901553|WD~Great_Observatories_program,901553]]'
+launch_contractor: '[[_Standards/WikiData/WD~Rockwell_International,1348664|WD~Rockwell_International,1348664]]'
 operator:
-- '[[_Standards/WikiData/WD~Space_Telescope_Science_Institute,1540619]]'
-- '[[_Standards/WikiData/WD~Goddard_Space_Flight_Center,52152]]'
+- '[[_Standards/WikiData/WD~Space_Telescope_Science_Institute,1540619|WD~Space_Telescope_Science_Institute,1540619]]'
+- '[[_Standards/WikiData/WD~Goddard_Space_Flight_Center,52152|WD~Goddard_Space_Flight_Center,52152]]'
 manufacturer:
-- '[[_Standards/WikiData/WD~PerkinElmer,2066858]]'
-- '[[_Standards/WikiData/WD~Lockheed_Martin_Missiles_and_Space,6665621]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Hubble_Space_Telescope,11038799]]'
-described_by_source: '[[_Standards/WikiData/WD~Lentapedia,17290934]]'
-start_point: '[[_Standards/WikiData/WD~Kennedy_Space_Center_Launch_Complex_39B,24256506]]'
+- '[[_Standards/WikiData/WD~PerkinElmer,2066858|WD~PerkinElmer,2066858]]'
+- '[[_Standards/WikiData/WD~Lockheed_Martin_Missiles_and_Space,6665621|WD~Lockheed_Martin_Missiles_and_Space,6665621]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Hubble_Space_Telescope,11038799|WD~Template_Hubble_Space_Telescope,11038799]]'
+described_by_source: '[[_Standards/WikiData/WD~Lentapedia,17290934|WD~Lentapedia,17290934]]'
+start_point: '[[_Standards/WikiData/WD~Kennedy_Space_Center_Launch_Complex_39B,24256506|WD~Kennedy_Space_Center_Launch_Complex_39B,24256506]]'
 funder:
-- '[[_Standards/WikiData/WD~National_Aeronautics_and_Space_Administration,23548]]'
-- '[[_Standards/WikiData/WD~European_Space_Agency,42262]]'
-parent_astronomical_body: '[[_Standards/WikiData/WD~Earth,2]]'
-country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~National_Aeronautics_and_Space_Administration,23548|WD~National_Aeronautics_and_Space_Administration,23548]]'
+- '[[_Standards/WikiData/WD~European_Space_Agency,42262|WD~European_Space_Agency,42262]]'
+parent_astronomical_body: '[[_Standards/WikiData/WD~Earth,2|WD~Earth,2]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 diameter:
 - 2.4
 - 0.31
 - 4.2
-named_after: '[[_Standards/WikiData/WD~Edwin_Hubble,43027]]'
-space_launch_vehicle: '[[_Standards/WikiData/WD~Space_Shuttle,48806]]'
+named_after: '[[_Standards/WikiData/WD~Edwin_Hubble,43027|WD~Edwin_Hubble,43027]]'
+space_launch_vehicle: '[[_Standards/WikiData/WD~Space_Shuttle,48806|WD~Space_Shuttle,48806]]'
 focal_length: 57.6
 Minor_Planet_Center_observatory_code: 250
 area:

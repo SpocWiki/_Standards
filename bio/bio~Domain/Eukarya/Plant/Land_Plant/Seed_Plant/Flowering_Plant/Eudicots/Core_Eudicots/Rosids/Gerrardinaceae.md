@@ -145,7 +145,7 @@ fleshy berries with 1-4 seeds. *Seeds* exarillate; embryo minute, erect.
 ## Title Illustrations
 
 -------------------
-[[Gerrardinaceae/gerrardina_blossom.jpg]]
+[[Gerrardinaceae/gerrardina_blossom.jpg|gerrardina_blossom.jpg]]
 scientific_name ::     Gerrardina foliosa
 location ::           South Africa: Eastern Cape Province: Lupatana
 specimen_condition ::  Live Specimen
@@ -157,7 +157,7 @@ copyright ::            © 2006 [Tony Dold](http://www.ru.ac.za/botany)
 
 
 -------------------
-![[Gerrardinaceae/gerrardina_Fruit.jpg]]
+![[Gerrardinaceae/gerrardina_Fruit.jpg|gerrardina_Fruit.jpg]]
 scientific_name ::     Gerrardina foliosa
 location ::           South Africa: Eastern Cape Province: Lupatana
 specimen_condition ::  Live Specimen

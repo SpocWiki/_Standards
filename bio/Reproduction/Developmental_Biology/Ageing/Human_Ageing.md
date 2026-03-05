@@ -77,24 +77,24 @@ aliases:
 - 노화
 has_id_wikidata: Q332154
 different_from:
-- '[[_Standards/WikiData/WD~age_of_a_person,185836]]'
-- '[[_Standards/WikiData/WD~senescence,2070979]]'
+- '[[_Standards/WikiData/WD~age_of_a_person,185836|WD~age_of_a_person,185836]]'
+- '[[_Standards/WikiData/WD~senescence,2070979|WD~senescence,2070979]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~senescence,2070979]]'
-- '[[_Standards/WikiData/WD~developmental_process,2843407]]'
-- '[[_Standards/WikiData/WD~degradation,94643648]]'
-part_of: '[[_Standards/WikiData/WD~developmental_process,2843407]]'
+- '[[_Standards/WikiData/WD~senescence,2070979|WD~senescence,2070979]]'
+- '[[_Standards/WikiData/WD~developmental_process,2843407|WD~developmental_process,2843407]]'
+- '[[_Standards/WikiData/WD~degradation,94643648|WD~degradation,94643648]]'
+part_of: '[[_Standards/WikiData/WD~developmental_process,2843407|WD~developmental_process,2843407]]'
 instance_of:
-- '[[_Standards/WikiData/WD~biological_process,2996394]]'
-- '[[_Standards/WikiData/WD~failure_mode,100151658]]'
+- '[[_Standards/WikiData/WD~biological_process,2996394|WD~biological_process,2996394]]'
+- '[[_Standards/WikiData/WD~failure_mode,100151658|WD~failure_mode,100151658]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-has_cause: '[[_Standards/WikiData/WD~increase,9073584]]'
-has_characteristic: '[[_Standards/WikiData/WD~Hallmarks_of_aging,107751190]]'
+- '[[_Standards/WikiData/WD~Pax_Leksikon,3351707|WD~Pax_Leksikon,3351707]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+has_cause: '[[_Standards/WikiData/WD~increase,9073584|WD~increase,9073584]]'
+has_characteristic: '[[_Standards/WikiData/WD~Hallmarks_of_aging,107751190|WD~Hallmarks_of_aging,107751190]]'
 studied_by:
-- '[[_Standards/WikiData/WD~ageing_research,110477187]]'
-- '[[_Standards/WikiData/WD~gerontology,10387]]'
+- '[[_Standards/WikiData/WD~ageing_research,110477187|WD~ageing_research,110477187]]'
+- '[[_Standards/WikiData/WD~gerontology,10387|WD~gerontology,10387]]'
 U_S_National_Archives_Identifier: 10638241
 Dewey_Decimal_Classification:
 - 612.67

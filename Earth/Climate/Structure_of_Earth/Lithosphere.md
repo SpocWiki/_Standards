@@ -68,18 +68,18 @@ aliases:
 - 암권
 has_id_wikidata: Q83296
 has_part_s_:
-- '[[_Standards/WikiData/WD~tectonic_plate,215680]]'
-- '[[_Standards/WikiData/WD~Q25569549,25569549]]'
-instance_of: '[[_Standards/WikiData/WD~geosphere,241284]]'
+- '[[_Standards/WikiData/WD~tectonic_plate,215680|WD~tectonic_plate,215680]]'
+- '[[_Standards/WikiData/WD~Q25569549,25569549|WD~Q25569549,25569549]]'
+instance_of: '[[_Standards/WikiData/WD~geosphere,241284|WD~geosphere,241284]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-subclass_of: '[[_Standards/WikiData/WD~layer,23497981]]'
-studied_by: '[[_Standards/WikiData/WD~geology,1069]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+subclass_of: '[[_Standards/WikiData/WD~layer,23497981|WD~layer,23497981]]'
+studied_by: '[[_Standards/WikiData/WD~geology,1069|WD~geology,1069]]'
 part_of:
-- '[[_Standards/WikiData/WD~Earth,2]]'
-- '[[_Standards/WikiData/WD~geomorphology,52109]]'
+- '[[_Standards/WikiData/WD~Earth,2|WD~Earth,2]]'
+- '[[_Standards/WikiData/WD~geomorphology,52109|WD~geomorphology,52109]]'
 Commons_category: Lithospheres
 exact_match: http://purl.obolibrary.org/obo/ENVO_01000646
 Krugosvet_article: nauka_i_tehnika/himiya/LITOSFERA.html

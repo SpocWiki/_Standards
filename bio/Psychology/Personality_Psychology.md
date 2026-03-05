@@ -67,13 +67,13 @@ aliases:
 - 성격심리학
 has_id_wikidata: Q271716
 subclass_of:
-- '[[_Standards/WikiData/WD~basic_science,4867047]]'
-- '[[_Standards/WikiData/WD~psychology,9418]]'
-instance_of: '[[_Standards/WikiData/WD~branch_of_psychology,60680430]]'
+- '[[_Standards/WikiData/WD~basic_science,4867047|WD~basic_science,4867047]]'
+- '[[_Standards/WikiData/WD~psychology,9418|WD~psychology,9418]]'
+instance_of: '[[_Standards/WikiData/WD~branch_of_psychology,60680430|WD~branch_of_psychology,60680430]]'
 part_of:
-- '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
-- '[[_Standards/WikiData/WD~social_and_personality_psychology,113212938]]'
-topic_has_template: '[[_Standards/WikiData/WD~Q125375774,125375774]]'
+- '[[_Standards/WikiData/WD~psychology_terminology,77468620|WD~psychology_terminology,77468620]]'
+- '[[_Standards/WikiData/WD~social_and_personality_psychology,113212938|WD~social_and_personality_psychology,113212938]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q125375774,125375774|WD~Q125375774,125375774]]'
 Provenio_UUID: e95a9e09-42b9-4125-8f67-dfb9353c8054
 dv_has_:
   name_:

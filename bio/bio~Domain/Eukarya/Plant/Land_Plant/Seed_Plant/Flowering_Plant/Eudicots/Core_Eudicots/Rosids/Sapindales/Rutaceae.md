@@ -115,17 +115,17 @@ taxon_common_name:
 - Rutacées
 MeSH_tree_code:
 - B01.875.800.575.912.250.875
-has_fruit_type: '[[_Standards/WikiData/WD~capsule,147768]]'
-taxonomic_type: '[[_Standards/WikiData/WD~Ruta,165250]]'
+has_fruit_type: '[[_Standards/WikiData/WD~capsule,147768|WD~capsule,147768]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Ruta,165250|WD~Ruta,165250]]'
 described_by_source:
-- '[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary._Second_Edition._Volume_2,_1909,24718039]]'
-- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_43(2),112869427]]'
+- '[[../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary._Second_Edition._Volume_2,_1909,24718039|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary._Second_Edition._Volume_2,_1909,24718039]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_43(2),112869427|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_43(2),112869427]]'
 instance_of:
-- '[[_Standards/WikiData/WD~taxon,16521]]'
-parent_taxon: '[[_Standards/WikiData/WD~Sapindales,26316]]'
-taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+- '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+parent_taxon: '[[_Standards/WikiData/WD~Sapindales,26316|WD~Sapindales,26316]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409|WD~family,35409]]'
 ITIS_TSN: 28848
 Dewey_Decimal_Classification: 583.77
 image:
@@ -251,7 +251,7 @@ dv_has_:
 
 # [[Rutaceae]]  
 
-#is_/same_as :: [[_Standards/WikiData/WD~Rutaceae,146030]]
+#is_/same_as :: [[_Standards/WikiData/WD~Rutaceae,146030|WD~Rutaceae,146030]]
 
 ## #has_/text_of_/abstract 
 

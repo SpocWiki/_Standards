@@ -113,53 +113,53 @@ aliases:
 has_id_wikidata: Q48277
 Krugosvet_article: nauka_i_tehnika/biologiya/POL_I_GENDER.html
 different_from:
-- '[[_Standards/WikiData/WD~grammatical_gender,162378]]'
-- '[[_Standards/WikiData/WD~sex_of_humans,4369513]]'
-- '[[_Standards/WikiData/WD~connector_gender,5531000]]'
-- '[[_Standards/WikiData/WD~gender_ideology,64481821]]'
-- '[[_Standards/WikiData/WD~sex,290]]'
-- '[[_Standards/WikiData/WD~human_sexual_behavior,608]]'
+- '[[_Standards/WikiData/WD~grammatical_gender,162378|WD~grammatical_gender,162378]]'
+- '[[_Standards/WikiData/WD~sex_of_humans,4369513|WD~sex_of_humans,4369513]]'
+- '[[_Standards/WikiData/WD~connector_gender,5531000|WD~connector_gender,5531000]]'
+- '[[_Standards/WikiData/WD~gender_ideology,64481821|WD~gender_ideology,64481821]]'
+- '[[_Standards/WikiData/WD~sex,290|WD~sex,290]]'
+- '[[_Standards/WikiData/WD~human_sexual_behavior,608|WD~human_sexual_behavior,608]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~social_norm,205665]]'
-- '[[_Standards/WikiData/WD~identity,844569]]'
+- '[[_Standards/WikiData/WD~social_norm,205665|WD~social_norm,205665]]'
+- '[[_Standards/WikiData/WD~identity,844569|WD~identity,844569]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~femininity,866081]]'
-- '[[_Standards/WikiData/WD~masculinity,1076509]]'
-- '[[_Standards/WikiData/WD~gender_role,2672163]]'
-- '[[_Standards/WikiData/WD~gender_non_conformity,4135211]]'
-- '[[_Standards/WikiData/WD~gender_stereotype,4135218]]'
-- '[[_Standards/WikiData/WD~gender_polarization,5531001]]'
-- '[[_Standards/WikiData/WD~gender_expression,15404978]]'
-- '[[_Standards/WikiData/WD~gender_norm,110930308]]'
-- '[[_Standards/WikiData/WD~gender_identity,48264]]'
+- '[[_Standards/WikiData/WD~femininity,866081|WD~femininity,866081]]'
+- '[[_Standards/WikiData/WD~masculinity,1076509|WD~masculinity,1076509]]'
+- '[[_Standards/WikiData/WD~gender_role,2672163|WD~gender_role,2672163]]'
+- '[[_Standards/WikiData/WD~gender_non_conformity,4135211|WD~gender_non_conformity,4135211]]'
+- '[[_Standards/WikiData/WD~gender_stereotype,4135218|WD~gender_stereotype,4135218]]'
+- '[[_Standards/WikiData/WD~gender_polarization,5531001|WD~gender_polarization,5531001]]'
+- '[[_Standards/WikiData/WD~gender_expression,15404978|WD~gender_expression,15404978]]'
+- '[[_Standards/WikiData/WD~gender_norm,110930308|WD~gender_norm,110930308]]'
+- '[[_Standards/WikiData/WD~gender_identity,48264|WD~gender_identity,48264]]'
 studied_by:
-- '[[_Standards/WikiData/WD~gender_studies,1662673]]'
-- '[[_Standards/WikiData/WD~feminist_theory,4810748]]'
-- '[[_Standards/WikiData/WD~gender_psychology,11830699]]'
-- "[[_Standards/WikiData/WD~men's_studies,12908504]]"
-- '[[_Standards/WikiData/WD~philosophy,5891]]'
-- '[[_Standards/WikiData/WD~sociology,21201]]'
-- "[[_Standards/WikiData/WD~women's_studies,35069]]"
+- '[[_Standards/WikiData/WD~gender_studies,1662673|WD~gender_studies,1662673]]'
+- '[[_Standards/WikiData/WD~feminist_theory,4810748|WD~feminist_theory,4810748]]'
+- '[[_Standards/WikiData/WD~gender_psychology,11830699|WD~gender_psychology,11830699]]'
+- "[[_Standards/WikiData/WD~men's_studies,12908504|WD~men's_studies,12908504]]"
+- '[[_Standards/WikiData/WD~philosophy,5891|WD~philosophy,5891]]'
+- '[[_Standards/WikiData/WD~sociology,21201|WD~sociology,21201]]'
+- "[[_Standards/WikiData/WD~women's_studies,35069|WD~women's_studies,35069]]"
 has_characteristic:
-- '[[_Standards/WikiData/WD~gender_role,2672163]]'
-- '[[_Standards/WikiData/WD~gender_non_conformity,4135211]]'
-- '[[_Standards/WikiData/WD~gender_stereotype,4135218]]'
-- '[[_Standards/WikiData/WD~gender_polarization,5531001]]'
-- '[[_Standards/WikiData/WD~gender_expression,15404978]]'
-- '[[_Standards/WikiData/WD~gender_norm,110930308]]'
-- '[[_Standards/WikiData/WD~gender_identity,48264]]'
+- '[[_Standards/WikiData/WD~gender_role,2672163|WD~gender_role,2672163]]'
+- '[[_Standards/WikiData/WD~gender_non_conformity,4135211|WD~gender_non_conformity,4135211]]'
+- '[[_Standards/WikiData/WD~gender_stereotype,4135218|WD~gender_stereotype,4135218]]'
+- '[[_Standards/WikiData/WD~gender_polarization,5531001|WD~gender_polarization,5531001]]'
+- '[[_Standards/WikiData/WD~gender_expression,15404978|WD~gender_expression,15404978]]'
+- '[[_Standards/WikiData/WD~gender_norm,110930308|WD~gender_norm,110930308]]'
+- '[[_Standards/WikiData/WD~gender_identity,48264|WD~gender_identity,48264]]'
 part_of:
-- '[[_Standards/WikiData/WD~sex_of_humans,4369513]]'
-- '[[_Standards/WikiData/WD~sexual_diversity,5110203]]'
-- '[[_Standards/WikiData/WD~sex_or_gender,18382802]]'
+- '[[_Standards/WikiData/WD~sex_of_humans,4369513|WD~sex_of_humans,4369513]]'
+- '[[_Standards/WikiData/WD~sexual_diversity,5110203|WD~sexual_diversity,5110203]]'
+- '[[_Standards/WikiData/WD~sex_or_gender,18382802|WD~sex_or_gender,18382802]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760]]'
-- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~gendered,99485732]]'
-opposite_of: '[[_Standards/WikiData/WD~gender_critical,124606716]]'
-instance_of: '[[_Standards/WikiData/WD~social_science_concept,131362181]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Political_Theory,20743760|WD~Encyclopedia_of_Political_Theory,20743760]]'
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072|WD~Red_Blue_Translator,131935072]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~gendered,99485732|WD~gendered,99485732]]'
+opposite_of: '[[_Standards/WikiData/WD~gender_critical,124606716|WD~gender_critical,124606716]]'
+instance_of: '[[_Standards/WikiData/WD~social_science_concept,131362181|WD~social_science_concept,131362181]]'
 Wikidata_property: sex or gender
-facet_of: '[[_Standards/WikiData/WD~gender_identity,48264]]'
+facet_of: '[[_Standards/WikiData/WD~gender_identity,48264|WD~gender_identity,48264]]'
 Commons_category: Gender
 Wolfram_Language_entity_type: Gender
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Wie%20unterscheiden%20sich%20Geschlecht%20und%20Gender%3F%20kurzerkl%C3%A4rt%20von%20Tagesschau.webm
@@ -335,8 +335,8 @@ dv_has_:
 
 # [[Gender]] 
 
-#is_/different_from :: [[Sex/Biological_Sex]] 
-#is_/same_as :: [[../../../WikiData/WD~gender,48277]]
+#is_/different_from :: [[Sex/Biological_Sex|Biological_Sex]] 
+#is_/same_as :: [[../../../WikiData/WD~gender,48277|WD~gender,48277]]
 
 ## #has_/text_of_/abstract 
 

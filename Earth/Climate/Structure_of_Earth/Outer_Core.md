@@ -38,11 +38,11 @@ aliases:
 - 外核
 - 외핵
 has_id_wikidata: Q857867
-part_of: "[[_Standards/WikiData/WD~Earth's_core,193927]]"
-instance_of: '[[_Standards/WikiData/WD~shell_of_an_astronomical_object,47495022]]'
+part_of: "[[_Standards/WikiData/WD~Earth's_core,193927|WD~Earth's_core,193927]]"
+instance_of: '[[_Standards/WikiData/WD~shell_of_an_astronomical_object,47495022|WD~shell_of_an_astronomical_object,47495022]]'
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Outer_core,857867]]'
+  - '[[../../../WikiData/WD~Outer_core,857867|WD~Outer_core,857867]]'
   - '[[/_Standards/Earth/Climate/Structure_of_Earth/Outer_Core|Outer_Core]]'
   - '[[/_public/Earth/Climate/Structure_of_Earth/Outer_Core.public|Outer_Core.public]]'
   - '[[/_internal/Earth/Climate/Structure_of_Earth/Outer_Core.internal|Outer_Core.internal]]'
@@ -51,7 +51,7 @@ dv_is_:
   - '[[/_personal/Earth/Climate/Structure_of_Earth/Outer_Core.personal|Outer_Core.personal]]'
   - '[[/_secret/Earth/Climate/Structure_of_Earth/Outer_Core.secret|Outer_Core.secret]]'
 dv_is_same_as:
-- '[[../../../WikiData/WD~Outer_core,857867]]'
+- '[[../../../WikiData/WD~Outer_core,857867|WD~Outer_core,857867]]'
 - '[[/_Standards/Earth/Climate/Structure_of_Earth/Outer_Core|Outer_Core]]'
 - '[[/_public/Earth/Climate/Structure_of_Earth/Outer_Core.public|Outer_Core.public]]'
 - '[[/_internal/Earth/Climate/Structure_of_Earth/Outer_Core.internal|Outer_Core.internal]]'

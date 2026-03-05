@@ -96,31 +96,31 @@ aliases:
 - 人類的性
 - 인간의 성
 has_id_wikidata: Q154136
-instance_of: '[[_Standards/WikiData/WD~concept,151885]]'
+instance_of: '[[_Standards/WikiData/WD~concept,151885|WD~concept,151885]]'
 studied_by:
-- '[[_Standards/WikiData/WD~sexology,170912]]'
-- '[[_Standards/WikiData/WD~feminist_theory,4810748]]'
-- '[[_Standards/WikiData/WD~queer_studies,98929208]]'
+- '[[_Standards/WikiData/WD~sexology,170912|WD~sexology,170912]]'
+- '[[_Standards/WikiData/WD~feminist_theory,4810748|WD~feminist_theory,4810748]]'
+- '[[_Standards/WikiData/WD~queer_studies,98929208|WD~queer_studies,98929208]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Stanford_Encyclopedia_of_Philosophy,824553]]'
-- '[[_Standards/WikiData/WD~Human_Sexuality,16386154]]'
-- '[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519]]'
-- '[[_Standards/WikiData/WD~Understanding_Human_Sexuality,124166007]]'
-- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
-subclass_of: '[[_Standards/WikiData/WD~sexuality,3043188]]'
+- '[[_Standards/WikiData/WD~Stanford_Encyclopedia_of_Philosophy,824553|WD~Stanford_Encyclopedia_of_Philosophy,824553]]'
+- '[[_Standards/WikiData/WD~Human_Sexuality,16386154|WD~Human_Sexuality,16386154]]'
+- '[[_Standards/WikiData/WD~New_World_Encyclopedia,116780519|WD~New_World_Encyclopedia,116780519]]'
+- '[[_Standards/WikiData/WD~Understanding_Human_Sexuality,124166007|WD~Understanding_Human_Sexuality,124166007]]'
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072|WD~Red_Blue_Translator,131935072]]'
+subclass_of: '[[_Standards/WikiData/WD~sexuality,3043188|WD~sexuality,3043188]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~human_male_sexuality,3065229]]'
-- '[[_Standards/WikiData/WD~human_female_sexuality,3480963]]'
-- '[[_Standards/WikiData/WD~human_sexual_behavior,608]]'
-- '[[_Standards/WikiData/WD~sexual_orientation,17888]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_human_sexuality,7112659]]'
+- '[[_Standards/WikiData/WD~human_male_sexuality,3065229|WD~human_male_sexuality,3065229]]'
+- '[[_Standards/WikiData/WD~human_female_sexuality,3480963|WD~human_female_sexuality,3480963]]'
+- '[[_Standards/WikiData/WD~human_sexual_behavior,608|WD~human_sexual_behavior,608]]'
+- '[[_Standards/WikiData/WD~sexual_orientation,17888|WD~sexual_orientation,17888]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_human_sexuality,7112659|WD~outline_of_human_sexuality,7112659]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Sex,7210819]]'
-- '[[_Standards/WikiData/WD~Template_Human_sexuality,15055759]]'
-- '[[_Standards/WikiData/WD~Q108412424,108412424]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Sexuality,10814982]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_human_sexuality,17003131]]'
-item_operated: '[[_Standards/WikiData/WD~Farj,125823087]]'
+- '[[_Standards/WikiData/WD~Template_Sex,7210819|WD~Template_Sex,7210819]]'
+- '[[_Standards/WikiData/WD~Template_Human_sexuality,15055759|WD~Template_Human_sexuality,15055759]]'
+- '[[_Standards/WikiData/WD~Q108412424,108412424|WD~Q108412424,108412424]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Sexuality,10814982|WD~Portal_Sexuality,10814982]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_human_sexuality,17003131|WD~history_of_human_sexuality,17003131]]'
+item_operated: '[[_Standards/WikiData/WD~Farj,125823087|WD~Farj,125823087]]'
 Archive_of_Our_Own_tag: Sexuality
 image: http://commons.wikimedia.org/wiki/Special:FilePath/KamaSutra44.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Reageren%20mannen-%20en%20vrouwenlichamen%20anders%20op%20seks.webm

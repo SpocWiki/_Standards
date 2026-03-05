@@ -67,10 +67,10 @@ aliases:
 - 行星狀星雲
 - 행성상 성운
 has_id_wikidata: Q13632
-subclass_of: '[[_Standards/WikiData/WD~emission_nebula,202265]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_planetary_nebula,6291699]]'
-instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
-part_of: '[[_Standards/WikiData/WD~galaxy,318]]'
+subclass_of: '[[_Standards/WikiData/WD~emission_nebula,202265|WD~emission_nebula,202265]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_planetary_nebula,6291699|WD~Template_Infobox_planetary_nebula,6291699]]'
+instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909|WD~astronomical_object_type,17444909]]'
+part_of: '[[_Standards/WikiData/WD~galaxy,318|WD~galaxy,318]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/M57%20The%20Ring%20Nebula.JPG
 - http://commons.wikimedia.org/wiki/Special:FilePath/NGC%207009%20Hubble.jpg
@@ -78,7 +78,7 @@ Wolfram_Language_entity_code: Entity["Concept", "PlanetaryNebula::b7748"]
 Commons_category: Planetary nebulae
 dv_is_:
   same_as:
-  - '[[../../WikiData/WD~Planetary_nebula,13632]]'
+  - '[[../../WikiData/WD~Planetary_nebula,13632|WD~Planetary_nebula,13632]]'
   - '[[/_Standards/Astronomy/Planet/Planetary_Nebula|Planetary_Nebula]]'
   - '[[/_public/Astronomy/Planet/Planetary_Nebula.public|Planetary_Nebula.public]]'
   - '[[/_internal/Astronomy/Planet/Planetary_Nebula.internal|Planetary_Nebula.internal]]'
@@ -87,7 +87,7 @@ dv_is_:
   - '[[/_personal/Astronomy/Planet/Planetary_Nebula.personal|Planetary_Nebula.personal]]'
   - '[[/_secret/Astronomy/Planet/Planetary_Nebula.secret|Planetary_Nebula.secret]]'
 dv_is_same_as:
-- '[[../../WikiData/WD~Planetary_nebula,13632]]'
+- '[[../../WikiData/WD~Planetary_nebula,13632|WD~Planetary_nebula,13632]]'
 - '[[/_Standards/Astronomy/Planet/Planetary_Nebula|Planetary_Nebula]]'
 - '[[/_public/Astronomy/Planet/Planetary_Nebula.public|Planetary_Nebula.public]]'
 - '[[/_internal/Astronomy/Planet/Planetary_Nebula.internal|Planetary_Nebula.internal]]'

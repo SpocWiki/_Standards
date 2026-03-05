@@ -70,22 +70,22 @@ aliases:
 - 갑작변이
 - 돌연변이
 has_id_wikidata: Q42918
-has_cause: '[[_Standards/WikiData/WD~mutagen,221696]]'
-different_from: '[[_Standards/WikiData/WD~Mutation,413689]]'
+has_cause: '[[_Standards/WikiData/WD~mutagen,221696|WD~mutagen,221696]]'
+different_from: '[[_Standards/WikiData/WD~Mutation,413689|WD~Mutation,413689]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~somatic_mutation,2215243]]'
-- '[[_Standards/WikiData/WD~germline_mutation,5552256]]'
+- '[[_Standards/WikiData/WD~somatic_mutation,2215243|WD~somatic_mutation,2215243]]'
+- '[[_Standards/WikiData/WD~germline_mutation,5552256|WD~germline_mutation,5552256]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~biological_process,2996394]]'
-- '[[_Standards/WikiData/WD~sequence_variant,15304597]]'
-- '[[_Standards/WikiData/WD~variation,102116514]]'
-- '[[_Standards/WikiData/WD~genetic_event,115865817]]'
-has_effect: '[[_Standards/WikiData/WD~mutant,3285695]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Mutation,13501050]]'
+- '[[_Standards/WikiData/WD~biological_process,2996394|WD~biological_process,2996394]]'
+- '[[_Standards/WikiData/WD~sequence_variant,15304597|WD~sequence_variant,15304597]]'
+- '[[_Standards/WikiData/WD~variation,102116514|WD~variation,102116514]]'
+- '[[_Standards/WikiData/WD~genetic_event,115865817|WD~genetic_event,115865817]]'
+has_effect: '[[_Standards/WikiData/WD~mutant,3285695|WD~mutant,3285695]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Mutation,13501050|WD~Template_Mutation,13501050]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-has_characteristic: '[[_Standards/WikiData/WD~mutational_signature,28790837]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+has_characteristic: '[[_Standards/WikiData/WD~mutational_signature,28790837|WD~mutational_signature,28790837]]'
 OmegaWiki_Defined_Meaning: 2453
 Commons_category: Mutations
 NCI_Dictionary_of_Genetics_Terms_entry: mutation

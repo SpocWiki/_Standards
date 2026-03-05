@@ -121,96 +121,96 @@ Languages:
   - es
 icon: flag-bz
 member_of:
-  - "[[_Standards/WikiData/WD~Organization_of_American_States,123759]]"
-  - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]"
-  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]"
-  - "[[_Standards/WikiData/WD~Caribbean_Community,205995]]"
-  - "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
-  - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]"
-  - "[[_Standards/WikiData/WD~Alliance_of_Small_Island_States,496967]]"
-  - "[[_Standards/WikiData/WD~World_Customs_Organization,605326]]"
-  - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]"
-  - "[[_Standards/WikiData/WD~International_Development_Association,827525]]"
-  - "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
-  - "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
-  - "[[_Standards/WikiData/WD~Community_of_Latin_American_and_Caribbean_States,1045401]]"
-  - "[[_Standards/WikiData/WD~Association_of_Caribbean_States,1147937]]"
-  - "[[_Standards/WikiData/WD~International_Regional_Organization_for_Agricultural_Health,3356166]]"
-  - "[[_Standards/WikiData/WD~Agency_for_the_Prohibition_of_Nuclear_Weapons_in_Latin_America_and_the_Caribbean,3369762]]"
-  - "[[_Standards/WikiData/WD~Caribbean_Development_Bank,3772571]]"
-  - "[[_Standards/WikiData/WD~Caribbean_Disaster_Emergency_Management_Agency,5039374]]"
-  - "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]"
-  - "[[_Standards/WikiData/WD~United_Nations,1065]]"
-  - "[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]"
-  - "[[_Standards/WikiData/WD~UNESCO,7809]]"
-  - "[[_Standards/WikiData/WD~World_Health_Organization,7817]]"
-  - "[[_Standards/WikiData/WD~World_Trade_Organization,7825]]"
-  - "[[_Standards/WikiData/WD~Interpol,8475]]"
-  - "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]"
-flag: "[[_Standards/WikiData/WD~flag_of_Belize,169192]]"
-coat_of_arms: "[[_Standards/WikiData/WD~Coat_of_arms_of_Belize,203016]]"
-anthem: "[[_Standards/WikiData/WD~Land_of_the_Free,336345]]"
+  - "[[_Standards/WikiData/WD~Organization_of_American_States,123759|WD~Organization_of_American_States,123759]]"
+  - "[[_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]"
+  - "[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]"
+  - "[[_Standards/WikiData/WD~Caribbean_Community,205995|WD~Caribbean_Community,205995]]"
+  - "[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278|WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]"
+  - "[[_Standards/WikiData/WD~International_Telecommunication_Union,376150|WD~International_Telecommunication_Union,376150]]"
+  - "[[_Standards/WikiData/WD~Alliance_of_Small_Island_States,496967|WD~Alliance_of_Small_Island_States,496967]]"
+  - "[[_Standards/WikiData/WD~World_Customs_Organization,605326|WD~World_Customs_Organization,605326]]"
+  - "[[_Standards/WikiData/WD~International_Finance_Corporation,656801|WD~International_Finance_Corporation,656801]]"
+  - "[[_Standards/WikiData/WD~International_Development_Association,827525|WD~International_Development_Association,827525]]"
+  - "[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490|WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]"
+  - "[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527|WD~Multilateral_Investment_Guarantee_Agency,1043527]]"
+  - "[[_Standards/WikiData/WD~Community_of_Latin_American_and_Caribbean_States,1045401|WD~Community_of_Latin_American_and_Caribbean_States,1045401]]"
+  - "[[_Standards/WikiData/WD~Association_of_Caribbean_States,1147937|WD~Association_of_Caribbean_States,1147937]]"
+  - "[[_Standards/WikiData/WD~International_Regional_Organization_for_Agricultural_Health,3356166|WD~International_Regional_Organization_for_Agricultural_Health,3356166]]"
+  - "[[_Standards/WikiData/WD~Agency_for_the_Prohibition_of_Nuclear_Weapons_in_Latin_America_and_the_Caribbean,3369762|WD~Agency_for_the_Prohibition_of_Nuclear_Weapons_in_Latin_America_and_the_Caribbean,3369762]]"
+  - "[[_Standards/WikiData/WD~Caribbean_Development_Bank,3772571|WD~Caribbean_Development_Bank,3772571]]"
+  - "[[_Standards/WikiData/WD~Caribbean_Disaster_Emergency_Management_Agency,5039374|WD~Caribbean_Disaster_Emergency_Management_Agency,5039374]]"
+  - "[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262|WD~Group_on_Earth_Observations,5611262]]"
+  - "[[_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]"
+  - "[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785|WD~Commonwealth_of_Nations,7785]]"
+  - "[[_Standards/WikiData/WD~UNESCO,7809|WD~UNESCO,7809]]"
+  - "[[_Standards/WikiData/WD~World_Health_Organization,7817|WD~World_Health_Organization,7817]]"
+  - "[[_Standards/WikiData/WD~World_Trade_Organization,7825|WD~World_Trade_Organization,7825]]"
+  - "[[_Standards/WikiData/WD~Interpol,8475|WD~Interpol,8475]]"
+  - "[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495|WD~Universal_Postal_Union_UPU,17495]]"
+flag: "[[_Standards/WikiData/WD~flag_of_Belize,169192|WD~flag_of_Belize,169192]]"
+coat_of_arms: "[[_Standards/WikiData/WD~Coat_of_arms_of_Belize,203016|WD~Coat_of_arms_of_Belize,203016]]"
+anthem: "[[_Standards/WikiData/WD~Land_of_the_Free,336345|WD~Land_of_the_Free,336345]]"
 contains_the_administrative_territorial_entity:
-  - "[[_Standards/WikiData/WD~Stann_Creek_District,502652]]"
-  - "[[_Standards/WikiData/WD~Orange_Walk_District,506036]]"
-  - "[[_Standards/WikiData/WD~Toledo_District,506049]]"
-  - "[[_Standards/WikiData/WD~Belize_District,506056]]"
-  - "[[_Standards/WikiData/WD~Cayo_District,508773]]"
-  - "[[_Standards/WikiData/WD~Corozal_District,512273]]"
+  - "[[_Standards/WikiData/WD~Stann_Creek_District,502652|WD~Stann_Creek_District,502652]]"
+  - "[[_Standards/WikiData/WD~Orange_Walk_District,506036|WD~Orange_Walk_District,506036]]"
+  - "[[_Standards/WikiData/WD~Toledo_District,506049|WD~Toledo_District,506049]]"
+  - "[[_Standards/WikiData/WD~Belize_District,506056|WD~Belize_District,506056]]"
+  - "[[_Standards/WikiData/WD~Cayo_District,508773|WD~Cayo_District,508773]]"
+  - "[[_Standards/WikiData/WD~Corozal_District,512273|WD~Corozal_District,512273]]"
 emergency_phone_number:
-  - "[[_Standards/WikiData/WD~911,533806]]"
-  - "[[_Standards/WikiData/WD~90,25743491]]"
+  - "[[_Standards/WikiData/WD~911,533806|WD~911,533806]]"
+  - "[[_Standards/WikiData/WD~90,25743491|WD~90,25743491]]"
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]"
-  - "[[_Standards/WikiData/WD~Pax_Leksikon,3351707]]"
-  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-  - "[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075]]"
-central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_Belize,643949]]"
+  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
+  - "[[_Standards/WikiData/WD~Pax_Leksikon,3351707|WD~Pax_Leksikon,3351707]]"
+  - "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+  - "[[_Standards/WikiData/WD~TASS_Encyclopedia,63985075|WD~TASS_Encyclopedia,63985075]]"
+central_bank: "[[_Standards/WikiData/WD~Central_Bank_of_Belize,643949|WD~Central_Bank_of_Belize,643949]]"
 part_of:
-  - "[[_Standards/WikiData/WD~Caribbean,664609]]"
-  - "[[_Standards/WikiData/WD~Continental_Central_America,18479603]]"
-  - "[[_Standards/WikiData/WD~European_Union_tax_haven_blacklist,66458647]]"
-  - "[[_Standards/WikiData/WD~Central_America,27611]]"
-named_after: "[[_Standards/WikiData/WD~Belize_River,815650]]"
-office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Belize,862638]]"
+  - "[[_Standards/WikiData/WD~Caribbean,664609|WD~Caribbean,664609]]"
+  - "[[_Standards/WikiData/WD~Continental_Central_America,18479603|WD~Continental_Central_America,18479603]]"
+  - "[[_Standards/WikiData/WD~European_Union_tax_haven_blacklist,66458647|WD~European_Union_tax_haven_blacklist,66458647]]"
+  - "[[_Standards/WikiData/WD~Central_America,27611|WD~Central_America,27611]]"
+named_after: "[[_Standards/WikiData/WD~Belize_River,815650|WD~Belize_River,815650]]"
+office_held_by_head_of_government: "[[_Standards/WikiData/WD~Prime_Minister_of_Belize,862638|WD~Prime_Minister_of_Belize,862638]]"
 language_used:
-  - "[[_Standards/WikiData/WD~Belizean_Creole,1363055]]"
-  - "[[_Standards/WikiData/WD~Spanish,1321]]"
-  - "[[_Standards/WikiData/WD~English,1860]]"
-  - "[[_Standards/WikiData/WD~Yucatec_Maya,13354]]"
-  - "[[_Standards/WikiData/WD~Garifuna,35490]]"
-  - "[[_Standards/WikiData/WD~Q_eqchi_,35536]]"
-  - "[[_Standards/WikiData/WD~Mopan_Maya,36183]]"
-history_of_topic: "[[_Standards/WikiData/WD~history_of_Belize,1515463]]"
+  - "[[_Standards/WikiData/WD~Belizean_Creole,1363055|WD~Belizean_Creole,1363055]]"
+  - "[[_Standards/WikiData/WD~Spanish,1321|WD~Spanish,1321]]"
+  - "[[_Standards/WikiData/WD~English,1860|WD~English,1860]]"
+  - "[[_Standards/WikiData/WD~Yucatec_Maya,13354|WD~Yucatec_Maya,13354]]"
+  - "[[_Standards/WikiData/WD~Garifuna,35490|WD~Garifuna,35490]]"
+  - "[[_Standards/WikiData/WD~Q_eqchi_,35536|WD~Q_eqchi_,35536]]"
+  - "[[_Standards/WikiData/WD~Mopan_Maya,36183|WD~Mopan_Maya,36183]]"
+history_of_topic: "[[_Standards/WikiData/WD~history_of_Belize,1515463|WD~history_of_Belize,1515463]]"
 electrical_plug_type:
-  - "[[_Standards/WikiData/WD~BS_1363,1528507]]"
-  - "[[_Standards/WikiData/WD~NEMA_1-15,24288454]]"
-  - "[[_Standards/WikiData/WD~NEMA_5-15,24288456]]"
-follows: "[[_Standards/WikiData/WD~British_Honduras,1643555]]"
-different_from: "[[_Standards/WikiData/WD~Belize,1792037]]"
-legislative_body: "[[_Standards/WikiData/WD~National_Assembly,1965042]]"
-economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Belize,2359807]]"
-geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Belize,2459935]]"
-demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Belize,3044378]]"
-has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312]]"
+  - "[[_Standards/WikiData/WD~BS_1363,1528507|WD~BS_1363,1528507]]"
+  - "[[_Standards/WikiData/WD~NEMA_1-15,24288454|WD~NEMA_1-15,24288454]]"
+  - "[[_Standards/WikiData/WD~NEMA_5-15,24288456|WD~NEMA_5-15,24288456]]"
+follows: "[[_Standards/WikiData/WD~British_Honduras,1643555|WD~British_Honduras,1643555]]"
+different_from: "[[_Standards/WikiData/WD~Belize,1792037|WD~Belize,1792037]]"
+legislative_body: "[[_Standards/WikiData/WD~National_Assembly,1965042|WD~National_Assembly,1965042]]"
+economy_of_topic: "[[_Standards/WikiData/WD~economy_of_Belize,2359807|WD~economy_of_Belize,2359807]]"
+geography_of_topic: "[[_Standards/WikiData/WD~geography_of_Belize,2459935|WD~geography_of_Belize,2459935]]"
+demographics_of_topic: "[[_Standards/WikiData/WD~demographics_of_Belize,3044378|WD~demographics_of_Belize,3044378]]"
+has_characteristic: "[[_Standards/WikiData/WD~free_country,3174312|WD~free_country,3174312]]"
 basic_form_of_government:
-  - "[[_Standards/WikiData/WD~parliamentary_monarchy,3330103]]"
-  - "[[_Standards/WikiData/WD~constitutional_monarchy,41614]]"
-instance_of: "[[_Standards/WikiData/WD~sovereign_state,3624078]]"
-culture: "[[_Standards/WikiData/WD~culture_of_Belize,5193533]]"
-head_of_government: "[[_Standards/WikiData/WD~Johnny_Briceño,6266369]]"
-Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Belize,7112201]]"
-driving_side: "[[_Standards/WikiData/WD~right,14565199]]"
-topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Belize,14614550]]"
-executive_body: "[[_Standards/WikiData/WD~Government_of_Belize,21129557]]"
+  - "[[_Standards/WikiData/WD~parliamentary_monarchy,3330103|WD~parliamentary_monarchy,3330103]]"
+  - "[[_Standards/WikiData/WD~constitutional_monarchy,41614|WD~constitutional_monarchy,41614]]"
+instance_of: "[[_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]"
+culture: "[[_Standards/WikiData/WD~culture_of_Belize,5193533|WD~culture_of_Belize,5193533]]"
+head_of_government: "[[_Standards/WikiData/WD~Johnny_Briceño,6266369|WD~Johnny_Briceño,6266369]]"
+Wikimedia_outline: "[[_Standards/WikiData/WD~outline_of_Belize,7112201|WD~outline_of_Belize,7112201]]"
+driving_side: "[[_Standards/WikiData/WD~right,14565199|WD~right,14565199]]"
+topic_s_main_Wikimedia_portal: "[[_Standards/WikiData/WD~Portal_Belize,14614550|WD~Portal_Belize,14614550]]"
+executive_body: "[[_Standards/WikiData/WD~Government_of_Belize,21129557|WD~Government_of_Belize,21129557]]"
 permanent_duplicated_item:
-  - "[[_Standards/WikiData/WD~Q27103722,27103722]]"
-  - "[[_Standards/WikiData/WD~Q111305300,111305300]]"
-office_held_by_head_of_state: "[[_Standards/WikiData/WD~monarch_of_Belize,34517433]]"
+  - "[[_Standards/WikiData/WD~Q27103722,27103722|WD~Q27103722,27103722]]"
+  - "[[_Standards/WikiData/WD~Q111305300,111305300|WD~Q111305300,111305300]]"
+office_held_by_head_of_state: "[[_Standards/WikiData/WD~monarch_of_Belize,34517433|WD~monarch_of_Belize,34517433]]"
 located_in_time_zone:
-  - "[[_Standards/WikiData/WD~America_Belize,63286058]]"
-  - "[[_Standards/WikiData/WD~UTC_06_00,5385]]"
+  - "[[_Standards/WikiData/WD~America_Belize,63286058|WD~America_Belize,63286058]]"
+  - "[[_Standards/WikiData/WD~UTC_06_00,5385|WD~UTC_06_00,5385]]"
 UMLS_CUI: C0004952
 coordinates_of_northernmost_point: Point(-88.4027 18.4959)
 demonym:
@@ -248,24 +248,24 @@ ISNI: 122862013
 MeSH_tree_code: Z01.107.169.133
 coordinates_of_easternmost_point: Point(-87.4919 17.4447)
 diplomatic_relation:
-  - "[[_Standards/WikiData/WD~North_Korea,423]]"
-  - "[[_Standards/WikiData/WD~Guatemala,774]]"
-  - "[[_Standards/WikiData/WD~Taiwan,865]]"
-  - "[[_Standards/WikiData/WD~Kosovo,1246]]"
-  - "[[_Standards/WikiData/WD~United_States,30]]"
-  - "[[_Standards/WikiData/WD~Hungary,28]]"
-  - "[[_Standards/WikiData/WD~Mexico,96]]"
-  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-  - "[[_Standards/WikiData/WD~Brazil,155]]"
-  - "[[_Standards/WikiData/WD~Germany,183]]"
+  - "[[_Standards/WikiData/WD~North_Korea,423|WD~North_Korea,423]]"
+  - "[[_Standards/WikiData/WD~Guatemala,774|WD~Guatemala,774]]"
+  - "[[_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]"
+  - "[[_Standards/WikiData/WD~Kosovo,1246|WD~Kosovo,1246]]"
+  - "[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]"
+  - "[[_Standards/WikiData/WD~Hungary,28|WD~Hungary,28]]"
+  - "[[_Standards/WikiData/WD~Mexico,96|WD~Mexico,96]]"
+  - "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+  - "[[_Standards/WikiData/WD~Brazil,155|WD~Brazil,155]]"
+  - "[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]"
 shares_border_with:
-  - "[[_Standards/WikiData/WD~Guatemala,774]]"
-  - "[[_Standards/WikiData/WD~Mexico,96]]"
-lowest_point: "[[_Standards/WikiData/WD~Caribbean_Sea,1247]]"
-official_language: "[[_Standards/WikiData/WD~English,1860]]"
-capital: "[[_Standards/WikiData/WD~Belmopan,3043]]"
-continent: "[[_Standards/WikiData/WD~North_America,49]]"
-country: "[[_Standards/WikiData/WD~Belize,242]]"
+  - "[[_Standards/WikiData/WD~Guatemala,774|WD~Guatemala,774]]"
+  - "[[_Standards/WikiData/WD~Mexico,96|WD~Mexico,96]]"
+lowest_point: "[[_Standards/WikiData/WD~Caribbean_Sea,1247|WD~Caribbean_Sea,1247]]"
+official_language: "[[_Standards/WikiData/WD~English,1860|WD~English,1860]]"
+capital: "[[_Standards/WikiData/WD~Belmopan,3043|WD~Belmopan,3043]]"
+continent: "[[_Standards/WikiData/WD~North_America,49|WD~North_America,49]]"
+country: "[[_Standards/WikiData/WD~Belize,242|WD~Belize,242]]"
 unemployment_rate: 12
 marriageable_age: 18
 mains_voltage:
@@ -278,9 +278,9 @@ suicide_rate:
   - 5.5
 life_expectancy: 71
 VAT_rate: 12.5
-top_level_Internet_domain: "[[_Standards/WikiData/WD~.bz,39903]]"
-head_of_state: "[[_Standards/WikiData/WD~Charles_III,43274]]"
-highest_point: "[[_Standards/WikiData/WD~Doyle's_Delight,47490]]"
+top_level_Internet_domain: "[[_Standards/WikiData/WD~.bz,39903|WD~.bz,39903]]"
+head_of_state: "[[_Standards/WikiData/WD~Charles_III,43274|WD~Charles_III,43274]]"
+highest_point: "[[_Standards/WikiData/WD~Doyle's_Delight,47490|WD~Doyle's_Delight,47490]]"
 Gini_coefficient: 53.3
 Inequality_adjusted_Human_Development_Index: 0.535
 Human_Development_Index: 0.683
@@ -733,7 +733,7 @@ dv_is_same_as:
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Belize/ReadMe]] 
+[[Belize/ReadMe|ReadMe]] 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
@@ -822,11 +822,11 @@ Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
-Capital :: [[Belize/Counties/Cayo/City/Belmopan]]  
+Capital :: [[Belize/Counties/Cayo/City/Belmopan|Belmopan]]  
 
 ![[Belize/Coat_of_arms_of_Belize.svg|350]]
 
-![[../../../../_public/xLarge.public/National-Anthem/Anthem-Belize.mp3]]
+![[../../../../_public/xLarge.public/National-Anthem/Anthem-Belize.mp3|Anthem-Belize.mp3]]
 
 ![[Belize/Flag_of_Belize.svg|350]]
 

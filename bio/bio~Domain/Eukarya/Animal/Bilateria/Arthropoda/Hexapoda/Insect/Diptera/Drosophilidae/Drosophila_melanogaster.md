@@ -51,12 +51,12 @@ aliases:
 - 노랑초파리
 has_id_wikidata: Q130888
 instance_of:
-- '[[_Standards/WikiData/WD~model_organism,213907]]'
-- '[[_Standards/WikiData/WD~taxon,16521]]'
-parent_taxon: '[[_Standards/WikiData/WD~Drosophila,312154]]'
-diel_cycle: '[[_Standards/WikiData/WD~diurnality,4284186]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
-taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
+- '[[_Standards/WikiData/WD~model_organism,213907|WD~model_organism,213907]]'
+- '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+parent_taxon: '[[_Standards/WikiData/WD~Drosophila,312154|WD~Drosophila,312154]]'
+diel_cycle: '[[_Standards/WikiData/WD~diurnality,4284186|WD~diurnality,4284186]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615|WD~WikiProject_Invasion_Biology,56241615]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432|WD~species,7432]]'
 chromosome_count: 8
 OmegaWiki_Defined_Meaning: 1197586
 ITIS_TSN: 146290

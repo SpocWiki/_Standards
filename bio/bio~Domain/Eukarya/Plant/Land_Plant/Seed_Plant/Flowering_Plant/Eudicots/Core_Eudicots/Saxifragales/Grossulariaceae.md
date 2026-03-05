@@ -29,12 +29,12 @@ aliases:
 - 茶藨子科
 - 까치밥나무과
 has_id_wikidata: Q41387
-taxonomic_type: '[[_Standards/WikiData/WD~Grossularia,16602059]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Grossularia,16602059|WD~Grossularia,16602059]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409|WD~family,35409]]'
 ITIS_TSN: 24094
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Stachelbeeren.jpg

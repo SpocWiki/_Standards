@@ -82,17 +82,17 @@ aliases:
 - 無機化合物
 - 무기 화합물
 has_id_wikidata: Q190065
-opposite_of: '[[_Standards/WikiData/WD~organic_compound,174211]]'
-has_list: '[[_Standards/WikiData/WD~list_of_inorganic_compounds,422042]]'
+opposite_of: '[[_Standards/WikiData/WD~organic_compound,174211|WD~organic_compound,174211]]'
+has_list: '[[_Standards/WikiData/WD~list_of_inorganic_compounds,422042|WD~list_of_inorganic_compounds,422042]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~inorganic_substance,3361209]]'
-- '[[_Standards/WikiData/WD~chemical_compound,11173]]'
+- '[[_Standards/WikiData/WD~inorganic_substance,3361209|WD~inorganic_substance,3361209]]'
+- '[[_Standards/WikiData/WD~chemical_compound,11173|WD~chemical_compound,11173]]'
 part_of:
-- '[[_Standards/WikiData/WD~response_to_inorganic_substance,14890026]]'
-- '[[_Standards/WikiData/WD~detoxification_of_inorganic_compound,22271442]]'
-- '[[_Standards/WikiData/WD~inorganic_molecular_entity_transmembrane_transporter_activity,22324988]]'
-instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
-studied_by: '[[_Standards/WikiData/WD~inorganic_chemistry,11165]]'
+- '[[_Standards/WikiData/WD~response_to_inorganic_substance,14890026|WD~response_to_inorganic_substance,14890026]]'
+- '[[_Standards/WikiData/WD~detoxification_of_inorganic_compound,22271442|WD~detoxification_of_inorganic_compound,22271442]]'
+- '[[_Standards/WikiData/WD~inorganic_molecular_entity_transmembrane_transporter_activity,22324988|WD~inorganic_molecular_entity_transmembrane_transporter_activity,22324988]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
+studied_by: '[[_Standards/WikiData/WD~inorganic_chemistry,11165|WD~inorganic_chemistry,11165]]'
 MeSH_tree_code: D01
 UMLS_CUI: C0021521
 Commons_category: Inorganic compounds

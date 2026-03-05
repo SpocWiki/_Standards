@@ -139,30 +139,30 @@ Baidu_Tieba_name: 草莓
 Commons_category: Fragaria × ananassa
 Commons_gallery: Fragaria × ananassa
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]'
-- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823|WD~Encyclopedia_of_Armenian_Nature,16387823]]'
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875|WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 EPPO_Code: FRAAN
 GenBank_assembly_accession_number:
 - GCA_000511695.1
 - GCA_019650335.1
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomydetail.aspx?id=244
-hardiness_of_plant: '[[_Standards/WikiData/WD~5,96279266]]'
-has_basionym: '[[_Standards/WikiData/WD~Fragaria_chiloensis_var._ananassa,50893122]]'
-has_fruit_type: '[[_Standards/WikiData/WD~nucule,5118786]]'
-has_use: '[[_Standards/WikiData/WD~fruit,3314483]]'
+hardiness_of_plant: '[[_Standards/WikiData/WD~5,96279266|WD~5,96279266]]'
+has_basionym: '[[_Standards/WikiData/WD~Fragaria_chiloensis_var._ananassa,50893122|WD~Fragaria_chiloensis_var._ananassa,50893122]]'
+has_fruit_type: '[[_Standards/WikiData/WD~nucule,5118786|WD~nucule,5118786]]'
+has_use: '[[_Standards/WikiData/WD~fruit,3314483|WD~fruit,3314483]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Strawberries.JPG
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 ITIS_TSN: 24630
 NBN_System_Key: NHMSYS0000458878
 OmegaWiki_Defined_Meaning: 161327
 OpenStreetMap_tag_or_key: Tag:crop=strawberry
-parent_taxon: '[[../../../../../../../../../../../../../../WikiData/WD~Fragaria,745]]'
+parent_taxon: '[[../../../../../../../../../../../../../../WikiData/WD~Fragaria,745|WD~Fragaria,745]]'
 PLU_code: 3356
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33965%20%28sat%29-Rocky%20734-%E1%B1%A5%E1%B1%B4%E1%B1%A8%E1%B1%9A%E1%B1%B5%E1%B1%AE%E1%B1%A8%E1%B1%A4.wav
-subclass_of: '[[_Standards/WikiData/WD~useful_plant,11992872]]'
+subclass_of: '[[_Standards/WikiData/WD~useful_plant,11992872|WD~useful_plant,11992872]]'
 taxon_common_name:
 - Полуниця садова
 - 士多啤梨
@@ -181,12 +181,12 @@ taxon_common_name:
 - Aardbei
 - Земляника садовая
 taxon_name: Fragaria × ananassa
-taxon_range: "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
+taxon_range: "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+taxon_rank: '[[_Standards/WikiData/WD~species,7432|WD~species,7432]]'
 this_taxon_is_source_of:
-- '[[_Standards/WikiData/WD~strawberry_juice,1068602]]'
-- '[[_Standards/WikiData/WD~strawberry,14458220]]'
-- '[[_Standards/WikiData/WD~Fragariae_folium,96069897]]'
+- '[[_Standards/WikiData/WD~strawberry_juice,1068602|WD~strawberry_juice,1068602]]'
+- '[[_Standards/WikiData/WD~strawberry,14458220|WD~strawberry,14458220]]'
+- '[[_Standards/WikiData/WD~Fragariae_folium,96069897|WD~Fragariae_folium,96069897]]'
 UNII: BRO5T4GIXN
 dv_has_:
   name_:

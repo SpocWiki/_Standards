@@ -96,26 +96,26 @@ aliases:
 - 암흑물질
 has_id_wikidata: Q79925
 different_from:
-- '[[_Standards/WikiData/WD~antimatter,83197]]'
-- '[[_Standards/WikiData/WD~dark_fluid,5223514]]'
-- '[[_Standards/WikiData/WD~dark_energy,18343]]'
+- '[[_Standards/WikiData/WD~antimatter,83197|WD~antimatter,83197]]'
+- '[[_Standards/WikiData/WD~dark_fluid,5223514|WD~dark_fluid,5223514]]'
+- '[[_Standards/WikiData/WD~dark_energy,18343|WD~dark_energy,18343]]'
 part_of:
-- '[[_Standards/WikiData/WD~observable_universe,221392]]'
-- '[[_Standards/WikiData/WD~hidden_sector,16919810]]'
-has_characteristic: '[[_Standards/WikiData/WD~gravitational_mass,1076402]]'
+- '[[_Standards/WikiData/WD~observable_universe,221392|WD~observable_universe,221392]]'
+- '[[_Standards/WikiData/WD~hidden_sector,16919810|WD~hidden_sector,16919810]]'
+has_characteristic: '[[_Standards/WikiData/WD~gravitational_mass,1076402|WD~gravitational_mass,1076402]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~weakly_interacting_massive_particle,1129252]]'
-- '[[_Standards/WikiData/WD~cold_dark_matter,1153477]]'
-model_item: '[[_Standards/WikiData/WD~cold_dark_matter,1153477]]'
-instance_of: '[[_Standards/WikiData/WD~hypothetical_entity,18706315]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Dark_matter,21400304]]'
+- '[[_Standards/WikiData/WD~weakly_interacting_massive_particle,1129252|WD~weakly_interacting_massive_particle,1129252]]'
+- '[[_Standards/WikiData/WD~cold_dark_matter,1153477|WD~cold_dark_matter,1153477]]'
+model_item: '[[_Standards/WikiData/WD~cold_dark_matter,1153477|WD~cold_dark_matter,1153477]]'
+instance_of: '[[_Standards/WikiData/WD~hypothetical_entity,18706315|WD~hypothetical_entity,18706315]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Dark_matter,21400304|WD~Template_Dark_matter,21400304]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_substance,28732711]]'
-- '[[_Standards/WikiData/WD~matter,35758]]'
-- '[[_Standards/WikiData/WD~interstellar_medium,41872]]'
+- '[[_Standards/WikiData/WD~physical_substance,28732711|WD~physical_substance,28732711]]'
+- '[[_Standards/WikiData/WD~matter,35758|WD~matter,35758]]'
+- '[[_Standards/WikiData/WD~interstellar_medium,41872|WD~interstellar_medium,41872]]'
 studied_by:
-- '[[_Standards/WikiData/WD~cosmology,338]]'
-- '[[_Standards/WikiData/WD~astrophysics,37547]]'
+- '[[_Standards/WikiData/WD~cosmology,338|WD~cosmology,338]]'
+- '[[_Standards/WikiData/WD~astrophysics,37547|WD~astrophysics,37547]]'
 OmegaWiki_Defined_Meaning: 7964
 Commons_category: Dark matter
 image: http://commons.wikimedia.org/wiki/Special:FilePath/CFHTLenSDMmap2012.jpg

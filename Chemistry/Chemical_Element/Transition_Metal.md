@@ -90,14 +90,14 @@ aliases:
 - 전이 금속
 has_id_wikidata: Q19588
 has_part_s_:
-- '[[_Standards/WikiData/WD~d_block,214503]]'
-- '[[_Standards/WikiData/WD~f_block,214680]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
-opposite_of: '[[_Standards/WikiData/WD~main_group,428830]]'
+- '[[_Standards/WikiData/WD~d_block,214503|WD~d_block,214503]]'
+- '[[_Standards/WikiData/WD~f_block,214680|WD~f_block,214680]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
+opposite_of: '[[_Standards/WikiData/WD~main_group,428830|WD~main_group,428830]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~simple_substance,2512777]]'
-- '[[_Standards/WikiData/WD~metal,11426]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[_Standards/WikiData/WD~simple_substance,2512777|WD~simple_substance,2512777]]'
+- '[[_Standards/WikiData/WD~metal,11426|WD~metal,11426]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 OmegaWiki_Defined_Meaning: 3841
 Dewey_Decimal_Classification: 546.6
 image:
@@ -109,7 +109,7 @@ MeSH_tree_code: D01.268.956
 Commons_category: Transition metals
 dv_is_:
   same_as:
-  - '[[../../WikiData/WD~Transition_metal,19588]]'
+  - '[[../../WikiData/WD~Transition_metal,19588|WD~Transition_metal,19588]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Transition_Metal|Transition_Metal]]'
   - '[[/_public/Chemistry/Chemical_Element/Transition_Metal.public|Transition_Metal.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Transition_Metal.internal|Transition_Metal.internal]]'
@@ -118,7 +118,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Chemical_Element/Transition_Metal.personal|Transition_Metal.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Transition_Metal.secret|Transition_Metal.secret]]'
 dv_is_same_as:
-- '[[../../WikiData/WD~Transition_metal,19588]]'
+- '[[../../WikiData/WD~Transition_metal,19588|WD~Transition_metal,19588]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Transition_Metal|Transition_Metal]]'
 - '[[/_public/Chemistry/Chemical_Element/Transition_Metal.public|Transition_Metal.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Transition_Metal.internal|Transition_Metal.internal]]'

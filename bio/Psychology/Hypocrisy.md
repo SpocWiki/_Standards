@@ -65,16 +65,16 @@ aliases:
 - 偽善
 - 위선
 has_id_wikidata: Q201650
-subclass_of: '[[_Standards/WikiData/WD~attitude,622645]]'
+subclass_of: '[[_Standards/WikiData/WD~attitude,622645|WD~attitude,622645]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-different_from: '[[_Standards/WikiData/WD~hypocorism,1130279]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+different_from: '[[_Standards/WikiData/WD~hypocorism,1130279|WD~hypocorism,1130279]]'
 instance_of:
-- '[[_Standards/WikiData/WD~vice,1411242]]'
-- '[[_Standards/WikiData/WD~inconsistency,12040628]]'
+- '[[_Standards/WikiData/WD~vice,1411242|WD~vice,1411242]]'
+- '[[_Standards/WikiData/WD~inconsistency,12040628|WD~inconsistency,12040628]]'
 Commons_category: Hypocrisy
 dv_has_:
   name_:

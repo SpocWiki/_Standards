@@ -19,10 +19,10 @@ aliases:
 - 薔薇亞科
 - 장미아과
 has_id_wikidata: Q134655
-taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280]]'
-described_by_source: '[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-parent_taxon: '[[../../../../../../../../../../../../WikiData/WD~Rosaceae,46299]]'
+taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280|WD~subfamily,164280]]'
+described_by_source: '[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+parent_taxon: '[[../../../../../../../../../../../../WikiData/WD~Rosaceae,46299|WD~Rosaceae,46299]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rosa%20eglanteria%20img%203218.jpg
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomyfamily.aspx?type=subfamily&id=3044
 UMLS_CUI: C1080675
@@ -108,7 +108,7 @@ dv_has_:
 
 # [[Rosoideae]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Rosoideae,134655]] 
+#is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Rosoideae,134655|WD~Rosoideae,134655]] 
 
 ## #has_/text_of_/abstract 
 

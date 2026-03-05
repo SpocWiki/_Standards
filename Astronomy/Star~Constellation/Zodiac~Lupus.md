@@ -73,21 +73,21 @@ isReadOnly: false
 tags:
 - astro/Zodiac
 type: Zodiac
-part_of: '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]'
+part_of: '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815|WD~Southern_Celestial_Hemisphere,2380815]]'
 named_after:
-- '[[_Standards/WikiData/WD~Uridimmu,7900581]]'
-- '[[_Standards/WikiData/WD~Canis_lupus,18498]]'
+- '[[_Standards/WikiData/WD~Uridimmu,7900581|WD~Uridimmu,7900581]]'
+- '[[_Standards/WikiData/WD~Canis_lupus,18498|WD~Canis_lupus,18498]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Q10729144,10729144]]'
-- '[[_Standards/WikiData/WD~Template_Stars_of_Lupus,10766717]]'
+- '[[_Standards/WikiData/WD~Q10729144,10729144|WD~Q10729144,10729144]]'
+- '[[_Standards/WikiData/WD~Template_Stars_of_Lupus,10766717|WD~Template_Stars_of_Lupus,10766717]]'
 shares_border_with:
-- '[[_Standards/WikiData/WD~Centaurus,8844]]'
-- '[[_Standards/WikiData/WD~Scorpius,8865]]'
-- '[[_Standards/WikiData/WD~Circinus,10508]]'
-- '[[_Standards/WikiData/WD~Hydra,10578]]'
-- '[[_Standards/WikiData/WD~Norma,10582]]'
-- '[[_Standards/WikiData/WD~Libra,10580]]'
-instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
+- '[[_Standards/WikiData/WD~Centaurus,8844|WD~Centaurus,8844]]'
+- '[[_Standards/WikiData/WD~Scorpius,8865|WD~Scorpius,8865]]'
+- '[[_Standards/WikiData/WD~Circinus,10508|WD~Circinus,10508]]'
+- '[[_Standards/WikiData/WD~Hydra,10578|WD~Hydra,10578]]'
+- '[[_Standards/WikiData/WD~Norma,10582|WD~Norma,10582]]'
+- '[[_Standards/WikiData/WD~Libra,10580|WD~Libra,10580]]'
+instance_of: '[[_Standards/WikiData/WD~constellation,8928|WD~constellation,8928]]'
 area: 334
 Commons_gallery: Lupus
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Lupus%20constellation%20map.svg

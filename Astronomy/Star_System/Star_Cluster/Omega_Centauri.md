@@ -22,12 +22,12 @@ aliases:
 has_id_wikidata: Q14275
 declination: -47.479472
 metallicity: -1.511
-constellation: '[[_Standards/WikiData/WD~Centaurus,8844]]'
-instance_of: '[[_Standards/WikiData/WD~globular_cluster,11276]]'
+constellation: '[[_Standards/WikiData/WD~Centaurus,8844|WD~Centaurus,8844]]'
+instance_of: '[[_Standards/WikiData/WD~globular_cluster,11276|WD~globular_cluster,11276]]'
 declination_component_of_proper_motion: -6.73
 right_ascension_component_of_proper_motion: -3.24
 parallax: 0.193
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Edmond_Halley,47434]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Edmond_Halley,47434|WD~Edmond_Halley,47434]]'
 distance_from_Earth: 5.19
 apparent_magnitude: 5.33
 radial_velocity: 232.7
@@ -47,7 +47,7 @@ catalog_code:
 Commons_category: NGC 5139
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Omega_Centauri,14275]]'
+  - '[[../../../WikiData/WD~Omega_Centauri,14275|WD~Omega_Centauri,14275]]'
   - '[[/_Standards/Astronomy/Star_System/Star_Cluster/Omega_Centauri|Omega_Centauri]]'
   - '[[/_public/Astronomy/Star_System/Star_Cluster/Omega_Centauri.public|Omega_Centauri.public]]'
   - '[[/_internal/Astronomy/Star_System/Star_Cluster/Omega_Centauri.internal|Omega_Centauri.internal]]'
@@ -56,7 +56,7 @@ dv_is_:
   - '[[/_personal/Astronomy/Star_System/Star_Cluster/Omega_Centauri.personal|Omega_Centauri.personal]]'
   - '[[/_secret/Astronomy/Star_System/Star_Cluster/Omega_Centauri.secret|Omega_Centauri.secret]]'
 dv_is_same_as:
-- '[[../../../WikiData/WD~Omega_Centauri,14275]]'
+- '[[../../../WikiData/WD~Omega_Centauri,14275|WD~Omega_Centauri,14275]]'
 - '[[/_Standards/Astronomy/Star_System/Star_Cluster/Omega_Centauri|Omega_Centauri]]'
 - '[[/_public/Astronomy/Star_System/Star_Cluster/Omega_Centauri.public|Omega_Centauri.public]]'
 - '[[/_internal/Astronomy/Star_System/Star_Cluster/Omega_Centauri.internal|Omega_Centauri.internal]]'

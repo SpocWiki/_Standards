@@ -80,16 +80,16 @@ tags:
 title: is_a_pediatric Class
 type: Type
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
 instance_of:
-- '[[_Standards/WikiData/WD~medical_specialty,930752]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-practiced_by: '[[_Standards/WikiData/WD~pediatrician,1919436]]'
-field_of_work: '[[_Standards/WikiData/WD~child_health,57354899]]'
-subclass_of: '[[_Standards/WikiData/WD~medicine,11190]]'
+- '[[_Standards/WikiData/WD~medical_specialty,930752|WD~medical_specialty,930752]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+practiced_by: '[[_Standards/WikiData/WD~pediatrician,1919436|WD~pediatrician,1919436]]'
+field_of_work: '[[_Standards/WikiData/WD~child_health,57354899|WD~child_health,57354899]]'
+subclass_of: '[[_Standards/WikiData/WD~medicine,11190|WD~medicine,11190]]'
 IAB_code: 224
 All_Science_Journal_Classification_Codes:
 - 2919
@@ -222,9 +222,9 @@ Tag Instances like this:
 A specific branch of medical science 
 that specializes in the care of infants, children and adolescents.
 
-#has_/parent_class :: [[../MedicalBusiness, MedicalSpecialty]]  
+#has_/parent_class :: [[../MedicalBusiness, MedicalSpecialty|MedicalBusiness, MedicalSpecialty]]  
 
-#is_/enum_of :: [[../MedicalSpecialty]]  
+#is_/enum_of :: [[../MedicalSpecialty|MedicalSpecialty]]  
 
 #is_/same_as :: [[../../../WikiData/WD~Pediatrics,123028|WD~Pediatrics,123028]] 
 

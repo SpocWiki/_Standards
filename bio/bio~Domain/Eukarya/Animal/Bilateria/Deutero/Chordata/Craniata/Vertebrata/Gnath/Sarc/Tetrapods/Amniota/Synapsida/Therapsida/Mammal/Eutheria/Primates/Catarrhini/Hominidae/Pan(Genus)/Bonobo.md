@@ -39,14 +39,14 @@ aliases:
 - 矮黑猩猩
 - 보노보
 has_id_wikidata: Q19537
-parent_taxon: '[[_Standards/WikiData/WD~Pan,80174]]'
-different_from: '[[_Standards/WikiData/WD~Bonobo,707967]]'
-CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Bonobos,8304864]]'
-IUCN_conservation_status: '[[_Standards/WikiData/WD~Endangered_status,96377276]]'
+parent_taxon: '[[_Standards/WikiData/WD~Pan,80174|WD~Pan,80174]]'
+different_from: '[[_Standards/WikiData/WD~Bonobo,707967|WD~Bonobo,707967]]'
+CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528|WD~Appendix_I_of_CITES,2851528]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Bonobos,8304864|WD~Category_Bonobos,8304864]]'
+IUCN_conservation_status: '[[_Standards/WikiData/WD~Endangered_status,96377276|WD~Endangered_status,96377276]]'
 start_time: -1500000-01-01T00:00:00Z
-taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432|WD~species,7432]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 gestation_period: 8
 mass:
 - 33

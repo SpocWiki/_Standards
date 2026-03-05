@@ -63,24 +63,24 @@ aliases:
 - 공포 장애
 has_id_wikidata: Q175854
 different_from:
-- '[[_Standards/WikiData/WD~anxiety,154430]]'
-- '[[_Standards/WikiData/WD~non_medical_phobia,11976924]]'
+- '[[_Standards/WikiData/WD~anxiety,154430|WD~anxiety,154430]]'
+- '[[_Standards/WikiData/WD~non_medical_phobia,11976924|WD~non_medical_phobia,11976924]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~anxiety,154430]]'
-- '[[_Standards/WikiData/WD~neurosis,181032]]'
-- '[[_Standards/WikiData/WD~anxiety_disorder,544006]]'
-- '[[_Standards/WikiData/WD~disease,12136]]'
-- '[[_Standards/WikiData/WD~fear,44619]]'
-possible_treatment: '[[_Standards/WikiData/WD~psychotherapy,183257]]'
-has_list: '[[_Standards/WikiData/WD~list_of_phobias,327658]]'
-handled_mitigated_or_managed_by: '[[_Standards/WikiData/WD~exposure_therapy,446198]]'
-opposite_of: '[[_Standards/WikiData/WD~philia,1242529]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
-instance_of: '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+- '[[_Standards/WikiData/WD~anxiety,154430|WD~anxiety,154430]]'
+- '[[_Standards/WikiData/WD~neurosis,181032|WD~neurosis,181032]]'
+- '[[_Standards/WikiData/WD~anxiety_disorder,544006|WD~anxiety_disorder,544006]]'
+- '[[_Standards/WikiData/WD~disease,12136|WD~disease,12136]]'
+- '[[_Standards/WikiData/WD~fear,44619|WD~fear,44619]]'
+possible_treatment: '[[_Standards/WikiData/WD~psychotherapy,183257|WD~psychotherapy,183257]]'
+has_list: '[[_Standards/WikiData/WD~list_of_phobias,327658|WD~list_of_phobias,327658]]'
+handled_mitigated_or_managed_by: '[[_Standards/WikiData/WD~exposure_therapy,446198|WD~exposure_therapy,446198]]'
+opposite_of: '[[_Standards/WikiData/WD~philia,1242529|WD~philia,1242529]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686|WD~WikiProject_Medicine,4099686]]'
+instance_of: '[[_Standards/WikiData/WD~class_of_disease,112193867|WD~class_of_disease,112193867]]'
 health_specialty:
-- '[[_Standards/WikiData/WD~psychiatry,7867]]'
-- '[[_Standards/WikiData/WD~psychology,9418]]'
-has_effect: '[[_Standards/WikiData/WD~fear,44619]]'
+- '[[_Standards/WikiData/WD~psychiatry,7867|WD~psychiatry,7867]]'
+- '[[_Standards/WikiData/WD~psychology,9418|WD~psychology,9418]]'
+has_effect: '[[_Standards/WikiData/WD~fear,44619|WD~fear,44619]]'
 subreddit: Phobia
 IMDb_keyword: phobia
 ICD_10_CM:

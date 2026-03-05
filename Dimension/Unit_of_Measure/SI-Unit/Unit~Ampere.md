@@ -63,24 +63,24 @@ aliases:
 - 암페어
 has_id_wikidata: Q25272
 instance_of:
-- '[[_Standards/WikiData/WD~SI_base_unit,223662]]'
-- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
-- '[[_Standards/WikiData/WD~unit_of_electric_current,126734856]]'
+- '[[_Standards/WikiData/WD~SI_base_unit,223662|WD~SI_base_unit,223662]]'
+- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057|WD~UCUM_derived_unit,82047057]]'
+- '[[_Standards/WikiData/WD~unit_of_electric_current,126734856|WD~unit_of_electric_current,126734856]]'
 different_from:
-- '[[_Standards/WikiData/WD~Ampère,292400]]'
-- '[[_Standards/WikiData/WD~A,28047]]'
-part_of: '[[_Standards/WikiData/WD~MKSA_system_of_units,730906]]'
+- '[[_Standards/WikiData/WD~Ampère,292400|WD~Ampère,292400]]'
+- '[[_Standards/WikiData/WD~A,28047|WD~A,28047]]'
+part_of: '[[_Standards/WikiData/WD~MKSA_system_of_units,730906|WD~MKSA_system_of_units,730906]]'
 measured_physical_quantity:
-- '[[_Standards/WikiData/WD~magnetomotive_force,1266982]]'
-- '[[_Standards/WikiData/WD~magnetic_scalar_potential,17162107]]'
-- '[[_Standards/WikiData/WD~magnetic_tension,77993836]]'
-- '[[_Standards/WikiData/WD~current_linkage,77995703]]'
-- '[[_Standards/WikiData/WD~electric_current,29996]]'
+- '[[_Standards/WikiData/WD~magnetomotive_force,1266982|WD~magnetomotive_force,1266982]]'
+- '[[_Standards/WikiData/WD~magnetic_scalar_potential,17162107|WD~magnetic_scalar_potential,17162107]]'
+- '[[_Standards/WikiData/WD~magnetic_tension,77993836|WD~magnetic_tension,77993836]]'
+- '[[_Standards/WikiData/WD~current_linkage,77995703|WD~current_linkage,77995703]]'
+- '[[_Standards/WikiData/WD~electric_current,29996|WD~electric_current,29996]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-named_after: '[[_Standards/WikiData/WD~André_Marie_Ampère,675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+named_after: '[[_Standards/WikiData/WD~André_Marie_Ampère,675|WD~André_Marie_Ampère,675]]'
 conversion_to_SI_unit: 1
 UCUM_code: A
 unit_symbol:
@@ -243,7 +243,7 @@ dv_has_:
 
 # [[Unit~Ampere]] 
 
-#is_a :: [[../SI-Unit]] 
+#is_a :: [[../SI-Unit|SI-Unit]] 
 Unit :: #Unit/SI/A
 #is_a_/unit_/for_/current 
 

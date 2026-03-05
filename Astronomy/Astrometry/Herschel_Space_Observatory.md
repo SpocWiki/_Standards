@@ -46,32 +46,32 @@ aliases:
 - 허셜 우주망원경
 has_id_wikidata: Q209630
 named_after:
-- '[[_Standards/WikiData/WD~Caroline_Herschel,76948]]'
-- '[[_Standards/WikiData/WD~William_Herschel,14277]]'
+- '[[_Standards/WikiData/WD~Caroline_Herschel,76948|WD~Caroline_Herschel,76948]]'
+- '[[_Standards/WikiData/WD~William_Herschel,14277|WD~William_Herschel,14277]]'
 instance_of:
-- '[[_Standards/WikiData/WD~space_telescope,148578]]'
-- '[[_Standards/WikiData/WD~artificial_satellite_of_the_Sun,4203973]]'
-- '[[_Standards/WikiData/WD~former_entity,15893266]]'
-start_point: '[[_Standards/WikiData/WD~ELA_3,455731]]'
+- '[[_Standards/WikiData/WD~space_telescope,148578|WD~space_telescope,148578]]'
+- '[[_Standards/WikiData/WD~artificial_satellite_of_the_Sun,4203973|WD~artificial_satellite_of_the_Sun,4203973]]'
+- '[[_Standards/WikiData/WD~former_entity,15893266|WD~former_entity,15893266]]'
+start_point: '[[_Standards/WikiData/WD~ELA_3,455731|WD~ELA_3,455731]]'
 manufacturer:
-- '[[_Standards/WikiData/WD~Astrium,499207]]'
-- '[[_Standards/WikiData/WD~Alcatel_Space,2832087]]'
-- '[[_Standards/WikiData/WD~Alenia_Spazio,56345735]]'
+- '[[_Standards/WikiData/WD~Astrium,499207|WD~Astrium,499207]]'
+- '[[_Standards/WikiData/WD~Alcatel_Space,2832087|WD~Alcatel_Space,2832087]]'
+- '[[_Standards/WikiData/WD~Alenia_Spazio,56345735|WD~Alenia_Spazio,56345735]]'
 significant_event:
-- '[[_Standards/WikiData/WD~rocket_launch,797476]]'
-- '[[_Standards/WikiData/WD~depletion,5260663]]'
-- '[[_Standards/WikiData/WD~service_entry,29933828]]'
-- '[[_Standards/WikiData/WD~service_retirement,29933838]]'
-type_of_orbit: '[[_Standards/WikiData/WD~Lissajous_orbit,1436769]]'
-different_from: '[[_Standards/WikiData/WD~Telescopium_Herschelii,1614554]]'
+- '[[_Standards/WikiData/WD~rocket_launch,797476|WD~rocket_launch,797476]]'
+- '[[_Standards/WikiData/WD~depletion,5260663|WD~depletion,5260663]]'
+- '[[_Standards/WikiData/WD~service_entry,29933828|WD~service_entry,29933828]]'
+- '[[_Standards/WikiData/WD~service_retirement,29933838|WD~service_retirement,29933838]]'
+type_of_orbit: '[[_Standards/WikiData/WD~Lissajous_orbit,1436769|WD~Lissajous_orbit,1436769]]'
+different_from: '[[_Standards/WikiData/WD~Telescopium_Herschelii,1614554|WD~Telescopium_Herschelii,1614554]]'
 powered_by:
-- '[[_Standards/WikiData/WD~lithium_ion_battery,2822895]]'
-- '[[_Standards/WikiData/WD~spacecraft_solar_array,7556726]]'
-Lagrangian_point: '[[_Standards/WikiData/WD~L2_Earth_Sun,15725510]]'
-space_launch_vehicle: '[[_Standards/WikiData/WD~Ariane_5_ECA,16351692]]'
+- '[[_Standards/WikiData/WD~lithium_ion_battery,2822895|WD~lithium_ion_battery,2822895]]'
+- '[[_Standards/WikiData/WD~spacecraft_solar_array,7556726|WD~spacecraft_solar_array,7556726]]'
+Lagrangian_point: '[[_Standards/WikiData/WD~L2_Earth_Sun,15725510|WD~L2_Earth_Sun,15725510]]'
+space_launch_vehicle: '[[_Standards/WikiData/WD~Ariane_5_ECA,16351692|WD~Ariane_5_ECA,16351692]]'
 operator:
-- '[[_Standards/WikiData/WD~National_Aeronautics_and_Space_Administration,23548]]'
-- '[[_Standards/WikiData/WD~European_Space_Agency,42262]]'
+- '[[_Standards/WikiData/WD~National_Aeronautics_and_Space_Administration,23548|WD~National_Aeronautics_and_Space_Administration,23548]]'
+- '[[_Standards/WikiData/WD~European_Space_Agency,42262|WD~European_Space_Agency,42262]]'
 width: 4
 mass: 3400
 height: 7.5
@@ -87,7 +87,7 @@ service_entry: 2009-07-21T00:00:00Z
 service_retirement: 2013-06-17T00:00:00Z
 dv_is_:
   same_as:
-  - '[[../../WikiData/WD~Herschel_Space_Observatory,209630]]'
+  - '[[../../WikiData/WD~Herschel_Space_Observatory,209630|WD~Herschel_Space_Observatory,209630]]'
   - '[[/_Standards/Astronomy/Astrometry/Herschel_Space_Observatory|Herschel_Space_Observatory]]'
   - '[[/_public/Astronomy/Astrometry/Herschel_Space_Observatory.public|Herschel_Space_Observatory.public]]'
   - '[[/_internal/Astronomy/Astrometry/Herschel_Space_Observatory.internal|Herschel_Space_Observatory.internal]]'
@@ -96,7 +96,7 @@ dv_is_:
   - '[[/_personal/Astronomy/Astrometry/Herschel_Space_Observatory.personal|Herschel_Space_Observatory.personal]]'
   - '[[/_secret/Astronomy/Astrometry/Herschel_Space_Observatory.secret|Herschel_Space_Observatory.secret]]'
 dv_is_same_as:
-- '[[../../WikiData/WD~Herschel_Space_Observatory,209630]]'
+- '[[../../WikiData/WD~Herschel_Space_Observatory,209630|WD~Herschel_Space_Observatory,209630]]'
 - '[[/_Standards/Astronomy/Astrometry/Herschel_Space_Observatory|Herschel_Space_Observatory]]'
 - '[[/_public/Astronomy/Astrometry/Herschel_Space_Observatory.public|Herschel_Space_Observatory.public]]'
 - '[[/_internal/Astronomy/Astrometry/Herschel_Space_Observatory.internal|Herschel_Space_Observatory.internal]]'

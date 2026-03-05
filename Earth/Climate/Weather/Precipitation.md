@@ -103,17 +103,17 @@ aliases:
 - 降水
 - 강수
 has_id_wikidata: Q25257
-subclass_of: '[[_Standards/WikiData/WD~hydrometeor,1972098]]'
-has_characteristic: '[[_Standards/WikiData/WD~amount_of_precipitation,4390017]]'
+subclass_of: '[[_Standards/WikiData/WD~hydrometeor,1972098|WD~hydrometeor,1972098]]'
+has_characteristic: '[[_Standards/WikiData/WD~amount_of_precipitation,4390017|WD~amount_of_precipitation,4390017]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_meteorological_phenomenon,118733587]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047|WD~WikiProject_Climate_change,15305047]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_meteorological_phenomenon,118733587|WD~type_of_meteorological_phenomenon,118733587]]'
 Wikidata_property: precipitation height
-has_cause: '[[_Standards/WikiData/WD~cloud,8074]]'
-part_of: '[[_Standards/WikiData/WD~weather,11663]]'
+has_cause: '[[_Standards/WikiData/WD~cloud,8074|WD~cloud,8074]]'
+part_of: '[[_Standards/WikiData/WD~weather,11663|WD~weather,11663]]'
 Commons_gallery: Precipitation
 image: http://commons.wikimedia.org/wiki/Special:FilePath/December%2019%2C%202008%20Snowstorm%20in%20S.%20Westchester1.JPG
 U_S_National_Archives_Identifier: 10641227

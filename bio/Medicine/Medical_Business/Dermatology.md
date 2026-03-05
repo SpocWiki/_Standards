@@ -93,18 +93,18 @@ excalidraw_plugin: parsed
 has_Template: '[[Extract~Note~Template]]'
 lang: en
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~health_sciences,843601]]'
-- '[[_Standards/WikiData/WD~clinical_sciences,113129019]]'
+- '[[_Standards/WikiData/WD~health_sciences,843601|WD~health_sciences,843601]]'
+- '[[_Standards/WikiData/WD~clinical_sciences,113129019|WD~clinical_sciences,113129019]]'
 instance_of:
-- '[[_Standards/WikiData/WD~medical_specialty,930752]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~medical_specialty,930752|WD~medical_specialty,930752]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
 is_the_study_of:
-- '[[_Standards/WikiData/WD~skin_disease,949302]]'
-- '[[_Standards/WikiData/WD~skin,1074]]'
-practiced_by: '[[_Standards/WikiData/WD~dermatologist,2447386]]'
+- '[[_Standards/WikiData/WD~skin_disease,949302|WD~skin_disease,949302]]'
+- '[[_Standards/WikiData/WD~skin,1074|WD~skin,1074]]'
+practiced_by: '[[_Standards/WikiData/WD~dermatologist,2447386|WD~dermatologist,2447386]]'
 IAB_code: 309
 All_Science_Journal_Classification_Codes: 2708
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Severerash.jpg
@@ -244,9 +244,9 @@ Tag Instances like this:
 
 A specific branch of medical science that pertains to diagnosis and treatment of disorders of skin.
 
-#has_/parent_class :: [[../MedicalBusiness, MedicalSpecialty]]  
+#has_/parent_class :: [[../MedicalBusiness, MedicalSpecialty|MedicalBusiness, MedicalSpecialty]]  
 
-#is_/enum_of :: [[../MedicalSpecialty]]  
+#is_/enum_of :: [[../MedicalSpecialty|MedicalSpecialty]]  
 
 #is_/same_as :: [[../../../WikiData/WD~Dermatology,171171|WD~Dermatology,171171]]
 

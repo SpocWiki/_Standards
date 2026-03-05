@@ -35,9 +35,9 @@ Tag Instances like this:
 
 An international trial.
 
-#has_/parent_class :: [[../MedicalTrialDesign]]  
+#has_/parent_class :: [[../MedicalTrialDesign|MedicalTrialDesign]]  
 
-#is_/enum_of :: [[../MedicalTrialDesign]]  
+#is_/enum_of :: [[../MedicalTrialDesign|MedicalTrialDesign]]  
 
 ## Confidential Links & Embeds: 
 

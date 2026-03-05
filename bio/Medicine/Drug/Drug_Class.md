@@ -109,11 +109,11 @@ A class of medical drugs, e.g., statins.
 Classes can represent general pharmacological class, 
 common mechanisms of action, common physiological effects, etc.
 
-#has_/parent_class :: [[../MedicalEntity]]  
+#has_/parent_class :: [[../MedicalEntity|MedicalEntity]]  
 
 #has_/properties :: [ additionalType, alternateName, code, description, disambiguatingDescription, drug, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ]  
 
-#is_/same_as :: [[_Standards/WikiData/WD~drug_class,2585617]] 
+#is_/same_as :: [[_Standards/WikiData/WD~drug_class,2585617|WD~drug_class,2585617]] 
 
 
 ## #has_/text_of_/abstract 

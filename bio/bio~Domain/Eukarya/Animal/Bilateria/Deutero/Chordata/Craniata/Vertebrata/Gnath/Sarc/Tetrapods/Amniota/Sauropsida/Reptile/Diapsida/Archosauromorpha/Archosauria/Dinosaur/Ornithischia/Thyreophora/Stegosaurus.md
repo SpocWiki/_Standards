@@ -44,15 +44,15 @@ aliases:
 - 스테고사우루스
 has_id_wikidata: Q14388
 location_of_discovery:
-- '[[_Standards/WikiData/WD~Morrison_Formation,1195552]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-parent_taxon: '[[_Standards/WikiData/WD~Stegosaurinae,5480471]]'
-instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290]]'
+- '[[_Standards/WikiData/WD~Morrison_Formation,1195552|WD~Morrison_Formation,1195552]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+parent_taxon: '[[_Standards/WikiData/WD~Stegosaurinae,5480471|WD~Stegosaurinae,5480471]]'
+instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290|WD~fossil_taxon,23038290]]'
 height: 3
 mass: 7
 length: 9
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
-main_food_source: '[[_Standards/WikiData/WD~herbivore,59099]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
+main_food_source: '[[_Standards/WikiData/WD~herbivore,59099|WD~herbivore,59099]]'
 Commons_gallery: Stegosaurus
 Commons_category: Stegosaurus
 taxon_name: Stegosaurus

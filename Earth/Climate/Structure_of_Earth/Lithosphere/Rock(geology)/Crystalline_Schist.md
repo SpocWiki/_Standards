@@ -61,17 +61,17 @@ aliases:
 - 결정편암
 has_id_wikidata: Q15315
 different_from:
-- '[[_Standards/WikiData/WD~slate,207079]]'
-- '[[_Standards/WikiData/WD~shale,751300]]'
+- '[[_Standards/WikiData/WD~slate,207079|WD~slate,207079]]'
+- '[[_Standards/WikiData/WD~shale,751300|WD~shale,751300]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]'
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823|WD~Encyclopedia_of_Armenian_Nature,16387823]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~schistose_rock,9394813]]'
-- '[[_Standards/WikiData/WD~metamorphic_rock,47069]]'
+- '[[_Standards/WikiData/WD~schistose_rock,9394813|WD~schistose_rock,9394813]]'
+- '[[_Standards/WikiData/WD~metamorphic_rock,47069|WD~metamorphic_rock,47069]]'
 CosIng_number: 90583
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Almandin.jpg

@@ -83,22 +83,22 @@ aliases:
 - 饥饿
 - 배고픔
 has_id_wikidata: Q165947
-has_effect: '[[_Standards/WikiData/WD~eating,213449]]'
+has_effect: '[[_Standards/WikiData/WD~eating,213449|WD~eating,213449]]'
 instance_of:
-- '[[_Standards/WikiData/WD~physical_fitness,309252]]'
-- '[[_Standards/WikiData/WD~cause_of_death,1931388]]'
-- '[[_Standards/WikiData/WD~sensation,3955369]]'
+- '[[_Standards/WikiData/WD~physical_fitness,309252|WD~physical_fitness,309252]]'
+- '[[_Standards/WikiData/WD~cause_of_death,1931388|WD~cause_of_death,1931388]]'
+- '[[_Standards/WikiData/WD~sensation,3955369|WD~sensation,3955369]]'
 different_from:
-- '[[_Standards/WikiData/WD~starvation,853930]]'
-- '[[_Standards/WikiData/WD~hunger,3535686]]'
-- '[[_Standards/WikiData/WD~The_Hunger,7740990]]'
-- '[[_Standards/WikiData/WD~Glad,10505172]]'
+- '[[_Standards/WikiData/WD~starvation,853930|WD~starvation,853930]]'
+- '[[_Standards/WikiData/WD~hunger,3535686|WD~hunger,3535686]]'
+- '[[_Standards/WikiData/WD~The_Hunger,7740990|WD~The_Hunger,7740990]]'
+- '[[_Standards/WikiData/WD~Glad,10505172|WD~Glad,10505172]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-measurement_scale: '[[_Standards/WikiData/WD~Global_Hunger_Index,1421372]]'
-opposite_of: '[[_Standards/WikiData/WD~satiety,1562684]]'
-relates_to_sustainable_development_goal_target_or_indicator: '[[_Standards/WikiData/WD~Sustainable_Development_Goal_2,50215926]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+measurement_scale: '[[_Standards/WikiData/WD~Global_Hunger_Index,1421372|WD~Global_Hunger_Index,1421372]]'
+opposite_of: '[[_Standards/WikiData/WD~satiety,1562684|WD~satiety,1562684]]'
+relates_to_sustainable_development_goal_target_or_indicator: '[[_Standards/WikiData/WD~Sustainable_Development_Goal_2,50215926|WD~Sustainable_Development_Goal_2,50215926]]'
 OmegaWiki_Defined_Meaning: 8037
 subreddit: Hunger
 Commons_category: Hunger

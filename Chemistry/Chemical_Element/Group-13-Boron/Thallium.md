@@ -80,7 +80,7 @@ aliases:
 - 铊
 - 탈륨
 has_id_wikidata: Q932
-associated_hazard: '[[_Standards/WikiData/WD~thallium_poisoning,374832]]'
+associated_hazard: '[[_Standards/WikiData/WD~thallium_poisoning,374832|WD~thallium_poisoning,374832]]'
 atomic_number: 81
 canonical_SMILES: '[Tl]'
 CAS_Registry_Number: 7440-28-0
@@ -90,27 +90,27 @@ Commons_gallery: Thallium
 Common_Procurement_Vocabulary_code: 14764000
 CPV_Supplementary_code: AA31
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-different_from: '[[_Standards/WikiData/WD~Tal,5576117]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~William_Crookes,189552]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+different_from: '[[_Standards/WikiData/WD~Tal,5576117|WD~Tal,5576117]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~William_Crookes,189552|WD~William_Crookes,189552]]'
 DSSTOX_compound_identifier: DTXCID301012091
 EC_number: 231-138-1
 electronegativity: 1.62
 element_symbol: Tl
 Gmelin_number: 16308
-has_effect: '[[_Standards/WikiData/WD~thallium_poisoning,374832]]'
+has_effect: '[[_Standards/WikiData/WD~thallium_poisoning,374832|WD~thallium_poisoning,374832]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Thallium%20pieces%20in%20ampoule.jpg
 InChI: InChI=1S/Tl
 InChIKey: BKVIYDNLLOSFOA-UHFFFAOYSA-N
 instance_of:
-- '[[_Standards/WikiData/WD~chalcophile_element,1929547]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+- '[[_Standards/WikiData/WD~chalcophile_element,1929547|WD~chalcophile_element,1929547]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 ionic_radius:
 - 1.5
 - 1.7
@@ -123,15 +123,15 @@ mass: 204.38
 MeSH_tree_code:
 - D01.268.556.847
 - D01.552.544.847
-named_after: '[[_Standards/WikiData/WD~thallus,207495]]'
+named_after: '[[_Standards/WikiData/WD~thallus,207495|WD~thallus,207495]]'
 OmegaWiki_Defined_Meaning: 3761
 part_of:
-- '[[_Standards/WikiData/WD~group_13,189294]]'
-- '[[_Standards/WikiData/WD~period_6,239813]]'
+- '[[_Standards/WikiData/WD~group_13,189294|WD~group_13,189294]]'
+- '[[_Standards/WikiData/WD~period_6,239813|WD~period_6,239813]]'
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20161.jpg
 PubChem_CID: 5359464
 SpocWebEntityId: 21976
-subclass_of: '[[_Standards/WikiData/WD~post-transition_metal,19591]]'
+subclass_of: '[[_Standards/WikiData/WD~post-transition_metal,19591|WD~post-transition_metal,19591]]'
 time_of_discovery_or_invention: 1861
 type: Element
 UMLS_CUI: C0039738
@@ -326,9 +326,9 @@ dv_has_:
         kj_:
           mol: 164.1
 dv_is_:
-  part_of: '[[../Group-13-Boron]]'
+  part_of: '[[../Group-13-Boron|Group-13-Boron]]'
   same_as:
-  - '[[../../../WikiData/WD~Thallium,932]]'
+  - '[[../../../WikiData/WD~Thallium,932|WD~Thallium,932]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Group-13-Boron/Thallium|Thallium]]'
   - '[[/_public/Chemistry/Chemical_Element/Group-13-Boron/Thallium.public|Thallium.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Group-13-Boron/Thallium.internal|Thallium.internal]]'
@@ -337,7 +337,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Chemical_Element/Group-13-Boron/Thallium.personal|Thallium.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Group-13-Boron/Thallium.secret|Thallium.secret]]'
 dv_has_name_group: Group-13-Boron
-dv_is_part_of: '[[../Group-13-Boron]]'
+dv_is_part_of: '[[../Group-13-Boron|Group-13-Boron]]'
 dv_has_name_en: Thallium
 dv_has_name_de: Thallium
 dv_has_value_for_weight_u: 204.383
@@ -356,7 +356,7 @@ dv_has_value_for_energy_form_kj_mol: 164.1
 dv_has_number_of_period: 6
 dv_has_number_of_group: 13
 dv_is_same_as:
-- '[[../../../WikiData/WD~Thallium,932]]'
+- '[[../../../WikiData/WD~Thallium,932|WD~Thallium,932]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Group-13-Boron/Thallium|Thallium]]'
 - '[[/_public/Chemistry/Chemical_Element/Group-13-Boron/Thallium.public|Thallium.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Group-13-Boron/Thallium.internal|Thallium.internal]]'
@@ -401,7 +401,7 @@ has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy`
 has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
 has_number_of_period = `=this.dv_has_number_of_period` 
 has_number_of_group = `=this.dv_has_number_of_group` 
-#is_/same_as :: [[../../../WikiData/WD~Thallium,932]] 
+#is_/same_as :: [[../../../WikiData/WD~Thallium,932|WD~Thallium,932]] 
 
 
 ## #has_/text_of_/abstract 

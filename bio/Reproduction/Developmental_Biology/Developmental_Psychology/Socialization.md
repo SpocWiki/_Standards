@@ -61,18 +61,18 @@ aliases:
 - 社會化
 - 사회화
 has_id_wikidata: Q185467
-studied_by: '[[_Standards/WikiData/WD~sociolinguistics,160845]]'
+studied_by: '[[_Standards/WikiData/WD~sociolinguistics,160845|WD~sociolinguistics,160845]]'
 different_from:
-- '[[_Standards/WikiData/WD~sociability,366435]]'
-- '[[_Standards/WikiData/WD~social_integration,370735]]'
-- '[[_Standards/WikiData/WD~socialization,1190277]]'
-- '[[_Standards/WikiData/WD~resocialization,2638787]]'
-subclass_of: '[[_Standards/WikiData/WD~habituation,1136816]]'
+- '[[_Standards/WikiData/WD~sociability,366435|WD~sociability,366435]]'
+- '[[_Standards/WikiData/WD~social_integration,370735|WD~social_integration,370735]]'
+- '[[_Standards/WikiData/WD~socialization,1190277|WD~socialization,1190277]]'
+- '[[_Standards/WikiData/WD~resocialization,2638787|WD~resocialization,2638787]]'
+subclass_of: '[[_Standards/WikiData/WD~habituation,1136816|WD~habituation,1136816]]'
 instance_of:
-- '[[_Standards/WikiData/WD~social_process,2305441]]'
-- '[[_Standards/WikiData/WD~human_behavior,3769299]]'
-facet_of: '[[_Standards/WikiData/WD~individual_and_society,97830117]]'
-described_by_source: '[[_Standards/WikiData/WD~Soziolinguistika_Hiztegia,124156602]]'
+- '[[_Standards/WikiData/WD~social_process,2305441|WD~social_process,2305441]]'
+- '[[_Standards/WikiData/WD~human_behavior,3769299|WD~human_behavior,3769299]]'
+facet_of: '[[_Standards/WikiData/WD~individual_and_society,97830117|WD~individual_and_society,97830117]]'
+described_by_source: '[[_Standards/WikiData/WD~Soziolinguistika_Hiztegia,124156602|WD~Soziolinguistika_Hiztegia,124156602]]'
 Dewey_Decimal_Classification:
 - 649.1
 - 303.32

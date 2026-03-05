@@ -80,21 +80,21 @@ aliases:
 - 재료과학
 has_id_wikidata: Q228736
 is_the_study_of:
-- '[[_Standards/WikiData/WD~material,214609]]'
-- '[[_Standards/WikiData/WD~material_property,112225193]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~building_materials_science,811897]]'
+- '[[_Standards/WikiData/WD~material,214609|WD~material,214609]]'
+- '[[_Standards/WikiData/WD~material_property,112225193|WD~material_property,112225193]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~building_materials_science,811897|WD~building_materials_science,811897]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~interdisciplinary_science,1665984]]'
-- '[[_Standards/WikiData/WD~natural_science,7991]]'
-different_from: '[[_Standards/WikiData/WD~materials_engineering,1710723]]'
+- '[[_Standards/WikiData/WD~interdisciplinary_science,1665984|WD~interdisciplinary_science,1665984]]'
+- '[[_Standards/WikiData/WD~natural_science,7991|WD~natural_science,7991]]'
+different_from: '[[_Standards/WikiData/WD~materials_engineering,1710723|WD~materials_engineering,1710723]]'
 instance_of:
-- '[[_Standards/WikiData/WD~branch_of_science,2465832]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~branch_of_engineering,12015335]]'
+- '[[_Standards/WikiData/WD~branch_of_science,2465832|WD~branch_of_science,2465832]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~branch_of_engineering,12015335|WD~branch_of_engineering,12015335]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~materials_scientist,21329070]]'
-- '[[_Standards/WikiData/WD~materials_chemist,76939752]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Branches_of_materials_science,78415338]]'
+- '[[_Standards/WikiData/WD~materials_scientist,21329070|WD~materials_scientist,21329070]]'
+- '[[_Standards/WikiData/WD~materials_chemist,76939752|WD~materials_chemist,76939752]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Branches_of_materials_science,78415338|WD~Template_Branches_of_materials_science,78415338]]'
 Basisklassifikation: 51
 All_Science_Journal_Classification_Codes:
 - 2500

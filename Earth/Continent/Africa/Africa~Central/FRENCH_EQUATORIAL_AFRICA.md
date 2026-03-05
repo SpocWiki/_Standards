@@ -10,7 +10,7 @@ tags:
 type: Country
 dv_has_name_en: FRENCH EQUATORIAL AFRICA
 dv_has_name_de: Franz. Äquatorial-Afrika
-dv_has_place_continent: "[[../../Africa]]"
+dv_has_place_continent: "[[../../Africa|Africa]]"
 dv_Language-Id: 496
 dv_is_:
   same_as:

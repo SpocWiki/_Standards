@@ -90,31 +90,31 @@ aliases:
 - 단식
 has_id_wikidata: Q44602
 different_from:
-- '[[_Standards/WikiData/WD~hunger_strike,191355]]'
-- '[[_Standards/WikiData/WD~Post,367026]]'
-- '[[_Standards/WikiData/WD~food_deprivation,1963724]]'
-subclass_of: '[[_Standards/WikiData/WD~abstinence,210978]]'
+- '[[_Standards/WikiData/WD~hunger_strike,191355|WD~hunger_strike,191355]]'
+- '[[_Standards/WikiData/WD~Post,367026|WD~Post,367026]]'
+- '[[_Standards/WikiData/WD~food_deprivation,1963724|WD~food_deprivation,1963724]]'
+subclass_of: '[[_Standards/WikiData/WD~abstinence,210978|WD~abstinence,210978]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~Dictionnaire_Infernal,1210353]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Dictionnaire_Infernal,1210353|WD~Dictionnaire_Infernal,1210353]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490|WD~1922_Encyclopædia_Britannica,15987490]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 has_use:
-- '[[_Standards/WikiData/WD~trance,466475]]'
-- '[[_Standards/WikiData/WD~weight_loss,718113]]'
-- '[[_Standards/WikiData/WD~religious_rite,11795110]]'
-- '[[_Standards/WikiData/WD~preparation,19833559]]'
+- '[[_Standards/WikiData/WD~trance,466475|WD~trance,466475]]'
+- '[[_Standards/WikiData/WD~weight_loss,718113|WD~weight_loss,718113]]'
+- '[[_Standards/WikiData/WD~religious_rite,11795110|WD~religious_rite,11795110]]'
+- '[[_Standards/WikiData/WD~preparation,19833559|WD~preparation,19833559]]'
 instance_of:
-- '[[_Standards/WikiData/WD~human_behavior,3769299]]'
-- '[[_Standards/WikiData/WD~dietary_restriction,118612017]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25689744,25689744]]'
+- '[[_Standards/WikiData/WD~human_behavior,3769299|WD~human_behavior,3769299]]'
+- '[[_Standards/WikiData/WD~dietary_restriction,118612017|WD~dietary_restriction,118612017]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q25689744,25689744|WD~Q25689744,25689744]]'
 Commons_category: Fasting
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fasting%204-Fasting-a-glass-of-water-on-an-empty-plate.jpg
 WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/fasting

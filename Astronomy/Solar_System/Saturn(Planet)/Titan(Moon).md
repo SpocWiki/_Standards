@@ -49,23 +49,23 @@ aliases:
 - 타이탄
 has_id_wikidata: Q2565
 different_from:
-- '[[_Standards/WikiData/WD~Titan,102282]]'
-- '[[_Standards/WikiData/WD~Titania,3322]]'
-highest_point: '[[_Standards/WikiData/WD~Mithrim_Montes,390833]]'
+- '[[_Standards/WikiData/WD~Titan,102282|WD~Titan,102282]]'
+- '[[_Standards/WikiData/WD~Titania,3322|WD~Titania,3322]]'
+highest_point: '[[_Standards/WikiData/WD~Mithrim_Montes,390833|WD~Mithrim_Montes,390833]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~regular_moon,1086783]]'
-- '[[_Standards/WikiData/WD~life_on_Titan,2591050]]'
+- '[[_Standards/WikiData/WD~regular_moon,1086783|WD~regular_moon,1086783]]'
+- '[[_Standards/WikiData/WD~life_on_Titan,2591050|WD~life_on_Titan,2591050]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~atmosphere_of_Titan,1143812]]'
-- '[[_Standards/WikiData/WD~lake_of_Titan,1925406]]'
-has_use: '[[_Standards/WikiData/WD~colonization_of_Titan,2571508]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
-instance_of: '[[_Standards/WikiData/WD~moon_of_Saturn,1972]]'
-parent_astronomical_body: '[[_Standards/WikiData/WD~Saturn,193]]'
+- '[[_Standards/WikiData/WD~atmosphere_of_Titan,1143812|WD~atmosphere_of_Titan,1143812]]'
+- '[[_Standards/WikiData/WD~lake_of_Titan,1925406|WD~lake_of_Titan,1925406]]'
+has_use: '[[_Standards/WikiData/WD~colonization_of_Titan,2571508|WD~colonization_of_Titan,2571508]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664|WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
+instance_of: '[[_Standards/WikiData/WD~moon_of_Saturn,1972|WD~moon_of_Saturn,1972]]'
+parent_astronomical_body: '[[_Standards/WikiData/WD~Saturn,193|WD~Saturn,193]]'
 albedo: 0.22
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Christiaan_Huygens,39599]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Christiaan_Huygens,39599|WD~Christiaan_Huygens,39599]]'
 orbital_eccentricity: 0.0288
-named_after: '[[_Standards/WikiData/WD~titan,45713]]'
+named_after: '[[_Standards/WikiData/WD~titan,45713|WD~titan,45713]]'
 temperature: 93.7
 surface_gravity: 1.354
 radius: 2574

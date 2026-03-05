@@ -34,7 +34,7 @@ Tag Instances like this:
 
 Any feature associated or not with a medical condition. In medicine a symptom is generally subjective while a sign is objective.
 
-#has_/parent_class :: [[../MedicalCondition]]  
+#has_/parent_class :: [[../MedicalCondition|MedicalCondition]]  
 
 #has_/child_/class :: [ MedicalSign, MedicalSymptom ]  
 

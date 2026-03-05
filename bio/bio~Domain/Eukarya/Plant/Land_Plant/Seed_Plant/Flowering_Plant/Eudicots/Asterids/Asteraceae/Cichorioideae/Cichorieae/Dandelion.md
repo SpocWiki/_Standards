@@ -131,22 +131,22 @@ taxon_common_name:
 - Zəncirotu
 - Кульбаба
 this_taxon_is_source_of:
-- '[[_Standards/WikiData/WD~plant_sap,76626]]'
-- '[[_Standards/WikiData/WD~rubber,18113858]]'
-parent_taxon: '[[../../../../../../../../../../../../WikiData/WD~Cichorieae,134662]]'
+- '[[_Standards/WikiData/WD~plant_sap,76626|WD~plant_sap,76626]]'
+- '[[_Standards/WikiData/WD~rubber,18113858|WD~rubber,18113858]]'
+parent_taxon: '[[../../../../../../../../../../../../WikiData/WD~Cichorieae,134662|WD~Cichorieae,134662]]'
 described_by_source:
-- '[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_80(2),112869491]]'
-different_from: '[[_Standards/WikiData/WD~Mniszek,65165330]]'
-studied_by: '[[_Standards/WikiData/WD~taraxacology,104370513]]'
-flower_color: '[[_Standards/WikiData/WD~yellow,943]]'
-has_fruit_type: '[[_Standards/WikiData/WD~achene,14714]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+- '[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_80(2),112869491|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_80(2),112869491]]'
+different_from: '[[_Standards/WikiData/WD~Mniszek,65165330|WD~Mniszek,65165330]]'
+studied_by: '[[_Standards/WikiData/WD~taraxacology,104370513|WD~taraxacology,104370513]]'
+flower_color: '[[_Standards/WikiData/WD~yellow,943|WD~yellow,943]]'
+has_fruit_type: '[[_Standards/WikiData/WD~achene,14714|WD~achene,14714]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
 ITIS_TSN: 36199
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Dandelion%20%28Taraxacum%29%20Clock%20-%20Tennessee%2C%20USA%20-%20May%2031%2C%202014.jpg

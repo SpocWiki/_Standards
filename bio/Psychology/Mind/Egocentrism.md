@@ -45,12 +45,12 @@ aliases:
 - 자아중심주의
 has_id_wikidata: Q463910
 different_from:
-- '[[_Standards/WikiData/WD~narcissism,186529]]'
-- '[[_Standards/WikiData/WD~egoism,238350]]'
-subclass_of: '[[_Standards/WikiData/WD~personality_trait,2393196]]'
+- '[[_Standards/WikiData/WD~narcissism,186529|WD~narcissism,186529]]'
+- '[[_Standards/WikiData/WD~egoism,238350|WD~egoism,238350]]'
+subclass_of: '[[_Standards/WikiData/WD~personality_trait,2393196|WD~personality_trait,2393196]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630|WD~Armenian_Soviet_Encyclopedia,_vol._4,124737630]]'
 dv_has_:
   name_:
     af: Egosentrisme

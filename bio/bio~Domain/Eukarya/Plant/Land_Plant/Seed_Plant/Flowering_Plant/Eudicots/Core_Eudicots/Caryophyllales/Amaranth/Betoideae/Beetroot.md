@@ -100,20 +100,20 @@ aliases:
 - 紅菜頭
 - 비트
 has_id_wikidata: Q165437
-parent_taxon: '[[_Standards/WikiData/WD~Beta_vulgaris_vulgaris,2240448]]'
-taxon_rank: '[[_Standards/WikiData/WD~cultivar_group,4150646]]'
+parent_taxon: '[[_Standards/WikiData/WD~Beta_vulgaris_vulgaris,2240448|WD~Beta_vulgaris_vulgaris,2240448]]'
+taxon_rank: '[[_Standards/WikiData/WD~cultivar_group,4150646|WD~cultivar_group,4150646]]'
 this_taxon_is_source_of:
-- '[[_Standards/WikiData/WD~young_beets,9178190]]'
-- '[[_Standards/WikiData/WD~beet,99548274]]'
+- '[[_Standards/WikiData/WD~young_beets,9178190|WD~young_beets,9178190]]'
+- '[[_Standards/WikiData/WD~beet,99548274|WD~beet,99548274]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~useful_plant,11992872]]'
-- '[[_Standards/WikiData/WD~vegetable,11004]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q95388733,95388733]]'
-hardiness_of_plant: '[[_Standards/WikiData/WD~2,99546131]]'
+- '[[_Standards/WikiData/WD~useful_plant,11992872|WD~useful_plant,11992872]]'
+- '[[_Standards/WikiData/WD~vegetable,11004|WD~vegetable,11004]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q95388733,95388733|WD~Q95388733,95388733]]'
+hardiness_of_plant: '[[_Standards/WikiData/WD~2,99546131|WD~2,99546131]]'
 has_use:
-- '[[_Standards/WikiData/WD~vegetable,11004]]'
+- '[[_Standards/WikiData/WD~vegetable,11004|WD~vegetable,11004]]'
 instance_of:
-- '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 food_energy: 43
 PLU_code:
 - 4539

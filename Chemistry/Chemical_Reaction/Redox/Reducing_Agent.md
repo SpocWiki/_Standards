@@ -55,23 +55,23 @@ aliases:
 - 還原劑
 - 환원제
 has_id_wikidata: Q216830
-used_by: '[[_Standards/WikiData/WD~redox,82682]]'
-opposite_of: '[[_Standards/WikiData/WD~oxidizing_agent,187689]]'
+used_by: '[[_Standards/WikiData/WD~redox,82682|WD~redox,82682]]'
+opposite_of: '[[_Standards/WikiData/WD~oxidizing_agent,187689|WD~oxidizing_agent,187689]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~electron_donor,911571]]'
-- '[[_Standards/WikiData/WD~indicators_and_reagents,50377175]]'
-- '[[_Standards/WikiData/WD~class_of_chemical_entities_with_similar_applications_or_functions,56256173]]'
-has_effect: '[[_Standards/WikiData/WD~reduction,912546]]'
+- '[[_Standards/WikiData/WD~electron_donor,911571|WD~electron_donor,911571]]'
+- '[[_Standards/WikiData/WD~indicators_and_reagents,50377175|WD~indicators_and_reagents,50377175]]'
+- '[[_Standards/WikiData/WD~class_of_chemical_entities_with_similar_applications_or_functions,56256173|WD~class_of_chemical_entities_with_similar_applications_or_functions,56256173]]'
+has_effect: '[[_Standards/WikiData/WD~reduction,912546|WD~reduction,912546]]'
 instance_of:
-- '[[_Standards/WikiData/WD~role,4897819]]'
-- '[[_Standards/WikiData/WD~class_of_chemical_substances_by_use,100434640]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~fuel,42501]]'
+- '[[_Standards/WikiData/WD~role,4897819|WD~role,4897819]]'
+- '[[_Standards/WikiData/WD~class_of_chemical_substances_by_use,100434640|WD~class_of_chemical_substances_by_use,100434640]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~fuel,42501|WD~fuel,42501]]'
 UMLS_CUI: C0376446
 MeSH_tree_code: D27.720.470.410.690
 Commons_category: Reducing agents
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~reducing_agent,216830]]'
+  - '[[_Standards/WikiData/WD~reducing_agent,216830|WD~reducing_agent,216830]]'
   - '[[/_Standards/Chemistry/Chemical_Reaction/Redox/Reducing_Agent|Reducing_Agent]]'
   - '[[/_public/Chemistry/Chemical_Reaction/Redox/Reducing_Agent.public|Reducing_Agent.public]]'
   - '[[/_internal/Chemistry/Chemical_Reaction/Redox/Reducing_Agent.internal|Reducing_Agent.internal]]'
@@ -80,7 +80,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Chemical_Reaction/Redox/Reducing_Agent.personal|Reducing_Agent.personal]]'
   - '[[/_secret/Chemistry/Chemical_Reaction/Redox/Reducing_Agent.secret|Reducing_Agent.secret]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~reducing_agent,216830]]'
+- '[[_Standards/WikiData/WD~reducing_agent,216830|WD~reducing_agent,216830]]'
 - '[[/_Standards/Chemistry/Chemical_Reaction/Redox/Reducing_Agent|Reducing_Agent]]'
 - '[[/_public/Chemistry/Chemical_Reaction/Redox/Reducing_Agent.public|Reducing_Agent.public]]'
 - '[[/_internal/Chemistry/Chemical_Reaction/Redox/Reducing_Agent.internal|Reducing_Agent.internal]]'
@@ -158,7 +158,7 @@ dv_has_:
 
 # [[Reducing_Agent]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~reducing_agent,216830]]
+#is_/same_as :: [[_Standards/WikiData/WD~reducing_agent,216830|WD~reducing_agent,216830]]
 
 ## #has_/text_of_/abstract 
 

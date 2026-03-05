@@ -34,7 +34,7 @@ Tag Instances like this:
 
 Design models for observational medical studies. Enumerated type.
 
-#has_/parent_class :: [[../MedicalEnumeration]]  
+#has_/parent_class :: [[../MedicalEnumeration|MedicalEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

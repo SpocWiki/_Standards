@@ -61,26 +61,26 @@ aliases:
 - 중합체
 has_id_wikidata: Q81163
 subclass_of:
-- '[[_Standards/WikiData/WD~mixture,169336]]'
-- '[[_Standards/WikiData/WD~material,214609]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~macromolecule,178593]]'
-has_part_s_: '[[_Standards/WikiData/WD~macromolecule,178593]]'
-opposite_of: '[[_Standards/WikiData/WD~monomer,178827]]'
-fabrication_method: '[[_Standards/WikiData/WD~polymerization,181898]]'
-has_cause: '[[_Standards/WikiData/WD~polymerization,181898]]'
+- '[[_Standards/WikiData/WD~mixture,169336|WD~mixture,169336]]'
+- '[[_Standards/WikiData/WD~material,214609|WD~material,214609]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~macromolecule,178593|WD~macromolecule,178593]]'
+has_part_s_: '[[_Standards/WikiData/WD~macromolecule,178593|WD~macromolecule,178593]]'
+opposite_of: '[[_Standards/WikiData/WD~monomer,178827|WD~monomer,178827]]'
+fabrication_method: '[[_Standards/WikiData/WD~polymerization,181898|WD~polymerization,181898]]'
+has_cause: '[[_Standards/WikiData/WD~polymerization,181898|WD~polymerization,181898]]'
 different_from:
-- '[[_Standards/WikiData/WD~covalent_network_solid,632350]]'
-- '[[_Standards/WikiData/WD~oligomer,726004]]'
-- '[[_Standards/WikiData/WD~synthetic_resin,1418040]]'
-- '[[_Standards/WikiData/WD~prepolymer,2402182]]'
+- '[[_Standards/WikiData/WD~covalent_network_solid,632350|WD~covalent_network_solid,632350]]'
+- '[[_Standards/WikiData/WD~oligomer,726004|WD~oligomer,726004]]'
+- '[[_Standards/WikiData/WD~synthetic_resin,1418040|WD~synthetic_resin,1418040]]'
+- '[[_Standards/WikiData/WD~prepolymer,2402182|WD~prepolymer,2402182]]'
 studied_by:
-- '[[_Standards/WikiData/WD~polymer_physics,902120]]'
-- '[[_Standards/WikiData/WD~polymer_science,3456979]]'
+- '[[_Standards/WikiData/WD~polymer_physics,902120|WD~polymer_physics,902120]]'
+- '[[_Standards/WikiData/WD~polymer_science,3456979|WD~polymer_science,3456979]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-instance_of: '[[_Standards/WikiData/WD~group_or_class_of_chemical_substances,17339814]]'
-has_characteristic: '[[_Standards/WikiData/WD~type_of_polymer,119896085]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+instance_of: '[[_Standards/WikiData/WD~group_or_class_of_chemical_substances,17339814|WD~group_or_class_of_chemical_substances,17339814]]'
+has_characteristic: '[[_Standards/WikiData/WD~type_of_polymer,119896085|WD~type_of_polymer,119896085]]'
 Wikidata_property: polymer of
 Commons_category: Polymers
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Fabricio%20Cardenas%20%28Culex%29-polym%C3%A8re.wav
@@ -91,7 +91,7 @@ MeSH_tree_code:
 - J01.637.051.720
 dv_is_:
   same_as:
-  - '[[../../WikiData/WD~Polymer,81163]]'
+  - '[[../../WikiData/WD~Polymer,81163|WD~Polymer,81163]]'
   - '[[/_Standards/Chemistry/Organic_Chemistry/Polymer|Polymer]]'
   - '[[/_public/Chemistry/Organic_Chemistry/Polymer.public|Polymer.public]]'
   - '[[/_internal/Chemistry/Organic_Chemistry/Polymer.internal|Polymer.internal]]'
@@ -100,7 +100,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Organic_Chemistry/Polymer.personal|Polymer.personal]]'
   - '[[/_secret/Chemistry/Organic_Chemistry/Polymer.secret|Polymer.secret]]'
 dv_is_same_as:
-- '[[../../WikiData/WD~Polymer,81163]]'
+- '[[../../WikiData/WD~Polymer,81163|WD~Polymer,81163]]'
 - '[[/_Standards/Chemistry/Organic_Chemistry/Polymer|Polymer]]'
 - '[[/_public/Chemistry/Organic_Chemistry/Polymer.public|Polymer.public]]'
 - '[[/_internal/Chemistry/Organic_Chemistry/Polymer.internal|Polymer.internal]]'

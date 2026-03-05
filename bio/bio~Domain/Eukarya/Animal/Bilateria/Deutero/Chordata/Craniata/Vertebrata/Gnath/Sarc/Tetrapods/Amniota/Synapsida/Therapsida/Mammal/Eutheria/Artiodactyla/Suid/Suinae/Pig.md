@@ -103,16 +103,16 @@ aliases:
 has_id_wikidata: Q10798
 title: Sus
 different_from:
-- '[[_Standards/WikiData/WD~Sus,858848]]'
-- '[[_Standards/WikiData/WD~Sus,4792031]]'
-- '[[_Standards/WikiData/WD~Sus,7647444]]'
-- '[[_Standards/WikiData/WD~Sus,12004076]]'
-- '[[_Standards/WikiData/WD~Sus,37003135]]'
-- '[[_Standards/WikiData/WD~sus,111512764]]'
-parent_taxon: '[[_Standards/WikiData/WD~Suini,15618436]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-has_part_s_: '[[_Standards/WikiData/WD~penis,58]]'
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+- '[[_Standards/WikiData/WD~Sus,858848|WD~Sus,858848]]'
+- '[[_Standards/WikiData/WD~Sus,4792031|WD~Sus,4792031]]'
+- '[[_Standards/WikiData/WD~Sus,7647444|WD~Sus,7647444]]'
+- '[[_Standards/WikiData/WD~Sus,12004076|WD~Sus,12004076]]'
+- '[[_Standards/WikiData/WD~Sus,37003135|WD~Sus,37003135]]'
+- '[[_Standards/WikiData/WD~sus,111512764|WD~sus,111512764]]'
+parent_taxon: '[[_Standards/WikiData/WD~Suini,15618436|WD~Suini,15618436]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+has_part_s_: '[[_Standards/WikiData/WD~penis,58|WD~penis,58]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
 ITIS_TSN: 180721
 taxon_common_name:
 - Schwein

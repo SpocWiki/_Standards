@@ -94,40 +94,40 @@ aliases:
 - 음핵
 has_id_wikidata: Q873072
 has_part_s_:
-- '[[_Standards/WikiData/WD~clitoral_hood,503427]]'
-- '[[_Standards/WikiData/WD~corpus_cavernosum_clitoridis,1637759]]'
-- '[[_Standards/WikiData/WD~bulb_of_vestibule,1648555]]'
-- '[[_Standards/WikiData/WD~frenulum_of_clitoris,1862100]]'
-- '[[_Standards/WikiData/WD~clitoral_glans,3241429]]'
-- '[[_Standards/WikiData/WD~Plexus_of_Kobelt,129704783]]'
+- '[[_Standards/WikiData/WD~clitoral_hood,503427|WD~clitoral_hood,503427]]'
+- '[[_Standards/WikiData/WD~corpus_cavernosum_clitoridis,1637759|WD~corpus_cavernosum_clitoridis,1637759]]'
+- '[[_Standards/WikiData/WD~bulb_of_vestibule,1648555|WD~bulb_of_vestibule,1648555]]'
+- '[[_Standards/WikiData/WD~frenulum_of_clitoris,1862100|WD~frenulum_of_clitoris,1862100]]'
+- '[[_Standards/WikiData/WD~clitoral_glans,3241429|WD~clitoral_glans,3241429]]'
+- '[[_Standards/WikiData/WD~Plexus_of_Kobelt,129704783|WD~Plexus_of_Kobelt,129704783]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- "[[_Standards/WikiData/WD~Gray's_Anatomy_(20th_edition),19558994]]"
-- '[[_Standards/WikiData/WD~Q34066596,34066596]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- "[[_Standards/WikiData/WD~Gray's_Anatomy_(20th_edition),19558994|WD~Gray's_Anatomy_(20th_edition),19558994]]"
+- '[[_Standards/WikiData/WD~Q34066596,34066596|WD~Q34066596,34066596]]'
 venous_drainage:
-- '[[_Standards/WikiData/WD~superficial_dorsal_veins_of_clitoris,949634]]'
-- '[[_Standards/WikiData/WD~deep_dorsal_vein_of_clitoris,4115295]]'
-follows: '[[_Standards/WikiData/WD~genital_tubercle,1502241]]'
-part_of: '[[_Standards/WikiData/WD~vulva,2192288]]'
+- '[[_Standards/WikiData/WD~superficial_dorsal_veins_of_clitoris,949634|WD~superficial_dorsal_veins_of_clitoris,949634]]'
+- '[[_Standards/WikiData/WD~deep_dorsal_vein_of_clitoris,4115295|WD~deep_dorsal_vein_of_clitoris,4115295]]'
+follows: '[[_Standards/WikiData/WD~genital_tubercle,1502241|WD~genital_tubercle,1502241]]'
+part_of: '[[_Standards/WikiData/WD~vulva,2192288|WD~vulva,2192288]]'
 different_from:
-- '[[_Standards/WikiData/WD~clitoral_glans,3241429]]'
-- '[[_Standards/WikiData/WD~human_clitoris,117460175]]'
-arterial_supply: '[[_Standards/WikiData/WD~dorsal_artery_of_clitoris,4117090]]'
+- '[[_Standards/WikiData/WD~clitoral_glans,3241429|WD~clitoral_glans,3241429]]'
+- '[[_Standards/WikiData/WD~human_clitoris,117460175|WD~human_clitoris,117460175]]'
+arterial_supply: '[[_Standards/WikiData/WD~dorsal_artery_of_clitoris,4117090|WD~dorsal_artery_of_clitoris,4117090]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~sex_organ,4620674]]'
-- '[[_Standards/WikiData/WD~subdivision_of_urogenital_part_of_female_perineum,66515784]]'
-- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]'
-innervated_by: '[[_Standards/WikiData/WD~dorsal_nerve_of_the_clitoris,5298796]]'
-facet_of: "[[_Standards/WikiData/WD~women's_health,8031191]]"
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
+- '[[_Standards/WikiData/WD~sex_organ,4620674|WD~sex_organ,4620674]]'
+- '[[_Standards/WikiData/WD~subdivision_of_urogenital_part_of_female_perineum,66515784|WD~subdivision_of_urogenital_part_of_female_perineum,66515784]]'
+- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975|WD~particular_anatomical_entity,112826975]]'
+innervated_by: '[[_Standards/WikiData/WD~dorsal_nerve_of_the_clitoris,5298796|WD~dorsal_nerve_of_the_clitoris,5298796]]'
+facet_of: "[[_Standards/WikiData/WD~women's_health,8031191|WD~women's_health,8031191]]"
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720|WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
 instance_of:
-- '[[_Standards/WikiData/WD~organ_type,103812529]]'
-- '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Clitoris,109334868]]'
-anatomical_locations: '[[_Standards/WikiData/WD~vagina,5880]]'
-sexually_homologous_with: '[[_Standards/WikiData/WD~penis,58]]'
+- '[[_Standards/WikiData/WD~organ_type,103812529|WD~organ_type,103812529]]'
+- '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905|WD~class_of_anatomical_entity,112826905]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Clitoris,109334868|WD~Template_Clitoris,109334868]]'
+anatomical_locations: '[[_Standards/WikiData/WD~vagina,5880|WD~vagina,5880]]'
+sexually_homologous_with: '[[_Standards/WikiData/WD~penis,58|WD~penis,58]]'
 OmegaWiki_Defined_Meaning: 7688
 IMDb_keyword: clitoris
 TA98_Latin_term: clitoris

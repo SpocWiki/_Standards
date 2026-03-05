@@ -66,10 +66,10 @@ aliases:
 - 褐色矮星
 - 갈색왜성
 has_id_wikidata: Q101600
-has_list: '[[_Standards/WikiData/WD~list_of_brown_dwarfs,138068]]'
-subclass_of: '[[_Standards/WikiData/WD~substellar_object,3132741]]'
-instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_brown_dwarf,25816887]]'
+has_list: '[[_Standards/WikiData/WD~list_of_brown_dwarfs,138068|WD~list_of_brown_dwarfs,138068]]'
+subclass_of: '[[_Standards/WikiData/WD~substellar_object,3132741|WD~substellar_object,3132741]]'
+instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909|WD~astronomical_object_type,17444909]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_brown_dwarf,25816887|WD~Template_Infobox_brown_dwarf,25816887]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/BrownDwarfs%20Comparison%2001.png
 equivalent_class: http://dbpedia.org/ontology/BrownDwarf
 P8189: 987007553774205171

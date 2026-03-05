@@ -69,20 +69,20 @@ aliases:
 - 벌목
 has_id_wikidata: Q22651
 parent_taxon:
-- '[[_Standards/WikiData/WD~Endopterygota,304358]]'
-- '[[_Standards/WikiData/WD~Hymenopterida,21215825]]'
-- '[[_Standards/WikiData/WD~Holometabola,37140800]]'
+- '[[_Standards/WikiData/WD~Endopterygota,304358|WD~Endopterygota,304358]]'
+- '[[_Standards/WikiData/WD~Hymenopterida,21215825|WD~Hymenopterida,21215825]]'
+- '[[_Standards/WikiData/WD~Holometabola,37140800|WD~Holometabola,37140800]]'
 described_by_source:
-- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-studied_by: '[[_Standards/WikiData/WD~hymenopterology,4138441]]'
-diel_cycle: '[[_Standards/WikiData/WD~diurnality,4284186]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q8976569,8976569]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Hymenoptera,13933969]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
+- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+studied_by: '[[_Standards/WikiData/WD~hymenopterology,4138441|WD~hymenopterology,4138441]]'
+diel_cycle: '[[_Standards/WikiData/WD~diurnality,4284186|WD~diurnality,4284186]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q8976569,8976569|WD~Q8976569,8976569]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Hymenoptera,13933969|WD~Template_Hymenoptera,13933969]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~order,36602|WD~order,36602]]'
 OmegaWiki_Defined_Meaning: 1836
 ITIS_TSN: 152741
 taxon_common_name:

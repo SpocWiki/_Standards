@@ -46,18 +46,18 @@ aliases:
 - 金屬量
 - 중원소 함량
 has_id_wikidata: Q217030
-subclass_of: '[[_Standards/WikiData/WD~dimensionless_quantity,126818]]'
-instance_of: '[[_Standards/WikiData/WD~physical_property,4373292]]'
+subclass_of: '[[_Standards/WikiData/WD~dimensionless_quantity,126818|WD~dimensionless_quantity,126818]]'
+instance_of: '[[_Standards/WikiData/WD~physical_property,4373292|WD~physical_property,4373292]]'
 different_from:
-- '[[_Standards/WikiData/WD~metallism,6822850]]'
-- '[[_Standards/WikiData/WD~metal,11426]]'
+- '[[_Standards/WikiData/WD~metallism,6822850|WD~metallism,6822850]]'
+- '[[_Standards/WikiData/WD~metal,11426|WD~metal,11426]]'
 Wikidata_property: metallicity
 ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mn>1</mn></mstyle></mrow></math>
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/A%20Swarm%20of%20Ancient%20Stars%20-%20GPN-2000-000930.jpg
 Stack_Exchange_tag: https://physics.stackexchange.com/tags/metallicity
 dv_is_:
   same_as:
-  - '[[../../WikiData/WD~Metallicity,217030]]'
+  - '[[../../WikiData/WD~Metallicity,217030|WD~Metallicity,217030]]'
   - '[[/_Standards/Astronomy/Star/Metallicity|Metallicity]]'
   - '[[/_public/Astronomy/Star/Metallicity.public|Metallicity.public]]'
   - '[[/_internal/Astronomy/Star/Metallicity.internal|Metallicity.internal]]'
@@ -66,7 +66,7 @@ dv_is_:
   - '[[/_personal/Astronomy/Star/Metallicity.personal|Metallicity.personal]]'
   - '[[/_secret/Astronomy/Star/Metallicity.secret|Metallicity.secret]]'
 dv_is_same_as:
-- '[[../../WikiData/WD~Metallicity,217030]]'
+- '[[../../WikiData/WD~Metallicity,217030|WD~Metallicity,217030]]'
 - '[[/_Standards/Astronomy/Star/Metallicity|Metallicity]]'
 - '[[/_public/Astronomy/Star/Metallicity.public|Metallicity.public]]'
 - '[[/_internal/Astronomy/Star/Metallicity.internal|Metallicity.internal]]'

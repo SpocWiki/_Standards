@@ -69,9 +69,9 @@ aliases:
 - 수소 결합
 has_id_wikidata: Q169324
 subclass_of:
-- '[[_Standards/WikiData/WD~association,744719]]'
-- '[[_Standards/WikiData/WD~dipole_dipole_interaction,906841]]'
-- '[[_Standards/WikiData/WD~chemical_bond,44424]]'
+- '[[_Standards/WikiData/WD~association,744719|WD~association,744719]]'
+- '[[_Standards/WikiData/WD~dipole_dipole_interaction,906841|WD~dipole_dipole_interaction,906841]]'
+- '[[_Standards/WikiData/WD~chemical_bond,44424|WD~chemical_bond,44424]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/H-Bruecke-delta.svg
 UMLS_CUI:
 - C0020276

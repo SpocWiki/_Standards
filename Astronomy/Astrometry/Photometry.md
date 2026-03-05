@@ -1,7 +1,7 @@
 ---
 dv_is_:
   same_as:
-    - "[[../../WikiData/WD~Photometry,1073340]]"
+    - "[[../../WikiData/WD~Photometry,1073340|WD~Photometry,1073340]]"
     - "[[/_Standards/Astronomy/Astrometry/Photometry|Photometry]]"
     - "[[/_public/Astronomy/Astrometry/Photometry.public|Photometry.public]]"
     - "[[/_internal/Astronomy/Astrometry/Photometry.internal|Photometry.internal]]"
@@ -10,7 +10,7 @@ dv_is_:
     - "[[/_personal/Astronomy/Astrometry/Photometry.personal|Photometry.personal]]"
     - "[[/_secret/Astronomy/Astrometry/Photometry.secret|Photometry.secret]]"
 dv_is_same_as:
-  - "[[../../WikiData/WD~Photometry,1073340]]"
+  - "[[../../WikiData/WD~Photometry,1073340|WD~Photometry,1073340]]"
   - "[[/_Standards/Astronomy/Astrometry/Photometry|Photometry]]"
   - "[[/_public/Astronomy/Astrometry/Photometry.public|Photometry.public]]"
   - "[[/_internal/Astronomy/Astrometry/Photometry.internal|Photometry.internal]]"

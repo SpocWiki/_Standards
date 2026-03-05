@@ -35,9 +35,9 @@ Tag Instances like this:
 
 Available by prescription only.
 
-#has_/parent_class :: [[../DrugPrescriptionStatus]]  
+#has_/parent_class :: [[../DrugPrescriptionStatus|DrugPrescriptionStatus]]  
 
-#is_/enum_of :: [[../DrugPrescriptionStatus]]  
+#is_/enum_of :: [[../DrugPrescriptionStatus|DrugPrescriptionStatus]]  
 
 ## Confidential Links & Embeds: 
 

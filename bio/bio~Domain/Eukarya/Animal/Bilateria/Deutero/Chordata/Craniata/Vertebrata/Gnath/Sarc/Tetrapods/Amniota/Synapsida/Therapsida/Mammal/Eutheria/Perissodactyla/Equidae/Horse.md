@@ -232,54 +232,54 @@ audio: http://commons.wikimedia.org/wiki/Special:FilePath/Mares-Prefer-the-Voice
 Colon_Classification: KX442
 Commons_category: Horses
 Commons_gallery: Horses
-depicted_by: '[[_Standards/WikiData/WD~horses_in_art,2962928]]'
+depicted_by: '[[_Standards/WikiData/WD~horses_in_art,2962928|WD~horses_in_art,2962928]]'
 described_by_source:
-- '[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926–1947),20078554|WD~Great_Soviet_Encyclopedia_(1926–1947),20078554]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 different_from:
-- '[[_Standards/WikiData/WD~Q15962837,15962837]]'
+- '[[_Standards/WikiData/WD~Q15962837,15962837|WD~Q15962837,15962837]]'
 DPLA_subject_term: Horses
-gait: '[[_Standards/WikiData/WD~horse_gait,754659]]'
+gait: '[[_Standards/WikiData/WD~horse_gait,754659|WD~horse_gait,754659]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~impulsion,56882]]'
+- '[[_Standards/WikiData/WD~impulsion,56882|WD~impulsion,56882]]'
 has_effect:
-- '[[_Standards/WikiData/WD~allergy_to_horses,82747771]]'
+- '[[_Standards/WikiData/WD~allergy_to_horses,82747771|WD~allergy_to_horses,82747771]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~fur,197204]]'
-- '[[_Standards/WikiData/WD~stallion,757833]]'
-- '[[_Standards/WikiData/WD~horse_hoof,841290]]'
-- '[[_Standards/WikiData/WD~horsehair,964736]]'
-- '[[_Standards/WikiData/WD~mare,1104034]]'
-- '[[_Standards/WikiData/WD~back,3037298]]'
-- '[[_Standards/WikiData/WD~Equine_vision,5384514]]'
-- '[[_Standards/WikiData/WD~horse_teeth,5905688]]'
-- '[[_Standards/WikiData/WD~horsetail,7676058]]'
-- '[[_Standards/WikiData/WD~horse_ears,99067849]]'
-- '[[_Standards/WikiData/WD~horse_head,116939736]]'
+- '[[_Standards/WikiData/WD~fur,197204|WD~fur,197204]]'
+- '[[_Standards/WikiData/WD~stallion,757833|WD~stallion,757833]]'
+- '[[_Standards/WikiData/WD~horse_hoof,841290|WD~horse_hoof,841290]]'
+- '[[_Standards/WikiData/WD~horsehair,964736|WD~horsehair,964736]]'
+- '[[_Standards/WikiData/WD~mare,1104034|WD~mare,1104034]]'
+- '[[_Standards/WikiData/WD~back,3037298|WD~back,3037298]]'
+- '[[_Standards/WikiData/WD~Equine_vision,5384514|WD~Equine_vision,5384514]]'
+- '[[_Standards/WikiData/WD~horse_teeth,5905688|WD~horse_teeth,5905688]]'
+- '[[_Standards/WikiData/WD~horsetail,7676058|WD~horsetail,7676058]]'
+- '[[_Standards/WikiData/WD~horse_ears,99067849|WD~horse_ears,99067849]]'
+- '[[_Standards/WikiData/WD~horse_head,116939736|WD~horse_head,116939736]]'
 has_use:
-- '[[_Standards/WikiData/WD~equestrianism,179226]]'
-- '[[_Standards/WikiData/WD~chariot,203788]]'
-- '[[_Standards/WikiData/WD~horse-drawn_vehicle,1112950]]'
-- '[[_Standards/WikiData/WD~draft_animal,11637629]]'
+- '[[_Standards/WikiData/WD~equestrianism,179226|WD~equestrianism,179226]]'
+- '[[_Standards/WikiData/WD~chariot,203788|WD~chariot,203788]]'
+- '[[_Standards/WikiData/WD~horse-drawn_vehicle,1112950|WD~horse-drawn_vehicle,1112950]]'
+- '[[_Standards/WikiData/WD~draft_animal,11637629|WD~draft_animal,11637629]]'
 heart_rate: 38
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Biandintz%20eta%20zaldiak%20-%20modified2.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 Krugosvet_article: nauka_i_tehnika/biologiya/LOSHAD_DOMASHNYAYA.html
 MeSH_tree_code: B01.050.150.900.649.313.984.235.472
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/D%C3%BClmen%2C%20Wildpferde%20--%202020.jpg
 OmegaWiki_Defined_Meaning: 1780
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Wikivoyage%20page%20banner%20horses%20two.jpg
 permanent_duplicated_item:
-- '[[_Standards/WikiData/WD~Q124130190,124130190]]'
+- '[[_Standards/WikiData/WD~Q124130190,124130190|WD~Q124130190,124130190]]'
 population: 58315816
-produced_sound: '[[_Standards/WikiData/WD~neigh,1742041]]'
+produced_sound: '[[_Standards/WikiData/WD~neigh,1742041|WD~neigh,1742041]]'
 pronunciation_audio:
 - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Isabelle%20Fabri%C3%A8s%20%28Culex%29-cheval.wav
 - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Visiteuse%20Journ%C3%A9e%202%20-%2016%20%28Madehub%29-cheval.wav
@@ -299,35 +299,35 @@ properties_for_this_type:
 - place of death
 - father
 - mother
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Equus_ferus_caballus,26644764]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Equus_ferus_caballus,26644764|WD~Equus_ferus_caballus,26644764]]'
 small_logo_or_icon: http://commons.wikimedia.org/wiki/Special:FilePath/Font%20Awesome%205%20solid%20horse.svg
 studied_in:
-- '[[_Standards/WikiData/WD~hippology,1157006]]'
+- '[[_Standards/WikiData/WD~hippology,1157006|WD~hippology,1157006]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~domesticated_mammal,57814795]]'
-- '[[_Standards/WikiData/WD~milk_yielding_animal,110878538]]'
+- '[[_Standards/WikiData/WD~domesticated_mammal,57814795|WD~domesticated_mammal,57814795]]'
+- '[[_Standards/WikiData/WD~milk_yielding_animal,110878538|WD~milk_yielding_animal,110878538]]'
 taxon_common_name:
 - omid
 - horse
 - caballu
 taxon_name: Equus ferus caballus
-taxon_rank: '[[_Standards/WikiData/WD~subspecies,68947]]'
+taxon_rank: '[[_Standards/WikiData/WD~subspecies,68947|WD~subspecies,68947]]'
 this_taxon_is_source_of:
-- '[[_Standards/WikiData/WD~horse_manure,534853]]'
-- '[[_Standards/WikiData/WD~equine_chorionic_gonadotropin,929668]]'
-- '[[_Standards/WikiData/WD~horsehair,964736]]'
-- '[[_Standards/WikiData/WD~horse_meat,1124327]]'
-- '[[_Standards/WikiData/WD~mare_milk,2011964]]'
-- '[[_Standards/WikiData/WD~horse_leather,25381748]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Horses,10814975]]'
+- '[[_Standards/WikiData/WD~horse_manure,534853|WD~horse_manure,534853]]'
+- '[[_Standards/WikiData/WD~equine_chorionic_gonadotropin,929668|WD~equine_chorionic_gonadotropin,929668]]'
+- '[[_Standards/WikiData/WD~horsehair,964736|WD~horsehair,964736]]'
+- '[[_Standards/WikiData/WD~horse_meat,1124327|WD~horse_meat,1124327]]'
+- '[[_Standards/WikiData/WD~mare_milk,2011964|WD~mare_milk,2011964]]'
+- '[[_Standards/WikiData/WD~horse_leather,25381748|WD~horse_leather,25381748]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Horses,10814975|WD~Portal_Horses,10814975]]'
 UMLS_CUI: C0019944
 Unicode_character:
 - "\U0001F434"
 - "\U0001F40E"
 UNSPSC_Code: 10101506
-used_by: '[[_Standards/WikiData/WD~equestrian,2730732]]'
+used_by: '[[_Standards/WikiData/WD~equestrian,2730732|WD~equestrian,2730732]]'
 uses:
-- '[[_Standards/WikiData/WD~horseshoe,192130]]'
+- '[[_Standards/WikiData/WD~horseshoe,192130|WD~horseshoe,192130]]'
 U_S_National_Archives_Identifier:
 - 10637564
 video: http://commons.wikimedia.org/wiki/Special:FilePath/20120616Domaene%20Mechtildshausen04.ogv

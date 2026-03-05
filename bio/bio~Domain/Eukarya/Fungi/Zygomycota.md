@@ -42,10 +42,10 @@ aliases:
 - 접합균류
 has_id_wikidata: Q215384
 title: Zygomycota
-taxon_rank: '[[_Standards/WikiData/WD~division,334460]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-parent_taxon: '[[_Standards/WikiData/WD~Eomycota,23674661]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~division,334460|WD~division,334460]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+parent_taxon: '[[_Standards/WikiData/WD~Eomycota,23674661|WD~Eomycota,23674661]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 ITIS_TSN: 936291
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Mucor%20spec.%20-%20Lindsey%201a.jpg

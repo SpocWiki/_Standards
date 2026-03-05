@@ -69,20 +69,20 @@ aliases:
 - 어귀
 has_id_wikidata: Q47053
 subclass_of:
-- '[[_Standards/WikiData/WD~ecoregion,295469]]'
-- '[[_Standards/WikiData/WD~river_mouth,1233637]]'
-- '[[_Standards/WikiData/WD~marine_ecosystem,3304561]]'
-- '[[_Standards/WikiData/WD~river_ecosystem,3578576]]'
-- '[[_Standards/WikiData/WD~body_of_water,15324]]'
-- '[[_Standards/WikiData/WD~ecosystem,37813]]'
+- '[[_Standards/WikiData/WD~ecoregion,295469|WD~ecoregion,295469]]'
+- '[[_Standards/WikiData/WD~river_mouth,1233637|WD~river_mouth,1233637]]'
+- '[[_Standards/WikiData/WD~marine_ecosystem,3304561|WD~marine_ecosystem,3304561]]'
+- '[[_Standards/WikiData/WD~river_ecosystem,3578576|WD~river_ecosystem,3578576]]'
+- '[[_Standards/WikiData/WD~body_of_water,15324|WD~body_of_water,15324]]'
+- '[[_Standards/WikiData/WD~ecosystem,37813|WD~ecosystem,37813]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
-facet_of: '[[_Standards/WikiData/WD~river_morphology,4400371]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517|WD~Small_Soviet_Encyclopedia,66386517]]'
+facet_of: '[[_Standards/WikiData/WD~river_morphology,4400371|WD~river_morphology,4400371]]'
 Code_of_Natura_2000_FFH_habitat: 1130
 GeoNames_feature_code: H.ESTY
 OmegaWiki_Defined_Meaning: 1345

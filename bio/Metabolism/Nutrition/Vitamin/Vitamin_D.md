@@ -60,21 +60,21 @@ aliases:
 - 维生素D
 - 비타민 D
 has_id_wikidata: Q175621
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Vitamin_D,7370275]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Vitamin_D,7370275|WD~Category_Vitamin_D,7370275]]'
 part_of:
-- '[[_Standards/WikiData/WD~response_to_vitamin_D,14599705]]'
-- '[[_Standards/WikiData/WD~vitamin_D_metabolic_process,14599717]]'
-- '[[_Standards/WikiData/WD~vitamin_D_biosynthetic_process,14599721]]'
-- '[[_Standards/WikiData/WD~vitamin_D_catabolic_process,14599725]]'
-- '[[_Standards/WikiData/WD~vitamin_D_binding,14874296]]'
-- '[[_Standards/WikiData/WD~cellular_response_to_vitamin_D,14907166]]'
-described_by_source: '[[_Standards/WikiData/WD~Vitamin_D_metabolism,29645849]]'
+- '[[_Standards/WikiData/WD~response_to_vitamin_D,14599705|WD~response_to_vitamin_D,14599705]]'
+- '[[_Standards/WikiData/WD~vitamin_D_metabolic_process,14599717|WD~vitamin_D_metabolic_process,14599717]]'
+- '[[_Standards/WikiData/WD~vitamin_D_biosynthetic_process,14599721|WD~vitamin_D_biosynthetic_process,14599721]]'
+- '[[_Standards/WikiData/WD~vitamin_D_catabolic_process,14599725|WD~vitamin_D_catabolic_process,14599725]]'
+- '[[_Standards/WikiData/WD~vitamin_D_binding,14874296|WD~vitamin_D_binding,14874296]]'
+- '[[_Standards/WikiData/WD~cellular_response_to_vitamin_D,14907166|WD~cellular_response_to_vitamin_D,14907166]]'
+described_by_source: '[[_Standards/WikiData/WD~Vitamin_D_metabolism,29645849|WD~Vitamin_D_metabolism,29645849]]'
 subject_has_role:
-- '[[_Standards/WikiData/WD~bone_density_conservation_agents,50430327]]'
-- '[[_Standards/WikiData/WD~vitamin,34956]]'
-instance_of: '[[_Standards/WikiData/WD~group_of_chemical_entities,55640599]]'
-LiverTox_likelihood_score: '[[_Standards/WikiData/WD~LiverTox_toxicity_likelihood_category_E,83284667]]'
-subclass_of: '[[_Standards/WikiData/WD~vitamin,34956]]'
+- '[[_Standards/WikiData/WD~bone_density_conservation_agents,50430327|WD~bone_density_conservation_agents,50430327]]'
+- '[[_Standards/WikiData/WD~vitamin,34956|WD~vitamin,34956]]'
+instance_of: '[[_Standards/WikiData/WD~group_of_chemical_entities,55640599|WD~group_of_chemical_entities,55640599]]'
+LiverTox_likelihood_score: '[[_Standards/WikiData/WD~LiverTox_toxicity_likelihood_category_E,83284667|WD~LiverTox_toxicity_likelihood_category_E,83284667]]'
+subclass_of: '[[_Standards/WikiData/WD~vitamin,34956|WD~vitamin,34956]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cholecalciferol-vitamin-D3-from-xtal-3D-sticks.png
 MCN_code: 2936.29.21
 exact_match:

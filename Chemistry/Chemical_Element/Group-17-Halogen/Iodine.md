@@ -90,23 +90,23 @@ aliases:
 - 아이오딘
 - 요드
 has_id_wikidata: Q1103
-associated_hazard: '[[_Standards/WikiData/WD~iodine_exposure,21174767]]'
+associated_hazard: '[[_Standards/WikiData/WD~iodine_exposure,21174767|WD~iodine_exposure,21174767]]'
 atomic_number: 53
 boiling_point: 184.4
 CAS_Registry_Number: 7553-56-2
 Commons_category: Iodine
 Commons_gallery: Iodine
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 different_from:
-- '[[_Standards/WikiData/WD~diiodine,2064483]]'
-- '[[_Standards/WikiData/WD~י,19115]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Bernard_Courtois,468330]]'
+- '[[_Standards/WikiData/WD~diiodine,2064483|WD~diiodine,2064483]]'
+- '[[_Standards/WikiData/WD~י,19115|WD~י,19115]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Bernard_Courtois,468330|WD~Bernard_Courtois,468330]]'
 electric_dipole_moment: 0
 electronegativity: 3
 electron_configuration:
@@ -115,11 +115,11 @@ electron_configuration:
 element_symbol: I
 Gmelin_number: 1160
 Gujarati_Vishwakosh_entry: આયોડિન-રસાયણ
-has_use: '[[_Standards/WikiData/WD~iodine_in_medicine,28196266]]'
+has_use: '[[_Standards/WikiData/WD~iodine_in_medicine,28196266|WD~iodine_in_medicine,28196266]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sample%20of%20iodine.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+- '[[_Standards/WikiData/WD~lithophile,1130479|WD~lithophile,1130479]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 ionic_radius:
 - 2.2
 - 0.42
@@ -132,35 +132,35 @@ ionization_energy:
 Krugosvet_article:
 - nauka_i_tehnika/himiya/IOD_V_PRIRODE.html
 - nauka_i_tehnika/himiya/IOD.html
-location_of_discovery: '[[_Standards/WikiData/WD~Paris,90]]'
+location_of_discovery: '[[_Standards/WikiData/WD~Paris,90|WD~Paris,90]]'
 mass: 126.90447
 melting_point: 113.7
 MeSH_tree_code: D01.268.380.400
-named_after: '[[_Standards/WikiData/WD~violet,428124]]'
+named_after: '[[_Standards/WikiData/WD~violet,428124|WD~violet,428124]]'
 NSC_number: 42355
 OmegaWiki_Defined_Meaning: 2018
 part_of:
-- '[[_Standards/WikiData/WD~period_5,244982]]'
-- '[[_Standards/WikiData/WD~halogens,19605]]'
+- '[[_Standards/WikiData/WD~period_5,244982|WD~period_5,244982]]'
+- '[[_Standards/WikiData/WD~halogens,19605|WD~halogens,19605]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q9610%20%28ben%29-Tahmid-%E0%A6%86%E0%A6%AF%E0%A6%BC%E0%A7%8B%E0%A6%A1%E0%A6%BF%E0%A6%A8.wav
 Reaxys_registry_number: 3587194
 RTECS_number: NN1575000
 SpocWebEntityId: 21949
 subclass_of:
-- '[[_Standards/WikiData/WD~period_5,244982]]'
-- '[[_Standards/WikiData/WD~diatomic_nonmetal,19753344]]'
-- '[[_Standards/WikiData/WD~nonmetal,19600]]'
-- '[[_Standards/WikiData/WD~halogens,19605]]'
+- '[[_Standards/WikiData/WD~period_5,244982|WD~period_5,244982]]'
+- '[[_Standards/WikiData/WD~diatomic_nonmetal,19753344|WD~diatomic_nonmetal,19753344]]'
+- '[[_Standards/WikiData/WD~nonmetal,19600|WD~nonmetal,19600]]'
+- '[[_Standards/WikiData/WD~halogens,19605|WD~halogens,19605]]'
 subject_has_role:
-- '[[_Standards/WikiData/WD~trace_metal,7831165]]'
-- '[[_Standards/WikiData/WD~local_anti-infective_agent,50377188]]'
+- '[[_Standards/WikiData/WD~trace_metal,7831165|WD~trace_metal,7831165]]'
+- '[[_Standards/WikiData/WD~local_anti-infective_agent,50377188|WD~local_anti-infective_agent,50377188]]'
 time_of_discovery_or_invention: 1811
 type: Element
 UMLS_CUI: C0021968
 Unicode_character: 碘
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Iodine,1103]]'
+  - '[[../../../WikiData/WD~Iodine,1103|WD~Iodine,1103]]'
   - '[[../../../WikiData/WD~Iodine,1103|WD~Iodine,1103]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Group-17-Halogen/Iodine|Iodine]]'
   - '[[/_public/Chemistry/Chemical_Element/Group-17-Halogen/Iodine.public|Iodine.public]]'
@@ -169,7 +169,7 @@ dv_is_:
   - '[[/_private/Chemistry/Chemical_Element/Group-17-Halogen/Iodine.private|Iodine.private]]'
   - '[[/_personal/Chemistry/Chemical_Element/Group-17-Halogen/Iodine.personal|Iodine.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Group-17-Halogen/Iodine.secret|Iodine.secret]]'
-  part_of: '[[../Group-17-Halogen]]'
+  part_of: '[[../Group-17-Halogen|Group-17-Halogen]]'
 dv_has_:
   name_:
     abbreviated: I
@@ -383,7 +383,7 @@ dv_has_:
         kj_:
           mol: 23.752
 dv_is_same_as:
-- '[[../../../WikiData/WD~Iodine,1103]]'
+- '[[../../../WikiData/WD~Iodine,1103|WD~Iodine,1103]]'
 - '[[../../../WikiData/WD~Iodine,1103|WD~Iodine,1103]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Group-17-Halogen/Iodine|Iodine]]'
 - '[[/_public/Chemistry/Chemical_Element/Group-17-Halogen/Iodine.public|Iodine.public]]'
@@ -393,7 +393,7 @@ dv_is_same_as:
 - '[[/_personal/Chemistry/Chemical_Element/Group-17-Halogen/Iodine.personal|Iodine.personal]]'
 - '[[/_secret/Chemistry/Chemical_Element/Group-17-Halogen/Iodine.secret|Iodine.secret]]'
 dv_has_name_group: Group-17-Halogene
-dv_is_part_of: '[[../Group-17-Halogen]]'
+dv_is_part_of: '[[../Group-17-Halogen|Group-17-Halogen]]'
 dv_has_name_en: Iodine
 dv_has_name_de: Iod
 dv_has_value_for_weight_u: 126.9045
@@ -418,7 +418,7 @@ dv_has_number_of_electrons: 52
 # [[Iodine]] 碘 
 
 
-#is_/same_as :: [[../../../WikiData/WD~Iodine,1103]]  
+#is_/same_as :: [[../../../WikiData/WD~Iodine,1103|WD~Iodine,1103]]  
 
 #chemic/Element 
 has_name_group = `=this.dv_has_name_group` 

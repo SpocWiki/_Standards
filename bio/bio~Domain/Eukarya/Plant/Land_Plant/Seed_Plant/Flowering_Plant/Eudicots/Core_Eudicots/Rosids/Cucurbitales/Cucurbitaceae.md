@@ -67,17 +67,17 @@ aliases:
 - 박과
 has_id_wikidata: Q8314
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_73(1),112869479]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
-uses: '[[_Standards/WikiData/WD~CAM_photosynthesis,858313]]'
-taxonomic_type: '[[_Standards/WikiData/WD~Cucurbita,5339301]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_73(1),112869479|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_73(1),112869479]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+uses: '[[_Standards/WikiData/WD~CAM_photosynthesis,858313|WD~CAM_photosynthesis,858313]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Cucurbita,5339301|WD~Cucurbita,5339301]]'
 start_time: -62000000-01-01T00:00:00Z
-has_fruit_type: '[[_Standards/WikiData/WD~berry,13184]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+has_fruit_type: '[[_Standards/WikiData/WD~berry,13184|WD~berry,13184]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409|WD~family,35409]]'
 ITIS_TSN: 22337
 Commons_category: Cucurbitaceae
 taxon_name: Cucurbitaceae

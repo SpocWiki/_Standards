@@ -7,12 +7,12 @@ aliases:
 - خنفساء الكاحل الليفى النحيل
 - خنفساء الكاحل الليفي النحيل
 has_id_wikidata: Q602990
-parent_taxon: '[[_Standards/WikiData/WD~Chrysomelini,2967389]]'
+parent_taxon: '[[_Standards/WikiData/WD~Chrysomelini,2967389|WD~Chrysomelini,2967389]]'
 NBN_System_Key:
 - NHMSYS0021478878
 - NHMSYS0020152402
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
 ITIS_TSN: 719649
 Commons_category: Leptinotarsa
 taxon_name: Leptinotarsa
@@ -112,7 +112,7 @@ dv_has_:
 
 # [[Leptinotarsa]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Leptinotarsa,602990]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Leptinotarsa,602990|WD~Leptinotarsa,602990]] 
 
 ## #has_/text_of_/abstract 
 

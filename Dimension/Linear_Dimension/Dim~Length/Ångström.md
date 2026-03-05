@@ -37,15 +37,15 @@ aliases:
 - 埃格斯特朗
 - 옹스트롬
 has_id_wikidata: Q81454
-named_after: '[[_Standards/WikiData/WD~Anders_Jonas_Ångström,187258]]'
+named_after: '[[_Standards/WikiData/WD~Anders_Jonas_Ångström,187258|WD~Anders_Jonas_Ångström,187258]]'
 instance_of:
-- '[[_Standards/WikiData/WD~unit_of_length,1978718]]'
-- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-different_from: '[[_Standards/WikiData/WD~Å,9989]]'
+- '[[_Standards/WikiData/WD~unit_of_length,1978718|WD~unit_of_length,1978718]]'
+- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057|WD~UCUM_derived_unit,82047057]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+different_from: '[[_Standards/WikiData/WD~Å,9989|WD~Å,9989]]'
 conversion_to_standard_unit: 1000000000
 conversion_to_SI_unit: 1e-10
-measured_physical_quantity: '[[_Standards/WikiData/WD~length,36253]]'
+measured_physical_quantity: '[[_Standards/WikiData/WD~length,36253|WD~length,36253]]'
 UN_CEFACT_Common_Code: A11
 OmegaWiki_Defined_Meaning: 542808
 UCUM_code: Ao

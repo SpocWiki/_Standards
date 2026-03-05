@@ -30,15 +30,15 @@ aliases:
 - 土壤圈
 - 토양권
 has_id_wikidata: Q941094
-studied_by: '[[_Standards/WikiData/WD~pedology,215501]]'
+studied_by: '[[_Standards/WikiData/WD~pedology,215501|WD~pedology,215501]]'
 instance_of:
-- '[[_Standards/WikiData/WD~geosphere,241284]]'
-- '[[_Standards/WikiData/WD~geographic_envelope,2627400]]'
-part_of: '[[_Standards/WikiData/WD~landscape_sphere,8535454]]'
+- '[[_Standards/WikiData/WD~geosphere,241284|WD~geosphere,241284]]'
+- '[[_Standards/WikiData/WD~geographic_envelope,2627400|WD~geographic_envelope,2627400]]'
+part_of: '[[_Standards/WikiData/WD~landscape_sphere,8535454|WD~landscape_sphere,8535454]]'
 OmegaWiki_Defined_Meaning: 2735
 dv_is_:
   same_as:
-  - '[[../../../../../../WikiData/WD~Pedosphere,941094]]'
+  - '[[../../../../../../WikiData/WD~Pedosphere,941094|WD~Pedosphere,941094]]'
   - '[[/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere|Pedosphere]]'
   - '[[/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.public|Pedosphere.public]]'
   - '[[/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.internal|Pedosphere.internal]]'
@@ -47,7 +47,7 @@ dv_is_:
   - '[[/_personal/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.personal|Pedosphere.personal]]'
   - '[[/_secret/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.secret|Pedosphere.secret]]'
 dv_is_same_as:
-- '[[../../../../../../WikiData/WD~Pedosphere,941094]]'
+- '[[../../../../../../WikiData/WD~Pedosphere,941094|WD~Pedosphere,941094]]'
 - '[[/_Standards/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere|Pedosphere]]'
 - '[[/_public/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.public|Pedosphere.public]]'
 - '[[/_internal/Earth/Climate/Structure_of_Earth/Lithosphere/Earth_Crust/Soil/Pedosphere.internal|Pedosphere.internal]]'

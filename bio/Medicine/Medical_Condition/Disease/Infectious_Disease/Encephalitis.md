@@ -59,31 +59,31 @@ aliases:
 - 腦炎
 - 뇌염
 has_id_wikidata: Q199615
-health_specialty: '[[_Standards/WikiData/WD~neurology,83042]]'
+health_specialty: '[[_Standards/WikiData/WD~neurology,83042|WD~neurology,83042]]'
 has_cause:
-- '[[_Standards/WikiData/WD~infection,166231]]'
-- '[[_Standards/WikiData/WD~autoimmunity,192360]]'
+- '[[_Standards/WikiData/WD~infection,166231|WD~infection,166231]]'
+- '[[_Standards/WikiData/WD~autoimmunity,192360|WD~autoimmunity,192360]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~encephalopathy,576349]]'
-- '[[_Standards/WikiData/WD~neurological_symptom,12040808]]'
-- '[[_Standards/WikiData/WD~brain_inflammatory_disease,55785279]]'
-- '[[_Standards/WikiData/WD~disease,12136]]'
+- '[[_Standards/WikiData/WD~encephalopathy,576349|WD~encephalopathy,576349]]'
+- '[[_Standards/WikiData/WD~neurological_symptom,12040808|WD~neurological_symptom,12040808]]'
+- '[[_Standards/WikiData/WD~brain_inflammatory_disease,55785279|WD~brain_inflammatory_disease,55785279]]'
+- '[[_Standards/WikiData/WD~disease,12136|WD~disease,12136]]'
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]'
 maintained_by_WikiProject:
-- '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
-- '[[_Standards/WikiData/WD~WikiProject_Epilepsy,21829916]]'
-- '[[_Standards/WikiData/WD~Neurology_task_force,21830349]]'
-- '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
+- '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686|WD~WikiProject_Medicine,4099686]]'
+- '[[_Standards/WikiData/WD~WikiProject_Epilepsy,21829916|WD~WikiProject_Epilepsy,21829916]]'
+- '[[_Standards/WikiData/WD~Neurology_task_force,21830349|WD~Neurology_task_force,21830349]]'
+- '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832|WD~WikiProject_Zika_Corpus,54439832]]'
 on_focus_list_of_Wikimedia_project:
-- '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
-- '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
+- '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686|WD~WikiProject_Medicine,4099686]]'
+- '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832|WD~WikiProject_Zika_Corpus,54439832]]'
 instance_of:
-- '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
-- '[[_Standards/WikiData/WD~symptom_or_sign,112965645]]'
+- '[[_Standards/WikiData/WD~class_of_disease,112193867|WD~class_of_disease,112193867]]'
+- '[[_Standards/WikiData/WD~symptom_or_sign,112965645|WD~symptom_or_sign,112965645]]'
 DiseasesDB: 22543
 ICD_10_CM: A85
 ICD_9_CM:

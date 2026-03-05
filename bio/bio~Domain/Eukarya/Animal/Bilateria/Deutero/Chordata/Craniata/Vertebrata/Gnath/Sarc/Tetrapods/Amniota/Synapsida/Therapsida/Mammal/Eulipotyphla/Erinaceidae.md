@@ -68,27 +68,27 @@ aliases:
 - 蝟科
 - 고슴도치과
 has_id_wikidata: Q28257
-has_use: '[[_Standards/WikiData/WD~biological_pest_control,116890]]'
-taxonomic_type: '[[_Standards/WikiData/WD~Erinaceus,498993]]'
+has_use: '[[_Standards/WikiData/WD~biological_pest_control,116890|WD~biological_pest_control,116890]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Erinaceus,498993|WD~Erinaceus,498993]]'
 described_by_source:
-- '[[../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 parent_taxon:
-- '[[_Standards/WikiData/WD~Erinaceomorpha,6241223]]'
-- '[[../../../../../../../../../../../../../../../../../WikiData/WD~Eulipotyphla,16635184]]'
+- '[[_Standards/WikiData/WD~Erinaceomorpha,6241223|WD~Erinaceomorpha,6241223]]'
+- '[[../../../../../../../../../../../../../../../../../WikiData/WD~Eulipotyphla,16635184|WD~Eulipotyphla,16635184]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Erinaceidae,11049061]]'
-- '[[_Standards/WikiData/WD~Template_Erinaceidae,14335912]]'
-code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+- '[[_Standards/WikiData/WD~Template_Erinaceidae,11049061|WD~Template_Erinaceidae,11049061]]'
+- '[[_Standards/WikiData/WD~Template_Erinaceidae,14335912|WD~Template_Erinaceidae,14335912]]'
+code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011|WD~International_Code_of_Zoological_Nomenclature,13011]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409|WD~family,35409]]'
 main_food_source:
-- '[[_Standards/WikiData/WD~Mus,39275]]'
-- '[[_Standards/WikiData/WD~worm,47253]]'
+- '[[_Standards/WikiData/WD~Mus,39275|WD~Mus,39275]]'
+- '[[_Standards/WikiData/WD~worm,47253|WD~worm,47253]]'
 Commons_gallery: Erinaceidae
 Commons_category: Erinaceidae
 taxon_name: Erinaceidae

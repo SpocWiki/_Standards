@@ -64,16 +64,16 @@ aliases:
 - 호기심
 has_id_wikidata: Q366791
 has_effect:
-- '[[_Standards/WikiData/WD~learning,133500]]'
-- '[[_Standards/WikiData/WD~exploration,6502154]]'
-- '[[_Standards/WikiData/WD~inquiry,21004260]]'
+- '[[_Standards/WikiData/WD~learning,133500|WD~learning,133500]]'
+- '[[_Standards/WikiData/WD~exploration,6502154|WD~exploration,6502154]]'
+- '[[_Standards/WikiData/WD~inquiry,21004260|WD~inquiry,21004260]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~interest,616314]]'
-- '[[_Standards/WikiData/WD~desire,775842]]'
-- '[[_Standards/WikiData/WD~personality_trait,2393196]]'
-instance_of: '[[_Standards/WikiData/WD~desire,775842]]'
-part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
-facet_of: '[[_Standards/WikiData/WD~psychology,9418]]'
+- '[[_Standards/WikiData/WD~interest,616314|WD~interest,616314]]'
+- '[[_Standards/WikiData/WD~desire,775842|WD~desire,775842]]'
+- '[[_Standards/WikiData/WD~personality_trait,2393196|WD~personality_trait,2393196]]'
+instance_of: '[[_Standards/WikiData/WD~desire,775842|WD~desire,775842]]'
+part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620|WD~psychology_terminology,77468620]]'
+facet_of: '[[_Standards/WikiData/WD~psychology,9418|WD~psychology,9418]]'
 Dewey_Decimal_Classification: 155.413
 Commons_category: Curiosity
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Toni%20Frissell%20in%20Europe%20ppmsca19005u.jpg

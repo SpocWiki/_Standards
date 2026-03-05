@@ -46,19 +46,19 @@ aliases:
 - 赫茲
 - 헤르츠
 has_id_wikidata: Q39369
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~cycle_per_second,5198171]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~cycle_per_second,5198171|WD~cycle_per_second,5198171]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~ISO_80000_3_2006_Quantities_and_units_Part_3_Space_and_time,26711932]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~ISO_80000_3_2006_Quantities_and_units_Part_3_Space_and_time,26711932|WD~ISO_80000_3_2006_Quantities_and_units_Part_3_Space_and_time,26711932]]'
 instance_of:
-- '[[_Standards/WikiData/WD~unit_of_frequency,21162604]]'
-- '[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328]]'
-- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
-- '[[_Standards/WikiData/WD~unit_of_call_intensity,126895767]]'
-derived_from_base_unit: '[[_Standards/WikiData/WD~second,11574]]'
-measured_physical_quantity: '[[_Standards/WikiData/WD~frequency,11652]]'
+- '[[_Standards/WikiData/WD~unit_of_frequency,21162604|WD~unit_of_frequency,21162604]]'
+- '[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328|WD~SI_unit_with_special_name,68618328]]'
+- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057|WD~UCUM_derived_unit,82047057]]'
+- '[[_Standards/WikiData/WD~unit_of_call_intensity,126895767|WD~unit_of_call_intensity,126895767]]'
+derived_from_base_unit: '[[_Standards/WikiData/WD~second,11574|WD~second,11574]]'
+measured_physical_quantity: '[[_Standards/WikiData/WD~frequency,11652|WD~frequency,11652]]'
 conversion_to_SI_unit: 1
-named_after: '[[_Standards/WikiData/WD~Heinrich_Hertz,41257]]'
+named_after: '[[_Standards/WikiData/WD~Heinrich_Hertz,41257|WD~Heinrich_Hertz,41257]]'
 OmegaWiki_Defined_Meaning: 333024
 Commons_category: Hertz
 UCUM_code: Hz

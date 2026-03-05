@@ -111,36 +111,36 @@ aliases:
 - 머리뼈
 has_id_wikidata: Q13147
 arterial_supply:
-- '[[_Standards/WikiData/WD~external_carotid_artery,125276]]'
-- '[[_Standards/WikiData/WD~internal_carotid_artery,515848]]'
-- '[[_Standards/WikiData/WD~right_common_carotid_artery,30126918]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~bone,265868]]'
+- '[[_Standards/WikiData/WD~external_carotid_artery,125276|WD~external_carotid_artery,125276]]'
+- '[[_Standards/WikiData/WD~internal_carotid_artery,515848|WD~internal_carotid_artery,515848]]'
+- '[[_Standards/WikiData/WD~right_common_carotid_artery,30126918|WD~right_common_carotid_artery,30126918]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~bone,265868|WD~bone,265868]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- "[[_Standards/WikiData/WD~Gray's_Anatomy_(20th_edition),19558994]]"
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- "[[_Standards/WikiData/WD~Gray's_Anatomy_(20th_edition),19558994|WD~Gray's_Anatomy_(20th_edition),19558994]]"
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~calvaria,613203]]'
-- '[[_Standards/WikiData/WD~facial_skeleton,1068553]]'
-- '[[_Standards/WikiData/WD~neurocranium,1148039]]'
-- '[[_Standards/WikiData/WD~base_of_skull,1423729]]'
-- '[[_Standards/WikiData/WD~human_mandible,5283631]]'
-- '[[_Standards/WikiData/WD~cranium,28947902]]'
-- '[[_Standards/WikiData/WD~parietal_bone,16298]]'
-part_of: '[[_Standards/WikiData/WD~axial_skeleton,1377526]]'
-connects_with: '[[_Standards/WikiData/WD~cervical_spine,1572320]]'
+- '[[_Standards/WikiData/WD~calvaria,613203|WD~calvaria,613203]]'
+- '[[_Standards/WikiData/WD~facial_skeleton,1068553|WD~facial_skeleton,1068553]]'
+- '[[_Standards/WikiData/WD~neurocranium,1148039|WD~neurocranium,1148039]]'
+- '[[_Standards/WikiData/WD~base_of_skull,1423729|WD~base_of_skull,1423729]]'
+- '[[_Standards/WikiData/WD~human_mandible,5283631|WD~human_mandible,5283631]]'
+- '[[_Standards/WikiData/WD~cranium,28947902|WD~cranium,28947902]]'
+- '[[_Standards/WikiData/WD~parietal_bone,16298|WD~parietal_bone,16298]]'
+part_of: '[[_Standards/WikiData/WD~axial_skeleton,1377526|WD~axial_skeleton,1377526]]'
+connects_with: '[[_Standards/WikiData/WD~cervical_spine,1572320|WD~cervical_spine,1572320]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~structure_with_developmental_contribution_from_neural_crest,28659665]]'
-- '[[_Standards/WikiData/WD~subdivision_of_skeletal_system,66591855]]'
-- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]'
+- '[[_Standards/WikiData/WD~structure_with_developmental_contribution_from_neural_crest,28659665|WD~structure_with_developmental_contribution_from_neural_crest,28659665]]'
+- '[[_Standards/WikiData/WD~subdivision_of_skeletal_system,66591855|WD~subdivision_of_skeletal_system,66591855]]'
+- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975|WD~particular_anatomical_entity,112826975]]'
 instance_of:
-- '[[_Standards/WikiData/WD~organism_subdivision_type,103843042]]'
-- '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]'
-different_from: '[[_Standards/WikiData/WD~human_skull,9604]]'
-anatomical_location: '[[_Standards/WikiData/WD~head,23640]]'
+- '[[_Standards/WikiData/WD~organism_subdivision_type,103843042|WD~organism_subdivision_type,103843042]]'
+- '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905|WD~class_of_anatomical_entity,112826905]]'
+different_from: '[[_Standards/WikiData/WD~human_skull,9604|WD~human_skull,9604]]'
+anatomical_location: '[[_Standards/WikiData/WD~head,23640|WD~head,23640]]'
 OmegaWiki_Defined_Meaning: 6568
 3D_model:
 - http://commons.wikimedia.org/wiki/Special:FilePath/3DPX-003169%20Baby%20cranium%20NevitDilmen.stl

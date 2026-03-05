@@ -159,36 +159,36 @@ aliases:
 - 肺
 - 허파
 has_id_wikidata: Q7886
-anatomical_location: '[[_Standards/WikiData/WD~cavity_of_bony_thorax,994554]]'
-arterial_supply: '[[_Standards/WikiData/WD~pulmonary_artery,206280]]'
+anatomical_location: '[[_Standards/WikiData/WD~cavity_of_bony_thorax,994554|WD~cavity_of_bony_thorax,994554]]'
+arterial_supply: '[[_Standards/WikiData/WD~pulmonary_artery,206280|WD~pulmonary_artery,206280]]'
 Baidu_Tieba_name: 肺
 Commons_category: Lungs
 Commons_gallery: Lung
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- "[[_Standards/WikiData/WD~Gray's_Anatomy_(20th_edition),19558994]]"
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-development_of_anatomical_structure: '[[_Standards/WikiData/WD~lung_development,14327711]]'
-different_from: '[[_Standards/WikiData/WD~pair_of_lungs,103998540]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- "[[_Standards/WikiData/WD~Gray's_Anatomy_(20th_edition),19558994|WD~Gray's_Anatomy_(20th_edition),19558994]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+development_of_anatomical_structure: '[[_Standards/WikiData/WD~lung_development,14327711|WD~lung_development,14327711]]'
+different_from: '[[_Standards/WikiData/WD~pair_of_lungs,103998540|WD~pair_of_lungs,103998540]]'
 ground_level_360_degree_view_URL: https://www.zygotebody.com/#nav=-4.65,113.68,119.59,0,0,0,0&sel=p:;h:;s:1175,1177;c:-0.6;o:-0.75&layers=0,0,5000,0,0,0,0,10000,10000,10000,10000
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~pulmonary_lobe,7259536]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~pulmonary_lobe,7259536|WD~pulmonary_lobe,7259536]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Thorax%20Lung%203d%20from%20ct%20scans.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~organ_type,103812529]]'
-- '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]'
+- '[[_Standards/WikiData/WD~organ_type,103812529|WD~organ_type,103812529]]'
+- '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905|WD~class_of_anatomical_entity,112826905]]'
 MeSH_tree_code: A04.411
 OmegaWiki_Defined_Meaning: 334158
-part_of: '[[_Standards/WikiData/WD~respiratory_system,7891]]'
+part_of: '[[_Standards/WikiData/WD~respiratory_system,7891|WD~respiratory_system,7891]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Lunge.ogg
 subclass_of:
-- '[[_Standards/WikiData/WD~organ,712378]]'
-- '[[_Standards/WikiData/WD~animal_organ,24060765]]'
-- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]'
+- '[[_Standards/WikiData/WD~organ,712378|WD~organ,712378]]'
+- '[[_Standards/WikiData/WD~animal_organ,24060765|WD~animal_organ,24060765]]'
+- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975|WD~particular_anatomical_entity,112826975]]'
 TA98_Latin_term: pulmones
 UMLS_CUI: C0024109
 U_S_National_Archives_Identifier: 10646920
-venous_drainage: '[[_Standards/WikiData/WD~pulmonary_vein,535352]]'
+venous_drainage: '[[_Standards/WikiData/WD~pulmonary_vein,535352|WD~pulmonary_vein,535352]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/So%20funktioniert%20die%20Atmung.webm
 WordLift_URL: http://data.medicalrecords.com/medicalrecords/healthwise/lungs
 dv_has_:

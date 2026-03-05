@@ -207,9 +207,9 @@ Tag Instances like this:
 
 A specific branch of medical science that pertains to study of anesthetics and their application.
 
-#has_/parent_class :: [[../MedicalSpecialty]]  
+#has_/parent_class :: [[../MedicalSpecialty|MedicalSpecialty]]  
 
-#is_/enum_of :: [[../MedicalSpecialty]]  
+#is_/enum_of :: [[../MedicalSpecialty|MedicalSpecialty]]  
 
 ## #has_/text_of_/abstract 
 

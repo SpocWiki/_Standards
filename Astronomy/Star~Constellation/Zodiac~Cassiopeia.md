@@ -65,25 +65,25 @@ isReadOnly: false
 tags:
 - astro/Zodiac
 type: Zodiac
-named_after: '[[_Standards/WikiData/WD~Cassiopeia,207681]]'
+named_after: '[[_Standards/WikiData/WD~Cassiopeia,207681|WD~Cassiopeia,207681]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~A_field_book_of_the_stars,55346553]]'
-- '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~A_field_book_of_the_stars,55346553|WD~A_field_book_of_the_stars,55346553]]'
+- '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886|WD~Star_Lore_of_All_Ages,95985886]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Stars_of_Cassiopeia,8084784]]'
-- '[[_Standards/WikiData/WD~Q10729046,10729046]]'
+- '[[_Standards/WikiData/WD~Template_Stars_of_Cassiopeia,8084784|WD~Template_Stars_of_Cassiopeia,8084784]]'
+- '[[_Standards/WikiData/WD~Q10729046,10729046|WD~Q10729046,10729046]]'
 shares_border_with:
-- '[[_Standards/WikiData/WD~Camelopardalis,8832]]'
-- '[[_Standards/WikiData/WD~Andromeda,9256]]'
-- '[[_Standards/WikiData/WD~Lacerta,10430]]'
-- '[[_Standards/WikiData/WD~Cepheus,10468]]'
-- '[[_Standards/WikiData/WD~Perseus,10511]]'
-instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
+- '[[_Standards/WikiData/WD~Camelopardalis,8832|WD~Camelopardalis,8832]]'
+- '[[_Standards/WikiData/WD~Andromeda,9256|WD~Andromeda,9256]]'
+- '[[_Standards/WikiData/WD~Lacerta,10430|WD~Lacerta,10430]]'
+- '[[_Standards/WikiData/WD~Cepheus,10468|WD~Cepheus,10468]]'
+- '[[_Standards/WikiData/WD~Perseus,10511|WD~Perseus,10511]]'
+instance_of: '[[_Standards/WikiData/WD~constellation,8928|WD~constellation,8928]]'
 area: 598
 Commons_gallery: Cassiopeia
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Cassiopeia%20constellation%20map.svg

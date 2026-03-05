@@ -46,14 +46,14 @@ aliases:
 - 内核
 - 내핵
 has_id_wikidata: Q394352
-part_of: "[[_Standards/WikiData/WD~Earth's_core,193927]]"
+part_of: "[[_Standards/WikiData/WD~Earth's_core,193927|WD~Earth's_core,193927]]"
 instance_of:
-- '[[_Standards/WikiData/WD~physical_object,223557]]'
-- '[[_Standards/WikiData/WD~geosphere,241284]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Inge_Lehmann,256839]]'
+- '[[_Standards/WikiData/WD~physical_object,223557|WD~physical_object,223557]]'
+- '[[_Standards/WikiData/WD~geosphere,241284|WD~geosphere,241284]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Inge_Lehmann,256839|WD~Inge_Lehmann,256839]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~iron,677]]'
-- '[[_Standards/WikiData/WD~nickel,744]]'
+- '[[_Standards/WikiData/WD~iron,677|WD~iron,677]]'
+- '[[_Standards/WikiData/WD~nickel,744|WD~nickel,744]]'
 mass: 9
 temperature: 5700
 radius: 1220
@@ -156,7 +156,7 @@ dv_has_:
 > about the temperature at the surface of the Sun.
 >
 > The inner core is solid at high temperature because of its high pressure, 
-> in accordance with the [[../../../Science/Physics/State_of_Matter/Phase_Transition/Simon-Glatzel_Equation]].
+> in accordance with the [[../../../Science/Physics/State_of_Matter/Phase_Transition/Simon-Glatzel_Equation|Simon-Glatzel_Equation]].
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Earth's%20inner%20core) 
 

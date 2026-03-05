@@ -72,17 +72,17 @@ aliases:
 - 酸化剤
 - 산화제
 has_id_wikidata: Q187689
-used_by: '[[_Standards/WikiData/WD~redox,82682]]'
-opposite_of: '[[_Standards/WikiData/WD~reducing_agent,216830]]'
+used_by: '[[_Standards/WikiData/WD~redox,82682|WD~redox,82682]]'
+opposite_of: '[[_Standards/WikiData/WD~reducing_agent,216830|WD~reducing_agent,216830]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~electron_acceptor,1231592]]'
-- '[[_Standards/WikiData/WD~comburent,3775643]]'
-- '[[_Standards/WikiData/WD~noxa,50379880]]'
-has_effect: '[[_Standards/WikiData/WD~oxidation,1786087]]'
-has_use: '[[_Standards/WikiData/WD~oxidation,1786087]]'
+- '[[_Standards/WikiData/WD~electron_acceptor,1231592|WD~electron_acceptor,1231592]]'
+- '[[_Standards/WikiData/WD~comburent,3775643|WD~comburent,3775643]]'
+- '[[_Standards/WikiData/WD~noxa,50379880|WD~noxa,50379880]]'
+has_effect: '[[_Standards/WikiData/WD~oxidation,1786087|WD~oxidation,1786087]]'
+has_use: '[[_Standards/WikiData/WD~oxidation,1786087|WD~oxidation,1786087]]'
 instance_of:
-- '[[_Standards/WikiData/WD~role,4897819]]'
-- '[[_Standards/WikiData/WD~class_of_chemical_substances_by_use,100434640]]'
+- '[[_Standards/WikiData/WD~role,4897819|WD~role,4897819]]'
+- '[[_Standards/WikiData/WD~class_of_chemical_substances_by_use,100434640|WD~class_of_chemical_substances_by_use,100434640]]'
 U_S_National_Archives_Identifier: 10647674
 short_name: OX
 icon:
@@ -95,7 +95,7 @@ MeSH_tree_code:
 Commons_category: Oxidizing agents
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Oxidizing_agent,187689]]'
+  - '[[../../../WikiData/WD~Oxidizing_agent,187689|WD~Oxidizing_agent,187689]]'
   - '[[/_Standards/Chemistry/Chemical_Reaction/Redox/Oxidizing_Agent|Oxidizing_Agent]]'
   - '[[/_public/Chemistry/Chemical_Reaction/Redox/Oxidizing_Agent.public|Oxidizing_Agent.public]]'
   - '[[/_internal/Chemistry/Chemical_Reaction/Redox/Oxidizing_Agent.internal|Oxidizing_Agent.internal]]'
@@ -104,7 +104,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Chemical_Reaction/Redox/Oxidizing_Agent.personal|Oxidizing_Agent.personal]]'
   - '[[/_secret/Chemistry/Chemical_Reaction/Redox/Oxidizing_Agent.secret|Oxidizing_Agent.secret]]'
 dv_is_same_as:
-- '[[../../../WikiData/WD~Oxidizing_agent,187689]]'
+- '[[../../../WikiData/WD~Oxidizing_agent,187689|WD~Oxidizing_agent,187689]]'
 - '[[/_Standards/Chemistry/Chemical_Reaction/Redox/Oxidizing_Agent|Oxidizing_Agent]]'
 - '[[/_public/Chemistry/Chemical_Reaction/Redox/Oxidizing_Agent.public|Oxidizing_Agent.public]]'
 - '[[/_internal/Chemistry/Chemical_Reaction/Redox/Oxidizing_Agent.internal|Oxidizing_Agent.internal]]'
@@ -209,7 +209,7 @@ dv_has_:
 ## #has_/text_of_/abstract 
 
 > An oxidizing agent (also known as an oxidant, oxidizer, electron recipient, or electron acceptor) 
-> is a substance in a [[../Redox]] chemical reaction that gains or "accepts"/"receives" an electron 
+> is a substance in a [[../Redox|Redox]] chemical reaction that gains or "accepts"/"receives" an electron 
 > from a [[Reducing_Agent]] (called the reductant, reducer, or electron donor). 
 > 
 > In other words, an oxidizer is any substance that oxidizes another substance. The oxidation state, which describes the degree of loss of electrons, of the oxidizer decreases while that of the reductant increases; this is expressed by saying that oxidizers "undergo reduction" and "are reduced" while reducers "undergo oxidation" and "are oxidized".

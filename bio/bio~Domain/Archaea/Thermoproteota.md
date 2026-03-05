@@ -39,7 +39,7 @@ dv_has_:
 # [[Thermoproteota]] 
 
 #is_a/bio-Phylum  
-#is_a :: [[../../Taxon_Rank/bio~Kingdom/bio~Phylum]]  
+#is_a :: [[../../Taxon_Rank/bio~Kingdom/bio~Phylum|bio~Phylum]]  
 
 
 ![ ](Thermoproteota/pyrodictium.jpg) ![ ](Thermoproteota/pyrolobus.jpg) ![](Thermoproteota/pyrobaculum.jpg) 

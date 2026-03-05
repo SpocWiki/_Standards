@@ -46,19 +46,19 @@ aliases:
 - 독소
 has_id_wikidata: Q184651
 studied_by:
-- '[[_Standards/WikiData/WD~toxinology,1130602]]'
-- '[[_Standards/WikiData/WD~food_toxicology,100248755]]'
-- '[[_Standards/WikiData/WD~toxicology,7218]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-different_from: '[[_Standards/WikiData/WD~toxicant,3072135]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q12567976,12567976]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Toxins,15730535]]'
+- '[[_Standards/WikiData/WD~toxinology,1130602|WD~toxinology,1130602]]'
+- '[[_Standards/WikiData/WD~food_toxicology,100248755|WD~food_toxicology,100248755]]'
+- '[[_Standards/WikiData/WD~toxicology,7218|WD~toxicology,7218]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+different_from: '[[_Standards/WikiData/WD~toxicant,3072135|WD~toxicant,3072135]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q12567976,12567976|WD~Q12567976,12567976]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Toxins,15730535|WD~Template_Toxins,15730535]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~noxa,50379880]]'
-- '[[_Standards/WikiData/WD~poison,40867]]'
+- '[[_Standards/WikiData/WD~noxa,50379880|WD~noxa,50379880]]'
+- '[[_Standards/WikiData/WD~poison,40867|WD~poison,40867]]'
 instance_of:
-- '[[_Standards/WikiData/WD~class_of_chemical_entities_with_similar_applications_or_functions,56256173]]'
-- '[[_Standards/WikiData/WD~class_of_chemical_entities_with_similar_source_or_occurrence,56256178]]'
+- '[[_Standards/WikiData/WD~class_of_chemical_entities_with_similar_applications_or_functions,56256173|WD~class_of_chemical_entities_with_similar_applications_or_functions,56256173]]'
+- '[[_Standards/WikiData/WD~class_of_chemical_entities_with_similar_source_or_occurrence,56256178|WD~class_of_chemical_entities_with_similar_source_or_occurrence,56256178]]'
 Commons_category: Toxins
 WordLift_URL: http://data.wordlift.io/wl01714/entity/toxins
 UMLS_CUI: C0040549

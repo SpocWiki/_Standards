@@ -86,21 +86,21 @@ aliases:
 - 感覚
 - 감각
 has_id_wikidata: Q173253
-has_use: '[[_Standards/WikiData/WD~perception,160402]]'
+has_use: '[[_Standards/WikiData/WD~perception,160402|WD~perception,160402]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~qualia,282250]]'
-- '[[_Standards/WikiData/WD~Q21697219,21697219]]'
+- '[[_Standards/WikiData/WD~qualia,282250|WD~qualia,282250]]'
+- '[[_Standards/WikiData/WD~Q21697219,21697219|WD~Q21697219,21697219]]'
 different_from:
-- '[[_Standards/WikiData/WD~Sinn,343474]]'
-- '[[_Standards/WikiData/WD~Indra,413398]]'
-- '[[_Standards/WikiData/WD~Sens,416530]]'
-- '[[_Standards/WikiData/WD~Sensus,12902073]]'
-- '[[_Standards/WikiData/WD~Sense,22191730]]'
-subclass_of: '[[_Standards/WikiData/WD~aptitude,1347367]]'
-described_by_source: '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-instance_of: '[[_Standards/WikiData/WD~psychology_concept,96634632]]'
-studied_by: '[[_Standards/WikiData/WD~sensory_physiology,136298391]]'
-facet_of: '[[_Standards/WikiData/WD~physiology,521]]'
+- '[[_Standards/WikiData/WD~Sinn,343474|WD~Sinn,343474]]'
+- '[[_Standards/WikiData/WD~Indra,413398|WD~Indra,413398]]'
+- '[[_Standards/WikiData/WD~Sens,416530|WD~Sens,416530]]'
+- '[[_Standards/WikiData/WD~Sensus,12902073|WD~Sensus,12902073]]'
+- '[[_Standards/WikiData/WD~Sense,22191730|WD~Sense,22191730]]'
+subclass_of: '[[_Standards/WikiData/WD~aptitude,1347367|WD~aptitude,1347367]]'
+described_by_source: '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+instance_of: '[[_Standards/WikiData/WD~psychology_concept,96634632|WD~psychology_concept,96634632]]'
+studied_by: '[[_Standards/WikiData/WD~sensory_physiology,136298391|WD~sensory_physiology,136298391]]'
+facet_of: '[[_Standards/WikiData/WD~physiology,521|WD~physiology,521]]'
 Dewey_Decimal_Classification:
 - 152.1
 - 573.87

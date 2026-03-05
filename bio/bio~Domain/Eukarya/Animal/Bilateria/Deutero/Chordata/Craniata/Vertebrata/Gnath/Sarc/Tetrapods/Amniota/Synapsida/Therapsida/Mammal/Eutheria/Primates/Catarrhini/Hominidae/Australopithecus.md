@@ -2,8 +2,8 @@
 aliases:
 - Australopithecinae
 has_id_wikidata: Q33141205
-taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280]]'
-instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290]]'
+taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280|WD~subfamily,164280]]'
+instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290|WD~fossil_taxon,23038290]]'
 taxon_name: Australopithecinae
 dv_has_:
   name_:

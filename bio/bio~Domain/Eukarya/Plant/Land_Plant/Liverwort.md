@@ -60,18 +60,18 @@ aliases:
 - 苔類
 - 우산이끼문
 has_id_wikidata: Q189808
-parent_taxon: '[[_Standards/WikiData/WD~Embryophytes,192154]]'
+parent_taxon: '[[_Standards/WikiData/WD~Embryophytes,192154|WD~Embryophytes,192154]]'
 taxon_rank:
-- '[[_Standards/WikiData/WD~division,334460]]'
-- '[[_Standards/WikiData/WD~phylum,38348]]'
+- '[[_Standards/WikiData/WD~division,334460|WD~division,334460]]'
+- '[[_Standards/WikiData/WD~phylum,38348|WD~phylum,38348]]'
 described_by_source:
 - '[[WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Q75186175,75186175]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Q75186175,75186175|WD~Q75186175,75186175]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 ITIS_TSN: 846119
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Assortment%20of%20Hepaticae%20from%20Kunstformen%20der%20Natur%20%281904%29%2C%20plate%2082.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q8752%20%28eus%29-ElsaBornFree-Marchantiophyta.wav

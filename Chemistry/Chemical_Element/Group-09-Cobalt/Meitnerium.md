@@ -75,15 +75,15 @@ aliases:
 - 마이트너륨
 has_id_wikidata: Q1258
 part_of:
-- '[[_Standards/WikiData/WD~group_9,208107]]'
-- '[[_Standards/WikiData/WD~period_7,244979]]'
-location_of_discovery: '[[_Standards/WikiData/WD~GSI_Helmholtz_Centre_for_Heavy_Ion_Research,703993]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~GSI_Helmholtz_Centre_for_Heavy_Ion_Research,703993]]'
+- '[[_Standards/WikiData/WD~group_9,208107|WD~group_9,208107]]'
+- '[[_Standards/WikiData/WD~period_7,244979|WD~period_7,244979]]'
+location_of_discovery: '[[_Standards/WikiData/WD~GSI_Helmholtz_Centre_for_Heavy_Ion_Research,703993|WD~GSI_Helmholtz_Centre_for_Heavy_Ion_Research,703993]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~GSI_Helmholtz_Centre_for_Heavy_Ion_Research,703993|WD~GSI_Helmholtz_Centre_for_Heavy_Ion_Research,703993]]'
 instance_of:
-- '[[_Standards/WikiData/WD~synthetic_element,755992]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+- '[[_Standards/WikiData/WD~synthetic_element,755992|WD~synthetic_element,755992]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 atomic_number: 109
-named_after: '[[_Standards/WikiData/WD~Lise_Meitner,56189]]'
+named_after: '[[_Standards/WikiData/WD~Lise_Meitner,56189|WD~Lise_Meitner,56189]]'
 OmegaWiki_Defined_Meaning: 333247
 Commons_gallery: Meitnerium
 Commons_category: Meitnerium
@@ -94,7 +94,7 @@ audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-us-meitnerium.ogg
 CAS_Registry_Number: 54038-01-6
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Meitnerium,1258]]'
+  - '[[../../../WikiData/WD~Meitnerium,1258|WD~Meitnerium,1258]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Group-09-Cobalt/Meitnerium|Meitnerium]]'
   - '[[/_public/Chemistry/Chemical_Element/Group-09-Cobalt/Meitnerium.public|Meitnerium.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Group-09-Cobalt/Meitnerium.internal|Meitnerium.internal]]'
@@ -103,7 +103,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Chemical_Element/Group-09-Cobalt/Meitnerium.personal|Meitnerium.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Group-09-Cobalt/Meitnerium.secret|Meitnerium.secret]]'
 dv_is_same_as:
-- '[[../../../WikiData/WD~Meitnerium,1258]]'
+- '[[../../../WikiData/WD~Meitnerium,1258|WD~Meitnerium,1258]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Group-09-Cobalt/Meitnerium|Meitnerium]]'
 - '[[/_public/Chemistry/Chemical_Element/Group-09-Cobalt/Meitnerium.public|Meitnerium.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Group-09-Cobalt/Meitnerium.internal|Meitnerium.internal]]'

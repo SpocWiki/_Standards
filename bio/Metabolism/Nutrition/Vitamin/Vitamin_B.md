@@ -50,16 +50,16 @@ aliases:
 - 비타민 B 복합체
 has_id_wikidata: Q183206
 has_use:
-- '[[_Standards/WikiData/WD~cell_division,188909]]'
-- '[[_Standards/WikiData/WD~DNA_repair,210538]]'
-- '[[_Standards/WikiData/WD~protein_biosynthesis,211935]]'
-- '[[_Standards/WikiData/WD~fatty_acid_synthesis,900209]]'
-- '[[_Standards/WikiData/WD~nervous_system_development,1345738]]'
-- '[[_Standards/WikiData/WD~Carbohydrate_synthesis,5037882]]'
-- '[[_Standards/WikiData/WD~cell_metabolism,13416689]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_B_vitamins,7370239]]'
-instance_of: '[[_Standards/WikiData/WD~class_of_chemical_entities_with_similar_applications_or_functions,56256173]]'
-subclass_of: '[[_Standards/WikiData/WD~vitamin,34956]]'
+- '[[_Standards/WikiData/WD~cell_division,188909|WD~cell_division,188909]]'
+- '[[_Standards/WikiData/WD~DNA_repair,210538|WD~DNA_repair,210538]]'
+- '[[_Standards/WikiData/WD~protein_biosynthesis,211935|WD~protein_biosynthesis,211935]]'
+- '[[_Standards/WikiData/WD~fatty_acid_synthesis,900209|WD~fatty_acid_synthesis,900209]]'
+- '[[_Standards/WikiData/WD~nervous_system_development,1345738|WD~nervous_system_development,1345738]]'
+- '[[_Standards/WikiData/WD~Carbohydrate_synthesis,5037882|WD~Carbohydrate_synthesis,5037882]]'
+- '[[_Standards/WikiData/WD~cell_metabolism,13416689|WD~cell_metabolism,13416689]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_B_vitamins,7370239|WD~Category_B_vitamins,7370239]]'
+instance_of: '[[_Standards/WikiData/WD~class_of_chemical_entities_with_similar_applications_or_functions,56256173|WD~class_of_chemical_entities_with_similar_applications_or_functions,56256173]]'
+subclass_of: '[[_Standards/WikiData/WD~vitamin,34956|WD~vitamin,34956]]'
 Commons_category: B vitamins
 UMLS_CUI: C0042849
 MeSH_tree_code: D27.505.696.494.600.708

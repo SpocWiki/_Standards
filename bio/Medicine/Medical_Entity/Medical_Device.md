@@ -35,7 +35,7 @@ Tag Instances like this:
 
 Any object used in a medical capacity, such as to diagnose or treat a patient.
 
-#has_/parent_class :: [[../MedicalEntity]]  
+#has_/parent_class :: [[../MedicalEntity|MedicalEntity]]  
 
 #has_/properties :: [ additionalType, adverseOutcome, alternateName, code, contraindication, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, postOp, potentialAction, preOp, procedure, recognizingAuthority, relevantSpecialty, sameAs, seriousAdverseOutcome, study, subjectOf, url ]  
 

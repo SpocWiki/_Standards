@@ -6,9 +6,9 @@ aliases:
 - 杜鹃花族
 - 진달래족
 has_id_wikidata: Q15839119
-taxon_rank: '[[_Standards/WikiData/WD~tribe,227936]]'
-parent_taxon: '[[../../../../../../../../../../../../../../WikiData/WD~Ericoideae,933098]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~tribe,227936|WD~tribe,227936]]'
+parent_taxon: '[[../../../../../../../../../../../../../../WikiData/WD~Ericoideae,933098|WD~Ericoideae,933098]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rhododendron-by-eiffel-public-domain-20040617.jpg
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomyfamily.aspx?type=tribe&id=1734
 UMLS_CUI: C1229179

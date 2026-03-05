@@ -192,39 +192,39 @@ aliases:
 - "\U00010345\U00010339\U0001033A\U00010349"
 has_id_wikidata: Q23387
 subclass_of:
-- '[[_Standards/WikiData/WD~time_interval,186081]]'
-- '[[_Standards/WikiData/WD~heptad,29441572]]'
+- '[[_Standards/WikiData/WD~time_interval,186081|WD~time_interval,186081]]'
+- '[[_Standards/WikiData/WD~heptad,29441572|WD~heptad,29441572]]'
 has_part_s_of_the_class:
-- '[[_Standards/WikiData/WD~weekend,211391]]'
-- '[[_Standards/WikiData/WD~work_week,19906285]]'
-- '[[_Standards/WikiData/WD~day,573]]'
-- '[[_Standards/WikiData/WD~day_of_the_week,41825]]'
+- '[[_Standards/WikiData/WD~weekend,211391|WD~weekend,211391]]'
+- '[[_Standards/WikiData/WD~work_week,19906285|WD~work_week,19906285]]'
+- '[[_Standards/WikiData/WD~day,573|WD~day,573]]'
+- '[[_Standards/WikiData/WD~day_of_the_week,41825|WD~day_of_the_week,41825]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
 instance_of:
-- '[[_Standards/WikiData/WD~unit_of_time,1790144]]'
-- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
-measured_physical_quantity: '[[_Standards/WikiData/WD~duration,2199864]]'
+- '[[_Standards/WikiData/WD~unit_of_time,1790144|WD~unit_of_time,1790144]]'
+- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057|WD~UCUM_derived_unit,82047057]]'
+measured_physical_quantity: '[[_Standards/WikiData/WD~duration,2199864|WD~duration,2199864]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~all_days_of_the_week,26214163]]'
-- '[[_Standards/WikiData/WD~workweek_and_weekend,30722989]]'
-subdivision_of_this_unit: '[[_Standards/WikiData/WD~day,573]]'
+- '[[_Standards/WikiData/WD~all_days_of_the_week,26214163|WD~all_days_of_the_week,26214163]]'
+- '[[_Standards/WikiData/WD~workweek_and_weekend,30722989|WD~workweek_and_weekend,30722989]]'
+subdivision_of_this_unit: '[[_Standards/WikiData/WD~day,573|WD~day,573]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~day,573]]'
-- '[[_Standards/WikiData/WD~Monday,105]]'
-- '[[_Standards/WikiData/WD~Tuesday,127]]'
-- '[[_Standards/WikiData/WD~Friday,130]]'
-- '[[_Standards/WikiData/WD~Saturday,131]]'
-- '[[_Standards/WikiData/WD~Wednesday,128]]'
-- '[[_Standards/WikiData/WD~Thursday,129]]'
-- '[[_Standards/WikiData/WD~Sunday,132]]'
-part_of: '[[_Standards/WikiData/WD~month,5151]]'
+- '[[_Standards/WikiData/WD~day,573|WD~day,573]]'
+- '[[_Standards/WikiData/WD~Monday,105|WD~Monday,105]]'
+- '[[_Standards/WikiData/WD~Tuesday,127|WD~Tuesday,127]]'
+- '[[_Standards/WikiData/WD~Friday,130|WD~Friday,130]]'
+- '[[_Standards/WikiData/WD~Saturday,131|WD~Saturday,131]]'
+- '[[_Standards/WikiData/WD~Wednesday,128|WD~Wednesday,128]]'
+- '[[_Standards/WikiData/WD~Thursday,129|WD~Thursday,129]]'
+- '[[_Standards/WikiData/WD~Sunday,132|WD~Sunday,132]]'
+part_of: '[[_Standards/WikiData/WD~month,5151|WD~month,5151]]'
 conversion_to_standard_unit: 7
 duration: 7
 conversion_to_SI_unit: 604800

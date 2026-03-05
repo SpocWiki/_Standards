@@ -86,14 +86,14 @@ aliases:
 - 類地行星
 - 지구형 행성
 has_id_wikidata: Q128207
-facet_of: '[[_Standards/WikiData/WD~planetary_science,104499]]'
-opposite_of: '[[_Standards/WikiData/WD~gas_giant,121750]]'
+facet_of: '[[_Standards/WikiData/WD~planetary_science,104499|WD~planetary_science,104499]]'
+opposite_of: '[[_Standards/WikiData/WD~gas_giant,121750|WD~gas_giant,121750]]'
 instance_of:
-- '[[_Standards/WikiData/WD~concept,151885]]'
-- '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
-has_part_s_: '[[_Standards/WikiData/WD~silicate_mineral,178977]]'
-different_from: '[[_Standards/WikiData/WD~inner_planet_of_the_Solar_System,3504248]]'
-subclass_of: '[[_Standards/WikiData/WD~planet,634]]'
+- '[[_Standards/WikiData/WD~concept,151885|WD~concept,151885]]'
+- '[[_Standards/WikiData/WD~astronomical_object_type,17444909|WD~astronomical_object_type,17444909]]'
+has_part_s_: '[[_Standards/WikiData/WD~silicate_mineral,178977|WD~silicate_mineral,178977]]'
+different_from: '[[_Standards/WikiData/WD~inner_planet_of_the_Solar_System,3504248|WD~inner_planet_of_the_Solar_System,3504248]]'
+subclass_of: '[[_Standards/WikiData/WD~planet,634|WD~planet,634]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Aufbau%20der%20Erde%20schematisch.svg
 exact_match: http://purl.obolibrary.org/obo/ENVO_01000958
 Commons_category: Terrestrial planets

@@ -58,19 +58,19 @@ aliases:
 - 장비목
 has_id_wikidata: Q26308
 homonymous_taxon:
-- '[[_Standards/WikiData/WD~Proboscidea,137309]]'
-- '[[_Standards/WikiData/WD~Proboscidea,20667040]]'
-- '[[_Standards/WikiData/WD~Proboscidea,25661894]]'
+- '[[_Standards/WikiData/WD~Proboscidea,137309|WD~Proboscidea,137309]]'
+- '[[_Standards/WikiData/WD~Proboscidea,20667040|WD~Proboscidea,20667040]]'
+- '[[_Standards/WikiData/WD~Proboscidea,25661894|WD~Proboscidea,25661894]]'
 described_by_source:
-- '[[../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Proboscidea_(Animalia),14463356]]'
-- '[[_Standards/WikiData/WD~Template_Proboscidea,15088259]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-parent_taxon: '[[_Standards/WikiData/WD~Tethytheria,20862]]'
-taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
+- '[[_Standards/WikiData/WD~Template_Proboscidea_(Animalia),14463356|WD~Template_Proboscidea_(Animalia),14463356]]'
+- '[[_Standards/WikiData/WD~Template_Proboscidea,15088259|WD~Template_Proboscidea,15088259]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+parent_taxon: '[[_Standards/WikiData/WD~Tethytheria,20862|WD~Tethytheria,20862]]'
+taxon_rank: '[[_Standards/WikiData/WD~order,36602|WD~order,36602]]'
 OmegaWiki_Defined_Meaning: 2978
 start_time: -60000000-01-01T00:00:00Z
 ITIS_TSN: 180674

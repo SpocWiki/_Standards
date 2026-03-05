@@ -70,23 +70,23 @@ aliases:
 - 발진티푸스
 has_id_wikidata: Q160649
 instance_of:
-- '[[_Standards/WikiData/WD~endemic_disease,506680]]'
-- '[[_Standards/WikiData/WD~infectious_disease,18123741]]'
-- '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
-- '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~endemic_disease,506680|WD~endemic_disease,506680]]'
+- '[[_Standards/WikiData/WD~infectious_disease,18123741|WD~infectious_disease,18123741]]'
+- '[[_Standards/WikiData/WD~class_of_disease,112193867|WD~class_of_disease,112193867]]'
+- '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-parent_taxon: '[[_Standards/WikiData/WD~Rickettsia,627992]]'
-Gram_staining: '[[_Standards/WikiData/WD~gram_negative_bacteria,632006]]'
-health_specialty: '[[_Standards/WikiData/WD~infectious_diseases,788926]]'
-has_cause: '[[_Standards/WikiData/WD~Rickettsiaceae,1975198]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
-different_from: '[[_Standards/WikiData/WD~Q10707494,10707494]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+parent_taxon: '[[_Standards/WikiData/WD~Rickettsia,627992|WD~Rickettsia,627992]]'
+Gram_staining: '[[_Standards/WikiData/WD~gram_negative_bacteria,632006|WD~gram_negative_bacteria,632006]]'
+health_specialty: '[[_Standards/WikiData/WD~infectious_diseases,788926|WD~infectious_diseases,788926]]'
+has_cause: '[[_Standards/WikiData/WD~Rickettsiaceae,1975198|WD~Rickettsiaceae,1975198]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686|WD~WikiProject_Medicine,4099686]]'
+different_from: '[[_Standards/WikiData/WD~Q10707494,10707494|WD~Q10707494,10707494]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~primary_bacterial_infectious_disease,18553247]]'
-- '[[_Standards/WikiData/WD~disease,12136]]'
+- '[[_Standards/WikiData/WD~primary_bacterial_infectious_disease,18553247|WD~primary_bacterial_infectious_disease,18553247]]'
+- '[[_Standards/WikiData/WD~disease,12136|WD~disease,12136]]'
 DiseasesDB: 29240
 Commons_category: Typhus
 ICD_10_CM:

@@ -30,9 +30,9 @@ aliases:
 - 婆罗门牛
 - 布拉曼牛
 has_id_wikidata: Q897314
-instance_of: '[[_Standards/WikiData/WD~cattle_breed,12045585]]'
-country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
-subclass_of: '[[_Standards/WikiData/WD~hybrid,42621]]'
+instance_of: '[[_Standards/WikiData/WD~cattle_breed,12045585|WD~cattle_breed,12045585]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+subclass_of: '[[_Standards/WikiData/WD~hybrid,42621|WD~hybrid,42621]]'
 Commons_category: Brahman cattle
 image: http://commons.wikimedia.org/wiki/Special:FilePath/BrahmaBullFeria09.JPG
 Commons_gallery: Brahman (cattle)

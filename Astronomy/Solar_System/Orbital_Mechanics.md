@@ -39,14 +39,14 @@ aliases:
 - 軌道動力學
 - 궤도역학
 has_id_wikidata: Q842433
-subclass_of: '[[_Standards/WikiData/WD~celestial_mechanics,184274]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Astrodynamics,6689387]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-practiced_by: '[[_Standards/WikiData/WD~Q125019437,125019437]]'
+subclass_of: '[[_Standards/WikiData/WD~celestial_mechanics,184274|WD~celestial_mechanics,184274]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Astrodynamics,6689387|WD~Template_Astrodynamics,6689387]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+practiced_by: '[[_Standards/WikiData/WD~Q125019437,125019437|WD~Q125019437,125019437]]'
 Commons_category: Astrodynamics
 dv_is_:
   same_as:
-  - '[[../../WikiData/WD~Orbital_mechanics,842433]]'
+  - '[[../../WikiData/WD~Orbital_mechanics,842433|WD~Orbital_mechanics,842433]]'
   - '[[/_Standards/Astronomy/Solar_System/Orbital_Mechanics|Orbital_Mechanics]]'
   - '[[/_public/Astronomy/Solar_System/Orbital_Mechanics.public|Orbital_Mechanics.public]]'
   - '[[/_internal/Astronomy/Solar_System/Orbital_Mechanics.internal|Orbital_Mechanics.internal]]'
@@ -55,7 +55,7 @@ dv_is_:
   - '[[/_personal/Astronomy/Solar_System/Orbital_Mechanics.personal|Orbital_Mechanics.personal]]'
   - '[[/_secret/Astronomy/Solar_System/Orbital_Mechanics.secret|Orbital_Mechanics.secret]]'
 dv_is_same_as:
-- '[[../../WikiData/WD~Orbital_mechanics,842433]]'
+- '[[../../WikiData/WD~Orbital_mechanics,842433|WD~Orbital_mechanics,842433]]'
 - '[[/_Standards/Astronomy/Solar_System/Orbital_Mechanics|Orbital_Mechanics]]'
 - '[[/_public/Astronomy/Solar_System/Orbital_Mechanics.public|Orbital_Mechanics.public]]'
 - '[[/_internal/Astronomy/Solar_System/Orbital_Mechanics.internal|Orbital_Mechanics.internal]]'

@@ -115,23 +115,23 @@ taxon_common_name:
 - muchówki
 - dvokrilci
 Dewey_Decimal_Classification: 595.77
-named_after: '[[_Standards/WikiData/WD~insect_wing,276572]]'
+named_after: '[[_Standards/WikiData/WD~insect_wing,276572|WD~insect_wing,276572]]'
 has_part_s_of_the_class:
-- '[[_Standards/WikiData/WD~insect_wing,276572]]'
-- '[[_Standards/WikiData/WD~halteres,1335456]]'
+- '[[_Standards/WikiData/WD~insect_wing,276572|WD~insect_wing,276572]]'
+- '[[_Standards/WikiData/WD~halteres,1335456|WD~halteres,1335456]]'
 described_by_source:
-- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-studied_by: '[[_Standards/WikiData/WD~dipterology,3029300]]'
-taxon_synonym: '[[_Standards/WikiData/WD~Nakridletia,4045034]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Diptera,14338246]]'
+- '[[../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+studied_by: '[[_Standards/WikiData/WD~dipterology,3029300|WD~dipterology,3029300]]'
+taxon_synonym: '[[_Standards/WikiData/WD~Nakridletia,4045034|WD~Nakridletia,4045034]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Diptera,14338246|WD~Template_Diptera,14338246]]'
 parent_taxon:
-- '[[_Standards/WikiData/WD~Antliophora,21354350]]'
-- '[[_Standards/WikiData/WD~Holometabola,37140800]]'
+- '[[_Standards/WikiData/WD~Antliophora,21354350|WD~Antliophora,21354350]]'
+- '[[_Standards/WikiData/WD~Holometabola,37140800|WD~Holometabola,37140800]]'
 start_time: -245000000-01-01T00:00:00Z
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~order,36602|WD~order,36602]]'
 OmegaWiki_Defined_Meaning: 5078
 ITIS_TSN: 118831
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bessenbandzweefvlieg%20Vrouwtje%20%282%29.JPG

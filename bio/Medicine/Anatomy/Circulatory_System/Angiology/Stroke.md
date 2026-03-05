@@ -101,44 +101,44 @@ aliases:
 - 脳卒中
 - 뇌졸중
 has_id_wikidata: Q12202
-anatomical_location: '[[_Standards/WikiData/WD~human_brain,492038]]'
+anatomical_location: '[[_Standards/WikiData/WD~human_brain,492038|WD~human_brain,492038]]'
 Commons_category: Stroke
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Kazakhstan._National_encyclopedia,4208106]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-different_from: '[[_Standards/WikiData/WD~Stroke,1216832]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Kazakhstan._National_encyclopedia,4208106|WD~Kazakhstan._National_encyclopedia,4208106]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+different_from: '[[_Standards/WikiData/WD~Stroke,1216832|WD~Stroke,1216832]]'
 DiseasesDB: 2247
 disease_burden: 141348082
-drug_or_therapy_used_for_treatment: '[[_Standards/WikiData/WD~pentoxifylline,416331]]'
+drug_or_therapy_used_for_treatment: '[[_Standards/WikiData/WD~pentoxifylline,416331|WD~pentoxifylline,416331]]'
 exact_match: http://purl.obolibrary.org/obo/SYMP_0000734
 genetic_association:
-- '[[_Standards/WikiData/WD~ADAMTS2,14881709]]'
-- '[[_Standards/WikiData/WD~ALDH2,14911781]]'
-- '[[_Standards/WikiData/WD~CRYBG1,17816379]]'
-- '[[_Standards/WikiData/WD~ZFHX3,17832572]]'
-- '[[_Standards/WikiData/WD~IMPA2,18027905]]'
-- '[[_Standards/WikiData/WD~KALRN,18033696]]'
-- '[[_Standards/WikiData/WD~HDAC9,18034627]]'
-- '[[_Standards/WikiData/WD~ADAMTS12,18047096]]'
-- '[[_Standards/WikiData/WD~SPSB4,18048631]]'
+- '[[_Standards/WikiData/WD~ADAMTS2,14881709|WD~ADAMTS2,14881709]]'
+- '[[_Standards/WikiData/WD~ALDH2,14911781|WD~ALDH2,14911781]]'
+- '[[_Standards/WikiData/WD~CRYBG1,17816379|WD~CRYBG1,17816379]]'
+- '[[_Standards/WikiData/WD~ZFHX3,17832572|WD~ZFHX3,17832572]]'
+- '[[_Standards/WikiData/WD~IMPA2,18027905|WD~IMPA2,18027905]]'
+- '[[_Standards/WikiData/WD~KALRN,18033696|WD~KALRN,18033696]]'
+- '[[_Standards/WikiData/WD~HDAC9,18034627|WD~HDAC9,18034627]]'
+- '[[_Standards/WikiData/WD~ADAMTS12,18047096|WD~ADAMTS12,18047096]]'
+- '[[_Standards/WikiData/WD~SPSB4,18048631|WD~SPSB4,18048631]]'
 health_specialty:
-- '[[_Standards/WikiData/WD~neurology,83042]]'
-- '[[_Standards/WikiData/WD~neurosurgery,188449]]'
+- '[[_Standards/WikiData/WD~neurology,83042|WD~neurology,83042]]'
+- '[[_Standards/WikiData/WD~neurosurgery,188449|WD~neurosurgery,188449]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/MCA-Stroke-Brain-Humn-2A.jpg
 incidence: 213
 instance_of:
-- '[[_Standards/WikiData/WD~syndrome,179630]]'
-- '[[_Standards/WikiData/WD~cause_of_death,1931388]]'
-- '[[_Standards/WikiData/WD~symptom_or_sign,112965645]]'
+- '[[_Standards/WikiData/WD~syndrome,179630|WD~syndrome,179630]]'
+- '[[_Standards/WikiData/WD~cause_of_death,1931388|WD~cause_of_death,1931388]]'
+- '[[_Standards/WikiData/WD~symptom_or_sign,112965645|WD~symptom_or_sign,112965645]]'
 Krugosvet_article: medicina/INSULT.html
-location: '[[_Standards/WikiData/WD~human_brain,492038]]'
+location: '[[_Standards/WikiData/WD~human_brain,492038|WD~human_brain,492038]]'
 medical_examination:
-- '[[_Standards/WikiData/WD~Orpington_Prognostic_Scale,108525687]]'
-- '[[_Standards/WikiData/WD~ROSIER_scale,108525694]]'
+- '[[_Standards/WikiData/WD~Orpington_Prognostic_Scale,108525687|WD~Orpington_Prognostic_Scale,108525687]]'
+- '[[_Standards/WikiData/WD~ROSIER_scale,108525694|WD~ROSIER_scale,108525694]]'
 MeSH_tree_code:
 - C10.228.140.300.775
 - C14.907.253.855
@@ -146,12 +146,12 @@ OmegaWiki_Defined_Meaning: 8156
 prevalence:
 - 0.006
 - 0.0024
-risk_factor: '[[_Standards/WikiData/WD~smoking,662860]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~cerebrovascular_disease,3010352]]'
+risk_factor: '[[_Standards/WikiData/WD~smoking,662860|WD~smoking,662860]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~cerebrovascular_disease,3010352|WD~cerebrovascular_disease,3010352]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~cerebrovascular_disease,3010352]]'
-- '[[_Standards/WikiData/WD~neurological_symptom,12040808]]'
-- '[[_Standards/WikiData/WD~general_symptom,31836626]]'
+- '[[_Standards/WikiData/WD~cerebrovascular_disease,3010352|WD~cerebrovascular_disease,3010352]]'
+- '[[_Standards/WikiData/WD~neurological_symptom,12040808|WD~neurological_symptom,12040808]]'
+- '[[_Standards/WikiData/WD~general_symptom,31836626|WD~general_symptom,31836626]]'
 UMLS_CUI:
 - CL461690
 - C0751956

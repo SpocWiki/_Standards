@@ -34,20 +34,20 @@ aliases:
 - 파스칼
 has_id_wikidata: Q44395
 measured_physical_quantity:
-- '[[_Standards/WikiData/WD~mechanical_stress,206175]]'
-- '[[_Standards/WikiData/WD~shear_modulus,461466]]'
-- '[[_Standards/WikiData/WD~bulk_modulus,900371]]'
-- "[[_Standards/WikiData/WD~Young's_modulus,2091584]]"
-- '[[_Standards/WikiData/WD~pressure,39552]]'
+- '[[_Standards/WikiData/WD~mechanical_stress,206175|WD~mechanical_stress,206175]]'
+- '[[_Standards/WikiData/WD~shear_modulus,461466|WD~shear_modulus,461466]]'
+- '[[_Standards/WikiData/WD~bulk_modulus,900371|WD~bulk_modulus,900371]]'
+- "[[_Standards/WikiData/WD~Young's_modulus,2091584|WD~Young's_modulus,2091584]]"
+- '[[_Standards/WikiData/WD~pressure,39552|WD~pressure,39552]]'
 instance_of:
-- '[[_Standards/WikiData/WD~unit_of_pressure,4173969]]'
-- '[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328]]'
-- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
-- '[[_Standards/WikiData/WD~unit_of_mechanical_stress,131179447]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~unit_of_pressure,4173969|WD~unit_of_pressure,4173969]]'
+- '[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328|WD~SI_unit_with_special_name,68618328]]'
+- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057|WD~UCUM_derived_unit,82047057]]'
+- '[[_Standards/WikiData/WD~unit_of_mechanical_stress,131179447|WD~unit_of_mechanical_stress,131179447]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~newton_per_square_metre,39469927]]'
-- '[[_Standards/WikiData/WD~joule_per_cubic_metre,69424806]]'
+- '[[_Standards/WikiData/WD~newton_per_square_metre,39469927|WD~newton_per_square_metre,39469927]]'
+- '[[_Standards/WikiData/WD~joule_per_cubic_metre,69424806|WD~joule_per_cubic_metre,69424806]]'
 conversion_to_standard_unit:
 - 0.007500616827042
 - 0.02088545632547
@@ -66,11 +66,11 @@ in_defining_formula:
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">P</mi><mi mathvariant="normal">a</mi></mrow></mrow></mstyle></mrow></math>
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">k</mi><mi mathvariant="normal">g</mi></mrow></mrow></mstyle></mrow></math>
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">N</mi></mrow></mstyle></mrow></math>
-named_after: '[[_Standards/WikiData/WD~Blaise_Pascal,1290]]'
+named_after: '[[_Standards/WikiData/WD~Blaise_Pascal,1290|WD~Blaise_Pascal,1290]]'
 derived_from_base_unit:
-- '[[_Standards/WikiData/WD~kilogram,11570]]'
-- '[[_Standards/WikiData/WD~second,11574]]'
-- '[[_Standards/WikiData/WD~metre,11573]]'
+- '[[_Standards/WikiData/WD~kilogram,11570|WD~kilogram,11570]]'
+- '[[_Standards/WikiData/WD~second,11574|WD~second,11574]]'
+- '[[_Standards/WikiData/WD~metre,11573|WD~metre,11573]]'
 conversion_to_SI_unit: 1
 OmegaWiki_Defined_Meaning: 341482
 UN_CEFACT_Common_Code: PAL

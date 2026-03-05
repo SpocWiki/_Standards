@@ -38,12 +38,12 @@ aliases:
 - 肌肉細胞
 - 근육세포
 has_id_wikidata: Q428914
-instance_of: '[[_Standards/WikiData/WD~cell_type,189118]]'
-has_part_s_: '[[_Standards/WikiData/WD~myofibril,318623]]'
+instance_of: '[[_Standards/WikiData/WD~cell_type,189118|WD~cell_type,189118]]'
+has_part_s_: '[[_Standards/WikiData/WD~myofibril,318623|WD~myofibril,318623]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~somatic_cell,725508]]'
-- '[[_Standards/WikiData/WD~cell,7868]]'
-part_of: '[[_Standards/WikiData/WD~muscle_tissue,797559]]'
+- '[[_Standards/WikiData/WD~somatic_cell,725508|WD~somatic_cell,725508]]'
+- '[[_Standards/WikiData/WD~cell,7868|WD~cell,7868]]'
+part_of: '[[_Standards/WikiData/WD~muscle_tissue,797559|WD~muscle_tissue,797559]]'
 MeSH_tree_code: A11.620
 UMLS_CUI: C0596981
 Terminologia_Histologica: H2.00.05.0.00002

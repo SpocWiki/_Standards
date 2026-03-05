@@ -68,22 +68,22 @@ aliases:
 - 남쪽물고기자리
 has_id_wikidata: Q10409
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
-child_astronomical_body: '[[_Standards/WikiData/WD~Piscis_Austrinids,2096989]]'
-part_of: '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886|WD~Star_Lore_of_All_Ages,95985886]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+child_astronomical_body: '[[_Standards/WikiData/WD~Piscis_Austrinids,2096989|WD~Piscis_Austrinids,2096989]]'
+part_of: '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815|WD~Southern_Celestial_Hemisphere,2380815]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Q10729041,10729041]]'
-- '[[_Standards/WikiData/WD~Template_Stars_of_Piscis_Austrinus,10857891]]'
-instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
+- '[[_Standards/WikiData/WD~Q10729041,10729041|WD~Q10729041,10729041]]'
+- '[[_Standards/WikiData/WD~Template_Stars_of_Piscis_Austrinus,10857891|WD~Template_Stars_of_Piscis_Austrinus,10857891]]'
+instance_of: '[[_Standards/WikiData/WD~constellation,8928|WD~constellation,8928]]'
 shares_border_with:
-- '[[_Standards/WikiData/WD~Sculptor,9286]]'
-- '[[_Standards/WikiData/WD~Microscopium,10492]]'
-- '[[_Standards/WikiData/WD~Capricornus,10535]]'
-- '[[_Standards/WikiData/WD~Grus,10563]]'
-- '[[_Standards/WikiData/WD~Aquarius,10576]]'
+- '[[_Standards/WikiData/WD~Sculptor,9286|WD~Sculptor,9286]]'
+- '[[_Standards/WikiData/WD~Microscopium,10492|WD~Microscopium,10492]]'
+- '[[_Standards/WikiData/WD~Capricornus,10535|WD~Capricornus,10535]]'
+- '[[_Standards/WikiData/WD~Grus,10563|WD~Grus,10563]]'
+- '[[_Standards/WikiData/WD~Aquarius,10576|WD~Aquarius,10576]]'
 area: 245
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Piscis%20Austrinus%20constellation%20map.svg
 astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Piscis%20Austrinus%20symbol%20%28Moskowitz%2C%20variable%20width%29.svg
@@ -94,7 +94,7 @@ official_name: Piscis Austrinus
 short_name: PsA
 dv_is_:
   same_as:
-  - '[[../../WikiData/WD~Piscis_Austrinus,10409]]'
+  - '[[../../WikiData/WD~Piscis_Austrinus,10409|WD~Piscis_Austrinus,10409]]'
   - '[[/_Standards/Astronomy/Star~Constellation/Piscis_Austrinus|Piscis_Austrinus]]'
   - '[[/_public/Astronomy/Star~Constellation/Piscis_Austrinus.public|Piscis_Austrinus.public]]'
   - '[[/_internal/Astronomy/Star~Constellation/Piscis_Austrinus.internal|Piscis_Austrinus.internal]]'
@@ -103,7 +103,7 @@ dv_is_:
   - '[[/_personal/Astronomy/Star~Constellation/Piscis_Austrinus.personal|Piscis_Austrinus.personal]]'
   - '[[/_secret/Astronomy/Star~Constellation/Piscis_Austrinus.secret|Piscis_Austrinus.secret]]'
 dv_is_same_as:
-- '[[../../WikiData/WD~Piscis_Austrinus,10409]]'
+- '[[../../WikiData/WD~Piscis_Austrinus,10409|WD~Piscis_Austrinus,10409]]'
 - '[[/_Standards/Astronomy/Star~Constellation/Piscis_Austrinus|Piscis_Austrinus]]'
 - '[[/_public/Astronomy/Star~Constellation/Piscis_Austrinus.public|Piscis_Austrinus.public]]'
 - '[[/_internal/Astronomy/Star~Constellation/Piscis_Austrinus.internal|Piscis_Austrinus.internal]]'

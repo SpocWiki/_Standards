@@ -75,18 +75,18 @@ isReadOnly: false
 tags:
 - astro/Zodiac
 type: Zodiac
-part_of: '[[_Standards/WikiData/WD~Northern_celestial_hemisphere,1998069]]'
+part_of: '[[_Standards/WikiData/WD~Northern_celestial_hemisphere,1998069|WD~Northern_celestial_hemisphere,1998069]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Stars_of_Equuleus,14336011]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Stars_of_Equuleus,14336011|WD~Template_Stars_of_Equuleus,14336011]]'
 shares_border_with:
-- '[[_Standards/WikiData/WD~Pegasus,8864]]'
-- '[[_Standards/WikiData/WD~Delphinus,9302]]'
-- '[[_Standards/WikiData/WD~Aquarius,10576]]'
-instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
+- '[[_Standards/WikiData/WD~Pegasus,8864|WD~Pegasus,8864]]'
+- '[[_Standards/WikiData/WD~Delphinus,9302|WD~Delphinus,9302]]'
+- '[[_Standards/WikiData/WD~Aquarius,10576|WD~Aquarius,10576]]'
+instance_of: '[[_Standards/WikiData/WD~constellation,8928|WD~constellation,8928]]'
 area: 72
-named_after: '[[_Standards/WikiData/WD~foal,45614]]'
+named_after: '[[_Standards/WikiData/WD~foal,45614|WD~foal,45614]]'
 locator_map_image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Equuleus%20constellation%20map-bs.svg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Equuleus%20constellation%20map-fr.png

@@ -50,10 +50,10 @@ aliases:
 - 维管组织
 has_id_wikidata: Q968604
 has_part_s_:
-- '[[_Standards/WikiData/WD~xylem,122811]]'
-- '[[_Standards/WikiData/WD~phloem,185138]]'
-has_use: '[[_Standards/WikiData/WD~transport,1435575]]'
-subclass_of: '[[_Standards/WikiData/WD~plant_tissue,2707831]]'
+- '[[_Standards/WikiData/WD~xylem,122811|WD~xylem,122811]]'
+- '[[_Standards/WikiData/WD~phloem,185138|WD~phloem,185138]]'
+has_use: '[[_Standards/WikiData/WD~transport,1435575|WD~transport,1435575]]'
+subclass_of: '[[_Standards/WikiData/WD~plant_tissue,2707831|WD~plant_tissue,2707831]]'
 Dewey_Decimal_Classification:
 - 581.495
 - 571.58

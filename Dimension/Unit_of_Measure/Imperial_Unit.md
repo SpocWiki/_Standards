@@ -60,17 +60,17 @@ aliases:
 - 제국 단위계
 has_id_wikidata: Q641227
 has_part_s_:
-- '[[_Standards/WikiData/WD~pound,100995]]'
-- '[[_Standards/WikiData/WD~gallon,178413]]'
-- '[[_Standards/WikiData/WD~inch,218593]]'
-- '[[_Standards/WikiData/WD~mile,253276]]'
-- '[[_Standards/WikiData/WD~yard,482798]]'
-- '[[_Standards/WikiData/WD~fluid_ounce,69878540]]'
-- '[[_Standards/WikiData/WD~foot,3710]]'
-instance_of: '[[_Standards/WikiData/WD~system_of_units,932268]]'
-part_of: '[[_Standards/WikiData/WD~Imperial_and_US_customary_measurement_systems,14290846]]'
-replaces: '[[_Standards/WikiData/WD~English_unit_of_measurement,16782623]]'
-described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~pound,100995|WD~pound,100995]]'
+- '[[_Standards/WikiData/WD~gallon,178413|WD~gallon,178413]]'
+- '[[_Standards/WikiData/WD~inch,218593|WD~inch,218593]]'
+- '[[_Standards/WikiData/WD~mile,253276|WD~mile,253276]]'
+- '[[_Standards/WikiData/WD~yard,482798|WD~yard,482798]]'
+- '[[_Standards/WikiData/WD~fluid_ounce,69878540|WD~fluid_ounce,69878540]]'
+- '[[_Standards/WikiData/WD~foot,3710|WD~foot,3710]]'
+instance_of: '[[_Standards/WikiData/WD~system_of_units,932268|WD~system_of_units,932268]]'
+part_of: '[[_Standards/WikiData/WD~Imperial_and_US_customary_measurement_systems,14290846|WD~Imperial_and_US_customary_measurement_systems,14290846]]'
+replaces: '[[_Standards/WikiData/WD~English_unit_of_measurement,16782623|WD~English_unit_of_measurement,16782623]]'
+described_by_source: '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/WV%20banner%20Imperial%20units.jpg
 Commons_category: British Imperial units
 dv_has_:
@@ -136,7 +136,7 @@ dv_has_:
 
 # [[Imperial_Unit]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~imperial_system_of_units,641227]] 
+#is_/same_as :: [[_Standards/WikiData/WD~imperial_system_of_units,641227|WD~imperial_system_of_units,641227]] 
 
 ## #has_/text_of_/abstract 
 

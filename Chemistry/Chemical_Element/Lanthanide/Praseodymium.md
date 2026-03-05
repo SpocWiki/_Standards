@@ -90,11 +90,11 @@ Commons_category: Praseodymium
 Commons_gallery: Praseodymium
 density: 6.773
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Carl_Gustaf_Mosander,468316]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Carl_Gustaf_Mosander,468316|WD~Carl_Gustaf_Mosander,468316]]'
 DSSTOX_compound_identifier: DTXCID2047648
 EC_number: 231-120-3
 electrical_resistivity: 7e-7
@@ -103,7 +103,7 @@ element_symbol: Pr
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Praseodym%201.jpg
 InChI: InChI=1S/Pr
 InChIKey: PUDIUYLPXJFUGB-UHFFFAOYSA-N
-instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
+instance_of: '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 ionic_radius:
 - 0.85
 - 0.96
@@ -115,12 +115,12 @@ MeSH_tree_code:
 - D01.268.558.362.750
 - D01.552.550.399.750
 named_after:
-- '[[_Standards/WikiData/WD~twin,159979]]'
-- '[[_Standards/WikiData/WD~green,3133]]'
+- '[[_Standards/WikiData/WD~twin,159979|WD~twin,159979]]'
+- '[[_Standards/WikiData/WD~green,3133|WD~green,3133]]'
 OmegaWiki_Defined_Meaning: 342115
 part_of:
-- '[[_Standards/WikiData/WD~period_6,239813]]'
-- '[[_Standards/WikiData/WD~lanthanide,19569]]'
+- '[[_Standards/WikiData/WD~period_6,239813|WD~period_6,239813]]'
+- '[[_Standards/WikiData/WD~lanthanide,19569|WD~lanthanide,19569]]'
 PubChem_CID: 23942
 speed_of_sound: 2280
 SpocWebEntityId: 21955
@@ -309,9 +309,9 @@ dv_has_:
         kj_:
           mol: 296.8
 dv_is_:
-  part_of: '[[../Lanthanide]]'
+  part_of: '[[../Lanthanide|Lanthanide]]'
   same_as:
-  - '[[../../../WikiData/WD~Praseodymium,1386]]'
+  - '[[../../../WikiData/WD~Praseodymium,1386|WD~Praseodymium,1386]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Lanthanide/Praseodymium|Praseodymium]]'
   - '[[/_public/Chemistry/Chemical_Element/Lanthanide/Praseodymium.public|Praseodymium.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Lanthanide/Praseodymium.internal|Praseodymium.internal]]'
@@ -320,7 +320,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Chemical_Element/Lanthanide/Praseodymium.personal|Praseodymium.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Lanthanide/Praseodymium.secret|Praseodymium.secret]]'
 dv_has_name_group: Lanthanide-Group
-dv_is_part_of: '[[../Lanthanide]]'
+dv_is_part_of: '[[../Lanthanide|Lanthanide]]'
 dv_has_name_en: Praseodymium
 dv_has_name_de: Praseodym
 dv_has_value_for_weight_u: 140.9077
@@ -339,7 +339,7 @@ dv_has_value_for_energy_form_kj_mol: 296.8
 dv_has_number_of_period: 6
 dv_has_number_of_group: 25
 dv_is_same_as:
-- '[[../../../WikiData/WD~Praseodymium,1386]]'
+- '[[../../../WikiData/WD~Praseodymium,1386|WD~Praseodymium,1386]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Lanthanide/Praseodymium|Praseodymium]]'
 - '[[/_public/Chemistry/Chemical_Element/Lanthanide/Praseodymium.public|Praseodymium.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Lanthanide/Praseodymium.internal|Praseodymium.internal]]'
@@ -384,7 +384,7 @@ has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol`
 has_number_of_period = `=this.dv_has_number_of_period` 
 has_number_of_group = `=this.dv_has_number_of_group` 
 
-#is_/same_as :: [[../../../WikiData/WD~Praseodymium,1386]] 
+#is_/same_as :: [[../../../WikiData/WD~Praseodymium,1386|WD~Praseodymium,1386]] 
 
 
 ## #has_/text_of_/abstract 

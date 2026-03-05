@@ -54,25 +54,25 @@ aliases:
 - 다이너마이트
 has_id_wikidata: Q80728
 has_part_s_:
-- '[[../../_Standards/WikiData/WD~Nitroglycerin,162867]]'
-- '[[_Standards/WikiData/WD~sorbent,4428995]]'
+- '[[../../_Standards/WikiData/WD~Nitroglycerin,162867|WD~Nitroglycerin,162867]]'
+- '[[_Standards/WikiData/WD~sorbent,4428995|WD~sorbent,4428995]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~composite_material,181790]]'
-- '[[_Standards/WikiData/WD~improvised_weapon,2862130]]'
-- '[[_Standards/WikiData/WD~demolition_equipment,134732365]]'
-- '[[_Standards/WikiData/WD~explosive_chemicals,12870]]'
+- '[[_Standards/WikiData/WD~composite_material,181790|WD~composite_material,181790]]'
+- '[[_Standards/WikiData/WD~improvised_weapon,2862130|WD~improvised_weapon,2862130]]'
+- '[[_Standards/WikiData/WD~demolition_equipment,134732365|WD~demolition_equipment,134732365]]'
+- '[[_Standards/WikiData/WD~explosive_chemicals,12870|WD~explosive_chemicals,12870]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1969_1978),17378135|WD~Great_Soviet_Encyclopedia_(1969_1978),17378135]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 time_of_discovery_or_invention: 1867-01-01T00:00:00Z
-location_of_creation: '[[_Standards/WikiData/WD~Hamburg,1055]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Alfred_Nobel,23810]]'
+location_of_creation: '[[_Standards/WikiData/WD~Hamburg,1055|WD~Hamburg,1055]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Alfred_Nobel,23810|WD~Alfred_Nobel,23810]]'
 OmegaWiki_Defined_Meaning: 1070458
 Commons_category: Dynamite
 image:

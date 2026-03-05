@@ -62,9 +62,9 @@ aliases:
 - 초대형검은구멍
 has_id_wikidata: Q40392
 subclass_of:
-- '[[_Standards/WikiData/WD~central_massive_object,16256303]]'
-- '[[_Standards/WikiData/WD~black_hole,589]]'
-part_of: '[[_Standards/WikiData/WD~active_galactic_nucleus,46587]]'
+- '[[_Standards/WikiData/WD~central_massive_object,16256303|WD~central_massive_object,16256303]]'
+- '[[_Standards/WikiData/WD~black_hole,589|WD~black_hole,589]]'
+part_of: '[[_Standards/WikiData/WD~active_galactic_nucleus,46587|WD~active_galactic_nucleus,46587]]'
 short_name:
 - SMBH
 - TNSM

@@ -73,20 +73,20 @@ conversion_to_standard_unit:
 - 0.1
 - 0.01
 described_by_source:
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~ISO_80000-3_2006_Quantities_and_units___Part_3__Space_and_time,26711932]]'
-different_from: '[[_Standards/WikiData/WD~Litre,59279570]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~ISO_80000-3_2006_Quantities_and_units___Part_3__Space_and_time,26711932|WD~ISO_80000-3_2006_Quantities_and_units___Part_3__Space_and_time,26711932]]'
+different_from: '[[_Standards/WikiData/WD~Litre,59279570|WD~Litre,59279570]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/CubeLitre.svg
 instance_of:
-- '[[_Standards/WikiData/WD~unit_of_volume,1302471]]'
-- '[[_Standards/WikiData/WD~non-SI_unit_mentioned_in_and_accepted_with_the_SI,3268848]]'
-- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
-- '[[_Standards/WikiData/WD~SI-accepted_non-SI_unit,106839753]]'
-measured_physical_quantity: '[[_Standards/WikiData/WD~volume,39297]]'
+- '[[_Standards/WikiData/WD~unit_of_volume,1302471|WD~unit_of_volume,1302471]]'
+- '[[_Standards/WikiData/WD~non-SI_unit_mentioned_in_and_accepted_with_the_SI,3268848|WD~non-SI_unit_mentioned_in_and_accepted_with_the_SI,3268848]]'
+- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057|WD~UCUM_derived_unit,82047057]]'
+- '[[_Standards/WikiData/WD~SI-accepted_non-SI_unit,106839753|WD~SI-accepted_non-SI_unit,106839753]]'
+measured_physical_quantity: '[[_Standards/WikiData/WD~volume,39297|WD~volume,39297]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~cubic_decimetre,2175964]]'
-- '[[_Standards/WikiData/WD~Maß,48680]]'
+- '[[_Standards/WikiData/WD~cubic_decimetre,2175964|WD~cubic_decimetre,2175964]]'
+- '[[_Standards/WikiData/WD~Maß,48680|WD~Maß,48680]]'
 UCUM_code:
 - L
 - l

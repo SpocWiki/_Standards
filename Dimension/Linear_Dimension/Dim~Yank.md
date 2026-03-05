@@ -4,10 +4,10 @@
 #is_/similar_to :: 
 
 [[Dim~Yank]] is the **Change in Force over Time**, 
-i.e. the Derivative of [[Force]] by [[../Dim~Time]], 
-or equivalently the 2nd Derivative of [[Momentum]] by [[../Dim~Time]]. 
+i.e. the Derivative of [[Force]] by [[../Dim~Time|Dim~Time]], 
+or equivalently the 2nd Derivative of [[Momentum]] by [[../Dim~Time|Dim~Time]]. 
 
-The corresponding [[../Angular_Dimension]] is 
+The corresponding [[../Angular_Dimension|Angular_Dimension]] is 
 
 
 ## Confidential Links & Embeds: 

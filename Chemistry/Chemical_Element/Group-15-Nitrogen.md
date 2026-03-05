@@ -70,26 +70,26 @@ aliases:
 has_id_wikidata: Q106675
 Commons_category: Periodic table group 15
 has_part_s_:
-- '[[_Standards/WikiData/WD~nitrogen,627]]'
-- '[[_Standards/WikiData/WD~phosphorus,674]]'
-- '[[_Standards/WikiData/WD~arsenic,871]]'
-- '[[_Standards/WikiData/WD~bismuth,942]]'
-- '[[_Standards/WikiData/WD~antimony,1099]]'
-- '[[_Standards/WikiData/WD~moscovium,1303]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+- '[[_Standards/WikiData/WD~nitrogen,627|WD~nitrogen,627]]'
+- '[[_Standards/WikiData/WD~phosphorus,674|WD~phosphorus,674]]'
+- '[[_Standards/WikiData/WD~arsenic,871|WD~arsenic,871]]'
+- '[[_Standards/WikiData/WD~bismuth,942|WD~bismuth,942]]'
+- '[[_Standards/WikiData/WD~antimony,1099|WD~antimony,1099]]'
+- '[[_Standards/WikiData/WD~moscovium,1303|WD~moscovium,1303]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Stickstoff-gruppe.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~group,83306]]'
-- '[[_Standards/WikiData/WD~main_group,428830]]'
+- '[[_Standards/WikiData/WD~group,83306|WD~group,83306]]'
+- '[[_Standards/WikiData/WD~main_group,428830|WD~main_group,428830]]'
 OmegaWiki_Defined_Meaning: 1134
 P8189: 987007535177505200
 part_of:
-- '[[_Standards/WikiData/WD~p_block,214483]]'
-- '[[_Standards/WikiData/WD~periodic_table,10693]]'
+- '[[_Standards/WikiData/WD~p_block,214483|WD~p_block,214483]]'
+- '[[_Standards/WikiData/WD~periodic_table,10693|WD~periodic_table,10693]]'
 type: ElementGroup
 dv_is_:
   same_as:
-  - '[[../../WikiData/WD~Group_15,106675]]'
+  - '[[../../WikiData/WD~Group_15,106675|WD~Group_15,106675]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen|Group-15-Nitrogen]]'
   - '[[/_public/Chemistry/Chemical_Element/Group-15-Nitrogen.public|Group-15-Nitrogen.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen.internal|Group-15-Nitrogen.internal]]'
@@ -98,7 +98,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Chemical_Element/Group-15-Nitrogen.personal|Group-15-Nitrogen.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Group-15-Nitrogen.secret|Group-15-Nitrogen.secret]]'
 dv_is_same_as:
-- '[[../../WikiData/WD~Group_15,106675]]'
+- '[[../../WikiData/WD~Group_15,106675|WD~Group_15,106675]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Group-15-Nitrogen|Group-15-Nitrogen]]'
 - '[[/_public/Chemistry/Chemical_Element/Group-15-Nitrogen.public|Group-15-Nitrogen.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Group-15-Nitrogen.internal|Group-15-Nitrogen.internal]]'
@@ -197,13 +197,13 @@ dv_has_:
 
 #chemic/Group 
 
-2)[[Group-15-Nitrogen/Nitrogen]]]
-3)[[Group-15-Nitrogen/Phosphorus]]]
-4)[[Group-15-Nitrogen/Arsenic]]]
-5)[[Group-15-Nitrogen/Antimony]]]
-6)[[Group-15-Nitrogen/Bismuth]]]
+2)[[Group-15-Nitrogen/Nitrogen|Nitrogen]]]
+3)[[Group-15-Nitrogen/Phosphorus|Phosphorus]]]
+4)[[Group-15-Nitrogen/Arsenic|Arsenic]]]
+5)[[Group-15-Nitrogen/Antimony|Antimony]]]
+6)[[Group-15-Nitrogen/Bismuth|Bismuth]]]
 
-#is_/same_as :: [[../../WikiData/WD~Group_15,106675]] 
+#is_/same_as :: [[../../WikiData/WD~Group_15,106675|WD~Group_15,106675]] 
 ## #is_/same_as 
 
 > A pnictogen ( or ; from Ancient Greek: πνῑ́γω "to choke" and -gen, "generator") is any of the chemical elements in group 15 of the periodic table. Group 15 is also known as the nitrogen group or nitrogen family. Group 15 consists of the elements nitrogen (N), phosphorus (P), arsenic (As), antimony (Sb), bismuth (Bi), and moscovium (Mc).

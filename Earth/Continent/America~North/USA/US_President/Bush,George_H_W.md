@@ -78,8 +78,8 @@ tags:
 - ''
 title: Bush,George_H_W
 type: private_note
-dv_has_role: '[[../US_President]]'
-dv_is_member_of: '[[../../../../../Knowledge/History.internal/History~USA/US~Republican_Party]]'
+dv_has_role: '[[../US_President|US_President]]'
+dv_is_member_of: '[[../../../../../Knowledge/History.internal/History~USA/US~Republican_Party|US~Republican_Party]]'
 dv_created: 1989-01-20
 dv_cancelled: 1993-01-20
 dv_has_:
@@ -290,7 +290,7 @@ dv_is_same_as:
 
 has_time_started = `=this.dv_has_time_started`
 has_time_stopped = `=this.dv_has_time_stopped`
--   [has_role :: [[../US_President]] ]is_member_of = `=this.dv_is_member_of`
+-   [has_role :: [[../US_President|US_President]] ]is_member_of = `=this.dv_is_member_of`
 
 
 ## Confidential Links & Embeds: 

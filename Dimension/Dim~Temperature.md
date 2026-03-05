@@ -97,17 +97,17 @@ aliases:
 - 온도
 has_id_wikidata: Q11466
 subclass_of:
-- '[[_Standards/WikiData/WD~scalar_quantity,181175]]'
-- '[[_Standards/WikiData/WD~intensive_quantity,3387041]]'
-instance_of: '[[_Standards/WikiData/WD~state_function,230937]]'
-invariant_under: '[[_Standards/WikiData/WD~isothermal_process,486921]]'
-different_from: '[[_Standards/WikiData/WD~temperature_difference,69362767]]'
+- '[[_Standards/WikiData/WD~scalar_quantity,181175|WD~scalar_quantity,181175]]'
+- '[[_Standards/WikiData/WD~intensive_quantity,3387041|WD~intensive_quantity,3387041]]'
+instance_of: '[[_Standards/WikiData/WD~state_function,230937|WD~state_function,230937]]'
+invariant_under: '[[_Standards/WikiData/WD~isothermal_process,486921|WD~isothermal_process,486921]]'
+different_from: '[[_Standards/WikiData/WD~temperature_difference,69362767|WD~temperature_difference,69362767]]'
 ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">&#x0398;</mi></mrow></mstyle></mrow></math>
 main_Wikidata_property:
 - temperature
 - non-operating temperature
 - serving temperature
-studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473]]'
+studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473|WD~thermodynamics,11473]]'
 OmegaWiki_Defined_Meaning: 3738
 quantity_symbol_string_:
 - T

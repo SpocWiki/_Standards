@@ -87,15 +87,15 @@ tags:
 title: is_an_oncologic Class
 type: Type
 instance_of:
-- '[[_Standards/WikiData/WD~medical_specialty,930752]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~medical_specialty,930752|WD~medical_specialty,930752]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674]]'
-practiced_by: '[[_Standards/WikiData/WD~oncologist,16062369]]'
-part_of: '[[_Standards/WikiData/WD~oncology_and_carcinogenesis,113066539]]'
-subclass_of: '[[_Standards/WikiData/WD~medicine,11190]]'
-is_the_study_of: '[[_Standards/WikiData/WD~cancer,12078]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Dresdner_Hefte,14916674|WD~Dresdner_Hefte,14916674]]'
+practiced_by: '[[_Standards/WikiData/WD~oncologist,16062369|WD~oncologist,16062369]]'
+part_of: '[[_Standards/WikiData/WD~oncology_and_carcinogenesis,113066539|WD~oncology_and_carcinogenesis,113066539]]'
+subclass_of: '[[_Standards/WikiData/WD~medicine,11190|WD~medicine,11190]]'
+is_the_study_of: '[[_Standards/WikiData/WD~cancer,12078|WD~cancer,12078]]'
 All_Science_Journal_Classification_Codes:
 - 2730
 - 2917
@@ -235,9 +235,9 @@ Tag Instances like this:
 
 A specific branch of medical science that deals with benign and malignant tumors, including the study of their development, diagnosis, treatment and prevention.
 
-#has_/parent_class :: [[../MedicalBusiness, MedicalSpecialty]]  
+#has_/parent_class :: [[../MedicalBusiness, MedicalSpecialty|MedicalBusiness, MedicalSpecialty]]  
 
-#is_/enum_of :: [[../MedicalSpecialty]]  
+#is_/enum_of :: [[../MedicalSpecialty|MedicalSpecialty]]  
 
 #is_/same_as :: [[../../../WikiData/WD~Oncology,162555|WD~Oncology,162555]] 
 

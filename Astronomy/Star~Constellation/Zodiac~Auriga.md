@@ -81,27 +81,27 @@ tags:
 - astro/Zodiac
 type: Zodiac
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~A_field_book_of_the_stars,55346553]]'
-- '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]'
-child_astronomical_body: '[[_Standards/WikiData/WD~Delta_Aurigids,1184791]]'
-part_of: '[[_Standards/WikiData/WD~Northern_celestial_hemisphere,1998069]]'
-named_after: '[[_Standards/WikiData/WD~auriga,2570377]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~A_field_book_of_the_stars,55346553|WD~A_field_book_of_the_stars,55346553]]'
+- '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886|WD~Star_Lore_of_All_Ages,95985886]]'
+child_astronomical_body: '[[_Standards/WikiData/WD~Delta_Aurigids,1184791|WD~Delta_Aurigids,1184791]]'
+part_of: '[[_Standards/WikiData/WD~Northern_celestial_hemisphere,1998069|WD~Northern_celestial_hemisphere,1998069]]'
+named_after: '[[_Standards/WikiData/WD~auriga,2570377|WD~auriga,2570377]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Auriga_(constellation),6520378]]'
-- '[[_Standards/WikiData/WD~Q10729146,10729146]]'
-has_part_s_: '[[_Standards/WikiData/WD~Eight_Kinds_of_Crops,10892329]]'
+- '[[_Standards/WikiData/WD~Template_Auriga_(constellation),6520378|WD~Template_Auriga_(constellation),6520378]]'
+- '[[_Standards/WikiData/WD~Q10729146,10729146|WD~Q10729146,10729146]]'
+has_part_s_: '[[_Standards/WikiData/WD~Eight_Kinds_of_Crops,10892329|WD~Eight_Kinds_of_Crops,10892329]]'
 shares_border_with:
-- '[[_Standards/WikiData/WD~Camelopardalis,8832]]'
-- '[[_Standards/WikiData/WD~Gemini,8923]]'
-- '[[_Standards/WikiData/WD~Lynx,10443]]'
-- '[[_Standards/WikiData/WD~Perseus,10511]]'
-- '[[_Standards/WikiData/WD~Taurus,10570]]'
-instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
+- '[[_Standards/WikiData/WD~Camelopardalis,8832|WD~Camelopardalis,8832]]'
+- '[[_Standards/WikiData/WD~Gemini,8923|WD~Gemini,8923]]'
+- '[[_Standards/WikiData/WD~Lynx,10443|WD~Lynx,10443]]'
+- '[[_Standards/WikiData/WD~Perseus,10511|WD~Perseus,10511]]'
+- '[[_Standards/WikiData/WD~Taurus,10570|WD~Taurus,10570]]'
+instance_of: '[[_Standards/WikiData/WD~constellation,8928|WD~constellation,8928]]'
 area: 657
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Auriga%20constellation%20map.svg
 astronomic_symbol_image: http://commons.wikimedia.org/wiki/Special:FilePath/Auriga%20symbol%20%28Moskowitz%2C%20variable%20width%29.svg

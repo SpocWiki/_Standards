@@ -35,9 +35,9 @@ Tag Instances like this:
 
 A type of medical procedure that involves noninvasive techniques.
 
-#has_/parent_class :: [[../MedicalProcedureType]]  
+#has_/parent_class :: [[../MedicalProcedureType|MedicalProcedureType]]  
 
-#is_/enum_of :: [[../MedicalProcedureType]]  
+#is_/enum_of :: [[../MedicalProcedureType|MedicalProcedureType]]  
 
 ## Confidential Links & Embeds: 
 

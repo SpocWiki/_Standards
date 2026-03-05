@@ -65,17 +65,17 @@ aliases:
 - 질량 분석
 has_id_wikidata: Q180809
 subclass_of:
-- '[[_Standards/WikiData/WD~spectroscopy,483666]]'
-- '[[_Standards/WikiData/WD~spectrometry,65306641]]'
-- '[[_Standards/WikiData/WD~mass_analysis,93405460]]'
-has_part_s_: '[[_Standards/WikiData/WD~ion_source,905291]]'
-uses: '[[_Standards/WikiData/WD~mass_spectrometer,1327691]]'
-instance_of: '[[_Standards/WikiData/WD~analytical_chemical_technique,4751159]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Mass_spectrometry,11229192]]'
+- '[[_Standards/WikiData/WD~spectroscopy,483666|WD~spectroscopy,483666]]'
+- '[[_Standards/WikiData/WD~spectrometry,65306641|WD~spectrometry,65306641]]'
+- '[[_Standards/WikiData/WD~mass_analysis,93405460|WD~mass_analysis,93405460]]'
+has_part_s_: '[[_Standards/WikiData/WD~ion_source,905291|WD~ion_source,905291]]'
+uses: '[[_Standards/WikiData/WD~mass_spectrometer,1327691|WD~mass_spectrometer,1327691]]'
+instance_of: '[[_Standards/WikiData/WD~analytical_chemical_technique,4751159|WD~analytical_chemical_technique,4751159]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Mass_spectrometry,11229192|WD~Template_Mass_spectrometry,11229192]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
-practiced_by: '[[_Standards/WikiData/WD~mass_spectrometrist,114575069]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+practiced_by: '[[_Standards/WikiData/WD~mass_spectrometrist,114575069|WD~mass_spectrometrist,114575069]]'
 Nomenclature_for_Museum_Cataloging: 9941
 Basisklassifikation: 35.26
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Discovery%20of%20neon%20isotopes.JPG
@@ -91,7 +91,7 @@ Commons_category: Mass spectrometry
 GitHub_topic: mass-spectrometry
 dv_is_:
   same_as:
-  - '[[../WikiData/WD~Mass_spectrometry,180809]]'
+  - '[[../WikiData/WD~Mass_spectrometry,180809|WD~Mass_spectrometry,180809]]'
   - '[[/_Standards/Chemistry/Mass_Spectrometry|Mass_Spectrometry]]'
   - '[[/_public/Chemistry/Mass_Spectrometry.public|Mass_Spectrometry.public]]'
   - '[[/_internal/Chemistry/Mass_Spectrometry.internal|Mass_Spectrometry.internal]]'
@@ -100,7 +100,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Mass_Spectrometry.personal|Mass_Spectrometry.personal]]'
   - '[[/_secret/Chemistry/Mass_Spectrometry.secret|Mass_Spectrometry.secret]]'
 dv_is_same_as:
-- '[[../WikiData/WD~Mass_spectrometry,180809]]'
+- '[[../WikiData/WD~Mass_spectrometry,180809|WD~Mass_spectrometry,180809]]'
 - '[[/_Standards/Chemistry/Mass_Spectrometry|Mass_Spectrometry]]'
 - '[[/_public/Chemistry/Mass_Spectrometry.public|Mass_Spectrometry.public]]'
 - '[[/_internal/Chemistry/Mass_Spectrometry.internal|Mass_Spectrometry.internal]]'

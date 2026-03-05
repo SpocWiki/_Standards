@@ -65,15 +65,15 @@ aliases:
 - 왕도마뱀류
 has_id_wikidata: Q81228
 described_by_source:
-- '[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_II_of_CITES,2851527]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q7150876,7150876]]'
-homonymous_taxon: '[[_Standards/WikiData/WD~Varanus,21439252]]'
-this_zoological_name_is_coordinate_with: '[[_Standards/WikiData/WD~Varanus,21439252]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+- '[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_II_of_CITES,2851527|WD~Appendix_II_of_CITES,2851527]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q7150876,7150876|WD~Q7150876,7150876]]'
+homonymous_taxon: '[[_Standards/WikiData/WD~Varanus,21439252|WD~Varanus,21439252]]'
+this_zoological_name_is_coordinate_with: '[[_Standards/WikiData/WD~Varanus,21439252|WD~Varanus,21439252]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
 ITIS_TSN: 174115
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Licking%20Monitor%20Lizard.jpg

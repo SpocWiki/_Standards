@@ -43,12 +43,12 @@ aliases:
 - 極限環境微生物
 - 극한 생물
 has_id_wikidata: Q206912
-opposite_of: '[[_Standards/WikiData/WD~mesophile,669652]]'
-studied_by: '[[_Standards/WikiData/WD~extreme_biology,3062654]]'
-instance_of: '[[_Standards/WikiData/WD~ecological_group_of_plants,4530267]]'
-habitat: '[[_Standards/WikiData/WD~extreme_environment,5422399]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Extremophile,13422650]]'
-subclass_of: '[[_Standards/WikiData/WD~organism,7239]]'
+opposite_of: '[[_Standards/WikiData/WD~mesophile,669652|WD~mesophile,669652]]'
+studied_by: '[[_Standards/WikiData/WD~extreme_biology,3062654|WD~extreme_biology,3062654]]'
+instance_of: '[[_Standards/WikiData/WD~ecological_group_of_plants,4530267|WD~ecological_group_of_plants,4530267]]'
+habitat: '[[_Standards/WikiData/WD~extreme_environment,5422399|WD~extreme_environment,5422399]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Extremophile,13422650|WD~Template_Extremophile,13422650]]'
+subclass_of: '[[_Standards/WikiData/WD~organism,7239|WD~organism,7239]]'
 OmegaWiki_Defined_Meaning: 1122041
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Aerial%20image%20of%20Grand%20Prismatic%20Spring%20%28view%20from%20the%20south%29.jpg
 Dewey_Decimal_Classification: 579.14

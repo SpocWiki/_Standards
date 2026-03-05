@@ -48,16 +48,16 @@ aliases:
 - 長寿
 - 장수
 has_id_wikidata: Q1066907
-facet_of: '[[_Standards/WikiData/WD~life_expectancy,188419]]'
+facet_of: '[[_Standards/WikiData/WD~life_expectancy,188419|WD~life_expectancy,188419]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~supercentenarian,1200828]]'
-- '[[_Standards/WikiData/WD~centenarian,2944360]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Longevity,11157579]]'
-instance_of: '[[_Standards/WikiData/WD~quality_of_life,13100823]]'
+- '[[_Standards/WikiData/WD~supercentenarian,1200828|WD~supercentenarian,1200828]]'
+- '[[_Standards/WikiData/WD~centenarian,2944360|WD~centenarian,2944360]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Longevity,11157579|WD~Template_Longevity,11157579]]'
+instance_of: '[[_Standards/WikiData/WD~quality_of_life,13100823|WD~quality_of_life,13100823]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
-opposite_of: '[[_Standards/WikiData/WD~short_life,115663206]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+opposite_of: '[[_Standards/WikiData/WD~short_life,115663206|WD~short_life,115663206]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ca%C3%A7arelhos46.jpg
 Iconclass_notation: 31D91
 MeSH_tree_code:

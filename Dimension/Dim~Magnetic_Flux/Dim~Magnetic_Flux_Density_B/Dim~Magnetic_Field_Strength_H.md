@@ -40,24 +40,24 @@ aliases:
 - 磁場の強さ
 has_id_wikidata: Q28123
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~field,185674]]'
-- '[[_Standards/WikiData/WD~field_strength,1365197]]'
-- '[[_Standards/WikiData/WD~vector_quantity,2672914]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~field,185674|WD~field,185674]]'
+- '[[_Standards/WikiData/WD~field_strength,1365197|WD~field_strength,1365197]]'
+- '[[_Standards/WikiData/WD~vector_quantity,2672914|WD~vector_quantity,2672914]]'
 part_of:
-- '[[_Standards/WikiData/WD~magnetostatics,665093]]'
-- '[[_Standards/WikiData/WD~magnetism,3294789]]'
+- '[[_Standards/WikiData/WD~magnetostatics,665093|WD~magnetostatics,665093]]'
+- '[[_Standards/WikiData/WD~magnetism,3294789|WD~magnetism,3294789]]'
 different_from:
-- '[[_Standards/WikiData/WD~field_strength,1365197]]'
-- '[[_Standards/WikiData/WD~gravitational_field_strength,21652129]]'
-- '[[../../../WikiData/WD~magnetic_flux_density,30204]]'
+- '[[_Standards/WikiData/WD~field_strength,1365197|WD~field_strength,1365197]]'
+- '[[_Standards/WikiData/WD~gravitational_field_strength,21652129|WD~gravitational_field_strength,21652129]]'
+- '[[../../../WikiData/WD~magnetic_flux_density,30204|WD~magnetic_flux_density,30204]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~IEC_80000_6_2008_Quantities_and_units_Part_6_Electromagnetism,26711936]]'
-- '[[_Standards/WikiData/WD~IEC_80000_6_2022_Quantities_and_units_Part_6_Electromagnetism,117847945]]'
-recommended_unit_of_measurement: '[[_Standards/WikiData/WD~ampere_per_metre,2844478]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-instance_of: '[[_Standards/WikiData/WD~technical_term,12812139]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~IEC_80000_6_2008_Quantities_and_units_Part_6_Electromagnetism,26711936|WD~IEC_80000_6_2008_Quantities_and_units_Part_6_Electromagnetism,26711936]]'
+- '[[_Standards/WikiData/WD~IEC_80000_6_2022_Quantities_and_units_Part_6_Electromagnetism,117847945|WD~IEC_80000_6_2022_Quantities_and_units_Part_6_Electromagnetism,117847945]]'
+recommended_unit_of_measurement: '[[_Standards/WikiData/WD~ampere_per_metre,2844478|WD~ampere_per_metre,2844478]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+instance_of: '[[_Standards/WikiData/WD~technical_term,12812139|WD~technical_term,12812139]]'
 quantity_symbol_LaTeX_: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D46F</mi></mrow></mstyle></mrow></math>"
 in_defining_formula:
 - "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D46F</mi></mrow></mstyle></mrow></math>"
@@ -70,8 +70,8 @@ defining_formula:
 - "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D42B</mi><mi>\U0001D428</mi><mi>\U0001D42D</mi></mrow></mrow><mo>&#x2061;</mo><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D46F</mi></mrow><mo stretchy=\"false\">=</mo><msub><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D471</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">t</mi><mi mathvariant=\"normal\">o</mi><mi mathvariant=\"normal\">t</mi></mrow></mrow></mrow></msub></mstyle></mrow></math>"
 - "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D46F</mi></mrow><mo stretchy=\"false\">=</mo><mrow data-mjx-texclass=\"ORD\"><mfrac><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D469</mi></mrow></mrow><mrow data-mjx-texclass=\"ORD\"><msub><mi>&#x03BC;</mi><mrow data-mjx-texclass=\"ORD\"><mn>0</mn></mrow></msub></mrow></mfrac></mrow><mo stretchy=\"false\">&#x2212;</mo><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D474</mi></mrow></mstyle></mrow></math>"
 ISQ_dimension: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AB</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mo stretchy=\"false\">&#x2212;</mo><mn>1</mn></mrow></mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5A8</mi></mrow></mstyle></mrow></math>"
-facet_of: '[[_Standards/WikiData/WD~magnetic_field,11408]]'
-named_after: '[[_Standards/WikiData/WD~Hans_Christian_Ørsted,44412]]'
+facet_of: '[[_Standards/WikiData/WD~magnetic_field,11408|WD~magnetic_field,11408]]'
+named_after: '[[_Standards/WikiData/WD~Hans_Christian_Ørsted,44412|WD~Hans_Christian_Ørsted,44412]]'
 IEV_number: 121-11-56
 dv_has_:
   name_:
@@ -119,8 +119,8 @@ dv_has_:
 
 # [[Dim~Magnetic_Field_Strength_H]] 
 
-#is_/similar_to :: [[../Dim~Magnetic_Flux_Density_B]] 
-#is_/same_as :: [[_Standards/WikiData/WD~magnetic_field_strength,28123]] 
+#is_/similar_to :: [[../Dim~Magnetic_Flux_Density_B|Dim~Magnetic_Flux_Density_B]] 
+#is_/same_as :: [[_Standards/WikiData/WD~magnetic_field_strength,28123|WD~magnetic_field_strength,28123]] 
 
 [[../Dim~Magnetic_Flux_Density_B|B]] = μ · [[Dim~Magnetic_Field_Strength_H|H]]
 

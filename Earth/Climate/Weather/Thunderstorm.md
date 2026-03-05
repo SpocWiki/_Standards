@@ -88,27 +88,27 @@ aliases:
 - 雷雨
 - 뇌우
 has_id_wikidata: Q2857578
-history_of_topic: '[[_Standards/WikiData/WD~water_cycle,81041]]'
+history_of_topic: '[[_Standards/WikiData/WD~water_cycle,81041|WD~water_cycle,81041]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~storm,81054]]'
-- '[[_Standards/WikiData/WD~weather,11663]]'
-- '[[_Standards/WikiData/WD~precipitation,25257]]'
-produced_sound: '[[_Standards/WikiData/WD~thunder,83301]]'
+- '[[_Standards/WikiData/WD~storm,81054|WD~storm,81054]]'
+- '[[_Standards/WikiData/WD~weather,11663|WD~weather,11663]]'
+- '[[_Standards/WikiData/WD~precipitation,25257|WD~precipitation,25257]]'
+produced_sound: '[[_Standards/WikiData/WD~thunder,83301|WD~thunder,83301]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~thunder,83301]]'
-- '[[_Standards/WikiData/WD~rain,7925]]'
-- '[[_Standards/WikiData/WD~tornado,8081]]'
-- '[[_Standards/WikiData/WD~wind,8094]]'
-- '[[_Standards/WikiData/WD~lightning,33741]]'
-- '[[_Standards/WikiData/WD~hail,37602]]'
+- '[[_Standards/WikiData/WD~thunder,83301|WD~thunder,83301]]'
+- '[[_Standards/WikiData/WD~rain,7925|WD~rain,7925]]'
+- '[[_Standards/WikiData/WD~tornado,8081|WD~tornado,8081]]'
+- '[[_Standards/WikiData/WD~wind,8094|WD~wind,8094]]'
+- '[[_Standards/WikiData/WD~lightning,33741|WD~lightning,33741]]'
+- '[[_Standards/WikiData/WD~hail,37602|WD~hail,37602]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-different_from: '[[_Standards/WikiData/WD~Burza,2664575]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_meteorological_phenomenon,118733587]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+different_from: '[[_Standards/WikiData/WD~Burza,2664575|WD~Burza,2664575]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_meteorological_phenomenon,118733587|WD~type_of_meteorological_phenomenon,118733587]]'
 OmegaWiki_Defined_Meaning: 4687
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lightning%20Pritzerbe%2001%20%28MK%29.jpg
 subject_lexeme: L307191

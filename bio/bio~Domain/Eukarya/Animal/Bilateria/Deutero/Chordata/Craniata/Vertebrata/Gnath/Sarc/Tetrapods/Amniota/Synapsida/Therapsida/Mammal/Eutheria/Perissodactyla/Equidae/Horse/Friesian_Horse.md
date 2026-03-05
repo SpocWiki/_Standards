@@ -46,12 +46,12 @@ aliases:
 - 弗里西亞馬
 - 菲士蘭馬
 has_id_wikidata: Q388952
-subclass_of: '[[_Standards/WikiData/WD~Baroque_horse,808569]]'
+subclass_of: '[[_Standards/WikiData/WD~Baroque_horse,808569|WD~Baroque_horse,808569]]'
 instance_of:
-- '[[_Standards/WikiData/WD~horse_breed,1160573]]'
-- '[[_Standards/WikiData/WD~taxon,16521]]'
-color: '[[_Standards/WikiData/WD~black,23445]]'
-country_of_origin: '[[_Standards/WikiData/WD~Netherlands,55]]'
+- '[[_Standards/WikiData/WD~horse_breed,1160573|WD~horse_breed,1160573]]'
+- '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+color: '[[_Standards/WikiData/WD~black,23445|WD~black,23445]]'
+country_of_origin: '[[_Standards/WikiData/WD~Netherlands,55|WD~Netherlands,55]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Luisa%20Gaitan%20Caballos%20Frisones.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Bibi%20Pferdemarkt%20Friese%20nach%20links.jpg

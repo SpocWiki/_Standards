@@ -73,7 +73,7 @@ aliases:
 - ꯏꯟꯗꯤꯌꯝ
 - 인듐
 has_id_wikidata: Q1094
-associated_hazard: '[[_Standards/WikiData/WD~indium_exposure,21174765]]'
+associated_hazard: '[[_Standards/WikiData/WD~indium_exposure,21174765|WD~indium_exposure,21174765]]'
 atomic_number: 49
 boiling_point: 3767
 canonical_SMILES: '[In]'
@@ -87,18 +87,18 @@ Common_Procurement_Vocabulary_code:
 CPV_Supplementary_code: AA30
 density: 7.31
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 different_from:
-- '[[_Standards/WikiData/WD~Hindujo___Hindio___Indija___India,66376810]]'
-- '[[_Standards/WikiData/WD~iridium,877]]'
+- '[[_Standards/WikiData/WD~Hindujo___Hindio___Indija___India,66376810|WD~Hindujo___Hindio___Indija___India,66376810]]'
+- '[[_Standards/WikiData/WD~iridium,877|WD~iridium,877]]'
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Ferdinand_Reich,77307]]'
-- '[[_Standards/WikiData/WD~Hieronymous_Theodor_Richter,77308]]'
+- '[[_Standards/WikiData/WD~Ferdinand_Reich,77307|WD~Ferdinand_Reich,77307]]'
+- '[[_Standards/WikiData/WD~Hieronymous_Theodor_Richter,77308|WD~Hieronymous_Theodor_Richter,77308]]'
 DSSTOX_compound_identifier: DTXCID401323007
 EC_number: 231-180-0
 electronegativity: 1.78
@@ -107,13 +107,13 @@ electron_configuration:
 - '[Kr] 5s² 5d¹⁰ 5p¹'
 element_symbol: In
 Gmelin_number: 16297
-has_effect: '[[_Standards/WikiData/WD~indium_exposure,21174765]]'
+has_effect: '[[_Standards/WikiData/WD~indium_exposure,21174765|WD~indium_exposure,21174765]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Indium%20wetting%20glass.jpg
 InChI: InChI=1S/In
 InChIKey: APFVFJFRJDLVQX-UHFFFAOYSA-N
 instance_of:
-- '[[_Standards/WikiData/WD~chalcophile_element,1929547]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+- '[[_Standards/WikiData/WD~chalcophile_element,1929547|WD~chalcophile_element,1929547]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 ionic_radius:
 - 0.8
 - 0.62
@@ -123,17 +123,17 @@ melting_point: 314
 MeSH_tree_code:
 - D01.268.556.381
 - D01.552.544.381
-named_after: '[[_Standards/WikiData/WD~indigo,5967009]]'
+named_after: '[[_Standards/WikiData/WD~indigo,5967009|WD~indigo,5967009]]'
 OmegaWiki_Defined_Meaning: 160221
 part_of:
-- '[[_Standards/WikiData/WD~group_13,189294]]'
-- '[[_Standards/WikiData/WD~period_5,244982]]'
+- '[[_Standards/WikiData/WD~group_13,189294|WD~group_13,189294]]'
+- '[[_Standards/WikiData/WD~period_5,244982|WD~period_5,244982]]'
 PubChem_CID: 5359967
 RTECS_number: NL1050000
 SpocWebEntityId: 21946
 subclass_of:
-- '[[_Standards/WikiData/WD~period_5,244982]]'
-- '[[_Standards/WikiData/WD~post-transition_metal,19591]]'
+- '[[_Standards/WikiData/WD~period_5,244982|WD~period_5,244982]]'
+- '[[_Standards/WikiData/WD~post-transition_metal,19591|WD~post-transition_metal,19591]]'
 time_of_discovery_or_invention: 1863
 time_weighted_average_exposure_limit: 0.1
 type: Element
@@ -146,7 +146,7 @@ Wolfram_Language_entity_code: Entity["Mineral", "Indium"]
 ZVG_number: 8370
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Indium,1094]]'
+  - '[[../../../WikiData/WD~Indium,1094|WD~Indium,1094]]'
   - '[[../../../WikiData/WD~Indium,1094|WD~Indium,1094]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Group-13-Boron/Indium|Indium]]'
   - '[[/_public/Chemistry/Chemical_Element/Group-13-Boron/Indium.public|Indium.public]]'
@@ -155,7 +155,7 @@ dv_is_:
   - '[[/_private/Chemistry/Chemical_Element/Group-13-Boron/Indium.private|Indium.private]]'
   - '[[/_personal/Chemistry/Chemical_Element/Group-13-Boron/Indium.personal|Indium.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Group-13-Boron/Indium.secret|Indium.secret]]'
-  part_of: '[[../Group-13-Boron]]'
+  part_of: '[[../Group-13-Boron|Group-13-Boron]]'
 dv_has_:
   name_:
     abbreviated: In
@@ -348,7 +348,7 @@ dv_has_:
         kj_:
           mol: 231.5
 dv_is_same_as:
-- '[[../../../WikiData/WD~Indium,1094]]'
+- '[[../../../WikiData/WD~Indium,1094|WD~Indium,1094]]'
 - '[[../../../WikiData/WD~Indium,1094|WD~Indium,1094]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Group-13-Boron/Indium|Indium]]'
 - '[[/_public/Chemistry/Chemical_Element/Group-13-Boron/Indium.public|Indium.public]]'
@@ -358,7 +358,7 @@ dv_is_same_as:
 - '[[/_personal/Chemistry/Chemical_Element/Group-13-Boron/Indium.personal|Indium.personal]]'
 - '[[/_secret/Chemistry/Chemical_Element/Group-13-Boron/Indium.secret|Indium.secret]]'
 dv_has_name_group: Group-13-Boron
-dv_is_part_of: '[[../Group-13-Boron]]'
+dv_is_part_of: '[[../Group-13-Boron|Group-13-Boron]]'
 dv_has_name_en: Indium
 dv_has_name_de: Indium
 dv_has_value_for_weight_u: 114.82
@@ -385,7 +385,7 @@ dv_has_number_of_electrons: 49
 
 
 #chemic/Element 
-#is_/same_as :: [[../../../WikiData/WD~Indium,1094]] 
+#is_/same_as :: [[../../../WikiData/WD~Indium,1094|WD~Indium,1094]] 
 
 has_name_group = `=this.dv_has_name_group` 
 is_part_of = `=this.dv_is_part_of` 

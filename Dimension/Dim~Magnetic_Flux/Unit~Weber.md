@@ -29,21 +29,21 @@ aliases:
 - 韦伯 (单位)
 - 웨버
 has_id_wikidata: Q170804
-named_after: '[[_Standards/WikiData/WD~Wilhelm_Eduard_Weber,76707]]'
+named_after: '[[_Standards/WikiData/WD~Wilhelm_Eduard_Weber,76707|WD~Wilhelm_Eduard_Weber,76707]]'
 measured_physical_quantity:
-- '[[_Standards/WikiData/WD~magnetic_flux,177831]]'
-- '[[_Standards/WikiData/WD~protoflux,118540114]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~magnetic_flux,177831|WD~magnetic_flux,177831]]'
+- '[[_Standards/WikiData/WD~protoflux,118540114|WD~protoflux,118540114]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
 instance_of:
-- '[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328]]'
-- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
-- '[[_Standards/WikiData/WD~unit_of_magnetic_flux,126917657]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~kilogram_square_metre_per_square_second_ampere,118539928]]'
+- '[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328|WD~SI_unit_with_special_name,68618328]]'
+- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057|WD~UCUM_derived_unit,82047057]]'
+- '[[_Standards/WikiData/WD~unit_of_magnetic_flux,126917657|WD~unit_of_magnetic_flux,126917657]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~kilogram_square_metre_per_square_second_ampere,118539928|WD~kilogram_square_metre_per_square_second_ampere,118539928]]'
 derived_from_base_unit:
-- '[[_Standards/WikiData/WD~kilogram,11570]]'
-- '[[_Standards/WikiData/WD~second,11574]]'
-- '[[_Standards/WikiData/WD~metre,11573]]'
-- '[[_Standards/WikiData/WD~ampere,25272]]'
+- '[[_Standards/WikiData/WD~kilogram,11570|WD~kilogram,11570]]'
+- '[[_Standards/WikiData/WD~second,11574|WD~second,11574]]'
+- '[[_Standards/WikiData/WD~metre,11573|WD~metre,11573]]'
+- '[[_Standards/WikiData/WD~ampere,25272|WD~ampere,25272]]'
 conversion_to_SI_unit: 1
 OmegaWiki_Defined_Meaning: 340336
 UN_CEFACT_Common_Code: WEB

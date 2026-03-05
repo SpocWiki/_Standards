@@ -242,8 +242,8 @@ The free path-Length is very short.
 The [[Stratosphere]] is hot, because it absorbs [[Ultra-Violet]] and that again cools the Earth. 
 Higher CO² Levels there would cool the Earth, 
 
-[[../../../assets/Data/Atmospheric_Transmission-en.svg]]:
-![[../../../assets/Data/Atmospheric_Transmission-en.svg]]
+[[../../../assets/Data/Atmospheric_Transmission-en.svg|Atmospheric_Transmission-en.svg]]:
+![[../../../assets/Data/Atmospheric_Transmission-en.svg|Atmospheric_Transmission-en.svg]]
 
 
 
@@ -251,7 +251,7 @@ Higher CO² Levels there would cool the Earth,
 ```leaflet
 id: Germany
 zoomFeatures: true 
-image: [[../../../assets/Pictures/Background/1x1_x00000000-Trans.png]]
+image: [[../../../assets/Pictures/Background/1x1_x00000000-Trans.png|1x1_x00000000-Trans.png]]
 bounds:
     - [0, 0]
     - [1, 1]

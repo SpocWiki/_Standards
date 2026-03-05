@@ -86,21 +86,21 @@ aliases:
 has_id_wikidata: Q80994
 Commons_category: Adults
 female_form_of_label: доросла
-has_characteristic: '[[_Standards/WikiData/WD~adulthood,378915]]'
-has_part_s_: '[[_Standards/WikiData/WD~working_adult,11588201]]'
+has_characteristic: '[[_Standards/WikiData/WD~adulthood,378915|WD~adulthood,378915]]'
+has_part_s_: '[[_Standards/WikiData/WD~working_adult,11588201|WD~working_adult,11588201]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Eug%C3%A8ne%20Delacroix%20-%20Les%20Natchez%2C%201835%20%28Metropolitan%20Museum%20of%20Art%29FXD.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~age_of_a_person,185836]]'
-- '[[_Standards/WikiData/WD~phase_of_human_life,785260]]'
-- '[[_Standards/WikiData/WD~population_group,851990]]'
-- '[[_Standards/WikiData/WD~demographic_profile,5932254]]'
+- '[[_Standards/WikiData/WD~age_of_a_person,185836|WD~age_of_a_person,185836]]'
+- '[[_Standards/WikiData/WD~phase_of_human_life,785260|WD~phase_of_human_life,785260]]'
+- '[[_Standards/WikiData/WD~population_group,851990|WD~population_group,851990]]'
+- '[[_Standards/WikiData/WD~demographic_profile,5932254|WD~demographic_profile,5932254]]'
 MeSH_tree_code: M01.060.116
 OmegaWiki_Defined_Meaning: 57
-opposite_of: '[[_Standards/WikiData/WD~juvenile,1516282]]'
+opposite_of: '[[_Standards/WikiData/WD~juvenile,1516282|WD~juvenile,1516282]]'
 P8189: 987007292939805171
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q5218%20%28que%29-Eavq-Sayaq%20runa.wav
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~adulthood,378915]]'
-subclass_of: '[[_Standards/WikiData/WD~organism,7239]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~adulthood,378915|WD~adulthood,378915]]'
+subclass_of: '[[_Standards/WikiData/WD~organism,7239|WD~organism,7239]]'
 UMLS_CUI: C0001675
 dv_has_:
   name_:
@@ -221,7 +221,7 @@ dv_has_:
 
 # [[Adult]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Adult,80994]] 
+#is_/same_as :: [[../../../../WikiData/WD~Adult,80994|WD~Adult,80994]] 
 
 ## #has_/text_of_/abstract 
 

@@ -88,26 +88,26 @@ aliases:
 - 體能鍛煉
 - 운동
 has_id_wikidata: Q219067
-followed_by: '[[_Standards/WikiData/WD~cooling_down,430439]]'
-follows: '[[_Standards/WikiData/WD~warming_up,760132]]'
-studied_by: '[[_Standards/WikiData/WD~sports_science,1298380]]'
+followed_by: '[[_Standards/WikiData/WD~cooling_down,430439|WD~cooling_down,430439]]'
+follows: '[[_Standards/WikiData/WD~warming_up,760132|WD~warming_up,760132]]'
+studied_by: '[[_Standards/WikiData/WD~sports_science,1298380|WD~sports_science,1298380]]'
 part_of:
-- '[[_Standards/WikiData/WD~physical_culture,2997362]]'
-- '[[_Standards/WikiData/WD~sports_training,3055155]]'
-- '[[_Standards/WikiData/WD~sport,_games,_physical_exercises,66662493]]'
+- '[[_Standards/WikiData/WD~physical_culture,2997362|WD~physical_culture,2997362]]'
+- '[[_Standards/WikiData/WD~sports_training,3055155|WD~sports_training,3055155]]'
+- '[[_Standards/WikiData/WD~sport,_games,_physical_exercises,66662493|WD~sport,_games,_physical_exercises,66662493]]'
 different_from:
-- '[[_Standards/WikiData/WD~physical_preparedness,3409055]]'
-- '[[_Standards/WikiData/WD~physical_training,12107964]]'
-has_effect: '[[_Standards/WikiData/WD~neurobiological_effects_of_physical_exercise,5347380]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_physical_exercise,7112628]]'
+- '[[_Standards/WikiData/WD~physical_preparedness,3409055|WD~physical_preparedness,3409055]]'
+- '[[_Standards/WikiData/WD~physical_training,12107964|WD~physical_training,12107964]]'
+has_effect: '[[_Standards/WikiData/WD~neurobiological_effects_of_physical_exercise,5347380|WD~neurobiological_effects_of_physical_exercise,5347380]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_physical_exercise,7112628|WD~outline_of_physical_exercise,7112628]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Physical_exercise,11002617]]'
-- '[[_Standards/WikiData/WD~Template_Infobox_exercise,22843086]]'
+- '[[_Standards/WikiData/WD~Template_Physical_exercise,11002617|WD~Template_Physical_exercise,11002617]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_exercise,22843086|WD~Template_Infobox_exercise,22843086]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~exertion,14536140]]'
-- '[[_Standards/WikiData/WD~health_enhancing_physical_activity,19710494]]'
-- '[[_Standards/WikiData/WD~exercise,29051769]]'
-described_by_source: '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~exertion,14536140|WD~exertion,14536140]]'
+- '[[_Standards/WikiData/WD~health_enhancing_physical_activity,19710494|WD~health_enhancing_physical_activity,19710494]]'
+- '[[_Standards/WikiData/WD~exercise,29051769|WD~exercise,29051769]]'
+described_by_source: '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 Library_of_Congress_Classification: RA781-RA781.8
 U_S_National_Archives_Identifier: 10636966
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q1571%20%28mar%29-Vj18081991-%E0%A4%B5%E0%A5%8D%E0%A4%AF%E0%A4%BE%E0%A4%AF%E0%A4%BE%E0%A4%AE.wav

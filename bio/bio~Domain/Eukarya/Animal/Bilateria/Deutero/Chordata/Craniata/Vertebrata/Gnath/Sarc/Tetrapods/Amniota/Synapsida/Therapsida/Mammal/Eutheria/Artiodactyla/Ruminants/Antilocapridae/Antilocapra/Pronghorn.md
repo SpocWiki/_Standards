@@ -63,26 +63,26 @@ aliases:
 - 叉角羚
 - 가지뿔영양
 has_id_wikidata: Q187943
-IUCN_conservation_status: '[[_Standards/WikiData/WD~Least_Concern,211005]]'
+IUCN_conservation_status: '[[_Standards/WikiData/WD~Least_Concern,211005|WD~Least_Concern,211005]]'
 described_by_source:
-- '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528]]'
-diel_cycle: '[[_Standards/WikiData/WD~cathemeral,5052479]]'
-parent_taxon: '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Antilocapra,19817351]]'
+- '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836|WD~Larousse_Encyclopedia_online,17329836]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528|WD~Appendix_I_of_CITES,2851528]]'
+diel_cycle: '[[_Standards/WikiData/WD~cathemeral,5052479|WD~cathemeral,5052479]]'
+parent_taxon: '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Antilocapra,19817351|WD~Antilocapra,19817351]]'
 taxon_synonym:
-- '[[_Standards/WikiData/WD~Antilocapra_anteflexa,23646421]]'
-- '[[_Standards/WikiData/WD~Antilope_furcifer,122418222]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
-original_combination: '[[_Standards/WikiData/WD~Antilope_americanus,125144268]]'
-taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~Antilocapra_anteflexa,23646421|WD~Antilocapra_anteflexa,23646421]]'
+- '[[_Standards/WikiData/WD~Antilope_furcifer,122418222|WD~Antilope_furcifer,122418222]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615|WD~WikiProject_Invasion_Biology,56241615]]'
+original_combination: '[[_Standards/WikiData/WD~Antilope_americanus,125144268|WD~Antilope_americanus,125144268]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432|WD~species,7432]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 taxon_range:
-- '[[_Standards/WikiData/WD~Canada,16]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~Mexico,96]]'
+- '[[_Standards/WikiData/WD~Canada,16|WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Mexico,96|WD~Mexico,96]]'
 litter_size: 2
 gestation_period: 250
 mass: 3.5

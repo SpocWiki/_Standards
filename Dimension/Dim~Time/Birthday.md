@@ -112,20 +112,20 @@ aliases:
 - 생일
 has_id_wikidata: Q47223
 subclass_of:
-- '[[_Standards/WikiData/WD~party,200538]]'
-- '[[_Standards/WikiData/WD~anniversary,1062856]]'
+- '[[_Standards/WikiData/WD~party,200538|WD~party,200538]]'
+- '[[_Standards/WikiData/WD~anniversary,1062856|WD~anniversary,1062856]]'
 opposite_of:
-- '[[_Standards/WikiData/WD~unbirthday,222353]]'
-- '[[_Standards/WikiData/WD~death_anniversary,1202197]]'
+- '[[_Standards/WikiData/WD~unbirthday,222353|WD~unbirthday,222353]]'
+- '[[_Standards/WikiData/WD~death_anniversary,1202197|WD~death_anniversary,1202197]]'
 different_from:
-- '[[_Standards/WikiData/WD~date_of_birth,2389905]]'
-- '[[_Standards/WikiData/WD~official_birthday,105518754]]'
-part_of: '[[_Standards/WikiData/WD~date_of_birth,2389905]]'
+- '[[_Standards/WikiData/WD~date_of_birth,2389905|WD~date_of_birth,2389905]]'
+- '[[_Standards/WikiData/WD~official_birthday,105518754|WD~official_birthday,105518754]]'
+part_of: '[[_Standards/WikiData/WD~date_of_birth,2389905|WD~date_of_birth,2389905]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]'
-commemorates: '[[_Standards/WikiData/WD~birth,14819852]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240|WD~Realʹnyj_slovarʹ_klassičeskih_drevnostej_po_Lûbkeru,30059240]]'
+commemorates: '[[_Standards/WikiData/WD~birth,14819852|WD~birth,14819852]]'
 Wikidata_property: birthday
 IAB_code: 170
 OmegaWiki_Defined_Meaning: 5907

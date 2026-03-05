@@ -46,14 +46,14 @@ aliases:
 - 懸濁液
 - 현탁액
 has_id_wikidata: Q26100
-subclass_of: '[[_Standards/WikiData/WD~dispersion,178697]]'
+subclass_of: '[[_Standards/WikiData/WD~dispersion,178697|WD~dispersion,178697]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-different_from: '[[_Standards/WikiData/WD~Q97370817,97370817]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+different_from: '[[_Standards/WikiData/WD~Q97370817,97370817|WD~Q97370817,97370817]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~liquid,11435]]'
-- '[[_Standards/WikiData/WD~solid,11438]]'
+- '[[_Standards/WikiData/WD~liquid,11435|WD~liquid,11435]]'
+- '[[_Standards/WikiData/WD~solid,11438|WD~solid,11438]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/WaterAndFlourSuspensionLiquid.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Weizenbier-ukko.jpg

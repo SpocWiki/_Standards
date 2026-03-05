@@ -40,17 +40,17 @@ aliases:
 - 類胡蘿蔔素
 - 카로티노이드
 has_id_wikidata: Q191907
-subject_has_role: '[[_Standards/WikiData/WD~antioxidant,133948]]'
+subject_has_role: '[[_Standards/WikiData/WD~antioxidant,133948|WD~antioxidant,133948]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~pigment,161179]]'
-- '[[_Standards/WikiData/WD~biological_pigment,910979]]'
-- '[[_Standards/WikiData/WD~tetraterpenoid,47006386]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Carotenoids,10595219]]'
+- '[[_Standards/WikiData/WD~pigment,161179|WD~pigment,161179]]'
+- '[[_Standards/WikiData/WD~biological_pigment,910979|WD~biological_pigment,910979]]'
+- '[[_Standards/WikiData/WD~tetraterpenoid,47006386|WD~tetraterpenoid,47006386]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Carotenoids,10595219|WD~Template_Carotenoids,10595219]]'
 part_of:
-- '[[_Standards/WikiData/WD~carotenoid_metabolic_process,21116856]]'
-- '[[_Standards/WikiData/WD~carotenoid_biosynthetic_process,21756526]]'
-- '[[_Standards/WikiData/WD~carotenoid_catabolic_process,22282162]]'
-- '[[_Standards/WikiData/WD~carotenoid_transport,22292459]]'
+- '[[_Standards/WikiData/WD~carotenoid_metabolic_process,21116856|WD~carotenoid_metabolic_process,21116856]]'
+- '[[_Standards/WikiData/WD~carotenoid_biosynthetic_process,21756526|WD~carotenoid_biosynthetic_process,21756526]]'
+- '[[_Standards/WikiData/WD~carotenoid_catabolic_process,22282162|WD~carotenoid_catabolic_process,22282162]]'
+- '[[_Standards/WikiData/WD~carotenoid_transport,22292459|WD~carotenoid_transport,22292459]]'
 SMARTS_notation:
 - '[$(C);!$(C(~C)~C)]C1([$(C);!$(C(~C)~C)])[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)(~C)~C)]1~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(c)~C)]~[$(c);!$(c(c)(c)(C)C)]1[$(c);!$(c(c)(c)(C)C)]([$(C);!$(C(c)~C)])[$(c);!$(c(c)(c)(C)C)]([$(C);!$(C(c)~C)])[$(c);!$(c(c)(c)C)][$(c);!$(c(c)(c)C)][$(c);!$(c(c)(c)(C)C)]([$(C);!$(C(c)~C)])1'
 - '[$(C);!$(C(~C)~C)]C1([$(C);!$(C(~C)~C)])[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)(~C)~C)]1~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]C1([$(C);!$(C(~C)~C)])C([$(C);!$(C(~C)~C)])([$(C);!$(C(~C)~C)])[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]1'
@@ -60,8 +60,8 @@ SMARTS_notation:
 - '[$(C);!$(C(~C)~C)]C1([$(C);!$(C(~C)~C)])[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)(~C)~C)]1~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)]1~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]C([$(C);!$(C(~C)~C)])([$(C);!$(C(~C)~C)])1'
 - '[$(C);!$(C(~C)~C)]C1([$(C);!$(C(~C)~C)])[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~C([$(C);!$(C(~C)~C)])1[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]C1([$(C);!$(C(~C)~C)])C([$(C);!$(C(~C)~C)])([$(C);!$(C(~C)~C)])[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]1'
 - '[$(c);!$(c(c)(c)(C)C)]1([$(C);!$(C(c)~C)])[$(c);!$(c(c)(c)C)][$(c);!$(c(c)(c)C)][$(c);!$(c(c)(c)(C)C)]([$(C);!$(C(c)~C)])[$(c);!$(c(c)(c)(C)C)]([$(C);!$(C(c)~C)])[$(c);!$(c(c)(c)(C)C)]1[$(C);!$(C(~C)(c)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(~C)(~C)(~C)~C)](~[$(C);!$(C(~C)~C)])~[$(C);!$(C(~C)(~C)~C)]~[$(C);!$(C(c)(~C)~C)][$(c);!$(c(c)(c)(C)C)]1[$(c);!$(c(c)(c)(C)C)]([$(C);!$(C(c)~C)])[$(c);!$(c(c)(c)(C)C)]([$(C);!$(C(c)~C)])[$(c);!$(c(c)(c)C)][$(c);!$(c(c)(c)C)][$(c);!$(c(c)(c)(C)C)]([$(C);!$(C(c)~C)])1'
-instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 CosIng_number: 55089
 Dewey_Decimal_Classification: 547.71
 MCN_code: 3204.19.11

@@ -29,13 +29,13 @@ aliases:
 - 光反應
 - 명반응
 has_id_wikidata: Q862876
-different_from: '[[_Standards/WikiData/WD~photochemical_reaction,2632731]]'
+different_from: '[[_Standards/WikiData/WD~photochemical_reaction,2632731|WD~photochemical_reaction,2632731]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~photochemical_reaction,2632731]]'
-- '[[_Standards/WikiData/WD~biochemical_reaction,33059434]]'
-- '[[_Standards/WikiData/WD~chemical_reaction,36534]]'
-followed_by: '[[_Standards/WikiData/WD~photosynthesis,_dark_reaction,22283112]]'
-part_of: '[[_Standards/WikiData/WD~photosynthesis,11982]]'
+- '[[_Standards/WikiData/WD~photochemical_reaction,2632731|WD~photochemical_reaction,2632731]]'
+- '[[_Standards/WikiData/WD~biochemical_reaction,33059434|WD~biochemical_reaction,33059434]]'
+- '[[_Standards/WikiData/WD~chemical_reaction,36534|WD~chemical_reaction,36534]]'
+followed_by: '[[_Standards/WikiData/WD~photosynthesis,_dark_reaction,22283112|WD~photosynthesis,_dark_reaction,22283112]]'
+part_of: '[[_Standards/WikiData/WD~photosynthesis,11982|WD~photosynthesis,11982]]'
 dv_has_:
   name_:
     ar: تفاعل ضوئي

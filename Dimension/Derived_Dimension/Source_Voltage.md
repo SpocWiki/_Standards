@@ -67,21 +67,21 @@ aliases:
 - 기전력
 has_id_wikidata: Q185329
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~scalar_quantity,181175]]'
-- '[[_Standards/WikiData/WD~voltage,118309876]]'
-different_from: '[[_Standards/WikiData/WD~open_circuit_voltage,1812203]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~scalar_quantity,181175|WD~scalar_quantity,181175]]'
+- '[[_Standards/WikiData/WD~voltage,118309876|WD~voltage,118309876]]'
+different_from: '[[_Standards/WikiData/WD~open_circuit_voltage,1812203|WD~open_circuit_voltage,1812203]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~IEC_80000_6_2008_Quantities_and_units_Part_6_Electromagnetism,26711936]]'
-- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
-- '[[_Standards/WikiData/WD~IEC_80000_6_2022_Quantities_and_units_Part_6_Electromagnetism,117847945]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~IEC_80000_6_2008_Quantities_and_units_Part_6_Electromagnetism,26711936|WD~IEC_80000_6_2008_Quantities_and_units_Part_6_Electromagnetism,26711936]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517|WD~Small_Soviet_Encyclopedia,66386517]]'
+- '[[_Standards/WikiData/WD~IEC_80000_6_2022_Quantities_and_units_Part_6_Electromagnetism,117847945|WD~IEC_80000_6_2022_Quantities_and_units_Part_6_Electromagnetism,117847945]]'
 recommended_unit_of_measurement:
-- '[[_Standards/WikiData/WD~kilogram_square_metre_per_cubic_second_ampere,107299709]]'
-- '[[_Standards/WikiData/WD~volt,25250]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q131438152,131438152]]'
+- '[[_Standards/WikiData/WD~kilogram_square_metre_per_cubic_second_ampere,107299709|WD~kilogram_square_metre_per_cubic_second_ampere,107299709]]'
+- '[[_Standards/WikiData/WD~volt,25250|WD~volt,25250]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q131438152,131438152|WD~Q131438152,131438152]]'
 ISQ_dimension: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AB</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn></mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AC</mi></mrow><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5B3</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mo stretchy=\"false\">&#x2212;</mo><mn>3</mn></mrow></mrow></msup><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5A8</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mo stretchy=\"false\">&#x2212;</mo><mn>1</mn></mrow></mrow></msup></mstyle></mrow></math>"
 quantity_symbol_LaTeX_:
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>E</mi></mstyle></mrow></math>

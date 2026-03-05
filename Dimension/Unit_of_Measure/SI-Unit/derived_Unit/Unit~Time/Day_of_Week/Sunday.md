@@ -290,38 +290,38 @@ tags:
 title: is_a_sunday Class
 type: Type
 named_after:
-- '[[_Standards/WikiData/WD~Mister,177053]]'
-- '[[_Standards/WikiData/WD~leisure,180910]]'
-- '[[_Standards/WikiData/WD~worship,2514663]]'
-- '[[_Standards/WikiData/WD~holiness,16600343]]'
-- '[[_Standards/WikiData/WD~Sun,525]]'
-- '[[_Standards/WikiData/WD~Q199,199]]'
-- '[[_Standards/WikiData/WD~market,37654]]'
-- '[[_Standards/WikiData/WD~Russians,49542]]'
-part_of: '[[_Standards/WikiData/WD~weekend,211391]]'
+- '[[_Standards/WikiData/WD~Mister,177053|WD~Mister,177053]]'
+- '[[_Standards/WikiData/WD~leisure,180910|WD~leisure,180910]]'
+- '[[_Standards/WikiData/WD~worship,2514663|WD~worship,2514663]]'
+- '[[_Standards/WikiData/WD~holiness,16600343|WD~holiness,16600343]]'
+- '[[_Standards/WikiData/WD~Sun,525|WD~Sun,525]]'
+- '[[_Standards/WikiData/WD~Q199,199|WD~Q199,199]]'
+- '[[_Standards/WikiData/WD~market,37654|WD~market,37654]]'
+- '[[_Standards/WikiData/WD~Russians,49542|WD~Russians,49542]]'
+part_of: '[[_Standards/WikiData/WD~weekend,211391|WD~weekend,211391]]'
 different_from:
-- '[[_Standards/WikiData/WD~Sunday,352907]]'
-- '[[_Standards/WikiData/WD~Sonntag,453101]]'
-- '[[_Standards/WikiData/WD~Nedeľa,9080528]]'
-- '[[_Standards/WikiData/WD~Voskresenye,21178458]]'
-- '[[_Standards/WikiData/WD~Neděle,106012967]]'
+- '[[_Standards/WikiData/WD~Sunday,352907|WD~Sunday,352907]]'
+- '[[_Standards/WikiData/WD~Sonntag,453101|WD~Sonntag,453101]]'
+- '[[_Standards/WikiData/WD~Nedeľa,9080528|WD~Nedeľa,9080528]]'
+- '[[_Standards/WikiData/WD~Voskresenye,21178458|WD~Voskresenye,21178458]]'
+- '[[_Standards/WikiData/WD~Neděle,106012967|WD~Neděle,106012967]]'
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~holiday,1445650]]'
-- '[[_Standards/WikiData/WD~day,573]]'
+- '[[_Standards/WikiData/WD~holiday,1445650|WD~holiday,1445650]]'
+- '[[_Standards/WikiData/WD~day,573|WD~day,573]]'
 permanent_duplicated_item:
-- '[[_Standards/WikiData/WD~Q25634212,25634212]]'
-- '[[_Standards/WikiData/WD~Q110361353,110361353]]'
-followed_by: '[[_Standards/WikiData/WD~Monday,105]]'
-follows: '[[_Standards/WikiData/WD~Saturday,131]]'
-instance_of: '[[_Standards/WikiData/WD~day_of_the_week,41825]]'
+- '[[_Standards/WikiData/WD~Q25634212,25634212|WD~Q25634212,25634212]]'
+- '[[_Standards/WikiData/WD~Q110361353,110361353|WD~Q110361353,110361353]]'
+followed_by: '[[_Standards/WikiData/WD~Monday,105|WD~Monday,105]]'
+follows: '[[_Standards/WikiData/WD~Saturday,131|WD~Saturday,131]]'
+instance_of: '[[_Standards/WikiData/WD~day_of_the_week,41825|WD~day_of_the_week,41825]]'
 series_ordinal:
 - 1
 - 7
@@ -668,9 +668,9 @@ Class of all sundays, the day of the week between Saturday and Monday.
 Tag Instances like this: 
 #is_a_/sunday
 
-#has_/parent_class :: [[../DayOfWeek]]  
+#has_/parent_class :: [[../DayOfWeek|DayOfWeek]]  
 
-#is_/enum_of :: [[../DayOfWeek]]  
+#is_/enum_of :: [[../DayOfWeek|DayOfWeek]]  
 
 ## #has_/text_of_/abstract 
 

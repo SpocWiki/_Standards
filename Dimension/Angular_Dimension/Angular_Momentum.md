@@ -73,18 +73,18 @@ aliases:
 - 각운동량
 has_id_wikidata: Q161254
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~pseudovector,621476]]'
-- '[[_Standards/WikiData/WD~vector_quantity,2672914]]'
-- '[[_Standards/WikiData/WD~moment,13222844]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~pseudovector,621476|WD~pseudovector,621476]]'
+- '[[_Standards/WikiData/WD~vector_quantity,2672914|WD~vector_quantity,2672914]]'
+- '[[_Standards/WikiData/WD~moment,13222844|WD~moment,13222844]]'
 instance_of:
-- '[[_Standards/WikiData/WD~generator,643669]]'
-- '[[_Standards/WikiData/WD~physics_term,100724091]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~generator,643669|WD~generator,643669]]'
+- '[[_Standards/WikiData/WD~physics_term,100724091|WD~physics_term,100724091]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~ISO_80000_4_2006_Quantities_and_units_Part_4_Mechanics,26711933]]'
-- '[[_Standards/WikiData/WD~ISO_80000_4_2019_Quantities_and_units_Part_4_Mechanics,73391977]]'
-recommended_unit_of_measurement: '[[_Standards/WikiData/WD~kilogram_square_metre_per_second,65665675]]'
+- '[[_Standards/WikiData/WD~ISO_80000_4_2006_Quantities_and_units_Part_4_Mechanics,26711933|WD~ISO_80000_4_2006_Quantities_and_units_Part_4_Mechanics,26711933]]'
+- '[[_Standards/WikiData/WD~ISO_80000_4_2019_Quantities_and_units_Part_4_Mechanics,73391977|WD~ISO_80000_4_2019_Quantities_and_units_Part_4_Mechanics,73391977]]'
+recommended_unit_of_measurement: '[[_Standards/WikiData/WD~kilogram_square_metre_per_second,65665675|WD~kilogram_square_metre_per_second,65665675]]'
 ISQ_dimension: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AC</mi></mrow><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AB</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn></mrow></msup><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5B3</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mo stretchy=\"false\">&#x2212;</mo><mn>1</mn></mrow></mrow></msup></mstyle></mrow></math>"
 quantity_symbol_LaTeX_: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D473</mi></mrow></mstyle></mrow></math>"
 in_defining_formula:
@@ -204,11 +204,11 @@ dv_has_:
 
 #is_/same_as :: [[../../WikiData/WD~Angular_momentum,161254|WD~Angular_momentum,161254]] 
 
-[[Dim~Angular_Momentum]] is the Product of [[../Mass|Mass]] and [[../Linear_Dimension/Velocity]]. 
+[[Dim~Angular_Momentum]] is the Product of [[../Mass|Mass]] and [[../Linear_Dimension/Velocity|Velocity]]. 
 
 Due to the [[Isotropy]] of Space, it is a conserved Unit. 
 
-In [[../../../Knowledge/Physics.internal/Quantum-Physics|Quantum-Physics]]] the [[../Linear_Dimension/Distance/Wavelength]] of a Particle is 
+In [[../../../Knowledge/Physics.internal/Quantum-Physics|Quantum-Physics]]] the [[../Linear_Dimension/Distance/Wavelength|Wavelength]] of a Particle is 
 given by its inverse [[Angular_Momentum]]:  ___λ = h / p___ 
 
 #is_/same_as :: [[../../WikiData/WD~Angular_momentum,161254|WD~Angular_momentum,161254]] 

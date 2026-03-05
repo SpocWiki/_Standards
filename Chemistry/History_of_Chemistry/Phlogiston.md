@@ -31,21 +31,21 @@ aliases:
 - 燃素
 - 플로지스톤
 has_id_wikidata: Q193353
-studied_by: '[[_Standards/WikiData/WD~history_of_chemistry,501353]]'
+studied_by: '[[_Standards/WikiData/WD~history_of_chemistry,501353|WD~history_of_chemistry,501353]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-different_from: '[[_Standards/WikiData/WD~phlogiston_theory,120999319]]'
-instance_of: '[[_Standards/WikiData/WD~non_existent_substance,120999346]]'
-opposite_of: '[[_Standards/WikiData/WD~oxygen,629]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+different_from: '[[_Standards/WikiData/WD~phlogiston_theory,120999319|WD~phlogiston_theory,120999319]]'
+instance_of: '[[_Standards/WikiData/WD~non_existent_substance,120999346|WD~non_existent_substance,120999346]]'
+opposite_of: '[[_Standards/WikiData/WD~oxygen,629|WD~oxygen,629]]'
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Georg_Ernst_Stahl,57566]]'
-- '[[_Standards/WikiData/WD~Johann_Joachim_Becher,60808]]'
+- '[[_Standards/WikiData/WD~Georg_Ernst_Stahl,57566|WD~Georg_Ernst_Stahl,57566]]'
+- '[[_Standards/WikiData/WD~Johann_Joachim_Becher,60808|WD~Johann_Joachim_Becher,60808]]'
 OmegaWiki_Defined_Meaning: 1341619
 dv_is_:
   same_as:
-  - '[[../../WikiData/WD~Phlogiston,193353]]'
+  - '[[../../WikiData/WD~Phlogiston,193353|WD~Phlogiston,193353]]'
   - '[[/_Standards/Chemistry/History_of_Chemistry/Phlogiston|Phlogiston]]'
   - '[[/_public/Chemistry/History_of_Chemistry/Phlogiston.public|Phlogiston.public]]'
   - '[[/_internal/Chemistry/History_of_Chemistry/Phlogiston.internal|Phlogiston.internal]]'
@@ -54,7 +54,7 @@ dv_is_:
   - '[[/_personal/Chemistry/History_of_Chemistry/Phlogiston.personal|Phlogiston.personal]]'
   - '[[/_secret/Chemistry/History_of_Chemistry/Phlogiston.secret|Phlogiston.secret]]'
 dv_is_same_as:
-- '[[../../WikiData/WD~Phlogiston,193353]]'
+- '[[../../WikiData/WD~Phlogiston,193353|WD~Phlogiston,193353]]'
 - '[[/_Standards/Chemistry/History_of_Chemistry/Phlogiston|Phlogiston]]'
 - '[[/_public/Chemistry/History_of_Chemistry/Phlogiston.public|Phlogiston.public]]'
 - '[[/_internal/Chemistry/History_of_Chemistry/Phlogiston.internal|Phlogiston.internal]]'

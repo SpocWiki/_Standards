@@ -13,9 +13,9 @@ aliases:
 - 三醇
 - 트리올
 has_id_wikidata: Q3539455
-subclass_of: '[[_Standards/WikiData/WD~polyol,415812]]'
-follows: '[[_Standards/WikiData/WD~diol,421916]]'
-instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
+subclass_of: '[[_Standards/WikiData/WD~polyol,415812|WD~polyol,415812]]'
+follows: '[[_Standards/WikiData/WD~diol,421916|WD~diol,421916]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
 Commons_category: Triols
 dv_is_:
   same_as:
@@ -66,7 +66,7 @@ dv_has_:
 ## #has_/text_of_/abstract 
 
 > In chemistry, a **Triol** is an organic compound containing three hydroxyl groups (-OH functional groups), 
-> such as [[Triol/Glycerol]].
+> such as [[Triol/Glycerol|Glycerol]].
 >
 > [Wikipedia](https://en.wikipedia.org/wiki/Triol) 
 

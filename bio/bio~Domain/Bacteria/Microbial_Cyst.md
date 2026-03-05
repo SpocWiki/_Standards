@@ -30,10 +30,10 @@ aliases:
 - 微生物囊肿
 - 微生物囊腫
 has_id_wikidata: Q245998
-part_of: '[[_Standards/WikiData/WD~biological_life_cycle,513359]]'
+part_of: '[[_Standards/WikiData/WD~biological_life_cycle,513359|WD~biological_life_cycle,513359]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~endospore,828761]]'
-- '[[_Standards/WikiData/WD~biological_component,28845870]]'
+- '[[_Standards/WikiData/WD~endospore,828761|WD~endospore,828761]]'
+- '[[_Standards/WikiData/WD~biological_component,28845870|WD~biological_component,28845870]]'
 dv_has_:
   name_:
     ar: كيسة

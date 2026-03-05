@@ -45,9 +45,9 @@ aliases:
 - 꿀풀목
 has_id_wikidata: Q21742
 title: Lamiales
-parent_taxon: '[[_Standards/WikiData/WD~lamiids,2182368]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
+parent_taxon: '[[_Standards/WikiData/WD~lamiids,2182368|WD~lamiids,2182368]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~order,36602|WD~order,36602]]'
 ITIS_TSN: 31632
 OmegaWiki_Defined_Meaning: 358548
 image:

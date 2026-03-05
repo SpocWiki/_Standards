@@ -115,22 +115,22 @@ Colon_Classification: E111
 Commons_category: Sodium
 Commons_gallery: Sodium
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Sodium,84690714]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Sodium,84690714|WD~Sodium,84690714]]'
 Dewey_Decimal_Classification: 546.382
 different_from:
-- '[[_Standards/WikiData/WD~sodium_in_biology,3337048]]'
-- '[[_Standards/WikiData/WD~serum_sodium_level,3963915]]'
-- '[[_Standards/WikiData/WD~sodium,114850397]]'
-- '[[_Standards/WikiData/WD~table_salt,11254]]'
+- '[[_Standards/WikiData/WD~sodium_in_biology,3337048|WD~sodium_in_biology,3337048]]'
+- '[[_Standards/WikiData/WD~serum_sodium_level,3963915|WD~serum_sodium_level,3963915]]'
+- '[[_Standards/WikiData/WD~sodium,114850397|WD~sodium,114850397]]'
+- '[[_Standards/WikiData/WD~table_salt,11254|WD~table_salt,11254]]'
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Humphry_Davy,131761]]'
+- '[[_Standards/WikiData/WD~Humphry_Davy,131761|WD~Humphry_Davy,131761]]'
 DSSTOX_compound_identifier: DTXCID00876449
 EC_number: 231-132-9
 electronegativity: 1
@@ -138,24 +138,24 @@ electron_configuration:
 - '[Ne] 3s¹'
 - 1s² 2s² 2p⁶ 3s¹
 element_symbol: Na
-follows: '[[_Standards/WikiData/WD~neon,654]]'
+follows: '[[_Standards/WikiData/WD~neon,654|WD~neon,654]]'
 found_in_taxon:
-- '[[_Standards/WikiData/WD~Phytelephas_aequatorialis,2709988]]'
-- '[[_Standards/WikiData/WD~Montanoa_tomentosa,6904440]]'
-- '[[_Standards/WikiData/WD~Montanoa_frutescens,15564776]]'
-- '[[_Standards/WikiData/WD~Montanoa_grandiflora,15564965]]'
-- '[[_Standards/WikiData/WD~Montanoa_leucantha,15565960]]'
-- '[[_Standards/WikiData/WD~Chamomilla_recutita,50837010]]'
-- '[[_Standards/WikiData/WD~Matricaria_chamomilla,28437]]'
-- '[[_Standards/WikiData/WD~cacao,42385]]'
+- '[[_Standards/WikiData/WD~Phytelephas_aequatorialis,2709988|WD~Phytelephas_aequatorialis,2709988]]'
+- '[[_Standards/WikiData/WD~Montanoa_tomentosa,6904440|WD~Montanoa_tomentosa,6904440]]'
+- '[[_Standards/WikiData/WD~Montanoa_frutescens,15564776|WD~Montanoa_frutescens,15564776]]'
+- '[[_Standards/WikiData/WD~Montanoa_grandiflora,15564965|WD~Montanoa_grandiflora,15564965]]'
+- '[[_Standards/WikiData/WD~Montanoa_leucantha,15565960|WD~Montanoa_leucantha,15565960]]'
+- '[[_Standards/WikiData/WD~Chamomilla_recutita,50837010|WD~Chamomilla_recutita,50837010]]'
+- '[[_Standards/WikiData/WD~Matricaria_chamomilla,28437|WD~Matricaria_chamomilla,28437]]'
+- '[[_Standards/WikiData/WD~cacao,42385|WD~cacao,42385]]'
 Gmelin_number: 16221
 Gujarati_Vishwakosh_entry: સોડિયમ
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Sodium%20Atom.png
 InChI: InChI=1S/Na
 InChIKey: KEAYESYHFKHZAL-UHFFFAOYSA-N
 instance_of:
-- '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+- '[[_Standards/WikiData/WD~lithophile,1130479|WD~lithophile,1130479]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 ionic_radius:
 - 0.99
 - 1.02
@@ -167,25 +167,25 @@ ionization_energy:
 - 495.8
 Krugosvet_article: nauka_i_tehnika/himiya/NATRI.html
 location_of_discovery:
-- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
 made_from_material:
-- '[[_Standards/WikiData/WD~albite,182264]]'
-- '[[_Standards/WikiData/WD~seawater,184395]]'
-- '[[_Standards/WikiData/WD~cryolite,193502]]'
-- '[[_Standards/WikiData/WD~brine,214403]]'
-- '[[_Standards/WikiData/WD~analcime,239589]]'
-- '[[_Standards/WikiData/WD~riebeckite,256865]]'
-- '[[_Standards/WikiData/WD~glaucophane,413272]]'
-- '[[_Standards/WikiData/WD~natrolite,415318]]'
-- '[[_Standards/WikiData/WD~natron,427329]]'
-- '[[_Standards/WikiData/WD~clinoptilolite-Na,1116232]]'
-- '[[_Standards/WikiData/WD~arfvedsonite,2008960]]'
-- '[[_Standards/WikiData/WD~chabazite-Na,2947265]]'
-- '[[_Standards/WikiData/WD~eckermannite,3718594]]'
-- '[[_Standards/WikiData/WD~heulandite-Na,3785394]]'
-- '[[_Standards/WikiData/WD~phillipsite-Na,3901554]]'
-- '[[_Standards/WikiData/WD~stilbite-Na,3973529]]'
-- '[[_Standards/WikiData/WD~halite,5314]]'
+- '[[_Standards/WikiData/WD~albite,182264|WD~albite,182264]]'
+- '[[_Standards/WikiData/WD~seawater,184395|WD~seawater,184395]]'
+- '[[_Standards/WikiData/WD~cryolite,193502|WD~cryolite,193502]]'
+- '[[_Standards/WikiData/WD~brine,214403|WD~brine,214403]]'
+- '[[_Standards/WikiData/WD~analcime,239589|WD~analcime,239589]]'
+- '[[_Standards/WikiData/WD~riebeckite,256865|WD~riebeckite,256865]]'
+- '[[_Standards/WikiData/WD~glaucophane,413272|WD~glaucophane,413272]]'
+- '[[_Standards/WikiData/WD~natrolite,415318|WD~natrolite,415318]]'
+- '[[_Standards/WikiData/WD~natron,427329|WD~natron,427329]]'
+- '[[_Standards/WikiData/WD~clinoptilolite-Na,1116232|WD~clinoptilolite-Na,1116232]]'
+- '[[_Standards/WikiData/WD~arfvedsonite,2008960|WD~arfvedsonite,2008960]]'
+- '[[_Standards/WikiData/WD~chabazite-Na,2947265|WD~chabazite-Na,2947265]]'
+- '[[_Standards/WikiData/WD~eckermannite,3718594|WD~eckermannite,3718594]]'
+- '[[_Standards/WikiData/WD~heulandite-Na,3785394|WD~heulandite-Na,3785394]]'
+- '[[_Standards/WikiData/WD~phillipsite-Na,3901554|WD~phillipsite-Na,3901554]]'
+- '[[_Standards/WikiData/WD~stilbite-Na,3973529|WD~stilbite-Na,3973529]]'
+- '[[_Standards/WikiData/WD~halite,5314|WD~halite,5314]]'
 mass: 22.98976928
 MeSH_tree_code:
 - D01.268.549.750
@@ -193,19 +193,19 @@ MeSH_tree_code:
 - D01.552.528.850
 - D01.552.547.725
 named_after:
-- '[[_Standards/WikiData/WD~sodium_hydroxide,102769]]'
-- '[[_Standards/WikiData/WD~sodium_carbonate,190227]]'
-- '[[_Standards/WikiData/WD~natron,427329]]'
-- '[[_Standards/WikiData/WD~headache,86]]'
+- '[[_Standards/WikiData/WD~sodium_hydroxide,102769|WD~sodium_hydroxide,102769]]'
+- '[[_Standards/WikiData/WD~sodium_carbonate,190227|WD~sodium_carbonate,190227]]'
+- '[[_Standards/WikiData/WD~natron,427329|WD~natron,427329]]'
+- '[[_Standards/WikiData/WD~headache,86|WD~headache,86]]'
 OmegaWiki_Defined_Meaning: 7248
 oxidation_state:
 - -1
 - 0
 - 1
 part_of:
-- '[[_Standards/WikiData/WD~period_3,211331]]'
-- '[[_Standards/WikiData/WD~group_1,10801007]]'
-- '[[_Standards/WikiData/WD~alkali_metal,19557]]'
+- '[[_Standards/WikiData/WD~period_3,211331|WD~period_3,211331]]'
+- '[[_Standards/WikiData/WD~group_1,10801007|WD~group_1,10801007]]'
+- '[[_Standards/WikiData/WD~alkali_metal,19557|WD~alkali_metal,19557]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Sodium-ar.ogg
 PubChem_CID: 5360545
 radius:
@@ -216,15 +216,15 @@ radius:
 SpocWebEntityId: 21913
 standard_molar_entropy: 51.2
 subclass_of:
-- '[[_Standards/WikiData/WD~s-block,208106]]'
-- '[[_Standards/WikiData/WD~alkali_metal,19557]]'
+- '[[_Standards/WikiData/WD~s-block,208106|WD~s-block,208106]]'
+- '[[_Standards/WikiData/WD~alkali_metal,19557|WD~alkali_metal,19557]]'
 time_of_discovery_or_invention: 1807
 type: Element
 UNII: 9NEZ333N27
 ZVG_number: 8080
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Sodium,658]]'
+  - '[[../../../WikiData/WD~Sodium,658|WD~Sodium,658]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Sodium|Sodium]]'
   - '[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Sodium.public|Sodium.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Sodium.internal|Sodium.internal]]'
@@ -232,7 +232,7 @@ dv_is_:
   - '[[/_private/Chemistry/Chemical_Element/Group-01-Alkali/Sodium.private|Sodium.private]]'
   - '[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Sodium.personal|Sodium.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Sodium.secret|Sodium.secret]]'
-  part_of: '[[../Group-01-Alkali]]'
+  part_of: '[[../Group-01-Alkali|Group-01-Alkali]]'
 dv_has_:
   name_:
     abbreviated: Na
@@ -468,7 +468,7 @@ dv_has_:
         kj_:
           mol: 96.96
 dv_is_same_as:
-- '[[../../../WikiData/WD~Sodium,658]]'
+- '[[../../../WikiData/WD~Sodium,658|WD~Sodium,658]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Sodium|Sodium]]'
 - '[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Sodium.public|Sodium.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Sodium.internal|Sodium.internal]]'
@@ -477,7 +477,7 @@ dv_is_same_as:
 - '[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Sodium.personal|Sodium.personal]]'
 - '[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Sodium.secret|Sodium.secret]]'
 dv_has_name_group: Group-01-Alkali
-dv_is_part_of: '[[../Group-01-Alkali]]'
+dv_is_part_of: '[[../Group-01-Alkali|Group-01-Alkali]]'
 dv_has_name_en: Sodium
 dv_has_name_de: Natrium
 dv_has_value_for_weight_u: 22.9898
@@ -505,7 +505,7 @@ Unicode_character: 鈉
 
 
 #chemic/Element 
-#is_/same_as :: [[../../../WikiData/WD~Sodium,658]] 
+#is_/same_as :: [[../../../WikiData/WD~Sodium,658|WD~Sodium,658]] 
 
 has_name_group = `=this.dv_has_name_group` 
 is_part_of = `=this.dv_is_part_of` 

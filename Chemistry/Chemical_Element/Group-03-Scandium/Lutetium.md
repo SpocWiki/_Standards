@@ -102,11 +102,11 @@ Common_Procurement_Vocabulary_code:
 - 14752000
 CPV_Supplementary_code: AA24
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Carl_Auer_von_Welsbach,89390]]'
-- '[[_Standards/WikiData/WD~Georges_Urbain,560404]]'
+- '[[_Standards/WikiData/WD~Carl_Auer_von_Welsbach,89390|WD~Carl_Auer_von_Welsbach,89390]]'
+- '[[_Standards/WikiData/WD~Georges_Urbain,560404|WD~Georges_Urbain,560404]]'
 DSSTOX_compound_identifier: DTXCID9027730
 EC_number: 231-103-0
 electronegativity: 1
@@ -116,7 +116,7 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Lutetium%20sublimed%20
 InChI: InChI=1S/Lu
 InChIKey: OHSVLFRHMCKCQY-UHFFFAOYSA-N
 instance_of:
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 ionic_radius:
 - 0.86
 - 0.97
@@ -125,22 +125,22 @@ MeSH_tree_code:
 - D01.268.558.362.562
 - D01.268.956.311
 - D01.552.550.399.562
-named_after: '[[_Standards/WikiData/WD~Lutetia,270273]]'
+named_after: '[[_Standards/WikiData/WD~Lutetia,270273|WD~Lutetia,270273]]'
 OmegaWiki_Defined_Meaning: 161929
 oxidation_state: 3
 part_of:
-- '[[_Standards/WikiData/WD~period_6,239813]]'
-- '[[_Standards/WikiData/WD~lanthanide,19569]]'
+- '[[_Standards/WikiData/WD~period_6,239813|WD~period_6,239813]]'
+- '[[_Standards/WikiData/WD~lanthanide,19569|WD~lanthanide,19569]]'
 PubChem_CID: 23929
 SpocWebEntityId: 21967
 time_of_discovery_or_invention: 1906
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_lutetium,8085411]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_lutetium,8085411|WD~Template_Infobox_lutetium,8085411]]'
 type: Element
 UMLS_CUI: C0024170
 UNII: 5H0DOZ21UJ
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Lutetium,1857]]'
+  - '[[../../../WikiData/WD~Lutetium,1857|WD~Lutetium,1857]]'
   - '[[../../../WikiData/WD~Lutetium,1857|WD~Lutetium,1857]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium|Lutetium]]'
   - '[[/_public/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium.public|Lutetium.public]]'
@@ -149,7 +149,7 @@ dv_is_:
   - '[[/_private/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium.private|Lutetium.private]]'
   - '[[/_personal/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium.personal|Lutetium.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium.secret|Lutetium.secret]]'
-  part_of: '[[../Group-03-Scandium]]'
+  part_of: '[[../Group-03-Scandium|Group-03-Scandium]]'
 dv_has_:
   name_:
     abbreviated: Lu
@@ -333,7 +333,7 @@ dv_has_:
         kj_:
           mol: 355.9
 dv_is_same_as:
-- '[[../../../WikiData/WD~Lutetium,1857]]'
+- '[[../../../WikiData/WD~Lutetium,1857|WD~Lutetium,1857]]'
 - '[[../../../WikiData/WD~Lutetium,1857|WD~Lutetium,1857]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium|Lutetium]]'
 - '[[/_public/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium.public|Lutetium.public]]'
@@ -343,7 +343,7 @@ dv_is_same_as:
 - '[[/_personal/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium.personal|Lutetium.personal]]'
 - '[[/_secret/Chemistry/Chemical_Element/Group-03-Scandium/Lutetium.secret|Lutetium.secret]]'
 dv_has_name_group: Group-03-Scandium
-dv_is_part_of: '[[../Group-03-Scandium]]'
+dv_is_part_of: '[[../Group-03-Scandium|Group-03-Scandium]]'
 dv_has_name_en: Lutetium
 dv_has_name_de: Lutetium
 dv_has_name_abbreviated: Lu
@@ -371,7 +371,7 @@ Unicode_character: 鎦
 
 
 #chemic/Element 
-#is_/same_as :: [[../../../WikiData/WD~Lutetium,1857]] 
+#is_/same_as :: [[../../../WikiData/WD~Lutetium,1857|WD~Lutetium,1857]] 
 
 has_name_group = `=this.dv_has_name_group` 
 is_part_of = `=this.dv_is_part_of` 

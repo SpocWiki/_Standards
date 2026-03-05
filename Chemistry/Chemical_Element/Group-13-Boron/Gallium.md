@@ -104,49 +104,49 @@ density:
 - 5.904
 - 6.095
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Gallium,84658438]]'
-different_from: '[[_Standards/WikiData/WD~Gal,141487]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Paul-Émile_Lecoq_de_Boisbaudran,366827]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Gallium,84658438|WD~Gallium,84658438]]'
+different_from: '[[_Standards/WikiData/WD~Gal,141487|WD~Gal,141487]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Paul-Émile_Lecoq_de_Boisbaudran,366827|WD~Paul-Émile_Lecoq_de_Boisbaudran,366827]]'
 DSSTOX_compound_identifier: DTXCID5047661
 EC_number: 231-163-8
 electronegativity: 1.81
 element_symbol: Ga
-has_effect: '[[_Standards/WikiData/WD~embrittlement,2919530]]'
+has_effect: '[[_Standards/WikiData/WD~embrittlement,2919530|WD~embrittlement,2919530]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gallium%20crystals.jpg
 InChI: InChI=1S/Ga
 InChIKey: GYHNNYVSQQEPJS-UHFFFAOYSA-N
 instance_of:
-- '[[_Standards/WikiData/WD~chalcophile_element,1929547]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+- '[[_Standards/WikiData/WD~chalcophile_element,1929547|WD~chalcophile_element,1929547]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 ionic_radius:
 - 0.47
 - 0.62
 Krugosvet_article: nauka_i_tehnika/himiya/GALLI.html
 made_from_material:
-- '[[_Standards/WikiData/WD~bauxite,102078]]'
-- '[[_Standards/WikiData/WD~gallite,411230]]'
-- '[[_Standards/WikiData/WD~zinc_ore,12168819]]'
+- '[[_Standards/WikiData/WD~bauxite,102078|WD~bauxite,102078]]'
+- '[[_Standards/WikiData/WD~gallite,411230|WD~gallite,411230]]'
+- '[[_Standards/WikiData/WD~zinc_ore,12168819|WD~zinc_ore,12168819]]'
 mass: 69.723
 MeSH_tree_code:
 - D01.268.556.289
 - D01.552.544.289
-named_after: '[[_Standards/WikiData/WD~Gaul,38060]]'
+named_after: '[[_Standards/WikiData/WD~Gaul,38060|WD~Gaul,38060]]'
 OmegaWiki_Defined_Meaning: 159177
 oxidation_state:
 - 1
 - 2
 - 3
 part_of:
-- '[[_Standards/WikiData/WD~group_13,189294]]'
-- '[[_Standards/WikiData/WD~period_4,239825]]'
+- '[[_Standards/WikiData/WD~group_13,189294|WD~group_13,189294]]'
+- '[[_Standards/WikiData/WD~period_4,239825|WD~period_4,239825]]'
 PubChem_CID: 5360835
 SpocWebEntityId: 21929
-subclass_of: '[[_Standards/WikiData/WD~post-transition_metal,19591]]'
+subclass_of: '[[_Standards/WikiData/WD~post-transition_metal,19591|WD~post-transition_metal,19591]]'
 time_of_discovery_or_invention: 1875
 type: Element
 UMLS_CUI: C0016980
@@ -156,7 +156,7 @@ video: http://commons.wikimedia.org/wiki/Special:FilePath/Gallium%20drops.ogv
 ZVG_number: 8260
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Gallium,861]]'
+  - '[[../../../WikiData/WD~Gallium,861|WD~Gallium,861]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Group-13-Boron/Gallium|Gallium]]'
   - '[[/_public/Chemistry/Chemical_Element/Group-13-Boron/Gallium.public|Gallium.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Group-13-Boron/Gallium.internal|Gallium.internal]]'
@@ -164,7 +164,7 @@ dv_is_:
   - '[[/_private/Chemistry/Chemical_Element/Group-13-Boron/Gallium.private|Gallium.private]]'
   - '[[/_personal/Chemistry/Chemical_Element/Group-13-Boron/Gallium.personal|Gallium.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Group-13-Boron/Gallium.secret|Gallium.secret]]'
-  part_of: '[[../Group-13-Boron]]'
+  part_of: '[[../Group-13-Boron|Group-13-Boron]]'
 dv_has_:
   name_:
     abbreviated: Ga
@@ -365,7 +365,7 @@ dv_has_:
         kj_:
           mol: 258.7
 dv_is_same_as:
-- '[[../../../WikiData/WD~Gallium,861]]'
+- '[[../../../WikiData/WD~Gallium,861|WD~Gallium,861]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Group-13-Boron/Gallium|Gallium]]'
 - '[[/_public/Chemistry/Chemical_Element/Group-13-Boron/Gallium.public|Gallium.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Group-13-Boron/Gallium.internal|Gallium.internal]]'
@@ -374,7 +374,7 @@ dv_is_same_as:
 - '[[/_personal/Chemistry/Chemical_Element/Group-13-Boron/Gallium.personal|Gallium.personal]]'
 - '[[/_secret/Chemistry/Chemical_Element/Group-13-Boron/Gallium.secret|Gallium.secret]]'
 dv_has_name_group: Group-13-Boron
-dv_is_part_of: '[[../Group-13-Boron]]'
+dv_is_part_of: '[[../Group-13-Boron|Group-13-Boron]]'
 dv_has_name_en: Gallium
 dv_has_name_de: Gallium
 dv_has_value_for_weight_u: 69.723
@@ -399,7 +399,7 @@ dv_has_number_of_group: 13
 # [[Gallium]] 鎵 
 
 #chemic/Element 
-#is_/same_as :: [[../../../WikiData/WD~Gallium,861]] 
+#is_/same_as :: [[../../../WikiData/WD~Gallium,861|WD~Gallium,861]] 
 
 has_name_group = `=this.dv_has_name_group` 
 is_part_of = `=this.dv_is_part_of` 

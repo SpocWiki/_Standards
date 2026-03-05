@@ -120,26 +120,26 @@ aliases:
 - 水井
 - 우물
 has_id_wikidata: Q43483
-different_from: '[[_Standards/WikiData/WD~fountain,483453]]'
-has_use: '[[_Standards/WikiData/WD~water_catchment,489339]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~borehole,502102]]'
-has_part_s_: '[[_Standards/WikiData/WD~wheel_and_axle,592289]]'
+different_from: '[[_Standards/WikiData/WD~fountain,483453|WD~fountain,483453]]'
+has_use: '[[_Standards/WikiData/WD~water_catchment,489339|WD~water_catchment,489339]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~borehole,502102|WD~borehole,502102]]'
+has_part_s_: '[[_Standards/WikiData/WD~wheel_and_axle,592289|WD~wheel_and_axle,592289]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Arkeologisen_kulttuuriperinnön_opas,65109596]]'
-- '[[_Standards/WikiData/WD~Q105336459,105336459]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Arkeologisen_kulttuuriperinnön_opas,65109596|WD~Arkeologisen_kulttuuriperinnön_opas,65109596]]'
+- '[[_Standards/WikiData/WD~Q105336459,105336459|WD~Q105336459,105336459]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~amenity,867393]]'
-- '[[_Standards/WikiData/WD~water_source,10713454]]'
-- '[[_Standards/WikiData/WD~well,118276030]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_well,26003528]]'
+- '[[_Standards/WikiData/WD~amenity,867393|WD~amenity,867393]]'
+- '[[_Standards/WikiData/WD~water_source,10713454|WD~water_source,10713454]]'
+- '[[_Standards/WikiData/WD~well,118276030|WD~well,118276030]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_well,26003528|WD~Template_Infobox_well,26003528]]'
 Dewey_Decimal_Classification:
 - 714
 - 551.498

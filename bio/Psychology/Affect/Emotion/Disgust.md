@@ -65,13 +65,13 @@ aliases:
 - 肉酸
 - 혐오
 has_id_wikidata: Q208351
-studied_by: '[[_Standards/WikiData/WD~theory_of_emotion,9357054]]'
+studied_by: '[[_Standards/WikiData/WD~theory_of_emotion,9357054|WD~theory_of_emotion,9357054]]'
 instance_of:
-- '[[_Standards/WikiData/WD~basic_emotion,16748867]]'
-- '[[_Standards/WikiData/WD~negative_emotion,60539481]]'
-opposite_of: '[[_Standards/WikiData/WD~attraction,24238252]]'
-part_of: '[[_Standards/WikiData/WD~psychological_terminology,77468620]]'
-has_cause: '[[_Standards/WikiData/WD~disapproval,108899640]]'
+- '[[_Standards/WikiData/WD~basic_emotion,16748867|WD~basic_emotion,16748867]]'
+- '[[_Standards/WikiData/WD~negative_emotion,60539481|WD~negative_emotion,60539481]]'
+opposite_of: '[[_Standards/WikiData/WD~attraction,24238252|WD~attraction,24238252]]'
+part_of: '[[_Standards/WikiData/WD~psychological_terminology,77468620|WD~psychological_terminology,77468620]]'
+has_cause: '[[_Standards/WikiData/WD~disapproval,108899640|WD~disapproval,108899640]]'
 OmegaWiki_Defined_Meaning: 1044495
 Commons_category: Disgust
 Dewey_Decimal_Classification: 152.4

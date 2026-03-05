@@ -86,22 +86,22 @@ aliases:
 - 化學工程
 - 화학공학
 has_id_wikidata: Q83588
-uses: '[[_Standards/WikiData/WD~unit_operations_of_Chemical_Engineering,1420676]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~process_engineering,2144042]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_chemical_engineering,2900601]]'
+uses: '[[_Standards/WikiData/WD~unit_operations_of_Chemical_Engineering,1420676|WD~unit_operations_of_Chemical_Engineering,1420676]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~process_engineering,2144042|WD~process_engineering,2144042]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_chemical_engineering,2900601|WD~outline_of_chemical_engineering,2900601]]'
 instance_of:
-- '[[_Standards/WikiData/WD~academic_major,4671286]]'
-- '[[_Standards/WikiData/WD~branch_of_chemistry,11790203]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~branch_of_engineering,12015335]]'
-- '[[_Standards/WikiData/WD~applied_science,28797]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~branch_of_chemistry,11790203|WD~branch_of_chemistry,11790203]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~branch_of_engineering,12015335|WD~branch_of_engineering,12015335]]'
+- '[[_Standards/WikiData/WD~applied_science,28797|WD~applied_science,28797]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~chemical_technologist,5090503]]'
-- '[[_Standards/WikiData/WD~chemical_engineer,7888586]]'
+- '[[_Standards/WikiData/WD~chemical_technologist,5090503|WD~chemical_technologist,5090503]]'
+- '[[_Standards/WikiData/WD~chemical_engineer,7888586|WD~chemical_engineer,7888586]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Chemical_engineering,6872011]]'
-- '[[_Standards/WikiData/WD~Template_Chemical_eng,11427155]]'
-subclass_of: '[[_Standards/WikiData/WD~engineering,11023]]'
+- '[[_Standards/WikiData/WD~Template_Chemical_engineering,6872011|WD~Template_Chemical_engineering,6872011]]'
+- '[[_Standards/WikiData/WD~Template_Chemical_eng,11427155|WD~Template_Chemical_eng,11427155]]'
+subclass_of: '[[_Standards/WikiData/WD~engineering,11023|WD~engineering,11023]]'
 OmegaWiki_Defined_Meaning: 542
 Dewey_Decimal_Classification: 660
 P10203:

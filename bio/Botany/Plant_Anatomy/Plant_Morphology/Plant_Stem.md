@@ -93,18 +93,18 @@ aliases:
 - 줄기
 has_id_wikidata: Q134267
 has_part_s_:
-- '[[_Standards/WikiData/WD~bark,184453]]'
-- '[[_Standards/WikiData/WD~Q190872,190872]]'
+- '[[_Standards/WikiData/WD~bark,184453|WD~bark,184453]]'
+- '[[_Standards/WikiData/WD~Q190872,190872|WD~Q190872,190872]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-subclass_of: '[[_Standards/WikiData/WD~vegetative_organ,2668103]]'
-instance_of: '[[_Standards/WikiData/WD~plant_structure,20011319]]'
-part_of: '[[_Standards/WikiData/WD~plant,756]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+subclass_of: '[[_Standards/WikiData/WD~vegetative_organ,2668103|WD~vegetative_organ,2668103]]'
+instance_of: '[[_Standards/WikiData/WD~plant_structure,20011319|WD~plant_structure,20011319]]'
+part_of: '[[_Standards/WikiData/WD~plant,756|WD~plant,756]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Casti%20stonku.jpg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Stengel-article.ogg
 OmegaWiki_Defined_Meaning: 632401

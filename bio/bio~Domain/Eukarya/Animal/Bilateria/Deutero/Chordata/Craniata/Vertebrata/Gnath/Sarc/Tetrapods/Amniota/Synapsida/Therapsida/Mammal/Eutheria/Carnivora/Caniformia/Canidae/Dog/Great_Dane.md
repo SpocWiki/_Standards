@@ -56,8 +56,8 @@ aliases:
 - 大丹狗
 - 그레이트 데인
 has_id_wikidata: Q5414
-subclass_of: '[[_Standards/WikiData/WD~dog,144]]'
-country_of_origin: '[[_Standards/WikiData/WD~Germany,183]]'
+subclass_of: '[[_Standards/WikiData/WD~dog,144|WD~dog,144]]'
+country_of_origin: '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
 mass:
 - 50
 - 60
@@ -70,7 +70,7 @@ height:
 - 84
 life_expectancy: 9
 litter_size: 7.1
-instance_of: '[[_Standards/WikiData/WD~dog_breed,39367]]'
+instance_of: '[[_Standards/WikiData/WD~dog_breed,39367|WD~dog_breed,39367]]'
 catalog_code: 235
 Commons_gallery: Great Dane
 Commons_category: Great Dane

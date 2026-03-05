@@ -179,23 +179,23 @@ aliases:
   - 腦
   - 뇌
 has_id_wikidata: Q1073
-anatomical_location: "[[_Standards/WikiData/WD~cranial_cavity,1710207]]"
+anatomical_location: "[[_Standards/WikiData/WD~cranial_cavity,1710207|WD~cranial_cavity,1710207]]"
 Colon_Classification: L72
 Commons_category: Brain
 Commons_gallery: Brain
 connects_with:
-  - "[[_Standards/WikiData/WD~optic_nerve,186029]]"
-  - "[[_Standards/WikiData/WD~cranium,28947902]]"
-  - "[[_Standards/WikiData/WD~spinal_cord,9606]]"
+  - "[[_Standards/WikiData/WD~optic_nerve,186029|WD~optic_nerve,186029]]"
+  - "[[_Standards/WikiData/WD~cranium,28947902|WD~cranium,28947902]]"
+  - "[[_Standards/WikiData/WD~spinal_cord,9606|WD~spinal_cord,9606]]"
 described_by_source:
-  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]"
 different_from:
-  - "[[_Standards/WikiData/WD~human_brain,492038]]"
-  - "[[_Standards/WikiData/WD~Brain,118501881]]"
+  - "[[_Standards/WikiData/WD~human_brain,492038|WD~human_brain,492038]]"
+  - "[[_Standards/WikiData/WD~Brain,118501881|WD~Brain,118501881]]"
 exact_match:
   - https://schema.org/BrainStructure
   - https://turkic.elegantlexicon.com/turkforms.php?form=brainbrain
@@ -204,36 +204,36 @@ ground_level_360_degree_view_URL:
   - https://www.openanatomy.org/atlases/nac/brain-2017-01/viewer/#!/state/0c6fccc7-a7fc-4bc5-a6e5-648173430547
   - https://www.zygotebody.com/#nav=1.46,112.52,99.98,0,0,0,0&sel=p:;h:;s:1754;c:-0.6;o:-0.75&layers=0,1,1250
 has_cause:
-  - "[[_Standards/WikiData/WD~cephalization,1054543]]"
-  - "[[_Standards/WikiData/WD~brain_development,14330969]]"
+  - "[[_Standards/WikiData/WD~cephalization,1054543|WD~cephalization,1054543]]"
+  - "[[_Standards/WikiData/WD~brain_development,14330969|WD~brain_development,14330969]]"
 has_part_s_:
-  - "[[_Standards/WikiData/WD~brain_stem,182228]]"
-  - "[[_Standards/WikiData/WD~Mesencephalon,185080]]"
-  - "[[_Standards/WikiData/WD~prosencephalon,507027]]"
-  - "[[_Standards/WikiData/WD~rhombencephalon,1137072]]"
+  - "[[_Standards/WikiData/WD~brain_stem,182228|WD~brain_stem,182228]]"
+  - "[[_Standards/WikiData/WD~Mesencephalon,185080|WD~Mesencephalon,185080]]"
+  - "[[_Standards/WikiData/WD~prosencephalon,507027|WD~prosencephalon,507027]]"
+  - "[[_Standards/WikiData/WD~rhombencephalon,1137072|WD~rhombencephalon,1137072]]"
 IAB_code: 313
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Chimp%20Brain%20in%20a%20jar.jpg
 instance_of:
-  - "[[_Standards/WikiData/WD~organ_type,103812529]]"
-  - "[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]"
+  - "[[_Standards/WikiData/WD~organ_type,103812529|WD~organ_type,103812529]]"
+  - "[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905|WD~class_of_anatomical_entity,112826905]]"
 MeSH_tree_code: A08.186.211
 OmegaWiki_Defined_Meaning: 6504
 part_of:
-  - "[[_Standards/WikiData/WD~neurovascular_system,2330350]]"
-  - "[[_Standards/WikiData/WD~head,23640]]"
-  - "[[_Standards/WikiData/WD~central_nervous_system,47273]]"
+  - "[[_Standards/WikiData/WD~neurovascular_system,2330350|WD~neurovascular_system,2330350]]"
+  - "[[_Standards/WikiData/WD~head,23640|WD~head,23640]]"
+  - "[[_Standards/WikiData/WD~central_nervous_system,47273|WD~central_nervous_system,47273]]"
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Gehirn2.ogg
 small_logo_or_icon: http://commons.wikimedia.org/wiki/Special:FilePath/Font%20Awesome%205%20solid%20brain.svg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%B3%D5%AC%D5%AD%D5%B8%D6%82%D5%B2%D5%A5%D5%B2.ogg
-studied_in: "[[_Standards/WikiData/WD~neuroscience,207011]]"
+studied_in: "[[_Standards/WikiData/WD~neuroscience,207011|WD~neuroscience,207011]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~encephalon,75865]]"
-  - "[[_Standards/WikiData/WD~animal_organ,24060765]]"
-  - "[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]"
+  - "[[_Standards/WikiData/WD~encephalon,75865|WD~encephalon,75865]]"
+  - "[[_Standards/WikiData/WD~animal_organ,24060765|WD~animal_organ,24060765]]"
+  - "[[_Standards/WikiData/WD~particular_anatomical_entity,112826975|WD~particular_anatomical_entity,112826975]]"
 TA98_Latin_term: cerebrum
 topic_s_main_template:
-  - "[[_Standards/WikiData/WD~Template_Infobox_brain,7465538]]"
-  - "[[_Standards/WikiData/WD~Q10635998,10635998]]"
+  - "[[_Standards/WikiData/WD~Template_Infobox_brain,7465538|WD~Template_Infobox_brain,7465538]]"
+  - "[[_Standards/WikiData/WD~Q10635998,10635998|WD~Q10635998,10635998]]"
 UMLS_CUI:
   - C1269537
   - C0006104

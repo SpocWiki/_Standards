@@ -64,15 +64,15 @@ aliases:
 - 榛果
 - 헤이즐넛
 has_id_wikidata: Q578307
-natural_product_of_taxon: '[[_Standards/WikiData/WD~Corylus_avellana,124969]]'
-part_of: '[[_Standards/WikiData/WD~Turkish_cuisine,654493]]'
+natural_product_of_taxon: '[[_Standards/WikiData/WD~Corylus_avellana,124969|WD~Corylus_avellana,124969]]'
+part_of: '[[_Standards/WikiData/WD~Turkish_cuisine,654493|WD~Turkish_cuisine,654493]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~seed,1762933]]'
-- '[[_Standards/WikiData/WD~nut,3320037]]'
-- '[[_Standards/WikiData/WD~hazelnut,104738415]]'
-- '[[_Standards/WikiData/WD~nut,11009]]'
-instance_of: '[[_Standards/WikiData/WD~food_ingredient,25403900]]'
-has_part_s_: '[[_Standards/WikiData/WD~hazelnut_shell,55758405]]'
+- '[[_Standards/WikiData/WD~seed,1762933|WD~seed,1762933]]'
+- '[[_Standards/WikiData/WD~nut,3320037|WD~nut,3320037]]'
+- '[[_Standards/WikiData/WD~hazelnut,104738415|WD~hazelnut,104738415]]'
+- '[[_Standards/WikiData/WD~nut,11009|WD~nut,11009]]'
+instance_of: '[[_Standards/WikiData/WD~food_ingredient,25403900|WD~food_ingredient,25403900]]'
+has_part_s_: '[[_Standards/WikiData/WD~hazelnut_shell,55758405|WD~hazelnut_shell,55758405]]'
 carbon_footprint: 5.3
 food_energy: 628
 water_footprint:

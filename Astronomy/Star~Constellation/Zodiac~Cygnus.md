@@ -79,25 +79,25 @@ tags:
 - astro/Zodiac
 type: Zodiac
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]'
-- '[[_Standards/WikiData/WD~Cygnus,105104684]]'
-part_of: '[[_Standards/WikiData/WD~Northern_celestial_hemisphere,1998069]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135|WD~Encyclopedic_Lexicon,4532135]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886|WD~Star_Lore_of_All_Ages,95985886]]'
+- '[[_Standards/WikiData/WD~Cygnus,105104684|WD~Cygnus,105104684]]'
+part_of: '[[_Standards/WikiData/WD~Northern_celestial_hemisphere,1998069|WD~Northern_celestial_hemisphere,1998069]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Stars_of_Cygnus,8084775]]'
-- '[[_Standards/WikiData/WD~Q10729059,10729059]]'
+- '[[_Standards/WikiData/WD~Template_Stars_of_Cygnus,8084775|WD~Template_Stars_of_Cygnus,8084775]]'
+- '[[_Standards/WikiData/WD~Q10729059,10729059|WD~Q10729059,10729059]]'
 shares_border_with:
-- '[[_Standards/WikiData/WD~Draco,8675]]'
-- '[[_Standards/WikiData/WD~Pegasus,8864]]'
-- '[[_Standards/WikiData/WD~Lacerta,10430]]'
-- '[[_Standards/WikiData/WD~Cepheus,10468]]'
-- '[[_Standards/WikiData/WD~Lyra,10484]]'
-- '[[_Standards/WikiData/WD~Vulpecula,10519]]'
-instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
+- '[[_Standards/WikiData/WD~Draco,8675|WD~Draco,8675]]'
+- '[[_Standards/WikiData/WD~Pegasus,8864|WD~Pegasus,8864]]'
+- '[[_Standards/WikiData/WD~Lacerta,10430|WD~Lacerta,10430]]'
+- '[[_Standards/WikiData/WD~Cepheus,10468|WD~Cepheus,10468]]'
+- '[[_Standards/WikiData/WD~Lyra,10484|WD~Lyra,10484]]'
+- '[[_Standards/WikiData/WD~Vulpecula,10519|WD~Vulpecula,10519]]'
+instance_of: '[[_Standards/WikiData/WD~constellation,8928|WD~constellation,8928]]'
 declination: 45
 right_ascension: 20.5
 area: 804

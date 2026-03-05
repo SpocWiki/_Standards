@@ -48,34 +48,34 @@ aliases:
 has_id_wikidata: Q170744
 chemical_structure: http://commons.wikimedia.org/wiki/Special:FilePath/Ketone%20Structural%20Formulae%20V.1.png
 Commons_category: Ketones
-conjugate_base: '[[_Standards/WikiData/WD~ketone_enolate,6395432]]'
+conjugate_base: '[[_Standards/WikiData/WD~ketone_enolate,6395432|WD~ketone_enolate,6395432]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-different_from: '[[_Standards/WikiData/WD~ketene,368158]]'
-instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+different_from: '[[_Standards/WikiData/WD~ketene,368158|WD~ketene,368158]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
 Krugosvet_article: himiya/aldegidy-i-ketony
 MeSH_tree_code: D02.522
 P8189: 987007543582305200
 part_of:
-- '[[_Standards/WikiData/WD~cellular_ketone_metabolic_process,14912265]]'
-- '[[_Standards/WikiData/WD~alcohol_dehydrogenase_(NAD+)_activity,21096466]]'
-- '[[_Standards/WikiData/WD~carbonyl_reductase_(NADPH)_activity,21102167]]'
-- '[[_Standards/WikiData/WD~ketone_catabolic_process,21135433]]'
-- '[[_Standards/WikiData/WD~cellular_response_to_ketone,22273183]]'
-- '[[_Standards/WikiData/WD~response_to_ketone,22273396]]'
-- '[[_Standards/WikiData/WD~ketone_biosynthetic_process,22274645]]'
-- '[[_Standards/WikiData/WD~secondary_alcohol_oxidase_activity,22318301]]'
+- '[[_Standards/WikiData/WD~cellular_ketone_metabolic_process,14912265|WD~cellular_ketone_metabolic_process,14912265]]'
+- '[[_Standards/WikiData/WD~alcohol_dehydrogenase_(NAD+)_activity,21096466|WD~alcohol_dehydrogenase_(NAD+)_activity,21096466]]'
+- '[[_Standards/WikiData/WD~carbonyl_reductase_(NADPH)_activity,21102167|WD~carbonyl_reductase_(NADPH)_activity,21102167]]'
+- '[[_Standards/WikiData/WD~ketone_catabolic_process,21135433|WD~ketone_catabolic_process,21135433]]'
+- '[[_Standards/WikiData/WD~cellular_response_to_ketone,22273183|WD~cellular_response_to_ketone,22273183]]'
+- '[[_Standards/WikiData/WD~response_to_ketone,22273396|WD~response_to_ketone,22273396]]'
+- '[[_Standards/WikiData/WD~ketone_biosynthetic_process,22274645|WD~ketone_biosynthetic_process,22274645]]'
+- '[[_Standards/WikiData/WD~secondary_alcohol_oxidase_activity,22318301|WD~secondary_alcohol_oxidase_activity,22318301]]'
 SMARTS_notation: '[6][CX3](=O)[6]'
-subclass_of: '[[_Standards/WikiData/WD~carbonyl_compound,9392635]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Ketones,62683903]]'
+subclass_of: '[[_Standards/WikiData/WD~carbonyl_compound,9392635|WD~carbonyl_compound,9392635]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Ketones,62683903|WD~Template_Ketones,62683903]]'
 UMLS_CUI: C0022634
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Ketone,170744]]'
+  - '[[../../../WikiData/WD~Ketone,170744|WD~Ketone,170744]]'
   - '[[/_Standards/Chemistry/Organic_Chemistry/Ketone|Ketone]]'
   - '[[/_public/Chemistry/Organic_Chemistry/Ketone.public|Ketone.public]]'
   - '[[/_internal/Chemistry/Organic_Chemistry/Ketone.internal|Ketone.internal]]'
@@ -178,7 +178,7 @@ dv_has_:
     zh_sg: 酮
     zh_tw: 酮
 dv_is_same_as:
-- '[[../../../WikiData/WD~Ketone,170744]]'
+- '[[../../../WikiData/WD~Ketone,170744|WD~Ketone,170744]]'
 - '[[/_Standards/Chemistry/Organic_Chemistry/Ketone|Ketone]]'
 - '[[/_public/Chemistry/Organic_Chemistry/Ketone.public|Ketone.public]]'
 - '[[/_internal/Chemistry/Organic_Chemistry/Ketone.internal|Ketone.internal]]'
@@ -191,7 +191,7 @@ dv_has_formula_structural: R-C(=O)-R
 
 # [[Ketone]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Ketone,170744]] 
+#is_/same_as :: [[../../../WikiData/WD~Ketone,170744|WD~Ketone,170744]] 
 has_formula_structural = `=this.dv_has_formula_structural` 
 
 ## #has_/text_of_/abstract 

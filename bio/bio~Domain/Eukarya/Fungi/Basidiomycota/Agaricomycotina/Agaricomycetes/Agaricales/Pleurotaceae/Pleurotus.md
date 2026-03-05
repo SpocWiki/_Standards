@@ -36,11 +36,11 @@ aliases:
 - 側耳屬
 - 느타리속
 has_id_wikidata: Q852065
-taxonomic_type: '[[_Standards/WikiData/WD~Pleurotus_ostreatus,186451]]'
-different_from: '[[_Standards/WikiData/WD~compartment_coach,334485]]'
-parent_taxon: '[[_Standards/WikiData/WD~Pleurotaceae,7319414]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Pleurotus_ostreatus,186451|WD~Pleurotus_ostreatus,186451]]'
+different_from: '[[_Standards/WikiData/WD~compartment_coach,334485|WD~compartment_coach,334485]]'
+parent_taxon: '[[_Standards/WikiData/WD~Pleurotaceae,7319414|WD~Pleurotaceae,7319414]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
 taxon_author_citation:
 - (Fr.) P.Kumm.
 - (Fr.) P.Kumm. (1871)

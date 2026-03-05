@@ -42,11 +42,11 @@ aliases:
 - 驗尿
 - 소변 검사
 has_id_wikidata: Q842424
-health_specialty: '[[_Standards/WikiData/WD~clinical_pathology,499500]]'
+health_specialty: '[[_Standards/WikiData/WD~clinical_pathology,499500|WD~clinical_pathology,499500]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~periodic_health_examination,1762591]]'
-- '[[_Standards/WikiData/WD~medical_test_type,55215251]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Urine_tests,14403153]]'
+- '[[_Standards/WikiData/WD~periodic_health_examination,1762591|WD~periodic_health_examination,1762591]]'
+- '[[_Standards/WikiData/WD~medical_test_type,55215251|WD~medical_test_type,55215251]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Urine_tests,14403153|WD~Template_Urine_tests,14403153]]'
 UMLS_CUI: C0042014
 MeSH_tree_code:
 - E01.370.225.124.810

@@ -48,20 +48,20 @@ aliases:
 - 몰
 has_id_wikidata: Q41509
 measured_physical_quantity:
-- '[[_Standards/WikiData/WD~amount_of_substance,104946]]'
-- '[[_Standards/WikiData/WD~extent_of_reaction,899046]]'
-different_from: '[[_Standards/WikiData/WD~Mol,218708]]'
+- '[[_Standards/WikiData/WD~amount_of_substance,104946|WD~amount_of_substance,104946]]'
+- '[[_Standards/WikiData/WD~extent_of_reaction,899046|WD~extent_of_reaction,899046]]'
+different_from: '[[_Standards/WikiData/WD~Mol,218708|WD~Mol,218708]]'
 instance_of:
-- '[[_Standards/WikiData/WD~SI_base_unit,223662]]'
-- '[[_Standards/WikiData/WD~unit_of_amount_of_substance,51980494]]'
-- '[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328]]'
-- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
+- '[[_Standards/WikiData/WD~SI_base_unit,223662|WD~SI_base_unit,223662]]'
+- '[[_Standards/WikiData/WD~unit_of_amount_of_substance,51980494|WD~unit_of_amount_of_substance,51980494]]'
+- '[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328|WD~SI_unit_with_special_name,68618328]]'
+- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057|WD~UCUM_derived_unit,82047057]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-subdivision_of_this_unit: '[[_Standards/WikiData/WD~decimole,70378044]]'
-named_after: '[[_Standards/WikiData/WD~molecule,11369]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+subdivision_of_this_unit: '[[_Standards/WikiData/WD~decimole,70378044|WD~decimole,70378044]]'
+named_after: '[[_Standards/WikiData/WD~molecule,11369|WD~molecule,11369]]'
 conversion_to_standard_unit: 10
 conversion_to_SI_unit: 1
 OmegaWiki_Defined_Meaning: 8387
@@ -208,7 +208,7 @@ dv_has_:
 
 # [[Unit~Mole]] 
 
-#is_a :: [[../SI-Unit]] 
+#is_a :: [[../SI-Unit|SI-Unit]] 
 Unit :: #Unit/SI/mol
 #is_a_/unit_/for_/number 
 

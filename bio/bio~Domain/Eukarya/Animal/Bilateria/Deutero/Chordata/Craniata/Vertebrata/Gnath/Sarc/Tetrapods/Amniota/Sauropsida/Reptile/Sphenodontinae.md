@@ -2,8 +2,8 @@
 aliases:
 - Sphenodontinae
 has_id_wikidata: Q7576641
-taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280|WD~subfamily,164280]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 taxon_name: Sphenodontinae
 dv_has_:
   name_:

@@ -54,7 +54,7 @@ dv_has_name_cn: 英属印度洋领土
 dv_has_name_ar: المحيط الهندي الإقليم البريطاني في
 dv_has_name_ru: Британская территория в Индийском океане
 dv_CLDR_display_name: British Indian Ocean Territory
-dv_Region_Name: "[[../../Africa]]"
+dv_Region_Name: "[[../../Africa|Africa]]"
 dv_Intermediate_Region_Name: "[[Eastern Africa]]"
 dv_Sub-region_Name: "[[Sub-Saharan Africa]]"
 dv_Region: 2
@@ -77,7 +77,7 @@ dv_ISO3: IOT
 dv_has_name_de: Britisches Territorium im indischen Ozean
 dv_Area-Total: 0
 dv_Area-Land: 0
-dv_has_place_continent: "[[../../Africa]]"
+dv_has_place_continent: "[[../../Africa|Africa]]"
 dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 71.5
 dv_has_place_latitude: -6
@@ -108,7 +108,7 @@ dv_is_same_as:
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[British_Indian_Ocean_Territory/ReadMe]] 
+[[British_Indian_Ocean_Territory/ReadMe|ReadMe]] 
 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`

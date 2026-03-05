@@ -86,21 +86,21 @@ aliases:
 - 집게벌레목
 - 집게벌레목 (혁시목)
 has_id_wikidata: Q13676
-has_use: '[[_Standards/WikiData/WD~biological_pest_control,116890]]'
-main_food_source: '[[_Standards/WikiData/WD~aphid,183350]]'
+has_use: '[[_Standards/WikiData/WD~biological_pest_control,116890|WD~biological_pest_control,116890]]'
+main_food_source: '[[_Standards/WikiData/WD~aphid,183350|WD~aphid,183350]]'
 parent_taxon:
-- '[[_Standards/WikiData/WD~Polyneoptera,822890]]'
-- '[[_Standards/WikiData/WD~Haplocercata,122689270]]'
+- '[[_Standards/WikiData/WD~Polyneoptera,822890|WD~Polyneoptera,822890]]'
+- '[[_Standards/WikiData/WD~Haplocercata,122689270|WD~Haplocercata,122689270]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-uses: '[[_Standards/WikiData/WD~cannibalism_in_animals,908508]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823|WD~Encyclopedia_of_Armenian_Nature,16387823]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+uses: '[[_Standards/WikiData/WD~cannibalism_in_animals,908508|WD~cannibalism_in_animals,908508]]'
 start_time: -208000000-06
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~order,36602|WD~order,36602]]'
 OmegaWiki_Defined_Meaning: 885
 ITIS_TSN: 102451
 taxon_common_name:

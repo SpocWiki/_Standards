@@ -81,18 +81,18 @@ aliases:
 - 無性繁殖
 - 무성생식
 has_id_wikidata: Q173432
-opposite_of: '[[_Standards/WikiData/WD~sexual_reproduction,182353]]'
-different_from: '[[_Standards/WikiData/WD~asexuality,724351]]'
+opposite_of: '[[_Standards/WikiData/WD~sexual_reproduction,182353|WD~sexual_reproduction,182353]]'
+different_from: '[[_Standards/WikiData/WD~asexuality,724351|WD~asexuality,724351]]'
 instance_of:
-- '[[_Standards/WikiData/WD~biological_process,2996394]]'
-- '[[_Standards/WikiData/WD~mode_of_biological_reproduction,130077803]]'
+- '[[_Standards/WikiData/WD~biological_process,2996394|WD~biological_process,2996394]]'
+- '[[_Standards/WikiData/WD~mode_of_biological_reproduction,130077803|WD~mode_of_biological_reproduction,130077803]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-has_effect: '[[_Standards/WikiData/WD~clone,131727693]]'
-subclass_of: '[[_Standards/WikiData/WD~reproduction,11990]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+has_effect: '[[_Standards/WikiData/WD~clone,131727693|WD~clone,131727693]]'
+subclass_of: '[[_Standards/WikiData/WD~reproduction,11990|WD~reproduction,11990]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Binary%20Fission.png
 exact_match: http://purl.obolibrary.org/obo/GO_0019954
 Stack_Exchange_tag: https://biology.stackexchange.com/tags/asexual-reproduction

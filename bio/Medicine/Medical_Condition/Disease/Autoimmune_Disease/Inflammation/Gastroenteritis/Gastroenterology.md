@@ -59,12 +59,12 @@ aliases:
 - 위장병학
 has_id_wikidata: Q120569
 different_from:
-- '[[_Standards/WikiData/WD~gastronomy,171141]]'
-- '[[_Standards/WikiData/WD~Gastroenterology,4039279]]'
-subclass_of: '[[_Standards/WikiData/WD~health_sciences,843601]]'
-instance_of: '[[_Standards/WikiData/WD~medical_specialty,930752]]'
-practiced_by: '[[_Standards/WikiData/WD~gastroenterologist,19280221]]'
-part_of: '[[_Standards/WikiData/WD~internal_medicine,11180]]'
+- '[[_Standards/WikiData/WD~gastronomy,171141|WD~gastronomy,171141]]'
+- '[[_Standards/WikiData/WD~Gastroenterology,4039279|WD~Gastroenterology,4039279]]'
+subclass_of: '[[_Standards/WikiData/WD~health_sciences,843601|WD~health_sciences,843601]]'
+instance_of: '[[_Standards/WikiData/WD~medical_specialty,930752|WD~medical_specialty,930752]]'
+practiced_by: '[[_Standards/WikiData/WD~gastroenterologist,19280221|WD~gastroenterologist,19280221]]'
+part_of: '[[_Standards/WikiData/WD~internal_medicine,11180|WD~internal_medicine,11180]]'
 P10203: 2715
 DFG_Science_Classification: 205-15
 schematic:

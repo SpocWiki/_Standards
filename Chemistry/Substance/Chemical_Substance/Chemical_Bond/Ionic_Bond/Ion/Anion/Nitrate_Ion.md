@@ -45,34 +45,34 @@ aliases:
 - 硝酸鹽
 - 질산염
 has_id_wikidata: Q182168
-conjugate_acid: '[[_Standards/WikiData/WD~nitric_acid,83320]]'
-subject_has_role: '[[_Standards/WikiData/WD~primary_metabolite,3333419]]'
+conjugate_acid: '[[_Standards/WikiData/WD~nitric_acid,83320|WD~nitric_acid,83320]]'
+subject_has_role: '[[_Standards/WikiData/WD~primary_metabolite,3333419|WD~primary_metabolite,3333419]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~lyate_ion,6707113]]'
-- '[[_Standards/WikiData/WD~nitrogen_oxoanion,71787836]]'
+- '[[_Standards/WikiData/WD~lyate_ion,6707113|WD~lyate_ion,6707113]]'
+- '[[_Standards/WikiData/WD~nitrogen_oxoanion,71787836|WD~nitrogen_oxoanion,71787836]]'
 part_of:
-- '[[_Standards/WikiData/WD~nitrate_catabolic_process,14909360]]'
-- '[[_Standards/WikiData/WD~nitrate_reductase_activity,21104658]]'
-- '[[_Standards/WikiData/WD~nitrate_metabolic_process,21104657]]'
-- '[[_Standards/WikiData/WD~nitrate_transmembrane_transporter_activity,21106473]]'
-- '[[_Standards/WikiData/WD~cellular_response_to_nitrate,22273206]]'
-- '[[_Standards/WikiData/WD~response_to_nitrate,22273204]]'
-- '[[_Standards/WikiData/WD~nitrate_transport,22291980]]'
-- '[[_Standards/WikiData/WD~nitrate_import,22291991]]'
-- '[[_Standards/WikiData/WD~nitrate_reductase_(NADH)_activity,22319943]]'
-- '[[_Standards/WikiData/WD~nitrate_reductase_(NADPH)_activity,22319940]]'
-- '[[_Standards/WikiData/WD~ferredoxin_nitrate_reductase_activity,22319957]]'
-- '[[_Standards/WikiData/WD~nitrate_reductase_(cytochrome)_activity,22319988]]'
-- '[[_Standards/WikiData/WD~ABC_type_nitrate_transporter_activity,22320619]]'
-- '[[_Standards/WikiData/WD~nitrate_proton_symporter_activity,22324923]]'
-- '[[_Standards/WikiData/WD~nitrate_efflux_transmembrane_transporter_activity,22324985]]'
-- '[[_Standards/WikiData/WD~high_affinity_secondary_active_nitrite_transmembrane_transporter_activity,22324991]]'
-- '[[_Standards/WikiData/WD~peroxynitrite_isomerase_activity,112997498]]'
-different_from: '[[_Standards/WikiData/WD~cellulose_nitrate,105754839]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
+- '[[_Standards/WikiData/WD~nitrate_catabolic_process,14909360|WD~nitrate_catabolic_process,14909360]]'
+- '[[_Standards/WikiData/WD~nitrate_reductase_activity,21104658|WD~nitrate_reductase_activity,21104658]]'
+- '[[_Standards/WikiData/WD~nitrate_metabolic_process,21104657|WD~nitrate_metabolic_process,21104657]]'
+- '[[_Standards/WikiData/WD~nitrate_transmembrane_transporter_activity,21106473|WD~nitrate_transmembrane_transporter_activity,21106473]]'
+- '[[_Standards/WikiData/WD~cellular_response_to_nitrate,22273206|WD~cellular_response_to_nitrate,22273206]]'
+- '[[_Standards/WikiData/WD~response_to_nitrate,22273204|WD~response_to_nitrate,22273204]]'
+- '[[_Standards/WikiData/WD~nitrate_transport,22291980|WD~nitrate_transport,22291980]]'
+- '[[_Standards/WikiData/WD~nitrate_import,22291991|WD~nitrate_import,22291991]]'
+- '[[_Standards/WikiData/WD~nitrate_reductase_(NADH)_activity,22319943|WD~nitrate_reductase_(NADH)_activity,22319943]]'
+- '[[_Standards/WikiData/WD~nitrate_reductase_(NADPH)_activity,22319940|WD~nitrate_reductase_(NADPH)_activity,22319940]]'
+- '[[_Standards/WikiData/WD~ferredoxin_nitrate_reductase_activity,22319957|WD~ferredoxin_nitrate_reductase_activity,22319957]]'
+- '[[_Standards/WikiData/WD~nitrate_reductase_(cytochrome)_activity,22319988|WD~nitrate_reductase_(cytochrome)_activity,22319988]]'
+- '[[_Standards/WikiData/WD~ABC_type_nitrate_transporter_activity,22320619|WD~ABC_type_nitrate_transporter_activity,22320619]]'
+- '[[_Standards/WikiData/WD~nitrate_proton_symporter_activity,22324923|WD~nitrate_proton_symporter_activity,22324923]]'
+- '[[_Standards/WikiData/WD~nitrate_efflux_transmembrane_transporter_activity,22324985|WD~nitrate_efflux_transmembrane_transporter_activity,22324985]]'
+- '[[_Standards/WikiData/WD~high_affinity_secondary_active_nitrite_transmembrane_transporter_activity,22324991|WD~high_affinity_secondary_active_nitrite_transmembrane_transporter_activity,22324991]]'
+- '[[_Standards/WikiData/WD~peroxynitrite_isomerase_activity,112997498|WD~peroxynitrite_isomerase_activity,112997498]]'
+different_from: '[[_Standards/WikiData/WD~cellulose_nitrate,105754839|WD~cellulose_nitrate,105754839]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171|WD~type_of_chemical_entity,113145171]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~nitrogen,627]]'
-- '[[_Standards/WikiData/WD~oxygen,629]]'
+- '[[_Standards/WikiData/WD~nitrogen,627|WD~nitrogen,627]]'
+- '[[_Standards/WikiData/WD~oxygen,629|WD~oxygen,629]]'
 PubChem_CID: 943
 Gmelin_number: 1574
 mass: 61.988
@@ -90,7 +90,7 @@ SPLASH:
 - splash10-03dj-9000000000-b705d64f017cd9970bcb
 dv_is_:
   same_as:
-  - '[[../../../../../../../WikiData/WD~Nitrate_ion,182168]]'
+  - '[[../../../../../../../WikiData/WD~Nitrate_ion,182168|WD~Nitrate_ion,182168]]'
   - '[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Nitrate_Ion|Nitrate_Ion]]'
   - '[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Nitrate_Ion.public|Nitrate_Ion.public]]'
   - '[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Nitrate_Ion.internal|Nitrate_Ion.internal]]'
@@ -99,7 +99,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Nitrate_Ion.personal|Nitrate_Ion.personal]]'
   - '[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Nitrate_Ion.secret|Nitrate_Ion.secret]]'
 dv_is_same_as:
-- '[[../../../../../../../WikiData/WD~Nitrate_ion,182168]]'
+- '[[../../../../../../../WikiData/WD~Nitrate_ion,182168|WD~Nitrate_ion,182168]]'
 - '[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Nitrate_Ion|Nitrate_Ion]]'
 - '[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Nitrate_Ion.public|Nitrate_Ion.public]]'
 - '[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion/Nitrate_Ion.internal|Nitrate_Ion.internal]]'

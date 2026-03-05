@@ -200,9 +200,9 @@ A specific branch of medical science that is concerned with the
 diagnosis and treatment of diseases pertaining to the urinary tract 
 and the urogenital system.
 
-#has_/parent_class :: [[../MedicalSpecialty]]  
+#has_/parent_class :: [[../MedicalSpecialty|MedicalSpecialty]]  
 
-#is_/enum_of :: [[../MedicalSpecialty]]  
+#is_/enum_of :: [[../MedicalSpecialty|MedicalSpecialty]]  
 
 #is_/same_as :: [[../../../../WikiData/WD~Urology,105650|WD~Urology,105650]] 
 

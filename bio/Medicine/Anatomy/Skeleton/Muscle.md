@@ -152,28 +152,28 @@ tags:
 title: is_a_muscle Class
 type: Type
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-studied_by: '[[_Standards/WikiData/WD~myology,674407]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+studied_by: '[[_Standards/WikiData/WD~myology,674407|WD~myology,674407]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~muscle_strength,3076906]]'
-- '[[_Standards/WikiData/WD~muscle_structure,27062223]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_muscle,5828621]]'
-part_of: '[[_Standards/WikiData/WD~muscular_system,7060553]]'
-development_of_anatomical_structure: '[[_Standards/WikiData/WD~muscle_organ_development,14863685]]'
+- '[[_Standards/WikiData/WD~muscle_strength,3076906|WD~muscle_strength,3076906]]'
+- '[[_Standards/WikiData/WD~muscle_structure,27062223|WD~muscle_structure,27062223]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_muscle,5828621|WD~Template_Infobox_muscle,5828621]]'
+part_of: '[[_Standards/WikiData/WD~muscular_system,7060553|WD~muscular_system,7060553]]'
+development_of_anatomical_structure: '[[_Standards/WikiData/WD~muscle_organ_development,14863685|WD~muscle_organ_development,14863685]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~muscle_structure,27062223]]'
-- '[[_Standards/WikiData/WD~general_anatomical_term,28843519]]'
-- '[[_Standards/WikiData/WD~nonparenchymatous_organ,66545292]]'
-- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]'
-different_from: '[[_Standards/WikiData/WD~Piskel,101250889]]'
+- '[[_Standards/WikiData/WD~muscle_structure,27062223|WD~muscle_structure,27062223]]'
+- '[[_Standards/WikiData/WD~general_anatomical_term,28843519|WD~general_anatomical_term,28843519]]'
+- '[[_Standards/WikiData/WD~nonparenchymatous_organ,66545292|WD~nonparenchymatous_organ,66545292]]'
+- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975|WD~particular_anatomical_entity,112826975]]'
+different_from: '[[_Standards/WikiData/WD~Piskel,101250889|WD~Piskel,101250889]]'
 instance_of:
-- '[[_Standards/WikiData/WD~anatomical_structure_class_type,103914748]]'
-- '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]'
+- '[[_Standards/WikiData/WD~anatomical_structure_class_type,103914748|WD~anatomical_structure_class_type,103914748]]'
+- '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905|WD~class_of_anatomical_entity,112826905]]'
 properties_for_this_type:
 - antagonist muscle
 - muscle action
@@ -387,7 +387,7 @@ Tag Instances like this:
 
 A muscle is an anatomical structure consisting of a contractile form of tissue that animals use to effect movement.
 
-#has_/parent_class :: [[../AnatomicalStructure]]  
+#has_/parent_class :: [[../AnatomicalStructure|AnatomicalStructure]]  
 
 #has_/properties :: [ additionalType, alternateName, antagonist, associatedPathophysiology, bloodSupply, bodyLocation, code, connectedTo, description, diagram, disambiguatingDescription, funding, guideline, identifier, image, insertion, legalStatus, mainEntityOfPage, medicineSystem, muscleAction, name, nerve, partOfSystem, potentialAction, recognizingAuthority, relatedCondition, relatedTherapy, relevantSpecialty, sameAs, study, subStructure, subjectOf, url ]  
 

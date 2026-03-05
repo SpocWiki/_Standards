@@ -68,35 +68,35 @@ aliases:
 - 관측 가능한 우주
 has_id_wikidata: Q221392
 has_part_s_of_the_class:
-- '[[_Standards/WikiData/WD~dark_matter,79925]]'
-- '[[_Standards/WikiData/WD~dark_energy,18343]]'
-- '[[_Standards/WikiData/WD~matter,35758]]'
+- '[[_Standards/WikiData/WD~dark_matter,79925|WD~dark_matter,79925]]'
+- '[[_Standards/WikiData/WD~dark_energy,18343|WD~dark_energy,18343]]'
+- '[[_Standards/WikiData/WD~matter,35758|WD~matter,35758]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Sloan_Great_Wall,497745]]'
-- '[[_Standards/WikiData/WD~CfA2_Great_Wall,1139177]]'
-- '[[_Standards/WikiData/WD~large_quasar_group,2945326]]'
-- '[[_Standards/WikiData/WD~Huge_LQG,3094136]]'
-- '[[_Standards/WikiData/WD~Hercules_Corona_Borealis_Great_Wall,15241043]]'
-- '[[_Standards/WikiData/WD~BOSS_Great_Wall,23054687]]'
-- '[[_Standards/WikiData/WD~Pisces_Cetus_Supercluster_Complex,24571]]'
-significant_event: '[[_Standards/WikiData/WD~accelerating_expansion_of_the_universe,1049613]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-instance_of: '[[_Standards/WikiData/WD~observable_universe,28530079]]'
-studied_by: '[[_Standards/WikiData/WD~cosmology,338]]'
-depicted_by: '[[_Standards/WikiData/WD~celestial_sphere,12134]]'
-has_boundary: '[[_Standards/WikiData/WD~cosmic_microwave_background,15605]]'
+- '[[_Standards/WikiData/WD~Sloan_Great_Wall,497745|WD~Sloan_Great_Wall,497745]]'
+- '[[_Standards/WikiData/WD~CfA2_Great_Wall,1139177|WD~CfA2_Great_Wall,1139177]]'
+- '[[_Standards/WikiData/WD~large_quasar_group,2945326|WD~large_quasar_group,2945326]]'
+- '[[_Standards/WikiData/WD~Huge_LQG,3094136|WD~Huge_LQG,3094136]]'
+- '[[_Standards/WikiData/WD~Hercules_Corona_Borealis_Great_Wall,15241043|WD~Hercules_Corona_Borealis_Great_Wall,15241043]]'
+- '[[_Standards/WikiData/WD~BOSS_Great_Wall,23054687|WD~BOSS_Great_Wall,23054687]]'
+- '[[_Standards/WikiData/WD~Pisces_Cetus_Supercluster_Complex,24571|WD~Pisces_Cetus_Supercluster_Complex,24571]]'
+significant_event: '[[_Standards/WikiData/WD~accelerating_expansion_of_the_universe,1049613|WD~accelerating_expansion_of_the_universe,1049613]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+instance_of: '[[_Standards/WikiData/WD~observable_universe,28530079|WD~observable_universe,28530079]]'
+studied_by: '[[_Standards/WikiData/WD~cosmology,338|WD~cosmology,338]]'
+depicted_by: '[[_Standards/WikiData/WD~celestial_sphere,12134|WD~celestial_sphere,12134]]'
+has_boundary: '[[_Standards/WikiData/WD~cosmic_microwave_background,15605|WD~cosmic_microwave_background,15605]]'
 mass: 1e+53
 density: 1e-27
 volume_as_quantity: 3.5e+80
 diameter: 93000000000
-not_found_in: '[[_Standards/WikiData/WD~Integrated_Authority_File,36578]]'
+not_found_in: '[[_Standards/WikiData/WD~Integrated_Authority_File,36578|WD~Integrated_Authority_File,36578]]'
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Constrained%20Local%20Universe%20Evolution%20Simulation%20%28spherical%29.webm
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Observable%20universe%20logarithmic%20illustration.png
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Observable%20Universe%20with%20Measurements%2001.png
 Commons_category: Observable universe
 dv_is_:
   same_as:
-  - '[[../../WikiData/WD~Observable_universe,221392]]'
+  - '[[../../WikiData/WD~Observable_universe,221392|WD~Observable_universe,221392]]'
   - '[[/_Standards/Astronomy/Universe/Observable_Universe|Observable_Universe]]'
   - '[[/_public/Astronomy/Universe/Observable_Universe.public|Observable_Universe.public]]'
   - '[[/_internal/Astronomy/Universe/Observable_Universe.internal|Observable_Universe.internal]]'
@@ -105,7 +105,7 @@ dv_is_:
   - '[[/_personal/Astronomy/Universe/Observable_Universe.personal|Observable_Universe.personal]]'
   - '[[/_secret/Astronomy/Universe/Observable_Universe.secret|Observable_Universe.secret]]'
 dv_is_same_as:
-- '[[../../WikiData/WD~Observable_universe,221392]]'
+- '[[../../WikiData/WD~Observable_universe,221392|WD~Observable_universe,221392]]'
 - '[[/_Standards/Astronomy/Universe/Observable_Universe|Observable_Universe]]'
 - '[[/_public/Astronomy/Universe/Observable_Universe.public|Observable_Universe.public]]'
 - '[[/_internal/Astronomy/Universe/Observable_Universe.internal|Observable_Universe.internal]]'

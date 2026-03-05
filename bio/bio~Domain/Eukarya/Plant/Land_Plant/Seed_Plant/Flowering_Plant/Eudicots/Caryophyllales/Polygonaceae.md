@@ -115,17 +115,17 @@ taxon_common_name:
 - Polygonacées
 - Düüsenknober
 - ארכוביתיים
-taxonomic_type: '[[_Standards/WikiData/WD~Polygonum,271400]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Polygonum,271400|WD~Polygonum,271400]]'
 described_by_source:
-- '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Flora_URSS,5862833]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_25(1),112869402]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-parent_taxon: '[[../../../../../../../../../WikiData/WD~Caryophyllales,21808]]'
-taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+- '[[../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Flora_URSS,5862833|WD~Flora_URSS,5862833]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_25(1),112869402|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_25(1),112869402]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+parent_taxon: '[[../../../../../../../../../WikiData/WD~Caryophyllales,21808|WD~Caryophyllales,21808]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409|WD~family,35409]]'
 ITIS_TSN: 20842
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Polygonum%20persicaria%20bgiu.jpg
 GRIN_URL: https://npgsweb.ars-grin.gov/gringlobal/taxonomyfamily.aspx?id=905
@@ -233,7 +233,7 @@ dv_has_:
 
 # [[Polygonaceae]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Polygonaceae,156117]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Polygonaceae,156117|WD~Polygonaceae,156117]] 
 
 ## #has_/text_of_/abstract 
 

@@ -7,9 +7,9 @@ aliases:
 - паслёновые
 - ナス連
 has_id_wikidata: Q3489128
-taxon_rank: '[[_Standards/WikiData/WD~tribe,227936]]'
-parent_taxon: '[[../../../../../../../../../../../../WikiData/WD~Solanoideae,2560968]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~tribe,227936|WD~tribe,227936]]'
+parent_taxon: '[[../../../../../../../../../../../../WikiData/WD~Solanoideae,2560968|WD~Solanoideae,2560968]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Starr%20020323-0062%20Solanum%20seaforthianum.jpg
 Commons_category: Solaneae
 taxon_name: Solaneae
@@ -108,7 +108,7 @@ dv_has_:
 
 # [[Solaneae]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Solaneae,3489128]] 
+#is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Solaneae,3489128|WD~Solaneae,3489128]] 
 
 ## #has_/text_of_/abstract 
 

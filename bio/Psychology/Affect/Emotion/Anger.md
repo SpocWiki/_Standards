@@ -109,29 +109,29 @@ aliases:
   - 노여움
 has_id_wikidata: Q79871
 instance_of:
-  - "[[_Standards/WikiData/WD~seven_deadly_sins,166502]]"
-  - "[[_Standards/WikiData/WD~basic_emotion,16748867]]"
-  - "[[_Standards/WikiData/WD~negative_emotion,60539481]]"
+  - "[[_Standards/WikiData/WD~seven_deadly_sins,166502|WD~seven_deadly_sins,166502]]"
+  - "[[_Standards/WikiData/WD~basic_emotion,16748867|WD~basic_emotion,16748867]]"
+  - "[[_Standards/WikiData/WD~negative_emotion,60539481|WD~negative_emotion,60539481]]"
 different_from:
-  - "[[_Standards/WikiData/WD~Outrage,537026]]"
-  - "[[_Standards/WikiData/WD~Q33056248,33056248]]"
-handled_mitigated_or_managed_by: "[[_Standards/WikiData/WD~anger_management,574559]]"
+  - "[[_Standards/WikiData/WD~Outrage,537026|WD~Outrage,537026]]"
+  - "[[_Standards/WikiData/WD~Q33056248,33056248|WD~Q33056248,33056248]]"
+handled_mitigated_or_managed_by: "[[_Standards/WikiData/WD~anger_management,574559|WD~anger_management,574559]]"
 described_by_source:
-  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
-  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
-  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
-  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
-  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
+  - "[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]"
+  - "[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]"
+  - "[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]"
+  - "[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]"
+  - "[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]"
 part_of:
-  - "[[_Standards/WikiData/WD~theory_of_emotion,9357054]]"
-  - "[[_Standards/WikiData/WD~primary_emotion,28481737]]"
-  - "[[_Standards/WikiData/WD~psychology_terminology,77468620]]"
-opposite_of: "[[_Standards/WikiData/WD~patience,12846123]]"
-said_to_be_the_same_as: "[[_Standards/WikiData/WD~anger,16700267]]"
-partially_coincident_with: "[[_Standards/WikiData/WD~Anger_of_God_in_Islam,125946849]]"
-subclass_of: "[[_Standards/WikiData/WD~emotions,9415]]"
+  - "[[_Standards/WikiData/WD~theory_of_emotion,9357054|WD~theory_of_emotion,9357054]]"
+  - "[[_Standards/WikiData/WD~primary_emotion,28481737|WD~primary_emotion,28481737]]"
+  - "[[_Standards/WikiData/WD~psychology_terminology,77468620|WD~psychology_terminology,77468620]]"
+opposite_of: "[[_Standards/WikiData/WD~patience,12846123|WD~patience,12846123]]"
+said_to_be_the_same_as: "[[_Standards/WikiData/WD~anger,16700267|WD~anger,16700267]]"
+partially_coincident_with: "[[_Standards/WikiData/WD~Anger_of_God_in_Islam,125946849|WD~Anger_of_God_in_Islam,125946849]]"
+subclass_of: "[[_Standards/WikiData/WD~emotions,9415|WD~emotions,9415]]"
 social_media_followers: 37765
 OmegaWiki_Defined_Meaning: 1156554
 subreddit:
@@ -286,7 +286,7 @@ dv_has_:
 
 
 
-#is_/same_as :: [[../../../../WikiData/WD~Anger,79871]] 
+#is_/same_as :: [[../../../../WikiData/WD~Anger,79871|WD~Anger,79871]] 
 
 ## #has_/text_of_/abstract 
 

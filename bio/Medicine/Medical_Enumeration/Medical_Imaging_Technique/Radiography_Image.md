@@ -35,9 +35,9 @@ Tag Instances like this:
 
 Radiography is an imaging technique that uses electromagnetic radiation other than visible light, especially X-rays, to view the internal structure of a non-uniformly composed and opaque object such as the human body.
 
-#has_/parent_class :: [[../MedicalImagingTechnique]]  
+#has_/parent_class :: [[../MedicalImagingTechnique|MedicalImagingTechnique]]  
 
-#is_/enum_of :: [[../MedicalImagingTechnique]]  
+#is_/enum_of :: [[../MedicalImagingTechnique|MedicalImagingTechnique]]  
 
 ## Confidential Links & Embeds: 
 

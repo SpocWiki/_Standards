@@ -36,20 +36,20 @@ aliases:
 - 칸델라
 has_id_wikidata: Q83216
 measured_physical_quantity:
-- '[[_Standards/WikiData/WD~luminous_intensity,104831]]'
-- '[[_Standards/WikiData/WD~luminous_flux,107780]]'
-- '[[_Standards/WikiData/WD~conventional_retinal_illuminance,107164637]]'
-- '[[_Standards/WikiData/WD~natural_pupil_luminance,107165192]]'
+- '[[_Standards/WikiData/WD~luminous_intensity,104831|WD~luminous_intensity,104831]]'
+- '[[_Standards/WikiData/WD~luminous_flux,107780|WD~luminous_flux,107780]]'
+- '[[_Standards/WikiData/WD~conventional_retinal_illuminance,107164637|WD~conventional_retinal_illuminance,107164637]]'
+- '[[_Standards/WikiData/WD~natural_pupil_luminance,107165192|WD~natural_pupil_luminance,107165192]]'
 instance_of:
-- '[[_Standards/WikiData/WD~SI_base_unit,223662]]'
-- '[[_Standards/WikiData/WD~UCUM_base_unit,82047053]]'
-- '[[_Standards/WikiData/WD~unit_of_luminous_intensity,126734908]]'
-replaces: '[[_Standards/WikiData/WD~candlepower,902274]]'
-named_after: '[[_Standards/WikiData/WD~candle,12888135]]'
+- '[[_Standards/WikiData/WD~SI_base_unit,223662|WD~SI_base_unit,223662]]'
+- '[[_Standards/WikiData/WD~UCUM_base_unit,82047053|WD~UCUM_base_unit,82047053]]'
+- '[[_Standards/WikiData/WD~unit_of_luminous_intensity,126734908|WD~unit_of_luminous_intensity,126734908]]'
+replaces: '[[_Standards/WikiData/WD~candlepower,902274|WD~candlepower,902274]]'
+named_after: '[[_Standards/WikiData/WD~candle,12888135|WD~candle,12888135]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~new_candle,21282164]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~new_candle,21282164|WD~new_candle,21282164]]'
 conversion_to_SI_unit: 1
 UCUM_code: cd
 unit_symbol:
@@ -175,7 +175,7 @@ dv_has_:
 # [[Unit~Candela]] ㏅ 
 
 
-#is_a :: [[../SI-Unit]] 
+#is_a :: [[../SI-Unit|SI-Unit]] 
 Unit :: #Unit/SI/cd
 #is_a_/unit_/for_/intensity 
 

@@ -36,16 +36,16 @@ aliases:
 - 難以處理數學學科
 has_id_wikidata: Q742672
 subclass_of:
-- '[[_Standards/WikiData/WD~mathematical_anxiety,845527]]'
-- '[[_Standards/WikiData/WD~learning_disability,860740]]'
-- '[[_Standards/WikiData/WD~disease,12136]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
+- '[[_Standards/WikiData/WD~mathematical_anxiety,845527|WD~mathematical_anxiety,845527]]'
+- '[[_Standards/WikiData/WD~learning_disability,860740|WD~learning_disability,860740]]'
+- '[[_Standards/WikiData/WD~disease,12136|WD~disease,12136]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686|WD~WikiProject_Medicine,4099686]]'
 instance_of:
-- '[[_Standards/WikiData/WD~Mathematical_disorder,79052868]]'
-- '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+- '[[_Standards/WikiData/WD~Mathematical_disorder,79052868|WD~Mathematical_disorder,79052868]]'
+- '[[_Standards/WikiData/WD~class_of_disease,112193867|WD~class_of_disease,112193867]]'
 health_specialty:
-- '[[_Standards/WikiData/WD~neuropsychology,3872]]'
-- '[[_Standards/WikiData/WD~psychiatry,7867]]'
+- '[[_Standards/WikiData/WD~neuropsychology,3872|WD~neuropsychology,3872]]'
+- '[[_Standards/WikiData/WD~psychiatry,7867|WD~psychiatry,7867]]'
 OmegaWiki_Defined_Meaning: 1056375
 ICD_9_CM: 315.1
 DSM_IV_classification: 315.1

@@ -41,13 +41,13 @@ aliases:
 - 차나무과
 has_id_wikidata: Q156574
 has_fruit_type:
-- '[[_Standards/WikiData/WD~capsule,147768]]'
-- '[[_Standards/WikiData/WD~berry,13184]]'
-taxonomic_type: '[[_Standards/WikiData/WD~Thea,163459]]'
-described_by_source: '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_49(3),112869442]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-parent_taxon: '[[../../../../../../../../../../../../WikiData/WD~Ericales,21737]]'
-taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+- '[[_Standards/WikiData/WD~capsule,147768|WD~capsule,147768]]'
+- '[[_Standards/WikiData/WD~berry,13184|WD~berry,13184]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Thea,163459|WD~Thea,163459]]'
+described_by_source: '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_49(3),112869442|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_49(3),112869442]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+parent_taxon: '[[../../../../../../../../../../../../WikiData/WD~Ericales,21737|WD~Ericales,21737]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409|WD~family,35409]]'
 ITIS_TSN: 21371
 taxon_common_name:
 - 山茶科

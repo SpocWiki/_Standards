@@ -148,31 +148,31 @@ official_name:
 - République du Costa Rica
 - Costa Rica
 short_name: "\U0001F1E8\U0001F1F7"
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Costa_Rica,11248317]]'
-driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Costa_Rica,11248317|WD~Portal_Costa_Rica,11248317]]'
+driving_side: '[[_Standards/WikiData/WD~right,14565199|WD~right,14565199]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
 electrical_plug_type:
-- '[[_Standards/WikiData/WD~NEMA_1-15,24288454]]'
-- '[[_Standards/WikiData/WD~NEMA_5-15,24288456]]'
+- '[[_Standards/WikiData/WD~NEMA_1-15,24288454|WD~NEMA_1-15,24288454]]'
+- '[[_Standards/WikiData/WD~NEMA_5-15,24288456|WD~NEMA_5-15,24288456]]'
 permanent_duplicated_item:
-- '[[_Standards/WikiData/WD~Q27103639,27103639]]'
-- '[[_Standards/WikiData/WD~Q111305307,111305307]]'
-office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Costa_Rica,27977064]]'
-office_held_by_head_of_government: '[[_Standards/WikiData/WD~President_of_Costa_Rica,27977064]]'
+- '[[_Standards/WikiData/WD~Q27103639,27103639|WD~Q27103639,27103639]]'
+- '[[_Standards/WikiData/WD~Q111305307,111305307|WD~Q111305307,111305307]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Costa_Rica,27977064|WD~President_of_Costa_Rica,27977064]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~President_of_Costa_Rica,27977064|WD~President_of_Costa_Rica,27977064]]'
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~America_Costa_Rica,63286060]]'
-- '[[_Standards/WikiData/WD~UTC_06_00,5385]]'
+- '[[_Standards/WikiData/WD~America_Costa_Rica,63286060|WD~America_Costa_Rica,63286060]]'
+- '[[_Standards/WikiData/WD~UTC_06_00,5385|WD~UTC_06_00,5385]]'
 part_of:
-- '[[_Standards/WikiData/WD~European_Union_tax_haven_blacklist,66458647]]'
-- '[[_Standards/WikiData/WD~Hispanic_America,653884]]'
-- '[[_Standards/WikiData/WD~Latin_America,12585]]'
-- '[[_Standards/WikiData/WD~Central_America,27611]]'
-head_of_state: '[[_Standards/WikiData/WD~Rodrigo_Chaves,98017689]]'
-head_of_government: '[[_Standards/WikiData/WD~Rodrigo_Chaves,98017689]]'
+- '[[_Standards/WikiData/WD~European_Union_tax_haven_blacklist,66458647|WD~European_Union_tax_haven_blacklist,66458647]]'
+- '[[_Standards/WikiData/WD~Hispanic_America,653884|WD~Hispanic_America,653884]]'
+- '[[_Standards/WikiData/WD~Latin_America,12585|WD~Latin_America,12585]]'
+- '[[_Standards/WikiData/WD~Central_America,27611|WD~Central_America,27611]]'
+head_of_state: '[[_Standards/WikiData/WD~Rodrigo_Chaves,98017689|WD~Rodrigo_Chaves,98017689]]'
+head_of_government: '[[_Standards/WikiData/WD~Rodrigo_Chaves,98017689|WD~Rodrigo_Chaves,98017689]]'
 nominal_GDP:
 - 68380838316
 - 64616482168
@@ -180,81 +180,81 @@ coordinates_of_easternmost_point: Point(-87.09442 5.51879)
 coordinate_location: Point(-84.0 10.0)
 coordinates_of_northernmost_point: Point(-85.62 11.22)
 member_of:
-- '[[_Standards/WikiData/WD~Organization_of_American_States,123759]]'
-- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]'
-- '[[_Standards/WikiData/WD~Central_American_Bank_for_Economic_Integration,190008]]'
-- '[[_Standards/WikiData/WD~Central_American_Common_Market,190019]]'
-- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
-- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]'
-- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
-- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
-- '[[_Standards/WikiData/WD~International_Development_Association,827525]]'
-- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
-- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
-- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
-- '[[_Standards/WikiData/WD~International_Regional_Organization_for_Agricultural_Health,3356166]]'
-- '[[_Standards/WikiData/WD~Agency_for_the_Prohibition_of_Nuclear_Weapons_in_Latin_America_and_the_Caribbean,3369762]]'
-- '[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]'
-- '[[_Standards/WikiData/WD~United_Nations,1065]]'
-- '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
-- '[[_Standards/WikiData/WD~World_Trade_Organization,7825]]'
-- '[[_Standards/WikiData/WD~Interpol,8475]]'
-- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
-- '[[_Standards/WikiData/WD~Organization_for_Economic_Cooperation_and_Development,41550]]'
-flag: '[[_Standards/WikiData/WD~flag_of_Costa_Rica,170289]]'
-coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Costa_Rica,206398]]'
-highest_point: '[[_Standards/WikiData/WD~Cerro_Chirripó,252362]]'
-anthem: '[[_Standards/WikiData/WD~Noble_patria,_tu_hermosa_bandera,471849]]'
+- '[[_Standards/WikiData/WD~Organization_of_American_States,123759|WD~Organization_of_American_States,123759]]'
+- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
+- '[[_Standards/WikiData/WD~Central_American_Bank_for_Economic_Integration,190008|WD~Central_American_Bank_for_Economic_Integration,190008]]'
+- '[[_Standards/WikiData/WD~Central_American_Common_Market,190019|WD~Central_American_Common_Market,190019]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150|WD~International_Telecommunication_Union,376150]]'
+- '[[_Standards/WikiData/WD~World_Customs_Organization,605326|WD~World_Customs_Organization,605326]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801|WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~International_Development_Association,827525|WD~International_Development_Association,827525]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490|WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770|WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
+- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527|WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[_Standards/WikiData/WD~International_Regional_Organization_for_Agricultural_Health,3356166|WD~International_Regional_Organization_for_Agricultural_Health,3356166]]'
+- '[[_Standards/WikiData/WD~Agency_for_the_Prohibition_of_Nuclear_Weapons_in_Latin_America_and_the_Caribbean,3369762|WD~Agency_for_the_Prohibition_of_Nuclear_Weapons_in_Latin_America_and_the_Caribbean,3369762]]'
+- '[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262|WD~Group_on_Earth_Observations,5611262]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809|WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817|WD~World_Health_Organization,7817]]'
+- '[[_Standards/WikiData/WD~World_Trade_Organization,7825|WD~World_Trade_Organization,7825]]'
+- '[[_Standards/WikiData/WD~Interpol,8475|WD~Interpol,8475]]'
+- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495|WD~Universal_Postal_Union_UPU,17495]]'
+- '[[_Standards/WikiData/WD~Organization_for_Economic_Cooperation_and_Development,41550|WD~Organization_for_Economic_Cooperation_and_Development,41550]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Costa_Rica,170289|WD~flag_of_Costa_Rica,170289]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Costa_Rica,206398|WD~coat_of_arms_of_Costa_Rica,206398]]'
+highest_point: '[[_Standards/WikiData/WD~Cerro_Chirripó,252362|WD~Cerro_Chirripó,252362]]'
+anthem: '[[_Standards/WikiData/WD~Noble_patria,_tu_hermosa_bandera,471849|WD~Noble_patria,_tu_hermosa_bandera,471849]]'
 contains_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Puntarenas_Province,502170]]'
-- '[[_Standards/WikiData/WD~Cartago_Province,502181]]'
-- '[[_Standards/WikiData/WD~Alajuela_Province,502188]]'
-- '[[_Standards/WikiData/WD~Heredia_Province,502192]]'
-- '[[_Standards/WikiData/WD~Limón_Province,642644]]'
-- '[[_Standards/WikiData/WD~San_José_Province,647808]]'
-- '[[_Standards/WikiData/WD~Guanacaste_Province,690026]]'
-emergency_phone_number: '[[_Standards/WikiData/WD~911,533806]]'
-geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Costa_Rica,738314]]'
-legislative_body: '[[_Standards/WikiData/WD~Legislative_Assembly_of_Costa_Rica,1386962]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_Costa_Rica,1516374]]'
-culture: '[[_Standards/WikiData/WD~culture_of_Costa_Rica,2374224]]'
-demographics_of_topic: '[[_Standards/WikiData/WD~Demographics_of_Costa_Rica,2465669]]'
-economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Costa_Rica,2477593]]'
-has_characteristic: '[[_Standards/WikiData/WD~free_country,3174312]]'
+- '[[_Standards/WikiData/WD~Puntarenas_Province,502170|WD~Puntarenas_Province,502170]]'
+- '[[_Standards/WikiData/WD~Cartago_Province,502181|WD~Cartago_Province,502181]]'
+- '[[_Standards/WikiData/WD~Alajuela_Province,502188|WD~Alajuela_Province,502188]]'
+- '[[_Standards/WikiData/WD~Heredia_Province,502192|WD~Heredia_Province,502192]]'
+- '[[_Standards/WikiData/WD~Limón_Province,642644|WD~Limón_Province,642644]]'
+- '[[_Standards/WikiData/WD~San_José_Province,647808|WD~San_José_Province,647808]]'
+- '[[_Standards/WikiData/WD~Guanacaste_Province,690026|WD~Guanacaste_Province,690026]]'
+emergency_phone_number: '[[_Standards/WikiData/WD~911,533806|WD~911,533806]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Costa_Rica,738314|WD~geography_of_Costa_Rica,738314]]'
+legislative_body: '[[_Standards/WikiData/WD~Legislative_Assembly_of_Costa_Rica,1386962|WD~Legislative_Assembly_of_Costa_Rica,1386962]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Costa_Rica,1516374|WD~history_of_Costa_Rica,1516374]]'
+culture: '[[_Standards/WikiData/WD~culture_of_Costa_Rica,2374224|WD~culture_of_Costa_Rica,2374224]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~Demographics_of_Costa_Rica,2465669|WD~Demographics_of_Costa_Rica,2465669]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Costa_Rica,2477593|WD~economy_of_Costa_Rica,2477593]]'
+has_characteristic: '[[_Standards/WikiData/WD~free_country,3174312|WD~free_country,3174312]]'
 instance_of:
-- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
-- '[[_Standards/WikiData/WD~country,6256]]'
+- '[[_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~country,6256|WD~country,6256]]'
 language_used:
-- '[[_Standards/WikiData/WD~Guaymí,3915581]]'
-- '[[_Standards/WikiData/WD~Maléku,3915782]]'
-- '[[_Standards/WikiData/WD~Boruca,4946773]]'
-- '[[_Standards/WikiData/WD~Costa_Rican_Sign_Language,5174901]]'
-- '[[_Standards/WikiData/WD~Spanish,1321]]'
-- '[[_Standards/WikiData/WD~Cabécar,27878]]'
-- '[[_Standards/WikiData/WD~Bribri,28400]]'
-patron_saint: '[[_Standards/WikiData/WD~Virgin_of_the_Angels,3949145]]'
-central_bank: '[[_Standards/WikiData/WD~Central_Bank_of_Costa_Rica,4504273]]'
-replaces: '[[_Standards/WikiData/WD~Mosquitia,6037274]]'
+- '[[_Standards/WikiData/WD~Guaymí,3915581|WD~Guaymí,3915581]]'
+- '[[_Standards/WikiData/WD~Maléku,3915782|WD~Maléku,3915782]]'
+- '[[_Standards/WikiData/WD~Boruca,4946773|WD~Boruca,4946773]]'
+- '[[_Standards/WikiData/WD~Costa_Rican_Sign_Language,5174901|WD~Costa_Rican_Sign_Language,5174901]]'
+- '[[_Standards/WikiData/WD~Spanish,1321|WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~Cabécar,27878|WD~Cabécar,27878]]'
+- '[[_Standards/WikiData/WD~Bribri,28400|WD~Bribri,28400]]'
+patron_saint: '[[_Standards/WikiData/WD~Virgin_of_the_Angels,3949145|WD~Virgin_of_the_Angels,3949145]]'
+central_bank: '[[_Standards/WikiData/WD~Central_Bank_of_Costa_Rica,4504273|WD~Central_Bank_of_Costa_Rica,4504273]]'
+replaces: '[[_Standards/WikiData/WD~Mosquitia,6037274|WD~Mosquitia,6037274]]'
 diplomatic_relation:
-- '[[_Standards/WikiData/WD~Mosquitia,6037274]]'
-- '[[_Standards/WikiData/WD~Chile,298]]'
-- '[[_Standards/WikiData/WD~Australia,408]]'
-- '[[_Standards/WikiData/WD~North_Korea,423]]'
-- '[[_Standards/WikiData/WD~Taiwan,865]]'
-- '[[_Standards/WikiData/WD~Kosovo,1246]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~Hungary,28]]'
-- '[[_Standards/WikiData/WD~Denmark,35]]'
-- '[[_Standards/WikiData/WD~Uruguay,77]]'
-- '[[_Standards/WikiData/WD~Mexico,96]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Brazil,155]]'
-- '[[_Standards/WikiData/WD~Russia,159]]'
-- '[[_Standards/WikiData/WD~Germany,183]]'
-- '[[_Standards/WikiData/WD~Georgia,230]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Provinces_of_Costa_Rica,6084637]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Costa_Rica,7112238]]'
+- '[[_Standards/WikiData/WD~Mosquitia,6037274|WD~Mosquitia,6037274]]'
+- '[[_Standards/WikiData/WD~Chile,298|WD~Chile,298]]'
+- '[[_Standards/WikiData/WD~Australia,408|WD~Australia,408]]'
+- '[[_Standards/WikiData/WD~North_Korea,423|WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~Kosovo,1246|WD~Kosovo,1246]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Hungary,28|WD~Hungary,28]]'
+- '[[_Standards/WikiData/WD~Denmark,35|WD~Denmark,35]]'
+- '[[_Standards/WikiData/WD~Uruguay,77|WD~Uruguay,77]]'
+- '[[_Standards/WikiData/WD~Mexico,96|WD~Mexico,96]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Brazil,155|WD~Brazil,155]]'
+- '[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Georgia,230|WD~Georgia,230]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Provinces_of_Costa_Rica,6084637|WD~Template_Provinces_of_Costa_Rica,6084637]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Costa_Rica,7112238|WD~outline_of_Costa_Rica,7112238]]'
 geoshape: http://commons.wikimedia.org/data/main/Data:Costa+Rica.map
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Costa%20Rica%20%28orthographic%20projection%29.svg
 pronunciation_audio:
@@ -267,17 +267,17 @@ ISNI: 000000012248346X
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Costa%20Rica%20WV%20banner.jpg
 official_website: https://www.presidencia.go.cr/
 MeSH_tree_code: Z01.107.169.238
-country: '[[_Standards/WikiData/WD~Costa_Rica,800]]'
+country: '[[_Standards/WikiData/WD~Costa_Rica,800|WD~Costa_Rica,800]]'
 shares_border_with:
-- '[[_Standards/WikiData/WD~Panama,804]]'
-- '[[_Standards/WikiData/WD~Nicaragua,811]]'
-lowest_point: '[[_Standards/WikiData/WD~Caribbean_Sea,1247]]'
+- '[[_Standards/WikiData/WD~Panama,804|WD~Panama,804]]'
+- '[[_Standards/WikiData/WD~Nicaragua,811|WD~Nicaragua,811]]'
+lowest_point: '[[_Standards/WikiData/WD~Caribbean_Sea,1247|WD~Caribbean_Sea,1247]]'
 located_in_or_next_to_body_of_water:
-- '[[_Standards/WikiData/WD~Caribbean_Sea,1247]]'
-- '[[_Standards/WikiData/WD~Pacific_Ocean,98]]'
-official_language: '[[_Standards/WikiData/WD~Spanish,1321]]'
-capital: '[[_Standards/WikiData/WD~San_José,3070]]'
-continent: '[[_Standards/WikiData/WD~North_America,49]]'
+- '[[_Standards/WikiData/WD~Caribbean_Sea,1247|WD~Caribbean_Sea,1247]]'
+- '[[_Standards/WikiData/WD~Pacific_Ocean,98|WD~Pacific_Ocean,98]]'
+official_language: '[[_Standards/WikiData/WD~Spanish,1321|WD~Spanish,1321]]'
+capital: '[[_Standards/WikiData/WD~San_José,3070|WD~San_José,3070]]'
+continent: '[[_Standards/WikiData/WD~North_America,49|WD~North_America,49]]'
 unemployment_rate: 8
 mains_voltage: 120
 VAT_rate: 13
@@ -291,7 +291,7 @@ BTI_Status_Index:
 - 8.74
 - 8.84
 - 8.86
-top_level_Internet_domain: '[[_Standards/WikiData/WD~.cr,40973]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.cr,40973|WD~.cr,40973]]'
 Gini_coefficient: 49.3
 Happy_Planet_Index_score: 62.1
 Inequality_adjusted_Human_Development_Index: 0.664
@@ -837,7 +837,7 @@ is_different_from = `=this.dv_is_different_from`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Costa_Rica/ReadMe]] 
+[[Costa_Rica/ReadMe|ReadMe]] 
 
 ## #has_/map  
 
@@ -856,11 +856,11 @@ Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
-Capital :: [[Costa_Rica/provinces~Costa_Rica/San_José/City/San_José=San_Jose]]  
+Capital :: [[Costa_Rica/provinces~Costa_Rica/San_José/City/San_José=San_Jose|San_José=San_Jose]]  
 
 ![[Costa_Rica/Coat_of_arms_of_Costa_Rica.svg|350]]
 
-![[../../../../_public/xLarge.public/National-Anthem/Anthem-Costa-rica.mp3]]
+![[../../../../_public/xLarge.public/National-Anthem/Anthem-Costa-rica.mp3|Anthem-Costa-rica.mp3]]
 
 ![[Costa_Rica/Flag_of_Costa_Rica.svg|350]]
 

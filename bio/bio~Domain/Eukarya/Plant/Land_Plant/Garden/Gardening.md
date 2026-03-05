@@ -94,26 +94,26 @@ aliases:
 - 정원 가꾸기
 has_id_wikidata: Q124946
 practiced_by:
-- '[[_Standards/WikiData/WD~gardener,758780]]'
-- '[[_Standards/WikiData/WD~garden_consultant,77958773]]'
-- '[[_Standards/WikiData/WD~hobby_gardener,112119524]]'
-location: '[[_Standards/WikiData/WD~garden,1107656]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_gardening,1361707]]'
-uses: '[[_Standards/WikiData/WD~garden_tool,1494647]]'
+- '[[_Standards/WikiData/WD~gardener,758780|WD~gardener,758780]]'
+- '[[_Standards/WikiData/WD~garden_consultant,77958773|WD~garden_consultant,77958773]]'
+- '[[_Standards/WikiData/WD~hobby_gardener,112119524|WD~hobby_gardener,112119524]]'
+location: '[[_Standards/WikiData/WD~garden,1107656|WD~garden,1107656]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_gardening,1361707|WD~history_of_gardening,1361707]]'
+uses: '[[_Standards/WikiData/WD~garden_tool,1494647|WD~garden_tool,1494647]]'
 instance_of:
-- '[[_Standards/WikiData/WD~branch_of_agriculture,5687161]]'
-- '[[_Standards/WikiData/WD~hobby,47728]]'
-has_list: '[[_Standards/WikiData/WD~list_of_garden_types,6621504]]'
+- '[[_Standards/WikiData/WD~branch_of_agriculture,5687161|WD~branch_of_agriculture,5687161]]'
+- '[[_Standards/WikiData/WD~hobby,47728|WD~hobby,47728]]'
+has_list: '[[_Standards/WikiData/WD~list_of_garden_types,6621504|WD~list_of_garden_types,6621504]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Horticulture_and_gardening,10797217]]'
-- '[[_Standards/WikiData/WD~Template_Gardening,10797231]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Gardening,10814990]]'
+- '[[_Standards/WikiData/WD~Template_Horticulture_and_gardening,10797217|WD~Template_Horticulture_and_gardening,10797217]]'
+- '[[_Standards/WikiData/WD~Template_Gardening,10797231|WD~Template_Gardening,10797231]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Gardening,10814990|WD~Portal_Gardening,10814990]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~hobby,47728]]'
-- '[[_Standards/WikiData/WD~horticulture,48803]]'
+- '[[_Standards/WikiData/WD~hobby,47728|WD~hobby,47728]]'
+- '[[_Standards/WikiData/WD~horticulture,48803|WD~horticulture,48803]]'
 Dewey_Decimal_Classification: 635
 IAB_code: 275
 Colon_Classification: J1

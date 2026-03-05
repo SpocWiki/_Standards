@@ -66,13 +66,13 @@ aliases:
 - 초원
 has_id_wikidata: Q1006733
 subclass_of:
-- '[[_Standards/WikiData/WD~biome,101998]]'
-- '[[_Standards/WikiData/WD~vegetational_formation,2083910]]'
-different_from: '[[_Standards/WikiData/WD~lawn,207766]]'
+- '[[_Standards/WikiData/WD~biome,101998|WD~biome,101998]]'
+- '[[_Standards/WikiData/WD~vegetational_formation,2083910|WD~vegetational_formation,2083910]]'
+different_from: '[[_Standards/WikiData/WD~lawn,207766|WD~lawn,207766]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823|WD~Encyclopedia_of_Armenian_Nature,16387823]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Khao%20Yai%2C%20Thailand%2C%20Tropical%20grasslands.jpg
 equivalent_class: http://purl.obolibrary.org/obo/ENVO_00000106
 exact_match: http://purl.obolibrary.org/obo/ENVO_01001206

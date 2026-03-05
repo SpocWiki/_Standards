@@ -98,14 +98,14 @@ aliases:
 - 内分泌系统
 - 내분비계
 has_id_wikidata: Q11078
-studied_by: '[[_Standards/WikiData/WD~endocrinology,162606]]'
-part_of: '[[_Standards/WikiData/WD~organ_system,188193]]'
-development_of_anatomical_structure: '[[_Standards/WikiData/WD~endocrine_system_development,21425993]]'
-opposite_of: '[[_Standards/WikiData/WD~exocrine_system,28539636]]'
-instance_of: '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]'
+studied_by: '[[_Standards/WikiData/WD~endocrinology,162606|WD~endocrinology,162606]]'
+part_of: '[[_Standards/WikiData/WD~organ_system,188193|WD~organ_system,188193]]'
+development_of_anatomical_structure: '[[_Standards/WikiData/WD~endocrine_system_development,21425993|WD~endocrine_system_development,21425993]]'
+opposite_of: '[[_Standards/WikiData/WD~exocrine_system,28539636|WD~exocrine_system,28539636]]'
+instance_of: '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905|WD~class_of_anatomical_entity,112826905]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]'
-- '[[_Standards/WikiData/WD~glandular_system,126129074]]'
+- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975|WD~particular_anatomical_entity,112826975]]'
+- '[[_Standards/WikiData/WD~glandular_system,126129074|WD~glandular_system,126129074]]'
 MeSH_tree_code: A06
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Endocrine%20English.svg
 Iconclass_notation: 49G615

@@ -200,7 +200,7 @@ dv_has_:
 
 # [[Procaryote]]  
 
-This is a Super-[[../Taxon~Domain]]. 
+This is a Super-[[../Taxon~Domain|Taxon~Domain]]. 
 
 #has_/complement :: [[Eukaryote]] 
 #has_/parts :: [[Archaea]] 

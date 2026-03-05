@@ -96,23 +96,23 @@ aliases:
 - 예방접종
 has_id_wikidata: Q192995
 uses:
-- '[[_Standards/WikiData/WD~vaccine,134808]]'
-- '[[_Standards/WikiData/WD~injection,245359]]'
-instance_of: '[[_Standards/WikiData/WD~medical_treatment,179661]]'
+- '[[_Standards/WikiData/WD~vaccine,134808|WD~vaccine,134808]]'
+- '[[_Standards/WikiData/WD~injection,245359|WD~injection,245359]]'
+instance_of: '[[_Standards/WikiData/WD~medical_treatment,179661|WD~medical_treatment,179661]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543|WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~preventive_medicine,1773974]]'
-- '[[_Standards/WikiData/WD~active_immunotherapy,4677560]]'
-has_effect: '[[_Standards/WikiData/WD~active_immunity,70710352]]'
-opposite_of: '[[_Standards/WikiData/WD~antibody_injection,91623919]]'
+- '[[_Standards/WikiData/WD~preventive_medicine,1773974|WD~preventive_medicine,1773974]]'
+- '[[_Standards/WikiData/WD~active_immunotherapy,4677560|WD~active_immunotherapy,4677560]]'
+has_effect: '[[_Standards/WikiData/WD~active_immunity,70710352|WD~active_immunity,70710352]]'
+opposite_of: '[[_Standards/WikiData/WD~antibody_injection,91623919|WD~antibody_injection,91623919]]'
 ICD_9_CM:
 - 99.5
 - 99.3

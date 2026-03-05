@@ -128,145 +128,145 @@ aliases:
 - "\U0001102B\U00011016\U00011046\U0001102D\U00011029"
 has_id_wikidata: Q1028
 named_after:
-- '[[_Standards/WikiData/WD~Marrakesh,101625]]'
-- '[[_Standards/WikiData/WD~Mauri_people,6792792]]'
-- '[[_Standards/WikiData/WD~west,679]]'
+- '[[_Standards/WikiData/WD~Marrakesh,101625|WD~Marrakesh,101625]]'
+- '[[_Standards/WikiData/WD~Mauri_people,6792792|WD~Mauri_people,6792792]]'
+- '[[_Standards/WikiData/WD~west,679|WD~west,679]]'
 member_of:
-- '[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]'
-- '[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]'
-- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]'
-- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
-- '[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]'
-- '[[_Standards/WikiData/WD~African_Development_Bank,340195]]'
-- '[[_Standards/WikiData/WD~Arab_Maghreb_Union,370862]]'
-- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]'
-- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
-- '[[_Standards/WikiData/WD~Arab_Monetary_Fund,624307]]'
-- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
-- '[[_Standards/WikiData/WD~Eurocontrol,663492]]'
-- '[[_Standards/WikiData/WD~International_Development_Association,827525]]'
-- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
-- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
-- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
-- '[[_Standards/WikiData/WD~Arab_Fund_for_Economic_and_Social_Development,1137381]]'
-- '[[_Standards/WikiData/WD~Arab_Bank_for_Economic_Development_in_Africa,4783148]]'
-- '[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]'
-- '[[_Standards/WikiData/WD~International_Atomic_Energy_Agency,41984]]'
-- '[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543]]'
-- '[[_Standards/WikiData/WD~United_Nations,1065]]'
-- '[[_Standards/WikiData/WD~African_Union,7159]]'
-- '[[_Standards/WikiData/WD~Arab_League,7172]]'
-- '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
-- '[[_Standards/WikiData/WD~World_Trade_Organization,7825]]'
-- '[[_Standards/WikiData/WD~Interpol,8475]]'
-- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
-- '[[_Standards/WikiData/WD~Maghreb,28227]]'
-flag: '[[_Standards/WikiData/WD~flag_of_Morocco,159865]]'
+- '[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102|WD~Organisation_internationale_de_la_Francophonie,134102]]'
+- '[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656|WD~International_Civil_Defence_Organisation,162656]]'
+- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611|WD~International_Hydrographic_Organization,233611]]'
+- '[[_Standards/WikiData/WD~African_Development_Bank,340195|WD~African_Development_Bank,340195]]'
+- '[[_Standards/WikiData/WD~Arab_Maghreb_Union,370862|WD~Arab_Maghreb_Union,370862]]'
+- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150|WD~International_Telecommunication_Union,376150]]'
+- '[[_Standards/WikiData/WD~World_Customs_Organization,605326|WD~World_Customs_Organization,605326]]'
+- '[[_Standards/WikiData/WD~Arab_Monetary_Fund,624307|WD~Arab_Monetary_Fund,624307]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801|WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~Eurocontrol,663492|WD~Eurocontrol,663492]]'
+- '[[_Standards/WikiData/WD~International_Development_Association,827525|WD~International_Development_Association,827525]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490|WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770|WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
+- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527|WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[_Standards/WikiData/WD~Arab_Fund_for_Economic_and_Social_Development,1137381|WD~Arab_Fund_for_Economic_and_Social_Development,1137381]]'
+- '[[_Standards/WikiData/WD~Arab_Bank_for_Economic_Development_in_Africa,4783148|WD~Arab_Bank_for_Economic_Development_in_Africa,4783148]]'
+- '[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262|WD~Group_on_Earth_Observations,5611262]]'
+- '[[_Standards/WikiData/WD~International_Atomic_Energy_Agency,41984|WD~International_Atomic_Energy_Agency,41984]]'
+- '[[_Standards/WikiData/WD~Organisation_of_Islamic_Cooperation,47543|WD~Organisation_of_Islamic_Cooperation,47543]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~African_Union,7159|WD~African_Union,7159]]'
+- '[[_Standards/WikiData/WD~Arab_League,7172|WD~Arab_League,7172]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809|WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817|WD~World_Health_Organization,7817]]'
+- '[[_Standards/WikiData/WD~World_Trade_Organization,7825|WD~World_Trade_Organization,7825]]'
+- '[[_Standards/WikiData/WD~Interpol,8475|WD~Interpol,8475]]'
+- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495|WD~Universal_Postal_Union_UPU,17495]]'
+- '[[_Standards/WikiData/WD~Maghreb,28227|WD~Maghreb,28227]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Morocco,159865|WD~flag_of_Morocco,159865]]'
 public_holiday:
-- '[[_Standards/WikiData/WD~Mawlid,193027]]'
-- "[[_Standards/WikiData/WD~New_Year's_Day,196627]]"
-- "[[_Standards/WikiData/WD~Isra_and_Mi'raj,381240]]"
-- '[[_Standards/WikiData/WD~Eid_al-Fitr,464458]]'
-- '[[_Standards/WikiData/WD~Eid_al-Adha,514400]]'
-- '[[_Standards/WikiData/WD~Islamic_New_Year,922388]]'
-- '[[_Standards/WikiData/WD~Youth_Day,946446]]'
-- '[[_Standards/WikiData/WD~Yennayer,3572171]]'
-- '[[_Standards/WikiData/WD~Revolution_of_the_King_and_the_People,6755512]]'
-- '[[_Standards/WikiData/WD~Throne_Day,20393998]]'
-- '[[_Standards/WikiData/WD~Proclamation_of_Independence_of_Morocco,60845731]]'
-- '[[_Standards/WikiData/WD~New_Year,34812]]'
-- "[[_Standards/WikiData/WD~International_Workers'_Day,47499]]"
-- '[[_Standards/WikiData/WD~August_14,2775]]'
-coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Morocco,211232]]'
-anthem: '[[_Standards/WikiData/WD~Cherifian_Anthem,238826]]'
-culture: '[[_Standards/WikiData/WD~culture_of_Morocco,286806]]'
+- '[[_Standards/WikiData/WD~Mawlid,193027|WD~Mawlid,193027]]'
+- "[[_Standards/WikiData/WD~New_Year's_Day,196627|WD~New_Year's_Day,196627]]"
+- "[[_Standards/WikiData/WD~Isra_and_Mi'raj,381240|WD~Isra_and_Mi'raj,381240]]"
+- '[[_Standards/WikiData/WD~Eid_al-Fitr,464458|WD~Eid_al-Fitr,464458]]'
+- '[[_Standards/WikiData/WD~Eid_al-Adha,514400|WD~Eid_al-Adha,514400]]'
+- '[[_Standards/WikiData/WD~Islamic_New_Year,922388|WD~Islamic_New_Year,922388]]'
+- '[[_Standards/WikiData/WD~Youth_Day,946446|WD~Youth_Day,946446]]'
+- '[[_Standards/WikiData/WD~Yennayer,3572171|WD~Yennayer,3572171]]'
+- '[[_Standards/WikiData/WD~Revolution_of_the_King_and_the_People,6755512|WD~Revolution_of_the_King_and_the_People,6755512]]'
+- '[[_Standards/WikiData/WD~Throne_Day,20393998|WD~Throne_Day,20393998]]'
+- '[[_Standards/WikiData/WD~Proclamation_of_Independence_of_Morocco,60845731|WD~Proclamation_of_Independence_of_Morocco,60845731]]'
+- '[[_Standards/WikiData/WD~New_Year,34812|WD~New_Year,34812]]'
+- "[[_Standards/WikiData/WD~International_Workers'_Day,47499|WD~International_Workers'_Day,47499]]"
+- '[[_Standards/WikiData/WD~August_14,2775|WD~August_14,2775]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Morocco,211232|WD~coat_of_arms_of_Morocco,211232]]'
+anthem: '[[_Standards/WikiData/WD~Cherifian_Anthem,238826|WD~Cherifian_Anthem,238826]]'
+culture: '[[_Standards/WikiData/WD~culture_of_Morocco,286806|WD~culture_of_Morocco,286806]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Neunter_Band,131719188]]'
-central_bank: '[[_Standards/WikiData/WD~Bank_Al-Maghrib,328198]]'
-replaces: '[[_Standards/WikiData/WD~Spanish_protectorate_in_Morocco,457242]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_Morocco,472658]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546|WD~Great_Complete_Encyclopedia_of_All_Sciences_and_Arts,1547546]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~1922_Encyclopædia_Britannica,15987490|WD~1922_Encyclopædia_Britannica,15987490]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Neunter_Band,131719188|WD~Meyer_s_Universum,_Neunter_Band,131719188]]'
+central_bank: '[[_Standards/WikiData/WD~Bank_Al-Maghrib,328198|WD~Bank_Al-Maghrib,328198]]'
+replaces: '[[_Standards/WikiData/WD~Spanish_protectorate_in_Morocco,457242|WD~Spanish_protectorate_in_Morocco,457242]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Morocco,472658|WD~history_of_Morocco,472658]]'
 different_from:
-- '[[_Standards/WikiData/WD~Morocco,488261]]'
-- '[[_Standards/WikiData/WD~Marokko,2302614]]'
-highest_point: '[[_Standards/WikiData/WD~Jbel_Toubkal,503433]]'
-economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Morocco,615580]]'
+- '[[_Standards/WikiData/WD~Morocco,488261|WD~Morocco,488261]]'
+- '[[_Standards/WikiData/WD~Marokko,2302614|WD~Marokko,2302614]]'
+highest_point: '[[_Standards/WikiData/WD~Jbel_Toubkal,503433|WD~Jbel_Toubkal,503433]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Morocco,615580|WD~economy_of_Morocco,615580]]'
 electrical_plug_type:
-- '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- '[[_Standards/WikiData/WD~Type_E,2335536]]'
-head_of_government: '[[_Standards/WikiData/WD~Aziz_Akhannouch,1638114]]'
-geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Morocco,1977556]]'
-demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Morocco,2593833]]'
-highest_judicial_authority: '[[_Standards/WikiData/WD~Supreme_Court_of_Morocco,3001004]]'
-legislative_body: '[[_Standards/WikiData/WD~Parliament_of_Morocco,3004884]]'
+- '[[_Standards/WikiData/WD~Europlug,1378312|WD~Europlug,1378312]]'
+- '[[_Standards/WikiData/WD~Type_E,2335536|WD~Type_E,2335536]]'
+head_of_government: '[[_Standards/WikiData/WD~Aziz_Akhannouch,1638114|WD~Aziz_Akhannouch,1638114]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Morocco,1977556|WD~geography_of_Morocco,1977556]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Morocco,2593833|WD~demographics_of_Morocco,2593833]]'
+highest_judicial_authority: '[[_Standards/WikiData/WD~Supreme_Court_of_Morocco,3001004|WD~Supreme_Court_of_Morocco,3001004]]'
+legislative_body: '[[_Standards/WikiData/WD~Parliament_of_Morocco,3004884|WD~Parliament_of_Morocco,3004884]]'
 language_used:
-- '[[_Standards/WikiData/WD~Sud_Oranais-Gourara,3063974]]'
-- '[[_Standards/WikiData/WD~Moroccan_Sign_Language,6913107]]'
-- '[[_Standards/WikiData/WD~Standard_Moroccan_Amazigh,7598268]]'
-- '[[_Standards/WikiData/WD~French,150]]'
-- '[[_Standards/WikiData/WD~Tachelhit,34152]]'
-- '[[_Standards/WikiData/WD~Tarifit,34174]]'
-- '[[_Standards/WikiData/WD~Ghomara,35315]]'
-- '[[_Standards/WikiData/WD~Central_Atlas_Tamazight,49741]]'
-- '[[_Standards/WikiData/WD~Hassaniya_Arabic,56231]]'
-- '[[_Standards/WikiData/WD~Moroccan_Arabic,56426]]'
-- '[[_Standards/WikiData/WD~Modern_Standard_Arabic,56467]]'
-- '[[_Standards/WikiData/WD~Sanhaja_de_Srair,56744]]'
-- '[[_Standards/WikiData/WD~Spanish,1321]]'
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~Malay,9237]]'
-- '[[_Standards/WikiData/WD~Arabic,13955]]'
-visitor_center: '[[_Standards/WikiData/WD~Moroccan_National_Tourism_Office,3349668]]'
-lowest_point: '[[_Standards/WikiData/WD~Sebkha_Tah,3476951]]'
+- '[[_Standards/WikiData/WD~Sud_Oranais-Gourara,3063974|WD~Sud_Oranais-Gourara,3063974]]'
+- '[[_Standards/WikiData/WD~Moroccan_Sign_Language,6913107|WD~Moroccan_Sign_Language,6913107]]'
+- '[[_Standards/WikiData/WD~Standard_Moroccan_Amazigh,7598268|WD~Standard_Moroccan_Amazigh,7598268]]'
+- '[[_Standards/WikiData/WD~French,150|WD~French,150]]'
+- '[[_Standards/WikiData/WD~Tachelhit,34152|WD~Tachelhit,34152]]'
+- '[[_Standards/WikiData/WD~Tarifit,34174|WD~Tarifit,34174]]'
+- '[[_Standards/WikiData/WD~Ghomara,35315|WD~Ghomara,35315]]'
+- '[[_Standards/WikiData/WD~Central_Atlas_Tamazight,49741|WD~Central_Atlas_Tamazight,49741]]'
+- '[[_Standards/WikiData/WD~Hassaniya_Arabic,56231|WD~Hassaniya_Arabic,56231]]'
+- '[[_Standards/WikiData/WD~Moroccan_Arabic,56426|WD~Moroccan_Arabic,56426]]'
+- '[[_Standards/WikiData/WD~Modern_Standard_Arabic,56467|WD~Modern_Standard_Arabic,56467]]'
+- '[[_Standards/WikiData/WD~Sanhaja_de_Srair,56744|WD~Sanhaja_de_Srair,56744]]'
+- '[[_Standards/WikiData/WD~Spanish,1321|WD~Spanish,1321]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Malay,9237|WD~Malay,9237]]'
+- '[[_Standards/WikiData/WD~Arabic,13955|WD~Arabic,13955]]'
+visitor_center: '[[_Standards/WikiData/WD~Moroccan_National_Tourism_Office,3349668|WD~Moroccan_National_Tourism_Office,3349668]]'
+lowest_point: '[[_Standards/WikiData/WD~Sebkha_Tah,3476951|WD~Sebkha_Tah,3476951]]'
 instance_of:
-- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
-- '[[_Standards/WikiData/WD~Mediterranean_country,51576574]]'
-- '[[_Standards/WikiData/WD~constitutional_monarchy,41614]]'
-- '[[_Standards/WikiData/WD~country,6256]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Morocco,4540130]]'
+- '[[_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~Mediterranean_country,51576574|WD~Mediterranean_country,51576574]]'
+- '[[_Standards/WikiData/WD~constitutional_monarchy,41614|WD~constitutional_monarchy,41614]]'
+- '[[_Standards/WikiData/WD~country,6256|WD~country,6256]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Morocco,4540130|WD~Portal_Morocco,4540130]]'
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~Africa_Casablanca,4689485]]'
-- '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
-- '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
-ethnic_group: '[[_Standards/WikiData/WD~Arab-Berber,4783129]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Morocco,7112370]]'
+- '[[_Standards/WikiData/WD~Africa_Casablanca,4689485|WD~Africa_Casablanca,4689485]]'
+- '[[_Standards/WikiData/WD~UTC_00_00,6574|WD~UTC_00_00,6574]]'
+- '[[_Standards/WikiData/WD~UTC+01_00,6655|WD~UTC+01_00,6655]]'
+ethnic_group: '[[_Standards/WikiData/WD~Arab-Berber,4783129|WD~Arab-Berber,4783129]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Morocco,7112370|WD~outline_of_Morocco,7112370]]'
 official_language:
-- '[[_Standards/WikiData/WD~Standard_Moroccan_Amazigh,7598268]]'
-- '[[_Standards/WikiData/WD~Arabic,13955]]'
+- '[[_Standards/WikiData/WD~Standard_Moroccan_Amazigh,7598268|WD~Standard_Moroccan_Amazigh,7598268]]'
+- '[[_Standards/WikiData/WD~Arabic,13955|WD~Arabic,13955]]'
 coordinates_of_westernmost_point: Point(-17.050381 20.769991)
-executive_body: '[[_Standards/WikiData/WD~Cabinet_of_Morocco,12208534]]'
-railway_traffic_side: '[[_Standards/WikiData/WD~left,13196750]]'
-driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-office_held_by_head_of_state: '[[_Standards/WikiData/WD~King_of_Morocco,14566719]]'
-office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Morocco,19842743]]'
+executive_body: '[[_Standards/WikiData/WD~Cabinet_of_Morocco,12208534|WD~Cabinet_of_Morocco,12208534]]'
+railway_traffic_side: '[[_Standards/WikiData/WD~left,13196750|WD~left,13196750]]'
+driving_side: '[[_Standards/WikiData/WD~right,14565199|WD~right,14565199]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~King_of_Morocco,14566719|WD~King_of_Morocco,14566719]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Morocco,19842743|WD~Prime_Minister_of_Morocco,19842743]]'
 contains_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Casablanca-Settat,19843788]]'
-- '[[_Standards/WikiData/WD~Drâa-Tafilalet,19950954]]'
-- '[[_Standards/WikiData/WD~Fès-Meknès,19951027]]'
-- '[[_Standards/WikiData/WD~Guelmim-Oued_Noun,19951051]]'
-- '[[_Standards/WikiData/WD~Laâyoune-Sakia_El_Hamra,19951088]]'
-- '[[_Standards/WikiData/WD~Marrakesh-Safi,19951125]]'
-- '[[_Standards/WikiData/WD~Rabat-Salé-Kénitra,19951239]]'
-- '[[_Standards/WikiData/WD~Tangier-Tetouan-Al_Hoceima,19951300]]'
-- '[[_Standards/WikiData/WD~Béni_Mellal-Khénifra,19953016]]'
-- '[[_Standards/WikiData/WD~Souss-Massa,20652586]]'
-- '[[_Standards/WikiData/WD~Dakhla-Oued_Ed-Dahab,21235104]]'
-- '[[_Standards/WikiData/WD~Oriental,23048167]]'
+- '[[_Standards/WikiData/WD~Casablanca-Settat,19843788|WD~Casablanca-Settat,19843788]]'
+- '[[_Standards/WikiData/WD~Drâa-Tafilalet,19950954|WD~Drâa-Tafilalet,19950954]]'
+- '[[_Standards/WikiData/WD~Fès-Meknès,19951027|WD~Fès-Meknès,19951027]]'
+- '[[_Standards/WikiData/WD~Guelmim-Oued_Noun,19951051|WD~Guelmim-Oued_Noun,19951051]]'
+- '[[_Standards/WikiData/WD~Laâyoune-Sakia_El_Hamra,19951088|WD~Laâyoune-Sakia_El_Hamra,19951088]]'
+- '[[_Standards/WikiData/WD~Marrakesh-Safi,19951125|WD~Marrakesh-Safi,19951125]]'
+- '[[_Standards/WikiData/WD~Rabat-Salé-Kénitra,19951239|WD~Rabat-Salé-Kénitra,19951239]]'
+- '[[_Standards/WikiData/WD~Tangier-Tetouan-Al_Hoceima,19951300|WD~Tangier-Tetouan-Al_Hoceima,19951300]]'
+- '[[_Standards/WikiData/WD~Béni_Mellal-Khénifra,19953016|WD~Béni_Mellal-Khénifra,19953016]]'
+- '[[_Standards/WikiData/WD~Souss-Massa,20652586|WD~Souss-Massa,20652586]]'
+- '[[_Standards/WikiData/WD~Dakhla-Oued_Ed-Dahab,21235104|WD~Dakhla-Oued_Ed-Dahab,21235104]]'
+- '[[_Standards/WikiData/WD~Oriental,23048167|WD~Oriental,23048167]]'
 emergency_phone_number:
-- '[[_Standards/WikiData/WD~19,25648864]]'
-- '[[_Standards/WikiData/WD~15,25648869]]'
-- '[[_Standards/WikiData/WD~177,25743529]]'
+- '[[_Standards/WikiData/WD~19,25648864|WD~19,25648864]]'
+- '[[_Standards/WikiData/WD~15,25648869|WD~15,25648869]]'
+- '[[_Standards/WikiData/WD~177,25743529|WD~177,25743529]]'
 demonym:
 - marroquí
 - مغاربا
@@ -313,7 +313,7 @@ demonym:
 - מרוקאית
 - marocchino
 - مغربي
-has_characteristic: '[[_Standards/WikiData/WD~partly_free_country,47185145]]'
+has_characteristic: '[[_Standards/WikiData/WD~partly_free_country,47185145|WD~partly_free_country,47185145]]'
 official_name:
 - Maghribi
 - Kongeriget Marokko
@@ -328,7 +328,7 @@ official_name:
 - Morocco
 - المغرب
 - المملكة المغربية
-open_data_portal: '[[_Standards/WikiData/WD~Morocco_Data_Portal,97011662]]'
+open_data_portal: '[[_Standards/WikiData/WD~Morocco_Data_Portal,97011662|WD~Morocco_Data_Portal,97011662]]'
 geoshape: http://commons.wikimedia.org/data/main/Data:Morocco.map
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Lb-Marokko.ogg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Morocco%20WS-excluded%20%28orthographic%20projection%29.svg
@@ -343,43 +343,43 @@ Provenio_UUID: b34b5d6c-651c-47da-a724-9419045a3990
 Libris_URI: khwzxrn30k0tv0g
 Krugosvet_article: strany_mira/MAROKKO.html
 diplomatic_relation:
-- '[[_Standards/WikiData/WD~Canada,16]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~Spain,29]]'
-- '[[_Standards/WikiData/WD~Denmark,35]]'
-- '[[_Standards/WikiData/WD~Turkey,43]]'
-- '[[_Standards/WikiData/WD~Portugal,45]]'
-- '[[_Standards/WikiData/WD~Netherlands,55]]'
-- '[[_Standards/WikiData/WD~Egypt,79]]'
-- '[[_Standards/WikiData/WD~Mexico,96]]'
-- '[[_Standards/WikiData/WD~France,142]]'
-- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Russia,159]]'
-- '[[_Standards/WikiData/WD~Germany,183]]'
-- '[[_Standards/WikiData/WD~Indonesia,252]]'
-- '[[_Standards/WikiData/WD~Algeria,262]]'
-- '[[_Standards/WikiData/WD~Argentina,414]]'
-- '[[_Standards/WikiData/WD~North_Korea,423]]'
-- '[[_Standards/WikiData/WD~European_Union,458]]'
-- '[[_Standards/WikiData/WD~India,668]]'
-- '[[_Standards/WikiData/WD~Iran,794]]'
-- '[[_Standards/WikiData/WD~Pakistan,843]]'
-- '[[_Standards/WikiData/WD~Saudi_Arabia,851]]'
-- '[[_Standards/WikiData/WD~Taiwan,865]]'
-- '[[_Standards/WikiData/WD~Mali,912]]'
-- '[[_Standards/WikiData/WD~Tunisia,948]]'
-- '[[_Standards/WikiData/WD~Libya,1016]]'
-- '[[_Standards/WikiData/WD~Mauritania,1025]]'
-- '[[_Standards/WikiData/WD~Sudan,1049]]'
+- '[[_Standards/WikiData/WD~Canada,16|WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Spain,29|WD~Spain,29]]'
+- '[[_Standards/WikiData/WD~Denmark,35|WD~Denmark,35]]'
+- '[[_Standards/WikiData/WD~Turkey,43|WD~Turkey,43]]'
+- '[[_Standards/WikiData/WD~Portugal,45|WD~Portugal,45]]'
+- '[[_Standards/WikiData/WD~Netherlands,55|WD~Netherlands,55]]'
+- '[[_Standards/WikiData/WD~Egypt,79|WD~Egypt,79]]'
+- '[[_Standards/WikiData/WD~Mexico,96|WD~Mexico,96]]'
+- '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Indonesia,252|WD~Indonesia,252]]'
+- '[[_Standards/WikiData/WD~Algeria,262|WD~Algeria,262]]'
+- '[[_Standards/WikiData/WD~Argentina,414|WD~Argentina,414]]'
+- '[[_Standards/WikiData/WD~North_Korea,423|WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~European_Union,458|WD~European_Union,458]]'
+- '[[_Standards/WikiData/WD~India,668|WD~India,668]]'
+- '[[_Standards/WikiData/WD~Iran,794|WD~Iran,794]]'
+- '[[_Standards/WikiData/WD~Pakistan,843|WD~Pakistan,843]]'
+- '[[_Standards/WikiData/WD~Saudi_Arabia,851|WD~Saudi_Arabia,851]]'
+- '[[_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~Mali,912|WD~Mali,912]]'
+- '[[_Standards/WikiData/WD~Tunisia,948|WD~Tunisia,948]]'
+- '[[_Standards/WikiData/WD~Libya,1016|WD~Libya,1016]]'
+- '[[_Standards/WikiData/WD~Mauritania,1025|WD~Mauritania,1025]]'
+- '[[_Standards/WikiData/WD~Sudan,1049|WD~Sudan,1049]]'
 shares_border_with:
-- '[[_Standards/WikiData/WD~Spain,29]]'
-- '[[_Standards/WikiData/WD~Algeria,262]]'
-- '[[_Standards/WikiData/WD~European_Union,458]]'
+- '[[_Standards/WikiData/WD~Spain,29|WD~Spain,29]]'
+- '[[_Standards/WikiData/WD~Algeria,262|WD~Algeria,262]]'
+- '[[_Standards/WikiData/WD~European_Union,458|WD~European_Union,458]]'
 located_in_or_next_to_body_of_water:
-- '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
-- '[[_Standards/WikiData/WD~Strait_of_Gibraltar,36124]]'
-- '[[_Standards/WikiData/WD~Mediterranean_Sea,4918]]'
+- '[[_Standards/WikiData/WD~Atlantic_Ocean,97|WD~Atlantic_Ocean,97]]'
+- '[[_Standards/WikiData/WD~Strait_of_Gibraltar,36124|WD~Strait_of_Gibraltar,36124]]'
+- '[[_Standards/WikiData/WD~Mediterranean_Sea,4918|WD~Mediterranean_Sea,4918]]'
 unemployment_rate: 10
 VAT_rate: 20
 BTI_Governance_Index:
@@ -412,12 +412,12 @@ BTI_Status_Index:
 - 4.65
 - 4.77
 retirement_age: 65
-top_level_Internet_domain: '[[_Standards/WikiData/WD~.ma,41439]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.ma,41439|WD~.ma,41439]]'
 social_media_followers: 28200
-basic_form_of_government: '[[_Standards/WikiData/WD~constitutional_monarchy,41614]]'
+basic_form_of_government: '[[_Standards/WikiData/WD~constitutional_monarchy,41614|WD~constitutional_monarchy,41614]]'
 Gini_coefficient: 39.5
 trunk_prefix: 0
-madhhab: '[[_Standards/WikiData/WD~Malikism,48221]]'
+madhhab: '[[_Standards/WikiData/WD~Malikism,48221|WD~Malikism,48221]]'
 Democracy_Index: 5.04
 Inequality_adjusted_Human_Development_Index: 0.504
 Happy_Planet_Index_score: 50.9
@@ -428,7 +428,7 @@ death_rate:
 - 5.766
 - 6.073
 Human_Development_Index: 0.683
-head_of_state: '[[_Standards/WikiData/WD~Mohammed_VI_of_Morocco,57553]]'
+head_of_state: '[[_Standards/WikiData/WD~Mohammed_VI_of_Morocco,57553|WD~Mohammed_VI_of_Morocco,57553]]'
 total_fertility_rate: 2.515
 UIC_numerical_country_code: 93
 WIPO_ST_3: MA
@@ -464,12 +464,12 @@ MeSH_tree_code: Z01.058.266.629
 nominal_GDP:
 - 134181587770
 - 142866583125
-official_religion: '[[_Standards/WikiData/WD~Islam,432]]'
-country: '[[_Standards/WikiData/WD~Morocco,1028]]'
-capital: '[[_Standards/WikiData/WD~Rabat,3551]]'
+official_religion: '[[_Standards/WikiData/WD~Islam,432|WD~Islam,432]]'
+country: '[[_Standards/WikiData/WD~Morocco,1028|WD~Morocco,1028]]'
+capital: '[[_Standards/WikiData/WD~Rabat,3551|WD~Rabat,3551]]'
 minimum_temperature_record: -23.9
-part_of: '[[_Standards/WikiData/WD~North_Africa,27381]]'
-continent: '[[_Standards/WikiData/WD~Africa,15]]'
+part_of: '[[_Standards/WikiData/WD~North_Africa,27381|WD~North_Africa,27381]]'
+continent: '[[_Standards/WikiData/WD~Africa,15|WD~Africa,15]]'
 population:
 - 37076584
 - 36828330
@@ -575,7 +575,7 @@ dv_UNTERM_Chinese_Formal: 摩洛哥王国
 dv_UNTERM_French_Formal: le Royaume du Maroc
 dv_UNTERM_Russian: Марокко
 dv_UNTERM_Russian_Formal: Королевство Марокко
-dv_Region_Name: '[[../../Africa]]'
+dv_Region_Name: '[[../../Africa|Africa]]'
 dv_Intermediate_Region_Name: '[[Morocco]]'
 dv_Sub-region_Name: '[[Northern Africa]]'
 dv_Region: 2
@@ -920,7 +920,7 @@ dv_has_:
 dv_has_name_de: Marokko
 dv_Area-Total: 458730
 dv_Area-Land: 446300
-dv_has_place_continent: '[[../../Africa]]'
+dv_has_place_continent: '[[../../Africa|Africa]]'
 dv_VehicleCode: MA
 dv_Alcohol-l: 1.5
 dv_Language-Id: 472
@@ -1015,7 +1015,7 @@ ISO3 = `=this.dv_ISO3`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Morocco/ReadMe]] 
+[[Morocco/ReadMe|ReadMe]] 
 
 ## #has_/map 
 
@@ -1038,7 +1038,7 @@ Capital :: [[./Morocco/City/Rabat|Rabat]]
 
 ![[Coat_of_arms_of_Morocco.svg|550]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Morocco.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Morocco.mp3|Anthem-Morocco.mp3]]
 
 ![[Flag_of_Morocco.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`

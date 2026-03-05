@@ -43,9 +43,9 @@ aliases:
 - 약물동태학
 has_id_wikidata: Q323936
 subclass_of:
-- '[[_Standards/WikiData/WD~pharmacology,128406]]'
-- '[[_Standards/WikiData/WD~chemical_kinetics,209082]]'
-instance_of: '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~pharmacology,128406|WD~pharmacology,128406]]'
+- '[[_Standards/WikiData/WD~chemical_kinetics,209082|WD~chemical_kinetics,209082]]'
+instance_of: '[[_Standards/WikiData/WD~field_of_study,1047113|WD~field_of_study,1047113]]'
 OmegaWiki_Defined_Meaning: 2769
 Dewey_Decimal_Classification: 615.7
 schematic:

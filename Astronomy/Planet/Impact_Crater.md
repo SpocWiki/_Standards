@@ -68,14 +68,14 @@ aliases:
 - 충돌구
 has_id_wikidata: Q55818
 different_from:
-- '[[_Standards/WikiData/WD~volcanic_crater,109391]]'
-- '[[_Standards/WikiData/WD~explosion_crater,1384605]]'
-model_item: '[[_Standards/WikiData/WD~Meteor_Crater,431381]]'
-part_of: '[[_Standards/WikiData/WD~planetary_nomenclature,1463003]]'
-subclass_of: '[[_Standards/WikiData/WD~crater,3240715]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_crater,6254809]]'
-instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~Q59791350,59791350]]'
+- '[[_Standards/WikiData/WD~volcanic_crater,109391|WD~volcanic_crater,109391]]'
+- '[[_Standards/WikiData/WD~explosion_crater,1384605|WD~explosion_crater,1384605]]'
+model_item: '[[_Standards/WikiData/WD~Meteor_Crater,431381|WD~Meteor_Crater,431381]]'
+part_of: '[[_Standards/WikiData/WD~planetary_nomenclature,1463003|WD~planetary_nomenclature,1463003]]'
+subclass_of: '[[_Standards/WikiData/WD~crater,3240715|WD~crater,3240715]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_crater,6254809|WD~Template_Infobox_crater,6254809]]'
+instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909|WD~astronomical_object_type,17444909]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~Q59791350,59791350|WD~Q59791350,59791350]]'
 OmegaWiki_Defined_Meaning: 665442
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Barringer%20Crater%20aerial%20photo%20by%20USGS.jpg
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Impact%20movie.ogv
@@ -85,7 +85,7 @@ Commons_category: Impact craters
 OpenStreetMap_tag: geological=meteor_crater
 dv_is_:
   same_as:
-  - '[[../../WikiData/WD~Impact_crater,55818]]'
+  - '[[../../WikiData/WD~Impact_crater,55818|WD~Impact_crater,55818]]'
   - '[[/_Standards/Astronomy/Planet/Impact_Crater|Impact_Crater]]'
   - '[[/_public/Astronomy/Planet/Impact_Crater.public|Impact_Crater.public]]'
   - '[[/_internal/Astronomy/Planet/Impact_Crater.internal|Impact_Crater.internal]]'
@@ -94,7 +94,7 @@ dv_is_:
   - '[[/_personal/Astronomy/Planet/Impact_Crater.personal|Impact_Crater.personal]]'
   - '[[/_secret/Astronomy/Planet/Impact_Crater.secret|Impact_Crater.secret]]'
 dv_is_same_as:
-- '[[../../WikiData/WD~Impact_crater,55818]]'
+- '[[../../WikiData/WD~Impact_crater,55818|WD~Impact_crater,55818]]'
 - '[[/_Standards/Astronomy/Planet/Impact_Crater|Impact_Crater]]'
 - '[[/_public/Astronomy/Planet/Impact_Crater.public|Impact_Crater.public]]'
 - '[[/_internal/Astronomy/Planet/Impact_Crater.internal|Impact_Crater.internal]]'

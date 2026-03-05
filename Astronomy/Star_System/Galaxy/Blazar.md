@@ -22,8 +22,8 @@ aliases:
 - 耀變體
 - 블레이자
 has_id_wikidata: Q221221
-subclass_of: '[[_Standards/WikiData/WD~quasar,83373]]'
-instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
+subclass_of: '[[_Standards/WikiData/WD~quasar,83373|WD~quasar,83373]]'
+instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909|WD~astronomical_object_type,17444909]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Blazar-illustration.jpg
 Commons_category: Blazars
 dv_is_:

@@ -34,12 +34,12 @@ aliases:
 - 胞子体
 - 포자체
 has_id_wikidata: Q647173
-opposite_of: '[[_Standards/WikiData/WD~gametophyte,189951]]'
-part_of: '[[_Standards/WikiData/WD~biological_life_cycle,513359]]'
+opposite_of: '[[_Standards/WikiData/WD~gametophyte,189951|WD~gametophyte,189951]]'
+part_of: '[[_Standards/WikiData/WD~biological_life_cycle,513359|WD~biological_life_cycle,513359]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-instance_of: '[[_Standards/WikiData/WD~developmental_stage_of_plant,63812927]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+instance_of: '[[_Standards/WikiData/WD~developmental_stage_of_plant,63812927|WD~developmental_stage_of_plant,63812927]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Alternation%20of%20generations%20simpler.svg
 dv_has_:
   name_:

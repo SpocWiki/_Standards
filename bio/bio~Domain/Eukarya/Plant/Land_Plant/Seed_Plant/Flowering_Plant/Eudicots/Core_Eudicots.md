@@ -23,10 +23,10 @@ aliases:
 - 핵심진정쌍떡잎식물
 has_id_wikidata: Q869087
 title: Core Eudicots
-subclass_of: '[[_Standards/WikiData/WD~eudicots,165468]]'
-parent_taxon: '[[_Standards/WikiData/WD~eudicots,165468]]'
-instance_of: '[[_Standards/WikiData/WD~clade,713623]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~core_eudicots,124037561]]'
+subclass_of: '[[_Standards/WikiData/WD~eudicots,165468|WD~eudicots,165468]]'
+parent_taxon: '[[_Standards/WikiData/WD~eudicots,165468|WD~eudicots,165468]]'
+instance_of: '[[_Standards/WikiData/WD~clade,713623|WD~clade,713623]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~core_eudicots,124037561|WD~core_eudicots,124037561]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Leucophyllum%20frutescens%20%28Purple%20Sage%29%20W%20IMG%201125.jpg
 taxon_name: core eudicots
 Commons_category: Core eudicots
@@ -62,7 +62,7 @@ Core Tricolpates
 
 ![Echinocactus_acanthodes](Core_Eudicots/Echinocactus_acanthodes.jpg)  ![Catananche_caerulea](Core_Eudicots/Catananche_caerulea.jpg)  ![Populus_tremuloides](Core_Eudicots/Populus_tremuloides.jpg) 
 
-#is_/same_as :: [[_Standards/WikiData/WD~core_eudicots,869087]]
+#is_/same_as :: [[_Standards/WikiData/WD~core_eudicots,869087|WD~core_eudicots,869087]]
 ## Introduction
 
 [Doug Soltis, Pam Soltis, and Christine Edwards]()

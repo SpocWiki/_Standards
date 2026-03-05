@@ -45,25 +45,25 @@ aliases:
 - 印度野牛
 - 인도들소
 has_id_wikidata: Q174296
-parent_taxon: '[[_Standards/WikiData/WD~Bos,237993]]'
-IUCN_conservation_status: '[[_Standards/WikiData/WD~Vulnerable,278113]]'
+parent_taxon: '[[_Standards/WikiData/WD~Bos,237993|WD~Bos,237993]]'
+IUCN_conservation_status: '[[_Standards/WikiData/WD~Vulnerable,278113|WD~Vulnerable,278113]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-different_from: '[[_Standards/WikiData/WD~Gauḍa,1496277]]'
-CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528]]'
-diel_cycle: '[[_Standards/WikiData/WD~diurnality,4284186]]'
-protonym_of: '[[_Standards/WikiData/WD~Bos_frontalis_gaurus,20908494]]'
-Wildlife_Protection_Act_1972_India_schedule: '[[_Standards/WikiData/WD~Schedule_I_(Part_I)_of_Wildlife_Protection_Act,_1972,74713579]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+different_from: '[[_Standards/WikiData/WD~Gauḍa,1496277|WD~Gauḍa,1496277]]'
+CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528|WD~Appendix_I_of_CITES,2851528]]'
+diel_cycle: '[[_Standards/WikiData/WD~diurnality,4284186|WD~diurnality,4284186]]'
+protonym_of: '[[_Standards/WikiData/WD~Bos_frontalis_gaurus,20908494|WD~Bos_frontalis_gaurus,20908494]]'
+Wildlife_Protection_Act_1972_India_schedule: '[[_Standards/WikiData/WD~Schedule_I_(Part_I)_of_Wildlife_Protection_Act,_1972,74713579|WD~Schedule_I_(Part_I)_of_Wildlife_Protection_Act,_1972,74713579]]'
 habitat:
-- '[[_Standards/WikiData/WD~forest,4421]]'
-- '[[_Standards/WikiData/WD~savanna,42320]]'
-taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~forest,4421|WD~forest,4421]]'
+- '[[_Standards/WikiData/WD~savanna,42320|WD~savanna,42320]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432|WD~species,7432]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 gestation_period: 275
-taxon_synonym: '[[_Standards/WikiData/WD~Bos_frontalis,45079]]'
+taxon_synonym: '[[_Standards/WikiData/WD~Bos_frontalis,45079|WD~Bos_frontalis,45079]]'
 ITIS_TSN: 183841
 taxon_common_name:
 - Gaur

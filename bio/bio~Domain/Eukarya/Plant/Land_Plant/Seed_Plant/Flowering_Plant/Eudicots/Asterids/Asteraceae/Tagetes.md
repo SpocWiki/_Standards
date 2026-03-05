@@ -65,14 +65,14 @@ aliases:
 - ꯁꯅꯥꯔꯩ (ꯄꯥꯝꯕꯤ)
 - 천수국속
 has_id_wikidata: Q147552
-named_after: '[[_Standards/WikiData/WD~Tages,659594]]'
+named_after: '[[_Standards/WikiData/WD~Tages,659594|WD~Tages,659594]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823]]'
-- '[[_Standards/WikiData/WD~Q19133013,19133013]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_75,112869482]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+- '[[_Standards/WikiData/WD~Encyclopedia_of_Armenian_Nature,16387823|WD~Encyclopedia_of_Armenian_Nature,16387823]]'
+- '[[_Standards/WikiData/WD~Q19133013,19133013|WD~Q19133013,19133013]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_75,112869482|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_75,112869482]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
 ITIS_TSN: 38482
 taxon_common_name:
 - marigold

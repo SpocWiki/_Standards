@@ -83,26 +83,26 @@ Dewey_Decimal_Classification:
 - 371.9144
 - 616.8553
 health_specialty:
-- '[[_Standards/WikiData/WD~pediatrics,123028]]'
-- '[[_Standards/WikiData/WD~neuropsychology,3872]]'
-has_cause: '[[_Standards/WikiData/WD~genetic_disease,200779]]'
-opposite_of: '[[_Standards/WikiData/WD~hyperlexia,776660]]'
+- '[[_Standards/WikiData/WD~pediatrics,123028|WD~pediatrics,123028]]'
+- '[[_Standards/WikiData/WD~neuropsychology,3872|WD~neuropsychology,3872]]'
+has_cause: '[[_Standards/WikiData/WD~genetic_disease,200779|WD~genetic_disease,200779]]'
+opposite_of: '[[_Standards/WikiData/WD~hyperlexia,776660|WD~hyperlexia,776660]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~learning_disability,860740]]'
-- '[[_Standards/WikiData/WD~language_disorder,10469820]]'
-- '[[_Standards/WikiData/WD~reading_disorder_and_écrites_disorder,17077617]]'
-- '[[_Standards/WikiData/WD~disease,12136]]'
+- '[[_Standards/WikiData/WD~learning_disability,860740|WD~learning_disability,860740]]'
+- '[[_Standards/WikiData/WD~language_disorder,10469820|WD~language_disorder,10469820]]'
+- '[[_Standards/WikiData/WD~reading_disorder_and_écrites_disorder,17077617|WD~reading_disorder_and_écrites_disorder,17077617]]'
+- '[[_Standards/WikiData/WD~disease,12136|WD~disease,12136]]'
 instance_of:
-- '[[_Standards/WikiData/WD~learning_disability,860740]]'
-- '[[_Standards/WikiData/WD~reading_disability,97696569]]'
-- '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
-medical_examination: '[[_Standards/WikiData/WD~functional_magnetic_resonance_imaging,903809]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Category_Dyslexia,7452219]]'
-symptoms_and_signs: '[[_Standards/WikiData/WD~reading_disorder_and_écrites_disorder,17077617]]'
-genetic_association: '[[_Standards/WikiData/WD~PCSK6,18030335]]'
-described_by_source: '[[_Standards/WikiData/WD~Lexicon_van_de_jeugdliteratuur,66087609]]'
-facet_of: '[[_Standards/WikiData/WD~dyslexic,114049688]]'
+- '[[_Standards/WikiData/WD~learning_disability,860740|WD~learning_disability,860740]]'
+- '[[_Standards/WikiData/WD~reading_disability,97696569|WD~reading_disability,97696569]]'
+- '[[_Standards/WikiData/WD~class_of_disease,112193867|WD~class_of_disease,112193867]]'
+medical_examination: '[[_Standards/WikiData/WD~functional_magnetic_resonance_imaging,903809|WD~functional_magnetic_resonance_imaging,903809]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686|WD~WikiProject_Medicine,4099686]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Category_Dyslexia,7452219|WD~Category_Dyslexia,7452219]]'
+symptoms_and_signs: '[[_Standards/WikiData/WD~reading_disorder_and_écrites_disorder,17077617|WD~reading_disorder_and_écrites_disorder,17077617]]'
+genetic_association: '[[_Standards/WikiData/WD~PCSK6,18030335|WD~PCSK6,18030335]]'
+described_by_source: '[[_Standards/WikiData/WD~Lexicon_van_de_jeugdliteratuur,66087609|WD~Lexicon_van_de_jeugdliteratuur,66087609]]'
+facet_of: '[[_Standards/WikiData/WD~dyslexic,114049688|WD~dyslexic,114049688]]'
 DiseasesDB: 4016
 OmegaWiki_Defined_Meaning: 428063
 Commons_category: Dyslexia
@@ -126,16 +126,16 @@ UMLS_CUI:
 - C0920296
 GitHub_topic: dyslexia
 maintained_by_WikiProject:
-- '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
-- '[[_Standards/WikiData/WD~WikiProject_Disability,7478545]]'
-- '[[_Standards/WikiData/WD~WikiProject_Linguistics,10857957]]'
-- '[[_Standards/WikiData/WD~WikiProject_Psychology,10858450]]'
-- '[[_Standards/WikiData/WD~WikiProject_Medicine_Translation,15618325]]'
-- '[[_Standards/WikiData/WD~WikiProject_Autism,21829470]]'
-- '[[_Standards/WikiData/WD~WikiProject_Dyslexia,21829886]]'
-- '[[_Standards/WikiData/WD~WikiProject_Applied_Linguistics,21830290]]'
-- '[[_Standards/WikiData/WD~WikiProject_Neurology,21830349]]'
-- '[[_Standards/WikiData/WD~WikiProject_Writing,109016451]]'
+- '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686|WD~WikiProject_Medicine,4099686]]'
+- '[[_Standards/WikiData/WD~WikiProject_Disability,7478545|WD~WikiProject_Disability,7478545]]'
+- '[[_Standards/WikiData/WD~WikiProject_Linguistics,10857957|WD~WikiProject_Linguistics,10857957]]'
+- '[[_Standards/WikiData/WD~WikiProject_Psychology,10858450|WD~WikiProject_Psychology,10858450]]'
+- '[[_Standards/WikiData/WD~WikiProject_Medicine_Translation,15618325|WD~WikiProject_Medicine_Translation,15618325]]'
+- '[[_Standards/WikiData/WD~WikiProject_Autism,21829470|WD~WikiProject_Autism,21829470]]'
+- '[[_Standards/WikiData/WD~WikiProject_Dyslexia,21829886|WD~WikiProject_Dyslexia,21829886]]'
+- '[[_Standards/WikiData/WD~WikiProject_Applied_Linguistics,21830290|WD~WikiProject_Applied_Linguistics,21830290]]'
+- '[[_Standards/WikiData/WD~WikiProject_Neurology,21830349|WD~WikiProject_Neurology,21830349]]'
+- '[[_Standards/WikiData/WD~WikiProject_Writing,109016451|WD~WikiProject_Writing,109016451]]'
 dv_has_:
   name_:
     af: Disleksie

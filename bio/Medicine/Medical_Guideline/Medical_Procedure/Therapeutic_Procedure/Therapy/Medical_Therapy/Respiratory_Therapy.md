@@ -35,9 +35,9 @@ Tag Instances like this:
 
 The therapy that is concerned with the maintenance or improvement of respiratory function (as in patients with pulmonary disease).
 
-#has_/parent_class :: [[../MedicalTherapy, MedicalSpecialty]]  
+#has_/parent_class :: [[../MedicalTherapy, MedicalSpecialty|MedicalTherapy, MedicalSpecialty]]  
 
-#is_/enum_of :: [[../MedicalSpecialty]]  
+#is_/enum_of :: [[../MedicalSpecialty|MedicalSpecialty]]  
 
 ## Confidential Links & Embeds: 
 

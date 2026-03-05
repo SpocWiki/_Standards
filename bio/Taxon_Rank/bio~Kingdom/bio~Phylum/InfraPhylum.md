@@ -40,11 +40,11 @@ aliases:
 - 下门
 - 하문
 has_id_wikidata: Q2361851
-instance_of: '[[_Standards/WikiData/WD~taxonomic_rank,427626]]'
+instance_of: '[[_Standards/WikiData/WD~taxonomic_rank,427626|WD~taxonomic_rank,427626]]'
 part_of:
-- '[[_Standards/WikiData/WD~subphylum,1153785]]'
-- '[[_Standards/WikiData/WD~subdivision,3491997]]'
-different_from: '[[_Standards/WikiData/WD~infradivision,23759835]]'
+- '[[_Standards/WikiData/WD~subphylum,1153785|WD~subphylum,1153785]]'
+- '[[_Standards/WikiData/WD~subdivision,3491997|WD~subdivision,3491997]]'
+different_from: '[[_Standards/WikiData/WD~infradivision,23759835|WD~infradivision,23759835]]'
 dv_has_:
   name_:
     ar: شعبة سفلى
@@ -102,7 +102,7 @@ dv_has_:
 
 # [[InfraPhylum]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~infraphylum,2361851]] 
+#is_/same_as :: [[_Standards/WikiData/WD~infraphylum,2361851|WD~infraphylum,2361851]] 
 ## #has_/text_of_/abstract 
 
 > In zoological nomenclature, a subphylum is a taxonomic rank below the rank of [[../../../../../../../../Taxon_Rank/bio~Kingdom/bio~Phylum|Phylum]].

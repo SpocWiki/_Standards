@@ -52,13 +52,13 @@ aliases:
 - 反式脂肪
 - 트랜스 지방
 has_id_wikidata: Q243465
-found_in_taxon: '[[_Standards/WikiData/WD~ruminants,192164]]'
-subclass_of: '[[_Standards/WikiData/WD~unsaturated_fat,652555]]'
+found_in_taxon: '[[_Standards/WikiData/WD~ruminants,192164|WD~ruminants,192164]]'
+subclass_of: '[[_Standards/WikiData/WD~unsaturated_fat,652555|WD~unsaturated_fat,652555]]'
 part_of:
-- '[[_Standards/WikiData/WD~shortening,1194601]]'
-- '[[_Standards/WikiData/WD~oil_hydrogenation,98605802]]'
-opposite_of: '[[_Standards/WikiData/WD~cis_fat,11705516]]'
-instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
+- '[[_Standards/WikiData/WD~shortening,1194601|WD~shortening,1194601]]'
+- '[[_Standards/WikiData/WD~oil_hydrogenation,98605802|WD~oil_hydrogenation,98605802]]'
+opposite_of: '[[_Standards/WikiData/WD~cis_fat,11705516|WD~cis_fat,11705516]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cis%20trans%20svg.svg
 UMLS_CUI: C1257879
 MeSH_tree_code: D10.251.355.920

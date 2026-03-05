@@ -46,12 +46,12 @@ aliases:
 - 鹵烷
 - 할로알케인
 has_id_wikidata: Q271026
-subclass_of: '[[_Standards/WikiData/WD~halogenated_hydrocarbon,11973764]]'
-instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
+subclass_of: '[[_Standards/WikiData/WD~halogenated_hydrocarbon,11973764|WD~halogenated_hydrocarbon,11973764]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
 Commons_category: Haloalkanes
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Haloalkane,271026]]'
+  - '[[../../../WikiData/WD~Haloalkane,271026|WD~Haloalkane,271026]]'
   - '[[/_Standards/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane|Haloalkane]]'
   - '[[/_public/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.public|Haloalkane.public]]'
   - '[[/_internal/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.internal|Haloalkane.internal]]'
@@ -60,7 +60,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.personal|Haloalkane.personal]]'
   - '[[/_secret/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.secret|Haloalkane.secret]]'
 dv_is_same_as:
-- '[[../../../WikiData/WD~Haloalkane,271026]]'
+- '[[../../../WikiData/WD~Haloalkane,271026|WD~Haloalkane,271026]]'
 - '[[/_Standards/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane|Haloalkane]]'
 - '[[/_public/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.public|Haloalkane.public]]'
 - '[[/_internal/Chemistry/Organic_Chemistry/Halocarbon/Haloalkane.internal|Haloalkane.internal]]'
@@ -143,7 +143,7 @@ dv_has_:
 > The **Haloalkane**s (also known as halogenoalkanes or alkyl halides) 
 > are alkanes containing one or more halogen substituents of hydrogen atom. 
 > 
-> They are a subset of the general class of [[../Halocarbon]]s, although the distinction is not often made. 
+> They are a subset of the general class of [[../Halocarbon|Halocarbon]]s, although the distinction is not often made. 
 > Haloalkanes are widely used commercially. 
 > 
 > They are used as flame retardants, fire extinguishants, refrigerants, propellants, solvents, 

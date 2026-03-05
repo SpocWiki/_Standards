@@ -135,8 +135,8 @@ cssclasses:
 - note
 - private
 described_by_source:
-- '[[_Standards/WikiData/WD~Baidu_Baike,803722]]'
-- '[[_Standards/WikiData/WD~Q2041543,2041543]]'
+- '[[_Standards/WikiData/WD~Baidu_Baike,803722|WD~Baidu_Baike,803722]]'
+- '[[_Standards/WikiData/WD~Q2041543,2041543|WD~Q2041543,2041543]]'
 draft: true
 excalidraw_autoexport: svg
 excalidraw_open_md: true
@@ -147,7 +147,7 @@ has_Template:
 has_time_started:
   '{ "date:YYYY-MM-DD": null }': 
 instance_of:
-- '[[_Standards/WikiData/WD~type_of_classification,121344523]]'
+- '[[_Standards/WikiData/WD~type_of_classification,121344523|WD~type_of_classification,121344523]]'
 isDeleted: false
 isReadOnly: false
 keywords:
@@ -159,21 +159,21 @@ linkTitle:
   Biological_Classification: 
 publish: false
 publishDate: 
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~taxonomy,8269924]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~taxonomy,8269924|WD~taxonomy,8269924]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~specialised_classification_scheme,24249534]]'
-- '[[_Standards/WikiData/WD~taxonomy,7211]]'
+- '[[_Standards/WikiData/WD~specialised_classification_scheme,24249534|WD~specialised_classification_scheme,24249534]]'
+- '[[_Standards/WikiData/WD~taxonomy,7211|WD~taxonomy,7211]]'
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Biological_kingdom_classification,6221922]]'
-- '[[_Standards/WikiData/WD~Template_Biological_classification,6470140]]'
+- '[[_Standards/WikiData/WD~Template_Biological_kingdom_classification,6221922|WD~Template_Biological_kingdom_classification,6221922]]'
+- '[[_Standards/WikiData/WD~Template_Biological_classification,6470140|WD~Template_Biological_classification,6470140]]'
 tags:
 - excalidraw
 title:
   Biological_Classification: 
 type: private_note
 uses:
-- '[[_Standards/WikiData/WD~cladistics,192210]]'
-- '[[_Standards/WikiData/WD~form_classification,17105508]]'
+- '[[_Standards/WikiData/WD~cladistics,192210|WD~cladistics,192210]]'
+- '[[_Standards/WikiData/WD~form_classification,17105508|WD~form_classification,17105508]]'
 dv_has_:
   name_:
     af: biologiese klassifikasie

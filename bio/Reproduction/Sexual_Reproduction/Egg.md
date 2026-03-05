@@ -188,35 +188,35 @@ aliases:
 - 알
 - "\U00010330\U00010333\U00010333\U0001033E\U00010339\U00010343"
 has_id_wikidata: Q17147
-has_use: '[[_Standards/WikiData/WD~egg_as_food,93189]]'
+has_use: '[[_Standards/WikiData/WD~egg_as_food,93189|WD~egg_as_food,93189]]'
 facet_of:
-- '[[_Standards/WikiData/WD~ovoviviparity,192805]]'
-- '[[_Standards/WikiData/WD~oviparity,212306]]'
+- '[[_Standards/WikiData/WD~ovoviviparity,192805|WD~ovoviviparity,192805]]'
+- '[[_Standards/WikiData/WD~oviparity,212306|WD~oviparity,212306]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Yuzhakov_Big_Encyclopedia,4091878|WD~Yuzhakov_Big_Encyclopedia,4091878]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517|WD~Small_Soviet_Encyclopedia,66386517]]'
 different_from:
-- '[[_Standards/WikiData/WD~bird_egg,659503]]'
-- '[[_Standards/WikiData/WD~egg_cell,1321695]]'
+- '[[_Standards/WikiData/WD~bird_egg,659503|WD~bird_egg,659503]]'
+- '[[_Standards/WikiData/WD~egg_cell,1321695|WD~egg_cell,1321695]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~chalaza,764184]]'
-- '[[_Standards/WikiData/WD~eggshell,2731253]]'
-- '[[_Standards/WikiData/WD~yolk,16336079]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Eggs,16963942]]'
+- '[[_Standards/WikiData/WD~chalaza,764184|WD~chalaza,764184]]'
+- '[[_Standards/WikiData/WD~eggshell,2731253|WD~eggshell,2731253]]'
+- '[[_Standards/WikiData/WD~yolk,16336079|WD~yolk,16336079]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Eggs,16963942|WD~Template_Eggs,16963942]]'
 instance_of:
-- '[[_Standards/WikiData/WD~developmental_stage_of_animal,20056177]]'
-- '[[_Standards/WikiData/WD~class_of_living_thing,55597235]]'
-subclass_of: '[[_Standards/WikiData/WD~covering,23497974]]'
+- '[[_Standards/WikiData/WD~developmental_stage_of_animal,20056177|WD~developmental_stage_of_animal,20056177]]'
+- '[[_Standards/WikiData/WD~class_of_living_thing,55597235|WD~class_of_living_thing,55597235]]'
+subclass_of: '[[_Standards/WikiData/WD~covering,23497974|WD~covering,23497974]]'
 OmegaWiki_Defined_Meaning: 1100
 Commons_category: Eggs
 Commons_gallery: Egg

@@ -87,35 +87,35 @@ aliases:
 - 皮膚癌
 - 피부암
 has_id_wikidata: Q192102
-health_specialty: '[[_Standards/WikiData/WD~dermatology,171171]]'
+health_specialty: '[[_Standards/WikiData/WD~dermatology,171171|WD~dermatology,171171]]'
 symptoms_and_signs:
-- '[[_Standards/WikiData/WD~itch,199602]]'
-- '[[_Standards/WikiData/WD~nodule,582484]]'
-- '[[_Standards/WikiData/WD~nevus,692077]]'
-- '[[_Standards/WikiData/WD~burning_sensation,3645517]]'
-- '[[_Standards/WikiData/WD~ulcer,6452285]]'
-- '[[_Standards/WikiData/WD~skin_lesion,102187434]]'
+- '[[_Standards/WikiData/WD~itch,199602|WD~itch,199602]]'
+- '[[_Standards/WikiData/WD~nodule,582484|WD~nodule,582484]]'
+- '[[_Standards/WikiData/WD~nevus,692077|WD~nevus,692077]]'
+- '[[_Standards/WikiData/WD~burning_sensation,3645517|WD~burning_sensation,3645517]]'
+- '[[_Standards/WikiData/WD~ulcer,6452285|WD~ulcer,6452285]]'
+- '[[_Standards/WikiData/WD~skin_lesion,102187434|WD~skin_lesion,102187434]]'
 drug_or_therapy_used_for_treatment:
-- '[[_Standards/WikiData/WD~fluorouracil,238512]]'
-- '[[_Standards/WikiData/WD~vemurafenib,423111]]'
-- '[[_Standards/WikiData/WD~imiquimod,423417]]'
-- '[[_Standards/WikiData/WD~ingenol_mebutate,426386]]'
-- '[[_Standards/WikiData/WD~vismodegib,2070286]]'
-- '[[_Standards/WikiData/WD~ipilimumab,2459042]]'
-- '[[_Standards/WikiData/WD~dabrafenib,3011604]]'
+- '[[_Standards/WikiData/WD~fluorouracil,238512|WD~fluorouracil,238512]]'
+- '[[_Standards/WikiData/WD~vemurafenib,423111|WD~vemurafenib,423111]]'
+- '[[_Standards/WikiData/WD~imiquimod,423417|WD~imiquimod,423417]]'
+- '[[_Standards/WikiData/WD~ingenol_mebutate,426386|WD~ingenol_mebutate,426386]]'
+- '[[_Standards/WikiData/WD~vismodegib,2070286|WD~vismodegib,2070286]]'
+- '[[_Standards/WikiData/WD~ipilimumab,2459042|WD~ipilimumab,2459042]]'
+- '[[_Standards/WikiData/WD~dabrafenib,3011604|WD~dabrafenib,3011604]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~skin_disease,949302]]'
-- '[[_Standards/WikiData/WD~integumentary_system_cancer,18553679]]'
-- '[[_Standards/WikiData/WD~skin_neoplasm,18921119]]'
-- '[[_Standards/WikiData/WD~disease,12136]]'
+- '[[_Standards/WikiData/WD~skin_disease,949302|WD~skin_disease,949302]]'
+- '[[_Standards/WikiData/WD~integumentary_system_cancer,18553679|WD~integumentary_system_cancer,18553679]]'
+- '[[_Standards/WikiData/WD~skin_neoplasm,18921119|WD~skin_neoplasm,18921119]]'
+- '[[_Standards/WikiData/WD~disease,12136|WD~disease,12136]]'
 maintained_by_WikiProject:
-- '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
-- '[[_Standards/WikiData/WD~Dermatology_task_force,21830344]]'
+- '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686|WD~WikiProject_Medicine,4099686]]'
+- '[[_Standards/WikiData/WD~Dermatology_task_force,21830344|WD~Dermatology_task_force,21830344]]'
 has_cause:
-- '[[_Standards/WikiData/WD~CMM,17907815]]'
-- '[[_Standards/WikiData/WD~ultraviolet_radiation,11391]]'
-anatomical_location: '[[_Standards/WikiData/WD~zone_of_skin,30029801]]'
-instance_of: '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+- '[[_Standards/WikiData/WD~CMM,17907815|WD~CMM,17907815]]'
+- '[[_Standards/WikiData/WD~ultraviolet_radiation,11391|WD~ultraviolet_radiation,11391]]'
+anatomical_location: '[[_Standards/WikiData/WD~zone_of_skin,30029801|WD~zone_of_skin,30029801]]'
+instance_of: '[[_Standards/WikiData/WD~class_of_disease,112193867|WD~class_of_disease,112193867]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Basal%20cell%20carcinoma.jpg
 exact_match:
 - http://identifiers.org/doid/DOID:4159

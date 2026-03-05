@@ -67,15 +67,15 @@ aliases:
 - 醫治
 - 치료
 has_id_wikidata: Q179661
-subclass_of: '[[_Standards/WikiData/WD~medical_procedure,796194]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-has_use: '[[_Standards/WikiData/WD~remedy,1595418]]'
-practiced_by: '[[_Standards/WikiData/WD~therapist,2419397]]'
+subclass_of: '[[_Standards/WikiData/WD~medical_procedure,796194|WD~medical_procedure,796194]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+has_use: '[[_Standards/WikiData/WD~remedy,1595418|WD~remedy,1595418]]'
+practiced_by: '[[_Standards/WikiData/WD~therapist,2419397|WD~therapist,2419397]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Infobox_medical_intervention,13365385]]'
-- '[[_Standards/WikiData/WD~Template_Infobox_medical_intervention_(new),89043345]]'
-instance_of: '[[_Standards/WikiData/WD~medical_procedure_type,55214844]]'
-has_characteristic: '[[_Standards/WikiData/WD~type_of_medical_treatment,130705900]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_medical_intervention,13365385|WD~Template_Infobox_medical_intervention,13365385]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_medical_intervention_(new),89043345|WD~Template_Infobox_medical_intervention_(new),89043345]]'
+instance_of: '[[_Standards/WikiData/WD~medical_procedure_type,55214844|WD~medical_procedure_type,55214844]]'
+has_characteristic: '[[_Standards/WikiData/WD~type_of_medical_treatment,130705900|WD~type_of_medical_treatment,130705900]]'
 Wikidata_property:
 - possible treatment
 - negative therapeutic predictor for
@@ -83,7 +83,7 @@ Wikidata_property:
 properties_for_this_type:
 - health specialty
 - medical condition treated
-facet_of: '[[_Standards/WikiData/WD~health_care,31207]]'
+facet_of: '[[_Standards/WikiData/WD~health_care,31207|WD~health_care,31207]]'
 Dewey_Decimal_Classification:
 - 615
 - 616.891

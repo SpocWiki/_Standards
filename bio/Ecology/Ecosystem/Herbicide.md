@@ -63,10 +63,10 @@ aliases:
 - 제초제
 has_id_wikidata: Q178266
 subclass_of:
-- '[[_Standards/WikiData/WD~pesticide,131656]]'
-- '[[_Standards/WikiData/WD~phytopharmaceuticals,902296]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Herbicides,10548781]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[_Standards/WikiData/WD~pesticide,131656|WD~pesticide,131656]]'
+- '[[_Standards/WikiData/WD~phytopharmaceuticals,902296|WD~phytopharmaceuticals,902296]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Herbicides,10548781|WD~Template_Herbicides,10548781]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 GS1_GPC_code: 10003227
 U_S_National_Archives_Identifier: 10640860
 Common_Procurement_Vocabulary_code: 24453000

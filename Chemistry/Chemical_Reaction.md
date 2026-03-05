@@ -122,20 +122,20 @@ aliases:
 - 化學反應
 - 화학 반응
 has_id_wikidata: Q36534
-has_effect: '[[_Standards/WikiData/WD~product,542929]]'
+has_effect: '[[_Standards/WikiData/WD~product,542929|WD~product,542929]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-has_list: '[[_Standards/WikiData/WD~list_of_organic_reactions,1781269]]'
-subclass_of: '[[../WikiData/WD~chemical_process,2281940]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+has_list: '[[_Standards/WikiData/WD~list_of_organic_reactions,1781269|WD~list_of_organic_reactions,1781269]]'
+subclass_of: '[[../WikiData/WD~chemical_process,2281940|WD~chemical_process,2281940]]'
 uses:
-- '[[_Standards/WikiData/WD~reactant,12800011]]'
-- '[[_Standards/WikiData/WD~chemical_component,20026787]]'
-part_of: '[[_Standards/WikiData/WD~chemical_system,28843570]]'
+- '[[_Standards/WikiData/WD~reactant,12800011|WD~reactant,12800011]]'
+- '[[_Standards/WikiData/WD~chemical_component,20026787|WD~chemical_component,20026787]]'
+part_of: '[[_Standards/WikiData/WD~chemical_system,28843570|WD~chemical_system,28843570]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~left_side_of_reaction,96483149]]'
-- '[[_Standards/WikiData/WD~right_side_of_reaction,96483162]]'
+- '[[_Standards/WikiData/WD~left_side_of_reaction,96483149|WD~left_side_of_reaction,96483149]]'
+- '[[_Standards/WikiData/WD~right_side_of_reaction,96483162|WD~right_side_of_reaction,96483162]]'
 OmegaWiki_Defined_Meaning: 555
 image: http://commons.wikimedia.org/wiki/Special:FilePath/ThermiteFe2O3.JPG
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Triethyl%20borate.ogv

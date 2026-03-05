@@ -110,24 +110,24 @@ aliases:
 - 瓢蟲科
 - 무당벌레과
 has_id_wikidata: Q25327
-has_use: '[[_Standards/WikiData/WD~biological_pest_control,116890]]'
-has_characteristic: '[[_Standards/WikiData/WD~hibernation,159408]]'
-main_food_source: '[[_Standards/WikiData/WD~aphid,183350]]'
+has_use: '[[_Standards/WikiData/WD~biological_pest_control,116890|WD~biological_pest_control,116890]]'
+has_characteristic: '[[_Standards/WikiData/WD~hibernation,159408|WD~hibernation,159408]]'
+main_food_source: '[[_Standards/WikiData/WD~aphid,183350|WD~aphid,183350]]'
 this_zoological_name_is_coordinate_with:
-- '[[_Standards/WikiData/WD~Coccinellinae,687380]]'
-- '[[_Standards/WikiData/WD~Coccinellini,4036347]]'
-- '[[_Standards/WikiData/WD~Coccinelloidea,25406957]]'
+- '[[_Standards/WikiData/WD~Coccinellinae,687380|WD~Coccinellinae,687380]]'
+- '[[_Standards/WikiData/WD~Coccinellini,4036347|WD~Coccinellini,4036347]]'
+- '[[_Standards/WikiData/WD~Coccinelloidea,25406957|WD~Coccinelloidea,25406957]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-has_list: '[[_Standards/WikiData/WD~list_of_Coccinellidae_genera,1941976]]'
-parent_taxon: '[[_Standards/WikiData/WD~Coccinelloidea,25406957]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+has_list: '[[_Standards/WikiData/WD~list_of_Coccinellidae_genera,1941976|WD~list_of_Coccinellidae_genera,1941976]]'
+parent_taxon: '[[_Standards/WikiData/WD~Coccinelloidea,25406957|WD~Coccinelloidea,25406957]]'
 color:
-- '[[_Standards/WikiData/WD~red,3142]]'
-- '[[_Standards/WikiData/WD~black,23445]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+- '[[_Standards/WikiData/WD~red,3142|WD~red,3142]]'
+- '[[_Standards/WikiData/WD~black,23445|WD~black,23445]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409|WD~family,35409]]'
 ITIS_TSN: 114329
 OmegaWiki_Defined_Meaning: 629382
 Commons_category: Coccinellidae

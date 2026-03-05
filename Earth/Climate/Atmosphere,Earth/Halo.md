@@ -47,20 +47,20 @@ aliases:
 - 무리
 has_id_wikidata: Q186310
 subclass_of:
-- '[[_Standards/WikiData/WD~photometeor,494057]]'
-- '[[_Standards/WikiData/WD~atmospheric_optical_phenomenon,29564129]]'
+- '[[_Standards/WikiData/WD~photometeor,494057|WD~photometeor,494057]]'
+- '[[_Standards/WikiData/WD~atmospheric_optical_phenomenon,29564129|WD~atmospheric_optical_phenomenon,29564129]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 different_from:
-- '[[_Standards/WikiData/WD~glory,1339916]]'
-- '[[_Standards/WikiData/WD~Halo,55623]]'
+- '[[_Standards/WikiData/WD~glory,1339916|WD~glory,1339916]]'
+- '[[_Standards/WikiData/WD~Halo,55623|WD~Halo,55623]]'
 Commons_gallery: Halo
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Halo%20in%20the%20Himalayas.jpg
 Commons_category: Halo phenomena
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Halo,186310]]'
+  - '[[../../../WikiData/WD~Halo,186310|WD~Halo,186310]]'
   - '[[/_Standards/Earth/Climate/Atmosphere,Earth/Halo|Halo]]'
   - '[[/_public/Earth/Climate/Atmosphere,Earth/Halo.public|Halo.public]]'
   - '[[/_internal/Earth/Climate/Atmosphere,Earth/Halo.internal|Halo.internal]]'
@@ -69,7 +69,7 @@ dv_is_:
   - '[[/_personal/Earth/Climate/Atmosphere,Earth/Halo.personal|Halo.personal]]'
   - '[[/_secret/Earth/Climate/Atmosphere,Earth/Halo.secret|Halo.secret]]'
 dv_is_same_as:
-- '[[../../../WikiData/WD~Halo,186310]]'
+- '[[../../../WikiData/WD~Halo,186310|WD~Halo,186310]]'
 - '[[/_Standards/Earth/Climate/Atmosphere,Earth/Halo|Halo]]'
 - '[[/_public/Earth/Climate/Atmosphere,Earth/Halo.public|Halo.public]]'
 - '[[/_internal/Earth/Climate/Atmosphere,Earth/Halo.internal|Halo.internal]]'

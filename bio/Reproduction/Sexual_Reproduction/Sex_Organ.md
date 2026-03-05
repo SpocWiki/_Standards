@@ -97,16 +97,16 @@ aliases:
 - 성기
 has_id_wikidata: Q4620674
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-has_characteristic: '[[_Standards/WikiData/WD~primary_sex_characteristic,2047721]]'
-different_from: '[[_Standards/WikiData/WD~sex_of_humans,4369513]]'
-development_of_anatomical_structure: '[[_Standards/WikiData/WD~genitalia_development,14905488]]'
-part_of: '[[_Standards/WikiData/WD~human_reproductive_system,20645683]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+has_characteristic: '[[_Standards/WikiData/WD~primary_sex_characteristic,2047721|WD~primary_sex_characteristic,2047721]]'
+different_from: '[[_Standards/WikiData/WD~sex_of_humans,4369513|WD~sex_of_humans,4369513]]'
+development_of_anatomical_structure: '[[_Standards/WikiData/WD~genitalia_development,14905488|WD~genitalia_development,14905488]]'
+part_of: '[[_Standards/WikiData/WD~human_reproductive_system,20645683|WD~human_reproductive_system,20645683]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~reproductive_organ,21087275]]'
-- '[[_Standards/WikiData/WD~gendered_anatomical_structure,43022214]]'
-instance_of: '[[_Standards/WikiData/WD~anatomical_structure_class_type,103914748]]'
+- '[[_Standards/WikiData/WD~reproductive_organ,21087275|WD~reproductive_organ,21087275]]'
+- '[[_Standards/WikiData/WD~gendered_anatomical_structure,43022214|WD~gendered_anatomical_structure,43022214]]'
+instance_of: '[[_Standards/WikiData/WD~anatomical_structure_class_type,103914748|WD~anatomical_structure_class_type,103914748]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Male%20and%20Female%20external%20genitalia.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/CharaV3.jpg

@@ -117,7 +117,7 @@ dv_has_:
 ---
 
 # [[Gerenuk]] 
-![[Gerenuk/gerenuk.jpg]] 
+![[Gerenuk/gerenuk.jpg|gerenuk.jpg]] 
 
 ## #has_/text_of_/abstract 
 

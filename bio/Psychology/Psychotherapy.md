@@ -65,43 +65,43 @@ has_id_wikidata: Q183257
 Commons_category: Psychotherapy
 Dewey_Decimal_Classification: 616.8914
 GitHub_topic: psychotherapy
-has_list: '[[_Standards/WikiData/WD~list_of_psychotherapies,2750270]]'
+has_list: '[[_Standards/WikiData/WD~list_of_psychotherapies,2750270|WD~list_of_psychotherapies,2750270]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~existential_therapy,556014]]'
-- '[[_Standards/WikiData/WD~gestalt_therapy,828879]]'
-- '[[_Standards/WikiData/WD~group_psychotherapy,837393]]'
-- '[[_Standards/WikiData/WD~family_therapy,870449]]'
-- '[[_Standards/WikiData/WD~art_therapy,928865]]'
-- '[[_Standards/WikiData/WD~cognitive_behavioral_therapy,1147152]]'
-- '[[_Standards/WikiData/WD~feminist_therapy,1404521]]'
-- '[[_Standards/WikiData/WD~body_psychotherapy,1416259]]'
-- '[[_Standards/WikiData/WD~psychodynamic_psychotherapy,2279219]]'
-- '[[_Standards/WikiData/WD~psychoanalysis,41630]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_psychotherapy,1516933]]'
+- '[[_Standards/WikiData/WD~existential_therapy,556014|WD~existential_therapy,556014]]'
+- '[[_Standards/WikiData/WD~gestalt_therapy,828879|WD~gestalt_therapy,828879]]'
+- '[[_Standards/WikiData/WD~group_psychotherapy,837393|WD~group_psychotherapy,837393]]'
+- '[[_Standards/WikiData/WD~family_therapy,870449|WD~family_therapy,870449]]'
+- '[[_Standards/WikiData/WD~art_therapy,928865|WD~art_therapy,928865]]'
+- '[[_Standards/WikiData/WD~cognitive_behavioral_therapy,1147152|WD~cognitive_behavioral_therapy,1147152]]'
+- '[[_Standards/WikiData/WD~feminist_therapy,1404521|WD~feminist_therapy,1404521]]'
+- '[[_Standards/WikiData/WD~body_psychotherapy,1416259|WD~body_psychotherapy,1416259]]'
+- '[[_Standards/WikiData/WD~psychodynamic_psychotherapy,2279219|WD~psychodynamic_psychotherapy,2279219]]'
+- '[[_Standards/WikiData/WD~psychoanalysis,41630|WD~psychoanalysis,41630]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_psychotherapy,1516933|WD~history_of_psychotherapy,1516933]]'
 instance_of:
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~health_specialty,44597158]]'
-- '[[_Standards/WikiData/WD~type_of_medical_treatment,130705900]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~health_specialty,44597158|WD~health_specialty,44597158]]'
+- '[[_Standards/WikiData/WD~type_of_medical_treatment,130705900|WD~type_of_medical_treatment,130705900]]'
 Krugosvet_article: medicina/PSIHOTERAPIYA.html
 Library_of_Congress_Classification: RC475-RC489.2
-medical_condition_treated: '[[_Standards/WikiData/WD~mental_disorder,12135]]'
+medical_condition_treated: '[[_Standards/WikiData/WD~mental_disorder,12135|WD~mental_disorder,12135]]'
 MeSH_tree_code: F04.754
 part_of:
-- '[[_Standards/WikiData/WD~medical_treatment,179661]]'
-- '[[_Standards/WikiData/WD~psychology,9418]]'
+- '[[_Standards/WikiData/WD~medical_treatment,179661|WD~medical_treatment,179661]]'
+- '[[_Standards/WikiData/WD~psychology,9418|WD~psychology,9418]]'
 PhilPapers_topic: psychotherapy
 practiced_by:
-- '[[_Standards/WikiData/WD~psychiatrist,211346]]'
-- '[[_Standards/WikiData/WD~psychologist,212980]]'
-- '[[_Standards/WikiData/WD~medical_psychotherapist,256705]]'
-- '[[_Standards/WikiData/WD~clinical_psychologist,1113899]]'
-- '[[_Standards/WikiData/WD~psychotherapist,1900167]]'
+- '[[_Standards/WikiData/WD~psychiatrist,211346|WD~psychiatrist,211346]]'
+- '[[_Standards/WikiData/WD~psychologist,212980|WD~psychologist,212980]]'
+- '[[_Standards/WikiData/WD~medical_psychotherapist,256705|WD~medical_psychotherapist,256705]]'
+- '[[_Standards/WikiData/WD~clinical_psychologist,1113899|WD~clinical_psychologist,1113899]]'
+- '[[_Standards/WikiData/WD~psychotherapist,1900167|WD~psychotherapist,1900167]]'
 regulated_by:
-- '[[_Standards/WikiData/WD~European_Association_for_Psychotherapy,876554]]'
-- '[[_Standards/WikiData/WD~World_Council_for_Psychotherapy,1110733]]'
-subclass_of: '[[_Standards/WikiData/WD~medical_treatment,179661]]'
+- '[[_Standards/WikiData/WD~European_Association_for_Psychotherapy,876554|WD~European_Association_for_Psychotherapy,876554]]'
+- '[[_Standards/WikiData/WD~World_Council_for_Psychotherapy,1110733|WD~World_Council_for_Psychotherapy,1110733]]'
+subclass_of: '[[_Standards/WikiData/WD~medical_treatment,179661|WD~medical_treatment,179661]]'
 subreddit: psychotherapy
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Psychotherapy,14884790]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Psychotherapy,14884790|WD~Template_Psychotherapy,14884790]]'
 UMLS_CUI: C0033968
 U_S_National_Archives_Identifier: 10643288
 Wolfram_Language_entity_code: Entity["Concept", "Psychotherapy::r62n5"]
@@ -210,7 +210,7 @@ dv_has_:
 
 # [[Psychotherapy]] 
 
-#is_/same_as :: [[../../WikiData/WD~Psychotherapy,183257]] 
+#is_/same_as :: [[../../WikiData/WD~Psychotherapy,183257|WD~Psychotherapy,183257]] 
 
 10% to 15% of all therapies have negative effects on the patient. 
 

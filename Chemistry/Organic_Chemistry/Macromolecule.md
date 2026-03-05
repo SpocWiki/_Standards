@@ -52,16 +52,16 @@ aliases:
 - 高分子
 - 고분자
 has_id_wikidata: Q178593
-different_from: '[[_Standards/WikiData/WD~supramolecular_assembly,2427921]]'
-instance_of: '[[_Standards/WikiData/WD~group_or_class_of_chemical_entities,72070508]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
-subclass_of: '[[_Standards/WikiData/WD~molecule,11369]]'
+different_from: '[[_Standards/WikiData/WD~supramolecular_assembly,2427921|WD~supramolecular_assembly,2427921]]'
+instance_of: '[[_Standards/WikiData/WD~group_or_class_of_chemical_entities,72070508|WD~group_or_class_of_chemical_entities,72070508]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363|WD~Armenian_Soviet_Encyclopedia,_vol._7,123625363]]'
+subclass_of: '[[_Standards/WikiData/WD~molecule,11369|WD~molecule,11369]]'
 OmegaWiki_Defined_Meaning: 533211
 image: http://commons.wikimedia.org/wiki/Special:FilePath/ProteinStructure.jpg
 Commons_category: Macromolecules
 dv_is_:
   same_as:
-  - '[[../../WikiData/WD~Macromolecule,178593]]'
+  - '[[../../WikiData/WD~Macromolecule,178593|WD~Macromolecule,178593]]'
   - '[[/_Standards/Chemistry/Organic_Chemistry/Macromolecule|Macromolecule]]'
   - '[[/_public/Chemistry/Organic_Chemistry/Macromolecule.public|Macromolecule.public]]'
   - '[[/_internal/Chemistry/Organic_Chemistry/Macromolecule.internal|Macromolecule.internal]]'
@@ -70,7 +70,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Organic_Chemistry/Macromolecule.personal|Macromolecule.personal]]'
   - '[[/_secret/Chemistry/Organic_Chemistry/Macromolecule.secret|Macromolecule.secret]]'
 dv_is_same_as:
-- '[[../../WikiData/WD~Macromolecule,178593]]'
+- '[[../../WikiData/WD~Macromolecule,178593|WD~Macromolecule,178593]]'
 - '[[/_Standards/Chemistry/Organic_Chemistry/Macromolecule|Macromolecule]]'
 - '[[/_public/Chemistry/Organic_Chemistry/Macromolecule.public|Macromolecule.public]]'
 - '[[/_internal/Chemistry/Organic_Chemistry/Macromolecule.internal|Macromolecule.internal]]'

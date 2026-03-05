@@ -110,125 +110,125 @@ location:
 - 6.31667
 - -10.8
 member_of:
-- '[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]'
-- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]'
-- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
-- '[[_Standards/WikiData/WD~Economic_Community_of_West_African_States,193272]]'
-- '[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]'
-- '[[_Standards/WikiData/WD~African_Development_Bank,340195]]'
-- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]'
-- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
-- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
-- '[[_Standards/WikiData/WD~International_Development_Association,827525]]'
-- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
-- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
-- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
-- '[[_Standards/WikiData/WD~Mano_River_Union,1505172]]'
-- '[[_Standards/WikiData/WD~United_Nations,1065]]'
-- '[[_Standards/WikiData/WD~African_Union,7159]]'
-- '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
-- '[[_Standards/WikiData/WD~Interpol,8475]]'
-- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
-flag: '[[_Standards/WikiData/WD~flag_of_Liberia,170795]]'
-head_of_state: '[[_Standards/WikiData/WD~George_Weah,173139]]'
-head_of_government: '[[_Standards/WikiData/WD~George_Weah,173139]]'
-highest_judicial_authority: '[[_Standards/WikiData/WD~Supreme_Court_of_Liberia,174776]]'
-currency: '[[_Standards/WikiData/WD~Liberian_dollar,242988]]'
-coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Liberia,271210]]'
+- '[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656|WD~International_Civil_Defence_Organisation,162656]]'
+- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~Economic_Community_of_West_African_States,193272|WD~Economic_Community_of_West_African_States,193272]]'
+- '[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278|WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]'
+- '[[_Standards/WikiData/WD~African_Development_Bank,340195|WD~African_Development_Bank,340195]]'
+- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150|WD~International_Telecommunication_Union,376150]]'
+- '[[_Standards/WikiData/WD~World_Customs_Organization,605326|WD~World_Customs_Organization,605326]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801|WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~International_Development_Association,827525|WD~International_Development_Association,827525]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490|WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770|WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
+- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527|WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[_Standards/WikiData/WD~Mano_River_Union,1505172|WD~Mano_River_Union,1505172]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~African_Union,7159|WD~African_Union,7159]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809|WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817|WD~World_Health_Organization,7817]]'
+- '[[_Standards/WikiData/WD~Interpol,8475|WD~Interpol,8475]]'
+- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495|WD~Universal_Postal_Union_UPU,17495]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Liberia,170795|WD~flag_of_Liberia,170795]]'
+head_of_state: '[[_Standards/WikiData/WD~George_Weah,173139|WD~George_Weah,173139]]'
+head_of_government: '[[_Standards/WikiData/WD~George_Weah,173139|WD~George_Weah,173139]]'
+highest_judicial_authority: '[[_Standards/WikiData/WD~Supreme_Court_of_Liberia,174776|WD~Supreme_Court_of_Liberia,174776]]'
+currency: '[[_Standards/WikiData/WD~Liberian_dollar,242988|WD~Liberian_dollar,242988]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_Liberia,271210|WD~coat_of_arms_of_Liberia,271210]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556]]'
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-anthem: '[[_Standards/WikiData/WD~All_Hail,_Liberia,_Hail!,324342]]'
+- '[[_Standards/WikiData/WD~Catholic_Encyclopedia,302556|WD~Catholic_Encyclopedia,302556]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Sytin_Military_Encyclopedia,4114391|WD~Sytin_Military_Encyclopedia,4114391]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+anthem: '[[_Standards/WikiData/WD~All_Hail,_Liberia,_Hail!,324342|WD~All_Hail,_Liberia,_Hail!,324342]]'
 emergency_phone_number:
-- '[[_Standards/WikiData/WD~911,533806]]'
-- '[[_Standards/WikiData/WD~114,2945964]]'
+- '[[_Standards/WikiData/WD~911,533806|WD~911,533806]]'
+- '[[_Standards/WikiData/WD~114,2945964|WD~114,2945964]]'
 replaces:
-- '[[_Standards/WikiData/WD~Republic_of_Maryland,544630]]'
-- '[[_Standards/WikiData/WD~Colony_of_Liberia,104830524]]'
+- '[[_Standards/WikiData/WD~Republic_of_Maryland,544630|WD~Republic_of_Maryland,544630]]'
+- '[[_Standards/WikiData/WD~Colony_of_Liberia,104830524|WD~Colony_of_Liberia,104830524]]'
 contains_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Grand_Kru_County,574952]]'
-- '[[_Standards/WikiData/WD~Gbarpolu_County,592251]]'
-- '[[_Standards/WikiData/WD~Bomi_County,844127]]'
-- '[[_Standards/WikiData/WD~Montserrado_County,862608]]'
-- '[[_Standards/WikiData/WD~Nimba,868497]]'
-- '[[_Standards/WikiData/WD~Lofa_County,870130]]'
-- '[[_Standards/WikiData/WD~Maryland_County,870138]]'
-- '[[_Standards/WikiData/WD~Bong_County,877578]]'
-- '[[_Standards/WikiData/WD~Grand_Gedeh_County,950841]]'
-- '[[_Standards/WikiData/WD~River_Cess_County,955095]]'
-- '[[_Standards/WikiData/WD~Sinoe_County,1043644]]'
-- '[[_Standards/WikiData/WD~River_Gee_County,1047875]]'
-- '[[_Standards/WikiData/WD~Grand_Bassa_County,1047895]]'
-- '[[_Standards/WikiData/WD~Grand_Cape_Mount_County,1047921]]'
-- '[[_Standards/WikiData/WD~Margibi_County,1052737]]'
-geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Liberia,677846]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_Liberia,866271]]'
+- '[[_Standards/WikiData/WD~Grand_Kru_County,574952|WD~Grand_Kru_County,574952]]'
+- '[[_Standards/WikiData/WD~Gbarpolu_County,592251|WD~Gbarpolu_County,592251]]'
+- '[[_Standards/WikiData/WD~Bomi_County,844127|WD~Bomi_County,844127]]'
+- '[[_Standards/WikiData/WD~Montserrado_County,862608|WD~Montserrado_County,862608]]'
+- '[[_Standards/WikiData/WD~Nimba,868497|WD~Nimba,868497]]'
+- '[[_Standards/WikiData/WD~Lofa_County,870130|WD~Lofa_County,870130]]'
+- '[[_Standards/WikiData/WD~Maryland_County,870138|WD~Maryland_County,870138]]'
+- '[[_Standards/WikiData/WD~Bong_County,877578|WD~Bong_County,877578]]'
+- '[[_Standards/WikiData/WD~Grand_Gedeh_County,950841|WD~Grand_Gedeh_County,950841]]'
+- '[[_Standards/WikiData/WD~River_Cess_County,955095|WD~River_Cess_County,955095]]'
+- '[[_Standards/WikiData/WD~Sinoe_County,1043644|WD~Sinoe_County,1043644]]'
+- '[[_Standards/WikiData/WD~River_Gee_County,1047875|WD~River_Gee_County,1047875]]'
+- '[[_Standards/WikiData/WD~Grand_Bassa_County,1047895|WD~Grand_Bassa_County,1047895]]'
+- '[[_Standards/WikiData/WD~Grand_Cape_Mount_County,1047921|WD~Grand_Cape_Mount_County,1047921]]'
+- '[[_Standards/WikiData/WD~Margibi_County,1052737|WD~Margibi_County,1052737]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Liberia,677846|WD~geography_of_Liberia,677846]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Liberia,866271|WD~history_of_Liberia,866271]]'
 electrical_plug_type:
-- '[[_Standards/WikiData/WD~Schuko,1123613]]'
-- '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- '[[_Standards/WikiData/WD~Type_E,2335536]]'
-- '[[_Standards/WikiData/WD~NEMA_1-15,24288454]]'
-- '[[_Standards/WikiData/WD~NEMA_5-15,24288456]]'
+- '[[_Standards/WikiData/WD~Schuko,1123613|WD~Schuko,1123613]]'
+- '[[_Standards/WikiData/WD~Europlug,1378312|WD~Europlug,1378312]]'
+- '[[_Standards/WikiData/WD~Type_E,2335536|WD~Type_E,2335536]]'
+- '[[_Standards/WikiData/WD~NEMA_1-15,24288454|WD~NEMA_1-15,24288454]]'
+- '[[_Standards/WikiData/WD~NEMA_5-15,24288456|WD~NEMA_5-15,24288456]]'
 language_used:
-- '[[_Standards/WikiData/WD~Dan,1158971]]'
-- '[[_Standards/WikiData/WD~Mende,1478672]]'
-- '[[_Standards/WikiData/WD~Liberian_English,1616241]]'
-- '[[_Standards/WikiData/WD~Mano,3913286]]'
-- '[[_Standards/WikiData/WD~Gbii,3914390]]'
-- '[[_Standards/WikiData/WD~Southern_Grebo,3914444]]'
-- '[[_Standards/WikiData/WD~Klao,3914866]]'
-- '[[_Standards/WikiData/WD~Dewoin,3914892]]'
-- '[[_Standards/WikiData/WD~Glio-Ubi,3914977]]'
-- '[[_Standards/WikiData/WD~Glaro-Twabo,3915313]]'
-- '[[_Standards/WikiData/WD~Tajuasohn,3915326]]'
-- '[[_Standards/WikiData/WD~Konobo,3915374]]'
-- '[[_Standards/WikiData/WD~Sapo,3915386]]'
-- '[[_Standards/WikiData/WD~Liberian_Kreyol,6541128]]'
-- '[[_Standards/WikiData/WD~Western_Krahn,10975611]]'
-- '[[_Standards/WikiData/WD~Manya,11006832]]'
-- '[[_Standards/WikiData/WD~Grebo-Gboloo,11019342]]'
-- '[[_Standards/WikiData/WD~Southern_Kissi,11028974]]'
-- '[[_Standards/WikiData/WD~Northern_Grebo,11157042]]'
-- '[[_Standards/WikiData/WD~Grebo-Barclayville,11157342]]'
-- '[[_Standards/WikiData/WD~Central_Grebo,18385114]]'
-- '[[_Standards/WikiData/WD~Liberia_Kpelle,20527226]]'
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~Bandi,34912]]'
-- '[[_Standards/WikiData/WD~Bassa,34949]]'
-- '[[_Standards/WikiData/WD~Grebo,35257]]'
-- '[[_Standards/WikiData/WD~Gola,35482]]'
-- '[[_Standards/WikiData/WD~Kuwaa,35579]]'
-- '[[_Standards/WikiData/WD~Kpelle,35673]]'
-- '[[_Standards/WikiData/WD~Loma,35885]]'
-- '[[_Standards/WikiData/WD~Vai,36939]]'
-different_from: '[[_Standards/WikiData/WD~Liberia,1205628]]'
-highest_point: '[[_Standards/WikiData/WD~Mount_Wuteve,1950836]]'
-demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Liberia,2453399]]'
-economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Liberia,2477633]]'
-central_bank: '[[_Standards/WikiData/WD~Central_Bank_of_Liberia,2899684]]'
-culture: '[[_Standards/WikiData/WD~culture_of_Liberia,3007352]]'
+- '[[_Standards/WikiData/WD~Dan,1158971|WD~Dan,1158971]]'
+- '[[_Standards/WikiData/WD~Mende,1478672|WD~Mende,1478672]]'
+- '[[_Standards/WikiData/WD~Liberian_English,1616241|WD~Liberian_English,1616241]]'
+- '[[_Standards/WikiData/WD~Mano,3913286|WD~Mano,3913286]]'
+- '[[_Standards/WikiData/WD~Gbii,3914390|WD~Gbii,3914390]]'
+- '[[_Standards/WikiData/WD~Southern_Grebo,3914444|WD~Southern_Grebo,3914444]]'
+- '[[_Standards/WikiData/WD~Klao,3914866|WD~Klao,3914866]]'
+- '[[_Standards/WikiData/WD~Dewoin,3914892|WD~Dewoin,3914892]]'
+- '[[_Standards/WikiData/WD~Glio-Ubi,3914977|WD~Glio-Ubi,3914977]]'
+- '[[_Standards/WikiData/WD~Glaro-Twabo,3915313|WD~Glaro-Twabo,3915313]]'
+- '[[_Standards/WikiData/WD~Tajuasohn,3915326|WD~Tajuasohn,3915326]]'
+- '[[_Standards/WikiData/WD~Konobo,3915374|WD~Konobo,3915374]]'
+- '[[_Standards/WikiData/WD~Sapo,3915386|WD~Sapo,3915386]]'
+- '[[_Standards/WikiData/WD~Liberian_Kreyol,6541128|WD~Liberian_Kreyol,6541128]]'
+- '[[_Standards/WikiData/WD~Western_Krahn,10975611|WD~Western_Krahn,10975611]]'
+- '[[_Standards/WikiData/WD~Manya,11006832|WD~Manya,11006832]]'
+- '[[_Standards/WikiData/WD~Grebo-Gboloo,11019342|WD~Grebo-Gboloo,11019342]]'
+- '[[_Standards/WikiData/WD~Southern_Kissi,11028974|WD~Southern_Kissi,11028974]]'
+- '[[_Standards/WikiData/WD~Northern_Grebo,11157042|WD~Northern_Grebo,11157042]]'
+- '[[_Standards/WikiData/WD~Grebo-Barclayville,11157342|WD~Grebo-Barclayville,11157342]]'
+- '[[_Standards/WikiData/WD~Central_Grebo,18385114|WD~Central_Grebo,18385114]]'
+- '[[_Standards/WikiData/WD~Liberia_Kpelle,20527226|WD~Liberia_Kpelle,20527226]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Bandi,34912|WD~Bandi,34912]]'
+- '[[_Standards/WikiData/WD~Bassa,34949|WD~Bassa,34949]]'
+- '[[_Standards/WikiData/WD~Grebo,35257|WD~Grebo,35257]]'
+- '[[_Standards/WikiData/WD~Gola,35482|WD~Gola,35482]]'
+- '[[_Standards/WikiData/WD~Kuwaa,35579|WD~Kuwaa,35579]]'
+- '[[_Standards/WikiData/WD~Kpelle,35673|WD~Kpelle,35673]]'
+- '[[_Standards/WikiData/WD~Loma,35885|WD~Loma,35885]]'
+- '[[_Standards/WikiData/WD~Vai,36939|WD~Vai,36939]]'
+different_from: '[[_Standards/WikiData/WD~Liberia,1205628|WD~Liberia,1205628]]'
+highest_point: '[[_Standards/WikiData/WD~Mount_Wuteve,1950836|WD~Mount_Wuteve,1950836]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Liberia,2453399|WD~demographics_of_Liberia,2453399]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Liberia,2477633|WD~economy_of_Liberia,2477633]]'
+central_bank: '[[_Standards/WikiData/WD~Central_Bank_of_Liberia,2899684|WD~Central_Bank_of_Liberia,2899684]]'
+culture: '[[_Standards/WikiData/WD~culture_of_Liberia,3007352|WD~culture_of_Liberia,3007352]]'
 instance_of:
-- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
-- '[[_Standards/WikiData/WD~country,6256]]'
-- '[[_Standards/WikiData/WD~republic,7270]]'
-legislative_body: '[[_Standards/WikiData/WD~Legislature_of_Liberia,4345418]]'
+- '[[_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~country,6256|WD~country,6256]]'
+- '[[_Standards/WikiData/WD~republic,7270|WD~republic,7270]]'
+legislative_body: '[[_Standards/WikiData/WD~Legislature_of_Liberia,4345418|WD~Legislature_of_Liberia,4345418]]'
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~Africa_Monrovia,4689514]]'
-- '[[_Standards/WikiData/WD~UTC_00_00,6574]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Liberia,7112334]]'
-driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Liberia,14615827]]'
-office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Liberia,19161825]]'
-office_held_by_head_of_government: '[[_Standards/WikiData/WD~President_of_Liberia,19161825]]'
-has_characteristic: '[[_Standards/WikiData/WD~partly_free_country,47185145]]'
+- '[[_Standards/WikiData/WD~Africa_Monrovia,4689514|WD~Africa_Monrovia,4689514]]'
+- '[[_Standards/WikiData/WD~UTC_00_00,6574|WD~UTC_00_00,6574]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Liberia,7112334|WD~outline_of_Liberia,7112334]]'
+driving_side: '[[_Standards/WikiData/WD~right,14565199|WD~right,14565199]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Liberia,14615827|WD~Portal_Liberia,14615827]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Liberia,19161825|WD~President_of_Liberia,19161825]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~President_of_Liberia,19161825|WD~President_of_Liberia,19161825]]'
+has_characteristic: '[[_Standards/WikiData/WD~partly_free_country,47185145|WD~partly_free_country,47185145]]'
 coordinates_of_easternmost_point: Point(-7.3678 5.33413)
-studied_in: '[[_Standards/WikiData/WD~Liberian_studies,115669699]]'
+studied_in: '[[_Standards/WikiData/WD~Liberian_studies,115669699|WD~Liberian_studies,115669699]]'
 UMLS_CUI: C0023617
 demonym:
 - ليبيري
@@ -274,27 +274,27 @@ nominal_GDP:
 - 4001047150
 - 3509000000
 diplomatic_relation:
-- '[[_Standards/WikiData/WD~North_Korea,423]]'
-- '[[_Standards/WikiData/WD~India,668]]'
-- '[[_Standards/WikiData/WD~Taiwan,865]]'
-- '[[_Standards/WikiData/WD~Bangladesh,902]]'
-- '[[_Standards/WikiData/WD~Sierra_Leone,1044]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~Hungary,28]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~North_Korea,423|WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~India,668|WD~India,668]]'
+- '[[_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~Bangladesh,902|WD~Bangladesh,902]]'
+- '[[_Standards/WikiData/WD~Sierra_Leone,1044|WD~Sierra_Leone,1044]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Hungary,28|WD~Hungary,28]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
 shares_border_with:
-- '[[_Standards/WikiData/WD~Guinea,1006]]'
-- '[[_Standards/WikiData/WD~Ivory_Coast,1008]]'
-- '[[_Standards/WikiData/WD~Sierra_Leone,1044]]'
-country: '[[_Standards/WikiData/WD~Liberia,1014]]'
-official_language: '[[_Standards/WikiData/WD~English,1860]]'
-capital: '[[_Standards/WikiData/WD~Monrovia,3748]]'
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~West_Africa,4412]]'
-part_of: '[[_Standards/WikiData/WD~West_Africa,4412]]'
-continent: '[[_Standards/WikiData/WD~Africa,15]]'
-lowest_point: '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
-located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
+- '[[_Standards/WikiData/WD~Guinea,1006|WD~Guinea,1006]]'
+- '[[_Standards/WikiData/WD~Ivory_Coast,1008|WD~Ivory_Coast,1008]]'
+- '[[_Standards/WikiData/WD~Sierra_Leone,1044|WD~Sierra_Leone,1044]]'
+country: '[[_Standards/WikiData/WD~Liberia,1014|WD~Liberia,1014]]'
+official_language: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+capital: '[[_Standards/WikiData/WD~Monrovia,3748|WD~Monrovia,3748]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~West_Africa,4412|WD~West_Africa,4412]]'
+part_of: '[[_Standards/WikiData/WD~West_Africa,4412|WD~West_Africa,4412]]'
+continent: '[[_Standards/WikiData/WD~Africa,15|WD~Africa,15]]'
+lowest_point: '[[_Standards/WikiData/WD~Atlantic_Ocean,97|WD~Atlantic_Ocean,97]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Atlantic_Ocean,97|WD~Atlantic_Ocean,97]]'
 unemployment_rate: 4
 mains_voltage:
 - 120
@@ -313,7 +313,7 @@ BTI_Status_Index:
 - 5.54
 - 5.56
 Happy_Planet_Index_score: 46
-top_level_Internet_domain: '[[_Standards/WikiData/WD~.lr,42847]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.lr,42847|WD~.lr,42847]]'
 Gini_coefficient: 35.3
 BTI_Governance_Index:
 - 3.61
@@ -461,7 +461,7 @@ dv_UNTERM_Chinese_Formal: 利比里亚共和国
 dv_UNTERM_French_Formal: la République du Libéria
 dv_UNTERM_Russian: Либерия
 dv_UNTERM_Russian_Formal: Республика Либерия
-dv_Region_Name: '[[../../Africa]]'
+dv_Region_Name: '[[../../Africa|Africa]]'
 dv_Intermediate_Region_Name: '[[Western Africa]]'
 dv_Sub-region_Name: '[[Sub-Saharan Africa]]'
 dv_Region: 2
@@ -776,7 +776,7 @@ dv_has_:
 dv_has_name_de: Liberia
 dv_Area-Total: 97754
 dv_Area-Land: 96750
-dv_has_place_continent: '[[../../Africa]]'
+dv_has_place_continent: '[[../../Africa|Africa]]'
 dv_VehicleCode: LB
 dv_Alcohol-l: 5.1
 dv_Language-Id: 499
@@ -871,7 +871,7 @@ ISO3 = `=this.dv_ISO3`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Liberia/ReadMe]] 
+[[Liberia/ReadMe|ReadMe]] 
 
 ## #has_/map 
 
@@ -893,11 +893,11 @@ Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
-Capital :: [[Liberia/Counties~Liberia/Montserrado/counties~Montserrado/Greater_Monrovia/cities~Greater_Monrovia/Monrovia]]  
+Capital :: [[Liberia/Counties~Liberia/Montserrado/counties~Montserrado/Greater_Monrovia/cities~Greater_Monrovia/Monrovia|Monrovia]]  
 
 ![[Coat_of_arms_of_Liberia.svg|350]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Liberia.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Liberia.mp3|Anthem-Liberia.mp3]]
 
 ![[Flag_of_Liberia.svg|350]]
 

@@ -96,38 +96,38 @@ aliases:
 - ꯈꯣꯡꯖꯣꯝꯅꯨꯕꯤ (ꯊꯋꯥꯟꯃꯤꯆꯥꯛ)
 - 플레이아데스 성단
 has_id_wikidata: Q13423
-different_from: '[[_Standards/WikiData/WD~Plejaderne,109946]]'
+different_from: '[[_Standards/WikiData/WD~Plejaderne,109946|WD~Plejaderne,109946]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
-- '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135|WD~Encyclopedic_Lexicon,4532135]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Q30059240,30059240|WD~Q30059240,30059240]]'
+- '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886|WD~Star_Lore_of_All_Ages,95985886]]'
 named_after:
-- '[[_Standards/WikiData/WD~Pleiades,922942]]'
-- '[[_Standards/WikiData/WD~pearl_necklace,15880515]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Vergiliae,16295234]]'
-topic_has_template: '[[_Standards/WikiData/WD~Q25721143,25721143]]'
+- '[[_Standards/WikiData/WD~Pleiades,922942|WD~Pleiades,922942]]'
+- '[[_Standards/WikiData/WD~pearl_necklace,15880515|WD~pearl_necklace,15880515]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Vergiliae,16295234|WD~Vergiliae,16295234]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q25721143,25721143|WD~Q25721143,25721143]]'
 declination_component_of_proper_motion: -45.548
-constellation: '[[_Standards/WikiData/WD~Taurus,10570]]'
-instance_of: '[[_Standards/WikiData/WD~open_cluster,11387]]'
+constellation: '[[_Standards/WikiData/WD~Taurus,10570|WD~Taurus,10570]]'
+instance_of: '[[_Standards/WikiData/WD~open_cluster,11387|WD~open_cluster,11387]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~Atlas,13427]]'
-- '[[_Standards/WikiData/WD~Alcyone,13425]]'
-- '[[_Standards/WikiData/WD~Electra,13429]]'
-- '[[_Standards/WikiData/WD~Maia,13434]]'
-- '[[_Standards/WikiData/WD~Taygeta,13439]]'
-- '[[_Standards/WikiData/WD~Merope,13436]]'
-- '[[_Standards/WikiData/WD~Pleione,13440]]'
-- '[[_Standards/WikiData/WD~Asterope,13446]]'
-- '[[_Standards/WikiData/WD~Celaeno,13445]]'
+- '[[_Standards/WikiData/WD~Atlas,13427|WD~Atlas,13427]]'
+- '[[_Standards/WikiData/WD~Alcyone,13425|WD~Alcyone,13425]]'
+- '[[_Standards/WikiData/WD~Electra,13429|WD~Electra,13429]]'
+- '[[_Standards/WikiData/WD~Maia,13434|WD~Maia,13434]]'
+- '[[_Standards/WikiData/WD~Taygeta,13439|WD~Taygeta,13439]]'
+- '[[_Standards/WikiData/WD~Merope,13436|WD~Merope,13436]]'
+- '[[_Standards/WikiData/WD~Pleione,13440|WD~Pleione,13440]]'
+- '[[_Standards/WikiData/WD~Asterope,13446|WD~Asterope,13446]]'
+- '[[_Standards/WikiData/WD~Celaeno,13445|WD~Celaeno,13445]]'
 metallicity: -0.01
 mass: 800
 angular_diameter: 110
-part_of: '[[_Standards/WikiData/WD~Orion_Arm,33187]]'
+part_of: '[[_Standards/WikiData/WD~Orion_Arm,33187|WD~Orion_Arm,33187]]'
 apparent_magnitude: 1.6
 radius: 7.5
 age_estimated_by_a_dating_method: 115
@@ -152,7 +152,7 @@ Commons_gallery: Messier 45
 Commons_category: Pleiades (star cluster)
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Pleiades,13423]]'
+  - '[[../../../WikiData/WD~Pleiades,13423|WD~Pleiades,13423]]'
   - '[[/_Standards/Astronomy/Star_System/Star_Cluster/Pleiades|Pleiades]]'
   - '[[/_public/Astronomy/Star_System/Star_Cluster/Pleiades.public|Pleiades.public]]'
   - '[[/_internal/Astronomy/Star_System/Star_Cluster/Pleiades.internal|Pleiades.internal]]'
@@ -161,7 +161,7 @@ dv_is_:
   - '[[/_personal/Astronomy/Star_System/Star_Cluster/Pleiades.personal|Pleiades.personal]]'
   - '[[/_secret/Astronomy/Star_System/Star_Cluster/Pleiades.secret|Pleiades.secret]]'
 dv_is_same_as:
-- '[[../../../WikiData/WD~Pleiades,13423]]'
+- '[[../../../WikiData/WD~Pleiades,13423|WD~Pleiades,13423]]'
 - '[[/_Standards/Astronomy/Star_System/Star_Cluster/Pleiades|Pleiades]]'
 - '[[/_public/Astronomy/Star_System/Star_Cluster/Pleiades.public|Pleiades.public]]'
 - '[[/_internal/Astronomy/Star_System/Star_Cluster/Pleiades.internal|Pleiades.internal]]'

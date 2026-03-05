@@ -73,16 +73,16 @@ aliases:
 - 월경 주기
 has_id_wikidata: Q83864
 has_part_s_:
-- '[[_Standards/WikiData/WD~ovulation,187082]]'
-- '[[_Standards/WikiData/WD~menstruation,12171]]'
-instance_of: '[[_Standards/WikiData/WD~biological_process,2996394]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~uterine_cycle,3676498]]'
-facet_of: "[[_Standards/WikiData/WD~women's_health,8031191]]"
-topic_has_template: '[[_Standards/WikiData/WD~Template_Menstrual_cycle,8072164]]'
+- '[[_Standards/WikiData/WD~ovulation,187082|WD~ovulation,187082]]'
+- '[[_Standards/WikiData/WD~menstruation,12171|WD~menstruation,12171]]'
+instance_of: '[[_Standards/WikiData/WD~biological_process,2996394|WD~biological_process,2996394]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~uterine_cycle,3676498|WD~uterine_cycle,3676498]]'
+facet_of: "[[_Standards/WikiData/WD~women's_health,8031191|WD~women's_health,8031191]]"
+topic_has_template: '[[_Standards/WikiData/WD~Template_Menstrual_cycle,8072164|WD~Template_Menstrual_cycle,8072164]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~ovulation_cycle,14864005]]'
-- '[[_Standards/WikiData/WD~developmental_process_involved_in_reproduction,14904219]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
+- '[[_Standards/WikiData/WD~ovulation_cycle,14864005|WD~ovulation_cycle,14864005]]'
+- '[[_Standards/WikiData/WD~developmental_process_involved_in_reproduction,14904219|WD~developmental_process_involved_in_reproduction,14904219]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720|WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
 Commons_gallery: Menstrual cycle
 Commons_category: Menstrual cycle
 described_at_URL: http://bacsisaigon.net/kinh-nguyet-khong-deu.html

@@ -37,9 +37,9 @@ aliases:
 - 쥐상과
 has_id_wikidata: Q58949
 title: Muroidea
-described_by_source: '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-taxon_rank: '[[_Standards/WikiData/WD~superfamily,2136103]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+described_by_source: '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+taxon_rank: '[[_Standards/WikiData/WD~superfamily,2136103|WD~superfamily,2136103]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 ITIS_TSN: 970141
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Feldmaus%20Microtus%20arvalis.jpg
 Commons_category: Muroidea

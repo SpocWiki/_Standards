@@ -72,15 +72,15 @@ aliases:
 - 편견
 has_id_wikidata: Q179742
 instance_of:
-- '[[../../../WikiData/WD~affect,159904]]'
-- '[[_Standards/WikiData/WD~type_of_bias,100912473]]'
-subclass_of: '[[_Standards/WikiData/WD~bias,742736]]'
+- '[[../../../WikiData/WD~affect,159904|WD~affect,159904]]'
+- '[[_Standards/WikiData/WD~type_of_bias,100912473|WD~type_of_bias,100912473]]'
+subclass_of: '[[_Standards/WikiData/WD~bias,742736|WD~bias,742736]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
-- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
-based_on: '[[_Standards/WikiData/WD~Classification,1744625]]'
-different_from: '[[_Standards/WikiData/WD~prejudice_(legal),109701697]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635|WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+- '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072|WD~Red_Blue_Translator,131935072]]'
+based_on: '[[_Standards/WikiData/WD~Classification,1744625|WD~Classification,1744625]]'
+different_from: '[[_Standards/WikiData/WD~prejudice_(legal),109701697|WD~prejudice_(legal),109701697]]'
 Commons_category: Prejudice
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Mr-prejudice-1943.jpg
 Universal_Decimal_Classification: 316.647.8

@@ -54,11 +54,11 @@ bite_force_quotient: 58
 Colon_Classification: KX542
 Commons_category: Felis silvestris catus
 Commons_gallery: Felis silvestris catus
-described_by_source: "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]"
+described_by_source: "[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]"
 Dewey_Decimal_Classification:
   - 599.752
   - 636.8
-different_from: "[[_Standards/WikiData/WD~Kat,353304]]"
+different_from: "[[_Standards/WikiData/WD~Kat,353304|WD~Kat,353304]]"
 gestation_period: 64
 hashtag:
   - catlover
@@ -69,25 +69,25 @@ hashtag:
   - 猫
   - ねこ
 has_characteristic:
-  - "[[_Standards/WikiData/WD~predation,170430]]"
-  - "[[_Standards/WikiData/WD~purr,662750]]"
-  - "[[_Standards/WikiData/WD~speaker_recognition,1145189]]"
-  - "[[_Standards/WikiData/WD~meow,3307942]]"
-  - "[[_Standards/WikiData/WD~cat_righting_reflex,3454738]]"
-  - "[[_Standards/WikiData/WD~caress,14404836]]"
-has_effect: "[[_Standards/WikiData/WD~allergy_to_cats,1736897]]"
+  - "[[_Standards/WikiData/WD~predation,170430|WD~predation,170430]]"
+  - "[[_Standards/WikiData/WD~purr,662750|WD~purr,662750]]"
+  - "[[_Standards/WikiData/WD~speaker_recognition,1145189|WD~speaker_recognition,1145189]]"
+  - "[[_Standards/WikiData/WD~meow,3307942|WD~meow,3307942]]"
+  - "[[_Standards/WikiData/WD~cat_righting_reflex,3454738|WD~cat_righting_reflex,3454738]]"
+  - "[[_Standards/WikiData/WD~caress,14404836|WD~caress,14404836]]"
+has_effect: "[[_Standards/WikiData/WD~allergy_to_cats,1736897|WD~allergy_to_cats,1736897]]"
 has_use:
-  - "[[_Standards/WikiData/WD~mouser,104551794]]"
-  - "[[_Standards/WikiData/WD~pet,39201]]"
+  - "[[_Standards/WikiData/WD~mouser,104551794|WD~mouser,104551794]]"
+  - "[[_Standards/WikiData/WD~pet,39201|WD~pet,39201]]"
 heart_rate: 125
 IAB_code: 424
 Iconclass_notation: 34B12
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Cat%20November%202010-1a.jpg
 instance_of:
-  - "[[_Standards/WikiData/WD~invasive_species,183368]]"
-  - "[[_Standards/WikiData/WD~model_organism,213907]]"
-  - "[[_Standards/WikiData/WD~species_aggregate,1297859]]"
-  - "[[_Standards/WikiData/WD~taxon,16521]]"
+  - "[[_Standards/WikiData/WD~invasive_species,183368|WD~invasive_species,183368]]"
+  - "[[_Standards/WikiData/WD~model_organism,213907|WD~model_organism,213907]]"
+  - "[[_Standards/WikiData/WD~species_aggregate,1297859|WD~species_aggregate,1297859]]"
+  - "[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]"
 Krugosvet_article: biologiya/koshka-domashnyaya
 life_expectancy: 22
 male_form_of_label:
@@ -101,8 +101,8 @@ montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Collage%20of%2
 nighttime_view: http://commons.wikimedia.org/wiki/Special:FilePath/Cat%20at%20night%20in%20the%20castle%20district%20in%20Budapest.jpg
 OmegaWiki_Defined_Meaning: 5446
 produced_sound:
-  - "[[_Standards/WikiData/WD~purr,662750]]"
-  - "[[_Standards/WikiData/WD~meow,3307942]]"
+  - "[[_Standards/WikiData/WD~purr,662750|WD~purr,662750]]"
+  - "[[_Standards/WikiData/WD~meow,3307942|WD~meow,3307942]]"
 social_media_followers:
   - 6200000
   - 305170
@@ -112,20 +112,20 @@ spoken_text_audio:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Kat-article.ogg
   - http://commons.wikimedia.org/wiki/Special:FilePath/Hy-%D4%BF%D5%A1%D5%BF%D5%B8%D6%82%D5%B6%D5%A5%D6%80%20%28Cats%29.ogg
 start_time: -8000-01-01
-studied_in: "[[_Standards/WikiData/WD~felinology,647020]]"
+studied_in: "[[_Standards/WikiData/WD~felinology,647020|WD~felinology,647020]]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~domesticated_mammal,57814795]]"
-  - "[[_Standards/WikiData/WD~pet,39201]]"
+  - "[[_Standards/WikiData/WD~domesticated_mammal,57814795|WD~domesticated_mammal,57814795]]"
+  - "[[_Standards/WikiData/WD~pet,39201|WD~pet,39201]]"
 subreddit:
   - Chonkers
   - cat
   - cats
 taxon_known_by_this_common_name:
-  - "[[_Standards/WikiData/WD~Felis_catus,20980826]]"
-  - "[[_Standards/WikiData/WD~Felis_silvestris_catus,57818409]]"
+  - "[[_Standards/WikiData/WD~Felis_catus,20980826|WD~Felis_catus,20980826]]"
+  - "[[_Standards/WikiData/WD~Felis_silvestris_catus,57818409|WD~Felis_silvestris_catus,57818409]]"
 topic_s_main_template:
-  - "[[_Standards/WikiData/WD~Q10598083,10598083]]"
-  - "[[_Standards/WikiData/WD~Template_Domestic_cat,11174357]]"
+  - "[[_Standards/WikiData/WD~Q10598083,10598083|WD~Q10598083,10598083]]"
+  - "[[_Standards/WikiData/WD~Template_Domestic_cat,11174357|WD~Template_Domestic_cat,11174357]]"
 UMLS_CUI: C0007450
 Unicode_character:
   - 🐈
@@ -137,16 +137,16 @@ video:
   - http://commons.wikimedia.org/wiki/Special:FilePath/Hiirepyyk%20kass%20koer%202022.webm
 winter_view: http://commons.wikimedia.org/wiki/Special:FilePath/Felis%20catus-cat%20on%20snow.jpg
 Wolfram_Language_entity_code: Entity["Concept", "DomesticCat::jpx55"]
-taxon_range: "[[_Standards/WikiData/WD~Santarém,659450]]"
-maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
-protonym_of: "[[_Standards/WikiData/WD~Felis_silvestris_catus,57818409]]"
-taxon_synonym: "[[_Standards/WikiData/WD~Felis_silvestris_catus,57818409]]"
-diel_cycle: "[[_Standards/WikiData/WD~nocturnal,101029366]]"
-this_taxon_is_source_of: "[[_Standards/WikiData/WD~cat_dander,104413227]]"
+taxon_range: "[[_Standards/WikiData/WD~Santarém,659450|WD~Santarém,659450]]"
+maintained_by_WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615|WD~WikiProject_Invasion_Biology,56241615]]"
+protonym_of: "[[_Standards/WikiData/WD~Felis_silvestris_catus,57818409|WD~Felis_silvestris_catus,57818409]]"
+taxon_synonym: "[[_Standards/WikiData/WD~Felis_silvestris_catus,57818409|WD~Felis_silvestris_catus,57818409]]"
+diel_cycle: "[[_Standards/WikiData/WD~nocturnal,101029366|WD~nocturnal,101029366]]"
+this_taxon_is_source_of: "[[_Standards/WikiData/WD~cat_dander,104413227|WD~cat_dander,104413227]]"
 invasive_to:
-  - "[[_Standards/WikiData/WD~Australia,408]]"
-  - "[[_Standards/WikiData/WD~Australian_continent,3960]]"
-taxon_rank: "[[_Standards/WikiData/WD~species,7432]]"
+  - "[[_Standards/WikiData/WD~Australia,408|WD~Australia,408]]"
+  - "[[_Standards/WikiData/WD~Australian_continent,3960|WD~Australian_continent,3960]]"
+taxon_rank: "[[_Standards/WikiData/WD~species,7432|WD~species,7432]]"
 ITIS_TSN: 183798
 taxon_common_name:
   - ucing
@@ -226,7 +226,7 @@ dv_has_:
 
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~House_cat,146|WD~House_cat,146]]   
-#is_/same_as :: [[_Standards/WikiData/WD~Felis_catus,20980826]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Felis_catus,20980826|WD~Felis_catus,20980826]] 
 
 ## #has_/text_of_/abstract 
 

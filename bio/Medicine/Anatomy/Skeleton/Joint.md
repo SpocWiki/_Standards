@@ -116,19 +116,19 @@ tags:
 title: is_a_joint Class
 type: Type
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~Gray's_Anatomy_(20th_edition),19558994]]"
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
-produced_sound: '[[_Standards/WikiData/WD~cracking_joints,1417078]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Joints,14402946]]'
-different_from: '[[_Standards/WikiData/WD~Cymal,21061384]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~Gray's_Anatomy_(20th_edition),19558994|WD~Gray's_Anatomy_(20th_edition),19558994]]"
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+produced_sound: '[[_Standards/WikiData/WD~cracking_joints,1417078|WD~cracking_joints,1417078]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Joints,14402946|WD~Template_Joints,14402946]]'
+different_from: '[[_Standards/WikiData/WD~Cymal,21061384|WD~Cymal,21061384]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~heterogeneous_anatomical_cluster,66561296]]'
-- '[[_Standards/WikiData/WD~joint,109321311]]'
-- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]'
-instance_of: '[[_Standards/WikiData/WD~anatomical_structure_class_type,103914748]]'
+- '[[_Standards/WikiData/WD~heterogeneous_anatomical_cluster,66561296|WD~heterogeneous_anatomical_cluster,66561296]]'
+- '[[_Standards/WikiData/WD~joint,109321311|WD~joint,109321311]]'
+- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975|WD~particular_anatomical_entity,112826975]]'
+instance_of: '[[_Standards/WikiData/WD~anatomical_structure_class_type,103914748|WD~anatomical_structure_class_type,103914748]]'
 TA98_Latin_term: junctura
 OmegaWiki_Defined_Meaning: 1652935
 Commons_category: Joints
@@ -270,7 +270,7 @@ Tag Instances like this:
 
 The anatomical location at which two or more bones make contact.
 
-#has_/parent_class :: [[../AnatomicalStructure]]  
+#has_/parent_class :: [[../AnatomicalStructure|AnatomicalStructure]]  
 
 #has_/properties :: [ additionalType, alternateName, associatedPathophysiology, biomechnicalClass, bodyLocation, code, connectedTo, description, diagram, disambiguatingDescription, functionalClass, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, partOfSystem, potentialAction, recognizingAuthority, relatedCondition, relatedTherapy, relevantSpecialty, sameAs, structuralClass, study, subStructure, subjectOf, url ]  
 

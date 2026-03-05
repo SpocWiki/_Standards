@@ -127,27 +127,27 @@ aliases:
 - 척주
 - "\U00010337\U00010342\U0001033F\U00010332\U0001033E\U00010330\U00010331\U00010330\U00010339\U0001033D"
 has_id_wikidata: Q482853
-anatomical_location: '[[_Standards/WikiData/WD~back,133279]]'
+anatomical_location: '[[_Standards/WikiData/WD~back,133279|WD~back,133279]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~coccyx,193176]]'
-- '[[_Standards/WikiData/WD~sacrum,233316]]'
-- '[[_Standards/WikiData/WD~thoracic_spine,994527]]'
-- '[[_Standards/WikiData/WD~cervical_spine,1572320]]'
-- '[[_Standards/WikiData/WD~lumbar_spine,66513438]]'
+- '[[_Standards/WikiData/WD~coccyx,193176|WD~coccyx,193176]]'
+- '[[_Standards/WikiData/WD~sacrum,233316|WD~sacrum,233316]]'
+- '[[_Standards/WikiData/WD~thoracic_spine,994527|WD~thoracic_spine,994527]]'
+- '[[_Standards/WikiData/WD~cervical_spine,1572320|WD~cervical_spine,1572320]]'
+- '[[_Standards/WikiData/WD~lumbar_spine,66513438|WD~lumbar_spine,66513438]]'
 connects_with:
-- '[[_Standards/WikiData/WD~pelvis,713102]]'
-- '[[_Standards/WikiData/WD~rib_cage,2576226]]'
-- '[[_Standards/WikiData/WD~skull,13147]]'
+- '[[_Standards/WikiData/WD~pelvis,713102|WD~pelvis,713102]]'
+- '[[_Standards/WikiData/WD~rib_cage,2576226|WD~rib_cage,2576226]]'
+- '[[_Standards/WikiData/WD~skull,13147|WD~skull,13147]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~subdivision_of_skeletal_system,66591855]]'
-- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]'
-instance_of: '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]'
-part_of: '[[_Standards/WikiData/WD~skeleton,7881]]'
-contains: '[[_Standards/WikiData/WD~spinal_cord,9606]]'
+- '[[_Standards/WikiData/WD~subdivision_of_skeletal_system,66591855|WD~subdivision_of_skeletal_system,66591855]]'
+- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975|WD~particular_anatomical_entity,112826975]]'
+instance_of: '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905|WD~class_of_anatomical_entity,112826905]]'
+part_of: '[[_Standards/WikiData/WD~skeleton,7881|WD~skeleton,7881]]'
+contains: '[[_Standards/WikiData/WD~spinal_cord,9606|WD~spinal_cord,9606]]'
 OmegaWiki_Defined_Meaning: 348411
 Dewey_Decimal_Classification:
 - 612.75

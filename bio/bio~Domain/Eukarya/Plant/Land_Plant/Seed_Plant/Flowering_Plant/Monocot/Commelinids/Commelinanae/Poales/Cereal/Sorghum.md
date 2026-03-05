@@ -124,33 +124,33 @@ taxon_common_name:
 - சோளம்
 - sorgwm
 subclass_of:
-- '[[_Standards/WikiData/WD~perennial_plant,157957]]'
-- '[[_Standards/WikiData/WD~useful_plant,11992872]]'
+- '[[_Standards/WikiData/WD~perennial_plant,157957|WD~perennial_plant,157957]]'
+- '[[_Standards/WikiData/WD~useful_plant,11992872|WD~useful_plant,11992872]]'
 has_use:
-- '[[_Standards/WikiData/WD~medicinal_plant,188840]]'
-- '[[_Standards/WikiData/WD~dye,189720]]'
-- '[[_Standards/WikiData/WD~building_material,206615]]'
-- '[[_Standards/WikiData/WD~fodder,211439]]'
-- '[[_Standards/WikiData/WD~food,2095]]'
-- '[[_Standards/WikiData/WD~cereal_grain,12117]]'
-- '[[../../../../../../../../../../../../WikiData/WD~fiber,161]]'
-this_taxon_is_source_of: '[[_Standards/WikiData/WD~camelina_oil,496049]]'
+- '[[_Standards/WikiData/WD~medicinal_plant,188840|WD~medicinal_plant,188840]]'
+- '[[_Standards/WikiData/WD~dye,189720|WD~dye,189720]]'
+- '[[_Standards/WikiData/WD~building_material,206615|WD~building_material,206615]]'
+- '[[_Standards/WikiData/WD~fodder,211439|WD~fodder,211439]]'
+- '[[_Standards/WikiData/WD~food,2095|WD~food,2095]]'
+- '[[_Standards/WikiData/WD~cereal_grain,12117|WD~cereal_grain,12117]]'
+- '[[../../../../../../../../../../../../WikiData/WD~fiber,161|WD~fiber,161]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~camelina_oil,496049|WD~camelina_oil,496049]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Flora_of_the_Lesser_Antilles,_Leeward_and_Windward_Islands,10878728]]'
-- '[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]'
-- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_10(2),112869382]]'
-has_basionym: '[[_Standards/WikiData/WD~Holcus_bicolor,39584634]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
-hardiness_of_plant: '[[_Standards/WikiData/WD~2,99546131]]'
-taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
-parent_taxon: '[[_Standards/WikiData/WD~Sorghum,12111]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Flora_of_the_Lesser_Antilles,_Leeward_and_Windward_Islands,10878728|WD~Flora_of_the_Lesser_Antilles,_Leeward_and_Windward_Islands,10878728]]'
+- '[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112|WD~Zhiwu_Mingshi_Tukao,107402112]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_10(2),112869382|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_10(2),112869382]]'
+has_basionym: '[[_Standards/WikiData/WD~Holcus_bicolor,39584634|WD~Holcus_bicolor,39584634]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615|WD~WikiProject_Invasion_Biology,56241615]]'
+hardiness_of_plant: '[[_Standards/WikiData/WD~2,99546131|WD~2,99546131]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432|WD~species,7432]]'
+parent_taxon: '[[_Standards/WikiData/WD~Sorghum,12111|WD~Sorghum,12111]]'
 taxon_range:
-- '[[_Standards/WikiData/WD~Guangdong,15175]]'
-- '[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Fujian,41705]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~Guangdong,15175|WD~Guangdong,15175]]'
+- '[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269|WD~Tibet_Autonomous_Region,17269]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Fujian,41705|WD~Fujian,41705]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 water_footprint: 3048
 ITIS_TSN: 42108
 short_name: S. bicolor

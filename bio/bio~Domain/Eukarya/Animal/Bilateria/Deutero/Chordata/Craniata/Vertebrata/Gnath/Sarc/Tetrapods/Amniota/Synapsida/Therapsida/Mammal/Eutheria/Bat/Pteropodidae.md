@@ -59,14 +59,14 @@ aliases:
 - 狐蝠科
 - 큰박쥐류
 has_id_wikidata: Q185230
-taxonomic_type: '[[_Standards/WikiData/WD~Pteropus,1241332]]'
-diel_cycle: '[[_Standards/WikiData/WD~crepuscular,3255068]]'
-natural_reservoir_of: '[[_Standards/WikiData/WD~Ebolavirus,5331908]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Pteropus,1241332|WD~Pteropus,1241332]]'
+diel_cycle: '[[_Standards/WikiData/WD~crepuscular,3255068|WD~crepuscular,3255068]]'
+natural_reservoir_of: '[[_Standards/WikiData/WD~Ebolavirus,5331908|WD~Ebolavirus,5331908]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409|WD~family,35409]]'
 Commons_gallery: Pteropodidae
 Commons_category: Pteropodidae
 taxon_name: Pteropodidae

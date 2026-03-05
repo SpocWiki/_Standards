@@ -92,17 +92,17 @@ aliases:
 - 太陽系外行星
 - 외계 행성
 has_id_wikidata: Q44559
-has_use: '[[_Standards/WikiData/WD~space_colonization,686876]]'
-has_list: '[[_Standards/WikiData/WD~list_of_exoplanets,1863380]]'
-studied_by: '[[_Standards/WikiData/WD~exoplanetology,3809431]]'
+has_use: '[[_Standards/WikiData/WD~space_colonization,686876|WD~space_colonization,686876]]'
+has_list: '[[_Standards/WikiData/WD~list_of_exoplanets,1863380|WD~list_of_exoplanets,1863380]]'
+studied_by: '[[_Standards/WikiData/WD~exoplanetology,3809431|WD~exoplanetology,3809431]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~extrasolar_object,5422256]]'
-- '[[_Standards/WikiData/WD~planet,634]]'
+- '[[_Standards/WikiData/WD~extrasolar_object,5422256|WD~extrasolar_object,5422256]]'
+- '[[_Standards/WikiData/WD~planet,634|WD~planet,634]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Infobox_extrasolar_planet,6443358]]'
-- '[[_Standards/WikiData/WD~Template_Exoplanet,13219190]]'
-instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
-different_from: '[[_Standards/WikiData/WD~unconfirmed_exoplanet,18611609]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_extrasolar_planet,6443358|WD~Template_Infobox_extrasolar_planet,6443358]]'
+- '[[_Standards/WikiData/WD~Template_Exoplanet,13219190|WD~Template_Exoplanet,13219190]]'
+instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909|WD~astronomical_object_type,17444909]]'
+different_from: '[[_Standards/WikiData/WD~unconfirmed_exoplanet,18611609|WD~unconfirmed_exoplanet,18611609]]'
 properties_for_this_type:
 - discovery method
 - M sin i

@@ -78,19 +78,19 @@ aliases:
 - 尼安德特人
 - 네안데르탈인
 has_id_wikidata: Q40171
-named_after: '[[_Standards/WikiData/WD~Neandertal,170081]]'
-subclass_of: '[[_Standards/WikiData/WD~archaic_humans,284851]]'
+named_after: '[[_Standards/WikiData/WD~Neandertal,170081|WD~Neandertal,170081]]'
+subclass_of: '[[_Standards/WikiData/WD~archaic_humans,284851|WD~archaic_humans,284851]]'
 described_by_source:
-- '[[../../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Canon_of_Flanders,111845748]]'
-taxonomic_type: '[[_Standards/WikiData/WD~Neanderthal_1,821603]]'
-instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Neanderthal_map,105542426]]'
-taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
+- '[[../../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Canon_of_Flanders,111845748|WD~Canon_of_Flanders,111845748]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Neanderthal_1,821603|WD~Neanderthal_1,821603]]'
+instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290|WD~fossil_taxon,23038290]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Neanderthal_map,105542426|WD~Template_Neanderthal_map,105542426]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432|WD~species,7432]]'
 start_time: -248050-01-01T00:00:00Z
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Homo%20sapiens%20neanderthalensis%20%28Fundort%20Gibraltar%29.jpg

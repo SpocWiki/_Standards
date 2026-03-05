@@ -48,15 +48,15 @@ aliases:
 - 硅酸钠
 - 규산 나트륨
 has_id_wikidata: Q425397
-safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
-subclass_of: '[[_Standards/WikiData/WD~sodium_silicates,54910469]]'
-different_from: '[[_Standards/WikiData/WD~water_glass,107385620]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288|WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
+subclass_of: '[[_Standards/WikiData/WD~sodium_silicates,54910469|WD~sodium_silicates,54910469]]'
+different_from: '[[_Standards/WikiData/WD~water_glass,107385620|WD~water_glass,107385620]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171|WD~type_of_chemical_entity,113145171]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635|WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~oxygen,629]]'
-- '[[_Standards/WikiData/WD~sodium,658]]'
-- '[[_Standards/WikiData/WD~silicon,670]]'
+- '[[_Standards/WikiData/WD~oxygen,629|WD~oxygen,629]]'
+- '[[_Standards/WikiData/WD~sodium,658|WD~sodium,658]]'
+- '[[_Standards/WikiData/WD~silicon,670|WD~silicon,670]]'
 ZVG_number: 2350
 UN_number: 3253
 PubChem_CID:

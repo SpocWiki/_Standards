@@ -83,33 +83,33 @@ aliases:
 - 투표
 has_id_wikidata: Q189760
 used_by:
-- '[[_Standards/WikiData/WD~electoral_unit,192611]]'
-- '[[_Standards/WikiData/WD~democracy,7174]]'
-location: '[[_Standards/WikiData/WD~polling_place,335778]]'
+- '[[_Standards/WikiData/WD~electoral_unit,192611|WD~electoral_unit,192611]]'
+- '[[_Standards/WikiData/WD~democracy,7174|WD~democracy,7174]]'
+location: '[[_Standards/WikiData/WD~polling_place,335778|WD~polling_place,335778]]'
 uses:
-- '[[_Standards/WikiData/WD~secret_ballot,337987]]'
-- '[[_Standards/WikiData/WD~ballot,905151]]'
+- '[[_Standards/WikiData/WD~secret_ballot,337987|WD~secret_ballot,337987]]'
+- '[[_Standards/WikiData/WD~ballot,905151|WD~ballot,905151]]'
 subclass_of:
-- '[[../../../../../../WikiData/WD~group_decision_making,388791]]'
-- '[[_Standards/WikiData/WD~event,1656682]]'
-- '[[_Standards/WikiData/WD~legal_act,1864008]]'
-- '[[_Standards/WikiData/WD~selection,12888920]]'
-follows: '[[_Standards/WikiData/WD~political_campaign,847301]]'
-different_from: '[[_Standards/WikiData/WD~musical_tuning,858576]]'
+- '[[../../../../../../WikiData/WD~group_decision_making,388791|WD~group_decision_making,388791]]'
+- '[[_Standards/WikiData/WD~event,1656682|WD~event,1656682]]'
+- '[[_Standards/WikiData/WD~legal_act,1864008|WD~legal_act,1864008]]'
+- '[[_Standards/WikiData/WD~selection,12888920|WD~selection,12888920]]'
+follows: '[[_Standards/WikiData/WD~political_campaign,847301|WD~political_campaign,847301]]'
+different_from: '[[_Standards/WikiData/WD~musical_tuning,858576|WD~musical_tuning,858576]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-has_immediate_cause: '[[_Standards/WikiData/WD~vote,1306135]]'
-has_use: '[[../../../../../../WikiData/WD~decision_making,1331926]]'
-studied_by: '[[_Standards/WikiData/WD~sociology_of_voting,3487526]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+has_immediate_cause: '[[_Standards/WikiData/WD~vote,1306135|WD~vote,1306135]]'
+has_use: '[[../../../../../../WikiData/WD~decision_making,1331926|WD~decision_making,1331926]]'
+studied_by: '[[_Standards/WikiData/WD~sociology_of_voting,3487526|WD~sociology_of_voting,3487526]]'
 maintained_by_WikiProject:
-- '[[_Standards/WikiData/WD~WikiProject_Politics,5492483]]'
-- '[[_Standards/WikiData/WD~WikiProject_Elections_and_Referendums,14772108]]'
-- '[[_Standards/WikiData/WD~WikiProject_Parliamentary_Procedure,21830590]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Voting,14447836]]'
-has_characteristic: '[[_Standards/WikiData/WD~voting_method,30323942]]'
-opposite_of: '[[_Standards/WikiData/WD~abstention,70635750]]'
+- '[[_Standards/WikiData/WD~WikiProject_Politics,5492483|WD~WikiProject_Politics,5492483]]'
+- '[[_Standards/WikiData/WD~WikiProject_Elections_and_Referendums,14772108|WD~WikiProject_Elections_and_Referendums,14772108]]'
+- '[[_Standards/WikiData/WD~WikiProject_Parliamentary_Procedure,21830590|WD~WikiProject_Parliamentary_Procedure,21830590]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Voting,14447836|WD~Template_Voting,14447836]]'
+has_characteristic: '[[_Standards/WikiData/WD~voting_method,30323942|WD~voting_method,30323942]]'
+opposite_of: '[[_Standards/WikiData/WD~abstention,70635750|WD~abstention,70635750]]'
 properties_for_this_type: right to vote
 OmegaWiki_Defined_Meaning: 4866
 Commons_category: Voting

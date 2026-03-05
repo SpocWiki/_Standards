@@ -57,24 +57,24 @@ isReadOnly: false
 tags:
 - astro/Zodiac
 type: Zodiac
-named_after: '[[_Standards/WikiData/WD~lyre,201129]]'
+named_after: '[[_Standards/WikiData/WD~lyre,201129|WD~lyre,201129]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886]]'
-- '[[_Standards/WikiData/WD~Lyra,105104280]]'
-part_of: '[[_Standards/WikiData/WD~Northern_celestial_hemisphere,1998069]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Star_Lore_of_All_Ages,95985886|WD~Star_Lore_of_All_Ages,95985886]]'
+- '[[_Standards/WikiData/WD~Lyra,105104280|WD~Lyra,105104280]]'
+part_of: '[[_Standards/WikiData/WD~Northern_celestial_hemisphere,1998069|WD~Northern_celestial_hemisphere,1998069]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Stars_of_Lyra,8084782]]'
-- '[[_Standards/WikiData/WD~Q10729068,10729068]]'
+- '[[_Standards/WikiData/WD~Template_Stars_of_Lyra,8084782|WD~Template_Stars_of_Lyra,8084782]]'
+- '[[_Standards/WikiData/WD~Q10729068,10729068|WD~Q10729068,10729068]]'
 shares_border_with:
-- '[[_Standards/WikiData/WD~Draco,8675]]'
-- '[[_Standards/WikiData/WD~Cygnus,8921]]'
-- '[[_Standards/WikiData/WD~Hercules,10448]]'
-- '[[_Standards/WikiData/WD~Vulpecula,10519]]'
-instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
+- '[[_Standards/WikiData/WD~Draco,8675|WD~Draco,8675]]'
+- '[[_Standards/WikiData/WD~Cygnus,8921|WD~Cygnus,8921]]'
+- '[[_Standards/WikiData/WD~Hercules,10448|WD~Hercules,10448]]'
+- '[[_Standards/WikiData/WD~Vulpecula,10519|WD~Vulpecula,10519]]'
+instance_of: '[[_Standards/WikiData/WD~constellation,8928|WD~constellation,8928]]'
 right_ascension: 1130
 declination: 36.5
 area: 286.5

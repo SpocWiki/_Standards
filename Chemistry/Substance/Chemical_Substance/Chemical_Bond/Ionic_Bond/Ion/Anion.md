@@ -42,24 +42,24 @@ aliases:
 - 陰離子
 - 음이온
 has_id_wikidata: Q107968
-opposite_of: '[[_Standards/WikiData/WD~cation,326277]]'
+opposite_of: '[[_Standards/WikiData/WD~cation,326277|WD~cation,326277]]'
 part_of:
-- '[[_Standards/WikiData/WD~anion_homeostasis,14859890]]'
-- '[[_Standards/WikiData/WD~anion_transmembrane_transporter_activity,14877692]]'
-- '[[_Standards/WikiData/WD~anion_transport,14877696]]'
-- '[[_Standards/WikiData/WD~folate_anion_antiporter_activity,14914287]]'
-- '[[_Standards/WikiData/WD~anion_transmembrane_transport,21972809]]'
-- '[[_Standards/WikiData/WD~cellular_anion_homeostasis,22298128]]'
-- '[[_Standards/WikiData/WD~anion_binding,22312567]]'
-- '[[_Standards/WikiData/WD~potassium_ion_antiporter_activity,22324934]]'
-- '[[_Standards/WikiData/WD~solute_anion_antiporter_activity,63771584]]'
-- '[[_Standards/WikiData/WD~orotate_anion_antiporter_activity,112997912]]'
-- '[[_Standards/WikiData/WD~bicarbonate_anion_antiporter_activity,112998384]]'
+- '[[_Standards/WikiData/WD~anion_homeostasis,14859890|WD~anion_homeostasis,14859890]]'
+- '[[_Standards/WikiData/WD~anion_transmembrane_transporter_activity,14877692|WD~anion_transmembrane_transporter_activity,14877692]]'
+- '[[_Standards/WikiData/WD~anion_transport,14877696|WD~anion_transport,14877696]]'
+- '[[_Standards/WikiData/WD~folate_anion_antiporter_activity,14914287|WD~folate_anion_antiporter_activity,14914287]]'
+- '[[_Standards/WikiData/WD~anion_transmembrane_transport,21972809|WD~anion_transmembrane_transport,21972809]]'
+- '[[_Standards/WikiData/WD~cellular_anion_homeostasis,22298128|WD~cellular_anion_homeostasis,22298128]]'
+- '[[_Standards/WikiData/WD~anion_binding,22312567|WD~anion_binding,22312567]]'
+- '[[_Standards/WikiData/WD~potassium_ion_antiporter_activity,22324934|WD~potassium_ion_antiporter_activity,22324934]]'
+- '[[_Standards/WikiData/WD~solute_anion_antiporter_activity,63771584|WD~solute_anion_antiporter_activity,63771584]]'
+- '[[_Standards/WikiData/WD~orotate_anion_antiporter_activity,112997912|WD~orotate_anion_antiporter_activity,112997912]]'
+- '[[_Standards/WikiData/WD~bicarbonate_anion_antiporter_activity,112998384|WD~bicarbonate_anion_antiporter_activity,112998384]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
-subclass_of: '[[_Standards/WikiData/WD~ion,36496]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
+subclass_of: '[[_Standards/WikiData/WD~ion,36496|WD~ion,36496]]'
 OmegaWiki_Defined_Meaning: 198
 IEV_number: 114-01-12
 Commons_category: Anions
@@ -67,7 +67,7 @@ UMLS_CUI: C0003075
 MeSH_tree_code: D01.248.497.158
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~anion,107968]]'
+  - '[[_Standards/WikiData/WD~anion,107968|WD~anion,107968]]'
   - '[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion|Anion]]'
   - '[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion.public|Anion.public]]'
   - '[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion.internal|Anion.internal]]'
@@ -76,7 +76,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion.personal|Anion.personal]]'
   - '[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion.secret|Anion.secret]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~anion,107968]]'
+- '[[_Standards/WikiData/WD~anion,107968|WD~anion,107968]]'
 - '[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion|Anion]]'
 - '[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion.public|Anion.public]]'
 - '[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Anion.internal|Anion.internal]]'
@@ -177,7 +177,7 @@ dv_has_:
 
 # [[Anion]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~anion,107968]] 
+#is_/same_as :: [[_Standards/WikiData/WD~anion,107968|WD~anion,107968]] 
 
 ## #has_/text_of_/abstract 
 

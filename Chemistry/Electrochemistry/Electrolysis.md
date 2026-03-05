@@ -63,13 +63,13 @@ aliases:
 - 전기 분해
 has_id_wikidata: Q64403
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517]]'
-instance_of: '[[_Standards/WikiData/WD~technique,2695280]]'
-subclass_of: '[[_Standards/WikiData/WD~chemical_reaction,36534]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Small_Soviet_Encyclopedia,66386517|WD~Small_Soviet_Encyclopedia,66386517]]'
+instance_of: '[[_Standards/WikiData/WD~technique,2695280|WD~technique,2695280]]'
+subclass_of: '[[_Standards/WikiData/WD~chemical_reaction,36534|WD~chemical_reaction,36534]]'
 OmegaWiki_Defined_Meaning: 1121
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Elektrolyse%20Allgemein.jpg
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Nl-Elektrolyse-article.ogg

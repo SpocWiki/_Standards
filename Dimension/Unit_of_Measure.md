@@ -118,34 +118,34 @@ aliases:
 - 측정 단위
 has_id_wikidata: Q47574
 subclass_of:
-- '[[_Standards/WikiData/WD~scalar_quantity,181175]]'
-- '[[_Standards/WikiData/WD~measure,39875001]]'
-- '[[_Standards/WikiData/WD~individual_quantity,71550118]]'
-facet_of: '[[_Standards/WikiData/WD~quantity,309314]]'
+- '[[_Standards/WikiData/WD~scalar_quantity,181175|WD~scalar_quantity,181175]]'
+- '[[_Standards/WikiData/WD~measure,39875001|WD~measure,39875001]]'
+- '[[_Standards/WikiData/WD~individual_quantity,71550118|WD~individual_quantity,71550118]]'
+facet_of: '[[_Standards/WikiData/WD~quantity,309314|WD~quantity,309314]]'
 described_by_source:
-- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~ISO_15_Quantities_and_units_Part_1_General,26711930]]'
-- "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
-- '[[_Standards/WikiData/WD~International_Vocabulary_of_Metrology_(3rd_edition,_2012),70257574]]'
+- '[[../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~ISO_15_Quantities_and_units_Part_1_General,26711930|WD~ISO_15_Quantities_and_units_Part_1_General,26711930]]'
+- "[[_Standards/WikiData/WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240|WD~Russian_translation_of_Lübker's_Antiquity_Lexicon,30059240]]"
+- '[[_Standards/WikiData/WD~International_Vocabulary_of_Metrology_(3rd_edition,_2012),70257574|WD~International_Vocabulary_of_Metrology_(3rd_edition,_2012),70257574]]'
 part_of:
-- '[[_Standards/WikiData/WD~system_of_units,932268]]'
-- '[[_Standards/WikiData/WD~quantity_value,110597311]]'
+- '[[_Standards/WikiData/WD~system_of_units,932268|WD~system_of_units,932268]]'
+- '[[_Standards/WikiData/WD~quantity_value,110597311|WD~quantity_value,110597311]]'
 different_from:
-- '[[_Standards/WikiData/WD~measurement_scale,1370617]]'
-- '[[_Standards/WikiData/WD~unit,2198779]]'
-- '[[_Standards/WikiData/WD~allowed_units_constraint,21514353]]'
-- '[[_Standards/WikiData/WD~quantity_dimension,19110]]'
+- '[[_Standards/WikiData/WD~measurement_scale,1370617|WD~measurement_scale,1370617]]'
+- '[[_Standards/WikiData/WD~unit,2198779|WD~unit,2198779]]'
+- '[[_Standards/WikiData/WD~allowed_units_constraint,21514353|WD~allowed_units_constraint,21514353]]'
+- '[[_Standards/WikiData/WD~quantity_dimension,19110|WD~quantity_dimension,19110]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Infobox_unit,6376448]]'
-- '[[_Standards/WikiData/WD~Q22804808,22804808]]'
-disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-studied_by: '[[_Standards/WikiData/WD~metrology,394]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_unit,6376448|WD~Template_Infobox_unit,6376448]]'
+- '[[_Standards/WikiData/WD~Q22804808,22804808|WD~Q22804808,22804808]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
+studied_by: '[[_Standards/WikiData/WD~metrology,394|WD~metrology,394]]'
 properties_for_this_type:
 - conversion to SI unit
 - conversion to standard unit

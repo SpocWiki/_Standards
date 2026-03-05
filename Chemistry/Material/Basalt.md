@@ -36,16 +36,16 @@ aliases:
 - 玄武岩
 - 현무암
 has_id_wikidata: Q43338
-subclass_of: '[[_Standards/WikiData/WD~volcanic_rock,108689]]'
-named_after: '[[_Standards/WikiData/WD~Black_Tortoise,125696]]'
+subclass_of: '[[_Standards/WikiData/WD~volcanic_rock,108689|WD~volcanic_rock,108689]]'
+named_after: '[[_Standards/WikiData/WD~Black_Tortoise,125696|WD~Black_Tortoise,125696]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-award_received: '[[_Standards/WikiData/WD~Rock_of_the_Year,1519491]]'
-instance_of: '[[_Standards/WikiData/WD~rock_type,11871901]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+award_received: '[[_Standards/WikiData/WD~Rock_of_the_Year,1519491|WD~Rock_of_the_Year,1519491]]'
+instance_of: '[[_Standards/WikiData/WD~rock_type,11871901|WD~rock_type,11871901]]'
 Commons_gallery: Basalt
 Commons_category: Basalt
 UNSPSC_Code: 11111609

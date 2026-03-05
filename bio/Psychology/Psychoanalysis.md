@@ -87,25 +87,25 @@ aliases:
 - 정신분석학
 has_id_wikidata: Q41630
 instance_of:
-- '[[_Standards/WikiData/WD~medical_treatment,179661]]'
-- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~medical_treatment,179661|WD~medical_treatment,179661]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113|WD~field_of_study,1047113]]'
 is_the_study_of:
-- '[[_Standards/WikiData/WD~unconscious_mind,192105]]'
-- '[[_Standards/WikiData/WD~defence_mechanism,2866472]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_psychoanalysis,1094231]]'
+- '[[_Standards/WikiData/WD~unconscious_mind,192105|WD~unconscious_mind,192105]]'
+- '[[_Standards/WikiData/WD~defence_mechanism,2866472|WD~defence_mechanism,2866472]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_psychoanalysis,1094231|WD~history_of_psychoanalysis,1094231]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~child_psychoanalysis,3410022]]'
-- '[[_Standards/WikiData/WD~psychoanalytic_theory,7256338]]'
-practiced_by: '[[_Standards/WikiData/WD~psychoanalyst,3410028]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~psychoanalytic_theory,7256338]]'
+- '[[_Standards/WikiData/WD~child_psychoanalysis,3410022|WD~child_psychoanalysis,3410022]]'
+- '[[_Standards/WikiData/WD~psychoanalytic_theory,7256338|WD~psychoanalytic_theory,7256338]]'
+practiced_by: '[[_Standards/WikiData/WD~psychoanalyst,3410028|WD~psychoanalyst,3410028]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~psychoanalytic_theory,7256338|WD~psychoanalytic_theory,7256338]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Q10716589,10716589]]'
-- '[[_Standards/WikiData/WD~Template_Psychoanalysis,10959750]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q52678249,52678249]]'
+- '[[_Standards/WikiData/WD~Q10716589,10716589|WD~Q10716589,10716589]]'
+- '[[_Standards/WikiData/WD~Template_Psychoanalysis,10959750|WD~Template_Psychoanalysis,10959750]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Q52678249,52678249|WD~Q52678249,52678249]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~psychiatry,7867]]'
-- '[[_Standards/WikiData/WD~psychology,9418]]'
-author: '[[_Standards/WikiData/WD~Sigmund_Freud,9215]]'
+- '[[_Standards/WikiData/WD~psychiatry,7867|WD~psychiatry,7867]]'
+- '[[_Standards/WikiData/WD~psychology,9418|WD~psychology,9418]]'
+author: '[[_Standards/WikiData/WD~Sigmund_Freud,9215|WD~Sigmund_Freud,9215]]'
 OmegaWiki_Defined_Meaning: 1728022
 Stack_Exchange_tag: https://psychology.stackexchange.com/tags/psychoanalysis
 Basisklassifikation: 77.14

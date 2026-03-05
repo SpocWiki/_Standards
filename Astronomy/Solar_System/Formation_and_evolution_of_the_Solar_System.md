@@ -53,10 +53,10 @@ aliases:
 - 太陽系的形成與演化
 - 태양계의 형성과 진화
 has_id_wikidata: Q3535
-described_by_source: "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-instance_of: '[[_Standards/WikiData/WD~formation_and_evolution_of_planetary_systems,94944534]]'
-studied_by: '[[_Standards/WikiData/WD~cosmology,338]]'
-object_of_occurrence: '[[_Standards/WikiData/WD~Solar_System,544]]'
+described_by_source: "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+instance_of: '[[_Standards/WikiData/WD~formation_and_evolution_of_planetary_systems,94944534|WD~formation_and_evolution_of_planetary_systems,94944534]]'
+studied_by: '[[_Standards/WikiData/WD~cosmology,338|WD~cosmology,338]]'
+object_of_occurrence: '[[_Standards/WikiData/WD~Solar_System,544|WD~Solar_System,544]]'
 Commons_category: Formation of the Solar System
 dv_is_:
   same_as:

@@ -42,17 +42,17 @@ aliases:
 - 蓮屬
 - 연꽃속
 has_id_wikidata: Q207427
-different_from: '[[_Standards/WikiData/WD~Nymphaea,146628]]'
-parent_taxon: '[[_Standards/WikiData/WD~Nelumbonaceae,2630851]]'
+different_from: '[[_Standards/WikiData/WD~Nymphaea,146628|WD~Nymphaea,146628]]'
+parent_taxon: '[[_Standards/WikiData/WD~Nelumbonaceae,2630851|WD~Nelumbonaceae,2630851]]'
 has_fruit_type:
-- '[[_Standards/WikiData/WD~aggregate_fruit,4692249]]'
-- '[[_Standards/WikiData/WD~drupe,14712]]'
+- '[[_Standards/WikiData/WD~aggregate_fruit,4692249|WD~aggregate_fruit,4692249]]'
+- '[[_Standards/WikiData/WD~drupe,14712|WD~drupe,14712]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_27,112869405]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxonomic_type: '[[_Standards/WikiData/WD~Nelumbo_nucifera,16528]]'
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_27,112869405|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_27,112869405]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Nelumbo_nucifera,16528|WD~Nelumbo_nucifera,16528]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
 ITIS_TSN: 18397
 taxon_common_name:
 - lotus

@@ -53,18 +53,18 @@ aliases:
 has_id_wikidata: Q1066907
 Commons_category: Longevity
 described_by_source:
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
-facet_of: '[[_Standards/WikiData/WD~life_expectancy,188419]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+facet_of: '[[_Standards/WikiData/WD~life_expectancy,188419|WD~life_expectancy,188419]]'
 Iconclass_notation: 31D91
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Ca%C3%A7arelhos46.jpg
-instance_of: '[[_Standards/WikiData/WD~quality_of_life,13100823]]'
+instance_of: '[[_Standards/WikiData/WD~quality_of_life,13100823|WD~quality_of_life,13100823]]'
 Library_of_Congress_Classification: QH528.5
 MeSH_tree_code:
 - G07.345.124.519
 - G07.540
-opposite_of: '[[_Standards/WikiData/WD~short_life,115663206]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Longevity,11157579]]'
+opposite_of: '[[_Standards/WikiData/WD~short_life,115663206|WD~short_life,115663206]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Longevity,11157579|WD~Template_Longevity,11157579]]'
 dv_has_:
   name_:
     ar: طول العمر
@@ -125,9 +125,9 @@ dv_has_:
 # [[Aging]] 
 
 
-#see :: [[../../../../Knowledge/Science/Escape-Velocity/Immortality-Escape-Velocity]] 
-[[_Standards/WikiData/WD~age,568683]] 
-[[_Standards/WikiData/WD~aging-associated_disease,438962]] 
+#see :: [[../../../../Knowledge/Science/Escape-Velocity/Immortality-Escape-Velocity|Immortality-Escape-Velocity]] 
+[[_Standards/WikiData/WD~age,568683|WD~age,568683]] 
+[[_Standards/WikiData/WD~aging-associated_disease,438962|WD~aging-associated_disease,438962]] 
 [[../../../../_Standards/WikiData/WD~Longevity,1066907|WD~Longevity,1066907]] 
 
 

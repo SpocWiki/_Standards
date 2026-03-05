@@ -54,23 +54,23 @@ aliases:
 - 쥴
 has_id_wikidata: Q25269
 instance_of:
-- '[[_Standards/WikiData/WD~SI_derived_unit,208469]]'
-- '[[_Standards/WikiData/WD~unit_of_energy,2916980]]'
-- '[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328]]'
+- '[[_Standards/WikiData/WD~SI_derived_unit,208469|WD~SI_derived_unit,208469]]'
+- '[[_Standards/WikiData/WD~unit_of_energy,2916980|WD~unit_of_energy,2916980]]'
+- '[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328|WD~SI_unit_with_special_name,68618328]]'
 different_from:
-- '[[_Standards/WikiData/WD~Joule,346898]]'
-- '[[_Standards/WikiData/WD~J,21071]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~watt_second,7974920]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q110087775,110087775]]'
-named_after: '[[_Standards/WikiData/WD~James_Prescott_Joule,8962]]'
+- '[[_Standards/WikiData/WD~Joule,346898|WD~Joule,346898]]'
+- '[[_Standards/WikiData/WD~J,21071|WD~J,21071]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~watt_second,7974920|WD~watt_second,7974920]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q110087775,110087775|WD~Q110087775,110087775]]'
+named_after: '[[_Standards/WikiData/WD~James_Prescott_Joule,8962|WD~James_Prescott_Joule,8962]]'
 measured_physical_quantity:
-- '[[_Standards/WikiData/WD~energy,11379]]'
-- '[[_Standards/WikiData/WD~work,42213]]'
-- '[[_Standards/WikiData/WD~heat,44432]]'
+- '[[_Standards/WikiData/WD~energy,11379|WD~energy,11379]]'
+- '[[_Standards/WikiData/WD~work,42213|WD~work,42213]]'
+- '[[_Standards/WikiData/WD~heat,44432|WD~heat,44432]]'
 derived_from_base_unit:
-- '[[_Standards/WikiData/WD~kilogram,11570]]'
-- '[[_Standards/WikiData/WD~second,11574]]'
-- '[[_Standards/WikiData/WD~metre,11573]]'
+- '[[_Standards/WikiData/WD~kilogram,11570|WD~kilogram,11570]]'
+- '[[_Standards/WikiData/WD~second,11574|WD~second,11574]]'
+- '[[_Standards/WikiData/WD~metre,11573|WD~metre,11573]]'
 conversion_to_SI_unit: 1
 IHO_Hydrographic_Dictionary_S_32_Number: 2624
 OmegaWiki_Defined_Meaning: 333088

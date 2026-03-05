@@ -73,12 +73,12 @@ aliases:
 - 鳞
 - 비늘
 has_id_wikidata: Q188488
-subclass_of: '[[_Standards/WikiData/WD~seta,126780]]'
+subclass_of: '[[_Standards/WikiData/WD~seta,126780|WD~seta,126780]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-studied_by: '[[_Standards/WikiData/WD~lepidology,1820059]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+studied_by: '[[_Standards/WikiData/WD~lepidology,1820059|WD~lepidology,1820059]]'
 OmegaWiki_Defined_Meaning: 1505745
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Keeled%20scales%20on%20a%20southern%20watersnake%20%2826954310414%29.jpg
 MeSH_tree_code:

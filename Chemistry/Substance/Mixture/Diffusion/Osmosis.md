@@ -50,18 +50,18 @@ aliases:
 - 滲透
 - 삼투
 has_id_wikidata: Q54237
-subclass_of: '[[_Standards/WikiData/WD~diffusion,163214]]'
+subclass_of: '[[_Standards/WikiData/WD~diffusion,163214|WD~diffusion,163214]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopaedia_Hebraica,751026]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
-uses: '[[_Standards/WikiData/WD~semipermeable_membrane,866317]]'
-instance_of: '[[../../../../WikiData/WD~chemical_process,2281940]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopaedia_Hebraica,751026|WD~Encyclopaedia_Hebraica,751026]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664|WD~Armenian_Soviet_Encyclopedia,_vol._12,124737664]]'
+uses: '[[_Standards/WikiData/WD~semipermeable_membrane,866317|WD~semipermeable_membrane,866317]]'
+instance_of: '[[../../../../WikiData/WD~chemical_process,2281940|WD~chemical_process,2281940]]'
 Commons_gallery: Osmosis
 Commons_category: Osmosis
 image: http://commons.wikimedia.org/wiki/Special:FilePath/0307%20Osmosis.jpg
@@ -75,7 +75,7 @@ MeSH_tree_code:
 Krugosvet_article_archived_: nauka_i_tehnika/himiya/OSMOS.html
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Osmosis,54237]]'
+  - '[[../../../../WikiData/WD~Osmosis,54237|WD~Osmosis,54237]]'
   - '[[/_Standards/Chemistry/Substance/Mixture/Diffusion/Osmosis|Osmosis]]'
   - '[[/_public/Chemistry/Substance/Mixture/Diffusion/Osmosis.public|Osmosis.public]]'
   - '[[/_internal/Chemistry/Substance/Mixture/Diffusion/Osmosis.internal|Osmosis.internal]]'
@@ -84,7 +84,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Substance/Mixture/Diffusion/Osmosis.personal|Osmosis.personal]]'
   - '[[/_secret/Chemistry/Substance/Mixture/Diffusion/Osmosis.secret|Osmosis.secret]]'
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Osmosis,54237]]'
+- '[[../../../../WikiData/WD~Osmosis,54237|WD~Osmosis,54237]]'
 - '[[/_Standards/Chemistry/Substance/Mixture/Diffusion/Osmosis|Osmosis]]'
 - '[[/_public/Chemistry/Substance/Mixture/Diffusion/Osmosis.public|Osmosis.public]]'
 - '[[/_internal/Chemistry/Substance/Mixture/Diffusion/Osmosis.internal|Osmosis.internal]]'

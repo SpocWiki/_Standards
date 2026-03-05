@@ -57,17 +57,17 @@ aliases:
 - 조도
 has_id_wikidata: Q194411
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~scalar_quantity,181175]]'
-- '[[_Standards/WikiData/WD~photometric_quantity,4492214]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~scalar_quantity,181175|WD~scalar_quantity,181175]]'
+- '[[_Standards/WikiData/WD~photometric_quantity,4492214|WD~photometric_quantity,4492214]]'
 recommended_unit_of_measurement:
-- '[[_Standards/WikiData/WD~lux,179836]]'
-- '[[_Standards/WikiData/WD~candela_steradian_per_square_metre,106947296]]'
-different_from: '[[_Standards/WikiData/WD~luminance,355386]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~lux,179836|WD~lux,179836]]'
+- '[[_Standards/WikiData/WD~candela_steradian_per_square_metre,106947296|WD~candela_steradian_per_square_metre,106947296]]'
+different_from: '[[_Standards/WikiData/WD~luminance,355386|WD~luminance,355386]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~ISO_80000_7_2019_Quantities_and_units_Part_7_Light_and_radiation,80232369]]'
-- '[[_Standards/WikiData/WD~Principles_governing_photometry_(2nd_edition),106913582]]'
+- '[[_Standards/WikiData/WD~ISO_80000_7_2019_Quantities_and_units_Part_7_Light_and_radiation,80232369|WD~ISO_80000_7_2019_Quantities_and_units_Part_7_Light_and_radiation,80232369]]'
+- '[[_Standards/WikiData/WD~Principles_governing_photometry_(2nd_edition),106913582|WD~Principles_governing_photometry_(2nd_edition),106913582]]'
 quantity_symbol_LaTeX_: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>E</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">v</mi></mrow></mrow></msub></mstyle></mrow></math>
 in_defining_formula:
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>E</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">v</mi></mrow></mrow></msub></mstyle></mrow></math>
@@ -158,7 +158,7 @@ dv_has_:
 
 # [[Dim~illuminance]]  
 
-#is_/same_as :: [[_Standards/WikiData/WD~illuminance,194411]] 
+#is_/same_as :: [[_Standards/WikiData/WD~illuminance,194411|WD~illuminance,194411]] 
 
 ## #has_/text_of_/abstract 
 

@@ -70,34 +70,34 @@ atomic_number: 105
 CAS_Registry_Number: 53850-35-4
 Commons_category: Dubnium
 Commons_gallery: Dubnium
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Joint_Institute_for_Nuclear_Research,259517]]'
-- '[[_Standards/WikiData/WD~Lawrence_Berkeley_National_Laboratory,1133630]]'
+- '[[_Standards/WikiData/WD~Joint_Institute_for_Nuclear_Research,259517|WD~Joint_Institute_for_Nuclear_Research,259517]]'
+- '[[_Standards/WikiData/WD~Lawrence_Berkeley_National_Laboratory,1133630|WD~Lawrence_Berkeley_National_Laboratory,1133630]]'
 DSSTOX_compound_identifier: DTXCID801323011
 EC_number: 611-058-7
 electron_configuration: '[Rn] 5f¹⁴ 6d³ 7s²'
 element_symbol: Db
-has_characteristic: '[[_Standards/WikiData/WD~radioactivity,11448]]'
+has_characteristic: '[[_Standards/WikiData/WD~radioactivity,11448|WD~radioactivity,11448]]'
 instance_of:
-- '[[_Standards/WikiData/WD~synthetic_element,755992]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+- '[[_Standards/WikiData/WD~synthetic_element,755992|WD~synthetic_element,755992]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 logo_image: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%94%D1%83%D0%B1%D0%BD%D0%B8%D0%B9.jpg
-named_after: '[[_Standards/WikiData/WD~Dubna,135466]]'
+named_after: '[[_Standards/WikiData/WD~Dubna,135466|WD~Dubna,135466]]'
 OmegaWiki_Defined_Meaning: 157650
 part_of:
-- '[[_Standards/WikiData/WD~group_5,193276]]'
-- '[[_Standards/WikiData/WD~period_7,244979]]'
+- '[[_Standards/WikiData/WD~group_5,193276|WD~group_5,193276]]'
+- '[[_Standards/WikiData/WD~period_7,244979|WD~period_7,244979]]'
 schematic:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20105%20Dubnium.svg
 SpocWebEntityId: 22000
 subclass_of:
-- '[[_Standards/WikiData/WD~transition_metal,19588]]'
+- '[[_Standards/WikiData/WD~transition_metal,19588|WD~transition_metal,19588]]'
 time_of_discovery_or_invention: 1970-02-18
 type: Element
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Dubnium,1232]]'
+  - '[[../../../WikiData/WD~Dubnium,1232|WD~Dubnium,1232]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium|Dubnium]]'
   - '[[/_public/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium.public|Dubnium.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium.internal|Dubnium.internal]]'
@@ -105,7 +105,7 @@ dv_is_:
   - '[[/_private/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium.private|Dubnium.private]]'
   - '[[/_personal/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium.personal|Dubnium.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium.secret|Dubnium.secret]]'
-  part_of: '[[../Group-05-Vanadium]]'
+  part_of: '[[../Group-05-Vanadium|Group-05-Vanadium]]'
 dv_has_:
   name_:
     abbreviated: Db
@@ -294,7 +294,7 @@ dv_has_:
         kj_:
           mol: 0
 dv_is_same_as:
-- '[[../../../WikiData/WD~Dubnium,1232]]'
+- '[[../../../WikiData/WD~Dubnium,1232|WD~Dubnium,1232]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium|Dubnium]]'
 - '[[/_public/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium.public|Dubnium.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium.internal|Dubnium.internal]]'
@@ -303,7 +303,7 @@ dv_is_same_as:
 - '[[/_personal/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium.personal|Dubnium.personal]]'
 - '[[/_secret/Chemistry/Chemical_Element/Group-05-Vanadium/Dubnium.secret|Dubnium.secret]]'
 dv_has_name_group: Group-05-Vanadium
-dv_is_part_of: '[[../Group-05-Vanadium]]'
+dv_is_part_of: '[[../Group-05-Vanadium|Group-05-Vanadium]]'
 dv_has_name_en: Dubnium
 dv_has_name_de: Hahnium
 dv_has_value_for_weight_u: 0
@@ -329,7 +329,7 @@ Unicode_character: 𨧀
 # [[Dubnium]] 𨧀 
 
 #chemic/Element 
-#is_/same_as :: [[../../../WikiData/WD~Dubnium,1232]] 
+#is_/same_as :: [[../../../WikiData/WD~Dubnium,1232|WD~Dubnium,1232]] 
 
 has_name_group = `=this.dv_has_name_group` 
 is_part_of = `=this.dv_is_part_of` 

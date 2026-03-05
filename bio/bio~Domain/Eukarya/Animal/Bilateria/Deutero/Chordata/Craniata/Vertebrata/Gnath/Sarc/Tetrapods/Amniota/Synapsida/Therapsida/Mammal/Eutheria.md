@@ -180,7 +180,7 @@ reflecting their advanced sensory, cognitive, and social abilities.
 This enhanced brain complexity has contributed 
 to the ecological success and adaptability of eutherian mammals in diverse environments.
 
-These differences distinguish eutherian mammals from their parent group[[../Mammal]]] 
+These differences distinguish eutherian mammals from their parent group[[../Mammal|Mammal]]] 
 and reflect their unique reproductive, developmental, and ecological adaptations.
 
 ## Phylogeny 

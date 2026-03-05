@@ -58,10 +58,10 @@ chemical_formula: Rn
 Commons_category: Radon
 Commons_gallery: Radon
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-different_from: '[[_Standards/WikiData/WD~radium,1128]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Friedrich_Ernst_Dorn,65191]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+different_from: '[[_Standards/WikiData/WD~radium,1128|WD~radium,1128]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Friedrich_Ernst_Dorn,65191|WD~Friedrich_Ernst_Dorn,65191]]'
 DSSTOX_compound_identifier: DTXCID504295
 EC_number: 233-146-0
 electronegativity: 2.2
@@ -71,33 +71,33 @@ electron_configuration:
 element_symbol: Rn
 Gmelin_number: 16242
 has_characteristic:
-- '[[_Standards/WikiData/WD~colorlessness,11567495]]'
-- '[[_Standards/WikiData/WD~odorlessness,30007162]]'
-- '[[_Standards/WikiData/WD~radioactivity,11448]]'
+- '[[_Standards/WikiData/WD~colorlessness,11567495|WD~colorlessness,11567495]]'
+- '[[_Standards/WikiData/WD~odorlessness,30007162|WD~odorlessness,30007162]]'
+- '[[_Standards/WikiData/WD~radioactivity,11448|WD~radioactivity,11448]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Radon%20water%20apparatus%20P1120815.JPG
 InChI: InChI=1S/Rn
 InChIKey: SYUHGPGVQRZVTB-UHFFFAOYSA-N
 instance_of:
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
-- '[[_Standards/WikiData/WD~gas,11432]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
+- '[[_Standards/WikiData/WD~gas,11432|WD~gas,11432]]'
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/USradonmapforhouses.jpg
 MeSH_tree_code:
 - D01.268.271.800
 - D01.268.613.700
 - D01.362.641.745
 - D01.496.749.305.800
-named_after: '[[_Standards/WikiData/WD~radium,1128]]'
+named_after: '[[_Standards/WikiData/WD~radium,1128|WD~radium,1128]]'
 OmegaWiki_Defined_Meaning: 3094
 part_of:
-- '[[_Standards/WikiData/WD~period_6,239813]]'
-- '[[_Standards/WikiData/WD~noble_gases,19609]]'
+- '[[_Standards/WikiData/WD~period_6,239813|WD~period_6,239813]]'
+- '[[_Standards/WikiData/WD~noble_gases,19609|WD~noble_gases,19609]]'
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20154.jpg
-produced_by: '[[_Standards/WikiData/WD~granite,41177]]'
+produced_by: '[[_Standards/WikiData/WD~granite,41177|WD~granite,41177]]'
 PubChem_CID: 24857
 SpocWebEntityId: 21981
 subject_has_role:
-- '[[_Standards/WikiData/WD~radioactive_air_pollutants,50429809]]'
-- '[[_Standards/WikiData/WD~environmental_carcinogens,50429902]]'
+- '[[_Standards/WikiData/WD~radioactive_air_pollutants,50429809|WD~radioactive_air_pollutants,50429809]]'
+- '[[_Standards/WikiData/WD~environmental_carcinogens,50429902|WD~environmental_carcinogens,50429902]]'
 time_of_discovery_or_invention: 1899
 type: Element
 UMLS_CUI: C0205919
@@ -307,9 +307,9 @@ dv_has_:
         kj_:
           mol: 16.4
 dv_is_:
-  part_of: '[[../Group-18-Nobel-Gases]]'
+  part_of: '[[../Group-18-Nobel-Gases|Group-18-Nobel-Gases]]'
   same_as:
-  - '[[../../../WikiData/WD~Radon,1133]]'
+  - '[[../../../WikiData/WD~Radon,1133|WD~Radon,1133]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Radon|Radon]]'
   - '[[/_public/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Radon.public|Radon.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Radon.internal|Radon.internal]]'
@@ -318,7 +318,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Radon.personal|Radon.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Radon.secret|Radon.secret]]'
 dv_has_name_group: Group-18-Nobel-Gases
-dv_is_part_of: '[[../Group-18-Nobel-Gases]]'
+dv_is_part_of: '[[../Group-18-Nobel-Gases|Group-18-Nobel-Gases]]'
 dv_has_name_en: Radon
 dv_has_name_de: Radon
 dv_has_value_for_weight_u: 222
@@ -337,7 +337,7 @@ dv_has_value_for_energy_form_kj_mol: 16.4
 dv_has_number_of_period: 6
 dv_has_number_of_group: 18
 dv_is_same_as:
-- '[[../../../WikiData/WD~Radon,1133]]'
+- '[[../../../WikiData/WD~Radon,1133|WD~Radon,1133]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Radon|Radon]]'
 - '[[/_public/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Radon.public|Radon.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Radon.internal|Radon.internal]]'
@@ -383,7 +383,7 @@ has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol`
 has_number_of_period = `=this.dv_has_number_of_period` 
 has_number_of_group = `=this.dv_has_number_of_group` 
 
-#is_/same_as :: [[../../../WikiData/WD~Radon,1133]] 
+#is_/same_as :: [[../../../WikiData/WD~Radon,1133|WD~Radon,1133]] 
 
 
 ## #has_/text_of_/abstract 

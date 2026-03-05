@@ -68,10 +68,10 @@ aliases:
 - ꠢꠦꠝꠘ꠆ꠔ
 - 건기
 has_id_wikidata: Q146575
-opposite_of: '[[_Standards/WikiData/WD~wet_season,3117517]]'
-followed_by: '[[_Standards/WikiData/WD~wet_season,3117517]]'
-follows: '[[_Standards/WikiData/WD~wet_season,3117517]]'
-subclass_of: '[[_Standards/WikiData/WD~season,24384]]'
+opposite_of: '[[_Standards/WikiData/WD~wet_season,3117517|WD~wet_season,3117517]]'
+followed_by: '[[_Standards/WikiData/WD~wet_season,3117517|WD~wet_season,3117517]]'
+follows: '[[_Standards/WikiData/WD~wet_season,3117517|WD~wet_season,3117517]]'
+subclass_of: '[[_Standards/WikiData/WD~season,24384|WD~season,24384]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Long%20shadow%20of%20a%20dead%20tree%20with%20its%20branches%20on%20the%20dry%20fields%20of%20Laos%20-%20landscape.jpg
 Commons_category: Dry season
 dv_is_:

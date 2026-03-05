@@ -62,34 +62,34 @@ aliases:
 - 배
 has_id_wikidata: Q33196
 followed_by:
-- '[[_Standards/WikiData/WD~larva,129270]]'
-- '[[_Standards/WikiData/WD~sporophyte,647173]]'
-- '[[_Standards/WikiData/WD~juvenile_fish,2832888]]'
-- '[[_Standards/WikiData/WD~fetus,17013437]]'
-follows: '[[_Standards/WikiData/WD~zygote,170145]]'
+- '[[_Standards/WikiData/WD~larva,129270|WD~larva,129270]]'
+- '[[_Standards/WikiData/WD~sporophyte,647173|WD~sporophyte,647173]]'
+- '[[_Standards/WikiData/WD~juvenile_fish,2832888|WD~juvenile_fish,2832888]]'
+- '[[_Standards/WikiData/WD~fetus,17013437|WD~fetus,17013437]]'
+follows: '[[_Standards/WikiData/WD~zygote,170145|WD~zygote,170145]]'
 location_of_creation:
-- '[[_Standards/WikiData/WD~archegonium,850653]]'
-- '[[_Standards/WikiData/WD~uterus,9612]]'
-- '[[_Standards/WikiData/WD~egg,17147]]'
+- '[[_Standards/WikiData/WD~archegonium,850653|WD~archegonium,850653]]'
+- '[[_Standards/WikiData/WD~uterus,9612|WD~uterus,9612]]'
+- '[[_Standards/WikiData/WD~egg,17147|WD~egg,17147]]'
 different_from:
-- '[[_Standards/WikiData/WD~germ,1377980]]'
-- '[[_Standards/WikiData/WD~human_embryo,63177917]]'
-- '[[_Standards/WikiData/WD~mammalian_embryo,105241756]]'
-- '[[_Standards/WikiData/WD~animal_embryo,115664724]]'
+- '[[_Standards/WikiData/WD~germ,1377980|WD~germ,1377980]]'
+- '[[_Standards/WikiData/WD~human_embryo,63177917|WD~human_embryo,63177917]]'
+- '[[_Standards/WikiData/WD~mammalian_embryo,105241756|WD~mammalian_embryo,105241756]]'
+- '[[_Standards/WikiData/WD~animal_embryo,115664724|WD~animal_embryo,115664724]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~embryo,12887356]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764|WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637|WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~embryo,12887356|WD~embryo,12887356]]'
 instance_of:
-- '[[_Standards/WikiData/WD~developmental_stage_of_animal,20056177]]'
-- '[[_Standards/WikiData/WD~class_of_living_thing,55597235]]'
-- '[[_Standards/WikiData/WD~developmental_stage_of_plant,63812927]]'
-- '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905]]'
+- '[[_Standards/WikiData/WD~developmental_stage_of_animal,20056177|WD~developmental_stage_of_animal,20056177]]'
+- '[[_Standards/WikiData/WD~class_of_living_thing,55597235|WD~class_of_living_thing,55597235]]'
+- '[[_Standards/WikiData/WD~developmental_stage_of_plant,63812927|WD~developmental_stage_of_plant,63812927]]'
+- '[[_Standards/WikiData/WD~class_of_anatomical_entity,112826905|WD~class_of_anatomical_entity,112826905]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]'
-- '[[_Standards/WikiData/WD~organism,7239]]'
+- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975|WD~particular_anatomical_entity,112826975]]'
+- '[[_Standards/WikiData/WD~organism,7239|WD~organism,7239]]'
 OmegaWiki_Defined_Meaning: 1139
 UNSPSC_Code: 11131607
 Commons_category: Embryos

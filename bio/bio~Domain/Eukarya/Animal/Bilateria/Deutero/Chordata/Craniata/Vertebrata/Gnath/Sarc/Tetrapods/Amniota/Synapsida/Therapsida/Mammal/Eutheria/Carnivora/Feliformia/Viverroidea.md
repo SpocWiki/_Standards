@@ -9,10 +9,10 @@ aliases:
 - 사향고양이하목
 has_id_wikidata: Q9776562
 taxon_rank:
-- '[[_Standards/WikiData/WD~superfamily,2136103]]'
-- '[[_Standards/WikiData/WD~infraorder,2889003]]'
-parent_taxon: '[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Aeluroidea,4687717]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~superfamily,2136103|WD~superfamily,2136103]]'
+- '[[_Standards/WikiData/WD~infraorder,2889003|WD~infraorder,2889003]]'
+parent_taxon: '[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Aeluroidea,4687717|WD~Aeluroidea,4687717]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Viverroidea.jpg
 taxon_name: Viverroidea
 dv_has_:

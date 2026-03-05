@@ -129,27 +129,27 @@ aliases:
 - 비누
 has_id_wikidata: Q34396
 subclass_of:
-- '[[_Standards/WikiData/WD~organic_compound,174211]]'
-- '[[../../../../../WikiData/WD~detergent,334637]]'
-- '[[_Standards/WikiData/WD~salt,12370]]'
+- '[[_Standards/WikiData/WD~organic_compound,174211|WD~organic_compound,174211]]'
+- '[[../../../../../WikiData/WD~detergent,334637|WD~detergent,334637]]'
+- '[[_Standards/WikiData/WD~salt,12370|WD~salt,12370]]'
 has_use:
-- '[[../../../../../WikiData/WD~detergent,334637]]'
-- '[[_Standards/WikiData/WD~shaving,369570]]'
-- '[[_Standards/WikiData/WD~hand_washing,552461]]'
+- '[[../../../../../WikiData/WD~detergent,334637|WD~detergent,334637]]'
+- '[[_Standards/WikiData/WD~shaving,369570|WD~shaving,369570]]'
+- '[[_Standards/WikiData/WD~hand_washing,552461|WD~hand_washing,552461]]'
 described_by_source:
 - '[[WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,1970746]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 instance_of:
-- '[[_Standards/WikiData/WD~cleaning_product,1974312]]'
-- '[[_Standards/WikiData/WD~personal_hygiene_item,10528974]]'
-has_part_s_: '[[_Standards/WikiData/WD~Q128239136,128239136]]'
+- '[[_Standards/WikiData/WD~cleaning_product,1974312|WD~cleaning_product,1974312]]'
+- '[[_Standards/WikiData/WD~personal_hygiene_item,10528974|WD~personal_hygiene_item,10528974]]'
+has_part_s_: '[[_Standards/WikiData/WD~Q128239136,128239136|WD~Q128239136,128239136]]'
 IAB_code: 250
 Nomenclature_for_Museum_Cataloging: 3162
 OmegaWiki_Defined_Meaning: 3458

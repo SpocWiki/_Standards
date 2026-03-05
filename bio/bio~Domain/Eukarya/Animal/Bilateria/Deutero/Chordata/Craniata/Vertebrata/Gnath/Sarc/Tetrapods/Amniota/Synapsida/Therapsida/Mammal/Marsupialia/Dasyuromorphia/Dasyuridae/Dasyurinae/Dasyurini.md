@@ -13,9 +13,9 @@ aliases:
 - 袋鼬族
 - 주머니고양이족
 has_id_wikidata: Q533062
-taxon_rank: '[[_Standards/WikiData/WD~tribe,227936]]'
-parent_taxon: '[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Dasyurinae,902243]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~tribe,227936|WD~tribe,227936]]'
+parent_taxon: '[[../../../../../../../../../../../../../../../../../../../../WikiData/WD~Dasyurinae,902243|WD~Dasyurinae,902243]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 ITIS_TSN: 709325
 image: http://commons.wikimedia.org/wiki/Special:FilePath/SpottedQuoll%202005%20SeanMcClean.jpg
 taxon_name: Dasyurini

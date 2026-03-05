@@ -217,106 +217,106 @@ SpocWebEntityId: 26864
 isDeleted: false
 confidential: public
 member_of:
-- '[[_Standards/WikiData/WD~African_Union,7159]]'
-- '[[_Standards/WikiData/WD~Organization_of_the_Petroleum_Exporting_Countries,7795]]'
-- '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
-- '[[_Standards/WikiData/WD~World_Trade_Organization,7825]]'
-- '[[_Standards/WikiData/WD~Interpol,8475]]'
-- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
-- '[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]'
-- '[[_Standards/WikiData/WD~Economic_Community_of_Central_African_States,189966]]'
-- '[[_Standards/WikiData/WD~Bank_of_Central_African_States,189972]]'
-- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
-- '[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]'
-- '[[_Standards/WikiData/WD~African_Development_Bank,340195]]'
-- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
-- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
-- '[[_Standards/WikiData/WD~International_Development_Association,827525]]'
-- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
-- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
-- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
-- '[[_Standards/WikiData/WD~OHADA,2029901]]'
-- '[[_Standards/WikiData/WD~Gulf_of_Guinea_Commission,2986587]]'
-- '[[_Standards/WikiData/WD~AFRISTAT,3348506]]'
-- '[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]'
-- '[[_Standards/WikiData/WD~United_Nations,1065]]'
-part_of: '[[_Standards/WikiData/WD~Central_Africa,27433]]'
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~Central_Africa,27433]]'
-continent: '[[_Standards/WikiData/WD~Africa,15]]'
+- '[[_Standards/WikiData/WD~African_Union,7159|WD~African_Union,7159]]'
+- '[[_Standards/WikiData/WD~Organization_of_the_Petroleum_Exporting_Countries,7795|WD~Organization_of_the_Petroleum_Exporting_Countries,7795]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809|WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817|WD~World_Health_Organization,7817]]'
+- '[[_Standards/WikiData/WD~World_Trade_Organization,7825|WD~World_Trade_Organization,7825]]'
+- '[[_Standards/WikiData/WD~Interpol,8475|WD~Interpol,8475]]'
+- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495|WD~Universal_Postal_Union_UPU,17495]]'
+- '[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102|WD~Organisation_internationale_de_la_Francophonie,134102]]'
+- '[[_Standards/WikiData/WD~Economic_Community_of_Central_African_States,189966|WD~Economic_Community_of_Central_African_States,189966]]'
+- '[[_Standards/WikiData/WD~Bank_of_Central_African_States,189972|WD~Bank_of_Central_African_States,189972]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278|WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]'
+- '[[_Standards/WikiData/WD~African_Development_Bank,340195|WD~African_Development_Bank,340195]]'
+- '[[_Standards/WikiData/WD~World_Customs_Organization,605326|WD~World_Customs_Organization,605326]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801|WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~International_Development_Association,827525|WD~International_Development_Association,827525]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490|WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770|WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
+- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527|WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[_Standards/WikiData/WD~OHADA,2029901|WD~OHADA,2029901]]'
+- '[[_Standards/WikiData/WD~Gulf_of_Guinea_Commission,2986587|WD~Gulf_of_Guinea_Commission,2986587]]'
+- '[[_Standards/WikiData/WD~AFRISTAT,3348506|WD~AFRISTAT,3348506]]'
+- '[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262|WD~Group_on_Earth_Observations,5611262]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]'
+part_of: '[[_Standards/WikiData/WD~Central_Africa,27433|WD~Central_Africa,27433]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~Central_Africa,27433|WD~Central_Africa,27433]]'
+continent: '[[_Standards/WikiData/WD~Africa,15|WD~Africa,15]]'
 diplomatic_relation:
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~France,142]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Russia,159]]'
-- '[[_Standards/WikiData/WD~Germany,183]]'
-- '[[_Standards/WikiData/WD~Georgia,230]]'
-- '[[_Standards/WikiData/WD~South_Africa,258]]'
-- '[[_Standards/WikiData/WD~North_Korea,423]]'
-- '[[_Standards/WikiData/WD~Taiwan,865]]'
-- '[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~Georgia,230|WD~Georgia,230]]'
+- '[[_Standards/WikiData/WD~South_Africa,258|WD~South_Africa,258]]'
+- '[[_Standards/WikiData/WD~North_Korea,423|WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974|WD~Democratic_Republic_of_the_Congo,974]]'
 located_in_or_next_to_body_of_water:
-- '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
-lowest_point: '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
+- '[[_Standards/WikiData/WD~Atlantic_Ocean,97|WD~Atlantic_Ocean,97]]'
+lowest_point: '[[_Standards/WikiData/WD~Atlantic_Ocean,97|WD~Atlantic_Ocean,97]]'
 official_language:
-- '[[_Standards/WikiData/WD~French,150]]'
+- '[[_Standards/WikiData/WD~French,150|WD~French,150]]'
 language_used:
-- '[[_Standards/WikiData/WD~French,150]]'
-- '[[_Standards/WikiData/WD~Akwa,34802]]'
-- '[[_Standards/WikiData/WD~Bangi,34936]]'
-- '[[_Standards/WikiData/WD~Bonjo,34942]]'
-- '[[_Standards/WikiData/WD~Bekwil,34950]]'
-- '[[_Standards/WikiData/WD~Bomwali,34984]]'
-- '[[_Standards/WikiData/WD~Bomitaba,35063]]'
-- '[[_Standards/WikiData/WD~Bwisi,35067]]'
-- '[[_Standards/WikiData/WD~Bongili,35084]]'
-- '[[_Standards/WikiData/WD~Dibole,35180]]'
-- '[[_Standards/WikiData/WD~Kwala,35597]]'
-- '[[_Standards/WikiData/WD~Kota,35607]]'
-- '[[_Standards/WikiData/WD~Kuba,35646]]'
-- '[[_Standards/WikiData/WD~Koyo,35649]]'
-- '[[_Standards/WikiData/WD~Kituba,35746]]'
-- '[[_Standards/WikiData/WD~Lumbu,35793]]'
-- '[[_Standards/WikiData/WD~Njem,35898]]'
-- '[[_Standards/WikiData/WD~Ndasa,35904]]'
-- '[[_Standards/WikiData/WD~Mpiemo,35908]]'
-- '[[_Standards/WikiData/WD~Ngondi,35916]]'
-- '[[_Standards/WikiData/WD~Njebi,35923]]'
-- '[[_Standards/WikiData/WD~Ngungwel,35920]]'
-- '[[_Standards/WikiData/WD~Mbangwe,35928]]'
-- '[[_Standards/WikiData/WD~Ngbaka_Gbaya,36022]]'
-- '[[_Standards/WikiData/WD~Mboshi,36035]]'
-- '[[_Standards/WikiData/WD~Mboko,36058]]'
-- '[[_Standards/WikiData/WD~Mbere,36062]]'
-- '[[_Standards/WikiData/WD~Ngom,36087]]'
-- '[[_Standards/WikiData/WD~Lingala,36217]]'
-- '[[_Standards/WikiData/WD~Punu,36401]]'
-- '[[_Standards/WikiData/WD~Mbama,36407]]'
-- '[[_Standards/WikiData/WD~Central_Teke,36473]]'
-- '[[_Standards/WikiData/WD~North_Teke,36478]]'
-- '[[_Standards/WikiData/WD~Teke-Laali,36543]]'
-- '[[_Standards/WikiData/WD~Kukuya,36560]]'
-- '[[_Standards/WikiData/WD~Fuumu,36603]]'
-- '[[_Standards/WikiData/WD~Teke-Nzikou,36606]]'
-- '[[_Standards/WikiData/WD~Teke-Tyee,36634]]'
-- '[[_Standards/WikiData/WD~Tsaangi,36675]]'
-- '[[_Standards/WikiData/WD~Wumbvu,36891]]'
-- '[[_Standards/WikiData/WD~Yaka,36909]]'
-- '[[_Standards/WikiData/WD~East_Teke,2802914]]'
-- '[[_Standards/WikiData/WD~Beembe,3196320]]'
-- '[[_Standards/WikiData/WD~Kunyi,3196559]]'
-- '[[_Standards/WikiData/WD~Laari,3217917]]'
-- '[[_Standards/WikiData/WD~Vili,3558409]]'
-- '[[_Standards/WikiData/WD~Mbandja,3915310]]'
-- '[[_Standards/WikiData/WD~Suundi,7650407]]'
-- '[[_Standards/WikiData/WD~Kiyombe,10961975]]'
-- '[[_Standards/WikiData/WD~Doondo,11003401]]'
-- '[[_Standards/WikiData/WD~Aka,11010149]]'
-- '[[_Standards/WikiData/WD~Kaamba,11042324]]'
-- '[[_Standards/WikiData/WD~Moye,11124792]]'
-- '[[_Standards/WikiData/WD~Monzombo,11154772]]'
-- '[[_Standards/WikiData/WD~Kituba_(Congo),12953639]]'
-- '[[_Standards/WikiData/WD~Teke-Tsaayi,33123613]]'
+- '[[_Standards/WikiData/WD~French,150|WD~French,150]]'
+- '[[_Standards/WikiData/WD~Akwa,34802|WD~Akwa,34802]]'
+- '[[_Standards/WikiData/WD~Bangi,34936|WD~Bangi,34936]]'
+- '[[_Standards/WikiData/WD~Bonjo,34942|WD~Bonjo,34942]]'
+- '[[_Standards/WikiData/WD~Bekwil,34950|WD~Bekwil,34950]]'
+- '[[_Standards/WikiData/WD~Bomwali,34984|WD~Bomwali,34984]]'
+- '[[_Standards/WikiData/WD~Bomitaba,35063|WD~Bomitaba,35063]]'
+- '[[_Standards/WikiData/WD~Bwisi,35067|WD~Bwisi,35067]]'
+- '[[_Standards/WikiData/WD~Bongili,35084|WD~Bongili,35084]]'
+- '[[_Standards/WikiData/WD~Dibole,35180|WD~Dibole,35180]]'
+- '[[_Standards/WikiData/WD~Kwala,35597|WD~Kwala,35597]]'
+- '[[_Standards/WikiData/WD~Kota,35607|WD~Kota,35607]]'
+- '[[_Standards/WikiData/WD~Kuba,35646|WD~Kuba,35646]]'
+- '[[_Standards/WikiData/WD~Koyo,35649|WD~Koyo,35649]]'
+- '[[_Standards/WikiData/WD~Kituba,35746|WD~Kituba,35746]]'
+- '[[_Standards/WikiData/WD~Lumbu,35793|WD~Lumbu,35793]]'
+- '[[_Standards/WikiData/WD~Njem,35898|WD~Njem,35898]]'
+- '[[_Standards/WikiData/WD~Ndasa,35904|WD~Ndasa,35904]]'
+- '[[_Standards/WikiData/WD~Mpiemo,35908|WD~Mpiemo,35908]]'
+- '[[_Standards/WikiData/WD~Ngondi,35916|WD~Ngondi,35916]]'
+- '[[_Standards/WikiData/WD~Njebi,35923|WD~Njebi,35923]]'
+- '[[_Standards/WikiData/WD~Ngungwel,35920|WD~Ngungwel,35920]]'
+- '[[_Standards/WikiData/WD~Mbangwe,35928|WD~Mbangwe,35928]]'
+- '[[_Standards/WikiData/WD~Ngbaka_Gbaya,36022|WD~Ngbaka_Gbaya,36022]]'
+- '[[_Standards/WikiData/WD~Mboshi,36035|WD~Mboshi,36035]]'
+- '[[_Standards/WikiData/WD~Mboko,36058|WD~Mboko,36058]]'
+- '[[_Standards/WikiData/WD~Mbere,36062|WD~Mbere,36062]]'
+- '[[_Standards/WikiData/WD~Ngom,36087|WD~Ngom,36087]]'
+- '[[_Standards/WikiData/WD~Lingala,36217|WD~Lingala,36217]]'
+- '[[_Standards/WikiData/WD~Punu,36401|WD~Punu,36401]]'
+- '[[_Standards/WikiData/WD~Mbama,36407|WD~Mbama,36407]]'
+- '[[_Standards/WikiData/WD~Central_Teke,36473|WD~Central_Teke,36473]]'
+- '[[_Standards/WikiData/WD~North_Teke,36478|WD~North_Teke,36478]]'
+- '[[_Standards/WikiData/WD~Teke-Laali,36543|WD~Teke-Laali,36543]]'
+- '[[_Standards/WikiData/WD~Kukuya,36560|WD~Kukuya,36560]]'
+- '[[_Standards/WikiData/WD~Fuumu,36603|WD~Fuumu,36603]]'
+- '[[_Standards/WikiData/WD~Teke-Nzikou,36606|WD~Teke-Nzikou,36606]]'
+- '[[_Standards/WikiData/WD~Teke-Tyee,36634|WD~Teke-Tyee,36634]]'
+- '[[_Standards/WikiData/WD~Tsaangi,36675|WD~Tsaangi,36675]]'
+- '[[_Standards/WikiData/WD~Wumbvu,36891|WD~Wumbvu,36891]]'
+- '[[_Standards/WikiData/WD~Yaka,36909|WD~Yaka,36909]]'
+- '[[_Standards/WikiData/WD~East_Teke,2802914|WD~East_Teke,2802914]]'
+- '[[_Standards/WikiData/WD~Beembe,3196320|WD~Beembe,3196320]]'
+- '[[_Standards/WikiData/WD~Kunyi,3196559|WD~Kunyi,3196559]]'
+- '[[_Standards/WikiData/WD~Laari,3217917|WD~Laari,3217917]]'
+- '[[_Standards/WikiData/WD~Vili,3558409|WD~Vili,3558409]]'
+- '[[_Standards/WikiData/WD~Mbandja,3915310|WD~Mbandja,3915310]]'
+- '[[_Standards/WikiData/WD~Suundi,7650407|WD~Suundi,7650407]]'
+- '[[_Standards/WikiData/WD~Kiyombe,10961975|WD~Kiyombe,10961975]]'
+- '[[_Standards/WikiData/WD~Doondo,11003401|WD~Doondo,11003401]]'
+- '[[_Standards/WikiData/WD~Aka,11010149|WD~Aka,11010149]]'
+- '[[_Standards/WikiData/WD~Kaamba,11042324|WD~Kaamba,11042324]]'
+- '[[_Standards/WikiData/WD~Moye,11124792|WD~Moye,11124792]]'
+- '[[_Standards/WikiData/WD~Monzombo,11154772|WD~Monzombo,11154772]]'
+- '[[_Standards/WikiData/WD~Kituba_(Congo),12953639|WD~Kituba_(Congo),12953639]]'
+- '[[_Standards/WikiData/WD~Teke-Tsaayi,33123613|WD~Teke-Tsaayi,33123613]]'
 BTI_Governance_Index:
 - 3
 - 2.93
@@ -340,7 +340,7 @@ BTI_Status_Index:
 - 3.73
 - 3.78
 suicide_rate: 5.9
-top_level_Internet_domain: '[[_Standards/WikiData/WD~.cg,39906]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.cg,39906|WD~.cg,39906]]'
 Democracy_Index: 3.11
 area: 342000
 Inequality_adjusted_Human_Development_Index: 0.432
@@ -348,7 +348,7 @@ Happy_Planet_Index_score: 47.2
 Gini_coefficient: 48.9
 mobile_country_code: 629
 Human_Development_Index: 0.571
-head_of_state: '[[_Standards/WikiData/WD~Denis_Sassou-Nguesso,57418]]'
+head_of_state: '[[_Standards/WikiData/WD~Denis_Sassou-Nguesso,57418|WD~Denis_Sassou-Nguesso,57418]]'
 total_fertility_rate: 4.869
 death_rate:
 - 6.923
@@ -440,52 +440,52 @@ nominal_GDP:
 - 13366230821
 - 14615532210
 contains_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Cuvette-Ouest_Department,125711]]'
-- '[[_Standards/WikiData/WD~Pointe-Noire,223920]]'
-- '[[_Standards/WikiData/WD~Plateaux_Department,765370]]'
-- '[[_Standards/WikiData/WD~Sangha_Department,775410]]'
-- '[[_Standards/WikiData/WD~Cuvette_Department,780884]]'
-- '[[_Standards/WikiData/WD~Bouenza_Department,827015]]'
-- '[[_Standards/WikiData/WD~Kouilou_Department,855327]]'
-- '[[_Standards/WikiData/WD~Lékoumou_Department,862753]]'
-- '[[_Standards/WikiData/WD~Likouala_Department,863554]]'
-- '[[_Standards/WikiData/WD~Pool_Department,864647]]'
-- '[[_Standards/WikiData/WD~Niari_Department,969317]]'
-- '[[_Standards/WikiData/WD~Brazzaville,3844]]'
-flag: '[[_Standards/WikiData/WD~flag_of_the_Republic_of_the_Congo,163333]]'
-central_bank: '[[_Standards/WikiData/WD~Bank_of_Central_African_States,189972]]'
-coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_the_Republic_of_the_Congo,271186]]'
-anthem: '[[_Standards/WikiData/WD~La_Congolaise,320708]]'
-twinned_administrative_body: '[[_Standards/WikiData/WD~Seto,499493]]'
-culture: '[[_Standards/WikiData/WD~culture_of_the_Republic_of_the_Congo,967739]]'
-replaces: "[[_Standards/WikiData/WD~People's_Republic_of_the_Congo,1152126]]"
-follows: "[[_Standards/WikiData/WD~People's_Republic_of_the_Congo,1152126]]"
+- '[[_Standards/WikiData/WD~Cuvette-Ouest_Department,125711|WD~Cuvette-Ouest_Department,125711]]'
+- '[[_Standards/WikiData/WD~Pointe-Noire,223920|WD~Pointe-Noire,223920]]'
+- '[[_Standards/WikiData/WD~Plateaux_Department,765370|WD~Plateaux_Department,765370]]'
+- '[[_Standards/WikiData/WD~Sangha_Department,775410|WD~Sangha_Department,775410]]'
+- '[[_Standards/WikiData/WD~Cuvette_Department,780884|WD~Cuvette_Department,780884]]'
+- '[[_Standards/WikiData/WD~Bouenza_Department,827015|WD~Bouenza_Department,827015]]'
+- '[[_Standards/WikiData/WD~Kouilou_Department,855327|WD~Kouilou_Department,855327]]'
+- '[[_Standards/WikiData/WD~Lékoumou_Department,862753|WD~Lékoumou_Department,862753]]'
+- '[[_Standards/WikiData/WD~Likouala_Department,863554|WD~Likouala_Department,863554]]'
+- '[[_Standards/WikiData/WD~Pool_Department,864647|WD~Pool_Department,864647]]'
+- '[[_Standards/WikiData/WD~Niari_Department,969317|WD~Niari_Department,969317]]'
+- '[[_Standards/WikiData/WD~Brazzaville,3844|WD~Brazzaville,3844]]'
+flag: '[[_Standards/WikiData/WD~flag_of_the_Republic_of_the_Congo,163333|WD~flag_of_the_Republic_of_the_Congo,163333]]'
+central_bank: '[[_Standards/WikiData/WD~Bank_of_Central_African_States,189972|WD~Bank_of_Central_African_States,189972]]'
+coat_of_arms: '[[_Standards/WikiData/WD~coat_of_arms_of_the_Republic_of_the_Congo,271186|WD~coat_of_arms_of_the_Republic_of_the_Congo,271186]]'
+anthem: '[[_Standards/WikiData/WD~La_Congolaise,320708|WD~La_Congolaise,320708]]'
+twinned_administrative_body: '[[_Standards/WikiData/WD~Seto,499493|WD~Seto,499493]]'
+culture: '[[_Standards/WikiData/WD~culture_of_the_Republic_of_the_Congo,967739|WD~culture_of_the_Republic_of_the_Congo,967739]]'
+replaces: "[[_Standards/WikiData/WD~People's_Republic_of_the_Congo,1152126|WD~People's_Republic_of_the_Congo,1152126]]"
+follows: "[[_Standards/WikiData/WD~People's_Republic_of_the_Congo,1152126|WD~People's_Republic_of_the_Congo,1152126]]"
 electrical_plug_type:
-- '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- '[[_Standards/WikiData/WD~Type_E,2335536]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_the_Republic_of_the_Congo,1417200]]'
-geography_of_topic: '[[_Standards/WikiData/WD~geography_of_the_Republic_of_the_Congo,2046858]]'
-economy_of_topic: '[[_Standards/WikiData/WD~economy_of_the_Republic_of_the_Congo,2603882]]'
-demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_the_Republic_of_the_Congo,3092546]]'
-executive_body: '[[_Standards/WikiData/WD~Government_of_the_Republic_of_the_Congo,3112600]]'
-highest_point: '[[_Standards/WikiData/WD~Mont_Nabemba,3113296]]'
+- '[[_Standards/WikiData/WD~Europlug,1378312|WD~Europlug,1378312]]'
+- '[[_Standards/WikiData/WD~Type_E,2335536|WD~Type_E,2335536]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_the_Republic_of_the_Congo,1417200|WD~history_of_the_Republic_of_the_Congo,1417200]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_the_Republic_of_the_Congo,2046858|WD~geography_of_the_Republic_of_the_Congo,2046858]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_the_Republic_of_the_Congo,2603882|WD~economy_of_the_Republic_of_the_Congo,2603882]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_the_Republic_of_the_Congo,3092546|WD~demographics_of_the_Republic_of_the_Congo,3092546]]'
+executive_body: '[[_Standards/WikiData/WD~Government_of_the_Republic_of_the_Congo,3112600|WD~Government_of_the_Republic_of_the_Congo,3112600]]'
+highest_point: '[[_Standards/WikiData/WD~Mont_Nabemba,3113296|WD~Mont_Nabemba,3113296]]'
 instance_of:
-- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
-- '[[_Standards/WikiData/WD~country,6256]]'
-basic_form_of_government: '[[_Standards/WikiData/WD~parliamentary_republic,4198907]]'
-legislative_body: '[[_Standards/WikiData/WD~Parliament_of_the_Republic_of_the_Congo,4345421]]'
+- '[[_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~country,6256|WD~country,6256]]'
+basic_form_of_government: '[[_Standards/WikiData/WD~parliamentary_republic,4198907|WD~parliamentary_republic,4198907]]'
+legislative_body: '[[_Standards/WikiData/WD~Parliament_of_the_Republic_of_the_Congo,4345421|WD~Parliament_of_the_Republic_of_the_Congo,4345421]]'
 emergency_phone_number:
-- '[[_Standards/WikiData/WD~117,4547615]]'
-- '[[_Standards/WikiData/WD~118,11185210]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_the_Republic_of_the_Congo,7112780]]'
-category_for_people_born_here: '[[_Standards/WikiData/WD~Q8070006,8070006]]'
-office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_the_Republic_of_the_Congo,10353660]]'
-driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Republic_of_the_Congo,14616175]]'
-head_of_government: '[[_Standards/WikiData/WD~Clément_Mouamba,23928873]]'
-office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_the_Republic_of_the_Congo,30101451]]'
+- '[[_Standards/WikiData/WD~117,4547615|WD~117,4547615]]'
+- '[[_Standards/WikiData/WD~118,11185210|WD~118,11185210]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_the_Republic_of_the_Congo,7112780|WD~outline_of_the_Republic_of_the_Congo,7112780]]'
+category_for_people_born_here: '[[_Standards/WikiData/WD~Q8070006,8070006|WD~Q8070006,8070006]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_the_Republic_of_the_Congo,10353660|WD~President_of_the_Republic_of_the_Congo,10353660]]'
+driving_side: '[[_Standards/WikiData/WD~right,14565199|WD~right,14565199]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Republic_of_the_Congo,14616175|WD~Portal_Republic_of_the_Congo,14616175]]'
+head_of_government: '[[_Standards/WikiData/WD~Clément_Mouamba,23928873|WD~Clément_Mouamba,23928873]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_the_Republic_of_the_Congo,30101451|WD~Prime_Minister_of_the_Republic_of_the_Congo,30101451]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~not-free_country,47185282]]'
+- '[[_Standards/WikiData/WD~not-free_country,47185282|WD~not-free_country,47185282]]'
 geoshape: http://commons.wikimedia.org/data/main/Data:Republic+of+Congo.map
 page_banner: http://commons.wikimedia.org/wiki/Special:FilePath/Congo%20banner%20Congo%20River.JPG
 pronunciation_audio:
@@ -512,18 +512,18 @@ UMLS_CUI: C0009738
 ISNI: 123242385
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Republic%20of%20the%20Congo%20-%20Location%20Map%20%282011%29%20-%20COG%20-%20UNOCHA.svg
 shares_border_with:
-- '[[_Standards/WikiData/WD~Angola,916]]'
-- '[[_Standards/WikiData/WD~Central_African_Republic,929]]'
-- '[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]'
-- '[[_Standards/WikiData/WD~Gabon,1000]]'
-- '[[_Standards/WikiData/WD~Cameroon,1009]]'
-country: '[[_Standards/WikiData/WD~Republic_of_the_Congo,971]]'
+- '[[_Standards/WikiData/WD~Angola,916|WD~Angola,916]]'
+- '[[_Standards/WikiData/WD~Central_African_Republic,929|WD~Central_African_Republic,929]]'
+- '[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974|WD~Democratic_Republic_of_the_Congo,974]]'
+- '[[_Standards/WikiData/WD~Gabon,1000|WD~Gabon,1000]]'
+- '[[_Standards/WikiData/WD~Cameroon,1009|WD~Cameroon,1009]]'
+country: '[[_Standards/WikiData/WD~Republic_of_the_Congo,971|WD~Republic_of_the_Congo,971]]'
 different_from:
-- '[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974]]'
-named_after: '[[_Standards/WikiData/WD~Congo,3503]]'
-capital: '[[_Standards/WikiData/WD~Brazzaville,3844]]'
+- '[[_Standards/WikiData/WD~Democratic_Republic_of_the_Congo,974|WD~Democratic_Republic_of_the_Congo,974]]'
+named_after: '[[_Standards/WikiData/WD~Congo,3503|WD~Congo,3503]]'
+capital: '[[_Standards/WikiData/WD~Brazzaville,3844|WD~Brazzaville,3844]]'
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~UTC+01_00,6655]]'
+- '[[_Standards/WikiData/WD~UTC+01_00,6655|WD~UTC+01_00,6655]]'
 dv_ISO2: CG
 dv_ISO3: COG
 dv_is_:
@@ -823,7 +823,7 @@ dv_has_name_en: Congo, Rep.
 dv_has_name_de: Kongo
 dv_Area-Total: 342000
 dv_Area-Land: 0
-dv_has_place_continent: '[[../../Africa]]'
+dv_has_place_continent: '[[../../Africa|Africa]]'
 dv_VehicleCode: RCB
 dv_Alcohol-l: 4.2
 dv_Language-Id: 496
@@ -855,7 +855,7 @@ is_a = `=this.dv_is_a_`
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Congo~Brazzaville/ReadMe]] 
+[[Congo~Brazzaville/ReadMe|ReadMe]] 
 
 ## #has_/map 
 
@@ -875,11 +875,11 @@ Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
-Capital ::  [[Congo~Rep/City/Brazzaville]] ] 
+Capital ::  [[Congo~Rep/City/Brazzaville|Brazzaville]] ] 
 
 ![[Coat_of_arms_of_the_Republic_of_the_Congo.svg|350]]
 
-![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Congo.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Congo.mp3|Anthem-Congo.mp3]]
 
 ![[Flag_of_the_Republic_of_the_Congo.svg|350]]
 Alcohol-l = `=this.dv_Alcohol-l`

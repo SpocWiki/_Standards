@@ -15,9 +15,9 @@ aliases:
 - 荊芥亞科
 - 꿀풀아과
 has_id_wikidata: Q138199
-taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-parent_taxon: '[[_Standards/WikiData/WD~Lamiaceae,53476]]'
+taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280|WD~subfamily,164280]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+parent_taxon: '[[_Standards/WikiData/WD~Lamiaceae,53476|WD~Lamiaceae,53476]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Thorncroftia%20longiflora%20145-8824.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Thymus%20capitatus.jpg

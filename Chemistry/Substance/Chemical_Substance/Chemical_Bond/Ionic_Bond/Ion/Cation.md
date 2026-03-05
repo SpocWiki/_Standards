@@ -46,18 +46,18 @@ aliases:
 - 陽離子
 - 양이온
 has_id_wikidata: Q326277
-opposite_of: '[[_Standards/WikiData/WD~anion,107968]]'
+opposite_of: '[[_Standards/WikiData/WD~anion,107968|WD~anion,107968]]'
 part_of:
-- '[[_Standards/WikiData/WD~cation_transport,14884611]]'
-- '[[_Standards/WikiData/WD~cation_transmembrane_transporter_activity,14907992]]'
-- '[[_Standards/WikiData/WD~cation_binding,14914252]]'
-- '[[_Standards/WikiData/WD~cellular_cation_homeostasis,21135414]]'
-- '[[_Standards/WikiData/WD~cation_transmembrane_transport,21750224]]'
-- '[[_Standards/WikiData/WD~cation_homeostasis,22298096]]'
-- '[[_Standards/WikiData/WD~solute_cation_antiporter_activity,22324933]]'
-- '[[_Standards/WikiData/WD~calcium_cation_antiporter_activity,22324938]]'
-instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
-subclass_of: '[[_Standards/WikiData/WD~ion,36496]]'
+- '[[_Standards/WikiData/WD~cation_transport,14884611|WD~cation_transport,14884611]]'
+- '[[_Standards/WikiData/WD~cation_transmembrane_transporter_activity,14907992|WD~cation_transmembrane_transporter_activity,14907992]]'
+- '[[_Standards/WikiData/WD~cation_binding,14914252|WD~cation_binding,14914252]]'
+- '[[_Standards/WikiData/WD~cellular_cation_homeostasis,21135414|WD~cellular_cation_homeostasis,21135414]]'
+- '[[_Standards/WikiData/WD~cation_transmembrane_transport,21750224|WD~cation_transmembrane_transport,21750224]]'
+- '[[_Standards/WikiData/WD~cation_homeostasis,22298096|WD~cation_homeostasis,22298096]]'
+- '[[_Standards/WikiData/WD~solute_cation_antiporter_activity,22324933|WD~solute_cation_antiporter_activity,22324933]]'
+- '[[_Standards/WikiData/WD~calcium_cation_antiporter_activity,22324938|WD~calcium_cation_antiporter_activity,22324938]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
+subclass_of: '[[_Standards/WikiData/WD~ion,36496|WD~ion,36496]]'
 OmegaWiki_Defined_Meaning: 510
 IEV_number: 114-01-13
 UMLS_CUI: C0007447
@@ -66,7 +66,7 @@ MeSH_tree_code: D01.248.497.300
 Dewey_Decimal_Classification: 541.372
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~cation,326277]]'
+  - '[[_Standards/WikiData/WD~cation,326277|WD~cation,326277]]'
   - '[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation|Cation]]'
   - '[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.public|Cation.public]]'
   - '[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.internal|Cation.internal]]'
@@ -75,7 +75,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.personal|Cation.personal]]'
   - '[[/_secret/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.secret|Cation.secret]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~cation,326277]]'
+- '[[_Standards/WikiData/WD~cation,326277|WD~cation,326277]]'
 - '[[/_Standards/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation|Cation]]'
 - '[[/_public/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.public|Cation.public]]'
 - '[[/_internal/Chemistry/Substance/Chemical_Substance/Chemical_Bond/Ionic_Bond/Ion/Cation.internal|Cation.internal]]'
@@ -172,7 +172,7 @@ dv_has_:
 
 # [[Cation]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~cation,326277]] 
+#is_/same_as :: [[_Standards/WikiData/WD~cation,326277|WD~cation,326277]] 
 
 ## #has_/text_of_/abstract 
 

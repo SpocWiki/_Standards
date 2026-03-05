@@ -143,13 +143,13 @@ aliases:
 - 癌症
 - 암
 has_id_wikidata: Q12078
-age_of_onset: '[[_Standards/WikiData/WD~any_age,118907676]]'
+age_of_onset: '[[_Standards/WikiData/WD~any_age,118907676|WD~any_age,118907676]]'
 Commons_gallery: Cancer (illness)
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Stanford_Encyclopedia_of_Philosophy,824553]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Stanford_Encyclopedia_of_Philosophy,824553|WD~Stanford_Encyclopedia_of_Philosophy,824553]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 Dewey_Decimal_Classification:
 - 362.196994
 - 571.978
@@ -157,29 +157,29 @@ Dewey_Decimal_Classification:
 - 616.994
 - 618.92994
 - 636.0896994
-different_from: '[[_Standards/WikiData/WD~carcinoma,33525]]'
+different_from: '[[_Standards/WikiData/WD~carcinoma,33525|WD~carcinoma,33525]]'
 DiseasesDB: 28843
 drug_or_therapy_used_for_treatment:
-- '[[_Standards/WikiData/WD~cholecalciferol,139347]]'
-- '[[_Standards/WikiData/WD~alpha-linolenic_acid,256502]]'
-- '[[_Standards/WikiData/WD~methylprednisolone,417222]]'
-- '[[_Standards/WikiData/WD~dexamethasone,422252]]'
-- '[[_Standards/WikiData/WD~prednisone,424972]]'
-- '[[_Standards/WikiData/WD~antineoplastic,2853144]]'
-- '[[_Standards/WikiData/WD~prednisolone,11426176]]'
+- '[[_Standards/WikiData/WD~cholecalciferol,139347|WD~cholecalciferol,139347]]'
+- '[[_Standards/WikiData/WD~alpha-linolenic_acid,256502|WD~alpha-linolenic_acid,256502]]'
+- '[[_Standards/WikiData/WD~methylprednisolone,417222|WD~methylprednisolone,417222]]'
+- '[[_Standards/WikiData/WD~dexamethasone,422252|WD~dexamethasone,422252]]'
+- '[[_Standards/WikiData/WD~prednisone,424972|WD~prednisone,424972]]'
+- '[[_Standards/WikiData/WD~antineoplastic,2853144|WD~antineoplastic,2853144]]'
+- '[[_Standards/WikiData/WD~prednisolone,11426176|WD~prednisolone,11426176]]'
 exact_match:
 - http://identifiers.org/doid/DOID:162
 - http://purl.obolibrary.org/obo/DOID_162
 handled_mitigated_or_managed_by:
-- '[[_Standards/WikiData/WD~cancer_prevention,1787013]]'
-- '[[_Standards/WikiData/WD~treatment_of_cancer,2575340]]'
-- '[[_Standards/WikiData/WD~early_detection_of_cancer,66770492]]'
+- '[[_Standards/WikiData/WD~cancer_prevention,1787013|WD~cancer_prevention,1787013]]'
+- '[[_Standards/WikiData/WD~treatment_of_cancer,2575340|WD~treatment_of_cancer,2575340]]'
+- '[[_Standards/WikiData/WD~early_detection_of_cancer,66770492|WD~early_detection_of_cancer,66770492]]'
 has_cause:
-- '[[_Standards/WikiData/WD~infectious_causes_of_cancer,6029220]]'
-- '[[_Standards/WikiData/WD~causes_of_cancer,18205885]]'
-has_characteristic: '[[_Standards/WikiData/WD~malignancy,1483951]]'
-has_effect: '[[_Standards/WikiData/WD~cancer_pain,3712728]]'
-health_specialty: '[[_Standards/WikiData/WD~oncology,162555]]'
+- '[[_Standards/WikiData/WD~infectious_causes_of_cancer,6029220|WD~infectious_causes_of_cancer,6029220]]'
+- '[[_Standards/WikiData/WD~causes_of_cancer,18205885|WD~causes_of_cancer,18205885]]'
+has_characteristic: '[[_Standards/WikiData/WD~malignancy,1483951|WD~malignancy,1483951]]'
+has_effect: '[[_Standards/WikiData/WD~cancer_pain,3712728|WD~cancer_pain,3712728]]'
+health_specialty: '[[_Standards/WikiData/WD~oncology,162555|WD~oncology,162555]]'
 IAB_code: 314
 ICD_10_CM:
 - C80.1
@@ -187,27 +187,27 @@ ICD_10_CM:
 ICD_9_CM: 199
 ICD_O: 8000/3
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Breast%20cancer%20cell%20%282%29.jpg
-instance_of: '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+instance_of: '[[_Standards/WikiData/WD~class_of_disease,112193867|WD~class_of_disease,112193867]]'
 IPTC_NewsCode: mediatopic/20000447
-named_after: '[[_Standards/WikiData/WD~crab,16033394]]'
+named_after: '[[_Standards/WikiData/WD~crab,16033394|WD~crab,16033394]]'
 native_label: καρκῐ́νος
 OmegaWiki_Defined_Meaning: 479
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
-opposite_of: '[[_Standards/WikiData/WD~benign_neoplasm,1417240]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686|WD~WikiProject_Medicine,4099686]]'
+opposite_of: '[[_Standards/WikiData/WD~benign_neoplasm,1417240|WD~benign_neoplasm,1417240]]'
 pronunciation_audio:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Q12078-ar.ogg
 - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%B3%D8%B1%D8%B7%D8%A7%D9%86.wav
 - http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q33810%20%28ori%29-Psubhashish-%E0%AC%95%E0%AC%B0%E0%AD%8D%E0%AC%95%E0%AC%9F%20%E0%AC%B0%E0%AD%8B%E0%AC%97.wav
-risk_factor: '[[_Standards/WikiData/WD~smoking,662860]]'
+risk_factor: '[[_Standards/WikiData/WD~smoking,662860|WD~smoking,662860]]'
 studied_in:
-- '[[_Standards/WikiData/WD~oncology,162555]]'
-- '[[_Standards/WikiData/WD~cancer_research,3421914]]'
-- '[[_Standards/WikiData/WD~cancer_biology,85709956]]'
+- '[[_Standards/WikiData/WD~oncology,162555|WD~oncology,162555]]'
+- '[[_Standards/WikiData/WD~cancer_research,3421914|WD~cancer_research,3421914]]'
+- '[[_Standards/WikiData/WD~cancer_biology,85709956|WD~cancer_biology,85709956]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~tumor,133212]]'
-- '[[_Standards/WikiData/WD~neoplasm,1216998]]'
-- '[[_Standards/WikiData/WD~disease_of_cellular_proliferation,18554796]]'
-- '[[_Standards/WikiData/WD~disease,12136]]'
+- '[[_Standards/WikiData/WD~tumor,133212|WD~tumor,133212]]'
+- '[[_Standards/WikiData/WD~neoplasm,1216998|WD~neoplasm,1216998]]'
+- '[[_Standards/WikiData/WD~disease_of_cellular_proliferation,18554796|WD~disease_of_cellular_proliferation,18554796]]'
+- '[[_Standards/WikiData/WD~disease,12136|WD~disease,12136]]'
 UMLS_CUI: C0006826
 U_S_National_Archives_Identifier: 10636616
 dv_has_:

@@ -34,7 +34,7 @@ Tag Instances like this:
 
 Indicates whether this drug is available by prescription or over-the-counter.
 
-#has_/parent_class :: [[../MedicalEnumeration]]  
+#has_/parent_class :: [[../MedicalEnumeration|MedicalEnumeration]]  
 
 ## Confidential Links & Embeds: 
 

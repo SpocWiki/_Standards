@@ -94,19 +94,19 @@ taxon_common_name:
 - Primrose Family
 - Primolacoj
 taxon_synonym:
-- '[[_Standards/WikiData/WD~Theophrastaceae,132048]]'
-- '[[_Standards/WikiData/WD~Myrsinaceae,161260]]'
-- '[[_Standards/WikiData/WD~Maesaceae,13984900]]'
-has_fruit_type: '[[_Standards/WikiData/WD~capsule,147768]]'
-taxonomic_type: '[[_Standards/WikiData/WD~Primula,158974]]'
+- '[[_Standards/WikiData/WD~Theophrastaceae,132048|WD~Theophrastaceae,132048]]'
+- '[[_Standards/WikiData/WD~Myrsinaceae,161260|WD~Myrsinaceae,161260]]'
+- '[[_Standards/WikiData/WD~Maesaceae,13984900|WD~Maesaceae,13984900]]'
+has_fruit_type: '[[_Standards/WikiData/WD~capsule,147768|WD~capsule,147768]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Primula,158974|WD~Primula,158974]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Flora_URSS,5862833]]'
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_59(1),112869459]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-parent_taxon: '[[../../../../../../../../../../../../WikiData/WD~Ericales,21737]]'
-taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Flora_URSS,5862833|WD~Flora_URSS,5862833]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_59(1),112869459|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_59(1),112869459]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+parent_taxon: '[[../../../../../../../../../../../../WikiData/WD~Ericales,21737|WD~Ericales,21737]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409|WD~family,35409]]'
 ITIS_TSN: 23929
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Welsh%20Primrose.jpg
 Montana_Plant_Life_URL: http://montana.plant-life.org/cgi-bin/family03.cgi?Primulaceae

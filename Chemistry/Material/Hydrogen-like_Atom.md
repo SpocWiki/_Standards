@@ -28,8 +28,8 @@ aliases:
 - 類氫原子
 - 수소형 원자
 has_id_wikidata: Q2333783
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-subclass_of: '[[_Standards/WikiData/WD~atom,9121]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+subclass_of: '[[_Standards/WikiData/WD~atom,9121|WD~atom,9121]]'
 dv_is_:
   same_as:
   - '[[../../WikiData/WD~Hydrogen-like_atom,2333783|WD~Hydrogen-like_atom,2333783]]'

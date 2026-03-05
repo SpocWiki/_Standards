@@ -40,9 +40,9 @@ aliases:
 - 禾本目
 - 벼목
 has_id_wikidata: Q28502
-parent_taxon: '[[_Standards/WikiData/WD~commelinids,868546]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
+parent_taxon: '[[_Standards/WikiData/WD~commelinids,868546|WD~commelinids,868546]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~order,36602|WD~order,36602]]'
 ITIS_TSN: 846620
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Wheat%20field.jpg
 Commons_category: Poales

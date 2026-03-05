@@ -76,24 +76,24 @@ aliases:
 - 산호
 has_id_wikidata: Q171446
 taxon_known_by_this_common_name:
-- '[[_Standards/WikiData/WD~Helioporacea,135603]]'
-- '[[_Standards/WikiData/WD~Alcyonacea,137552]]'
-- '[[_Standards/WikiData/WD~Scleractinia,195605]]'
-- '[[_Standards/WikiData/WD~Antipatharia,1479472]]'
+- '[[_Standards/WikiData/WD~Helioporacea,135603|WD~Helioporacea,135603]]'
+- '[[_Standards/WikiData/WD~Alcyonacea,137552|WD~Alcyonacea,137552]]'
+- '[[_Standards/WikiData/WD~Scleractinia,195605|WD~Scleractinia,195605]]'
+- '[[_Standards/WikiData/WD~Antipatharia,1479472|WD~Antipatharia,1479472]]'
 has_works_in_the_collection:
-- '[[_Standards/WikiData/WD~Rijksmuseum,190804]]'
-- '[[_Standards/WikiData/WD~Catherine_Aleya_Beriketti_Sursock_&_Sadruddin_Aga_Khan,99478162]]'
+- '[[_Standards/WikiData/WD~Rijksmuseum,190804|WD~Rijksmuseum,190804]]'
+- '[[_Standards/WikiData/WD~Catherine_Aleya_Beriketti_Sursock_&_Sadruddin_Aga_Khan,99478162|WD~Catherine_Aleya_Beriketti_Sursock_&_Sadruddin_Aga_Khan,99478162]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~hedendaagsesieraden.nl,89929597]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Corals,7656881]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~hedendaagsesieraden.nl,89929597|WD~hedendaagsesieraden.nl,89929597]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Corals,7656881|WD~Template_Corals,7656881]]'
 different_from:
-- '[[_Standards/WikiData/WD~Marjan,_Alborz,10858291]]'
-- '[[_Standards/WikiData/WD~coral,29386288]]'
-instance_of: '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]'
+- '[[_Standards/WikiData/WD~Marjan,_Alborz,10858291|WD~Marjan,_Alborz,10858291]]'
+- '[[_Standards/WikiData/WD~coral,29386288|WD~coral,29386288]]'
+instance_of: '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715|WD~organisms_known_by_a_particular_common_name,55983715]]'
 OmegaWiki_Defined_Meaning: 763
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Coral%20Outcrop%20Flynn%20Reef.jpg
 Commons_category: Corals

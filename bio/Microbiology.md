@@ -82,22 +82,22 @@ aliases:
 - 미생물학
 has_id_wikidata: Q7193
 has_part_s_:
-- '[[_Standards/WikiData/WD~bacteriology,243748]]'
-- '[[_Standards/WikiData/WD~protistology,2467781]]'
-- '[[_Standards/WikiData/WD~virology,7215]]'
+- '[[_Standards/WikiData/WD~bacteriology,243748|WD~bacteriology,243748]]'
+- '[[_Standards/WikiData/WD~protistology,2467781|WD~protistology,2467781]]'
+- '[[_Standards/WikiData/WD~virology,7215|WD~virology,7215]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~exact_science,475023]]'
-- '[[_Standards/WikiData/WD~biology,420]]'
+- '[[_Standards/WikiData/WD~exact_science,475023|WD~exact_science,475023]]'
+- '[[_Standards/WikiData/WD~biology,420|WD~biology,420]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-practiced_by: '[[_Standards/WikiData/WD~microbiologist,3779582]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Microbiology,10444284]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+practiced_by: '[[_Standards/WikiData/WD~microbiologist,3779582|WD~microbiologist,3779582]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Microbiology,10444284|WD~WikiProject_Microbiology,10444284]]'
 instance_of:
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~branch_of_biology,28598684]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Microbiology,14615897]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~branch_of_biology,28598684|WD~branch_of_biology,28598684]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Microbiology,14615897|WD~Portal_Microbiology,14615897]]'
 Dewey_Decimal_Classification: 579
 All_Science_Journal_Classification_Codes: 2404
 OmegaWiki_Defined_Meaning: 2337

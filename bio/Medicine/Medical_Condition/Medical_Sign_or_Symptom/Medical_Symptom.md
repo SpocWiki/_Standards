@@ -91,31 +91,31 @@ tags:
 title: is_a_medical_symptom Class
 type: Type
 different_from:
-- '[[_Standards/WikiData/WD~syndrome,179630]]'
-- '[[_Standards/WikiData/WD~psychoanalytic_symptom,17630910]]'
+- '[[_Standards/WikiData/WD~syndrome,179630|WD~syndrome,179630]]'
+- '[[_Standards/WikiData/WD~psychoanalytic_symptom,17630910|WD~psychoanalytic_symptom,17630910]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~clinical_sign,1441305]]'
-- '[[_Standards/WikiData/WD~symptom_or_sign,112965645]]'
+- '[[_Standards/WikiData/WD~clinical_sign,1441305|WD~clinical_sign,1441305]]'
+- '[[_Standards/WikiData/WD~symptom_or_sign,112965645|WD~symptom_or_sign,112965645]]'
 manifestation_of:
-- '[[_Standards/WikiData/WD~health_problem,2057971]]'
-- '[[_Standards/WikiData/WD~disease,12136]]'
-has_use: '[[_Standards/WikiData/WD~risk_measure,2154759]]'
+- '[[_Standards/WikiData/WD~health_problem,2057971|WD~health_problem,2057971]]'
+- '[[_Standards/WikiData/WD~disease,12136|WD~disease,12136]]'
+has_use: '[[_Standards/WikiData/WD~risk_measure,2154759|WD~risk_measure,2154759]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~duration,2199864]]'
-- '[[_Standards/WikiData/WD~severity,96278582]]'
-- '[[_Standards/WikiData/WD~symptom_type,130753312]]'
-studied_by: '[[_Standards/WikiData/WD~symptomatology,3510806]]'
-described_by_source: '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~duration,2199864|WD~duration,2199864]]'
+- '[[_Standards/WikiData/WD~severity,96278582|WD~severity,96278582]]'
+- '[[_Standards/WikiData/WD~symptom_type,130753312|WD~symptom_type,130753312]]'
+studied_by: '[[_Standards/WikiData/WD~symptomatology,3510806|WD~symptomatology,3510806]]'
+described_by_source: '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Symptoms_and_signs,6315507]]'
-- '[[_Standards/WikiData/WD~Template_Infobox_symptom,6610506]]'
+- '[[_Standards/WikiData/WD~Template_Symptoms_and_signs,6315507|WD~Template_Symptoms_and_signs,6315507]]'
+- '[[_Standards/WikiData/WD~Template_Infobox_symptom,6610506|WD~Template_Infobox_symptom,6610506]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~physiological_condition,7189713]]'
-- '[[_Standards/WikiData/WD~symptom_or_sign,112965645]]'
-disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-contributing_factor_of: '[[_Standards/WikiData/WD~clinical_finding,28807560]]'
-facet_of: '[[_Standards/WikiData/WD~health_risk,87075524]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_COVID_19,87748614]]'
+- '[[_Standards/WikiData/WD~physiological_condition,7189713|WD~physiological_condition,7189713]]'
+- '[[_Standards/WikiData/WD~symptom_or_sign,112965645|WD~symptom_or_sign,112965645]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
+contributing_factor_of: '[[_Standards/WikiData/WD~clinical_finding,28807560|WD~clinical_finding,28807560]]'
+facet_of: '[[_Standards/WikiData/WD~health_risk,87075524|WD~health_risk,87075524]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_COVID_19,87748614|WD~WikiProject_COVID_19,87748614]]'
 Wikidata_property: symptoms and signs
 OmegaWiki_Defined_Meaning: 1630178
 exact_match: http://purl.obolibrary.org/obo/SYMP_0000462
@@ -243,7 +243,7 @@ Tag Instances like this:
 
 Any complaint sensed and expressed by the patient (therefore defined as subjective)  like stomachache, lower-back pain, or fatigue.
 
-#has_/parent_class :: [[../MedicalSignOrSymptom]]  
+#has_/parent_class :: [[../MedicalSignOrSymptom|MedicalSignOrSymptom]]  
 
 #has_/properties :: [ additionalType, alternateName, associatedAnatomy, code, description, differentialDiagnosis, disambiguatingDescription, drug, epidemiology, expectedPrognosis, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, medicineSystem, name, naturalProgression, pathophysiology, possibleComplication, possibleTreatment, potentialAction, primaryPrevention, recognizingAuthority, relevantSpecialty, riskFactor, sameAs, secondaryPrevention, signOrSymptom, stage, status, study, subjectOf, typicalTest, url ]  
 

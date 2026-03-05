@@ -92,28 +92,28 @@ Common_Procurement_Vocabulary_code:
 CXSMILES: "[*]C(=O)O |$_R$|"
 general_formula: RC(=O)OH
 has_part_s_:
-  - "[[_Standards/WikiData/WD~carboxyl,909913]]"
-  - "[[_Standards/WikiData/WD~carboacyl_group,56435743]]"
-instance_of: "[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]"
+  - "[[_Standards/WikiData/WD~carboxyl,909913|WD~carboxyl,909913]]"
+  - "[[_Standards/WikiData/WD~carboacyl_group,56435743|WD~carboacyl_group,56435743]]"
+instance_of: "[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]"
 Krugosvet_article: nauka_i_tehnika/himiya/KARBONOVIE_KISLOTI.html
 MeSH_tree_code: D02.241
 P8189: 987007283483205100
 part_of:
-  - "[[_Standards/WikiData/WD~carboxylic_acid_transmembrane_transporter_activity,21106443]]"
-  - "[[_Standards/WikiData/WD~ATPase_coupled_carboxylic_acid_transmembrane_transporter_activity,22320690]]"
-  - "[[_Standards/WikiData/WD~carboxylic_acid_transmembrane_transport,24467030]]"
+  - "[[_Standards/WikiData/WD~carboxylic_acid_transmembrane_transporter_activity,21106443|WD~carboxylic_acid_transmembrane_transporter_activity,21106443]]"
+  - "[[_Standards/WikiData/WD~ATPase_coupled_carboxylic_acid_transmembrane_transporter_activity,22320690|WD~ATPase_coupled_carboxylic_acid_transmembrane_transporter_activity,22320690]]"
+  - "[[_Standards/WikiData/WD~carboxylic_acid_transmembrane_transport,24467030|WD~carboxylic_acid_transmembrane_transport,24467030]]"
 SMARTS_notation: "[CX3](=O)[OX1H0-,OX2H1]"
 subclass_of:
-  - "[[_Standards/WikiData/WD~organic_acid,421948]]"
-  - "[[_Standards/WikiData/WD~carbonyl_compound,9392635]]"
-  - "[[_Standards/WikiData/WD~carbon_oxoacid,72056948]]"
+  - "[[_Standards/WikiData/WD~organic_acid,421948|WD~organic_acid,421948]]"
+  - "[[_Standards/WikiData/WD~carbonyl_compound,9392635|WD~carbonyl_compound,9392635]]"
+  - "[[_Standards/WikiData/WD~carbon_oxoacid,72056948|WD~carbon_oxoacid,72056948]]"
 UMLS_CUI: C0007066
 dv_has_:
   formula_:
     sum: R-C(O)OH
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Carboxylic_acid,134856]]"
+    - "[[../../../WikiData/WD~Carboxylic_acid,134856|WD~Carboxylic_acid,134856]]"
     - "[[/_Standards/Chemistry/Organic_Chemistry/Carboxylic_Acid|Carboxylic_Acid]]"
     - "[[/_public/Chemistry/Organic_Chemistry/Carboxylic_Acid.public|Carboxylic_Acid.public]]"
     - "[[/_internal/Chemistry/Organic_Chemistry/Carboxylic_Acid.internal|Carboxylic_Acid.internal]]"
@@ -123,7 +123,7 @@ dv_is_:
     - "[[/_secret/Chemistry/Organic_Chemistry/Carboxylic_Acid.secret|Carboxylic_Acid.secret]]"
 dv_has_formula_sum: R-C(O)OH
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Carboxylic_acid,134856]]"
+  - "[[../../../WikiData/WD~Carboxylic_acid,134856|WD~Carboxylic_acid,134856]]"
   - "[[/_Standards/Chemistry/Organic_Chemistry/Carboxylic_Acid|Carboxylic_Acid]]"
   - "[[/_public/Chemistry/Organic_Chemistry/Carboxylic_Acid.public|Carboxylic_Acid.public]]"
   - "[[/_internal/Chemistry/Organic_Chemistry/Carboxylic_Acid.internal|Carboxylic_Acid.internal]]"
@@ -147,7 +147,7 @@ O-H O
   R
 ```
 
-#is_/same_as :: [[../../../WikiData/WD~Carboxylic_acid,134856]] 
+#is_/same_as :: [[../../../WikiData/WD~Carboxylic_acid,134856|WD~Carboxylic_acid,134856]] 
 
 ## #has_/text_of_/abstract 
 
@@ -183,21 +183,21 @@ O-H O
 R$|'
 general_formula: RC(=O)OH
 has_part_s_:
-- '[[_Standards/WikiData/WD~carboxyl,909913]]'
-- '[[_Standards/WikiData/WD~carboacyl_group,56435743]]'
-instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513]]'
+- '[[_Standards/WikiData/WD~carboxyl,909913|WD~carboxyl,909913]]'
+- '[[_Standards/WikiData/WD~carboacyl_group,56435743|WD~carboacyl_group,56435743]]'
+instance_of: '[[_Standards/WikiData/WD~structural_class_of_chemical_entities,47154513|WD~structural_class_of_chemical_entities,47154513]]'
 Krugosvet_article: nauka_i_tehnika/himiya/KARBONOVIE_KISLOTI.html
 MeSH_tree_code: D02.241
 P8189: 987007283483205100
 part_of:
-- '[[_Standards/WikiData/WD~carboxylic_acid_transmembrane_transporter_activity,21106443]]'
-- '[[_Standards/WikiData/WD~ATPase_coupled_carboxylic_acid_transmembrane_transporter_activity,22320690]]'
-- '[[_Standards/WikiData/WD~carboxylic_acid_transmembrane_transport,24467030]]'
+- '[[_Standards/WikiData/WD~carboxylic_acid_transmembrane_transporter_activity,21106443|WD~carboxylic_acid_transmembrane_transporter_activity,21106443]]'
+- '[[_Standards/WikiData/WD~ATPase_coupled_carboxylic_acid_transmembrane_transporter_activity,22320690|WD~ATPase_coupled_carboxylic_acid_transmembrane_transporter_activity,22320690]]'
+- '[[_Standards/WikiData/WD~carboxylic_acid_transmembrane_transport,24467030|WD~carboxylic_acid_transmembrane_transport,24467030]]'
 SMARTS_notation: '[CX3](=O)[OX1H0-,OX2H1]'
 subclass_of:
-- '[[_Standards/WikiData/WD~organic_acid,421948]]'
-- '[[_Standards/WikiData/WD~carbonyl_compound,9392635]]'
-- '[[_Standards/WikiData/WD~carbon_oxoacid,72056948]]'
+- '[[_Standards/WikiData/WD~organic_acid,421948|WD~organic_acid,421948]]'
+- '[[_Standards/WikiData/WD~carbonyl_compound,9392635|WD~carbonyl_compound,9392635]]'
+- '[[_Standards/WikiData/WD~carbon_oxoacid,72056948|WD~carbon_oxoacid,72056948]]'
 UMLS_CUI: C0007066
 dv_has_:
   formula_:
@@ -301,7 +301,7 @@ dv_has_:
     zh_tw: 羧酸
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Carboxylic_acid,134856]]'
+  - '[[../../../WikiData/WD~Carboxylic_acid,134856|WD~Carboxylic_acid,134856]]'
   - '[[/_Standards/Chemistry/Organic_Chemistry/Carboxylic_Acid|Carboxylic_Acid]]'
   - '[[/_public/Chemistry/Organic_Chemistry/Carboxylic_Acid.public|Carboxylic_Acid.public]]'
   - '[[/_internal/Chemistry/Organic_Chemistry/Carboxylic_Acid.internal|Carboxylic_Acid.internal]]'
@@ -311,7 +311,7 @@ dv_is_:
   - '[[/_secret/Chemistry/Organic_Chemistry/Carboxylic_Acid.secret|Carboxylic_Acid.secret]]'
 dv_has_formula_sum: R-C(O)OH
 dv_is_same_as:
-- '[[../../../WikiData/WD~Carboxylic_acid,134856]]'
+- '[[../../../WikiData/WD~Carboxylic_acid,134856|WD~Carboxylic_acid,134856]]'
 - '[[/_Standards/Chemistry/Organic_Chemistry/Carboxylic_Acid|Carboxylic_Acid]]'
 - '[[/_public/Chemistry/Organic_Chemistry/Carboxylic_Acid.public|Carboxylic_Acid.public]]'
 - '[[/_internal/Chemistry/Organic_Chemistry/Carboxylic_Acid.internal|Carboxylic_Acid.internal]]'
@@ -335,7 +335,7 @@ O-H O
   R
 ```
 
-#is_/same_as :: [[../../../WikiData/WD~Carboxylic_acid,134856]] 
+#is_/same_as :: [[../../../WikiData/WD~Carboxylic_acid,134856|WD~Carboxylic_acid,134856]] 
 
 ## #has_/text_of_/abstract 
 

@@ -88,7 +88,7 @@ aliases:
 - 월프람
 - 텅스텐
 has_id_wikidata: Q743
-associated_hazard: '[[_Standards/WikiData/WD~tungsten_exposure,21175400]]'
+associated_hazard: '[[_Standards/WikiData/WD~tungsten_exposure,21175400|WD~tungsten_exposure,21175400]]'
 atomic_number: 74
 boiling_point:
 - 5930
@@ -104,30 +104,30 @@ Common_Procurement_Vocabulary_code:
 CPV_Supplementary_code: AA27
 density: 19.3
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-different_from: '[[_Standards/WikiData/WD~wolfram,231299]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+different_from: '[[_Standards/WikiData/WD~wolfram,231299|WD~wolfram,231299]]'
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Fausto_Elhuyar,182745]]'
-- '[[_Standards/WikiData/WD~infant,998]]'
+- '[[_Standards/WikiData/WD~Fausto_Elhuyar,182745|WD~Fausto_Elhuyar,182745]]'
+- '[[_Standards/WikiData/WD~infant,998|WD~infant,998]]'
 DSSTOX_compound_identifier: DTXCID5031054
 EC_number: 231-143-9
 electronegativity: 2.36
 electron_configuration: '[Xe] 4f¹⁴ 5d⁴ 6s²'
 element_symbol: W
 Gmelin_number: 16317
-has_effect: '[[_Standards/WikiData/WD~tungsten_exposure,21175400]]'
+has_effect: '[[_Standards/WikiData/WD~tungsten_exposure,21175400|WD~tungsten_exposure,21175400]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Wolfram%20evaporated%20crystals%20and%201cm3%20cube.jpg
 InChI: InChI=1S/W
 InChIKey: WFKWXMTUELFFGS-UHFFFAOYSA-N
 instance_of:
-- '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- '[[_Standards/WikiData/WD~electron_medium,96796052]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+- '[[_Standards/WikiData/WD~lithophile,1130479|WD~lithophile,1130479]]'
+- '[[_Standards/WikiData/WD~electron_medium,96796052|WD~electron_medium,96796052]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 ionic_radius:
 - 0.6
 - 0.42
@@ -135,13 +135,13 @@ ionic_radius:
 - 0.62
 - 0.66
 Krugosvet_article: nauka_i_tehnika/himiya/VOLFRAM.html
-location_of_discovery: '[[_Standards/WikiData/WD~Spain,29]]'
+location_of_discovery: '[[_Standards/WikiData/WD~Spain,29|WD~Spain,29]]'
 made_from_material:
-- '[[_Standards/WikiData/WD~scheelite,409096]]'
-- '[[_Standards/WikiData/WD~ferberite,417387]]'
-- '[[_Standards/WikiData/WD~hübnerite,417421]]'
-- '[[_Standards/WikiData/WD~wolframite,541128]]'
-- '[[_Standards/WikiData/WD~rhabdoborite-(W),55876692]]'
+- '[[_Standards/WikiData/WD~scheelite,409096|WD~scheelite,409096]]'
+- '[[_Standards/WikiData/WD~ferberite,417387|WD~ferberite,417387]]'
+- '[[_Standards/WikiData/WD~hübnerite,417421|WD~hübnerite,417421]]'
+- '[[_Standards/WikiData/WD~wolframite,541128|WD~wolframite,541128]]'
+- '[[_Standards/WikiData/WD~rhabdoborite-(W),55876692|WD~rhabdoborite-(W),55876692]]'
 mass: 183.84
 MCN_code: 2611.00.00
 melting_point:
@@ -153,7 +153,7 @@ MeSH_tree_code:
 - D01.552.544.887
 molar_enthalpy_of_vaporization: 774
 molar_fusion_enthalpy: 52.31
-named_after: '[[_Standards/WikiData/WD~Canis_lupus,18498]]'
+named_after: '[[_Standards/WikiData/WD~Canis_lupus,18498|WD~Canis_lupus,18498]]'
 OmegaWiki_Defined_Meaning: 369533
 oxidation_state:
 - 2
@@ -162,16 +162,16 @@ oxidation_state:
 - 5
 - 6
 part_of:
-- '[[_Standards/WikiData/WD~group_6,193280]]'
-- '[[_Standards/WikiData/WD~period_6,239813]]'
+- '[[_Standards/WikiData/WD~group_6,193280|WD~group_6,193280]]'
+- '[[_Standards/WikiData/WD~period_6,239813|WD~period_6,239813]]'
 PubChem_CID: 23964
 RTECS_number: YO7175000
 short_term_exposure_limit: 10
 SpocWebEntityId: 21970
 subclass_of:
-- '[[_Standards/WikiData/WD~heavy_metal,105789]]'
-- '[[_Standards/WikiData/WD~metal,11426]]'
-- '[[_Standards/WikiData/WD~transition_metal,19588]]'
+- '[[_Standards/WikiData/WD~heavy_metal,105789|WD~heavy_metal,105789]]'
+- '[[_Standards/WikiData/WD~metal,11426|WD~metal,11426]]'
+- '[[_Standards/WikiData/WD~transition_metal,19588|WD~transition_metal,19588]]'
 thermal_conductivity: 173
 time_of_discovery_or_invention: 1783
 time_weighted_average_exposure_limit: 5
@@ -382,9 +382,9 @@ dv_has_:
       boil_:
         c: 5930
 dv_is_:
-  part_of: '[[../Group-06-Chromium]]'
+  part_of: '[[../Group-06-Chromium|Group-06-Chromium]]'
   same_as:
-  - '[[../../../WikiData/WD~Tungsten,743]]'
+  - '[[../../../WikiData/WD~Tungsten,743|WD~Tungsten,743]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Group-06-Chromium/Tungsten|Tungsten]]'
   - '[[/_public/Chemistry/Chemical_Element/Group-06-Chromium/Tungsten.public|Tungsten.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Group-06-Chromium/Tungsten.internal|Tungsten.internal]]'
@@ -393,7 +393,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Chemical_Element/Group-06-Chromium/Tungsten.personal|Tungsten.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Group-06-Chromium/Tungsten.secret|Tungsten.secret]]'
 dv_has_name_group: Group-06-Chromium
-dv_is_part_of: '[[../Group-06-Chromium]]'
+dv_is_part_of: '[[../Group-06-Chromium|Group-06-Chromium]]'
 dv_has_name_en: Tungsten
 dv_has_name_de: Wolfram
 dv_has_value_for_weight_u: 183.85
@@ -408,7 +408,7 @@ dv_has_value_for_enthalpy: 35.4
 dv_has_value_for_energy_form_kj_mol: 824
 dv_has_number_of_period: 6
 dv_is_same_as:
-- '[[../../../WikiData/WD~Tungsten,743]]'
+- '[[../../../WikiData/WD~Tungsten,743|WD~Tungsten,743]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Group-06-Chromium/Tungsten|Tungsten]]'
 - '[[/_public/Chemistry/Chemical_Element/Group-06-Chromium/Tungsten.public|Tungsten.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Group-06-Chromium/Tungsten.internal|Tungsten.internal]]'
@@ -451,7 +451,7 @@ has_value_for_conductivity_heat = `=this.dv_has_value_for_conductivity_heat`
 has_value_for_enthalpy = `=this.dv_has_value_for_enthalpy` 
 has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol` 
 has_number_of_period = `=this.dv_has_number_of_period` 
-#is_/same_as :: [[../../../WikiData/WD~Tungsten,743]] 
+#is_/same_as :: [[../../../WikiData/WD~Tungsten,743|WD~Tungsten,743]] 
 
 
 ## #has_/text_of_/abstract 
@@ -468,7 +468,7 @@ has_number_of_period = `=this.dv_has_number_of_period`
 > (which sublimes at normal pressure), melting at has_value_for_temperature_melt_c = `=this.dv_has_value_for_temperature_melt_c`  °C (6,192 °F; 3,695 K). 
 > It also has the highest boiling point, at has_value_for_temperature_boil_c = `=this.dv_has_value_for_temperature_boil_c`  °C (10,706 °F; 6,203 K). 
 > Its density is (Density::19.3) grams per cubic centimetre (0.697 lb/cu in), 
-> comparable with that of[[../Actinide/Uranium]]] and[[../Group-11-Copper/Gold]]], and much higher (about 1.7 times) than that of[[../Group-14-Carbon/Lead]]]. 
+> comparable with that of[[../Actinide/Uranium|Uranium]]] and[[../Group-11-Copper/Gold|Gold]]], and much higher (about 1.7 times) than that of[[../Group-14-Carbon/Lead|Lead]]]. 
 > 
 > Polycrystalline tungsten is an intrinsically brittle and hard material 
 > (under standard conditions, when uncombined), making it difficult to work into metal. 

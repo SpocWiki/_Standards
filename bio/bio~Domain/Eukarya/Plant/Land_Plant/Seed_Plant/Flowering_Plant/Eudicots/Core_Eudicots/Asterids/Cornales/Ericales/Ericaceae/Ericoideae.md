@@ -8,9 +8,9 @@ aliases:
 - 杜鹃花亚科
 - 진달래아과
 has_id_wikidata: Q933098
-taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280]]'
-parent_taxon: '[[../../../../../../../../../../../../../WikiData/WD~Ericaceae,975872]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280|WD~subfamily,164280]]'
+parent_taxon: '[[../../../../../../../../../../../../../WikiData/WD~Ericaceae,975872|WD~Ericaceae,975872]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bell%20Heather%20-%20geograph.org.uk%20-%20493968.jpg
 Commons_category: Ericoideae
 taxon_name: Ericoideae

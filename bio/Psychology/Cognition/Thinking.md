@@ -131,18 +131,18 @@ aliases:
 - 意
 - 생각
 has_id_wikidata: Q9420
-studied_by: '[[_Standards/WikiData/WD~cognitive_science,147638]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~thought,349047]]'
-subclass_of: '[[_Standards/WikiData/WD~cognitive_process,781413]]'
-has_part_s_: '[[_Standards/WikiData/WD~proprioception,1129066]]'
+studied_by: '[[_Standards/WikiData/WD~cognitive_science,147638|WD~cognitive_science,147638]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~thought,349047|WD~thought,349047]]'
+subclass_of: '[[_Standards/WikiData/WD~cognitive_process,781413|WD~cognitive_process,781413]]'
+has_part_s_: '[[_Standards/WikiData/WD~proprioception,1129066|WD~proprioception,1129066]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_thought,7112801]]'
-different_from: '[[_Standards/WikiData/WD~thinking_process,7784616]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635|WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_thought,7112801|WD~outline_of_thought,7112801]]'
+different_from: '[[_Standards/WikiData/WD~thinking_process,7784616|WD~thinking_process,7784616]]'
 part_of:
-- '[[_Standards/WikiData/WD~human_energy,20984829]]'
-- '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
+- '[[_Standards/WikiData/WD~human_energy,20984829|WD~human_energy,20984829]]'
+- '[[_Standards/WikiData/WD~psychology_terminology,77468620|WD~psychology_terminology,77468620]]'
 Library_of_Congress_Classification: LB1590.3-LB1590.5
 Commons_category: Thinking
 spoken_text_audio: http://commons.wikimedia.org/wiki/Special:FilePath/En-thought.ogg

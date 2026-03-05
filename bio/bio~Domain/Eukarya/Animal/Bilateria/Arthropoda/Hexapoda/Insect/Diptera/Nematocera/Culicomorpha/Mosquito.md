@@ -166,18 +166,18 @@ aliases:
 has_id_wikidata: Q7367
 title: Culicidae
 described by source:
-  - "[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
-  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]"
-  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]"
-  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
-  - "[[_Standards/WikiData/WD~Checklist_of_Diptera_of_the_Czech_Republic_and_Slovakia,110655761]]"
+  - "[[../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]"
+  - "[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]"
+  - "[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]"
+  - "[[_Standards/WikiData/WD~Checklist_of_Diptera_of_the_Czech_Republic_and_Slovakia,110655761|WD~Checklist_of_Diptera_of_the_Czech_Republic_and_Slovakia,110655761]]"
 parent taxon:
-  - "[[_Standards/WikiData/WD~Culicomorpha,950698]]"
-  - "[[_Standards/WikiData/WD~Culicoidea,2737578]]"
-permanent duplicated item: "[[_Standards/WikiData/WD~Q4801985,4801985]]"
-on focus list of Wikimedia project: "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]"
-maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]"
-has part(s): "[[_Standards/WikiData/WD~invertebrate_proboscis,96739248]]"
+  - "[[_Standards/WikiData/WD~Culicomorpha,950698|WD~Culicomorpha,950698]]"
+  - "[[_Standards/WikiData/WD~Culicoidea,2737578|WD~Culicoidea,2737578]]"
+permanent duplicated item: "[[_Standards/WikiData/WD~Q4801985,4801985|WD~Q4801985,4801985]]"
+on focus list of Wikimedia project: "[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832|WD~WikiProject_Zika_Corpus,54439832]]"
+maintained by WikiProject: "[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615|WD~WikiProject_Invasion_Biology,56241615]]"
+has part(s): "[[_Standards/WikiData/WD~invertebrate_proboscis,96739248|WD~invertebrate_proboscis,96739248]]"
 start time: -99000000-06
 UMLS CUI: C0026584
 taxon common name:
@@ -190,8 +190,8 @@ taxon common name:
   - Mustiken
   - stikkmygg
   - steekmuggen
-instance of: "[[_Standards/WikiData/WD~taxon,16521]]"
-taxon rank: "[[_Standards/WikiData/WD~family,35409]]"
+instance of: "[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]"
+taxon rank: "[[_Standards/WikiData/WD~family,35409|WD~family,35409]]"
 ITIS TSN: 125930
 OmegaWiki Defined Meaning: 630453
 Commons gallery: Culicidae

@@ -67,19 +67,19 @@ aliases:
 - 꽃가루
 has_id_wikidata: Q79932
 has_part_s_:
-- '[[_Standards/WikiData/WD~gametophyte,189951]]'
-- '[[_Standards/WikiData/WD~Q587000,587000]]'
-- '[[_Standards/WikiData/WD~Q11926805,11926805]]'
-- '[[_Standards/WikiData/WD~generative_cell_nucleus,22328984]]'
-studied_by: '[[_Standards/WikiData/WD~palynology,212919]]'
+- '[[_Standards/WikiData/WD~gametophyte,189951|WD~gametophyte,189951]]'
+- '[[_Standards/WikiData/WD~Q587000,587000|WD~Q587000,587000]]'
+- '[[_Standards/WikiData/WD~Q11926805,11926805|WD~Q11926805,11926805]]'
+- '[[_Standards/WikiData/WD~generative_cell_nucleus,22328984|WD~generative_cell_nucleus,22328984]]'
+studied_by: '[[_Standards/WikiData/WD~palynology,212919|WD~palynology,212919]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-different_from: '[[_Standards/WikiData/WD~flyweight_pattern,1060964]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~anther,1995772]]'
-develops_from: '[[_Standards/WikiData/WD~microspore,2452297]]'
-subclass_of: '[[_Standards/WikiData/WD~microgametophyte,12036890]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+different_from: '[[_Standards/WikiData/WD~flyweight_pattern,1060964|WD~flyweight_pattern,1060964]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~anther,1995772|WD~anther,1995772]]'
+develops_from: '[[_Standards/WikiData/WD~microspore,2452297|WD~microspore,2452297]]'
+subclass_of: '[[_Standards/WikiData/WD~microgametophyte,12036890|WD~microgametophyte,12036890]]'
 OmegaWiki_Defined_Meaning: 2868
 CosIng_number: 36631
 Commons_category: Pollen

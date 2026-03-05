@@ -172,36 +172,36 @@ Unicode_character:
 - "\U0001FAC3"
 - "\U0001FAC4"
 has_cause:
-- '[[_Standards/WikiData/WD~in_vitro_fertilization,200117]]'
-- '[[_Standards/WikiData/WD~human_fertilization,2666904]]'
+- '[[_Standards/WikiData/WD~in_vitro_fertilization,200117|WD~in_vitro_fertilization,200117]]'
+- '[[_Standards/WikiData/WD~human_fertilization,2666904|WD~human_fertilization,2666904]]'
 part_of:
-- '[[_Standards/WikiData/WD~adulthood,378915]]'
-- '[[_Standards/WikiData/WD~motherhood,1956046]]'
-- '[[_Standards/WikiData/WD~mother,7560]]'
+- '[[_Standards/WikiData/WD~adulthood,378915|WD~adulthood,378915]]'
+- '[[_Standards/WikiData/WD~motherhood,1956046|WD~motherhood,1956046]]'
+- '[[_Standards/WikiData/WD~mother,7560|WD~mother,7560]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
-health_specialty: '[[_Standards/WikiData/WD~gynaecology,1221899]]'
-subclass_of: '[[_Standards/WikiData/WD~pregnancy,1490716]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+health_specialty: '[[_Standards/WikiData/WD~gynaecology,1221899|WD~gynaecology,1221899]]'
+subclass_of: '[[_Standards/WikiData/WD~pregnancy,1490716|WD~pregnancy,1490716]]'
 maintained_by_WikiProject:
-- '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
-- '[[_Standards/WikiData/WD~WikiProject_Sexology_and_sexuality,8485943]]'
-- "[[_Standards/WikiData/WD~WikiProject_Women's_History,18377637]]"
-- '[[_Standards/WikiData/WD~Reproductive_medicine_task_force,21830355]]'
-- "[[_Standards/WikiData/WD~WikiProject_Women's_Health,21831121]]"
-instance_of: '[[_Standards/WikiData/WD~physiological_condition,7189713]]'
-facet_of: "[[_Standards/WikiData/WD~women's_health,8031191]]"
-topic_has_template: '[[_Standards/WikiData/WD~Template_Pregnancy,13099510]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27135171,27135171]]'
+- '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686|WD~WikiProject_Medicine,4099686]]'
+- '[[_Standards/WikiData/WD~WikiProject_Sexology_and_sexuality,8485943|WD~WikiProject_Sexology_and_sexuality,8485943]]'
+- "[[_Standards/WikiData/WD~WikiProject_Women's_History,18377637|WD~WikiProject_Women's_History,18377637]]"
+- '[[_Standards/WikiData/WD~Reproductive_medicine_task_force,21830355|WD~Reproductive_medicine_task_force,21830355]]'
+- "[[_Standards/WikiData/WD~WikiProject_Women's_Health,21831121|WD~WikiProject_Women's_Health,21831121]]"
+instance_of: '[[_Standards/WikiData/WD~physiological_condition,7189713|WD~physiological_condition,7189713]]'
+facet_of: "[[_Standards/WikiData/WD~women's_health,8031191|WD~women's_health,8031191]]"
+topic_has_template: '[[_Standards/WikiData/WD~Template_Pregnancy,13099510|WD~Template_Pregnancy,13099510]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27135171,27135171|WD~Q27135171,27135171]]'
 on_focus_list_of_Wikimedia_project:
-- '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
-- '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
-different_from: '[[_Standards/WikiData/WD~gestation,28627]]'
+- '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832|WD~WikiProject_Zika_Corpus,54439832]]'
+- '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720|WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
+different_from: '[[_Standards/WikiData/WD~gestation,28627|WD~gestation,28627]]'
 duration: 38
-has_effect: '[[_Standards/WikiData/WD~parturition,34581]]'
+has_effect: '[[_Standards/WikiData/WD~parturition,34581|WD~parturition,34581]]'
 IAB_code: 305
 DiseasesDB: 10545
 OmegaWiki_Defined_Meaning: 1232378

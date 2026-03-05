@@ -160,29 +160,29 @@ aliases:
 - 입
 has_id_wikidata: Q9635
 has_use:
-- '[[_Standards/WikiData/WD~eating,213449]]'
-- '[[_Standards/WikiData/WD~ingestion,1663054]]'
-- '[[_Standards/WikiData/WD~vocal_sound,4393922]]'
-- '[[_Standards/WikiData/WD~breathing,9530]]'
+- '[[_Standards/WikiData/WD~eating,213449|WD~eating,213449]]'
+- '[[_Standards/WikiData/WD~ingestion,1663054|WD~ingestion,1663054]]'
+- '[[_Standards/WikiData/WD~vocal_sound,4393922|WD~vocal_sound,4393922]]'
+- '[[_Standards/WikiData/WD~breathing,9530|WD~breathing,9530]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-studied_by: '[[_Standards/WikiData/WD~oral_medicine,3673891]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+studied_by: '[[_Standards/WikiData/WD~oral_medicine,3673891|WD~oral_medicine,3673891]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~oral_vestibule,6769276]]'
-- '[[_Standards/WikiData/WD~oral_cavity,27042858]]'
-different_from: '[[_Standards/WikiData/WD~Boca,10431873]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Mouth_anatomy,15061900]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828737,22828737]]'
+- '[[_Standards/WikiData/WD~oral_vestibule,6769276|WD~oral_vestibule,6769276]]'
+- '[[_Standards/WikiData/WD~oral_cavity,27042858|WD~oral_cavity,27042858]]'
+different_from: '[[_Standards/WikiData/WD~Boca,10431873|WD~Boca,10431873]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Mouth_anatomy,15061900|WD~Template_Mouth_anatomy,15061900]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q22828737,22828737|WD~Q22828737,22828737]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~subdivision_of_face,66544250]]'
-- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]'
-anatomical_locations: '[[_Standards/WikiData/WD~head,23640]]'
-part_of: '[[_Standards/WikiData/WD~head,23640]]'
+- '[[_Standards/WikiData/WD~subdivision_of_face,66544250|WD~subdivision_of_face,66544250]]'
+- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975|WD~particular_anatomical_entity,112826975]]'
+anatomical_locations: '[[_Standards/WikiData/WD~head,23640|WD~head,23640]]'
+part_of: '[[_Standards/WikiData/WD~head,23640|WD~head,23640]]'
 TA98_Latin_term: os
 OmegaWiki_Defined_Meaning: 5470
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Mund2.ogg

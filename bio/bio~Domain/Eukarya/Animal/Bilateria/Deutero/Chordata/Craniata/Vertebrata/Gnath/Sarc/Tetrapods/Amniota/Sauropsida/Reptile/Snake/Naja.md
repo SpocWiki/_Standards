@@ -46,16 +46,16 @@ aliases:
 - 코브라
 has_id_wikidata: Q220475
 parent_taxon:
-- '[[_Standards/WikiData/WD~Elapidae,186554]]'
-- '[[_Standards/WikiData/WD~Elapinae,2600215]]'
+- '[[_Standards/WikiData/WD~Elapidae,186554|WD~Elapidae,186554]]'
+- '[[_Standards/WikiData/WD~Elapinae,2600215|WD~Elapinae,2600215]]'
 described_by_source:
-- '[[../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-taxon_synonym: '[[_Standards/WikiData/WD~Afronaja,21353520]]'
-this_zoological_name_is_coordinate_with: '[[_Standards/WikiData/WD~Ular_kobra,21441382]]'
-homonymous_taxon: '[[_Standards/WikiData/WD~Ular_kobra,21441382]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+- '[[../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+taxon_synonym: '[[_Standards/WikiData/WD~Afronaja,21353520|WD~Afronaja,21353520]]'
+this_zoological_name_is_coordinate_with: '[[_Standards/WikiData/WD~Ular_kobra,21441382|WD~Ular_kobra,21441382]]'
+homonymous_taxon: '[[_Standards/WikiData/WD~Ular_kobra,21441382|WD~Ular_kobra,21441382]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
 ITIS_TSN: 700233
 Commons_gallery: Naja
 Commons_category: Naja

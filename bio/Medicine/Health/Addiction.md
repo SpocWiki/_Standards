@@ -91,27 +91,27 @@ aliases:
 - 癮
 - 중독
 has_id_wikidata: Q12029
-described_by_source: '[[_Standards/WikiData/WD~Encyclopedia_of_American_Urban_History_(2007_edition),20749109]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopedia_of_American_Urban_History_(2007_edition),20749109|WD~Encyclopedia_of_American_Urban_History_(2007_edition),20749109]]'
 different_from:
-- '[[_Standards/WikiData/WD~substance_dependence,3378593]]'
-- '[[_Standards/WikiData/WD~addictiveness,111189110]]'
+- '[[_Standards/WikiData/WD~substance_dependence,3378593|WD~substance_dependence,3378593]]'
+- '[[_Standards/WikiData/WD~addictiveness,111189110|WD~addictiveness,111189110]]'
 Iconclass_notation: 31B53
 IPTC_NewsCode: mediatopic/20000804
 OmegaWiki_Defined_Meaning: 1047372
-permanent_duplicated_item: '[[_Standards/WikiData/WD~dependence,30921375]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~dependence,30921375|WD~dependence,30921375]]'
 related_image: http://commons.wikimedia.org/wiki/Special:FilePath/Brain%20metabolism%20and%20drug%20addiction.jpg
 studied_by:
-- '[[_Standards/WikiData/WD~addictology,2362817]]'
-- '[[_Standards/WikiData/WD~addiction_psychology,4681112]]'
+- '[[_Standards/WikiData/WD~addictology,2362817|WD~addictology,2362817]]'
+- '[[_Standards/WikiData/WD~addiction_psychology,4681112|WD~addiction_psychology,4681112]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~habit,1299714]]'
-- '[[_Standards/WikiData/WD~health_problem,2057971]]'
-- '[[_Standards/WikiData/WD~behavior,9332]]'
+- '[[_Standards/WikiData/WD~habit,1299714|WD~habit,1299714]]'
+- '[[_Standards/WikiData/WD~health_problem,2057971|WD~health_problem,2057971]]'
+- '[[_Standards/WikiData/WD~behavior,9332|WD~behavior,9332]]'
 subreddit:
 - addiction
 - addictions
 - AddictionsFR
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Addiction,8094302]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Addiction,8094302|WD~Template_Addiction,8094302]]'
 dv_has_:
   name_:
     af: verslawing
@@ -231,7 +231,7 @@ dv_has_:
 
 # [[Addiction]] 
 
-#is_/same_as :: [[../../../WikiData/WD~Addiction,12029]] 
+#is_/same_as :: [[../../../WikiData/WD~Addiction,12029|WD~Addiction,12029]] 
 
 ## #has_/text_of_/abstract 
 

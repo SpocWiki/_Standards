@@ -56,10 +56,10 @@ aliases:
 - 恒星演化
 - 항성 진화
 has_id_wikidata: Q6472
-subclass_of: '[[_Standards/WikiData/WD~evolution,5418608]]'
-instance_of: '[[_Standards/WikiData/WD~astrophysical_process,15401756]]'
-studied_by: '[[_Standards/WikiData/WD~astrophysics,37547]]'
-part_of: '[[_Standards/WikiData/WD~astrophysics,37547]]'
+subclass_of: '[[_Standards/WikiData/WD~evolution,5418608|WD~evolution,5418608]]'
+instance_of: '[[_Standards/WikiData/WD~astrophysical_process,15401756|WD~astrophysical_process,15401756]]'
+studied_by: '[[_Standards/WikiData/WD~astrophysics,37547|WD~astrophysics,37547]]'
+part_of: '[[_Standards/WikiData/WD~astrophysics,37547|WD~astrophysics,37547]]'
 Dewey_Decimal_Classification: 523.88
 video: http://commons.wikimedia.org/wiki/Special:FilePath/The%20life%20cycle%20of%20a%20Sun-like%20star%20%28eso1337a%29.webm
 Commons_category: Stellar evolution

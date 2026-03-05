@@ -57,12 +57,12 @@ aliases:
 - 捕鸟蛛科
 - 타란툴라
 has_id_wikidata: Q213383
-taxonomic_type: '[[_Standards/WikiData/WD~Theraphosa,134972]]'
-different_from: '[[_Standards/WikiData/WD~tarantella,324617]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
-parent_taxon: '[[../../../../../../../../../../../WikiData/WD~Theraphosoidea,54477]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Theraphosa,134972|WD~Theraphosa,134972]]'
+different_from: '[[_Standards/WikiData/WD~tarantella,324617|WD~tarantella,324617]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409|WD~family,35409]]'
+parent_taxon: '[[../../../../../../../../../../../WikiData/WD~Theraphosoidea,54477|WD~Theraphosoidea,54477]]'
 ITIS_TSN: 847765
 taxon_author_citation: Thorell, 1869
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Brachypelma%20edit.jpg

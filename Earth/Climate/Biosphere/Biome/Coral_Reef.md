@@ -88,19 +88,19 @@ aliases:
 - 산호초
 has_id_wikidata: Q11292
 subclass_of:
-- '[[_Standards/WikiData/WD~reef,184358]]'
-- '[[_Standards/WikiData/WD~bioconstruction,2904042]]'
-- '[[_Standards/WikiData/WD~coral_colony,125744539]]'
+- '[[_Standards/WikiData/WD~reef,184358|WD~reef,184358]]'
+- '[[_Standards/WikiData/WD~bioconstruction,2904042|WD~bioconstruction,2904042]]'
+- '[[_Standards/WikiData/WD~coral_colony,125744539|WD~coral_colony,125744539]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 studied_by:
-- '[[_Standards/WikiData/WD~coral_reef_ecology,104376780]]'
-- '[[_Standards/WikiData/WD~coral_reef_biology,104376880]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wikipedia_on_Aruba_Aruba_on_Wikipedia,131840986]]'
+- '[[_Standards/WikiData/WD~coral_reef_ecology,104376780|WD~coral_reef_ecology,104376780]]'
+- '[[_Standards/WikiData/WD~coral_reef_biology,104376880|WD~coral_reef_biology,104376880]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wikipedia_on_Aruba_Aruba_on_Wikipedia,131840986|WD~Wikipedia_on_Aruba_Aruba_on_Wikipedia,131840986]]'
 OmegaWiki_Defined_Meaning: 764
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Coral%20Outcrop%20Flynn%20Reef.jpg

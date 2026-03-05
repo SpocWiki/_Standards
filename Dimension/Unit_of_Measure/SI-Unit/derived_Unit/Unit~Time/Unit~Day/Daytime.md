@@ -78,20 +78,20 @@ aliases:
 - 낮
 has_id_wikidata: Q52643
 described_by_source:
-- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
-subclass_of: '[[_Standards/WikiData/WD~time_of_day,1260524]]'
+- '[[../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137|WD~Jewish_Encyclopedia_of_Brockhaus_and_Efron,4173137]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Q30059240,30059240|WD~Q30059240,30059240]]'
+subclass_of: '[[_Standards/WikiData/WD~time_of_day,1260524|WD~time_of_day,1260524]]'
 different_from:
-- '[[_Standards/WikiData/WD~Nahar,6056269]]'
-- '[[_Standards/WikiData/WD~daylight,16491]]'
+- '[[_Standards/WikiData/WD~Nahar,6056269|WD~Nahar,6056269]]'
+- '[[_Standards/WikiData/WD~daylight,16491|WD~daylight,16491]]'
 followed_by:
-- '[[_Standards/WikiData/WD~civil_twilight,25416346]]'
-- '[[_Standards/WikiData/WD~Q97379151,97379151]]'
-opposite_of: '[[_Standards/WikiData/WD~night,575]]'
-part_of: '[[_Standards/WikiData/WD~day,573]]'
-has_characteristic: '[[_Standards/WikiData/WD~daylight,16491]]'
+- '[[_Standards/WikiData/WD~civil_twilight,25416346|WD~civil_twilight,25416346]]'
+- '[[_Standards/WikiData/WD~Q97379151,97379151|WD~Q97379151,97379151]]'
+opposite_of: '[[_Standards/WikiData/WD~night,575|WD~night,575]]'
+part_of: '[[_Standards/WikiData/WD~day,573|WD~day,573]]'
+has_characteristic: '[[_Standards/WikiData/WD~daylight,16491|WD~daylight,16491]]'
 OmegaWiki_Defined_Meaning: 5477
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Daylight.png
 Iconclass_notation: 23R2

@@ -258,22 +258,22 @@ female_form_of_label:
 - médica
 OpenStreetMap_tag: healthcare=doctor
 different_from:
-- '[[_Standards/WikiData/WD~physicist,169470]]'
-- '[[_Standards/WikiData/WD~Doctor_of_Philosophy,752297]]'
-- '[[_Standards/WikiData/WD~Practitioner,7237369]]'
+- '[[_Standards/WikiData/WD~physicist,169470|WD~physicist,169470]]'
+- '[[_Standards/WikiData/WD~Doctor_of_Philosophy,752297|WD~Doctor_of_Philosophy,752297]]'
+- '[[_Standards/WikiData/WD~Practitioner,7237369|WD~Practitioner,7237369]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
 instance_of:
-- '[[_Standards/WikiData/WD~health_profession,3922583]]'
-- '[[_Standards/WikiData/WD~position,4164871]]'
-- '[[_Standards/WikiData/WD~occupation,12737077]]'
-- '[[_Standards/WikiData/WD~medical_profession,66811410]]'
-- '[[_Standards/WikiData/WD~occupation_group_according_to_ISCO_08,108300140]]'
-subclass_of: '[[_Standards/WikiData/WD~health_professional,11974939]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_physician,26139017]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Physician,55744184]]'
-field_of_this_occupation: '[[_Standards/WikiData/WD~medicine,11190]]'
+- '[[_Standards/WikiData/WD~health_profession,3922583|WD~health_profession,3922583]]'
+- '[[_Standards/WikiData/WD~position,4164871|WD~position,4164871]]'
+- '[[_Standards/WikiData/WD~occupation,12737077|WD~occupation,12737077]]'
+- '[[_Standards/WikiData/WD~medical_profession,66811410|WD~medical_profession,66811410]]'
+- '[[_Standards/WikiData/WD~occupation_group_according_to_ISCO_08,108300140|WD~occupation_group_according_to_ISCO_08,108300140]]'
+subclass_of: '[[_Standards/WikiData/WD~health_professional,11974939|WD~health_professional,11974939]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_physician,26139017|WD~Template_Infobox_physician,26139017]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Physician,55744184|WD~Physician,55744184]]'
+field_of_this_occupation: '[[_Standards/WikiData/WD~medicine,11190|WD~medicine,11190]]'
 SSYK_2012_The_Swedish_Standard_Classification_of_Occupations: 221
 ISCO_08_occupation_class: 221
 Merchant_Category_Code: 8011
@@ -514,7 +514,7 @@ Tag Instances like this:
 
 A doctor's office.
 
-#has_/parent_class :: [[../MedicalBusiness, MedicalOrganization]]  
+#has_/parent_class :: [[../MedicalBusiness, MedicalOrganization|MedicalBusiness, MedicalOrganization]]  
 
 #has_/properties :: [ actionableFeedbackPolicy, additionalProperty, additionalType, address, aggregateRating, alternateName, alumni, amenityFeature, areaServed, availableService, award, awards, branchCode, branchOf, brand, contactPoint, contactPoints, containedIn, containedInPlace, containsPlace, correctionsPolicy, currenciesAccepted, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasCredential, hasDriveThroughService, hasMap, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, healthPlanNetworkId, hospitalAffiliation, identifier, image, interactionStatistic, isAcceptingNewPatients, isAccessibleForFree, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, latitude, legalName, leiCode, location, logo, longitude, mainEntityOfPage, makesOffer, map, maps, maximumAttendeeCapacity, medicalSpecialty, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, openingHours, openingHoursSpecification, ownershipFundingInfo, owns, parentOrganization, paymentAccepted, photo, photos, potentialAction, priceRange, publicAccess, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, smokingAllowed, specialOpeningHoursSpecification, sponsor, subOrganization, subjectOf, taxID, telephone, tourBookingPage, unnamedSourcesPolicy, url, vatID ]  
 

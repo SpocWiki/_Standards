@@ -30,9 +30,9 @@ aliases:
 - 標準馬
 - 스탠더드브레드
 has_id_wikidata: Q467024
-instance_of: '[[_Standards/WikiData/WD~horse_breed,1160573]]'
-subclass_of: '[[_Standards/WikiData/WD~trotting_horse,1897960]]'
-country_of_origin: '[[_Standards/WikiData/WD~United_States,30]]'
+instance_of: '[[_Standards/WikiData/WD~horse_breed,1160573|WD~horse_breed,1160573]]'
+subclass_of: '[[_Standards/WikiData/WD~trotting_horse,1897960|WD~trotting_horse,1897960]]'
+country_of_origin: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Standardbred%20Hunter.jpg
 Commons_category: Standardbred horse
 dv_has_:

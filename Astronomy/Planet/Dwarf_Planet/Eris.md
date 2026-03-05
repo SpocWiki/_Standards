@@ -52,27 +52,27 @@ aliases:
 - 鬩神星
 - 에리스
 has_id_wikidata: Q611
-child_astronomical_body: '[[_Standards/WikiData/WD~Dysnomia,102656]]'
+child_astronomical_body: '[[_Standards/WikiData/WD~Dysnomia,102656|WD~Dysnomia,102656]]'
 minor_planet_group:
-- '[[_Standards/WikiData/WD~plutoid,131731]]'
-- '[[_Standards/WikiData/WD~trans_Neptunian_object,6592]]'
+- '[[_Standards/WikiData/WD~plutoid,131731|WD~plutoid,131731]]'
+- '[[_Standards/WikiData/WD~trans_Neptunian_object,6592|WD~trans_Neptunian_object,6592]]'
 instance_of:
-- '[[_Standards/WikiData/WD~plutoid,131731]]'
-- '[[_Standards/WikiData/WD~dwarf_planet,2199]]'
-- '[[_Standards/WikiData/WD~astronomical_object,6999]]'
-named_after: '[[_Standards/WikiData/WD~Eris,140001]]'
-part_of: '[[_Standards/WikiData/WD~Scattered_disc,180380]]'
-site_of_astronomical_discovery: '[[_Standards/WikiData/WD~Palomar_Observatory,191684]]'
+- '[[_Standards/WikiData/WD~plutoid,131731|WD~plutoid,131731]]'
+- '[[_Standards/WikiData/WD~dwarf_planet,2199|WD~dwarf_planet,2199]]'
+- '[[_Standards/WikiData/WD~astronomical_object,6999|WD~astronomical_object,6999]]'
+named_after: '[[_Standards/WikiData/WD~Eris,140001|WD~Eris,140001]]'
+part_of: '[[_Standards/WikiData/WD~Scattered_disc,180380|WD~Scattered_disc,180380]]'
+site_of_astronomical_discovery: '[[_Standards/WikiData/WD~Palomar_Observatory,191684|WD~Palomar_Observatory,191684]]'
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Michael_E._Brown,298913]]'
-- '[[_Standards/WikiData/WD~David_L._Rabinowitz,453758]]'
-- '[[_Standards/WikiData/WD~Chadwick_Trujillo,499195]]'
-follows: '[[_Standards/WikiData/WD~(136198)_2003_UJ296,3453980]]'
-followed_by: '[[_Standards/WikiData/WD~(136200)_2003_VS5,8258820]]'
-significant_event: '[[_Standards/WikiData/WD~naming,25488743]]'
-described_by_source: '[[_Standards/WikiData/WD~Q111319534,111319534]]'
-parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525]]'
-locations: '[[_Standards/WikiData/WD~Solar_System,544]]'
+- '[[_Standards/WikiData/WD~Michael_E._Brown,298913|WD~Michael_E._Brown,298913]]'
+- '[[_Standards/WikiData/WD~David_L._Rabinowitz,453758|WD~David_L._Rabinowitz,453758]]'
+- '[[_Standards/WikiData/WD~Chadwick_Trujillo,499195|WD~Chadwick_Trujillo,499195]]'
+follows: '[[_Standards/WikiData/WD~(136198)_2003_UJ296,3453980|WD~(136198)_2003_UJ296,3453980]]'
+followed_by: '[[_Standards/WikiData/WD~(136200)_2003_VS5,8258820|WD~(136200)_2003_VS5,8258820]]'
+significant_event: '[[_Standards/WikiData/WD~naming,25488743|WD~naming,25488743]]'
+described_by_source: '[[_Standards/WikiData/WD~Q111319534,111319534|WD~Q111319534,111319534]]'
+parent_astronomical_body: '[[_Standards/WikiData/WD~Sun,525|WD~Sun,525]]'
+locations: '[[_Standards/WikiData/WD~Solar_System,544|WD~Solar_System,544]]'
 absolute_magnitude: -1.1
 temperature:
 - 30

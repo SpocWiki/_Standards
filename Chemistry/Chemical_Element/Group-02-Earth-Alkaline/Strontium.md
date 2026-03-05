@@ -103,39 +103,39 @@ Commons_gallery: Strontium
 Common_Procurement_Vocabulary_code: 14772000
 CPV_Supplementary_code: AA34
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]'
-- '[[_Standards/WikiData/WD~Strontium,84688515]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]'
+- '[[_Standards/WikiData/WD~Strontium,84688515|WD~Strontium,84688515]]'
 Dewey_Decimal_Classification: 546.394
-discoverer_or_inventor: '[[_Standards/WikiData/WD~William_Cruickshank,902388]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~William_Cruickshank,902388|WD~William_Cruickshank,902388]]'
 DSSTOX_compound_identifier: DTXCID50875720
 EC_number: 231-133-4
 electronegativity: 1
 electron_configuration: '[Kr] 5s²'
 element_symbol: Sr
-found_in_taxon: '[[_Standards/WikiData/WD~Foeniculum_vulgare,43511]]'
+found_in_taxon: '[[_Standards/WikiData/WD~Foeniculum_vulgare,43511|WD~Foeniculum_vulgare,43511]]'
 Gmelin_number: 6868
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Strontium%20destilled%20crystals.jpg
 InChI: InChI=1S/Sr
 InChIKey: CIOAGBVUUVVLOB-UHFFFAOYSA-N
 instance_of:
-- '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+- '[[_Standards/WikiData/WD~lithophile,1130479|WD~lithophile,1130479]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 ionic_radius:
 - 1.18
 - 1.26
 - 1.36
 - 1.44
 Krugosvet_article: biologiya/stronciy
-location_of_discovery: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+location_of_discovery: '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
 made_from_material:
-- '[[_Standards/WikiData/WD~celestine,407221]]'
-- '[[_Standards/WikiData/WD~strontianite,422827]]'
-- '[[_Standards/WikiData/WD~piemontite-(Sr),3902818]]'
-- '[[_Standards/WikiData/WD~epidote-(Sr),19833533]]'
+- '[[_Standards/WikiData/WD~celestine,407221|WD~celestine,407221]]'
+- '[[_Standards/WikiData/WD~strontianite,422827|WD~strontianite,422827]]'
+- '[[_Standards/WikiData/WD~piemontite-(Sr),3902818|WD~piemontite-(Sr),3902818]]'
+- '[[_Standards/WikiData/WD~epidote-(Sr),19833533|WD~epidote-(Sr),19833533]]'
 mass: 87.62
 MCN_code: 2805.19.10
 MeSH_tree_code:
@@ -143,24 +143,24 @@ MeSH_tree_code:
 - D01.268.556.825
 - D01.552.539.861
 - D01.552.544.825
-named_after: '[[_Standards/WikiData/WD~Strontian,503042]]'
+named_after: '[[_Standards/WikiData/WD~Strontian,503042|WD~Strontian,503042]]'
 OmegaWiki_Defined_Meaning: 3646
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~good_article_badge,17437798]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~good_article_badge,17437798|WD~good_article_badge,17437798]]'
 oxidation_state: 2
 part_of:
-- '[[_Standards/WikiData/WD~period_5,244982]]'
-- '[[_Standards/WikiData/WD~alkaline_earth_metal,19563]]'
+- '[[_Standards/WikiData/WD~period_5,244982|WD~period_5,244982]]'
+- '[[_Standards/WikiData/WD~alkaline_earth_metal,19563|WD~alkaline_earth_metal,19563]]'
 PubChem_CID: 5359327
 SpocWebEntityId: 21936
 time_of_discovery_or_invention: 1787
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_strontium,8085983]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Infobox_strontium,8085983|WD~Template_Infobox_strontium,8085983]]'
 type: Element
 UMLS_CUI: C0038467
 UNII: YZS2RPE8LE
 ZVG_number: 8310
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Strontium,938]]'
+  - '[[../../../WikiData/WD~Strontium,938|WD~Strontium,938]]'
   - '[[../../../WikiData/WD~Strontium,938|WD~Strontium,938]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium|Strontium]]'
   - '[[/_public/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.public|Strontium.public]]'
@@ -169,7 +169,7 @@ dv_is_:
   - '[[/_private/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.private|Strontium.private]]'
   - '[[/_personal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.personal|Strontium.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.secret|Strontium.secret]]'
-  part_of: '[[../Group-02-Earth-Alkaline]]'
+  part_of: '[[../Group-02-Earth-Alkaline|Group-02-Earth-Alkaline]]'
 dv_has_:
   name_:
     abbreviated: Sr
@@ -372,7 +372,7 @@ dv_has_:
         kj_:
           mol: 144
 dv_is_same_as:
-- '[[../../../WikiData/WD~Strontium,938]]'
+- '[[../../../WikiData/WD~Strontium,938|WD~Strontium,938]]'
 - '[[../../../WikiData/WD~Strontium,938|WD~Strontium,938]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium|Strontium]]'
 - '[[/_public/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.public|Strontium.public]]'
@@ -382,7 +382,7 @@ dv_is_same_as:
 - '[[/_personal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.personal|Strontium.personal]]'
 - '[[/_secret/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Strontium.secret|Strontium.secret]]'
 dv_has_name_group: Group-02-Earth-Alkaline
-dv_is_part_of: '[[../Group-02-Earth-Alkaline]]'
+dv_is_part_of: '[[../Group-02-Earth-Alkaline|Group-02-Earth-Alkaline]]'
 dv_has_name_en: Strontium
 dv_has_name_de: Strontium
 dv_has_value_for_weight_u: 87.62
@@ -410,7 +410,7 @@ Unicode_character: 鍶
 
 
 #chemic/Element 
-#is_/same_as :: [[../../../WikiData/WD~Strontium,938]] 
+#is_/same_as :: [[../../../WikiData/WD~Strontium,938|WD~Strontium,938]] 
 
 has_name_group = `=this.dv_has_name_group` 
 is_part_of = `=this.dv_is_part_of` 

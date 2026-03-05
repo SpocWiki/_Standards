@@ -110,16 +110,16 @@ taxon_common_name:
 - 红醋栗
 - rdeče grozdičje
 this_taxon_is_source_of:
-- '[[_Standards/WikiData/WD~redcurrant_juice,11889044]]'
-- '[[_Standards/WikiData/WD~redcurrant,14714085]]'
-NatureServe_conservation_status: '[[_Standards/WikiData/WD~apparently_secure,55714106]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
-described_by_source: '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_35(1),112869415]]'
-taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
-has_fruit_type: '[[_Standards/WikiData/WD~berry,13184]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-parent_taxon: '[[../../../../../../../../../../../../WikiData/WD~Ribes,22691]]'
-subclass_of: '[[_Standards/WikiData/WD~shrub,42295]]'
+- '[[_Standards/WikiData/WD~redcurrant_juice,11889044|WD~redcurrant_juice,11889044]]'
+- '[[_Standards/WikiData/WD~redcurrant,14714085|WD~redcurrant,14714085]]'
+NatureServe_conservation_status: '[[_Standards/WikiData/WD~apparently_secure,55714106|WD~apparently_secure,55714106]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615|WD~WikiProject_Invasion_Biology,56241615]]'
+described_by_source: '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_35(1),112869415|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_35(1),112869415]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432|WD~species,7432]]'
+has_fruit_type: '[[_Standards/WikiData/WD~berry,13184|WD~berry,13184]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+parent_taxon: '[[../../../../../../../../../../../../WikiData/WD~Ribes,22691|WD~Ribes,22691]]'
+subclass_of: '[[_Standards/WikiData/WD~shrub,42295|WD~shrub,42295]]'
 PLU_code: 3088
 ITIS_TSN: 504798
 OmegaWiki_Defined_Meaning: 941843

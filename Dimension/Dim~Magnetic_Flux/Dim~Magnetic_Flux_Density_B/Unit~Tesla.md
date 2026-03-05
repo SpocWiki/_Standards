@@ -26,21 +26,21 @@ aliases:
 - 特斯拉
 - 테슬라
 has_id_wikidata: Q163343
-different_from: '[[_Standards/WikiData/WD~Tesla,765530]]'
+different_from: '[[_Standards/WikiData/WD~Tesla,765530|WD~Tesla,765530]]'
 measured_physical_quantity:
-- '[[_Standards/WikiData/WD~magnetic_polarization,1884336]]'
-- '[[../../../WikiData/WD~magnetic_flux_density,30204]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~magnetic_polarization,1884336|WD~magnetic_polarization,1884336]]'
+- '[[../../../WikiData/WD~magnetic_flux_density,30204|WD~magnetic_flux_density,30204]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 instance_of:
-- '[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328]]'
-- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
-- '[[_Standards/WikiData/WD~unit_of_magnetic_flux_density,126955170]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~kilogram_per_square_second_ampere,107305389]]'
-named_after: '[[_Standards/WikiData/WD~Nikola_Tesla,9036]]'
+- '[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328|WD~SI_unit_with_special_name,68618328]]'
+- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057|WD~UCUM_derived_unit,82047057]]'
+- '[[_Standards/WikiData/WD~unit_of_magnetic_flux_density,126955170|WD~unit_of_magnetic_flux_density,126955170]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~kilogram_per_square_second_ampere,107305389|WD~kilogram_per_square_second_ampere,107305389]]'
+named_after: '[[_Standards/WikiData/WD~Nikola_Tesla,9036|WD~Nikola_Tesla,9036]]'
 derived_from_base_unit:
-- '[[_Standards/WikiData/WD~kilogram,11570]]'
-- '[[_Standards/WikiData/WD~second,11574]]'
-- '[[_Standards/WikiData/WD~ampere,25272]]'
+- '[[_Standards/WikiData/WD~kilogram,11570|WD~kilogram,11570]]'
+- '[[_Standards/WikiData/WD~second,11574|WD~second,11574]]'
+- '[[_Standards/WikiData/WD~ampere,25272|WD~ampere,25272]]'
 conversion_to_SI_unit: 1
 OmegaWiki_Defined_Meaning: 333058
 UN_CEFACT_Common_Code: D33

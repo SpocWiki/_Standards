@@ -56,11 +56,11 @@ aliases:
 - 共有結合半径
 - 공유 반지름
 has_id_wikidata: Q485360
-facet_of: '[[_Standards/WikiData/WD~covalent_bond,127920]]'
+facet_of: '[[_Standards/WikiData/WD~covalent_bond,127920|WD~covalent_bond,127920]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~measure,192276]]'
-- '[[_Standards/WikiData/WD~atomic_radius,483788]]'
-instance_of: '[[_Standards/WikiData/WD~chemical_formalism,17540792]]'
+- '[[_Standards/WikiData/WD~measure,192276|WD~measure,192276]]'
+- '[[_Standards/WikiData/WD~atomic_radius,483788|WD~atomic_radius,483788]]'
+instance_of: '[[_Standards/WikiData/WD~chemical_formalism,17540792|WD~chemical_formalism,17540792]]'
 ISQ_dimension: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AB</mi></mrow></mstyle></mrow></math>"
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hydrogen-covalent-bond-forces-%28simple%29.svg
 Commons_category: Covalent radius

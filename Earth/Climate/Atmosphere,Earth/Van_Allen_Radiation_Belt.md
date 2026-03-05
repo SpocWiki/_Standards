@@ -61,15 +61,15 @@ aliases:
 - 范艾倫輻射帶
 - 밴 앨런대
 has_id_wikidata: Q188533
-named_after: '[[_Standards/WikiData/WD~James_A._Van_Allen,271963]]'
-instance_of: '[[_Standards/WikiData/WD~astrophysical_process,15401756]]'
+named_after: '[[_Standards/WikiData/WD~James_A._Van_Allen,271963|WD~James_A._Van_Allen,271963]]'
+instance_of: '[[_Standards/WikiData/WD~astrophysical_process,15401756|WD~astrophysical_process,15401756]]'
 time_of_discovery_or_invention: 1958-01-01T00:00:00Z
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Van%20Allen%20Belts.ogv
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Van%20Allen%20radiation%20belt.svg
 Commons_category: Van Allen radiation belts
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Van_Allen_radiation_belt,188533]]'
+  - '[[../../../WikiData/WD~Van_Allen_radiation_belt,188533|WD~Van_Allen_radiation_belt,188533]]'
   - '[[/_Standards/Earth/Climate/Atmosphere,Earth/Van_Allen_Radiation_Belt|Van_Allen_Radiation_Belt]]'
   - '[[/_public/Earth/Climate/Atmosphere,Earth/Van_Allen_Radiation_Belt.public|Van_Allen_Radiation_Belt.public]]'
   - '[[/_internal/Earth/Climate/Atmosphere,Earth/Van_Allen_Radiation_Belt.internal|Van_Allen_Radiation_Belt.internal]]'
@@ -78,7 +78,7 @@ dv_is_:
   - '[[/_personal/Earth/Climate/Atmosphere,Earth/Van_Allen_Radiation_Belt.personal|Van_Allen_Radiation_Belt.personal]]'
   - '[[/_secret/Earth/Climate/Atmosphere,Earth/Van_Allen_Radiation_Belt.secret|Van_Allen_Radiation_Belt.secret]]'
 dv_is_same_as:
-- '[[../../../WikiData/WD~Van_Allen_radiation_belt,188533]]'
+- '[[../../../WikiData/WD~Van_Allen_radiation_belt,188533|WD~Van_Allen_radiation_belt,188533]]'
 - '[[/_Standards/Earth/Climate/Atmosphere,Earth/Van_Allen_Radiation_Belt|Van_Allen_Radiation_Belt]]'
 - '[[/_public/Earth/Climate/Atmosphere,Earth/Van_Allen_Radiation_Belt.public|Van_Allen_Radiation_Belt.public]]'
 - '[[/_internal/Earth/Climate/Atmosphere,Earth/Van_Allen_Radiation_Belt.internal|Van_Allen_Radiation_Belt.internal]]'

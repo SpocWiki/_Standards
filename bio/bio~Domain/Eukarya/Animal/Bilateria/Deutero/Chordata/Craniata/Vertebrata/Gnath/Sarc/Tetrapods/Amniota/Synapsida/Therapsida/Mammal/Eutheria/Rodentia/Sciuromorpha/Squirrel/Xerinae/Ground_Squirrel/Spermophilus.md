@@ -47,21 +47,21 @@ aliases:
 - 黃鼠屬
 - 스페르모필루스속
 has_id_wikidata: Q199251
-parent_taxon: '[[../../../../../../../../../../../../../../../../../../../../../../WikiData/WD~ground_squirrels,389250]]'
+parent_taxon: '[[../../../../../../../../../../../../../../../../../../../../../../WikiData/WD~ground_squirrels,389250|WD~ground_squirrels,389250]]'
 described_by_source:
-- '[[../../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
-different_from: '[[_Standards/WikiData/WD~European_ground_squirrel,623466]]'
-taxonomic_type: '[[_Standards/WikiData/WD~European_ground_squirrel,623466]]'
-homonymous_taxon: '[[_Standards/WikiData/WD~Spermophilus,20871338]]'
+- '[[../../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+different_from: '[[_Standards/WikiData/WD~European_ground_squirrel,623466|WD~European_ground_squirrel,623466]]'
+taxonomic_type: '[[_Standards/WikiData/WD~European_ground_squirrel,623466|WD~European_ground_squirrel,623466]]'
+homonymous_taxon: '[[_Standards/WikiData/WD~Spermophilus,20871338|WD~Spermophilus,20871338]]'
 taxon_synonym:
-- '[[_Standards/WikiData/WD~Arctomys,24502341]]'
-- '[[_Standards/WikiData/WD~Citellus,26156044]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Taxonomy_Spermophilus,25529527]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+- '[[_Standards/WikiData/WD~Arctomys,24502341|WD~Arctomys,24502341]]'
+- '[[_Standards/WikiData/WD~Citellus,26156044|WD~Citellus,26156044]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Taxonomy_Spermophilus,25529527|WD~Template_Taxonomy_Spermophilus,25529527]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
 Commons_gallery: Spermophilus
 Commons_category: Spermophilus
 taxon_name: Spermophilus

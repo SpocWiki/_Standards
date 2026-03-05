@@ -43,9 +43,9 @@ aliases:
 - 비짜루목
 has_id_wikidata: Q26229
 title: Asparagales
-parent_taxon: '[[_Standards/WikiData/WD~monocots,78961]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
+parent_taxon: '[[_Standards/WikiData/WD~monocots,78961|WD~monocots,78961]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~order,36602|WD~order,36602]]'
 ITIS_TSN: 897479
 OmegaWiki_Defined_Meaning: 358558
 image:

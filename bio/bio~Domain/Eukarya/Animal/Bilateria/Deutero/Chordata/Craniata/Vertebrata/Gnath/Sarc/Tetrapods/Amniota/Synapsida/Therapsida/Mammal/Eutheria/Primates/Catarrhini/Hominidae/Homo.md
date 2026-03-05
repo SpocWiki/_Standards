@@ -212,7 +212,7 @@ dv_has_:
 
 -   » Sub-Groups
     -  [Homo sapiens](Homo/Homo_sapiens.md) 
-	-   *[[Homo/Homo_erectus]]* †
+	-   *[[Homo/Homo_erectus|Homo_erectus]]* †
 	-   *[[Homo_ergaster]]* †
 	-   *[[Homo_rudolfensis]]* †
 	-   *[[Homo_habilis]]* †

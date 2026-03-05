@@ -90,16 +90,16 @@ aliases:
 - 숯
 has_id_wikidata: Q177463
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
 subclass_of:
-- '[[_Standards/WikiData/WD~solid_fuel,1408429]]'
-- '[[_Standards/WikiData/WD~char,11567121]]'
-fabrication_method: '[[_Standards/WikiData/WD~charcoal_production,113018354]]'
-made_from_material: '[[_Standards/WikiData/WD~wood,287]]'
-color: '[[_Standards/WikiData/WD~black,23445]]'
+- '[[_Standards/WikiData/WD~solid_fuel,1408429|WD~solid_fuel,1408429]]'
+- '[[_Standards/WikiData/WD~char,11567121|WD~char,11567121]]'
+fabrication_method: '[[_Standards/WikiData/WD~charcoal_production,113018354|WD~charcoal_production,113018354]]'
+made_from_material: '[[_Standards/WikiData/WD~wood,287|WD~wood,287]]'
+color: '[[_Standards/WikiData/WD~black,23445|WD~black,23445]]'
 OmegaWiki_Defined_Meaning: 535
 Nomenclature_for_Museum_Cataloging: 1812
 image:

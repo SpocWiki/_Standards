@@ -72,11 +72,11 @@ aliases:
 - 나선 은하
 - 라선은하계
 has_id_wikidata: Q2488
-shape: '[[_Standards/WikiData/WD~spiral,189114]]'
-followed_by: '[[_Standards/WikiData/WD~lenticular_galaxy,192078]]'
-has_list: '[[_Standards/WikiData/WD~list_of_spiral_galaxies,1051686]]'
-subclass_of: '[[_Standards/WikiData/WD~disc_galaxy,1371025]]'
-instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
+shape: '[[_Standards/WikiData/WD~spiral,189114|WD~spiral,189114]]'
+followed_by: '[[_Standards/WikiData/WD~lenticular_galaxy,192078|WD~lenticular_galaxy,192078]]'
+has_list: '[[_Standards/WikiData/WD~list_of_spiral_galaxies,1051686|WD~list_of_spiral_galaxies,1051686]]'
+subclass_of: '[[_Standards/WikiData/WD~disc_galaxy,1371025|WD~disc_galaxy,1371025]]'
+instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909|WD~astronomical_object_type,17444909]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Spiralgalaxie%20M74.jpg
 Dewey_Decimal_Classification: 523.112
 Library_of_Congress_Classification: QB858.42

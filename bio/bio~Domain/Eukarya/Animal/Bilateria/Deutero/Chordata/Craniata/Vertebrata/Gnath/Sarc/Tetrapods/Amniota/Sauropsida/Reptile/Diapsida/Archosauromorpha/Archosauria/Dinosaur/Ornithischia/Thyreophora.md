@@ -22,14 +22,14 @@ aliases:
 - 裝甲類
 - 장순아목
 has_id_wikidata: Q823931
-parent_taxon: '[[_Standards/WikiData/WD~Genasauria,2605453]]'
-taxon_rank: '[[_Standards/WikiData/WD~suborder,5867959]]'
+parent_taxon: '[[_Standards/WikiData/WD~Genasauria,2605453|WD~Genasauria,2605453]]'
+taxon_rank: '[[_Standards/WikiData/WD~suborder,5867959|WD~suborder,5867959]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Q14465148,14465148]]'
-- '[[_Standards/WikiData/WD~Template_Thyreophora,24566692]]'
-different_from: '[[_Standards/WikiData/WD~Thyreophora,15119464]]'
-instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290]]'
-part_of: '[[_Standards/WikiData/WD~Benton_Classification,124359233]]'
+- '[[_Standards/WikiData/WD~Q14465148,14465148|WD~Q14465148,14465148]]'
+- '[[_Standards/WikiData/WD~Template_Thyreophora,24566692|WD~Template_Thyreophora,24566692]]'
+different_from: '[[_Standards/WikiData/WD~Thyreophora,15119464|WD~Thyreophora,15119464]]'
+instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290|WD~fossil_taxon,23038290]]'
+part_of: '[[_Standards/WikiData/WD~Benton_Classification,124359233|WD~Benton_Classification,124359233]]'
 end_time: -66000000-01-01T00:00:00Z
 start_time: -199600000-01-01T00:00:00Z
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Patagopelta%20Skeletal.svg

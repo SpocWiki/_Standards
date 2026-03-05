@@ -76,7 +76,7 @@ dv_has_:
 
 # [[Big5~E-Emotional_Stability]] 
 
-#is_/part_of :: [[../Personality~Big5]] 
+#is_/part_of :: [[../Personality~Big5|Personality~Big5]] 
 
 | Dimension    | Core Strength                        | Core Cost             | Net Favorability      |
 | ------------ | ------------------------------------ | --------------------- | --------------------- |

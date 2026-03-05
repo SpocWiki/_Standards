@@ -75,15 +75,15 @@ CAS_Registry_Number: 7440-63-3
 chemical_formula: Xe
 Commons_category: Xenon
 Commons_gallery: Xenon
-conjugate_acid: '[[_Standards/WikiData/WD~xenonium_ion,8043637]]'
+conjugate_acid: '[[_Standards/WikiData/WD~xenonium_ion,8043637|WD~xenonium_ion,8043637]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Morris_Travers,380209]]'
-- '[[_Standards/WikiData/WD~William_Ramsay,950726]]'
+- '[[_Standards/WikiData/WD~Morris_Travers,380209|WD~Morris_Travers,380209]]'
+- '[[_Standards/WikiData/WD~William_Ramsay,950726|WD~William_Ramsay,950726]]'
 DSSTOX_compound_identifier: DTXCID5047665
 EC_number: 231-172-7
 electronegativity: 2.6
@@ -93,33 +93,33 @@ electron_configuration:
 element_symbol: Xe
 Gmelin_number: 16318
 has_characteristic:
-- '[[_Standards/WikiData/WD~colorlessness,11567495]]'
-- '[[_Standards/WikiData/WD~odorlessness,30007162]]'
-- '[[_Standards/WikiData/WD~tastelessness,30100868]]'
+- '[[_Standards/WikiData/WD~colorlessness,11567495|WD~colorlessness,11567495]]'
+- '[[_Standards/WikiData/WD~odorlessness,30007162|WD~odorlessness,30007162]]'
+- '[[_Standards/WikiData/WD~tastelessness,30100868|WD~tastelessness,30100868]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Xenon%20discharge%20tube.jpg
 InChI: InChI=1S/Xe
 InChIKey: FHNFHKCVQCLJFQ-UHFFFAOYSA-N
 instance_of:
-- '[[_Standards/WikiData/WD~atmophile_element,2313842]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
-- '[[_Standards/WikiData/WD~gas,11432]]'
+- '[[_Standards/WikiData/WD~atmophile_element,2313842|WD~atmophile_element,2313842]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
+- '[[_Standards/WikiData/WD~gas,11432|WD~gas,11432]]'
 ionization_energy: 1170.4
-location_of_discovery: '[[_Standards/WikiData/WD~University_College_London,193196]]'
+location_of_discovery: '[[_Standards/WikiData/WD~University_College_London,193196|WD~University_College_London,193196]]'
 mass: 131.293
 MeSH_tree_code:
 - D01.268.613.900
 - D01.362.641.918
-named_after: '[[_Standards/WikiData/WD~stranger,58179319]]'
+named_after: '[[_Standards/WikiData/WD~stranger,58179319|WD~stranger,58179319]]'
 OmegaWiki_Defined_Meaning: 159848
 part_of:
-- '[[_Standards/WikiData/WD~period_5,244982]]'
-- '[[_Standards/WikiData/WD~noble_gases,19609]]'
+- '[[_Standards/WikiData/WD~period_5,244982|WD~period_5,244982]]'
+- '[[_Standards/WikiData/WD~noble_gases,19609|WD~noble_gases,19609]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%B2%D9%8A%D9%86%D9%88%D9%86.wav
 PubChem_CID: 23991
 SpocWebEntityId: 21950
 standard_molar_entropy: 169.6
-subclass_of: '[[_Standards/WikiData/WD~period_5,244982]]'
-subject_has_role: '[[_Standards/WikiData/WD~inhalational_anaesthetic,909194]]'
+subclass_of: '[[_Standards/WikiData/WD~period_5,244982|WD~period_5,244982]]'
+subject_has_role: '[[_Standards/WikiData/WD~inhalational_anaesthetic,909194|WD~inhalational_anaesthetic,909194]]'
 time_of_discovery_or_invention: 1898-07-12
 type: Element
 UMLS_CUI: C0043339
@@ -324,9 +324,9 @@ dv_has_:
         kj_:
           mol: 12.636
 dv_is_:
-  part_of: '[[../Group-18-Nobel-Gases]]'
+  part_of: '[[../Group-18-Nobel-Gases|Group-18-Nobel-Gases]]'
   same_as:
-  - '[[../../../WikiData/WD~Xenon,1106]]'
+  - '[[../../../WikiData/WD~Xenon,1106|WD~Xenon,1106]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Xenon|Xenon]]'
   - '[[/_public/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Xenon.public|Xenon.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Xenon.internal|Xenon.internal]]'
@@ -335,7 +335,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Xenon.personal|Xenon.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Xenon.secret|Xenon.secret]]'
 dv_has_name_group: Group-18-Nobel-Gases
-dv_is_part_of: '[[../Group-18-Nobel-Gases]]'
+dv_is_part_of: '[[../Group-18-Nobel-Gases|Group-18-Nobel-Gases]]'
 dv_has_name_en: Xenon
 dv_has_name_de: Xenon
 dv_has_value_for_weight_u: 131.29
@@ -354,7 +354,7 @@ dv_has_value_for_energy_form_kj_mol: 12.636
 dv_has_number_of_period: 5
 dv_has_number_of_group: 18
 dv_is_same_as:
-- '[[../../../WikiData/WD~Xenon,1106]]'
+- '[[../../../WikiData/WD~Xenon,1106|WD~Xenon,1106]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Xenon|Xenon]]'
 - '[[/_public/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Xenon.public|Xenon.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Group-18-Nobel-Gases/Xenon.internal|Xenon.internal]]'
@@ -399,7 +399,7 @@ has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol`
 has_number_of_period = `=this.dv_has_number_of_period` 
 has_number_of_group = `=this.dv_has_number_of_group` 
 
-#is_/same_as :: [[../../../WikiData/WD~Xenon,1106]] 
+#is_/same_as :: [[../../../WikiData/WD~Xenon,1106|WD~Xenon,1106]] 
 
 
 

@@ -65,17 +65,17 @@ aliases:
 - 赤纬
 - 적위
 has_id_wikidata: Q76287
-part_of: '[[_Standards/WikiData/WD~equatorial_coordinate_system,208617]]'
+part_of: '[[_Standards/WikiData/WD~equatorial_coordinate_system,208617|WD~equatorial_coordinate_system,208617]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-subclass_of: '[[_Standards/WikiData/WD~angular_measure,1357788]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_DEC,5652918]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+subclass_of: '[[_Standards/WikiData/WD~angular_measure,1357788|WD~angular_measure,1357788]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_DEC,5652918|WD~Template_DEC,5652918]]'
 Wikidata_property: declination
-opposite_of: '[[_Standards/WikiData/WD~right_ascension,13442]]'
+opposite_of: '[[_Standards/WikiData/WD~right_ascension,13442|WD~right_ascension,13442]]'
 lower_limit: -90
 upper_limit: 90
 ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mn>1</mn></mstyle></mrow></math>

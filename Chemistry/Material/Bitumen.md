@@ -53,22 +53,22 @@ aliases:
 - 블랙탑
 has_id_wikidata: Q167510
 different_from:
-- '[[_Standards/WikiData/WD~tar,186209]]'
-- '[[_Standards/WikiData/WD~asphalt_concrete,189259]]'
-- '[[_Standards/WikiData/WD~rock_asphalt,202251]]'
-- '[[_Standards/WikiData/WD~bitumen_of_Judea,4919163]]'
-made_from_material: '[[_Standards/WikiData/WD~rock_asphalt,202251]]'
+- '[[_Standards/WikiData/WD~tar,186209|WD~tar,186209]]'
+- '[[_Standards/WikiData/WD~asphalt_concrete,189259|WD~asphalt_concrete,189259]]'
+- '[[_Standards/WikiData/WD~rock_asphalt,202251|WD~rock_asphalt,202251]]'
+- '[[_Standards/WikiData/WD~bitumen_of_Judea,4919163|WD~bitumen_of_Judea,4919163]]'
+made_from_material: '[[_Standards/WikiData/WD~rock_asphalt,202251|WD~rock_asphalt,202251]]'
 has_use:
-- '[[_Standards/WikiData/WD~building_material,206615]]'
-- '[[_Standards/WikiData/WD~waterproofing,2326110]]'
+- '[[_Standards/WikiData/WD~building_material,206615|WD~building_material,206615]]'
+- '[[_Standards/WikiData/WD~waterproofing,2326110|WD~waterproofing,2326110]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~building_material,206615]]'
-- '[[_Standards/WikiData/WD~petroleum_product,1059843]]'
-- '[[_Standards/WikiData/WD~film_former,37931493]]'
+- '[[_Standards/WikiData/WD~building_material,206615|WD~building_material,206615]]'
+- '[[_Standards/WikiData/WD~petroleum_product,1059843|WD~petroleum_product,1059843]]'
+- '[[_Standards/WikiData/WD~film_former,37931493|WD~film_former,37931493]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-produced_by: '[[_Standards/WikiData/WD~petroleum,22656]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+produced_by: '[[_Standards/WikiData/WD~petroleum,22656|WD~petroleum,22656]]'
 OmegaWiki_Defined_Meaning: 405
 Commons_category: Bitumen
 image: http://commons.wikimedia.org/wiki/Special:FilePath/McKittrick%20Tar%20Seep%20North%20of%20Highway%2058.jpg

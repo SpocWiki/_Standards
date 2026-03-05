@@ -68,16 +68,16 @@ aliases:
 - 사교상
 has_id_wikidata: Q68854
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
 subclass_of:
-- '[[_Standards/WikiData/WD~animal_bite,866650]]'
-- '[[_Standards/WikiData/WD~envenomation,3055418]]'
-- '[[_Standards/WikiData/WD~rare_intoxication,55785342]]'
-different_from: '[[_Standards/WikiData/WD~dry_bite,2454710]]'
-health_specialty: '[[_Standards/WikiData/WD~emergency_medicine,2861470]]'
-has_cause: '[[_Standards/WikiData/WD~animal_attack,17450153]]'
-instance_of: '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+- '[[_Standards/WikiData/WD~animal_bite,866650|WD~animal_bite,866650]]'
+- '[[_Standards/WikiData/WD~envenomation,3055418|WD~envenomation,3055418]]'
+- '[[_Standards/WikiData/WD~rare_intoxication,55785342|WD~rare_intoxication,55785342]]'
+different_from: '[[_Standards/WikiData/WD~dry_bite,2454710|WD~dry_bite,2454710]]'
+health_specialty: '[[_Standards/WikiData/WD~emergency_medicine,2861470|WD~emergency_medicine,2861470]]'
+has_cause: '[[_Standards/WikiData/WD~animal_attack,17450153|WD~animal_attack,17450153]]'
+instance_of: '[[_Standards/WikiData/WD~class_of_disease,112193867|WD~class_of_disease,112193867]]'
 DiseasesDB: 29733
 UMLS_CUI: C0037379
 U_S_National_Archives_Identifier: 10666062

@@ -63,18 +63,18 @@ aliases:
 - 분류학
 has_id_wikidata: Q7211
 different_from:
-- '[[_Standards/WikiData/WD~Q324254,324254]]'
-- '[[_Standards/WikiData/WD~taxonomy,8269924]]'
-- '[[_Standards/WikiData/WD~thesaurus_(IR),17152639]]'
+- '[[_Standards/WikiData/WD~Q324254,324254|WD~Q324254,324254]]'
+- '[[_Standards/WikiData/WD~taxonomy,8269924|WD~taxonomy,8269924]]'
+- '[[_Standards/WikiData/WD~thesaurus_(IR),17152639|WD~thesaurus_(IR),17152639]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-opposite_of: '[[_Standards/WikiData/WD~meronomy,2465551]]'
-main_subject: '[[_Standards/WikiData/WD~knowledge_representation_and_reasoning,3478658]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+opposite_of: '[[_Standards/WikiData/WD~meronomy,2465551|WD~meronomy,2465551]]'
+main_subject: '[[_Standards/WikiData/WD~knowledge_representation_and_reasoning,3478658|WD~knowledge_representation_and_reasoning,3478658]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~classification_scheme,5962346]]'
-- '[[_Standards/WikiData/WD~hierarchical_classification,17625380]]'
-based_on: '[[_Standards/WikiData/WD~taxonomy,8269924]]'
+- '[[_Standards/WikiData/WD~classification_scheme,5962346|WD~classification_scheme,5962346]]'
+- '[[_Standards/WikiData/WD~hierarchical_classification,17625380|WD~hierarchical_classification,17625380]]'
+based_on: '[[_Standards/WikiData/WD~taxonomy,8269924|WD~taxonomy,8269924]]'
 OmegaWiki_Defined_Meaning: 3718
 identifiers_org_prefix: taxonomy
 Commons_category: Taxonomy
@@ -200,9 +200,9 @@ dv_has_:
 
 # [[Taxonomy]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~taxonomy,7211]] 
+#is_/same_as :: [[_Standards/WikiData/WD~taxonomy,7211|WD~taxonomy,7211]] 
 
-#has_/examples :: [[Taxon_Rank/Biological_Classification]] 
+#has_/examples :: [[Taxon_Rank/Biological_Classification|Biological_Classification]] 
 
 
 | Singular Ending | Plural Ending     | Example Singular          | Example Plural                      | Notes                                                                                          |

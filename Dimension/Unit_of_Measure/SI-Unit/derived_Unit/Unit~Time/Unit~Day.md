@@ -205,44 +205,44 @@ conversion_to_standard_unit:
 - 24
 - 1440
 described_by_source:
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~ISO_80000-3_2006_Quantities_and_units___Part_3__Space_and_time,26711932]]'
-- "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~ISO_80000-3_2006_Quantities_and_units___Part_3__Space_and_time,26711932|WD~ISO_80000-3_2006_Quantities_and_units___Part_3__Space_and_time,26711932]]'
+- "[[_Standards/WikiData/WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240|WD~Real'nyj_slovar'_klassicheskih_drevnostej_po_Ljubkeru,30059240]]"
 different_from:
-- '[[_Standards/WikiData/WD~Doba,293481]]'
-- '[[_Standards/WikiData/WD~daytime,52643]]'
-disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+- '[[_Standards/WikiData/WD~Doba,293481|WD~Doba,293481]]'
+- '[[_Standards/WikiData/WD~daytime,52643|WD~daytime,52643]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
 equivalent_class: http://dati.beniculturali.it/cis/Day
 exact_match: https://www.w3.org/TR/owl-time/#time:unitDay
 has_part_s_:
-- '[[_Standards/WikiData/WD~sunset,166564]]'
-- '[[_Standards/WikiData/WD~sunrise,193294]]'
-- '[[_Standards/WikiData/WD~golden_hour,3238843]]'
-- '[[_Standards/WikiData/WD~night,575]]'
-- '[[_Standards/WikiData/WD~hour,25235]]'
-- '[[_Standards/WikiData/WD~daytime,52643]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~time_of_day,1260524]]'
+- '[[_Standards/WikiData/WD~sunset,166564|WD~sunset,166564]]'
+- '[[_Standards/WikiData/WD~sunrise,193294|WD~sunrise,193294]]'
+- '[[_Standards/WikiData/WD~golden_hour,3238843|WD~golden_hour,3238843]]'
+- '[[_Standards/WikiData/WD~night,575|WD~night,575]]'
+- '[[_Standards/WikiData/WD~hour,25235|WD~hour,25235]]'
+- '[[_Standards/WikiData/WD~daytime,52643|WD~daytime,52643]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~time_of_day,1260524|WD~time_of_day,1260524]]'
 Iconclass_notation: 23R1
 image: http://commons.wikimedia.org/wiki/Special:FilePath/GreenwUhrWelt.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~unit_of_time,1790144]]'
-- '[[_Standards/WikiData/WD~non-SI_unit_mentioned_in_and_accepted_with_the_SI,3268848]]'
-- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
-- '[[_Standards/WikiData/WD~SI-accepted_non-SI_unit,106839753]]'
+- '[[_Standards/WikiData/WD~unit_of_time,1790144|WD~unit_of_time,1790144]]'
+- '[[_Standards/WikiData/WD~non-SI_unit_mentioned_in_and_accepted_with_the_SI,3268848|WD~non-SI_unit_mentioned_in_and_accepted_with_the_SI,3268848]]'
+- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057|WD~UCUM_derived_unit,82047057]]'
+- '[[_Standards/WikiData/WD~SI-accepted_non-SI_unit,106839753|WD~SI-accepted_non-SI_unit,106839753]]'
 label_in_sign_language: http://commons.wikimedia.org/wiki/Special:FilePath/Csc-dia-spreadthesign.ogv
-measured_physical_quantity: '[[_Standards/WikiData/WD~duration,2199864]]'
+measured_physical_quantity: '[[_Standards/WikiData/WD~duration,2199864|WD~duration,2199864]]'
 name:
 - dagas
 - dagum
 OmegaWiki_Defined_Meaning: 5533
-part_of: '[[_Standards/WikiData/WD~week,23387]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q110300059,110300059]]'
+part_of: '[[_Standards/WikiData/WD~week,23387|WD~week,23387]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q110300059,110300059|WD~Q110300059,110300059]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Tag2.ogg
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~nychthemeron,11034997]]'
-subclass_of: '[[_Standards/WikiData/WD~time_interval,186081]]'
-subdivision_of_this_unit: '[[_Standards/WikiData/WD~hour,25235]]'
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Parts_of_a_day,8981578]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~nychthemeron,11034997|WD~nychthemeron,11034997]]'
+subclass_of: '[[_Standards/WikiData/WD~time_interval,186081|WD~time_interval,186081]]'
+subdivision_of_this_unit: '[[_Standards/WikiData/WD~hour,25235|WD~hour,25235]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Parts_of_a_day,8981578|WD~Template_Parts_of_a_day,8981578]]'
 UCUM_code: d
 unit_symbol:
 - сут

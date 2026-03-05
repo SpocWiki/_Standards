@@ -67,32 +67,32 @@ aliases:
 - 西洋油菜
 - 유채
 has_id_wikidata: Q177932
-has_fruit_type: '[[_Standards/WikiData/WD~silique,148529]]'
-has_use: '[[_Standards/WikiData/WD~medicinal_plant,188840]]'
+has_fruit_type: '[[_Standards/WikiData/WD~silique,148529|WD~silique,148529]]'
+has_use: '[[_Standards/WikiData/WD~medicinal_plant,188840|WD~medicinal_plant,188840]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~oil_plant,297248]]'
-- '[[_Standards/WikiData/WD~useful_plant,11992872]]'
+- '[[_Standards/WikiData/WD~oil_plant,297248|WD~oil_plant,297248]]'
+- '[[_Standards/WikiData/WD~useful_plant,11992872|WD~useful_plant,11992872]]'
 this_taxon_is_source_of:
-- '[[_Standards/WikiData/WD~rapeseed_oil,697248]]'
-- '[[_Standards/WikiData/WD~rapeseed_seed,110022244]]'
+- '[[_Standards/WikiData/WD~rapeseed_oil,697248|WD~rapeseed_oil,697248]]'
+- '[[_Standards/WikiData/WD~rapeseed_seed,110022244|WD~rapeseed_seed,110022244]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_33,112869412]]'
-different_from: '[[_Standards/WikiData/WD~grape_seed_oil,898982]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_33,112869412|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_33,112869412]]'
+different_from: '[[_Standards/WikiData/WD~grape_seed_oil,898982|WD~grape_seed_oil,898982]]'
 basionym_of:
-- '[[_Standards/WikiData/WD~Brassica_napus_subsp._oleifera,50914244]]'
-- '[[_Standards/WikiData/WD~Brassica_campestris_subsp._napus,50914900]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
-hardiness_of_plant: '[[_Standards/WikiData/WD~2,99546131]]'
-taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
+- '[[_Standards/WikiData/WD~Brassica_napus_subsp._oleifera,50914244|WD~Brassica_napus_subsp._oleifera,50914244]]'
+- '[[_Standards/WikiData/WD~Brassica_campestris_subsp._napus,50914900|WD~Brassica_campestris_subsp._napus,50914900]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615|WD~WikiProject_Invasion_Biology,56241615]]'
+hardiness_of_plant: '[[_Standards/WikiData/WD~2,99546131|WD~2,99546131]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432|WD~species,7432]]'
 taxon_range:
-- '[[_Standards/WikiData/WD~Shanghai,8686]]'
-- '[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-parent_taxon: '[[../../../../../../../../../../../../../WikiData/WD~Brassica,58677]]'
+- '[[_Standards/WikiData/WD~Shanghai,8686|WD~Shanghai,8686]]'
+- '[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269|WD~Tibet_Autonomous_Region,17269]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+parent_taxon: '[[../../../../../../../../../../../../../WikiData/WD~Brassica,58677|WD~Brassica,58677]]'
 water_footprint: 2271
 OmegaWiki_Defined_Meaning: 3106
 ITIS_TSN: 23060
@@ -237,7 +237,7 @@ dv_has_:
 
 # [[Rapeseed]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../../WikiData/WD~Brassica_napus,177932]] 
+#is_/same_as :: [[../../../../../../../../../../../../../WikiData/WD~Brassica_napus,177932|WD~Brassica_napus,177932]] 
 
 ## #has_/text_of_/abstract 
 

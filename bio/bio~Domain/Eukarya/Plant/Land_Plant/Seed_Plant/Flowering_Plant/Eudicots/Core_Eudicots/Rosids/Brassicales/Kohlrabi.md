@@ -77,27 +77,27 @@ aliases:
 - 苤藍
 - 콜라비
 has_id_wikidata: Q147202
-parent_taxon: '[[../../../../../../../../../../../WikiData/WD~Brassica_oleracea,146212]]'
+parent_taxon: '[[../../../../../../../../../../../WikiData/WD~Brassica_oleracea,146212|WD~Brassica_oleracea,146212]]'
 has_use:
-- '[[_Standards/WikiData/WD~medicinal_plant,188840]]'
-- '[[_Standards/WikiData/WD~fodder,211439]]'
-- '[[_Standards/WikiData/WD~food,2095]]'
-- '[[_Standards/WikiData/WD~vegetable,11004]]'
-taxon_rank: '[[_Standards/WikiData/WD~variety,767728]]'
+- '[[_Standards/WikiData/WD~medicinal_plant,188840|WD~medicinal_plant,188840]]'
+- '[[_Standards/WikiData/WD~fodder,211439|WD~fodder,211439]]'
+- '[[_Standards/WikiData/WD~food,2095|WD~food,2095]]'
+- '[[_Standards/WikiData/WD~vegetable,11004|WD~vegetable,11004]]'
+taxon_rank: '[[_Standards/WikiData/WD~variety,767728|WD~variety,767728]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-subclass_of: '[[_Standards/WikiData/WD~useful_plant,11992872]]'
-taxon_synonym: '[[_Standards/WikiData/WD~Brassica_gongylodes,50828095]]'
-hardiness_of_plant: '[[_Standards/WikiData/WD~2,99546131]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+subclass_of: '[[_Standards/WikiData/WD~useful_plant,11992872|WD~useful_plant,11992872]]'
+taxon_synonym: '[[_Standards/WikiData/WD~Brassica_gongylodes,50828095|WD~Brassica_gongylodes,50828095]]'
+hardiness_of_plant: '[[_Standards/WikiData/WD~2,99546131|WD~2,99546131]]'
 taxon_range:
-- '[[_Standards/WikiData/WD~Guangdong,15175]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~Guangdong,15175|WD~Guangdong,15175]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 PLU_code:
 - 3096
 - 4628

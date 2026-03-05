@@ -50,10 +50,10 @@ aliases:
 - 番石榴属
 - 구아바속
 has_id_wikidata: Q320179
-parent_taxon: '[[../../../../../../../../../../../../../../WikiData/WD~Myrteae,13420292]]'
-described_by_source: '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_53(1),112869448]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+parent_taxon: '[[../../../../../../../../../../../../../../WikiData/WD~Myrteae,13420292|WD~Myrteae,13420292]]'
+described_by_source: '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_53(1),112869448|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_53(1),112869448]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
 ITIS_TSN: 27238
 taxon_common_name:
 - guava

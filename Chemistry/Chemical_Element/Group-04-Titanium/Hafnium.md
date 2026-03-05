@@ -73,7 +73,7 @@ aliases:
 - 하프늄
 - 하프니움
 has_id_wikidata: Q1119
-associated_hazard: '[[_Standards/WikiData/WD~hafnium_exposure,21088855]]'
+associated_hazard: '[[_Standards/WikiData/WD~hafnium_exposure,21088855|WD~hafnium_exposure,21088855]]'
 atomic_number: 72
 boiling_point: 8316
 canonical_SMILES: '[Hf]'
@@ -87,48 +87,48 @@ Common_Procurement_Vocabulary_code:
 CPV_Supplementary_code: AA25
 density: 13
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 Dewey_Decimal_Classification: 546.514
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~George_de_Hevesy,76951]]'
-- '[[_Standards/WikiData/WD~Dirk_Coster,775969]]'
+- '[[_Standards/WikiData/WD~George_de_Hevesy,76951|WD~George_de_Hevesy,76951]]'
+- '[[_Standards/WikiData/WD~Dirk_Coster,775969|WD~Dirk_Coster,775969]]'
 DSSTOX_compound_identifier: DTXCID5047663
 EC_number: 231-166-4
 electronegativity: 1
 electron_configuration: '[Xe] 4f¹⁴ 5d² 6s²'
 element_symbol: Hf
-has_effect: '[[_Standards/WikiData/WD~hafnium_exposure,21088855]]'
+has_effect: '[[_Standards/WikiData/WD~hafnium_exposure,21088855|WD~hafnium_exposure,21088855]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hf-crystal%20bar.jpg
 immediately_dangerous_to_life_or_health: 50
 InChI: InChI=1S/Hf
 InChIKey: VBJZVLUMGGDVMO-UHFFFAOYSA-N
 instance_of:
-- '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- '[[_Standards/WikiData/WD~combustible_powder,21073023]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+- '[[_Standards/WikiData/WD~lithophile,1130479|WD~lithophile,1130479]]'
+- '[[_Standards/WikiData/WD~combustible_powder,21073023|WD~combustible_powder,21073023]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 ionic_radius:
 - 0.58
 - 0.71
 - 0.83
-location_of_discovery: '[[_Standards/WikiData/WD~Denmark,35]]'
+location_of_discovery: '[[_Standards/WikiData/WD~Denmark,35|WD~Denmark,35]]'
 mass: 178.486
 melting_point: 4041
 MeSH_tree_code:
 - D01.268.556.337
 - D01.268.956.249
 - D01.552.544.337
-named_after: '[[_Standards/WikiData/WD~Copenhagen,1748]]'
+named_after: '[[_Standards/WikiData/WD~Copenhagen,1748|WD~Copenhagen,1748]]'
 OmegaWiki_Defined_Meaning: 159925
 oxidation_state: 4
 part_of:
-- '[[_Standards/WikiData/WD~group_4,189302]]'
-- '[[_Standards/WikiData/WD~period_6,239813]]'
+- '[[_Standards/WikiData/WD~group_4,189302|WD~group_4,189302]]'
+- '[[_Standards/WikiData/WD~period_6,239813|WD~period_6,239813]]'
 PubChem_CID: 23986
 RTECS_number: MG4600000
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Hafnium.svg
 SpocWebEntityId: 21968
-subclass_of: '[[_Standards/WikiData/WD~transition_metal,19588]]'
+subclass_of: '[[_Standards/WikiData/WD~transition_metal,19588|WD~transition_metal,19588]]'
 time_of_discovery_or_invention: 1922
 time_weighted_average_exposure_limit: 0.5
 type: Element
@@ -138,7 +138,7 @@ vapor_pressure: 0
 ZVG_number: 7720
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Hafnium,1119]]'
+  - '[[../../../WikiData/WD~Hafnium,1119|WD~Hafnium,1119]]'
   - '[[../../../WikiData/WD~Hafnium,1119|WD~Hafnium,1119]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium|Hafnium]]'
   - '[[/_public/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.public|Hafnium.public]]'
@@ -147,7 +147,7 @@ dv_is_:
   - '[[/_private/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.private|Hafnium.private]]'
   - '[[/_personal/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.personal|Hafnium.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.secret|Hafnium.secret]]'
-  part_of: '[[../Group-04-Titanium]]'
+  part_of: '[[../Group-04-Titanium|Group-04-Titanium]]'
 dv_has_:
   name_:
     abbreviated: Hf
@@ -340,7 +340,7 @@ dv_has_:
         kj_:
           mol: 575
 dv_is_same_as:
-- '[[../../../WikiData/WD~Hafnium,1119]]'
+- '[[../../../WikiData/WD~Hafnium,1119|WD~Hafnium,1119]]'
 - '[[../../../WikiData/WD~Hafnium,1119|WD~Hafnium,1119]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium|Hafnium]]'
 - '[[/_public/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.public|Hafnium.public]]'
@@ -350,7 +350,7 @@ dv_is_same_as:
 - '[[/_personal/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.personal|Hafnium.personal]]'
 - '[[/_secret/Chemistry/Chemical_Element/Group-04-Titanium/Hafnium.secret|Hafnium.secret]]'
 dv_has_name_group: Group-04-Titanium
-dv_is_part_of: '[[../Group-04-Titanium]]'
+dv_is_part_of: '[[../Group-04-Titanium|Group-04-Titanium]]'
 dv_has_name_en: Hafnium
 dv_has_name_de: Hafnium
 dv_has_name_abbreviated: Hf
@@ -378,7 +378,7 @@ Unicode_character: 鉿
 
 
 #chemic/Element 
-#is_/same_as :: [[../../../WikiData/WD~Hafnium,1119]] 
+#is_/same_as :: [[../../../WikiData/WD~Hafnium,1119|WD~Hafnium,1119]] 
 
 has_name_group = `=this.dv_has_name_group` 
 is_part_of = `=this.dv_is_part_of` 
@@ -421,7 +421,7 @@ has_number_of_electrons = `=this.dv_has_number_of_electrons`
 > A lustrous, silvery gray, tetravalent transition metal, hafnium chemically resembles zirconium 
 > and is found in many zirconium minerals. 
 > 
-> Its existence was predicted by [[../../Chemist/Mendeleev,Dmitri]] in 1869, 
+> Its existence was predicted by [[../../Chemist/Mendeleev,Dmitri|Mendeleev,Dmitri]] in 1869, 
 > though it was not identified until 1922, by Dirk Coster and George de Hevesy. 
 > Hafnium is named after Hafnia, the Latin name for Copenhagen, where it was discovered.
 >

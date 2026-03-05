@@ -130,99 +130,99 @@ aliases:
 - 모리셔스
 has_id_wikidata: Q1027
 instance_of:
-- '[[_Standards/WikiData/WD~island_country,112099]]'
-- '[[_Standards/WikiData/WD~sovereign_state,3624078]]'
-- '[[_Standards/WikiData/WD~archipelagic_state,13107770]]'
-- '[[_Standards/WikiData/WD~country,6256]]'
+- '[[_Standards/WikiData/WD~island_country,112099|WD~island_country,112099]]'
+- '[[_Standards/WikiData/WD~sovereign_state,3624078|WD~sovereign_state,3624078]]'
+- '[[_Standards/WikiData/WD~archipelagic_state,13107770|WD~archipelagic_state,13107770]]'
+- '[[_Standards/WikiData/WD~country,6256|WD~country,6256]]'
 member_of:
-- '[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102]]'
-- '[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656]]'
-- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424]]'
-- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384]]'
-- '[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611]]'
-- '[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]'
-- '[[_Standards/WikiData/WD~African_Development_Bank,340195]]'
-- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150]]'
-- '[[_Standards/WikiData/WD~Alliance_of_Small_Island_States,496967]]'
-- '[[_Standards/WikiData/WD~World_Customs_Organization,605326]]'
-- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801]]'
-- '[[_Standards/WikiData/WD~Southern_African_Development_Community,816706]]'
-- '[[_Standards/WikiData/WD~International_Development_Association,827525]]'
-- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
-- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
-- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
-- '[[_Standards/WikiData/WD~Indian_Ocean_Commission,1115631]]'
-- '[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262]]'
-- '[[_Standards/WikiData/WD~United_Nations,1065]]'
-- '[[_Standards/WikiData/WD~African_Union,7159]]'
-- '[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785]]'
-- '[[_Standards/WikiData/WD~UNESCO,7809]]'
-- '[[_Standards/WikiData/WD~World_Health_Organization,7817]]'
-- '[[_Standards/WikiData/WD~World_Trade_Organization,7825]]'
-- '[[_Standards/WikiData/WD~Interpol,8475]]'
-- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495]]'
+- '[[_Standards/WikiData/WD~Organisation_internationale_de_la_Francophonie,134102|WD~Organisation_internationale_de_la_Francophonie,134102]]'
+- '[[_Standards/WikiData/WD~International_Civil_Defence_Organisation,162656|WD~International_Civil_Defence_Organisation,162656]]'
+- '[[_Standards/WikiData/WD~World_Meteorological_Organization,170424|WD~World_Meteorological_Organization,170424]]'
+- '[[_Standards/WikiData/WD~International_Bank_for_Reconstruction_and_Development,191384|WD~International_Bank_for_Reconstruction_and_Development,191384]]'
+- '[[_Standards/WikiData/WD~International_Hydrographic_Organization,233611|WD~International_Hydrographic_Organization,233611]]'
+- '[[_Standards/WikiData/WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278|WD~Organisation_of_African,_Caribbean_and_Pacific_States,294278]]'
+- '[[_Standards/WikiData/WD~African_Development_Bank,340195|WD~African_Development_Bank,340195]]'
+- '[[_Standards/WikiData/WD~International_Telecommunication_Union,376150|WD~International_Telecommunication_Union,376150]]'
+- '[[_Standards/WikiData/WD~Alliance_of_Small_Island_States,496967|WD~Alliance_of_Small_Island_States,496967]]'
+- '[[_Standards/WikiData/WD~World_Customs_Organization,605326|WD~World_Customs_Organization,605326]]'
+- '[[_Standards/WikiData/WD~International_Finance_Corporation,656801|WD~International_Finance_Corporation,656801]]'
+- '[[_Standards/WikiData/WD~Southern_African_Development_Community,816706|WD~Southern_African_Development_Community,816706]]'
+- '[[_Standards/WikiData/WD~International_Development_Association,827525|WD~International_Development_Association,827525]]'
+- '[[_Standards/WikiData/WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490|WD~Organisation_for_the_Prohibition_of_Chemical_Weapons,842490]]'
+- '[[_Standards/WikiData/WD~International_Centre_for_Settlement_of_Investment_Disputes,899770|WD~International_Centre_for_Settlement_of_Investment_Disputes,899770]]'
+- '[[_Standards/WikiData/WD~Multilateral_Investment_Guarantee_Agency,1043527|WD~Multilateral_Investment_Guarantee_Agency,1043527]]'
+- '[[_Standards/WikiData/WD~Indian_Ocean_Commission,1115631|WD~Indian_Ocean_Commission,1115631]]'
+- '[[_Standards/WikiData/WD~Group_on_Earth_Observations,5611262|WD~Group_on_Earth_Observations,5611262]]'
+- '[[_Standards/WikiData/WD~United_Nations,1065|WD~United_Nations,1065]]'
+- '[[_Standards/WikiData/WD~African_Union,7159|WD~African_Union,7159]]'
+- '[[_Standards/WikiData/WD~Commonwealth_of_Nations,7785|WD~Commonwealth_of_Nations,7785]]'
+- '[[_Standards/WikiData/WD~UNESCO,7809|WD~UNESCO,7809]]'
+- '[[_Standards/WikiData/WD~World_Health_Organization,7817|WD~World_Health_Organization,7817]]'
+- '[[_Standards/WikiData/WD~World_Trade_Organization,7825|WD~World_Trade_Organization,7825]]'
+- '[[_Standards/WikiData/WD~Interpol,8475|WD~Interpol,8475]]'
+- '[[_Standards/WikiData/WD~Universal_Postal_Union_UPU,17495|WD~Universal_Postal_Union_UPU,17495]]'
 official_symbol:
-- '[[_Standards/WikiData/WD~Trochetia_boutoniana,139970]]'
-- '[[_Standards/WikiData/WD~Mauritius_Kestrel,843346]]'
-flag: '[[_Standards/WikiData/WD~flag_of_Mauritius,173548]]'
-coat_of_arms: '[[_Standards/WikiData/WD~Coat_of_arms_of_Mauritius,271183]]'
-anthem: '[[_Standards/WikiData/WD~Motherland,336273]]'
+- '[[_Standards/WikiData/WD~Trochetia_boutoniana,139970|WD~Trochetia_boutoniana,139970]]'
+- '[[_Standards/WikiData/WD~Mauritius_Kestrel,843346|WD~Mauritius_Kestrel,843346]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Mauritius,173548|WD~flag_of_Mauritius,173548]]'
+coat_of_arms: '[[_Standards/WikiData/WD~Coat_of_arms_of_Mauritius,271183|WD~Coat_of_arms_of_Mauritius,271183]]'
+anthem: '[[_Standards/WikiData/WD~Motherland,336273|WD~Motherland,336273]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
 contains_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Rivière_Noire_District,873740]]'
-- '[[_Standards/WikiData/WD~Grand_Port_District,911635]]'
-- '[[_Standards/WikiData/WD~Moka_District,911643]]'
-- '[[_Standards/WikiData/WD~Flacq_District,911651]]'
-- '[[_Standards/WikiData/WD~Pamplemousses_District,934126]]'
-- '[[_Standards/WikiData/WD~Port_Louis_District,960645]]'
-- '[[_Standards/WikiData/WD~Rivière_du_Rempart_District,1053565]]'
-- '[[_Standards/WikiData/WD~Plaines_Wilhems_District,1053595]]'
-- '[[_Standards/WikiData/WD~Savanne_District,1053600]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_Mauritius,1340819]]'
+- '[[_Standards/WikiData/WD~Rivière_Noire_District,873740|WD~Rivière_Noire_District,873740]]'
+- '[[_Standards/WikiData/WD~Grand_Port_District,911635|WD~Grand_Port_District,911635]]'
+- '[[_Standards/WikiData/WD~Moka_District,911643|WD~Moka_District,911643]]'
+- '[[_Standards/WikiData/WD~Flacq_District,911651|WD~Flacq_District,911651]]'
+- '[[_Standards/WikiData/WD~Pamplemousses_District,934126|WD~Pamplemousses_District,934126]]'
+- '[[_Standards/WikiData/WD~Port_Louis_District,960645|WD~Port_Louis_District,960645]]'
+- '[[_Standards/WikiData/WD~Rivière_du_Rempart_District,1053565|WD~Rivière_du_Rempart_District,1053565]]'
+- '[[_Standards/WikiData/WD~Plaines_Wilhems_District,1053595|WD~Plaines_Wilhems_District,1053595]]'
+- '[[_Standards/WikiData/WD~Savanne_District,1053600|WD~Savanne_District,1053600]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_Mauritius,1340819|WD~history_of_Mauritius,1340819]]'
 electrical_plug_type:
-- '[[_Standards/WikiData/WD~Europlug,1378312]]'
-- '[[_Standards/WikiData/WD~BS_1363,1528507]]'
-highest_point: '[[_Standards/WikiData/WD~Piton_de_la_Petite_Rivière_Noire,1760978]]'
-office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Mauritius,1826694]]'
-legislative_body: '[[_Standards/WikiData/WD~National_Assembly_of_Mauritius,1854129]]'
-economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Mauritius,2366828]]'
-different_from: '[[_Standards/WikiData/WD~Mauritius_Island,2656389]]'
-named_after: '[[_Standards/WikiData/WD~Mauritius_Island,2656389]]'
-demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Mauritius,2724843]]'
-central_bank: '[[_Standards/WikiData/WD~Bank_of_Mauritius,2743652]]'
+- '[[_Standards/WikiData/WD~Europlug,1378312|WD~Europlug,1378312]]'
+- '[[_Standards/WikiData/WD~BS_1363,1528507|WD~BS_1363,1528507]]'
+highest_point: '[[_Standards/WikiData/WD~Piton_de_la_Petite_Rivière_Noire,1760978|WD~Piton_de_la_Petite_Rivière_Noire,1760978]]'
+office_held_by_head_of_government: '[[_Standards/WikiData/WD~Prime_Minister_of_Mauritius,1826694|WD~Prime_Minister_of_Mauritius,1826694]]'
+legislative_body: '[[_Standards/WikiData/WD~National_Assembly_of_Mauritius,1854129|WD~National_Assembly_of_Mauritius,1854129]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Mauritius,2366828|WD~economy_of_Mauritius,2366828]]'
+different_from: '[[_Standards/WikiData/WD~Mauritius_Island,2656389|WD~Mauritius_Island,2656389]]'
+named_after: '[[_Standards/WikiData/WD~Mauritius_Island,2656389|WD~Mauritius_Island,2656389]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Mauritius,2724843|WD~demographics_of_Mauritius,2724843]]'
+central_bank: '[[_Standards/WikiData/WD~Bank_of_Mauritius,2743652|WD~Bank_of_Mauritius,2743652]]'
 emergency_phone_number:
-- '[[_Standards/WikiData/WD~114,2945964]]'
-- '[[_Standards/WikiData/WD~999,3086706]]'
-- '[[_Standards/WikiData/WD~995,25267554]]'
-- '[[_Standards/WikiData/WD~115,25648805]]'
-culture: '[[_Standards/WikiData/WD~culture_of_Mauritius,3007457]]'
-geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Mauritius,3123297]]'
-has_characteristic: '[[_Standards/WikiData/WD~free_country,3174312]]'
-office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Mauritius,3286988]]'
-head_of_government: '[[_Standards/WikiData/WD~Pravind_Jugnauth,3401447]]'
-basic_form_of_government: '[[_Standards/WikiData/WD~parliamentary_republic,4198907]]'
+- '[[_Standards/WikiData/WD~114,2945964|WD~114,2945964]]'
+- '[[_Standards/WikiData/WD~999,3086706|WD~999,3086706]]'
+- '[[_Standards/WikiData/WD~995,25267554|WD~995,25267554]]'
+- '[[_Standards/WikiData/WD~115,25648805|WD~115,25648805]]'
+culture: '[[_Standards/WikiData/WD~culture_of_Mauritius,3007457|WD~culture_of_Mauritius,3007457]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Mauritius,3123297|WD~geography_of_Mauritius,3123297]]'
+has_characteristic: '[[_Standards/WikiData/WD~free_country,3174312|WD~free_country,3174312]]'
+office_held_by_head_of_state: '[[_Standards/WikiData/WD~President_of_Mauritius,3286988|WD~President_of_Mauritius,3286988]]'
+head_of_government: '[[_Standards/WikiData/WD~Pravind_Jugnauth,3401447|WD~Pravind_Jugnauth,3401447]]'
+basic_form_of_government: '[[_Standards/WikiData/WD~parliamentary_republic,4198907|WD~parliamentary_republic,4198907]]'
 language_used:
-- '[[_Standards/WikiData/WD~Mauritian_Sign_Language,6793754]]'
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~French,150]]'
-- '[[_Standards/WikiData/WD~Bhojpuri,33268]]'
-- '[[_Standards/WikiData/WD~Mauritian_Creole,33661]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Mauritius,7112353]]'
-highest_judicial_authority: '[[_Standards/WikiData/WD~Supreme_Court_of_Mauritius,7644943]]'
-has_cabinet: '[[_Standards/WikiData/WD~Cabinet_of_Mauritius,7720898]]'
-executive_body: '[[_Standards/WikiData/WD~Government_of_Mauritius,12058897]]'
-driving_side: '[[_Standards/WikiData/WD~left,13196750]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Mauritius,13483832]]'
-replaces: '[[_Standards/WikiData/WD~Commonwealth_realm_of_Mauritius,14759030]]'
-archives_at: '[[_Standards/WikiData/WD~National_Archives_of_Mauritius,16885193]]'
-located_in_on_physical_feature: '[[_Standards/WikiData/WD~East_African_islands,28901162]]'
+- '[[_Standards/WikiData/WD~Mauritian_Sign_Language,6793754|WD~Mauritian_Sign_Language,6793754]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~French,150|WD~French,150]]'
+- '[[_Standards/WikiData/WD~Bhojpuri,33268|WD~Bhojpuri,33268]]'
+- '[[_Standards/WikiData/WD~Mauritian_Creole,33661|WD~Mauritian_Creole,33661]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Mauritius,7112353|WD~outline_of_Mauritius,7112353]]'
+highest_judicial_authority: '[[_Standards/WikiData/WD~Supreme_Court_of_Mauritius,7644943|WD~Supreme_Court_of_Mauritius,7644943]]'
+has_cabinet: '[[_Standards/WikiData/WD~Cabinet_of_Mauritius,7720898|WD~Cabinet_of_Mauritius,7720898]]'
+executive_body: '[[_Standards/WikiData/WD~Government_of_Mauritius,12058897|WD~Government_of_Mauritius,12058897]]'
+driving_side: '[[_Standards/WikiData/WD~left,13196750|WD~left,13196750]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Mauritius,13483832|WD~Portal_Mauritius,13483832]]'
+replaces: '[[_Standards/WikiData/WD~Commonwealth_realm_of_Mauritius,14759030|WD~Commonwealth_realm_of_Mauritius,14759030]]'
+archives_at: '[[_Standards/WikiData/WD~National_Archives_of_Mauritius,16885193|WD~National_Archives_of_Mauritius,16885193]]'
+located_in_on_physical_feature: '[[_Standards/WikiData/WD~East_African_islands,28901162|WD~East_African_islands,28901162]]'
 located_in_time_zone:
-- '[[_Standards/WikiData/WD~Indian_Mauritius,63224579]]'
-- '[[_Standards/WikiData/WD~UTC+04_00,6779]]'
-has_boundary: '[[_Standards/WikiData/WD~borders_of_Mauritius,65201449]]'
-head_of_state: '[[_Standards/WikiData/WD~Prithvirajsing_Roopun,77311543]]'
+- '[[_Standards/WikiData/WD~Indian_Mauritius,63224579|WD~Indian_Mauritius,63224579]]'
+- '[[_Standards/WikiData/WD~UTC+04_00,6779|WD~UTC+04_00,6779]]'
+has_boundary: '[[_Standards/WikiData/WD~borders_of_Mauritius,65201449|WD~borders_of_Mauritius,65201449]]'
+head_of_state: '[[_Standards/WikiData/WD~Prithvirajsing_Roopun,77311543|WD~Prithvirajsing_Roopun,77311543]]'
 UMLS_CUI: C0001766
 demonym:
 - موريشيوسي
@@ -281,37 +281,37 @@ nominal_GDP:
 coordinate_location: Point(57.5 -20.2)
 coordinates_of_westernmost_point: Point(56.583333333 -10.416666666)
 diplomatic_relation:
-- '[[_Standards/WikiData/WD~South_Africa,258]]'
-- '[[_Standards/WikiData/WD~Serbia,403]]'
-- '[[_Standards/WikiData/WD~Australia,408]]'
-- '[[_Standards/WikiData/WD~North_Korea,423]]'
-- '[[_Standards/WikiData/WD~India,668]]'
-- '[[_Standards/WikiData/WD~Malaysia,833]]'
-- '[[_Standards/WikiData/WD~Pakistan,843]]'
-- '[[_Standards/WikiData/WD~Taiwan,865]]'
-- '[[_Standards/WikiData/WD~Bangladesh,902]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~Belgium,31]]'
-- '[[_Standards/WikiData/WD~Switzerland,39]]'
-- '[[_Standards/WikiData/WD~Poland,36]]'
-- '[[_Standards/WikiData/WD~France,142]]'
-- '[[_Standards/WikiData/WD~United_Kingdom,145]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Russia,159]]'
-- '[[_Standards/WikiData/WD~Germany,183]]'
+- '[[_Standards/WikiData/WD~South_Africa,258|WD~South_Africa,258]]'
+- '[[_Standards/WikiData/WD~Serbia,403|WD~Serbia,403]]'
+- '[[_Standards/WikiData/WD~Australia,408|WD~Australia,408]]'
+- '[[_Standards/WikiData/WD~North_Korea,423|WD~North_Korea,423]]'
+- '[[_Standards/WikiData/WD~India,668|WD~India,668]]'
+- '[[_Standards/WikiData/WD~Malaysia,833|WD~Malaysia,833]]'
+- '[[_Standards/WikiData/WD~Pakistan,843|WD~Pakistan,843]]'
+- '[[_Standards/WikiData/WD~Taiwan,865|WD~Taiwan,865]]'
+- '[[_Standards/WikiData/WD~Bangladesh,902|WD~Bangladesh,902]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Belgium,31|WD~Belgium,31]]'
+- '[[_Standards/WikiData/WD~Switzerland,39|WD~Switzerland,39]]'
+- '[[_Standards/WikiData/WD~Poland,36|WD~Poland,36]]'
+- '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
+- '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Germany,183|WD~Germany,183]]'
 shares_border_with:
-- '[[_Standards/WikiData/WD~Maldives,826]]'
-- '[[_Standards/WikiData/WD~Seychelles,1042]]'
-- '[[_Standards/WikiData/WD~France,142]]'
-country: '[[_Standards/WikiData/WD~Mauritius,1027]]'
-lowest_point: '[[_Standards/WikiData/WD~Indian_Ocean,1239]]'
-located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Indian_Ocean,1239]]'
+- '[[_Standards/WikiData/WD~Maldives,826|WD~Maldives,826]]'
+- '[[_Standards/WikiData/WD~Seychelles,1042|WD~Seychelles,1042]]'
+- '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
+country: '[[_Standards/WikiData/WD~Mauritius,1027|WD~Mauritius,1027]]'
+lowest_point: '[[_Standards/WikiData/WD~Indian_Ocean,1239|WD~Indian_Ocean,1239]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Indian_Ocean,1239|WD~Indian_Ocean,1239]]'
 official_language:
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~French,150]]'
-capital: '[[_Standards/WikiData/WD~Port_Louis,3929]]'
-part_of: '[[_Standards/WikiData/WD~East_Africa,27407]]'
-continent: '[[_Standards/WikiData/WD~Africa,15]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~French,150|WD~French,150]]'
+capital: '[[_Standards/WikiData/WD~Port_Louis,3929|WD~Port_Louis,3929]]'
+part_of: '[[_Standards/WikiData/WD~East_Africa,27407|WD~East_Africa,27407]]'
+continent: '[[_Standards/WikiData/WD~Africa,15|WD~Africa,15]]'
 unemployment_rate: 8
 VAT_rate: 15
 marriageable_age: 18
@@ -328,7 +328,7 @@ birth_rate:
 - 10.6
 total_fertility_rate: 1.43
 area: 2040
-top_level_Internet_domain: '[[_Standards/WikiData/WD~.mu,43076]]'
+top_level_Internet_domain: '[[_Standards/WikiData/WD~.mu,43076|WD~.mu,43076]]'
 Gini_coefficient: 36.8
 Happy_Planet_Index_score: 51.5
 BTI_Governance_Index:
@@ -751,7 +751,7 @@ dv_UNTERM_Chinese_Formal: 毛里求斯共和国
 dv_UNTERM_French_Formal: la République de Maurice
 dv_UNTERM_Russian: Маврикий
 dv_UNTERM_Russian_Formal: Республика Маврикий
-dv_Region_Name: '[[../../../Africa]]'
+dv_Region_Name: '[[../../../Africa|Africa]]'
 dv_Intermediate_Region_Name: '[[Eastern Africa]]'
 dv_Sub-region_Name: '[[Sub-Saharan Africa]]'
 dv_Region: 2
@@ -789,7 +789,7 @@ dv_is_:
 dv_has_name_de: Mauritius
 dv_Area-Total: 2040
 dv_Area-Land: 2030
-dv_has_place_continent: '[[../../../Africa]]'
+dv_has_place_continent: '[[../../../Africa|Africa]]'
 dv_VehicleCode: MS
 dv_Alcohol-l: 3.7
 dv_Language-Id: 499
@@ -817,7 +817,7 @@ Unicode_character: 🇲🇺
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Mauritius/ReadMe]] 
+[[Mauritius/ReadMe|ReadMe]] 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
@@ -908,7 +908,7 @@ Capital :: [[Port_Louis]]
 
 ![[Coat_of_arms_of_Mauritius.svg|450]]
 
-![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Mauritius.mp3]]
+![[../../../../../../_public/xLarge.public/National-Anthem/Anthem-Mauritius.mp3|Anthem-Mauritius.mp3]]
 
 ![[Flag_of_Mauritius.svg|350]]
 

@@ -142,41 +142,41 @@ aliases:
 - 해바라기
 has_id_wikidata: Q171497
 this_taxon_is_source_of:
-- '[[_Standards/WikiData/WD~sunflower_oil,94787]]'
-- '[[_Standards/WikiData/WD~sunflower_seed,1076906]]'
-- '[[_Standards/WikiData/WD~sunflower_lecithin,57271747]]'
+- '[[_Standards/WikiData/WD~sunflower_oil,94787|WD~sunflower_oil,94787]]'
+- '[[_Standards/WikiData/WD~sunflower_seed,1076906|WD~sunflower_seed,1076906]]'
+- '[[_Standards/WikiData/WD~sunflower_lecithin,57271747|WD~sunflower_lecithin,57271747]]'
 has_use:
-- '[[_Standards/WikiData/WD~medicinal_plant,188840]]'
-- '[[_Standards/WikiData/WD~fodder,211439]]'
-- '[[_Standards/WikiData/WD~food,2095]]'
-- '[[../../../../../../../../../../WikiData/WD~fiber,161]]'
+- '[[_Standards/WikiData/WD~medicinal_plant,188840|WD~medicinal_plant,188840]]'
+- '[[_Standards/WikiData/WD~fodder,211439|WD~fodder,211439]]'
+- '[[_Standards/WikiData/WD~food,2095|WD~food,2095]]'
+- '[[../../../../../../../../../../WikiData/WD~fiber,161|WD~fiber,161]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~medicinal_plant,188840]]'
-- '[[_Standards/WikiData/WD~annual_plant,192691]]'
-- '[[_Standards/WikiData/WD~useful_plant,11992872]]'
-- '[[_Standards/WikiData/WD~plant,756]]'
-IUCN_conservation_status: '[[_Standards/WikiData/WD~Least_Concern,211005]]'
+- '[[_Standards/WikiData/WD~medicinal_plant,188840|WD~medicinal_plant,188840]]'
+- '[[_Standards/WikiData/WD~annual_plant,192691|WD~annual_plant,192691]]'
+- '[[_Standards/WikiData/WD~useful_plant,11992872|WD~useful_plant,11992872]]'
+- '[[_Standards/WikiData/WD~plant,756|WD~plant,756]]'
+IUCN_conservation_status: '[[_Standards/WikiData/WD~Least_Concern,211005|WD~Least_Concern,211005]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_75,112869482]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_75,112869482|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_75,112869482]]'
 Dewey_Decimal_Classification:
 - 583.99
 - 635.93399
-NatureServe_conservation_status: '[[_Standards/WikiData/WD~secure,55707349]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
-hardiness_of_plant: '[[_Standards/WikiData/WD~2,99546131]]'
-flower_color: '[[_Standards/WikiData/WD~yellow,943]]'
+NatureServe_conservation_status: '[[_Standards/WikiData/WD~secure,55707349|WD~secure,55707349]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615|WD~WikiProject_Invasion_Biology,56241615]]'
+hardiness_of_plant: '[[_Standards/WikiData/WD~2,99546131|WD~2,99546131]]'
+flower_color: '[[_Standards/WikiData/WD~yellow,943|WD~yellow,943]]'
 taxon_range:
-- '[[_Standards/WikiData/WD~Beijing,956]]'
-- '[[_Standards/WikiData/WD~Tianjin,11736]]'
-- '[[_Standards/WikiData/WD~Guangdong,15175]]'
-- '[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Fujian,41705]]'
-taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-parent_taxon: '[[_Standards/WikiData/WD~Helianthus,26949]]'
+- '[[_Standards/WikiData/WD~Beijing,956|WD~Beijing,956]]'
+- '[[_Standards/WikiData/WD~Tianjin,11736|WD~Tianjin,11736]]'
+- '[[_Standards/WikiData/WD~Guangdong,15175|WD~Guangdong,15175]]'
+- '[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269|WD~Tibet_Autonomous_Region,17269]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Fujian,41705|WD~Fujian,41705]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432|WD~species,7432]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+parent_taxon: '[[_Standards/WikiData/WD~Helianthus,26949|WD~Helianthus,26949]]'
 ITIS_TSN: 36616
 taxon_common_name:
 - mirasol

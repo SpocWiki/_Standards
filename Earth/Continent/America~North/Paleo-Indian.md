@@ -38,12 +38,12 @@ aliases:
 - 古印地安人
 - 고인디언
 has_id_wikidata: Q888099
-instance_of: '[[_Standards/WikiData/WD~ethnic_group,41710]]'
+instance_of: '[[_Standards/WikiData/WD~ethnic_group,41710|WD~ethnic_group,41710]]'
 Commons_category: Lithic period
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Poblamiento%20de%20America%20-%20Teor%C3%ADa%20P%20Tard%C3%ADo.png
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Paleo-Indians,888099]]'
+  - '[[../../../WikiData/WD~Paleo-Indians,888099|WD~Paleo-Indians,888099]]'
   - '[[/_Standards/Earth/Continent/America~North/Paleo-Indian|Paleo-Indian]]'
   - '[[/_public/Earth/Continent/America~North/Paleo-Indian.public|Paleo-Indian.public]]'
   - '[[/_internal/Earth/Continent/America~North/Paleo-Indian.internal|Paleo-Indian.internal]]'
@@ -52,7 +52,7 @@ dv_is_:
   - '[[/_personal/Earth/Continent/America~North/Paleo-Indian.personal|Paleo-Indian.personal]]'
   - '[[/_secret/Earth/Continent/America~North/Paleo-Indian.secret|Paleo-Indian.secret]]'
 dv_is_same_as:
-- '[[../../../WikiData/WD~Paleo-Indians,888099]]'
+- '[[../../../WikiData/WD~Paleo-Indians,888099|WD~Paleo-Indians,888099]]'
 - '[[/_Standards/Earth/Continent/America~North/Paleo-Indian|Paleo-Indian]]'
 - '[[/_public/Earth/Continent/America~North/Paleo-Indian.public|Paleo-Indian.public]]'
 - '[[/_internal/Earth/Continent/America~North/Paleo-Indian.internal|Paleo-Indian.internal]]'

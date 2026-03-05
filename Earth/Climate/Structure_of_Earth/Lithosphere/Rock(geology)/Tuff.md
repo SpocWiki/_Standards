@@ -42,14 +42,14 @@ aliases:
 - 凝灰岩
 - 응회암
 has_id_wikidata: Q484924
-made_from_material: '[[_Standards/WikiData/WD~volcanic_ash,107099]]'
-different_from: '[[_Standards/WikiData/WD~tufa,193685]]'
-subclass_of: '[[_Standards/WikiData/WD~pyroclastic_rock,512121]]'
+made_from_material: '[[_Standards/WikiData/WD~volcanic_ash,107099|WD~volcanic_ash,107099]]'
+different_from: '[[_Standards/WikiData/WD~tufa,193685|WD~tufa,193685]]'
+subclass_of: '[[_Standards/WikiData/WD~pyroclastic_rock,512121|WD~pyroclastic_rock,512121]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
-award_received: '[[_Standards/WikiData/WD~Rock_of_the_Year,1519491]]'
-instance_of: '[[_Standards/WikiData/WD~rock_type,11871901]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+award_received: '[[_Standards/WikiData/WD~Rock_of_the_Year,1519491|WD~Rock_of_the_Year,1519491]]'
+instance_of: '[[_Standards/WikiData/WD~rock_type,11871901|WD~rock_type,11871901]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/HoleInTheWallTuff.JPG
 Dewey_Decimal_Classification: 552.23
 exact_match: http://purl.obolibrary.org/obo/ENVO_01000661

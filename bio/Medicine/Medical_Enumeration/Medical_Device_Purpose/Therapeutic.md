@@ -33,9 +33,9 @@ Tag Instances like this:
 
 A medical device used for therapeutic purposes.
 
-#has_/parent_class :: [[../MedicalDevicePurpose]]  
+#has_/parent_class :: [[../MedicalDevicePurpose|MedicalDevicePurpose]]  
 
-#is_/enum_of :: [[../MedicalDevicePurpose]]  
+#is_/enum_of :: [[../MedicalDevicePurpose|MedicalDevicePurpose]]  
 
 ## Confidential Links & Embeds: 
 

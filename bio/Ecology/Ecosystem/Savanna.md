@@ -50,21 +50,21 @@ aliases:
 - 사바나
 has_id_wikidata: Q42320
 instance_of:
-- '[[_Standards/WikiData/WD~biome,101998]]'
-- '[[_Standards/WikiData/WD~ecosystem_type,125824188]]'
+- '[[_Standards/WikiData/WD~biome,101998|WD~biome,101998]]'
+- '[[_Standards/WikiData/WD~ecosystem_type,125824188|WD~ecosystem_type,125824188]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
-- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Fünfzehnter_Band,136385610]]'
-different_from: '[[_Standards/WikiData/WD~Savana,3047048]]'
-subclass_of: '[[_Standards/WikiData/WD~ecosystem,37813]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- "[[_Standards/WikiData/WD~Collier's_New_Encyclopedia,_1921,19047539|WD~Collier's_New_Encyclopedia,_1921,19047539]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637|WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
+- '[[_Standards/WikiData/WD~Meyer_s_Universum,_Fünfzehnter_Band,136385610|WD~Meyer_s_Universum,_Fünfzehnter_Band,136385610]]'
+different_from: '[[_Standards/WikiData/WD~Savana,3047048|WD~Savana,3047048]]'
+subclass_of: '[[_Standards/WikiData/WD~ecosystem,37813|WD~ecosystem,37813]]'
 OmegaWiki_Defined_Meaning: 1505696
 Commons_category: Savannas
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Grensboom%20op%20de%20Vierschaar%20te%20Zottegem%20-%20372876%20-%20onroerenderfgoed.jpg

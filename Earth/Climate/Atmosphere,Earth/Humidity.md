@@ -88,17 +88,17 @@ aliases:
 - 습도
 has_id_wikidata: Q180600
 subclass_of:
-- '[[_Standards/WikiData/WD~moisture,217651]]'
-- '[[_Standards/WikiData/WD~intensive_quantity,3387041]]'
-- '[[_Standards/WikiData/WD~climatic_factor,11548051]]'
+- '[[_Standards/WikiData/WD~moisture,217651|WD~moisture,217651]]'
+- '[[_Standards/WikiData/WD~intensive_quantity,3387041|WD~intensive_quantity,3387041]]'
+- '[[_Standards/WikiData/WD~climatic_factor,11548051|WD~climatic_factor,11548051]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 different_from:
-- '[[_Standards/WikiData/WD~relative_humidity,2499617]]'
-- '[[_Standards/WikiData/WD~air_humidity,69639594]]'
-characteristic_of: '[[_Standards/WikiData/WD~air,7391292]]'
+- '[[_Standards/WikiData/WD~relative_humidity,2499617|WD~relative_humidity,2499617]]'
+- '[[_Standards/WikiData/WD~air_humidity,69639594|WD~air_humidity,69639594]]'
+characteristic_of: '[[_Standards/WikiData/WD~air,7391292|WD~air,7391292]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fog.jpg
 ISQ_dimension: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mn>1</mn></mstyle></mrow></math>
 Digital_Atlas_of_Idaho_URL: https://digitalatlas.cose.isu.edu/clima/imaging/humid.htm
@@ -112,7 +112,7 @@ MeSH_tree_code:
 Commons_category: Humidity
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Humidity,180600]]'
+  - '[[../../../WikiData/WD~Humidity,180600|WD~Humidity,180600]]'
   - '[[/_Standards/Earth/Climate/Atmosphere,Earth/Humidity|Humidity]]'
   - '[[/_public/Earth/Climate/Atmosphere,Earth/Humidity.public|Humidity.public]]'
   - '[[/_internal/Earth/Climate/Atmosphere,Earth/Humidity.internal|Humidity.internal]]'
@@ -121,7 +121,7 @@ dv_is_:
   - '[[/_personal/Earth/Climate/Atmosphere,Earth/Humidity.personal|Humidity.personal]]'
   - '[[/_secret/Earth/Climate/Atmosphere,Earth/Humidity.secret|Humidity.secret]]'
 dv_is_same_as:
-- '[[../../../WikiData/WD~Humidity,180600]]'
+- '[[../../../WikiData/WD~Humidity,180600|WD~Humidity,180600]]'
 - '[[/_Standards/Earth/Climate/Atmosphere,Earth/Humidity|Humidity]]'
 - '[[/_public/Earth/Climate/Atmosphere,Earth/Humidity.public|Humidity.public]]'
 - '[[/_internal/Earth/Climate/Atmosphere,Earth/Humidity.internal|Humidity.internal]]'

@@ -79,26 +79,26 @@ aliases:
 - 수산화 나트륨
 has_id_wikidata: Q102769
 has_part_s_:
-- '[[_Standards/WikiData/WD~hydroxide_ion,199877]]'
-- '[[_Standards/WikiData/WD~sodium_ion,3154110]]'
-- '[[_Standards/WikiData/WD~hydrogen,556]]'
-- '[[_Standards/WikiData/WD~oxygen,629]]'
-- '[[_Standards/WikiData/WD~sodium,658]]'
+- '[[_Standards/WikiData/WD~hydroxide_ion,199877|WD~hydroxide_ion,199877]]'
+- '[[_Standards/WikiData/WD~sodium_ion,3154110|WD~sodium_ion,3154110]]'
+- '[[_Standards/WikiData/WD~hydrogen,556|WD~hydrogen,556]]'
+- '[[_Standards/WikiData/WD~oxygen,629|WD~oxygen,629]]'
+- '[[_Standards/WikiData/WD~sodium,658|WD~sodium,658]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~hygroscopy,216678]]'
-- '[[_Standards/WikiData/WD~deliquescence,3705026]]'
-subject_has_role: '[[_Standards/WikiData/WD~corrosive_substance,258158]]'
+- '[[_Standards/WikiData/WD~hygroscopy,216678|WD~hygroscopy,216678]]'
+- '[[_Standards/WikiData/WD~deliquescence,3705026|WD~deliquescence,3705026]]'
+subject_has_role: '[[_Standards/WikiData/WD~corrosive_substance,258158|WD~corrosive_substance,258158]]'
 part_of:
-- '[[_Standards/WikiData/WD~soda_lime,754282]]'
-- '[[_Standards/WikiData/WD~caustic_soda_lye,72090845]]'
+- '[[_Standards/WikiData/WD~soda_lime,754282|WD~soda_lime,754282]]'
+- '[[_Standards/WikiData/WD~caustic_soda_lye,72090845|WD~caustic_soda_lye,72090845]]'
 has_use:
-- '[[_Standards/WikiData/WD~acidity_regulator,898753]]'
-- '[[_Standards/WikiData/WD~drain_cleaner,1754157]]'
-subclass_of: '[[_Standards/WikiData/WD~alkali_hydroxide,3143826]]'
-associated_hazard: '[[_Standards/WikiData/WD~sodium_hydroxide_exposure,21175311]]'
-safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+- '[[_Standards/WikiData/WD~acidity_regulator,898753|WD~acidity_regulator,898753]]'
+- '[[_Standards/WikiData/WD~drain_cleaner,1754157|WD~drain_cleaner,1754157]]'
+subclass_of: '[[_Standards/WikiData/WD~alkali_hydroxide,3143826|WD~alkali_hydroxide,3143826]]'
+associated_hazard: '[[_Standards/WikiData/WD~sodium_hydroxide_exposure,21175311|WD~sodium_hydroxide_exposure,21175311]]'
+safety_classification_and_labelling: '[[_Standards/WikiData/WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288|WD~NFPA_704_Standard_System_for_the_Identification_of_the_Hazards_of_Materials_for_Emergency_Response,51139288]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_chemical_entity,113145171|WD~type_of_chemical_entity,113145171]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635|WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
 standard_enthalpy_of_formation: -425.6
 vapor_pressure: 0
 immediately_dangerous_to_life_or_health: 10

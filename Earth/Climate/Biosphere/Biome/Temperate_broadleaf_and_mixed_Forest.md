@@ -54,16 +54,16 @@ aliases:
 - 온대 활엽수혼합림
 has_id_wikidata: Q622896
 instance_of:
-- '[[_Standards/WikiData/WD~biome,101998]]'
-- '[[_Standards/WikiData/WD~WWF_biome,119820518]]'
-subclass_of: '[[_Standards/WikiData/WD~temperate_forest,3079197]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[_Standards/WikiData/WD~biome,101998|WD~biome,101998]]'
+- '[[_Standards/WikiData/WD~WWF_biome,119820518|WD~WWF_biome,119820518]]'
+subclass_of: '[[_Standards/WikiData/WD~temperate_forest,3079197|WD~temperate_forest,3079197]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 OmegaWiki_Defined_Meaning: 5061
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Biome%20map%2004.svg
 Commons_category: Temperate broadleaf and mixed forests
 dv_is_:
   same_as:
-  - '[[../../../../WikiData/WD~Temperate_broadleaf_and_mixed_forest,622896]]'
+  - '[[../../../../WikiData/WD~Temperate_broadleaf_and_mixed_forest,622896|WD~Temperate_broadleaf_and_mixed_forest,622896]]'
   - '[[/_Standards/Earth/Climate/Biosphere/Biome/Temperate_broadleaf_and_mixed_Forest|Temperate_broadleaf_and_mixed_Forest]]'
   - '[[/_public/Earth/Climate/Biosphere/Biome/Temperate_broadleaf_and_mixed_Forest.public|Temperate_broadleaf_and_mixed_Forest.public]]'
   - '[[/_internal/Earth/Climate/Biosphere/Biome/Temperate_broadleaf_and_mixed_Forest.internal|Temperate_broadleaf_and_mixed_Forest.internal]]'
@@ -72,7 +72,7 @@ dv_is_:
   - '[[/_personal/Earth/Climate/Biosphere/Biome/Temperate_broadleaf_and_mixed_Forest.personal|Temperate_broadleaf_and_mixed_Forest.personal]]'
   - '[[/_secret/Earth/Climate/Biosphere/Biome/Temperate_broadleaf_and_mixed_Forest.secret|Temperate_broadleaf_and_mixed_Forest.secret]]'
 dv_is_same_as:
-- '[[../../../../WikiData/WD~Temperate_broadleaf_and_mixed_forest,622896]]'
+- '[[../../../../WikiData/WD~Temperate_broadleaf_and_mixed_forest,622896|WD~Temperate_broadleaf_and_mixed_forest,622896]]'
 - '[[/_Standards/Earth/Climate/Biosphere/Biome/Temperate_broadleaf_and_mixed_Forest|Temperate_broadleaf_and_mixed_Forest]]'
 - '[[/_public/Earth/Climate/Biosphere/Biome/Temperate_broadleaf_and_mixed_Forest.public|Temperate_broadleaf_and_mixed_Forest.public]]'
 - '[[/_internal/Earth/Climate/Biosphere/Biome/Temperate_broadleaf_and_mixed_Forest.internal|Temperate_broadleaf_and_mixed_Forest.internal]]'

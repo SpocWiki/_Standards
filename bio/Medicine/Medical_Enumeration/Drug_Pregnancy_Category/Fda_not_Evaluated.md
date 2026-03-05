@@ -35,9 +35,9 @@ Tag Instances like this:
 
 A designation that the drug in question has not been assigned a pregnancy category designation by the US FDA.
 
-#has_/parent_class :: [[../DrugPregnancyCategory]]  
+#has_/parent_class :: [[../DrugPregnancyCategory|DrugPregnancyCategory]]  
 
-#is_/enum_of :: [[../DrugPregnancyCategory]]  
+#is_/enum_of :: [[../DrugPregnancyCategory|DrugPregnancyCategory]]  
 
 ## Confidential Links & Embeds: 
 

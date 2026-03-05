@@ -40,15 +40,15 @@ aliases:
 - 데시벨
 has_id_wikidata: Q5329
 instance_of:
-- '[[_Standards/WikiData/WD~non_SI_unit_mentioned_in_and_accepted_with_the_SI,3268848]]'
-- '[[_Standards/WikiData/WD~logarithmic_unit,17342348]]'
-- '[[_Standards/WikiData/WD~SI_accepted_non_SI_unit,106839753]]'
+- '[[_Standards/WikiData/WD~non_SI_unit_mentioned_in_and_accepted_with_the_SI,3268848|WD~non_SI_unit_mentioned_in_and_accepted_with_the_SI,3268848]]'
+- '[[_Standards/WikiData/WD~logarithmic_unit,17342348|WD~logarithmic_unit,17342348]]'
+- '[[_Standards/WikiData/WD~SI_accepted_non_SI_unit,106839753|WD~SI_accepted_non_SI_unit,106839753]]'
 measured_physical_quantity:
-- '[[_Standards/WikiData/WD~logarithmic_quantity,11349892]]'
-- '[[_Standards/WikiData/WD~sound_pressure_level,14515278]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27149145,27149145]]'
+- '[[_Standards/WikiData/WD~logarithmic_quantity,11349892|WD~logarithmic_quantity,11349892]]'
+- '[[_Standards/WikiData/WD~sound_pressure_level,14515278|WD~sound_pressure_level,14515278]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q27149145,27149145|WD~Q27149145,27149145]]'
 conversion_to_standard_unit: 0.1
-named_after: '[[_Standards/WikiData/WD~Alexander_Graham_Bell,34286]]'
+named_after: '[[_Standards/WikiData/WD~Alexander_Graham_Bell,34286|WD~Alexander_Graham_Bell,34286]]'
 OmegaWiki_Defined_Meaning: 4652
 UCUM_code: dB
 unit_symbol:

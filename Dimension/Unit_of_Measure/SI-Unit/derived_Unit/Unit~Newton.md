@@ -52,26 +52,26 @@ aliases:
 - 뉴턴
 has_id_wikidata: Q12438
 instance_of:
-- '[[_Standards/WikiData/WD~SI_derived_unit,208469]]'
-- '[[_Standards/WikiData/WD~unit_of_force,15976022]]'
-- '[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328]]'
-- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
+- '[[_Standards/WikiData/WD~SI_derived_unit,208469|WD~SI_derived_unit,208469]]'
+- '[[_Standards/WikiData/WD~unit_of_force,15976022|WD~unit_of_force,15976022]]'
+- '[[_Standards/WikiData/WD~SI_unit_with_special_name,68618328|WD~SI_unit_with_special_name,68618328]]'
+- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057|WD~UCUM_derived_unit,82047057]]'
 different_from:
-- '[[_Standards/WikiData/WD~Newton,568182]]'
-- '[[_Standards/WikiData/WD~N,27553]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~kilogram_metre_per_square_second,106645249]]'
+- '[[_Standards/WikiData/WD~Newton,568182|WD~Newton,568182]]'
+- '[[_Standards/WikiData/WD~N,27553|WD~N,27553]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~kilogram_metre_per_square_second,106645249|WD~kilogram_metre_per_square_second,106645249]]'
 in_defining_formula:
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">m</mi></mrow></mstyle></mrow></math>
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">s</mi></mrow></mstyle></mrow></math>
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">k</mi><mi mathvariant="normal">g</mi></mrow></mrow></mstyle></mrow></math>
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">N</mi></mrow></mstyle></mrow></math>
-named_after: '[[_Standards/WikiData/WD~Isaac_Newton,935]]'
-measured_physical_quantity: '[[_Standards/WikiData/WD~force,11402]]'
+named_after: '[[_Standards/WikiData/WD~Isaac_Newton,935|WD~Isaac_Newton,935]]'
+measured_physical_quantity: '[[_Standards/WikiData/WD~force,11402|WD~force,11402]]'
 derived_from_base_unit:
-- '[[_Standards/WikiData/WD~kilogram,11570]]'
-- '[[_Standards/WikiData/WD~second,11574]]'
-- '[[_Standards/WikiData/WD~metre,11573]]'
+- '[[_Standards/WikiData/WD~kilogram,11570|WD~kilogram,11570]]'
+- '[[_Standards/WikiData/WD~second,11574|WD~second,11574]]'
+- '[[_Standards/WikiData/WD~metre,11573|WD~metre,11573]]'
 conversion_to_SI_unit: 1
 UCUM_code: N
 OmegaWiki_Defined_Meaning: 336152

@@ -79,17 +79,17 @@ aliases:
 - 닭목
 has_id_wikidata: Q21659
 described_by_source:
-- '[[../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~The_Encyclopedia_Americana,19085957|WD~The_Encyclopedia_Americana,19085957]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 parent_taxon:
-- '[[_Standards/WikiData/WD~Pangalliformes,15731102]]'
-- '[[_Standards/WikiData/WD~bird,5113]]'
+- '[[_Standards/WikiData/WD~Pangalliformes,15731102|WD~Pangalliformes,15731102]]'
+- '[[_Standards/WikiData/WD~bird,5113|WD~bird,5113]]'
 start_time: -55000000-06
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_range: '[[_Standards/WikiData/WD~Brazil,155]]'
-taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_range: '[[_Standards/WikiData/WD~Brazil,155|WD~Brazil,155]]'
+taxon_rank: '[[_Standards/WikiData/WD~order,36602|WD~order,36602]]'
 OmegaWiki_Defined_Meaning: 1597
 ITIS_TSN: 175693
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Meleagris%20ocellata1.jpg

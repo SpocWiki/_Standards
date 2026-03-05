@@ -12,8 +12,8 @@ aliases:
 - 扁足亚目
 - 扁足亞目
 has_id_wikidata: Q1976132
-taxon_rank: '[[_Standards/WikiData/WD~suborder,5867959]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~suborder,5867959|WD~suborder,5867959]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Platypus.jpg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Platypus%20BrokenRiver%20QLD%20Australia.jpg

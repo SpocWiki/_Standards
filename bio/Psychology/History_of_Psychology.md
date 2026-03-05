@@ -53,13 +53,13 @@ aliases:
 - 心理學史
 - 심리학의 역사
 has_id_wikidata: Q261215
-subclass_of: '[[_Standards/WikiData/WD~history_of_the_social_sciences,5076869]]'
+subclass_of: '[[_Standards/WikiData/WD~history_of_the_social_sciences,5076869|WD~history_of_the_social_sciences,5076869]]'
 instance_of:
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~aspect_of_history,17524420]]'
-practiced_by: '[[_Standards/WikiData/WD~historian_of_psychology,112132086]]'
-is_the_study_of: '[[_Standards/WikiData/WD~psychology,9418]]'
-facet_of: '[[_Standards/WikiData/WD~psychology,9418]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~aspect_of_history,17524420|WD~aspect_of_history,17524420]]'
+practiced_by: '[[_Standards/WikiData/WD~historian_of_psychology,112132086|WD~historian_of_psychology,112132086]]'
+is_the_study_of: '[[_Standards/WikiData/WD~psychology,9418|WD~psychology,9418]]'
+facet_of: '[[_Standards/WikiData/WD~psychology,9418|WD~psychology,9418]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q13955%20%28ara%29-Spotless%20Mind1988-%D8%AA%D8%A7%D8%B1%D9%8A%D8%AE%20%D8%B9%D9%84%D9%85%20%D8%A7%D9%84%D9%86%D9%81%D8%B3.wav
 Basisklassifikation: 77.01
 Krugosvet_article_archived_: gumanitarnye_nauki/psihologiya_i_pedagogika/PSIHOLOGIYA_ISTORIYA.html

@@ -201,11 +201,11 @@ dv_has_:
 
 #is_/same_as :: [[../../../../../../../../../../../../../../../../../../WikiData/WD~Tapirus,128001|WD~Tapirus,128001]]  
 
-![[Tapir/Central_American_Tapir-Belize20.jpg]]
+![[Tapir/Central_American_Tapir-Belize20.jpg|Central_American_Tapir-Belize20.jpg]]
 
-![[Tapir/Hamburg_zoo_tapir.jpg]]
+![[Tapir/Hamburg_zoo_tapir.jpg|Hamburg_zoo_tapir.jpg]]
 
-![[Tapir/Tapir_with_outstretched_proboscis.jpg]]
+![[Tapir/Tapir_with_outstretched_proboscis.jpg|Tapir_with_outstretched_proboscis.jpg]]
 
 ## #has_/text_of_/abstract 
 

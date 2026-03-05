@@ -103,32 +103,32 @@ aliases:
 has_id_wikidata: Q19557
 type: ElementGroup
 part_of:
-- '[[_Standards/WikiData/WD~main_group,428830]]'
-- '[[_Standards/WikiData/WD~group_1,10801007]]'
-- '[[_Standards/WikiData/WD~periodic_table,10693]]'
+- '[[_Standards/WikiData/WD~main_group,428830|WD~main_group,428830]]'
+- '[[_Standards/WikiData/WD~group_1,10801007|WD~group_1,10801007]]'
+- '[[_Standards/WikiData/WD~periodic_table,10693|WD~periodic_table,10693]]'
 different_from:
-- '[[_Standards/WikiData/WD~alkali,485742]]'
-- '[[_Standards/WikiData/WD~alkaline_earth_metal,19563]]'
+- '[[_Standards/WikiData/WD~alkali,485742|WD~alkali,485742]]'
+- '[[_Standards/WikiData/WD~alkaline_earth_metal,19563|WD~alkaline_earth_metal,19563]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~simple_substance,2512777]]'
-- '[[_Standards/WikiData/WD~water_reactive_substance,7973224]]'
-- '[[_Standards/WikiData/WD~metal,11426]]'
-does_not_have_part: '[[_Standards/WikiData/WD~hydrogen,556]]'
+- '[[_Standards/WikiData/WD~simple_substance,2512777|WD~simple_substance,2512777]]'
+- '[[_Standards/WikiData/WD~water_reactive_substance,7973224|WD~water_reactive_substance,7973224]]'
+- '[[_Standards/WikiData/WD~metal,11426|WD~metal,11426]]'
+does_not_have_part: '[[_Standards/WikiData/WD~hydrogen,556|WD~hydrogen,556]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~lithium,568]]'
-- '[[_Standards/WikiData/WD~sodium,658]]'
-- '[[_Standards/WikiData/WD~francium,671]]'
-- '[[_Standards/WikiData/WD~potassium,703]]'
-- '[[_Standards/WikiData/WD~rubidium,895]]'
-- '[[_Standards/WikiData/WD~caesium,1108]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+- '[[_Standards/WikiData/WD~lithium,568|WD~lithium,568]]'
+- '[[_Standards/WikiData/WD~sodium,658|WD~sodium,658]]'
+- '[[_Standards/WikiData/WD~francium,671|WD~francium,671]]'
+- '[[_Standards/WikiData/WD~potassium,703|WD~potassium,703]]'
+- '[[_Standards/WikiData/WD~rubidium,895|WD~rubidium,895]]'
+- '[[_Standards/WikiData/WD~caesium,1108|WD~caesium,1108]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 OmegaWiki_Defined_Meaning: 1130
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Cesium.jpg
@@ -145,7 +145,7 @@ MeSH_tree_code:
 - D01.552.528
 dv_is_:
   same_as:
-  - '[[../../WikiData/WD~Alkali_metal,19557]]'
+  - '[[../../WikiData/WD~Alkali_metal,19557|WD~Alkali_metal,19557]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali|Group-01-Alkali]]'
   - '[[/_public/Chemistry/Chemical_Element/Group-01-Alkali.public|Group-01-Alkali.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali.internal|Group-01-Alkali.internal]]'
@@ -154,7 +154,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali.personal|Group-01-Alkali.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali.secret|Group-01-Alkali.secret]]'
 dv_is_same_as:
-- '[[../../WikiData/WD~Alkali_metal,19557]]'
+- '[[../../WikiData/WD~Alkali_metal,19557|WD~Alkali_metal,19557]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali|Group-01-Alkali]]'
 - '[[/_public/Chemistry/Chemical_Element/Group-01-Alkali.public|Group-01-Alkali.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali.internal|Group-01-Alkali.internal]]'
@@ -294,15 +294,15 @@ dv_has_:
 
 #chemic/Group 
 
-1)[[Group-01-Alkali/Hydrogen]]]
-2) [[Group-01-Alkali/Lithium]]
-3) [[Group-01-Alkali/Sodium]]
-4) [[Group-01-Alkali/Potassium]]
-5) [[Group-01-Alkali/Rubidium]]
-6) [[Group-01-Alkali/Caesium]]
-7) [[Group-01-Alkali/Francium]]
+1)[[Group-01-Alkali/Hydrogen|Hydrogen]]]
+2) [[Group-01-Alkali/Lithium|Lithium]]
+3) [[Group-01-Alkali/Sodium|Sodium]]
+4) [[Group-01-Alkali/Potassium|Potassium]]
+5) [[Group-01-Alkali/Rubidium|Rubidium]]
+6) [[Group-01-Alkali/Caesium|Caesium]]
+7) [[Group-01-Alkali/Francium|Francium]]
 
-#is_/same_as :: [[../../WikiData/WD~Alkali_metal,19557]] 
+#is_/same_as :: [[../../WikiData/WD~Alkali_metal,19557|WD~Alkali_metal,19557]] 
 
 ## #has_/text_of_/abstract 
 

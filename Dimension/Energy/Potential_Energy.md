@@ -89,19 +89,19 @@ aliases:
 - 위치에네르기
 has_id_wikidata: Q155640
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~mechanical_energy,184550]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~mechanical_energy,184550|WD~mechanical_energy,184550]]'
 different_from:
-- '[[_Standards/WikiData/WD~scalar_potential,1856609]]'
-- '[[_Standards/WikiData/WD~potential,12559031]]'
-instance_of: '[[_Standards/WikiData/WD~form_of_energy,3935690]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~scalar_potential,1856609|WD~scalar_potential,1856609]]'
+- '[[_Standards/WikiData/WD~potential,12559031|WD~potential,12559031]]'
+instance_of: '[[_Standards/WikiData/WD~form_of_energy,3935690|WD~form_of_energy,3935690]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~ISO_80000_4_2006_Quantities_and_units_Part_4_Mechanics,26711933]]'
-- '[[_Standards/WikiData/WD~ISO_80000_4_2019_Quantities_and_units_Part_4_Mechanics,73391977]]'
+- '[[_Standards/WikiData/WD~ISO_80000_4_2006_Quantities_and_units_Part_4_Mechanics,26711933|WD~ISO_80000_4_2006_Quantities_and_units_Part_4_Mechanics,26711933]]'
+- '[[_Standards/WikiData/WD~ISO_80000_4_2019_Quantities_and_units_Part_4_Mechanics,73391977|WD~ISO_80000_4_2019_Quantities_and_units_Part_4_Mechanics,73391977]]'
 recommended_unit_of_measurement:
-- '[[_Standards/WikiData/WD~kilogram_square_metre_per_square_second,106681350]]'
-- '[[_Standards/WikiData/WD~joule,25269]]'
+- '[[_Standards/WikiData/WD~kilogram_square_metre_per_square_second,106681350|WD~kilogram_square_metre_per_square_second,106681350]]'
+- '[[_Standards/WikiData/WD~joule,25269|WD~joule,25269]]'
 ISQ_dimension: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AB</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn></mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AC</mi></mrow><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5B3</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mo stretchy=\"false\">&#x2212;</mo><mn>2</mn></mrow></mrow></msup></mstyle></mrow></math>"
 quantity_symbol_LaTeX_:
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi mathvariant="normal">&#x03A0;</mi></mstyle></mrow></math>
@@ -109,7 +109,7 @@ quantity_symbol_LaTeX_:
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>V</mi></mstyle></mrow></math>
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi mathvariant="normal">&#x03A6;</mi></mstyle></mrow></math>
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><msub><mi>E</mi><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">p</mi></mrow></mrow></msub></mstyle></mrow></math>
-has_effect: '[[_Standards/WikiData/WD~kinetic_energy,46276]]'
+has_effect: '[[_Standards/WikiData/WD~kinetic_energy,46276|WD~kinetic_energy,46276]]'
 in_defining_formula:
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>V</mi></mstyle></mrow></math>
 - "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D493</mi></mrow></mstyle></mrow></math>"

@@ -66,25 +66,25 @@ aliases:
 - 선 페스트
 has_id_wikidata: Q217519
 different_from:
-- '[[_Standards/WikiData/WD~plague,133780]]'
-- '[[_Standards/WikiData/WD~Q15962797,15962797]]'
+- '[[_Standards/WikiData/WD~plague,133780|WD~plague,133780]]'
+- '[[_Standards/WikiData/WD~Q15962797,15962797|WD~Q15962797,15962797]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~plague,133780]]'
-- '[[_Standards/WikiData/WD~lymph_node_disease,18558262]]'
-- '[[_Standards/WikiData/WD~disease,12136]]'
-has_cause: '[[_Standards/WikiData/WD~Yersinia_pestis,153875]]'
-anatomical_locations: '[[_Standards/WikiData/WD~lymph_node,170758]]'
+- '[[_Standards/WikiData/WD~plague,133780|WD~plague,133780]]'
+- '[[_Standards/WikiData/WD~lymph_node_disease,18558262|WD~lymph_node_disease,18558262]]'
+- '[[_Standards/WikiData/WD~disease,12136|WD~disease,12136]]'
+has_cause: '[[_Standards/WikiData/WD~Yersinia_pestis,153875|WD~Yersinia_pestis,153875]]'
+anatomical_locations: '[[_Standards/WikiData/WD~lymph_node,170758|WD~lymph_node,170758]]'
 drug_or_therapy_used_for_treatment:
-- '[[_Standards/WikiData/WD~ciprofloxacin,256602]]'
-- '[[_Standards/WikiData/WD~doxycycline,422442]]'
-- '[[_Standards/WikiData/WD~gentamicin,422482]]'
-- '[[_Standards/WikiData/WD~Xadani,20126637]]'
-health_specialty: '[[_Standards/WikiData/WD~infectious_diseases,788926]]'
+- '[[_Standards/WikiData/WD~ciprofloxacin,256602|WD~ciprofloxacin,256602]]'
+- '[[_Standards/WikiData/WD~doxycycline,422442|WD~doxycycline,422442]]'
+- '[[_Standards/WikiData/WD~gentamicin,422482|WD~gentamicin,422482]]'
+- '[[_Standards/WikiData/WD~Xadani,20126637|WD~Xadani,20126637]]'
+health_specialty: '[[_Standards/WikiData/WD~infectious_diseases,788926|WD~infectious_diseases,788926]]'
 symptoms_and_signs:
-- '[[_Standards/WikiData/WD~chills,2260058]]'
-- '[[_Standards/WikiData/WD~prostration,3407854]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686]]'
-instance_of: '[[_Standards/WikiData/WD~class_of_disease,112193867]]'
+- '[[_Standards/WikiData/WD~chills,2260058|WD~chills,2260058]]'
+- '[[_Standards/WikiData/WD~prostration,3407854|WD~prostration,3407854]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Medicine,4099686|WD~WikiProject_Medicine,4099686]]'
+instance_of: '[[_Standards/WikiData/WD~class_of_disease,112193867|WD~class_of_disease,112193867]]'
 OmegaWiki_Defined_Meaning: 1074391
 DiseasesDB: 14226
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Yersinia%20pestis.jpg

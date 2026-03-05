@@ -87,32 +87,32 @@ CAS_Registry_Number: 53850-36-5
 chemical_formula: Rf
 Commons_category: Rutherfordium
 Commons_gallery: Rutherfordium
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Albert_Ghiorso,468345]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Albert_Ghiorso,468345|WD~Albert_Ghiorso,468345]]'
 DSSTOX_compound_identifier: DTXCID40669690
 electron_configuration: '[Rn] 5f¹⁴ 6d² 7s²'
 element_symbol: Rf
 InChI: InChI=1S/Rf
 InChIKey: YGPLJIIQQIDVFJ-UHFFFAOYSA-N
 instance_of:
-- '[[_Standards/WikiData/WD~synthetic_element,755992]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
-location_of_discovery: '[[_Standards/WikiData/WD~Dubna,135466]]'
-named_after: '[[_Standards/WikiData/WD~Ernest_Rutherford,9123]]'
+- '[[_Standards/WikiData/WD~synthetic_element,755992|WD~synthetic_element,755992]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
+location_of_discovery: '[[_Standards/WikiData/WD~Dubna,135466|WD~Dubna,135466]]'
+named_after: '[[_Standards/WikiData/WD~Ernest_Rutherford,9123|WD~Ernest_Rutherford,9123]]'
 OmegaWiki_Defined_Meaning: 353376
 part_of:
-- '[[_Standards/WikiData/WD~group_4,189302]]'
-- '[[_Standards/WikiData/WD~period_7,244979]]'
+- '[[_Standards/WikiData/WD~group_4,189302|WD~group_4,189302]]'
+- '[[_Standards/WikiData/WD~period_7,244979|WD~period_7,244979]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-rutherfordium.wav
 PubChem_CID: 56951715
 schematic: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20104%20Rutherfordium.svg
 SpocWebEntityId: 21999
-subclass_of: '[[_Standards/WikiData/WD~transition_metal,19588]]'
+subclass_of: '[[_Standards/WikiData/WD~transition_metal,19588|WD~transition_metal,19588]]'
 time_of_discovery_or_invention: 1964
 type: Element
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Rutherfordium,1226]]'
+  - '[[../../../WikiData/WD~Rutherfordium,1226|WD~Rutherfordium,1226]]'
   - '[[../../../WikiData/WD~Rutherfordium,1226|WD~Rutherfordium,1226]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Group-04-Titanium/Rutherfordium|Rutherfordium]]'
   - '[[/_public/Chemistry/Chemical_Element/Group-04-Titanium/Rutherfordium.public|Rutherfordium.public]]'
@@ -121,7 +121,7 @@ dv_is_:
   - '[[/_private/Chemistry/Chemical_Element/Group-04-Titanium/Rutherfordium.private|Rutherfordium.private]]'
   - '[[/_personal/Chemistry/Chemical_Element/Group-04-Titanium/Rutherfordium.personal|Rutherfordium.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Group-04-Titanium/Rutherfordium.secret|Rutherfordium.secret]]'
-  part_of: '[[../Group-04-Titanium]]'
+  part_of: '[[../Group-04-Titanium|Group-04-Titanium]]'
 dv_has_:
   name_:
     abbreviated: Ru
@@ -312,7 +312,7 @@ dv_has_:
         kj_:
           mol: 0
 dv_is_same_as:
-- '[[../../../WikiData/WD~Rutherfordium,1226]]'
+- '[[../../../WikiData/WD~Rutherfordium,1226|WD~Rutherfordium,1226]]'
 - '[[../../../WikiData/WD~Rutherfordium,1226|WD~Rutherfordium,1226]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Group-04-Titanium/Rutherfordium|Rutherfordium]]'
 - '[[/_public/Chemistry/Chemical_Element/Group-04-Titanium/Rutherfordium.public|Rutherfordium.public]]'
@@ -322,7 +322,7 @@ dv_is_same_as:
 - '[[/_personal/Chemistry/Chemical_Element/Group-04-Titanium/Rutherfordium.personal|Rutherfordium.personal]]'
 - '[[/_secret/Chemistry/Chemical_Element/Group-04-Titanium/Rutherfordium.secret|Rutherfordium.secret]]'
 dv_has_name_group: Group-04-Titanium
-dv_is_part_of: '[[../Group-04-Titanium]]'
+dv_is_part_of: '[[../Group-04-Titanium|Group-04-Titanium]]'
 dv_has_name_en: Rutherfordium
 dv_has_name_de: Kurtschatovium
 dv_has_value_for_weight_u: 0
@@ -350,7 +350,7 @@ Unicode_character: 鑪
 
 
 #chemic/Element 
-#is_/same_as :: [[../../../WikiData/WD~Rutherfordium,1226]] 
+#is_/same_as :: [[../../../WikiData/WD~Rutherfordium,1226|WD~Rutherfordium,1226]] 
 
 has_name_group = `=this.dv_has_name_group` 
 is_part_of = `=this.dv_is_part_of` 

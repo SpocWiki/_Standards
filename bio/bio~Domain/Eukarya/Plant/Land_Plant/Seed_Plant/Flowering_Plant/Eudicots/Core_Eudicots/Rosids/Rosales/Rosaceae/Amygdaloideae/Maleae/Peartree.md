@@ -128,26 +128,26 @@ aliases:
 - 배나무속
 has_id_wikidata: Q434
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]'
-- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_36,112869417]]'
-has_list: '[[_Standards/WikiData/WD~list_of_pear_cultivars,1863197]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112|WD~Zhiwu_Mingshi_Tukao,107402112]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_36,112869417|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_36,112869417]]'
+has_list: '[[_Standards/WikiData/WD~list_of_pear_cultivars,1863197|WD~list_of_pear_cultivars,1863197]]'
 this_taxon_is_source_of:
-- '[[_Standards/WikiData/WD~pearwood,1964340]]'
-- '[[_Standards/WikiData/WD~pear,13099586]]'
-- '[[_Standards/WikiData/WD~Q136648015,136648015]]'
-parent_taxon: '[[../../../../../../../../../../../../../../WikiData/WD~Maleae,2119847]]'
+- '[[_Standards/WikiData/WD~pearwood,1964340|WD~pearwood,1964340]]'
+- '[[_Standards/WikiData/WD~pear,13099586|WD~pear,13099586]]'
+- '[[_Standards/WikiData/WD~Q136648015,136648015|WD~Q136648015,136648015]]'
+parent_taxon: '[[../../../../../../../../../../../../../../WikiData/WD~Maleae,2119847|WD~Maleae,2119847]]'
 source_of_energy:
-- '[[_Standards/WikiData/WD~protein,21296145]]'
-- '[[_Standards/WikiData/WD~carbohydrate,11358]]'
-subclass_of: '[[_Standards/WikiData/WD~tree,10884]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
-has_fruit_type: '[[_Standards/WikiData/WD~pome,41274]]'
+- '[[_Standards/WikiData/WD~protein,21296145|WD~protein,21296145]]'
+- '[[_Standards/WikiData/WD~carbohydrate,11358|WD~carbohydrate,11358]]'
+subclass_of: '[[_Standards/WikiData/WD~tree,10884|WD~tree,10884]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
+has_fruit_type: '[[_Standards/WikiData/WD~pome,41274|WD~pome,41274]]'
 ITIS_TSN: 25294
 taxon_common_name:
 - pear

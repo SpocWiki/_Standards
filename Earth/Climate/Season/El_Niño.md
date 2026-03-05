@@ -48,15 +48,15 @@ aliases:
 - 聖嬰現象
 - 엘니뇨
 has_id_wikidata: Q7939
-opposite_of: '[[_Standards/WikiData/WD~La_Niña,642867]]'
+opposite_of: '[[_Standards/WikiData/WD~La_Niña,642867|WD~La_Niña,642867]]'
 connects_with:
-- '[[_Standards/WikiData/WD~Southern_Oscillation,1423047]]'
-- '[[_Standards/WikiData/WD~El_Niño_Current,19949840]]'
-different_from: '[[_Standards/WikiData/WD~El_Niño,3050124]]'
-part_of: '[[_Standards/WikiData/WD~El_Niño_southern_oscillation,14524818]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
-subclass_of: '[[_Standards/WikiData/WD~meteorological_phenomenon,16332653]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_meteorological_phenomenon,118733587]]'
+- '[[_Standards/WikiData/WD~Southern_Oscillation,1423047|WD~Southern_Oscillation,1423047]]'
+- '[[_Standards/WikiData/WD~El_Niño_Current,19949840|WD~El_Niño_Current,19949840]]'
+different_from: '[[_Standards/WikiData/WD~El_Niño,3050124|WD~El_Niño,3050124]]'
+part_of: '[[_Standards/WikiData/WD~El_Niño_southern_oscillation,14524818|WD~El_Niño_southern_oscillation,14524818]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047|WD~WikiProject_Climate_change,15305047]]'
+subclass_of: '[[_Standards/WikiData/WD~meteorological_phenomenon,16332653|WD~meteorological_phenomenon,16332653]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_meteorological_phenomenon,118733587|WD~type_of_meteorological_phenomenon,118733587]]'
 OmegaWiki_Defined_Meaning: 671675
 Commons_category: El Niño
 video:

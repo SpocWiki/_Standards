@@ -61,10 +61,10 @@ aliases:
 - 第3周期元素
 - 第3週期元素
 has_id_wikidata: Q211331
-instance_of: '[[_Standards/WikiData/WD~period,101843]]'
-follows: '[[_Standards/WikiData/WD~period_2,207712]]'
-followed_by: '[[_Standards/WikiData/WD~period_4,239825]]'
-has_part_s_: '[[_Standards/WikiData/WD~chemical_element,11344]]'
+instance_of: '[[_Standards/WikiData/WD~period,101843|WD~period,101843]]'
+follows: '[[_Standards/WikiData/WD~period_2,207712|WD~period_2,207712]]'
+followed_by: '[[_Standards/WikiData/WD~period_4,239825|WD~period_4,239825]]'
+has_part_s_: '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 Commons_category: Periodic table row 3
 dv_is_:
   same_as:

@@ -143,18 +143,18 @@ taxon_common_name:
 - HI-virus
 - Virus de l'immunodéficience humaine
 - Virus da inmunodeficiencia humana
-entry_receptor: '[[_Standards/WikiData/WD~CD4_molecule,412587]]'
+entry_receptor: '[[_Standards/WikiData/WD~CD4_molecule,412587|WD~CD4_molecule,412587]]'
 facet_of:
-- '[[_Standards/WikiData/WD~LGBT_health,3271861]]'
-- "[[_Standards/WikiData/WD~men's_health,4141483]]"
-- "[[_Standards/WikiData/WD~women's_health,8031191]]"
+- '[[_Standards/WikiData/WD~LGBT_health,3271861|WD~LGBT_health,3271861]]'
+- "[[_Standards/WikiData/WD~men's_health,4141483|WD~men's_health,4141483]]"
+- "[[_Standards/WikiData/WD~women's_health,8031191|WD~women's_health,8031191]]"
 has_part_s_:
-- '[[_Standards/WikiData/WD~HIV_type_2,3552942]]'
-- '[[_Standards/WikiData/WD~HIV_type_1,18907320]]'
-described_by_source: '[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836]]'
-has_effect: '[[_Standards/WikiData/WD~HIV_infection,18556697]]'
-instance_of: '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
+- '[[_Standards/WikiData/WD~HIV_type_2,3552942|WD~HIV_type_2,3552942]]'
+- '[[_Standards/WikiData/WD~HIV_type_1,18907320|WD~HIV_type_1,18907320]]'
+described_by_source: '[[_Standards/WikiData/WD~Larousse_Encyclopedia_online,17329836|WD~Larousse_Encyclopedia_online,17329836]]'
+has_effect: '[[_Standards/WikiData/WD~HIV_infection,18556697|WD~HIV_infection,18556697]]'
+instance_of: '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715|WD~organisms_known_by_a_particular_common_name,55983715]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720|WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
 prevalence: 0.0075
 Commons_category: HIV
 IMDb_keyword: hiv

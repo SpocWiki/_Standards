@@ -177,19 +177,19 @@ taxon_common_name:
 - Véglények
 NBN_System_Key: NBNSYS0100004887
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-studied_by: '[[_Standards/WikiData/WD~protistology,2467781]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+studied_by: '[[_Standards/WikiData/WD~protistology,2467781|WD~protistology,2467781]]'
 instance_of:
-- '[[_Standards/WikiData/WD~grade,2612572]]'
-- '[[_Standards/WikiData/WD~paraphyletic_group,58051350]]'
-- '[[_Standards/WikiData/WD~taxon,16521]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Protist_structures,20346012]]'
+- '[[_Standards/WikiData/WD~grade,2612572|WD~grade,2612572]]'
+- '[[_Standards/WikiData/WD~paraphyletic_group,58051350|WD~paraphyletic_group,58051350]]'
+- '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Protist_structures,20346012|WD~Template_Protist_structures,20346012]]'
 inception: -2100000000-01-01T00:00:00Z
-subclass_of: '[[_Standards/WikiData/WD~organism,7239]]'
-taxon_rank: '[[_Standards/WikiData/WD~kingdom,36732]]'
+subclass_of: '[[_Standards/WikiData/WD~organism,7239|WD~organism,7239]]'
+taxon_rank: '[[_Standards/WikiData/WD~kingdom,36732|WD~kingdom,36732]]'
 Commons_category: Protista
 taxon_name: Protista
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Protist%20collage.jpg

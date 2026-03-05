@@ -146,7 +146,7 @@ dv_ISO2: PM
 dv_ISO3: SPM
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Saint_Pierre_and_Miquelon,34617]]'
+  - '[[_Standards/WikiData/WD~Saint_Pierre_and_Miquelon,34617|WD~Saint_Pierre_and_Miquelon,34617]]'
   - '[[/_Standards/Earth/Continent/America~North/Saint-Pierre-et-Miquelon|Saint-Pierre-et-Miquelon]]'
   - '[[/_public/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.public|Saint-Pierre-et-Miquelon.public]]'
   - '[[/_internal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.internal|Saint-Pierre-et-Miquelon.internal]]'
@@ -163,7 +163,7 @@ dv_has_place_longitude: -56.1667
 dv_has_place_latitude: 46.7833
 dv_has_url_for_code_repository: https://github.com/SpocWiki/America-Saint-Pierre-et-Miquelon
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Saint_Pierre_and_Miquelon,34617]]'
+- '[[_Standards/WikiData/WD~Saint_Pierre_and_Miquelon,34617|WD~Saint_Pierre_and_Miquelon,34617]]'
 - '[[/_Standards/Earth/Continent/America~North/Saint-Pierre-et-Miquelon|Saint-Pierre-et-Miquelon]]'
 - '[[/_public/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.public|Saint-Pierre-et-Miquelon.public]]'
 - '[[/_internal/Earth/Continent/America~North/Saint-Pierre-et-Miquelon.internal|Saint-Pierre-et-Miquelon.internal]]'
@@ -313,48 +313,48 @@ demonym:
 - Senpjerci
 - Saint-Pierrais
 top_level_Internet_domain:
-- '[[_Standards/WikiData/WD~.pm,133434]]'
-- '[[_Standards/WikiData/WD~.fr,37271]]'
+- '[[_Standards/WikiData/WD~.pm,133434|WD~.pm,133434]]'
+- '[[_Standards/WikiData/WD~.fr,37271|WD~.fr,37271]]'
 contains_the_administrative_territorial_entity:
-- '[[_Standards/WikiData/WD~Saint_Pierre,185678]]'
-- "[[_Standards/WikiData/WD~L'Ile_aux_Marins,292246]]"
-- '[[_Standards/WikiData/WD~Miquelon_Langlade,570289]]'
-capital: '[[_Standards/WikiData/WD~Saint_Pierre,185678]]'
-flag: '[[_Standards/WikiData/WD~flag_of_Saint_Pierre_and_Miquelon,234956]]'
-basic_form_of_government: '[[_Standards/WikiData/WD~overseas_collectivity_of_France,719487]]'
-instance_of: '[[_Standards/WikiData/WD~overseas_collectivity_of_France,719487]]'
+- '[[_Standards/WikiData/WD~Saint_Pierre,185678|WD~Saint_Pierre,185678]]'
+- "[[_Standards/WikiData/WD~L'Ile_aux_Marins,292246|WD~L'Ile_aux_Marins,292246]]"
+- '[[_Standards/WikiData/WD~Miquelon_Langlade,570289|WD~Miquelon_Langlade,570289]]'
+capital: '[[_Standards/WikiData/WD~Saint_Pierre,185678|WD~Saint_Pierre,185678]]'
+flag: '[[_Standards/WikiData/WD~flag_of_Saint_Pierre_and_Miquelon,234956|WD~flag_of_Saint_Pierre_and_Miquelon,234956]]'
+basic_form_of_government: '[[_Standards/WikiData/WD~overseas_collectivity_of_France,719487|WD~overseas_collectivity_of_France,719487]]'
+instance_of: '[[_Standards/WikiData/WD~overseas_collectivity_of_France,719487|WD~overseas_collectivity_of_France,719487]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclop�dia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~1922_Encyclop�dia_Britannica,15987490]]'
-list_of_monuments: '[[_Standards/WikiData/WD~Q2365400,2365400]]'
-legislative_body: '[[_Standards/WikiData/WD~Territorial_Council_of_Saint_Pierre_and_Miquelon,2994335]]'
-highest_point: '[[_Standards/WikiData/WD~Morne_de_la_Grande_Montagne,3051597]]'
-geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Saint_Pierre_and_Miquelon,3123285]]'
-head_of_government: '[[_Standards/WikiData/WD~St�phane_Artano,3501568]]'
-demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Saint_Pierre_and_Miquelon,5256072]]'
-economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Saint_Pierre_and_Miquelon,5333763]]'
-driving_side: '[[_Standards/WikiData/WD~right,14565199]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Saint_Pierre_and_Miquelon,15264772]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Saint_Pierre_and_Miquelon,15585178]]'
-category_for_people_born_here: '[[_Standards/WikiData/WD~Q26938477,26938477]]'
-category_for_people_who_died_here: '[[_Standards/WikiData/WD~Q27884524,27884524]]'
+- '[[_Standards/WikiData/WD~Encyclop�dia_Britannica_11th_edition,867541|WD~Encyclop�dia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~1922_Encyclop�dia_Britannica,15987490|WD~1922_Encyclop�dia_Britannica,15987490]]'
+list_of_monuments: '[[_Standards/WikiData/WD~Q2365400,2365400|WD~Q2365400,2365400]]'
+legislative_body: '[[_Standards/WikiData/WD~Territorial_Council_of_Saint_Pierre_and_Miquelon,2994335|WD~Territorial_Council_of_Saint_Pierre_and_Miquelon,2994335]]'
+highest_point: '[[_Standards/WikiData/WD~Morne_de_la_Grande_Montagne,3051597|WD~Morne_de_la_Grande_Montagne,3051597]]'
+geography_of_topic: '[[_Standards/WikiData/WD~geography_of_Saint_Pierre_and_Miquelon,3123285|WD~geography_of_Saint_Pierre_and_Miquelon,3123285]]'
+head_of_government: '[[_Standards/WikiData/WD~St�phane_Artano,3501568|WD~St�phane_Artano,3501568]]'
+demographics_of_topic: '[[_Standards/WikiData/WD~demographics_of_Saint_Pierre_and_Miquelon,5256072|WD~demographics_of_Saint_Pierre_and_Miquelon,5256072]]'
+economy_of_topic: '[[_Standards/WikiData/WD~economy_of_Saint_Pierre_and_Miquelon,5333763|WD~economy_of_Saint_Pierre_and_Miquelon,5333763]]'
+driving_side: '[[_Standards/WikiData/WD~right,14565199|WD~right,14565199]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_Saint_Pierre_and_Miquelon,15264772|WD~outline_of_Saint_Pierre_and_Miquelon,15264772]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Saint_Pierre_and_Miquelon,15585178|WD~Portal_Saint_Pierre_and_Miquelon,15585178]]'
+category_for_people_born_here: '[[_Standards/WikiData/WD~Q26938477,26938477|WD~Q26938477,26938477]]'
+category_for_people_who_died_here: '[[_Standards/WikiData/WD~Q27884524,27884524|WD~Q27884524,27884524]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q58635%20%28pan%29-Gaurav%20Jhammat-%E0%A8%B8%E0%A9%87%E0%A8%82%E0%A8%9F%20%E0%A8%AA%E0%A9%80%E0%A8%8F%E0%A8%B0%20%E0%A8%85%E0%A8%A4%E0%A9%87%20%E0%A8%AE%E0%A9%80%E0%A8%95%E0%A8%B2%E0%A9%8B%E0%A8%82.wav
 coordinate_location: Point(-56.3 46.85)
 inception: 1700-01-01T00:00:00Z
-located_in_time_zone: '[[_Standards/WikiData/WD~UTC_03_00,6513]]'
+located_in_time_zone: '[[_Standards/WikiData/WD~UTC_03_00,6513|WD~UTC_03_00,6513]]'
 minimum_temperature_record: -18.7
-enclave_within: '[[_Standards/WikiData/WD~Canada,16]]'
-shares_border_with: '[[_Standards/WikiData/WD~Canada,16]]'
-continent: '[[_Standards/WikiData/WD~North_America,49]]'
-located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Atlantic_Ocean,97]]'
-exclave_of: '[[_Standards/WikiData/WD~France,142]]'
-located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~France,142]]'
-country: '[[_Standards/WikiData/WD~France,142]]'
-official_language: '[[_Standards/WikiData/WD~French,150]]'
-language_used: '[[_Standards/WikiData/WD~French,150]]'
+enclave_within: '[[_Standards/WikiData/WD~Canada,16|WD~Canada,16]]'
+shares_border_with: '[[_Standards/WikiData/WD~Canada,16|WD~Canada,16]]'
+continent: '[[_Standards/WikiData/WD~North_America,49|WD~North_America,49]]'
+located_in_or_next_to_body_of_water: '[[_Standards/WikiData/WD~Atlantic_Ocean,97|WD~Atlantic_Ocean,97]]'
+exclave_of: '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
+located_in_the_administrative_territorial_entity: '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
+country: '[[_Standards/WikiData/WD~France,142|WD~France,142]]'
+official_language: '[[_Standards/WikiData/WD~French,150|WD~French,150]]'
+language_used: '[[_Standards/WikiData/WD~French,150|WD~French,150]]'
 elevation_above_sea_level: 240
 area: 242
-anthem: '[[_Standards/WikiData/WD~La_Marseillaise,41180]]'
+anthem: '[[_Standards/WikiData/WD~La_Marseillaise,41180|WD~La_Marseillaise,41180]]'
 maximum_temperature_record: 28.4
 INSEE_department_code: 975
 local_dialing_code: 508
@@ -394,12 +394,12 @@ Unicode_character: 🇵🇲
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Saint-Pierre-et-Miquelon/ReadMe]] 
+[[Saint-Pierre-et-Miquelon/ReadMe|ReadMe]] 
 
 ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Saint_Pierre_and_Miquelon,34617]]
+#is_/same_as :: [[_Standards/WikiData/WD~Saint_Pierre_and_Miquelon,34617|WD~Saint_Pierre_and_Miquelon,34617]]
 
 ## #has_/map  
 

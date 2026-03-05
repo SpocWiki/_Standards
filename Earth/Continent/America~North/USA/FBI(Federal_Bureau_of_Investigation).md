@@ -105,30 +105,30 @@ motto_text: Fidelity, Bravery, Integrity
 name: ꠄꠙ ꠛꠤ ꠀꠁ
 inception: 1908-07-26T00:00:00Z
 headquarters_location:
-- '[[_Standards/WikiData/WD~J._Edgar_Hoover_Building,167479]]'
-- '[[_Standards/WikiData/WD~Washington,_D.C.,61]]'
+- '[[_Standards/WikiData/WD~J._Edgar_Hoover_Building,167479|WD~J._Edgar_Hoover_Building,167479]]'
+- '[[_Standards/WikiData/WD~Washington,_D.C.,61|WD~Washington,_D.C.,61]]'
 founded_by:
-- '[[_Standards/WikiData/WD~J._Edgar_Hoover,210435]]'
-- '[[_Standards/WikiData/WD~Charles_Joseph_Bonaparte,919015]]'
-- '[[_Standards/WikiData/WD~Theodore_Roosevelt,33866]]'
-position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~Director_of_the_Federal_Bureau_of_Investigation,1057168]]'
-parent_organization: '[[_Standards/WikiData/WD~United_States_Department_of_Justice,1553390]]'
+- '[[_Standards/WikiData/WD~J._Edgar_Hoover,210435|WD~J._Edgar_Hoover,210435]]'
+- '[[_Standards/WikiData/WD~Charles_Joseph_Bonaparte,919015|WD~Charles_Joseph_Bonaparte,919015]]'
+- '[[_Standards/WikiData/WD~Theodore_Roosevelt,33866|WD~Theodore_Roosevelt,33866]]'
+position_held_by_head_of_the_organization: '[[_Standards/WikiData/WD~Director_of_the_Federal_Bureau_of_Investigation,1057168|WD~Director_of_the_Federal_Bureau_of_Investigation,1057168]]'
+parent_organization: '[[_Standards/WikiData/WD~United_States_Department_of_Justice,1553390|WD~United_States_Department_of_Justice,1553390]]'
 child_organization_unit:
-- '[[_Standards/WikiData/WD~FBI_Criminal_Justice_Information_Services_Division,5424573]]'
-- '[[_Standards/WikiData/WD~FBI_National_Security_Branch,5424594]]'
+- '[[_Standards/WikiData/WD~FBI_Criminal_Justice_Information_Services_Division,5424573|WD~FBI_Criminal_Justice_Information_Services_Division,5424573]]'
+- '[[_Standards/WikiData/WD~FBI_National_Security_Branch,5424594|WD~FBI_National_Security_Branch,5424594]]'
 instance_of:
-- '[[_Standards/WikiData/WD~United_States_federal_agency,20857065]]'
-- '[[_Standards/WikiData/WD~federal_law_enforcement_agency_of_the_United_States,20858006]]'
-- '[[_Standards/WikiData/WD~intelligence_agency,47913]]'
-director_manager: '[[_Standards/WikiData/WD~Kash_Patel,104639732]]'
+- '[[_Standards/WikiData/WD~United_States_federal_agency,20857065|WD~United_States_federal_agency,20857065]]'
+- '[[_Standards/WikiData/WD~federal_law_enforcement_agency_of_the_United_States,20858006|WD~federal_law_enforcement_agency_of_the_United_States,20858006]]'
+- '[[_Standards/WikiData/WD~intelligence_agency,47913|WD~intelligence_agency,47913]]'
+director_manager: '[[_Standards/WikiData/WD~Kash_Patel,104639732|WD~Kash_Patel,104639732]]'
 field_of_work:
-- '[[_Standards/WikiData/WD~fight_against_organized_crime,109562336]]'
-- '[[_Standards/WikiData/WD~terrorism,7283]]'
-flag: '[[_Standards/WikiData/WD~flag_of_the_Federal_Bureau_of_Investigation,113518795]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
-official_language: '[[_Standards/WikiData/WD~English,1860]]'
-applies_to_jurisdiction: '[[_Standards/WikiData/WD~United_States,30]]'
-country: '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~fight_against_organized_crime,109562336|WD~fight_against_organized_crime,109562336]]'
+- '[[_Standards/WikiData/WD~terrorism,7283|WD~terrorism,7283]]'
+flag: '[[_Standards/WikiData/WD~flag_of_the_Federal_Bureau_of_Investigation,113518795|WD~flag_of_the_Federal_Bureau_of_Investigation,113518795]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+official_language: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+applies_to_jurisdiction: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+country: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 social_media_followers:
 - 269000
 - 3567121

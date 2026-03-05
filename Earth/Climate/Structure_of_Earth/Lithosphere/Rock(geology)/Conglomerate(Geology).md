@@ -50,15 +50,15 @@ aliases:
 - 역암
 has_id_wikidata: Q191704
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~clastic_rock,612133]]'
-- '[[_Standards/WikiData/WD~psephite,947280]]'
-different_from: '[[_Standards/WikiData/WD~conglomerate,778575]]'
+- '[[_Standards/WikiData/WD~clastic_rock,612133|WD~clastic_rock,612133]]'
+- '[[_Standards/WikiData/WD~psephite,947280|WD~psephite,947280]]'
+different_from: '[[_Standards/WikiData/WD~conglomerate,778575|WD~conglomerate,778575]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Lehigh%20conglom.jpg
 Commons_category: Conglomerate
 Krugosvet_article: Earth_sciences/geologiya/KONGLOMERAT.html

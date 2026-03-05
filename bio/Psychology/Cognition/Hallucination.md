@@ -76,26 +76,26 @@ aliases:
 - 환각
 has_id_wikidata: Q130741
 different_from:
-- '[[_Standards/WikiData/WD~illusion,182593]]'
-- '[[_Standards/WikiData/WD~delusion,189643]]'
-- '[[_Standards/WikiData/WD~imagination,34516]]'
+- '[[_Standards/WikiData/WD~illusion,182593|WD~illusion,182593]]'
+- '[[_Standards/WikiData/WD~delusion,189643|WD~delusion,189643]]'
+- '[[_Standards/WikiData/WD~imagination,34516|WD~imagination,34516]]'
 health_specialty:
-- '[[_Standards/WikiData/WD~psychotherapy,183257]]'
-- '[[_Standards/WikiData/WD~medical_psychology,1916597]]'
-- '[[_Standards/WikiData/WD~psychiatry,7867]]'
-does_not_have_characteristic: '[[_Standards/WikiData/WD~control,338754]]'
+- '[[_Standards/WikiData/WD~psychotherapy,183257|WD~psychotherapy,183257]]'
+- '[[_Standards/WikiData/WD~medical_psychology,1916597|WD~medical_psychology,1916597]]'
+- '[[_Standards/WikiData/WD~psychiatry,7867|WD~psychiatry,7867]]'
+does_not_have_characteristic: '[[_Standards/WikiData/WD~control,338754|WD~control,338754]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-part_of: '[[_Standards/WikiData/WD~fantasy,1356411]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+part_of: '[[_Standards/WikiData/WD~fantasy,1356411|WD~fantasy,1356411]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~disruption,2956685]]'
-- '[[_Standards/WikiData/WD~perceptual_distortion,11999558]]'
-- '[[_Standards/WikiData/WD~psychopathological_symptom,30897648]]'
-- '[[_Standards/WikiData/WD~general_symptom,31836626]]'
-instance_of: '[[_Standards/WikiData/WD~symptom_or_sign,112965645]]'
+- '[[_Standards/WikiData/WD~disruption,2956685|WD~disruption,2956685]]'
+- '[[_Standards/WikiData/WD~perceptual_distortion,11999558|WD~perceptual_distortion,11999558]]'
+- '[[_Standards/WikiData/WD~psychopathological_symptom,30897648|WD~psychopathological_symptom,30897648]]'
+- '[[_Standards/WikiData/WD~general_symptom,31836626|WD~general_symptom,31836626]]'
+instance_of: '[[_Standards/WikiData/WD~symptom_or_sign,112965645|WD~symptom_or_sign,112965645]]'
 DiseasesDB: 19769
 IMDb_keyword: hallucination
 OmegaWiki_Defined_Meaning: 719388

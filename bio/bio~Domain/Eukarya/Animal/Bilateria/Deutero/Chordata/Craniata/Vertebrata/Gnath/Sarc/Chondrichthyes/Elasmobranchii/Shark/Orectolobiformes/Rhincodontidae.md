@@ -10,10 +10,10 @@ aliases:
 - قروش حوتية
 - ジンベエザメ科
 has_id_wikidata: Q2803916
-parent_taxon: '[[../../../../../../../../../../../../../../../WikiData/WD~Orectolobiformes,260031]]'
-instance_of: '[[_Standards/WikiData/WD~monotypic_taxon,310890]]'
-code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
-taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+parent_taxon: '[[../../../../../../../../../../../../../../../WikiData/WD~Orectolobiformes,260031|WD~Orectolobiformes,260031]]'
+instance_of: '[[_Standards/WikiData/WD~monotypic_taxon,310890|WD~monotypic_taxon,310890]]'
+code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011|WD~International_Code_of_Zoological_Nomenclature,13011]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409|WD~family,35409]]'
 ITIS_TSN: 159854
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rhincodon%20typus.jpg
 EPPO_Code: 1RHNDF

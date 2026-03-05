@@ -56,14 +56,14 @@ aliases:
 - 유시아강
 has_id_wikidata: Q22708
 title: Pterygota
-homonymous_taxon: '[[_Standards/WikiData/WD~Pterygota,2743384]]'
-taxon_rank: '[[_Standards/WikiData/WD~subclass,5867051]]'
-has_part_s_: '[[_Standards/WikiData/WD~animal_wing,12032322]]'
+homonymous_taxon: '[[_Standards/WikiData/WD~Pterygota,2743384|WD~Pterygota,2743384]]'
+taxon_rank: '[[_Standards/WikiData/WD~subclass,5867051|WD~subclass,5867051]]'
+has_part_s_: '[[_Standards/WikiData/WD~animal_wing,12032322|WD~animal_wing,12032322]]'
 instance_of:
-- '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715]]'
-- '[[_Standards/WikiData/WD~taxon,16521]]'
-parent_taxon: '[[_Standards/WikiData/WD~Paranotalia,123422282]]'
-studied_by: '[[_Standards/WikiData/WD~entomology,39286]]'
+- '[[_Standards/WikiData/WD~organisms_known_by_a_particular_common_name,55983715|WD~organisms_known_by_a_particular_common_name,55983715]]'
+- '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+parent_taxon: '[[_Standards/WikiData/WD~Paranotalia,123422282|WD~Paranotalia,123422282]]'
+studied_by: '[[_Standards/WikiData/WD~entomology,39286|WD~entomology,39286]]'
 ITIS_TSN: 100500
 taxon_common_name:
 - مکھّی
@@ -207,14 +207,14 @@ dv_has_:
 
 # [[Pterygota]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Pterygota,22708]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Pterygota,22708|WD~Pterygota,22708]] 
 
 Winged insects 
 
 For more Details, check out this Repository into this Subfolder: 
 #has_/url_for_/code_repository :: https://github.com/SpocWiki/Pterygota 
 
-[[Pterygota/ReadMe]] 
+[[Pterygota/ReadMe|ReadMe]] 
 
 
 ![Habitus of a mayfly](mayfly.jpg)  ![Zygoptera](Pterygota/damselflies.jpg)  ![Plusiotis beyeri](Pterygota/Plusiotis_beyeri.jpg) 

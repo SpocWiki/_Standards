@@ -79,35 +79,35 @@ aliases:
 - 폐기물 관리
 has_id_wikidata: Q180388
 has_part_s_:
-- '[[_Standards/WikiData/WD~recycling,132580]]'
-- '[[_Standards/WikiData/WD~waste_minimisation,319970]]'
-- '[[_Standards/WikiData/WD~waste_reuse,55435655]]'
+- '[[_Standards/WikiData/WD~recycling,132580|WD~recycling,132580]]'
+- '[[_Standards/WikiData/WD~waste_minimisation,319970|WD~waste_minimisation,319970]]'
+- '[[_Standards/WikiData/WD~waste_reuse,55435655|WD~waste_reuse,55435655]]'
 instance_of:
-- '[[_Standards/WikiData/WD~industry,268592]]'
-- '[[_Standards/WikiData/WD~process,3249551]]'
-- '[[_Standards/WikiData/WD~safety,10566551]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~industry,268592|WD~industry,268592]]'
+- '[[_Standards/WikiData/WD~process,3249551|WD~process,3249551]]'
+- '[[_Standards/WikiData/WD~safety,10566551|WD~safety,10566551]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~recyclable_material_collector,1050142]]'
-- '[[_Standards/WikiData/WD~Q1191617,1191617]]'
-- '[[_Standards/WikiData/WD~garbage_collector,1391360]]'
-- '[[_Standards/WikiData/WD~waste_management_industry,83283234]]'
-- '[[_Standards/WikiData/WD~waste_manager,84307004]]'
+- '[[_Standards/WikiData/WD~recyclable_material_collector,1050142|WD~recyclable_material_collector,1050142]]'
+- '[[_Standards/WikiData/WD~Q1191617,1191617|WD~Q1191617,1191617]]'
+- '[[_Standards/WikiData/WD~garbage_collector,1391360|WD~garbage_collector,1391360]]'
+- '[[_Standards/WikiData/WD~waste_management_industry,83283234|WD~waste_management_industry,83283234]]'
+- '[[_Standards/WikiData/WD~waste_manager,84307004|WD~waste_manager,84307004]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~waste_collection,_treatment_and_disposal_activities;_materials_recovery,2684232]]'
-- '[[_Standards/WikiData/WD~waste_management_industry,83283234]]'
-- '[[_Standards/WikiData/WD~waste_recycling,115156519]]'
+- '[[_Standards/WikiData/WD~waste_collection,_treatment_and_disposal_activities;_materials_recovery,2684232|WD~waste_collection,_treatment_and_disposal_activities;_materials_recovery,2684232]]'
+- '[[_Standards/WikiData/WD~waste_management_industry,83283234|WD~waste_management_industry,83283234]]'
+- '[[_Standards/WikiData/WD~waste_recycling,115156519|WD~waste_recycling,115156519]]'
 different_from:
-- '[[_Standards/WikiData/WD~sanitary_engineering,3306798]]'
-- '[[_Standards/WikiData/WD~Q127539940,127539940]]'
-part_of: '[[_Standards/WikiData/WD~European_waste_hierarchy,5413422]]'
+- '[[_Standards/WikiData/WD~sanitary_engineering,3306798|WD~sanitary_engineering,3306798]]'
+- '[[_Standards/WikiData/WD~Q127539940,127539940|WD~Q127539940,127539940]]'
+part_of: '[[_Standards/WikiData/WD~European_waste_hierarchy,5413422|WD~European_waste_hierarchy,5413422]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~sustainability_and_environmental_management,17163083]]'
-- '[[_Standards/WikiData/WD~energy_and_environmental_engineering,24963174]]'
-topic_has_template: '[[_Standards/WikiData/WD~Q44371525,44371525]]'
-relates_to_sustainable_development_goal_target_or_indicator: '[[_Standards/WikiData/WD~Target_12.4_of_the_Sustainable_Development_Goals,57590871]]'
-industry: '[[_Standards/WikiData/WD~waste_management_industry,83283234]]'
-significant_environmental_impact: '[[_Standards/WikiData/WD~health,12147]]'
+- '[[_Standards/WikiData/WD~sustainability_and_environmental_management,17163083|WD~sustainability_and_environmental_management,17163083]]'
+- '[[_Standards/WikiData/WD~energy_and_environmental_engineering,24963174|WD~energy_and_environmental_engineering,24963174]]'
+topic_has_template: '[[_Standards/WikiData/WD~Q44371525,44371525|WD~Q44371525,44371525]]'
+relates_to_sustainable_development_goal_target_or_indicator: '[[_Standards/WikiData/WD~Target_12.4_of_the_Sustainable_Development_Goals,57590871|WD~Target_12.4_of_the_Sustainable_Development_Goals,57590871]]'
+industry: '[[_Standards/WikiData/WD~waste_management_industry,83283234|WD~waste_management_industry,83283234]]'
+significant_environmental_impact: '[[_Standards/WikiData/WD~health,12147|WD~health,12147]]'
 All_Science_Journal_Classification_Codes: 2311
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/De-Abfallentsorgung.ogg
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Material%20recovery%20facility%202004-03-24.jpg

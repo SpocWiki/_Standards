@@ -119,7 +119,7 @@ tags:
 title: is_a_substance Class
 type: Type
 dv_is_:
-  parent_class: '[[../MedicalEntity]]'
+  parent_class: '[[../MedicalEntity|MedicalEntity]]'
   same_as:
   - '[[../WikiData/WD~Matter,35758|WD~Matter,35758]]'
   - '[[/_Standards/Chemistry/Substance|Substance]]'
@@ -299,7 +299,7 @@ dv_has_:
     zh_tw: 物質
     zu: Matter
   properties: '[ activeIngredient, additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, maximumIntake, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ]'
-dv_has_parent_class: '[[../MedicalEntity]]'
+dv_has_parent_class: '[[../MedicalEntity|MedicalEntity]]'
 dv_has_child_class: '[ DietarySupplement, Drug ]'
 dv_has_properties: '[ activeIngredient, additionalType, alternateName, code, description, disambiguatingDescription, funding, guideline, identifier, image, legalStatus, mainEntityOfPage, maximumIntake, medicineSystem, name, potentialAction, recognizingAuthority, relevantSpecialty, sameAs, study, subjectOf, url ]'
 dv_is_same_as:

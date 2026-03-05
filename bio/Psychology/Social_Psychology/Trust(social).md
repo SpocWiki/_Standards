@@ -59,26 +59,26 @@ aliases:
 - 신뢰
 has_id_wikidata: Q659974
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
-opposite_of: '[[_Standards/WikiData/WD~distrust,621922]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624|WD~Lean_Logic,101314624]]'
+opposite_of: '[[_Standards/WikiData/WD~distrust,621922|WD~distrust,621922]]'
 different_from:
-- '[[_Standards/WikiData/WD~conviction,1048607]]'
-- '[[_Standards/WikiData/WD~confidence,4116378]]'
-- '[[_Standards/WikiData/WD~Vertrauen,33057351]]'
+- '[[_Standards/WikiData/WD~conviction,1048607|WD~conviction,1048607]]'
+- '[[_Standards/WikiData/WD~confidence,4116378|WD~confidence,4116378]]'
+- '[[_Standards/WikiData/WD~Vertrauen,33057351|WD~Vertrauen,33057351]]'
 has_cause:
-- '[[_Standards/WikiData/WD~in_group_favoritism,6008637]]'
-- '[[_Standards/WikiData/WD~genetics,7162]]'
-- '[[_Standards/WikiData/WD~culture,11042]]'
-used_by: '[[_Standards/WikiData/WD~confidence_trick,7023752]]'
-studied_by: '[[_Standards/WikiData/WD~theory_of_emotion,9357054]]'
+- '[[_Standards/WikiData/WD~in_group_favoritism,6008637|WD~in_group_favoritism,6008637]]'
+- '[[_Standards/WikiData/WD~genetics,7162|WD~genetics,7162]]'
+- '[[_Standards/WikiData/WD~culture,11042|WD~culture,11042]]'
+used_by: '[[_Standards/WikiData/WD~confidence_trick,7023752|WD~confidence_trick,7023752]]'
+studied_by: '[[_Standards/WikiData/WD~theory_of_emotion,9357054|WD~theory_of_emotion,9357054]]'
 instance_of:
-- '[[_Standards/WikiData/WD~basic_emotion,16748867]]'
-- '[[_Standards/WikiData/WD~core_concept,41172303]]'
-- '[[_Standards/WikiData/WD~positive_emotion,60539479]]'
-part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
-country: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
-subclass_of: '[[_Standards/WikiData/WD~belief,34394]]'
+- '[[_Standards/WikiData/WD~basic_emotion,16748867|WD~basic_emotion,16748867]]'
+- '[[_Standards/WikiData/WD~core_concept,41172303|WD~core_concept,41172303]]'
+- '[[_Standards/WikiData/WD~positive_emotion,60539479|WD~positive_emotion,60539479]]'
+part_of: '[[_Standards/WikiData/WD~psychology_terminology,77468620|WD~psychology_terminology,77468620]]'
+country: '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
+subclass_of: '[[_Standards/WikiData/WD~belief,34394|WD~belief,34394]]'
 Commons_category: Trust
 APA_Dictionary_of_Psychology_entry: trust
 OmegaWiki_Defined_Meaning: 505369

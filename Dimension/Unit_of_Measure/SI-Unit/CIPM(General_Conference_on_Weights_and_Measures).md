@@ -36,10 +36,10 @@ aliases:
 - 国際度量衡委員会
 - 국제 도량형 위원회
 has_id_wikidata: Q616838
-part_of: '[[_Standards/WikiData/WD~International_Bureau_of_Weights_and_Measures,229478]]'
-instance_of: '[[_Standards/WikiData/WD~panel,938236]]'
-described_by_source: "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-chairperson: '[[_Standards/WikiData/WD~Wynand_Louw,72686450]]'
+part_of: '[[_Standards/WikiData/WD~International_Bureau_of_Weights_and_Measures,229478|WD~International_Bureau_of_Weights_and_Measures,229478]]'
+instance_of: '[[_Standards/WikiData/WD~panel,938236|WD~panel,938236]]'
+described_by_source: "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+chairperson: '[[_Standards/WikiData/WD~Wynand_Louw,72686450|WD~Wynand_Louw,72686450]]'
 short_name:
 - CIPM
 - CIPM

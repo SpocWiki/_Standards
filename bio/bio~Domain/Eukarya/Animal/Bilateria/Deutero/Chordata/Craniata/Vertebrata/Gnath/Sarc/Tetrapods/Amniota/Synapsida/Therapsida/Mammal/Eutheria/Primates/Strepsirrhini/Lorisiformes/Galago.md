@@ -49,13 +49,13 @@ aliases:
 - 갈라고
 has_id_wikidata: Q185239
 parent_taxon:
-- '[[_Standards/WikiData/WD~Lorisiformes,545982]]'
-- '[[_Standards/WikiData/WD~Lorisoidea,33190304]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-diel_cycle: '[[_Standards/WikiData/WD~nocturnal,101029366]]'
-code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+- '[[_Standards/WikiData/WD~Lorisiformes,545982|WD~Lorisiformes,545982]]'
+- '[[_Standards/WikiData/WD~Lorisoidea,33190304|WD~Lorisoidea,33190304]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+diel_cycle: '[[_Standards/WikiData/WD~nocturnal,101029366|WD~nocturnal,101029366]]'
+code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011|WD~International_Code_of_Zoological_Nomenclature,13011]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409|WD~family,35409]]'
 ITIS_TSN: 943788
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Greater%20Bush%20Baby.jpg
 EPPO_Code: 1GALGF

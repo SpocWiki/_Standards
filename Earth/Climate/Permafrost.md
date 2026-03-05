@@ -58,23 +58,23 @@ aliases:
 - 영구동토
 has_id_wikidata: Q179918
 associated_hazard:
-- '[[_Standards/WikiData/WD~climate_change,125928]]'
-- '[[_Standards/WikiData/WD~global_warming,7942]]'
+- '[[_Standards/WikiData/WD~climate_change,125928|WD~climate_change,125928]]'
+- '[[_Standards/WikiData/WD~global_warming,7942|WD~global_warming,7942]]'
 studied_by:
-- '[[_Standards/WikiData/WD~geocryology,1102535]]'
-- '[[_Standards/WikiData/WD~cryostratigraphy,117613435]]'
-subclass_of: '[[_Standards/WikiData/WD~cryolitic_zone,2641527]]'
+- '[[_Standards/WikiData/WD~geocryology,1102535|WD~geocryology,1102535]]'
+- '[[_Standards/WikiData/WD~cryostratigraphy,117613435|WD~cryostratigraphy,117613435]]'
+subclass_of: '[[_Standards/WikiData/WD~cryolitic_zone,2641527|WD~cryolitic_zone,2641527]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-different_from: '[[_Standards/WikiData/WD~Permafrost,7169190]]'
-instance_of: '[[_Standards/WikiData/WD~soil_type,10926413]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+different_from: '[[_Standards/WikiData/WD~Permafrost,7169190|WD~Permafrost,7169190]]'
+instance_of: '[[_Standards/WikiData/WD~soil_type,10926413|WD~soil_type,10926413]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047|WD~WikiProject_Climate_change,15305047]]'
 country:
-- '[[_Standards/WikiData/WD~Canada,16]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
-- '[[_Standards/WikiData/WD~Russia,159]]'
+- '[[_Standards/WikiData/WD~Canada,16|WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Russia,159|WD~Russia,159]]'
 OmegaWiki_Defined_Meaning: 8520
 Commons_category: Permafrost
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Birch%20Creek%20permafrost.jpg
@@ -93,7 +93,7 @@ MeSH_tree_code:
 - N06.230.600.500
 dv_is_:
   same_as:
-  - '[[../../WikiData/WD~Permafrost,179918]]'
+  - '[[../../WikiData/WD~Permafrost,179918|WD~Permafrost,179918]]'
   - '[[/_Standards/Earth/Climate/Permafrost|Permafrost]]'
   - '[[/_public/Earth/Climate/Permafrost.public|Permafrost.public]]'
   - '[[/_internal/Earth/Climate/Permafrost.internal|Permafrost.internal]]'
@@ -102,7 +102,7 @@ dv_is_:
   - '[[/_personal/Earth/Climate/Permafrost.personal|Permafrost.personal]]'
   - '[[/_secret/Earth/Climate/Permafrost.secret|Permafrost.secret]]'
 dv_is_same_as:
-- '[[../../WikiData/WD~Permafrost,179918]]'
+- '[[../../WikiData/WD~Permafrost,179918|WD~Permafrost,179918]]'
 - '[[/_Standards/Earth/Climate/Permafrost|Permafrost]]'
 - '[[/_public/Earth/Climate/Permafrost.public|Permafrost.public]]'
 - '[[/_internal/Earth/Climate/Permafrost.internal|Permafrost.internal]]'

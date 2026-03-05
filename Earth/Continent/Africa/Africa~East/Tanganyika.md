@@ -12,7 +12,7 @@ tags:
 type: Country
 dv_has_name_en: Tanganyika
 dv_has_name_de: Tanganjika
-dv_has_place_continent: "[[../../Africa]]"
+dv_has_place_continent: "[[../../Africa|Africa]]"
 dv_Language-Id: 499
 dv_is_a_: "[[../../../Geography/Place/Administrative_Area/City|City]]"
 dv_has_place_longitude: 34.854

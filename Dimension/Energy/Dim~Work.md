@@ -102,25 +102,25 @@ aliases:
 - 일
 has_id_wikidata: Q42213
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~energy_transfer,15211908]]'
-- '[[_Standards/WikiData/WD~energy,11379]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~energy_transfer,15211908|WD~energy_transfer,15211908]]'
+- '[[_Standards/WikiData/WD~energy,11379|WD~energy,11379]]'
 different_from:
-- '[[_Standards/WikiData/WD~work,900231]]'
-- '[[_Standards/WikiData/WD~mechanical_work,28555555]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~work,900231|WD~work,900231]]'
+- '[[_Standards/WikiData/WD~mechanical_work,28555555|WD~mechanical_work,28555555]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~ISO_80000_4_2006_Quantities_and_units_Part_4_Mechanics,26711933]]'
-- '[[_Standards/WikiData/WD~ISO_80000_4_2019_Quantities_and_units_Part_4_Mechanics,73391977]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~ISO_80000_4_2006_Quantities_and_units_Part_4_Mechanics,26711933|WD~ISO_80000_4_2006_Quantities_and_units_Part_4_Mechanics,26711933]]'
+- '[[_Standards/WikiData/WD~ISO_80000_4_2019_Quantities_and_units_Part_4_Mechanics,73391977|WD~ISO_80000_4_2019_Quantities_and_units_Part_4_Mechanics,73391977]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+disjoint_union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
 recommended_unit_of_measurement:
-- '[[_Standards/WikiData/WD~kilogram_square_metre_per_square_second,106681350]]'
-- '[[_Standards/WikiData/WD~joule,25269]]'
+- '[[_Standards/WikiData/WD~kilogram_square_metre_per_square_second,106681350|WD~kilogram_square_metre_per_square_second,106681350]]'
+- '[[_Standards/WikiData/WD~joule,25269|WD~joule,25269]]'
 ISQ_dimension: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AB</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn></mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AC</mi></mrow><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5B3</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mo stretchy=\"false\">&#x2212;</mo><mn>2</mn></mrow></mrow></msup></mstyle></mrow></math>"
 defining_formula: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mi>A</mi><mo stretchy=\"false\">=</mo><munder><mo stretchy=\"false\">&#x222B;</mo><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">&#x0393;</mi></mrow></munder><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D46D</mi></mrow><mo stretchy=\"false\">&#x22C5;</mo><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">d</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D493</mi></mrow></mstyle></mrow></math>"
-opposite_of: '[[_Standards/WikiData/WD~heat,44432]]'
+opposite_of: '[[_Standards/WikiData/WD~heat,44432|WD~heat,44432]]'
 in_defining_formula:
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>A</mi></mstyle></mrow></math>
 - "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D493</mi></mrow></mstyle></mrow></math>"

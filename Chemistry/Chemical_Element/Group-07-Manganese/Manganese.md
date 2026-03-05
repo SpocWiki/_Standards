@@ -92,8 +92,8 @@ aliases:
 - 망간
 has_id_wikidata: Q731
 associated_hazard:
-- '[[_Standards/WikiData/WD~manganism,2480013]]'
-- '[[_Standards/WikiData/WD~manganese_exposure,21174827]]'
+- '[[_Standards/WikiData/WD~manganism,2480013|WD~manganism,2480013]]'
+- '[[_Standards/WikiData/WD~manganese_exposure,21174827|WD~manganese_exposure,21174827]]'
 atomic_number: 25
 boiling_point:
 - 1961
@@ -107,31 +107,31 @@ Commons_gallery: Manganese
 CPV_Supplementary_code: AA15
 density: 7.2
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]'
-- '[[_Standards/WikiData/WD~Manganese,84690326]]'
-different_from: '[[_Standards/WikiData/WD~magnesium,660]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Johan_Gottlieb_Gahn,353490]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]'
+- '[[_Standards/WikiData/WD~Manganese,84690326|WD~Manganese,84690326]]'
+different_from: '[[_Standards/WikiData/WD~magnesium,660|WD~magnesium,660]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Johan_Gottlieb_Gahn,353490|WD~Johan_Gottlieb_Gahn,353490]]'
 DSSTOX_compound_identifier: DTXCID004169
 EC_number: 231-105-1
 electronegativity: 1.55
 electron_configuration: '[Ar] 3d⁵ 4s²'
 element_symbol: Mn
 found_in_taxon:
-- '[[_Standards/WikiData/WD~Artemia_salina,1135229]]'
-- '[[_Standards/WikiData/WD~Allium_sativum,23400]]'
-- '[[_Standards/WikiData/WD~Foeniculum_vulgare,43511]]'
-has_effect: '[[_Standards/WikiData/WD~manganese_exposure,21174827]]'
+- '[[_Standards/WikiData/WD~Artemia_salina,1135229|WD~Artemia_salina,1135229]]'
+- '[[_Standards/WikiData/WD~Allium_sativum,23400|WD~Allium_sativum,23400]]'
+- '[[_Standards/WikiData/WD~Foeniculum_vulgare,43511|WD~Foeniculum_vulgare,43511]]'
+has_effect: '[[_Standards/WikiData/WD~manganese_exposure,21174827|WD~manganese_exposure,21174827]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Manganese%20electrolytic%20and%201cm3%20cube.jpg
 immediately_dangerous_to_life_or_health: 500
 InChI: InChI=1S/Mn
 InChIKey: PWHULOQIROXLJO-UHFFFAOYSA-N
-instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
+instance_of: '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 ionic_radius:
 - 0.25
 - 0.26
@@ -144,13 +144,13 @@ ionic_radius:
 - 0.96
 Krugosvet_article: nauka_i_tehnika/himiya/MARGANETS.html
 made_from_material:
-- '[[_Standards/WikiData/WD~rhodochrosite,409793]]'
-- '[[_Standards/WikiData/WD~pyrolusite,413293]]'
-- '[[_Standards/WikiData/WD~psilomelane,419315]]'
-- '[[_Standards/WikiData/WD~manganese_nodule,939579]]'
-- '[[_Standards/WikiData/WD~braunite_mineral_group,3777638]]'
+- '[[_Standards/WikiData/WD~rhodochrosite,409793|WD~rhodochrosite,409793]]'
+- '[[_Standards/WikiData/WD~pyrolusite,413293|WD~pyrolusite,413293]]'
+- '[[_Standards/WikiData/WD~psilomelane,419315|WD~psilomelane,419315]]'
+- '[[_Standards/WikiData/WD~manganese_nodule,939579|WD~manganese_nodule,939579]]'
+- '[[_Standards/WikiData/WD~braunite_mineral_group,3777638|WD~braunite_mineral_group,3777638]]'
 mass: 54.938043
-medical_condition_treated: '[[_Standards/WikiData/WD~nutritional_deficiency_disease,1890194]]'
+medical_condition_treated: '[[_Standards/WikiData/WD~nutritional_deficiency_disease,1890194|WD~nutritional_deficiency_disease,1890194]]'
 melting_point:
 - 1243
 - 2271
@@ -158,21 +158,21 @@ MeSH_tree_code:
 - D01.268.556.484
 - D01.268.956.374
 - D01.552.544.484
-named_after: '[[_Standards/WikiData/WD~Magnesia_Prefecture,205668]]'
+named_after: '[[_Standards/WikiData/WD~Magnesia_Prefecture,205668|WD~Magnesia_Prefecture,205668]]'
 OmegaWiki_Defined_Meaning: 332320
 oxidation_state: 2
 part_of:
-- '[[_Standards/WikiData/WD~group_7,202602]]'
-- '[[_Standards/WikiData/WD~period_4,239825]]'
+- '[[_Standards/WikiData/WD~group_7,202602|WD~group_7,202602]]'
+- '[[_Standards/WikiData/WD~period_4,239825|WD~period_4,239825]]'
 PubChem_CID: 23930
 RTECS_number: OO9275000
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q15679771,15679771]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q15679771,15679771|WD~Q15679771,15679771]]'
 short_term_exposure_limit: 3
 SpocWebEntityId: 21925
 subclass_of:
-- '[[_Standards/WikiData/WD~simple_substance,2512777]]'
-- '[[_Standards/WikiData/WD~flammable_solid,21073024]]'
-subject_has_role: '[[_Standards/WikiData/WD~trace_metal,7831165]]'
+- '[[_Standards/WikiData/WD~simple_substance,2512777|WD~simple_substance,2512777]]'
+- '[[_Standards/WikiData/WD~flammable_solid,21073024|WD~flammable_solid,21073024]]'
+subject_has_role: '[[_Standards/WikiData/WD~trace_metal,7831165|WD~trace_metal,7831165]]'
 time_of_discovery_or_invention: 1774-01-01T00:00:00Z
 time_weighted_average_exposure_limit: 1
 type: Element
@@ -192,7 +192,7 @@ Dewey_Decimal_Classification:
 Krugosvet_article_archived_: nauka_i_tehnika/himiya/MARGANETS.html
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Manganese,731]]'
+  - '[[../../../WikiData/WD~Manganese,731|WD~Manganese,731]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Group-07-Manganese/Manganese|Manganese]]'
   - '[[/_public/Chemistry/Chemical_Element/Group-07-Manganese/Manganese.public|Manganese.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Group-07-Manganese/Manganese.internal|Manganese.internal]]'
@@ -200,7 +200,7 @@ dv_is_:
   - '[[/_private/Chemistry/Chemical_Element/Group-07-Manganese/Manganese.private|Manganese.private]]'
   - '[[/_personal/Chemistry/Chemical_Element/Group-07-Manganese/Manganese.personal|Manganese.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Group-07-Manganese/Manganese.secret|Manganese.secret]]'
-  part_of: '[[../Group-07-Manganese]]'
+  part_of: '[[../Group-07-Manganese|Group-07-Manganese]]'
 dv_has_:
   name_:
     abbreviated: Mn
@@ -411,7 +411,7 @@ dv_has_:
         kj_:
           mol: 226
 dv_is_same_as:
-- '[[../../../WikiData/WD~Manganese,731]]'
+- '[[../../../WikiData/WD~Manganese,731|WD~Manganese,731]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Group-07-Manganese/Manganese|Manganese]]'
 - '[[/_public/Chemistry/Chemical_Element/Group-07-Manganese/Manganese.public|Manganese.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Group-07-Manganese/Manganese.internal|Manganese.internal]]'
@@ -420,7 +420,7 @@ dv_is_same_as:
 - '[[/_personal/Chemistry/Chemical_Element/Group-07-Manganese/Manganese.personal|Manganese.personal]]'
 - '[[/_secret/Chemistry/Chemical_Element/Group-07-Manganese/Manganese.secret|Manganese.secret]]'
 dv_has_name_group: Group-07-Manganese
-dv_is_part_of: '[[../Group-07-Manganese]]'
+dv_is_part_of: '[[../Group-07-Manganese|Group-07-Manganese]]'
 dv_has_name_en: Manganese
 dv_has_name_de: Mangan
 dv_has_value_for_weight_u: 54.938
@@ -449,7 +449,7 @@ Unicode_character: 錳
 
 
 #chemic/Element 
-#is_/same_as :: [[../../../WikiData/WD~Manganese,731]] 
+#is_/same_as :: [[../../../WikiData/WD~Manganese,731|WD~Manganese,731]] 
 
 has_name_group = `=this.dv_has_name_group` 
 is_part_of = `=this.dv_is_part_of` 

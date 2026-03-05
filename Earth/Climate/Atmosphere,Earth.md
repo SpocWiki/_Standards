@@ -129,48 +129,48 @@ aliases:
 - 지구 대기권
 has_id_wikidata: Q3230
 has_part_s_:
-- '[[_Standards/WikiData/WD~stratosphere,108376]]'
-- '[[_Standards/WikiData/WD~ionosphere,162219]]'
-- '[[_Standards/WikiData/WD~tropopause,186433]]'
-- '[[_Standards/WikiData/WD~stratopause,205397]]'
-- '[[_Standards/WikiData/WD~homosphere_and_heterosphere,486613]]'
-- '[[_Standards/WikiData/WD~thermopause,757229]]'
-- '[[_Standards/WikiData/WD~upper_atmosphere,1621662]]'
-- '[[_Standards/WikiData/WD~air,7391292]]'
-- '[[_Standards/WikiData/WD~troposphere,40631]]'
+- '[[_Standards/WikiData/WD~stratosphere,108376|WD~stratosphere,108376]]'
+- '[[_Standards/WikiData/WD~ionosphere,162219|WD~ionosphere,162219]]'
+- '[[_Standards/WikiData/WD~tropopause,186433|WD~tropopause,186433]]'
+- '[[_Standards/WikiData/WD~stratopause,205397|WD~stratopause,205397]]'
+- '[[_Standards/WikiData/WD~homosphere_and_heterosphere,486613|WD~homosphere_and_heterosphere,486613]]'
+- '[[_Standards/WikiData/WD~thermopause,757229|WD~thermopause,757229]]'
+- '[[_Standards/WikiData/WD~upper_atmosphere,1621662|WD~upper_atmosphere,1621662]]'
+- '[[_Standards/WikiData/WD~air,7391292|WD~air,7391292]]'
+- '[[_Standards/WikiData/WD~troposphere,40631|WD~troposphere,40631]]'
 instance_of:
-- '[[_Standards/WikiData/WD~geosphere,241284]]'
-- '[[_Standards/WikiData/WD~geographic_envelope,2627400]]'
-- '[[_Standards/WikiData/WD~atmosphere_of_a_planet,19704068]]'
-has_boundary: '[[_Standards/WikiData/WD~Kármán_line,275565]]'
+- '[[_Standards/WikiData/WD~geosphere,241284|WD~geosphere,241284]]'
+- '[[_Standards/WikiData/WD~geographic_envelope,2627400|WD~geographic_envelope,2627400]]'
+- '[[_Standards/WikiData/WD~atmosphere_of_a_planet,19704068|WD~atmosphere_of_a_planet,19704068]]'
+has_boundary: '[[_Standards/WikiData/WD~Kármán_line,275565|WD~Kármán_line,275565]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~The_American_Cyclopædia,19077875|WD~The_American_Cyclopædia,19077875]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_Ninth_Edition,20096917|WD~Encyclopædia_Britannica_Ninth_Edition,20096917]]'
 made_from_material:
-- '[[_Standards/WikiData/WD~dinitrogen,2370426]]'
-- '[[_Standards/WikiData/WD~dioxygen,5203615]]'
-- '[[_Standards/WikiData/WD~helium,560]]'
-- '[[_Standards/WikiData/WD~neon,654]]'
-- '[[_Standards/WikiData/WD~argon,696]]'
-- '[[_Standards/WikiData/WD~krypton,888]]'
-- '[[_Standards/WikiData/WD~carbon_dioxide,1997]]'
-- '[[_Standards/WikiData/WD~methane,37129]]'
+- '[[_Standards/WikiData/WD~dinitrogen,2370426|WD~dinitrogen,2370426]]'
+- '[[_Standards/WikiData/WD~dioxygen,5203615|WD~dioxygen,5203615]]'
+- '[[_Standards/WikiData/WD~helium,560|WD~helium,560]]'
+- '[[_Standards/WikiData/WD~neon,654|WD~neon,654]]'
+- '[[_Standards/WikiData/WD~argon,696|WD~argon,696]]'
+- '[[_Standards/WikiData/WD~krypton,888|WD~krypton,888]]'
+- '[[_Standards/WikiData/WD~carbon_dioxide,1997|WD~carbon_dioxide,1997]]'
+- '[[_Standards/WikiData/WD~methane,37129|WD~methane,37129]]'
 studied_by:
-- '[[_Standards/WikiData/WD~atmospheric_physics,5334416]]'
-- '[[_Standards/WikiData/WD~aeronomy,16360]]'
-- '[[_Standards/WikiData/WD~meteorology,25261]]'
-- '[[_Standards/WikiData/WD~geophysics,46255]]'
+- '[[_Standards/WikiData/WD~atmospheric_physics,5334416|WD~atmospheric_physics,5334416]]'
+- '[[_Standards/WikiData/WD~aeronomy,16360|WD~aeronomy,16360]]'
+- '[[_Standards/WikiData/WD~meteorology,25261|WD~meteorology,25261]]'
+- '[[_Standards/WikiData/WD~geophysics,46255|WD~geophysics,46255]]'
 topic_s_main_template:
-- "[[_Standards/WikiData/WD~Template_Earth's_atmosphere,5931320]]"
-- '[[_Standards/WikiData/WD~Q16354698,16354698]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
-located_on_astronomical_body: '[[_Standards/WikiData/WD~Earth,2]]'
+- "[[_Standards/WikiData/WD~Template_Earth's_atmosphere,5931320|WD~Template_Earth's_atmosphere,5931320]]"
+- '[[_Standards/WikiData/WD~Q16354698,16354698|WD~Q16354698,16354698]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047|WD~WikiProject_Climate_change,15305047]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
+located_on_astronomical_body: '[[_Standards/WikiData/WD~Earth,2|WD~Earth,2]]'
 part_of:
-- '[[_Standards/WikiData/WD~Earth,2]]'
-- '[[_Standards/WikiData/WD~natural_environment,43619]]'
+- '[[_Standards/WikiData/WD~Earth,2|WD~Earth,2]]'
+- '[[_Standards/WikiData/WD~natural_environment,43619|WD~natural_environment,43619]]'
 OmegaWiki_Defined_Meaning: 106
 image: http://commons.wikimedia.org/wiki/Special:FilePath/ISS043-E-184471%20-%20View%20of%20Earth.jpg
 Commons_category: Earth's atmosphere
@@ -368,7 +368,7 @@ Roughly speaking 80% [[../../Chemistry/Chemical_Element/Group-15-Nitrogen/Nitrog
 | [[../../Chemistry/Chemical_Element/Group-18-Nobel-Gases/Krypton\|Krypton]]  | 0.0001         |
 | [[../../Chemistry/Chemical_Element/Group-18-Nobel-Gases/Xenon\|Xenon]]      | 0.000009       |
 | [[../../Chemistry/Inorganic_Chemistry/Water\|Water]]                                 | 0–4 (variable) |
-| [[Atmosphere,Earth/Ozone]]                                                            | Trace amounts  |
+| [[Atmosphere,Earth/Ozone|Ozone]]                                                            | Trace amounts  |
 
 ## Vertical Stratification 
 

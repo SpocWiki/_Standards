@@ -73,26 +73,26 @@ tags:
 - astro/Zodiac
 type: Zodiac
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~Petrus_Plancius,333534]]'
-- '[[_Standards/WikiData/WD~Amerigo_Vespucci,47674]]'
+- '[[_Standards/WikiData/WD~Petrus_Plancius,333534|WD~Petrus_Plancius,333534]]'
+- '[[_Standards/WikiData/WD~Amerigo_Vespucci,47674|WD~Amerigo_Vespucci,47674]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-part_of: '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+part_of: '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815|WD~Southern_Celestial_Hemisphere,2380815]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Q10729044,10729044]]'
-- '[[_Standards/WikiData/WD~Template_Triangulum_Australe,10857905]]'
+- '[[_Standards/WikiData/WD~Q10729044,10729044|WD~Q10729044,10729044]]'
+- '[[_Standards/WikiData/WD~Template_Triangulum_Australe,10857905|WD~Template_Triangulum_Australe,10857905]]'
 time_of_discovery_or_invention: 1600-01-01T00:00:00Z
 named_after:
-- '[[_Standards/WikiData/WD~south,667]]'
-- '[[_Standards/WikiData/WD~triangle,19821]]'
-instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
+- '[[_Standards/WikiData/WD~south,667|WD~south,667]]'
+- '[[_Standards/WikiData/WD~triangle,19821|WD~triangle,19821]]'
+instance_of: '[[_Standards/WikiData/WD~constellation,8928|WD~constellation,8928]]'
 shares_border_with:
-- '[[_Standards/WikiData/WD~Ara,9253]]'
-- '[[_Standards/WikiData/WD~Apus,10506]]'
-- '[[_Standards/WikiData/WD~Circinus,10508]]'
-- '[[_Standards/WikiData/WD~Norma,10582]]'
+- '[[_Standards/WikiData/WD~Ara,9253|WD~Ara,9253]]'
+- '[[_Standards/WikiData/WD~Apus,10506|WD~Apus,10506]]'
+- '[[_Standards/WikiData/WD~Circinus,10508|WD~Circinus,10508]]'
+- '[[_Standards/WikiData/WD~Norma,10582|WD~Norma,10582]]'
 area: 110
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Constellation%20Triangulum%20Australe.jpg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Triangulum%20Australe%20constellation%20map.svg

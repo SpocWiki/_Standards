@@ -37,12 +37,12 @@ tags:
 - schema-org/Class
 title: is_an_optician Class
 type: Type
-subclass_of: '[[_Standards/WikiData/WD~physicist,169470]]'
-different_from: '[[_Standards/WikiData/WD~optician,1996635]]'
+subclass_of: '[[_Standards/WikiData/WD~physicist,169470|WD~physicist,169470]]'
+different_from: '[[_Standards/WikiData/WD~optician,1996635|WD~optician,1996635]]'
 instance_of:
-- '[[_Standards/WikiData/WD~occupation,12737077]]'
-- '[[_Standards/WikiData/WD~profession,28640]]'
-field_of_this_occupation: '[[_Standards/WikiData/WD~optics,14620]]'
+- '[[_Standards/WikiData/WD~occupation,12737077|WD~occupation,12737077]]'
+- '[[_Standards/WikiData/WD~profession,28640|WD~profession,28640]]'
+field_of_this_occupation: '[[_Standards/WikiData/WD~optics,14620|WD~optics,14620]]'
 female_form_of_label:
 - opticienne
 - Optikerin
@@ -91,11 +91,11 @@ Tag Instances like this:
 
 A store that sells reading glasses and similar devices for improving vision.
 
-#has_/parent_class :: [[../MedicalBusiness]]  
+#has_/parent_class :: [[../MedicalBusiness|MedicalBusiness]]  
 
 #has_/properties :: [ actionableFeedbackPolicy, additionalProperty, additionalType, address, aggregateRating, alternateName, alumni, amenityFeature, areaServed, award, awards, branchCode, branchOf, brand, contactPoint, contactPoints, containedIn, containedInPlace, containsPlace, correctionsPolicy, currenciesAccepted, department, description, disambiguatingDescription, dissolutionDate, diversityPolicy, diversityStaffingReport, duns, email, employee, employees, ethicsPolicy, event, events, faxNumber, founder, founders, foundingDate, foundingLocation, funder, funding, geo, geoContains, geoCoveredBy, geoCovers, geoCrosses, geoDisjoint, geoEquals, geoIntersects, geoOverlaps, geoTouches, geoWithin, globalLocationNumber, hasCredential, hasDriveThroughService, hasMap, hasMerchantReturnPolicy, hasOfferCatalog, hasPOS, hasProductReturnPolicy, identifier, image, interactionStatistic, isAccessibleForFree, isicV4, iso6523Code, keywords, knowsAbout, knowsLanguage, latitude, legalName, leiCode, location, logo, longitude, mainEntityOfPage, makesOffer, map, maps, maximumAttendeeCapacity, member, memberOf, members, naics, name, nonprofitStatus, numberOfEmployees, openingHours, openingHoursSpecification, ownershipFundingInfo, owns, parentOrganization, paymentAccepted, photo, photos, potentialAction, priceRange, publicAccess, publishingPrinciples, review, reviews, sameAs, seeks, serviceArea, slogan, smokingAllowed, specialOpeningHoursSpecification, sponsor, subOrganization, subjectOf, taxID, telephone, tourBookingPage, unnamedSourcesPolicy, url, vatID ]  
 
-#is_/same_as :: [[_Standards/WikiData/WD~optician,71133019]] 
+#is_/same_as :: [[_Standards/WikiData/WD~optician,71133019|WD~optician,71133019]] 
 
 ## #has_/text_of_/abstract 
 

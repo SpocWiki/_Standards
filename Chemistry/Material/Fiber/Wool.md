@@ -101,20 +101,20 @@ aliases:
 - 모섬유
 has_id_wikidata: Q42329
 made_from_material:
-- '[[_Standards/WikiData/WD~fur,197204]]'
-- '[[_Standards/WikiData/WD~wool_hair,115120860]]'
+- '[[_Standards/WikiData/WD~fur,197204|WD~fur,197204]]'
+- '[[_Standards/WikiData/WD~wool_hair,115120860|WD~wool_hair,115120860]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- "[[_Standards/WikiData/WD~Fairchild's_Dictionary_of_Textiles,28888841]]"
-subclass_of: '[[_Standards/WikiData/WD~animal_fiber,874142]]'
-different_from: '[[_Standards/WikiData/WD~Wełna,9372261]]'
-has_use: '[[_Standards/WikiData/WD~wool,11547758]]'
-instance_of: '[[../../../WikiData/WD~fiber,161]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_International_Encyclopedia,1029706|WD~New_International_Encyclopedia,1029706]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~National_Encyclopedia_of_Uzbekistan,5217764|WD~National_Encyclopedia_of_Uzbekistan,5217764]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- "[[_Standards/WikiData/WD~Fairchild's_Dictionary_of_Textiles,28888841|WD~Fairchild's_Dictionary_of_Textiles,28888841]]"
+subclass_of: '[[_Standards/WikiData/WD~animal_fiber,874142|WD~animal_fiber,874142]]'
+different_from: '[[_Standards/WikiData/WD~Wełna,9372261|WD~Wełna,9372261]]'
+has_use: '[[_Standards/WikiData/WD~wool,11547758|WD~wool,11547758]]'
+instance_of: '[[../../../WikiData/WD~fiber,161|WD~fiber,161]]'
 OmegaWiki_Defined_Meaning: 4174
 Commons_gallery: Wool
 Commons_category: Wool

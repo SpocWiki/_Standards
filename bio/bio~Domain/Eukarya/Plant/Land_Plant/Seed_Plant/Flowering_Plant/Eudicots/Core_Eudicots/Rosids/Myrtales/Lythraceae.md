@@ -85,14 +85,14 @@ taxon_common_name:
 - Дербенниковые
 - vrbicovité
 - Fackelblomsväxter
-taxonomic_type: '[[_Standards/WikiData/WD~Lythrum,156845]]'
-taxon_synonym: '[[_Standards/WikiData/WD~Punicaceae,1446177]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Lythrum,156845|WD~Lythrum,156845]]'
+taxon_synonym: '[[_Standards/WikiData/WD~Punicaceae,1446177|WD~Punicaceae,1446177]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_52(2),112869447]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-parent_taxon: '[[_Standards/WikiData/WD~Myrtales,21866]]'
-taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_52(2),112869447|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_52(2),112869447]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+parent_taxon: '[[_Standards/WikiData/WD~Myrtales,21866|WD~Myrtales,21866]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409|WD~family,35409]]'
 ITIS_TSN: 27074
 taxon_author_citation: J.St.-Hil.
 taxon_name: Lythraceae

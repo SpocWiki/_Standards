@@ -152,7 +152,7 @@ Mammals and their extinct relatives
 
 Synapsida is a group of amniotes (tetrapods with eggs adapted for terrestrial environments) 
 that includes mammals and their extinct relatives. 
-The parent group of Synapsida is the class[[../Amniota]]], which also includes reptiles and birds. 
+The parent group of Synapsida is the class[[../Amniota|Amniota]]], which also includes reptiles and birds. 
 The transition from reptiles to synapsids marked an important evolutionary shift 
 toward mammal-like characteristics. 
 

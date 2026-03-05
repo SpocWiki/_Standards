@@ -42,15 +42,15 @@ aliases:
 - ダストボウル
 - 黑色风暴事件
 has_id_wikidata: Q726501
-has_part_s_: '[[_Standards/WikiData/WD~dust_storm,182878]]'
+has_part_s_: '[[_Standards/WikiData/WD~dust_storm,182878|WD~dust_storm,182878]]'
 facet_of:
-- '[[_Standards/WikiData/WD~agrarian_history,396077]]'
-- '[[_Standards/WikiData/WD~economic_history_of_the_United_States,2667020]]'
-- '[[_Standards/WikiData/WD~history_of_human_migration,19720661]]'
-instance_of: '[[_Standards/WikiData/WD~environmental_disaster,3193890]]'
+- '[[_Standards/WikiData/WD~agrarian_history,396077|WD~agrarian_history,396077]]'
+- '[[_Standards/WikiData/WD~economic_history_of_the_United_States,2667020|WD~economic_history_of_the_United_States,2667020]]'
+- '[[_Standards/WikiData/WD~history_of_human_migration,19720661|WD~history_of_human_migration,19720661]]'
+instance_of: '[[_Standards/WikiData/WD~environmental_disaster,3193890|WD~environmental_disaster,3193890]]'
 country:
-- '[[_Standards/WikiData/WD~Canada,16]]'
-- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~Canada,16|WD~Canada,16]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 U_S_National_Archives_Identifier: 10637227
 end_time: 1936-01-01T00:00:00Z
 start_time: 1930-01-01T00:00:00Z

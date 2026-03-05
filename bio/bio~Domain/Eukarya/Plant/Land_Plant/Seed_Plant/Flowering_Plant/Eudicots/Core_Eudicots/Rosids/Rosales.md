@@ -49,12 +49,12 @@ aliases:
 - 장미목
 has_id_wikidata: Q21895
 title: Rosales
-parent_taxon: '[[_Standards/WikiData/WD~fabids,2683213]]'
+parent_taxon: '[[_Standards/WikiData/WD~fabids,2683213|WD~fabids,2683213]]'
 permanent_duplicated_item:
-- '[[_Standards/WikiData/WD~Q23014513,23014513]]'
-- '[[_Standards/WikiData/WD~Q96182801,96182801]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
+- '[[_Standards/WikiData/WD~Q23014513,23014513|WD~Q23014513,23014513]]'
+- '[[_Standards/WikiData/WD~Q96182801,96182801|WD~Q96182801,96182801]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~order,36602|WD~order,36602]]'
 ITIS_TSN: 24057
 OmegaWiki_Defined_Meaning: 361434
 Commons_category: Rosales

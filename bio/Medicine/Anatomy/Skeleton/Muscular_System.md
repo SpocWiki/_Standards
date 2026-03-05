@@ -66,15 +66,15 @@ aliases:
 - 근육계통
 has_id_wikidata: Q7060553
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q9712183,9712183]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q9712183,9712183|WD~Q9712183,9712183]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~set_of_muscles,10590728]]'
-- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Muscular_system,11020533]]'
-part_of: '[[_Standards/WikiData/WD~musculoskeletal_system,90057212]]'
+- '[[_Standards/WikiData/WD~set_of_muscles,10590728|WD~set_of_muscles,10590728]]'
+- '[[_Standards/WikiData/WD~particular_anatomical_entity,112826975|WD~particular_anatomical_entity,112826975]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Muscular_system,11020533|WD~Template_Muscular_system,11020533]]'
+part_of: '[[_Standards/WikiData/WD~musculoskeletal_system,90057212|WD~musculoskeletal_system,90057212]]'
 Commons_category: Muscles
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Gustaf%20Wennman-Anatomical%20poster.jpg
 UMLS_CUI: C1183521

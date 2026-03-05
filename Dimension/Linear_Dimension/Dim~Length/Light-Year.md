@@ -144,16 +144,16 @@ aliases:
 - 광년
 has_id_wikidata: Q531
 instance_of:
-- '[[_Standards/WikiData/WD~physical_constant,173227]]'
-- '[[_Standards/WikiData/WD~unit_of_length,1978718]]'
-- '[[_Standards/WikiData/WD~non_standard_unit,21652125]]'
-- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
-- '[[_Standards/WikiData/WD~UCUM_constant,83155724]]'
+- '[[_Standards/WikiData/WD~physical_constant,173227|WD~physical_constant,173227]]'
+- '[[_Standards/WikiData/WD~unit_of_length,1978718|WD~unit_of_length,1978718]]'
+- '[[_Standards/WikiData/WD~non_standard_unit,21652125|WD~non_standard_unit,21652125]]'
+- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057|WD~UCUM_derived_unit,82047057]]'
+- '[[_Standards/WikiData/WD~UCUM_constant,83155724|WD~UCUM_constant,83155724]]'
 different_from:
-- '[[_Standards/WikiData/WD~Light_year,1181357]]'
-- '[[_Standards/WikiData/WD~Ly,12325183]]'
-- '[[_Standards/WikiData/WD~Año_luz,126209904]]'
-described_by_source: '[[_Standards/WikiData/WD~ISO_80000_3_2006_Quantities_and_units_Part_3_Space_and_time,26711932]]'
+- '[[_Standards/WikiData/WD~Light_year,1181357|WD~Light_year,1181357]]'
+- '[[_Standards/WikiData/WD~Ly,12325183|WD~Ly,12325183]]'
+- '[[_Standards/WikiData/WD~Año_luz,126209904|WD~Año_luz,126209904]]'
+described_by_source: '[[_Standards/WikiData/WD~ISO_80000_3_2006_Quantities_and_units_Part_3_Space_and_time,26711932|WD~ISO_80000_3_2006_Quantities_and_units_Part_3_Space_and_time,26711932]]'
 conversion_to_standard_unit:
 - 31039143016731900
 - 9460730472580.8
@@ -167,7 +167,7 @@ conversion_to_standard_unit:
 - 5878625541248
 - 1959537968183
 conversion_to_SI_unit: 9460730472580800
-measured_physical_quantity: '[[_Standards/WikiData/WD~length,36253]]'
+measured_physical_quantity: '[[_Standards/WikiData/WD~length,36253|WD~length,36253]]'
 OmegaWiki_Defined_Meaning: 679482
 UN_CEFACT_Common_Code: B57
 described_at_URL: https://www.spektrum.de/lexikon/physik/lichtjahr/9014

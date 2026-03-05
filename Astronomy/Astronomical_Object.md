@@ -120,22 +120,22 @@ aliases:
 has_id_wikidata: Q6999
 MeSH_tree_code: G01.060.075
 Krugosvet_article_archived_: nauka_i_tehnika/astronomiya/ASTRONOMICHESKIE_OBEKTI:_OTKRITIE_I_PRISVOENIE_IMEN.html
-subclass_of: '[[_Standards/WikiData/WD~physical_object,223557]]'
-different_from: '[[_Standards/WikiData/WD~Astro,283831]]'
+subclass_of: '[[_Standards/WikiData/WD~physical_object,223557|WD~physical_object,223557]]'
+different_from: '[[_Standards/WikiData/WD~Astro,283831|WD~Astro,283831]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Dictionnaire_Infernal,1210353]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~celestial_body,1519541]]'
+- '[[_Standards/WikiData/WD~Dictionnaire_Infernal,1210353|WD~Dictionnaire_Infernal,1210353]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~celestial_body,1519541|WD~celestial_body,1519541]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~primary_body,7243056]]'
-- '[[_Standards/WikiData/WD~physical_location,17334923]]'
-- '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
-- "[[_Standards/WikiData/WD~astronomical_object's_surface,30318034]]"
-- '[[_Standards/WikiData/WD~shell_of_an_astronomical_object,47495022]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_astronomical_object,10562342]]'
-has_list: '[[_Standards/WikiData/WD~list_of_astronomical_objects,11442223]]'
-has_part_s_: '[[_Standards/WikiData/WD~shell_of_an_astronomical_object,47495022]]'
-instance_of: '[[_Standards/WikiData/WD~type_of_object,96251598]]'
+- '[[_Standards/WikiData/WD~primary_body,7243056|WD~primary_body,7243056]]'
+- '[[_Standards/WikiData/WD~physical_location,17334923|WD~physical_location,17334923]]'
+- '[[_Standards/WikiData/WD~astronomical_object_type,17444909|WD~astronomical_object_type,17444909]]'
+- "[[_Standards/WikiData/WD~astronomical_object's_surface,30318034|WD~astronomical_object's_surface,30318034]]"
+- '[[_Standards/WikiData/WD~shell_of_an_astronomical_object,47495022|WD~shell_of_an_astronomical_object,47495022]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Infobox_astronomical_object,10562342|WD~Template_Infobox_astronomical_object,10562342]]'
+has_list: '[[_Standards/WikiData/WD~list_of_astronomical_objects,11442223|WD~list_of_astronomical_objects,11442223]]'
+has_part_s_: '[[_Standards/WikiData/WD~shell_of_an_astronomical_object,47495022|WD~shell_of_an_astronomical_object,47495022]]'
+instance_of: '[[_Standards/WikiData/WD~type_of_object,96251598|WD~type_of_object,96251598]]'
 properties_for_this_type:
 - part of
 - parent astronomical body
@@ -193,10 +193,10 @@ properties_for_this_type:
 - site of astronomical discovery
 - named after
 model_item:
-- '[[_Standards/WikiData/WD~star,523]]'
-- '[[_Standards/WikiData/WD~supercluster,27521]]'
-- '[[_Standards/WikiData/WD~meteorite,60186]]'
-studied_by: '[[_Standards/WikiData/WD~radio_astronomy,4306]]'
+- '[[_Standards/WikiData/WD~star,523|WD~star,523]]'
+- '[[_Standards/WikiData/WD~supercluster,27521|WD~supercluster,27521]]'
+- '[[_Standards/WikiData/WD~meteorite,60186|WD~meteorite,60186]]'
+studied_by: '[[_Standards/WikiData/WD~radio_astronomy,4306|WD~radio_astronomy,4306]]'
 OmegaWiki_Defined_Meaning: 666100
 Dewey_Decimal_Classification: 523
 Commons_category: Astronomical objects

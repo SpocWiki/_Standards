@@ -71,21 +71,21 @@ aliases:
 - 에메랄드
 has_id_wikidata: Q43513
 subclass_of:
-- '[[_Standards/WikiData/WD~gemstone,83437]]'
-- '[[_Standards/WikiData/WD~beryl,103480]]'
-- '[[_Standards/WikiData/WD~material,214609]]'
-instance_of: '[[_Standards/WikiData/WD~mineral_variety,429795]]'
-crystal_system: '[[_Standards/WikiData/WD~hexagonal_crystal_system,663314]]'
+- '[[_Standards/WikiData/WD~gemstone,83437|WD~gemstone,83437]]'
+- '[[_Standards/WikiData/WD~beryl,103480|WD~beryl,103480]]'
+- '[[_Standards/WikiData/WD~material,214609|WD~material,214609]]'
+instance_of: '[[_Standards/WikiData/WD~mineral_variety,429795|WD~mineral_variety,429795]]'
+crystal_system: '[[_Standards/WikiData/WD~hexagonal_crystal_system,663314|WD~hexagonal_crystal_system,663314]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
-different_from: '[[_Standards/WikiData/WD~emerald,2465494]]'
-streak_color: '[[_Standards/WikiData/WD~white,23444]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356|WD~Explanatory_Dictionary_of_the_Living_Great_Russian_Language,_Second_Edition,23705356]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637|WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
+different_from: '[[_Standards/WikiData/WD~emerald,2465494|WD~emerald,2465494]]'
+streak_color: '[[_Standards/WikiData/WD~white,23444|WD~white,23444]]'
 Mohs_hardness: 7.6
 OmegaWiki_Defined_Meaning: 1079218
 image: http://commons.wikimedia.org/wiki/Special:FilePath/B%C3%A9ryl%20var.%20%C3%A9meraude%20sur%20gangue%20%28Muzo%20Mine%20Boyaca%20-%20Colombie%29%202.jpg

@@ -33,9 +33,9 @@ Tag Instances like this:
 
 Medical clinicians, including practicing physicians and other medical professionals involved in clinical practice.
 
-#has_/parent_class :: [[../MedicalAudienceType]]  
+#has_/parent_class :: [[../MedicalAudienceType|MedicalAudienceType]]  
 
-#is_/enum_of :: [[../MedicalAudienceType]]  
+#is_/enum_of :: [[../MedicalAudienceType|MedicalAudienceType]]  
 
 ## Confidential Links & Embeds: 
 

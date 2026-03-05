@@ -79,8 +79,8 @@ CAS_Registry_Number: 7440-68-8
 chemical_formula: At
 Commons_category: Astatine
 Commons_gallery: Astatine
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Emilio_G._Segrè,173028]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817|WD~Armenian_Soviet_Encyclopedia,_vol._1,123560817]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Emilio_G._Segrè,173028|WD~Emilio_G._Segrè,173028]]'
 DSSTOX_compound_identifier: DTXCID40147882
 electronegativity: 2.2
 element_symbol: At
@@ -89,26 +89,26 @@ image: http://commons.wikimedia.org/wiki/Special:FilePath/Electron%20shell%20085
 InChI: InChI=1S/At
 InChIKey: RYXHOMYVWAEKHL-UHFFFAOYSA-N
 instance_of:
-- '[[_Standards/WikiData/WD~synthetic_element,755992]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+- '[[_Standards/WikiData/WD~synthetic_element,755992|WD~synthetic_element,755992]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 location_of_discovery:
-- '[[_Standards/WikiData/WD~United_States,30]]'
+- '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
 MeSH_tree_code:
 - D01.268.271.110
 - D01.268.380.075
 - D01.496.749.305.110
-named_after: '[[_Standards/WikiData/WD~instability,405372]]'
+named_after: '[[_Standards/WikiData/WD~instability,405372|WD~instability,405372]]'
 OmegaWiki_Defined_Meaning: 155974
 part_of:
-- '[[_Standards/WikiData/WD~period_6,239813]]'
-- '[[_Standards/WikiData/WD~halogens,19605]]'
+- '[[_Standards/WikiData/WD~period_6,239813|WD~period_6,239813]]'
+- '[[_Standards/WikiData/WD~halogens,19605|WD~halogens,19605]]'
 plaque_image: http://commons.wikimedia.org/wiki/Special:FilePath/At%20Tokyo%202024%20156.jpg
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/LL-Q150%20%28fra%29-Guilhelma-astate.wav
 PubChem_CID: 5460479
 SpocWebEntityId: 21980
 subclass_of:
-- '[[_Standards/WikiData/WD~metalloid,19596]]'
-- '[[_Standards/WikiData/WD~halogens,19605]]'
+- '[[_Standards/WikiData/WD~metalloid,19596|WD~metalloid,19596]]'
+- '[[_Standards/WikiData/WD~halogens,19605|WD~halogens,19605]]'
 time_of_discovery_or_invention: 1940
 type: Element
 UMLS_CUI: C0004091
@@ -311,9 +311,9 @@ dv_has_:
         kj_:
           mol: 0
 dv_is_:
-  part_of: '[[../Group-17-Halogen]]]'
+  part_of: '[[../Group-17-Halogen|Group-17-Halogen]]]'
   same_as:
-  - '[[../../../WikiData/WD~Astatine,999]]'
+  - '[[../../../WikiData/WD~Astatine,999|WD~Astatine,999]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Group-17-Halogen/Astatine|Astatine]]'
   - '[[/_public/Chemistry/Chemical_Element/Group-17-Halogen/Astatine.public|Astatine.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Group-17-Halogen/Astatine.internal|Astatine.internal]]'
@@ -322,7 +322,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Chemical_Element/Group-17-Halogen/Astatine.personal|Astatine.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Group-17-Halogen/Astatine.secret|Astatine.secret]]'
 dv_has_name_group: Group-17-Halogene
-dv_is_part_of: '[[../Group-17-Halogen]]]'
+dv_is_part_of: '[[../Group-17-Halogen|Group-17-Halogen]]]'
 dv_has_name_en: Astatine
 dv_has_name_de: Astat
 dv_has_value_for_weight_u: 210
@@ -341,7 +341,7 @@ dv_has_value_for_energy_form_kj_mol: 0
 dv_has_number_of_period: 6
 dv_has_number_of_group: 17
 dv_is_same_as:
-- '[[../../../WikiData/WD~Astatine,999]]'
+- '[[../../../WikiData/WD~Astatine,999|WD~Astatine,999]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Group-17-Halogen/Astatine|Astatine]]'
 - '[[/_public/Chemistry/Chemical_Element/Group-17-Halogen/Astatine.public|Astatine.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Group-17-Halogen/Astatine.internal|Astatine.internal]]'
@@ -386,7 +386,7 @@ has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol`
 has_number_of_period = `=this.dv_has_number_of_period` 
 has_number_of_group = `=this.dv_has_number_of_group` 
 
-#is_/same_as :: [[../../../WikiData/WD~Astatine,999]] 
+#is_/same_as :: [[../../../WikiData/WD~Astatine,999|WD~Astatine,999]] 
 
 
 ## #has_/text_of_/abstract 

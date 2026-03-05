@@ -71,20 +71,20 @@ aliases:
 - 病原體
 - 병원체
 has_id_wikidata: Q170065
-has_host: '[[_Standards/WikiData/WD~vector,107994]]'
+has_host: '[[_Standards/WikiData/WD~vector,107994|WD~vector,107994]]'
 has_effect:
-- '[[_Standards/WikiData/WD~infection,166231]]'
-- '[[_Standards/WikiData/WD~infectious_disease,18123741]]'
-has_characteristic: '[[_Standards/WikiData/WD~pathogenicity,510062]]'
+- '[[_Standards/WikiData/WD~infection,166231|WD~infection,166231]]'
+- '[[_Standards/WikiData/WD~infectious_disease,18123741|WD~infectious_disease,18123741]]'
+has_characteristic: '[[_Standards/WikiData/WD~pathogenicity,510062|WD~pathogenicity,510062]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~biological_hazard,864360]]'
-- '[[_Standards/WikiData/WD~disease_causative_agent,2826767]]'
-- '[[_Standards/WikiData/WD~organism,7239]]'
+- '[[_Standards/WikiData/WD~biological_hazard,864360|WD~biological_hazard,864360]]'
+- '[[_Standards/WikiData/WD~disease_causative_agent,2826767|WD~disease_causative_agent,2826767]]'
+- '[[_Standards/WikiData/WD~organism,7239|WD~organism,7239]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-opposite_of: '[[_Standards/WikiData/WD~nonpathogenic_organisms,10414394]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+opposite_of: '[[_Standards/WikiData/WD~nonpathogenic_organisms,10414394|WD~nonpathogenic_organisms,10414394]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832|WD~WikiProject_Zika_Corpus,54439832]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Shigella%20stool.jpg
 dv_has_:
   name_:

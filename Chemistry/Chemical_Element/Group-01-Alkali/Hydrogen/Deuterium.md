@@ -52,20 +52,20 @@ aliases:
 - 重水素
 - 중수소
 has_id_wikidata: Q102296
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Harold_Urey,179777]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Harold_Urey,179777|WD~Harold_Urey,179777]]'
 instance_of:
-- '[[_Standards/WikiData/WD~isotope_of_hydrogen,466603]]'
-- '[[_Standards/WikiData/WD~stable_isotope,878130]]'
+- '[[_Standards/WikiData/WD~isotope_of_hydrogen,466603|WD~isotope_of_hydrogen,466603]]'
+- '[[_Standards/WikiData/WD~stable_isotope,878130|WD~stable_isotope,878130]]'
 different_from:
-- '[[_Standards/WikiData/WD~Deuter,1201704]]'
-- '[[_Standards/WikiData/WD~Deuterium,18397675]]'
+- '[[_Standards/WikiData/WD~Deuter,1201704|WD~Deuter,1201704]]'
+- '[[_Standards/WikiData/WD~Deuterium,18397675|WD~Deuterium,18397675]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~simple_substance,2512777]]'
-- '[[_Standards/WikiData/WD~hydrogen,556]]'
-- '[[_Standards/WikiData/WD~boson,43101]]'
-antiparticle: '[[_Standards/WikiData/WD~antideuterium,11905736]]'
-follows: '[[_Standards/WikiData/WD~protium,12830437]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
+- '[[_Standards/WikiData/WD~simple_substance,2512777|WD~simple_substance,2512777]]'
+- '[[_Standards/WikiData/WD~hydrogen,556|WD~hydrogen,556]]'
+- '[[_Standards/WikiData/WD~boson,43101|WD~boson,43101]]'
+antiparticle: '[[_Standards/WikiData/WD~antideuterium,11905736|WD~antideuterium,11905736]]'
+follows: '[[_Standards/WikiData/WD~protium,12830437|WD~protium,12830437]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616|WD~Armenian_Soviet_Encyclopedia,_vol._3,124737616]]'
 mass: 2.01410177811
 melting_point: -254.43
 boiling_point: -249.58
@@ -74,7 +74,7 @@ parity_quantum_number: 1
 spin_quantum_number: 1
 atomic_number: 1
 natural_abundance: 0.000115
-followed_by: '[[_Standards/WikiData/WD~tritium,54389]]'
+followed_by: '[[_Standards/WikiData/WD~tritium,54389|WD~tritium,54389]]'
 element_symbol: D
 OmegaWiki_Defined_Meaning: 158214
 binding_energy:
@@ -102,7 +102,7 @@ time_of_discovery_or_invention: 1931-01-01T00:00:00Z
 mass_excess: 13135.72176
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~deuterium,102296]]'
+  - '[[_Standards/WikiData/WD~deuterium,102296|WD~deuterium,102296]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Deuterium|Deuterium]]'
   - '[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Deuterium.public|Deuterium.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Deuterium.internal|Deuterium.internal]]'
@@ -111,7 +111,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Deuterium.personal|Deuterium.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Deuterium.secret|Deuterium.secret]]'
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~deuterium,102296]]'
+- '[[_Standards/WikiData/WD~deuterium,102296|WD~deuterium,102296]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Deuterium|Deuterium]]'
 - '[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Deuterium.public|Deuterium.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen/Deuterium.internal|Deuterium.internal]]'
@@ -222,7 +222,7 @@ dv_has_:
 
 # [[Deuterium]]  
 
-#is_/same_as :: [[_Standards/WikiData/WD~deuterium,102296]] 
+#is_/same_as :: [[_Standards/WikiData/WD~deuterium,102296|WD~deuterium,102296]] 
 
 ## #has_/text_of_/abstract 
 

@@ -109,18 +109,18 @@ taxon_common_name:
 - Diavolul tasmanian
 - Diabol tasmánsky
 has_characteristic:
-- '[[_Standards/WikiData/WD~viviparity,120446]]'
-- '[[_Standards/WikiData/WD~biofluorescence,101248333]]'
+- '[[_Standards/WikiData/WD~viviparity,120446|WD~viviparity,120446]]'
+- '[[_Standards/WikiData/WD~biofluorescence,101248333|WD~biofluorescence,101248333]]'
 parent_taxon:
-- '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Sarcophilus,937821]]'
-- '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Dasyurini,533062]]'
-described_by_source: "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
-IUCN_conservation_status: '[[_Standards/WikiData/WD~Endangered_status,96377276]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Sarcophilus_harrisii,135207768]]'
-endemic_to: '[[_Standards/WikiData/WD~Australia,408]]'
-taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Sarcophilus,937821|WD~Sarcophilus,937821]]'
+- '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Dasyurini,533062|WD~Dasyurini,533062]]'
+described_by_source: "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615|WD~WikiProject_Invasion_Biology,56241615]]'
+IUCN_conservation_status: '[[_Standards/WikiData/WD~Endangered_status,96377276|WD~Endangered_status,96377276]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Sarcophilus_harrisii,135207768|WD~Sarcophilus_harrisii,135207768]]'
+endemic_to: '[[_Standards/WikiData/WD~Australia,408|WD~Australia,408]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432|WD~species,7432]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 longest_observed_lifespan: 13
 gestation_period: 21
 litter_size: 25

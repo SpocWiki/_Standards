@@ -101,16 +101,16 @@ taxon_common_name:
 - Iridàcia
 - kosatcovité
 - Iris-familien
-has_fruit_type: '[[_Standards/WikiData/WD~capsule,147768]]'
-taxonomic_type: '[[_Standards/WikiData/WD~Iris,156901]]'
+has_fruit_type: '[[_Standards/WikiData/WD~capsule,147768|WD~capsule,147768]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Iris,156901|WD~Iris,156901]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_16(1),112869390]]'
-subclass_of: '[[_Standards/WikiData/WD~flowering_plant,886167]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-parent_taxon: '[[_Standards/WikiData/WD~Asparagales,26229]]'
-taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_16(1),112869390|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_16(1),112869390]]'
+subclass_of: '[[_Standards/WikiData/WD~flowering_plant,886167|WD~flowering_plant,886167]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+parent_taxon: '[[_Standards/WikiData/WD~Asparagales,26229|WD~Asparagales,26229]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409|WD~family,35409]]'
 start_time: -60000000-06
 ITIS_TSN: 43190
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Babiana%20sambucina%201.jpg

@@ -446,7 +446,7 @@ Unicode_character: 🐏
 
 
 
-[[Ovis/Ovis_canadensis.jpg]]
+[[Ovis/Ovis_canadensis.jpg|Ovis_canadensis.jpg]]
 
 -   *Ovis ammon* [(argali)]
 -   *[Ovis aries](Ovis_aries)* [(mouflon,

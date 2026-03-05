@@ -126,22 +126,22 @@ aliases:
 - 씨
 has_id_wikidata: Q40763
 has_part_s_:
-- '[[_Standards/WikiData/WD~cotyledon,193026]]'
-- '[[_Standards/WikiData/WD~epicotyl,1347099]]'
-- '[[_Standards/WikiData/WD~germ,1377980]]'
-- '[[_Standards/WikiData/WD~seed_coat,2217063]]'
-- '[[_Standards/WikiData/WD~endosperm,25624]]'
-develops_from: '[[_Standards/WikiData/WD~ovule,380138]]'
+- '[[_Standards/WikiData/WD~cotyledon,193026|WD~cotyledon,193026]]'
+- '[[_Standards/WikiData/WD~epicotyl,1347099|WD~epicotyl,1347099]]'
+- '[[_Standards/WikiData/WD~germ,1377980|WD~germ,1377980]]'
+- '[[_Standards/WikiData/WD~seed_coat,2217063|WD~seed_coat,2217063]]'
+- '[[_Standards/WikiData/WD~endosperm,25624|WD~endosperm,25624]]'
+develops_from: '[[_Standards/WikiData/WD~ovule,380138|WD~ovule,380138]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q13156346,13156346]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q13156346,13156346|WD~Q13156346,13156346]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~plant_structure,20011319]]'
-- '[[_Standards/WikiData/WD~food,2095]]'
-different_from: '[[_Standards/WikiData/WD~seed,100275245]]'
+- '[[_Standards/WikiData/WD~plant_structure,20011319|WD~plant_structure,20011319]]'
+- '[[_Standards/WikiData/WD~food,2095|WD~food,2095]]'
+different_from: '[[_Standards/WikiData/WD~seed,100275245|WD~seed,100275245]]'
 OmegaWiki_Defined_Meaning: 3361
 Commons_gallery: Seeds
 Commons_category: Seeds

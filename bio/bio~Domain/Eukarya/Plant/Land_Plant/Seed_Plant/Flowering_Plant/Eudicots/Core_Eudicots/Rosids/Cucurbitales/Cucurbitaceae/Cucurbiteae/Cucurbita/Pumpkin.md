@@ -314,7 +314,7 @@ Unicode_character: 🎃
 
 ## #has_/text_of_/abstract 
 
-> A **Pumpkin** is a cultivated winter squash in the genus [[../Cucurbita]]. 
+> A **Pumpkin** is a cultivated winter squash in the genus [[../Cucurbita|Cucurbita]]. 
 > 
 > The term is most commonly applied to round, orange-colored squash varieties, 
 > but does not possess a scientific definition. It may be used in reference to many different squashes of varied appearance and belonging to multiple species in the Cucurbita genus.

@@ -134,16 +134,16 @@ taxon_common_name:
 - brukvovité
 Dewey_Decimal_Classification: 583.64
 described_by_source:
-- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-has_fruit_type: '[[_Standards/WikiData/WD~silicle,3361146]]'
-has_list: '[[_Standards/WikiData/WD~list_of_Brassicaceae,12480245]]'
-subclass_of: '[[_Standards/WikiData/WD~plant,756]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-parent_taxon: '[[_Standards/WikiData/WD~Brassicales,21904]]'
-taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
-taxonomic_type: '[[_Standards/WikiData/WD~Brassica,58677]]'
+- '[[_Standards/WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+has_fruit_type: '[[_Standards/WikiData/WD~silicle,3361146|WD~silicle,3361146]]'
+has_list: '[[_Standards/WikiData/WD~list_of_Brassicaceae,12480245|WD~list_of_Brassicaceae,12480245]]'
+subclass_of: '[[_Standards/WikiData/WD~plant,756|WD~plant,756]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+parent_taxon: '[[_Standards/WikiData/WD~Brassicales,21904|WD~Brassicales,21904]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409|WD~family,35409]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Brassica,58677|WD~Brassica,58677]]'
 ITIS_TSN: 22669
 Montana_Plant_Life_URL: http://montana.plant-life.org/cgi-bin/family03.cgi?Brassicaceae
 Commons_category: Brassicaceae
@@ -263,7 +263,7 @@ dv_has_:
 
 # [[Brassicaceae]] 
 
-#is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Brassicaceae,156888]] 
+#is_/same_as :: [[../../../../../../../../../../../WikiData/WD~Brassicaceae,156888|WD~Brassicaceae,156888]] 
 
 ## #has_/text_of_/abstract 
 

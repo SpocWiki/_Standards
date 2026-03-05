@@ -37,22 +37,22 @@ aliases:
 - 갤런
 has_id_wikidata: Q178413
 different_from:
-- '[[_Standards/WikiData/WD~gal,500515]]'
-- '[[_Standards/WikiData/WD~dry_gallon,5309589]]'
-- '[[_Standards/WikiData/WD~gallon_(Scots),5519125]]'
-- '[[_Standards/WikiData/WD~wine_gallon,8024928]]'
-- '[[_Standards/WikiData/WD~gallon_(UK),23925410]]'
-- '[[_Standards/WikiData/WD~gallon_(US),23925413]]'
-- '[[_Standards/WikiData/WD~beer_gallon,23925527]]'
+- '[[_Standards/WikiData/WD~gal,500515|WD~gal,500515]]'
+- '[[_Standards/WikiData/WD~dry_gallon,5309589|WD~dry_gallon,5309589]]'
+- '[[_Standards/WikiData/WD~gallon_(Scots),5519125|WD~gallon_(Scots),5519125]]'
+- '[[_Standards/WikiData/WD~wine_gallon,8024928|WD~wine_gallon,8024928]]'
+- '[[_Standards/WikiData/WD~gallon_(UK),23925410|WD~gallon_(UK),23925410]]'
+- '[[_Standards/WikiData/WD~gallon_(US),23925413|WD~gallon_(US),23925413]]'
+- '[[_Standards/WikiData/WD~beer_gallon,23925527|WD~beer_gallon,23925527]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~unit_of_volume,1302471]]'
-- '[[_Standards/WikiData/WD~non_standard_unit,21652125]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~gallon,135710760]]'
-instance_of: '[[_Standards/WikiData/WD~unit_of_measurement,47574]]'
+- '[[_Standards/WikiData/WD~unit_of_volume,1302471|WD~unit_of_volume,1302471]]'
+- '[[_Standards/WikiData/WD~non_standard_unit,21652125|WD~non_standard_unit,21652125]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~gallon,135710760|WD~gallon,135710760]]'
+instance_of: '[[_Standards/WikiData/WD~unit_of_measurement,47574|WD~unit_of_measurement,47574]]'
 OmegaWiki_Defined_Meaning: 350352
 image: http://commons.wikimedia.org/wiki/Special:FilePath/GasCan.jpg
 UMLS_CUI: CL449030

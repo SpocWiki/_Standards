@@ -49,22 +49,22 @@ aliases:
 - 猴面包树属
 - 바오밥나무속
 has_id_wikidata: Q157991
-has_fruit_type: '[[_Standards/WikiData/WD~capsule,147768]]'
-taxonomic_type: '[[_Standards/WikiData/WD~Adansonia_digitata,158742]]'
-named_after: '[[_Standards/WikiData/WD~Michel_Adanson,315861]]'
-subclass_of: '[[_Standards/WikiData/WD~Bombacoideae,532007]]'
-parent_taxon: '[[_Standards/WikiData/WD~Bombacoideae,532007]]'
+has_fruit_type: '[[_Standards/WikiData/WD~capsule,147768|WD~capsule,147768]]'
+taxonomic_type: '[[_Standards/WikiData/WD~Adansonia_digitata,158742|WD~Adansonia_digitata,158742]]'
+named_after: '[[_Standards/WikiData/WD~Michel_Adanson,315861|WD~Michel_Adanson,315861]]'
+subclass_of: '[[_Standards/WikiData/WD~Bombacoideae,532007|WD~Bombacoideae,532007]]'
+parent_taxon: '[[_Standards/WikiData/WD~Bombacoideae,532007|WD~Bombacoideae,532007]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_49(2),112869441]]'
-this_taxon_is_source_of: '[[_Standards/WikiData/WD~baobab_wood,110797545]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Encyclopedic_Lexicon,4532135|WD~Encyclopedic_Lexicon,4532135]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_49(2),112869441|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_49(2),112869441]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~baobab_wood,110797545|WD~baobab_wood,110797545]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
 ITIS_TSN: 21590
 OmegaWiki_Defined_Meaning: 428797
 taxon_common_name:
@@ -209,7 +209,7 @@ dv_has_:
 
 # [[Adansonia]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Adansonia,157991]] 
+#is_/same_as :: [[../../../../../../../../../../../../WikiData/WD~Adansonia,157991|WD~Adansonia,157991]] 
 ## #has_/text_of_/abstract 
 
 > **Adansonia** is a genus of medium-to-large deciduous trees known as baobab. 

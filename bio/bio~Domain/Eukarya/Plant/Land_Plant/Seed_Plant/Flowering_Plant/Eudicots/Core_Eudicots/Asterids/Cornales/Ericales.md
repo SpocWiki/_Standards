@@ -43,9 +43,9 @@ aliases:
 - 진달래목
 has_id_wikidata: Q21737
 title: Ericales
-parent_taxon: '[[_Standards/WikiData/WD~asterids,747502]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
+parent_taxon: '[[_Standards/WikiData/WD~asterids,747502|WD~asterids,747502]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~order,36602|WD~order,36602]]'
 ITIS_TSN: 23443
 image: http://commons.wikimedia.org/wiki/Special:FilePath/RhododendronSimsiiFlowers2.jpg
 Commons_category: Ericales

@@ -88,28 +88,28 @@ spoken_text_audio:
 - http://commons.wikimedia.org/wiki/Special:FilePath/En-Humpback-whale-article.ogg
 - http://commons.wikimedia.org/wiki/Special:FilePath/En-humpback%20whale.ogg
 - http://commons.wikimedia.org/wiki/Special:FilePath/Fr-baleine%20a%20bosse.ogg
-IUCN_conservation_status: '[[_Standards/WikiData/WD~Least_Concern,211005]]'
+IUCN_conservation_status: '[[_Standards/WikiData/WD~Least_Concern,211005|WD~Least_Concern,211005]]'
 main_food_source:
-- '[[_Standards/WikiData/WD~zooplankton,842627]]'
-- '[[_Standards/WikiData/WD~Euphausiacea,29498]]'
-- '[[_Standards/WikiData/WD~Atlantic_mackerel,30153]]'
+- '[[_Standards/WikiData/WD~zooplankton,842627|WD~zooplankton,842627]]'
+- '[[_Standards/WikiData/WD~Euphausiacea,29498|WD~Euphausiacea,29498]]'
+- '[[_Standards/WikiData/WD~Atlantic_mackerel,30153|WD~Atlantic_mackerel,30153]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
 taxon_range:
-- '[[_Standards/WikiData/WD~Quatipuru,2008521]]'
-- '[[_Standards/WikiData/WD~Brazil,155]]'
-CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528]]'
-parent_taxon: '[[_Standards/WikiData/WD~Megaptera,12771348]]'
-Wildlife_Protection_Act_1972_India_schedule: '[[_Standards/WikiData/WD~Schedule_I_(Part_I)_of_Wildlife_Protection_Act,_1972,74713579]]'
-NZTCS_conservation_status: '[[_Standards/WikiData/WD~migrant,108448684]]'
-original_combination: '[[_Standards/WikiData/WD~Balaena_novaeangliae,122984319]]'
+- '[[_Standards/WikiData/WD~Quatipuru,2008521|WD~Quatipuru,2008521]]'
+- '[[_Standards/WikiData/WD~Brazil,155|WD~Brazil,155]]'
+CITES_Appendix: '[[_Standards/WikiData/WD~Appendix_I_of_CITES,2851528|WD~Appendix_I_of_CITES,2851528]]'
+parent_taxon: '[[_Standards/WikiData/WD~Megaptera,12771348|WD~Megaptera,12771348]]'
+Wildlife_Protection_Act_1972_India_schedule: '[[_Standards/WikiData/WD~Schedule_I_(Part_I)_of_Wildlife_Protection_Act,_1972,74713579|WD~Schedule_I_(Part_I)_of_Wildlife_Protection_Act,_1972,74713579]]'
+NZTCS_conservation_status: '[[_Standards/WikiData/WD~migrant,108448684|WD~migrant,108448684]]'
+original_combination: '[[_Standards/WikiData/WD~Balaena_novaeangliae,122984319|WD~Balaena_novaeangliae,122984319]]'
 taxon_synonym:
-- '[[_Standards/WikiData/WD~Megaptera_longipinna,122984432]]'
-- '[[_Standards/WikiData/WD~Balaena_nodosa,122989330]]'
-does_not_have_part: '[[_Standards/WikiData/WD~tooth,553]]'
-taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~Megaptera_longipinna,122984432|WD~Megaptera_longipinna,122984432]]'
+- '[[_Standards/WikiData/WD~Balaena_nodosa,122989330|WD~Balaena_nodosa,122989330]]'
+does_not_have_part: '[[_Standards/WikiData/WD~tooth,553|WD~tooth,553]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432|WD~species,7432]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 litter_size: 1
 period_of_lactation: 11
 gestation_period: 12

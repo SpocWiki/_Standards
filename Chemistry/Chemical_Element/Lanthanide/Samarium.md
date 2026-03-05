@@ -72,12 +72,12 @@ chemical_formula: Sm
 Commons_category: Samarium
 Commons_gallery: Samarium
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
-different_from: '[[_Standards/WikiData/WD~Samar,345447]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Paul-Émile_Lecoq_de_Boisbaudran,366827]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637|WD~Armenian_Soviet_Encyclopedia,_vol._10,124737637]]'
+different_from: '[[_Standards/WikiData/WD~Samar,345447|WD~Samar,345447]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Paul-Émile_Lecoq_de_Boisbaudran,366827|WD~Paul-Émile_Lecoq_de_Boisbaudran,366827]]'
 DSSTOX_compound_identifier: DTXCID6047652
 EC_number: 231-128-7
 electronegativity: 1.17
@@ -86,27 +86,27 @@ Gmelin_number: 16301
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Samarium%201.jpg
 InChI: InChI=1S/Sm
 InChIKey: KZUNJOHGWZRPMI-UHFFFAOYSA-N
-instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
+instance_of: '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 ionic_radius:
 - 0.96
 - 1.08
 - 1.19
 - 1.24
 - 1.27
-location_of_discovery: '[[_Standards/WikiData/WD~Paris,90]]'
+location_of_discovery: '[[_Standards/WikiData/WD~Paris,90|WD~Paris,90]]'
 made_from_material:
-- '[[_Standards/WikiData/WD~spent_nuclear_fuel,2623868]]'
-- '[[_Standards/WikiData/WD~monazite-(Sm),3860584]]'
-- '[[_Standards/WikiData/WD~florencite-(Sm),13588763]]'
+- '[[_Standards/WikiData/WD~spent_nuclear_fuel,2623868|WD~spent_nuclear_fuel,2623868]]'
+- '[[_Standards/WikiData/WD~monazite-(Sm),3860584|WD~monazite-(Sm),3860584]]'
+- '[[_Standards/WikiData/WD~florencite-(Sm),13588763|WD~florencite-(Sm),13588763]]'
 mass: 150.36
 MeSH_tree_code:
 - D01.268.558.362.937
 - D01.552.550.399.937
-named_after: '[[_Standards/WikiData/WD~samarskite-(Y),417648]]'
+named_after: '[[_Standards/WikiData/WD~samarskite-(Y),417648|WD~samarskite-(Y),417648]]'
 OmegaWiki_Defined_Meaning: 356071
 part_of:
-- '[[_Standards/WikiData/WD~period_6,239813]]'
-- '[[_Standards/WikiData/WD~lanthanide,19569]]'
+- '[[_Standards/WikiData/WD~period_6,239813|WD~period_6,239813]]'
+- '[[_Standards/WikiData/WD~lanthanide,19569|WD~lanthanide,19569]]'
 PubChem_CID: 23951
 SpocWebEntityId: 21958
 time_of_discovery_or_invention: 1879
@@ -297,7 +297,7 @@ dv_has_:
           mol: 166.4
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Samarium,1819]]'
+  - '[[../../../WikiData/WD~Samarium,1819|WD~Samarium,1819]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Lanthanide/Samarium|Samarium]]'
   - '[[/_public/Chemistry/Chemical_Element/Lanthanide/Samarium.public|Samarium.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Lanthanide/Samarium.internal|Samarium.internal]]'
@@ -306,7 +306,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Chemical_Element/Lanthanide/Samarium.personal|Samarium.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Lanthanide/Samarium.secret|Samarium.secret]]'
 dv_has_name_group: Lanthanide-Group
-dv_is_part_of: '[[../Lanthanide]]'
+dv_is_part_of: '[[../Lanthanide|Lanthanide]]'
 dv_has_name_en: Samarium
 dv_has_name_de: Samarium
 dv_has_value_for_weight_u: 150.36
@@ -325,7 +325,7 @@ dv_has_value_for_energy_form_kj_mol: 166.4
 dv_has_number_of_period: 6
 dv_has_number_of_group: 28
 dv_is_same_as:
-- '[[../../../WikiData/WD~Samarium,1819]]'
+- '[[../../../WikiData/WD~Samarium,1819|WD~Samarium,1819]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Lanthanide/Samarium|Samarium]]'
 - '[[/_public/Chemistry/Chemical_Element/Lanthanide/Samarium.public|Samarium.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Lanthanide/Samarium.internal|Samarium.internal]]'
@@ -372,7 +372,7 @@ has_value_for_energy_form_kj_mol = `=this.dv_has_value_for_energy_form_kj_mol`
 has_number_of_period = `=this.dv_has_number_of_period` 
 has_number_of_group = `=this.dv_has_number_of_group` 
 
-#is_/same_as :: [[../../../WikiData/WD~Samarium,1819]] 
+#is_/same_as :: [[../../../WikiData/WD~Samarium,1819|WD~Samarium,1819]] 
 
 
 ## #has_/text_of_/abstract 

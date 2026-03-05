@@ -32,9 +32,9 @@ aliases:
 - 집단 의사결정
 has_id_wikidata: Q388791
 subclass_of:
-- '[[../../../../../WikiData/WD~decision_making,1331926]]'
-- '[[_Standards/WikiData/WD~group_behaviour,3482410]]'
-partially_coincident_with: '[[_Standards/WikiData/WD~social_choice_theory,1971461]]'
+- '[[../../../../../WikiData/WD~decision_making,1331926|WD~decision_making,1331926]]'
+- '[[_Standards/WikiData/WD~group_behaviour,3482410|WD~group_behaviour,3482410]]'
+partially_coincident_with: '[[_Standards/WikiData/WD~social_choice_theory,1971461|WD~social_choice_theory,1971461]]'
 Library_of_Congress_Classification: HM746-HM751
 dv_has_:
   name_:

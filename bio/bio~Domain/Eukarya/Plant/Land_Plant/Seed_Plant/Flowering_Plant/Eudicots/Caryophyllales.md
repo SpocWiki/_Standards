@@ -39,9 +39,9 @@ aliases:
 - 石竹目
 - 석죽목
 has_id_wikidata: Q21808
-parent_taxon: '[[_Standards/WikiData/WD~core_eudicots,869087]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~order,36602]]'
+parent_taxon: '[[_Standards/WikiData/WD~core_eudicots,869087|WD~core_eudicots,869087]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~order,36602|WD~order,36602]]'
 ITIS_TSN: 19520
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Dianthus%20caryophyllus%20L%20%28Clove%20pink%29.JPG
 EPPO_Code: 1CAFO
@@ -176,7 +176,7 @@ dv_has_:
 
 # [[Caryophyllales]] 
 
-#is_/same_as :: [[../../../../../../../../WikiData/WD~Caryophyllales,21808]] 
+#is_/same_as :: [[../../../../../../../../WikiData/WD~Caryophyllales,21808|WD~Caryophyllales,21808]] 
 
 ## #has_/text_of_/abstract 
 

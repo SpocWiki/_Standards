@@ -31,52 +31,52 @@ DPLA_subject_term:
 birth_name: Isabella Baumfree
 name_in_native_language: Sojourner Truth
 date_of_birth: 1797-01-01T00:00:00Z
-field_of_work: '[[_Standards/WikiData/WD~abolitionism,169390]]'
-has_works_in_the_collection: '[[_Standards/WikiData/WD~Art_Institute_of_Chicago,239303]]'
-place_of_death: '[[_Standards/WikiData/WD~Battle_Creek,810998]]'
-residence: '[[_Standards/WikiData/WD~Battle_Creek,810998]]'
-place_of_birth: '[[_Standards/WikiData/WD~Hurley,1285433]]'
+field_of_work: '[[_Standards/WikiData/WD~abolitionism,169390|WD~abolitionism,169390]]'
+has_works_in_the_collection: '[[_Standards/WikiData/WD~Art_Institute_of_Chicago,239303|WD~Art_Institute_of_Chicago,239303]]'
+place_of_death: '[[_Standards/WikiData/WD~Battle_Creek,810998|WD~Battle_Creek,810998]]'
+residence: '[[_Standards/WikiData/WD~Battle_Creek,810998|WD~Battle_Creek,810998]]'
+place_of_birth: '[[_Standards/WikiData/WD~Hurley,1285433|WD~Hurley,1285433]]'
 occupation:
-- '[[_Standards/WikiData/WD~human_rights_defender,1476215]]'
-- '[[_Standards/WikiData/WD~religious_leader,15995642]]'
-- '[[_Standards/WikiData/WD~abolitionist,18510179]]'
-- '[[_Standards/WikiData/WD~suffragist,27532437]]'
-- "[[_Standards/WikiData/WD~women's_rights_activist,28692502]]"
+- '[[_Standards/WikiData/WD~human_rights_defender,1476215|WD~human_rights_defender,1476215]]'
+- '[[_Standards/WikiData/WD~religious_leader,15995642|WD~religious_leader,15995642]]'
+- '[[_Standards/WikiData/WD~abolitionist,18510179|WD~abolitionist,18510179]]'
+- '[[_Standards/WikiData/WD~suffragist,27532437|WD~suffragist,27532437]]'
+- "[[_Standards/WikiData/WD~women's_rights_activist,28692502|WD~women's_rights_activist,28692502]]"
 award_received:
-- "[[_Standards/WikiData/WD~National_Women's_Hall_of_Fame,1967852]]"
-- "[[_Standards/WikiData/WD~Michigan_Women's_Hall_of_Fame,6837811]]"
-sex_or_gender: '[[_Standards/WikiData/WD~female,6581072]]'
-social_classification: '[[_Standards/WikiData/WD~slave,12773225]]'
+- "[[_Standards/WikiData/WD~National_Women's_Hall_of_Fame,1967852|WD~National_Women's_Hall_of_Fame,1967852]]"
+- "[[_Standards/WikiData/WD~Michigan_Women's_Hall_of_Fame,6837811|WD~Michigan_Women's_Hall_of_Fame,6837811]]"
+sex_or_gender: '[[_Standards/WikiData/WD~female,6581072|WD~female,6581072]]'
+social_classification: '[[_Standards/WikiData/WD~slave,12773225|WD~slave,12773225]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Appletons'_Cyclopædia_of_American_Biography,12912667]]"
-- '[[_Standards/WikiData/WD~Online_Biographical_Dictionary_of_the_Woman_Suffrage_Movement_in_the_United_States,66663817]]'
-- '[[_Standards/WikiData/WD~Obálky_knih,67311526]]'
-- '[[_Standards/WikiData/WD~Women_of_Distinction_Remarkable_in_Works_and_Invincible_in_Character,97672273]]'
-- '[[_Standards/WikiData/WD~African_American_Authors,_1745_1945_(1st_edition),99114975]]'
-- '[[_Standards/WikiData/WD~The_Meridian_Anthology_of_Early_American_Women_Writers_(1st_edition),101243377]]'
-- '[[_Standards/WikiData/WD~Notable_Black_American_Women,105958972]]'
-- '[[_Standards/WikiData/WD~American_Women_Writers,106787730]]'
-- '[[_Standards/WikiData/WD~African_American_Religious_Leaders,135030720]]'
-- '[[_Standards/WikiData/WD~The_Westminster_Handbook_to_Women_in_American_Religious_History,136651584]]'
+- "[[_Standards/WikiData/WD~Appletons'_Cyclopædia_of_American_Biography,12912667|WD~Appletons'_Cyclopædia_of_American_Biography,12912667]]"
+- '[[_Standards/WikiData/WD~Online_Biographical_Dictionary_of_the_Woman_Suffrage_Movement_in_the_United_States,66663817|WD~Online_Biographical_Dictionary_of_the_Woman_Suffrage_Movement_in_the_United_States,66663817]]'
+- '[[_Standards/WikiData/WD~Obálky_knih,67311526|WD~Obálky_knih,67311526]]'
+- '[[_Standards/WikiData/WD~Women_of_Distinction_Remarkable_in_Works_and_Invincible_in_Character,97672273|WD~Women_of_Distinction_Remarkable_in_Works_and_Invincible_in_Character,97672273]]'
+- '[[_Standards/WikiData/WD~African_American_Authors,_1745_1945_(1st_edition),99114975|WD~African_American_Authors,_1745_1945_(1st_edition),99114975]]'
+- '[[_Standards/WikiData/WD~The_Meridian_Anthology_of_Early_American_Women_Writers_(1st_edition),101243377|WD~The_Meridian_Anthology_of_Early_American_Women_Writers_(1st_edition),101243377]]'
+- '[[_Standards/WikiData/WD~Notable_Black_American_Women,105958972|WD~Notable_Black_American_Women,105958972]]'
+- '[[_Standards/WikiData/WD~American_Women_Writers,106787730|WD~American_Women_Writers,106787730]]'
+- '[[_Standards/WikiData/WD~African_American_Religious_Leaders,135030720|WD~African_American_Religious_Leaders,135030720]]'
+- '[[_Standards/WikiData/WD~The_Westminster_Handbook_to_Women_in_American_Religious_History,136651584|WD~The_Westminster_Handbook_to_Women_in_American_Religious_History,136651584]]'
 on_focus_list_of_Wikimedia_project:
-- '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953]]'
-- '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
-- "[[_Standards/WikiData/WD~American_Women's_History_Initiative,62695096]]"
-- '[[_Standards/WikiData/WD~WikiProject_Women_in_Religion,63845230]]'
-given_name: '[[_Standards/WikiData/WD~Isabella,16290308]]'
-family_name: '[[_Standards/WikiData/WD~Truth,54858100]]'
-copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839]]'
-place_of_burial: '[[_Standards/WikiData/WD~Oak_Hill_Cemetery,116845380]]'
+- '[[_Standards/WikiData/WD~WikiProject_African_diaspora,15304953|WD~WikiProject_African_diaspora,15304953]]'
+- '[[_Standards/WikiData/WD~gender_gap_on_Dutch_Wikipedia,60687720|WD~gender_gap_on_Dutch_Wikipedia,60687720]]'
+- "[[_Standards/WikiData/WD~American_Women's_History_Initiative,62695096|WD~American_Women's_History_Initiative,62695096]]"
+- '[[_Standards/WikiData/WD~WikiProject_Women_in_Religion,63845230|WD~WikiProject_Women_in_Religion,63845230]]'
+given_name: '[[_Standards/WikiData/WD~Isabella,16290308|WD~Isabella,16290308]]'
+family_name: '[[_Standards/WikiData/WD~Truth,54858100|WD~Truth,54858100]]'
+copyright_status_as_a_creator: '[[_Standards/WikiData/WD~copyrights_on_works_have_expired,71887839|WD~copyrights_on_works_have_expired,71887839]]'
+place_of_burial: '[[_Standards/WikiData/WD~Oak_Hill_Cemetery,116845380|WD~Oak_Hill_Cemetery,116845380]]'
 date_of_death: 1883-11-26T00:00:00Z
-writing_language: '[[_Standards/WikiData/WD~English,1860]]'
+writing_language: '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
 languages_spoken_written_or_signed:
-- '[[_Standards/WikiData/WD~English,1860]]'
-- '[[_Standards/WikiData/WD~Dutch,7411]]'
-native_language: '[[_Standards/WikiData/WD~Dutch,7411]]'
-instance_of: '[[_Standards/WikiData/WD~human,5]]'
-country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30]]'
-religion_or_worldview: '[[_Standards/WikiData/WD~Methodism,33203]]'
-ethnic_group: '[[_Standards/WikiData/WD~African_Americans,49085]]'
+- '[[_Standards/WikiData/WD~English,1860|WD~English,1860]]'
+- '[[_Standards/WikiData/WD~Dutch,7411|WD~Dutch,7411]]'
+native_language: '[[_Standards/WikiData/WD~Dutch,7411|WD~Dutch,7411]]'
+instance_of: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
+country_of_citizenship: '[[_Standards/WikiData/WD~United_States,30|WD~United_States,30]]'
+religion_or_worldview: '[[_Standards/WikiData/WD~Methodism,33203|WD~Methodism,33203]]'
+ethnic_group: '[[_Standards/WikiData/WD~African_Americans,49085|WD~African_Americans,49085]]'
 pseudonym: Sojourner Truth
 Commons_category: Sojourner Truth
 image_of_grave: http://commons.wikimedia.org/wiki/Special:FilePath/Oak%20Hill%20Cemetery%20-%20Sojourner%20Truth%20Headstone.jpg

@@ -25,25 +25,25 @@ aliases:
 - 센타우루스 A 은하
 has_id_wikidata: Q487255
 instance_of:
-- '[[_Standards/WikiData/WD~lenticular_galaxy,192078]]'
-- '[[_Standards/WikiData/WD~BL_Lacertae_object,195385]]'
-- '[[_Standards/WikiData/WD~radio_galaxy,217012]]'
-- '[[_Standards/WikiData/WD~starburst_galaxy,726611]]'
-- '[[_Standards/WikiData/WD~peculiar_galaxy,2014003]]'
-- '[[_Standards/WikiData/WD~astrophysical_X_ray_source,2154519]]'
-- '[[_Standards/WikiData/WD~centimetric_radio_source,67201524]]'
-- '[[_Standards/WikiData/WD~infrared_source,67206691]]'
-- '[[_Standards/WikiData/WD~Seyfert_2_galaxy,71965638]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~James_Dunlop,375158]]'
+- '[[_Standards/WikiData/WD~lenticular_galaxy,192078|WD~lenticular_galaxy,192078]]'
+- '[[_Standards/WikiData/WD~BL_Lacertae_object,195385|WD~BL_Lacertae_object,195385]]'
+- '[[_Standards/WikiData/WD~radio_galaxy,217012|WD~radio_galaxy,217012]]'
+- '[[_Standards/WikiData/WD~starburst_galaxy,726611|WD~starburst_galaxy,726611]]'
+- '[[_Standards/WikiData/WD~peculiar_galaxy,2014003|WD~peculiar_galaxy,2014003]]'
+- '[[_Standards/WikiData/WD~astrophysical_X_ray_source,2154519|WD~astrophysical_X_ray_source,2154519]]'
+- '[[_Standards/WikiData/WD~centimetric_radio_source,67201524|WD~centimetric_radio_source,67201524]]'
+- '[[_Standards/WikiData/WD~infrared_source,67206691|WD~infrared_source,67206691]]'
+- '[[_Standards/WikiData/WD~Seyfert_2_galaxy,71965638|WD~Seyfert_2_galaxy,71965638]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~James_Dunlop,375158|WD~James_Dunlop,375158]]'
 part_of:
-- '[[_Standards/WikiData/WD~Centaurus_A_M83_Group,1881065]]'
-- '[[_Standards/WikiData/WD~Q67623596,67623596]]'
-- '[[_Standards/WikiData/WD~Q67625752,67625752]]'
-- '[[_Standards/WikiData/WD~Q67791039,67791039]]'
-- '[[_Standards/WikiData/WD~Q67796421,67796421]]'
+- '[[_Standards/WikiData/WD~Centaurus_A_M83_Group,1881065|WD~Centaurus_A_M83_Group,1881065]]'
+- '[[_Standards/WikiData/WD~Q67623596,67623596|WD~Q67623596,67623596]]'
+- '[[_Standards/WikiData/WD~Q67625752,67625752|WD~Q67625752,67625752]]'
+- '[[_Standards/WikiData/WD~Q67791039,67791039|WD~Q67791039,67791039]]'
+- '[[_Standards/WikiData/WD~Q67796421,67796421|WD~Q67796421,67796421]]'
 right_ascension: 201.365062879333
 declination: -43.019112667361
-constellation: '[[_Standards/WikiData/WD~Centaurus,8844]]'
+constellation: '[[_Standards/WikiData/WD~Centaurus,8844|WD~Centaurus,8844]]'
 distance_from_Earth:
 - 10000000
 - 3.66

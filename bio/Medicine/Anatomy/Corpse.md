@@ -90,21 +90,21 @@ aliases:
 - 시체
 has_id_wikidata: Q48422
 subclass_of:
-- '[[_Standards/WikiData/WD~carrion,202994]]'
-- '[[_Standards/WikiData/WD~dead_organic_matter,11770757]]'
-- '[[_Standards/WikiData/WD~human_remains,131599095]]'
-- '[[_Standards/WikiData/WD~carcass,131599228]]'
+- '[[_Standards/WikiData/WD~carrion,202994|WD~carrion,202994]]'
+- '[[_Standards/WikiData/WD~dead_organic_matter,11770757|WD~dead_organic_matter,11770757]]'
+- '[[_Standards/WikiData/WD~human_remains,131599095|WD~human_remains,131599095]]'
+- '[[_Standards/WikiData/WD~carcass,131599228|WD~carcass,131599228]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Dictionnaire_Infernal,1210353]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-different_from: '[[_Standards/WikiData/WD~The_Dead_Man,7729306]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Dictionnaire_Infernal,1210353|WD~Dictionnaire_Infernal,1210353]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+different_from: '[[_Standards/WikiData/WD~The_Dead_Man,7729306|WD~The_Dead_Man,7729306]]'
 manifestation_of:
-- '[[_Standards/WikiData/WD~dead_human,18093576]]'
-- '[[_Standards/WikiData/WD~death,4]]'
-has_use: '[[_Standards/WikiData/WD~posthumous_donation,125666470]]'
-has_cause: '[[_Standards/WikiData/WD~human,5]]'
+- '[[_Standards/WikiData/WD~dead_human,18093576|WD~dead_human,18093576]]'
+- '[[_Standards/WikiData/WD~death,4|WD~death,4]]'
+has_use: '[[_Standards/WikiData/WD~posthumous_donation,125666470|WD~posthumous_donation,125666470]]'
+has_cause: '[[_Standards/WikiData/WD~human,5|WD~human,5]]'
 Dewey_Decimal_Classification:
 - 614.1
 - 616.078

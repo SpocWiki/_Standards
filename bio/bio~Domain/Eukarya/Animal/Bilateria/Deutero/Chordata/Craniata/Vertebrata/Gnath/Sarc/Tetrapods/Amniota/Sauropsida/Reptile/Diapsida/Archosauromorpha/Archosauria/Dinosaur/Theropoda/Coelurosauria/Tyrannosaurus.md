@@ -63,15 +63,15 @@ aliases:
 - ꯇꯥꯢꯔꯥꯅꯣꯁꯧꯔꯁ
 - 티라노사우루스
 has_id_wikidata: Q14332
-main_food_source: '[[_Standards/WikiData/WD~carnivore,81875]]'
+main_food_source: '[[_Standards/WikiData/WD~carnivore,81875|WD~carnivore,81875]]'
 location_of_discovery:
-- '[[_Standards/WikiData/WD~Hell_Creek_Formation,917642]]'
-- '[[_Standards/WikiData/WD~Canada,16]]'
-parent_taxon: '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Tyrannosaurini,21447922]]'
-instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290]]'
+- '[[_Standards/WikiData/WD~Hell_Creek_Formation,917642|WD~Hell_Creek_Formation,917642]]'
+- '[[_Standards/WikiData/WD~Canada,16|WD~Canada,16]]'
+parent_taxon: '[[../../../../../../../../../../../../../../../../../../../../../WikiData/WD~Tyrannosaurini,21447922|WD~Tyrannosaurini,21447922]]'
+instance_of: '[[_Standards/WikiData/WD~fossil_taxon,23038290|WD~fossil_taxon,23038290]]'
 end_time: -66000000-01-01T00:00:00Z
 length: 12
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
 Commons_gallery: Tyrannosaurus
 Commons_category: Tyrannosaurus
 taxon_name: Tyrannosaurus

@@ -53,14 +53,14 @@ aliases:
 - 石楠荒原
 - 히스
 has_id_wikidata: Q27590
-different_from: '[[_Standards/WikiData/WD~abandoned_village,350895]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
+different_from: '[[_Standards/WikiData/WD~abandoned_village,350895|WD~abandoned_village,350895]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~shrubland,879641]]'
-- '[[_Standards/WikiData/WD~landscape_type,1803829]]'
+- '[[_Standards/WikiData/WD~shrubland,879641|WD~shrubland,879641]]'
+- '[[_Standards/WikiData/WD~landscape_type,1803829|WD~landscape_type,1803829]]'
 instance_of:
-- '[[_Standards/WikiData/WD~landscape_type,1803829]]'
-- '[[_Standards/WikiData/WD~syntaxon,2471463]]'
+- '[[_Standards/WikiData/WD~landscape_type,1803829|WD~landscape_type,1803829]]'
+- '[[_Standards/WikiData/WD~syntaxon,2471463|WD~syntaxon,2471463]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Die%20back%20valley%20gnangarra.jpg
 exact_match: http://purl.obolibrary.org/obo/ENVO_00000107
 Commons_category: Heathland

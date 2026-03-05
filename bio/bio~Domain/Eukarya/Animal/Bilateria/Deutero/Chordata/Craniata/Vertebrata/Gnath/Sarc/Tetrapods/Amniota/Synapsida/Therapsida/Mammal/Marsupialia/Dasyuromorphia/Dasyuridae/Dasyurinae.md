@@ -14,10 +14,10 @@ aliases:
 - 袋鼬亞科
 - 주머니고양이아과
 has_id_wikidata: Q902243
-taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280]]'
-topic_s_main_category: '[[_Standards/WikiData/WD~Q10045196,10045196]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-parent_taxon: '[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Dasyuridae,23133]]'
+taxon_rank: '[[_Standards/WikiData/WD~subfamily,164280|WD~subfamily,164280]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q10045196,10045196|WD~Q10045196,10045196]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+parent_taxon: '[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Dasyuridae,23133|WD~Dasyuridae,23133]]'
 ITIS_TSN: 709313
 image: http://commons.wikimedia.org/wiki/Special:FilePath/SpottedQuoll%202005%20SeanMcClean.jpg
 taxon_name: Dasyurinae

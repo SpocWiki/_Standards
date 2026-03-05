@@ -69,13 +69,13 @@ aliases:
 - 认知心理学
 - 인지심리학
 has_id_wikidata: Q23373
-topic_has_template: '[[_Standards/WikiData/WD~Template_Cognitive_psychology,25731877]]'
-instance_of: '[[_Standards/WikiData/WD~branch_of_psychology,60680430]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Cognitive_psychology,25731877|WD~Template_Cognitive_psychology,25731877]]'
+instance_of: '[[_Standards/WikiData/WD~branch_of_psychology,60680430|WD~branch_of_psychology,60680430]]'
 part_of:
-- '[[_Standards/WikiData/WD~psychology_terminology,77468620]]'
-- '[[_Standards/WikiData/WD~psychology,9418]]'
-practiced_by: '[[_Standards/WikiData/WD~cognitive_psychologist,98393581]]'
-subclass_of: '[[_Standards/WikiData/WD~psychology,9418]]'
+- '[[_Standards/WikiData/WD~psychology_terminology,77468620|WD~psychology_terminology,77468620]]'
+- '[[_Standards/WikiData/WD~psychology,9418|WD~psychology,9418]]'
+practiced_by: '[[_Standards/WikiData/WD~cognitive_psychologist,98393581|WD~cognitive_psychologist,98393581]]'
+subclass_of: '[[_Standards/WikiData/WD~psychology,9418|WD~psychology,9418]]'
 Dewey_Decimal_Classification:
 - 153
 - 155.413

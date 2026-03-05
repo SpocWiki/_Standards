@@ -149,23 +149,23 @@ aliases:
 - 家驴
 - 당나귀
 has_id_wikidata: Q19707
-taxon_rank: '[[_Standards/WikiData/WD~subspecies,68947]]'
-parent_taxon: '[[_Standards/WikiData/WD~Equus_africanus,208140]]'
+taxon_rank: '[[_Standards/WikiData/WD~subspecies,68947|WD~subspecies,68947]]'
+parent_taxon: '[[_Standards/WikiData/WD~Equus_africanus,208140|WD~Equus_africanus,208140]]'
 described_by_source:
-- '[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[../../../../../../../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Pauly_Wissowa,1138524|WD~Pauly_Wissowa,1138524]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
 different_from:
-- '[[_Standards/WikiData/WD~Donkey,748427]]'
-- '[[_Standards/WikiData/WD~Equus_asinus,19829417]]'
-has_use: '[[_Standards/WikiData/WD~donkey,3537778]]'
-this_taxon_is_source_of: '[[_Standards/WikiData/WD~donkey_meat,5752993]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wiki_goes_Caribbean,85931561]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q135415376,135415376]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~Donkey,748427|WD~Donkey,748427]]'
+- '[[_Standards/WikiData/WD~Equus_asinus,19829417|WD~Equus_asinus,19829417]]'
+has_use: '[[_Standards/WikiData/WD~donkey,3537778|WD~donkey,3537778]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~donkey_meat,5752993|WD~donkey_meat,5752993]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615|WD~WikiProject_Invasion_Biology,56241615]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~Wiki_goes_Caribbean,85931561|WD~Wiki_goes_Caribbean,85931561]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q135415376,135415376|WD~Q135415376,135415376]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 Commons_gallery: Donkey
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Donkey%20in%20Clovelly%2C%20North%20Devon%2C%20England.jpg
 Commons_category: Equus asinus

@@ -110,26 +110,26 @@ taxon_common_name:
 - Lahana
 short_name: B. oleracea
 external_data_available_at_URL: https://www.gbif.org/dataset/93725bf2-6ada-47f9-bd5e-0e679e3d245e
-has_fruit_type: '[[_Standards/WikiData/WD~silique,148529]]'
+has_fruit_type: '[[_Standards/WikiData/WD~silique,148529|WD~silique,148529]]'
 has_use:
-- '[[_Standards/WikiData/WD~medicinal_plant,188840]]'
-- '[[_Standards/WikiData/WD~vegetable,11004]]'
-IUCN_conservation_status: '[[_Standards/WikiData/WD~Data_Deficient,3245245]]'
-subclass_of: '[[_Standards/WikiData/WD~useful_plant,11992872]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
+- '[[_Standards/WikiData/WD~medicinal_plant,188840|WD~medicinal_plant,188840]]'
+- '[[_Standards/WikiData/WD~vegetable,11004|WD~vegetable,11004]]'
+IUCN_conservation_status: '[[_Standards/WikiData/WD~Data_Deficient,3245245|WD~Data_Deficient,3245245]]'
+subclass_of: '[[_Standards/WikiData/WD~useful_plant,11992872|WD~useful_plant,11992872]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615|WD~WikiProject_Invasion_Biology,56241615]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]'
-- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_33,112869412]]'
-basionym_of: '[[_Standards/WikiData/WD~Brassica_oleracea_subsp._acephala,80769939]]'
-hardiness_of_plant: '[[_Standards/WikiData/WD~6,93345878]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112|WD~Zhiwu_Mingshi_Tukao,107402112]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_33,112869412|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_33,112869412]]'
+basionym_of: '[[_Standards/WikiData/WD~Brassica_oleracea_subsp._acephala,80769939|WD~Brassica_oleracea_subsp._acephala,80769939]]'
+hardiness_of_plant: '[[_Standards/WikiData/WD~6,93345878|WD~6,93345878]]'
 taxon_range:
-- '[[_Standards/WikiData/WD~Myanmar,836]]'
-- '[[_Standards/WikiData/WD~Guangdong,15175]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-parent_taxon: '[[../../../../../../../../../../../../../WikiData/WD~Brassica,58677]]'
+- '[[_Standards/WikiData/WD~Myanmar,836|WD~Myanmar,836]]'
+- '[[_Standards/WikiData/WD~Guangdong,15175|WD~Guangdong,15175]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+taxon_rank: '[[_Standards/WikiData/WD~species,7432|WD~species,7432]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+parent_taxon: '[[../../../../../../../../../../../../../WikiData/WD~Brassica,58677|WD~Brassica,58677]]'
 OmegaWiki_Defined_Meaning: 344475
 PLU_code: 4614
 ITIS_TSN: 23062

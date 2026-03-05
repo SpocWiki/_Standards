@@ -73,12 +73,12 @@ aliases:
 - 변광성
 has_id_wikidata: Q6243
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-has_characteristic: '[[_Standards/WikiData/WD~change,1150070]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Variable_star_topics,14337390]]'
-instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
-subclass_of: '[[_Standards/WikiData/WD~star,523]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+has_characteristic: '[[_Standards/WikiData/WD~change,1150070|WD~change,1150070]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Variable_star_topics,14337390|WD~Template_Variable_star_topics,14337390]]'
+instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909|WD~astronomical_object_type,17444909]]'
+subclass_of: '[[_Standards/WikiData/WD~star,523|WD~star,523]]'
 main_Wikidata_property: type of variable star
 Commons_category: Variable stars
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Eso2003c.jpg

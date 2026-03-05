@@ -49,7 +49,7 @@ aliases:
 
 # [[Coccinelloidea]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Coccinelloidea,25406957]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Coccinelloidea,25406957|WD~Coccinelloidea,25406957]] 
 
 ## #has_/text_of_/abstract 
 

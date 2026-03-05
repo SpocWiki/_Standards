@@ -33,7 +33,7 @@ Tag Instances like this:
 A component of the human body circulatory system comprised of an intricate network of hollow tubes 
 that transport blood throughout the entire body.
 
-#has_/parent_class :: [[../AnatomicalStructure]]  
+#has_/parent_class :: [[../AnatomicalStructure|AnatomicalStructure]]  
 
 #has_/child_/class :: [ Artery, LymphaticVessel, Vein ]  
 

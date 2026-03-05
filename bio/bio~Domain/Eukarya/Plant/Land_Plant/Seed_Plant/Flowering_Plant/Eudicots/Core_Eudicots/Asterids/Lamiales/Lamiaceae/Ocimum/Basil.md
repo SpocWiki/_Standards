@@ -135,35 +135,35 @@ aliases:
 - 鸭香
 - 바질
 has_id_wikidata: Q38859
-parent_taxon: '[[_Standards/WikiData/WD~Ocimum,148818]]'
+parent_taxon: '[[_Standards/WikiData/WD~Ocimum,148818|WD~Ocimum,148818]]'
 has_use:
-- '[[_Standards/WikiData/WD~medicinal_plant,188840]]'
-- '[[_Standards/WikiData/WD~fodder,211439]]'
-- '[[_Standards/WikiData/WD~vegetable,11004]]'
-- '[[_Standards/WikiData/WD~spice,42527]]'
+- '[[_Standards/WikiData/WD~medicinal_plant,188840|WD~medicinal_plant,188840]]'
+- '[[_Standards/WikiData/WD~fodder,211439|WD~fodder,211439]]'
+- '[[_Standards/WikiData/WD~vegetable,11004|WD~vegetable,11004]]'
+- '[[_Standards/WikiData/WD~spice,42527|WD~spice,42527]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~annual_plant,192691]]'
-- '[[_Standards/WikiData/WD~herb,207123]]'
-- '[[_Standards/WikiData/WD~plant_as_food,9323487]]'
-- '[[_Standards/WikiData/WD~useful_plant,11992872]]'
+- '[[_Standards/WikiData/WD~annual_plant,192691|WD~annual_plant,192691]]'
+- '[[_Standards/WikiData/WD~herb,207123|WD~herb,207123]]'
+- '[[_Standards/WikiData/WD~plant_as_food,9323487|WD~plant_as_food,9323487]]'
+- '[[_Standards/WikiData/WD~useful_plant,11992872|WD~useful_plant,11992872]]'
 taxon_range:
-- '[[_Standards/WikiData/WD~Açailândia,1763534]]'
-- '[[_Standards/WikiData/WD~Guangdong,15175]]'
-- '[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269]]'
-- "[[_Standards/WikiData/WD~People's_Republic_of_China,148]]"
-- '[[_Standards/WikiData/WD~Xinjiang,34800]]'
-- '[[_Standards/WikiData/WD~Fujian,41705]]'
+- '[[_Standards/WikiData/WD~Açailândia,1763534|WD~Açailândia,1763534]]'
+- '[[_Standards/WikiData/WD~Guangdong,15175|WD~Guangdong,15175]]'
+- '[[_Standards/WikiData/WD~Tibet_Autonomous_Region,17269|WD~Tibet_Autonomous_Region,17269]]'
+- "[[_Standards/WikiData/WD~People's_Republic_of_China,148|WD~People's_Republic_of_China,148]]"
+- '[[_Standards/WikiData/WD~Xinjiang,34800|WD~Xinjiang,34800]]'
+- '[[_Standards/WikiData/WD~Fujian,41705|WD~Fujian,41705]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- '[[_Standards/WikiData/WD~Q19133013,19133013]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_66,112869470]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615]]'
-this_taxon_is_source_of: '[[_Standards/WikiData/WD~basil,65522654]]'
-hardiness_of_plant: '[[_Standards/WikiData/WD~2,99546131]]'
-taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
-has_fruit_type: '[[_Standards/WikiData/WD~nut,11009]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- '[[_Standards/WikiData/WD~Q19133013,19133013|WD~Q19133013,19133013]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_66,112869470|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_66,112869470]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Invasion_Biology,56241615|WD~WikiProject_Invasion_Biology,56241615]]'
+this_taxon_is_source_of: '[[_Standards/WikiData/WD~basil,65522654|WD~basil,65522654]]'
+hardiness_of_plant: '[[_Standards/WikiData/WD~2,99546131|WD~2,99546131]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432|WD~species,7432]]'
+has_fruit_type: '[[_Standards/WikiData/WD~nut,11009|WD~nut,11009]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 OmegaWiki_Defined_Meaning: 6810
 ITIS_TSN: 32627
 USDA_NDB_number:

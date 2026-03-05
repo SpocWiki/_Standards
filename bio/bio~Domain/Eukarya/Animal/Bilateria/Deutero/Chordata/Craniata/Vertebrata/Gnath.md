@@ -57,22 +57,22 @@ aliases:
 - 유악류
 has_id_wikidata: Q26214
 Commons_category: Gnathostomata
-homonymous_taxon: '[[_Standards/WikiData/WD~Gnathostomata,1011198]]'
+homonymous_taxon: '[[_Standards/WikiData/WD~Gnathostomata,1011198|WD~Gnathostomata,1011198]]'
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/DunkleosteusSannoble.JPG
 - http://commons.wikimedia.org/wiki/Special:FilePath/Orca-Sch%C3%A4del.jpg
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 ITIS_TSN: 914179
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Gnathostomata.jpg
 start_time: -462000000-01-01
 taxon_name: Gnathostomata
-taxon_rank: '[[_Standards/WikiData/WD~infraphylum,2361851]]'
+taxon_rank: '[[_Standards/WikiData/WD~infraphylum,2361851|WD~infraphylum,2361851]]'
 title: Gnathostomata
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Taxonomy_Gnathostomata,6199302]]'
-- '[[_Standards/WikiData/WD~Template_Gnathostomata,105613651]]'
+- '[[_Standards/WikiData/WD~Template_Taxonomy_Gnathostomata,6199302|WD~Template_Taxonomy_Gnathostomata,6199302]]'
+- '[[_Standards/WikiData/WD~Template_Gnathostomata,105613651|WD~Template_Gnathostomata,105613651]]'
 UMLS_CUI: C0998765
-union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486]]'
+union_of: '[[_Standards/WikiData/WD~list_of_values_as_qualifiers,23766486|WD~list_of_values_as_qualifiers,23766486]]'
 dv_has_:
   name_:
     af: Gnathostomata
@@ -196,7 +196,7 @@ dv_has_:
 ---
 # Gnathostomata 
 
-#is_/instance_of :: [[../../../../../../../../Taxon_Rank/bio~Kingdom/bio~Phylum/InfraPhylum]]  
+#is_/instance_of :: [[../../../../../../../../Taxon_Rank/bio~Kingdom/bio~Phylum/InfraPhylum|InfraPhylum]]  
 #is_/same_as :: [[../../../../../../../../../WikiData/WD~Gnathostomata,26214|WD~Gnathostomata,26214]]   
 
 ![Gnathostomata](Gnath/Hippopotamus.jpg) 

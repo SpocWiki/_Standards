@@ -179,36 +179,36 @@ aliases:
 - 겨울
 has_id_wikidata: Q1311
 different_from:
-- '[[_Standards/WikiData/WD~Winter,239003]]'
-- '[[_Standards/WikiData/WD~Q21064929,21064929]]'
+- '[[_Standards/WikiData/WD~Winter,239003|WD~Winter,239003]]'
+- '[[_Standards/WikiData/WD~Q21064929,21064929|WD~Q21064929,21064929]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-instance_of: '[[_Standards/WikiData/WD~recurring_event,15275719]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+instance_of: '[[_Standards/WikiData/WD~recurring_event,15275719|WD~recurring_event,15275719]]'
 permanent_duplicated_item:
-- '[[_Standards/WikiData/WD~Q45969667,45969667]]'
-- '[[_Standards/WikiData/WD~Q46115432,46115432]]'
-- '[[_Standards/WikiData/WD~Q46119213,46119213]]'
-- '[[_Standards/WikiData/WD~Q110302213,110302213]]'
-- '[[_Standards/WikiData/WD~Q117430592,117430592]]'
-- '[[_Standards/WikiData/WD~Q118287367,118287367]]'
-- '[[_Standards/WikiData/WD~Winter,118287404]]'
-depicted_by: '[[_Standards/WikiData/WD~Seasons_Room_Winter,131813186]]'
+- '[[_Standards/WikiData/WD~Q45969667,45969667|WD~Q45969667,45969667]]'
+- '[[_Standards/WikiData/WD~Q46115432,46115432|WD~Q46115432,46115432]]'
+- '[[_Standards/WikiData/WD~Q46119213,46119213|WD~Q46119213,46119213]]'
+- '[[_Standards/WikiData/WD~Q110302213,110302213|WD~Q110302213,110302213]]'
+- '[[_Standards/WikiData/WD~Q117430592,117430592|WD~Q117430592,117430592]]'
+- '[[_Standards/WikiData/WD~Q118287367,118287367|WD~Q118287367,118287367]]'
+- '[[_Standards/WikiData/WD~Winter,118287404|WD~Winter,118287404]]'
+depicted_by: '[[_Standards/WikiData/WD~Seasons_Room_Winter,131813186|WD~Seasons_Room_Winter,131813186]]'
 has_part_s_:
-- '[[_Standards/WikiData/WD~northern_hemisphere_summer_southern_hemisphere_winter,133042853]]'
-- '[[_Standards/WikiData/WD~southern_hemisphere_summer_northern_hemisphere_winter,133042858]]'
-follows: '[[_Standards/WikiData/WD~autumn,1314]]'
-followed_by: '[[_Standards/WikiData/WD~spring,1312]]'
-opposite_of: '[[_Standards/WikiData/WD~summer,1313]]'
-subclass_of: '[[_Standards/WikiData/WD~season,24384]]'
+- '[[_Standards/WikiData/WD~northern_hemisphere_summer_southern_hemisphere_winter,133042853|WD~northern_hemisphere_summer_southern_hemisphere_winter,133042853]]'
+- '[[_Standards/WikiData/WD~southern_hemisphere_summer_northern_hemisphere_winter,133042858|WD~southern_hemisphere_summer_northern_hemisphere_winter,133042858]]'
+follows: '[[_Standards/WikiData/WD~autumn,1314|WD~autumn,1314]]'
+followed_by: '[[_Standards/WikiData/WD~spring,1312|WD~spring,1312]]'
+opposite_of: '[[_Standards/WikiData/WD~summer,1313|WD~summer,1313]]'
+subclass_of: '[[_Standards/WikiData/WD~season,24384|WD~season,24384]]'
 month_of_the_year:
-- '[[_Standards/WikiData/WD~January,108]]'
-- '[[_Standards/WikiData/WD~February,109]]'
-- '[[_Standards/WikiData/WD~August,122]]'
-- '[[_Standards/WikiData/WD~June,120]]'
-- '[[_Standards/WikiData/WD~July,121]]'
-- '[[_Standards/WikiData/WD~December,126]]'
+- '[[_Standards/WikiData/WD~January,108|WD~January,108]]'
+- '[[_Standards/WikiData/WD~February,109|WD~February,109]]'
+- '[[_Standards/WikiData/WD~August,122|WD~August,122]]'
+- '[[_Standards/WikiData/WD~June,120|WD~June,120]]'
+- '[[_Standards/WikiData/WD~July,121|WD~July,121]]'
+- '[[_Standards/WikiData/WD~December,126|WD~December,126]]'
 event_interval: 1
 OmegaWiki_Defined_Meaning: 6147
 IMDb_keyword: winter

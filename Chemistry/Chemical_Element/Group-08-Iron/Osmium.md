@@ -85,16 +85,16 @@ Common_Procurement_Vocabulary_code:
 - 14792000
 CPV_Supplementary_code: AA41
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopaedia_Hebraica,751026]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopaedia_Hebraica,751026|WD~Encyclopaedia_Hebraica,751026]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
 discoverer_or_inventor:
-- '[[_Standards/WikiData/WD~William_Hyde_Wollaston,312975]]'
-- '[[_Standards/WikiData/WD~Smithson_Tennant,377800]]'
+- '[[_Standards/WikiData/WD~William_Hyde_Wollaston,312975|WD~William_Hyde_Wollaston,312975]]'
+- '[[_Standards/WikiData/WD~Smithson_Tennant,377800|WD~Smithson_Tennant,377800]]'
 DSSTOX_compound_identifier: DTXCID7047643
 EC_number: 231-114-0
 electronegativity: 2.2
@@ -104,7 +104,7 @@ Gmelin_number: 16234
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Osmium%20crystals.jpg
 InChI: InChI=1S/Os
 InChIKey: SYQBFIAQOQZEGI-UHFFFAOYSA-N
-instance_of: '[[_Standards/WikiData/WD~chemical_element,11344]]'
+instance_of: '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 ionic_radius:
 - 0.39
 - 0.55
@@ -115,15 +115,15 @@ MeSH_tree_code:
 - D01.268.556.660
 - D01.268.956.702
 - D01.552.544.660
-named_after: '[[_Standards/WikiData/WD~odor,485537]]'
+named_after: '[[_Standards/WikiData/WD~odor,485537|WD~odor,485537]]'
 OmegaWiki_Defined_Meaning: 340604
 oxidation_state: 4
 part_of:
-- '[[_Standards/WikiData/WD~group_8,202224]]'
-- '[[_Standards/WikiData/WD~period_6,239813]]'
+- '[[_Standards/WikiData/WD~group_8,202224|WD~group_8,202224]]'
+- '[[_Standards/WikiData/WD~period_6,239813|WD~period_6,239813]]'
 PubChem_CID: 23937
 SpocWebEntityId: 21972
-subclass_of: '[[_Standards/WikiData/WD~platinum_group,223995]]'
+subclass_of: '[[_Standards/WikiData/WD~platinum_group,223995|WD~platinum_group,223995]]'
 time_of_discovery_or_invention: 1804
 type: Element
 UMLS_CUI: C0029383
@@ -133,7 +133,7 @@ Wolfram_Language_entity_code: Entity["Mineral", "Osmium"]
 ZVG_number: 7760
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Osmium,751]]'
+  - '[[../../../WikiData/WD~Osmium,751|WD~Osmium,751]]'
   - '[[../../../WikiData/WD~Osmium,751|WD~Osmium,751]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Group-08-Iron/Osmium|Osmium]]'
   - '[[/_public/Chemistry/Chemical_Element/Group-08-Iron/Osmium.public|Osmium.public]]'
@@ -142,7 +142,7 @@ dv_is_:
   - '[[/_private/Chemistry/Chemical_Element/Group-08-Iron/Osmium.private|Osmium.private]]'
   - '[[/_personal/Chemistry/Chemical_Element/Group-08-Iron/Osmium.personal|Osmium.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Group-08-Iron/Osmium.secret|Osmium.secret]]'
-  part_of: '[[../Group-08-Iron]]'
+  part_of: '[[../Group-08-Iron|Group-08-Iron]]'
 dv_has_:
   name_:
     abbreviated: Os
@@ -336,7 +336,7 @@ dv_has_:
           mol: 746
     density: 22.59
 dv_is_same_as:
-- '[[../../../WikiData/WD~Osmium,751]]'
+- '[[../../../WikiData/WD~Osmium,751|WD~Osmium,751]]'
 - '[[../../../WikiData/WD~Osmium,751|WD~Osmium,751]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Group-08-Iron/Osmium|Osmium]]'
 - '[[/_public/Chemistry/Chemical_Element/Group-08-Iron/Osmium.public|Osmium.public]]'
@@ -346,7 +346,7 @@ dv_is_same_as:
 - '[[/_personal/Chemistry/Chemical_Element/Group-08-Iron/Osmium.personal|Osmium.personal]]'
 - '[[/_secret/Chemistry/Chemical_Element/Group-08-Iron/Osmium.secret|Osmium.secret]]'
 dv_has_name_group: Group-08-Iron
-dv_is_part_of: '[[../Group-08-Iron]]'
+dv_is_part_of: '[[../Group-08-Iron|Group-08-Iron]]'
 dv_has_name_en: Osmium
 dv_has_name_de: Osmium
 dv_has_value_for_weight_u: 192.2
@@ -374,7 +374,7 @@ Unicode_character: 鋨
 
 
 #chemic/Element 
-#is_/same_as :: [[../../../WikiData/WD~Osmium,751]] 
+#is_/same_as :: [[../../../WikiData/WD~Osmium,751|WD~Osmium,751]] 
 
 has_name_group = `=this.dv_has_name_group` 
 is_part_of = `=this.dv_is_part_of` 

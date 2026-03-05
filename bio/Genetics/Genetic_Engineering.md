@@ -92,17 +92,17 @@ aliases:
 - 유전공학
 has_id_wikidata: Q159236
 subclass_of:
-- '[[_Standards/WikiData/WD~bioengineering,580689]]'
-- '[[_Standards/WikiData/WD~engineering,11023]]'
+- '[[_Standards/WikiData/WD~bioengineering,580689|WD~bioengineering,580689]]'
+- '[[_Standards/WikiData/WD~engineering,11023|WD~engineering,11023]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Q12165280,12165280]]'
-- '[[_Standards/WikiData/WD~Lean_Logic,101314624]]'
+- '[[_Standards/WikiData/WD~Q12165280,12165280|WD~Q12165280,12165280]]'
+- '[[_Standards/WikiData/WD~Lean_Logic,101314624|WD~Lean_Logic,101314624]]'
 topic_has_template:
-- '[[_Standards/WikiData/WD~Template_Genetic_engineering,14102349]]'
-- '[[_Standards/WikiData/WD~Template_Genetic_engineering_sidebar,66132342]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_genetic_engineering,15706604]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~gene_editing,65363531]]'
-part_of: '[[_Standards/WikiData/WD~biotechnology,7108]]'
+- '[[_Standards/WikiData/WD~Template_Genetic_engineering,14102349|WD~Template_Genetic_engineering,14102349]]'
+- '[[_Standards/WikiData/WD~Template_Genetic_engineering_sidebar,66132342|WD~Template_Genetic_engineering_sidebar,66132342]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_genetic_engineering,15706604|WD~history_of_genetic_engineering,15706604]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~gene_editing,65363531|WD~gene_editing,65363531]]'
+part_of: '[[_Standards/WikiData/WD~biotechnology,7108|WD~biotechnology,7108]]'
 OmegaWiki_Defined_Meaning: 1632
 U_S_National_Archives_Identifier: 10638941
 UMLS_CUI: C0017387

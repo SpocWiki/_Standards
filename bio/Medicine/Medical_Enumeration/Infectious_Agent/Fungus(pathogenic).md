@@ -401,13 +401,13 @@ Tag Instances like this:
 #is_a_/fungus
 #is_an_/infectious_agent
 
-#has_/child_/class :: [[../../../../../../../WikiData/WD~Mushroom,83093_WD~Mushroom,83093]] 
+#has_/child_/class :: [[../../../../../../../WikiData/WD~Mushroom,83093_WD~Mushroom,83093|WD~Mushroom,83093_WD~Mushroom,83093]] 
 
 Pathogenic fungus.
 
-#has_/parent_class :: [[../InfectiousAgentClass]]  
+#has_/parent_class :: [[../InfectiousAgentClass|InfectiousAgentClass]]  
 
-#is_/enum_of :: [[../InfectiousAgentClass]]  
+#is_/enum_of :: [[../InfectiousAgentClass|InfectiousAgentClass]]  
 
 ## #has_/text_of_/abstract 
 

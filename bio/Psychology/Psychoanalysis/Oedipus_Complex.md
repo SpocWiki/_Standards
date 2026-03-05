@@ -69,28 +69,28 @@ aliases:
 - 戀母情結
 - 오이디푸스 콤플렉스
 has_id_wikidata: Q131246
-named_after: '[[_Standards/WikiData/WD~Oedipus,130890]]'
+named_after: '[[_Standards/WikiData/WD~Oedipus,130890|WD~Oedipus,130890]]'
 instance_of:
-- '[[_Standards/WikiData/WD~concept,151885]]'
-- '[[_Standards/WikiData/WD~idiom_derived_from_Greco_Roman_mythology,125501827]]'
+- '[[_Standards/WikiData/WD~concept,151885|WD~concept,151885]]'
+- '[[_Standards/WikiData/WD~idiom_derived_from_Greco_Roman_mythology,125501827|WD~idiom_derived_from_Greco_Roman_mythology,125501827]]'
 different_from:
-- '[[_Standards/WikiData/WD~Electra_complex,324081]]'
-- "[[_Standards/WikiData/WD~mother's_boy,1971115]]"
-- '[[_Standards/WikiData/WD~Oedipus_complex,4529890]]'
+- '[[_Standards/WikiData/WD~Electra_complex,324081|WD~Electra_complex,324081]]'
+- "[[_Standards/WikiData/WD~mother's_boy,1971115|WD~mother's_boy,1971115]]"
+- '[[_Standards/WikiData/WD~Oedipus_complex,4529890|WD~Oedipus_complex,4529890]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~complex,679989]]'
-- '[[_Standards/WikiData/WD~motif,1229071]]'
-- '[[_Standards/WikiData/WD~narrative_motif,1697305]]'
-opposite_of: '[[_Standards/WikiData/WD~Jocasta_complex,6207067]]'
-part_of: '[[_Standards/WikiData/WD~psychological_terminology,77468620]]'
+- '[[_Standards/WikiData/WD~complex,679989|WD~complex,679989]]'
+- '[[_Standards/WikiData/WD~motif,1229071|WD~motif,1229071]]'
+- '[[_Standards/WikiData/WD~narrative_motif,1697305|WD~narrative_motif,1697305]]'
+opposite_of: '[[_Standards/WikiData/WD~Jocasta_complex,6207067|WD~Jocasta_complex,6207067]]'
+part_of: '[[_Standards/WikiData/WD~psychological_terminology,77468620|WD~psychological_terminology,77468620]]'
 time_of_discovery_or_invention: 1899-01-01T00:00:00Z
 facet_of:
-- '[[_Standards/WikiData/WD~mother_and_son,115558860]]'
-- '[[_Standards/WikiData/WD~psychology,9418]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Sigmund_Freud,9215]]'
+- '[[_Standards/WikiData/WD~mother_and_son,115558860|WD~mother_and_son,115558860]]'
+- '[[_Standards/WikiData/WD~psychology,9418|WD~psychology,9418]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Sigmund_Freud,9215|WD~Sigmund_Freud,9215]]'
 studied_by:
-- '[[_Standards/WikiData/WD~psychology,9418]]'
-- '[[_Standards/WikiData/WD~psychoanalysis,41630]]'
+- '[[_Standards/WikiData/WD~psychology,9418|WD~psychology,9418]]'
+- '[[_Standards/WikiData/WD~psychoanalysis,41630|WD~psychoanalysis,41630]]'
 Dewey_Decimal_Classification: 150.1952
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Oedipus%20and%20the%20Sphinx%20MET%20DP-14201-023.jpg
 UMLS_CUI: C0028885

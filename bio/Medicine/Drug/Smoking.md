@@ -68,33 +68,33 @@ aliases:
 - 흡연
 has_id_wikidata: Q662860
 has_effect:
-- '[[_Standards/WikiData/WD~pulmonary_emphysema,188605]]'
-- '[[_Standards/WikiData/WD~chronic_obstructive_pulmonary_disease,199804]]'
-- "[[_Standards/WikiData/WD~Crohn's_disease,1472]]"
-- '[[_Standards/WikiData/WD~myocardial_infarction,12152]]'
-- '[[_Standards/WikiData/WD~pneumonia,12192]]'
-- '[[_Standards/WikiData/WD~tuberculosis,12204]]'
-- '[[_Standards/WikiData/WD~lung_cancer,47912]]'
+- '[[_Standards/WikiData/WD~pulmonary_emphysema,188605|WD~pulmonary_emphysema,188605]]'
+- '[[_Standards/WikiData/WD~chronic_obstructive_pulmonary_disease,199804|WD~chronic_obstructive_pulmonary_disease,199804]]'
+- "[[_Standards/WikiData/WD~Crohn's_disease,1472|WD~Crohn's_disease,1472]]"
+- '[[_Standards/WikiData/WD~myocardial_infarction,12152|WD~myocardial_infarction,12152]]'
+- '[[_Standards/WikiData/WD~pneumonia,12192|WD~pneumonia,12192]]'
+- '[[_Standards/WikiData/WD~tuberculosis,12204|WD~tuberculosis,12204]]'
+- '[[_Standards/WikiData/WD~lung_cancer,47912|WD~lung_cancer,47912]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~custom,251777]]'
-- '[[_Standards/WikiData/WD~psychoactive_drug_use,110207349]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_smoking,464989]]'
+- '[[_Standards/WikiData/WD~custom,251777|WD~custom,251777]]'
+- '[[_Standards/WikiData/WD~psychoactive_drug_use,110207349|WD~psychoactive_drug_use,110207349]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_smoking,464989|WD~history_of_smoking,464989]]'
 risk_factor:
-- '[[_Standards/WikiData/WD~anhedonia,545365]]'
-- '[[_Standards/WikiData/WD~specific_phobia,2015728]]'
-- '[[_Standards/WikiData/WD~substance_abuse,3184856]]'
-- '[[_Standards/WikiData/WD~mental_disorder,12135]]'
+- '[[_Standards/WikiData/WD~anhedonia,545365|WD~anhedonia,545365]]'
+- '[[_Standards/WikiData/WD~specific_phobia,2015728|WD~specific_phobia,2015728]]'
+- '[[_Standards/WikiData/WD~substance_abuse,3184856|WD~substance_abuse,3184856]]'
+- '[[_Standards/WikiData/WD~mental_disorder,12135|WD~mental_disorder,12135]]'
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
-Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_smoking,7112730]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050|WD~Metropolitan_Museum_of_Art_Tagging_Vocabulary,106727050]]'
+Wikimedia_outline: '[[_Standards/WikiData/WD~outline_of_smoking,7112730|WD~outline_of_smoking,7112730]]'
 different_from:
-- '[[_Standards/WikiData/WD~tobacco_smoking,7212330]]'
-- '[[_Standards/WikiData/WD~Q21056498,21056498]]'
-- '[[_Standards/WikiData/WD~vaping,27186512]]'
-has_part_s_: '[[_Standards/WikiData/WD~tobacco_smoking,7212330]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Smoking_nav,14397453]]'
-has_characteristic: '[[_Standards/WikiData/WD~activity_policy_on_smoking,111008232]]'
+- '[[_Standards/WikiData/WD~tobacco_smoking,7212330|WD~tobacco_smoking,7212330]]'
+- '[[_Standards/WikiData/WD~Q21056498,21056498|WD~Q21056498,21056498]]'
+- '[[_Standards/WikiData/WD~vaping,27186512|WD~vaping,27186512]]'
+has_part_s_: '[[_Standards/WikiData/WD~tobacco_smoking,7212330|WD~tobacco_smoking,7212330]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Smoking_nav,14397453|WD~Template_Smoking_nav,14397453]]'
+has_characteristic: '[[_Standards/WikiData/WD~activity_policy_on_smoking,111008232|WD~activity_policy_on_smoking,111008232]]'
 OmegaWiki_Defined_Meaning: 6968
 OpenStreetMap_key: smoking
 IMDb_keyword: smoking

@@ -84,30 +84,30 @@ aliases:
 - 재활용
 has_id_wikidata: Q132580
 part_of:
-- '[[_Standards/WikiData/WD~waste_management,180388]]'
-- '[[_Standards/WikiData/WD~circular_economy,497743]]'
-- '[[_Standards/WikiData/WD~aquaponics,557542]]'
-- '[[_Standards/WikiData/WD~European_waste_hierarchy,5413422]]'
-- '[[_Standards/WikiData/WD~industrial_sector,8148]]'
+- '[[_Standards/WikiData/WD~waste_management,180388|WD~waste_management,180388]]'
+- '[[_Standards/WikiData/WD~circular_economy,497743|WD~circular_economy,497743]]'
+- '[[_Standards/WikiData/WD~aquaponics,557542|WD~aquaponics,557542]]'
+- '[[_Standards/WikiData/WD~European_waste_hierarchy,5413422|WD~European_waste_hierarchy,5413422]]'
+- '[[_Standards/WikiData/WD~industrial_sector,8148|WD~industrial_sector,8148]]'
 instance_of:
-- '[[_Standards/WikiData/WD~industry,268592]]'
-- '[[_Standards/WikiData/WD~process,10843872]]'
-- '[[_Standards/WikiData/WD~type_of_process,116505632]]'
+- '[[_Standards/WikiData/WD~industry,268592|WD~industry,268592]]'
+- '[[_Standards/WikiData/WD~process,10843872|WD~process,10843872]]'
+- '[[_Standards/WikiData/WD~type_of_process,116505632|WD~type_of_process,116505632]]'
 different_from:
-- '[[_Standards/WikiData/WD~circular_economy,497743]]'
-- '[[_Standards/WikiData/WD~downcycling,919243]]'
-- '[[_Standards/WikiData/WD~upcycling,1060794]]'
-- '[[_Standards/WikiData/WD~materials_recovery,112130211]]'
+- '[[_Standards/WikiData/WD~circular_economy,497743|WD~circular_economy,497743]]'
+- '[[_Standards/WikiData/WD~downcycling,919243|WD~downcycling,919243]]'
+- '[[_Standards/WikiData/WD~upcycling,1060794|WD~upcycling,1060794]]'
+- '[[_Standards/WikiData/WD~materials_recovery,112130211|WD~materials_recovery,112130211]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~environmental_protection,832237]]'
-- '[[_Standards/WikiData/WD~waste_management_process,37305821]]'
-has_use: '[[_Standards/WikiData/WD~climate_change_mitigation,898653]]'
-uses: '[[_Standards/WikiData/WD~materials_recovery_facility,5573447]]'
-practiced_by: '[[_Standards/WikiData/WD~Rag_picker,7282757]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Recycling,13100549]]'
-follows: '[[_Standards/WikiData/WD~service_retirement,29933838]]'
-product_or_material_produced: '[[_Standards/WikiData/WD~recycled_material,37328535]]'
-relates_to_sustainable_development_goal_target_or_indicator: '[[_Standards/WikiData/WD~Target_12.5_of_the_Sustainable_Development_Goals,57590873]]'
+- '[[_Standards/WikiData/WD~environmental_protection,832237|WD~environmental_protection,832237]]'
+- '[[_Standards/WikiData/WD~waste_management_process,37305821|WD~waste_management_process,37305821]]'
+has_use: '[[_Standards/WikiData/WD~climate_change_mitigation,898653|WD~climate_change_mitigation,898653]]'
+uses: '[[_Standards/WikiData/WD~materials_recovery_facility,5573447|WD~materials_recovery_facility,5573447]]'
+practiced_by: '[[_Standards/WikiData/WD~Rag_picker,7282757|WD~Rag_picker,7282757]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Recycling,13100549|WD~Template_Recycling,13100549]]'
+follows: '[[_Standards/WikiData/WD~service_retirement,29933838|WD~service_retirement,29933838]]'
+product_or_material_produced: '[[_Standards/WikiData/WD~recycled_material,37328535|WD~recycled_material,37328535]]'
+relates_to_sustainable_development_goal_target_or_indicator: '[[_Standards/WikiData/WD~Target_12.5_of_the_Sustainable_Development_Goals,57590873|WD~Target_12.5_of_the_Sustainable_Development_Goals,57590873]]'
 OmegaWiki_Defined_Meaning: 3129
 Commons_category: Recycling
 booru_tag: recycling

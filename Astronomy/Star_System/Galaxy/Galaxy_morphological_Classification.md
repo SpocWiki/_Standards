@@ -46,7 +46,7 @@ aliases:
 - 銀河の形態分類
 - 은하의 형태 분류
 has_id_wikidata: Q1648748
-instance_of: '[[_Standards/WikiData/WD~astronomy_classification,25696292]]'
+instance_of: '[[_Standards/WikiData/WD~astronomy_classification,25696292|WD~astronomy_classification,25696292]]'
 Wikidata_property: galaxy morphological type
 Commons_category: Galaxy morphological classification
 dv_is_:

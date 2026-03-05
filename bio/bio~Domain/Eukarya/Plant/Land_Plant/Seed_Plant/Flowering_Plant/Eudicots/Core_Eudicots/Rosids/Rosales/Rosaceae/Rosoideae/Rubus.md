@@ -58,17 +58,17 @@ aliases:
 - 懸鉤子屬
 - 산딸기속
 has_id_wikidata: Q602740
-parent_taxon: '[[../../../../../../../../../../../../../WikiData/WD~Rosoideae,134655]]'
+parent_taxon: '[[../../../../../../../../../../../../../WikiData/WD~Rosoideae,134655|WD~Rosoideae,134655]]'
 described_by_source:
-- '[[../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112]]'
-- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_37,112869418]]'
-taxon_synonym: '[[_Standards/WikiData/WD~Parmena,18339851]]'
-has_fruit_type: '[[_Standards/WikiData/WD~drupe,14712]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~genus,34740]]'
+- '[[../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Gujin_Tushu_Jicheng,1768721|WD~Gujin_Tushu_Jicheng,1768721]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Zhiwu_Mingshi_Tukao,107402112|WD~Zhiwu_Mingshi_Tukao,107402112]]'
+- '[[_Standards/WikiData/WD~Flora_Reipublicae_Popularis_Sinicae,_volume_37,112869418|WD~Flora_Reipublicae_Popularis_Sinicae,_volume_37,112869418]]'
+taxon_synonym: '[[_Standards/WikiData/WD~Parmena,18339851|WD~Parmena,18339851]]'
+has_fruit_type: '[[_Standards/WikiData/WD~drupe,14712|WD~drupe,14712]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~genus,34740|WD~genus,34740]]'
 ITIS_TSN: 24848
 taxon_common_name:
 - blackberry
@@ -191,7 +191,7 @@ dv_has_:
 
 # [[Rubus]] 
 
-#is_/same_as :: [[../../../../../../../../../../../../../WikiData/WD~Rubus,602740]]  
+#is_/same_as :: [[../../../../../../../../../../../../../WikiData/WD~Rubus,602740|WD~Rubus,602740]]  
 
 ## #has_/text_of_/abstract 
 

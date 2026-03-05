@@ -61,29 +61,29 @@ aliases:
 - 대체의학
 has_id_wikidata: Q188504
 subclass_of:
-- '[[_Standards/WikiData/WD~medical_treatment,179661]]'
-- '[[_Standards/WikiData/WD~pseudomedicine,25312655]]'
-- '[[_Standards/WikiData/WD~healing_knowledge,20532]]'
+- '[[_Standards/WikiData/WD~medical_treatment,179661|WD~medical_treatment,179661]]'
+- '[[_Standards/WikiData/WD~pseudomedicine,25312655|WD~pseudomedicine,25312655]]'
+- '[[_Standards/WikiData/WD~healing_knowledge,20532|WD~healing_knowledge,20532]]'
 uses:
-- '[[_Standards/WikiData/WD~placebo,269829]]'
-- '[[_Standards/WikiData/WD~traditional_medicine,771035]]'
-- '[[_Standards/WikiData/WD~complementary_therapy,64831118]]'
+- '[[_Standards/WikiData/WD~placebo,269829|WD~placebo,269829]]'
+- '[[_Standards/WikiData/WD~traditional_medicine,771035|WD~traditional_medicine,771035]]'
+- '[[_Standards/WikiData/WD~complementary_therapy,64831118|WD~complementary_therapy,64831118]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~Heilpraktiker,351234]]'
-- '[[_Standards/WikiData/WD~healer,2518689]]'
-- '[[_Standards/WikiData/WD~homeopath,12020057]]'
-- '[[_Standards/WikiData/WD~naturopath,42673468]]'
+- '[[_Standards/WikiData/WD~Heilpraktiker,351234|WD~Heilpraktiker,351234]]'
+- '[[_Standards/WikiData/WD~healer,2518689|WD~healer,2518689]]'
+- '[[_Standards/WikiData/WD~homeopath,12020057|WD~homeopath,12020057]]'
+- '[[_Standards/WikiData/WD~naturopath,42673468|WD~naturopath,42673468]]'
 instance_of:
-- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-- '[[_Standards/WikiData/WD~healing_knowledge,20532]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113|WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~healing_knowledge,20532|WD~healing_knowledge,20532]]'
 topic_s_main_template:
-- '[[_Standards/WikiData/WD~Template_Alternative_medicine,6676907]]'
-- '[[_Standards/WikiData/WD~Template_Alternative_medicine_sidebar,6676905]]'
+- '[[_Standards/WikiData/WD~Template_Alternative_medicine,6676907|WD~Template_Alternative_medicine,6676907]]'
+- '[[_Standards/WikiData/WD~Template_Alternative_medicine_sidebar,6676905|WD~Template_Alternative_medicine_sidebar,6676905]]'
 said_to_be_the_same_as:
-- '[[_Standards/WikiData/WD~pseudomedicine,25312655]]'
-- '[[_Standards/WikiData/WD~healing_knowledge,20532]]'
-described_by_source: '[[_Standards/WikiData/WD~Green_Map_Icons,103892210]]'
-opposite_of: '[[_Standards/WikiData/WD~medicine,11190]]'
+- '[[_Standards/WikiData/WD~pseudomedicine,25312655|WD~pseudomedicine,25312655]]'
+- '[[_Standards/WikiData/WD~healing_knowledge,20532|WD~healing_knowledge,20532]]'
+described_by_source: '[[_Standards/WikiData/WD~Green_Map_Icons,103892210|WD~Green_Map_Icons,103892210]]'
+opposite_of: '[[_Standards/WikiData/WD~medicine,11190|WD~medicine,11190]]'
 IAB_code: 233
 All_Science_Journal_Classification_Codes: 2707
 DPLA_subject_term: Alternative medicine
@@ -174,7 +174,7 @@ dv_has_:
 
 # [[Alternative_Medicine]] 
 
-#is_/same_as :: [[../../../../WikiData/WD~Alternative_medicine,188504]] 
+#is_/same_as :: [[../../../../WikiData/WD~Alternative_medicine,188504|WD~Alternative_medicine,188504]] 
 
 ## #has_/text_of_/abstract 
 

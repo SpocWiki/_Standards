@@ -105,27 +105,27 @@ aliases:
 - 거리
 has_id_wikidata: Q126017
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~scalar_quantity,181175]]'
-- '[[_Standards/WikiData/WD~observable_entity,30241068]]'
-manifestation_of: '[[_Standards/WikiData/WD~metric_function,865746]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~scalar_quantity,181175|WD~scalar_quantity,181175]]'
+- '[[_Standards/WikiData/WD~observable_entity,30241068|WD~observable_entity,30241068]]'
+manifestation_of: '[[_Standards/WikiData/WD~metric_function,865746|WD~metric_function,865746]]'
 described_by_source:
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~ISO_80000_3_2006_Quantities_and_units_Part_3_Space_and_time,26711932]]'
-- '[[_Standards/WikiData/WD~ISO_80000_3_2019_Quantities_and_units_Part_3_Space_and_time,90137277]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~ISO_80000_3_2006_Quantities_and_units_Part_3_Space_and_time,26711932|WD~ISO_80000_3_2006_Quantities_and_units_Part_3_Space_and_time,26711932]]'
+- '[[_Standards/WikiData/WD~ISO_80000_3_2019_Quantities_and_units_Part_3_Space_and_time,90137277|WD~ISO_80000_3_2019_Quantities_and_units_Part_3_Space_and_time,90137277]]'
 different_from:
-- '[[_Standards/WikiData/WD~graph_distance,2742711]]'
-- '[[_Standards/WikiData/WD~travel_distance,132646548]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~graph_distance,2742711|WD~graph_distance,2742711]]'
+- '[[_Standards/WikiData/WD~travel_distance,132646548|WD~travel_distance,132646548]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 part_of:
-- '[[_Standards/WikiData/WD~relative_location,23008351]]'
-- '[[_Standards/WikiData/WD~geometry,8087]]'
+- '[[_Standards/WikiData/WD~relative_location,23008351|WD~relative_location,23008351]]'
+- '[[_Standards/WikiData/WD~geometry,8087|WD~geometry,8087]]'
 ISQ_dimension: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AB</mi></mrow></mstyle></mrow></math>"
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>d</mi><mo stretchy="false">=</mo><mrow data-mjx-texclass="ORD"><msqrt><mrow data-mjx-texclass="ORD"><mo stretchy="false">(</mo><mi mathvariant="normal">&#x0394;</mi><mi>x</mi><msup><mo stretchy="false">)</mo><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup><mo stretchy="false">+</mo><mo stretchy="false">(</mo><mi mathvariant="normal">&#x0394;</mi><mi>y</mi><msup><mo stretchy="false">)</mo><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup><mo stretchy="false">+</mo><mo stretchy="false">(</mo><mi mathvariant="normal">&#x0394;</mi><mi>z</mi><msup><mo stretchy="false">)</mo><mrow data-mjx-texclass="ORD"><mn>2</mn></mrow></msup></mrow></msqrt></mrow></mstyle></mrow></math>
 Wikidata_property: event distance
-recommended_unit_of_measurement: '[[_Standards/WikiData/WD~metre,11573]]'
-has_characteristic: '[[_Standards/WikiData/WD~line,37105]]'
+recommended_unit_of_measurement: '[[_Standards/WikiData/WD~metre,11573|WD~metre,11573]]'
+has_characteristic: '[[_Standards/WikiData/WD~line,37105|WD~line,37105]]'
 Commons_category: Distance
 OmegaWiki_Defined_Meaning: 867698
 quantity_symbol_LaTeX_:

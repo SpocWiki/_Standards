@@ -16,10 +16,10 @@ aliases:
 - 海豚總科
 - 참돌고래상과
 has_id_wikidata: Q1139670
-taxon_rank: '[[_Standards/WikiData/WD~superfamily,2136103]]'
-parent_taxon: '[[_Standards/WikiData/WD~Delphinida,21219068]]'
-homonymous_taxon: '[[_Standards/WikiData/WD~Delphinoidea,107310791]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~superfamily,2136103|WD~superfamily,2136103]]'
+parent_taxon: '[[_Standards/WikiData/WD~Delphinida,21219068|WD~Delphinida,21219068]]'
+homonymous_taxon: '[[_Standards/WikiData/WD~Delphinoidea,107310791|WD~Delphinoidea,107310791]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 ITIS_TSN: 204920
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Delphinus%20delphis%20with%20calf.jpg
 taxon_name: Delphinoidea

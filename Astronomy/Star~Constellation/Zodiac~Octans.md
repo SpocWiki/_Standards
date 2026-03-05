@@ -53,23 +53,23 @@ aliases:
 - 南極座
 - 팔분의자리
 has_id_wikidata: Q10503
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Nicolas_Louis_de_Lacaille,202703]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Nicolas_Louis_de_Lacaille,202703|WD~Nicolas_Louis_de_Lacaille,202703]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-part_of: '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Stars_of_Octans,10857940]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+part_of: '[[_Standards/WikiData/WD~Southern_Celestial_Hemisphere,2380815|WD~Southern_Celestial_Hemisphere,2380815]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Stars_of_Octans,10857940|WD~Template_Stars_of_Octans,10857940]]'
 time_of_discovery_or_invention: 1752-01-01T00:00:00Z
-instance_of: '[[_Standards/WikiData/WD~constellation,8928]]'
+instance_of: '[[_Standards/WikiData/WD~constellation,8928|WD~constellation,8928]]'
 shares_border_with:
-- '[[_Standards/WikiData/WD~Mensa,9289]]'
-- '[[_Standards/WikiData/WD~Hydrus,10416]]'
-- '[[_Standards/WikiData/WD~Indus,10450]]'
-- '[[_Standards/WikiData/WD~Chamaeleon,10457]]'
-- '[[_Standards/WikiData/WD~Apus,10506]]'
-- '[[_Standards/WikiData/WD~Pavo,10515]]'
-- '[[_Standards/WikiData/WD~Tucana,10567]]'
+- '[[_Standards/WikiData/WD~Mensa,9289|WD~Mensa,9289]]'
+- '[[_Standards/WikiData/WD~Hydrus,10416|WD~Hydrus,10416]]'
+- '[[_Standards/WikiData/WD~Indus,10450|WD~Indus,10450]]'
+- '[[_Standards/WikiData/WD~Chamaeleon,10457|WD~Chamaeleon,10457]]'
+- '[[_Standards/WikiData/WD~Apus,10506|WD~Apus,10506]]'
+- '[[_Standards/WikiData/WD~Pavo,10515|WD~Pavo,10515]]'
+- '[[_Standards/WikiData/WD~Tucana,10567|WD~Tucana,10567]]'
 area: 291
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Constellation%20Octans.jpg
 locator_map_image: http://commons.wikimedia.org/wiki/Special:FilePath/Octans%20constellation%20map.svg
@@ -168,7 +168,7 @@ dv_has_:
     zh: 南极座
 dv_is_:
   same_as:
-  - '[[_Standards/WikiData/WD~Octans,10503]]'
+  - '[[_Standards/WikiData/WD~Octans,10503|WD~Octans,10503]]'
   - '[[/_Standards/Astronomy/Star~Constellation/Zodiac~Octans|Zodiac~Octans]]'
   - '[[/_public/Astronomy/Star~Constellation/Zodiac~Octans.public|Zodiac~Octans.public]]'
   - '[[/_internal/Astronomy/Star~Constellation/Zodiac~Octans.internal|Zodiac~Octans.internal]]'
@@ -180,7 +180,7 @@ dv_has_name_la: Octans
 dv_has_name_la_genitive: Octantis
 dv_has_name_de: Oktant
 dv_is_same_as:
-- '[[_Standards/WikiData/WD~Octans,10503]]'
+- '[[_Standards/WikiData/WD~Octans,10503|WD~Octans,10503]]'
 - '[[/_Standards/Astronomy/Star~Constellation/Zodiac~Octans|Zodiac~Octans]]'
 - '[[/_public/Astronomy/Star~Constellation/Zodiac~Octans.public|Zodiac~Octans.public]]'
 - '[[/_internal/Astronomy/Star~Constellation/Zodiac~Octans.internal|Zodiac~Octans.internal]]'
@@ -198,7 +198,7 @@ has_name_la = `=this.dv_has_name_la`
 has_name_la_genitive = `=this.dv_has_name_la_genitive` 
 has_name_de = `=this.dv_has_name_de` 
 
-#is_/same_as :: [[_Standards/WikiData/WD~Octans,10503]] 
+#is_/same_as :: [[_Standards/WikiData/WD~Octans,10503|WD~Octans,10503]] 
 
 
 ## Confidential Links & Embeds: 

@@ -9,8 +9,8 @@ aliases:
 - Rentier
 has_id_wikidata: Q18460419
 parent_taxon: '[[WD~Capreolinae,118722]]'
-taxon_rank: '[[_Standards/WikiData/WD~tribe,227936]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~tribe,227936|WD~tribe,227936]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Rangifer%20tarandus%20%28Wroclaw%20zoo%29%20-%20young%20-%20face.JPG
 taxon_name: Rangiferini
 dv_has_:
@@ -55,8 +55,8 @@ dv_has_:
 # [[Reindeer]] 
 
 #is_/same_as :: [[WD~Rangifer_tarandus,39624]] 
-#is_/same_as :: [[_Standards/WikiData/WD~Rangifer,15303567]]  
-#is_/same_as :: [[_Standards/WikiData/WD~Rangiferini,18460419]]   
+#is_/same_as :: [[_Standards/WikiData/WD~Rangifer,15303567|WD~Rangifer,15303567]]  
+#is_/same_as :: [[_Standards/WikiData/WD~Rangiferini,18460419|WD~Rangiferini,18460419]]   
 
 ## #has_/text_of_/abstract 
 

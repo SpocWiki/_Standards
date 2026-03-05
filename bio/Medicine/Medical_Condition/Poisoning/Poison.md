@@ -90,34 +90,34 @@ aliases:
 - 독
 has_id_wikidata: Q40867
 subclass_of:
-- '[[_Standards/WikiData/WD~chemical_substance,79529]]'
-- '[[_Standards/WikiData/WD~noxa,50379880]]'
-- '[[_Standards/WikiData/WD~production_environment_factor,124326543]]'
-- '[[_Standards/WikiData/WD~weapon,728]]'
+- '[[_Standards/WikiData/WD~chemical_substance,79529|WD~chemical_substance,79529]]'
+- '[[_Standards/WikiData/WD~noxa,50379880|WD~noxa,50379880]]'
+- '[[_Standards/WikiData/WD~production_environment_factor,124326543|WD~production_environment_factor,124326543]]'
+- '[[_Standards/WikiData/WD~weapon,728|WD~weapon,728]]'
 has_use:
-- '[[_Standards/WikiData/WD~poisoning,114953]]'
-- '[[_Standards/WikiData/WD~weapon,728]]'
+- '[[_Standards/WikiData/WD~poisoning,114953|WD~poisoning,114953]]'
+- '[[_Standards/WikiData/WD~weapon,728|WD~weapon,728]]'
 has_characteristic:
-- '[[_Standards/WikiData/WD~toxicity,274160]]'
-- '[[_Standards/WikiData/WD~mode_of_toxic_action,17154431]]'
+- '[[_Standards/WikiData/WD~toxicity,274160|WD~toxicity,274160]]'
+- '[[_Standards/WikiData/WD~mode_of_toxic_action,17154431|WD~mode_of_toxic_action,17154431]]'
 described_by_source:
-- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
-- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057]]"
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Q30059240,30059240]]'
-- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_poison,743954]]'
+- '[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271|WD~Bible_Encyclopedia_of_Archimandrite_Nicephorus,4086271]]'
+- "[[_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Q30059240,30059240|WD~Q30059240,30059240]]'
+- '[[_Standards/WikiData/WD~Desktop_Encyclopedic_Dictionary,63284758|WD~Desktop_Encyclopedic_Dictionary,63284758]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_poison,743954|WD~history_of_poison,743954]]'
 different_from:
-- '[[_Standards/WikiData/WD~Pyton,1771800]]'
-- '[[_Standards/WikiData/WD~Myrkky,10593689]]'
+- '[[_Standards/WikiData/WD~Pyton,1771800|WD~Pyton,1771800]]'
+- '[[_Standards/WikiData/WD~Myrkky,10593689|WD~Myrkky,10593689]]'
 instance_of:
-- '[[_Standards/WikiData/WD~cause_of_death,1931388]]'
-- '[[_Standards/WikiData/WD~class_of_chemical_substances_by_use,100434640]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q17573799,17573799]]'
-used_by: '[[_Standards/WikiData/WD~poisoner,42763889]]'
+- '[[_Standards/WikiData/WD~cause_of_death,1931388|WD~cause_of_death,1931388]]'
+- '[[_Standards/WikiData/WD~class_of_chemical_substances_by_use,100434640|WD~class_of_chemical_substances_by_use,100434640]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q17573799,17573799|WD~Q17573799,17573799]]'
+used_by: '[[_Standards/WikiData/WD~poisoner,42763889|WD~poisoner,42763889]]'
 OmegaWiki_Defined_Meaning: 2847
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Fr%C3%B6ndenbergerHeimatstube20190413%2008.jpg
 IMDb_keyword: poison

@@ -62,7 +62,7 @@ has_id_wikidata: Q193276
 type: ElementGroup
 dv_is_:
   same_as:
-  - '[[../../WikiData/WD~Group_5,193276]]'
+  - '[[../../WikiData/WD~Group_5,193276|WD~Group_5,193276]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Group-05-Vanadium|Group-05-Vanadium]]'
   - '[[/_public/Chemistry/Chemical_Element/Group-05-Vanadium.public|Group-05-Vanadium.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Group-05-Vanadium.internal|Group-05-Vanadium.internal]]'
@@ -71,7 +71,7 @@ dv_is_:
   - '[[/_personal/Chemistry/Chemical_Element/Group-05-Vanadium.personal|Group-05-Vanadium.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Group-05-Vanadium.secret|Group-05-Vanadium.secret]]'
 dv_is_same_as:
-- '[[../../WikiData/WD~Group_5,193276]]'
+- '[[../../WikiData/WD~Group_5,193276|WD~Group_5,193276]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Group-05-Vanadium|Group-05-Vanadium]]'
 - '[[/_public/Chemistry/Chemical_Element/Group-05-Vanadium.public|Group-05-Vanadium.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Group-05-Vanadium.internal|Group-05-Vanadium.internal]]'
@@ -158,12 +158,12 @@ dv_has_:
 
 #chemic/Group 
 
-4)[[Group-05-Vanadium/Vanadium]]]
-5)[[Group-05-Vanadium/Niobium]]]
-6)[[Group-05-Vanadium/Tantalum]]]
-7)[[Group-05-Vanadium/Dubnium]]]
+4)[[Group-05-Vanadium/Vanadium|Vanadium]]]
+5)[[Group-05-Vanadium/Niobium|Niobium]]]
+6)[[Group-05-Vanadium/Tantalum|Tantalum]]]
+7)[[Group-05-Vanadium/Dubnium|Dubnium]]]
 
-#is_/same_as :: [[../../WikiData/WD~Group_5,193276]] 
+#is_/same_as :: [[../../WikiData/WD~Group_5,193276|WD~Group_5,193276]] 
 ## #has_/text_of_/abstract 
 
 > Group 5 is a group of elements in the periodic table. Group 5 contains vanadium (V), niobium (Nb), tantalum (Ta) and dubnium (Db). This group lies in the d-block of the periodic table. This group is sometimes called the vanadium group or vanadium family after its lightest member; however, the group itself has not acquired a trivial name because it belongs to the broader grouping of the transition metals.

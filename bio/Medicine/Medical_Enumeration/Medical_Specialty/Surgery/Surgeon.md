@@ -77,24 +77,24 @@ aliases:
 - 外科醫生
 - 외과의
 has_id_wikidata: Q774306
-patron_saint: '[[_Standards/WikiData/WD~Roch,152457]]'
+patron_saint: '[[_Standards/WikiData/WD~Roch,152457|WD~Roch,152457]]'
 instance_of:
-- '[[_Standards/WikiData/WD~academic_degree,189533]]'
-- '[[_Standards/WikiData/WD~field_of_study,1047113]]'
-- '[[_Standards/WikiData/WD~position,4164871]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~medical_profession,66811410]]'
+- '[[_Standards/WikiData/WD~academic_degree,189533|WD~academic_degree,189533]]'
+- '[[_Standards/WikiData/WD~field_of_study,1047113|WD~field_of_study,1047113]]'
+- '[[_Standards/WikiData/WD~position,4164871|WD~position,4164871]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~medical_profession,66811410|WD~medical_profession,66811410]]'
 follows:
-- '[[_Standards/WikiData/WD~barber_surgeon,781850]]'
-- '[[_Standards/WikiData/WD~surgeon,1360697]]'
+- '[[_Standards/WikiData/WD~barber_surgeon,781850|WD~barber_surgeon,781850]]'
+- '[[_Standards/WikiData/WD~surgeon,1360697|WD~surgeon,1360697]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-subclass_of: '[[_Standards/WikiData/WD~medical_specialist,3332438]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+subclass_of: '[[_Standards/WikiData/WD~medical_specialist,3332438|WD~medical_specialist,3332438]]'
 different_from:
-- '[[_Standards/WikiData/WD~Al_Jarrah,61590692]]'
-- '[[_Standards/WikiData/WD~surgeon,107356307]]'
-field_of_this_occupation: '[[_Standards/WikiData/WD~surgery,40821]]'
+- '[[_Standards/WikiData/WD~Al_Jarrah,61590692|WD~Al_Jarrah,61590692]]'
+- '[[_Standards/WikiData/WD~surgeon,107356307|WD~surgeon,107356307]]'
+field_of_this_occupation: '[[_Standards/WikiData/WD~surgery,40821|WD~surgery,40821]]'
 ISCO_08_occupation_class: 2211
 ISCO_88_occupation_class: 2221
 OmegaWiki_Defined_Meaning: 397877

@@ -102,34 +102,34 @@ tags:
 - schema-org/Class
 title: is_a_nursing Class
 type: Type
-field_of_this_occupation: '[[_Standards/WikiData/WD~nursing,121176]]'
+field_of_this_occupation: '[[_Standards/WikiData/WD~nursing,121176|WD~nursing,121176]]'
 practiced_by:
-- '[[_Standards/WikiData/WD~nurse,186360]]'
-- '[[_Standards/WikiData/WD~nurse_practitioner,595071]]'
-- '[[_Standards/WikiData/WD~nurse_midwife,7070208]]'
-- '[[_Standards/WikiData/WD~nursing_assistant,10718797]]'
-- '[[_Standards/WikiData/WD~nurse_scientist,12043435]]'
-- '[[_Standards/WikiData/WD~registered_nurse,13608061]]'
-- '[[_Standards/WikiData/WD~nurse_midwife,85790021]]'
-- '[[_Standards/WikiData/WD~cand.cur.,111586636]]'
+- '[[_Standards/WikiData/WD~nurse,186360|WD~nurse,186360]]'
+- '[[_Standards/WikiData/WD~nurse_practitioner,595071|WD~nurse_practitioner,595071]]'
+- '[[_Standards/WikiData/WD~nurse_midwife,7070208|WD~nurse_midwife,7070208]]'
+- '[[_Standards/WikiData/WD~nursing_assistant,10718797|WD~nursing_assistant,10718797]]'
+- '[[_Standards/WikiData/WD~nurse_scientist,12043435|WD~nurse_scientist,12043435]]'
+- '[[_Standards/WikiData/WD~registered_nurse,13608061|WD~registered_nurse,13608061]]'
+- '[[_Standards/WikiData/WD~nurse_midwife,85790021|WD~nurse_midwife,85790021]]'
+- '[[_Standards/WikiData/WD~cand.cur.,111586636|WD~cand.cur.,111586636]]'
 different_from:
-- '[[_Standards/WikiData/WD~nurse,186360]]'
-- '[[_Standards/WikiData/WD~Q132146992,132146992]]'
+- '[[_Standards/WikiData/WD~nurse,186360|WD~nurse,186360]]'
+- '[[_Standards/WikiData/WD~Q132146992,132146992|WD~Q132146992,132146992]]'
 instance_of:
-- '[[_Standards/WikiData/WD~career,282049]]'
-- '[[_Standards/WikiData/WD~field_of_work,627436]]'
-- '[[_Standards/WikiData/WD~field_of_study,2267705]]'
-- '[[_Standards/WikiData/WD~academic_major,4671286]]'
-- '[[_Standards/WikiData/WD~academic_discipline,11862829]]'
-- '[[_Standards/WikiData/WD~paramedical_speciality,30109942]]'
-described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-history_of_topic: '[[_Standards/WikiData/WD~history_of_nursing,1516850]]'
+- '[[_Standards/WikiData/WD~career,282049|WD~career,282049]]'
+- '[[_Standards/WikiData/WD~field_of_work,627436|WD~field_of_work,627436]]'
+- '[[_Standards/WikiData/WD~field_of_study,2267705|WD~field_of_study,2267705]]'
+- '[[_Standards/WikiData/WD~academic_major,4671286|WD~academic_major,4671286]]'
+- '[[_Standards/WikiData/WD~academic_discipline,11862829|WD~academic_discipline,11862829]]'
+- '[[_Standards/WikiData/WD~paramedical_speciality,30109942|WD~paramedical_speciality,30109942]]'
+described_by_source: '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+history_of_topic: '[[_Standards/WikiData/WD~history_of_nursing,1516850|WD~history_of_nursing,1516850]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~care,2421951]]'
-- '[[_Standards/WikiData/WD~medicine,11190]]'
-has_part_s_: '[[_Standards/WikiData/WD~psychiatric_nursing,2801621]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Nursing,10769058]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Nursing,11722213]]'
+- '[[_Standards/WikiData/WD~care,2421951|WD~care,2421951]]'
+- '[[_Standards/WikiData/WD~medicine,11190|WD~medicine,11190]]'
+has_part_s_: '[[_Standards/WikiData/WD~psychiatric_nursing,2801621|WD~psychiatric_nursing,2801621]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Nursing,10769058|WD~Template_Nursing,10769058]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Nursing,11722213|WD~Portal_Nursing,11722213]]'
 U_S_National_Archives_Identifier: 10644008
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Nurse%20checks%20blood%20pressure.jpg
 exact_match: https://schema.org/Nursing
@@ -260,9 +260,9 @@ Tag Instances like this:
 
 A health profession of a person formally educated and trained in the care of the sick or infirm person.
 
-#has_/parent_class :: [[../MedicalBusiness, MedicalSpecialty]]  
+#has_/parent_class :: [[../MedicalBusiness, MedicalSpecialty|MedicalBusiness, MedicalSpecialty]]  
 
-#is_/enum_of :: [[../MedicalSpecialty]]  
+#is_/enum_of :: [[../MedicalSpecialty|MedicalSpecialty]]  
 
 #is_/same_as :: [[../../../WikiData/WD~Nursing,121176|WD~Nursing,121176]] 
 

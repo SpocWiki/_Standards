@@ -67,19 +67,19 @@ aliases:
 - 肉鳍鱼总纲
 - 육기어류
 has_id_wikidata: Q160830
-code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
+code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011|WD~International_Code_of_Zoological_Nomenclature,13011]]'
 Commons_category: Osteichthyes
 Commons_gallery: Sarcopterygii
 EPPO_Code: 1SARCC
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Latimeria%20chalumnae01.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~clade,713623]]'
-- '[[_Standards/WikiData/WD~taxon,16521]]'
+- '[[_Standards/WikiData/WD~clade,713623|WD~clade,713623]]'
+- '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 ITIS_TSN: 161048
 montage_image: http://commons.wikimedia.org/wiki/Special:FilePath/Sarcopterygii.png
 parent_taxon:
-- '[[_Standards/WikiData/WD~Euteleostomi,1378800]]'
-- '[[_Standards/WikiData/WD~Osteichthyes,27207]]'
+- '[[_Standards/WikiData/WD~Euteleostomi,1378800|WD~Euteleostomi,1378800]]'
+- '[[_Standards/WikiData/WD~Osteichthyes,27207|WD~Osteichthyes,27207]]'
 start_time: -423000000-01-01
 taxon_common_name:
 - Actinopterígio
@@ -101,9 +101,9 @@ taxon_common_name:
 - Лопастепері
 - 肉鳍鱼
 taxon_name: Sarcopterygii
-taxon_rank: '[[_Standards/WikiData/WD~superclass,3504061]]'
+taxon_rank: '[[_Standards/WikiData/WD~superclass,3504061|WD~superclass,3504061]]'
 title: Sarcopterygii
-topic_s_main_template: '[[_Standards/WikiData/WD~Template_Sarcopterygii,7963126]]'
+topic_s_main_template: '[[_Standards/WikiData/WD~Template_Sarcopterygii,7963126|WD~Template_Sarcopterygii,7963126]]'
 UMLS_CUI: C1081145
 dv_has_:
   name_:
@@ -230,7 +230,7 @@ dv_has_:
 
 ![ ](Sarc/Latimeria35531239_a870f7a78.jpg)
 Sarcopterygii, or lobe-finned fish, are distinguished 
-from their parent group within the superclass [[Sarc/Fish/Osteichthyes]] (bony fish) 
+from their parent group within the superclass [[Sarc/Fish/Osteichthyes|Osteichthyes]] (bony fish) 
 by several key anatomical and evolutionary features. Here are some of the main differences:
 
 ## Characteristics 
@@ -282,7 +282,7 @@ facilitating more precise movements
 and potentially contributing to the locomotor abilities of early tetrapods.
 
 Overall, sarcopterygian fish represent an important evolutionary lineage 
-within the superclass [[Sarc/Fish/Osteichthyes]], 
+within the superclass [[Sarc/Fish/Osteichthyes|Osteichthyes]], 
 characterized by the presence of lobed fins and other adaptations 
 that played a crucial role in the transition from aquatic to terrestrial environments.
 

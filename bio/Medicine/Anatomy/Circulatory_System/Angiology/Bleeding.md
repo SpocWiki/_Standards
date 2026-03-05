@@ -78,26 +78,26 @@ aliases:
 - 출혈
 has_id_wikidata: Q166019
 drug_or_therapy_used_for_treatment:
-- '[[_Standards/WikiData/WD~silver_nitrate,207442]]'
-- '[[_Standards/WikiData/WD~desmopressin,241006]]'
-- '[[_Standards/WikiData/WD~aminocaproic_acid,255968]]'
-- '[[_Standards/WikiData/WD~aprotinin,418625]]'
-- '[[_Standards/WikiData/WD~tranexamic_acid,418666]]'
-- '[[_Standards/WikiData/WD~protamine_sulfate,22075855]]'
-opposite_of: '[[_Standards/WikiData/WD~hemostasis,487937]]'
+- '[[_Standards/WikiData/WD~silver_nitrate,207442|WD~silver_nitrate,207442]]'
+- '[[_Standards/WikiData/WD~desmopressin,241006|WD~desmopressin,241006]]'
+- '[[_Standards/WikiData/WD~aminocaproic_acid,255968|WD~aminocaproic_acid,255968]]'
+- '[[_Standards/WikiData/WD~aprotinin,418625|WD~aprotinin,418625]]'
+- '[[_Standards/WikiData/WD~tranexamic_acid,418666|WD~tranexamic_acid,418666]]'
+- '[[_Standards/WikiData/WD~protamine_sulfate,22075855|WD~protamine_sulfate,22075855]]'
+opposite_of: '[[_Standards/WikiData/WD~hemostasis,487937|WD~hemostasis,487937]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604|WD~Armenian_Soviet_Encyclopedia,_vol._2,124737604]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~clinical_sign,1441305]]'
-- '[[_Standards/WikiData/WD~cause_of_death,1931388]]'
-- '[[_Standards/WikiData/WD~general_symptom,31836626]]'
-health_specialty: '[[_Standards/WikiData/WD~emergency_medicine,2861470]]'
-different_from: '[[_Standards/WikiData/WD~blood_flow,4381136]]'
-has_cause: '[[_Standards/WikiData/WD~destruction,17781833]]'
-instance_of: '[[_Standards/WikiData/WD~symptom_or_sign,112965645]]'
+- '[[_Standards/WikiData/WD~clinical_sign,1441305|WD~clinical_sign,1441305]]'
+- '[[_Standards/WikiData/WD~cause_of_death,1931388|WD~cause_of_death,1931388]]'
+- '[[_Standards/WikiData/WD~general_symptom,31836626|WD~general_symptom,31836626]]'
+health_specialty: '[[_Standards/WikiData/WD~emergency_medicine,2861470|WD~emergency_medicine,2861470]]'
+different_from: '[[_Standards/WikiData/WD~blood_flow,4381136|WD~blood_flow,4381136]]'
+has_cause: '[[_Standards/WikiData/WD~destruction,17781833|WD~destruction,17781833]]'
+instance_of: '[[_Standards/WikiData/WD~symptom_or_sign,112965645|WD~symptom_or_sign,112965645]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Bleeding%20finger.jpg
 OmegaWiki_Defined_Meaning: 722550
 label_in_sign_language: http://commons.wikimedia.org/wiki/Special:FilePath/Hemorragie%20Nf%201%201%201%20-%20Elix.webm

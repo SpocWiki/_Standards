@@ -37,10 +37,10 @@ aliases:
 - 潜頸亜目
 - 잠경아목
 has_id_wikidata: Q499621
-parent_taxon: '[[_Standards/WikiData/WD~Testudines,223044]]'
-described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-taxon_rank: '[[_Standards/WikiData/WD~suborder,5867959]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+parent_taxon: '[[_Standards/WikiData/WD~Testudines,223044|WD~Testudines,223044]]'
+described_by_source: '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+taxon_rank: '[[_Standards/WikiData/WD~suborder,5867959|WD~suborder,5867959]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 ITIS_TSN: 948943
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Tortoise.aldabra.750pix.jpg

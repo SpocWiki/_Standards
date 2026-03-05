@@ -99,28 +99,28 @@ aliases:
 - 자연선택
 has_id_wikidata: Q43478
 has_cause:
-- '[[_Standards/WikiData/WD~heredity,178694]]'
-- '[[_Standards/WikiData/WD~genetic_variation,349856]]'
-- '[[_Standards/WikiData/WD~biological_competition,45767]]'
+- '[[_Standards/WikiData/WD~heredity,178694|WD~heredity,178694]]'
+- '[[_Standards/WikiData/WD~genetic_variation,349856|WD~genetic_variation,349856]]'
+- '[[_Standards/WikiData/WD~biological_competition,45767|WD~biological_competition,45767]]'
 facet_of:
-- '[[_Standards/WikiData/WD~Darwinism,183493]]'
-- '[[_Standards/WikiData/WD~modern_evolutionary_synthesis,337897]]'
-- '[[_Standards/WikiData/WD~evolutionary_biology,840400]]'
+- '[[_Standards/WikiData/WD~Darwinism,183493|WD~Darwinism,183493]]'
+- '[[_Standards/WikiData/WD~modern_evolutionary_synthesis,337897|WD~modern_evolutionary_synthesis,337897]]'
+- '[[_Standards/WikiData/WD~evolutionary_biology,840400|WD~evolutionary_biology,840400]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656]]'
-- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-studied_by: '[[_Standards/WikiData/WD~evolutionary_biology,840400]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]'
+- '[[_Standards/WikiData/WD~Granat_Encyclopedic_Dictionary,4532138|WD~Granat_Encyclopedic_Dictionary,4532138]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+studied_by: '[[_Standards/WikiData/WD~evolutionary_biology,840400|WD~evolutionary_biology,840400]]'
 different_from:
-- '[[_Standards/WikiData/WD~artificial_selection,995745]]'
-- '[[_Standards/WikiData/WD~selection,12888920]]'
-subclass_of: '[[_Standards/WikiData/WD~biological_selection,1094654]]'
-opposite_of: '[[_Standards/WikiData/WD~supernatural_selection,116783088]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Charles_Darwin,1035]]'
-part_of: '[[_Standards/WikiData/WD~evolution,1063]]'
+- '[[_Standards/WikiData/WD~artificial_selection,995745|WD~artificial_selection,995745]]'
+- '[[_Standards/WikiData/WD~selection,12888920|WD~selection,12888920]]'
+subclass_of: '[[_Standards/WikiData/WD~biological_selection,1094654|WD~biological_selection,1094654]]'
+opposite_of: '[[_Standards/WikiData/WD~supernatural_selection,116783088|WD~supernatural_selection,116783088]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Charles_Darwin,1035|WD~Charles_Darwin,1035]]'
+part_of: '[[_Standards/WikiData/WD~evolution,1063|WD~evolution,1063]]'
 OmegaWiki_Defined_Meaning: 1100210
 Library_of_Congress_Classification: QH375
 Commons_category: Natural selection

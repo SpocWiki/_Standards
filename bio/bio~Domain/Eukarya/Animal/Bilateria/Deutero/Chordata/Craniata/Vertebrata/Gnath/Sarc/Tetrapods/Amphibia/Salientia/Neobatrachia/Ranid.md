@@ -114,10 +114,10 @@ aliases:
 - 개구리목
 has_id_wikidata: Q6408
 title: Ranidae
-topic_s_main_category: '[[_Standards/WikiData/WD~Q9095885,9095885]]'
-described_by_source: '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+topic_s_main_category: '[[_Standards/WikiData/WD~Q9095885,9095885|WD~Q9095885,9095885]]'
+described_by_source: '[[_Standards/WikiData/WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911|WD~The_Domestic_Encyclopædia;_Or,_A_Dictionary_Of_Facts,_And_Useful_Knowledge,56441911]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409|WD~family,35409]]'
 OmegaWiki_Defined_Meaning: 1570
 ITIS_TSN: 173433
 image:

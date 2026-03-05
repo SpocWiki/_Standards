@@ -129,18 +129,18 @@ chemical_formula: Ca
 Commons_category: Calcium
 Commons_gallery: Calcium
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Calcium,84637109]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Calcium,84637109|WD~Calcium,84637109]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
 Dewey_Decimal_Classification:
 - 669.725
 - 546.393
 - 572.516
 - 612.3924
-different_from: '[[_Standards/WikiData/WD~serum_calcium,21028902]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Humphry_Davy,131761]]'
+different_from: '[[_Standards/WikiData/WD~serum_calcium,21028902|WD~serum_calcium,21028902]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Humphry_Davy,131761|WD~Humphry_Davy,131761]]'
 DSSTOX_compound_identifier: DTXCID40876145
 EC_number: 231-179-5
 electrical_conductivity: 28200000
@@ -150,29 +150,29 @@ electron_configuration:
 - 1s² 2s² 2p⁶ 3s² 3p⁶ 4s²
 element_symbol: Ca
 found_in_taxon:
-- '[[_Standards/WikiData/WD~Chlorella_vulgaris,309972]]'
-- '[[_Standards/WikiData/WD~Artemia_salina,1135229]]'
-- '[[_Standards/WikiData/WD~Phytelephas_aequatorialis,2709988]]'
-- '[[_Standards/WikiData/WD~Chlorella_pyrenoidosa,5102920]]'
-- '[[_Standards/WikiData/WD~Euphorbia_lancifolia,5851731]]'
-- '[[_Standards/WikiData/WD~Montanoa_tomentosa,6904440]]'
-- '[[_Standards/WikiData/WD~Isaria_cicadae,10536893]]'
-- '[[_Standards/WikiData/WD~Montanoa_frutescens,15564776]]'
-- '[[_Standards/WikiData/WD~Montanoa_grandiflora,15564965]]'
-- '[[_Standards/WikiData/WD~Montanoa_leucantha,15565960]]'
-- '[[_Standards/WikiData/WD~Chamomilla_recutita,50837010]]'
-- '[[_Standards/WikiData/WD~Auxenochlorella_pyrenoidosa,69677118]]'
-- '[[_Standards/WikiData/WD~Matricaria_chamomilla,28437]]'
-- '[[_Standards/WikiData/WD~cacao,42385]]'
-- '[[_Standards/WikiData/WD~Foeniculum_vulgare,43511]]'
+- '[[_Standards/WikiData/WD~Chlorella_vulgaris,309972|WD~Chlorella_vulgaris,309972]]'
+- '[[_Standards/WikiData/WD~Artemia_salina,1135229|WD~Artemia_salina,1135229]]'
+- '[[_Standards/WikiData/WD~Phytelephas_aequatorialis,2709988|WD~Phytelephas_aequatorialis,2709988]]'
+- '[[_Standards/WikiData/WD~Chlorella_pyrenoidosa,5102920|WD~Chlorella_pyrenoidosa,5102920]]'
+- '[[_Standards/WikiData/WD~Euphorbia_lancifolia,5851731|WD~Euphorbia_lancifolia,5851731]]'
+- '[[_Standards/WikiData/WD~Montanoa_tomentosa,6904440|WD~Montanoa_tomentosa,6904440]]'
+- '[[_Standards/WikiData/WD~Isaria_cicadae,10536893|WD~Isaria_cicadae,10536893]]'
+- '[[_Standards/WikiData/WD~Montanoa_frutescens,15564776|WD~Montanoa_frutescens,15564776]]'
+- '[[_Standards/WikiData/WD~Montanoa_grandiflora,15564965|WD~Montanoa_grandiflora,15564965]]'
+- '[[_Standards/WikiData/WD~Montanoa_leucantha,15565960|WD~Montanoa_leucantha,15565960]]'
+- '[[_Standards/WikiData/WD~Chamomilla_recutita,50837010|WD~Chamomilla_recutita,50837010]]'
+- '[[_Standards/WikiData/WD~Auxenochlorella_pyrenoidosa,69677118|WD~Auxenochlorella_pyrenoidosa,69677118]]'
+- '[[_Standards/WikiData/WD~Matricaria_chamomilla,28437|WD~Matricaria_chamomilla,28437]]'
+- '[[_Standards/WikiData/WD~cacao,42385|WD~cacao,42385]]'
+- '[[_Standards/WikiData/WD~Foeniculum_vulgare,43511|WD~Foeniculum_vulgare,43511]]'
 Gmelin_number: 16277
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Calcium%201.jpg
 InChI: InChI=1S/Ca
 InChIKey: OYPRJOBELJOOCE-UHFFFAOYSA-N
 instance_of:
-- '[[_Standards/WikiData/WD~lithophile,1130479]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
-- '[[_Standards/WikiData/WD~essential_medicine,35456]]'
+- '[[_Standards/WikiData/WD~lithophile,1130479|WD~lithophile,1130479]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
+- '[[_Standards/WikiData/WD~essential_medicine,35456|WD~essential_medicine,35456]]'
 ionic_radius:
 - 1
 - 1.12
@@ -185,20 +185,20 @@ MeSH_tree_code:
 - D01.268.552.100
 - D01.552.539.288
 - D23.119.100
-named_after: '[[_Standards/WikiData/WD~lime,250423]]'
+named_after: '[[_Standards/WikiData/WD~lime,250423|WD~lime,250423]]'
 OmegaWiki_Defined_Meaning: 471
 oxidation_state:
 - 1
 - 2
 part_of:
-- '[[_Standards/WikiData/WD~period_4,239825]]'
-- '[[_Standards/WikiData/WD~alkaline_earth_metal,19563]]'
+- '[[_Standards/WikiData/WD~period_4,239825|WD~period_4,239825]]'
+- '[[_Standards/WikiData/WD~alkaline_earth_metal,19563|WD~alkaline_earth_metal,19563]]'
 PubChem_CID: 5460341
 Reaxys_registry_number: 4241647
 SpocWebEntityId: 21921
 standard_molar_entropy: 41.6
-subclass_of: '[[_Standards/WikiData/WD~alkaline_earth_metal,19563]]'
-subject_has_role: '[[_Standards/WikiData/WD~essential_medicine,35456]]'
+subclass_of: '[[_Standards/WikiData/WD~alkaline_earth_metal,19563|WD~alkaline_earth_metal,19563]]'
+subject_has_role: '[[_Standards/WikiData/WD~essential_medicine,35456|WD~essential_medicine,35456]]'
 time_of_discovery_or_invention: 1808
 type: Element
 UMLS_CUI: C0006675
@@ -207,7 +207,7 @@ UNSPSC_Code: 11101511
 ZVG_number: 8160
 dv_is_:
   same_as:
-  - '[[../../../WikiData/WD~Calcium,706]]'
+  - '[[../../../WikiData/WD~Calcium,706|WD~Calcium,706]]'
   - '[[../../../WikiData/WD~Calcium,706|WD~Calcium,706]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Calcium|Calcium]]'
   - '[[/_public/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Calcium.public|Calcium.public]]'
@@ -216,7 +216,7 @@ dv_is_:
   - '[[/_private/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Calcium.private|Calcium.private]]'
   - '[[/_personal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Calcium.personal|Calcium.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Calcium.secret|Calcium.secret]]'
-  part_of: '[[../Group-02-Earth-Alkaline]]'
+  part_of: '[[../Group-02-Earth-Alkaline|Group-02-Earth-Alkaline]]'
 dv_has_:
   name_:
     abbreviated: Ca
@@ -444,7 +444,7 @@ dv_has_:
         kj_:
           mol: 153.6
 dv_is_same_as:
-- '[[../../../WikiData/WD~Calcium,706]]'
+- '[[../../../WikiData/WD~Calcium,706|WD~Calcium,706]]'
 - '[[../../../WikiData/WD~Calcium,706|WD~Calcium,706]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Calcium|Calcium]]'
 - '[[/_public/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Calcium.public|Calcium.public]]'
@@ -454,7 +454,7 @@ dv_is_same_as:
 - '[[/_personal/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Calcium.personal|Calcium.personal]]'
 - '[[/_secret/Chemistry/Chemical_Element/Group-02-Earth-Alkaline/Calcium.secret|Calcium.secret]]'
 dv_has_name_group: Group-02-Earth-Alkaline
-dv_is_part_of: '[[../Group-02-Earth-Alkaline]]'
+dv_is_part_of: '[[../Group-02-Earth-Alkaline|Group-02-Earth-Alkaline]]'
 dv_has_name_en: Calcium
 dv_has_name_de: Calcium
 dv_has_value_for_weight_u: 40.078
@@ -480,7 +480,7 @@ Unicode_character: 鈣
 # [[Calcium]] 鈣 
 
 #chemic/Element 
-#is_/same_as :: [[../../../WikiData/WD~Calcium,706]] 
+#is_/same_as :: [[../../../WikiData/WD~Calcium,706|WD~Calcium,706]] 
 
 has_name_group = `=this.dv_has_name_group` 
 is_part_of = `=this.dv_is_part_of` 
@@ -533,7 +533,7 @@ has_number_of_group = `=this.dv_has_number_of_group`
 > though their chemistry was unknown until the seventeenth century. 
 > 
 > Pure calcium was isolated in 1808 via electrolysis of its oxide 
-> by [[../Group-17-Halogen/Davy,Humphry]], who named the element. 
+> by [[../Group-17-Halogen/Davy,Humphry|Davy,Humphry]], who named the element. 
 > 
 > Calcium compounds are widely used in many industries: 
 > in foods and pharmaceuticals for calcium supplementation, 

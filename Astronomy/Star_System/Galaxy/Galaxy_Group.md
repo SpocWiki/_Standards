@@ -55,10 +55,10 @@ aliases:
 - 銀河群
 - 은하군
 has_id_wikidata: Q1491746
-different_from: '[[_Standards/WikiData/WD~galaxy_cluster,204107]]'
-subclass_of: '[[_Standards/WikiData/WD~galaxy_group_or_cluster,14515149]]'
-instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909]]'
-has_part_s_of_the_class: '[[_Standards/WikiData/WD~galaxy,318]]'
+different_from: '[[_Standards/WikiData/WD~galaxy_cluster,204107|WD~galaxy_cluster,204107]]'
+subclass_of: '[[_Standards/WikiData/WD~galaxy_group_or_cluster,14515149|WD~galaxy_group_or_cluster,14515149]]'
+instance_of: '[[_Standards/WikiData/WD~astronomical_object_type,17444909|WD~astronomical_object_type,17444909]]'
+has_part_s_of_the_class: '[[_Standards/WikiData/WD~galaxy,318|WD~galaxy,318]]'
 Commons_category: Galaxy groups
 dv_is_:
   same_as:

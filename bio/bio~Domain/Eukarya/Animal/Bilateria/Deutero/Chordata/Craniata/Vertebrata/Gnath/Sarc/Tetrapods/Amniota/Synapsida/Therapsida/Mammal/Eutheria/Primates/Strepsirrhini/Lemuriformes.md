@@ -42,11 +42,11 @@ aliases:
 - 狐猴型下目
 - 여우원숭이
 has_id_wikidata: Q37212
-parent_taxon: '[[_Standards/WikiData/WD~Strepsirrhini,82265]]'
-taxon_rank: '[[_Standards/WikiData/WD~infraorder,2889003]]'
-described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-endemic_to: '[[_Standards/WikiData/WD~Madagascar,1019]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
+parent_taxon: '[[_Standards/WikiData/WD~Strepsirrhini,82265|WD~Strepsirrhini,82265]]'
+taxon_rank: '[[_Standards/WikiData/WD~infraorder,2889003|WD~infraorder,2889003]]'
+described_by_source: '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+endemic_to: '[[_Standards/WikiData/WD~Madagascar,1019|WD~Madagascar,1019]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
 ITIS_TSN: 943776
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Indri%20Indri.jpg

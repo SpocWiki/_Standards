@@ -78,21 +78,21 @@ aliases:
 - 열용량
 has_id_wikidata: Q179388
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~extensive_quantity,3386703]]'
-- '[[_Standards/WikiData/WD~thermodynamic_material_property,3523867]]'
-different_from: '[[_Standards/WikiData/WD~specific_heat_capacity,487756]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~extensive_quantity,3386703|WD~extensive_quantity,3386703]]'
+- '[[_Standards/WikiData/WD~thermodynamic_material_property,3523867|WD~thermodynamic_material_property,3523867]]'
+different_from: '[[_Standards/WikiData/WD~specific_heat_capacity,487756|WD~specific_heat_capacity,487756]]'
 described_by_source:
-- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~ISO_80000_5_2007_Quantities_and_units_Part_5_Thermodynamics,26711934]]'
-- '[[_Standards/WikiData/WD~ISO_80000_5_2019_Quantities_and_units_Part_5_Thermodynamics,92157468]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~ISO_80000_5_2007_Quantities_and_units_Part_5_Thermodynamics,26711934|WD~ISO_80000_5_2007_Quantities_and_units_Part_5_Thermodynamics,26711934]]'
+- '[[_Standards/WikiData/WD~ISO_80000_5_2019_Quantities_and_units_Part_5_Thermodynamics,92157468|WD~ISO_80000_5_2019_Quantities_and_units_Part_5_Thermodynamics,92157468]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 recommended_unit_of_measurement:
-- '[[_Standards/WikiData/WD~joule_per_kelvin_difference,68975544]]'
-- '[[_Standards/WikiData/WD~kilogram_square_metre_per_square_second_kelvin,106696962]]'
+- '[[_Standards/WikiData/WD~joule_per_kelvin_difference,68975544|WD~joule_per_kelvin_difference,68975544]]'
+- '[[_Standards/WikiData/WD~kilogram_square_metre_per_square_second_kelvin,106696962|WD~kilogram_square_metre_per_square_second_kelvin,106696962]]'
 defining_formula: <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>C</mi><mo stretchy="false">=</mo><mrow data-mjx-texclass="ORD"><mfrac><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">d</mi></mrow><mi>Q</mi></mrow></mrow><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">d</mi></mrow><mi>T</mi></mrow></mrow></mfrac></mrow></mstyle></mrow></math>
 ISQ_dimension: "<math class=\"mwe-math-element mwe-math-element-inline\" xmlns=\"http://www.w3.org/1998/Math/MathML\"><mrow data-mjx-texclass=\"ORD\"><mstyle displaystyle=\"true\" scriptlevel=\"0\"><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AB</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mn>2</mn></mrow></msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5AC</mi></mrow><msup><mrow data-mjx-texclass=\"ORD\"><mi>\U0001D5B3</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mo stretchy=\"false\">&#x2212;</mo><mn>2</mn></mrow></mrow></msup><msup><mrow data-mjx-texclass=\"ORD\"><mi mathvariant=\"normal\">&#x0398;</mi></mrow><mrow data-mjx-texclass=\"ORD\"><mrow data-mjx-texclass=\"ORD\"><mo stretchy=\"false\">&#x2212;</mo><mn>1</mn></mrow></mrow></msup></mstyle></mrow></math>"
-studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473]]'
+studied_by: '[[_Standards/WikiData/WD~thermodynamics,11473|WD~thermodynamics,11473]]'
 in_defining_formula:
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>Q</mi></mstyle></mrow></math>
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mi>T</mi></mstyle></mrow></math>

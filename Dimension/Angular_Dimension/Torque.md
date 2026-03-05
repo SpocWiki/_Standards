@@ -98,13 +98,13 @@ defining_formula: >-
     </semantics>
   </math>
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~ISO_80000-4_2006_Quantities_and_units_Part_4__Mechanics,26711933]]'
-- '[[_Standards/WikiData/WD~ISO_80000-4_2019_Quantities_and_units___Part_4__Mechanics,73391977]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
-different_from: '[[_Standards/WikiData/WD~moment_of_force,17232562]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~ISO_80000-4_2006_Quantities_and_units_Part_4__Mechanics,26711933|WD~ISO_80000-4_2006_Quantities_and_units_Part_4__Mechanics,26711933]]'
+- '[[_Standards/WikiData/WD~ISO_80000-4_2019_Quantities_and_units___Part_4__Mechanics,73391977|WD~ISO_80000-4_2019_Quantities_and_units___Part_4__Mechanics,73391977]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635|WD~Armenian_Soviet_Encyclopedia,_vol._8,124737635]]'
+different_from: '[[_Standards/WikiData/WD~moment_of_force,17232562|WD~moment_of_force,17232562]]'
 IEV_number: 113-03-26
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Koppel1.png
 in_defining_formula:
@@ -188,7 +188,7 @@ ISQ_dimension: >-
       <annotation encoding="application/x-tex">{\displaystyle {\mathsf {M}}{\mathsf {L}}^{2}{\mathsf {T}}^{-2}}</annotation>
     </semantics>
   </math>
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 MeSH_tree_code: G01.374.860.500
 quantity_symbol_LaTeX_:
 - >-
@@ -221,13 +221,13 @@ quantity_symbol_LaTeX_:
     </semantics>
   </math>
 recommended_unit_of_measurement:
-- '[[_Standards/WikiData/WD~newton_metre,215571]]'
-- '[[_Standards/WikiData/WD~kilogram_square_metre_per_square_second,106681350]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q107294532,107294532]]'
+- '[[_Standards/WikiData/WD~newton_metre,215571|WD~newton_metre,215571]]'
+- '[[_Standards/WikiData/WD~kilogram_square_metre_per_square_second,106681350|WD~kilogram_square_metre_per_square_second,106681350]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q107294532,107294532|WD~Q107294532,107294532]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~physical_quantity,107715]]'
-- '[[_Standards/WikiData/WD~scalar_quantity,181175]]'
-- '[[_Standards/WikiData/WD~moment,13222844]]'
+- '[[_Standards/WikiData/WD~physical_quantity,107715|WD~physical_quantity,107715]]'
+- '[[_Standards/WikiData/WD~scalar_quantity,181175|WD~scalar_quantity,181175]]'
+- '[[_Standards/WikiData/WD~moment,13222844|WD~moment,13222844]]'
 UMLS_CUI: C0376590
 video: http://commons.wikimedia.org/wiki/Special:FilePath/%D0%92%D1%80%D0%B0%D1%89%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%20%D0%BC%D0%BE%D0%BC%D0%B5%D0%BD%D1%82.webm
 Wikidata_property: torque
@@ -325,9 +325,9 @@ dv_has_:
 
 #is_/similar_to :: [[../../Science/Physics/Force|Force]] 
 
-This is the angular Equivalent to [[../Linear_Dimension/Force]]. 
+This is the angular Equivalent to [[../Linear_Dimension/Force|Force]]. 
 
-The SI-Unit is [[Torque/Unit~NewtonMeter]]. 
+The SI-Unit is [[Torque/Unit~NewtonMeter|Unit~NewtonMeter]]. 
 #is_/same_as :: [[../../WikiData/WD~Torque,48103|WD~Torque,48103]]
 
 ## #has_/text_of_/abstract 

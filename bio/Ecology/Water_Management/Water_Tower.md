@@ -61,16 +61,16 @@ aliases:
 - 給水塔
 - 급수탑
 has_id_wikidata: Q274153
-has_use: '[[_Standards/WikiData/WD~water_supply,1061108]]'
+has_use: '[[_Standards/WikiData/WD~water_supply,1061108|WD~water_supply,1061108]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~technical_monument,1516537]]'
-- '[[_Standards/WikiData/WD~water_storage,7973769]]'
-- '[[_Standards/WikiData/WD~tower,12518]]'
-has_part_s_: '[[_Standards/WikiData/WD~water_tank,6501028]]'
+- '[[_Standards/WikiData/WD~technical_monument,1516537|WD~technical_monument,1516537]]'
+- '[[_Standards/WikiData/WD~water_storage,7973769|WD~water_storage,7973769]]'
+- '[[_Standards/WikiData/WD~tower,12518|WD~tower,12518]]'
+has_part_s_: '[[_Standards/WikiData/WD~water_tank,6501028|WD~water_tank,6501028]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~Q59078986,59078986]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636|WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~Q59078986,59078986|WD~Q59078986,59078986]]'
 Nomenclature_for_Museum_Cataloging: 797
 image:
 - http://commons.wikimedia.org/wiki/Special:FilePath/Roihuvuori%20water%20tower%20-%20Helsinki%20Finland.jpg

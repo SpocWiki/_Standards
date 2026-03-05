@@ -36,9 +36,9 @@ Tag Instances like this:
 A specific branch of medical science that pertains to hereditary transmission by [[../../../Genetics/Gene|Gene]]s
 and the variation of inherited characteristics and disorders.
 
-#has_/parent_class :: [[../MedicalSpecialty]]  
+#has_/parent_class :: [[../MedicalSpecialty|MedicalSpecialty]]  
 
-#is_/enum_of :: [[../MedicalSpecialty]]  
+#is_/enum_of :: [[../MedicalSpecialty|MedicalSpecialty]]  
 
 ## Confidential Links & Embeds: 
 

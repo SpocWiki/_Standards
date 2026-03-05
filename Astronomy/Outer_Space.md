@@ -128,22 +128,22 @@ aliases:
 - ꯑꯇꯤꯡꯀꯣꯛ (ꯅꯩꯅꯂꯣꯟ)
 - 우주 공간
 has_id_wikidata: Q4169
-instance_of: '[[_Standards/WikiData/WD~region,82794]]'
+instance_of: '[[_Standards/WikiData/WD~region,82794|WD~region,82794]]'
 studied_by:
-- '[[_Standards/WikiData/WD~space_exploration,180046]]'
-- '[[_Standards/WikiData/WD~space_sciences,1195766]]'
-- '[[_Standards/WikiData/WD~astronautics,22719]]'
+- '[[_Standards/WikiData/WD~space_exploration,180046|WD~space_exploration,180046]]'
+- '[[_Standards/WikiData/WD~space_sciences,1195766|WD~space_sciences,1195766]]'
+- '[[_Standards/WikiData/WD~astronautics,22719|WD~astronautics,22719]]'
 has_use:
-- '[[_Standards/WikiData/WD~space_colonization,686876]]'
-- '[[_Standards/WikiData/WD~spaceflight,5916]]'
-said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q12340732,12340732]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Space,15305018]]'
-topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Space,15613292]]'
-described_by_source: '[[_Standards/WikiData/WD~Brockhaus_Enzyklopädie_(19_ed.),17377889]]'
+- '[[_Standards/WikiData/WD~space_colonization,686876|WD~space_colonization,686876]]'
+- '[[_Standards/WikiData/WD~spaceflight,5916|WD~spaceflight,5916]]'
+said_to_be_the_same_as: '[[_Standards/WikiData/WD~Q12340732,12340732|WD~Q12340732,12340732]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Space,15305018|WD~WikiProject_Space,15305018]]'
+topic_s_main_Wikimedia_portal: '[[_Standards/WikiData/WD~Portal_Space,15613292|WD~Portal_Space,15613292]]'
+described_by_source: '[[_Standards/WikiData/WD~Brockhaus_Enzyklopädie_(19_ed.),17377889|WD~Brockhaus_Enzyklopädie_(19_ed.),17377889]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~vacuum,11475]]'
-- '[[_Standards/WikiData/WD~space,107]]'
-opposite_of: '[[_Standards/WikiData/WD~Earth,2]]'
+- '[[_Standards/WikiData/WD~vacuum,11475|WD~vacuum,11475]]'
+- '[[_Standards/WikiData/WD~space,107|WD~space,107]]'
+opposite_of: '[[_Standards/WikiData/WD~Earth,2|WD~Earth,2]]'
 Dewey_Decimal_Classification:
 - 520
 - 333.94
@@ -165,7 +165,7 @@ Mastodon_instance_URL: https://spacey.space
 Commons_category: Outer space
 dv_is_:
   same_as:
-  - '[[../WikiData/WD~Outer_space,4169]]'
+  - '[[../WikiData/WD~Outer_space,4169|WD~Outer_space,4169]]'
   - '[[/_Standards/Astronomy/Outer_Space|Outer_Space]]'
   - '[[/_public/Astronomy/Outer_Space.public|Outer_Space.public]]'
   - '[[/_internal/Astronomy/Outer_Space.internal|Outer_Space.internal]]'
@@ -174,7 +174,7 @@ dv_is_:
   - '[[/_personal/Astronomy/Outer_Space.personal|Outer_Space.personal]]'
   - '[[/_secret/Astronomy/Outer_Space.secret|Outer_Space.secret]]'
 dv_is_same_as:
-- '[[../WikiData/WD~Outer_space,4169]]'
+- '[[../WikiData/WD~Outer_space,4169|WD~Outer_space,4169]]'
 - '[[/_Standards/Astronomy/Outer_Space|Outer_Space]]'
 - '[[/_public/Astronomy/Outer_Space.public|Outer_Space.public]]'
 - '[[/_internal/Astronomy/Outer_Space.internal|Outer_Space.internal]]'

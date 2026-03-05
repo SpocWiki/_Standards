@@ -60,21 +60,21 @@ aliases:
 - 中毒
 has_id_wikidata: Q114953
 has_effect:
-- '[[_Standards/WikiData/WD~nausea,186889]]'
-- '[[_Standards/WikiData/WD~intoxication,18621601]]'
+- '[[_Standards/WikiData/WD~nausea,186889|WD~nausea,186889]]'
+- '[[_Standards/WikiData/WD~intoxication,18621601|WD~intoxication,18621601]]'
 instance_of:
-- '[[_Standards/WikiData/WD~effect,926230]]'
-- '[[_Standards/WikiData/WD~cause_of_death,1931388]]'
+- '[[_Standards/WikiData/WD~effect,926230|WD~effect,926230]]'
+- '[[_Standards/WikiData/WD~cause_of_death,1931388|WD~cause_of_death,1931388]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~major_trauma,1064904]]'
-- '[[_Standards/WikiData/WD~process,3249551]]'
-- '[[_Standards/WikiData/WD~chemically_induced_disorder,54930906]]'
-handled_mitigated_or_managed_by: '[[_Standards/WikiData/WD~Mithridatism,1796204]]'
-health_specialty: '[[_Standards/WikiData/WD~medical_toxicology,6806614]]'
-has_contributing_factor: '[[_Standards/WikiData/WD~impact_of_the_environment,26897695]]'
+- '[[_Standards/WikiData/WD~major_trauma,1064904|WD~major_trauma,1064904]]'
+- '[[_Standards/WikiData/WD~process,3249551|WD~process,3249551]]'
+- '[[_Standards/WikiData/WD~chemically_induced_disorder,54930906|WD~chemically_induced_disorder,54930906]]'
+handled_mitigated_or_managed_by: '[[_Standards/WikiData/WD~Mithridatism,1796204|WD~Mithridatism,1796204]]'
+health_specialty: '[[_Standards/WikiData/WD~medical_toxicology,6806614|WD~medical_toxicology,6806614]]'
+has_contributing_factor: '[[_Standards/WikiData/WD~impact_of_the_environment,26897695|WD~impact_of_the_environment,26897695]]'
 has_cause:
-- '[[_Standards/WikiData/WD~deliberate_poisoning,51159762]]'
-- '[[_Standards/WikiData/WD~poison,40867]]'
+- '[[_Standards/WikiData/WD~deliberate_poisoning,51159762|WD~deliberate_poisoning,51159762]]'
+- '[[_Standards/WikiData/WD~poison,40867|WD~poison,40867]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Alexandre%20Cabanel%20-%20Cl%C3%A9opatre%20essayant%20des%20poisons%20sur%20des%20condamn%C3%A9s%20%C3%A0%20mort.jpg
 WordLift_URL: http://data.thenextweb.com/tnw/entity/poisoning
 MIL_STD_2525_Symbol_Identification_Code: 10014000001101090000
@@ -156,7 +156,7 @@ dv_has_:
 
 # [[Poisoning]] 
 
-#is_/same_as :: [[_Standards/WikiData/WD~poisoning,114953]]
+#is_/same_as :: [[_Standards/WikiData/WD~poisoning,114953|WD~poisoning,114953]]
 
 ## #has_/text_of_/abstract 
 

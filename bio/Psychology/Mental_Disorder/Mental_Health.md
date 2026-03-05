@@ -85,24 +85,24 @@ aliases:
 - 정신건강
 has_id_wikidata: Q317309
 practiced_by:
-- '[[_Standards/WikiData/WD~psychiatrist,211346]]'
-- '[[_Standards/WikiData/WD~psychologist,212980]]'
-- '[[_Standards/WikiData/WD~psychotherapist,1900167]]'
-- '[[_Standards/WikiData/WD~mental_health_professional,6817473]]'
-- '[[_Standards/WikiData/WD~social_worker,10550533]]'
-has_cause: '[[_Standards/WikiData/WD~mental_hygiene,1175969]]'
+- '[[_Standards/WikiData/WD~psychiatrist,211346|WD~psychiatrist,211346]]'
+- '[[_Standards/WikiData/WD~psychologist,212980|WD~psychologist,212980]]'
+- '[[_Standards/WikiData/WD~psychotherapist,1900167|WD~psychotherapist,1900167]]'
+- '[[_Standards/WikiData/WD~mental_health_professional,6817473|WD~mental_health_professional,6817473]]'
+- '[[_Standards/WikiData/WD~social_worker,10550533|WD~social_worker,10550533]]'
+has_cause: '[[_Standards/WikiData/WD~mental_hygiene,1175969|WD~mental_hygiene,1175969]]'
 subclass_of:
-- '[[_Standards/WikiData/WD~health_psychology,1403186]]'
-- '[[_Standards/WikiData/WD~health,12147]]'
-instance_of: '[[_Standards/WikiData/WD~mental_state,3968640]]'
+- '[[_Standards/WikiData/WD~health_psychology,1403186|WD~health_psychology,1403186]]'
+- '[[_Standards/WikiData/WD~health,12147|WD~health,12147]]'
+instance_of: '[[_Standards/WikiData/WD~mental_state,3968640|WD~mental_state,3968640]]'
 facet_of:
-- '[[_Standards/WikiData/WD~well_being,7981051]]'
-- '[[_Standards/WikiData/WD~quality_of_life,13100823]]'
-- '[[_Standards/WikiData/WD~health_risk,87075524]]'
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832]]'
-part_of: '[[_Standards/WikiData/WD~counselling,_wellbeing_and_community_services,113192683]]'
-described_by_source: '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072]]'
-opposite_of: '[[_Standards/WikiData/WD~mental_disorder,12135]]'
+- '[[_Standards/WikiData/WD~well_being,7981051|WD~well_being,7981051]]'
+- '[[_Standards/WikiData/WD~quality_of_life,13100823|WD~quality_of_life,13100823]]'
+- '[[_Standards/WikiData/WD~health_risk,87075524|WD~health_risk,87075524]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Zika_Corpus,54439832|WD~WikiProject_Zika_Corpus,54439832]]'
+part_of: '[[_Standards/WikiData/WD~counselling,_wellbeing_and_community_services,113192683|WD~counselling,_wellbeing_and_community_services,113192683]]'
+described_by_source: '[[_Standards/WikiData/WD~Red_Blue_Translator,131935072|WD~Red_Blue_Translator,131935072]]'
+opposite_of: '[[_Standards/WikiData/WD~mental_disorder,12135|WD~mental_disorder,12135]]'
 IAB_code: 301
 social_media_followers: 393506
 U_S_National_Archives_Identifier: 10643483

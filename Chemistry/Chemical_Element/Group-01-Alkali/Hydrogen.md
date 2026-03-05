@@ -170,61 +170,61 @@ aliases:
 - ꯍꯥꯏꯗ꯭ꯔꯣꯖꯦꯟ
 - 수소
 has_id_wikidata: Q556
-antiparticle: '[[_Standards/WikiData/WD~antihydrogen,216121]]'
+antiparticle: '[[_Standards/WikiData/WD~antihydrogen,216121|WD~antihydrogen,216121]]'
 atomic_number: 1
 boiling_point: -252.87
 CAS_Registry_Number: 12385-13-6
 Colon_Classification: E110
-color: '[[_Standards/WikiData/WD~colorless,1396399]]'
+color: '[[_Standards/WikiData/WD~colorless,1396399|WD~colorless,1396399]]'
 Commons_category: Hydrogen
 Commons_gallery: Hydrogen
 density: 0.08987
 described_by_source:
-- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~Hydrogen,108309723]]'
+- '[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,2657718|WD~Armenian_Soviet_Encyclopedia,2657718]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations-Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~Hydrogen,108309723|WD~Hydrogen,108309723]]'
 Dewey_Decimal_Classification:
 - 546.21
 - 553.92
 different_from:
-- '[[_Standards/WikiData/WD~dihydrogen,3027893]]'
-- '[[_Standards/WikiData/WD~hydrogen_atom,6643508]]'
-- '[[_Standards/WikiData/WD~hydrogen_molecule,19822725]]'
-discoverer_or_inventor: '[[_Standards/WikiData/WD~Henry_Cavendish,131733]]'
+- '[[_Standards/WikiData/WD~dihydrogen,3027893|WD~dihydrogen,3027893]]'
+- '[[_Standards/WikiData/WD~hydrogen_atom,6643508|WD~hydrogen_atom,6643508]]'
+- '[[_Standards/WikiData/WD~hydrogen_molecule,19822725|WD~hydrogen_molecule,19822725]]'
+discoverer_or_inventor: '[[_Standards/WikiData/WD~Henry_Cavendish,131733|WD~Henry_Cavendish,131733]]'
 electronegativity: 2.2
 electron_configuration: 1s¹
 element_symbol: H
 E_number: E949
-has_use: '[[_Standards/WikiData/WD~food_additive,189567]]'
+has_use: '[[_Standards/WikiData/WD~food_additive,189567|WD~food_additive,189567]]'
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Hydrogen%20discharge%20tube.jpg
 instance_of:
-- '[[_Standards/WikiData/WD~atmophile_element,2313842]]'
-- '[[_Standards/WikiData/WD~chemical_element,11344]]'
+- '[[_Standards/WikiData/WD~atmophile_element,2313842|WD~atmophile_element,2313842]]'
+- '[[_Standards/WikiData/WD~chemical_element,11344|WD~chemical_element,11344]]'
 ionic_radius: 54
 ionization_energy: 13.598
 Krugosvet_article: nauka_i_tehnika/himiya/VODOROD.html
-location_of_discovery: '[[_Standards/WikiData/WD~United_Kingdom,145]]'
+location_of_discovery: '[[_Standards/WikiData/WD~United_Kingdom,145|WD~United_Kingdom,145]]'
 mass: 1.008
 melting_point: -259.14
 MeSH_tree_code:
 - D01.268.406
 - D01.362.340
 molar_enthalpy_of_vaporization: 0.452
-named_after: '[[_Standards/WikiData/WD~water,283]]'
+named_after: '[[_Standards/WikiData/WD~water,283|WD~water,283]]'
 OmegaWiki_Defined_Meaning: 1823
-on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047]]'
+on_focus_list_of_Wikimedia_project: '[[_Standards/WikiData/WD~WikiProject_Climate_change,15305047|WD~WikiProject_Climate_change,15305047]]'
 oxidation_state:
 - -1
 - 0
 - 1
 part_of:
-- '[[_Standards/WikiData/WD~period_1,191936]]'
-- '[[_Standards/WikiData/WD~group_1,10801007]]'
-- '[[_Standards/WikiData/WD~water,283]]'
-permanent_duplicated_item: '[[_Standards/WikiData/WD~Q57873859,57873859]]'
+- '[[_Standards/WikiData/WD~period_1,191936|WD~period_1,191936]]'
+- '[[_Standards/WikiData/WD~group_1,10801007|WD~group_1,10801007]]'
+- '[[_Standards/WikiData/WD~water,283|WD~water,283]]'
+permanent_duplicated_item: '[[_Standards/WikiData/WD~Q57873859,57873859|WD~Q57873859,57873859]]'
 pronunciation_audio: http://commons.wikimedia.org/wiki/Special:FilePath/Hydrogen-ar.ogg
 refractive_index: 1.000132
 speed_of_sound: 1270
@@ -232,7 +232,7 @@ SpocWebEntityId: 21904
 Stack_Exchange_tag:
 - https://chemistry.stackexchange.com/tags/hydrogen
 - https://physics.stackexchange.com/tags/hydrogen
-subclass_of: '[[_Standards/WikiData/WD~nonmetal,19600]]'
+subclass_of: '[[_Standards/WikiData/WD~nonmetal,19600|WD~nonmetal,19600]]'
 thermal_conductivity: 0.1805
 time_of_discovery_or_invention: 1766
 type: Element
@@ -240,7 +240,7 @@ UMLS_CUI: C0020275
 video: http://commons.wikimedia.org/wiki/Special:FilePath/Hydrogen%20balloon%20explosion%202.webm
 Wolfram_Language_entity_code: Entity["Element", "Hydrogen"]
 dv_has_:
-  created: '[[Hydrogen/Hydrogen_Embrittlement]]'
+  created: '[[Hydrogen/Hydrogen_Embrittlement|Hydrogen_Embrittlement]]'
   name_:
     abbreviated: H
     af: waterstof
@@ -522,9 +522,9 @@ dv_has_:
       boil_:
         c: -252.87
 dv_is_:
-  part_of: '[[../Group-01-Alkali]]'
+  part_of: '[[../Group-01-Alkali|Group-01-Alkali]]'
   same_as:
-  - '[[../../../WikiData/WD~Hydrogen,556]]'
+  - '[[../../../WikiData/WD~Hydrogen,556|WD~Hydrogen,556]]'
   - '[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen|Hydrogen]]'
   - '[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.public|Hydrogen.public]]'
   - '[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.internal|Hydrogen.internal]]'
@@ -533,8 +533,8 @@ dv_is_:
   - '[[/_personal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.personal|Hydrogen.personal]]'
   - '[[/_secret/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.secret|Hydrogen.secret]]'
 dv_has_name_group: Group-01-Alkali
-dv_is_part_of: '[[../Group-01-Alkali]]'
-dv_has_created: '[[Hydrogen/Hydrogen_Embrittlement]]'
+dv_is_part_of: '[[../Group-01-Alkali|Group-01-Alkali]]'
+dv_has_created: '[[Hydrogen/Hydrogen_Embrittlement|Hydrogen_Embrittlement]]'
 dv_has_name_en: Hydrogenium
 dv_has_name_de: Wasserstoff
 dv_has_name_abbreviated: H
@@ -555,7 +555,7 @@ dv_has_number_of_period: 1
 dv_has_number_of_group: 1
 dv_has_number_of_electrons: 1
 dv_is_same_as:
-- '[[../../../WikiData/WD~Hydrogen,556]]'
+- '[[../../../WikiData/WD~Hydrogen,556|WD~Hydrogen,556]]'
 - '[[/_Standards/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen|Hydrogen]]'
 - '[[/_public/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.public|Hydrogen.public]]'
 - '[[/_internal/Chemistry/Chemical_Element/Group-01-Alkali/Hydrogen.internal|Hydrogen.internal]]'
@@ -596,7 +596,7 @@ has_number_of_period = `=this.dv_has_number_of_period`
 has_number_of_group = `=this.dv_has_number_of_group` 
 has_number_of_electrons = `=this.dv_has_number_of_electrons` 
 
-#is_/same_as :: [[../../../WikiData/WD~Hydrogen,556]] 
+#is_/same_as :: [[../../../WikiData/WD~Hydrogen,556|WD~Hydrogen,556]] 
 
 ## #has_/text_of_/abstract 
 

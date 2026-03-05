@@ -31,13 +31,13 @@ aliases:
 - 파섹
 has_id_wikidata: Q12129
 instance_of:
-- '[[_Standards/WikiData/WD~unit_of_length,1978718]]'
-- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057]]'
-different_from: '[[_Standards/WikiData/WD~Parsec,3366052]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137]]'
+- '[[_Standards/WikiData/WD~unit_of_length,1978718|WD~unit_of_length,1978718]]'
+- '[[_Standards/WikiData/WD~UCUM_derived_unit,82047057|WD~UCUM_derived_unit,82047057]]'
+different_from: '[[_Standards/WikiData/WD~Parsec,3366052|WD~Parsec,3366052]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Mathematics,8487137|WD~WikiProject_Mathematics,8487137]]'
 described_by_source:
-- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
-- '[[_Standards/WikiData/WD~ISO_80000_3_2006_Quantities_and_units_Part_3_Space_and_time,26711932]]'
+- '[[_Standards/WikiData/WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752|WD~Meyers_Konversations_Lexikon,_4th_edition_(1885_1890),19219752]]'
+- '[[_Standards/WikiData/WD~ISO_80000_3_2006_Quantities_and_units_Part_3_Space_and_time,26711932|WD~ISO_80000_3_2006_Quantities_and_units_Part_3_Space_and_time,26711932]]'
 in_defining_formula:
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">k</mi><mi mathvariant="normal">m</mi></mrow></mrow></mstyle></mrow></math>
 - <math class="mwe-math-element mwe-math-element-inline" xmlns="http://www.w3.org/1998/Math/MathML"><mrow data-mjx-texclass="ORD"><mstyle displaystyle="true" scriptlevel="0"><mrow data-mjx-texclass="ORD"><mrow data-mjx-texclass="ORD"><mi mathvariant="normal">a</mi><mi mathvariant="normal">u</mi></mrow></mrow></mstyle></mrow></math>
@@ -51,7 +51,7 @@ conversion_to_standard_unit:
 - 206264.8
 - 101236140949185000
 - 33745380316394900
-measured_physical_quantity: '[[_Standards/WikiData/WD~length,36253]]'
+measured_physical_quantity: '[[_Standards/WikiData/WD~length,36253|WD~length,36253]]'
 UCUM_code: pc
 UN_CEFACT_Common_Code: C63
 unit_symbol:

@@ -67,19 +67,19 @@ aliases:
 - 말과
 has_id_wikidata: Q165115
 described_by_source:
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543]]"
-- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511]]'
-- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- "[[_Standards/WikiData/WD~Otto's_encyclopedia,2041543|WD~Otto's_encyclopedia,2041543]]"
+- '[[_Standards/WikiData/WD~New_Encyclopedic_Dictionary,19190511|WD~New_Encyclopedic_Dictionary,19190511]]'
+- '[[_Standards/WikiData/WD~Great_Soviet_Encyclopedia_(1926_1947),20078554|WD~Great_Soviet_Encyclopedia_(1926_1947),20078554]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633|WD~Armenian_Soviet_Encyclopedia,_vol._6,124737633]]'
 parent_taxon:
-- '[[_Standards/WikiData/WD~Hippomorpha,2292292]]'
-- '[[_Standards/WikiData/WD~Equoidea,21445554]]'
-has_list: '[[_Standards/WikiData/WD~glossary_of_equestrian_terms,2950573]]'
-topic_has_template: '[[_Standards/WikiData/WD~Template_Taxonomy_Equidae,13218338]]'
-code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011]]'
-instance_of: '[[_Standards/WikiData/WD~taxon,16521]]'
-taxon_rank: '[[_Standards/WikiData/WD~family,35409]]'
+- '[[_Standards/WikiData/WD~Hippomorpha,2292292|WD~Hippomorpha,2292292]]'
+- '[[_Standards/WikiData/WD~Equoidea,21445554|WD~Equoidea,21445554]]'
+has_list: '[[_Standards/WikiData/WD~glossary_of_equestrian_terms,2950573|WD~glossary_of_equestrian_terms,2950573]]'
+topic_has_template: '[[_Standards/WikiData/WD~Template_Taxonomy_Equidae,13218338|WD~Template_Taxonomy_Equidae,13218338]]'
+code_of_nomenclature: '[[_Standards/WikiData/WD~International_Code_of_Zoological_Nomenclature,13011|WD~International_Code_of_Zoological_Nomenclature,13011]]'
+instance_of: '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+taxon_rank: '[[_Standards/WikiData/WD~family,35409|WD~family,35409]]'
 OmegaWiki_Defined_Meaning: 1335
 ITIS_TSN: 180688
 image: http://commons.wikimedia.org/wiki/Special:FilePath/Equus%20species.jpg
@@ -249,18 +249,18 @@ Here are some notable members of the Equidae family:
 ## Horse (Equus ferus caballus):  
 
 Domesticated over thousands of years, horses have served humans in various capacities, from transportation and agriculture to warfare and sports.
-![[Equidae/Horse/Andalusier.jpg]]]
+![[Equidae/Horse/Andalusier.jpg|Andalusier.jpg]]]
 
 
 ## Donkey (Equus africanus asinus): 
 
 Donkeys have been domesticated for thousands of years and are used primarily as working animals, particularly in areas with rough terrain where they excel due to their surefootedness and ability to carry heavy loads.
-![[Equidae/Donkey/Donkey.jpg]]] 
+![[Equidae/Donkey/Donkey.jpg|Donkey.jpg]]] 
 
 ## Zebra (several species in the genus Equus): 
 
 Zebras are wild equids native to Africa and are known for their distinctive black-and-white striped coats. While they have been domesticated to a limited extent, they primarily live in the wild and are admired for their beauty and unique social behaviors.
-![[Equidae/Equus_grevyi.jpg]]] 
+![[Equidae/Equus_grevyi.jpg|Equus_grevyi.jpg]]] 
 
 Equidae species have undergone significant evolutionary changes over time, adapting to various environmental pressures and human interactions. Their historical and cultural significance, as well as their ecological roles, make them subjects of interest in fields such as biology, zoology, anthropology, and conservation.
 

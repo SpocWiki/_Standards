@@ -60,15 +60,15 @@ aliases:
 - 捕鯨
 - 고래잡이
 has_id_wikidata: Q42767
-instance_of: '[[_Standards/WikiData/WD~industry,268592]]'
+instance_of: '[[_Standards/WikiData/WD~industry,268592|WD~industry,268592]]'
 described_by_source:
-- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
-archives_at: '[[_Standards/WikiData/WD~International_Institute_of_Social_History,1667757]]'
-practiced_by: '[[_Standards/WikiData/WD~whaler,28466165]]'
-maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Animal_heritage,115236198]]'
-subclass_of: '[[_Standards/WikiData/WD~fishing,14373]]'
+- '[[../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Encyclopædia_Britannica_11th_edition,867541|WD~Encyclopædia_Britannica_11th_edition,867541]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632|WD~Armenian_Soviet_Encyclopedia,_vol._5,124737632]]'
+archives_at: '[[_Standards/WikiData/WD~International_Institute_of_Social_History,1667757|WD~International_Institute_of_Social_History,1667757]]'
+practiced_by: '[[_Standards/WikiData/WD~whaler,28466165|WD~whaler,28466165]]'
+maintained_by_WikiProject: '[[_Standards/WikiData/WD~WikiProject_Animal_heritage,115236198|WD~WikiProject_Animal_heritage,115236198]]'
+subclass_of: '[[_Standards/WikiData/WD~fishing,14373|WD~fishing,14373]]'
 Commons_gallery: Whaling
 Commons_category: Whaling
 U_S_National_Archives_Identifier: 10643617

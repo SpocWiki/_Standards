@@ -52,17 +52,17 @@ aliases:
 - 黑线鳕
 - 해덕대구
 has_id_wikidata: Q202406
-IUCN_conservation_status: '[[_Standards/WikiData/WD~Vulnerable,278113]]'
-subclass_of: '[[_Standards/WikiData/WD~fish_as_food,600396]]'
+IUCN_conservation_status: '[[_Standards/WikiData/WD~Vulnerable,278113|WD~Vulnerable,278113]]'
+subclass_of: '[[_Standards/WikiData/WD~fish_as_food,600396|WD~fish_as_food,600396]]'
 described_by_source:
-- '[[../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
-- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
-- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
+- '[[../../../../../../../../../../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]'
+- '[[_Standards/WikiData/WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675|WD~Small_Brockhaus_and_Efron_Encyclopedic_Dictionary,19180675]]'
+- '[[_Standards/WikiData/WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636|WD~Armenian_Soviet_Encyclopedia,_vol._9,124737636]]'
 instance_of:
-- '[[_Standards/WikiData/WD~food_product,951964]]'
-- '[[_Standards/WikiData/WD~taxon,16521]]'
-parent_taxon: '[[_Standards/WikiData/WD~Melanogrammus,17379593]]'
-taxon_rank: '[[_Standards/WikiData/WD~species,7432]]'
+- '[[_Standards/WikiData/WD~food_product,951964|WD~food_product,951964]]'
+- '[[_Standards/WikiData/WD~taxon,16521|WD~taxon,16521]]'
+parent_taxon: '[[_Standards/WikiData/WD~Melanogrammus,17379593|WD~Melanogrammus,17379593]]'
+taxon_rank: '[[_Standards/WikiData/WD~species,7432|WD~species,7432]]'
 ITIS_TSN: 164744
 OmegaWiki_Defined_Meaning: 1153638
 taxon_common_name:
